@@ -1,4 +1,4 @@
 ---
-title: ००६ युद्धकाण्डम्
+title: ००६
 unicode_script: devanagari
 ---
