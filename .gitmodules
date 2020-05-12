@@ -1,0 +1,9 @@
+[submodule "koshaH/dhavala-sangrahaH"]
+	path = koshaH/dhavala-sangrahaH
+	url = git@github.com:sanskrit-kosha/kosha.git
+[submodule "vyAkaraNam/aShTAdhyAyI-com-data"]
+	path = vyAkaraNam/aShTAdhyAyI-com-data
+	url = https://github.com/ashtadhyayi-com/data.git
+[submodule "vyAkaraNam/aShTAdhyAyI_central-repo"]
+	path = vyAkaraNam/aShTAdhyAyI_central-repo
+	url = git@github.com:sanskrit/ashtadhyayi.git
