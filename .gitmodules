@@ -7,3 +7,6 @@
 [submodule "vyAkaraNam/aShTAdhyAyI_central-repo"]
 	path = vyAkaraNam/aShTAdhyAyI_central-repo
 	url = git@github.com:sanskrit/ashtadhyayi.git
+[submodule "mixed/sarit"]
+	path = mixed/sarit
+	url = git@github.com:sarit/SARIT-corpus.git
