@@ -10,3 +10,9 @@
 [submodule "mixed/sarit"]
 	path = mixed/sarit
 	url = git@github.com:sarit/SARIT-corpus.git
+[submodule "mixed/gretil"]
+	path = mixed/gretil
+	url = https://github.com/wujastyk/GRETIL-mirror.git
+[submodule "catalogs/wellcome-collection-tei"]
+	path = catalogs/wellcome-collection-tei
+	url = https://github.com/wellcomecollection/wellcome-collection-tei.git
