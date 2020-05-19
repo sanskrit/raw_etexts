@@ -19,3 +19,21 @@
 [submodule "mixed/dcs"]
 	path = mixed/dcs
 	url = https://github.com/OliverHellwig/sanskrit.git
+[submodule "mixed/clt/gitasupersite"]
+	path = mixed/clt/gitasupersite
+	url = https://github.com/cltk/sanskrit_text_gitasupersite.git
+[submodule "mixed/clt/wikisource"]
+	path = mixed/clt/wikisource
+	url = https://github.com/cltk/sanskrit_text_wikisource.git
+[submodule "mixed/clt/dcs"]
+	path = mixed/clt/dcs
+	url = https://github.com/cltk/sanskrit_text_dcs.git
+[submodule "mixed/clt/jnu"]
+	path = mixed/clt/jnu
+	url = https://github.com/cltk/sanskrit_pos_jnu_tagged.git
+[submodule "mixed/clt/jnu_plain"]
+	path = mixed/clt/jnu_plain
+	url = https://github.com/cltk/sanskrit_text_jnu.git
+[submodule "mixed/clt/sacred_texts"]
+	path = mixed/clt/sacred_texts
+	url = https://github.com/cltk/sanskrit_parallel_sacred_texts.git
