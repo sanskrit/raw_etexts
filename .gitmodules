@@ -16,3 +16,6 @@
 [submodule "catalogs/wellcome-collection-tei"]
 	path = catalogs/wellcome-collection-tei
 	url = https://github.com/wellcomecollection/wellcome-collection-tei.git
+[submodule "mixed/dcs"]
+	path = mixed/dcs
+	url = https://github.com/OliverHellwig/sanskrit.git
