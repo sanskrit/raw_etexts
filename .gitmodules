@@ -1,15 +1,15 @@
 [submodule "koshaH/dhavala-sangrahaH"]
 	path = koshaH/dhavala-sangrahaH
-	url = git@github.com:sanskrit-kosha/kosha.git
+	url = https://github.com/sanskrit-kosha/kosha.git
 [submodule "vyAkaraNam/aShTAdhyAyI-com-data"]
 	path = vyAkaraNam/aShTAdhyAyI-com-data
 	url = https://github.com/ashtadhyayi-com/data.git
 [submodule "vyAkaraNam/aShTAdhyAyI_central-repo"]
 	path = vyAkaraNam/aShTAdhyAyI_central-repo
-	url = git@github.com:sanskrit/ashtadhyayi.git
+	url = https://github.com/sanskrit/ashtadhyayi.git
 [submodule "mixed/sarit"]
 	path = mixed/sarit
-	url = git@github.com:sarit/SARIT-corpus.git
+	url = https://github.com/sarit/SARIT-corpus.git
 [submodule "mixed/gretil"]
 	path = mixed/gretil
 	url = https://github.com/wujastyk/GRETIL-mirror.git
