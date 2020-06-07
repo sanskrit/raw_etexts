@@ -46,3 +46,6 @@
 [submodule "koshaH/indic-dict/vyAkaraNa"]
 	path = koshaH/indic-dict/vyAkaraNa
 	url = https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa.git
+[submodule "mixed/somasuShma/tex"]
+	path = mixed/somasuShma/tex
+	url = https://github.com/somasushma/tex-files.git
