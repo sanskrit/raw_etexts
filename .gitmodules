@@ -49,3 +49,6 @@
 [submodule "mixed/somasuShma/tex"]
 	path = mixed/somasuShma/tex
 	url = https://github.com/somasushma/tex-files.git
+[submodule "mixed/sandocs-dump"]
+	path = mixed/sandocs-dump
+	url = https://github.com/sanskrit/sanskrit-documents-dump.git
