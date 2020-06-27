@@ -3,100 +3,30 @@ title = "Jiva Gosvami: Satsamdarbha 6"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Jiva Gosvami: Satsamdarbha 6  
-  
-  
-  
-  
+
 Jiva Gosvami:   
 Satsamdarbha, part 6: Pritisamdarbha  
-  
+
 Input by ...  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 श्री-प्रीति-सन्दर्भः  
-  
+
 तौ सन्तोषयता सन्तौ श्रील-रूप-सनातनौ ।  
 दाक्षिणात्येन भट्टेन प्नुअर् एतद् विविच्यते ॥ओ॥  
 तस्याद्यं ग्रन्थनालेखं क्रान्तम् उत्क्रान्त-खण्डितम् ।  
 पर्यालोच्याथ पर्यायं कृत्वा लिखति जीवकः ॥ओ॥  
-  
+
 [१]  
-  
+
 अथ प्रीति-सन्दर्भो लेख्यः । इह खलु शास्त्र-प्रतिपाद्यं परम-तत्त्वं  
 सन्दर्भ-चतुष्टयेन पूर्वं सम्बद्धम् । तद्-उपासना च तद्-अनन्तर-  
 सन्दर्भेणाभिहिता । तत्-क्रम-प्राप्तत्वेन प्रयोजनं खल्व् अधुना  
 विविच्यते ।  
-  
+
 पुरुष-प्रयोजनं तावत् सुख-प्राप्तिर् दुःख-निवृत्तिश् च । श्री-भगवत्-  
 प्रीतौ तु सुखत्वं दुःख-निवर्तकत्वं चात्यन्तिकम् इति । एतद् उक्तं भवति  
 यत् खलु परम-तत्त्वं शास्त्र-प्रतिपाद्यत्वेन पूर्वं निर्णीतं, तद् एव सद्-  
@@ -108,7 +38,7 @@ For further information see:
 विलक्षणत्वं च । को ह्य् एवान्यात् कः प्राण्यात् यद् एष आकाश आनन्दो न स्याद्  
 इत्य् अनेन नाना-स्वरूप-धर्मतोऽपि तस्य केवलानन्द-स्वरूपत्वम् एव च  
 दर्शितम् । तथाभूत-मार्तण्डादि-मण्डलस्य केवल-ज्योतिष्ट्ववत् ।  
-  
+
 अथ जीवश् च तदीयोऽपि तज्-ज्ञान-संसर्गाभाव-युक्तत्वेन तन्-माया-  
 पराभूतः सन्न् आत्म-स्वरूप-ज्ञान-लोपान् माया-कल्पितोपाध्यावेशाच्  
 चानादि-संसार-दुःखेन सम्बध्यत इति परमात्म-सन्दर्भादाव् एव  
@@ -119,10 +49,10 @@ For further information see:
 लक्षण-मात्रात्मकत्वाद् उत्तरस्याश् च ध्वंसाभाव-रूपत्वाद्  
 अनश्वरत्वम् । उक्तं च पूर्वस्याः परम-पुरुषार्थत्वं धर्मस्य ह्य्  
 अपवर्गस्य इत्य् आदिना [भ्प् १।२।९],   
-  
+
 तच्-छ्रद्दधाना मुनयो ज्ञान-वैराग्य-युक्तया ।  
 पश्यन्त्य् आत्मनि चात्मानं भक्त्या श्रुत-गृहीतया ॥ इत्य् अन्तेन [भ्प् १।२।१२] ।  
-  
+
 स्वतः सर्व-दुःख-निवृत्तिश् च तत्रैवोक्ता - भिद्यते हृदय-ग्रन्थिर् [भ्प्  
 १।२।१३] इत्य् आदिना । श्री-विष्णु-पुराणे च -  
   
@@ -4826,8 +4756,7 @@ For further information see:
 ॥ १।९ ॥ श्री-भीष्मः ॥ १३१ ॥  
 (पगे ७९)  
 [१३२]  
-  
-  
+
 शौच-विरोधी यथा -- अंस-न्यस्त-विषाणो ऽसृङ्- मद-बिन्दुभिर् अङ्कितः [भ्प्  
 १०।४३।१५] इत्य् आदि । स्पष्टम् ॥   
   
@@ -4896,8 +4825,7 @@ For further information see:
 ८०) तद्वद् विशेषेण मथितुं न शेकुः किन्तु स्व-प्रेमानुरूपम् एव शेकुर्  
 इति । तस्मात् प्रेम-मात्रोत्थायित्-विकारत्वात् तस्य कामुक-वैलक्षण्यम् इति  
 भावः ।  
-  
-  
+
 [१३७]  
 तस्माद् एतत् तत्त्वम् अविज्ञायैव --  
   
@@ -9419,9 +9347,7 @@ For further information see:
 १०२२०३०१ निदाघार्क-तपे तिग्मे छायाभिः स्वाभिर् आत्मनः  
 १०२२०३०३ आतपत्रायितान् वीक्ष्य द्रुमान् आह व्रजौकसः   
 इत्य् आदि ।  
-  
-  
-  
+
 १०२३०२११ यमुनोपवने ऽशोकनवपल्लवमण्डिते   
 १०२३०२१३ विचरण्तं वृतं गोपैः साग्रजं ददृशुः स्त्रियः  
 १०२३०२२१ श्यामं हिरण्य-परिधिं वन-माल्य-बर्ह-   
@@ -10259,10 +10185,4 @@ For further information see:
   
 समाप्तोऽयं षष्ठः सन्दर्भः । सम्पूर्णोऽयं ग्रन्थः ।  
 श्री-प्रीति-सन्दर्भः  
-  
-  
-  
-  
-  
-  
-  
+

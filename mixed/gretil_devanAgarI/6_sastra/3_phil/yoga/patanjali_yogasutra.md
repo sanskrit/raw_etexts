@@ -3,92 +3,19 @@ title = "Patanjali: Yogasutra"
 
 +++
 ## Intro
-  
-  
-  
-  
- Patanjali: Yogasutra   
-  
-  
-  
-  
+
+Patanjali: Yogasutra   
+
 Patanjali: Yogasutra  
 Based on the edition by Kāśinātha Śāstrī Āgāśe: Vācaspatimiśraviracitaṭīkāsaṃvalitavyāsabhāṣyasametāni Pātañjalayogasūtrāṇi, tathā bhojadevaviracitarājamārtaṇḍābhidhavṛttisametāni pātañjalayogasūtrāṇi. sūtrapāṭhasūtravarṇānukramasūcībhyāṃ ca sanāthīkṛtāni ...  
 Pune : Ānandāśramamudraṇālaya 1904 (Ānandāśrama Sanskrit Series, 47).  
-  
-  
+
 Input and proof reading by Philipp A. Maas  
-  
-  
+
 Sutras extracted from the commented version (see separate file)  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 अथ योगानुशासनम्  ॥ य्स्_१।१ ॥  
 योगश् चित्तवृत्तिनिरोधः  ॥ य्स्_१।२ ॥  
 तदा द्रष्टुः स्वरूपे ऽवस्थानम्  ॥ य्स्_१।३ ॥  
@@ -140,8 +67,7 @@ For further information see:
 श्रुतानुमानप्रज्ञाभ्याम् अन्यविषया विशेषार्थत्वात्  ॥ य्स्_१।४९ ॥  
 तज्जः संस्कारो ऽन्यसंस्कारप्रतिबन्धी  ॥ य्स्_१।५० ॥  
 तस्यापि निरोधे सर्वनिरोधान् निर्बीजः समाधिः  ॥ य्स्_१।५१ ॥  
-  
-  
+
 तपःस्वाध्यायेश्वरप्रणिधानानि क्रियायोगः  ॥ य्स्_२।१ ॥  
 समाधिभावनार्थः क्लेशतनूकरणार्थश् च  ॥ य्स्_२।२ ॥  
 अविद्यास्मितारागद्वेषाभिनिवेशाः क्लेशाः  ॥ य्स्_२।३ ॥  
@@ -197,8 +123,7 @@ For further information see:
 धारणासु च योग्यता मनसः  ॥ य्स्_२।५३ ॥  
 स्वविषयासंप्रयोगे चित्तस्वरूपानुकार इवेन्द्रियाणां प्रत्याहारः  ॥ य्स्_२।५४ ॥  
 ततः परमा वश्यतेन्द्रियाणाम्  ॥ य्स्_२।५५ ॥  
-  
-  
+
 देशबन्धश् चित्तस्य धारणा  ॥ य्स्_३।१ ॥  
 तत्र प्रत्ययैकतानता ध्यानम्  ॥ य्स्_३।२ ॥  
 तद् एवार्थमात्रनिर्भासं स्वरूपशून्यम् इव समाधिः  ॥ य्स्_३।३ ॥  
@@ -254,8 +179,7 @@ For further information see:
 जातिलक्षणदेशैर् अन्यतानवच्छेदात् तुल्ययोस् ततः प्रतिपत्तिः  ॥ य्स्_३।५३ ॥  
 तारकं सर्वविषयं सर्वथाविषयम् अक्रमं चेति विवेकजं ज्ञानम्  ॥ य्स्_३।५४ ॥  
 सत्त्वपुरुषयोः शुद्धिसाम्ये कैवल्यम् इति  ॥ य्स्_३।५५ ॥  
-  
-  
+
 जन्मौषधिमन्त्रतपःसमाधिजाः सिद्धयः  ॥ य्स्_४।१ ॥  
 जात्यन्तरपरिणामः प्रकृत्यापूरात्  ॥ य्स्_४।२ ॥  
 निमित्तम् अप्रयोजकं प्रकृतीनां वरणभेदस् तु ततः क्षेत्रिकवत्  ॥ य्स्_४।३ ॥  
@@ -290,7 +214,4 @@ For further information see:
 ततः कृतार्थानां परिणामक्रमसमाप्तिर् गुणानाम्  ॥ य्स्_४।३२ ॥  
 क्षणप्रतियोगी परिणामापरान्तनिर्ग्राह्यः क्रमः  ॥ य्स्_४।३३ ॥  
 पुरुषार्थशून्यानां गुणानां प्रतिप्रसवः कैवल्यं स्वरूपप्रतिष्ठा वा चितिशक्तिर् इति  ॥ य्स्_४।३४ ॥  
-  
-  
-  
-  
+

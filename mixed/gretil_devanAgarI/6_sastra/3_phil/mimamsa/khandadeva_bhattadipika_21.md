@@ -3,117 +3,36 @@ title = "Khandadeva: Bhattadipika, 2,1"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Khandadeva: Bhattadipika, 2,1  
-  
-  
-  
-  
-  
+
 Khandadeva: Bhattadipika, a commentary on Jaimini's Mimamsasutra,  
 Adhyaya 2, Adhikarana 1,  
 with Sambhubhatta's Prabhavali (subcomm.)  
 Based on the ed. by N.S. Ananta Krishna Sastri  
 Bombay 1921-1922 (Reprint: Delhi 1987)  
 (Sri Garib Dass Oriental Series, 50-)  
-  
-  
+
 Input by members of the Sansknet project  
 (www.sansknet.org) [server down!]  
-  
-  
+
 This GRETIL version has been converted from a custom Devanagari encoding.  
 Therefore, word boundaries are usually not marked by blanks.  
 These and other irregularities cannot be standardized at present.  
-  
-  
+
 An attempt to structure the text according to sutras had to be  
 abandoned for want of an adequate printed edition.  
-  
-  
+
 THE TEXT IS NOT PROOF-READ!  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
 <B1> श्रीः ।  
 भाट्टदीपिका ।  
 - - - ॥ । - - - प्रभावलीव्याख्यासंवलिता ।  
 तत्र द्वितीयाध्यायस्य प्रथमः पादः ।  
 (१ अधिकरणम् । ) (अ।२ पा।१ अधि।१)   
-  
-  
+
 भावार्थाः कर्मशब्दास् तेभ्यः क्रिया प्रतीयेतैष ह्य् अर्थो विधीयते  । जैम्_२,१।१ ।  
   
 एवं धर्माधर्मप्रमाणेषु निरूपितेषु अधुना तत्स्वरूपं निरूप्यते ।  
@@ -718,11 +637,9 @@ For further information see:
 इत्येकादशं ऋग्लक्षणाधिकरणम्   ॥  
   
 ----------------- <B1>  (१२ अधिकरणम् । ) (अ।२ पा।१ अधि।१२)    
-  
-  
+
 गीतिषु स माख्या  । जैम्_२,१।३६ ।  
-  
-  
+
 मन्त्रत्वसमानाधिकरणगीतत्वं सामत्वम्   ॥ १२ ॥  
 इति द्वादशं सामलक्षणाधिकरणम्  ॥  
 <B2>  (सामलक्षणम् सामशब्दस्य गीतिपरत्वम्, साप्तमिकाधिकरणस्यैतदाकृत्यधिकरणाभ्यामपौनरुक्त्यमित्यादीनां निरूपणम्) अत्रापि सूत्रे तेषामिति पदानुवृत्त्या मन्त्रगतत्वस्य लाभेनाभियुक्तप्रसिद्धिमूलोपपत्तिकं सामलक्षणमाह ------ मन्त्रत्वेति  ॥  
@@ -748,19 +665,15 @@ For further information see:
 तेषु हि परप्रत्यायनरूपकार्यवशेनोपांशुत्वनिवृत्तावपि मन्द्राद्यनेकस्वरप्राप्तौ उच्चैष्ट्वनियमो नानुपपन्नः ।  
 अतो निगदभ्रेषे यजुर्भ्रेषप्रायश्चित्तम्, आश्विनादौ पारिप्लवशंसनं वा   ॥ १३ ॥ इति चतुर्दशं निगदयजुष्ट्वाधिकरणम् ॥  
 <B2>  (पूर्वाधिकरणेनाक्षेपसङ्गतिः संज्ञाबेदान्निगदानां यजुर्भेदपूर्वपक्षश्च)   
-  
-  
+
 शेषे यजुः शब्दाः  । जैम्_२,१।३७ ।  
-  
-  
+
 इति पूर्वसूत्रेण ऋक्सामभिन्नतया यजुर्भेदकथनेन यन्मन्त्रत्रैविध्यमुक्तं तदाक्षेपेणेह पूर्वपक्षकरणादाक्षेपसङ्गतिं स्पष्टत्वादनभिधाय पूर्वपक्षमेवाह  
 -------- निगदसंज्ञकानामिति ॥  
 ते च प्रायः परसंबोधनार्था "अग्नीदग्नीन्विहरे" त्यादयः,   
-  
-  
+
 निगदो वा चतुर्थं स्याद् धर्मविशेषात्  । जैम्_२,१।३८ ।  
-  
-  
+
 इति पूर्वपक्षसूत्रे धर्मविशेषादिति पदेन उच्चैष्ट्वादिधर्मान्यत्वस्य पूर्वपक्ष हेतुतया प्राथम्योक्तेः   
   
 व्यपदेशाच् च  । जैम्_२,१।३९ ।  
@@ -828,11 +741,9 @@ For further information see:
 अतो वाक्यमात्रवृत्तित्वेन यजुष्ट्वस्य तद्भेदाद्युक्तो भेद इति भावः ॥  
 इति पञ्चदशमर्थैकत्वाधिकरणम् ॥  
 ------------------- <B1>  (१६ अधिकरणम् । ) (अ।२ पा।१ अधि।१६)  
-  
-  
+
 समेषु वाक्यभेदः स्यात्  । जैम्_२,१।४७ ।  
-  
-  
+
 यत्र तु नोक्तविधं विभज्यमानसाकाङ्क्षत्वम् -------- यथा "इमे त्वा" "ऊर्जे त्वे" त्यनयोः, यथा वा "आयुर्यज्ञेन कल्पतां प्राणो यज्ञेन कल्पता -------" मित्यादौ, तत्र सत्यप्यर्थैकत्वे भगो वामित्यादिवन्मन्त्रभेदः ।  
 किमुत यदा विनियोगानुसारेणार्थभेद एव प्रमाणवान् तदा मन्त्रैकत्वे प्रमाणभाव एव ।  
 अत्र हि "इषे त्वेति शाखां छिनत्ति" "ऊर्जे त्वेत्युन्मार्ष्टी"ति विनियोगभेदादिषे त्वा छिनद्मीति क्रियापदाध्याहारेण भिन्नमेव मुख्यविशेष्यम् ।  
@@ -940,7 +851,4 @@ For further information see:
   
 इत्यष्टादशमध्याहाराधिकरणम् ॥  
 -------------------  
-  
-  
-  
-  
+

@@ -3,110 +3,30 @@ title = "Khandadeva: Bhattadipika, 3,1"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Khandadeva: Bhattadipika, 3,1  
-  
-  
-  
-  
-  
+
 Khandadeva: Bhattadipika, a commentary on Jaimini's Mimamsasutra,  
 Adhyaya 3, Adhikarana 1,  
 with Sambhubhatta's Prabhavali (subcomm.)  
 Based on the ed. by N.S. Ananta Krishna Sastri  
 Bombay 1921-1922 (Reprint: Delhi 1987)  
 (Sri Garib Dass Oriental Series, 50-)  
-  
-  
+
 Input by members of the Sansknet project  
 (www.sansknet.org) [server down!]  
-  
-  
+
 This GRETIL version has been converted from a custom Devanagari encoding.  
 Therefore, word boundaries are usually not marked by blanks.  
 These and other irregularities cannot be standardized at present.  
-  
-  
+
 An attempt to structure the text according to sutras had to be  
 abandoned for want of an adequate printed edition.  
-  
-  
+
 THE TEXT IS NOT PROOF-READ!  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
 <B1> श्रीः ।  
 भाट्टदीपिका ।  
 --- ॥। --- प्रभावलीव्याख्यासंवलिता ।  
@@ -158,11 +78,9 @@ For further information see:
 आदिपदेन विरोधाविरोधविचारप्रसक्तानुप्रसक्त्या करिष्यमाणविचारस्य संग्रहः ॥  
 इति प्रथमं प्रतिज्ञाधिकरणम् ॥  
 ------------- <B1> (२ अधिकरणम्)(अ।३ पा।१ अधि।२)    
-  
-  
+
 शेषः परार्थत्वात्  । जैम्_३,१।२ ।  
-  
-  
+
 इहाद्यं प्रकारद्वयं निरूप्यते ।  
 यदेव हि अङ्गत्वलक्षणं तदेव शेषपदशक्यतावच्छेदकं नान्यत् ।  
 तत्राङ्गत्वं नाम पारार्थ्यम् ।  
@@ -220,11 +138,9 @@ For further information see:
 कृतिकारकत्वेन विध्यन्वयित्वरूपपारार्थ्यस्य श्रुत्यादिप्रमाणानि विना वक्तुमशक्तेस्तान्यप्यर्थादिह उपक्षिप्तानीति ध्येयम्  ॥  ॥  
 इति द्वितीयं शेषलक्षणाधिकरणम्   ॥  
 -------------- <B1> (३ अधिकरणम् । ) (अ।३ पा।१ अधि।३)  
-  
-  
+
 द्रव्यगुणसंस्कारेषु बादरिः  । जैम्_३,१।३ ।  
-  
-  
+
 यद्यपि पारार्थ्यमङ्गत्वं तथापि न यागादेर्लक्ष्यता ।  
 समानपदश्रुत्या यागादेरेव भावनाभाव्यत्वेन तस्य स्वर्गोद्देशेन विहितत्वाभावात् ।  
 विधेः स्वरूपयोग्यत्वेनैव लिङर्थतया इष्टसाधनत्वानाक्षेपकत्वात् ।  
@@ -1007,8 +923,4 @@ For further information see:
 - - - - - - -   
   
 ॥ इति श्रीखण्डदेवान्तेवासिकविमण्डनशंभुभट्टकृतायां भाट्टदीपिकाप्रभावल्यां तृतीयाध्यायस्य प्रथमः पादः ॥  
-  
-  
-  
-  
-  
+

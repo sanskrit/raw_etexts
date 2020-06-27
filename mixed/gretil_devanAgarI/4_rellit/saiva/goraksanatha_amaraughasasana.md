@@ -3,16 +3,9 @@ title = "Goraksanatha: Amaraughasasana"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Goraksanatha: Amaraughasasana  
-  
-  
-  
-  
-  
+
 Goraksanatha: Amaraughasasana (with commentary)  
 Based on the edition by Mukund Ram Shastri,   
 Bombay : Nirnaya-Sagara Press 1918  
@@ -24,74 +17,9 @@ Commentary marked with asterisk and brackets.
 Der digitalisierte Text kann in jedem Rahmen ohne   
 Einschraenkungen genutzt werden. Allerdings sollte ein   
 Hinweis auf den Einleser enthalten sein.  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
+
 आमरौघशासन  
   
 ऊर्ध्वशक्तिनिपातः कन्दचतुष्टयेन ज्ञायते ॥ १  
@@ -256,7 +184,4 @@ For further information see:
 मूर्छिता सा शिवं वेत्ति प्राणैर् एवं व्यवस्थिता ॥ ७९  
 जन्मावस्थानाद् अधो लिङ्गः स चाधारकन्दजातिमध्यस्थितो गुह्य ऊर्ध्वे भवति तस्योर्ध्वे लिङ्गस्थानं स्वाधिष्ठानं नाभिमण्डले मणिपूरकस्योर्ध्वभागे ऽनलकः तेनोद्दण्डकाद्यं समागच्छति अधःप्रदेशे मणिपूरकस्य दक्षिणपश्चिमवर्ति अमेध्यस्थानम् मध्ये नाभेः कन्दः तत्र पद्माकृतिः तत्र शरीरनाडीनाम् आधारः कथ्यते हृदये पृथिवीतत्त्वं पीतवर्णं मध्ये कदम्बगोलकाकृति तत्र चित्तविश्रान्तिस्थानं तद् एव अनलचक्रम् कण्ठे चोदकप्रवाहपूर्णम् आत्मतत्त्वं तद् विशुद्धिस्थानम् तालुमध्ये दीपशिखाकारः सदोद्द्योतः तत् तेजस्तत्त्वम् कपालकन्दराङ्कुरे वायुतत्त्वम् नासाग्रे आकाशतत्त्वम् तस्योर्ध्वे  
 आज्ञास्थानम् आज्ञास्थानान्तरे ग्रन्थिषोडशान्तरे अमृता षोडशी कला तदन्तरे वालाग्रशतधाश्रया अन्ते तस्योर्ध्वे कलान्ते बिन्दुः बिन्दुभेदाद् अनन्तरं शृंगाटकाकृतिर् मस्तकस्योद्देशस् तस्मिन् चित्तलयस्थानम् चित्तस्य शरीरबन्धनाद्वयोपेतस् त्रैलोक्यविहारः तस्याश्रिता ज्ञानशक्तिः एवं शक्तित्रयालंकृतश् चिद्दर्पणप्रतिबिम्बः समो विविधभावकलाकलितः संसारचेष्टावलोकनकुशलः सुप्तावस्थायां रूपी जलचन्द्रवत् दृश्यते यः स परमात्मा सर्वव्यापी महेश्वरः चतुर्दशविधभूतग्रामकर्ता च इति सो ऽयं परमात्मा ॥ ८०  
-  
-  
-  
-  
+

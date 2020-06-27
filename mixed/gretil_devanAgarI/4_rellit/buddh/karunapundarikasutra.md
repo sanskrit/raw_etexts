@@ -3,115 +3,36 @@ title = "Karunapundarikasutra"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Karunapundarikasutra  
-  
-  
-  
-  
-  
+
 Karunapundarikasutra  
 Based on the edition by Isshi, Yamada,   
 Mahakarunapundarika Sutra.   
 London : School of Oriental and African Studies, 1968, 1-420.  
-  
-  
+
 Input by members of the Sanskrit Buddhist Input Project.  
 With kind permission of the Digital Sanskrit Buddhist Canon Project  
 of Nagarjuna Institute, Nepal  
 and University of the West, Rosemead, California, USA  
 (www.uwest.edu/sanskritcanon)  
 Sutra section, text no. 18  
-  
-  
+
 The transliteration emulates the conventions of Nagari script.  
 Therefore, many word boundaries are not marked by blanks.  
-  
-  
+
 REFERENCES TO THE PAGINATION OF YAMADA'S EDITION (added):  
 (KpSū nn)  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 (क्प्सू १)  
 करुणापुण्डरीक-सूत्रम्  
 धर्म-चक्र-प्रवर्तनो नाम प्रथमः परिवर्तः  
-  
-  
+
 ओम् नमः  
 श्रीसर्वबुद्धबोधिसत्त्वेभ्यः ॥  
-  
-  
+
 बुद्धं प्रणम्य सर्वज्ञं धर्मं सङ्घं गुणाकरं ।  
 करुणापुण्डरीकाख्यं प्रवक्ष्ये बोधिसूत्रकं ॥  
   
@@ -131,8 +52,7 @@ For further information see:
   
 अथ खलु कुलपुत्र पद्मोत्तरस्तथागतो ऽर्हन् सम्यक्संबुद्धो ऋद्ध्यभिसंस्कारं प्रतिप्रस्रभ्य सर्वावत्यां बोधिसत्त्वपर्षदि अवैवर्तिकचक्रं नाम धार्मिकं धर्मचक्रं प्रवर्तितवान् बहुजनहिताय बहुजनसुखाय लोकानुकम्पायै, अर्थाय हिताय सुखाय देवानां च मनुष्याणां च महायानस्य परिपूरणार्थं" ॥  
 इति श्रीकरुणापुण्डरीके महायानसूत्रे धर्मचक्रप्रवर्तनो नाम प्रथमः परिवर्तः ॥ १ ॥  
-  
-  
+
 (क्प्सू १४)  
 द्वितीयो धारणीमुखपरिवर्तः  
   
@@ -225,8 +145,7 @@ For further information see:
 गणनातिक्रान्ता देवमनुष्या भगवत्सकाशं उपसंक्रम्य भगवतः पादौ शिरसाभिवन्द्य निषण्णा धर्मश्रवणाय । तेन च समयेन गणनातिक्रान्ता देवमनुष्यकाया (क्प्सू ५०) अनुत्तरायां सम्यक्संबोधौ चित्तान्युत्पादयाम् आसुः । गणनातिक्रान्ताश्चात्र बोधिसत्त्वाः समाधिक्षान्तिधारणीं प्रतिलब्धवन्तः ॥  
   
 इति श्रीकरुणापुण्डरीके महायानसूत्रे द्वितीयो धारणीमुखपरिवर्तः ॥२॥  
-  
-  
+
 (क्प्सू ५१)  
 इइइ दानविसर्गस् तृतीयः  
   
@@ -310,8 +229,7 @@ For further information see:
 चित्तैश्वर्यकरिं हि बोधिमतुलां सत्त्वांश्च सन्तारये" ॥  
   
 इति श्रीकरुणापुण्डरीके दानविसर्गस्तृतीयः ॥ ३ ॥  
-  
-  
+
 (क्प्सू १०५)  
 इव् बोधिसत्त्वव्याकरणपरिवर्तश्चतुर्थः  
   
@@ -902,8 +820,7 @@ For further information see:
 पुनरपि कुलपुत्र सर्वावती सा पर्षा सदेवगन्धर्वमानुषा प्राञ्जलिभूता तस्थौ, महाकारुणिकस्य पूजाकर्मणे उद्युक्ताः पुष्पैर्वाद्यैर्महाकारुणिकस्य बोधिसत्त्वस्य महासत्त्वस्य पूजां कृत्वा विचित्रवर्णैः श्लोकैस्तुष्टाव ॥  
   
 इति श्रीकरुणापुण्डरीके महायानसूत्रे बोधिसत्त्वव्याकरणपरिवर्तश्चतुर्थः ॥४॥  
-  
-  
+
 (क्प्सू ३२७)  
 व् दानपरिवर्तो नाम पञ्चमः  
   
@@ -997,8 +914,7 @@ For further information see:
 प्रतिष्ठापिताः । स्थापयित्वा यावन्तो मया बोधिसत्त्वचर्यायां चरमाणेन, बुद्धक्षेत्रपरमाणुरजःसमा मे बुद्धा (क्प्सू ३८७) भगवन्तः पर्युपासिताः, एकैकस्य बुद्धस्यान्तिके सागरोदकबिन्दुप्रमाणा मया गुणाः परिगृहीताः, गणनातिक्रान्तानां प्रत्येकबुद्धानां मया पूज कृता, गणनातिक्रान्तानां तथागतश्रावकानां पूजा कृता, एवं मातापितॄणां पञ्चाभिज्ञानामृषीणां पूजा कृता । मया च कृपया पूर्वं बोधिसत्त्वचर्यां चरमाणेन स्वमांसरुधिरेण सत्त्वाः संतर्पिता, इदानीमपि धर्मेण संतर्पिताः ॥  
   
 इति श्रीकरुणापुण्डरीके महायानसूत्रे दानपरिवर्तो नाम पञ्चमः ॥ ५ ॥  
-  
-  
+
 (क्प्सू ३८८)  
 वि (एपिलोगुए) यथाहं कुलपुत्र बुद्धचक्षुषा पश्यामि दशसु दिक्षु बुद्धक्षेत्रपरमाणुरजःसमान् बुद्धान् भगवतः परिनिर्वृतान्, ये मया प्रथममनुत्तरायां सम्यक्संबोधौ समादापिता निवेशिताः प्रतिष्ठापिताः, ये मया दानपारमितायां प्रथमं समादापिता यावत्प्रज्ञापारमितायां समादापिता निवेशिताः प्रतिष्ठापिताः । एवमेवैतर्हि पूर्वस्यां दिशि अप्रमेयासंख्येयास्ते बुद्धा भगवन्तः प्रवर्तितधार्मिकधर्मचक्राः तिष्ठन्तो यापयन्तो धर्मं देशयन्तो ऽद्रक्षं, ये मया प्रथममनुत्तरायां सम्यक्संबोधौ चित्तमुत्पादिता निवेशिताः प्रतिष्ठापिताः । एवं यावत्षट्सु पारमिताषु वक्तव्यं, एवं दक्षिणपश्चिमोत्तरहेष्टिमोपरिषु दिक्षु वक्तव्यं ।  
   
@@ -1060,7 +976,4 @@ For further information see:
 हेवदत्तेषां च यो निरोध एवं वादि महाश्रमणं ॥  
   
 शुभमस्तु सर्वदात् ॥ शुभं ॥ शुभं ॥ शुभं ॥  
-  
-  
-  
-  
+

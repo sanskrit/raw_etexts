@@ -3,94 +3,20 @@ title = "Dandin: Kavyadarsa, Pariccheda 3"
 
 +++
 ## Intro
-  
-  
-  
-  
- Dandin: Kavyadarsa, Pariccheda 3   
-  
-  
-  
-  
+
+Dandin: Kavyadarsa, Pariccheda 3   
+
 Dandin: Kavyadarsa, Pariccheda 3  
 Based on the ed.: Śabdālaṃkāradoṣavibhāga Die Unterscheidung der Lautfiguren und der Fehler.  
 Kritische Ausgabe des dritten Kapitels von Daṇḍins Poetik Kāvyādarśa und der tibetischen Übertragung Sñan ṅag me loṅ   
 samt dem Sanskrit-Kommentar des Ratnaśrījñāna, dem tibetischen Kommentar des Dpaṅ Blo gros brtan pa   
 und einer deutschen Übersetzung des Sanskrit-Grundtextes. Von Dragomir Dimitrov.  
 Wiesbaden 2011. (Veröffentlichungen der Helmuth von Glasenapp-Stiftung, Monographien 2).  
-  
-  
-  
+
 Input by Dragomir Dimitrov  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 अव्यपेतव्यपेतात्मा व्यावृत्तिर् वर्णसंहतेः  ।  
 यमकं तच् च पादानाम् आदिमध्यान्तगोचरम्  ॥ क्द्द्_३।१ ॥  
   
@@ -252,15 +178,13 @@ For further information see:
   
 नास्थे यः स त्वया वर्ज्यः परमायतमानया  ।  
 ना स्थेयःसत्त्वयावर्ज्यः परम् आयतमानया  ॥ क्द्द्_३।५४ ॥  
-  
-  
+
 नरा जिता माननयासम् एत्य न राजिता माननया समेत्य  ।  
 विनाशिता वैभवतापनेन विनाशिता वै भवतापनेन  ॥ क्द्द्_३।५५ ॥  
   
 कलापिनां चारुतयोपयन्ति वृन्दानि लापोढघनागमानाम्  ।  
 वृन्दानिलापोढघनागमानां कलापिनां चारुतयो ऽपयन्ति  ॥ क्द्द्_३।५६ ॥  
-  
-  
+
 नमन् दयावर्जितमानसात्मया न मन्दयावर्जितमानसात्मया  ।  
 उरस्य् उपास्तीर्णपयोधरद्वयं मया समालिङ्ग्यत जीवितेश्वरः  ॥ क्द्द्_३।५७ ॥  
   
@@ -590,8 +514,7 @@ For further information see:
   
 [ड़ोर् थे रेपेतितिओन् ओड़् १६०च्द् इन् १६१अब्, मोस्त् एदितिओन्स् रेअद्:  
 मानेर्ष्ये इह शीर्येते स्त्रीणां हिमऋतौ प्रिये]  
-  
-  
+
 देशो ऽद्रिवनराष्ट्रादिः कालो रात्रिंदिवर्तवः  ।  
 नृत्तगीतप्रभृतयः कलाः कामार्थसंश्रयाः  ॥ क्द्द्_३।१६२ ॥  
   
@@ -670,8 +593,4 @@ For further information see:
 वाग्भिः कृताभिसरणो मदिरेक्षणाभिर् धन्यो युवेव रमते लभते च कीर्तिम्  ॥ क्द्द्_३।१८७ ॥  
   
 ॥ इत्य् आचार्यश्रीदण्डिनः कृतौ काव्यादर्शे दुष्करनामा तृतीयः परिच्छेदः समाप्तः ॥  
-  
-  
-  
-  
-  
+

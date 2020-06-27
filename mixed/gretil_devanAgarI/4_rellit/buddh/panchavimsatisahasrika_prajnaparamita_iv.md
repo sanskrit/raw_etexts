@@ -3,97 +3,21 @@ title = "Pancavimsatisahasrika Prajnaparamita, IV"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Pancavimsatisahasrika Prajnaparamita, IV  
-  
-  
-  
-  
-  
+
 Pancavimsatisahasrika Prajnaparamita, IV = PSP_4  
 Based on the edition by Takayasu Kimura: Pañcaviṃśatisāhasrikā Prajñāpāramitā IV.   
 Tokyo : Sankibo Busshorin 1990.  
-  
-  
+
 Input by Klaus Wille, Göttingen  
 (December 2006)  
-  
-  
-  
+
 REFERENCE SYSTEM:  
 PSP_nn:n = Pancavimsatisahasrika Prajnaparamita_Vol.:Page  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 (प्स्प्_४:१)  
 पञ्चविंशतिसाहस्रिका प्रज्ञापारमिता इव्  
   
@@ -1909,7 +1833,4 @@ For further information see:
 इत्य् उक्तः सर्वाकाराभिसंबोधः  
   
 आर्यपञ्चविंशतिसाहस्रिकायां भगवत्यां प्रज्ञापारमितायाम् अभिसमयालंकारानुसारेण संशोधितायां सर्वाकाराभिसंबोधाधिकारस् तथतापरिवर्तश् चतुर्थः  
-  
-  
-  
-  
+

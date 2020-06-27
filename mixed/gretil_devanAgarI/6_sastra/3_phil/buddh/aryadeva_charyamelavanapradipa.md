@@ -3,135 +3,80 @@ title = "Aryadeva: Caryamelavanapradipa"
 
 +++
 ## Intro
-  
-  
-  
-  
+
+
+
+
 Aryadeva: Caryamelavanapradipa  
-  
-  
-  
-  
-  
+
+
+
+
+
 Aryadeva: Caryamelavanapradipa  
-  
-  
+
+
 Input by members of the Sanskrit Buddhist Input Project.  
 With kind permission of the Digital Sanskrit Buddhist Canon Project  
 of Nagarjuna Institute, Nepal  
 and University of the West, Rosemead, California, USA  
 (www.uwest.edu/sanskritcanon)  
 Sastra section, text no. 48  
-  
-  
+
+
 The transliteration emulates the conventions of Nagari script.  
 Therefore, many word boundaries are not marked by blanks.  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
+
+
+
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
 चर्यामेलावणप्रदीपः  
-  
+
 १। प्रथमः परिच्छेदः  
-  
+
 ओम् नमः श्रीवज्रसत्त्वाय ।  
-  
+
 नमत खसमनिःस्वभावशुद्धं नमताशेषमनक्षरमवाच्यम् ।  
 नमतानागतसर्वगं सुगतं नमत समस्ताशेषसर्वशून्यम् ॥  
-  
+
 "अर्थप्रतिशरणेन भवितव्यं शब्दस्तु यथा तथा" इति ।  
-  
+
 तन्त्रे-  
 चतुरशीतिसाहस्रे धर्मस्कन्धे महामुनेः ।  
 तत्त्वं वै ये न जानन्ति सर्वे ते निष्फलाय वै ॥ इति ।  
-  
+
 अत आह-  
 आदिकर्मिकसन्धानं परमार्थावतारणे ।  
 उपायश्चैव संबुद्धैः सोपानमिव निर्मितः ॥ इति ।  
-  
+
 प्रबोधनमेलावणसंशयपरिच्छेदः प्रथमः ॥ १ ॥  
-  
+
 २। द्वितीयः परिच्छेदः  
-  
+
 पञ्चस्कन्धाः समासेन पञ्चबुद्धाः प्रकीर्तिताः ।  
 वज्र-आयतनान्येव बोधिसत्त्वाग्र्यमण्डलम् ॥  
 पृथिवी लोचना ख्याता अब्धातुर्मामकी स्मृता ।  
 पाण्डराख्या भवेत्तेजस्तारा वायुः प्रकीर्तिता ॥  
 रूपशब्दादिभिर्मन्त्री देवतां भावयेत् सदा ॥  
-  
+
 इत्युक्तं भगवता श्रीगुह्यसमाजमहायोगतन्त्रे ।  
-  
+
 कुलाः शतविधाः प्रोक्ताः संक्षेपेण तु पञ्चधा ।  
 पुनस्त्रिविधतां यान्ति कायवाक्चित्तभेदतः ॥  
-  
+
 "पञ्चस्कन्धाः समासेन पञ्चबुद्धाः प्रकीर्तिताः । "  
-  
+
 पञ्चहृदयमाश्रित्य पञ्चतनुविनिर्गतम् ।  
 पञ्चवायुसमायुक्तं पञ्चकामोपभोगकृत ॥ इति ।  
-  
+
 प्रक्रमणात् प्राणायामाच्चेन्द्रियद्वारैस्तन्तुभिः ।  
 प्रक्रमते सदा कालं प्राण इत्यभिधीयते ॥  
 वातमूत्रपुरीषाणां शुक्रादीनां तथैव च ।  
@@ -152,13 +97,13 @@ For further information see:
 संहारं च प्रकुर्वीत यदीच्छेच्छान्तवज्रधृग् ॥ इति ।  
 पञ्चात्मकं पञ्चभिरेव भूतैर्दृष्टं नराणां नियतं शरीरम् ।  
 तभ्दावभावैर्नियतं स्वचित्तं प्रभावयन्तः प्रभवन्ति बुद्धाः ॥ इति ।  
-  
+
 खसमतन्त्रे ऽप्याह-  
 पञ्चबुद्धात्मकु सर्वजगो ऽयं पश्यसु चित्रकु नाटकु दिव्यम् ।  
 यत्र हि एकु महासुहनामा नृत्यति एकु अनेक रसेन ॥ इति ।  
-  
+
 "संक्षेपेण तु पञ्चधा"  
-  
+
 कायवाक्चित्तनिध्यप्तैः स्वभावो नोपलभ्यते ।  
 मन्त्रमूर्तिप्रयोगेण न बोधिर्न च भावना ॥  
 विचार्येदं समासेन कायवाक्चित्तलक्षणम् ।  
@@ -169,12 +114,12 @@ For further information see:
 स्वाधिदैवद्य(त)योगेन तस्मादात्मैव साधयेत् ॥ इति ।  
 मन्त्रनिध्यप्तिकायेन वाचा मनसि चोदितः ।  
 साधयेत् प्रवरां सिद्धिं मनःसन्तोषणप्रियाम् ॥  
-  
+
 कायविवेकमेलावणसंशयपरिच्छेदो द्वितीयः ॥ २ ॥  
-  
-  
+
+
 ३। तृतीयः परिच्छेदः  
-  
+
 पञ्चवर्णं महारत्नं सर्षपस्थूलमात्रकम् ।  
 नासिकाग्रे प्रयत्नेन भावयेद्योगतः सदा ॥ इति ।  
 पञ्चज्ञानमयं श्वासं पञ्चभूतस्वभावकम् ॥  
@@ -271,17 +216,17 @@ For further information see:
 धर्मश्च शब्दश्च हि नात्र लभ्यते ।  
 न चैकतां चाप्यवतीर्य धर्मताम्  
 अनुत्तरां क्षान्तिवरां स्पृशिष्यते ॥ इति ।  
-  
+
 वाग्विवेकमेलावणसंशयपरिच्छेदस्तृतीयः ॥ ३ ॥  
-  
-  
+
+
 ४। चतुर्थः परिच्छेदः  
-  
+
 दूरङ्गमेकचरमशरीरं गुहाशयम् ।  
 ये चित्तं सन्निवेशयन्ति मुच्यन्ते मारबन्धनाद् ॥ इति ।  
 प्रतीत्योत्पद्यते यद्यदिन्द्रियैर्विषयैर्मनः ॥  
 तन्मनस्त्वशीतिख्यातस्रकारस्त्राणनार्थतः ॥ इति ।  
-  
+
 संवित्तिमात्रकं ज्ञानमाकाशवदलक्षणम् ।  
 किन्तु तस्य प्रभेदो ऽस्ति सन्ध्यारात्रिदिवात्मना ॥  
 आलोकालोकभासौ च तथालोकोपलब्धकम् ।  
@@ -291,12 +236,12 @@ For further information see:
 आभासेन यदा युक्तो वायुर्वाहनतां गतः ।  
 तदा तत्प्रकृतिः सर्वा अस्तव्यस्ता प्रवर्तते ॥  
 यत्र यत्र स्थितो वायुस्तां तां प्रकृतिमुद्वहेत ॥ इति ।  
-  
+
 चित्तविवेकसंशयमेलावणपरिच्छेदश्चतुर्थः ॥ ४ ॥  
-  
-  
+
+
 ५। पञ्चमः परिच्छेदः  
-  
+
 पयोधरा यथा नैके नानासंस्थानवर्णकाः ।  
 उभ्दूता गगनाभोगाल्लयं गच्छन्ति तत्र वै ॥  
 एवंप्रकृतयः सर्वा आभासत्रयहेतुकाः ।  
@@ -315,9 +260,9 @@ For further information see:
 कल्पितं परतन्त्रेण दुःखात् क्लिश्यन्ति बालिशाः ॥  
 चित्तमात्रमिदं सर्वं मायाकारसमुत्थितम् ।  
 ततः शुभाशुभं कर्म ततो जन्म शुभाशुभम् ॥ इति ।  
-  
+
 कर्मान्तविभागमेलावणसंशयपरिच्छेदः पञ्चमः ॥ ५ ॥  
-  
+
   
 ६। षष्ठः परिच्छेदः ।  
   

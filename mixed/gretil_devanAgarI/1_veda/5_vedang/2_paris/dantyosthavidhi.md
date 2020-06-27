@@ -3,92 +3,21 @@ title = "Dantyosthavidhi"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Dantyosthavidhi  
-  
-  
-  
-  
-  
+
 Dantyosthavidhi  
-  
+
 Based on the edition by Pandita Ramagopala Sastri:  
 The Dantosthavidhih or the Fourth Kahsna Treatise of the Atharvaveda  
 edited with an introduction, translation and an index.  
 Lahore, 1921.  
-  
+
 Input by Arlo Griffiths  
 (1 August 2006)   
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 अथर्वाणम् ऋषिं देवं देवहयशिरोधरम् ।  
 प्रणम्य सम्प्रवक्ष्यामि दन्त्योष्ठविधिविस्तरम् ॥ १।१ ॥  
 छन्दस्य् अध्ययने प्राप्ते विदुषाम् अथ धीमताम् ।  
@@ -113,10 +42,9 @@ For further information see:
 द्वितीय स्पर्श्यो विज्ञेयो विबबाधे तथैव च ॥ १।११ ॥  
 बाहौ बाहवो बहुलं बुध्न्यं बद्ध्कम् एव च ।  
 एते सर्वे भवन्त्य् ओष्ठ्या ये नोक्तास् ते तु दन्तजाः ॥ १।१२ ॥  
-  
+
 इति प्रथमो ऽध्यायः ।  
-  
-  
+
 अधराद् उत्तरे भागे भागात् प्रतिविभागशः ।  
 दशनाग्रेण संस्पृष्ट्यो न तु पीडासु योजयेत् ॥ २।१ ॥  
 कम्बलं बल्बजं बीजं लिबुजा बण्म्हां असि ।  
@@ -139,13 +67,8 @@ For further information see:
 बंधु वा सिंधुरपर एतेषां तु बलः क्व चित् ॥ २।१० ॥  
 तुछुब्दश् चुबुकश् चैव बभूवुश् च बभूवुषी ।  
 एते सर्वे परित्यज्य बकारोन्योन्य भक्षन ॥ २।११ ॥  
-  
+
 ॥ इति द्वितीयो ऽअध्यायः ॥   
-  
+
 ॥ दन्त्योष्ठविधिः समाप्तः ॥  
-  
-  
-  
-  
-  
-  
+

@@ -3,106 +3,25 @@ title = "Brhadyamasmrti, 182-verse version"
 
 +++
 ## Intro
-  
-  
-  
-  
- Brhadyamasmrti, 182-verse version   
-  
-  
-  
-  
+
+Brhadyamasmrti, 182-verse version   
+
 Brhadyamasmrti  
 Based on the edition by V.G. Apte: Smṛtīnāṃ Samuccayaḥ, Pune 1905 (2nd ed. 1929), pp. 99-107.  
 (Ānandāśramasaṃskṛtagranthāvaliḥ / Anandasrama Sanskrit Series, 48)   
   
 This is another version of the Yamasmṛti, termed Bṛhadyamasmṛti in the editions (but not in mss.),  
 containing 182 verses in 5 adhyāyas.  
-  
-  
-  
-  
+
 Input and proof-reading by Juergen Neuss, Freie Universität Berlin.  
-  
-  
-  
-  
+
 PLAIN TEXT VERSION  
-  
-  
-  
+
 STRUCTURE OF REFERENCES:  
 YS182v_n.nn = Yamasmṛti, 182-verse version_adhyāya.verse  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 अध्याय १  
   
 अथातो यमधर्मस्य प्रायश्चित्तं व्याख्यास्यामः  ।  
@@ -137,8 +56,7 @@ For further information see:
 कृत्वा ऽघमर्षणं पक्षं शुध्यते च पयोव्रतात्  ॥ य्स्१८२व्_१।१५ ॥  
   
 इति श्रीयाम्ये धर्मशास्त्रे प्रथमो ध्यायः ॥  
-  
-  
+
 अध्याय २  
   
 नटां [टीं] शैलूषिकां चैव रजकीं वेणुजीविनीम्  ।  
@@ -161,8 +79,7 @@ For further information see:
 पूयन्ते तु व्रते चीर्णे सर्वे ते रिक्थभागिनः  ॥ य्स्१८२व्_२।९ ॥  
   
 इति श्रीयाम्ये धर्मशास्त्रे द्वितीयो ऽध्यायः ॥  
-  
-  
+
 अध्याय ३  
   
 ऊनैकादशवर्षस्य पञ्चवर्षात् परस्य च  ।  
@@ -307,8 +224,7 @@ For further information see:
 संध्ययोर् उभयोर् वा ऽपि पवित्रं सर्वदा जलम्  ॥ य्स्१८२व्_३।७० ॥  
   
 इति श्रीयाम्ये धर्मशास्त्रे तृतीयो ऽध्यायः ॥  
-  
-  
+
 अध्याय ४  
   
 खातं वापी तथा कूप- पाषाणे शस्त्रघातिते  ।  
@@ -494,8 +410,4 @@ For further information see:
   
 इति श्रीयाम्ये धर्मशास्त्रे पञ्चमो ऽध्यायः ।  
 समाप्तेयं बृहद्यमस्मृतिः ॥  
-  
-  
-  
-  
-  
+

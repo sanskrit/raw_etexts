@@ -3,86 +3,16 @@ title = "Bhagavadgita 16 (with commentaries)"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Bhagavadgita 16 (with commentaries)  
-  
-  
-  
-  
-  
+
 Bhagavadgita 16  
 with the commentaries of Sridhara, Visvanatha and Baladeva  
   
 Input by ... (Gaudiya Grantha Mandira)  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
+
 भ्ग् १६।१  
   
 श्री-भगवान् उवाच   
@@ -254,8 +184,7 @@ __________________________________________________________
 अथ स्वभाव-वादिनां बौद्धानाम् आह अपरस्पर-सम्भूतम् इति स्त्री-पुरुष-सम्भोग-जन्यं जगन् न भवति घटोत्पादने कुलालस्येव बालोत्पादने पित्रादेर् ज्ञानाभावात् सत्य् अप्य् असकृत् सम्भोगे सन्तानान् उत्पत्तेश् च स्वेदजादीनाम् अकस्माद् उत्पत्तेश् च । तस्मात् स्वभावाद् एवेदं भवतीति ।   
   
 अथ लोकायतिकानाम् आह काम-हेतुकम् इति । किम् अन्यद् वाच्य्म् । स्त्री-पुरुषयोः काम एव प्रवाहात्मना हेतुर् अस्येति स्वार्थे ठञ् । अथवा जैनानाम् आह कामः स्वेच्छयैव हेतुर् अस्येति । युक्ति-बलेन यो यत् कल्पयितुं शक्नुयात् स तद् एव तस्य हेतुं वदतीत्य् अर्थः ॥८॥  
-  
-  
+
 एतां दृष्टिम् अवष्टभ्य नष्टात्मानो ऽल्प-बुद्धयः ।  
 प्रभवन्त्य् उग्र-कर्माणः क्षयाय जगतो ऽहिताः ॥९॥  
   
@@ -433,8 +362,7 @@ __________________________________________________________
 विश्वनाथः : नोथिन्ग्।  
   
 बलदेवः : एषाम् आसुर-स्वभावान् क्वचिद् अपि विमोक्षो न भवतीत्य् आह तान् इति द्वाभ्याम् । आसुरीष्व् एव हिंसा-तृष्णादि-युक्तासु म्लेच्छ-व्याध-योनिषु तत्-तत्-कर्मानु-गुण-फलदः सर्वेश्वरो ऽहम् अजस्रं पुनः पुनः क्षिपामि ॥१९॥  
-  
-  
+
 __________________________________________________________  
   
 भ्ग् १६।२०  
@@ -488,8 +416,7 @@ __________________________________________________________
 विश्वनाथः : नोथिन्ग्।  
   
 बलदेवः : तत्-त्यागे फलम् आह एतैर् इति । श्रेयः स्वाश्रम-कर्मादि-श्रेयः-साधनम् । परां गतिं मुक्तिम् ॥२२॥  
-  
-  
+
 __________________________________________________________  
   
 भ्ग् १६।२३  
@@ -541,11 +468,4 @@ __________________________________________________________
 वेद-बाह्यास् तु नरकान् इति षोडश-निर्णयः ॥  
   
 इति श्रीमद्-भगवद्-गीतोपनिषद्-भाष्ये षोडशो ऽध्यायः ॥१६॥  
-  
-  
-  
-  
-  
-  
-  
-  
+

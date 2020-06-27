@@ -3,16 +3,9 @@ title = "Pasupatasutra (analytic)"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Pasupatasutra (analytic)  
-  
-  
-  
-  
-  
+
 Pasupatasutra  
 text based on the edition by Krishnanda Sagar, Varanasi 1987  
 (needs proof-reading!)  
@@ -20,74 +13,9 @@ text based on the edition by Krishnanda Sagar, Varanasi 1987
 Input by Reinhold Gruenendahl  
   
 Analytic text version  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 तेxत् अनल्य्सिस् अच्चोर्दिन्ग् तो ब्हेल चोन्वेन्तिओन्स्:  
   
 सन्धि मर्केर्स्:  
@@ -104,11 +32,8 @@ For further information see:
 ८: । -  
 ९: - ।  
 ०: - -  
-  
-  
-  
-  
-                अथ प्रथमो ऽध्यायः  
+
+अथ प्रथमो ऽध्यायः  
   
 अथातः पशुपतेः पाशुपतं योग-विधिं व्याख्यास्यामः  ॥ प्स्_१।१ ॥  
 भस्मना त्रिषवणं स्नायीत  ॥ प्स्_१।२ ॥  
@@ -154,9 +79,8 @@ For further information see:
 भवे भवे ना७तिभवे  ॥ प्स्_१।४२ ॥  
 भजस्व माम्  ॥ प्स्_१।४३ ॥  
 भवोद्भवः  ॥ प्स्_१।४४ ॥  
-  
-  
-                अथ द्वितीयो ऽध्यायः  
+
+अथ द्वितीयो ऽध्यायः  
   
 वामः  ॥ प्स्_२।१ ॥  
 देवस्य  ॥ प्स्_२।२ ॥  
@@ -185,9 +109,8 @@ For further information see:
 बल-प्रथमनाय नमः  ॥ प्स्_२।२५ ॥  
 सर्व-भूत-दमनाय नमः  ॥ प्स्_२।२६ ॥  
 मनो-ऽमनाय नमः  ॥ प्स्_२।२७ ॥  
-  
-  
-                अथ तृतीयो ऽध्यायः  
+
+अथ तृतीयो ऽध्यायः  
   
 अव्यक्त-लिङ्गी  ॥ प्स्_३।१ ॥  
 व्यक्ता३चारः  ॥ प्स्_३।२ ॥  
@@ -215,9 +138,8 @@ For further information see:
 सर्वेभ्यः  ॥ प्स्_३।२४ ॥  
 शर्व-सर्वेभ्यः  ॥ प्स्_३।२५ ॥  
 नमस् ते अस्तु रुद्र-रूपेभ्यः  ॥ प्स्_३।२६ ॥  
-  
-  
-                अथ चतुर्थो ऽध्यायः  
+
+अथ चतुर्थो ऽध्यायः  
   
 गूढ-विद्या तप आनन्त्याय प्रकाशते  ॥ प्स्_४।१ ॥  
 गूढ-व्रतः  ॥ प्स्_४।२ ॥  
@@ -243,9 +165,8 @@ For further information see:
 तत्-पुरुषाय विद्महे  ॥ प्स्_४।२२ ॥  
 महा-देवाय धीमहि  ॥ प्स्_४।२३ ॥  
 तन् नो रुद्रः प्रचोदयात्  ॥ प्स्_४।२४ ॥  
-  
-  
-                अथ पञ्चमो ऽध्यायः  
+
+अथ पञ्चमो ऽध्यायः  
   
 असङ्गः  ॥ प्स्_५।१ ॥  
 योगी  ॥ प्स्_५।२ ॥  
@@ -294,7 +215,4 @@ For further information see:
 शिवो मे अस्तु  ॥ प्स्_५।४५ ॥  
 सदा  ॥ प्स्_५।४६ ॥  
 शिवः  ॥ प्स्_५।४७ ॥  
-  
-  
-  
-  
+

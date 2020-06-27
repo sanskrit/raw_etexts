@@ -3,96 +3,21 @@ title = "Ahoratravratakatha (Prose version)"
 
 +++
 ## Intro
-  
-  
-  
-  
- Ahoratravratakatha (Prose version)   
-  
-  
-  
-  
+
+Ahoratravratakatha (Prose version)   
+
 Ahoratravratakatha (Prose version) = Avk_P  
 Based on the edition by R. Handurukande, Three Sanskrit Texts on Caitya Worship ḥ In Relation to the Ahorātravrata, Tokyo 2000  
 (Studia Philologica Buddhica, Monograph Series, 16).  
-  
-  
+
 Input by Klaus Wille (Göttingen)  
-  
-  
+
 ITALICS for restored text  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 अहोरात्रव्रतकथा   
-  
-  
+
 अव्क्_प्_१। ॐ नमो धर्मधातवे ।  
   
 आकाशनिर्मलो भूतो निष्प्रपञ्चगुणाश्रयः ।  
@@ -208,7 +133,4 @@ For further information see:
 अव्क्_प्_२७। शारिपुत्रः स्वगृहं गतवान् । धर्मदक्षमहाराजेन अहोरात्रव्रतराजप्रभावेन मोक्षम् अनुप्राप्तम् । तुषितभवनवासी सत्सुभासो महात्मा कलिमलं परिपूर्णं दारयित्वा तत्र सर्वविभवसुखम् अतुल्यं प्राप्तवान् । भागधेयं भवति सुगतसूत्रं श्रावयेद् यस् तु धर्म्यम् । ततः सभाजनाः कपिलवस्तुनि महानगरे स्वस्वस्थानम् अनुगच्छन्ति । भगवान् सशिष्यः समाधौ स्थितवान् ।  
   
 इति अहोरात्रव्रतकथा समाप्ता ।  
-  
-  
-  
-  
+

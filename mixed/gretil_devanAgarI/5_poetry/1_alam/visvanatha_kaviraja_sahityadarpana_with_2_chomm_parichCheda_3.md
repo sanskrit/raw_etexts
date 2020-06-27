@@ -3,35 +3,24 @@ title = "Visvanatha kaviraja: Sahityadarpana, with 2 comm., Pariccheda 3"
 
 +++
 ## Intro
-  
-  
-  
-  
- Visvanatha kaviraja: Sahityadarpana, with 2 comm., Pariccheda 3  
-  
-  
-  
-  
+
+Visvanatha kaviraja: Sahityadarpana, with 2 comm., Pariccheda 3  
+
 Visvanatha (kaviraja):  
 Sahityadarpana, with the author's autocommentary Vasudhakara,  
 Bhattacarya Srimahesvara Tarkalamkara's [=Mahesvarabhatta's] Vijnapriya,  
 and Anantadasa's Locana  
-  
-  
+
 Pariccheda 3  
-  
-  
+
 Input by members of the Sansknet project  
 (http://sansknet.ac.in)  
-  
-  
-  
+
 This GRETIL version has been converted from a custom Devanagari encoding.  
 Therefore, word boundaries are usually not marked by blanks  
-  
+
 The text is not proof-read!  
-  
-  
+
 NOTE:  
 The Sansknet version consists of three separate files for each pariccheda:  
 1) the mula text,   
@@ -41,7 +30,7 @@ and
 3) Anantadāsa's Locanā, continuously "numbered" according to vowels ["(lo, a)", "(lo, ā)" etc.].  
 However, the respective references to the "numberings" of the commentaries are  
 missing in the mula text, which renders their coordination impossible.  
-  
+
 This GRETIL version integrates the separate Sansknet files for the two commentaries   
 according to the following edition:  
 Śrīmadālaṃkārikacakravartitrikaliṅgagajapatisāmrājyasāndhi-  
@@ -51,132 +40,55 @@ granthakṛdātmabhuvā Sāhityadarpaṇavasudhākareṇa,
 Anantadāsena viracitayā Locanākhyayā,  
 Bhaṭṭācārya-śrī-Maheśvara-Tarkālaṃkāra-praṇītayā Vijñapriyā-samākhyayā ca vyākhyayā samakaṃkṛtaḥ  
 Dillī : Bhāratīya Buk Kārporeśan 1998  
-  
+
 ATTENTION:  
 The text and kārikā-numbering of the printed edition may vary from this e-text!  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
+
 तृतीयः परिच्छेदः  
-  
-  
+
 अथ को ऽयं रस इत्युच्यते--  
-  
-  
+
      ************* चोम्मेन्तर्य् *************  
-  
+
      विज्ञप्रिया:  
-  
+
      (वि, क) वाक्यं रसात्मकभित्युक्तत्वाद्रसं निरूपयितुं पृच्छति--अथेति ।  
-  
-  
-  
+
      लोचना:  
-  
+
       (लो, अ) रसस्वरूपं निरूपयितुकामस्तस्यावसरप्रप्तत्वं दर्शयन्नाह--अथेति ।  
      अथ--काव्यस्वरूपनिरूपणानन्तरं कोयं रसो यदात्मकं वाक्यं काव्यमित्यर्थः ।  
      इत्यपेक्षायामुच्यते--तत्स्वरूपं निरूप्यते ।  
-  
+
      ********** एन्द् ओड़् चोम्मेन्तर्य् **********  
-  
-  
+
 विभावेनानुभावेन व्यक्तः संचारिणा तथा ।  
-  
-  
+
      ************* चोम्मेन्तर्य् *************  
-  
+
      विज्ञप्रिया:  
-  
+
      (ख) विभावो रत्यादेरालम्बनोद्दीपनकारणदूयम् ।  
      अनुभावस्तस्य कार्यम् ।  
      सञ्चारी व्यभिचारी, निर्वेदादिरूपः कार्यविशेषः ।  
      तस्य पृथगुपादानं च गोवृषन्यायात् प्राशस्त्यार्थम्, प्रशस्त्यं च रत्यादेः शीघ्रप्रतिपादकत्वात् ।  
      यद्यपि विभावादित्रयस्य मिलितस्यैव रसहेतुता वक्ष्यते, तथापि यत्र श्लोके मिलिता न सन्ति तत्रैकेनान्यव्यञ्जने व्यभिचारिणामन्यापेक्षया शीघ्रव्यञ्जकत्वभित्येतद्द्वारा रसस्यापि शीघ्रप्रतिपादकत्वं बोध्यम् ।  
-  
+
      ********** एन्द् ओड़् चोम्मेन्तर्य् **********  
-  
-  
+
 रसतामेति रत्यादिः स्थायीभावः सचेतसाम् ॥ विस्स्द्_३।१ ॥  
-  
-  
+
      ************* चोम्मेन्तर्य् *************  
-  
+
      विज्ञप्रिया:  
-  
+
      (ग) रत्यादिः स्थायी भावो रसतामेतीत्यन्वयः ।  
      ननु रामादिवृत्ती रत्यादिर्विभावादिभिर्व्यज्यते ।  
      तद्व्यञ्जनावशादेव रसादेरसंलक्ष्यक्रमव्यङ्ग्यपरिभाषा, ततश्च भावनोपनीतः स रत्यादिर्विभावादिनिष्ठेन स्वादनाख्यव्यापारेण सामाजिकरत्याद्यभेदेनारोप्यमाणः स्वप्रकाशानन्दतया तथा परिणमतीति परिणामवादसिद्धान्तेन, तस्य सामाजिके रसताप्राप्तिः ।  
      एवमेवाग्रे व्यक्तिर्भविष्यति ।  
-  
-  
-  
+
      लोचना:  
   
      (लो, आ) विभावेनेत्यादि--सचेतसां-सहृदयानां रत्यादिः स्थायीभावः ।  
@@ -189,11 +101,9 @@ For further information see:
      यद्यपीह मिलितो रत्यादिः प्रपानकरसन्यायेन चर्व्यमाणो ऽखण्डस्वरूपो रसः, तथापि लोकप्रसिद्धिमासाद्य प्रत्यभिज्ञानात् स्थायिभावो रसतामेति ।  
   
      ********** एन्द् ओड़् चोम्मेन्तर्य् **********  
-  
-  
+
 विभावादयो वक्ष्यन्ते ।  
-  
-  
+
      ************* चोम्मेन्तर्य् *************  
   
      लोचना:  
@@ -213,8 +123,7 @@ For further information see:
      आनीय नीतः स्वाद्यत्वं स्थायिभावो रसः स्मृतः" ॥  
   
      ********** एन्द् ओड़् चोम्मेन्तर्य् **********  
-  
-  
+
 सात्त्विकाश्चानुभावरूपत्वात् न पृथगुक्ताः ।  
   
   

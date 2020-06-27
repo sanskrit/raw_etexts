@@ -3,96 +3,20 @@ title = "Ksemendra: Darpadalana, pada index"
 
 +++
 ## Intro
-  
-  
-  
-  
- Ksemendra: Darpadalana, pada index   
-  
-  
-  
-  
+
+Ksemendra: Darpadalana, pada index   
+
 Ksemendra: Darpadalana  
 Based on the ed. by Durgaparasad and Kashinath Pandurang Parab, Bombay 1890,  
 Kâvyamâlâ : a Collection of Old and Rare Sanskrit Kâvyas ... [= 'collective' Kavyamala series],  
 Part VI, pp. 66-118.  
-  
-  
-  
+
 Input by members of the Rasala team  
-  
-  
-  
+
 PADA INDEX  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 अकलङ्कविवेकानां  क्दर्प्_१।३०च्  
 अकस्माद्युवयोः कस्माद्  क्दर्प्_४।५७च्  
 अकाण्डखण्डितोच्चण्ड-  क्दर्प्_५।४१अ  
@@ -2457,7 +2381,4 @@ For further information see:
 होरायात्राम्बुधारेव  क्दर्प्_४।६७च्  
 ह्यो यः शिशुः स स्फुटयौवनो ऽद्य  क्दर्प्_४।७च्  
 ह्यो येन भग्नाः पुरतो ऽरिसेना  क्दर्प्_५।६अ  
-  
-  
-  
-  
+

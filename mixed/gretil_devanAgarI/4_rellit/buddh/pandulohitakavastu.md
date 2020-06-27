@@ -3,15 +3,9 @@ title = "Pandulohitakavastu"
 
 +++
 ## Intro
-  
-  
-  
-  
- Pandulohitakavastu   
-  
-  
-  
-  
+
+Pandulohitakavastu   
+
 Pandulohitakavastu (Vastu 11 of Vinayavastu)  
 Based on the edition by Nobuyuki Yamagiwa: Das Pāṇḍulohitakavastu, Über die verschiedenen Verfahrensweisen der Bestrafung in der buddhistischen Gemeinde, Neuausgabe der Sanskrit-Handschrift aus Gilgit, tibetischer Text und deutsche Übersetzung,  
 Marburg 2001 (Indica et Tibetica, 41).  
@@ -22,87 +16,17 @@ dto.: second edition, Delhi 1984.
   
 GBM =  Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lokesh Chandra, 10 pts., New Delhi 1959Ō1974 (Śata-Piṭaka Series 10). (The Vinayavastu manuscript is reproduced in vol. 6)  
                                                                         repr. in 3 parts Delhi 1995. (The Vinayavastu manuscript is reproduced in vol. 2)  
-  
-  
-  
+
 Input by Klaus Wille (Göttingen, Germany)  
-  
-  
-  
+
 NOTE:  
 The sole purpose of this file is to find parallels. The proper reading should always be checked with the ed. of Dutt resp. Yamagiwa and the manuscript itself (see GBM). The reference for the beginning of a new page in the ed. of Dutt resp. in the manuscript is given for the first new word (avoiding to have the reference in a word, so that the finding of this word is impossible by computer). The reference for the Pāṇḍulohitakavastu is according the paragraphing in the ed. of Yamagiwa.  
-  
-  
+
 BOLD for references  
 ITALICS for added/restored parts  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 पाण्डुलोहितकवस्तु  
   
 पाण्ड्-व् § ०।१ (२८८व्१ = ग्ब्म् ८८९) ॥ वस्तूद्दानम्* ॥  
@@ -338,6 +262,4 @@ For further information see:
 आवर्हितस् त्वम् उदायि संघेन । अप्रमादेन संपादय ॥  
   
 ॥ पाण्डुलोहितकवस्तु समाप्तः ॥  
-  
-  
-  
+

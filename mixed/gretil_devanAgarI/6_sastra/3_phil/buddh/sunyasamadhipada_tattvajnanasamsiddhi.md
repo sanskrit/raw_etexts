@@ -3,102 +3,47 @@ title = "Sunyasamadhipada: Tattvajnanasamsiddhi"
 
 +++
 ## Intro
-  
-  
-  
-  
+
+
+
+
  Sunyasamadhipada: Tattvajnanasamsiddhi   
-  
-  
-  
-  
+
+
+
+
 Sunyasamadhipada: Tattvajnanasamsiddhi  
 Based on the edition by Janardan Pandey: Tattvajñanasamsiddhih, with Marmakalikapanjika of Viryasrimitra.  
 Sarnath, Varanasi : Rare Buddhist Texts Research Unit, 2000  
 (Rare Buddhist Text Series, 23)  
-  
-  
-  
+
+
+
 Input by members of the Sanskrit Buddhist Input Project.  
 With kind permission of the Digital Sanskrit Buddhist Canon Project  
 of Nagarjuna Institute, Nepal  
 and University of the West, Rosemead, California, USA  
 (www.uwest.edu/sanskritcanon)  
 Sastra section  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
+
+
+
+
+
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
 तत्वज्ञानसंसिद्धिः  
-  
+
 ओम् नमः श्रीभगवत्यै वज्रवाराह्यै ॥  
-  
+
 आनन्दाम्बुधिमण्डनादुपगता सम्बुद्धलक्ष्मीरसौ  
 सर्वाकारगुणान्विता जगदघध्वान्तौघविध्वंसिनी ।  
 ज्योतिर्ज्ञाननिधेर्धृतिः स्मृतिनिधेः शान्तिर्मनीषानिधेः  
@@ -111,9 +56,9 @@ For further information see:
 सुभाषितप्रदे नित्यं मतिः कल्पनसोत्सुका ॥ त्ज्स्_०।४ ॥  
 ततःश्रद्वापरेणेदं मन्दस्वल्पधिया मया ।  
 कर्त्तव्य न मम दोषो वीक्षणीयो महाजनैः ॥ त्ज्स्_०।५ ॥  
-  
+
 ओम् नमः श्री वज्रवाराह्यै  
-  
+
 उद्याता तलचक्रतो ऽनिलधुता विद्युच्छटाभास्वरा,  
 दग्धालित्रितया त्रिलोकमहिता पीयूषधाराप्लुता ।  
 बुद्धज्ञानरसाविला विकलुषा स्वानन्दसन्दोहदा  
@@ -146,7 +91,7 @@ For further information see:
 गीतैवद्यैर्न्नृत्यैः प्रदक्षिणाप्रणतिनुतिभिश्च ॥ त्ज्स्_१।१३ ॥  
 प्रतिदिवसं प्रतिपक्षं प्रतिमासं वा तिथौ दशम्यां ।  
 कुर्याद्यथोक्तपूजाविधिमस्याः सिद्धिमाकांक्षणः ॥ त्ज्स्_१।१४ ॥  
-  
+
 अथ कृतवाह्यार्चनविधिरुरुकरुणो निर्मितारिध्याव्जे ॥  
 व्यसुहृयोष्णगुविम्वां ध्यायात्पूर्वोदितां देवीम् ॥ त्ज्स्_२।१ ॥  
 संध्यासिन्दूरवर्णां खरकरनिकरायास्तसप्तार्क्ककान्तीं ।  
@@ -183,9 +128,9 @@ For further information see:
 एवं लव्धनिमित्तो मुद्रां महतीमवाप्नोति ॥ त्ज्स्_२।१४ ॥  
 उत्थातुकामः प्रणिपत्य योगिनीं नाथं च कस्थं समुदीर्य मूः कृतिं ।  
 उत्थाय कृत्यं विदधीत तत्वधीस्तिष्ठेत्सदा योगयुगेन योगवित् ॥ त्ज्स्_२।१५ ॥  
-  
+
 इति तत्त्वज्ञानसंसिद्धौ भावनाविधिः ॥ २ ॥  
-  
+
 अध्येषितश्च बहुशः शिष्यैः कृतमण्डलैः पदाव्जनतैः ॥  
 मन्त्री तिथौ दशम्यां विदधीतानुग्रहन्तेषां ॥ त्ज्स्_३।१ ॥  
 संपूज्य मंत्ररूपां देवीं चक्रस्थितां विहितयोमः ।  
@@ -209,9 +154,9 @@ For further information see:
 ध्यायति यः किरवक्त्रां प्रतिदवसं यत्नतश्चतुःसंध्यं हरिहरहिरण्यगर्भैर्जेतुमशक्यां मृतिं जयति ॥ त्ज्स्_३।११ ॥  
 वस्त्रान्नपानधनधान्यविशालभूमिः प्रासाददिव्यशयनासनसाधनानि ।  
 तस्योद्भवन्ति दयिता विविधाश्च विद्या, यो भावयत्यशनिकोलमुखीं सचक्रां ॥ १२ ॥  
-  
+
 इति तत्वज्ञानसंसिद्धौ सानुशंसा शिष्यानुग्रहविधिः ॥  
-  
+
 मंत्रोद्धारमतः परमधिधास्ये वज्रयोगिनीहृदयं ।  
 कर्णात्कर्णमुपागतमास्यादास्यं तथाक्रमतः ॥ त्ज्स्_४।१ ॥  
 पूर्वोदितमिव चक्र संलिख्यं मरुद्गणालयोपेतां ।  
@@ -234,9 +179,9 @@ For further information see:
 मंत्रोयमशनीदेव्या लेख्यो जप्यो विभाव्यश्च ॥ त्ज्स्_४।१० ॥  
 चिन्तामणिः कल्पकुठाग्रकुम्भः श्रीकामदुग्धेनुरपि प्रशस्ताः ।  
 ते साध्यमाना ददतीह वित्तान्ययन्तु सौख्यं सधनं ददाति ॥ त्ज्स्_४।११ ॥  
-  
+
 इति तत्वज्ञानसंसिद्धौ मन्त्रौद्धारविधिः ॥  
-  
+
 यस्मिन्नयं पात्रगतेव्यलिख्य, पूजानिमित्तं विधिना विधिज्ञः ।  
 बालस्य रक्षा विधिवद्विधेया, वद्धेन दोकण्ठशिखासुवाहौ ॥ १ ॥  
 दृष्ट्वापयान्ति भुजगाः शिशुकं सरक्षं, भूता ग्रहा निशिचराः सपिशाचसंघाः ।  
@@ -249,9 +194,9 @@ For further information see:
 सत्वानां यन्मयोसीत्कुशलमकलुषं पूर्वचद्रांशुशुभ्रं ।  
 भूयासुस्तेन लोकाः कलिमलविकला शुद्धासम्बोधिभाजो  
 लब्ध्वा मुद्रामुदारां भवभयशमनीं सर्वसत्वार्थकर्त्रीं ॥ ५ ॥  
-  
+
 समाप्तोयं तत्वज्ञानसंसिद्धिर्नाम स्वाधिष्ठानश्चेति शुभम् सर्वदा  
-  
-  
-  
+
+
+
   

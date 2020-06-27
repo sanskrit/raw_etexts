@@ -3,97 +3,23 @@ title = "Devatasutra"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Devatasutra  
-  
-  
-  
-  
+
 Devatasutra (GBM 1542.5 - 1545.3) = Ds  
 Alpadevatasutra (GBM 1545.3 - 1545.8)  
 Based on the ed. by Adelheid Mette: "Zwei kleine Fragmente aus Gilgit",   
 Studien zur Indologie und Iranistik 7 (1981), pp. 133-151.  
-  
-  
+
 Input by Klaus Wille (Göttingen)  
-  
-  
+
 NOTE:  
 BOLD for first akṣara of new line (and references)  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 देवतासूत्र (ग्ब्म् १५४२।५)  
-  
-  
+
      एवं मया श्रुतम् एकस्मिं समये भगवां च्छ्रावस्त्यां विहरति स्म (द्स्; ग्ब्म् १५४२।६) जेतवने ऽनाथपिण्डदस्यारामे अथान्यतमा देवता अतिक्रान्तवर्णा अतिक्रान्तायां रात्र्यां येन भगवांस् तेनोपसंक्रान्ता (द्स्; ग्ब्म् १५४२।७) उपसंक्रम्य भगवतः पादौ शिरसा वन्दित्वा एकान्ते निषण्णा । अथ तस्या देवताया वर्णानुभावेन सर्वं जेतवनं उदारेणावभासेन (द्स्; ग्ब्म् १५४२।८) स्फुटम् अभूत् । एकान्ते निषण्णा सा देवता तस्यां वेलायाम् इमां गाथाम् अभाषत  
      किं नु तं निशितं शस्त्रं   किं वा हालाहलं विषं ।  
      को नु प्रज्वालितो वह्नि   किं वा तद् दारुणं तमः १ (द्स्; ग्ब्म् १५४३।१)  
@@ -164,13 +90,9 @@ For further information see:
      चिरस्य बत पश्यामि   ब्राह्मणं परिनिर्वृतं ।  
      सर्ववैरभयातीतं   तीर्णं लोके विषक्तिकाम् ॥ २३  
 इत्य् उक्त्वा सा देवता भगवतो भाषितम् (द्स्; ग्ब्म् १५४५।३) अभिनन्द्यानुमोद्य भगवतः पादौ शिरसा वन्दित्वा भगवतो ऽन्तिकात् प्रक्रान्ता ॥  
-  
-  
-  
+
 *********************************************************************************  
-  
-  
-  
+
 अल्पदेवतासूत्र = अद्स्  
   
 एवं मया श्रुतम् एकस्मिं समये भगवां च्छ्रावस्त्यां (अद्स्; ग्ब्म् १५४५।४) विहरति स्म जेतवने अनाथपिण्डदस्यारामे अथान्यतमा देवता अतिक्रान्तवर्णा अतिक्रान्तायां रात्र्यां येन भगवांस् (अद्स्; ग्ब्म् १५४५।५) तेनोपसंक्रान्ता उपसंक्रम्य भगवतः पादौ शिरसा वन्दित्वैकान्ते निषण्णा अपीदानीं तस्या देवताया वर्णानुभावेन (अद्स्; ग्ब्म् १५४५।६) सर्वं जेतवनं उदारेणावभासेन स्फुटम् अभूत् । एकान्ते निषण्णा सा देवता तस्यां वेलायां गाथाम् अभाषत ॥  
@@ -180,6 +102,4 @@ For further information see:
      श्रूयतां देवते मह्यं   ये जना स्वर्गगामिनः २  
      प्राणातिपाताद् विरता   सुशीलाः संयमे रताः  
      येन हिंसन्ति भूतानि   ते जनाः स्वर्गगामिनः ३  
-  
-  
-  
+

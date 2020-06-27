@@ -3,90 +3,16 @@ title = "Vijnanabhiksu: Samkhyasara"
 
 +++
 ## Intro
-  
-  
-  
-  
- Vijnanabhiksu: Samkhyasara   
-  
-  
-  
-  
+
+Vijnanabhiksu: Samkhyasara   
+
 Vijnanabhiksu: Samkhyasara  
 [source unknown]  
-  
-  
+
 Input by Dhaval Patel  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 साङ्ख्यसारः  ।  
 पूर्वभागः  ।  
 प्रथमः परिच्छेदः  ।  
@@ -158,11 +84,9 @@ For further information see:
 तन्न  । आत्मा वा ऽरे द्रष्टव्य इत्यादिश्रुतिभिरात्मनो ऽपि दृश्यत्वात् साक्षाद्दृश्यत्वविवक्षया च प्रकृत्यादेरसङ्ग्रहात् करणद्वारैव तद्दर्शनात्  । अथैवं कल्पनीयं आत्मनो वृत्तिव्याप्यत्वमेव दृश्यत्वं श्रुत्यादिभिर्विधीयते न तु प्रकाश्यत्वरूपफलव्याप्यत्वम्  । स्वयम्प्रकाशस्वरूपस्य प्रकाशापेक्षाविरहात्  । अतो ऽत्र दृश्यत्वं प्रकाश्यत्वं तच्चात्मनि नास्तीति तदपि तुच्छम्  । यथा ह्यहमित्यनुभूयमानो ऽप्यात्मा चैतन्याख्यफलव्याप्यो न भवतीति भवद्भिरुच्यते तथैव बौद्धैरपीष्यते सुखदुःखादिमत्त्वेनापि बुद्धिः स्वप्रकाशतया चैतन्यव्याप्या न भवतीति  । तथा चात्मनीव बुद्धावपि दृश्यत्वासिद्ध्या दृश्यत्वेन रूपेण बुद्धिविवेको ऽत्यन्तापेक्षितो ऽपि न सिध्यतीति भाष्यादिषु चान्यान्यत्र दूषणान्युक्तानीति दिक्  । ननु सम्भवत्येवं सामान्यरूपेण विवेकग्रहः  । तथापि सामान्यान्येव बहूनि सन्ति परिणामित्वसंहत्यकारित्वसुखदुःखमोहात्मकत्वचतुर्विंशतितत्त्वत्वादीन्यतस्तैस्तै रूपैर्विवेकग्रहाणां मोक्षहेतुत्वे ऽननुगमदोष इति चेन्न  । अभिमानप्रतिबन्धकज्ञानत्वेनैवानुगमादिति  । अथैवं सामान्यरूपेण विवेकस्यैव सर्वाभिमाननिवर्तकतया नाहं देहो नेन्द्रियाणित्यादिप्रत्येकरूपैर्विवेकग्रहाणां मोक्षहेतुत्वं श्रुतिस्मृत्योरुच्यमानं कथं घटेतेति चेन्न  । अवान्तरविवेकानां सामान्यविवेकप्रपञ्चमात्रत्वादिति ॥  
   
      इति श्रीविज्ञानभिक्षुविरचिते साङ्ख्यसारे मोक्षहेतुविवेकज्ञानस्य स्वरूपस्य परिच्छेदः  ॥ * ॥  
-  
-  
+
 -----------------------------------------------------------------------  
-  
-  
+
 अथ तृतीयः परिच्छेदः  ।  
   
 अथ के ते प्रकृत्यादयो येभ्यः पुरुषो विवेचनीय इत्युच्यते  ।  
@@ -248,14 +172,11 @@ For further information see:
   
 इति श्रीविज्ञानभिक्षुविरचिते साङ्ख्यसारे विवेकप्रतियोगिनां प्रकृत्यादीनां स्वरूपपरिच्छेदः  ॥ * ॥  
 इति साङ्ख्यसारस्य पूर्वभागः ॥  
-  
-  
+
 -----------------------------------------------------------------------  
-  
-  
+
 अथोत्तरभागः ॥  
-  
-  
+
 प्रथमः परिच्छेदः ॥  
   
 अथ शिष्यैः सुखेनैव ग्रहीतुं पद्यमालया  ।  
@@ -856,7 +777,4 @@ For further information see:
 इति साङ्ख्यसारस्योत्तरभागः  ।  
   
 साङ्ख्यसाराख्यं प्रकरणं समाप्तम्  ।  
-  
-  
-  
-  
+

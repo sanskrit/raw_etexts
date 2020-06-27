@@ -3,99 +3,23 @@ title = "Jnanasrimitra: Vrttamalastuti, plain text version"
 
 +++
 ## Intro
-  
-  
-  
-  
- Jnanasrimitra: Vrttamalastuti, plain text version   
-  
-  
-  
-  
+
+Jnanasrimitra: Vrttamalastuti, plain text version   
+
 Jnanasrimitra: Vrttamalastuti  
 Based on M. Hahn: "The Sanskrit Text of Jñānaśrīmitra's Vṛttamālāstuti",  
 in: Bauddhasāhityastabakāvalī : Essays and Studies on Buddhist Sanskrit Literature Dedicated to Claus Vogel by Colleagues, Students, and Friends,  
 ed. by Dragomir Dimitrov, Michael Hahn and Roland Steiner.  
 Marburg 2008 (Indica et Tibetica 36), pp. 93-170.  
-  
-  
+
 Input by Michael Hahn  
-  
-  
-  
+
 PLAIN TEXT VERSION  
-  
-  
+
 ITALIC for names of metres/technical terms  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 ॥ वृत्तमालास्तुतिः ॥  
 वृत्तं समम् अर्धसमं विषमं चेत्य् आमनन्ति वागीशः  ।  
 त्रिविधं परार्थविधये समासतो व्यासतो ऽनन्तम्  ॥ ज्व्म्स्_१ ॥  
@@ -570,7 +494,4 @@ For further information see:
 ॥ पादविषमम् ॥  
 ॥ आर्यमञ्जुघोषस्य दुष्करप्रभेदा वृत्तमालास्तुतिः समाप्त ॥  
 ॥ कृतिर् इयं महापण्डितस्थविरज्ञानश्रीमित्रस्य ॥  
-  
-  
-  
-  
+

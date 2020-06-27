@@ -3,26 +3,18 @@ title = "RGVEDA 4"
 
 +++
 ## Intro
-  
-  
-  
-  
- RGVEDA 4   
-  
-  
-  
-  
+
+RGVEDA 4   
+
 RGVEDA 4  
-  
-  
+
 % EXCERPTS FROM README:  
   
 % The edition used was that of Aufrecht, 1877. Apparently the edition was   
 % compiled by H.S. Ananthanarayana and W. P. Lehman.   
 % It is a "research-only" text.   
 % Reputedly, it was verified against Grassmann, 1876-77.  
-  
-  
+
 THE MODIFIED VERSE NUMBERING:  
   
 two digits for Mandala.  
@@ -32,74 +24,9 @@ one digit for line.
 {two digits for varga}  
   
 e.g.: 01.001.01.1{01}  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 र्व्_०४।००१।०१।१  त्वां ह्य् अग्ने सदम् इत् समन्यवो देवासो देवम् अरतिं न्येरिर इति क्रत्वा न्येरिरे  
 र्व्_०४।००१।०१।२  अमर्त्यं यजत मर्त्येष्व् आ देवम् आदेवं जनत प्रचेतसं विश्वम् आदेवं जनत प्रचेतसम्  
 र्व्_०४।००१।०२।१  स भ्रातरं वरुणम् अग्न आ ववृत्स्व देवां अछा सुमती यज्ञवनसं ज्येष्ठं यज्ञवनसम्  
@@ -1329,7 +1256,4 @@ For further information see:
 र्व्_०४।०५८।१०।२  इमं यज्ञं नयत देवता नो घृतस्य धारा मधुमत् पवन्ते  
 र्व्_०४।०५८।११।१  धामन् ते विश्वम् भुवनम् अधि श्रितम् अन्तः समुद्रे हृद्य्  अन्तर् आयुषि  
 र्व्_०४।०५८।११।२  अपाम् अनीके समिथे य आभृतस् तम् अश्याम मधुमन्तं त ऊर्मिम्   
-  
-  
-  
-  
+

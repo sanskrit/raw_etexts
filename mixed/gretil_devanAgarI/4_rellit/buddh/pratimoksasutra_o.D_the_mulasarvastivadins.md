@@ -3,15 +3,9 @@ title = "Pratimoksasutra of the Mulasarvastivadins"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Pratimoksasutra of the Mulasarvastivadins  
-  
-  
-  
-  
+
 Pratimoksasutra of the Mulasarvastivadins.  
 Based on the ed. Anukul Chandra Banerjee: Prātimokṣa-sūtra (Mūlasarvāstivāda), Calcutta 1954.  
 [First published in IHQ 29 (1953), pp. 162-174.]  
@@ -20,84 +14,13 @@ Reprinted with slight modifications (not indicated) as:
 Prātimokṣa Sūtra, in: Two Buddhist Vinaya Texts in Sanskrit,   
 Prātimokṣa Sūtra and Bhikṣukarmavākya, ed. Anukul Chandra Banerjee, Calcutta 1977, pp. 1-56.  
 Faks. in GBM 17-60  
-  
-  
-  
+
 Input by Klaus Wille, Göttingen  
-  
-  
-  
-  
+
 ITALICS for corrections and additions according to the Tibetan text and Finot  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 नमः सर्वज्ञाय ॥  
   
 प्रणम्य पूर्वं जगति प्रधानं दुःखालयोत्तीर्णम् अनन्तपारम्* ।  
@@ -155,8 +78,7 @@ For further information see:
 द्विर् अपि त्रिर् अपि पृच्छामि -- कच्चित् स्थात्र परिशुद्धाः  
   
 अत्रायुष्मन्तो यस्मात् तूष्णीम् एवम् एतद् धारयामि ।  
-  
-  
+
 चत्वारः पाराजिका धर्माः ।  
   
 इमे खलु आयुष्मन्तश् चत्वारः पाराजिका धर्मा अन्वर्धमासं प्रातिमोक्षसूत्रोद्देशम् आगच्छन्ति ।  
@@ -214,8 +136,7 @@ For further information see:
 द्विर् अपि त्रिर् अपि परिपृच्छामि -- कश्चित् स्थात्र परिशुद्धाः  
   
 परिशुद्धा अत्रायुष्मन्तो यस्मात् तूष्णीम् एवैतद् धारयामि ।  
-  
-  
+
 इइइ। द्वाव् अनियतौ धर्मौ ।  
   
 इमौ खलु आयुष्मन्तौ द्वौ अनियतौ धर्मौ अन्वर्धमासं प्रातिमोक्षसूत्रोद्देशम् आगच्छतः ।  
@@ -298,8 +219,7 @@ For further information see:
 उद्दिष्टा मे आयुष्मन्तस् त्रिंशन् नैसर्गिकपायन्तिका धर्माः । तत्राहम् आयुष्मन्तः परिपृच्छामि -- कश्चित् स्थात्र परिशुद्धाः  
 द्विर् अपि त्रिर् अपि परिपृच्छामि -- कश्चित् स्थात्र परिशुद्धाः  
 परिशुद्धा अत्रायुष्मन्तो यस्मात् तूष्णीम् एवम् एतद् धारयामि ।  
-  
-  
+
 नवतिः पायन्तिका धर्माः  
   
 इमे खल्व् आयुष्मन्तः नवतिः पायन्तिका धर्मा अन्वर्धमासं प्रातिमोक्षसूत्रोद्देशम् आगच्छन्ति ।  
@@ -505,8 +425,7 @@ For further information see:
 द्विर् अपि त्रिर् अपि -- कच्चित् स्थात्र परिशुद्धाः  
   
 परिशुद्धा आयुष्मन्तो यस्मात् तूष्णीम् एवम् एतद् धारयामि ।  
-  
-  
+
 संबहुलाः शैक्षा धर्माः ।  
   
 इमे खल्व् आयुष्मन्तः संबहुलाः शैक्षा धर्मा अन्वर्धमासं प्रातिमोक्षसूत्रोद्देशम् आगच्छन्ति ।  
@@ -724,15 +643,13 @@ For further information see:
 शै।१०७ (प्र्मोसू_मू-बनेर्जेए) नाग्लाना सहरिते पृथिवीप्रदेशे उच्चारप्रस्रावं खेटं सिंघाणकं वान्तं विरिक्तं छोरयिष्याम इति शिक्षा करणीया ।  
   
 शै।१०८ (प्र्मोसू_मू-बनेर्जेए) नासाधिकपौरुषं वृक्षम् अधिरोक्ष्यामो ऽन्यत्रापद इति शिक्षा करणीया ।  
-  
-  
+
 उद्दिष्टा मे आयुष्मन्तः संबहुलाः शैक्षा धर्माः । तत्राहम् आयुष्मतः परिपृच्छामि -- कच्चित् स्थात्र परिशुद्दाः  
   
 द्विर् अपि त्रिर् अपि परिपृच्छामि -- कच्चित् स्थात्र परिशुद्धाः  
   
 परिशुद्धा आयुष्मन्तो यस्मात् तूष्णीम् एवम् एतद् धारयामि ॥  
-  
-  
+
 सप्त अधिकरणशमथा धर्माः  
   
 इमे खल्व् आयुष्मन्तः सप्ताधिकरणशमथाः धर्मा अन्वर्धमासं प्रातिमोक्षसूत्रोद्देशम् आगच्छन्ति ।  
@@ -747,11 +664,9 @@ For further information see:
 द्विर् अपि त्रिर् अपि परिपृच्छामि -- कच्चित् स्थात्र परिशुद्धाः ।  
   
 परिशुद्धा आयुष्मन्तो यस्मात् तूष्णीम् एवम् एवाहं धारयामि ।  
-  
-  
+
 ड़ोर् थे प्रोसे अन्द् वेर्सेस् सेए क्लौस् त्। स्छ्मिद्त्: देर् स्छ्लुßतेइल् देस् प्रातिमोक्षसूत्र देर् सर्वास्तिवादिन्स्, तेxत् इन् सन्स्क्रित् उन्द् तोछरिस्छ् अ वेर्ग्लिछेन् मित् देन् परल्लेल्वेर्सिओनेन् अन्देरेर् स्छुलेन्, औड़् ग्रुन्द् वोन् तुर्ड़न्-हन्द्स्छ्रिड़्तेन् ह्र्स्ग्।, ग्öत्तिन्गेन् १९८९ (सन्स्क्रित्तेxते औस् देन् तुर्ड़न्ड़ुन्देन्, १३)।  
-  
-  
+
 उद्दिष्टं मे आयुष्मन्तः प्रातिमोक्षसूत्रोद्देशस्य निदानं ॥ उद्दिष्टाश् चत्वारः पाराजिका धर्मास् त्रयोदश संघावशेषा धर्मा द्वाव् अनियतौ धर्मौ । त्रिंशन् नैःसर्गिकपायन्तिका धर्माः नवति पायन्तिका धर्माश् चत्वारः प्रतिदेशनीया धर्माः संबहुला शैक्षा धर्माः सप्ताधिकरणशमथा धर्मा एतावत् तस्य भगवतस् तथागतस्यार्हतः सम्यक्संबुद्धस्य सूत्रगतं सूत्रपर्यापन्नम् इति यो वा पुनर् अन्यो ऽप्य् आगच्छेद् धर्मस्यानुधर्मः तत्र सहितैः समग्रैः संमोदमानैर् अविवदमानैस् तीव्रश् चेतस आरक्षास्मृत्यप्रमादे योगः करणीयः ॥  ॥  
   
      क्षान्तिः परमं तपस् तितिक्षा निर्वाणं परमं वदन्ति बुद्धाः ।  
@@ -794,8 +709,4 @@ For further information see:
      अशेषस् तेन लोको ऽयं मौनीन्द्रं पदम् आप्नुयात् ॥ १८  
   
 ॥। प्रातिमोक्षः समाप्तः ॥।   
-  
-  
-  
-  
-  
+

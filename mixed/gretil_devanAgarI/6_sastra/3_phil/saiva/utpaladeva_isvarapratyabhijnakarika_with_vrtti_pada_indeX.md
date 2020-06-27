@@ -3,17 +3,9 @@ title = "Utpaladeva: Isvarapratyabhijnakarika with vrtti, PADA INDEX"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Utpaladeva: Isvarapratyabhijnakarika with vrtti, PADA INDEX  
-  
-  
-  
-  
-  
-  
+
 Utpaladeva: Isvarapratyabhijnakarika with vrtti.  
   
 Based on the edition by Madhusudan Kaul Shastri, Srinagar 1921.  
@@ -21,83 +13,13 @@ Based on the edition by Madhusudan Kaul Shastri, Srinagar 1921.
   
 Revised according to the edition by Raffaele Torella, Roma 1994  
 (Serie Orientale Roma ; 71)  
-  
-  
+
 Input by Somadeva Vasudeva  
   
 PADA INDEX  
-  
-  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 अक्रमानन्तचिद्रूपः  इप्क्_१,७।१च्  
 अखण्डामर्शबृंहितः  इप्क्_४।१द्  
 अचिद्रूपस्य शून्यादेर्  इप्क्_३,२।११च्  
@@ -858,7 +780,4 @@ For further information see:
 हेतुतैकप्रमातृजा  इप्क्_१,७।४द्  
 हेतुष्व् अपि च वस्तुषु  इप्क्_१,८।३ब्  
 हेया त्रयीयं प्राणादेः  इप्क्_३,२।१८अ  
-  
-  
-  
-  
+

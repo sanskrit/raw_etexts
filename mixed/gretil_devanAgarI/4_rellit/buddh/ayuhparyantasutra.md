@@ -3,15 +3,9 @@ title = "Ayuhparyantasutra"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Ayuhparyantasutra  
-  
-  
-  
-  
+
 Ayuhparyantasutra  
 Based on the ed. by H. Matsumura: Ayuhparyantasutra, Das Sutra von der Lebensdauer in den verschiedenen Welten,  
 Göttingen 1989 (Sanskrit-Texte aus dem buddhistischen Kanon: Neuentdeckungen und Neueditionen, Erste Folge; SWTF, Beiheft 2), pp. 69-100.   
@@ -19,92 +13,22 @@ and
 Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lokesh Chandra, 10 pts.,  
 New Delhi 1959-1974 (Śata-Piṭaka Series, 10);  
 revised and enlarged compact edition in 3 pts., Delhi 1995 (Bibliotheca Indo-Buddhica Series, 150-152).  
-  
-  
+
 Input by Klaus Wille  
-  
-  
-  
+
 STRUCTURE OF REFERENCES:  
 Āps = Āyuḥparyantasūtra  
 GBM = Gilgit Buddhist Manuscripts (Facsimile ed.)  
-  
-  
+
 METRICS:  
 _ = long  
 ^ = short  
 X [uppercase!] = anceps  
-  
-  
+
 ITALIC = emendations  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 आप्स् १। भगवांच् छ्रावस्त्यां विहरति स्म जेतवने अनाथपिण्डदस्यारामे। तत्र भगवान् भिक्षून् आमन्त्रयते स्म। इच्छथ यूयं भिक्षवः सत्वानाम् (ग्ब्म् १७०७।१) आयुःपर्यन्तं श्रोतुं। एतस्य भगवां काल, एतस्य सुगत समयो, यद् भगवान् भिक्षूणां सत्वानाम् आयुःपर्यन्तं देशयेद्। भगवतः श्रुत्वा भिक्षवो धारयिष्यन्ति। तेन हि भिक्षवः (ग्ब्म् १७०७।२) शृणुत साधु च सुष्ठु च मनसिकुरुत, भाषिष्य। एवं भदन्तेति। ते भिक्षवो भगवतः प्रत्यश्रोषुः। अथ भगवांस् तान् भिक्षून् इदम् अवोचत्*।  
 आप्स् २। परं भिक्षवो नरकेषु कल्प आयुषः (ग्ब्म् १७०७।३) प्रमाणम्, अस्त्य् अन्तरेण कालक्रिया।  
 आप्स् ३। परं भिक्षवस् तिर्यक्षु कल्प आयुषः प्रमाणम्, अस्त्य् अन्तरेण कालक्रिया।  
@@ -280,6 +204,4 @@ For further information see:
 आप्स् ६५। आकिंचन्यायतनानां भिक्षवो देवानां षष्टिः कल्पसहस्राण्य् आयुषः प्रमाणम्, अस्त्य् अन्तरेण कालक्रिया।  
 आप्स् ६६। नैवसंज्ञानासंज्ञायतनानां भिक्षवो देवानाम् अशीतिः कल्पसहस्राण्य् आयुषः प्रमाणम्, अस्त्य् अन्तरेण कालक्रिया।  
 आप्स् ६७। ॥।  
-  
-  
-  
+

@@ -3,101 +3,46 @@ title = "Prasna-Upanisad"
 
 +++
 ## Intro
-  
-  
-  
-  
+
+
+
+
 Prasna-Upanisad  
-  
-  
-  
-  
+
+
+
+
 Prasna-Upanisad (Prasnopanisad)  
 with the commentary ascribed to Samkara  
-  
-  
+
+
 Input by members of the Sansknet project  
 (formerly: www.sansknet.org)  
-  
+
 This GRETIL version has been converted from a custom Devanagari encoding.  
 Therefore, word boundaries are usually not marked by blanks.  
 These and other irregularities cannot be standardized at present.  
-  
-  
-  
+
+
+
 NOTE:  
 The mula text has been revised and segmented according to the ed. by V.P. Limaya and R.D. Vadekar (Eighteen Principal Upanisads, Vol. 1, Poona 1958).  
-  
+
 PrUp 6.4 was rearranged and completed according to the Bibliotheca Indica edition.  
-  
+
 The text of the commentary is not proofread!  
-  
-  
-  
+
+
+
 REFERENCE SYSTEM:  
 PrUp_n.n = mula text  
 PrUpBh_n.n = Samkara's Bhasya  
+
+
+
   
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
+
 ## पाठः
   
   

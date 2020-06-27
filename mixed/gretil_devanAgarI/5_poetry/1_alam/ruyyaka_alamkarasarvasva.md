@@ -3,127 +3,72 @@ title = "Ruyyaka: Alamkarasarvasva"
 
 +++
 ## Intro
-  
-  
-  
-  
+
+
+
+
 Ruyyaka: Alamkarasarvasva  
-  
-  
-  
-  
-  
+
+
+
+
+
 Ruyyaka: Alamkarasarvasva  
 Sutras 1 - 34 (incomplete; remainder of 34 upto 87 not available).  
-  
+
 [The text seems to be based on the ed. by R. P. Dvivedi:  
 Alamkara Sarvasva of Sri Rajanaka Ruyyaka & Mankha,  
 with the Vimarsini of Jayaratha and with the translation and explanation of both in Hindi,  
 Varanasi : Chowkhamba 1971 (Kashi Sanskrit Series, 206),  
 pp. 1 - 352]  
-  
-  
+
+
 Input by members of the Sansknet project  
 (formerly: www.sansknet.org)  
-  
-  
-  
+
+
+
 This GRETIL version has been converted from a custom Devanagari encoding.  
 Therefore, word boundaries are usually not marked by blanks.  
 These and other irregularities cannot be standardized at present.  
-  
-  
+
+
 THE TEXT IS NOT PROOF-READ!  
-  
-  
+
+
 REFERENCE SYSTEM (added):  
 RuAss_  = Ruyyaka's Alamkarasarvasva  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
+
+
+
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
 ॥ श्रीः ॥  
-  
+
 अलङ्कारसर्वस्वम्   
-  
-  
-  
+
+
+
 नमस्कृत्य परां वाचं देवीं त्रिविधविग्रहाम् ।  
 गुर्वलङ्कारसूत्राणां वृत्त्या तात्पर्यमुच्यते ॥ रुअस्स्_० ॥  
-  
-  
-  
+
+
+
 ____________________________________________________________  
-  
-  
+
+
 स्तर्त् भूमिका  
-  
-  
-  
+
+
+
 इह हि तावद् भामहोद्भटप्रभृतयश्चिरन्तनालङ्कारकाराः प्रतीयमानमर्थे वाच्योपस्कारकतयालङ्कारपक्षनिक्षित्पं मन्यन्ते ।  
 तथाहि-पर्यायोक्ताप्रस्तुतप्रशंसासमासोक्त्याक्षेपव्याजस्तुत्युपमेयोपमानन्वयादौ वस्तुमात्रं गम्यमानं वाच्योपस्कारकत्वेन ऽस्वसिद्धये पराक्षेपःपरार्थे स्वसमर्पणम्ऽ इति यथायोगं द्विविधया भङ्ग्या प्रतिपादितं तैः ।  
 रुद्रटेनापि भावालङ्कारो द्विधोक्तः ।  
@@ -131,31 +76,31 @@ ____________________________________________________________
 उत्प्रेक्षा तु स्वयमेव प्रतीयमाना कथिता ।  
 रसवत्प्रेयःप्रभृतौ तु रसभावादिर्वाच्यशोभाहेतुत्वेनोक्तः ।  
 तदित्थं त्रिविधमपि प्रतीयमानमलङ्कारतया ख्यापितमेव । [रुअस्स्_भू।१]  
-  
-  
-  
+
+
+
 वामनेन तु सादृश्यनिबन्धनाया लक्षणाय वक्रोक्त्यलङ्कारत्वं ब्रुवता कश्चिद्ध्वनिभेदो ऽलङ्कारतयैवोक्तः ।  
 केवलं गुणविशिष्टपदरचनात्मिका रीतिः काव्यात्मकत्वेनोक्ता ।  
 उद्भटादिभिस्तु गुणालङ्काराणां प्रायशः साम्यमेव सूचितम् ।  
 विषयमात्रेण भेदप्रतिपादनात् ।  
 संघटनाधर्मत्वेन चेष्टेः ।  
 तदेवमलङ्कारा एव काव्ये प्रधानमिति प्राच्यानां मतम् । [रुअस्स्_भू।२]  
-  
-  
-  
+
+
+
 वक्रोक्तिजीवितकारः पुनर्वैदग्ध्यभङ्गीभणितिस्वभावां बहुविधां वक्रोक्तिमेवप्राधान्यात्काव्यजीवितमुक्तवान् ।  
 व्यापारस्य प्राधान्यं च [काव्यस्य] प्रतिपेदे ।  
 अभिधानप्रकारविशेषा एव चालङ्काराः ।  
 सत्यपि त्रिभेदे प्रतीयमाने व्यापाररूपा भणितिरेव कविसंरम्भगोचरः ।  
 उपचारवक्रतादिभिः समस्तो ध्वनिप्रपञ्चः स्वीकृतः ।  
 केवलमुक्तिवैचित्र्यजीवितं काव्यं, न व्यङ्ग्यार्थजीवितमिति तदीयं दर्शनं व्यवस्थितम् । [रुअस्स्_भू।३]  
-  
-  
-  
+
+
+
 भट्टनायकेन तु व्यङ्ग्यव्यापारस्य प्रौढोक्त्याभ्युपगतस्य काव्यंशत्वं ब्रुवता न्यग्भावितशब्दार्थस्वरूपस्य व्यापारस्यैव प्राधान्यमुक्तम् ।  
 तत्राप्यभिधाभावकत्वलक्षणव्यापारद्वयोत्तीर्णो रसचर्वणात्मा भोगापरपर्यायोव्यापारः प्राधान्येन विश्रान्तिस्थानतयाङ्गीकृतः । [रुअस्स्_भू।४]  
-  
-  
+
+
   
 ध्वनिकारः पुनरभिधातात्पर्यलक्षणाख्यव्यापारत्रयोत्तीर्णस्य ध्वननद्योतनादिशब्दाभिधेयस्य व्यञ्जनव्यापारस्यावश्याभ्युपगम्यत्वाद् व्यापारस्य च वाक्यार्थत्वाभावाद् वाक्यार्थस्यैव च व्याङ्ग्यरूपस्य गुणालङ्कारोपस्कर्तव्यत्वेन प्राधान्याद् विश्रान्तिधामत्वादात्मत्वं सिध्दान्तितवान् ।  
 व्यापारस्य विषयमुखेन स्वरुण्प्रतिलम्भात् तत्प्राधान्येन प्राधान्यात् स्वरूपेण विचार्यत्वाभावाद् विषयस्यैव समग्रभरसहिष्णुत्वम् ।  

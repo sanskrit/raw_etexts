@@ -3,26 +3,18 @@ title = "RGVEDA 1"
 
 +++
 ## Intro
-  
-  
-  
-  
- RGVEDA 1   
-  
-  
-  
-  
+
+RGVEDA 1   
+
 RGVEDA 1  
-  
-  
+
 % EXCERPTS FROM README:  
   
 % The edition used was that of Aufrecht, 1877. Apparently the edition was   
 % compiled by H.S. Ananthanarayana and W. P. Lehman.   
 % It is a "research-only" text.   
 % Reputedly, it was verified against Grassmann, 1876-77.  
-  
-  
+
 THE MODIFIED VERSE NUMBERING:  
   
 two digits for Mandala.  
@@ -32,75 +24,9 @@ one digit for line.
 {two digits for varga}  
   
 e.g.: 01.001.01.1{01}  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 र्व्_०१।००१।०१।१{०१}  अग्निमीऌए पुरोहितं यज्ञस्य देवम् ऋत्विजम्  
 र्व्_०१।००१।०१।२{०१}  होतारं रत्नधातमम्  
 र्व्_०१।००१।०२।१{०१}  अग्निः पूर्वेभिरृषिभिरीड्यो नूतनैरुत  
@@ -4237,7 +4163,4 @@ For further information see:
 र्व्_०१।१९१।१५।२{१६}  ततो विषं प्र वावृते पराचीरनु संवतः  
 र्व्_०१।१९१।१६।१{१६}  कुषुम्भकस्तदब्रवीद् गिरेः प्रवर्तमानकः  
 र्व्_०१।१९१।१६।२{१६}  वृश्चिकस्यारसं विषमरसं वृश्चिक ते विषम्  
-  
-  
-  
-  
+

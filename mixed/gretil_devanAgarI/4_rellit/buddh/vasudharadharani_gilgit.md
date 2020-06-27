@@ -3,15 +3,9 @@ title = "Vasudharadharani (Gilgit)"
 
 +++
 ## Intro
-  
-  
-  
-  
- Vasudharadharani (Gilgit)   
-  
-  
-  
-  
+
+Vasudharadharani (Gilgit)   
+
 Vasudharadharani or Sucandragrhapatipariprccha or Sucandravadana  
 (identification by Paul Harrison)  
 Based on facsimiles in: Gilgit Buddhist Manuscripts (Facsimile Edition),  
@@ -19,95 +13,22 @@ ed. by Raghu Vira and Lokesh Chandra, 10 pts., New Delhi 1959Ō1974
 (Śata-Piṭaka Series 10).  
 [revised and enlarged compact edition, 3 vols., Delhi 1995  
 (Bibliotheca Indo-Buddhica Series, 150-152)].  
-  
-  
-  
+
 Transliterated from the manuscript by Klaus Wille (Göttingen)  
-  
-  
-  
+
 NOTE:  
 Some scribal errors have been tacitly corrected,  
 and orthographic pecularities standardizes, e.g.,   
 kr for kkr, ḥ for "single-dot" visarga  
 Visargas and anusvaras have been tacitly added where appropriate.  
-  
-  
+
 BOLD marks beginning of pages  
 ITALICS for restored text and minor emendations  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
+
 वसुधाराधारणी   
-  
-  
+
 एवं मया श्रुतम् एकसमये भगवान् कौशाम्ब्यां विहरति स्म । कण्टकसंज्ञके महावनवरे महता भिक्षुसंघेन सार्धं पंचमात्रैर् भिक्षुशतैः संबहुलैश् च बोधिसत्वैर् महासत्वैः सर्वबुद्धधर्मगुणसमन्वागतैः   
   
 तेन खलु पुनः समयेन कौशाम्ब्यां महानगर्यां सुचन्द्रो नाम गृहपतिः प्रतिवसति स्म । उपशान्तेन्द्रियो उपशान्तमानसः बहुपुत्रो बहुदुहित्रिको बहुभृत्यपरिजनसंपन्नः श्राद्धो महाश्राद्धः स येन भगवांस् तेनोपसंक्रान्त उपसंक्रम्य भगवतः पादौ शिरसा वन्दित्वा भगवन्तम् अनेकशतसहस्रकृत्वः प्रदक्षणीकृत्यैकान्ते न्यषीदत्* एकान्तनिषण्णः सुचन्द्रो गृहपतिर् भगवन्तम् एतद् अवोचत्*  
@@ -142,7 +63,4 @@ For further information see:
 ____________________________  
   
 (एन्द् ओड़् मनुस्च्रिप्त् मिस्सिन्ग्!)  
-  
-  
-  
-  
+

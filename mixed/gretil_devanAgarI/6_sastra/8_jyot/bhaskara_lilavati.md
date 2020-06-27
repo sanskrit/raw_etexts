@@ -3,20 +3,13 @@ title = "Bhaskara: Lilavati"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Bhaskara: Lilavati  
-  
-  
-  
-  
+
 Bhaskara: Lilavati   
   
 Input by T. Hayashi (20 April 1993)  
-  
-  
+
 This digitalized version of the Lilavati is based on the following two editions:  
 1) Lilavati, ed with Ganesa's Buddhivilasini and Mahidhara's Lilavativivarana by V.G. Apate.  Anandasrama Sanskrit Series 107.  Poona 1937.  This edition is denoted by 'ApaTe.'  
 2) Lilavati, ed with Sankara's Kriyakramakari by K.V.Sarma.  Hoshiarpur 1975.  This edition is denoted by 'zarma.'  
@@ -30,77 +23,11 @@ The first and the second halves of a stanza for mathematical rules are sometimes
 The numbers given to the stanzas by Colebrooke in his English translation is different from ours.  They are noted as [Cb-].  
   
 The symbol @ indicates a verb.  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 [परिभाषा]  
-  
-  
-  
+
 लिल्_१अ। प्रीतिम् भक्त-जनस्य यस् @जनयते विघ्नम् विनिघ्नन् स्मृतस् तम् वृन्दारक-वृन्द-वन्दित-पदम् @नत्वा मतङ्ग-आननम्।  
   
 लिल्_१च्। पाटीम् सत्-गणितस्य @वच्मि चतुर-प्रीति-प्रदाम् प्रस्फुटाम् संक्षिप्त-अक्षर-कोमल-अमल-पदैस् लालित्य-लीलावतीम्॥[शार्दूलविक्रीडित]  
@@ -138,13 +65,9 @@ Lil_8ex.a/ #pāda-ūna-gadyāṇaka-tulya-ṭaṅkais %dvi-%sapta-tulyais kathit
 Lil_8ex.c/ maṇa-abhidhānam #kha-#yugais ca serais dhānya-ādi-taulyeṣu turuṣka-saṃjñā//[upajāti]  
   
 Lil_8p1/ śeṣā kāla-ādi-paribhāṣā lokatas prasiddhā jñeyā/ iti paribhāṣā//    
-  
-  
-  
+
 [parikarma-aṣṭaka]  
-  
-  
-  
+
 Lil_8p2/ atha saṃkhyā-sthāna-nirṇayas/  
   
 Lil_9a/ līlā-gala-lulat-lola-kāla-vyāla-vilāsine/  
@@ -255,13 +178,9 @@ Lil_29a/ paṅktyām @nyaset tad-kṛtim antya-nighnīm %tri-ghnīm @tyajet tad-
 Lil_29c/ ghanam tad-ādyāt ghana-mūlam evam paṅktis @bhavet evam atas punar ca//[upajāti]  
   
 Lil_29p1/ atra pūrva-ghanānām mūla-artham nyāsas 729/ 19683/ 1953125/ krameṇa labdhāni mūlāni 9/ 27/ 125//  iti ghana-mūlam//  iti parikarma-%aṣṭakam//    
-  
-  
-  
+
 [bhinna-parikarma-aṣṭaka]  
-  
-  
-  
+
 Lil_29p2/ atha bhinna-parikarma-%aṣṭakam// atha aṃśa-savarṇanam/ tatra bhāga-jātau karaṇa-sūtram vṛttam/  
   
 Lil_30a/ anyonya-hāra-abhihatau hara-aṃśau rāśyos sama-cheda-vidhānam evam/  
@@ -345,13 +264,9 @@ Lil_44a/ sa-%ardha-%trayāṇām @kathaya āśu vargam vargāt tatas varga-padam
 Lil_44c/ ghanam ca mūlam ca ghanāt tatas api @jānāsi ced varga-ghanau vibhinnau// [upajāti]  
   
 Lil_44p1/ nyāsas 3_1_2/ cheda-ghna-rūpe kṛte jātam 7_2/ asya vargas 49_4/ atas mūlam 7_2/ ghanas 343_8/ asya mūlam 7_2//  iti bhinna-parikarma-%aṣṭakam//    
-  
-  
-  
+
 [śūnya-parikarma-aṣṭaka]  
-  
-  
-  
+
 Lil_44p2/ atha #śūnya-parikarmasu karaṇa-sūtram āryā-%dvayam/  
   
 Lil_45a/ yoge #kham kṣepa-samam varga-ādau #kham #kha-bhājitas rāśis/  
@@ -370,13 +285,9 @@ Lil_47c/ #khena uddhṛtās %daśa ca kas %kha-guṇas nija-%ardha-yuktas %tribh
   
 Lil_47p1/ nyāsas 0/ etat %pañca-yutam jātam 5/ #khasya vargas 0/ mūlam 0/ ghanam 0/ ghana-mūlam 0//  nyāsas 5/ ete #khena guṇitās jātās 0//  nyāsas 10/ ete #kha-bhaktās 10_0//  ajñātas rāśis tasya guṇas 0/ sva-%ardham kṣepas 1_2/ guṇas 3/ haras 0/ dṛśyam 63/ tatas vakṣyamāṇena viloma-vidhinā iṣṭa-karmaṇā vā labdhas rāśis 14//  asya gaṇitasya graha-gaṇite  
 mahān upayogas//  iti śūnya-parikarma-%aṣṭakam//    
-  
-  
-  
+
 [prakīrṇaka]  
-  
-  
-  
+
 Lil_47p2/atha vyasta-vidhau karaṇa-sūtram vṛtta-%dvayam/  
   
 Lil_48a/ chedam guṇam guṇam chedam vargam mūlam padam kṛtim/  
@@ -623,13 +534,9 @@ Lil_89a/ drammeṇa @labhyate iha āmra-%śata-%trayam ced %triṃśat-paṇena 
 Lil_89c/ āmrais @vada āśu %daśabhis kati dāḍimāni labhyāni tad-vinimayena @bhavanti mitra//  
   
 Lil_89p1/ nyāsas {btabular} 16 & 1 \\ 300 & 30 \\ 10 & * {etabular} labdhāni dāḍimāni 16//  iti gaṇita-pāṭyām līlāvatyām prakīrṇakāni//    
-  
-  
-  
+
 [miśraka-vyavahāra]  
-  
-  
-  
+
 Lil_89p2/ atha miśraka-vyavahāre karaṇa-sūtram sa-%ardha-vṛttam/  
   
 Lil_90a/ pramāṇa-kālena hatam pramāṇam vimiśra-kālena hatam phalam ca/  
@@ -788,13 +695,9 @@ Lil_116c/ %eka-%dvi-%tri-ādi-yuktās madhura-kaṭu-kaṣāya-āmlaka-kṣāra-
   
 Lil_116p1/ mūṣā-nyāsas {btabular} 8 & 7 & 6 & 5 & 4 & 3 & 2 & 1 \\ 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 {etabular} labdhās %eka-%dvi-%tri-ādi-mūṣā-vahana-saṃkhyās {btabular} 8 & 28 & 56 & 70 & 56 & 28 & 8 & 1 \\ 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 {etabular} evam %aṣṭa-mūṣe rāja-gṛhe mūṣā-vahana-bhedās 255//  atha %dvitīya-udāharaṇam/ nyāsas {btabular} 6 & 5 & 4 & 3  
 & 2 & 1 \\ 1 & 2 & 3 & 4 & 5 & 6 {etabular} labdhās %eka-ādi-rasa-saṃyogena pṛthak vyaktayas/ {btabular} 6 & 15 & 20 & 15 & 6 & 1 \\ 1 & 2 & 3 & 4 & 5 & 6 {etabular} etāsām aikyam sarva-bhedās 63//  iti miśra-vyavahāras samāptas//    
-  
-  
-  
+
 [śreḍhī-vyavahāra]  
-  
-  
-  
+
 Lil_116p2/ atha śreḍhī-vyavahāras//  tatra saṃkalita-aikye karaṇa-sūtram vṛttam/  
   
 Lil_117a/ sa-%eka-pada-ghna-pada-%ardham atha %eka-ādi-aṅka-yutis kila saṃkalita-ākhyā/  
@@ -904,17 +807,11 @@ Lil_134a/ samānām %ardha-tulyānām viṣamāṇām pṛthak pṛthak/
 Lil_134c/ vṛttānām @vada me saṃkhyām anuṣṭubh-chandasi drutam//  
   
 Lil_134p1/ nyāsas/ uttaras %dvi-guṇas 2/ gacchas 8/ labdhās sama-vṛttānām saṃkhyās 256/ tathā %ardha-samānām ca 65280/ viṣamāṇām ca 4294901760//  iti śreḍhī-vyavahāras samāptas//    
-  
-  
-  
+
 [End of part one in āpaṭe]  
-  
-  
-  
+
 [kṣetra-vyavahāra]  
-  
-  
-  
+
 Lil_134p2/ atha kṣetra-vyavahāras/ tatra bhuja-koṭi-karṇānām anyatamābhyām anyatama-ānayanāya karaṇa-sūtram vṛtta-%dvayam/  
   
 Lil_135a/ iṣṭas bāhus yas @syāt tad-spardhinyām diśi itaras bāhus/  
@@ -1414,13 +1311,9 @@ Lil_213c/ yadi te @asti dhanus-guṇa-kriyā-gaṇite gāṇitika atinaipuṇam/
   
 Lil_213p1/ nyāsas/ jyās 42/ 82/ 120/ 154/ 184/ 208/ 226/ 236/ 240[/] sas eva apavartita-paridhis 18/ jīvā-#aṅghriṇā 21_2 %pañcabhis 5 ca paridhes 18 vargas 324 guṇitas 17010/ vyāsa-240-#abdhi-4-ghāta-960-yuta-maurvikayā 1002 anayā vibhaktas labdhas 17/ atra aṅka-lāghavāya %caturviṃśates %dvi-adhika-%sahasra-aṃśa-yutas gṛhītas/ anena ūnitāt  
 paridhi-18-varga-324-%caturtha-81-bhāgāt 64 pade prāpte 8 vṛti-18-#dalāt 9 patite 1 jātam dhanus/ evam jātāni dhanūṃṣi 1/ 2/ 3/ 4/ 5/ 6/ 7/ 8/ 9[/] etāni paridhi-%aṣṭādaśa-aṃśena guṇitāni @syus//  iti bhāskara-ācārya-viracitāyām līlāvatyām kṣetra-vyavahāras samāptas//  
-  
-  
-  
+
 [khāta-vyavahāra]  
-  
-  
-  
+
 Lil_213p2/ atha khāta-vyavahāras/ karaṇa-sūtram sa-%ardhā āryā/  
   
 Lil_214a/ @gaṇayitvā vistāram bahuṣu sthāneṣu tad-yutis bhājyā/  
@@ -1460,13 +1353,9 @@ Lil_219c/ vṛtte tathā eva %daśa-vistṛti-%pañca-vedhe sūcī-phalam @vada 
   
 Lil_219p1/ nyāsas/ [fig.36] bhujas 12/ vedhas 9/ jātam yathā-ukta-karaṇena khāta-phalam ghana-hastās 1296/ sūcī-phalam 432//  vṛtta-khāta-darśanāya nyāsas/ [fig.37] vyāsas 10/ vedhas 5/ atra sūkṣma-paridhis 3927_125/ sūkṣma-kṣetra-phalam 3927_50/ vedha-guṇam jātam khāta-phalam 3927_10/ sūkṣma-sūcī-phalam 1309_10/ yat vā sthūla-khāta-phalam 2750_7/ sūcī-phalam  
 sthūlam 2750_21//  iti khāta-vyavahāras samāptas//    
-  
-  
-  
+
 [citi-vyavahāra]  
-  
-  
-  
+
 Lil_219p1/ citau karaṇa-sūtram sa-%ardha-vṛttam/  
   
 Lil_220a/ ucchrayeṇa guṇitam cites kila kṣetra-saṃbhava-phalam ghanam @bhavet/ [śarma: api < kila]  
@@ -1486,13 +1375,9 @@ Lil_222a/ yad-vistṛtis %pañca-karā %aṣṭa-hastam dairghyam ca yasyām %tr
 Lil_222c/ tasyām citau kim phalam iṣṭakānām saṃkhyā ca kā @brūhi kati starās ca// [śarma: kim < kā]  
   
 Lil_222p1/ nyāsas/ [fig.38] iṣṭakā-citis/ iṣṭakāyās ghana-hasta-mānam 3_64/ cites kṣetra-phalam 40/ ucchrayeṇa guṇitam cites ghana-phalam 120/ labdhā iṣṭakā-saṃkhyā 2560/ stara-saṃkhyā 24/ evam pāṣāṇa-citau api//  iti citi-vyavahāras//    
-  
-  
-  
+
 [krakaca-vyavahāra]  
-  
-  
-  
+
 Lil_222p2/ atha krakaca-vyavahāre karaṇa-sūtram vṛttam/  
   
 Lil_223a/ piṇḍa-yoga-#dalam agra-mūlayos dairghya-saṃguṇitam aṅgula-ātmakam/  
@@ -1520,12 +1405,9 @@ Lil_226a/ yad-vistṛtis #danta-mitā aṅgulāni piṇḍas tathā %ṣoḍaśa
 Lil_226c/ chedeṣu tiryak %navasu @pracakṣva kim @syāt phalam tatra kara-ātmakam me//  
   
 Lil_226p1/ nyāsas/ [fig.40] vistāras 32/ piṇḍas 16/ piṇḍa-vistṛti-hatis 512/ dāru-dāraṇa-mārga-9-ghnī 4608/ %ṣaṣ-#svara-#iṣu-576-vihṛtā jātam phalam hastās 8//  iti krakaca-vyavahāras//    
-  
-  
-  
+
 [rāśi-vyavahāra]  
-  
-  
+
 Lil_226p1/ atha rāśi-vyavahāre karaṇa-sūtram vṛttam/  
   
 Lil_227a/ anaṇuṣu %daśama-aṃśas aṇuṣu atha %ekādaśa-aṃśas paridhi-%navama-bhāgas śūki-dhānyeṣu vedhas/ [śarma: śūka- < śūki-]  
@@ -1558,13 +1440,9 @@ Lil_231c/ teṣām @ācakṣva me kṣipram ghana-hastān pṛthak pṛthak//
 Lil_231p1/ atra api sthūla-ādi-dhānyānām rāśi-māna-avabodhanāya spaṣṭam kṣetra-%trayam/ tatra ādau anaṇu-dhānya-rāśi-māna-bodhakam kṣetram/ nyāsas/ [fig.44] atra ādyasya paridhis 30 %dvi-nighnas 60/ anyas 15 %catur-ghnas 60/ aparas 45 sa-%tri-bhāga-%eka-4_3-nighnas 60/ eṣām vedhas 6 ebhyas phalam tulyam etāvantyas eva khāryas 600/ etat sva-sva-guṇena bhaktam  
 jātam pṛthak pṛthak phalam 300/ 150/ 450//  atha aṇu-dhānya-rāśi-māna-ānayanāya nyāsas/ [fig.45] pūrva-vat kṣetra-%trayāṇām sva-guṇa-guṇita-paridhis 60/ vedhas 60_11/ phalāni 272_8_11/ 136_4_1/ 409_1_11// atha śūki-dhānya-rāśi-māna-ānayanāya nyāsas/ [fig.46] atra api pūrva-vat kṣetra-%trayāṇām sva-guṇa-guṇitas paridhis 60/ vedhas 20_3/ phalāni 333_1_3/  
 166_2_3/ 500//  iti rāśi-vyavahāras samāptas//    
-  
-  
-  
+
 [chāyā-vyavahāra]  
-  
-  
-  
+
 Lil_231p2/ atha chāyā-vyavahāre karaṇa-sūtram vṛttam/  
   
 Lil_232a/ chāyayos karṇayos antare ye tayos varga-viśleṣa-bhaktās #rasa-#adri-#iṣavas/  
@@ -1625,13 +1503,9 @@ Lil_241a/ yat kiṃcit guṇa-bhāga-hāra-vidhinā bīje atra vā @gaṇyate ta
 Lil_241c/ etat yat bahudhā asmad-ādi-jaḍa-dhī-dhī-vṛddhi-buddhyā budhais tad-bhedān su-gamān @vidhāya racitam prājñais prakīrṇa-ādikam// [śarma: -buddhi-pravṛddhyai < -vṛddhi-buddhyā, -bheda-anugamān < -bhedān sugamān]  
   
 Lil_241p1/ iti śrī-bhāskara-ācārya-viracitāyām līlāvatyām chāyā-adhikāras samāptim @agāt//    
-  
-  
-  
+
 [kuṭṭaka]  
-  
-  
-  
+
 Lil_241p2/ atha kuṭṭake karaṇa-sūtram vṛtta-%pañcakam/  
   
 Lil_242a/ bhājyas hāras kṣepakas ca apavartyas kena api ādau saṃbhave kuṭṭaka-%artham/  
@@ -1752,13 +1626,9 @@ Lil_260a/ kas %pañca-nighnas vihṛtas %triṣaṣṭyā %sapta avaśeṣas ath
 Lil_260c/ %daśa-āhatas @syāt vihṛtas %triṣaṣṭyā %caturdaśa agras @vada rāśim enam//  
   
 Lil_260p1/ atra guṇa-aikyam bhājyas/ agra-aikyam śuddhis iti/ nyāsas/ bhājyas 15 hāras 63 śudhis 21/ pūrva-vat jātas śuddhas guṇas 14//  iti līlāvatyām kuṭṭaka-adhyāyas//    
-  
-  
-  
+
 [aṅka-pāśa]  
-  
-  
-  
+
 Lil_260p2/ atha aṅka-pāśas/ atha gaṇita-pāśe nirdiṣṭa-aṅkais saṃkhyāyās vibhede karaṇa-sūtram vṛttam/  
   
 Lil_261a/ sthāna-antam %eka-ādi-caya-aṅka-ghātas saṃkhyā-vibhedās niyatais @syus aṅkais/  
@@ -1826,26 +1696,16 @@ Lil_271a/ na guṇas na haras na kṛtis na ghanas pṛṣṭas tathā api duṣ
 Lil_271c/ garvita-gaṇaka-baṭūnām @syāt pātas avaśyam aṅka-pāśe asmin//  
   
 Lil_271p/ iti līlāvatyām aṅka-pāśas/  
-  
-  
-  
+
 [grantha-samāpti]  
-  
-  
-  
+
 Lil_272a/ yeṣām su-jāti-guṇa-varga-vibhūṣita-aṅgī śuddhā akhila-vyavahṛtis khalu kaṇṭha-saktā/  
   
 Lil_272c/ līlāvatī iha sa-rasa-uktim udāharantī teṣām sadā eva sukha-saṃpad @upaiti vṛddhim//  
   
 Lil_272p/ iti śrī-bhāskara-ācārya-viracite siddhānta-śiromaṇau līlāvatī-saṃjñas pāṭī-adhyāyas saṃpūrṇas//  
-  
-  
-  
+
 [End of part two in Apate]  
   
 ============== [End of the Lilavati] ================  
-  
-  
-  
-  
-  
+

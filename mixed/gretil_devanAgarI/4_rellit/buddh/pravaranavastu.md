@@ -3,15 +3,9 @@ title = "Pravaranavastu"
 
 +++
 ## Intro
-  
-  
-  
-  
- Pravaranavastu   
-  
-  
-  
-  
+
+Pravaranavastu   
+
 Pravaranavastu of the Vinayavastvagama of the Mulasarvastivadin (Vastu 3 im Vinayavastu)  
 Based on the edition by Jin-il Chung, Die Pravāraṇā in den kanonischen Vinaya-Texten der Mūlasarvāstivādin und der Sarvāstivādin, Göttingen 1998 (Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden, Beiheft 7). = Pravā-v  
   
@@ -23,87 +17,15 @@ GBM = Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lok
 MSV IV = Gilgit Manuscript, ed. N. Dutt, vol. III, part IV, Calcutta 1950.  
 MSV,Wi = K. Wille: Die handschriftliche Überlieferung des Vinayavastu der Mūlasarvāstivādin, Stuttgart 1990 (Verzeichnis der orientalischen Handschriften in Deutschland, Suppl.-Bd. 30) [= Diss., 1987]  
 SHT = Sanskrithandschriften aus den Turfanfunden, ed. E. Waldschmidt et al., vol. 1ff., Wiesbaden/Stuttgart 1965ff. (Verzeichnis der orientalischen Handschriften in Deutschland, X,1ff.).  
-  
-  
-  
-  
+
 Input by Jin-il Chung & Klaus Wille (Göttingen, Germany)  
-  
-  
-  
-  
+
 BOLD for references  
 ITALICS for restored passages  
 * = virama  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 प्रवारणावस्तु  
   
 (प्रवा-व् १४७)  
@@ -567,6 +489,4 @@ For further information see:
 यथापि तत् तद् एव प्रवारणायां (७४र्) पञ्चदश्याम् अग्लानो ग्लानस्य प्रवारणां दूतेन स्थापयति। दूत इदं स्याद् वचनीयः। आगमय त्वम् आयुष्मन्। ग्लानो ऽसाव् अप्रयोगक्षमः। (ग्ब्म् ६।७२९।१०; म्स्व् इव् १३०।१८)।  
   
 ड़ोलिओ ७४ इस् लोस्त्, थेरेड़ोरे थे सन्स्क्रित् तेxत् ओड़् प्रवा-व् १४।१ तो १४।२।४ इस् नोत् एxतन्त्।  
-  
-  
-  
+

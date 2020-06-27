@@ -3,31 +3,19 @@ title = "Mahasudarsanavadana"
 
 +++
 ## Intro
-  
-  
-  
-  
- Mahasudarsanavadana   
-  
-  
-  
-  
+
+Mahasudarsanavadana   
+
 Mahasudarsanavadana (= MSuAv)  
 Based on the edition by H. Matsumura: The Mahāsudarśanāvadāna and the Mahāsudarśanasūtra,  
 Delhi 1988 (Bibliotheca Indo-Buddhica 47).  
-  
-  
-  
+
 Input by Klaus Wille (Göttingen, Germany),  
 revised March 2009  
-  
-  
-  
-  
+
 GBM = Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lokesh Chandra, 10 pts., New Delhi 1959Ō1974 (Śata-Piṭaka Series 10);  
 revised and enlarged compact edition, 3 vols., Delhi 1995 (Bibliotheca Indo-Buddhica Series, 150-152).  
-  
-  
+
 NOTE  
 The text has been standardized as follows:  
 ṃt -> nt  
@@ -38,78 +26,11 @@ rvv -> rv
 ttr -> tr  
 tṛr -> trir  
 [upādhmanīya] -> ḥ  
-  
-  
+
 ITALICS for restored text  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 म्सुअव् [१] (ग्ब्म् १४५१।८) ॥ पुनर् अपि महाराज यन् मया अनुत्तरां सम्यक्संबोधिं प्रार्थयता सत्वहितं (ग्ब्म् १५५०।१) कृतं तच् छ्रूयतां।  
   
 म्सुअव् [२] भूतपूर्वं महाराज राजा बभूव महासुदर्शनो नाम सप्तभि रत्नैः समन्वागतः चतसृभिश् च मानुषिकाभि रिद्धिभिः। कतमैः सप्तभि रत्नैः, तद्यथा (ग्ब्म् १५५०।२) चक्ररत्नेन हस्तिरत्नेनाश्वरत्नेन मणिरत्नेन स्त्रीरत्नेन गृहपतिरत्नेन परिणायकरत्नेन सप्तमेन। कतमाभिश् चतसृभिः मानुषिकाभि रिद्धिभिः समन्वागत, राजा (ग्ब्म् १५५०।३) महाराज महासुदर्शनो दीर्घायुर् अभूच् चिरस्थितिकः। स चतुरशीतिं वर्षसहस्राणि कुमारक्रीडायां क्रीडितवां, चतुरशीतिं वर्षसहस्राणि यौवराज्यं कारितवां, (ग्ब्म् १५५०।४) चतुरशीतिं वर्षसहस्राणि महाराज्यं कारितवां, चतुरशीतिं वर्षसहस्राणि राजर्षिब्रह्मचर्यम् अचार्षीद्। यन् महाराज राजा महासुदर्शनो (ग्ब्म् १५५०।५) दीर्घायुर् अभूच् चिरस्थितिकश् चतुरशीतिं वर्षसहस्राणि यावद् राजर्षिब्रह्मचर्यम् अचार्षी, इयं राज्ञो महासुदर्शनस्य रिद्धिर् इत्य् उच्यते।  
@@ -204,7 +125,4 @@ For further information see:
 म्सुअव् [२४] स्यात् खलु महाराजान्यस् स तेन कालेन तेन समयेन महासुदर्शनो (ग्ब्म् १५६७।५) नाम राजा चक्रवर्ती चतुर्द्वीपेश्वरः सप्तभि रत्नैः समन्वागतः चतसृभि मानुषिकाभि रिद्धिभिर् इति, न खल्व् एवं द्रष्टव्यं। अहम् एव स तेन (ग्ब्म् १५६७।६) कालेन तेन समयेन महाराजाभूवन् महासुदर्शनो नाम राजा चक्रवर्ती चतुर्द्वीपेश्वरः सप्तभि रत्नैः समन्वागतः चतसृभि मानुषिकाभि रिद्धिभिः (ग्ब्म् १५६७।७) इति। स्यात् खलु महाराज तेन मया दानेन वा दानसंविभागेन वा अनुत्तरा सम्यक्संबोधिर् अधिगतेति, न खल्व् एवं द्रष्टव्यं। अपि तु तद् दानम् अनुत्तरायास् सम्यक्संबोधेः (ग्ब्म् १५६७।८) हेतुमात्रकं प्रत्ययमात्रकं संभारमात्रकम् इति।  
   
 महासुदर्शनावदानः समाप्त।  
-  
-  
-  
-  
+

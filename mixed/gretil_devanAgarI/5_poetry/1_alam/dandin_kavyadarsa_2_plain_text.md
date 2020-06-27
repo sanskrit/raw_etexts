@@ -3,90 +3,19 @@ title = "Dandin: Kavyadarsa 2 (plain text)"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Dandin: Kavyadarsa 2 (plain text)  
-  
-  
-  
-  
+
 DANDIN: KAVYADARSA, Pariccheda 2 (incomplete!): Verses 2.1-144, 310-368  
 based on the edition by S.K. Belvalkar, Poona 1924.  
   
 Input by Reinhold Gruenendahl  
-  
-  
+
 PLAIN TEXT VERSION  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-                             परिच्छेद २  
+
+परिच्छेद २  
   
 काव्यशोभाकरान् धर्मान् अलंकारान् प्रचक्षते  ।  
 ते चाद्यापि विकल्प्यन्ते कस् तान् कार्त्स्न्येन वक्ष्यति  ॥ २।१ ॥  
@@ -103,8 +32,7 @@ For further information see:
 विरोधाप्रस्तुतस्तोत्रे व्याजस्तुतिनिदर्शने  ॥ २।६ ॥  
 सहोक्तिः परिवृत्त्याशिः- संकीर्णम् अथ भाविकम्  ।  
 इति वाचाम् अलंकारा दर्शिताः पूर्वसूरिभिः  ॥ २।७ ॥  
-  
-  
+
 [स्वभावोक्ति (= स्वभावाख्यान = जाति)]  
   
 नानावस्थं पदार्थानां रूपं साक्षाद् विवृण्वती  ।  
@@ -128,8 +56,7 @@ For further information see:
   
 जातिक्रियागुणद्रव्य- स्वभावाख्यानम् ईदृशम्  ।  
 शास्त्रेष्व् अस्यैव साम्राज्यं काव्येष्व् अप्य् एतद् ईप्सितम्  ॥ २।१३ ॥  
-  
-  
+
 [उपमा]  
 यथा कथंचिद् सादृश्यं यत्रोद्भूतं प्रतीयते  ।  
 उपमा नाम सा तस्याः प्रपञ्चो ऽयं निदर्श्यते  ॥ २।१४ ॥  
@@ -306,8 +233,7 @@ For further information see:
 तम् अन्वेत्य् अनुबध्नाति तच्छीलं तन्निषेधति  ॥ २।६४ ॥  
 तस्य चानुकरोतीति शब्दाः सादृश्यम् ऊचकाः  ।  
 उपमायाम् इमे प्रोक्ताः कवीनां बुद्धिसौख्यदाः  ॥ २।६५ ॥  
-  
-  
+
 [रूपक]  
   
 [- समस्तरूपक]  
@@ -413,8 +339,7 @@ For further information see:
   
 न पर्यन्तो विकल्पानां रूपकोपमयोर् अतः  ।  
 दिङ्मात्रं दर्शितं धीरैर् अनुक्तम् अनुमीयताम्  ॥ २।९६ ॥  
-  
-  
+
 [दीपक]  
   
 जातिक्रियागुणद्रव्य- वाचिनैकत्र वर्तिना  ।  
@@ -481,8 +406,7 @@ For further information see:
   
 अनेनैव प्रकारेण शेषाणाम् अपि दीपके  ।  
 विकल्पानाम् अवगतिर् विधातव्या विचक्षणैः  ॥ २।११५ ॥  
-  
-  
+
 [आवृत्ति]  
 अर्थावृत्तिः पदावृत्तिर् उभयावृत्तिर् एव च  ।  
 दीपकस्थान एवेष्टम् अलंकारत्रयं यथा  ॥ २।११६ ॥  
@@ -498,8 +422,7 @@ For further information see:
 [- उभयावृत्ति (अर्थ उ। पद)]  
 जित्वा विश्वं भवान् अत्र विहरत्य् अवरोधनैः  ।  
 विहरत्य् अप्सरोभिस् ते रिपुवर्गो दिवं गतः  ॥ २।११९ ॥  
-  
-  
+
 [आक्षेप]  
 प्रतिषेधोक्तिर् आक्षेपस् त्रैकाल्यापेक्षया त्रिधा  ।  
 अथास्य पुनर् आक्षेप्य- भेदानन्त्याद् अनन्तता  ॥ २।१२० ॥  
@@ -790,8 +713,7 @@ For further information see:
 [- विरोधिश्लेष]  
 अच्युतो ऽप्य् अवृषच्छेदी राजाप्य् अविदितक्षयः  ।  
 देवो ऽप्य् अविबुधो जज्ञे शंकरो ऽप्य् अभुजंगवान्  ॥ २।३२२ ॥  
-  
-  
+
 [विशेषोक्ति]  
 गुणजातिक्रियादीनां यत्र वैकल्यदर्शनम्  ।  
 विशेषदर्शनायैव सा विशेषोक्तिर् इष्यते  ॥ २।३२३ ॥  
@@ -817,9 +739,7 @@ For further information see:
 आक्रामत्य् एव तेजस्वी तथाप्य् अर्को नभस्तलम्  ॥ २।३२८ ॥  
 सैषा हेतुविशेषोक्तिस् तेजस्वीति विशेषणात्  ।  
 अयं एव क्रमो ऽन्येषां भेदानाम् अपि कल्पते  ॥ २।३२९ ॥  
-  
-  
-  
+
 [तुल्ययोगिता]  
 विवक्षितगुणोत्कृष्टैर् यत् समीकृत्य कस्यचित्  ।  
 कीर्तनं स्तुतिनिन्दार्थं सा मता तुल्ययोगिता  ॥ २।३३० ॥  
@@ -828,8 +748,7 @@ For further information see:
 बिभृत्य् अनन्यविषयां लोकपाल इति श्रुतिम्  ॥ २।३३१ ॥  
 संगतानि मृगाक्षीणां तडिद्विलसितानि च  ।  
 क्षणद्वयं न तिष्ठन्ति घनारब्धान्य् अपि स्वयम्  ॥ २।३३२ ॥  
-  
-  
+
 [विरोधचक्र]  
 विरुद्धानां पदार्थानां यत्र संसर्गदर्शनम्  ।  
 विशेषदर्शनायैव स विरोधः स्मृतो यथा  ॥ २।३३३ ॥  
@@ -854,8 +773,7 @@ For further information see:
 अर्थैर् अयत्नसुलभैर् जलदर्भाङ्कुरादिभिः  ॥ २।३४१ ॥  
 सेयम् अप्रस्तुतैवात्र मृगवृत्तिः प्रशस्यते  ।  
 राजानुवर्तनक्लेश- निर्विण्णेन मनस्विना  ॥ २।३४२ ॥  
-  
-  
+
 [व्याजस्तुति]  
 यदि निन्दन्न् इव स्तौति व्याजस्तुतिर् असौ स्तुता  ।  
 दोषाभासा गुणा एव लभन्ते यत्र संनिधिम्  ॥ २।३४३ ॥  
@@ -922,10 +840,6 @@ For further information see:
 व्यावर्णितम् इदं चेष्टम् अलंकारतयैव नः  ॥ २।३६७ ॥  
 पन्था स एष विवृतः परिमाणवृत्त्या संक्षिप्य विस्तरम् अनन्तम् अलंक्रियाणां  ।  
 वाचाम् अतीत्य विषयं परिवर्तमानान् अभ्यास एव विवरीतुम् अलं विशेषान्  ॥ २।३६८ ॥  
-  
-  
+
 ॥ इत्य् आचार्यदण्डिनः कृतौ काव्यादर्शे ऽर्थालंकारविभागो नाम द्वितीयः परिच्छेदः ॥  
-  
-  
-  
-  
+

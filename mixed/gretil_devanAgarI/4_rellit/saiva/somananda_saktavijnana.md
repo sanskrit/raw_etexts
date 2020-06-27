@@ -3,87 +3,17 @@ title = "Somananda: Saktavijnana"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Somananda: Saktavijnana  
-  
-  
-  
-  
+
 Somananda: Saktavijnana  
 Based on the ed. by J.D. Zaidoo  
 Srinagar: Research Department, 1947  
   
 Input by Oliver Hellwig  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 स्थानं प्रवेशो रूपं च लक्षं लक्षणमेव च ।  
 उत्थापनं बोधनं च चक्रविश्राममेव च ॥ सोम्स्व्_१  
 भूमिकागमनं चैव अन्तावस्था तथैव च ।  
@@ -144,7 +74,4 @@ For further information see:
 सदा स वर्षते दिव्यम् अमृतं जन्तुजीवनम् ॥ सोम्स्व्_२९  
 चित्तं तत्र तु संधार्य पुनर्दैवी विशेत्तु सा ।  
 तदा त्व् आगमनं प्रोक्तमेवं सम्यक् त्रयोदश ॥ सोम्स्व्_३०  
-  
-  
-  
-  
+

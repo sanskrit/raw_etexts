@@ -3,29 +3,20 @@ title = "Kumaralata: Kalpanamanditika"
 
 +++
 ## Intro
-  
-  
-  
-  
- Kumaralata: Kalpanamanditika   
-  
-  
-  
-  
+
+Kumaralata: Kalpanamanditika   
+
 Kumaralata: Kalpanamanditika  
 Based on the edition by Heinrich Lüders: Bruchstücke der Kalpanāmaṇḍitikā des Kumāralāta. Leipzig 1926 (Kleinere Sanskrit-Texte, 2) [= repr. in: Monographien zur indischen Archäologie, Kunst und Philologie, 1: Steiner Verlag Wiesbaden 1979, pp. 113-375]. = KalpM  
-  
-  
+
 Input by Klaus Wille  
-  
-  
+
 Manuscript 1: SHT 21 (ed. KalpM pp. 137-193)  
 Manuscript 2: SHT 638 (ed. KalpM pp. 200-208)  
 Manuscript 3: SHT 1015 (ed. SHT V)  
 Manuscript 4: Hori 2011  
 Manucsript 5: Wille 2005 and Karashima 2009  
-  
-  
+
 ABBREVIATIONS  
 Divy            =  Divyāvadāna, ed. E. B. Cowell, R. A. Neil, Cambridge 1886.  
 Hori 2011       =  Shin'ichirḥ Hori, "Sanskrit Fragments from Central Asia at the Institute of Oriental Manuscripts of the Russian Academy of Sciences, St. Petersburg", Bukkyo-Gaku (Journal of Buddhist Studies) 53, pp. 1-24.  
@@ -35,8 +26,7 @@ r               =  recto
 SHT             =  Sanskrithandschriften aus den Turfanfunden. Teil 1: unter Mitarbeit von W. Clawiter und L. Holzmann hg. von E. Waldschmidt; Teil 5: bearbeitet von L. Sander und E. Waldschmidt, Wiesbaden/Stuttgart 1965, 1985 (Verzeichnis der orientalischen Handschriften in Deutschland, 10,1 & 5).  
 v               =  verso  
 Wille 2005      =  Klaus Wille, "Some recently identified Sanskrit fragments from the Stein and Hoernle collections in the British Library, London (1)," Annual Report of the International Research Institute for Advanced Buddhology 8, pp. 47-79.  
-  
-  
+
 SYMBOLS USED IN THE TRANSLITERATION  
 +     lost akṣara  
 ..     illegible akṣara  
@@ -46,93 +36,21 @@ SYMBOLS USED IN THE TRANSLITERATION
 //     double daṇḍa  
 *     virāma  
 '     avagraha, not written in the MS  
-  
-  
-  
+
 ITALICS for restored akṣaras, unless otherwise indicated  
-  
-  
+
 METRICS:  
 ^ = short  
 _ = long  
 X = short/long  
 XX = short-short/long  
-  
-  
+
 NOTICE:  
 - The square brackets indicating damaged akṣaras in the edition are not noted.  
 - Some orthographic pecularities have been standardized, e.g. kr for kkr, ty for tty, tr for ttr, dhy for ddhy, ny for nny, pr for ppr, bhr for bbh, rj for rjj, rṇ for rṇṇ, rt for rtt, rd for rdd, r n for r nn, rv for rvv  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
+
 मनुस्च्रिप्त् १: कल्प्म् : स्ह्त् २१ (एद्। कल्प्म् प्प्। १३७-१९३; थे ड़्रग्मेन्त्स् इद्प् स्ह्त् २१।११३-२७४ अरे नोत् येत् एदितेद्)  
   
 कल्प्म् : इद्प् स्ह्त् २१।१  
@@ -1213,8 +1131,7 @@ For further information see:
 ४ ॥। ॥ ।ए ।इत्त्। नां प्रसरः सराग ।इ ॥।  
   
 --------------------------  
-  
-  
+
 मनुस्च्रिप्त् २: कल्प्म् : स्ह्त् ६३८ (एद्। कल्प्म् प्प्। २००-२०८)  
   
 कल्प्म् : इद्प् स्ह्त् ६३८स्  
@@ -1399,8 +1316,7 @@ Xइइइ
 ६ मे विनष्टा ।इ ॥।  
   
 --------------------------  
-  
-  
+
 मनुस्च्रिप्त् ३: स्ह्त् १०१५  
   
 अ१ ॥। त्। च्(ए)तसि न क्लेशक्। ॥।  
@@ -1415,8 +1331,7 @@ Xइइइ
 ५ ॥। ॥ ॥ शीलेन स्। ॥।  
   
 --------------------------  
-  
-  
+
 मनुस्च्रिप्त् ४: एद्। होरि २०११  
   
 ४।१। सि २क्र्।९।४  
@@ -1444,8 +1359,7 @@ Xइइइ
 ६ ॥। शालूकवद् इति  तस्माच् छीलसह्। ॥।  
   
 --------------------------  
-  
-  
+
 मनुस्च्रिप्त् ५: अल्ल् थ्रेए ड़्रग्मेन्त्स् बेलोन्ग् तो ओने मनुस्च्रिप्त्  
   
 ५।१: ओर्।१५०१०।१३०; एद्। करस्हिम २००९  
@@ -1483,6 +1397,4 @@ x ॥। ॥ ॥ य्। म्। ॥ श्चिम व्यापार�
 व्१ ॥। हामुत्। च त्वं हि ॥ ॥ ॥।  
 २ ॥। ॥ न्ति न व्यधितस्य ॥ ॥।  
 ३ ॥। ॥ विष्णु त भवति च ॥ ॥ ॥।  
-  
-  
-  
+

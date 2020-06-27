@@ -3,15 +3,9 @@ title = "Abhinavagupta: Paramarthasara, with Yogaraja's Paramarthasarasamgrahavi
 
 +++
 ## Intro
-  
-  
-  
-  
- Abhinavagupta: Paramarthasara, with Yogaraja's Paramarthasarasamgrahavivrti   
-  
-  
-  
-  
+
+Abhinavagupta: Paramarthasara, with Yogaraja's Paramarthasarasamgrahavivrti   
+
 Abhinavagupta: Paramarthasara, with Yogaraja's Paramarthasarasamgrahavivrti commentary  
 Based on the ed. Srinagar : Research Dept. Jammu and Kashmir State 1916  
 (The Kashmir Series of Texts and Studies edition, 7).  
@@ -21,87 +15,16 @@ The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja.
 Translated by Lyne Bansat-Boudon and Kamaleshadatta Tripathi.  
 Introduction, notes, critically revised Sanskrit text, appendix, indices by Lyne Bansat-Boudon.  
 London / New York : Routledge 2011 (Routledge Studies in Tantric Traditions, 3), pp. 347 ff.]  
-  
-  
-  
+
 Input by Lyne Bansat-Boudon, Yves Codet and Judit Törzsök.  
-  
-  
-  
+
 CONTRIBUTORS'; NOTE:  
 The sandhi has been silently standardised; it has not been applied before and after words cited from the kārikās.  
-  
-  
+
 BOLD for kārikās and catch words in commentary  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 ॐ नमश्चिदात्मपरमार्थवपुषे  ॥  
   
 अथ  
@@ -111,9 +34,7 @@ For further information see:
 श्रीमन्महामाहेश्वराचार्यवर्यश्रीमदभिनवगुप्ताचार्यविरचितः  ।  
   
 श्रीमद्योगराजाचार्यकृतविवृत्युपेतः  ।  
-  
-  
-  
+
 चिद्घनो ऽपि जगन्मूर्त्या श्यानो यः स जयत्यजः  ।  
 स्वात्मप्रच्छादनक्रीडाविदग्धः परमेश्वरः  ॥ १  ॥  
   
@@ -792,8 +713,7 @@ For further information see:
 सङ्कुचिता चितिरेतद्देहध्वंसे तथा भाति  ॥ ६३  ॥  
   
 यस्मात् परिमितबुद्धित्वेन अख्यातिजनितेन देहाद्यभिमानवासनापूर्वककामनाकालुष्यनिश्चयेन यत्कृतम् कर्म यथाहमश्वमेधेन यक्ष्य इहामुत्र च सुखी भूयासं मा कदाचन दुःख्यहं भूयासममुना कर्मणा वैन्द्रं पदं प्राप्नुयामित्येवं वासनाविशिष्टस्य कर्तुरेवमनुगुणं कर्म तस्य मनोवासनालब्धप्ररूढेः कर्मणः उचितः तदनुगुणफलभोक्तृतायोग्यो ऽसौ भावी देहः प्रारब्धकर्मफलभोक्तृशरीराधिकारपरिक्षयाद्यदुत्तरत्र भविष्यच्छरीरं तस्य या भावना अमुनाश्वमेधादिकर्मणा साम्राज्याद्याप्नुयामित्यभिमतकर्मफलवासनाधिरूढिस्तया कर्मोचितभाविदेहभावनयेयं सर्वतः पूर्णापि चितिशक्तिराणवमायीयमलमूलेन कार्ममलेनाघ्राता संकुचिता व्यापिन्यपि घटाकाशवत्कर्मानुगुणफलभोक्तृशरीरवासनावच्छेदवती संपन्ना सती एतद्देहध्वंसे तथा भवति इति  । एतस्य प्रारब्धस्य कर्मफलस्य यो भोक्ता देहः तस्य भोगपरिक्षयाद्यः ध्वंसः मृतिस्तस्मिन्देहध्वंसे सति सा चितिः उद्भूतकर्मवासना तथा भवति येनाशयेन पूर्वकर्मफलमुपार्जितं तत्कर्मफलभोक्ता यो देहस्तद्वती संपद्यते यद्वशाच्चितिरपि स्वर्गनरकादिभोगभाजनं स्यात्  । तस्माच्छरीरीभूत्वा परिमितफललौल्याद्यत्कृतं कर्म तत्फलभोक्तृ जन्म दातुमवश्यं प्रभवति  । यत्पुनरशरीरीभूत्वा सर्वं ब्रह्मास्मीति संविद्रूपतया कृतं तद्वासनाप्ररोहानासादनात्कथं व्यापिन्याश्चितिशक्तेर्जन्मने स्यादिति तात्पर्यार्थः  ॥ ६३  ॥  
-  
-  
+
 एवमनात्मतया समुचितं कर्म संसरणाय प्रमातुर्भवतीति चेत्तर्ह्यात्मस्वरूपं वक्तव्यं येन संसारी न स्यादिति प्रतिपादितमपि शिष्यजनहृदयङ्गमीकर्तुं पुनः कथयति  
   
 यदि पुनरमलं बोधं सर्वसमुत्तीर्णबोद्धृकर्तृमयम्  ।  
@@ -1201,7 +1121,4 @@ For further information see:
 विवृतिर्योगनाम्नेयं पूर्णाद्वयमयी कृता  ॥ २  ॥  
   
 संपूर्णेयं परमार्थसारसंग्रहविवृतिः कृतिस्तत्रभवत्परममाहेश्वरश्रीराजानकयोगराजस्य  ॥  
-  
-  
-  
-  
+

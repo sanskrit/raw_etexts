@@ -3,91 +3,21 @@ title = "Lagadha: Rgvedavedangajyotisa"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Lagadha: Rgvedavedangajyotisa  
-  
-  
-  
-  
+
 Lagadha: Rgvedavedangajyotisa  
 Based on the edition by K. V. Sarma,  
 New Delhi: Indian National Science Academy (?)  
-  
+
 Input by Oliver Hellwig (hellwig7@gmx.de), Berlin, 2001/02  
-  
+
 Der digitalisierte Text kann in jedem Rahmen ohne   
 Einschraenkungen genutzt werden. Allerdings sollte ein   
 Hinweis auf den Einleser enthalten sein.  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 पञ्चसंवत्सरमयं युगाध्यक्षं प्रजापतिम् ।  
 दिनर्त्वयनम् आसाङ्गं प्रणम्य शिरसा शुचिः ॥ १  
 प्रणम्य शिरसा कालम् अभिवाद्य सरस्वतीम् ।  
@@ -158,7 +88,4 @@ For further information see:
 माघशुक्लाह्निको युङ्क्ते श्रविष्ठायां च वार्षिकीम् ॥ ३४  
 यथा शिखा मयूराणां नागानां मणयो यथा ।  
 तद्वद् वेदाङ्गशास्त्राणां ज्योतिषं मूर्धनि स्थितम् ॥ ३५  
-  
-  
-  
-  
+

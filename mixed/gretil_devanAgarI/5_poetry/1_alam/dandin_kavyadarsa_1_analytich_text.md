@@ -3,22 +3,14 @@ title = "Dandin: Kavyadarsa 1 (analytic text)"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Dandin: Kavyadarsa 1 (analytic text)  
-  
-  
-  
-  
-  
+
 DANDIN: KAVYADARSA, Pariccheda 1  
 based on the edition by S.K. Belvalkar, Poona 1924.  
   
 Input by Reinhold Gruenendahl  
-  
-  
+
 ANALYTIC VERSION according to BHELA conventions:  
   
 Sandhi markers:  
@@ -41,77 +33,12 @@ Pada markers:
 2:  &  
 3:  %   
 4:  // n.n //  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 अथ काव्या३दर्शः  
-  
-  
-                             परिच्छेद १  
+
+परिच्छेद १  
   
 चतुर्-मुख-मुखा१म्भो-ज-  $ वन-हंस-वधूर् मम  &  
 मानसे रमतां दीर्घं  % सर्व-शुक्ला सरस्वती  ॥ १।१ ॥  
@@ -352,8 +279,4 @@ For further information see:
 कृशे कवि-त्वे ऽपि जनाः कृत-श्रमाः  % वि-दग्ध-गोष्ठीषु वि-हर्तुम् ईशते  ॥ १।१०५ ॥  
   
 ॥ इति काव्या३दर्शे मार्ग-विभागो नाम प्रथमः परि-च्छेदः ॥  
-  
-  
-  
-  
-  
+

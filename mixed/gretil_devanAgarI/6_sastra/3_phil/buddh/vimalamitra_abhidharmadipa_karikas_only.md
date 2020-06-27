@@ -3,102 +3,29 @@ title = "Vimalamitra(?): Abhidharmadipa, Karikas only!"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Vimalamitra(?): Abhidharmadipa, Karikas only!   
-  
-  
-  
-  
+
 Vimalamitra(?): Abhidharmadipa, Karikas only!  
 Based on the edition by P.S. Jaini: Abhidharmadīpa with Vibhāṣāprabhāvṛtti,  
 Patna 1959 (Tibetan Sanskrit Works Series, 4).  
   
 Kārikās extracted from the commented version (see separate GRETIL file).  
-  
-  
+
 Input by members of the Sanskrit Buddhist Input Project.  
 With kind permission of the Digital Sanskrit Buddhist Canon Project  
 of Nagarjuna Institute, Nepal  
 and University of the West, Rosemead, California, USA  
 (www.uwest.edu/sanskritcanon)  
 Sastra section  
-  
-  
+
 The transliteration emulates the conventions of Nagari script.  
 Therefore, many word boundaries are not marked by blanks.  
   
 Sandhi rules are not observed where the Kārikā line was split up in the commented version!  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 यो दुःखहेतुव्युपशान्तिमार्गं प्रदर्शयामास नरामरेभ्यः  ।  
 तं सत्पथज्ञं प्रणिपत्य बुद्धं शास्त्रं करिष्याम्यभिधर्मदीपम्  ॥ अभिध्-द्_१ ॥  
 सत्त्वाद्यनन्यथाभावे व्यक्ताभावः प्रसज्यते  ।  
@@ -1281,7 +1208,4 @@ For further information see:
 अन्ये त्वन्वयधीपक्षस्वोर्ध्वदुःखाद्यवेक्षिणाः  ॥ अभिध्-द्_५९६ ॥  
 सूत्रे ऽभिभवसंज्ञाख्यं प्रोक्तमायतनाष्टकम्  ।  
 विमोक्षाधिकवृत्त्येतच्चित्तैश्वर्यप्रदर्शकम्  ॥ अभिध्-द्_५९७ ॥  
-  
-  
-  
-  
+

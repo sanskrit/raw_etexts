@@ -3,22 +3,14 @@ title = "Karmavastu of the Vinayavastvagama of the Mulasarvastivadin"
 
 +++
 ## Intro
-  
-  
-  
-  
- Karmavastu of the Vinayavastvagama of the Mulasarvastivadin   
-  
-  
-  
-  
+
+Karmavastu of the Vinayavastvagama of the Mulasarvastivadin   
+
 Karmavastu of the Vinayavastvagama of the Mulasarvastivadin (= Vastu 10 of the Vinayavastu)  
 Based on the edition by N. Dutt: Gilgit Manuscript, vol. III: Mūlasarvāstivādavinayavastu, part 2 (Srinagar 1942), pp. 199-211: Karmavastu (second edition: Delhi 1984).  
-  
-  
+
 Input by Klaus Wille, Göttingen  
-  
-  
+
 ABBREVIATIONS:  
 GBM =  Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lokesh Chandra, 10 pts., New Delhi 1959Ō1974 (Śata-Piṭaka Series 10). (The Vinayavastu manuscript is reproduced in vol. 6) [repr. in 3 parts Delhi 1995. (The Vinayavastu manuscript is reproduced in vol. 2)]  
   
@@ -26,78 +18,13 @@ MSV II = Gilgit Manuscript, ed. N. Dutt, vol. III, part 2, Srinagar 1942.
   
 BOLD for references  
 ITALICS for restored passages  
-  
-  
+
 Some of Dutt's reading have been corrected by K. Wille according to the manuscript, for example:  
 udālī; MS: upālī  
 campā; MS: caṇpā  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 (म्स्व् इइ १९७)  
 कर्मवस्तु  
   
@@ -172,6 +99,4 @@ For further information see:
 आयुष्मान् उपाली बुद्धं भगवन्तं पृच्छति । कतीनां भदन्त प्रतिक्रोशो न रोहति । दशानाम् उपालिन्* । अलज्जिनः सान्तरस्य बालस्य मूढस्याव्यक्तस्याकुशलस्य बहिःसीमायां स्थितस्य ईर्यापथे च्युतस्य वाचा असंवृतस्य । कतीनां भदन्त प्रतिक्रोशो रोहति । चतुर्णाम् उपालिन्* । प्रकृतिस्थितस्य अन्तःसीमायां स्थितस्य ईर्यापथाद् अच्युतस्य वा वाचा संयतस्येति । आयुष्मान् उपाली बुद्धं भगवन्तं पृच्छति । कति भदन्त उत्क्षेपणीयकर्माणि । चत्वार्य् उपालिन् । अधर्मेणोत्क्षिपन्ति व्यग्रा अधर्मेण समग्राः । धर्मेण व्यग्राः । धर्मेण समग्राः । तत्रैकम् उत्क्षेपणकर्म । यद् इदं धर्मेणोत्क्षिपन्ति समग्राः । कति भदन्त ओसारणकर्माणि । चत्वार्य् (म्स्व् इइ २११) उपालिन्* । अधर्मेणोसारयन्ति व्यग्राः । अधर्मेण समग्राः । धर्मेण व्यग्राः । धर्मेण समग्राः । तत्रैकम् ओसारणकर्म (२८८व्१ = ग्ब्म् ६।८८९) यद् इदं धर्मेण कुर्वन्ति समग्राः ।  
   
 कर्मवस्तु समाप्तम्* ॥  
-  
-  
-  
+

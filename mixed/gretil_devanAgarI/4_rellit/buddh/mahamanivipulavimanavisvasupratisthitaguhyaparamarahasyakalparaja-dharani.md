@@ -3,103 +3,27 @@ title = "Mahamanivipulavimanavisvasupratisthitaguhyaparamarahasyakalparaja-Dhara
 
 +++
 ## Intro
-  
-  
-  
-  
- Mahamanivipulavimanavisvasupratisthitaguhyaparamarahasyakalparaja-Dharani   
-  
-  
-  
-  
+
+Mahamanivipulavimanavisvasupratisthitaguhyaparamarahasyakalparaja-Dharani   
+
 Mahamanivipulavimanavisvasupratisthitaguhyaparamarahasyakalparaja-Dharani  
 Based on the ed. by H. Matsumura. "A Text on Esoteric Iconography from the Gilgit Manuscripts",  
 in: The Mikkyo Zuzo (The Journal of Buddhist Iconography) 2 (1983), pp. 71-79.  
-  
-  
+
 Input by Klaus Wille (Göttingen)  
-  
-  
-  
+
 BOLD for beginning of a new line  
 § = punctuation  
   
 GBM =  Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lokesh Chandra, 10 pts., New Delhi 1959Ō1974 (Śata-Piṭaka Series 10). [revised and enlarged compact edition, 3 vols., Delhi 1995 (Bibliotheca Indo-Buddhica Series, 150-152)]  
-  
-  
+
 NOTE:  
 The manuscript is fragmentary, beginning and end are lost.  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 महामणिविपुलविमानविश्वसुप्रतिष्ठितगुह्यपरमरहस्यकल्पराजधारणी  
-  
-  
+
 ग्ब्म् १७२४ (ड़ोल्। ५३र्)  
 १ यितव्याः ॥ द्वातृंशति शरावा पूरयितव्याः ॥ चत्वारि तैलानि चत्वारि घृतं । चत्वारि  
 २ गुडपिण्डानि । चत्वारि तिलपूर्णानि । चत्वार्य् अठलपूर्णं । चत्वारि सप्तवीजकपूर्णं  
@@ -168,7 +92,4 @@ For further information see:
 ३ कर्तव्यः चतुर्मुखं षोडशबाहुं ॥ दक्षिणबाहूं चिन्तामणिद्धारयं तथागतस्योपनामयति ॥  
 ४ बामबाहूं पद्मद्धारयन्तः द्वे हस्ते अंजलिं गृहीतव्यं : ॥ शेषं  
 ५ प्रहस्तं कर्तव्यं तृशूलं चक्रं खद्गं वज्रं पुष्पपुटं गणेन्दककण्डुलं अषिः पु  
-  
-  
-  
-  
+

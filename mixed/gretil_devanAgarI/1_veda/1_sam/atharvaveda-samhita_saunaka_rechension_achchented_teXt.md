@@ -3,15 +3,9 @@ title = "Atharvaveda-Samhita, Saunaka recension, ACCENTED TEXT"
 
 +++
 ## Intro
-  
-  
-  
-  
- Atharvaveda-Samhita, Saunaka recension, ACCENTED TEXT  
-  
-  
-  
-  
+
+Atharvaveda-Samhita, Saunaka recension, ACCENTED TEXT  
+
 Atharvaveda-Samhita, Saunaka recension  
 Based on the ed.: Gli inni dell'; Atharvaveda (Saunaka),  
 trasliterazione a cura di Chatia Orlandi, Pisa 1991,  
@@ -24,21 +18,15 @@ Text of Books 11-20 improved by
 Arlo Griffiths, Leiden 18 May 2000 and  
 Philipp Kubisch, Bonn 13 March 2007.  
 Revised by Arlo Griffiths, August 2009.  
-  
-  
-  
+
 ACCENTED TEXT  
-  
-  
+
 NOTE ON REFERENCES IN BOOKS 11-20:  
 The basic numbering of Books 11-20 follows the ed. Roth/Whitney.  
 Numbering in [...] follows the ed. by Vishva Bandhu: Atharvaveda (Saunaka),  
 with the Pada-Patha and Sayanacarya's commentary, Hoshiarpur 1960-1964  
 (Vishveshvaranand indological series, 13-17).  
-  
-  
-  
-  
+
 THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
 COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.   
   
@@ -46,9 +34,7 @@ Text converted to Unicode (UTF-8) with "underring" characters and Vedic accents.
 (This file is to be used with a UTF-8 font and your browser's VIEW configuration  
   
 set to UTF-8.)  
-  
-  
-  
+
 description: multibyte sequence:  
 long a   ā     
 long A   Ā     
@@ -103,21 +89,13 @@ o udatta   ó
 o svarita   ò    
 accented ai =      aí / aì    
 accented au =      aú / aù    
-  
-  
+
 For a comprehensive list of GRETIL encodings and formats see:  
 http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
 and  
   
 http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-  
-  
-  
-  
-  
-  
-  
+
 (AVŚ_1,1.1a) yé triṣaptā́ḥ pariyánti víśvā rūpā́ṇi bíbhrataḥ |  
 (AVŚ_1,1.1c) vācás pátir bálā téṣāṃ tanvò adyá dadhātu me ||1||  
   
@@ -129,9 +107,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,1.4a) úpahūto vācás pátir úpāsmā́n vācáspátir hvayatām |  
 (AVŚ_1,1.4c) sáṃ śruténa gamemahi mā́ śruténa ví rādhiṣi ||4||  
-  
-  
-  
+
 (AVŚ_1,2.1a) vidmā́ śarásya pitáraṃ parjányaṃ bhū́ridhāyasam |  
 (AVŚ_1,2.1c) vidmó ṣv àsya mātáraṃ pr̥thivī́ṃ bhū́rivarpasam ||1||  
   
@@ -143,9 +119,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,2.4a) yáthā dyā́ṃ ca pr̥thivī́ṃ cāntás tíṣṭhati téjanam |  
 (AVŚ_1,2.4c) evā́ rógaṃ cāsrāváṃ cāntás tiṣṭhatu múñja ít ||4||  
-  
-  
-  
+
 (AVŚ_1,3.1a) vidmā́ śarásya pitáraṃ parjányaṃ śatávr̥ṣṇyaṃ |  
 (AVŚ_1,3.1c) ténā te tanvè śáṃ karaṃ pr̥thivyā́ṃ te niṣécanaṃ bahíṣ ṭe astu bā́l íti ||1||  
   
@@ -172,9 +146,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,3.9a) yátheṣukā́ parā́patad ávasr̥ṣṭā́dhi dhánvanaḥ |  
 (AVŚ_1,3.9c) evā́ te mū́traṃ mucyatāṃ bahir bā́l íti sarvakám ||9||  
-  
-  
-  
+
 (AVŚ_1,4.1a) ambáyo yanty ádhvabhir jāmáyo adhvarīyatā́m |  
 (AVŚ_1,4.1c) pr̥ñcatī́r mádhunā páyaḥ ||1||  
   
@@ -186,9 +158,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,4.4a) apsv àntár amŕ̥tam apsú bheṣajám |  
 (AVŚ_1,4.4c) apā́m utá práśastibhir áśvā bhávatha vājíno gā́vo bhavatha vājínīḥ ||4||  
-  
-  
-  
+
 (AVŚ_1,5.1a) ā́po hí ṣṭhā́ mayobhúvas tā́ na ūrjé dadhātana |  
 (AVŚ_1,5.1c) mahé ráṇāya cákṣase ||1||  
   
@@ -200,9 +170,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,5.4a) ī́śānā vā́ryāṇāṃ kṣáyantīś carṣaṇīnā́m |  
 (AVŚ_1,5.4c) apó yācāmi bheṣajám ||4||  
-  
-  
-  
+
 (AVŚ_1,6.1a) śáṃ no devī́r abhíṣṭaya ā́po bhavantu pītáye |  
 (AVŚ_1,6.1c) śáṃ yór abhí sravantu naḥ ||1||  
   
@@ -215,9 +183,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 (AVŚ_1,6.4a) śáṃ na ā́po dhanvanyā̀ḥ śám u santv anūpyā̀ḥ |  
 (AVŚ_1,6.4c) śáṃ naḥ khanitrímā ā́paḥ śám u yā́ḥ kumbhá ā́bhr̥tāḥ |  
 (AVŚ_1,6.4e) śivā́ naḥ santu vā́rṣikīḥ ||4||  
-  
-  
-  
+
 (AVŚ_1,7.1a) stuvānám agna ā́ vaha yātudhā́naṃ kimīdínam |  
 (AVŚ_1,7.1c) tváṃ hí deva vanditó hantā́ dásyor babhū́vitha ||1||  
   
@@ -238,9 +204,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,7.7a) tvám agne yātudhā́nān úpabaddhām̐ ihā́ vaha |  
 (AVŚ_1,7.7c) áthaiṣām índro vájreṇā́pi śīrṣā́ṇi vr̥ścatu ||7||  
-  
-  
-  
+
 (AVŚ_1,8.1a) idáṃ havír yātudhā́nān nādī́ phénam ivā́ vahat |  
 (AVŚ_1,8.1c) yá idáṃ strī́ púmān ákar ihá sá stuvatāṃ jánaḥ ||1||  
   
@@ -252,9 +216,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,8.4a) yátraiṣām agne jánimāni véttha gúhā satā́m attríṇāṃ jātavedaḥ |  
 (AVŚ_1,8.4c) tā́ṃs tváṃ bráhmaṇā vāvr̥dhānó jahy èṣāṃ śatatárham agne ||4||  
-  
-  
-  
+
 (AVŚ_1,9.1a) asmín vásu vásavo dhārayantv índraḥ pūṣā́ váruṇo mitró agníḥ |  
 (AVŚ_1,9.1c) imám ādityā́ utá víśve ca devā́ úttarasmin jyótiṣi dhārayantu ||1||  
   
@@ -266,9 +228,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,9.4a) áiṣāṃ yajñám utá várco dade 'háṃ rāyás póṣam utá cittā́ny agne |  
 (AVŚ_1,9.4c) sapátnā asmád ádhare bhavantūttamáṃ nā́kam ádhi rohayemám ||4||  
-  
-  
-  
+
 (AVŚ_1,10.1a) ayáṃ devā́nām ásuro ví rājati váśā hí satyā́ váruṇasya rā́jñaḥ |  
 (AVŚ_1,10.1c) tátas pári bráhmaṇā śā́śadāna ugrásya manyór úd imáṃ nayāmi ||1||  
   
@@ -280,9 +240,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,10.4a) muñcā́mi tvā vaiśvānarā́d arṇavā́n mahatás pári |  
 (AVŚ_1,10.4c) sajātā́n ugrehā́ vada bráhma cā́pa cikīhi naḥ ||4||  
-  
-  
-  
+
 (AVŚ_1,11.1a) váṣaṭ te pūṣann asmínt sū́tāv aryamā́ hótā kr̥ṇotu vedhā́ḥ |  
 (AVŚ_1,11.1c) sísratāṃ nā́ry r̥táprajātā ví párvāṇi jihatāṃ sūtavā́ u ||1||  
   
@@ -300,9 +258,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,11.6a) yáthā vā́to yáthā máno yáthā pátanti pakṣíṇaḥ |  
 (AVŚ_1,11.6c) evā́ tváṃ daśamāsya sākáṃ jarā́yuṇā patā́va jarā́yu padyatām ||6||  
-  
-  
-  
+
 (AVŚ_1,12.1a) jarāyujáḥ prathamá usríyo vŕ̥ṣā vātābhrajā́ stanáyann eti vr̥ṣṭyā́ |  
 (AVŚ_1,12.1c) sá no mr̥ḍāti tanvà r̥jugó ruján yá ékam ójas tredhā́ vicakramé ||1||  
   
@@ -314,9 +270,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,12.4a) śáṃ me párasmai gā́trāya śám astv ávarāya me |  
 (AVŚ_1,12.4c) śáṃ me catúrbhyo áṅgebhyaḥ śám astu tanvè máma ||4||  
-  
-  
-  
+
 (AVŚ_1,13.1a) námas te astu vidyúte námas te stanayitnáve |  
 (AVŚ_1,13.1c) námas te astv áśmane yénā dūḍā́śe ásyasi ||1||  
   
@@ -328,9 +282,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,13.4a) yā́ṃ tvā devā́ ásr̥janta víśva íṣuṃ kr̥ṇvānā́ ásanāya dhr̥ṣṇúm |  
 (AVŚ_1,13.4c) sā́ no mr̥ḍa vidáthe gr̥ṇānā́ tásyai te námo astu devi ||4||  
-  
-  
-  
+
 (AVŚ_1,14.1a) bhágam asyā várca ā́diṣy ádhi vr̥kṣā́d iva srájam |  
 (AVŚ_1,14.1c) mahā́budhna iva párvato jyók pitŕ̥ṣv āstām ||1||  
   
@@ -342,9 +294,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,14.4a) ásitasya te bráhmaṇā kaśyápasya gáyasya ca |  
 (AVŚ_1,14.4c) antaḥkośám iva jāmáyó 'pi nahyāmi te bhágam ||4 ||  
-  
-  
-  
+
 (AVŚ_1,15.1a) sáṃ sáṃ sravantu síndhavaḥ sáṃ vā́tāḥ sáṃ patatríṇaḥ |  
 (AVŚ_1,15.1c) imáṃ yajñáṃ pradívo me juṣantāṃ saṃsrāvyèṇa havíṣā juhomi ||1||  
   
@@ -356,8 +306,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,15.4a) yé sarpíṣaḥ saṃsrávanti kṣīrásya codakásya ca  
 (AVŚ_1,15.4b) tébhir me sárvaiḥ saṃsrāváir dhánaṃ sáṃ srāvayāmasi ||4||  
-  
-  
+
 (AVŚ_1,16.1a) yé 'māvāsyā̀ṃ rā́trim udásthur vrājám attríṇaḥ |  
 (AVŚ_1,16.1c) agnís turī́yo yātuhā́ só asmábhyam ádhi bravat ||1||  
   
@@ -369,9 +318,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,16.4a) yádi no gā́ṃ háṃsi yády áśvaṃ yádi pū́ruṣam |  
 (AVŚ_1,16.4c) táṃ tvā sī́sena vidhyāmo yáthā nó 'so ávīrahā ||4||  
-  
-  
-  
+
 (AVŚ_1,17.1a) amū́r yā́ yánti yoṣíto hirā́ lóhitavāsasaḥ |  
 (AVŚ_1,17.1c) abhrā́tara iva jāmáyas tíṣṭhantu hatávarcasaḥ ||1||  
   
@@ -383,9 +330,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,17.4a) pári vaḥ síkatāvatī dhanū́r br̥haty àkramīt |  
 (AVŚ_1,17.4c) tíṣṭhateláyatā sú kam ||4||  
-  
-  
-  
+
 (AVŚ_1,18.1a) nír lakṣmyàṃ lalāmyàṃ nír árātiṃ suvāmasi |  
 (AVŚ_1,18.1c) átha yā́ bhadrā́ tā́ni naḥ prajā́yā árātiṃ nayāmasi ||1||  
   
@@ -397,8 +342,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,18.4a) ríśyapadīṃ vŕ̥ṣadatīṃ goṣedhā́ṃ vidhamā́m utá |  
 (AVŚ_1,18.4c) vilīḍhyàṃ lalāmyàṃ tā́ asmán nāśayāmasi ||4||  
-  
-  
+
 (AVŚ_1,19.1a) mā́ no vidan vivyādhíno mó abhivyādhíno vidan |  
 (AVŚ_1,19.1c) ārā́c charavyā̀ asmád víṣūcīr indra pātaya ||1||  
   
@@ -410,9 +354,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,19.4a) yáḥ sapátno yó 'sapatno yáś ca dviṣán chápāti naḥ |  
 (AVŚ_1,19.4c) devā́s táṃ sárve dhūrvantu bráhma várma mámā́ntaram ||4||  
-  
-  
-  
+
 (AVŚ_1,20.1a) ádārasr̥d bhavatu deva somāsmín yajñé maruto mr̥ḍátā naḥ |  
 (AVŚ_1,20.1c) mā́ no vidad abhibhā́ mó áśastir mā́ no vidad vr̥jinā́ dvéṣyā yā́ ||1||  
   
@@ -424,9 +366,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,20.4a) śāsá itthā́ mahā́m̐ asy amitrasāhó astr̥táḥ |  
 (AVŚ_1,20.4c) ná yásya hanyáte sákhā ná jīyáte kadā́ caná ||4||  
-  
-  
-  
+
 (AVŚ_1,21.1a) svastidā́ viśā́ṃ pátir vr̥trahā́ vimr̥dhó vaśī́ |  
 (AVŚ_1,21.1c) vŕ̥ṣéndraḥ purá etu náḥ somapā́ abhayaṃkaráḥ ||1||  
   
@@ -438,9 +378,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,21.4a) ápendra dviṣató máno 'pa jíjyāsato vadhám |  
 (AVŚ_1,21.4c) ví mahác chárma yacha várīyo yāvayā vadhám ||4||  
-  
-  
-  
+
 (AVŚ_1,22.1a) ánu sū́ryam úd ayatāṃ hr̥ddyotó harimā́ ca te |  
 (AVŚ_1,22.1c) gó róhitasya várṇena téna tvā pári dadhmasi ||1||  
   
@@ -452,9 +390,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,22.4a) śúkeṣu te harimā́ṇaṃ ropaṇā́kāsu dadhmasi |  
 (AVŚ_1,22.4c) átho hā́ridraveṣu te harimā́ṇaṃ ní dadhmasi ||4||  
-  
-  
-  
+
 (AVŚ_1,23.1a) naktaṃjātā́si oṣadhe rā́me kŕ̥ṣṇe ásikni ca |  
 (AVŚ_1,23.1c) idáṃ rajani rajaya kilā́saṃ palitáṃ ca yát ||1||  
   
@@ -466,8 +402,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,23.4a) asthijásya kilā́sasya tanūjásya ca yát tvací |  
 (AVŚ_1,23.4c) dū́ṣyā kr̥tásya bráhmaṇā lákṣma śvetám anīnaśam ||4||  
-  
-  
+
 (AVŚ_1,24.1a) suparṇó jātáḥ prathamás tásya tváṃ pittám āsitha |  
 (AVŚ_1,24.1c) tád āsurī́ yudhā́ jitā́ rūpáṃ cakre vánaspátīn ||1||  
 (AVŚ_1,24.2a) āsurī́ cakre prathamédáṃ kilāsabheṣajám idáṃ kilāsanā́śanam |  
@@ -478,9 +413,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,24.4a) śyāmā́ sarūpaṃkáraṇī pr̥thivyā́ ádhy údbhr̥tā |  
 (AVŚ_1,24.4c) idám ū ṣu prá sādhaya púnā rūpā́ṇi kalpaya ||4||  
-  
-  
-  
+
 (AVŚ_1,25.1a) yád agnír ā́po ádahat pravíśya yátrā́kr̥ṇvan dharmadhŕ̥to námāṃsi |  
 (AVŚ_1,25.1c) tátra ta āhuḥ paramáṃ janítraṃ sá naḥ saṃvidvā́n pári vr̥ṅgdhi takman ||1||  
   
@@ -492,9 +425,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,25.4a) námaḥ śītā́ya takmáne námo rūrā́ya śocíṣe kr̥ṇomi |  
 (AVŚ_1,25.4c) yó anyedyúr ubhayadyúr abhyéti tŕ̥tīyakāya námo astu takmáne ||4||  
-  
-  
-  
+
 (AVŚ_1,26.1a) ārè 'sā̀v asmád astu hetír devāso asat |  
 (AVŚ_1,26.1c) āré áśmā yám ásyatha ||1||  
   
@@ -506,9 +437,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,26.4a) suṣūdáta mr̥ḍáta mr̥ḍáyā nas tanū́bhyo |  
 (AVŚ_1,26.4c) máyas tokébhyas kr̥dhí ||4||  
-  
-  
-  
+
 (AVŚ_1,27.1a) amū́ḥ pāré pr̥dākvàs triṣaptā́ nírjarāyavaḥ |  
 (AVŚ_1,27.1c) tā́sām jarā́yubhir vayám akṣyā̀v ápi vyayāmasy aghāyóḥ paripanthínaḥ ||1||  
   
@@ -520,8 +449,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,27.4a) prétaṃ pādau prá sphurataṃ váhataṃ pr̥ṇató gr̥hā́n |  
 (AVŚ_1,27.4c) indrāny ètu prathamā́jītā́muṣitā puráḥ ||4||  
-  
-  
+
 (AVŚ_1,28.1a) úpa prā́gād devó agnī́ rakṣohā́mīvacā́tanaḥ |  
 (AVŚ_1,28.1c) dáhann ápa dvayāvíno yātudhā́nān kimīdínaḥ ||1||  
   
@@ -533,9 +461,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,28.4a) putrám attu yātudhānī́ḥ svásāram utá naptyàm |  
 (AVŚ_1,28.4c) ádhā mithó vikeśyò ví ghnatāṃ yātudhānyò ví tr̥hyantām arāyyàḥ ||4||  
-  
-  
-  
+
 (AVŚ_1,29.1a) abhīvarténa maṇínā yénéndro abhivavr̥dhé |  
 (AVŚ_1,29.1c) ténāsmā́n brahmaṇas pate 'bhí rāṣṭrā́ya vardhaya ||1||  
   
@@ -553,9 +479,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,29.6a) sapatnakṣáyaṇo vŕ̥ṣābhíraṣṭro viṣāsahíḥ |  
 (AVŚ_1,29.6c) yáthāhám eṣā́ṃ vīrā́ṇāṃ virā́jāni jánasya ca ||6||  
-  
-  
-  
+
 (AVŚ_1,30.1a) víśve devā vásavo rákṣatemám utā́dityā́ jāgr̥tá yūyám asmín |  
 (AVŚ_1,30.1c) mémáṃ sánābhir utá vā́nyánābhir mémáṃ prā́pat páuruṣeyo vadhó yáḥ ||1||  
   
@@ -567,9 +491,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,30.4a) yéṣāṃ prayājā́ utá vānuyājā́ hutábhāgā ahutā́daś ca devā́ḥ |  
 (AVŚ_1,30.4c) yéṣāṃ vaḥ páñca pradíśo víbhaktās tā́n vo asmái satrasádaḥ kr̥ṇomi ||4||  
-  
-  
-  
+
 (AVŚ_1,31.1a) ā́śānām āśāpālébhyaś catúrbhyo amŕ̥tebhyaḥ |  
 (AVŚ_1,31.1c) idáṃ bhūtásyā́dhyakṣebhyo vidhéma havíṣā vayám ||1||  
   
@@ -581,8 +503,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,31.4a) svastí mātrá utá pitré no astu svastí góbhyo jágate púruṣebhyaḥ |  
 (AVŚ_1,31.4c) víśvam subhūtám suvidátraṃ no astu jyóg evá dr̥śema sū́ryam ||4||  
-  
-  
+
 (AVŚ_1,32.1a) idáṃ janā́so vidátha mahád bráhma vadiṣyati |  
 (AVŚ_1,32.1c) ná tát pr̥thivyā́ṃ no diví yéna prāṇánti vīrúdhaḥ ||1||  
   
@@ -594,9 +515,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,32.4a) víśvam anyā́m abhīvā́ra tád anyásyām ádhi śritám |  
 (AVŚ_1,32.4c) divé ca viśvávedase pr̥thivyái cākaraṃ námaḥ ||4||  
-  
-  
-  
+
 (AVŚ_1,33.1a) híraṇyavarṇāḥ śúcayaḥ pāvakā́ yā́su jātáḥ savitā́ yā́sv agníḥ |  
 (AVŚ_1,33.1c) yā́ agníṃ gárbhaṃ dadhiré suvárṇās tā́ na ā́paḥ śáṃ syonā́ bhavantu ||1||  
   
@@ -608,9 +527,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,33.4a) śivéna mā cákṣuṣā paśyatāpaḥ śiváyā tanvópa spr̥śata tvácaṃ me |  
 (AVŚ_1,33.4c) ghr̥taścútaḥ śúcayo yā́ḥ pāvakā́s tā́ na ā́paḥ śáṃ syonā́ bhavantu ||4||  
-  
-  
-  
+
 (AVŚ_1,34.1a) iyáṃ vīrún mádhujātā mádhunā tvā khanāmasi |  
 (AVŚ_1,34.1c) mádhor ádhi prájātāsi sā́ no mádhumatas kr̥dhi ||1||  
   
@@ -624,9 +541,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,34.5a) pári tvā paritatnúnekṣúṇāgām ávidviṣe |  
 (AVŚ_1,34.5c) yáthā mā́ṃ kamíny áso yáthā mán nā́pagā ásaḥ ||5||  
-  
-  
-  
+
 (AVŚ_1,35.1a) yád ā́badhnan dākṣāyaṇā́ híraṇyaṃ śatā́nīkāya sumanasyámānāḥ |  
 (AVŚ_1,35.1c) tát te badnāmy ā́yuṣe várcase bálāya dīrghāyutvā́ya śatáśāradāya ||1||  
   
@@ -638,9 +553,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_1,35.4a) sámānāṃ māsā́m r̥túbhiṣ ṭvā vayáṃ saṃvatsarásya páyasā piparmi |  
 (AVŚ_1,35.4c) indrāgnī́ víśve devā́s té 'nu manyantām áhr̥ṇīyamānāḥ ||4||  
-  
-  
-  
+
 (AVŚ_2,1.1a) venás tát paśyat paramáṃ gúhā yád yátra víśvaṃ bhávaty ékarūpam |  
 (AVŚ_2,1.1c) idáṃ pŕ̥śnir aduhaj jā́yamānāḥ svarvído abhy ànūṣata vrā́ḥ ||1||  
   
@@ -655,9 +568,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_2,1.5a) pári víśvā bhúvanāny āyam r̥tásya tántuṃ vítataṃ dr̥śé kám |  
 (AVŚ_2,1.5c) yátra devā́ amŕ̥tam ānaśānā́ḥ samāné yónāv ádhy áirayanta ||5||  
-  
-  
-  
+
 (AVŚ_2,2.1a) divyó gandharvó bhúvanasya yás pátir éka evá namasyò vikṣv ī́ḍyaḥ |  
 (AVŚ_2,2.1c) táṃ tvā yaumi bráhmaṇā divya deva námas te astu diví te sadhástham ||1||  
   
@@ -672,9 +583,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_2,2.5a) yā́ḥ klandā́s támiṣīcayo 'kṣákāmā manomúhaḥ |  
 (AVŚ_2,2.5c) tā́bhyo gandharvábhyo 'psarā́bhyo 'karam námaḥ ||5||  
-  
-  
-  
+
 (AVŚ_2,3.1a) adó yád avadhā́vaty avatkám ádhi párvatāt |  
 (AVŚ_2,3.1c) tát te kr̥ṇomi bheṣajáṃ súbheṣajaṃ yáthā́sasi ||1||  
   
@@ -692,9 +601,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_2,3.6a) śáṃ no bhavantv apá óṣadhayaḥ śivā́ḥ |  
 (AVŚ_2,3.6c) índrasya vájro ápa hantu rakṣása ārā́d vísr̥ṣṭā íṣavaḥ patantu rakṣásām ||6||  
-  
-  
-  
+
 (AVŚ_2,4.1a) dīrghāyutvā́ya br̥haté ráṇāyā́riṣyanto dákṣamāṇāḥ sádaivá |  
 (AVŚ_2,4.1c) maṇíṃ viṣkandhadū́ṣaṇaṃ jaṅgiḍáṃ bibhr̥mo vayám ||1||  
   
@@ -712,9 +619,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_2,4.6a) kr̥tyādū́ṣir ayáṃ maṇír átho arātidū́ṣiḥ |  
 (AVŚ_2,4.6c) átho sáhasvān jaṅgiḍáḥ prá ṇa ā́yuṃṣi tāriṣat ||6||  
-  
-  
-  
+
 (AVŚ_2,5.1a) índra juṣásva prá vahā́ yāhi śūra háribhyām |  
 (AVŚ_2,5.1c) píbā sutásya matér ihá madhóś cakānáś cā́rur mádāya ||1||  
   
@@ -735,9 +640,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_2,5.7a) vr̥ṣāyámāṇo avr̥ṇīta sómaṃ tríkadrukeṣu apibat sutásya |  
 (AVŚ_2,5.7c) ā́ sā́yakaṃ maghávādatta vájram áhann enaṃ prathamajā́m áhīnām ||7||  
-  
-  
-  
+
 (AVŚ_2,6.1a) sámās tvāgna r̥távo vardhayantu saṃvatsarā́ ŕ̥ṣayo yā́ni satyā́ |  
 (AVŚ_2,6.1c) sáṃ divyéna dīdihi rocanéna víśvā ā́ māhi pradíśaś cátasraḥ ||1||  
   
@@ -752,9 +655,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_2,6.5a) áti ního áti sŕ̥dhó 'ty ácittīr áti dvíṣaḥ |  
 (AVŚ_2,6.5c) víśvā hy àgne duritā́ tára tvám áthāsmábhyaṃ sahávīraṃ rayíṃ dāḥ ||5||  
-  
-  
-  
+
 (AVŚ_2,7.1a) aghádviṣṭā devájātā vīrúc chapathayópanī |  
 (AVŚ_2,7.1c) ā́po málam iva prā́ṇaikṣīt sárvān mác chapáthām̐ ádhi ||1||  
   
@@ -769,8 +670,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_2,7.5a) śaptā́ram etu śapátho yáḥ suhā́rt téna naḥ sahá |  
 (AVŚ_2,7.5c) cákṣurmantrasya durhā́rdaḥ pr̥ṣṭī́r ápi śr̥ṇīmasi ||5||  
-  
-  
+
 (AVŚ_2,8.1a) úd agātāṃ bhágavatī vicŕ̥tau nā́ma tā́rake |  
 (AVŚ_2,8.1c) ví kṣetriyásya muñcatām adhamáṃ pā́śam uttamám ||1||  
   
@@ -785,9 +685,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_2,8.5a) námaḥ sanisrasākṣébhyo námaḥ saṃdeśyèbhyaḥ |  
 (AVŚ_2,8.5c) námaḥ kṣétrasya pátaye vīrút kṣetriyanā́śany ápa kṣetriyám uchatu ||5||  
-  
-  
-  
+
 (AVŚ_2,9.1a) dáśavr̥kṣa muñcémáṃ rákṣaso grā́hyā ádhi yáinaṃ jagrā́ha párvasu |  
 (AVŚ_2,9.1c) átho enam vanaspate jīvā́nāṃ lokám ún naya ||1||  
   
@@ -802,9 +700,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_2,9.5a) yáś cakā́ra sá níṣ karat sá evá súbhiṣaktamaḥ |  
 (AVŚ_2,9.5c) sá evá túbhyaṃ bheṣajā́ni kr̥ṇávad bhiṣájā śúciḥ ||5||  
-  
-  
-  
+
 (AVŚ_2,10.1a) kṣetriyā́t tvā nírr̥tyā jāmiśaṃsā́d druhó muñcāmi váruṇasya pā́śāt |  
 (AVŚ_2,10.1c) anāgásaṃ bráhmaṇā tvā kr̥ṇomi śivé te dyā́vāpr̥thivī́ ubhé stām ||1||  
   
@@ -835,9 +731,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 (AVŚ_2,10.8a) sū́ryam r̥táṃ támaso grā́hyā ádhi devā́ muñcánto asr̥jan nír énasaḥ |  
 (AVŚ_2,10.8c) evā́hám tvā́ṃ kṣetriyā́n nírr̥tyā jāmiśaṃsā́d druhó muñcāmi váruṇasya pā́śāt |  
 (AVŚ_2,10.8e) anāgásam bráhmaṇā tvā kr̥ṇomi śivé te dyā́vāpr̥thivī́ ubhé stām ||8||  
-  
-  
-  
+
 (AVŚ_2,11.1a) dū́ṣyā dū́ṣir asi hetyā́ hetír asi menyā́ menír asi |  
 (AVŚ_2,11.1c) āpnuhí śréyāṃsam áti samáṃ krāma ||1||  
   
@@ -851,9 +745,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
   
 (AVŚ_2,11.5a) śukró 'si bhrājó 'si svàr asi jyótir asi |  
 (AVŚ_2,11.5c) āpnuhí śréyāṃsam áti samáṃ krāma ||5||  
-  
-  
-  
+
 (AVŚ_2,12.1a) dyā́vāpr̥thivī́ urv àntárikṣaṃ kṣétrasya pátny urugāyó 'dbhutaḥ |  
 (AVŚ_2,12.1c) utāntárikṣam urú vā́tagopaṃ tá ihá tapyantāṃ máyi tapyámāne ||1||  
   

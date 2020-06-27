@@ -3,23 +3,15 @@ title = "Manu-Smrti (analytic version)"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Manu-Smrti (analytic version)  
-  
-  
-  
-  
+
 Manusmrti  
 Typed, analyzed and proofread by M.YANO and Y.IKARI   
 (May-June 1991, January-April1992, March-April 1996)  
-  
-  
+
 REVISED GRETIL VERSION with variants notes, analysis (see below)  
-  
-  
+
 K: Manusmrti with the Sanskrit Commentary Manvartha-Muktavali of Kulluka   
 Bhatta, ed. J.L.Shastri 1983.  (Compared with the edition of   
 Kashi Skt Series 114 ed. Haragovinda Sastri.)  
@@ -33,73 +25,9 @@ the sloka-numbering of chapter between K and M is noticed.
   
 [M:] variants of Medhaatithi's   
 Different numbering of verses between M and K is noted.  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
+
 अनल्य्तिच् वेर्सिओन् अच्चोर्दिन्ग् तो ब्हेल चोन्वेन्तिओन्स्:  
   
 सन्धि मर्केर्स्:  
@@ -116,8 +44,7 @@ For further information see:
 ८: । -  
 ९: - ।  
 ०: - -  
-  
-  
+
 पद मर्केर्स्  
   
 ड़ोर् अ ड़ोउर्-पद वेर्से:  
@@ -128,8 +55,7 @@ For further information see:
 ॥॥॥॥  $ ॥॥॥॥  &  
 ॥॥॥॥  % ॥॥॥॥  \  
 ॥॥॥॥  # ॥॥॥॥  ॥  
-  
-  
+
 मनुम् एकाग्रम् आसीनम्  $ अभिगम्य महर्षयः  &  
 प्रतिपूज्य यथान्यायम्  % इदं वचनम् अब्रुवन्  ॥ म्न्_१।१ ॥  
   
@@ -162,9 +88,7 @@ For further information see:
   
 यत् तत् कारणम् अव्यक्तं  $ नित्यं सद्-असद्-आत्मकं  &  
 तद्-विसृष्टः स पुरुषो  % लोके ब्रह्मे९ति कीर्त्यते  ॥ म्न्_१।११ ॥  
-  
-  
-  
+
 तस्मिन्न् अण्डे स भगवान्  $ उषित्वा परिवत्सरम्  &  
 स्वयम् एवात्मनो ध्यानात्  % तद् अण्डम् अकरोद् द्विधा  ॥ म्न्_१।१२ ॥  
   
@@ -284,9 +208,7 @@ For further information see:
   
 एवं सर्वं स सृष्ट्वे९दं  $ मां चा७चिन्त्य-पराक्रमः  &  
 आत्मन्य् अन्तर्दधे भूयः  % कालं कालेन पीडयन्  ॥ म्न्_१।५१ ॥  
-  
-  
-  
+
 यदा स देवो जागर्ति  $ तद् एवं चेष्टते जगत्  &  
 यदा स्वपिति शान्ता३त्मा  % तदा सर्वं निमीलति  ॥ म्न्_१।५२ ॥  
   
@@ -345,9 +267,7 @@ For further information see:
   
 यद् एतत् परिसंख्यातम्  $ आदाव् एव चतुर्युगम्  &  
 एतद् द्वादशसाहस्रं  % देवानां युगम् उच्यते  ॥ म्न्_१।७१ ॥  
-  
-  
-  
+
 दैविकानां युगानां तु  $ सहस्रं परिसंख्यया  &  
 ब्राह्मम् एकम् अहर् ज्ञेयं  % तावतीं रात्रिम् एव च [म्: तावती रात्रिर् एव च]  ॥ म्न्_१।७२ ॥  
   
@@ -437,9 +357,7 @@ For further information see:
   
 स्वम् एव ब्राह्मणो भुङ्क्ते  $ स्वं वस्ते स्वं ददाति च  &  
 आनृशंस्याद् ब्राह्मणस्य  % भुञ्जते ही७तरे जनाः  ॥ म्न्_१।१०१ ॥  
-  
-  
-  
+
 तस्य कर्मविवेका१र्थं  $ शेषाणाम् अनुपूर्वशः  &  
 स्वायंभुवो मनुर् धीमान्  % इदं शास्त्रम् अकल्पयत्  ॥ म्न्_१।१०२ ॥  
   
@@ -466,9 +384,7 @@ For further information see:
   
 एवम् आचारतो दृष्ट्वा  $ धर्मस्य मुनयो गतिं  &  
 सर्वस्य तपसो मूलम्  % आचारं जगृहुः परम्  ॥ म्न्_१।११० ॥  
-  
-  
-  
+
 जगतश् च समुत्पत्तिं  $ संस्कारविधिम् एव च  &  
 व्रतचर्यो२पचारं च  % स्नानस्य च परं विधिम्  ॥ म्न्_१।१११ ॥  
   
@@ -495,15 +411,7 @@ For further information see:
   
 यथे९दम् उक्तवाञ् शास्त्रं  $ पुरा पृष्टो मनुर् मया  &  
 तथे९दं यूयम् अप्य् अद्य  % मत्-सकाशान् निबोधत  ॥ म्न्_१।११९ ॥  
-  
-  
-  
-  
-  
-   
-  
-  
-  
+
 विद्वद्भिः सेवितः सद्भिर्  $ नित्यम् अद्वेष-रागिभिः  &  
 हृदयेना७भ्यनुज्ञातो  % यो धर्मस् तं निबोधत  ॥ म्न्_२।१ ॥  
   
@@ -707,9 +615,7 @@ For further information see:
   
 एष प्रोक्तो द्विजातीनाम्  $ औपनायनिको विधिः  &  
 उत्पत्ति-व्यञ्जकः पुण्यः  % कर्मयोगं निबोधत  ॥ म्न्_२।६८ ॥  
-  
-  
-  
+
 उपनीय गुरुः शिष्यं  $ शिक्षयेच् छौचम् आदितः  &  
 आचारम् अग्निकार्यं च  % संध्यो२पासनम् एव च  ॥ म्न्_२।६९ ॥  
   
@@ -807,9 +713,7 @@ For further information see:
   
 पूर्वां संध्यां जपांस् तिष्ठेत्  $ सावित्रीम् आ२र्कदर्शनात्  &  
 पश्चिमां तु समासीनः  % सम्यग् ऋक्षविभावनात् [म्: पश्चिमां तु सदासीत]  ॥ म्न्_२।१०१ ॥  
-  
-  
-  
+
 पूर्वां संध्यां जपंस् तिष्ठन्  $ नैशम् एनो व्यपोहति  &  
 पश्चिमां तु समासीनो  % मलं हन्ति दिवाकृतम्  ॥ म्न्_२।१०२ ॥  
   
@@ -1252,13 +1156,7 @@ For further information see:
   
 एवं चरति यो विप्रो  $ ब्रह्मचर्यम् अविप्लुतः  &  
 स गच्छत्य् उत्तमस्थानं  % न चे७ह जायते पुनः  ॥ म्न्_२।२४९ ॥  
-  
-  
-  
-  
-  
-  
-  
+
 षट्त्रिंशद्-आब्दिकं चर्यं  $ गुरौ त्रैवेदिकं व्रतम्  &  
 तदर्धिकं पादिकं वा  % ग्रहणान्तिकम् एव वा  ॥ म्न्_३।१ ॥  
   
@@ -1459,8 +1357,7 @@ For further information see:
   
 मन्त्रतस् तु समृद्धानि  $ कुलान्य् अल्प-धनान्य् अपि [नोत् इन् म्]  &  
 कुलसंख्यां च गच्छन्ति  % कर्षन्ति च महद् यशः [नोत् इन् म्]  ॥ म्न्_३।६६ ॥  
-  
-  
+
 [हेरेअड़्तेर् म्ऽस् नुम्बेर् इस् "-१०"]  
   
 वैवाहिके ऽग्नौ कुर्वीत  $ गृह्यं कर्म यथाविधि  &  
@@ -2124,14 +2021,7 @@ For further information see:
   
 एतद् वो ऽभिहितं सर्वं  $ विधानं पाञ्चयज्ञिकम्  &  
 द्विजातिमुख्यवृत्तीनां  % विधानं श्रूयताम् इति  ॥ म्न्_३।२८६[२७६म्] ॥  
-  
-  
-  
-  
-   
-  
-  
-  
+
 चतुर्थम् आयुषो भागम्  $ उषित्वा०द्यं गुरौ द्विजाः  &  
 द्वितीयम् आयुषो भागं  % कृत-दारो गृहे वसेत्  ॥ म्न्_४।१ ॥  
 अद्रोहेणै७व भूतानाम्  $ अल्पद्रोहेण वा पुनः  &  
@@ -2166,9 +2056,7 @@ For further information see:
   
 संतोषं परम् आस्थाय  $ सुखार्थी संयतो भवेत्  &  
 संतोष-मूलं हि सुखं  % दुःख-मूलं विपर्ययः  ॥ म्न्_४।१२ ॥  
-  
-  
-  
+
 अतो ऽन्यतमया वृत्त्या  $ जीवंस् तु स्नातको द्विजः  &  
 स्वर्गा३युष्य-यशस्यानि  % व्रताणी७मानि धारयेत् [म्: स्वर्ग्या३युष्य-]  ॥ म्न्_४।१३ ॥  
   
@@ -2716,8 +2604,7 @@ For further information see:
   
 धर्मध्वजी सदा लुब्धश्  $ छाद्मिको लोकदम्भकः  &  
 बैडालव्रतिको ज्ञेयो  % हिंस्रः सर्वाभिसंधकः  ॥ म्न्_४।१९५ ॥  
-  
-  
+
 [इन् थे ड़ोल्लोwइन्ग् नुम्बेरिन्ग् ओड़् ं, झऽस् एद्। हवे थे समे ओने wइथ् क्।]  
   
 अधो-दृष्टिर् नैष्कृतिकः  $ स्वार्थसाधन-तत्परः  &  
@@ -2914,13 +2801,7 @@ For further information see:
   
 अनेन विप्रो वृत्तेन  $ वर्तयन् वेद-शास्त्रवित्  &  
 व्यपेत-कल्मषो नित्यं  % ब्रह्मलोके महीयते  ॥ म्न्_४।२६०[२६१म्] ॥  
-  
-  
-  
-   
-  
-  
-  
+
 श्रुत्वै९तान् ऋषयो धर्मान्  $ स्नातकस्य यथो२दितान्  &  
 इदम् ऊचुर् महात्मानम्  % अनल-प्रभवं भृगुम्  ॥ म्न्_५।१ ॥  
   
@@ -3426,13 +3307,7 @@ For further information see:
   
 अनेन विधिना नित्यं  $ पञ्चयज्ञान् न हापयेत्  &  
 द्वितीयम् आयुषो भागं  % कृत-दारो गृहे वसेत्  ॥ म्न्_५।१६९[१६७म्] ॥  
-  
-  
-  
-  
-  
-  
-  
+
 एवं गृहाश्रमे स्थित्वा  $ विधिवत् स्नातको द्विजः  &  
 वने वसेत् तु नियतो  % यथावद् विजिते१न्द्रियः  ॥ म्न्_६।१ ॥  
   
@@ -3686,9 +3561,7 @@ For further information see:
   
 अनेन क्रमयोगेन  $ परिव्रजति यो द्विजः  &  
 स विधूये७ह पाप्मानं  % परं ब्रह्मा७धिगच्छति  ॥ म्न्_६।८५ ॥  
-  
-  
-  
+
 एष धर्मो ऽनुशिष्टो वो  $ यतीनां नियता३त्मनाम्  &  
 वेदसंन्यासिकानां तु  % कर्मयोगं निबोधत  ॥ म्न्_६।८६ ॥  
   
@@ -3724,10 +3597,7 @@ For further information see:
   
 एष वो ऽभिहितो धर्मो  $ ब्राह्मणस्य चतुर्-विधः  &  
 पुण्यो ऽक्षय-फलः प्रेत्य  % राज्ञां धर्मं निबोधत  ॥ म्न्_६।९७ ॥  
-  
-  
-  
-  
+
 राजधर्मान् प्रवक्ष्यामि  $ यथावृत्तो भवेन् नृपः  &  
 संभवश् च यथा तस्य  % सिद्धिश् च परमा यथा  ॥ म्न्_७।१ ॥  
   
@@ -3766,9 +3636,7 @@ For further information see:
   
 तस्माद् धर्मं यम् इष्टेषु  $ स व्यवस्येन् नराधिपः  &  
 अनिष्टं चा७प्य् अनिष्टेषु  % तं धर्मं न विचालयेत्  ॥ म्न्_७।१३ ॥  
-  
-  
-  
+
 तस्यार्थे सर्वभूतानां  $ गोप्तारं धर्मम् आत्मजम् [म्: तदर्थं]  &  
 ब्रह्मतेजोमयं दण्डम्  % असृजत् पूर्वम् ईश्वरः  ॥ म्न्_७।१४ ॥  
   
@@ -3985,15 +3853,13 @@ For further information see:
 समम् अब्राह्मणे दानं  $ द्विगुणं ब्राह्मणब्रुवे  &  
 प्राधीते शतसाहस्रम्  % अनन्तं वेदपारगे [म्: आचार्ये शतसाहस्रम्]] [ञ्:  
 सहस्रगुणम्  ॥ म्न्_७।८५ ॥  
-  
-  
+
 पात्रस्य हि विशेषेण  $ श्रद्दधानतयै९व च  &  
 अल्पं वा बहु वा प्रेत्य  % दानस्य फलम् अश्नुते  ॥ म्न्_७।८६ ॥  
   
 देश-कालविधानेन  $ द्रव्यं श्रद्धासमन्वितम् [नोत् इन् क्]  &  
 पात्रे प्रदीयते यत् तु  % तद् धर्मस्य प्रसाधनम् [नोत् इन् क्]  ॥ [म्न्_७।८७म् ॥  
-  
-  
+
 समो१त्तमा१धमै राजा त्व्  $ आहूतः पालयन् प्रजाः  &  
 न निवर्तेत संग्रामात्  % क्षात्रं धर्मम् अनुस्मरन्  ॥ म्न्_७।८७[८८म्] ॥  
   
@@ -4349,9 +4215,7 @@ For further information see:
   
 सर्वं कर्मे७दम् आयत्तं  $ विधाने दैव-मानुषे  &  
 तयोर् दैवम् अचिन्त्यं तु  % मानुषे विद्यते क्रिया  ॥ म्न्_७।२०५[२०६म्] ॥  
-  
-  
-  
+
 [थे ड़ोल्लोwइन्ग् थ्रेए श्लोकस् अरे ड़ोउन्द् ओन्ल्य् इन् म्:    
 झऽस् एदितिओन् दोएस् नोत् चोउन्त् थेम् इन् इत्स् नुम्बेरिन्ग् ओड़् थे तेxत्,   
 अल्थोउघ् मेधातिथि गिवेस् थेइर् चोम्मेन्तर्य्।]  
@@ -4364,9 +4228,7 @@ For further information see:
   
 चन्द्रार्का३द्या ग्रहा वायुर्  $ अग्निर् आपस् तथै९व च [नोत् इन् क्]  &  
 इह दैवेन साध्यन्ते  % पौरुषेण प्रयत्नतः [नोत् इन् क्]  ॥ [म्न्_७।२०९म् ॥  
-  
-  
-  
+
 सह वा९पि व्रजेद् युक्तः  $ संधिं कृत्वा प्रयत्नतः  &  
 मित्रं हिरण्यं भूमिं वा  % संपश्यंस् त्रिविधं फलम्  ॥ म्न्_७।२०६[२१०म्] ॥  
   
@@ -4429,15 +4291,7 @@ For further information see:
 संविशेत् तं यथाकालम्  % उत्तिष्ठेच् च गतक्लमः  ॥ म्न्_७।२५५[२२९म्] ॥  
 एतद्विधानम् आतिष्ठेद्  $ अरोगः पृथिवीपतिः  &  
 अस्वस्थः सर्वम् एतत् तु  % भृत्येषु विनियोजयेत्  ॥ म्न्_७।२२६[२३०म्] ॥  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
 व्यवहारान् दिदृक्षुस् तु  $ ब्राह्मणैः सह पार्थिवः  &  
 मन्त्रज्ञैर् मन्त्रिभिश् चै७व  % विनीतः प्रविशेत् सभाम्  ॥ म्न्_८।१ ॥  
   
@@ -4554,22 +4408,16 @@ For further information see:
   
 निधीनां तु पुराणानां  $ धातूनाम् एव च क्षितौ  &  
 अर्धभाग् रक्षणाद् राजा  % भूमेर् अधिपतिर् हि सः  ॥ म्न्_८।३९ ॥  
-  
-  
-  
+
 दातव्यं सर्ववर्णेभ्यो  $ राज्ञा चौरैर् हृतं धनम्  &  
 राजा तद् उपयुञ्जानश्  % चौरस्या८प्नोति किल्बिषम्  ॥ म्न्_८।४० ॥  
-  
-  
-  
+
 जाति-जानपदान् धर्मान्  $ श्रेणीधर्मांश् च धर्मवित्  &  
 समीक्ष्य कुलधर्मांश् च  % स्वधर्मं प्रतिपादयेत्  ॥ म्न्_८।४१ ॥  
   
 स्वानि कर्माणि कुर्वाणा  $ दूरे सन्तो ऽपि मानवाः  &  
 प्रिया भवन्ति लोकस्य  % स्वे स्वे कर्मण्य् अवस्थिताः  ॥ म्न्_८।४२ ॥  
-  
-  
-  
+
 नो७त्पादयेत् स्वयं कार्यं  $ राजा ना७प्य् अस्य पुरुषः  &  
 न च प्रापितम् अन्येन  % ग्रसेद् अर्थं कथं चन [म्: ग्रसेता७र्थं]  ॥ म्न्_८।४३ ॥  
   
@@ -4581,9 +4429,7 @@ For further information see:
   
 सद्भिर् आचरितं यत् स्याद्  $ धार्मिकैश् च द्विजातिभिः  &  
 तद् देश-कुल-जातीनाम्  % अविरुद्धं प्रकल्पयेत्  ॥ म्न्_८।४६ ॥  
-  
-  
-  
+
 अधमर्णार्थसिद्ध्यर्थम्  $ उत्तमर्णेन चोदितः  &  
 दापयेद् धनिकस्या७र्थम्  % अधमर्णाद् विभावितम्  ॥ म्न्_८।४७ ॥  
   
@@ -4598,9 +4444,7 @@ For further information see:
   
 अर्थे ऽपव्ययमानं तु  $ करणेन विभावितम्  &  
 दापयेद् धनिकस्या७र्थं  % दण्डलेशं च शक्तितः  ॥ म्न्_८।५१ ॥  
-  
-  
-  
+
 अपह्नवे ऽधमर्णस्य  $ देही७त्य् उक्तस्य संसदि  &  
 अभियोक्ता दिशेद् देश्यं  % करणं वा९न्यद् उद्दिशेत्  ॥ म्न्_८।५२ ॥  
   
@@ -4625,9 +4469,7 @@ na cet tripakṣāt prabrūyād  % dharmaṃ prati parājitaḥ  // Mn_8.58 //
   
 yo yāvan nihnuvītā7rthaṃ  $ mithyā yāvati vā vadet  &  
 tau nṛpeṇa hy adharmajñau  % dāpyo taddviguṇaṃ damam  // Mn_8.59 //  
-  
-  
-  
+
 pṛṣṭo 'pavyayamānas tu  $ kṛtā1vastho dhanai1ṣiṇā  &  
 tryavaraiḥ sākṣibhir bhāvyo  % nṛpa-brāhmaṇasaṃnidhau  // Mn_8.60 //  
   
@@ -4683,9 +4525,7 @@ strībuddher asthiratvāt tu  % doṣaiś cā7nye 'pi ye vṛtāḥ  // Mn_8.77 
   
 svabhāvenai7va yad brūyus  $ tad grāhyaṃ vyāvahārikam  &  
 ato yad anyad vibrūyur  % dharmārthaṃ tad apārthakam  // Mn_8.78 //  
-  
-  
-  
+
 sabhāntaḥ sākṣiṇaḥ prāptān  $ arthi-pratyarthi-saṃnidhau  &  
 prāḍvivāko 'nuyuñjīta  % vidhinā9nena sāntvayan  // Mn_8.79 //  
   
@@ -4757,9 +4597,7 @@ yathāśrutaṃ yathādṛṣṭaṃ  % sarvam evā7ñjasā vada  // Mn_8.101 //
   
 gorakṣakān vāṇijikāṃs  $ tathā kāru-kuśīlavān [M: vāṇijakāṃs]  &  
 preṣyān vārdhuṣikāṃś cai7va  % viprān śūdravad ācaret  // Mn_8.102 //  
-  
-  
-  
+
 tad vadan dharmato 'rtheṣu  $ jānann apy anythā naraḥ  &  
 na svargāc cyavate lokād  % daivīṃ vācaṃ vadanti tām  // Mn_8.103 //  
   
@@ -4771,17 +4609,13 @@ anṛtasyai7nasas tasya  % kurvāṇā niṣkṛtiṃ parām  // Mn_8.105 //
   
 kūṣmāṇḍair vā9pi juhuyād  $ ghṛtam agnau yathāvidhi [TA10.3-5; VS20.14]  &  
 ud ity ṛcā vā vāruṇyā  % tṛcenā7b-daivatena vā [RS1.24.15; 10.9.1-3; VS12.2;VS12.50]  // Mn_8.106 //  
-  
-  
-  
+
 tripakṣād abruvan sākṣyam  $ ṛṇādiṣu naro 'gadaḥ  &  
 tadṛṇaṃ prāpnuyāt sarvaṃ  % daśabandhaṃ ca sarvataḥ  // Mn_8.107 //  
   
 yasya dṛśyeta saptāhād  $ ukta-vākyasya sākṣiṇaḥ  &  
 rogo 'gnir jñātimaraṇam  % ṛṇaṃ dāpyo damaṃ ca saḥ  // Mn_8.108 //  
-  
-  
-  
+
 asākṣikeṣu tv artheṣu  $ mitho vivādamānayoḥ  &  
 avindaṃs tattvataḥ satyaṃ  % śapathenā7pi lambhayet  // Mn_8.109 //  
   
@@ -4805,9 +4639,7 @@ na cā8rtim ṛcchati kṣipraṃ  % sa jñeyaḥ śapathe śuciḥ  // Mn_8.115
   
 vatsasya hy abhiśastasya  $ purā bhrātrā yavīyasā  &  
 nā7gnir dadāha romā7pi  % satyena jagataḥ spaśaḥ  // Mn_8.116 //  
-  
-  
-  
+
 yasmin yasmin vivāde tu  $ kauṭasākṣyaṃ kṛtaṃ bhavet  &  
 tat tat kāryaṃ nivarteta  % kṛtaṃ cā7py akṛtaṃ bhavet  // Mn_8.117 //  
   
@@ -4828,9 +4660,7 @@ dharmasyā7vyabhicārārtham  % adharmaniyamāya ca  // Mn_8.122 //
   
 kauṭasākṣyaṃ tu kurvāṇāṃs  $ trīn varṇān dhārmiko nṛpaḥ  &  
 pravāsayed daṇḍayitvā  % brāhmaṇaṃ tu vivāsayet  // Mn_8.123 //  
-  
-  
-  
+
 daśa sthānāni daṇḍasya  $ manuḥ svayaṃbhuvo 'bravīt  &  
 triṣu varṇeṣu yāni syur  % akṣato brāhmaṇo vrajet  // Mn_8.124 //  
   
@@ -4851,9 +4681,7 @@ tṛtīyaṃ dhanadaṇḍaṃ tu  % vadhadaṇḍam ataḥ param  // Mn_8.129 /
   
 vadhenā7pi yadā tv etān  $ nigrahītuṃ na śaknuyāt  &  
 tadai9ṣu sarvam apy etat  % prayuñjīta catuṣṭayam  // Mn_8.130 //  
-  
-  
-  
+
 lokasaṃvyavahārārthaṃ  $ yāḥ saṃjñāḥ prathitā bhuvi  &  
 tāmra-rūpya-suvarṇānāṃ  % tāḥ pravakṣyāmy aśeṣataḥ  // Mn_8.131 //  
   
@@ -4874,16 +4702,13 @@ kārṣāpaṇas tu vijñeyas  % tāmrikaḥ kārṣikaḥ paṇaḥ  // Mn_8.13
   
 dharaṇāni daśa jñeyaḥ  $ śatamānas tu rājataḥ  &  
 catuḥsauvarṇiko niṣko  % vijñeyas tu pramāṇataḥ  // Mn_8.137 //  
-  
-  
+
 paṇānāṃ dve śate sārdhe  $ prathamaḥ sāhasaḥ smṛtaḥ  &  
 madhyamaḥ pañca vijñeyaḥ  % sahasraṃ tv eva co7ttamaḥ  // Mn_8.138 //  
   
 ṛṇe deye pratijñāte  $ pañcakaṃ śatam arhati  &  
 apahnave taddviguṇaṃ  % tan manor anuśāsanam  // Mn_8.139 //  
-  
-  
-  
+
 vasiṣṭhavihitāṃ vṛddhiṃ  $ sṛjed vittavivardhinīm  &  
 aśītibhāgaṃ gṛhṇīyān  % māsād vārdhuṣikaḥ śate  // Mn_8.140 //  
   
@@ -4898,9 +4723,7 @@ na cā8dheḥ kālasaṃrodhān  % nisargo 'sti na vikrayaḥ  // Mn_8.143 //
   
 na bhoktavyo balād ādhir  $ bhuñjāno vṛddhim utsṛjet  &  
 mūlyena toṣayec cai7nam  % ādhisteno 'nyathā bhavet  // Mn_8.144 //  
-  
-  
-  
+
 ādhiś co7panidhiś co7bhau  $ na kālātyayam arhataḥ  &  
 avahāryau bhavetāṃ tau  % dīrghakālam avasthitau  // Mn_8.145 //  
   
@@ -4915,9 +4738,7 @@ bhagnaṃ tad vyavahāreṇa  % bhoktā tad dravyam arhati [M: tad dhanam arhati
   
 ādhiḥ sīmā bāladhanaṃ  $ nikṣepo1panidhiḥ striyaḥ [M: nikṣepo1panidhī]  &  
 rājasvaṃ śrotriyasvaṃ ca  % na bhogena praṇaśyati  // Mn_8.149 //  
-  
-  
-  
+
 yaḥ svāminā9nanujñātam  $ ādhiṃ bhūṅkte 'vicakṣaṇaḥ  &  
 tenā7rdhavṛddhir moktavyā  % tasya bhogasya niṣkṛtiḥ  // Mn_8.150 //  
   
@@ -4929,9 +4750,7 @@ kusīdapatham āhus taṃ  % pañcakaṃ śatam arhati  // Mn_8.152 //
   
 nā7ti-sāṃvatsarīṃ vṛddhiṃ  $ na cā7dṛṣṭāṃ punar haret [M: vinirharet]  &  
 cakravṛddhiḥ kālavṛddhiḥ  % kāritā kāyikā ca yā  // Mn_8.153 //  
-  
-  
-  
+
 ṛṇaṃ dātum aśakto yaḥ  $ kartum icchet punaḥ kriyām  &  
 sa dattvā nirjitāṃ vṛddhiṃ  % karaṇaṃ parivartayet  // Mn_8.154 //  
 adarśayitvā tatrai7va  $ hiraṇyaṃ parivartayet  &  
@@ -4942,9 +4761,7 @@ atikrāman deśa-kālau  % na tat-phalam avāpnuyāt  // Mn_8.156 //
   
 samudrayānakuśalā  $ deśa-kālā1rthadarśinaḥ  &  
 sthāpayanti tu yāṃ vṛddhiṃ  % sā tatrā7dhigamaṃ prati  // Mn_8.157 //  
-  
-  
-  
+
 yo yasya pratibhūs tiṣṭhed  $ darśanāye7ha mānavaḥ  &  
 adarśayan sa taṃ tasya  % prayacchet svadhanād ṛṇam [M: tasya yateta]  // Mn_8.158 //  
   
@@ -4959,9 +4776,7 @@ paścāt pratibhuvi prete  % parīpset kena hetunā  // Mn_8.161 //
   
 nirādiṣṭadhanaś cet tu  $ pratibhūḥ syād alaṃdhanaḥ  &  
 svadhanād eva tad dadyān  % nirādiṣṭa iti sthitiḥ  // Mn_8.162 //  
-  
-  
-  
+
 matto1nmattā3rtā1dhyadhīnair  $ bālena sthavireṇa vā  &  
 asaṃbaddhakṛtaś cai7va  % vyāvahāro na sidhyati  // Mn_8.163 //  
   
@@ -4970,17 +4785,13 @@ bahiś ced bhāṣyate dharmān  % niyatād vyavahārikāt  // Mn_8.164 //
   
 yogādhamanavikrītaṃ  $ yogadānapratigraham  &  
 yatra vā9py upadhiṃ paśyet  % tat sarvaṃ vinivartayet  // Mn_8.165 //  
-  
-  
-  
+
 grahītā yadi naṣṭaḥ syāt  $ kuṭumbārthe kṛto vyayaḥ [M: kuṭumbe ca]  &  
 dātavyaṃ bāndhavais tat syāt  % pravibhaktair api svataḥ  // Mn_8.166 //  
   
 kuṭumbārthe 'dhyadhīno 'pi  $ vyavahāraṃ yam ācaret  &  
 svadeśe vā videśe vā  % taṃ jyāyān na vicālayet  // Mn_8.167 //  
-  
-  
-  
+
 balād dattaṃ balād bhuktaṃ  $ balād yac cā7pi lekhitam  &  
 sarvān balakṛtān arthān  % akṛtān manur abravīt  // Mn_8.168 //  
   
@@ -5004,8 +4815,7 @@ acirāt taṃ dur-ātmānaṃ  % vaśe kurvanti śatravaḥ  // Mn_8.174 //
   
 kāma-krodhau tu saṃyamya  $ yo 'rthān dharmeṇa paśyati  &  
 prajās tam anuvartante  % samudram iva sindhavaḥ  // Mn_8.175 //  
-  
-  
+
 yaḥ sādhayantaṃ chandena  $ vedayed dhanikaṃ nṛpe  &  
 sa rājñā tac caturbhāgaṃ  % dāpyas tasya ca tad dhanam  // Mn_8.176 //  
   
@@ -5014,9 +4824,7 @@ samo 'vakṛṣṭajātis tu  % dadyāc chreyāṃs tu tac chanaiḥ  // Mn_8.17
   
 anena vidhinā rājā  $ mitho vivadatāṃ nṛṇām  &  
 sākṣipratyayasiddhāni  % kāryāṇi samatāṃ nayet  // Mn_8.178 //  
-  
-  
-  
+
 kulaje vṛttasaṃpanne  $ dharmajñe satyavādini  &  
 mahāpakṣe dhaniny ārye  % nikṣepaṃ nikṣiped budhaḥ  // Mn_8.179 //  
   
@@ -5034,8 +4842,7 @@ na tatra vidyate kiṃ cid  % yat parair abhiyujyate  // Mn_8.183 //
   
 teṣāṃ na dadyād yadi tu  $ tad dhiraṇyaṃ yathāvidhi  &  
 ubhau nigṛhya dāpyaḥ syād  % iti dharmasya dhāraṇā [M: sa nigṛhyo7bhayaṃ dāpya iti  // Mn_8.184 //  
-  
-  
+
 nikṣepo1panidhī nityaṃ  $ na deyau pratyanantare  &  
 naśyato vinipāte tāv  % anipāte tv anāśinau  // Mn_8.185 //  
   
@@ -5071,8 +4878,7 @@ mitha eva pradātavyo  % yathā dāyas tathā grahaḥ  // Mn_8.195 //
   
 nikṣiptasya dhanasyai7vaṃ  $ prītyo9panihitasya ca  &  
 rājā vinirṇayaṃ kuryād  % akṣiṇvan nyāsadhāriṇam  // Mn_8.196 //  
-  
-  
+
 vikrīṇīte parasya svaṃ  $ yo 'svāmī svāmyasammataḥ  &  
 na taṃ nayeta sākṣyaṃ tu  % stenam astenamāninam  // Mn_8.197 //  
   
@@ -5094,16 +4900,13 @@ adaṇḍyo mucyate rājñā  % nāṣṭiko labhate dhanam  // Mn_8.202 //
 nā7nyad anyena saṃsṛṣṭa-  $ rūpaṃ vikrayam arhati  &  
 na cā7sāraṃ na ca nyūnaṃ  % na dūreṇa tirohitam [M: na sāvadyaṃ na ca nyūnaṃ na  
 dūre]  // Mn_8.203 //  
-  
-  
+
 anyāṃ ced darśayitvā9nyā  $ voḍhuḥ kanyā pradīyate  &  
 ubhe ta ekaśulkena  % vahed ity abravīn manuḥ  // Mn_8.204 //  
   
 no7nmattāyā na kuṣṭhinyā  $ na ca yā spṛṣṭa-maithunā  &  
 pūrvaṃ doṣān abhikhyāpya  % pradātā daṇḍam arhati  // Mn_8.205 //  
-  
-  
-  
+
 ṛtvig yadi vṛto yajñe  $ svakarma parihāpayet  &  
 tasya karmānurūpeṇa  % deyo 'ṃśaḥ sahakartṛbhiḥ  // Mn_8.206 //  
   
@@ -5121,8 +4924,7 @@ tṛtīyinas tṛtīyāṃśāś  % caturthāṃśāś ca pādinaḥ  // Mn_8.21
   
 saṃbhūya svāni karmāṇi  $ kurvadbhir iha mānavaiḥ  &  
 anena vidhiyogena  % kartavyā9ṃśaprakalpanā  // Mn_8.211 //  
-  
-  
+
 dharmārthaṃ yena dattaṃ syāt  $ kasmai cid yācate dhanam  &  
 paścāc ca na tathā tat syān  % na deyaṃ tasya tad bhavet  // Mn_8.212 //  
   
@@ -5131,8 +4933,7 @@ rājñā dāpyaḥ suvarṇaṃ syāt  % tasya steyasya niṣkṛtiḥ  // Mn_8.
   
 dattasyai7ṣo9ditā dharmyā  $ yathāvad anapakriyā  &  
 ata ūrdhvaṃ pravakṣyāmi  % vetanasyā7napakriyām  // Mn_8.214 //  
-  
-  
+
 bhṛto nā8rto na kuryād yo  $ darpāt karma yatho2ditam [M: anārto]  &  
 sa daṇḍyaḥ kṛṣṇalāny aṣṭau  % na deyaṃ cā7sya vetanam  // Mn_8.215 //  
   
@@ -5144,9 +4945,7 @@ na tasya vetanaṃ deyam  % alpo3nasyā7pi karmaṇaḥ  // Mn_8.217 //
   
 eṣa dharmo 'khileno7kto  $ vetanādānakarmaṇaḥ  &  
 ata ūrdhvaṃ pravakṣyāmi  % dharmaṃ samayabhedinām  // Mn_8.218 //  
-  
-  
-  
+
 yo grāma-deśa-saṃghānāṃ  $ kṛtvā satyena saṃvidam  &  
 visaṃvaden naro lobhāt  % taṃ rāṣṭrād vipravāsayet  // Mn_8.219 //  
   
@@ -5155,9 +4954,7 @@ catuḥsuvarṇān ṣaṇniṣkāṃś  % chatamānaṃ ca rājakam  // Mn_8.22
   
 etad daṇḍavidhiṃ kuryād  $ dhārmikaḥ pṛthivīpatiḥ  &  
 grāma-jāti-samūheṣu  % samayavyabhicāriṇām  // Mn_8.221 //  
-  
-  
-  
+
 krītvā vikrīya vā kiṃ cid  $ yasye7hānuśayo bhavet  &  
 so 'ntar daśāhāt tad dravyaṃ  % dadyāc cai7vādadīta vā  // Mn_8.222 //  
   
@@ -5177,8 +4974,7 @@ teṣāṃ niṣṭhā tu vijñeyā  % vidvadbhiḥ saptame pade  // Mn_8.227 //
   
 yasmin yasmin kṛte kārye  $ yasye7hānuśayo bhavet  &  
 tam anena vidhānena  % dharmye pathi niveśayet  // Mn_8.228 //  
-  
-  
+
 paśuṣu svāmināṃ cai7va  $ pālānāṃ ca vyatikrame  &  
 vivādaṃ saṃpravakṣyāmi  % yathāvad dharmatattvataḥ  // Mn_8.229 //  
   
@@ -5226,9 +5022,7 @@ tato 'rdhadaṇḍo bhṛtyānām  % ajñānāt kṣetrikasya tu  // Mn_8.243 //
   
 etad vidhānam ātiṣṭhed  $ dhārmikaḥ pṛthivīpatiḥ  &  
 svāmināṃ ca paśūnāṃ ca  % pālānāṃ ca vyatikrame  // Mn_8.244 //  
-  
-  
-  
+
 sīmāṃ prati samutpanne  $ vivāde grāmayor dvayoḥ  &  
 jyeṣṭhe māsi nayet sīmāṃ  % su-prakāśeṣu setuṣu  // Mn_8.245 //  
   
@@ -5294,8 +5088,7 @@ pradiśed bhūmim ekeṣām  % upakārād iti sthitiḥ  // Mn_8.265 //
   
 eṣo 'khilenā7bhihito  $ dharmaḥ sīmāvinirṇaye  &  
 ata ūrdhvaṃ pravakṣyāmi  % vākpāruṣyavinirṇayam  // Mn_8.266 //  
-  
-  
+
 śataṃ brāhmaṇam ākruśya  $ kṣatriyo daṇḍam arhati  &  
 vaiśyo 'py ardhaśataṃ dve vā  % śūdras tu vadham arhati  // Mn_8.267 //  
   
@@ -5331,8 +5124,7 @@ cheda-varjaṃ praṇayanaṃ  % daṇḍasye7ti viniścayaḥ  // Mn_8.277 //
   
 eṣa daṇḍavidhiḥ prokto  $ vākpāruṣyasya tattvataḥ  &  
 ata ūrdhvaṃ pravakṣyāmi  % daṇḍapāruṣyanirṇayam  // Mn_8.278 //  
-  
-  
+
 yena kena cid aṅgena  $ hiṃsyāc cec chreṣṭham antyajaḥ  &  
 chettavyaṃ tad tad evā7sya  % tan manor anuśāsanam  // Mn_8.279 //  
   
@@ -5399,9 +5191,7 @@ pṛṣṭhatas tu śarīrasya  $ no7ttamāṅge kathaṃ cana  &
 ato 'nyathā tu praharan  % prāptaḥ syāc caurakilbiṣam  // Mn_8.300 //  
 eṣo 'khilenā7bhihito  $ daṇḍapāruṣyanirṇayaḥ  &  
 stenasyā7taḥ pravakṣyāmi  % vidhiṃ daṇḍavinirṇaye  // Mn_8.301 //  
-  
-  
-  
+
 paramaṃ yatnam ātiṣṭhet  $ stenānāṃ nigrahe nṛpaḥ  &  
 stenānāṃ nigrahād asya  % yaśo rāṣṭraṃ ca vardhate  // Mn_8.302 //  
   
@@ -5758,10 +5548,7 @@ ahany ahany avekṣeta  $ karmāntān vāhanāni ca  &
   
 evaṃ sarvān imān rājā  $ vyavahārān samāpayan  &  
 vyapohya kilbiṣaṃ sarvaṃ  % prāpnoti paramāṃ gatim  // Mn_8.420 //  
-  
-  
-  
-  
+
 puruṣasya striyāś cai7va  $ dharme vartmani tiṣṭhatoḥ [M: dharmye]  &  
 saṃyoge viprayoge ca  % dharmān vakṣyāmi śāśvatān  // Mn_9.1 //  
   
@@ -5800,8 +5587,7 @@ arakṣitā gṛhe ruddhāḥ  $ puruṣair āptakāribhiḥ  &
   
 pānaṃ durjanasaṃsargaḥ  $ patyā ca viraho 'ṭanam  &  
 svapno 'nyagehavāsaś ca  % nārīsaṃdūṣaṇāni ṣaṭ  // Mn_9.13 //  
-  
-  
+
 nai7tā rūpaṃ parīkṣante  $ nā8sāṃ vayasi saṃsthitiḥ  &  
 surūpaṃ vā virūpaṃ vā  % pumān ity eva bhuñjate  // Mn_9.14 //  
   
@@ -5834,8 +5620,7 @@ akṣamālā vasiṣṭhena  $ saṃyuktā9dhamayonijā  &
   
 etāś cā7nyāś ca loke 'sminn  $ apakṛṣṭaprasūtayaḥ [M: avakṛṣṭaprasūtayaḥ]  &  
 utkarṣaṃ yoṣitaḥ prāptāḥ  % svaiḥ svair bhartṛguṇaiḥ śubhaiḥ  // Mn_9.24 //  
-  
-  
+
 eṣo9ditā lokayātrā  $ nityaṃ strī-puṃsayoḥ śubhā  &  
 pretye7ha ca sukho1darkān  % prajādharmān nibodhata  // Mn_9.25 //  
   
@@ -5853,8 +5638,7 @@ sā bhartṛlokān āpnoti  % sadbhiḥ sādhvī9ti co7cyate  // Mn_9.29 //
   
 vyabhicārāt tu bhartuḥ strī  $ loke prāpnoti nindyatām  &  
 sṛgālayoniṃ cā8pnoti  % pāparogaiś ca pīḍyate [M: śṛgālayoniṃ]  // Mn_9.30 //  
-  
-  
+
 putraṃ pratyuditaṃ sadbhiḥ  $ pūrvajaiś ca maharṣibhiḥ  &  
 viśvajanyam imaṃ puṇyam  % upanyāsaṃ nibodhata  // Mn_9.31 //  
   
@@ -5929,9 +5713,7 @@ kṣetrikasyai7va tad bījaṃ  % na vaptā labhate phalam [M: na bījī labhate
   
 eṣa dharmo gavā1śvasya  $ dāsy-uṣṭrā1jā1vikasya ca  &  
 vihaṃga-mahiṣīṇāṃ ca  % vijñeyaḥ prasavaṃ prati  // Mn_9.55 //  
-  
-  
-  
+
 etad vaḥ sāraphalgutvaṃ  $ bīja-yonyoḥ prakīrtitam  &  
 ataḥ paraṃ pravakṣyāmi  % yoṣitāṃ dharmam āpadi  // Mn_9.56 //  
   
@@ -5976,8 +5758,7 @@ tām anena vidhānena  % nijo vindeta devaraḥ  // Mn_9.69 //
   
 yathāvidhy adhigamyai7nāṃ  $ śukla-vastrāṃ śuci-vratām  &  
 mitho bhajetā8 prasavāt  % sakṛt-sakṛd ṛtāv-ṛtau  // Mn_9.70 //  
-  
-  
+
 na dattvā kasya cit kanyāṃ  $ punar dadyād vicakṣaṇaḥ  &  
 dattvā punaḥ prayacchan hi  % prāpnoti puruṣānṛtam  // Mn_9.71 //  
   
@@ -5986,8 +5767,7 @@ vyādhitāṃ vipraduṣṭāṃ vā  % chadmanā co7papāditām  // Mn_9.72 //
   
 yas tu doṣavatīṃ kanyām  $ anākhyāyo7papādayet  &  
 tasya tad vitathaṃ kuryāt  % kanyādātur durātmanaḥ  // Mn_9.73 //  
-  
-  
+
 vidhāya vṛttiṃ bhāryāyāḥ  $ pravaset kāryavān naraḥ  &  
 avṛttikarśitā hi strī  % praduṣyet sthitimaty api  // Mn_9.74 //  
   

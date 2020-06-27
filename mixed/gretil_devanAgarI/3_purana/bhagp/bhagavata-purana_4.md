@@ -3,87 +3,14 @@ title = "Bhagavata-Purana 4"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Bhagavata-Purana 4  
-  
-  
-  
-  
-  
-  
+
 Bhagavata-Purana 4  
 Input by ...  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 भ्प्_०४।०१।००१।० मैत्रेय उवाच  
 भ्प्_०४।०१।००१।१ मनोस् तु शतरूपायां तिस्रः कन्याश् च जज्ञिरे  
 भ्प्_०४।०१।००१।२ आकूतिर् देवहूतिश् च प्रसूतिर् इति विश्रुताः  
@@ -3259,6 +3186,4 @@ For further information see:
 भ्प्_०४।३१।०३०।२ स्वानां दिदृक्षुः प्रययौ ज्ञातीनां निर्वृताशयः  
 भ्प्_०४।३१।०३१।१ एतद् यः शृणुयाद् राजन् राज्ञां हर्य्-अर्पितात्मनाम्  
 भ्प्_०४।३१।०३१।२ आयुर् धनं यशः स्वस्ति गतिम् ऐश्वर्यम् आप्नुयात्  
-  
-  
-  
+

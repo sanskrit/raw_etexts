@@ -3,98 +3,22 @@ title = "Mahakarmavibhanga"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Mahakarmavibhanga  
-  
-  
-  
-  
+
 Mahakarmavibhanga (= MKV)  
 Based on the edition by Sylvain Lévi: Mahākarmavibhaṅga et Karmavibhaṅgopadeśa,  
 Paris 1932, pp. 21-105.  
   
 Cf. also N. Kudo: The Karmavibhaṅga. Transliterations and Annotations of the Original Sanskrit Manuscripts from Nepal,  
 Tokyo 2004 (Bibliotheca Philologica et Philosophica Buddhica, 7).  
-  
-  
+
 Input by Klaus Wille (Göttingen, Germany)  
-  
-  
-  
+
 BOLD for references  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 ॐ नमो भगवते मञ्जुश्रिये कुमारभूताय  
   
 शङ्खक्षीरेन्दुकुन्दस्फटिकहिमदलक्षौमशुभ्राभ्रगौरैश् चञ्चत्स्पष्टाट्टहासैर् गगनतलगतैश् छत्त्रपङ्क्त्य् [आतपत्रैः] स्तव्यैर् भूर् भाति यस्य त्रिदशनरगरुत्सिद्धगन्धर्वाजुष्टैः प्रह्वास् तं सर्व एव प्रणमत सततं बुद्धम् आदित्यबन्धुम्।  
@@ -165,8 +89,7 @@ For further information see:
 स्वप्नाद् विबुद्धो ऽनुस्मरामि।  
   
 स च राजा बोधिसत्त्वो बभूव।  
-  
-  
+
 गङ्गास्रोतसि नावा गृहीता  
 नागेन घोरेण ऋद्धिकेन।  
   
@@ -585,7 +508,4 @@ XलिX। तत्र कतमत् कर्म येन समन्व�
 ल्XXX। दश वैशारद्यानि। कतमानि दश। उच्यते। विशारदो ग्रामं प्रविशति। विशारदो ग्रामान् निष्क्रामति। विशारदः पिण्डपातं परिभुङ्क्ते। विशारदः परिषदि धर्मं देशयति। विशारदः संघमध्यम् अवतरति। विशारद आचार्योपाध्यायान् उपसंक्रामति। विशारदो मैत्रचित्तः शिष्यान् अनुशास्ति। विशारदश् चीवरपिइइडपातशयनासनग्लानप्रत्ययभैषज्यपरिष्कारान् परिभुङ्क्ते। ग्राह्यं चास्य वचो भवति। इमानि दश वैशारद्यानि।  
   
 कर्मविभङ्गसूत्रं समाप्तम्  
-  
-  
-  
-  
+

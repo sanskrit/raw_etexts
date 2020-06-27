@@ -3,22 +3,14 @@ title = "Srighanacarasamgraha"
 
 +++
 ## Intro
-  
-  
-  
-  
- Srighanacarasamgraha   
-  
-  
-  
-  
+
+Srighanacarasamgraha   
+
 Srighanacarasamgraha (=Śghs)  
 reconstructed by Sanghasena Singh from Jayaraksita's Srighanacarasamgrahatika (see separate file)  
 [cf. Sanghasena Singh: "On the restauration of the Śrighanācārasaṃgraha",   
 in: Philosophy, Grammar and Indology, Essays in Honour of Professor Gustav Roth, ed. H.S. Prasad, Delhi 1992, pp. 283-301]  
-  
-  
-  
+
 Input by members of the Sanskrit Buddhist Input Project.  
 With kind permission of the Digital Sanskrit Buddhist Canon Project  
 of Nagarjuna Institute, Nepal  
@@ -26,80 +18,12 @@ and University of the West, Rosemead, California, USA
 (www.uwest.edu/sanskritcanon)  
 Version: 2009-03-31 15:00:07  
 Proof Reader: Milan Shakya  
-  
-  
+
 The transliteration emulates the conventions of Nagari script.  
 Therefore, many word boundaries are not marked by blanks.  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
+
 श्रीघनाचारसंग्रहः  
   
 प्रथमो ऽध्यायः  
@@ -241,8 +165,7 @@ For further information see:
 धारणपात्रकं दध्यात् खल्लकस्य बहिर्[यतिः] ॥ श्घ्स्_३,१।५२ ॥  
 कृपापरीतचित्तेन स्वादु वारि सजन्तुकं ।  
 क्षारे ऽम्भसि न मोक्तव्यमनापत् मृष्टसंज्ञिनः ॥ श्घ्स्_३,१।५३ ॥  
-  
-  
+
 २ अदत्तादानविरतिशिक्षापदं  
   
 संवरत्यागः  
@@ -359,8 +282,7 @@ For further information see:
 तत्रैव पुनरासीनो भवति क्षतसंवरः ॥ श्घ्स्_३,२।५५ ॥  
 अवक्रीतादिरज्ञानात् परद्रव्यं हरन् खलु ।  
 संवरक्षोभलाभी स यतिर्नोन्मत्तादिकः ॥ श्घ्स्_३,२।५६ ॥  
-  
-  
+
 ३ मैथुनविरतिशिक्षापदं  
   
 संवरत्यागः  
@@ -418,8 +340,7 @@ For further information see:
 एतानेव परेभ्यो ऽपि कदाचिन्न [हि] प्रार्थयेत् ॥ श्घ्स्_३,३।२३ ॥  
 तुल्यमेतासु त्वं तिष्ठ मा स्त्रिया चैकया वस ।  
 इत्येवं हि बहुस्त्रीकं पुरुषं न यतिर्वदेत् ॥ श्घ्स्_३,३।२४ ॥  
-  
-  
+
 ४ मृषावादविरतिशिक्षापदं  
   
 प्रत्येकबुद्धसंबुद्धतच्छिष्यज्ञानदर्शनं ।  
@@ -448,8 +369,7 @@ For further information see:
 आशयेन पुरोक्तेन ब्रूयान्नैव कदाचन ॥ श्घ्स्_३,४।१२ ॥  
 भेदं यास्यति सो ऽन्येन संधास्यति मया सह ।  
 यतिर जात्यादिवादेन पैशुन्यं न समाचरेत् ॥ श्घ्स्_३,४।१३ ॥  
-  
-  
+
 ५ सुरामैरेयमद्यपानविरतिशिक्षापदं  
   
 मद्यं सुरा च मैरेयं प्रमादस्यास्पदं यतः ।  
@@ -460,8 +380,7 @@ For further information see:
 कुशाग्रेणापि तत् पातुं यतीनां न प्रकल्पते ॥ श्घ्स्_३,५।३ ॥  
 कोद्रवान्नं न भुञ्जीत तत्पलाले च न स्वपेत् ॥  
 पीतं सत मदयेद् यच्च पातव्यं तदपीह न ॥ श्घ्स्_३,५।४ ॥  
-  
-  
+
 ६ उच्चशयनमहाशयनविरतिशिक्षापदं  
   
 शयने यतिरासीत जिनाष्टांगुलपादके ।  
@@ -484,14 +403,12 @@ For further information see:
 वृद्धाद्यागन्तुकेभ्यस्तदुद्दिशेद्दहरक्रमात् ॥ श्घ्स्_३,६।९ ॥  
 शयनासनमत्युच्चं प्रतिषिद्धं यतेर्हि तत् ।  
 मदौद्धत्यकरं यस्माद् लोकावध्यानकारणं ॥ श्घ्स्_३,६।१० ॥  
-  
-  
+
 ७ नृत्यगीतवादित्रविरतिशिक्षापदं  
   
 बाहुविक्षेपकं नृत्यं गीतमुच्चैः स्वरेण च ।  
 वीणावंशमृदंगादिवादित्रं न च वादयेत् ॥ श्घ्स्_३,७।१ ॥  
-  
-  
+
 ८ गन्धमाल्यविलेपनविरतिशिक्षापदं  
   
 चन्दनादिक[गन्धं हि धारयेद्] व्याधितो यतिः ।  
@@ -510,8 +427,7 @@ For further information see:
 स्फुटितास्यशिरोरोगादन्येनाभ्यंजनं न च ॥ श्घ्स्_३,८।७ ॥  
 न कुंकुमादिचूर्णेन मण्डयेद् वदनं यतिः ।  
 पिटकशमनार्थं तु लेप इष्टस्तिला[दिभिः] ॥ श्घ्स्_३,८।८ ॥  
-  
-  
+
 ९ विकालभोजनविरतिशिक्षापदं  
   
 रात्रेरन्यत्र[भुंजाने मयि बभूवाल्परोगता] ।  
@@ -550,8 +466,7 @@ For further information see:
 व्रती विवर्जयेन्नित्यं विट्प्रदिग्धमिवोरगं ॥ श्घ्स्_३,९।१७ ॥  
 विपणितरगुल्मादौ द्यूतबन्धगृहे तथा ।  
 अगोचरो यदाख्यातस्तिष्ठेत्तत्र न चेल्लकः ॥ श्घ्स्_३,९।१८ ॥  
-  
-  
+
 १० जातरूपरजतप्रतिग्रहणविरतिशिक्षापदं  
   
 कायेन हस्तपादाभ्यां वस्त्रछत्रादिभिर्व्रती ।  
@@ -583,7 +498,4 @@ For further information see:
 अन्ये चाचारा नाम चतुर्थो ऽध्यायः ॥  
   
 इति श्रीघनाचारसंग्रहः ॥  
-  
-  
-  
-  
+

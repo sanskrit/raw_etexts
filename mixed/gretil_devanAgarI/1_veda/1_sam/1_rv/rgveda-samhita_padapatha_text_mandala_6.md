@@ -3,97 +3,20 @@ title = "Rgveda-Samhita: Padapatha text, Mandala 6"
 
 +++
 ## Intro
-  
-  
-  
-  
- Rgveda-Samhita: Padapatha text, Mandala 6   
-  
-  
-  
-  
+
+Rgveda-Samhita: Padapatha text, Mandala 6   
+
 Rgveda-Samhita: Padapatha text  
 Mandala 6  
-  
-  
+
 Input by members of the Sansknet project  
-  
-  
-  
-  
+
 REFERENCES:  
 RV_n:n/n = RV_aṣṭaka:adhyāya/varga  
 RV_n,n.n = RV_maṇḍala,sūkta.verse  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 -र्व्_४:४।३५-  
 (र्व्_६,१)  
 त्वम् । हि । अग्ने । प्रथमः । मनोता । अस्याः । धियः । अभवः । दस्म । होता । त्वम् । सीम् । वृषन् । अकृणोः । दुस्तरीतु । सहः । विश्वस्मै । सहसे । सहध्यै  ॥ र्व्_६,१।१ ॥  
@@ -378,10 +301,7 @@ For further information see:
 आ । ते । अग्ने । ऋचा । हविः । हृदा । तष्टम् । भरामसि । ते । ते । भवन्तु । उक्षणः । ऋषभासः । वशाः । उत  ॥ र्व्_६,१६।४७ ॥  
 अग्निम् । देवासः । अग्रियम् । इन्धते । वृत्रहन्-तमम् । येन । वसूनि । आभृता । तृऌहा । रक्षांसि । वाजिना  ॥ र्व्_६,१६।४८ ॥  
 ॥३०॥।  
-  
-  
-  
-  
+
 -र्व्_४:६।१-  
 (र्व्_६,१७)  
 पिब । सोमम् । अभि । यम् । उग्र । तर्दः । ऊर्वम् । गव्यम् । महि । गृणानः । इन्द्र । वि । यः । धृष्णो इति । वधिषः । वज्र-हस्त । विश्वा । वृत्रम् । अमित्रिया । शवः-भिः  ॥ र्व्_६,१७।१ ॥  
@@ -600,8 +520,7 @@ For further information see:
 प्रजावतीः । सु-यवसम् । रिशन्तीः । शुद्धाः । अपः । सु-प्रपाने । पिबन्तीः । मा । वः । स्तेनः । ईशत । मा । अघ-शंसः । परि । वः । हेतिः । रुद्रस्य । वृज्याः  ॥ र्व्_६,२८।७ ॥  
 उप । इदम् । उप-पर्चनम् । आसु । गोषु । उप । पृच्यताम् । उप । ऋषभस्य । रेतसि । उप । इन्द्र । तव । वीर्ये  ॥ र्व्_६,२८।८ ॥  
 ॥२५॥।  
-  
-  
+
 -र्व्_४:७।१-  
 (र्व्_६,२९)  
 इन्द्रम् । वः । नरः । सख्याय । सेपुः । महः । यन्तः । सु-मतये । चकानाः । महः । हि । दाता । वज्र-हस्तः । अस्ति । महाम् । ॐ इति । रण्वम् । अवसे । यजध्वम्  ॥ र्व्_६,२९।१ ॥  
@@ -903,10 +822,7 @@ For further information see:
 आ । क्रन्दय । बलम् । ओजः । नः । आ । धाः । निः । स्तनिहि । दुः-इता । बाधमानः । अप । प्रोथ । दुन्दुभे । दुच्छुनाः । इतः । इन्द्रस्य । मुष्टिः । असि । वीऌअयस्व  ॥ र्व्_६,४७।३० ॥  
 आ । अमूः । अज । प्रति-आवर्तय । इमाः । केतु-मत् । दुन्दुभिः । वावदीति । सम् । अश्व-पर्णाः । चरन्ति । नः । नरः । अस्माकम् । इन्द्र । रथिनः । जयन्तु  ॥ र्व्_६,४७।३१ ॥  
 ॥३५॥।  
-  
-  
-  
-  
+
 -र्व्_४:८।१-  
 (र्व्_६,४८)  
 यज्ञायज्ञा । वः । अग्नये । गिरागिरा । च । दक्षसे । प्र-प्र । वयम् । अमृतम् । जात-वेदसम् । प्रियम् । मित्रम् । न । शंसिषम्  ॥ र्व्_६,४८।१ ॥  
@@ -1183,10 +1099,7 @@ For further information see:
 प्र । या । महिम्ना । महिनासु । चेकिते । द्युम्नेभिः । अन्या । अपसाम् । अपः-तमा । रथः-इव । बृहती । वि-भ्वने । कृता । उप-स्तुत्या । चिकितुषा । सरस्वती  ॥ र्व्_६,६१।१३ ॥  
 सरस्वति । अभि । नः । नेषि । वस्यः । मा । अप । स्फरीः । पयसा । मा । नः । आ । धक् । जुषस्व । नः । सख्या । वेश्या । च । मा । त्वत् । क्षेत्राणि । अरणानि । गन्म  ॥ र्व्_६,६१।१४ ॥  
 ॥३२॥।  
-  
-  
-  
-  
+
 -र्व्_५:१।१-  
 (र्व्_६,६२)  
 स्तुषे । नरा । दिवः । अस्य । प्र-सन्ता । अश्विना । हुवे । जरमाणः । अर्कैः । या । सद्यः । उस्रा । वि-उषि । ज्मः । अन्तान् । युयाऊषतः । परि । उरु । वरांसि  ॥ र्व्_६,६२।१ ॥  
@@ -1385,8 +1298,4 @@ For further information see:
 मर्माणि । ते । वर्मणा । छादयामि । सोमः । त्वा । राजा । अमृतेन । अनु । वस्ताम् । उरोः । वरीयः । वरुणः । ते । कृणोतु । जयन्तम् । त्वा । अनु । देवाः । मदन्तु  ॥ र्व्_६,७५।१८ ॥  
 यः । नः । स्वः । अरणः । यः । च । निष्ट्यः । जिघांसति । देवाः । तम् । सर्वे । धूर्वन्तु । ब्रह्म । वर्म । मम । अन्तरम्  ॥ र्व्_६,७५।१९ ॥  
 ॥२२॥।  
-  
-  
-  
-  
-  
+

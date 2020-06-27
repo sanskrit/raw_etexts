@@ -3,26 +3,18 @@ title = "RGVEDA 10"
 
 +++
 ## Intro
-  
-  
-  
-  
- RGVEDA 10   
-  
-  
-  
-  
+
+RGVEDA 10   
+
 RGVEDA 10  
-  
-  
+
 % EXCERPTS FROM README:  
   
 % The edition used was that of Aufrecht, 1877. Apparently the edition was   
 % compiled by H.S. Ananthanarayana and W. P. Lehman.   
 % It is a "research-only" text.   
 % Reputedly, it was verified against Grassmann, 1876-77.  
-  
-  
+
 THE MODIFIED VERSE NUMBERING:  
   
 two digits for Mandala.  
@@ -32,74 +24,9 @@ one digit for line.
 {two digits for varga}  
   
 e.g.: 01.001.01.1{01}  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 र्व्_१०।००१।०१।१{२९}  अग्रे बृहन्नुषसामूर्ध्वो अस्थान् निर्जगन्वान् तमसोज्योतिषागात्  
 र्व्_१०।००१।०१।२{२९}  अग्निर्भानुना रुशता स्वङ्ग आ जातोविश्वा सद्मान्यप्राः  
 र्व्_१०।००१।०२।१{२९}  स जातो गर्भो असि रोदस्योरग्ने चारुर्विभृत ओषधीषु  
@@ -3772,7 +3699,4 @@ For further information see:
 र्व्_१०।१९१।०३।२{४९}  समानं मन्त्रमभि मण्त्रये वः समानेन वोहविषा जुहोमि  
 र्व्_१०।१९१।०४।१{४९}  समानी व आकूतिः समाना हृदयानि वः  
 र्व्_१०।१९१।०४।२{४९}  समानमस्तु वोमनो यथा वः सुसहासति  
-  
-  
-  
-  
+

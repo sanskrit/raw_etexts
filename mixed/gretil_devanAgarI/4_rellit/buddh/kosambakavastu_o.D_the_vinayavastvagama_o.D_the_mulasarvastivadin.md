@@ -3,108 +3,31 @@ title = "Kosambakavastu of the Vinayavastvagama of the Mulasarvastivadin"
 
 +++
 ## Intro
-  
-  
-  
-  
- Kosambakavastu of the Vinayavastvagama of the Mulasarvastivadin   
-  
-  
-  
-  
+
+Kosambakavastu of the Vinayavastvagama of the Mulasarvastivadin   
+
 Kosambakavastu of the Vinayavastvagama of the Mulasarvastivadin (= Vastu 9 of the Vinayavastu)  
 Based on the edition by N. Dutt: Gilgit Manuscript, vol. III: Mūlasarvāstivādavinayavastu, part 2 (Srinagar 1942), pp. 173-196: Kośāmbakavastu (second edition: Delhi 1984).  
-  
-  
+
 Input by Klaus Wille, Göttingen  
-  
-  
-  
+
 ABBREVIATIONS:  
 GBM = Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lokesh Chandra, 10 pts., New Delhi 1959Ō1974 (Śata-Piṭaka Series 10). (The Vinayavastu manuscript is reproduced in vol. 6) [repr. in 3 parts Delhi 1995. (The Vinayavastu manuscript is reproduced in vol. 2)]  
   
 MSV II = Gilgit Manuscript, ed. N. Dutt, vol. III, part 2, Srinagar 1942.  
-  
-  
+
 BOLD for references  
 ITALICS for restored passages  
 {...} = NOTES   
-  
-  
+
 Some of Dutt's reading have been corrected by K. Wille according to the manuscript, for example:  
 yat tv ahaṃ; MS: yanv ahaṃ  
 apy edānīṃ; MS: apīdānīṃ  
 new reading of the verse portion of MSV II 182ff.  
 MS: pṛṣṭhavācikayā -ḥ pṛṣṭavācikayā (see the discussion in Matsumura, Kaṭhinavastu, note 72, and Hu-von Hinüber, Poṣadhavastu, p. 212)  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 (म्स्व् इइ १७१)  
 कोशाम्बकवस्तु  
   
@@ -220,6 +143,4 @@ For further information see:
 यस्य संघेन सामग्रीदत्तकस्य भिक्षोः सामग्रीपोषधो दत्तो भवति तेन सार्धं संघेनैकत्ये निषद्य पोषधः कर्तव्यः प्रवारणा ज्ञप्तिः ज्ञप्तिद्वितीयं ज्ञप्तिचतुर्थं कर्म । नात्र कौकृत्यं करणीयम्* । व्यग्राः कुर्वन्ति सातिसारा भवन्ति । न च पुनर् भिक्षुणा अपोषधे पोषधम् आगमयति । सातिसारो भवति । स्थापयित्वा मङ्गल्यपोषधं सामग्रीपोषधं वा ।  
   
 कोशाम्बकवस्तु समाप्तम्* ॥  
-  
-  
-  
+

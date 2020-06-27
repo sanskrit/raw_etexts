@@ -3,16 +3,9 @@ title = "Parasara-Smrti (analytic text)"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Parasara-Smrti (analytic text)  
-  
-  
-  
-  
-  
+
 Parasaradharmasamhita (=Parasarasmrti): Kandas 1 & 2  
 1) Acarakanda (Adhyayas 1-11)  
 2) Prayascittakanda (Adhyaya 12)  
@@ -20,11 +13,9 @@ Parasaradharmasamhita (=Parasarasmrti): Kandas 1 & 2
 Input by Muneo Tokunaga  
   
 Completely revised GRETIL version (2002)  
-  
-  
+
 ANALYTIC TEXT VERSION (see below)  
-  
-  
+
 Based on the edition with Madhava's Tika  
 by Pandit Vaman Sastri Islampurkar (and R. G. Bhandarkar)  
 Bombay : Government Central Book Depot 1893-1919,  
@@ -39,81 +30,14 @@ The PAGINATION ADDED IN BRACKETS,
 e.g.:                    (I,1, p. 37)  
 refers to:               VOLUME, PART, and PAGE  
 of the SECOND line of each verse!  
-  
-  
+
 NOT INCLUDED IN THE PRESENT E-TEXT:  
 Vols. III,1 (BSS 67) and III,2 (BSS 74): Vyavaharakanda [NO MULA TEXT!]  
-  
-  
+
 ANALYTIC VERSION (BHELA conventions)  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 अनल्य्तिच् वेर्सिओन् अच्चोर्दिन्ग् तो ब्हेल चोन्वेन्तिओन्स्:  
   
 सन्धि मर्केर्स्:  
@@ -130,8 +54,7 @@ For further information see:
 ८: । -  
 ९: - ।  
 ०: - -  
-  
-  
+
 पद मर्केर्स्  
   
 ड़ोर् अ ड़ोउर्-पद वेर्से:  
@@ -142,18 +65,13 @@ For further information see:
 ॥॥॥॥  $ ॥॥॥॥  &  
 ॥॥॥॥  % ॥॥॥॥  \  
 ॥॥॥॥  # ॥॥॥॥  ॥  
-  
-  
-  
-  
+
 [वोल्। इ, पर्त् १:]  
   
 आचार-काण्डम्  
   
 चातुर्वर्ण्या३चारम्  
-  
-  
-  
+
 अथा७तो हिम-शैला१ग्रे  $ देव-दारु-वना३लये  &  
 व्यासम् एका१ग्रम् आसीनम्  % अपृच्छन्न् ऋषयः पुरा (इ,१, प्। ३७)  ॥ पर्_१।१ ॥  
   
@@ -353,9 +271,7 @@ For further information see:
   
 कपिला-क्षीर-पानेन  $ ब्राह्मणी-गमनेन च  &  
 वेदा१क्षर-विचारेण  % शूद्रश् चाण्डालतां व्रजेत्  ॥ पर्_१।६७ ॥  
-  
-  
-  
+
 [वोल्। इ, पर्त् २:]  
   
 अतः परं गृहस्थस्य  $ कर्मा३चारं कलौ युगे  &  
@@ -402,11 +318,7 @@ For further information see:
   
 भवन्त्य् अल्पा३युषस् ते वै  $ निरयं यान्त्य् असंशयं  &  
 चतुर्णाम् अपि वर्णानाम्  % एष धर्मः सनातनः  ॥ पर्_२।१५ ॥  
-  
-  
-  
-  
-  
+
 अतः शुद्धिं प्रवक्ष्यामि  $ जनने मरणे तथा  &  
 दिन-त्रयेण शुध्यन्ति  % ब्राह्मणाः प्रेत-सूतके (इ,२, प्। २०४)  ॥ पर्_३।१ ॥  
   
@@ -549,13 +461,11 @@ For further information see:
   
 विनिर्वर्त्य यदा शूद्रा  $ उदका१न्तम् उपस्थिताः  &  
 द्विजैस् तदा९नुगन्तव्या  % एष धर्मः सनातनः (इ,२, प्। २८३)  ॥ पर्_३।४७ ॥  
-  
-  
+
 [वोल्। इइ, पर्त् १:]  
   
 प्रायश्चित्त-काण्डम्  
-  
-  
+
 अतिमानाद् अतिक्रोधात्  $ स्नेहाद् वा यदि वा भयात्  &  
 उद्बध्नीयात् स्त्री पुमान् वा  % गतिर् एषा विधीयते (इइ,१, प्। १८)  ॥ पर्_४।१ ॥  
   
@@ -653,11 +563,7 @@ For further information see:
   
 व्याल-ग्राही यथा व्यालं  $ बलाद् उद्धरते बिलात्  &  
 एवं स्त्री पतिम् उद्धृत्य  % तेनै७व सह मोदते (इइ,१, प्। ५७)  ॥ पर्_४।३३ ॥  
-  
-  
-  
-  
-  
+
 वृक-श्वान-सृगाला३द्यैर्  $ दष्टो यस् तु द्विजो१त्तमः  &  
 स्नात्वा जपेत् स गायत्रीं  % पवित्रां वेद-मातरम् (इइ,१, प्। ६१)  ॥ पर्_५।१ ॥  
   
@@ -732,11 +638,7 @@ For further information see:
   
 अन्यथा कुर्वते कर्म त्व्  $ आत्म-बुद्ध्या प्रचोदिताः  &  
 भवन्त्य् अल्पा३युषस् ते वै  % पतन्ति नरके ऽशुचौ  ॥ पर्_५।२५ ॥  
-  
-  
-  
-  
-  
+
 अतः परं प्रवक्ष्यामि  $ प्राणि-हत्यासु निष्कृतिम्  &  
 पराशरेन पूर्वो१क्ता  % मन्व्-अर्थे ऽपि च विस्तृताम् (इइ,१, प्। ७७)  ॥ पर्_६।१ ॥  
   
@@ -960,9 +862,7 @@ For further information see:
   
 अल्पं परित्यजेत् तत्र  $ स्नेहस्यो७त्पवनेन च  &  
 अनल-ज्वालया शुद्धिर्  % गो-रसस्य विधीयते  ॥ पर्_६।७५ ॥  
-  
-  
-  
+
 =द्रव्य-शुद्धिह्=  
   
 अथा७तो द्रव्य-शुद्धिस् तु  $ पराशर-वचो यथा  &  
@@ -1076,9 +976,7 @@ For further information see:
   
 आपत्-काले तु निस्तीर्णे  $ शौचा३चारं तु चिन्तयेत्  &  
 शुद्धिं समुद्धरेत् पश्चात्  % स्वस्थो धर्मं समाचरेत्  ॥ पर्_७।३८ ॥  
-  
-  
-  
+
 गवां बन्धन-योक्त्रेषु  $ भवेन् मृत्युर् अकामतः  &  
 अकाम-कृत-पापस्य  % प्रायश्-चित्तं कथं भवेत् (इइ,१, प्। १९९)  ॥ पर्_८।१ ॥  
   
@@ -1203,9 +1101,7 @@ For further information see:
 विप्राणां दक्षिणां दद्यात्  % पवित्राणि जपेद् द्विजः  ॥ पर्_८।४१ ॥  
   
 ब्राह्मणान् भोजयित्वा तु  $ गोघ्नः शुद्धो न संशयः  ॥ पर्_८।४१।१ ॥  
-  
-  
-  
+
 गवां संरक्षणा१र्थाय  $ न दुष्येद् रोध-बन्धयोः  &  
 तद् वधं तु न तं विद्यात्  % कामा१काम-कृतं तथा (इइ,१, प्। २५५)  ॥ पर्_९।१ ॥  
   
@@ -1510,9 +1406,7 @@ For further information see:
   
 आकाशं वायुर् अग्निश् च  $ मेध्यं भूमि-गतं जलम्  &  
 न प्रदुष्यन्ति दर्भाश् च  % यज्ञेषु चमसा यथा  ॥ पर्_१०।४१ ॥  
-  
-  
-  
+
 अमेध्य-रेतो गो-मांसं  $ चण्डाला१न्नम् अथा१पि वा  &  
 यदि भुक्तं तु विप्रेण  % कृच्छ्रं चान्द्रायणं चरेत् (इइ,१, प्। ३६४)  ॥ पर्_११।१ ॥  
   
@@ -1679,9 +1573,7 @@ For further information see:
 सर्वेषाम् एव पापानां  % संकरे समुपस्थिते (इइ,१, प्। ४६०)  ॥ पर्_११।५५ ॥  
   
 दश-साहस्रम् अभ्यस्ता गायत्री शोधनं परं  ॥ पर्_११।५६ ॥  
-  
-  
-  
+
 दुःस्वप्नं यदि पश्येत् तु  $ वान्ते तु क्षुर-कर्मणि  &  
 मैथुने प्रेत-धूमे च  % स्नानम् एव विधीयते (इइ,२, प्। १)  ॥ पर्_१२।१ ॥  
   
@@ -1926,12 +1818,8 @@ For further information see:
   
 यथा९ध्ययन-कर्माणि  $ धर्म-शास्त्रम् इदं तथा  &  
 अध्येतव्यं प्रयत्नेन  % नियतं स्वर्ग-गामिना (इइ,२, प्। २८८)  ॥ पर्_१२।[८२](८१) ॥  
-  
-  
+
 **************************ड़िनिस्******************************  
-  
-  
+
 नो मूल तेXत् ड़ोर्  व्यवहारकाण्ड (वोल्। ३, पर्त्स् १ & २)  
-  
-  
-  
+

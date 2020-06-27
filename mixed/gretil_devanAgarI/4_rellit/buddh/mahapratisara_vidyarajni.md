@@ -3,96 +3,21 @@ title = "Mahapratisara vidyarajni"
 
 +++
 ## Intro
-  
-  
-  
-  
- Mahapratisara vidyarajni   
-  
-  
-  
-  
+
+Mahapratisara vidyarajni   
+
 Mahapratisara vidyarajni (= Mp)  
 Based on the edition by Yutaka Iwamoto. Mahāpratisarā Pañcarakṣā II,  
 Kyoto 1937 (Beiträge zur Indologie, 3).  
-  
-  
+
 Input by Klaus Wille (Göttingen)  
-  
-  
+
 BOLD for pagination of Iwamoto's edition  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 महाप्रतिसरा विद्याराज्ञी  
-  
-  
+
 नमो भगवत्यै आर्यमहाप्रतिसरायै । नमः सम्यक्संबुधेभ्यः ॥  
   
 एवं मया श्रुतम् एकस्मिन् समये भगवान् वज्रमेरुशिखरकुटागारे विहरति स्म । महावज्रसमाधिभूमिप्रतिस्थाने महावज्रकल्पवृक्षसमलंकृते । महावज्रपुष्किरिणीरत्नपद्मप्रभोद्भासिते । महावज्रवालिकासंस्कृतभूमिभागे । महावज्राधिष्ठाने । महावज्रमण्डलमाडे । शक्रस्य देवानाम् इन्द्रस्य भवने । महावज्रसिंहासनकोटीनियुतशतसहस्रविराजिते । धर्मदेशनाप्रतिभानप्रातिहार्यसमन्वागते । सर्वबुद्धाधिष्ठानाधिष्ठिते सर्वधर्मसमताप्रवेशे सर्वज्ञतानिर्याते । चतुरशीतिभिर् बोधिसत्वकोटीनियुतशतसहस्रैः सार्धम् । सर्वैर् एकजातिभिर् अवैवर्तिकैर् अनुत्तरायां सम्यक्संबोधौ महास्थामप्राप्तैर् महावज्रविमोक्षसमाधिबुद्धक्षेत्रविकुर्वणमहाप्रातिहार्यसंदर्शकैः । एकचित्रक्षणभवमुहूर्तसर्वसत्वचित्तचरितानुप्रवेशविचित्रमधुरोदारगम्भीरधर्मदेशनाप्रतिभानप्रातिहार्यसंदर्शकैर् अनेकबुद्धक्षेत्रतथागतमहापूजमेघार्चनाविमोक्षमुखधारणीसमाधिवशिताभिज्ञावएणिकबोध्यङ्गमार्गभूमिपारमितोपायकौशल्यसंग्रहवस्त्रमहामैत्रीकरुणामुदितोपेक्षामैत्रीबलविविक्तपर्यवदातचित्तसंतानैः ॥  
@@ -641,7 +566,4 @@ For further information see:
 महतीं लभते पूजां संपदं चापि नित्यश इति ॥  
   
 महाप्रतिसराया विद्याराज्ञो रक्षाविधानकल्पो विद्याधरस्य समाप्तः ॥  
-  
-  
-  
-  
+

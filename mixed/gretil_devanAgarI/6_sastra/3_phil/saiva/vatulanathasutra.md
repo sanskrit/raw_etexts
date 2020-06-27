@@ -3,92 +3,20 @@ title = "Vatulanathasutra"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Vatulanathasutra  
-  
-  
-  
-  
+
 Vatulanatha: Vatulanathasutra with the Vrtti of Anantasaktipada.  
   
 Based on the edition by Madhusudana Kaul Sastri, Srinagar 1923  
 (Kashmir Series of Texts and Studies ; 39)  
   
 Input by Somadeva Vasudeva  
-  
-  
+
 ANALYTIC VERSION according to BHELA conventions  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
+
 अनल्य्तिच् वेर्सिओन् अच्चोर्दिन्ग् तो ब्हेल चोन्वेन्तिओन्स्:  
   
 सन्धि मर्केर्स्:  
@@ -105,16 +33,10 @@ For further information see:
 ८: । -  
 ९: - ।  
 ०: - -  
-  
-  
-  
-  
-  
-  
+
 अथ श्रीवातूलनाथसूत्राणि  
 श्रीमद्-अनन्तशक्तिपाद-विरचित-वृत्ति-समेतानि  
-  
-  
+
 १अब्: संघट्ट-घट्टन-बलो१दित-निर्विकार-  शून्या१तिशून्य-पदम् अव्यय-बोध-सारम्  
 १च्द्: सर्वत्र खेचर-दृशा प्रविराजते यत्  तन् नौमि साहस-वरं गुरु-वक्त्र-गम्यम्  
   
@@ -148,8 +70,7 @@ For further information see:
   
 श्रीमन्-निष्क्रियानन्दनाथा१नुग्रह-समये श्रीगन्धमादन-सिद्ध-पादैर् अकृतक-पुस्तक-प्रदर्शनेन या पर-पदे प्राप्तिर् उपदिष्टा सै९व वितत्य निरूप्यते । सप्त-रन्ध्र-क्रमो१दित-सप्त-शिखो२ल्लासा३त्मकः प्राण-प्रवाहो१दयः सै७वो८र्ध्व-पट्टकः पूर्ण-वृत्त्य्-उदयः, रन्ध्र-द्वय-सुषिर-नालिका-प्रवाह-प्रसृतो ऽपान-रूपो ऽधः-पट्टकः पञ्चे१न्द्रिय-शक्ति-वेष्टितः पञ्च-फण-धर्मा१निबन्धको ऽधःस्थितः । तस्य वलय-द्वयं जाग्रत्-स्वप्ना३त्मकम् उन्मुद्र्य ग्रन्थि-निबन्धनम् अपहृत्य "*उभय-पट्टो१द्घट्टनात्*" प्राणा१पान-द्वय-विदारणान् मध्य-वर्ती यः प्राण-रूपो महा-शून्यता-स्वभावः कुला१कुल-विकल्प-दशो२ज्झितो ऽव्यपदेश्य-महा-निरावरणनिरत्यय-वेद्य-वेदक-निर्मुक्तो वर्णा१वर्ण-निवर्णो१त्तीर्णः स्पर्शा१स्पर्श-प्रथा-परिवर्जितो७पचारात् परमा३काशा३द्य्-अभिधानैः  
 अभिधीयते । तत्र "*प्रवेशः*" तत्-समावेशतया सामरस्या१वस्थितिर् सै७व प्राप्त-महो२पदेश-नामा८विर्भवती७त्य्-अर्थः ॥  
-  
-  
+
 इत्थं महानयो१क्तदृशा सर्वशास्त्र-प्रपञ्चो१त्तीर्णात्वाद् अवाच्यं किम् अपि महो२पदेश-साक्षात्कारम् उभय-पट्टका३कार-सद्-असद्-रूप-द्वय-निवारणेन निस्तरङ्ग-परव्योम-समावेश-विवर्जितम् आसूत्रित-महाशून्यता-समावेशम् आवेद्य, इदानीं युग्मो१पसंहारात् कैवल्यफलं तन्मयतो९पवर्ण्यते   
   
 वसु०४: युग्म-ग्रासान् निरवकाश-संविन्-निष्ठा ॥  
@@ -229,7 +150,4 @@ For further information see:
   
 श्रीमत्-प्रताप-भूभर्तुर् आज्ञया प्रीतये सतां ।  
 मधुसूदनकौलेन संपद्ये७यं प्रकाशिता ॥  
-  
-  
-  
-  
+

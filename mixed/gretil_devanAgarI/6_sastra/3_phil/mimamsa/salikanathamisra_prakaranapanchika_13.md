@@ -3,102 +3,24 @@ title = "Salikanathamisra: Prakaranapancika, 13"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Salikanathamisra: Prakaranapancika, 13  
-  
-  
-  
-  
-  
+
 Salikanathamisra: Prakaranapancika,   
 with Jayapuri Narayanabhatta's Nyayasiddhi:  
 Prakarana 13 (Paricchedas 1 and 2)  
-  
-  
+
 Input by members of the SANSKNET-project  
 (www.sansknet.org)  
-  
-  
-  
+
 This GRETIL version has been converted from a custom Devanagari encoding.  
 Consequently, word boundaries may not always be marked by spaces.  
 The text is not proof-read.  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 ________________________________________  
-  
-  
+
 ॐ  
 श्रीमत्प्रभाकरगुरुतन्त्रधुरन्धरेण  
 महामहोपाध्याय-शालिकनाथमिश्रेण प्रणीता प्रकरणपञ्चिका  
@@ -106,18 +28,13 @@ ________________________________________
 च समलङ्कृता  
   
 ________________________________________  
-  
-  
+
 परिच्च्हेद १  
-  
-  
-  
+
 १३_१  
-  
-  
+
 अथाङ्गपारायणे सन्निपत्त्योपकारकाङ्गनिरुपणपरः प्रथमः परिच्छेदः  
-  
-  
+
 प्रकणार्थप्रतिज्ञा ।  
 १३७४व्याख्याविकल्पसम्भवमङ्गान्यधिकृत्य संशयं छेत्तुम् ।  
 परमं प्रभाकरगुरोर्गम्भीरं भावमभिधास्ये१३७५  ॥ १ ॥  
@@ -279,16 +196,11 @@ ________________________________________
 क्रियाकारकसम्बन्धो ऽप्यतस्साधनगोचरः१४१२ ।  
 शेषिभावो ऽपि१४१३ तस्यैव श्रौतद्वारानुसारतः  ॥ ६ ॥  
 इति महामहोपाध्यायश्रीमच्छालिकनाथमिश्रप्रणीतायां प्रकरणपञ्चिकायामङ्गपारायणे सन्निपत्त्योपकारकाङ्गनिरूपणपरः प्रथमः परिच्छेदस्समाप्तः ॥  
-  
-  
-  
+
 **********************************************************************************  
-  
-  
-  
+
 १३_२  
-  
-  
+
 अथाङ्गपारायणे आरादुपकारकाङ्गनिरुपणपरः   
   
 द्वितीयः परिच्छेदः प्रकरणार्थप्रतिज्ञा ।  
@@ -590,7 +502,4 @@ ________________________________________
 प्रविततगम्भीराणां पारायणमेतदाचरितम्  ॥ १ ॥  
   
 इति महामहोपाध्यायश्रीमच्छालिकनाथमिश्रप्रणीतायां प्रकरणपञ्चिकायामङ्गपारायणे आरादुपकारकाङ्गनिरूपणपरो नाम द्वितीयः परिच्छेदस्समाप्तः ॥  
-  
-  
-  
-  
+

@@ -3,34 +3,22 @@ title = "Karatoyamahatmya, text with pada markers"
 
 +++
 ## Intro
-  
-  
-  
-  
- Karatoyamahatmya, text with pada markers   
-  
-  
-  
-  
+
+Karatoyamahatmya, text with pada markers   
+
 Karatoyamahatmya  
 Based on the edition included as Appendix I in:  
 Prabhas Chandra Sen: Mahasthan and Its Environs,   
 Rajshahi, Bengal : Varendra Research Society 1929  
 (Varendra Research Society's Monographs, 2)  
-  
-  
+
 Input by Arlo Griffiths  
 (typed with some normalizations and corrections)  
-  
-  
-  
-  
+
 TEXT WITH PADA MARKERS  
   
        
-  
-  
-  
+
 PREAMBLE  
 This work is said to be included in a larger work the Uttara-Pauṇḍra-khaṇḍa, was first published in 1298 B.S. (1891 A.D.) with a Bengali translation, by Pandit Rajachandra Nyayapanchanan. It consists of two parts: verses 1 to 60, Paundra-khsetra-māhātmyam and verses 61 to 85, Karatoyā-māhātmyam. The text is printed here from that edition.  
 Verse 41 of this work is quoted in Sarvānanda's Tikā sarvasva (1159 A.D.) in the tikā of sloka 32 in vārivarga; verses 41 and 64, in the Smritichandrikā of Devanabhaṭṭa who is quoted by Hemādri (12th century); verse 41, in the Vyākhyāsudhā of Bhanuji Dikshit son of Bhattoji Dikshit; verse 63, in Smritiratnakar of Vedāchārya who quotes Bhavadeva and Jimutavahana and is quoted by Raghunandanda.  
@@ -41,78 +29,12 @@ For the above information I am indebted to Mr. Subodh Chandra Banerjee M. A. of 
 Verse 63 is quoted in the Tithi-viveka of Sulapāni (first quarter of the 15th century); verses 30 and 37 in the Kṛitya-chintāmani of Vāchaspati Miśra of Mithila (second half of the 15th century) and verses 33 and 63 in the Amāvāsyā-prakaraṇa of the Tithitattva of Raghunandanda (first half of the 16th century).  
   
 __________________________________  
-  
-  
- ITALICS for comments  
+
+ITALICS for comments  
 § marks interlocutors  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 पद मर्केर्स्  
   
 ड़ोर् अ ड़ोउर्-पद वेर्से:  
@@ -123,9 +45,7 @@ For further information see:
 ॥॥॥॥  $ ॥॥॥॥  &  
 ॥॥॥॥  % ॥॥॥॥  \  
 ॥॥॥॥  # ॥॥॥॥  ॥  
-  
-  
-  
+
 अथ करतोयामाहात्म्यम् ॥  
   
 §श्रीपार्वत्य् उवाच ।  
@@ -137,8 +57,7 @@ For further information see:
   
 केन प्राकाशिता सा च  $ नदी करजला भुवि  &  
 कथं वा प्लावितं क्षेत्रं  % शुभं पौण्ड्रम् अनुत्तमम्  ॥ क्तोम्_०३ ॥  
-  
-  
+
 §ईश्वर उवाच ।  
 पाणिग्रहणकाले ते  $ देवि हिमवता जलम्  &  
 संप्रदत्तं मत्कराच् च  % निर्गतं करजा भुवि  ॥ क्तोम्_०४ ॥  
@@ -157,8 +76,7 @@ For further information see:
   
 श्रीपौण्ड्रवर्धनं क्षेत्रं  $ नैव मुञ्चति केशवः  &  
 धरित्र्या नाभिकमलं  % पूतं करजलैर् मम  ॥ क्तोम्_०९ ॥  
-  
-  
+
 §सूत उवाच ।  
 शृणुध्वं मुनयः सर्वे  $ यद् उक्तं भार्गवेन वै  &  
 श्रुत्वा शङ्करतो वाक्यं  % संवादम् उभयोर् अपि  ॥ क्तोम्_१० ॥  
@@ -324,8 +242,7 @@ For further information see:
 [चोम्म्।: च्। अद्भुतं: चोर्र्।, अद्भूतं एद्।]  
   
 इत्य् उत्तरपौण्ड्रखण्डे पौण्ड्रक्षेत्रमाहात्म्यम् ॥  
-  
-  
+
 §सूत उवाच ।  
 शृणुध्वं मुनयः सर्वे  $ माहात्म्यं तज्जलस्य च  &  
 बाहुदायाश् च तीरे ऽस्मिन्  % जलं सर्वमलापहम्  ॥ क्तोम्_६१ ॥  
@@ -406,10 +323,6 @@ For further information see:
 तस्येह भोगान् सकलान्  $ भुक्त्वा तद्गतमानसः  &  
 प्रेत्य याति परं स्थानं  % सर्वामलनिवारणम्  ॥ क्तोम्_८५* ॥  
 [चोम्म्।: इन् थिस् ग्रेतिल् वेर्सिओन् वेर्से ८५ हद् तो बे दिविदेद् ड़ोर् तेछ्निचल् रेअसोन्स्; इत् स्होउल्द् बे रेअद् अस् ओने वेर्से।]  
-  
-  
+
 इत्य् उत्तरपौण्ड्रखण्डे सूतशौनकसंवादे परशुरामविरचितं करतोयामाहात्म्यं समाप्तम् ।  
-  
-  
-  
-  
+

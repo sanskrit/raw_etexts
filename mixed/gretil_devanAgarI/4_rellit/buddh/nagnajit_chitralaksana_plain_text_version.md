@@ -3,21 +3,13 @@ title = "Nagnajit: Citralaksana, Plain text version"
 
 +++
 ## Intro
-  
-  
-  
-  
- Nagnajit: Citralaksana, Plain text version   
-  
-  
-  
-  
+
+Nagnajit: Citralaksana, Plain text version   
+
 Nagnajit: Citralaksana (= NCit)  
 Based on the ed. by Asoke Chatterjee Sastri: The Citralakṣaṇa : An Old Text of Indian Art,   
 Sanskrit, Tibetan and English Version. Calcutta 1987 (Bibliotheca Indica Series, 315)  
-  
-  
-  
+
 Input by members of the Sanskrit Buddhist Input Project.  
 With kind permission of the Digital Sanskrit Buddhist Canon Project  
 of Nagarjuna Institute, Nepal  
@@ -25,84 +17,14 @@ and University of the West, Rosemead, California, USA
 (www.uwest.edu/sanskritcanon)  
 Version: 2009-03-19 13:29:40  
 Proof Reader: Milan Shakya  
-  
-  
-  
+
 The transliteration emulates the conventions of Nagari script.  
 Therefore, many word boundaries are not marked by blanks.  
-  
-  
-  
+
 PLAIN TEXT VERSION  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 अथ भारतीयभाषायां चित्रलक्षणम् ।  
   
 प्रथमः परिवर्त्तः  
@@ -338,8 +260,7 @@ For further information see:
 लिखित्वा विविधं सम्यक् तुभ्यं मया प्रदश्र्यते  ॥ न्चित्_१।१०९ ॥  
   
 ॥ इति नग्नजिच्चित्रलक्षणनिर्देशे नग्नजयो नाम प्रथमः परिवर्त्तः ॥  
-  
-  
+
 द्वितीयः परिवर्त्तः  
   
 यथोक्तं ब्रह्मणा पूर्वम् आचष्टे भूपतिं तथा  ।  
@@ -392,8 +313,7 @@ For further information see:
 विजानीहि क्षितीन्द्र त्वं यशोराशिविवर्धकम्  ॥ न्चित्_२।२३ ॥  
   
 ॥ चित्रलक्षणे पूजोत्पत्तिर्नाम् द्वितीयः परिवर्त्तः ॥  
-  
-  
+
 तृतीयः परिवर्त्तः  
   
 लोकस्य कायमानं मां स्वयम्भूरुपदिष्टवान्  ।  
@@ -766,7 +686,4 @@ For further information see:
 इति चित्रलक्षणे परिमाणो नाम्स्तृतीयः परिवर्तः ।  
   
 यावत् ब्रह्मणः परिमाणलेखयः समाप्तः ।  
-  
-  
-  
-  
+

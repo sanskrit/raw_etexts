@@ -3,110 +3,30 @@ title = "Khandadeva: Bhattadipika, 3,2"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Khandadeva: Bhattadipika, 3,2  
-  
-  
-  
-  
+
 Khandadeva: Bhattadipika, a commentary on Jaimini's Mimamsasutra,  
 Adhyaya 3, Adhikarana 2,  
 with Sambhubhatta's Prabhavali (subcomm.)  
 Based on the ed. by N.S. Ananta Krishna Sastri  
 Bombay 1921-1922 (Reprint: Delhi 1987)  
 (Sri Garib Dass Oriental Series, 50-)  
-  
-  
+
 Input by members of the Sansknet project  
 (www.sansknet.org) [server down!]  
-  
-  
+
 This GRETIL version has been converted from a custom Devanagari encoding.  
 Therefore, word boundaries are usually not marked by blanks.  
 These and other irregularities cannot be standardized at present.  
-  
-  
+
 An attempt to structure the text according to sutras had to be  
 abandoned for want of an adequate printed edition.  
-  
-  
+
 THE TEXT IS NOT PROOF-READ!  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
 <B1> द्वितीयः पादः ।  
 (१ अधिकरणम् । ) (अ।३ पा।२ अधि।१)  अर्थाभिधान  ॥  
 एवं श्रुत्युपयोगिविचारे वृत्ते ऽधुनालिङ्गोपयोगिविचारः प्रस्तूयते ।  
@@ -1002,7 +922,4 @@ For further information see:
 प्रयोजनं स्पष्टत्वात् नोक्तम् ॥  
 इति विंशं एकादशाधिकरणोपसंहाराधिकरणम् ॥ - - - - - - ॥  
 इति श्रीखण्डदेवान्तेवासिकविमण्डनशंभुभट्टकृतायां भाट्टदीपिकाप्रभावल्यां तृतीयाध्यायस्य द्वितीयः पादः ॥ ॥  
-  
-  
-  
-  
+

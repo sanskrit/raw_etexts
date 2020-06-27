@@ -3,15 +3,9 @@ title = "Suvarnavarnavadana"
 
 +++
 ## Intro
-  
-  
-  
-  
- Suvarnavarnavadana   
-  
-  
-  
-  
+
+Suvarnavarnavadana   
+
 Suvarnavarnavadana (sutra) = Sva  
 Based on the ed. by Sitaram Roy: Suvarṇavarṇāvadāna [Decipherment and historical study of a palm-leaf Sanskrit manuscripts-an unknown Mahāyāna(avadāna) text from Tibet.],  
 Patna : K.P. Jayaswal Research Institute 1971 (Historical Research Series, vol. VII);  
@@ -19,91 +13,20 @@ compared with:
 Rajapatirana, Tissa (1974), Suvarṇavarṇāvadāna, translated and edited together with its Tibetan translation and the Lakṣacaityasamutpatti, A thesis submitted for the Degree of Doctor of Philosophy in the Australian National University, Canberra. pdf part 1, pdf part 2.  
 Also consulted:  
 Dharmaśrībhadra and Rin chen bzaṅ po, "gSer mdog gi rtogs pa brjod pa" (Tibetan translation of Suv), in Kg, 'dul ba, vol. su, 172b7-227b2.  
-  
-  
-  
+
 Input by Jens Braarvig, Oslo 2010  
   
 For the actual input cf. THESAURUS LITERATURAE BUDDHICAE (TLB): https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2  
 a division of BIBLIOTHECA POLYGLOTTA (BP): https://www2.hf.uio.no/polyglotta/  
-  
-  
-  
+
 REFERENCES  
 References for Sanskrit are to manuscript references in Roy (1971).  
 The references in square brackets in the text are to paragraphs in Rajapatirana (1974).  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 सुवर्णवर्णावदान  
-  
-  
+
 स्व रोय् १,१   
 ओम् नमो बुद्धाय ॥   
   
@@ -133,8 +56,7 @@ For further information see:
   
 स्व रोय् १७,३ - १९,५  
 [९] तेन खलु समयेन राजगृहे नगरे विमलो नाम सार्थवाहो महासमुद्रात् संसिद्धयानपात्रो ऽभ्यागतस् तेनार्द्धत्रयोदशपरिवारं बुद्धम् भगवन्तं भोजयित्वा एकैको भिक्षुस् त्रिचीवरेणाच्छादितस् तस्य यशसा सर्वो लोक आपूर्णः सार्थस्य सफलं महासमुद्रावतरणं सार्थवाहशब्दश् च येनैवं भगवच्छासने काराः कृता इति । दिवाकरस्य सार्थवाहस्य श्रुत्वा स्पर्द्धा जाता । अहम् अपि महासमुद्रम् अवतरामि । यदि ततः संसिद्धयानपात्रो ऽभ्यागच्छामि । यावन्तः के चन भगवच्छ्रावका जम्बूद्वीपे प्रतिवसन्ति भगवन्तं विज्ञप्य तान् ऐकध्य सन्निपात्य प्रणीतेनाहारेण सन्तर्प्य एकैकं भिक्षुं महार्हेण त्रिचीवरेणाच्छादयिष्यामीति । तेन पत्न्या एष वृत्तान्तो निवेदितः । सा कथयति स्वामिन् ऋध्यन्तु तव सङ्कल्पाः । परिपूर्यन्ताम् मनोरथा इति । ततो दिवाकरः सार्थवाहो राजगृहे नगरे यावत् त्रिर् अपि घण्टावघोषणङ् कारयित्वा पञ्चवणिकशतपरिवारो महासमुद्रम् अवतीर्णस् तस्य तस्मिन् महासमुद्रे ऽवतीर्णस्य भगवान् परिनिर्वृतस् तत्र स्थितस्यैव चास्य स्थविरमहाकाश्यपो ऽपि परिनिर्वृतो   
-  
-  
+
 स्व रोय् १९,५ - २१,३  
 [१०] यावद् अपरेण समयेन सुवर्णवर्णः कुमारो वेणुवनङ् गतस् तत्र भिक्षुर् अनित्यताप्रतिसंयुक्ता गाथा स्वाध्यायति स्म ।  
   
@@ -347,8 +269,7 @@ For further information see:
 निर्वृतः स महाशास्ता सर्वलोकैकबान्धवः ।१।  
 यः प्रदीपो ऽप्रदीपानां शरणं यः परायणं ।  
 निर्वृतः स जिनो लोके दीपः स्नेहक्षयाद् इति ।२।   
-  
-  
+
 स्व रोय् १०५,४ - १११,२  
 [४५] तच् छ्रुत्वा दिवाकरः सार्थवाहो भगवद्वियोगाद् द्विगुणीकृतशोकशल्याभ्याहतो मूर्च्छितो भूमौ निपपात । ततो जलपरिषेकप्रत्यागतप्राण उत्थाय यस्यां दिशि भगवान् परिनिर्वृतस् तदभिमुखो उच्चैर् विक्रोष्टुम् आरब्धः ।  
 हा धर्मराज सर्वज्ञ दोषारिगणसूदन ।  
@@ -598,8 +519,7 @@ For further information see:
   
 स्व रोय् १६७,५ - १७०,३  
 [६५] ततः काशिसुन्दरः पुरुषः स्थविरानन्दगुणमाहात्म्यसामर्थ्याद् अभिमनोहरम् आत्मनो यथाभिलषितं सद्यो विपाकफलम् उद्वीक्ष्य परमविस्मयावर्जितचित्तसन्ततिः परमप्रीतिप्रामोद्यजातप्रहर्षरोमाञ् चकर्कसीकृतमूर्त्तिर् उत्थायजानुमण्डलद्वयम् उपनिक्षिप्य भूमौ कृतकरपुटः स्थविरानन्दम् अभिष्टोतुम् आरब्धः ।   
-  
-  
+
 नमस् ते दुर्लभाचिन्त्य सुविशुद्धगुणैश् चित ।  
 येनाद्यैवम् अनाथुस्य दत्तम् ये जीवितं त्वया ।१।  
 यदि त्वन् न भवेस् त्राता विशुद्धज्ञानलोचनः ।  
@@ -1164,8 +1084,7 @@ For further information see:
   
 स्व रोय् ३१८,५ - ३२०,३२१  
 [११६] पुनर् अपि राजा ऽजातशत्रुः स्थविरानन्दम् इदम् अवोचत् । किं भदन्तानन्द सुवर्णवर्णेन भिक्षुणा कर्म कृतं । यस्य कर्मणो विपाकेनादूश्य् अनपकारी शूले समारोपितः । प्रव्रज्यञ् चार्हत्वं प्राप्तम् इति । स्थविरानन्दः कथयति । भूतपूर्वं महाराजातीते ध्वनि चन्द्रो नाम सम्यक्सम्बुद्धो लोक उदपादि तथागतो ऽर्हन् सम्यक्सम्बुद्धो विद्याचरणसम्पन्नः सुगतो लोकविद् अनुत्तरः पुरुषदम्यसारथिः शास्ता देवानाञ् च मनुष्यानाञ् च बुद्धो भगवान् असौ ऽन्यतमां राजधानीम् उपनिःसृत्य विहरति स्म । तेन खलु समयेनान्यतमस्मिंश् च विहारे ऽन्यतमो भिक्षुः धार्मकथिकः स कालेन कालम् आगतागतानां ब्राह्मणगृहपतीनां धर्मं देशयति । तस्य महान् लाभसत्कार उत्पद्यते ।  
-  
-  
+
 स्व रोय् ३२०,३ - ३२३,४  
 [११७] यावद् अपरेण समयेनाजितो नाम भिक्षुः धार्मकथिको युक्तमुक्तप्रतिभानश् चित्रकथो मधुरकथो । जनपदचारिकाञ् चरन् तं विहारम् आगतः स चतसृणां पर्षदां धर्म देशयत्य् आदौ कल्याणं मध्ये कल्याणं पर्यवशाने कल्याणं सुव्यञ्जनं केवलं परिपूर्णं परिशुद्धं पर्यवदातं ब्रह्मचर्यं सम्प्रकाशयति । तेन सर्व एवासौ कर्वटनिवासीजनकायो ऽभिप्रसादितः । स लाभी चीवरपिण्डपातशयनासनग्लानप्रत्ययभैषज्यपरिष्काराणां । तस्य नैवासिकस्य धार्मकथिकस्य भिक्षोर् लाभसत्कारसमुच्छिन्नस् तस्यैतद् अभवद् अजितेन मे भिक्षुणा लाभसत्कार समुच्छेदः कृतः । तद् यावद् एष इहावतिष्ठते तावत् कुतो मे लाभसत्कारो भविष्यति । उपायम् अस्य गमनाय चिन्तयितव्यम् इति । पुनश् चिन्तयति । असत्कारभीरवश् चैव बहुश्रुताः । असत्कारो ऽस्य प्रयोक्तव्य इति विदित्वान्यतमां ब्राह्मणकुमारिकाम् आह । भगिन्य् अहन् ते वासोयुगम् अनुप्रदास्याम्य् एतम् अजितं भिक्षुं दूषय मया सार्द्धम् अब्रह्मचारीति । सा कथयत्य् आर्य यद्य् अहम् एवं वक्ष्यामि तत् को मां परिणेष्यति । ननु यावज्जीवम् मातापितृपोष्या भविष्यामीति । स कथयत्य् अहं तथा करिष्यामि यथा न महाजनविदितं भविष्यति । यदा त्वं स्वैर् आलापेन कथयिष्यसीति । अपि तु यदायं तृभिश् चतुर्भिः परैर् भिक्षुभिः सार्द्धं निषण्ण इहावतिष्ठते । तया प्रतिज्ञातम् एवं करिष्यामीति ।   
   
@@ -1218,7 +1137,4 @@ For further information see:
 तेषाञ् च यो निरोध एवम्वादी महाश्रमणः ।१।  
   
 [१२७] देयधर्मो ऽयं प्रवरमहायानयायिनः शाक्यभिक्षुबुद्धाकरगुप्तस्य यद् अत्र पुण्यन् तद् भवत्व् आचार्योपाध्यायमातापितृपूर्वङ्गमं कृत्वा सकलसत्त्वराशेर् अनुत्तरज्ञानफलवाप्तय इति ॥  
-  
-  
-  
-  
+

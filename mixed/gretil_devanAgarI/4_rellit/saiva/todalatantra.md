@@ -3,94 +3,20 @@ title = "Todalatantra"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Todalatantra  
-  
-  
-  
-  
+
 Todalatantra  
 Based on the ed. by Gopinath Kaviraj in: Tantrasamgraha, vol. 2,  
 Varanasi : Varanaseya Sanskrit Vishvavidyalaya 1970  
 (Yogatantra-Granthamala, 4)  
-  
-  
+
 Input by Oliver Hellwig  
-  
-  
+
 PLAIN TEXT VERSION  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 तोडलतन्त्र, प्रथमः पटलः  
 श्रीदेव्य् उवाच  
 ब्रूहि मे जगतां नाथ सर्वविद्यामय प्रभो  ।  
@@ -150,8 +76,7 @@ For further information see:
 यस्मिन् व्यक्ता महाकाली शक्तिहीनः सदाशिवः  ।  
 शक्त्या युक्तो यदा देवि तदैव शिवरूपकः  ।  
 शक्तिहीनः शवः साक्षात् पुरुषत्वं न मुञ्चति  ॥ तोत्_१।२५ ॥  
-  
-  
+
 तोडलतन्त्र, द्वितीयः पटलः  
 श्रीशिव उवाच  
 शृणु देवि प्रवक्ष्यामि योगसारं समासतः  ।  
@@ -204,8 +129,7 @@ For further information see:
 शतवक्त्रं यदि भवेत् तदा वक्तुं न शक्यते  ॥ तोत्_२।२४ ॥  
 पञ्चवक्त्रेण देवेशि किं मया कथ्यतेऽधुना  ।  
 कुष्ठरोगविशिष्टोऽपि स भवेत् कामरूपकः  ॥ तोत्_२।२५ ॥  
-  
-  
+
 तोडलतन्त्र, तृतीयः पटलः  
 श्रीदेवी उवाच  
 देवदेव महादेव संसारार्णवतारक  ।  
@@ -372,8 +296,7 @@ For further information see:
 आत्मसमर्पणं कृत्वा संहारेण विसर्जयेत्  ।  
 ऐशान्यां मण्डलं कृत्वा चाण्डाल्युच्छिष्टपूर्विकाम्  ।  
 नैवेद्यं किंचित् स्वीकृत्य विहरेच्च निजेच्छया  ॥ तोत्_३।७९ ॥  
-  
-  
+
 तोडलतन्त्र, चतुर्थः पटलः  
 देवी उवाच  
 श्रुता पूजा कालिकायास् ताराया वद साम्प्रतम्  ।  
@@ -469,8 +392,7 @@ For further information see:
 अन्यत्संचारणाद्देवि क्रुद्धा भवति तारिणी  ॥ तोत्_४।४५ ॥  
 तत्त्वज्ञानं च मानं च शक्तिमात्रे हि पार्वति  ।  
 इत्येतत् कथितं देवि किमन्यत् श्रोतुमिच्छसि  ॥ तोत्_४।४६ ॥  
-  
-  
+
 तोडलतन्त्र, पञ्चमः पटलः  
 श्रीदेवी उवाच  
 त्वत्प्रसादान्महादेव पवित्राहं न चान्यथा  ।  
@@ -686,8 +608,7 @@ For further information see:
 माहात्म्यं ध्यानपूजायां भेदो नास्ति सुरेश्वरि  ॥ तोत्_६।५६ ॥  
 अतिस्नेहेन देवेशि किं मया न प्रकाशितम्  ।  
 प्राणान्तेऽपि पशोरग्रे वैखरीं न प्रकाशयेत्  ॥ तोत्_६।५७ ॥  
-  
-  
+
 तोडलतन्त्र, सप्तमः पटलः  
 श्रीदेवी उवाच  
 महायोगमयी देवी खेचरी परमा कला  ।  
@@ -773,8 +694,7 @@ For further information see:
 तयोर्मध्ये च पातालास् तिष्ठन्ति परमेश्वरि  ॥ तोत्_७।३७ ॥  
 इति ते कथितं कान्ते योगसारं समासतः  ।  
 न वक्तव्यं पशोर् अग्रे प्राणान्तेऽपि कदाचन  ॥ तोत्_७।३८ ॥  
-  
-  
+
 तोडलतन्त्र, अष्टमः पटलः  
 श्रीदेवी उवाच  
 सार्धत्रिकोटिनाडीनाम् आलयं च कलेवरम्  ।  
@@ -829,8 +749,7 @@ For further information see:
 अतः सा कुण्डली देवी मुखेनाच्छाद्य संस्थिता  ॥ तोत्_८।२१ ॥  
 तेनैव पार्थिवे लिङ्गे बिन्दुशक्तिं नियोजयेत्  ।  
 बिन्दुशक्तिं समुत्थाप्य लिङ्गपूजा प्रकीर्तिता  ॥ तोत्_८।२२ ॥  
-  
-  
+
 तोडलतन्त्र, नवमः पटलः  
 श्रीदेवी उवाच  
 त्रिपुराया महामन्त्रं नित्यातन्त्रे श्रुतं मया  ।  
@@ -935,8 +854,7 @@ For further information see:
 ततश्च प्रजपेन्मन्त्रं पितृभूमौ दिनत्रयम्  ॥ तोत्_९।४६ ॥  
 ततः सिद्धिर्भवेद् देवि सत्यं सत्यं हि सुप्रिये  ।  
 तद्वाक्यं प्रार्थनावाक्यं डामराख्ये मयोदितम्  ॥ तोत्_९।४७ ॥  
-  
-  
+
 तोडलतन्त्र, दशमः पटलः  
 श्रीदेवी उवाच  
 काकीचञ्चुं महामुद्रां कथयस्व दयानिधे  ।  
@@ -967,7 +885,4 @@ For further information see:
 इति ते कथितं देव्य् अवतारं दशममेव हि  ।  
 एतासां पूजनाद् देवि महादेवसमो भवेत्  ।  
 आसां ध्यानादिकं सर्वं कथितं मे पुरा तव  ॥ तोत्_१०।१२ ॥  
-  
-  
-  
-  
+

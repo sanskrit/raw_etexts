@@ -3,95 +3,20 @@ title = "Rgveda-Samhita: Padapatha text, Mandala 4"
 
 +++
 ## Intro
-  
-  
-  
-  
- Rgveda-Samhita: Padapatha text, Mandala 4  
-  
-  
-  
-  
+
+Rgveda-Samhita: Padapatha text, Mandala 4  
+
 Rgveda-Samhita: Padapatha text  
 Mandala 4  
-  
-  
+
 Input by members of the Sansknet project  
-  
-  
-  
+
 REFERENCES:  
 RV_n:n/n = RV_aṣṭaka:adhyāya/varga  
 RV_n,n.n = RV_maṇḍala,sūkta.verse  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 -र्व्_३:४।१२-  
 (र्व्_४,१)  
 त्वाम् । हि । अग्ने । सदम् । इत् । स-मन्यवः । देवासः । देवम् । अरतिम् । नि-एरिरे । इति । क्रत्वा । नि-एरिरे । अमर्त्यम् । यजत । मर्त्येषु । आ । देवम् । आदेवम् । जनत । प्र-चेतसम् । विश्वम् । आदेवम् । जनत । प्र-चेतसम्  ॥ र्व्_४,१।१ ॥  
@@ -208,11 +133,7 @@ For further information see:
 त्वया । वयम् । सधन्यः । त्वाऊताः । तव । प्र-नीती । अश्याम । वाजान् । उभा । शंसा । सूदय । सत्य-ताते । अनुष्ठुया । कृणुहि । अह्रयाण  ॥ र्व्_४,४।१४ ॥  
 अया । ते । अग्ने । सम्-इधा । विधेम । प्रति । स्तोमम् । शस्यमानम् । गृभाय । दह । अशसः । रक्षसः । पाहि । अस्मान् । द्रुहः । निदः । मित्र-महः । अवद्यात्  ॥ र्व्_४,४।१५ ॥  
 ॥२५॥।  
-  
-  
-  
-  
-  
+
 -र्व्_३:५।१-  
 (र्व्_४,५)  
 वैश्वानराय । मीऌहुषे । स-जोषाः । कथा । दाशेम । अग्नये । बृहत् । भाः । अनूनेन । बृहता । वक्षथेन । उप । स्तभायत् । उप-मित् । न । रोधः  ॥ र्व्_४,५।१ ॥  
@@ -451,10 +372,7 @@ For further information see:
 कः । ते । मातरम् । विधवाम् । अचक्रत् । शयुम् । कः । त्वाम् । अजिघांसत् । चरन्तम् । कः । ते । देवः । अधि । मार्डीके । आसीत् । यत् । प्र । अक्षिणाः । पितरम् । पाद-गृह्य  ॥ र्व्_४,१८।१२ ॥  
 अवर्त्या । शुनः । आन्त्राणि । पेचे । न । देवेषु । विविदे । मर्डितारम् । अपश्यम् । जायाम् । अमहीयमानाम् । अध । मे । श्येनः । मधु । आ । जभार  ॥ र्व्_४,१८।१३ ॥  
 ॥२६॥।  
-  
-  
-  
-  
+
 -र्व्_३:६।१-  
 (र्व्_४,१९)  
 एव । त्वाम् । इन्द्र । वज्रिन् । अत्र । विश्वे । देवासः । सु-हवासः । ऊमाः । महाम् । उभे इति । रोदसी इति । वृद्धम् । ऋष्वम् । निः । एकम् । इत् । गृणते । वृत्र-हत्ये  ॥ र्व्_४,१९।१ ॥  
@@ -717,11 +635,7 @@ For further information see:
 कनीनकाइव । विद्रधे । नवे । द्रु-पदे । अर्भके । बभ्रू इति । यामेषु । शोभेतेइति  ॥ र्व्_४,३२।२३ ॥  
 अरम् । मे । उस्र-याम्णे । अरम् । अनुस्र-याम्णे । बभ्रू इति । यामेषु । अस्रिधा  ॥ र्व्_४,३२।२४ ॥  
 ॥३०॥।  
-  
-  
-  
-  
-  
+
 -र्व्_३:७।१-  
 (र्व्_४,३३)  
 प्र । ऋभु-भ्यः । दूतम्-इव । वाचम् । इष्ये । उप-स्तिरे । श्वैतरीम् । धेनुम् । ईऌए । ये । वात-जूताः । तरणि-भिः । एवैः । परि । द्याम् । सद्यः । अपसः । बभूवुः  ॥ र्व्_४,३३।१ ॥  
@@ -966,11 +880,7 @@ For further information see:
 इन्द्रः । च । सोमम् । पिबतम् । बृहस्पते । अस्मिन् । यज्ञे । मन्दसाना । वृषण्वसूइतिवृषण्-वसू । आ । वाम् । विशन्तु । इन्दवः । सु-आभुवः । अस्मे इति । रयिम् । सर्व-वीरम् । नि । यच्छतम्  ॥ र्व्_४,५०।१० ॥  
 बृहस्पते । इन्द्र । वर्धतम् । नः । सचा । सा । वाम् । सु-मतिः । भूतु । अस्मे इति । अविष्टम् । धियः । जिगृतम् । पुरम्-धीः । जजस्तम् । अर्यः । वनुषाम् । अरातीः  ॥ र्व्_४,५०।११ ॥  
 ॥२७॥।  
-  
-  
-  
-  
-  
+
 -र्व्_३:८।१-  
 (र्व्_४,५१)  
 इदम् । ॐ इति । त्यत् । पुरु-तमम् । पुरस्तात् । ज्योतिः । तमसः । वयुन-वत् । अस्थात् । नूनम् । दिवः । दुहितरः । वि-भातीः । गातुम् । कृणवन् । उषसः । जनाय  ॥ र्व्_४,५१।१ ॥  
@@ -1081,7 +991,4 @@ For further information see:
 अभि । अर्षत । सु-स्तुतिम् । गव्यम् । आजिम् । अस्मासु । भद्रा । द्रविणानि । धत्त । इमम् । यज्ञम् । नयत । देवता । नः । घृतस्य । धाराः । मधु-मत् । पवन्ते  ॥ र्व्_४,५८।१० ॥  
 धामन् । ते । विश्वम् । भुवनम् । अधि । श्रितम् । अन्तरिति । समुद्रे । हृदि । अन्तः । आयुषि । अपाम् । अनीके । सम्-इथे । यः । आभृतः । तम् । अश्याम । मधु-मन्तम् । ते । ऊर्मिम्  ॥ र्व्_४,५८।११ ॥  
 ॥११॥।  
-  
-  
-  
-  
+

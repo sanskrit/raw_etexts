@@ -3,102 +3,26 @@ title = "Mrgendragama 3"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Mrgendragama 3  
-  
-  
-  
-  
-  
+
 Mrgendragama (=Mrgendratantra)  
 3. Caryapada (mula text only!).  
 Based on the edition by N.R. Bhatt: Mṛgendrāgama (Kriyāpāda et Caryāpāda),  
 avec le commentaire de Bhaṭṭa-Nārāyaṇakaṇṭha.  
 Pondicherry : Institut Français d'Indologie, 1962.  
 (Publications de l'Institut Français d'Indologie, 23)  
-  
-  
+
 Input by Dominic Goodall  
-  
-  
+
 PLAIN TEXT VERSION  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 अत्तेन्तिओन् हस् बेएन् पैद् तो थे शुद्धिपत्त्र (प्प्।३२७--८)  
 अस् wएल्ल् अस् तो म्मे ब्रुन्नेर्ऽस् चोर्र्रेच्तिओन्स् (१९८५:४२४--९), अ नुम्बेर्  
 ओड़् wहिछ् देरिवे ड़्रोम् म्स्स् थत् wएरे नोत् अवैलब्ले तो भत्त्।  
-  
-  
-  
+
 येनाणूनामुषितममलं दृक्क्रियाख्यस्वरूपं यत्सद्भावाद्भवजलनिधौ जन्तुजातस्य पातः  ।  
 दुर्वारं तत्क्षपयति तमो यत्प्रसादस्तमीशं चर्यापादे विवृतिरचनां कुर्महे सम्प्रणम्य  ॥ म्र्ग्त्_३।० ॥  
 अथातो देशिकादीनां सामान्याचारसंग्रहः  ।  
@@ -364,7 +288,4 @@ For further information see:
 सर्वज्ञविहितं यावद् बुभुक्।ओरितरस्य वा  ॥ म्र्ग्त्_३।अप्प्।१ ॥  
 एकाङ्गुलं द्विहस्तान्तं रत्नजं न परं ततः  ।  
 लोहादि पाणिषड्ढास्तं दारुभिस्त्रिविधं परम्  ॥ म्र्ग्त्_३।अप्प्।२ ॥  
-  
-  
-  
-  
+

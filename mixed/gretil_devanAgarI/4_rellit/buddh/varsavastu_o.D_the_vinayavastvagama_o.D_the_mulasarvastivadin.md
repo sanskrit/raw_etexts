@@ -3,15 +3,9 @@ title = "Varsavastu of the Vinayavastvagama of the Mulasarvastivadin"
 
 +++
 ## Intro
-  
-  
-  
-  
- Varsavastu of the Vinayavastvagama of the Mulasarvastivadin   
-  
-  
-  
-  
+
+Varsavastu of the Vinayavastvagama of the Mulasarvastivadin   
+
 Varsavastu of the Vinayavastvagama of the Mulasarvastivadin (Vastu 4 of Vinayavastu)  
 Based on the edition by Masanori Shono: Bukkyo ni okeru uki no toryuseikatsu ni kansuru kisoteki kenkyu -   
 Varṣāvastu no sai-kotei, oyobi dokkai kenyu -   
@@ -22,84 +16,14 @@ A Re-edition of Varṣāvastu and Its Annotated Translation -).
 Cf. Gilgit Manuscript, ed. N. Dutt, vol. III: Mūlasarvāstivādavinayavastu, part IV (Calcutta 1950), pp. 131-155: Varṣāvastu  
 dto.: second edition, Delhi 1984.  
 GBM = Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lokesh Chandra, 10 pts., New Delhi 1959-1974 (Śata-Piṭaka Series 10). (Some parts of the folios of the Anavaptagāthās of the Bhaiṣajyavastu and some Prajñāpāramitā texts are not reproduced.) Repr. in 3 parts Delhi 1995. (The Vinayavastu manuscript is reproduced in vol. 2)  
-  
-  
-  
+
 Input by K. Wille (Göttingen, Germany)  
-  
-  
-  
+
 BOLD for references  
 ITALICS for supplemented text  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 वर्-व् § ० -  
   
 वर्-व् § १ -  
@@ -325,8 +249,7 @@ For further information see:
 वर्-व् § २।२।८।अ यथापि तद् विहारो ऽनूपमध्ये प्रतिष्टापितो भवति। पूर्ववद् यावत् स तस्माद् आवासात् प्रक्रामत्य्। एतद् एव प्रत्ययं कृत्वा अनापत्तिर् वर्षाच्छेदे ॥  
   
 वर्-व् § २।२।८।ब् यथापि तद् भिक्षुर् यं स्त्रीपुरुषपण्डकम् उपनिश्रित्य वर्षा उपगतः। स उदकेनोढः, सन्तस्वापतेयं वास्य उदकेनोढं भवति । उदकभयेन वा परराष्ट्रं परविषयं निष्पलानः, उच्छिद्य वा कालगतः। तत्र वर्षोपगतस्य भिक्षोर् एवं भवति। अहम् अस्मिन्न् आवासे यं स्त्रीपुरुषपण्डकम् उपनिश्रित्य वर्षा उपगतः, स उदकेनोढः सन्तस्वापतेयं वास्योदकेणोधं उदकभयेन वा परराष्ट्रं परविषयं निष्पलानः, उच्छिद्य वा कालगतः। अहं चेद् अस्मिन्न् आवासे वर्षा वसेयं स्यान् मे अतोनिदानं जीवितान्तरायः श्रामण्यान्तरायो ब्रह्मचर्यान्तरायः। यन्व् अहम् अस्माद् आवासात् प्रक्रमेयं। स तस्माद् आवासात् (८०र् = ग्ब्म् ७४३) प्रक्रामत्य्। एतद् एव प्रत्ययं कृत्वा अनापत्तिर् वर्षाच्छेदे ॥  ॥  
-  
-  
+
 वर्-व् § ३  
   
 उद्दानम्* ॥  
@@ -352,6 +275,4 @@ For further information see:
 वर्-व् § ३।२।५ यथापि तद् भिक्षुः प्रतिशृणोत्य्। अमुष्मिन्न् आवासे पूर्विकां त्रैमासीं वत्स्ये। स प्रतिश्रुत्य गच्छति। गत्वा शलाकादीन् प्रतिगृह्णाति। शयनासनं प्रतिगृह्णाति। वर्षा उपगम्य सप्ताहम् अनधिष्ठाय बहिःसीमां गच्छति करणीयेन। तस्य तस्मिन्न् आवासे पूर्विकां त्रैमासीं न प्रज्ञायते, प्रतिश्रवेण च दुष्कृता ॥  
   
 वर्-व् § ३।२।६ यथापि तद् भिक्षुः प्रतिशृणोत्य्। अमुष्मिन्न् आवासे पूर्विकां त्रैमासीं वत्स्ये। स प्रतिश्रुत्य गच्छति। गत्वा शलाकादीन् प्रतिगृह्णाति। शयनासनं प्रतिगृह्णाति। वर्षा उपगम्य सप्ताहम् अनधिष्ठाय बहिःसीमां गच्छति करणीयेन। तस्य तस्मिन्न् आवासे पूर्विकां त्रैमासीं न प्रज्ञायते। प्रतिश्रवेण च दुष्कृता। सचेत् तत्र कृत्यकरणीयेन सप्ताहो ऽतिक्रान्तः अनापत्तिर् वर्षाच्छेदे । षट्कर्म एवं कर्तव्यम्* । यथा पूर्विकां त्रैमासीं तथापि पश्चिमिकां ॥। त्रैमासी ॥  ॥ वर्षावस्तु समप्तम्* ॥  ॥  
-  
-  
-  
+

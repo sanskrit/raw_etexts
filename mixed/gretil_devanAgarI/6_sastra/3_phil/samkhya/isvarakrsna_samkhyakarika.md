@@ -3,95 +3,20 @@ title = "Isvarakrsna: Samkhyakarika"
 
 +++
 ## Intro
-  
-  
-  
-  
- Isvarakrsna: Samkhyakarika   
-  
-  
-  
-  
+
+Isvarakrsna: Samkhyakarika   
+
 Isvarakrsna: Samkhyakarika (Samkhyasaptati).  
 Mula text extracted from the version with Mathara's commentary Matharavrtti.  
 Based on the ed. by Visnu Prasada Sarma: Sāṃkhyakārikā: Māṭharācāryaviracita-"Māṭharavṛtti"-sahitā,  
 Varanasi : The Chowkhamba Sanskrit Series Office 1970  
 (Chowkhamba Sanskrit Series, 296 [Work no. 56])  
-  
-  
+
 Input by members of the Young Buddhist Association, University of Tokyo  
 (www1.linkclub.or.jp/~bussei/)  
-  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 दुःखत्रयाभिघाताज् जिज्ञासा तदभिघातके हेतौ  ।  
 दृष्टे सापार्था चेन् नैकान्तात्यन्ततो ऽभावात्  ॥ इस्क्_१ ॥  
   
@@ -307,8 +232,4 @@ For further information see:
   
 तस्मात् समासदृष्टं शास्त्रम् इदं नार्थतश् च परिहीनम्  ।  
 तन्त्रस्य च बृहन्मूर्तेर् दर्पणसङ्क्रान्तम् इव बिम्बम्  ॥ इस्क्_७३ ॥  
-  
-  
-  
-  
-  
+

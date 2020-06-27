@@ -3,22 +3,14 @@ title = "Dharmakirti: Nyayabinduprakarana"
 
 +++
 ## Intro
-  
-  
-  
-  
- Dharmakirti: Nyayabinduprakarana   
-  
-  
-  
-  
+
+Dharmakirti: Nyayabinduprakarana   
+
 Dharmakirti: Nyayabinduprakarana,  
 with Vinitadeva's Nyayabindutikasisyahita and Dharmottara's Nyayabindutika.  
 Based on the ed. by Swami Dwarikadas Shastri: Nyāyabindu Prakaraṇa of Ācārya Dharmakīrti,  
 with Commentary of Ārya Vinītadeva and Dharmottara. Varanasi 1994 (Bauddha Bhārati Series, 18).  
-  
-  
-  
+
 Input by members of the Sanskrit Buddhist Input Project.  
 With kind permission of the Digital Sanskrit Buddhist Canon Project  
 of Nagarjuna Institute, Nepal  
@@ -26,87 +18,14 @@ and University of the West, Rosemead, California, USA
 (www.uwest.edu/sanskritcanon)  
 Version: 2009-04-28 15:15:18  
 Proof Reader: Milan Shakya  
-  
-  
-  
+
 The transliteration emulates the conventions of Nagari script.  
 Therefore, many word boundaries are not marked by blanks.  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 {॥।} = अक्षर उन्च्लेअर्  
-  
-  
-  
-  
-  
-  
+
 प्रथमः प्रत्यक्षपरिच्छेदः  
   
 आर्यविनीतदेवकृतिः  
@@ -825,11 +744,9 @@ For further information see:
 यद्यवम्, अध्यवसायसहितमेव प्रत्यक्षं प्रमाणं स्यात्, न केवलम्- इति चेत्? नैतदेवम् यस्मात् प्रत्यक्षबलोत्पन्नेनाध्यसायेन दृश्यत्वेनार्थो ऽवसीयते, न उत्परेक्षितत्वेन । दर्शनं च अर्थसाक्षात्करणाख्यं प्रत्यक्षव्यापारः । उत्प्रेक्षणं तु विकल्पव्यापारः । तथाहि- परोक्षमर्थ विकल्पयन्त उत्प्रेक्षामहे, न तु पश्याम इति उत्प्रेक्षात्मकं विकल्पव्यापारमनुभवादू अध्यवस्यन्ति । तस्मात् स्वव्यापारं तिरस्कृत्य प्रत्यक्षव्यापारमादर्शयति- यत्रार्थ प्रत्यक्षपूर्वको ऽध्यवसायः, तत्र प्रत्यक्षं केवलमेव प्रमाणमिति ॥ २१ ॥  
   
 आचार्यधर्मोत्तरविरचितायां न्यायबिन्दुटीकायां प्रथमः प्रत्यक्षपरिच्छेदः समाप्तः ॥  
-  
-  
+
 दर्शयति । यावत् प्रत्यक्षं स्वविषये स्वात्मनि निश्चयं नित्पादयति, न तावत् प्रमाणं भवति आत्मव्यापारानिर्वर्तनात् । ततश्चाध्यवसायं कुर्वदेव प्रमाणमिति निश्चयमप्र्क्षते । ननु यदि निश्चयं विना प्रमाणमेव न भवति प्रत्यक्षं विकल्पसहितम्, तर्हि प्रत्यक्षं प्रमाणं स्यात्, न केवलं तदन्वयव्यतिरेकादिति मन्यमानश्चोदयति- यदयेवमित्यादिना । नैतदेवम्॥॥॥॥॥॥॥  
-  
-  
+
 द्वितीयः स्वार्थानुमानपरिच्छेदः  
   
 १ अनुमानं द्विधा ॥  
@@ -1371,13 +1288,11 @@ For further information see:
 प्रमाणनिवृत्तिलक्षणा विप्रकृष्टविषयानुपलब्धिः, प्रमाननिवृत्तिरपि अर्थाभावं न साध्यति । प्रमाणं तु अर्थकार्यमिति प्रमाणनिवृत्त्या कारणमात्रनिवृत्तिनं सिध्यतीति ॥ ४८ ॥  
   
 इति न्यायविन्दुविस्तरटीकायां शिष्यहितायां द्वितीयः परिच्चेदः ॥  
-  
-  
+
 ननु च प्रमाणात् प्रमेयसत्ताव्यवस्था, ततः प्रमाणाभावात् प्रमेयाभावप्रतिपत्तिर्युक्ता? इत्याह- प्रमाणनिवृत्तावपीत्यादि । कारणं व्यापकं च निवर्तमानं कार्य व्याप्यं च निवर्तयेत् । न च प्रमाणं प्रमेयस्य करणम्, नापि व्यापकम् । अतः प्रमाणयोनिवृत्तवपि अर्थस्य प्रमेयस्य निवृत्तिनसिध्यति । ततो ऽसिद्धः संशयहेतुरदृश्यानुपलब्धिः, न निश्चयहेतुः । यत् पुनह् प्रमाणसत्तया प्रमेयसत्ता सिध्यति, तद्युक्तम् । प्रमेयकार्य हि प्रमाणम् । न च कारणमन्तरेण कार्यमस्ति । न तु कारणान्यवश्यं कार्यवन्ति भवन्ति । तस्मात् प्रमाणात् प्रमेयसत्ता व्यवस्थाप्या, न प्रमाणाभावात् प्रमेयाभावव्यवस्थेति ॥ ४८ ॥  
   
 आचार्यधर्मोत्तरकृतायां व्यायबिन्दुटीकायां स्वार्थानुमानं नाम द्वितीयः परिच्छेदः ॥   
-  
-  
+
 तृतीयः परार्थानुमानपरिच्छेदः  
   
 १ त्रिरूपलिङ्गाख्यानं अप्रार्थमनुमानम् ॥  
@@ -2783,6 +2698,4 @@ For further information see:
   
 ये धर्मा हेतुप्रभवा हेतुं तेषां तथागतो हयवदत् ।  
 तेषां च यो निरोध एवंवादी महाश्रमणः ॥  
-  
-  
-  
+

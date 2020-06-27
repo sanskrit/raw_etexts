@@ -3,15 +3,9 @@ title = "Gheranda-Samhita"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Gheranda-Samhita  
-  
-  
-  
-  
+
 Gheranda-Samhita  
 Electronic text based on the edition:  
 Gherandasamhita : Sanskrit-deutsch. Ed. Peter Thomi.   
@@ -20,74 +14,9 @@ Wichtrach: Institut fuer Indologie, 1993 (ISBN 3 7187 0013 1).
 Input by Peter Thomi, edited by Peter Schreiner  
   
 Plain text version  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 <1.0/1> आदीश्वराय प्रणनामि तस्मै !  
 <1.0/2> येनोपदिष्टा हठयोगविद्या !  
 <1.0/3> विराजते प्रोन्नतराजयोगम् !  
@@ -913,7 +842,4 @@ For further information see:
 <7.23/1> इति ते कथितश् चण्ड समाधिर् दुर्लभः परः !  
 <7.23/2> यं ज्ञात्वा न पुनर्जन्म जायते भूमिमण्डले !!७।२३!  
 <7.24/0> [[इति श्रीघेरण्डसंहितायां घेरण्डचण्डसंवादे घतस्थयोगसाधने योगस्य सप्तसारे समाधियोगो नाम सप्तमोपदेशः समाप्तः !!७ ]]  
-  
-  
-  
-  
+

@@ -3,15 +3,9 @@ title = "Posadhavastu"
 
 +++
 ## Intro
-  
-  
-  
-  
- Posadhavastu   
-  
-  
-  
-  
+
+Posadhavastu   
+
 Posadhavastu of the Vinayavstvagama of the Mulasarvastivadin (Vastu 2 im Vinayavastu)  
 Based on the edition by Hai-yan Hu-von Hinüber: Posadhavastu, Vorschriften für die buddhistische Beichtfeier im Vinaya der Mulasarvastivadins, Reinbek 1994 (Studien zur Indologie und Iranistik, Monographie 13). = Poṣ-v  
   
@@ -21,89 +15,18 @@ dto.: second edition, Delhi 1984.
 GBM = Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lokesh Chandra, 10 pts., New Delhi 1959Ō1974 (Sata-Pitaka Series 10). (Some parts of the folios of the Anavaptagathas of the Bhaisajyavastu and some Prajnaparamita texts are not reproduced)  
   
 dto.: repr. in 3 parts Delhi 1995. (The Vinayavastu manuscript is reproduced in vol. 2; the folios 43-53 of the Stein collection [Pravrajyāvastu/Poṣadhavastu] are not reproduced anymore)  
-  
-  
-  
+
 Input by K. Wille (Göttingen, Germany)  
-  
-  
-  
+
 BOLD for references  
 ITALICS for restored passages  
 {...} = emendation  
 * = virama  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 पोषधवस्तु  
-  
-  
+
 (पोष्-व् २५६)  
   
 पोष्-व् १। (५३व् = ग्ब्म् ६।७०७) पिण्डोद्दानम्* ॥  
@@ -1442,7 +1365,4 @@ For further information see:
 पोष्-व् ९८।११। गन्तव्यं भिक्षुणा तद् एव पोषधे पञ्चदश्यां सभिक्षुकाद् आवासाद् अनावासाद् अभिक्षुकम् आवासं अभिक्षुकम् आवासानावासं यत्र गत्वा स्पर्शो भवति (६७र्) कायेन वा चित्तेन वा ॥  
   
 ड़ोलिओस् ६७ अन्द् ६८ अरे लोस्त्।  
-  
-  
-  
-  
+

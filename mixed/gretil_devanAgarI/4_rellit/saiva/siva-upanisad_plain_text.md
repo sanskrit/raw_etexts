@@ -3,14 +3,9 @@ title = "Siva-Upanisad (plain text)"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Siva-Upanisad (plain text)  
-  
-  
-  
+
 Siva-Upanisad  
 Based on the edition included in:  
 Un-published Upanisads / ed. by the Pandits of Adyar Library  
@@ -18,81 +13,13 @@ under the supervision of C. Kunhan Raja
 Adyar 1933 (The Adyar Library Series ; 14)  
   
 Input by Reinhold Gruenendahl  
-  
-  
+
 Plain text version  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
+
 शिवोपनिषद्  
-  
-  
+
 कैलासशिखरासीनम् अशेषामरपूजितम्  ।  
 कालघ्नं श्रीमहाकालम् ईश्वरं ज्ञानपारगम्  ॥ १।१ ॥  
 संपूज्य विधिवद् भक्त्या ऋष्यात्रेयः सुसंयतः  ।  
@@ -175,9 +102,7 @@ For further information see:
 लिङ्गम् आयतनं चेति तत्र कर्म प्रवर्तते  ॥ १।३७ ॥  
   
 ॥ इति शिवोपनिषदि मुक्तिनिर्देशाध्यायः प्रथमः  ॥  
-  
-  
-  
+
 अथ पूर्वस्थितो लिङ्गे गर्भः स त्रिगुणो भवेत्  ।  
 गर्भाद् वापि विभागेन स्थाप्य लिङ्गं शिवालये  ॥ २।१ ॥  
 यावल् लिङ्गस्य दैर्घ्यं स्यात् तावद् वेद्याश् च विस्तरः  ।  
@@ -245,8 +170,7 @@ For further information see:
 तत्र भुक्त्वा महाभोगान् प्रलये मुक्तिम् आप्नुयात्  ॥ २।३१ ॥  
   
 ॥ इति शिवोपनिषदि लिङ्गायतनाध्यायो द्वितीयः  ॥  
-  
-  
+
 अथान्यैर् अल्पवित्तैश् च नृपैश् च शिवभावितैः  ।  
 शक्तितः स्वाश्रमे कार्यं शिवशान्तिगृहद्वयम्  ॥ ३।१ ॥  
 गृहस्येशानदिग्भागे कार्यम् उत्तरतो ऽपि वा  ।  
@@ -278,9 +202,7 @@ For further information see:
 तावत्कल्पान् महाभोगस् तत्कर्तास्ते शिवे पुरे  ॥ ३।१४ ॥  
   
 ॥ इति शिवोपनिषदि शिवगृहाध्यायस् तृतीयः  ॥  
-  
-  
-  
+
 अथैकभिन्नाविच्छिन्नं पुरतः शान्तिमण्डपम्  ।  
 पूर्वापराष्टहस्तं स्याद् द्वादशोत्तरदक्षिणे  ॥ ४।१ ॥  
 तद् द्वारभित्तिसंबद्धं कपिच्छुकसमावृतम्  ।  
@@ -419,8 +341,7 @@ For further information see:
 बाह्यकर्मविनिर्मुक्ता ज्ञानध्यानसमाकुलाः  ॥ ४।६७ ॥  
   
 ॥ इति शिवोपनिषदि शान्तिगृहाग्निकार्याध्यायश् चतुर्थः  ॥  
-  
-  
+
 अथाग्नेयं महास्नानम् अलक्ष्मीमलनाशनम्  ।  
 सर्वपापहरं दिव्यं तपः श्रीकीर्तिवर्धनम्  ॥ ५।१॥  
 अग्निरूपेण रुद्रेण स्वतेजः परमं बलम्  ।  
@@ -527,8 +448,7 @@ For further information see:
 उपस्थाय ततः सूर्यं यजेच् छिवम् अनन्तरम्  ॥ ५।५२ ॥  
   
 ॥ इति शिवोपनिषदि शिवभस्मस्नानाध्यायः पञ्चमः  ॥  
-  
-  
+
 अथ भक्त्या शिवं पूज्य नैवेद्यम् उपकल्पयेत्  ।  
 यद् अन्नम् आत्मनाश्नीयात् तस्याग्रे विनिवेदयेत्  ॥ ६।१ ॥  
 यः कृत्वा भक्ष्यभोज्यानि यत्नेन विनिवेदयेत्  ।  
@@ -1102,8 +1022,7 @@ For further information see:
 दत्त्वा यज्ञफलं विद्यात् किमु तद्वस्तुदानतः  ॥ ६।२८४ ॥  
   
 ॥ इति शिवोपनिषदि फलोपकरणप्रदानाध्यायः षष्ठः  ॥  
-  
-  
+
 अथ स्वर्गापवर्गार्थे प्रवक्ष्यामि समासतः  ।  
 सर्वेषां शिवभक्तानां शिवाचारम् अनुत्तमम्  ॥ ७।१ ॥  
 शिवः शिवाय भूतानां यस्माद् दानं प्रयच्छति  ।  
@@ -1389,6 +1308,4 @@ For further information see:
 ॥ इति शिवोपनिषदि शिवाचाराध्यायः सप्तमः ॥  
   
    ॥ इति शिवोपनिषत् समाप्ता ॥  
-  
-  
-  
+

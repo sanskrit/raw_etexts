@@ -3,111 +3,32 @@ title = "Khandadeva: Bhattadipika, 1,1"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Khandadeva: Bhattadipika, 1,1  
-  
-  
-  
-  
-  
+
 Khandadeva: Bhattadipika, a commentary on Jaimini's Mimamsasutra,  
 Adhyaya 1, Adhikarana 1,  
 with Sambhubhatta's Prabhavali (subcomm.)  
 Based on the ed. by N.S. Ananta Krishna Sastri  
 Bombay 1921-1922 (Reprint: Delhi 1987)  
 (Sri Garib Dass Oriental Series, 50-)  
-  
-  
+
 Input by members of the Sansknet project  
 (www.sansknet.org) [server down!]  
-  
-  
+
 This GRETIL version has been converted from a custom Devanagari encoding.  
 Therefore, word boundaries are usually not marked by blanks.  
 These and other irregularities cannot be standardized at present.  
-  
-  
+
 A segmentation according to sutras for better orientation  
 has to be postponed for want of an adequate printed edition.  
-  
-  
+
 THE TEXT IS NOT PROOF-READ!  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 अध्याय १, अधिकरण १:  
-  
-  
+
 <B1> श्रीः ।  
 श्रीमत्खण्डदेवविरचिता  भाट्टदीपिका ।  
 --- ॥ । ---  श्रीखण्डदेवान्तेवासिकविमण्डनशंभुभट्टविरचितप्रभावलीव्याख्यासंवलिता ।  
@@ -126,12 +47,9 @@ For further information see:
 (टिप्पणारम्भ्ज्ञप्रतिज्ञा) अत्रच१ यद्यपि बलाबलाधिकरणसमाप्तिपर्यन्तं स्वकृतेन कौस्तुभग्रन्थेन व्याख्यातार्था भाट्टदीपिका भवतीत्यतस्तदन्तं विहाय टिप्पणं कर्तव्यमिति आज्ञा पूज्यपादानामासीदिति तदन्तग्रन्थटिप्पणं कर्तुं न युक्तम्; तथापि तत्संगृहीतार्थानां मूलाक्षरारूढत्वज्ञापनाय लोकोपकाराय च कौस्तुभदर्शितमार्गेणैव आदितः टिप्पणमारभ्यते ।  
 (उपोद्धातविचारप्रतिज्ञा) तत्र व्याख्यास्यमानार्थवादाधिकरणे यदुपोद्धातत्वेनावशपेक्षितं तत् किञ्चिदादौ निरूप्यते ।  
 तत्र तावत् पूर्वचरणे   
-  
-  
+
 अथातो धर्मजिज्ञासा  । जैम्_१,१।१ ।  
-  
-  
-  
+
 इति शास्त्रारम्भसूत्रेण प्रमाणस्वरूपसाधनफलैः साभासैर्विचरयिष्यमाणः सकलो धर्माधर्मप्रमेयरूपः शास्त्रार्थः प्रतिज्ञातो महर्षिणा जैमिनिना ।  
 (विवारे वैधत्वोपपादनम्)  शास्त्रारम्भमूलं च  "स्वाध्यायो ऽध्येतव्यः" (तै।आ।१६) इत्यध्ययनविधिः ; तत्राध्ययनरूपकरणविधानाद्विचारमन्तरेण अर्थज्ञानानुत्पत्तेः विचाररूपेतिकर्तव्यतानुष्ठानाक्षेपेण  तत्कर्तव्यताबोधनात् तस्याश्र्च तत्प्रतिपादकशास्त्राभावे ऽ- संभवात् शास्त्रारम्भतदध्ययनकर्तव्यताबोधनरूपफलस्याप्यर्थतो विधानात् ।  
 तदुक्तम् -  
@@ -195,13 +113,9 @@ For further information see:
 युक्तमेव तत् ।  
 स्वरूपभेदप्रमाणे च प्रथमाध्यायद्वयेन तृतीयादिभिश्र्च तत्साधनादीनि निरूप्यन्ते इति सर्वमपि शास्त्रं जिज्ञासापरिकर एव ॥  
 धर्माधर्मस्वरूपं च प्रमाणनिवेशमन्तरा लक्षणकरणेनाशक्यमिति एकनाल्येवान्ययोगायोगव्यावृत्तिभ्यां प्रमाणस्वरूपे ज्ञातुं द्वितीयसूत्रम् -   
-  
-  
-  
+
 चोदनालक्षणो ऽर्थो धर्मः  । जैम्_१,१।२ ।  
-  
-  
-  
+
 इति  ॥  
 (चोदनापदस्य वेदपरत्वेन मन्त्रादिकल्प्यविधिविधेयस्यापि धर्मत्वलाभः) अर्थ्यते फलजनकत्वेन प्रार्थ्यतेः यः स चोदनाप्रमाणको धर्मः, चोदनाप्रमाणकेष्टसाधनताक इति यावत् ।  
 तत्र ये- जिज्ञासासूत्रे धर्मप्रमाणमात्रस्य प्रतिज्ञानात् ऽवेदो ऽखिलो धर्ममूलम्ऽ इत्यादिस्मृत्या च वेदस्यैव तत्प्रमाणत्वावगतेश्र्चोदनासूत्रे ऽपि चोदनापदस्य प्रवर्तकत्वपर्याप्त्याधिकरणमन्त्रार्थवादनामधेयोपेतविधिवाक्यवाचित्वेन सर्ववेदविषयत्वात् अर्थवादादीनामपि चाग्रे धर्माधर्मप्रमाणत्वेन निरूपणात् वेदाध्ययनस्यानन्तर्यप्रतियोगितयान्वयात् वेदपरत्वमेव ।  
@@ -334,7 +248,4 @@ For further information see:
 आनुपूर्वीविशेषविशिष्टवर्णात्मकस्य वेदस्य वर्णस्वरूपेण नित्यत्वे ऽपि आनुपूर्वीविशेषस्योच्चारणसामग्री जन्यत्वेनानित्यत्वम् ।  
 सगकाले च तज्जातीयानुपूर्वी काचिदस्तीति कार्यरूपेणानादित्वेनैव नित्यत्वं, न गगनादिवत् स्वरूपेणानादित्वेनेत्यर्थे सिद्धे कथमप्यप्रामाण्यकारणाभावे स्वत एव निर्देषादबाधितप्रतीत्युत्पत्तिसंभवाद्युक्तमेव पूर्वोक्तं धर्माधर्मलक्षणद्वयम्  ॥  
 <B1>।  
-  
-  
-  
-  
+

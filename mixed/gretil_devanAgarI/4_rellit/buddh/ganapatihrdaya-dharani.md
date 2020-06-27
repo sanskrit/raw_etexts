@@ -3,97 +3,22 @@ title = "Ganapatihrdaya-Dharani"
 
 +++
 ## Intro
-  
-  
-  
-  
- Ganapatihrdaya-Dharani   
-  
-  
-  
-  
+
+Ganapatihrdaya-Dharani   
+
 Ganapatihrdaya-Dharani  
 Based on the edition by Yutaka Iwamoto: Kleinere Dhāraṇī Texte, Kyoto 1937  
 (Beiträge zur Indologie, 2), pp. 10-12.  
   
 [Note the translation by R. Duquenne, "Gaṇapati Rituals in Chinese", BEFEO 77 (1988), pp. 344f.]  
-  
-  
+
 Input by Klaus Wille (Göttingen)  
-  
-  
+
 STRUCTURE OF REFERENCES  
 Gph_n = pagination of Iwamoto's edition  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 (ग्फ्_१०)  
   
 नमो भगवते आर्यमहागणपतिहृदयाय । नमो रत्नत्रयाय ॥  
@@ -127,6 +52,4 @@ For further information see:
 इदम् अवोचत् भगवान् आत्तमनास् ते च भिक्षवस् ते बोधिसत्वा महासत्वाः सा च सर्वावती पर्षत् सदेवमानुषासुरगरुडगन्धर्वश् च लोको भगवतो भाषितम् अभ्यनन्दन्न् इति ॥  
   
 आर्यमहागणपतिहृदयं समाप्तम् ॥  
-  
-  
-  
+

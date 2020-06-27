@@ -3,26 +3,16 @@ title = "Upasampadajnapti"
 
 +++
 ## Intro
-  
-  
-  
-  
- Upasampadajnapti   
-  
-  
-  
-  
+
+Upasampadajnapti   
+
 Upasampadajnapti (= Uj)  
 Based on the ed. Jin-il Chung: Handbuch für die buddhistische Mönchsordination bei den Mūlasarvāstivādins. Gimpo 2011  
-  
-  
+
 Input by Jin-il Chung  
-  
-  
-  
+
 ITALICS for restored passages  
-  
-  
+
 1) Standardization of  
 a) Internal Sandhi:  
 ṃn for nn; nt for ṃt; ṃv for mv; saṃp for samp; kamp for kaṃp; saṃb for samb; ṃm for mm  
@@ -33,9 +23,7 @@ m for ṃm-vowel
   
 2) Gemination removed:  
 rṇ for rṇṇ; rt for rtt; rd for rdd; rdh for rddh; rm for rmm; ry for ryy; rv for rvv  
-  
-  
-  
+
 Abbreviations:  
 KaVā(Bhī) = C. Bendall, "Fragment of a Buddhist Ordination-Ritual in Sanskrit", Album-Kern: Opstellen geschreven te zijner eere van H[endrik] Kern, Leiden 1903, pp. 373_376.  
   
@@ -46,75 +34,9 @@ Skt.C = Bhikṣukarmavākya, ed. A.C. Banerjee, Indian Historcal Quarterly 25 (1
 ŚrBh(T: re-ed) = Śrāvakabhūmi, Revised Sanskrit Text and Japanese Translation, ed. Śrāvakabhūmi Study Group (The Institute for Comprehensive Studies of Buddhism, Taishḥ University), 2 parts, Tokyo 1998, 2007 (Taishḥ Daigaku Sḥgḥ Bukkyḥ Kenyūjo Kenkyū Sḥsho, 4, 18).  
   
 Upj(J) = Upasaṃpadājñaptiḥ, ed. B. Jinananda, Patna 1961 (Tibetan Sanskrit Works Series, 6)  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 उज् इइ।इ।१  
 यस्य कस्यचित् प्रव्रज्यापेक्ष उपसंक्रामति स तेनान्तरायिकान् धर्म्मान् पृष्ट्वोद्ग्रहीतव्य उद्गृह्य त्रीणि शरणगमनानि पञ्च च शिक्षापदान्य् उपासकसंवरो दातव्यः एवञ् च पुनर् दातव्यः (उप्ज्(ज्) १६।१३-१६; व्ग्ल्। क्षुद्र्-व्(भी) ९ अ१-४)  
   
@@ -258,8 +180,7 @@ For further information see:
   
 उज् इइ।इइइ।३।३  
 ततः पश्चात् समया आरोचयितव्याः पञ्च समया हैमन्तिको ग्रैष्मिको वार्षिको मृतवार्षिको दीर्घवार्षिकः तत्र हैमन्तिकः चत्वारो मासा मार्गशीर्षपुष्यमाघफाल्गुनः ग्रैष्मिकः चत्वारो मासाः चैत्रवैशाखजेष्ठाषाढः वार्षिक एको मासः श्रावणः मृतवार्षिक एकं रात्रिंदिनं भाद्रपदस्य मासस्य प्रतिपत्* दीर्घवार्षिक एकरात्र्यूनास् त्रयो मासाः भाद्रपदाश्वयुजकार्तिकः ॥ (उप्ज्(ज्) १९।९-१४; व्ग्ल्। क्षुद्र्-व्(भी) २२ अ२-४)  
-  
-  
+
 उज् इइइ।इ।१  
 ततः पश्चाच् चत्वारो निश्रया आरोचयितव्याः शृणु त्वम् आयुष्मंश् चत्वार इमे तेन भगवता जानता पश्यता तथागतेनार्हता सम्यक्संबुद्धेन एवं प्रव्रजितोपसंपन्नस्य भिक्षोर् निश्रया आख्याताः यान् निश्रित्य भिक्षोः स्वाख्याते धर्मविनये प्रव्रज्योपसंपद् भिक्षुभावः कतमे चत्वारः (उप्ज्(ज्) १९।१५-१९; ~ स्क्त्।च् ४८ र्६-७; व्ग्ल्। क्षुद्र्-व्(भी) २२ अ५-ब्२)  
   
@@ -274,8 +195,7 @@ For further information see:
   
 उज् इइइ।इ।२।४  
 शृणु त्वम् एवंनाम पूतिमुक्तं भैषज्यानां कल्पिकञ् च सुलभञ् च यन् निश्रित्य भिक्षोः स्वाख्याते धर्मविनये प्रव्रज्योपसंपद् भिक्षुभावः उत्सहसे त्वम् एवंनामन् यावज्जीवं पूतिमुक्तेन भैषज्येन यापयितुम्* । तेन वक्तव्यम् उत्सहे । अतिरेकलाभः सर्पिस् तैलं मधु फाणितं कालिकं यामिकं साप्ताहिकं यावज्जीविकं मूलभैषज्यं गण्डभैषज्यं पत्रभैषज्यं पुष्पभैषज्यं फलभैषज्यम् इति यद् वा पुनर् अन्यद् अपि कल्पिकं भैषज्यं सङ्घाद् वा उत्पद्येत पुद्गलतो वा तत्रापि ते प्रतिग्रहे मात्रा करणीया । कच्चिद् एवंरूपं स्थानं अभिसंभोत्स्यसे । तेन वक्तव्यम् अभिसंभोत्स्ये (उप्ज्(ज्) २१।७-१४; ~ स्क्त्।च् ४९ र्७-व्५; व्ग्ल्। क्षुद्र्-व्(भी) २३ अ४-ब्२)  
-  
-  
+
 उज् इइइ।इइ।१।१  
 ततः पश्चाच् चत्वारः पतनीया धर्माः आरोचयितव्या । एवञ् च पुनर् आरोचयितव्याः शृणु त्वम् एवंनामंश् चत्वार इमे तेन भगवता जानता पश्यता तथागतेनार्हता सम्यक्संबुद्धेन एवं प्रव्रजितोपसंपन्नस्य भिक्षोः पतनीया धर्मा आख्याता येषां भिक्षुर् अन्यतमान्यतमं स्थानम् अध्यापद्य सहाध्यापत्त्या अभिक्षुर् भवत्य् अश्रमणो ऽशाक्यपुत्रीयो ध्वस्यते भिक्षुभावाद् धतम् अस्य भवति श्रामण्यं ध्वस्तं मथितं पतितं पराजितम् अप्रत्युद्धार्यम् अस्य भवति श्रामण्यम्* । (उप्ज्(ज्) २१।१६-२१; ~ स्क्त्।च् ४९ व्५-५० र्१; व्ग्ल्। क्षुद्र्-व्(भी) २३ ब्२-५)  
   
@@ -384,6 +304,4 @@ For further information see:
 एष त्वम् आयुष्मन् उपसंपन्नो ऽप्रमादेन संपादय (उप्ज्(ज्) २६।१५- २७।३; ~ स्क्त्।च् ५४ र्७-व्२)  
   
 ॥ ॥ उपसंपादज्ञप्तिः समाप्तः ॥ ॥  
-  
-  
-  
+

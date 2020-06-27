@@ -3,92 +3,18 @@ title = "Kedarabhatta (12th c.): Vrttaratnakara (sutra verses only)"
 
 +++
 ## Intro
-  
-  
-  
-  
- Kedarabhatta (12th c.): Vrttaratnakara (sutra verses only)   
-  
-  
-  
-  
+
+Kedarabhatta (12th c.): Vrttaratnakara (sutra verses only)   
+
 Kedarabhatta (12th c.): Vrttaratnakara (sutra verses only)  
 Based on the edition by Śrī Kedāra Nātha Śarmā: Vṛttaratnākara : with a commentary of Bhaṭṭa Nārāyaṇa Bhaṭṭ and notes etc. by Vaidya Nātha Śāstrī Varakale, edited with the Maṇimayī Hindī Commentary. -- 6th ed.  
 Varanasi : Chaukhambha Sanskrit Sansthan , 1980.  
 (The Kashi Sanskrit Series ; 55)  
-  
-  
+
 Input by Masahiro Takano  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 [श्रीः]  
   
 [वृत्तरत्नाकरः]  
@@ -103,8 +29,7 @@ For further information see:
   
 तेनेदं क्रियते छन्दो लक्ष्यलक्षणसंयुतम् ।  
 वृत्तरत्नाकरं नाम बालानां सुखसिद्ध्ये ॥ केद्व्_१।३ ॥  
-  
-  
+
 पिङ्गलादिभ्राचार्यैर्यदुक्तं लौकिकं द्विधा ।  
 मात्रावर्णविभेदेन च्छन्दस्तदिह कथ्यते ॥ केद्व्_१।४ ॥  
   
@@ -531,7 +456,4 @@ For further information see:
 प्रस्ताराध्यायः षष्ठः समाप्तः ॥  
   
 ----------------------------------------------  
-  
-  
-  
-  
+

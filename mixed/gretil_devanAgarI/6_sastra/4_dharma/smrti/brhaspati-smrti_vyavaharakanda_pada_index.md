@@ -3,105 +3,26 @@ title = "Brhaspati-Smrti, Vyavaharakanda. Pada Index"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Brhaspati-Smrti, Vyavaharakanda. Pada Index  
-  
-  
-  
-  
+
 Brhaspatismrti: Vyavaharakanda  
 Based on: Brhaspatismrti (reconstructed). Ed. by K.V.Rangaswami Aiyangar.  
 Baroda 1941 (Gaekwad Oriental Series ; 85)  
   
 This file does not include the following kandas:  
 Samskara, Acara, Sraddha, Asauca, Apaddharma, Prayascitta  
-  
-  
+
 Input by Yasuke Ikari and Akihiko Akamatsu  
 Version 1 (completed on April 20, 1992)  
-  
-  
+
 Revised GRETIL version, 2002  
 [Needs further proofreading!]  
-  
-  
+
 PADA INDEX  
-  
-  
-  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 अकल्पबालस्थविर-  ब्र्ह्_१,१।१४८अ  
 अकल्पादीन् अपि शनैर्  ब्र्ह्_१,१।१५४च्  
 अकारणे रक्षणे च  ब्र्ह्_१,१।८२अ  
@@ -5091,6 +5012,4 @@ For further information see:
 होढं साहसभावकम्  ब्र्ह्_१,२६।१४६ब्  
 होता निविद्वरं चाश्वम्  ब्र्ह्_१,१३।१९च्  
 होधं साहससाधकम्  ब्र्ह्_१,२६।८ब्  
-  
-  
-  
+

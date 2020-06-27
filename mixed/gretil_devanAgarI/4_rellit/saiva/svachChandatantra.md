@@ -3,28 +3,17 @@ title = "Svacchandatantra"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Svacchandatantra  
-  
-  
-  
-  
-  
+
 Svacchandatantra [or Svacchandabhairavatantra]  
 (Mula text only)  
-  
-  
+
 Input by members of the Saiva reading group at the EFEO in Pondicherry 2004  
 (Dominic Goodall, Mei Yang, Nibedita Rout, R. Sathyanarayanan, S.A.S. Sarma).  
-  
-  
+
 PLAIN TEXT VERSION  
-  
-  
-  
+
 Chapter 1 typed in from Dwivedi's edition by Dominic Goodall;  
 Chapter 2 typed in from KSTS edition by Mei Yang;  
 Chapter 3 typed in from Dwivedi's edition by Dominic Goodall;  
@@ -36,78 +25,12 @@ Chapter 10 typed in from KSTS edition by R. Sathyanarayanan (1-673) and by Nibed
 Chapter 11 typed in from Dwivedi's edition by Dominic Goodall;  
 Chapter 12 typed in from KSTS edition by Nibedita Rout;  
 Chapters 13, 14 and 15 typed in from Dwivedi's edition by Dominic Goodall.  
-  
-  
+
 (...) = lacuna  
 [HardReturn]+%% = note  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 कैलासशिखरासीनं भैरवं विगतामयम्  ।  
 चण्डनन्दिमहाकाल- गणेशवृषभृङ्गिभिः  ॥ स्वत्_१।१ ॥  
 कुमारेन्द्रयमादित्य- ब्रह्मविष्णुपुरःसरैः  ।  
@@ -289,9 +212,7 @@ For further information see:
 नमस्कारावमानांश्च सास्त्रान्सम्परिकल्पयेत्  ॥ स्वत्_१।८७ ॥  
   
 इति स्वच्छन्दतन्त्रे मन्त्रोद्धारप्रकाशनं नाम प्रथमः पटलः  
-  
-  
-  
+
 द्वितीयः पटलः  
   
 अथार्चनं प्रवक्ष्यामि यथावदनुपूर्वशः  ।  
@@ -889,8 +810,7 @@ For further information see:
 एवं होमानुसारेण साधको विधिसंस्थितः  ॥ स्वत्_२।२८८ ॥  
 पूजाहोमरतो नित्यं यान्यान्कामान्समीहते  ।  
 तांस्तान्स साधयत्येव भैरवस्य वचो यथा  ॥ स्वत्_२।२८९ ॥  
-  
-  
+
 इति श्रीस्वच्छन्दतन्त्रे द्वितीयः पटलः  
   
 तृतीयः पटलः  
@@ -1324,11 +1244,9 @@ For further information see:
 प्राश्यैवं सकलीकृत्य रक्षां पूर्ववदेव च  ॥ स्वत्_३।२१३ ॥  
 यागबूमौ स्वपेत् पाश्चाच् छिष्यैः सह वरानने  ।  
 भैरवध्यानयोगेन समाधौ जाग्रदेव वा  ॥ स्वत्_३।२१४ ॥  
-  
-  
+
 स्वच्छन्दतन्त्रे ऽधिवासपटलस्तृतीयः  
-  
-  
+
 चतुर्थः पटलः  
   
 अधिवासानन्तरभाविनीं दीक्षां प्रस्तावयितुं श्रीभैरव उवाच  
@@ -2427,8 +2345,7 @@ For further information see:
 अविवेकेन देवेशि सिद्धिर्मुक्तिर्ध्रुवं भवेत्  ॥ स्वत्_४।५४६ ॥  
   
 स्वच्छन्दतन्त्रे चतुर्थः पटलः  
-  
-  
+
 पञ्चमः पटलः  
   
 कलादीक्षा सुरेशान कथिता परमेश्वर  ।  
@@ -2607,12 +2524,9 @@ For further information see:
 वर्णमन्त्रपदाध्वानं कृत्वैवं शुद्ध्यति प्रिये  ।  
 एषा वै धारणादीक्षा कर्तव्या योगिनात्र तु  ॥ स्वत्_५।८७ ॥  
 मन्त्रसिद्धेन वा देवि कृता वै सुकृता भवेत्  ॥ स्वत्_५।८८ ॥  
-  
-  
+
 इति स्वच्छन्दतन्त्रे तत्त्वदीक्षाप्रकाशनं नाम पञ्चमः पटलः  
-  
-  
-  
+
 षष्ठः पटलः  
   
 समयाचारयुक्तस्य साधकस्य वरानने  ।  
@@ -2809,11 +2723,9 @@ For further information see:
 मन्त्राणां तर्पणार्थं च नत्यन्तं चार्चने स्मृतम्  ॥ स्वत्_६।९६ ॥  
 एतद्धि कथितं देवि साधकस्य सुमेधसः  ।  
 क्रियाकालांशयुक्तस्य अक्लेशात्तु सुखावहम्  ॥ स्वत्_६।९७ ॥  
-  
-  
+
 इति स्वच्छन्दतन्त्रे पञ्चप्रणवाधिकारः षष्ठः पटलः  
-  
-  
+
 सप्तमः पटलः  
   
 क्रिया ज्ञाता मया देव त्वत्प्रसादान्महेश्वर  ।  
@@ -3479,8 +3391,7 @@ For further information see:
 सर्वमेतत्समाख्यातम् अंशकांश्च निबोध मे  ॥ स्वत्_७।३३१ ॥  
   
 इति स्वच्छन्दतन्त्रे सप्तमः पटलः  
-  
-  
+
 अष्टमः पटलः  
   
 अंशकं षड्विधं देवि कथयाम्यनुपूर्वशः  ।  
@@ -3566,11 +3477,9 @@ For further information see:
 कथयस्व ऋषीणां च ऋषिभ्यो मनुजेष्वपि  ॥ स्वत्_८।३८ ॥  
 एवं तन्त्रवरं दिव्यं सिद्धरत्नकरण्डकम्  ।  
 त्वया गुप्ततरं कार्यं न देयं यस्य कस्यचित्  ॥ स्वत्_८।३९ ॥  
-  
-  
+
 इति स्वच्छन्दतन्त्रे ऽंशकाधिकारो ऽष्टमः पटलः समाप्तः  
-  
-  
+
 %% नवमः पटलः  
   
 अतः परं प्रवक्ष्यामि रहस्यमिदमुत्तमम्  ।  
@@ -3796,8 +3705,7 @@ For further information see:
 स्वच्छन्देनेति सर्वं हि परमेश्वरेण प्रवर्तितम्]  ॥ स्वत्_९।११० ॥  
   
 इति स्वच्छन्दतन्त्रे नवमः पटलः समाप्तः  
-  
-  
+
 दशमः पटलः  
   
 अध्वायं तु महादेव सूचितो न तु वर्णितः  ।  
@@ -6363,17 +6271,14 @@ For further information see:
 ज्ञात्वा चैवं महादेवि प्रयाति परमं पदम्  ।  
 देहे देवे च शिष्ये च कलशे ह्यग्निमध्यतः  ।  
 एवं ज्ञात्वा वरारोहे मुच्यते मोचयत्यपि  ॥ स्वत्_१०।१२८० ॥  
-  
-  
+
 इति स्वच्छन्दतन्त्रे दशमः पटलः समाप्तः  
-  
-  
+
 एकादशः पटलः  
   
 %% १२९ इस् अ २-पाद वेर्से  
 %% १५८ इस् अ ६-पाद वेर्से  
-  
-  
+
 श्रीदेव्युवाच  
 अध्वायं तु मया ज्ञातस् त्वत्प्रसादात् सुराधिप  ।  
 जगत्सृष्टिस्त्वया देव सूचिता न तु वर्णिता  ॥ स्वत्_११।१ ॥  
@@ -7370,9 +7275,7 @@ For further information see:
 एवं ज्ञात्वा च ध्यात्वा च सिद्ध्यते मुच्यते ऽपि च  ॥ स्वत्_१२।१६८ ॥  
   
 इति स्वच्छन्दतन्त्रे द्वादशः पटलः  
-  
-  
-  
+
 श्रीदेव्युवाच  
 सारं यदस्य तन्त्रस्य यागं तु परमेश्वर  ।  
 तमाख्याहि समासेन साधकानां हिताय वै  ॥ स्वत्_१३।१ ॥  
@@ -7466,11 +7369,9 @@ For further information see:
 भ्रामयेत् सव्यतः पुष्पं यस्य नाम्ना तु मन्त्रवित्  ।  
 स्वच्छन्दं जपमानस्तु तमाकर्षयते द्रुतम्  ।  
 अपसव्यं भ्रामयित्वा पुनस्तस्य विसर्जनम्  ॥ स्वत्_१३।४५ ॥  
-  
-  
+
 इति स्वच्छन्दतन्त्रे त्रयोदशः पटलः  
-  
-  
+
 श्रीभैरव उवाच  
 मुद्राणं लक्षणं वक्ष्ये अस्मिंस्तन्त्रे यथास्थितम्  ।  
 उत्तानमञ्जलिं कृत्वा कपालं परिकीर्तितम्  ॥ स्वत्_१४।१ ॥  
@@ -7530,8 +7431,7 @@ For further information see:
 वेदितव्यं प्रयत्नेन साधितव्यं महात्मना  ॥ स्वत्_१४।२८ ॥  
   
 इति स्वच्छन्दतन्त्रे चतुर्दशः पटलः  
-  
-  
+
 श्रीभैरव उवाच  
 जपध्यानादियुक्तस्य चर्याव्रतधरस्य च  ।  
 छुम्मकाः सम्प्रवक्ष्यामि साधकस्य वरानने  ॥ स्वत्_१५।१ ॥  
@@ -7609,12 +7509,6 @@ For further information see:
 यस्य सम्प्राशनाद्देवि वीरेशसदृशो भवेत्  ॥ स्वत्_१५।३७ ॥  
 तस्माद् ध्यानार्चने होमं जपम् च वरवर्णिनि  ।  
 कुर्वन्ति भावितात्मानस् ततः सिद्ध्यन्ति मन्त्रिणः  ॥ स्वत्_१५।३८ ॥  
-  
-  
+
 इति स्वच्छन्दतन्त्रे पञ्चदशः पटलः  
-  
-  
-  
-  
-  
-  
+

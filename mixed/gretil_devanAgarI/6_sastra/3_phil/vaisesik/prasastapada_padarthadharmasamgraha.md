@@ -3,15 +3,9 @@ title = "Prasastapada: Padarthadharmasamgraha"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Prasastapada: Padarthadharmasamgraha  
-  
-  
-  
-  
+
 Prasastapada: Padarthadharmasamgraha (commentary on Kanada's Vaisesikasutra)  
   
 The Prasastapadabhasya with Commentary Nyayakandali of Sridhara.  
@@ -23,74 +17,9 @@ Input by Muneo Tokunaga and Muroya
 [Compound is not analyzed into constiting words. Only word-boundary is marked by a dot.]   
   
 [Page/line number of the edition in brackets; e.g., "(48.7)" = p. 48, line 7.]  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 प्ध्स्_०।०                      प्रशस्तपादभाष्यम्।।  
   
 प्ध्स्_१।१अब्                    प्रणम्य।हेतुम्।ईश्वरम्।मुनिम्।कणादम्।अन्वतः।।  
@@ -415,8 +344,7 @@ For further information see:
 प्ध्स्_८।१२।१।४(१८४)            यत्।स्वयम्।अनुभूतेष्व्।अननुभूतेषु।वा।प्रसिद्धार्थेष्व्।अप्रसिद्धार्थेषु।वा।यच्।छुभावेदकम्।गजारोहणच्छत्त्रलाभादि।तत्।सर्वम्।सांस्काराधर्माभ्याम्।भवति।विपरीतम्।च।तैलाभ्यंजनखरोष्टारोहणादि।तत्।सर्वम्।अधर्मसंस्काराभ्याम्।भवति।।  
 प्ध्स्_८।१२।१।४(१८४)            अत्यन्ताप्रसिद्धार्थेष्व्।अदृष्टाद्।एवेति।।  
 प्ध्स्_८।१२।१।४(१८४)            स्वप्नान्तिकम्।यद्य्।अप्य्।उपरतेन्द्रियग्रामस्य।भवति।तथाप्य्।अतीतस्य।ज्ञानप्रबन्धस्य।प्रत्यवेक्षणात्।स्मृतिर्।एवेति।भवत्य्।एषा।चतुरिविधा।ऽविद्येति।॥  
-  
-  
+
 प्ध्स्_८।१२।२(१८६।६)            विद्यापि।चतुर्विधा।।।प्रत्यक्षलैङ्गिकस्मृत्यार्षलक्षणा।॥  
   
 प्ध्स्_८।१२।२।१(१८६।१२)         तत्राक्षम्।अक्षम्।प्रतीत्योत्पद्यते।प्रतक्षम्।[।५:।प्रतीत्य।यद्।उत्पद्यते।तत्।प्रत्यक्षम्।]।।  
@@ -606,11 +534,9 @@ For further information see:
                               वेणुपर्वविभागाद्।वेण्वाकाशविभागाच्।च।शब्दाच्।च।सम्योगविभागनिष्पन्नाद्वीचीसन्तानवच्।छब्दसन्तान।इत्य्।एवम्ण्।सन्तानेन।श्रोत्रप्रदेशम्।आगतस्य।ग्रहणम्।श्रोत्रशब्दयोर्।गमनागमनाभावाद्।अप्राप्तस्य।ग्रहणम्।नास्ति।प्ररिशेषात्।सन्तानसिद्धिर्।इति।॥  
   
 प्ध्स्_८।०(२८८।९)               प्रशस्तपादभाष्ये।गुणपदार्थः।समाप्तः।॥  
-  
-  
+
 *******************************************************************  
-  
-  
+
 प्ध्स्_९।०(२९०।१)               अथ।कर्मपदार्थनिरूपणम्।।  
   
 प्ध्स्_९।१(२९०।२)               उत्क्षेपणादीनाम्।पञ्चानाम्।अपि।कर्मत्वसम्बन्धः।।  
@@ -800,9 +726,4 @@ For further information see:
                               चक्रे।वैशेषिकम्।शास्त्रम्।तस्मै।कणभुजे।नमः।॥  
   
 प्ध्स्_०।०(३२६।९)               इति।प्रशस्तपादविरचितम्।द्रव्यादिषट्पदार्थभाष्यम्।समाप्तम्।॥  
-  
-  
-  
-  
-  
-  
+

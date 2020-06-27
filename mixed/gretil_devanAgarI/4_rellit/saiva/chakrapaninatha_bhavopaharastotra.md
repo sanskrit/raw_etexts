@@ -3,102 +3,27 @@ title = "Cakrapaninatha: Bhavopaharastotra"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Cakrapaninatha: Bhavopaharastotra  
-  
-  
-  
-  
-  
+
 Cakrapaninatha: Bhavopaharastotra  
 with Vivarana commentary by Ramyadeva Bhatta  
 Based on the ed. by Mukunda Ramashastri  
 Bombay : Tatva-vivechaka Press 1918  
 (Kashmir Series of Sanskrit Texts and Studies, 14)  
-  
-  
+
 Input by Somadeva Vasudeva,  
 2003  
-  
-  
+
 Bhāvopahārastotra of Cakrapāṇinātha  
-  
-  
+
 REFERENCE SYSTEM:  
 CakBhst_ = Cakrapaninatha: Bhavopaharastotra  
 Viv: = Vivarana comm.  
 Q: = quotation  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 विव्:   
 १। स्वविमर्शविकचकानन&समुन्मिषद्विषयकुसुमसंतत्या   
 करणेश्वरीभिर् अभितः & समर्चितो बोधभैरवो जयति   
@@ -449,8 +374,4 @@ For further information see:
 अनुग्रहैककारणं & नमाम्य् अहं गुरुक्रमम् ॥  
 योगानन्दाभिधानद्विजवरवदनायातपीठेशिदेवी&पादावद्योतिताज्ञप्रणयनजनितानन्तसोत्साहहर्षः ।  
 स्तोत्रे भावोपहारे विवरणम् अकरोद् रम्यदेवो द्विजन्मा &जन्माद्यायासभङ्गप्रवणमतिलसत्सद्रहस्योपदेशः ॥  
-  
-  
-  
-  
-  
+

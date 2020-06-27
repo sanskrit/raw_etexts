@@ -3,34 +3,34 @@ title = "Pancavimsabrahmana"
 
 +++
 ## Intro
-  
-  
-  
-  
+
+
+
+
 Pancavimsabrahmana  
-  
-  
-  
-  
-  
+
+
+
+
+
 Pancavimsabrahmana  
-  
+
 Input by Martin Kümmel, Arlo Griffiths and Masato Kobayashi  
 (March 31, 2005)  
-  
-  
-  
-  
+
+
+
+
 THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
 COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.   
-  
+
 Text converted to Unicode (UTF-8) with "underring" characters and Vedic accents.  
 (This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-  
+
 set to UTF-8.)  
-  
-  
-  
+
+
+
 description: multibyte sequence:  
 long a   ā     
 long A   Ā     
@@ -85,19 +85,19 @@ o udatta   ó
 o svarita   ò    
 accented ai =      aí / aì    
 accented au =      aú / aù    
-  
-  
+
+
 For a comprehensive list of GRETIL encodings and formats see:  
 http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
 and  
-  
+
 http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
 (PB 1.1.1)     om̐ mahan me voco bhargo me voco yaśo me vocaḥ stomaṃ me voco bhuktiṃ me vocaḥ sarvaṃ me vocas tan māvatu tan māviśatu tena bhukṣiṣīya  
 (PB 1.1.2)     devo devam etu somaḥ somam etv r̥tasya pathā  
 (PB 1.1.3)     vihāya dauṣkr̥tyam  
@@ -107,7 +107,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 (PB 1.1.7)     mr̥dā śithirā devānāṃ tīrthaṃ vedir asi mā mā him̐sīḥ  
 (PB 1.1.8)     viṣṇoḥ śiro 'si yaśodhā yaśo mayi dhehi  
 (PB 1.1.9)     iṣa ūrja āyuṣe varcase ca  
-  
+
 (PB 1.2.1)     yunajmi te pr̥thivīm agninā saha yunajmi vācam̐ saha sūryeṇa yukto vāto 'ntarikṣeṇa te saha yuktās tisro vimr̥jaḥ sūryasya  
 (PB 1.2.2)     r̥tasya sadane sīdāmi  
 (PB 1.2.3)     r̥tapātram asi  
@@ -117,7 +117,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 (PB 1.2.7)     vasavas tvā gāyatreṇa chandasā saṃ mr̥jantu rudrās tvā traiṣṭubhena chandasā saṃ mr̥jantv ādityās tvā jāgatena chandasā saṃ mr̥jantu  
 (PB 1.2.8)     pavitraṃ te vitataṃ brahmaṇaspate prabhur gātrāṇi pary eṣi viśvato 'taptatanūr na tad āmo aśnute śr̥tāsa id vahantaḥ saṃ tad āśataḥ  
 (PB 1.2.9)     praśukraitu devīmanīṣāsmad rathaḥ sutaṣṭo na vājy āyuṣe me pacasva varcase me pavasva viduḥ pr̥thivyā divo janitrāc chr̥ṇvantv āpo 'dhaḥ kṣarantīḥ somehodgāya mām āyuṣe mama brahmavarcasāya yajamānasyarddhyā amuṣya rājyāya  
-  
+
 (PB 1.3.1)     vekurānāmāsi juṣṭā devebhyo namo vāce namo vācas pataye devi vāg yat te vāco madhumat tasmin mā dhāḥ sarasvatyai svāhā  
 (PB 1.3.2)     sūryo mā divyābhyo nāṣṭrābhyaḥ pātu vāyur antarikṣābhyo 'gniḥ pārthivābhyaḥ svāhā  
 (PB 1.3.3)     yo 'dya saumyo vadho 'ghāyūnām udīrate viṣūkuhasya dhanvanāpa tān varuṇo 'pa dhamatu  
@@ -128,7 +128,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 (PB 1.3.8)     śyeno 'si gāyatracchandā anu tvā rabhe svasti mā saṃ pārayā mā stotrasya stotraṃ gamyād indravanto vanemahi bhakṣīmahi prajām iṣam  
 (PB 1.3.9)     saṃ varcasā payasā saṃ tapobhir aganmahi manasā sam̐ śivena saṃ vijñānena manasaś ca satyair yathā vo 'haṃ cārutamaṃ vadānīndro vo dr̥śe bhūyāsam̐ sūryaś cakṣuṣe vātaḥ prāṇāya somo gandhāya brahma kṣatrāya  
 (PB 1.3.10)     namo gandharvāya viṣvag vādine varcodhā asi varco mayi dhehi  
-  
+
 (PB 1.4.1)     adhvanām adhvapate svasti me 'dyāsmin devayāne pathi bhūyāt  
 (PB 1.4.2)     samrāḍ asi kr̥śānuḥ  
 (PB 1.4.3)     tutho 'si janadhāyo nabho 'si pratakvāsaṃmr̥ṣṭo 'si havyasūdanaḥ  
@@ -144,7 +144,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 (PB 1.4.13)     sagarā asi budhnyaḥ  
 (PB 1.4.14)     kavyo 'si kavyavāhanaḥ  
 (PB 1.4.15)     pāta māgnayo raudreṇānīkena piṣṭata mā namo vo 'stu mā mā him̐siṣṭa  
-  
+
 (PB 1.5.1)     r̥tasya dvārau stho mā mā saṃ tāptam  
 (PB 1.5.2)     namaḥ sakhibhyaḥ pūrvasadbhyo namo parasadbhyaḥ  
 (PB 1.5.3)     śyeno nr̥cakṣā agneṣ ṭvā cakṣuṣāva paśyāmi  
@@ -164,7 +164,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 (PB 1.5.17)     āyur me prāṇo mano 'si me prāṇa āyupatnyām r̥ci yan me mano yamaṃ gataṃ yad vā me aparāgatam̐ rājñā somena tad vayaṃ punar asmāsu dadhnasi  
 (PB 1.5.18)     yan me yamaṃ vaivasvataṃ mano jagāma dūragās tan ma āvartayā punar jīvātave na martave 'tho ariṣṭatātaye  
 (PB 1.5.19)     yenāhy ājim ajayad vicakṣya yena śyenam̐ śakunam̐ suparṇaṃ yad āhuś cakṣur aditāv anantam̐ somo nr̥cakṣā mayi tad dadhātu  
-  
+
 (PB 1.6.1)     aindram̐ saho 'sarji tasya ta indav indrapītasyendriyāvato 'nuṣṭupchandaso harivataḥ sarvagaṇasya sarvagaṇa upahūta upahūtasya bhakṣayāmi  
 (PB 1.6.2)     indav indrapītasya ta indriyāvato 'nuṣṭupchandasaḥ sarvagaṇasya sarvagaṇa upahūta upahūtasya bhakṣayāmi  
 (PB 1.6.3)     stutasya stutam asy ūrjasvat payasvad ā mā stotrasya strotraṃ. gamyād indravanto vanemahi bhakṣīmahi prajām iṣam  
@@ -182,7 +182,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 (PB 1.6.15)     ūrg asy ūrjam mayi dhehi  
 (PB 1.6.16)     prāṇa somapīthe me jāgr̥hi  
 (PB 1.6.17)     dadhikrāvṇo akāriṣaṃ jiṣṇor aśvasya vājinaḥ / surabhi no mukhā karat pra na āyūm̐ṣi tāriṣat  
-  
+
 (PB 1.7.1)     aśvo 'sy atyo 'si mayo 'si hayo 'si vājy asi saptir arvāg si vr̥ṣāsi  
 (PB 1.7.2)     ādityānāṃ patmānv ihi namas te 'stu mā mā him̐sīḥ  
 (PB 1.7.3)     vāyoṣ ṭvā tejasā prati gr̥hṇāmi nakṣatrāṇāṃ tvāṃ rūpeṇa prati gr̥hṇāmi sūryasya tvā varcasā prati gr̥hṇāmi  
@@ -192,7 +192,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 (PB 1.7.7)     gidaiṣa te ratha eṣa vām aśvinā ratho 'riṣṭo  viśvabheṣajaḥ  
 (PB 1.7.8)     kr̥śāno savyān ā yaccha  
 (PB 1.7.9)     dāsāno dakṣiṇān ava gr̥hāṇa  
-  
+
 (PB 1.8.1)     devasya tvā savituḥ prasave 'śvinor bāhubhyāṃ pūṣṇo hastābhyāṃ prati gr̥hṇāmi  
 (PB 1.8.2)     varuṇas tvā nayatu devi dakṣiṇe varuṇāyāśvaṃ tenāmr̥tatvam aśīya vayo dātre bhūyān mayo mahyaṃ pratigrahītre  
 (PB 1.8.3)     varuṇas tvā nayatu devi dakṣiṇe rudrāya gāṃ tayāmr̥tatvam aśīya vayo dātre bhūyān mayo mahyaṃ pratigrahītre  
@@ -210,7 +210,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 (PB 1.8.15)     varuṇas tvā nayatu devi dakṣiṇe kṣetrapataye tilamāṣās tair amr̥tatvam aśīya vayo dātre bhūyān mayo mahyaṃ pratigrahītre  
 (PB 1.8.16)     varuṇas tvā nayatu devi dakṣiṇe savitre 'śvataraṃ vāśvatarīṃ vā tayāmr̥tatvam aśīya vayo dātre bhūyān mayo mahyaṃ pratigrahītre  
 (PB 1.8.17)     ka idaṃ kasmā adāt kāmaḥ kāmāyādāt kāmo dātā kāmaḥ pratigrahītā kāmaḥ samudram āviśat kāmena tvā prati gr̥hṇāmi kāmaitat te  
-  
+
 (PB 1.9.1)     raśmir asi kṣayāya tvā kṣayaṃ jinva savitr̥prasūtā br̥haspataye stuta  
 (PB 1.9.2)     pretir asi dharmaṇe tvā dharmaṃ jinva savitr̥prasūtā br̥haspataye stuta  
 (PB 1.9.3)     anvitir asi dive tvā divaṃ jinva savitr̥prasūtā br̥haspataye stuta  
@@ -223,7 +223,7 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 (PB 1.9.10)     praketo 'si rudrebhyas tvā rudrān jinva savitr̥prasūtā br̥haspataye stuta  
 (PB 1.9.11)     sudītir asy ādityebhyas tvādityān jinva savitr̥prasūtā br̥haspataye stuta  
 (PB 1.9.12)     ojo 'si pitr̥bhyas tvā pitr̥̄n jinva savitr̥prasūtā br̥haspataye stuta  
-  
+
 (PB 1.10.1)     tantur asi prajābhyas tvā prajā jinva savitr̥prasūtā br̥haspataye stuta  
 (PB 1.10.2)     rodasy asy oṣadhībhyas tvauṣadhīr jinva savitr̥prasūtā br̥haspataye stuta  
 (PB 1.10.3)     pr̥tanāṣāḍ asi paśubhyas tvā paśūn jinva savitr̥prasūtā br̥haspataye stuta  
@@ -236,18 +236,18 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 (PB 1.10.10)     niroho 'si nirohāya tvā sam̐roho 'si sam̐rohāya tvā praroho 'si prarohāya tvānuroho 'sy anurohāya tvā savitr̥prasūtā br̥haspataye stuta  
 (PB 1.10.11)     vasuko 'si vasyaṣṭir asi veṣaśrīr asi savitr̥prasūtā br̥haspataye stuta  
 (PB 1.10.12)     ākramo 'sy ākramāya tvā saṃkramo 'si saṃkramāya tvotkramo 'sy utkramāya tvotkrāntir asy utkrāntyai tvā savitr̥prasūtā br̥haspataye stuta  
-  
+
 (PB 2.1.1)     tisr̥bhyo hiṅ karoti sa prathamayā tisr̥bhyo hiṅ karoti sa madhyamayā tisr̥bhyo hiṅ karoti sa uttamayodyatī trivr̥to viṣṭutiḥ  
 (PB 2.1.2)     jyeṣṭho jyaiṣṭhineya stuvīta  
 (PB 2.1.3)     agrād agram̐ rohaty abhikrāmantī viṣṭutir abhikrāmantyā evābhikrāntena hi yajñasyardhnoti tasmād etayā stotavyam r̥ddhyā eva  
 (PB 2.1.4)     pāpavasīyaso vidhr̥tir vipāpmanā vartate ya etayā stute nāvagato 'pa rudhyate nāparuddho 'va gacchati / na śreyām̐saṃ pāpīyān abhyā rohati na janatā janatām abhy eti nānyo 'nyasya prajā ā dadate yathākṣetraṃ kalpante / avarṣukas tu parjanyo bhavatīme hi lokās tr̥cas tān hiṅkāreṇa vy eti  
 (PB 2.1.5)     eṣā vai pratiṣṭhitā trivr̥to viṣṭutiḥ prati tiṣṭhati ya etayā stute  
-  
+
 (PB 2.2.1)     tisr̥bhyo hiṅ karoti sa parācībhis tisr̥bhyo hiṅ karoti sa parācībhis tisr̥bhyo hiṅ karoti sa parācībhiḥ parivartinī triviṣṭutiḥ  
 (PB 2.2.2)     praparīvartam āpnoti ya etayā stute saṃtatā viṣṭutiḥ prāṇo 'pāno vyānas ta r̥cas tān hiṅkāreṇa saṃ tanoti / sarvam āyur eti na purāyuṣaḥ pra mīyate ya etayā stute varṣukaḥ parjanyo bhavatīme hi lokās tr̥cas tān hiṅkāreṇa saṃ dadhāti  
 (PB 2.2.3)     ślakṣṇeva tu vā īśvarā paśūn nirmr̥jaḥ saiṣā ca parācota śreyān bhavaty uta yādr̥ṅ eva tādr̥ṅ net tu pāpīyān  
 (PB 2.2.4)     tām etāṃ bhāllavaya upāsate tasmāt te pratigr̥ṇantaḥ parīvartān na cyavante  
-  
+
 (PB 2.3.1)     tisr̥bhyo hiṅ karoti sa parācībhis tisr̥bhyo hiṅ karoti yā madhyamā sā prathamā yottamā sā madhyamā yā prathamā sottamā tisr̥bhyo hiṅ karoti yottamā sā prathamā yā prathamā sā madhyamā yā madhyamā sottamā kulāyinī trivr̥to viṣṭutiḥ  
 (PB 2.3.2)     prajākāmo vā paśukāmo vā stuvīta vai kulānāyapaśavaḥ kulāyaṃ-kulāyam eva bhavati  
 (PB 2.3.3)     etām evānujāvarāya kuryād etāsām evāgraṃ pariyatīnāṃ prajānā[m] agraṃ pary eti  
@@ -255,19 +255,19 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 (PB 2.3.5)     varṣukaḥ parjanyo bhavatīme hi lokās tr̥cas tān hiṅkāreṇa vyati ṣajati  
 (PB 2.3.6)     pāpavasīyasaṃ tu bhavati  
 (PB 2.3.7)     adharottaram apāvagato rudhyateva gacchaty aparuddhaḥ pāpīyān śreyām̐sam abhyā rohati janatā janatām abhy ety anyo 'nyasya prajā ā dadate na yathākṣetraṃ kalpante  
-  
+
 (PB 2.4.1)     pañcabhyo hiṅ karoti sa tisr̥bhiḥ sa ekayā sa ekayā pañcabhyo hiṅ karoti sa ekayā sa tisr̥bhiḥ sa ekayā pañcabhyo hiṅ karoti sa ekayā sa ekayā sa tisr̥bhiḥ pañcapañcinī pañcapañcadaśasya viṣṭutiḥ  
 (PB 2.4.2)     pāṅktaḥ puruṣaḥ pāṅktāt paśavas tayā puruṣaṃ ca paśūm̐ś cāpnoti vajro vai pancapaśo yat pañca-pañca vyūhati vajram eva tad vy ūhati śāntyā eṣā vai pratiṣṭhitā pañcadaśasya viṣṭutiḥ prati tiṣṭhati ya etayā stute  
-  
+
 (PB 2.5.1)     pañcabhyo hiṅ karoti sa tisr̥bhiḥ sa ekayā tisr̥bhyo hiṅ karoti sa parācībhiḥ saptabhyo hiṅ karoti sa ekayā sa tisr̥bhiḥ sa tisr̥bhis  
 (PB 2.5.2)     trīn stomān prativihitā brahmavarcasakāmaḥ stuvīta  
 (PB 2.5.3)     pañcabhiḥ pañcadaśaṃ tisr̥bhis trivr̥tam̐ saptabhiḥ saptadaśam  
 (PB 2.5.4)     vīryaṃ vai stomā vīryam eva tad ekadhā samūhate brahmavarcasyāvaruddhyai tejasvī brahmavarcasī bhavati ya etayā stute  
-  
+
 (PB 2.6.1)     tisr̥bhyo hiṅ karoti sa parācībhiḥ pañcabhyo hiṅ karoti sa ekayā sa tisr̥bhiḥ sa ekayā saptabhyo hiṅ karoti sa ekayā sa tisr̥bhiḥ sa tisr̥bhir udyatī pañcadaśasya viṣṭutiḥ  
 (PB 2.6.2)     etayā vai devāḥ svargaṃl lokam āyan svargakāmaḥ stuvīta svargasya lokasya samaṣṭyai svargāl lokān na cyavate tuṣṭuvānaḥ  
 (PB 2.6.3)     abhikrāmantī viṣṭutir abhikrāmantyā evābhikrāntena hi yajñasyardhnoti tasmād etayā stotavyam r̥ddhyā eva  
-  
+
 (PB 2.7.1)     pañcabhyo hiṅ karoti sa tisr̥bhiḥ sa ekayā sa ekayā pañcabhyo hiṅ karoti sa ekayā sa tisr̥bhiḥ sa ekayā saptabhyo hiṅ karoti sa ekayā sa tisr̥bhiḥ sa tisr̥bhir daśasaptā saptadaśasya viṣṭutiḥ  
 (PB 2.7.2)     etayā vai devā asurān aty akrāmann ati pāpmānaṃ bhrātr̥vyaṃ krāmati ya etayā stute  
 (PB 2.7.3)     abhikrāmantī viṣṭutir abhikrāmantyā evābhikrāntena hi yajñasyardhnoti tasmād etayā stotavyam r̥ddhyā eva  

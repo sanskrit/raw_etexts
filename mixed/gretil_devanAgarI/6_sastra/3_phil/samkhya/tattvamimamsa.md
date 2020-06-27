@@ -3,91 +3,18 @@ title = "Tattvamimamsa"
 
 +++
 ## Intro
-  
-  
-  
-  
- Tattvamimamsa   
-  
-  
-  
-  
+
+Tattvamimamsa   
+
 Tattvamimamsa  
 Based on the ed. by Vindhyesvari Prasada Dvivedin in: Sāmkhyasaṅgrahaḥ  
 Varanasi : The Chowkhamba Sanskrit Series Office 1920    
 (Chowkhamba Sanskrit Series, 50,1 [fasc. 286], pp. 179-196)  
-  
-  
+
 Input by Dhaval Patel  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 तत्त्वमीमांसा  ।  
   
 सुखैकविषया भूतानां प्रवृत्तिः  ।  सुखं च सति दुःखहेतावसम्भवति  ।  अतो भवति दुःखाभिघातके जिज्ञासा सा च तत्त्वज्ञानात्  ।  अतस्तत्त्वमत्र निरूप्यते  ।  ननु त्रिविधं दुःखम् आध्यात्मिकमाधिदैविकमाधिभौतिकं च  ।  तत्राध्यात्मिकं द्विविधं शारीरं मानसञ्च  ।  शारीरं वातपित्तश्लेष्मणां वैषम्यनिमित्तं मानसं कामक्रोधादिनिबन्धनम्  ।  आधिभौतिकं मानुषपशुपक्ष्यादिनिमित्तम्  ।  आधिदैविकं यक्षराक्षसग्रहाद्यावेशनिबन्धनम्  ।  तेषां चैषां लौकिकैरेवोपायैः प्रतीकारः शक्यते  ।  तथा हि शारीरस्यौषधादिभिः मानसस्य मनोज्ञस्त्रीपानभोजनवस्त्रालङ्कारादिप्राप्त्या आधिभौतिकस्य नीतिशास्त्राभ्याससुस्थानोपवेशादिना आधिदैविकस्य मणिमन्त्राद्युपयोगेनेति सुकर उपायः तत्त्वज्ञानं त्वनेकजन्मरपराभ्याससाध्यम्  ।  तथा च लौकिकानामाभाणकः  ।  
@@ -117,7 +44,4 @@ For further information see:
                                                                         फलाभावे ऽपि निर्गुणे उपकारिण्यपि पुरुषे प्रकृतिस्तपस्विनी प्रवर्तते एव यथाहि गुणवानुपकार्यपि भृत्यो निर्गुणे उपकारिण्यपि स्वामिनि निष्फलाराधनः  ।  यद्यपि नाट्यान्निवृत्तो ऽपि नटः कालान्तरे पुनरपि प्रवर्तते एवं मुक्तं प्रति प्रकृतिस्तु न पुनः प्रवर्तते यथाहि विगलितवसना कुलवधूः कदाचित्केनचिद्दृष्टा चेत्तदासौ तथा यतते यथा न पुरुषान्तराणि पश्यन्ति एवं प्रकृतिरपि विवेकेन साक्षात्कृता ऽतिलज्जावशात्पुनः स्वात्मानं न प्रदर्शयति  ।  ननु सवासनक्लेशकर्माशयानां बन्धनसंज्ञितानामप्यपरिणामिनि पुरुषे ऽसम्भवात्कथं मोक्षः मुचेर्बन्धनविश्लेषार्थत्वात्  ।  अत एव न संसारो ऽपि सम्भवति निष्क्रियत्वात्  ।  मैवम्  ।  यथाहि भृत्यगतौ जयपराजयौ स्वामिन्युपचर्येते एवं प्रकृतिगतयोरपि भोगापवर्गयोर्विवेकाग्रहात्पुरुषे उपचारः  ।  तत्र धर्माधर्माज्ञानवैराग्यावैराग्यैश्वर्यानैश्वर्यरूपैः सप्तभिर्भावैर्बध्नाति तत्त्वज्ञानेन तु मोचयति  ।  एवं च कृतादस्मात्तत्त्वाभ्यासान्नास्मि न मे नाहमिति शुद्धमुत्पद्यते ज्ञानं यद्विषयो अभ्यासस्तं साक्षात्कारयतीति  ।  नास्मीत्यनेन क्रियामात्रन्निषिध्यते अस्तेः क्रियार्थत्वात्  ।  नाहमित्यनेन कर्तृत्वं न मे इत्यनेन स्वामित्वं निषिध्यते  ।  भोगविवेकसाक्षात्कारौ प्रकृतेः प्रसोतव्यौ तौ च प्रसूताविति निवृत्ता प्रकृतिस्तां निष्क्रियः स्वच्छपुरुषः पश्यति प्रकृतिपुरुषयोरसंसर्गे ऽप्यविवेकख्यातिनिबन्धनः संसारः पुनर्न भवति इति  ।  अन्ते तत्त्वज्ञानस्य तदानीमेव शरीरपातस्तु न भवति  ।  यथाहि निवृत्ते कुलालव्यापारे संस्कारवशात् चक्रं भ्रमत्तिष्ठति एवं संस्कारवशात् शरीरमपि शरीरपातानन्तरं तु प्रधानस्य निवृत्तत्वादात्यन्तिकमपि दुःखं नश्यति दुःखाभावरूपं कैवल्यमाप्नोति  ॥   
   
 इति श्रीमद्देवीदत्तात्मजगमसेवकसून्वाचार्यकृष्णमित्रकृता तत्त्वमीमांसा समाप्ता  ॥  
-  
-  
-  
-  
+

@@ -3,101 +3,26 @@ title = "Mammata: Kavyaprakasa"
 
 +++
 ## Intro
-  
-  
-  
-  
- Mammata: Kavyaprakasa   
-  
-  
-  
-  
+
+Mammata: Kavyaprakasa   
+
 Mammata: Kavyaprakasa  
 Based on the ed. by Ganganatha Jha: Kāvyaprakāśa of Mammaṭa, with English translation,   
 rev. ed., Varanasi : Bharatiya Vidya Prakaśan, 1967 (2 parts).  
 With occasional corrections according to the ed. by N.S. Venkatanathacharya: The Kavyaprakasha of Mammata,  
 with Sanketa of Acharya Manikyachandra, Madhumati of Ravi Bhattacharya and Bhavukapriya tippani,  
 Mysore : Oriental Research Institute, 1974 (2 vols).  
-  
-  
+
 Input by Masahiro Takano  
-  
-  
+
 NOTE:  
 Underbar(_) used to mark hiatus in Prakrit is not to be confused with sandhi.  
   
 BOLD for kārikās  
 ITALICS for references  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
+
 काव्यप्रकाशः  
   
 प्रथम उल्लासः  
@@ -747,8 +672,7 @@ For further information see:
      {चित्रं महानेष बतावतारः क्व कान्तिरेषाभिनवैव भङ्गिः ।  
      लोकोत्तरं धैर्यमहो प्रभावः काप्याकृतिर्नूतन एष सर्गः ॥४३॥}  
                     (श्रिवत्सलाञ्छनाचार्यऽस् काव्यपरीक्षा २९)  
-  
-  
+
 एषां स्थायिभावानाह----  
   
 रतिर्हासश्च शोकश्च क्रोधोत्साहौ भयं तथा  ।  
@@ -792,8 +716,7 @@ For further information see:
      {कण्ठकोणविनिविष्टमीश ते कालकूटमपि मे महामृतम् ।  
      अप्युपात्तममृतं भवद्वपुर्भेदवृत्ति यदि मे न रोचते ॥४५॥}  
                     (उत्पलराज, उत्पलराजीय)  
-  
-  
+
      {हरत्यघं संप्रति हेतुरेष्यतः शुभस्य पूर्वाचरितैः कृतं शुभैः ।  
      शरीरभाजां भवदीयदर्शनं व्यनक्ति कालत्रितये ऽपि योग्यताम् ॥४६॥}  
                     (माघऽस् सिशुपालवध १।२६)  
@@ -837,8 +760,7 @@ For further information see:
      इत्युक्ते क्व तदित्युदीर्य सहसा तत् संप्रमार्ष्टुं मया  
           साश्लिष्टा(च्x: संश्लिष्टा) रभसेन तत्सुखवशात्तन्व्या च तद्विस्मृतम् ॥५०॥}  
                     (अमरुशतक २६)  
-  
-  
+
 अत्र कोपस्य ।  
   
      {एकस्मिञ् शयने विपक्षरमणीनामग्रहे मुग्धया  
@@ -2450,8 +2372,7 @@ For further information see:
      तदिति जनकपुत्री लोचनैरश्रुपूर्णैः  
           पथि पथिकवधूभिर्वीक्षिता शिक्षिता च ॥२२६॥}  
                     (राजशेखरऽस् बालरामायण ६।३६)  
-  
-  
+
 (१२) अभवन् मतः (इष्टः) योगः (संबन्धः) यत्र तत् । यथा  
   
      {येषां तास्त्रिदशेभदानसरितः पीताः प्रतापोष्मभि-  
@@ -3957,8 +3878,7 @@ For further information see:
      {अरिवधदेहशरीरः सहसा रथिसूततुरगपादातः ।  
      भाति सदानत्यागः स्थिरतायामवनितलतिलकः ॥३८९॥}  
                     (उद्भटऽस् काव्यालङ्कारसारसङ्ग्रह १)  
-  
-  
+
      {चकासत्यङ्गनारामाः कौतुकानन्दहेतवः ।  
      तस्य राज्ञः सुमनसो विबुधाः पार्श्ववर्तिनः ॥३९०॥}  
                     (श्रिवत्सलाञ्छनाचार्यऽस् काव्यपरीक्षा २०७)  
@@ -4035,8 +3955,7 @@ For further information see:
      {धन्यस्यानन्यसामान्यसौजन्योत्कर्षशालिनः ।  
      करणीयं वचश्चेतः सत्यं तस्यामृतं यथा ॥३९७॥}  
                     (गोविन्दठक्कुरऽस् काव्यप्रदीप)  
-  
-  
+
      {आकृष्टकरवालो ऽसौ संपराये परिभ्रमन् ।  
      प्रत्यर्थिसेनया दृष्टः कृतान्तेन समः प्रभुः ॥३९८॥}  
                     (गोविन्दठक्कुरऽस् काव्यप्रदीप)  
@@ -5759,8 +5678,4 @@ For further information see:
 ॥ समाप्तश्चायं काव्यप्रकाशः ॥  
   
 ॥ समाप्तो ऽयं ग्रन्थः ॥  
-  
-  
-  
-  
-  
+

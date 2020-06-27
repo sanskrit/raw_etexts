@@ -3,21 +3,13 @@ title = "Nagarjuna: Dharmadhatugarbhavivarana"
 
 +++
 ## Intro
-  
-  
-  
-  
- Nagarjuna: Dharmadhatugarbhavivarana   
-  
-  
-  
-  
+
+Nagarjuna: Dharmadhatugarbhavivarana   
+
 Nagarjuna: Dharmadhatugarbhavivarana  
 Based on the ed. by Gyaltsen Namdrol: Pratityasamutpada hrdaya and Dharmadhatugarbhavivarana,  
 Sarnath : Central Institute of Higher Tibetan Studies 1997  
-  
-  
-  
+
 Input by members of the Sanskrit Buddhist Input Project.  
 With kind permission of the Digital Sanskrit Buddhist Canon Project  
 of Nagarjuna Institute, Nepal  
@@ -25,81 +17,12 @@ and University of the West, Rosemead, California, USA
 (www.uwest.edu/sanskritcanon)  
 Version: 2009-03-18 16:24:23  
 Proof Reader: Milan Shakya  
-  
-  
-  
+
 The transliteration emulates the conventions of Nagari script.  
 Therefore, many word boundaries are not marked by blanks.  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
+
 आचार्य नागार्जुनपादविरचितम्  
 आर्यधर्मधातुगर्भविवरणम्  
   
@@ -131,8 +54,4 @@ For further information see:
 भारतीयोपाध्यायेन ज्ञानगर्भेण ऽमहालोचावा वन्दे पलचेक्महाभागेन चानूद्य संशोध्य च सुनिर्णीतम् ।  
   
 ॥ भवतु सर्वमङ्गलम् ॥  
-  
-  
-  
-  
-  
+

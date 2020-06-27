@@ -3,15 +3,9 @@ title = "Aryabhatiya"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Aryabhatiya  
-  
-  
-  
-  
+
 Aryabhatiya  
 ====================================================  
 Digitalized by T. Hayashi, 18 June 1992.  
@@ -21,74 +15,9 @@ Revised 29 June 1993.
 Notation (local rule)  
 The symbol @ indicates a verb.  
 ====================================================  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 दश-गीतिका-पाद  
   
 अब् १।१अ। @प्रणिपत्य %एकम् अनेकम् कम् सत्याम् देवताम् परम् ब्रह्म।  
@@ -142,8 +71,7 @@ For further information see:
 अब्_१।१३अ। %दश-गीतिक-सूत्रम् इदम् भू-ग्रह-चरितम् भ-पञ्जरे @ज्ञात्वा।  
   
 अब्_१।१३च्। ग्रह-भ-गण-परिभ्रमणम् सस् @याति @भित्त्वा परम् ब्रह्म॥  
-  
-  
+
 गणित-पाद  
   
 अब् २।१अ। ब्रह्म-कु-शशि-बुध-भृगु-रवि-कुज-गुरु-कोण-भ-गणान् @नमस्-कृत्य।  
@@ -277,8 +205,7 @@ For further information see:
 अब्_२।३३अ। अधस्-उपरि-गुणितम् अन्त्य-युज्-ऊन-अग्र-छेद-भाजिते शेषम्।  
   
 अब्_२।३३च्। अधिक-अग्र-छेद-गुणम् %द्वि-छेद-अग्रम् अधिक-अग्र-युतम्॥  
-  
-  
+
 काल-क्रिया-पाद  
   
 अब् ३।१अ। वर्षम्  %द्वादश-मासास् %त्रिंशत्-दिवसस् @भवेत् सस् मासस् तु।  
@@ -379,8 +306,7 @@ For further information see:
 अब्_३।२५अ। भू-तारा-ग्रह-विवरम् व्यास-%अर्ध-हृतस् स्व-कर्ण-संवर्गस्।  
   
 अब्_३।२५च्। कक्ष्यायाम् ग्रह-वेगस् यस् @भवति सस् मन्द-नीच-उच्चे॥  
-  
-  
+
 गोल-पाद  
   
 अब् ४।१अ। मेष-आदेस् कन्या-अन्तम् समम् उदच्-अपमण्डल-%अर्धम् अपयातम्।  
@@ -581,7 +507,4 @@ For further information see:
 अब्_४।५०अ। आर्यभटीयम् नाम्ना पूर्वम् स्वायम्भुअवम् सदा नित्यम्।  
   
 अब्_४।५०च्। सु-कृत-आयुषोस् प्रणाशम् @कुरुते प्रतिकञ्चुकम् यस् अस्य॥  
-  
-  
-  
-  
+

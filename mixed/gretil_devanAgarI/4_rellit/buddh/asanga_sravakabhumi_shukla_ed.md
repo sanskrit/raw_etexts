@@ -3,113 +3,32 @@ title = "Asanga: Sravakabhumi (Shukla ed.)"
 
 +++
 ## Intro
-  
-  
-  
-  
- Asanga: Sravakabhumi (Shukla ed.)   
-  
-  
-  
-  
+
+Asanga: Sravakabhumi (Shukla ed.)   
+
 Asanga: Sravakabhumi  
 Based on the ed. by Karunesha Shukla: Sravakabhumi of Acarya Asanga,  
 Patna : K.P. Jayaswal Research Institute, 1973  
 (Tibetan Sanskrit Works Series, 14 and 28)  
-  
-  
+
 Input and proof-reading by Ms. Anula Shakya, 2008  
-  
-  
+
 With kind permission of the Digital Sanskrit Buddhist Canon Project  
 of Nagarjuna Institute of Exact Methods, Nepal  
 and University of the West, Rosemead, California, USA  
 (www.uwest.edu/sanskritcanon)  
-  
-  
-  
+
 The transliteration emulates the conventions of Nagari script.  
 Therefore, many word boundaries are not marked by blanks.  
-  
-  
+
 CONVENTIONS of this GRETIL version:  
 - gemination after "r" has been dropped (e.g., "rvv" -> "rv")  
 - "ṃḍ" has been replaced by "ṇḍ"  
-  
-  
+
 BOLD for pagination of Shukla's edition (added)  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
 श्रावकभूमिः  
   
 (श्भ्_स्ह्: ५)  
@@ -843,8 +762,7 @@ For further information see:
 सुभरता धुतप्राणादिकमात्रता क्षान्ति[ः] सौरभ्यपेशला ॥  
   
 ॥ योगाचारभूमौ श्रावकभूमिसंगृहीतायां प्रथमं योगस्थानं ॥  
-  
-  
+
 (श्भ्_स्ह्: १६७)  
 (श्भ्_स्ह्: १६८)  
 (श्भ्_स्ह्: १६९)  
@@ -1633,8 +1551,7 @@ For further information see:
 करणीयं भावना च फलं पुद्गलपर्यायः ॥  
 मारश्च मारकर्माणि आरम्भो विफलो भवेत् ॥  
 ॥ योगाचारभूमौ श्रावकभूमिसंगृहीतायां द्वितीयं योगस्थानम् ॥  
-  
-  
+
 (श्भ्_स्ह् ३४९)  
 (श्भ्_स्ह् ३५०)  
 (श्भ्_स्ह् ३५१)  
@@ -2198,7 +2115,4 @@ For further information see:
   
 ॥ श्रावकभूमौ चतुर्थं योगस्थानम् ॥  
 ॥ समाप्ता श्रावकभूमिः ॥  
-  
-  
-  
-  
+

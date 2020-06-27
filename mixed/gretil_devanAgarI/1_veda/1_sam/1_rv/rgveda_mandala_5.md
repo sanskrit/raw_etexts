@@ -3,97 +3,20 @@ title = "Rgveda, Mandala 5"
 
 +++
 ## Intro
-  
-  
-  
-  
- Rgveda, Mandala 5   
-  
-  
-  
-  
+
+Rgveda, Mandala 5   
+
 Rgveda, Mandala 5  
 Based on the edition by Th. Aufrecht: Die Hymnen des Rig Veda, 2nd ed., Bonn 1877,  
 digitized by Barend A. Van Nooten and Gary B. Holland.  
-  
-  
+
 Revised and converted by Detlef Eichler.  
 (http://www.detlef108.de/Rigveda.htm)  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 Ṛग्वेद ५  
-  
-  
-  
-  
-  
-  
+
 र्व्_५,००१।०१अ अबोध्य् अग्निः समिधा जनानाम् प्रति धेनुम् इवायतीम् उषासम् ।  
 र्व्_५,००१।०१च् यह्वा इव प्र वयाम् उज्जिहानाः प्र भानवः सिस्रते नाकम् अच्छ ॥  
 र्व्_५,००१।०२अ अबोधि होता यजथाय देवान् ऊर्ध्वो अग्निः सुमनाः प्रातर् अस्थात् ।  
@@ -1627,10 +1550,4 @@ For further information see:
 र्व्_५,०८७।०८च् विष्णोर् महः समन्यवो युयोतन स्मद् रथ्यो न दंसनाप द्वेषांसि सनुतः ॥  
 र्व्_५,०८७।०९अ गन्ता नो यज्ञं यज्ञियाः सुशमि श्रोता हवम् अरक्ष एवयामरुत् ।  
 र्व्_५,०८७।०९च् ज्येष्ठासो न पर्वतासो व्योमनि यूयं तस्य प्रचेतसः स्यात दुर्धर्तवो निदः ॥  
-  
-  
-  
-  
-  
-  
-  
+

@@ -3,16 +3,9 @@ title = "Vamana: Kavyalamkara"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Vamana: Kavyalamkara  
-  
-  
-  
-  
-  
+
 Vamana: Kavyalamkara (sutras without commentary)  
 Based on the ed. by Narayanarama, Delhi : Motilal Banarsidas, 1983.  
   
@@ -22,12 +15,9 @@ Svavṛttisamalaṅkṛtāni
 śrīNārāyaṇarāma ācārya Kāvyatīrtha ityetaiṣ ṭippaṇyādibhiḥ  
 samalaṅkṛtya saṃśodhitāni  
 Delhi : Motilal Banarsidasa, 1983  
-  
-  
-  
+
 Input by Masahiro Takano  
-  
-  
+
 =================================================  
   
 An Asterisk mark in the end of line means  
@@ -38,76 +28,9 @@ that comma or semicolon is used in the original.
 REFERENCE SYSTEM:  
   
 VKal_n,n.n = [adhikaraṇa],[adhyaya].[sutra]  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
+
 पाण्डितवरश्रीवामनविरचितानि  
 काव्यालङ्कारसूत्राणि  
 स्ववृत्तिसमेतानि  
@@ -128,9 +51,7 @@ For further information see:
 काव्यं सद्दृष्टादृष्टार्थम्, प्रीतिकीर्तिहेतुत्वात् ॥ व्कल्_१,१।५ ॥*  
   
 --------------------  
-  
-  
-  
+
 द्वितीयो ऽध्यायः ।  
   
 अरोचकिनः सतृणाभ्यवहारिणश्च कवयः ॥ व्कल्_१,२।१ ॥  
@@ -157,9 +78,7 @@ For further information see:
 सापि वैदर्भी, तात्स्थ्यात् ॥ व्कल्_१,२।२२ ॥*  
   
 --------------------  
-  
-  
-  
+
 तृतीयो ऽध्यायः ।  
   
 लोको विद्या प्रकीर्ण च काव्याङ्गानि ॥ व्कल्_१,३।१ ॥  
@@ -227,9 +146,7 @@ For further information see:
 अन्त्याभ्यां वाक्यं व्याख्यातम् ॥ व्कल्_२,१।२२ ॥  
   
 --------------------  
-  
-  
-  
+
 द्वितीयो ऽध्यायः ।  
   
 भिन्नवृत्तयतिभ्रष्टविसंधीनि वाक्यानि ॥ व्कल्_२,२।१ ॥  
@@ -294,9 +211,7 @@ For further information see:
 न पाठधर्माः, सर्वत्रादृष्टेः ॥ व्कल्_३,१।२७ ॥*  
   
 --------------------  
-  
-  
-  
+
 द्वितीयो ऽध्यायः ।  
   
 त एवार्थगुणाः ॥ व्कल्_३,२।१ ॥  
@@ -334,9 +249,7 @@ For further information see:
 पादानुप्रासः पादयमकवत् ॥ व्कल्_४,१।१० ॥  
   
 --------------------  
-  
-  
-  
+
 द्वितीयो ऽध्यायः ।  
   
 उपमानेनोपमेयस्य गुणलेशतः साम्यमुपमा ॥ व्कल्_४,२।१ ॥  
@@ -362,9 +275,7 @@ For further information see:
 न विरुद्धो ऽतिशयः ॥ व्कल्_४,२।२१ ॥  
   
 --------------------  
-  
-  
-  
+
 तृतीयो ऽध्यायः ।  
   
 प्रतिवस्तुप्रभृतिरुपमाप्रपञ्चः ॥ व्कल्_४,३।१ ॥  
@@ -428,9 +339,7 @@ For further information see:
 स्तनादीनां द्वित्वाविष्टा जातिः प्रायेण ॥ व्कल्_५,१।१७ ॥  
   
 --------------------  
-  
-  
-  
+
 द्वितीयो ऽध्यायः ।  
   
 रुद्रावित्येकशेषो ऽन्वेष्यः ॥ व्कल्_५,२।१ ॥  
@@ -527,8 +436,4 @@ For further information see:
 समाप्तं चेदं प्रायोगिकं पञ्चमधिकरणम् ।  
   
 समाप्तो ऽयं ग्रन्थः  ॥  
-  
-  
-  
-  
-  
+

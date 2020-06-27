@@ -3,126 +3,51 @@ title = "Yamunacarya: Samvitsiddhi"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Yamunacarya: Samvitsiddhi  
-  
-  
-  
-  
-  
+
 Yamunacarya: Samvitsiddhi  
 Based on the ed. by Roque Mesquita  
 Wien : Verlag der Oesterreichischen Akademie der Wissenschaften, 1988  
-  
+
 Input by Somadeva Vasudeva   
 Oxford, 5/11/00  
-  
-  
+
 TEXT WITH PADA MARKERS  
 Line numbering follows ed.  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
+
 अनल्य्तिच् वेर्सिओन् अच्चोर्दिन्ग् तो ब्हेल चोन्वेन्तिओन्स्:  
-  
+
 सन्धि मर्केर्स्:  
 (। =स्होर्त् वोwएल्, - =लोन्ग् वोwएल्)  
-  
+
 इन् wओर्द्-सन्धि:  
 १: । ।  ए।ग्।: वेद+अन्त = वेदा१न्त  
 २: - ।  
 ३: । -  
 ४: - -  
-  
+
 इन् सेन्तेन्चे-सन्धि:  
 ७: । ।  ए।ग्।: च+अपि = चा७पि  
 ८: । -  
 ९: - ।  
 ०: - -  
-  
-  
+
 पद मर्केर्स्  
-  
+
 ड़ोर् अ ड़ोउर्-पद वेर्से:  
 ॥॥॥॥  $ ॥॥॥॥  &  
 ॥॥॥॥  % ॥॥॥॥  ॥  
-  
+
 ड़ोर् अ सिx-पद वेर्से:  
 ॥॥॥॥  $ ॥॥॥॥  &  
 ॥॥॥॥  % ॥॥॥॥  \  
 ॥॥॥॥  # ॥॥॥॥  ॥  
-  
-  
-  
+
 यामुनाचार्यः: संवित्सिद्धिः  
-  
-  
+
 एकम् एवाद्वितीयं तद्  $ ब्रह्मेत्य् उपनिषद्वचः  ॥ स्व्स्_१ ॥  
 ब्रह्मणो ऽन्यस्य सद्भावं  $ ननु तत् प्रतिषेधति  ॥ स्व्स्_२ ॥  
 अत्र ब्रूमो ऽद्वितीयोक्तौ  $ समासः को विवक्षितः  ॥ स्व्स्_३ ॥  
@@ -577,9 +502,4 @@ For further information see:
 सहोपलम्भनियमो  $ येनैवं सति हीयते  ॥ स्व्स्_४३७ ॥  
 यस्माद् ऋते यदाभाति  $ भाति तस्माद् ऋते ऽपि तत्  ॥ स्व्स्_४३८ ॥  
 घटाद् ऋते ऽपि निर्भातः  $ पटाद् इव घटः स्वयम्  ॥ स्व्स्_४३९ ॥  
-  
-  
-  
-  
-  
-  
+

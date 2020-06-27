@@ -3,15 +3,9 @@ title = "Varahamihira: Brhatsamhita"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Varahamihira: Brhatsamhita  
-  
-  
-  
-  
+
 Varahamihira: Brhatsamhita  
               (Version 4.3, May 8, 1998)  
                      digitalized by   
@@ -22,74 +16,10 @@ Varahamihira: Brhatsamhita
               [variants marked by K. & K's tr.]  
               and Utpala's commentary [marked by U.]  
               variants start from *.  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  (२)   सन्धि  
+
+(२)   सन्धि  
         ड़ोर् थे चोन्वेनिएन्चे ओड़् wओर्द् सेअर्छ्, इन्तेर्नल् अन्द् एxतेर्नल्   
         वोwएल् सन्धिस् अरे देचोम्पोसेद् ब्य्^।  
         एग्।  विज़ेस^उक्ति < vizeSokti  
@@ -104,14 +34,9 @@ For further information see:
   
   (4)   Others  
      Varitants for the part beginning with * are supplied in [   ] .  
-  
-  
-  
-  
-                   1 upanayanādhyāyaḥ  
-  
-  
-  
+
+1 upanayanādhyāyaḥ  
+
 1.01ab/ jayati jagataḥ prasūtir viśvātmā sahaja^bhūṣaṇaṃ nabhasaḥ/  
   
 1.01cd/ druta^kanaka^sadṛśa^daśa^śata^mayūkha^mālā^arcitaḥ savitā//  
@@ -159,13 +84,9 @@ For further information see:
 1.11ab/ praśna^pratipraśna^kathā^prasaṅgān sv^alpa^upayogān graha^sambhavāmś ca/  
   
 1.11cd/ santyajya phalgūni ca sāra^bhūtaṃ bhūta^artham arthaiḥ sakalaiḥ pravakṣye//  
-  
-  
-  
-                   2  sāṃvatsarasūtrādhyāyaḥ  
-  
-  
-  
+
+2  sāṃvatsarasūtrādhyāyaḥ  
+
 atha^ataḥ sāṃvatsara^sūtraṃ vyākhyāsyāmaḥ  
   
 2.(1) tatra sāṃvatsaro +abhijātaḥ priya^darśano vinītaveṣaḥ satyavāg anasūyakaḥ samaḥ susaṃhitā^upacita^gātra^sandhir avikalaś cāru^kara^caraṇa^nakha^nayana^cibuka^daśana^śravaṇa^lalāṭa^bhrū^uttama^aṅgo vapuṣmān gambhīra^udātta^ghoṣaḥ/ prāyaḥ śarīra^ākāra^*anuvarttino[K.anuvartino] hi guṇā doṣāś ca bhavanti/  
@@ -203,9 +124,7 @@ atha^ataḥ sāṃvatsara^sūtraṃ vyākhyāsyāmaḥ
 2.03ab/ tantre suparijñāte lagne chāyā^ambuyantra^saṃvidite/  
   
 2.03cd/ horā^arthe ca surūḍhe na^ādeṣṭur bhāratī vandhyā//  
-  
-  
-  
+
 2.04a apy arṇavasya puruṣaḥ prataran kadā cid  
   
 2.04b āsādayed anila^vega^vaśena pāram/  
@@ -235,9 +154,7 @@ mayūracitraka^ghṛta^kambala^khaḍga^paṭṭa^kṛkavāku^kūrma^go^aja^aśv
 2.(17.2) antaḥpura^cintā^piṭakalakṣaṇa^upānaccheda^vastraccheda^cāmara^daṇḍa^*śayana[K.śayyā]^āsanalakṣaṇa^ratnaparīkṣā dīpalakṣaṇaṃ dantakāṣṭha^ādy^āśritāni śubha^aśubhāni nimittāni sāmānyāni ca jagataḥ pratipuruṣaṃ pārthive ca pratikṣaṇam ananyakarma^abhiyuktena daivajñena cintayitavyāni/ na ca^ekākinā śakyante +aharniśam avadhārayituṃ nimittāni/ tasmāt  
 subhṛtena^eva daivajñena anye *+api[K.omitted] tadvidaś catvāraḥ *kartavyāḥ[K.bhartavyāḥ]/tatra^ekena^aindrī ca^āgneyī ca dig avalokayitavyā/ yāmyā nairṛtī ca^anyena^evaṃ vāruṇī vāyavyā ca^uttarā ca^aiśāni ca^iti/ yasmād *ulkā^pāta^ādīni[K.nimittāni] śīghram *apagacchati[K.upagacchati]^iti/ *tasyāś[K.teṣāṃ]  
 ca^ākāra^varṇa^sneha^pramāna^ādi^graha^ṛkṣa^upaghāta^ādibhiḥ phalāni bhavanti/  
-  
-  
-  
+
 2.06ab/ kṛtsna^aṅga^upāṅga^kuśalaṃ horā^gaṇita^naiṣṭhikam/  
   
 2.06cd/ yo na pūjayate rājā sa nāśam upāgacchati//  
@@ -309,13 +226,9 @@ K.2.18c/ sa vrajaty andhatā^misraṃ sārdham ṛkṣaviḍambinā//]
 2.22ab/ na tathā^icchati bhūpateḥ pitā jananī vā svajano +atha vā suhṛt/  
   
 2.22cd/ svayaśo^abhivivṛddhaye yathā hitam āptaḥ sabalasya daivavit//  
-  
-  
-  
-                   3 ādityacārādhyāyaḥ  
-  
-  
-  
+
+3 ādityacārādhyāyaḥ  
+
 3.01ab/ āśleṣā^ardhād dakṣiṇam uttaram ayanaṃ *raver[K.omitted] dhaniṣṭhā^adyam/  
   
 3.01cd/ nūnaṃ kadā cid āsīd yena^uktam pūrva^śāstreṣu//  
@@ -475,13 +388,9 @@ K.2.18c/ sa vrajaty andhatā^misraṃ sārdham ṛkṣaviḍambinā//]
 3.39ab/ [K.3.40ab] amala^vapur avakra^maṇḍalaḥ sphuṭa^vipula^amala^dīrgha^dīdhitiḥ/  
   
 3.39cd/ [K.3.40cd] avikṛta^tanu^varṇa^cihna^bhṛj jagati karoti śivaṃ divā^karaḥ//  
-  
-  
-  
-                   4 candracārādhyāyaḥ/  
-  
-  
-  
+
+4 candracārādhyāyaḥ/  
+
 4.01ab/ nityam adhaḥsthasya^indor bhābhir bhānoḥ sitaṃ bhavaty ardham/  
   
 4.01cd/ svacchāyayā^anyad asitaṃ kumbhasya^iva^ātapasthasya//  
@@ -621,13 +530,9 @@ K.2.18c/ sa vrajaty andhatā^misraṃ sārdham ṛkṣaviḍambinā//]
 4.32ab[K.4.31ab]/ yadi kumuda^mṛṇāla^hāra^gauras tithi^niyamāt kṣayam eti varddhate vā/  
   
 4.32cd[K.4.31cd]/ avikṛta^gati^maṇḍala^aṃśu^yogī bhavati nṛṇāṃ vijayāya śītaraśmiḥ//  
-  
-  
-  
-                   5 rāhucārādhyāyaḥ  
-  
-  
-  
+
+5 rāhucārādhyāyaḥ  
+
 5.01ab/ amṛta^āsvāda^viśeṣāc cchinnam api śiraḥ kila^asurasya^idam/  
   
 5.01cd/ prāṇair aparityaktaṃ grahatāṃ yātaṃ vadanty eke//  
@@ -1041,13 +946,9 @@ K.2.18c/ sa vrajaty andhatā^misraṃ sārdham ṛkṣaviḍambinā//]
 5.98ab/ arkagrahāt tu śaśino grahaṇaṃ yadi dṛśyate tato viprāḥ/  
   
 5.98cd/ naika^kratu^phala^bhājo bhavanti muditāḥ prajāś ca^eva//  
-  
-  
-  
-                   6 bhaumacārādhyāyaḥ  
-  
-  
-  
+
+6 bhaumacārādhyāyaḥ  
+
 6.01ab/ yady udaya^ṛkṣād vakraṃ karoti navama^aṣṭa^saptama^ṛkṣeṣu/  
   
 6.01cd/ tad*vaktrām[K.vakram ū.vaktram] uṣṇam udaye pīḍā^karam agnivārttānām//  
@@ -1103,13 +1004,9 @@ K.2.18c/ sa vrajaty andhatā^misraṃ sārdham ṛkṣaviḍambinā//]
 6.13c vicarati yadi mārgaṃ ca^uttaraṃ medinījaḥ  
   
 6.13d śubha^kṛd avani^pānāṃ hārdidaś ca prajānām//  
-  
-  
-  
-                   7 budhacārādhyāyaḥ  
-  
-  
-  
+
+7 budhacārādhyāyaḥ  
+
 7.01ab/ na^utpāta^parityaktaḥ kadā cid api candrajo vrajaty udayam/  
   
 7.01cd/ jala^dahana^pavana^bhaya^kṛd dhānya^argha^kṣaya^vivṛddhau vā//  
@@ -1188,13 +1085,9 @@ K.2.18c/ sa vrajaty andhatā^misraṃ sārdham ṛkṣaviḍambinā//]
 7.20ab/ hema^kāntir atha vā śuka^varṇaḥ sasyakena maṇinā sadṛśo vā/  
   
 7.20cd/ snigdha^mūrtir alaghuś ca hitāya vyatyaye na śubha^kṛt śaśiputraḥ//  
-  
-  
-  
-                   8 bṛhaspaticārādhyāyaḥ  
-  
-  
-  
+
+8 bṛhaspaticārādhyāyaḥ  
+
 8.01ab/ nakṣatreṇa saha^udayam upagacchati yena devapati^mantrī/  
   
 8.01cd/ tat^saṃjñaṃ vaktavyaṃ varṣaṃ māsa^krameṇa^eva//  
@@ -1427,13 +1320,9 @@ vindyāt//
 8.53ab/ akaluṣāṃśu^jaṭilaḥ pṛthu^mūrtiḥ kumuda^kunda^kusuma^sphaṭika^ābhaḥ/  
   
 8.53cd/ graha^hato na yadi sat^patha^vartī *hita^karo[K.hatakiro] +amara^gurur manujānām//  
-  
-  
-  
-                   9 śukracārādhyāyaḥ  
-  
-  
-  
+
+9 śukracārādhyāyaḥ  
+
 9.01ab/ nāga^gaja^airāvata^vṛṣabha^go^jaradgava^mṛga^aja^dahana^ākhyāḥ/  
   
 9.01cd/ aśviny^ādyāḥ kaiś cit tribhāḥ kramād vīthayaḥ kathitāḥ//  
@@ -1620,13 +1509,9 @@ vindyāt//
 9.45ab/ dadhi^kumuda^śaśāṅka^kānti^bhṛt sphuṭa^vikasat^kiraṇo bṛhattanuḥ/  
   
 9.45cd/ sugatir avikṛto jayānvitaḥ kṛtayugarūpakaraḥ sitāhvayaḥ//  
-  
-  
-  
-                   10 śanaiścaracārādhyāyaḥ  
-  
-  
-  
+
+10 śanaiścaracārādhyāyaḥ  
+
 10.01ab/ śravaṇa^anila^hasta^ārdrā^bharaṇī^bhāgya^upagaḥ suto +arkasya/  
   
 10.01cd/ pracura^salila^upagūḍhāṃ karoti dhātrīṃ yadi snigdhaḥ//  
@@ -1713,13 +1598,9 @@ vindyāt//
 10.21c *yaṃ ca^api[K.pañca^api] varṇam upagacchati tatsavarṇān  
   
 10.21d sūryātmajaḥ kṣayatīti muni^pravādaḥ//  
-  
-  
-  
-                   11 ketucārādhyāyaḥ  
-  
-  
-  
+
+11 ketucārādhyāyaḥ  
+
 11.01ab/ gārgīyaṃ śikhi^cāraṃ pārāśaram asitadevala^kṛtaṃ ca/  
   
 11.01cd/ anyāṃś ca bahūn dṛṣṭvā kriyate +ayam anākulaś cāraḥ//  
@@ -1969,13 +1850,9 @@ vindyāt//
 11.62c divya^prabhāva^nihatān sa yathā garutmān  
   
 11.62d bhuṅkte gato narapatiḥ parabhogibhogān//  
-  
-  
-  
-                   12 agastyacārādhyāyaḥ  
-  
-  
-  
+
+12 agastyacārādhyāyaḥ  
+
 12.01a samudro +antaḥ śailair makara^nakhara^utkhāta^śikharaiḥ  
   
 12.01b kṛtas toya^ucchittyā sapadi sutarāṃ yena ruciraḥ/  
@@ -2083,13 +1960,9 @@ vindyāt//
 12.21ab/ ulkayā vinihataḥ śikhinā vā kṣudbhayaṃ marakam eva *vidhatte[K.dhatte]/  
   
 12.21cd/ dṛśyate sa kila hastagate +arke rohiṇīm upagate +astam upaiti//  
-  
-  
-  
-                   13 saptarṣicārādhyāyaḥ  
-  
-  
-  
+
+13 saptarṣicārādhyāyaḥ  
+
 13.01ab/ saikāvalīva rājati sasitotpalamālinī sahāseva/  
   
 13.01cd/ nāthavatīva ca dig yaiḥ kauverī saptabhir munibhiḥ//  
@@ -2133,13 +2006,9 @@ vindyāt//
 13.11ab/ rakṣaḥ^piśāca^dānava^daitya^bhujaṅgāḥ smṛtāḥ pulastyasya/  
   
 13.11cd/ pulahasya tu mūlaphalaṃ kratos tu yajñāḥ sayajñabhṛtaḥ//  
-  
-  
-  
-                   14 nakṣatrakūrmādhyāyaḥ  
-  
-  
-  
+
+14 nakṣatrakūrmādhyāyaḥ  
+
 14.01ab/ nakṣatratraya^vargair āgneyādyair vyavasthitair navadhā/  
   
 14.01cd/ bhāratavarṣe *madhya[K.madhyāt]^prāgādi^vibhājitā deśāḥ//  
@@ -2270,13 +2139,9 @@ vindyāt//
 14.33ab/ āvanto +atha^ānarto mṛtyuṃ ca^āyāti sindhusauvīraḥ/  
   
 14.33cd/ rājā ca hārahauro madreśo +anyaś ca kauṇindaḥ//  
-  
-  
-  
-                   15 nakṣatravyūhādhyāyaḥ  
-  
-  
-  
+
+15 nakṣatravyūhādhyāyaḥ  
+
 15.01ab/ āgneye sitakusuma^āhitāgni^mantrajña^sūtra^bhāṣya^jñāḥ/  
   
 15.01cd/ ākarika^nāpita^dvija^ghaṭakāra^purohita^abdajñāḥ//  
@@ -2403,13 +2268,9 @@ vindyāt//
 15.32ab/ tad upahatam iti pracakṣate prakṛti^viparyaya^yātam eva vā/  
   
 15.32cd/ nigadita^parivarga^dūṣaṇaṃ kathita^viparyayagaṃ samṛddhaye//  
-  
-  
-  
-                   16 grahabhaktiyogādhyāyaḥ  
-  
-  
-  
+
+16 grahabhaktiyogādhyāyaḥ  
+
 16.01ab/ prāṅ narmadārdha^śoṇa^uḍra^vaṅga^suhmāḥ kaliṅga^bāhlīkāḥ/  
   
 16.01cd/ śaka^yavana^magadha^śabara^prāgjyotiṣa^cīna^kāmbojāḥ//  
@@ -2581,13 +2442,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 16.41ab/ yadi na ripukṛtaṃ bhayaṃ nṛpāṇāṃ svasuta^kṛtaṃ niyamād amātyajaṃ vā/  
   
 16.41cd/ bhavati janapadasya ca^apy avṛṣṭyā gamanam apūrvapura^adri^nimnagāsu//  
-  
-  
-  
-                   17 grahayuddhādhyāyaḥ/  
-  
-  
-  
+
+17 grahayuddhādhyāyaḥ/  
+
 17.01ab/ yuddhaṃ yathā yadā vā *bhaviṣyam[K.bhaviṣyad] ādiśyate trikālajñaiḥ/  
   
 17.01cd/ tadvijñānaṃ karaṇe mayā kṛtaṃ sūrya^*siddhānte[K.siddhāntāt]//  
@@ -2693,13 +2550,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 17.27ab/ ayaṃ viśeṣo +abhihito hatānāṃ kuja^jña^vāgīśa^sita^asitānām/  
   
 17.27cd/ phalaṃ tu vācyaṃ graha^bhaktito +anyad yathā tathā ghnanti hatāḥ svabhaktīḥ//  
-  
-  
-  
-                   18 śaśigrahasamāgamādhyāyaḥ  
-  
-  
-  
+
+18 śaśigrahasamāgamādhyāyaḥ  
+
 18.01ab/ bhānāṃ yathāsambhavam uttareṇa yāto grahāṇāṃ yadi vā śaśāṅkaḥ/  
   
 18.01cd/ pradakṣiṇaṃ tat^*śubhadaṃ nṛpāṇāṃ[K.śubhakṛnnarāṇāṃ] yāmyena yāto na śivaḥ śaśāṅkaḥ//  
@@ -2735,13 +2588,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 18.08c iti śaśisamavāyāḥ *kīrtitā[K.kīrttitā] bhagrahāṇāṃ  
   
 18.08d na khalu bhavati yuddhaṃ sākam indor graha^ṛkṣaiḥ//  
-  
-  
-  
-                   19 grahavarṣaphalādhyāyaḥ  
-  
-  
-  
+
+19 grahavarṣaphalādhyāyaḥ  
+
 19.01a sarvatra bhūr viralasasyayutā vanāni  
   
 19.01b daivād bibhakṣayiṣudaṃṣṭrisamāvṛtāni/  
@@ -2909,13 +2758,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 19.22c yad aśubham aśubhe +abde māsajaṃ tasya vṛddhiḥ  
   
 19.22d śubhaphalam api ca^evaṃ yāpyam anyonyatāyām//  
-  
-  
-  
-                   20 grahaśṛṅgāṭakādhyāyaḥ  
-  
-  
-  
+
+20 grahaśṛṅgāṭakādhyāyaḥ  
+
 20.01ab/ yasyāṃ diśi dṛśyante viśanti tārāgrahā raviṃ sarve/  
   
 20.01cd/ bhavati bhayaṃ diśi tasyām āyudha^kopa^kṣudhaā^ātaṅkaiḥ//  
@@ -2951,13 +2796,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 20.09ab/ samau tu saṃvartasamāgamākhyau sammoha^kośau bhayadau prajānām/  
   
 20.09cd/ *samājasaṃjño susamā pradiṣṭā[K.samājñaḥ susamaḥ pradiṣṭo] vairaprakopaḥ khalu sannipāte//  
-  
-  
-  
-                   21 garbhalakṣaṇādhyāyaḥ  
-  
-  
-  
+
+21 garbhalakṣaṇādhyāyaḥ  
+
 21.01ab/ annaṃ jagataḥ prāṇāḥ prāvṛṭkālasya cānnam āyattam/  
   
 21.01cd/ yasmād ataḥ parīkṣyaḥ prāvṛṭkālaḥ prayatnena//  
@@ -3107,13 +2948,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 21.37c visṛjati yadi toyaṃ garbhakāle +atibhūri  
   
 21.37d prasava^samayam itvā śīkara^ambhaḥ karoti//  
-  
-  
-  
-                   22 garbhadhāraṇādhyāyaḥ  
-  
-  
-  
+
+22 garbhadhāraṇādhyāyaḥ  
+
 22.01ab/ jyaiṣṭhasite +aṣṭamyādyaś catvāro vāyudhāraṇā divasāḥ/  
   
 22.01cd/ mṛduśubhapavanāḥ śastāḥ snigdha^ghana^sthagita^gaganāś ca//  
@@ -3145,13 +2982,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 22.08ab/ meghāḥ snigdhāḥ saṃhatāś ca pradakṣiṇagatikriyāḥ/  
   
 22.08cd/ tadā syān mahatī vṛṣṭiḥ sarvasasya^*abhivṛddhaye[K.arthasādhikā]//  
-  
-  
-  
-                   23 pravarṣaṇādhyāyaḥ  
-  
-  
-  
+
+23 pravarṣaṇādhyāyaḥ  
+
 23.01ab/ jyaiṣṭhyāṃ samatītāyāṃ pūrvāṣāḍhādi^sampravṛṣṭena/  
   
 23.01cd/ śubham aśubhaṃ vā vācyaṃ parimāṇaṃ ca^ambhasas tajjñaiḥ//  
@@ -3191,13 +3024,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 23.10ab/ ravi^ravisuta^ketu^pīḍite bhe kṣititanaya^trividha^adbhuta^āhate ca/  
   
 23.10cd/ bhavati *ca[K.hi] na śivaṃ na ca^api vṛṣṭiḥ śubhasahite nirupadrave śivaṃ ca//  
-  
-  
-  
-                   24 rohiṇīyogādhyāyaḥ  
-  
-  
-  
+
+24 rohiṇīyogādhyāyaḥ  
+
 24.01ab/ kanaka^śilā^caya^vivarajatarukusumāsaṅgimadhukarānurute/  
   
 24.01cd/ bahu^vihaga^kalaha^surayuvati^gīta^mandra^svana^upavane//  
@@ -3444,13 +3273,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 24.36ab/ dṛśyate na yadi rohiṇīyutaś candramā nabhasi toyadāvṛte/  
   
 24.36cd/ rugbhayaṃ mahadupasthitaṃ tadā bhūś ca bhūrijalasasyasaṃyutā//  
-  
-  
-  
-                   25 svātiyogādhyāyaḥ  
-  
-  
-  
+
+25 svātiyogādhyāyaḥ  
+
 25.01ab/ yad rohiṇīyogaphalaṃ tad eva svātāv aṣāḍhāsahite ca candre/  
   
 25.01cd/ āṣāḍhaśukle nikhilaṃ vicintyaṃ yo +asmin viśeṣas tam ahaṃ pravakṣye//  
@@ -3482,13 +3307,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 25.06ab/ tatha^eva phālgune caitre vaiśākhasyāsite +api vā/  
   
 25.06cd/ svātiyogaṃ vijānīyād āṣāḍhe ca viśeṣataḥ//  
-  
-  
-  
-                   26  āṣāḍhīyogādhyāyaḥ  
-  
-  
-  
+
+26  āṣāḍhīyogādhyāyaḥ  
+
 26.01a āṣāḍhyāṃ samatulitādhivāsitānām  
   
 26.01b anyedyur yad adhikatām upaiti bījam/  
@@ -3571,13 +3392,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 [K.26.15ab/ āṣāḍhyām paurṇamāsyāṃ tu yady aiśāno +anilo bhavet/]  
   
 [K.26.15cd/ astaṃ gacchati tīkṣṇāṃśau sasyasampattir uttamā//]  
-  
-  
-  
-                   27 vātacakrādhyāyaḥ  
-  
-  
-  
+
+27 vātacakrādhyāyaḥ  
+
 27.01ab[K.omitted]/ āṣāḍha^paurṇamāsyāṃ tu yady aiśāno +anilo bhavet/  
   
 27.01cd[K.omitted]/ astaṃ gacchati tīkṣṇāṃśau sasya sampattir uttamā//  
@@ -3645,13 +3462,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 27.10ab/ *naṣṭacandrārkakiranaṃ naṣṭatāraṃ na cen nabhaḥ[K.āpūrṇodakayauvanā vasumatī sampannasasyākulā]/  
   
 27.10cd/ *na tāṃ bhadrapadāṃ manye yatra devo na varṣati[K.dharmiṣṭhāḥ praṇatārayo nṛpatayo rakṣanti varṇāṃs tadā]//  
-  
-  
-  
-                   28 sadyovarṣaṇādhyāyaḥ  
-  
-  
-  
+
+28 sadyovarṣaṇādhyāyaḥ  
+
 28.01a varṣāpraśne salilanilayaṃ rāśim āśritya candro  
   
 28.01b lagnaṃ yāto bhavati yadi vā kendragaḥ śukla^pakṣe/  
@@ -3805,13 +3618,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 28.24ab/ [K.omitted] varṣaty api raṭati yadā gomāyuś ca pradoṣavelāyām/  
   
 28.24cd/ [K.omitted] saptāhaṃ durdinam api tadā payo nātra sandehaḥ//  
-  
-  
-  
-                   29 kusumalatādhyāyaḥ  
-  
-  
-  
+
+29 kusumalatādhyāyaḥ  
+
 29.01ab/ phala^kusuma^sampravṛddhiṃ vanaspatīnāṃ vilokya vijñeyam/  
   
 29.01cd/ sulabhatvaṃ dravyāṇāṃ niṣpattiś ca^api sasyānām//  
@@ -3871,13 +3680,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 29.14c tasmin vṛṣṭiḥ śobhanā sapradiṣṭā  
   
 29.14d rūkṣaiś chidrair alpam ambhaḥ pradiṣṭam//  
-  
-  
-  
-                   30 sandhyālakṣaṇādhyāyaḥ  
-  
-  
-  
+
+30 sandhyālakṣaṇādhyāyaḥ  
+
 30.01ab/ ardha^astamitān uditāt sūryād aspaṣṭabhaṃ nabho yāvat/  
   
 30.01cd/ tāvat sandhyākālaś cihnair etaiḥ phalaṃ ca^asmin//  
@@ -4033,13 +3838,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 30.33c ṣaṭpañcadṛśyaṃ pariveṣacakraṃ  
   
 30.33d daśa^amareśasya dhanur vibhāti//  
-  
-  
-  
-                   31 digdāhalakṣaṇādhyāyaḥ  
-  
-  
-  
+
+31 digdāhalakṣaṇādhyāyaḥ  
+
 31.01ab/ dāho diśāṃ rājabhayāya pīto deśasya nāśāya hutāśavarṇaḥ/  
   
 31.01cd/ yaś ca^aruṇaḥ syād apasavya^vāyuḥ sasyasya nāśaṃ sa karoti dṛṣṭaḥ//  
@@ -4074,13 +3875,9 @@ K.16.12cd/ ye ca pibanti sutoyāṃ tāpīṃ ye ca api gomatīsalilam //]
 31.05c diśāṃ ca dāhaḥ kanaka^avadāto  
   
 31.05d hitāya lokasya sapārthivasya//  
-  
-  
-  
-                   32 bhūkampalakṣaṇādhyāyaḥ  
-  
-  
-  
+
+32 bhūkampalakṣaṇādhyāyaḥ  
+
 32.01ab/ kṣitikampam āhur eke bṛhadantarjalanivāsisattva^kṛtam/  
   
 32.01cd/ bhūbhāra^khinna^diggaja^viśrāma^samudbhavaṃ ca^anye//  
@@ -4210,13 +4007,9 @@ K.32.26ab/ anyac ca yatsyāt prakṛteḥ pratīpaṃ tanmaṇḍalair eva phala
 32.29ab/ tricatruthasaptamadine māse pakṣe tathā tripakṣe ce/  
   
 32.29cd/ yadi bhavati bhūmikampaḥ pradhāna^nṛpa^nāśano bhavati//  
-  
-  
-  
-                   33 ulkālakṣaṇādhyāyaḥ  
-  
-  
-  
+
+33 ulkālakṣaṇādhyāyaḥ  
+
 33.01ab/ divi bhukta^śubhaphalānāṃ patatāṃ rūpāṇi yāni tāny ulkāḥ/  
   
 33.01cd/ dhiṣṇyā^ulkā^aśani^vidyut^tārā iti pañcadhā bhinnāḥ//  
@@ -4339,13 +4132,9 @@ K.32.26ab/ anyac ca yatsyāt prakṛteḥ pratīpaṃ tanmaṇḍalair eva phala
 33.30ab/ abhibhavati yataḥ puraṃ balaṃ vā bhavati bhayaṃ tata eva pārthivasya/  
   
 33.30cd/ nipatati ca yayā diśā pradīptā jayati ripūn acirāt tayā prayātaḥ//  
-  
-  
-  
-                   34 pariveṣalakṣaṇādhyāyaḥ  
-  
-  
-  
+
+34 pariveṣalakṣaṇādhyāyaḥ  
+
 34.01ab/ sammūrcchitā ravīndvoḥ kiraṇāḥ pavanena maṇḍalībhūtāḥ/  
   
 34.01cd/ nānāvarṇa^ākṛtayas tanv abhre vyomni pariveṣāḥ//  
@@ -4436,13 +4225,9 @@ K.32.26ab/ anyac ca yatsyāt prakṛteḥ pratīpaṃ tanmaṇḍalair eva phala
   
 34.23ab/ raktaḥ śyāmo rūkṣaś ca bhavati yeṣāṃ parājayas teṣām/  
 34.23cd/ snigdhaḥ śveto dyutimān yeṣāṃ bhāgo jayas teṣām//  
-  
-  
-  
-                   35 indrāyuddhalakṣaṇādhyāyaḥ  
-  
-  
-  
+
+35 indrāyuddhalakṣaṇādhyāyaḥ  
+
 35.01ab/ sūryasya vividhavarṇāḥ pavanena vighaṭṭitāḥ karāḥ sa^abhre/  
   
 35.01cd/ viyati dhanuḥ^saṃsthānā ye dṛśyante tad indradhanuḥ//  
@@ -4478,12 +4263,9 @@ K.32.26ab/ anyac ca yatsyāt prakṛteḥ pratīpaṃ tanmaṇḍalair eva phala
 35.08ab/ niśi suracāpaṃ sita^varṇādyaṃ janayati pīḍāṃ dvija^pūrvāṇām/  
   
 35.08cd/ bhavati ca yasyāṃ diśi tad deśyaṃ narapati^mukhyaṃ nacirād dhanyāt//  
-  
-  
-  
-                   36 gandharvanagaralakṣaṇādhyāyaḥ  
-  
-  
+
+36 gandharvanagaralakṣaṇādhyāyaḥ  
+
 36.01ab/ udag^ādi purohita^nṛpa^balapati^yuvarāja^doṣadaṃ khapuram/  
   
 36.01cd/ sita^rakta^pīta^kṛṣṇaṃ vipra^ādīnām abhāvāya//  
@@ -4503,13 +4285,9 @@ K.32.26ab/ anyac ca yatsyāt prakṛteḥ pratīpaṃ tanmaṇḍalair eva phala
 36.05ab/ anekavarṇa^ākṛti khe prakāśate puraṃ patākā^dhvaja^toraṇa^anvitam/  
   
 36.05cd/ yadā tadā nāga^manuṣya^vājināṃ pibaty asṛg bhūri raṇe vasundharā//  
-  
-  
-  
-                   37 pratisūryalakṣaṇādhyāyaḥ  
-  
-  
-  
+
+37 pratisūryalakṣaṇādhyāyaḥ  
+
 37.01ab/ pratisūryakaḥ praśasto divasakṛd^ṛtu^varṇa^saprabhaḥ snigdhaḥ/  
   
 37.01cd/ vaidūrya^nibhaḥ svacchaḥ śuklaś ca kṣema^saubhikṣaḥ//  
@@ -4521,13 +4299,9 @@ K.32.26ab/ anyac ca yatsyāt prakṛteḥ pratīpaṃ tanmaṇḍalair eva phala
 37.03ab/ divasakṛtaḥ pratisūryo jalakṛd^udag^dakṣiṇe sthito +anilakṛt/  
   
 37.03cd/ ubhayasthaḥ salilabhayaṃ nṛpam upari nihanty adho janahā//  
-  
-  
-  
-                   [K.chap. 38 rajolakṣaṇam inserted  
-  
-  
-  
+
+[K.chap. 38 rajolakṣaṇam inserted  
+
 K.38.01ab/ kathayanti pārthivavadhaṃ rajasā ghana^timira^sañcaya^nibhena/  
   
 K.38.01cd/ avibhāvyamāna^giri^pura^taravaḥ sarvā diśaś channāḥ//  
@@ -4559,13 +4333,9 @@ K.38.07cd/ rājñāṃ sainyakṣobho rajasi bhavet pañcarātrabhave//
 K.38.08ab/ ketvādyudayavimuktaṃ yadā rajo bhavati tīvrabhayadāyi/  
   
 K.38.08cd/ śiśirād anyatrartau phalam avikalam āhu ācāryāḥ//]  
-  
-  
-  
-                   38 nirghātalakṣaṇādhyāyaḥ  
-  
-  
-  
+
+38 nirghātalakṣaṇādhyāyaḥ  
+
 38.01ab/ pavanaḥ pavana^abhihato gaganād avanau yadā samāpatati/  
   
 38.01cd/ bhavati tadā nirghātaḥ sa ca pāpo dīpta^vihaga^rutaḥ//  
@@ -4585,13 +4355,9 @@ K.38.08cd/ śiśirād anyatrartau phalam avikalam āhu ācāryāḥ//]
 38.05ab/ turaga^kariṇas tṛtīye vinihanyād yāyinaś caturthe ca/  
   
 38.05cd/ bhairava^jarjaraśabdo yāti yatas tāṃ diśaṃ hanti//  
-  
-  
-  
-                   39 sasyajātakādhyāyaḥ  
-  
-  
-  
+
+39 sasyajātakādhyāyaḥ  
+
 39.01ab/ vṛścika^vṛṣa^praveśe bhānor ye bādarāyaṇena^uktāḥ/  
   
 39.01cd/ grīṣma^śarat^sasyānāṃ sad^asad^yogāḥ kṛtās ta ime//  
@@ -4647,13 +4413,9 @@ K.38.08cd/ śiśirād anyatrartau phalam avikalam āhu ācāryāḥ//]
 39.14ab/ kārmuka^mṛga^ghaṭa^saṃsthaḥ *śārada^sasyasya[K.śāradasya] tadvad eva raviḥ/  
   
 39.14cd/ saṃgrahakāle jñeyo viparyayaḥ krūradṛg^*yogāt[K.yāgāt]//  
-  
-  
-  
-                   40 dravyaniścayādhyāyaḥ  
-  
-  
-  
+
+40 dravyaniścayādhyāyaḥ  
+
 40.01ab/ ye yeṣāṃ dravyāṇām adhipatayo rāśayaḥ samuddiṣṭāḥ/  
   
 40.01cd/ munibhiḥ śubhāśubhārthaṃ tān āgamataḥ pravakṣyāmi//  
@@ -4705,13 +4467,9 @@ K.38.08cd/ śiśirād anyatrartau phalam avikalam āhu ācāryāḥ//]
 40.13ab/ gocara^pīḍāyām api rāśir balibhiḥ śubhagrahair dṛṣṭaḥ/  
   
 40.13cd/ pīḍāṃ na karoti tathā krūrair evaṃ viparyāsaḥ//  
-  
-  
-  
-                   41 arghakāṇḍādhyāyaḥ  
-  
-  
-  
+
+41 arghakāṇḍādhyāyaḥ  
+
 41.01ab/ ativṛṣṭy^ulkā^daṇḍān pariveṣa^grahaṇa^paridhi^pūrvāṃś ca/  
   
 41.01cd/ dṛṣṭvā^amāvāsyāyām utpātān *paurṇamāsyāṃ[K.pūrṇamāsyāṃ] ca//  
@@ -4771,13 +4529,9 @@ K.38.08cd/ śiśirād anyatrartau phalam avikalam āhu ācāryāḥ//]
 41.14c aśubhasahitaḥ sandṛṣṭo vā hinasty atha vā raviḥ  
   
 41.14d pratigṛhagatān bhāvān buddhvā vadet sadasatphalam//  
-  
-  
-  
-                   42 indradhvajasampadadhyāyaḥ  
-  
-  
-  
+
+42 indradhvajasampadadhyāyaḥ  
+
 42.01ab/ brahmāṇam ūcur amarā bhagavan śaktāḥ sma nāsurān samare/  
   
 42.01cd/ pratiyodhayitum atas tvāṃ śaraṇyaśaraṇaṃ samupayātāḥ//  
@@ -5099,13 +4853,9 @@ K.38.08cd/ śiśirād anyatrartau phalam avikalam āhu ācāryāḥ//]
 42.68ab/ uparicara^vasu^pravartitaṃ nṛpatibhir apy anusantataṃ kṛtam/  
   
 42.68cd/ vidhim imam anumanya pārthivo na ripukṛtaṃ bhayam āpnuyād iti//  
-  
-  
-  
-                   43 nīrājanādhyāyaḥ  
-  
-  
-  
+
+43 nīrājanādhyāyaḥ  
+
 43.01ab/ bhagavati jaladhara^pakṣma^kṣapākara^arka^īkṣaṇe kamalanābhe/  
   
 43.01cd/ unmīlayati *turaṅga[K.turaṅgana]kari^nara^nīrājanaṃ kuryāt//  
@@ -5215,13 +4965,9 @@ K.38.08cd/ śiśirād anyatrartau phalam avikalam āhu ācāryāḥ//]
 43.28ab/ samprahṛṣṭa^nara^vāji^kuñjaraṃ nirmala^praharaṇa^aṃśu^bhāsuram/  
   
 43.28cd/ nirvikāram ari^pakṣa^bhīṣaṇaṃ yasya sainyam acirāt sa gāṃ jayet//  
-  
-  
-  
-                   44 khañjanakalakṣaṇādhyāyaḥ  
-  
-  
-  
+
+44 khañjanakalakṣaṇādhyāyaḥ  
+
 44.01ab/ khañjanako nāma^ayaṃ yo vihagas tasya darśane prathame/  
   
 44.01cd/ proktāni yāni munibhiḥ phalāni tāni pravakṣyāmi//  
@@ -5289,13 +5035,9 @@ K.38.08cd/ śiśirād anyatrartau phalam avikalam āhu ācāryāḥ//]
 44.16ab/ āvarṣāt prathame darśane phalaṃ pratidinaṃ tu *dinaśeṣāt[K.dinaśeṣe]/  
   
 44.16cd/ dik^sthāna^mūrti^lagna^ṛkṣa^śānta^dīpta^ādibhiś ca^ūhyam//  
-  
-  
-  
-                   45 utpātādhyāyaḥ  
-  
-  
-  
+
+45 utpātādhyāyaḥ  
+
 45.01ab/ yān atrer utpātān gargaḥ provāca tān ahaṃ vakṣye/  
   
 45.01cd/ teṣāṃ saṃkṣepo +ayaṃ prakṛter anyatvam utpātaḥ//  
@@ -5711,13 +5453,9 @@ K. 46.43cd/ deśavināśo jñeyo +asṛgvarṣe ca api nṛpa^yuddham//]
 45.98c etat tan^munivacanaṃ rahasyam uktaṃ  
   
 45.98d yaj jñātvā bhavati naras trikāladarśī//  
-  
-  
-  
-                   46 mayūracitrakādhyāyaḥ  
-  
-  
-  
+
+46 mayūracitrakādhyāyaḥ  
+
 46.01ab/ divya^āntarikṣa^āśrayam uktam ādau mayā phalaṃ śastam aśobhanaṃ ca/  
   
 46.01cd/ prāyeṇa cāreṣu samāgameṣu yuddheṣu mārga^ādiṣu vistareṇa//  
@@ -5861,13 +5599,9 @@ K. 46.43cd/ deśavināśo jñeyo +asṛgvarṣe ca api nṛpa^yuddham//]
 46.28c śrutvā +api kokila^rutaṃ balibhug virauti  
   
 46.28d yat^tat svabhāvakṛtam asya pikaṃ na jetum//  
-  
-  
-  
-                   47 puṣyasnānādhyāyaḥ  
-  
-  
-  
+
+47 puṣyasnānādhyāyaḥ  
+
 47.01ab/ mūlaṃ manujādhipatiḥ prajātaros tad upaghāta^saṃskārāt/  
   
 47.01cd/ aśubhaṃ śubhaṃ ca loke bhavati yato +ato nṛpati^cintā//  
@@ -6213,13 +5947,9 @@ K. 46.43cd/ deśavināśo jñeyo +asṛgvarṣe ca api nṛpa^yuddham//]
 47.87ab/ anenaiva vidhānena hasty^aśvaṃ *snāpayet tataḥ[K.snāpayīta yaḥ]/  
   
 47.87cd/ tasya^āmaya^vinirmuktaṃ parāṃ siddhim avāpnuyāt//  
-  
-  
-  
-                   48 paṭṭalakṣaṇādhyāyaḥ  
-  
-  
-  
+
+48 paṭṭalakṣaṇādhyāyaḥ  
+
 48.01ab/ vistaraśo nirdiṣṭaṃ paṭṭāṇāṃ lakṣaṇaṃ yad ācāryaiḥ/  
   
 48.01cd/ tat saṃkṣepaḥ kriyate mayā +atra sakalārthasampannaḥ//  
@@ -6251,13 +5981,9 @@ K. 46.43cd/ deśavināśo jñeyo +asṛgvarṣe ca api nṛpa^yuddham//]
 48.08ab/ aśubhanimitta^utpattau śāstrajñaḥ śāntim ādiśed rājñaḥ/  
   
 48.08cd/ śastanimittaḥ paṭṭo nṛpa^rāṣṭra^vivṛddhaye bhavati//  
-  
-  
-  
-                   49 khaḍgalakṣaṇādhyāyaḥ  
-  
-  
-  
+
+49 khaḍgalakṣaṇādhyāyaḥ  
+
 49.01ab/ aṅgula^śatārdham uttama ūnaḥ syāt *pañcaviṃśatiḥ[K.pañcaviṃśatiṃ] khaḍgaḥ/  
   
 49.01cd/ aṅgulamānāj jñeyo vraṇo +aśubho viṣama^parvasthaḥ//  
@@ -6379,13 +6105,9 @@ K. 46.43cd/ deśavināśo jñeyo +asṛgvarṣe ca api nṛpa^yuddham//]
 49.26c samyak śitaṃ ca^aśmani naiti bhaṅgaṃ  
   
 49.26d na ca^anyaloheṣv api tasya kauṇṭhyam//  
-  
-  
-  
-                   50 aṅgavidyādhyāya  
-  
-  
-  
+
+50 aṅgavidyādhyāya  
+
 50.01a daivajñena śubha^aśubhaṃ dig^udita^sthāna^āhṛtān īkṣatā  
   
 50.01b vācyaṃ praṣṭṛ^nija^apara^aṅga^ghaṭanāṃ ca^ālokya kālaṃ dhiyā/  
@@ -6629,12 +6351,9 @@ K. 46.43cd/ deśavināśo jñeyo +asṛgvarṣe ca api nṛpa^yuddham//]
 50.44c vipulamatir udāro vetti yaḥ sarvam etan  
   
 50.44d narapatijanatābhiḥ pūjyate +asau sadaiva//  
-  
-  
-                   51 piṭakalakṣaṇādhyāyaḥ  
-  
-  
-  
+
+51 piṭakalakṣaṇādhyāyaḥ  
+
 51.01ab/ sita^rakta^pīta^kṛṣṇā viprādīnāṃ krameṇa piṭakā ye/  
   
 51.01cd/ te kramaśaḥ proktaphalā varṇānāṃ *na^agrajātānām[K.agrajādīnām]//  
@@ -6694,13 +6413,9 @@ K. 46.43cd/ deśavināśo jñeyo +asṛgvarṣe ca api nṛpa^yuddham//]
 51.10c bhavati maśaka^lakṣma^āvartajanma^api tadvan  
   
 51.10d nigaditaphalakāri prāṇināṃ deha^saṃstham//  
-  
-  
-  
-                   52 vāstuvidyā  
-  
-  
-  
+
+52 vāstuvidyā  
+
 52.01ab/ vāstujñānam atha^ataḥ kamalabhavān muniparam parāyātam/  
   
 52.01cd/ kriyate +adhunā mayā^idam vidagdha^sāṃvatsara^prītyai//  
@@ -7203,13 +6918,9 @@ K. 53.62ab/ marmaṇyamarmago vā ruṇaddhy arthāgamaṃ tuṣasamūhaḥ]/
 52.123ab/ bhūripuṣpa^vikaraṃ[K.nikaraṃ] satoraṇaṃ toyapūrṇakalaśa^upaśobhitam/  
   
 52.123cd/ dhūpagandha^balipūjitāmaraṃ brāhmaṇadhvaniyutaṃ viśed gṛham//  
-  
-  
-  
-                   53 dakārgalādhyāyaḥ  
-  
-  
-  
+
+53 dakārgalādhyāyaḥ  
+
 53.01ab/ dharmyaṃ yaśasyaṃ ca vadāmy ato +ahaṃ dakārgalaṃ[K.dagārgalaṃ] yena jala^upalabdhiḥ/  
   
 53.01cd/ puṃsāṃ yathā^aṅgeṣu śirās tatha^eva kṣitāv api pronnata^nimna^saṃsthāḥ//  
@@ -7789,13 +7500,9 @@ K. 53.62ab/ marmaṇyamarmago vā ruṇaddhy arthāgamaṃ tuṣasamūhaḥ]/
 [K.54.125ab/ meghodbhavaṃ prathamam eva mayā pradiṣṭaṃ jyeṣṭhām atītya baladevamatādi dṛṣṭvā/  
   
 K.54.125cd/ bhaumaṃ dagārgalam idaṃ kathitaṃ dvitīyaṃ samyag varāhamihireṇa muniprasādāt//]  
-  
-  
-  
-                   54 vṛkṣāyurvedādhyāyaḥ  
-  
-  
-  
+
+54 vṛkṣāyurvedādhyāyaḥ  
+
 54.01ab/ prānta^cchāyā^vinirmuktā na manojñā jalāśayāḥ/  
   
 54.01cd/ yasmād ato jala^prānteṣv ārāmān viniveśayet//  
@@ -7943,13 +7650,9 @@ K.54.125cd/ bhaumaṃ dagārgalam idaṃ kathitaṃ dvitīyaṃ samyag varāhami
 54.31ab/ dhruva^mṛdu^mūla^viśākhā gurubhaṃ śravaṇas tathā^aśvinī hastaḥ[K.hastaṃ]/  
   
 54.31cd/ uktāni divya^dṛgbhiḥ pādapa^saṃropaṇe bhāni//  
-  
-  
-  
-                   55 prāsādalakṣaṇādhyāyaḥ  
-  
-  
-  
+
+55 prāsādalakṣaṇādhyāyaḥ  
+
 55.01ab/ kṛtvā prabhūtaṃ salilam ārāmān viniveśya ca/  
   
 55.01cd/ devatā^āyatanaṃ kuryād yaśo^dharma^abhivṛddhaye//  
@@ -8077,13 +7780,9 @@ K.54.125cd/ bhaumaṃ dagārgalam idaṃ kathitaṃ dvitīyaṃ samyag varāhami
 55.31c manu^ādibhir viracitāni pṛthūni yāni  
   
 55.31d tatsaṃspṛśan[K.tatsaṃsmṛtiṃ] prati mayā^atra kṛto +adhikāraḥ//  
-  
-  
-  
-                   56 vajralepalakṣaṇādhyāyaḥ  
-  
-  
-  
+
+56 vajralepalakṣaṇādhyāyaḥ  
+
 56.01ab/ āmaṃ tindukam āmaṃ kapitthakaṃ puṣpam api ca śālmalyāḥ/  
   
 56.01cd/ bījāni śallakīnāṃ dhanvana^valko vacā ca^iti//  
@@ -8114,13 +7813,9 @@ K.54.125cd/ bhaumaṃ dagārgalam idaṃ kathitaṃ dvitīyaṃ samyag varāhami
 56.08ab/ aṣṭau sīsaka^bhāgāḥ kāṃsasya dvau tu rītikā^bhāgaḥ/  
   
 56.08cd/ maya^kathito yogo +ayaṃ vijñeyo vajrasaṅghātaḥ//  
-  
-  
-  
-                   57 pratimālakṣaṇādhyāyaḥ/  
-  
-  
-  
+
+57 pratimālakṣaṇādhyāyaḥ/  
+
 57.01ab/ jāla^antarage bhānau yad aṇutaraṃ darśanaṃ rajo yāti/  
   
 57.01cd/ tad vindyāt paramāṇuṃ prathamaṃ taddhi pramāṇānām//  
@@ -8351,13 +8046,9 @@ K.54.125cd/ bhaumaṃ dagārgalam idaṃ kathitaṃ dvitīyaṃ samyag varāhami
 [K.58.58ab/ pramathādhipo gajamukhaḥ pralamba^jaṭharaḥ kuṭhāradhārī syāt/  
   
 K.58.58cd/ ekaviṣāṇo bibhran mūlakakandaṃ sunīladalakandam//]  
-  
-  
-  
-                   58 vanasampraveśādhyāyaḥ  
-  
-  
-  
+
+58 vanasampraveśādhyāyaḥ  
+
 58.01ab/ kartur anukūla^divase daivajña^viśodhite śubha^nimitte/  
   
 58.01cd/ maṅgala^śakunaiḥ prāsthānikaiś ca vana^sampraveśaḥ syāt//  
@@ -8429,13 +8120,9 @@ K.58.58cd/ ekaviṣāṇo bibhran mūlakakandaṃ sunīladalakandam//]
 58.14c indradhvaje vāstuni ca pradiṣṭāḥ  
   
 58.14d pūrvaṃ mayā te +atra tatha^eva yojyāḥ//  
-  
-  
-  
-                   59 pratimāpratiṣṭhāpanādhyāyaḥ  
-  
-  
-  
+
+59 pratimāpratiṣṭhāpanādhyāyaḥ  
+
 59.01ab/ diśi yāmyāyāṃ[K.saumyāyāṃ] kuryād adhivāsana^maṇḍapaṃ budhaḥ prāg vā/  
   
 59.01cd/ toraṇa^catuṣṭaya^yutaṃ śasta^druma^pallava^cchannam//  
@@ -8526,13 +8213,9 @@ K.58.58cd/ ekaviṣāṇo bibhran mūlakakandaṃ sunīladalakandam//]
 59.22ab/ sāmānyam idaṃ samāsato lokānāṃ hitadaṃ mayā kṛtam/  
   
 59.22cd/ adhivāsana^sanniveśane sāvitre pṛthag eva vistarāt//  
-  
-  
-  
-                   60 golakṣaṇādhyāyaḥ  
-  
-  
-  
+
+60 golakṣaṇādhyāyaḥ  
+
 60.01a parāśaraḥ prāha bṛhadrathāya  
   
 60.01b go^lakṣaṇaṃ yat kriyate tato +ayam/  
@@ -8612,10 +8295,8 @@ K.58.58cd/ ekaviṣāṇo bibhran mūlakakandaṃ sunīladalakandam//]
 60.19ab/ yo vā sitaikacaraṇair[K.sitaikacaraṇo] yatheṣṭavarṇaś ca so +api śubhaphalakṛt[K.śastaphalaḥ]/  
   
 60.19cd/ miśraphalo +api grāhyo yadi na^ekāntapraśasto +asti//  
-  
-  
-  
-                   61 śvalakṣaṇādhyāyaḥ  
+
+61 śvalakṣaṇādhyāyaḥ  
   
   
   

@@ -3,15 +3,9 @@ title = "Pravrajyavastu"
 
 +++
 ## Intro
-  
-  
-  
-  
- Pravrajyavastu   
-  
-  
-  
-  
+
+Pravrajyavastu   
+
 Pravrajyavastu of the Vinayavstvagama of the Mulasarvastivadin (Vastu 1 im Vinayavastu)  
 Based on the edition by Vogel/Wille:  
 Pravr-v I (foll. 7-12) = C. Vogel, K. Wille: "Some Hitherto Unidentified Fragments of the Pravrajyāvastu Portion of the Vinayavastu Manuscript Found Near Gilgit", NAWG 1984, pp. 297Ō337.  
@@ -29,87 +23,16 @@ dto.: second edition, Delhi 1984.
 GBM = Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lokesh Chandra, 10 pts., New Delhi 1959Ō1974 (Śata-Piṭaka Series 10). (Some parts of the folios of the Anavaptagāthās of the Bhaiṣajyavastu and some Prajñāpāramitā texts are not reproduced)  
   
 dto.: repr. in 3 parts Delhi 1995. (The Vinayavastu manuscript is reproduced in vol. 2; the folios 43-53 of the Stein collection [Pravrajyāvastu/Poṣadhavastu] are not reproduced anymore)  
-  
-  
-  
-  
+
 Input by K. Wille (Göttingen, Germany)  
-  
-  
-  
-  
+
 BOLD for references  
 ITALICS for restored passages  
 {...} = emendation  
 * = virama  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 २र्१ (प्रव्र्-व् इइ): ॥। नामधेयानि व्यवस्थापितानि । बिंबिसारः कुमारो ऽष्टाभ्यो धात्रीभ्यो ऽनुप्रदत्तः द्वाभ्याम् अंसधात्रीभ्यां द्वाभ्यां क्षीरधात्रीभ्यां द्वाभ्यां मलधात्रीभ्यां द्वाभ्यां क्रीडनिकाभ्यां धात्रीभ्यां  
 २र्२ (प्रव्र्-व् इइ): ॥। उपकरणविशेषैर् आशुर् वर्धते ह्रदस्थम् इव पङ्कजम् ॥ यदा स महान् संवृत्तस् तदा लिप्याम् उपन्यस्तस् संख्यायां गणनायां मुद्रायां यानि च तानि राज्ञां क्षत्रियाणां  
 २र्३ (प्रव्र्-व् इइ): ॥। पृथग्भवन्ति शिल्पस्थानकर्मस्थानानि । तद्यथा हस्तिग्रीवायाम् अश्वपृष्ठे रथे त्सरौ धनुष्य् अपयाने निर्याणे अङ्कुशग्रहे पाशग्रहे तोमरग्रहे छेद्ये भेद्ये वेध्ये  
@@ -322,8 +245,7 @@ For further information see:
 १२व्८ (प्रव्र्-व् इ): ॥ ॥ ।इ + + + + + ।इ ॥। + + -आद्वयानां त्रिमलप्रहीणानां त्रिदमथवस्तुकुशलानां विद्यात्रयोद्द्योतकराणां शिक्षात्रय  
 १२व्९ (प्रव्र्-व् इ): ॥। ।आं पंचांगविप्रहीणानां पंचस्कन्धनैरात्म्यदैशिकानां षडङ्गसमन्वागतानां षट्पारमितापरिपूर्णानां  
 १२व्१० (प्रव्र्-व् इ): ॥। ॥र् लोकधर्मैर् अनुपलिप्तानाम् आर्याष्टाङ्गमार्गदैशिकानां नवाघातवस्तुकुशलानां  
-  
-  
+
 (प्रव्र्-व् इइइ २५४)(४३र् = ग्ब्म् ६।६८६) शोभनाम् आसनप्रज्ञप्तिः कृता प्रणीतं चाहारम् उपान्वाहृतं स तैर् उक्तो भदन्त संघरक्षित मासि तृषितो बुभुक्षितो वा । स कथयत्य् आयुष्मन्तस् त्रिषितो ऽस्मि बुभुक्षितश् चेति ।  
   
 ते कथयन्ति भदन्त संघरक्षित परिभुंक्ष्वेति स कथयति संघमध्ये भोक्ष्यामीति । ते कथयन्ति भदन्त संघरक्षित मार्गपरिखिन्नस् त्वम् इदानीम् एव भुंक्ष्व आदीनवो ऽत्र भविष्यतीति । स भुक्त्वा एकान्ते प्रक्रम्यावस्थितः  
@@ -725,7 +647,4 @@ For further information see:
 आख्याता सत्यनाम्ना वै सम्बुद्धेन प्रजानता । ॥  ॥  
   
 प्रव्रज्यावस्तु समाप्तम्* ॥  ॥  
-  
-  
-  
-  
+

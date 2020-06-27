@@ -3,15 +3,9 @@ title = "Sivasutra (with Vartika)"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Sivasutra (with Vartika)  
-  
-  
-  
-  
+
 Sivasutra (with Vartika)  
   
 Based on the edition by Madhusudan Kaul Shastri,  
@@ -24,75 +18,9 @@ Commentary marked with asterisk and brackets.
 Der digitalisierte Text kann in jedem Rahmen ohne   
 Einschraenkungen genutzt werden. Allerdings sollte ein   
 Hinweis auf den Einleser enthalten sein.  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 शिवसूत्र, प्रथम उन्मेष  
 चैतन्यम् आत्मा  ॥ सिव्स्_१।१ ॥  
 *      [  
@@ -361,9 +289,7 @@ For further information see:
 *      तदीयो ऽनुभवस् तस्य स्फुरणं स्वात्मनः स्फुटम्  ॥ सिव्स्व्_१।२०:१८ ॥  
 *      इति श्रीशाम्भवोपायप्रकाशनपरायणः  ॥ सिव्स्व्_१।२०:१९ ॥  
 *      उन्मेषः प्रथमः सम्यक्स्वरूपोन्मेषलक्षणः  ॥ सिव्स्व्_१।२०:२० ॥]  
-  
-  
-  
+
 शिवसूत्र, द्वितीय उन्मेष  
 चित्तं मन्त्रः  ॥ सिव्स्_२।१ ॥  
 *      [  
@@ -511,9 +437,7 @@ For further information see:
 *      उन्मज्जनं भवत्य् अस्य प्राग्व्याख्यातोत्तमात्मनः  ॥ सिव्स्व्_२।१०:५ ॥  
 *      अवधाने ऽवलिप्तस्य साधकस्येति शिष्यते  ॥ सिव्स्व्_२।१०:६ ॥  
 *      इति द्वितीय उन्मेषः शाक्तोपायप्रकाशकः  ॥ सिव्स्व्_२।१०:७ ॥]  
-  
-  
-  
+
 शिवसूत्र, तृतीय उन्मेष  
 आत्मा चित्तम्  ॥ सिव्स्_३।१ ॥  
 *      [  
@@ -1078,7 +1002,4 @@ For further information see:
 *      श्रीक्षेमराजनिर्णीतव्याख्यानाध्वानुसारिणा  ॥ सिव्स्व्_३।४५:१७ ॥  
 *      कृतिना कृष्णदासेन व्यञ्जितं कृपयाञ्जसा  ॥ सिव्स्व्_३।४५:१८ ॥  
 *      अनुगृह्णन्तु नामैतत् सन्तः संतोषम् आगताः  ॥ सिव्स्व्_३।४५:१९ ॥]  
-  
-  
-  
-  
+

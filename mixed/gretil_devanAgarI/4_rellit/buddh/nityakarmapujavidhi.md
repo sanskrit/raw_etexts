@@ -3,103 +3,27 @@ title = "Nityakarmapujavidhi"
 
 +++
 ## Intro
-  
-  
-  
-  
- Nityakarmapujavidhi   
-  
-  
-  
-  
+
+Nityakarmapujavidhi   
+
 Nityakarmapujavidhi = Nkpv  
 Based on the ed. by Ngawang Samten & J. Pandey: Nityakarmapūjāvidhiḥ  
 in: Dhīḥ Journal of rare Buddhist Texts Research,  
 Unit 33 (2002), p. 155-166.  
-  
-  
-  
+
 Input by members of the Sanskrit Buddhist Input Project.  
 With kind permission of the Digital Sanskrit Buddhist Canon Project  
 of Nagarjuna Institute, Nepal  
 and University of the West, Rosemead, California, USA  
 (www.uwest.edu/sanskritcanon)  
-  
-  
-  
+
 The transliteration emulates the conventions of Nagari script.  
 Therefore, many word boundaries are not marked by blanks.  
-  
-  
+
 BOLD for pagination of Samten/Pandey's edition (added)  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 (न्क्प्व्_१५७)  
 नित्यकर्मपूजाविधिः  
 ॐ नमः श्रीवज्रसत्त्वाय ।  
@@ -306,9 +230,4 @@ For further information see:
 इति नित्यकर्मपूजाविधिः समाप्तः ।  
   
 सर्वसत्त्वार्थसिद्धिर्भवन्तु ॥  
-  
-  
-  
-  
-  
-  
+

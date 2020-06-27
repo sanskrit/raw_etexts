@@ -3,98 +3,21 @@ title = "Angirasasmrti, text with pada markers"
 
 +++
 ## Intro
-  
-  
-  
-  
- Angirasasmrti, text with pada markers   
-  
-  
-  
-  
+
+Angirasasmrti, text with pada markers   
+
 Angirasasmrti  
 Based on the ed. by A.N. Krishna Aiyangar: Āṅgirasasmṛti,  
 Madras : Adyar Library 1953 (Adyar Library Series, 84)  
-  
-  
-  
+
 Input by Oliver Hellwig  
-  
-  
-  
+
 TEXT WITH PADA MARKERS  
-  
-  
-  
+
 BOLD for references to pages of the printed edition  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 पद मर्केर्स्  
   
 ड़ोर् अ ड़ोउर्-पद वेर्से:  
@@ -105,8 +28,7 @@ For further information see:
 ॥॥॥॥  $ ॥॥॥॥  &  
 ॥॥॥॥  % ॥॥॥॥  \  
 ॥॥॥॥  # ॥॥॥॥  ॥  
-  
-  
+
 [००१]  
 आङ्गिरसस्मृतिः  
 पूर्वाङ्गिरसम्  
@@ -2702,8 +2624,7 @@ For further information see:
 नदी च सजला ज्ञेया  % न तच्छून्या कदाचन  ॥ अन्ग्_१।१११३ ॥  
 इति आङ्गिरसम्  ।  
 इत्याङ्गिरसस्मृतौ पूर्वाङ्गिरसं समाप्तम्  ।  
-  
-  
+
 [१२७]  
 उत्तराङ्गिरसम्  
 प्रथमो ऽध्यायः  
@@ -2956,8 +2877,7 @@ For further information see:
 पानीयपाने कुर्वीत  $ पञ्चगव्यस्य प्राशनम्  &  
 त्रिरात्रोपोषणं भुङ्क्ते  % स्पर्शे स्नानं विधीयते  ॥ अन्ग्_२,८।२० ॥  
 इत्याङ्गिरसधर्मशास्त्रे शूद्रान्नादिनिषेधकथनं नामाष्टमो ऽध्यायः  
-  
-  
+
 नवमो ऽध्यायः  
 अन्तर्दशाहे भुक्त्वान्नं  $ सूतके मृतके ऽपि वा  &  
 [१४३]  
@@ -3112,7 +3032,4 @@ For further information see:
 इत्याङ्गिरसधर्मशास्त्रे कृच्छ्रादिस्वरूपकथनं नाम द्वादशो ऽध्यायः  
 इत्युत्तराङ्गिरसम्  
 इत्याङ्गिरसस्मृतिः  
-  
-  
-  
-  
+

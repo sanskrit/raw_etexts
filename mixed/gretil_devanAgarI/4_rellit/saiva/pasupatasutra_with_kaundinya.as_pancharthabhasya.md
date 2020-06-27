@@ -3,93 +3,20 @@ title = "Pasupatasutra with Kaundinya's Pancarthabhasya"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Pasupatasutra with Kaundinya's Pancarthabhasya  
-  
-  
-  
-  
+
 Pasupatasutra  
 with Kaundinya's Pancarthabhasya  
   
 Based on the edition by R. Anantakrishna Shastri  
 Trivandrum: The Oriental Manuscripts Library of the University of Travancore, 1940  
 (Trivandrum Sanskrit Series ; 143)  
-  
-  
+
 Input by Oliver Hellwig  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 पाशुपतसूत्र, १  
   
 अथातः पशुपतेः पाशुपतं योगविधिं व्याख्यास्यामः  ॥ प्स्_१।१ ॥  
@@ -1280,8 +1207,7 @@ For further information see:
 * एवमत्र भगवत्कौण्डिन्यकृते पञ्चार्थभाष्ये प्रथमोऽध्यायः सह ब्रह्मणा ग्रन्थतो ऽर्थतश्च परिसमाप्त इति  ॥ प्स्भ्_१।४४:५  
   
 **********************************************  
-  
-  
+
 पाशुपतसूत्र, २  
   
 वामः  ॥ प्स्_२।१ ॥  
@@ -1864,8 +1790,7 @@ For further information see:
 * सम्भावनान्यत्वाच् चापुनरुक्ताः सर्वे नमःशब्दा द्रष्टव्याः  ॥ प्स्भ्_२।२७:८  
   
 **********************************************  
-  
-  
+
 पाशुपतसूत्र, ३  
   
 अव्यक्तलिङ्गी  ॥ प्स्_३।१ ॥  
@@ -2287,8 +2212,7 @@ For further information see:
 * रूपनिर्देशार्थान्यत्वाच् च पुनरुक्तापुनरुक्ताभ्यां शब्दा द्रष्टव्याः  ॥ प्स्भ्_३।२६:१५  
   
 **********************************************  
-  
-  
+
 पाशुपतसूत्र, ४  
   
 गूढविद्या तपआनन्त्याय प्रकाशते  ॥ प्स्_४।१ ॥  
@@ -2793,8 +2717,7 @@ For further information see:
 * उक्तं हि रुद्रस्येच्छापूर्वको यो योगो ज्ञानक्रियाशक्तिभ्यां पश्वादिषु सम्भवः तच्चोदनम् आहुर् आचार्याः  ॥ प्स्भ्_४।२४:११  
   
 **********************************************  
-  
-  
+
 पाशुपतसूत्र, ५  
   
 असङ्गः  ॥ प्स्_५।१ ॥  
@@ -3909,7 +3832,4 @@ For further information see:
 * शुभम्  ॥ प्स्भ्_५।४६:५२  
   
 **********************************************  
-  
-  
-  
-  
+

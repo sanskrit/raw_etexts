@@ -3,19 +3,12 @@ title = "Nagarjuna: Pancakrama"
 
 +++
 ## Intro
-  
-  
-  
-  
- Nagarjuna: Pancakrama   
-  
-  
-  
-  
+
+Nagarjuna: Pancakrama   
+
 Nagarjuna: Pancakrama (= Pk)  
 Based on the ed. by Ram Ram Shankar Tripathi: Piṇḍīkramaḥ Pañcakramaś ca, Varanasi/Sarnath 2001  
-  
-  
+
 Input by members of the Sanskrit Buddhist Input Project.  
 With kind permission of the Digital Sanskrit Buddhist Canon Project  
 of Nagarjuna Institute, Nepal  
@@ -23,82 +16,14 @@ and University of the West, Rosemead, California, USA
 (www.uwest.edu/sanskritcanon)  
 Version: 2009-04-29 09:28:35  
 Proof Reader: Milan Shakya  
-  
-  
+
 The transliteration emulates the conventions of Nagari script.  
 Therefore, many word boundaries are not marked by blanks.  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 पञ्चक्रमः  
-  
-  
+
 [१]  
 वज्रजापक्रमः प्रथमः  
   
@@ -273,8 +198,7 @@ For further information see:
 ग्रन्थप्रमाणमस्य षदधिकसप्ततिः ॥  
   
 प्रथमः क्रमः ॥  
-  
-  
+
 [२]  
 अनुत्तरसन्धिरित्यपरनामा सर्वशुद्धिविशुद्धिक्रमः द्वितीयः  
   
@@ -476,8 +400,7 @@ For further information see:
 कृतिरियं शाक्यमित्रपादानाम् । ग्रन्थप्रमाणमस्य शतमेकम् ।  
   
 द्वितीयः क्रमः ।  
-  
-  
+
 [३]  
 स्वाधिष्ठानक्रमः तृतीयः  
   
@@ -593,8 +516,7 @@ For further information see:
 ॥ स्वाधिष्ठानक्रमस्तृतीयः समाप्तः ॥  
   
 कृतिरियमाचार्यनागार्जुनपादानाम् । ग्रन्थप्रमाणमस्य षट्पञ्चाशत् ।  
-  
-  
+
 [४]  
 अभिसम्बोधिक्रमः चतुर्थः  
   
@@ -691,8 +613,7 @@ For further information see:
   
 कृतिरियम् आचार्यनागार्जुनपादानाम् ।  
 ग्रन्थप्रमाणमस्य श्लोकाश्चत्वारिंशत् ।  
-  
-  
+
 [५]  
 युगनद्धक्रमः पञ्चमः  
   
@@ -797,8 +718,4 @@ For further information see:
 तेषां च यो निरोध एवंवादी महाश्रमणः ॥  
   
 शुभमस्तु  
-  
-  
-  
-  
-  
+

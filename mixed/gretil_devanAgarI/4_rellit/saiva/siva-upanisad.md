@@ -3,14 +3,9 @@ title = "Siva-Upanisad"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Siva-Upanisad  
-  
-  
-  
+
 Siva-Upanisad  
 Based on the edition included in:  
 Un-published Upanisads / ed. by the Pandits of Adyar Library   
@@ -18,8 +13,7 @@ under the supervision of C. Kunhan Raja
 Adyar 1933 (The Adyar Library Series ; 14)  
   
 Input by Reinhold Gruenendahl  
-  
-  
+
 Text analysis according to BHELA conventions:  
   
 Sandhi markers:  
@@ -36,8 +30,7 @@ in sentence-sandhi:
 8: . -  
 9: - .  
 0: - -  
-  
-  
+
 PADA MARKERS  
   
 For a four-pada verse:  
@@ -48,77 +41,11 @@ For a six-pada verse:
 ........  $ ........  &  
 ........  % ........  \  
 ........  # ........  //  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 शिवोपनिषद्  
-  
-  
+
 कैलास-शिखरा३सीनम्  $ अशेषा१मर-पूजितम्  &  
 काल-घ्नं श्री-महाकालम्  % ईश्वरं ज्ञान-पारगम्  ॥ १।१ ॥  
 संपूज्य विधिवद् भक्त्या  $ ऋष्य्-आत्रेयः सुसंयतः  &  
@@ -201,9 +128,7 @@ For further information see:
 लिङ्गम् आयतनं चे७ति  % तत्र कर्म प्रवर्तते  ॥ १।३७ ॥  
   
 ॥ इति शिवोपनिषदि मुक्तिनिर्देशाध्यायः प्रथमः  ॥  
-  
-  
-  
+
 अथ पूर्व-स्थितो लिङ्गे  $ गर्भः स त्रि-गुणो भवेत्  &  
 गर्भाद् वा९पि विभागेन  % स्थाप्य लिङ्गं शिवा३लये  ॥ २।१ ॥  
 यावल् लिङ्गस्य दैर्घ्यं स्यात्  $ तावद् वेद्याश् च विस्तरः  &  
@@ -303,9 +228,7 @@ For further information see:
 तावत्-कल्पान् महा-भोगस्  # तत्-कर्ता०स्ते शिवे पुरे  ॥ ३।१४ ॥  
   
 ॥ इति शिवोपनिषदि शिवगृहाध्यायस् तृतीयः  ॥  
-  
-  
-  
+
 अथै१कभिन्ना१विच्छिन्नं  $ पुरतः शान्ति-मण्डपम्  &  
 पूर्वा१परा१ष्ट-हस्तं स्याद्  % द्वादशो१त्तर-दक्षिणे  ॥ ४।१ ॥  
 तद् द्वार-भित्ति-संबद्धं  $ कपि-च्छुक-समावृतम्  &  
@@ -444,8 +367,7 @@ For further information see:
 बाह्य-कर्म-विनिर्मुक्ता  % ज्ञान-ध्यान-समाकुलाः  ॥ ४।६७ ॥  
   
 ॥ इति शिवोपनिषदि शान्तिगृहाग्निकार्याध्यायश् चतुर्थः  ॥  
-  
-  
+
 अथा८ग्नेयं महा-स्नानम्  $ अलक्ष्मी-मल-नाशनम्  &  
 सर्व-पाप-हरं दिव्यं  % तपः श्री-कीर्ति-वर्धनम्  ॥ ५।१॥  
 अग्नि-रूपेण रुद्रेण  $ स्व-तेजः परमं बलम्  &  
@@ -552,8 +474,7 @@ For further information see:
 उपस्थाय ततः सूर्यं  % यजेच् छिवम् अनन्तरम्  ॥ ५।५२ ॥  
   
 ॥ इति शिवोपनिषदि शिव-भस्म-स्नानाध्यायः पञ्चमः  ॥  
-  
-  
+
 अथ भक्त्या शिवं पूज्य  $ नैवेद्यम् उपकल्पयेत्  &  
 यद् अन्नम् आत्मना९श्नीयात्  % तस्या८ग्रे विनिवेदयेत्  ॥ ६।१ ॥  
 यः कृत्वा भक्ष्य-भोज्यानि  $ यत्नेन विनिवेदयेत्  &  
@@ -1127,8 +1048,7 @@ For further information see:
 दत्त्वा यज्ञ-फलं विद्यात्  # किमु तद्-वस्तु-दानतः  ॥ ६।२८४ ॥  
   
 ॥ इति शिवोपनिषदि फलोपकरणप्रदानाध्यायः षष्ठः  ॥  
-  
-  
+
 अथ स्वर्गा१पवर्गा१र्थे  $ प्रवक्ष्यामि समासतः  &  
 सर्वेषां शिव-भक्तानां  % शिवा३चारम् अनुत्तमम्  ॥ ७।१ ॥  
 शिवः शिवाय भूतानां  $ यस्माद् दानं प्रयच्छति  &  
@@ -1414,6 +1334,4 @@ For further information see:
 ॥ इति शिवोपनिषदि शिवाचाराध्यायः सप्तमः ॥  
   
    ॥ इति शिवोपनिषत् समाप्ता ॥  
-  
-  
-  
+

@@ -3,15 +3,9 @@ title = "Samyuktagama (966-972 according to the Chinese canon)"
 
 +++
 ## Intro
-  
-  
-  
-  
- Samyuktagama (966-972 according to the Chinese canon)   
-  
-  
-  
-  
+
+Samyuktagama (966-972 according to the Chinese canon)   
+
 Samyuktagama (966-972 according to the Chinese canon)  
 Based on the following editions:  
 SĀ(Hos1) = N. Hosoda, "Sanskrit Fragments from the Parivrājakasaṃyukta of the Saṃyuktāgama (I)", Indian Philosophy and Buddhism, Essays in Honour of Professor Kotatsu Fujita, Kyḥto 1989. pp. 185-206.  
@@ -22,82 +16,13 @@ SĀ(Hos3) = N. Hosoda, "Bonbun 'Zḥagongyḥ'; Busshosetsuhon Gedḥsḥḥ (II
   
 cf. N. Hosoda, "A Study of the Xylographic Fragments of the Saṃyuktāgama from Chinese Turkestan, Published by R. Pischel", IBK 37.2 (1989), S. 540-546.  
 cf. BrSK = R. Pischel, "Bruchstücke des Sanskritkanons der Buddhisten aus Idykutḥari, Chinesisch-Turkestān", SPAW 1904, pp. 807_827. Vgl. hierzu SĀ(Hos1), SĀ(Hos2), SĀ(Hos3).  
-  
-  
-  
+
 Input by Klaus Wille, Göttingen (Germany)  
-  
-  
+
 ITALICS for restored passages  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
-  
+
 ब्ल्। १५७व्१-र्५ पूर्णिक सा(होस्१)  
 ४। अथायुष्मान् पूर्णिको ऽचिरप्रक्रान्तान् संबहुलान् अन्यतीर्थिकपरिव्राजकान् विदित्वा येन भगवांस् तेनोपजगाम। उपेत्य भगवत्पादौ शिरसा वन्दित्वा, एकान्ते न्यषीदत्। एकान्तनिषन्न  आयुष्मान् पूर्णिको यावद् एवास्याभूत्। संबहुलैर् अन्यतीर्थिकपरिव्राजकैः सार्धम् अन्तराकथासमुदाहारस् तत् सर्वं भगवतो विस्तरेणारोचयति। एवं चाह।  
 ५। कच्चिद् अहं भदन्त एवं व्याकुर्वाणो नो च भगवन्तम् अभ्याचक्षे। नातिसराम्य् उक्तवादी चाहं भगवतो धर्मवादी च धर्मस्य चानुधर्मं व्याकरोमि। न च मे कश्चिद् आगच्छेत् परतः सह धर्मेण वादानुवादं गर्हस्थानीयो धर्मः।  
@@ -193,7 +118,4 @@ For further information see:
 ६। ब्राह्मणा एवम् आहुः। सर्वे प्राणिनो ऽवधा इति वदमाना ब्राह्मणाः सत्यम् आहुर् न मृशा। श्रेयांसः स्म इति मन्यन्ते सदृशा स्म इति मन्यन्ते हीना स्म इति मन्यन्ते यद् अत्र सत्यं तद् अनभिनिवेश्य सर्वलोके मैत्रासहगतेन चित्तेन विहरन्ति। इदं प्रथमं ब्राह्मणसत्यं यन् मया स्वयम् अभिज्ञाय साक्षीकृत्वोपसंपद्य प्रवेदितं।  
 ७। ब्राह्मणा एवम् आहुः। यत् किंचित् समुदयधर्मं सर्वं निरोधधर्मकम् इति वदमाना ब्राह्मणाः सत्यम् आहुर् न मृशा। पूर्ववद् यावद् इति यद् अत्र सत्यं तद् अनभिनिविश्य सर्वलोके उदयव्ययानुदर्शिनो विहरंति। इदं द्वितीयं ब्राह्मणसत्यं यन् मया स्वयम् अभिज्ञाय साक्षीकृत्वोपसंपद्य प्रवेदितं।  
 ८। ब्राह्मणा एवम् आहुर्। न मम क्वचन कश्चन किञ्चनम् अस्ति नास्य क्वचन कश्चन किञ्चनम् अस्तीति वदमाना ब्राह्मणाः सत्यम् आहुर् न मृशा। पूर्ववद् यावद् इति यद् अत्र सत्यं तद् अनभिनिविश्य सर्वलोके अममायन्तो विहरंति। इदं त्रितीयं ब्राह्मणसत्यं यन् मया स्वयम् अभिज्ञाय साक्षीकृत्वोपसंपद्य प्रवेदितं।  
-  
-  
-  
-  
+

@@ -3,94 +3,20 @@ title = "Tattvasamasa (in 4 alternative versions)"
 
 +++
 ## Intro
-  
-  
-  
-  
- Tattvasamasa (in 4 alternative versions)  
-  
-  
-  
-  
+
+Tattvasamasa (in 4 alternative versions)  
+
 Tattvasamasa, an abstract of Sāṃkhya philosophy in (23-) 25 sūtras,  
 IN FOUR ALTERNATIVE VERSION.  
 Basic text extracted from Simanandadiksita's  Samkhyatattvavivecana,  
 a commentary on the Tattvasamāsa (cf. separate file).  
 Based on the ed. by Vindhyesvari Prasada Dvivedin in: Sāmkhyasaṅgrahaḥ  
 (Chowkhamba Sanskrit Series, 50,1 [fasc. 286], pp. 1-49)  
-  
-  
-  
+
 Input by Dhaval Patel  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 अष्टौ प्रकृतयः  ॥ तत्स्_१  ॥  
 षोडश विकाराः  ॥ तत्स्_२  ॥  
 पुरुषः  ॥ तत्स्_३  ॥  
@@ -116,13 +42,9 @@ For further information see:
 एतत् परम्परया याथातथ्यम्  ॥ तत्स्_२३ ॥  
 एतत् सर्वं ज्ञात्वा कृतकृत्यः स्यात्  ॥ तत्स्_२४ ॥  
 न पुनस्त्रिविधेन दुःखेनाभिभूयते  ॥ तत्स्_२५ ॥  
-  
-  
-  
+
 _______________________________________________________________  
-  
-  
-  
+
 अल्तेर्नतिवे दिविसिओन् ओड़् त्हे अबोवे तेXत्  
 अच्चोर्दिन्ग् तो भावागणेशऽस् तत्त्वयाथार्थ्यदीपन चोम्म्।  
 (च्ड़्। सेपरते ड़िले)  
@@ -152,12 +74,9 @@ _______________________________________________________________
 त्रिविधं प्रमाणम्   ॥ तत्स्_२३ ॥  
 त्रिविधं दुःखम्  ॥ तत्स्_२४ ॥  
 एतत्परं याथार्थ्यं एतज्ज्ञात्वा कृतकृत्यः स्यान्न पुनस्त्रिविधदुःखेनाभिभूयते  ॥ तत्स्_२५ ॥  
-  
-  
+
 _______________________________________________________________  
-  
-  
-  
+
 अल्तेर्नतिवे दिविसिओन् ओड़् त्हे अबोवे तेXत्  
 अच्चोर्दिन्ग् तो थे सांख्यसूत्रविवरण चोम्म्।  
 (च्ड़्। सेपरते ड़िले)  
@@ -181,12 +100,9 @@ _______________________________________________________________
 त्रिविधो बन्धः  ॥ तत्स्_२१ ॥  
 त्रिविधो मोक्षः  ॥ तत्स्_२२ ॥  
 त्रिविधं प्रमाणम्  ॥ तत्स्_२३ ॥  
-  
-  
+
 _______________________________________________________________  
-  
-  
-  
+
 अल्तेर्नतिवे वेर्सिओन् एXत्रच्तेद् ड़्रोम् अ सन्स्क्नेत् ड़िले  
 ओड़् थे सांख्यसूत्रस् (च्ड़्। सेपरते ड़िले)  
   
@@ -222,7 +138,4 @@ _______________________________________________________________
 एतत्परं याथातथ्यं  । तत्स्_२।१६ ।  
 एतत्ज्ञात्वा कृतकृत्यः स्यात्  । तत्स्_२।१७ ।  
 नासौ पुनः त्रिविधेन दुःखेनाभिभूयते नाभिभीयते  । तत्स्_२।१८ ।  
-  
-  
-  
-  
+

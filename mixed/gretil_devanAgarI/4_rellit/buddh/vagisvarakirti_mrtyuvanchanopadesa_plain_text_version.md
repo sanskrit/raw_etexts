@@ -3,96 +3,21 @@ title = "Vagisvarakirti: Mrtyuvancanopadesa, plain text version"
 
 +++
 ## Intro
-  
-  
-  
-  
- Vagisvarakirti: Mrtyuvancanopadesa, plain text version   
-  
-  
-  
-  
+
+Vagisvarakirti: Mrtyuvancanopadesa, plain text version   
+
 Vagisvarakirti: Mrtyuvancanopadesa  
 Based on the ed. by Johannes Schneider: Vāgīśvarakīrtis Mṛtyuvañcanopadeśa, eine buddhistische Lehrschrift zur Abwehr des Todes.  
 Wien : Verlag der Österreichischen Akademie der Wissenschaften 2010.  
 (Beiträge zur Kultur- und Geistesgeschichte Asiens ; 66) (Denkschriften der philosophisch-historischen Klasse ; 394)  
 ISBN 978-3-7001-6722-8  
-  
-  
+
 Input by Johannes Schneider  
-  
-  
-  
+
 PLAIN TEXT VERSION  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 ॥ ॐ नमः सर्वज्ञाय ॥  
   
 अधिगतपरमार्थः श्रीघनव्यूह एव प्रति तुषितजनार्थं यो ऽभवच् छ्वेतकेतुः  ।  
@@ -870,7 +795,4 @@ For further information see:
 ग्रन्थप्रमाणम् आख्यातं साशीतिकशतत्रयम्  ॥ व्म्व्_४।१०२ ॥  
   
 ॥ इति श्रीपण्डिताचार्यवागीश्वरकीर्तिविरचिते मृत्युवञ्चनोपदेशे चतुर्थः परिच्छेदः समाप्तः ॥  
-  
-  
-  
-  
+

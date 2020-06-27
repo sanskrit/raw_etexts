@@ -3,90 +3,18 @@ title = "Abhayakaragupta: Nispannayogavali, chapter 1"
 
 +++
 ## Intro
-  
-  
-  
-  
- Abhayakaragupta: Nispannayogavali, chapter 1   
-  
-  
-  
-  
+
+Abhayakaragupta: Nispannayogavali, chapter 1   
+
 Abhayakaragupta: Nispannayogavali, chapter 1  
 Based on the edition by R.O. Meisezahl: "Akṣobhya-Mañjuvajra, Ikonographie und Ikonologie des Ekonaviṃśadātmakamañjuvajramaṇḍala", Oriens 25-26 (1976), pp. 190-274. = Am  
-  
-  
+
 Input by Klaus Wille (Göttingen, Germany)  
-  
-  
+
 BOLD for pagination of Meisezahl's ed.  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 (अम् २२३)  
 ॐ नमः श्रीवज्रसत्त्वाय ॥  
   
@@ -139,8 +67,4 @@ For further information see:
 किं वा द्विर् उत्पत्त्या । सकृद् उत्पन्नम् एव हि वज्रभूबन्धप्राकारादिकं समस्तसमारोपशून्यतास्वभावं मायामयम् अवतिष्ठत एव । विद्यमानत्वे ऽपि रक्षाचक्रस्य मण्डलेष्व् अलिखनोपत्तिर् उक्तैव । कैश्चित् तु क्वचिद् रक्षाचक्रम् अपि लिखितुं संमन्यते ॥  
   
 इति मञ्जुवज्रमण्डलम् ॥ ॥  
-  
-  
-  
-  
-  
+

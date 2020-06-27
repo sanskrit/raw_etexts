@@ -3,15 +3,9 @@ title = "Abhinavagupta: Malinislokavarttika, Kanda 2"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Abhinavagupta: Malinislokavarttika, Kanda 2  
-  
-  
-  
-  
+
 Abhinavagupta: Malinislokavarttika, Kanda 2  
   
 1.   verses I.1-399 are the critical text taken from my edition:  
@@ -24,78 +18,11 @@ Abhinavagupta: Malinislokavarttika, Kanda 2
 4.   perhaps a few TeX-codes have remained due to oversight  
 5.   corrections are very welcome    
                            Jürgen Hanneder (hanneder@indologie.uni-halle.de)  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
+
 अभिनवगुप्त: मालिनीश्लोकवार्त्तिक  
-  
-  
-  
+
 द्वितीयः काण्डः  
   
 एवं महेश्वरो देवो विश्वात्मत्वेन संस्थितः   
@@ -437,8 +364,7 @@ For further information see:
 \ \ दुःखे सुखे वा गलिताभिशङ्कम्   
 अनाविशन्तो ऽपि निमग्नचित्ता   
 \ \ जानन्ति वृत्तिक्षयसौख्यम् अन्तः  ॥ २।११४ ॥  
-  
-  
+
 सत्य् एवात्मनि चित्स्वभावमहसि स्वान्ते तथोपक्रियां   
 तस्मै कुर्वति तत्प्रचारचतुरे सत्य् अक्षवर्गे ऽपि च   
 सत्स्व् अर्थेषु रसादिषु स्फुटतरं यद् भेदवन्ध्योदयं   
@@ -480,8 +406,7 @@ For further information see:
 आत्मानुसारिसद्भावसमावेशदशाश्रयात्   
 तत्तत्परकुलेशानशक्तिचक्रार्चनाक्रमे   
 प्रयात्य् एवाप्रयत्नेन करणत्वं स्वभावतः  ॥ २।१२५ ॥  
-  
-  
+
 कृत्वाधारधरां चमत्कृतिरसप्रोक्षाक्षणक्षालिताम्   
 आत्तैर् मानसतः स्वभावकुसुमैः स्वामोदसंदोहिभिः   
 आनन्दामृतनिर्भरस्वहृदयानर्घार्घपात्रक्रमात्   
@@ -1139,8 +1064,4 @@ For further information see:
   
 प्रवरपुरनामधेये पुरे पूर्वे काश्मीरिको ऽभिनवगुप्तः   
 मालिन्यादिमवाक्ये वार्त्तिकम् एतद् रचयति स्म  ॥ २।३३५ ॥  
-  
-  
-  
-  
-  
+

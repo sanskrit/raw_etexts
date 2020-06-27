@@ -3,115 +3,37 @@ title = "Khandadeva: Bhattadipika, 2,4"
 
 +++
 ## Intro
-  
-  
-  
-  
+
 Khandadeva: Bhattadipika, 2,4  
-  
-  
-  
-  
-  
+
 Khandadeva: Bhattadipika, a commentary on Jaimini's Mimamsasutra,  
 Adhyaya 2, Adhikarana 4,  
 with Sambhubhatta's Prabhavali (subcomm.)  
 Based on the ed. by N.S. Ananta Krishna Sastri  
 Bombay 1921-1922 (Reprint: Delhi 1987)  
 (Sri Garib Dass Oriental Series, 50-)  
-  
-  
+
 Input by members of the Sansknet project  
 (www.sansknet.org) [server down!]  
-  
-  
+
 This GRETIL version has been converted from a custom Devanagari encoding.  
 Therefore, word boundaries are usually not marked by blanks.  
 These and other irregularities cannot be standardized at present.  
-  
-  
+
 An attempt to structure the text according to sutras had to be  
 abandoned for want of an adequate printed edition.  
-  
-  
+
 THE TEXT IS NOT PROOF-READ!  
   
 #<...># = BOLD  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 <B1> चतुर्थः पादः ।  
 (१ अधिकरणम् । ) (अ।२ पा।४ अधि।१)   
-  
-  
+
 यावज्जीविको ऽभ्यासः कर्मधर्मः प्रकरणात्  । जैम्_२,४।१ ।  
-  
-  
+
 "यावज्जीवं दर्शपूर्णमासाभ्यां यजेते" त्यत्र काम्ये एव स्वर्गाद्यर्थे दर्शपूर्णमासकर्मणि जीवनपर्याप्तकालविधिः ।  
 नच पौर्णमास्यादिकालविरोधः; व्याप्यव्यापकभावेन अमावास्यापराह्णादिवदुभयोरप्युपपत्तेः ।  
 अत एव विनिगमनाविरहात्कालद्वयविधावपि प्रयोगद्वयविधिः ।  
@@ -173,11 +95,9 @@ For further information see:
 (निमित्तत्वनिर्वचनम्) निमित्तत्वञ्च नानुष्ठापकत्वमात्ररूपं कामनादिवत्, तथात्वे कामशास्त्रेणैव तादृशानुष्ठानसिद्धौ एतद्वचनवैयर्थ्यापत्तेः, यावच्छब्दानुवादानुपपत्तेश्च, अतो नियतानुष्ठापकत्वस्याक्षेपात्तद्घटितं निमित्तस्वरूपमाह ----------- निमित्तत्वं चेति ॥  
 (निमित्तसमभिव्याहृतविधेरकरणे प्रत्यवायबोधकत्वम्) नियतत्वस्यच बुद्धिपूर्वकारिणा पुरुषेण स्वतो ऽसंपाद्यमानत्वात् निमित्तसमभिव्याहृतो विधिः योग्यताबलेन विधेयाकरणस्य प्रत्यवायसाधनतां बोधयतीत्यभिप्रेत्याह ---------- अतश्चेति ॥  
 अतश्चैतादृशनिमित्तत्वानुरोधेनावश्यकर्तव्यतारूपनियमस्यार्थसिद्धस्य कर्तृधर्मत्वेन विधानोक्तिः   
-  
-  
+
 कर्तुर् वा श्रुतिसंयोगात्  । जैम्_२,४।२ ।  
-  
-  
+
 इति सूत्र इति भावः ॥  
 (विश्वजिन्न्यायाप्रवृत्त्या वाक्यशेषगतपापक्षयार्थत्वोपपादनम्) अत्र प्राभाकरैर्विधेयाकरणस्य विधिना प्रत्यवायजनकत्वबोधने ऽपि करणस्य नैव किञ्चित्फलमित्यङ्गीक्रियते ।  
 न्यायसुधाकृता तु प्रत्ययवाच्यभावनाया भाव्यसाकाङ्क्षत्वनियमात् करणात्फलाङ्गीकारेप्यकरणनिमित्तप्रत्यवायप्रागभावपरिपालनस्य फलत्वमित्युक्तम्, तदुभयनिरासायाह --------- करणे चेति ॥  
@@ -248,7 +168,4 @@ For further information see:
 अत्र द्वितीयाध्यायस्समाप्तः ॥  
   
 अध्यायः पादः अधिकरणसंख्या आदितो ऽधिकरणसंख्या २ ४ ४७ ७१ ॥  
-  
-  
-  
-  
+

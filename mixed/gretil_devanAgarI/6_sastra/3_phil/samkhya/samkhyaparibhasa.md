@@ -3,100 +3,24 @@ title = "Samkhyaparibhasa"
 
 +++
 ## Intro
-  
-  
-  
-  
- Samkhyaparibhasa   
-  
-  
-  
-  
+
+Samkhyaparibhasa   
+
 Samkhyaparibhasa  
 Based on the ed. by Vindhyesvari Prasada Dvivedin in: Sāṃkhyasaṃgrahaḥ  
 (Chowkhamba Sanskrit Series, 50, pp. 197-224)  
-  
-  
-  
+
 Input by Dhaval Patel  
-  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
+
 ## पाठः
-  
-  
-  
-  
-  
-  
-  
+
 सांख्यपरिभाषा   ।  
   
 श्रीगणेशाय नमः   ।  
 श्रीदक्षिणामूर्तिगुरुभ्यो नमः   ।  
   
 स्वानुभवं यथामति व्याख्यास्यामः   ।  
-  
-  
+
 ॐ नमो नारायणाय प्रकृत्यै पुरुषाय च   ।  
 वेदान्तसारगुह्याय साङ्ख्यतत्त्वस्वरूपिणे   ॥ १   ॥  
 योगिनां परहंसानां तत्त्वज्ञानार्थदर्शनम्   ।  
@@ -545,13 +469,9 @@ For further information see:
 इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते   ।  
 एतद्यो वेत्ति तम प्राहुः क्षेत्रज्ञ इति तद्विदः   ॥ ८   ॥  
      इति सांख्यपरिभाषा (१)  ॥  
-  
-  
+
 (१) सांख्यपरिभाषाग्रन्थस्य एकमेवादर्शपुस्तकं प्राप्तमपि च ग्रन्थकृता ग्रन्थप्रारम्भे-  
 विभक्तिमत्र यो पश्येत्तस्य ज्ञानं च दूरतः   ।  
 गुरुयुक्त्या प्रसादेन ग्रन्थगर्भावलोकनम्   ॥   
 इति प्रतिज्ञातत्वादस्य मुद्रणे कारिते बहुषु स्थलेषु अगत्या ऽशुद्धिरस्ति किन्तु ग्रन्थार्थरक्षार्थं न तन्निरासे ऽस्माभिर्दृष्टिपातः कृतः   । ग्रन्थो ऽपि खण्डित इवाभाति   ।  
-  
-  
-  
-  
+
