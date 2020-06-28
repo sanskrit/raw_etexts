@@ -1,0 +1,2 @@
+- Dump of sanskritdocuments.org site - facilitate offline (re)search and use.
+- Full credits to sanskritdocuments.org, Nandu Abhyankar and all contributors.
