@@ -1,81 +1,80 @@
 ---
 
-
 ---
 # बोओक् १: चोन्चेर्निन्ग् थे तोपिच् ओड़् त्रैनिन्ग्
  \[क् त्र्। १-६१\] ,  \[क्२ त्र्। १-५४\] 
- Chapter 1: Enumeration of Sections and Books
- \[K tr. 1\] ,  \[K2 tr. 1\] 
-oṃ.namaḥ.śukra.bṛhaspatibhyāṃ |
+ छप्तेर् १: एनुमेरतिओन् ओड़् सेच्तिओन्स् अन्द् बोओक्स्
+ \[क् त्र्। १\] ,  \[क्२ त्र्। १\] 
+ॐ।नमः।शुक्र।बृहस्पतिभ्यां ।
 
-KAZ01.1.01 pṛthivyā lābhe pālane ca yāvanty artha.śāstrāṇi pūrva.ācāryaiḥ prasthāpitāni prāyaśas tāni saṃhṛtya-ekam idam artha.śāstraṃ kṛtam | 1 |
+कज़्०१।१।०१ पृथिव्या लाभे पालने च यावन्त्य् अर्थ।शास्त्राणि पूर्व।आचार्यैः प्रस्थापितानि प्रायशस् तानि संहृत्य-एकम् इदम् अर्थ।शास्त्रं कृतम् । १ ।
 
-KAZ01.1.02 tasya-ayaṃ prakaraṇa.adhikaraṇa.samuddeśaḥ | 2 |
+कज़्०१।१।०२ तस्य-अयं प्रकरण।अधिकरण।समुद्देशः । २ ।
 
-KAZ01.1.03a vidyā.samuddeśaḥ, vṛddha.samuddeśaḥ, indriya.jayaḥ, amātya.utpattiḥ, mantri.purohita.utpattiḥ, upadhābhiḥ śauca.aśauca.jñānam amātyānām, -
+कज़्०१।१।०३अ विद्या।समुद्देशः, वृद्ध।समुद्देशः, इन्द्रिय।जयः, अमात्य।उत्पत्तिः, मन्त्रि।पुरोहित।उत्पत्तिः, उपधाभिः शौच।अशौच।ज्ञानम् अमात्यानाम्, -
 
-KAZ01.1.03b gūḍha.puruṣa.praṇidhiḥ, sva.viṣaye kṛtya.akṛtya.pakṣa.rakṣaṇam, para.viṣaye kṛtya.akṛtya.pakṣa.upagrahaḥ, -
+कज़्०१।१।०३ब् गूढ।पुरुष।प्रणिधिः, स्व।विषये कृत्य।अकृत्य।पक्ष।रक्षणम्, पर।विषये कृत्य।अकृत्य।पक्ष।उपग्रहः, -
 
-KAZ01.1.03c mantra.adhikāraḥ, dūta.praṇidhiḥ, rāja.putra.rakṣaṇam, aparuddha.vṛttam, aparuddhe vṛttiḥ, rāja.praṇidhiḥ, niśānta.praṇidhiḥ, ātma.rakṣitakam - iti vinaya.adhikārikaṃ prathamam adhikaraṇam | 3 |
+कज़्०१।१।०३च् मन्त्र।अधिकारः, दूत।प्रणिधिः, राज।पुत्र।रक्षणम्, अपरुद्ध।वृत्तम्, अपरुद्धे वृत्तिः, राज।प्रणिधिः, निशान्त।प्रणिधिः, आत्म।रक्षितकम् - इति विनय।अधिकारिकं प्रथमम् अधिकरणम् । ३ ।
 
-KAZ01.1.04a janapada.niveśaḥ, bhūmic.chidra.apidhānam, durga.vidhānam, durga.niveśaḥ, samnidhātṛ.nicaya.karma, samāhartṛ.samudaya.prasthāpanam, akṣa.paṭale gāṇanikya.adhikāraḥ, -
+कज़्०१।१।०४अ जनपद।निवेशः, भूमिच्।छिद्र।अपिधानम्, दुर्ग।विधानम्, दुर्ग।निवेशः, सम्निधातृ।निचय।कर्म, समाहर्तृ।समुदय।प्रस्थापनम्, अक्ष।पटले गाणनिक्य।अधिकारः, -
 
-KAZ01.1.04b samudayasya yukta.apahṛtasya pratyānayanam, upayukta.parīkṣā, śāsana.adhikāraḥ, kośa.praveśya.ratna.parīkṣā, ākara.karma.anta.pravartanam, akṣa.śālāyāṃ suvarṇa.adhyakṣaḥ -
+कज़्०१।१।०४ब् समुदयस्य युक्त।अपहृतस्य प्रत्यानयनम्, उपयुक्त।परीक्षा, शासन।अधिकारः, कोश।प्रवेश्य।रत्न।परीक्षा, आकर।कर्म।अन्त।प्रवर्तनम्, अक्ष।शालायां सुवर्ण।अध्यक्षः -
 
-KAZ01.1.04c viśikhāyāṃ sauvarṇika.pracāraḥ, koṣṭha.āgāra.adhyakṣaḥ, paṇya.adhyakṣaḥ, kupya.adhyakṣaḥ, āyudha.adhyakṣaḥ, tulā.māna.pautavam, -
+कज़्०१।१।०४च् विशिखायां सौवर्णिक।प्रचारः, कोष्ठ।आगार।अध्यक्षः, पण्य।अध्यक्षः, कुप्य।अध्यक्षः, आयुध।अध्यक्षः, तुला।मान।पौतवम्, -
 
-KAZ01.1.04d deśa.kāla.mānam, śulka.adhyakṣaḥ, sūtra.adhyakṣaḥ, sīta.adhyakṣaḥ, surā.adhyakṣaḥ, sūna.adhyakṣaḥ, gaṇikā.adhyakṣaḥ, -
+कज़्०१।१।०४द् देश।काल।मानम्, शुल्क।अध्यक्षः, सूत्र।अध्यक्षः, सीत।अध्यक्षः, सुरा।अध्यक्षः, सून।अध्यक्षः, गणिका।अध्यक्षः, -
 
-KAZ01.1.04e nāv.adhyakṣaḥ, go.adhyakṣaḥ, aśva.adhyakṣaḥ, hasty.adhyakṣaḥ, ratha.adhyakṣaḥ, patty.adhyakṣaḥ, senā.pati.pracāraḥ, mudrā.adhyakṣaḥ, vivīta.adhyakṣaḥ, samāhartṛ.pracāraḥ, -
+कज़्०१।१।०४ए नाव्।अध्यक्षः, गो।अध्यक्षः, अश्व।अध्यक्षः, हस्त्य्।अध्यक्षः, रथ।अध्यक्षः, पत्त्य्।अध्यक्षः, सेना।पति।प्रचारः, मुद्रा।अध्यक्षः, विवीत।अध्यक्षः, समाहर्तृ।प्रचारः, -
 
-KAZ01.1.04f gṛha.patika.vaidehaka.tāpasa.vyañjanāḥ praṇidhayaḥ, nāgarika.praṇidhiḥ - ity adhyakṣa.pracāro dvitīyam adhikaraṇam | 4 |
+कज़्०१।१।०४ड़् गृह।पतिक।वैदेहक।तापस।व्यञ्जनाः प्रणिधयः, नागरिक।प्रणिधिः - इत्य् अध्यक्ष।प्रचारो द्वितीयम् अधिकरणम् । ४ ।
 
-KAZ01.1.05a vyavahāra.sthāpanā, vivāda.pada.nibandhaḥ, vivāha.samyuktam, dāya.vibhāgaḥ, vāstukam, samayasya anapākarma, ṛṇa.adānam, aupanidhikam, dāsa.karma.kara.kalpaḥ, -
+कज़्०१।१।०५अ व्यवहार।स्थापना, विवाद।पद।निबन्धः, विवाह।सम्युक्तम्, दाय।विभागः, वास्तुकम्, समयस्य अनपाकर्म, ऋण।अदानम्, औपनिधिकम्, दास।कर्म।कर।कल्पः, -
 
-KAZ01.1.05b sambhūya samutthānam, vikrīta.krīta.anuśayaḥ, dattasya anapākarma, asvāmi.vikrayaḥ, sva.svāmi.sambandhaḥ, sāhasam, vāk.pāruṣyam, daṇḍa.pāruṣyam, dyūta.samāhvayam, prakīrṇakam - iti, dharma.sthīyaṃ tṛtīyam adhikaraṇam | 5 |
+कज़्०१।१।०५ब् सम्भूय समुत्थानम्, विक्रीत।क्रीत।अनुशयः, दत्तस्य अनपाकर्म, अस्वामि।विक्रयः, स्व।स्वामि।सम्बन्धः, साहसम्, वाक्।पारुष्यम्, दण्ड।पारुष्यम्, द्यूत।समाह्वयम्, प्रकीर्णकम् - इति, धर्म।स्थीयं तृतीयम् अधिकरणम् । ५ ।
 
-KAZ01.1.06a kāru.kara.kṣaṇam, vaidehaka.rakṣaṇam, upanipāta.pratīkāraḥ, gūḍha.ājīvināṃ rakṣā, siddha.vyañjanair māṇava.prakāśanam, śaṅkā.rūpa.karma.abhigrahaḥ, -
+कज़्०१।१।०६अ कारु।कर।क्षणम्, वैदेहक।रक्षणम्, उपनिपात।प्रतीकारः, गूढ।आजीविनां रक्षा, सिद्ध।व्यञ्जनैर् माणव।प्रकाशनम्, शङ्का।रूप।कर्म।अभिग्रहः, -
 
-KAZ01.1.06b āśu.mṛtaka.parīkṣā, vākya.karma.anuyogaḥ, sarva.adhikaraṇa.rakṣaṇaṃ -
+कज़्०१।१।०६ब् आशु।मृतक।परीक्षा, वाक्य।कर्म।अनुयोगः, सर्व।अधिकरण।रक्षणं -
 
-KAZ01.1.06c eka.aṅga.vadha.niṣkrayaḥ, śuddhaś citraś ca daṇḍa kalpaḥ, kanyā.prakarma, aticāra.daṇḍāḥ - iti kaṇṭaka.śodhanaṃ caturtham adhikaraṇam | 6 |
+कज़्०१।१।०६च् एक।अङ्ग।वध।निष्क्रयः, शुद्धश् चित्रश् च दण्ड कल्पः, कन्या।प्रकर्म, अतिचार।दण्डाः - इति कण्टक।शोधनं चतुर्थम् अधिकरणम् । ६ ।
 
-KAZ01.1.07 dāṇḍakarmikam, kośa.abhisaṃharaṇam, bhṛtya.bharaṇīyam, anujīvi.vṛttam, samaya.ācārikam, rājya.pratisandhānam, eka.aiśvaryam - iti yoga.vṛttaṃ pañcamam adhikaraṇam | 7 |
+कज़्०१।१।०७ दाण्डकर्मिकम्, कोश।अभिसंहरणम्, भृत्य।भरणीयम्, अनुजीवि।वृत्तम्, समय।आचारिकम्, राज्य।प्रतिसन्धानम्, एक।ऐश्वर्यम् - इति योग।वृत्तं पञ्चमम् अधिकरणम् । ७ ।
 
-KAZ01.1.08 prakṛti.sampadaḥ, śama.vyāyāmikam - iti maṇḍala.yoniḥ ṣaṣṭham adhikaraṇam | 8 |
+कज़्०१।१।०८ प्रकृति।सम्पदः, शम।व्यायामिकम् - इति मण्डल।योनिः षष्ठम् अधिकरणम् । ८ ।
 
-KAZ01.1.09a ṣāḍguṇya.samuddeśaḥ, kṣaya.sthāna.vṛddhi.niścayaḥ, saṃśraya.vṛttiḥ, samahīna.jyāyasāṃ guṇa.abhiniveśaḥ, hīna.sandhayaḥ, vigṛhya āsanam, sandhāya āsanam, vigṛhya yānam, sandhāya yānam, -
+कज़्०१।१।०९अ षाड्गुण्य।समुद्देशः, क्षय।स्थान।वृद्धि।निश्चयः, संश्रय।वृत्तिः, समहीन।ज्यायसां गुण।अभिनिवेशः, हीन।सन्धयः, विगृह्य आसनम्, सन्धाय आसनम्, विगृह्य यानम्, सन्धाय यानम्, -
 
-KAZ01.1.09b sambhūya prayāṇam, yātavya.amitrayor abhigraha.cintā, kṣaya.lobha.virāga.hetavaḥ prakṛtīnām, sāmavāyika.viparimarśaḥ, -
+कज़्०१।१।०९ब् सम्भूय प्रयाणम्, यातव्य।अमित्रयोर् अभिग्रह।चिन्ता, क्षय।लोभ।विराग।हेतवः प्रकृतीनाम्, सामवायिक।विपरिमर्शः, -
 
-KAZ01.1.09c saṃhita prayāṇikam, paripaṇita.aparipaṇita.apasṛtāḥ sandhayaḥ, dvaidhī.bhāvikāḥ sandhi.vikramāḥ, yātavya.vṛttiḥ, anugrāhya.mitra.viśeṣāḥ, -
+कज़्०१।१।०९च् संहित प्रयाणिकम्, परिपणित।अपरिपणित।अपसृताः सन्धयः, द्वैधी।भाविकाः सन्धि।विक्रमाः, यातव्य।वृत्तिः, अनुग्राह्य।मित्र।विशेषाः, -
 
-KAZ01.1.09d mitra.hiraṇya.bhūmi.karma.sandhayaḥ, pārṣṇi.grāha.cintā, hīna.śakti.pūraṇam, balavatā vigṛhya uparodha.hetavaḥ, daṇḍa.upanata.vṛttam, -
+कज़्०१।१।०९द् मित्र।हिरण्य।भूमि।कर्म।सन्धयः, पार्ष्णि।ग्राह।चिन्ता, हीन।शक्ति।पूरणम्, बलवता विगृह्य उपरोध।हेतवः, दण्ड।उपनत।वृत्तम्, -
 
-KAZ01.1.09e daṇḍa.upanāyi.vṛttam, sandhi.karma, samādhi.mokṣaḥ, madhyama.caritam, udāsīna.caritam, maṇḍala.caritam - iti ṣāḍguṇyaṃ saptamam adhikaraṇam | 9 |
+कज़्०१।१।०९ए दण्ड।उपनायि।वृत्तम्, सन्धि।कर्म, समाधि।मोक्षः, मध्यम।चरितम्, उदासीन।चरितम्, मण्डल।चरितम् - इति षाड्गुण्यं सप्तमम् अधिकरणम् । ९ ।
 
-KAZ01.1.10 prakṛti.vyasana.vargaḥ, rāja.rājyayor vyasana.cintā, puruṣa.vyasana.vargaḥ, pīḍana.vargaḥ, stambha.vargaḥ, kośa.saṅga.vargaḥ, mitra.vyasana.vargaḥ - iti vyasana.ādhikārikam aṣṭamam adhikaraṇam | 10 |
+कज़्०१।१।१० प्रकृति।व्यसन।वर्गः, राज।राज्ययोर् व्यसन।चिन्ता, पुरुष।व्यसन।वर्गः, पीडन।वर्गः, स्तम्भ।वर्गः, कोश।सङ्ग।वर्गः, मित्र।व्यसन।वर्गः - इति व्यसन।आधिकारिकम् अष्टमम् अधिकरणम् । १० ।
 
-KAZ01.1.11a śakti.deśa.kāla.bala.abala.jñānam, yātrā.kālāḥ, bala.upādāna.kālāḥ, samnāha.guṇāḥ, pratibala.karma, paścāt kopa.cintā, bāhya.ābhyantara.prakṛti.kopa.pratīkārāḥ -
+कज़्०१।१।११अ शक्ति।देश।काल।बल।अबल।ज्ञानम्, यात्रा।कालाः, बल।उपादान।कालाः, सम्नाह।गुणाः, प्रतिबल।कर्म, पश्चात् कोप।चिन्ता, बाह्य।आभ्यन्तर।प्रकृति।कोप।प्रतीकाराः -
 
-KAZ01.1.11b kṣaya.vyaya.lābha.- viparimarśaḥ, bāhya.ābhyantarāś ca-āpadaḥ, duṣya.śatru.samyuktāḥ, artha.anartha.saṃśaya.yuktāḥ, tāsām upāya.vikalpajāḥ siddhayaḥ - ity abhiyāsyat karma navamam adhikaraṇam | 11 |
+कज़्०१।१।११ब् क्षय।व्यय।लाभ।- विपरिमर्शः, बाह्य।आभ्यन्तराश् च-आपदः, दुष्य।शत्रु।सम्युक्ताः, अर्थ।अनर्थ।संशय।युक्ताः, तासाम् उपाय।विकल्पजाः सिद्धयः - इत्य् अभियास्यत् कर्म नवमम् अधिकरणम् । ११ ।
 
-KAZ01.1.12 skandha.āvāra.niveśaḥ, skandha.āvāra.prayāṇam, bala.vyasana.avaskanda.kāla.rakṣaṇam, kūṭa.yuddha.vikalpāḥ, sva.sainya.utsāhanam, sva.bala.anya.bala.vyāyogaḥ, yuddha.bhūmayaḥ, patty.aśva.ratha.hasti.karmāṇi, pakṣa.kakṣa.urasyānāṃ bala.agrato vyūha.vibhāgaḥ, sāra.phalgu.bala.vibhāgaḥ, patty.aśva.ratha.hasti.yuddhāni, daṇḍa.bhoga.maṇḍala.asaṃhata.vyūha.vyūhanam, tasya prativyūha.sthāpanam - iti sāṅgrāmikaṃ daśamam adhikaraṇam | 12 |
+कज़्०१।१।१२ स्कन्ध।आवार।निवेशः, स्कन्ध।आवार।प्रयाणम्, बल।व्यसन।अवस्कन्द।काल।रक्षणम्, कूट।युद्ध।विकल्पाः, स्व।सैन्य।उत्साहनम्, स्व।बल।अन्य।बल।व्यायोगः, युद्ध।भूमयः, पत्त्य्।अश्व।रथ।हस्ति।कर्माणि, पक्ष।कक्ष।उरस्यानां बल।अग्रतो व्यूह।विभागः, सार।फल्गु।बल।विभागः, पत्त्य्।अश्व।रथ।हस्ति।युद्धानि, दण्ड।भोग।मण्डल।असंहत।व्यूह।व्यूहनम्, तस्य प्रतिव्यूह।स्थापनम् - इति साङ्ग्रामिकं दशमम् अधिकरणम् । १२ ।
 
-KAZ01.1.13 bheda.upādānāni, upāṃśu.daṇḍāḥ - iti saṅgha.vṛttam ekādaśam adhikaraṇam | 13 |
+कज़्०१।१।१३ भेद।उपादानानि, उपांशु।दण्डाः - इति सङ्घ।वृत्तम् एकादशम् अधिकरणम् । १३ ।
 
-KAZ01.1.14 dūta.karma, mantra.yuddham, senā.mukhya.vadhaḥ, maṇḍala.protsāhanam, śastra.agni.rasa.praṇidhayaḥ, vīvadha.āsāra.prasāra.vadhaḥ, yoga.atisandhānam, daṇḍa.atisandhānam, eka.vijayaḥ - ity ābalīyasaṃ dvādaśam adhikaraṇam | 14 |
+कज़्०१।१।१४ दूत।कर्म, मन्त्र।युद्धम्, सेना।मुख्य।वधः, मण्डल।प्रोत्साहनम्, शस्त्र।अग्नि।रस।प्रणिधयः, वीवध।आसार।प्रसार।वधः, योग।अतिसन्धानम्, दण्ड।अतिसन्धानम्, एक।विजयः - इत्य् आबलीयसं द्वादशम् अधिकरणम् । १४ ।
 
-KAZ01.1.15 upajāpaḥ, yoga.vāmanam, apasarpa.praṇidhiḥ, paryupāsana.karma, avamardaḥ, labdha.praśamanam - iti durga.lambha.upāyas trayodaśam adhikaraṇam | 15 |
+कज़्०१।१।१५ उपजापः, योग।वामनम्, अपसर्प।प्रणिधिः, पर्युपासन।कर्म, अवमर्दः, लब्ध।प्रशमनम् - इति दुर्ग।लम्भ।उपायस् त्रयोदशम् अधिकरणम् । १५ ।
 
-KAZ01.1.16 para.bala.ghāta.prayogaḥ, pralambhanam, sva.bala.upaghāta.pratīkāraḥ - ity aupaniṣadikaṃ caturdaśam adhikaraṇam | 16 |
+कज़्०१।१।१६ पर।बल।घात।प्रयोगः, प्रलम्भनम्, स्व।बल।उपघात।प्रतीकारः - इत्य् औपनिषदिकं चतुर्दशम् अधिकरणम् । १६ ।
 
-KAZ01.1.17 tantra.yuktayaḥ - iti tantra.yuktiḥ pañcadaśam adhikaraṇam | 17 |
+कज़्०१।१।१७ तन्त्र।युक्तयः - इति तन्त्र।युक्तिः पञ्चदशम् अधिकरणम् । १७ ।
 
-KAZ01.1.18 śāstra.samuddeśaḥ pañcadaśa.adhikaraṇāni sa-aśīti.prakaraṇa.śataṃ sa-pañcāśad.adhyāya.śataṃ ṣaṭ.śloka.sahasrāṇi-iti | 18 |
+कज़्०१।१।१८ शास्त्र।समुद्देशः पञ्चदश।अधिकरणानि स-अशीति।प्रकरण।शतं स-पञ्चाशद्।अध्याय।शतं षट्।श्लोक।सहस्राणि-इति । १८ ।
 
-KAZ01.1.19ab sukha.grahaṇa.vijñeyaṃ tattva.artha.pada.niścitam |  
-KAZ01.1.19cd kauṭilyena kṛtaṃ śāstraṃ vimukta.grantha.vistaram || 19 ||  
+कज़्०१।१।१९अब् सुख।ग्रहण।विज्ञेयं तत्त्व।अर्थ।पद।निश्चितम् ।  
+कज़्०१।१।१९च्द् कौटिल्येन कृतं शास्त्रं विमुक्त।ग्रन्थ।विस्तरम् ॥ १९ ॥  
 
 
  छप्तेर् २ (सेच्तिओन् १): एनुमेरतिओन् ओड़् थे स्चिएन्चेस्
@@ -106,44 +105,44 @@ KAZ01.1.19cd kauṭilyena kṛtaṃ śāstraṃ vimukta.grantha.vistaram || 19 |
 कज़्०१।२।१२च्द् आश्रयः सर्व।धर्माणां शश्वद् आन्वीक्षिकी मता ॥ १२ ॥  
 
 
- Chapter 3 (Section 1): Enumeration of the Sciences (cont.)
- \[K tr. 8\] ,  \[K2 tr. 7\] 
-KAZ01.3.01 sāma.ṛg.yajur.vedās trayas trayī | 1 |
+ छप्तेर् ३ (सेच्तिओन् १): एनुमेरतिओन् ओड़् थे स्चिएन्चेस् (चोन्त्।)
+ \[क् त्र्। ८\] ,  \[क्२ त्र्। ७\] 
+कज़्०१।३।०१ साम।ऋग्।यजुर्।वेदास् त्रयस् त्रयी । १ ।
 
-KAZ01.3.02 atharva.veda.itihāsa.vedau ca vedāḥ | 2 |
+कज़्०१।३।०२ अथर्व।वेद।इतिहास।वेदौ च वेदाः । २ ।
 
-KAZ01.3.03 śikṣā kalpo vyākaraṇaṃ niruktaṃ chando.vicitir jyotiṣam iti ca-aṅgāni | 3 |
+कज़्०१।३।०३ शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो।विचितिर् ज्योतिषम् इति च-अङ्गानि । ३ ।
 
-KAZ01.3.04 eṣa trayī.dharmaś caturṇāṃ varṇānām āśramāṇāṃ ca sva.dharma.sthāpanād aupakārikaḥ | 4 |
+कज़्०१।३।०४ एष त्रयी।धर्मश् चतुर्णां वर्णानाम् आश्रमाणां च स्व।धर्म।स्थापनाद् औपकारिकः । ४ ।
 
-KAZ01.3.05 svadharmo brāhmaṇasya adhyayanam adhyāpanaṃ yajanaṃ yājanaṃ dānaṃ pratigrahaś ca | 5 |
+कज़्०१।३।०५ स्वधर्मो ब्राह्मणस्य अध्ययनम् अध्यापनं यजनं याजनं दानं प्रतिग्रहश् च । ५ ।
 
-KAZ01.3.06 kṣatriyasya-adhyayanaṃ yajanaṃ dānaṃ śastra.ājīvo bhūta.rakṣaṇaṃ ca | 6 |
+कज़्०१।३।०६ क्षत्रियस्य-अध्ययनं यजनं दानं शस्त्र।आजीवो भूत।रक्षणं च । ६ ।
 
-KAZ01.3.07 vaiśyasya-adhyayanaṃ yajanaṃ dānaṃ kṛṣi.pāśupālye vaṇijyā ca | 7 |
+कज़्०१।३।०७ वैश्यस्य-अध्ययनं यजनं दानं कृषि।पाशुपाल्ये वणिज्या च । ७ ।
 
-KAZ01.3.08 śūdrasya dvijāti.śuśrūṣā vārttā kāru.kuśīlava.karma ca | 8 |
+कज़्०१।३।०८ शूद्रस्य द्विजाति।शुश्रूषा वार्त्ता कारु।कुशीलव।कर्म च । ८ ।
 
-KAZ01.3.09 gṛhasthasya svadharma.ājīvas tulyair asamāna.ṛṣibhir vaivāhyam ṛtu.gāmitvaṃ deva.pitr.atithi.pūjā bhṛtyeṣu tyāgaḥ śeṣa.bhojanaṃ ca | 9 |
+कज़्०१।३।०९ गृहस्थस्य स्वधर्म।आजीवस् तुल्यैर् असमान।ऋषिभिर् वैवाह्यम् ऋतु।गामित्वं देव।पित्र्।अतिथि।पूजा भृत्येषु त्यागः शेष।भोजनं च । ९ ।
 
-KAZ01.3.10 brahma.cāriṇaḥ svādhyāyo agni.kārya.abhiṣekau bhaikṣa.vratitvam ācārye prāṇa.antikī vṛttis tad.abhāve guru.putre sa-brahma.cāriṇi vā | 10 |
+कज़्०१।३।१० ब्रह्म।चारिणः स्वाध्यायो अग्नि।कार्य।अभिषेकौ भैक्ष।व्रतित्वम् आचार्ये प्राण।अन्तिकी वृत्तिस् तद्।अभावे गुरु।पुत्रे स-ब्रह्म।चारिणि वा । १० ।
 
-KAZ01.3.11 vānaprasthasya brahmacaryaṃ bhūmau śayyā jaṭā.ajina.dhāraṇam agni.hotra.abhiṣekau devatā.pitr.atithi.pūjā vanyaś ca-āhāraḥ | 11 |
+कज़्०१।३।११ वानप्रस्थस्य ब्रह्मचर्यं भूमौ शय्या जटा।अजिन।धारणम् अग्नि।होत्र।अभिषेकौ देवता।पित्र्।अतिथि।पूजा वन्यश् च-आहारः । ११ ।
 
-KAZ01.3.12 parivrājakasya jita.indriyatvam anārambho niṣkiñcanatvaṃ saṅga.tyāgo bhaikṣavratam anekatra-araṇye ca vāso bāhya.ābhyantaraṃ ca śaucam | 12 |
+कज़्०१।३।१२ परिव्राजकस्य जित।इन्द्रियत्वम् अनारम्भो निष्किञ्चनत्वं सङ्ग।त्यागो भैक्षव्रतम् अनेकत्र-अरण्ये च वासो बाह्य।आभ्यन्तरं च शौचम् । १२ ।
 
-KAZ01.3.13 sarveṣām ahiṃsā satyaṃ śaucam anasūya ānṛśaṃsyaṃ kṣamā ca | 13 |
+कज़्०१।३।१३ सर्वेषाम् अहिंसा सत्यं शौचम् अनसूय आनृशंस्यं क्षमा च । १३ ।
 
-KAZ01.3.14 svadharmaḥ svargāya-ānantyāya ca | 14 |
+कज़्०१।३।१४ स्वधर्मः स्वर्गाय-आनन्त्याय च । १४ ।
 
-KAZ01.3.15 tasya-atikrame lokaḥ saṅkarād ucchidyeta | 15 |
+कज़्०१।३।१५ तस्य-अतिक्रमे लोकः सङ्कराद् उच्छिद्येत । १५ ।
 
-KAZ01.3.16ab tasmāt svadharmaṃ bhūtānāṃ rājā na vyabhicārayet |  
-KAZ01.3.16cd svadharmaṃ sandadhāno hi pretya ca-iha ca nandati || 16 ||  
+कज़्०१।३।१६अब् तस्मात् स्वधर्मं भूतानां राजा न व्यभिचारयेत् ।  
+कज़्०१।३।१६च्द् स्वधर्मं सन्दधानो हि प्रेत्य च-इह च नन्दति ॥ १६ ॥  
 
 
-KAZ01.3.17ab vyavasthita.ārya.maryādaḥ kṛta.varṇa.āśrama.sthitiḥ |  
-KAZ01.3.17cd trayyā-abhirakṣito lokaḥ prasīdati na sīdati || 17 ||  
+कज़्०१।३।१७अब् व्यवस्थित।आर्य।मर्यादः कृत।वर्ण।आश्रम।स्थितिः ।  
+कज़्०१।३।१७च्द् त्रय्या-अभिरक्षितो लोकः प्रसीदति न सीदति ॥ १७ ॥  
 
 
  छप्तेर् ४ (सेच्तिओन् १): एनुमेरतिओन् ओड़् थे स्चिएन्चेस् (चोन्त्।)
@@ -182,42 +181,42 @@ KAZ01.3.17cd trayyā-abhirakṣito lokaḥ prasīdati na sīdati || 17 ||
 कज़्०१।४।१६च्द् स्वधर्म।कर्म।अभिरतो वर्तते स्वेषु वर्त्मसु ॥ १६ ॥  
 
 
- Chapter 5 (Section 2): Association with Elders
- \[K tr. 11\] ,  \[K2 tr. 10\] 
-KAZ01.5.01 tasmād daṇḍa.mūlās tisro vidyāḥ | 1 |
+ छप्तेर् ५ (सेच्तिओन् २): अस्सोचिअतिओन् wइथ् एल्देर्स्
+ \[क् त्र्। ११\] ,  \[क्२ त्र्। १०\] 
+कज़्०१।५।०१ तस्माद् दण्ड।मूलास् तिस्रो विद्याः । १ ।
 
-KAZ01.5.02 vinaya.mūlo daṇḍaḥ prāṇabhṛtāṃ yoga.kṣema.āvahaḥ | 2 |
+कज़्०१।५।०२ विनय।मूलो दण्डः प्राणभृतां योग।क्षेम।आवहः । २ ।
 
-KAZ01.5.03 kṛtakaḥ svābhāvikaś ca vinayaḥ | 3 |
+कज़्०१।५।०३ कृतकः स्वाभाविकश् च विनयः । ३ ।
 
-KAZ01.5.04 kriyā hi dravyaṃ vinayati na-adravyam | 4 |
+कज़्०१।५।०४ क्रिया हि द्रव्यं विनयति न-अद्रव्यम् । ४ ।
 
-KAZ01.5.05 śuśrūṣā śravaṇa.grahaṇa.dhāraṇa.vijñāna.ūha.apoha.tattva.abhiniviṣṭa.buddhiṃ vidyā vinayati na-itaram | 5 |
+कज़्०१।५।०५ शुश्रूषा श्रवण।ग्रहण।धारण।विज्ञान।ऊह।अपोह।तत्त्व।अभिनिविष्ट।बुद्धिं विद्या विनयति न-इतरम् । ५ ।
 
-KAZ01.5.06 vidyānāṃ tu yathāsvam ācārya.prāmāṇyād vinayo niyamaś ca | 6 |
+कज़्०१।५।०६ विद्यानां तु यथास्वम् आचार्य।प्रामाण्याद् विनयो नियमश् च । ६ ।
 
-KAZ01.5.07 vṛtta.caula.karmā lipiṃ saṅkhyānaṃ ca-upayuñjīta | 7 |
+कज़्०१।५।०७ वृत्त।चौल।कर्मा लिपिं सङ्ख्यानं च-उपयुञ्जीत । ७ ।
 
-KAZ01.5.08 vṛtta.upanayanas trayīm ānvīkṣikīṃ ca śiṣṭebhyo vārttām adhyakṣebhyo daṇḍa.nītiṃ vaktṛ.prayoktṛbhyaḥ | 8 |
+कज़्०१।५।०८ वृत्त।उपनयनस् त्रयीम् आन्वीक्षिकीं च शिष्टेभ्यो वार्त्ताम् अध्यक्षेभ्यो दण्ड।नीतिं वक्तृ।प्रयोक्तृभ्यः । ८ ।
 
-KAZ01.5.09 brahmacaryaṃ ca ṣoḍaśād varṣāt | 9 |
+कज़्०१।५।०९ ब्रह्मचर्यं च षोडशाद् वर्षात् । ९ ।
 
-KAZ01.5.10 ato go.dānaṃ dāra.karma ca-asya | 10 |
+कज़्०१।५।१० अतो गो।दानं दार।कर्म च-अस्य । १० ।
 
-KAZ01.5.11 nityaś ca vidyā.vṛddha.samyogo vinaya.vṛddhy.artham, tan.mūlatvād vinayasya | 11 |
+कज़्०१।५।११ नित्यश् च विद्या।वृद्ध।सम्योगो विनय।वृद्ध्य्।अर्थम्, तन्।मूलत्वाद् विनयस्य । ११ ।
 
-KAZ01.5.12 pūrvam ahar.bhāgaṃ hasty.aśva.ratha.praharaṇa.vidyāsu vinayaṃ gacchet | 12 |
+कज़्०१।५।१२ पूर्वम् अहर्।भागं हस्त्य्।अश्व।रथ।प्रहरण।विद्यासु विनयं गच्छेत् । १२ ।
 
-KAZ01.5.13 paścimam itihāsa.śravaṇe | 13 |
+कज़्०१।५।१३ पश्चिमम् इतिहास।श्रवणे । १३ ।
 
-KAZ01.5.14 purāṇam itivṛttam ākhyāyika.udāharaṇaṃ dharma.śāstram artha.śāstraṃ ca-iti-itihāsaḥ | 14 |
+कज़्०१।५।१४ पुराणम् इतिवृत्तम् आख्यायिक।उदाहरणं धर्म।शास्त्रम् अर्थ।शास्त्रं च-इति-इतिहासः । १४ ।
 
-KAZ01.5.15 śeṣam ahorātra.bhāgam apūrva.grahaṇaṃ gṛhīta.paricayaṃ ca kuryāt, agṛhītānām ābhīkṣṇya.śravaṇaṃ ca | 15 |
+कज़्०१।५।१५ शेषम् अहोरात्र।भागम् अपूर्व।ग्रहणं गृहीत।परिचयं च कुर्यात्, अगृहीतानाम् आभीक्ष्ण्य।श्रवणं च । १५ ।
 
-KAZ01.5.16 śrutādd hi prajñā-upajāyate prajñāyā yogo yogād ātmavattā-iti vidyānāṃ sāmarthyam | 16 |
+कज़्०१।५।१६ श्रुताद्द् हि प्रज्ञा-उपजायते प्रज्ञाया योगो योगाद् आत्मवत्ता-इति विद्यानां सामर्थ्यम् । १६ ।
 
-KAZ01.5.17ab vidyā.vinīto rājā hi prajānāṃ vinaye rataḥ |  
-KAZ01.5.17cd ananyāṃ pṛthivīṃ bhuṅkte sarva.bhūta.hite rataḥ || 17 ||  
+कज़्०१।५।१७अब् विद्या।विनीतो राजा हि प्रजानां विनये रतः ।  
+कज़्०१।५।१७च्द् अनन्यां पृथिवीं भुङ्क्ते सर्व।भूत।हिते रतः ॥ १७ ॥  
 
 
  छप्तेर् ६ (सेच्तिओन् ३): चोन्त्रोल् ओवेर् थे सेन्सेस्
@@ -250,26 +249,26 @@ KAZ01.5.17cd ananyāṃ pṛthivīṃ bhuṅkte sarva.bhūta.hite rataḥ || 17 
 कज़्०१।६।१२च्द् अम्बरीषश् च नाभागो बुभुजाते चिरं महीम् ॥ १२ ॥  
 
 
- Chapter 7 (Section 3): Control over the Senses (cont.)
- \[K tr. 14\] ,  \[K2 tr. 13\] 
-KAZ01.7.01 tasmād ari.ṣaḍ.varga.tyāgena-indriya.jayaṃ kurvīta, vṛddha.samyogena prajñām, cāreṇa cakṣuḥ, utthānena yoga.kṣema.sādhanam, kārya.anuśāsanena svadharma.sthāpanam, vinayaṃ vidyā.upadeśena, loka.priyatvam artha.samyogena, hitena vṛttim | 1 |
+ छप्तेर् ७ (सेच्तिओन् ३): चोन्त्रोल् ओवेर् थे सेन्सेस् (चोन्त्।)
+ \[क् त्र्। १४\] ,  \[क्२ त्र्। १३\] 
+कज़्०१।७।०१ तस्माद् अरि।षड्।वर्ग।त्यागेन-इन्द्रिय।जयं कुर्वीत, वृद्ध।सम्योगेन प्रज्ञाम्, चारेण चक्षुः, उत्थानेन योग।क्षेम।साधनम्, कार्य।अनुशासनेन स्वधर्म।स्थापनम्, विनयं विद्या।उपदेशेन, लोक।प्रियत्वम् अर्थ।सम्योगेन, हितेन वृत्तिम् । १ ।
 
-KAZ01.7.02 evaṃ vaśya.indriyaḥ para.strī.dravya.hiṃsāś ca varjayet, svapnaṃ laulyam anṛtam uddhata.veṣatvam anarthya.samyogam adharma.samyuktam anartha.samyuktaṃ ca vyavahāram | 2 |
+कज़्०१।७।०२ एवं वश्य।इन्द्रियः पर।स्त्री।द्रव्य।हिंसाश् च वर्जयेत्, स्वप्नं लौल्यम् अनृतम् उद्धत।वेषत्वम् अनर्थ्य।सम्योगम् अधर्म।सम्युक्तम् अनर्थ।सम्युक्तं च व्यवहारम् । २ ।
 
-KAZ01.7.03 dharma.artha.avirodhena kāmaṃ seveta, na nihsukhaḥ syāt | 3 |
+कज़्०१।७।०३ धर्म।अर्थ।अविरोधेन कामं सेवेत, न निह्सुखः स्यात् । ३ ।
 
-KAZ01.7.04 samaṃ vā trivargam anyonya.anubaddham | 4 |
+कज़्०१।७।०४ समं वा त्रिवर्गम् अन्योन्य।अनुबद्धम् । ४ ।
 
-KAZ01.7.05 eko hy atyāsevito dharma.artha.kāmānām ātmānam itarau ca pīḍayati | 5 |
+कज़्०१।७।०५ एको ह्य् अत्यासेवितो धर्म।अर्थ।कामानाम् आत्मानम् इतरौ च पीडयति । ५ ।
 
-KAZ01.7.06 artha-eva pradhāna-iti kauṭilyaḥ | 6 |
+कज़्०१।७।०६ अर्थ-एव प्रधान-इति कौटिल्यः । ६ ।
 
-KAZ01.7.07 artha.mūlau hi dharma.kāmāv iti | 7 |
+कज़्०१।७।०७ अर्थ।मूलौ हि धर्म।कामाव् इति । ७ ।
 
-KAZ01.7.08 maryādāṃ sthāpayed ācāryān amātyān vā, ya-enam apāya sthānebhyo vārayeyuḥ, chāyā.nālikā.pratodena vā rahasi pramādyantam abhitudeyuḥ | 8 |
+कज़्०१।७।०८ मर्यादां स्थापयेद् आचार्यान् अमात्यान् वा, य-एनम् अपाय स्थानेभ्यो वारयेयुः, छाया।नालिका।प्रतोदेन वा रहसि प्रमाद्यन्तम् अभितुदेयुः । ८ ।
 
-KAZ01.7.09ab sahāya.sādhyaṃ rājatvaṃ cakram ekaṃ na vartate |  
-KAZ01.7.09cd kurvīta sacivāṃs tasmāt teṣāṃ ca śṛṇuyān matam || 9 ||  
+कज़्०१।७।०९अब् सहाय।साध्यं राजत्वं चक्रम् एकं न वर्तते ।  
+कज़्०१।७।०९च्द् कुर्वीत सचिवांस् तस्मात् तेषां च शृणुयान् मतम् ॥ ९ ॥  
 
 
  छप्तेर् ८ (सेच्तिओन् ५): अप्पोइन्त्मेन्त् ओड़् मिनिस्तेर्स्
@@ -336,30 +335,30 @@ KAZ01.7.09cd kurvīta sacivāṃs tasmāt teṣāṃ ca śṛṇuyān matam || 9
 कज़्०१।८।२९च्द् अमात्याः सर्व एव-एते कार्याः स्युर् न तु मन्त्रिणः ॥ २९ ॥  
 
 
- Chapter 9 (Section 5): Appointment of Counsellors and Chaplain
- \[K tr. 18\] ,  \[K2 tr. 17\] 
-KAZ01.9.01 jānapado abhijātaḥ svavagrahaḥ kṛta.śilpaś cakṣuṣmān prājño dhārayiṣṇur dakṣo vāgmī pragalbhaḥ pratipattimān utsāha.prabhāva.yuktaḥ kleśa.sahaḥ śucir maitro dṛḍha.bhaktiḥ śīla.bala.ārogya.sattva.yuktaḥ stambha.cāpala.hīnaḥ sampriyo vairāṇām akartā-ity amātya.sampat | 1 |
+ छप्तेर् ९ (सेच्तिओन् ५): अप्पोइन्त्मेन्त् ओड़् चोउन्सेल्लोर्स् अन्द् छप्लैन्
+ \[क् त्र्। १८\] ,  \[क्२ त्र्। १७\] 
+कज़्०१।९।०१ जानपदो अभिजातः स्ववग्रहः कृत।शिल्पश् चक्षुष्मान् प्राज्ञो धारयिष्णुर् दक्षो वाग्मी प्रगल्भः प्रतिपत्तिमान् उत्साह।प्रभाव।युक्तः क्लेश।सहः शुचिर् मैत्रो दृढ।भक्तिः शील।बल।आरोग्य।सत्त्व।युक्तः स्तम्भ।चापल।हीनः सम्प्रियो वैराणाम् अकर्ता-इत्य् अमात्य।सम्पत् । १ ।
 
-KAZ01.9.02 ataḥ pāda.argha.guṇa.hīnau madhyama.avarau | 2 |
+कज़्०१।९।०२ अतः पाद।अर्घ।गुण।हीनौ मध्यम।अवरौ । २ ।
 
-KAZ01.9.03 teṣāṃ janapad.abhijanam avagrahaṃ ca-āptataḥ parīkṣeta, samāna.vidyebhyaḥ śilpaṃ śāstra.cakṣuṣmattāṃ ca, karma.ārambheṣu prajñāṃ dhārayiṣṇutāṃ dākṣyaṃ ca, kathā.yogeṣu vāgmitvaṃ prāgalbhyaṃ pratibhānavattvaṃ ca, saṃvāsibhyaḥ śīla.bala.ārogya.sattva.yogam astambham acāpalaṃ ca, pratyakṣataḥ sampriyatvam avairatvaṃ ca | 3 |
+कज़्०१।९।०३ तेषां जनपद्।अभिजनम् अवग्रहं च-आप्ततः परीक्षेत, समान।विद्येभ्यः शिल्पं शास्त्र।चक्षुष्मत्तां च, कर्म।आरम्भेषु प्रज्ञां धारयिष्णुतां दाक्ष्यं च, कथा।योगेषु वाग्मित्वं प्रागल्भ्यं प्रतिभानवत्त्वं च, संवासिभ्यः शील।बल।आरोग्य।सत्त्व।योगम् अस्तम्भम् अचापलं च, प्रत्यक्षतः सम्प्रियत्वम् अवैरत्वं च । ३ ।
 
-KAZ01.9.04 pratyakṣa.parokṣa.anumeyā hi rāja.vṛttiḥ | 4 |
+कज़्०१।९।०४ प्रत्यक्ष।परोक्ष।अनुमेया हि राज।वृत्तिः । ४ ।
 
-KAZ01.9.05 svayaṃ drṣṭaṃ pratyakṣam | 5 |
+कज़्०१।९।०५ स्वयं द्र्ष्टं प्रत्यक्षम् । ५ ।
 
-KAZ01.9.06 para.upadiṣṭaṃ parokṣam | 6 |
+कज़्०१।९।०६ पर।उपदिष्टं परोक्षम् । ६ ।
 
-KAZ01.9.07 karmasu kṛtena-akṛta.avekṣaṇam anumeyam | 7 |
+कज़्०१।९।०७ कर्मसु कृतेन-अकृत।अवेक्षणम् अनुमेयम् । ७ ।
 
-KAZ01.9.08 yaugapadyāt tu karmaṇām anekatvād anekasthatvāc ca deśa.kāla.atyayo mā bhūd iti parokṣam amātyaiḥ kārayet | 8 | ity amātya.karma |
+कज़्०१।९।०८ यौगपद्यात् तु कर्मणाम् अनेकत्वाद् अनेकस्थत्वाच् च देश।काल।अत्ययो मा भूद् इति परोक्षम् अमात्यैः कारयेत् । ८ । इत्य् अमात्य।कर्म ।
 
-KAZ01.9.09 purohitam udita.udita.kula.śīlaṃ sa-aṅge vede daive nimitte daṇḍa.nītyāṃ ca-abhivinītam āpadāṃ daiva.mānuṣīṇām atharvabhir upāyaiś ca pratikartāraṃ kurvīta | 9 |
+कज़्०१।९।०९ पुरोहितम् उदित।उदित।कुल।शीलं स-अङ्गे वेदे दैवे निमित्ते दण्ड।नीत्यां च-अभिविनीतम् आपदां दैव।मानुषीणाम् अथर्वभिर् उपायैश् च प्रतिकर्तारं कुर्वीत । ९ ।
 
-KAZ01.9.10 tam ācāryaṃ śiṣyaḥ pitaraṃ putro bhṛtyaḥ svāminam iva ca-anuvarteta | 10 |
+कज़्०१।९।१० तम् आचार्यं शिष्यः पितरं पुत्रो भृत्यः स्वामिनम् इव च-अनुवर्तेत । १० ।
 
-KAZ01.9.11ab brāhmaṇena-edhitaṃ kṣatraṃ mantri.mantra.abhimantritam |  
-KAZ01.9.11cd jayaty ajitam atyantaṃ śāstra.anugama.śastritam || 11 ||  
+कज़्०१।९।११अब् ब्राह्मणेन-एधितं क्षत्रं मन्त्रि।मन्त्र।अभिमन्त्रितम् ।  
+कज़्०१।९।११च्द् जयत्य् अजितम् अत्यन्तं शास्त्र।अनुगम।शस्त्रितम् ॥ ११ ॥  
 
 
  छप्तेर् १० (सेच्तिओन् ६): अस्चेर्तैन्मेन्त् ओड़् थे इन्तेग्रित्य् ओड़् मिनिस्तेर्स् ब्य् मेअन्स् ओड़् सेच्रेत् तेस्त्स्
@@ -414,52 +413,52 @@ KAZ01.9.11cd jayaty ajitam atyantaṃ śāstra.anugama.śastritam || 11 ||
 कज़्०१।१०।२०च्द् शौच।अशौचम् अमात्यानां राजा मार्गेत सत्त्रिभिः ॥ २० ॥  
 
 
- Chapter 11 (Section 7): Appointment of Persons in Secret Service
- \[K tr. 23\] ,  \[K2 tr. 21\] 
-KAZ01.11.01 upadhābhiḥ śuddha.amātya.vargo gūḍha.puruṣān utpādayet kāpaṭika.udāsthita.gṛha.patika.vaidehaka.tāpasa.vyañjanān sattri.tīṣkṇa.rasada.bhikṣukīś ca | 1 |
+ छप्तेर् ११ (सेच्तिओन् ७): अप्पोइन्त्मेन्त् ओड़् पेर्सोन्स् इन् सेच्रेत् सेर्विचे
+ \[क् त्र्। २३\] ,  \[क्२ त्र्। २१\] 
+कज़्०१।११।०१ उपधाभिः शुद्ध।अमात्य।वर्गो गूढ।पुरुषान् उत्पादयेत् कापटिक।उदास्थित।गृह।पतिक।वैदेहक।तापस।व्यञ्जनान् सत्त्रि।तीष्क्ण।रसद।भिक्षुकीश् च । १ ।
 
-KAZ01.11.02 para.marmajñaḥ pragalbhaś chātraḥ kāpaṭikaḥ | 2 |
+कज़्०१।११।०२ पर।मर्मज्ञः प्रगल्भश् छात्रः कापटिकः । २ ।
 
-KAZ01.11.03 tam artha.mānābhyāṃ protsāhya mantrī brūyāt - "rājānaṃ māṃ ca pramāṇaṃ kṛtvā yasya yad akuśalaṃ paśyasi tat tadānīm eva pratyādiśa" iti | 3 |
+कज़्०१।११।०३ तम् अर्थ।मानाभ्यां प्रोत्साह्य मन्त्री ब्रूयात् - "राजानं मां च प्रमाणं कृत्वा यस्य यद् अकुशलं पश्यसि तत् तदानीम् एव प्रत्यादिश" इति । ३ ।
 
-KAZ01.11.04 pravrajyā pratyavasitaḥ prajñā.śauca.yukta udāsthitaḥ | 4 |
+कज़्०१।११।०४ प्रव्रज्या प्रत्यवसितः प्रज्ञा।शौच।युक्त उदास्थितः । ४ ।
 
-KAZ01.11.05 sa vārttā.karma.pradiṣṭāyāṃ bhūmau prabhūta.hiraṇya.antevāsī karma kārayet | 5 |
+कज़्०१।११।०५ स वार्त्ता।कर्म।प्रदिष्टायां भूमौ प्रभूत।हिरण्य।अन्तेवासी कर्म कारयेत् । ५ ।
 
-KAZ01.11.06 karma.phalāc ca sarva.pravrajitānāṃ grāsa.ācchādana.āvasathān pratividadhyāt | 6 |
+कज़्०१।११।०६ कर्म।फलाच् च सर्व।प्रव्रजितानां ग्रास।आच्छादन।आवसथान् प्रतिविदध्यात् । ६ ।
 
-KAZ01.11.07 vṛtti.kāmāṃś ca-upajapet - "etena-eva veṣeṇa rāja.arthaś caritavyo bhakta.vetana.kāle ca-upasthātavyam" iti | 7 |
+कज़्०१।११।०७ वृत्ति।कामांश् च-उपजपेत् - "एतेन-एव वेषेण राज।अर्थश् चरितव्यो भक्त।वेतन।काले च-उपस्थातव्यम्" इति । ७ ।
 
-KAZ01.11.08 sarva.pravrajitāś ca svaṃ svaṃ vargam evam upajapeyuḥ | 8 |
+कज़्०१।११।०८ सर्व।प्रव्रजिताश् च स्वं स्वं वर्गम् एवम् उपजपेयुः । ८ ।
 
-KAZ01.11.09 karṣako vṛtti.kṣīṇaḥ prajñā.śauca.yukto gṛha.patika.vyañjanaḥ | 9 |
+कज़्०१।११।०९ कर्षको वृत्ति।क्षीणः प्रज्ञा।शौच।युक्तो गृह।पतिक।व्यञ्जनः । ९ ।
 
-KAZ01.11.10 sa kṛṣi.karma.pradiṣṭāyāṃ bhūmau - iti samānaṃ pūrveṇa | 10 |
+कज़्०१।११।१० स कृषि।कर्म।प्रदिष्टायां भूमौ - इति समानं पूर्वेण । १० ।
 
-KAZ01.11.11 vāṇijako vṛtti.kṣīṇaḥ prajñā.śauca.yukto vaidehaka.vyañjanaḥ | 11 |
+कज़्०१।११।११ वाणिजको वृत्ति।क्षीणः प्रज्ञा।शौच।युक्तो वैदेहक।व्यञ्जनः । ११ ।
 
-KAZ01.11.12 sa vaṇik.karma.pradiṣṭāyāṃ bhūmau - iti samānaṃ pūrveṇa | 12 |
+कज़्०१।११।१२ स वणिक्।कर्म।प्रदिष्टायां भूमौ - इति समानं पूर्वेण । १२ ।
 
-KAZ01.11.13 muṇḍo jaṭilo vā vṛtti.kāmas tāpasa.vyañjanaḥ | 13 |
+कज़्०१।११।१३ मुण्डो जटिलो वा वृत्ति।कामस् तापस।व्यञ्जनः । १३ ।
 
-KAZ01.11.14 sa nagara.abhyāśe prabhūta.muṇḍa.jaṭila.antevāsī śākaṃ yava.muṣṭiṃ vā māsa.dvimāsa.antaraṃ prakāśam aśnīyāt, gūḍham iṣṭam āhāram | 14 |
+कज़्०१।११।१४ स नगर।अभ्याशे प्रभूत।मुण्ड।जटिल।अन्तेवासी शाकं यव।मुष्टिं वा मास।द्विमास।अन्तरं प्रकाशम् अश्नीयात्, गूढम् इष्टम् आहारम् । १४ ।
 
-KAZ01.11.15 vaidehaka.antevāsinaś ca-enaṃ samiddha.yogair arcayeyuḥ | 15 |
+कज़्०१।११।१५ वैदेहक।अन्तेवासिनश् च-एनं समिद्ध।योगैर् अर्चयेयुः । १५ ।
 
-KAZ01.11.16 śiṣyāś ca-asya-āvedayeyuḥ - "asau siddhaḥ sāmedhikaḥ" iti | 16 |
+कज़्०१।११।१६ शिष्याश् च-अस्य-आवेदयेयुः - "असौ सिद्धः सामेधिकः" इति । १६ ।
 
-KAZ01.11.17 samedha.āśāstibhiś ca-abhigatānām aṅga.vidyayā śiṣya.sañjñābhiś ca karmāṇy abhijane avasitāny ādiśet - alpa.lābham agni.dāhaṃ cora.bhayaṃ dūṣya.vadhaṃ tuṣṭi.dānaṃ videśa.pravṛtti.jñānam, "idam adya śvo vā bhaviṣyati, idaṃ vā rājā kariṣyati" iti | 17 |
+कज़्०१।११।१७ समेध।आशास्तिभिश् च-अभिगतानाम् अङ्ग।विद्यया शिष्य।सञ्ज्ञाभिश् च कर्माण्य् अभिजने अवसितान्य् आदिशेत् - अल्प।लाभम् अग्नि।दाहं चोर।भयं दूष्य।वधं तुष्टि।दानं विदेश।प्रवृत्ति।ज्ञानम्, "इदम् अद्य श्वो वा भविष्यति, इदं वा राजा करिष्यति" इति । १७ ।
 
-KAZ01.11.18 tad asya gūḍhāḥ sattriṇaś ca sampādayeyuḥ | 18 |
+कज़्०१।११।१८ तद् अस्य गूढाः सत्त्रिणश् च सम्पादयेयुः । १८ ।
 
-KAZ01.11.19 sattva.prajñā.vākya.śakti.sampannānāṃ rāja.bhāgyam anuvyāharet, mantri.samyogaṃ ca brūyāt | 19 |
+कज़्०१।११।१९ सत्त्व।प्रज्ञा।वाक्य।शक्ति।सम्पन्नानां राज।भाग्यम् अनुव्याहरेत्, मन्त्रि।सम्योगं च ब्रूयात् । १९ ।
 
-KAZ01.11.20 mantrī ca-eṣāṃ vṛtti.karmabhyāṃ viyateta | 20 |
+कज़्०१।११।२० मन्त्री च-एषां वृत्ति।कर्मभ्यां वियतेत । २० ।
 
-KAZ01.11.21 ye ca kāraṇād abhikruddhās tān artha.mānābhyāṃ śamayet, akāraṇa.kruddhāṃs tūṣṇīṃ daṇḍena, rāja.dviṣṭa.kāriṇaś ca | 21 |
+कज़्०१।११।२१ ये च कारणाद् अभिक्रुद्धास् तान् अर्थ।मानाभ्यां शमयेत्, अकारण।क्रुद्धांस् तूष्णीं दण्डेन, राज।द्विष्ट।कारिणश् च । २१ ।
 
-KAZ01.11.22ab pūjitāś ca-artha.mānābhyāṃ rājñā rāja.upajīvinām |  
-KAZ01.11.22cd jānīyuḥ śaucam ity etāḥ pañca.saṃsthāḥ prakīrtitāḥ || 22 ||  
+कज़्०१।११।२२अब् पूजिताश् च-अर्थ।मानाभ्यां राज्ञा राज।उपजीविनाम् ।  
+कज़्०१।११।२२च्द् जानीयुः शौचम् इत्य् एताः पञ्च।संस्थाः प्रकीर्तिताः ॥ २२ ॥  
 
 
  छप्तेर् १२ (सेच्तिओन्स् ७; ८): अप्पोइन्त्मेन्त् ओड़् पेर्सोन्स् इन् सेच्रेत् सेर्विचे (चोन्त्।); रुलेस् ड़ोर् सेच्रेत् सेर्वन्त्स्
@@ -528,60 +527,60 @@ KAZ01.11.22cd jānīyuḥ śaucam ity etāḥ pañca.saṃsthāḥ prakīrtitā�
 कज़्०१।१२।२५च्द् पर।अपसर्प।ज्ञान।अर्थं मुख्यान् अन्तेषु वासयेत् ॥ २५ ॥  
 
 
- Chapter 13 (Section 9): Keeping a Watch over One's Seducible and Non-seducible Parties
- \[K tr. 31\] ,  \[K2 tr. 28\] 
-KAZ01.13.01 kṛta.mahā.mātra.apasarpaḥ paura.jānapadān apasarpayet | 1 |
+ छप्तेर् १३ (सेच्तिओन् ९): केएपिन्ग् अ Wअत्छ् ओवेर् ओनेऽस् सेदुचिब्ले अन्द् नोन्-सेदुचिब्ले पर्तिएस्
+ \[क् त्र्। ३१\] ,  \[क्२ त्र्। २८\] 
+कज़्०१।१३।०१ कृत।महा।मात्र।अपसर्पः पौर।जानपदान् अपसर्पयेत् । १ ।
 
-KAZ01.13.02 sattriṇo dvandvinas tīrtha.sabhā.pūga.jana.samavāyeṣu vivādaṃ kuryuḥ | 2 |
+कज़्०१।१३।०२ सत्त्रिणो द्वन्द्विनस् तीर्थ।सभा।पूग।जन।समवायेषु विवादं कुर्युः । २ ।
 
-KAZ01.13.03 "sarva.guṇa.sampannaś ca-ayaṃ rājā śrūyate, na ca-asya kaścid guṇo dṛśyate yaḥ paura.jānapadān daṇḍa.karābhyāṃ pīḍayati" iti | 3 |
+कज़्०१।१३।०३ "सर्व।गुण।सम्पन्नश् च-अयं राजा श्रूयते, न च-अस्य कश्चिद् गुणो दृश्यते यः पौर।जानपदान् दण्ड।कराभ्यां पीडयति" इति । ३ ।
 
-KAZ01.13.04 tatra ye 'nupraśaṃseyus tān itaras taṃ ca pratiṣedhayet | 4 |
+कज़्०१।१३।०४ तत्र ये ऽनुप्रशंसेयुस् तान् इतरस् तं च प्रतिषेधयेत् । ४ ।
 
-KAZ01.13.05 "mātsya.nyāya.abhibhūtāḥ prajā manuṃ vaivasvataṃ rājānaṃ cakrire | 5 |
+कज़्०१।१३।०५ "मात्स्य।न्याय।अभिभूताः प्रजा मनुं वैवस्वतं राजानं चक्रिरे । ५ ।
 
-KAZ01.13.06 dhānya.ṣaḍ.bhāgaṃ paṇya.daśa.bhāgaṃ hiraṇyaṃ ca-asya bhāga.dheyaṃ prakalpayām-āsuḥ | 6 |
+कज़्०१।१३।०६ धान्य।षड्।भागं पण्य।दश।भागं हिरण्यं च-अस्य भाग।धेयं प्रकल्पयाम्-आसुः । ६ ।
 
-KAZ01.13.07 tena bhṛtā rājānaḥ prajānāṃ yoga.kṣema.āvahāḥ | 7 |
+कज़्०१।१३।०७ तेन भृता राजानः प्रजानां योग।क्षेम।आवहाः । ७ ।
 
-KAZ01.13.08 teṣāṃ kilbiṣam adaṇḍa.karā haranty ayoga.kṣema.āvahāś ca prajānām | 8 |
+कज़्०१।१३।०८ तेषां किल्बिषम् अदण्ड।करा हरन्त्य् अयोग।क्षेम।आवहाश् च प्रजानाम् । ८ ।
 
-KAZ01.13.09 tasmād uñcha.ṣaḍ.bhāgam āraṇyakā-api nirvapanti - "tasya-etad bhāga.dheyaṃ yo 'smān gopāyati" iti | 9 |
+कज़्०१।१३।०९ तस्माद् उञ्छ।षड्।भागम् आरण्यका-अपि निर्वपन्ति - "तस्य-एतद् भाग।धेयं यो ऽस्मान् गोपायति" इति । ९ ।
 
-KAZ01.13.10 indra.yama.sthānam etad rājānaḥ pratyakṣa.heḍa.prasādāḥ | 10 |
+कज़्०१।१३।१० इन्द्र।यम।स्थानम् एतद् राजानः प्रत्यक्ष।हेड।प्रसादाः । १० ।
 
-KAZ01.13.11 tān avamanyamānān daivo 'pi daṇḍaḥ spṛśati | 11 |
+कज़्०१।१३।११ तान् अवमन्यमानान् दैवो ऽपि दण्डः स्पृशति । ११ ।
 
-KAZ01.13.12 tasmād rājāno na-avamantavyāḥ | 12 |
+कज़्०१।१३।१२ तस्माद् राजानो न-अवमन्तव्याः । १२ ।
 
-KAZ01.13.13 ity evaṃ kṣudrakān pratiṣedhayet | 13 |
+कज़्०१।१३।१३ इत्य् एवं क्षुद्रकान् प्रतिषेधयेत् । १३ ।
 
-KAZ01.13.14 kiṃ.vadantīṃ ca vidyuḥ | 14 |
+कज़्०१।१३।१४ किं।वदन्तीं च विद्युः । १४ ।
 
-KAZ01.13.15 ye ca-asya dhānya.paśu.hiraṇyāny ājīvanti, tair upakurvanti vyasane 'bhyudaye vā, kupitaṃ bandhuṃ rāṣṭraṃ vā vyāvartayanti, amitram āṭavikaṃ vā pratiṣedhayanti, teṣāṃ muṇḍa.jaṭila.vyañjanās tuṣṭa.atuṣṭatvaṃ vidyuḥ | 15 |
+कज़्०१।१३।१५ ये च-अस्य धान्य।पशु।हिरण्यान्य् आजीवन्ति, तैर् उपकुर्वन्ति व्यसने ऽभ्युदये वा, कुपितं बन्धुं राष्ट्रं वा व्यावर्तयन्ति, अमित्रम् आटविकं वा प्रतिषेधयन्ति, तेषां मुण्ड।जटिल।व्यञ्जनास् तुष्ट।अतुष्टत्वं विद्युः । १५ ।
 
-KAZ01.13.16 tuṣṭān bhūyo 'rtha.mānābhyāṃ pūjayet | 16 |
+कज़्०१।१३।१६ तुष्टान् भूयो ऽर्थ।मानाभ्यां पूजयेत् । १६ ।
 
-KAZ01.13.17 atuṣṭāṃs tuṣṭi.hetos tyāgena sāmnā ca prasādayet | 17 |
+कज़्०१।१३।१७ अतुष्टांस् तुष्टि।हेतोस् त्यागेन साम्ना च प्रसादयेत् । १७ ।
 
-KAZ01.13.18 parasparād vā bhedayed enān, sāmanta.āṭavika.tat.kulīna.aparuddhebhyaś ca | 18 |
+कज़्०१।१३।१८ परस्पराद् वा भेदयेद् एनान्, सामन्त।आटविक।तत्।कुलीन।अपरुद्धेभ्यश् च । १८ ।
 
-KAZ01.13.19 tathā-apy atuṣyato daṇḍa.kara.sādhana.adhikāreṇa janapada.vidveṣaṃ grāhayet | 19 |
+कज़्०१।१३।१९ तथा-अप्य् अतुष्यतो दण्ड।कर।साधन।अधिकारेण जनपद।विद्वेषं ग्राहयेत् । १९ ।
 
-KAZ01.13.20 viviṣṭān upāṃśu.daṇḍena janapada.kopena vā sādhayet | 20 |
+कज़्०१।१३।२० विविष्टान् उपांशु।दण्डेन जनपद।कोपेन वा साधयेत् । २० ।
 
-KAZ01.13.21 gupta.putra.dārān ākara.karma.anteṣu vā vāsayet pareṣām āspada.bhayāt | 21 |
+कज़्०१।१३।२१ गुप्त।पुत्र।दारान् आकर।कर्म।अन्तेषु वा वासयेत् परेषाम् आस्पद।भयात् । २१ ।
 
-KAZ01.13.22 kruddha.lubdha.bhīta.māninas tu pareṣāṃ kṛtyāḥ | 22 |
+कज़्०१।१३।२२ क्रुद्ध।लुब्ध।भीत।मानिनस् तु परेषां कृत्याः । २२ ।
 
-KAZ01.13.23 teṣāṃ kārtāntika.naimittika.mauhūrtika.vyañjanāḥ paraspara.abhisambandham amitra.āṭavika.sambandhaṃ vā vidyuḥ | 23 |
+कज़्०१।१३।२३ तेषां कार्तान्तिक।नैमित्तिक।मौहूर्तिक।व्यञ्जनाः परस्पर।अभिसम्बन्धम् अमित्र।आटविक।सम्बन्धं वा विद्युः । २३ ।
 
-KAZ01.13.24 tuṣṭān artha.mānābhyāṃ pūjayet | 24 |
+कज़्०१।१३।२४ तुष्टान् अर्थ।मानाभ्यां पूजयेत् । २४ ।
 
-KAZ01.13.25 atuṣṭān sāma.dāna.bheda.daṇḍaiḥ sādhayet | 25 |
+कज़्०१।१३।२५ अतुष्टान् साम।दान।भेद।दण्डैः साधयेत् । २५ ।
 
-KAZ01.13.26ab evaṃ sva.viṣaye kṛtyān akṛtyāṃś ca vicakṣaṇaḥ |  
-KAZ01.13.26cd para.upajāpāt samrakṣet pradhānān kṣudrakān api || 26 ||  
+कज़्०१।१३।२६अब् एवं स्व।विषये कृत्यान् अकृत्यांश् च विचक्षणः ।  
+कज़्०१।१३।२६च्द् पर।उपजापात् सम्रक्षेत् प्रधानान् क्षुद्रकान् अपि ॥ २६ ॥  
 
 
  छप्तेर् १४ (सेच्तिओन् १०): Wइन्निन्ग् ओवेर् थे एनेम्य्ऽस् सेदुचिब्ले अन्द् नोन्-सेदुचिब्ले पर्तिएस्
@@ -614,136 +613,136 @@ KAZ01.13.26cd para.upajāpāt samrakṣet pradhānān kṣudrakān api || 26 ||
 कज़्०१।१४।१२च्द् अकृत्यान् भेद।दण्डाभ्यां पर।दोषांश् च दर्शयन् ॥ १२ ॥  
 
 
- Chapter 15 (Section 11): The Topic of Counsel
- \[K tr. 36\] ,  \[K2 tr. 32\] 
-KAZ01.15.01 kṛta.sva.pakṣa.para.pakṣa.upagrahaḥ kārya.ārambhāṃś cintayet | 1 |
+ छप्तेर् १५ (सेच्तिओन् ११): थे तोपिच् ओड़् चोउन्सेल्
+ \[क् त्र्। ३६\] ,  \[क्२ त्र्। ३२\] 
+कज़्०१।१५।०१ कृत।स्व।पक्ष।पर।पक्ष।उपग्रहः कार्य।आरम्भांश् चिन्तयेत् । १ ।
 
-KAZ01.15.02 mantra.pūrvāḥ sarva.ārambhāḥ | 2 |
+कज़्०१।१५।०२ मन्त्र।पूर्वाः सर्व।आरम्भाः । २ ।
 
-KAZ01.15.03 tad.uddeśaḥ saṃvṛtaḥ kathānām anihśrāvī pakṣibhir apy anālokyaḥ syāt | 3 |
+कज़्०१।१५।०३ तद्।उद्देशः संवृतः कथानाम् अनिह्श्रावी पक्षिभिर् अप्य् अनालोक्यः स्यात् । ३ ।
 
-KAZ01.15.04 śrūyate hi śuka.sārikābhir mantro bhinnaḥ, śvabhir apy anyaiś ca tiryag.yonibhir iti | 4 |
+कज़्०१।१५।०४ श्रूयते हि शुक।सारिकाभिर् मन्त्रो भिन्नः, श्वभिर् अप्य् अन्यैश् च तिर्यग्।योनिभिर् इति । ४ ।
 
-KAZ01.15.05 tasmān mantra.uddeśam anāyukto na-upagacchet | 5 |
+कज़्०१।१५।०५ तस्मान् मन्त्र।उद्देशम् अनायुक्तो न-उपगच्छेत् । ५ ।
 
-KAZ01.15.06 ucchidyeta mantra.bhedī | 6 |
+कज़्०१।१५।०६ उच्छिद्येत मन्त्र।भेदी । ६ ।
 
-KAZ01.15.07 mantra.bhedo hi dūta.amātya.svāminām iṅgita.ākārābhyām | 7 |
+कज़्०१।१५।०७ मन्त्र।भेदो हि दूत।अमात्य।स्वामिनाम् इङ्गित।आकाराभ्याम् । ७ ।
 
-KAZ01.15.08 iṅgitam anyathā.vṛttiḥ | 8 |
+कज़्०१।१५।०८ इङ्गितम् अन्यथा।वृत्तिः । ८ ।
 
-KAZ01.15.09 ākṛti.grahaṇam ākāraḥ | 9 |
+कज़्०१।१५।०९ आकृति।ग्रहणम् आकारः । ९ ।
 
-KAZ01.15.10 tasya saṃvaraṇam āyukta.puruṣa.rakṣaṇam ā.kārya.kālād iti | 10 |
+कज़्०१।१५।१० तस्य संवरणम् आयुक्त।पुरुष।रक्षणम् आ।कार्य।कालाद् इति । १० ।
 
-KAZ01.15.11 teṣāṃ hi pramāda.mada.supta.pralāpāḥ, kāma.ādir utsekaḥ, pracchanno 'vamato vā mantraṃ bhinatti | 11 |
+कज़्०१।१५।११ तेषां हि प्रमाद।मद।सुप्त।प्रलापाः, काम।आदिर् उत्सेकः, प्रच्छन्नो ऽवमतो वा मन्त्रं भिनत्ति । ११ ।
 
-KAZ01.15.12 tasmād ādrakṣen mantram | 12 |
+कज़्०१।१५।१२ तस्माद् आद्रक्षेन् मन्त्रम् । १२ ।
 
-KAZ01.15.13 "mantra.bhedo hy ayoga.kṣema.karo rājñas tad.āyukta.puruṣāṇāṃ ca | 13 |
+कज़्०१।१५।१३ "मन्त्र।भेदो ह्य् अयोग।क्षेम।करो राज्ञस् तद्।आयुक्त।पुरुषाणां च । १३ ।
 
-KAZ01.15.14 tasmād guhyam eko mantrayeta" iti bhāradvājaḥ | 14 |
+कज़्०१।१५।१४ तस्माद् गुह्यम् एको मन्त्रयेत" इति भारद्वाजः । १४ ।
 
-KAZ01.15.15 "mantriṇām api hi mantriṇo bhavanti, teṣām apy anye | 15 |
+कज़्०१।१५।१५ "मन्त्रिणाम् अपि हि मन्त्रिणो भवन्ति, तेषाम् अप्य् अन्ये । १५ ।
 
-KAZ01.15.16 sā-eṣā mantri.paramparā mantraṃ bhinatti | 16 |
+कज़्०१।१५।१६ सा-एषा मन्त्रि।परम्परा मन्त्रं भिनत्ति । १६ ।
 
-KAZ01.15.17ab "tasmān na-asya pare vidyuḥ karma kiñcic cikīrṣitam |  
-KAZ01.15.17cd ārabdhāras tu jānīyur ārabdhaṃ kṛtam eva vā || 17 ||  
-
-
-KAZ01.15.18 "na-ekasya mantra.siddhir asti" iti viśāla.akṣaḥ | 18 |
-
-KAZ01.15.19 "pratyakṣa.parokṣa.anumeyā hi rāja.vṛttiḥ | 19 |
-
-KAZ01.15.20 anupalabdhasya jñānam upalabdhasya niścita.bala.ādhānam artha.dvaidhasya saṃśayac.chedanam eka.deśa.dṛṣṭasya śeṣa.upalabdhir iti mantri.sādhyam etat | 20 |
-
-KAZ01.15.21 tasmād buddhi.vṛddhaiḥ sārdham adhyāsīta mantram | 21 |
-
-KAZ01.15.22ab "na kañcid avamanyeta sarvasya śṛṇuyān matam |  
-KAZ01.15.22cd bālasya-apy arthavad.vākyam upayuñjīta paṇḍitaḥ || 22 ||"  
+कज़्०१।१५।१७अब् "तस्मान् न-अस्य परे विद्युः कर्म किञ्चिच् चिकीर्षितम् ।  
+कज़्०१।१५।१७च्द् आरब्धारस् तु जानीयुर् आरब्धं कृतम् एव वा ॥ १७ ॥  
 
 
-KAZ01.15.23 "etan mantra.jñānam, na-etan mantra.rakṣaṇam" iti pārāśarāḥ | 23 |
+कज़्०१।१५।१८ "न-एकस्य मन्त्र।सिद्धिर् अस्ति" इति विशाल।अक्षः । १८ ।
 
-KAZ01.15.24 "yad asya kāryam abhipretaṃ tat.pratirūpakaṃ mantriṇaḥ pṛcchet - "kāryam idam evam āsīt, evaṃ vā yadi bhavet, tat kathaṃ kartavyam" iti | 24 |
+कज़्०१।१५।१९ "प्रत्यक्ष।परोक्ष।अनुमेया हि राज।वृत्तिः । १९ ।
 
-KAZ01.15.25 te yathā brūyus tat kuryāt | 25 |
+कज़्०१।१५।२० अनुपलब्धस्य ज्ञानम् उपलब्धस्य निश्चित।बल।आधानम् अर्थ।द्वैधस्य संशयच्।छेदनम् एक।देश।दृष्टस्य शेष।उपलब्धिर् इति मन्त्रि।साध्यम् एतत् । २० ।
 
-KAZ01.15.26 evaṃ mantra.upalabdhiḥ saṃvṛtiś ca bhavati" iti | 26 |
+कज़्०१।१५।२१ तस्माद् बुद्धि।वृद्धैः सार्धम् अध्यासीत मन्त्रम् । २१ ।
 
-KAZ01.15.27 na-iti piśunaḥ | 27 |
-
-KAZ01.15.28 "mantriṇo hi vyavahitam arthaṃ vṛttam avṛttaṃ vā pṛṣṭā anādareṇa bruvanti prakāśayanti vā | 28 |
-
-KAZ01.15.29 sa doṣaḥ | 29 |
-
-KAZ01.15.30 tasmāt karmasu ye yeṣv abhipretās taiḥ saha mantrayeta | 30 |
-
-KAZ01.15.31 tair mantrayamāṇo hi mantra.siddhiṃ guptiṃ ca labhate" iti | 31 |
-
-KAZ01.15.32 na-iti kauṭilyaḥ | 32 |
-
-KAZ01.15.33 anavasthā hy eṣā | 33 |
-
-KAZ01.15.34 mantribhis tribhiś caturbhir vā saha mantrayeta | 34 |
-
-KAZ01.15.35 mantrayamāṇo hy ekena-artha.kṛcchreṣu niścayaṃ na-adhigacchet | 35 |
-
-KAZ01.15.36 ekaś ca mantrī yathā.iṣṭam anavagrahaś carati | 36 |
-
-KAZ01.15.37 dvābhyāṃ mantrayamāṇo dvābhyāṃ saṃhatābhyām avagṛhyate, vigṛhītābhyāṃ vināśyate | 37 |
-
-KAZ01.15.38 tat triṣu catuṣu vā kṛcchreṇa-upapadyate | 38 |
-
-KAZ01.15.39 mahā.doṣam upapannaṃ tu bhavati | 39 |
-
-KAZ01.15.40 tataḥ pareṣu kṛcchreṇa-artha.niścayo gamyate, mantro vā rakṣyate | 40 |
-
-KAZ01.15.41 deśa.kāla.kārya.vaśena tv ekena saha dvābhyām eko vā yathā.sāmarthyaṃ mantrayeta | 41 |
-
-KAZ01.15.42 karmaṇām ārambha.upāyaḥ puruṣa.dravya.sampad deśa.kāla.vibhāgo vinipāta.pratīkāraḥ kārya.siddhir iti pañca.aṅgo mantraḥ | 42 |
-
-KAZ01.15.43 tān ekaikaśaḥ pṛcchet samastāṃś ca | 43 |
-
-KAZ01.15.44 hetubhiś ca-eṣāṃ mati.pravivekān vidyāt | 44 |
-
-KAZ01.15.45 avāpta.arthaḥ kālaṃ na-atikrāmayet | 45 |
-
-KAZ01.15.46 na dīrgha.kālaṃ mantrayeta, na teṣāṃ pakṣīyair yeṣām apakuryāt | 46 |
-
-KAZ01.15.47 "mantri.pariṣadaṃ dvādaśa.amātyān kurvīta" iti mānavāḥ | 47 |
-
-KAZ01.15.48 "ṣoḍaśa" iti bārhaspatyāḥ | 48 |
-
-KAZ01.15.49 "viṃśatim" ity auśanasāḥ | 49 |
-
-KAZ01.15.50 yathā.sāmarthyam iti kauṭilyaḥ | 50 |
-
-KAZ01.15.51 te hy asya sva.pakṣaṃ para.pakṣaṃ ca cintayeyuḥ | 51 |
-
-KAZ01.15.52 akṛta.ārambham ārabdha.anuṣṭhānam anuṣṭhita.viśeṣaṃ niyoga.sampadaṃ ca karmaṇāṃ kuryuḥ | 52 |
-
-KAZ01.15.53 āsannaiḥ saha karmāṇi paśyet | 53 |
-
-KAZ01.15.54 anāsannaiḥ saha pattra.sampreṣaṇena mantrayeta | 54 |
-
-KAZ01.15.55 indrasya hi mantri.pariṣad.ṛṣīṇāṃ sahasram | 55 |
-
-KAZ01.15.56 sa tac cakṣuḥ | 56 |
-
-KAZ01.15.57 tasmād imaṃ dvy.akṣaṃ sahasra.akṣam āhuḥ | 57 |
-
-KAZ01.15.58 ātyayike kārye mantriṇo mantri.pariṣadaṃ ca-āhūya brūyāt | 58 |
-
-KAZ01.15.59 tatra yad.bhūyiṣṭhā brūyuḥ kārya.siddhi.karaṃ vā tat kuryāt | 59 |  kurvataś ca --
-
-KAZ01.15.60ab na-asya guhyaṃ pare vidyuś chidraṃ vidyāt parasya ca |  
-KAZ01.15.60cd gūhet kūrma-iva-aṅgāni yat syād vivṛtam ātmanaḥ || 60 ||  
+कज़्०१।१५।२२अब् "न कञ्चिद् अवमन्येत सर्वस्य शृणुयान् मतम् ।  
+कज़्०१।१५।२२च्द् बालस्य-अप्य् अर्थवद्।वाक्यम् उपयुञ्जीत पण्डितः ॥ २२ ॥"  
 
 
-KAZ01.15.61ab yathā hy aśrotriyaḥ śrāddhaṃ na satāṃ bhoktum arhati |  
-KAZ01.15.61cd evam aśruta.śāstra.artho na mantraṃ śrotum arhati || 61 ||  
+कज़्०१।१५।२३ "एतन् मन्त्र।ज्ञानम्, न-एतन् मन्त्र।रक्षणम्" इति पाराशराः । २३ ।
+
+कज़्०१।१५।२४ "यद् अस्य कार्यम् अभिप्रेतं तत्।प्रतिरूपकं मन्त्रिणः पृच्छेत् - "कार्यम् इदम् एवम् आसीत्, एवं वा यदि भवेत्, तत् कथं कर्तव्यम्" इति । २४ ।
+
+कज़्०१।१५।२५ ते यथा ब्रूयुस् तत् कुर्यात् । २५ ।
+
+कज़्०१।१५।२६ एवं मन्त्र।उपलब्धिः संवृतिश् च भवति" इति । २६ ।
+
+कज़्०१।१५।२७ न-इति पिशुनः । २७ ।
+
+कज़्०१।१५।२८ "मन्त्रिणो हि व्यवहितम् अर्थं वृत्तम् अवृत्तं वा पृष्टा अनादरेण ब्रुवन्ति प्रकाशयन्ति वा । २८ ।
+
+कज़्०१।१५।२९ स दोषः । २९ ।
+
+कज़्०१।१५।३० तस्मात् कर्मसु ये येष्व् अभिप्रेतास् तैः सह मन्त्रयेत । ३० ।
+
+कज़्०१।१५।३१ तैर् मन्त्रयमाणो हि मन्त्र।सिद्धिं गुप्तिं च लभते" इति । ३१ ।
+
+कज़्०१।१५।३२ न-इति कौटिल्यः । ३२ ।
+
+कज़्०१।१५।३३ अनवस्था ह्य् एषा । ३३ ।
+
+कज़्०१।१५।३४ मन्त्रिभिस् त्रिभिश् चतुर्भिर् वा सह मन्त्रयेत । ३४ ।
+
+कज़्०१।१५।३५ मन्त्रयमाणो ह्य् एकेन-अर्थ।कृच्छ्रेषु निश्चयं न-अधिगच्छेत् । ३५ ।
+
+कज़्०१।१५।३६ एकश् च मन्त्री यथा।इष्टम् अनवग्रहश् चरति । ३६ ।
+
+कज़्०१।१५।३७ द्वाभ्यां मन्त्रयमाणो द्वाभ्यां संहताभ्याम् अवगृह्यते, विगृहीताभ्यां विनाश्यते । ३७ ।
+
+कज़्०१।१५।३८ तत् त्रिषु चतुषु वा कृच्छ्रेण-उपपद्यते । ३८ ।
+
+कज़्०१।१५।३९ महा।दोषम् उपपन्नं तु भवति । ३९ ।
+
+कज़्०१।१५।४० ततः परेषु कृच्छ्रेण-अर्थ।निश्चयो गम्यते, मन्त्रो वा रक्ष्यते । ४० ।
+
+कज़्०१।१५।४१ देश।काल।कार्य।वशेन त्व् एकेन सह द्वाभ्याम् एको वा यथा।सामर्थ्यं मन्त्रयेत । ४१ ।
+
+कज़्०१।१५।४२ कर्मणाम् आरम्भ।उपायः पुरुष।द्रव्य।सम्पद् देश।काल।विभागो विनिपात।प्रतीकारः कार्य।सिद्धिर् इति पञ्च।अङ्गो मन्त्रः । ४२ ।
+
+कज़्०१।१५।४३ तान् एकैकशः पृच्छेत् समस्तांश् च । ४३ ।
+
+कज़्०१।१५।४४ हेतुभिश् च-एषां मति।प्रविवेकान् विद्यात् । ४४ ।
+
+कज़्०१।१५।४५ अवाप्त।अर्थः कालं न-अतिक्रामयेत् । ४५ ।
+
+कज़्०१।१५।४६ न दीर्घ।कालं मन्त्रयेत, न तेषां पक्षीयैर् येषाम् अपकुर्यात् । ४६ ।
+
+कज़्०१।१५।४७ "मन्त्रि।परिषदं द्वादश।अमात्यान् कुर्वीत" इति मानवाः । ४७ ।
+
+कज़्०१।१५।४८ "षोडश" इति बार्हस्पत्याः । ४८ ।
+
+कज़्०१।१५।४९ "विंशतिम्" इत्य् औशनसाः । ४९ ।
+
+कज़्०१।१५।५० यथा।सामर्थ्यम् इति कौटिल्यः । ५० ।
+
+कज़्०१।१५।५१ ते ह्य् अस्य स्व।पक्षं पर।पक्षं च चिन्तयेयुः । ५१ ।
+
+कज़्०१।१५।५२ अकृत।आरम्भम् आरब्ध।अनुष्ठानम् अनुष्ठित।विशेषं नियोग।सम्पदं च कर्मणां कुर्युः । ५२ ।
+
+कज़्०१।१५।५३ आसन्नैः सह कर्माणि पश्येत् । ५३ ।
+
+कज़्०१।१५।५४ अनासन्नैः सह पत्त्र।सम्प्रेषणेन मन्त्रयेत । ५४ ।
+
+कज़्०१।१५।५५ इन्द्रस्य हि मन्त्रि।परिषद्।ऋषीणां सहस्रम् । ५५ ।
+
+कज़्०१।१५।५६ स तच् चक्षुः । ५६ ।
+
+कज़्०१।१५।५७ तस्माद् इमं द्व्य्।अक्षं सहस्र।अक्षम् आहुः । ५७ ।
+
+कज़्०१।१५।५८ आत्ययिके कार्ये मन्त्रिणो मन्त्रि।परिषदं च-आहूय ब्रूयात् । ५८ ।
+
+कज़्०१।१५।५९ तत्र यद्।भूयिष्ठा ब्रूयुः कार्य।सिद्धि।करं वा तत् कुर्यात् । ५९ ।  कुर्वतश् च --
+
+कज़्०१।१५।६०अब् न-अस्य गुह्यं परे विद्युश् छिद्रं विद्यात् परस्य च ।  
+कज़्०१।१५।६०च्द् गूहेत् कूर्म-इव-अङ्गानि यत् स्याद् विवृतम् आत्मनः ॥ ६० ॥  
+
+
+कज़्०१।१५।६१अब् यथा ह्य् अश्रोत्रियः श्राद्धं न सतां भोक्तुम् अर्हति ।  
+कज़्०१।१५।६१च्द् एवम् अश्रुत।शास्त्र।अर्थो न मन्त्रं श्रोतुम् अर्हति ॥ ६१ ॥  
 
 
  छप्तेर् १६ (सेच्तिओन् १२): रुलेस् ड़ोर् थे एन्वोय्
@@ -824,116 +823,116 @@ KAZ01.15.61cd evam aśruta.śāstra.artho na mantraṃ śrotum arhati || 61 ||
 कज़्०१।१६।३५च्द् प्रतिदूत।अपसर्पाभ्यां दृश्य।अदृश्यैश् च रक्षिभिः ॥ ३५ ॥  
 
 
- Chapter 17 (Section 13): Guarding against Princes
- \[K tr. 44\] ,  \[K2 tr. 39\] 
-KAZ01.17.01 rakṣito rājā rājyaṃ rakṣaty āsannebhyaḥ parebhyaś ca, pūrvaṃ dārebhyaḥ putrebhyaś ca | 1 |
+ छप्तेर् १७ (सेच्तिओन् १३): गुअर्दिन्ग् अगैन्स्त् प्रिन्चेस्
+ \[क् त्र्। ४४\] ,  \[क्२ त्र्। ३९\] 
+कज़्०१।१७।०१ रक्षितो राजा राज्यं रक्षत्य् आसन्नेभ्यः परेभ्यश् च, पूर्वं दारेभ्यः पुत्रेभ्यश् च । १ ।
 
-KAZ01.17.02 dāra.rakṣaṇaṃ niśānta.praṇidhau vakṣyāmaḥ | 2 |
+कज़्०१।१७।०२ दार।रक्षणं निशान्त।प्रणिधौ वक्ष्यामः । २ ।
 
-KAZ01.17.03 "putra.rakṣaṇaṃ tu | 3 |
+कज़्०१।१७।०३ "पुत्र।रक्षणं तु । ३ ।
 
-KAZ01.17.04 "janma.prabhṛti rāja.putrān rakṣet | 4 |
+कज़्०१।१७।०४ "जन्म।प्रभृति राज।पुत्रान् रक्षेत् । ४ ।
 
-KAZ01.17.05 karkaṭaka.sadharmāṇo hi janaka.bhakṣā rāja.putrāḥ | 5 |
+कज़्०१।१७।०५ कर्कटक।सधर्माणो हि जनक।भक्षा राज।पुत्राः । ५ ।
 
-KAZ01.17.06 teṣām ajāta.snehe pitary upāṃśu.daṇḍaḥ śreyān" iti bhāradvājaḥ | 6 |
+कज़्०१।१७।०६ तेषाम् अजात।स्नेहे पितर्य् उपांशु।दण्डः श्रेयान्" इति भारद्वाजः । ६ ।
 
-KAZ01.17.07 "nṛśaṃsam aduṣṭa.vadhaḥ kṣatra.bīja.vināśaś ca" iti viśāla.akṣaḥ | 7 |
+कज़्०१।१७।०७ "नृशंसम् अदुष्ट।वधः क्षत्र।बीज।विनाशश् च" इति विशाल।अक्षः । ७ ।
 
-KAZ01.17.08 "tasmād eka.sthāna.avarodhaḥ śreyān" iti | 8 |
+कज़्०१।१७।०८ "तस्माद् एक।स्थान।अवरोधः श्रेयान्" इति । ८ ।
 
-KAZ01.17.09 ahi.bhayam etad" iti pārāśarāḥ | 9 |
+कज़्०१।१७।०९ अहि।भयम् एतद्" इति पाराशराः । ९ ।
 
-KAZ01.17.10 "kumāro hi "vikrama.bhayān māṃ pitā-avaruṇaddhi" iti jñātvā tam eva-aṅke kuryāt | 10 |
+कज़्०१।१७।१० "कुमारो हि "विक्रम।भयान् मां पिता-अवरुणद्धि" इति ज्ञात्वा तम् एव-अङ्के कुर्यात् । १० ।
 
-KAZ01.17.11 tasmād anta.pāla.durge vāsaḥ śreyān" iti | 11 |
+कज़्०१।१७।११ तस्माद् अन्त।पाल।दुर्गे वासः श्रेयान्" इति । ११ ।
 
-KAZ01.17.12 "aurabhraṃ bhayam etad" iti piśunaḥ | 12 |
+कज़्०१।१७।१२ "औरभ्रं भयम् एतद्" इति पिशुनः । १२ ।
 
-KAZ01.17.13 "pratyāpatter hi tad eva kāraṇaṃ jñātvā-anta.pāla.sakhaḥ syāt | 13 |
+कज़्०१।१७।१३ "प्रत्यापत्तेर् हि तद् एव कारणं ज्ञात्वा-अन्त।पाल।सखः स्यात् । १३ ।
 
-KAZ01.17.14 tasmāt sva.viṣayād apakṛṣṭe sāmanta.durge vāsaḥ śreyān" iti | 14 |
+कज़्०१।१७।१४ तस्मात् स्व।विषयाद् अपकृष्टे सामन्त।दुर्गे वासः श्रेयान्" इति । १४ ।
 
-KAZ01.17.15 "vatsa.sthānam etad" iti kauṇapadantaḥ | 15 |
+कज़्०१।१७।१५ "वत्स।स्थानम् एतद्" इति कौणपदन्तः । १५ ।
 
-KAZ01.17.16 "vatsena-iva hi dhenuṃ pitaram asya sāmanto duhyāt | 16 |
+कज़्०१।१७।१६ "वत्सेन-इव हि धेनुं पितरम् अस्य सामन्तो दुह्यात् । १६ ।
 
-KAZ01.17.17 tasmān mātṛ.bandhuṣu vāsaḥ śreyān" iti | 17 |
+कज़्०१।१७।१७ तस्मान् मातृ।बन्धुषु वासः श्रेयान्" इति । १७ ।
 
-KAZ01.17.18 "dhvaja.sthānam etad" iti vāta.vyādhiḥ | 18 |
+कज़्०१।१७।१८ "ध्वज।स्थानम् एतद्" इति वात।व्याधिः । १८ ।
 
-KAZ01.17.19 "tena hi dhvajena-aditi.kauśikavad asya mātṛ.bāndhavā bhikṣeran | 19 |
+कज़्०१।१७।१९ "तेन हि ध्वजेन-अदिति।कौशिकवद् अस्य मातृ।बान्धवा भिक्षेरन् । १९ ।
 
-KAZ01.17.20 tasmād grāmya sukheṣv enam avasṛjet | 20 |
+कज़्०१।१७।२० तस्माद् ग्राम्य सुखेष्व् एनम् अवसृजेत् । २० ।
 
-KAZ01.17.21 sukha.uparuddhā hi putrāḥ pitaraṃ na-abhidruhyanti" iti | 21 |
+कज़्०१।१७।२१ सुख।उपरुद्धा हि पुत्राः पितरं न-अभिद्रुह्यन्ति" इति । २१ ।
 
-KAZ01.17.22 jīvan.maraṇam etad iti kauṭilyaḥ | 22 |
+कज़्०१।१७।२२ जीवन्।मरणम् एतद् इति कौटिल्यः । २२ ।
 
-KAZ01.17.23 kāṣṭham iva ghuṇa.jagdhaṃ rāja.kulam avinīta.putram abhiyukta.mātraṃ bhajyeta | 23 |
+कज़्०१।१७।२३ काष्ठम् इव घुण।जग्धं राज।कुलम् अविनीत।पुत्रम् अभियुक्त।मात्रं भज्येत । २३ ।
 
-KAZ01.17.24 tasmād ṛtumatyāṃ mahiṣyām ṛtvijaś carum aindrābārhaspatyaṃ nirvapeyuḥ | 24 |
+कज़्०१।१७।२४ तस्माद् ऋतुमत्यां महिष्याम् ऋत्विजश् चरुम् ऐन्द्राबार्हस्पत्यं निर्वपेयुः । २४ ।
 
-KAZ01.17.25 āpanna.sattvāyāḥ kaumāra.bhṛtyo garbha.bharmaṇi prasave ca viyateta | 25 |
+कज़्०१।१७।२५ आपन्न।सत्त्वायाः कौमार।भृत्यो गर्भ।भर्मणि प्रसवे च वियतेत । २५ ।
 
-KAZ01.17.26 prajātāyāḥ putra.saṃskāraṃ purohitaḥ kuryāt | 26 |
+कज़्०१।१७।२६ प्रजातायाः पुत्र।संस्कारं पुरोहितः कुर्यात् । २६ ।
 
-KAZ01.17.27 samarthaṃ tadvido vinayeyuḥ | 27 |
+कज़्०१।१७।२७ समर्थं तद्विदो विनयेयुः । २७ ।
 
-KAZ01.17.28 "sattriṇām ekaś ca-enaṃ mṛgayā.dyūta.madya.strībhiḥ pralobhayet "pitari vikramya rājyaṃ gṛhāṇa" iti | 28 |
+कज़्०१।१७।२८ "सत्त्रिणाम् एकश् च-एनं मृगया।द्यूत।मद्य।स्त्रीभिः प्रलोभयेत् "पितरि विक्रम्य राज्यं गृहाण" इति । २८ ।
 
-KAZ01.17.29 tam anyaḥ sattrī pratiṣedhayet" ity āmbhīyāḥ | 29 |
+कज़्०१।१७।२९ तम् अन्यः सत्त्री प्रतिषेधयेत्" इत्य् आम्भीयाः । २९ ।
 
-KAZ01.17.30 mahā.doṣam abuddha.bodhanam it kauṭilyaḥ | 30 |
+कज़्०१।१७।३० महा।दोषम् अबुद्ध।बोधनम् इत् कौटिल्यः । ३० ।
 
-KAZ01.17.31 navaṃ hi dravyaṃ yena yena-artha.jātena-upadihyate tat tad ācūṣati | 31 |
+कज़्०१।१७।३१ नवं हि द्रव्यं येन येन-अर्थ।जातेन-उपदिह्यते तत् तद् आचूषति । ३१ ।
 
-KAZ01.17.32 evam ayaṃ nava.buddhir yad yad ucyate tat tat.śāstra.upadeśam iva-abhijānāti | 32 |
+कज़्०१।१७।३२ एवम् अयं नव।बुद्धिर् यद् यद् उच्यते तत् तत्।शास्त्र।उपदेशम् इव-अभिजानाति । ३२ ।
 
-KAZ01.17.33 tasmād dharmyam arthyaṃ ca-asya-upadiśen na-adharmyam anarthyaṃ ca | 33 |
+कज़्०१।१७।३३ तस्माद् धर्म्यम् अर्थ्यं च-अस्य-उपदिशेन् न-अधर्म्यम् अनर्थ्यं च । ३३ ।
 
-KAZ01.17.34 sattriṇas tv enaṃ "tava smaḥ" iti vadantaḥ pālayeyuḥ | 34 |
+कज़्०१।१७।३४ सत्त्रिणस् त्व् एनं "तव स्मः" इति वदन्तः पालयेयुः । ३४ ।
 
-KAZ01.17.35 yauvana.utsekāt para.strīṣu manaḥ kurvāṇam āryā.vyañjanābhiḥ strībhir amedhyābhiḥ śūnya.āgāreṣu rātrāv udvejayeyuḥ | 35 |
+कज़्०१।१७।३५ यौवन।उत्सेकात् पर।स्त्रीषु मनः कुर्वाणम् आर्या।व्यञ्जनाभिः स्त्रीभिर् अमेध्याभिः शून्य।आगारेषु रात्राव् उद्वेजयेयुः । ३५ ।
 
-KAZ01.17.36 madya.kāmaṃ yoga.pānena-udvejayeyuḥ | 36 |
+कज़्०१।१७।३६ मद्य।कामं योग।पानेन-उद्वेजयेयुः । ३६ ।
 
-KAZ01.17.37 dyūta.kāmaṃ kāpaṭikair udvejayeyuḥ | 37 |
+कज़्०१।१७।३७ द्यूत।कामं कापटिकैर् उद्वेजयेयुः । ३७ ।
 
-KAZ01.17.38 mṛgayā.kāmaṃ pratirodhaka.vyañjanais trāsayeyuḥ | 38 |
+कज़्०१।१७।३८ मृगया।कामं प्रतिरोधक।व्यञ्जनैस् त्रासयेयुः । ३८ ।
 
-KAZ01.17.39 pitari vikrama.buddhiṃ "tathā" ity anupraviśya bhedayeyuḥ - "aprārthanīyo rājā, vipanne ghātaḥ, sampanne naraka.pātaḥ, saṅkrośaḥ, prajābhir eka.loṣṭa.vadhaś ca" iti | 39 |
+कज़्०१।१७।३९ पितरि विक्रम।बुद्धिं "तथा" इत्य् अनुप्रविश्य भेदयेयुः - "अप्रार्थनीयो राजा, विपन्ने घातः, सम्पन्ने नरक।पातः, सङ्क्रोशः, प्रजाभिर् एक।लोष्ट।वधश् च" इति । ३९ ।
 
-KAZ01.17.40 virāgaṃ vedayeyuḥ | 40 |
+कज़्०१।१७।४० विरागं वेदयेयुः । ४० ।
 
-KAZ01.17.41 priyam eka.putraṃ badhnīyāt | 41 |
+कज़्०१।१७।४१ प्रियम् एक।पुत्रं बध्नीयात् । ४१ ।
 
-KAZ01.17.42 bahu.putraḥ pratyantam anya.viṣayaṃ vā preṣayed yatra garbhaḥ paṇyaṃ ḍimbo vā na bhavet | 42 |
+कज़्०१।१७।४२ बहु।पुत्रः प्रत्यन्तम् अन्य।विषयं वा प्रेषयेद् यत्र गर्भः पण्यं डिम्बो वा न भवेत् । ४२ ।
 
-KAZ01.17.43 ātma.sampannaṃ saināpatye yauvarājye vā sthāpayet | 43 |
+कज़्०१।१७।४३ आत्म।सम्पन्नं सैनापत्ये यौवराज्ये वा स्थापयेत् । ४३ ।
 
-KAZ01.17.44 buddhimān.āhārya.buddhir durbuddhir iti putra.viśeṣāḥ | 44 |
+कज़्०१।१७।४४ बुद्धिमान्।आहार्य।बुद्धिर् दुर्बुद्धिर् इति पुत्र।विशेषाः । ४४ ।
 
-KAZ01.17.45 śiṣyamāṇo dharma.arthāv upalabhate ca-anutiṣṭhati ca buddhimān | 45 |
+कज़्०१।१७।४५ शिष्यमाणो धर्म।अर्थाव् उपलभते च-अनुतिष्ठति च बुद्धिमान् । ४५ ।
 
-KAZ01.17.46 upalabhamāno na-anutiṣṭhaty āhārya.buddhiḥ | 46 |
+कज़्०१।१७।४६ उपलभमानो न-अनुतिष्ठत्य् आहार्य।बुद्धिः । ४६ ।
 
-KAZ01.17.47 apāya.nityo dharma.artha.dveṣī ca-iti durbuddhiḥ | 47 |
+कज़्०१।१७।४७ अपाय।नित्यो धर्म।अर्थ।द्वेषी च-इति दुर्बुद्धिः । ४७ ।
 
-KAZ01.17.48 sa yady eka.putraḥ putra.utpattāv asya prayateta | 48 |
+कज़्०१।१७।४८ स यद्य् एक।पुत्रः पुत्र।उत्पत्ताव् अस्य प्रयतेत । ४८ ।
 
-KAZ01.17.49 putrikā.putrān utpādayed vā | 49 |
+कज़्०१।१७।४९ पुत्रिका।पुत्रान् उत्पादयेद् वा । ४९ ।
 
-KAZ01.17.50 vṛddhas tu vyādhito vā rājā mātṛ.bandhu.kulya.guṇavat.sāmantānām anyatamena kṣetre bījam utpādayet | 50 |
+कज़्०१।१७।५० वृद्धस् तु व्याधितो वा राजा मातृ।बन्धु।कुल्य।गुणवत्।सामन्तानाम् अन्यतमेन क्षेत्रे बीजम् उत्पादयेत् । ५० ।
 
-KAZ01.17.51 na ca-eka.putram avinītaṃ rājye sthāpayet | 51 |
+कज़्०१।१७।५१ न च-एक।पुत्रम् अविनीतं राज्ये स्थापयेत् । ५१ ।
 
-KAZ01.17.52ab bahūnām eka.samrodhaḥ pitā putra.hito bhavet |  
-KAZ01.17.52cd anyatra-āpada aiśvaryaṃ jyeṣṭha.bhāgi tu pūjyate || 52 ||  
+कज़्०१।१७।५२अब् बहूनाम् एक।सम्रोधः पिता पुत्र।हितो भवेत् ।  
+कज़्०१।१७।५२च्द् अन्यत्र-आपद ऐश्वर्यं ज्येष्ठ।भागि तु पूज्यते ॥ ५२ ॥  
 
 
-KAZ01.17.53ab kulasya vā bhaved rājyaṃ kula.saṅgho hi durjayaḥ |  
-KAZ01.17.53cd arāja.vyasana.ābādhaḥ śaśvad āvasati kṣitim || 53 ||  
+कज़्०१।१७।५३अब् कुलस्य वा भवेद् राज्यं कुल।सङ्घो हि दुर्जयः ।  
+कज़्०१।१७।५३च्द् अराज।व्यसन।आबाधः शश्वद् आवसति क्षितिम् ॥ ५३ ॥  
 
 
  छप्तेर् १८ (सेच्तिओन्स् १४; १५): चोन्दुच्त् ओड़् थे प्रिन्चे इन् दिस्ड़वोउर्; बेहविओउर् तोwअर्द्स् अ प्रिन्चे इन् दिस्ड़वोउर्
@@ -972,92 +971,92 @@ KAZ01.17.53cd arāja.vyasana.ābādhaḥ śaśvad āvasati kṣitim || 53 ||
 कज़्०१।१८।१६च्द् एकस्थम् अथ सम्रुन्ध्यात् पुत्रवांस् तु प्रवासयेत् ॥ १६ ॥  
 
 
- Chapter 19 (Section 16): Rules for the King
- \[K tr. 51\] ,  \[K2 tr. 45\] 
-KAZ01.19.01 rājānam utthitam anūttiṣṭhante bhṛtyāḥ | 1 |
+ छप्तेर् १९ (सेच्तिओन् १६): रुलेस् ड़ोर् थे किन्ग्
+ \[क् त्र्। ५१\] ,  \[क्२ त्र्। ४५\] 
+कज़्०१।१९।०१ राजानम् उत्थितम् अनूत्तिष्ठन्ते भृत्याः । १ ।
 
-KAZ01.19.02 pramādyantam anupramādyanti | 2 |
+कज़्०१।१९।०२ प्रमाद्यन्तम् अनुप्रमाद्यन्ति । २ ।
 
-KAZ01.19.03 karmāṇi ca-asya bhakṣayanti | 3 |
+कज़्०१।१९।०३ कर्माणि च-अस्य भक्षयन्ति । ३ ।
 
-KAZ01.19.04 dviṣadbhiś ca-atisandhīyate | 4 |
+कज़्०१।१९।०४ द्विषद्भिश् च-अतिसन्धीयते । ४ ।
 
-KAZ01.19.05 tasmād utthānam ātmanaḥ kurvīta | 5 |
+कज़्०१।१९।०५ तस्माद् उत्थानम् आत्मनः कुर्वीत । ५ ।
 
-KAZ01.19.06 nālikābhir ahar aṣṭadhā rātriṃ ca vibhajet, chāyā.pramāṇena vā | 6 |
+कज़्०१।१९।०६ नालिकाभिर् अहर् अष्टधा रात्रिं च विभजेत्, छाया।प्रमाणेन वा । ६ ।
 
-KAZ01.19.07 tripauruṣī pauruṣī catur.aṅgulā naṣṭac.chāyo madhya.ahna-iti catvāraḥ pūrve divasasya-aṣṭa.bhāgāḥ | 7 |
+कज़्०१।१९।०७ त्रिपौरुषी पौरुषी चतुर्।अङ्गुला नष्टच्।छायो मध्य।अह्न-इति चत्वारः पूर्वे दिवसस्य-अष्ट।भागाः । ७ ।
 
-KAZ01.19.08 taiḥ paścimā vyākhyātāḥ | 8 |
+कज़्०१।१९।०८ तैः पश्चिमा व्याख्याताः । ८ ।
 
-KAZ01.19.09 tatra pūrve divasasya-aṣṭa.bhāge rakṣā.vidhānam āya.vyayau ca śṛṇuyāt | 9 |
+कज़्०१।१९।०९ तत्र पूर्वे दिवसस्य-अष्ट।भागे रक्षा।विधानम् आय।व्ययौ च शृणुयात् । ९ ।
 
-KAZ01.19.10 dvitīye paura.jānapadānāṃ kāryāṇi paśyet | 10 |
+कज़्०१।१९।१० द्वितीये पौर।जानपदानां कार्याणि पश्येत् । १० ।
 
-KAZ01.19.11 tṛtīye snāna.bhojanaṃ seveta, svādhyāyaṃ ca kurvīta | 11 |
+कज़्०१।१९।११ तृतीये स्नान।भोजनं सेवेत, स्वाध्यायं च कुर्वीत । ११ ।
 
-KAZ01.19.12 caturthe hiraṇya.pratigraham adhyakṣāṃś ca kurvīta | 12 |
+कज़्०१।१९।१२ चतुर्थे हिरण्य।प्रतिग्रहम् अध्यक्षांश् च कुर्वीत । १२ ।
 
-KAZ01.19.13 pañcame mantri.pariṣadā pattra.sampreṣaṇena mantrayeta, cāra.guhya.bodhanīyāni ca budhyeta | 13 |
+कज़्०१।१९।१३ पञ्चमे मन्त्रि।परिषदा पत्त्र।सम्प्रेषणेन मन्त्रयेत, चार।गुह्य।बोधनीयानि च बुध्येत । १३ ।
 
-KAZ01.19.14 ṣaṣṭhe svaira.vihāraṃ mantraṃ vā seveta | 14 |
+कज़्०१।१९।१४ षष्ठे स्वैर।विहारं मन्त्रं वा सेवेत । १४ ।
 
-KAZ01.19.15 saptame hasty.aśva.ratha.āyudhīyān paśyet | 15 |
+कज़्०१।१९।१५ सप्तमे हस्त्य्।अश्व।रथ।आयुधीयान् पश्येत् । १५ ।
 
-KAZ01.19.16 aṣṭame senā.pati.sakho vikramaṃ cintayet | 16 |
+कज़्०१।१९।१६ अष्टमे सेना।पति।सखो विक्रमं चिन्तयेत् । १६ ।
 
-KAZ01.19.17 pratiṣṭhite 'hani sandhyām upāsīta | 17 |
+कज़्०१।१९।१७ प्रतिष्ठिते ऽहनि सन्ध्याम् उपासीत । १७ ।
 
-KAZ01.19.18 prathame rātri.bhāge gūḍha.puruṣān paśyet | 18 |
+कज़्०१।१९।१८ प्रथमे रात्रि।भागे गूढ।पुरुषान् पश्येत् । १८ ।
 
-KAZ01.19.19 dvitīye snāna.bhojanaṃ kurvīta, svādhyāyaṃ ca | 19 |
+कज़्०१।१९।१९ द्वितीये स्नान।भोजनं कुर्वीत, स्वाध्यायं च । १९ ।
 
-KAZ01.19.20 tṛtīye tūrya.ghoṣeṇa saṃviṣṭaś caturtha.pañcamau śayīta | 20 |
+कज़्०१।१९।२० तृतीये तूर्य।घोषेण संविष्टश् चतुर्थ।पञ्चमौ शयीत । २० ।
 
-KAZ01.19.21 ṣaṣṭhe tūrya.ghoṣeṇa pratibuddhaḥ śāstram itikartavyatāṃ ca cintayet | 21 |
+कज़्०१।१९।२१ षष्ठे तूर्य।घोषेण प्रतिबुद्धः शास्त्रम् इतिकर्तव्यतां च चिन्तयेत् । २१ ।
 
-KAZ01.19.22 saptame mantram adhyāsīta, gūḍha.puruṣāṃś ca preṣayet | 22 |
+कज़्०१।१९।२२ सप्तमे मन्त्रम् अध्यासीत, गूढ।पुरुषांश् च प्रेषयेत् । २२ ।
 
-KAZ01.19.23 aṣṭame ṛtvig.ācārya.purohita.svastyayanāni pratigṛhṇīyāt, cikitsaka.māhānasika.mauhūrtikāṃś ca paśyet | 23 |
+कज़्०१।१९।२३ अष्टमे ऋत्विग्।आचार्य।पुरोहित।स्वस्त्ययनानि प्रतिगृह्णीयात्, चिकित्सक।माहानसिक।मौहूर्तिकांश् च पश्येत् । २३ ।
 
-KAZ01.19.24 savastāṃ dhenuṃ vṛṣabhaṃ ca pradakṣiṇī.kṛtya-upasthānaṃ gacchet | 24 |
+कज़्०१।१९।२४ सवस्तां धेनुं वृषभं च प्रदक्षिणी।कृत्य-उपस्थानं गच्छेत् । २४ ।
 
-KAZ01.19.25 ātma.bala.ānukūlyena vā niśā.ahar.bhāgān pravibhajya kāryāṇi seveta | 25 |
+कज़्०१।१९।२५ आत्म।बल।आनुकूल्येन वा निशा।अहर्।भागान् प्रविभज्य कार्याणि सेवेत । २५ ।
 
-KAZ01.19.26 upasthāna.gataḥ kārya.arthinām advāra.āsaṅgaṃ kārayet | 26 |
+कज़्०१।१९।२६ उपस्थान।गतः कार्य।अर्थिनाम् अद्वार।आसङ्गं कारयेत् । २६ ।
 
-KAZ01.19.27 durdarśo hi rājā kārya.akārya.viparyāsam āsannaiḥ kāryate | 27 |
+कज़्०१।१९।२७ दुर्दर्शो हि राजा कार्य।अकार्य।विपर्यासम् आसन्नैः कार्यते । २७ ।
 
-KAZ01.19.28 tena prakṛti.kopam ari.vaśaṃ vā gacchet | 28 |
+कज़्०१।१९।२८ तेन प्रकृति।कोपम् अरि।वशं वा गच्छेत् । २८ ।
 
-KAZ01.19.29 tasmād devatā.āśrama.pāṣaṇḍa.śrotriya.paśu.puṇya.sthānānāṃ bāla.vṛddha.vyādhita.vyasany.anāthānāṃ strīṇāṃ ca krameṇa kāryāṇi paśyet, kārya.gauravād ātyayika.vaśena vā | 29 |
+कज़्०१।१९।२९ तस्माद् देवता।आश्रम।पाषण्ड।श्रोत्रिय।पशु।पुण्य।स्थानानां बाल।वृद्ध।व्याधित।व्यसन्य्।अनाथानां स्त्रीणां च क्रमेण कार्याणि पश्येत्, कार्य।गौरवाद् आत्ययिक।वशेन वा । २९ ।
 
-KAZ01.19.30ab sarvam ātyayikaṃ kāryaṃ śṛṇuyān na-atipātayet |  \[KAZ01.19.30ab \]  \[ś\]   
-KAZ01.19.30cd kṛcchra.sādhyam atikrāntam asādhyaṃ vā-api jāyate || 30 ||  \[KAZ01.19.30cd \]  \[ś\]   
-
-
-KAZ01.19.31ab agny.agāra.gataḥ kāryaṃ paśyed vaidya.tapasvinām |  \[KAZ01.19.31ab \]  \[ś\]   
-KAZ01.19.31cd purohita.ācārya.sakhaḥ pratyutthāya-abhivādya ca || 31 ||  \[KAZ01.19.31cd \]  \[ś\]   
+कज़्०१।१९।३०अब् सर्वम् आत्ययिकं कार्यं शृणुयान् न-अतिपातयेत् ।  \[कज़्०१।१९।३०अब् \]  \[श्\]   
+कज़्०१।१९।३०च्द् कृच्छ्र।साध्यम् अतिक्रान्तम् असाध्यं वा-अपि जायते ॥ ३० ॥  \[कज़्०१।१९।३०च्द् \]  \[श्\]   
 
 
-KAZ01.19.32ab tapasvināṃ tu kāryāṇi traividyaiḥ saha kārayet |  \[KAZ01.19.32ab \]  \[ś\]   
-KAZ01.19.32cd māyā.yogavidāṃ caiva na svayaṃ kopa.kāraṇāt || 32 ||  \[KAZ01.19.32cd \]  \[ś\]   
+कज़्०१।१९।३१अब् अग्न्य्।अगार।गतः कार्यं पश्येद् वैद्य।तपस्विनाम् ।  \[कज़्०१।१९।३१अब् \]  \[श्\]   
+कज़्०१।१९।३१च्द् पुरोहित।आचार्य।सखः प्रत्युत्थाय-अभिवाद्य च ॥ ३१ ॥  \[कज़्०१।१९।३१च्द् \]  \[श्\]   
 
 
-KAZ01.19.33ab rājño hi vratam utthānaṃ yajñaḥ kārya.anuśāsanam |  \[KAZ01.19.33ab \]  \[ś\]   
-KAZ01.19.33cd dakṣiṇā vṛtti.sāmyaṃ tu dīkṣā tasya-abhiṣecanam || 33 ||  \[KAZ01.19.33cd \]  \[ś\]   
+कज़्०१।१९।३२अब् तपस्विनां तु कार्याणि त्रैविद्यैः सह कारयेत् ।  \[कज़्०१।१९।३२अब् \]  \[श्\]   
+कज़्०१।१९।३२च्द् माया।योगविदां चैव न स्वयं कोप।कारणात् ॥ ३२ ॥  \[कज़्०१।१९।३२च्द् \]  \[श्\]   
 
 
-KAZ01.19.34ab prajā.sukhe sukhaṃ rājñaḥ prajānāṃ ca hite hitam |  \[KAZ01.19.34ab \]  \[ś\]   
-KAZ01.19.34cd na-ātma.priyaṃ hitaṃ rājñaḥ prajānāṃ tu priyaṃ hitam || 34 ||  \[KAZ01.19.34cd \]  \[ś\]   
+कज़्०१।१९।३३अब् राज्ञो हि व्रतम् उत्थानं यज्ञः कार्य।अनुशासनम् ।  \[कज़्०१।१९।३३अब् \]  \[श्\]   
+कज़्०१।१९।३३च्द् दक्षिणा वृत्ति।साम्यं तु दीक्षा तस्य-अभिषेचनम् ॥ ३३ ॥  \[कज़्०१।१९।३३च्द् \]  \[श्\]   
 
 
-KAZ01.19.35ab tasmān nitya.utthito rājā kuryād artha.anuśāsanam |  
-KAZ01.19.35cd arthasya mūlam utthānam anarthasya viparyayaḥ || 35 ||  \[KAZ01.19.35cd \]  \[ś\]   
+कज़्०१।१९।३४अब् प्रजा।सुखे सुखं राज्ञः प्रजानां च हिते हितम् ।  \[कज़्०१।१९।३४अब् \]  \[श्\]   
+कज़्०१।१९।३४च्द् न-आत्म।प्रियं हितं राज्ञः प्रजानां तु प्रियं हितम् ॥ ३४ ॥  \[कज़्०१।१९।३४च्द् \]  \[श्\]   
 
 
-KAZ01.19.36ab anutthāne dhruvo nāśaḥ prāptasya-anāgatasya ca |  \[KAZ01.19.36ab \]  \[ś\]   
-KAZ01.19.36cd prāpyate phalam utthānāl labhate ca-arthasampadam || 36 ||  \[KAZ01.19.36cd \]  \[ś\]   
+कज़्०१।१९।३५अब् तस्मान् नित्य।उत्थितो राजा कुर्याद् अर्थ।अनुशासनम् ।  
+कज़्०१।१९।३५च्द् अर्थस्य मूलम् उत्थानम् अनर्थस्य विपर्ययः ॥ ३५ ॥  \[कज़्०१।१९।३५च्द् \]  \[श्\]   
+
+
+कज़्०१।१९।३६अब् अनुत्थाने ध्रुवो नाशः प्राप्तस्य-अनागतस्य च ।  \[कज़्०१।१९।३६अब् \]  \[श्\]   
+कज़्०१।१९।३६च्द् प्राप्यते फलम् उत्थानाल् लभते च-अर्थसम्पदम् ॥ ३६ ॥  \[कज़्०१।१९।३६च्द् \]  \[श्\]   
 
 
  छप्तेर् २० (सेच्तिओन् १७): रेगुलतिओन्स् ड़ोर् थे रोयल् रेसिदेन्चे
@@ -1112,84 +1111,84 @@ KAZ01.19.36cd prāpyate phalam utthānāl labhate ca-arthasampadam || 36 ||  \[K
 कज़्०१।२०।२३च्द् निर्गच्छेद् अभिगच्छेद् वा मुद्रा।सङ्क्रान्त।भूमिकम् ॥ २३ ॥  \[कज़्०१।२०।२३च्द् \]  \[श्\]   
 
 
- Chapter 21 (Section 18): Protection of the King's Person
- \[K tr. 58\] ,  \[K2 tr. 51\] 
-KAZ01.21.01 śayanād utthitaḥ strī.gaṇair dhanvibhiḥ parigṛhyate, dvitīyasyāṃ kakṣyāyāṃ kañcuka.uṣṇīṣibhir varṣa.dhara.abhyāgārikaiḥ, tṛtīyasyāṃ kubja.vāmana.kirātaiḥ, caturthyāṃ mantribhiḥ sambandhibhir dauvārikaiś ca prāsa.pāṇibhiḥ | 1 |
+ छप्तेर् २१ (सेच्तिओन् १८): प्रोतेच्तिओन् ओड़् थे किन्ग्ऽस् पेर्सोन्
+ \[क् त्र्। ५८\] ,  \[क्२ त्र्। ५१\] 
+कज़्०१।२१।०१ शयनाद् उत्थितः स्त्री।गणैर् धन्विभिः परिगृह्यते, द्वितीयस्यां कक्ष्यायां कञ्चुक।उष्णीषिभिर् वर्ष।धर।अभ्यागारिकैः, तृतीयस्यां कुब्ज।वामन।किरातैः, चतुर्थ्यां मन्त्रिभिः सम्बन्धिभिर् दौवारिकैश् च प्रास।पाणिभिः । १ ।
 
-KAZ01.21.02 pitṛ.paitāmahaṃ sambandha.anubaddhaṃ śikṣitam anuraktaṃ kṛta.karmāṇaṃ ca janam āsannaṃ kurvīta, na-anyato.deśīyam akṛta.artha.mānaṃ sva.deśīyaṃ vā-apy apakṛtya-upagṛhītam | 2 |
+कज़्०१।२१।०२ पितृ।पैतामहं सम्बन्ध।अनुबद्धं शिक्षितम् अनुरक्तं कृत।कर्माणं च जनम् आसन्नं कुर्वीत, न-अन्यतो।देशीयम् अकृत।अर्थ।मानं स्व।देशीयं वा-अप्य् अपकृत्य-उपगृहीतम् । २ ।
 
-KAZ01.21.03 antar.vaṃśika.sainyaṃ rājānam antaḥpuraṃ ca rakṣet | 3 |
+कज़्०१।२१।०३ अन्तर्।वंशिक।सैन्यं राजानम् अन्तःपुरं च रक्षेत् । ३ ।
 
-KAZ01.21.04 gupte deśe māhānasikaḥ sarvam āsvāda.bāhulyena karma kārayet | 4 |
+कज़्०१।२१।०४ गुप्ते देशे माहानसिकः सर्वम् आस्वाद।बाहुल्येन कर्म कारयेत् । ४ ।
 
-KAZ01.21.05 tad rajā tathaiva pratibhuñjīta pūrvam agnaye vayobhyaś ca baliṃ kṛtvā | 5 |
+कज़्०१।२१।०५ तद् रजा तथैव प्रतिभुञ्जीत पूर्वम् अग्नये वयोभ्यश् च बलिं कृत्वा । ५ ।
 
-KAZ01.21.06 agner jvālā.dhūma.nīlatā śabda.sphoṭanaṃ ca viṣa.yuktasya, vayasāṃ vipattiś ca | 6 |
+कज़्०१।२१।०६ अग्नेर् ज्वाला।धूम।नीलता शब्द।स्फोटनं च विष।युक्तस्य, वयसां विपत्तिश् च । ६ ।
 
-KAZ01.21.07a annasya ūṣmā mayūra.grīva.ābhaḥ śaityam āśu kliṣṭasya-iva vaivarṇyaṃ sa-udakatvam aklinnatvaṃ ca -
+कज़्०१।२१।०७अ अन्नस्य ऊष्मा मयूर।ग्रीव।आभः शैत्यम् आशु क्लिष्टस्य-इव वैवर्ण्यं स-उदकत्वम् अक्लिन्नत्वं च -
 
-KAZ01.21.07b vyañjanānām āśu śuṣkatvaṃ ca kvātha.dhyāma.phena.paṭala.vicchinna.bhāvo gandha.sparśa.rasa.vadhaś ca -
+कज़्०१।२१।०७ब् व्यञ्जनानाम् आशु शुष्कत्वं च क्वाथ।ध्याम।फेन।पटल।विच्छिन्न।भावो गन्ध।स्पर्श।रस।वधश् च -
 
-KAZ01.21.07c draveṣu hīna.atiriktac.chāyā.darśanaṃ phena.paṭala.sīmanta.ūrdhva.rājī.darśanaṃ ca -
+कज़्०१।२१।०७च् द्रवेषु हीन।अतिरिक्तच्।छाया।दर्शनं फेन।पटल।सीमन्त।ऊर्ध्व।राजी।दर्शनं च -
 
-KAZ01.21.07d rasasya madhye nīlā rājī, payasas tāmrā, madya.toyayoḥ kālī, dadhnaḥ śyāmā, madhunaḥ śvetā, dravyāṇām ārdrāṇām āśu pramlānatvam utpakva.bhāvaḥ kvātha.nīla.śyāvatā ca -
+कज़्०१।२१।०७द् रसस्य मध्ये नीला राजी, पयसस् ताम्रा, मद्य।तोययोः काली, दध्नः श्यामा, मधुनः श्वेता, द्रव्याणाम् आर्द्राणाम् आशु प्रम्लानत्वम् उत्पक्व।भावः क्वाथ।नील।श्यावता च -
 
-KAZ01.21.07e śuṣkāṇām āśu śātanaṃ vaivarṇyaṃ ca, -
+कज़्०१।२१।०७ए शुष्काणाम् आशु शातनं वैवर्ण्यं च, -
 
-KAZ01.21.07f kaṭhinānāṃ mṛdutvaṃ mṛdūnāṃ ca kaṭhinatvam, tad.abhyāśe kṣudra.sattva.vadhaś ca, -
+कज़्०१।२१।०७ड़् कठिनानां मृदुत्वं मृदूनां च कठिनत्वम्, तद्।अभ्याशे क्षुद्र।सत्त्व।वधश् च, -
 
-KAZ01.21.07g āstaraṇa.pravaraṇānāṃ dhyāma.maṇḍalatā tanturoma.pakṣma.śātanaṃ ca, -
+कज़्०१।२१।०७ग् आस्तरण।प्रवरणानां ध्याम।मण्डलता तन्तुरोम।पक्ष्म।शातनं च, -
 
-KAZ01.21.07h loha.maṇimayānāṃ paṅkama.lopadehatā sneha.rāga.gaurava.prabhāva.varṇa.sparśavadhaś ca - iti viṣayuktasya liṅgāni | 7 |
+कज़्०१।२१।०७ह् लोह।मणिमयानां पङ्कम।लोपदेहता स्नेह।राग।गौरव।प्रभाव।वर्ण।स्पर्शवधश् च - इति विषयुक्तस्य लिङ्गानि । ७ ।
 
-KAZ01.21.08 viṣa.pradasya tu śuṣka.śyāva.vaktratā vāk.saṅgaḥ svedo vijṛmbhaṇaṃ ca-atimātraṃ vepathuḥ praskhalanaṃ vākya.viprekṣaṇam āvegaḥ karmaṇi sva.bhūmau ca-anavasthānam iti | 8 |
+कज़्०१।२१।०८ विष।प्रदस्य तु शुष्क।श्याव।वक्त्रता वाक्।सङ्गः स्वेदो विजृम्भणं च-अतिमात्रं वेपथुः प्रस्खलनं वाक्य।विप्रेक्षणम् आवेगः कर्मणि स्व।भूमौ च-अनवस्थानम् इति । ८ ।
 
-KAZ01.21.09 tasmād asya jāṅgulīvido bhiṣajaś ca-āsannāḥ syuḥ | 9 |
+कज़्०१।२१।०९ तस्माद् अस्य जाङ्गुलीविदो भिषजश् च-आसन्नाः स्युः । ९ ।
 
-KAZ01.21.10 bhiṣag.bhaiṣajya.agārād āsvāda.viśuddham auṣadhaṃ gṛhītvā pācaka.peṣakābhyām ātmanā ca pratisvādya rājñe prayacchet | 10 |
+कज़्०१।२१।१० भिषग्।भैषज्य।अगाराद् आस्वाद।विशुद्धम् औषधं गृहीत्वा पाचक।पेषकाभ्याम् आत्मना च प्रतिस्वाद्य राज्ञे प्रयच्छेत् । १० ।
 
-KAZ01.21.11 pānaṃ pānīyaṃ ca-auṣadhena vyākhyātam | 11 |
+कज़्०१।२१।११ पानं पानीयं च-औषधेन व्याख्यातम् । ११ ।
 
-KAZ01.21.12 kalpaka.prasādhakāḥ snāna.śuddha.vastra.hastāḥ samudram upakaraṇam antarvaṃśika.hastād ādāya paricareyuḥ | 12 |
+कज़्०१।२१।१२ कल्पक।प्रसाधकाः स्नान।शुद्ध।वस्त्र।हस्ताः समुद्रम् उपकरणम् अन्तर्वंशिक।हस्ताद् आदाय परिचरेयुः । १२ ।
 
-KAZ01.21.13 snāpaka.saṃvāhaka.āstaraka.rajaka.mālā.kāra.karma dāsyaḥ prasiddha.śaucāḥ kuryuḥ, tābhir adhiṣṭhitā vā śilpinaḥ | 13 |
+कज़्०१।२१।१३ स्नापक।संवाहक।आस्तरक।रजक।माला।कार।कर्म दास्यः प्रसिद्ध।शौचाः कुर्युः, ताभिर् अधिष्ठिता वा शिल्पिनः । १३ ।
 
-KAZ01.21.14 ātma.cakṣuṣi niveśya vastra.mālyaṃ dadyuḥ, snāna.anulepana.pragharṣa.cūrṇa.vāsa.snānīyāni ca sva.vakṣo.bāhuṣu ca | 14 |
+कज़्०१।२१।१४ आत्म।चक्षुषि निवेश्य वस्त्र।माल्यं दद्युः, स्नान।अनुलेपन।प्रघर्ष।चूर्ण।वास।स्नानीयानि च स्व।वक्षो।बाहुषु च । १४ ।
 
-KAZ01.21.15 etena parasmād āgatakaṃ vyākhyātam | 15 |
+कज़्०१।२१।१५ एतेन परस्माद् आगतकं व्याख्यातम् । १५ ।
 
-KAZ01.21.16 kuśīlavāḥ śastra.agni.rasa.krīḍā.varjaṃ narmayeyuḥ | 16 |
+कज़्०१।२१।१६ कुशीलवाः शस्त्र।अग्नि।रस।क्रीडा।वर्जं नर्मयेयुः । १६ ।
 
-KAZ01.21.17 ātodyāni ca-eṣām antas tiṣṭheyuḥ, aśva.ratha.dvipa.alaṅkārāś ca | 17 |
+कज़्०१।२१।१७ आतोद्यानि च-एषाम् अन्तस् तिष्ठेयुः, अश्व।रथ।द्विप।अलङ्काराश् च । १७ ।
 
-KAZ01.21.18 āpta.puruṣa.adhiṣṭhitaṃ yāna.vāhanam ārohet, nāvaṃ ca-āpta.nāvika.adhiṣṭhitam | 18 |
+कज़्०१।२१।१८ आप्त।पुरुष।अधिष्ठितं यान।वाहनम् आरोहेत्, नावं च-आप्त।नाविक।अधिष्ठितम् । १८ ।
 
-KAZ01.21.19 anya.nau.pratibaddhāṃ vāta.vega.vaśāṃ ca na-upeyāt | 19 |
+कज़्०१।२१।१९ अन्य।नौ।प्रतिबद्धां वात।वेग।वशां च न-उपेयात् । १९ ।
 
-KAZ01.21.20 udaka.ante sainyam āsīta | 20 |
+कज़्०१।२१।२० उदक।अन्ते सैन्यम् आसीत । २० ।
 
-KAZ01.21.21 matsya.grāha.viśuddham udakam avagāheta | 21 |
+कज़्०१।२१।२१ मत्स्य।ग्राह।विशुद्धम् उदकम् अवगाहेत । २१ ।
 
-KAZ01.21.22 vyāla.grāha.viśuddham udyānaṃ gacchet | 22 |
+कज़्०१।२१।२२ व्याल।ग्राह।विशुद्धम् उद्यानं गच्छेत् । २२ ।
 
-KAZ01.21.23 lubdhaka.śva.gaṇibhir apāsta.stena.vyāla.para.ābādha.bhayaṃ cala.lakṣya.paricaya.arthaṃ mṛga.araṇyaṃ gacchet | 23 |
+कज़्०१।२१।२३ लुब्धक।श्व।गणिभिर् अपास्त।स्तेन।व्याल।पर।आबाध।भयं चल।लक्ष्य।परिचय।अर्थं मृग।अरण्यं गच्छेत् । २३ ।
 
-KAZ01.21.24 āpta.śastra.grāha.adhiṣṭhitaḥ siddha.tāpasaṃ paśyet, mantri.pariṣadā saha sāmanta.dūtam | 24 |
+कज़्०१।२१।२४ आप्त।शस्त्र।ग्राह।अधिष्ठितः सिद्ध।तापसं पश्येत्, मन्त्रि।परिषदा सह सामन्त।दूतम् । २४ ।
 
-KAZ01.21.25 samnaddho 'śvaṃ hastinaṃ vā-ārūḍhaḥ samnaddham anīkaṃ paśyet | 25 |
+कज़्०१।२१।२५ सम्नद्धो ऽश्वं हस्तिनं वा-आरूढः सम्नद्धम् अनीकं पश्येत् । २५ ।
 
-KAZ01.21.26 niryāṇe 'bhiyāne ca rāja.mārgam ubhayataḥ kṛta.ārakṣaṃ śastribhir daṇḍibhiś ca-apāsta.śastra.hasta.pravrajita.vyaṅgaṃ gacchet | 26 |
+कज़्०१।२१।२६ निर्याणे ऽभियाने च राज।मार्गम् उभयतः कृत।आरक्षं शस्त्रिभिर् दण्डिभिश् च-अपास्त।शस्त्र।हस्त।प्रव्रजित।व्यङ्गं गच्छेत् । २६ ।
 
-KAZ01.21.27 na puruṣa.sambādham avagāheta | 27 |
+कज़्०१।२१।२७ न पुरुष।सम्बाधम् अवगाहेत । २७ ।
 
-KAZ01.21.28 yātrā.samāja.utsava.prahavaṇāni ca daśa.vargika.adhiṣṭhitāni gacchet | 28 |
+कज़्०१।२१।२८ यात्रा।समाज।उत्सव।प्रहवणानि च दश।वर्गिक।अधिष्ठितानि गच्छेत् । २८ ।
 
-KAZ01.21.29ab yathā ca yoga.puruṣair anyān rājā-adhitiṣṭhati |  \[KAZ01.21.29ab \]  \[ś\]   
-KAZ01.21.29cd tathā-ayam anya.ābādhebhyo rakṣed ātmānam ātmavān || 29 ||  \[KAZ01.21.29cd \]  \[ś\]   
+कज़्०१।२१।२९अब् यथा च योग।पुरुषैर् अन्यान् राजा-अधितिष्ठति ।  \[कज़्०१।२१।२९अब् \]  \[श्\]   
+कज़्०१।२१।२९च्द् तथा-अयम् अन्य।आबाधेभ्यो रक्षेद् आत्मानम् आत्मवान् ॥ २९ ॥  \[कज़्०१।२१।२९च्द् \]  \[श्\]   
 
 
-# Book 2: The Activity of the Heads of Departments
- \[K tr. 62-218\] ,  \[K2 tr. 55-189\] 
+# बोओक् २: थे अच्तिवित्य् ओड़् थे हेअद्स् ओड़् देपर्त्मेन्त्स्
+ \[क् त्र्। ६२-२१८\] ,  \[क्२ त्र्। ५५-१८९\] 
  छप्तेर् १ (सेच्तिओन् १९): सेत्त्लेमेन्त् ओड़् थे चोउन्त्र्य्सिदे
  \[क् त्र्। ६२\] ,  \[क्२ त्र्। ५५\] 
 कज़्०२।०१।०१ भूत।पूर्वम् अभूत।पूर्वं वा जन।पदं पर।देश।अपवाहनेन स्व।देश।अभिष्यन्द।वमनेन वा निवेशयेत् । १ ।
@@ -1280,42 +1279,42 @@ KAZ01.21.29cd tathā-ayam anya.ābādhebhyo rakṣed ātmānam ātmavān || 29 |
 कज़्०२।०१।३९च्द् रक्षेत् पूर्व।कृतान् राजा नवांश् च-अभिप्रवर्तयेत् ॥ ३९ ॥  \[कज़्०२।०१।३९च्द् \]  \[श्\]   
 
 
- Chapter 2 (Section 20): Disposal of Non-agricultural Land
- \[K tr. 67\] ,  \[K2 tr. 59\] 
-KAZ02.2.01 akṛṣyāyāṃ bhūmau paśubhyo vivītāni prayacchet | 1 |
+ छप्तेर् २ (सेच्तिओन् २०): दिस्पोसल् ओड़् नोन्-अग्रिचुल्तुरल् लन्द्
+ \[क् त्र्। ६७\] ,  \[क्२ त्र्। ५९\] 
+कज़्०२।२।०१ अकृष्यायां भूमौ पशुभ्यो विवीतानि प्रयच्छेत् । १ ।
 
-KAZ02.2.02 pradiṣṭa.abhaya.sthāvara.jaṅgamāni ca brahma.soma.araṇyāni tapasvibhyo go.ruta.parāṇi prayacchet | 2 |
+कज़्०२।२।०२ प्रदिष्ट।अभय।स्थावर।जङ्गमानि च ब्रह्म।सोम।अरण्यानि तपस्विभ्यो गो।रुत।पराणि प्रयच्छेत् । २ ।
 
-KAZ02.2.03 tāvan.mātram eka.dvāraṃ khāta.guptaṃ svādu.phala.gulma.guccham akaṇṭaki.drumam uttāna.toya.āśayaṃ dānta.mṛga.catuṣpadaṃ bhagna.nakha.daṃṣṭra.vyālaṃ mārgayuka.hasti.hastinīka.labhaṃ mṛga.vanaṃ vihāra.arthaṃ rājñaḥ kārayet | 3 |
+कज़्०२।२।०३ तावन्।मात्रम् एक।द्वारं खात।गुप्तं स्वादु।फल।गुल्म।गुच्छम् अकण्टकि।द्रुमम् उत्तान।तोय।आशयं दान्त।मृग।चतुष्पदं भग्न।नख।दंष्ट्र।व्यालं मार्गयुक।हस्ति।हस्तिनीक।लभं मृग।वनं विहार।अर्थं राज्ञः कारयेत् । ३ ।
 
-KAZ02.2.04 sarva.atithi.mṛgaṃ pratyante ca-anyan.mṛga.vanaṃ bhūmi.vaśena vā niveśayet | 4 |
+कज़्०२।२।०४ सर्व।अतिथि।मृगं प्रत्यन्ते च-अन्यन्।मृग।वनं भूमि।वशेन वा निवेशयेत् । ४ ।
 
-KAZ02.2.05 kupya.pradiṣṭānāṃ ca dravyāṇām eka.ekaśo vanāni niveśayet, dravya.vana.karma.antān aṭavīś ca dravya.vana.apāśrayāḥ | 5 |
+कज़्०२।२।०५ कुप्य।प्रदिष्टानां च द्रव्याणाम् एक।एकशो वनानि निवेशयेत्, द्रव्य।वन।कर्म।अन्तान् अटवीश् च द्रव्य।वन।अपाश्रयाः । ५ ।
 
-KAZ02.2.06 pratyante hasti.vanam aṭavy.ārakṣaṃ niveśayet | 6 |
+कज़्०२।२।०६ प्रत्यन्ते हस्ति।वनम् अटव्य्।आरक्षं निवेशयेत् । ६ ।
 
-KAZ02.2.07 nāga.vana.adhyakṣaḥ pārvataṃ na-ādeyaṃ sāra.sama.anūpaṃ ca nāga.vanaṃ vidita.paryanta.praveśa.niṣkāsaṃ nāga.vana.pālaiḥ pālayet | 7 |
+कज़्०२।२।०७ नाग।वन।अध्यक्षः पार्वतं न-आदेयं सार।सम।अनूपं च नाग।वनं विदित।पर्यन्त।प्रवेश।निष्कासं नाग।वन।पालैः पालयेत् । ७ ।
 
-KAZ02.2.08 hasti.ghātinaṃ hanyuḥ | 8 |
+कज़्०२।२।०८ हस्ति।घातिनं हन्युः । ८ ।
 
-KAZ02.2.09 danta.yugaṃ svayaṃ.mṛtasya-āharataḥ sapāda.catuṣpaṇo lābhaḥ | 9 |
+कज़्०२।२।०९ दन्त।युगं स्वयं।मृतस्य-आहरतः सपाद।चतुष्पणो लाभः । ९ ।
 
-KAZ02.2.10 nāga.vana.pālā hastipaka.pāda.pāśika.saimika.vana.caraka.pārikarmika.sakhā hasti.mūtra.purīṣac.channa.gandhā bhallātakī.śākhā.pracchannāḥ pañcabhiḥ saptabhir vā hasti.bandhakībhiḥ saha carantaḥ śayyā.sthāna.padyā.leṇḍa.kūla.ghāta.uddeśena hasti.kula.paryagraṃ vidyuḥ | 10 |
+कज़्०२।२।१० नाग।वन।पाला हस्तिपक।पाद।पाशिक।सैमिक।वन।चरक।पारिकर्मिक।सखा हस्ति।मूत्र।पुरीषच्।छन्न।गन्धा भल्लातकी।शाखा।प्रच्छन्नाः पञ्चभिः सप्तभिर् वा हस्ति।बन्धकीभिः सह चरन्तः शय्या।स्थान।पद्या।लेण्ड।कूल।घात।उद्देशेन हस्ति।कुल।पर्यग्रं विद्युः । १० ।
 
-KAZ02.2.11 yūtha.caram eka.caraṃ niryūthaṃ yūtha.patiṃ hastinaṃ vyālaṃ mattaṃ potaṃ bandha.muktaṃ ca nibandhena vidyuḥ | 11 |
+कज़्०२।२।११ यूथ।चरम् एक।चरं निर्यूथं यूथ।पतिं हस्तिनं व्यालं मत्तं पोतं बन्ध।मुक्तं च निबन्धेन विद्युः । ११ ।
 
-KAZ02.2.12 anīkastha.pramāṇaiḥ praśasta.vyañjana.ācārān hastino gṛhṇīyuḥ | 12 |
+कज़्०२।२।१२ अनीकस्थ।प्रमाणैः प्रशस्त।व्यञ्जन।आचारान् हस्तिनो गृह्णीयुः । १२ ।
 
-KAZ02.2.13 hasti.pradhānaṃ vijayo rājñaḥ | 13 |
+कज़्०२।२।१३ हस्ति।प्रधानं विजयो राज्ञः । १३ ।
 
-KAZ02.2.14 para.anīka.vyūha.durga.skandha.āvāra.pramardanā hy atipramāṇa.śarīrāḥ prāṇa.hara.karmāṇo hastinaḥ | 14 |
+कज़्०२।२।१४ पर।अनीक।व्यूह।दुर्ग।स्कन्ध।आवार।प्रमर्दना ह्य् अतिप्रमाण।शरीराः प्राण।हर।कर्माणो हस्तिनः । १४ ।
 
-KAZ02.2.15ab kāliṅga.aṅgarajāḥ śreṣṭhāḥ prācyāś cedi.karūṣajāḥ |  \[KAZ02.2.15ab \]  \[ś\]   
-KAZ02.2.15cd dāśārṇāś ca-apara.antāś ca dvipānāṃ madhyamā matāḥ || 15 ||  \[KAZ02.2.15cd \]  \[ś\]   
+कज़्०२।२।१५अब् कालिङ्ग।अङ्गरजाः श्रेष्ठाः प्राच्याश् चेदि।करूषजाः ।  \[कज़्०२।२।१५अब् \]  \[श्\]   
+कज़्०२।२।१५च्द् दाशार्णाश् च-अपर।अन्ताश् च द्विपानां मध्यमा मताः ॥ १५ ॥  \[कज़्०२।२।१५च्द् \]  \[श्\]   
 
 
-KAZ02.2.16ab saurāṣṭrikāḥ pāñcanadās teṣāṃ pratyavarāḥ smṛtāḥ |  \[KAZ02.2.16ab \]  \[ś\]   
-KAZ02.2.16cd sarveṣāṃ karmaṇā vīryaṃ javas tejaś ca vardhate || 16 ||  \[KAZ02.2.16cd \]  \[ś\]   
+कज़्०२।२।१६अब् सौराष्ट्रिकाः पाञ्चनदास् तेषां प्रत्यवराः स्मृताः ।  \[कज़्०२।२।१६अब् \]  \[श्\]   
+कज़्०२।२।१६च्द् सर्वेषां कर्मणा वीर्यं जवस् तेजश् च वर्धते ॥ १६ ॥  \[कज़्०२।२।१६च्द् \]  \[श्\]   
 
 
  छप्तेर् ३ (सेच्तिओन् २१): चोन्स्त्रुच्तिओन् ओड़् ड़ोर्त्स्
@@ -1396,72 +1395,72 @@ KAZ02.2.16cd sarveṣāṃ karmaṇā vīryaṃ javas tejaś ca vardhate || 16 |
 कज़्०२।३।३५च्द् उष्ट्र।ग्रीव्यो ऽग्नि।सम्योगाः कुप्य।कल्पे च यो विधिः ॥ ३५ ॥  \[कज़्०२।३।३५च्द् \]  \[श्\]   
 
 
- Chapter 4 (Section 22): Lay-out of the Fortified City
- \[K tr. 77\] ,  \[K2 tr. 67\] 
-KAZ02.4.01 trayaḥ prācīnā rāja.mārgās traya udīcīnā iti vāstu.vibhāgaḥ | 1 |
+ छप्तेर् ४ (सेच्तिओन् २२): लय्-ओउत् ओड़् थे ड़ोर्तिड़िएद् चित्य्
+ \[क् त्र्। ७७\] ,  \[क्२ त्र्। ६७\] 
+कज़्०२।४।०१ त्रयः प्राचीना राज।मार्गास् त्रय उदीचीना इति वास्तु।विभागः । १ ।
 
-KAZ02.4.02 sa dvādaśa.dvāro yukta.udaka.bhramac.channa.pathaḥ | 2 |
+कज़्०२।४।०२ स द्वादश।द्वारो युक्त।उदक।भ्रमच्।छन्न।पथः । २ ।
 
-KAZ02.4.03 catur.daṇḍa.antarā rathyāḥ | 3 |
+कज़्०२।४।०३ चतुर्।दण्ड।अन्तरा रथ्याः । ३ ।
 
-KAZ02.4.04 rāja.mārga.droṇa.mukha.sthānīya.rāṣṭra.vivīta.pathāḥ samyānīya.vyūha.śmaśāna.grāma.pathāś ca-aṣṭa.daṇḍāḥ | 4 |
+कज़्०२।४।०४ राज।मार्ग।द्रोण।मुख।स्थानीय।राष्ट्र।विवीत।पथाः सम्यानीय।व्यूह।श्मशान।ग्राम।पथाश् च-अष्ट।दण्डाः । ४ ।
 
-KAZ02.4.05 catur.daṇḍaḥ setu.vana.pathaḥ, dvi.daṇḍo hasti.kṣetra.pathaḥ, pañca.aratnayo ratha.pathaḥ, catvāraḥ paśu.pathaḥ, dvau kṣudra.paśu.manuṣya.pathaḥ | 5 |
+कज़्०२।४।०५ चतुर्।दण्डः सेतु।वन।पथः, द्वि।दण्डो हस्ति।क्षेत्र।पथः, पञ्च।अरत्नयो रथ।पथः, चत्वारः पशु।पथः, द्वौ क्षुद्र।पशु।मनुष्य।पथः । ५ ।
 
-KAZ02.4.06 pravīre vāstuni rāja.niveśaś cāturvarṇya.samājīve | 6 |
+कज़्०२।४।०६ प्रवीरे वास्तुनि राज।निवेशश् चातुर्वर्ण्य।समाजीवे । ६ ।
 
-KAZ02.4.07 vāstu.hṛdayād uttare nava.bhāge yathā.ukta.vidhānam antaḥpuraṃ prān.mukham udan.mukhaṃ vā kārayet | 7 |
+कज़्०२।४।०७ वास्तु।हृदयाद् उत्तरे नव।भागे यथा।उक्त।विधानम् अन्तःपुरं प्रान्।मुखम् उदन्।मुखं वा कारयेत् । ७ ।
 
-KAZ02.4.08 tasya pūrva.uttaraṃ bhāgam ācārya.purohita.ijyā.toya.sthānaṃ mantriṇaś ca-āvaseyuḥ, pūrva.dakṣiṇaṃ bhāgm mahānasaṃ hasti.śālā koṣṭha.agāraṃ ca | 8 |
+कज़्०२।४।०८ तस्य पूर्व।उत्तरं भागम् आचार्य।पुरोहित।इज्या।तोय।स्थानं मन्त्रिणश् च-आवसेयुः, पूर्व।दक्षिणं भाग्म् महानसं हस्ति।शाला कोष्ठ।अगारं च । ८ ।
 
-KAZ02.4.09 tataḥ paraṃ gandha.mālya.rasa.paṇyāḥ prasādhana.kāravaḥ kṣatriyāś ca pūrvāṃ diśam adhivaseyuḥ | 9 |
+कज़्०२।४।०९ ततः परं गन्ध।माल्य।रस।पण्याः प्रसाधन।कारवः क्षत्रियाश् च पूर्वां दिशम् अधिवसेयुः । ९ ।
 
-KAZ02.4.10 dakṣiṇa.pūrvaṃ bhāgaṃ bhāṇḍa.agāram akṣa.paṭalaṃ karma.niṣadyāś ca, dakṣiṇa.paścimaṃ bhāgaṃ kupya.gṛham āyudha.agāraṃ ca | 10 |
+कज़्०२।४।१० दक्षिण।पूर्वं भागं भाण्ड।अगारम् अक्ष।पटलं कर्म।निषद्याश् च, दक्षिण।पश्चिमं भागं कुप्य।गृहम् आयुध।अगारं च । १० ।
 
-KAZ02.4.11 tataḥ paraṃ nagara.dhānya.vyāvahārika.kārmāntika.bala.adhyakṣāḥ pakva.anna.surā.māṃsa.paṇyā rūpājīvās tālāvacarā vaiśyāś ca dakṣiṇāṃ diśam adhivaseyuḥ | 11 |
+कज़्०२।४।११ ततः परं नगर।धान्य।व्यावहारिक।कार्मान्तिक।बल।अध्यक्षाः पक्व।अन्न।सुरा।मांस।पण्या रूपाजीवास् तालावचरा वैश्याश् च दक्षिणां दिशम् अधिवसेयुः । ११ ।
 
-KAZ02.4.12 paścima.dakṣiṇaṃ bhāgaṃ khara.uṣṭra.gupti.sthānaṃ karma.gṛhaṃ ca, paścima.uttaraṃ bhāgaṃ yāna.ratha.śālāḥ | 12 |
+कज़्०२।४।१२ पश्चिम।दक्षिणं भागं खर।उष्ट्र।गुप्ति।स्थानं कर्म।गृहं च, पश्चिम।उत्तरं भागं यान।रथ।शालाः । १२ ।
 
-KAZ02.4.13 tataḥ param ūrṇā.sūtra.veṇu.carma.varma.śastra.āvaraṇa.kāravaḥ śūdrāś ca paścimāṃ diśam adhivaseyuḥ | 13 |
+कज़्०२।४।१३ ततः परम् ऊर्णा।सूत्र।वेणु।चर्म।वर्म।शस्त्र।आवरण।कारवः शूद्राश् च पश्चिमां दिशम् अधिवसेयुः । १३ ।
 
-KAZ02.4.14 uttara.paścimaṃ bhāgaṃ paṇya.bhaiṣajya.gṛham, uttara.pūrvaṃ bhāgaṃ kośo gava.aśvaṃ ca | 14 |
+कज़्०२।४।१४ उत्तर।पश्चिमं भागं पण्य।भैषज्य।गृहम्, उत्तर।पूर्वं भागं कोशो गव।अश्वं च । १४ ।
 
-KAZ02.4.15 tataḥ paraṃ nagara.rāja.devatā.loha.maṇi.kāravo brāhmaṇāś ca-uttarāṃ diśam adhivaseyuḥ | 15 |
+कज़्०२।४।१५ ततः परं नगर।राज।देवता।लोह।मणि।कारवो ब्राह्मणाश् च-उत्तरां दिशम् अधिवसेयुः । १५ ।
 
-KAZ02.4.16 vāstuc.chidra.anuśāleṣu śreṇī.prapaṇi.nikāyā āvaseyuḥ | 16 |
+कज़्०२।४।१६ वास्तुच्।छिद्र।अनुशालेषु श्रेणी।प्रपणि।निकाया आवसेयुः । १६ ।
 
-KAZ02.4.17 apara.ajita.apratihata.jayanta.vaijayanta.koṣṭhān śiva.vaiśravaṇa.aśvi.śrī.madirā.gṛhāṇi ca pura.madhye kārayet | 17 |
+कज़्०२।४।१७ अपर।अजित।अप्रतिहत।जयन्त।वैजयन्त।कोष्ठान् शिव।वैश्रवण।अश्वि।श्री।मदिरा।गृहाणि च पुर।मध्ये कारयेत् । १७ ।
 
-KAZ02.4.18 yathā.uddeśaṃ vāstu.devatāḥ sthāpayet | 18 |
+कज़्०२।४।१८ यथा।उद्देशं वास्तु।देवताः स्थापयेत् । १८ ।
 
-KAZ02.4.19 brāhma.aindra.yāmya.saināpatyāni dvārāṇi | 19 |
+कज़्०२।४।१९ ब्राह्म।ऐन्द्र।याम्य।सैनापत्यानि द्वाराणि । १९ ।
 
-KAZ02.4.20 bahiḥ parikhāyā dhanuḥ.śata.apakṛṣṭāś caitya.puṇya.sthāna.vana.setu.bandhāḥ kāryāḥ, yathā.diśaṃ ca dig.devatāḥ | 20 |
+कज़्०२।४।२० बहिः परिखाया धनुः।शत।अपकृष्टाश् चैत्य।पुण्य।स्थान।वन।सेतु।बन्धाः कार्याः, यथा।दिशं च दिग्।देवताः । २० ।
 
-KAZ02.4.21 uttaraḥ pūrvo vā śmaśāna.bhāgo varṇa.uttamānām, dakṣiṇena śmaśānaṃ varṇa.avarāṇām | 21 |
+कज़्०२।४।२१ उत्तरः पूर्वो वा श्मशान।भागो वर्ण।उत्तमानाम्, दक्षिणेन श्मशानं वर्ण।अवराणाम् । २१ ।
 
-KAZ02.4.22 tasya-atikrame pūrvaḥ sāhasa.daṇḍaḥ | 22 |
+कज़्०२।४।२२ तस्य-अतिक्रमे पूर्वः साहस।दण्डः । २२ ।
 
-KAZ02.4.23 pāṣaṇḍa.caṇḍālānāṃ śmaśāna.ante vāsaḥ | 23 |
+कज़्०२।४।२३ पाषण्ड।चण्डालानां श्मशान।अन्ते वासः । २३ ।
 
-KAZ02.4.24 karma.anta.kṣetra.vaśena kuṭumbināṃ sīmānaṃ sthāpayet | 24 |
+कज़्०२।४।२४ कर्म।अन्त।क्षेत्र।वशेन कुटुम्बिनां सीमानं स्थापयेत् । २४ ।
 
-KAZ02.4.25 teṣu puṣpa.phala.vāṭān dhānya.paṇya.nicayāṃś ca-anujñātāḥ kuryuḥ | 25 |
+कज़्०२।४।२५ तेषु पुष्प।फल।वाटान् धान्य।पण्य।निचयांश् च-अनुज्ञाताः कुर्युः । २५ ।
 
-KAZ02.4.26 daśa.kulī.vāṭaṃ kūpa.sthānam | 26 |
+कज़्०२।४।२६ दश।कुली।वाटं कूप।स्थानम् । २६ ।
 
-KAZ02.4.27 sarva.sneha.dhānya.kṣāra.lavaṇa.gandha.bhaiṣajya.śuṣka.śāka.yavasa.- vallūra.tṛṇa.kāṣṭha.loha.carma.aṅgāra.snāyu.viṣa.viṣāṇa.veṇu.valkala.- sāra.dāru.praharaṇa.āvaraṇa.aśma.nicayān aneka.varṣa.upabhoga.sahān kārayet | 27 |
+कज़्०२।४।२७ सर्व।स्नेह।धान्य।क्षार।लवण।गन्ध।भैषज्य।शुष्क।शाक।यवस।- वल्लूर।तृण।काष्ठ।लोह।चर्म।अङ्गार।स्नायु।विष।विषाण।वेणु।वल्कल।- सार।दारु।प्रहरण।आवरण।अश्म।निचयान् अनेक।वर्ष।उपभोग।सहान् कारयेत् । २७ ।
 
-KAZ02.4.28 navena-anavaṃ śodhayet | 28 |
+कज़्०२।४।२८ नवेन-अनवं शोधयेत् । २८ ।
 
-KAZ02.4.29 hasti.aśva.ratha.pādātam aneka.mukhyam avasthāpayet | 29 |
+कज़्०२।४।२९ हस्ति।अश्व।रथ।पादातम् अनेक।मुख्यम् अवस्थापयेत् । २९ ।
 
-KAZ02.4.30 aneka.mukhyaṃ hi paraspara.bhayāt para.upajāpaṃ na-upaiti | 30 |
+कज़्०२।४।३० अनेक।मुख्यं हि परस्पर।भयात् पर।उपजापं न-उपैति । ३० ।
 
-KAZ02.4.31 etena-anta.pāla.durga.saṃskārā vyākhyātāḥ | 31 |
+कज़्०२।४।३१ एतेन-अन्त।पाल।दुर्ग।संस्कारा व्याख्याताः । ३१ ।
 
-KAZ02.4.32ab na ca bāhirikān kuryāt pure rāṣṭra.upaghātakān |  \[KAZ02.4.32ab \]  \[ś\]   
-KAZ02.4.32cd kṣipej jana.pade ca-etān sarvān vā dāpayet karān || 32 ||  \[KAZ02.4.32cd \]  \[ś\]   
+कज़्०२।४।३२अब् न च बाहिरिकान् कुर्यात् पुरे राष्ट्र।उपघातकान् ।  \[कज़्०२।४।३२अब् \]  \[श्\]   
+कज़्०२।४।३२च्द् क्षिपेज् जन।पदे च-एतान् सर्वान् वा दापयेत् करान् ॥ ३२ ॥  \[कज़्०२।४।३२च्द् \]  \[श्\]   
 
 
  छप्तेर् ५ (सेच्तिओन् २३): दुतिएस् ओड़् थे दिरेच्तोर् ओड़् स्तोरेस्
@@ -1516,64 +1515,64 @@ KAZ02.4.32cd kṣipej jana.pade ca-etān sarvān vā dāpayet karān || 32 ||  \
 
 कज़्०२।५।२२ब् यथा पृष्टो न सज्जेत व्यये शेषे च सञ्चये ॥ २२ ॥  \[कज़्०२।५।२२ब् \]  \[श्\] 
 
- Chapter 6 (Section 24): The Setting up of Revenue by the Administrator
- \[K tr. 86\] ,  \[K2 tr. 75\] 
-KAZ02.6.01 samāhartā durgaṃ rāṣṭraṃ khaniṃ setuṃ vanaṃ vrajaṃ vaṇik.pathaṃ ca-avekṣeta | 1 |
+ छप्तेर् ६ (सेच्तिओन् २४): थे सेत्तिन्ग् उप् ओड़् रेवेनुए ब्य् थे अद्मिनिस्त्रतोर्
+ \[क् त्र्। ८६\] ,  \[क्२ त्र्। ७५\] 
+कज़्०२।६।०१ समाहर्ता दुर्गं राष्ट्रं खनिं सेतुं वनं व्रजं वणिक्।पथं च-अवेक्षेत । १ ।
 
-KAZ02.6.02 śulkaṃ daṇḍaḥ pautavaṃ nāgariko lakṣaṇa.adhyakṣo mudrā.adhyakṣaḥ surā sūnā sūtraṃ tailaṃ ghṛtaṃ kṣāraḥ sauvarṇikaḥ paṇya.saṃsthā veśyā dyūtaṃ vāstukaṃ kāru.śilpi.gaṇo devatā.adhyakṣo dvāra.bahirikā.ādeyaṃ ca durgam | 2 |
+कज़्०२।६।०२ शुल्कं दण्डः पौतवं नागरिको लक्षण।अध्यक्षो मुद्रा।अध्यक्षः सुरा सूना सूत्रं तैलं घृतं क्षारः सौवर्णिकः पण्य।संस्था वेश्या द्यूतं वास्तुकं कारु।शिल्पि।गणो देवता।अध्यक्षो द्वार।बहिरिका।आदेयं च दुर्गम् । २ ।
 
-KAZ02.6.03 sītā bhāgo baliḥ karo vaṇik nadī.pālas taro nāvaḥ pattanaṃ vivicitaṃ vartanī rajjuś cora.rajjuś ca rāṣṭram | 3 |
+कज़्०२।६।०३ सीता भागो बलिः करो वणिक् नदी।पालस् तरो नावः पत्तनं विविचितं वर्तनी रज्जुश् चोर।रज्जुश् च राष्ट्रम् । ३ ।
 
-KAZ02.6.04 suvarṇa.rajata.vajra.maṇi.muktā.pravāla.śaṅkha.loha.lavaṇa.bhūmi.- prastara.rasa.dhātavaḥ khaniḥ | 4 |
+कज़्०२।६।०४ सुवर्ण।रजत।वज्र।मणि।मुक्ता।प्रवाल।शङ्ख।लोह।लवण।भूमि।- प्रस्तर।रस।धातवः खनिः । ४ ।
 
-KAZ02.6.05 puṣpa.phala.vāṭa.ṣaṇḍa.kedāra.mūla.vāpāḥ setuḥ | 5 |
+कज़्०२।६।०५ पुष्प।फल।वाट।षण्ड।केदार।मूल।वापाः सेतुः । ५ ।
 
-KAZ02.6.06 paśu.mṛga.dravya.hasti.vana.parigraho vanam | 6 |
+कज़्०२।६।०६ पशु।मृग।द्रव्य।हस्ति।वन।परिग्रहो वनम् । ६ ।
 
-KAZ02.6.07 go.mahiṣam aja.avikaṃ khara.uṣtram aśva.aśvataraṃ ca vrajaḥ | 7 |
+कज़्०२।६।०७ गो।महिषम् अज।अविकं खर।उष्त्रम् अश्व।अश्वतरं च व्रजः । ७ ।
 
-KAZ02.6.08 sthala.patho vāri.pathaś ca vaṇik.pathaḥ | 8 |
+कज़्०२।६।०८ स्थल।पथो वारि।पथश् च वणिक्।पथः । ८ ।
 
-KAZ02.6.09 ity āya.śarīram | 9 |
+कज़्०२।६।०९ इत्य् आय।शरीरम् । ९ ।
 
-KAZ02.6.10 mūlyaṃ bhāgo vyājī parighaḥ klṛptaṃ rūpikam atyayaś ca-āya.mukham | 10 |
+कज़्०२।६।१० मूल्यं भागो व्याजी परिघः क्लृप्तं रूपिकम् अत्ययश् च-आय।मुखम् । १० ।
 
-KAZ02.6.11 deva.pitṛ.pūjā.dāna.artham, svasti.vācanam, antaḥpuram, mahānasam, dūta.prāvartimam, koṣṭha.agāram, āyudha.agāram, paṇya.gṛham, kupya.gṛham, karma.anto, viṣṭiḥ, patti.aśva.ratha.dvipa.parigraho, go.maṇḍalam, paśu.mṛga.pakṣi.vyāla.vāṭāḥ, kāṣṭha.tṛṇa.vāṭāś ca-iti vyaya.śarīram | 11 |
+कज़्०२।६।११ देव।पितृ।पूजा।दान।अर्थम्, स्वस्ति।वाचनम्, अन्तःपुरम्, महानसम्, दूत।प्रावर्तिमम्, कोष्ठ।अगारम्, आयुध।अगारम्, पण्य।गृहम्, कुप्य।गृहम्, कर्म।अन्तो, विष्टिः, पत्ति।अश्व।रथ।द्विप।परिग्रहो, गो।मण्डलम्, पशु।मृग।पक्षि।व्याल।वाटाः, काष्ठ।तृण।वाटाश् च-इति व्यय।शरीरम् । ११ ।
 
-KAZ02.6.12 rāja.varṣaṃ māsaḥ pakṣo divasaś ca vyuṣṭam, varṣā.hemanta.grīṣmāṇāṃ tṛtīya.saptamā divasa.ūnāḥ pakṣāḥ śeṣāḥ pūrṇāḥ, pṛthag.adhimāsakaḥ, iti kālaḥ | 12 |
+कज़्०२।६।१२ राज।वर्षं मासः पक्षो दिवसश् च व्युष्टम्, वर्षा।हेमन्त।ग्रीष्माणां तृतीय।सप्तमा दिवस।ऊनाः पक्षाः शेषाः पूर्णाः, पृथग्।अधिमासकः, इति कालः । १२ ।
 
-KAZ02.6.13 karaṇīyaṃ siddhaṃ śeṣam āya.vyayau nīvī ca | 13 |
+कज़्०२।६।१३ करणीयं सिद्धं शेषम् आय।व्ययौ नीवी च । १३ ।
 
-KAZ02.6.14 saṃsthānaṃ pracāraḥ śarīra.avasthāpanam ādānaṃ sarva.samudaya.piṇḍaḥ sañjātaṃ - etat karaṇīyam | 14 |
+कज़्०२।६।१४ संस्थानं प्रचारः शरीर।अवस्थापनम् आदानं सर्व।समुदय।पिण्डः सञ्जातं - एतत् करणीयम् । १४ ।
 
-KAZ02.6.15 kośa.arpitaṃ rāja.hāraḥ pura.vyayaś ca praviṣṭaṃ parama.saṃvatsara.anuvṛttaṃ śāsana.muktaṃ mukha.ājñaptaṃ ca-apātanīyaṃ - etat siddham | 15 |
+कज़्०२।६।१५ कोश।अर्पितं राज।हारः पुर।व्ययश् च प्रविष्टं परम।संवत्सर।अनुवृत्तं शासन।मुक्तं मुख।आज्ञप्तं च-अपातनीयं - एतत् सिद्धम् । १५ ।
 
-KAZ02.6.16 siddhi.karma.yogaḥ daṇḍa.śeṣam āharaṇīyaṃ balāt.kṛta.pratiṣṭabdham avamṛṣṭaṃ ca praśodhyaṃ - etat-śeṣam, asāram alpa.sāraṃ ca | 16 |
+कज़्०२।६।१६ सिद्धि।कर्म।योगः दण्ड।शेषम् आहरणीयं बलात्।कृत।प्रतिष्टब्धम् अवमृष्टं च प्रशोध्यं - एतत्-शेषम्, असारम् अल्प।सारं च । १६ ।
 
-KAZ02.6.17 vartamānaḥ paryuṣito 'nya.jātaś ca-āyaḥ | 17 |
+कज़्०२।६।१७ वर्तमानः पर्युषितो ऽन्य।जातश् च-आयः । १७ ।
 
-KAZ02.6.18 divasa.anuvṛtto vartamānaḥ | 18 |
+कज़्०२।६।१८ दिवस।अनुवृत्तो वर्तमानः । १८ ।
 
-KAZ02.6.19 parama.sāṃvatsarikaḥ para.pracāra.saṅkrānto vā paryuṣitaḥ | 19 |
+कज़्०२।६।१९ परम।सांवत्सरिकः पर।प्रचार।सङ्क्रान्तो वा पर्युषितः । १९ ।
 
-KAZ02.6.20 naṣṭa.prasmṛtam āyukta.daṇḍaḥ pārśvaṃ pārihīṇikam aupāyanikaṃ ḍamara.gataka.svam aputrakaṃ nidhiś ca-anya.jātaḥ | 20 |
+कज़्०२।६।२० नष्ट।प्रस्मृतम् आयुक्त।दण्डः पार्श्वं पारिहीणिकम् औपायनिकं डमर।गतक।स्वम् अपुत्रकं निधिश् च-अन्य।जातः । २० ।
 
-KAZ02.6.21 vikṣepa.vyādhita.antara.ārambha.śeṣaṃ ca vyaya.pratyāyaḥ | 21 |
+कज़्०२।६।२१ विक्षेप।व्याधित।अन्तर।आरम्भ।शेषं च व्यय।प्रत्यायः । २१ ।
 
-KAZ02.6.22 vikriye paṇyānām argha.vṛddhir upajā, māna.unmāna.viśeṣo vyājī, kraya.saṅgharṣe vārdha.vṛddhiḥ - ity āyaḥ | 22 |
+कज़्०२।६।२२ विक्रिये पण्यानाम् अर्घ।वृद्धिर् उपजा, मान।उन्मान।विशेषो व्याजी, क्रय।सङ्घर्षे वार्ध।वृद्धिः - इत्य् आयः । २२ ।
 
-KAZ02.6.23 nityo nitya.utpādiko lābho lābha.utpādika iti vyayaḥ | 23 |
+कज़्०२।६।२३ नित्यो नित्य।उत्पादिको लाभो लाभ।उत्पादिक इति व्ययः । २३ ।
 
-KAZ02.6.24 divasa.anuvṛtto nityaḥ | 24 |
+कज़्०२।६।२४ दिवस।अनुवृत्तो नित्यः । २४ ।
 
-KAZ02.6.25 pakṣa.māsa.saṃvatsara.lābho lābhaḥ | 25 |
+कज़्०२।६।२५ पक्ष।मास।संवत्सर।लाभो लाभः । २५ ।
 
-KAZ02.6.26 tayor utpanno nitya.utpādiko lābha.utpādika iti vyayaḥ | 26 |
+कज़्०२।६।२६ तयोर् उत्पन्नो नित्य।उत्पादिको लाभ।उत्पादिक इति व्ययः । २६ ।
 
-KAZ02.6.27 sañjātād āya.vyaya.viśuddhā nīvī, prāptā ca-anuvṛttā ca | 27 |
+कज़्०२।६।२७ सञ्जाताद् आय।व्यय।विशुद्धा नीवी, प्राप्ता च-अनुवृत्ता च । २७ ।
 
-KAZ02.6.28ab evaṃ kuryāt samudayaṃ vṛddhiṃ ca-āyasya darśayet |  \[KAZ02.6.28ab \]  \[ś\]   
-KAZ02.6.28cd hrāsaṃ vyayasya ca prājñaḥ sādhayec ca viparyayam || 28 ||  \[KAZ02.6.28cd \]  \[ś\]   
+कज़्०२।६।२८अब् एवं कुर्यात् समुदयं वृद्धिं च-आयस्य दर्शयेत् ।  \[कज़्०२।६।२८अब् \]  \[श्\]   
+कज़्०२।६।२८च्द् ह्रासं व्ययस्य च प्राज्ञः साधयेच् च विपर्ययम् ॥ २८ ॥  \[कज़्०२।६।२८च्द् \]  \[श्\]   
 
 
  छप्तेर् ७ (सेच्तिओन् २५): रेचोर्द्स् अन्द् अच्चोउन्त्स् अन्द् औदित् ओड़्ड़िचे
@@ -1662,82 +1661,82 @@ KAZ02.6.28cd hrāsaṃ vyayasya ca prājñaḥ sādhayec ca viparyayam || 28 || 
 कज़्०२।७।४१च्द् महा।उपकारं च-अध्यक्षं प्रग्रहेण-अभिपूजयेत् ॥ ४१ ॥  \[कज़्०२।७।४१च्द् \]  \[श्\]   
 
 
- Chapter 8 (Section 26): Misappropriation of Revenue by Officers and Its Recovery
- \[K tr. 98\] ,  \[K2 tr. 85\] 
-KAZ02.8.01 kośa.pūrvāḥ sarva.ārambhāḥ | 1 |
+ छप्तेर् ८ (सेच्तिओन् २६): मिसप्प्रोप्रिअतिओन् ओड़् रेवेनुए ब्य् ओड़्ड़िचेर्स् अन्द् इत्स् रेचोवेर्य्
+ \[क् त्र्। ९८\] ,  \[क्२ त्र्। ८५\] 
+कज़्०२।८।०१ कोश।पूर्वाः सर्व।आरम्भाः । १ ।
 
-KAZ02.8.02 tasmāt pūrvaṃ kośam avekṣeta | 2 |
+कज़्०२।८।०२ तस्मात् पूर्वं कोशम् अवेक्षेत । २ ।
 
-KAZ02.8.03 pracāra.samṛddhiś caritra.anugrahaś cora.nigraho yukta.pratiṣedhaḥ sasya.sampat paṇya.bāhulyam upasarga.pramokṣaḥ parihāra.kṣayo hiraṇya.upāyanam iti kośa.vṛddhiḥ | 3 |
+कज़्०२।८।०३ प्रचार।समृद्धिश् चरित्र।अनुग्रहश् चोर।निग्रहो युक्त।प्रतिषेधः सस्य।सम्पत् पण्य।बाहुल्यम् उपसर्ग।प्रमोक्षः परिहार।क्षयो हिरण्य।उपायनम् इति कोश।वृद्धिः । ३ ।
 
-KAZ02.8.04 pratibandhaḥ prayogo vyavahāro 'vastāraḥ parihāpaṇam upabhogaḥ parivartanam apahāraś ca-iti kośa.kṣayaḥ | 4 |
+कज़्०२।८।०४ प्रतिबन्धः प्रयोगो व्यवहारो ऽवस्तारः परिहापणम् उपभोगः परिवर्तनम् अपहारश् च-इति कोश।क्षयः । ४ ।
 
-KAZ02.8.05 siddhīnām asādhanam anavatāraṇam apraveśanaṃ vā pratibandhaḥ | 5 |
+कज़्०२।८।०५ सिद्धीनाम् असाधनम् अनवतारणम् अप्रवेशनं वा प्रतिबन्धः । ५ ।
 
-KAZ02.8.06 tatra daśa.bandho daṇḍaḥ | 6 |
+कज़्०२।८।०६ तत्र दश।बन्धो दण्डः । ६ ।
 
-KAZ02.8.07 kośa.dravyāṇāṃ vṛddhi.prayogāḥ prayogaḥ | 7 |
+कज़्०२।८।०७ कोश।द्रव्याणां वृद्धि।प्रयोगाः प्रयोगः । ७ ।
 
-KAZ02.8.08 paṇya.vyavahāro vyavahāraḥ | 8 |
+कज़्०२।८।०८ पण्य।व्यवहारो व्यवहारः । ८ ।
 
-KAZ02.8.09 tatra phala.dvi.guṇo daṇḍaḥ | 9 |
+कज़्०२।८।०९ तत्र फल।द्वि।गुणो दण्डः । ९ ।
 
-KAZ02.8.10 siddhaṃ kālam aprāptaṃ karoti-aprāptaṃ prāptaṃ vā-ity avastāraḥ | 10 |
+कज़्०२।८।१० सिद्धं कालम् अप्राप्तं करोति-अप्राप्तं प्राप्तं वा-इत्य् अवस्तारः । १० ।
 
-KAZ02.8.11 tatra pañca.bandho daṇḍaḥ | 11 |
+कज़्०२।८।११ तत्र पञ्च।बन्धो दण्डः । ११ ।
 
-KAZ02.8.12 klṛptam āyaṃ parihāpayati vyayaṃ vā vivardhayati-iti parihāpaṇam | 12 |
+कज़्०२।८।१२ क्लृप्तम् आयं परिहापयति व्ययं वा विवर्धयति-इति परिहापणम् । १२ ।
 
-KAZ02.8.13 tatra hīna.catur.guṇo daṇḍaḥ | 13 |
+कज़्०२।८।१३ तत्र हीन।चतुर्।गुणो दण्डः । १३ ।
 
-KAZ02.8.14 svayam anyair vā rāja.dravyāṇām upabhojanam upabhogaḥ | 14 |
+कज़्०२।८।१४ स्वयम् अन्यैर् वा राज।द्रव्याणाम् उपभोजनम् उपभोगः । १४ ।
 
-KAZ02.8.15 tatra ratna.upabhoge ghātaḥ, sāra.upabhoge madhyamaḥ sāhasa.daṇḍaḥ, phalgu.kupya.upabhoge tac ca tāvat-ca daṇḍaḥ | 15 |
+कज़्०२।८।१५ तत्र रत्न।उपभोगे घातः, सार।उपभोगे मध्यमः साहस।दण्डः, फल्गु।कुप्य।उपभोगे तच् च तावत्-च दण्डः । १५ ।
 
-KAZ02.8.16 rāja.dravyāṇām anya.dravyena-ādānaṃ parivartanam | 16 |
+कज़्०२।८।१६ राज।द्रव्याणाम् अन्य।द्रव्येन-आदानं परिवर्तनम् । १६ ।
 
-KAZ02.8.17 tad upabhogena vyākhyātam | 17 |
+कज़्०२।८।१७ तद् उपभोगेन व्याख्यातम् । १७ ।
 
-KAZ02.8.18 siddham āyaṃ na praveśayati, nibaddhaṃ vyayaṃ na prayacchati, prāptāṃ nīvīṃ vipratijānīta ity apahāraḥ | 18 |
+कज़्०२।८।१८ सिद्धम् आयं न प्रवेशयति, निबद्धं व्ययं न प्रयच्छति, प्राप्तां नीवीं विप्रतिजानीत इत्य् अपहारः । १८ ।
 
-KAZ02.8.19 tatra dvādaśa.guṇo daṇḍaḥ | 19 |
+कज़्०२।८।१९ तत्र द्वादश।गुणो दण्डः । १९ ।
 
-KAZ02.8.20 teṣāṃ haraṇa.upāyāś catvāriṃśat | 20 |
+कज़्०२।८।२० तेषां हरण।उपायाश् चत्वारिंशत् । २० ।
 
-KAZ02.8.21a pūrvaṃ siddhaṃ paścād avatāritam, paścāt siddhaṃ pūrvam avatāritam, sādhyaṃ na siddham, asādhyaṃ siddham, siddham asiddhaṃ kṛtam, asiddhaṃ siddhaṃ kṛtam,  alpa.siddhaṃ bahu kṛtam, bahu.siddham alpaṃ kṛtam, anyat siddham anyat kṛtam, anyataḥ siddham anyataḥ kṛtam,-
+कज़्०२।८।२१अ पूर्वं सिद्धं पश्चाद् अवतारितम्, पश्चात् सिद्धं पूर्वम् अवतारितम्, साध्यं न सिद्धम्, असाध्यं सिद्धम्, सिद्धम् असिद्धं कृतम्, असिद्धं सिद्धं कृतम्,  अल्प।सिद्धं बहु कृतम्, बहु।सिद्धम् अल्पं कृतम्, अन्यत् सिद्धम् अन्यत् कृतम्, अन्यतः सिद्धम् अन्यतः कृतम्,-
 
-KAZ02.8.21b deyaṃ na dattam, adeyaṃ dattam, kāle na dattam, akāle dattam, alpaṃ dattaṃ bahu kṛtam, bahu dattam alpaṃ kṛtam, anyad dattam anyat kṛtam, anyato dattam anyataḥ kṛtam,-
+कज़्०२।८।२१ब् देयं न दत्तम्, अदेयं दत्तम्, काले न दत्तम्, अकाले दत्तम्, अल्पं दत्तं बहु कृतम्, बहु दत्तम् अल्पं कृतम्, अन्यद् दत्तम् अन्यत् कृतम्, अन्यतो दत्तम् अन्यतः कृतम्,-
 
-KAZ02.8.21c praviṣṭam apraviṣṭaṃ kṛtam, apraviṣṭaṃ praviṣṭaṃ kṛtam, kupyam adatta.mūlyaṃ praviṣṭam, datta.mūlyaṃ na praviṣṭaṃ -
+कज़्०२।८।२१च् प्रविष्टम् अप्रविष्टं कृतम्, अप्रविष्टं प्रविष्टं कृतम्, कुप्यम् अदत्त।मूल्यं प्रविष्टम्, दत्त।मूल्यं न प्रविष्टं -
 
-KAZ02.8.21d saṅkṣepo vikṣepaḥ kṛtaḥ, vikṣepaḥ saṅkṣepo vā, mahā.argham alpa.argheṇa parivartitam, alpa.arghaṃ mahā.argheṇa vā -
+कज़्०२।८।२१द् सङ्क्षेपो विक्षेपः कृतः, विक्षेपः सङ्क्षेपो वा, महा।अर्घम् अल्प।अर्घेण परिवर्तितम्, अल्प।अर्घं महा।अर्घेण वा -
 
-KAZ02.8.21e samāropito 'rghaḥ, pratyavaropito vā, saṃvatsaro māsa.viṣamaḥ kṛtaḥ, māso divasa.viṣamo vā, samāgama.viṣamaḥ, mukha.viṣamaḥ, kārmika.viṣamaḥ -
+कज़्०२।८।२१ए समारोपितो ऽर्घः, प्रत्यवरोपितो वा, संवत्सरो मास।विषमः कृतः, मासो दिवस।विषमो वा, समागम।विषमः, मुख।विषमः, कार्मिक।विषमः -
 
-KAZ02.8.21f nirvartana.viṣamaḥ, piṇḍa.viṣamaḥ, varṇa.viṣamaḥ, argha.viṣamaḥ, māna.viṣamaḥ, māpana.viṣamaḥ, bhājana.viṣamaḥ - iti haraṇa.upāyāḥ | 21 |
+कज़्०२।८।२१ड़् निर्वर्तन।विषमः, पिण्ड।विषमः, वर्ण।विषमः, अर्घ।विषमः, मान।विषमः, मापन।विषमः, भाजन।विषमः - इति हरण।उपायाः । २१ ।
 
-KAZ02.8.22 tatra-upayukta.nidhāyaka.nibandhaka.pratigrāhaka.dāyaka.dāpaka.- mantri.vaiyāvṛtya.karān eka.ekaśo 'nuyuñjīta | 22 |
+कज़्०२।८।२२ तत्र-उपयुक्त।निधायक।निबन्धक।प्रतिग्राहक।दायक।दापक।- मन्त्रि।वैयावृत्य।करान् एक।एकशो ऽनुयुञ्जीत । २२ ।
 
-KAZ02.8.23 mithyā.vāde ca-eṣāṃ yukta.samo daṇḍaḥ | 23 |
+कज़्०२।८।२३ मिथ्या।वादे च-एषां युक्त।समो दण्डः । २३ ।
 
-KAZ02.8.24 pracāre ca-avaghoṣayet "amunā prakṛtena-upahatāḥ prajñāpayantu" iti | 24 |
+कज़्०२।८।२४ प्रचारे च-अवघोषयेत् "अमुना प्रकृतेन-उपहताः प्रज्ञापयन्तु" इति । २४ ।
 
-KAZ02.8.25 prajñāpayato yathā.upaghātaṃ dāpayet | 25 |
+कज़्०२।८।२५ प्रज्ञापयतो यथा।उपघातं दापयेत् । २५ ।
 
-KAZ02.8.26 anekeṣu ca-abhiyogeṣv apavyayamānaḥ sakṛd eva para.uktaḥ sarvaṃ bhajeta | 26 |
+कज़्०२।८।२६ अनेकेषु च-अभियोगेष्व् अपव्ययमानः सकृद् एव पर।उक्तः सर्वं भजेत । २६ ।
 
-KAZ02.8.27 vaiṣamye sarvatra-anuyogaṃ dadyāt | 27 |
+कज़्०२।८।२७ वैषम्ये सर्वत्र-अनुयोगं दद्यात् । २७ ।
 
-KAZ02.8.28 mahaty artha.apahāre ca-alpena-api siddhaḥ sarvaṃ bhajeta | 28 |
+कज़्०२।८।२८ महत्य् अर्थ।अपहारे च-अल्पेन-अपि सिद्धः सर्वं भजेत । २८ ।
 
-KAZ02.8.29 kṛta.pratighāta.avasthaḥ sūcako niṣpanna.arthaḥ ṣaṣṭham aṃśaṃ labheta, dvādaśam aṃśaṃ bhṛtakaḥ | 29 |
+कज़्०२।८।२९ कृत।प्रतिघात।अवस्थः सूचको निष्पन्न।अर्थः षष्ठम् अंशं लभेत, द्वादशम् अंशं भृतकः । २९ ।
 
-KAZ02.8.30 prabhūta.abhiyogād alpa.niṣpattau niṣpannasya-aṃśaṃ labheta | 30 |
+कज़्०२।८।३० प्रभूत।अभियोगाद् अल्प।निष्पत्तौ निष्पन्नस्य-अंशं लभेत । ३० ।
 
-KAZ02.8.31 aniṣpanne śārīraṃ hairaṇyaṃ vā daṇḍaṃ labheta, na ca-anugrāhyaḥ | 31 |
+कज़्०२।८।३१ अनिष्पन्ने शारीरं हैरण्यं वा दण्डं लभेत, न च-अनुग्राह्यः । ३१ ।
 
-KAZ02.8.32ab niṣpattau nikṣiped vādam ātmānaṃ vā-apavāhayet |  \[KAZ02.8.32ab \]  \[ś\]   
-KAZ02.8.32cd abhiyukta.upajāpāt tu sūcako vadham āpnuyāt || 32 ||  \[KAZ02.8.32cd \]  \[ś\]   
+कज़्०२।८।३२अब् निष्पत्तौ निक्षिपेद् वादम् आत्मानं वा-अपवाहयेत् ।  \[कज़्०२।८।३२अब् \]  \[श्\]   
+कज़्०२।८।३२च्द् अभियुक्त।उपजापात् तु सूचको वधम् आप्नुयात् ॥ ३२ ॥  \[कज़्०२।८।३२च्द् \]  \[श्\]   
 
 
  छप्तेर् ९ (सेच्तिओन् २७): इन्स्पेच्तिओन् ओड़् ओड़्ड़िचेर्स्ऽ Wओर्क्
@@ -1824,158 +1823,158 @@ KAZ02.8.32cd abhiyukta.upajāpāt tu sūcako vadham āpnuyāt || 32 ||  \[KAZ02.
 कज़्०२।९।३६च्द् नित्य।अधिकाराः कार्यास् ते राज्ञः प्रिय।हिते रताः ॥ ३६ ॥  \[कज़्०२।९।३६च्द् \]  \[श्\]   
 
 
- Chapter 10 (Section 28): The Topic of Edicts
- \[K tr. 105\] ,  \[K2 tr. 92\] 
-KAZ02.10.01 śāsane śāsanam ity ācakṣate | 1 |
+ छप्तेर् १० (सेच्तिओन् २८): थे तोपिच् ओड़् एदिच्त्स्
+ \[क् त्र्। १०५\] ,  \[क्२ त्र्। ९२\] 
+कज़्०२।१०।०१ शासने शासनम् इत्य् आचक्षते । १ ।
 
-KAZ02.10.02 śāsana.pradhānā hi rājānaḥ, tan.mūlatvāt sandhi.vigrahayoḥ | 2 |
+कज़्०२।१०।०२ शासन।प्रधाना हि राजानः, तन्।मूलत्वात् सन्धि।विग्रहयोः । २ ।
 
-KAZ02.10.03 tasmād amātya.sampadā-upetaḥ sarva.samayavid āśu.granthaś cāru.akṣaro lekhana.vācana.samartho lekhakaḥ syāt | 3 |
+कज़्०२।१०।०३ तस्माद् अमात्य।सम्पदा-उपेतः सर्व।समयविद् आशु।ग्रन्थश् चारु।अक्षरो लेखन।वाचन।समर्थो लेखकः स्यात् । ३ ।
 
-KAZ02.10.04 so 'vyagra.manā rājñaḥ sandeśaṃ śrutvā niścita.arthaṃ lekhaṃ vidadhyāt deśa.aiśvarya.vaṃśa.nāmadheya.upacāram īśvarasya, deśa.nāmadheya.upacāram anīśvarasya | 4 |
+कज़्०२।१०।०४ सो ऽव्यग्र।मना राज्ञः सन्देशं श्रुत्वा निश्चित।अर्थं लेखं विदध्यात् देश।ऐश्वर्य।वंश।नामधेय।उपचारम् ईश्वरस्य, देश।नामधेय।उपचारम् अनीश्वरस्य । ४ ।
 
-KAZ02.10.05ab jātiṃ kulaṃ sthāna.vayaḥ.śrutāni karma.ṛddhi.śīlāny atha deśa.kālau |  \[KAZ02.10.05ab \]  \[ś\]   
-KAZ02.10.05cd yauna.anubandhaṃ ca samīkṣya kārye lekhaṃ vidadhyāt puruṣa.anurūpam || 5 ||  \[KAZ02.10.05cd \]  \[ś\]   
+कज़्०२।१०।०५अब् जातिं कुलं स्थान।वयः।श्रुतानि कर्म।ऋद्धि।शीलान्य् अथ देश।कालौ ।  \[कज़्०२।१०।०५अब् \]  \[श्\]   
+कज़्०२।१०।०५च्द् यौन।अनुबन्धं च समीक्ष्य कार्ये लेखं विदध्यात् पुरुष।अनुरूपम् ॥ ५ ॥  \[कज़्०२।१०।०५च्द् \]  \[श्\]   
 
 
-KAZ02.10.06 artha.kramaḥ sambandhaḥ paripūrṇatā mādhuryam audāryaṃ spaṣṭatvam iti lekha.sampat | 6 |
+कज़्०२।१०।०६ अर्थ।क्रमः सम्बन्धः परिपूर्णता माधुर्यम् औदार्यं स्पष्टत्वम् इति लेख।सम्पत् । ६ ।
 
-KAZ02.10.07 tatra yathāvad anupūrva.kriyā pradhānasya-arthasya pūrvam abhiniveśa ity artha.kramaḥ | 7 |
+कज़्०२।१०।०७ तत्र यथावद् अनुपूर्व।क्रिया प्रधानस्य-अर्थस्य पूर्वम् अभिनिवेश इत्य् अर्थ।क्रमः । ७ ।
 
-KAZ02.10.08 prastutasya-arthasya-anuparodhād uttarasya vidhānam ā.samāpter iti sambandhaḥ | 8 |
+कज़्०२।१०।०८ प्रस्तुतस्य-अर्थस्य-अनुपरोधाद् उत्तरस्य विधानम् आ।समाप्तेर् इति सम्बन्धः । ८ ।
 
-KAZ02.10.09 artha.pada.akṣarāṇām anyūna.atiriktatā hetu.udāharaṇa.dṛṣṭāntair artha.upavarṇanā-aśrānta.padatā-iti paripūrṇatā | 9 |
+कज़्०२।१०।०९ अर्थ।पद।अक्षराणाम् अन्यून।अतिरिक्तता हेतु।उदाहरण।दृष्टान्तैर् अर्थ।उपवर्णना-अश्रान्त।पदता-इति परिपूर्णता । ९ ।
 
-KAZ02.10.10 sukha.upanīta.cāru.artha.śabda.abhidhānaṃ mādhuryam | 10 |
+कज़्०२।१०।१० सुख।उपनीत।चारु।अर्थ।शब्द।अभिधानं माधुर्यम् । १० ।
 
-KAZ02.10.11 agrāmya.śabda.abhidhānam audāryam | 11 |
+कज़्०२।१०।११ अग्राम्य।शब्द।अभिधानम् औदार्यम् । ११ ।
 
-KAZ02.10.12 pratīta.śabda.prayogaḥ spaṣṭatvam iti | 12 |
+कज़्०२।१०।१२ प्रतीत।शब्द।प्रयोगः स्पष्टत्वम् इति । १२ ।
 
-KAZ02.10.13 a.kāra.ādayo varṇās triṣaṣṭiḥ | 13 |
+कज़्०२।१०।१३ अ।कार।आदयो वर्णास् त्रिषष्टिः । १३ ।
 
-KAZ02.10.14 varṇa.saṅghātaḥ padam | 14 |
+कज़्०२।१०।१४ वर्ण।सङ्घातः पदम् । १४ ।
 
-KAZ02.10.15 tac caturvidhaṃ nāma.ākhyāta.upasarga.nipātāś ca-iti | 15 |
+कज़्०२।१०।१५ तच् चतुर्विधं नाम।आख्यात।उपसर्ग।निपाताश् च-इति । १५ ।
 
-KAZ02.10.16 tatra nāma sattva.abhidhāyi | 16 |
+कज़्०२।१०।१६ तत्र नाम सत्त्व।अभिधायि । १६ ।
 
-KAZ02.10.17 aviśiṣṭa.liṅgam ākhyātaṃ kriyā.vāci | 17 |
+कज़्०२।१०।१७ अविशिष्ट।लिङ्गम् आख्यातं क्रिया।वाचि । १७ ।
 
-KAZ02.10.18 kriyā.viśeṣakāḥ pra.ādaya upasargāḥ | 18 |
+कज़्०२।१०।१८ क्रिया।विशेषकाः प्र।आदय उपसर्गाः । १८ ।
 
-KAZ02.10.19 avyayāś ca.ādayo nipātāḥ | 19 |
+कज़्०२।१०।१९ अव्ययाश् च।आदयो निपाताः । १९ ।
 
-KAZ02.10.20 pada.samūho vākyam artha.parisamāptau | 20 |
+कज़्०२।१०।२० पद।समूहो वाक्यम् अर्थ।परिसमाप्तौ । २० ।
 
-KAZ02.10.21 eka.pada.avaras tri.pada.paraḥ para.pada.artha.anuparodhena vargaḥ kāryaḥ | 21 |
+कज़्०२।१०।२१ एक।पद।अवरस् त्रि।पद।परः पर।पद।अर्थ।अनुपरोधेन वर्गः कार्यः । २१ ।
 
-KAZ02.10.22 lekha.parisaṃharaṇa.artha iti.śabdo vācikam asya-iti ca | 22 |
+कज़्०२।१०।२२ लेख।परिसंहरण।अर्थ इति।शब्दो वाचिकम् अस्य-इति च । २२ ।
 
-KAZ02.10.23ab nindā praśaṃsā pṛcchā ca tathā-ākhyānam atha-arthanā |  \[KAZ02.10.23ab \]  \[ś\]   
-KAZ02.10.23cd pratyākhyānam upālambhaḥ pratiṣedho 'tha codanā || 23 ||  \[KAZ02.10.23cd \]  \[ś\]   
+कज़्०२।१०।२३अब् निन्दा प्रशंसा पृच्छा च तथा-आख्यानम् अथ-अर्थना ।  \[कज़्०२।१०।२३अब् \]  \[श्\]   
+कज़्०२।१०।२३च्द् प्रत्याख्यानम् उपालम्भः प्रतिषेधो ऽथ चोदना ॥ २३ ॥  \[कज़्०२।१०।२३च्द् \]  \[श्\]   
 
 
-KAZ02.10.24ab sāntvam abhyupapattiś ca bhartsana.anunayau tathā |  \[KAZ02.10.24ab \]  \[ś\]   
-KAZ02.10.24cd eteṣv arthāḥ pravartante trayodaśasu lekhajāḥ || 24 ||  \[KAZ02.10.24cd \]  \[ś\]   
+कज़्०२।१०।२४अब् सान्त्वम् अभ्युपपत्तिश् च भर्त्सन।अनुनयौ तथा ।  \[कज़्०२।१०।२४अब् \]  \[श्\]   
+कज़्०२।१०।२४च्द् एतेष्व् अर्थाः प्रवर्तन्ते त्रयोदशसु लेखजाः ॥ २४ ॥  \[कज़्०२।१०।२४च्द् \]  \[श्\]   
 
 
-KAZ02.10.25 tatra-abhijana.śarīra.karmaṇāṃ doṣa.vacanaṃ nindā | 25 |
+कज़्०२।१०।२५ तत्र-अभिजन।शरीर।कर्मणां दोष।वचनं निन्दा । २५ ।
 
-KAZ02.10.26 guṇa.vacanam eteṣām eva praśaṃsā | 26 |
+कज़्०२।१०।२६ गुण।वचनम् एतेषाम् एव प्रशंसा । २६ ।
 
-KAZ02.10.27 "katham etad" iti pṛcchā | 27 |
+कज़्०२।१०।२७ "कथम् एतद्" इति पृच्छा । २७ ।
 
-KAZ02.10.28 "evam" ity ākhyānam | 28 |
+कज़्०२।१०।२८ "एवम्" इत्य् आख्यानम् । २८ ।
 
-KAZ02.10.29 "dehi" ity arthanā | 29 |
+कज़्०२।१०।२९ "देहि" इत्य् अर्थना । २९ ।
 
-KAZ02.10.30 "na prayacchāmi" iti pratyākhyānam | 30 |
+कज़्०२।१०।३० "न प्रयच्छामि" इति प्रत्याख्यानम् । ३० ।
 
-KAZ02.10.31 "ananurūpaṃ bhavataḥ" ity upālambhaḥ | 31 |
+कज़्०२।१०।३१ "अननुरूपं भवतः" इत्य् उपालम्भः । ३१ ।
 
-KAZ02.10.32 "mā kārṣīḥ" iti pratiṣedhaḥ | 32 |
+कज़्०२।१०।३२ "मा कार्षीः" इति प्रतिषेधः । ३२ ।
 
-KAZ02.10.33 "idaṃ kriyatām" iti codanā | 33 |
+कज़्०२।१०।३३ "इदं क्रियताम्" इति चोदना । ३३ ।
 
-KAZ02.10.34 "yo 'haṃ sa bhavān, yan mama dravyaṃ tad bhavataḥ" ity upagrahaḥ sāntvam | 34 |
+कज़्०२।१०।३४ "यो ऽहं स भवान्, यन् मम द्रव्यं तद् भवतः" इत्य् उपग्रहः सान्त्वम् । ३४ ।
 
-KAZ02.10.35 vyasana.sāhāyyam abhyupapattiḥ | 35 |
+कज़्०२।१०।३५ व्यसन।साहाय्यम् अभ्युपपत्तिः । ३५ ।
 
-KAZ02.10.36 sadoṣam āyati.pradarśanam abhibhartsanam | 36 |
+कज़्०२।१०।३६ सदोषम् आयति।प्रदर्शनम् अभिभर्त्सनम् । ३६ ।
 
-KAZ02.10.37 anunayas trividho 'rtha.kṛtāv atikrame puruṣa.ādi.vyasane ca-iti | 37 |
+कज़्०२।१०।३७ अनुनयस् त्रिविधो ऽर्थ।कृताव् अतिक्रमे पुरुष।आदि।व्यसने च-इति । ३७ ।
 
-KAZ02.10.38ab prajñāpana.ājñā.paridāna.lekhās tathā parīhāra.nisṛṣṭi.lekhau |  \[KAZ02.10.38ab \]  \[ś\]   
-KAZ02.10.38cd prāvṛttikaś ca pratilekha eva sarvatragaś ca-iti hi śāsanāni || 38 ||  \[KAZ02.10.38cd \]  \[ś\]   
+कज़्०२।१०।३८अब् प्रज्ञापन।आज्ञा।परिदान।लेखास् तथा परीहार।निसृष्टि।लेखौ ।  \[कज़्०२।१०।३८अब् \]  \[श्\]   
+कज़्०२।१०।३८च्द् प्रावृत्तिकश् च प्रतिलेख एव सर्वत्रगश् च-इति हि शासनानि ॥ ३८ ॥  \[कज़्०२।१०।३८च्द् \]  \[श्\]   
 
 
-KAZ02.10.39ab anena vijñāpitam evam āha tad dīyatāṃ ced yadi tattvam asti |  \[KAZ02.10.39ab \]  \[ś\]   
-KAZ02.10.39cd rājñaḥ samīpe vara.kāram āha prajñāpanā-eṣā vividhā-upadiṣṭā || 39 ||  \[KAZ02.10.39cd \]  \[ś\]   
+कज़्०२।१०।३९अब् अनेन विज्ञापितम् एवम् आह तद् दीयतां चेद् यदि तत्त्वम् अस्ति ।  \[कज़्०२।१०।३९अब् \]  \[श्\]   
+कज़्०२।१०।३९च्द् राज्ञः समीपे वर।कारम् आह प्रज्ञापना-एषा विविधा-उपदिष्टा ॥ ३९ ॥  \[कज़्०२।१०।३९च्द् \]  \[श्\]   
 
 
-KAZ02.10.40ab bhartur ājñā bhaved yatra nigraha.anugrahau prati |  \[KAZ02.10.40ab \]  \[ś\]   
-KAZ02.10.40cd viśeṣeṇa tu bhṛtyeṣu tad.ājñā.lekha.lakṣaṇam || 40 ||  \[KAZ02.10.40cd \]  \[ś\]   
+कज़्०२।१०।४०अब् भर्तुर् आज्ञा भवेद् यत्र निग्रह।अनुग्रहौ प्रति ।  \[कज़्०२।१०।४०अब् \]  \[श्\]   
+कज़्०२।१०।४०च्द् विशेषेण तु भृत्येषु तद्।आज्ञा।लेख।लक्षणम् ॥ ४० ॥  \[कज़्०२।१०।४०च्द् \]  \[श्\]   
 
 
-KAZ02.10.41ab yathā.arha.guṇa.samyuktā pūjā yatra-upalakṣyate |  \[KAZ02.10.41ab \]  \[ś\]   
-KAZ02.10.41cd apy ādhau paridāne vā bhavatas tāv upagrahau || 41 ||  \[KAZ02.10.41cd \]  \[ś\]   
+कज़्०२।१०।४१अब् यथा।अर्ह।गुण।सम्युक्ता पूजा यत्र-उपलक्ष्यते ।  \[कज़्०२।१०।४१अब् \]  \[श्\]   
+कज़्०२।१०।४१च्द् अप्य् आधौ परिदाने वा भवतस् ताव् उपग्रहौ ॥ ४१ ॥  \[कज़्०२।१०।४१च्द् \]  \[श्\]   
 
 
-KAZ02.10.42ab jāter viśeṣeṣu pareṣu caiva grāmeṣu deśeṣu ca teṣu teṣu |  \[KAZ02.10.42ab \]  \[ś\]   
-KAZ02.10.42cd anugraho yo nṛpter nideśāt taj.jñaḥ parīhāra iti vyavasyet || 42 ||  \[KAZ02.10.42cd \]  \[ś\]   
+कज़्०२।१०।४२अब् जातेर् विशेषेषु परेषु चैव ग्रामेषु देशेषु च तेषु तेषु ।  \[कज़्०२।१०।४२अब् \]  \[श्\]   
+कज़्०२।१०।४२च्द् अनुग्रहो यो नृप्तेर् निदेशात् तज्।ज्ञः परीहार इति व्यवस्येत् ॥ ४२ ॥  \[कज़्०२।१०।४२च्द् \]  \[श्\]   
 
 
-KAZ02.10.43ab nisṛṣṭisthā-āpanā kārya.karaṇe vacane tathā |  \[KAZ02.10.43ab \]  \[ś\]   
-KAZ02.10.43cd eṣa vācika.lekhaḥ syād bhaven naisṛṣṭiko 'pi vā || 43 ||  \[KAZ02.10.43cd \]  \[ś\]   
+कज़्०२।१०।४३अब् निसृष्टिस्था-आपना कार्य।करणे वचने तथा ।  \[कज़्०२।१०।४३अब् \]  \[श्\]   
+कज़्०२।१०।४३च्द् एष वाचिक।लेखः स्याद् भवेन् नैसृष्टिको ऽपि वा ॥ ४३ ॥  \[कज़्०२।१०।४३च्द् \]  \[श्\]   
 
 
-KAZ02.10.44ab vividhāṃ daiva.samyuktāṃ tattvajāṃ caiva mānuṣīm |  \[KAZ02.10.44ab \]  \[ś\]   
-KAZ02.10.44cd dvi.vidhāṃ tāṃ vyavasyanti pravṛttiṃ śāsanaṃ prati || 44 ||  \[KAZ02.10.44cd \]  \[ś\]   
+कज़्०२।१०।४४अब् विविधां दैव।सम्युक्तां तत्त्वजां चैव मानुषीम् ।  \[कज़्०२।१०।४४अब् \]  \[श्\]   
+कज़्०२।१०।४४च्द् द्वि।विधां तां व्यवस्यन्ति प्रवृत्तिं शासनं प्रति ॥ ४४ ॥  \[कज़्०२।१०।४४च्द् \]  \[श्\]   
 
 
-KAZ02.10.45ab dṛṣṭvā lekhaṃ yathā.tattvaṃ tataḥ pratyanubhāṣya ca |  \[KAZ02.10.45ab \]  \[ś\]   
-KAZ02.10.45cd pratilekho bhavet kāryo yathā rāja.vacas tathā || 45 ||  \[KAZ02.10.45cd \]  \[ś\]   
+कज़्०२।१०।४५अब् दृष्ट्वा लेखं यथा।तत्त्वं ततः प्रत्यनुभाष्य च ।  \[कज़्०२।१०।४५अब् \]  \[श्\]   
+कज़्०२।१०।४५च्द् प्रतिलेखो भवेत् कार्यो यथा राज।वचस् तथा ॥ ४५ ॥  \[कज़्०२।१०।४५च्द् \]  \[श्\]   
 
 
-KAZ02.10.46ab yatra-īśvarāṃś ca-adhikṛtāṃś ca rājā rakṣā.upakārau pathika.artham āha |  \[KAZ02.10.46ab \]  \[ś\]   
-KAZ02.10.46cd sarvatrago nāma bhavet sa mārge deśe ca sarvatra ca veditavyaḥ || 46 ||  
+कज़्०२।१०।४६अब् यत्र-ईश्वरांश् च-अधिकृतांश् च राजा रक्षा।उपकारौ पथिक।अर्थम् आह ।  \[कज़्०२।१०।४६अब् \]  \[श्\]   
+कज़्०२।१०।४६च्द् सर्वत्रगो नाम भवेत् स मार्गे देशे च सर्वत्र च वेदितव्यः ॥ ४६ ॥  
 
 
-KAZ02.10.47 upāyāḥ sāma.upapradāna.bheda.daṇḍāḥ | 47 |
+कज़्०२।१०।४७ उपायाः साम।उपप्रदान।भेद।दण्डाः । ४७ ।
 
-KAZ02.10.48 tatra sāma pañcavidhaṃ - guṇa.saṅkīrtanam, sambandha.upākhyānam, paraspara.upakāra.sandarśanam, āyati.pradarśanam, ātma.upanidhānam iti | 48 |
+कज़्०२।१०।४८ तत्र साम पञ्चविधं - गुण।सङ्कीर्तनम्, सम्बन्ध।उपाख्यानम्, परस्पर।उपकार।सन्दर्शनम्, आयति।प्रदर्शनम्, आत्म।उपनिधानम् इति । ४८ ।
 
-KAZ02.10.49 tatra-abhijana.śarīra.karma.prakṛti.śruta.dravya.ādīnāṃ guṇa.grahaṇaṃ praśaṃsā stutir guṇa.saṅkīrtanam | 49 |
+कज़्०२।१०।४९ तत्र-अभिजन।शरीर।कर्म।प्रकृति।श्रुत।द्रव्य।आदीनां गुण।ग्रहणं प्रशंसा स्तुतिर् गुण।सङ्कीर्तनम् । ४९ ।
 
-KAZ02.10.50 jñāti.yauna.maukha.srauva.kula.hṛdaya.mitra.saṅkīrtanaṃ sambandha.upākhyānam | 50 |
+कज़्०२।१०।५० ज्ञाति।यौन।मौख।स्रौव।कुल।हृदय।मित्र।सङ्कीर्तनं सम्बन्ध।उपाख्यानम् । ५० ।
 
-KAZ02.10.51 sva.pakṣa.para.pakṣayor anyonya.upakāra.saṅkīrtanaṃ paraspara.upakāra.sandarśanam | 51 |
+कज़्०२।१०।५१ स्व।पक्ष।पर।पक्षयोर् अन्योन्य।उपकार।सङ्कीर्तनं परस्पर।उपकार।सन्दर्शनम् । ५१ ।
 
-KAZ02.10.52 "asminn evaṃ kṛta idam āvayor bhavati" ity āśā.jananam āyati.pradarśa- nam | 52 |
+कज़्०२।१०।५२ "अस्मिन्न् एवं कृत इदम् आवयोर् भवति" इत्य् आशा।जननम् आयति।प्रदर्श- नम् । ५२ ।
 
-KAZ02.10.53 "yo 'haṃ sa bhavān, yan mama dravyaṃ tad bhavatā sva.kṛtyeṣu prayojyatām" ity ātma.upanidhānam | iti | 53 |
+कज़्०२।१०।५३ "यो ऽहं स भवान्, यन् मम द्रव्यं तद् भवता स्व।कृत्येषु प्रयोज्यताम्" इत्य् आत्म।उपनिधानम् । इति । ५३ ।
 
-KAZ02.10.54 upapradānam artha.upakāraḥ | 54 |
+कज़्०२।१०।५४ उपप्रदानम् अर्थ।उपकारः । ५४ ।
 
-KAZ02.10.55 śaṅkā.jananaṃ nirbhartsanaṃ ca bhedaḥ | 55 |
+कज़्०२।१०।५५ शङ्का।जननं निर्भर्त्सनं च भेदः । ५५ ।
 
-KAZ02.10.56 vadhaḥ parikleśo 'rtha.haraṇaṃ daṇḍaḥ | iti | 56 |
+कज़्०२।१०।५६ वधः परिक्लेशो ऽर्थ।हरणं दण्डः । इति । ५६ ।
 
-KAZ02.10.57 akāntir vyāghātaḥ punar.uktam apaśabdaḥ samplava iti lekha.doṣaḥ | 57 |
+कज़्०२।१०।५७ अकान्तिर् व्याघातः पुनर्।उक्तम् अपशब्दः सम्प्लव इति लेख।दोषः । ५७ ।
 
-KAZ02.10.58 tatra kāla.pattrakam acāru.viṣam avirāga.akṣaratvam akāntiḥ | 58 |
+कज़्०२।१०।५८ तत्र काल।पत्त्रकम् अचारु।विषम् अविराग।अक्षरत्वम् अकान्तिः । ५८ ।
 
-KAZ02.10.59 pūrveṇa paścimasya-anupapattir vyāghātaḥ | 59 |
+कज़्०२।१०।५९ पूर्वेण पश्चिमस्य-अनुपपत्तिर् व्याघातः । ५९ ।
 
-KAZ02.10.60 uktasya-aviśeṣeṇa dvitīyam uccāraṇaṃ punar.uktam | 60 |
+कज़्०२।१०।६० उक्तस्य-अविशेषेण द्वितीयम् उच्चारणं पुनर्।उक्तम् । ६० ।
 
-KAZ02.10.61 liṅga.vacana.kāla.kārakāṇām anyathā.prayogo 'paśabdaḥ | 61 |
+कज़्०२।१०।६१ लिङ्ग।वचन।काल।कारकाणाम् अन्यथा।प्रयोगो ऽपशब्दः । ६१ ।
 
-KAZ02.10.62 avarge varga.karaṇaṃ ca-avarga.kriyā guṇa.viparyāsaḥ samplavaḥ | iti | 62 |
+कज़्०२।१०।६२ अवर्गे वर्ग।करणं च-अवर्ग।क्रिया गुण।विपर्यासः सम्प्लवः । इति । ६२ ।
 
-KAZ02.10.63ab sarva.śāstrāṇy anukramya prayogam upalabhya ca |  \[KAZ02.10.63ab \]  \[ś\]   
-KAZ02.10.63cd kauṭilyena nara.indra.arthe śāsanasya vidhiḥ kṛtaḥ || 63 ||  \[KAZ02.10.63cd \]  \[ś\]   
+कज़्०२।१०।६३अब् सर्व।शास्त्राण्य् अनुक्रम्य प्रयोगम् उपलभ्य च ।  \[कज़्०२।१०।६३अब् \]  \[श्\]   
+कज़्०२।१०।६३च्द् कौटिल्येन नर।इन्द्र।अर्थे शासनस्य विधिः कृतः ॥ ६३ ॥  \[कज़्०२।१०।६३च्द् \]  \[श्\]   
 
 
  छप्तेर् ११ (सेच्तिओन् २९): एxअमिनतिओन् ओड़् प्रेचिओउस् अर्तिच्लेस् रेचेइवेद् इन् थे त्रेअसुर्य्
@@ -2218,88 +2217,88 @@ KAZ02.10.63cd kauṭilyena nara.indra.arthe śāsanasya vidhiḥ kṛtaḥ || 63
 
 कज़्०२।११।११९ देश।काल।परीभोगं हिंस्राणां च प्रतिक्रियाम् । ११९ ।
 
- Chapter 12 (Section 30): Starting of Mines and Factories
- \[K tr. 121\] ,  \[K2 tr. 105\] 
-KAZ02.12.01 ākara.adhyakṣaḥ śulba.dhātu.śāstra.rasa.pāka.maṇi.rāgajñas tajjña.sakho vā taj.jāta.karma.kara.upakaraṇa.sampannaḥ kiṭṭa.mūṣa.aṅgāra.bhasma.liṅgaṃ vā-ākaraṃ bhūta.pūrvam abhuta.pūrvaṃ vā bhūmi.prastara.rasa.dhātum atyartha.varṇa.gauravam ugra.gandha.rasaṃ parīkṣeta | 1 |
+ छप्तेर् १२ (सेच्तिओन् ३०): स्तर्तिन्ग् ओड़् मिनेस् अन्द् ड़च्तोरिएस्
+ \[क् त्र्। १२१\] ,  \[क्२ त्र्। १०५\] 
+कज़्०२।१२।०१ आकर।अध्यक्षः शुल्ब।धातु।शास्त्र।रस।पाक।मणि।रागज्ञस् तज्ज्ञ।सखो वा तज्।जात।कर्म।कर।उपकरण।सम्पन्नः किट्ट।मूष।अङ्गार।भस्म।लिङ्गं वा-आकरं भूत।पूर्वम् अभुत।पूर्वं वा भूमि।प्रस्तर।रस।धातुम् अत्यर्थ।वर्ण।गौरवम् उग्र।गन्ध।रसं परीक्षेत । १ ।
 
-KAZ02.12.02 parvatānām abhijñāta.uddeśānāṃ bila.guha.upatyaka.ālayana.gūḍha.khāteṣv antaḥ prasyandino jambū.cūta.tāla.phala.pakva.haridrā.bheda.guḍa(gūḍa?).hari.tāla.- manaḥ.śilā.kṣaudra.hiṅguluka.puṇḍarīka.śuka.mayūra.pattra.varṇāḥ savarṇa.udaka.oṣadhi.paryantāś cikkaṇā viśadā bhārikāś ca rasāḥ kāñcanikāḥ | 2 |
+कज़्०२।१२।०२ पर्वतानाम् अभिज्ञात।उद्देशानां बिल।गुह।उपत्यक।आलयन।गूढ।खातेष्व् अन्तः प्रस्यन्दिनो जम्बू।चूत।ताल।फल।पक्व।हरिद्रा।भेद।गुड(गूड?)।हरि।ताल।- मनः।शिला।क्षौद्र।हिङ्गुलुक।पुण्डरीक।शुक।मयूर।पत्त्र।वर्णाः सवर्ण।उदक।ओषधि।पर्यन्ताश् चिक्कणा विशदा भारिकाश् च रसाः काञ्चनिकाः । २ ।
 
-KAZ02.12.03 apsu  niṣṭhyūtās tailavad.visarpiṇaḥ ṣaṅka.mala.grāhiṇaś ca tāmra.rūpyayoḥ śatād upari veddhāraḥ | 3 |
+कज़्०२।१२।०३ अप्सु  निष्ठ्यूतास् तैलवद्।विसर्पिणः षङ्क।मल।ग्राहिणश् च ताम्र।रूप्ययोः शताद् उपरि वेद्धारः । ३ ।
 
-KAZ02.12.04 tat.pratirūpakam ugra.gandha.rasaṃ śilā.jatu vidyāt | 4 |
+कज़्०२।१२।०४ तत्।प्रतिरूपकम् उग्र।गन्ध।रसं शिला।जतु विद्यात् । ४ ।
 
-KAZ02.12.05 pītakās.tāmrakās tāmra.pītakā vā bhūmi.prastara.dhātavo bhinnā nīla.rājīvanto mudga.māṣa.kṛsara.varṇā vā dadhi.bindu.piṇḍa.citrā haridrā.harītakī.padma.pattra.śaivala.yakṛt.plīha.anavadya.varṇā bhinnāś cuñcu.vāluka.ālekhā.bindu.svastikavantaḥ sugulikā arciṣmantas tāpyamānā na bhidyante bahu.phena.dhūmāś ca suvarṇa.dhātavaḥ pratīvāpa.arthās tāmra.rūpya.vedhanāḥ | 5 |
+कज़्०२।१२।०५ पीतकास्।ताम्रकास् ताम्र।पीतका वा भूमि।प्रस्तर।धातवो भिन्ना नील।राजीवन्तो मुद्ग।माष।कृसर।वर्णा वा दधि।बिन्दु।पिण्ड।चित्रा हरिद्रा।हरीतकी।पद्म।पत्त्र।शैवल।यकृत्।प्लीह।अनवद्य।वर्णा भिन्नाश् चुञ्चु।वालुक।आलेखा।बिन्दु।स्वस्तिकवन्तः सुगुलिका अर्चिष्मन्तस् ताप्यमाना न भिद्यन्ते बहु।फेन।धूमाश् च सुवर्ण।धातवः प्रतीवाप।अर्थास् ताम्र।रूप्य।वेधनाः । ५ ।
 
-KAZ02.12.06 śaṅkha.karpūra.sphaṭika.nava.nīta.kapota.pārāvata.vimalaka.mayūra.- grīvā.varṇāḥ sasyaka.gomedaka.guḍa.matsyaṇḍikā.varṇāḥ kovidāra.padma.pāṭalīka.lāya.kṣauma.atasī.puṣpa.varṇāḥ sa-sīsāḥ sa.añjanā visrā bhinnāḥ śveta.ābhāḥ kṛṣṇāḥ kṛṣṇa.ābhāḥ śvetāḥ sarve vā lekhā.bindu.citrā mṛdavo dhmāyamānā na sphuṭanti bahu.phena.dhūmāś ca rūpya.dhātavaḥ | 6 |
+कज़्०२।१२।०६ शङ्ख।कर्पूर।स्फटिक।नव।नीत।कपोत।पारावत।विमलक।मयूर।- ग्रीवा।वर्णाः सस्यक।गोमेदक।गुड।मत्स्यण्डिका।वर्णाः कोविदार।पद्म।पाटलीक।लाय।क्षौम।अतसी।पुष्प।वर्णाः स-सीसाः स।अञ्जना विस्रा भिन्नाः श्वेत।आभाः कृष्णाः कृष्ण।आभाः श्वेताः सर्वे वा लेखा।बिन्दु।चित्रा मृदवो ध्मायमाना न स्फुटन्ति बहु।फेन।धूमाश् च रूप्य।धातवः । ६ ।
 
-KAZ02.12.07 sarva.dhātūnāṃ gaurava.vṛddhau sattva.vṛddhiḥ | 7 |
+कज़्०२।१२।०७ सर्व।धातूनां गौरव।वृद्धौ सत्त्व।वृद्धिः । ७ ।
 
-KAZ02.12.08 teṣām aśuddhā mūḍha.garbhā vā tīkṣṇa.mūtra.kṣara.bhāvitā rāja.vṛkṣa.vaṭa.pīlu.go.pitta.rocanā.mahiṣa.khara.karabha.mūtra.leṇḍa.- piṇḍa.baddhās tat.pratīvāpās tad.avalepā vā viśuddhāḥ sravanti | 8 |
+कज़्०२।१२।०८ तेषाम् अशुद्धा मूढ।गर्भा वा तीक्ष्ण।मूत्र।क्षर।भाविता राज।वृक्ष।वट।पीलु।गो।पित्त।रोचना।महिष।खर।करभ।मूत्र।लेण्ड।- पिण्ड।बद्धास् तत्।प्रतीवापास् तद्।अवलेपा वा विशुद्धाः स्रवन्ति । ८ ।
 
-KAZ02.12.09 yava.māṣa.tila.palāśa.pīlu.kṣārair.go.kṣīra.aja.kṣīrair vā kadalī.vajra.kanda.pratīvapo mārdava.karaḥ | 9 |
+कज़्०२।१२।०९ यव।माष।तिल।पलाश।पीलु।क्षारैर्।गो।क्षीर।अज।क्षीरैर् वा कदली।वज्र।कन्द।प्रतीवपो मार्दव।करः । ९ ।
 
-KAZ02.12.10ab madhu.madhukam ajā.payaḥ sa-tailaṃ ghṛta.guḍa.kiṇva.yutaṃ sa-kandalīkam |  
-KAZ02.12.10cd yad api śata.sahasradhā vibhinnaṃ bhavati mṛdu tribhir eva tan.niṣekaiḥ || 10 ||  
-
-
-KAZ02.12.11 go.danta.śṛṅga.pratīvāpo mṛdu.stambhanaḥ | 11 |
-
-KAZ02.12.12 bhārikaḥ snigdho mṛduś ca prastara.dhātur bhūmi.bhāgo vā piṅgalo haritaḥ pāṭalo lohito vā tāmra.dhātuḥ | 12 |
-
-KAZ02.12.13 kāka.mocakaḥ kapota.rocanā.varṇaḥ śveta.rāji.naddho vā visraḥ sīsa.dhātuḥ | 13 |
-
-KAZ02.12.14 ūṣara.karburaḥ pakva.loṣṭha.varṇo vā trapu.dhātuḥ | 14 |
-
-KAZ02.12.15 kharumbaḥ pāṇḍu.rohitaḥ sindu.vāra.puṣpa.varṇo vā tīkṣṇa.dhātuḥ | 15 |
-
-KAZ02.12.16 kāka.aṇḍa.bhuja.pattra.varṇo vā vaikṛntaka.dhātuḥ | 16 |
-
-KAZ02.12.17 acchaḥ snigdhaḥ sa-prabho ghoṣavān śītas tīvras tanu.rāgaś ca maṇi.dhātuḥ | 17 |
-
-KAZ02.12.18 dhātu.samutthaṃ taj.jāta.karma.anteṣu prayojayet | 18 |
-
-KAZ02.12.19 kṛta.bhāṇḍa.vyavahāram eka.mukham, atyayaṃ ca-anyatra kartṛ.kretṛ.vikretṝṇāṃ sthāpayet | 19 |
-
-KAZ02.12.20 ākarikam apaharantam aṣṭa.guṇaṃ dāpayed anyatra ratnebhyaḥ | 20 |
-
-KAZ02.12.21 stenam anisṛṣṭa.upajīvinaṃ ca baddhaṃ karma kārayet, daṇḍa.upakāriṇaṃ ca | 21 |
-
-KAZ02.12.22 vyaya.kriyā.bhārikam āakaraṃ bhāgena prakrayeṇa vā dadyāt, lāghavikam ātmanā kārayet | 22 |
-
-KAZ02.12.23 loha.adhyakṣas tāmra.sīsa.trapu.vaikṛnta.kāra.kūṭa.vṛtta.kaṃsa.tāla.loha.karma.antān kārayet, loha.bhāṇḍa.vyavahāraṃ ca | 23 |
-
-KAZ02.12.24 lakṣaṇa.adhyakṣaś catur.bhāga.tāmraṃ rūpya.rūpaṃ tīkṣṇa.trapu.sīsa.añjanānām anyatama.māṣa.bīja.yuktaṃ kārayet - paṇam ardha.paṇaṃ pādam, aṣṭa.bhāgam iti, pāda.ājīvaṃ tāmra.rūpaṃ - māṣakam ardha.māṣakaṃ kākaṇīm ardha.kākaṇīm iti | 24 |
-
-KAZ02.12.25 rūpa.darśakaḥ paṇa.yātrāṃ vyāvahārikīṃ kośa.praveśyāṃ ca sthāpayet | 25 |
-
-KAZ02.12.26 rūpikam aṣṭakaṃ śatam, pañcakaṃ śataṃ vyājīm, pārīkṣikam aṣṭa.bhāgikam, śatam, pañca.viṃśati.paṇam atyayaṃ ca anyatra.kartṛ.kretṛ.vikretṛ.parīkṣitṛbhyaḥ | 26 |
-
-KAZ02.12.27 khany.adhyakṣaḥ śaṅkha.vajra.maṇi.muktā.pravāla.kṣāra.karma.antān kārayet, paṇana.vyavahāraṃ ca | 27 |
-
-KAZ02.12.28 lavaṇa.adhyakṣaḥ pāka.muktaṃ lavaṇa.bhāgaṃ prakrayaṃ ca yathā.kālaṃ saṅgṛhṇīyād, vikrayāc ca mūlyaṃ rūpaṃ vyājīṃ ca | 28 |
-
-KAZ02.12.29 āgantu.lavaṇaṃ ṣaḍ.bhāgaṃ dadyāt | 29 |
-
-KAZ02.12.30 datta.bhāga.vibhāgasya vikrayaḥ, pañcakaṃ śataṃ vyājīṃ rūpaṃ rūpikaṃ ca | 30 |
-
-KAZ02.12.31 kretā śulkaṃ rāja.paṇyac.cheda.anurūpaṃ ca vaidharaṇaṃ dadyāt, anyatra kretā ṣaṭ.chatam atyayaṃ ca | 31 |
-
-KAZ02.12.32 vilavaṇam uttamaṃ daṇḍaṃ dadyād, aniṣṛṣṭa.upajīvī ca-anyatra vānaprasthebhyaḥ | 32 |
-
-KAZ02.12.33 śrotriyās tapasvino viṣṭayaś ca bhakta.lavaṇaṃ hareyuḥ | 33 |
-
-KAZ02.12.34 ato 'nyo lavaṇa.kṣāra.vargaḥ śulkaṃ dadyāt | 34 |
-
-KAZ02.12.35ab evaṃ mūlyaṃ ca bhāgaṃ ca vyājīṃ parigham atyayam |  
-KAZ02.12.35cd śulkaṃ vaidharaṇaṃ daṇḍaṃ rūpaṃ rūpikam eva ca || 35 ||  
+कज़्०२।१२।१०अब् मधु।मधुकम् अजा।पयः स-तैलं घृत।गुड।किण्व।युतं स-कन्दलीकम् ।  
+कज़्०२।१२।१०च्द् यद् अपि शत।सहस्रधा विभिन्नं भवति मृदु त्रिभिर् एव तन्।निषेकैः ॥ १० ॥  
 
 
-KAZ02.12.36ab khanibhyo dvādaśa.vidhaṃ dhātuṃ paṇyaṃ ca saṃharet |  
-KAZ02.12.36cd evaṃ sarveṣu paṇyeṣu sthāpayen mukha.saṅgraham || 36 ||  
+कज़्०२।१२।११ गो।दन्त।शृङ्ग।प्रतीवापो मृदु।स्तम्भनः । ११ ।
+
+कज़्०२।१२।१२ भारिकः स्निग्धो मृदुश् च प्रस्तर।धातुर् भूमि।भागो वा पिङ्गलो हरितः पाटलो लोहितो वा ताम्र।धातुः । १२ ।
+
+कज़्०२।१२।१३ काक।मोचकः कपोत।रोचना।वर्णः श्वेत।राजि।नद्धो वा विस्रः सीस।धातुः । १३ ।
+
+कज़्०२।१२।१४ ऊषर।कर्बुरः पक्व।लोष्ठ।वर्णो वा त्रपु।धातुः । १४ ।
+
+कज़्०२।१२।१५ खरुम्बः पाण्डु।रोहितः सिन्दु।वार।पुष्प।वर्णो वा तीक्ष्ण।धातुः । १५ ।
+
+कज़्०२।१२।१६ काक।अण्ड।भुज।पत्त्र।वर्णो वा वैकृन्तक।धातुः । १६ ।
+
+कज़्०२।१२।१७ अच्छः स्निग्धः स-प्रभो घोषवान् शीतस् तीव्रस् तनु।रागश् च मणि।धातुः । १७ ।
+
+कज़्०२।१२।१८ धातु।समुत्थं तज्।जात।कर्म।अन्तेषु प्रयोजयेत् । १८ ।
+
+कज़्०२।१२।१९ कृत।भाण्ड।व्यवहारम् एक।मुखम्, अत्ययं च-अन्यत्र कर्तृ।क्रेतृ।विक्रेतॄणां स्थापयेत् । १९ ।
+
+कज़्०२।१२।२० आकरिकम् अपहरन्तम् अष्ट।गुणं दापयेद् अन्यत्र रत्नेभ्यः । २० ।
+
+कज़्०२।१२।२१ स्तेनम् अनिसृष्ट।उपजीविनं च बद्धं कर्म कारयेत्, दण्ड।उपकारिणं च । २१ ।
+
+कज़्०२।१२।२२ व्यय।क्रिया।भारिकम् आअकरं भागेन प्रक्रयेण वा दद्यात्, लाघविकम् आत्मना कारयेत् । २२ ।
+
+कज़्०२।१२।२३ लोह।अध्यक्षस् ताम्र।सीस।त्रपु।वैकृन्त।कार।कूट।वृत्त।कंस।ताल।लोह।कर्म।अन्तान् कारयेत्, लोह।भाण्ड।व्यवहारं च । २३ ।
+
+कज़्०२।१२।२४ लक्षण।अध्यक्षश् चतुर्।भाग।ताम्रं रूप्य।रूपं तीक्ष्ण।त्रपु।सीस।अञ्जनानाम् अन्यतम।माष।बीज।युक्तं कारयेत् - पणम् अर्ध।पणं पादम्, अष्ट।भागम् इति, पाद।आजीवं ताम्र।रूपं - माषकम् अर्ध।माषकं काकणीम् अर्ध।काकणीम् इति । २४ ।
+
+कज़्०२।१२।२५ रूप।दर्शकः पण।यात्रां व्यावहारिकीं कोश।प्रवेश्यां च स्थापयेत् । २५ ।
+
+कज़्०२।१२।२६ रूपिकम् अष्टकं शतम्, पञ्चकं शतं व्याजीम्, पारीक्षिकम् अष्ट।भागिकम्, शतम्, पञ्च।विंशति।पणम् अत्ययं च अन्यत्र।कर्तृ।क्रेतृ।विक्रेतृ।परीक्षितृभ्यः । २६ ।
+
+कज़्०२।१२।२७ खन्य्।अध्यक्षः शङ्ख।वज्र।मणि।मुक्ता।प्रवाल।क्षार।कर्म।अन्तान् कारयेत्, पणन।व्यवहारं च । २७ ।
+
+कज़्०२।१२।२८ लवण।अध्यक्षः पाक।मुक्तं लवण।भागं प्रक्रयं च यथा।कालं सङ्गृह्णीयाद्, विक्रयाच् च मूल्यं रूपं व्याजीं च । २८ ।
+
+कज़्०२।१२।२९ आगन्तु।लवणं षड्।भागं दद्यात् । २९ ।
+
+कज़्०२।१२।३० दत्त।भाग।विभागस्य विक्रयः, पञ्चकं शतं व्याजीं रूपं रूपिकं च । ३० ।
+
+कज़्०२।१२।३१ क्रेता शुल्कं राज।पण्यच्।छेद।अनुरूपं च वैधरणं दद्यात्, अन्यत्र क्रेता षट्।छतम् अत्ययं च । ३१ ।
+
+कज़्०२।१२।३२ विलवणम् उत्तमं दण्डं दद्याद्, अनिषृष्ट।उपजीवी च-अन्यत्र वानप्रस्थेभ्यः । ३२ ।
+
+कज़्०२।१२।३३ श्रोत्रियास् तपस्विनो विष्टयश् च भक्त।लवणं हरेयुः । ३३ ।
+
+कज़्०२।१२।३४ अतो ऽन्यो लवण।क्षार।वर्गः शुल्कं दद्यात् । ३४ ।
+
+कज़्०२।१२।३५अब् एवं मूल्यं च भागं च व्याजीं परिघम् अत्ययम् ।  
+कज़्०२।१२।३५च्द् शुल्कं वैधरणं दण्डं रूपं रूपिकम् एव च ॥ ३५ ॥  
 
 
-KAZ02.12.37ab ākara.prabhaḥ kośaḥ kośād daṇḍaḥ prajāyate |  
-KAZ02.12.37cd pṛthivī kośa.daṇḍābhyāṃ prāpyate kośa.bhūṣaṇā || 37 ||  
+कज़्०२।१२।३६अब् खनिभ्यो द्वादश।विधं धातुं पण्यं च संहरेत् ।  
+कज़्०२।१२।३६च्द् एवं सर्वेषु पण्येषु स्थापयेन् मुख।सङ्ग्रहम् ॥ ३६ ॥  
+
+
+कज़्०२।१२।३७अब् आकर।प्रभः कोशः कोशाद् दण्डः प्रजायते ।  
+कज़्०२।१२।३७च्द् पृथिवी कोश।दण्डाभ्यां प्राप्यते कोश।भूषणा ॥ ३७ ॥  
 
 
  छप्तेर् १३ (सेच्तिओन् ३१): थे सुपेरिन्तेन्देन्त् ओड़् गोल्द् इन् थे Wओर्क्स्होप्
@@ -2430,118 +2429,118 @@ KAZ02.12.37cd pṛthivī kośa.daṇḍābhyāṃ prāpyate kośa.bhūṣaṇā 
 कज़्०२।१३।६१च्द् मनो।नेत्र।अभिरामं च तपनीय।गुणाः स्मृताः ॥ ६१ ॥  
 
 
- Chapter 14 (Section 32): The Royal Goldsmith in the Market Highway
- \[K tr. 133\] ,  \[K2 tr. 116\] 
-KAZ02.14.01 sauvarṇikaḥ paura.jāna.padānāṃ rūpya.suvarṇam āveśanibhiḥ kārayet | 1 |
+ छप्तेर् १४ (सेच्तिओन् ३२): थे रोयल् गोल्द्स्मिथ् इन् थे मर्केत् हिघ्wअय्
+ \[क् त्र्। १३३\] ,  \[क्२ त्र्। ११६\] 
+कज़्०२।१४।०१ सौवर्णिकः पौर।जान।पदानां रूप्य।सुवर्णम् आवेशनिभिः कारयेत् । १ ।
 
-KAZ02.14.02 nirdiṣṭa.kāla.kāryaṃ ca karma kuryuḥ, anirdiṣṭa.kālaṃ kārya.apadeśam | 2 |
+कज़्०२।१४।०२ निर्दिष्ट।काल।कार्यं च कर्म कुर्युः, अनिर्दिष्ट।कालं कार्य।अपदेशम् । २ ।
 
-KAZ02.14.03 kāryasya.anyathā.karaṇe vetana.nāśaḥ, tad.dvi.guṇaś ca daṇḍaḥ | 3 |
+कज़्०२।१४।०३ कार्यस्य।अन्यथा।करणे वेतन।नाशः, तद्।द्वि।गुणश् च दण्डः । ३ ।
 
-KAZ02.14.04 kāla.atipātane pāda.hīnaṃ vetanaṃ tad.dvi.guṇaś ca daṇḍaḥ | 4 |
+कज़्०२।१४।०४ काल।अतिपातने पाद।हीनं वेतनं तद्।द्वि।गुणश् च दण्डः । ४ ।
 
-KAZ02.14.05 yathā.varṇa.pramāṇaṃ nikṣepaṃ gṛhṇīyus tathā.vidham eva-arpayeyuḥ | 5 |
+कज़्०२।१४।०५ यथा।वर्ण।प्रमाणं निक्षेपं गृह्णीयुस् तथा।विधम् एव-अर्पयेयुः । ५ ।
 
-KAZ02.14.06 kāla.antarād api ca tathā.vidham eva pratigṛhṇīyuḥ, anyatra kṣīṇa.pariśīrṇābhyām | 6 |
+कज़्०२।१४।०६ काल।अन्तराद् अपि च तथा।विधम् एव प्रतिगृह्णीयुः, अन्यत्र क्षीण।परिशीर्णाभ्याम् । ६ ।
 
-KAZ02.14.07 āveśanibhiḥ suvarṇa.pudgala.lakṣaṇa.prayogeṣu tat.taj jānīyāt | 7 |
+कज़्०२।१४।०७ आवेशनिभिः सुवर्ण।पुद्गल।लक्षण।प्रयोगेषु तत्।तज् जानीयात् । ७ ।
 
-KAZ02.14.08 tapta.kala.dhautakayoḥ kākaṇikaḥ suvarṇe kṣayo deyaḥ | 8 |
+कज़्०२।१४।०८ तप्त।कल।धौतकयोः काकणिकः सुवर्णे क्षयो देयः । ८ ।
 
-KAZ02.14.09 tīkṣṇa.kākaṇī - rūpya.dvi.guṇaḥ - rāga.prakṣepaḥ, tasya ṣaḍ.bhāgaḥ kṣayaḥ | 9 |
+कज़्०२।१४।०९ तीक्ष्ण।काकणी - रूप्य।द्वि।गुणः - राग।प्रक्षेपः, तस्य षड्।भागः क्षयः । ९ ।
 
-KAZ02.14.10 varṇa.hīne māṣa.avare pūrvaḥ sāhasa.daṇḍaḥ, pramāṇa.hīne madhyamaḥ, tulā.pratimāna.upadhāv uttamaḥ, kṛta.bhāṇḍa.upadhau ca | 10 |
+कज़्०२।१४।१० वर्ण।हीने माष।अवरे पूर्वः साहस।दण्डः, प्रमाण।हीने मध्यमः, तुला।प्रतिमान।उपधाव् उत्तमः, कृत।भाण्ड।उपधौ च । १० ।
 
-KAZ02.14.11 sauvarṇikena-adṛṣṭam anyatra vā prayogaṃ kārayato dvādaśa.paṇo daṇḍaḥ | 11 |
+कज़्०२।१४।११ सौवर्णिकेन-अदृष्टम् अन्यत्र वा प्रयोगं कारयतो द्वादश।पणो दण्डः । ११ ।
 
-KAZ02.14.12 kartur dvi.guṇaḥ sa-apasāraś cet | 12 |
+कज़्०२।१४।१२ कर्तुर् द्वि।गुणः स-अपसारश् चेत् । १२ ।
 
-KAZ02.14.13 anapasāraḥ kaṇṭaka.śodhanāya nīyeta | 13 |
+कज़्०२।१४।१३ अनपसारः कण्टक।शोधनाय नीयेत । १३ ।
 
-KAZ02.14.14 kartuś ca dvi.śato daṇḍaḥ paṇac.chedanaṃ vā | 14 |
+कज़्०२।१४।१४ कर्तुश् च द्वि।शतो दण्डः पणच्।छेदनं वा । १४ ।
 
-KAZ02.14.15 tulā.pratimāna.bhāṇḍaṃ pautava.hastāt krīṇīyuḥ | 15 |
+कज़्०२।१४।१५ तुला।प्रतिमान।भाण्डं पौतव।हस्तात् क्रीणीयुः । १५ ।
 
-KAZ02.14.16 anyathā dvādaśa.paṇo daṇḍaḥ | 16 |
+कज़्०२।१४।१६ अन्यथा द्वादश।पणो दण्डः । १६ ।
 
-KAZ02.14.17 ghanaṃ suṣiraṃ samyūhyam avalepyaṃ saṅghātyaṃ vāsitakaṃ ca kāru.karma | 17 |
+कज़्०२।१४।१७ घनं सुषिरं सम्यूह्यम् अवलेप्यं सङ्घात्यं वासितकं च कारु।कर्म । १७ ।
 
-KAZ02.14.18 tulā.viṣamam apasāraṇaṃ visrāvaṇaṃ peṭakaḥ piṅkaś ca-iti haraṇa.upāyāḥ | 18 |
+कज़्०२।१४।१८ तुला।विषमम् अपसारणं विस्रावणं पेटकः पिङ्कश् च-इति हरण।उपायाः । १८ ।
 
-KAZ02.14.19 samnāminy utkīrṇikā bhinna.mastaka.upakaṇṭhī kuśikyā sakaṭu.kakṣyā parivelyā-ayas.kāntā ca duṣṭa.tulāḥ | 19 |
+कज़्०२।१४।१९ सम्नामिन्य् उत्कीर्णिका भिन्न।मस्तक।उपकण्ठी कुशिक्या सकटु।कक्ष्या परिवेल्या-अयस्।कान्ता च दुष्ट।तुलाः । १९ ।
 
-KAZ02.14.20 rūpyasya dvau bhāgāv ekaḥ śulbasya tripuṭakam | 20 |
+कज़्०२।१४।२० रूप्यस्य द्वौ भागाव् एकः शुल्बस्य त्रिपुटकम् । २० ।
 
-KAZ02.14.21 tena-akarod gatam apasāryate tat.tripuṭaka.apasāritam | 21 |
+कज़्०२।१४।२१ तेन-अकरोद् गतम् अपसार्यते तत्।त्रिपुटक।अपसारितम् । २१ ।
 
-KAZ02.14.22 śulbena śulba.apasāritam, vellakena vellaka.apasāritam, śulba.ardha.sāreṇa hemnā hema.apasāritam | 22 |
+कज़्०२।१४।२२ शुल्बेन शुल्ब।अपसारितम्, वेल्लकेन वेल्लक।अपसारितम्, शुल्ब।अर्ध।सारेण हेम्ना हेम।अपसारितम् । २२ ।
 
-KAZ02.14.23 mūka.mūṣā pūti.kiṭṭaḥ karaṭuka.mukhaṃ nālī sandaṃśo joṅganī suvarcikā.lavaṇaṃ tad eva suvarṇam ity apasāraṇa.mārgāḥ | 23 |
+कज़्०२।१४।२३ मूक।मूषा पूति।किट्टः करटुक।मुखं नाली सन्दंशो जोङ्गनी सुवर्चिका।लवणं तद् एव सुवर्णम् इत्य् अपसारण।मार्गाः । २३ ।
 
-KAZ02.14.24 pūrva.praṇihitā vā piṇḍa.vālukā mūṣā.bhedād agniṣṭhād uddhriyante | 24 |
+कज़्०२।१४।२४ पूर्व।प्रणिहिता वा पिण्ड।वालुका मूषा।भेदाद् अग्निष्ठाद् उद्ध्रियन्ते । २४ ।
 
-KAZ02.14.25 paścād bandhane ācitaka.pattra.parīkṣāyāṃ vā rūpya.rūpeṇa parivartanaṃ visrāvaṇam, piṇḍa.vālukānāṃ loha.piṇḍa.vālukābhir vā | 25 |
+कज़्०२।१४।२५ पश्चाद् बन्धने आचितक।पत्त्र।परीक्षायां वा रूप्य।रूपेण परिवर्तनं विस्रावणम्, पिण्ड।वालुकानां लोह।पिण्ड।वालुकाभिर् वा । २५ ।
 
-KAZ02.14.26 gāḍhaś ca-abhyuddhāryaś ca peṭakaḥ samyūhya-avalepya.saṅghātyeṣu kriyate | 26 |
+कज़्०२।१४।२६ गाढश् च-अभ्युद्धार्यश् च पेटकः सम्यूह्य-अवलेप्य।सङ्घात्येषु क्रियते । २६ ।
 
-KAZ02.14.27 sīsa.rūpaṃ suvarṇa.pattreṇa-avaliptam abhyantaram aṣṭakena baddhaṃ gāḍha.peṭakaḥ | 27 |
+कज़्०२।१४।२७ सीस।रूपं सुवर्ण।पत्त्रेण-अवलिप्तम् अभ्यन्तरम् अष्टकेन बद्धं गाढ।पेटकः । २७ ।
 
-KAZ02.14.28 sa eva paṭala.sampuṭeṣv abhyuddhāryaḥ | 28 |
+कज़्०२।१४।२८ स एव पटल।सम्पुटेष्व् अभ्युद्धार्यः । २८ ।
 
-KAZ02.14.29 pattram āśliṣṭaṃ yamakapattraṃ vā-avalepyeṣu kriyate | 29 |
+कज़्०२।१४।२९ पत्त्रम् आश्लिष्टं यमकपत्त्रं वा-अवलेप्येषु क्रियते । २९ ।
 
-KAZ02.14.30 śulbaṃ tāraṃ vā garbhaḥ pattrāṇāṃ saṅghātyeṣu kriyate | 30 |
+कज़्०२।१४।३० शुल्बं तारं वा गर्भः पत्त्राणां सङ्घात्येषु क्रियते । ३० ।
 
-KAZ02.14.31 śulba.rūpaṃ suvarṇa.pattra.saṃhataṃ pramṛṣṭaṃ supārśvam, tad eva yamaka.pattra.saṃhataṃ pramṛṣṭaṃ tāmra.tāra.rupaṃ ca-uttara.varṇakaḥ | 31 |
+कज़्०२।१४।३१ शुल्ब।रूपं सुवर्ण।पत्त्र।संहतं प्रमृष्टं सुपार्श्वम्, तद् एव यमक।पत्त्र।संहतं प्रमृष्टं ताम्र।तार।रुपं च-उत्तर।वर्णकः । ३१ ।
 
-KAZ02.14.32 tad ubhayaṃ tāpani.kaṣābhyāṃ nihśabda.ullekhanābhyāṃ vā vidyāt | 32 |
+कज़्०२।१४।३२ तद् उभयं तापनि।कषाभ्यां निह्शब्द।उल्लेखनाभ्यां वा विद्यात् । ३२ ।
 
-KAZ02.14.33 abhyuddhāryaṃ badara.āmle lavaṇa.udake vā sādayanti | iti peṭakaḥ | 33 |
+कज़्०२।१४।३३ अभ्युद्धार्यं बदर।आम्ले लवण।उदके वा सादयन्ति । इति पेटकः । ३३ ।
 
-KAZ02.14.34 ghane suṣire vā rūpe suvarṇa.mṛn.mālukā.hiṅguluka.kalpo vā tapto 'vatiṣṭhate | 34 |
+कज़्०२।१४।३४ घने सुषिरे वा रूपे सुवर्ण।मृन्।मालुका।हिङ्गुलुक।कल्पो वा तप्तो ऽवतिष्ठते । ३४ ।
 
-KAZ02.14.35 dṛḍha.vāstuke vā rūpe vālukā.miśraṃ jatu gāndhāra.paṅko vā tapto 'vatiṣṭhate | 35 |
+कज़्०२।१४।३५ दृढ।वास्तुके वा रूपे वालुका।मिश्रं जतु गान्धार।पङ्को वा तप्तो ऽवतिष्ठते । ३५ ।
 
-KAZ02.14.36 tayos tāpanam avadhvaṃsanaṃ vā śuddhiḥ | 36 |
+कज़्०२।१४।३६ तयोस् तापनम् अवध्वंसनं वा शुद्धिः । ३६ ।
 
-KAZ02.14.37 sa-paribhāṇḍe vā rūpe lavaṇam ulkayā kaṭu.śarkarayā taptam avatiṣṭhate | 37 |
+कज़्०२।१४।३७ स-परिभाण्डे वा रूपे लवणम् उल्कया कटु।शर्करया तप्तम् अवतिष्ठते । ३७ ।
 
-KAZ02.14.38 tasya kvāthanaṃ śuddhiḥ | 38 |
+कज़्०२।१४।३८ तस्य क्वाथनं शुद्धिः । ३८ ।
 
-KAZ02.14.39 abhra.paṭalam aṣṭakena dvi.guṇa.vāstuke vā rūpe badhyate | 39 |
+कज़्०२।१४।३९ अभ्र।पटलम् अष्टकेन द्वि।गुण।वास्तुके वा रूपे बध्यते । ३९ ।
 
-KAZ02.14.40 tasya-apihita.kācakasya-udake nimajjata eka.deśaḥ sīdati, paṭala.antareṣu vā sūcyā bhidyate | 40 |
+कज़्०२।१४।४० तस्य-अपिहित।काचकस्य-उदके निमज्जत एक।देशः सीदति, पटल।अन्तरेषु वा सूच्या भिद्यते । ४० ।
 
-KAZ02.14.41 maṇayo rūpyaṃ suvarṇaṃ vā ghana.suṣirāṇāṃ piṅkaḥ | 41 |
+कज़्०२।१४।४१ मणयो रूप्यं सुवर्णं वा घन।सुषिराणां पिङ्कः । ४१ ।
 
-KAZ02.14.42 tasya tāpanam avadhvaṃsanaṃ vā śuddhiḥ | iti piṅkaḥ | 42 |
+कज़्०२।१४।४२ तस्य तापनम् अवध्वंसनं वा शुद्धिः । इति पिङ्कः । ४२ ।
 
-KAZ02.14.43 tasmād vajra.maṇi.muktā.pravāla.rūpāṇāṃ jāti.rūpa.varṇa.pramāṇa.pudgala.lakṣaṇāny upalabheta | 43 |
+कज़्०२।१४।४३ तस्माद् वज्र।मणि।मुक्ता।प्रवाल।रूपाणां जाति।रूप।वर्ण।प्रमाण।पुद्गल।लक्षणान्य् उपलभेत । ४३ ।
 
-KAZ02.14.44 kṛta.bhāṇḍa.parīkṣāyāṃ purāṇa.bhāṇḍa.pratisaṃskāre vā catvāro haraṇa.upāyāḥ - parikuṭṭanam avacchedanam ullekhanaṃ parimardanaṃ vā | 44 |
+कज़्०२।१४।४४ कृत।भाण्ड।परीक्षायां पुराण।भाण्ड।प्रतिसंस्कारे वा चत्वारो हरण।उपायाः - परिकुट्टनम् अवच्छेदनम् उल्लेखनं परिमर्दनं वा । ४४ ।
 
-KAZ02.14.45 peṭaka.apadeśena pṛṣataṃ guṇaṃ piṭakāṃ vā yat pariśātayanti tat.parikuṭṭanam | 45 |
+कज़्०२।१४।४५ पेटक।अपदेशेन पृषतं गुणं पिटकां वा यत् परिशातयन्ति तत्।परिकुट्टनम् । ४५ ।
 
-KAZ02.14.46 yad.dvi.guṇa.vāstukānāṃ vā rūpe sīsa.rūpaṃ prakṣipya-ābhyantaram avacchindanti tad avacchedanam | 46 |
+कज़्०२।१४।४६ यद्।द्वि।गुण।वास्तुकानां वा रूपे सीस।रूपं प्रक्षिप्य-आभ्यन्तरम् अवच्छिन्दन्ति तद् अवच्छेदनम् । ४६ ।
 
-KAZ02.14.47 yad ghanānāṃ tīkṣṇena-ullikhanti tad ullekhanam | 47 |
+कज़्०२।१४।४७ यद् घनानां तीक्ष्णेन-उल्लिखन्ति तद् उल्लेखनम् । ४७ ।
 
-KAZ02.14.48 hari.tāla.manaḥ.śilā.hiṅguluka.cūrṇānām anyatamena kuru.vinda.cūrṇena vā vastraṃ samyūhya yat parimṛdnanti tat parimardanam | 48 |
+कज़्०२।१४।४८ हरि।ताल।मनः।शिला।हिङ्गुलुक।चूर्णानाम् अन्यतमेन कुरु।विन्द।चूर्णेन वा वस्त्रं सम्यूह्य यत् परिमृद्नन्ति तत् परिमर्दनम् । ४८ ।
 
-KAZ02.14.49 tena sauvarṇa.rājatāni bhāṇḍāni kṣīyante, na ca-eṣāṃ kiñcid avarugṇaṃ bhavati | 49 |
+कज़्०२।१४।४९ तेन सौवर्ण।राजतानि भाण्डानि क्षीयन्ते, न च-एषां किञ्चिद् अवरुग्णं भवति । ४९ ।
 
-KAZ02.14.50 bhagna.khaṇḍa.ghṛṣṭānāṃ samyūhyānāṃ sadṛśena-anumānaṃ kuryāt | 50 |
+कज़्०२।१४।५० भग्न।खण्ड।घृष्टानां सम्यूह्यानां सदृशेन-अनुमानं कुर्यात् । ५० ।
 
-KAZ02.14.51 avalepyānāṃ yāvad utpāṭitaṃ tāvad utpāṭya-anumānaṃ kuryāt | 51 |
+कज़्०२।१४।५१ अवलेप्यानां यावद् उत्पाटितं तावद् उत्पाट्य-अनुमानं कुर्यात् । ५१ ।
 
-KAZ02.14.52 virūpāṇāṃ vā tāpanam udaka.peṣaṇaṃ ca bahuśaḥ kuryāt | 52 |
+कज़्०२।१४।५२ विरूपाणां वा तापनम् उदक।पेषणं च बहुशः कुर्यात् । ५२ ।
 
-KAZ02.14.53 avakṣepaḥ pratimānam agnir gaṇḍikā bhaṇḍika.adhikaraṇī piñchaḥ sūtraṃ cellaṃ bollanaṃ śira utsaṅgo makṣikā sva.kāya.īkṣā dṛtir udaka.śarāvam agniṣṭham iti kācaṃ vidyāt | 53 |
+कज़्०२।१४।५३ अवक्षेपः प्रतिमानम् अग्निर् गण्डिका भण्डिक।अधिकरणी पिञ्छः सूत्रं चेल्लं बोल्लनं शिर उत्सङ्गो मक्षिका स्व।काय।ईक्षा दृतिर् उदक।शरावम् अग्निष्ठम् इति काचं विद्यात् । ५३ ।
 
-KAZ02.14.54 rājatānāṃ visraṃ mala.grāhi paruṣaṃ prastīnaṃ vivarṇaṃ vā duṣṭam iti vidyāt | 54 |
+कज़्०२।१४।५४ राजतानां विस्रं मल।ग्राहि परुषं प्रस्तीनं विवर्णं वा दुष्टम् इति विद्यात् । ५४ ।
 
-KAZ02.14.55ab evaṃ navaṃ ca jīrṇaṃ ca virūpaṃ ca-api bhāṇḍakam |  
-KAZ02.14.55cd parīkṣeta-atyayaṃ ca-eṣāṃ yathā.uddiṣṭaṃ prakalpayet || 55 ||  
+कज़्०२।१४।५५अब् एवं नवं च जीर्णं च विरूपं च-अपि भाण्डकम् ।  
+कज़्०२।१४।५५च्द् परीक्षेत-अत्ययं च-एषां यथा।उद्दिष्टं प्रकल्पयेत् ॥ ५५ ॥  
 
 
  छप्तेर् १५ (सेच्तिओन् ३३): थे सुपेरिन्तेन्देन्त् ओड़् थे मगज़िने
@@ -2676,58 +2675,58 @@ KAZ02.14.55cd parīkṣeta-atyayaṃ ca-eṣāṃ yathā.uddiṣṭaṃ prakalpa
 कज़्०२।१५।६४च्द् मृत्।काष्ठ।कोष्ठाः स्नेहस्य पृथिवी लवणस्य च ॥ ६४ ॥  
 
 
- Chapter 16 (Section 34): The Director of Trade
- \[K tr. 145\] ,  \[K2 tr. 127\] 
-KAZ02.16.01 paṇya.adhyakṣaḥ sthala.jalajānāṃ nānā.vidhānāṃ paṇyānāṃ sthala.patha.vāri.patha.upayātānāṃ sāra.phalgv.argha.antaraṃ priya.apriyatāṃ ca vidyāt, tathā vikṣepa.saṅkṣepa.kraya.vikraya.prayoga.kālān | 1 |
+ छप्तेर् १६ (सेच्तिओन् ३४): थे दिरेच्तोर् ओड़् त्रदे
+ \[क् त्र्। १४५\] ,  \[क्२ त्र्। १२७\] 
+कज़्०२।१६।०१ पण्य।अध्यक्षः स्थल।जलजानां नाना।विधानां पण्यानां स्थल।पथ।वारि।पथ।उपयातानां सार।फल्ग्व्।अर्घ।अन्तरं प्रिय।अप्रियतां च विद्यात्, तथा विक्षेप।सङ्क्षेप।क्रय।विक्रय।प्रयोग।कालान् । १ ।
 
-KAZ02.16.02 yac ca paṇyaṃ pracuraṃ syāt tad ekī.kṛtya-argham āropayet | 2 |
+कज़्०२।१६।०२ यच् च पण्यं प्रचुरं स्यात् तद् एकी।कृत्य-अर्घम् आरोपयेत् । २ ।
 
-KAZ02.16.03 prāpte 'rghe vā-argha.antaraṃ kārayet | 3 |
+कज़्०२।१६।०३ प्राप्ते ऽर्घे वा-अर्घ।अन्तरं कारयेत् । ३ ।
 
-KAZ02.16.04 sva.bhūmijānāṃ rāja.paṇyānām eka.mukhaṃ vyavahāraṃ sthāpayet, para.bhūmijānām aneka.mukham | 4 |
+कज़्०२।१६।०४ स्व।भूमिजानां राज।पण्यानाम् एक।मुखं व्यवहारं स्थापयेत्, पर।भूमिजानाम् अनेक।मुखम् । ४ ।
 
-KAZ02.16.05 ubhayaṃ ca prajānām anugraheṇa vikrāpayet | 5 |
+कज़्०२।१६।०५ उभयं च प्रजानाम् अनुग्रहेण विक्रापयेत् । ५ ।
 
-KAZ02.16.06 sthūlam api ca lābhaṃ prajānām aupaghātikaṃ vārayet | 6 |
+कज़्०२।१६।०६ स्थूलम् अपि च लाभं प्रजानाम् औपघातिकं वारयेत् । ६ ।
 
-KAZ02.16.07 ajasra.paṇyānāṃ kāla.uparodhaṃ saṅkula.doṣaṃ vā na-utpādayet | 7 |
+कज़्०२।१६।०७ अजस्र।पण्यानां काल।उपरोधं सङ्कुल।दोषं वा न-उत्पादयेत् । ७ ।
 
-KAZ02.16.08 bahu.mukhaṃ vā rāja.paṇyaṃ vaidehakāḥ kṛta.arghaṃ vikrīṇīran | 8 |
+कज़्०२।१६।०८ बहु।मुखं वा राज।पण्यं वैदेहकाः कृत।अर्घं विक्रीणीरन् । ८ ।
 
-KAZ02.16.09 cheda.anurūpaṃ ca vaidharaṇaṃ dadyuḥ | 9 |
+कज़्०२।१६।०९ छेद।अनुरूपं च वैधरणं दद्युः । ९ ।
 
-KAZ02.16.10 ṣoḍaśa.bhāgo māna.vyājī, viṃśati.bhāgas tulā.mānam, gaṇya.paṇyānām ekādaśa.bhāgaḥ | 10 |
+कज़्०२।१६।१० षोडश।भागो मान।व्याजी, विंशति।भागस् तुला।मानम्, गण्य।पण्यानाम् एकादश।भागः । १० ।
 
-KAZ02.16.11 para.bhūmijaṃ paṇyam anugraheṇa-āvāhayet | 11 |
+कज़्०२।१६।११ पर।भूमिजं पण्यम् अनुग्रहेण-आवाहयेत् । ११ ।
 
-KAZ02.16.12 na-avikasa.artha.vāhebhyaś ca parihāram āyati.kṣamaṃ dadyāt | 12 |
+कज़्०२।१६।१२ न-अविकस।अर्थ।वाहेभ्यश् च परिहारम् आयति।क्षमं दद्यात् । १२ ।
 
-KAZ02.16.13 anabhiyogaś ca-artheṣv āgantūnām, anyatra sabhyā.upakāribhyaḥ | 13 |
+कज़्०२।१६।१३ अनभियोगश् च-अर्थेष्व् आगन्तूनाम्, अन्यत्र सभ्या।उपकारिभ्यः । १३ ।
 
-KAZ02.16.14 paṇya.adhiṣṭhātāraḥ paṇya.mūlyam eka.mukhaṃ kāṣṭha.droṇyām ekac.chidra.apidhānāyāṃ nidadhyuḥ | 14 |
+कज़्०२।१६।१४ पण्य।अधिष्ठातारः पण्य।मूल्यम् एक।मुखं काष्ठ।द्रोण्याम् एकच्।छिद्र।अपिधानायां निदध्युः । १४ ।
 
-KAZ02.16.15 ahnaś ca-aṣṭame bhāge paṇya.adhyakṣasya-arpayeyuḥ - "idaṃ vikrītam, idaṃ śeṣam" iti | 15 |
+कज़्०२।१६।१५ अह्नश् च-अष्टमे भागे पण्य।अध्यक्षस्य-अर्पयेयुः - "इदं विक्रीतम्, इदं शेषम्" इति । १५ ।
 
-KAZ02.16.16 tulā.māna.bhāṇḍaṃ ca-arpayeyuḥ | 16 |
+कज़्०२।१६।१६ तुला।मान।भाण्डं च-अर्पयेयुः । १६ ।
 
-KAZ02.16.17 iti sva.viṣaye vyākhyātam | 17 |
+कज़्०२।१६।१७ इति स्व।विषये व्याख्यातम् । १७ ।
 
-KAZ02.16.18 para.viṣaye tu - paṇya.pratipaṇyayor arghaṃ mūlyaṃ ca-āgamayya śulka.vartanyā-ātivāhika.gulmatara.deya.bhakta.bhāga.vyaya.śuddham udayaṃ paśyet | 18 |
+कज़्०२।१६।१८ पर।विषये तु - पण्य।प्रतिपण्ययोर् अर्घं मूल्यं च-आगमय्य शुल्क।वर्तन्या-आतिवाहिक।गुल्मतर।देय।भक्त।भाग।व्यय।शुद्धम् उदयं पश्येत् । १८ ।
 
-KAZ02.16.19 asaty udaye bhāṇḍa.nirvahaṇena paṇya.pratipaṇya.ānayanena vā lābhaṃ paśyet | 19 |
+कज़्०२।१६।१९ असत्य् उदये भाण्ड।निर्वहणेन पण्य।प्रतिपण्य।आनयनेन वा लाभं पश्येत् । १९ ।
 
-KAZ02.16.20 tataḥ sāra.pādena sthala.vyavahāram adhvanā kṣemeṇa prayojayet | 20 |
+कज़्०२।१६।२० ततः सार।पादेन स्थल।व्यवहारम् अध्वना क्षेमेण प्रयोजयेत् । २० ।
 
-KAZ02.16.21 aṭavy.anta.pāla.pura.rāṣṭra.mukhyaiś ca pratisaṃsargaṃ gacched anugraha.artham | 21 |
+कज़्०२।१६।२१ अटव्य्।अन्त।पाल।पुर।राष्ट्र।मुख्यैश् च प्रतिसंसर्गं गच्छेद् अनुग्रह।अर्थम् । २१ ।
 
-KAZ02.16.22 āpadi sāram ātmānaṃ vā mokṣayet | 22 |
+कज़्०२।१६।२२ आपदि सारम् आत्मानं वा मोक्षयेत् । २२ ।
 
-KAZ02.16.23 ātmano vā bhūmiṃ prāptaḥ sarva.deya.viśuddhaṃ vyavahareta | 23 |
+कज़्०२।१६।२३ आत्मनो वा भूमिं प्राप्तः सर्व।देय।विशुद्धं व्यवहरेत । २३ ।
 
-KAZ02.16.24 vāri.pathe vā yāna.bhāgaka.pathy.adana.paṇya.pratipaṇya.argha.pramāṇa.yātrā.- kāla.bhaya.pratīkāra.paṇya.pattana.cāritrāṇy upalabheta | 24 |
+कज़्०२।१६।२४ वारि।पथे वा यान।भागक।पथ्य्।अदन।पण्य।प्रतिपण्य।अर्घ।प्रमाण।यात्रा।- काल।भय।प्रतीकार।पण्य।पत्तन।चारित्राण्य् उपलभेत । २४ ।
 
-KAZ02.16.25ab nadī.pathe ca vijñāya vyavahāraṃ caritrataḥ |  
-KAZ02.16.25cd yato lābhas tato gacched alābhaṃ parivarjayet || 25 ||  
+कज़्०२।१६।२५अब् नदी।पथे च विज्ञाय व्यवहारं चरित्रतः ।  
+कज़्०२।१६।२५च्द् यतो लाभस् ततो गच्छेद् अलाभं परिवर्जयेत् ॥ २५ ॥  
 
 
  छप्तेर् १७ (सेच्तिओन् ३५): थे दिरेच्तोर् ओड़् ड़ोरेस्त्स्
@@ -2768,48 +2767,48 @@ KAZ02.16.25cd yato lābhas tato gacched alābhaṃ parivarjayet || 25 ||
 कज़्०२।१७।१७च्द् आजीव।पुर।रक्षा।अर्थाः कार्याः कुप्य।उपजीविना ॥ १७ ॥  
 
 
- Chapter 18 (Section 36): The Superintendent of the Armoury
- \[K tr. 150\] ,  \[K2 tr. 131\] 
-KAZ02.18.01 āyudha.agāra.adhyakṣaḥ sāṅgrāmikaṃ daurgakarmikaṃ para.pura.abhighātikaṃ ca yantram āyudham āvaraṇam upakaraṇaṃ ca taj.jāta.kāru.śilpibhiḥ kṛta.karma.pramāṇa.kāla.vetana.phala.niṣpattibhiḥ kārayet, sva.bhūmiṣu ca sthāpayet | 1 |
+ छप्तेर् १८ (सेच्तिओन् ३६): थे सुपेरिन्तेन्देन्त् ओड़् थे अर्मोउर्य्
+ \[क् त्र्। १५०\] ,  \[क्२ त्र्। १३१\] 
+कज़्०२।१८।०१ आयुध।अगार।अध्यक्षः साङ्ग्रामिकं दौर्गकर्मिकं पर।पुर।अभिघातिकं च यन्त्रम् आयुधम् आवरणम् उपकरणं च तज्।जात।कारु।शिल्पिभिः कृत।कर्म।प्रमाण।काल।वेतन।फल।निष्पत्तिभिः कारयेत्, स्व।भूमिषु च स्थापयेत् । १ ।
 
-KAZ02.18.02 sthāna.parivartanam ātapa.pravāta.pradānaṃ ca bahuśaḥ kuryāt | 2 |
+कज़्०२।१८।०२ स्थान।परिवर्तनम् आतप।प्रवात।प्रदानं च बहुशः कुर्यात् । २ ।
 
-KAZ02.18.03 ūṣma.upasneha.krimibhir upahanyamānam anyathā sthāpayet | 3 |
+कज़्०२।१८।०३ ऊष्म।उपस्नेह।क्रिमिभिर् उपहन्यमानम् अन्यथा स्थापयेत् । ३ ।
 
-KAZ02.18.04 jāti.rūpa.lakṣaṇa.pramāṇa.āgama.mūlya.nikṣepaiś ca-upalabheta | 4 |
+कज़्०२।१८।०४ जाति।रूप।लक्षण।प्रमाण।आगम।मूल्य।निक्षेपैश् च-उपलभेत । ४ ।
 
-KAZ02.18.05 sarvato.bhadra.jāmadagnya.bahu.mukha.viśvāsa.ghāti.saṅghāṭī.- yānaka.parjanyaka.bāhu.ūrdhva.bāhv.ardha.bāhūni sthita.yantrāṇi | 5 |
+कज़्०२।१८।०५ सर्वतो।भद्र।जामदग्न्य।बहु।मुख।विश्वास।घाति।सङ्घाटी।- यानक।पर्जन्यक।बाहु।ऊर्ध्व।बाह्व्।अर्ध।बाहूनि स्थित।यन्त्राणि । ५ ।
 
-KAZ02.18.06 pāñcālika.deva.daṇḍa.sūkarikā.musala.yaṣṭi.hasti.vāraka.tāla.- vṛnta.mudgara.gadā.spṛktalā.kuddāla.āsphāṭima.utpāṭima.- udghāṭima.śataghni.tri.śūla.cakrāṇi cala.yantrāṇi | 6 |
+कज़्०२।१८।०६ पाञ्चालिक।देव।दण्ड।सूकरिका।मुसल।यष्टि।हस्ति।वारक।ताल।- वृन्त।मुद्गर।गदा।स्पृक्तला।कुद्दाल।आस्फाटिम।उत्पाटिम।- उद्घाटिम।शतघ्नि।त्रि।शूल।चक्राणि चल।यन्त्राणि । ६ ।
 
-KAZ02.18.07 śakti.prāsa.kunta.hāṭaka.bhiṇḍi.pāla.śūla.tomara.varāha.karṇa.- kaṇaya.karpaṇa.trāsika.ādīni ca hula.mukhāni | 7 |
+कज़्०२।१८।०७ शक्ति।प्रास।कुन्त।हाटक।भिण्डि।पाल।शूल।तोमर।वराह।कर्ण।- कणय।कर्पण।त्रासिक।आदीनि च हुल।मुखानि । ७ ।
 
-KAZ02.18.08 tāla.cāpa.dārava.śārṅgāṇi kārmuka.kodaṇḍa.drūṇā dhanūṃṣi | 8 |
+कज़्०२।१८।०८ ताल।चाप।दारव।शार्ङ्गाणि कार्मुक।कोदण्ड।द्रूणा धनूंषि । ८ ।
 
-KAZ02.18.09 mūrvā.arka.śana.gavedhu.veṇu.snāyūni jyāḥ | 9 |
+कज़्०२।१८।०९ मूर्वा।अर्क।शन।गवेधु।वेणु।स्नायूनि ज्याः । ९ ।
 
-KAZ02.18.10 veṇu.śara.śalākā.daṇḍa.āsana.nārācāś ca-iṣavaḥ | 10 |
+कज़्०२।१८।१० वेणु।शर।शलाका।दण्ड।आसन।नाराचाश् च-इषवः । १० ।
 
-KAZ02.18.11 teṣāṃ mukhāni chedana.bhedana.tāḍanāny āyasa.asthi.dāravāṇi | 11 |
+कज़्०२।१८।११ तेषां मुखानि छेदन।भेदन।ताडनान्य् आयस।अस्थि।दारवाणि । ११ ।
 
-KAZ02.18.12 nistriṃśa.maṇḍala.agra.asi.yaṣṭayaḥ khaḍgāḥ | 12 |
+कज़्०२।१८।१२ निस्त्रिंश।मण्डल।अग्र।असि।यष्टयः खड्गाः । १२ ।
 
-KAZ02.18.13 khaḍga.mahiṣa.vāraṇa.viṣāṇa.dāru.veṇu.mūlāni tsaravaḥ | 13 |
+कज़्०२।१८।१३ खड्ग।महिष।वारण।विषाण।दारु।वेणु।मूलानि त्सरवः । १३ ।
 
-KAZ02.18.14 paraśu.kuṭhāra.paṭṭasa.khanitra.kuddāla.krakaca.kāṇḍac.chedanāḥ kṣura.kalpāḥ | 14 |
+कज़्०२।१८।१४ परशु।कुठार।पट्टस।खनित्र।कुद्दाल।क्रकच।काण्डच्।छेदनाः क्षुर।कल्पाः । १४ ।
 
-KAZ02.18.15 yantra.goṣpaṇa.muṣṭi.pāṣāṇa.rocanī.dṛṣadaś ca-aśma.āyudhāni | 15 |
+कज़्०२।१८।१५ यन्त्र।गोष्पण।मुष्टि।पाषाण।रोचनी।दृषदश् च-अश्म।आयुधानि । १५ ।
 
-KAZ02.18.16 loha.jālikā.paṭṭa.kavaca.sūtra.kaṅkaṭa.śiṃśumāraka.khaḍgi.- dhenuka.hasti.go.carma.khura.śṛṅga.saṅghātaṃ varmāṇi | 16 |
+कज़्०२।१८।१६ लोह।जालिका।पट्ट।कवच।सूत्र।कङ्कट।शिंशुमारक।खड्गि।- धेनुक।हस्ति।गो।चर्म।खुर।शृङ्ग।सङ्घातं वर्माणि । १६ ।
 
-KAZ02.18.17 śiras.trāṇa.kaṇṭha.trāṇa.kūrpāsa.kañcuka.vāra.vāṇa.paṭṭa.- nāga.udarikāḥ peṭī.carma.hasti.karṇa.tāla.mūla.dhamani.kāka.pāṭa.kiṭikā.- apratihata.balāha.kāntāś ca-āvaraṇāṇi | 17 |
+कज़्०२।१८।१७ शिरस्।त्राण।कण्ठ।त्राण।कूर्पास।कञ्चुक।वार।वाण।पट्ट।- नाग।उदरिकाः पेटी।चर्म।हस्ति।कर्ण।ताल।मूल।धमनि।काक।पाट।किटिका।- अप्रतिहत।बलाह।कान्ताश् च-आवरणाणि । १७ ।
 
-KAZ02.18.18 hasti.ratha.vājināṃ yogyā.bhāṇḍam ālaṅkārikaṃ samnāha.kalpanāś ca-upakaraṇāni | 18 |
+कज़्०२।१८।१८ हस्ति।रथ।वाजिनां योग्या।भाण्डम् आलङ्कारिकं सम्नाह।कल्पनाश् च-उपकरणानि । १८ ।
 
-KAZ02.18.19 aindrajālikam aupaniṣadikaṃ ca karma | 19 | karma.antānāṃ ca -
+कज़्०२।१८।१९ ऐन्द्रजालिकम् औपनिषदिकं च कर्म । १९ । कर्म।अन्तानां च -
 
-KAZ02.18.20ab icchām ārambha.niṣpattiṃ prayogaṃ vyājam uddayam |  
-KAZ02.18.20cd kṣaya.vyayau ca jānīyāt kupyānām āyudha.īśvaraḥ || 20 ||  
+कज़्०२।१८।२०अब् इच्छाम् आरम्भ।निष्पत्तिं प्रयोगं व्याजम् उद्दयम् ।  
+कज़्०२।१८।२०च्द् क्षय।व्ययौ च जानीयात् कुप्यानाम् आयुध।ईश्वरः ॥ २० ॥  
 
 
  छप्तेर् १९ (सेच्तिओन् ३७): स्तन्दर्दिसतिओन् ओड़् Wएइघ्त्स् अन्द् मेअसुरेस्
@@ -2908,142 +2907,142 @@ KAZ02.18.20cd kṣaya.vyayau ca jānīyāt kupyānām āyudha.īśvaraḥ || 20 
 
 कज़्०२।१९।४७ चतुः।षष्टिस् तु तैलस्य पादश् च घटिका-अनयोः । ४७ ।
 
- Chapter 20 (Section 38): Measures of Space and Time
- \[K tr. 158\] ,  \[K2 tr. 138\] 
-KAZ02.20.01 māna.adhyakṣyo deśa.kāla.mānaṃ vidyāt | 1 |
+ छप्तेर् २० (सेच्तिओन् ३८): मेअसुरेस् ओड़् स्पचे अन्द् तिमे
+ \[क् त्र्। १५८\] ,  \[क्२ त्र्। १३८\] 
+कज़्०२।२०।०१ मान।अध्यक्ष्यो देश।काल।मानं विद्यात् । १ ।
 
-KAZ02.20.02 aṣṭau parama.aṇavo ratha.cakra.vipruṭ | 2 |
+कज़्०२।२०।०२ अष्टौ परम।अणवो रथ।चक्र।विप्रुट् । २ ।
 
-KAZ02.20.03 tā aṣṭau likṣā | 3 |
+कज़्०२।२०।०३ ता अष्टौ लिक्षा । ३ ।
 
-KAZ02.20.04 tā aṣtau yūkā | 4 |
+कज़्०२।२०।०४ ता अष्तौ यूका । ४ ।
 
-KAZ02.20.05 tā aṣṭau yava.madhyaḥ | 5 |
+कज़्०२।२०।०५ ता अष्टौ यव।मध्यः । ५ ।
 
-KAZ02.20.06 aṣṭau yava.madhyā aṅgulam | 6 |
+कज़्०२।२०।०६ अष्टौ यव।मध्या अङ्गुलम् । ६ ।
 
-KAZ02.20.07 madhyamasya puruṣasya madhyamāyā anugulyā madhya.prakarṣo vā-aṅgulam | 7 |
+कज़्०२।२०।०७ मध्यमस्य पुरुषस्य मध्यमाया अनुगुल्या मध्य।प्रकर्षो वा-अङ्गुलम् । ७ ।
 
-KAZ02.20.08 catur.aṅgulo dhanur.grahaḥ | 8 |
+कज़्०२।२०।०८ चतुर्।अङ्गुलो धनुर्।ग्रहः । ८ ।
 
-KAZ02.20.09 aṣṭa.aṅgulā dhanur.muṣṭiḥ | 9 |
+कज़्०२।२०।०९ अष्ट।अङ्गुला धनुर्।मुष्टिः । ९ ।
 
-KAZ02.20.10 dvādaśa.aṅgulā vitastiḥ, chāyā.pauruṣaṃ ca | 10 |
+कज़्०२।२०।१० द्वादश।अङ्गुला वितस्तिः, छाया।पौरुषं च । १० ।
 
-KAZ02.20.11 catur.daśa.aṅgulaṃ śamaḥ śalaḥ parīrayaḥ padaṃ ca | 11 |
+कज़्०२।२०।११ चतुर्।दश।अङ्गुलं शमः शलः परीरयः पदं च । ११ ।
 
-KAZ02.20.12 dvi.vitastir aratniḥ prājāpatyo hastaḥ | 12 |
+कज़्०२।२०।१२ द्वि।वितस्तिर् अरत्निः प्राजापत्यो हस्तः । १२ ।
 
-KAZ02.20.13 sa-dhanur.grahaḥ pautava.vivīta.mānam | 13 |
+कज़्०२।२०।१३ स-धनुर्।ग्रहः पौतव।विवीत।मानम् । १३ ।
 
-KAZ02.20.14 sa-dhanur.muṣṭiḥ kuṣkuḥ kaṃso vā | 14 |
+कज़्०२।२०।१४ स-धनुर्।मुष्टिः कुष्कुः कंसो वा । १४ ।
 
-KAZ02.20.15 dvi.catvāriṃśad.aṅgulas takṣṇaḥ krākacanika.kiṣkuḥ skandha.āvāra.durga.rāja.parigraha.mānam | 15 |
+कज़्०२।२०।१५ द्वि।चत्वारिंशद्।अङ्गुलस् तक्ष्णः क्राकचनिक।किष्कुः स्कन्ध।आवार।दुर्ग।राज।परिग्रह।मानम् । १५ ।
 
-KAZ02.20.16 catuṣ.pañcāśad.aṅgulaḥ kūpya.vana.hastaḥ | 16 |
+कज़्०२।२०।१६ चतुष्।पञ्चाशद्।अङ्गुलः कूप्य।वन।हस्तः । १६ ।
 
-KAZ02.20.17 catur.aśīty.aṅgulo vyāmo rajju.mānaṃ khāta.pauruṣaṃ ca | 17 |
+कज़्०२।२०।१७ चतुर्।अशीत्य्।अङ्गुलो व्यामो रज्जु।मानं खात।पौरुषं च । १७ ।
 
-KAZ02.20.18 catur.aratnir daṇḍo dhanur.nālikā pauruṣaṃ ca gārhapatyam | 18 |
+कज़्०२।२०।१८ चतुर्।अरत्निर् दण्डो धनुर्।नालिका पौरुषं च गार्हपत्यम् । १८ ।
 
-KAZ02.20.19 aṣṭa.śata.aṅgulaṃ dhanuḥ pathi.prākāra.mānaṃ pauruṣaṃ ca-agni.cityānām | 19 |
+कज़्०२।२०।१९ अष्ट।शत।अङ्गुलं धनुः पथि।प्राकार।मानं पौरुषं च-अग्नि।चित्यानाम् । १९ ।
 
-KAZ02.20.20 ṣaṭ.kaṃso daṇḍo brahma.deya.ātithya.mānam | 20 |
+कज़्०२।२०।२० षट्।कंसो दण्डो ब्रह्म।देय।आतिथ्य।मानम् । २० ।
 
-KAZ02.20.21 daśa.daṇḍo rajjuḥ | 21 |
+कज़्०२।२०।२१ दश।दण्डो रज्जुः । २१ ।
 
-KAZ02.20.22 dvi.rajjukaḥ parideśaḥ | 22 |
+कज़्०२।२०।२२ द्वि।रज्जुकः परिदेशः । २२ ।
 
-KAZ02.20.23 tri.rajjukaṃ nivartanam ekataḥ | 23 |
+कज़्०२।२०।२३ त्रि।रज्जुकं निवर्तनम् एकतः । २३ ।
 
-KAZ02.20.24 dvi.daṇḍa.adhiko bāhuḥ | 24 |
+कज़्०२।२०।२४ द्वि।दण्ड।अधिको बाहुः । २४ ।
 
-KAZ02.20.25 dvi.dhanuḥ.sahasraṃ go.rutam | 25 |
+कज़्०२।२०।२५ द्वि।धनुः।सहस्रं गो।रुतम् । २५ ।
 
-KAZ02.20.26 catur.go.rutaṃ yojanam | 26 |
+कज़्०२।२०।२६ चतुर्।गो।रुतं योजनम् । २६ ।
 
-KAZ02.20.27 iti deśa.mānam | 27 |
+कज़्०२।२०।२७ इति देश।मानम् । २७ ।
 
-KAZ02.20.28 kāla.mānam ata ūrdhvam | 28 |
+कज़्०२।२०।२८ काल।मानम् अत ऊर्ध्वम् । २८ ।
 
-KAZ02.20.29 tuṭo lavo nimeṣaḥ kāṣṭhā kallā nālikā muhūrtaḥ pūrva.apara.bhāgau divaso rātriḥ pakṣo māsa ṛtur ayanaṃ saṃvatsaro yugam iti kālāḥ | 29 |
+कज़्०२।२०।२९ तुटो लवो निमेषः काष्ठा कल्ला नालिका मुहूर्तः पूर्व।अपर।भागौ दिवसो रात्रिः पक्षो मास ऋतुर् अयनं संवत्सरो युगम् इति कालाः । २९ ।
 
-KAZ02.20.30 dvau tuṭau lavaḥ | 30 |
+कज़्०२।२०।३० द्वौ तुटौ लवः । ३० ।
 
-KAZ02.20.31 dvau lavau nimeṣaḥ | 31 |
+कज़्०२।२०।३१ द्वौ लवौ निमेषः । ३१ ।
 
-KAZ02.20.32 pañca.nimeṣāḥ kāṣṭhāḥ | 32 |
+कज़्०२।२०।३२ पञ्च।निमेषाः काष्ठाः । ३२ ।
 
-KAZ02.20.33 triṃśat.kāṣṭhāḥ kalāḥ | 33 |
+कज़्०२।२०।३३ त्रिंशत्।काष्ठाः कलाः । ३३ ।
 
-KAZ02.20.34 catvāriṃśat.kalāḥ nālikā | 34 |
+कज़्०२।२०।३४ चत्वारिंशत्।कलाः नालिका । ३४ ।
 
-KAZ02.20.35 suvarṇa.māṣakāś catvāraś catur.aṅgula.āyāmāḥ kumbhac.chidram āḍhakam ambhaso vā nālikā | 35 |
+कज़्०२।२०।३५ सुवर्ण।माषकाश् चत्वारश् चतुर्।अङ्गुल।आयामाः कुम्भच्।छिद्रम् आढकम् अम्भसो वा नालिका । ३५ ।
 
-KAZ02.20.36 dvi.nāliko muhūrtaḥ | 36 |
+कज़्०२।२०।३६ द्वि।नालिको मुहूर्तः । ३६ ।
 
-KAZ02.20.37 pañca.daśa.muhūrto divaso rātriś ca caitre ca-āśvayuje ca māsi bhavataḥ | 37 |
+कज़्०२।२०।३७ पञ्च।दश।मुहूर्तो दिवसो रात्रिश् च चैत्रे च-आश्वयुजे च मासि भवतः । ३७ ।
 
-KAZ02.20.38 tataḥ paraṃ tribhir muhūrtair anyataraḥ ṣaṇ.māsaṃ vardhate hrasate ca-iti | 38 |
+कज़्०२।२०।३८ ततः परं त्रिभिर् मुहूर्तैर् अन्यतरः षण्।मासं वर्धते ह्रसते च-इति । ३८ ।
 
-KAZ02.20.39 chāyāyām aṣṭa.pauruṣyām aṣṭādaśa.bhāgaś chedaḥ, ṣaṭ.pauruṣyāṃ catur.daśa.bhāgaḥ, tri.pauruṣyām aṣṭa.bhāgaḥ, dvi.pauruṣyāṃ ṣaḍ.bhāgaḥ, pauruṣyāṃ catur.bhāgaḥ, aṣṭa.aṅgulāyāṃ trayo daśa.bhāgāḥ, catur.aṅgulāyāṃ trayo 'ṣṭa.bhāgāḥ, acchāyo madhya.ahna iti | 39 |
+कज़्०२।२०।३९ छायायाम् अष्ट।पौरुष्याम् अष्टादश।भागश् छेदः, षट्।पौरुष्यां चतुर्।दश।भागः, त्रि।पौरुष्याम् अष्ट।भागः, द्वि।पौरुष्यां षड्।भागः, पौरुष्यां चतुर्।भागः, अष्ट।अङ्गुलायां त्रयो दश।भागाः, चतुर्।अङ्गुलायां त्रयो ऽष्ट।भागाः, अच्छायो मध्य।अह्न इति । ३९ ।
 
-KAZ02.20.40 parāvṛtte divase śeṣam evaṃ vidyāt | 40 |
+कज़्०२।२०।४० परावृत्ते दिवसे शेषम् एवं विद्यात् । ४० ।
 
-KAZ02.20.41 āṣāḍhe māsi naṣṭac.chāyo madhya.ahno bhavati | 41 |
+कज़्०२।२०।४१ आषाढे मासि नष्टच्।छायो मध्य।अह्नो भवति । ४१ ।
 
-KAZ02.20.42 ataḥ paraṃ śrāvaṇa.ādīnāṃ ṣaṇ.māsānāṃ dvy.aṅgula.uttarā māgha.ādīnāṃ dvy.aṅgula.avarā chāyā iti | 42 |
+कज़्०२।२०।४२ अतः परं श्रावण।आदीनां षण्।मासानां द्व्य्।अङ्गुल।उत्तरा माघ।आदीनां द्व्य्।अङ्गुल।अवरा छाया इति । ४२ ।
 
-KAZ02.20.43 pañcadaśa.aho.rātrāḥ pakṣaḥ | 43 |
+कज़्०२।२०।४३ पञ्चदश।अहो।रात्राः पक्षः । ४३ ।
 
-KAZ02.20.44 soma.āpyāyanaḥ śuklaḥ | 44 |
+कज़्०२।२०।४४ सोम।आप्यायनः शुक्लः । ४४ ।
 
-KAZ02.20.45 soma.avacchedano bahulaḥ | 45 |
+कज़्०२।२०।४५ सोम।अवच्छेदनो बहुलः । ४५ ।
 
-KAZ02.20.46 dvi.pakṣo māsaḥ | 46 |
+कज़्०२।२०।४६ द्वि।पक्षो मासः । ४६ ।
 
-KAZ02.20.47 triṃśad.aho.rātraḥ karma.māsaḥ | 47 |
+कज़्०२।२०।४७ त्रिंशद्।अहो।रात्रः कर्म।मासः । ४७ ।
 
-KAZ02.20.48 sa-ardhaḥ sauraḥ | 48 |
+कज़्०२।२०।४८ स-अर्धः सौरः । ४८ ।
 
-KAZ02.20.49 ardha.nyūnaś cāndra.māsaḥ | 49 |
+कज़्०२।२०।४९ अर्ध।न्यूनश् चान्द्र।मासः । ४९ ।
 
-KAZ02.20.50 sapta.viṃśatir nākṣatra.māsaḥ | 50 |
+कज़्०२।२०।५० सप्त।विंशतिर् नाक्षत्र।मासः । ५० ।
 
-KAZ02.20.51 dvātriṃśad bala.māsaḥ | 51 |
+कज़्०२।२०।५१ द्वात्रिंशद् बल।मासः । ५१ ।
 
-KAZ02.20.52 pañcatriṃśad aśva.vāhāyāḥ | 52 |
+कज़्०२।२०।५२ पञ्चत्रिंशद् अश्व।वाहायाः । ५२ ।
 
-KAZ02.20.53 catvāriṃśadd.hasti.vāhāyāḥ | 53 |
+कज़्०२।२०।५३ चत्वारिंशद्द्।हस्ति।वाहायाः । ५३ ।
 
-KAZ02.20.54 dvau māsāv ṛtuḥ | 54 |
+कज़्०२।२०।५४ द्वौ मासाव् ऋतुः । ५४ ।
 
-KAZ02.20.55 śrāvaṇaḥ prauṣṭhapadaś ca varṣāḥ | 55 |
+कज़्०२।२०।५५ श्रावणः प्रौष्ठपदश् च वर्षाः । ५५ ।
 
-KAZ02.20.56 āśvayujaḥ kārttikaś ca śarat | 56 |
+कज़्०२।२०।५६ आश्वयुजः कार्त्तिकश् च शरत् । ५६ ।
 
-KAZ02.20.57 mārga.śīrṣaḥ pauṣaś ca hemantaḥ | 57 |
+कज़्०२।२०।५७ मार्ग।शीर्षः पौषश् च हेमन्तः । ५७ ।
 
-KAZ02.20.58 māghaḥ phālgunaś ca śiśiraḥ | 58 |
+कज़्०२।२०।५८ माघः फाल्गुनश् च शिशिरः । ५८ ।
 
-KAZ02.20.59 caitro vaiśākhaś ca vasantaḥ | 59 |
+कज़्०२।२०।५९ चैत्रो वैशाखश् च वसन्तः । ५९ ।
 
-KAZ02.20.60 jyeṣṭhāmūlīya āṣāḍhaś ca grīṣmaḥ | 60 |
+कज़्०२।२०।६० ज्येष्ठामूलीय आषाढश् च ग्रीष्मः । ६० ।
 
-KAZ02.20.61 śiśira.ādy uttara.ayaṇam | 61 |
+कज़्०२।२०।६१ शिशिर।आद्य् उत्तर।अयणम् । ६१ ।
 
-KAZ02.20.62 varṣa.ādi dakṣiṇa.ayanam | 62 |
+कज़्०२।२०।६२ वर्ष।आदि दक्षिण।अयनम् । ६२ ।
 
-KAZ02.20.63 dvy.ayanaḥ saṃvatsaraḥ | 63 |
+कज़्०२।२०।६३ द्व्य्।अयनः संवत्सरः । ६३ ।
 
-KAZ02.20.64 pañca.saṃvatsaro yugam | iti | 64 |
+कज़्०२।२०।६४ पञ्च।संवत्सरो युगम् । इति । ६४ ।
 
-KAZ02.20.65ab divasasya haraty arkaḥ ṣaṣṭi.bhāgam ṛtau tataḥ |  
-KAZ02.20.65cd karoty ekam ahaś.chedaṃ tathā-eva-ekaṃ ca candramāḥ || 65 ||  
+कज़्०२।२०।६५अब् दिवसस्य हरत्य् अर्कः षष्टि।भागम् ऋतौ ततः ।  
+कज़्०२।२०।६५च्द् करोत्य् एकम् अहश्।छेदं तथा-एव-एकं च चन्द्रमाः ॥ ६५ ॥  
 
 
-KAZ02.20.66ab evam ardha.tṛtīyānām abdānām adhimāsakam |  
-KAZ02.20.66cd grīṣme janayataḥ pūrvaṃ pañca.abda.ante ca paścimam || 66 ||  
+कज़्०२।२०।६६अब् एवम् अर्ध।तृतीयानाम् अब्दानाम् अधिमासकम् ।  
+कज़्०२।२०।६६च्द् ग्रीष्मे जनयतः पूर्वं पञ्च।अब्द।अन्ते च पश्चिमम् ॥ ६६ ॥  
 
 
  छप्तेर् २१ (सेच्तिओन् ३९): थे चोल्लेच्तोर् ओड़् चुस्तोम्स्
@@ -3112,38 +3111,38 @@ KAZ02.20.66cd grīṣme janayataḥ pūrvaṃ pañca.abda.ante ca paścimam || 6
 कज़्०२।२१।३१च्द् महा।उपकारम् उच्छुल्कं कुर्याद् बीजं च दुर्लभम् ॥ ३१ ॥  
 
 
- Chapter 22 (Section 39): The Collector of Customs (cont.)
- \[K tr. 166\] ,  \[K2 tr. 144\] 
-KAZ02.22.01 bāhyam ābhyantaraṃ ca-ātithyam | 1 |
+ छप्तेर् २२ (सेच्तिओन् ३९): थे चोल्लेच्तोर् ओड़् चुस्तोम्स् (चोन्त्।)
+ \[क् त्र्। १६६\] ,  \[क्२ त्र्। १४४\] 
+कज़्०२।२२।०१ बाह्यम् आभ्यन्तरं च-आतिथ्यम् । १ ।
 
-KAZ02.22.02 niṣkrāmyaṃ praveśyaṃ ca śulkam | 2 |
+कज़्०२।२२।०२ निष्क्राम्यं प्रवेश्यं च शुल्कम् । २ ।
 
-KAZ02.22.03 praveśyānāṃ mūlya.pañca.bhāgaḥ | 3 |
+कज़्०२।२२।०३ प्रवेश्यानां मूल्य।पञ्च।भागः । ३ ।
 
-KAZ02.22.04 puṣpa.phala.śāka.mūla.kanda.vāllikya.bīja.śuṣka.matsya.māṃsānāṃ ṣaḍ.bhāgaṃ gṛhṇīyāt | 4 |
+कज़्०२।२२।०४ पुष्प।फल।शाक।मूल।कन्द।वाल्लिक्य।बीज।शुष्क।मत्स्य।मांसानां षड्।भागं गृह्णीयात् । ४ ।
 
-KAZ02.22.05 śaṅkha.vajra.maṇi.muktā.pravāla.hārāṇāṃ taj.jāta.puruṣaiḥ kārayet kṛta.karma.pramāṇa.kāla.vetana.phala.niṣpattibhiḥ | 5 |
+कज़्०२।२२।०५ शङ्ख।वज्र।मणि।मुक्ता।प्रवाल।हाराणां तज्।जात।पुरुषैः कारयेत् कृत।कर्म।प्रमाण।काल।वेतन।फल।निष्पत्तिभिः । ५ ।
 
-KAZ02.22.06 kṣauma.dukūla.krimi.tāna.kaṅkaṭa.hari.tāla.manaḥ.śilā.añjana.- hiṅguluka.loha.varṇa.dhātūnāṃ candana.aguru.kaṭuka.kiṇva.avarāṇāṃ carma.danta.āstaraṇa.prāvaraṇa.krimi.jātānām āja.eḍakasya ca daśa.bhāgaḥ pañca.daśa.bhāgo vā | 6 |
+कज़्०२।२२।०६ क्षौम।दुकूल।क्रिमि।तान।कङ्कट।हरि।ताल।मनः।शिला।अञ्जन।- हिङ्गुलुक।लोह।वर्ण।धातूनां चन्दन।अगुरु।कटुक।किण्व।अवराणां चर्म।दन्त।आस्तरण।प्रावरण।क्रिमि।जातानाम् आज।एडकस्य च दश।भागः पञ्च।दश।भागो वा । ६ ।
 
-KAZ02.22.07 vastra.catuṣpada.dvipada.sūtra.kārpāsa.gandha.bhaiṣajya.- kāṣṭha.veṇu.valkala.carma.mṛdbha.aṇḍānāṃ dhānya.sneha.kṣāra.lavaṇa.madya.pakvān nādīnāṃ ca viṃśati.bhāgaḥ pañca.viṃśati.bhāgo vā | 7 |
+कज़्०२।२२।०७ वस्त्र।चतुष्पद।द्विपद।सूत्र।कार्पास।गन्ध।भैषज्य।- काष्ठ।वेणु।वल्कल।चर्म।मृद्भ।अण्डानां धान्य।स्नेह।क्षार।लवण।मद्य।पक्वान् नादीनां च विंशति।भागः पञ्च।विंशति।भागो वा । ७ ।
 
-KAZO2.22.08 dvārādeyaṃ śulkaṃ pañca.bhāgaḥ ānugrāhikaṃ vā yathā.deśa.upakāraṃ sthāpaytet | 8 |
+कज़ो२।२२।०८ द्वारादेयं शुल्कं पञ्च।भागः आनुग्राहिकं वा यथा।देश।उपकारं स्थापय्तेत् । ८ ।
 
-KAZO2.22.09 jāti.bhūmiṣu ca paṇyānāṃ vikrayaḥ | 9 |
+कज़ो२।२२।०९ जाति।भूमिषु च पण्यानां विक्रयः । ९ ।
 
-KAZO2.22.10 khanibhyo dhātu.paṇyādāne ṣaṭ.chatam atyayaḥ | 10 |
+कज़ो२।२२।१० खनिभ्यो धातु।पण्यादाने षट्।छतम् अत्ययः । १० ।
 
-KAZO2.22.11 puṣpa.phala.vāṭebhyaḥ puṣpa.phala.ādāne catuṣ.pañcāśat.paṇo daṇḍaḥ | 11 |
+कज़ो२।२२।११ पुष्प।फल।वाटेभ्यः पुष्प।फल।आदाने चतुष्।पञ्चाशत्।पणो दण्डः । ११ ।
 
-KAZO2.22.12 ṣaṇḍebhyaḥ śāka.mūla.kanda.ādāne pāda.ūnaṃ dvi.pañcāśat.paṇo daṇḍaḥ | 12 |
+कज़ो२।२२।१२ षण्डेभ्यः शाक।मूल।कन्द।आदाने पाद।ऊनं द्वि।पञ्चाशत्।पणो दण्डः । १२ ।
 
-KAZ02.22.13 kṣetrebhyaḥ sarva.sasya.ādāne tri.pañcāśat.paṇaḥ | 13 |
+कज़्०२।२२।१३ क्षेत्रेभ्यः सर्व।सस्य।आदाने त्रि।पञ्चाशत्।पणः । १३ ।
 
-KAZ02.22.14 paṇo 'dhyardha.paṇaś ca sītā.atyayaḥ | 14 |
+कज़्०२।२२।१४ पणो ऽध्यर्ध।पणश् च सीता।अत्ययः । १४ ।
 
-KAZ02.22.15ab ato nava.purāṇāṃ deśa.jāti.caritrataḥ |  
-KAZ02.22.15cd paṇyānāṃ sthāpayec-śuklam atyayaṃ ca-apakārataḥ || 15 ||  
+कज़्०२।२२।१५अब् अतो नव।पुराणां देश।जाति।चरित्रतः ।  
+कज़्०२।२२।१५च्द् पण्यानां स्थापयेच्-शुक्लम् अत्ययं च-अपकारतः ॥ १५ ॥  
 
 
  छप्तेर् २३ (सेच्तिओन् ४०): थे सुपेरिन्तेन्देन्त् ओड़् यर्न्स्
@@ -3188,84 +3187,84 @@ KAZ02.22.15cd paṇyānāṃ sthāpayec-śuklam atyayaṃ ca-apakārataḥ || 15
 कज़्०२।२३।१९च्द् साम्नाह्या बन्ध।नीयाश् च यान।युग्यस्य करयेत् ॥ १९ ॥  
 
 
- Chapter 24 (Section 41): The Director of Agriculture
- \[K tr. 170\] ,  \[K2 tr. 148\] 
-KAZ02.24.01 sītā.adhyakṣaḥ kṛṣi.tantra.śulba.vṛkṣa.āyur.vedajñas taj.jña.sakho vā sarva.dhānya.puṣpa.phala.śāka.kanda.mūla.vāllikya.kṣauma.kārpāsa.bījāni yathā.kālaṃ gṛhṇīyāt | 1 |
+ छप्तेर् २४ (सेच्तिओन् ४१): थे दिरेच्तोर् ओड़् अग्रिचुल्तुरे
+ \[क् त्र्। १७०\] ,  \[क्२ त्र्। १४८\] 
+कज़्०२।२४।०१ सीता।अध्यक्षः कृषि।तन्त्र।शुल्ब।वृक्ष।आयुर्।वेदज्ञस् तज्।ज्ञ।सखो वा सर्व।धान्य।पुष्प।फल।शाक।कन्द।मूल।वाल्लिक्य।क्षौम।कार्पास।बीजानि यथा।कालं गृह्णीयात् । १ ।
 
-KAZ02.24.02 bahu.hala.parikṛṣṭāyāṃ sva.bhūmau dāsa.karma.kara.daṇḍa.pratikartṛbhir vāpayet | 2 |
+कज़्०२।२४।०२ बहु।हल।परिकृष्टायां स्व।भूमौ दास।कर्म।कर।दण्ड।प्रतिकर्तृभिर् वापयेत् । २ ।
 
-KAZ02.24.03 karṣaṇa.yantra.upakaraṇa.balīvardaiś ca-eṣām asaṅgaṃ kārayet, kārubhiś ca karmāra.kuṭṭāka.medaka.rajju.vartaka.sarpa.grāha.ādibhiś ca | 3 |
+कज़्०२।२४।०३ कर्षण।यन्त्र।उपकरण।बलीवर्दैश् च-एषाम् असङ्गं कारयेत्, कारुभिश् च कर्मार।कुट्टाक।मेदक।रज्जु।वर्तक।सर्प।ग्राह।आदिभिश् च । ३ ।
 
-KAZ02.24.04 teṣāṃ karma.phala.vinipāte tat.phala.hānaṃ daṇḍaḥ | 4 |
+कज़्०२।२४।०४ तेषां कर्म।फल।विनिपाते तत्।फल।हानं दण्डः । ४ ।
 
-KAZ02.24.05 ṣoḍaśa.droṇaṃ jāṅgalānāṃ varṣa.pramāṇam, adhyardham ānūpānāṃ deśa.vāpānām, ardha.trayodaśa-aśmakānām, trayoviṃśatir avantīnām, amitam apara.antānāṃ haimanyānāṃ ca, kulyā.āvāpānāṃ ca kālataḥ | 5 |
+कज़्०२।२४।०५ षोडश।द्रोणं जाङ्गलानां वर्ष।प्रमाणम्, अध्यर्धम् आनूपानां देश।वापानाम्, अर्ध।त्रयोदश-अश्मकानाम्, त्रयोविंशतिर् अवन्तीनाम्, अमितम् अपर।अन्तानां हैमन्यानां च, कुल्या।आवापानां च कालतः । ५ ।
 
-KAZ02.24.06 varṣa.tri.bhāgaḥ pūrva.paścima.māsayoḥ, dvau tri.bhāgau madhyamayoḥ - suṣamā.rūpam | 6 |
+कज़्०२।२४।०६ वर्ष।त्रि।भागः पूर्व।पश्चिम।मासयोः, द्वौ त्रि।भागौ मध्यमयोः - सुषमा।रूपम् । ६ ।
 
-KAZ02.24.07 tasya-upaladhir bṛhaspateḥ sthāna.gamana.garbha.ādhānebhyaḥ śukra.udaya.astamaya.cārebhyaḥ sūryasya prakṛti.vaikṛtāc ca | 7 |
+कज़्०२।२४।०७ तस्य-उपलधिर् बृहस्पतेः स्थान।गमन।गर्भ।आधानेभ्यः शुक्र।उदय।अस्तमय।चारेभ्यः सूर्यस्य प्रकृति।वैकृताच् च । ७ ।
 
-KAZ02.24.08 sūryād bīja.siddhiḥ, bṛhaspateḥ sasyānāṃ stamba.kāritā, śukrād vṛṣṭiḥ | iti | 8 |
+कज़्०२।२४।०८ सूर्याद् बीज।सिद्धिः, बृहस्पतेः सस्यानां स्तम्ब।कारिता, शुक्राद् वृष्टिः । इति । ८ ।
 
-KAZ02.24.09ab trayaḥ sapta.ahikā meghā aśītiḥ kaṇa.śīkarāḥ |  
-KAZ02.24.09cd ṣaṣṭir ātapa.meghānām eṣā vṛṣṭiḥ samā hitā || 9 ||  
-
-
-KAZ02.24.10ab vātam ātapa.yogaṃ ca vibhajan yatra varṣati |  
-KAZ02.24.10cd trīn karīṣāṃś ca janayaṃs tatra sasya.āgamo dhruvaḥ || 10 ||  
+कज़्०२।२४।०९अब् त्रयः सप्त।अहिका मेघा अशीतिः कण।शीकराः ।  
+कज़्०२।२४।०९च्द् षष्टिर् आतप।मेघानाम् एषा वृष्टिः समा हिता ॥ ९ ॥  
 
 
-KAZ02.24.11 tataḥ prabhūta.udakam alpa.udakaṃ vā sasyaṃ vāpayet | 11 |
-
-KAZ02.24.12 śāli.vrīhi.kodrava.tila.priyaṅgu.udāraka.varakāḥ pūrva.vāpāḥ | 12 |
-
-KAZ02.24.13 mudga.māṣa.śaimbyā madhya.vāpāḥ | 13 |
-
-KAZ02.24.14 kusumbha.masūra.kulattha.yava.go.dhūma.kalāya.atasī.sarṣapāḥ paścād.vāpāḥ | 14 |
-
-KAZ02.24.15 yathā.ṛtu.vaśena vā bīja.vāpāḥ | 15 |
-
-KAZO2.24.16 vāpa.atiriktam ardha.sītikāḥ kuryuḥ, sva.vīrya.upajīvino vā catur.tha.pañca.bhāgikāḥ | 16 |
-
-KAZU2.24.17 yathā-iṣṭam anavasita.bhāgaṃ dadyuḥ, anyatra kṛcchrebhyaḥ | 17 |
-
-KAZU2.24.18 sva.setubhyo hasta.prāvartimam udaka.bhāgaṃ pañcamaṃ dadyuḥ, skandha.prāvartimaṃ caturtham, sroto.yantra.prāvartimaṃ ca tṛtīyam, caturthaṃ nadī.saras.taṭāka.kūpa.uddhāṭam | 18 |
-
-KAZU2.24.19 karma.udaka.pramāṇena kaidāraṃ haimanaṃ graiṣmikaṃ vā sasyaṃ sthāpayet | 19 |
-
-KAZU2.24.20 śāly.ādi jyeṣṭham, ṣaṇḍo madhyamaḥ, ikṣuḥ pratyavaraḥ | 20 |
-
-KAZ02.24.21 ikṣavo hi bahv.ābādhā vyaya.grāhiṇaś ca | 21 |
-
-KAZ02.24.22 phena.āghāto vallī.phalānām, parīvāha.antāḥ pippalī.mṛdvīka.ikṣūṇām, kūpa.paryantāḥ śāka.mūlānām, haraṇī.paryantā haritakānām, pālyo lavānāṃ gandha.bhaiṣajya.uśīra.hrībera.piṇḍāluka.ādīnām | 22 |
-
-KAZ02.24.23 yathā.svaṃ bhūmiṣu ca sthālyāś ca-ānūpyāś ca-oṣadhīḥ sthāpayet | 23 |
-
-KAZ02.24.24 tuṣāra.pāyana.muṣṇa.śoṣaṇaṃ ca-ā.sapta.rātrād iti dhānya.bījānām, tri.rātraṃ vā pañca.rātraṃ vā kośī.dhānyānām, madhu.ghṛta.sūkara.vasābhiḥ śakṛd.yuktābhiḥ kāṇḍa.bījānāṃ cheda.lepo, madhu.ghṛtena kandānām, asthi.bījānāṃ śakṛd.ālepaḥ, śākhināṃ garta.dāho go.asthi.śakṛdbhiḥ kāle dauhrdaṃ ca | 24 |
-
-KAZ02.24.25 prarūḍhāṃś ca-aśuṣka.kaṭu.matsyāṃś ca snuhi.kṣīreṇa pāyayet | 25 |
-
-KAZ02.24.26ab kārpāsa.sāraṃ nirmokaṃ sarpasya ca samāharet |  
-KAZ02.24.26cd na sarpās tatra tiṣṭhanti dhūmo yatra-eṣa tiṣṭhati || 26 ||  
+कज़्०२।२४।१०अब् वातम् आतप।योगं च विभजन् यत्र वर्षति ।  
+कज़्०२।२४।१०च्द् त्रीन् करीषांश् च जनयंस् तत्र सस्य।आगमो ध्रुवः ॥ १० ॥  
 
 
-KAZ02.24.27 sarva.jījānāṃ tu prathama.vāpe suvarṇa.udaka.samplutāṃ pūrva.muṣṭiṃ vāpayed, amuṃ ca mantraṃ  brūyāt - " prajāpataye kāśyapāya devāya ca namaḥ sadā | sītā me ṛdhyatāṃ devī bījeṣu ca dhaneṣu ca | 27 |
+कज़्०२।२४।११ ततः प्रभूत।उदकम् अल्प।उदकं वा सस्यं वापयेत् । ११ ।
 
-KAZ02.24.28 ṣaṇḍa.vāṭa.go.pālaka.dāsa.karma.karebhyo yathā.puruṣa.parivāpaṃ bhaktaṃ kuryāt, sa-pāda.paṇikaṃ ca māsaṃ dadyāt | 28 |
+कज़्०२।२४।१२ शालि।व्रीहि।कोद्रव।तिल।प्रियङ्गु।उदारक।वरकाः पूर्व।वापाः । १२ ।
 
-KAZ02.24.29 karma.anurūpaṃ kārubhyo bhakta.vetanam | 29 |
+कज़्०२।२४।१३ मुद्ग।माष।शैम्ब्या मध्य।वापाः । १३ ।
 
-KAZ02.24.30 praśīrṇaṃ ca puṣpa.phalaṃ deva.kārya.arthaṃ vrīhi.yavam āgrayaṇa.arthaṃ śrotriyās tapasvinaś ca-āhareyuḥ, rāśi.mūlam uñcha.vṛttayaḥ | 30 |
+कज़्०२।२४।१४ कुसुम्भ।मसूर।कुलत्थ।यव।गो।धूम।कलाय।अतसी।सर्षपाः पश्चाद्।वापाः । १४ ।
 
-KAZ02.24.31ab yathā.kālaṃ ca sasya.ādi jātaṃ jātaṃ praveśayet |  
-KAZ02.24.31cd na kṣetre sthāpayet kiñcit palālam api paṇḍitaḥ || 31 ||  
+कज़्०२।२४।१५ यथा।ऋतु।वशेन वा बीज।वापाः । १५ ।
+
+कज़ो२।२४।१६ वाप।अतिरिक्तम् अर्ध।सीतिकाः कुर्युः, स्व।वीर्य।उपजीविनो वा चतुर्।थ।पञ्च।भागिकाः । १६ ।
+
+कज़ु२।२४।१७ यथा-इष्टम् अनवसित।भागं दद्युः, अन्यत्र कृच्छ्रेभ्यः । १७ ।
+
+कज़ु२।२४।१८ स्व।सेतुभ्यो हस्त।प्रावर्तिमम् उदक।भागं पञ्चमं दद्युः, स्कन्ध।प्रावर्तिमं चतुर्थम्, स्रोतो।यन्त्र।प्रावर्तिमं च तृतीयम्, चतुर्थं नदी।सरस्।तटाक।कूप।उद्धाटम् । १८ ।
+
+कज़ु२।२४।१९ कर्म।उदक।प्रमाणेन कैदारं हैमनं ग्रैष्मिकं वा सस्यं स्थापयेत् । १९ ।
+
+कज़ु२।२४।२० शाल्य्।आदि ज्येष्ठम्, षण्डो मध्यमः, इक्षुः प्रत्यवरः । २० ।
+
+कज़्०२।२४।२१ इक्षवो हि बह्व्।आबाधा व्यय।ग्राहिणश् च । २१ ।
+
+कज़्०२।२४।२२ फेन।आघातो वल्ली।फलानाम्, परीवाह।अन्ताः पिप्पली।मृद्वीक।इक्षूणाम्, कूप।पर्यन्ताः शाक।मूलानाम्, हरणी।पर्यन्ता हरितकानाम्, पाल्यो लवानां गन्ध।भैषज्य।उशीर।ह्रीबेर।पिण्डालुक।आदीनाम् । २२ ।
+
+कज़्०२।२४।२३ यथा।स्वं भूमिषु च स्थाल्याश् च-आनूप्याश् च-ओषधीः स्थापयेत् । २३ ।
+
+कज़्०२।२४।२४ तुषार।पायन।मुष्ण।शोषणं च-आ।सप्त।रात्राद् इति धान्य।बीजानाम्, त्रि।रात्रं वा पञ्च।रात्रं वा कोशी।धान्यानाम्, मधु।घृत।सूकर।वसाभिः शकृद्।युक्ताभिः काण्ड।बीजानां छेद।लेपो, मधु।घृतेन कन्दानाम्, अस्थि।बीजानां शकृद्।आलेपः, शाखिनां गर्त।दाहो गो।अस्थि।शकृद्भिः काले दौह्र्दं च । २४ ।
+
+कज़्०२।२४।२५ प्ररूढांश् च-अशुष्क।कटु।मत्स्यांश् च स्नुहि।क्षीरेण पाययेत् । २५ ।
+
+कज़्०२।२४।२६अब् कार्पास।सारं निर्मोकं सर्पस्य च समाहरेत् ।  
+कज़्०२।२४।२६च्द् न सर्पास् तत्र तिष्ठन्ति धूमो यत्र-एष तिष्ठति ॥ २६ ॥  
 
 
-KAZ02.24.32ab prākārāṇāṃ samucchrayān valabhīr vā tathā.vidhāḥ |  
-KAZ02.24.32cd na saṃhatāni kurvīta na tucchāni śirāṃsi ca || 32 ||  
+कज़्०२।२४।२७ सर्व।जीजानां तु प्रथम।वापे सुवर्ण।उदक।सम्प्लुतां पूर्व।मुष्टिं वापयेद्, अमुं च मन्त्रं  ब्रूयात् - " प्रजापतये काश्यपाय देवाय च नमः सदा । सीता मे ऋध्यतां देवी बीजेषु च धनेषु च । २७ ।
+
+कज़्०२।२४।२८ षण्ड।वाट।गो।पालक।दास।कर्म।करेभ्यो यथा।पुरुष।परिवापं भक्तं कुर्यात्, स-पाद।पणिकं च मासं दद्यात् । २८ ।
+
+कज़्०२।२४।२९ कर्म।अनुरूपं कारुभ्यो भक्त।वेतनम् । २९ ।
+
+कज़्०२।२४।३० प्रशीर्णं च पुष्प।फलं देव।कार्य।अर्थं व्रीहि।यवम् आग्रयण।अर्थं श्रोत्रियास् तपस्विनश् च-आहरेयुः, राशि।मूलम् उञ्छ।वृत्तयः । ३० ।
+
+कज़्०२।२४।३१अब् यथा।कालं च सस्य।आदि जातं जातं प्रवेशयेत् ।  
+कज़्०२।२४।३१च्द् न क्षेत्रे स्थापयेत् किञ्चित् पलालम् अपि पण्डितः ॥ ३१ ॥  
 
 
-KAZ02.24.33ab khalasya prakarān kuryān maṇḍala.ante samāśritān |  
-KAZ02.24.33cd anagnikāḥ sa-udakāś ca khale syuḥ parikarmiṇaḥ || 33 ||  
+कज़्०२।२४।३२अब् प्राकाराणां समुच्छ्रयान् वलभीर् वा तथा।विधाः ।  
+कज़्०२।२४।३२च्द् न संहतानि कुर्वीत न तुच्छानि शिरांसि च ॥ ३२ ॥  
+
+
+कज़्०२।२४।३३अब् खलस्य प्रकरान् कुर्यान् मण्डल।अन्ते समाश्रितान् ।  
+कज़्०२।२४।३३च्द् अनग्निकाः स-उदकाश् च खले स्युः परिकर्मिणः ॥ ३३ ॥  
 
 
  छप्तेर् २५ (सेच्तिओन् ४२): थे चोन्त्रोल्लेर् ओड़् स्पिरितुओउस् लिक़ुओर्स्
@@ -3352,36 +3351,36 @@ KAZ02.24.33cd anagnikāḥ sa-udakāś ca khale syuḥ parikarmiṇaḥ || 33 ||
 कज़्०२।२५।४०च्द् तथा वैधरणं कुर्याद् उचितं च-अनुवर्तयेत् ॥ ४० ॥  
 
 
- Chapter 26 (Section 43): The Supervisor of Animal Slaughter
- \[K tr. 180\] ,  \[K2 tr. 157\] 
-KAZ02.26.01 sūnā.adhyakṣaḥ pradiṣṭa.abhayānām abhaya.vana.vāsināṃ ca mṛga.paśu.pakṣi.matsyānāṃ bandha.vadha.hiṃsāyām uttamaṃ daṇḍaṃ kārayet, kuṭumbinām abhaya.vana.parigraheṣu madhyamam | 1 |
+ छप्तेर् २६ (सेच्तिओन् ४३): थे सुपेर्विसोर् ओड़् अनिमल् स्लौघ्तेर्
+ \[क् त्र्। १८०\] ,  \[क्२ त्र्। १५७\] 
+कज़्०२।२६।०१ सूना।अध्यक्षः प्रदिष्ट।अभयानाम् अभय।वन।वासिनां च मृग।पशु।पक्षि।मत्स्यानां बन्ध।वध।हिंसायाम् उत्तमं दण्डं कारयेत्, कुटुम्बिनाम् अभय।वन।परिग्रहेषु मध्यमम् । १ ।
 
-KAZ02.26.02 apravṛtta.vadhānāṃ matsya.pakṣiṇāṃ bandha.vadha.hiṃsāyāṃ pāda.ūna.sapta.viṃśati.paṇam atyayaṃ kuryāt, mṛga.paśūnāṃ dvi.guṇam | 2 |
+कज़्०२।२६।०२ अप्रवृत्त।वधानां मत्स्य।पक्षिणां बन्ध।वध।हिंसायां पाद।ऊन।सप्त।विंशति।पणम् अत्ययं कुर्यात्, मृग।पशूनां द्वि।गुणम् । २ ।
 
-KAZ02.26.03 pravṛtta.hiṃsānām aparigṛhītānāṃ ṣaḍ.bhāgaṃ gṛhṇīyāt, matsya.pakṣiṇāṃ daśa.bhāgaṃ vā-adhikam, mṛga.paśūnāṃ śulkaṃ vā-adhikam | 3 |
+कज़्०२।२६।०३ प्रवृत्त।हिंसानाम् अपरिगृहीतानां षड्।भागं गृह्णीयात्, मत्स्य।पक्षिणां दश।भागं वा-अधिकम्, मृग।पशूनां शुल्कं वा-अधिकम् । ३ ।
 
-KAZ02.26.04 pakṣi.mṛgāṇāṃ jīvat ṣaḍ.bhāgam abhaya.vaneṣu pramuñcet | 4 |
+कज़्०२।२६।०४ पक्षि।मृगाणां जीवत् षड्।भागम् अभय।वनेषु प्रमुञ्चेत् । ४ ।
 
-KAZ02.26.05 sāmudra.hasty.aśva.puruṣa.vṛṣa.gardabha.ākṛtayo matsyāḥ sārasā na-ādeyās taṭāka.kulyā.udbhavā vā krauñca.utkrośaka.dātyūha.haṃsa.cakravāka.jīvan.jīvaka.bhṛṅga.- rāja.cakora.matta.kokila.mayūra.śuka.madana.śārikā vihāra.pakṣiṇo maṅgalyāś ca-anye 'pi prāṇinaḥ pakṣi.mṛgā hiṃsā.bādhebhyo rakṣyāḥ | 5 |
+कज़्०२।२६।०५ सामुद्र।हस्त्य्।अश्व।पुरुष।वृष।गर्दभ।आकृतयो मत्स्याः सारसा न-आदेयास् तटाक।कुल्या।उद्भवा वा क्रौञ्च।उत्क्रोशक।दात्यूह।हंस।चक्रवाक।जीवन्।जीवक।भृङ्ग।- राज।चकोर।मत्त।कोकिल।मयूर।शुक।मदन।शारिका विहार।पक्षिणो मङ्गल्याश् च-अन्ये ऽपि प्राणिनः पक्षि।मृगा हिंसा।बाधेभ्यो रक्ष्याः । ५ ।
 
-KAZ02.26.06 rakṣā.atikrame pūrvaḥ sāhasa.daṇḍaḥ | 6 |
+कज़्०२।२६।०६ रक्षा।अतिक्रमे पूर्वः साहस।दण्डः । ६ ।
 
-KAZ02.26.07 mṛga.paśūnām anasthi.māṃsaṃ sadyo.hataṃ vikrīṇīran | 7 |
+कज़्०२।२६।०७ मृग।पशूनाम् अनस्थि।मांसं सद्यो।हतं विक्रीणीरन् । ७ ।
 
-KAZ02.26.08 asthimataḥ pratipātaṃ dadyuḥ | 8 |
+कज़्०२।२६।०८ अस्थिमतः प्रतिपातं दद्युः । ८ ।
 
-KAZ02.26.09 tulā.hīne hīna.aṣṭa.guṇam | 9 |
+कज़्०२।२६।०९ तुला।हीने हीन।अष्ट।गुणम् । ९ ।
 
-KAZ02.26.10 vatso vṛṣo dhenuś ca-eṣām avadhyāḥ | 10 |
+कज़्०२।२६।१० वत्सो वृषो धेनुश् च-एषाम् अवध्याः । १० ।
 
-KAZ02.26.11 ghnataḥ pañcāśatko daṇḍaḥ, kliṣṭa.ghātaṃ ghātayataś ca | 11 |
+कज़्०२।२६।११ घ्नतः पञ्चाशत्को दण्डः, क्लिष्ट।घातं घातयतश् च । ११ ।
 
-KAZ02.26.12 pariśūnam aśiraḥ.pāda.asthi vigandhaṃ svayaṃ.mṛtaṃ ca na vikrīṇīran | 12 |
+कज़्०२।२६।१२ परिशूनम् अशिरः।पाद।अस्थि विगन्धं स्वयं।मृतं च न विक्रीणीरन् । १२ ।
 
-KAZ02.26.13 anyathā dvādaśa.paṇo daṇḍaḥ | 13 |
+कज़्०२।२६।१३ अन्यथा द्वादश।पणो दण्डः । १३ ।
 
-KAZ02.26.14ab duṣṭāḥ paśu.mṛga.vyālā matsyaś ca-abhaya.cāriṇaḥ |  
-KAZ02.26.14cd anyatra gupti.sthānebhyo vadha.bandham avāpnuyuḥ || 14 ||  
+कज़्०२।२६।१४अब् दुष्टाः पशु।मृग।व्याला मत्स्यश् च-अभय।चारिणः ।  
+कज़्०२।२६।१४च्द् अन्यत्र गुप्ति।स्थानेभ्यो वध।बन्धम् अवाप्नुयुः ॥ १४ ॥  
 
 
  छप्तेर् २७ (सेच्तिओन् ४४): थे सुपेरिन्तेन्देन्त् ओड़् चोउर्तेसन्स्
@@ -3448,62 +3447,62 @@ KAZ02.26.14cd anyatra gupti.sthānebhyo vadha.bandham avāpnuyuḥ || 14 ||
 कज़्०२।२७।३०च्द् चार।घात।प्रमाद।अर्थं प्रयोज्या बन्धु।वाहनाः ॥ ३० ॥  
 
 
- Chapter 28 (Section 45): The Controller of Shipping
- \[K tr. 186\] ,  \[K2 tr. 162\] 
-KAZ02.28.01 nāv.adhyakṣaḥ samudra.samyāna.nadī.mukhatara.pracārān deva.saro.visaro.nadī.tarāṃś ca sthānīya.ādiṣv avekṣeta | 1 |
+ छप्तेर् २८ (सेच्तिओन् ४५): थे चोन्त्रोल्लेर् ओड़् स्हिप्पिन्ग्
+ \[क् त्र्। १८६\] ,  \[क्२ त्र्। १६२\] 
+कज़्०२।२८।०१ नाव्।अध्यक्षः समुद्र।सम्यान।नदी।मुखतर।प्रचारान् देव।सरो।विसरो।नदी।तरांश् च स्थानीय।आदिष्व् अवेक्षेत । १ ।
 
-KAZ02.28.02 tad.velā.kūla.grāmāḥ klṛptaṃ dadyuḥ | 2 |
+कज़्०२।२८।०२ तद्।वेला।कूल।ग्रामाः क्लृप्तं दद्युः । २ ।
 
-KAZ02.28.03 matsya.bandhakā naukā.bhāṭakaṃ ṣaḍ.bhāgaṃ dadyuḥ | 3 |
+कज़्०२।२८।०३ मत्स्य।बन्धका नौका।भाटकं षड्।भागं दद्युः । ३ ।
 
-KAZ02.28.04 pattana.anuvṛttaṃ śulka.bhāgaṃ vaṇijo dadyuḥ, yātrā.vetanaṃ rāja.naubhiḥ sampatantaḥ | 4 |
+कज़्०२।२८।०४ पत्तन।अनुवृत्तं शुल्क।भागं वणिजो दद्युः, यात्रा।वेतनं राज।नौभिः सम्पतन्तः । ४ ।
 
-KAZ02.28.05 śaṅkha.muktā.grāhiṇo nau.bhāṭakaṃ dadyuḥ, sva.naubhir vā tareyuḥ | 5 |
+कज़्०२।२८।०५ शङ्ख।मुक्ता।ग्राहिणो नौ।भाटकं दद्युः, स्व।नौभिर् वा तरेयुः । ५ ।
 
-KAZ02.28.06 adhyakṣaś ca-eṣāṃ khany.adhyakṣeṇa vyākhyātaḥ | 6 |
+कज़्०२।२८।०६ अध्यक्षश् च-एषां खन्य्।अध्यक्षेण व्याख्यातः । ६ ।
 
-KAZ02.28.07 pattana.adhyakṣa.nibaddhaṃ paṇya.pattana.cāritraṃ nāv.adhyakṣaḥ pālayet | 7 |
+कज़्०२।२८।०७ पत्तन।अध्यक्ष।निबद्धं पण्य।पत्तन।चारित्रं नाव्।अध्यक्षः पालयेत् । ७ ।
 
-KAZ02.28.08 mūḍha.vāta.āhatā nāvaḥ pitā-iva-anugṛhṇīyāt | 8 |
+कज़्०२।२८।०८ मूढ।वात।आहता नावः पिता-इव-अनुगृह्णीयात् । ८ ।
 
-KAZ02.28.09 udaka.prāptaṃ paṇyam aśulkam ardha.śulkaṃ vā kuryāt | 9 |
+कज़्०२।२८।०९ उदक।प्राप्तं पण्यम् अशुल्कम् अर्ध।शुल्कं वा कुर्यात् । ९ ।
 
-KAZ02.28.10 yathā.nirdiṣṭāś ca-etāḥ paṇya.pattana.yātrā.kāleṣu preṣayet | 10 |
+कज़्०२।२८।१० यथा।निर्दिष्टाश् च-एताः पण्य।पत्तन।यात्रा।कालेषु प्रेषयेत् । १० ।
 
-KAZ02.28.11 samyātīr nāvaḥ kṣetra.anugatāḥ śulkaṃ yācet | 11 |
+कज़्०२।२८।११ सम्यातीर् नावः क्षेत्र।अनुगताः शुल्कं याचेत् । ११ ।
 
-KAZ02.28.12 hiṃsrikā nirghātayet, amitra.viṣaya.atigāḥ paṇya.pattana.cāritra.upaghātikāś ca | 12 |
+कज़्०२।२८।१२ हिंस्रिका निर्घातयेत्, अमित्र।विषय।अतिगाः पण्य।पत्तन।चारित्र।उपघातिकाश् च । १२ ।
 
-KAZ02.28.13 śāsaka.niryāmaka.dātra..raśmi.grāhaka.utsecaka.adhiṣṭhitāś ca mahā.nāvo hemanta.grīṣma.tāryāsu mahā.nadīṣu prayojayet, kṣudrikāḥ kṣudrikāsu varṣā.srāviṇīṣu | 13 |
+कज़्०२।२८।१३ शासक।निर्यामक।दात्र॥रश्मि।ग्राहक।उत्सेचक।अधिष्ठिताश् च महा।नावो हेमन्त।ग्रीष्म।तार्यासु महा।नदीषु प्रयोजयेत्, क्षुद्रिकाः क्षुद्रिकासु वर्षा।स्राविणीषु । १३ ।
 
-KAZ02.28.14 bādha.tīrthāś ca-etāḥ kāryā rāja.dviṣṭa.kāriṇāṃ taraṇa.bhayāt | 14 |
+कज़्०२।२८।१४ बाध।तीर्थाश् च-एताः कार्या राज।द्विष्ट।कारिणां तरण।भयात् । १४ ।
 
-KAZ02.28.15 akāle 'tīrthe ca tarataḥ pūrvaḥ sāhasa.daṇḍaḥ | 15 |
+कज़्०२।२८।१५ अकाले ऽतीर्थे च तरतः पूर्वः साहस।दण्डः । १५ ।
 
-KAZ02.28.16 kāle tīrthe ca-aniṣṛṣṭa.tāriṇaḥ pāda.ūna.sapta.viṃśati.paṇas tara.atyayaḥ | 16 |
+कज़्०२।२८।१६ काले तीर्थे च-अनिषृष्ट।तारिणः पाद।ऊन।सप्त।विंशति।पणस् तर।अत्ययः । १६ ।
 
-KAZ02.28.17 kaivartaka.aṣṭa.tṛṇa.bhāra.puṣpa.phala.vāṭa.ṣaṇḍa.go.pālakānām anatyayaḥ, sambhāvya.dūta.anupātināṃ ca senā.bhāṇḍa.prayogāṇāṃ ca sva.taraṇais taratām, bīja.bhakta.dravya.upaskarāṃś ca-ānūpa.grāmāṇāṃ tārayatām | 17 |
+कज़्०२।२८।१७ कैवर्तक।अष्ट।तृण।भार।पुष्प।फल।वाट।षण्ड।गो।पालकानाम् अनत्ययः, सम्भाव्य।दूत।अनुपातिनां च सेना।भाण्ड।प्रयोगाणां च स्व।तरणैस् तरताम्, बीज।भक्त।द्रव्य।उपस्करांश् च-आनूप।ग्रामाणां तारयताम् । १७ ।
 
-KAZ02.28.18 brāhmaṇa.pravrajita.bāla.vṛddha.vyādhita.śāsana.hara.garbhiṇyo nāv.adhyakṣa.mudrābhis tareyuḥ | 18 |
+कज़्०२।२८।१८ ब्राह्मण।प्रव्रजित।बाल।वृद्ध।व्याधित।शासन।हर।गर्भिण्यो नाव्।अध्यक्ष।मुद्राभिस् तरेयुः । १८ ।
 
-KAZ02.28.19 kṛta.praveśāḥ pāraviṣayikāḥ sārtha.pramāṇā vā praviśeyuḥ | 19 |
+कज़्०२।२८।१९ कृत।प्रवेशाः पारविषयिकाः सार्थ।प्रमाणा वा प्रविशेयुः । १९ ।
 
-KAZ02.28.20 parasya bhāryāṃ kanyāṃ vittaṃ vā-apaharantaṃ śavittaṃ vā-apaharantaṃ śaṅkitam āvignam udbhāṇḍī.kṛtaṃ mahā.bhāṇḍena mūrdhni bhāreṇa-avacchādayantaṃ sadyo.gṛhīta.liṅginam aliṅginaṃ vā pravrajitam alakṣya.vyādhitaṃ bhaya.vikāriṇaṃ gūḍha.sāra.bhāṇḍa.śāsana.śastra.agniyogaṃ viṣa.hastaṃ dīrgha.pathikam amudraṃ ca-upagrāhayet | 20 |
+कज़्०२।२८।२० परस्य भार्यां कन्यां वित्तं वा-अपहरन्तं शवित्तं वा-अपहरन्तं शङ्कितम् आविग्नम् उद्भाण्डी।कृतं महा।भाण्डेन मूर्ध्नि भारेण-अवच्छादयन्तं सद्यो।गृहीत।लिङ्गिनम् अलिङ्गिनं वा प्रव्रजितम् अलक्ष्य।व्याधितं भय।विकारिणं गूढ।सार।भाण्ड।शासन।शस्त्र।अग्नियोगं विष।हस्तं दीर्घ।पथिकम् अमुद्रं च-उपग्राहयेत् । २० ।
 
-KAZ02.28.21 kṣudra.paśur manuṣyaś ca sa.bhāro māṣakaṃ dadyāt, śiro.bhāraḥ kāya.bhāro gava-aśvaṃ ca dvau, uṣṭra.mahiṣaṃ caturaḥ, pañca labhuyānam, ṣaḍ goliṅgam, sapta śakaṭam, panya.bhāraḥ pādam | 21 |
+कज़्०२।२८।२१ क्षुद्र।पशुर् मनुष्यश् च स।भारो माषकं दद्यात्, शिरो।भारः काय।भारो गव-अश्वं च द्वौ, उष्ट्र।महिषं चतुरः, पञ्च लभुयानम्, षड् गोलिङ्गम्, सप्त शकटम्, पन्य।भारः पादम् । २१ ।
 
-KAZ02.28.22 tena bhāṇḍa.bhāro vyākhyātaḥ | 22 |
+कज़्०२।२८।२२ तेन भाण्ड।भारो व्याख्यातः । २२ ।
 
-KAZ02.28.23 dvi.guṇo mahā.nadīṣu taraḥ | 23 |
+कज़्०२।२८।२३ द्वि।गुणो महा।नदीषु तरः । २३ ।
 
-KAZ02.28.24 klṛptam ānūpa.grāmā bhakta.vetanaṃ dadyuḥ | 24 |
+कज़्०२।२८।२४ क्लृप्तम् आनूप।ग्रामा भक्त।वेतनं दद्युः । २४ ।
 
-KAZ02.28.25 pratyanteṣu tarāḥ śulkam ātivāhikaṃ vartanīṃ ca gṛhṇīyuḥ, nirgacchataś ca-amudra.dravyasya bhāṇḍaṃ hareyuḥ, atibhāreṇa-avelāyām atirthe tarataś ca | 25 |
+कज़्०२।२८।२५ प्रत्यन्तेषु तराः शुल्कम् आतिवाहिकं वर्तनीं च गृह्णीयुः, निर्गच्छतश् च-अमुद्र।द्रव्यस्य भाण्डं हरेयुः, अतिभारेण-अवेलायाम् अतिर्थे तरतश् च । २५ ।
 
-KAZ02.28.26 puruṣa.upakaraṇa.hīnāyām asaṃskṛtāyāṃ vā nāvi vipannāyāṃ nāv.adhhyakṣo naṣṭaṃ vinaṣṭaṃ vā-abhyāvahet | 26 |
+कज़्०२।२८।२६ पुरुष।उपकरण।हीनायाम् असंस्कृतायां वा नावि विपन्नायां नाव्।अध्ह्यक्षो नष्टं विनष्टं वा-अभ्यावहेत् । २६ ।
 
-KAZ02.28.27ab sapta.aha.vṛttām āṣāḍhīṃ kārttikīṃ ca-antarā taraḥ |  
-KAZ02.28.27cd kārmikaḥ pratyayaṃ dadyān nityaṃ ca-āhnikam āvahet || 27 ||  
+कज़्०२।२८।२७अब् सप्त।अह।वृत्ताम् आषाढीं कार्त्तिकीं च-अन्तरा तरः ।  
+कज़्०२।२८।२७च्द् कार्मिकः प्रत्ययं दद्यान् नित्यं च-आह्निकम् आवहेत् ॥ २७ ॥  
 
 
  छप्तेर् २९ (सेच्तिओन् ४६): थे सुपेरिन्तेन्देन्त् ओड़् चत्त्ले
@@ -3606,112 +3605,112 @@ KAZ02.28.27cd kārmikaḥ pratyayaṃ dadyān nityaṃ ca-āhnikam āvahet || 27
 कज़्०२।२९।४८च्द् शत्यं गो।महिष।उष्ट्राणां यूथं कुर्याच् चतुर्।वृषम् ॥ ४८ ॥  
 
 
- Chapter 30 (Section 47): The Superintendent of Horses
- \[K tr. 196\] ,  \[K2 tr. 170\] 
-KAZ02.30.01 aśva.adhyakṣaḥ paṇya.āgārikaṃ kraya.upāgatam āhava.labdham ājātaṃ sāhāyya.āgatakaṃ paṇa.sthitaṃ yāvat.kālikaṃ vā-aśva.paryagraṃ kula.vayo.varṇa.cihna.varga.āgamair lekhayet | 1 |
+ छप्तेर् ३० (सेच्तिओन् ४७): थे सुपेरिन्तेन्देन्त् ओड़् होर्सेस्
+ \[क् त्र्। १९६\] ,  \[क्२ त्र्। १७०\] 
+कज़्०२।३०।०१ अश्व।अध्यक्षः पण्य।आगारिकं क्रय।उपागतम् आहव।लब्धम् आजातं साहाय्य।आगतकं पण।स्थितं यावत्।कालिकं वा-अश्व।पर्यग्रं कुल।वयो।वर्ण।चिह्न।वर्ग।आगमैर् लेखयेत् । १ ।
 
-KAZ02.30.02 apraśasta.nyaṅga.vyādhitāṃś ca-āvedayet | 2 |
+कज़्०२।३०।०२ अप्रशस्त।न्यङ्ग।व्याधितांश् च-आवेदयेत् । २ ।
 
-KAZ02.30.03 kośa.koṣṭha.agārābhyāṃ ca gṛhītvā māsa.lābham aśva.vāhaś cintayet | 3 |
+कज़्०२।३०।०३ कोश।कोष्ठ।अगाराभ्यां च गृहीत्वा मास।लाभम् अश्व।वाहश् चिन्तयेत् । ३ ।
 
-KAZ02.30.04 aśva.vibhavena-āyatām aśvāyām advi.guṇa.vistārāṃ catur.dvāra.upāvartana.madhyāṃ sa-pragrīvāṃ pradvāra.āsana.phalaka.yuktānāṃ vānara.mayūra.pṛṣata.nakula.cakora.śuka.sārika.ākīrṇāṃ śālāṃ niveśayet | 4 |
+कज़्०२।३०।०४ अश्व।विभवेन-आयताम् अश्वायाम् अद्वि।गुण।विस्तारां चतुर्।द्वार।उपावर्तन।मध्यां स-प्रग्रीवां प्रद्वार।आसन।फलक।युक्तानां वानर।मयूर।पृषत।नकुल।चकोर।शुक।सारिक।आकीर्णां शालां निवेशयेत् । ४ ।
 
-KAZ02.30.05 aśvāyām acatur.aśra.ślakṣṇa.phalaka.āstāraṃ sa-khādana.koṣṭhakaṃ sa-mūtra.purīṣa.utsargam eka.ekaśaḥ prān.mukham udan.mukhaṃ vā sthānaṃ niveśayet | 5 |
+कज़्०२।३०।०५ अश्वायाम् अचतुर्।अश्र।श्लक्ष्ण।फलक।आस्तारं स-खादन।कोष्ठकं स-मूत्र।पुरीष।उत्सर्गम् एक।एकशः प्रान्।मुखम् उदन्।मुखं वा स्थानं निवेशयेत् । ५ ।
 
-KAZ02.30.06 śālā.vaśena vā dig.vibhāgaṃ kalpayet | 6 |
+कज़्०२।३०।०६ शाला।वशेन वा दिग्।विभागं कल्पयेत् । ६ ।
 
-KAZ02.30.07 vaḍavā.vṛṣa.kiśorāṇām eka.anteṣu | 7 |
+कज़्०२।३०।०७ वडवा।वृष।किशोराणाम् एक।अन्तेषु । ७ ।
 
-KAZ02.30.08 vaḍavāyāḥ prajatāyās tri.rātraṃ ghṛta.prasthaḥ pānam | 8 |
+कज़्०२।३०।०८ वडवायाः प्रजतायास् त्रि।रात्रं घृत।प्रस्थः पानम् । ८ ।
 
-KAZ02.30.09 ata ūrdhvaṃ saktu.prasthaḥ sneha.bhaiṣajya.pratipānaṃ daśa.rātram | 9 |
+कज़्०२।३०।०९ अत ऊर्ध्वं सक्तु।प्रस्थः स्नेह।भैषज्य।प्रतिपानं दश।रात्रम् । ९ ।
 
-KAZ02.30.10 tataḥ pulāko yavasam ārtavaś ca-āhāraḥ | 10 |
+कज़्०२।३०।१० ततः पुलाको यवसम् आर्तवश् च-आहारः । १० ।
 
-KAZ02.30.11 daśa.rātrād ūrdhvaṃ kiśorasya ghṛta.catur.bhāgaḥ saktu.kuḍubaḥ kṣīra.prasthaś ca-āhāra ā.ṣaṇ.māsāt | 11 |
+कज़्०२।३०।११ दश।रात्राद् ऊर्ध्वं किशोरस्य घृत।चतुर्।भागः सक्तु।कुडुबः क्षीर।प्रस्थश् च-आहार आ।षण्।मासात् । ११ ।
 
-KAZ02.30.12 tataḥ paraṃ māsa.uttaram ardha.vṛddhir yava.prastha ā.tri.varṣāt, droṇa ā.catur.varṣāt | 12 |
+कज़्०२।३०।१२ ततः परं मास।उत्तरम् अर्ध।वृद्धिर् यव।प्रस्थ आ।त्रि।वर्षात्, द्रोण आ।चतुर्।वर्षात् । १२ ।
 
-KAZ02.30.13 ata ūrdhvaṃ catur.varṣaḥ pañca.varṣo vā karmaṇyaḥ pūrṇa.pramāṇaḥ | 13 |
+कज़्०२।३०।१३ अत ऊर्ध्वं चतुर्।वर्षः पञ्च।वर्षो वा कर्मण्यः पूर्ण।प्रमाणः । १३ ।
 
-KAZ02.30.14 dvātriṃśad.aṅgulaṃ mukham uttama.aśvasya, pañca.mukhāny āyāmo, viṃśaty.aṅgulā jaṅghā, catur.jaṅgha utsedhaḥ | 14 |
+कज़्०२।३०।१४ द्वात्रिंशद्।अङ्गुलं मुखम् उत्तम।अश्वस्य, पञ्च।मुखान्य् आयामो, विंशत्य्।अङ्गुला जङ्घा, चतुर्।जङ्घ उत्सेधः । १४ ।
 
-KAZ02.30.15 try.aṅgula.avaraṃ madhyama.avarayoḥ | 15 |
+कज़्०२।३०।१५ त्र्य्।अङ्गुल।अवरं मध्यम।अवरयोः । १५ ।
 
-KAZ02.30.16 śata.aṅgulaḥ pariṇāhaḥ | 16 |
+कज़्०२।३०।१६ शत।अङ्गुलः परिणाहः । १६ ।
 
-KAZ02.30.17 pañca.bhāga.avaro madhyama.avarayoḥ | 17 |
+कज़्०२।३०।१७ पञ्च।भाग।अवरो मध्यम।अवरयोः । १७ ।
 
-KAZ02.30.18 uttama.aśvasya dvi.droṇaṃ śāli.vrīhi.yava.priyaṅgūṇām ardha.śuṣkam ardha.siddhaṃ vā mudga.māṣāṇāṃ vā pulākaḥ sneha.prasthaś ca, pañca.palaṃ lavaṇasya, māṃsaṃ pañcāśat.palikaṃ rasasya-āḍhakaṃ dvi.guṇaṃ vā dadhnaḥ piṇḍa.kledana.artham, kṣāra.pañca.palikaḥ surāyāḥ prasthaḥ payaso vā dvi.guṇaḥ pratipānam | 18 |
+कज़्०२।३०।१८ उत्तम।अश्वस्य द्वि।द्रोणं शालि।व्रीहि।यव।प्रियङ्गूणाम् अर्ध।शुष्कम् अर्ध।सिद्धं वा मुद्ग।माषाणां वा पुलाकः स्नेह।प्रस्थश् च, पञ्च।पलं लवणस्य, मांसं पञ्चाशत्।पलिकं रसस्य-आढकं द्वि।गुणं वा दध्नः पिण्ड।क्लेदन।अर्थम्, क्षार।पञ्च।पलिकः सुरायाः प्रस्थः पयसो वा द्वि।गुणः प्रतिपानम् । १८ ।
 
-KAZ02.30.19 dīrgha.patha.bhāra.klāntānāṃ ca khādana.arthaṃ sneha.prastho 'nuvāsanaṃ kuḍubo nasya.karmaṇaḥ, yavasasya-ardha.bhāras tṛṇasya dvi.guṇaḥ ṣaḍ.aratni.parikṣepaḥ puñjīla.graho vā | 19 |
+कज़्०२।३०।१९ दीर्घ।पथ।भार।क्लान्तानां च खादन।अर्थं स्नेह।प्रस्थो ऽनुवासनं कुडुबो नस्य।कर्मणः, यवसस्य-अर्ध।भारस् तृणस्य द्वि।गुणः षड्।अरत्नि।परिक्षेपः पुञ्जील।ग्रहो वा । १९ ।
 
-KAZ02.30.20 pāda.avaram etan madhyama.avarayoḥ | 20 |
+कज़्०२।३०।२० पाद।अवरम् एतन् मध्यम।अवरयोः । २० ।
 
-KAZ02.30.21 uttama.samo rathyo vṛṣaś ca madhyamaḥ | 21 |
+कज़्०२।३०।२१ उत्तम।समो रथ्यो वृषश् च मध्यमः । २१ ।
 
-KAZ02.30.22 madhyama.samaś ca-avaraḥ | 22 |
+कज़्०२।३०।२२ मध्यम।समश् च-अवरः । २२ ।
 
-KAZ02.30.23 pāda.hīnaṃ vaḍavānāṃ pāraśamānāṃ ca | 23 |
+कज़्०२।३०।२३ पाद।हीनं वडवानां पारशमानां च । २३ ।
 
-KAZ02.30.24 ato 'rdhaṃ kiśorāṇāṃ ca | 24 |
+कज़्०२।३०।२४ अतो ऽर्धं किशोराणां च । २४ ।
 
-KAZ02.30.25 iti vidhā.yogaḥ | 25 |
+कज़्०२।३०।२५ इति विधा।योगः । २५ ।
 
-KAZ02.30.26 vidhā.pācaka.sūtra.grāhaka.cikitsakāḥ pratisvāda.bhājaḥ | 26 |
+कज़्०२।३०।२६ विधा।पाचक।सूत्र।ग्राहक।चिकित्सकाः प्रतिस्वाद।भाजः । २६ ।
 
-KAZ02.30.27 yuddha.vyādhi.jarā.karma.kṣīṇāḥ piṇḍa.gocarikāḥ syuḥ | 27 |
+कज़्०२।३०।२७ युद्ध।व्याधि।जरा।कर्म।क्षीणाः पिण्ड।गोचरिकाः स्युः । २७ ।
 
-KAZ02.30.28 asamara.prayogyāḥ paura.jānapadānām arthena vṛṣā vaḍavāsv āyojyāḥ | 28 |
+कज़्०२।३०।२८ असमर।प्रयोग्याः पौर।जानपदानाम् अर्थेन वृषा वडवास्व् आयोज्याः । २८ ।
 
-KAZ02.30.29 prayogyānām uttamāḥ kāmboja.saindhava.āraṭṭa.vanāyujāḥ, madhyamā bāhlīka.pāpeyaka.sauvīraka.taitalāḥ, śeṣāḥ pratyavarāḥ | 29 |
+कज़्०२।३०।२९ प्रयोग्यानाम् उत्तमाः काम्बोज।सैन्धव।आरट्ट।वनायुजाः, मध्यमा बाह्लीक।पापेयक।सौवीरक।तैतलाः, शेषाः प्रत्यवराः । २९ ।
 
-KAZ02.30.30 teṣāṃ tīṣkṇa.bhadra.manda.vaśena sāmnāhyam aupavāhyakaṃ vā karma prayojayet | 30 |
+कज़्०२।३०।३० तेषां तीष्क्ण।भद्र।मन्द।वशेन साम्नाह्यम् औपवाह्यकं वा कर्म प्रयोजयेत् । ३० ।
 
-KAZ02.30.31 catur.aśraṃ karma.aśvasya sāmnāhyam | 31 |
+कज़्०२।३०।३१ चतुर्।अश्रं कर्म।अश्वस्य साम्नाह्यम् । ३१ ।
 
-KAZ02.30.32 valgano nīcair gato laṅghano ghoraṇo nāroṣṭraś ca-aupavāhyāḥ | 32 |
+कज़्०२।३०।३२ वल्गनो नीचैर् गतो लङ्घनो घोरणो नारोष्ट्रश् च-औपवाह्याः । ३२ ।
 
-KAZ02.30.33 tatra.aupaveṇuko vardhamānako yamaka ālīḍha.plutaḥ pṛthug.astrika.cālī ca valganaḥ | 33 |
+कज़्०२।३०।३३ तत्र।औपवेणुको वर्धमानको यमक आलीढ।प्लुतः पृथुग्।अस्त्रिक।चाली च वल्गनः । ३३ ।
 
-KAZ02.30.34 sa eva śiraḥ.karṇa.viśuddho nīcair gataḥ, ṣoḍaśa.mārgo vā | 34 |
+कज़्०२।३०।३४ स एव शिरः।कर्ण।विशुद्धो नीचैर् गतः, षोडश।मार्गो वा । ३४ ।
 
-KAZ02.30.35 prakīrṇakaḥ prakīrṇa.uttaro niṣaṇṇaḥ pārśva.anuvṛtta ūrmi.mārgaḥ śarabha.krīḍitaḥ śarabha.plutas tri.tālo bāhya.anuvṛttaḥ pañca.pāṇiḥ siṃha.āyataḥ svādhūtaḥ kliṣṭaḥ śliṅgito bṛṃhitaḥ puṣpa.abhikīrṇaś ca-iti nīcair gata.mārgaḥ | 35 |
+कज़्०२।३०।३५ प्रकीर्णकः प्रकीर्ण।उत्तरो निषण्णः पार्श्व।अनुवृत्त ऊर्मि।मार्गः शरभ।क्रीडितः शरभ।प्लुतस् त्रि।तालो बाह्य।अनुवृत्तः पञ्च।पाणिः सिंह।आयतः स्वाधूतः क्लिष्टः श्लिङ्गितो बृंहितः पुष्प।अभिकीर्णश् च-इति नीचैर् गत।मार्गः । ३५ ।
 
-KAZ02.30.36 kapi.pluto bheka.plut-eṇa.pluta-eka.pāda.plutaḥ kokila.sañcāry.urasyo baka.cārī ca laṅghanaḥ | 36 |
+कज़्०२।३०।३६ कपि।प्लुतो भेक।प्लुत्-एण।प्लुत-एक।पाद।प्लुतः कोकिल।सञ्चार्य्।उरस्यो बक।चारी च लङ्घनः । ३६ ।
 
-KAZ02.30.37 kāṅko vāri.kāṅko māyūro 'rdha.māyūro nākulo-rdha.nākulo vārāho 'rdha.vārāhaś ca-iti dhoraṇaḥ | 37 |
+कज़्०२।३०।३७ काङ्को वारि।काङ्को मायूरो ऽर्ध।मायूरो नाकुलो-र्ध।नाकुलो वाराहो ऽर्ध।वाराहश् च-इति धोरणः । ३७ ।
 
-KAZ02.30.38 sañjñā.pratikāro nāra.uṣṭra-iti | 38 |
+कज़्०२।३०।३८ सञ्ज्ञा।प्रतिकारो नार।उष्ट्र-इति । ३८ ।
 
-KAZ02.30.39 ṣaṇṇava dvādaśa-iti yojanāny dhvā rathyānām, pañca yojanāny ardha.aṣṭamāni daśa-iti pṛṣṭha.vāhinām aśvānām adhvā | 39 |
+कज़्०२।३०।३९ षण्णव द्वादश-इति योजनान्य् ध्वा रथ्यानाम्, पञ्च योजनान्य् अर्ध।अष्टमानि दश-इति पृष्ठ।वाहिनाम् अश्वानाम् अध्वा । ३९ ।
 
-KAZ02.30.40 vikramo bhadra.aśvāso bhāra.vāhya iti mārgāḥ | 40 |
+कज़्०२।३०।४० विक्रमो भद्र।अश्वासो भार।वाह्य इति मार्गाः । ४० ।
 
-KAZ02.30.41 vikramo valgitam upakaṇṭham upajavo javaś ca dhārāḥ | 41 |
+कज़्०२।३०।४१ विक्रमो वल्गितम् उपकण्ठम् उपजवो जवश् च धाराः । ४१ ।
 
-KAZ02.30.42 teṣāṃ bandhana.upakaraṇaṃ yogya.ācāryāḥ pratidiśeyuḥ, sāṅgrāmikaṃ ratha.aśva.alaṅkāraṃ ca sūtāḥ | 42 |
+कज़्०२।३०।४२ तेषां बन्धन।उपकरणं योग्य।आचार्याः प्रतिदिशेयुः, साङ्ग्रामिकं रथ।अश्व।अलङ्कारं च सूताः । ४२ ।
 
-KAZ02.30.43 aśvānāṃ cikitsakāḥ śarīra.hrāsa.vṛddhi.pratīkāram ṛtu.vibhaktaṃ ca-āhāram | 43 |
+कज़्०२।३०।४३ अश्वानां चिकित्सकाः शरीर।ह्रास।वृद्धि।प्रतीकारम् ऋतु।विभक्तं च-आहारम् । ४३ ।
 
-KAZ02.30.44 sūtra.grāhaka.aśva.bandhaka.yāvasika.vidhā.pācaka.sthāna.pāla.- keśa.kāra.jāṅgulīvidaś ca sva.karmabhir aśvān ārādhayeyuḥ | 44 |
+कज़्०२।३०।४४ सूत्र।ग्राहक।अश्व।बन्धक।यावसिक।विधा।पाचक।स्थान।पाल।- केश।कार।जाङ्गुलीविदश् च स्व।कर्मभिर् अश्वान् आराधयेयुः । ४४ ।
 
-KAZ02.30.45 karma.atikrame ca-eṣāṃ divasa.vetanac.chedanaṃ kuryāt | 45 |
+कज़्०२।३०।४५ कर्म।अतिक्रमे च-एषां दिवस।वेतनच्।छेदनं कुर्यात् । ४५ ।
 
-KAZ02.30.46 nīrājana.uparuddhaṃ vāhayataś cikitsaka.uparuddhaṃ vā dvādaśa.paṇo daṇḍaḥ | 46 |
+कज़्०२।३०।४६ नीराजन।उपरुद्धं वाहयतश् चिकित्सक।उपरुद्धं वा द्वादश।पणो दण्डः । ४६ ।
 
-KAZ02.30.47 kriyā.bhaiṣajya.saṅgena vyādhi.vṛddhau pratīkāra.dvi.guṇo daṇḍaḥ | 47 |
+कज़्०२।३०।४७ क्रिया।भैषज्य।सङ्गेन व्याधि।वृद्धौ प्रतीकार।द्वि।गुणो दण्डः । ४७ ।
 
-KAZ02.30.48 tad.aparādhena vailomye pattra.mūlyaṃ daṇḍaḥ | 48 |
+कज़्०२।३०।४८ तद्।अपराधेन वैलोम्ये पत्त्र।मूल्यं दण्डः । ४८ ।
 
-KAZ02.30.49 tena go.maṇḍalaṃ khara.uṣṭra.mahiṣam aja.avikaṃ ca vyākhyātam | 49 |
+कज़्०२।३०।४९ तेन गो।मण्डलं खर।उष्ट्र।महिषम् अज।अविकं च व्याख्यातम् । ४९ ।
 
-KAZ02.30.50ab dvir ahnaḥ snānam aśvānāṃ gandha.mālyaṃ ca dāpayet |  
-KAZ02.30.50cd kṛṣṇa.sandhiṣu bhūta.ijyāḥ śukleṣu svasti.vācanam || 50 ||  
+कज़्०२।३०।५०अब् द्विर् अह्नः स्नानम् अश्वानां गन्ध।माल्यं च दापयेत् ।  
+कज़्०२।३०।५०च्द् कृष्ण।सन्धिषु भूत।इज्याः शुक्लेषु स्वस्ति।वाचनम् ॥ ५० ॥  
 
 
-KAZ02.30.51ab nīrājanām āśvayuje kārayen navame 'hani |  
-KAZ02.30.51cd yātrā.ādāv avasāne vā vyādhau vā śāntike rataḥ || 51 ||  
+कज़्०२।३०।५१अब् नीराजनाम् आश्वयुजे कारयेन् नवमे ऽहनि ।  
+कज़्०२।३०।५१च्द् यात्रा।आदाव् अवसाने वा व्याधौ वा शान्तिके रतः ॥ ५१ ॥  
 
 
  छप्तेर् ३१ (सेच्तिओन् ४८): थे सुपेरिन्तेन्देन्त् ओड़् एलेफन्त्स्
@@ -3754,54 +3753,54 @@ KAZ02.30.51cd yātrā.ādāv avasāne vā vyādhau vā śāntike rataḥ || 51 |
 कज़्०२।३१।१८च्द् मृगं सङ्कीर्ण।लिङ्गं च कर्मस्व् ऋतु।वशेन वा ॥ १८ ॥  
 
 
- Chapter 32 (Section 48): The Superintendent of Elephants (cont.)
- \[K tr. 204\] ,  \[K2 tr. 177\] 
-KAZ02.32.01 karma.skandhāś catvāro damyaḥ sāmnāhya aupavāhyo vyālaś ca | 1 |
+ छप्तेर् ३२ (सेच्तिओन् ४८): थे सुपेरिन्तेन्देन्त् ओड़् एलेफन्त्स् (चोन्त्।)
+ \[क् त्र्। २०४\] ,  \[क्२ त्र्। १७७\] 
+कज़्०२।३२।०१ कर्म।स्कन्धाश् चत्वारो दम्यः साम्नाह्य औपवाह्यो व्यालश् च । १ ।
 
-KAZ02.32.02 tatra damyaḥ pañca.vidhaḥ skandha.gataḥ stambha.gato vāri.gato 'vapāta.gato yūtha.gataś ca-iti | 2 |
+कज़्०२।३२।०२ तत्र दम्यः पञ्च।विधः स्कन्ध।गतः स्तम्भ।गतो वारि।गतो ऽवपात।गतो यूथ।गतश् च-इति । २ ।
 
-KAZ02.32.03 tasya-upavicāro vikka.karma | 3 |
+कज़्०२।३२।०३ तस्य-उपविचारो विक्क।कर्म । ३ ।
 
-KAZ02.32.04 sāmnāhyaḥ sapta.kriyā.patha upasthānaṃ saṃvartanaṃ samyānaṃ vadha.āvadho hasti.yuddhaṃ nāga.rāyaṇaṃ sāṅgrāmikaṃ ca | 4 |
+कज़्०२।३२।०४ साम्नाह्यः सप्त।क्रिया।पथ उपस्थानं संवर्तनं सम्यानं वध।आवधो हस्ति।युद्धं नाग।रायणं साङ्ग्रामिकं च । ४ ।
 
-KAZ02.32.05 tasya-upavicāraḥ kakṣyā.karma graiveya.karma yūtha.karma ca | 5 |
+कज़्०२।३२।०५ तस्य-उपविचारः कक्ष्या।कर्म ग्रैवेय।कर्म यूथ।कर्म च । ५ ।
 
-KAZ02.32.06 aupavāhyo 'ṣṭa.vidha ācaraṇaḥ kuñjara.aupavāhyo dhoraṇa ādhāna.gatiko yaṣṭy.upavāhyas totra.upavāhyaḥ śuddha.upavāhyo mārgayukaś ca-iti | 6 |
+कज़्०२।३२।०६ औपवाह्यो ऽष्ट।विध आचरणः कुञ्जर।औपवाह्यो धोरण आधान।गतिको यष्ट्य्।उपवाह्यस् तोत्र।उपवाह्यः शुद्ध।उपवाह्यो मार्गयुकश् च-इति । ६ ।
 
-KAZ02.32.07 tasya-upavicāraḥ śārada.karma hīna.karma nāra.uṣṭra.karma ca | 7 |
+कज़्०२।३२।०७ तस्य-उपविचारः शारद।कर्म हीन।कर्म नार।उष्ट्र।कर्म च । ७ ।
 
-KAZ02.32.08 vyāla-eka.kriyā.pathaḥ śaṅkito 'varuddho viṣamaḥ prabhinnaḥ prabhinna.viniścayo mada.hetu.viniścayaś ca | 8 |
+कज़्०२।३२।०८ व्याल-एक।क्रिया।पथः शङ्कितो ऽवरुद्धो विषमः प्रभिन्नः प्रभिन्न।विनिश्चयो मद।हेतु।विनिश्चयश् च । ८ ।
 
-KAZ02.32.09 tasya-upavicāra āyamya-eka.rakṣā.karma | 9 |
+कज़्०२।३२।०९ तस्य-उपविचार आयम्य-एक।रक्षा।कर्म । ९ ।
 
-KAZ02.32.10 kriyā.vipanno vyālaḥ śuddhaḥ su.vrato viṣamaḥ sarva.doṣa.praduṣṭaś ca | 10 |
+कज़्०२।३२।१० क्रिया।विपन्नो व्यालः शुद्धः सु।व्रतो विषमः सर्व।दोष।प्रदुष्टश् च । १० ।
 
-KAZ02.32.11 teṣāṃ bandhana.upakaraṇam anīka.stha.pramāṇam | 11 |
+कज़्०२।३२।११ तेषां बन्धन।उपकरणम् अनीक।स्थ।प्रमाणम् । ११ ।
 
-KAZ02.32.12 ālāna.graiveya.kakṣyā.pāra.ayaṇa.parikṣepa.uttara.ādikaṃ bandhanam | 12 |
+कज़्०२।३२।१२ आलान।ग्रैवेय।कक्ष्या।पार।अयण।परिक्षेप।उत्तर।आदिकं बन्धनम् । १२ ।
 
-KAZ02.32.13 aṅkuśa.veṇu.yantra.ādikam upakaraṇam | 13 |
+कज़्०२।३२।१३ अङ्कुश।वेणु।यन्त्र।आदिकम् उपकरणम् । १३ ।
 
-KAZ02.32.14 vaijayantī.kṣura.pramāla.āstaraṇa.kuthā.ādikaṃ bhūṣaṇam | 14 |
+कज़्०२।३२।१४ वैजयन्ती।क्षुर।प्रमाल।आस्तरण।कुथा।आदिकं भूषणम् । १४ ।
 
-KAZ02.32.15 varma.tomara.śara.āvāpa.yantra.ādikaḥ sāṅgrāmika.alaṅkāraḥ | 15 |
+कज़्०२।३२।१५ वर्म।तोमर।शर।आवाप।यन्त्र।आदिकः साङ्ग्रामिक।अलङ्कारः । १५ ।
 
-KAZ02.32.16 cikitsaka.anīkastha.ārohaka.ādhoraṇa.hastipa.kaupacārika.vidhā.- pācaka.yāvasika.pādapāśika.kuṭīr.rakṣaka.aupaśayaika.ādir aupasthāyika.vargaḥ | 16 |
+कज़्०२।३२।१६ चिकित्सक।अनीकस्थ।आरोहक।आधोरण।हस्तिप।कौपचारिक।विधा।- पाचक।यावसिक।पादपाशिक।कुटीर्।रक्षक।औपशयैक।आदिर् औपस्थायिक।वर्गः । १६ ।
 
-KAZ02.32.17 cikitsaka.kuṭī.rakṣa.vidhā.pācakāḥ prastha.odanaṃ sneha.prasṛtiṃ kṣāra.lavaṇayoś ca dvi.palikaṃ hareyuḥ, daśa.palaṃ māṃsasya, anyatra cikitsakebhyaḥ | 17 |
+कज़्०२।३२।१७ चिकित्सक।कुटी।रक्ष।विधा।पाचकाः प्रस्थ।ओदनं स्नेह।प्रसृतिं क्षार।लवणयोश् च द्वि।पलिकं हरेयुः, दश।पलं मांसस्य, अन्यत्र चिकित्सकेभ्यः । १७ ।
 
-KAZ02.32.18 pathi.vyādhi.karma.mada.jarā.abhitaptānāṃ cikitsakāḥ pratikuryuḥ | 18 |
+कज़्०२।३२।१८ पथि।व्याधि।कर्म।मद।जरा।अभितप्तानां चिकित्सकाः प्रतिकुर्युः । १८ ।
 
-KAZ02.32.19 sthānasya-aśuddhir yavasasya-agrahaṇaṃ sthale śāyanam abhāge ghātaḥ para.ārohaṇam akāle yānam abhūmāv atīrthe 'vatāraṇaṃ taru.ṣaṇḍa ity atyaya.sthānāni | 19 |
+कज़्०२।३२।१९ स्थानस्य-अशुद्धिर् यवसस्य-अग्रहणं स्थले शायनम् अभागे घातः पर।आरोहणम् अकाले यानम् अभूमाव् अतीर्थे ऽवतारणं तरु।षण्ड इत्य् अत्यय।स्थानानि । १९ ।
 
-KAZ02.32.20 tam eṣāṃ bhakta.vetanād ādadīta | 20 |
+कज़्०२।३२।२० तम् एषां भक्त।वेतनाद् आददीत । २० ।
 
-KAZ02.32.21ab tisro nīrājanāḥ kāryāś cāturmāsya.ṛtu.sandhiṣu |  
-KAZ02.32.21cd bhūtānāṃ kṛṣṇa.sandhī-ijyāḥ senānyaḥ śukla.sandhiṣu || 21 ||  
+कज़्०२।३२।२१अब् तिस्रो नीराजनाः कार्याश् चातुर्मास्य।ऋतु।सन्धिषु ।  
+कज़्०२।३२।२१च्द् भूतानां कृष्ण।सन्धी-इज्याः सेनान्यः शुक्ल।सन्धिषु ॥ २१ ॥  
 
 
-KAZ02.32.22ab danta.mūla.parīṇāha.dvi.guṇaṃ projjhya kalpayet |  
-KAZ02.32.22cd abde dvy.ardhe nadī.jānāṃ pañca.abde parvata.okasām || 22 ||  
+कज़्०२।३२।२२अब् दन्त।मूल।परीणाह।द्वि।गुणं प्रोज्झ्य कल्पयेत् ।  
+कज़्०२।३२।२२च्द् अब्दे द्व्य्।अर्धे नदी।जानां पञ्च।अब्दे पर्वत।ओकसाम् ॥ २२ ॥  
 
 
  छप्तेर् ३३ (सेच्तिओन्स् ४९; ५०; ५१): थे सुपेरिन्तेन्देन्त् ओड़् छरिओत्स्; थे सुपेरिन्तेन्देन्त् ओड़् ड़ोओत् सोल्दिएर्स्; थे चोम्मन्दन्त् ओड़् थे अर्म्य्
@@ -3830,32 +3829,32 @@ KAZ02.32.22cd abde dvy.ardhe nadī.jānāṃ pañca.abde parvata.okasām || 22 |
 कज़्०२।३३।११च्द् स्थाने याने प्रहरणे सैन्यानां विनये रतः ॥ ११ ॥  
 
 
- Chapter 34 (Sections 52; 53): The Superintendent of Passports; The Superintendent of Pastures
- \[K tr. 209\] ,  \[K2 tr. 181\] 
-KAZ02.34.01 mudrā.adhyakṣo mudrāṃ māṣakeṇa dadyāt | 1 |
+ छप्तेर् ३४ (सेच्तिओन्स् ५२; ५३): थे सुपेरिन्तेन्देन्त् ओड़् पस्स्पोर्त्स्; थे सुपेरिन्तेन्देन्त् ओड़् पस्तुरेस्
+ \[क् त्र्। २०९\] ,  \[क्२ त्र्। १८१\] 
+कज़्०२।३४।०१ मुद्रा।अध्यक्षो मुद्रां माषकेण दद्यात् । १ ।
 
-KAZ02.34.02 sa-mudro jana.padaṃ praveṣṭuṃ niṣkramituṃ vā labheta | 2 |
+कज़्०२।३४।०२ स-मुद्रो जन।पदं प्रवेष्टुं निष्क्रमितुं वा लभेत । २ ।
 
-KAZ02.34.03 dvādaśa.paṇam amudro jānapado dadyāt | 3 |
+कज़्०२।३४।०३ द्वादश।पणम् अमुद्रो जानपदो दद्यात् । ३ ।
 
-KAZ02.34.04 kūṭa.mudrāyāṃ pūrvaḥ sāhasa.daṇḍaḥ tiro.jana.padasya-uttamaḥ | 4 |
+कज़्०२।३४।०४ कूट।मुद्रायां पूर्वः साहस।दण्डः तिरो।जन।पदस्य-उत्तमः । ४ ।
 
-KAZ02.34.05 vivīta.adhyakṣo mudrāṃ paśyet | 5 |
+कज़्०२।३४।०५ विवीत।अध्यक्षो मुद्रां पश्येत् । ५ ।
 
-KAZ02.34.06 grāma.antareṣu ca vivītaṃ sthāpayet | 6 |
+कज़्०२।३४।०६ ग्राम।अन्तरेषु च विवीतं स्थापयेत् । ६ ।
 
-KAZ02.34.07 cora.vyāla.bhayān.nimna.araṇyāni śodhayet | 7 |
+कज़्०२।३४।०७ चोर।व्याल।भयान्।निम्न।अरण्यानि शोधयेत् । ७ ।
 
-KAZ02.34.08 anudake kūpa.setu.bandha.utsān sthāpayet, puṣpa.phala.vāṭāṃś ca | 8 |
+कज़्०२।३४।०८ अनुदके कूप।सेतु।बन्ध।उत्सान् स्थापयेत्, पुष्प।फल।वाटांश् च । ८ ।
 
-KAZ02.34.09 lubdhaka.śva.gaṇinaḥ parivrajeyur araṇyāni | 9 |
+कज़्०२।३४।०९ लुब्धक।श्व।गणिनः परिव्रजेयुर् अरण्यानि । ९ ।
 
-KAZ02.34.10 taskara.amitra.abhyāgame śaṅkha.dundubhi.śabdam agrāhyāḥ kuryuḥ śaila.vṛkṣa.adhirūḍhā vā śīghra.vāhanā vā | 10 |
+कज़्०२।३४।१० तस्कर।अमित्र।अभ्यागमे शङ्ख।दुन्दुभि।शब्दम् अग्राह्याः कुर्युः शैल।वृक्ष।अधिरूढा वा शीघ्र।वाहना वा । १० ।
 
-KAZ02.34.11 amitra.aṭavī.sañcāraṃ ca rājño gṛha.kapotair mudrā.yuktair hārayet, dhūma.agni.paramparayā vā | 11 |
+कज़्०२।३४।११ अमित्र।अटवी।सञ्चारं च राज्ञो गृह।कपोतैर् मुद्रा।युक्तैर् हारयेत्, धूम।अग्नि।परम्परया वा । ११ ।
 
-KAZ02.34.12ab dravya.hasti.vana.ājīvaṃ vartanīṃ cora.rakṣaṇam |  
-KAZ02.34.12cd sārtha.ativāhyaṃ go.rakṣyaṃ vyavahāraṃ ca kārayet || 12 ||  
+कज़्०२।३४।१२अब् द्रव्य।हस्ति।वन।आजीवं वर्तनीं चोर।रक्षणम् ।  
+कज़्०२।३४।१२च्द् सार्थ।अतिवाह्यं गो।रक्ष्यं व्यवहारं च कारयेत् ॥ १२ ॥  
 
 
  छप्तेर् ३५ (सेच्तिओन्स् ५४; ५५): थे अद्मिनिस्त्रतोर्ऽस् अच्तिवित्य्; अच्तिवित्य् ओड़् सेच्रेत् अगेन्त्स्
@@ -3892,108 +3891,108 @@ KAZ02.34.12cd sārtha.ativāhyaṃ go.rakṣyaṃ vyavahāraṃ ca kārayet || 1
 कज़्०२।३५।१५च्द् चिन्तयेयुश् च संस्थास् ताः संस्थाश् च-अन्याः स्व।योनयः ॥ १५ ॥  
 
 
- Chapter 36 (Section 56): The City Superintendent
- \[K tr. 213\] ,  \[K2 tr. 185\] 
-KAZ02.36.01 samāhartṛvan nāgariko nagaraṃ cintayet | 1 |
+ छप्तेर् ३६ (सेच्तिओन् ५६): थे चित्य् सुपेरिन्तेन्देन्त्
+ \[क् त्र्। २१३\] ,  \[क्२ त्र्। १८५\] 
+कज़्०२।३६।०१ समाहर्तृवन् नागरिको नगरं चिन्तयेत् । १ ।
 
-KAZ02.36.02 daśa.kulīṃ gopo viṃśati.kulīṃ catvāriṃśat.kulīṃ vā | 2 |
+कज़्०२।३६।०२ दश।कुलीं गोपो विंशति।कुलीं चत्वारिंशत्।कुलीं वा । २ ।
 
-KAZ02.36.03 sa tasyāṃ strī.puruṣāṇāṃ jāti.gotra.nāma.karmabhiḥ jaṅgha.agram āya.vyayau ca vidyāt | 3 |
+कज़्०२।३६।०३ स तस्यां स्त्री।पुरुषाणां जाति।गोत्र।नाम।कर्मभिः जङ्घ।अग्रम् आय।व्ययौ च विद्यात् । ३ ।
 
-KAZ02.36.04 evaṃ durga.catur.bhāgaṃ sthānikaś cintayet | 4 |
+कज़्०२।३६।०४ एवं दुर्ग।चतुर्।भागं स्थानिकश् चिन्तयेत् । ४ ।
 
-KAZ02.36.05 dharma.āvasathinaḥ pāṣaṇḍi.pathikān āvedya vāsayeyuḥ, sva.pratyayāś ca tapasvinaḥ śrotriyāṃś ca | 5 |
+कज़्०२।३६।०५ धर्म।आवसथिनः पाषण्डि।पथिकान् आवेद्य वासयेयुः, स्व।प्रत्ययाश् च तपस्विनः श्रोत्रियांश् च । ५ ।
 
-KAZ02.36.06 kāru.śilpinaḥ sva.karma.sthāneṣu sva.janaṃ vāsayeyuḥ, vaidehakāś ca-anyonyaṃ sva.karma.sthāneṣu | 6 |
+कज़्०२।३६।०६ कारु।शिल्पिनः स्व।कर्म।स्थानेषु स्व।जनं वासयेयुः, वैदेहकाश् च-अन्योन्यं स्व।कर्म।स्थानेषु । ६ ।
 
-KAZ02.36.07 paṇyānām adeśa.kāla.vikretāram asvakaraṇaṃ ca nivedayeyuḥ | 7 |
+कज़्०२।३६।०७ पण्यानाम् अदेश।काल।विक्रेतारम् अस्वकरणं च निवेदयेयुः । ७ ।
 
-KAZ02.36.08 śauṇḍika.pākva.māṃsika.audanika.rūpa.ājīvāḥ parijñātam āvāsayeyuḥ | 8 |
+कज़्०२।३६।०८ शौण्डिक।पाक्व।मांसिक।औदनिक।रूप।आजीवाः परिज्ञातम् आवासयेयुः । ८ ।
 
-KAZ02.36.09 ativyaya.kartāram atyāhita.karmāṇaṃ ca nivedayeyuḥ | 9 |
+कज़्०२।३६।०९ अतिव्यय।कर्तारम् अत्याहित।कर्माणं च निवेदयेयुः । ९ ।
 
-KAZ02.36.10 cikitsakaḥ pracchanna.vraṇa.pratīkāra.kārayitāram apathya.kāriṇaṃ ca gṛha.svāmī ca nivedya gopa.sthānikayor mucyeta, anyathā tulya.doṣaḥ syāt | 10 |
+कज़्०२।३६।१० चिकित्सकः प्रच्छन्न।व्रण।प्रतीकार।कारयितारम् अपथ्य।कारिणं च गृह।स्वामी च निवेद्य गोप।स्थानिकयोर् मुच्येत, अन्यथा तुल्य।दोषः स्यात् । १० ।
 
-KAZ02.36.11 prasthita.āgatau ca nivedayet, anyathā rātri.doṣaṃ bhajeta | 11 |
+कज़्०२।३६।११ प्रस्थित।आगतौ च निवेदयेत्, अन्यथा रात्रि।दोषं भजेत । ११ ।
 
-KAZ02.36.12 kṣema.rātriṣu tri.paṇaṃ dadyāt | 12 |
+कज़्०२।३६।१२ क्षेम।रात्रिषु त्रि।पणं दद्यात् । १२ ।
 
-KAZ02.36.13 pathika.utpathikāś ca bahir.antaś ca nagarasya deva.gṛha.puṇya.sthāna.vana.śmaśāneṣu sa-vraṇam aniṣṭa.upakaraṇam udbhāṇḍī.kṛtam āvignam atisvapnam adhva.klāntam apūrvaṃ vā gṛhṇīyuḥ | 13 |
+कज़्०२।३६।१३ पथिक।उत्पथिकाश् च बहिर्।अन्तश् च नगरस्य देव।गृह।पुण्य।स्थान।वन।श्मशानेषु स-व्रणम् अनिष्ट।उपकरणम् उद्भाण्डी।कृतम् आविग्नम् अतिस्वप्नम् अध्व।क्लान्तम् अपूर्वं वा गृह्णीयुः । १३ ।
 
-KAZ02.36.14 evam abhyantare śūnya.niveśa.āveśana.śauṇḍika.audanika.pākva.māṃsika.dyūta.- pāṣaṇḍa.āvāseṣu vicayaṃ kuryuḥ | 14 |
+कज़्०२।३६।१४ एवम् अभ्यन्तरे शून्य।निवेश।आवेशन।शौण्डिक।औदनिक।पाक्व।मांसिक।द्यूत।- पाषण्ड।आवासेषु विचयं कुर्युः । १४ ।
 
-KAZ02.36.15 agni.pratīkāraṃ ca grīṣme | 15 |
+कज़्०२।३६।१५ अग्नि।प्रतीकारं च ग्रीष्मे । १५ ।
 
-KAZ02.36.16 madhyamayor ahnaś catur.bhāgayor aṣṭa.bhāgo 'gni.daṇḍaḥ | 16 |
+कज़्०२।३६।१६ मध्यमयोर् अह्नश् चतुर्।भागयोर् अष्ट।भागो ऽग्नि।दण्डः । १६ ।
 
-KAZ02.36.17 bahir.adhiśrayaṇaṃ vā kuryuḥ | 17 |
+कज़्०२।३६।१७ बहिर्।अधिश्रयणं वा कुर्युः । १७ ।
 
-KAZ02.36.18 pādaḥ pañca.ghaṭīnāṃ kumbha.droṇi.nihśreṇī.paraśu.śūrpa.aṅkuśa.kaca.grahaṇī.dṛtīnāṃ ca-akaraṇe | 18 |
+कज़्०२।३६।१८ पादः पञ्च।घटीनां कुम्भ।द्रोणि।निह्श्रेणी।परशु।शूर्प।अङ्कुश।कच।ग्रहणी।दृतीनां च-अकरणे । १८ ।
 
-KAZ02.36.19 tṛṇa.kaṭac.channāny apanayet | 19 |
+कज़्०२।३६।१९ तृण।कटच्।छन्नान्य् अपनयेत् । १९ ।
 
-KAZ02.36.20 agni.jīvina ekasthān vāsayet | 20 |
+कज़्०२।३६।२० अग्नि।जीविन एकस्थान् वासयेत् । २० ।
 
-KAZ02.36.21 sva.gṛha.pradvāreṣu gṛha.svāmino vaseyuḥ asampātino rātrau | 21 |
+कज़्०२।३६।२१ स्व।गृह।प्रद्वारेषु गृह।स्वामिनो वसेयुः असम्पातिनो रात्रौ । २१ ।
 
-KAZ02.36.22 rathyāsu kuṭa.vrajāḥ sahasraṃ tiṣṭheyuḥ, catuṣpatha.dvāra.rāja.parigraheṣu ca | 22 |
+कज़्०२।३६।२२ रथ्यासु कुट।व्रजाः सहस्रं तिष्ठेयुः, चतुष्पथ।द्वार।राज।परिग्रहेषु च । २२ ।
 
-KAZ02.36.23 pradīptam anabhidhāvato gṛha.svāmino dvādaśa.paṇo daṇḍaḥ, ṣaṭ.paṇo 'vakrayiṇaḥ | 23 |
+कज़्०२।३६।२३ प्रदीप्तम् अनभिधावतो गृह।स्वामिनो द्वादश।पणो दण्डः, षट्।पणो ऽवक्रयिणः । २३ ।
 
-KAZ02.36.24 pramādād dīpteṣu catuṣ.pañcāśat.paṇo daṇḍaḥ | 24 |
+कज़्०२।३६।२४ प्रमादाद् दीप्तेषु चतुष्।पञ्चाशत्।पणो दण्डः । २४ ।
 
-KAZ02.36.25 pradīpiko 'gninā vadhyaḥ | 25 |
+कज़्०२।३६।२५ प्रदीपिको ऽग्निना वध्यः । २५ ।
 
-KAZ02.36.26 pāṃsu.nyāse rathyāyām aṣṭa.bhāgo daṇḍaḥ, paṅka.udaka.samnirodhe pādaḥ | 26 |
+कज़्०२।३६।२६ पांसु।न्यासे रथ्यायाम् अष्ट।भागो दण्डः, पङ्क।उदक।सम्निरोधे पादः । २६ ।
 
-KAZ02.36.27 rāja.mārge dvi.guṇaḥ | 27 |
+कज़्०२।३६।२७ राज।मार्गे द्वि।गुणः । २७ ।
 
-KAZ02.36.28 paṇya.sthāna.udaka.sthāna.deva.gṛha.rāja.parigraheṣu paṇa.uttarā viṣṭā.daṇḍāḥ, mūtreṣv ardha.daṇḍāḥ | 28 |
+कज़्०२।३६।२८ पण्य।स्थान।उदक।स्थान।देव।गृह।राज।परिग्रहेषु पण।उत्तरा विष्टा।दण्डाः, मूत्रेष्व् अर्ध।दण्डाः । २८ ।
 
-KAZ02.36.29 bhaiṣajya.vyādhi.bhaya.nimittam adaṇḍyāḥ | 29 |
+कज़्०२।३६।२९ भैषज्य।व्याधि।भय।निमित्तम् अदण्ड्याः । २९ ।
 
-KAZ02.36.30 mārjāra.śva.nakula.sarpa.pretānāṃ nagarasya.antar.utsarge tri.paṇo daṇḍaḥ, khara.uṣṭra.aśvatara.aśva.pretānāṃ ṣaṭ.paṇaḥ, manuṣya.pretānāṃ pañcāśat.paṇaḥ | 30 |
+कज़्०२।३६।३० मार्जार।श्व।नकुल।सर्प।प्रेतानां नगरस्य।अन्तर्।उत्सर्गे त्रि।पणो दण्डः, खर।उष्ट्र।अश्वतर।अश्व।प्रेतानां षट्।पणः, मनुष्य।प्रेतानां पञ्चाशत्।पणः । ३० ।
 
-KAZ02.36.31 mārga.viparyāse śava.dvārād anyataś ca śava.nirṇayane pūrvaḥ sāhasa.daṇḍaḥ | 31 |
+कज़्०२।३६।३१ मार्ग।विपर्यासे शव।द्वाराद् अन्यतश् च शव।निर्णयने पूर्वः साहस।दण्डः । ३१ ।
 
-KAZ02.36.32 dvāḥ.sthānāṃ dviśatam | 32 |
+कज़्०२।३६।३२ द्वाः।स्थानां द्विशतम् । ३२ ।
 
-KAZ02.36.33 śmaśānād anyatra nyāse dahane ca dvādaśa.paṇo daṇḍaḥ | 33 |
+कज़्०२।३६।३३ श्मशानाद् अन्यत्र न्यासे दहने च द्वादश।पणो दण्डः । ३३ ।
 
-KAZ02.36.34 viṣaṇṇa.alikam ubhayator ātraṃ yāma.tūryam | 34 |
+कज़्०२।३६।३४ विषण्ण।अलिकम् उभयतोर् आत्रं याम।तूर्यम् । ३४ ।
 
-KAZ02.36.35 tūrya.śabde rājño gṛha.abhyāśe sa.pāda.paṇaṃ.akṣaṇa.tāḍanaṃ prathama.paścima.yāmikam, madhyama.yāmikaṃ dvi.guṇam, antaś.catur.guṇam | 35 |
+कज़्०२।३६।३५ तूर्य।शब्दे राज्ञो गृह।अभ्याशे स।पाद।पणं।अक्षण।ताडनं प्रथम।पश्चिम।यामिकम्, मध्यम।यामिकं द्वि।गुणम्, अन्तश्।चतुर्।गुणम् । ३५ ।
 
-KAZ02.36.36 śaṅkanīye deśe liṅge pūrva.apadāne ca gṛhītam anuyuñjīta | 36 |
+कज़्०२।३६।३६ शङ्कनीये देशे लिङ्गे पूर्व।अपदाने च गृहीतम् अनुयुञ्जीत । ३६ ।
 
-KAZ02.36.37 rāja.parigraha.upagamane nagara.rakṣā.ārohaṇe ca madhyamaḥ sāhasa.daṇḍaḥ | 37 |
+कज़्०२।३६।३७ राज।परिग्रह।उपगमने नगर।रक्षा।आरोहणे च मध्यमः साहस।दण्डः । ३७ ।
 
-KAZ02.36.38 sūtikā.cikitsaka.preta.pradīpa.yāna.nāgarika.tūrya.prekṣā.agni.nimittaṃ mudrābhiś ca-agrāhyāḥ | 38 |
+कज़्०२।३६।३८ सूतिका।चिकित्सक।प्रेत।प्रदीप।यान।नागरिक।तूर्य।प्रेक्षा।अग्नि।निमित्तं मुद्राभिश् च-अग्राह्याः । ३८ ।
 
-KAZ02.36.39 cāra.rātriṣu pracchanna.viparīta.veṣāḥ pravrajitā daṇḍa.śastra.hastāś ca manuṣyā doṣato daṇḍyāḥ | 39 |
+कज़्०२।३६।३९ चार।रात्रिषु प्रच्छन्न।विपरीत।वेषाः प्रव्रजिता दण्ड।शस्त्र।हस्ताश् च मनुष्या दोषतो दण्ड्याः । ३९ ।
 
-KAZ02.36.40 rakṣiṇām avāryaṃ vārayatāṃ vāryaṃ ca-āvārayatāṃ kṣaṇa.dvi.guṇo daṇḍaḥ | 40 |
+कज़्०२।३६।४० रक्षिणाम् अवार्यं वारयतां वार्यं च-आवारयतां क्षण।द्वि।गुणो दण्डः । ४० ।
 
-KAZ02.36.41 striyaṃ dāsīm adhimehayatāṃ pūrvaḥ sāhasa.daṇḍaḥ, adāsīṃ madhyamaḥ, kṛta.avarodhām uttamaḥ, kula.striyaṃ vadhaḥ | 41 |
+कज़्०२।३६।४१ स्त्रियं दासीम् अधिमेहयतां पूर्वः साहस।दण्डः, अदासीं मध्यमः, कृत।अवरोधाम् उत्तमः, कुल।स्त्रियं वधः । ४१ ।
 
-KAZ02.36.42 cetana.acetanikaṃ rātri.doṣam aśaṃsato nāgarikasya doṣa.anurūpo daṇḍaḥ, pramāda.sthāne ca | 42 |
+कज़्०२।३६।४२ चेतन।अचेतनिकं रात्रि।दोषम् अशंसतो नागरिकस्य दोष।अनुरूपो दण्डः, प्रमाद।स्थाने च । ४२ ।
 
-KAZ02.36.43 nityam udaka.sthāna.mārga.bhramac.channa.patha.vapra.prākāra.rakṣā.avekṣaṇaṃ naṣṭa.prasmṛta.apasṛtānāṃ ca rakṣaṇam | 43 |
+कज़्०२।३६।४३ नित्यम् उदक।स्थान।मार्ग।भ्रमच्।छन्न।पथ।वप्र।प्राकार।रक्षा।अवेक्षणं नष्ट।प्रस्मृत।अपसृतानां च रक्षणम् । ४३ ।
 
-KAZ02.36.44 bandhana.agāre ca bāla.vṛddha.vyādhita.anāthānāṃ jāta.nakṣatra.paurṇamāsīṣu visargaḥ | 44 |
+कज़्०२।३६।४४ बन्धन।अगारे च बाल।वृद्ध।व्याधित।अनाथानां जात।नक्षत्र।पौर्णमासीषु विसर्गः । ४४ ।
 
-KAZ02.36.45 paṇya.śīlāḥ samaya.anubaddhā vā doṣa.niṣkrayaṃ dadyuḥ | 45 |
+कज़्०२।३६।४५ पण्य।शीलाः समय।अनुबद्धा वा दोष।निष्क्रयं दद्युः । ४५ ।
 
-KAZ02.36.46ab divase pañca.rātre vā bandhanasthān viśodhayet |  
-KAZ02.36.46cd karmaṇā kāya.daṇḍena hiraṇya.anugraheṇa vā || 46 ||  
-
-
-KAZ02.36.47ab apūrva.deśa.adhigame yuva.rāja.abhiṣecane |  
-KAZ02.36.47cd putra.janmani vā mokṣo bandhanasya vidhīyate || 47 ||  
+कज़्०२।३६।४६अब् दिवसे पञ्च।रात्रे वा बन्धनस्थान् विशोधयेत् ।  
+कज़्०२।३६।४६च्द् कर्मणा काय।दण्डेन हिरण्य।अनुग्रहेण वा ॥ ४६ ॥  
 
 
-# Book 3: Concerning Judges
- \[K tr. 219-293\] ,  \[K2 tr. 190-253\] 
+कज़्०२।३६।४७अब् अपूर्व।देश।अधिगमे युव।राज।अभिषेचने ।  
+कज़्०२।३६।४७च्द् पुत्र।जन्मनि वा मोक्षो बन्धनस्य विधीयते ॥ ४७ ॥  
+
+
+# बोओक् ३: चोन्चेर्निन्ग् जुद्गेस्
+ \[क् त्र्। २१९-२९३\] ,  \[क्२ त्र्। १९०-२५३\] 
  छप्तेर् १ (सेच्तिओन्स् ५७; ५८): वलिद् अन्द् इन्वलिद् त्रन्सच्तिओन्स्; ड़िलिन्ग् ओड़् लw-सुइत्स्
  \[क् त्र्। २१९\] ,  \[क्२ त्र्। १९०\] 
 कज़्०३।१।०१ धर्मस्थास् त्रयस् त्रयो ऽमात्या जन।पद।सन्धि।सङ्ग्रहण।द्रोण।मुख।स्थानीयेषु व्यावहारिकान् अर्थान् कुर्युः । १ ।
@@ -4110,104 +4109,104 @@ KAZ02.36.47cd putra.janmani vā mokṣo bandhanasya vidhīyate || 47 ||
 कज़्०३।१।४७च्द् चार।हस्ताच् च निष्पाते प्रदेष्टव्यः पराजयः ॥ ४७ ॥  
 
 
- Chapter 2 (Section 59): Concerning Marriage
- \[K tr. 227\] ,  \[K2 tr. 196\] 
-KAZ03.2.01 vivāha.pūrvo vyavahāraḥ | 1 |
+ छप्तेर् २ (सेच्तिओन् ५९): चोन्चेर्निन्ग् मर्रिअगे
+ \[क् त्र्। २२७\] ,  \[क्२ त्र्। १९६\] 
+कज़्०३।२।०१ विवाह।पूर्वो व्यवहारः । १ ।
 
-KAZ03.2.02 kanyā.dānaṃ kanyām alaṅkṛtya brāhmo vivāhaḥ | 2 |
+कज़्०३।२।०२ कन्या।दानं कन्याम् अलङ्कृत्य ब्राह्मो विवाहः । २ ।
 
-KAZ03.2.03 saha.dharma.caryā prājāpatyaḥ | 3 |
+कज़्०३।२।०३ सह।धर्म।चर्या प्राजापत्यः । ३ ।
 
-KAZ03.2.04 go.mithuna.ādānād ārṣaḥ | 4 |
+कज़्०३।२।०४ गो।मिथुन।आदानाद् आर्षः । ४ ।
 
-KAZ03.2.05 antar.vedyām ṛtvije dānād daivaḥ | 5 |
+कज़्०३।२।०५ अन्तर्।वेद्याम् ऋत्विजे दानाद् दैवः । ५ ।
 
-KAZ03.2.06 mithaḥ.samavāyād gāndharvaḥ | 6 |
+कज़्०३।२।०६ मिथः।समवायाद् गान्धर्वः । ६ ।
 
-KAZ03.2.07 śulka.ādānād āsuraḥ | 7 |
+कज़्०३।२।०७ शुल्क।आदानाद् आसुरः । ७ ।
 
-KAZ03.2.08 prasahya.ādānād rākṣasaḥ | 8 |
+कज़्०३।२।०८ प्रसह्य।आदानाद् राक्षसः । ८ ।
 
-KAZ03.2.09 supta.matta.ādānāt paiśācaḥ | 9 |
+कज़्०३।२।०९ सुप्त।मत्त।आदानात् पैशाचः । ९ ।
 
-KAZ03.2.10 pitṛ.pramāṇāś catvāraḥ pūrve dharmyāḥ, mātā.pitṛ.pramāṇāḥ śeṣāḥ | 10 |
+कज़्०३।२।१० पितृ।प्रमाणाश् चत्वारः पूर्वे धर्म्याः, माता।पितृ।प्रमाणाः शेषाः । १० ।
 
-KAZ03.2.11 tau hi śulka.harau duhituḥ, anyatara.abhāve 'nyataro vā | 11 |
+कज़्०३।२।११ तौ हि शुल्क।हरौ दुहितुः, अन्यतर।अभावे ऽन्यतरो वा । ११ ।
 
-KAZ03.2.12 dvitīyaṃ śulkaṃ strī hareta | 12 |
+कज़्०३।२।१२ द्वितीयं शुल्कं स्त्री हरेत । १२ ।
 
-KAZ03.2.13 sarveṣāṃ prīty.āropaṇam apratiṣiddham | 13 | iti vivāha.dharmaḥ |
+कज़्०३।२।१३ सर्वेषां प्रीत्य्।आरोपणम् अप्रतिषिद्धम् । १३ । इति विवाह।धर्मः ।
 
-KAZ03.2.14 vṛttir ābandhyaṃ vā strī.dhanam | 14 |
+कज़्०३।२।१४ वृत्तिर् आबन्ध्यं वा स्त्री।धनम् । १४ ।
 
-KAZ03.2.15 para.dvi.sāhasrā sthāpyā vṛttiḥ, ābandhya.aniyamaḥ | 15 |
+कज़्०३।२।१५ पर।द्वि।साहस्रा स्थाप्या वृत्तिः, आबन्ध्य।अनियमः । १५ ।
 
-KAZ03.2.16 tad ātma.putra.snuṣā.bharmaṇi pravāsa.apratividhāne ca bhāryāyā bhoktum adoṣaḥ, pratirodhaka.vyādhi.durbhikṣa.bhaya.pratīkāre dharma.kārye ca patyuḥ, sambhūya vā dampatyor mithunaṃ prajātayoḥ | 16 |
+कज़्०३।२।१६ तद् आत्म।पुत्र।स्नुषा।भर्मणि प्रवास।अप्रतिविधाने च भार्याया भोक्तुम् अदोषः, प्रतिरोधक।व्याधि।दुर्भिक्ष।भय।प्रतीकारे धर्म।कार्ये च पत्युः, सम्भूय वा दम्पत्योर् मिथुनं प्रजातयोः । १६ ।
 
-KAZ03.2.17 tri.varṣa.upabhuktaṃ ca dharmiṣṭheṣu vivāheṣu na-anuyuñjīta | 17 |
+कज़्०३।२।१७ त्रि।वर्ष।उपभुक्तं च धर्मिष्ठेषु विवाहेषु न-अनुयुञ्जीत । १७ ।
 
-KAZ03.2.18 gāndharva.āsura.upabhuktaṃ sa-vṛddhikam ubhayaṃ dāpyeta, rākṣasa.paiśāca.upabhuktaṃ steyaṃ dadyāt | 18 |
+कज़्०३।२।१८ गान्धर्व।आसुर।उपभुक्तं स-वृद्धिकम् उभयं दाप्येत, राक्षस।पैशाच।उपभुक्तं स्तेयं दद्यात् । १८ ।
 
-KAZ03.2.19 mṛte bhartari dharma.kāmā tadānīm eva sthāpya-ābharaṇaṃ śulka.śeṣaṃ ca labheta | 19 |
+कज़्०३।२।१९ मृते भर्तरि धर्म।कामा तदानीम् एव स्थाप्य-आभरणं शुल्क।शेषं च लभेत । १९ ।
 
-KAZ03.2.20 labdhvā vā vindamānā sa-vṛddhikam ubhayaṃ dāpyeta | 20 |
+कज़्०३।२।२० लब्ध्वा वा विन्दमाना स-वृद्धिकम् उभयं दाप्येत । २० ।
 
-KAZ03.2.21 kuṭumba.kāmā tu śvaśura.pati.dattaṃ niveśa.kāle labheta | 21 |
+कज़्०३।२।२१ कुटुम्ब।कामा तु श्वशुर।पति।दत्तं निवेश।काले लभेत । २१ ।
 
-KAZ03.2.22 niveśa.kālaṃ hi dīrgha.pravāse vyākhyāsyāmaḥ | 22 |
+कज़्०३।२।२२ निवेश।कालं हि दीर्घ।प्रवासे व्याख्यास्यामः । २२ ।
 
-KAZ03.2.23 śvaśura.prātilomyena vā niviṣṭā śvaśura.pati.dattaṃ jīyeta | 23 |
+कज़्०३।२।२३ श्वशुर।प्रातिलोम्येन वा निविष्टा श्वशुर।पति।दत्तं जीयेत । २३ ।
 
-KAZ03.2.24 jñāti.hastād.abhimṛṣṭāyā jñātayo yathā.gṛhītaṃ dadyuḥ | 24 |
+कज़्०३।२।२४ ज्ञाति।हस्ताद्।अभिमृष्टाया ज्ञातयो यथा।गृहीतं दद्युः । २४ ।
 
-KAZ03.2.25 nyāya.upagatāyāḥ pratipattā strī.dhanaṃ gopayet | 25 |
+कज़्०३।२।२५ न्याय।उपगतायाः प्रतिपत्ता स्त्री।धनं गोपयेत् । २५ ।
 
-KAZ03.2.26 pati.dāyaṃ vindamānā jīyeta | 26 |
+कज़्०३।२।२६ पति।दायं विन्दमाना जीयेत । २६ ।
 
-KAZ03.2.27 dharma.kāmā bhuñjīta | 27 |
+कज़्०३।२।२७ धर्म।कामा भुञ्जीत । २७ ।
 
-KAZ03.2.28 putravatī vindamānā strī.dhanaṃ jīyeta | 28 |
+कज़्०३।२।२८ पुत्रवती विन्दमाना स्त्री।धनं जीयेत । २८ ।
 
-KAZ03.2.29 tat tu strī.dhanaṃ putrā hareyuḥ | 29 |
+कज़्०३।२।२९ तत् तु स्त्री।धनं पुत्रा हरेयुः । २९ ।
 
-KAZ03.2.30 putra.bharaṇa.arthaṃ vā vindamānā putra.arthaṃ sphātī.kuryāt | 30 |
+कज़्०३।२।३० पुत्र।भरण।अर्थं वा विन्दमाना पुत्र।अर्थं स्फाती।कुर्यात् । ३० ।
 
-KAZ03.2.31 bahu.puruṣa.prajānāṃ putrāṇāṃ yathā.pitṛ.dattaṃ strī.dhanam avasthāpayet | 31 |
+कज़्०३।२।३१ बहु।पुरुष।प्रजानां पुत्राणां यथा।पितृ।दत्तं स्त्री।धनम् अवस्थापयेत् । ३१ ।
 
-KAZ03.2.32 kāma.karaṇīyam api strī.dhanaṃ vindamānā putra.saṃsthaṃ kuryāt | 32 |
+कज़्०३।२।३२ काम।करणीयम् अपि स्त्री।धनं विन्दमाना पुत्र।संस्थं कुर्यात् । ३२ ।
 
-KAZ03.2.33 aputrā pati.śayanaṃ pālayantī guru.samīpe strī.dhanam āyuḥ.kṣayād bhuñjīta | 33 |
+कज़्०३।२।३३ अपुत्रा पति।शयनं पालयन्ती गुरु।समीपे स्त्री।धनम् आयुः।क्षयाद् भुञ्जीत । ३३ ।
 
-KAZ03.2.34 āpad.arthaṃ hi strī.dhanam | 34 |
+कज़्०३।२।३४ आपद्।अर्थं हि स्त्री।धनम् । ३४ ।
 
-KAZ03.2.35 ūrdhvaṃ dāyādaṃ gacchet | 35 |
+कज़्०३।२।३५ ऊर्ध्वं दायादं गच्छेत् । ३५ ।
 
-KAZ03.2.36 jīvati bhartari mṛtāyāḥ putrā duhitaraś ca strī.dhanaṃ vibhajeran, aputrāyā duhitaraḥ, tad.abhāve bhartā | 36 |
+कज़्०३।२।३६ जीवति भर्तरि मृतायाः पुत्रा दुहितरश् च स्त्री।धनं विभजेरन्, अपुत्राया दुहितरः, तद्।अभावे भर्ता । ३६ ।
 
-KAZ03.2.37 śulkam anvādheyam anyad vā bandhubhir dattaṃ bāndhavā hareyuḥ | 37 | iti strī.dhana.kalpaḥ |
+कज़्०३।२।३७ शुल्कम् अन्वाधेयम् अन्यद् वा बन्धुभिर् दत्तं बान्धवा हरेयुः । ३७ । इति स्त्री।धन।कल्पः ।
 
-KAZ03.2.38 varṣāṇy aṣṭāv aprajāyamānām aputrāṃ vandhyāṃ ca-ākāṅkṣeta, daśa nindum, dvādaśa kanyā.prasavinīm | 38 |
+कज़्०३।२।३८ वर्षाण्य् अष्टाव् अप्रजायमानाम् अपुत्रां वन्ध्यां च-आकाङ्क्षेत, दश निन्दुम्, द्वादश कन्या।प्रसविनीम् । ३८ ।
 
-KAZ03.2.39 tataḥ putra.arthī dvitīyāṃ vindeta | 39 |
+कज़्०३।२।३९ ततः पुत्र।अर्थी द्वितीयां विन्देत । ३९ ।
 
-KAZ03.2.40 tasya-atikrame śulkaṃ strī.dhanam ardhaṃ ca-ādhivedanikaṃ dadyāt, catur.viṃśati.paṇa.paraṃ ca daṇḍam | 40 |
+कज़्०३।२।४० तस्य-अतिक्रमे शुल्कं स्त्री।धनम् अर्धं च-आधिवेदनिकं दद्यात्, चतुर्।विंशति।पण।परं च दण्डम् । ४० ।
 
-KAZ03.2.41 śulkaṃ strī.dhanam aśulka.strī.dhanāyās tat.pramāṇam ādhivedanikam anurūpāṃ ca vṛttiṃ dattvā bahvīr api vindeta | 41 |
+कज़्०३।२।४१ शुल्कं स्त्री।धनम् अशुल्क।स्त्री।धनायास् तत्।प्रमाणम् आधिवेदनिकम् अनुरूपां च वृत्तिं दत्त्वा बह्वीर् अपि विन्देत । ४१ ।
 
-KAZ03.2.42 putra.arthā hi striyaḥ | 42 |
+कज़्०३।२।४२ पुत्र।अर्था हि स्त्रियः । ४२ ।
 
-KAZ03.2.43 tīrtha.samavāye ca-āsāṃ yathā.vivāhaṃ pūrva.ūḍhāṃ jīvat.putrāṃ vā pūrvaṃ gacchet | 43 |
+कज़्०३।२।४३ तीर्थ।समवाये च-आसां यथा।विवाहं पूर्व।ऊढां जीवत्।पुत्रां वा पूर्वं गच्छेत् । ४३ ।
 
-KAZ03.2.44 tīrtha.gūhana.āgamane ṣaṇ.ṇavatir daṇḍaḥ | 44 |
+कज़्०३।२।४४ तीर्थ।गूहन।आगमने षण्।णवतिर् दण्डः । ४४ ।
 
-KAZ03.2.45 putravatīṃ dharma.kāmāṃ vandhyāṃ ninduṃ nīrajaskāṃ vā na-akāmām upeyāt | 45 |
+कज़्०३।२।४५ पुत्रवतीं धर्म।कामां वन्ध्यां निन्दुं नीरजस्कां वा न-अकामाम् उपेयात् । ४५ ।
 
-KAZ03.2.46 na ca-akāmaḥ puruṣaḥ kuṣṭhinīm unmattāṃ vā gacchet | 46 |
+कज़्०३।२।४६ न च-अकामः पुरुषः कुष्ठिनीम् उन्मत्तां वा गच्छेत् । ४६ ।
 
-KAZ03.2.47 strī tu putra.artham evaṃ.bhūtaṃ vā-upagacchet | 47 |
+कज़्०३।२।४७ स्त्री तु पुत्र।अर्थम् एवं।भूतं वा-उपगच्छेत् । ४७ ।
 
-KAZ03.2.48ab nīcatvaṃ para.deśaṃ vā prasthito rāja.kilbiṣī |  
-KAZ03.2.48cd prāṇa.abhihantā patitas tyājyaḥ klībo 'pi vā patiḥ || 48 ||  
+कज़्०३।२।४८अब् नीचत्वं पर।देशं वा प्रस्थितो राज।किल्बिषी ।  
+कज़्०३।२।४८च्द् प्राण।अभिहन्ता पतितस् त्याज्यः क्लीबो ऽपि वा पतिः ॥ ४८ ॥  
 
 
  छप्तेर् ३ (सेच्तिओन् ५९): चोन्चेर्निन्ग् मर्रिअगे (चोन्त्।)
@@ -4278,92 +4277,92 @@ KAZ03.2.48cd prāṇa.abhihantā patitas tyājyaḥ klībo 'pi vā patiḥ || 48
 कज़्०३।३।३२च्द् स्त्री।धन।आनीत।शुल्कानाम् अस्वाम्यं जायते स्त्रियाः ॥ ३२ ॥  
 
 
- Chapter 4 (Section 59): Concerning Marriage (cont.)
- \[K tr. 236\] ,  \[K2 tr. 205\] 
-KAZ03.4.01 pati.kulān niṣpatitāyāḥ striyāḥ ṣaṭ.paṇo daṇḍaḥ, anyatra viprakārāt | 1 |
+ छप्तेर् ४ (सेच्तिओन् ५९): चोन्चेर्निन्ग् मर्रिअगे (चोन्त्।)
+ \[क् त्र्। २३६\] ,  \[क्२ त्र्। २०५\] 
+कज़्०३।४।०१ पति।कुलान् निष्पतितायाः स्त्रियाः षट्।पणो दण्डः, अन्यत्र विप्रकारात् । १ ।
 
-KAZ03.4.02 pratiṣiddhāyāṃ dvādaśa.paṇaḥ | 2 |
+कज़्०३।४।०२ प्रतिषिद्धायां द्वादश।पणः । २ ।
 
-KAZ03.4.03 prativeśa.gṛha.atigatāyāḥ ṣaṭ.paṇaḥ | 3 |
+कज़्०३।४।०३ प्रतिवेश।गृह।अतिगतायाः षट्।पणः । ३ ।
 
-KAZ03.4.04 prātiveśika.bhikṣuka.vaidehakānām avakāśa.bhikṣā.paṇya.dāne dvādaśa.paṇo daṇḍaḥ | 4 |
+कज़्०३।४।०४ प्रातिवेशिक।भिक्षुक।वैदेहकानाम् अवकाश।भिक्षा।पण्य।दाने द्वादश।पणो दण्डः । ४ ।
 
-KAZ03.4.05 pratiṣiddhānāṃ pūrvaḥ sāhasa.daṇḍaḥ | 5 |
+कज़्०३।४।०५ प्रतिषिद्धानां पूर्वः साहस।दण्डः । ५ ।
 
-KAZ03.4.06 para.gṛha.atigatāyāś catur.viṃśati.paṇaḥ | 6 |
+कज़्०३।४।०६ पर।गृह।अतिगतायाश् चतुर्।विंशति।पणः । ६ ।
 
-KAZ03.4.07 para.bhāryā.avakāśa.dāne śatyo daṇḍaḥ, anyatra-āpadbhyaḥ | 7 |
+कज़्०३।४।०७ पर।भार्या।अवकाश।दाने शत्यो दण्डः, अन्यत्र-आपद्भ्यः । ७ ।
 
-KAZ03.4.08 vāraṇa.ajñānayor nirdoṣaḥ | 8 |
+कज़्०३।४।०८ वारण।अज्ञानयोर् निर्दोषः । ८ ।
 
-KAZ03.4.09 "pati.viprakārāt pati.jñāti.sukha.avastha.grāmika.anvādhi.bhikṣukī.jñāti.kulānām anyatamam apuruṣaṃ gantum adoṣaḥ" iti ācāryāḥ | 9 |
+कज़्०३।४।०९ "पति।विप्रकारात् पति।ज्ञाति।सुख।अवस्थ।ग्रामिक।अन्वाधि।भिक्षुकी।ज्ञाति।कुलानाम् अन्यतमम् अपुरुषं गन्तुम् अदोषः" इति आचार्याः । ९ ।
 
-KAZ03.4.10 sa-puruṣaṃ vā jñāti.kulam | 10 |
+कज़्०३।४।१० स-पुरुषं वा ज्ञाति।कुलम् । १० ।
 
-KAZ03.4.11 kuto hi sādhvī.janasyac-chalam | 11 |
+कज़्०३।४।११ कुतो हि साध्वी।जनस्यच्-छलम् । ११ ।
 
-KAZ03.4.12 sukham etad avaboddhum, iti kauṭilyaḥ | 12 |
+कज़्०३।४।१२ सुखम् एतद् अवबोद्धुम्, इति कौटिल्यः । १२ ।
 
-KAZ03.4.13 preta.vyādhi.vyasana.garbha.nimittam apratiṣiddham eva jñāti.kula.gamanam | 13 |
+कज़्०३।४।१३ प्रेत।व्याधि।व्यसन।गर्भ।निमित्तम् अप्रतिषिद्धम् एव ज्ञाति।कुल।गमनम् । १३ ।
 
-KAZ03.4.14 tan.nimittaṃ vārayato dvādaśa.paṇo daṇḍaḥ | 14 |
+कज़्०३।४।१४ तन्।निमित्तं वारयतो द्वादश।पणो दण्डः । १४ ।
 
-KAZ03.4.15 tatra-api gūhamānā strī.dhanaṃ jīyeta, jñātayo vā chādayantaḥ śulka.śeṣam | 15 | iti niṣpatanam |
+कज़्०३।४।१५ तत्र-अपि गूहमाना स्त्री।धनं जीयेत, ज्ञातयो वा छादयन्तः शुल्क।शेषम् । १५ । इति निष्पतनम् ।
 
-KAZ03.4.16 pati.kulān niṣpatya grāma.antara.gamane dvādaśa.paṇo daṇḍaḥ sthāpyā.ābharaṇa.lopaś ca | 16 |
+कज़्०३।४।१६ पति।कुलान् निष्पत्य ग्राम।अन्तर।गमने द्वादश।पणो दण्डः स्थाप्या।आभरण।लोपश् च । १६ ।
 
-KAZ03.4.17 gamyena vā puṃsā saha prasthāne catur.viṃśati.paṇaḥ sarva.dharma.lopaś ca, anyatra bharma.dāna.tīrtha.gamanābhyām | 17 |
+कज़्०३।४।१७ गम्येन वा पुंसा सह प्रस्थाने चतुर्।विंशति।पणः सर्व।धर्म।लोपश् च, अन्यत्र भर्म।दान।तीर्थ।गमनाभ्याम् । १७ ।
 
-KAZ03.4.18 puṃsaḥ pūrvaḥ sāhasa.daṇḍaḥ tulya.śreyasoḥ, pāpīyaso madhyamaḥ | 18 |
+कज़्०३।४।१८ पुंसः पूर्वः साहस।दण्डः तुल्य।श्रेयसोः, पापीयसो मध्यमः । १८ ।
 
-KAZ03.4.19 bandhur.adaṇḍyaḥ | 19 |
+कज़्०३।४।१९ बन्धुर्।अदण्ड्यः । १९ ।
 
-KAZ03.4.20 pratiṣedhe 'rdha.daṇḍāḥ | 20 |
+कज़्०३।४।२० प्रतिषेधे ऽर्ध।दण्डाः । २० ।
 
-KAZ03.4.21 pathi vyantare gūḍha.deśa.abhigamane maithuna.arthena śaṅkita.pratiṣiddhāyāṃ vā pathy.anusaraṇe saṅgrahaṇaṃ vidyāt | 21 |
+कज़्०३।४।२१ पथि व्यन्तरे गूढ।देश।अभिगमने मैथुन।अर्थेन शङ्कित।प्रतिषिद्धायां वा पथ्य्।अनुसरणे सङ्ग्रहणं विद्यात् । २१ ।
 
-KAZ03.4.22 tāla.avacara.cāraṇa.matsya.bandhaka.lubdhaka.go.pālaka.śauṇḍikānām anyeṣāṃ ca prasṛṣṭa.strīkāṇāṃ pathy.anusaraṇam adoṣaḥ | 22 |
+कज़्०३।४।२२ ताल।अवचर।चारण।मत्स्य।बन्धक।लुब्धक।गो।पालक।शौण्डिकानाम् अन्येषां च प्रसृष्ट।स्त्रीकाणां पथ्य्।अनुसरणम् अदोषः । २२ ।
 
-KAZ03.4.23 pratiṣiddhe vā nayataḥ puṃsaḥ striyo vā gacchantyās ta eva-ardha.daṇḍāḥ | 23 | iti pathy.anusaraṇam |
+कज़्०३।४।२३ प्रतिषिद्धे वा नयतः पुंसः स्त्रियो वा गच्छन्त्यास् त एव-अर्ध।दण्डाः । २३ । इति पथ्य्।अनुसरणम् ।
 
-KAZ03.4.24 hrasva.pravāsināṃ śūdra.vaiśya.kṣatriya.brāhmaṇānāṃ bhāryāḥ saṃvatsara.uttaraṃ kālam ākāṅkṣeran aprajātāḥ, saṃvatsara.adhikaṃ prajātāḥ | 24 |
+कज़्०३।४।२४ ह्रस्व।प्रवासिनां शूद्र।वैश्य।क्षत्रिय।ब्राह्मणानां भार्याः संवत्सर।उत्तरं कालम् आकाङ्क्षेरन् अप्रजाताः, संवत्सर।अधिकं प्रजाताः । २४ ।
 
-KAZ03.4.25 prativihitā dvi.guṇaṃ kālam | 25 |
+कज़्०३।४।२५ प्रतिविहिता द्वि।गुणं कालम् । २५ ।
 
-KAZ03.4.26 aprativihitāḥ sukha.avasthā bibhṛyuḥ, paraṃ catvāri varṣāṇy aṣṭau vā jñātayaḥ | 26 |
+कज़्०३।४।२६ अप्रतिविहिताः सुख।अवस्था बिभृयुः, परं चत्वारि वर्षाण्य् अष्टौ वा ज्ञातयः । २६ ।
 
-KAZ03.4.27 tato yathā.dattam ādāya pramuñceyuḥ | 27 |
+कज़्०३।४।२७ ततो यथा।दत्तम् आदाय प्रमुञ्चेयुः । २७ ।
 
-KAZ03.4.28 brāhmaṇam adhīyānaṃ daśa.varṣāṇy aprajātā, dvādaśa prajātā, rāja.puruṣam āyuḥ.kṣayād ākāṅkṣeta | 28 |
+कज़्०३।४।२८ ब्राह्मणम् अधीयानं दश।वर्षाण्य् अप्रजाता, द्वादश प्रजाता, राज।पुरुषम् आयुः।क्षयाद् आकाङ्क्षेत । २८ ।
 
-KAZ03.4.29 savarṇataś ca prajātā na-apavādaṃ labheta | 29 |
+कज़्०३।४।२९ सवर्णतश् च प्रजाता न-अपवादं लभेत । २९ ।
 
-KAZ03.4.30 kuṭumba.ṛddhi.lope vā sukha.avasthair vimuktā yathā.iṣṭaṃ vindeta, jīvita.artham āpad.gatā vā | 30 |
+कज़्०३।४।३० कुटुम्ब।ऋद्धि।लोपे वा सुख।अवस्थैर् विमुक्ता यथा।इष्टं विन्देत, जीवित।अर्थम् आपद्।गता वा । ३० ।
 
-KAZ03.4.31 dharma.vivāhāt kumārī parigrahītāram anākhyāya proṣitam aśrūyamāṇaṃ sapta tīrthāny ākāṅkṣeta, saṃvatsaraṃ śrūyamāṇam | 31 |
+कज़्०३।४।३१ धर्म।विवाहात् कुमारी परिग्रहीतारम् अनाख्याय प्रोषितम् अश्रूयमाणं सप्त तीर्थान्य् आकाङ्क्षेत, संवत्सरं श्रूयमाणम् । ३१ ।
 
-KAZ03.4.32 ākhyāya proṣitam aśrūyamāṇaṃ pañca tīrthāny ākāṅkṣeta, daśa śrūyamāṇam | 32 |
+कज़्०३।४।३२ आख्याय प्रोषितम् अश्रूयमाणं पञ्च तीर्थान्य् आकाङ्क्षेत, दश श्रूयमाणम् । ३२ ।
 
-KAZ03.4.33 eka.deśa.datta.śulkaṃ trīṇi tīrthāny aśrūyamāṇam, śrūyamāṇaṃ sapta tīrthāny ākāṅkṣeta | 33 |
+कज़्०३।४।३३ एक।देश।दत्त।शुल्कं त्रीणि तीर्थान्य् अश्रूयमाणम्, श्रूयमाणं सप्त तीर्थान्य् आकाङ्क्षेत । ३३ ।
 
-KAZ03.4.34 datta.śulkaṃ pañca tīrthāny aśrūyamāṇam, daśa śrūyamāṇam | 34 |
+कज़्०३।४।३४ दत्त।शुल्कं पञ्च तीर्थान्य् अश्रूयमाणम्, दश श्रूयमाणम् । ३४ ।
 
-KAZ03.4.35 tataḥ paraṃ dharmasthair visṛṣṭā yathā.iṣṭaṃ vindeta | 35 |
+कज़्०३।४।३५ ततः परं धर्मस्थैर् विसृष्टा यथा।इष्टं विन्देत । ३५ ।
 
-KAZ03.4.36 tīrtha.uparodho hi dharma.vadha iti kauṭilyaḥ | 36 | iti hrasva.pravāsaḥ |
+कज़्०३।४।३६ तीर्थ।उपरोधो हि धर्म।वध इति कौटिल्यः । ३६ । इति ह्रस्व।प्रवासः ।
 
-KAZ03.4.37 dīrgha.pravāsinaḥ pravrajitasya pretasya vā bhāryā sapta tīrthāny ākāṅkṣeta, saṃvatsaraṃ prajātā | 37 |
+कज़्०३।४।३७ दीर्घ।प्रवासिनः प्रव्रजितस्य प्रेतस्य वा भार्या सप्त तीर्थान्य् आकाङ्क्षेत, संवत्सरं प्रजाता । ३७ ।
 
-KAZ03.4.38 tataḥ pati.sodaryaṃ gacchet | 38 |
+कज़्०३।४।३८ ततः पति।सोदर्यं गच्छेत् । ३८ ।
 
-KAZ03.4.39 bahuṣu pratyāsannaṃ dhārmikaṃ bharma.samarthaṃ kaniṣṭham abhāryaṃ vā | 39 |
+कज़्०३।४।३९ बहुषु प्रत्यासन्नं धार्मिकं भर्म।समर्थं कनिष्ठम् अभार्यं वा । ३९ ।
 
-KAZ03.4.40 tad.abhāve 'py asodaryaṃ sapiṇḍaṃ kulyaṃ vā-āsannam | 40 |
+कज़्०३।४।४० तद्।अभावे ऽप्य् असोदर्यं सपिण्डं कुल्यं वा-आसन्नम् । ४० ।
 
-KAZ03.4.41 eteṣām eṣa eva kramaḥ | 41 |
+कज़्०३।४।४१ एतेषाम् एष एव क्रमः । ४१ ।
 
-KAZ03.4.42ab etān utkramya dāyādān vedane jāra.karmaṇi |  
-KAZ03.4.42cd jāra.strī.dātṛ.vettāraḥ samprāptāḥ saṅgraha.atyayam || 42 ||  
+कज़्०३।४।४२अब् एतान् उत्क्रम्य दायादान् वेदने जार।कर्मणि ।  
+कज़्०३।४।४२च्द् जार।स्त्री।दातृ।वेत्तारः सम्प्राप्ताः सङ्ग्रह।अत्ययम् ॥ ४२ ॥  
 
 
  छप्तेर् ५ (सेच्तिओन् ६०): पर्तितिओन् ओड़् इन्हेरितन्चे
@@ -4436,56 +4435,56 @@ KAZ03.4.42cd jāra.strī.dātṛ.vettāraḥ samprāptāḥ saṅgraha.atyayam |
 कज़्०३।५।३३च्द् सृजेयुर् बान्धवाः पुत्रांस् तेषाम् अंशान् प्रकल्पयेत् ॥ ३३ ॥  
 
 
- Chapter 6 (Section 60): Partition of Inheritance (cont.)
- \[K tr. 244\] ,  \[K2 tr. 211\] 
-KAZ03.6.01 eka.strī.putrāṇāṃ jyeṣṭha.aṃśaḥ - brāhmaṇānām ajāḥ, kṣatriyāṇām aśvāḥ, vaiśyānāṃ gāvaḥ, śūdrāṇām avayaḥ | 1 |
+ छप्तेर् ६ (सेच्तिओन् ६०): पर्तितिओन् ओड़् इन्हेरितन्चे (चोन्त्।)
+ \[क् त्र्। २४४\] ,  \[क्२ त्र्। २११\] 
+कज़्०३।६।०१ एक।स्त्री।पुत्राणां ज्येष्ठ।अंशः - ब्राह्मणानाम् अजाः, क्षत्रियाणाम् अश्वाः, वैश्यानां गावः, शूद्राणाम् अवयः । १ ।
 
-KAZ03.6.02 kāṇa.laṅgās teṣāṃ madhyama.aṃśaḥ, bhinna.varṇāḥ kaniṣṭha.aṃśaḥ | 2 |
+कज़्०३।६।०२ काण।लङ्गास् तेषां मध्यम।अंशः, भिन्न।वर्णाः कनिष्ठ।अंशः । २ ।
 
-KAZ03.6.03 catuṣpada.abhāve ratna.varjānāṃ daśānāṃ bhāgaṃ dravyāṇām ekaṃ jyeṣṭho haret | 3 |
+कज़्०३।६।०३ चतुष्पद।अभावे रत्न।वर्जानां दशानां भागं द्रव्याणाम् एकं ज्येष्ठो हरेत् । ३ ।
 
-KAZ03.6.04 pratimukta.svadhā.pāśo hi bhavati | 4 |
+कज़्०३।६।०४ प्रतिमुक्त।स्वधा।पाशो हि भवति । ४ ।
 
-KAZ03.6.05 ity auśanaso vibhāgaḥ | 5 |
+कज़्०३।६।०५ इत्य् औशनसो विभागः । ५ ।
 
-KAZ03.6.06 pituḥ parivāpād yānam ābharaṇaṃ ca jyeṣṭha.aṃśaḥ, śayana.āsanaṃ bhukta.kāṃsyaṃ ca madhyama.aṃśaḥ, kṛṣṇaṃ dhānya.āyasaṃ gṛha.parivāpo go.śakaṭaṃ ca kaniṣṭha.aṃśaḥ | 6 |
+कज़्०३।६।०६ पितुः परिवापाद् यानम् आभरणं च ज्येष्ठ।अंशः, शयन।आसनं भुक्त।कांस्यं च मध्यम।अंशः, कृष्णं धान्य।आयसं गृह।परिवापो गो।शकटं च कनिष्ठ।अंशः । ६ ।
 
-KAZ03.6.07 śeṣa.dravyāṇām eka.dravyasya vā samo vibhāgaḥ | 7 |
+कज़्०३।६।०७ शेष।द्रव्याणाम् एक।द्रव्यस्य वा समो विभागः । ७ ।
 
-KAZ03.6.08 adāyādā bhaginyaḥ, mātuḥ parivāpād bhukta.kāṃsya.ābharaṇa.bhāginyaḥ | 8 |
+कज़्०३।६।०८ अदायादा भगिन्यः, मातुः परिवापाद् भुक्त।कांस्य।आभरण।भागिन्यः । ८ ।
 
-KAZ03.6.09 mānuṣa.hīno jyeṣṭhas tṛtīyam aṃśaṃ jyeṣṭha.aṃśāl labheta, caturtham anyāya.vṛttiḥ, nivṛtta.dharma.kāryo vā | 9 |
+कज़्०३।६।०९ मानुष।हीनो ज्येष्ठस् तृतीयम् अंशं ज्येष्ठ।अंशाल् लभेत, चतुर्थम् अन्याय।वृत्तिः, निवृत्त।धर्म।कार्यो वा । ९ ।
 
-KAZ03.6.10 kāma.ācāraḥ sarvaṃ jīyeta | 10 |
+कज़्०३।६।१० काम।आचारः सर्वं जीयेत । १० ।
 
-KAZ03.6.11 tena madhyama.kaniṣṭhau vyākhyātau | 11 |
+कज़्०३।६।११ तेन मध्यम।कनिष्ठौ व्याख्यातौ । ११ ।
 
-KAZ03.6.12 tayor mānuṣa.upeto jyeṣṭha.aṃśād ardhaṃ labheta | 12 |
+कज़्०३।६।१२ तयोर् मानुष।उपेतो ज्येष्ठ।अंशाद् अर्धं लभेत । १२ ।
 
-KAZ03.6.13 nānā.strī.putrāṇāṃ tu saṃskṛta.asaṃskṛtayoḥ kanyā.kṛta.kṣatayor abhāve ca ekasyāḥ putrayor yamayor vā pūrva.janmanā jyeṣṭha.bhāvaḥ | 13 |
+कज़्०३।६।१३ नाना।स्त्री।पुत्राणां तु संस्कृत।असंस्कृतयोः कन्या।कृत।क्षतयोर् अभावे च एकस्याः पुत्रयोर् यमयोर् वा पूर्व।जन्मना ज्येष्ठ।भावः । १३ ।
 
-KAZ03.6.14 sūta.māgadha.vrātya.ratha.kārāṇām aiśvaryato vibhāgaḥ | 14 |
+कज़्०३।६।१४ सूत।मागध।व्रात्य।रथ।काराणाम् ऐश्वर्यतो विभागः । १४ ।
 
-KAZ03.6.15 śeṣās tam upajīveyuḥ | 15 |
+कज़्०३।६।१५ शेषास् तम् उपजीवेयुः । १५ ।
 
-KAZ03.6.16 anīśvarāḥ sama.vibhāgāḥ | 16 |
+कज़्०३।६।१६ अनीश्वराः सम।विभागाः । १६ ।
 
-KAZ03.6.17 cāturvarṇya.putrāṇāṃ brāhmaṇī.putraś caturo 'ṃśān haret, kṣatriyā.putra.strīn aṃśān, vaiśyā.putro dvāv aṃśau, ekaṃ śūdrā.putraḥ | 17 |
+कज़्०३।६।१७ चातुर्वर्ण्य।पुत्राणां ब्राह्मणी।पुत्रश् चतुरो ऽंशान् हरेत्, क्षत्रिया।पुत्र।स्त्रीन् अंशान्, वैश्या।पुत्रो द्वाव् अंशौ, एकं शूद्रा।पुत्रः । १७ ।
 
-KAZ03.6.18 tena tri.varṇa.dvi.varṇa.putra.vibhāgaḥ kṣatriya.vaiśyayor vyākhyātaḥ | 18 |
+कज़्०३।६।१८ तेन त्रि।वर्ण।द्वि।वर्ण।पुत्र।विभागः क्षत्रिय।वैश्ययोर् व्याख्यातः । १८ ।
 
-KAZ03.6.19 brāhmaṇasya-anantarā.putras tulya.aṃśaḥ | 19 |
+कज़्०३।६।१९ ब्राह्मणस्य-अनन्तरा।पुत्रस् तुल्य।अंशः । १९ ।
 
-KAZ03.6.20 kṣatriya.vaiśyayor ardha.aṃśaḥ tulya.aṃśo vā mānuṣa.upetaḥ | 20 |
+कज़्०३।६।२० क्षत्रिय।वैश्ययोर् अर्ध।अंशः तुल्य।अंशो वा मानुष।उपेतः । २० ।
 
-KAZ03.6.21 tulya.atulyayor eka.putraḥ sarvaṃ haret, bandhūṃś ca bibhṛyāt | 21 |
+कज़्०३।६।२१ तुल्य।अतुल्ययोर् एक।पुत्रः सर्वं हरेत्, बन्धूंश् च बिभृयात् । २१ ।
 
-KAZ03.6.22 brāhmaṇānāṃ tu pāraśavas tṛtīyam aṃśaṃ labheta, dvāv aṃśau sapiṇḍaḥ kulyo vā-āsannaḥ, svadhā.dāna.hetoḥ | 22 |
+कज़्०३।६।२२ ब्राह्मणानां तु पारशवस् तृतीयम् अंशं लभेत, द्वाव् अंशौ सपिण्डः कुल्यो वा-आसन्नः, स्वधा।दान।हेतोः । २२ ।
 
-KAZ03.6.23 tad.abhāve pitur ācāryo 'ntevāsī vā | 23 |
+कज़्०३।६।२३ तद्।अभावे पितुर् आचार्यो ऽन्तेवासी वा । २३ ।
 
-KAZ03.6.24ab kṣetre vā janayed asya niyuktaḥ kṣetrajaṃ sutam |  
-KAZ03.6.24cd mātṛ.bandhuḥ sagotro vā tasmai tat pradiśed dhanam || 24 ||  
+कज़्०३।६।२४अब् क्षेत्रे वा जनयेद् अस्य नियुक्तः क्षेत्रजं सुतम् ।  
+कज़्०३।६।२४च्द् मातृ।बन्धुः सगोत्रो वा तस्मै तत् प्रदिशेद् धनम् ॥ २४ ॥  
 
 
  छप्तेर् ७ (सेच्तिओन् ६०): पर्तितिओन् ओड़् इन्हेरितन्चे (चोन्त्।)
@@ -4572,64 +4571,64 @@ KAZ03.6.24cd mātṛ.bandhuḥ sagotro vā tasmai tat pradiśed dhanam || 24 ||
 कज़्०३।७।४०च्द् उचितस् तस्य तेन-एव दाय।धर्मं प्रकल्पयेत् ॥ ४० ॥  
 
 
- Chapter 8 (Section 61): Concerning Immovable Property
- \[K tr. 249\] ,  \[K2 tr. 216\] 
-KAZ03.8.01 sāmanta.pratyayā vāstu.vivādāḥ | 1 |
+ छप्तेर् ८ (सेच्तिओन् ६१): चोन्चेर्निन्ग् इम्मोवब्ले प्रोपेर्त्य्
+ \[क् त्र्। २४९\] ,  \[क्२ त्र्। २१६\] 
+कज़्०३।८।०१ सामन्त।प्रत्यया वास्तु।विवादाः । १ ।
 
-KAZ03.8.02 gṛhaṃ kṣetram ārāmaḥ setu.bandhas taṭākam ādhāro vā vāstuḥ | 2 |
+कज़्०३।८।०२ गृहं क्षेत्रम् आरामः सेतु।बन्धस् तटाकम् आधारो वा वास्तुः । २ ।
 
-KAZ03.8.03 karṇa.kīla.āyasa.sambandho 'nugṛhaṃ setuḥ | 3 |
+कज़्०३।८।०३ कर्ण।कील।आयस।सम्बन्धो ऽनुगृहं सेतुः । ३ ।
 
-KAZ03.8.04 yathā.setu.bhogaṃ veśma kārayet | 4 |
+कज़्०३।८।०४ यथा।सेतु।भोगं वेश्म कारयेत् । ४ ।
 
-KAZ03.8.05 abhūtaṃ vā para.kuḍyād apakramya dvāv aratnī tripadīṃ vā deśa.bandhaṃ kārayet | 5 |
+कज़्०३।८।०५ अभूतं वा पर।कुड्याद् अपक्रम्य द्वाव् अरत्नी त्रिपदीं वा देश।बन्धं कारयेत् । ५ ।
 
-KAZ03.8.06 avaskaraṃ bhramam uda.pānaṃ vā na gṛha.ucitād anyatra, anyatra sūtikā.kūpād ā.nirdaśa.ahād iti | 6 |
+कज़्०३।८।०६ अवस्करं भ्रमम् उद।पानं वा न गृह।उचिताद् अन्यत्र, अन्यत्र सूतिका।कूपाद् आ।निर्दश।अहाद् इति । ६ ।
 
-KAZ03.8.07 tasya-atikrame pūrvaḥ sāhasa.daṇḍaḥ | 7 |
+कज़्०३।८।०७ तस्य-अतिक्रमे पूर्वः साहस।दण्डः । ७ ।
 
-KAZ03.8.08 tena-indhanāvaghātana.kṛtaṃ kalyāṇa.kṛtyeṣv ācāma.udaka.mārgāś ca vyākhyātāḥ | 8 |
+कज़्०३।८।०८ तेन-इन्धनावघातन।कृतं कल्याण।कृत्येष्व् आचाम।उदक।मार्गाश् च व्याख्याताः । ८ ।
 
-KAZ03.8.09 tripadī.pratikrāntam adhyardham aratniṃ vā gāḍha.prasṛtam udaka.mārgaṃ prasravaṇa.prapātaṃ vā kārayet | 9 |
+कज़्०३।८।०९ त्रिपदी।प्रतिक्रान्तम् अध्यर्धम् अरत्निं वा गाढ।प्रसृतम् उदक।मार्गं प्रस्रवण।प्रपातं वा कारयेत् । ९ ।
 
-KAZ03.8.10 tasya-atikrame catuṣ.pañcāśat.paṇo daṇḍaḥ | 10 |
+कज़्०३।८।१० तस्य-अतिक्रमे चतुष्।पञ्चाशत्।पणो दण्डः । १० ।
 
-KAZ03.8.11 ekapadī.pratikrāntam aratniṃ vā cakri.catuṣpada.sthānam agniṣṭham udan.jara.sthānaṃ rocanīṃ kuṭṭanīṃ vā kārayet | 11 |
+कज़्०३।८।११ एकपदी।प्रतिक्रान्तम् अरत्निं वा चक्रि।चतुष्पद।स्थानम् अग्निष्ठम् उदन्।जर।स्थानं रोचनीं कुट्टनीं वा कारयेत् । ११ ।
 
-KAZ03.8.12 tasya-atikrame catur.viṃśati.paṇo daṇḍaḥ | 12 |
+कज़्०३।८।१२ तस्य-अतिक्रमे चतुर्।विंशति।पणो दण्डः । १२ ।
 
-KAZ03.8.13 sarva.vāstukayoḥ prākṣiptakayor vā śālayoḥ kiṣkur antarikā tripadī vā | 13 |
+कज़्०३।८।१३ सर्व।वास्तुकयोः प्राक्षिप्तकयोर् वा शालयोः किष्कुर् अन्तरिका त्रिपदी वा । १३ ।
 
-KAZ03.8.14 tayoś catur.aṅgulaṃ nīpra.antaraṃ (nīvra.antaraṃ?) samārūḍhakaṃ vā | 14 |
+कज़्०३।८।१४ तयोश् चतुर्।अङ्गुलं नीप्र।अन्तरं (नीव्र।अन्तरं?) समारूढकं वा । १४ ।
 
-KAZ03.8.15 kiṣku.mātram āṇi.dvāram antarikāyāṃ khaṇḍa.phulla.artham asampātaṃ kārayet | 15 |
+कज़्०३।८।१५ किष्कु।मात्रम् आणि।द्वारम् अन्तरिकायां खण्ड।फुल्ल।अर्थम् असम्पातं कारयेत् । १५ ।
 
-KAZ03.8.16 prakāśa.artham alpam ūrdhvaṃ vāta.ayanaṃ kārayet | 16 |
+कज़्०३।८।१६ प्रकाश।अर्थम् अल्पम् ऊर्ध्वं वात।अयनं कारयेत् । १६ ।
 
-KAZ03.8.17 tad.avasite veśmanic-chādayet | 17 |
+कज़्०३।८।१७ तद्।अवसिते वेश्मनिच्-छादयेत् । १७ ।
 
-KAZ03.8.18 sambhūya vā gṛha.svāmino yathā.iṣṭaṃ kārayeyuḥ, aniṣṭaṃ vārayeyuḥ | 18 |
+कज़्०३।८।१८ सम्भूय वा गृह।स्वामिनो यथा।इष्टं कारयेयुः, अनिष्टं वारयेयुः । १८ ।
 
-KAZ03.8.19 vāna.laṭyāś ca-ūrdhvam āvārya.bhāgaṃ kaṭa.pracchannam avamarśa.bhittiṃ vā kārayed varṣa.ābādha.bhayāt | 19 |
+कज़्०३।८।१९ वान।लट्याश् च-ऊर्ध्वम् आवार्य।भागं कट।प्रच्छन्नम् अवमर्श।भित्तिं वा कारयेद् वर्ष।आबाध।भयात् । १९ ।
 
-KAZ03.8.20 tasya-atikrame pūrvaḥ sāhasa.daṇḍaḥ, pratiloma.dvāra.vāta.ayana.bādhāyāṃ ca, anyatra rāja.mārga.rathyābhyaḥ | 20 |
+कज़्०३।८।२० तस्य-अतिक्रमे पूर्वः साहस।दण्डः, प्रतिलोम।द्वार।वात।अयन।बाधायां च, अन्यत्र राज।मार्ग।रथ्याभ्यः । २० ।
 
-KAZ03.8.21 khāta.sopāna.praṇālī.niśreṇy.avaskara.bhāgair bahir.bādhāyāṃ bhoga.nigrahe ca | 21 |
+कज़्०३।८।२१ खात।सोपान।प्रणाली।निश्रेण्य्।अवस्कर।भागैर् बहिर्।बाधायां भोग।निग्रहे च । २१ ।
 
-KAZ03.8.22 para.kuḍyam udakena-upaghnato dvādaśa.paṇo daṇḍaḥ, mūtra.purīṣa.upaghāte dvi.guṇaḥ | 22 |
+कज़्०३।८।२२ पर।कुड्यम् उदकेन-उपघ्नतो द्वादश।पणो दण्डः, मूत्र।पुरीष।उपघाते द्वि।गुणः । २२ ।
 
-KAZ03.8.23 praṇālī.mokṣo varṣati, anyathā dvādaśa.paṇo daṇḍaḥ | 23 |
+कज़्०३।८।२३ प्रणाली।मोक्षो वर्षति, अन्यथा द्वादश।पणो दण्डः । २३ ।
 
-KAZ03.8.24 pratiṣiddhasya ca vasataḥ, nirasyataś ca-avakrayiṇam anyatra pāruṣya.steya.sāhasa.saṅgrahaṇa.mithyā.bhogebhyaḥ | 24 |
+कज़्०३।८।२४ प्रतिषिद्धस्य च वसतः, निरस्यतश् च-अवक्रयिणम् अन्यत्र पारुष्य।स्तेय।साहस।सङ्ग्रहण।मिथ्या।भोगेभ्यः । २४ ।
 
-KAZ03.8.25 svayaṃ.abhiprasthito varṣa.avakraya.śeṣaṃ dadyāt | 25 |
+कज़्०३।८।२५ स्वयं।अभिप्रस्थितो वर्ष।अवक्रय।शेषं दद्यात् । २५ ।
 
-KAZ03.8.26 sāmānye veśmani sāhāyyam aprayacchataḥ, sāmānyam uparundhato bhogaṃ ca gṛhe dvādaśa.paṇo daṇḍaḥ | 26 |
+कज़्०३।८।२६ सामान्ये वेश्मनि साहाय्यम् अप्रयच्छतः, सामान्यम् उपरुन्धतो भोगं च गृहे द्वादश।पणो दण्डः । २६ ।
 
-KAZ03.8.27 vināśayatas tad.dvi.guṇaḥ | 27 |
+कज़्०३।८।२७ विनाशयतस् तद्।द्वि।गुणः । २७ ।
 
-KAZ03.8.28ab koṣṭhaka.aṅgaṇa.varcānām agni.kuṭṭana.śālayoḥ |  
-KAZ03.8.28cd vivṛtānāṃ ca sarveṣāṃ sāmānyo bhoga iṣyate || 28 ||  
+कज़्०३।८।२८अब् कोष्ठक।अङ्गण।वर्चानाम् अग्नि।कुट्टन।शालयोः ।  
+कज़्०३।८।२८च्द् विवृतानां च सर्वेषां सामान्यो भोग इष्यते ॥ २८ ॥  
 
 
  छप्तेर् ९ (सेच्तिओन् ६१): चोन्चेर्निन्ग् इम्मोवब्ले प्रोपेर्त्य् (चोन्त्।)
@@ -4712,100 +4711,100 @@ KAZ03.8.28cd vivṛtānāṃ ca sarveṣāṃ sāmānyo bhoga iṣyate || 28 ||
 कज़्०३।९।३८च्द् वारे वा तोयम् अन्येषां प्रमादेन-उपरुन्धतः ॥ ३८ ॥  
 
 
- Chapter 10 (Sections 61; 62): Concerning Immovable Property (cont.); Non-observance of Conventions
- \[K tr. 256\] ,  \[K2 tr. 222\] 
-KAZ03.10.01 karma.udaka.mārgam ucitaṃ rundhataḥ kurvato 'nucitaṃ vā pūrvaḥ sāhasa.daṇḍaḥ, setu.kūpa.puṇya.sthāna.caitya.deva.āyatanāni ca para.bhūmau niveśayataḥ | 1 |
+ छप्तेर् १० (सेच्तिओन्स् ६१; ६२): चोन्चेर्निन्ग् इम्मोवब्ले प्रोपेर्त्य् (चोन्त्।); नोन्-ओब्सेर्वन्चे ओड़् चोन्वेन्तिओन्स्
+ \[क् त्र्। २५६\] ,  \[क्२ त्र्। २२२\] 
+कज़्०३।१०।०१ कर्म।उदक।मार्गम् उचितं रुन्धतः कुर्वतो ऽनुचितं वा पूर्वः साहस।दण्डः, सेतु।कूप।पुण्य।स्थान।चैत्य।देव।आयतनानि च पर।भूमौ निवेशयतः । १ ।
 
-KAZ03.10.02 pūrva.anuvṛttaṃ dharma.setum ādhānaṃ vikrayaṃ vā nayato nāyayato vā madhyamaḥ sāhasa.daṇḍaḥ, śrotṝṇām uttamaḥ, anyatra bhagna.utsṛṣṭāt | 2 |
+कज़्०३।१०।०२ पूर्व।अनुवृत्तं धर्म।सेतुम् आधानं विक्रयं वा नयतो नाययतो वा मध्यमः साहस।दण्डः, श्रोतॄणाम् उत्तमः, अन्यत्र भग्न।उत्सृष्टात् । २ ।
 
-KAZ03.10.03 svāmy abhāve grāmāḥ puṇya.śīlā vā pratikuryuḥ | 3 |
+कज़्०३।१०।०३ स्वाम्य् अभावे ग्रामाः पुण्य।शीला वा प्रतिकुर्युः । ३ ।
 
-KAZ03.10.04 pathi.pramāṇaṃ durga.niveśe vyākhyātam | 4 |
+कज़्०३।१०।०४ पथि।प्रमाणं दुर्ग।निवेशे व्याख्यातम् । ४ ।
 
-KAZ03.10.05 kṣudra.paśu.manuṣya.pathaṃ rundhato dvādaśa.paṇo daṇḍaḥ, mahā.paśu.pathaṃ catur.viṃśati.paṇaḥ, hasti.kṣetra.pathaṃ catuṣ.pañcāśat.paṇaḥ, setu.vana.pathaṃ ṣaṭ.śataḥ, śmaśāna.grāma.pathaṃ dviśataḥ, droṇa.mukha.pathaṃ pañca.śataḥ, sthānīya.rāṣṭra.vivīta.pathaṃ sāhasraḥ | 5 |
+कज़्०३।१०।०५ क्षुद्र।पशु।मनुष्य।पथं रुन्धतो द्वादश।पणो दण्डः, महा।पशु।पथं चतुर्।विंशति।पणः, हस्ति।क्षेत्र।पथं चतुष्।पञ्चाशत्।पणः, सेतु।वन।पथं षट्।शतः, श्मशान।ग्राम।पथं द्विशतः, द्रोण।मुख।पथं पञ्च।शतः, स्थानीय।राष्ट्र।विवीत।पथं साहस्रः । ५ ।
 
-KAZ03.10.06 atikarṣaṇe ca-eṣāṃ daṇḍa.caturthā daṇḍāḥ | 6 |
+कज़्०३।१०।०६ अतिकर्षणे च-एषां दण्ड।चतुर्था दण्डाः । ६ ।
 
-KAZ03.10.07 karṣaṇe pūrva.uktāḥ | 7 |
+कज़्०३।१०।०७ कर्षणे पूर्व।उक्ताः । ७ ।
 
-KAZ03.10.08 kṣetrikasya-akṣipataḥ kṣetram upavāsasya vā tyajato bīja.kāle dvādaśa.paṇo daṇḍaḥ, anyatra doṣa.upanipāta.aviṣahyebhyaḥ | 8 |
+कज़्०३।१०।०८ क्षेत्रिकस्य-अक्षिपतः क्षेत्रम् उपवासस्य वा त्यजतो बीज।काले द्वादश।पणो दण्डः, अन्यत्र दोष।उपनिपात।अविषह्येभ्यः । ८ ।
 
-KAZ03.10.09 karadāḥ karadeṣv ādhānaṃ vikrayaṃ vā kuryuḥ, brahma.deyikā brahma.deyikeṣu | 9 |
+कज़्०३।१०।०९ करदाः करदेष्व् आधानं विक्रयं वा कुर्युः, ब्रह्म।देयिका ब्रह्म।देयिकेषु । ९ ।
 
-KAZ03.10.10 anyathā pūrvaḥ sāhasa.daṇḍaḥ | 10 |
+कज़्०३।१०।१० अन्यथा पूर्वः साहस।दण्डः । १० ।
 
-KAZ03.10.11 karadasya vā-akarada.grāmaṃ praviśataḥ | 11 |
+कज़्०३।१०।११ करदस्य वा-अकरद।ग्रामं प्रविशतः । ११ ।
 
-KAZ03.10.12 karadaṃ tu praviśataḥ sarva.dravyeṣu prākāmyaṃ syāt, anyatra-agārāt | 12 |
+कज़्०३।१०।१२ करदं तु प्रविशतः सर्व।द्रव्येषु प्राकाम्यं स्यात्, अन्यत्र-अगारात् । १२ ।
 
-KAZ03.10.13 tad apy asmai dadyāt | 13 |
+कज़्०३।१०।१३ तद् अप्य् अस्मै दद्यात् । १३ ।
 
-KAZ03.10.14 anādeyam akṛṣato 'nyaḥ pañca.varṣāṇy upabhujya prayāsa.niṣkrayeṇa dadyāt | 14 |
+कज़्०३।१०।१४ अनादेयम् अकृषतो ऽन्यः पञ्च।वर्षाण्य् उपभुज्य प्रयास।निष्क्रयेण दद्यात् । १४ ।
 
-KAZ03.10.15 akaradāḥ paratra vasanto bhogam upajīveyuḥ | 15 |
+कज़्०३।१०।१५ अकरदाः परत्र वसन्तो भोगम् उपजीवेयुः । १५ ।
 
-KAZ03.10.16 grāma.arthena grāmikaṃ vrajantam upavāsāḥ paryāyeṇa-anugaccheyuḥ | 16 |
+कज़्०३।१०।१६ ग्राम।अर्थेन ग्रामिकं व्रजन्तम् उपवासाः पर्यायेण-अनुगच्छेयुः । १६ ।
 
-KAZ03.10.17 ananugacchantaḥ paṇa.ardha.paṇikaṃ yojanaṃ dadyuḥ | 17 |
+कज़्०३।१०।१७ अननुगच्छन्तः पण।अर्ध।पणिकं योजनं दद्युः । १७ ।
 
-KAZ03.10.18 grāmikasya grāmād astena.pāradārikaṃ nirasyataś catur.viṃśati.paṇo daṇḍaḥ, grāmasya-uttamaḥ | 18 |
+कज़्०३।१०।१८ ग्रामिकस्य ग्रामाद् अस्तेन।पारदारिकं निरस्यतश् चतुर्।विंशति।पणो दण्डः, ग्रामस्य-उत्तमः । १८ ।
 
-KAZ03.10.19 nirastasya praveśo hy abhigamena vyākhyātaḥ | 19 |
+कज़्०३।१०।१९ निरस्तस्य प्रवेशो ह्य् अभिगमेन व्याख्यातः । १९ ।
 
-KAZ03.10.20 stambhaiḥ samantato grāmād dhanuḥ.śata.apakṛṣṭam upasālaṃ kārayet | 20 |
+कज़्०३।१०।२० स्तम्भैः समन्ततो ग्रामाद् धनुः।शत।अपकृष्टम् उपसालं कारयेत् । २० ।
 
-KAZ03.10.21 paśu.pracāra.arthaṃ vivītam ālavanena-upajīveyuḥ | 21 |
+कज़्०३।१०।२१ पशु।प्रचार।अर्थं विवीतम् आलवनेन-उपजीवेयुः । २१ ।
 
-KAZ03.10.22 vivītaṃ bhakṣayitvā-apasṛtānām uṣṭra.mahiṣāṇāṃ pādikaṃ rūpaṃ gṛhṇīyuḥ, gava.aśva.kharāṇāṃ ca-ardha.pādikam, kṣudra.paśūnāṃ ṣoḍaśa.bhāgikam | 22 |
+कज़्०३।१०।२२ विवीतं भक्षयित्वा-अपसृतानाम् उष्ट्र।महिषाणां पादिकं रूपं गृह्णीयुः, गव।अश्व।खराणां च-अर्ध।पादिकम्, क्षुद्र।पशूनां षोडश।भागिकम् । २२ ।
 
-KAZ03.10.23 bhakṣayitvā niṣaṇṇānām eta eva dvi.guṇā daṇḍāḥ, parivasatāṃ catur.guṇāḥ | 23 |
+कज़्०३।१०।२३ भक्षयित्वा निषण्णानाम् एत एव द्वि।गुणा दण्डाः, परिवसतां चतुर्।गुणाः । २३ ।
 
-KAZ03.10.24 grāma.deva.vṛṣā vā-anirdaśa.ahā vā dhenur ukṣāṇo go.vṛṣāś ca-adaṇḍyāḥ | 24 |
+कज़्०३।१०।२४ ग्राम।देव।वृषा वा-अनिर्दश।अहा वा धेनुर् उक्षाणो गो।वृषाश् च-अदण्ड्याः । २४ ।
 
-KAZ03.10.25 sasya.bhakṣaṇe sasya.upaghātaṃ niṣpattitaḥ parisaṅkhyāya dvi.guṇaṃ dāpayet | 25 |
+कज़्०३।१०।२५ सस्य।भक्षणे सस्य।उपघातं निष्पत्तितः परिसङ्ख्याय द्वि।गुणं दापयेत् । २५ ।
 
-KAZ03.10.26 svāminaś ca-anivedya cārayato dvādaśa.paṇo daṇdaḥ, pramuñcataś catur.viṃśati.paṇaḥ | 26 |
+कज़्०३।१०।२६ स्वामिनश् च-अनिवेद्य चारयतो द्वादश।पणो दण्दः, प्रमुञ्चतश् चतुर्।विंशति।पणः । २६ ।
 
-KAZ03.10.27 pālinām ardha.daṇḍāḥ | 27 |
+कज़्०३।१०।२७ पालिनाम् अर्ध।दण्डाः । २७ ।
 
-KAZ03.10.28 tad eva ṣaṇḍa.bhakṣaṇe kuryāt | 28 |
+कज़्०३।१०।२८ तद् एव षण्ड।भक्षणे कुर्यात् । २८ ।
 
-KAZ03.10.29 vāṭa.bhede dvi.guṇaḥ veśma.khala.valaya.gatānāṃ ca dhānyānāṃ bhakṣaṇe | 29 |
+कज़्०३।१०।२९ वाट।भेदे द्वि।गुणः वेश्म।खल।वलय।गतानां च धान्यानां भक्षणे । २९ ।
 
-KAZ03.10.30 hiṃsā.pratīkāraṃ kuryāt | 30 |
+कज़्०३।१०।३० हिंसा।प्रतीकारं कुर्यात् । ३० ।
 
-KAZ03.10.31 abhaya.vana.mṛgāḥ parigṛhītā vā bhakṣayantaḥ svāmino nivedya yathā-avadhyās tathā pratiṣeddhavyāḥ | 31 |
+कज़्०३।१०।३१ अभय।वन।मृगाः परिगृहीता वा भक्षयन्तः स्वामिनो निवेद्य यथा-अवध्यास् तथा प्रतिषेद्धव्याः । ३१ ।
 
-KAZ03.10.32 paśavo raśmi.pratodābhyāṃ vārayitavyāḥ | 32 |
+कज़्०३।१०।३२ पशवो रश्मि।प्रतोदाभ्यां वारयितव्याः । ३२ ।
 
-KAZ03.10.33 teṣām anyathā hiṃsāyāṃ daṇḍa.pāruṣya.daṇḍāḥ | 33 |
+कज़्०३।१०।३३ तेषाम् अन्यथा हिंसायां दण्ड।पारुष्य।दण्डाः । ३३ ।
 
-KAZ03.10.34 prārthayamānā dṛṣṭa.aparādhā vā sarva.upāyair niyantavyāḥ | 34 | iti kṣetra.patha.hiṃsā |
+कज़्०३।१०।३४ प्रार्थयमाना दृष्ट।अपराधा वा सर्व।उपायैर् नियन्तव्याः । ३४ । इति क्षेत्र।पथ।हिंसा ।
 
-KAZ03.10.35 karṣakasya grāmam abhyupetya-akurvato grāma eva-atyayaṃ haret | 35 |
+कज़्०३।१०।३५ कर्षकस्य ग्रामम् अभ्युपेत्य-अकुर्वतो ग्राम एव-अत्ययं हरेत् । ३५ ।
 
-KAZ03.10.36 karma.akaraṇe karma.vetana.dvi.guṇam, hiraṇya.adāne pratyaṃśa.dvi.guṇam, bhakṣya.peya.adāne ca prahavaṇeṣu dvi.guṇam aṃśaṃ dadyāt | 36 |
+कज़्०३।१०।३६ कर्म।अकरणे कर्म।वेतन।द्वि।गुणम्, हिरण्य।अदाने प्रत्यंश।द्वि।गुणम्, भक्ष्य।पेय।अदाने च प्रहवणेषु द्वि।गुणम् अंशं दद्यात् । ३६ ।
 
-KAZ03.10.37 prekṣāyām anaṃśadaḥ, sa-sva.jano na prekṣeta | 37 |
+कज़्०३।१०।३७ प्रेक्षायाम् अनंशदः, स-स्व।जनो न प्रेक्षेत । ३७ ।
 
-KAZ03.10.38 pracchanna.śravaṇa.īkṣaṇe ca sarva.hite ca karmaṇi nigraheṇa dvi.guṇam aṃśaṃ dadyāt | 38 |
+कज़्०३।१०।३८ प्रच्छन्न।श्रवण।ईक्षणे च सर्व।हिते च कर्मणि निग्रहेण द्वि।गुणम् अंशं दद्यात् । ३८ ।
 
-KAZ03.10.39 sarva.hitam ekasya bruvataḥ kuryur ājñām | 39 |
+कज़्०३।१०।३९ सर्व।हितम् एकस्य ब्रुवतः कुर्युर् आज्ञाम् । ३९ ।
 
-KAZ03.10.40 akaraṇe dvādaśa.paṇo daṇḍaḥ | 40 |
+कज़्०३।१०।४० अकरणे द्वादश।पणो दण्डः । ४० ।
 
-KAZ03.10.41 taṃ cet sambhūya vā hanyuḥ pṛthag eṣām aparādha.dvi.guṇo daṇḍaḥ | 41 |
+कज़्०३।१०।४१ तं चेत् सम्भूय वा हन्युः पृथग् एषाम् अपराध।द्वि।गुणो दण्डः । ४१ ।
 
-KAZ03.10.42 upahantṛṣu viśiṣṭaḥ | 42 |
+कज़्०३।१०।४२ उपहन्तृषु विशिष्टः । ४२ ।
 
-KAZ03.10.43 brāhmaṇaś ca-eṣāṃ jyaiṣṭhyaṃ niyamyeta | 43 |
+कज़्०३।१०।४३ ब्राह्मणश् च-एषां ज्यैष्ठ्यं नियम्येत । ४३ ।
 
-KAZ03.10.44 prahavaṇeṣu ca-eṣāṃ brāhmaṇā na-akāmāḥ kuryuḥ, aṃśaṃ ca labheran | 44 |
+कज़्०३।१०।४४ प्रहवणेषु च-एषां ब्राह्मणा न-अकामाः कुर्युः, अंशं च लभेरन् । ४४ ।
 
-KAZ03.10.45 tena deśa.jāti.kula.saṅghānāṃ samayasya-anapākarma vyākhyātam | 45 |
+कज़्०३।१०।४५ तेन देश।जाति।कुल।सङ्घानां समयस्य-अनपाकर्म व्याख्यातम् । ४५ ।
 
-KAZ03.10.46ab rājā deśa.hitān setūn kurvatāṃ pathi saṅkramān |  
-KAZ03.10.46cd grāma.śobhāś ca rakṣāś ca teṣāṃ priya.hitaṃ caret || 46 ||  
+कज़्०३।१०।४६अब् राजा देश।हितान् सेतून् कुर्वतां पथि सङ्क्रमान् ।  
+कज़्०३।१०।४६च्द् ग्राम।शोभाश् च रक्षाश् च तेषां प्रिय।हितं चरेत् ॥ ४६ ॥  
 
 
  छप्तेर् ११ (सेच्तिओन् ६३): नोन्-पय्मेन्त् ओड़् देब्त्स्
@@ -4912,114 +4911,114 @@ KAZ03.10.46cd grāma.śobhāś ca rakṣāś ca teṣāṃ priya.hitaṃ caret |
 कज़्०३।११।५०च्द् दूरस्थान् अप्रसारान् वा स्वामि।वाक्येन साधयेत् ॥ ५० ॥  
 
 
- Chapter 12 (Section 64): Concerning Deposits
- \[K tr. 266\] ,  \[K2 tr. 230\] 
-KAZ03.12.01 upanidhir ṛṇena vyākhyātaḥ | 1 |
+ छप्तेर् १२ (सेच्तिओन् ६४): चोन्चेर्निन्ग् देपोसित्स्
+ \[क् त्र्। २६६\] ,  \[क्२ त्र्। २३०\] 
+कज़्०३।१२।०१ उपनिधिर् ऋणेन व्याख्यातः । १ ।
 
-KAZ03.12.02 para.cakra.āṭavikābhyāṃ durga.rāṣṭra.vilope vā, pratirodhakair vā grāma.sārtha.vraja.vilope, cakra.yukta.nāśe vā, grāma.madhya.agny.udaka.ābādhe jvālā.vega.uparuddhe vā, nāvi nimagnāyāṃ muṣitāyāṃ vā svayam uparūḍho na-upanidhim abhyāvahet | 2 |
+कज़्०३।१२।०२ पर।चक्र।आटविकाभ्यां दुर्ग।राष्ट्र।विलोपे वा, प्रतिरोधकैर् वा ग्राम।सार्थ।व्रज।विलोपे, चक्र।युक्त।नाशे वा, ग्राम।मध्य।अग्न्य्।उदक।आबाधे ज्वाला।वेग।उपरुद्धे वा, नावि निमग्नायां मुषितायां वा स्वयम् उपरूढो न-उपनिधिम् अभ्यावहेत् । २ ।
 
-KAZ03.12.03 upanidhi.bhoktā deśa.kāla.anurūpaṃ bhoga.vetanaṃ dadyāt, dvādaśa.paṇaṃ ca daṇḍam | 3 |
+कज़्०३।१२।०३ उपनिधि।भोक्ता देश।काल।अनुरूपं भोग।वेतनं दद्यात्, द्वादश।पणं च दण्डम् । ३ ।
 
-KAZ03.12.04 upabhoga.nimittaṃ naṣṭaṃ vinaṣṭaṃ vā-abhyāvahet, catur.viṃśati.paṇaś ca daṇḍaḥ, anyathā vā niṣpatane | 4 |
+कज़्०३।१२।०४ उपभोग।निमित्तं नष्टं विनष्टं वा-अभ्यावहेत्, चतुर्।विंशति।पणश् च दण्डः, अन्यथा वा निष्पतने । ४ ।
 
-KAZ03.12.05 pretaṃ vyasana.gataṃ vā na-upanidhim abhyāvahet | 5 |
+कज़्०३।१२।०५ प्रेतं व्यसन।गतं वा न-उपनिधिम् अभ्यावहेत् । ५ ।
 
-KAZ03.12.06 ādhāna.vikraya.apavyayaneṣu ca-asya catur.guṇa.pañca.bandho daṇḍaḥ | 6 |
+कज़्०३।१२।०६ आधान।विक्रय।अपव्ययनेषु च-अस्य चतुर्।गुण।पञ्च।बन्धो दण्डः । ६ ।
 
-KAZ03.12.07 parivartane niṣpātane vā mūlya.samaḥ | 7 |
+कज़्०३।१२।०७ परिवर्तने निष्पातने वा मूल्य।समः । ७ ।
 
-KAZ03.12.08 tena-ādhi.praṇāśa.upabhoga.vikraya.ādhāna.apahārā vyākhyātāḥ | 8 |
+कज़्०३।१२।०८ तेन-आधि।प्रणाश।उपभोग।विक्रय।आधान।अपहारा व्याख्याताः । ८ ।
 
-KAZ03.12.09 na-ādhiḥ sa-upakāraḥ sīdet, na ca-asya mūlyaṃ vardheta, anyatra nisargāt | 9 |
+कज़्०३।१२।०९ न-आधिः स-उपकारः सीदेत्, न च-अस्य मूल्यं वर्धेत, अन्यत्र निसर्गात् । ९ ।
 
-KAZ03.12.10 nirupakāraḥ sīdet, mūlyaṃ ca-asya vardheta | 10 |
+कज़्०३।१२।१० निरुपकारः सीदेत्, मूल्यं च-अस्य वर्धेत । १० ।
 
-KAZ03.12.11 upasthitasya-ādhim aprayacchato dvādaśaṇpaṇo daṇḍaḥ | 11 |
+कज़्०३।१२।११ उपस्थितस्य-आधिम् अप्रयच्छतो द्वादशण्पणो दण्डः । ११ ।
 
-KAZ03.12.12 prayojaka.asamnidhāne vā grāma.vṛddheṣu sthāpayitvā niṣkrayam ādhiṃ pratipadyeta | 12 |
+कज़्०३।१२।१२ प्रयोजक।असम्निधाने वा ग्राम।वृद्धेषु स्थापयित्वा निष्क्रयम् आधिं प्रतिपद्येत । १२ ।
 
-KAZ03.12.13 nivṛtta.vṛddhiko vā-ādhis tat.kāla.kṛta.mūlyas tatra-eva-avatiṣṭheta, anāśa.vināśa.karaṇa.adhiṣṭhito vā | 13 |
+कज़्०३।१२।१३ निवृत्त।वृद्धिको वा-आधिस् तत्।काल।कृत।मूल्यस् तत्र-एव-अवतिष्ठेत, अनाश।विनाश।करण।अधिष्ठितो वा । १३ ।
 
-KAZ03.12.14 dhāraṇika.asamnidhāne vā vināśa.bhayād udgata.arghaṃ dharmastha.anujñāto vikrīṇīta, ādhi.pāla.pratyayo vā | 14 |
+कज़्०३।१२।१४ धारणिक।असम्निधाने वा विनाश।भयाद् उद्गत।अर्घं धर्मस्थ।अनुज्ञातो विक्रीणीत, आधि।पाल।प्रत्ययो वा । १४ ।
 
-KAZ03.12.15 sthāvaras tu prayāsa.bhogyaḥ phala.bhogyo vā prakṣepa.vṛddhi.mūlya.śuddham ājīvam amūlya.kṣayeṇa-upanayet | 15 |
+कज़्०३।१२।१५ स्थावरस् तु प्रयास।भोग्यः फल।भोग्यो वा प्रक्षेप।वृद्धि।मूल्य।शुद्धम् आजीवम् अमूल्य।क्षयेण-उपनयेत् । १५ ।
 
-KAZ03.12.16 anisṛṣṭa.upabhoktā mūlya.śuddham ājīvaṃ bandhaṃ ca dadyāt | 16 |
+कज़्०३।१२।१६ अनिसृष्ट।उपभोक्ता मूल्य।शुद्धम् आजीवं बन्धं च दद्यात् । १६ ।
 
-KAZ03.12.17 śeṣam upanidhinā vyākhyātam | 17 |
+कज़्०३।१२।१७ शेषम् उपनिधिना व्याख्यातम् । १७ ।
 
-KAZ03.12.18 etena-ādeśo 'nvādhiś ca vyākhyātau | 18 |
+कज़्०३।१२।१८ एतेन-आदेशो ऽन्वाधिश् च व्याख्यातौ । १८ ।
 
-KAZ03.12.19 sārthena-anvādhi.hasto vā pradiṣṭāṃ bhūmim aprāptaś corair bhagna.utsṛṣṭo vā na-anvādhim abhyāvahet | 19 |
+कज़्०३।१२।१९ सार्थेन-अन्वाधि।हस्तो वा प्रदिष्टां भूमिम् अप्राप्तश् चोरैर् भग्न।उत्सृष्टो वा न-अन्वाधिम् अभ्यावहेत् । १९ ।
 
-KAZ03.12.20 antare vā mṛtasya dāyādo 'pi na-abhyāvahet | 20 |
+कज़्०३।१२।२० अन्तरे वा मृतस्य दायादो ऽपि न-अभ्यावहेत् । २० ।
 
-KAZ03.12.21 śeṣam upanidhinā vyakahyātam | 21 |
+कज़्०३।१२।२१ शेषम् उपनिधिना व्यकह्यातम् । २१ ।
 
-KAZ03.12.22 yācitakam avakrītakaṃ vā yathā.vidhaṃ gṛhṇīyus tathā.vidham eva-arpayeyuḥ | 22 |
+कज़्०३।१२।२२ याचितकम् अवक्रीतकं वा यथा।विधं गृह्णीयुस् तथा।विधम् एव-अर्पयेयुः । २२ ।
 
-KAZ03.12.23 bhreṣa.upanipātābhyāṃ deśa.kāla.uparodhi dattaṃ naṣṭaṃ vinaṣṭaṃ vā na-abhyāvaheyuḥ | 23 |
+कज़्०३।१२।२३ भ्रेष।उपनिपाताभ्यां देश।काल।उपरोधि दत्तं नष्टं विनष्टं वा न-अभ्यावहेयुः । २३ ।
 
-KAZ03.12.24 śeṣam upanidhinā vyākhyātam | 24 |
+कज़्०३।१२।२४ शेषम् उपनिधिना व्याख्यातम् । २४ ।
 
-KAZ03.12.25 vaiyāvṛtya.vikrayas tu - vaiyāvṛtya.karā yathā.deśa.kālaṃ vikrīṇānāḥ paṇyaṃ yathā.jātaṃ mūlyam udayaṃ ca dadyuḥ | 25 |
+कज़्०३।१२।२५ वैयावृत्य।विक्रयस् तु - वैयावृत्य।करा यथा।देश।कालं विक्रीणानाः पण्यं यथा।जातं मूल्यम् उदयं च दद्युः । २५ ।
 
-KAZ03.12.26 deśa.kāla.atipātane vā parihīṇaṃ sampradāna.kālikena-argheṇa mūlyam udayaṃ ca dadyuḥ | 26 |
+कज़्०३।१२।२६ देश।काल।अतिपातने वा परिहीणं सम्प्रदान।कालिकेन-अर्घेण मूल्यम् उदयं च दद्युः । २६ ।
 
-KAZ03.12.27 yathā.sambhāṣitaṃ vā vikrīṇānā na-udayam adhigaccheyuḥ, mūlyam eva dadyuḥ | 27 |
+कज़्०३।१२।२७ यथा।सम्भाषितं वा विक्रीणाना न-उदयम् अधिगच्छेयुः, मूल्यम् एव दद्युः । २७ ।
 
-KAZ03.12.28 argha.patane vā parihīṇaṃ yathā.parihīṇaṃ mūlyam ūnaṃ dadyuḥ | 28 |
+कज़्०३।१२।२८ अर्घ।पतने वा परिहीणं यथा।परिहीणं मूल्यम् ऊनं दद्युः । २८ ।
 
-KAZ03.12.29 sāṃvyavahārikeṣu vā prātyayikeṣv arāja.vācyeṣu bhreṣa.upanipātābhyāṃ naṣṭaṃ vinaṣṭaṃ vā mūlyam api na dadyuḥ | 29 |
+कज़्०३।१२।२९ सांव्यवहारिकेषु वा प्रात्ययिकेष्व् अराज।वाच्येषु भ्रेष।उपनिपाताभ्यां नष्टं विनष्टं वा मूल्यम् अपि न दद्युः । २९ ।
 
-KAZ03.12.30 deśa.kāla.antaritānāṃ tu paṇyānāṃ kṣaya.vyaya.viśuddhaṃ mūlyam udayaṃ ca dadyuḥ, paṇya.samavāyānāṃ ca pratyaṃśam | 30 |
+कज़्०३।१२।३० देश।काल।अन्तरितानां तु पण्यानां क्षय।व्यय।विशुद्धं मूल्यम् उदयं च दद्युः, पण्य।समवायानां च प्रत्यंशम् । ३० ।
 
-KAZ03.12.31 śeṣam upanidhinā vyākhyātam | 31 |
+कज़्०३।१२।३१ शेषम् उपनिधिना व्याख्यातम् । ३१ ।
 
-KAZ03.12.32 etena vaiyāvṛtya.vikrayo vyākhyātaḥ | 32 |
+कज़्०३।१२।३२ एतेन वैयावृत्य।विक्रयो व्याख्यातः । ३२ ।
 
-KAZ03.12.33 nikṣepaś ca-upanidhinā | 33 |
+कज़्०३।१२।३३ निक्षेपश् च-उपनिधिना । ३३ ।
 
-KAZ03.12.34 tam anyena nikṣpitam anyasya-arpayato hīyeta | 34 |
+कज़्०३।१२।३४ तम् अन्येन निक्ष्पितम् अन्यस्य-अर्पयतो हीयेत । ३४ ।
 
-KAZ03.12.35 nikṣepa.apahāre pūrva.apadānaṃ nikṣeptāraś ca pramāṇam | 35 |
+कज़्०३।१२।३५ निक्षेप।अपहारे पूर्व।अपदानं निक्षेप्तारश् च प्रमाणम् । ३५ ।
 
-KAZ03.12.36 aśucayo hi kāravaḥ | 36 |
+कज़्०३।१२।३६ अशुचयो हि कारवः । ३६ ।
 
-KAZ03.12.37 na-eṣāṃ karaṇa.pūrvo nikṣepa.dharmaḥ | 37 |
+कज़्०३।१२।३७ न-एषां करण।पूर्वो निक्षेप।धर्मः । ३७ ।
 
-KAZ03.12.38 karaṇa.hīnaṃ nikṣepam apavyayamānaṃ gūḍha.bhitti.nyastān sākṣiṇo nikṣeptā rahasi praṇipātena prajñāpayet, vana.ante vā madya.prahavaṇa.viśvāsena | 38 |
+कज़्०३।१२।३८ करण।हीनं निक्षेपम् अपव्ययमानं गूढ।भित्ति।न्यस्तान् साक्षिणो निक्षेप्ता रहसि प्रणिपातेन प्रज्ञापयेत्, वन।अन्ते वा मद्य।प्रहवण।विश्वासेन । ३८ ।
 
-KAZ03.12.39 rahasi vṛddho vyādhito vā vaidehakaḥ kaścit kṛta.lakṣaṇaṃ dravyam asya haste nikṣipya-apagacchet | 39 |
+कज़्०३।१२।३९ रहसि वृद्धो व्याधितो वा वैदेहकः कश्चित् कृत।लक्षणं द्रव्यम् अस्य हस्ते निक्षिप्य-अपगच्छेत् । ३९ ।
 
-KAZ03.12.40 tasya pratideśena putro bhrātā vā-abhigamya nikṣepaṃ yāceta | 40 |
+कज़्०३।१२।४० तस्य प्रतिदेशेन पुत्रो भ्राता वा-अभिगम्य निक्षेपं याचेत । ४० ।
 
-KAZ03.12.41 dāne śuciḥ, anyathā nikṣepaṃ steya.daṇḍaṃ ca dadyāt | 41 |
+कज़्०३।१२।४१ दाने शुचिः, अन्यथा निक्षेपं स्तेय।दण्डं च दद्यात् । ४१ ।
 
-KAZ03.12.42 pravrajyā.abhimukho vā śraddheyaḥ kaścit kṛta.lakṣaṇaṃ dravyam asya haste nikṣipya pratiṣṭheta | 42 |
+कज़्०३।१२।४२ प्रव्रज्या।अभिमुखो वा श्रद्धेयः कश्चित् कृत।लक्षणं द्रव्यम् अस्य हस्ते निक्षिप्य प्रतिष्ठेत । ४२ ।
 
-KAZ03.12.43 tataḥ kāla.antara.āgato yāceta | 43 |
+कज़्०३।१२।४३ ततः काल।अन्तर।आगतो याचेत । ४३ ।
 
-KAZ03.12.44 dāne śuciḥ, anyathā nikṣepaṃ steya.daṇḍaṃ ca dadyāt | 44 |
+कज़्०३।१२।४४ दाने शुचिः, अन्यथा निक्षेपं स्तेय।दण्डं च दद्यात् । ४४ ।
 
-KAZ03.12.45 kṛta.lakṣaṇena vā dravyeṇa pratyānayed enam | 45 |
+कज़्०३।१२।४५ कृत।लक्षणेन वा द्रव्येण प्रत्यानयेद् एनम् । ४५ ।
 
-KAZ03.12.46 bāliśa.jātīyo vā rātrau rāja.dāyikā.kṣaṇa.bhītaḥ sāram asya haste nikṣipya-apagacchet | 46 |
+कज़्०३।१२।४६ बालिश।जातीयो वा रात्रौ राज।दायिका।क्षण।भीतः सारम् अस्य हस्ते निक्षिप्य-अपगच्छेत् । ४६ ।
 
-KAZ03.12.47 sa enaṃ bandhana.agāra.gato yāceta | 47 |
+कज़्०३।१२।४७ स एनं बन्धन।अगार।गतो याचेत । ४७ ।
 
-KAZ03.12.48 dāne śuciḥ, anyathā nikṣepaṃ steya.daṇḍaṃ ca dadyāt | 48 |
+कज़्०३।१२।४८ दाने शुचिः, अन्यथा निक्षेपं स्तेय।दण्डं च दद्यात् । ४८ ।
 
-KAZ03.12.49 abhijñānena ca-asya gṛhe janam ubhayaṃ yāceta | 49 |
+कज़्०३।१२।४९ अभिज्ञानेन च-अस्य गृहे जनम् उभयं याचेत । ४९ ।
 
-KAZ03.12.50 anyatarta.ādāne yathā.uktaṃ purastāt | 50 |
+कज़्०३।१२।५० अन्यतर्त।आदाने यथा।उक्तं पुरस्तात् । ५० ।
 
-KAZ03.12.51 dravya.bhogānām āgamaṃ ca-asya-anuyuñjīta, tasya ca-arthasya vyavahāra.upaliṅganam, abhiyoktuś ca-artha.sāmarthyam | 51 |
+कज़्०३।१२।५१ द्रव्य।भोगानाम् आगमं च-अस्य-अनुयुञ्जीत, तस्य च-अर्थस्य व्यवहार।उपलिङ्गनम्, अभियोक्तुश् च-अर्थ।सामर्थ्यम् । ५१ ।
 
-KAZ03.12.52 etena mithaḥ.samavāyo vyākhyātaḥ | 52 |
+कज़्०३।१२।५२ एतेन मिथः।समवायो व्याख्यातः । ५२ ।
 
-KAZ03.12.53ab tasmāt sākṣimad acchannaṃ kuryāt samyag.vibhāṣitam |  
-KAZ03.12.53cd sve pare vā jane kāryaṃ deśa.kāla.agra.varṇataḥ || 53 ||  
+कज़्०३।१२।५३अब् तस्मात् साक्षिमद् अच्छन्नं कुर्यात् सम्यग्।विभाषितम् ।  
+कज़्०३।१२।५३च्द् स्वे परे वा जने कार्यं देश।काल।अग्र।वर्णतः ॥ ५३ ॥  
 
 
  छप्तेर् १३ (सेच्तिओन् ६५): लw चोन्चेर्निन्ग् स्लवेस् अन्द् लबोउरेर्स्
@@ -5100,86 +5099,86 @@ KAZ03.12.53cd sve pare vā jane kāryaṃ deśa.kāla.agra.varṇataḥ || 53 ||
 कज़्०३।१३।३७च्द् अतियाच्ना तु जीयेत दौर्मत्य।अविनयेन वा ॥ ३७ ॥  
 
 
- Chapter 14 (Sections 65; 66): Law Concerning Slaves and Labourers (cont.); Undertakings in Partnership
- \[K tr. 275\] ,  \[K2 tr. 239\] 
-KAZ03.14.01 gṛhītvā vetanaṃ karma-akurvato bhṛtakasya dvādaśa.paṇo daṇḍaḥ, saṃrodhaś ca-ā.karaṇāt | 1 |
+ छप्तेर् १४ (सेच्तिओन्स् ६५; ६६): लw चोन्चेर्निन्ग् स्लवेस् अन्द् लबोउरेर्स् (चोन्त्।); उन्देर्तकिन्ग्स् इन् पर्त्नेर्स्हिप्
+ \[क् त्र्। २७५\] ,  \[क्२ त्र्। २३९\] 
+कज़्०३।१४।०१ गृहीत्वा वेतनं कर्म-अकुर्वतो भृतकस्य द्वादश।पणो दण्डः, संरोधश् च-आ।करणात् । १ ।
 
-KAZ03.14.02 aśaktaḥ kutsite karmaṇi vyādhau vyasane vā-anuśayaṃ labheta, pareṇa vā kārayitum | 2 |
+कज़्०३।१४।०२ अशक्तः कुत्सिते कर्मणि व्याधौ व्यसने वा-अनुशयं लभेत, परेण वा कारयितुम् । २ ।
 
-KAZ03.14.03 tasya.vyaya.karmaṇā labheta bhartā vā kārayitum | 3 |
+कज़्०३।१४।०३ तस्य।व्यय।कर्मणा लभेत भर्ता वा कारयितुम् । ३ ।
 
-KAZ03.14.04 "na-anyas tvayā kārayitavyo, mayā vā na-anyasya kartavyam" ity avarodhe bhartur akārayato bhṛtakasya-akurvato vā dvādaśa.paṇo daṇḍaḥ | 4 |
+कज़्०३।१४।०४ "न-अन्यस् त्वया कारयितव्यो, मया वा न-अन्यस्य कर्तव्यम्" इत्य् अवरोधे भर्तुर् अकारयतो भृतकस्य-अकुर्वतो वा द्वादश।पणो दण्डः । ४ ।
 
-KAZ03.14.05 karma.niṣṭhāpane bhartur anyatra gṛhīta.vetano na-asakāmaḥ kuryāt | 5 |
+कज़्०३।१४।०५ कर्म।निष्ठापने भर्तुर् अन्यत्र गृहीत।वेतनो न-असकामः कुर्यात् । ५ ।
 
-KAZ03.14.06 "upasthitam akārayataḥ kṛtam eva vidyād" ity ācāryāḥ | 6 |
+कज़्०३।१४।०६ "उपस्थितम् अकारयतः कृतम् एव विद्याद्" इत्य् आचार्याः । ६ ।
 
-KAZ03.14.07 na-iti kauṭilyaḥ | 7 |
+कज़्०३।१४।०७ न-इति कौटिल्यः । ७ ।
 
-KAZ03.14.08 kṛtasya vetanaṃ na-akṛtasya-asti | 8 |
+कज़्०३।१४।०८ कृतस्य वेतनं न-अकृतस्य-अस्ति । ८ ।
 
-KAZ03.14.09 sa ced alpam api kārayitvā na kārayet kṛtam eva-asya vidyāt | 9 |
+कज़्०३।१४।०९ स चेद् अल्पम् अपि कारयित्वा न कारयेत् कृतम् एव-अस्य विद्यात् । ९ ।
 
-KAZ03.14.10 deśa.kāla.atipātanena karmaṇām anyathā.karaṇe vā na-asakāmaḥ kṛtam anumanyeta | 10 |
+कज़्०३।१४।१० देश।काल।अतिपातनेन कर्मणाम् अन्यथा।करणे वा न-असकामः कृतम् अनुमन्येत । १० ।
 
-KAZ03.14.11 sambhāṣitād adhika.kriyāyāṃ prayāsaṃ na moghaṃ kuryāt | 11 |
+कज़्०३।१४।११ सम्भाषिताद् अधिक।क्रियायां प्रयासं न मोघं कुर्यात् । ११ ।
 
-KAZ03.14.12 tena saṅgha.bhṛtā vyākhyātāḥ | 12 |
+कज़्०३।१४।१२ तेन सङ्घ।भृता व्याख्याताः । १२ ।
 
-KAZ03.14.13 teṣām ādhiḥ sapta.rātram āsīta | 13 |
+कज़्०३।१४।१३ तेषाम् आधिः सप्त।रात्रम् आसीत । १३ ।
 
-KAZ03.14.14 tato 'nyam upasthāpayet, karma.niṣpākaṃ ca | 14 |
+कज़्०३।१४।१४ ततो ऽन्यम् उपस्थापयेत्, कर्म।निष्पाकं च । १४ ।
 
-KAZ03.14.15 na ca-anivedya bhartuḥ saṅghaḥ kañcit parihared upanayed vā | 15 |
+कज़्०३।१४।१५ न च-अनिवेद्य भर्तुः सङ्घः कञ्चित् परिहरेद् उपनयेद् वा । १५ ।
 
-KAZ03.14.16 tasya-atikrame catur.viṃśati.paṇo daṇḍaḥ | 16 |
+कज़्०३।१४।१६ तस्य-अतिक्रमे चतुर्।विंशति।पणो दण्डः । १६ ।
 
-KAZ03.14.17 saṅghena parihṛtasya-ardha.daṇḍaḥ | 17 | iti bhṛtaka.adhikāraḥ |
+कज़्०३।१४।१७ सङ्घेन परिहृतस्य-अर्ध।दण्डः । १७ । इति भृतक।अधिकारः ।
 
-KAZ03.14.18 saṅgha.bhṛtāḥ sambhūya.samutthātāro vā yathā.sambhāṣitaṃ vetanaṃ samaṃ vā vibhajeran | 18 |
+कज़्०३।१४।१८ सङ्घ।भृताः सम्भूय।समुत्थातारो वा यथा।सम्भाषितं वेतनं समं वा विभजेरन् । १८ ।
 
-KAZ03.14.19 karṣaṇa.vaidehakā vā sasya.paṇya.ārambha.paryavasāna.antare sannasya yathā.kṛtasya karmaṇaḥ pratyaṃśaṃ dadyuḥ | 19 |
+कज़्०३।१४।१९ कर्षण।वैदेहका वा सस्य।पण्य।आरम्भ।पर्यवसान।अन्तरे सन्नस्य यथा।कृतस्य कर्मणः प्रत्यंशं दद्युः । १९ ।
 
-KAZ03.14.20 puruṣa.upasthāne samagram aṃśaṃ dadyuḥ | 20 |
+कज़्०३।१४।२० पुरुष।उपस्थाने समग्रम् अंशं दद्युः । २० ।
 
-KAZ03.14.21 saṃsiddhe tu-uddhṛta.paṇye sannasya tadānīm eva pratyaṃśaṃ dadyuḥ | 21 |
+कज़्०३।१४।२१ संसिद्धे तु-उद्धृत।पण्ये सन्नस्य तदानीम् एव प्रत्यंशं दद्युः । २१ ।
 
-KAZ03.14.22 sāmānyā hi pathi.siddhiś ca-asiddhiś ca | 22 |
+कज़्०३।१४।२२ सामान्या हि पथि।सिद्धिश् च-असिद्धिश् च । २२ ।
 
-KAZ03.14.23 prakrānte tu karmaṇi svasthasya-apakrāmato dvādaśa.paṇo daṇḍaḥ | 23 |
+कज़्०३।१४।२३ प्रक्रान्ते तु कर्मणि स्वस्थस्य-अपक्रामतो द्वादश।पणो दण्डः । २३ ।
 
-KAZ03.14.24 na ca prākāmyam apakramaṇe | 24 |
+कज़्०३।१४।२४ न च प्राकाम्यम् अपक्रमणे । २४ ।
 
-KAZ03.14.25 coraṃ tv abhaya.pūrvaṃ karmaṇaḥ pratyaṃśena grāhayed, dadyāt pratyaṃśam abhayaṃ ca | 25 |
+कज़्०३।१४।२५ चोरं त्व् अभय।पूर्वं कर्मणः प्रत्यंशेन ग्राहयेद्, दद्यात् प्रत्यंशम् अभयं च । २५ ।
 
-KAZ03.14.26 punaḥ.steye pravāsanam, anyatra.gamane ca | 26 |
+कज़्०३।१४।२६ पुनः।स्तेये प्रवासनम्, अन्यत्र।गमने च । २६ ।
 
-KAZ03.14.27 mahā.aparādhe tu dūṣyavad ācaret | 27 |
+कज़्०३।१४।२७ महा।अपराधे तु दूष्यवद् आचरेत् । २७ ।
 
-KAZ03.14.28 yājakāḥ svā.pracāra.dravya.varjaṃ yathā.sambhāṣitaṃ vetanaṃ samaṃ vā vibhajeran | 28 |
+कज़्०३।१४।२८ याजकाः स्वा।प्रचार।द्रव्य।वर्जं यथा।सम्भाषितं वेतनं समं वा विभजेरन् । २८ ।
 
-KAZ03.14.29 agniṣṭoma.ādiṣu ca kratuṣu dīkṣaṇād ūrdhvaṃ tṛtīyam aṃśaṃ, madhyama.upasada ūrdhvam ardham aṃśaṃ, sutye prātaḥ.savanād ūrdhvaṃ pāda.ūnam aṃśam | 29 |
+कज़्०३।१४।२९ अग्निष्टोम।आदिषु च क्रतुषु दीक्षणाद् ऊर्ध्वं तृतीयम् अंशं, मध्यम।उपसद ऊर्ध्वम् अर्धम् अंशं, सुत्ये प्रातः।सवनाद् ऊर्ध्वं पाद।ऊनम् अंशम् । २९ ।
 
-KAZ03.14.30 mādhyandināt savanād ūrdhvaṃ samagram aṃśaṃ labheta | 30 |
+कज़्०३।१४।३० माध्यन्दिनात् सवनाद् ऊर्ध्वं समग्रम् अंशं लभेत । ३० ।
 
-KAZ03.14.31 nītā hi dakṣiṇā bhavanti | 31 |
+कज़्०३।१४।३१ नीता हि दक्षिणा भवन्ति । ३१ ।
 
-KAZ03.14.32 bṛhaspati.sava.varjaṃ pratisavanaṃ hi dakṣiṇā dīyante | 32 |
+कज़्०३।१४।३२ बृहस्पति।सव।वर्जं प्रतिसवनं हि दक्षिणा दीयन्ते । ३२ ।
 
-KAZ03.14.33 tena-ahar.gaṇa.dakṣiṇā vyākhyātāḥ | 33 |
+कज़्०३।१४।३३ तेन-अहर्।गण।दक्षिणा व्याख्याताः । ३३ ।
 
-KAZ03.14.34 sanānām ā.daśa.aho.rātrāt-śeṣa.bhṛtāḥ karma kuryuḥ, anye vā sva.pratyayāḥ | 34 |
+कज़्०३।१४।३४ सनानाम् आ।दश।अहो।रात्रात्-शेष।भृताः कर्म कुर्युः, अन्ये वा स्व।प्रत्ययाः । ३४ ।
 
-KAZ03.14.35 karmaṇy asamāpte tu yajamānaḥ sīded, ṛtvijaḥ karma samāpayya dakṣiṇāṃ hareyuḥ | 35 |
+कज़्०३।१४।३५ कर्मण्य् असमाप्ते तु यजमानः सीदेद्, ऋत्विजः कर्म समापय्य दक्षिणां हरेयुः । ३५ ।
 
-KAZ03.14.36 asamāpte tu karmaṇi yājyaṃ yājakaṃ vā tyajataḥ pūrvaḥ sāhasa.daṇḍaḥ | 36 |
+कज़्०३।१४।३६ असमाप्ते तु कर्मणि याज्यं याजकं वा त्यजतः पूर्वः साहस।दण्डः । ३६ ।
 
-KAZ03.14.37ab anāhita.agniḥ śata.guru.yajvā ca sahasraguḥ |  
-KAZ03.14.37cd surāpo vṛṣalī.bhartā brahmahā guru.talpagaḥ || 37 ||  
+कज़्०३।१४।३७अब् अनाहित।अग्निः शत।गुरु।यज्वा च सहस्रगुः ।  
+कज़्०३।१४।३७च्द् सुरापो वृषली।भर्ता ब्रह्महा गुरु।तल्पगः ॥ ३७ ॥  
 
 
-KAZ03.14.38ab asat.pratigrahe yuktaḥ stenaḥ kutsita.yājakaḥ |  
-KAZ03.14.38cd adoṣas tyaktum anyonyaṃ karma.saṅkara.niścayāt || 38 ||  
+कज़्०३।१४।३८अब् असत्।प्रतिग्रहे युक्तः स्तेनः कुत्सित।याजकः ।  
+कज़्०३।१४।३८च्द् अदोषस् त्यक्तुम् अन्योन्यं कर्म।सङ्कर।निश्चयात् ॥ ३८ ॥  
 
 
  छप्तेर् १५ (सेच्तिओन् ६७): रेस्चिस्सिओन् ओड़् सले अन्द् पुर्छसे
@@ -5224,92 +5223,92 @@ KAZ03.14.38cd adoṣas tyaktum anyonyaṃ karma.saṅkara.niścayāt || 38 ||
 कज़्०३।१५।१९च्द् दाने क्रये वा-अनुशयं तथा कुर्युः सभासदः ॥ १९ ॥  
 
 
- Chapter 16 (Section 68; 69; 70): Non-conveyance of Gifts; Sale without Ownership; The Relation of Ownership
- \[K tr. 281\] ,  \[K2 tr. 243\] 
-KAZ03.16.01 dattasya-apradānam ṛṇa.ādānena vyākhyātam | 1 |
+ छप्तेर् १६ (सेच्तिओन् ६८; ६९; ७०): नोन्-चोन्वेयन्चे ओड़् गिड़्त्स्; सले wइथोउत् ओwनेर्स्हिप्; थे रेलतिओन् ओड़् ओwनेर्स्हिप्
+ \[क् त्र्। २८१\] ,  \[क्२ त्र्। २४३\] 
+कज़्०३।१६।०१ दत्तस्य-अप्रदानम् ऋण।आदानेन व्याख्यातम् । १ ।
 
-KAZ03.16.02 dattam avyavahāryam ekatra-anuśaye varteta | 2 |
+कज़्०३।१६।०२ दत्तम् अव्यवहार्यम् एकत्र-अनुशये वर्तेत । २ ।
 
-KAZ03.16.03 sarva.svaṃ putra.dāram ātmānaṃ vā pradāya-anuśayinaḥ prayacchet | 3 |
+कज़्०३।१६।०३ सर्व।स्वं पुत्र।दारम् आत्मानं वा प्रदाय-अनुशयिनः प्रयच्छेत् । ३ ।
 
-KAZ03.16.04 dharma.dānam asādhuṣu karmasu ca-aupaghātikeṣu vā, artha.dānam anupakāriṣv apakāriṣu vā, kāma.dānam anarheṣu ca | 4 |
+कज़्०३।१६।०४ धर्म।दानम् असाधुषु कर्मसु च-औपघातिकेषु वा, अर्थ।दानम् अनुपकारिष्व् अपकारिषु वा, काम।दानम् अनर्हेषु च । ४ ।
 
-KAZ03.16.05 yathā ca dātā pratigrahītā ca na-upahatau syātāṃ tathā-anuśayaṃ kuśalāḥ kalpayeyuḥ | 5 |
+कज़्०३।१६।०५ यथा च दाता प्रतिग्रहीता च न-उपहतौ स्यातां तथा-अनुशयं कुशलाः कल्पयेयुः । ५ ।
 
-KAZ03.16.06 daṇḍa.bhayād ākrośa.bhayād anartha.bhayād vā bhaya.dānaṃ pratigṛhṇataḥ steya.daṇḍaḥ, prayacchataś ca | 6 |
+कज़्०३।१६।०६ दण्ड।भयाद् आक्रोश।भयाद् अनर्थ।भयाद् वा भय।दानं प्रतिगृह्णतः स्तेय।दण्डः, प्रयच्छतश् च । ६ ।
 
-KAZ03.16.07 roṣa.dānaṃ para.hiṃsāyāṃ, rājñām upari darpa.dānaṃ ca | 7 |
+कज़्०३।१६।०७ रोष।दानं पर।हिंसायां, राज्ञाम् उपरि दर्प।दानं च । ७ ।
 
-KAZ03.16.08 tatra-uttamo daṇḍaḥ | 8 |
+कज़्०३।१६।०८ तत्र-उत्तमो दण्डः । ८ ।
 
-KAZ03.16.09 prātibhāvyaṃ daṇḍa.śulka.śeṣam ākṣikaṃ saurikaṃ ca na-akāmaḥ putro dāyādo vā riktha.haro dadyāt | 9 | iti dattasya-anapākarma |
+कज़्०३।१६।०९ प्रातिभाव्यं दण्ड।शुल्क।शेषम् आक्षिकं सौरिकं च न-अकामः पुत्रो दायादो वा रिक्थ।हरो दद्यात् । ९ । इति दत्तस्य-अनपाकर्म ।
 
-KAZ03.16.10 asvāmi.vikrayas tu - naṣṭa.apahṛtam āsādya svāmī dharmasthena grāhayet | 10 |
+कज़्०३।१६।१० अस्वामि।विक्रयस् तु - नष्ट।अपहृतम् आसाद्य स्वामी धर्मस्थेन ग्राहयेत् । १० ।
 
-KAZ03.16.11 deśa.kāla.atipattau vā svayaṃ gṛhītvā-upaharet | 11 |
+कज़्०३।१६।११ देश।काल।अतिपत्तौ वा स्वयं गृहीत्वा-उपहरेत् । ११ ।
 
-KAZ03.16.12 dharmasthaś ca svāminam anuyuñjīta "kutas te labdham" iti | 12 |
+कज़्०३।१६।१२ धर्मस्थश् च स्वामिनम् अनुयुञ्जीत "कुतस् ते लब्धम्" इति । १२ ।
 
-KAZ03.16.13 sa ced ācāra.kramaṃ darśayeta, na vikretāraṃ, tasya dravyasya-atisargeṇa mucyeta | 13 |
+कज़्०३।१६।१३ स चेद् आचार।क्रमं दर्शयेत, न विक्रेतारं, तस्य द्रव्यस्य-अतिसर्गेण मुच्येत । १३ ।
 
-KAZ03.16.14 vikretā ced dṛśyeta, mūlyaṃ steya.daṇḍaṃ ca dadyāt | 14 |
+कज़्०३।१६।१४ विक्रेता चेद् दृश्येत, मूल्यं स्तेय।दण्डं च दद्यात् । १४ ।
 
-KAZ03.16.15 sa ced apasāram adhigacched apasared ā.apasāra.kṣayāt | 15 |
+कज़्०३।१६।१५ स चेद् अपसारम् अधिगच्छेद् अपसरेद् आ।अपसार।क्षयात् । १५ ।
 
-KAZ03.16.16 kṣaye mūlyaṃ steya.daṇḍaṃ ca dadyāt | 16 |
+कज़्०३।१६।१६ क्षये मूल्यं स्तेय।दण्डं च दद्यात् । १६ ।
 
-KAZ03.16.17 nāṣṭikaś ca sva.karaṇaṃ kṛtvā naṣṭa.pratyāhṛtaṃ labheta | 17 |
+कज़्०३।१६।१७ नाष्टिकश् च स्व।करणं कृत्वा नष्ट।प्रत्याहृतं लभेत । १७ ।
 
-KAZ03.16.18 sva.karaṇa.abhāve pañca.bandho daṇḍaḥ | 18 |
+कज़्०३।१६।१८ स्व।करण।अभावे पञ्च।बन्धो दण्डः । १८ ।
 
-KAZ03.16.19 tac ca dravyaṃ rāja.dharmyaṃ syāt | 19 |
+कज़्०३।१६।१९ तच् च द्रव्यं राज।धर्म्यं स्यात् । १९ ।
 
-KAZ03.16.20 naṣṭa.apahṛtam anivedya-utkarṣataḥ svāminaḥ pūrvaḥ sāhasa.daṇḍaḥ | 20 |
+कज़्०३।१६।२० नष्ट।अपहृतम् अनिवेद्य-उत्कर्षतः स्वामिनः पूर्वः साहस।दण्डः । २० ।
 
-KAZ03.16.21 śulka.sthāne naṣṭa.apahṛta.utpannaṃ tiṣṭhet | 21 |
+कज़्०३।१६।२१ शुल्क।स्थाने नष्ट।अपहृत।उत्पन्नं तिष्ठेत् । २१ ।
 
-KAZ03.16.22 tri.pakṣād ūrdhvam anabhisāraṃ rājā haret, svāmī vā sva.karaṇena | 22 |
+कज़्०३।१६।२२ त्रि।पक्षाद् ऊर्ध्वम् अनभिसारं राजा हरेत्, स्वामी वा स्व।करणेन । २२ ।
 
-KAZ03.16.23 pañca.paṇikaṃ dvipada.rūpasya niṣkrayaṃ dadyāt, catuṣpaṇikam eka.khurasya, dvipaṇikaṃ gomahiṣasya, pādikaṃ kṣudra.paśūnām | 23 |
+कज़्०३।१६।२३ पञ्च।पणिकं द्विपद।रूपस्य निष्क्रयं दद्यात्, चतुष्पणिकम् एक।खुरस्य, द्विपणिकं गोमहिषस्य, पादिकं क्षुद्र।पशूनाम् । २३ ।
 
-KAZ03.16.24 ratna.sāra.phalgu.kupyānāṃ pañcakaṃ śataṃ dadyāt | 24 |
+कज़्०३।१६।२४ रत्न।सार।फल्गु।कुप्यानां पञ्चकं शतं दद्यात् । २४ ।
 
-KAZ03.16.25 para.cakra.aṭavī.hṛtaṃ tu pratyānīya rājā yathā.svaṃ prayacchet | 25 |
+कज़्०३।१६।२५ पर।चक्र।अटवी।हृतं तु प्रत्यानीय राजा यथा।स्वं प्रयच्छेत् । २५ ।
 
-KAZ03.16.26 cora.hṛtam avidyamānaṃ sva.dravyebhyaḥ prayacchet, pratyānetum aśakto vā | 26 |
+कज़्०३।१६।२६ चोर।हृतम् अविद्यमानं स्व।द्रव्येभ्यः प्रयच्छेत्, प्रत्यानेतुम् अशक्तो वा । २६ ।
 
-KAZ03.16.27 svayaṃ.grāheṇa-āhṛtaṃ pratyānīya tan.niṣkrayaṃ vā prayacchet | 27 |
+कज़्०३।१६।२७ स्वयं।ग्राहेण-आहृतं प्रत्यानीय तन्।निष्क्रयं वा प्रयच्छेत् । २७ ।
 
-KAZ03.16.28 para.viṣayād vā vikrameṇa-ānītaṃ yathā.pradiṣṭaṃ rājñā bhuñjīta, anyatra-ārya.prāṇebhyo deva.brāhmaṇa.tapasvi.dravyebhyaś ca | 28 | ity asvāmi.vikrayaḥ |
+कज़्०३।१६।२८ पर।विषयाद् वा विक्रमेण-आनीतं यथा।प्रदिष्टं राज्ञा भुञ्जीत, अन्यत्र-आर्य।प्राणेभ्यो देव।ब्राह्मण।तपस्वि।द्रव्येभ्यश् च । २८ । इत्य् अस्वामि।विक्रयः ।
 
-KAZ03.16.29 sva.svāmi.sambandhas tu - bhoga.anuvṛttir ucchinna.deśānāṃ yathā.svaṃ dravyāṇām | 29 |
+कज़्०३।१६।२९ स्व।स्वामि।सम्बन्धस् तु - भोग।अनुवृत्तिर् उच्छिन्न।देशानां यथा।स्वं द्रव्याणाम् । २९ ।
 
-KAZ03.16.30 yat svaṃ dravyam anyair bhujyamānaṃ daśa varṣāṇy upekṣeta, hīyeta-asya, anyatra bāla.vṛddha.vyādhita.vyasani.proṣita.deśa.tyāga.rājya.vibhramebhyaḥ | 30 |
+कज़्०३।१६।३० यत् स्वं द्रव्यम् अन्यैर् भुज्यमानं दश वर्षाण्य् उपेक्षेत, हीयेत-अस्य, अन्यत्र बाल।वृद्ध।व्याधित।व्यसनि।प्रोषित।देश।त्याग।राज्य।विभ्रमेभ्यः । ३० ।
 
-KAZ03.16.31 viṃśati.varṣa.upekṣitam anavasitaṃ vāstu na-anuyuñjīta | 31 |
+कज़्०३।१६।३१ विंशति।वर्ष।उपेक्षितम् अनवसितं वास्तु न-अनुयुञ्जीत । ३१ ।
 
-KAZ03.16.32 jñātayaḥ śrotriyāḥ pāṣaṇḍā vā rājñām asannidhau para.vāstuṣu vivasanto na bhogena hareyuḥ, upanidhim ādhiṃ nidhiṃ nikṣepaṃ striyaṃ sīmānaṃ rāja.śrotriya.dravyāṇi ca | 32 |
+कज़्०३।१६।३२ ज्ञातयः श्रोत्रियाः पाषण्डा वा राज्ञाम् असन्निधौ पर।वास्तुषु विवसन्तो न भोगेन हरेयुः, उपनिधिम् आधिं निधिं निक्षेपं स्त्रियं सीमानं राज।श्रोत्रिय।द्रव्याणि च । ३२ ।
 
-KAZ03.16.33 āśramiṇaḥ pāṣaṇḍā vā mahaty avakāśe parasparam abādhamānā vaseyuḥ | 33 |
+कज़्०३।१६।३३ आश्रमिणः पाषण्डा वा महत्य् अवकाशे परस्परम् अबाधमाना वसेयुः । ३३ ।
 
-KAZ03.16.34 alpāṃ bādhāṃ saheran | 34 |
+कज़्०३।१६।३४ अल्पां बाधां सहेरन् । ३४ ।
 
-KAZ03.16.35 pūrva.āgato vā vāsa.paryāyaṃ dadyāt | 35 |
+कज़्०३।१६।३५ पूर्व।आगतो वा वास।पर्यायं दद्यात् । ३५ ।
 
-KAZ03.16.36 apradātā nirasyeta | 36 |
+कज़्०३।१६।३६ अप्रदाता निरस्येत । ३६ ।
 
-KAZ03.16.37 vānaprastha.yati.brahma.cāriṇām ācārya.śiṣya.dharma.bhrātṛ.samāna.tīrthyā riktha.bhājaḥ krameṇa | 37 |
+कज़्०३।१६।३७ वानप्रस्थ।यति।ब्रह्म।चारिणाम् आचार्य।शिष्य।धर्म।भ्रातृ।समान।तीर्थ्या रिक्थ।भाजः क्रमेण । ३७ ।
 
-KAZ03.16.38 vivāda.padeṣu ca-eṣāṃ yāvantaḥ paṇā daṇḍās tāvatī rātrīḥ kṣapaṇa.abhiṣeka.agni.kārya.mahā.kaccha.vardhanāni rājñaś careyuḥ | 38 |
+कज़्०३।१६।३८ विवाद।पदेषु च-एषां यावन्तः पणा दण्डास् तावती रात्रीः क्षपण।अभिषेक।अग्नि।कार्य।महा।कच्छ।वर्धनानि राज्ञश् चरेयुः । ३८ ।
 
-KAZ03.16.39 ahiraṇya.suvarṇāḥ pāṣaḍhāḥ sādhavaḥ | 39 |
+कज़्०३।१६।३९ अहिरण्य।सुवर्णाः पाषढाः साधवः । ३९ ।
 
-KAZ03.16.40 te yathā.svam upavāsa.vratair ārādhayeyuḥ, anyatra pāruṣya.steya.sāhasa.saṅgrahaṇebhyaḥ | 40 |
+कज़्०३।१६।४० ते यथा।स्वम् उपवास।व्रतैर् आराधयेयुः, अन्यत्र पारुष्य।स्तेय।साहस।सङ्ग्रहणेभ्यः । ४० ।
 
-KAZ03.16.41 teṣu yathā.uktā daṇḍāḥ kāryāḥ | 41 |
+कज़्०३।१६।४१ तेषु यथा।उक्ता दण्डाः कार्याः । ४१ ।
 
-KAZ03.16.42ab pravrajyāsu vṛthā.ācārān rājā daṇḍena vārayet |  
-KAZ03.16.42cd dharmo hy adharma.upahataḥ śāstāraṃ hanty upekṣitaḥ || 42 ||  
+कज़्०३।१६।४२अब् प्रव्रज्यासु वृथा।आचारान् राजा दण्डेन वारयेत् ।  
+कज़्०३।१६।४२च्द् धर्मो ह्य् अधर्म।उपहतः शास्तारं हन्त्य् उपेक्षितः ॥ ४२ ॥  
 
 
  छप्तेर् १७ (सेच्तिओन् ७१): ड़ोर्चिब्ले सेइज़ुरे
@@ -5350,32 +5349,32 @@ KAZ03.16.42cd dharmo hy adharma.upahataḥ śāstāraṃ hanty upekṣitaḥ || 
 कज़्०३।१७।१६च्द् रूप।व्याज्याव् अधर्मिष्ठे धर्म्या तु प्रकृतिः स्मृता ॥ १६ ॥  
 
 
- Chapter 18 (Section 72): Verbal Injury
- \[K tr. 286\] ,  \[K2 tr. 246\] 
-KAZ03.18.01 vāk.pāruṣyam upavādaḥ kutsanam abhibhartsanam iti | 1 |
+ छप्तेर् १८ (सेच्तिओन् ७२): वेर्बल् इन्जुर्य्
+ \[क् त्र्। २८६\] ,  \[क्२ त्र्। २४६\] 
+कज़्०३।१८।०१ वाक्।पारुष्यम् उपवादः कुत्सनम् अभिभर्त्सनम् इति । १ ।
 
-KAZ03.18.02 śarīra.prakṛti.śruta.vṛtti.jana.padānāṃ śarīra.upavāde kāṇa.khañja.ādibhiḥ satye tri.paṇo daṇḍaḥ, mithyā.upavāde ṣaṭ.paṇo daṇḍaḥ | 2 |
+कज़्०३।१८।०२ शरीर।प्रकृति।श्रुत।वृत्ति।जन।पदानां शरीर।उपवादे काण।खञ्ज।आदिभिः सत्ये त्रि।पणो दण्डः, मिथ्या।उपवादे षट्।पणो दण्डः । २ ।
 
-KAZ03.18.03 "śobhana.akṣimantaḥ" iti kāṇa.khañja.ādīnāṃ stuti.nindāyāṃ dvādaśa.paṇo daṇḍaḥ | 3 |
+कज़्०३।१८।०३ "शोभन।अक्षिमन्तः" इति काण।खञ्ज।आदीनां स्तुति।निन्दायां द्वादश।पणो दण्डः । ३ ।
 
-KAZ03.18.04 kuṣṭha.unmāda.klaibya.ādibhiḥ kutsāyāṃ ca satya.mithyā.stuti.nindāsu dvādaśa.paṇa.uttarā daṇḍās tulyeṣu | 4 |
+कज़्०३।१८।०४ कुष्ठ।उन्माद।क्लैब्य।आदिभिः कुत्सायां च सत्य।मिथ्या।स्तुति।निन्दासु द्वादश।पण।उत्तरा दण्डास् तुल्येषु । ४ ।
 
-KAZ03.18.05 viśiṣṭeṣu dvi.guṇāḥ, hīneṣv ardha.daṇḍāḥ, para.strīṣu dvi.guṇāḥ, pramāda.mada.moha.ādibhir ardha.daṇḍāḥ | 5 |
+कज़्०३।१८।०५ विशिष्टेषु द्वि।गुणाः, हीनेष्व् अर्ध।दण्डाः, पर।स्त्रीषु द्वि।गुणाः, प्रमाद।मद।मोह।आदिभिर् अर्ध।दण्डाः । ५ ।
 
-KAZ03.18.06 kuṣṭha.unmādayoś cikitsakāḥ sannikṛṣṭā pumāṃsaś ca pramāṇaṃ, klība.bhāve striyo mūtra.pheno 'psu viṣṭhā.nimajjanaṃ ca | 6 |
+कज़्०३।१८।०६ कुष्ठ।उन्मादयोश् चिकित्सकाः सन्निकृष्टा पुमांसश् च प्रमाणं, क्लीब।भावे स्त्रियो मूत्र।फेनो ऽप्सु विष्ठा।निमज्जनं च । ६ ।
 
-KAZ03.18.07 prakṛty.upavāde brāhmaṇa.kṣatriya.vaiśya.śūdra.anta.avasāyinām apareṇa pūrvasya tri.paṇa.uttarā daṇḍāḥ, pūrveṇa-aparasya dvi.paṇa.adharāḥ, kubrāhmaṇa.ādibhiś ca kutsāyām | 7 |
+कज़्०३।१८।०७ प्रकृत्य्।उपवादे ब्राह्मण।क्षत्रिय।वैश्य।शूद्र।अन्त।अवसायिनाम् अपरेण पूर्वस्य त्रि।पण।उत्तरा दण्डाः, पूर्वेण-अपरस्य द्वि।पण।अधराः, कुब्राह्मण।आदिभिश् च कुत्सायाम् । ७ ।
 
-KAZ03.18.08 tena śruta.upavādo vāg.jīvanānāṃ, kāru.kuśīlavānāṃ vṛtty.upavādaḥ, prājjūṇaka.gāndhāra.ādīnāṃ ca jana.pada.upavādā vyākhyātāḥ | 8 |
+कज़्०३।१८।०८ तेन श्रुत।उपवादो वाग्।जीवनानां, कारु।कुशीलवानां वृत्त्य्।उपवादः, प्राज्जूणक।गान्धार।आदीनां च जन।पद।उपवादा व्याख्याताः । ८ ।
 
-KAZ03.18.09 yaḥ paraṃ "evaṃ tvāṃ kariṣyāmi" iti karaṇena-abhibhartsayed, akaraṇe yas tasya karaṇe daṇḍas tato 'rdha.daṇḍaṃ dadyāt | 9 |
+कज़्०३।१८।०९ यः परं "एवं त्वां करिष्यामि" इति करणेन-अभिभर्त्सयेद्, अकरणे यस् तस्य करणे दण्डस् ततो ऽर्ध।दण्डं दद्यात् । ९ ।
 
-KAZ03.18.10 aśaktaḥ kopaṃ madaṃ mohaṃ vā-apadiśed dvādaśa.paṇaṃ daṇḍaṃ dadyāt | 10 |
+कज़्०३।१८।१० अशक्तः कोपं मदं मोहं वा-अपदिशेद् द्वादश।पणं दण्डं दद्यात् । १० ।
 
-KAZ03.18.11 jāta.vaira.āśayaḥ śaktaś ca-apakartuṃ yāvaj.jīvika.avasthaṃ dadyāt | 11 |
+कज़्०३।१८।११ जात।वैर।आशयः शक्तश् च-अपकर्तुं यावज्।जीविक।अवस्थं दद्यात् । ११ ।
 
-KAZ03.18.12ab sva.deśa.grāmayoḥ pūrvaṃ madhyamaṃ jāti.saṅghayoḥ |  
-KAZ03.18.12cd ākrośād deva.caityānām uttamaṃ daṇḍam arhati || 12 ||  
+कज़्०३।१८।१२अब् स्व।देश।ग्रामयोः पूर्वं मध्यमं जाति।सङ्घयोः ।  
+कज़्०३।१८।१२च्द् आक्रोशाद् देव।चैत्यानाम् उत्तमं दण्डम् अर्हति ॥ १२ ॥  
 
 
  छप्तेर् १९ (सेच्तिओन् ७३): फ्य्सिचल् इन्जुर्य्
@@ -5442,60 +5441,60 @@ KAZ03.18.12cd ākrośād deva.caityānām uttamaṃ daṇḍam arhati || 12 ||
 कज़्०३।१९।३०च्द् त एव द्वि।गुणा दण्डाः कार्या राज।वनेषु च ॥ ३० ॥  
 
 
- Chapter 20 (Sections 74; 75): Gambling and Betting; Miscellaneous Offences
- \[K tr. 290\] ,  \[K2 tr. 250\] 
-KAZ03.20.01 dyūta.adhyakṣo dyūtam eka.mukhaṃ kārayet | 1 |
+ छप्तेर् २० (सेच्तिओन्स् ७४; ७५): गम्ब्लिन्ग् अन्द् बेत्तिन्ग्; मिस्चेल्लनेओउस् ओड़्ड़ेन्चेस्
+ \[क् त्र्। २९०\] ,  \[क्२ त्र्। २५०\] 
+कज़्०३।२०।०१ द्यूत।अध्यक्षो द्यूतम् एक।मुखं कारयेत् । १ ।
 
-KAZ03.20.02 anyatra dīvyato dvādaśa.paṇo daṇḍo gūḍha.ājīvi.jñāpana.artham | 2 |
+कज़्०३।२०।०२ अन्यत्र दीव्यतो द्वादश।पणो दण्डो गूढ।आजीवि।ज्ञापन।अर्थम् । २ ।
 
-KAZ03.20.03 "dyūta.abhiyoge jetuḥ pūrvaḥ sāhasa.daṇḍaḥ, parājitasya madhyamaḥ | 3 |
+कज़्०३।२०।०३ "द्यूत।अभियोगे जेतुः पूर्वः साहस।दण्डः, पराजितस्य मध्यमः । ३ ।
 
-KAZ03.20.04 bāliśa.jātīyo hy eṣa jetu.kāmaḥ parājayaṃ na kṣamate" ity ācāryāḥ | 4 |
+कज़्०३।२०।०४ बालिश।जातीयो ह्य् एष जेतु।कामः पराजयं न क्षमते" इत्य् आचार्याः । ४ ।
 
-KAZ03.20.05 na-ity kauṭilyaḥ | 5 |
+कज़्०३।२०।०५ न-इत्य् कौटिल्यः । ५ ।
 
-KAZ03.20.06 parājitaś ced dvi.guṇa.daṇḍaḥ kriyeta na kaścana rājānam abhisariṣyati | 6 |
+कज़्०३।२०।०६ पराजितश् चेद् द्वि।गुण।दण्डः क्रियेत न कश्चन राजानम् अभिसरिष्यति । ६ ।
 
-KAZ03.20.07 prāyaśo hi kitavāḥ kūṭa.devinaḥ | 7 |
+कज़्०३।२०।०७ प्रायशो हि कितवाः कूट।देविनः । ७ ।
 
-KAZ03.20.08 teṣām adhyakṣāḥ śuddhāḥ kākaṇīr akṣāṃś ca sthāpayeyuḥ | 8 |
+कज़्०३।२०।०८ तेषाम् अध्यक्षाः शुद्धाः काकणीर् अक्षांश् च स्थापयेयुः । ८ ।
 
-KAZ03.20.09 kākaṇy.akṣāṇām anya.upadhāne dvādaśa.paṇo daṇḍaḥ, kūṭa.karmaṇi pūrvaḥ sāhasa.daṇḍo jita.pratyādānam, upadhau steya.daṇḍaś ca | 9 |
+कज़्०३।२०।०९ काकण्य्।अक्षाणाम् अन्य।उपधाने द्वादश।पणो दण्डः, कूट।कर्मणि पूर्वः साहस।दण्डो जित।प्रत्यादानम्, उपधौ स्तेय।दण्डश् च । ९ ।
 
-KAZ03.20.10 jita.dravyād adhyakṣaḥ pañcakaṃ śatam ādadīta, kākaṇy.akṣa.arālā.śalākā.avakrayam udaka.bhūmi.karma.krayaṃ ca | 10 |
+कज़्०३।२०।१० जित।द्रव्याद् अध्यक्षः पञ्चकं शतम् आददीत, काकण्य्।अक्ष।अराला।शलाका।अवक्रयम् उदक।भूमि।कर्म।क्रयं च । १० ।
 
-KAZ03.20.11 dravyāṇām ādhānaṃ vikrayaṃ ca kuryāt | 11 |
+कज़्०३।२०।११ द्रव्याणाम् आधानं विक्रयं च कुर्यात् । ११ ।
 
-KAZ03.20.12 akṣa.bhūmi.hasta.doṣāṇāṃ ca-apratiṣedhane dvi.guṇo daṇḍaḥ | 12 |
+कज़्०३।२०।१२ अक्ष।भूमि।हस्त।दोषाणां च-अप्रतिषेधने द्वि।गुणो दण्डः । १२ ।
 
-KAZ03.20.13 tena samāhvayo vyākhyātaḥ, anyatra vidyā.śilpa.samāhvayāt | iti | 13 |
+कज़्०३।२०।१३ तेन समाह्वयो व्याख्यातः, अन्यत्र विद्या।शिल्प।समाह्वयात् । इति । १३ ।
 
-KAZ03.20.14 prakīrṇakaṃ tu - yācitaka.avakrītaka.āhitaka.nikṣepakāṇāṃ yathā.deśa.kālam adāne, yāmac.chāyā.samupaveśa.saṃsthitīnāṃ vā deśa.kāla.atipātane, gulmatara.deyaṃ brāhmaṇaṃ sādhayataḥ, prativeśa.anuveśayor upari nimantraṇe ca dvādaśa.paṇo daṇḍaḥ | 14 |
+कज़्०३।२०।१४ प्रकीर्णकं तु - याचितक।अवक्रीतक।आहितक।निक्षेपकाणां यथा।देश।कालम् अदाने, यामच्।छाया।समुपवेश।संस्थितीनां वा देश।काल।अतिपातने, गुल्मतर।देयं ब्राह्मणं साधयतः, प्रतिवेश।अनुवेशयोर् उपरि निमन्त्रणे च द्वादश।पणो दण्डः । १४ ।
 
-KAZ03.20.15 sandiṣṭam artham aprayacchato, bhrātṛ.bhāryāṃ hastena laṅghayato, rūpa.ājīvām anya.uparuddhāṃ gacchataḥ, para.vaktavyaṃ paṇyaṃ krīṇānasya, samudraṃ gṛham udbhindataḥ, sāmanta.catvāriṃśat.kulya.ābādhām ācarataś ca-aṣṭa.catvāriṃśat.paṇo daṇḍaḥ | 15 |
+कज़्०३।२०।१५ सन्दिष्टम् अर्थम् अप्रयच्छतो, भ्रातृ।भार्यां हस्तेन लङ्घयतो, रूप।आजीवाम् अन्य।उपरुद्धां गच्छतः, पर।वक्तव्यं पण्यं क्रीणानस्य, समुद्रं गृहम् उद्भिन्दतः, सामन्त।चत्वारिंशत्।कुल्य।आबाधाम् आचरतश् च-अष्ट।चत्वारिंशत्।पणो दण्डः । १५ ।
 
-KAZ03.20.16 kula.nīvī.grāhakasya-apavyayane, vidhavāṃ chanda.vāsinīṃ prasahya-adhicarataḥ, caṇḍālasya-āryāṃ spṛśataḥ, pratyāsannam āpady anabhidhāvato, niṣkāraṇam abhidhāvanaṃ kurvataḥ, śākya.ājīvaka.ādīn vṛṣala.pravrajitān deva.pitṛ.kāryeṣu bhojayataḥ śatyo daṇḍaḥ | 16 |
+कज़्०३।२०।१६ कुल।नीवी।ग्राहकस्य-अपव्ययने, विधवां छन्द।वासिनीं प्रसह्य-अधिचरतः, चण्डालस्य-आर्यां स्पृशतः, प्रत्यासन्नम् आपद्य् अनभिधावतो, निष्कारणम् अभिधावनं कुर्वतः, शाक्य।आजीवक।आदीन् वृषल।प्रव्रजितान् देव।पितृ।कार्येषु भोजयतः शत्यो दण्डः । १६ ।
 
-KAZ03.20.17 śapatha.vākya.anuyogam aniṣṛṣṭaṃ kurvataḥ, yukta.karma ca-ayuktasya, kṣudra.paśu.vṛṣāṇāṃ puṃstva.upaghātinaḥ, dāsyā garbham auṣadhena pātayataś ca pūrvaḥ sāhasa.daṇḍaḥ | 17 |
+कज़्०३।२०।१७ शपथ।वाक्य।अनुयोगम् अनिषृष्टं कुर्वतः, युक्त।कर्म च-अयुक्तस्य, क्षुद्र।पशु।वृषाणां पुंस्त्व।उपघातिनः, दास्या गर्भम् औषधेन पातयतश् च पूर्वः साहस।दण्डः । १७ ।
 
-KAZ03.20.18 pitā.putrayor dampatyor bhrātṛ.bhaginyor mātula.bhagineyayoḥ śiṣya.ācāryayor vā parasparam apatitaṃ tyajataḥ, sārtha.ābhiprayātaṃ grāma.madhye vā tyajataḥ pūrvaḥ sāhasa.daṇḍaḥ, kāntāre madhyamaḥ, tan.nimittaṃ bhreṣayata uttamaḥ, saha.prasthāyiṣv anyeṣv ardha.daṇḍāḥ | 18 |
+कज़्०३।२०।१८ पिता।पुत्रयोर् दम्पत्योर् भ्रातृ।भगिन्योर् मातुल।भगिनेययोः शिष्य।आचार्ययोर् वा परस्परम् अपतितं त्यजतः, सार्थ।आभिप्रयातं ग्राम।मध्ये वा त्यजतः पूर्वः साहस।दण्डः, कान्तारे मध्यमः, तन्।निमित्तं भ्रेषयत उत्तमः, सह।प्रस्थायिष्व् अन्येष्व् अर्ध।दण्डाः । १८ ।
 
-KAZ03.20.19 puruṣam abandhanīyaṃ badhnato bandhayato bandhaṃ vā mokṣayato, bālam aprāpta.vyavahāraṃ badhnato bandhayato vā sahasraṃ daṇḍaḥ | 19 |
+कज़्०३।२०।१९ पुरुषम् अबन्धनीयं बध्नतो बन्धयतो बन्धं वा मोक्षयतो, बालम् अप्राप्त।व्यवहारं बध्नतो बन्धयतो वा सहस्रं दण्डः । १९ ।
 
-KAZ03.20.20 puruṣa.aparādha.viśeṣeṇa daṇḍa.viśeṣaḥ kāryaḥ | 20 |
+कज़्०३।२०।२० पुरुष।अपराध।विशेषेण दण्ड।विशेषः कार्यः । २० ।
 
-KAZ03.20.21 tīrtha.karas tapasvī vyādhitaḥ kṣut.pipāsā.adhva.klāntas tiro.jana.pado daṇḍa.khedī niṣkiñcanaś ca-anugrāhyāḥ | 21 |
+कज़्०३।२०।२१ तीर्थ।करस् तपस्वी व्याधितः क्षुत्।पिपासा।अध्व।क्लान्तस् तिरो।जन।पदो दण्ड।खेदी निष्किञ्चनश् च-अनुग्राह्याः । २१ ।
 
-KAZ03.20.22 deva.brāhmaṇa.tapasvi.strī.bāla.vṛddha.vyādhitānām anāthānām anabhisaratāṃ dharmasthāḥ kāryāṇi kuryuḥ, na ca deśa.kāla.bhogac.chalena-atihareyuḥ | 22 |
+कज़्०३।२०।२२ देव।ब्राह्मण।तपस्वि।स्त्री।बाल।वृद्ध।व्याधितानाम् अनाथानाम् अनभिसरतां धर्मस्थाः कार्याणि कुर्युः, न च देश।काल।भोगच्।छलेन-अतिहरेयुः । २२ ।
 
-KAZ03.20.23 pūjyā vidyā.buddhi.pauruṣa.abhijana.karma.atiśayataś ca puruṣāḥ | 23 |
+कज़्०३।२०।२३ पूज्या विद्या।बुद्धि।पौरुष।अभिजन।कर्म।अतिशयतश् च पुरुषाः । २३ ।
 
-KAZ03.20.24ab evaṃ kāryāṇi dharmasthāḥ kuryur acchala.darśinaḥ |  
-KAZ03.20.24cd samāḥ sarveṣu bhāveṣu viśvāsyā loka.sampriyāḥ || 24 ||  
+कज़्०३।२०।२४अब् एवं कार्याणि धर्मस्थाः कुर्युर् अच्छल।दर्शिनः ।  
+कज़्०३।२०।२४च्द् समाः सर्वेषु भावेषु विश्वास्या लोक।सम्प्रियाः ॥ २४ ॥  
 
 
-# Book 4: The Supression of Criminals
- \[K tr. 294-337\] ,  \[K2 tr. 254-291\] 
+# बोओक् ४: थे सुप्रेस्सिओन् ओड़् च्रिमिनल्स्
+ \[क् त्र्। २९४-३३७\] ,  \[क्२ त्र्। २५४-२९१\] 
  छप्तेर् १ (सेच्तिओन् ७६): केएपिन्ग् अ Wअत्छ् ओवेर् अर्तिसन्स्
  \[क् त्र्। २९४\] ,  \[क्२ त्र्। २५४\] 
 कज़्०४।१।०१ प्रदेष्टारस् त्रयस् त्रयो ऽमात्याः कण्टक।शोधनं कुर्युः । १ ।
@@ -5630,80 +5629,80 @@ KAZ03.20.24cd samāḥ sarveṣu bhāveṣu viśvāsyā loka.sampriyāḥ || 24 
 कज़्०४।१।६५च्द् भिक्षुकान् कुहकांश् च-अन्यान् वारयेद् देश।पीडनात् ॥ ६५ ॥  
 
 
- Chapter 2 (Section 77): Keeping a Watch over Traders
- \[K tr. 300\] ,  \[K2 tr. 259\] 
-KAZ04.2.01 saṃsthā.adhyakṣaḥ paṇya.saṃsthāyāṃ purāṇa.bhāṇḍānāṃ sva.karaṇa.viśuddhānām ādhānaṃ vikrayaṃ vā sthāpayet | 1 |
+ छप्तेर् २ (सेच्तिओन् ७७): केएपिन्ग् अ Wअत्छ् ओवेर् त्रदेर्स्
+ \[क् त्र्। ३००\] ,  \[क्२ त्र्। २५९\] 
+कज़्०४।२।०१ संस्था।अध्यक्षः पण्य।संस्थायां पुराण।भाण्डानां स्व।करण।विशुद्धानाम् आधानं विक्रयं वा स्थापयेत् । १ ।
 
-KAZ04.2.02 tulā.māna.bhāṇḍāni ca-avekṣeta pautava.apacārāt | 2 |
+कज़्०४।२।०२ तुला।मान।भाण्डानि च-अवेक्षेत पौतव।अपचारात् । २ ।
 
-KAZ04.2.03 parimāṇī.droṇayor ardha.pala.hīna.atiriktam adoṣaḥ | 3 |
+कज़्०४।२।०३ परिमाणी।द्रोणयोर् अर्ध।पल।हीन।अतिरिक्तम् अदोषः । ३ ।
 
-KAZ04.2.04 pala.hīna.atirikte dvādaśa.paṇo daṇḍaḥ | 4 |
+कज़्०४।२।०४ पल।हीन।अतिरिक्ते द्वादश।पणो दण्डः । ४ ।
 
-KAZ04.2.05 tena pala.uttarā daṇḍa.vṛddhir vyākhyātā | 5 |
+कज़्०४।२।०५ तेन पल।उत्तरा दण्ड।वृद्धिर् व्याख्याता । ५ ।
 
-KAZ04.2.06 tulāyāḥ karṣa.hīna.atiriktam adoṣaḥ | 6 |
+कज़्०४।२।०६ तुलायाः कर्ष।हीन।अतिरिक्तम् अदोषः । ६ ।
 
-KAZ04.2.07 dvi.karṣa.hīna.atirikte ṣaṭ.paṇo daṇḍaḥ | 7 |
+कज़्०४।२।०७ द्वि।कर्ष।हीन।अतिरिक्ते षट्।पणो दण्डः । ७ ।
 
-KAZ04.2.08 tena karṣa.uttarā daṇḍa.vṛddhir vyākhyātā | 8 |
+कज़्०४।२।०८ तेन कर्ष।उत्तरा दण्ड।वृद्धिर् व्याख्याता । ८ ।
 
-KAZ04.2.09 āḍhakasya-ardha.karṣa.hīna.atiriktam adoṣaḥ | 9 |
+कज़्०४।२।०९ आढकस्य-अर्ध।कर्ष।हीन।अतिरिक्तम् अदोषः । ९ ।
 
-KAZ04.2.10 karṣa.hīna.atirikte tri.paṇo daṇḍaḥ | 10 |
+कज़्०४।२।१० कर्ष।हीन।अतिरिक्ते त्रि।पणो दण्डः । १० ।
 
-KAZ04.2.11 tena karṣa.uttarā daṇḍa.vṛddhir vyākhyātā | 11 |
+कज़्०४।२।११ तेन कर्ष।उत्तरा दण्ड।वृद्धिर् व्याख्याता । ११ ।
 
-KAZ04.2.12 tulā.māna.viśeṣāṇām ato 'nyeṣām anumānaṃ kuryāt | 12 |
+कज़्०४।२।१२ तुला।मान।विशेषाणाम् अतो ऽन्येषाम् अनुमानं कुर्यात् । १२ ।
 
-KAZ04.2.13 tulā.mānābhyām atiriktābhyāṃ krītvā hīnābhyāṃ vikrīṇānasya ta eva dvi.guṇā daṇḍāḥ | 13 |
+कज़्०४।२।१३ तुला।मानाभ्याम् अतिरिक्ताभ्यां क्रीत्वा हीनाभ्यां विक्रीणानस्य त एव द्वि।गुणा दण्डाः । १३ ।
 
-KAZ04.2.14 gaṇya.paṇyeṣv aṣṭa.bhāgaṃ paṇya.mūlyeṣv apaharataḥ ṣaṇ.ṇavatir daṇḍaḥ | 14 |
+कज़्०४।२।१४ गण्य।पण्येष्व् अष्ट।भागं पण्य।मूल्येष्व् अपहरतः षण्।णवतिर् दण्डः । १४ ।
 
-KAZ04.2.15 kāṣṭha.loha.maṇi.mayaṃ rajju.carma.mṛṇ.mayaṃ sūtra.valka.roma.mayaṃ vā jātyam ity ajātyaṃ vikraya.ādhānaṃ nayato mūlya.aṣṭa.guṇo daṇḍaḥ | 15 |
+कज़्०४।२।१५ काष्ठ।लोह।मणि।मयं रज्जु।चर्म।मृण्।मयं सूत्र।वल्क।रोम।मयं वा जात्यम् इत्य् अजात्यं विक्रय।आधानं नयतो मूल्य।अष्ट।गुणो दण्डः । १५ ।
 
-KAZ04.2.16 sāra.bhāṇḍam ity asāra.bhāṇḍaṃ taj.jātam ity ataj.jātaṃ rādhā.yuktam ity upadhiyuktaṃ samudga.parivartimaṃ vā vikraya.ādhānaṃ nayato hīna.mūlyaṃ catuṣpañcāśat.paṇo daṇḍaḥ, paṇa.mūlyaṃ dvi.guṇo, dvi.paṇa.mūlyaṃ dvi.śataḥ | 16 |
+कज़्०४।२।१६ सार।भाण्डम् इत्य् असार।भाण्डं तज्।जातम् इत्य् अतज्।जातं राधा।युक्तम् इत्य् उपधियुक्तं समुद्ग।परिवर्तिमं वा विक्रय।आधानं नयतो हीन।मूल्यं चतुष्पञ्चाशत्।पणो दण्डः, पण।मूल्यं द्वि।गुणो, द्वि।पण।मूल्यं द्वि।शतः । १६ ।
 
-KAZ04.2.17 tena-argha.vṛddhau daṇḍa.vṛddhir vyākhyātā | 17 |
+कज़्०४।२।१७ तेन-अर्घ।वृद्धौ दण्ड।वृद्धिर् व्याख्याता । १७ ।
 
-KAZ04.2.18 kāru.śilpināṃ karma.guṇa.apakarṣam ājīvaṃ vikraya.kraya.upaghātaṃ vā sambhūya samutthāpayatāṃ sahasraṃ daṇḍaḥ | 18 |
+कज़्०४।२।१८ कारु।शिल्पिनां कर्म।गुण।अपकर्षम् आजीवं विक्रय।क्रय।उपघातं वा सम्भूय समुत्थापयतां सहस्रं दण्डः । १८ ।
 
-KAZ04.2.19 vaidehakānāṃ vā sambhūya paṇyam avarundhatām anargheṇa vikrīṇatāṃ vā sahasraṃ daṇḍaḥ | 19 |
+कज़्०४।२।१९ वैदेहकानां वा सम्भूय पण्यम् अवरुन्धताम् अनर्घेण विक्रीणतां वा सहस्रं दण्डः । १९ ।
 
-KAZ04.2.20 tulā.māna.antaram argha.varṇa.antaraṃ vā - dharakasya māyakasya vā paṇa.mūlyād aṣṭa.bhāgaṃ hasta.doṣeṇa-ācarato dvi.śato daṇḍaḥ | 20 |
+कज़्०४।२।२० तुला।मान।अन्तरम् अर्घ।वर्ण।अन्तरं वा - धरकस्य मायकस्य वा पण।मूल्याद् अष्ट।भागं हस्त।दोषेण-आचरतो द्वि।शतो दण्डः । २० ।
 
-KAZ04.2.21 tena dvi.śata.uttarā daṇḍa.vṛddhir vyākhyātā | 21 |
+कज़्०४।२।२१ तेन द्वि।शत।उत्तरा दण्ड।वृद्धिर् व्याख्याता । २१ ।
 
-KAZ04.2.22 dhānya.sneha.kṣāra.lavaṇa.gandha.bhaiṣajya.dravyāṇāṃ sama.varṇa.upadhāne dvādaśa.paṇo daṇḍaḥ | 22 |
+कज़्०४।२।२२ धान्य।स्नेह।क्षार।लवण।गन्ध।भैषज्य।द्रव्याणां सम।वर्ण।उपधाने द्वादश।पणो दण्डः । २२ ।
 
-KAZ04.2.23 yan.niṣṛṣṭam upajīveyus tad eṣāṃ divasa.sañjātaṃ saṅkhyāya vaṇik sthāpayet | 23 |
+कज़्०४।२।२३ यन्।निषृष्टम् उपजीवेयुस् तद् एषां दिवस।सञ्जातं सङ्ख्याय वणिक् स्थापयेत् । २३ ।
 
-KAZ04.2.24 kretṛ.vikretror antara.patitam ādāyād anyad bhavati | 24 |
+कज़्०४।२।२४ क्रेतृ।विक्रेत्रोर् अन्तर।पतितम् आदायाद् अन्यद् भवति । २४ ।
 
-KAZ04.2.25 tena dhānya.paṇya.nicayāṃś ca-anujñātāḥ kuryuḥ | 25 |
+कज़्०४।२।२५ तेन धान्य।पण्य।निचयांश् च-अनुज्ञाताः कुर्युः । २५ ।
 
-KAZ04.2.26 anyathā.nicitam eṣāṃ paṇya.adhyakṣo gṛhṇīyāt | 26 |
+कज़्०४।२।२६ अन्यथा।निचितम् एषां पण्य।अध्यक्षो गृह्णीयात् । २६ ।
 
-KAZ04.2.27 tena dhānya.paṇya.vikraye vyavahareta-anugraheṇa prajānām | 27 |
+कज़्०४।२।२७ तेन धान्य।पण्य।विक्रये व्यवहरेत-अनुग्रहेण प्रजानाम् । २७ ।
 
-KAZ04.2.28 anujñāta.krayād upari ca-eṣāṃ sva.deśīyānāṃ paṇyānāṃ pañcakaṃ śatam ājīvaṃ sthāpayet, para.deśīyānāṃ daśakam | 28 |
+कज़्०४।२।२८ अनुज्ञात।क्रयाद् उपरि च-एषां स्व।देशीयानां पण्यानां पञ्चकं शतम् आजीवं स्थापयेत्, पर।देशीयानां दशकम् । २८ ।
 
-KAZ04.2.29 tataḥ param arghaṃ vardhayatāṃ kraye vikraye vā bhāvayatāṃ paṇa.śate pañca.paṇād dvi.śato daṇḍaḥ | 29 |
+कज़्०४।२।२९ ततः परम् अर्घं वर्धयतां क्रये विक्रये वा भावयतां पण।शते पञ्च।पणाद् द्वि।शतो दण्डः । २९ ।
 
-KAZ04.2.30 tena-argha.vṛddhau daṇḍa.vṛddhir vyākhyātā | 30 |
+कज़्०४।२।३० तेन-अर्घ।वृद्धौ दण्ड।वृद्धिर् व्याख्याता । ३० ।
 
-KAZ04.2.31 sambhūya.kraye ca-eṣām avikrīte na-anyaṃ sambhūya.krayaṃ dadyāt | 31 |
+कज़्०४।२।३१ सम्भूय।क्रये च-एषाम् अविक्रीते न-अन्यं सम्भूय।क्रयं दद्यात् । ३१ ।
 
-KAZ04.2.32 paṇya.upaghāte ca-eṣām anugrahaṃ kuryāt | 32 |
+कज़्०४।२।३२ पण्य।उपघाते च-एषाम् अनुग्रहं कुर्यात् । ३२ ।
 
-KAZ04.2.33 paṇya.bāhulyāt paṇya.adhyakṣaḥ sarva.paṇyāny eka.mukhāni vikrīṇīta | 33 |
+कज़्०४।२।३३ पण्य।बाहुल्यात् पण्य।अध्यक्षः सर्व।पण्यान्य् एक।मुखानि विक्रीणीत । ३३ ।
 
-KAZ04.2.34 teṣv avikrīteṣu na-anye vikrīṇīran | 34 |
+कज़्०४।२।३४ तेष्व् अविक्रीतेषु न-अन्ये विक्रीणीरन् । ३४ ।
 
-KAZ04.2.35 tāni divasa.vetanena vikrīṇīrann anugraheṇa prajānām | 35 | deśa.kāla.antaritānāṃ tu paṇyānāṃ -
+कज़्०४।२।३५ तानि दिवस।वेतनेन विक्रीणीरन्न् अनुग्रहेण प्रजानाम् । ३५ । देश।काल।अन्तरितानां तु पण्यानां -
 
-KAZ04.2.36ab prakṣepaṃ paṇya.niṣpattiṃ śulkaṃ vṛddhim avakrayam |  
-KAZ04.2.36cd vyayān anyāṃś ca saṅkhyāya sthāpayed argham arghavit || 36 ||  
+कज़्०४।२।३६अब् प्रक्षेपं पण्य।निष्पत्तिं शुल्कं वृद्धिम् अवक्रयम् ।  
+कज़्०४।२।३६च्द् व्ययान् अन्यांश् च सङ्ख्याय स्थापयेद् अर्घम् अर्घवित् ॥ ३६ ॥  
 
 
  छप्तेर् ३ (सेच्तिओन् ७८): रेमेदिएस् दुरिन्ग् चलमितिएस्
@@ -5798,54 +5797,54 @@ KAZ04.2.36cd vyayān anyāṃś ca saṅkhyāya sthāpayed argham arghavit || 36
 कज़्०४।३।४४च्द् वसेयुः पूजिता राज्ञा दैव।आपत्।प्रतिकारिणः ॥ ४४ ॥  
 
 
- Chapter 4 (Section 79): Guarding against Persons with Secret Income
- \[K tr. 307\] ,  \[K2 tr. 265\] 
-KAZ04.4.01 samāhartṛ.praṇidhau jana.pada.rakṣaṇam uktam | 1 |
+ छप्तेर् ४ (सेच्तिओन् ७९): गुअर्दिन्ग् अगैन्स्त् पेर्सोन्स् wइथ् सेच्रेत् इन्चोमे
+ \[क् त्र्। ३०७\] ,  \[क्२ त्र्। २६५\] 
+कज़्०४।४।०१ समाहर्तृ।प्रणिधौ जन।पद।रक्षणम् उक्तम् । १ ।
 
-KAZ04.4.02 tasya kaṇṭaka.śodhanaṃ vakṣyāmaḥ | 2 |
+कज़्०४।४।०२ तस्य कण्टक।शोधनं वक्ष्यामः । २ ।
 
-KAZ04.4.03 samāhartā jana.pade siddha.tāpasa.pravrajita.cakra.cara.cāraṇa.kuhaka.pracchandaka.- kārtāntika.naimittika.mauhūrtika.cikitsaka.unmatta.mūka.badhira.- jaḍa.andha.vaidehaka.kāru.śilpi.kuśīlava.veśa.śauṇḍi- ka.āpūpika.pākva.māṃsika.audanika.vyañjanān praṇidadhyāt | 3 |
+कज़्०४।४।०३ समाहर्ता जन।पदे सिद्ध।तापस।प्रव्रजित।चक्र।चर।चारण।कुहक।प्रच्छन्दक।- कार्तान्तिक।नैमित्तिक।मौहूर्तिक।चिकित्सक।उन्मत्त।मूक।बधिर।- जड।अन्ध।वैदेहक।कारु।शिल्पि।कुशीलव।वेश।शौण्डि- क।आपूपिक।पाक्व।मांसिक।औदनिक।व्यञ्जनान् प्रणिदध्यात् । ३ ।
 
-KAZ04.4.04 te grāmāṇām adhyakṣāṇāṃ ca śauca.āśaucaṃ vidyuḥ | 4 |
+कज़्०४।४।०४ ते ग्रामाणाम् अध्यक्षाणां च शौच।आशौचं विद्युः । ४ ।
 
-KAZ04.4.05 yaṃ ca-atra gūḍha.ājīvinaṃ śaṅketa taṃ sattriṇā-apasarpayet | 5 |
+कज़्०४।४।०५ यं च-अत्र गूढ।आजीविनं शङ्केत तं सत्त्रिणा-अपसर्पयेत् । ५ ।
 
-KAZ04.4.06 dharmasthaṃ viśvāsa.upagataṃ sattrī brūyāt - "asau me bandhur abhiyuktaḥ, tasya-ayam anarthaḥ pratikriyatām, ayaṃ ca-arthaḥ pratigṛhyatām" iti | 6 |
+कज़्०४।४।०६ धर्मस्थं विश्वास।उपगतं सत्त्री ब्रूयात् - "असौ मे बन्धुर् अभियुक्तः, तस्य-अयम् अनर्थः प्रतिक्रियताम्, अयं च-अर्थः प्रतिगृह्यताम्" इति । ६ ।
 
-KAZ04.4.07 sa cet tathā kuryād upadā.grāhaka iti pravāsyeta | 7 |
+कज़्०४।४।०७ स चेत् तथा कुर्याद् उपदा।ग्राहक इति प्रवास्येत । ७ ।
 
-KAZ04.4.08 tena pradeṣṭāro vyākhyātāḥ | 8 |
+कज़्०४।४।०८ तेन प्रदेष्टारो व्याख्याताः । ८ ।
 
-KAZ04.4.09 grāma.kūṭam adhyakṣaṃ vā sattrī brūyāt - "asau jālmaḥ prabhūta.dravyaḥ, tasya-ayam anarthaḥ, tena-enam āhārayasva" iti | 9 |
+कज़्०४।४।०९ ग्राम।कूटम् अध्यक्षं वा सत्त्री ब्रूयात् - "असौ जाल्मः प्रभूत।द्रव्यः, तस्य-अयम् अनर्थः, तेन-एनम् आहारयस्व" इति । ९ ।
 
-KAZ04.4.10 sa cet tathā kuryād utkocaka iti pravāsyeta | 10 |
+कज़्०४।४।१० स चेत् तथा कुर्याद् उत्कोचक इति प्रवास्येत । १० ।
 
-KAZ04.4.11 kṛtaka.abhiyukto vā kūṭa.sākṣiṇo 'bhijñāta.anartha.vaipulyena-ārabheta | 11 |
+कज़्०४।४।११ कृतक।अभियुक्तो वा कूट।साक्षिणो ऽभिज्ञात।अनर्थ।वैपुल्येन-आरभेत । ११ ।
 
-KAZ04.4.12 te cet tathā kuryuḥ kūṭa.sākṣiṇa iti pravāsyeran | 12 |
+कज़्०४।४।१२ ते चेत् तथा कुर्युः कूट।साक्षिण इति प्रवास्येरन् । १२ ।
 
-KAZ04.4.13 tena kūṭa.śrāvaṇa.kārakā vyākhyātāḥ | 13 |
+कज़्०४।४।१३ तेन कूट।श्रावण।कारका व्याख्याताः । १३ ।
 
-KAZ04.4.14 yaṃ vā mantra.yoga.mūla.karmabhiḥ śmāśānikair vā saṃvadana.karakaṃ manyeta taṃ sattrī brūyāt - "amuṣya bhāryāṃ snuṣāṃ duhitaraṃ vā kāmaye, sā māṃ pratikāmayatām, ayaṃ ca-arthaḥ pratigṛhyatām" iti | 14 |
+कज़्०४।४।१४ यं वा मन्त्र।योग।मूल।कर्मभिः श्माशानिकैर् वा संवदन।करकं मन्येत तं सत्त्री ब्रूयात् - "अमुष्य भार्यां स्नुषां दुहितरं वा कामये, सा मां प्रतिकामयताम्, अयं च-अर्थः प्रतिगृह्यताम्" इति । १४ ।
 
-KAZ04.4.15 sa cet tathā kuryāt saṃvadana.kāraka iti pravāsyeta | 15 |
+कज़्०४।४।१५ स चेत् तथा कुर्यात् संवदन।कारक इति प्रवास्येत । १५ ।
 
-KAZ04.4.16 tena kṛtya.abhicāra.śīlau vyākhyātau | 16 |
+कज़्०४।४।१६ तेन कृत्य।अभिचार।शीलौ व्याख्यातौ । १६ ।
 
-KAZ04.4.17 yaṃ vā rasasya kartāraṃ kretāraṃ vikretāraṃ bhaiṣajya.āhāra.vyavahāriṇaṃ vā rasadaṃ manyeta taṃ sattrī brūyāt - "asau me śatruḥ, tasya-upaghātaḥ kriyatām, ayaṃ ca-arthaḥ pratigṛhyatām" iti | 17 |
+कज़्०४।४।१७ यं वा रसस्य कर्तारं क्रेतारं विक्रेतारं भैषज्य।आहार।व्यवहारिणं वा रसदं मन्येत तं सत्त्री ब्रूयात् - "असौ मे शत्रुः, तस्य-उपघातः क्रियताम्, अयं च-अर्थः प्रतिगृह्यताम्" इति । १७ ।
 
-KAZ04.4.18 sa cet tathā kuryād rasada iti pravāsyeta | 18 |
+कज़्०४।४।१८ स चेत् तथा कुर्याद् रसद इति प्रवास्येत । १८ ।
 
-KAZ04.4.19 tena madana.yoga.vyavahārī vyākhyātaḥ | 19 |
+कज़्०४।४।१९ तेन मदन।योग।व्यवहारी व्याख्यातः । १९ ।
 
-KAZ04.4.20 yaṃ vā nānā.loha.kṣārāṇām aṅgāra.bhasma.asandaṃśa.muṣṭika.adhikaraṇī.bimba.ṭaṅka.mūṣāṇām abhīkṣṇa.kretāraṃ maṣī.bhasma.dhūma.digdha.hasta.vastra.liṅgaṃ karmāra.upakaraṇa.saṃsargaṃ kūṭa.rūpa.kārakaṃ manyeta taṃ sattrī śiṣyatvena saṃvyavahāreṇa ca-anupraviśya prajñāpayet | 20 |
+कज़्०४।४।२० यं वा नाना।लोह।क्षाराणाम् अङ्गार।भस्म।असन्दंश।मुष्टिक।अधिकरणी।बिम्ब।टङ्क।मूषाणाम् अभीक्ष्ण।क्रेतारं मषी।भस्म।धूम।दिग्ध।हस्त।वस्त्र।लिङ्गं कर्मार।उपकरण।संसर्गं कूट।रूप।कारकं मन्येत तं सत्त्री शिष्यत्वेन संव्यवहारेण च-अनुप्रविश्य प्रज्ञापयेत् । २० ।
 
-KAZ04.4.21 prajñātaḥ kūṭa.rūpa.kāraka iti pravāsyeta | 21 |
+कज़्०४।४।२१ प्रज्ञातः कूट।रूप।कारक इति प्रवास्येत । २१ ।
 
-KAZ04.4.22 tena rāgasya-apahartā kūṭa.suvarṇa.vyavahārī ca vyākhyātaḥ | 22 |
+कज़्०४।४।२२ तेन रागस्य-अपहर्ता कूट।सुवर्ण।व्यवहारी च व्याख्यातः । २२ ।
 
-KAZ04.4.23ab ārabdhāras tu hiṃsāyāṃ gūḍha.ājīvās trayodaśa |  
-KAZ04.4.23cd pravāsyā niṣkraya.arthaṃ vā dadyur doṣa.viśeṣataḥ || 23 ||  
+कज़्०४।४।२३अब् आरब्धारस् तु हिंसायां गूढ।आजीवास् त्रयोदश ।  
+कज़्०४।४।२३च्द् प्रवास्या निष्क्रय।अर्थं वा दद्युर् दोष।विशेषतः ॥ २३ ॥  
 
 
  छप्तेर् ५ (सेच्तिओन् ८०): देतेच्तिओन् ओड़् च्रिमिनल्स् थ्रोउघ् सेच्रेत् अगेन्त्स्
@@ -5888,72 +5887,72 @@ KAZ04.4.23cd pravāsyā niṣkraya.arthaṃ vā dadyur doṣa.viśeṣataḥ || 
 कज़्०४।५।१८च्द् सर्वज्ञ।ख्यापनं राज्ञः कारयन् राष्ट्र।वासिषु ॥ १८ ॥  
 
 
- Chapter 6 (Section 81): Arrest on Suspicion, with the Article and by the Act
- \[K tr. 311\] ,  \[K2 tr. 268\] 
-KAZ04.6.01 siddha.prayogād ūrdhvaṃ śaṅkā.rūpa.karma.abhigrahaḥ | 1 |
+ छप्तेर् ६ (सेच्तिओन् ८१): अर्रेस्त् ओन् सुस्पिचिओन्, wइथ् थे अर्तिच्ले अन्द् ब्य् थे अच्त्
+ \[क् त्र्। ३११\] ,  \[क्२ त्र्। २६८\] 
+कज़्०४।६।०१ सिद्ध।प्रयोगाद् ऊर्ध्वं शङ्का।रूप।कर्म।अभिग्रहः । १ ।
 
-KAZ04.6.02a kṣīṇa.dāya.kuṭumbam, alpa.nirveśaṃ, viparīta.deśa.jāti.gotra.nāma.karma.apadeśaṃ, pracchanna.vṛtti.karmāṇaṃ,-
+कज़्०४।६।०२अ क्षीण।दाय।कुटुम्बम्, अल्प।निर्वेशं, विपरीत।देश।जाति।गोत्र।नाम।कर्म।अपदेशं, प्रच्छन्न।वृत्ति।कर्माणं,-
 
-KAZ04.6.02b māṃsa.surā.bhakṣya.bhojana.gandha.mālya.vastra.vibhūṣaṇeṣu prasaktam, ativyaya.kartāraṃ, puṃścalī.dyūta.śauṇḍikeṣu prasaktam,-
+कज़्०४।६।०२ब् मांस।सुरा।भक्ष्य।भोजन।गन्ध।माल्य।वस्त्र।विभूषणेषु प्रसक्तम्, अतिव्यय।कर्तारं, पुंश्चली।द्यूत।शौण्डिकेषु प्रसक्तम्,-
 
-KAZ04.6.02c abhīkṣṇa.pravāsinam, avijñāta.sthāna.gamanam, ekānta.araṇya.niṣkuṭa.vikāla.cāriṇaṃ, pracchanne sa.āmiṣe vā deśe bahu.mantra.sannipātaṃ,-
+कज़्०४।६।०२च् अभीक्ष्ण।प्रवासिनम्, अविज्ञात।स्थान।गमनम्, एकान्त।अरण्य।निष्कुट।विकाल।चारिणं, प्रच्छन्ने स।आमिषे वा देशे बहु।मन्त्र।सन्निपातं,-
 
-KAZ04.6.02d sadyaḥ.kṣata.vraṇānāṃ gūḍha.pratīkāra.kārayitāram, antar.gṛha.nityam, abhyadhigantāraṃ, kāntā.paraṃ,-
+कज़्०४।६।०२द् सद्यः।क्षत।व्रणानां गूढ।प्रतीकार।कारयितारम्, अन्तर्।गृह।नित्यम्, अभ्यधिगन्तारं, कान्ता।परं,-
 
-KAZ04.6.02e para.parigrahāṇāṃ para.strī.dravya.veśmanām abhīkṣṇa.praṣṭāraṃ, kutsita.karma.śāstra.upakaraṇa.saṃsargaṃ,-
+कज़्०४।६।०२ए पर।परिग्रहाणां पर।स्त्री।द्रव्य।वेश्मनाम् अभीक्ष्ण।प्रष्टारं, कुत्सित।कर्म।शास्त्र।उपकरण।संसर्गं,-
 
-KAZ04.6.02f virātre channa.kuḍyac.chāyā.sañcāriṇaṃ, virūpa.dravyāṇām adeśa.kāla.vikretāraṃ, jāta.vairaśayaṃ, hīna.karma.jātiṃ,-
+कज़्०४।६।०२ड़् विरात्रे छन्न।कुड्यच्।छाया।सञ्चारिणं, विरूप।द्रव्याणाम् अदेश।काल।विक्रेतारं, जात।वैरशयं, हीन।कर्म।जातिं,-
 
-KAZ04.6.02g vigūhamāna.rūpaṃ, liṅgena-āliṅginaṃ, liṅginaṃ vā bhinna.ācāraṃ, pūrva.kṛta.apadānaṃ, sva.karmabhir apadiṣṭaṃ,-
+कज़्०४।६।०२ग् विगूहमान।रूपं, लिङ्गेन-आलिङ्गिनं, लिङ्गिनं वा भिन्न।आचारं, पूर्व।कृत।अपदानं, स्व।कर्मभिर् अपदिष्टं,-
 
-KAZ04.6.02h nāgarika.mahā.mātra.darśane guhamānam apasarantam anucchvāsa.upaveśinam āvignaṃ śuṣka.bhinna.svara.mukha.varṇaṃ,-
+कज़्०४।६।०२ह् नागरिक।महा।मात्र।दर्शने गुहमानम् अपसरन्तम् अनुच्छ्वास।उपवेशिनम् आविग्नं शुष्क।भिन्न।स्वर।मुख।वर्णं,-
 
-KAZ04.6.02i śastra.hasta.manuṣya.sampāta.trāsinaṃ, hiṃsra.stena.nidhi.nikṣepa.apahāra.para.prayoga.gūḍha.ājīvinām anyatamaṃ śaṅketa | 2 | iti śaṅkā.abhigrahaḥ |
+कज़्०४।६।०२इ शस्त्र।हस्त।मनुष्य।सम्पात।त्रासिनं, हिंस्र।स्तेन।निधि।निक्षेप।अपहार।पर।प्रयोग।गूढ।आजीविनाम् अन्यतमं शङ्केत । २ । इति शङ्का।अभिग्रहः ।
 
-KAZ04.6.03 rūpa.abhigrahas tu - naṣṭa.apahṛtam avidyamānaṃ taj.jāta.vyavahāriṣu nivedayet | 3 |
+कज़्०४।६।०३ रूप।अभिग्रहस् तु - नष्ट।अपहृतम् अविद्यमानं तज्।जात।व्यवहारिषु निवेदयेत् । ३ ।
 
-KAZ04.6.04 tac cen niveditam āsādya pracchādayeyuḥ sācivya.kara.doṣam āpnuyuḥ | 4 |
+कज़्०४।६।०४ तच् चेन् निवेदितम् आसाद्य प्रच्छादयेयुः साचिव्य।कर।दोषम् आप्नुयुः । ४ ।
 
-KAZ04.6.05 ajānanto 'sya dravyasya-atisargeṇa mucyeran | 5 |
+कज़्०४।६।०५ अजानन्तो ऽस्य द्रव्यस्य-अतिसर्गेण मुच्येरन् । ५ ।
 
-KAZ04.6.06 na ca-anivedya saṃsthā.adhyakṣasya purāṇa.bhāṇḍānām ādhānaṃ vikrayaṃ vā kuryuḥ | 6 |
+कज़्०४।६।०६ न च-अनिवेद्य संस्था।अध्यक्षस्य पुराण।भाण्डानाम् आधानं विक्रयं वा कुर्युः । ६ ।
 
-KAZ04.6.07 tac cen niveditam āsādyeta, rūpa.abhigṛhītam āgamaṃ pṛcchet "kutas te labdham" iti | 7 |
+कज़्०४।६।०७ तच् चेन् निवेदितम् आसाद्येत, रूप।अभिगृहीतम् आगमं पृच्छेत् "कुतस् ते लब्धम्" इति । ७ ।
 
-KAZ04.6.08 sa cet brūyāt "dāyādyād avāptam, amuṣmāl labdhaṃ krītaṃ kāritam ādhi.pracchannam, ayam asya deśaḥ kālaś ca-upasamprāpteḥ, ayam asya-arghaḥ pramāṇaṃ lakṣaṇaṃ mūlyaṃ ca" iti, tasya-āgama.samādhau mucyeta | 8 |
+कज़्०४।६।०८ स चेत् ब्रूयात् "दायाद्याद् अवाप्तम्, अमुष्माल् लब्धं क्रीतं कारितम् आधि।प्रच्छन्नम्, अयम् अस्य देशः कालश् च-उपसम्प्राप्तेः, अयम् अस्य-अर्घः प्रमाणं लक्षणं मूल्यं च" इति, तस्य-आगम।समाधौ मुच्येत । ८ ।
 
-KAZ04.6.09 nāṣṭikaś cet tad eva pratisandadhyāt, yasyā pūrvo dīrghaś ca paribhogaḥ śucir vā deśas tasya dravyam iti vidyāt | 9 |
+कज़्०४।६।०९ नाष्टिकश् चेत् तद् एव प्रतिसन्दध्यात्, यस्या पूर्वो दीर्घश् च परिभोगः शुचिर् वा देशस् तस्य द्रव्यम् इति विद्यात् । ९ ।
 
-KAZ04.6.10 catuṣpada.dvipadānām api hi rūpa.liṅga.sāmānyaṃ bhavati, kim aṅga punar eka.yoni.dravya.kartṛ.prasūtānāṃ kupya.ābharaṇa.bhāṇḍānām iti | 10 |
+कज़्०४।६।१० चतुष्पद।द्विपदानाम् अपि हि रूप।लिङ्ग।सामान्यं भवति, किम् अङ्ग पुनर् एक।योनि।द्रव्य।कर्तृ।प्रसूतानां कुप्य।आभरण।भाण्डानाम् इति । १० ।
 
-KAZ04.6.11 sa ced brūyāt "yācitakam avakrītakam āhitakaṃ nikṣepam upanidhiṃ vaiyāvṛtya.karma vā-amuṣya" iti, tasya-apasāra.pratisandhānena mucyeta | 11 |
+कज़्०४।६।११ स चेद् ब्रूयात् "याचितकम् अवक्रीतकम् आहितकं निक्षेपम् उपनिधिं वैयावृत्य।कर्म वा-अमुष्य" इति, तस्य-अपसार।प्रतिसन्धानेन मुच्येत । ११ ।
 
-KAZ04.6.12 "na-evam" ity apasāro vā brūyāt,  rūpa.abhigṛhītaḥ parasya dāna.kāraṇam ātmanaḥ pratigraha.kāraṇam upaliṅganaṃ vā dāyaka.dāpaka.nibandhaka.pratigrāhaka.upadraṣṭṛbhir upaśrotṛbhir vā pratisamānayet | 12 |
+कज़्०४।६।१२ "न-एवम्" इत्य् अपसारो वा ब्रूयात्,  रूप।अभिगृहीतः परस्य दान।कारणम् आत्मनः प्रतिग्रह।कारणम् उपलिङ्गनं वा दायक।दापक।निबन्धक।प्रतिग्राहक।उपद्रष्टृभिर् उपश्रोतृभिर् वा प्रतिसमानयेत् । १२ ।
 
-KAZ04.6.13 ujjhita.pranaṣṭa.niṣpatita.upalabdhasya deśa.kāla.lābha.upaliṅganena śuddhiḥ | 13 |
+कज़्०४।६।१३ उज्झित।प्रनष्ट।निष्पतित।उपलब्धस्य देश।काल।लाभ।उपलिङ्गनेन शुद्धिः । १३ ।
 
-KAZ04.6.14 aśuddhas tac ca tāvac ca daṇḍaṃ dadyāt | 14 |
+कज़्०४।६।१४ अशुद्धस् तच् च तावच् च दण्डं दद्यात् । १४ ।
 
-KAZ04.6.15 anyathā steya.daṇḍaṃ bhajeta | 15 | iti rūpa.abhigrahaḥ |
+कज़्०४।६।१५ अन्यथा स्तेय।दण्डं भजेत । १५ । इति रूप।अभिग्रहः ।
 
-KAZ04.6.16 karma.abhigrahas tu - muṣita.veśmanaḥ praveśa.niṣkasanam advāreṇa, dvārasya sandhinā bījena vā vedham, uttama.agārasya jāla.vāta.ayana.nīpra.vedham, ārohaṇa.avataraṇe ca kuḍyasya vedham, upakhananaṃ vā gūḍha.dravya.nikṣepaṇa.grahaṇa.upāyam, upadeśa.upalabhyam abhyantarac.cheda.utkara.parimarda.upakaraṇam abhyantara.kṛtaṃ vidyāt | 16 |
+कज़्०४।६।१६ कर्म।अभिग्रहस् तु - मुषित।वेश्मनः प्रवेश।निष्कसनम् अद्वारेण, द्वारस्य सन्धिना बीजेन वा वेधम्, उत्तम।अगारस्य जाल।वात।अयन।नीप्र।वेधम्, आरोहण।अवतरणे च कुड्यस्य वेधम्, उपखननं वा गूढ।द्रव्य।निक्षेपण।ग्रहण।उपायम्, उपदेश।उपलभ्यम् अभ्यन्तरच्।छेद।उत्कर।परिमर्द।उपकरणम् अभ्यन्तर।कृतं विद्यात् । १६ ।
 
-KAZ04.6.17 viparyaye bāhya.kṛtam, ubhayata ubhaya.kṛtam | 17 |
+कज़्०४।६।१७ विपर्यये बाह्य।कृतम्, उभयत उभय।कृतम् । १७ ।
 
-KAZ04.6.18a abhyantara.kṛte puruṣam āsannaṃ vyasaninaṃ krūra.sahāyaṃ taskara.upakaraṇa.saṃsargaṃ, striyaṃ vā daridra.kulām anya.prasaktāṃ vā,-
+कज़्०४।६।१८अ अभ्यन्तर।कृते पुरुषम् आसन्नं व्यसनिनं क्रूर।सहायं तस्कर।उपकरण।संसर्गं, स्त्रियं वा दरिद्र।कुलाम् अन्य।प्रसक्तां वा,-
 
-KAZ04.6.18b paricāraka.janaṃ vā tad.vidha.ācāram, atisvapnaṃ, nidrā.klāntam, āvignaṃ. śuṣka.bhinna.svara.mukha.varṇam, anavasthitam,-
+कज़्०४।६।१८ब् परिचारक।जनं वा तद्।विध।आचारम्, अतिस्वप्नं, निद्रा।क्लान्तम्, आविग्नं। शुष्क।भिन्न।स्वर।मुख।वर्णम्, अनवस्थितम्,-
 
-KAZ04.6.18c atipralāpinam, ucca.ārohaṇa.saṃrabdha.gātraṃ, vilūna.nighṛṣṭa.bhinna.pāṭita.śarīra.vastraṃ, jāta.kiṇa.saṃrabdha.hasta.pādaṃ,-
+कज़्०४।६।१८च् अतिप्रलापिनम्, उच्च।आरोहण।संरब्ध।गात्रं, विलून।निघृष्ट।भिन्न।पाटित।शरीर।वस्त्रं, जात।किण।संरब्ध।हस्त।पादं,-
 
-KAZ04.6.18d pāṃsu.pūrṇa.keśa.nakhaṃ vilūna.bhugna.keśa.nakhaṃ vā, samyak.snāta.anuliptaṃ taila.pramṛṣṭa.gātraṃ sadyo.dauta.hasta.pādaṃ vā,-
+कज़्०४।६।१८द् पांसु।पूर्ण।केश।नखं विलून।भुग्न।केश।नखं वा, सम्यक्।स्नात।अनुलिप्तं तैल।प्रमृष्ट।गात्रं सद्यो।दौत।हस्त।पादं वा,-
 
-KAZ04.6.18e pāṃsu.picchileṣu tulya.pāda.pada.nikṣepaṃ, praveśa.niṣkasanayor vā tulya.mālya.madya.gandha.vastrac.cheda.vilepana.svedaṃ parīkṣeta | 18 |
+कज़्०४।६।१८ए पांसु।पिच्छिलेषु तुल्य।पाद।पद।निक्षेपं, प्रवेश।निष्कसनयोर् वा तुल्य।माल्य।मद्य।गन्ध।वस्त्रच्।छेद।विलेपन।स्वेदं परीक्षेत । १८ ।
 
-KAZ04.6.19 coraṃ pāradārikaṃ vā vidyāt | 19 |
+कज़्०४।६।१९ चोरं पारदारिकं वा विद्यात् । १९ ।
 
-KAZ04.6.20ab sagopa.sthāniko bāhyaṃ pradeṣṭā cora.mārgaṇam |  
-KAZ04.6.20cd kuryān nāgarikaś ca-antar.durge nirdiṣṭa.hetubhiḥ || 20 ||  
+कज़्०४।६।२०अब् सगोप।स्थानिको बाह्यं प्रदेष्टा चोर।मार्गणम् ।  
+कज़्०४।६।२०च्द् कुर्यान् नागरिकश् च-अन्तर्।दुर्गे निर्दिष्ट।हेतुभिः ॥ २० ॥  
 
 
  छप्तेर् ७ (सेच्तिओन् ८२): इन्क़ुएस्त् ओन् सुद्देन् देअथ्स्
@@ -6026,66 +6025,66 @@ KAZ04.6.20cd kuryān nāgarikaś ca-antar.durge nirdiṣṭa.hetubhiḥ || 20 ||
 कज़्०४।७।२८च्द् याजन।अध्यापनाद् यौनात् तैश् च-अन्यो ऽपि समाचरन् ॥ २८ ॥  
 
 
- Chapter 8 (Section 83): Investigation through Interrogation and through Torture
- \[K tr. 317\] ,  \[K2 tr. 274\] 
-KAZ04.8.01 muṣita.sannidhau bāhyānām abhyantarāṇāṃ ca sākṣiṇām abhiśastasya deśa.jāti.gotra.nāma.karma.sāra.sahāya.nivāsān anuyuñjīta | 1 |
+ छप्तेर् ८ (सेच्तिओन् ८३): इन्वेस्तिगतिओन् थ्रोउघ् इन्तेर्रोगतिओन् अन्द् थ्रोउघ् तोर्तुरे
+ \[क् त्र्। ३१७\] ,  \[क्२ त्र्। २७४\] 
+कज़्०४।८।०१ मुषित।सन्निधौ बाह्यानाम् अभ्यन्तराणां च साक्षिणाम् अभिशस्तस्य देश।जाति।गोत्र।नाम।कर्म।सार।सहाय।निवासान् अनुयुञ्जीत । १ ।
 
-KAZ04.8.02 tāṃś ca-apadeśaiḥ pratisamānayet | 2 |
+कज़्०४।८।०२ तांश् च-अपदेशैः प्रतिसमानयेत् । २ ।
 
-KAZ04.8.03 tataḥ pūrvasya-ahnaḥ pracāraṃ rātrau nivāsaṃ cā grahaṇād ity anuyuñjīta | 3 |
+कज़्०४।८।०३ ततः पूर्वस्य-अह्नः प्रचारं रात्रौ निवासं चा ग्रहणाद् इत्य् अनुयुञ्जीत । ३ ।
 
-KAZ04.8.04 tasya-apasāra.pratisandhāne śuddhaḥ syāt, anyathā karma.prāptaḥ | 4 |
+कज़्०४।८।०४ तस्य-अपसार।प्रतिसन्धाने शुद्धः स्यात्, अन्यथा कर्म।प्राप्तः । ४ ।
 
-KAZ04.8.05 tri.rātrād ūrdhvam agrāhyaḥ śaṅkitakaḥ pṛcchā.abhāvād anyatra-upakaraṇa.darśanāt | 5 |
+कज़्०४।८।०५ त्रि।रात्राद् ऊर्ध्वम् अग्राह्यः शङ्कितकः पृच्छा।अभावाद् अन्यत्र-उपकरण।दर्शनात् । ५ ।
 
-KAZ04.8.06 acoraṃ cora ity abhivyāharataś cora.samo daṇḍaḥ, coraṃ pracchādayataś ca | 6 |
+कज़्०४।८।०६ अचोरं चोर इत्य् अभिव्याहरतश् चोर।समो दण्डः, चोरं प्रच्छादयतश् च । ६ ।
 
-KAZ04.8.07 coreṇa-abhiśasto vaira.dveṣābhyām apadiṣṭakaḥ śuddhaḥ syāt | 7 |
+कज़्०४।८।०७ चोरेण-अभिशस्तो वैर।द्वेषाभ्याम् अपदिष्टकः शुद्धः स्यात् । ७ ।
 
-KAZ04.8.08 śuddhaṃ parivāsayataḥ pūrvaḥ sāhasa.daṇḍaḥ | 8 |
+कज़्०४।८।०८ शुद्धं परिवासयतः पूर्वः साहस।दण्डः । ८ ।
 
-KAZ04.8.09 śaṅkā.niṣpannam upakaraṇa.mantri.sahāya.rūpa.vaiyāvṛtya.karān niṣpādayet | 9 |
+कज़्०४।८।०९ शङ्का।निष्पन्नम् उपकरण।मन्त्रि।सहाय।रूप।वैयावृत्य।करान् निष्पादयेत् । ९ ।
 
-KAZ04.8.10 karmaṇaś ca pradeśa.dravya.ādāna.aṃśa.vibhāgaiḥ pratisamānayet | 10 |
+कज़्०४।८।१० कर्मणश् च प्रदेश।द्रव्य।आदान।अंश।विभागैः प्रतिसमानयेत् । १० ।
 
-KAZ04.8.11 eteṣāṃ kāraṇānām anabhisandhāne vipralapantam acoraṃ vidyāt | 11 |
+कज़्०४।८।११ एतेषां कारणानाम् अनभिसन्धाने विप्रलपन्तम् अचोरं विद्यात् । ११ ।
 
-KAZ04.8.12 dṛśyate hy acoro 'pi cora.mārge yadṛcchayā sannipāte cora.veṣa.śastra.bhāṇḍa.sāmānyena gṛhyamāṇaś cora.bhāṇḍasya-upavāsena vā, yathā-aṇi.māṇḍavyaḥ karma.kleśa.bhayād acoraḥ "coro 'smi" iti bruvāṇaḥ | 12 |
+कज़्०४।८।१२ दृश्यते ह्य् अचोरो ऽपि चोर।मार्गे यदृच्छया सन्निपाते चोर।वेष।शस्त्र।भाण्ड।सामान्येन गृह्यमाणश् चोर।भाण्डस्य-उपवासेन वा, यथा-अणि।माण्डव्यः कर्म।क्लेश।भयाद् अचोरः "चोरो ऽस्मि" इति ब्रुवाणः । १२ ।
 
-KAZ04.8.13 tasmāt samāpta.karaṇaṃ niyamayet | 13 |
+कज़्०४।८।१३ तस्मात् समाप्त।करणं नियमयेत् । १३ ।
 
-KAZ04.8.14 manda.aparādhaṃ bālaṃ vṛddhaṃ vyādhitaṃ mattam unmattaṃ kṣut.pipāsā.adhva.klāntam atyāśitam āmaka.aśitaṃ durbalaṃ vā na karma kārayet | 14 |
+कज़्०४।८।१४ मन्द।अपराधं बालं वृद्धं व्याधितं मत्तम् उन्मत्तं क्षुत्।पिपासा।अध्व।क्लान्तम् अत्याशितम् आमक।अशितं दुर्बलं वा न कर्म कारयेत् । १४ ।
 
-KAZ04.8.15 tulya śīla.puṃścalī.prāpāvika.kathā.avakāśa.bhojana.dātṛbhir apasarpayet | 15 |
+कज़्०४।८।१५ तुल्य शील।पुंश्चली।प्रापाविक।कथा।अवकाश।भोजन।दातृभिर् अपसर्पयेत् । १५ ।
 
-KAZ04.8.16 evam atisandadhyāt, yathā vā nikṣepa.apahāre vyākhyātam | 16 |
+कज़्०४।८।१६ एवम् अतिसन्दध्यात्, यथा वा निक्षेप।अपहारे व्याख्यातम् । १६ ।
 
-KAZ04.8.17 āpta.doṣaṃ karma kārayet, na tv eva striyaṃ garbhiṇīṃ sūtikāṃ vā māsa.avara.prajātām | 17 |
+कज़्०४।८।१७ आप्त।दोषं कर्म कारयेत्, न त्व् एव स्त्रियं गर्भिणीं सूतिकां वा मास।अवर।प्रजाताम् । १७ ।
 
-KAZ04.8.18 striyās tv ardha.karma, vākya.anuyogo vā | 18 |
+कज़्०४।८।१८ स्त्रियास् त्व् अर्ध।कर्म, वाक्य।अनुयोगो वा । १८ ।
 
-KAZ04.8.19 brāhmaṇasya sattri.parigrahaḥ śrutavatas tapasvinaś ca | 19 |
+कज़्०४।८।१९ ब्राह्मणस्य सत्त्रि।परिग्रहः श्रुतवतस् तपस्विनश् च । १९ ।
 
-KAZ04.8.20 tasya-atikrama uttamo daṇḍaḥ kartuḥ kārayituś ca, karmaṇā vyāpādanena ca | 20 |
+कज़्०४।८।२० तस्य-अतिक्रम उत्तमो दण्डः कर्तुः कारयितुश् च, कर्मणा व्यापादनेन च । २० ।
 
-KAZ04.8.21 vyāvahārikaṃ karma.catuṣkaṃ - ṣaḍ daṇḍāḥ, sapta kaśāḥ, dvāv upari.nibandhau, udaka.nālikā ca | 21 |
+कज़्०४।८।२१ व्यावहारिकं कर्म।चतुष्कं - षड् दण्डाः, सप्त कशाः, द्वाव् उपरि।निबन्धौ, उदक।नालिका च । २१ ।
 
-KAZ04.8.22 paraṃ pāpa.karmaṇāṃ nava vetra.latāḥ, dvādaśa kaśāḥ, dvāv ūru.veṣṭau, viṃśatir nakta.māla.latāḥ, dvātriṃśat.talāḥ, dvau vṛścika.bandhau, ullambane ca dve, sūcī hastasya, yavāgū.pītasya eka.parva.dahanam aṅgulyāḥ, sneha.pītasya pratāpanam ekam ahaḥ, śiśira.rātrau balbaja.agra.śayyā ca | 22 |
+कज़्०४।८।२२ परं पाप।कर्मणां नव वेत्र।लताः, द्वादश कशाः, द्वाव् ऊरु।वेष्टौ, विंशतिर् नक्त।माल।लताः, द्वात्रिंशत्।तलाः, द्वौ वृश्चिक।बन्धौ, उल्लम्बने च द्वे, सूची हस्तस्य, यवागू।पीतस्य एक।पर्व।दहनम् अङ्गुल्याः, स्नेह।पीतस्य प्रतापनम् एकम् अहः, शिशिर।रात्रौ बल्बज।अग्र।शय्या च । २२ ।
 
-KAZ04.8.23 ity aṣṭādaśakaṃ karma | 23 |
+कज़्०४।८।२३ इत्य् अष्टादशकं कर्म । २३ ।
 
-KAZ04.8.24 tasya.upakaraṇaṃ pramāṇaṃ praharaṇaṃ pradharaṇam avadhāraṇaṃ ca khara.paṭṭād āgamayet | 24 |
+कज़्०४।८।२४ तस्य।उपकरणं प्रमाणं प्रहरणं प्रधरणम् अवधारणं च खर।पट्टाद् आगमयेत् । २४ ।
 
-KAZ04.8.25 divasa.antaram eka.ekaṃ ca karma kārayet | 25 |
+कज़्०४।८।२५ दिवस।अन्तरम् एक।एकं च कर्म कारयेत् । २५ ।
 
-KAZ04.8.26 pūrva.kṛta.apadānaṃ pratijñāya-apaharantam eka.deśa.dṛṣṭa.dravyaṃ karmaṇā rūpeṇa vā gṛhītaṃ rāja.kośam avastṛṇantaṃ karma.vadhyaṃ vā rāja.vacanāt samastaṃ vyastam abhyastaṃ vā karma kārayet | 26 |
+कज़्०४।८।२६ पूर्व।कृत।अपदानं प्रतिज्ञाय-अपहरन्तम् एक।देश।दृष्ट।द्रव्यं कर्मणा रूपेण वा गृहीतं राज।कोशम् अवस्तृणन्तं कर्म।वध्यं वा राज।वचनात् समस्तं व्यस्तम् अभ्यस्तं वा कर्म कारयेत् । २६ ।
 
-KAZ04.8.27 sarva.aparādheṣv apīḍanīyo brāhmaṇaḥ | 27 |
+कज़्०४।८।२७ सर्व।अपराधेष्व् अपीडनीयो ब्राह्मणः । २७ ।
 
-KAZ04.8.28 tasya-abhiśasta.aṅko lalāṭe syād vyavahāra.patanāya, steyo śvā, manuṣya.vadhe kabandhaḥ, guru.talpe bhagam, surā.pāne madya.dhvajaḥ | 28 |
+कज़्०४।८।२८ तस्य-अभिशस्त।अङ्को ललाटे स्याद् व्यवहार।पतनाय, स्तेयो श्वा, मनुष्य।वधे कबन्धः, गुरु।तल्पे भगम्, सुरा।पाने मद्य।ध्वजः । २८ ।
 
-KAZ04.8.29ab brāhmaṇaṃ pāpa.karmāṇam udghuṣya-aṅka.kṛta.vraṇam |  
-KAZ04.8.29cd kuryān nirviṣayaṃ rājā vāsayed ākareṣu vā || 29 ||  
+कज़्०४।८।२९अब् ब्राह्मणं पाप।कर्माणम् उद्घुष्य-अङ्क।कृत।व्रणम् ।  
+कज़्०४।८।२९च्द् कुर्यान् निर्विषयं राजा वासयेद् आकरेषु वा ॥ २९ ॥  
 
 
  छप्तेर् ९ (सेच्तिओन् ८४): केएपिन्ग् अ Wअत्छ् ओवेर् देपर्त्मेन्त्स्
@@ -6148,46 +6147,46 @@ KAZ04.8.29cd kuryān nirviṣayaṃ rājā vāsayed ākareṣu vā || 29 ||
 कज़्०४।९।२८च्द् शोधयेयुश् च शुद्धास् ते पौर।जानपदान् दमैः ॥ २८ ॥  
 
 
- Chapter 10 (Section 85): Redemption from Corporal Punishment
- \[K tr. 325\] ,  \[K2 tr. 281\] 
-KAZ04.10.01 tīrtha.ghāta.granthi.bheda.ūrdhva.karāṇāṃ prathame 'parādhe sandeśac.chedanaṃ catuṣ.pañcāśat.paṇo vā daṇḍaḥ, dvitīye chedanaṃ paṇasya śatyo vā daṇḍaḥ, tṛtīye dakṣiṇa.hasta.vadhaś catuḥ.śato vā daṇḍaḥ, caturthe yathā.kāmī vadhaḥ | 1 |
+ छप्तेर् १० (सेच्तिओन् ८५): रेदेम्प्तिओन् ड़्रोम् चोर्पोरल् पुनिस्ह्मेन्त्
+ \[क् त्र्। ३२५\] ,  \[क्२ त्र्। २८१\] 
+कज़्०४।१०।०१ तीर्थ।घात।ग्रन्थि।भेद।ऊर्ध्व।कराणां प्रथमे ऽपराधे सन्देशच्।छेदनं चतुष्।पञ्चाशत्।पणो वा दण्डः, द्वितीये छेदनं पणस्य शत्यो वा दण्डः, तृतीये दक्षिण।हस्त।वधश् चतुः।शतो वा दण्डः, चतुर्थे यथा।कामी वधः । १ ।
 
-KAZ04.10.02 pañca.viṃśati.paṇa.avareṣu kukkuṭa.nakula.mārjāra.śva.sūkara.steyeṣu hiṃsāyāṃ vā catuṣ.pañcāśat.paṇo daṇḍaḥ, nāsa.agrac.chedanaṃ vā- caṇḍāla.araṇya.carāṇām ardha.daṇḍāḥ | 2 |
+कज़्०४।१०।०२ पञ्च।विंशति।पण।अवरेषु कुक्कुट।नकुल।मार्जार।श्व।सूकर।स्तेयेषु हिंसायां वा चतुष्।पञ्चाशत्।पणो दण्डः, नास।अग्रच्।छेदनं वा- चण्डाल।अरण्य।चराणाम् अर्ध।दण्डाः । २ ।
 
-KAZ04.10.03 pāśa.jāla.kūṭa.avapāteṣu baddhānāṃ mṛga.paśu.pakṣi.vyāla.matsyānām ādāne tac ca tāvac ca daṇḍaḥ | 3 |
+कज़्०४।१०।०३ पाश।जाल।कूट।अवपातेषु बद्धानां मृग।पशु।पक्षि।व्याल।मत्स्यानाम् आदाने तच् च तावच् च दण्डः । ३ ।
 
-KAZ04.10.04 mṛga.dravya.vanān mṛga.dravya.apahāre śātyo daṇḍaḥ | 4 |
+कज़्०४।१०।०४ मृग।द्रव्य।वनान् मृग।द्रव्य।अपहारे शात्यो दण्डः । ४ ।
 
-KAZ04.10.05 bimba.vihāra.mṛga.pakṣi.steye hiṃsāyāṃ vā dvi.guṇo daṇḍaḥ | 5 |
+कज़्०४।१०।०५ बिम्ब।विहार।मृग।पक्षि।स्तेये हिंसायां वा द्वि।गुणो दण्डः । ५ ।
 
-KAZ04.10.06 kāru.śilpi.kuśīlava.tapasvināṃ kṣudraka.dravya.apahāre śatyo daṇḍaḥ, sthūlaka.dravya.apahāre dvi.śataḥ, kṛṣi.dravya.apahāre ca | 6 |
+कज़्०४।१०।०६ कारु।शिल्पि।कुशीलव।तपस्विनां क्षुद्रक।द्रव्य।अपहारे शत्यो दण्डः, स्थूलक।द्रव्य।अपहारे द्वि।शतः, कृषि।द्रव्य।अपहारे च । ६ ।
 
-KAZ04.10.07 durgam akṛta.praveśasya praviśataḥ prākārac.chidrād vā nikṣepaṃ gṛhītvā-apasarataḥ kāṇḍarā.vadho, dvi.śāto vā daṇḍaḥ | 7 |
+कज़्०४।१०।०७ दुर्गम् अकृत।प्रवेशस्य प्रविशतः प्राकारच्।छिद्राद् वा निक्षेपं गृहीत्वा-अपसरतः काण्डरा।वधो, द्वि।शातो वा दण्डः । ७ ।
 
-KAZ04.10.08 cakra.yuktaṃ nāvaṃ kṣudra.paśuṃ vā-apaharata eka.pāda.vadhaḥ, tri.śato vā daṇḍaḥ | 8 |
+कज़्०४।१०।०८ चक्र।युक्तं नावं क्षुद्र।पशुं वा-अपहरत एक।पाद।वधः, त्रि।शतो वा दण्डः । ८ ।
 
-KAZ04.10.09 kūṭa.kākaṇy.akṣa.arālā.śalākā.hasta.viṣama.kāriṇa eka.hasta.vadhaḥ, catuḥ.śato vā daṇḍaḥ | 9 |
+कज़्०४।१०।०९ कूट।काकण्य्।अक्ष।अराला।शलाका।हस्त।विषम।कारिण एक।हस्त।वधः, चतुः।शतो वा दण्डः । ९ ।
 
-KAZ04.10.10 stena.pāradārikayoḥ sācivya.karmaṇi striyāḥ saṅgṛhītāyāś ca karṇa.nāsāc.chedanam, pañca.śato vā daṇḍaḥ, puṃṣo dvi.guṇaḥ | 10 |
+कज़्०४।१०।१० स्तेन।पारदारिकयोः साचिव्य।कर्मणि स्त्रियाः सङ्गृहीतायाश् च कर्ण।नासाच्।छेदनम्, पञ्च।शतो वा दण्डः, पुंषो द्वि।गुणः । १० ।
 
-KAZ04.10.11 mahā.paśum ekaṃ dāsaṃ dāsīṃ vā-apaharataḥ preta.bhāṇḍaṃ vā vikrīṇānasya dvi.pāda.vadhaḥ, ṣaṭ.chato vā daṇḍaḥ | 11 |
+कज़्०४।१०।११ महा।पशुम् एकं दासं दासीं वा-अपहरतः प्रेत।भाण्डं वा विक्रीणानस्य द्वि।पाद।वधः, षट्।छतो वा दण्डः । ११ ।
 
-KAZ04.10.12 varṇa.uttamānāṃ gurūṇāṃ ca hasta.pāda.laṅghane rāja.yāna.vāhana.ādy.ārohaṇe ca-eka.hasta.pāda.vadhaḥ, sapta.śato vā daṇḍaḥ | 12 |
+कज़्०४।१०।१२ वर्ण।उत्तमानां गुरूणां च हस्त।पाद।लङ्घने राज।यान।वाहन।आद्य्।आरोहणे च-एक।हस्त।पाद।वधः, सप्त।शतो वा दण्डः । १२ ।
 
-KAZ04.10.13 śūdrasya brāhmaṇa.vādino deva.dravyam avastṛṇato rāja.dviṣṭam ādiśato dvi.netra.bhedinaś ca yoga.añjanena-andhatvam, aṣṭa.śato vā daṇḍaḥ | 13 |
+कज़्०४।१०।१३ शूद्रस्य ब्राह्मण।वादिनो देव।द्रव्यम् अवस्तृणतो राज।द्विष्टम् आदिशतो द्वि।नेत्र।भेदिनश् च योग।अञ्जनेन-अन्धत्वम्, अष्ट।शतो वा दण्डः । १३ ।
 
-KAZ04.10.14 coraṃ pāradārikaṃ vā mokṣayato rāja.śāsanam ūnam atiriktaṃ vā likhataḥ kanyāṃ dāsīṃ vā sa-hiraṇyam aparahataḥ kūṭa.vyavahāriṇo vimāṃsa.vikrayiṇaś ca vāma.hasta.dvi.pāda.vadho, nava.śato vā daṇḍaḥ | 14 |
+कज़्०४।१०।१४ चोरं पारदारिकं वा मोक्षयतो राज।शासनम् ऊनम् अतिरिक्तं वा लिखतः कन्यां दासीं वा स-हिरण्यम् अपरहतः कूट।व्यवहारिणो विमांस।विक्रयिणश् च वाम।हस्त।द्वि।पाद।वधो, नव।शतो वा दण्डः । १४ ।
 
-KAZ04.10.15 mānuṣa.māṃsa.vikraye vadhaḥ | 15 |
+कज़्०४।१०।१५ मानुष।मांस।विक्रये वधः । १५ ।
 
-KAZ04.10.16 deva.paśu.pratimā.manuṣya.kṣetra.gṛha.hiraṇya.suvarṇa.ratna.sasya.apahāriṇa uttamo daṇḍaḥ, śuddha.vadho vā | 16 |
+कज़्०४।१०।१६ देव।पशु।प्रतिमा।मनुष्य।क्षेत्र।गृह।हिरण्य।सुवर्ण।रत्न।सस्य।अपहारिण उत्तमो दण्डः, शुद्ध।वधो वा । १६ ।
 
-KAZ04.10.17ab puruṣaṃ ca-aparādhaṃ ca kāraṇaṃ guru.lāghavam |  
-KAZ04.10.17cd anubandhaṃ tadātvaṃ ca deśa.kālau samīkṣya ca || 17 ||  
+कज़्०४।१०।१७अब् पुरुषं च-अपराधं च कारणं गुरु।लाघवम् ।  
+कज़्०४।१०।१७च्द् अनुबन्धं तदात्वं च देश।कालौ समीक्ष्य च ॥ १७ ॥  
 
 
-KAZ04.10.18ab uttama.avara.madhyatvaṃ pradeṣṭā daṇḍa.karmaṇi |  
-KAZ04.10.18cd rājñaś ca prakṛtīnāṃ ca kalpayed antarā sthitaḥ || 18 ||  
+कज़्०४।१०।१८अब् उत्तम।अवर।मध्यत्वं प्रदेष्टा दण्ड।कर्मणि ।  
+कज़्०४।१०।१८च्द् राज्ञश् च प्रकृतीनां च कल्पयेद् अन्तरा स्थितः ॥ १८ ॥  
 
 
  छप्तेर् ११ (सेच्तिओन् ८६): चपितल् पुनिस्ह्मेन्त्
@@ -6246,92 +6245,92 @@ KAZ04.10.18cd rājñaś ca prakṛtīnāṃ ca kalpayed antarā sthitaḥ || 18 
 कज़्०४।११।२६च्द् अक्लिष्टानां तु पापानां धर्म्यः शुद्ध।वधः स्मृतः ॥ २६ ॥  
 
 
- Chapter 12 (Section 87): Violation of Maidens
- \[K tr. 330\] ,  \[K2 tr. 285\] 
-KAZ04.12.01 savarṇām aprāpta.phalāṃ prakurvato hasta.vadhaḥ, catuḥ.śato vā daṇḍaḥ | 1 |
+ छप्तेर् १२ (सेच्तिओन् ८७): विओलतिओन् ओड़् मैदेन्स्
+ \[क् त्र्। ३३०\] ,  \[क्२ त्र्। २८५\] 
+कज़्०४।१२।०१ सवर्णाम् अप्राप्त।फलां प्रकुर्वतो हस्त।वधः, चतुः।शतो वा दण्डः । १ ।
 
-KAZ04.12.02 mṛtāyāṃ vadhaḥ | 2 |
+कज़्०४।१२।०२ मृतायां वधः । २ ।
 
-KAZ04.12.03 prāpta.phalāṃ prakurvato madhyamā.pradeśinī.vadho, dvi.śato vā daṇḍaḥ | 3 |
+कज़्०४।१२।०३ प्राप्त।फलां प्रकुर्वतो मध्यमा।प्रदेशिनी।वधो, द्वि।शतो वा दण्डः । ३ ।
 
-KAZ04.12.04 pituś ca-avahīnaṃ dadyāt | 4 |
+कज़्०४।१२।०४ पितुश् च-अवहीनं दद्यात् । ४ ।
 
-KAZ04.12.05 na ca prākāmyam akāmāyāṃ labbheta | 5 |
+कज़्०४।१२।०५ न च प्राकाम्यम् अकामायां लब्भेत । ५ ।
 
-KAZ04.12.06 sakāmāyāṃ catuṣ.pañcāśat.paṇo daṇḍaḥ, striyās tv ardha.daṇḍaḥ | 6 |
+कज़्०४।१२।०६ सकामायां चतुष्।पञ्चाशत्।पणो दण्डः, स्त्रियास् त्व् अर्ध।दण्डः । ६ ।
 
-KAZ04.12.07 para.śulka.avaruddhāyāṃ hasta.vadhaḥ, catuḥ.śato vā daṇḍaḥ, śulka.dānaṃ ca | 7 |
+कज़्०४।१२।०७ पर।शुल्क।अवरुद्धायां हस्त।वधः, चतुः।शतो वा दण्डः, शुल्क।दानं च । ७ ।
 
-KAZ04.12.08 sapta.ārtava.prajātāṃ varaṇād ūrdhvam alabhamānaḥ prakṛtya prākāmī syāt, na ca pitur avahīnaṃ dadyāt | 8 |
+कज़्०४।१२।०८ सप्त।आर्तव।प्रजातां वरणाद् ऊर्ध्वम् अलभमानः प्रकृत्य प्राकामी स्यात्, न च पितुर् अवहीनं दद्यात् । ८ ।
 
-KAZ04.12.09 ṛtu.pratirodhibhiḥ svāmyād apakrāmati | 9 |
+कज़्०४।१२।०९ ऋतु।प्रतिरोधिभिः स्वाम्याद् अपक्रामति । ९ ।
 
-KAZ04.12.10 tri.varṣa.prajāta.ārtavāyās tulyo gantum adoṣaḥ, tataḥ param atulyo 'py analaṅkṛtāyāḥ | 10 |
+कज़्०४।१२।१० त्रि।वर्ष।प्रजात।आर्तवायास् तुल्यो गन्तुम् अदोषः, ततः परम् अतुल्यो ऽप्य् अनलङ्कृतायाः । १० ।
 
-KAZ04.12.11 pitṛ.dravya.ādāne steyaṃ bhajeta | 11 |
+कज़्०४।१२।११ पितृ।द्रव्य।आदाने स्तेयं भजेत । ११ ।
 
-KAZ04.12.12 param uddiśya-anyasya vindato dvi.śato daṇḍaḥ | 12 |
+कज़्०४।१२।१२ परम् उद्दिश्य-अन्यस्य विन्दतो द्वि।शतो दण्डः । १२ ।
 
-KAZ04.12.13 na ca prākāṃyam akāmāyāṃ labheta | 13 |
+कज़्०४।१२।१३ न च प्राकांयम् अकामायां लभेत । १३ ।
 
-KAZ04.12.14 kanyām anyāṃ darśayitvā-anyāṃ prayacchataḥ śatyo daṇḍas tulyāyām, hīnāyāṃ dvi.guṇaḥ | 14 |
+कज़्०४।१२।१४ कन्याम् अन्यां दर्शयित्वा-अन्यां प्रयच्छतः शत्यो दण्डस् तुल्यायाम्, हीनायां द्वि।गुणः । १४ ।
 
-KAZ04.12.15 prakarmaṇy akumāryāś catuṣ.pañcāśat.paṇo daṇḍaḥ, śulka.vyaya.karmaṇī ca pratidadyāt | 15 |
+कज़्०४।१२।१५ प्रकर्मण्य् अकुमार्याश् चतुष्।पञ्चाशत्।पणो दण्डः, शुल्क।व्यय।कर्मणी च प्रतिदद्यात् । १५ ।
 
-KAZ04.12.16 avasthāya taj.jātaṃ paścāt.kṛtā dvi.guṇaṃ dadyāt | 16 |
+कज़्०४।१२।१६ अवस्थाय तज्।जातं पश्चात्।कृता द्वि।गुणं दद्यात् । १६ ।
 
-KAZ04.12.17 anya.śoṇita.upadhāne dviśato daṇḍaḥ, mithyā.abhiśaṃsinaś ca puṃsaḥ | 17 |
+कज़्०४।१२।१७ अन्य।शोणित।उपधाने द्विशतो दण्डः, मिथ्या।अभिशंसिनश् च पुंसः । १७ ।
 
-KAZ04.12.18 śulka.vyaya.karmaṇī ca jīyeta | 18 |
+कज़्०४।१२।१८ शुल्क।व्यय।कर्मणी च जीयेत । १८ ।
 
-KAZ04.12.19 na ca prākāṃyam akāmāyāṃ labheta | 19 |
+कज़्०४।१२।१९ न च प्राकांयम् अकामायां लभेत । १९ ।
 
-KAZ04.12.20 strī.prakṛtā sakāmā samānā dvādaśa.paṇaṃ daṇḍaṃ dadyāt, prakartrī dvi.guṇam | 20 |
+कज़्०४।१२।२० स्त्री।प्रकृता सकामा समाना द्वादश।पणं दण्डं दद्यात्, प्रकर्त्री द्वि।गुणम् । २० ।
 
-KAZ04.12.21 akāmāyāḥ śatyo daṇḍa ātma.rāga.artham, śulka.dānaṃ ca | 21 |
+कज़्०४।१२।२१ अकामायाः शत्यो दण्ड आत्म।राग।अर्थम्, शुल्क।दानं च । २१ ।
 
-KAZ04.12.22 svayaṃ prakṛtā rāja.dāsyaṃ gacchet | 22 |
+कज़्०४।१२।२२ स्वयं प्रकृता राज।दास्यं गच्छेत् । २२ ।
 
-KAZ04.12.23 bahir.grāmasya prakṛtāyāṃ mithyā.abhiśaṃsane ca dvi.guṇo daṇḍaḥ | 23 |
+कज़्०४।१२।२३ बहिर्।ग्रामस्य प्रकृतायां मिथ्या।अभिशंसने च द्वि।गुणो दण्डः । २३ ।
 
-KAZ04.12.24 prasahya kanyām apaharato dvi.śataḥ, sa-suvarṇām uttamaḥ | 24 |
+कज़्०४।१२।२४ प्रसह्य कन्याम् अपहरतो द्वि।शतः, स-सुवर्णाम् उत्तमः । २४ ।
 
-KAZ04.12.25 bahūnāṃ kanyā.apahāriṇāṃ pṛthag yathā.uktā daṇḍāḥ | 25 |
+कज़्०४।१२।२५ बहूनां कन्या।अपहारिणां पृथग् यथा।उक्ता दण्डाः । २५ ।
 
-KAZ04.12.26 gaṇikā.duhitaraṃ prakurvataś catuṣ.pañcāśat.paṇo daṇḍaḥ, śulkaṃ mātur bhogaḥ ṣoḍaśa.guṇaḥ | 26 |
+कज़्०४।१२।२६ गणिका।दुहितरं प्रकुर्वतश् चतुष्।पञ्चाशत्।पणो दण्डः, शुल्कं मातुर् भोगः षोडश।गुणः । २६ ।
 
-KAZ04.12.27 dāsasya dāsyā vā duhitaram adāsīṃ prakurvataś catur.viṃśati.paṇo daṇḍaḥ śulka.ābandhya.dānaṃ ca | 27 |
+कज़्०४।१२।२७ दासस्य दास्या वा दुहितरम् अदासीं प्रकुर्वतश् चतुर्।विंशति।पणो दण्डः शुल्क।आबन्ध्य।दानं च । २७ ।
 
-KAZ04.12.28 niṣkraya.anurūpāṃ dāsīṃ prakurvato dvādaśa.paṇo daṇḍo vastra.ābandhya.dānaṃ ca | 28 |
+कज़्०४।१२।२८ निष्क्रय।अनुरूपां दासीं प्रकुर्वतो द्वादश।पणो दण्डो वस्त्र।आबन्ध्य।दानं च । २८ ।
 
-KAZ04.12.29 sācivya.avakāśa.dāne kartṛ.samo daṇḍaḥ | 29 |
+कज़्०४।१२।२९ साचिव्य।अवकाश।दाने कर्तृ।समो दण्डः । २९ ।
 
-KAZ04.12.30 proṣita.patikām apacarantīṃ pati.bandhus tat.puruṣo vā saṅgṛhṇīyāt | 30 |
+कज़्०४।१२।३० प्रोषित।पतिकाम् अपचरन्तीं पति।बन्धुस् तत्।पुरुषो वा सङ्गृह्णीयात् । ३० ।
 
-KAZ04.12.31 saṅgṛhītā patim ākāṅkṣeta | 31 |
+कज़्०४।१२।३१ सङ्गृहीता पतिम् आकाङ्क्षेत । ३१ ।
 
-KAZ04.12.32 patiś cet kṣameta visṛjyeta-ubhayam | 32 |
+कज़्०४।१२।३२ पतिश् चेत् क्षमेत विसृज्येत-उभयम् । ३२ ।
 
-KAZ04.12.33 akṣamāyāṃ striyāḥ karṇa.nāsa.ācchedanam, vadhaṃ jāraś ca prāpnuyāt | 33 |
+कज़्०४।१२।३३ अक्षमायां स्त्रियाः कर्ण।नास।आच्छेदनम्, वधं जारश् च प्राप्नुयात् । ३३ ।
 
-KAZ04.12.34 jāraṃ cora ity abhiharataḥ pañca.śato daṇḍaḥ, hiraṇyena muñcatas tad.aṣṭa.guṇaḥ | 34 |
+कज़्०४।१२।३४ जारं चोर इत्य् अभिहरतः पञ्च।शतो दण्डः, हिरण्येन मुञ्चतस् तद्।अष्ट।गुणः । ३४ ।
 
-KAZ04.12.35 keśākeśikaṃ saṅgrahaṇam, upaliṅganād vā śarīra.upabhogānām, taj.jātebhyaḥ (taj.jñātebhyaḥ? cf. N12.60), strī.vacanād vā | 35 |
+कज़्०४।१२।३५ केशाकेशिकं सङ्ग्रहणम्, उपलिङ्गनाद् वा शरीर।उपभोगानाम्, तज्।जातेभ्यः (तज्।ज्ञातेभ्यः? च्ड़्। न्१२।६०), स्त्री।वचनाद् वा । ३५ ।
 
-KAZ04.12.36 para.cakra.aṭavī.hṛtām ogha.pravyūḍhām araṇyeṣu durbhikṣe vā tyaktāṃ preta.bhāva.utsṛṣṭāṃ vā para.striyaṃ nistārayitvā yathā.sambhāṣitaṃ samupabhuñjīta | 36 |
+कज़्०४।१२।३६ पर।चक्र।अटवी।हृताम् ओघ।प्रव्यूढाम् अरण्येषु दुर्भिक्षे वा त्यक्तां प्रेत।भाव।उत्सृष्टां वा पर।स्त्रियं निस्तारयित्वा यथा।सम्भाषितं समुपभुञ्जीत । ३६ ।
 
-KAZ04.12.37 jāti.viśiṣṭām akāmām apatyavatīṃ niṣkrayeṇa dadyāt | 37 |
+कज़्०४।१२।३७ जाति।विशिष्टाम् अकामाम् अपत्यवतीं निष्क्रयेण दद्यात् । ३७ ।
 
-KAZ04.12.38ab cora.hastān nadī.vegād durbhikṣād deśa.vibhramāt |  
-KAZ04.12.38cd nistārayitvā kāntārān naṣṭāṃ tyaktāṃ mṛtā-iti vā || 38 ||  
-
-
-KAZ04.12.39ab bhuñjīta striyam anyeṣāṃ yathā.sambhāṣitaṃ naraḥ |  
-KAZ04.12.39cd na tu rāja.pratāpena pramuktāṃ svajanena vā || 39 ||  
+कज़्०४।१२।३८अब् चोर।हस्तान् नदी।वेगाद् दुर्भिक्षाद् देश।विभ्रमात् ।  
+कज़्०४।१२।३८च्द् निस्तारयित्वा कान्तारान् नष्टां त्यक्तां मृता-इति वा ॥ ३८ ॥  
 
 
-KAZ04.12.40ab na ca-uttamāṃ na ca-akāmāṃ pūrva.apatyavatīṃ na ca |  
-KAZ04.12.40cd īdṛśīṃ tv anurūpeṇa niṣkrayeṇa-apavāhayet || 40 ||  
+कज़्०४।१२।३९अब् भुञ्जीत स्त्रियम् अन्येषां यथा।सम्भाषितं नरः ।  
+कज़्०४।१२।३९च्द् न तु राज।प्रतापेन प्रमुक्तां स्वजनेन वा ॥ ३९ ॥  
+
+
+कज़्०४।१२।४०अब् न च-उत्तमां न च-अकामां पूर्व।अपत्यवतीं न च ।  
+कज़्०४।१२।४०च्द् ईदृशीं त्व् अनुरूपेण निष्क्रयेण-अपवाहयेत् ॥ ४० ॥  
 
 
  छप्तेर् १३ (सेच्तिओन् ८८): पुनिस्ह्मेन्त् ड़ोर् त्रन्स्ग्रेस्सिओन्स्
@@ -6430,122 +6429,122 @@ KAZ04.12.40cd īdṛśīṃ tv anurūpeṇa niṣkrayeṇa-apavāhayet || 40 ||
 
 # बोओक् ५: सेच्रेत् चोन्दुच्त्
  \[क् त्र्। ३३८-३६३\] ,  \[क्२ त्र्। २९२-३१३\] 
- Chapter 1 (Section 89): Infliction of Secret Punishment
- \[K tr. 338\] ,  \[K2 tr. 292\] 
-KAZ05.1.01 durga.rāṣṭrayoḥ kaṇṭaka.śodhanam uktam | 1 |
+ छप्तेर् १ (सेच्तिओन् ८९): इन्ड़्लिच्तिओन् ओड़् सेच्रेत् पुनिस्ह्मेन्त्
+ \[क् त्र्। ३३८\] ,  \[क्२ त्र्। २९२\] 
+कज़्०५।१।०१ दुर्ग।राष्ट्रयोः कण्टक।शोधनम् उक्तम् । १ ।
 
-KAZ05.1.02 rāja.rājyayor vakṣyāmaḥ | 2 |
+कज़्०५।१।०२ राज।राज्ययोर् वक्ष्यामः । २ ।
 
-KAZ05.1.03 rājānam avagṛhya-upajīvinaḥ śatru.sādhāraṇā vā ye mukhyās teṣu gūḍha.puruṣa.praṇidhiḥ kṛtya.pakṣa.upagraho vā siddhiḥ yathā.uktaṃ purastād, upajāpo 'pasarpo vā yathā pāragrāmike vakṣyāmaḥ | 3 |
+कज़्०५।१।०३ राजानम् अवगृह्य-उपजीविनः शत्रु।साधारणा वा ये मुख्यास् तेषु गूढ।पुरुष।प्रणिधिः कृत्य।पक्ष।उपग्रहो वा सिद्धिः यथा।उक्तं पुरस्ताद्, उपजापो ऽपसर्पो वा यथा पारग्रामिके वक्ष्यामः । ३ ।
 
-KAZ05.1.04 rājya.upaghātinas tu vallabhāḥ saṃhatā vā ye mukhyāḥ prakāśam aśakyāḥ pratiṣeddhuṃ dūṣyāḥ teṣu dharma.rucir upāṃśu.daṇḍaṃ prayuñjīta | 4 |
+कज़्०५।१।०४ राज्य।उपघातिनस् तु वल्लभाः संहता वा ये मुख्याः प्रकाशम् अशक्याः प्रतिषेद्धुं दूष्याः तेषु धर्म।रुचिर् उपांशु।दण्डं प्रयुञ्जीत । ४ ।
 
-KAZ05.1.05 dūṣya.mahā.mātra.bhrātaram asat.kṛtaṃ sattrī protsāhya rājānaṃ darśayet | 5 |
+कज़्०५।१।०५ दूष्य।महा।मात्र।भ्रातरम् असत्।कृतं सत्त्री प्रोत्साह्य राजानं दर्शयेत् । ५ ।
 
-KAZ05.1.06 taṃ rājā dūṣya.dravya.upabhoga.atisargeṇa dūṣye vikramayet | 6 |
+कज़्०५।१।०६ तं राजा दूष्य।द्रव्य।उपभोग।अतिसर्गेण दूष्ये विक्रमयेत् । ६ ।
 
-KAZ05.1.07 śastreṇa rasena vā vikrāntaṃ tatra-eva ghātayed "bhrātṛ.ghātako 'yam" iti | 7 |
+कज़्०५।१।०७ शस्त्रेण रसेन वा विक्रान्तं तत्र-एव घातयेद् "भ्रातृ।घातको ऽयम्" इति । ७ ।
 
-KAZ05.1.08 tena pāraśavaḥ paricārikā.putraś ca vyākhyātau | 8 |
+कज़्०५।१।०८ तेन पारशवः परिचारिका।पुत्रश् च व्याख्यातौ । ८ ।
 
-KAZ05.1.09 dūṣyaṃ.mahāmātraṃ vā sattri.protsāhito bhrātā dāyaṃ yāceta | 9 |
+कज़्०५।१।०९ दूष्यं।महामात्रं वा सत्त्रि।प्रोत्साहितो भ्राता दायं याचेत । ९ ।
 
-KAZ05.1.10 taṃ dūṣya.gṛha.pratidvāri rātrāv upaśayānam anyatra vā vasantaṃ tīkṣṇo hantā brūyād "hato 'yaṃ dāya.kāmukaḥ" iti | 10 |
+कज़्०५।१।१० तं दूष्य।गृह।प्रतिद्वारि रात्राव् उपशयानम् अन्यत्र वा वसन्तं तीक्ष्णो हन्ता ब्रूयाद् "हतो ऽयं दाय।कामुकः" इति । १० ।
 
-KAZ05.1.11 tato hata.pakṣam upagṛhya-itaraṃ nigṛhṇīyāt | 11 |
+कज़्०५।१।११ ततो हत।पक्षम् उपगृह्य-इतरं निगृह्णीयात् । ११ ।
 
-KAZ05.1.12 dūṣya.samīpasthā vā sattriṇo bhrātaraṃ dāyaṃ yācamānaṃ ghātena paribhartsayeyuḥ | 12 |
+कज़्०५।१।१२ दूष्य।समीपस्था वा सत्त्रिणो भ्रातरं दायं याचमानं घातेन परिभर्त्सयेयुः । १२ ।
 
-KAZ05.1.13 taṃ rātrau iti samānam | 13 |
+कज़्०५।१।१३ तं रात्रौ इति समानम् । १३ ।
 
-KAZ05.1.14 dūṣya.mahā.mātrayor vā yaḥ putraḥ pituḥ pitā vā putrasya dārān adhicarati, bhrātā vā bhrātuḥ, tayoḥ kāpaṭika.mukhaḥ kalahaḥ pūrveṇa vyākhyātaḥ | 14 |
+कज़्०५।१।१४ दूष्य।महा।मात्रयोर् वा यः पुत्रः पितुः पिता वा पुत्रस्य दारान् अधिचरति, भ्राता वा भ्रातुः, तयोः कापटिक।मुखः कलहः पूर्वेण व्याख्यातः । १४ ।
 
-KAZ05.1.15 dūṣya.mahā.mātra.putram ātma.sambhāvitaṃ vā sattrī "rāja.putras tvam, śatru.bhayād iha nyasto 'si" ity upajapet | 15 |
+कज़्०५।१।१५ दूष्य।महा।मात्र।पुत्रम् आत्म।सम्भावितं वा सत्त्री "राज।पुत्रस् त्वम्, शत्रु।भयाद् इह न्यस्तो ऽसि" इत्य् उपजपेत् । १५ ।
 
-KAZ05.1.16 pratipannaṃ rājā rahasi pūjayet "prāpta.yauvarājya.kālaṃ tvāṃ mahā.mātra.bhayān na-abhiṣiñcāmi" iti | 16 |
+कज़्०५।१।१६ प्रतिपन्नं राजा रहसि पूजयेत् "प्राप्त।यौवराज्य।कालं त्वां महा।मात्र।भयान् न-अभिषिञ्चामि" इति । १६ ।
 
-KAZ05.1.17 taṃ sattrī mahā.mātra.vadhe yojayet | 17 |
+कज़्०५।१।१७ तं सत्त्री महा।मात्र।वधे योजयेत् । १७ ।
 
-KAZ05.1.18 vikrāntaṃ tatra-eva ghātayet "pitṛ.ghātako 'yam" iti | 18 |
+कज़्०५।१।१८ विक्रान्तं तत्र-एव घातयेत् "पितृ।घातको ऽयम्" इति । १८ ।
 
-KAZ05.1.19 bhikṣukī vā dūṣya.bhāryāṃ sāṃvadanikībhir auṣadhībhiḥ saṃvāsya rasena-atisandadhyāt | 19 |
+कज़्०५।१।१९ भिक्षुकी वा दूष्य।भार्यां सांवदनिकीभिर् औषधीभिः संवास्य रसेन-अतिसन्दध्यात् । १९ ।
 
-KAZ05.1.20 ity āpya.prayogaḥ | 20 |
+कज़्०५।१।२० इत्य् आप्य।प्रयोगः । २० ।
 
-KAZ05.1.21 dūṣya.mahā.mātram aṭavīṃ para.grāmaṃ vā hantuṃ kāntāra.vyavahite vā deśe rāṣṭra.pālam anta.pālaṃ vā sthāpayituṃ nāgara.sthānaṃ vā kupitam avagrāhituṃ sārtha.ativāhyaṃ pratyante vā sa-pratyādeyam ādātuṃ phalgu.balaṃ tīkṣṇa.yuktaṃ preṣayet | 21 |
+कज़्०५।१।२१ दूष्य।महा।मात्रम् अटवीं पर।ग्रामं वा हन्तुं कान्तार।व्यवहिते वा देशे राष्ट्र।पालम् अन्त।पालं वा स्थापयितुं नागर।स्थानं वा कुपितम् अवग्राहितुं सार्थ।अतिवाह्यं प्रत्यन्ते वा स-प्रत्यादेयम् आदातुं फल्गु।बलं तीक्ष्ण।युक्तं प्रेषयेत् । २१ ।
 
-KAZ05.1.22 rātrau divā vā yuddhe pravṛtte tīkṣṇāḥ pratirodhaka.vyañjanā vā hanyuḥ "abhiyoge hataḥ" iti | 22 |
+कज़्०५।१।२२ रात्रौ दिवा वा युद्धे प्रवृत्ते तीक्ष्णाः प्रतिरोधक।व्यञ्जना वा हन्युः "अभियोगे हतः" इति । २२ ।
 
-KAZ05.1.23 yātrā.vihāra.gato vā dūṣya.mahā.mātrān darśanāya-āhvayet | 23 |
+कज़्०५।१।२३ यात्रा।विहार।गतो वा दूष्य।महा।मात्रान् दर्शनाय-आह्वयेत् । २३ ।
 
-KAZ05.1.24 te gūḍha.śastrais tīkṣṇaiḥ saha praviṣṭā madhyama.kakṣyāyām ātma.vicayam antaḥ.praveśana.arthaṃ dadyuḥ | 24 |
+कज़्०५।१।२४ ते गूढ।शस्त्रैस् तीक्ष्णैः सह प्रविष्टा मध्यम।कक्ष्यायाम् आत्म।विचयम् अन्तः।प्रवेशन।अर्थं दद्युः । २४ ।
 
-KAZ05.1.25 tato dauvārika.abhigṛhītās tīkṣṇāḥ "dūṣya.prayuktāḥ sma" iti brūyuḥ | 25 |
+कज़्०५।१।२५ ततो दौवारिक।अभिगृहीतास् तीक्ष्णाः "दूष्य।प्रयुक्ताः स्म" इति ब्रूयुः । २५ ।
 
-KAZ05.1.26 te tad.abhivikhyāpya dūṣyān hanyuḥ | 26 |
+कज़्०५।१।२६ ते तद्।अभिविख्याप्य दूष्यान् हन्युः । २६ ।
 
-KAZ05.1.27 tīkṣṇa.sthāne ca-anye vadhyāḥ | 27 |
+कज़्०५।१।२७ तीक्ष्ण।स्थाने च-अन्ये वध्याः । २७ ।
 
-KAZ05.1.28 bahir.vihāra.gato vā dūṣyān āsanna.āvāsān pūjayet | 28 |
+कज़्०५।१।२८ बहिर्।विहार।गतो वा दूष्यान् आसन्न।आवासान् पूजयेत् । २८ ।
 
-KAZ05.1.29 teṣāṃ devī.vyañjanā vā duḥstrī rātrāv āvāseṣu gṛhyeta-iti samānaṃ pūrveṇa | 29 |
+कज़्०५।१।२९ तेषां देवी।व्यञ्जना वा दुःस्त्री रात्राव् आवासेषु गृह्येत-इति समानं पूर्वेण । २९ ।
 
-KAZ05.1.30 dūṣya.mahā.mātraṃ vā "sūdo bhakṣa.kāro vā te śobhanaḥ" iti stavena bhakṣya.bhojyaṃ yāceta, bahir vā kvacid adhva.gataḥ pānīyam | 30 |
+कज़्०५।१।३० दूष्य।महा।मात्रं वा "सूदो भक्ष।कारो वा ते शोभनः" इति स्तवेन भक्ष्य।भोज्यं याचेत, बहिर् वा क्वचिद् अध्व।गतः पानीयम् । ३० ।
 
-KAZ05.1.31 tad.ubhayaṃ rasena yojayitvā pratisvādane tāv eva-upayojayet | 31 |
+कज़्०५।१।३१ तद्।उभयं रसेन योजयित्वा प्रतिस्वादने ताव् एव-उपयोजयेत् । ३१ ।
 
-KAZ05.1.32 tad.abhivikhyāpya "rasadau" iti ghātayet | 32 |
+कज़्०५।१।३२ तद्।अभिविख्याप्य "रसदौ" इति घातयेत् । ३२ ।
 
-KAZ05.1.33 abhicāra.śīlaṃ vā siddha.vyañjano "godhā.kūrma.karkaṭaka.kūṭānāṃ lakṣaṇyānām anyatama.prāśanena manorathān avāpsyasi" iti grāhayet | 33 |
+कज़्०५।१।३३ अभिचार।शीलं वा सिद्ध।व्यञ्जनो "गोधा।कूर्म।कर्कटक।कूटानां लक्षण्यानाम् अन्यतम।प्राशनेन मनोरथान् अवाप्स्यसि" इति ग्राहयेत् । ३३ ।
 
-KAZ05.1.34 pratipannaṃ karmaṇi rasena loha.musalair vā ghātayet "karma.vyāpadā hataḥ" iti | 34 |
+कज़्०५।१।३४ प्रतिपन्नं कर्मणि रसेन लोह।मुसलैर् वा घातयेत् "कर्म।व्यापदा हतः" इति । ३४ ।
 
-KAZ05.1.35 cikitsaka.vyañjano vā daurātmikam asādhyaṃ vā vyādhiṃ dūṣyasya sthāpayitvā bhaiṣajya.āhāra.yogeṣu rasena-atisandadhyāt | 35 |
+कज़्०५।१।३५ चिकित्सक।व्यञ्जनो वा दौरात्मिकम् असाध्यं वा व्याधिं दूष्यस्य स्थापयित्वा भैषज्य।आहार।योगेषु रसेन-अतिसन्दध्यात् । ३५ ।
 
-KAZ05.1.36 sūda.ārālika.vyañjanā vā praṇihitā dūṣyaṃ rasena-atisandadhyuḥ | 36 |
+कज़्०५।१।३६ सूद।आरालिक।व्यञ्जना वा प्रणिहिता दूष्यं रसेन-अतिसन्दध्युः । ३६ ।
 
-KAZ05.1.37 ity upaniṣat.pratiṣedhaḥ | 37 |
+कज़्०५।१।३७ इत्य् उपनिषत्।प्रतिषेधः । ३७ ।
 
-KAZ05.1.38 ubhaya.dūṣya.pratiṣedhas tu | 38 |
+कज़्०५।१।३८ उभय।दूष्य।प्रतिषेधस् तु । ३८ ।
 
-KAZ05.1.39 yatra dūṣyaḥ pratiṣeddhavyas tatra dūṣyam eva phalgu.bala.tīkṣṇa.yuktaṃ preṣayet, gaccha, amuṣmin durge rāṣṭre vā sainyam utthāpaya hiraṇyaṃ vā, vallabhād vā hiraṇyam āhāraya, vallabha.kanyāṃ vā prasahya-ānaya, durga.setu.vaṇik.patha.śūnya.niveśa.khani.dravya.hasti.vana.karmaṇām anyatamad vā kāraya rāṣṭra.pālyam anta.pālyaṃ vā-yaś ca tvā pratiṣedhayen na vā te sāhāyyaṃ dadyāt sa bandhavyaḥ syāt" iti | 39 |
+कज़्०५।१।३९ यत्र दूष्यः प्रतिषेद्धव्यस् तत्र दूष्यम् एव फल्गु।बल।तीक्ष्ण।युक्तं प्रेषयेत्, गच्छ, अमुष्मिन् दुर्गे राष्ट्रे वा सैन्यम् उत्थापय हिरण्यं वा, वल्लभाद् वा हिरण्यम् आहारय, वल्लभ।कन्यां वा प्रसह्य-आनय, दुर्ग।सेतु।वणिक्।पथ।शून्य।निवेश।खनि।द्रव्य।हस्ति।वन।कर्मणाम् अन्यतमद् वा कारय राष्ट्र।पाल्यम् अन्त।पाल्यं वा-यश् च त्वा प्रतिषेधयेन् न वा ते साहाय्यं दद्यात् स बन्धव्यः स्यात्" इति । ३९ ।
 
-KAZ05.1.40 tathaiva-itareṣāṃ preṣayed "amuṣya-avinayaḥ pratiṣeddhavyaḥ" iti | 40 |
+कज़्०५।१।४० तथैव-इतरेषां प्रेषयेद् "अमुष्य-अविनयः प्रतिषेद्धव्यः" इति । ४० ।
 
-KAZ05.1.41 tam eteṣu kalaha.sthāneṣu karma.pratighāteṣu vā vivadamānaṃ tīkṣṇāḥ śastraṃ pātayitvā pracchannaṃ hanyuḥ | 41 |
+कज़्०५।१।४१ तम् एतेषु कलह।स्थानेषु कर्म।प्रतिघातेषु वा विवदमानं तीक्ष्णाः शस्त्रं पातयित्वा प्रच्छन्नं हन्युः । ४१ ।
 
-KAZ05.1.42 tena doṣeṇa-itare niyantavyāḥ | 42 |
+कज़्०५।१।४२ तेन दोषेण-इतरे नियन्तव्याः । ४२ ।
 
-KAZ05.1.43 purāṇāṃ grāmāṇāṃ kulānāṃ vā dūṣyāṇāṃ sīmā.kṣetra.khala.veśma.maryādāsu dravya.upakaraṇa.sasya.vāhana.hiṃsāsu prekṣā.kṛtya-utsaveṣu vā samutpanne kalahe tīkṣṇair utpādite vā tīkṣṇāḥ śastraṃ pātayitvā brūyuḥ "evaṃ kriyante ye 'munā kalahāyante: iti | 43 |
+कज़्०५।१।४३ पुराणां ग्रामाणां कुलानां वा दूष्याणां सीमा।क्षेत्र।खल।वेश्म।मर्यादासु द्रव्य।उपकरण।सस्य।वाहन।हिंसासु प्रेक्षा।कृत्य-उत्सवेषु वा समुत्पन्ने कलहे तीक्ष्णैर् उत्पादिते वा तीक्ष्णाः शस्त्रं पातयित्वा ब्रूयुः "एवं क्रियन्ते ये ऽमुना कलहायन्ते: इति । ४३ ।
 
-KAZ05.1.44 tena doṣeṇa-itare niyantavyāḥ | 44 |
+कज़्०५।१।४४ तेन दोषेण-इतरे नियन्तव्याः । ४४ ।
 
-KAZ05.1.45 yeṣāṃ vā dūṣyāṇāṃ jāta.mūlāḥ kalahās teṣāṃ kṣetra.khala.veśmāny ādīpayitvā bandhu.sambandhiṣu vāhaneṣu vā tīkṣṇāḥ śastraṃ pātayitvā tathaiva brūyuḥ "amunā prayuktāḥ smaḥ" iti | 45 |
+कज़्०५।१।४५ येषां वा दूष्याणां जात।मूलाः कलहास् तेषां क्षेत्र।खल।वेश्मान्य् आदीपयित्वा बन्धु।सम्बन्धिषु वाहनेषु वा तीक्ष्णाः शस्त्रं पातयित्वा तथैव ब्रूयुः "अमुना प्रयुक्ताः स्मः" इति । ४५ ।
 
-KAZ04.4.46 tena doṣeṇa-itare niyantavyāḥ | 46 |
+कज़्०४।४।४६ तेन दोषेण-इतरे नियन्तव्याः । ४६ ।
 
-KAZ05.1.47 durga.rāṣṭra.dūṣyān vā sattriṇaḥ parasparasya-āveśanikān kārayeyuḥ | 47 |
+कज़्०५।१।४७ दुर्ग।राष्ट्र।दूष्यान् वा सत्त्रिणः परस्परस्य-आवेशनिकान् कारयेयुः । ४७ ।
 
-KAZ05.1.48 tatra rasadā rasaṃ dadyuḥ | 48 |
+कज़्०५।१।४८ तत्र रसदा रसं दद्युः । ४८ ।
 
-KAZ05.1.49 tena doṣeṇa-itare niyantavyāḥ | 49 |
+कज़्०५।१।४९ तेन दोषेण-इतरे नियन्तव्याः । ४९ ।
 
-KAZ05.1.50 bhikṣukī vā dūṣya.rāṣṭra.mukhyaṃ "dūṣya.rāṣṭra.mukhyasya bhāryā snuṣā duhitā vā kāmayate" ity upajapet | 50 |
+कज़्०५।१।५० भिक्षुकी वा दूष्य।राष्ट्र।मुख्यं "दूष्य।राष्ट्र।मुख्यस्य भार्या स्नुषा दुहिता वा कामयते" इत्य् उपजपेत् । ५० ।
 
-KAZ05.1.51 pratipannasya-ābharaṇam ādāya svāmine darśayet "asau te mukhyo yauvana.utsikto bhāryāṃ snuṣāṃ duhitaraṃ vā-abhimanyate" iti | 51 |
+कज़्०५।१।५१ प्रतिपन्नस्य-आभरणम् आदाय स्वामिने दर्शयेत् "असौ ते मुख्यो यौवन।उत्सिक्तो भार्यां स्नुषां दुहितरं वा-अभिमन्यते" इति । ५१ ।
 
-KAZ05.1.52 tayoḥ kalaho rātrau iti samānam | 52 |
+कज़्०५।१।५२ तयोः कलहो रात्रौ इति समानम् । ५२ ।
 
-KAZ05.1.53 dūṣya.daṇḍa.upanateṣu tu - yuva.rājaḥ senā.patir vā kiñcid apakṛtya-apakrānto vikrameta | 53 |
+कज़्०५।१।५३ दूष्य।दण्ड।उपनतेषु तु - युव।राजः सेना।पतिर् वा किञ्चिद् अपकृत्य-अपक्रान्तो विक्रमेत । ५३ ।
 
-KAZ05.1.54 tato rājā dūṣya.daṇḍa.upanatān eva preṣayet phalgu.bala.tīkṣṇa.yuktān iti samānāḥ sarva eva yogāḥ | 54 |
+कज़्०५।१।५४ ततो राजा दूष्य।दण्ड।उपनतान् एव प्रेषयेत् फल्गु।बल।तीक्ष्ण।युक्तान् इति समानाः सर्व एव योगाः । ५४ ।
 
-KAZ05.1.55 teṣāṃ ca putreṣv anukṣiyatsu yo nirvikāraḥ sa pitṛ.dāyaṃ labheta | 55 |
+कज़्०५।१।५५ तेषां च पुत्रेष्व् अनुक्षियत्सु यो निर्विकारः स पितृ।दायं लभेत । ५५ ।
 
-KAZ05.1.56 evam asya putra.pautrān anuvartate rājyam apāsta.puruṣa.doṣam | 56 |
+कज़्०५।१।५६ एवम् अस्य पुत्र।पौत्रान् अनुवर्तते राज्यम् अपास्त।पुरुष।दोषम् । ५६ ।
 
-KAZ05.1.57ab sva.pakṣe para.pakṣe vā tūṣṇīṃ daṇḍaṃ prayojayet |  
-KAZ05.1.57cd āyatyāṃ ca tadātve ca kṣamāvān aviśaṅkitaḥ || 57 ||  
+कज़्०५।१।५७अब् स्व।पक्षे पर।पक्षे वा तूष्णीं दण्डं प्रयोजयेत् ।  
+कज़्०५।१।५७च्द् आयत्यां च तदात्वे च क्षमावान् अविशङ्कितः ॥ ५७ ॥  
 
 
  छप्तेर् २ (सेच्तिओन् ९०): रेप्लेनिस्ह्मेन्त् ओड़् थे त्रेअसुर्य्
@@ -6692,102 +6691,102 @@ KAZ05.1.57cd āyatyāṃ ca tadātve ca kṣamāvān aviśaṅkitaḥ || 57 ||
 कज़्०५।२।७०च्द् आत्मच्।छेद।भयाद् आमं वर्जयेत् कोप।कारकम् ॥ ७० ॥  
 
 
- Chapter 3 (Section 91): The Salaries of State Servants
- \[K tr. 350\] ,  \[K2 tr. 302\] 
-KAZ05.3.01 durga.jana.pada.śaktyā bhṛtya.karma samudaya.pādena sthāpayet, kārya.sādhana.sahena vā bhṛtya.lābhena | 1 |
+ छप्तेर् ३ (सेच्तिओन् ९१): थे सलरिएस् ओड़् स्तते सेर्वन्त्स्
+ \[क् त्र्। ३५०\] ,  \[क्२ त्र्। ३०२\] 
+कज़्०५।३।०१ दुर्ग।जन।पद।शक्त्या भृत्य।कर्म समुदय।पादेन स्थापयेत्, कार्य।साधन।सहेन वा भृत्य।लाभेन । १ ।
 
-KAZ05.3.02 śarīram avekṣeta, na dharma.arthau pīḍayet | 2 |
+कज़्०५।३।०२ शरीरम् अवेक्षेत, न धर्म।अर्थौ पीडयेत् । २ ।
 
-KAZ05.3.03 ṛtvig.ācārya.mantri.purohita.senā.pati.yuva.rāja.rāja.mātṛ.rāja.- mahiṣyo 'ṣṭa.catvāriṃśat.sāhasrāḥ | 3 |
+कज़्०५।३।०३ ऋत्विग्।आचार्य।मन्त्रि।पुरोहित।सेना।पति।युव।राज।राज।मातृ।राज।- महिष्यो ऽष्ट।चत्वारिंशत्।साहस्राः । ३ ।
 
-KAZ05.3.04 etāvatā bharaṇena-anāspadyatvam akopakaṃ ca-eṣāṃ bhavati | 4 |
+कज़्०५।३।०४ एतावता भरणेन-अनास्पद्यत्वम् अकोपकं च-एषां भवति । ४ ।
 
-KAZ05.3.05 dauvārika.antar.vaṃśika.praśāstṛ.samāhartṛ.sannidhātāraś catur.viṃśati.sāhasrāḥ | 5 |
+कज़्०५।३।०५ दौवारिक।अन्तर्।वंशिक।प्रशास्तृ।समाहर्तृ।सन्निधातारश् चतुर्।विंशति।साहस्राः । ५ ।
 
-KAZ05.3.06 etāvatā karmaṇyā bhavanti | 6 |
+कज़्०५।३।०६ एतावता कर्मण्या भवन्ति । ६ ।
 
-KAZ05.3.07 kumāra.kumāra.mātṛ.nāyaka.paura.vyāvahārika.kārmāntika.mantri.- pariṣad.rāṣṭra.anta.pālāś ca dvādaśa.sāhasrāḥ | 7 |
+कज़्०५।३।०७ कुमार।कुमार।मातृ।नायक।पौर।व्यावहारिक।कार्मान्तिक।मन्त्रि।- परिषद्।राष्ट्र।अन्त।पालाश् च द्वादश।साहस्राः । ७ ।
 
-KAZ05.3.08 svāmi.paribandha.bala.sahāyā hy etāvatā bhavanti | 8 |
+कज़्०५।३।०८ स्वामि।परिबन्ध।बल।सहाया ह्य् एतावता भवन्ति । ८ ।
 
-KAZ05.3.09 śreṇī.mukhyā hasty.aśva.ratha.mukhyāḥ pradeṣṭāraś ca-aṣṭa.sāhasrāḥ | 9 |
+कज़्०५।३।०९ श्रेणी।मुख्या हस्त्य्।अश्व।रथ।मुख्याः प्रदेष्टारश् च-अष्ट।साहस्राः । ९ ।
 
-KAZ05.3.10 sva.varga.anukarṣiṇo hy etāvatā bhavanti | 10 |
+कज़्०५।३।१० स्व।वर्ग।अनुकर्षिणो ह्य् एतावता भवन्ति । १० ।
 
-KAZ05.3.11 patty.aśva.ratha.hasty.adhyakṣā dravya.hasti.vana.pālāś ca catuḥ.sāhasrāḥ | 11 |
+कज़्०५।३।११ पत्त्य्।अश्व।रथ।हस्त्य्।अध्यक्षा द्रव्य।हस्ति।वन।पालाश् च चतुः।साहस्राः । ११ ।
 
-KAZ05.3.12 rathika.anīkastha.cikitsaka.aśva.damaka.vardhakayo yoni.poṣakāś ca dvi.sāhasrāḥ | 12 |
+कज़्०५।३।१२ रथिक।अनीकस्थ।चिकित्सक।अश्व।दमक।वर्धकयो योनि।पोषकाश् च द्वि।साहस्राः । १२ ।
 
-KAZ05.3.13 kārtāntika.naimittika.mauhūrtika.paurāṇika.sūta.māgadhāḥ purohita.puruṣāḥ sarva.adhyakṣāś ca sāhasrāḥ | 13 |
+कज़्०५।३।१३ कार्तान्तिक।नैमित्तिक।मौहूर्तिक।पौराणिक।सूत।मागधाः पुरोहित।पुरुषाः सर्व।अध्यक्षाश् च साहस्राः । १३ ।
 
-KAZ05.3.14 śilpavantaḥ pādātāḥ saṅkhyāyaka.lekhaka.ādi.vargaś ca pañca.śatāḥ | 14 |
+कज़्०५।३।१४ शिल्पवन्तः पादाताः सङ्ख्यायक।लेखक।आदि।वर्गश् च पञ्च।शताः । १४ ।
 
-KAZ05.3.15 kuśīlavās tv ardha.tṛtīya.śatāḥ, dvi.guṇa.vetanāś ca-eṣāṃ tūrya.karāḥ | 15 |
+कज़्०५।३।१५ कुशीलवास् त्व् अर्ध।तृतीय।शताः, द्वि।गुण।वेतनाश् च-एषां तूर्य।कराः । १५ ।
 
-KAZ05.3.16 kāru.śilpino viṃśati.śatikāḥ | 16 |
+कज़्०५।३।१६ कारु।शिल्पिनो विंशति।शतिकाः । १६ ।
 
-KAZ05.3.17 catuṣpada.dvipada.paricāraka.pārikarmika.aupasthāyika.pālaka.- viṣṭi.bandhakāḥ ṣaṣṭi.vetanāḥ, ārya.yukta.ārohaka.māṇavaka.śaila.khanakāḥ sarva.upasthāyinaś ca | 17 |
+कज़्०५।३।१७ चतुष्पद।द्विपद।परिचारक।पारिकर्मिक।औपस्थायिक।पालक।- विष्टि।बन्धकाः षष्टि।वेतनाः, आर्य।युक्त।आरोहक।माणवक।शैल।खनकाः सर्व।उपस्थायिनश् च । १७ ।
 
-KAZ05.3.18 ācāryā vidyāvantaś ca pūjā.vetanāni yathā.arhaṃ labheran pañca.śata.avaraṃ sahasra.param | 18 |
+कज़्०५।३।१८ आचार्या विद्यावन्तश् च पूजा।वेतनानि यथा।अर्हं लभेरन् पञ्च।शत।अवरं सहस्र।परम् । १८ ।
 
-KAZ05.3.19 daśa.paṇiko yojane dūto madhyamaḥ, daśa.uttare dvi.guṇa.vetana ā.yojana.śatād iti | 19 |
+कज़्०५।३।१९ दश।पणिको योजने दूतो मध्यमः, दश।उत्तरे द्वि।गुण।वेतन आ।योजन।शताद् इति । १९ ।
 
-KAZ05.3.20 samāna.vidyebhyas tri.guṇa.vetano rājā rāja.sūya.ādiṣu kratuṣu | 20 |
+कज़्०५।३।२० समान।विद्येभ्यस् त्रि।गुण।वेतनो राजा राज।सूय।आदिषु क्रतुषु । २० ।
 
-KAZ05.3.21 rājñaḥ sārathiḥ sāhasraḥ | 21 |
+कज़्०५।३।२१ राज्ञः सारथिः साहस्रः । २१ ।
 
-KAZ05.3.22 kāpaṭika.udāsthita.gṛha.patika.vaidehaka.tāpasa.vyañjanāḥ sāhasrāḥ | 22 |
+कज़्०५।३।२२ कापटिक।उदास्थित।गृह।पतिक।वैदेहक।तापस।व्यञ्जनाः साहस्राः । २२ ।
 
-KAZ05.3.23 grāma.bhṛtaka.sattri.tīkṣṇa.rasada.bhikṣukyaḥ pañca.śatāḥ | 23 |
+कज़्०५।३।२३ ग्राम।भृतक।सत्त्रि।तीक्ष्ण।रसद।भिक्षुक्यः पञ्च।शताः । २३ ।
 
-KAZ05.3.24 cāra.sañcāriṇo 'rdha.tṛtīya.śatāḥ, prayāsa.vṛddha.vetanā vā | 24 |
+कज़्०५।३।२४ चार।सञ्चारिणो ऽर्ध।तृतीय।शताः, प्रयास।वृद्ध।वेतना वा । २४ ।
 
-KAZ05.3.25 śata.varga.sahasra.vargāṇām adhyakṣā bhakta.vetana.lābham ādeśaṃ vikṣepaṃ ca kuryuḥ | 25 |
+कज़्०५।३।२५ शत।वर्ग।सहस्र।वर्गाणाम् अध्यक्षा भक्त।वेतन।लाभम् आदेशं विक्षेपं च कुर्युः । २५ ।
 
-KAZ05.3.26 avikṣepo rāja.parigraha.durga.rāṣṭra.rakṣa.avekṣaṇeṣu ca | 26 |
+कज़्०५।३।२६ अविक्षेपो राज।परिग्रह।दुर्ग।राष्ट्र।रक्ष।अवेक्षणेषु च । २६ ।
 
-KAZ05.3.27 nitya.mukhyāḥ syur aneka.mukhyāś ca | 27 |
+कज़्०५।३।२७ नित्य।मुख्याः स्युर् अनेक।मुख्याश् च । २७ ।
 
-KAZ05.3.28 karmasu mṛtānāṃ putra.dārā bhakta.vetanaṃ labheran | 28 |
+कज़्०५।३।२८ कर्मसु मृतानां पुत्र।दारा भक्त।वेतनं लभेरन् । २८ ।
 
-KAZ05.3.29 bāla.vṛddha.vyādhitāś ca-eṣām anugrāhyāḥ | 29 |
+कज़्०५।३।२९ बाल।वृद्ध।व्याधिताश् च-एषाम् अनुग्राह्याः । २९ ।
 
-KAZ05.3.30 preta.vyādhita.sūtikā.kṛtyeṣu ca-eṣām artha.māna.karma kuryāt | 30 |
+कज़्०५।३।३० प्रेत।व्याधित।सूतिका।कृत्येषु च-एषाम् अर्थ।मान।कर्म कुर्यात् । ३० ।
 
-KAZ05.3.31 alpa.kośaḥ kupya.paśu.kṣetrāṇi dadyāt, alpaṃ ca hiraṇyam | 31 |
+कज़्०५।३।३१ अल्प।कोशः कुप्य।पशु।क्षेत्राणि दद्यात्, अल्पं च हिरण्यम् । ३१ ।
 
-KAZ05.3.32 śūnyaṃ vā niveśayitum abhyutthito hiraṇyam eva dadyāt, na grāmaṃ grāma.sañjāta.vyavahāra.sthāpana.artham | 32 |
+कज़्०५।३।३२ शून्यं वा निवेशयितुम् अभ्युत्थितो हिरण्यम् एव दद्यात्, न ग्रामं ग्राम।सञ्जात।व्यवहार।स्थापन।अर्थम् । ३२ ।
 
-KAZ05.3.33 etena bhṛtānām abhṛtānāṃ ca vidyā.karmabhyāṃ bhakta.vetana.viśeṣaṃ ca kuryāt | 33 |
+कज़्०५।३।३३ एतेन भृतानाम् अभृतानां च विद्या।कर्मभ्यां भक्त।वेतन।विशेषं च कुर्यात् । ३३ ।
 
-KAZ05.3.34 ṣaṣṭi.vetanasya-āḍhakaṃ kṛtvā hiraṇya.anurūpaṃ bhaktaṃ kuryāt | 34 |
+कज़्०५।३।३४ षष्टि।वेतनस्य-आढकं कृत्वा हिरण्य।अनुरूपं भक्तं कुर्यात् । ३४ ।
 
-KAZ05.3.35 patty.aśva.ratha.dvipāḥ sūrya.udaye bahiḥ sandhi.divasa.varjaṃ śilpa.yogyāḥ kuryuḥ | 35 |
+कज़्०५।३।३५ पत्त्य्।अश्व।रथ।द्विपाः सूर्य।उदये बहिः सन्धि।दिवस।वर्जं शिल्प।योग्याः कुर्युः । ३५ ।
 
-KAZ05.3.36 teṣu rājā nitya.yuktaḥ syāt, abhīkṣṇaṃ ca-eṣāṃ śilpa.darśanaṃ kuryāt | 36 |
+कज़्०५।३।३६ तेषु राजा नित्य।युक्तः स्यात्, अभीक्ष्णं च-एषां शिल्प।दर्शनं कुर्यात् । ३६ ।
 
-KAZ05.3.37 kṛta.nara.indra.aṅkaṃ śastra.āvaraṇam āyudha.agāraṃ praveśayet | 37 |
+कज़्०५।३।३७ कृत।नर।इन्द्र।अङ्कं शस्त्र।आवरणम् आयुध।अगारं प्रवेशयेत् । ३७ ।
 
-KAZ05.3.38 aśastrāś careyuḥ, anyatra mudrā.anujñātāt | 38 |
+कज़्०५।३।३८ अशस्त्राश् चरेयुः, अन्यत्र मुद्रा।अनुज्ञातात् । ३८ ।
 
-KAZ05.3.39 naṣṭaṃ.vinaṣṭaṃ vā dvi.guṇaṃ dadyāt | 39 |
+कज़्०५।३।३९ नष्टं।विनष्टं वा द्वि।गुणं दद्यात् । ३९ ।
 
-KAZ05.3.40 vidhvasta.gaṇanāṃ ca kuryāt | 40 |
+कज़्०५।३।४० विध्वस्त।गणनां च कुर्यात् । ४० ।
 
-KAZ05.3.41 sārthikānāṃ śastra.āvaraṇam anta.pālā gṛhṇīyuḥ, samudram avacārayeyur vā | 41 |
+कज़्०५।३।४१ सार्थिकानां शस्त्र।आवरणम् अन्त।पाला गृह्णीयुः, समुद्रम् अवचारयेयुर् वा । ४१ ।
 
-KAZ05.3.42 yātrām abhyutthito vā senām udyojayet | 42 |
+कज़्०५।३।४२ यात्राम् अभ्युत्थितो वा सेनाम् उद्योजयेत् । ४२ ।
 
-KAZ05.3.43 tato vaidehaka.vyañjanāḥ sarva.paṇyāny āyudhīyebhyo yātrā.kāle dvi.guṇa.pratyādeyāni dadyuḥ | 43 |
+कज़्०५।३।४३ ततो वैदेहक।व्यञ्जनाः सर्व।पण्यान्य् आयुधीयेभ्यो यात्रा।काले द्वि।गुण।प्रत्यादेयानि दद्युः । ४३ ।
 
-KAZ05.3.44 evaṃ rāja.paṇya.yoga.vikrayo vetana.pratyādānaṃ ca bhavati | 44 |
+कज़्०५।३।४४ एवं राज।पण्य।योग।विक्रयो वेतन।प्रत्यादानं च भवति । ४४ ।
 
-KAZ05.3.45 evam avekṣita.āya.vyayaḥ kośa.daṇḍa.vyasanaṃ na-avāpnoti | 45 |
+कज़्०५।३।४५ एवम् अवेक्षित।आय।व्ययः कोश।दण्ड।व्यसनं न-अवाप्नोति । ४५ ।
 
-KAZ05.3.46 iti bhakta.vetana.vikalpaḥ | 46 |
+कज़्०५।३।४६ इति भक्त।वेतन।विकल्पः । ४६ ।
 
-KAZ05.3.47ab sattriṇaś ca-āyudhīyānāṃ veśyāḥ kāru.kuśīlavāḥ |  
-KAZ05.3.47cd daṇḍa.vṛddhāś ca jānīyuḥ śauca.aśaucam atandritāḥ || 47 ||  
+कज़्०५।३।४७अब् सत्त्रिणश् च-आयुधीयानां वेश्याः कारु।कुशीलवाः ।  
+कज़्०५।३।४७च्द् दण्ड।वृद्धाश् च जानीयुः शौच।अशौचम् अतन्द्रिताः ॥ ४७ ॥  
 
 
  छप्तेर् ४ (सेच्तिओन् ९२): चोन्दुच्त् प्रोपेर् ड़ोर् अ देपेन्दन्त्
@@ -6840,38 +6839,38 @@ KAZ05.3.47cd daṇḍa.vṛddhāś ca jānīyuḥ śauca.aśaucam atandritāḥ 
 कज़्०५।४।१७च्द् स-पुत्र।दारं राजा तु घातयेद् अर्धयेत वा ॥ १७ ॥  
 
 
- Chapter 5 (Section 93): Proper Behaviour of a Courtier
- \[K tr. 356\] ,  \[K2 tr. 307\] 
-KAZ05.5.01 niyuktaḥ karmasu vyaya.viśuddham udayaṃ darśayet | 1 |
+ छप्तेर् ५ (सेच्तिओन् ९३): प्रोपेर् बेहविओउर् ओड़् अ चोउर्तिएर्
+ \[क् त्र्। ३५६\] ,  \[क्२ त्र्। ३०७\] 
+कज़्०५।५।०१ नियुक्तः कर्मसु व्यय।विशुद्धम् उदयं दर्शयेत् । १ ।
 
-KAZ05.5.02 ābhyantaraṃ bāhyaṃ guhyaṃ prakāśyam ātyayikam upekṣitavyaṃ vā kāryaṃ "idam evam" iti viśeṣayec ca | 2 |
+कज़्०५।५।०२ आभ्यन्तरं बाह्यं गुह्यं प्रकाश्यम् आत्ययिकम् उपेक्षितव्यं वा कार्यं "इदम् एवम्" इति विशेषयेच् च । २ ।
 
-KAZ05.5.03 mṛgayā.dyūta.madya.strīṣu prasaktaṃ na-enam anuvarteta praśaṃsābhiḥ | 3 |
+कज़्०५।५।०३ मृगया।द्यूत।मद्य।स्त्रीषु प्रसक्तं न-एनम् अनुवर्तेत प्रशंसाभिः । ३ ।
 
-KAZ05.5.04 āsannaś ca-asya vyasana.upaghāte prayateta, para.upajāpa.atisandhāna.upadhibhyaś ca rakṣet | 4 |
+कज़्०५।५।०४ आसन्नश् च-अस्य व्यसन।उपघाते प्रयतेत, पर।उपजाप।अतिसन्धान।उपधिभ्यश् च रक्षेत् । ४ ।
 
-KAZ05.5.05 iṅgita.ākārau ca-asya lakṣayet | 5 |
+कज़्०५।५।०५ इङ्गित।आकारौ च-अस्य लक्षयेत् । ५ ।
 
-KAZ05.5.06 kāma.dveṣa.harṣa.dainya.vyavasāya.bhaya.dvandva.viparyāsam iṅgita.ākārābhyāṃ hi mantra.saṃvaraṇa.artham ācarati prājñaḥ | 6 |
+कज़्०५।५।०६ काम।द्वेष।हर्ष।दैन्य।व्यवसाय।भय।द्वन्द्व।विपर्यासम् इङ्गित।आकाराभ्यां हि मन्त्र।संवरण।अर्थम् आचरति प्राज्ञः । ६ ।
 
-KAZ05.5.07 darśane prasīdati, vākyaṃ pratigṛhṇāti, āsanaṃ dadāti, vivikto darśayate, śaṅkā.sthāne na-atiśaṅkate, kathāyāṃ ramate, parijñāpyeṣv avekṣate, pathyam uktaṃ sahate, smayamāno niyuṅkte, hastena spṛśati, ślāghye na-upahasati, parokṣaṃ guṇaṃ bravīti, bhakṣyeṣu smarati, saha vihāraṃ yāti, vyasane 'bhyupapadyate, tad.bhaktīn pūjayati, guhyam ācaṣṭe, mānaṃ vardhayati, arthaṃ karoti, anarthaṃ pratihanti - iti tuṣṭa.jñānam | 7 |
+कज़्०५।५।०७ दर्शने प्रसीदति, वाक्यं प्रतिगृह्णाति, आसनं ददाति, विविक्तो दर्शयते, शङ्का।स्थाने न-अतिशङ्कते, कथायां रमते, परिज्ञाप्येष्व् अवेक्षते, पथ्यम् उक्तं सहते, स्मयमानो नियुङ्क्ते, हस्तेन स्पृशति, श्लाघ्ये न-उपहसति, परोक्षं गुणं ब्रवीति, भक्ष्येषु स्मरति, सह विहारं याति, व्यसने ऽभ्युपपद्यते, तद्।भक्तीन् पूजयति, गुह्यम् आचष्टे, मानं वर्धयति, अर्थं करोति, अनर्थं प्रतिहन्ति - इति तुष्ट।ज्ञानम् । ७ ।
 
-KAZ05.5.08 etad eva viparītam atuṣṭasya, bhūyaś ca vakṣyāmaḥ | 8 |
+कज़्०५।५।०८ एतद् एव विपरीतम् अतुष्टस्य, भूयश् च वक्ष्यामः । ८ ।
 
-KAZ05.5.09 sandarśane kopaḥ, vākyasya-aśravaṇa.pratiṣedhau, āsana.cakṣuṣor adānam, varṇa.svara.bhedaḥ, eka.akṣi.bhrukuṭy.oṣṭha.nirbhogaḥ, sveda.śvāsa.smitānām asthāna.utpattiḥ, para.mantraṇam, akasmād.vrajanam, vardhanam anyasya, bhūmi.gātra.vilekhanam, anyasya-upatodanam, vidyā.varṇa.deśa.kutsā, sama.doṣa.nindā, pratidoṣa.nindā, pratiloma.stavaḥ, sukṛta.anavekṣaṇam, duṣkṛta.anukīrtanam, pṛṣṭha.avadhānam, atityāgaḥ, mithyā.abhibhāṣaṇam, rāja.darśināṃ ca tad.vṛtta.anyatvam | 9 |
+कज़्०५।५।०९ सन्दर्शने कोपः, वाक्यस्य-अश्रवण।प्रतिषेधौ, आसन।चक्षुषोर् अदानम्, वर्ण।स्वर।भेदः, एक।अक्षि।भ्रुकुट्य्।ओष्ठ।निर्भोगः, स्वेद।श्वास।स्मितानाम् अस्थान।उत्पत्तिः, पर।मन्त्रणम्, अकस्माद्।व्रजनम्, वर्धनम् अन्यस्य, भूमि।गात्र।विलेखनम्, अन्यस्य-उपतोदनम्, विद्या।वर्ण।देश।कुत्सा, सम।दोष।निन्दा, प्रतिदोष।निन्दा, प्रतिलोम।स्तवः, सुकृत।अनवेक्षणम्, दुष्कृत।अनुकीर्तनम्, पृष्ठ।अवधानम्, अतित्यागः, मिथ्या।अभिभाषणम्, राज।दर्शिनां च तद्।वृत्त।अन्यत्वम् । ९ ।
 
-KAZ05.5.10 vṛtti.vikāraṃ ca-avekṣeta-apy amānuṣāṇām | 10 |
+कज़्०५।५।१० वृत्ति।विकारं च-अवेक्षेत-अप्य् अमानुषाणाम् । १० ।
 
-KAZ05.5.11 "ayam uccaiḥ siñcati" iti kātyāyanaḥ pravavrāja, "krauñco 'pasavyam" iti kaṇiṅko bhāradvājaḥ, "tṛṇam" iti dīrghaś cārāyaṇaḥ, "śītā śāṭī" iti ghoṭa.mukhaḥ, "hastī pratyaukṣīt" iti kiñjalkaḥ, "ratha.aśvaṃ prāśaṃsīt" iti piśunaḥ, prati.ravaṇe śunaḥ piśuna.putraḥ | 11 |
+कज़्०५।५।११ "अयम् उच्चैः सिञ्चति" इति कात्यायनः प्रवव्राज, "क्रौञ्चो ऽपसव्यम्" इति कणिङ्को भारद्वाजः, "तृणम्" इति दीर्घश् चारायणः, "शीता शाटी" इति घोट।मुखः, "हस्ती प्रत्यौक्षीत्" इति किञ्जल्कः, "रथ।अश्वं प्राशंसीत्" इति पिशुनः, प्रति।रवणे शुनः पिशुन।पुत्रः । ११ ।
 
-KAZ05.5.12 artha.māna.avakṣepe ca parityāgaḥ | 12 |
+कज़्०५।५।१२ अर्थ।मान।अवक्षेपे च परित्यागः । १२ ।
 
-KAZ05.5.13 svāmi.śīlam ātmanaś ca kilbiṣam upalabhya vā pratikurvīta | 13 |
+कज़्०५।५।१३ स्वामि।शीलम् आत्मनश् च किल्बिषम् उपलभ्य वा प्रतिकुर्वीत । १३ ।
 
-KAZ05.5.14 mitram upakṛṣṭaṃ vā-asya gacchet | 14 |
+कज़्०५।५।१४ मित्रम् उपकृष्टं वा-अस्य गच्छेत् । १४ ।
 
-KAZ05.5.15ab tatrastho doṣa.nirghātaṃ mitrair bhartari ca-ācaret |  
-KAZ05.5.15cd tato bhartari jīve vā mṛte vā punar āvrajet || 15 ||  
+कज़्०५।५।१५अब् तत्रस्थो दोष।निर्घातं मित्रैर् भर्तरि च-आचरेत् ।  
+कज़्०५।५।१५च्द् ततो भर्तरि जीवे वा मृते वा पुनर् आव्रजेत् ॥ १५ ॥  
 
 
  छप्तेर् ६ (सेच्तिओन्स् ९४; ९५): चोन्तिनुअन्चे ओड़् थे किन्ग्दोम्; चोन्तिनुओउस् सोवेरेइग्न्त्य्
@@ -6984,50 +6983,50 @@ KAZ05.5.15cd tato bhartari jīve vā mṛte vā punar āvrajet || 15 ||
 
 # बोओक् ६: थे चिर्च्ले ओड़् किन्ग्स् अस् थे बसिस्
  \[क् त्र्। ३६४-३७१\] ,  \[क्२ त्र्। ३१४-३२०\] 
- Chapter 1 (Section 96): Excellences of Constituents
- \[K tr. 364\] ,  \[K2 tr. 314\] 
-KAZ06.1.01 svāmy.amātya.jana.pada.durga.kośa.daṇḍa.mitrāṇi prakṛtayaḥ | 1 |
+ छप्तेर् १ (सेच्तिओन् ९६): एxचेल्लेन्चेस् ओड़् चोन्स्तितुएन्त्स्
+ \[क् त्र्। ३६४\] ,  \[क्२ त्र्। ३१४\] 
+कज़्०६।१।०१ स्वाम्य्।अमात्य।जन।पद।दुर्ग।कोश।दण्ड।मित्राणि प्रकृतयः । १ ।
 
-KAZ06.1.02 tatra svāmi.sampat | 2 |
+कज़्०६।१।०२ तत्र स्वामि।सम्पत् । २ ।
 
-KAZ06.1.03 mahā.kulīno daiva.buddhi.sattva.sampanno vṛddha.darśī dhārmikaḥ satya.vāg avisaṃvādakaḥ kṛtajñaḥ sthūla.lakṣo mahā.utsāho 'dīrgha.sūtraḥ śakya.sāmanto dṛḍha.buddhir akṣudra.pariṣatko vinaya.kāma ity ābhigāmikā guṇāḥ | 3 |
+कज़्०६।१।०३ महा।कुलीनो दैव।बुद्धि।सत्त्व।सम्पन्नो वृद्ध।दर्शी धार्मिकः सत्य।वाग् अविसंवादकः कृतज्ञः स्थूल।लक्षो महा।उत्साहो ऽदीर्घ।सूत्रः शक्य।सामन्तो दृढ।बुद्धिर् अक्षुद्र।परिषत्को विनय।काम इत्य् आभिगामिका गुणाः । ३ ।
 
-KAZ06.1.04 śuśrūṣā.śravaṇa.grahaṇa.dhāraṇa.vijñāna.ūha.apoha.tattva.abhiniveśāḥ prajñā.guṇāḥ | 4 |
+कज़्०६।१।०४ शुश्रूषा।श्रवण।ग्रहण।धारण।विज्ञान।ऊह।अपोह।तत्त्व।अभिनिवेशाः प्रज्ञा।गुणाः । ४ ।
 
-KAZ06.1.05 śauryam amarṣaḥ śīghratā dākṣyaṃ ca-utsāha.guṇāḥ | 5 |
+कज़्०६।१।०५ शौर्यम् अमर्षः शीघ्रता दाक्ष्यं च-उत्साह।गुणाः । ५ ।
 
-KAZ06.1.06 vāgmī pragalbhaḥ smṛti.mati.balavān udagraḥ sv.avagrahaḥ kṛta.śilpo 'vyasano daṇḍa.nāyy upakāra.apakārayor dṛṣṭa.pratīkārī hrīmān āpat.prakṛtyor viniyoktā dīrgha.dūra.darśī deśa.kāla.puruṣa.kāra.kārya.pradhānaḥ sandhi.vikrama.tyāga.samyama.paṇa.parac.chidra.vibhāgī saṃvṛto 'dīna.abhihāsya.jihma.bhrukuṭī.kṣaṇaḥ kāma.krodha.lobha.stambha.cāpala.upatāpa.paiśunya.hīnaḥ śaklaḥ smita.udagra.abhibhāṣī vṛddha.upadeśa.ācāra ity ātma.sampat | 6 |
+कज़्०६।१।०६ वाग्मी प्रगल्भः स्मृति।मति।बलवान् उदग्रः स्व्।अवग्रहः कृत।शिल्पो ऽव्यसनो दण्ड।नाय्य् उपकार।अपकारयोर् दृष्ट।प्रतीकारी ह्रीमान् आपत्।प्रकृत्योर् विनियोक्ता दीर्घ।दूर।दर्शी देश।काल।पुरुष।कार।कार्य।प्रधानः सन्धि।विक्रम।त्याग।सम्यम।पण।परच्।छिद्र।विभागी संवृतो ऽदीन।अभिहास्य।जिह्म।भ्रुकुटी।क्षणः काम।क्रोध।लोभ।स्तम्भ।चापल।उपताप।पैशुन्य।हीनः शक्लः स्मित।उदग्र।अभिभाषी वृद्ध।उपदेश।आचार इत्य् आत्म।सम्पत् । ६ ।
 
-KAZ06.1.07 amātya.sampad uktā purastāt | 7 |
+कज़्०६।१।०७ अमात्य।सम्पद् उक्ता पुरस्तात् । ७ ।
 
-KAZ06.1.08 madhye ca-ante ca sthānavān ātma.dhāraṇaḥ para.dhāraṇaś ca-āpadi sva.ārakṣaḥ sva.ājīvaḥ śatru.dveṣī śakya.sāmantaḥ paṅka.pāṣāṇa.uṣara.viṣama.kaṇṭaka.śreṇī.vyāla.mṛga.aṭavī.hīnaḥ kāntaḥ sītā.khani.dravya.hasti.vanavān gavyaḥ pauruṣeyo gupta.gocaraḥ paśumān adeva.mātṛko vāri.sthala.pathābhyām upetaḥ sāra.citra.bahu.paṇyo daṇḍa.kara.sahaḥ karma.śīla.karṣako 'bāliśa.svāmy.avara.varṇa.prāyo bhakta.śuci.manuṣya iti jana.pada.sampat | 8 |
+कज़्०६।१।०८ मध्ये च-अन्ते च स्थानवान् आत्म।धारणः पर।धारणश् च-आपदि स्व।आरक्षः स्व।आजीवः शत्रु।द्वेषी शक्य।सामन्तः पङ्क।पाषाण।उषर।विषम।कण्टक।श्रेणी।व्याल।मृग।अटवी।हीनः कान्तः सीता।खनि।द्रव्य।हस्ति।वनवान् गव्यः पौरुषेयो गुप्त।गोचरः पशुमान् अदेव।मातृको वारि।स्थल।पथाभ्याम् उपेतः सार।चित्र।बहु।पण्यो दण्ड।कर।सहः कर्म।शील।कर्षको ऽबालिश।स्वाम्य्।अवर।वर्ण।प्रायो भक्त।शुचि।मनुष्य इति जन।पद।सम्पत् । ८ ।
 
-KAZ06.1.09 durga.sampad uktā purastāt | 9 |
+कज़्०६।१।०९ दुर्ग।सम्पद् उक्ता पुरस्तात् । ९ ।
 
-KAZ06.1.10 dharma.adhigataḥ pūrvaiḥ svayaṃ vā hema.rūpya.prāyaś citra.sthūla.ratna.hiraṇyo dīrghām apy āpadam anāyatiṃ saheta-iti kośa.sampat | 10 |
+कज़्०६।१।१० धर्म।अधिगतः पूर्वैः स्वयं वा हेम।रूप्य।प्रायश् चित्र।स्थूल।रत्न।हिरण्यो दीर्घाम् अप्य् आपदम् अनायतिं सहेत-इति कोश।सम्पत् । १० ।
 
-KAZ06.1.11 pitṛ.paitāmaho nityo vaśyas tuṣṭa.bhṛta.putra.dāraḥ pravāseṣv avisaṃvāditaḥ sarvatra-apratihato duḥkha.saho bahu.yuddhaḥ sarva.yuddha.praharaṇa.vidyā.viśāradaḥ saha.vṛddhi.kṣayikatvād advaidhyaḥ kṣatra.prāya iti daṇḍa.sampat | 11 |
+कज़्०६।१।११ पितृ।पैतामहो नित्यो वश्यस् तुष्ट।भृत।पुत्र।दारः प्रवासेष्व् अविसंवादितः सर्वत्र-अप्रतिहतो दुःख।सहो बहु।युद्धः सर्व।युद्ध।प्रहरण।विद्या।विशारदः सह।वृद्धि।क्षयिकत्वाद् अद्वैध्यः क्षत्र।प्राय इति दण्ड।सम्पत् । ११ ।
 
-KAZ06.1.12 pitṛ.paitāmahaṃ nityaṃ vaśyam advaidhyaṃ mahal.laghu.samuttham iti mitra.sampat | 12 |
+कज़्०६।१।१२ पितृ।पैतामहं नित्यं वश्यम् अद्वैध्यं महल्।लघु।समुत्थम् इति मित्र।सम्पत् । १२ ।
 
-KAZ06.1.13 arāja.bījī lubdhaḥ kṣudra.pariṣatko virakta.prakṛtir anyāya.vṛttir ayukto vyasanī nirutsāho daiva.pramāṇo yat.kiñcana.kārya.gatir ananubandhaḥ klībo nitya.apakārī ca-ity amitra.sampat | 13 |
+कज़्०६।१।१३ अराज।बीजी लुब्धः क्षुद्र।परिषत्को विरक्त।प्रकृतिर् अन्याय।वृत्तिर् अयुक्तो व्यसनी निरुत्साहो दैव।प्रमाणो यत्।किञ्चन।कार्य।गतिर् अननुबन्धः क्लीबो नित्य।अपकारी च-इत्य् अमित्र।सम्पत् । १३ ।
 
-KAZ06.1.14 evaṃ.bhūto hi śatruḥ sukhaḥ samucchettuṃ bhavati | 14 |
+कज़्०६।१।१४ एवं।भूतो हि शत्रुः सुखः समुच्छेत्तुं भवति । १४ ।
 
-KAZ06.1.15ab ari.varjāḥ prakṛtayaḥ sapta-etāḥ sva.guṇa.udayāḥ |  
-KAZ06.1.15cd uktāḥ pratyaṅga.bhūtās tāḥ prakṛtā rāja.sampadaḥ || 15 ||  
-
-
-KAZ06.1.16ab sampādayaty asampannāḥ prakṛtīr ātmavān nṛpaḥ |  
-KAZ06.1.16cd vivṛddhāś ca-anuraktāś ca prakṛtīr hanty anātmavān || 16 ||  
+कज़्०६।१।१५अब् अरि।वर्जाः प्रकृतयः सप्त-एताः स्व।गुण।उदयाः ।  
+कज़्०६।१।१५च्द् उक्ताः प्रत्यङ्ग।भूतास् ताः प्रकृता राज।सम्पदः ॥ १५ ॥  
 
 
-KAZ06.1.17ab tataḥ sa duṣṭa.prakṛtiś cāturanto 'py anātmavān |  
-KAZ06.1.17cd hanyate vā prakṛtibhir yāti vā dviṣatāṃ vaśam || 17 ||  
+कज़्०६।१।१६अब् सम्पादयत्य् असम्पन्नाः प्रकृतीर् आत्मवान् नृपः ।  
+कज़्०६।१।१६च्द् विवृद्धाश् च-अनुरक्ताश् च प्रकृतीर् हन्त्य् अनात्मवान् ॥ १६ ॥  
 
 
-KAZ06.1.18ab ātmavāṃs tv alpa.deśo 'pi yuktaḥ prakṛti.sampadā |  
-KAZ06.1.18cd nayajñaḥ pṛthivīṃ kṛtsnāṃ jayaty eva na hīyate || 18 ||  
+कज़्०६।१।१७अब् ततः स दुष्ट।प्रकृतिश् चातुरन्तो ऽप्य् अनात्मवान् ।  
+कज़्०६।१।१७च्द् हन्यते वा प्रकृतिभिर् याति वा द्विषतां वशम् ॥ १७ ॥  
+
+
+कज़्०६।१।१८अब् आत्मवांस् त्व् अल्प।देशो ऽपि युक्तः प्रकृति।सम्पदा ।  
+कज़्०६।१।१८च्द् नयज्ञः पृथिवीं कृत्स्नां जयत्य् एव न हीयते ॥ १८ ॥  
 
 
  छप्तेर् २ (सेच्तिओन् ९७): चोन्चेर्निन्ग् पेअचे अन्द् अच्तिवित्य्
@@ -7118,94 +7117,94 @@ KAZ06.1.18cd nayajñaḥ pṛthivīṃ kṛtsnāṃ jayaty eva na hīyate || 18 
 
 # बोओक् ७: थे सिx मेअसुरेस् ओड़् ड़ोरेइग्न् पोलिच्य्
  \[क् त्र्। ३७२-४४४\] ,  \[क्२ त्र्। ३२१-३८४\] 
- Chapter 1 (Sections 98; 99): Enumeration of the Six Measures; Use of Measures in Decline, Stable Condition and Advancement
- \[K tr. 372\] ,  \[K2 tr. 321\] 
-KAZ07.1.01 ṣāḍguṇyasya prakṛti.maṇḍalaṃ yoniḥ | 1 |
+ छप्तेर् १ (सेच्तिओन्स् ९८; ९९): एनुमेरतिओन् ओड़् थे सिx मेअसुरेस्; उसे ओड़् मेअसुरेस् इन् देच्लिने, स्तब्ले चोन्दितिओन् अन्द् अद्वन्चेमेन्त्
+ \[क् त्र्। ३७२\] ,  \[क्२ त्र्। ३२१\] 
+कज़्०७।१।०१ षाड्गुण्यस्य प्रकृति।मण्डलं योनिः । १ ।
 
-KAZ07.1.02 "sandhi.vigraha.āsana.yāna.saṃśraya.dvaidhī.bhāvāḥ ṣāḍguṇyam" ity ācāryāḥ | 2 |
+कज़्०७।१।०२ "सन्धि।विग्रह।आसन।यान।संश्रय।द्वैधी।भावाः षाड्गुण्यम्" इत्य् आचार्याः । २ ।
 
-KAZ07.1.03 "dvaiguṇyam" iti vāta.vyādhiḥ | 3 |
+कज़्०७।१।०३ "द्वैगुण्यम्" इति वात।व्याधिः । ३ ।
 
-KAZ07.1.04 "sandhi.vigrahābhyāṃ hi ṣāḍguṇyaṃ sampadyate" iti | 4 |
+कज़्०७।१।०४ "सन्धि।विग्रहाभ्यां हि षाड्गुण्यं सम्पद्यते" इति । ४ ।
 
-KAZ07.1.05 ṣāḍguṇyam eva-etad avasthā.bhedād iti kauṭilyaḥ | 5 |
+कज़्०७।१।०५ षाड्गुण्यम् एव-एतद् अवस्था।भेदाद् इति कौटिल्यः । ५ ।
 
-KAZ07.1.06 tatra paṇa.bandhaḥ sandhiḥ | 6 |
+कज़्०७।१।०६ तत्र पण।बन्धः सन्धिः । ६ ।
 
-KAZ07.1.07 apakāro vigrahaḥ | 7 |
+कज़्०७।१।०७ अपकारो विग्रहः । ७ ।
 
-KAZ07.1.08 upekṣaṇam āsanam | 8 |
+कज़्०७।१।०८ उपेक्षणम् आसनम् । ८ ।
 
-KAZ07.1.09 abhyuccayo yānam | 9 |
+कज़्०७।१।०९ अभ्युच्चयो यानम् । ९ ।
 
-KAZ07.1.10 para.arpaṇaṃ saṃśrayaḥ | 10 |
+कज़्०७।१।१० पर।अर्पणं संश्रयः । १० ।
 
-KAZ07.1.11 sandhi.vigraha.upādānaṃ dvaidhī.bhāvaḥ | 11 |
+कज़्०७।१।११ सन्धि।विग्रह।उपादानं द्वैधी।भावः । ११ ।
 
-KAZ07.1.12 iti ṣaḍ.guṇāḥ | 12 |
+कज़्०७।१।१२ इति षड्।गुणाः । १२ ।
 
-KAZ07.1.13 parasmādd hīyamānaḥ sandadhīta | 13 |
+कज़्०७।१।१३ परस्माद्द् हीयमानः सन्दधीत । १३ ।
 
-KAZ07.1.14 abhyuccīyamāno vigṛhṇīyāt | 14 |
+कज़्०७।१।१४ अभ्युच्चीयमानो विगृह्णीयात् । १४ ।
 
-KAZ07.1.15 "na māṃ paro na-ahaṃ param upahantuṃ śaktaḥ" ity āsīta | 15 |
+कज़्०७।१।१५ "न मां परो न-अहं परम् उपहन्तुं शक्तः" इत्य् आसीत । १५ ।
 
-KAZ07.1.16 guṇa.atiśaya.yukto yāyāt | 16 |
+कज़्०७।१।१६ गुण।अतिशय।युक्तो यायात् । १६ ।
 
-KAZ07.1.17 śakti.hīnaḥ saṃśrayeta | 17 |
+कज़्०७।१।१७ शक्ति।हीनः संश्रयेत । १७ ।
 
-KAZ07.1.18 sahāya.sādhye kārye dvaidhībhāvaṃ gacchet | 18 |
+कज़्०७।१।१८ सहाय।साध्ये कार्ये द्वैधीभावं गच्छेत् । १८ ।
 
-KAZ07.1.19 iti guṇa.avasthāpanam | 19 |
+कज़्०७।१।१९ इति गुण।अवस्थापनम् । १९ ।
 
-KAZ07.1.20 teṣāṃ yasmin vā guṇe sthitaḥ paśyet "iha.sthaḥ śakṣyāmi durga.setu.karma.vaṇik.patha.śūnya.niveśa.khani.dravya.hasti.vana.karmāṇy ātmanaḥ pravartayitum, parasya ca-etāni karmāṇy upahantum" iti tam ātiṣṭhet | 20 |
+कज़्०७।१।२० तेषां यस्मिन् वा गुणे स्थितः पश्येत् "इह।स्थः शक्ष्यामि दुर्ग।सेतु।कर्म।वणिक्।पथ।शून्य।निवेश।खनि।द्रव्य।हस्ति।वन।कर्माण्य् आत्मनः प्रवर्तयितुम्, परस्य च-एतानि कर्माण्य् उपहन्तुम्" इति तम् आतिष्ठेत् । २० ।
 
-KAZ07.1.21 sā vṛddhiḥ | 21 |
+कज़्०७।१।२१ सा वृद्धिः । २१ ।
 
-KAZ07.1.22 "āśutarā me vṛddhir bhūyastarā vṛddhy.udayatarā vā bhaviṣyati, viparītā parasya" iti jñātvā para.vṛddhim upekṣeta | 22 |
+कज़्०७।१।२२ "आशुतरा मे वृद्धिर् भूयस्तरा वृद्ध्य्।उदयतरा वा भविष्यति, विपरीता परस्य" इति ज्ञात्वा पर।वृद्धिम् उपेक्षेत । २२ ।
 
-KAZ07.1.23 tulya.kāla.phala.udayāyāṃ vā vṛddhau sandhim upeyāt | 23 |
+कज़्०७।१।२३ तुल्य।काल।फल।उदयायां वा वृद्धौ सन्धिम् उपेयात् । २३ ।
 
-KAZ07.1.24 yasmin vā guṇe sthitaḥ sva.karmaṇām upaghātaṃ paśyen na-itarasya tasmin na tiṣṭhet | 24 |
+कज़्०७।१।२४ यस्मिन् वा गुणे स्थितः स्व।कर्मणाम् उपघातं पश्येन् न-इतरस्य तस्मिन् न तिष्ठेत् । २४ ।
 
-KAZ07.1.25 eṣa kṣayaḥ | 25 |
+कज़्०७।१।२५ एष क्षयः । २५ ।
 
-KAZ07.1.26 "ciratareṇa-alpataraṃ vṛddhy.udayataraṃ vā kṣeṣye, viparītaṃ paraḥ" iti jñātvā kṣayam upekṣeta | 26 |
+कज़्०७।१।२६ "चिरतरेण-अल्पतरं वृद्ध्य्।उदयतरं वा क्षेष्ये, विपरीतं परः" इति ज्ञात्वा क्षयम् उपेक्षेत । २६ ।
 
-KAZ07.1.27 tulya.kāla.phala.udaye vā kṣaye sandhim upeyāt | 27 |
+कज़्०७।१।२७ तुल्य।काल।फल।उदये वा क्षये सन्धिम् उपेयात् । २७ ।
 
-KAZ07.1.28 yasmin vā guṇe sthitaḥ sva.karma.vṛddhiṃ kṣayaṃ vā na-abhipaśyed etat.sthānam | 28 |
+कज़्०७।१।२८ यस्मिन् वा गुणे स्थितः स्व।कर्म।वृद्धिं क्षयं वा न-अभिपश्येद् एतत्।स्थानम् । २८ ।
 
-KAZ07.1.29 "hrasvataraṃ vṛddhy.udayataraṃ vā sthāsyāmi, viparītaṃ paraḥ" iti jñātvā sthānam upekṣeta | 29 |
+कज़्०७।१।२९ "ह्रस्वतरं वृद्ध्य्।उदयतरं वा स्थास्यामि, विपरीतं परः" इति ज्ञात्वा स्थानम् उपेक्षेत । २९ ।
 
-KAZ07.1.30 "tulya.kāla.phala.udaye vā sthāne sandhim upeyād" ity ācāryāḥ | 30 |
+कज़्०७।१।३० "तुल्य।काल।फल।उदये वा स्थाने सन्धिम् उपेयाद्" इत्य् आचार्याः । ३० ।
 
-KAZ07.1.31 na-etad vibhāṣitam iti kauṭilyaḥ | 31 |
+कज़्०७।१।३१ न-एतद् विभाषितम् इति कौटिल्यः । ३१ ।
 
-KAZ07.1.32a yadi vā paśyet "sandhau sthito mahā.phalaiḥ sva.karmabhiḥ para.karmāṇy upahaniṣyāmi, mahā.phalāni vā sva.karmāṇy upabhokṣye, para.karmāṇi vā, sandhi.viśvāsena vā yoga.upaniṣat.praṇidhibhiḥ para.karmāṇy upahaniṣyāmi, sukhaṃ vā sa.anugraha.parihāra.saukaryaṃ phala.lābha.bhūyastvena sva.karmaṇāṃ para.karma.yoga.āvahaṃ janam āsrāvayiṣyāmi -
+कज़्०७।१।३२अ यदि वा पश्येत् "सन्धौ स्थितो महा।फलैः स्व।कर्मभिः पर।कर्माण्य् उपहनिष्यामि, महा।फलानि वा स्व।कर्माण्य् उपभोक्ष्ये, पर।कर्माणि वा, सन्धि।विश्वासेन वा योग।उपनिषत्।प्रणिधिभिः पर।कर्माण्य् उपहनिष्यामि, सुखं वा स।अनुग्रह।परिहार।सौकर्यं फल।लाभ।भूयस्त्वेन स्व।कर्मणां पर।कर्म।योग।आवहं जनम् आस्रावयिष्यामि -
 
-KAZ07.1.32b balinā-atimātreṇa vā saṃhitaḥ paraḥ sva.karma.upaghātaṃ prāpsyati, yena vā vigṛhīto mayā.sandhatte tena-asya vigrahaṃ dīrghaṃ kariṣyāmi, mayā vā saṃhitasya mad.dveṣiṇo jana.padaṃ pīḍayiṣyati -
+कज़्०७।१।३२ब् बलिना-अतिमात्रेण वा संहितः परः स्व।कर्म।उपघातं प्राप्स्यति, येन वा विगृहीतो मया।सन्धत्ते तेन-अस्य विग्रहं दीर्घं करिष्यामि, मया वा संहितस्य मद्।द्वेषिणो जन।पदं पीडयिष्यति -
 
-KAZ07.1.32c para.upahato vā-asya jana.pado mām āgamiṣyati, tataḥ karmasu vṛddhiṃ prāpsyāmi, vipanna.karma.ārambho vā viṣamasthaḥ paraḥ karmasu na me vikrameta -
+कज़्०७।१।३२च् पर।उपहतो वा-अस्य जन।पदो माम् आगमिष्यति, ततः कर्मसु वृद्धिं प्राप्स्यामि, विपन्न।कर्म।आरम्भो वा विषमस्थः परः कर्मसु न मे विक्रमेत -
 
-KAZ07.1.32d parataḥ pravṛtta.karma.ārambho vā tābhyāṃ saṃhitaḥ karmasu vṛddhiṃ prāpsyāmi, śatru.pratibaddhaṃ vā śatruṇā sandhiṃ kṛtvā maṇḍalaṃ bhetsyāmi -
+कज़्०७।१।३२द् परतः प्रवृत्त।कर्म।आरम्भो वा ताभ्यां संहितः कर्मसु वृद्धिं प्राप्स्यामि, शत्रु।प्रतिबद्धं वा शत्रुणा सन्धिं कृत्वा मण्डलं भेत्स्यामि -
 
-KAZ07.1.32e bhinnam avāpsyāmi, daṇḍa.anugraheṇa vā śatrum upagṛhya maṇḍala.lipsāyāṃ vidveṣaṃ grāhayiṣyāmi, vidviṣṭaṃ tena-eva ghātayiṣyāmi" iti sandhinā vṛddhim ātiṣṭhet | 32 |
+कज़्०७।१।३२ए भिन्नम् अवाप्स्यामि, दण्ड।अनुग्रहेण वा शत्रुम् उपगृह्य मण्डल।लिप्सायां विद्वेषं ग्राहयिष्यामि, विद्विष्टं तेन-एव घातयिष्यामि" इति सन्धिना वृद्धिम् आतिष्ठेत् । ३२ ।
 
-KAZ07.1.33a yadi vā paśyet "āyudhīya.prāyaḥ śreṇī.prāyo vā me jana.padaḥ śaila.vana.nadī.durga.eka.dvāra.ārakṣo vā śakṣyati para.abhiyogaṃ pratihantum, viṣaya.ante durgam aviṣahyam apāśrito vā śakṣyāmi para.karmāṇy upahantuṃ -
+कज़्०७।१।३३अ यदि वा पश्येत् "आयुधीय।प्रायः श्रेणी।प्रायो वा मे जन।पदः शैल।वन।नदी।दुर्ग।एक।द्वार।आरक्षो वा शक्ष्यति पर।अभियोगं प्रतिहन्तुम्, विषय।अन्ते दुर्गम् अविषह्यम् अपाश्रितो वा शक्ष्यामि पर।कर्माण्य् उपहन्तुं -
 
-KAZ07.1.33b vyasana.pīḍa.upahata.utsāho vā paraḥ samprāpta.karma.upaghāta.kālaḥ, vigṛhītasya-anyato vā śakṣyāmi jana.padam apavāhayitum" iti vigrahe sthito vṛddhim ātiṣṭhet | 33 |
+कज़्०७।१।३३ब् व्यसन।पीड।उपहत।उत्साहो वा परः सम्प्राप्त।कर्म।उपघात।कालः, विगृहीतस्य-अन्यतो वा शक्ष्यामि जन।पदम् अपवाहयितुम्" इति विग्रहे स्थितो वृद्धिम् आतिष्ठेत् । ३३ ।
 
-KAZ07.1.34 yadi vā manyeta "na me śaktaḥ paraḥ karmāṇy upahantuṃ na-ahaṃ tasya karma.upaghātī vā, vyasanam asya, śva.varāhayor iva kalahe vā, sva.karma.anuṣṭhāna.paro vā vardhiṣye" ity āsanena vṛddhim ātiṣṭhet | 34 |
+कज़्०७।१।३४ यदि वा मन्येत "न मे शक्तः परः कर्माण्य् उपहन्तुं न-अहं तस्य कर्म।उपघाती वा, व्यसनम् अस्य, श्व।वराहयोर् इव कलहे वा, स्व।कर्म।अनुष्ठान।परो वा वर्धिष्ये" इत्य् आसनेन वृद्धिम् आतिष्ठेत् । ३४ ।
 
-KAZ07.1.35 yadi vā manyeta "yāna.sādhyaḥ karma.upaghātaḥ śatroḥ, prativihita.sva.karma.ārakṣaś ca-asmi" iti yānena vṛddhim ātiṣṭhet | 35 |
+कज़्०७।१।३५ यदि वा मन्येत "यान।साध्यः कर्म।उपघातः शत्रोः, प्रतिविहित।स्व।कर्म।आरक्षश् च-अस्मि" इति यानेन वृद्धिम् आतिष्ठेत् । ३५ ।
 
-KAZ07.1.36 yadi vā manyeta "na-asmi śaktaḥ para.karmāṇy upahantum, sva.karma.upaghātaṃ vā trātum" iti, balavantam āśritaḥ sva.karma.anuṣṭhānena kṣayāt sthānaṃ sthānād vṛddhiṃ ca-ākāṅkṣeta | 36 |
+कज़्०७।१।३६ यदि वा मन्येत "न-अस्मि शक्तः पर।कर्माण्य् उपहन्तुम्, स्व।कर्म।उपघातं वा त्रातुम्" इति, बलवन्तम् आश्रितः स्व।कर्म।अनुष्ठानेन क्षयात् स्थानं स्थानाद् वृद्धिं च-आकाङ्क्षेत । ३६ ।
 
-KAZ07.1.37 yadi vā manyeta "sandhinā-ekataḥ sva.karmāṇi pravartayiṣyāmi, vigraheṇa-ekataḥ para.karmāṇy upahaniṣyāmi" iti dvaidhī.bhāvena vṛddhim ātiṣṭhet | 37 |
+कज़्०७।१।३७ यदि वा मन्येत "सन्धिना-एकतः स्व।कर्माणि प्रवर्तयिष्यामि, विग्रहेण-एकतः पर।कर्माण्य् उपहनिष्यामि" इति द्वैधी।भावेन वृद्धिम् आतिष्ठेत् । ३७ ।
 
-KAZ07.1.38ab evaṃ ṣaḍbhir guṇair etaiḥ sthitaḥ prakṛti.maṇḍale |  
-KAZ07.1.38cd paryeṣeta kṣayāt sthānaṃ sthānād vṛddhiṃ ca karmasu || 38 ||  
+कज़्०७।१।३८अब् एवं षड्भिर् गुणैर् एतैः स्थितः प्रकृति।मण्डले ।  
+कज़्०७।१।३८च्द् पर्येषेत क्षयात् स्थानं स्थानाद् वृद्धिं च कर्मसु ॥ ३८ ॥  
 
 
  छप्तेर् २ (सेच्तिओन् १००): चोन्दुच्त् wहेन् सेएकिन्ग् स्हेल्तेर्
@@ -7262,108 +7261,108 @@ KAZ07.1.38cd paryeṣeta kṣayāt sthānaṃ sthānād vṛddhiṃ ca karmasu |
 कज़्०७।२।२५च्द् प्रियो यस्य स तं गच्छेद् इत्य् आश्रय।गतिः परा ॥ २५ ॥  
 
 
- Chapter 3 (Sections 101; 102): Policies for the Equal, the Weaker and the Stronger Kings; Peace-Treaties by the Weaker King
- \[K tr. 378\] ,  \[K2 tr. 327\] 
-KAZ07.3.01 vijigīṣuḥ śakty.apekṣaḥ ṣāḍguṇyam upayuñjīta | 1 |
+ छप्तेर् ३ (सेच्तिओन्स् १०१; १०२): पोलिचिएस् ड़ोर् थे एक़ुअल्, थे Wएअकेर् अन्द् थे स्त्रोन्गेर् किन्ग्स्; पेअचे-त्रेअतिएस् ब्य् थे Wएअकेर् किन्ग्
+ \[क् त्र्। ३७८\] ,  \[क्२ त्र्। ३२७\] 
+कज़्०७।३।०१ विजिगीषुः शक्त्य्।अपेक्षः षाड्गुण्यम् उपयुञ्जीत । १ ।
 
-KAZ07.3.02 sama.jyāyobhyāṃ sandhīyeta, hīnena vigṛhṇīyāt | 2 |
+कज़्०७।३।०२ सम।ज्यायोभ्यां सन्धीयेत, हीनेन विगृह्णीयात् । २ ।
 
-KAZ07.3.03 vigṛhīto hi jyāyasā hastinā pāda.yuddham iva-abhyupaiti | 3 |
+कज़्०७।३।०३ विगृहीतो हि ज्यायसा हस्तिना पाद।युद्धम् इव-अभ्युपैति । ३ ।
 
-KAZ07.3.04 samena ca-āmaṃ pātram āmena-ahatam iva-ubhayataḥ kṣayaṃ karoti | 4 |
+कज़्०७।३।०४ समेन च-आमं पात्रम् आमेन-अहतम् इव-उभयतः क्षयं करोति । ४ ।
 
-KAZ07.3.05 kumbhena-iva-aśmā hīnena-eka.anta.siddhim avāpnoti | 5 |
+कज़्०७।३।०५ कुम्भेन-इव-अश्मा हीनेन-एक।अन्त।सिद्धिम् अवाप्नोति । ५ ।
 
-KAZ07.3.06 jyāyāṃś cen na sandhim icched daṇḍa.upanata.vṛttam ābalīyasaṃ vā yogam ātiṣṭhet | 6 |
+कज़्०७।३।०६ ज्यायांश् चेन् न सन्धिम् इच्छेद् दण्ड।उपनत।वृत्तम् आबलीयसं वा योगम् आतिष्ठेत् । ६ ।
 
-KAZ07.3.07 samaś cen na sandhim icched yāvan.mātram apakuryāt tāvan.mātram asya pratyapakuryāt | 7 |
+कज़्०७।३।०७ समश् चेन् न सन्धिम् इच्छेद् यावन्।मात्रम् अपकुर्यात् तावन्।मात्रम् अस्य प्रत्यपकुर्यात् । ७ ।
 
-KAZ07.3.08 tejo hi sandhāna.kāraṇam | 8 |
+कज़्०७।३।०८ तेजो हि सन्धान।कारणम् । ८ ।
 
-KAZ07.3.09 na-ataptaṃ lohaṃ lohena sandhatta iti | 9 |
+कज़्०७।३।०९ न-अतप्तं लोहं लोहेन सन्धत्त इति । ९ ।
 
-KAZ07.3.10 hīnaś cet sarvatra-anupraṇatas tiṣṭhet sandhim upeyāt | 10 |
+कज़्०७।३।१० हीनश् चेत् सर्वत्र-अनुप्रणतस् तिष्ठेत् सन्धिम् उपेयात् । १० ।
 
-KAZ07.3.11 āraṇyo 'gnir iva hi duḥkha.amarṣajaṃ tejo vikramayati | 11 |
+कज़्०७।३।११ आरण्यो ऽग्निर् इव हि दुःख।अमर्षजं तेजो विक्रमयति । ११ ।
 
-KAZ07.3.12 maṇḍalasya ca-anugrāhyo bhavati | 12 |
+कज़्०७।३।१२ मण्डलस्य च-अनुग्राह्यो भवति । १२ ।
 
-KAZ07.3.13 saṃhitaś cet "para.prakṛtayo lubdha.kṣīṇa.apacaritāḥ pratyādāna.bhayād vā na-upagacchanti" iti paśyedd hīno 'pi vigṛhṇīyāt | 13 |
+कज़्०७।३।१३ संहितश् चेत् "पर।प्रकृतयो लुब्ध।क्षीण।अपचरिताः प्रत्यादान।भयाद् वा न-उपगच्छन्ति" इति पश्येद्द् हीनो ऽपि विगृह्णीयात् । १३ ।
 
-KAZ07.3.14 vigṛhītaś cet "para.prakṛtayo lubdha.kṣīṇa.apacaritā vigraha.udvignā vā māṃ na-upagacchanti" iti paśyej jyāyān api sandhīyeta, vigraha.udvegaṃ vā śamayet | 14 |
+कज़्०७।३।१४ विगृहीतश् चेत् "पर।प्रकृतयो लुब्ध।क्षीण।अपचरिता विग्रह।उद्विग्ना वा मां न-उपगच्छन्ति" इति पश्येज् ज्यायान् अपि सन्धीयेत, विग्रह।उद्वेगं वा शमयेत् । १४ ।
 
-KAZ07.3.15 vyasana.yaugapadye 'pi "guru.vyasano 'smi, laghu.vyasanaḥ paraḥ sukhena pratikṛtya vyasanam ātmano 'bhiyuñjyād" iti paśyej jyāyān api sandhīyeta | 15 |
+कज़्०७।३।१५ व्यसन।यौगपद्ये ऽपि "गुरु।व्यसनो ऽस्मि, लघु।व्यसनः परः सुखेन प्रतिकृत्य व्यसनम् आत्मनो ऽभियुञ्ज्याद्" इति पश्येज् ज्यायान् अपि सन्धीयेत । १५ ।
 
-KAZ07.3.16 sandhi.vigrahayoś cet para.karśanam ātma.upacayaṃ vā na-abhipaśyej jyāyān apy āsīta | 16 |
+कज़्०७।३।१६ सन्धि।विग्रहयोश् चेत् पर।कर्शनम् आत्म।उपचयं वा न-अभिपश्येज् ज्यायान् अप्य् आसीत । १६ ।
 
-KAZ07.3.17 para.vyasanam apratikāryaṃ cet paśyedd hīno 'py abhiyāyāt | 17 |
+कज़्०७।३।१७ पर।व्यसनम् अप्रतिकार्यं चेत् पश्येद्द् हीनो ऽप्य् अभियायात् । १७ ।
 
-KAZ07.3.18 apratikārya.āsanna.vyasano vā jyāyān api saṃśrayeta | 18 |
+कज़्०७।३।१८ अप्रतिकार्य।आसन्न।व्यसनो वा ज्यायान् अपि संश्रयेत । १८ ।
 
-KAZ07.3.19 sandhinā-ekato vigraheṇa-ekataś cet kārya.siddhiṃ paśyej jyāyān api dvaidhī.bhūtas tiṣṭhet | 19 |
+कज़्०७।३।१९ सन्धिना-एकतो विग्रहेण-एकतश् चेत् कार्य।सिद्धिं पश्येज् ज्यायान् अपि द्वैधी।भूतस् तिष्ठेत् । १९ ।
 
-KAZ07.3.20 evaṃ samasya ṣāḍguṇya.upayogaḥ | 20 |
+कज़्०७।३।२० एवं समस्य षाड्गुण्य।उपयोगः । २० ।
 
-KAZ07.3.21 tatra tu prativiśeṣaḥ | 21 |
+कज़्०७।३।२१ तत्र तु प्रतिविशेषः । २१ ।
 
-KAZ07.3.22ab pravṛtta.cakreṇa-ākrānto rājñā balavatā-abalaḥ |  
-KAZ07.3.22cd sandhinā-upanamet tūrṇaṃ kośa.daṇḍa.ātma.bhūmibhiḥ || 22 ||  
-
-
-KAZ07.3.23ab svayaṃ saṅkhyāta.daṇḍena daṇḍasya vibhavena vā |  
-KAZ07.3.23cd upasthātavyam ity eṣa sandhir ātma.āmiṣo mataḥ || 23 ||  
+कज़्०७।३।२२अब् प्रवृत्त।चक्रेण-आक्रान्तो राज्ञा बलवता-अबलः ।  
+कज़्०७।३।२२च्द् सन्धिना-उपनमेत् तूर्णं कोश।दण्ड।आत्म।भूमिभिः ॥ २२ ॥  
 
 
-KAZ07.3.24ab senā.pati.kumārābhyām upasthātavyam ity ayam |  
-KAZ07.3.24cd puruṣa.antara.sandhiḥ syān na-ātmanā-ity ātma.rakṣaṇaḥ || 24 ||  
+कज़्०७।३।२३अब् स्वयं सङ्ख्यात।दण्डेन दण्डस्य विभवेन वा ।  
+कज़्०७।३।२३च्द् उपस्थातव्यम् इत्य् एष सन्धिर् आत्म।आमिषो मतः ॥ २३ ॥  
 
 
-KAZ07.3.25ab ekena-anyatra yātavyaṃ svayaṃ daṇḍena vā-ity ayam |  
-KAZ07.3.25cd adṛṣṭa.puruṣaḥ sandhir daṇḍa.mukhya.ātma.rakṣaṇaḥ || 25 ||  
+कज़्०७।३।२४अब् सेना।पति।कुमाराभ्याम् उपस्थातव्यम् इत्य् अयम् ।  
+कज़्०७।३।२४च्द् पुरुष।अन्तर।सन्धिः स्यान् न-आत्मना-इत्य् आत्म।रक्षणः ॥ २४ ॥  
 
 
-KAZ07.3.26ab mukhya.strī.bandhanaṃ kuryāt pūrvayoḥ paścime tv arim |  
-KAZ07.3.26cd sādhayed gūḍham ity ete daṇḍa.upanata.sandhayaḥ || 26 ||  
+कज़्०७।३।२५अब् एकेन-अन्यत्र यातव्यं स्वयं दण्डेन वा-इत्य् अयम् ।  
+कज़्०७।३।२५च्द् अदृष्ट।पुरुषः सन्धिर् दण्ड।मुख्य।आत्म।रक्षणः ॥ २५ ॥  
 
 
-KAZ07.3.27ab kośa.dānena śeṣāṇāṃ prakṛtīnāṃ vimokṣaṇam |  
-KAZ07.3.27cd parikrayo bhavet sandhiḥ sa eva ca yathā.sukham || 27 ||  
+कज़्०७।३।२६अब् मुख्य।स्त्री।बन्धनं कुर्यात् पूर्वयोः पश्चिमे त्व् अरिम् ।  
+कज़्०७।३।२६च्द् साधयेद् गूढम् इत्य् एते दण्ड।उपनत।सन्धयः ॥ २६ ॥  
 
 
-KAZ07.3.28ab skandha.upaneyo bahudhā jñeyaḥ sandhir upagrahaḥ |  
-KAZ07.3.28cd niruddho deśa.kālābhyām atyayaḥ syād upagrahaḥ || 28 ||  
+कज़्०७।३।२७अब् कोश।दानेन शेषाणां प्रकृतीनां विमोक्षणम् ।  
+कज़्०७।३।२७च्द् परिक्रयो भवेत् सन्धिः स एव च यथा।सुखम् ॥ २७ ॥  
 
 
-KAZ07.3.29ab viṣahya.dānād āyatyāṃ kṣamaḥ strī.bandhanād api |  
-KAZ07.3.29cd suvarṇa.sandhir viśvāsād ekī.bhāva.gato bhavet || 29 ||  
+कज़्०७।३।२८अब् स्कन्ध।उपनेयो बहुधा ज्ञेयः सन्धिर् उपग्रहः ।  
+कज़्०७।३।२८च्द् निरुद्धो देश।कालाभ्याम् अत्ययः स्याद् उपग्रहः ॥ २८ ॥  
 
 
-KAZ07.3.30ab viparītaḥ kapālaḥ syād atyādāna.abhibhāṣitaḥ |  
-KAZ07.3.30cd pūrvayoḥ praṇayet kupyaṃ hasty.aśvaṃ vā gara.anvitam || 30 ||  
+कज़्०७।३।२९अब् विषह्य।दानाद् आयत्यां क्षमः स्त्री।बन्धनाद् अपि ।  
+कज़्०७।३।२९च्द् सुवर्ण।सन्धिर् विश्वासाद् एकी।भाव।गतो भवेत् ॥ २९ ॥  
 
 
-KAZ07.3.31ab tṛtīye praṇayed arthaṃ kathayan karmaṇāṃ kṣayam |  
-KAZ07.3.31cd tiṣṭhec caturtha ity ete kośa.upanata.sandhayaḥ || 31 ||  
+कज़्०७।३।३०अब् विपरीतः कपालः स्याद् अत्यादान।अभिभाषितः ।  
+कज़्०७।३।३०च्द् पूर्वयोः प्रणयेत् कुप्यं हस्त्य्।अश्वं वा गर।अन्वितम् ॥ ३० ॥  
 
 
-KAZ07.3.32ab bhūmy.eka.deśa.tyāgena śeṣa.prakṛti.rakṣaṇam |  
-KAZ07.3.32cd ādiṣṭa.sandhis tatra-iṣṭo gūḍha.stena.upaghātinaḥ || 32 ||  
+कज़्०७।३।३१अब् तृतीये प्रणयेद् अर्थं कथयन् कर्मणां क्षयम् ।  
+कज़्०७।३।३१च्द् तिष्ठेच् चतुर्थ इत्य् एते कोश।उपनत।सन्धयः ॥ ३१ ॥  
 
 
-KAZ07.3.33ab bhūmīnām ātta.sārāṇāṃ mūla.varjaṃ praṇāmanam |  
-KAZ07.3.33cd ucchinna.sandhis tatra-iṣṭaḥ para.vyasana.kāṅkṣiṇaḥ || 33 ||  
+कज़्०७।३।३२अब् भूम्य्।एक।देश।त्यागेन शेष।प्रकृति।रक्षणम् ।  
+कज़्०७।३।३२च्द् आदिष्ट।सन्धिस् तत्र-इष्टो गूढ।स्तेन।उपघातिनः ॥ ३२ ॥  
 
 
-KAZ07.3.34ab phala.dānena bhūmīnāṃ mokṣaṇaṃ syād avakrayaḥ |  
-KAZ07.3.34cd phala.atimukto bhūmibhyaḥ sandhiḥ sa paridūṣaṇaḥ || 34 ||  
+कज़्०७।३।३३अब् भूमीनाम् आत्त।साराणां मूल।वर्जं प्रणामनम् ।  
+कज़्०७।३।३३च्द् उच्छिन्न।सन्धिस् तत्र-इष्टः पर।व्यसन।काङ्क्षिणः ॥ ३३ ॥  
 
 
-KAZ07.3.35ab kuryād avekṣaṇaṃ pūrvau paścimau tv ābalīyasam |  
-KAZ07.3.35cd ādāya phalam ity ete deśa.upanata.sandhayaḥ || 35 ||  
+कज़्०७।३।३४अब् फल।दानेन भूमीनां मोक्षणं स्याद् अवक्रयः ।  
+कज़्०७।३।३४च्द् फल।अतिमुक्तो भूमिभ्यः सन्धिः स परिदूषणः ॥ ३४ ॥  
 
 
-KAZ07.3.36ab sva.kāryāṇāṃ vaśena-ete deśe kāle ca bhāṣitāḥ |  
-KAZ07.3.36cd ābalīyasikāḥ kāryās trividhā hīna.sandhayaḥ || 36 ||  
+कज़्०७।३।३५अब् कुर्याद् अवेक्षणं पूर्वौ पश्चिमौ त्व् आबलीयसम् ।  
+कज़्०७।३।३५च्द् आदाय फलम् इत्य् एते देश।उपनत।सन्धयः ॥ ३५ ॥  
+
+
+कज़्०७।३।३६अब् स्व।कार्याणां वशेन-एते देशे काले च भाषिताः ।  
+कज़्०७।३।३६च्द् आबलीयसिकाः कार्यास् त्रिविधा हीन।सन्धयः ॥ ३६ ॥  
 
 
  छप्तेर् ४ (सेच्तिओन्स् १०३; १०४; १०५; १०६; १०७): स्तयिन्ग् क़ुइएत् अड़्तेर् मकिन्ग् Wअर्; स्तयिन्ग् क़ुइएत् अड़्तेर् मकिन्ग् पेअचे; मर्छिन्ग् अड़्तेर् मकिन्ग् Wअर्; मर्छिन्ग् अड़्तेर् मकिन्ग् पेअचे; मर्छिन्ग् wइथ् ओथेर् किन्ग्स्
@@ -7422,132 +7421,132 @@ KAZ07.3.36cd ābalīyasikāḥ kāryās trividhā hīna.sandhayaḥ || 36 ||
 कज़्०७।४।२२च्द् विलोपो वा यथा।लाभं प्रक्षेप।सम एव वा ॥ २२ ॥  
 
 
- Chapter 5 (Sections 108; 109; 110): Considerations about Attack on a Vulnerable King and the Enemy; Causes Leading to Decline, Greed and Disaffection among Subjects; Confederated Allies
- \[K tr. 386\] ,  \[K2 tr. 334\] 
-KAZ07.5.01 tulya.sāmanta.vyasane yātavyam amitraṃ vā-ity amitram abhiyāyāt, tat.siddhau yātavyam | 1 |
+ छप्तेर् ५ (सेच्तिओन्स् १०८; १०९; ११०): चोन्सिदेरतिओन्स् अबोउत् अत्तच्क् ओन् अ वुल्नेरब्ले किन्ग् अन्द् थे एनेम्य्; चौसेस् लेअदिन्ग् तो देच्लिने, ग्रेएद् अन्द् दिसड़्ड़ेच्तिओन् अमोन्ग् सुब्जेच्त्स्; चोन्ड़ेदेरतेद् अल्लिएस्
+ \[क् त्र्। ३८६\] ,  \[क्२ त्र्। ३३४\] 
+कज़्०७।५।०१ तुल्य।सामन्त।व्यसने यातव्यम् अमित्रं वा-इत्य् अमित्रम् अभियायात्, तत्।सिद्धौ यातव्यम् । १ ।
 
-KAZ07.5.02 amitra.siddhau hi yātavyaḥ sāhāyyaṃ dadyān na-amitro yātavya.siddhau | 2 |
+कज़्०७।५।०२ अमित्र।सिद्धौ हि यातव्यः साहाय्यं दद्यान् न-अमित्रो यातव्य।सिद्धौ । २ ।
 
-KAZ07.5.03 guru.vyasanaṃ yātavyaṃ laghu.vyasanam amitraṃ vā-iti "guru.vyasanaṃ saukaryato yāyād" ity ācāryāḥ | 3 |
+कज़्०७।५।०३ गुरु।व्यसनं यातव्यं लघु।व्यसनम् अमित्रं वा-इति "गुरु।व्यसनं सौकर्यतो यायाद्" इत्य् आचार्याः । ३ ।
 
-KAZ07.5.04 na-iti kauṭilyaḥ | 4 |
+कज़्०७।५।०४ न-इति कौटिल्यः । ४ ।
 
-KAZ07.5.05 laghu.vyasanam amitraṃ yāyāt | 5 |
+कज़्०७।५।०५ लघु।व्यसनम् अमित्रं यायात् । ५ ।
 
-KAZ07.5.06 laghv api hi vyasanam abhiyuktasya kṛcchraṃ bhavati | 6 |
+कज़्०७।५।०६ लघ्व् अपि हि व्यसनम् अभियुक्तस्य कृच्छ्रं भवति । ६ ।
 
-KAZ07.5.07 satyaṃ gurv api gurutaraṃ bhavati | 7 |
+कज़्०७।५।०७ सत्यं गुर्व् अपि गुरुतरं भवति । ७ ।
 
-KAZ07.5.08 anabhiyuktas tu laghu.vyasanaḥ sukhena vyasanaṃ pratikṛtya-amitro yātavyam abhisaret, pārṣṇiṃ vā gṛhṇīyāt | 8 |
+कज़्०७।५।०८ अनभियुक्तस् तु लघु।व्यसनः सुखेन व्यसनं प्रतिकृत्य-अमित्रो यातव्यम् अभिसरेत्, पार्ष्णिं वा गृह्णीयात् । ८ ।
 
-KAZ07.5.09 yātavya.yaugapadye guru.vyasanaṃ nyāya.vṛttiṃ laghu.vyasanam anyāya.vṛttiṃ virakta.prakṛtiṃ vā-iti virakta.prakṛtiṃ yāyāt | 9 |
+कज़्०७।५।०९ यातव्य।यौगपद्ये गुरु।व्यसनं न्याय।वृत्तिं लघु।व्यसनम् अन्याय।वृत्तिं विरक्त।प्रकृतिं वा-इति विरक्त।प्रकृतिं यायात् । ९ ।
 
-KAZ07.5.10 guru.vyasanaṃ nyāya.vṛttim abhiyuktaṃ prakṛtayo 'nugṛhṇanti, laghu.vyasanam anyāya.vṛttim upekṣante, viraktā balavantam apy ucchindanti | 10 |
+कज़्०७।५।१० गुरु।व्यसनं न्याय।वृत्तिम् अभियुक्तं प्रकृतयो ऽनुगृह्णन्ति, लघु।व्यसनम् अन्याय।वृत्तिम् उपेक्षन्ते, विरक्ता बलवन्तम् अप्य् उच्छिन्दन्ति । १० ।
 
-KAZ07.5.11 tasmād virakta.prakṛtim eva yāyāt | 11 |
+कज़्०७।५।११ तस्माद् विरक्त।प्रकृतिम् एव यायात् । ११ ।
 
-KAZ07.5.12 kṣīṇa.lubdha.prakṛtim apacarita.prakṛtiṃ vā-iti kṣīṇa.lubdha.prakṛtiṃ yāyāt, kṣīṇa.lubdhā hi prakṛtayaḥ sukhena-upajāpaṃ pīḍāṃ vā-upagacchanti, na-apacaritāḥ pradhāna.avagraha.sādhyāḥ" ity ācāryāḥ | 12 |
+कज़्०७।५।१२ क्षीण।लुब्ध।प्रकृतिम् अपचरित।प्रकृतिं वा-इति क्षीण।लुब्ध।प्रकृतिं यायात्, क्षीण।लुब्धा हि प्रकृतयः सुखेन-उपजापं पीडां वा-उपगच्छन्ति, न-अपचरिताः प्रधान।अवग्रह।साध्याः" इत्य् आचार्याः । १२ ।
 
-KAZ07.5.13 na-iti kauṭilyaḥ | 13 |
+कज़्०७।५।१३ न-इति कौटिल्यः । १३ ।
 
-KAZ07.5.14 kṣīṇa.lubdhā hi prakṛtayo bhartari snigdhā bhartṛ.hite tiṣṭhanti, upajāpaṃ vā visaṃvādayanti, anurāge sārvaguṇyam iti | 14 |
+कज़्०७।५।१४ क्षीण।लुब्धा हि प्रकृतयो भर्तरि स्निग्धा भर्तृ।हिते तिष्ठन्ति, उपजापं वा विसंवादयन्ति, अनुरागे सार्वगुण्यम् इति । १४ ।
 
-KAZ07.5.15 tasmād apacarita.prakṛtim eva yāyāt | 15 |
+कज़्०७।५।१५ तस्माद् अपचरित।प्रकृतिम् एव यायात् । १५ ।
 
-KAZ07.5.16 balavantam anyāya.vṛttiṃ durbalaṃ vā nyāya.vṛttim iti balavantam anyāya.vṛttiṃ yāyāt | 16 |
+कज़्०७।५।१६ बलवन्तम् अन्याय।वृत्तिं दुर्बलं वा न्याय।वृत्तिम् इति बलवन्तम् अन्याय।वृत्तिं यायात् । १६ ।
 
-KAZ07.5.17 balavantam anyāya.vṛttim abhiyuktaṃ prakṛtayo na-anugṛhṇanti, niṣpātayanti, amitraṃ vā-asya bhajante | 17 |
+कज़्०७।५।१७ बलवन्तम् अन्याय।वृत्तिम् अभियुक्तं प्रकृतयो न-अनुगृह्णन्ति, निष्पातयन्ति, अमित्रं वा-अस्य भजन्ते । १७ ।
 
-KAZ07.5.18 durbalaṃ tu nyāya.vṛttim abhiyuktaṃ prakṛtayaḥ parigṛhṇanti, anuniṣpatanti vā | 18 |
+कज़्०७।५।१८ दुर्बलं तु न्याय।वृत्तिम् अभियुक्तं प्रकृतयः परिगृह्णन्ति, अनुनिष्पतन्ति वा । १८ ।
 
-KAZ07.5.19ab avakṣepeṇa hi satām asatāṃ pragraheṇa ca |  
-KAZ07.5.19cd abhūtānāṃ ca hiṃsānām adharmyāṇāṃ pravartanaiḥ || 19 ||  
-
-
-KAZ07.5.20ab ucitānāṃ caritrāṇāṃ dharmiṣṭhānāṃ nivartanaiḥ |  
-KAZ07.5.20cd adharmasya prasaṅgena dharmasya-avagraheṇa ca || 20 ||  
+कज़्०७।५।१९अब् अवक्षेपेण हि सताम् असतां प्रग्रहेण च ।  
+कज़्०७।५।१९च्द् अभूतानां च हिंसानाम् अधर्म्याणां प्रवर्तनैः ॥ १९ ॥  
 
 
-KAZ07.5.21ab akāryāṇāṃ ca karaṇaiḥ kāryāṇāṃ ca praṇāśanaiḥ |  
-KAZ07.5.21cd apradānaiś ca deyānām adeyānāṃ ca sādhanaiḥ || 21 ||  
+कज़्०७।५।२०अब् उचितानां चरित्राणां धर्मिष्ठानां निवर्तनैः ।  
+कज़्०७।५।२०च्द् अधर्मस्य प्रसङ्गेन धर्मस्य-अवग्रहेण च ॥ २० ॥  
 
 
-KAZ07.5.22ab adaṇḍanaiś ca daṇḍyānām adaṇḍyānāṃ ca daṇḍanaiḥ |  
-KAZ07.5.22cd agrāhyāṇām upagrāhair grāhyāṇāṃ ca-anabhigrahaiḥ || 22 ||  
+कज़्०७।५।२१अब् अकार्याणां च करणैः कार्याणां च प्रणाशनैः ।  
+कज़्०७।५।२१च्द् अप्रदानैश् च देयानाम् अदेयानां च साधनैः ॥ २१ ॥  
 
 
-KAZ07.5.23ab anarthyānāṃ ca karaṇair arthyānāṃ ca vighātanaiḥ |  
-KAZ07.5.23cd arakṣaṇaiś ca corebhyaḥ svayaṃ ca parimoṣaṇaiḥ || 23 ||  
+कज़्०७।५।२२अब् अदण्डनैश् च दण्ड्यानाम् अदण्ड्यानां च दण्डनैः ।  
+कज़्०७।५।२२च्द् अग्राह्याणाम् उपग्राहैर् ग्राह्याणां च-अनभिग्रहैः ॥ २२ ॥  
 
 
-KAZ07.5.24ab pātaiḥ puruṣa.kārāṇāṃ karmaṇāṃ guṇa.dūṣaṇaiḥ |  
-KAZ07.5.24cd upaghātaiḥ pradhānānāṃ mānyānāṃ ca-avamānanaiḥ || 24 ||  
+कज़्०७।५।२३अब् अनर्थ्यानां च करणैर् अर्थ्यानां च विघातनैः ।  
+कज़्०७।५।२३च्द् अरक्षणैश् च चोरेभ्यः स्वयं च परिमोषणैः ॥ २३ ॥  
 
 
-KAZ07.5.25ab virodhanaiś ca vṛddhānāṃ vaiṣamyeṇa-anṛtena ca |  
-KAZ07.5.25cd kṛtasya-apratikāreṇa sthitasya-akaraṇena ca || 25 ||  
+कज़्०७।५।२४अब् पातैः पुरुष।काराणां कर्मणां गुण।दूषणैः ।  
+कज़्०७।५।२४च्द् उपघातैः प्रधानानां मान्यानां च-अवमाननैः ॥ २४ ॥  
 
 
-KAZ07.5.26ab rājñaḥ pramāda.ālasyābhyāṃ yoga.kṣema.vadhena vā |  
-KAZ07.5.26cd prakṛtīnāṃ kṣayo lobho vairāgyaṃ ca-upajāyate || 26 ||  
+कज़्०७।५।२५अब् विरोधनैश् च वृद्धानां वैषम्येण-अनृतेन च ।  
+कज़्०७।५।२५च्द् कृतस्य-अप्रतिकारेण स्थितस्य-अकरणेन च ॥ २५ ॥  
 
 
-KAZ07.5.27ab kṣīṇāḥ prakṛtayo lobhaṃ lubdhā yānti virāgatām |  
-KAZ07.5.27cd viraktā yānty amitraṃ vā bhartāraṃ ghnanti vā svayam || 27 ||  
+कज़्०७।५।२६अब् राज्ञः प्रमाद।आलस्याभ्यां योग।क्षेम।वधेन वा ।  
+कज़्०७।५।२६च्द् प्रकृतीनां क्षयो लोभो वैराग्यं च-उपजायते ॥ २६ ॥  
 
 
-KAZ07.5.28 tasmāt prakṛtīnāṃ kṣaya.lobha.virāga.kāraṇāni na-utpādayet, utpannāni vā sadyaḥ pratikurvīta | 28 |
-
-KAZ07.5.29 kṣīṇā lubdhā viraktā vā prakṛtaya iti | 29 |
-
-KAZ07.5.30 kṣīṇāḥ pīḍana.ucchedana.bhayāt sadyaḥ sandhiṃ yuddhaṃ niṣpatanaṃ vā rocayante | 30 |
-
-KAZ07.5.31 lubdhā lobhena-asantuṣṭāḥ para.upajāpaṃ lipsante | 31 |
-
-KAZ07.5.32 viraktāḥ para.abhiyogam abhyuttiṣṭhante | 32 |
-
-KAZ07.5.33 tāsāṃ hiraṇya.dhānya.kṣayaḥ sarva.upaghātī kṛcchra.pratīkāraś ca, yugya.puruṣa.kṣayo hiraṇya.dhānya.sādhyaḥ | 33 |
-
-KAZ07.5.34 lobha aikadeśiko mukhya.āyattaḥ para.artheṣu śakyaḥ pratihantum ādātuṃ vā | 34 |
-
-KAZ07.5.35 virāgaḥ pradhāna.avagraha.sādhyaḥ | 35 |
-
-KAZ07.5.36 niṣpradhānā hi prakṛtayo bhogyā bhavanty anupajāpyāś ca-anyeṣām, anāpat.sahās tu | 36 |
-
-KAZ07.5.37 prakṛti.mukhya.pragrahais tu bahudhā bhinnā guptā bhavanty āpat.sahāś ca | 37 |
-
-KAZ07.5.38 sāmavāyikānām api sandhi.vigraha.kāraṇāny avekṣya śakti.śauca.yuktaiḥ sambhūya yāyāt | 38 |
-
-KAZ07.5.39 śaktimān hi pārṣṇi.grahaṇe yātrā.sāhāyya.dāne vā śaktaḥ, śuciḥ siddhau ca-asiddhau ca yathā.sthita.kārī-iti | 39 |
-
-KAZ07.5.40 teṣāṃ jyāyasā-ekena dvābhyāṃ samābhyāṃ vā sambhūya yātavyam iti dvābhyāṃ samābhyāṃ śreyaḥ | 40 |
-
-KAZ07.5.41 jyāyasā hy avagṛhītaś carati, samābhyām atisandhāna.ādhikye vā | 41 |
-
-KAZ07.5.42 tau hi sukhau bhedayitum, duṣṭaś ca-eko dvābhyāṃ niyantuṃ bheda.upagrahaṃ ca-upagantum iti | 42 |
-
-KAZ07.5.43 samena-ekena dvābhyāṃ hīnābhyāṃ vā-iti dvābhyāṃ hīnābhyāṃ śreyaḥ | 43 |
-
-KAZ07.5.44 tau hi dvi.kārya.sādhakau vaśyau ca bhavataḥ | 44 |
-
-KAZ07.5.45ab kārya.siddhau tu - kṛta.arthāj jyāyaso gūḍhaḥ sa.apadeśam apasravet |  
-KAZ07.5.45cd aśuceḥ śuci.vṛttāt tu pratīkṣeta-ā visarjanāt || 45 ||  
+कज़्०७।५।२७अब् क्षीणाः प्रकृतयो लोभं लुब्धा यान्ति विरागताम् ।  
+कज़्०७।५।२७च्द् विरक्ता यान्त्य् अमित्रं वा भर्तारं घ्नन्ति वा स्वयम् ॥ २७ ॥  
 
 
-KAZ07.5.46ab sattrād apasared yattaḥ kalatram apanīya vā |  
-KAZ07.5.46cd samād api hi labdha.arthād viśvas tasya bhayaṃ bhavet || 46 ||  
+कज़्०७।५।२८ तस्मात् प्रकृतीनां क्षय।लोभ।विराग।कारणानि न-उत्पादयेत्, उत्पन्नानि वा सद्यः प्रतिकुर्वीत । २८ ।
+
+कज़्०७।५।२९ क्षीणा लुब्धा विरक्ता वा प्रकृतय इति । २९ ।
+
+कज़्०७।५।३० क्षीणाः पीडन।उच्छेदन।भयात् सद्यः सन्धिं युद्धं निष्पतनं वा रोचयन्ते । ३० ।
+
+कज़्०७।५।३१ लुब्धा लोभेन-असन्तुष्टाः पर।उपजापं लिप्सन्ते । ३१ ।
+
+कज़्०७।५।३२ विरक्ताः पर।अभियोगम् अभ्युत्तिष्ठन्ते । ३२ ।
+
+कज़्०७।५।३३ तासां हिरण्य।धान्य।क्षयः सर्व।उपघाती कृच्छ्र।प्रतीकारश् च, युग्य।पुरुष।क्षयो हिरण्य।धान्य।साध्यः । ३३ ।
+
+कज़्०७।५।३४ लोभ ऐकदेशिको मुख्य।आयत्तः पर।अर्थेषु शक्यः प्रतिहन्तुम् आदातुं वा । ३४ ।
+
+कज़्०७।५।३५ विरागः प्रधान।अवग्रह।साध्यः । ३५ ।
+
+कज़्०७।५।३६ निष्प्रधाना हि प्रकृतयो भोग्या भवन्त्य् अनुपजाप्याश् च-अन्येषाम्, अनापत्।सहास् तु । ३६ ।
+
+कज़्०७।५।३७ प्रकृति।मुख्य।प्रग्रहैस् तु बहुधा भिन्ना गुप्ता भवन्त्य् आपत्।सहाश् च । ३७ ।
+
+कज़्०७।५।३८ सामवायिकानाम् अपि सन्धि।विग्रह।कारणान्य् अवेक्ष्य शक्ति।शौच।युक्तैः सम्भूय यायात् । ३८ ।
+
+कज़्०७।५।३९ शक्तिमान् हि पार्ष्णि।ग्रहणे यात्रा।साहाय्य।दाने वा शक्तः, शुचिः सिद्धौ च-असिद्धौ च यथा।स्थित।कारी-इति । ३९ ।
+
+कज़्०७।५।४० तेषां ज्यायसा-एकेन द्वाभ्यां समाभ्यां वा सम्भूय यातव्यम् इति द्वाभ्यां समाभ्यां श्रेयः । ४० ।
+
+कज़्०७।५।४१ ज्यायसा ह्य् अवगृहीतश् चरति, समाभ्याम् अतिसन्धान।आधिक्ये वा । ४१ ।
+
+कज़्०७।५।४२ तौ हि सुखौ भेदयितुम्, दुष्टश् च-एको द्वाभ्यां नियन्तुं भेद।उपग्रहं च-उपगन्तुम् इति । ४२ ।
+
+कज़्०७।५।४३ समेन-एकेन द्वाभ्यां हीनाभ्यां वा-इति द्वाभ्यां हीनाभ्यां श्रेयः । ४३ ।
+
+कज़्०७।५।४४ तौ हि द्वि।कार्य।साधकौ वश्यौ च भवतः । ४४ ।
+
+कज़्०७।५।४५अब् कार्य।सिद्धौ तु - कृत।अर्थाज् ज्यायसो गूढः स।अपदेशम् अपस्रवेत् ।  
+कज़्०७।५।४५च्द् अशुचेः शुचि।वृत्तात् तु प्रतीक्षेत-आ विसर्जनात् ॥ ४५ ॥  
 
 
-KAZ07.5.47ab jyāyastve ca-api labdha.arthaḥ samo 'pi parikalpate |  
-KAZ07.5.47cd abhyuccitaś ca-aviśvāsyo vṛddhiś citta.vikāriṇī || 47 ||  
+कज़्०७।५।४६अब् सत्त्राद् अपसरेद् यत्तः कलत्रम् अपनीय वा ।  
+कज़्०७।५।४६च्द् समाद् अपि हि लब्ध।अर्थाद् विश्वस् तस्य भयं भवेत् ॥ ४६ ॥  
 
 
-KAZ07.5.48ab viśiṣṭād alpam apy aṃśaṃ labdhvā tuṣṭa.mukho vrajet |  
-KAZ07.5.48cd anaṃśo vā tato 'sya-aṅke prahṛtya dvi.guṇaṃ haret || 48 ||  
+कज़्०७।५।४७अब् ज्यायस्त्वे च-अपि लब्ध।अर्थः समो ऽपि परिकल्पते ।  
+कज़्०७।५।४७च्द् अभ्युच्चितश् च-अविश्वास्यो वृद्धिश् चित्त।विकारिणी ॥ ४७ ॥  
 
 
-KAZ07.5.49ab kṛta.arthas tu svayaṃ netā visṛjet sāmavāyikān |  
-KAZ07.5.49cd api jīyeta na jayen maṇḍala.iṣṭas tathā bhavet || 49 ||  
+कज़्०७।५।४८अब् विशिष्टाद् अल्पम् अप्य् अंशं लब्ध्वा तुष्ट।मुखो व्रजेत् ।  
+कज़्०७।५।४८च्द् अनंशो वा ततो ऽस्य-अङ्के प्रहृत्य द्वि।गुणं हरेत् ॥ ४८ ॥  
+
+
+कज़्०७।५।४९अब् कृत।अर्थस् तु स्वयं नेता विसृजेत् सामवायिकान् ।  
+कज़्०७।५।४९च्द् अपि जीयेत न जयेन् मण्डल।इष्टस् तथा भवेत् ॥ ४९ ॥  
 
 
  छप्तेर् ६ (सेच्तिओन्स् १११; ११२): मर्छ् ओड़् त्wओ अल्लिएद् किन्ग्स्; त्रेअतिएस् wइथ् स्तिपुलतिओन्स्, wइथोउत् स्तिपुलतिओन्स् अन्द् wइथ् देसेर्तेर्स्
@@ -7652,70 +7651,70 @@ KAZ07.5.49cd api jīyeta na jayen maṇḍala.iṣṭas tathā bhavet || 49 ||
 कज़्०७।६।४१च्द् योग।गूढ।उपजाप।अर्थं तूष्णीं।युद्धस्य लक्षणम् ॥ ४१ ॥  
 
 
- Chapter 7 (Section 113): Peace and War Connected with Dual Policy
- \[K tr. 396\] ,  \[K2 tr. 342\] 
-KAZ07.7.01 vijigīṣur dvitīyāṃ prakṛtim evam upagṛhṇīyāt | 1 |
+ छप्तेर् ७ (सेच्तिओन् ११३): पेअचे अन्द् Wअर् चोन्नेच्तेद् wइथ् दुअल् पोलिच्य्
+ \[क् त्र्। ३९६\] ,  \[क्२ त्र्। ३४२\] 
+कज़्०७।७।०१ विजिगीषुर् द्वितीयां प्रकृतिम् एवम् उपगृह्णीयात् । १ ।
 
-KAZ07.7.02 sāmantaṃ sāmantena sambhūya yāyāt, yadi vā manyeta "pārṣṇiṃ me na grahīṣyati, pārṣṇi.grāhaṃ vārayiṣyati, yātavyaṃ na-abhisariṣyati, bala.dvaiguṇyaṃ me bhaviṣyati, vīvadha.āsārau me pravartayiṣyati, parasya vārayiṣyati, bahv.ābādhe me pathi kaṇṭakān mardayiṣyati, durga.aṭavy.apasāreṣu daṇḍena cariṣyati, yātavyam aviṣahye doṣe sandhau vā sthāpayiṣyati, labdha.lābha.aṃśo vā śatrūn anyān me viśvāsayiṣyati" iti | 2 |
+कज़्०७।७।०२ सामन्तं सामन्तेन सम्भूय यायात्, यदि वा मन्येत "पार्ष्णिं मे न ग्रहीष्यति, पार्ष्णि।ग्राहं वारयिष्यति, यातव्यं न-अभिसरिष्यति, बल।द्वैगुण्यं मे भविष्यति, वीवध।आसारौ मे प्रवर्तयिष्यति, परस्य वारयिष्यति, बह्व्।आबाधे मे पथि कण्टकान् मर्दयिष्यति, दुर्ग।अटव्य्।अपसारेषु दण्डेन चरिष्यति, यातव्यम् अविषह्ये दोषे सन्धौ वा स्थापयिष्यति, लब्ध।लाभ।अंशो वा शत्रून् अन्यान् मे विश्वासयिष्यति" इति । २ ।
 
-KAZ07.7.03 dvaidhī.bhūto vā kośena daṇḍaṃ daṇḍena kośaṃ sāmantānām anyatamāl lipseta | 3 |
+कज़्०७।७।०३ द्वैधी।भूतो वा कोशेन दण्डं दण्डेन कोशं सामन्तानाम् अन्यतमाल् लिप्सेत । ३ ।
 
-KAZ07.7.04 teṣāṃ jyāyaso 'dhikena-aṃśena samāt samena hīnādd hīnena-iti sama.sandhiḥ | 4 |
+कज़्०७।७।०४ तेषां ज्यायसो ऽधिकेन-अंशेन समात् समेन हीनाद्द् हीनेन-इति सम।सन्धिः । ४ ।
 
-KAZ07.7.05 viparyaye viṣama.sandhiḥ | 5 |
+कज़्०७।७।०५ विपर्यये विषम।सन्धिः । ५ ।
 
-KAZ07.7.06 tayor viśeṣa.lābhād atisandhiḥ | 6 |
+कज़्०७।७।०६ तयोर् विशेष।लाभाद् अतिसन्धिः । ६ ।
 
-KAZ07.7.07 vyasaninam apāya.sthāne saktam anarthinaṃ vā jyāyāṃsaṃ hīno bala.samena lābhena paṇeta | 7 |
+कज़्०७।७।०७ व्यसनिनम् अपाय।स्थाने सक्तम् अनर्थिनं वा ज्यायांसं हीनो बल।समेन लाभेन पणेत । ७ ।
 
-KAZ07.7.08 paṇitas tasya-apakāra.samartho vikrameta, anyathā sandadhyāt | 8 |
+कज़्०७।७।०८ पणितस् तस्य-अपकार।समर्थो विक्रमेत, अन्यथा सन्दध्यात् । ८ ।
 
-KAZ07.7.09 evaṃ.bhūto vā hīna.śakti.pratāpa.pūraṇa.arthaṃ sambhāvya.artha.abhisārī mūla.pārṣṇi.trāṇa.arthaṃ vā jyāyāṃsaṃ hīno bala.samād viśiṣṭena lābhena paṇeta | 9 |
+कज़्०७।७।०९ एवं।भूतो वा हीन।शक्ति।प्रताप।पूरण।अर्थं सम्भाव्य।अर्थ।अभिसारी मूल।पार्ष्णि।त्राण।अर्थं वा ज्यायांसं हीनो बल।समाद् विशिष्टेन लाभेन पणेत । ९ ।
 
-KAZ07.7.10 paṇitaḥ kalyāṇa.buddhim anugṛhṇīyāt, anyathā vikrameta | 10 |
+कज़्०७।७।१० पणितः कल्याण।बुद्धिम् अनुगृह्णीयात्, अन्यथा विक्रमेत । १० ।
 
-KAZ07.7.11 jāta.vyasana.prakṛti.randhram upasthita.anarthaṃ vā jyāyāṃsaṃ hīno durga.mitra.pratiṣṭabdho vā hrasvam adhvānaṃ yātu.kāmaḥ śatrum ayuddham eka.anta.siddhiṃ vā lābham ādātu.kāmo bala.samādd hīnena lābhena paṇeta | 11 |
+कज़्०७।७।११ जात।व्यसन।प्रकृति।रन्ध्रम् उपस्थित।अनर्थं वा ज्यायांसं हीनो दुर्ग।मित्र।प्रतिष्टब्धो वा ह्रस्वम् अध्वानं यातु।कामः शत्रुम् अयुद्धम् एक।अन्त।सिद्धिं वा लाभम् आदातु।कामो बल।समाद्द् हीनेन लाभेन पणेत । ११ ।
 
-KAZ07.7.12 paṇitas tasya-apakāra.samartho vikrameta, anyathā sandadhyāt | 12 |
+कज़्०७।७।१२ पणितस् तस्य-अपकार।समर्थो विक्रमेत, अन्यथा सन्दध्यात् । १२ ।
 
-KAZ07.7.13 arandhra.vyasano vā jyāyān dur.ārabdha.karmāṇaṃ bhūyaḥ kṣaya.vyayābhyāṃ yoktu.kāmo dūṣya.daṇḍaṃ pravāsayitu.kāmo dūṣya.daṇḍam āvāhayitu.kāmo vā pīḍanīyam ucchedanīyaṃ vā hīnena vyathayitu.kāmaḥ sandhi.pradhāno vā kalyāṇa.buddhir hīnaṃ lābhaṃ pratigṛhṇīyāt | 13 |
+कज़्०७।७।१३ अरन्ध्र।व्यसनो वा ज्यायान् दुर्।आरब्ध।कर्माणं भूयः क्षय।व्ययाभ्यां योक्तु।कामो दूष्य।दण्डं प्रवासयितु।कामो दूष्य।दण्डम् आवाहयितु।कामो वा पीडनीयम् उच्छेदनीयं वा हीनेन व्यथयितु।कामः सन्धि।प्रधानो वा कल्याण।बुद्धिर् हीनं लाभं प्रतिगृह्णीयात् । १३ ।
 
-KAZ07.7.14 kalyāṇa.buddhinā sambhūya-arthaṃ lipseta, anyathā vikrameta | 14 |
+कज़्०७।७।१४ कल्याण।बुद्धिना सम्भूय-अर्थं लिप्सेत, अन्यथा विक्रमेत । १४ ।
 
-KAZ07.7.15 evaṃ samaḥ samam atisandadhyād anugṛhṇīyād vā | 15 |
+कज़्०७।७।१५ एवं समः समम् अतिसन्दध्याद् अनुगृह्णीयाद् वा । १५ ।
 
-KAZ07.7.16 para.anīkasya pratyanīkaṃ mitra.aṭavīnāṃ vā, śatror vibhūmīnāṃ deśikaṃ mūla.pārṣṇi.trāṇa.arthaṃ vā samo bala.samena lābhena paṇeta | 16 |
+कज़्०७।७।१६ पर।अनीकस्य प्रत्यनीकं मित्र।अटवीनां वा, शत्रोर् विभूमीनां देशिकं मूल।पार्ष्णि।त्राण।अर्थं वा समो बल।समेन लाभेन पणेत । १६ ।
 
-KAZ07.7.17 paṇitaḥ kalyāṇa.buddhim anugṛhṇīyāt, anyathā vikrameta | 17 |
+कज़्०७।७।१७ पणितः कल्याण।बुद्धिम् अनुगृह्णीयात्, अन्यथा विक्रमेत । १७ ।
 
-KAZ07.7.18 jāta.vyasana.prakṛti.randhram aneka.viruddham anyato labhamāno vā samo bala.samādd hīnena lābhena paṇeta | 18 |
+कज़्०७।७।१८ जात।व्यसन।प्रकृति।रन्ध्रम् अनेक।विरुद्धम् अन्यतो लभमानो वा समो बल।समाद्द् हीनेन लाभेन पणेत । १८ ।
 
-KAZ07.7.19 paṇitas tasya-apakāra.samartho vikrameta, anyathā sandadhyāt | 19 |
+कज़्०७।७।१९ पणितस् तस्य-अपकार।समर्थो विक्रमेत, अन्यथा सन्दध्यात् । १९ ।
 
-KAZ07.7.20 evaṃ.bhūto vā samaḥ sāmanta.āyatta.kāryaḥ kartavya.balo vā bala.samād viśiṣṭena lābhena paṇeta | 20 |
+कज़्०७।७।२० एवं।भूतो वा समः सामन्त।आयत्त।कार्यः कर्तव्य।बलो वा बल।समाद् विशिष्टेन लाभेन पणेत । २० ।
 
-KAZ07.7.21 paṇitaḥ kalyāṇa.buddhim anugṛhṇīyāt anyathā vikrameta | 21 |
+कज़्०७।७।२१ पणितः कल्याण।बुद्धिम् अनुगृह्णीयात् अन्यथा विक्रमेत । २१ ।
 
-KAZ07.7.22 jāta.vyasana.prakṛti.randhram abhihantu.kāmaḥ sv.ārabdham eka.anta.siddhiṃ vā-asya karma.upahantu.kāmo mūle yātrāyāṃ vā prahartu.kāmo yātavyād.bhūyo labhamāno vā jyāyāṃsaṃ hīnaṃ samaṃ vā bhūyo yāceta | 22 |
+कज़्०७।७।२२ जात।व्यसन।प्रकृति।रन्ध्रम् अभिहन्तु।कामः स्व्।आरब्धम् एक।अन्त।सिद्धिं वा-अस्य कर्म।उपहन्तु।कामो मूले यात्रायां वा प्रहर्तु।कामो यातव्याद्।भूयो लभमानो वा ज्यायांसं हीनं समं वा भूयो याचेत । २२ ।
 
-KAZ07.7.23 bhūyo vā yācitaḥ sva.bala.rakṣā.arthaṃ durdharṣam anya.durgam āsāram aṭavīṃ vā para.daṇḍena marditu.kāmaḥ prakṛṣṭe 'dhvani kāle vā para.daṇḍaṃ kṣaya.vyayābhyāṃ yoktu.kāmaḥ para.daṇḍena vā vivṛddhas tam eva-ucchettu.kāmaḥ para.daṇḍam ādātu.kāmo vā bhūyo dadyāt | 23 |
+कज़्०७।७।२३ भूयो वा याचितः स्व।बल।रक्षा।अर्थं दुर्धर्षम् अन्य।दुर्गम् आसारम् अटवीं वा पर।दण्डेन मर्दितु।कामः प्रकृष्टे ऽध्वनि काले वा पर।दण्डं क्षय।व्ययाभ्यां योक्तु।कामः पर।दण्डेन वा विवृद्धस् तम् एव-उच्छेत्तु।कामः पर।दण्डम् आदातु।कामो वा भूयो दद्यात् । २३ ।
 
-KAZ07.7.24 jyāyān vā hīnaṃ yātavya.apadeśena haste kartu.kāmaḥ param ucchidya vā tam eva-ucchettu.kāmaḥ, tyāgaṃ vā kṛtvā pratyādātu.kāmo bala.samād viśiṣṭena lābhena paṇeta | 24 |
+कज़्०७।७।२४ ज्यायान् वा हीनं यातव्य।अपदेशेन हस्ते कर्तु।कामः परम् उच्छिद्य वा तम् एव-उच्छेत्तु।कामः, त्यागं वा कृत्वा प्रत्यादातु।कामो बल।समाद् विशिष्टेन लाभेन पणेत । २४ ।
 
-KAZ07.7.25 paṇita-s tasya-apakāra.samartho vikrameta, anyathā sandadhyāt | 25 |
+कज़्०७।७।२५ पणित-स् तस्य-अपकार।समर्थो विक्रमेत, अन्यथा सन्दध्यात् । २५ ।
 
-KAZ07.7.26 yātavya.saṃhito vā tiṣṭhet, dūṣya.amitra.aṭavī.daṇḍaṃ vā-asmai dadyāt | 26 |
+कज़्०७।७।२६ यातव्य।संहितो वा तिष्ठेत्, दूष्य।अमित्र।अटवी।दण्डं वा-अस्मै दद्यात् । २६ ।
 
-KAZ07.7.27 jāta.vyasana.prakṛti.randhro vā jyāyān hīnaṃ bala.samena lābhena paṇeta | 27 |
+कज़्०७।७।२७ जात।व्यसन।प्रकृति।रन्ध्रो वा ज्यायान् हीनं बल।समेन लाभेन पणेत । २७ ।
 
-KAZ07.7.28 paṇitas tasya-apakāra.samartho vikrameta, anyathā sandadhyāt | 28 |
+कज़्०७।७।२८ पणितस् तस्य-अपकार।समर्थो विक्रमेत, अन्यथा सन्दध्यात् । २८ ।
 
-KAZ07.7.29 evaṃ.bhūtaṃ hīnaṃ jyāyān bala.samādd hīnena lābhena paṇeta | 29 |
+कज़्०७।७।२९ एवं।भूतं हीनं ज्यायान् बल।समाद्द् हीनेन लाभेन पणेत । २९ ।
 
-KAZ07.7.30 paṇitas tasya-apakāra.samartho vikrameta, anyathā sandadhyāt | 30 |
+कज़्०७।७।३० पणितस् तस्य-अपकार।समर्थो विक्रमेत, अन्यथा सन्दध्यात् । ३० ।
 
-KAZ07.7.31ab ādau budhyeta paṇitaḥ paṇamānaś ca kāraṇam |  
-KAZ07.7.31cd tato vitarkya.ubhayato yataḥ śreyaś tato vrajet || 31 ||  
+कज़्०७।७।३१अब् आदौ बुध्येत पणितः पणमानश् च कारणम् ।  
+कज़्०७।७।३१च्द् ततो वितर्क्य।उभयतो यतः श्रेयश् ततो व्रजेत् ॥ ३१ ॥  
 
 
  छप्तेर् ८ (सेच्तिओन्स् ११४; ११५): चोन्दुच्त् ओड़् थे किन्ग् अबोउत् तो बे अत्तच्केद्; अल्लिएस् ड़ित् तो बे हेल्पेद्
@@ -7790,138 +7789,138 @@ KAZ07.7.31cd tato vitarkya.ubhayato yataḥ śreyaś tato vrajet || 31 ||
 कज़्०७।८।३४च्द् सम।हीन।विशिष्टानाम् इत्य् उक्ताः सन्धि।विक्रमाः ॥ ३४ ॥  
 
 
- Chapter 9 (Section 116): Pacts for Securing an Ally, Money, Land and an Undertaking
- \[K tr. 404\] ,  \[K2 tr. 349\] 
-KAZ07.9.01 saṃhita.prayāṇe mitra.hiraṇya.bhūmi.lābhānām uttara.uttaro lābhaḥ śreyān | 1 |
+ छप्तेर् ९ (सेच्तिओन् ११६): पच्त्स् ड़ोर् सेचुरिन्ग् अन् अल्ल्य्, मोनेय्, लन्द् अन्द् अन् उन्देर्तकिन्ग्
+ \[क् त्र्। ४०४\] ,  \[क्२ त्र्। ३४९\] 
+कज़्०७।९।०१ संहित।प्रयाणे मित्र।हिरण्य।भूमि।लाभानाम् उत्तर।उत्तरो लाभः श्रेयान् । १ ।
 
-KAZ07.9.02 mitra.hiraṇye hi bhūmi.lābhād bhavataḥ, mitraṃ hiraṇya.lābhāt | 2 |
+कज़्०७।९।०२ मित्र।हिरण्ये हि भूमि।लाभाद् भवतः, मित्रं हिरण्य।लाभात् । २ ।
 
-KAZ07.9.03 yo vā lābhaḥ siddhaḥ śeṣayor anyataraṃ sādhayati | 3 |
+कज़्०७।९।०३ यो वा लाभः सिद्धः शेषयोर् अन्यतरं साधयति । ३ ।
 
-KAZ07.9.04 "tvaṃ ca-ahaṃ ca mitraṃ labhāvahe" ity evaṃ.ādidh sama.sandhiḥ | 4 |
+कज़्०७।९।०४ "त्वं च-अहं च मित्रं लभावहे" इत्य् एवं।आदिध् सम।सन्धिः । ४ ।
 
-KAZ07.9.05 "tvaṃ mitram" ity evaṃ.ādir viṣama.sandhiḥ | 5 |
+कज़्०७।९।०५ "त्वं मित्रम्" इत्य् एवं।आदिर् विषम।सन्धिः । ५ ।
 
-KAZ07.9.06 tayor viśeṣa.lābhād atisandhiḥ | 6 |
+कज़्०७।९।०६ तयोर् विशेष।लाभाद् अतिसन्धिः । ६ ।
 
-KAZ07.9.07 sama.sandhau tu yaḥ sampannaṃ mitraṃ mitra.kṛcchre vā mitram avāpnoti so 'tisandhatte | 7 |
+कज़्०७।९।०७ सम।सन्धौ तु यः सम्पन्नं मित्रं मित्र।कृच्छ्रे वा मित्रम् अवाप्नोति सो ऽतिसन्धत्ते । ७ ।
 
-KAZ07.9.08 āpadd hi sauhṛda.sthairyam utpādayati | 8 |
+कज़्०७।९।०८ आपद्द् हि सौहृद।स्थैर्यम् उत्पादयति । ८ ।
 
-KAZ07.9.09 mitra.kṛcchre 'pi nityam avaśyam anityaṃ vaśyaṃ vā-iti "nityam avaśyaṃ śreyaḥ, tadd hi anupakurvad api na-apakaroti" ity ācāryāḥ | 9 |
+कज़्०७।९।०९ मित्र।कृच्छ्रे ऽपि नित्यम् अवश्यम् अनित्यं वश्यं वा-इति "नित्यम् अवश्यं श्रेयः, तद्द् हि अनुपकुर्वद् अपि न-अपकरोति" इत्य् आचार्याः । ९ ।
 
-KAZ07.9.10 na-iti kauṭilyaḥ | 10 |
+कज़्०७।९।१० न-इति कौटिल्यः । १० ।
 
-KAZ07.9.11 vaśyam anityaṃ śreyaḥ | 11 |
+कज़्०७।९।११ वश्यम् अनित्यं श्रेयः । ११ ।
 
-KAZ07.9.12 yāvad upakaroti tāvan mitraṃ bhavati, upakāra.lakṣaṇaṃ mitram iti | 12 |
+कज़्०७।९।१२ यावद् उपकरोति तावन् मित्रं भवति, उपकार।लक्षणं मित्रम् इति । १२ ।
 
-KAZ07.9.13 vaśyayor api mahā.bhogam anityam alpa.bhogaṃ vā nityam iti "mahā.bhogam anityaṃ śreyaḥ, mahā.bhogam anityam alpa.kālena mahad.upakurvan mahānti vyaya.sthānāni pratikaroti" ity ācāryāḥ | 13 |
+कज़्०७।९।१३ वश्ययोर् अपि महा।भोगम् अनित्यम् अल्प।भोगं वा नित्यम् इति "महा।भोगम् अनित्यं श्रेयः, महा।भोगम् अनित्यम् अल्प।कालेन महद्।उपकुर्वन् महान्ति व्यय।स्थानानि प्रतिकरोति" इत्य् आचार्याः । १३ ।
 
-KAZ07.9.14 na-iti kauṭilyaḥ | 14 |
+कज़्०७।९।१४ न-इति कौटिल्यः । १४ ।
 
-KAZ07.9.15 nityam alpa.bhogaṃ śreyaḥ | 15 |
+कज़्०७।९।१५ नित्यम् अल्प।भोगं श्रेयः । १५ ।
 
-KAZ07.9.16 mahā.bhogam anityam upakāra.bhayād apakrāmati, upakṛtya vā pratyādātum īhate | 16 |
+कज़्०७।९।१६ महा।भोगम् अनित्यम् उपकार।भयाद् अपक्रामति, उपकृत्य वा प्रत्यादातुम् ईहते । १६ ।
 
-KAZ07.9.17 nityam alpa.bhogaṃ sātatyād alpam upakurvan mahatā kālena mahad upakaroti | 17 |
+कज़्०७।९।१७ नित्यम् अल्प।भोगं सातत्याद् अल्पम् उपकुर्वन् महता कालेन महद् उपकरोति । १७ ।
 
-KAZ07.9.18 guru.samutthaṃ mahan mitraṃ laghu.samuttham alpaṃ vā-iti "guru.samutthaṃ mahan mitraṃ pratāpa.karaṃ bhavati, yadā ca-uttiṣṭhate tadā kāryaṃ sādhayati" ity ācāryāḥ | 18 |
+कज़्०७।९।१८ गुरु।समुत्थं महन् मित्रं लघु।समुत्थम् अल्पं वा-इति "गुरु।समुत्थं महन् मित्रं प्रताप।करं भवति, यदा च-उत्तिष्ठते तदा कार्यं साधयति" इत्य् आचार्याः । १८ ।
 
-KAZ07.9.19 na-iti kauṭilyaḥ | 19 |
+कज़्०७।९।१९ न-इति कौटिल्यः । १९ ।
 
-KAZ07.9.20 laghu.samuttham alpaṃ śreyaḥ | 20 |
+कज़्०७।९।२० लघु।समुत्थम् अल्पं श्रेयः । २० ।
 
-KAZ07.9.21 lagu.samuttham alpaṃ mitraṃ kārya.kālaṃ na-atipātayati daurbalyāc ca yathā.iṣṭa.bhogyaṃ bhavati, na-itarat prakṛṣṭa.bhaumam | 21 |
+कज़्०७।९।२१ लगु।समुत्थम् अल्पं मित्रं कार्य।कालं न-अतिपातयति दौर्बल्याच् च यथा।इष्ट।भोग्यं भवति, न-इतरत् प्रकृष्ट।भौमम् । २१ ।
 
-KAZ07.9.22 vikṣipta.sainyam avaśya.sainyaṃ vā-iti "vikṣiptaṃ sainyaṃ śakyaṃ pratisaṃhartuṃ vaśyatvād" ity ācāryāḥ | 22 |
+कज़्०७।९।२२ विक्षिप्त।सैन्यम् अवश्य।सैन्यं वा-इति "विक्षिप्तं सैन्यं शक्यं प्रतिसंहर्तुं वश्यत्वाद्" इत्य् आचार्याः । २२ ।
 
-KAZ07.9.23 na-iti  kauṭilyaḥ | 23 |
+कज़्०७।९।२३ न-इति  कौटिल्यः । २३ ।
 
-KAZ07.9.24 avaśya.sainyaṃ śreyaḥ | 24 |
+कज़्०७।९।२४ अवश्य।सैन्यं श्रेयः । २४ ।
 
-KAZ07.9.25 avaśyaṃ hi śakyaṃ sāma.ādibhir vaśyaṃ kartum, na-itarat kārya.vyāsaktaṃ pratisaṃhartum | 25 |
+कज़्०७।९।२५ अवश्यं हि शक्यं साम।आदिभिर् वश्यं कर्तुम्, न-इतरत् कार्य।व्यासक्तं प्रतिसंहर्तुम् । २५ ।
 
-KAZ07.9.26 puruṣa.bhogaṃ hiraṇya.bhogaṃ vā mitram iti "puruṣa.bhogaṃ mitraṃ śreyaḥ, pruṣa.bhogaṃ mitraṃ pratāpa.karaṃ bhavati, yadā ca-uttiṣṭhate tadā kāryaṃ sādhayati" ity ācāryāḥ | 26 |
+कज़्०७।९।२६ पुरुष।भोगं हिरण्य।भोगं वा मित्रम् इति "पुरुष।भोगं मित्रं श्रेयः, प्रुष।भोगं मित्रं प्रताप।करं भवति, यदा च-उत्तिष्ठते तदा कार्यं साधयति" इत्य् आचार्याः । २६ ।
 
-KAZ07.9.27 na-iti kauṭilyaḥ | 27 |
+कज़्०७।९।२७ न-इति कौटिल्यः । २७ ।
 
-KAZ07.9.28 hiraṇya.bhogaṃ mitraṃ śreyaḥ | 28 |
+कज़्०७।९।२८ हिरण्य।भोगं मित्रं श्रेयः । २८ ।
 
-KAZ07.9.29 nityo hi hiraṇyena yogaḥ kadācid daṇḍena | 29 |
+कज़्०७।९।२९ नित्यो हि हिरण्येन योगः कदाचिद् दण्डेन । २९ ।
 
-KAZ07.9.30 daṇḍaś ca hiraṇyena-anye ca kāmāḥ prāpyanta iti | 30 |
+कज़्०७।९।३० दण्डश् च हिरण्येन-अन्ये च कामाः प्राप्यन्त इति । ३० ।
 
-KAZ07.9.31 hiraṇya.bhogaṃ bhūmi.bhogaṃ vā mitram iti "hiraṇya.bhogaṃ gatimattvāt sarva.vyaya.pratīkāra.karam" ity ācāryāḥ | 31 |
+कज़्०७।९।३१ हिरण्य।भोगं भूमि।भोगं वा मित्रम् इति "हिरण्य।भोगं गतिमत्त्वात् सर्व।व्यय।प्रतीकार।करम्" इत्य् आचार्याः । ३१ ।
 
-KAZ07.9.32 na-iti kauṭilyaḥ | 32 |
+कज़्०७।९।३२ न-इति कौटिल्यः । ३२ ।
 
-KAZ07.9.33 mitra.hiraṇye hi bhūmi.lābhād bhavata ity uktaṃ purastād | 33 |
+कज़्०७।९।३३ मित्र।हिरण्ये हि भूमि।लाभाद् भवत इत्य् उक्तं पुरस्ताद् । ३३ ।
 
-KAZ07.9.34 tasmād bhūmi.bhogaṃ mitraṃ śreya iti | 34 |
+कज़्०७।९।३४ तस्माद् भूमि।भोगं मित्रं श्रेय इति । ३४ ।
 
-KAZ07.9.35 tulye puruṣa.bhoge vikramaḥ kleśa.sahatvam anurāgaḥ sarva.bala.lābho vā mitra.kulād viśeṣaḥ | 35 |
+कज़्०७।९।३५ तुल्ये पुरुष।भोगे विक्रमः क्लेश।सहत्वम् अनुरागः सर्व।बल।लाभो वा मित्र।कुलाद् विशेषः । ३५ ।
 
-KAZ07.9.36 tulye hiraṇya.bhoge prārthita.arthatā prābhūtyam alpa.prayasatā sātatyaṃ ca viśeṣaḥ | 36 |
+कज़्०७।९।३६ तुल्ये हिरण्य।भोगे प्रार्थित।अर्थता प्राभूत्यम् अल्प।प्रयसता सातत्यं च विशेषः । ३६ ।
 
-KAZ07.9.37 tatra-etad bhavati | 37 |
+कज़्०७।९।३७ तत्र-एतद् भवति । ३७ ।
 
-KAZ07.9.38ab nityaṃ vaśyaṃ laghu.utthānaṃ pitṛ.paitāmahaṃ mahat |  
-KAZ07.9.38cd advaidhyaṃ ca-iti sampannaṃ mitraṃ ṣaḍ.guṇam ucyate || 38 ||  
+कज़्०७।९।३८अब् नित्यं वश्यं लघु।उत्थानं पितृ।पैतामहं महत् ।  
+कज़्०७।९।३८च्द् अद्वैध्यं च-इति सम्पन्नं मित्रं षड्।गुणम् उच्यते ॥ ३८ ॥  
 
 
-KAZ07.9.39ab ṛte yad arthaṃ praṇayād rakṣyate yac ca rakṣati |  
-KAZ07.9.39cd pūrva.upacita.sambandhaṃ tan mitraṃ nityam ucyate || 39 ||  
+कज़्०७।९।३९अब् ऋते यद् अर्थं प्रणयाद् रक्ष्यते यच् च रक्षति ।  
+कज़्०७।९।३९च्द् पूर्व।उपचित।सम्बन्धं तन् मित्रं नित्यम् उच्यते ॥ ३९ ॥  
 
 
-KAZ07.9.40ab sarva.citra.mahā.bhogaṃ trividhaṃ vaśyam ucyate |  
-KAZ07.9.40cd ekato.bhogy ubhayataḥ sarvato.bhogi ca-aparam || 40 ||  
+कज़्०७।९।४०अब् सर्व।चित्र।महा।भोगं त्रिविधं वश्यम् उच्यते ।  
+कज़्०७।९।४०च्द् एकतो।भोग्य् उभयतः सर्वतो।भोगि च-अपरम् ॥ ४० ॥  
 
 
-KAZ07.9.41ab ādātṛ vā dātr.api vā jīvaty ariṣu hiṃsayā |  
-KAZ07.9.41cd mitraṃ nityam avaśyaṃ tad.durga.aṭavy.apasāri ca || 41 ||  
+कज़्०७।९।४१अब् आदातृ वा दात्र्।अपि वा जीवत्य् अरिषु हिंसया ।  
+कज़्०७।९।४१च्द् मित्रं नित्यम् अवश्यं तद्।दुर्ग।अटव्य्।अपसारि च ॥ ४१ ॥  
 
 
-KAZ07.9.42ab anyato vigṛhītaṃ yal laghu.vyasanam eva vā |  
-KAZ07.9.42cd sandhatte ca-upakārāya tan mitraṃ vaśyam adhruvam || 42 ||  
+कज़्०७।९।४२अब् अन्यतो विगृहीतं यल् लघु।व्यसनम् एव वा ।  
+कज़्०७।९।४२च्द् सन्धत्ते च-उपकाराय तन् मित्रं वश्यम् अध्रुवम् ॥ ४२ ॥  
 
 
-KAZ07.9.43ab eka.arthena-atha sambaddham upakārya.vikāri ca |  
-KAZ07.9.43cd mitra.bhāvi bhavaty etan mitram advaidhyam āpadi || 43 ||  
+कज़्०७।९।४३अब् एक।अर्थेन-अथ सम्बद्धम् उपकार्य।विकारि च ।  
+कज़्०७।९।४३च्द् मित्र।भावि भवत्य् एतन् मित्रम् अद्वैध्यम् आपदि ॥ ४३ ॥  
 
 
-KAZ07.9.44ab mitra.bhāvād dhruvaṃ mitraṃ śatru.sādhāraṇāc calam |  
-KAZ07.9.44cd na kasyacid udāsīnaṃ dvayor ubhaya.bhāvi tat || 44 ||  
+कज़्०७।९।४४अब् मित्र।भावाद् ध्रुवं मित्रं शत्रु।साधारणाच् चलम् ।  
+कज़्०७।९।४४च्द् न कस्यचिद् उदासीनं द्वयोर् उभय।भावि तत् ॥ ४४ ॥  
 
 
-KAZ07.9.45ab vijigīṣor amitraṃ yan mitram antardhitāṃ gatam |  
-KAZ07.9.45cd upakāre 'niviṣṭaṃ vā-aśaktaṃ vā-anupakāri tat || 45 ||  
+कज़्०७।९।४५अब् विजिगीषोर् अमित्रं यन् मित्रम् अन्तर्धितां गतम् ।  
+कज़्०७।९।४५च्द् उपकारे ऽनिविष्टं वा-अशक्तं वा-अनुपकारि तत् ॥ ४५ ॥  
 
 
-KAZ07.9.46ab priyaṃ parasya vā rakṣyaṃ pūjyaṃ sambaddham eva vā |  
-KAZ07.9.46cd anugṛhṇāti yan mitraṃ śatru.sādhāraṇaṃ hi tat || 46 ||  
+कज़्०७।९।४६अब् प्रियं परस्य वा रक्ष्यं पूज्यं सम्बद्धम् एव वा ।  
+कज़्०७।९।४६च्द् अनुगृह्णाति यन् मित्रं शत्रु।साधारणं हि तत् ॥ ४६ ॥  
 
 
-KAZ07.9.47ab prakṛṣṭa.bhaumaṃ santuṣṭaṃ balavac ca-ālasaṃ ca yat |  
-KAZ07.9.47cd udāsīnaṃ bhavaty etad vyasanād avamānitam || 47 ||  
+कज़्०७।९।४७अब् प्रकृष्ट।भौमं सन्तुष्टं बलवच् च-आलसं च यत् ।  
+कज़्०७।९।४७च्द् उदासीनं भवत्य् एतद् व्यसनाद् अवमानितम् ॥ ४७ ॥  
 
 
-KAZ07.9.48ab arer netuś ca yad vṛddhiṃ daurbalyād anuvartate |  
-KAZ07.9.48cd ubhayasya-apy avidviṣṭaṃ vidyād ubhaya.bhāvi tat || 48 ||  
+कज़्०७।९।४८अब् अरेर् नेतुश् च यद् वृद्धिं दौर्बल्याद् अनुवर्तते ।  
+कज़्०७।९।४८च्द् उभयस्य-अप्य् अविद्विष्टं विद्याद् उभय।भावि तत् ॥ ४८ ॥  
 
 
-KAZ07.9.49ab kāraṇa.akāraṇa.dhvastaṃ kāraṇa.akāraṇa.āgatam |  
-KAZ07.9.49cd yo mitraṃ samupekṣeta sa mṛtyum upagūhati || 49 ||  
+कज़्०७।९।४९अब् कारण।अकारण।ध्वस्तं कारण।अकारण।आगतम् ।  
+कज़्०७।९।४९च्द् यो मित्रं समुपेक्षेत स मृत्युम् उपगूहति ॥ ४९ ॥  
 
 
-KAZ07.9.50 kṣipram alpo lābhaś cirān mahān iti vā "kṣipram alpo lābhaḥ kārya.deśa.kāla.saṃvādakaḥ śreyān" ity ācāryāḥ | 50 |
+कज़्०७।९।५० क्षिप्रम् अल्पो लाभश् चिरान् महान् इति वा "क्षिप्रम् अल्पो लाभः कार्य।देश।काल।संवादकः श्रेयान्" इत्य् आचार्याः । ५० ।
 
-KAZ07.9.51 na-iti kauṭilyaḥ | 51 |
+कज़्०७।९।५१ न-इति कौटिल्यः । ५१ ।
 
-KAZ07.9.52 cirād avinipātī bīja.sadharmā mahāml lābhaḥ śreyān, viparyaye pūrvaḥ | 52 |
+कज़्०७।९।५२ चिराद् अविनिपाती बीज।सधर्मा महाम्ल् लाभः श्रेयान्, विपर्यये पूर्वः । ५२ ।
 
-KAZ07.9.53ab evaṃ dṛṣṭvā dhruve lābhe lābha.aṃśe ca guṇa.udayam |  
-KAZ07.9.53cd sva.artha.siddhi.paro yāyāt saṃhitaḥ sāmavāyikaiḥ || 53 ||  
+कज़्०७।९।५३अब् एवं दृष्ट्वा ध्रुवे लाभे लाभ।अंशे च गुण।उदयम् ।  
+कज़्०७।९।५३च्द् स्व।अर्थ।सिद्धि।परो यायात् संहितः सामवायिकैः ॥ ५३ ॥  
 
 
  छप्तेर् १० (सेच्तिओन् ११६): पच्त्स् ड़ोर् सेचुरिन्ग् अन् अल्ल्य्, मोनेय्, लन्द् अन्द् अन् उन्देर्तकिन्ग् (चोन्त्।)
@@ -8004,98 +8003,98 @@ KAZ07.9.53cd sva.artha.siddhi.paro yāyāt saṃhitaḥ sāmavāyikaiḥ || 53 |
 कज़्०७।१०।३८च्द् संहितेभ्यः परेभ्यश् च विशेषम् अधिगच्छति ॥ ३८ ॥  
 
 
- Chapter 11 (Section 116): Pacts for Securing an Ally, Money, Land and an Undertaking (cont.)
- \[K tr. 411\] ,  \[K2 tr. 355\] 
-KAZ07.11.01 "tvaṃ ca-ahaṃ ca śūnyaṃ niveśayāvahe" ity anavasita.sandhiḥ | 1 |
+ छप्तेर् ११ (सेच्तिओन् ११६): पच्त्स् ड़ोर् सेचुरिन्ग् अन् अल्ल्य्, मोनेय्, लन्द् अन्द् अन् उन्देर्तकिन्ग् (चोन्त्।)
+ \[क् त्र्। ४११\] ,  \[क्२ त्र्। ३५५\] 
+कज़्०७।११।०१ "त्वं च-अहं च शून्यं निवेशयावहे" इत्य् अनवसित।सन्धिः । १ ।
 
-KAZ07.11.02 tayor yaḥ pratyupasthita.artho yathā.ukta.guṇāṃ bhūmiṃ niveśayati so 'tisandhatte | 2 |
+कज़्०७।११।०२ तयोर् यः प्रत्युपस्थित।अर्थो यथा।उक्त।गुणां भूमिं निवेशयति सो ऽतिसन्धत्ते । २ ।
 
-KAZ07.11.03 tatra-api sthalam audakaṃ vā-iti mahataḥ sthalād alpam audakaṃ śreyaḥ, sātatyād avasthitatvāc ca phalānām | 3 |
+कज़्०७।११।०३ तत्र-अपि स्थलम् औदकं वा-इति महतः स्थलाद् अल्पम् औदकं श्रेयः, सातत्याद् अवस्थितत्वाच् च फलानाम् । ३ ।
 
-KAZ07.11.04 sthalayor api prabhūta.pūrva.apara.sasyam alpa.varṣa.pākam asakta.ārambhaṃ śreyaḥ | 4 |
+कज़्०७।११।०४ स्थलयोर् अपि प्रभूत।पूर्व।अपर।सस्यम् अल्प।वर्ष।पाकम् असक्त।आरम्भं श्रेयः । ४ ।
 
-KAZ07.11.05 audakayor api dhānya.vāpam adhānya.vāpāt-śreyaḥ | 5 |
+कज़्०७।११।०५ औदकयोर् अपि धान्य।वापम् अधान्य।वापात्-श्रेयः । ५ ।
 
-KAZ07.11.06 tayor alpa.bahutve dhānya.kāntād alpān mahad adhānya.kāntaṃ śreyaḥ | 6 |
+कज़्०७।११।०६ तयोर् अल्प।बहुत्वे धान्य।कान्ताद् अल्पान् महद् अधान्य।कान्तं श्रेयः । ६ ।
 
-KAZ07.11.07 mahaty avakāśe hi sthālyāś ca-anūpyāś ca-oṣadhayo bhavanti | 7 |
+कज़्०७।११।०७ महत्य् अवकाशे हि स्थाल्याश् च-अनूप्याश् च-ओषधयो भवन्ति । ७ ।
 
-KAZ07.11.08 durga.ādīni ca karmāṇi prabhūtyena kriyante | 8 |
+कज़्०७।११।०८ दुर्ग।आदीनि च कर्माणि प्रभूत्येन क्रियन्ते । ८ ।
 
-KAZ07.11.09 kṛtrimā hi bhūmi.guṇāḥ | 9 |
+कज़्०७।११।०९ कृत्रिमा हि भूमि।गुणाः । ९ ।
 
-KAZ07.11.10 khani.dhānya.bhogayoḥ khani.bhogaḥ kośa.karaḥ, dhānya.bhogaḥ kośa.koṣṭha.agāra.karaḥ | 10 |
+कज़्०७।११।१० खनि।धान्य।भोगयोः खनि।भोगः कोश।करः, धान्य।भोगः कोश।कोष्ठ।अगार।करः । १० ।
 
-KAZ07.11.11 dhānya.mūlā hi durga.ādīnāṃ karmaṇām ārambhāḥ | 11 |
+कज़्०७।११।११ धान्य।मूला हि दुर्ग।आदीनां कर्मणाम् आरम्भाः । ११ ।
 
-KAZ07.11.12 mahā.viṣaya.vikrayo vā khani.bhogaḥ śreyān | 12 |
+कज़्०७।११।१२ महा।विषय।विक्रयो वा खनि।भोगः श्रेयान् । १२ ।
 
-KAZ07.11.13 "dravya.hasti.vana.bhogayor dravya.vana.bhogaḥ sarva.karmaṇāṃ yoniḥ prabhūta.nidhāna.kṣamaś ca, viparīto hasti.vana.bhogaḥ" ity ācāryāḥ | 13 |
+कज़्०७।११।१३ "द्रव्य।हस्ति।वन।भोगयोर् द्रव्य।वन।भोगः सर्व।कर्मणां योनिः प्रभूत।निधान।क्षमश् च, विपरीतो हस्ति।वन।भोगः" इत्य् आचार्याः । १३ ।
 
-KAZ07.11.14 na-iti kauṭilyaḥ | 14 |
+कज़्०७।११।१४ न-इति कौटिल्यः । १४ ।
 
-KAZ07.11.15 śakyaṃ dravya.vanam anekam anekasyāṃ bhūmau vāpayitum, na hasti.vanam | 15 |
+कज़्०७।११।१५ शक्यं द्रव्य।वनम् अनेकम् अनेकस्यां भूमौ वापयितुम्, न हस्ति।वनम् । १५ ।
 
-KAZ07.11.16 hasti.pradhāno hi para.anīka.vadha iti | 16 |
+कज़्०७।११।१६ हस्ति।प्रधानो हि पर।अनीक।वध इति । १६ ।
 
-KAZ07.11.17 vāri.sthala.patha.bhogayor anityo vāri.patha.bhogaḥ, nityaḥ sthala.patha.bhogaḥ | 17 |
+कज़्०७।११।१७ वारि।स्थल।पथ।भोगयोर् अनित्यो वारि।पथ।भोगः, नित्यः स्थल।पथ।भोगः । १७ ।
 
-KAZ07.11.18 bhinna.manuṣyā śreṇī.manuṣyā vā bhūmir iti bhinna.manuṣyā śreyasī | 18 |
+कज़्०७।११।१८ भिन्न।मनुष्या श्रेणी।मनुष्या वा भूमिर् इति भिन्न।मनुष्या श्रेयसी । १८ ।
 
-KAZ07.11.19 bhinna.manuṣyā bhogyā bhavati, anupajāpyā ca-anyeṣām, anāpat.sahā tu | 19 |
+कज़्०७।११।१९ भिन्न।मनुष्या भोग्या भवति, अनुपजाप्या च-अन्येषाम्, अनापत्।सहा तु । १९ ।
 
-KAZ07.11.20 viparītā śreṇī.manuṣyā, kope mahā.doṣā | 20 |
+कज़्०७।११।२० विपरीता श्रेणी।मनुष्या, कोपे महा।दोषा । २० ।
 
-KAZ07.11.21 tasyāṃ cāturvarṇya.niveśe sarva.bhoga.sahatvād avara.varṇa.prāyā śreyasī, bāhulyād dhruvatvāc ca kṛṣyāḥ karṣakavatī, kṛṣyāś ca-anyeṣāṃ ca-ārambhāṇāṃ prayojakatvāt go.rakṣakavatī, paṇya.nicaya.ṛṇa.anugrahād āḍhya.vaṇigvatī | 21 |
+कज़्०७।११।२१ तस्यां चातुर्वर्ण्य।निवेशे सर्व।भोग।सहत्वाद् अवर।वर्ण।प्राया श्रेयसी, बाहुल्याद् ध्रुवत्वाच् च कृष्याः कर्षकवती, कृष्याश् च-अन्येषां च-आरम्भाणां प्रयोजकत्वात् गो।रक्षकवती, पण्य।निचय।ऋण।अनुग्रहाद् आढ्य।वणिग्वती । २१ ।
 
-KAZ07.11.22 bhūmi.guṇānām apāśrayaḥ śreyān | 22 |
+कज़्०७।११।२२ भूमि।गुणानाम् अपाश्रयः श्रेयान् । २२ ।
 
-KAZ07.11.23 durga.apāśrayā puruṣa.apāśrayā vā bhūmir iti puruṣa.apāśrayā śreyasī | 23 |
+कज़्०७।११।२३ दुर्ग।अपाश्रया पुरुष।अपाश्रया वा भूमिर् इति पुरुष।अपाश्रया श्रेयसी । २३ ।
 
-KAZ07.11.24 puruṣavad dhi rājyam | 24 |
+कज़्०७।११।२४ पुरुषवद् धि राज्यम् । २४ ।
 
-KAZ07.11.25 apuruṣā gaur vandhy eva kiṃ duhīta | 25 |
+कज़्०७।११।२५ अपुरुषा गौर् वन्ध्य् एव किं दुहीत । २५ ।
 
-KAZ07.11.26 mahā.kṣaya.vyaya.niveśāṃ tu bhūmim avāptu.kāmaḥ pūrvam eva kretāraṃ paṇeta durbalam arāja.bījinaṃ nirutsāham apakṣam anyāya.vṛttiṃ vyasaninaṃ daiva.pramāṇaṃ yat.kiñcana.kāriṇaṃ vā | 26 |
+कज़्०७।११।२६ महा।क्षय।व्यय।निवेशां तु भूमिम् अवाप्तु।कामः पूर्वम् एव क्रेतारं पणेत दुर्बलम् अराज।बीजिनं निरुत्साहम् अपक्षम् अन्याय।वृत्तिं व्यसनिनं दैव।प्रमाणं यत्।किञ्चन।कारिणं वा । २६ ।
 
-KAZ07.11.27 mahā.kṣaya.vyaya.niveśāyāṃ hi bhūmau durbalo rāja.bījī niviṣṭaḥ sagandhābhiḥ prakṛtibhiḥ saha kṣaya.vyayena-avasīdati | 27 |
+कज़्०७।११।२७ महा।क्षय।व्यय।निवेशायां हि भूमौ दुर्बलो राज।बीजी निविष्टः सगन्धाभिः प्रकृतिभिः सह क्षय।व्ययेन-अवसीदति । २७ ।
 
-KAZ07.11.28 balavān arāja.bījī kṣaya.vyaya.bhayād asagandhābhiḥ prakṛtibhis tyajyate | 28 |
+कज़्०७।११।२८ बलवान् अराज।बीजी क्षय।व्यय।भयाद् असगन्धाभिः प्रकृतिभिस् त्यज्यते । २८ ।
 
-KAZ07.11.29 nirutsāhas tu daṇḍavān api daṇḍasya-apraṇetā sadaṇḍaḥ kṣaya.vyayena-avabhajyate | 29 |
+कज़्०७।११।२९ निरुत्साहस् तु दण्डवान् अपि दण्डस्य-अप्रणेता सदण्डः क्षय।व्ययेन-अवभज्यते । २९ ।
 
-KAZ07.11.30 kośavān apy apakṣaḥ kṣaya.vyaya.anugraha.hīnatvān na kutaścit prāpnoti | 30 |
+कज़्०७।११।३० कोशवान् अप्य् अपक्षः क्षय।व्यय।अनुग्रह।हीनत्वान् न कुतश्चित् प्राप्नोति । ३० ।
 
-KAZ07.11.31 anyāya.vṛttir niviṣṭam apy utthāpayet | 31 |
+कज़्०७।११।३१ अन्याय।वृत्तिर् निविष्टम् अप्य् उत्थापयेत् । ३१ ।
 
-KAZ07.11.32 sa katham aniviṣṭaṃ niveśayet | 32 |
+कज़्०७।११।३२ स कथम् अनिविष्टं निवेशयेत् । ३२ ।
 
-KAZ07.11.33 tena vyasanī vyākhyātaḥ | 33 |
+कज़्०७।११।३३ तेन व्यसनी व्याख्यातः । ३३ ।
 
-KAZ07.11.34 daiva.pramāṇo mānuṣa.hīno nirārambho vipanna.karma.ārambho vā-avasīdati | 34 |
+कज़्०७।११।३४ दैव।प्रमाणो मानुष।हीनो निरारम्भो विपन्न।कर्म।आरम्भो वा-अवसीदति । ३४ ।
 
-KAZ07.11.35 yat.kiñcana.kārī na kiñcid āsādayati | 35 |
+कज़्०७।११।३५ यत्।किञ्चन।कारी न किञ्चिद् आसादयति । ३५ ।
 
-KAZ07.11.36 sa ca-eṣāṃ pāpiṣṭhatamo bhavati | 36 |
+कज़्०७।११।३६ स च-एषां पापिष्ठतमो भवति । ३६ ।
 
-KAZ07.11.37 "yat.kiñcid.ārabhamāṇo hi vijigīṣoḥ kadācic chidram āsādayed" ity ācāryāḥ | 37 |
+कज़्०७।११।३७ "यत्।किञ्चिद्।आरभमाणो हि विजिगीषोः कदाचिच् छिद्रम् आसादयेद्" इत्य् आचार्याः । ३७ ।
 
-KAZ07.11.38 yathā chidraṃ tathā vināśam apy āsādayed iti kauṭilyaḥ | 38 |
+कज़्०७।११।३८ यथा छिद्रं तथा विनाशम् अप्य् आसादयेद् इति कौटिल्यः । ३८ ।
 
-KAZ07.11.39 teṣām alābhe yathā pārṣṇi.grāha.upagrahe vakṣyāmas tathā bhūmim avasthāpayet | 39 |
+कज़्०७।११।३९ तेषाम् अलाभे यथा पार्ष्णि।ग्राह।उपग्रहे वक्ष्यामस् तथा भूमिम् अवस्थापयेत् । ३९ ।
 
-KAZ07.11.40 ity abhihita.sandhiḥ | 40 |
+कज़्०७।११।४० इत्य् अभिहित।सन्धिः । ४० ।
 
-KAZ07.11.41 guṇavatīm ādeyāṃ vā bhūmiṃ balavatā krayeṇa yācitaḥ sandhim avasthāpya dadyāt | 41 |
+कज़्०७।११।४१ गुणवतीम् आदेयां वा भूमिं बलवता क्रयेण याचितः सन्धिम् अवस्थाप्य दद्यात् । ४१ ।
 
-KAZ07.11.42 ity anibhṛta.sandhiḥ | 42 |
+कज़्०७।११।४२ इत्य् अनिभृत।सन्धिः । ४२ ।
 
-KAZ07.11.43 samena vā yācitaḥ kāraṇam avekṣya dadyāt "pratyādeyā me bhūmir vaśyā vā, anayā pratibaddhaḥ paro me vaśyo bhaviṣyati- bhūmi.vikrayād vā mitra.hiraṇya.lābhaḥ kārya.sāmarthya.karo me bhaviṣyati" iti | 43 |
+कज़्०७।११।४३ समेन वा याचितः कारणम् अवेक्ष्य दद्यात् "प्रत्यादेया मे भूमिर् वश्या वा, अनया प्रतिबद्धः परो मे वश्यो भविष्यति- भूमि।विक्रयाद् वा मित्र।हिरण्य।लाभः कार्य।सामर्थ्य।करो मे भविष्यति" इति । ४३ ।
 
-KAZ07.11.44 tena hīnaḥ kretā vyākhyātaḥ | 44 |
+कज़्०७।११।४४ तेन हीनः क्रेता व्याख्यातः । ४४ ।
 
-KAZ07.11.45ab evaṃ mitraṃ hiraṇyaṃ ca sajanām ajanāṃ ca gām |  
-KAZ07.11.45cd labhamāno 'tisandhatte śāstravit sāmavāyikān || 45 ||  
+कज़्०७।११।४५अब् एवं मित्रं हिरण्यं च सजनाम् अजनां च गाम् ।  
+कज़्०७।११।४५च्द् लभमानो ऽतिसन्धत्ते शास्त्रवित् सामवायिकान् ॥ ४५ ॥  
 
 
  छप्तेर् १२ (सेच्तिओन् ११६): पच्त्स् ड़ोर् सेचुरिन्ग् अन् अल्ल्य्, मोनेय्, लन्द् अन्द् अन् उन्देर्तकिन्ग् (चोन्त्।)
@@ -8168,114 +8167,114 @@ KAZ07.11.45cd labhamāno 'tisandhatte śāstravit sāmavāyikān || 45 ||
 
 कज़्०७।१२।३४ कर्म लब्ध्वा विशिष्टः स्याद् इत्य् उक्ताः कर्म।सन्धयः । ३४ ।
 
- Chapter 13 (Section 117): Considerations about the King Attacking in the Rear
- \[K tr. 418\] ,  \[K2 tr. 361\] 
-KAZ07.13.01 saṃhatya-ari.vijigīṣvor amitrayoḥ para.abhiyoginoḥ pārṣṇiṃ gṛhṇator yaḥ śakti.sampannasya pārṣṇiṃ gṛhṇāti so 'tisandhatte | 1 |
+ छप्तेर् १३ (सेच्तिओन् ११७): चोन्सिदेरतिओन्स् अबोउत् थे किन्ग् अत्तच्किन्ग् इन् थे रेअर्
+ \[क् त्र्। ४१८\] ,  \[क्२ त्र्। ३६१\] 
+कज़्०७।१३।०१ संहत्य-अरि।विजिगीष्वोर् अमित्रयोः पर।अभियोगिनोः पार्ष्णिं गृह्णतोर् यः शक्ति।सम्पन्नस्य पार्ष्णिं गृह्णाति सो ऽतिसन्धत्ते । १ ।
 
-KAZ07.13.02 śakti.sampanno hy amitram ucchidya pārṣṇi.grāham ucchindyāt, na hīna.śaktir alabdha.lābhaḥ | 2 |
+कज़्०७।१३।०२ शक्ति।सम्पन्नो ह्य् अमित्रम् उच्छिद्य पार्ष्णि।ग्राहम् उच्छिन्द्यात्, न हीन।शक्तिर् अलब्ध।लाभः । २ ।
 
-KAZ07.13.03 śakti.sāmye yo vipula.ārambhasya pārṣṇiṃ gṛhṇāti so 'tisandhatte | 3 |
+कज़्०७।१३।०३ शक्ति।साम्ये यो विपुल।आरम्भस्य पार्ष्णिं गृह्णाति सो ऽतिसन्धत्ते । ३ ।
 
-KAZ07.13.04 vipula.ārambho hy amitram ucchidya pārṣṇi.grāham ucchindyāt, na-alpa.ārambhaḥ sakta.cakraḥ | 4 |
+कज़्०७।१३।०४ विपुल।आरम्भो ह्य् अमित्रम् उच्छिद्य पार्ष्णि।ग्राहम् उच्छिन्द्यात्, न-अल्प।आरम्भः सक्त।चक्रः । ४ ।
 
-KAZ07.13.05 ārambha.sāmye yaḥ sarva.sandohena prayātasya pārṣṇiṃ gṛhṇāti so 'tisandhatte | 5 |
+कज़्०७।१३।०५ आरम्भ।साम्ये यः सर्व।सन्दोहेन प्रयातस्य पार्ष्णिं गृह्णाति सो ऽतिसन्धत्ते । ५ ।
 
-KAZ07.13.06 śūnya.mūlo hy asya sukaro bhavati, naika.deśa.bala.prayātaḥ kṛta.pārṣṇi.pratividhānaḥ | 6 |
+कज़्०७।१३।०६ शून्य।मूलो ह्य् अस्य सुकरो भवति, नैक।देश।बल।प्रयातः कृत।पार्ष्णि।प्रतिविधानः । ६ ।
 
-KAZ07.13.07 bala.upādāna.sāmye yaś cala.amitraṃ prayātasya pārṣṇiṃ gṛhṇāti so 'tisandhatte | 7 |
+कज़्०७।१३।०७ बल।उपादान।साम्ये यश् चल।अमित्रं प्रयातस्य पार्ष्णिं गृह्णाति सो ऽतिसन्धत्ते । ७ ।
 
-KAZ07.13.08 cala.amitraṃ prayāto hi sukhena-avāpta.siddhiḥ pārṣṇi.grāham ucchindyāt, na sthita.amitraṃ prayātaḥ | 8 |
+कज़्०७।१३।०८ चल।अमित्रं प्रयातो हि सुखेन-अवाप्त।सिद्धिः पार्ष्णि।ग्राहम् उच्छिन्द्यात्, न स्थित।अमित्रं प्रयातः । ८ ।
 
-KAZ07.13.09 asau hi durga.pratihataḥ pārṣṇi.grāhe ca pratinivṛttaḥ sthitena-amitreṇa-avagṛhyate | 9 |
+कज़्०७।१३।०९ असौ हि दुर्ग।प्रतिहतः पार्ष्णि।ग्राहे च प्रतिनिवृत्तः स्थितेन-अमित्रेण-अवगृह्यते । ९ ।
 
-KAZ07.13.10 tena pūrve vyākhyātāḥ | 10 |
+कज़्०७।१३।१० तेन पूर्वे व्याख्याताः । १० ।
 
-KAZ07.13.11 śatru.sāmye yo dhārmika.abhiyoginaḥ pārṣṇiṃ gṛhṇāti so 'tisandhatte | 11 |
+कज़्०७।१३।११ शत्रु।साम्ये यो धार्मिक।अभियोगिनः पार्ष्णिं गृह्णाति सो ऽतिसन्धत्ते । ११ ।
 
-KAZ07.13.12 dhārmika.abhiyogī hi sveṣāṃ pareṣāṃ ca dveṣyo bhavati, adhārmika.abhiyogī sampriyaḥ | 12 |
+कज़्०७।१३।१२ धार्मिक।अभियोगी हि स्वेषां परेषां च द्वेष्यो भवति, अधार्मिक।अभियोगी सम्प्रियः । १२ ।
 
-KAZ07.13.13 tena mūla.hara.tādātvika.kadarya.abhiyogināṃ pārṣṇi.grahaṇaṃ vyākhyātam | 13 |
+कज़्०७।१३।१३ तेन मूल।हर।तादात्विक।कदर्य।अभियोगिनां पार्ष्णि।ग्रहणं व्याख्यातम् । १३ ।
 
-KAZ07.13.14 mitra.abhiyoginoḥ pārṣṇi.grahaṇe ta eva hetavaḥ | 14 |
+कज़्०७।१३।१४ मित्र।अभियोगिनोः पार्ष्णि।ग्रहणे त एव हेतवः । १४ ।
 
-KAZ07.13.15 mitram amitraṃ ca-abhiyuñjānayor yo mitra.abhiyoginaḥ pārṣṇiṃ gṛhṇāti so 'tisandhatte | 15 |
+कज़्०७।१३।१५ मित्रम् अमित्रं च-अभियुञ्जानयोर् यो मित्र।अभियोगिनः पार्ष्णिं गृह्णाति सो ऽतिसन्धत्ते । १५ ।
 
-KAZ07.13.16 mitra.abhiyogī hi sukhena-avāpta.siddhiḥ pārṣṇi.grāham ucchindyāt | 16 |
+कज़्०७।१३।१६ मित्र।अभियोगी हि सुखेन-अवाप्त।सिद्धिः पार्ष्णि।ग्राहम् उच्छिन्द्यात् । १६ ।
 
-KAZ07.13.17 sukaro hi mitreṇa sandhir na-amitreṇa | 17 |
+कज़्०७।१३।१७ सुकरो हि मित्रेण सन्धिर् न-अमित्रेण । १७ ।
 
-KAZ07.13.18 mitram amitraṃ ca-uddharator yo 'mitra.uddhāriṇaḥ pārṣṇiṃ gṛhṇāti so 'tisandhatte | 18 |
+कज़्०७।१३।१८ मित्रम् अमित्रं च-उद्धरतोर् यो ऽमित्र।उद्धारिणः पार्ष्णिं गृह्णाति सो ऽतिसन्धत्ते । १८ ।
 
-KAZ07.13.19 vṛddha.mitro hy amitra.uddhārī pārṣṇi.grāham ucchindyāt, na-itaraḥ sva.pakṣa.upaghātī | 19 |
+कज़्०७।१३।१९ वृद्ध।मित्रो ह्य् अमित्र।उद्धारी पार्ष्णि।ग्राहम् उच्छिन्द्यात्, न-इतरः स्व।पक्ष।उपघाती । १९ ।
 
-KAZ07.13.20 tayor alabdha.lābha.apagamane yasya.amitro mahato lābhād viyuktaḥ kṣaya.vyaya.adhiko vā sa pārṣṇi.grāho 'tisandhatte | 20 |
+कज़्०७।१३।२० तयोर् अलब्ध।लाभ।अपगमने यस्य।अमित्रो महतो लाभाद् वियुक्तः क्षय।व्यय।अधिको वा स पार्ष्णि।ग्राहो ऽतिसन्धत्ते । २० ।
 
-KAZ07.13.21 labdha.lābha.apagamane yasya-amitro lābhena śaktyā hīnaḥ sa pārṣṇi.grāho 'tisandhatte, yasya vā yātavyaḥ śatror vigraha.apakāra.samarthaḥ syāt | 21 |
+कज़्०७।१३।२१ लब्ध।लाभ।अपगमने यस्य-अमित्रो लाभेन शक्त्या हीनः स पार्ष्णि।ग्राहो ऽतिसन्धत्ते, यस्य वा यातव्यः शत्रोर् विग्रह।अपकार।समर्थः स्यात् । २१ ।
 
-KAZ07.13.22 pārṣṇi.grāhayor api yaḥ śakya.ārambha.bala.upādāna.adhikaḥ sthita.śatruḥ pārśva.sthāyī vā so 'tisandhatte | 22 |
+कज़्०७।१३।२२ पार्ष्णि।ग्राहयोर् अपि यः शक्य।आरम्भ।बल।उपादान।अधिकः स्थित।शत्रुः पार्श्व।स्थायी वा सो ऽतिसन्धत्ते । २२ ।
 
-KAZ07.13.23 pārśva.sthāyī hi yātavya.abhisāro mūla.ābādhakaś ca bhavati, mūla.ābādhaka eva paścāt.sthāyī | 23 |
+कज़्०७।१३।२३ पार्श्व।स्थायी हि यातव्य।अभिसारो मूल।आबाधकश् च भवति, मूल।आबाधक एव पश्चात्।स्थायी । २३ ।
 
-KAZ07.13.24ab pārṣṇi.grāhās trayo jñeyāḥ śatroś ceṣṭā.nirodhakāḥ |  
-KAZ07.13.24cd sāmantaḥ pṛṣṭhato vargaḥ prativeśau ca pārśvayoḥ || 24 ||  
-
-
-KAZ07.13.25ab arer netuś ca madhyastho durbalo 'ntardhir ucyate |  
-KAZ07.13.25cd pratighāto balavato durga.aṭavy.apasāravān || 25 ||  
+कज़्०७।१३।२४अब् पार्ष्णि।ग्राहास् त्रयो ज्ञेयाः शत्रोश् चेष्टा।निरोधकाः ।  
+कज़्०७।१३।२४च्द् सामन्तः पृष्ठतो वर्गः प्रतिवेशौ च पार्श्वयोः ॥ २४ ॥  
 
 
-KAZ07.13.26 madhyamaṃ tvari.vijigīṣvor lipsamānayor madhyamasya pārṣṇiṃ gṛhṇator labdha.lābha.apagamane yo madhyamaṃ mitrād viyojayaty amitraṃ ca mitram āpnoti so 'tisandhatte | 26 |
-
-KAZ07.13.27 sandheyaś ca śatrur upakurvāṇo, na mitraṃ mitra.bhāvād utkrāntam | 27 |
-
-KAZ07.13.28 tena-udāsīna.lipsā vyākhyātā | 28 |
-
-KAZ07.13.29 "pārṣṇi.grahaṇa.abhiyānayos tu mantra.yuddhād abhyuccayaḥ | 29 |
-
-Kaz07.13.30 vyāyāma.yuddhe hi kṣaya.vyayābhyām ubhayor avṛddhiḥ | 30 |
-
-KAZ07.13.31 jitvā-api hi kṣiṇa.daṇḍa.kośaḥ parājito bhavati" ity ācāryāḥ | 31 |
-
-KAZ07.13.32 na-iti kauṭilyaḥ | 32 |
-
-KAZ07.13.33 sumahatā-api kṣaya.vyayena śatru.vināśo 'bhyupagantavyaḥ | 33 |
-
-KAZ07.13.34 tulye kṣaya.vyaye yaḥ purastād dūṣya.balaṃ ghātayitvā nihśalyaḥ paścād vaśya.balo yudhyeta so 'tisandhatte | 34 |
-
-KAZ07.13.35 dvayor api purastād dūṣya.bala.ghātinor yo bahulataraṃ śaktimattaram atyanta.dūṣyaṃ ca ghātayet so 'tisandhatte | 35 |
-
-KAZ07.13.36 tena-amitra.aṭavī.bala.ghāto vyākhyātaḥ | 36 |
-
-KAZ07.13.37ab pārṣṇi.grāho 'bhiyoktā vā yātavyo vā yadā bhavet |  
-KAZ07.13.37cd vijigīṣus tadā tatra netram etat samācaret || 37 ||  
+कज़्०७।१३।२५अब् अरेर् नेतुश् च मध्यस्थो दुर्बलो ऽन्तर्धिर् उच्यते ।  
+कज़्०७।१३।२५च्द् प्रतिघातो बलवतो दुर्ग।अटव्य्।अपसारवान् ॥ २५ ॥  
 
 
-KAZ07.13.38ab pārṣṇi.grāho bhaven netā śatror mitra.abhiyoginaḥ |  
-KAZ07.13.38cd vigrāhya pūrvam ākrandaṃ pārṣṇi.grāha.abhisāriṇā || 38 ||  
+कज़्०७।१३।२६ मध्यमं त्वरि।विजिगीष्वोर् लिप्समानयोर् मध्यमस्य पार्ष्णिं गृह्णतोर् लब्ध।लाभ।अपगमने यो मध्यमं मित्राद् वियोजयत्य् अमित्रं च मित्रम् आप्नोति सो ऽतिसन्धत्ते । २६ ।
+
+कज़्०७।१३।२७ सन्धेयश् च शत्रुर् उपकुर्वाणो, न मित्रं मित्र।भावाद् उत्क्रान्तम् । २७ ।
+
+कज़्०७।१३।२८ तेन-उदासीन।लिप्सा व्याख्याता । २८ ।
+
+कज़्०७।१३।२९ "पार्ष्णि।ग्रहण।अभियानयोस् तु मन्त्र।युद्धाद् अभ्युच्चयः । २९ ।
+
+कज़्०७।१३।३० व्यायाम।युद्धे हि क्षय।व्ययाभ्याम् उभयोर् अवृद्धिः । ३० ।
+
+कज़्०७।१३।३१ जित्वा-अपि हि क्षिण।दण्ड।कोशः पराजितो भवति" इत्य् आचार्याः । ३१ ।
+
+कज़्०७।१३।३२ न-इति कौटिल्यः । ३२ ।
+
+कज़्०७।१३।३३ सुमहता-अपि क्षय।व्ययेन शत्रु।विनाशो ऽभ्युपगन्तव्यः । ३३ ।
+
+कज़्०७।१३।३४ तुल्ये क्षय।व्यये यः पुरस्ताद् दूष्य।बलं घातयित्वा निह्शल्यः पश्चाद् वश्य।बलो युध्येत सो ऽतिसन्धत्ते । ३४ ।
+
+कज़्०७।१३।३५ द्वयोर् अपि पुरस्ताद् दूष्य।बल।घातिनोर् यो बहुलतरं शक्तिमत्तरम् अत्यन्त।दूष्यं च घातयेत् सो ऽतिसन्धत्ते । ३५ ।
+
+कज़्०७।१३।३६ तेन-अमित्र।अटवी।बल।घातो व्याख्यातः । ३६ ।
+
+कज़्०७।१३।३७अब् पार्ष्णि।ग्राहो ऽभियोक्ता वा यातव्यो वा यदा भवेत् ।  
+कज़्०७।१३।३७च्द् विजिगीषुस् तदा तत्र नेत्रम् एतत् समाचरेत् ॥ ३७ ॥  
 
 
-KAZ07.13.39ab ākrandena-abhiyuñjānaḥ pārṣṇi.grāhaṃ nivārayet |  
-KAZ07.13.39cd tathā-ākranda.abhisāreṇa pārṣṇi.grāha.abhisāriṇam || 39 ||  
+कज़्०७।१३।३८अब् पार्ष्णि।ग्राहो भवेन् नेता शत्रोर् मित्र।अभियोगिनः ।  
+कज़्०७।१३।३८च्द् विग्राह्य पूर्वम् आक्रन्दं पार्ष्णि।ग्राह।अभिसारिणा ॥ ३८ ॥  
 
 
-KAZ07.13.40ab ari.mitreṇa mitraṃ ca purastād avaghaṭṭayet |  
-KAZ07.13.40cd mitra.mitram areś ca-api mitra.mitreṇa vārayet || 40 ||  
+कज़्०७।१३।३९अब् आक्रन्देन-अभियुञ्जानः पार्ष्णि।ग्राहं निवारयेत् ।  
+कज़्०७।१३।३९च्द् तथा-आक्रन्द।अभिसारेण पार्ष्णि।ग्राह।अभिसारिणम् ॥ ३९ ॥  
 
 
-KAZ07.13.41ab mitreṇa grāhayet pārṣṇim abhiyukto 'bhiyoginaḥ |  
-KAZ07.13.41cd mitra.mitreṇa ca-ākrandaṃ pārṣṇi.grāhān nivārayet || 41 ||  
+कज़्०७।१३।४०अब् अरि।मित्रेण मित्रं च पुरस्ताद् अवघट्टयेत् ।  
+कज़्०७।१३।४०च्द् मित्र।मित्रम् अरेश् च-अपि मित्र।मित्रेण वारयेत् ॥ ४० ॥  
 
 
-KAZ07.13.42ab evaṃ maṇḍalam ātma.arthaṃ vijigīṣur niveśayet |  
-KAZ07.13.42cd pṛṣṭhataś ca purastāc ca mitra.prakṛti.sampadā || 42 ||  
+कज़्०७।१३।४१अब् मित्रेण ग्राहयेत् पार्ष्णिम् अभियुक्तो ऽभियोगिनः ।  
+कज़्०७।१३।४१च्द् मित्र।मित्रेण च-आक्रन्दं पार्ष्णि।ग्राहान् निवारयेत् ॥ ४१ ॥  
 
 
-KAZ07.13.43ab kṛtsne ca maṇḍale nityaṃ dūtān gūḍhāṃś ca vāsayet |  
-KAZ07.13.43cd mitra.bhūtaḥ sapatnānāṃ hatvā hatvā ca saṃvṛtaḥ || 43 ||  
+कज़्०७।१३।४२अब् एवं मण्डलम् आत्म।अर्थं विजिगीषुर् निवेशयेत् ।  
+कज़्०७।१३।४२च्द् पृष्ठतश् च पुरस्ताच् च मित्र।प्रकृति।सम्पदा ॥ ४२ ॥  
 
 
-KAZ07.13.44ab asaṃvṛtasya kāryāṇi prāptāny api viśeṣataḥ |  
-KAZ07.13.44cd nihsaṃśayaṃ vipadyante bhinna.plava iva-udadhau || 44 ||  
+कज़्०७।१३।४३अब् कृत्स्ने च मण्डले नित्यं दूतान् गूढांश् च वासयेत् ।  
+कज़्०७।१३।४३च्द् मित्र।भूतः सपत्नानां हत्वा हत्वा च संवृतः ॥ ४३ ॥  
+
+
+कज़्०७।१३।४४अब् असंवृतस्य कार्याणि प्राप्तान्य् अपि विशेषतः ।  
+कज़्०७।१३।४४च्द् निह्संशयं विपद्यन्ते भिन्न।प्लव इव-उदधौ ॥ ४४ ॥  
 
 
  छप्तेर् १४ (सेच्तिओन् ११८): रेचोउप्मेन्त् ओड़् पोwएर्स् बेचोमे Wएअक्
@@ -8340,80 +8339,80 @@ KAZ07.13.44cd nihsaṃśayaṃ vipadyante bhinna.plava iva-udadhau || 44 ||
 कज़्०७।१४।२९च्द् सम्पन्नः प्रतिनिर्गच्छेत् पर।अवग्रहम् आत्मनः ॥ २९ ॥  
 
 
- Chapter 15 (Sections 119; 120): Entrenching Oneself in a Fort in War with a Stronger King; Conduct of the King Surrendering with Troops
- \[K tr. 426\] ,  \[K2 tr. 369\] 
-KAZ07.15.01 durbalo rājā balavatā-abhiyuktas tad.viśiṣṭa.balam āśrayeta yam itaro mantra.śaktyā na-atisandadhyāt | 1 |
+ छप्तेर् १५ (सेच्तिओन्स् ११९; १२०): एन्त्रेन्छिन्ग् ओनेसेल्ड़् इन् अ ड़ोर्त् इन् Wअर् wइथ् अ स्त्रोन्गेर् किन्ग्; चोन्दुच्त् ओड़् थे किन्ग् सुर्रेन्देरिन्ग् wइथ् त्रोओप्स्
+ \[क् त्र्। ४२६\] ,  \[क्२ त्र्। ३६९\] 
+कज़्०७।१५।०१ दुर्बलो राजा बलवता-अभियुक्तस् तद्।विशिष्ट।बलम् आश्रयेत यम् इतरो मन्त्र।शक्त्या न-अतिसन्दध्यात् । १ ।
 
-KAZ07.15.02 tulya.mantra.śaktīnām āyatta.sampado vṛddha.samyogād vā viśeṣaḥ | 2 |
+कज़्०७।१५।०२ तुल्य।मन्त्र।शक्तीनाम् आयत्त।सम्पदो वृद्ध।सम्योगाद् वा विशेषः । २ ।
 
-KAZ07.15.03 viśiṣṭa.bala.abhāve sama.balais tulya.bala.saṅghair vā balavataḥ sambhūya tiṣṭhed yān na mantra.prabhāva.śaktibhyām atisandadhyāt | 3 |
+कज़्०७।१५।०३ विशिष्ट।बल।अभावे सम।बलैस् तुल्य।बल।सङ्घैर् वा बलवतः सम्भूय तिष्ठेद् यान् न मन्त्र।प्रभाव।शक्तिभ्याम् अतिसन्दध्यात् । ३ ।
 
-KAZ07.15.04 tulya.mantra.prabhāva.śaktīnāṃ vipula.ārambhato viśeṣaḥ | 4 |
+कज़्०७।१५।०४ तुल्य।मन्त्र।प्रभाव।शक्तीनां विपुल।आरम्भतो विशेषः । ४ ।
 
-KAZ07.15.05 sama.bala.abhāve hīna.balaiḥ śucibhir utsāhibhiḥ pratyanīka.bhūtair balavataḥ sambhūya tiṣṭhed yān na mantra.prabhāva.utsāha.śaktibhir atisandadhyāt | 5 |
+कज़्०७।१५।०५ सम।बल।अभावे हीन।बलैः शुचिभिर् उत्साहिभिः प्रत्यनीक।भूतैर् बलवतः सम्भूय तिष्ठेद् यान् न मन्त्र।प्रभाव।उत्साह।शक्तिभिर् अतिसन्दध्यात् । ५ ।
 
-KAZ07.15.06 tulya.utsāha.śaktīnāṃ sva.yuddha.bhūmi.lābhād viśeṣaḥ | 6 |
+कज़्०७।१५।०६ तुल्य।उत्साह।शक्तीनां स्व।युद्ध।भूमि।लाभाद् विशेषः । ६ ।
 
-KAZ07.15.07 tulya.bhūmīnāṃ sva.yuddha.kāla.lābhād viśeṣaḥ | 7 |
+कज़्०७।१५।०७ तुल्य।भूमीनां स्व।युद्ध।काल।लाभाद् विशेषः । ७ ।
 
-KAZ07.15.08 tulya.deśa.kālānāṃ yugya.śastra.āvaraṇato viśeṣaḥ | 8 |
+कज़्०७।१५।०८ तुल्य।देश।कालानां युग्य।शस्त्र।आवरणतो विशेषः । ८ ।
 
-KAZ07.15.09 sahāya.abhāve durgam āśrayeta yatra-amitraḥ prabhūta.sainyo 'pi bhakta.yavasa.indhana.udaka.uparodhaṃ na kuryāt svayaṃ ca kṣaya.vyayābhyāṃ yujyeta | 9 |
+कज़्०७।१५।०९ सहाय।अभावे दुर्गम् आश्रयेत यत्र-अमित्रः प्रभूत।सैन्यो ऽपि भक्त।यवस।इन्धन।उदक।उपरोधं न कुर्यात् स्वयं च क्षय।व्ययाभ्यां युज्येत । ९ ।
 
-KAZ07.15.10 tulya.durgāṇāṃ nicaya.apasārato viśeṣaḥ | 10 |
+कज़्०७।१५।१० तुल्य।दुर्गाणां निचय।अपसारतो विशेषः । १० ।
 
-KAZ07.15.11 nicaya.apasāra.sampannaṃ hi manuṣya.durgam icched iti kauṭilyaḥ | 11 |
+कज़्०७।१५।११ निचय।अपसार।सम्पन्नं हि मनुष्य।दुर्गम् इच्छेद् इति कौटिल्यः । ११ ।
 
-KAZ07.15.12a tad ebhiḥ kārṇair āśrayeta - "pārṣṇi.grāham āsāraṃ madhyamam udāsīnaṃ vā pratipādayiṣyāmi, sāmanta.āṭavika.tat.kulīna.aparuddhānām anyatamena-asya rājyaṃ hārayiṣyāmi ghātayiṣyāmi vā -
+कज़्०७।१५।१२अ तद् एभिः कार्णैर् आश्रयेत - "पार्ष्णि।ग्राहम् आसारं मध्यमम् उदासीनं वा प्रतिपादयिष्यामि, सामन्त।आटविक।तत्।कुलीन।अपरुद्धानाम् अन्यतमेन-अस्य राज्यं हारयिष्यामि घातयिष्यामि वा -
 
-KAZ07.15.12b kṛtya.pakṣa.upagraheṇa vā-asya durge rāṣṭre skandha.āvāre vā kopaṃ samutthāpayiṣyāmi, śastra.agni.rasa.praṇidhānair aupaniṣadikair vā yathā.iṣṭam āsannaṃ haniṣyāmi -
+कज़्०७।१५।१२ब् कृत्य।पक्ष।उपग्रहेण वा-अस्य दुर्गे राष्ट्रे स्कन्ध।आवारे वा कोपं समुत्थापयिष्यामि, शस्त्र।अग्नि।रस।प्रणिधानैर् औपनिषदिकैर् वा यथा।इष्टम् आसन्नं हनिष्यामि -
 
-KAZ07.15.12c svayaṃ.adhiṣṭhitena vā yoga.praṇidhānena kṣaya.vyayam enam upaneṣyāmi, kṣaya.vyaya.pravāsa.upatapte vā-asya mitra.varge sainye vā krameṇa-upajāpaṃ prāpsyāmi -
+कज़्०७।१५।१२च् स्वयं।अधिष्ठितेन वा योग।प्रणिधानेन क्षय।व्ययम् एनम् उपनेष्यामि, क्षय।व्यय।प्रवास।उपतप्ते वा-अस्य मित्र।वर्गे सैन्ये वा क्रमेण-उपजापं प्राप्स्यामि -
 
-KAZ07.15.12d vīvadha.āsāra.prasāra.vadhena vā-asya skandha.āvāra.avagrahaṃ kariṣyāmi, daṇḍa.upanayena vā-asya randhram utthāpya sarva.sandohena prahariṣyāmi, pratihata.utsāhena vā yathā.iṣṭaṃ sandhim avāpsyāmi, mayi pratibaddhasya vā sarvataḥ kopāḥ samutthāsyanti -
+कज़्०७।१५।१२द् वीवध।आसार।प्रसार।वधेन वा-अस्य स्कन्ध।आवार।अवग्रहं करिष्यामि, दण्ड।उपनयेन वा-अस्य रन्ध्रम् उत्थाप्य सर्व।सन्दोहेन प्रहरिष्यामि, प्रतिहत।उत्साहेन वा यथा।इष्टं सन्धिम् अवाप्स्यामि, मयि प्रतिबद्धस्य वा सर्वतः कोपाः समुत्थास्यन्ति -
 
-KAZ07.15.12e nirāsāraṃ vā-asya mūlaṃ mitra.aṭavī.daṇḍair uddhātayiṣyāmi, mahato vā deśasya yoga.kṣemam ihasthaḥ pālayiṣyāmi, sva.vikṣiptaṃ mitra.vikṣiptaṃ vā me sainyam ihasthasya-ekastham aviṣahyaṃ bhaviṣyati, nimna.khāta.rātri.yuddha.viśāradaṃ vā me sainyaṃ pathya.ābādha.muktam āsanne karma kariṣyati -
+कज़्०७।१५।१२ए निरासारं वा-अस्य मूलं मित्र।अटवी।दण्डैर् उद्धातयिष्यामि, महतो वा देशस्य योग।क्षेमम् इहस्थः पालयिष्यामि, स्व।विक्षिप्तं मित्र।विक्षिप्तं वा मे सैन्यम् इहस्थस्य-एकस्थम् अविषह्यं भविष्यति, निम्न।खात।रात्रि।युद्ध।विशारदं वा मे सैन्यं पथ्य।आबाध।मुक्तम् आसन्ने कर्म करिष्यति -
 
-KAZ07.15.12f viruddha.deśa.kālam iha.āgato vā svayam eva kṣaya.vyayābhyāṃ na bhaviṣyati, mahā.kṣaya.vyaya.abhigamyo 'yaṃ deśo durga.aṭavy.apasāra.bāhulyāt -
+कज़्०७।१५।१२ड़् विरुद्ध।देश।कालम् इह।आगतो वा स्वयम् एव क्षय।व्ययाभ्यां न भविष्यति, महा।क्षय।व्यय।अभिगम्यो ऽयं देशो दुर्ग।अटव्य्।अपसार।बाहुल्यात् -
 
-KAZ07.15.12g pareṣāṃ vyādhi.prāyaḥ sainya.vyāyāmānām alabdha.bhaumaś ca, tam āpad.gataḥ pravekṣyati, praviṣṭo vā na nirgamiṣyati" iti | 12 |
+कज़्०७।१५।१२ग् परेषां व्याधि।प्रायः सैन्य।व्यायामानाम् अलब्ध।भौमश् च, तम् आपद्।गतः प्रवेक्ष्यति, प्रविष्टो वा न निर्गमिष्यति" इति । १२ ।
 
-KAZ07.15.13 "kāraṇa.abhāve bala.samucchraye vā parasya durgam unmucya-apagacchet | 13 |
+कज़्०७।१५।१३ "कारण।अभावे बल।समुच्छ्रये वा परस्य दुर्गम् उन्मुच्य-अपगच्छेत् । १३ ।
 
-KAZ07.15.14 agni.pataṅgavad amitre vā praviśet | 14 |
+कज़्०७।१५।१४ अग्नि।पतङ्गवद् अमित्रे वा प्रविशेत् । १४ ।
 
-KAZ07.15.15 anyatara.siddhir hi tyakta.ātmano bhavati" ity ācāryāḥ | 15 |
+कज़्०७।१५।१५ अन्यतर।सिद्धिर् हि त्यक्त।आत्मनो भवति" इत्य् आचार्याः । १५ ।
 
-KAZ07.15.16 na-iti kauṭilyaḥ | 16 |
+कज़्०७।१५।१६ न-इति कौटिल्यः । १६ ।
 
-KAZ07.15.17 sandheyatām ātmanaḥ parasya ca-upalabhya sandadhīta | 17 |
+कज़्०७।१५।१७ सन्धेयताम् आत्मनः परस्य च-उपलभ्य सन्दधीत । १७ ।
 
-KAZ07.15.18 viparyaye vikrameṇa sandhim apasāraṃ vā lipseta | 18 |
+कज़्०७।१५।१८ विपर्यये विक्रमेण सन्धिम् अपसारं वा लिप्सेत । १८ ।
 
-KAZ07.15.19 sandheyasya vā dūtaṃ preṣayet | 19 |
+कज़्०७।१५।१९ सन्धेयस्य वा दूतं प्रेषयेत् । १९ ।
 
-KAZ07.15.20 tena vā preṣitam artha.mānābhyāṃ satkṛtya brūyāt "idaṃ rājñaḥ paṇya.agāram, idaṃ devī.kumārāṇām, devī.kumāra.vacanāt, idaṃ rājyam ahaṃ ca tvad.arpaṇaḥ" iti | 20 |
+कज़्०७।१५।२० तेन वा प्रेषितम् अर्थ।मानाभ्यां सत्कृत्य ब्रूयात् "इदं राज्ञः पण्य।अगारम्, इदं देवी।कुमाराणाम्, देवी।कुमार।वचनात्, इदं राज्यम् अहं च त्वद्।अर्पणः" इति । २० ।
 
-KAZ07.15.21 labdha.saṃśrayaḥ samaya.ācārikavad bhartari varteta | 21 |
+कज़्०७।१५।२१ लब्ध।संश्रयः समय।आचारिकवद् भर्तरि वर्तेत । २१ ।
 
-KAZ07.15.22 durga.ādīni ca karmāṇi āvāha.vivāha.putra.abhiṣeka.aśva.paṇya.hasti.grahaṇa.sattra.yātrā.- vihāra.gamanāni ca-anujñātaḥ kurvīta | 22 |
+कज़्०७।१५।२२ दुर्ग।आदीनि च कर्माणि आवाह।विवाह।पुत्र।अभिषेक।अश्व।पण्य।हस्ति।ग्रहण।सत्त्र।यात्रा।- विहार।गमनानि च-अनुज्ञातः कुर्वीत । २२ ।
 
-KAZ07.15.23 sva.bhūmy.avasthita.prakṛti.sandhim upaghātam apasṛteṣu vā sarvam anujñātaḥ kurvīta | 23 |
+कज़्०७।१५।२३ स्व।भूम्य्।अवस्थित।प्रकृति।सन्धिम् उपघातम् अपसृतेषु वा सर्वम् अनुज्ञातः कुर्वीत । २३ ।
 
-KAZ07.15.24 duṣṭa.paura.jānapado vā nyāya.vṛttir anyāṃ bhūmiṃ yāceta | 24 |
+कज़्०७।१५।२४ दुष्ट।पौर।जानपदो वा न्याय।वृत्तिर् अन्यां भूमिं याचेत । २४ ।
 
-KAZ07.15.25 duṣyavad upāṃśu.daṇḍena vā pratikurvīta | 25 |
+कज़्०७।१५।२५ दुष्यवद् उपांशु।दण्डेन वा प्रतिकुर्वीत । २५ ।
 
-KAZ07.15.26 ucitāṃ vā mitrād bhūmiṃ dīyamānāṃ na pratigṛhṇīyāt | 26 |
+कज़्०७।१५।२६ उचितां वा मित्राद् भूमिं दीयमानां न प्रतिगृह्णीयात् । २६ ।
 
-KAZ07.15.27 mantri.purohita.senā.pati.yuva.rājānām anyatamam adṛśyamāne bhartari paśyet, yathā.śakti ca-upakuryāt | 27 |
+कज़्०७।१५।२७ मन्त्रि।पुरोहित।सेना।पति।युव।राजानाम् अन्यतमम् अदृश्यमाने भर्तरि पश्येत्, यथा।शक्ति च-उपकुर्यात् । २७ ।
 
-KAZ07.15.28 daivata.svasti.vācaneṣu tat.parā āśiṣo vācayet | 28 |
+कज़्०७।१५।२८ दैवत।स्वस्ति।वाचनेषु तत्।परा आशिषो वाचयेत् । २८ ।
 
-KAZ07.15.29 sarvatra-ātma.nisargaṃ guṇaṃ brūyāt | 29 |
+कज़्०७।१५।२९ सर्वत्र-आत्म।निसर्गं गुणं ब्रूयात् । २९ ।
 
-KAZ07.15.30ab samyukta.balavat.sevī viruddhaḥ śaṅkita.ādibhiḥ |  
-KAZ07.15.30cd varteta daṇḍa.upanato bhartary evam avasthitaḥ || 30 ||  
+कज़्०७।१५।३०अब् सम्युक्त।बलवत्।सेवी विरुद्धः शङ्कित।आदिभिः ।  
+कज़्०७।१५।३०च्द् वर्तेत दण्ड।उपनतो भर्तर्य् एवम् अवस्थितः ॥ ३० ॥  
 
 
  छप्तेर् १६ (सेच्तिओन् १२१): चोन्दुच्त् ओड़् थे किन्ग् सुब्जुगतिन्ग् ब्य् ड़ोर्चे
@@ -8490,131 +8489,131 @@ KAZ07.15.30cd varteta daṇḍa.upanato bhartary evam avasthitaḥ || 30 ||
 कज़्०७।१६।३३च्द् भवन्त्य् अनुगुणा राज्ञः पुत्र।पौत्र।अनुवर्तिनः ॥ ३३ ॥  
 
 
- Chapter 17 (Sections 122; 123): The Making of Peace; Liberation of the Hostage
- \[K tr. 434\] ,  \[K2 tr. 375\] 
-KAZ07.17.01 śamaḥ sandhiḥ samādhir ity eko 'rthaḥ | 1 |
+ छप्तेर् १७ (सेच्तिओन्स् १२२; १२३): थे मकिन्ग् ओड़् पेअचे; लिबेरतिओन् ओड़् थे होस्तगे
+ \[क् त्र्। ४३४\] ,  \[क्२ त्र्। ३७५\] 
+कज़्०७।१७।०१ शमः सन्धिः समाधिर् इत्य् एको ऽर्थः । १ ।
 
-KAZ07.17.02 rājñāṃ viśvāsa.upagamaḥ śamaḥ sandhiḥ samādhir iti | 2 |
+कज़्०७।१७।०२ राज्ञां विश्वास।उपगमः शमः सन्धिः समाधिर् इति । २ ।
 
-KAZ07.17.03 "satyaṃ śapatho vā calaḥ sandhiḥ, pratibhūḥ pratigraho vā sthāvaraḥ" ity ācāryāḥ | 3 |
+कज़्०७।१७।०३ "सत्यं शपथो वा चलः सन्धिः, प्रतिभूः प्रतिग्रहो वा स्थावरः" इत्य् आचार्याः । ३ ।
 
-KAZ07.17.04 na-iti kauṭilyaḥ | 4 |
+कज़्०७।१७।०४ न-इति कौटिल्यः । ४ ।
 
-KAZ07.17.05 satyaṃ śapatho vā paratra-iha ca sthāvaraḥ sandhiḥ, iha.artha eva pratibhūḥ pratigraho vā bala.apekṣaḥ | 5 |
+कज़्०७।१७।०५ सत्यं शपथो वा परत्र-इह च स्थावरः सन्धिः, इह।अर्थ एव प्रतिभूः प्रतिग्रहो वा बल।अपेक्षः । ५ ।
 
-KAZ07.17.06 "saṃhitāḥ smaḥ" iti satya.sandhāḥ pūrve rājānaḥ satyena sandadhire | 6 |
+कज़्०७।१७।०६ "संहिताः स्मः" इति सत्य।सन्धाः पूर्वे राजानः सत्येन सन्दधिरे । ६ ।
 
-KAZ07.17.07 tasya-atikrame śapathena agny.udaka.sītā.prākāra.loṣṭa.hasti.skandha.aśva.pṛṣṭa.ratha.upastha.- śastra.ratna.bīja.gandha.rasa.suvarṇa.hiraṇyāny ālebhire "hanyur etāni tyajeyuś ca-enaṃ yaḥ śapatham atikrāmet" iti | 7 |
+कज़्०७।१७।०७ तस्य-अतिक्रमे शपथेन अग्न्य्।उदक।सीता।प्राकार।लोष्ट।हस्ति।स्कन्ध।अश्व।पृष्ट।रथ।उपस्थ।- शस्त्र।रत्न।बीज।गन्ध।रस।सुवर्ण।हिरण्यान्य् आलेभिरे "हन्युर् एतानि त्यजेयुश् च-एनं यः शपथम् अतिक्रामेत्" इति । ७ ।
 
-KAZ07.17.08 śapatha.atikrame mahatāṃ tapasvināṃ mukhyānāṃ vā prātibhāvya.bandhaḥ pratibhūḥ | 8 |
+कज़्०७।१७।०८ शपथ।अतिक्रमे महतां तपस्विनां मुख्यानां वा प्रातिभाव्य।बन्धः प्रतिभूः । ८ ।
 
-KAZ07.17.09 tasmin yaḥ para.avagraha.samarthān pratibhuvo gṛhṇāti, so 'tisandhatte | 9 |
+कज़्०७।१७।०९ तस्मिन् यः पर।अवग्रह।समर्थान् प्रतिभुवो गृह्णाति, सो ऽतिसन्धत्ते । ९ ।
 
-KAZ07.17.10 viparīto 'tisandhīyate | 10 |
+कज़्०७।१७।१० विपरीतो ऽतिसन्धीयते । १० ।
 
-KAZ07.17.11 bandhu.mukhya.pragrahaḥ pratigrahaḥ | 11 |
+कज़्०७।१७।११ बन्धु।मुख्य।प्रग्रहः प्रतिग्रहः । ११ ।
 
-KAZ07.17.12 tasmin yo dūṣya.amātyaṃ dūṣya.apatyaṃ vā dadāti, so 'tisandhatte | 12 |
+कज़्०७।१७।१२ तस्मिन् यो दूष्य।अमात्यं दूष्य।अपत्यं वा ददाति, सो ऽतिसन्धत्ते । १२ ।
 
-KAZ07.17.13 viparīto 'tisandhīyate
+कज़्०७।१७।१३ विपरीतो ऽतिसन्धीयते
 
-KAZ07.17.14 pratigraha.grahaṇa.viśvastasya hi paraś chidreṣu nirapekṣaḥ praharati | 14 |
+कज़्०७।१७।१४ प्रतिग्रह।ग्रहण।विश्वस्तस्य हि परश् छिद्रेषु निरपेक्षः प्रहरति । १४ ।
 
-KAZ07.17.15 apatya.samādhau tu kanyā.putra.dāne dadat tu kanyām atisandhatte | 15 |
+कज़्०७।१७।१५ अपत्य।समाधौ तु कन्या।पुत्र।दाने ददत् तु कन्याम् अतिसन्धत्ते । १५ ।
 
-KAZ07.17.16 kanyā hy adāyādā pareṣām eva-arthāya-ākleśyā (?) ca | 16 |
+कज़्०७।१७।१६ कन्या ह्य् अदायादा परेषाम् एव-अर्थाय-आक्लेश्या (?) च । १६ ।
 
-KAZ07.17.17 viparītaḥ putraḥ | 17 |
+कज़्०७।१७।१७ विपरीतः पुत्रः । १७ ।
 
-KAZ07.17.18 putrayor api yo jātyaṃ prājñaṃ śūraṃ kṛta.astram eka.putraṃ vā dadāti so 'tisandhīyate | 18 |
+कज़्०७।१७।१८ पुत्रयोर् अपि यो जात्यं प्राज्ञं शूरं कृत।अस्त्रम् एक।पुत्रं वा ददाति सो ऽतिसन्धीयते । १८ ।
 
-KAZ07.17.19 viparīto 'tisandhatte | 19 |
+कज़्०७।१७।१९ विपरीतो ऽतिसन्धत्ते । १९ ।
 
-KAZ07.17.20 jātyād ajātyo hi lupta.dāyāda.santānatvād ādhātuṃ śreyān, prājñād aprājño mantra.śakti.lopāt, śūrād aśūra utsāha.śakti.lopāt, kṛta.astrād akṛta.astraḥ prahartavya.sampal.lopāt, eka.putrād aneka.putro nirapekṣatvāt | 20 |
+कज़्०७।१७।२० जात्याद् अजात्यो हि लुप्त।दायाद।सन्तानत्वाद् आधातुं श्रेयान्, प्राज्ञाद् अप्राज्ञो मन्त्र।शक्ति।लोपात्, शूराद् अशूर उत्साह।शक्ति।लोपात्, कृत।अस्त्राद् अकृत।अस्त्रः प्रहर्तव्य।सम्पल्।लोपात्, एक।पुत्राद् अनेक।पुत्रो निरपेक्षत्वात् । २० ।
 
-KAZ07.17.21 jātya.prājñayor jātyam aprājñam aiśvarya.prakṛtir anuvartate, prājñam ajātyaṃ mantra.adhikāraḥ | 21 |
+कज़्०७।१७।२१ जात्य।प्राज्ञयोर् जात्यम् अप्राज्ञम् ऐश्वर्य।प्रकृतिर् अनुवर्तते, प्राज्ञम् अजात्यं मन्त्र।अधिकारः । २१ ।
 
-KAZ07.17.22 mantra.adhikāre 'pi vṛddha.samyogāj jātyaḥ prājñam atisandhatte | 22 |
+कज़्०७।१७।२२ मन्त्र।अधिकारे ऽपि वृद्ध।सम्योगाज् जात्यः प्राज्ञम् अतिसन्धत्ते । २२ ।
 
-KAZ07.17.23 prājña.śūrayoḥ prājñam aśūraṃ mati.karmaṇāṃ yogo 'nuvartate, śūram aprājñaṃ vikrama.adhikāraḥ | 23 |
+कज़्०७।१७।२३ प्राज्ञ।शूरयोः प्राज्ञम् अशूरं मति।कर्मणां योगो ऽनुवर्तते, शूरम् अप्राज्ञं विक्रम।अधिकारः । २३ ।
 
-KAZ07.17.24 vikrama.adhikāre 'pi hastinam iva lubdhakaḥ prājñaḥ śūram atisandhatteś | 24 |
+कज़्०७।१७।२४ विक्रम।अधिकारे ऽपि हस्तिनम् इव लुब्धकः प्राज्ञः शूरम् अतिसन्धत्तेश् । २४ ।
 
-KAZ07.17.25 śūra.kṛta.astrayoḥ śūram akṛta.astraṃ vikrama.vyavasāyo 'nuvartate, kṛta.astram aśūraṃ lakṣya.lambha.adhikāraḥ | 25 |
+कज़्०७।१७।२५ शूर।कृत।अस्त्रयोः शूरम् अकृत।अस्त्रं विक्रम।व्यवसायो ऽनुवर्तते, कृत।अस्त्रम् अशूरं लक्ष्य।लम्भ।अधिकारः । २५ ।
 
-KAZ07.17.26 lakṣya.lambha.adhikāre 'pi sthairya.pratipatty.asammoṣaiḥ śūraḥ kṛta.astram atisandhatte | 26 |
+कज़्०७।१७।२६ लक्ष्य।लम्भ।अधिकारे ऽपि स्थैर्य।प्रतिपत्त्य्।असम्मोषैः शूरः कृत।अस्त्रम् अतिसन्धत्ते । २६ ।
 
-KAZ07.17.27 bahv.eka.putrayor bahu.putra ekaṃ dattvā śeṣa.pratiṣṭabdhaḥ sandhim atikrāmati, na-itaraḥ | 27 |
+कज़्०७।१७।२७ बह्व्।एक।पुत्रयोर् बहु।पुत्र एकं दत्त्वा शेष।प्रतिष्टब्धः सन्धिम् अतिक्रामति, न-इतरः । २७ ।
 
-KAZ07.17.28 putra.sarva.sva.dāne sandhiś cet putra.phalato viśeṣaḥ | 28 |
+कज़्०७।१७।२८ पुत्र।सर्व।स्व।दाने सन्धिश् चेत् पुत्र।फलतो विशेषः । २८ ।
 
-KAZ07.17.29 sama.phalayoḥ śakta.prajananato viśeṣaḥ | 29 |
+कज़्०७।१७।२९ सम।फलयोः शक्त।प्रजननतो विशेषः । २९ ।
 
-KAZ07.17.30 śakta.prajananayor apy upasthita.prajananato viśeṣaḥ | 30 |
+कज़्०७।१७।३० शक्त।प्रजननयोर् अप्य् उपस्थित।प्रजननतो विशेषः । ३० ।
 
-KAZ07.17.31 śaktimaty eka.putre tu lupta.putra.utpattir ātmānam ādadhyāt, na ca-eka.putram iti | 31 |
+कज़्०७।१७।३१ शक्तिमत्य् एक।पुत्रे तु लुप्त।पुत्र।उत्पत्तिर् आत्मानम् आदध्यात्, न च-एक।पुत्रम् इति । ३१ ।
 
-KAZ07.17.32 abhyuccīyamānaḥ samādhi.mokṣaṃ kārayet | 32 |
+कज़्०७।१७।३२ अभ्युच्चीयमानः समाधि।मोक्षं कारयेत् । ३२ ।
 
-KAZ07.17.33 kumāra.āsannāḥ sattriṇaḥ kāru.śilpi.vyañjanāḥ karmāṇi kurvāṇāḥ suruṅgayā rātrāv upakhānayitvā kumāram apahareyuḥ | 33 |
+कज़्०७।१७।३३ कुमार।आसन्नाः सत्त्रिणः कारु।शिल्पि।व्यञ्जनाः कर्माणि कुर्वाणाः सुरुङ्गया रात्राव् उपखानयित्वा कुमारम् अपहरेयुः । ३३ ।
 
-KAZ07.17.34 naṭanartaka.gāyana.vādaka.vāg.jīvana.kuśīlava.plavaka.saubhikā vā pūrva.praṇihitāḥ param upatiṣṭheran | 34 |
+कज़्०७।१७।३४ नटनर्तक।गायन।वादक।वाग्।जीवन।कुशीलव।प्लवक।सौभिका वा पूर्व।प्रणिहिताः परम् उपतिष्ठेरन् । ३४ ।
 
-KAZ07.17.35 te kumāraṃ paraṃ.parayā-upatiṣṭheran | 35 |
+कज़्०७।१७।३५ ते कुमारं परं।परया-उपतिष्ठेरन् । ३५ ।
 
-KAZ07.17.36 teṣām aniyata.kāla.praveśa.sthāna.nirgamanāni sthāpayet | 36 |
+कज़्०७।१७।३६ तेषाम् अनियत।काल।प्रवेश।स्थान।निर्गमनानि स्थापयेत् । ३६ ।
 
-KAZ07.17.37 tatas tad.vyañjano vā rātrau pratiṣṭheta | 37 |
+कज़्०७।१७।३७ ततस् तद्।व्यञ्जनो वा रात्रौ प्रतिष्ठेत । ३७ ।
 
-KAZ07.17.38 tena rūpa.ājīvā bhāryā.vyañjanāś ca vyākhyātāḥ | 38 |
+कज़्०७।१७।३८ तेन रूप।आजीवा भार्या।व्यञ्जनाश् च व्याख्याताः । ३८ ।
 
-KAZ07.17.39 teṣāṃ vā tūrya.bhāṇḍa.phelāṃ gṛhītvā nirgacchet | 39 |
+कज़्०७।१७।३९ तेषां वा तूर्य।भाण्ड।फेलां गृहीत्वा निर्गच्छेत् । ३९ ।
 
-KAZ07.17.40 sūda.ārālika.snāpaka.saṃvāhaka.āstaraka.kalpaka.prasādhaka.- udaka.paricārakair vā dravya.vastra.bhāṇḍa.phelā.śayana.āsana.sambhogair nirhriyeta | 40 |
+कज़्०७।१७।४० सूद।आरालिक।स्नापक।संवाहक।आस्तरक।कल्पक।प्रसाधक।- उदक।परिचारकैर् वा द्रव्य।वस्त्र।भाण्ड।फेला।शयन।आसन।सम्भोगैर् निर्ह्रियेत । ४० ।
 
-KAZ07.17.41 paricārakac.chadmanā vā kiñcid arūpa.velāyām ādāya nirgacchet, suruṅgā.mukhena vā niśā.upahāreṇa | 41 |
+कज़्०७।१७।४१ परिचारकच्।छद्मना वा किञ्चिद् अरूप।वेलायाम् आदाय निर्गच्छेत्, सुरुङ्गा।मुखेन वा निशा।उपहारेण । ४१ ।
 
-KAZ07.17.42 toya.āśaye vā vāruṇaṃ yogam ātiṣṭhet | 42 |
+कज़्०७।१७।४२ तोय।आशये वा वारुणं योगम् आतिष्ठेत् । ४२ ।
 
-KAZ07.17.43 vaidehaka.vyañjanā vā pakva.anna.phala.vyavahāreṇa-ārakṣiṣu rasam upacārayeyuḥ | 43 |
+कज़्०७।१७।४३ वैदेहक।व्यञ्जना वा पक्व।अन्न।फल।व्यवहारेण-आरक्षिषु रसम् उपचारयेयुः । ४३ ।
 
-KAZ07.17.44 daivata.upahāra.śrāddha.prahavaṇa.nimittam ārakṣiṣu madana.yoga.yuktam anna.pānaṃ rasaṃ vā prayujya-apagacchet, ārakṣaka.protsāhanena vā | 44 |
+कज़्०७।१७।४४ दैवत।उपहार।श्राद्ध।प्रहवण।निमित्तम् आरक्षिषु मदन।योग।युक्तम् अन्न।पानं रसं वा प्रयुज्य-अपगच्छेत्, आरक्षक।प्रोत्साहनेन वा । ४४ ।
 
-KAZ07.17.45 nāgaraka.kuśīlava.cikitsaka.āpūpika.vyañjanā vā rātrau samṛddha.gṛhāṇy ādīpayeyuḥ ārakṣiṇāṃ vā | 45 |
+कज़्०७।१७।४५ नागरक।कुशीलव।चिकित्सक।आपूपिक।व्यञ्जना वा रात्रौ समृद्ध।गृहाण्य् आदीपयेयुः आरक्षिणां वा । ४५ ।
 
-KAZ07.17.46 vaidehaka.vyañjanā vā paṇya.saṃsthām ādīpayeyuḥ | 46 |
+कज़्०७।१७।४६ वैदेहक।व्यञ्जना वा पण्य।संस्थाम् आदीपयेयुः । ४६ ।
 
-KAZ07.17.47 anyad vā śarīraṃ nikṣipya sva.gṛham ādīpayed anupāta.bhayāt | 47 |
+कज़्०७।१७।४७ अन्यद् वा शरीरं निक्षिप्य स्व।गृहम् आदीपयेद् अनुपात।भयात् । ४७ ।
 
-KAZ07.17.48 tataḥ sandhic.cheda.khāta.suruṅgābhir apagacchet | 48 |
+कज़्०७।१७।४८ ततः सन्धिच्।छेद।खात।सुरुङ्गाभिर् अपगच्छेत् । ४८ ।
 
-KAZ07.17.49 kāca.kumbha.bhāṇḍa.bhāra.vyañjano vā rātrau pratiṣṭheta | 49 |
+कज़्०७।१७।४९ काच।कुम्भ।भाण्ड।भार।व्यञ्जनो वा रात्रौ प्रतिष्ठेत । ४९ ।
 
-KAZ07.17.50 muṇḍa.jaṭilānāṃ pravāsanāny anupraviṣṭo vā rātrau tad.vyañjanaḥ pratiṣṭheta, virūpa.vyādhi.karaṇa.araṇya.carac.chadmanām anyatamena vā | 50 |
+कज़्०७।१७।५० मुण्ड।जटिलानां प्रवासनान्य् अनुप्रविष्टो वा रात्रौ तद्।व्यञ्जनः प्रतिष्ठेत, विरूप।व्याधि।करण।अरण्य।चरच्।छद्मनाम् अन्यतमेन वा । ५० ।
 
-KAZ07.17.51 preta.vyañjano vā gūḍhair nirhriyeta | 51 |
+कज़्०७।१७।५१ प्रेत।व्यञ्जनो वा गूढैर् निर्ह्रियेत । ५१ ।
 
-KAZ07.17.52 pretaṃ vā strī.veṣeṇa-anugacchet | 52 |
+कज़्०७।१७।५२ प्रेतं वा स्त्री।वेषेण-अनुगच्छेत् । ५२ ।
 
-KAZ07.17.53 vana.cara.vyañjanāś ca-enam anyato yāntam anyato 'padiśeyuḥ | 53 |
+कज़्०७।१७।५३ वन।चर।व्यञ्जनाश् च-एनम् अन्यतो यान्तम् अन्यतो ऽपदिशेयुः । ५३ ।
 
-KAZ07.17.54 tato 'nyato gacchet | 54 |
+कज़्०७।१७।५४ ततो ऽन्यतो गच्छेत् । ५४ ।
 
-KAZ07.17.55 cakra.carāṇāṃ vā śakaṭa.vāṭair apagacchet | 55 |
+कज़्०७।१७।५५ चक्र।चराणां वा शकट।वाटैर् अपगच्छेत् । ५५ ।
 
-KAZ07.17.56 āsanne ca-anupāte sattraṃ vā gṛhṇīyāt | 56 |
+कज़्०७।१७।५६ आसन्ने च-अनुपाते सत्त्रं वा गृह्णीयात् । ५६ ।
 
-KAZ07.17.57 sattra.abhāve hiraṇyaṃ rasa.viddhaṃ vā bhakṣya.jātam ubhayataḥ.panthānam utsṛjet | 57 |
+कज़्०७।१७।५७ सत्त्र।अभावे हिरण्यं रस।विद्धं वा भक्ष्य।जातम् उभयतः।पन्थानम् उत्सृजेत् । ५७ ।
 
-KAZ07.17.58 tato 'nyato 'pagacchet | 58 |
+कज़्०७।१७।५८ ततो ऽन्यतो ऽपगच्छेत् । ५८ ।
 
-KAZ07.17.59 gṛhīto vā sāma.ādibhir anupātam atisandadhyāt, rasa.viddhena vā pathy.adanena | 59 |
+कज़्०७।१७।५९ गृहीतो वा साम।आदिभिर् अनुपातम् अतिसन्दध्यात्, रस।विद्धेन वा पथ्य्।अदनेन । ५९ ।
 
-KAZ07.17.60 vāruṇa.yoga.agni.dāheṣu vā śarīram anyad ādhāya śatrum abhiyuñjīta "putro me tvayā hataḥ" iti | 60 |
+कज़्०७।१७।६० वारुण।योग।अग्नि।दाहेषु वा शरीरम् अन्यद् आधाय शत्रुम् अभियुञ्जीत "पुत्रो मे त्वया हतः" इति । ६० ।
 
-KAZ07.17.61ab upāttac.channa.śastro vā rātrau vikramya rakṣiṣu |
+कज़्०७।१७।६१अब् उपात्तच्।छन्न।शस्त्रो वा रात्रौ विक्रम्य रक्षिषु ।
 
-KAZ07.17.61cd śīghra.pātair apasared gūḍha.praṇihitaiḥ saha | 61 |
+कज़्०७।१७।६१च्द् शीघ्र।पातैर् अपसरेद् गूढ।प्रणिहितैः सह । ६१ ।
 
  छप्तेर् १८ (सेच्तिओन्स् १२४; १२५; १२६): चोन्दुच्त् तोwअर्द्स् थे मिद्द्ले किन्ग्; चोन्दुच्त् तोwअर्द्स् थे नेउत्रल् किन्ग्; चोन्दुच्त् तोwअर्द्स् थे चिर्च्ले ओड़् किन्ग्स्
  \[क् त्र्। ४३९\] ,  \[क्२ त्र्। ३८०\] 
@@ -8738,138 +8737,138 @@ KAZ07.17.61cd śīghra.pātair apasared gūḍha.praṇihitaiḥ saha | 61 |
 
 # बोओक् ८: चोन्चेर्निन्ग् थे तोपिच् ओड़् चलमितिएस्
  \[क् त्र्। ४४५-४६९\] ,  \[क्२ त्र्। ३८५-४०५\] 
- Chapter 1 (Section 127): Calamities of the Constituent Elements
- \[K tr. 445\] ,  \[K2 tr. 385\] 
-KAZ08.1.01 vyasana.yaugapadye saukaryato yātavyaṃ rakṣitavyaṃ vā-iti vyasana.cintā | 1 |
+ छप्तेर् १ (सेच्तिओन् १२७): चलमितिएस् ओड़् थे चोन्स्तितुएन्त् एलेमेन्त्स्
+ \[क् त्र्। ४४५\] ,  \[क्२ त्र्। ३८५\] 
+कज़्०८।१।०१ व्यसन।यौगपद्ये सौकर्यतो यातव्यं रक्षितव्यं वा-इति व्यसन।चिन्ता । १ ।
 
-KAZ08.1.02 daivaṃ mānuṣaṃ vā prakṛti.vyasanam anaya.apanayābhyāṃ sambhavati | 2 |
+कज़्०८।१।०२ दैवं मानुषं वा प्रकृति।व्यसनम् अनय।अपनयाभ्यां सम्भवति । २ ।
 
-KAZ08.1.03 guṇa.prātilomyam abhāvaḥ pradoṣaḥ prasaṅgaḥ pīḍā vā vyasanam | 3 |
+कज़्०८।१।०३ गुण।प्रातिलोम्यम् अभावः प्रदोषः प्रसङ्गः पीडा वा व्यसनम् । ३ ।
 
-KAZ08.1.04 vyasyaty enaṃ śreyasa iti vyasanam | 4 |
+कज़्०८।१।०४ व्यस्यत्य् एनं श्रेयस इति व्यसनम् । ४ ।
 
-KAZ08.1.05 "svāmy.amātya.jana.pada.durga.kośa.daṇḍa.mitra.vyasanānāṃ pūrvaṃ pūrvaṃ garīyaḥ" ity ācāryāḥ | 5 |
+कज़्०८।१।०५ "स्वाम्य्।अमात्य।जन।पद।दुर्ग।कोश।दण्ड।मित्र।व्यसनानां पूर्वं पूर्वं गरीयः" इत्य् आचार्याः । ५ ।
 
-KAZ08.1.06 na-iti bharadvājaḥ | 6 |
+कज़्०८।१।०६ न-इति भरद्वाजः । ६ ।
 
-KAZ08.1.07 "svāmy.amātya.vyasanayor amātya.vyasanaṃ garīyaḥ | 7 |
+कज़्०८।१।०७ "स्वाम्य्।अमात्य।व्यसनयोर् अमात्य।व्यसनं गरीयः । ७ ।
 
-KAZ08.1.08 mantro mantra.phala.avāptiḥ karma.anuṣṭhānam āya.vyaya.karma daṇḍa.praṇayanam amitra.aṭavī.pratiṣedho rājya.rakṣaṇaṃ vyasana.pratīkāraḥ kumāra.rakṣaṇam abhiṣekaś ca kumārāṇām āyattam amātyeṣu | 8 |
+कज़्०८।१।०८ मन्त्रो मन्त्र।फल।अवाप्तिः कर्म।अनुष्ठानम् आय।व्यय।कर्म दण्ड।प्रणयनम् अमित्र।अटवी।प्रतिषेधो राज्य।रक्षणं व्यसन।प्रतीकारः कुमार।रक्षणम् अभिषेकश् च कुमाराणाम् आयत्तम् अमात्येषु । ८ ।
 
-KAZ08.1.09 teṣām abhāve tad.abhāvaḥ, chinna.pakṣasya-iva rājñaś ceṣṭā.nāśaś ca | 9 |
+कज़्०८।१।०९ तेषाम् अभावे तद्।अभावः, छिन्न।पक्षस्य-इव राज्ञश् चेष्टा।नाशश् च । ९ ।
 
-KAZ08.1.10 vyasaneṣu ca-āsannaḥ para.upajāpaḥ | 10 |
+कज़्०८।१।१० व्यसनेषु च-आसन्नः पर।उपजापः । १० ।
 
-KAZ08.1.11 vaiguṇye ca prāṇa.ābādhaḥ prāṇa.antika.caratvād rājñaḥ" iti | 11 |
+कज़्०८।१।११ वैगुण्ये च प्राण।आबाधः प्राण।अन्तिक।चरत्वाद् राज्ञः" इति । ११ ।
 
-KAZ08.1.12 na-iti kauṭilyaḥ | 12 |
+कज़्०८।१।१२ न-इति कौटिल्यः । १२ ।
 
-KAZ08.1.13 mantri.purohita.ādi.bhṛtya.vargam adhyakṣa.pracāraṃ puruṣa.dravya.prakṛti.vyasana.pratīkāram edhanaṃ ca rājā-eva karoti | 13 |
+कज़्०८।१।१३ मन्त्रि।पुरोहित।आदि।भृत्य।वर्गम् अध्यक्ष।प्रचारं पुरुष।द्रव्य।प्रकृति।व्यसन।प्रतीकारम् एधनं च राजा-एव करोति । १३ ।
 
-KAZ08.1.14 vyasaniṣu vā-amātyeṣv anyān avyasaninaḥ karoti | 14 |
+कज़्०८।१।१४ व्यसनिषु वा-अमात्येष्व् अन्यान् अव्यसनिनः करोति । १४ ।
 
-KAZ08.1.15 pūjya.pūjane dūṣya.avagrahe ca nitya.yuktas tiṣṭhati | 15 |
+कज़्०८।१।१५ पूज्य।पूजने दूष्य।अवग्रहे च नित्य।युक्तस् तिष्ठति । १५ ।
 
-KAZ08.1.16 svāmī ca sampannaḥ sva.sampadbhiḥ prakṛtīḥ sampādayati | 16 |
+कज़्०८।१।१६ स्वामी च सम्पन्नः स्व।सम्पद्भिः प्रकृतीः सम्पादयति । १६ ।
 
-KAZ08.1.17 sa yat.śīlas tat.śīlāḥ prakṛtayo bhavanti, utthāne pramāde ca tad.āyattatvāt | 17 |
+कज़्०८।१।१७ स यत्।शीलस् तत्।शीलाः प्रकृतयो भवन्ति, उत्थाने प्रमादे च तद्।आयत्तत्वात् । १७ ।
 
-KAZ08.1.18 tat.kūṭa.sthānīyo hi svāmī-iti | 18 |
+कज़्०८।१।१८ तत्।कूट।स्थानीयो हि स्वामी-इति । १८ ।
 
-KAZ08.1.19 "amātya.jana.pada.vyasanayor jana.pada.vyasanaṃ garīyaḥ" iti viśāla.akṣaḥ | 19 |
+कज़्०८।१।१९ "अमात्य।जन।पद।व्यसनयोर् जन।पद।व्यसनं गरीयः" इति विशाल।अक्षः । १९ ।
 
-KAZ08.1.20 "kośo daṇḍaḥ kupyaṃ viṣṭir vāhanaṃ nicayāś ca jana.padād uttiṣṭhante | 20 |
+कज़्०८।१।२० "कोशो दण्डः कुप्यं विष्टिर् वाहनं निचयाश् च जन।पदाद् उत्तिष्ठन्ते । २० ।
 
-KAZ08.1.21 teṣām abhāvo jana.pada.abhāve, svāmy.amātyayoś ca-anantaraḥ" iti | 21 |
+कज़्०८।१।२१ तेषाम् अभावो जन।पद।अभावे, स्वाम्य्।अमात्ययोश् च-अनन्तरः" इति । २१ ।
 
-KAZ08.1.22 na-iti kauṭilyaḥ | 22 |
+कज़्०८।१।२२ न-इति कौटिल्यः । २२ ।
 
-KAZ08.1.23 amātya.mūlāḥ sarva.ārambhāḥ - jana.padasya karma.siddhayaḥ svataḥ parataś ca yoga.kṣema.sādhanaṃ vyasana.pratīkāraḥ śūnya.niveśa.upacayau daṇḍa.kara.anugrahaś ca-iti | 23 |
+कज़्०८।१।२३ अमात्य।मूलाः सर्व।आरम्भाः - जन।पदस्य कर्म।सिद्धयः स्वतः परतश् च योग।क्षेम।साधनं व्यसन।प्रतीकारः शून्य।निवेश।उपचयौ दण्ड।कर।अनुग्रहश् च-इति । २३ ।
 
-KAZ08.1.24 "jana.pada.durga.vyasanayor durga.vyasanam" iti pārāśarāḥ | 24 |
+कज़्०८।१।२४ "जन।पद।दुर्ग।व्यसनयोर् दुर्ग।व्यसनम्" इति पाराशराः । २४ ।
 
-KAZ08.1.25 "durge hi kośa.-daṇḍa.utpattir āpadi sthānaṃ ca jana.padasya | 25 |
+कज़्०८।१।२५ "दुर्गे हि कोश।-दण्ड।उत्पत्तिर् आपदि स्थानं च जन।पदस्य । २५ ।
 
-KAZ08.1.26 śaktimattarāś ca paurā jānapadebhyo nityāś ca-āpadi sahāyā rājñaḥ | 26 |
+कज़्०८।१।२६ शक्तिमत्तराश् च पौरा जानपदेभ्यो नित्याश् च-आपदि सहाया राज्ञः । २६ ।
 
-KAZ08.1.27 jānapadās tv amitra.sādhāraṇāḥ" iti | 27 |
+कज़्०८।१।२७ जानपदास् त्व् अमित्र।साधारणाः" इति । २७ ।
 
-KAZ08.1.28 na-iti kauṭilyaḥ | 28 |
+कज़्०८।१।२८ न-इति कौटिल्यः । २८ ।
 
-KAZ08.1.29 jana.pada.mūlā durga.kośa.daṇḍa.setu.vārttā.ārambhāḥ | 29 |
+कज़्०८।१।२९ जन।पद।मूला दुर्ग।कोश।दण्ड।सेतु।वार्त्ता।आरम्भाः । २९ ।
 
-KAZ08.1.30 śauryaṃ sthairyaṃ dākṣyaṃ bāhulyaṃ ca jānapadeṣu | 30 |
+कज़्०८।१।३० शौर्यं स्थैर्यं दाक्ष्यं बाहुल्यं च जानपदेषु । ३० ।
 
-KAZ08.1.31 parvata.antar.dvīpāś ca durgā na-adhyuṣyante jana.pada.abhāvāt | 31 |
+कज़्०८।१।३१ पर्वत।अन्तर्।द्वीपाश् च दुर्गा न-अध्युष्यन्ते जन।पद।अभावात् । ३१ ।
 
-KAZ08.1.32 karṣaka.prāye tu durga.vyasanam, āyudhīya.prāye tu jana.pade jana.pada.vyasanam iti | 32 |
+कज़्०८।१।३२ कर्षक।प्राये तु दुर्ग।व्यसनम्, आयुधीय।प्राये तु जन।पदे जन।पद।व्यसनम् इति । ३२ ।
 
-KAZ08.1.33 "durga.kośa.vyasanayoḥ kośa.vyasanam" iti piśunaḥ | 33 |
+कज़्०८।१।३३ "दुर्ग।कोश।व्यसनयोः कोश।व्यसनम्" इति पिशुनः । ३३ ।
 
-KAZ08.1.34 "kośa.mūlo hi durga.saṃskāro durga.rakṣaṇaṃ jana.pada.mitra.amitra.nigraho deśa.antaritānām utsāhanaṃ daṇḍa.bala.vyavahāraś ca | 34 |
+कज़्०८।१।३४ "कोश।मूलो हि दुर्ग।संस्कारो दुर्ग।रक्षणं जन।पद।मित्र।अमित्र।निग्रहो देश।अन्तरितानाम् उत्साहनं दण्ड।बल।व्यवहारश् च । ३४ ।
 
-KAZ08.1.35 durgaḥ kośād upajāpyaḥ pareṣām | 35 |
+कज़्०८।१।३५ दुर्गः कोशाद् उपजाप्यः परेषाम् । ३५ ।
 
-KAZ08.1.36 kośam ādāya ca vyasane śakyam apayātum, na durgam" iti | 36 |
+कज़्०८।१।३६ कोशम् आदाय च व्यसने शक्यम् अपयातुम्, न दुर्गम्" इति । ३६ ।
 
-KAZ08.1.37 na-iti kauṭilyaḥ | 37 |
+कज़्०८।१।३७ न-इति कौटिल्यः । ३७ ।
 
-KAZ08.1.38 durga.arpaṇaḥ kośo daṇḍas tūṣṇīṃ.yuddhaṃ sva.pakṣa.nigraho daṇḍa.bala.vyavahāra āsāra.pratigrahaḥ para.cakra.aṭavī.pratiṣedhaś ca | 38 |
+कज़्०८।१।३८ दुर्ग।अर्पणः कोशो दण्डस् तूष्णीं।युद्धं स्व।पक्ष।निग्रहो दण्ड।बल।व्यवहार आसार।प्रतिग्रहः पर।चक्र।अटवी।प्रतिषेधश् च । ३८ ।
 
-KAZ08.1.39 durga.abhāve ca kośaḥ pareṣām | 39 |
+कज़्०८।१।३९ दुर्ग।अभावे च कोशः परेषाम् । ३९ ।
 
-KAZ08.1.40 dṛśyate hi durgavatām anucchittir iti | 40 |
+कज़्०८।१।४० दृश्यते हि दुर्गवताम् अनुच्छित्तिर् इति । ४० ।
 
-KAZ08.1.41 "kośa.daṇḍavyasanayor daṇḍa.vyasanam" iti kauṇapadantaḥ | 41 |
+कज़्०८।१।४१ "कोश।दण्डव्यसनयोर् दण्ड।व्यसनम्" इति कौणपदन्तः । ४१ ।
 
-KAZ08.1.42 "daṇḍa.mūlo hi mitra.amitra.nigrahaḥ para.daṇḍa.utsāhanaṃ sva.daṇḍa.pratigrahaś ca | 42 |
+कज़्०८।१।४२ "दण्ड।मूलो हि मित्र।अमित्र।निग्रहः पर।दण्ड।उत्साहनं स्व।दण्ड।प्रतिग्रहश् च । ४२ ।
 
-KAZ08.1.43 daṇḍa.abhāve ca dhruvaḥ kośa.vināśaḥ | 43 |
+कज़्०८।१।४३ दण्ड।अभावे च ध्रुवः कोश।विनाशः । ४३ ।
 
-KAZ08.1.44 kośa.abhāve ca śakyaḥ kupyena bhūmyā para.bhūmi.svayaṃ.grāheṇa vā daṇḍaḥ piṇḍayitum, daṇḍavatā ca kośaḥ | 44 |
+कज़्०८।१।४४ कोश।अभावे च शक्यः कुप्येन भूम्या पर।भूमि।स्वयं।ग्राहेण वा दण्डः पिण्डयितुम्, दण्डवता च कोशः । ४४ ।
 
-KAZ08.1.45 svāminaś ca-āsanna.vṛttitvād amātya.sadharmā daṇḍaḥ" iti | 45 |
+कज़्०८।१।४५ स्वामिनश् च-आसन्न।वृत्तित्वाद् अमात्य।सधर्मा दण्डः" इति । ४५ ।
 
-KAZ08.1.46 na-iti kauṭilyaḥ | 46 |
+कज़्०८।१।४६ न-इति कौटिल्यः । ४६ ।
 
-KAZ08.1.47 kośa.mūlo hi daṇḍaḥ | 47 |
+कज़्०८।१।४७ कोश।मूलो हि दण्डः । ४७ ।
 
-KAZ08.1.48 kośa.abhāve daṇḍaḥ paraṃ gacchati, svāminaṃ vā hanti | 48 |
+कज़्०८।१।४८ कोश।अभावे दण्डः परं गच्छति, स्वामिनं वा हन्ति । ४८ ।
 
-KAZ08.1.49 sarva.abhiyoga.karaś ca kośo dharma.kāma.hetuḥ | 49 |
+कज़्०८।१।४९ सर्व।अभियोग।करश् च कोशो धर्म।काम।हेतुः । ४९ ।
 
-KAZ08.1.50 deśa.kāla.kārya.vaśena tu kośa.daṇḍayor anyataraḥ pramāṇī.bhavati | 50 |
+कज़्०८।१।५० देश।काल।कार्य।वशेन तु कोश।दण्डयोर् अन्यतरः प्रमाणी।भवति । ५० ।
 
-KAZ08.1.51 lambha.pālano hi daṇḍaḥ kośasya, kośaḥ kośasya daṇḍasya ca bhavati | 51 |
+कज़्०८।१।५१ लम्भ।पालनो हि दण्डः कोशस्य, कोशः कोशस्य दण्डस्य च भवति । ५१ ।
 
-KAZ08.1.52 sarva.dravya.prayojakatvāt kośa.vyasanaṃ garīya iti | 52 |
+कज़्०८।१।५२ सर्व।द्रव्य।प्रयोजकत्वात् कोश।व्यसनं गरीय इति । ५२ ।
 
-KAZ08.1.53 "daṇḍa.mitra.vyasanayor mitra.vyasanam" iti vātavyādhiḥ | 53 |
+कज़्०८।१।५३ "दण्ड।मित्र।व्यसनयोर् मित्र।व्यसनम्" इति वातव्याधिः । ५३ ।
 
-KAZ08.1.54 "mitram abhṛtaṃ vyavahitaṃ ca karma karoti, pārṣṇi.grāham āsāram amitram āṭavikaṃ ca pratikaroti, kośa.daṇḍa.bhūmibhiś ca-upakaroti vyasana.avasthā.yogam" iti | 54 |
+कज़्०८।१।५४ "मित्रम् अभृतं व्यवहितं च कर्म करोति, पार्ष्णि।ग्राहम् आसारम् अमित्रम् आटविकं च प्रतिकरोति, कोश।दण्ड।भूमिभिश् च-उपकरोति व्यसन।अवस्था।योगम्" इति । ५४ ।
 
-KAZ08.1.55 na-iti kauṭilyaḥ | 55 |
+कज़्०८।१।५५ न-इति कौटिल्यः । ५५ ।
 
-KAZ08.1.56 daṇḍavato mitraṃ mitra.bhāve tiṣṭhati, amitro vā mitra.bhāve | 56 |
+कज़्०८।१।५६ दण्डवतो मित्रं मित्र।भावे तिष्ठति, अमित्रो वा मित्र।भावे । ५६ ।
 
-KAZ08.1.57 daṇḍa.mitrayos tu sādhāraṇe kārye sārataḥ sva.yuddha.deśa.kāla.lābhād viśeṣaḥ | 57 |
+कज़्०८।१।५७ दण्ड।मित्रयोस् तु साधारणे कार्ये सारतः स्व।युद्ध।देश।काल।लाभाद् विशेषः । ५७ ।
 
-KAZ08.1.58 śīghra.abhiyāne tv amitra.āṭavika.anabhyantara.kope ca na mitraṃ vidyate | 58 |
+कज़्०८।१।५८ शीघ्र।अभियाने त्व् अमित्र।आटविक।अनभ्यन्तर।कोपे च न मित्रं विद्यते । ५८ ।
 
-KAZ08.1.59 vyasana.yaugapadye para.vṛddhau ca mitram artha.yuktau tiṣṭhati | 59 |
+कज़्०८।१।५९ व्यसन।यौगपद्ये पर।वृद्धौ च मित्रम् अर्थ।युक्तौ तिष्ठति । ५९ ।
 
-KAZ08.1.60 iti prakṛti.vyasana.sampradhāraṇam uktam | 60 |
+कज़्०८।१।६० इति प्रकृति।व्यसन।सम्प्रधारणम् उक्तम् । ६० ।
 
-KAZ08.1.61ab prakṛty.avayavānāṃ tu vyasanasya viśeṣataḥ |  
-KAZ08.1.61cd bahu.bhāvo 'nurāgo vā sāro vā kārya.sādhakaḥ || 61 ||  
+कज़्०८।१।६१अब् प्रकृत्य्।अवयवानां तु व्यसनस्य विशेषतः ।  
+कज़्०८।१।६१च्द् बहु।भावो ऽनुरागो वा सारो वा कार्य।साधकः ॥ ६१ ॥  
 
 
-KAZ08.1.62ab dvayos tu vyasane tulye viśeṣo guṇataḥ kṣayāt |  
-KAZ08.1.62cd śeṣa.prakṛti.sādguṇyaṃ yadi syān na-avidheyakam || 62 ||  
+कज़्०८।१।६२अब् द्वयोस् तु व्यसने तुल्ये विशेषो गुणतः क्षयात् ।  
+कज़्०८।१।६२च्द् शेष।प्रकृति।साद्गुण्यं यदि स्यान् न-अविधेयकम् ॥ ६२ ॥  
 
 
-KAZ08.1.63ab śeṣa.prakṛti.nāśas tu yatra-eka.vyasanād bhavet |  
-KAZ08.1.63cd vyasanaṃ tad garīyaḥ syāt pradhānasya-itarasya vā || 63 ||  
+कज़्०८।१।६३अब् शेष।प्रकृति।नाशस् तु यत्र-एक।व्यसनाद् भवेत् ।  
+कज़्०८।१।६३च्द् व्यसनं तद् गरीयः स्यात् प्रधानस्य-इतरस्य वा ॥ ६३ ॥  
 
 
  छप्तेर् २ (सेच्तिओन् १२८): चलमितिएस् ओड़् थे किन्ग् अन्द् किन्ग्स्हिप्
@@ -8928,142 +8927,142 @@ KAZ08.1.63cd vyasanaṃ tad garīyaḥ syāt pradhānasya-itarasya vā || 63 ||
 कज़्०८।२।२६च्द् पारम्पर्य।क्रमेण-उक्तं याने स्थाने च कारणम् ॥ २६ ॥  
 
 
- Chapter 3 (Section 129): Vices of Man
- \[K tr. 455\] ,  \[K2 tr. 393\] 
-KAZ08.3.01 avidyā.vinayaḥ puruṣa.vyasana.hetuḥ | 1 |
+ छप्तेर् ३ (सेच्तिओन् १२९): विचेस् ओड़् मन्
+ \[क् त्र्। ४५५\] ,  \[क्२ त्र्। ३९३\] 
+कज़्०८।३।०१ अविद्या।विनयः पुरुष।व्यसन।हेतुः । १ ।
 
-KAZ08.3.02 avinīto hi vyasana.doṣān na paśyati | 2 |
+कज़्०८।३।०२ अविनीतो हि व्यसन।दोषान् न पश्यति । २ ।
 
-KAZ08.3.03 tān upadekṣyāmaḥ | 3 |
+कज़्०८।३।०३ तान् उपदेक्ष्यामः । ३ ।
 
-KAZ08.3.04 kopajas tri.vargaḥ, kāmajaś catur.vargaḥ | 4 |
+कज़्०८।३।०४ कोपजस् त्रि।वर्गः, कामजश् चतुर्।वर्गः । ४ ।
 
-KAZ08.3.05 tayoḥ kopo garīyān | 5 |
+कज़्०८।३।०५ तयोः कोपो गरीयान् । ५ ।
 
-KAZ08.3.06 sarvatra hi kopaś carati | 6 |
+कज़्०८।३।०६ सर्वत्र हि कोपश् चरति । ६ ।
 
-KAZ08.3.07 prāyaśaś ca kopa.vaśā rājānaḥ prakṛti.kopair hatāḥ śrūyante, kāma.vaśāḥ kṣaya.nimittam ari.vyādhibhir iti | 7 |
+कज़्०८।३।०७ प्रायशश् च कोप।वशा राजानः प्रकृति।कोपैर् हताः श्रूयन्ते, काम।वशाः क्षय।निमित्तम् अरि।व्याधिभिर् इति । ७ ।
 
-KAZ08.3.08 na-iti bhāradvājaḥ | 8 |
+कज़्०८।३।०८ न-इति भारद्वाजः । ८ ।
 
-KAZ08.3.09 "sat.puruṣa.ācāraḥ kopo vaira.yātanam avajñā.vadho bhīta.manuṣyatā ca | 9 |
+कज़्०८।३।०९ "सत्।पुरुष।आचारः कोपो वैर।यातनम् अवज्ञा।वधो भीत।मनुष्यता च । ९ ।
 
-KAZ08.3.10 nityaś ca kopena sambandhaḥ pāpa.pratiṣedha.arthaḥ | 10 |
+कज़्०८।३।१० नित्यश् च कोपेन सम्बन्धः पाप।प्रतिषेध।अर्थः । १० ।
 
-KAZ08.3.11 kāmaḥ siddhi.lābhaḥ sāntvaṃ tyāga.śīlatā sampriya.bhāvaś ca | 11 |
+कज़्०८।३।११ कामः सिद्धि।लाभः सान्त्वं त्याग।शीलता सम्प्रिय।भावश् च । ११ ।
 
-KAZ08.3.12 nityaś ca kāmena sambandhaḥ kṛta.karmaṇaḥ phala.upabhoga.arthaḥ" iti | 12 |
+कज़्०८।३।१२ नित्यश् च कामेन सम्बन्धः कृत।कर्मणः फल।उपभोग।अर्थः" इति । १२ ।
 
-KAZ08.3.13 na-iti kauṭilyaḥ | 13 |
+कज़्०८।३।१३ न-इति कौटिल्यः । १३ ।
 
-KAZ08.3.14 dveṣyatā śatru.vedanaṃ duḥkha.āsaṅgaś ca kopaḥ | 14 |
+कज़्०८।३।१४ द्वेष्यता शत्रु।वेदनं दुःख।आसङ्गश् च कोपः । १४ ।
 
-KAZ08.3.15 paribhavo dravya.nāśaḥ pāṭaccara.dyūtakāra.lubdhaka.gāyana.vādakaiś ca-anarthyaiḥ samyogaḥ kāmaḥ | 15 |
+कज़्०८।३।१५ परिभवो द्रव्य।नाशः पाटच्चर।द्यूतकार।लुब्धक।गायन।वादकैश् च-अनर्थ्यैः सम्योगः कामः । १५ ।
 
-KAZ08.3.16 tayoḥ paribhavād dveṣyatā garīyasī | 16 |
+कज़्०८।३।१६ तयोः परिभवाद् द्वेष्यता गरीयसी । १६ ।
 
-KAZ08.3.17 paribhūtaḥ svaiḥ paraiś ca-avagṛhyate, dveṣyaḥ samucchidyata iti | 17 |
+कज़्०८।३।१७ परिभूतः स्वैः परैश् च-अवगृह्यते, द्वेष्यः समुच्छिद्यत इति । १७ ।
 
-KAZ08.3.18 dravya.nāśāt-śatru.vedanaṃ garīyaḥ | 18 |
+कज़्०८।३।१८ द्रव्य।नाशात्-शत्रु।वेदनं गरीयः । १८ ।
 
-KAZ08.3.19 dravya.nāśaḥ kośa.ābādhakaḥ, śatru.vedanaṃ prāṇa.ābādhakam iti | 19 |
+कज़्०८।३।१९ द्रव्य।नाशः कोश।आबाधकः, शत्रु।वेदनं प्राण।आबाधकम् इति । १९ ।
 
-KAZ08.3.20 anarthya.samyogād duḥkha.samyogo garīyān | 20 |
+कज़्०८।३।२० अनर्थ्य।सम्योगाद् दुःख।सम्योगो गरीयान् । २० ।
 
-KAZ08.3.21 anarthya.samyogo muhūrta.pratīkāro, dīrgha.kleśa.karo duḥkhānām āsaṅga iti | 21 |
+कज़्०८।३।२१ अनर्थ्य।सम्योगो मुहूर्त।प्रतीकारो, दीर्घ।क्लेश।करो दुःखानाम् आसङ्ग इति । २१ ।
 
-KAZ08.3.22 tasmāt kopo garīyān | 22 |
+कज़्०८।३।२२ तस्मात् कोपो गरीयान् । २२ ।
 
-KAZ08.3.23 vāk.pāruṣyam artha.dūṣaṇaṃ daṇḍa.pāruṣyam iti | 23 |
+कज़्०८।३।२३ वाक्।पारुष्यम् अर्थ।दूषणं दण्ड।पारुष्यम् इति । २३ ।
 
-KAZ08.3.24 "vāk.pāruṣya.artha.dūṣaṇayor vāk.pāruṣyaṃ garīyaḥ" iti viśāla.akṣaḥ | 24 |
+कज़्०८।३।२४ "वाक्।पारुष्य।अर्थ।दूषणयोर् वाक्।पारुष्यं गरीयः" इति विशाल।अक्षः । २४ ।
 
-KAZ08.3.25 "paruṣa.mukto hi tejasvī tejasā pratyārohati | 25 |
+कज़्०८।३।२५ "परुष।मुक्तो हि तेजस्वी तेजसा प्रत्यारोहति । २५ ।
 
-KAZ08.3.26 durukta.śalyaṃ hṛdi nikhātaṃ tejaḥ.sandīpanam indriya.upatāpi ca" iti | 26 |
+कज़्०८।३।२६ दुरुक्त।शल्यं हृदि निखातं तेजः।सन्दीपनम् इन्द्रिय।उपतापि च" इति । २६ ।
 
-KAZ08.3.27 na-iti kauṭilyaḥ | 27 |
+कज़्०८।३।२७ न-इति कौटिल्यः । २७ ।
 
-KAZ08.3.28 artha.pūjā vāk.śalyam apahanti, vṛtti.vilopas tv artha.dūṣaṇam | 28 |
+कज़्०८।३।२८ अर्थ।पूजा वाक्।शल्यम् अपहन्ति, वृत्ति।विलोपस् त्व् अर्थ।दूषणम् । २८ ।
 
-KAZ08.3.29 adānam ādānaṃ vināśaḥ parityāgo vā-arthasya-ity artha.dūṣaṇam | 29 |
+कज़्०८।३।२९ अदानम् आदानं विनाशः परित्यागो वा-अर्थस्य-इत्य् अर्थ।दूषणम् । २९ ।
 
-KAZ08.3.30 "artha.dūṣaṇa.daṇḍa.pāruṣyayor artha.dūṣaṇaṃ garīyaḥ" iti pārāśarāḥ | 30 |
+कज़्०८।३।३० "अर्थ।दूषण।दण्ड।पारुष्ययोर् अर्थ।दूषणं गरीयः" इति पाराशराः । ३० ।
 
-KAZ08.3.31 "artha.mūlau dharma.kāmau | 31 |
+कज़्०८।३।३१ "अर्थ।मूलौ धर्म।कामौ । ३१ ।
 
-KAZ08.3.32 artha.pratibaddhaś ca loko vartate | 32 |
+कज़्०८।३।३२ अर्थ।प्रतिबद्धश् च लोको वर्तते । ३२ ।
 
-KAZ08.3.33 tasya.upaghāto garīyān" iti | 33 |
+कज़्०८।३।३३ तस्य।उपघातो गरीयान्" इति । ३३ ।
 
-KAZ08.3.34 na-iti kauṭilyaḥ | 34 |
+कज़्०८।३।३४ न-इति कौटिल्यः । ३४ ।
 
-KAZ08.3.35 sumahatā-apy arthena na kaścana śarīra.vināśam icchet | 35 |
+कज़्०८।३।३५ सुमहता-अप्य् अर्थेन न कश्चन शरीर।विनाशम् इच्छेत् । ३५ ।
 
-KAZ08.3.36 daṇḍa.pāruṣyāc ca tam eva doṣam anyebhyaḥ prāpnoti | 36 |
+कज़्०८।३।३६ दण्ड।पारुष्याच् च तम् एव दोषम् अन्येभ्यः प्राप्नोति । ३६ ।
 
-KAZ08.3.37 iti kopajas tri.vargaḥ | 37 |
+कज़्०८।३।३७ इति कोपजस् त्रि।वर्गः । ३७ ।
 
-KAZ08.3.38 kāmajas tu mṛgayā dyūtaṃ striyaḥ pānam iti catur.vargaḥ | 38 |
+कज़्०८।३।३८ कामजस् तु मृगया द्यूतं स्त्रियः पानम् इति चतुर्।वर्गः । ३८ ।
 
-KAZ08.3.39 tasya "mṛgayā.dyūtayor mṛgayā garīyasī" iti piśunaḥ | 39 |
+कज़्०८।३।३९ तस्य "मृगया।द्यूतयोर् मृगया गरीयसी" इति पिशुनः । ३९ ।
 
-KAZ08.3.40 "stena.amitra.vyāla.dāva.praskhalana.bhaya.din.mohāḥ kṣut.pipāse ca prāṇa.ābādhas tasyām | 40 |
+कज़्०८।३।४० "स्तेन।अमित्र।व्याल।दाव।प्रस्खलन।भय।दिन्।मोहाः क्षुत्।पिपासे च प्राण।आबाधस् तस्याम् । ४० ।
 
-KAZ08.3.41 dyūte tu jitam eva-akṣa.viduṣā yathā jayat.sena.duryodhanābhyām" iti | 41 |
+कज़्०८।३।४१ द्यूते तु जितम् एव-अक्ष।विदुषा यथा जयत्।सेन।दुर्योधनाभ्याम्" इति । ४१ ।
 
-KAZ08.3.42 na-ity kauṭilyaḥ | 42 |
+कज़्०८।३।४२ न-इत्य् कौटिल्यः । ४२ ।
 
-KAZ08.3.43 tayor apy anyatara.parājayo 'sti-iti nala.yudhiṣṭhirābhyāṃ vyākhyātam | 43 |
+कज़्०८।३।४३ तयोर् अप्य् अन्यतर।पराजयो ऽस्ति-इति नल।युधिष्ठिराभ्यां व्याख्यातम् । ४३ ।
 
-KAZ08.3.44 tad eva vijita.dravyam āmiṣaṃ vaira.anubandhaś ca | 44 |
+कज़्०८।३।४४ तद् एव विजित।द्रव्यम् आमिषं वैर।अनुबन्धश् च । ४४ ।
 
-KAZ08.3.45 sato 'rthasya vipratipattir asataś ca-arjanam apratibhukta.nāśo mūtra.purīṣa.dhāraṇa.bubhukṣā.ādibhiś ca vyādhi.lābha iti dyūta.doṣāḥ | 45 |
+कज़्०८।३।४५ सतो ऽर्थस्य विप्रतिपत्तिर् असतश् च-अर्जनम् अप्रतिभुक्त।नाशो मूत्र।पुरीष।धारण।बुभुक्षा।आदिभिश् च व्याधि।लाभ इति द्यूत।दोषाः । ४५ ।
 
-KAZ08.3.46 mṛgayāyāṃ tu vyāyāmaḥ śleṣma.pitta.medaḥ.sveda.nāśaś cale sthite ca kāye lakṣa.paricayaḥ kopa.bhaya.sthāneṣu ca mṛgāṇāṃ citta.jñānam anitya.yānaṃ ca-iti | 46 |
+कज़्०८।३।४६ मृगयायां तु व्यायामः श्लेष्म।पित्त।मेदः।स्वेद।नाशश् चले स्थिते च काये लक्ष।परिचयः कोप।भय।स्थानेषु च मृगाणां चित्त।ज्ञानम् अनित्य।यानं च-इति । ४६ ।
 
-KAZ08.3.47 "dyūta.strī.vyasanayoḥ kaitava.vyasanam" iti kauṇapadantaḥ | 47 |
+कज़्०८।३।४७ "द्यूत।स्त्री।व्यसनयोः कैतव।व्यसनम्" इति कौणपदन्तः । ४७ ।
 
-KAZ08.3.48 "sātatyena hi niśi pradīpe mātari ca mṛtāyāṃ dīvyaty eva kitavaḥ | 48 |
+कज़्०८।३।४८ "सातत्येन हि निशि प्रदीपे मातरि च मृतायां दीव्यत्य् एव कितवः । ४८ ।
 
-KAZ08.3.49 kṛcchre ca pratipṛṣṭaḥ kupyati | 49 |
+कज़्०८।३।४९ कृच्छ्रे च प्रतिपृष्टः कुप्यति । ४९ ।
 
-KAZ08.3.50 strī.vyasane tu snāna.pratikarma.bhojana.bhūmiṣu bhavaty eva dharma.artha.paripraśnaḥ | 50 |
+कज़्०८।३।५० स्त्री।व्यसने तु स्नान।प्रतिकर्म।भोजन।भूमिषु भवत्य् एव धर्म।अर्थ।परिप्रश्नः । ५० ।
 
-KAZ08.3.51 śakyā ca strī rājahite.niyoktum, upāṃśu.daṇḍena vyādhinā vā vyāvartayitum avasrāvayituṃ vā" iti | 51 |
+कज़्०८।३।५१ शक्या च स्त्री राजहिते।नियोक्तुम्, उपांशु।दण्डेन व्याधिना वा व्यावर्तयितुम् अवस्रावयितुं वा" इति । ५१ ।
 
-KAZ08.3.52 na-iti kauṭilyaḥ | 52 |
+कज़्०८।३।५२ न-इति कौटिल्यः । ५२ ।
 
-KAZ08.3.53 sapratyādeyaṃ dyūtaṃ niṣpratyādeyaṃ strī.vyasanam | 53 |
+कज़्०८।३।५३ सप्रत्यादेयं द्यूतं निष्प्रत्यादेयं स्त्री।व्यसनम् । ५३ ।
 
-KAZ08.3.54 adarśanaṃ kārya.nirvedaḥ kāla.atipātanād anartho dharma.lopaś ca tantra.daurbalyaṃ pāna.anubandhaś ca-iti | 54 |
+कज़्०८।३।५४ अदर्शनं कार्य।निर्वेदः काल।अतिपातनाद् अनर्थो धर्म।लोपश् च तन्त्र।दौर्बल्यं पान।अनुबन्धश् च-इति । ५४ ।
 
-KAZ08.3.55 "strī.pāna.vyasanayoḥ strī.vyasanam" iti vātavyādhiḥ | 55 |
+कज़्०८।३।५५ "स्त्री।पान।व्यसनयोः स्त्री।व्यसनम्" इति वातव्याधिः । ५५ ।
 
-KAZ08.3.56 "strīṣu hi bāliśyam aneka.vidhaṃ niśānta.praṇidhau vyākhyātam | 56 |
+कज़्०८।३।५६ "स्त्रीषु हि बालिश्यम् अनेक।विधं निशान्त।प्रणिधौ व्याख्यातम् । ५६ ।
 
-KAZ08.3.57 pāne tu śabda.ādīnām indriya.arthānām upabhogaḥ prīti.dānaṃ parijana.pūjanaṃ karma.śrama.vadhaś ca" iti | 57 |
+कज़्०८।३।५७ पाने तु शब्द।आदीनाम् इन्द्रिय।अर्थानाम् उपभोगः प्रीति।दानं परिजन।पूजनं कर्म।श्रम।वधश् च" इति । ५७ ।
 
-KAZ08.3.58 na-iti kauṭilyaḥ | 58 |
+कज़्०८।३।५८ न-इति कौटिल्यः । ५८ ।
 
-KAZ08.3.59 strī.vyasane bhavaty apatya.utpattir ātma.rakṣaṇaṃ ca-antar.dāreṣu, viparyayo vā bāhyeṣu, agamyeṣu sarva.ucchittiḥ | 59 |
+कज़्०८।३।५९ स्त्री।व्यसने भवत्य् अपत्य।उत्पत्तिर् आत्म।रक्षणं च-अन्तर्।दारेषु, विपर्ययो वा बाह्येषु, अगम्येषु सर्व।उच्छित्तिः । ५९ ।
 
-KAZ08.3.60 tad ubhayaṃ pāna.vyasane | 60 |
+कज़्०८।३।६० तद् उभयं पान।व्यसने । ६० ।
 
-KAZ08.3.61 pāna.sampat - sañjñā.nāśo 'nunmattasya-unmattatvam apretasya pretatvaṃ kaupīna.darśanaṃ śruta.prajñā.prāṇa.vitta.mitra.hāniḥ sadbhir viyogo 'narthya.samyogas tantrī.gīta.naipuṇyeṣu ca-arthaghneṣu prasaṅga iti | 61 |
+कज़्०८।३।६१ पान।सम्पत् - सञ्ज्ञा।नाशो ऽनुन्मत्तस्य-उन्मत्तत्वम् अप्रेतस्य प्रेतत्वं कौपीन।दर्शनं श्रुत।प्रज्ञा।प्राण।वित्त।मित्र।हानिः सद्भिर् वियोगो ऽनर्थ्य।सम्योगस् तन्त्री।गीत।नैपुण्येषु च-अर्थघ्नेषु प्रसङ्ग इति । ६१ ।
 
-KAZ08.3.62 dyūta.madyayor dyūtam | 62 |
+कज़्०८।३।६२ द्यूत।मद्ययोर् द्यूतम् । ६२ ।
 
-KAZ08.3.63 ekeṣāṃ paṇa.nimitto jayaḥ parājayo vā prāṇiṣu niścetaneṣu vā pakṣa.dvaidhena prakṛti.kopaṃ karoti | 63 |
+कज़्०८।३।६३ एकेषां पण।निमित्तो जयः पराजयो वा प्राणिषु निश्चेतनेषु वा पक्ष।द्वैधेन प्रकृति।कोपं करोति । ६३ ।
 
-KAZ08.3.64 viśeṣataś ca saṅghānāṃ saṅgha.dharmiṇāṃ ca rāja.kulānāṃ dyūta.nimitto bhedas tan.nimitto vināśa ity asat.pragrahaḥ pāpiṣṭhatamo vyasanānāṃ tantra.daurbalyād iti | 64 |
+कज़्०८।३।६४ विशेषतश् च सङ्घानां सङ्घ।धर्मिणां च राज।कुलानां द्यूत।निमित्तो भेदस् तन्।निमित्तो विनाश इत्य् असत्।प्रग्रहः पापिष्ठतमो व्यसनानां तन्त्र।दौर्बल्याद् इति । ६४ ।
 
-KAZ08.3.65ab asatāṃ pragrahaḥ kāmaḥ kopaś ca-avagrahaḥ satām |  
-KAZ08.3.65cd vyasanaṃ doṣa.bāhulyād atyantam ubhayaṃ matam || 65 ||  
+कज़्०८।३।६५अब् असतां प्रग्रहः कामः कोपश् च-अवग्रहः सताम् ।  
+कज़्०८।३।६५च्द् व्यसनं दोष।बाहुल्याद् अत्यन्तम् उभयं मतम् ॥ ६५ ॥  
 
 
-KAZ08.3.66ab tasmāt kopaṃ ca kāmaṃ ca vyasana.ārambham ātmavān |  
-KAZ08.3.66cd parityajen mūla.haraṃ vṛddha.sevī jita.indriyaḥ || 66 ||  
+कज़्०८।३।६६अब् तस्मात् कोपं च कामं च व्यसन।आरम्भम् आत्मवान् ।  
+कज़्०८।३।६६च्द् परित्यजेन् मूल।हरं वृद्ध।सेवी जित।इन्द्रियः ॥ ६६ ॥  
 
 
  छप्तेर् ४ (सेच्तिओन्स् १३०; १३१; १३२): अड़्ड़्लिच्तिओन्स्; हिन्द्रन्चेस्; स्तोप्पगेस् ओड़् पय्मेन्त् तो थे त्रेअसुर्य्
@@ -9170,94 +9169,94 @@ KAZ08.3.66cd parityajen mūla.haraṃ vṛddha.sevī jita.indriyaḥ || 66 ||
 कज़्०८।४।५०च्द् यतेत देश।वृद्ध्य्।अर्थं नाशे च स्तम्भ।सङ्गयोः ॥ ५० ॥  
 
 
- Chapter 5 (Sections 133; 134): Calamities of the Army; Calamities of the Ally
- \[K tr. 464\] ,  \[K2 tr. 401\] 
-KAZ08.5.01 bala.vyasanāni - amānitam, vimānitam, abhṛtam, vyādhitam, nava.āgatam, dūra.āyātam, pariśrāntam, parikṣīṇam, pratihatam, hata.agra.vegam, anṛtu.prāptam, abhūmi.prāptam, āśā.nirvedi, parisṛptam, kalatra.garbhi, antaḥ.śalyam, kupita.mūlam, bhinna.garbham, apasṛtam, atikṣiptam, upaniviṣṭam, samāptam, uparuddham, parikṣiptam, chinna.dhānya.puruṣa.vīvadham, sva.vikṣiptam, mitra.vikṣiptam, dūṣya.yuktam, duṣṭa.pārṣṇi.grāham, śūnya.mūlam, asvāmi.saṃhatam, bhinna.kūṭam, andham iti | 1 |
+ छप्तेर् ५ (सेच्तिओन्स् १३३; १३४): चलमितिएस् ओड़् थे अर्म्य्; चलमितिएस् ओड़् थे अल्ल्य्
+ \[क् त्र्। ४६४\] ,  \[क्२ त्र्। ४०१\] 
+कज़्०८।५।०१ बल।व्यसनानि - अमानितम्, विमानितम्, अभृतम्, व्याधितम्, नव।आगतम्, दूर।आयातम्, परिश्रान्तम्, परिक्षीणम्, प्रतिहतम्, हत।अग्र।वेगम्, अनृतु।प्राप्तम्, अभूमि।प्राप्तम्, आशा।निर्वेदि, परिसृप्तम्, कलत्र।गर्भि, अन्तः।शल्यम्, कुपित।मूलम्, भिन्न।गर्भम्, अपसृतम्, अतिक्षिप्तम्, उपनिविष्टम्, समाप्तम्, उपरुद्धम्, परिक्षिप्तम्, छिन्न।धान्य।पुरुष।वीवधम्, स्व।विक्षिप्तम्, मित्र।विक्षिप्तम्, दूष्य।युक्तम्, दुष्ट।पार्ष्णि।ग्राहम्, शून्य।मूलम्, अस्वामि।संहतम्, भिन्न।कूटम्, अन्धम् इति । १ ।
 
-KAZ08.5.02 teṣām amānita.vimānita.aniyatayor amānitaṃ kṛta.artha.mānaṃ yudhyeta, na vimānitam antaḥ.kopam | 2 |
+कज़्०८।५।०२ तेषाम् अमानित।विमानित।अनियतयोर् अमानितं कृत।अर्थ।मानं युध्येत, न विमानितम् अन्तः।कोपम् । २ ।
 
-KAZ08.5.03 abhṛta.vyādhitayor abhṛtaṃ tadātva.kṛta.vetanaṃ yudhyeta, na vyādhitam akarmaṇyam | 3 |
+कज़्०८।५।०३ अभृत।व्याधितयोर् अभृतं तदात्व।कृत।वेतनं युध्येत, न व्याधितम् अकर्मण्यम् । ३ ।
 
-KAZ08.5.04 nava.āgata.dūra.āyātayor nava.āgatam anyata upalabdha.deśam anava.miśraṃ yudhyeta, na dūra.āyatam āyata.gata.parikleśam | 4 |
+कज़्०८।५।०४ नव।आगत।दूर।आयातयोर् नव।आगतम् अन्यत उपलब्ध।देशम् अनव।मिश्रं युध्येत, न दूर।आयतम् आयत।गत।परिक्लेशम् । ४ ।
 
-KAZ08.5.05 pariśrānta.parikṣīṇayoḥ pariśrāntaṃ snāna.bhojana.svapna.labdha.viśrāmaṃ yudhyeta, na parikṣīṇam anyatra-āhave kṣīṇayugya.puruṣam | 5 |
+कज़्०८।५।०५ परिश्रान्त।परिक्षीणयोः परिश्रान्तं स्नान।भोजन।स्वप्न।लब्ध।विश्रामं युध्येत, न परिक्षीणम् अन्यत्र-आहवे क्षीणयुग्य।पुरुषम् । ५ ।
 
-KAZ08.5.06 pratihata.hata.agra.vegayoḥ pratihatam agra.pāta.bhagnaṃ pravīra.puruṣa.saṃhataṃ yudhyeta, na hata.agra.vegam agra.pāta.hata.vīram | 6 |
+कज़्०८।५।०६ प्रतिहत।हत।अग्र।वेगयोः प्रतिहतम् अग्र।पात।भग्नं प्रवीर।पुरुष।संहतं युध्येत, न हत।अग्र।वेगम् अग्र।पात।हत।वीरम् । ६ ।
 
-KAZ08.5.07 anṛtv.abhūmi.prāptayor anṛtu.prāptaṃ yatha.ṛtu.yugya.śastra.āvaraṇaṃ yudhyeta, na-abhūmi.prāptam avaruddha.prasāra.vyāyāmam | 7 |
+कज़्०८।५।०७ अनृत्व्।अभूमि।प्राप्तयोर् अनृतु।प्राप्तं यथ।ऋतु।युग्य।शस्त्र।आवरणं युध्येत, न-अभूमि।प्राप्तम् अवरुद्ध।प्रसार।व्यायामम् । ७ ।
 
-KAZ08.5.08 āśā.nirvedi.parisṛptayor āśā.nirvedi labdha.abhiprāyaṃ yudhyeta, na parisṛptam apasṛta.mukhyam | 8 |
+कज़्०८।५।०८ आशा।निर्वेदि।परिसृप्तयोर् आशा।निर्वेदि लब्ध।अभिप्रायं युध्येत, न परिसृप्तम् अपसृत।मुख्यम् । ८ ।
 
-KAZ08.5.09 kalatra.garbhy.antaḥ.śalyayoḥ kalatra.garbhi unmucya kalatraṃ yudhyeta, na-antaḥ.śalyam antara.mitram | 9 |
+कज़्०८।५।०९ कलत्र।गर्भ्य्।अन्तः।शल्ययोः कलत्र।गर्भि उन्मुच्य कलत्रं युध्येत, न-अन्तः।शल्यम् अन्तर।मित्रम् । ९ ।
 
-KAZ08.5.10 kupita.mūla.bhinna.garbhayoḥ kupita.mūlaṃ praśamita.kopaṃ sāma.ādibhir yudhyeta, na bhinna.garbham anyonyasmād bhinnam | 10 |
+कज़्०८।५।१० कुपित।मूल।भिन्न।गर्भयोः कुपित।मूलं प्रशमित।कोपं साम।आदिभिर् युध्येत, न भिन्न।गर्भम् अन्योन्यस्माद् भिन्नम् । १० ।
 
-KAZ08.5.11 apasṛta.atikṣiptayor apasṛtam eka.rājya.atikrāntaṃ mantra.vyāyāmābhyāṃ sattra.mitra.apāśrayaṃ yudhyeta, na-atikṣiptam aneka.rājya.atikrāntaṃ bahv.ābādhatvāt | 11 |
+कज़्०८।५।११ अपसृत।अतिक्षिप्तयोर् अपसृतम् एक।राज्य।अतिक्रान्तं मन्त्र।व्यायामाभ्यां सत्त्र।मित्र।अपाश्रयं युध्येत, न-अतिक्षिप्तम् अनेक।राज्य।अतिक्रान्तं बह्व्।आबाधत्वात् । ११ ।
 
-KAZ08.5.12 upaniviṣṭa.samāptayor upaniviṣṭaṃ pṛthag.yāna.sthānam atisandhāya-ariṃ yudhyeta, na samāptam ariṇā-eka.sthāna.yānam | 12 |
+कज़्०८।५।१२ उपनिविष्ट।समाप्तयोर् उपनिविष्टं पृथग्।यान।स्थानम् अतिसन्धाय-अरिं युध्येत, न समाप्तम् अरिणा-एक।स्थान।यानम् । १२ ।
 
-KAZ08.5.13 uparuddha.parikṣiptayor uparuddham anyato niṣkramya-uparoddhāraṃ pratiyudhyeta, na parikṣiptaṃ sarvataḥ pratiruddham | 13 |
+कज़्०८।५।१३ उपरुद्ध।परिक्षिप्तयोर् उपरुद्धम् अन्यतो निष्क्रम्य-उपरोद्धारं प्रतियुध्येत, न परिक्षिप्तं सर्वतः प्रतिरुद्धम् । १३ ।
 
-KAZ08.5.14 chinna.dhānya.puruṣa.vīvadhayoḥ chinna.dhānyam anyato dhānyam ānīya jaṅgama.sthāvara.āhāraṃ vā yudhyeta, na chinna.puruṣa.vīvadham anabhisāram | 14 |
+कज़्०८।५।१४ छिन्न।धान्य।पुरुष।वीवधयोः छिन्न।धान्यम् अन्यतो धान्यम् आनीय जङ्गम।स्थावर।आहारं वा युध्येत, न छिन्न।पुरुष।वीवधम् अनभिसारम् । १४ ।
 
-KAZ08.5.15 sva.vikṣipta.mitra.vikṣiptayoḥ sva.vikṣiptaṃ sva.bhūmau vikṣiptaṃ sainyam āpadi śakyam āvāhayitum, na mitra.vikṣiptaṃ viprakṛṣṭa.deśa.kālatvāt | 15 |
+कज़्०८।५।१५ स्व।विक्षिप्त।मित्र।विक्षिप्तयोः स्व।विक्षिप्तं स्व।भूमौ विक्षिप्तं सैन्यम् आपदि शक्यम् आवाहयितुम्, न मित्र।विक्षिप्तं विप्रकृष्ट।देश।कालत्वात् । १५ ।
 
-KAZ08.5.16 dūṣya.yukta.duṣṭa.pārṣṇi.grāhayor dūṣya.yuktam āpta.puruṣa.adhiṣṭhitam asaṃhataṃ yudhyeta, na duṣṭa.pārṣṇi.grāhaṃ pṛṣṭha.abhighāta.trastam | 16 |
+कज़्०८।५।१६ दूष्य।युक्त।दुष्ट।पार्ष्णि।ग्राहयोर् दूष्य।युक्तम् आप्त।पुरुष।अधिष्ठितम् असंहतं युध्येत, न दुष्ट।पार्ष्णि।ग्राहं पृष्ठ।अभिघात।त्रस्तम् । १६ ।
 
-KAZ08.5.17 śūnya.mūla.asvāmi.saṃhatayoḥ śūnya.mūlaṃ kṛta.paura.jānapada.ārakṣaṃ sarva.sandohena yudhyeta, na-asvāmi.saṃhataṃ rāja.senā.pati.hīnam | 17 |
+कज़्०८।५।१७ शून्य।मूल।अस्वामि।संहतयोः शून्य।मूलं कृत।पौर।जानपद।आरक्षं सर्व।सन्दोहेन युध्येत, न-अस्वामि।संहतं राज।सेना।पति।हीनम् । १७ ।
 
-KAZ08.5.18 bhinna.kūṭa.andhayor bhinna.kūṭam anya.adhiṣṭhitaṃ yudhyeta, na-andham adeśikaṃ | iti | 18 |
+कज़्०८।५।१८ भिन्न।कूट।अन्धयोर् भिन्न।कूटम् अन्य।अधिष्ठितं युध्येत, न-अन्धम् अदेशिकं । इति । १८ ।
 
-KAZ08.5.19ab doṣa.śuddhir bala.āvāpaḥ sattra.sthāna.atisaṃhitam |  
-KAZ08.5.19cd sandhiś ca-uttara.pakṣasya bala.vyasana.sādhanam || 19 ||  
-
-
-KAZ08.5.20ab rakṣet sva.daṇḍaṃ vyasane śatrubhyo nityam utthitaḥ |  
-KAZ08.5.20cd prahared daṇḍa.randhreṣu śatrūṇāṃ nityam utthitaḥ || 20 ||  
+कज़्०८।५।१९अब् दोष।शुद्धिर् बल।आवापः सत्त्र।स्थान।अतिसंहितम् ।  
+कज़्०८।५।१९च्द् सन्धिश् च-उत्तर।पक्षस्य बल।व्यसन।साधनम् ॥ १९ ॥  
 
 
-KAZ08.5.21ab yato nimittaṃ vyasanaṃ prakṛtīnām avāpnuyāt |  
-KAZ08.5.21cd prāg eva pratikurvīta tan nimittam atandritaḥ || 21 ||  
+कज़्०८।५।२०अब् रक्षेत् स्व।दण्डं व्यसने शत्रुभ्यो नित्यम् उत्थितः ।  
+कज़्०८।५।२०च्द् प्रहरेद् दण्ड।रन्ध्रेषु शत्रूणां नित्यम् उत्थितः ॥ २० ॥  
 
 
-KAZ08.5.22ab abhiyātaṃ svayaṃ mitraṃ sambhūya-anya.vaśena vā |  
-KAZ08.5.22cd parityaktam aśaktyā vā lobhena praṇayena vā || 22 ||  
+कज़्०८।५।२१अब् यतो निमित्तं व्यसनं प्रकृतीनाम् अवाप्नुयात् ।  
+कज़्०८।५।२१च्द् प्राग् एव प्रतिकुर्वीत तन् निमित्तम् अतन्द्रितः ॥ २१ ॥  
 
 
-KAZ08.5.23ab vikrītam abhiyuñjāne saṅgrāme vā-apavartinā |  
-KAZ08.5.23cd dvaidhī.bhāvena vā-amitraṃ yāsyatā vā-anyam anyataḥ || 23 ||  
+कज़्०८।५।२२अब् अभियातं स्वयं मित्रं सम्भूय-अन्य।वशेन वा ।  
+कज़्०८।५।२२च्द् परित्यक्तम् अशक्त्या वा लोभेन प्रणयेन वा ॥ २२ ॥  
 
 
-KAZ08.5.24ab pṛthag vā saha.yāne vā viśvāsena-atisaṃhitam |  
-KAZ08.5.24cd bhaya.avamāna.ālasyair vā vyasanān na pramokṣitam || 24 ||  
+कज़्०८।५।२३अब् विक्रीतम् अभियुञ्जाने सङ्ग्रामे वा-अपवर्तिना ।  
+कज़्०८।५।२३च्द् द्वैधी।भावेन वा-अमित्रं यास्यता वा-अन्यम् अन्यतः ॥ २३ ॥  
 
 
-KAZ08.5.25ab avaruddhaṃ sva.bhūmibhyaḥ samīpād vā bhayād gatam |  
-KAZ08.5.25cd ācchedanād adānād vā dattvā vā-apy avamānitam || 25 ||  
+कज़्०८।५।२४अब् पृथग् वा सह।याने वा विश्वासेन-अतिसंहितम् ।  
+कज़्०८।५।२४च्द् भय।अवमान।आलस्यैर् वा व्यसनान् न प्रमोक्षितम् ॥ २४ ॥  
 
 
-KAZ08.5.26ab atyāhāritam arthaṃ vā svayaṃ para.mukhena vā |  
-KAZ08.5.26cd atibhāre niyuktaṃ vā bhaṅktvā param upasthitam || 26 ||  
+कज़्०८।५।२५अब् अवरुद्धं स्व।भूमिभ्यः समीपाद् वा भयाद् गतम् ।  
+कज़्०८।५।२५च्द् आच्छेदनाद् अदानाद् वा दत्त्वा वा-अप्य् अवमानितम् ॥ २५ ॥  
 
 
-KAZ08.5.27ab upekṣitam aśaktyā vā prārthayitvā virodhitam |  
-KAZ08.5.27cd kṛcchreṇa sādhyate mitraṃ siddhaṃ ca-āśu virajyati || 27 ||  
+कज़्०८।५।२६अब् अत्याहारितम् अर्थं वा स्वयं पर।मुखेन वा ।  
+कज़्०८।५।२६च्द् अतिभारे नियुक्तं वा भङ्क्त्वा परम् उपस्थितम् ॥ २६ ॥  
 
 
-KAZ08.5.28ab kṛta.prayāsaṃ mānyaṃ vā mohān mitram amānitam |  
-KAZ08.5.28cd mānitaṃ vā na sadṛśaṃ śaktito vā nivāritam || 28 ||  
+कज़्०८।५।२७अब् उपेक्षितम् अशक्त्या वा प्रार्थयित्वा विरोधितम् ।  
+कज़्०८।५।२७च्द् कृच्छ्रेण साध्यते मित्रं सिद्धं च-आशु विरज्यति ॥ २७ ॥  
 
 
-KAZ08.5.29ab mitra.upaghāta.trastaṃ vā śaṅkitaṃ vā-ari.saṃhitāt |  
-KAZ08.5.29cd dūṣyair vā bhedituṃ mitraṃ sādhyaṃ siddhaṃ ca tiṣṭhati || 29 ||  
+कज़्०८।५।२८अब् कृत।प्रयासं मान्यं वा मोहान् मित्रम् अमानितम् ।  
+कज़्०८।५।२८च्द् मानितं वा न सदृशं शक्तितो वा निवारितम् ॥ २८ ॥  
 
 
-KAZ08.5.30ab tasmān na-utpādayed enān doṣān mitra.upaghātakān |  
-KAZ08.5.30cd utpannān vā praśamayed guṇair doṣa.upaghātibhiḥ || 30 ||  
+कज़्०८।५।२९अब् मित्र।उपघात।त्रस्तं वा शङ्कितं वा-अरि।संहितात् ।  
+कज़्०८।५।२९च्द् दूष्यैर् वा भेदितुं मित्रं साध्यं सिद्धं च तिष्ठति ॥ २९ ॥  
 
 
-# Book 9: The Activity of the King About to March
- \[K tr. 470-500\] ,  \[K2 tr. 406-432\] 
+कज़्०८।५।३०अब् तस्मान् न-उत्पादयेद् एनान् दोषान् मित्र।उपघातकान् ।  
+कज़्०८।५।३०च्द् उत्पन्नान् वा प्रशमयेद् गुणैर् दोष।उपघातिभिः ॥ ३० ॥  
+
+
+# बोओक् ९: थे अच्तिवित्य् ओड़् थे किन्ग् अबोउत् तो मर्छ्
+ \[क् त्र्। ४७०-५००\] ,  \[क्२ त्र्। ४०६-४३२\] 
  छप्तेर् १ (सेच्तिओन्स् १३५; १३६): रेलतिवे स्त्रेन्ग्थ् ओड़् पोwएर्स्, प्लचे अन्द् तिमे; सेअसोन्स् ड़ोर् मर्छिन्ग् ओन् अन् एxपेदितिओन्
  \[क् त्र्। ४७०\] ,  \[क्२ त्र्। ४०६\] 
 कज़्०९।१।०१ विजिगीषुर् आत्मनः परस्य च बल।अबलं शक्ति।देश।काल।यात्रा।काल।बल।समुद्दान।काल।पश्चात्।कोप।- क्षय।व्यय।लाभ।आपदां ज्ञात्वा विशिष्ट।बलो यायात्, अन्यथा-आसीत । १ ।
@@ -9366,68 +9365,68 @@ KAZ08.5.30cd utpannān vā praśamayed guṇair doṣa.upaghātibhiḥ || 30 ||
 कज़्०९।१।५२च्द् दीर्घाः कार्य।गुरुत्वाद् वा वर्षा।वासः परत्र च ॥ ५२ ॥  
 
 
- Chapter 2 (Sections 137; 138; 139): Employment of Different Troops; Enquipping Troops for War; Employing Suitable Troops against Enemy Troops
- \[K tr. 474\] ,  \[K2 tr. 409\] 
-KAZ09.2.01 maula.bhṛtaka.śreṇī.mitra.amitra.aṭavī.balānāṃ samuddāna.kālāḥ | 1 |
+ छप्तेर् २ (सेच्तिओन्स् १३७; १३८; १३९): एम्प्लोय्मेन्त् ओड़् दिड़्ड़ेरेन्त् त्रोओप्स्; एन्क़ुइप्पिन्ग् त्रोओप्स् ड़ोर् Wअर्; एम्प्लोयिन्ग् सुइतब्ले त्रोओप्स् अगैन्स्त् एनेम्य् त्रोओप्स्
+ \[क् त्र्। ४७४\] ,  \[क्२ त्र्। ४०९\] 
+कज़्०९।२।०१ मौल।भृतक।श्रेणी।मित्र।अमित्र।अटवी।बलानां समुद्दान।कालाः । १ ।
 
-KAZ09.2.02 mūla.rakṣaṇād atiriktaṃ maula.balam, atyāvāpa.yuktā vā maulā mūle vikurvīran, bahula.anurakta.maula.balaḥ sāra.balo vā pratiyoddhā, vyāyāmena yoddhavyam, prakṛṣṭe 'dhvani kāle vā kṣaya.vyaya.sahatvān maulānām, bahula.anurakta.sampāte ca yātavyasya-upajāpa.bhayād anya.sainyānāṃ bhṛta.ādīnām aviśvāse, bala.kṣaye vā sarva.sainyānām - iti maula.bala.kālaḥ | 2 |
+कज़्०९।२।०२ मूल।रक्षणाद् अतिरिक्तं मौल।बलम्, अत्यावाप।युक्ता वा मौला मूले विकुर्वीरन्, बहुल।अनुरक्त।मौल।बलः सार।बलो वा प्रतियोद्धा, व्यायामेन योद्धव्यम्, प्रकृष्टे ऽध्वनि काले वा क्षय।व्यय।सहत्वान् मौलानाम्, बहुल।अनुरक्त।सम्पाते च यातव्यस्य-उपजाप।भयाद् अन्य।सैन्यानां भृत।आदीनाम् अविश्वासे, बल।क्षये वा सर्व।सैन्यानाम् - इति मौल।बल।कालः । २ ।
 
-KAZ09.2.03 "prabhūtaṃ me bhṛta.balam alpaṃ ca maula.balamṇ" "parasya-alpaṃ viraktaṃ vā maula.balam, phalgu.prāyam asāraṃ vā bhṛta.sainyamṇ" "mantreṇa yoddhavyam alpa.vyāyāmenaṇ" "hrasvo deśaḥ kālo vā tanu.kṣaya.vyayahṇ" "alpa.āvāpaṃ śānta.upajāpaṃ viśvastaṃ vā me sainyamṇ" "parasya-alpaḥ prasāro hantavyahṇ" - iti bhṛta.bala.kālaḥ | 3 |
+कज़्०९।२।०३ "प्रभूतं मे भृत।बलम् अल्पं च मौल।बलम्ण्" "परस्य-अल्पं विरक्तं वा मौल।बलम्, फल्गु।प्रायम् असारं वा भृत।सैन्यम्ण्" "मन्त्रेण योद्धव्यम् अल्प।व्यायामेनण्" "ह्रस्वो देशः कालो वा तनु।क्षय।व्ययह्ण्" "अल्प।आवापं शान्त।उपजापं विश्वस्तं वा मे सैन्यम्ण्" "परस्य-अल्पः प्रसारो हन्तव्यह्ण्" - इति भृत।बल।कालः । ३ ।
 
-KAZ09.2.04 "prabhūtaṃ me śreṇī.balam, śakyaṃ mūle yātrāyāṃ ca-ādhātumṇ" hrasvaḥ pravāsaḥ, śreṇī.bala.prāyaḥ pratiyoddhā mantra.vyāyāmābhyāṃ pratiyoddhu.kāmaḥ, daṇḍa.bala.vyavahāraḥ - iti śreṇī.bala.kālaḥ | 4 |
+कज़्०९।२।०४ "प्रभूतं मे श्रेणी।बलम्, शक्यं मूले यात्रायां च-आधातुम्ण्" ह्रस्वः प्रवासः, श्रेणी।बल।प्रायः प्रतियोद्धा मन्त्र।व्यायामाभ्यां प्रतियोद्धु।कामः, दण्ड।बल।व्यवहारः - इति श्रेणी।बल।कालः । ४ ।
 
-KAZ09.2.05 "prabhūtaṃ me mitra.balaṃ śakyaṃ mūle yātrāyāṃ ca-ādhātumṇ" "alpaḥ pravāso mantra.yuddhāc ca bhūyo vyāyāma.yuddhamṇ" "mitra.balena vā pūrvam aṭavīṃ nagara.sthānam āsāraṃ vā yodhayitvā paścāt sva.balena yoddhayiṣyāmiṇ" "mitra.sādhāraṇaṃ vā me kāryamṇ" "mitra.āyattā vā me kārya.siddhihṇ" "āsannam anugrāhyaṃ vā me mitramṇ" "atyāvāpaṃ vā-asya sādayiṣyāmi" - iti mitra.bala.kālaḥ | 5 |
+कज़्०९।२।०५ "प्रभूतं मे मित्र।बलं शक्यं मूले यात्रायां च-आधातुम्ण्" "अल्पः प्रवासो मन्त्र।युद्धाच् च भूयो व्यायाम।युद्धम्ण्" "मित्र।बलेन वा पूर्वम् अटवीं नगर।स्थानम् आसारं वा योधयित्वा पश्चात् स्व।बलेन योद्धयिष्यामिण्" "मित्र।साधारणं वा मे कार्यम्ण्" "मित्र।आयत्ता वा मे कार्य।सिद्धिह्ण्" "आसन्नम् अनुग्राह्यं वा मे मित्रम्ण्" "अत्यावापं वा-अस्य सादयिष्यामि" - इति मित्र।बल।कालः । ५ ।
 
-KAZ09.2.06 "prabhūtaṃ me śatru.balam, śatru.balena yodhayiṣyāmi nagara.sthānam aṭavīṃ vā, tatra me śva.varāhayoḥ kalahe caṇḍālasya-iva-anyatara.siddhir bhaviṣyatiṇ" "āsārāṇām aṭavīnāṃ vā kaṇṭaka.mardanam etat kariṣyāmiṇ" - atyupacitaṃ vā kopa.bhayān nityam āsannam ari.balaṃ vāsayed, anyatra.abhyantara.kopa.śaṅkāyāḥ - śatru.yuddha.avara.yuddha.kālaś ca - ity amitra.bala.kālaḥ | 6 |
+कज़्०९।२।०६ "प्रभूतं मे शत्रु।बलम्, शत्रु।बलेन योधयिष्यामि नगर।स्थानम् अटवीं वा, तत्र मे श्व।वराहयोः कलहे चण्डालस्य-इव-अन्यतर।सिद्धिर् भविष्यतिण्" "आसाराणाम् अटवीनां वा कण्टक।मर्दनम् एतत् करिष्यामिण्" - अत्युपचितं वा कोप।भयान् नित्यम् आसन्नम् अरि।बलं वासयेद्, अन्यत्र।अभ्यन्तर।कोप।शङ्कायाः - शत्रु।युद्ध।अवर।युद्ध।कालश् च - इत्य् अमित्र।बल।कालः । ६ ।
 
-KAZ09.2.07 tena-aṭavī.bala.kālo vyākhyātaḥ | 7 |
+कज़्०९।२।०७ तेन-अटवी।बल।कालो व्याख्यातः । ७ ।
 
-KAZ09.2.08 mārga.ādeśikam, para.bhūmi.yogyam, ari.yuddha.pratilomam, aṭavī.bala.prāyaḥ śatrur vā, "bilvaṃ bilvena hanyatāmṇ" alpaḥ prasāro hantavyaḥ - ity aṭavī.bala.kālaḥ | 8 |
+कज़्०९।२।०८ मार्ग।आदेशिकम्, पर।भूमि।योग्यम्, अरि।युद्ध।प्रतिलोमम्, अटवी।बल।प्रायः शत्रुर् वा, "बिल्वं बिल्वेन हन्यताम्ण्" अल्पः प्रसारो हन्तव्यः - इत्य् अटवी।बल।कालः । ८ ।
 
-KAZ09.2.09 sainyam anekam anekastham uktam anuktaṃ vā vilopa.arthaṃ yad uttiṣṭhati tad autsāhikaṃ - abhakta.vetanaṃ vilopa.viṣṭi.pratāpa.karaṃ bhedyaṃ pareṣām, abhedyaṃ tulya.deśa.jāti.śilpa.prāyaṃ saṃhataṃ mahat | 9 | iti bala.upādāna.kālāh
+कज़्०९।२।०९ सैन्यम् अनेकम् अनेकस्थम् उक्तम् अनुक्तं वा विलोप।अर्थं यद् उत्तिष्ठति तद् औत्साहिकं - अभक्त।वेतनं विलोप।विष्टि।प्रताप।करं भेद्यं परेषाम्, अभेद्यं तुल्य।देश।जाति।शिल्प।प्रायं संहतं महत् । ९ । इति बल।उपादान।कालाह्
 
-KAZ09.2.10 teṣāṃ kupya.bhṛtam amitra.aṭavī.balaṃ vilopa.bhṛtaṃ vā kuryāt | 10 |
+कज़्०९।२।१० तेषां कुप्य।भृतम् अमित्र।अटवी।बलं विलोप।भृतं वा कुर्यात् । १० ।
 
-KAZ09.2.11 amitrasya vā bala.kāle pratyutpanne śatru.balam avagṛhṇīyāt, anyatra vā preṣayet, aphalaṃ vā kuryāt, vikṣiptaṃ vā vāsayet, kāle vā-atikrānte visṛjet | 11 |
+कज़्०९।२।११ अमित्रस्य वा बल।काले प्रत्युत्पन्ने शत्रु।बलम् अवगृह्णीयात्, अन्यत्र वा प्रेषयेत्, अफलं वा कुर्यात्, विक्षिप्तं वा वासयेत्, काले वा-अतिक्रान्ते विसृजेत् । ११ ।
 
-KAZ09.2.12 parasya ca-etad bala.samuddānaṃ vighātayet, ātmanaḥ sampādayet | 12 |
+कज़्०९।२।१२ परस्य च-एतद् बल।समुद्दानं विघातयेत्, आत्मनः सम्पादयेत् । १२ ।
 
-KAZ09.2.13 pūrvaṃ pūrvaṃ ca-eṣāṃ śreyaḥ samnāhayitum | 13 |
+कज़्०९।२।१३ पूर्वं पूर्वं च-एषां श्रेयः सम्नाहयितुम् । १३ ।
 
-KAZ09.2.14 tad.bhāva.bhāvitvān nitya.satkāra.anugamāc ca maula.balaṃ bhṛta.balāt-śreyaḥ | 14 |
+कज़्०९।२।१४ तद्।भाव।भावित्वान् नित्य।सत्कार।अनुगमाच् च मौल।बलं भृत।बलात्-श्रेयः । १४ ।
 
-KAZ09.2.15 nitya.anantaraṃ kṣipra.utthāyi vaśyaṃ va bhṛta.balaṃ śreṇī.balāt-śreyaḥ | 15 |
+कज़्०९।२।१५ नित्य।अनन्तरं क्षिप्र।उत्थायि वश्यं व भृत।बलं श्रेणी।बलात्-श्रेयः । १५ ।
 
-KAZ09.2.16 jānapadam eka.artha.upagataṃ tulya.saṅgharṣa.amarṣa.siddhi.lābhaṃ ca śreṇī.balaṃ mitra.balāt-śreyaḥ | 16 |
+कज़्०९।२।१६ जानपदम् एक।अर्थ।उपगतं तुल्य।सङ्घर्ष।अमर्ष।सिद्धि।लाभं च श्रेणी।बलं मित्र।बलात्-श्रेयः । १६ ।
 
-KAZ09.2.17 aparimita.deśa.kālam eka.artha.upagamāc ca mitra.balam amitra.balāt-śreyaḥ | 17 |
+कज़्०९।२।१७ अपरिमित।देश।कालम् एक।अर्थ।उपगमाच् च मित्र।बलम् अमित्र।बलात्-श्रेयः । १७ ।
 
-KAZ09.2.18 ārya.adhiṣṭhitam amitra.balam aṭavī.balāt-śreyaḥ | 18 |
+कज़्०९।२।१८ आर्य।अधिष्ठितम् अमित्र।बलम् अटवी।बलात्-श्रेयः । १८ ।
 
-KAZ09.2.19 tad ubhayaṃ vilopa.artham | 19 |
+कज़्०९।२।१९ तद् उभयं विलोप।अर्थम् । १९ ।
 
-KAZ09.2.20 avilope vyasane ca tābhyām ahi.bhayaṃ syāt | 20 |
+कज़्०९।२।२० अविलोपे व्यसने च ताभ्याम् अहि।भयं स्यात् । २० ।
 
-KAZ09.2.21 "brāhmaṇa.kṣatriya.vaiśya.śūdra.sainyānāṃ tejaḥ.prādhānyāt pūrvaṃ pūrvaṃ śreyaḥ samnāhayitum" ity ācāryāḥ | 21 |
+कज़्०९।२।२१ "ब्राह्मण।क्षत्रिय।वैश्य।शूद्र।सैन्यानां तेजः।प्राधान्यात् पूर्वं पूर्वं श्रेयः सम्नाहयितुम्" इत्य् आचार्याः । २१ ।
 
-KAZ09.2.22 na-iti kauṭilyaḥ | 22 |
+कज़्०९।२।२२ न-इति कौटिल्यः । २२ ।
 
-KAZ09.2.23 praṇipātena brāhmaṇa.balaṃ paro 'bhihārayet | 23 |
+कज़्०९।२।२३ प्रणिपातेन ब्राह्मण।बलं परो ऽभिहारयेत् । २३ ।
 
-KAZ09.2.24 praharaṇa.vidyā.vinītaṃ tu kṣatriya.balaṃ śreyaḥ, bahula.sāraṃ vā vaiśya.śūdra.balam iti | 24 |
+कज़्०९।२।२४ प्रहरण।विद्या।विनीतं तु क्षत्रिय।बलं श्रेयः, बहुल।सारं वा वैश्य।शूद्र।बलम् इति । २४ ।
 
-KAZ09.2.25 tasmād evaṃ.balaḥ paraḥ, tasya-etat pratibalam iti bala.samuddānaṃ kuryāt | 25 |
+कज़्०९।२।२५ तस्माद् एवं।बलः परः, तस्य-एतत् प्रतिबलम् इति बल।समुद्दानं कुर्यात् । २५ ।
 
-KAZ09.2.26 hasti.yantra.śakaṭa.garbha.kunta.prāsa.hāṭaka.veṇu.śalyavad hasti.balasya pratibalam | 26 |
+कज़्०९।२।२६ हस्ति।यन्त्र।शकट।गर्भ।कुन्त।प्रास।हाटक।वेणु।शल्यवद् हस्ति।बलस्य प्रतिबलम् । २६ ।
 
-KAZ09.2.27 tad eva pāṣāṇa.laguḍa.āvaraṇa.aṅkuśa.kaca.grahaṇī.prāyaṃ ratha.balasya pratibalam | 27 |
+कज़्०९।२।२७ तद् एव पाषाण।लगुड।आवरण।अङ्कुश।कच।ग्रहणी।प्रायं रथ।बलस्य प्रतिबलम् । २७ ।
 
-KAZ09.2.28 tad eva-aśvānāṃ pratibalam, varmiṇo vā hastino 'śvā vā varmiṇaḥ | 28 |
+कज़्०९।२।२८ तद् एव-अश्वानां प्रतिबलम्, वर्मिणो वा हस्तिनो ऽश्वा वा वर्मिणः । २८ ।
 
-KAZ09.2.29 kavacino rathā āvaraṇinaḥ pattayaś ca catur.aṅga.balasya pratibalam | 29 |
+कज़्०९।२।२९ कवचिनो रथा आवरणिनः पत्तयश् च चतुर्।अङ्ग।बलस्य प्रतिबलम् । २९ ।
 
-KAZ09.2.30ab evaṃ bala.samuddānaṃ para.sainya.nivāraṇam |  
-KAZ09.2.30cd vibhavena sva.sainyānāṃ kuryād aṅga.vikalpaśaḥ || 30 ||  
+कज़्०९।२।३०अब् एवं बल।समुद्दानं पर।सैन्य।निवारणम् ।  
+कज़्०९।२।३०च्द् विभवेन स्व।सैन्यानां कुर्याद् अङ्ग।विकल्पशः ॥ ३० ॥  
 
 
  छप्तेर् ३ (सेच्तिओन्स् १४०; १४१): रेवोल्त्स् इन् थे रेअर्; मेअसुरेस् अगैन्स्त् रिसिन्ग्स् ब्य् चोन्स्तितुएन्त्स्
@@ -9518,64 +9517,64 @@ KAZ09.2.30cd vibhavena sva.sainyānāṃ kuryād aṅga.vikalpaśaḥ || 30 ||
 कज़्०९।३।४२च्द् रक्ष्याः स्वेभ्यः परेभ्यश् च नित्यम् आत्मा विपश्चिता ॥ ४२ ॥  
 
 
- Chapter 4 (Section 142): Considerations of Losses, Expenses and Gains
- \[K tr. 483\] ,  \[K2 tr. 417\] 
-KAZ09.4.01 yugya.puruṣa.apacayaḥ kṣayaḥ | 1 |
+ छप्तेर् ४ (सेच्तिओन् १४२): चोन्सिदेरतिओन्स् ओड़् लोस्सेस्, एxपेन्सेस् अन्द् गैन्स्
+ \[क् त्र्। ४८३\] ,  \[क्२ त्र्। ४१७\] 
+कज़्०९।४।०१ युग्य।पुरुष।अपचयः क्षयः । १ ।
 
-KAZ09.4.02 hiraṇya.dhānya.apacayo vyayaḥ | 2 |
+कज़्०९।४।०२ हिरण्य।धान्य।अपचयो व्ययः । २ ।
 
-KAZ09.4.03 tābhyāṃ bahu.guṇa.viśiṣṭe lābhe yāyāt | 3 |
+कज़्०९।४।०३ ताभ्यां बहु।गुण।विशिष्टे लाभे यायात् । ३ ।
 
-KAZ09.4.04 ādeyaḥ pratyādeyaḥ prasādakaḥ prakopako hrasva.kālas tanu.kṣayo 'lpa.vyayo mahān vṛddhy.udayaḥ kalyo dharmyaḥ purogaś ca-iti lābha.sampat | 4 |
+कज़्०९।४।०४ आदेयः प्रत्यादेयः प्रसादकः प्रकोपको ह्रस्व।कालस् तनु।क्षयो ऽल्प।व्ययो महान् वृद्ध्य्।उदयः कल्यो धर्म्यः पुरोगश् च-इति लाभ।सम्पत् । ४ ।
 
-KAZ09.4.05 suprāpya.anupālyaḥ pareṣām apratyādeya ity ādeyaḥ | 5 |
+कज़्०९।४।०५ सुप्राप्य।अनुपाल्यः परेषाम् अप्रत्यादेय इत्य् आदेयः । ५ ।
 
-KAZ09.4.06 viparyaye pratyādeyaḥ | 6 |
+कज़्०९।४।०६ विपर्यये प्रत्यादेयः । ६ ।
 
-KAZ09.4.07 tam ādadānas tatrastho vā vināśaṃ prāpnoti | 7 |
+कज़्०९।४।०७ तम् आददानस् तत्रस्थो वा विनाशं प्राप्नोति । ७ ।
 
-KAZ09.4.08 yadi vā paśyet "pratyādeyam ādāya kośa.daṇḍa.nicaya.rakṣā.vidhānāny avasrāvayiṣyāmi, khani.dravya.hasti.vana.setu.bandha.vaṇik.pathān uddhṛta.sārān kariṣyāmi, prakṛtīr asya karśayiṣyāmi, apavāhayiṣyāmi, āyogena-ārādhayiṣyāmi vā, tāḥ paraṃ pratiyogena kopayiṣyati, pratipakṣe vā-asya paṇyam enaṃ kariṣyāmi, mitram aparuddhaṃ vā-asya pratipādayiṣyāmi, mitrasya svasya vā deśasya pīḍām atrasthas taskarebhyaḥ parebhyaś ca pratikariṣyāmi, mitram āśrayaṃ vā-asya vaiguṇyaṃ grāhayiṣyāmi, tad amitra.viraktaṃ tat.kulīnaṃ pratipatsyate, satkṛtya vā-asmai bhūmiṃ dāsyāmi iti saṃhita.samutthitaṃ mitraṃ me cirāya bhaviṣyati" iti pratyādeyam api lābham ādadīta | 8 |
+कज़्०९।४।०८ यदि वा पश्येत् "प्रत्यादेयम् आदाय कोश।दण्ड।निचय।रक्षा।विधानान्य् अवस्रावयिष्यामि, खनि।द्रव्य।हस्ति।वन।सेतु।बन्ध।वणिक्।पथान् उद्धृत।सारान् करिष्यामि, प्रकृतीर् अस्य कर्शयिष्यामि, अपवाहयिष्यामि, आयोगेन-आराधयिष्यामि वा, ताः परं प्रतियोगेन कोपयिष्यति, प्रतिपक्षे वा-अस्य पण्यम् एनं करिष्यामि, मित्रम् अपरुद्धं वा-अस्य प्रतिपादयिष्यामि, मित्रस्य स्वस्य वा देशस्य पीडाम् अत्रस्थस् तस्करेभ्यः परेभ्यश् च प्रतिकरिष्यामि, मित्रम् आश्रयं वा-अस्य वैगुण्यं ग्राहयिष्यामि, तद् अमित्र।विरक्तं तत्।कुलीनं प्रतिपत्स्यते, सत्कृत्य वा-अस्मै भूमिं दास्यामि इति संहित।समुत्थितं मित्रं मे चिराय भविष्यति" इति प्रत्यादेयम् अपि लाभम् आददीत । ८ ।
 
-KAZ09.4.09 ity ādeya.pratyādeyau vyākhyātau | 9 |
+कज़्०९।४।०९ इत्य् आदेय।प्रत्यादेयौ व्याख्यातौ । ९ ।
 
-KAZ09.4.10 adhārmikād dhārmikasya lābho labhyamānaḥ sveṣāṃ pareṣāṃ ca prasādako bhavati | 10 |
+कज़्०९।४।१० अधार्मिकाद् धार्मिकस्य लाभो लभ्यमानः स्वेषां परेषां च प्रसादको भवति । १० ।
 
-KAZ09.4.11 viparītaḥ prakopaka iti | 11 |
+कज़्०९।४।११ विपरीतः प्रकोपक इति । ११ ।
 
-KAZ09.4.12 mantriṇām upadeśāl lābho 'labhyamānaḥ kopako bhavati "ayam asmābhiḥ kṣaya.vyayau grāhitaḥ" iti | 12 |
+कज़्०९।४।१२ मन्त्रिणाम् उपदेशाल् लाभो ऽलभ्यमानः कोपको भवति "अयम् अस्माभिः क्षय।व्ययौ ग्राहितः" इति । १२ ।
 
-KAZ09.4.13 dūṣya.mantriṇām anādarāl lābho labhyamānaḥ kopako bhavati "siddha.artho 'yam asmān vināśayiṣyati" iti | 13 |
+कज़्०९।४।१३ दूष्य।मन्त्रिणाम् अनादराल् लाभो लभ्यमानः कोपको भवति "सिद्ध।अर्थो ऽयम् अस्मान् विनाशयिष्यति" इति । १३ ।
 
-KAZ09.4.14 viparītaḥ prasādakaḥ | 14 |
+कज़्०९।४।१४ विपरीतः प्रसादकः । १४ ।
 
-KAZ09.4.15 iti prasādaka.kopakau vyākhyātau | 15 |
+कज़्०९।४।१५ इति प्रसादक।कोपकौ व्याख्यातौ । १५ ।
 
-KAZ09.4.16 gamana.mātra.sādhyatvād hrasva.kālah | 16 |
+कज़्०९।४।१६ गमन।मात्र।साध्यत्वाद् ह्रस्व।कालह् । १६ ।
 
-KAZ09.4.17 mantra.sādhyatvāt tanu.kṣayaḥ | 17 |
+कज़्०९।४।१७ मन्त्र।साध्यत्वात् तनु।क्षयः । १७ ।
 
-KAZ09.4.18 bhakta.mātra.vyayatvād alpa.vyayah
+कज़्०९।४।१८ भक्त।मात्र।व्ययत्वाद् अल्प।व्ययह्
 
-KAZ09.4.19 tadātva.vaipulyān mahān | 19 |
+कज़्०९।४।१९ तदात्व।वैपुल्यान् महान् । १९ ।
 
-KAZ09.4.20 artha.anubandhakatvād vṛddhy.udayaḥ | 20 |
+कज़्०९।४।२० अर्थ।अनुबन्धकत्वाद् वृद्ध्य्।उदयः । २० ।
 
-KAZ09.4.21 nirābādhakatvāt kalyaḥ | 21 |
+कज़्०९।४।२१ निराबाधकत्वात् कल्यः । २१ ।
 
-KAZ09.4.22 praśasta.upādānād dharmyaḥ | 22 |
+कज़्०९।४।२२ प्रशस्त।उपादानाद् धर्म्यः । २२ ।
 
-KAZ09.4.23 sāmavāyikānām anirbandha.gāmitvāt purogaḥ | iti | 23 |
+कज़्०९।४।२३ सामवायिकानाम् अनिर्बन्ध।गामित्वात् पुरोगः । इति । २३ ।
 
-KAZ09.4.24 tulye lābhe deśa.kālau śakty.upāyau priya.apriyau java.ajavau sāmīpya.viprakarṣau tadātva.anubandhau sāratva.sātatye bāhulya.bāhu.guṇye ca vimṛśya bahu.guṇa.yuktaṃ lābham ādadīta | 24 |
+कज़्०९।४।२४ तुल्ये लाभे देश।कालौ शक्त्य्।उपायौ प्रिय।अप्रियौ जव।अजवौ सामीप्य।विप्रकर्षौ तदात्व।अनुबन्धौ सारत्व।सातत्ये बाहुल्य।बाहु।गुण्ये च विमृश्य बहु।गुण।युक्तं लाभम् आददीत । २४ ।
 
-KAZ09.4.25 lābha.vighnāḥ - kāmaḥ kopaḥ sādhvasaṃ kāruṇyaṃ hrīr anārya.bhāvo mānaḥ sānukrośatā para.loka.apekṣā dhārmikatvam atyāgitvaṃ dainyam asūyā hasta.gata.avamāno daurātmyam aviśvāso bhayam apratīkāraḥ śīta.uṣṇa.varṣāṇām ākṣamyaṃ maṅgala.tithi.nakṣatra.iṣṭitvam iti | 25 |
+कज़्०९।४।२५ लाभ।विघ्नाः - कामः कोपः साध्वसं कारुण्यं ह्रीर् अनार्य।भावो मानः सानुक्रोशता पर।लोक।अपेक्षा धार्मिकत्वम् अत्यागित्वं दैन्यम् असूया हस्त।गत।अवमानो दौरात्म्यम् अविश्वासो भयम् अप्रतीकारः शीत।उष्ण।वर्षाणाम् आक्षम्यं मङ्गल।तिथि।नक्षत्र।इष्टित्वम् इति । २५ ।
 
-KAZ09.4.26ab nakṣatram ati pṛcchantaṃ bālam artho 'tivartate |  
-KAZ09.4.26cd artho hy arthasya nakṣatraṃ kiṃ kariṣyanti tārakāḥ || 26 ||  
+कज़्०९।४।२६अब् नक्षत्रम् अति पृच्छन्तं बालम् अर्थो ऽतिवर्तते ।  
+कज़्०९।४।२६च्द् अर्थो ह्य् अर्थस्य नक्षत्रं किं करिष्यन्ति तारकाः ॥ २६ ॥  
 
 
-KAZ09.4.27ab na-adhanāḥ prāpnuvanty arthān narā yatna.śatair api |  
-KAZ09.4.27cd arthair arthā prabadhyante gajāḥ prajigajair iva || 27 ||  
+कज़्०९।४।२७अब् न-अधनाः प्राप्नुवन्त्य् अर्थान् नरा यत्न।शतैर् अपि ।  
+कज़्०९।४।२७च्द् अर्थैर् अर्था प्रबध्यन्ते गजाः प्रजिगजैर् इव ॥ २७ ॥  
 
 
  छप्तेर् ५ (सेच्तिओन् १४३): दन्गेर्स् ड़्रोम् ओड़्ड़िचेर्स्
@@ -9646,154 +9645,154 @@ KAZ09.4.27cd arthair arthā prabadhyante gajāḥ prajigajair iva || 27 ||
 कज़्०९।५।३२च्द् उत्थितां बलवद्भ्यो वा गुर्वीं लघ्वीं विपर्यये ॥ ३२ ॥  
 
 
- Chapter 6 (Section 144): Dangers from Traitors and Enemies
- \[K tr. 488\] ,  \[K2 tr. 422\] 
-KAZ09.6.01 dūṣyebhyaḥ śatrubhyaś ca dvividhā śuddhā | 1 |
+ छप्तेर् ६ (सेच्तिओन् १४४): दन्गेर्स् ड़्रोम् त्रैतोर्स् अन्द् एनेमिएस्
+ \[क् त्र्। ४८८\] ,  \[क्२ त्र्। ४२२\] 
+कज़्०९।६।०१ दूष्येभ्यः शत्रुभ्यश् च द्विविधा शुद्धा । १ ।
 
-KAZ09.6.02 dūṣya.śuddhāyāṃ paureṣu jānapadeṣu vā daṇḍa.varjān upāyān prayuñjīta | 2 |
+कज़्०९।६।०२ दूष्य।शुद्धायां पौरेषु जानपदेषु वा दण्ड।वर्जान् उपायान् प्रयुञ्जीत । २ ।
 
-KAZ09.6.03 daṇḍo hi mahā.jane kṣeptum aśakyaḥ | 3 |
+कज़्०९।६।०३ दण्डो हि महा।जने क्षेप्तुम् अशक्यः । ३ ।
 
-KAZ09.6.04 kṣipto vā taṃ ca-arthaṃ na kuryāt, anyaṃ ca-anartham utpādayet | 4 |
+कज़्०९।६।०४ क्षिप्तो वा तं च-अर्थं न कुर्यात्, अन्यं च-अनर्थम् उत्पादयेत् । ४ ।
 
-KAZ09.6.05 mukhyeṣu tv eṣāṃ dāṇḍa.karmikavac ceṣṭeta | 5 |
+कज़्०९।६।०५ मुख्येषु त्व् एषां दाण्ड।कर्मिकवच् चेष्टेत । ५ ।
 
-KAZ09.6.06 śatru.śuddhāyāṃ yataḥ śatruḥ pradhānaḥ kāryo vā tataḥ sāma.ādibhiḥ siddhiṃ lipseta | 6 |
+कज़्०९।६।०६ शत्रु।शुद्धायां यतः शत्रुः प्रधानः कार्यो वा ततः साम।आदिभिः सिद्धिं लिप्सेत । ६ ।
 
-KAZ09.6.07 svāminy āyattā pradhāna.siddhiḥ, mantriṣv āyattā-āyatta.siddhiḥ, ubhaya.āyattā pradhāna.āyatta.siddhiḥ | 7 |
+कज़्०९।६।०७ स्वामिन्य् आयत्ता प्रधान।सिद्धिः, मन्त्रिष्व् आयत्ता-आयत्त।सिद्धिः, उभय।आयत्ता प्रधान।आयत्त।सिद्धिः । ७ ।
 
-KAZ09.6.08 dūṣya.adūṣyāṇām āmiśritatvād āmiśrā | 8 |
+कज़्०९।६।०८ दूष्य।अदूष्याणाम् आमिश्रितत्वाद् आमिश्रा । ८ ।
 
-KAZ09.6.09 āmiśrāyām adūṣyataḥ siddhiḥ | 9 |
+कज़्०९।६।०९ आमिश्रायाम् अदूष्यतः सिद्धिः । ९ ।
 
-KAZ09.6.10 ālambana.abhāve hy ālambitā na vidyante | 10 |
+कज़्०९।६।१० आलम्बन।अभावे ह्य् आलम्बिता न विद्यन्ते । १० ।
 
-KAZ09.6.11 mitra.amitrāṇām ekī.bhāvāt para.miśrā | 11 |
+कज़्०९।६।११ मित्र।अमित्राणाम् एकी।भावात् पर।मिश्रा । ११ ।
 
-KAZ09.6.12 para.miśrāyāṃ mitrataḥ siddhiḥ | 12 |
+कज़्०९।६।१२ पर।मिश्रायां मित्रतः सिद्धिः । १२ ।
 
-KAZ09.6.13 sukaro hi mitreṇa sandhiḥ, na-amitreṇa-iti | 13 |
+कज़्०९।६।१३ सुकरो हि मित्रेण सन्धिः, न-अमित्रेण-इति । १३ ।
 
-KAZ09.6.14 mitraṃ cen na sandhim icched abhīkṣṇam upajapet | 14 |
+कज़्०९।६।१४ मित्रं चेन् न सन्धिम् इच्छेद् अभीक्ष्णम् उपजपेत् । १४ ।
 
-KAZ09.6.15 tataḥ sattribhir amitrād bhedayitvā mitraṃ labheta | 15 |
+कज़्०९।६।१५ ततः सत्त्रिभिर् अमित्राद् भेदयित्वा मित्रं लभेत । १५ ।
 
-KAZ09.6.16 mitra.saṅghasya vā yo 'nta.sthāyī taṃ labheta | 16 |
+कज़्०९।६।१६ मित्र।सङ्घस्य वा यो ऽन्त।स्थायी तं लभेत । १६ ।
 
-KAZ09.6.17 anta.sthāyini labdhe madhya.sthāyino bhidyante | 17 |
+कज़्०९।६।१७ अन्त।स्थायिनि लब्धे मध्य।स्थायिनो भिद्यन्ते । १७ ।
 
-KAZ09.6.18 madhya.sthāyinaṃ vā labheta | 18 |
+कज़्०९।६।१८ मध्य।स्थायिनं वा लभेत । १८ ।
 
-KAZ09.6.19 madhya.sthāyini labdhe na-anta.sthāyinaḥ saṃhanyante | 19 |
+कज़्०९।६।१९ मध्य।स्थायिनि लब्धे न-अन्त।स्थायिनः संहन्यन्ते । १९ ।
 
-KAZ09.6.20 yathā ca-eṣām āśraya.bhedas tān upāyān prayuñjīta | 20 |
+कज़्०९।६।२० यथा च-एषाम् आश्रय।भेदस् तान् उपायान् प्रयुञ्जीत । २० ।
 
-KAZ09.6.21 dhārmikaṃ jāti.kula.śruta.vṛtta.stavena sambandhena pūrveṣāṃ traikālya.upakārān apakārābhyāṃ vā sāntvayet | 21 |
+कज़्०९।६।२१ धार्मिकं जाति।कुल।श्रुत।वृत्त।स्तवेन सम्बन्धेन पूर्वेषां त्रैकाल्य।उपकारान् अपकाराभ्यां वा सान्त्वयेत् । २१ ।
 
-KAZ09.6.22 nivṛtta.utsāhaṃ vigraha.śrāntaṃ pratihata.upāyaṃ kṣaya.vyayābhyāṃ pravāsena ca-upataptaṃ śaucena-anyaṃ lipsamānam anyasmād vā śaṅkamānaṃ maitrī.pradhānaṃ vā kalyāṇa.buddhiṃ sāmnā sādhayet | 22 |
+कज़्०९।६।२२ निवृत्त।उत्साहं विग्रह।श्रान्तं प्रतिहत।उपायं क्षय।व्ययाभ्यां प्रवासेन च-उपतप्तं शौचेन-अन्यं लिप्समानम् अन्यस्माद् वा शङ्कमानं मैत्री।प्रधानं वा कल्याण।बुद्धिं साम्ना साधयेत् । २२ ।
 
-KAZ09.6.23 lubdhaṃ kṣīṇaṃ vā tapasvi.mukhya.avasthāpanā.pūrvaṃ dānena sādhayet | 23 |
+कज़्०९।६।२३ लुब्धं क्षीणं वा तपस्वि।मुख्य।अवस्थापना।पूर्वं दानेन साधयेत् । २३ ।
 
-KAZ09.6.24 tat pañca.vidhaṃ - deya.visargo gṛhīta.anuvartanam ātta.pratidānaṃ sva.dravya.dānam apūrvaṃ para.sveṣu svayaṃ.grāha.dānaṃ ca | 24 |
+कज़्०९।६।२४ तत् पञ्च।विधं - देय।विसर्गो गृहीत।अनुवर्तनम् आत्त।प्रतिदानं स्व।द्रव्य।दानम् अपूर्वं पर।स्वेषु स्वयं।ग्राह।दानं च । २४ ।
 
-KAZ09.6.25 iti dāna.karma | 25 |
+कज़्०९।६।२५ इति दान।कर्म । २५ ।
 
-KAZ09.6.26 paraspara.dveṣa.vaira.bhūmi.haraṇa.śaṅkitam ato 'nyatamena bhedayet | 26 |
+कज़्०९।६।२६ परस्पर।द्वेष।वैर।भूमि।हरण।शङ्कितम् अतो ऽन्यतमेन भेदयेत् । २६ ।
 
-KAZ09.6.27 bhīruṃ vā pratighātena "kṛta.sandhir eṣa tvayi karma.kariṣyati, mitram asya nisṛṣṭam, sandhau vā na-abhyantaraḥ" iti | 27 |
+कज़्०९।६।२७ भीरुं वा प्रतिघातेन "कृत।सन्धिर् एष त्वयि कर्म।करिष्यति, मित्रम् अस्य निसृष्टम्, सन्धौ वा न-अभ्यन्तरः" इति । २७ ।
 
-KAZ09.6.28 yasya vā sva.deśād anya.deśād vā paṇyāni paṇya.agāratayā-āgaccheyuḥ tāni asya "yātavyāl labdhāni" iti sattriṇaś cārayeyuḥ | 28 |
+कज़्०९।६।२८ यस्य वा स्व।देशाद् अन्य।देशाद् वा पण्यानि पण्य।अगारतया-आगच्छेयुः तानि अस्य "यातव्याल् लब्धानि" इति सत्त्रिणश् चारयेयुः । २८ ।
 
-KAZ09.6.29 bahulī.bhūte śāsanam abhityaktena preṣayet "etat te paṇyaṃ paṇya.agāraṃ vā mayā te preṣitam, sāmavāyikeṣu vikramasva, apagaccha vā, tataḥ paṇa.śeṣam avāpsyasi" iti | 29 |
+कज़्०९।६।२९ बहुली।भूते शासनम् अभित्यक्तेन प्रेषयेत् "एतत् ते पण्यं पण्य।अगारं वा मया ते प्रेषितम्, सामवायिकेषु विक्रमस्व, अपगच्छ वा, ततः पण।शेषम् अवाप्स्यसि" इति । २९ ।
 
-KAZ09.6.30 tataḥ sattriṇaḥ pareṣu grāhayeyuḥ "etad ari.pradattam" iti | 30 |
+कज़्०९।६।३० ततः सत्त्रिणः परेषु ग्राहयेयुः "एतद् अरि।प्रदत्तम्" इति । ३० ।
 
-KAZ09.6.31 śatru.prakhyātaṃ vā paṇyam avijñātaṃ vijigīṣuṃ gacchet | 31 |
+कज़्०९।६।३१ शत्रु।प्रख्यातं वा पण्यम् अविज्ञातं विजिगीषुं गच्छेत् । ३१ ।
 
-KAZ09.6.32 tad asya vaidehaka.vyañjanāḥ śatru.mukhyeṣu vikrīṇīran | 32 |
+कज़्०९।६।३२ तद् अस्य वैदेहक।व्यञ्जनाः शत्रु।मुख्येषु विक्रीणीरन् । ३२ ।
 
-KAZ09.6.33 tataḥ sattriṇaḥ pareṣu grāhayeyuḥ "etat paṇyam ari.pradattam" iti | 33 |
+कज़्०९।६।३३ ततः सत्त्रिणः परेषु ग्राहयेयुः "एतत् पण्यम् अरि।प्रदत्तम्" इति । ३३ ।
 
-KAZ09.6.34 mahā.aparādhān artha.mānābhyām upagṛhya vā śastra.rasa.agnibhir amitre praṇidadhyāt | 34 |
+कज़्०९।६।३४ महा।अपराधान् अर्थ।मानाभ्याम् उपगृह्य वा शस्त्र।रस।अग्निभिर् अमित्रे प्रणिदध्यात् । ३४ ।
 
-KAZ09.6.35 atha-ekam amātyaṃ niṣpātayet | 35 |
+कज़्०९।६।३५ अथ-एकम् अमात्यं निष्पातयेत् । ३५ ।
 
-KAZ09.6.36 tasya putra.dāram upagṛhya rātrau hatam iti khyāpayet | 36 |
+कज़्०९।६।३६ तस्य पुत्र।दारम् उपगृह्य रात्रौ हतम् इति ख्यापयेत् । ३६ ।
 
-KAZ09.6.37 atha-amātyaḥ śatros tān eka.ekaśaḥ prarūpayet | 37 |
+कज़्०९।६।३७ अथ-अमात्यः शत्रोस् तान् एक।एकशः प्ररूपयेत् । ३७ ।
 
-KAZ09.6.38 te ced yathā.uktaṃ kuryur na ca-enān grāhayet | 38 |
+कज़्०९।६।३८ ते चेद् यथा।उक्तं कुर्युर् न च-एनान् ग्राहयेत् । ३८ ।
 
-KAZ09.6.39 aśaktimato vā grāhayet | 39 |
+कज़्०९।६।३९ अशक्तिमतो वा ग्राहयेत् । ३९ ।
 
-KAZ09.6.40 āpta.bhāva.upagato mukhyād asya-ātmānaṃ rakṣaṇīyaṃ kathayet | 40 |
+कज़्०९।६।४० आप्त।भाव।उपगतो मुख्याद् अस्य-आत्मानं रक्षणीयं कथयेत् । ४० ।
 
-KAZ09.6.41 atha-amitra.śāsanaṃ mukhya.upaghātāya preṣitam ubhaya.vetano grāhayet | 41 |
+कज़्०९।६।४१ अथ-अमित्र।शासनं मुख्य।उपघाताय प्रेषितम् उभय।वेतनो ग्राहयेत् । ४१ ।
 
-KAZ09.6.42 utsāha.śaktimato vā preṣayet "amuṣya rājyaṃ gṛhāṇa, yathā.asthito naḥ sandhiḥ" iti | 42 |
+कज़्०९।६।४२ उत्साह।शक्तिमतो वा प्रेषयेत् "अमुष्य राज्यं गृहाण, यथा।अस्थितो नः सन्धिः" इति । ४२ ।
 
-KAZ09.6.43 tataḥ sattriṇaḥ pareṣu grāhayeyuḥ | 43 |
+कज़्०९।६।४३ ततः सत्त्रिणः परेषु ग्राहयेयुः । ४३ ।
 
-KAZ09.6.44 ekasya skandha.āvāraṃ vīvadham āsāraṃ vā ghātayeyuḥ | 44 |
+कज़्०९।६।४४ एकस्य स्कन्ध।आवारं वीवधम् आसारं वा घातयेयुः । ४४ ।
 
-KAZ09.6.45 itareṣu maitrīṃ bruvāṇāḥ "tvam eteṣāṃ ghātayitavyaḥ" ity upajapeyuḥ | 45 |
+कज़्०९।६।४५ इतरेषु मैत्रीं ब्रुवाणाः "त्वम् एतेषां घातयितव्यः" इत्य् उपजपेयुः । ४५ ।
 
-KAZ09.6.46 yasya vā pravīra.puruṣo hastī hayo vā mriyeta gūḍha.puruṣair hanyeta hriyeta vā sattriṇaḥ paraspara.upahataṃ brūyuḥ | 46 |
+कज़्०९।६।४६ यस्य वा प्रवीर।पुरुषो हस्ती हयो वा म्रियेत गूढ।पुरुषैर् हन्येत ह्रियेत वा सत्त्रिणः परस्पर।उपहतं ब्रूयुः । ४६ ।
 
-KAZ09.6.47 tataḥ śāsanam abhiśastasya preṣayet "bhūyaḥ kuru tataḥ paṇa.śeeṣam avāpsyasi" iti | 47 |
+कज़्०९।६।४७ ततः शासनम् अभिशस्तस्य प्रेषयेत् "भूयः कुरु ततः पण।शेएषम् अवाप्स्यसि" इति । ४७ ।
 
-KAZ09.6.48 tad ubhaya.vetanā grāhayeyuḥ | 48 |
+कज़्०९।६।४८ तद् उभय।वेतना ग्राहयेयुः । ४८ ।
 
-KAZ09.6.49 bhinneṣv anyatamaṃ labheta | 49 |
+कज़्०९।६।४९ भिन्नेष्व् अन्यतमं लभेत । ४९ ।
 
-KAZ09.6.50 tena senā.pati.kumāra.daṇḍa.cāriṇo vyākhyātāḥ | 50 |
+कज़्०९।६।५० तेन सेना।पति।कुमार।दण्ड।चारिणो व्याख्याताः । ५० ।
 
-KAZ09.6.51 sāndhikaṃ ca bhedaṃ prayuñjīta | 51 |
+कज़्०९।६।५१ सान्धिकं च भेदं प्रयुञ्जीत । ५१ ।
 
-KAZ09.6.52 iti bheda.karma | 52 |
+कज़्०९।६।५२ इति भेद।कर्म । ५२ ।
 
-KAZ09.6.53 tīkṣṇam utsāhinaṃ vyasaninaṃ sthita.śatruṃ vā gūḍha.puruṣāḥ śastra.agni.rasa.ādibhiḥ sādhayeyuḥ, saukaryato vā teṣām anyatamaḥ | 53 |
+कज़्०९।६।५३ तीक्ष्णम् उत्साहिनं व्यसनिनं स्थित।शत्रुं वा गूढ।पुरुषाः शस्त्र।अग्नि।रस।आदिभिः साधयेयुः, सौकर्यतो वा तेषाम् अन्यतमः । ५३ ।
 
-KAZ09.6.54 tīkṣṇo hy ekaḥ śastra.rasa.agnibhiḥ sādhayet | 54 |
+कज़्०९।६।५४ तीक्ष्णो ह्य् एकः शस्त्र।रस।अग्निभिः साधयेत् । ५४ ।
 
-KAZ09.6.55 ayaṃ sarva.sandoha.karma viśiṣṭaṃ vā karoti | 55 |
+कज़्०९।६।५५ अयं सर्व।सन्दोह।कर्म विशिष्टं वा करोति । ५५ ।
 
-KAZ09.6.56 ity upāya.catur.vargaḥ | 56 |
+कज़्०९।६।५६ इत्य् उपाय।चतुर्।वर्गः । ५६ ।
 
-KAZ09.6.57 pūrvaḥ pūrvaś ca-asya laghiṣṭhaḥ | 57 |
+कज़्०९।६।५७ पूर्वः पूर्वश् च-अस्य लघिष्ठः । ५७ ।
 
-KAZ09.6.58 sāntvam eka.guṇam | 58 |
+कज़्०९।६।५८ सान्त्वम् एक।गुणम् । ५८ ।
 
-KAZ09.6.59 dānaṃ dvi.guṇaṃ sāntva.pūrvam | 59 |
+कज़्०९।६।५९ दानं द्वि।गुणं सान्त्व।पूर्वम् । ५९ ।
 
-KAZ09.6.60 bhedas tri.guṇaḥ sāntva.dāna.pūrvaḥ | 60 |
+कज़्०९।६।६० भेदस् त्रि।गुणः सान्त्व।दान।पूर्वः । ६० ।
 
-KAZ09.6.61 daṇḍaś catur.guṇaḥ sāntva.dāna.bheda.pūrvaḥ | 61 |
+कज़्०९।६।६१ दण्डश् चतुर्।गुणः सान्त्व।दान।भेद।पूर्वः । ६१ ।
 
-KAZ09.6.62 ity abhiyuñjāneṣu-uktam | 62 |
+कज़्०९।६।६२ इत्य् अभियुञ्जानेषु-उक्तम् । ६२ ।
 
-KAZ09.6.63 sva.bhūmiṣṭheṣu tu ta eva-upāyāḥ | 63 |
+कज़्०९।६।६३ स्व।भूमिष्ठेषु तु त एव-उपायाः । ६३ ।
 
-KAZ09.6.64 viśeṣas tu | 64 |
+कज़्०९।६।६४ विशेषस् तु । ६४ ।
 
-KAZ09.6.65 sva.bhūmiṣṭhānām anyatamasya paṇya.agārair abhijñātān dūta.mukhyān abhīkṣṇaṃ preṣayet | 65 |
+कज़्०९।६।६५ स्व।भूमिष्ठानाम् अन्यतमस्य पण्य।अगारैर् अभिज्ञातान् दूत।मुख्यान् अभीक्ष्णं प्रेषयेत् । ६५ ।
 
-KAZ09.6.66 ta enaṃ sandhau para.hiṃsāyāṃ vā yojayeyuḥ | 66 |
+कज़्०९।६।६६ त एनं सन्धौ पर।हिंसायां वा योजयेयुः । ६६ ।
 
-KAZ09.6.67 apratipadyamānaṃ "kṛto naḥ sandhiḥ" ity āvedayeyuḥ | 67 |
+कज़्०९।६।६७ अप्रतिपद्यमानं "कृतो नः सन्धिः" इत्य् आवेदयेयुः । ६७ ।
 
-KAZ09.6.68 tam itareṣām ubhaya.vetanāḥ saṅkrāmayeyuḥ "ayaṃ vo rājā duṣṭaḥ" iti | 68 |
+कज़्०९।६।६८ तम् इतरेषाम् उभय।वेतनाः सङ्क्रामयेयुः "अयं वो राजा दुष्टः" इति । ६८ ।
 
-KAZ09.6.69 yasya vā yasmād bhayaṃ vairaṃ dveṣo vā taṃ tasmād bhedayeyuḥ "ayaṃ te śatruṇā sandhatte, purā tvām atisandhatte, kṣiprataraṃ sandhīyasva, nigrahe ca-asya prayatasva" iti | 69 |
+कज़्०९।६।६९ यस्य वा यस्माद् भयं वैरं द्वेषो वा तं तस्माद् भेदयेयुः "अयं ते शत्रुणा सन्धत्ते, पुरा त्वाम् अतिसन्धत्ते, क्षिप्रतरं सन्धीयस्व, निग्रहे च-अस्य प्रयतस्व" इति । ६९ ।
 
-KAZ09.6.70 āvāha.vivāhābhyāṃ vā kṛtvā samyogam asamyuktān bhedayet | 70 |
+कज़्०९।६।७० आवाह।विवाहाभ्यां वा कृत्वा सम्योगम् असम्युक्तान् भेदयेत् । ७० ।
 
-KAZ09.6.71 sāmanta.āṭavika.tat.kulīna.aparuddhaiś ca-eṣāṃ rājyāni ghātayet, sārtha.vraja.aṭavīr vā, daṇḍaṃ vā-abhisṛtam | 71 |
+कज़्०९।६।७१ सामन्त।आटविक।तत्।कुलीन।अपरुद्धैश् च-एषां राज्यानि घातयेत्, सार्थ।व्रज।अटवीर् वा, दण्डं वा-अभिसृतम् । ७१ ।
 
-KAZ09.6.72 paraspara.apāśrayāś ca-eṣāṃ jāti.saṅghāś chidreṣu prahareyuḥ, gūḍhāś ca-agni.rasa.śastreṇa | 72 |
+कज़्०९।६।७२ परस्पर।अपाश्रयाश् च-एषां जाति।सङ्घाश् छिद्रेषु प्रहरेयुः, गूढाश् च-अग्नि।रस।शस्त्रेण । ७२ ।
 
-KAZ09.6.73ab vītaṃsa.gilavac ca-arīn yogair ācaritaiḥ śaṭhaḥ |  
-KAZ09.6.73cd ghātayet para.miśrāyāṃ viśvāsena-āmiṣeṇa ca || 73 ||  
+कज़्०९।६।७३अब् वीतंस।गिलवच् च-अरीन् योगैर् आचरितैः शठः ।  
+कज़्०९।६।७३च्द् घातयेत् पर।मिश्रायां विश्वासेन-आमिषेण च ॥ ७३ ॥  
 
 
  छप्तेर् ७ (सेच्तिओन्स् १४५; १४६): दन्गेर्स् wइथ् अद्वन्तगे, दिसद्वन्तगे अन्द् उन्चेर्तैन्त्य्; ओवेर्चोमिन्ग् दन्गेर्स् ब्य् दिड़्ड़ेरेन्त् मेअन्स्
@@ -9970,42 +9969,42 @@ KAZ09.6.73cd ghātayet para.miśrāyāṃ viśvāsena-āmiṣeṇa ca || 73 ||
 
 # बोओक् १०: चोन्चेर्निन्ग् Wअर्
  \[क् त्र्। ५०१-५२५\] ,  \[क्२ त्र्। ४३३-४५३\] 
- Chapter 1 (Section 147): Setting up of the Camp
- \[K tr. 501\] ,  \[K2 tr. 433\] 
-KAZ10.1.01 vāstuka.praśaste vāstuni nāyaka.vardhaki mauhūrtikāḥ skandha.āvāram, vṛttaṃ dīrghaṃ catur.aśraṃ vā bhūmi.vaśena vā, catur.dvāraṃ ṣaṭ.pathaṃ nava.saṃsthānaṃ māpayeyuḥ khāta.vapra.sāla.dvāra.aṭṭālaka.sampannaṃ bhaye sthāne ca | 1 |
+ छप्तेर् १ (सेच्तिओन् १४७): सेत्तिन्ग् उप् ओड़् थे चम्प्
+ \[क् त्र्। ५०१\] ,  \[क्२ त्र्। ४३३\] 
+कज़्१०।१।०१ वास्तुक।प्रशस्ते वास्तुनि नायक।वर्धकि मौहूर्तिकाः स्कन्ध।आवारम्, वृत्तं दीर्घं चतुर्।अश्रं वा भूमि।वशेन वा, चतुर्।द्वारं षट्।पथं नव।संस्थानं मापयेयुः खात।वप्र।साल।द्वार।अट्टालक।सम्पन्नं भये स्थाने च । १ ।
 
-KAZ10.1.02 madhyamasya-uttare nava.bhāge rāja.vāstukaṃ dhanuḥ.śata.āyāmam ardha.vistāram, paścima.ardhe tasya-antaḥ.puram | 2 |
+कज़्१०।१।०२ मध्यमस्य-उत्तरे नव।भागे राज।वास्तुकं धनुः।शत।आयामम् अर्ध।विस्तारम्, पश्चिम।अर्धे तस्य-अन्तः।पुरम् । २ ।
 
-KAZ10.1.03 antar.vaṃśika.sainyaṃ ca-ante niviśeta | 3 |
+कज़्१०।१।०३ अन्तर्।वंशिक।सैन्यं च-अन्ते निविशेत । ३ ।
 
-KAZ10.1.04 purastād upasthānam, dakṣiṇataḥ kośa.śāsana.kārya.karaṇāni, vāmato rāja.aupavāhyānāṃ hasty.aśva.rathānāṃ sthānam | 4 |
+कज़्१०।१।०४ पुरस्ताद् उपस्थानम्, दक्षिणतः कोश।शासन।कार्य।करणानि, वामतो राज।औपवाह्यानां हस्त्य्।अश्व।रथानां स्थानम् । ४ ।
 
-KAZ10.1.05 ato dhanuḥ.śata.antarāś catvāraḥ śakaṭa.methī.pratati.stambha.sāla.parikṣepāḥ | 5 |
+कज़्१०।१।०५ अतो धनुः।शत।अन्तराश् चत्वारः शकट।मेथी।प्रतति।स्तम्भ।साल।परिक्षेपाः । ५ ।
 
-KAZ10.1.06 prathame purastān mantri.purohitau, daṇṣiṇataḥ koṣṭha.agāraṃ mahānasaṃ ca, vāmataḥ kupya.āyudha.agāram | 6 |
+कज़्१०।१।०६ प्रथमे पुरस्तान् मन्त्रि।पुरोहितौ, दण्षिणतः कोष्ठ।अगारं महानसं च, वामतः कुप्य।आयुध।अगारम् । ६ ।
 
-KAZ10.1.07 dvitīye maula.bhṛtānāṃ sthānam aśva.rathānāṃ senā.pateś ca | 7 |
+कज़्१०।१।०७ द्वितीये मौल।भृतानां स्थानम् अश्व।रथानां सेना।पतेश् च । ७ ।
 
-KAZ10.1.08 tṛtīye hastinaḥ śreṇyaḥ praśāstā ca | 8 |
+कज़्१०।१।०८ तृतीये हस्तिनः श्रेण्यः प्रशास्ता च । ८ ।
 
-KAZ10.1.09 caturthe viṣṭir nāyako mitra.amitra.aṭavī.balaṃ sva.puruṣa.adhiṣṭhitam | 9 |
+कज़्१०।१।०९ चतुर्थे विष्टिर् नायको मित्र।अमित्र।अटवी।बलं स्व।पुरुष।अधिष्ठितम् । ९ ।
 
-KAZ10.1.10 vaṇijo rūpa.ājīvāś ca-anu.mahā.patham | 10 |
+कज़्१०।१।१० वणिजो रूप।आजीवाश् च-अनु।महा।पथम् । १० ।
 
-KAZ10.1.11 bāhyato lubdhaka.śva.gaṇinaḥ satūrya.agnayaḥ, gūḍhāś ca-ārakṣāḥ | 11 |
+कज़्१०।१।११ बाह्यतो लुब्धक।श्व।गणिनः सतूर्य।अग्नयः, गूढाश् च-आरक्षाः । ११ ।
 
-KAZ10.1.12 śatrūṇām āpāte kūpa.kūṭa.avapāta.kaṇṭakinīś ca sthāpayet | 12 |
+कज़्१०।१।१२ शत्रूणाम् आपाते कूप।कूट।अवपात।कण्टकिनीश् च स्थापयेत् । १२ ।
 
-KAZ10.1.13 aṣṭādaśa.vargāṇām ārakṣa.viparyāsaṃ kārayet | 13 |
+कज़्१०।१।१३ अष्टादश।वर्गाणाम् आरक्ष।विपर्यासं कारयेत् । १३ ।
 
-KAZ10.1.14 diva.āyāmaṃ ca kārayed apasarpa.jñāna.artham | 14 |
+कज़्१०।१।१४ दिव।आयामं च कारयेद् अपसर्प।ज्ञान।अर्थम् । १४ ।
 
-KAZ10.1.15 vivāda.saurika.samāja.dyūta.vāraṇaṃ ca kārayet, mudrā.rakṣaṇaṃ ca | 15 |
+कज़्१०।१।१५ विवाद।सौरिक।समाज।द्यूत।वारणं च कारयेत्, मुद्रा।रक्षणं च । १५ ।
 
-KAZ10.1.16 senā.nivṛttam āyudhīyam aśāsanaṃ śūnya.pālo badhnīyāt | 16 |
+कज़्१०।१।१६ सेना।निवृत्तम् आयुधीयम् अशासनं शून्य।पालो बध्नीयात् । १६ ।
 
-KAZ10.1.17ab purastād adhvanaḥ samyak.praśāstā rakṣaṇāni ca |  
-KAZ10.1.17cd yāyād vardhaki.viṣṭibhyām udakāni ca kārayet || 17 ||  
+कज़्१०।१।१७अब् पुरस्ताद् अध्वनः सम्यक्।प्रशास्ता रक्षणानि च ।  
+कज़्१०।१।१७च्द् यायाद् वर्धकि।विष्टिभ्याम् उदकानि च कारयेत् ॥ १७ ॥  
 
 
  छप्तेर् २ (सेच्तिओन्स् १४८; १४९): मर्छ् ड़्रोम् थे चम्प्; गुअर्दिन्ग् त्रोओप्स् दुरिन्ग् चलमितिएस् अन्द् अत् थे तिमे ओड़् अत्तच्क्
@@ -10052,126 +10051,126 @@ KAZ10.1.17cd yāyād vardhaki.viṣṭibhyām udakāni ca kārayet || 17 ||
 कज़्१०।२।२०च्द् स्व।भुमौ पृष्ठतः कृत्वा युध्येत निविशेत च ॥ २० ॥  
 
 
- Chapter 3 (Sections 150; 151; 152): Covert Fighting; Encouraging the Troops; Disposition of Troops
- \[K tr. 506\] ,  \[K2 tr. 438\] 
-KAZ10.3.01 bala.viśiṣṭaḥ kṛta.upajāpaḥ prativihita.ṛtuḥ sva.bhūmyāṃ prakāśa.yuddham upeyāt | 1 |
+ छप्तेर् ३ (सेच्तिओन्स् १५०; १५१; १५२): चोवेर्त् ड़िघ्तिन्ग्; एन्चोउरगिन्ग् थे त्रोओप्स्; दिस्पोसितिओन् ओड़् त्रोओप्स्
+ \[क् त्र्। ५०६\] ,  \[क्२ त्र्। ४३८\] 
+कज़्१०।३।०१ बल।विशिष्टः कृत।उपजापः प्रतिविहित।ऋतुः स्व।भूम्यां प्रकाश।युद्धम् उपेयात् । १ ।
 
-KAZ10.3.02 viparyaye kūṭa.yuddham | 2 |
+कज़्१०।३।०२ विपर्यये कूट।युद्धम् । २ ।
 
-KAZ10.3.03 bala.vyasana.avaskanda.kāleṣu param abhihanyāt, abhūmiṣṭhaṃ vā sva.bhūmiṣṭhaḥ, prakṛti.pragraho vā sva.bhūmiṣṭham | 3 |
+कज़्१०।३।०३ बल।व्यसन।अवस्कन्द।कालेषु परम् अभिहन्यात्, अभूमिष्ठं वा स्व।भूमिष्ठः, प्रकृति।प्रग्रहो वा स्व।भूमिष्ठम् । ३ ।
 
-KAZ10.3.04 dūṣya.amitra.aṭavī.balair vā bhaṅgaṃ dattvā vibhūmi.prāptaṃ hanyāt | 4 |
+कज़्१०।३।०४ दूष्य।अमित्र।अटवी।बलैर् वा भङ्गं दत्त्वा विभूमि।प्राप्तं हन्यात् । ४ ।
 
-KAZ10.3.05 saṃhata.anīkaṃ hastibhir bhedayet | 5 |
+कज़्१०।३।०५ संहत।अनीकं हस्तिभिर् भेदयेत् । ५ ।
 
-KAZ10.3.06 pūrvaṃ bhaṅga.pradānena-anupralīnaṃ bhinnam abhinnaḥ pratinivṛtya hanyāt | 6 |
+कज़्१०।३।०६ पूर्वं भङ्ग।प्रदानेन-अनुप्रलीनं भिन्नम् अभिन्नः प्रतिनिवृत्य हन्यात् । ६ ।
 
-KAZ10.3.07 purastād abhihatya pracalaṃ vimukhaṃ vā pṛṣṭhato hasty.aśvena-abhihanyāt | 7 |
+कज़्१०।३।०७ पुरस्ताद् अभिहत्य प्रचलं विमुखं वा पृष्ठतो हस्त्य्।अश्वेन-अभिहन्यात् । ७ ।
 
-KAZ10.3.08 pṛṣṭhato 'bhihatyā pracalaṃ vimukhaṃ vā purastāt sāra.balena-abhihanyāt | 8 |
+कज़्१०।३।०८ पृष्ठतो ऽभिहत्या प्रचलं विमुखं वा पुरस्तात् सार।बलेन-अभिहन्यात् । ८ ।
 
-KAZ10.3.09 tābhyāṃ pārśva.abhigātau vyākhyātau | 9 |
+कज़्१०।३।०९ ताभ्यां पार्श्व।अभिगातौ व्याख्यातौ । ९ ।
 
-KAZ10.3.10 yato vā dūṣya.phalgu.balaṃ tato 'bhihanyāt | 10 |
+कज़्१०।३।१० यतो वा दूष्य।फल्गु।बलं ततो ऽभिहन्यात् । १० ।
 
-KAZ10.3.11 purastād viṣamāyāṃ pṛṣṭhato 'bhihanyāt | 11 |
+कज़्१०।३।११ पुरस्ताद् विषमायां पृष्ठतो ऽभिहन्यात् । ११ ।
 
-KAZ10.3.12 pṛṣṭhato viṣamāyāṃ purastād abhihanyāt | 12 |
+कज़्१०।३।१२ पृष्ठतो विषमायां पुरस्ताद् अभिहन्यात् । १२ ।
 
-KAZ10.3.13 pārśvato viṣamāyām itarato 'bhihanyāt | 13 |
+कज़्१०।३।१३ पार्श्वतो विषमायाम् इतरतो ऽभिहन्यात् । १३ ।
 
-KAZ10.3.14 dūṣya.amitra.aṭavī.balair vā pūrvaṃ yodhayitvā śrāntam aśrāntaḥ param abhihanyāt | 14 |
+कज़्१०।३।१४ दूष्य।अमित्र।अटवी।बलैर् वा पूर्वं योधयित्वा श्रान्तम् अश्रान्तः परम् अभिहन्यात् । १४ ।
 
-KAZ10.3.15 dūṣya.balena vā svayaṃ bhaṅgaṃ dattvā "jitam" iti viśvastam aviśvastaḥ sattra.apāśrayo 'bhihanyāt | 15 |
+कज़्१०।३।१५ दूष्य।बलेन वा स्वयं भङ्गं दत्त्वा "जितम्" इति विश्वस्तम् अविश्वस्तः सत्त्र।अपाश्रयो ऽभिहन्यात् । १५ ।
 
-KAZ10.3.16 sārtha.vraja.skandha.āvāra.saṃvāha.vilopa.pramattam apramatto 'bhihanyāt | 16 |
+कज़्१०।३।१६ सार्थ।व्रज।स्कन्ध।आवार।संवाह।विलोप।प्रमत्तम् अप्रमत्तो ऽभिहन्यात् । १६ ।
 
-KAZ10.3.17 phalgu.bala.avacchanna.sāra.balo vā para.vīrān anupraviśya hanyāt | 17 |
+कज़्१०।३।१७ फल्गु।बल।अवच्छन्न।सार।बलो वा पर।वीरान् अनुप्रविश्य हन्यात् । १७ ।
 
-KAZ10.3.18 go.grahaṇena śvā.pada.vadhena vā para.vīrān ākṛṣya sattrac.channo 'bhihanyāt | 18 |
+कज़्१०।३।१८ गो।ग्रहणेन श्वा।पद।वधेन वा पर।वीरान् आकृष्य सत्त्रच्।छन्नो ऽभिहन्यात् । १८ ।
 
-KAZ10.3.19 rātrāv avaskandena jāgarayitvā nidrā.klāntān avasuptān vā divā hanyāt | 19 |
+कज़्१०।३।१९ रात्राव् अवस्कन्देन जागरयित्वा निद्रा।क्लान्तान् अवसुप्तान् वा दिवा हन्यात् । १९ ।
 
-KAZ10.3.20 sapāda.carma.kośair vā hastibhiḥ sauptikaṃ dadyāt | 20 |
+कज़्१०।३।२० सपाद।चर्म।कोशैर् वा हस्तिभिः सौप्तिकं दद्यात् । २० ।
 
-KAZ10.3.21 ahaḥ.samnāha.pariśrāntān apara.ahne 'bhihanyāt | 21 |
+कज़्१०।३।२१ अहः।सम्नाह।परिश्रान्तान् अपर।अह्ने ऽभिहन्यात् । २१ ।
 
-KAZ10.3.22 śuṣka.carma.vṛtta.śarkara.ākośakair go.mahiṣa.uṣṭra.yūthair vā trasnubhir akṛta.hasty.aśvaṃ bhinnam abhinnaḥ pratinivṛttaṃ hanyāt | 22 |
+कज़्१०।३।२२ शुष्क।चर्म।वृत्त।शर्कर।आकोशकैर् गो।महिष।उष्ट्र।यूथैर् वा त्रस्नुभिर् अकृत।हस्त्य्।अश्वं भिन्नम् अभिन्नः प्रतिनिवृत्तं हन्यात् । २२ ।
 
-KAZ10.3.23 pratisūrya.vātaṃ vā sarvam abhihanyāt | 23 |
+कज़्१०।३।२३ प्रतिसूर्य।वातं वा सर्वम् अभिहन्यात् । २३ ।
 
-KAZ10.3.24 dhānvana.vana.saṅkaṭa.paṅka.śaila.nimna.viṣama.nāvo gāvaḥ śakaṭavyūho nīhāro rātrir iti sattrāṇi | 24 |
+कज़्१०।३।२४ धान्वन।वन।सङ्कट।पङ्क।शैल।निम्न।विषम।नावो गावः शकटव्यूहो नीहारो रात्रिर् इति सत्त्राणि । २४ ।
 
-KAZ10.3.25 pūrve ca praharaṇa.kālāḥ kūṭa.yuddha.hetavaḥ | 25 |
+कज़्१०।३।२५ पूर्वे च प्रहरण।कालाः कूट।युद्ध।हेतवः । २५ ।
 
-KAZ10.3.26 saṅgrāmas tu nirdiṣṭa.deśa.kālo dharmiṣṭhaḥ | 26 |
+कज़्१०।३।२६ सङ्ग्रामस् तु निर्दिष्ट।देश।कालो धर्मिष्ठः । २६ ।
 
-KAZ10.3.27 saṃhatya daṇḍaṃ brūyāt "tulya.vetano 'smi, bhavadbhiḥ saha bhogyam idaṃ rājyam, mayā-abhihitaiḥ paro 'bhihantavyaḥ" iti | 27 |
+कज़्१०।३।२७ संहत्य दण्डं ब्रूयात् "तुल्य।वेतनो ऽस्मि, भवद्भिः सह भोग्यम् इदं राज्यम्, मया-अभिहितैः परो ऽभिहन्तव्यः" इति । २७ ।
 
-KAZ10.3.28 vedeṣv apy anuśrūyate samāpta.dakṣiṇānāṃ yajñānām avabhṛtheṣu "sā te gatir yā śūrāṇām" iti | 28 |
+कज़्१०।३।२८ वेदेष्व् अप्य् अनुश्रूयते समाप्त।दक्षिणानां यज्ञानाम् अवभृथेषु "सा ते गतिर् या शूराणाम्" इति । २८ ।
 
-KAZ10.3.29 api-iha ślokau bhavataḥ | 29 |
+कज़्१०।३।२९ अपि-इह श्लोकौ भवतः । २९ ।
 
-KAZ10.3.30ab "yān yajña.saṅghais tapasā ca viprāḥ svarga.eṣiṇaḥ pātra.cayaiś ca yānti |  
-KAZ10.3.30cd kṣaṇena tān apy atiyānti śūrāḥ prāṇān suyuddheṣu parityajantaḥ || 30 ||  
-
-
-KAZ10.3.31ab "navaṃ śarāvaṃ salilasya pūrṇaṃ susaṃskṛtaṃ darbha.kṛta.uttarīyam |  
-KAZ10.3.31cd tat tasya mā bhūn narakaṃ ca gacched yo bhartṛ.piṇḍasya kṛte na yudhyet || 31 ||" iti |  
+कज़्१०।३।३०अब् "यान् यज्ञ।सङ्घैस् तपसा च विप्राः स्वर्ग।एषिणः पात्र।चयैश् च यान्ति ।  
+कज़्१०।३।३०च्द् क्षणेन तान् अप्य् अतियान्ति शूराः प्राणान् सुयुद्धेषु परित्यजन्तः ॥ ३० ॥  
 
 
-KAZ10.3.32 mantri.purohitābhyām utsāhayed yodhān vyūha.sampadā | 32 |
+कज़्१०।३।३१अब् "नवं शरावं सलिलस्य पूर्णं सुसंस्कृतं दर्भ।कृत।उत्तरीयम् ।  
+कज़्१०।३।३१च्द् तत् तस्य मा भून् नरकं च गच्छेद् यो भर्तृ।पिण्डस्य कृते न युध्येत् ॥ ३१ ॥" इति ।  
 
-KAZ10.3.33 kārtāntika.ādiś ca-asya vargaḥ sarvajña.daivata.samyoga.khyāpanābhyāṃ sva.pakṣam uddharṣayet, para.pakṣaṃ ca-udvejayet | 33 |
 
-KAZ10.3.34 "śvo yuddham" iti kṛta.upavāsaḥ śastra.vāhanaṃ ca-anuśayīta | 34 |
+कज़्१०।३।३२ मन्त्रि।पुरोहिताभ्याम् उत्साहयेद् योधान् व्यूह।सम्पदा । ३२ ।
 
-KAZ10.3.35 atharvabhiś ca juhuyāt | 35 |
+कज़्१०।३।३३ कार्तान्तिक।आदिश् च-अस्य वर्गः सर्वज्ञ।दैवत।सम्योग।ख्यापनाभ्यां स्व।पक्षम् उद्धर्षयेत्, पर।पक्षं च-उद्वेजयेत् । ३३ ।
 
-KAZ10.3.36 vijaya.yuktāḥ svargīyāś ca-āśiṣo vācayet | 36 |
+कज़्१०।३।३४ "श्वो युद्धम्" इति कृत।उपवासः शस्त्र।वाहनं च-अनुशयीत । ३४ ।
 
-KAZ10.3.37 brāhmaṇebhyaś ca-ātmānam atisṛjet | 37 |
+कज़्१०।३।३५ अथर्वभिश् च जुहुयात् । ३५ ।
 
-KAZ10.3.38 śaurya.śilpa.abhijana.anurāga.yuktam artha.mānābhyām avisaṃvāditam anīka.garbhaṃ kurvīta | 38 |
+कज़्१०।३।३६ विजय।युक्ताः स्वर्गीयाश् च-आशिषो वाचयेत् । ३६ ।
 
-KAZ10.3.39 pitṛ.putra.bhrātṛkāṇām āyudhīyānām adhvajaṃ muṇḍa.anīkaṃ rāja.sthānam | 39 |
+कज़्१०।३।३७ ब्राह्मणेभ्यश् च-आत्मानम् अतिसृजेत् । ३७ ।
 
-KAZ10.3.40 hastī ratho vā rāja.vāhanam aśva.anubandhaḥ | 40 |
+कज़्१०।३।३८ शौर्य।शिल्प।अभिजन।अनुराग।युक्तम् अर्थ।मानाभ्याम् अविसंवादितम् अनीक।गर्भं कुर्वीत । ३८ ।
 
-KAZ10.3.41 yat prāya.sainyo yatra vā vinītaḥ syāt t (tad?) adhirohayet | 41 |
+कज़्१०।३।३९ पितृ।पुत्र।भ्रातृकाणाम् आयुधीयानाम् अध्वजं मुण्ड।अनीकं राज।स्थानम् । ३९ ।
 
-KAZ10.3.42 rāja.vyañjano vyūha.adhiṣṭhānam āyojyaḥ | 42 |
+कज़्१०।३।४० हस्ती रथो वा राज।वाहनम् अश्व।अनुबन्धः । ४० ।
 
-KAZ10.3.43 sūta.māgadhāḥ śūrāṇāṃ svargam asvargaṃ bhīrūṇāṃ jāti.saṅgha.kula.karma.vṛtta.stavaṃ ca yodhānāṃ varṇayeyuḥ | 43 |
+कज़्१०।३।४१ यत् प्राय।सैन्यो यत्र वा विनीतः स्यात् त् (तद्?) अधिरोहयेत् । ४१ ।
 
-KAZ10.3.44 purohita.puruṣāḥ kṛtya.abhicāraṃ brūyuḥ, yantrika.vardhaki.mauhūrtikāḥ sva.karma.siddhim asiddhiṃ pareṣām | 44 |
+कज़्१०।३।४२ राज।व्यञ्जनो व्यूह।अधिष्ठानम् आयोज्यः । ४२ ।
 
-KAZ10.3.45 senā.patir artha.mānābhyām abhisaṃskṛtam anīkam ābhāṣeta - "śata.sāhasro rāja.vadhaḥ, pañcāśat.sāhasraḥ senā.pati.kumāra.vadhaḥ, daśa.sāhasraḥ pravīra.mukhya.vadhaḥ, pañca.sāhasro hasti.ratha.vadhaḥ, sāhasro 'śva.vadhaḥ, śatyaḥ patti.mukhya.vadhaḥ, śiro viṃśatikaṃ bhoga.dvaiguṇyaṃ svayaṃ.grāhaś ca" iti | 45 |
+कज़्१०।३।४३ सूत।मागधाः शूराणां स्वर्गम् अस्वर्गं भीरूणां जाति।सङ्घ।कुल।कर्म।वृत्त।स्तवं च योधानां वर्णयेयुः । ४३ ।
 
-KAZ10.3.46 tad eṣāṃ daśa.varga.adhipatayo vidyuḥ | 46 |
+कज़्१०।३।४४ पुरोहित।पुरुषाः कृत्य।अभिचारं ब्रूयुः, यन्त्रिक।वर्धकि।मौहूर्तिकाः स्व।कर्म।सिद्धिम् असिद्धिं परेषाम् । ४४ ।
 
-KAZ10.3.47 cikitsakāḥ śastra.yantra.agada.sneha.vastra.hastāḥ striyaś ca-anna.pāna.rakṣiṇyaḥ puruṣāṇām uddharṣaṇīyāḥ pṛṣṭhatas tiṣṭheyuḥ | 47 |
+कज़्१०।३।४५ सेना।पतिर् अर्थ।मानाभ्याम् अभिसंस्कृतम् अनीकम् आभाषेत - "शत।साहस्रो राज।वधः, पञ्चाशत्।साहस्रः सेना।पति।कुमार।वधः, दश।साहस्रः प्रवीर।मुख्य।वधः, पञ्च।साहस्रो हस्ति।रथ।वधः, साहस्रो ऽश्व।वधः, शत्यः पत्ति।मुख्य।वधः, शिरो विंशतिकं भोग।द्वैगुण्यं स्वयं।ग्राहश् च" इति । ४५ ।
 
-KAZ10.3.48 adakṣiṇā.mukhaṃ pṛṣṭhataḥ.sūryam anuloma.vātam anīkaṃ sva.bhūmau vyūheta | 48 |
+कज़्१०।३।४६ तद् एषां दश।वर्ग।अधिपतयो विद्युः । ४६ ।
 
-KAZ10.3.49 para.bhūmi.vyūhe ca-aśvāṃś cārayeyuḥ | 49 |
+कज़्१०।३।४७ चिकित्सकाः शस्त्र।यन्त्र।अगद।स्नेह।वस्त्र।हस्ताः स्त्रियश् च-अन्न।पान।रक्षिण्यः पुरुषाणाम् उद्धर्षणीयाः पृष्ठतस् तिष्ठेयुः । ४७ ।
 
-KAZ10.3.50 yatra sthānaṃ prajavaś ca-abhūmir vyūhasya tatra sthitaḥ prajavitaś ca-ubhayathā jīyeta | 50 |
+कज़्१०।३।४८ अदक्षिणा।मुखं पृष्ठतः।सूर्यम् अनुलोम।वातम् अनीकं स्व।भूमौ व्यूहेत । ४८ ।
 
-KAZ10.3.51 viparyaye jayati, ubhayathā sthāne prajave ca | 51 |
+कज़्१०।३।४९ पर।भूमि।व्यूहे च-अश्वांश् चारयेयुः । ४९ ।
 
-KAZ10.3.52 samā viṣamā vyāmiśrā vā bhūmir iti purastāt pārśvābhyāṃ paścāc ca jñeyā | 52 |
+कज़्१०।३।५० यत्र स्थानं प्रजवश् च-अभूमिर् व्यूहस्य तत्र स्थितः प्रजवितश् च-उभयथा जीयेत । ५० ।
 
-KAZ10.3.53 samāyāṃ daṇḍa.maṇḍala.vyūhāḥ, viṣamāyāṃ bhoga.asaṃhata.vyūhāḥ, vyāmiśrāyāṃ viṣama.vyūhāḥ | 53 |
+कज़्१०।३।५१ विपर्यये जयति, उभयथा स्थाने प्रजवे च । ५१ ।
 
-KAZ10.3.54 viśiṣṭa.balaṃ bhaṅktvā sandhiṃ yāceta | 54 |
+कज़्१०।३।५२ समा विषमा व्यामिश्रा वा भूमिर् इति पुरस्तात् पार्श्वाभ्यां पश्चाच् च ज्ञेया । ५२ ।
 
-KAZ10.3.55 sama.balena yācitaḥ sandadhīta | 55 |
+कज़्१०।३।५३ समायां दण्ड।मण्डल।व्यूहाः, विषमायां भोग।असंहत।व्यूहाः, व्यामिश्रायां विषम।व्यूहाः । ५३ ।
 
-KAZ10.3.56 hīnam anuhanyāt, na tv eva sva.bhūmi.prāptaṃ tyakta.ātmānaṃ vā | 56 |
+कज़्१०।३।५४ विशिष्ट।बलं भङ्क्त्वा सन्धिं याचेत । ५४ ।
 
-KAZ10.3.57ab punar.āvartamānasya nirāśasya ca jīvite |  
-KAZ10.3.57cd adhāryo jāyate vegas tasmād bhagnaṃ na pīḍayet || 57 ||  
+कज़्१०।३।५५ सम।बलेन याचितः सन्दधीत । ५५ ।
+
+कज़्१०।३।५६ हीनम् अनुहन्यात्, न त्व् एव स्व।भूमि।प्राप्तं त्यक्त।आत्मानं वा । ५६ ।
+
+कज़्१०।३।५७अब् पुनर्।आवर्तमानस्य निराशस्य च जीविते ।  
+कज़्१०।३।५७च्द् अधार्यो जायते वेगस् तस्माद् भग्नं न पीडयेत् ॥ ५७ ॥  
 
 
  छप्तेर् ४ (सेच्तिओन्स् १५३; १५४): ग्रोउन्द्स् सुइतब्ले ड़ोर् ड़िघ्तिन्ग्; ड़ुन्च्तिओन्स् ओड़् इन्ड़न्त्र्य्, चवल्र्य्, छरिओत्स् अन्द् एलेफन्त्स्
@@ -10214,126 +10213,126 @@ KAZ10.3.57cd adhāryo jāyate vegas tasmād bhagnaṃ na pīḍayet || 57 ||
 कज़्१०।४।१८च्द् खर।उष्ट्र।शकटानां वा गर्भम् अल्प।गजस् तथा ॥ १८ ॥  
 
 
- Chapter 5 (Sections 155; 156; 157): Arrangement of Battle Arrays; Distribution of Strong and Weak Troops; Modes of Fighting of Infantry, Cavalry, Chariots and Elephants
- \[K tr. 515\] ,  \[K2 tr. 445\] 
-KAZ10.5.01 pañca.dhanuḥ.śata.apakṛṣṭaṃ durgam avasthāpya yuddham upeyāt, bhūmi.vaśena vā | 1 |
+ छप्तेर् ५ (सेच्तिओन्स् १५५; १५६; १५७): अर्रन्गेमेन्त् ओड़् बत्त्ले अर्रय्स्; दिस्त्रिबुतिओन् ओड़् स्त्रोन्ग् अन्द् Wएअक् त्रोओप्स्; मोदेस् ओड़् ड़िघ्तिन्ग् ओड़् इन्ड़न्त्र्य्, चवल्र्य्, छरिओत्स् अन्द् एलेफन्त्स्
+ \[क् त्र्। ५१५\] ,  \[क्२ त्र्। ४४५\] 
+कज़्१०।५।०१ पञ्च।धनुः।शत।अपकृष्टं दुर्गम् अवस्थाप्य युद्धम् उपेयात्, भूमि।वशेन वा । १ ।
 
-KAZ10.5.02 vibhakta.mukhyām acakṣur.viṣaye mokṣayitvā senāṃ senā.pati.nāyakau vyūheyātām | 2 |
+कज़्१०।५।०२ विभक्त।मुख्याम् अचक्षुर्।विषये मोक्षयित्वा सेनां सेना।पति।नायकौ व्यूहेयाताम् । २ ।
 
-KAZ10.5.03 śama.antaraṃ pattiṃ sthāpayet, tri.śama.antaram aśvam, pañca.śama.antaraṃ rathaṃ hastinaṃ vā | 3 |
+कज़्१०।५।०३ शम।अन्तरं पत्तिं स्थापयेत्, त्रि।शम।अन्तरम् अश्वम्, पञ्च।शम।अन्तरं रथं हस्तिनं वा । ३ ।
 
-KAZ10.5.04 dvi.guṇa.antaraṃ tri.guṇa.antaraṃ vā vyūheta | 4 |
+कज़्१०।५।०४ द्वि।गुण।अन्तरं त्रि।गुण।अन्तरं वा व्यूहेत । ४ ।
 
-KAZ10.5.05 evaṃ yathā.sukham asambādhaṃ yudhyeta | 5 |
+कज़्१०।५।०५ एवं यथा।सुखम् असम्बाधं युध्येत । ५ ।
 
-KAZ10.5.06 pañca.aratni dhanuḥ | 6 |
+कज़्१०।५।०६ पञ्च।अरत्नि धनुः । ६ ।
 
-KAZ10.5.07 tasmin dhanvinaṃ sthāpayet, tri.dhanuṣy aśvam, pañca.dhanuṣi rathaṃ hastinaṃ vā | 7 |
+कज़्१०।५।०७ तस्मिन् धन्विनं स्थापयेत्, त्रि।धनुष्य् अश्वम्, पञ्च।धनुषि रथं हस्तिनं वा । ७ ।
 
-KAZ10.5.08 pañca.dhanur anīka.sandhiḥ pakṣa.kakṣa.urasyānām | 8 |
+कज़्१०।५।०८ पञ्च।धनुर् अनीक।सन्धिः पक्ष।कक्ष।उरस्यानाम् । ८ ।
 
-KAZ10.5.09 aśvasya trayaḥ puruṣāḥ pratiyoddhāraḥ | 9 |
+कज़्१०।५।०९ अश्वस्य त्रयः पुरुषाः प्रतियोद्धारः । ९ ।
 
-KAZ10.5.10 pañca.daśa rathasya hastino vā, pañca ca-aśvāḥ | 10 |
+कज़्१०।५।१० पञ्च।दश रथस्य हस्तिनो वा, पञ्च च-अश्वाः । १० ।
 
-KAZ10.5.11 tāvantaḥ pāda.gopā vāji.ratha.dvipānāṃ vidheyāḥ | 11 |
+कज़्१०।५।११ तावन्तः पाद।गोपा वाजि।रथ।द्विपानां विधेयाः । ११ ।
 
-KAZ10.5.12 trīṇi trikāṇy anīkaṃ rathānām urasyaṃ sthāpayet, tāvat kakṣaṃ pakṣaṃ ca-ubhayataḥ | 12 |
+कज़्१०।५।१२ त्रीणि त्रिकाण्य् अनीकं रथानाम् उरस्यं स्थापयेत्, तावत् कक्षं पक्षं च-उभयतः । १२ ।
 
-KAZ10.5.13 pañca.catvāriṃśad evaṃ rathā ratha.vyūhe bhavanti, dve śate pañca.viṃśatiś ca-aśvāḥ, ṣaṭ.śatāni pañca.saptatiś ca puruṣāḥ pratiyodhāraḥ, tāvantaḥ pāda.gopāḥ | 13 |
+कज़्१०।५।१३ पञ्च।चत्वारिंशद् एवं रथा रथ।व्यूहे भवन्ति, द्वे शते पञ्च।विंशतिश् च-अश्वाः, षट्।शतानि पञ्च।सप्ततिश् च पुरुषाः प्रतियोधारः, तावन्तः पाद।गोपाः । १३ ।
 
-KAZ10.5.14 eṣa sama.vyūhaḥ | 14 |
+कज़्१०।५।१४ एष सम।व्यूहः । १४ ।
 
-KAZ10.5.15 tasya dvi.ratha.uttarā vṛddhir ā.eka.viṃśati.rathād iti | 15 |
+कज़्१०।५।१५ तस्य द्वि।रथ।उत्तरा वृद्धिर् आ।एक।विंशति।रथाद् इति । १५ ।
 
-KAZ10.5.16 evam ojā daśa sama.vyūha.prakṛtayo bhavanti | 16 |
+कज़्१०।५।१६ एवम् ओजा दश सम।व्यूह।प्रकृतयो भवन्ति । १६ ।
 
-KAZ10.5.17 pakṣa.kakṣa.urasyānāṃ mitho viṣama.saṅkhyāne viṣama.vyūhaḥ | 17 |
+कज़्१०।५।१७ पक्ष।कक्ष।उरस्यानां मिथो विषम।सङ्ख्याने विषम।व्यूहः । १७ ।
 
-KAZ10.5.18 tasya-api dvi.ratha-uttarā vṛddhir ā.eka.viṃśati.rathād iti | 18 |
+कज़्१०।५।१८ तस्य-अपि द्वि।रथ-उत्तरा वृद्धिर् आ।एक।विंशति।रथाद् इति । १८ ।
 
-KAZ10.5.19 evam ojā daśa viṣama.vyūha.prakṛtayo bhavanti | 19 |
+कज़्१०।५।१९ एवम् ओजा दश विषम।व्यूह।प्रकृतयो भवन्ति । १९ ।
 
-KAZ10.5.20 ataḥ sainyānāṃ vyūha.śeṣam āvāpaḥ kāryaḥ | 20 |
+कज़्१०।५।२० अतः सैन्यानां व्यूह।शेषम् आवापः कार्यः । २० ।
 
-KAZ10.5.21 rathānāṃ dvau tri.bhāgāv aṅgeṣv āvāpayet, śeṣam urasyaṃ sthāpayet | 21 |
+कज़्१०।५।२१ रथानां द्वौ त्रि।भागाव् अङ्गेष्व् आवापयेत्, शेषम् उरस्यं स्थापयेत् । २१ ।
 
-KAZ10.5.22 evaṃ tri.bhāga.ūno rathānām āvāpaḥ kāryaḥ | 22 |
+कज़्१०।५।२२ एवं त्रि।भाग।ऊनो रथानाम् आवापः कार्यः । २२ ।
 
-KAZ10.5.23 tena hastinām aśvānām āvāpo vyākhyātaḥ | 23 |
+कज़्१०।५।२३ तेन हस्तिनाम् अश्वानाम् आवापो व्याख्यातः । २३ ।
 
-KAZ10.5.24 yāvad.aśva.ratha.dvipānāṃ yuddha.sambādhanm na kuryāt tāvad āvāpaḥ kāryaḥ | 24 |
+कज़्१०।५।२४ यावद्।अश्व।रथ।द्विपानां युद्ध।सम्बाधन्म् न कुर्यात् तावद् आवापः कार्यः । २४ ।
 
-KAZ10.5.25 daṇḍa.bāhulyam āvāpaḥ | 25 |
+कज़्१०।५।२५ दण्ड।बाहुल्यम् आवापः । २५ ।
 
-KAZ10.5.26 patti.bāhulyaṃ pratyāpāvaḥ | 26 |
+कज़्१०।५।२६ पत्ति।बाहुल्यं प्रत्यापावः । २६ ।
 
-KAZ10.5.27 eka.aṅga.bāhulyam anvāvāpaḥ | 27 |
+कज़्१०।५।२७ एक।अङ्ग।बाहुल्यम् अन्वावापः । २७ ।
 
-KAZ10.5.28 dūṣya.bāhulyam atyāvāpaḥ | 28 |
+कज़्१०।५।२८ दूष्य।बाहुल्यम् अत्यावापः । २८ ।
 
-KAZ10.5.29 para.āvāpāt pratyāvāpāc ca catur.guṇād ā.aṣṭa.guṇād iti vā vibhavataḥ sainyānām āvāpaḥ | 29 |
+कज़्१०।५।२९ पर।आवापात् प्रत्यावापाच् च चतुर्।गुणाद् आ।अष्ट।गुणाद् इति वा विभवतः सैन्यानाम् आवापः । २९ ।
 
-KAZ10.5.30 ratha.vyūhena hasti.vyūho vyākhyātaḥ | 30 |
+कज़्१०।५।३० रथ।व्यूहेन हस्ति।व्यूहो व्याख्यातः । ३० ।
 
-KAZ10.5.31 vyāmiśro vā hasti.ratha.aśvānāṃ - cakra.anteṣu hastinaḥ pārśvayor aśvā rathā urasye | 31 |
+कज़्१०।५।३१ व्यामिश्रो वा हस्ति।रथ।अश्वानां - चक्र।अन्तेषु हस्तिनः पार्श्वयोर् अश्वा रथा उरस्ये । ३१ ।
 
-KAZ10.5.32 hastinām urasyaṃ rathānāṃ kakṣāv aśvānāṃ pakṣāv iti madhya.bhedī | 32 |
+कज़्१०।५।३२ हस्तिनाम् उरस्यं रथानां कक्षाव् अश्वानां पक्षाव् इति मध्य।भेदी । ३२ ।
 
-KAZ10.5.33 viparīto 'nta.bhedī | 33 |
+कज़्१०।५।३३ विपरीतो ऽन्त।भेदी । ३३ ।
 
-KAZ10.5.34 hastinām eva tu śuddhaḥ - sāmnāhyānām urasyam aupavāhyānāṃ jaghanaṃ vyālānāṃ koṭyāv iti | 34 |
+कज़्१०।५।३४ हस्तिनाम् एव तु शुद्धः - साम्नाह्यानाम् उरस्यम् औपवाह्यानां जघनं व्यालानां कोट्याव् इति । ३४ ।
 
-KAZ10.5.35 aśva.vyūho - varmiṇām urasyaṃ śuddhānāṃ kakṣa.pakṣāv iti | 35 |
+कज़्१०।५।३५ अश्व।व्यूहो - वर्मिणाम् उरस्यं शुद्धानां कक्ष।पक्षाव् इति । ३५ ।
 
-KAZ10.5.36 patti.vyūhaḥ - purastād āvaraṇinaḥ pṛṣṭhato dhanvinaḥ | 36 |
+कज़्१०।५।३६ पत्ति।व्यूहः - पुरस्ताद् आवरणिनः पृष्ठतो धन्विनः । ३६ ।
 
-KAZ10.5.37 iti śuddhāḥ | 37 |
+कज़्१०।५।३७ इति शुद्धाः । ३७ ।
 
-KAZ10.5.38 pattayaḥ pakṣayor aśvāḥ pārśvayoḥ hastinaḥ pṛṣṭhato rathāḥ purastāt, para.vyūha.vaśena vā viparyāsaḥ | 38 |
+कज़्१०।५।३८ पत्तयः पक्षयोर् अश्वाः पार्श्वयोः हस्तिनः पृष्ठतो रथाः पुरस्तात्, पर।व्यूह।वशेन वा विपर्यासः । ३८ ।
 
-KAZ10.5.39 iti dvy.aṅga.bala.vibhāgaḥ | 39 |
+कज़्१०।५।३९ इति द्व्य्।अङ्ग।बल।विभागः । ३९ ।
 
-KAZ10.5.40 tena tr.aṅga.bala.vibhāgo vyākhyātaḥ | 40 |
+कज़्१०।५।४० तेन त्र्।अङ्ग।बल।विभागो व्याख्यातः । ४० ।
 
-KAZ10.5.41 daṇḍa.sampat sāra.balaṃ puṃsāṃ | 41 |
+कज़्१०।५।४१ दण्ड।सम्पत् सार।बलं पुंसां । ४१ ।
 
-KAZ10.5.42 hasty.aśvayor viśeṣaḥ kulaṃ jātiḥ sattvaṃ vayaḥ.sthatā prāṇo varṣma javas tejaḥ śilpaṃ stairyam udagratā vidheyatvaṃ suvyañjana.ācāratā-iti | 42 |
+कज़्१०।५।४२ हस्त्य्।अश्वयोर् विशेषः कुलं जातिः सत्त्वं वयः।स्थता प्राणो वर्ष्म जवस् तेजः शिल्पं स्तैर्यम् उदग्रता विधेयत्वं सुव्यञ्जन।आचारता-इति । ४२ ।
 
-KAZ10.5.43 patty.aśva.ratha.dvipānāṃ sāra.tri.bhāgam urasyaṃ sthāpayet, dvau tri.bhāgau kakṣaṃ pakṣaṃ ca-ubhayataḥ, anulomam anusāram, pratilomaṃ tṛtīya.sāram, phalgu pratilomam | 43 |
+कज़्१०।५।४३ पत्त्य्।अश्व।रथ।द्विपानां सार।त्रि।भागम् उरस्यं स्थापयेत्, द्वौ त्रि।भागौ कक्षं पक्षं च-उभयतः, अनुलोमम् अनुसारम्, प्रतिलोमं तृतीय।सारम्, फल्गु प्रतिलोमम् । ४३ ।
 
-KAZ10.5.44 evaṃ sarvam upayogaṃ gamayet | 44 |
+कज़्१०।५।४४ एवं सर्वम् उपयोगं गमयेत् । ४४ ।
 
-KAZ10.5.45 phalgu.balam anteṣv avadhāya vega.abhihūliko bhavati | 45 |
+कज़्१०।५।४५ फल्गु।बलम् अन्तेष्व् अवधाय वेग।अभिहूलिको भवति । ४५ ।
 
-KAZ10.5.46 sāra.balam agrataḥ kṛtvā koṭīṣv anusāraṃ kuryāt, jaghane tṛtiyiya.sāram, madhye phalgu.balam | 46 |
+कज़्१०।५।४६ सार।बलम् अग्रतः कृत्वा कोटीष्व् अनुसारं कुर्यात्, जघने तृतियिय।सारम्, मध्ये फल्गु।बलम् । ४६ ।
 
-KAZ10.5.47 evam etat sahiṣṇu bhavati | 47 |
+कज़्१०।५।४७ एवम् एतत् सहिष्णु भवति । ४७ ।
 
-KAZ10.5.48 vyūhaṃ tu sthāpayitvā pakṣa.kakṣa.urasyānām ekena dvābhyāṃ vā praharet, śeṣaiḥ pratigṛhṇīyāt | 48 |
+कज़्१०।५।४८ व्यूहं तु स्थापयित्वा पक्ष।कक्ष।उरस्यानाम् एकेन द्वाभ्यां वा प्रहरेत्, शेषैः प्रतिगृह्णीयात् । ४८ ।
 
-KAZ10.5.49 yat parasya durbalaṃ vīta.hasty.aśvaṃ dūṣya.amātyaṃ kṛta.upajāpaṃ vā tat.prabhūta.sāreṇa-abhihanyāt | 49 |
+कज़्१०।५।४९ यत् परस्य दुर्बलं वीत।हस्त्य्।अश्वं दूष्य।अमात्यं कृत।उपजापं वा तत्।प्रभूत।सारेण-अभिहन्यात् । ४९ ।
 
-KAZ10.5.50 yad vā parasya sāriṣṭhaṃ tad.dvi.guṇa.sāreṇa-abhihanyāt | 50 |
+कज़्१०।५।५० यद् वा परस्य सारिष्ठं तद्।द्वि।गुण।सारेण-अभिहन्यात् । ५० ।
 
-KAZ10.5.51 yad aṅgam alpa.sāram ātmanas tad bahunā-upacinuyāt | 51 |
+कज़्१०।५।५१ यद् अङ्गम् अल्प।सारम् आत्मनस् तद् बहुना-उपचिनुयात् । ५१ ।
 
-KAZ10.5.52 yataḥ parasya-apacayas tato 'bhyāśe vyūheta, yatot vā bhayaṃ syāt | 52 |
+कज़्१०।५।५२ यतः परस्य-अपचयस् ततो ऽभ्याशे व्यूहेत, यतोत् वा भयं स्यात् । ५२ ।
 
-KAZ10.5.53 abhisṛtaṃ parisṛtam atisṛtam apasṛtam unmathya.avadhānaṃ valayo go.mūtrikā maṇḍalaṃ prakīrṇikā vyāvṛtta.pṛṣṭham anuvaṃśam agrataḥ pārśvābhyāṃ pṛṣṭhato bhagna.rakṣā bhagna.anupāta ity aśva.yuddhāni | 53 |
+कज़्१०।५।५३ अभिसृतं परिसृतम् अतिसृतम् अपसृतम् उन्मथ्य।अवधानं वलयो गो।मूत्रिका मण्डलं प्रकीर्णिका व्यावृत्त।पृष्ठम् अनुवंशम् अग्रतः पार्श्वाभ्यां पृष्ठतो भग्न।रक्षा भग्न।अनुपात इत्य् अश्व।युद्धानि । ५३ ।
 
-KAZ10.5.54 prakīrṇika.āvarjāny etāny eva caturṇām aṅgānāṃ vyasta.samastānāṃ vā ghātaḥ, pakṣa.kakṣa.urasyānāṃ ca prabhañjanam avaskandaḥ sauptikaṃ ca-iti hasit.yuddhāni | 54 |
+कज़्१०।५।५४ प्रकीर्णिक।आवर्जान्य् एतान्य् एव चतुर्णाम् अङ्गानां व्यस्त।समस्तानां वा घातः, पक्ष।कक्ष।उरस्यानां च प्रभञ्जनम् अवस्कन्दः सौप्तिकं च-इति हसित्।युद्धानि । ५४ ।
 
-KAZ10.5.55 unmathya.avadhāna.varjāny etāny eva sva.bhūmāv abhiyāna.apayāna.sthita.yuddhāni-iti ratha.yuddhāni | 55 |
+कज़्१०।५।५५ उन्मथ्य।अवधान।वर्जान्य् एतान्य् एव स्व।भूमाव् अभियान।अपयान।स्थित।युद्धानि-इति रथ।युद्धानि । ५५ ।
 
-KAZ10.5.56 sarva.deśa.kāla.praharaṇam upāṃśu.daṇḍaś ca-iti patti.yuddhāni | 56 |
+कज़्१०।५।५६ सर्व।देश।काल।प्रहरणम् उपांशु।दण्डश् च-इति पत्ति।युद्धानि । ५६ ।
 
-KAZ10.5.57ab etena vidhinā vyūhān ojān yugmāṃś ca kārayet |  
-KAZ10.5.57cd vibhavo yāvad aṅgānāṃ caturṇāṃ sadṛśo bhavet || 57 ||  
+कज़्१०।५।५७अब् एतेन विधिना व्यूहान् ओजान् युग्मांश् च कारयेत् ।  
+कज़्१०।५।५७च्द् विभवो यावद् अङ्गानां चतुर्णां सदृशो भवेत् ॥ ५७ ॥  
 
 
-KAZ10.5.58ab dve śate dhanuṣāṃ gatvā rājā tiṣṭhet pratigrahe |  
-KAZ10.5.58cd bhinna.saṅghātanaṃ tasmān na yudhyeta-apratigrahaḥ || 58 ||  
+कज़्१०।५।५८अब् द्वे शते धनुषां गत्वा राजा तिष्ठेत् प्रतिग्रहे ।  
+कज़्१०।५।५८च्द् भिन्न।सङ्घातनं तस्मान् न युध्येत-अप्रतिग्रहः ॥ ५८ ॥  
 
 
  छप्तेर् ६ (सेच्तिओन्स् १५८; १५९): स्तड़्ड़्, स्नके, चिर्च्ले अन्द् दिड़्ड़ुसे अर्रय्स्; चोउन्तेर्-अर्रय्स् अगैन्स्त् थेम्
@@ -10450,124 +10449,124 @@ KAZ10.5.58cd bhinna.saṅghātanaṃ tasmān na yudhyeta-apratigrahaḥ || 58 ||
 
 # बोओक् ११: पोलिच्य् तोwअर्द्स् ओलिगर्छिएस्
  \[क् त्र्। ५२६-५३२\] ,  \[क्२ त्र्। ४५४-४५९\] 
- Chapter 1 (Sections 160; 161): The Policy of Sowing Dissensions; Forms of Silent Punishment
- \[K tr. 526\] ,  \[K2 tr. 454\] 
-KAZ11.1.01 saṅgha.lābho daṇḍa.mitra.lābhānām uttamaḥ | 1 |
+ छप्तेर् १ (सेच्तिओन्स् १६०; १६१): थे पोलिच्य् ओड़् सोwइन्ग् दिस्सेन्सिओन्स्; ड़ोर्म्स् ओड़् सिलेन्त् पुनिस्ह्मेन्त्
+ \[क् त्र्। ५२६\] ,  \[क्२ त्र्। ४५४\] 
+कज़्११।१।०१ सङ्घ।लाभो दण्ड।मित्र।लाभानाम् उत्तमः । १ ।
 
-KAZ11.1.02 saṅghā hi saṃhatatvād adhṛṣyāḥ pareṣām | 2 |
+कज़्११।१।०२ सङ्घा हि संहतत्वाद् अधृष्याः परेषाम् । २ ।
 
-KAZ11.1.03 tān anuguṇān bhuñjīta sāma.dānābhyām, viguṇān bheda.daṇḍābhyām | 3 |
+कज़्११।१।०३ तान् अनुगुणान् भुञ्जीत साम।दानाभ्याम्, विगुणान् भेद।दण्डाभ्याम् । ३ ।
 
-KAZ11.1.04 kāmboja.surāṣṭra.kṣatriya.śreṇy.ādayo vārtta.śastra.upajīvinaḥ | 4 |
+कज़्११।१।०४ काम्बोज।सुराष्ट्र।क्षत्रिय।श्रेण्य्।आदयो वार्त्त।शस्त्र।उपजीविनः । ४ ।
 
-KAZ11.1.05 licchivika.vṛjika.mallaka.madraka.kukura.kuru.pāñcāla.ādayo rāja.śabda.upajīvinaḥ | 5 |
+कज़्११।१।०५ लिच्छिविक।वृजिक।मल्लक।मद्रक।कुकुर।कुरु।पाञ्चाल।आदयो राज।शब्द।उपजीविनः । ५ ।
 
-KAZ11.1.06 sarveṣām āsannāḥ sattriṇaḥ saṅghānāṃ paraspara.nyaṅga.dveṣa.vaira.kalaha.sthānāny upalabhya krama.abhinītaṃ bhedam upacārayeyuḥ "asau tvā vijalpati" iti | 6 |
+कज़्११।१।०६ सर्वेषाम् आसन्नाः सत्त्रिणः सङ्घानां परस्पर।न्यङ्ग।द्वेष।वैर।कलह।स्थानान्य् उपलभ्य क्रम।अभिनीतं भेदम् उपचारयेयुः "असौ त्वा विजल्पति" इति । ६ ।
 
-KAZ11.1.07 evam ubhayato.baddha.roṣāṇāṃ vidyā.śilpa.dyūta.vaihārikeṣv ācārya.vyañjanā bāla.kalahān utpādayeyuḥ | 7 |
+कज़्११।१।०७ एवम् उभयतो।बद्ध।रोषाणां विद्या।शिल्प।द्यूत।वैहारिकेष्व् आचार्य।व्यञ्जना बाल।कलहान् उत्पादयेयुः । ७ ।
 
-KAZ11.1.08 veśa.śauṇḍikeṣu vā pratiloma.praśaṃsābhiḥ saṅgha.mukhya.manuṣyāṇāṃ tīkṣṇāḥ kalahān utpādayeyuḥ, kṛtya.pakṣa.upagraheṇa vā | 8 |
+कज़्११।१।०८ वेश।शौण्डिकेषु वा प्रतिलोम।प्रशंसाभिः सङ्घ।मुख्य।मनुष्याणां तीक्ष्णाः कलहान् उत्पादयेयुः, कृत्य।पक्ष।उपग्रहेण वा । ८ ।
 
-KAZ11.1.09 kumārakān viśiṣṭac.chindikayā hīnac.chindikān utsāhayeyuḥ | 9 |
+कज़्११।१।०९ कुमारकान् विशिष्टच्।छिन्दिकया हीनच्।छिन्दिकान् उत्साहयेयुः । ९ ।
 
-KAZ11.1.10 viśiṣṭānāṃ ca-eka.pātraṃ vivāhaṃ vā hīnebhyo vārayeyuḥ | 10 |
+कज़्११।१।१० विशिष्टानां च-एक।पात्रं विवाहं वा हीनेभ्यो वारयेयुः । १० ।
 
-KAZ11.1.11 hīnān vā viśiṣṭair eka.pātre vivāhe vā yojayeyuḥ | 11 |
+कज़्११।१।११ हीनान् वा विशिष्टैर् एक।पात्रे विवाहे वा योजयेयुः । ११ ।
 
-KAZ11.1.12 avahīnān vā tulya.bhāva.upagamane kulataḥ pauruṣataḥ sthāna.viparyāsato vā | 12 |
+कज़्११।१।१२ अवहीनान् वा तुल्य।भाव।उपगमने कुलतः पौरुषतः स्थान।विपर्यासतो वा । १२ ।
 
-KAZ11.1.13 vyavahāram avasthitaṃ vā pratiloma.sthāpanena niśāmayeyuḥ | 13 |
+कज़्११।१।१३ व्यवहारम् अवस्थितं वा प्रतिलोम।स्थापनेन निशामयेयुः । १३ ।
 
-KAZ11.1.14 vivāda.padeṣu vā dravya.paśu.manuṣya.abhighātena rātrau tīkṣṇāḥ kalahān utpādayeyuḥ | 14 |
+कज़्११।१।१४ विवाद।पदेषु वा द्रव्य।पशु।मनुष्य।अभिघातेन रात्रौ तीक्ष्णाः कलहान् उत्पादयेयुः । १४ ।
 
-KAZ11.1.15 sarveṣu ca kalaha.sthāneṣu hīna.pakṣaṃ rājā kośa.daṇḍābhyām upagṛhya pratipakṣa.vadhe yojayet | 15 |
+कज़्११।१।१५ सर्वेषु च कलह।स्थानेषु हीन।पक्षं राजा कोश।दण्डाभ्याम् उपगृह्य प्रतिपक्ष।वधे योजयेत् । १५ ।
 
-KAZ11.1.16 bhinnān apavāhayed vā | 16 |
+कज़्११।१।१६ भिन्नान् अपवाहयेद् वा । १६ ।
 
-KAZ11.1.17 bhūmau ca-eṣāṃ pañca.kulīṃ daśa.kulīṃ vā kṛṣyāyāṃ niveśayet | 17 |
+कज़्११।१।१७ भूमौ च-एषां पञ्च।कुलीं दश।कुलीं वा कृष्यायां निवेशयेत् । १७ ।
 
-KAZ11.1.18 ekasthā hi śastra.grahaṇa.samarthāḥ syuḥ | 18 |
+कज़्११।१।१८ एकस्था हि शस्त्र।ग्रहण।समर्थाः स्युः । १८ ।
 
-KAZ11.1.19 samavāye ca-eṣām atyayaṃ sthāpayet | 19 |
+कज़्११।१।१९ समवाये च-एषाम् अत्ययं स्थापयेत् । १९ ।
 
-KAZ11.1.20 rāja.śabdibhir avaruddham avakṣiptaṃ vā kulyam abhijātaṃ rāja.putratve sthāpayet | 20 |
+कज़्११।१।२० राज।शब्दिभिर् अवरुद्धम् अवक्षिप्तं वा कुल्यम् अभिजातं राज।पुत्रत्वे स्थापयेत् । २० ।
 
-KAZ11.1.21 kārtāntika.ādiś ca-asya vargo rāja.lakṣaṇyatāṃ saṅgheṣu prakāśayet | 21 |
+कज़्११।१।२१ कार्तान्तिक।आदिश् च-अस्य वर्गो राज।लक्षण्यतां सङ्घेषु प्रकाशयेत् । २१ ।
 
-KAZ11.1.22 saṅgha.mukhyāṃś ca dharmiṣṭhā-n upajapet "sva.dharmam amuṣya rājñaḥ putre bhrātari vā pratipadyadhvam" iti | 22 |
+कज़्११।१।२२ सङ्घ।मुख्यांश् च धर्मिष्ठा-न् उपजपेत् "स्व।धर्मम् अमुष्य राज्ञः पुत्रे भ्रातरि वा प्रतिपद्यध्वम्" इति । २२ ।
 
-KAZ11.1.23 pratipanneṣu kṛtya.pakṣa.upagraha.artham arthaṃ daṇḍaṃ ca preṣayet | 23 |
+कज़्११।१।२३ प्रतिपन्नेषु कृत्य।पक्ष।उपग्रह।अर्थम् अर्थं दण्डं च प्रेषयेत् । २३ ।
 
-KAZ11.1.24 vikrama.kāle śauṇḍika.vyañjanāḥ putra.dāra.preta.apadeśena "naiṣecanikam" iti madana.rasa.yuktān madya.kumbhān-śataśaḥ prayaccheyuḥ | 24 |
+कज़्११।१।२४ विक्रम।काले शौण्डिक।व्यञ्जनाः पुत्र।दार।प्रेत।अपदेशेन "नैषेचनिकम्" इति मदन।रस।युक्तान् मद्य।कुम्भान्-शतशः प्रयच्छेयुः । २४ ।
 
-KAZ11.1.25 caitya.daivata.dvāra.rakṣā.sthāneṣu ca sattriṇaḥ samaya.karma.nikṣepaṃ sahiraṇya.abhijñāna.mudrāṇi hiraṇya.bhājanāni ca prarūpayeyuḥ | 25 |
+कज़्११।१।२५ चैत्य।दैवत।द्वार।रक्षा।स्थानेषु च सत्त्रिणः समय।कर्म।निक्षेपं सहिरण्य।अभिज्ञान।मुद्राणि हिरण्य।भाजनानि च प्ररूपयेयुः । २५ ।
 
-KAZ11.1.26 dṛśyamāneṣu ca saṅgheṣu "rājakīyāḥ" ity āvedayeyuḥ | 26 |
+कज़्११।१।२६ दृश्यमानेषु च सङ्घेषु "राजकीयाः" इत्य् आवेदयेयुः । २६ ।
 
-KAZ11.1.27 atha-avaskandaṃ dadyāt | 27 |
+कज़्११।१।२७ अथ-अवस्कन्दं दद्यात् । २७ ।
 
-KAZ11.1.28 saṅghānāṃ vā vāhana.hiraṇye kālike gṛhītvā saṅgha.mukhyāya prakhyātaṃ dravyaṃ prayacchet | 28 |
+कज़्११।१।२८ सङ्घानां वा वाहन।हिरण्ये कालिके गृहीत्वा सङ्घ।मुख्याय प्रख्यातं द्रव्यं प्रयच्छेत् । २८ ।
 
-KAZ11.1.29 tad eṣāṃ yācite "dattam amuṣmai mukhyāya" iti brūyāt | 29 |
+कज़्११।१।२९ तद् एषां याचिते "दत्तम् अमुष्मै मुख्याय" इति ब्रूयात् । २९ ।
 
-KAZ11.1.30 etena skandha.āvāra.aṭavī.bhedo vyākhyātaḥ | 30 |
+कज़्११।१।३० एतेन स्कन्ध।आवार।अटवी।भेदो व्याख्यातः । ३० ।
 
-KAZ11.1.31 saṅgha.mukhya.putram ātma.sambhāvitaṃ vā sattrī grāhayet "amuṣya rājñaḥ putras tvam, śatru.bhayād iha nyasto 'si" iti | 31 |
+कज़्११।१।३१ सङ्घ।मुख्य।पुत्रम् आत्म।सम्भावितं वा सत्त्री ग्राहयेत् "अमुष्य राज्ञः पुत्रस् त्वम्, शत्रु।भयाद् इह न्यस्तो ऽसि" इति । ३१ ।
 
-KAZ11.1.32 pratipannaṃ rājā kośa.daṇḍābhyām upagṛhya saṅgheṣu vikramayet | 32 |
+कज़्११।१।३२ प्रतिपन्नं राजा कोश।दण्डाभ्याम् उपगृह्य सङ्घेषु विक्रमयेत् । ३२ ।
 
-KAZ11.1.33 avāpta.arthas tam api pravāsayet | 33 |
+कज़्११।१।३३ अवाप्त।अर्थस् तम् अपि प्रवासयेत् । ३३ ।
 
-KAZ11.1.34 bandhakī.poṣakāḥ plavaka.naṭa.nartaka.saubhikā vā praṇihitāḥ strībhiḥ parama.rūpa.yauvanābhiḥ saṅgha.mukhyān unmādayeyuḥ | 34 |
+कज़्११।१।३४ बन्धकी।पोषकाः प्लवक।नट।नर्तक।सौभिका वा प्रणिहिताः स्त्रीभिः परम।रूप।यौवनाभिः सङ्घ।मुख्यान् उन्मादयेयुः । ३४ ।
 
-KAZ11.1.35 jāta.kāmānām anyatamasya pratyayaṃ kṛtvā-anyatra gamanena prasabha.haraṇena vā kalahān utpādayeyuḥ | 35 |
+कज़्११।१।३५ जात।कामानाम् अन्यतमस्य प्रत्ययं कृत्वा-अन्यत्र गमनेन प्रसभ।हरणेन वा कलहान् उत्पादयेयुः । ३५ ।
 
-KAZ11.1.36 kalahe tīkṣṇāḥ karma kuryuḥ "hato 'yam itthaṃ kāmukaḥ" iti | 36 |
+कज़्११।१।३६ कलहे तीक्ष्णाः कर्म कुर्युः "हतो ऽयम् इत्थं कामुकः" इति । ३६ ।
 
-KAZ11.1.37 visaṃvāditaṃ vā marṣayamāṇam abhisṛtya strī brūyāt "asau māṃ mukhyas tvayi jāta.kāmāṃ bādhate, tasmin-jīvati na-iha sthāsyāmi" iti ghātam asya prayojayet | 37 |
+कज़्११।१।३७ विसंवादितं वा मर्षयमाणम् अभिसृत्य स्त्री ब्रूयात् "असौ मां मुख्यस् त्वयि जात।कामां बाधते, तस्मिन्-जीवति न-इह स्थास्यामि" इति घातम् अस्य प्रयोजयेत् । ३७ ।
 
-KAZ11.1.38 prasahya.apahṛtā vā vana.ante kriḍā.gṛhe vā-apahartāraṃ rātrau tīkṣṇena ghātayet, svayaṃ vā rasena | 38 |
+कज़्११।१।३८ प्रसह्य।अपहृता वा वन।अन्ते क्रिडा।गृहे वा-अपहर्तारं रात्रौ तीक्ष्णेन घातयेत्, स्वयं वा रसेन । ३८ ।
 
-KAZ11.1.39 tataḥ prakāśayet "amunā me priyo hataḥ" iti | 39 |
+कज़्११।१।३९ ततः प्रकाशयेत् "अमुना मे प्रियो हतः" इति । ३९ ।
 
-KAZ11.1.40 jāta.kāmaṃ vā siddha.vyañjanaḥ sāṃvadanikībhir auṣadhībhiḥ saṃvāsya rasena-atisandhāya-apagacchet | 40 |
+कज़्११।१।४० जात।कामं वा सिद्ध।व्यञ्जनः सांवदनिकीभिर् औषधीभिः संवास्य रसेन-अतिसन्धाय-अपगच्छेत् । ४० ।
 
-KAZ11.1.41 tasminn apakrānte sattriṇaḥ para.prayogam abhiśaṃseyuḥ | 41 |
+कज़्११।१।४१ तस्मिन्न् अपक्रान्ते सत्त्रिणः पर।प्रयोगम् अभिशंसेयुः । ४१ ।
 
-KAZ11.1.42 āḍhya.vidhavā gūḍha.ājīvā yoga.striyo vā dāya.nikṣepa.arthaṃ vivadamānāḥ saṅgha.mukhyān unmādayeyuḥ, aditi.kauśika.striyo nartakī.gāyanā vā | 42 |
+कज़्११।१।४२ आढ्य।विधवा गूढ।आजीवा योग।स्त्रियो वा दाय।निक्षेप।अर्थं विवदमानाः सङ्घ।मुख्यान् उन्मादयेयुः, अदिति।कौशिक।स्त्रियो नर्तकी।गायना वा । ४२ ।
 
-KAZ11.1.43 pratipannān gūḍha.veśmasu rātri.samāgama.praviṣṭāṃs tīkṣṇā hanyur baddhvā hareyur vā | 43 |
+कज़्११।१।४३ प्रतिपन्नान् गूढ।वेश्मसु रात्रि।समागम।प्रविष्टांस् तीक्ष्णा हन्युर् बद्ध्वा हरेयुर् वा । ४३ ।
 
-KAZ11.1.44 sattrī vā strī.lolupaṃ saṅgha.mukhyaṃ prarūpayet "amuṣmin grāme daridra.kullam apasṛtam, tasya strī rāja.arhā, gṛhāṇa-enām" iti | 44 |
+कज़्११।१।४४ सत्त्री वा स्त्री।लोलुपं सङ्घ।मुख्यं प्ररूपयेत् "अमुष्मिन् ग्रामे दरिद्र।कुल्लम् अपसृतम्, तस्य स्त्री राज।अर्हा, गृहाण-एनाम्" इति । ४४ ।
 
-KAZ11.1.45 gṛhītāyām ardha.māsa.anantaraṃ siddha.vyañjano dūṣya.saṅgha.mukhya.madhye prakrośet "asau me mukhyo bhāryāṃ snuṣāṃ bhaginīṃ duhitaraṃ vā-adhicarati" iti | 45 |
+कज़्११।१।४५ गृहीतायाम् अर्ध।मास।अनन्तरं सिद्ध।व्यञ्जनो दूष्य।सङ्घ।मुख्य।मध्ये प्रक्रोशेत् "असौ मे मुख्यो भार्यां स्नुषां भगिनीं दुहितरं वा-अधिचरति" इति । ४५ ।
 
-KAZ11.1.46 taṃ cet saṅgho nigṛhṇīyāt, rājā-enam upagṛhya viguṇeṣu vikramayet | 46 |
+कज़्११।१।४६ तं चेत् सङ्घो निगृह्णीयात्, राजा-एनम् उपगृह्य विगुणेषु विक्रमयेत् । ४६ ।
 
-KAZ11.1.47 anigṛhīte siddha.vyañjanaṃ rātrau tīkṣṇāḥ pravāsayeyuḥ | 47 |
+कज़्११।१।४७ अनिगृहीते सिद्ध।व्यञ्जनं रात्रौ तीक्ष्णाः प्रवासयेयुः । ४७ ।
 
-KAZ11.1.48 tatas tad.vyañjanāḥ prakrośeyuḥ "asau brahmahā brāhmaṇī.jāraś ca" iti | 48 |
+कज़्११।१।४८ ततस् तद्।व्यञ्जनाः प्रक्रोशेयुः "असौ ब्रह्महा ब्राह्मणी।जारश् च" इति । ४८ ।
 
-KAZ11.1.49 kārtāntika.vyañjano vā kanyām anyena vṛtām anyasya prarūpayet "amuṣya kanyā rāja.patnī rāja.prasavinī ca bhaviṣyati, sarva.svena prasahya vā-enāṃ labhasva" iti | 49 |
+कज़्११।१।४९ कार्तान्तिक।व्यञ्जनो वा कन्याम् अन्येन वृताम् अन्यस्य प्ररूपयेत् "अमुष्य कन्या राज।पत्नी राज।प्रसविनी च भविष्यति, सर्व।स्वेन प्रसह्य वा-एनां लभस्व" इति । ४९ ।
 
-KAZ11.1.50 alabhyamānāyāṃ para.pakṣam uddharṣayet | 50 |
+कज़्११।१।५० अलभ्यमानायां पर।पक्षम् उद्धर्षयेत् । ५० ।
 
-KAZ11.1.51 labdhāyāṃ siddhaḥ kalahaḥ | 51 |
+कज़्११।१।५१ लब्धायां सिद्धः कलहः । ५१ ।
 
-KAZ11.1.52 bhikṣukī vā priya.bhāryaṃ mukhyaṃ brūyāt "asau te mukhyo yauvana.utsikto bhāryāyāṃ māṃ prāhiṇot, tasya-ahaṃ bhayāl lekhyam ābharaṇaṃ gṛhītvā-āgatā-asmi, nirdoṣā te bhāryā, gūḍham asmin pratikartavyam, aham api tāvat pratipatsyāmi" iti | 52 |
+कज़्११।१।५२ भिक्षुकी वा प्रिय।भार्यं मुख्यं ब्रूयात् "असौ ते मुख्यो यौवन।उत्सिक्तो भार्यायां मां प्राहिणोत्, तस्य-अहं भयाल् लेख्यम् आभरणं गृहीत्वा-आगता-अस्मि, निर्दोषा ते भार्या, गूढम् अस्मिन् प्रतिकर्तव्यम्, अहम् अपि तावत् प्रतिपत्स्यामि" इति । ५२ ।
 
-KAZ11.1.53 evaṃ.ādiṣu kalaha.sthāneṣu svayam utpanne vā kalahe tīkṣṇair utpādite vā hīna.pakṣaṃ rājā kośa.daṇḍābhyām upagṛhya viguṇeṣu vikramayed apavāhayed vā | 53 |
+कज़्११।१।५३ एवं।आदिषु कलह।स्थानेषु स्वयम् उत्पन्ने वा कलहे तीक्ष्णैर् उत्पादिते वा हीन।पक्षं राजा कोश।दण्डाभ्याम् उपगृह्य विगुणेषु विक्रमयेद् अपवाहयेद् वा । ५३ ।
 
-KAZ11.1.54 saṅgheṣv evam eka.rājo varteta | 54 |
+कज़्११।१।५४ सङ्घेष्व् एवम् एक।राजो वर्तेत । ५४ ।
 
-KAZ11.1.55 saṅghāś ca-apy evam eka.rājād etebhyo 'tisaṅghān ebhyo rakṣayeyuḥ | 55 |
+कज़्११।१।५५ सङ्घाश् च-अप्य् एवम् एक।राजाद् एतेभ्यो ऽतिसङ्घान् एभ्यो रक्षयेयुः । ५५ ।
 
-KAZ11.1.56ab saṅgha.mukhyaś ca saṅgheṣu nyāya.vṛttir hitaḥ priyaḥ |  
-KAZ11.1.56cd dānto yukta.janas tiṣṭhet sarva.citta.anuvartakaḥ || 56 ||  
+कज़्११।१।५६अब् सङ्घ।मुख्यश् च सङ्घेषु न्याय।वृत्तिर् हितः प्रियः ।  
+कज़्११।१।५६च्द् दान्तो युक्त।जनस् तिष्ठेत् सर्व।चित्त।अनुवर्तकः ॥ ५६ ॥  
 
 
-# Book 12: Concerning the Weaker King
- \[K tr. 533-549\] ,  \[K2 tr. 460-473\] 
+# बोओक् १२: चोन्चेर्निन्ग् थे Wएअकेर् किन्ग्
+ \[क् त्र्। ५३३-५४९\] ,  \[क्२ त्र्। ४६०-४७३\] 
  छप्तेर् १ (सेच्तिओन् १६२): थे मिस्सिओन् ओड़् थे एन्वोय्
  \[क् त्र्। ५३३\] ,  \[क्२ त्र्। ४६०\] 
 कज़्१२।१।०१ "बलीयसा-अभियुक्तो दुर्बलः सर्वत्र-अनुप्रणतो वेतस।धर्मा तिष्ठेत् । १ ।
@@ -10636,74 +10635,74 @@ KAZ11.1.56cd dānto yukta.janas tiṣṭhet sarva.citta.anuvartakaḥ || 56 ||
 कज़्१२।१।३२च्द् रक्षेत् स्व।देहं न धनं का ह्य् अनित्ये धने दया ॥ ३२ ॥  
 
 
- Chapter 2 (Sections 163; 164): Fight with the Weapon of Diplomacy; Assassination of Army Chiefs
- \[K tr. 535\] ,  \[K2 tr. 462\] 
-KAZ12.2.01 sa cet sandhau na-avatiṣṭheta, brūyād enaṃ - "ime śatru.ṣaḍ.varga.vaśagā rājāno vinaṣṭāḥ, teṣām anātmavatāṃ na-arhasi mārgam anugantum | 1 |
+ छप्तेर् २ (सेच्तिओन्स् १६३; १६४): ड़िघ्त् wइथ् थे Wएअपोन् ओड़् दिप्लोमच्य्; अस्सस्सिनतिओन् ओड़् अर्म्य् छिएड़्स्
+ \[क् त्र्। ५३५\] ,  \[क्२ त्र्। ४६२\] 
+कज़्१२।२।०१ स चेत् सन्धौ न-अवतिष्ठेत, ब्रूयाद् एनं - "इमे शत्रु।षड्।वर्ग।वशगा राजानो विनष्टाः, तेषाम् अनात्मवतां न-अर्हसि मार्गम् अनुगन्तुम् । १ ।
 
-KAZ12.2.02 dharmam arthaṃ ca-avekṣasva | 2 |
+कज़्१२।२।०२ धर्मम् अर्थं च-अवेक्षस्व । २ ।
 
-KAZ12.2.03 mitra.mukhā hy amitrās te ye tvā sāhasam adharmam artha.atikramaṃ ca grāhayanti | 3 |
+कज़्१२।२।०३ मित्र।मुखा ह्य् अमित्रास् ते ये त्वा साहसम् अधर्मम् अर्थ।अतिक्रमं च ग्राहयन्ति । ३ ।
 
-KAZ12.2.04 śūrais tyakta.ātmabhiḥ saha yoddhuṃ sāhasam, jana.kṣayam ubhayataḥ kartum adharmaḥ, dṛṣṭam arthaṃ mitram aduṣṭaṃ ca tyaktum artha.atikramaḥ | 4 |
+कज़्१२।२।०४ शूरैस् त्यक्त।आत्मभिः सह योद्धुं साहसम्, जन।क्षयम् उभयतः कर्तुम् अधर्मः, दृष्टम् अर्थं मित्रम् अदुष्टं च त्यक्तुम् अर्थ।अतिक्रमः । ४ ।
 
-KAZ12.2.05 mitravāṃś ca sa rājā, bhūyaś ca-etena-arthena mitrāṇy udyojayiṣyati yāni tvā sarvato 'bhiyāsyanti | 5 |
+कज़्१२।२।०५ मित्रवांश् च स राजा, भूयश् च-एतेन-अर्थेन मित्राण्य् उद्योजयिष्यति यानि त्वा सर्वतो ऽभियास्यन्ति । ५ ।
 
-KAZ12.2.06 na ca madhyama.udāsīnayor maṇḍalasya vā parityaktaḥ, bhavāṃs tu parityaktaḥ yattvā samudyuktam upaprekṣante "bhūyaḥ kṣaya.vyayābhyāṃ yujyatām, mitrāc ca bhidyatām, atha-enaṃ parityakta.mūlaṃ sukhena-ucchetsyāmaḥ" iti | 6 |
+कज़्१२।२।०६ न च मध्यम।उदासीनयोर् मण्डलस्य वा परित्यक्तः, भवांस् तु परित्यक्तः यत्त्वा समुद्युक्तम् उपप्रेक्षन्ते "भूयः क्षय।व्ययाभ्यां युज्यताम्, मित्राच् च भिद्यताम्, अथ-एनं परित्यक्त।मूलं सुखेन-उच्छेत्स्यामः" इति । ६ ।
 
-KAZ12.2.07 sa bhavān na-arhati mitra.mukhānām amitrāṇāṃ śrotum, mitrāṇy udvejayitum amitrāṃś ca śreyasā yoktum, prāṇa.saṃśayam anarthaṃ ca-upagantum" iti yacchet | 7 |
+कज़्१२।२।०७ स भवान् न-अर्हति मित्र।मुखानाम् अमित्राणां श्रोतुम्, मित्राण्य् उद्वेजयितुम् अमित्रांश् च श्रेयसा योक्तुम्, प्राण।संशयम् अनर्थं च-उपगन्तुम्" इति यच्छेत् । ७ ।
 
-KAZ12.2.08 tathā-api pratiṣṭhamānasya prakṛti.kopam asya kārayed yathā saṅgha.vṛtte vyākhyātaṃ yoga.vāmane ca | 8 |
+कज़्१२।२।०८ तथा-अपि प्रतिष्ठमानस्य प्रकृति।कोपम् अस्य कारयेद् यथा सङ्घ।वृत्ते व्याख्यातं योग।वामने च । ८ ।
 
-KAZ12.2.09 tīkṣṇa.rasada.prayogaṃ ca | 9 |
+कज़्१२।२।०९ तीक्ष्ण।रसद।प्रयोगं च । ९ ।
 
-KAZ12.2.10 yad uktam ātma.rakṣitake rakṣyaṃ tatra tīkṣṇān rasadāṃś ca prayuñjīta | 10 |
+कज़्१२।२।१० यद् उक्तम् आत्म।रक्षितके रक्ष्यं तत्र तीक्ष्णान् रसदांश् च प्रयुञ्जीत । १० ।
 
-KAZ12.2.11 bandhakī.poṣakāḥ parama.rūpa.yauvanābhiḥ strībhiḥ senā.mukhyān unmādayeyuḥ | 11 |
+कज़्१२।२।११ बन्धकी।पोषकाः परम।रूप।यौवनाभिः स्त्रीभिः सेना।मुख्यान् उन्मादयेयुः । ११ ।
 
-KAZ12.2.12 bahūnām ekasyāṃ dvayor vā mukhyayoḥ kāme jāte tīkṣṇāḥ kalahān utpādayeyuḥ | 12 |
+कज़्१२।२।१२ बहूनाम् एकस्यां द्वयोर् वा मुख्ययोः कामे जाते तीक्ष्णाः कलहान् उत्पादयेयुः । १२ ।
 
-KAZ12.2.13 kalahe parājita.pakṣaṃ paratra.apagamane yātrā.sāhāyya.dāne vā bhartur yojayeyuḥ | 13 |
+कज़्१२।२।१३ कलहे पराजित।पक्षं परत्र।अपगमने यात्रा।साहाय्य।दाने वा भर्तुर् योजयेयुः । १३ ।
 
-KAZ12.2.14 kāma.vaśān vā siddha.vyañjanāḥ sāṃvadanikībhir oṣadhībhir atisandhānāya mukhyeṣu rasaṃ dāpayeyuḥ | 14 |
+कज़्१२।२।१४ काम।वशान् वा सिद्ध।व्यञ्जनाः सांवदनिकीभिर् ओषधीभिर् अतिसन्धानाय मुख्येषु रसं दापयेयुः । १४ ।
 
-KAZ12.2.15 vaidehaka.vyañjane vā rāja.mahiṣyāḥ subhagāyāḥ preṣyām āsannāṃ kāma.nimittam arthena-abhivṛṣya parityajet | 15 |
+कज़्१२।२।१५ वैदेहक।व्यञ्जने वा राज।महिष्याः सुभगायाः प्रेष्याम् आसन्नां काम।निमित्तम् अर्थेन-अभिवृष्य परित्यजेत् । १५ ।
 
-KAZ12.2.16 tasya-eva paricāraka.vyañjana.upadiṣṭaḥ siddha.vyañjanaḥ sāṃvadanikīm oṣadhīṃ dadyāt "vaidehaka.śarīre 'vaghātavyā" iti | 16 |
+कज़्१२।२।१६ तस्य-एव परिचारक।व्यञ्जन।उपदिष्टः सिद्ध।व्यञ्जनः सांवदनिकीम् ओषधीं दद्यात् "वैदेहक।शरीरे ऽवघातव्या" इति । १६ ।
 
-KAZ12.2.17 siddhe subhagāyā apy enaṃ yogam upadiśet "rāja.śarīre 'vadhātavyā" iti | 17 |
+कज़्१२।२।१७ सिद्धे सुभगाया अप्य् एनं योगम् उपदिशेत् "राज।शरीरे ऽवधातव्या" इति । १७ ।
 
-KAZ12.2.18 tato rasena-atisandadhyāt | 18 |
+कज़्१२।२।१८ ततो रसेन-अतिसन्दध्यात् । १८ ।
 
-KAZ12.2.19 kārtāntika.vyañjano vā mahā.mātraṃ "rāja.lakṣaṇa.sampannam" krama.abhinītaṃ brūyāt | 19 |
+कज़्१२।२।१९ कार्तान्तिक।व्यञ्जनो वा महा।मात्रं "राज।लक्षण।सम्पन्नम्" क्रम।अभिनीतं ब्रूयात् । १९ ।
 
-KAZ12.2.20 bhāryām asya bhikṣukī "rāja.patnī rāja.prasavinī vā bhaviṣyasi" iti | 20 |
+कज़्१२।२।२० भार्याम् अस्य भिक्षुकी "राज।पत्नी राज।प्रसविनी वा भविष्यसि" इति । २० ।
 
-KAZ12.2.21 bhāryā.vyañjanā vā mahā.mātraṃ brūyāt "rājā kila mām avarodhayiṣyati, tava-antikāya pattra.lekhyam ābharaṇaṃ ca-idaṃ parivrājikayā-āhṛtam" iti | 21 |
+कज़्१२।२।२१ भार्या।व्यञ्जना वा महा।मात्रं ब्रूयात् "राजा किल माम् अवरोधयिष्यति, तव-अन्तिकाय पत्त्र।लेख्यम् आभरणं च-इदं परिव्राजिकया-आहृतम्" इति । २१ ।
 
-KAZ12.2.22 sūda.ārālika.vyañjano vā rasa.prayoga.arthaṃ rāja.vacanam arthaṃ ca-asya lobhanīyam abhinayet | 22 |
+कज़्१२।२।२२ सूद।आरालिक।व्यञ्जनो वा रस।प्रयोग।अर्थं राज।वचनम् अर्थं च-अस्य लोभनीयम् अभिनयेत् । २२ ।
 
-KAZ12.2.23 tad asya vaidehaka.vyañjanaḥ pratisandadhyāt, kārya.siddhiṃ ca brūyāt | 23 |
+कज़्१२।२।२३ तद् अस्य वैदेहक।व्यञ्जनः प्रतिसन्दध्यात्, कार्य।सिद्धिं च ब्रूयात् । २३ ।
 
-KAZ12.2.24 evam ekena dvābhyāṃ tribhir ity upāyair eka.ekam asya mahā.mātraṃ vikramāya-apagamanāya vā yojayet | iti | 24 |
+कज़्१२।२।२४ एवम् एकेन द्वाभ्यां त्रिभिर् इत्य् उपायैर् एक।एकम् अस्य महा।मात्रं विक्रमाय-अपगमनाय वा योजयेत् । इति । २४ ।
 
-KAZ12.2.25 durgeṣu ca-asya śūnya.pāla.āsannāḥ sattriṇaḥ paura.jānapadeṣu maitrī.nimittam āvedayeyuḥ - "śūnya.pālena-uktā yodhāś ca-adhikaraṇasthāś ca "kṛcchra.gato rājā jīvann āgamiṣyati, na vā, prasahya vittam ārjayadhvam, amitrāṃś ca hata" iti | 25 |
+कज़्१२।२।२५ दुर्गेषु च-अस्य शून्य।पाल।आसन्नाः सत्त्रिणः पौर।जानपदेषु मैत्री।निमित्तम् आवेदयेयुः - "शून्य।पालेन-उक्ता योधाश् च-अधिकरणस्थाश् च "कृच्छ्र।गतो राजा जीवन्न् आगमिष्यति, न वा, प्रसह्य वित्तम् आर्जयध्वम्, अमित्रांश् च हत" इति । २५ ।
 
-KAZ12.2.26 bahulī.bhūte tīkṣṇāḥ paurān niśāsv āhārayeyuḥ, mukhyāṃś ca-abhihanyuḥ "evaṃ kriyante ye śūnya.pālasya na śuśrūṣante" iti | 26 |
+कज़्१२।२।२६ बहुली।भूते तीक्ष्णाः पौरान् निशास्व् आहारयेयुः, मुख्यांश् च-अभिहन्युः "एवं क्रियन्ते ये शून्य।पालस्य न शुश्रूषन्ते" इति । २६ ।
 
-KAZ12.2.27 śūnya.pāla.sthāneṣu ca saśoṇitāni śastra.vitta.bandhanāny utsṛjeyuḥ | 27 |
+कज़्१२।२।२७ शून्य।पाल।स्थानेषु च सशोणितानि शस्त्र।वित्त।बन्धनान्य् उत्सृजेयुः । २७ ।
 
-KAZ12.2.28 tataḥ sattriṇaḥ "śūnya.pālo ghātayati vilopayati ca" ity āvedayeyuḥ | 28 |
+कज़्१२।२।२८ ततः सत्त्रिणः "शून्य।पालो घातयति विलोपयति च" इत्य् आवेदयेयुः । २८ ।
 
-KAZ12.2.29 evaṃ jānapadān samāhartur bhedayeyuḥ | 29 |
+कज़्१२।२।२९ एवं जानपदान् समाहर्तुर् भेदयेयुः । २९ ।
 
-KAZ12.2.30 samāhartṛ.puruṣāṃs tu grāma.madhyeṣu rātrau tīkṣṇā hatvā brūyuḥ "evaṃ kriyante ye jana.padam adharmeṇa bādhante" iti | 30 |
+कज़्१२।२।३० समाहर्तृ।पुरुषांस् तु ग्राम।मध्येषु रात्रौ तीक्ष्णा हत्वा ब्रूयुः "एवं क्रियन्ते ये जन।पदम् अधर्मेण बाधन्ते" इति । ३० ।
 
-KAZ12.2.31 samutpanne doṣe śūnya.pālaṃ samāhartāraṃ vā prakṛti.kopena ghātayeyuḥ | 31 |
+कज़्१२।२।३१ समुत्पन्ने दोषे शून्य।पालं समाहर्तारं वा प्रकृति।कोपेन घातयेयुः । ३१ ।
 
-KAZ12.2.32 tat.kulīnam aparuddhaṃ vā pratipādayeyuḥ | 32 |
+कज़्१२।२।३२ तत्।कुलीनम् अपरुद्धं वा प्रतिपादयेयुः । ३२ ।
 
-KAZ12.2.33ab antaḥ.pura.pura.dvāraṃ dravya.dhānya.parigrahān |  
-KAZ12.2.33cd daheyus tāṃś ca hanyur vā brūyur asya-ārta.vādinaḥ || 33 ||  
+कज़्१२।२।३३अब् अन्तः।पुर।पुर।द्वारं द्रव्य।धान्य।परिग्रहान् ।  
+कज़्१२।२।३३च्द् दहेयुस् तांश् च हन्युर् वा ब्रूयुर् अस्य-आर्त।वादिनः ॥ ३३ ॥  
 
 
  छप्तेर् ३ (सेच्तिओन्स् १६४; १६५): अस्सस्सिनतिओन् ओड़् अर्म्य् छिएड़्स् (चोन्त्।); स्तिर्रिन्ग् उप् थे चिर्च्ले ओड़् किन्ग्स्
@@ -10752,66 +10751,66 @@ KAZ12.2.33cd daheyus tāṃś ca hanyur vā brūyur asya-ārta.vādinaḥ || 33 
 कज़्१२।३।२१च्द् यथा-आसन्नस्य मोक्ष।अर्थं सर्व।स्वेन तद्।अर्पणम् ॥ २१ ॥  
 
 
- Chapter 4 (Sections 166; 167): Secret Use of Weapons, Fire and Poison; Destruction of Supplies, Reinforcements and Raids
- \[K tr. 541\] ,  \[K2 tr. 467\] 
-KAZ12.4.01 ye ca-asya durgeṣu vaidehakavyañjanāḥ, grāmesu gṛhapatika.vyañjanāḥ, jana.pada.sandhiṣu go.rakṣaka.tāpasa.vyañjanāḥ, te sāmanta.āṭavika.tat.kulīna.aparuddhānāṃ paṇya.āgāra.pūrvaṃ preṣayeyuḥ "ayaṃ deśo hāryaḥ" iti | 1 |
+ छप्तेर् ४ (सेच्तिओन्स् १६६; १६७): सेच्रेत् उसे ओड़् Wएअपोन्स्, ड़िरे अन्द् पोइसोन्; देस्त्रुच्तिओन् ओड़् सुप्प्लिएस्, रेइन्ड़ोर्चेमेन्त्स् अन्द् रैद्स्
+ \[क् त्र्। ५४१\] ,  \[क्२ त्र्। ४६७\] 
+कज़्१२।४।०१ ये च-अस्य दुर्गेषु वैदेहकव्यञ्जनाः, ग्रामेसु गृहपतिक।व्यञ्जनाः, जन।पद।सन्धिषु गो।रक्षक।तापस।व्यञ्जनाः, ते सामन्त।आटविक।तत्।कुलीन।अपरुद्धानां पण्य।आगार।पूर्वं प्रेषयेयुः "अयं देशो हार्यः" इति । १ ।
 
-KAZ12.4.02 āgatāṃś ca-eṣāṃ durge gūḍha.puruṣān artha.mānābhyām abhisatkṛtya prakṛtic.chidrāṇi pradarśayeyuḥ | 2 |
+कज़्१२।४।०२ आगतांश् च-एषां दुर्गे गूढ।पुरुषान् अर्थ।मानाभ्याम् अभिसत्कृत्य प्रकृतिच्।छिद्राणि प्रदर्शयेयुः । २ ।
 
-KAZ12.4.03 teṣu taiḥ saha prahareyuḥ | 3 |
+कज़्१२।४।०३ तेषु तैः सह प्रहरेयुः । ३ ।
 
-KAZ12.4.04 skandha.āvāre vā-asya śauṇḍika.vyañjanaḥ putram abhityaktaṃ sthāpayitvā-avaskanda.kāle rasena pravāsayitvā "naiṣecanikam" iti madana.rasa.yuktān madyakumbhān-śataśaḥ prayacchet | 4 |
+कज़्१२।४।०४ स्कन्ध।आवारे वा-अस्य शौण्डिक।व्यञ्जनः पुत्रम् अभित्यक्तं स्थापयित्वा-अवस्कन्द।काले रसेन प्रवासयित्वा "नैषेचनिकम्" इति मदन।रस।युक्तान् मद्यकुम्भान्-शतशः प्रयच्छेत् । ४ ।
 
-KAZ12.4.05 śuddhaṃ vā madyaṃ pādyaṃ vā madyaṃ dadyād ekam ahaḥ, uttaraṃ ras.siddhaṃ prayacchet | 5 |
+कज़्१२।४।०५ शुद्धं वा मद्यं पाद्यं वा मद्यं दद्याद् एकम् अहः, उत्तरं रस्।सिद्धं प्रयच्छेत् । ५ ।
 
-KAZ12.4.06 śuddhaṃ vā madyaṃ daṇḍa.mukhyebhyaḥ pradāya mada.kāle rasa.siddhaṃ prayacchet | 6 |
+कज़्१२।४।०६ शुद्धं वा मद्यं दण्ड।मुख्येभ्यः प्रदाय मद।काले रस।सिद्धं प्रयच्छेत् । ६ ।
 
-KAZ12.4.07 daṇḍa.mukhya.vyañjano vā putram abhityaktam iti samānam | 7 |
+कज़्१२।४।०७ दण्ड।मुख्य।व्यञ्जनो वा पुत्रम् अभित्यक्तम् इति समानम् । ७ ।
 
-KAZ12.4.08 pākva.māṃsika.audanika.auṇḍika.āpūpika.vyañjanā vā paṇya.viśeṣam avaghoṣayitvā paraspara.saṅgharṣeṇa kālikaṃ samarghataram iti vā parān āhūya rasena sva.paṇyāny apacārayeyuḥ | 8 |
+कज़्१२।४।०८ पाक्व।मांसिक।औदनिक।औण्डिक।आपूपिक।व्यञ्जना वा पण्य।विशेषम् अवघोषयित्वा परस्पर।सङ्घर्षेण कालिकं समर्घतरम् इति वा परान् आहूय रसेन स्व।पण्यान्य् अपचारयेयुः । ८ ।
 
-KAZ12.4.09 surā.kṣīra.dadhi.sarpis.tailāni vā tad.vyavahartṛ.hasteṣu gṛhītā striyo bālāś ca rasa.yukteṣu sva.bhājaneṣu parikireyuḥ | 9 |
+कज़्१२।४।०९ सुरा।क्षीर।दधि।सर्पिस्।तैलानि वा तद्।व्यवहर्तृ।हस्तेषु गृहीता स्त्रियो बालाश् च रस।युक्तेषु स्व।भाजनेषु परिकिरेयुः । ९ ।
 
-KAZ12.4.10 "anena-argheṇa, viśiṣṭaṃ vā bhūyo dīyatām" iti tatra-eva-avākireyuḥ | 10 |
+कज़्१२।४।१० "अनेन-अर्घेण, विशिष्टं वा भूयो दीयताम्" इति तत्र-एव-अवाकिरेयुः । १० ।
 
-KAZ12.4.11 etāny eva vaidehaka.vyañjanāḥ, paṇya.vireyeṇa-āhartāro vā | 11 |
+कज़्१२।४।११ एतान्य् एव वैदेहक।व्यञ्जनाः, पण्य।विरेयेण-आहर्तारो वा । ११ ।
 
-KAZ12.4.12 hasty.aśvānāṃ vidhā.yavaseṣu rasam āsannā dadyuḥ | 12 |
+कज़्१२।४।१२ हस्त्य्।अश्वानां विधा।यवसेषु रसम् आसन्ना दद्युः । १२ ।
 
-KAZ12.4.13 karma.kara.vyañjanā vā rasa.aktaṃ yavasam udakaṃ vā vikrīṇīran | 13 |
+कज़्१२।४।१३ कर्म।कर।व्यञ्जना वा रस।अक्तं यवसम् उदकं वा विक्रीणीरन् । १३ ।
 
-KAZ12.4.14 cira.saṃsṛṣṭā vā go.vāṇijakā gavām aja.avīnāṃ vā yūthāny avaskanda.kāleṣu pareṣāṃ moha.sthāneṣu pramuñceyuḥ, aśva.khara.uṣṭramahiṣa.ādīnāṃ duṣṭāṃś ca | 14 |
+कज़्१२।४।१४ चिर।संसृष्टा वा गो।वाणिजका गवाम् अज।अवीनां वा यूथान्य् अवस्कन्द।कालेषु परेषां मोह।स्थानेषु प्रमुञ्चेयुः, अश्व।खर।उष्ट्रमहिष।आदीनां दुष्टांश् च । १४ ।
 
-KAZ12.4.15 tad.vyañjanā vā cucchundarī.śoṇita.akta.akṣān | 15 |
+कज़्१२।४।१५ तद्।व्यञ्जना वा चुच्छुन्दरी।शोणित।अक्त।अक्षान् । १५ ।
 
-KAZ12.4.16 lubdhaka.vyañjanā vā vyāla.mṛgān pañjarebhyaḥ pramuñceyuḥ, sarpa.grāhā vā sarpān ugra.viṣān, hasti.jīvino vā hastinaḥ | 16 |
+कज़्१२।४।१६ लुब्धक।व्यञ्जना वा व्याल।मृगान् पञ्जरेभ्यः प्रमुञ्चेयुः, सर्प।ग्राहा वा सर्पान् उग्र।विषान्, हस्ति।जीविनो वा हस्तिनः । १६ ।
 
-KAZ12.4.17 agni.jīvino vā-agnim avasṛjeyuḥ | 17 |
+कज़्१२।४।१७ अग्नि।जीविनो वा-अग्निम् अवसृजेयुः । १७ ।
 
-KAZ12.4.18 gūḍha.puruṣā vā vimukhān patty.aśva.ratha.dvipa.mukhyān abhihanyuḥ, ādīpayeyur vā mukhya.āvāsān | 18 |
+कज़्१२।४।१८ गूढ।पुरुषा वा विमुखान् पत्त्य्।अश्व।रथ।द्विप।मुख्यान् अभिहन्युः, आदीपयेयुर् वा मुख्य।आवासान् । १८ ।
 
-KAZ12.4.19 dūṣya.amitra.āṭavika.vyañjanāḥ praṇihitāḥ pṛṣṭha.abhighātam avaskanda.pratigrahaṃ vā kuryuḥ | 19 |
+कज़्१२।४।१९ दूष्य।अमित्र।आटविक।व्यञ्जनाः प्रणिहिताः पृष्ठ।अभिघातम् अवस्कन्द।प्रतिग्रहं वा कुर्युः । १९ ।
 
-KAZ12.4.20 vana.gūḍhā vā pratyanta.skandham upaniṣkṛṣya-abhihanyuḥ, eka.ayane vīvadha.āsāra.prasārān vā | 20 |
+कज़्१२।४।२० वन।गूढा वा प्रत्यन्त।स्कन्धम् उपनिष्कृष्य-अभिहन्युः, एक।अयने वीवध।आसार।प्रसारान् वा । २० ।
 
-KAZ12.4.21 sasaṅketaṃ vā rātri.yuddhe bhūri.tūryam āhatya brūyuḥ "anupraviṣṭāḥ smo, labdhaṃ rājyam" iti | 21 |
+कज़्१२।४।२१ ससङ्केतं वा रात्रि।युद्धे भूरि।तूर्यम् आहत्य ब्रूयुः "अनुप्रविष्टाः स्मो, लब्धं राज्यम्" इति । २१ ।
 
-KAZ12.4.22 rāja.āvāsam anupraviṣṭā vā saṅkuleṣu rājānaṃ hanyuḥ | 22 |
+कज़्१२।४।२२ राज।आवासम् अनुप्रविष्टा वा सङ्कुलेषु राजानं हन्युः । २२ ।
 
-KAZ12.4.23 sarvato vā prayātam enaṃ (eva?) mleccha.āṭavika.daṇṭa.cāriṇaḥ sattra.apāśrayāḥ stambha.vāṭa.apāśrayā vā hanyuḥ | 23 |
+कज़्१२।४।२३ सर्वतो वा प्रयातम् एनं (एव?) म्लेच्छ।आटविक।दण्ट।चारिणः सत्त्र।अपाश्रयाः स्तम्भ।वाट।अपाश्रया वा हन्युः । २३ ।
 
-KAZ12.4.24 lubdhaka.vyañjanā vā-avaskanda.saṅkuleṣu gūḍha.yuddha.hetubhir abhihanyuḥ | 24 |
+कज़्१२।४।२४ लुब्धक।व्यञ्जना वा-अवस्कन्द।सङ्कुलेषु गूढ।युद्ध।हेतुभिर् अभिहन्युः । २४ ।
 
-KAZ12.4.25 eka.ayane vā śaila.stambha.vāṭa.khañjana.antar.udake vā sva.bhūmi.balena-abhihanyuḥ | 25 |
+कज़्१२।४।२५ एक।अयने वा शैल।स्तम्भ।वाट।खञ्जन।अन्तर्।उदके वा स्व।भूमि।बलेन-अभिहन्युः । २५ ।
 
-KAZ12.4.26 nadī.saras.taṭāka.setu.bandha.bheda.vegena vā plāvayeyuḥ | 26 |
+कज़्१२।४।२६ नदी।सरस्।तटाक।सेतु।बन्ध।भेद।वेगेन वा प्लावयेयुः । २६ ।
 
-KAZ12.4.27 dhānvana.vana.durga.nimna.durgasthaṃ vā yoga.agni.dhūmābhyāṃ nāśayeyuḥ | 27 |
+कज़्१२।४।२७ धान्वन।वन।दुर्ग।निम्न।दुर्गस्थं वा योग।अग्नि।धूमाभ्यां नाशयेयुः । २७ ।
 
-KAZ12.4.28 saṅkaṭa.gatam agninā, dhānvana.gataṃ dhūmena, nidhāna.gataṃ rasena, toya.avagāḍhaṃ duṣṭa.grāhair udaka.caraṇair vā tīkṣṇāḥ sādhayeyuḥ, ādīpta.āvāsān niṣpatantaṃ vā | 28 |
+कज़्१२।४।२८ सङ्कट।गतम् अग्निना, धान्वन।गतं धूमेन, निधान।गतं रसेन, तोय।अवगाढं दुष्ट।ग्राहैर् उदक।चरणैर् वा तीक्ष्णाः साधयेयुः, आदीप्त।आवासान् निष्पतन्तं वा । २८ ।
 
-KAZ12.4.29ab yoga.vāmana.yogābhyāṃ yogena-anyatamena vā |  
-KAZ12.4.29cd amitram atisandadhyāt saktam uktāsu bhūmiṣu || 29 ||  
+कज़्१२।४।२९अब् योग।वामन।योगाभ्यां योगेन-अन्यतमेन वा ।  
+कज़्१२।४।२९च्द् अमित्रम् अतिसन्दध्यात् सक्तम् उक्तासु भूमिषु ॥ २९ ॥  
 
 
  छप्तेर् ५ (सेच्तिओन्स् १६८; १६९; १७०): ओवेर्रेअछिन्ग् थे एनेम्य् ब्य् त्रिच्केर्य्; ओवेर्रेअछिन्ग् ब्य् ड़ोर्चे; विच्तोर्य् ओड़् थे सिन्ग्ले किन्ग्
@@ -10922,50 +10921,50 @@ KAZ12.4.29cd amitram atisandadhyāt saktam uktāsu bhūmiṣu || 29 ||
 
 # बोओक् १३: मेअन्स् ओड़् तकिन्ग् अ ड़ोर्त्
  \[क् त्र्। ५५०-५७२\] ,  \[क्२ त्र्। ४७४-४९३\] 
- Chapter 1 (Section 171): Instigation to Sedition
- \[K tr. 550\] ,  \[K2 tr. 474\] 
-KAZ13.1.01 vijigīṣuḥ para.grāmam avāptu.kāmaḥ sarvajña.daivata.samyoga.khyāpanābhyāṃ sva.pakṣam uddharṣayet, para.pakṣaṃ ca-udvejayet | 1 |
+ छप्तेर् १ (सेच्तिओन् १७१): इन्स्तिगतिओन् तो सेदितिओन्
+ \[क् त्र्। ५५०\] ,  \[क्२ त्र्। ४७४\] 
+कज़्१३।१।०१ विजिगीषुः पर।ग्रामम् अवाप्तु।कामः सर्वज्ञ।दैवत।सम्योग।ख्यापनाभ्यां स्व।पक्षम् उद्धर्षयेत्, पर।पक्षं च-उद्वेजयेत् । १ ।
 
-KAZ13.1.02 sarvajña.khyāpanaṃ tu - gṛha.guhya.pravṛtti.jñānena pratyādeśo mukhyānām, kaṇṭaka.śodhana.apasarpa.avagamena prakāśanaṃ rāja.dviṣṭa.kāriṇām, vijñāpya.upāyana.khyāpanam adṛṣṭa.saṃsarga.vidyā.sañjñā.ādibhiḥ, videśa.pravṛtti.jñānaṃ tad ahar eva gṛha.kapotena mudrā.samyuktena | 2 |
+कज़्१३।१।०२ सर्वज्ञ।ख्यापनं तु - गृह।गुह्य।प्रवृत्ति।ज्ञानेन प्रत्यादेशो मुख्यानाम्, कण्टक।शोधन।अपसर्प।अवगमेन प्रकाशनं राज।द्विष्ट।कारिणाम्, विज्ञाप्य।उपायन।ख्यापनम् अदृष्ट।संसर्ग।विद्या।सञ्ज्ञा।आदिभिः, विदेश।प्रवृत्ति।ज्ञानं तद् अहर् एव गृह।कपोतेन मुद्रा।सम्युक्तेन । २ ।
 
-KAZ13.1.03 daivata.samyoga.khyāpanaṃ tu - suruṅgā.mukhena-agni.caitya.daivata.pratimāc.chidrān anupraviṣṭair agni.caitya.daivata.vyañjanaiḥ sambhāṣaṇaṃ pūjanaṃ ca, udakād utthitair vā nāga.varuṇa.vyañjanaiḥ sambhāṣaṇaṃ pūjanaṃ ca, rātrāv antar.udake samudra.vālukā.kośaṃ praṇidhāya-agni.mālā.darśanam, śilā.śikya.avagṛhīte plavake sthānam, udaka.bastinā jarāyuṇā vā śiro 'vagūḍha.nāsaḥ pṛṣata.antra.kulīra.nakra.śiṃśumāra.udravasābhir vā śata.pākyaṃ tailaṃ nastaḥ prayogaḥ | 3 |
+कज़्१३।१।०३ दैवत।सम्योग।ख्यापनं तु - सुरुङ्गा।मुखेन-अग्नि।चैत्य।दैवत।प्रतिमाच्।छिद्रान् अनुप्रविष्टैर् अग्नि।चैत्य।दैवत।व्यञ्जनैः सम्भाषणं पूजनं च, उदकाद् उत्थितैर् वा नाग।वरुण।व्यञ्जनैः सम्भाषणं पूजनं च, रात्राव् अन्तर्।उदके समुद्र।वालुका।कोशं प्रणिधाय-अग्नि।माला।दर्शनम्, शिला।शिक्य।अवगृहीते प्लवके स्थानम्, उदक।बस्तिना जरायुणा वा शिरो ऽवगूढ।नासः पृषत।अन्त्र।कुलीर।नक्र।शिंशुमार।उद्रवसाभिर् वा शत।पाक्यं तैलं नस्तः प्रयोगः । ३ ।
 
-KAZ13.1.04 tena rātri.gaṇaś carati | 4 |
+कज़्१३।१।०४ तेन रात्रि।गणश् चरति । ४ ।
 
-KAZ13.1.05 ity udaka.caraṇāni | 5 |
+कज़्१३।१।०५ इत्य् उदक।चरणानि । ५ ।
 
-KAZ13.1.06 tair varuṇa.nāga.kanyā.vākya.kriyā sambhāṣaṇaṃ ca, kopa.sthāneṣu mukhād agni.dhūma.utsargaḥ | 6 |
+कज़्१३।१।०६ तैर् वरुण।नाग।कन्या।वाक्य।क्रिया सम्भाषणं च, कोप।स्थानेषु मुखाद् अग्नि।धूम।उत्सर्गः । ६ ।
 
-KAZ13.1.07 tad asya sva.viṣaye kārtāntika.naimittika.mauhūrtika.paurāṇika.ikṣaṇika.gūḍha.puruṣāḥ sācivya.karās tad.darśinaś ca prakāśayeyuḥ | 7 |
+कज़्१३।१।०७ तद् अस्य स्व।विषये कार्तान्तिक।नैमित्तिक।मौहूर्तिक।पौराणिक।इक्षणिक।गूढ।पुरुषाः साचिव्य।करास् तद्।दर्शिनश् च प्रकाशयेयुः । ७ ।
 
-KAZ13.1.08 parasya viṣaye daivata.darśanaṃ divya.kośa.daṇḍa.utpattiṃ ca-asya brūyuḥ | 8 |
+कज़्१३।१।०८ परस्य विषये दैवत।दर्शनं दिव्य।कोश।दण्ड।उत्पत्तिं च-अस्य ब्रूयुः । ८ ।
 
-KAZ13.1.09 daivata.praśna.nimitta.vāyasa.aṅga.vidyā.svapna.mṛga.pakṣi.vyāhāreṣu ca-asya vijayaṃ brūyuḥ, viparītam amitrasya | 9 |
+कज़्१३।१।०९ दैवत।प्रश्न।निमित्त।वायस।अङ्ग।विद्या।स्वप्न।मृग।पक्षि।व्याहारेषु च-अस्य विजयं ब्रूयुः, विपरीतम् अमित्रस्य । ९ ।
 
-KAZ13.1.10 sadundubhim ulkāṃ ca parasya nakṣatre darśayeyuḥ | 10 |
+कज़्१३।१।१० सदुन्दुभिम् उल्कां च परस्य नक्षत्रे दर्शयेयुः । १० ।
 
-KAZ13.1.11 parasya mukhyān mitratvena-upadiśanto dūta.vyañjanāḥ svāmi.satkāraṃ brūyuḥ, sva.pakṣa.bala.ādhānaṃ para.pakṣa.pratighātaṃ ca | 11 |
+कज़्१३।१।११ परस्य मुख्यान् मित्रत्वेन-उपदिशन्तो दूत।व्यञ्जनाः स्वामि।सत्कारं ब्रूयुः, स्व।पक्ष।बल।आधानं पर।पक्ष।प्रतिघातं च । ११ ।
 
-KAZ13.1.12 tulya.yoga.kṣemam amātyānām āyudhīyānāṃ ca kathayeyuḥ | 12 |
+कज़्१३।१।१२ तुल्य।योग।क्षेमम् अमात्यानाम् आयुधीयानां च कथयेयुः । १२ ।
 
-KAZ13.1.13 teṣu vyasana.abhyudaya.avekṣaṇam apatya.pūjanaṃ ca prayuñjīta | 13 |
+कज़्१३।१।१३ तेषु व्यसन।अभ्युदय।अवेक्षणम् अपत्य।पूजनं च प्रयुञ्जीत । १३ ।
 
-KAZ13.1.14 tena para.pakṣam utsāhayed yathā.uktaṃ purastāt | 14 |
+कज़्१३।१।१४ तेन पर।पक्षम् उत्साहयेद् यथा।उक्तं पुरस्तात् । १४ ।
 
-KAZ13.1.15 bhūyaś ca vakṣyāmaḥ | 15 |
+कज़्१३।१।१५ भूयश् च वक्ष्यामः । १५ ।
 
-KAZ13.1.16 sādhāraṇa.gardabhena dakṣān, lakuṭa.śākhā.hananābhyāṃ daṇḍa.cāriṇaḥ, kula.eḍakena ca-udvignān, aśani.varṣeṇa vimānitān, vidulena-avakeśinā vāyasa.piṇḍena kaitavaja.meghena-iti vihata.āśān durbhaga.alaṅkāreṇa dveṣiṇā-iti pūjā.phalān, vyāghra.carmaṇā mṛtyu.kūṭena ca-upahitān, pīlu.vikhādanena karaka.yoṣṭrayā gardabhī.kṣīrā.abhimanthanena-iti dhruva.upakāriṇa iti | 16 |
+कज़्१३।१।१६ साधारण।गर्दभेन दक्षान्, लकुट।शाखा।हननाभ्यां दण्ड।चारिणः, कुल।एडकेन च-उद्विग्नान्, अशनि।वर्षेण विमानितान्, विदुलेन-अवकेशिना वायस।पिण्डेन कैतवज।मेघेन-इति विहत।आशान् दुर्भग।अलङ्कारेण द्वेषिणा-इति पूजा।फलान्, व्याघ्र।चर्मणा मृत्यु।कूटेन च-उपहितान्, पीलु।विखादनेन करक।योष्ट्रया गर्दभी।क्षीरा।अभिमन्थनेन-इति ध्रुव।उपकारिण इति । १६ ।
 
-KAZ13.1.17 pratipannān artha.mānābhyāṃ yojayet
+कज़्१३।१।१७ प्रतिपन्नान् अर्थ।मानाभ्यां योजयेत्
 
-KAZ13.1.18 dravya.bhaktac.chidreṣu ca-enān dravya.bhakta.dānair anugṛhṇīyāt | 18 |
+कज़्१३।१।१८ द्रव्य।भक्तच्।छिद्रेषु च-एनान् द्रव्य।भक्त।दानैर् अनुगृह्णीयात् । १८ ।
 
-KAZ13.1.19 apratigṛhṇatāṃ strī.kumāra.alaṅkārān abhihareyuḥ | 19 |
+कज़्१३।१।१९ अप्रतिगृह्णतां स्त्री।कुमार।अलङ्कारान् अभिहरेयुः । १९ ।
 
-KAZ13.1.20 durbhikṣa.stena.aṭavy.upaghāteṣu ca paura.jānapadān utsāhayantaḥ sattriṇo brūyuḥ "rājānam anugrahaṃ yācāmahe- niranugrahāḥ paratra gacchāmaḥ" iti | 20 |
+कज़्१३।१।२० दुर्भिक्ष।स्तेन।अटव्य्।उपघातेषु च पौर।जानपदान् उत्साहयन्तः सत्त्रिणो ब्रूयुः "राजानम् अनुग्रहं याचामहे- निरनुग्रहाः परत्र गच्छामः" इति । २० ।
 
-KAZ13.1.21ab tathā-iti pratipanneṣu dravya.dhānyāny aparigrahaiḥ |  
-KAZ13.1.21cd sācivyaṃ kāryam ity etad upajāpād bhūtaṃ mahat || 21 ||  
+कज़्१३।१।२१अब् तथा-इति प्रतिपन्नेषु द्रव्य।धान्यान्य् अपरिग्रहैः ।  
+कज़्१३।१।२१च्द् साचिव्यं कार्यम् इत्य् एतद् उपजापाद् भूतं महत् ॥ २१ ॥  
 
 
  छप्तेर् २ (सेच्तिओन् १७२): द्रwइन्ग् थे एनेम्य् ओउत् ब्य् मेअन्स् ओड़् स्त्रतगेम्स्
@@ -11082,124 +11081,124 @@ KAZ13.1.21cd sācivyaṃ kāryam ity etad upajāpād bhūtaṃ mahat || 21 ||
 कज़्१३।२।५०च्द् तथैव च-अपगच्छेयुर् इत्य् उक्तं योग।वामनम् ॥ ५० ॥  
 
 
- Chapter 3 (Section 173): Employment of Secret Agents
- \[K tr. 558\] ,  \[K2 tr. 481\] 
-KAZ13.3.01 śreṇī.mukhyam āptaṃ niṣpātayet | 1 |
+ छप्तेर् ३ (सेच्तिओन् १७३): एम्प्लोय्मेन्त् ओड़् सेच्रेत् अगेन्त्स्
+ \[क् त्र्। ५५८\] ,  \[क्२ त्र्। ४८१\] 
+कज़्१३।३।०१ श्रेणी।मुख्यम् आप्तं निष्पातयेत् । १ ।
 
-KAZ13.3.02 sa param āśrtya pakṣa.apadeśena sva.viṣayāt sācivya.kara.sahāya.upādānaṃ kurvīta | 2 |
+कज़्१३।३।०२ स परम् आश्र्त्य पक्ष।अपदेशेन स्व।विषयात् साचिव्य।कर।सहाय।उपादानं कुर्वीत । २ ।
 
-KAZ13.3.03 kṛta.apasarpa.upacayo vā param anumānya svāmino dūṣya.grāmaṃ vīta.hasty.aśvaṃ dūṣya.amātyaṃ daṇḍam ākrandaṃ vā hatvā parasya preṣayet | 3 |
+कज़्१३।३।०३ कृत।अपसर्प।उपचयो वा परम् अनुमान्य स्वामिनो दूष्य।ग्रामं वीत।हस्त्य्।अश्वं दूष्य।अमात्यं दण्डम् आक्रन्दं वा हत्वा परस्य प्रेषयेत् । ३ ।
 
-KAZ13.3.04 jana.pada.eka.deśaṃ śreṇīm aṭavīṃ vā sahāya.upādāna.arthaṃ saṃśrayeta | 4 |
+कज़्१३।३।०४ जन।पद।एक।देशं श्रेणीम् अटवीं वा सहाय।उपादान।अर्थं संश्रयेत । ४ ।
 
-KAZ13.3.05 viśvāsam upagataḥ svāminaḥ preṣayet | 5 |
+कज़्१३।३।०५ विश्वासम् उपगतः स्वामिनः प्रेषयेत् । ५ ।
 
-KAZ13.3.06 tataḥ svāmī hasti.bandhanam aṭavī.ghātaṃ vā-apadiśya gūḍham eva praharet | 6 |
+कज़्१३।३।०६ ततः स्वामी हस्ति।बन्धनम् अटवी।घातं वा-अपदिश्य गूढम् एव प्रहरेत् । ६ ।
 
-KAZ13.3.07 etena-amātya.aṭavikā vyākhyātāḥ | 7 |
+कज़्१३।३।०७ एतेन-अमात्य।अटविका व्याख्याताः । ७ ।
 
-KAZ13.3.08 śatruṇā maitrīṃ kṛtvā-amātyān avakṣipet | 8 |
+कज़्१३।३।०८ शत्रुणा मैत्रीं कृत्वा-अमात्यान् अवक्षिपेत् । ८ ।
 
-KAZ13.3.09 te tat.śatroḥ preṣayeyuḥ "bhartāraṃ naḥ prasādaya" iti | 9 |
+कज़्१३।३।०९ ते तत्।शत्रोः प्रेषयेयुः "भर्तारं नः प्रसादय" इति । ९ ।
 
-KAZ13.3.10 sa yaṃ dūtaṃ preṣayet, tam upālabheta "bhartā te mām amātyair bhedayati, na ca punar iha-āgantavyam" iti | 10 |
+कज़्१३।३।१० स यं दूतं प्रेषयेत्, तम् उपालभेत "भर्ता ते माम् अमात्यैर् भेदयति, न च पुनर् इह-आगन्तव्यम्" इति । १० ।
 
-KAZ13.3.11 atha-ekam amātyaṃ niṣpātayet | 11 |
+कज़्१३।३।११ अथ-एकम् अमात्यं निष्पातयेत् । ११ ।
 
-KAZ13.3.12 sa param āśritya yoga.apasarpa.aparakta.dūṣyān aśaktimataḥ stena-āṭavikān ubhaya.upaghātakān vā parasya-upaharet | 12 |
+कज़्१३।३।१२ स परम् आश्रित्य योग।अपसर्प।अपरक्त।दूष्यान् अशक्तिमतः स्तेन-आटविकान् उभय।उपघातकान् वा परस्य-उपहरेत् । १२ ।
 
-KAZ13.3.13 āpta.bhāva.upagataḥ pravīra.puruṣa.upaghātam asya-upahared anta.pālam āṭavikaṃ daṇḍa.cāriṇaṃ vā "dṛḍham asau ca-asau ca te śatruṇā sandhatte" iti | 13 |
+कज़्१३।३।१३ आप्त।भाव।उपगतः प्रवीर।पुरुष।उपघातम् अस्य-उपहरेद् अन्त।पालम् आटविकं दण्ड।चारिणं वा "दृढम् असौ च-असौ च ते शत्रुणा सन्धत्ते" इति । १३ ।
 
-KAZ13.3.14 atha paścād abhityakta.śāsanair enān ghātayet | 14 |
+कज़्१३।३।१४ अथ पश्चाद् अभित्यक्त।शासनैर् एनान् घातयेत् । १४ ।
 
-KAZ13.3.15 daṇḍa.bala.vyavahāreṇa vā śatrum udyojya ghātayet | 15 |
+कज़्१३।३।१५ दण्ड।बल।व्यवहारेण वा शत्रुम् उद्योज्य घातयेत् । १५ ।
 
-KAZ13.3.16 kṛtya.pakṣa.upagraheṇa vā parasya.amitraṃ rājānam ātmany apakārayitvā-abhiyuñjīta | 16 |
+कज़्१३।३।१६ कृत्य।पक्ष।उपग्रहेण वा परस्य।अमित्रं राजानम् आत्मन्य् अपकारयित्वा-अभियुञ्जीत । १६ ।
 
-KAZ13.3.17 tataḥ parasya preṣayet "asau te vairī mama-apakaroti, tam ehi sambhūya haniṣyāvaḥ, bhūmau hiraṇye vā te parigrahaḥ" iti | 17 |
+कज़्१३।३।१७ ततः परस्य प्रेषयेत् "असौ ते वैरी मम-अपकरोति, तम् एहि सम्भूय हनिष्यावः, भूमौ हिरण्ये वा ते परिग्रहः" इति । १७ ।
 
-KAZ13.3.18 pratipannam abhisatkṛtya-āgatam avaskandena prakāśayuddhena vā śatruṇā ghātayet | 18 |
+कज़्१३।३।१८ प्रतिपन्नम् अभिसत्कृत्य-आगतम् अवस्कन्देन प्रकाशयुद्धेन वा शत्रुणा घातयेत् । १८ ।
 
-KAZ13.3.19 abhiviśvāsana.arthaṃ bhūmi.dāna.putra.abhiṣeka.rakṣā.apadeśena vā grāhayet | 19 |
+कज़्१३।३।१९ अभिविश्वासन।अर्थं भूमि।दान।पुत्र।अभिषेक।रक्षा।अपदेशेन वा ग्राहयेत् । १९ ।
 
-KAZ13.3.20 aviṣahyam upāṃśu.daṇḍena vā ghātayet | 20 |
+कज़्१३।३।२० अविषह्यम् उपांशु।दण्डेन वा घातयेत् । २० ।
 
-KAZ13.3.21 sa ced daṇḍaṃ dadyān na  svayam āgacchet tam asya vairiṇā ghātayet | 21 |
+कज़्१३।३।२१ स चेद् दण्डं दद्यान् न  स्वयम् आगच्छेत् तम् अस्य वैरिणा घातयेत् । २१ ।
 
-KAZ13.3.22 daṇḍena vā prayātum icchen na vijigīṣuṇā tathā-apy enam ubhayataḥ.sampīḍanena ghātayet | 22 |
+कज़्१३।३।२२ दण्डेन वा प्रयातुम् इच्छेन् न विजिगीषुणा तथा-अप्य् एनम् उभयतः।सम्पीडनेन घातयेत् । २२ ।
 
-KAZ13.3.23 aviśvasto vā pratyekaśo yātum icched rājya.eka.deśaṃ vā yātavyasya-ādātu.kāmaḥ, tathā-apy enaṃ vairiṇā sarva.sandohena vā ghātayet | 23 |
+कज़्१३।३।२३ अविश्वस्तो वा प्रत्येकशो यातुम् इच्छेद् राज्य।एक।देशं वा यातव्यस्य-आदातु।कामः, तथा-अप्य् एनं वैरिणा सर्व।सन्दोहेन वा घातयेत् । २३ ।
 
-KAZ13.3.24 vairiṇā vā saktasya daṇḍa.upanayena mūlam anyato hārayet | 24 |
+कज़्१३।३।२४ वैरिणा वा सक्तस्य दण्ड।उपनयेन मूलम् अन्यतो हारयेत् । २४ ।
 
-KAZ13.3.25 śatru.bhūmyā vā mitraṃ paṇeta, mitra.bhūmyā vā śatrum | 25 |
+कज़्१३।३।२५ शत्रु।भूम्या वा मित्रं पणेत, मित्र।भूम्या वा शत्रुम् । २५ ।
 
-KAZ13.3.26 tataḥ śatru.bhūmi.lipsāyāṃ mitreṇa-ātmany apakārayitvā-abhiyuñjīta - iti samānāḥ pūrveṇa sarva eva yogāḥ | 26 |
+कज़्१३।३।२६ ततः शत्रु।भूमि।लिप्सायां मित्रेण-आत्मन्य् अपकारयित्वा-अभियुञ्जीत - इति समानाः पूर्वेण सर्व एव योगाः । २६ ।
 
-KAZ13.3.27 śatruṃ vā mitra.bhūmi.lipsāyāṃ pratipannaṃ daṇḍena-anugṛhṇīyāt | 27 |
+कज़्१३।३।२७ शत्रुं वा मित्र।भूमि।लिप्सायां प्रतिपन्नं दण्डेन-अनुगृह्णीयात् । २७ ।
 
-KAZ13.3.28 tato mitra.gatam atisandadhyāt | 28 |
+कज़्१३।३।२८ ततो मित्र।गतम् अतिसन्दध्यात् । २८ ।
 
-KAZ13.3.29 kṛta.pratividhāno vā vyasanam ātmano darśayitvā mitreṇa-amitram utsāhayitvā-ātmānam abhiyojayet | 29 |
+कज़्१३।३।२९ कृत।प्रतिविधानो वा व्यसनम् आत्मनो दर्शयित्वा मित्रेण-अमित्रम् उत्साहयित्वा-आत्मानम् अभियोजयेत् । २९ ।
 
-KAZ13.3.30 tataḥ sampīḍanena ghātayet, jīva.grāheṇa vā rājya.vinimayaṃ kārayet | 30 |
+कज़्१३।३।३० ततः सम्पीडनेन घातयेत्, जीव।ग्राहेण वा राज्य।विनिमयं कारयेत् । ३० ।
 
-KAZ13.3.31 mitreṇa-āśritaś cet-śatrur agrāhye sthātum icchet sāmanta.ādibhir mūlam asya hārayet | 31 |
+कज़्१३।३।३१ मित्रेण-आश्रितश् चेत्-शत्रुर् अग्राह्ये स्थातुम् इच्छेत् सामन्त।आदिभिर् मूलम् अस्य हारयेत् । ३१ ।
 
-KAZ13.3.32 daṇḍena vā trātum ichet tam asya ghātayet | 32 |
+कज़्१३।३।३२ दण्डेन वा त्रातुम् इछेत् तम् अस्य घातयेत् । ३२ ।
 
-KAZ13.3.33 tau cen na bhidyeyātāṃ prakāśam eva-anyonya.bhūmyā paṇeta | 33 |
+कज़्१३।३।३३ तौ चेन् न भिद्येयातां प्रकाशम् एव-अन्योन्य।भूम्या पणेत । ३३ ।
 
-KAZ13.3.34 tataḥ parasparaṃ mitra.vyañjanā vā ubhaya.vetanā vā dūtān preṣayeyuḥ "ayaṃ te rājā bhūmiṃ lipsate śatru.saṃhitaḥ" iti | 34 |
+कज़्१३।३।३४ ततः परस्परं मित्र।व्यञ्जना वा उभय।वेतना वा दूतान् प्रेषयेयुः "अयं ते राजा भूमिं लिप्सते शत्रु।संहितः" इति । ३४ ।
 
-KAZ13.3.35 tayor anyataro jāta.āśaṅka.āroṣaḥ, pūrvavac ceṣteta | 35 |
+कज़्१३।३।३५ तयोर् अन्यतरो जात।आशङ्क।आरोषः, पूर्ववच् चेष्तेत । ३५ ।
 
-KAZ13.3.36 durga.rāṣṭra.daṇḍa.mukhyān vā kṛtya.pakṣa.hetubhir abhivikhyāpya pravrājayet | 36 |
+कज़्१३।३।३६ दुर्ग।राष्ट्र।दण्ड।मुख्यान् वा कृत्य।पक्ष।हेतुभिर् अभिविख्याप्य प्रव्राजयेत् । ३६ ।
 
-KAZ13.3.37 te yuddha.avaskanda.avarodha.vyasaneṣu śatrum atisandadhyuḥ | 37 |
+कज़्१३।३।३७ ते युद्ध।अवस्कन्द।अवरोध।व्यसनेषु शत्रुम् अतिसन्दध्युः । ३७ ।
 
-KAZ13.3.38 bhedaṃ vā-asya sva.vargebhyaḥ kuryuḥ | 38 |
+कज़्१३।३।३८ भेदं वा-अस्य स्व।वर्गेभ्यः कुर्युः । ३८ ।
 
-KAZ13.3.39 abhityakta.śāsanaiḥ pratisamānayeyuḥ | 39 |
+कज़्१३।३।३९ अभित्यक्त।शासनैः प्रतिसमानयेयुः । ३९ ।
 
-KAZ13.3.40 lubdhaka.vyañjanā vā māṃsa.vikrayeṇa dvāhsthā dauvārika.apāśrayāś cora.abhyāgamaṃ parasya dvis trir iti nivedya labdha.pratyayā bhartur anīkaṃ dvidhā niveśya grāma.vadhe 'vaskande ca dviṣato brūyuḥ "āsannaś cora.gaṇaḥ, mahāṃś ca-ākrandaḥ, prabhūtaṃ sainyam āgacchatu" iti | 40 |
+कज़्१३।३।४० लुब्धक।व्यञ्जना वा मांस।विक्रयेण द्वाह्स्था दौवारिक।अपाश्रयाश् चोर।अभ्यागमं परस्य द्विस् त्रिर् इति निवेद्य लब्ध।प्रत्यया भर्तुर् अनीकं द्विधा निवेश्य ग्राम।वधे ऽवस्कन्दे च द्विषतो ब्रूयुः "आसन्नश् चोर।गणः, महांश् च-आक्रन्दः, प्रभूतं सैन्यम् आगच्छतु" इति । ४० ।
 
-KAZ13.3.41 tad arpayitvā grāma.ghāta.daṇḍasya sainyam itarad ādāya rātrau durga.dvāreṣu brūyuḥ "hataś cora.gaṇaḥ, siddha.yātram idaṃ sainyam āgatam, dvāram apāvriyatām" iti | 41 |
+कज़्१३।३।४१ तद् अर्पयित्वा ग्राम।घात।दण्डस्य सैन्यम् इतरद् आदाय रात्रौ दुर्ग।द्वारेषु ब्रूयुः "हतश् चोर।गणः, सिद्ध।यात्रम् इदं सैन्यम् आगतम्, द्वारम् अपाव्रियताम्" इति । ४१ ।
 
-KAZ13.3.42 pūrva.praṇihitā vā dvārāṇi dadyuḥ | 42 |
+कज़्१३।३।४२ पूर्व।प्रणिहिता वा द्वाराणि दद्युः । ४२ ।
 
-KAZ13.3.43 taiḥ saha prahareyuḥ | 43 |
+कज़्१३।३।४३ तैः सह प्रहरेयुः । ४३ ।
 
-KAZ13.3.44 kāru.śilpi.pāṣaṇḍa.kuśīlava.vaidehaka.vyañjanān āyudhīyān vvā para.durge praṇidadhyāt | 44 |
+कज़्१३।३।४४ कारु।शिल्पि।पाषण्ड।कुशीलव।वैदेहक।व्यञ्जनान् आयुधीयान् व्वा पर।दुर्गे प्रणिदध्यात् । ४४ ।
 
-KAZ13.3.45 teṣāṃ gṛha.patika.vyañjanāḥ kāṣṭha.tṛṇa.dhānya.paṇya.śakaṭaiḥ praharaṇa.āvaraṇāny abhihareyuḥ, deva.dhvaja.pratimābhir vā | 45 |
+कज़्१३।३।४५ तेषां गृह।पतिक।व्यञ्जनाः काष्ठ।तृण।धान्य।पण्य।शकटैः प्रहरण।आवरणान्य् अभिहरेयुः, देव।ध्वज।प्रतिमाभिर् वा । ४५ ।
 
-KAZ13.3.46 tatas tad.vyañjanāḥ pramatta.vadham avaskanda.pratigraham abhipraharaṇaṃ pṛṣṭhataḥ śaṅkha.dundubhi.śabdena vā "praviṣṭam" ity āvedayeyuḥ | 46 |
+कज़्१३।३।४६ ततस् तद्।व्यञ्जनाः प्रमत्त।वधम् अवस्कन्द।प्रतिग्रहम् अभिप्रहरणं पृष्ठतः शङ्ख।दुन्दुभि।शब्देन वा "प्रविष्टम्" इत्य् आवेदयेयुः । ४६ ।
 
-KAZ13.3.47 prākāra.dvāra.aṭṭālaka.dānam anīka.bhedaṃ ghātaṃ vā kuryuḥ | 47 |
+कज़्१३।३।४७ प्राकार।द्वार।अट्टालक।दानम् अनीक।भेदं घातं वा कुर्युः । ४७ ।
 
-KAZ13.3.48 sārtha.gaṇa.vāsibhir ātivāhikaiḥ kanyā.vāhikair aśva.paṇya.vyavahāribhir upakaraṇa.hārakair dhānya.kretṛ.vikretṛbhir vā pravrajita.liṅgibhir dūtaiś ca daṇaḍ.atinayanam, sandhi.karma.viśvāsana.artham | 48 |
+कज़्१३।३।४८ सार्थ।गण।वासिभिर् आतिवाहिकैः कन्या।वाहिकैर् अश्व।पण्य।व्यवहारिभिर् उपकरण।हारकैर् धान्य।क्रेतृ।विक्रेतृभिर् वा प्रव्रजित।लिङ्गिभिर् दूतैश् च दणड्।अतिनयनम्, सन्धि।कर्म।विश्वासन।अर्थम् । ४८ ।
 
-KAZ13.3.49 iti rāja.apasarpāḥ | 49 |
+कज़्१३।३।४९ इति राज।अपसर्पाः । ४९ ।
 
-KAZ13.3.50 eta eva-aṭavīnām apasarpāḥ kaṇṭaka.śodhana.uktāś ca | 50 |
+कज़्१३।३।५० एत एव-अटवीनाम् अपसर्पाः कण्टक।शोधन।उक्ताश् च । ५० ।
 
-KAZ13.3.51 vrajam aṭavy.āsannam apasarpāḥ sārthaṃ vā corair ghātayeyuḥ | 51 |
+कज़्१३।३।५१ व्रजम् अटव्य्।आसन्नम् अपसर्पाः सार्थं वा चोरैर् घातयेयुः । ५१ ।
 
-KAZ13.3.52 kṛta.saṅketam anna.pānaṃ ca-atra madana.rasa.viddhaṃ vā kṛtvā-apagaccheyuḥ | 52 |
+कज़्१३।३।५२ कृत।सङ्केतम् अन्न।पानं च-अत्र मदन।रस।विद्धं वा कृत्वा-अपगच्छेयुः । ५२ ।
 
-KAZ13.3.53 go.pālaka.vaidehakāś ca tataś corān gṛhīta.loptra.bhārān madana.rasa.vikāra.kāle 'vaskandayeyuḥ | 53 |
+कज़्१३।३।५३ गो।पालक।वैदेहकाश् च ततश् चोरान् गृहीत।लोप्त्र।भारान् मदन।रस।विकार।काले ऽवस्कन्दयेयुः । ५३ ।
 
-KAZ13.3.54 saṅkarṣaṇa.daivatīyo vā muṇḍa.jaṭila.vyañjanaḥ prahavaṇa.karmaṇā madana.rasa.yogena-atisandadhyāt | 54 |
+कज़्१३।३।५४ सङ्कर्षण।दैवतीयो वा मुण्ड।जटिल।व्यञ्जनः प्रहवण।कर्मणा मदन।रस।योगेन-अतिसन्दध्यात् । ५४ ।
 
-KAZ13.3.55 atha-avaskandaṃ dadyāt | 55 |
+कज़्१३।३।५५ अथ-अवस्कन्दं दद्यात् । ५५ ।
 
-KAZ13.3.56 śauṇḍika.vyañjano vā daivata.preta.kārya.utsava.samājeṣv āṭavikān surā.vikraya.upāyana.nimittaṃ madana.rasa.yogena-atisandadhyāt | 56 |
+कज़्१३।३।५६ शौण्डिक।व्यञ्जनो वा दैवत।प्रेत।कार्य।उत्सव।समाजेष्व् आटविकान् सुरा।विक्रय।उपायन।निमित्तं मदन।रस।योगेन-अतिसन्दध्यात् । ५६ ।
 
-KAZ13.3.57 atha-avaskandaṃ dadyāt | 57 |
+कज़्१३।३।५७ अथ-अवस्कन्दं दद्यात् । ५७ ।
 
-KAZ13.3.58ab grāma.ghāta.praviṣṭāṃ vā vikṣipya bahudhā-aṭavīm |  
-KAZ13.3.58cd ghātayed iti corāṇām apasarpāḥ prakīrtitāḥ || 58 ||  
+कज़्१३।३।५८अब् ग्राम।घात।प्रविष्टां वा विक्षिप्य बहुधा-अटवीम् ।  
+कज़्१३।३।५८च्द् घातयेद् इति चोराणाम् अपसर्पाः प्रकीर्तिताः ॥ ५८ ॥  
 
 
  छप्तेर् ४ (सेच्तिओन्स् १७४; १७५): लयिन्ग् सिएगे तो अ ड़ोर्त्; स्तोर्मिन्ग् अ ड़ोर्त्
@@ -11334,60 +11333,60 @@ KAZ13.3.58cd ghātayed iti corāṇām apasarpāḥ prakīrtitāḥ || 58 ||
 कज़्१३।४।६३च्द् अवमर्दश् च पञ्च-एते दुर्ग।लम्भस्य हेतवः ॥ ६३ ॥  
 
 
- Chapter 5 (Section 176): Pacification of the Conquered Territory
- \[K tr. 570\] ,  \[K2 tr. 491\] 
-KAZ13.5.01 dvividhaṃ vijigīṣoḥ samutthānaṃ - aṭavy.ādikam eka.grāma.ādikaṃ ca | 1 |
+ छप्तेर् ५ (सेच्तिओन् १७६): पचिड़िचतिओन् ओड़् थे चोन्क़ुएरेद् तेर्रितोर्य्
+ \[क् त्र्। ५७०\] ,  \[क्२ त्र्। ४९१\] 
+कज़्१३।५।०१ द्विविधं विजिगीषोः समुत्थानं - अटव्य्।आदिकम् एक।ग्राम।आदिकं च । १ ।
 
-KAZ13.5.02 trividhaś ca-asya lambhaḥ - navo, bhūta.pūrvaḥ, pitrya iti | 2 |
+कज़्१३।५।०२ त्रिविधश् च-अस्य लम्भः - नवो, भूत।पूर्वः, पित्र्य इति । २ ।
 
-KAZ13.5.03 navam avāpya lābhaṃ para.doṣān sva.guṇaiś chādayet, guṇān guṇa.dvaiguṇyena | 3 |
+कज़्१३।५।०३ नवम् अवाप्य लाभं पर।दोषान् स्व।गुणैश् छादयेत्, गुणान् गुण।द्वैगुण्येन । ३ ।
 
-KAZ13.5.04 sva.dharma.karma.anugraha.parihāra.dāna.māna.karmabhiś ca prakṛti.priya.hitāny anuvarteta | 4 |
+कज़्१३।५।०४ स्व।धर्म।कर्म।अनुग्रह।परिहार।दान।मान।कर्मभिश् च प्रकृति।प्रिय।हितान्य् अनुवर्तेत । ४ ।
 
-KAZ13.5.05 yathā.sambhāṣitaṃ ca kṛtya.pakṣam upagrāhayet, bhūyaś ca kṛta.prayāsam | 5 |
+कज़्१३।५।०५ यथा।सम्भाषितं च कृत्य।पक्षम् उपग्राहयेत्, भूयश् च कृत।प्रयासम् । ५ ।
 
-KAZ13.5.06 aviśvāso hi visaṃvādakaḥ sveṣāṃ pareṣāṃ ca bhavati, prakṛti.viruddha.ācāraś ca | 6 |
+कज़्१३।५।०६ अविश्वासो हि विसंवादकः स्वेषां परेषां च भवति, प्रकृति।विरुद्ध।आचारश् च । ६ ।
 
-KAZ13.5.07 tasmāt samāna.śīla.veṣa.bhāṣā.ācāratām upagachet | 7 |
+कज़्१३।५।०७ तस्मात् समान।शील।वेष।भाषा।आचारताम् उपगछेत् । ७ ।
 
-KAZ13.5.08 deśa.daivata.smāja.utsava.vihāreṣu ca bhaktim anuvarteta | 8 |
+कज़्१३।५।०८ देश।दैवत।स्माज।उत्सव।विहारेषु च भक्तिम् अनुवर्तेत । ८ ।
 
-KAZ13.5.09 deśa.grāma.jāti.saṅgha.mukhyeṣu ca-abhīkṣṇaṃ sattriṇaḥ parasya-apacāraṃ darśayeyuḥ, māhābhāgyaṃ bhaktiṃ ca teṣu svāminaḥ, svāmi.satkāraṃ ca vidyamānam | 9 |
+कज़्१३।५।०९ देश।ग्राम।जाति।सङ्घ।मुख्येषु च-अभीक्ष्णं सत्त्रिणः परस्य-अपचारं दर्शयेयुः, माहाभाग्यं भक्तिं च तेषु स्वामिनः, स्वामि।सत्कारं च विद्यमानम् । ९ ।
 
-KAZ13.5.10 ucitaiś ca-enān bhoga.parihāra.rakṣā.avekṣaṇair bhuñjīta | 10 |
+कज़्१३।५।१० उचितैश् च-एनान् भोग।परिहार।रक्षा।अवेक्षणैर् भुञ्जीत । १० ।
 
-KAZ13.5.11 sarva.devatā.āśrama.pūjanaṃ ca vidyā.vākya.dharma.śūra.puruṣāṇāṃ ca bhūmi.dravya.dāna.parihārān kārayet, sarva.bandhana.mokṣaṇam anugrahaṃ dīna.anātha.vyādhitānāṃ ca | 11 |
+कज़्१३।५।११ सर्व।देवता।आश्रम।पूजनं च विद्या।वाक्य।धर्म।शूर।पुरुषाणां च भूमि।द्रव्य।दान।परिहारान् कारयेत्, सर्व।बन्धन।मोक्षणम् अनुग्रहं दीन।अनाथ।व्याधितानां च । ११ ।
 
-KAZ13.5.12 cāturmāsyeṣv ardha.māsikam aghātam, paurṇamāsīṣu ca cātūrātrikaṃ rāja.deśa.nakṣatreṣv aikarātrikam | 12 |
+कज़्१३।५।१२ चातुर्मास्येष्व् अर्ध।मासिकम् अघातम्, पौर्णमासीषु च चातूरात्रिकं राज।देश।नक्षत्रेष्व् ऐकरात्रिकम् । १२ ।
 
-KAZ13.5.13 yoni.bāla.vadhaṃ puṃstva.upaghātaṃ ca pratiṣedhayet | 13 |
+कज़्१३।५।१३ योनि।बाल।वधं पुंस्त्व।उपघातं च प्रतिषेधयेत् । १३ ।
 
-KAZ13.5.14 yac ca kośa.daṇḍa.upaghātakam adharmiṣṭhaṃ vā caritraṃ manyeta tad apanīya dharmya.vyavahāraṃ sthāpayet | 14 |
+कज़्१३।५।१४ यच् च कोश।दण्ड।उपघातकम् अधर्मिष्ठं वा चरित्रं मन्येत तद् अपनीय धर्म्य।व्यवहारं स्थापयेत् । १४ ।
 
-KAZ13.5.15 cora.prakṛtīnāṃ mleccha.jātīnāṃ ca sthāna.viparyāsam anekasthaṃ kārayet, durga.rāṣṭra.daṇḍa.mukhyānāṃ ca | 15 |
+कज़्१३।५।१५ चोर।प्रकृतीनां म्लेच्छ।जातीनां च स्थान।विपर्यासम् अनेकस्थं कारयेत्, दुर्ग।राष्ट्र।दण्ड।मुख्यानां च । १५ ।
 
-KAZ13.5.16 parā.upagṛhītānāṃ ca mantri.purohitānāṃ parasya pratyanteṣv anekasthaṃ vāsaṃ kārayet | 16 |
+कज़्१३।५।१६ परा।उपगृहीतानां च मन्त्रि।पुरोहितानां परस्य प्रत्यन्तेष्व् अनेकस्थं वासं कारयेत् । १६ ।
 
-KAZ13.5.17 apakāra.samarthān anukṣiyato vā bhartṛ.vināśam upāṃśu.daṇḍena praśamayet | 17 |
+कज़्१३।५।१७ अपकार।समर्थान् अनुक्षियतो वा भर्तृ।विनाशम् उपांशु।दण्डेन प्रशमयेत् । १७ ।
 
-KAZ13.5.18 sva.deśīyān vā pareṇa vā-aparuddhān apavāhita.sthāneṣu sthāpayet | 18 |
+कज़्१३।५।१८ स्व।देशीयान् वा परेण वा-अपरुद्धान् अपवाहित।स्थानेषु स्थापयेत् । १८ ।
 
-KAZ13.5.19 yaś ca tat.kulīnaḥ pratyādeyam ādātuṃ śaktaḥ, pratyanta.aṭavīstho vā prabādhitum abhijātaḥ, tasmai viguṇāṃ bhūmiṃ prayacchet, guṇavatyāś catur.bhāgaṃ vā kośa.daṇḍa.dānam avasthāpya, yad upakurvāṇaḥ paura.jānapadān kopayet | 19 |
+कज़्१३।५।१९ यश् च तत्।कुलीनः प्रत्यादेयम् आदातुं शक्तः, प्रत्यन्त।अटवीस्थो वा प्रबाधितुम् अभिजातः, तस्मै विगुणां भूमिं प्रयच्छेत्, गुणवत्याश् चतुर्।भागं वा कोश।दण्ड।दानम् अवस्थाप्य, यद् उपकुर्वाणः पौर।जानपदान् कोपयेत् । १९ ।
 
-KAZ13.5.20 kupitais tair enaṃ ghātayet | 20 |
+कज़्१३।५।२० कुपितैस् तैर् एनं घातयेत् । २० ।
 
-KAZ13.5.21 prakṛtibhir upakruṣṭam apanayet, aupaghātike vā deśe niveśayet | iti | 21 |
+कज़्१३।५।२१ प्रकृतिभिर् उपक्रुष्टम् अपनयेत्, औपघातिके वा देशे निवेशयेत् । इति । २१ ।
 
-KAZ13.5.22 bhūta.pūrve yena doṣeṇa-apavṛttas taṃ prakṛti.doṣaṃ chādayet, yena ca guṇena-upāvṛttas taṃ tīvrī.kuryāt | iti | 22 |
+कज़्१३।५।२२ भूत।पूर्वे येन दोषेण-अपवृत्तस् तं प्रकृति।दोषं छादयेत्, येन च गुणेन-उपावृत्तस् तं तीव्री।कुर्यात् । इति । २२ ।
 
-KAZ13.5.23 pitrye pitur doṣāṃś chādayet, guṇāṃś ca prakāśayet | iti | 23 |
+कज़्१३।५।२३ पित्र्ये पितुर् दोषांश् छादयेत्, गुणांश् च प्रकाशयेत् । इति । २३ ।
 
-KAZ13.5.24ab caritram akṛtaṃ dharmyaṃ kṛtaṃ ca-anyaiḥ pravartayet |  
-KAZ13.5.24cd pravartayen na ca-adharmyaṃ kṛtaṃ ca-anyair nivartayet || 24 ||  
+कज़्१३।५।२४अब् चरित्रम् अकृतं धर्म्यं कृतं च-अन्यैः प्रवर्तयेत् ।  
+कज़्१३।५।२४च्द् प्रवर्तयेन् न च-अधर्म्यं कृतं च-अन्यैर् निवर्तयेत् ॥ २४ ॥  
 
 
-# Book 14: Concerning Secret Practices
- \[K tr. 573-592\] ,  \[K2 tr. 494-511\] 
+# बोओक् १४: चोन्चेर्निन्ग् सेच्रेत् प्रच्तिचेस्
+ \[क् त्र्। ५७३-५९२\] ,  \[क्२ त्र्। ४९४-५११\] 
  छप्तेर् १ (सेच्तिओन् १७७): सेच्रेत् प्रच्तिचेस् ड़ोर् थे देस्त्रुच्तिओन् ओड़् एनेम्य् त्रोओप्स्
  \[क् त्र्। ५७३\] ,  \[क्२ त्र्। ४९४\] 
 कज़्१४।१।०१ चातुर्वर्ण्य।रक्षा।अर्थम् औपनिषदिकम् अधर्मिष्ठेषु प्रयुञ्जीत । १ ।
@@ -11480,107 +11479,107 @@ KAZ13.5.24cd pravartayen na ca-adharmyaṃ kṛtaṃ ca-anyair nivartayet || 24 
 
 कज़्१४।१।४० अग्नये स्वाहा, सोमाय स्वाहा, भूः स्वाहा भुवः स्वाहा । ४० ।
 
- Chapter 2 (Section 178): Deceiving through Occult Practices
- \[K tr. 578\] ,  \[K2 tr. 499\] 
-KAZ14.2.01 śirīṣa.udumbara.śamī.cūrṇaṃ sarpiṣā saṃhṛtya-ardha.māsikaḥ kṣud.yogaḥ | 1 |
+ छप्तेर् २ (सेच्तिओन् १७८): देचेइविन्ग् थ्रोउघ् ओच्चुल्त् प्रच्तिचेस्
+ \[क् त्र्। ५७८\] ,  \[क्२ त्र्। ४९९\] 
+कज़्१४।२।०१ शिरीष।उदुम्बर।शमी।चूर्णं सर्पिषा संहृत्य-अर्ध।मासिकः क्षुद्।योगः । १ ।
 
-KAZ14.2.02 kaśeruka.utpala.kandekṣu.mūla.bisa.dūrvā.kṣīra.ghṛta.maṇḍa.siddho māsikaḥ | 2 |
+कज़्१४।२।०२ कशेरुक।उत्पल।कन्देक्षु।मूल।बिस।दूर्वा।क्षीर।घृत।मण्ड।सिद्धो मासिकः । २ ।
 
-KAZ14.2.03 māṣa.yava.kulattha.darbha.mūla.cūrṇaṃ vā kṣīra.ghṛtābhyām, vallī.kṣīra.ghṛtaṃ vā sama.siddham, sāla.pṛśni.parṇī.mūla.kalkaṃ payasā pītvā, payo vā tat.siddhaṃ madhu.ghṛtābhyām aśitvā māsam upavasati | 3 |
+कज़्१४।२।०३ माष।यव।कुलत्थ।दर्भ।मूल।चूर्णं वा क्षीर।घृताभ्याम्, वल्ली।क्षीर।घृतं वा सम।सिद्धम्, साल।पृश्नि।पर्णी।मूल।कल्कं पयसा पीत्वा, पयो वा तत्।सिद्धं मधु।घृताभ्याम् अशित्वा मासम् उपवसति । ३ ।
 
-KAZ14.2.04 śveta.basta.mūtre sapta.rātra.uṣitaiḥ siddha.arthakaiḥ siddhaṃ tailaṃ kaṭuka.ālābau māsa.ardha.māsa.sthitaṃ catuṣ.pada.dvi.padānāṃ virūpa.karaṇam | 4 |
+कज़्१४।२।०४ श्वेत।बस्त।मूत्रे सप्त।रात्र।उषितैः सिद्ध।अर्थकैः सिद्धं तैलं कटुक।आलाबौ मास।अर्ध।मास।स्थितं चतुष्।पद।द्वि।पदानां विरूप।करणम् । ४ ।
 
-KAZ14.2.05 takra.yava.bhakṣasya sapta.rātrād ūrdhvaṃ śveta.gardabhasya leṇḍa.yavaiḥ siddhaṃ gaura.sarṣapa.tailaṃ virūpa.karaṇam | 5 |
+कज़्१४।२।०५ तक्र।यव।भक्षस्य सप्त।रात्राद् ऊर्ध्वं श्वेत।गर्दभस्य लेण्ड।यवैः सिद्धं गौर।सर्षप।तैलं विरूप।करणम् । ५ ।
 
-KAZ14.2.06 etayor anyatarasya mūtra.leṇda.rasa.siddhaṃ siddha.arthaka.tailam arka.tūla.pataṅga.cūrṇa.pratīvāpaṃ śvetī.karaṇam | 6 |
+कज़्१४।२।०६ एतयोर् अन्यतरस्य मूत्र।लेण्द।रस।सिद्धं सिद्ध।अर्थक।तैलम् अर्क।तूल।पतङ्ग।चूर्ण।प्रतीवापं श्वेती।करणम् । ६ ।
 
-KAZ14.2.07 śveta.kukkuṭa.ajagara.leṇḍa.yogaḥ śvetī.karaṇam | 7 |
+कज़्१४।२।०७ श्वेत।कुक्कुट।अजगर।लेण्ड।योगः श्वेती।करणम् । ७ ।
 
-KAZ14.2.08 śveta.basta.mūtre śveta.sarṣapāḥ sapta.rātra.uṣita.astakra(?).marka.kṣīra.lavaṇaṃ dhānyaṃ ca pakṣa.sthito yogaḥ śvetī.karaṇam | 8 |
+कज़्१४।२।०८ श्वेत।बस्त।मूत्रे श्वेत।सर्षपाः सप्त।रात्र।उषित।अस्तक्र(?)।मर्क।क्षीर।लवणं धान्यं च पक्ष।स्थितो योगः श्वेती।करणम् । ८ ।
 
-KAZ14.2.09 kaṭuka.alābau valī.gate gataṃ.ardha.māsa.sthitaṃ gaura.sarṣapa.piṣṭaṃ romṇāṃ śvetī.karaṇam | 9 |
+कज़्१४।२।०९ कटुक।अलाबौ वली।गते गतं।अर्ध।मास।स्थितं गौर।सर्षप।पिष्टं रोम्णां श्वेती।करणम् । ९ ।
 
-KAZ14.2.10ab alojuneti yaḥ kīṭaḥ śvetā ca gṛha.golikā |  
-KAZ14.2.10cd etena piṣtena-abhyaktāḥ keśāḥ syuḥ śaṅkha.pāṇḍarāḥ || 10 ||  
-
-
-KAZ14.2.11 gomayena tinduka.ariṣṭa.kalkena vā mardita.aṅgasya bhallātaka.rasa.anuliptasya māsikaḥ kuṣṭha.yogaḥ | 11 |
-
-KAZ14.2.12 kṛṣṇa.sarpa.mukhe gṛha.golikā.mukhe vā sapta.rātra.uṣitā gujjāḥ kuṣṭha.yogaḥ | 12 |
-
-KAZ14.2.13 śuka.pitta.aṇḍa.rasa.abhyaṅgaḥ kuṣṭha.yogaḥ | 13 |
-
-KAZ14.2.14 kuṣṭhasya.priyāla.kalka.kaṣāyaḥ pratīkāraḥ | 14 |
-
-KAZ14.2.15 kukkuṭa.kośa.atakī(?).śatāvarī.mūla.yuktam āhārayamāṇo māsena gauro bhavati | 15 |
-
-KAZ14.2.16 vaṭa.kaṣāya.snātaḥ saha.cara.kalka.digdhaḥ kṛṣṇo bhavati | 16 |
-
-KAZ14.2.17 śakuna.kaṇgu.taila.yuktā hari.tāla.manaḥ.śilāḥ śyāmī.karaṇam | 17 |
-
-KAZ14.2.18 kha.dyota.cūrṇaṃ sarṣapa.taila.yuktaṃ rātrau jvalati | 18 |
-
-KAZ14.2.19 kha.dyota.gaṇḍū.pada.cūrṇaṃ samudra.jantūnāṃ bhṛṅga.kapālānāṃ khadira.karṇikārāṇāṃ puṣpa.cūrṇaṃ vā śakuna.kaṅgu.taila.yuktaṃ tejana.cūrṇam | 19 |
-
-KAZ14.2.20 pāribhadraka.tvan.maṣī maṇḍūka.vasayā yuktā gātra.prajvālanam agninā | 20 |
-
-KAZ14.2.21 paribhadraka.tvak.tila.kalka.pradigdhaṃ śarīram agninā jvalati | 21 |
-
-KAZ14.2.22 pīlu.tvan.maṣīmayaḥ piṇḍo haste jvalati | 22 |
-
-KAZ14.2.23 maṇḍūka.vasā.digdho 'gninā jvalati | 23 |
-
-KAZ14.2.24 tena pradigdham aṅgaṃ kuśa.āmra.phala.taila.siktaṃ samudra.maṇḍūkī.phenaka.sarja.rasa.cūrṇa.yuktaṃ vā jvalati | 24 |
-
-KAZ14.2.25 maṇḍūka.kulīra.ādīnāṃ vasayā sama.bhāgaṃ tailaṃ siddham abhyaṅgaṃ gātrāṇām agni.prajvālanam | 25 |
-
-KAZ14.2.26 veṇu.mūla.śaivala.liptam aṅgaṃ maṇḍūka.vasā.digdham agninā jvalati | 26 |
-
-KAZ14.2.27 pāribhadraka.ppatibalā.vañjula.vajra.kadalī.mūla.kalkena maṇḍūka.vasā.siddhena tailena-abhyakta.pādo 'ṅgāreṣu gacchati | 27 |
-
-KAZ14.2.28ab upa.udakā pratibalā vañjulaḥ pāribhadrakaḥ |  
-KAZ14.2.28cd eteṣāṃ mūla.kalkena maṇḍūka.vasayā saha || 28 ||  
+कज़्१४।२।१०अब् अलोजुनेति यः कीटः श्वेता च गृह।गोलिका ।  
+कज़्१४।२।१०च्द् एतेन पिष्तेन-अभ्यक्ताः केशाः स्युः शङ्ख।पाण्डराः ॥ १० ॥  
 
 
-KAZ14.2.29ab sādhayet tailam etena pādāv abhyajya nirmalau |  
-KAZ14.2.29cd aṅgāra.rāśau vicared yathā kusuma.sañcaye || 29 ||  
+कज़्१४।२।११ गोमयेन तिन्दुक।अरिष्ट।कल्केन वा मर्दित।अङ्गस्य भल्लातक।रस।अनुलिप्तस्य मासिकः कुष्ठ।योगः । ११ ।
+
+कज़्१४।२।१२ कृष्ण।सर्प।मुखे गृह।गोलिका।मुखे वा सप्त।रात्र।उषिता गुज्जाः कुष्ठ।योगः । १२ ।
+
+कज़्१४।२।१३ शुक।पित्त।अण्ड।रस।अभ्यङ्गः कुष्ठ।योगः । १३ ।
+
+कज़्१४।२।१४ कुष्ठस्य।प्रियाल।कल्क।कषायः प्रतीकारः । १४ ।
+
+कज़्१४।२।१५ कुक्कुट।कोश।अतकी(?)।शतावरी।मूल।युक्तम् आहारयमाणो मासेन गौरो भवति । १५ ।
+
+कज़्१४।२।१६ वट।कषाय।स्नातः सह।चर।कल्क।दिग्धः कृष्णो भवति । १६ ।
+
+कज़्१४।२।१७ शकुन।कण्गु।तैल।युक्ता हरि।ताल।मनः।शिलाः श्यामी।करणम् । १७ ।
+
+कज़्१४।२।१८ ख।द्योत।चूर्णं सर्षप।तैल।युक्तं रात्रौ ज्वलति । १८ ।
+
+कज़्१४।२।१९ ख।द्योत।गण्डू।पद।चूर्णं समुद्र।जन्तूनां भृङ्ग।कपालानां खदिर।कर्णिकाराणां पुष्प।चूर्णं वा शकुन।कङ्गु।तैल।युक्तं तेजन।चूर्णम् । १९ ।
+
+कज़्१४।२।२० पारिभद्रक।त्वन्।मषी मण्डूक।वसया युक्ता गात्र।प्रज्वालनम् अग्निना । २० ।
+
+कज़्१४।२।२१ परिभद्रक।त्वक्।तिल।कल्क।प्रदिग्धं शरीरम् अग्निना ज्वलति । २१ ।
+
+कज़्१४।२।२२ पीलु।त्वन्।मषीमयः पिण्डो हस्ते ज्वलति । २२ ।
+
+कज़्१४।२।२३ मण्डूक।वसा।दिग्धो ऽग्निना ज्वलति । २३ ।
+
+कज़्१४।२।२४ तेन प्रदिग्धम् अङ्गं कुश।आम्र।फल।तैल।सिक्तं समुद्र।मण्डूकी।फेनक।सर्ज।रस।चूर्ण।युक्तं वा ज्वलति । २४ ।
+
+कज़्१४।२।२५ मण्डूक।कुलीर।आदीनां वसया सम।भागं तैलं सिद्धम् अभ्यङ्गं गात्राणाम् अग्नि।प्रज्वालनम् । २५ ।
+
+कज़्१४।२।२६ वेणु।मूल।शैवल।लिप्तम् अङ्गं मण्डूक।वसा।दिग्धम् अग्निना ज्वलति । २६ ।
+
+कज़्१४।२।२७ पारिभद्रक।प्पतिबला।वञ्जुल।वज्र।कदली।मूल।कल्केन मण्डूक।वसा।सिद्धेन तैलेन-अभ्यक्त।पादो ऽङ्गारेषु गच्छति । २७ ।
+
+कज़्१४।२।२८अब् उप।उदका प्रतिबला वञ्जुलः पारिभद्रकः ।  
+कज़्१४।२।२८च्द् एतेषां मूल।कल्केन मण्डूक।वसया सह ॥ २८ ॥  
 
 
-KAZ14.2.30 haṃsa.krauñca.mayūrāṇām anyeṣāṃ vā mahā.śakunīnām udaka.plavānāṃ puccheṣu baddhā nala.dīpikā rātrāv ulkā.darśanam | 30 |
-
-KAZ14.2.31 vaidyutaṃ bhasma.aṅgi.śamanam | 31 |
-
-KAZ14.2.32 strī.puṣpa.pāyitā māṣā vrajakulī.mūlaṃ maṇḍūka.vasā.miśraṃ culluyāṃ dīptāyām apācanam | 32 |
-
-KAZ14.2.33 cullī.śodhanaṃ pratīkāraḥ | 33 |
-
-KAZ14.2.34 pīlumayo maṇir agni.garbhaḥ suvarcalā.mūla.granthiḥ sūtra.granthir vā picu.pariveṣṭito mukhyād agni.dhūma.utsargaḥ | 34 |
-
-KAZ14.2.35 kuśa.āmra.phala.taila.sikto 'gnir varṣa.pravāteṣu jvalati | 35 |
-
-KAZ14.2.36 samudra.phenakas taila.yukto 'mbhasi plavamāno jvalati | 36 |
-
-KAZ14.2.37 plavamānānām asthiṣu kalmāṣa.veṇunā nirmathito 'gnir na-udakena śāmyati, udakena jvalati | 37 |
-
-KAZ14.2.38 śastra.hatasya śūla.protasya vā puruṣasya vāma.pārśva.parśuka.asthiṣu kalmāṣa.veṇunā nirmathito 'gniḥ striyāḥ puruṣasya vā-asthiṣu manuṣya.parśukayā nirmathito 'gnir yatra trir apasavyaṃ gacchati na ca-atra-anyo 'gnir jvalati | 38 |
-
-KAZ14.2.39ab cuccundarī khañjarīṭaḥ khāra.kīṭaś ca piṣyate |  
-KAZ14.2.39cd aśva.mūtreṇa saṃsṛṣṭā nigalānāṃ tu bhañjanam || 39 ||  
+कज़्१४।२।२९अब् साधयेत् तैलम् एतेन पादाव् अभ्यज्य निर्मलौ ।  
+कज़्१४।२।२९च्द् अङ्गार।राशौ विचरेद् यथा कुसुम।सञ्चये ॥ २९ ॥  
 
 
-KAZ14.2.40 ayas.kānto vā pāṣāṇaḥ kulīra.dardura.khāra.kīṭa.vasā.pradehena dvi.guṇaḥ | 40 |
+कज़्१४।२।३० हंस।क्रौञ्च।मयूराणाम् अन्येषां वा महा।शकुनीनाम् उदक।प्लवानां पुच्छेषु बद्धा नल।दीपिका रात्राव् उल्का।दर्शनम् । ३० ।
 
-KAZ14.2.41 nāraka.garbhaḥ kaṅka.bhāsa.pārśva.utpala.udaka.piṣṭaś catuṣ.pada.dvi.padānāṃ pāda.lepaḥ | 41 |
+कज़्१४।२।३१ वैद्युतं भस्म।अङ्गि।शमनम् । ३१ ।
 
-KAZ14.2.42 ulūka.gṛdhra.vasābhyām uṣṭra.carma.upānahāv abhyajya vaṭapattraiḥ praticchādya pañcāśad.yojanāny aśrānto gacchati | 42 |
+कज़्१४।२।३२ स्त्री।पुष्प।पायिता माषा व्रजकुली।मूलं मण्डूक।वसा।मिश्रं चुल्लुयां दीप्तायाम् अपाचनम् । ३२ ।
 
-KAZ14.2.43 śyena.kaṅka.kāka.gṛdhra.haṃsa.krauñca.vīcī.rallānāṃ majjāno retāṃsi vā yojana.śatāya, siṃha.vyāghra.dvīpa.kāka.ulūkānāṃ majjāno retāṃsi vā | 43 |
+कज़्१४।२।३३ चुल्ली।शोधनं प्रतीकारः । ३३ ।
 
-KAZ14.2.44 sārvavarṇikāni garbha.patanāny uṣṭrikāyām abhiṣūya śmaśāne preta.śiśūn vā tat.samutthitaṃ medo yojana.śatāya | 44 |
+कज़्१४।२।३४ पीलुमयो मणिर् अग्नि।गर्भः सुवर्चला।मूल।ग्रन्थिः सूत्र।ग्रन्थिर् वा पिचु।परिवेष्टितो मुख्याद् अग्नि।धूम।उत्सर्गः । ३४ ।
 
-KAZ14.2.45ab aniṣṭair adbhuta.utpātaiḥ parasya-udvegam ācaret |
+कज़्१४।२।३५ कुश।आम्र।फल।तैल।सिक्तो ऽग्निर् वर्ष।प्रवातेषु ज्वलति । ३५ ।
 
-KAZ14.2.45cd ārājyāya-iti nirvādaḥ samānaḥ kopa ucyate || 45 ||
+कज़्१४।२।३६ समुद्र।फेनकस् तैल।युक्तो ऽम्भसि प्लवमानो ज्वलति । ३६ ।
+
+कज़्१४।२।३७ प्लवमानानाम् अस्थिषु कल्माष।वेणुना निर्मथितो ऽग्निर् न-उदकेन शाम्यति, उदकेन ज्वलति । ३७ ।
+
+कज़्१४।२।३८ शस्त्र।हतस्य शूल।प्रोतस्य वा पुरुषस्य वाम।पार्श्व।पर्शुक।अस्थिषु कल्माष।वेणुना निर्मथितो ऽग्निः स्त्रियाः पुरुषस्य वा-अस्थिषु मनुष्य।पर्शुकया निर्मथितो ऽग्निर् यत्र त्रिर् अपसव्यं गच्छति न च-अत्र-अन्यो ऽग्निर् ज्वलति । ३८ ।
+
+कज़्१४।२।३९अब् चुच्चुन्दरी खञ्जरीटः खार।कीटश् च पिष्यते ।  
+कज़्१४।२।३९च्द् अश्व।मूत्रेण संसृष्टा निगलानां तु भञ्जनम् ॥ ३९ ॥  
+
+
+कज़्१४।२।४० अयस्।कान्तो वा पाषाणः कुलीर।दर्दुर।खार।कीट।वसा।प्रदेहेन द्वि।गुणः । ४० ।
+
+कज़्१४।२।४१ नारक।गर्भः कङ्क।भास।पार्श्व।उत्पल।उदक।पिष्टश् चतुष्।पद।द्वि।पदानां पाद।लेपः । ४१ ।
+
+कज़्१४।२।४२ उलूक।गृध्र।वसाभ्याम् उष्ट्र।चर्म।उपानहाव् अभ्यज्य वटपत्त्रैः प्रतिच्छाद्य पञ्चाशद्।योजनान्य् अश्रान्तो गच्छति । ४२ ।
+
+कज़्१४।२।४३ श्येन।कङ्क।काक।गृध्र।हंस।क्रौञ्च।वीची।रल्लानां मज्जानो रेतांसि वा योजन।शताय, सिंह।व्याघ्र।द्वीप।काक।उलूकानां मज्जानो रेतांसि वा । ४३ ।
+
+कज़्१४।२।४४ सार्ववर्णिकानि गर्भ।पतनान्य् उष्ट्रिकायाम् अभिषूय श्मशाने प्रेत।शिशून् वा तत्।समुत्थितं मेदो योजन।शताय । ४४ ।
+
+कज़्१४।२।४५अब् अनिष्टैर् अद्भुत।उत्पातैः परस्य-उद्वेगम् आचरेत् ।
+
+कज़्१४।२।४५च्द् आराज्याय-इति निर्वादः समानः कोप उच्यते ॥ ४५ ॥
 
  छप्तेर् ३ (सेच्तिओन् १७८): देचेइविन्ग् थ्रोउघ् ओच्चुल्त् प्रच्तिचेस् (चोन्त्।)
  \[क् त्र्। ५८३\] ,  \[क्२ त्र्। ५०३\] 
@@ -11809,42 +11808,42 @@ KAZ14.2.45cd ārājyāya-iti nirvādaḥ samānaḥ kopa ucyate || 45 ||
 कज़्१४।३।८८च्द् उपहन्याद् अमित्रांस् तैः स्व।जनं च-अभिपालयेत् ॥ ८८ ॥  
 
 
- Chapter 4 (Section 179): Counter-measures against Injuries to One's Own Troops
- \[K tr. 590\] ,  \[K2 tr. 510\] 
-KAZ14.4.01 sva.pakṣe para.prayuktānāṃ dūṣī.viṣa.garāṇāṃ pratīkāraḥ | 1 |
+ छप्तेर् ४ (सेच्तिओन् १७९): चोउन्तेर्-मेअसुरेस् अगैन्स्त् इन्जुरिएस् तो ओनेऽस् ओwन् त्रोओप्स्
+ \[क् त्र्। ५९०\] ,  \[क्२ त्र्। ५१०\] 
+कज़्१४।४।०१ स्व।पक्षे पर।प्रयुक्तानां दूषी।विष।गराणां प्रतीकारः । १ ।
 
-KAZ14.4.02 śleṣmātaka.kapittha.danti.danta.śaṭha.goji.śirīṣa.pāṭalī.balāsyonāga.- punar.navā.śveta.vāraṇa.kvātha.yuktaṃ(?) candana.sālā.vṛkī.lohita.yuktaṃ nejana.udakaṃ rāja.upabhogyānāṃ guhya.prakṣālanaṃ strīṇām, senāyāś ca viṣa.pratīkāraḥ | 2 |
+कज़्१४।४।०२ श्लेष्मातक।कपित्थ।दन्ति।दन्त।शठ।गोजि।शिरीष।पाटली।बलास्योनाग।- पुनर्।नवा।श्वेत।वारण।क्वाथ।युक्तं(?) चन्दन।साला।वृकी।लोहित।युक्तं नेजन।उदकं राज।उपभोग्यानां गुह्य।प्रक्षालनं स्त्रीणाम्, सेनायाश् च विष।प्रतीकारः । २ ।
 
-KAZ14.4.03 pṛṣata.nakula.nīla.kaṇṭha.godhā.pitta.yuktaṃ mahī.rājī.cūrṇaṃ sindu.vārita.varaṇa.vāruṇī.taṇḍulīyaka.śata.parva.agra.piṇḍītaka.yogo madana.doṣa.haraḥ | 3 |
+कज़्१४।४।०३ पृषत।नकुल।नील।कण्ठ।गोधा।पित्त।युक्तं मही।राजी।चूर्णं सिन्दु।वारित।वरण।वारुणी।तण्डुलीयक।शत।पर्व।अग्र।पिण्डीतक।योगो मदन।दोष।हरः । ३ ।
 
-KAZ14.4.04 sṛgāla.vinnā.madana.sindu.vārita.varaṇa.vāraṇa.valī.mūla.kaṣāyāṇām anyatamasya samastānāṃ vā kṣīra.yuktaṃ pānaṃ madana.doṣa.haram | 4 |
+कज़्१४।४।०४ सृगाल।विन्ना।मदन।सिन्दु।वारित।वरण।वारण।वली।मूल।कषायाणाम् अन्यतमस्य समस्तानां वा क्षीर।युक्तं पानं मदन।दोष।हरम् । ४ ।
 
-KAZ14.4.05 kaiḍarya.pūti.tila.tailam unmāda.haraṃ nastaḥ.karma | 5 |
+कज़्१४।४।०५ कैडर्य।पूति।तिल।तैलम् उन्माद।हरं नस्तः।कर्म । ५ ।
 
-KAZ14.4.06 priyaṅgu.nakta.māla.yogaḥ kuṣṭha.haraḥ | 6 |
+कज़्१४।४।०६ प्रियङ्गु।नक्त।माल।योगः कुष्ठ।हरः । ६ ।
 
-KAZ14.4.07 kuṣṭha.lodhra.yogaḥ pāka.śoṣaghnaḥ | 7 |
+कज़्१४।४।०७ कुष्ठ।लोध्र।योगः पाक।शोषघ्नः । ७ ।
 
-KAZ14.4.08 kaṭa.phala.dravantī.vilaṅga.cūrṇaṃ nastaḥ.karma śiro.roga.haram | 8 |
+कज़्१४।४।०८ कट।फल।द्रवन्ती।विलङ्ग।चूर्णं नस्तः।कर्म शिरो।रोग।हरम् । ८ ।
 
-KAZ14.4.09 priyaṅgu.mañjiṣṭhāta.garalā.kṣāra.samadhuka.haridrā.kṣaudra.yogo rajju.udaka.viṣa.prahāra.patana.nihsañjñānāṃ punaḥ.pratyānayanāya | 9 |
+कज़्१४।४।०९ प्रियङ्गु।मञ्जिष्ठात।गरला।क्षार।समधुक।हरिद्रा।क्षौद्र।योगो रज्जु।उदक।विष।प्रहार।पतन।निह्सञ्ज्ञानां पुनः।प्रत्यानयनाय । ९ ।
 
-KAZ14.4.10 manuṣyāṇām akṣa.mātram, gava.aśvānāṃ dvi.guṇam, catur.guṇaṃ hasty.uṣṭrāṇām | 10 |
+कज़्१४।४।१० मनुष्याणाम् अक्ष।मात्रम्, गव।अश्वानां द्वि।गुणम्, चतुर्।गुणं हस्त्य्।उष्ट्राणाम् । १० ।
 
-KAZ14.4.11 rukma.garbhaś ca-eṣāṃ maṇiḥ sarva.viṣa.haraḥ | 11 |
+कज़्१४।४।११ रुक्म।गर्भश् च-एषां मणिः सर्व।विष।हरः । ११ ।
 
-KAZ14.4.12 jīvantī.śvetā.muṣkaka.puṣpa.vandākānām akṣīve jātasya-aśvatthasya maṇiḥ sarva.viṣa.haraḥ | 12 |
+कज़्१४।४।१२ जीवन्ती।श्वेता।मुष्कक।पुष्प।वन्दाकानाम् अक्षीवे जातस्य-अश्वत्थस्य मणिः सर्व।विष।हरः । १२ ।
 
-KAZ14.4.13ab tūryāṇāṃ taiḥ praliptānāṃ śabdo viṣa.vināśanaḥ |  
-KAZ14.4.13cd lipta.dhvajaṃ patākāṃ vā dṛṣṭvā bhavati nirviṣaḥ || 13 ||  
-
-
-KAZ14.4.14ab etaiḥ kṛtvā pratīkāraṃ sva.sainyānām atha-ātmanaḥ |  
-KAZ14.4.14cd amitreṣu prayuñjīta viṣa.dhūma.ambu.dūṣaṇān || 14 ||  
+कज़्१४।४।१३अब् तूर्याणां तैः प्रलिप्तानां शब्दो विष।विनाशनः ।  
+कज़्१४।४।१३च्द् लिप्त।ध्वजं पताकां वा दृष्ट्वा भवति निर्विषः ॥ १३ ॥  
 
 
-# Book 15: The Method of the Science
- \[K tr. 593-597\] ,  \[K2 tr. 512-516\] 
+कज़्१४।४।१४अब् एतैः कृत्वा प्रतीकारं स्व।सैन्यानाम् अथ-आत्मनः ।  
+कज़्१४।४।१४च्द् अमित्रेषु प्रयुञ्जीत विष।धूम।अम्बु।दूषणान् ॥ १४ ॥  
+
+
+# बोओक् १५: थे मेथोद् ओड़् थे स्चिएन्चे
+ \[क् त्र्। ५९३-५९७\] ,  \[क्२ त्र्। ५१२-५१६\] 
  छप्तेर् १ (सेच्तिओन् १८०): देविचेस् उसेद् इन् थे स्चिएन्चे
  \[क् त्र्। ५९३\] ,  \[क्२ त्र्। ५१२\] 
 कज़्१५।१।०१ मनुष्याणां वृत्तिर् अर्थः, मनुष्यवती भूमिर् इत्य् अर्थः । १ ।

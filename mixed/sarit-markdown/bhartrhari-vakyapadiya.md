@@ -1,6 +1,5 @@
 ---
 
-
 ---
 # ब्रह्मकाण्ड
 
@@ -2704,449 +2703,449 @@
 
 # पदकाण्डम्
 
- 3.1. jātisamuddeśaḥ
+ ३।१। जातिसमुद्देशः
 
-3.1.1 dvidhā kaiś cit padaṃ bhinnaṃ caturdhā pañcadhāpi vā  
-apoddhṛtyaiva vākyebhyaḥ prakṛtipratyayādivat  
+३।१।१ द्विधा कैश् चित् पदं भिन्नं चतुर्धा पञ्चधापि वा  
+अपोद्धृत्यैव वाक्येभ्यः प्रकृतिप्रत्ययादिवत्  
 
 
-3.1.2 padārthānām apoddhāre jātir vā dravyam eva vā  
-padārthau sarvaśabdānāṃ nityāv evopavarṇitau  
+३।१।२ पदार्थानाम् अपोद्धारे जातिर् वा द्रव्यम् एव वा  
+पदार्थौ सर्वशब्दानां नित्याव् एवोपवर्णितौ  
 
 
-3.1.3 keṣāṃ cit sāhacaryeṇa jātiḥ śaktyupalakṣaṇam  
-khadirādiṣv aśakteṣu śaktaḥ pratinidhīyate  
+३।१।३ केषां चित् साहचर्येण जातिः शक्त्युपलक्षणम्  
+खदिरादिष्व् अशक्तेषु शक्तः प्रतिनिधीयते  
 
 
-3.1.4 asvātantryaphalo bandhiḥ pramāṇādīva śiṣyate  
-ato jātyabhidhāne+api śaktihīnaṃ na gṛhyate  
+३।१।४ अस्वातन्त्र्यफलो बन्धिः प्रमाणादीव शिष्यते  
+अतो जात्यभिधाने+अपि शक्तिहीनं न गृह्यते  
 
 
-3.1.5 saṃśleṣamātraṃ badhnātir yadi syāt tu vivakṣitaḥ  
-śaktyāśraye tato liṅgaṃ pramāṇādyanuśāsanam  
+३।१।५ संश्लेषमात्रं बध्नातिर् यदि स्यात् तु विवक्षितः  
+शक्त्याश्रये ततो लिङ्गं प्रमाणाद्यनुशासनम्  
 
 
-3.1.6 svajātiḥ prathamaṃ śabdaiḥ sarvair evābhidhīyate  
-tato+arthajātirūpeṣu tadadhyāropakalpanā  
+३।१।६ स्वजातिः प्रथमं शब्दैः सर्वैर् एवाभिधीयते  
+ततो+अर्थजातिरूपेषु तदध्यारोपकल्पना  
 
 
-3.1.7 yathā rakte guṇe tattvaṃ kaṣāye vyapadiśyate  
-saṃyogisaṃnikarṣāc ca vastrādiṣv api gṛhyate  
+३।१।७ यथा रक्ते गुणे तत्त्वं कषाये व्यपदिश्यते  
+संयोगिसंनिकर्षाच् च वस्त्रादिष्व् अपि गृह्यते  
 
 
-3.1.8 tathā śabdārthasaṃbandhāc chabde jātir avasthitā  
-vyapadeśe+arthajātīnāṃ jātikāryāya kalpate  
+३।१।८ तथा शब्दार्थसंबन्धाच् छब्दे जातिर् अवस्थिता  
+व्यपदेशे+अर्थजातीनां जातिकार्याय कल्पते  
 
 
-3.1.9 jātjśabdaikaśeṣe sā jātīnāṃ jātir iṣyate  
-śabdajātaya ity atra tajjātiḥ śabdajātiṣu  
+३।१।९ जात्ज्शब्दैकशेषे सा जातीनां जातिर् इष्यते  
+शब्दजातय इत्य् अत्र तज्जातिः शब्दजातिषु  
 
 
-3.1.10 yā śabdajātiśabdeṣu śabdebhyo bhinnalakṣaṇā  
-jātiḥ sā śabdajātitvam avyatikramya vartate  
+३।१।१० या शब्दजातिशब्देषु शब्देभ्यो भिन्नलक्षणा  
+जातिः सा शब्दजातित्वम् अव्यतिक्रम्य वर्तते  
 
 
-3.1.11 arthajātyabhidhāne+api sarve jātyabhidhāyinaḥ  
-vyāpāralakṣaṇā yasmāt padārthāḥ samavasthitāḥ  
+३।१।११ अर्थजात्यभिधाने+अपि सर्वे जात्यभिधायिनः  
+व्यापारलक्षणा यस्मात् पदार्थाः समवस्थिताः  
 
 
-3.1.12 jātau padārthe jātir vā viseṣo vāpi jātivat  
-śabdair apekṣyate yasmād atas te jātivācinaḥ  
+३।१।१२ जातौ पदार्थे जातिर् वा विसेषो वापि जातिवत्  
+शब्दैर् अपेक्ष्यते यस्माद् अतस् ते जातिवाचिनः  
 
 
-3.1.13 dravyadharmā padārthe tu dravye sarvo+artha ucyate  
-dravyadharmāśrayād dravyam ataḥ sarvo+artha iṣyate  
+३।१।१३ द्रव्यधर्मा पदार्थे तु द्रव्ये सर्वो+अर्थ उच्यते  
+द्रव्यधर्माश्रयाद् द्रव्यम् अतः सर्वो+अर्थ इष्यते  
 
 
-3.1.14 anupravṛttidharmo vā jātiḥ syāt sarvajātiṣu  
-vyāvṛttidharmasāmānyaṃ viśeṣe jātir iṣyate  
+३।१।१४ अनुप्रवृत्तिधर्मो वा जातिः स्यात् सर्वजातिषु  
+व्यावृत्तिधर्मसामान्यं विशेषे जातिर् इष्यते  
 
 
-3.1.15 saṃyogidharmabhedena deśe ca parikalpite  
-teṣu deśeṣu sāmānyam ākāśasyāpi vidyate  
+३।१।१५ संयोगिधर्मभेदेन देशे च परिकल्पिते  
+तेषु देशेषु सामान्यम् आकाशस्यापि विद्यते  
 
 
-3.1.16 adeśānāṃ ghaṭādīnāṃ deśāḥ saṃbandhino yathā  
-ākāśasyāpy adeśasya deśāḥ saṃyoginas tathā  
+३।१।१६ अदेशानां घटादीनां देशाः संबन्धिनो यथा  
+आकाशस्याप्य् अदेशस्य देशाः संयोगिनस् तथा  
 
 
-3.1.17 bhinnavastvāśrayā buddhiḥ saṃyogiṣv anuvartate  
-samavāyiṣu bhedasya grahaṇaṃ vinivartate  
+३।१।१७ भिन्नवस्त्वाश्रया बुद्धिः संयोगिष्व् अनुवर्तते  
+समवायिषु भेदस्य ग्रहणं विनिवर्तते  
 
 
-3.1.18 ataḥ saṃyogideśānāṃ gauṇatvaṃ parikalpyate  
-avivekāt pradeśebhyo mukhyatvaṃ samavāyinām  
+३।१।१८ अतः संयोगिदेशानां गौणत्वं परिकल्प्यते  
+अविवेकात् प्रदेशेभ्यो मुख्यत्वं समवायिनाम्  
 
 
-3.1.19 anupravṛttirūpā yā prakhyā tām ākṛtiṃ viduḥ  
-ke cid vyāvṛttirūpāṃ tu dravyatvena pracakṣate  
+३।१।१९ अनुप्रवृत्तिरूपा या प्रख्या ताम् आकृतिं विदुः  
+के चिद् व्यावृत्तिरूपां तु द्रव्यत्वेन प्रचक्षते  
 
 
-3.1.20 bhinnā iti paropādhir abhinnā iti vā punaḥ  
-bhāvātmasu prapañco+ayaṃ saṃsṛṣṭeṣv eva jāyate  
+३।१।२० भिन्ना इति परोपाधिर् अभिन्ना इति वा पुनः  
+भावात्मसु प्रपञ्चो+अयं संसृष्टेष्व् एव जायते  
 
 
-3.1.21 naikatvaṃ nāpi nānātvaṃ na sattvaṃ na ca nāstitā  
-ātmatattveṣu bhāvānām asaṃsṛṣṭeṣu vidyate  
+३।१।२१ नैकत्वं नापि नानात्वं न सत्त्वं न च नास्तिता  
+आत्मतत्त्वेषु भावानाम् असंसृष्टेषु विद्यते  
 
 
-3.1.22 sarvaśaktyātmabhūtatvam ekasyaiveti nirṇaye  
-bhāvānām ātmabhedasya kalpanā syād anarthikā  
+३।१।२२ सर्वशक्त्यात्मभूतत्वम् एकस्यैवेति निर्णये  
+भावानाम् आत्मभेदस्य कल्पना स्याद् अनर्थिका  
 
 
-3.1.23 tasmād dravyādayaḥ sarvāḥ śaktayo bhinnalakṣaṇāḥ  
-saṃsṛṣṭāḥ puruṣārthasya sādhikā na tu kevalāḥ  
+३।१।२३ तस्माद् द्रव्यादयः सर्वाः शक्तयो भिन्नलक्षणाः  
+संसृष्टाः पुरुषार्थस्य साधिका न तु केवलाः  
 
 
-3.1.24 yathaiva cendriyādīnām ātmabhūtā samagratā  
-tathā saṃbandhisaṃbandha- saṃsarge+api pratīyate  
+३।१।२४ यथैव चेन्द्रियादीनाम् आत्मभूता समग्रता  
+तथा संबन्धिसंबन्ध- संसर्गे+अपि प्रतीयते  
 
 
-3.1.25 na tad utpadyate kiṃ cid yasya jātir na vidyate  
-ātmābhivyaktaye jātiḥ kāraṇānāṃ prayojikā  
+३।१।२५ न तद् उत्पद्यते किं चिद् यस्य जातिर् न विद्यते  
+आत्माभिव्यक्तये जातिः कारणानां प्रयोजिका  
 
 
-3.1.26 kāraṇeṣu padaṃ kṛtvā nityānityeṣu jātayaḥ  
-kva cit kāryeṣv abhivyaktim upayānti punaḥ punaḥ  
+३।१।२६ कारणेषु पदं कृत्वा नित्यानित्येषु जातयः  
+क्व चित् कार्येष्व् अभिव्यक्तिम् उपयान्ति पुनः पुनः  
 
 
-3.1.27 nirvartyamānaṃ yat karma jātis tatrāpi sādhanam  
-svāśrayasyābhinicpattyai sā kriyāyāḥ prayojikā  
+३।१।२७ निर्वर्त्यमानं यत् कर्म जातिस् तत्रापि साधनम्  
+स्वाश्रयस्याभिनिच्पत्त्यै सा क्रियायाः प्रयोजिका  
 
 
-3.1.28 vidhau vā pratiṣedhe vā brāhmaṇatvādi sādhanam  
-vyaktyāśritāśritā jāteḥ saṃkhyājātir viśeṣikā  
+३।१।२८ विधौ वा प्रतिषेधे वा ब्राह्मणत्वादि साधनम्  
+व्यक्त्याश्रिताश्रिता जातेः संख्याजातिर् विशेषिका  
 
 
-3.1.29 yathā jalādibhir vyaktaṃ mukham evābhidhīyate  
-tathā dravyair abhivyaktā jātir evābhidhīyate  
+३।१।२९ यथा जलादिभिर् व्यक्तं मुखम् एवाभिधीयते  
+तथा द्रव्यैर् अभिव्यक्ता जातिर् एवाभिधीयते  
 
 
-3.1.30 yathendriyagato bheda indriyagrahaṇād ṛte  
-indriyārtheṣvadṛśyo+api jñānabhedāya kalpate  
+३।१।३० यथेन्द्रियगतो भेद इन्द्रियग्रहणाद् ऋते  
+इन्द्रियार्थेष्वदृश्यो+अपि ज्ञानभेदाय कल्पते  
 
 
-3.1.31 tathātmarūpagrahaṇāt keṣāṃ cid vyaktayo vinā  
-sāmānyajñānabhedānām upayānti nimittatām  
+३।१।३१ तथात्मरूपग्रहणात् केषां चिद् व्यक्तयो विना  
+सामान्यज्ञानभेदानाम् उपयान्ति निमित्तताम्  
 
 
-3.1.32 satyāsatyau tu yau bhāgau pratibhāvaṃ vyavasthitau  
-satyaṃ yat tatra sā jātir asatyā vyaktayaḥ smṛtāḥ  
+३।१।३२ सत्यासत्यौ तु यौ भागौ प्रतिभावं व्यवस्थितौ  
+सत्यं यत् तत्र सा जातिर् असत्या व्यक्तयः स्मृताः  
 
 
-3.1.33 saṃbandhibhedāt sattaiva bhidyamānā gavādiṣu  
-jātir ity ucyate tasyāṃ sarve śabdā vyavasthitāḥ  
+३।१।३३ संबन्धिभेदात् सत्तैव भिद्यमाना गवादिषु  
+जातिर् इत्य् उच्यते तस्यां सर्वे शब्दा व्यवस्थिताः  
 
 
-3.1.34 tāṃ prātipadikārthaṃ ca dhātvarthaṃ ca pracakṣate  
-sā nityā sā mahān ātmā tām āhus tvatalādayaḥ  
+३।१।३४ तां प्रातिपदिकार्थं च धात्वर्थं च प्रचक्षते  
+सा नित्या सा महान् आत्मा ताम् आहुस् त्वतलादयः  
 
 
-3.1.35 prāptakramā viśeṣeṣu kriyā saivābhidhīyate  
-kramarūpasya saṃhāre tat sattvam iti kathyate  
+३।१।३५ प्राप्तक्रमा विशेषेषु क्रिया सैवाभिधीयते  
+क्रमरूपस्य संहारे तत् सत्त्वम् इति कथ्यते  
 
 
-3.1.36 saiva bhāvavikāreu ṣaḍ avasthāḥ prapadyate  
-krameṇa śaktibhiḥ svābhir evaṃ pratyavabhāsate  
+३।१।३६ सैव भावविकारेउ षड् अवस्थाः प्रपद्यते  
+क्रमेण शक्तिभिः स्वाभिर् एवं प्रत्यवभासते  
 
 
-3.1.37 ātmabhūtaḥ kramo+apy asyā yatredaṃ kāladarśanam  
-paurvāparyādirūpeṇa pravibhaktam iva sthitam  
+३।१।३७ आत्मभूतः क्रमो+अप्य् अस्या यत्रेदं कालदर्शनम्  
+पौर्वापर्यादिरूपेण प्रविभक्तम् इव स्थितम्  
 
 
-3.1.38 tirobhāvābhyupagame bhāvānāṃ saiva nāstitā  
-labdhakrame tirobhāve naśyatīti pratīyate  
+३।१।३८ तिरोभावाभ्युपगमे भावानां सैव नास्तिता  
+लब्धक्रमे तिरोभावे नश्यतीति प्रतीयते  
 
 
-3.1.39 pūrvasmāt pracyutā dharmād aprāptā cottaraṃ padam  
-tadantarāle bhedānām āśrayāj janma kathyate  
+३।१।३९ पूर्वस्मात् प्रच्युता धर्माद् अप्राप्ता चोत्तरं पदम्  
+तदन्तराले भेदानाम् आश्रयाज् जन्म कथ्यते  
 
 
-3.1.40 āśrayaḥ svātmamātrā vā bhāvā vā vyatirekiṇaḥ  
-svaśaktayo vā sattāyā bhedadarśanahetavaḥ  
+३।१।४० आश्रयः स्वात्ममात्रा वा भावा वा व्यतिरेकिणः  
+स्वशक्तयो वा सत्ताया भेददर्शनहेतवः  
 
 
-3.1.41 pṛthivyādiṣv abhivyaktau na saṃsthānam apekṣate  
-anucchinnāśrayāj jātir anitye+apy āśraye sthitā  
+३।१।४१ पृथिव्यादिष्व् अभिव्यक्तौ न संस्थानम् अपेक्षते  
+अनुच्छिन्नाश्रयाज् जातिर् अनित्ये+अप्य् आश्रये स्थिता  
 
 
-3.1.42 anucchedyāśrayām eke sarvāṃ jātiṃ pracakṣate  
-na yaugapadyaṃ pralaye sarvasyeti vyavasthitāḥ  
+३।१।४२ अनुच्छेद्याश्रयाम् एके सर्वां जातिं प्रचक्षते  
+न यौगपद्यं प्रलये सर्वस्येति व्यवस्थिताः  
 
 
-3.1.43 prakṛtau pravilīneṣu bhedeṣv ekatvadarśinām  
-dravyasattvaṃ prapadyante svāśrayā eva jātayaḥ  
+३।१।४३ प्रकृतौ प्रविलीनेषु भेदेष्व् एकत्वदर्शिनाम्  
+द्रव्यसत्त्वं प्रपद्यन्ते स्वाश्रया एव जातयः  
 
 
-3.1.44 brāhmaṇatvādayo bhāvāḥ sarvaprāṇiṣv avasthitāḥ  
-abhivyaktāḥ svakāryāṇāṃ sādhakā ity api smṛtiḥ  
+३।१।४४ ब्राह्मणत्वादयो भावाः सर्वप्राणिष्व् अवस्थिताः  
+अभिव्यक्ताः स्वकार्याणां साधका इत्य् अपि स्मृतिः  
 
 
-3.1.45 citrādiṣv apy abhivyaktir jātīnāṃ kaiś cid iṣyate  
-prāṇyāśritās tu tāḥ prāptau nimittaṃ puṇyapāpayoḥ  
+३।१।४५ चित्रादिष्व् अप्य् अभिव्यक्तिर् जातीनां कैश् चिद् इष्यते  
+प्राण्याश्रितास् तु ताः प्राप्तौ निमित्तं पुण्यपापयोः  
 
 
-3.1.46 jñānaṃ tv asmadviśiṣṭānāṃ tāsu sarvendriyaṃ viduḥ  
-abhyāsān maṇirūpyādi- viśeṣeṣv iva tadvidām  
+३।१।४६ ज्ञानं त्व् अस्मद्विशिष्टानां तासु सर्वेन्द्रियं विदुः  
+अभ्यासान् मणिरूप्यादि- विशेषेष्व् इव तद्विदाम्  
 
 
-3.1.47 jātyutpalādigandhādau bhedatattvaṃ yad āśritam  
-tad bhāvapratyayair loke +anityatvān nābhidhīyate  
+३।१।४७ जात्युत्पलादिगन्धादौ भेदतत्त्वं यद् आश्रितम्  
+तद् भावप्रत्ययैर् लोके +अनित्यत्वान् नाभिधीयते  
 
 
-3.1.48 asvaśabdābhidhānās tu narasiṃhādijātayaḥ  
-sarūpāvayavevānyā tāsu śrutir avasthitā  
+३।१।४८ अस्वशब्दाभिधानास् तु नरसिंहादिजातयः  
+सरूपावयवेवान्या तासु श्रुतिर् अवस्थिता  
 
 
-3.1.49 jātyavasthāparicchede saṃkhyā saṃkhyātvam eva vā  
-viprakarṣe+api saṃsargād upakārāya kalpate  
+३।१।४९ जात्यवस्थापरिच्छेदे संख्या संख्यात्वम् एव वा  
+विप्रकर्षे+अपि संसर्गाद् उपकाराय कल्पते  
 
 
-3.1.50 lakṣaṇā śabdasaṃskāre vyāpāraḥ kāryasiddhaye  
-saṃkhyākarmādiśaktīnāṃ śrutisāmye+api dṛśyate  
+३।१।५० लक्षणा शब्दसंस्कारे व्यापारः कार्यसिद्धये  
+संख्याकर्मादिशक्तीनां श्रुतिसाम्ये+अपि दृश्यते  
 
 
-3.1.51 na vinā saṃkhyayā kaś cit sattvabhūto+artha ucyate  
-ataḥ sarvasya nirdeśe saṃkhyā syād avivakṣitā  
+३।१।५१ न विना संख्यया कश् चित् सत्त्वभूतो+अर्थ उच्यते  
+अतः सर्वस्य निर्देशे संख्या स्याद् अविवक्षिता  
 
 
-3.1.52 ekatvaṃ vā bahutvaṃ vā keṣāṃ cid avivakṣitam  
-tad dhi jātyabhidhānāya dvitvaṃ tu syād vivakṣitam  
+३।१।५२ एकत्वं वा बहुत्वं वा केषां चिद् अविवक्षितम्  
+तद् धि जात्यभिधानाय द्वित्वं तु स्याद् विवक्षितम्  
 
 
-3.1.53 yady etau vyādhitau syātāṃ deyaṃ syād idam auṣadham  
-ity evaṃ lakṣaṇe+arthasya dvitvaṃ syād avivakṣitam  
+३।१।५३ यद्य् एतौ व्याधितौ स्यातां देयं स्याद् इदम् औषधम्  
+इत्य् एवं लक्षणे+अर्थस्य द्वित्वं स्याद् अविवक्षितम्  
 
 
-3.1.54 ekādiśabdavācyāyāḥ karmasv aṅgatvam iṣyate  
-saṃkhyāyāḥ khanati dvābhyām iti rūpād dhi sāśritā  
+३।१।५४ एकादिशब्दवाच्यायाः कर्मस्व् अङ्गत्वम् इष्यते  
+संख्यायाः खनति द्वाभ्याम् इति रूपाद् धि साश्रिता  
 
 
-3.1.55 yajeta paśunety atra saṃskārasyāpi saṃbhave  
-yathā jātis tathaikatvaṃ sādhanatvena gamyate  
+३।१।५५ यजेत पशुनेत्य् अत्र संस्कारस्यापि संभवे  
+यथा जातिस् तथैकत्वं साधनत्वेन गम्यते  
 
 
-3.1.56 liṅgāt tu syād dvitīyādes tad ekatvaṃ vivakṣitam  
-ekārthaviṣayatve ca talliṅgaṃ jātisaṃkhyayoḥ  
+३।१।५६ लिङ्गात् तु स्याद् द्वितीयादेस् तद् एकत्वं विवक्षितम्  
+एकार्थविषयत्वे च तल्लिङ्गं जातिसंख्ययोः  
 
 
-3.1.57 anyatrāvihitasyaiva sa vidhiḥ prathamaṃ paśoḥ  
-kriyāyām aṅgabhāvaś ca tat tv etasmād vivakṣitam  
+३।१।५७ अन्यत्राविहितस्यैव स विधिः प्रथमं पशोः  
+क्रियायाम् अङ्गभावश् च तत् त्व् एतस्माद् विवक्षितम्  
 
 
-3.1.58 grahās tv anyatra vihitā bhinnasaṃkhyāḥ pṛthak pṛthak  
-prājāpatyā navety evam- ādibhedasamanvitāḥ  
+३।१।५८ ग्रहास् त्व् अन्यत्र विहिता भिन्नसंख्याः पृथक् पृथक्  
+प्राजापत्या नवेत्य् एवम्- आदिभेदसमन्विताः  
 
 
-3.1.59 aṅgatvena pratītānāṃ saṃmārge tv aṅgināṃ punaḥ  
-nirdeśaṃ prati yā saṃkhyā sā kathaṃ syād vivakṣitā  
+३।१।५९ अङ्गत्वेन प्रतीतानां संमार्गे त्व् अङ्गिनां पुनः  
+निर्देशं प्रति या संख्या सा कथं स्याद् विवक्षिता  
 
 
-3.1.60 nānyatra vidhir astīti saṃskāro nāpi cāṅgitā  
-hetuḥ saṃkhyāvivakṣāyā yatnāt sā hi vivakṣitā  
+३।१।६० नान्यत्र विधिर् अस्तीति संस्कारो नापि चाङ्गिता  
+हेतुः संख्याविवक्षाया यत्नात् सा हि विवक्षिता  
 
 
-3.1.61 saṃmārjane viśeṣaś ca na grahe kva cid āśritaḥ  
-vihītās te ca saṃskāryāḥ sarveṣām āśrayas tataḥ  
+३।१।६१ संमार्जने विशेषश् च न ग्रहे क्व चिद् आश्रितः  
+विहीतास् ते च संस्कार्याः सर्वेषाम् आश्रयस् ततः  
 
 
-3.1.62 pratyāśrayaṃ samāptāyāṃ jātāv ekena cet kriyā  
-paśunā na prakalpeta tat syād eva prakalpanam  
+३।१।६२ प्रत्याश्रयं समाप्तायां जाताव् एकेन चेत् क्रिया  
+पशुना न प्रकल्पेत तत् स्याद् एव प्रकल्पनम्  
 
 
-3.1.63 ekena ca prasiddhāyāṃ kriyāyāṃ yadi saṃbhavāt  
-paśvantaram upādeyam upādānam anarthakam  
+३।१।६३ एकेन च प्रसिद्धायां क्रियायां यदि संभवात्  
+पश्वन्तरम् उपादेयम् उपादानम् अनर्थकम्  
 
 
-3.1.64 yathaivāhitagarbhāyāṃ garbhādhānam anarthakam  
-tathaikena prasiddhāyāṃ paśvantaram anarthakam  
+३।१।६४ यथैवाहितगर्भायां गर्भाधानम् अनर्थकम्  
+तथैकेन प्रसिद्धायां पश्वन्तरम् अनर्थकम्  
 
 
-3.1.65 tāvatārthasya siddhatvād ekatvasyāvyatikramam  
-ke cid icchanti na tv atra saṃkhyāṅgatvena gṛhyate  
+३।१।६५ तावतार्थस्य सिद्धत्वाद् एकत्वस्याव्यतिक्रमम्  
+के चिद् इच्छन्ति न त्व् अत्र संख्याङ्गत्वेन गृह्यते  
 
 
-3.1.66 dvitīyādi tu yal liṅgam uktanyāyānuvādi tat  
-nasaṃkhyā sādhanatvena jātivat tena gamyate  
+३।१।६६ द्वितीयादि तु यल् लिङ्गम् उक्तन्यायानुवादि तत्  
+नसंख्या साधनत्वेन जातिवत् तेन गम्यते  
 
 
-3.1.67 anvayavyatirekābhyāṃ saṃkhyābhyupagame sati  
-yuktaṃ yat sādhanatvaṃ syān na tv anyārthopalakṣaṇam  
+३।१।६७ अन्वयव्यतिरेकाभ्यां संख्याभ्युपगमे सति  
+युक्तं यत् साधनत्वं स्यान् न त्व् अन्यार्थोपलक्षणम्  
 
 
-3.1.68 sādhanatve padārthasya sāmarthyaṃ na prahīyate  
-saṃkhyāvyāpāradharmo+atas tena liṅgena gamyate  
+३।१।६८ साधनत्वे पदार्थस्य सामर्थ्यं न प्रहीयते  
+संख्याव्यापारधर्मो+अतस् तेन लिङ्गेन गम्यते  
 
 
-3.1.69 apūrvasya vidheyatvāt prādhānyam avasīyate  
-vihitasya parārthatvāc cheṣabhāvaḥ pratīyate  
+३।१।६९ अपूर्वस्य विधेयत्वात् प्राधान्यम् अवसीयते  
+विहितस्य परार्थत्वाच् छेषभावः प्रतीयते  
 
 
-3.1.70 saṃmārgasya vidheyatvād anyatra vihite grahe  
-vidhivākye śrutā saṃkhyā lakṣaṇāyāṃ na bādhyate  
+३।१।७० संमार्गस्य विधेयत्वाद् अन्यत्र विहिते ग्रहे  
+विधिवाक्ये श्रुता संख्या लक्षणायां न बाध्यते  
 
 
-3.1.71 vidhivākyāntare saṃkhyā paśor nāsti virodhinī  
-tasmāt saguṇa evāsau sahaikatvena gamyate  
+३।१।७१ विधिवाक्यान्तरे संख्या पशोर् नास्ति विरोधिनी  
+तस्मात् सगुण एवासौ सहैकत्वेन गम्यते  
 
 
-3.1.72 nirjñātadravyasaṃbandhe yaḥ karmaṇy upadiśyate  
-guṇas tenārthitā tasya dravyeṇeva pratīyate  
+३।१।७२ निर्ज्ञातद्रव्यसंबन्धे यः कर्मण्य् उपदिश्यते  
+गुणस् तेनार्थिता तस्य द्रव्येणेव प्रतीयते  
 
 
-3.1.73 kaś cid eva guṇo dravye yathā sāmarthyalakṣaṇaḥ  
-ādhāro+api guṇasyaivaṃ prāptaḥ sāmarthyalakṣaṇaḥ  
+३।१।७३ कश् चिद् एव गुणो द्रव्ये यथा सामर्थ्यलक्षणः  
+आधारो+अपि गुणस्यैवं प्राप्तः सामर्थ्यलक्षणः  
 
 
-3.1.74 tayos tu pṛthagarthitve saṃbandho yaḥ pratīyate  
-na tasminn upaghāto+asti kalpyam anyan na cāśrutam  
+३।१।७४ तयोस् तु पृथगर्थित्वे संबन्धो यः प्रतीयते  
+न तस्मिन्न् उपघातो+अस्ति कल्प्यम् अन्यन् न चाश्रुतम्  
 
 
-3.1.75 kriyayā yo+abhisaṃbandhaḥ sa śrutiprāpitas tayoḥ  
-āśrayāśrayiṇor vākyān niyamas tv avatiṣṭhate  
+३।१।७५ क्रियया यो+अभिसंबन्धः स श्रुतिप्रापितस् तयोः  
+आश्रयाश्रयिणोर् वाक्यान् नियमस् त्व् अवतिष्ठते  
 
 
-3.1.76 tatra dravyaguṇābhāve pratyekaṃ syād vikalpanam  
-śrutiprāpto hi saṃbandho balavān vākyalakṣaṇāt  
+३।१।७६ तत्र द्रव्यगुणाभावे प्रत्येकं स्याद् विकल्पनम्  
+श्रुतिप्राप्तो हि संबन्धो बलवान् वाक्यलक्षणात्  
 
 
-3.1.77 yadā tu jātiḥ śaktir vā kriyāṃ praty upadiśyate  
-sāmarthyāt saṃnidhīyete tatra dravyaguṇau tadā  
+३।१।७७ यदा तु जातिः शक्तिर् वा क्रियां प्रत्य् उपदिश्यते  
+सामर्थ्यात् संनिधीयेते तत्र द्रव्यगुणौ तदा  
 
 
-3.1.78 jātīnāṃ ca guṇānāṃ ca tulye+aṅgatve kriyāṃ prati  
-guṇāḥ pratinidhīyante chāgādīnāṃ na jātayaḥ  
+३।१।७८ जातीनां च गुणानां च तुल्ये+अङ्गत्वे क्रियां प्रति  
+गुणाः प्रतिनिधीयन्ते छागादीनां न जातयः  
 
 
-3.1.79 vyaktiśakteḥ samāsannā jātayo na tathā guṇāḥ  
-sākṣād dravyaṃ kriyāyogi guṇas tasmād vikalpate  
+३।१।७९ व्यक्तिशक्तेः समासन्ना जातयो न तथा गुणाः  
+साक्षाद् द्रव्यं क्रियायोगि गुणस् तस्माद् विकल्पते  
 
 
-3.1.80 sāmyenānyatarābhāve vikalpaḥ kaiś cid iṣyate  
-atadguṇo+ataś chāgaḥ syān meṣo vā tadguṇo bhavet  
+३।१।८० साम्येनान्यतराभावे विकल्पः कैश् चिद् इष्यते  
+अतद्गुणो+अतश् छागः स्यान् मेषो वा तद्गुणो भवेत्  
 
 
-3.1.81 jāter āśritasaṃkhyāyāḥ pravṛttir upalabhyate  
-saṃkhyāviśeṣam utsṛjya kva cit saiva pravartate  
+३।१।८१ जातेर् आश्रितसंख्यायाः प्रवृत्तिर् उपलभ्यते  
+संख्याविशेषम् उत्सृज्य क्व चित् सैव प्रवर्तते  
 
 
-3.1.82 parāṅgabhūtaṃ sāmānyaṃ yujyate dravyasaṃkhyayā  
-svārthaṃ pravartamānaṃ tu na saṃkhyām avalambate  
+३।१।८२ पराङ्गभूतं सामान्यं युज्यते द्रव्यसंख्यया  
+स्वार्थं प्रवर्तमानं तु न संख्याम् अवलम्बते  
 
 
-3.1.83 yajeta paśunety atra yajyarthāyāṃ paśuśrutau  
-kṛtārthaikena paśunā pradhānaṃ bhavati kriyā  
+३।१।८३ यजेत पशुनेत्य् अत्र यज्यर्थायां पशुश्रुतौ  
+कृतार्थैकेन पशुना प्रधानं भवति क्रिया  
 
 
-3.1.84 yāvatāṃ saṃbhavo yasya sa kuryāt tāvatāṃ yadi  
-ālambhanaṃ guṇais tena pradhānaṃ syāt prayojitam  
+३।१।८४ यावतां संभवो यस्य स कुर्यात् तावतां यदि  
+आलम्भनं गुणैस् तेन प्रधानं स्यात् प्रयोजितम्  
 
 
-3.1.85 saṃmṛjyamānatantre tu grahe yatra kriyāśrutiḥ  
-saṃkhyāviśeṣagrahaṇaṃ naiva tatrādriyāmahe  
+३।१।८५ संमृज्यमानतन्त्रे तु ग्रहे यत्र क्रियाश्रुतिः  
+संख्याविशेषग्रहणं नैव तत्राद्रियामहे  
 
 
-3.1.86 śiṣyamāṇapare vākye yad ekagrahaṇaṃ kṛtam  
-śeṣe viśiṣṭasaṃkhye+api vyaktaṃ talliṅgadarśanam  
+३।१।८६ शिष्यमाणपरे वाक्ये यद् एकग्रहणं कृतम्  
+शेषे विशिष्टसंख्ये+अपि व्यक्तं तल्लिङ्गदर्शनम्  
 
 
-3.1.87 samāsapratyayavidhau yathā nipatitā śrutiḥ  
-guṇānāṃ paratantrāṇāṃ nyāyenaivopapadyate  
+३।१।८७ समासप्रत्ययविधौ यथा निपतिता श्रुतिः  
+गुणानां परतन्त्राणां न्यायेनैवोपपद्यते  
 
 
-3.1.88 guṇe+api nāṅgīkriyate pradhānāntarasiddhaye  
-saṃkhyā kartā tathā karmaṇy aviśiṣṭaḥ pratīyate  
+३।१।८८ गुणे+अपि नाङ्गीक्रियते प्रधानान्तरसिद्धये  
+संख्या कर्ता तथा कर्मण्य् अविशिष्टः प्रतीयते  
 
 
-3.1.89 yasyānyasya prasaktasya niyamārthā punaḥ śrutiḥ  
-sarūpasamudāyāt tu vibhaktir yā vidhīyate  
+३।१।८९ यस्यान्यस्य प्रसक्तस्य नियमार्था पुनः श्रुतिः  
+सरूपसमुदायात् तु विभक्तिर् या विधीयते  
 
 
-3.1.90 nivṛttau caritārthatvāt saṃkhyā tatrāvivakṣitā  
-ekas tatrārthavān siddhaḥ samudāyasya vācakaḥ  
+३।१।९० निवृत्तौ चरितार्थत्वात् संख्या तत्राविवक्षिता  
+एकस् तत्रार्थवान् सिद्धः समुदायस्य वाचकः  
 
 
-3.1.91 pratyayasya pradhānasya samāsasyāpi vā vidhau  
-siddhaḥ saṃkhyāvivakṣāyāṃ sarvathānugraho guṇe  
+३।१।९१ प्रत्ययस्य प्रधानस्य समासस्यापि वा विधौ  
+सिद्धः संख्याविवक्षायां सर्वथानुग्रहो गुणे  
 
 
-3.1.92 abhedarūpaṃ sādṛśyam ātmabhūtāś ca śaktayaḥ  
-jātiparyāyavācitvam eṣām apy upavarṇyate  
+३।१।९२ अभेदरूपं सादृश्यम् आत्मभूताश् च शक्तयः  
+जातिपर्यायवाचित्वम् एषाम् अप्य् उपवर्ण्यते  
 
 
-3.1.93 daṇḍopāditsayā daṇḍaṃ yady api pratipadyate  
-na tasmād eva sāmarthyāt sa daṇḍīti pratīyate  
+३।१।९३ दण्डोपादित्सया दण्डं यद्य् अपि प्रतिपद्यते  
+न तस्माद् एव सामर्थ्यात् स दण्डीति प्रतीयते  
 
 
-3.1.94 necchānimittād icchāvān iti jñānaṃ pravartate  
-tasmāt saty api sāmarthye buddhir arthāntarāśrayā  
+३।१।९४ नेच्छानिमित्ताद् इच्छावान् इति ज्ञानं प्रवर्तते  
+तस्मात् सत्य् अपि सामर्थ्ये बुद्धिर् अर्थान्तराश्रया  
 
 
-3.1.95 svabhāvo+avyapadeśyo vā sāmarthyaṃ vāvatiṣṭhate  
-sarvasyānte yatas tasmād vyavahāro na kalpate  
+३।१।९५ स्वभावो+अव्यपदेश्यो वा सामर्थ्यं वावतिष्ठते  
+सर्वस्यान्ते यतस् तस्माद् व्यवहारो न कल्पते  
 
 
-3.1.96 yadā bhedān parityajya buddhyaika iva gṛhyate  
-vyaktyātmaiva tadā tatra buddhir ekā pravartate  
+३।१।९६ यदा भेदान् परित्यज्य बुद्ध्यैक इव गृह्यते  
+व्यक्त्यात्मैव तदा तत्र बुद्धिर् एका प्रवर्तते  
 
 
-3.1.97 bhedarūpair anusyūtaṃ yadaikam iva manyate  
-samūhāvagrahā buddhir bahubhyo jāyate tadā  
+३।१।९७ भेदरूपैर् अनुस्यूतं यदैकम् इव मन्यते  
+समूहावग्रहा बुद्धिर् बहुभ्यो जायते तदा  
 
 
-3.1.98 yadā sahavivakṣāyām ekabuddhinibandhanaḥ  
-baddhāvayavavicchedaḥ samudāyo+abhidhīyate  
+३।१।९८ यदा सहविवक्षायाम् एकबुद्धिनिबन्धनः  
+बद्धावयवविच्छेदः समुदायो+अभिधीयते  
 
 
-3.1.99 pratikriyaṃ samāptatvād eko bhedasamanvitaḥ  
-dvandve dvitvādibhedena tadāsāv upagamyate  
+३।१।९९ प्रतिक्रियं समाप्तत्वाद् एको भेदसमन्वितः  
+द्वन्द्वे द्वित्वादिभेदेन तदासाव् उपगम्यते  
 
 
-3.1.100 sakṛtpravṛttāv ekatvam āvṛttau sadṛśātmatām  
-bhinnātmakānāṃ vyaktīnāṃ bhedāpohāt prapadyate  
+३।१।१०० सकृत्प्रवृत्ताव् एकत्वम् आवृत्तौ सदृशात्मताम्  
+भिन्नात्मकानां व्यक्तीनां भेदापोहात् प्रपद्यते  
 
 
-3.1.101 anupravṛtteti yathā- -bhinnā buddhiḥ pratīyate  
-artho vyāvṛttarūpo+api tathā tattvena gṛhyate  
+३।१।१०१ अनुप्रवृत्तेति यथा- -भिन्ना बुद्धिः प्रतीयते  
+अर्थो व्यावृत्तरूपो+अपि तथा तत्त्वेन गृह्यते  
 
 
-3.1.102 sarūpāṇāṃ ca sarveṣāṃ na bhedopanipātinaḥ  
-vidyante vācakāḥ śabdā nāpi bhedo+avadhāryate  
+३।१।१०२ सरूपाणां च सर्वेषां न भेदोपनिपातिनः  
+विद्यन्ते वाचकाः शब्दा नापि भेदो+अवधार्यते  
 
 
-3.1.103 jñānaśabdārthaviṣayā viśeṣā ye vyavasthitāḥ  
-teṣāṃ duravadhāratvāj jñānādyekatvadarśanam  
+३।१।१०३ ज्ञानशब्दार्थविषया विशेषा ये व्यवस्थिताः  
+तेषां दुरवधारत्वाज् ज्ञानाद्येकत्वदर्शनम्  
 
 
-3.1.104 jñāneṣv api yathārtheṣu tathā sarveṣu jātayaḥ  
-saṃsargadarśane santi tāś cārthasya prasādhikāḥ  
+३।१।१०४ ज्ञानेष्व् अपि यथार्थेषु तथा सर्वेषु जातयः  
+संसर्गदर्शने सन्ति ताश् चार्थस्य प्रसाधिकाः  
 
 
-3.1.105 jñeyastham eva sāmānyaṃ jñānānām upakārakam  
-na jātu jñeyavaj jñānaṃ pararūpeṇa rūpyate  
+३।१।१०५ ज्ञेयस्थम् एव सामान्यं ज्ञानानाम् उपकारकम्  
+न जातु ज्ञेयवज् ज्ञानं पररूपेण रूप्यते  
 
 
-3.1.106 yathā jyotiḥ prakāśena nānyenābhiprakāśyate  
-jñānākāras tathānyena na jñānenopagṛhyate  
+३।१।१०६ यथा ज्योतिः प्रकाशेन नान्येनाभिप्रकाश्यते  
+ज्ञानाकारस् तथान्येन न ज्ञानेनोपगृह्यते  
 
 
-3.1.107 na cātmasamavetasya sāmānyasyāvadhāraṇe  
-jñānaśaktiḥ samarthā syāj jñātasyānyasya vastunaḥ  
+३।१।१०७ न चात्मसमवेतस्य सामान्यस्यावधारणे  
+ज्ञानशक्तिः समर्था स्याज् ज्ञातस्यान्यस्य वस्तुनः  
 
 
-3.1.108 ayaugapadye jñānānām asyety agrahaṇaṃ na ca  
-yathopalabdhi smaraṇam upalabdhe ca jāyate  
+३।१।१०८ अयौगपद्ये ज्ञानानाम् अस्येत्य् अग्रहणं न च  
+यथोपलब्धि स्मरणम् उपलब्धे च जायते  
 
 
-3.1.109 ghaṭajñānam iti jñānaṃ ghaṭajñānavilakṣaṇam  
-ghaṭa ity api yaj jñānaṃ viṣayopanipāti tat  
+३।१।१०९ घटज्ञानम् इति ज्ञानं घटज्ञानविलक्षणम्  
+घट इत्य् अपि यज् ज्ञानं विषयोपनिपाति तत्  
 
 
-3.1.110 yato viṣayarūpeṇa jñānarūpaṃ na gṛhyate  
-artharūpaviviktaṃ ca svarūpaṃ nāvadhāryate  
+३।१।११० यतो विषयरूपेण ज्ञानरूपं न गृह्यते  
+अर्थरूपविविक्तं च स्वरूपं नावधार्यते  
 
 
-iti jātisamuddeśaḥ
+इति जातिसमुद्देशः
 
  ३।२ द्रव्यसमुद्देशः
 
@@ -3224,361 +3223,361 @@ iti jātisamuddeśaḥ
 
 इति द्रव्यसमुद्देशः
 
- 3.3 saṃbandhasamuddeśaḥ
+ ३।३ संबन्धसमुद्देशः
 
-3.3.1 jñānaṃ prayoktur bāhyo+arthaḥ svarūpaṃ ca pratīyate  
-śabdair uccaritais teṣāṃ saṃbandhaḥ samavasthitaḥ  
+३।३।१ ज्ञानं प्रयोक्तुर् बाह्यो+अर्थः स्वरूपं च प्रतीयते  
+शब्दैर् उच्चरितैस् तेषां संबन्धः समवस्थितः  
 
 
-3.3.2 pratipattur bhavaty arthe jñāne vā saṃśayaḥ kva cit  
-svarūpeṣūpalabhyeṣu vyabhicāro na vidyate  
+३।३।२ प्रतिपत्तुर् भवत्य् अर्थे ज्ञाने वा संशयः क्व चित्  
+स्वरूपेषूपलभ्येषु व्यभिचारो न विद्यते  
 
 
-3.3.3 asyāyaṃ vācako vācya iti ṣaṣṭhyā pratīyate  
-yogaḥ śabdārthayos tattvam apy ato vyapadiśyate  
+३।३।३ अस्यायं वाचको वाच्य इति षष्ठ्या प्रतीयते  
+योगः शब्दार्थयोस् तत्त्वम् अप्य् अतो व्यपदिश्यते  
 
 
-3.3.4 nābhidhānaṃ svadharmeṇa saṃbandhasyāsti vācakam  
-atyantaparatantratvād rūpaṃ nāsyāpadiśyate  
+३।३।४ नाभिधानं स्वधर्मेण संबन्धस्यास्ति वाचकम्  
+अत्यन्तपरतन्त्रत्वाद् रूपं नास्यापदिश्यते  
 
 
-3.3.5 upakārāt sa yatrāsti dharmas tatrānugamyate  
-śaktīnām api sā śaktir guṇānām apy asau guṇaḥ  
+३।३।५ उपकारात् स यत्रास्ति धर्मस् तत्रानुगम्यते  
+शक्तीनाम् अपि सा शक्तिर् गुणानाम् अप्य् असौ गुणः  
 
 
-3.3.6 taddharmaṇos tu tācchabdyaṃ saṃyogasamavāyayoḥ  
-tayor apy upakārārthā niyatās tadupādhayaḥ  
+३।३।६ तद्धर्मणोस् तु ताच्छब्द्यं संयोगसमवाययोः  
+तयोर् अप्य् उपकारार्था नियतास् तदुपाधयः  
 
 
-3.3.7 kā cid eva hi sāvasthā kāryaprasavasūcitā  
-kasya cit kena cid yasyāṃ saṃyoga upajāyate  
+३।३।७ का चिद् एव हि सावस्था कार्यप्रसवसूचिता  
+कस्य चित् केन चिद् यस्यां संयोग उपजायते  
 
 
-3.3.8 nirātmakānām utpattau niyamaḥ kva cid eva yaḥ  
-tenaivāvyapavargaś ca prāptyabhede sa yatkṛtaḥ  
+३।३।८ निरात्मकानाम् उत्पत्तौ नियमः क्व चिद् एव यः  
+तेनैवाव्यपवर्गश् च प्राप्त्यभेदे स यत्कृतः  
 
 
-3.3.9 ātmāntarasya yenātmā tadātmevāvadhāryate  
-yataś caikatvanānātvaṃ tattvaṃ nādhyavasīyate  
+३।३।९ आत्मान्तरस्य येनात्मा तदात्मेवावधार्यते  
+यतश् चैकत्वनानात्वं तत्त्वं नाध्यवसीयते  
 
 
-3.3.10 tāṃ śaktiṃ samavāyākhyāṃ śaktīnām upakāriṇīm  
-bhedābhedāv atikrāntām anyathaiva vyavasthitām  
+३।३।१० तां शक्तिं समवायाख्यां शक्तीनाम् उपकारिणीम्  
+भेदाभेदाव् अतिक्रान्ताम् अन्यथैव व्यवस्थिताम्  
 
 
-3.3.11 dharmaṃ sarvapadārthānām atītaḥ sarvalakṣaṇaḥ  
-anugṛhṇāti saṃbandha iti pūrvebhya āgamaḥ  
+३।३।११ धर्मं सर्वपदार्थानाम् अतीतः सर्वलक्षणः  
+अनुगृह्णाति संबन्ध इति पूर्वेभ्य आगमः  
 
 
-3.3.12 padārthīkṛta evānyaiḥ sarvatrābhyupagamyate  
-saṃbandhas tena śabdārthaḥ pravibhaktuṃ na śakyate  
+३।३।१२ पदार्थीकृत एवान्यैः सर्वत्राभ्युपगम्यते  
+संबन्धस् तेन शब्दार्थः प्रविभक्तुं न शक्यते  
 
 
-3.3.13 samavāyāt sva ādhāraḥ svā ca jātiḥ pratīyate  
-ekārthasamavāyāt tu guṇāḥ svādhāra eva ye  
+३।३।१३ समवायात् स्व आधारः स्वा च जातिः प्रतीयते  
+एकार्थसमवायात् तु गुणाः स्वाधार एव ये  
 
 
-3.3.14 dravyatvasattāsaṃyogāḥ svānyādhāropabandhanāḥ  
-tatpradeśavibhāgāś ca guṇā dvitvādayaś ca ye  
+३।३।१४ द्रव्यत्वसत्तासंयोगाः स्वान्याधारोपबन्धनाः  
+तत्प्रदेशविभागाश् च गुणा द्वित्वादयश् च ये  
 
 
-3.3.15 ke cit svāśrayasaṃyuktāḥ ke cit tatsamavāyinaḥ  
-saṃyuktasamaveteṣu samavetās tathāpare  
+३।३।१५ के चित् स्वाश्रयसंयुक्ताः के चित् तत्समवायिनः  
+संयुक्तसमवेतेषु समवेतास् तथापरे  
 
 
-3.3.16 svāśrayeṇa tu saṃyuktaiḥ saṃyuktaṃ vibhu gamyate  
-samavāyasya saṃbandho nāparas tatra dṛśyate  
+३।३।१६ स्वाश्रयेण तु संयुक्तैः संयुक्तं विभु गम्यते  
+समवायस्य संबन्धो नापरस् तत्र दृश्यते  
 
 
-3.3.17 saṃbandhasyāviśiṣṭatvān na cātra niyamo bhavet  
-tasmāc chabdārthayor naivaṃ saṃbandhaḥ parikalpyate  
+३।३।१७ संबन्धस्याविशिष्टत्वान् न चात्र नियमो भवेत्  
+तस्माच् छब्दार्थयोर् नैवं संबन्धः परिकल्प्यते  
 
 
-3.3.18 adṛṣṭavṛttilābhena yathā saṃyoga ātmanaḥ  
-kva cit svasvāmiyogākhyo +abhede+anyatrāpi sa kramaḥ  
+३।३।१८ अदृष्टवृत्तिलाभेन यथा संयोग आत्मनः  
+क्व चित् स्वस्वामियोगाख्यो +अभेदे+अन्यत्रापि स क्रमः  
 
 
-3.3.19 prāptiṃ tu samavāyākhyāṃ vācyadharmātivartinīm  
-prayoktā pratipattā vā na śabdair anugacchati  
+३।३।१९ प्राप्तिं तु समवायाख्यां वाच्यधर्मातिवर्तिनीम्  
+प्रयोक्ता प्रतिपत्ता वा न शब्दैर् अनुगच्छति  
 
 
-3.3.20 avācyam iti yad vācyaṃ tad avācyatayā yadā  
-vācyam ity avasīyeta vācyam eva tadā bhavet  
+३।३।२० अवाच्यम् इति यद् वाच्यं तद् अवाच्यतया यदा  
+वाच्यम् इत्य् अवसीयेत वाच्यम् एव तदा भवेत्  
 
 
-3.3.21 athāpy avācyam ity evaṃ na tad vācyaṃ pratīyate  
-vivakṣitāsya yāvasthā saiva nādhyavasīyate  
+३।३।२१ अथाप्य् अवाच्यम् इत्य् एवं न तद् वाच्यं प्रतीयते  
+विवक्षितास्य यावस्था सैव नाध्यवसीयते  
 
 
-3.3.22 tathānyathā sarvathā ca yasyāvācyatvam ucyate  
-tatrāpi naiva sāvasthā taiḥ śabdaiḥ pratiṣidhyate  
+३।३।२२ तथान्यथा सर्वथा च यस्यावाच्यत्वम् उच्यते  
+तत्रापि नैव सावस्था तैः शब्दैः प्रतिषिध्यते  
 
 
-3.3.23 na hi saṃśayarūpe+arthe śeṣatvena vyavasthite  
-avyudāse svarūpasya saṃśayo+anyaḥ pravartate  
+३।३।२३ न हि संशयरूपे+अर्थे शेषत्वेन व्यवस्थिते  
+अव्युदासे स्वरूपस्य संशयो+अन्यः प्रवर्तते  
 
 
-3.3.24 yadā ca nirṇayajñāne nirṇayatvena nirṇayaḥ  
-prakramyate tadā jñānaṃ svadharmeṇāvatiṣṭhate  
+३।३।२४ यदा च निर्णयज्ञाने निर्णयत्वेन निर्णयः  
+प्रक्रम्यते तदा ज्ञानं स्वधर्मेणावतिष्ठते  
 
 
-3.3.25 sarvaṃ mithyā bravīmīti naitad vākyaṃ vivakṣyate  
-tasya mithyābhidhāne hi prakrānto+artho na gamyate  
+३।३।२५ सर्वं मिथ्या ब्रवीमीति नैतद् वाक्यं विवक्ष्यते  
+तस्य मिथ्याभिधाने हि प्रक्रान्तो+अर्थो न गम्यते  
 
 
-3.3.26 na ca vācakarūpeṇa pravṛttasyāsti vācyatā  
-pratipādyaṃ na tat tatra yenānyat pratipadyate  
+३।३।२६ न च वाचकरूपेण प्रवृत्तस्यास्ति वाच्यता  
+प्रतिपाद्यं न तत् तत्र येनान्यत् प्रतिपद्यते  
 
 
-3.3.27 asādhikā pratijñeti neyam evābhidhīyate  
-yathā tathāsya dharmo+api nātra kaś cit pratīyate  
+३।३।२७ असाधिका प्रतिज्ञेति नेयम् एवाभिधीयते  
+यथा तथास्य धर्मो+अपि नात्र कश् चित् प्रतीयते  
 
 
-3.3.28 vyāpārasyāparo yasmān na vyāpāro+asti kaś ca na  
-virodham anavasthāṃ vā tasmāt sarvatra nāśrayet  
+३।३।२८ व्यापारस्यापरो यस्मान् न व्यापारो+अस्ति कश् च न  
+विरोधम् अनवस्थां वा तस्मात् सर्वत्र नाश्रयेत्  
 
 
-3.3.29 indriyāṇāṃ svaviṣayeṣv anādir yogyatā yathā  
-anādir arthaiḥ śabdānāṃ saṃbandho yogyatā tathā  
+३।३।२९ इन्द्रियाणां स्वविषयेष्व् अनादिर् योग्यता यथा  
+अनादिर् अर्थैः शब्दानां संबन्धो योग्यता तथा  
 
 
-3.3.30 asādhur anumānena vācakaḥ kaiś cid iṣyate  
-vācakatvāviśeṣe vā niyamaḥ puṇyapāpayoḥ  
+३।३।३० असाधुर् अनुमानेन वाचकः कैश् चिद् इष्यते  
+वाचकत्वाविशेषे वा नियमः पुण्यपापयोः  
 
 
-3.3.31 saṃbandhaśabde saṃbandho yogyatāṃ prati yogyatā  
-mayād yogyatāsaṃvin mātāputrādiyogavat  
+३।३।३१ संबन्धशब्दे संबन्धो योग्यतां प्रति योग्यता  
+मयाद् योग्यतासंविन् मातापुत्रादियोगवत्  
 
 
-3.3.32 śabdaḥ kāraṇam arthasya sa hi tenopajanyate  
-tathā ca buddhiviṣayād arthāc chabdaḥ pratīyate  
+३।३।३२ शब्दः कारणम् अर्थस्य स हि तेनोपजन्यते  
+तथा च बुद्धिविषयाद् अर्थाच् छब्दः प्रतीयते  
 
 
-3.3.33 bhojanādy api manyante buddhyarthe yad asaṃbhavi  
-buddhyarthād eva buddhyarthe jāte tad api dṛśyate  
+३।३।३३ भोजनाद्य् अपि मन्यन्ते बुद्ध्यर्थे यद् असंभवि  
+बुद्ध्यर्थाद् एव बुद्ध्यर्थे जाते तद् अपि दृश्यते  
 
 
-3.3.34 anityeṣv api nityatvam abhidheyātmanā sthitam  
-anityatvaṃ svaśaktir vā sā ca nityān na bhidyate  
+३।३।३४ अनित्येष्व् अपि नित्यत्वम् अभिधेयात्मना स्थितम्  
+अनित्यत्वं स्वशक्तिर् वा सा च नित्यान् न भिद्यते  
 
 
-3.3.35 śabdenārthasya saṃskāro dṛṣṭādṛṣṭaprayojanaḥ  
-kriyate so+abhisaṃbandham antareṇa kathaṃ bhavet  
+३।३।३५ शब्देनार्थस्य संस्कारो दृष्टादृष्टप्रयोजनः  
+क्रियते सो+अभिसंबन्धम् अन्तरेण कथं भवेत्  
 
 
-3.3.36 nāvaśyam abhidheyeṣu saṃskāraḥ sa tathāvidhaḥ  
-dṛśyate na ca saṃbandhas tathābhūto vivakṣitaḥ  
+३।३।३६ नावश्यम् अभिधेयेषु संस्कारः स तथाविधः  
+दृश्यते न च संबन्धस् तथाभूतो विवक्षितः  
 
 
-3.3.37 sati pratyayahetutvaṃ saṃbandha upapadyate  
-śabdasyārthe yatas tatra saṃbandho+astīti gamyate  
+३।३।३७ सति प्रत्ययहेतुत्वं संबन्ध उपपद्यते  
+शब्दस्यार्थे यतस् तत्र संबन्धो+अस्तीति गम्यते  
 
 
-3.3.38 nitye+anitye+api vāpy arthe puruṣeṇa kathaṃ ca na  
-saṃbandho+akṛtasaṃbandhaiḥ śabdaiḥ kartuṃ na śakyate  
+३।३।३८ नित्ये+अनित्ये+अपि वाप्य् अर्थे पुरुषेण कथं च न  
+संबन्धो+अकृतसंबन्धैः शब्दैः कर्तुं न शक्यते  
 
 
-3.3.39 vyapadeśe padārthānām anya sattaupacārikī  
-sarvāvasthāsu sarveṣām ātmarūpasya darśikā  
+३।३।३९ व्यपदेशे पदार्थानाम् अन्य सत्तौपचारिकी  
+सर्वावस्थासु सर्वेषाम् आत्मरूपस्य दर्शिका  
 
 
-3.3.40 sphaṭikādi yathā dravyaṃ bhinnarūpair upāśrayaiḥ  
-svaśaktiyogāt saṃbandhaṃ tādrūpyeṇeva gacchati  
+३।३।४० स्फटिकादि यथा द्रव्यं भिन्नरूपैर् उपाश्रयैः  
+स्वशक्तियोगात् संबन्धं ताद्रूप्येणेव गच्छति  
 
 
-3.3.41 tadvac chabdo+api sattāyām asyaṃ pūrvaṃ vyavasthitaḥ  
-dharmair upaiti saṃbandham avirodhivirodhibhiḥ  
+३।३।४१ तद्वच् छब्दो+अपि सत्तायाम् अस्यं पूर्वं व्यवस्थितः  
+धर्मैर् उपैति संबन्धम् अविरोधिविरोधिभिः  
 
 
-3.3.42 evaṃ ca pratiṣedhyeṣu pratiṣedhaprakḷptaye  
-āśriteṣūpacāreṇa pratiṣedhaḥ pravartate  
+३।३।४२ एवं च प्रतिषेध्येषु प्रतिषेधप्रकॢप्तये  
+आश्रितेषूपचारेण प्रतिषेधः प्रवर्तते  
 
 
-3.3.43 ātmalābhasya janmākhyā satā labhyaṃ ca labhyate  
-yadi saj jāyate kasmād athāsaj jāyate katham  
+३।३।४३ आत्मलाभस्य जन्माख्या सता लभ्यं च लभ्यते  
+यदि सज् जायते कस्माद् अथासज् जायते कथम्  
 
 
-3.3.44 sato hi gantur gamanaṃ sati gamye pravartate  
-gantṛvac cen na janmārtho na cet tadvan na jāyate  
+३।३।४४ सतो हि गन्तुर् गमनं सति गम्ये प्रवर्तते  
+गन्तृवच् चेन् न जन्मार्थो न चेत् तद्वन् न जायते  
 
 
-3.3.45 upacarya tu kartāram abhidhānapravṛttaye  
-punaś ca karmabhāvena tāṃ kriyāṃ ca tadāśrayām  
+३।३।४५ उपचर्य तु कर्तारम् अभिधानप्रवृत्तये  
+पुनश् च कर्मभावेन तां क्रियां च तदाश्रयाम्  
 
 
-3.3.46 athopacārasattaivaṃ vidheyās tatra lādayaḥ  
-janmanā tu virodhitvān mukhyā sattā na vidyate  
+३।३।४६ अथोपचारसत्तैवं विधेयास् तत्र लादयः  
+जन्मना तु विरोधित्वान् मुख्या सत्ता न विद्यते  
 
 
-3.3.47 ātmānam ātmanā bibhrad astīti vyapadiśyate  
-antarbhāvāc ca tenāsau karmaṇā na sakarmakaḥ  
+३।३।४७ आत्मानम् आत्मना बिभ्रद् अस्तीति व्यपदिश्यते  
+अन्तर्भावाच् च तेनासौ कर्मणा न सकर्मकः  
 
 
-3.3.48 prāk ca sattābhisaṃbandhān mukhyā sattā kathaṃ bhavet  
-asaṃś ca nāsteḥ kartā syād upacāras tu pūrvavat  
+३।३।४८ प्राक् च सत्ताभिसंबन्धान् मुख्या सत्ता कथं भवेत्  
+असंश् च नास्तेः कर्ता स्याद् उपचारस् तु पूर्ववत्  
 
 
-3.3.49 tasmād bhinneṣu dharmeṣu virodhiṣv avirodhinīm  
-virodhikhyāpanāyaiva śabdais tais tair upāśritām  
+३।३।४९ तस्माद् भिन्नेषु धर्मेषु विरोधिष्व् अविरोधिनीम्  
+विरोधिख्यापनायैव शब्दैस् तैस् तैर् उपाश्रिताम्  
 
 
-3.3.50 abhinnakālām artheṣu bhinnakāleṣv avasthitām  
-pravṛttihetuṃ sarveṣāṃ śabdānām aupacārikīm  
+३।३।५० अभिन्नकालाम् अर्थेषु भिन्नकालेष्व् अवस्थिताम्  
+प्रवृत्तिहेतुं सर्वेषां शब्दानाम् औपचारिकीम्  
 
 
-3.3.51 etāṃ sattāṃ padārtho hi na kaś cid ativartate  
-sā ca saṃpratisattāyāḥ pṛthag bhāṣye nidarśitā  
+३।३।५१ एतां सत्तां पदार्थो हि न कश् चिद् अतिवर्तते  
+सा च संप्रतिसत्तायाः पृथग् भाष्ये निदर्शिता  
 
 
-3.3.52 pradeśasyaikadeśaṃ vā parato vā nirūpaṇam  
-viparyayam abhāvaṃ vā vyavahāro+anuvartate  
+३।३।५२ प्रदेशस्यैकदेशं वा परतो वा निरूपणम्  
+विपर्ययम् अभावं वा व्यवहारो+अनुवर्तते  
 
 
-3.3.53 yathendriyasya vaiguṇyān mātrādhyāropavān iva  
-jāyate pratyayo+arthebhyas tathaivoddeśajā matiḥ  
+३।३।५३ यथेन्द्रियस्य वैगुण्यान् मात्राध्यारोपवान् इव  
+जायते प्रत्ययो+अर्थेभ्यस् तथैवोद्देशजा मतिः  
 
 
-3.3.54 akṛtsnaviṣayābhāsaṃ śabdaḥ pratyayam āśritaḥ  
-artham āhānyarūpeṇa svarūpeṇānirūpitam  
+३।३।५४ अकृत्स्नविषयाभासं शब्दः प्रत्ययम् आश्रितः  
+अर्थम् आहान्यरूपेण स्वरूपेणानिरूपितम्  
 
 
-3.3.55 rūpaṇavyapadeśābhyaṃ laukike vartmani sthitau  
-jñānaṃ praty abhilāpaṃ ca sadṛśau bālapaṇḍitau  
+३।३।५५ रूपणव्यपदेशाभ्यं लौकिके वर्त्मनि स्थितौ  
+ज्ञानं प्रत्य् अभिलापं च सदृशौ बालपण्डितौ  
 
 
-3.3.56 sarvārtharūpatā śuddhir jñānasya nirupaśrayā  
-tato+apy asya parāṃ śuddhim eke prāhur arūpikām  
+३।३।५६ सर्वार्थरूपता शुद्धिर् ज्ञानस्य निरुपश्रया  
+ततो+अप्य् अस्य परां शुद्धिम् एके प्राहुर् अरूपिकाम्  
 
 
-3.3.57 upaplavo hi jñānasya bāhyākārānupātitā  
-kāluṣyam iva tat tasya saṃsarge vyatibhedajam  
+३।३।५७ उपप्लवो हि ज्ञानस्य बाह्याकारानुपातिता  
+कालुष्यम् इव तत् तस्य संसर्गे व्यतिभेदजम्  
 
 
-3.3.58 yathā ca jñānam ālekhād aśuddhau vyavatiṣṭhate  
-tathopāśrayavān arthaḥ svarūpād viprakṛṣyate  
+३।३।५८ यथा च ज्ञानम् आलेखाद् अशुद्धौ व्यवतिष्ठते  
+तथोपाश्रयवान् अर्थः स्वरूपाद् विप्रकृष्यते  
 
 
-3.3.59 evam arthasya śabdasya jñānasya ca viparyaye  
-bhāvābhāvāv abhedena vyavahārānupātinau  
+३।३।५९ एवम् अर्थस्य शब्दस्य ज्ञानस्य च विपर्यये  
+भावाभावाव् अभेदेन व्यवहारानुपातिनौ  
 
 
-3.3.60 yathā bhāvam upāśritya tadabhāvo+anugamyate  
-tathābhāvam upāśritya tadbhāvo+apy anugamyate  
+३।३।६० यथा भावम् उपाश्रित्य तदभावो+अनुगम्यते  
+तथाभावम् उपाश्रित्य तद्भावो+अप्य् अनुगम्यते  
 
 
-3.3.61 nābhāvo jāyate bhāvo naiti bhāvo +anupākhyatām  
-ekasmād ātmano+ananyau bhāvābhāvau vikalpitau  
+३।३।६१ नाभावो जायते भावो नैति भावो +अनुपाख्यताम्  
+एकस्माद् आत्मनो+अनन्यौ भावाभावौ विकल्पितौ  
 
 
-3.3.62 abhāvasyānupākhyatvāt kāraṇaṃ na prasādhakam  
-sopākhyasya tu bhāvasya kāraṇaṃ kiṃ kariṣyati  
+३।३।६२ अभावस्यानुपाख्यत्वात् कारणं न प्रसाधकम्  
+सोपाख्यस्य तु भावस्य कारणं किं करिष्यति  
 
 
-3.3.63 tasmāt sarvam abhāvo vā bhāvo vā sarvam iṣyate  
-na tv avasthāntaraṃ kiṃ cid ekasmāt satyataḥ sthitam  
+३।३।६३ तस्मात् सर्वम् अभावो वा भावो वा सर्वम् इष्यते  
+न त्व् अवस्थान्तरं किं चिद् एकस्मात् सत्यतः स्थितम्  
 
 
-3.3.64 tasmān nābhāvam icchanti ye loke bhāvavādinaḥ  
-abhāvavādino vāpi na bhāvaṃ tattvalakṣaṇam  
+३।३।६४ तस्मान् नाभावम् इच्छन्ति ये लोके भाववादिनः  
+अभाववादिनो वापि न भावं तत्त्वलक्षणम्  
 
 
-3.3.65 advaye caiva sarvasmin svabhāvād ekalakṣaṇe  
-parikalpeṣu maryādā vicitraivopalabhyate  
+३।३।६५ अद्वये चैव सर्वस्मिन् स्वभावाद् एकलक्षणे  
+परिकल्पेषु मर्यादा विचित्रैवोपलभ्यते  
 
 
-3.3.66 catasro hi yathāvasthā nirupākhye prakalpitāḥ  
-evaṃ dvaividhyam apy etad bhāvābhāvavyapāśrayam  
+३।३।६६ चतस्रो हि यथावस्था निरुपाख्ये प्रकल्पिताः  
+एवं द्वैविध्यम् अप्य् एतद् भावाभावव्यपाश्रयम्  
 
 
-3.3.67 avirodhī virodhī vā sann asan vāpi yuktitaḥ  
-kramavān akramo vāpi nābhāva upapadyate  
+३।३।६७ अविरोधी विरोधी वा सन्न् असन् वापि युक्तितः  
+क्रमवान् अक्रमो वापि नाभाव उपपद्यते  
 
 
-3.3.68 avirodhī virodhī vā sann asan vāpi tattvataḥ  
-kramavān akramo vāpi tena bhāvo na vidyate  
+३।३।६८ अविरोधी विरोधी वा सन्न् असन् वापि तत्त्वतः  
+क्रमवान् अक्रमो वापि तेन भावो न विद्यते  
 
 
-3.3.69 abhāve triṣu kāleṣu na bhedasyāsti saṃbhavaḥ  
-tasminn asati bhāve+api traikālyaṃ nāvatiṣṭhate  
+३।३।६९ अभावे त्रिषु कालेषु न भेदस्यास्ति संभवः  
+तस्मिन्न् असति भावे+अपि त्रैकाल्यं नावतिष्ठते  
 
 
-3.3.70 ātmatattvaparityāgaḥ parato nopapadyate  
-ātmatattvaṃ tu parataḥ svato vā nopakalpate  
+३।३।७० आत्मतत्त्वपरित्यागः परतो नोपपद्यते  
+आत्मतत्त्वं तु परतः स्वतो वा नोपकल्पते  
 
 
-3.3.71 tattve virodho nānātva upakāro na kaś ca na  
-tattvānyatvaparltyāge vyavahāro nivartate  
+३।३।७१ तत्त्वे विरोधो नानात्व उपकारो न कश् च न  
+तत्त्वान्यत्वपर्ल्त्यागे व्यवहारो निवर्तते  
 
 
-3.3.72 yatra draṣṭā ca dṛśyaṃ ca darśanaṃ cāvikalpitam  
-tasyaivārthasya satyatvaṃ śritās trayyantavedinaḥ  
+३।३।७२ यत्र द्रष्टा च दृश्यं च दर्शनं चाविकल्पितम्  
+तस्यैवार्थस्य सत्यत्वं श्रितास् त्रय्यन्तवेदिनः  
 
 
-3.3.73 sāmānyaṃ vā viśeṣaṃ vā yasmād āhur viśeṣavat  
-śabdās tasmād asatyeṣu bhedeṣv eva vyavasthitāḥ  
+३।३।७३ सामान्यं वा विशेषं वा यस्माद् आहुर् विशेषवत्  
+शब्दास् तस्माद् असत्येषु भेदेष्व् एव व्यवस्थिताः  
 
 
-3.3.74 na hy abhāvasya sadbhāve bhāvasyātmā prahīyate  
-na cābhāvasya nāstitve bhāvasyātmā prasūyate  
+३।३।७४ न ह्य् अभावस्य सद्भावे भावस्यात्मा प्रहीयते  
+न चाभावस्य नास्तित्वे भावस्यात्मा प्रसूयते  
 
 
-3.3.75 na śābaleyasyāstitvaṃ bāhuleyasya bādhakam  
-na śābaleyo nāstīti bāhuleyaḥ prakalpate  
+३।३।७५ न शाबलेयस्यास्तित्वं बाहुलेयस्य बाधकम्  
+न शाबलेयो नास्तीति बाहुलेयः प्रकल्पते  
 
 
-3.3.76 abhāvo yadi vastu syāt tatreyaṃ syād vicāraṇā  
-tataś ca tadabhāve+api syād vicāryam idaṃ punaḥ  
+३।३।७६ अभावो यदि वस्तु स्यात् तत्रेयं स्याद् विचारणा  
+ततश् च तदभावे+अपि स्याद् विचार्यम् इदं पुनः  
 
 
-3.3.77 avastu syād atitaṃ yad vyavahārasya gocaraḥ  
-tatra vastugato bhedo na nirvacanam arhati  
+३।३।७७ अवस्तु स्याद् अतितं यद् व्यवहारस्य गोचरः  
+तत्र वस्तुगतो भेदो न निर्वचनम् अर्हति  
 
 
-3.3.78 apade+arthe padanyāsaḥ kāraṇasya na vidyate  
-atha ca prāgasadbhāvaḥ kāraṇe sati dṛśyate  
+३।३।७८ अपदे+अर्थे पदन्यासः कारणस्य न विद्यते  
+अथ च प्रागसद्भावः कारणे सति दृश्यते  
 
 
-3.3.79 kā tasya prāgavastheti vastvāśritam idaṃ punaḥ  
-prāg avastheti na hy etad dvayam apy asty avastuni  
+३।३।७९ का तस्य प्रागवस्थेति वस्त्वाश्रितम् इदं पुनः  
+प्राग् अवस्थेति न ह्य् एतद् द्वयम् अप्य् अस्त्य् अवस्तुनि  
 
 
-3.3.80 na cordhvam asti nāstīti vacanāyānibandhanam  
-alaṃ syād apadasthānam etad vācaḥ pracakṣate  
+३।३।८० न चोर्ध्वम् अस्ति नास्तीति वचनायानिबन्धनम्  
+अलं स्याद् अपदस्थानम् एतद् वाचः प्रचक्षते  
 
 
-3.3.81 atyadbhutā tv iyaṃ vṛttir yad abhāgaṃ yad akramam  
-bhāvānāṃ prāg abhūtānām ātmatattvaṃ prakāśate  
+३।३।८१ अत्यद्भुता त्व् इयं वृत्तिर् यद् अभागं यद् अक्रमम्  
+भावानां प्राग् अभूतानाम् आत्मतत्त्वं प्रकाशते  
 
 
-3.3.82 vikalpotthāpitenaiva sarvo bhāvena laukikaḥ  
-mukhyeneva padārthena vyavahāro vidhīyate  
+३।३।८२ विकल्पोत्थापितेनैव सर्वो भावेन लौकिकः  
+मुख्येनेव पदार्थेन व्यवहारो विधीयते  
 
 
-3.3.83 bhāvaśaktim ataś caināṃ manyante nityavādinaḥ  
-bhāvam eva kramaṃ prāhur na bhāvād aparaḥ kramaḥ  
+३।३।८३ भावशक्तिम् अतश् चैनां मन्यन्ते नित्यवादिनः  
+भावम् एव क्रमं प्राहुर् न भावाद् अपरः क्रमः  
 
 
-3.3.84 kramān na yaugapadyasya kaś cid bhedo+asti tattvataḥ  
-yathaiva bhāvān nābhāvaḥ kaś cid anyo+avasīyate  
+३।३।८४ क्रमान् न यौगपद्यस्य कश् चिद् भेदो+अस्ति तत्त्वतः  
+यथैव भावान् नाभावः कश् चिद् अन्यो+अवसीयते  
 
 
-3.3.85 kālasyāpy aparaṃ kālaṃ nirdiśanty eva laukikāḥ  
-na ca nirdeśamātreṇa vyatireko+anugamyate  
+३।३।८५ कालस्याप्य् अपरं कालं निर्दिशन्त्य् एव लौकिकाः  
+न च निर्देशमात्रेण व्यतिरेको+अनुगम्यते  
 
 
-3.3.86 ādhāraṃ kalpayan buddhyā nābhāve vyavatiṣṭhate  
-avastuṣv api notprekṣā kasya cit pratibadhyate  
+३।३।८६ आधारं कल्पयन् बुद्ध्या नाभावे व्यवतिष्ठते  
+अवस्तुष्व् अपि नोत्प्रेक्षा कस्य चित् प्रतिबध्यते  
 
 
-3.3.87 tasmāc chaktivibhāgena nityaḥ sadasadātmakaḥ  
-eko+arthaḥ śabdavācyatve bahurūpaḥ prakāśate  
+३।३।८७ तस्माच् छक्तिविभागेन नित्यः सदसदात्मकः  
+एको+अर्थः शब्दवाच्यत्वे बहुरूपः प्रकाशते  
 
 
-3.3.88 vyavahāraś ca lokasya padārthaiḥ parikalpitaiḥ  
-śāstre padārthaḥ kāryārthaṃ laukikaḥ pravibhajyate  
+३।३।८८ व्यवहारश् च लोकस्य पदार्थैः परिकल्पितैः  
+शास्त्रे पदार्थः कार्यार्थं लौकिकः प्रविभज्यते  
 
 
-iti saṃbandhasamuddeśaḥ
+इति संबन्धसमुद्देशः
 
  ३।४ भूयोद्रव्यसमुद्देशः
 
@@ -3596,45 +3595,45 @@ iti saṃbandhasamuddeśaḥ
 
 इति भूयोद्रव्यसमुद्देशः
 
- 3.5 guṇasamuddeśaḥ
+ ३।५ गुणसमुद्देशः
 
-3.5.1 saṃsargi bhedakaṃ yad yat savyāpāraṃ pratīyate  
-guṇatvaṃ paratantratvāt tasya śāstra udāhṛtam  
-
-
-3.5.2 dravyasyāvyapadeśasya ya upādīyate guṇaḥ  
-bhedako vyapadeśāya tatprakarṣo+abhidhīyate  
+३।५।१ संसर्गि भेदकं यद् यत् सव्यापारं प्रतीयते  
+गुणत्वं परतन्त्रत्वात् तस्य शास्त्र उदाहृतम्  
 
 
-3.5.3 sarvasyaiva pradhānasya na vinā bhedahetunā  
-prakarṣo vidyate nāpi śabdasyopaiti vācyatām  
+३।५।२ द्रव्यस्याव्यपदेशस्य य उपादीयते गुणः  
+भेदको व्यपदेशाय तत्प्रकर्षो+अभिधीयते  
 
 
-3.5.4 vidyamānāḥ pradhāneṣu na sarve bhedahetavaḥ  
-viśeṣaśabdair ucyante vyāvṛttārthābhidhāyibhiḥ  
+३।५।३ सर्वस्यैव प्रधानस्य न विना भेदहेतुना  
+प्रकर्षो विद्यते नापि शब्दस्योपैति वाच्यताम्  
 
 
-3.5.5 vastūpalakṣaṇe tatra viśeṣo vyāpṛto yadi  
-prakarṣo niyamābhāvāt syād avijñātahetukaḥ  
+३।५।४ विद्यमानाः प्रधानेषु न सर्वे भेदहेतवः  
+विशेषशब्दैर् उच्यन्ते व्यावृत्तार्थाभिधायिभिः  
 
 
-3.5.6 sarvaṃ ca sarvato+avaśyaṃ niyamena prakṛṣyate  
-saṃsargiṇā nimittena nikṛṣṭenādhikena vā  
+३।५।५ वस्तूपलक्षणे तत्र विशेषो व्यापृतो यदि  
+प्रकर्षो नियमाभावात् स्याद् अविज्ञातहेतुकः  
 
 
-3.5.7 nāpekṣate nimittaṃ ca prakarṣe vyāpṛtaṃ yadi  
-dravyasya syād upādānaṃ prakarṣaṃ praty anarthakam  
+३।५।६ सर्वं च सर्वतो+अवश्यं नियमेन प्रकृष्यते  
+संसर्गिणा निमित्तेन निकृष्टेनाधिकेन वा  
 
 
-3.5.8 savyāpāro guṇas tasmāt svaprakarṣanibandhanaḥ  
-dravyātmānaṃ bhinatty eva svaprakarṣaṃ niveśayan  
+३।५।७ नापेक्षते निमित्तं च प्रकर्षे व्यापृतं यदि  
+द्रव्यस्य स्याद् उपादानं प्रकर्षं प्रत्य् अनर्थकम्  
 
 
-3.5.9 arūpaṃ pararūpeṇa dravyam ākhyāyate yathā  
-aprakarṣaṃ prakarṣeṇa guṇasyāviśyate tathā  
+३।५।८ सव्यापारो गुणस् तस्मात् स्वप्रकर्षनिबन्धनः  
+द्रव्यात्मानं भिनत्त्य् एव स्वप्रकर्षं निवेशयन्  
 
 
-iti guṇasamuddeśaḥ
+३।५।९ अरूपं पररूपेण द्रव्यम् आख्यायते यथा  
+अप्रकर्षं प्रकर्षेण गुणस्याविश्यते तथा  
+
+
+इति गुणसमुद्देशः
 
  ३।६ दिक्समुद्देशः
 
@@ -3752,182 +3751,182 @@ iti guṇasamuddeśaḥ
 
 इति दिक्समुद्देशः
 
- 3.7 sādhanasamuddeśaḥ
+ ३।७ साधनसमुद्देशः
 
-3.7.1 svāśraye samavetānāṃ tadvad evāśrayāntare  
-kriyāṇām abhiniṣpattau sāmarthyaṃ sādhanaṃ viduḥ  
+३।७।१ स्वाश्रये समवेतानां तद्वद् एवाश्रयान्तरे  
+क्रियाणाम् अभिनिष्पत्तौ सामर्थ्यं साधनं विदुः  
 
 
-3.7.2 śaktimā trāsam ūhasya viśvasyānekadharmaṇaḥ  
-sarvadā sarvathā bhāvāt kva cit kiṃ cid vivakṣyate  
+३।७।२ शक्तिमा त्रासम् ऊहस्य विश्वस्यानेकधर्मणः  
+सर्वदा सर्वथा भावात् क्व चित् किं चिद् विवक्ष्यते  
 
 
-3.7.3 sādhanavyavahāraś ca buddhyavasthānibandhanaḥ  
-sann asan vārtharūpeṣu bhedo buddhyā prakalpyate  
+३।७।३ साधनव्यवहारश् च बुद्ध्यवस्थानिबन्धनः  
+सन्न् असन् वार्थरूपेषु भेदो बुद्ध्या प्रकल्प्यते  
 
 
-3.7.4 buddhyā samīhitaikatvān pañcālān kurubhir yadā  
-punar vibhajate vaktā tadāpāyaḥ pratīyate  
+३।७।४ बुद्ध्या समीहितैकत्वान् पञ्चालान् कुरुभिर् यदा  
+पुनर् विभजते वक्ता तदापायः प्रतीयते  
 
 
-3.7.5 śabdopahitarūpāṃś ca buddher viṣayatāṃ gatān  
-pratyakṣam iva kaṃsādīn sādhanatvena manyate  
+३।७।५ शब्दोपहितरूपांश् च बुद्धेर् विषयतां गतान्  
+प्रत्यक्षम् इव कंसादीन् साधनत्वेन मन्यते  
 
 
-3.7.6 buddhipravṛttirūpaṃ ca samāropyābhidhātṛbhiḥ  
-artheṣu śaktibhedānāṃ kriyate parikalpanā  
+३।७।६ बुद्धिप्रवृत्तिरूपं च समारोप्याभिधातृभिः  
+अर्थेषु शक्तिभेदानां क्रियते परिकल्पना  
 
 
-3.7.7 vyaktau padārthe śabdāder janyamānasya karmaṇaḥ  
-sādhanatvaṃ tathā siddhaṃ buddhirūpaprakalpitam  
+३।७।७ व्यक्तौ पदार्थे शब्दादेर् जन्यमानस्य कर्मणः  
+साधनत्वं तथा सिद्धं बुद्धिरूपप्रकल्पितम्  
 
 
-3.7.8 svatantraparatantratve kramarūpaṃ ca darśitam  
-nirīheṣv api bhāveṣu kalpanopanibandhanam  
+३।७।८ स्वतन्त्रपरतन्त्रत्वे क्रमरूपं च दर्शितम्  
+निरीहेष्व् अपि भावेषु कल्पनोपनिबन्धनम्  
 
 
-3.7.9 śaktayaḥ śaktimantaś ca sarve saṃsargavādinām  
-bhāvās teṣv asvaśabdeṣu sādhanatvaṃ nirūpyate  
+३।७।९ शक्तयः शक्तिमन्तश् च सर्वे संसर्गवादिनाम्  
+भावास् तेष्व् अस्वशब्देषु साधनत्वं निरूप्यते  
 
 
-3.7.10 ghaṭasya dṛśikarmatve mahattvādīni sādhanam  
-rūpasya dṛśikarmatve rūpatvādīni sādhanam  
+३।७।१० घटस्य दृशिकर्मत्वे महत्त्वादीनि साधनम्  
+रूपस्य दृशिकर्मत्वे रूपत्वादीनि साधनम्  
 
 
-3.7.11 svaiḥ sāmānyaviśeṣaiś ca śaktimanto rasādayaḥ  
-niyatagrahaṇā loke śaktayas tās tathāśrayaiḥ  
+३।७।११ स्वैः सामान्यविशेषैश् च शक्तिमन्तो रसादयः  
+नियतग्रहणा लोके शक्तयस् तास् तथाश्रयैः  
 
 
-3.7.12 indriyārthamanaḥkartṛ- saṃbandhaḥ sādhanaṃ kva cit  
-yad yadā yadanugrāhi tat tadā tatra sādhanam  
+३।७।१२ इन्द्रियार्थमनःकर्तृ- संबन्धः साधनं क्व चित्  
+यद् यदा यदनुग्राहि तत् तदा तत्र साधनम्  
 
 
-3.7.13 svaśabdair abhidhāne tu sa dharmonābhidhīyate  
-vibhaktyādibhir evāsāv upakāraḥ pratīyate  
+३।७।१३ स्वशब्दैर् अभिधाने तु स धर्मोनाभिधीयते  
+विभक्त्यादिभिर् एवासाव् उपकारः प्रतीयते  
 
 
-3.7.14 nimittabhāvo bhāvānām upakārārtham āśritaḥ  
-natir āvarjanety evaṃ siddhaḥ sādhanam iṣyate  
+३।७।१४ निमित्तभावो भावानाम् उपकारार्थम् आश्रितः  
+नतिर् आवर्जनेत्य् एवं सिद्धः साधनम् इष्यते  
 
 
-3.7.15 sa tebhyo vyatirikto vā teṣām ātmaiva vā tathā  
-vyatirekam upāśritya sādhanatvena kalpyate  
+३।७।१५ स तेभ्यो व्यतिरिक्तो वा तेषाम् आत्मैव वा तथा  
+व्यतिरेकम् उपाश्रित्य साधनत्वेन कल्प्यते  
 
 
-3.7.16 saṃdarśanaṃ prārthanāyāṃ vyavasāye tv anantarā  
-vyavasāyas tathārambhe sādhanatvāya kalpate  
+३।७।१६ संदर्शनं प्रार्थनायां व्यवसाये त्व् अनन्तरा  
+व्यवसायस् तथारम्भे साधनत्वाय कल्पते  
 
 
-3.7.17 pūrvasmin yā kriyā saiva parasmin sādhanaṃ matā  
-saṃdarśane tu caitanyaṃ viśiṣṭaṃ sādhanaṃ viduḥ  
+३।७।१७ पूर्वस्मिन् या क्रिया सैव परस्मिन् साधनं मता  
+संदर्शने तु चैतन्यं विशिष्टं साधनं विदुः  
 
 
-3.7.18 niṣpattimātre kartṛtvaṃ sarvatraivāsti kārake  
-vyāpārabhedāpekṣāyāṃ karaṇatvādisaṃbhavaḥ  
+३।७।१८ निष्पत्तिमात्रे कर्तृत्वं सर्वत्रैवास्ति कारके  
+व्यापारभेदापेक्षायां करणत्वादिसंभवः  
 
 
-3.7.19 putrasya janmani yathā pitroḥ kartṛtvam ucyate  
-ayam asyām iyaṃ tv asmād iti bhedo vivakṣayā  
+३।७।१९ पुत्रस्य जन्मनि यथा पित्रोः कर्तृत्वम् उच्यते  
+अयम् अस्याम् इयं त्व् अस्माद् इति भेदो विवक्षया  
 
 
-3.7.20 guṇakriyāṇāṃ kartāraḥ kartrā nyakkṛtaśaktayaḥ  
-nyaktāyām api saṃpūrṇaiḥ svair vyāpāraiḥ samanvitāḥ  
+३।७।२० गुणक्रियाणां कर्तारः कर्त्रा न्यक्कृतशक्तयः  
+न्यक्तायाम् अपि संपूर्णैः स्वैर् व्यापारैः समन्विताः  
 
 
-3.7.21 karaṇatvādibhir jñātāḥ kriyābhedānupātibhiḥ  
-svātantryam uttaraṃ labdhvā pradhāne yānti kartṛtām  
+३।७।२१ करणत्वादिभिर् ज्ञाताः क्रियाभेदानुपातिभिः  
+स्वातन्त्र्यम् उत्तरं लब्ध्वा प्रधाने यान्ति कर्तृताम्  
 
 
-3.7.22 yathā rājñā niyukteṣu yoddhṛtvaṃ yoddhṛṣu sthitam  
-teṣu vṛttau tu labhate rājā jayaparājayau  
+३।७।२२ यथा राज्ञा नियुक्तेषु योद्धृत्वं योद्धृषु स्थितम्  
+तेषु वृत्तौ तु लभते राजा जयपराजयौ  
 
 
-3.7.23 tathā kartrā niyukteṣu sarveṣv ekārthakāriṣu  
-kartṛtvaṃ karaṇatvāder uttaraṃ na virudhyate  
+३।७।२३ तथा कर्त्रा नियुक्तेषु सर्वेष्व् एकार्थकारिषु  
+कर्तृत्वं करणत्वादेर् उत्तरं न विरुध्यते  
 
 
-3.7.24 anāśrite tu vyāpāre nimittaṃ hetur iṣyate  
-āśritāvadhibhāvaṃ tu lakṣaṇe lakṣaṇaṃ viduḥ  
+३।७।२४ अनाश्रिते तु व्यापारे निमित्तं हेतुर् इष्यते  
+आश्रितावधिभावं तु लक्षणे लक्षणं विदुः  
 
 
-3.7.25 dravyādiviṣayo hetuḥ kārakaṃ niyatakriyam  
-kartā kartrantarāpekṣaḥ kriyāyāṃ hetur iṣyate  
+३।७।२५ द्रव्यादिविषयो हेतुः कारकं नियतक्रियम्  
+कर्ता कर्त्रन्तरापेक्षः क्रियायां हेतुर् इष्यते  
 
 
-3.7.26 kriyāyai karaṇaṃ tasya dṛṣṭaḥ pratinidhis tathā  
-hetvarthā tu kriyā tasmān na sa pratinidhīyate  
+३।७।२६ क्रियायै करणं तस्य दृष्टः प्रतिनिधिस् तथा  
+हेत्वर्था तु क्रिया तस्मान् न स प्रतिनिधीयते  
 
 
-3.7.27 prātilomyānulomyābhyāṃ hetur arthasya sādhakaḥ  
-tādarthyam ānulomyena hetutvānugataṃ tu tat  
+३।७।२७ प्रातिलोम्यानुलोम्याभ्यां हेतुर् अर्थस्य साधकः  
+तादर्थ्यम् आनुलोम्येन हेतुत्वानुगतं तु तत्  
 
 
-3.7.28 sarvatra sahajā śaktir yāvaddravyam avasthitā  
-kriyākāle tv abhivyakter āśrayād upakāriṇī  
+३।७।२८ सर्वत्र सहजा शक्तिर् यावद्द्रव्यम् अवस्थिता  
+क्रियाकाले त्व् अभिव्यक्तेर् आश्रयाद् उपकारिणी  
 
 
-3.7.29 kuḍyasyāvaraṇe śaktir asyādīnāṃ vidāraṇe  
-sarvadā sa tu san dharmaḥ kriyākāle nirūpyate  
+३।७।२९ कुड्यस्यावरणे शक्तिर् अस्यादीनां विदारणे  
+सर्वदा स तु सन् धर्मः क्रियाकाले निरूप्यते  
 
 
-3.7.30 svāṅgasaṃyoginaḥ pāśā daityānāṃ vāruṇā yathā  
-vyajyante vijigīṣūṇāṃ dravyāṇāṃ śaktayas tathā  
+३।७।३० स्वाङ्गसंयोगिनः पाशा दैत्यानां वारुणा यथा  
+व्यज्यन्ते विजिगीषूणां द्रव्याणां शक्तयस् तथा  
 
 
-3.7.31 taikṣṇyagauravakāṭhinya- saṃsthānaiḥ svair asir yadā  
-chedyaṃ prati vyāpriyate śaktimān gṛhyate tadā  
+३।७।३१ तैक्ष्ण्यगौरवकाठिन्य- संस्थानैः स्वैर् असिर् यदा  
+छेद्यं प्रति व्याप्रियते शक्तिमान् गृह्यते तदा  
 
 
-3.7.32 prāṅ nimittāntarodbhūtaṃ kriyāyāḥ kaiś cid iṣyate  
-sādhanaṃ sahajaṃ kaiś cit kriyānyaiḥ pūrvam iṣyate  
+३।७।३२ प्राङ् निमित्तान्तरोद्भूतं क्रियायाः कैश् चिद् इष्यते  
+साधनं सहजं कैश् चित् क्रियान्यैः पूर्वम् इष्यते  
 
 
-3.7.33 pravṛttir eva prathamaṃ kva cid apy anapāśritā  
-śaktīr ekādhikaraṇe srotovad apakarṣati  
+३।७।३३ प्रवृत्तिर् एव प्रथमं क्व चिद् अप्य् अनपाश्रिता  
+शक्तीर् एकाधिकरणे स्रोतोवद् अपकर्षति  
 
 
-3.7.34 apūrvaṃ kālaśaktiṃ vā kriyāṃ vā kālam eva vā  
-tam evamlaksanam bhāvam ke cid āhuh katham ca na  
+३।७।३४ अपूर्वं कालशक्तिं वा क्रियां वा कालम् एव वा  
+तम् एवम्लक्सनम् भावम् के चिद् आहुह् कथम् च न  
 
 
-3.7.35 nityāḥ ṣaṭ śaktayo+anyeṣāṃ bhedābhedasamanvitāḥ  
-kriyāsaṃsiddhaye+artheṣu jātivat samavasthitāḥ  
+३।७।३५ नित्याः षट् शक्तयो+अन्येषां भेदाभेदसमन्विताः  
+क्रियासंसिद्धये+अर्थेषु जातिवत् समवस्थिताः  
 
 
-3.7.36 dravyākārādibhedena tāś cāparimitā iva  
-dṛśyante tattvam āsāṃ tu ṣaṭ śaktīr nātivartate  
+३।७।३६ द्रव्याकारादिभेदेन ताश् चापरिमिता इव  
+दृश्यन्ते तत्त्वम् आसां तु षट् शक्तीर् नातिवर्तते  
 
 
-3.7.37 nimittabhedād ekaiva bhinnā śaktiḥ pratīyate  
-ṣoḍhā kartṛtvam evāhus tatpravṛtter nibandhanam  
+३।७।३७ निमित्तभेदाद् एकैव भिन्ना शक्तिः प्रतीयते  
+षोढा कर्तृत्वम् एवाहुस् तत्प्रवृत्तेर् निबन्धनम्  
 
 
-3.7.38 tattve vā vyatireke vā vyatiriktaṃ tad ucyate  
-śabdapramāṇako lokaḥ sa śāstreṇānugamyate  
+३।७।३८ तत्त्वे वा व्यतिरेके वा व्यतिरिक्तं तद् उच्यते  
+शब्दप्रमाणको लोकः स शास्त्रेणानुगम्यते  
 
 
-3.7.39 paramārthe tu naikatvaṃ pṛthaktvād bhinnalakṣaṇam  
-pṛthaktvaikatvarūpeṇa tattvam eva prakāśate  
+३।७।३९ परमार्थे तु नैकत्वं पृथक्त्वाद् भिन्नलक्षणम्  
+पृथक्त्वैकत्वरूपेण तत्त्वम् एव प्रकाशते  
 
 
-3.7.40 yat pṛthaktvam asaṃdigdhaṃ tad ekatvān na bhidyate  
-yad ekatvam asaṃdigdhaṃ tat pṛthaktvān na bhidyate  
+३।७।४० यत् पृथक्त्वम् असंदिग्धं तद् एकत्वान् न भिद्यते  
+यद् एकत्वम् असंदिग्धं तत् पृथक्त्वान् न भिद्यते  
 
 
-3.7.41 dyauḥ kṣamā vāyur ādityaḥ sāgarāḥ sarito diśaḥ  
-antaḥkaraṇatattvasya bhāgā bahir avasthitāḥ  
+३।७।४१ द्यौः क्षमा वायुर् आदित्यः सागराः सरितो दिशः  
+अन्तःकरणतत्त्वस्य भागा बहिर् अवस्थिताः  
 
 
-3.7.42 kālavicchedarūpeṇa tad evaikam avasthitam  
-sa hy apūrvāparo bhāvaḥ kramarūpeṇa lakṣyate  
+३।७।४२ कालविच्छेदरूपेण तद् एवैकम् अवस्थितम्  
+स ह्य् अपूर्वापरो भावः क्रमरूपेण लक्ष्यते  
 
 
-3.7.43 dṛṣṭo hy avyatireke+api vyatireko+anvaye +asati  
-vṛkṣādyarthānvayas tasmād vibhaktyartho+anya iṣyate  
+३।७।४३ दृष्टो ह्य् अव्यतिरेके+अपि व्यतिरेको+अन्वये +असति  
+वृक्षाद्यर्थान्वयस् तस्माद् विभक्त्यर्थो+अन्य इष्यते  
 
 
-3.7.44 sāmānyaṃ kārakaṃ tasya saptādyā bhedayonayaḥ  
-ṣaṭ karmākhyādibhedena śeṣabhedas tu saptamī  
+३।७।४४ सामान्यं कारकं तस्य सप्ताद्या भेदयोनयः  
+षट् कर्माख्यादिभेदेन शेषभेदस् तु सप्तमी  
 
 
 # कर्माधिकारः
@@ -4114,53 +4113,53 @@ vṛkṣādyarthānvayas tasmād vibhaktyartho+anya iṣyate
 
 इति कर्माधिकारः
 
-# karaṇādhikāraḥ
+# करणाधिकारः
 
-3.7.90 kriyāyāḥ pariniṣpattir yadvyāpārād anantaram  
-vivakṣyate yadā tatra karaṇatvaṃ tadā smṛtam  
-
-
-3.7.91 vastutas tad anirdeśyaṃ na hi vastu vyavasthitam  
-sthālyā pacyata ity eṣā vivakṣā dṛśyate yataḥ  
+३।७।९० क्रियायाः परिनिष्पत्तिर् यद्व्यापाराद् अनन्तरम्  
+विवक्ष्यते यदा तत्र करणत्वं तदा स्मृतम्  
 
 
-3.7.92 karaṇeṣu tu saṃskāram ārabhante punaḥ punaḥ  
-viniyogaviśeṣāṃś ca pradhānasya prasiddhaye  
+३।७।९१ वस्तुतस् तद् अनिर्देश्यं न हि वस्तु व्यवस्थितम्  
+स्थाल्या पच्यत इत्य् एषा विवक्षा दृश्यते यतः  
 
 
-3.7.93 svakakṣyāsu prakarṣaś ca karaṇānāṃ na vidyate  
-āśritātiśayatvaṃ tu paratas tatra lakṣaṇam  
+३।७।९२ करणेषु तु संस्कारम् आरभन्ते पुनः पुनः  
+विनियोगविशेषांश् च प्रधानस्य प्रसिद्धये  
 
 
-3.7.94 svātantrye+api prayoktāra ārād evopakurvate  
-karaṇena hi sarveṣāṃ vyāpāro vyavadhīyate  
+३।७।९३ स्वकक्ष्यासु प्रकर्षश् च करणानां न विद्यते  
+आश्रितातिशयत्वं तु परतस् तत्र लक्षणम्  
 
 
-3.7.95 kriyāsiddhau prakarṣo+ayaṃ nyagbhāvas tv eva kartari  
-siddhau satyāṃ hi sāmānyaṃ sādhakatvaṃ prakṛṣyate  
+३।७।९४ स्वातन्त्र्ये+अपि प्रयोक्तार आराद् एवोपकुर्वते  
+करणेन हि सर्वेषां व्यापारो व्यवधीयते  
 
 
-3.7.96 asyādīnāṃ tu kartṛtve taikṣṇyādi karaṇaṃ viduḥ  
-taikṣṇyādīnāṃ svatantratve dvedhātmā vyavatiṣṭhate  
+३।७।९५ क्रियासिद्धौ प्रकर्षो+अयं न्यग्भावस् त्व् एव कर्तरि  
+सिद्धौ सत्यां हि सामान्यं साधकत्वं प्रकृष्यते  
 
 
-3.7.97 ātmabhede+api saty evam eko+arthaḥ sa tathā sthitaḥ  
-tadāśrayatvād bhede+api kartṛtvaṃ bādhakaṃ tataḥ  
+३।७।९६ अस्यादीनां तु कर्तृत्वे तैक्ष्ण्यादि करणं विदुः  
+तैक्ष्ण्यादीनां स्वतन्त्रत्वे द्वेधात्मा व्यवतिष्ठते  
 
 
-3.7.98 yathā ca saṃnidhānena karaṇatvaṃ pratīyate  
-tathaivāsaṃnidhāne+api kriyāsiddheḥ pratīyate  
+३।७।९७ आत्मभेदे+अपि सत्य् एवम् एको+अर्थः स तथा स्थितः  
+तदाश्रयत्वाद् भेदे+अपि कर्तृत्वं बाधकं ततः  
 
 
-3.7.99 stokasya vābhinirvṛtter anirvṛtteś ca tasya vā  
-prasiddhiṃ karaṇatvasya stokādīnāṃ pracakṣate  
+३।७।९८ यथा च संनिधानेन करणत्वं प्रतीयते  
+तथैवासंनिधाने+अपि क्रियासिद्धेः प्रतीयते  
 
 
-3.7.100 dharmāṇāṃ tadvatā bhedād abhedāc ca viśiṣyate  
-kriyāvadher avaccheda- viśeṣād bhidyate yathā  
+३।७।९९ स्तोकस्य वाभिनिर्वृत्तेर् अनिर्वृत्तेश् च तस्य वा  
+प्रसिद्धिं करणत्वस्य स्तोकादीनां प्रचक्षते  
 
 
-iti karaṇādhikāraḥ
+३।७।१०० धर्माणां तद्वता भेदाद् अभेदाच् च विशिष्यते  
+क्रियावधेर् अवच्छेद- विशेषाद् भिद्यते यथा  
+
+
+इति करणाधिकारः
 
 # कर्त्रधिकारः
 
@@ -4262,25 +4261,25 @@ iti karaṇādhikāraḥ
 
 इति कर्त्रधिकारः
 
-# hetvadhikāraḥ
+# हेत्वधिकारः
 
-3.7.125 preṣaṇādhyeṣaṇe kurvaṃs tatsamarthāni cācaran  
-kartaiva vihitāṃ śāstre hetusaṃjñāṃ prapadyate  
-
-
-3.7.126 dravyamātrasya tu praiṣe pṛcchyāder loḍ vidhīyate  
-sakriyasya prayogas tu yadā sa viṣayo ṇicaḥ  
+३।७।१२५ प्रेषणाध्येषणे कुर्वंस् तत्समर्थानि चाचरन्  
+कर्तैव विहितां शास्त्रे हेतुसंज्ञां प्रपद्यते  
 
 
-3.7.127 guṇakriyāyāṃ svātantryāt preṣaṇe karmatāṃ gataḥ  
-niyamāt karmasaṃjñāyāḥ svadharmeṇābhidhīyate  
+३।७।१२६ द्रव्यमात्रस्य तु प्रैषे पृच्छ्यादेर् लोड् विधीयते  
+सक्रियस्य प्रयोगस् तु यदा स विषयो णिचः  
 
 
-3.7.128 kriyāyāḥ prerakaṃ karma hetuḥ kartuḥ prayojakaḥ  
-karmārthā ca kriyotpatti- saṃskārapratipattibhiḥ  
+३।७।१२७ गुणक्रियायां स्वातन्त्र्यात् प्रेषणे कर्मतां गतः  
+नियमात् कर्मसंज्ञायाः स्वधर्मेणाभिधीयते  
 
 
-iti hetvadhikāraḥ 
+३।७।१२८ क्रियायाः प्रेरकं कर्म हेतुः कर्तुः प्रयोजकः  
+कर्मार्था च क्रियोत्पत्ति- संस्कारप्रतिपत्तिभिः  
+
+
+इति हेत्वधिकारः 
 
 # संप्रदानाधिकारः
 
@@ -4314,57 +4313,57 @@ iti hetvadhikāraḥ
 
 इति संप्रदानाधिकारः
 
-# apādānādhikāraḥ
+# अपादानाधिकारः
 
-3.7.136 nirdiṣṭaviṣayaṃ kiṃ cid upāttaviṣayaṃ tathā  
-apekṣitakriyaṃ ceti tridhāpādānam ucyate  
-
-
-3.7.137 saṃyogabhedād bhinnātmā gamir eva bhramir yathā  
-dhruvāvadhir apāyo+api samavetas tathādhruve  
+३।७।१३६ निर्दिष्टविषयं किं चिद् उपात्तविषयं तथा  
+अपेक्षितक्रियं चेति त्रिधापादानम् उच्यते  
 
 
-3.7.138 dravyasvabhāvo na dhrauvyam iti sūtre pratīyate  
-apāyaviṣayaṃ dhrauvyaṃ yat tu tāvad vivakṣitam  
+३।७।१३७ संयोगभेदाद् भिन्नात्मा गमिर् एव भ्रमिर् यथा  
+ध्रुवावधिर् अपायो+अपि समवेतस् तथाध्रुवे  
 
 
-3.7.139 saraṇe devadattasya dhrauvyaṃ pāte tu vājinaḥ  
-āviṣṭaṃ yad apāyena tasyādhrauvyaṃ pracakṣate  
+३।७।१३८ द्रव्यस्वभावो न ध्रौव्यम् इति सूत्रे प्रतीयते  
+अपायविषयं ध्रौव्यं यत् तु तावद् विवक्षितम्  
 
 
-3.7.140 ubhāv apy adhruvau meṣau yady apy ubhayakarmaje  
-vibhāge pravibhakte tu kriye tatra vivakṣite  
+३।७।१३९ सरणे देवदत्तस्य ध्रौव्यं पाते तु वाजिनः  
+आविष्टं यद् अपायेन तस्याध्रौव्यं प्रचक्षते  
 
 
-3.7.141 meṣāntarakriyāpekṣam avadhitvaṃ pṛthak pṛthak  
-meṣayoḥ svakriyāpekṣaṃ kartṛtvaṃ ca pṛthak pṛthak  
+३।७।१४० उभाव् अप्य् अध्रुवौ मेषौ यद्य् अप्य् उभयकर्मजे  
+विभागे प्रविभक्ते तु क्रिये तत्र विवक्षिते  
 
 
-3.7.142 abhedena kriyaikā tu dvisādhyā ced vivakṣitā  
-meṣāv apāye kartārau yady anyo vidyate+avadhiḥ  
+३।७।१४१ मेषान्तरक्रियापेक्षम् अवधित्वं पृथक् पृथक्  
+मेषयोः स्वक्रियापेक्षं कर्तृत्वं च पृथक् पृथक्  
 
 
-3.7.143 gatir vinā tv avadhinā nāpāya iti gamyate  
-vṛkṣasya parṇaṃ patatīty evaṃ bhāṣye nidarśitam  
+३।७।१४२ अभेदेन क्रियैका तु द्विसाध्या चेद् विवक्षिता  
+मेषाव् अपाये कर्तारौ यद्य् अन्यो विद्यते+अवधिः  
 
 
-3.7.144 bhedābhedau pṛthagbhāvaḥ sthitiś ceti virodhinaḥ  
-yugapan na vivakṣyante sarve dharmā balāhake  
+३।७।१४३ गतिर् विना त्व् अवधिना नापाय इति गम्यते  
+वृक्षस्य पर्णं पततीत्य् एवं भाष्ये निदर्शितम्  
 
 
-3.7.145 dhanuṣā vidhyatīty atra vināpāyavivakṣayā  
-karaṇatvaṃ yato nāsti tasmāt tad ubhayaṃ saha  
+३।७।१४४ भेदाभेदौ पृथग्भावः स्थितिश् चेति विरोधिनः  
+युगपन् न विवक्ष्यन्ते सर्वे धर्मा बलाहके  
 
 
-3.7.146 ekaiva vā satī śaktir dvirūpā vyavatiṣṭhate  
-nimittaṃ saṃjñayos tatra parayā bādhyate+aparā  
+३।७।१४५ धनुषा विध्यतीत्य् अत्र विनापायविवक्षया  
+करणत्वं यतो नास्ति तस्मात् तद् उभयं सह  
 
 
-3.7.147 nirdhāraṇe vibhakte yo bhītrādīnāṃ ca yo vidhiḥ  
-upāttāpekṣitāpāyaḥ so+abudhapratipattaye  
+३।७।१४६ एकैव वा सती शक्तिर् द्विरूपा व्यवतिष्ठते  
+निमित्तं संज्ञयोस् तत्र परया बाध्यते+अपरा  
 
 
-ity apādānādhikāraḥ
+३।७।१४७ निर्धारणे विभक्ते यो भीत्रादीनां च यो विधिः  
+उपात्तापेक्षितापायः सो+अबुधप्रतिपत्तये  
+
+
+इत्य् अपादानाधिकारः
 
 # अधिकरणाधिकारः
 
@@ -4402,59 +4401,59 @@ ity apādānādhikāraḥ
 
 इत्य् अधिकरणाधिकारः
 
-# śeṣādhikāraḥ
+# शेषाधिकारः
 
-3.7.156 saṃbandhaḥ kārakebhyo+anyaḥ kriyākārakapūrvakaḥ  
-śrutāyām aśrutāyāṃ vā kriyāyāṃ so+abhidhīyate  
-
-
-3.7.157 dviṣṭho+apy asau parārthatvād guṇeṣu vyatiricyate  
-tatrābhidhīyamānaḥ san pradhāne+apy upayujyate  
+३।७।१५६ संबन्धः कारकेभ्यो+अन्यः क्रियाकारकपूर्वकः  
+श्रुतायाम् अश्रुतायां वा क्रियायां सो+अभिधीयते  
 
 
-3.7.158 nimittaniyamaḥ śabdāt saṃbandhasya na gṛhyate  
-karmapravacanīyais tu sa viśeṣo+avarudhyate  
+३।७।१५७ द्विष्ठो+अप्य् असौ परार्थत्वाद् गुणेषु व्यतिरिच्यते  
+तत्राभिधीयमानः सन् प्रधाने+अप्य् उपयुज्यते  
 
 
-3.7.159 sādhanair vyapadiṣṭe ca śrūyamāṇakriye punaḥ  
-proktā pratipadaṃ ṣaṣṭhī samāsasya nivṛttaye  
+३।७।१५८ निमित्तनियमः शब्दात् संबन्धस्य न गृह्यते  
+कर्मप्रवचनीयैस् तु स विशेषो+अवरुध्यते  
 
 
-3.7.160 niṣṭhāyāṃ karmaviṣayā ṣaṣthī ca pratiṣidhyate  
-śeṣalakṣaṇayā ṣaṣṭhyā samāsastatra neṣyate  
+३।७।१५९ साधनैर् व्यपदिष्टे च श्रूयमाणक्रिये पुनः  
+प्रोक्ता प्रतिपदं षष्ठी समासस्य निवृत्तये  
 
 
-3.7.161 anyena vyapadiṣṭasya yasyānyatropajāyate  
-vyatirekaḥ sa dharmau dvau labhate viṣayāntare  
+३।७।१६० निष्ठायां कर्मविषया षष्थी च प्रतिषिध्यते  
+शेषलक्षणया षष्ठ्या समासस्तत्र नेष्यते  
 
 
-3.7.162 prādhānyaṃ svaguṇe labdhvā pradhāne yāti śeṣatām  
-sahayoge svayoge+ataḥ pradhānatvaṃ na hīyate  
+३।७।१६१ अन्येन व्यपदिष्टस्य यस्यान्यत्रोपजायते  
+व्यतिरेकः स धर्मौ द्वौ लभते विषयान्तरे  
 
 
-iti śeṣādhikāraḥ
-
-3.7.163  siddhasyābhimukhībhāva- mātraṃ saṃbodhanaṃ viduḥ  
-prāptābhimukhyo hy arthātmā kriyāsu viniyujyate  
+३।७।१६२ प्राधान्यं स्वगुणे लब्ध्वा प्रधाने याति शेषताम्  
+सहयोगे स्वयोगे+अतः प्रधानत्वं न हीयते  
 
 
-3.7.164 saṃbodhanaṃ na vākyārtha iti pūrvebhya āgamaḥ  
-uddeśena vibhaktyarthā vākyārthāt samapoddhṛtāḥ  
+इति शेषाधिकारः
+
+३।७।१६३  सिद्धस्याभिमुखीभाव- मात्रं संबोधनं विदुः  
+प्राप्ताभिमुख्यो ह्य् अर्थात्मा क्रियासु विनियुज्यते  
 
 
-3.7.165 vibhaktyarthe+avyayībhāva- vacanād avasīyatām  
-anyo dravyād vibhaktyarthaḥ so+avyayenābhidhīyate  
+३।७।१६४ संबोधनं न वाक्यार्थ इति पूर्वेभ्य आगमः  
+उद्देशेन विभक्त्यर्था वाक्यार्थात् समपोद्धृताः  
 
 
-3.7.166 dravyaṃ tu yad yathābhūtaṃ tad atyantaṃ tathā bhavet  
-kriyāyoge+api tasyāsau dravyātmā nāpahīyate  
+३।७।१६५ विभक्त्यर्थे+अव्ययीभाव- वचनाद् अवसीयताम्  
+अन्यो द्रव्याद् विभक्त्यर्थः सो+अव्ययेनाभिधीयते  
 
 
-3.7.167 tasmād yat karaṇaṃ dravyaṃ tat karma na punar bhavet  
-sarvasya vānyathābhāvas tasya dravyātmano bhavet  
+३।७।१६६ द्रव्यं तु यद् यथाभूतं तद् अत्यन्तं तथा भवेत्  
+क्रियायोगे+अपि तस्यासौ द्रव्यात्मा नापहीयते  
 
 
-iti sādhanasamuddeśaḥ
+३।७।१६७ तस्माद् यत् करणं द्रव्यं तत् कर्म न पुनर् भवेत्  
+सर्वस्य वान्यथाभावस् तस्य द्रव्यात्मनो भवेत्  
+
+
+इति साधनसमुद्देशः
 
  ३।८: क्रियासमुद्देश
 
@@ -4714,458 +4713,458 @@ iti sādhanasamuddeśaḥ
 सम्बन्धिभेदाद् अर्थात्मा स विधिः पक्तिभावयोः  
 
 
- 3.9: kālasamuddeśaḥ
+ ३।९: कालसमुद्देशः
 
-3.9.1 vyāpāravyatirekeṇa kālam eke pracakṣate  
-nityam ekaṃ vibhu dravyaṃ parimāṇaṃ kriyāvatām  
+३।९।१ व्यापारव्यतिरेकेण कालम् एके प्रचक्षते  
+नित्यम् एकं विभु द्रव्यं परिमाणं क्रियावताम्  
 
 
-3.9.2 diṣṭiprasthasuvarṇādi mūrtibhedāya kalpate  
-kriyābhedāya kālas tu saṃkhyā sarvasya bhedikā  
+३।९।२ दिष्टिप्रस्थसुवर्णादि मूर्तिभेदाय कल्पते  
+क्रियाभेदाय कालस् तु संख्या सर्वस्य भेदिका  
 
 
-3.9.3 utpattau ca sthitau caiva vināśe cāpi tadvatām  
-nimittaṃ kālam evāhur vibhaktenātmanā sthitam  
+३।९।३ उत्पत्तौ च स्थितौ चैव विनाशे चापि तद्वताम्  
+निमित्तं कालम् एवाहुर् विभक्तेनात्मना स्थितम्  
 
 
-3.9.4 tam asya lokayantrasya sūtradhāraṃ pracakṣate  
-pratibandhābhyanujñābhyāṃ tena viśvaṃ vibhajyate  
+३।९।४ तम् अस्य लोकयन्त्रस्य सूत्रधारं प्रचक्षते  
+प्रतिबन्धाभ्यनुज्ञाभ्यां तेन विश्वं विभज्यते  
 
 
-3.9.5 yadi na pratibadhnīyāt pratibandhaṃ ca notsṛjet  
-avasthā vyatikīryeran paurvāparyavinākṛtāḥ  
+३।९।५ यदि न प्रतिबध्नीयात् प्रतिबन्धं च नोत्सृजेत्  
+अवस्था व्यतिकीर्येरन् पौर्वापर्यविनाकृताः  
 
 
-3.9.6 tasyātmā bahudhā bhinno bhedair dharmāntarāśrayaiḥ  
-na hi bhinnam abhinnaṃ vā vastu kiṃ cana vidyate  
+३।९।६ तस्यात्मा बहुधा भिन्नो भेदैर् धर्मान्तराश्रयैः  
+न हि भिन्नम् अभिन्नं वा वस्तु किं चन विद्यते  
 
 
-3.9.7 naiko na cāpy aneko+asti na śuklo nāpi cāsitaḥ  
-dravyātmā sa tu saṃsargād evaṃrūpaḥ prakāśate  
+३।९।७ नैको न चाप्य् अनेको+अस्ति न शुक्लो नापि चासितः  
+द्रव्यात्मा स तु संसर्गाद् एवंरूपः प्रकाशते  
 
 
-3.9.8 saṃsargināṃ tu ye bhedā viśeṣās tasya te matāḥ  
-sa bhinnas tair vyavasthānāṃ kālo bhedāya kalpate  
+३।९।८ संसर्गिनां तु ये भेदा विशेषास् तस्य ते मताः  
+स भिन्नस् तैर् व्यवस्थानां कालो भेदाय कल्पते  
 
 
-3.9.9 viśiṣṭakālasaṃbandhād vṛttilābhaḥ prakalpate  
-śaktīnāṃ saṃprayogasya hetutvenāvatiṣṭhate  
+३।९।९ विशिष्टकालसंबन्धाद् वृत्तिलाभः प्रकल्पते  
+शक्तीनां संप्रयोगस्य हेतुत्वेनावतिष्ठते  
 
 
-3.9.10 janmābhivyaktiniyamāḥ prayogopanibandhanāḥ  
-nityādhīnasthititvāc ca sthitir niyamapūrvikā  
+३।९।१० जन्माभिव्यक्तिनियमाः प्रयोगोपनिबन्धनाः  
+नित्याधीनस्थितित्वाच् च स्थितिर् नियमपूर्विका  
 
 
-3.9.11 sthitasyānugrahas tais tair dharmaiḥ saṃsargibhis tataḥ  
-pratibandhas tirobhāvaḥ prahāṇam iti cātmanaḥ  
+३।९।११ स्थितस्यानुग्रहस् तैस् तैर् धर्मैः संसर्गिभिस् ततः  
+प्रतिबन्धस् तिरोभावः प्रहाणम् इति चात्मनः  
 
 
-3.9.12 pratyavasthaṃ tu kālasya vyāpāro+atra vyavasthitaḥ  
-kāla eva hi viśvātmā vyāpāra iti kathyate  
+३।९।१२ प्रत्यवस्थं तु कालस्य व्यापारो+अत्र व्यवस्थितः  
+काल एव हि विश्वात्मा व्यापार इति कथ्यते  
 
 
-3.9.13 mūrtīnāṃ tena bhinnānām ācayāpacayāḥ pṛthak  
-lakṣyante pariṇāmena sarvāsāṃ bhedayoginā  
+३।९।१३ मूर्तीनां तेन भिन्नानाम् आचयापचयाः पृथक्  
+लक्ष्यन्ते परिणामेन सर्वासां भेदयोगिना  
 
 
-3.9.14 jalayantrabhramāveśa- sadṛśībhiḥ pravṛttibhiḥ  
-sa kalāḥ kalayan sarvāḥ kālākhyāṃ labhate vibhuḥ  
+३।९।१४ जलयन्त्रभ्रमावेश- सदृशीभिः प्रवृत्तिभिः  
+स कलाः कलयन् सर्वाः कालाख्यां लभते विभुः  
 
 
-3.9.15 pratibhaddhāś ca yās tena citrā viśvasya vṛttayaḥ  
-tāḥ sa evānujānāti yathā tantuḥ śakuntikāḥ  
+३।९।१५ प्रतिभद्धाश् च यास् तेन चित्रा विश्वस्य वृत्तयः  
+ताः स एवानुजानाति यथा तन्तुः शकुन्तिकाः  
 
 
-3.9.16 viśiṣṭakālasaṃbandhāl labdhapākāsu śaktiṣu  
-kriyābhivyajyate nityā prayogākhyena karmaṇā  
+३।९।१६ विशिष्टकालसंबन्धाल् लब्धपाकासु शक्तिषु  
+क्रियाभिव्यज्यते नित्या प्रयोगाख्येन कर्मणा  
 
 
-3.9.17 jātiprayuktā tasyāṃ tu phalavyaktiḥ prajāyate  
-kuto+apy adbhutayā vṛttyā śaktibhiḥ sā niyamyate  
+३।९।१७ जातिप्रयुक्ता तस्यां तु फलव्यक्तिः प्रजायते  
+कुतो+अप्य् अद्भुतया वृत्त्या शक्तिभिः सा नियम्यते  
 
 
-3.9.18 tatas tu samavāyākhyā śaktir bhedasya bādhikā  
-ekatvam iva tā vyaktīr āpādayati kāraṇaiḥ  
+३।९।१८ ततस् तु समवायाख्या शक्तिर् भेदस्य बाधिका  
+एकत्वम् इव ता व्यक्तीर् आपादयति कारणैः  
 
 
-3.9.19 athāsmān niyamād ūrdhvaṃ jātayo yāḥ prayojikāḥ  
-tāḥ sarvā vyaktim āyānti svacche chāyā ivāmbhasi  
+३।९।१९ अथास्मान् नियमाद् ऊर्ध्वं जातयो याः प्रयोजिकाः  
+ताः सर्वा व्यक्तिम् आयान्ति स्वच्छे छाया इवाम्भसि  
 
 
-3.9.20 kāraṇānuvidhāyitvād atha kāraṇa pūrvakāḥ  
-guṇās tatropajāyante svajātivyaktihetavaḥ  
+३।९।२० कारणानुविधायित्वाद् अथ कारण पूर्वकाः  
+गुणास् तत्रोपजायन्ते स्वजातिव्यक्तिहेतवः  
 
 
-3.9.21 āśrayāṇāṃ ca nityatvam āśritānāṃ ca nityatā  
-tā vyaktīr anugṛhṇāti sthitis tena prakalpate  
+३।९।२१ आश्रयाणां च नित्यत्वम् आश्रितानां च नित्यता  
+ता व्यक्तीर् अनुगृह्णाति स्थितिस् तेन प्रकल्पते  
 
 
-3.9.22 anityasya yathotpāde pāratantryaṃ tathā sthitau  
-vināśāyaiva tat śṛṣṭam asvādhīnasthitiṃ viduḥ  
+३।९।२२ अनित्यस्य यथोत्पादे पारतन्त्र्यं तथा स्थितौ  
+विनाशायैव तत् शृष्टम् अस्वाधीनस्थितिं विदुः  
 
 
-3.9.23 sthitaḥ saṃsargibhir bhāvaiḥ svakriyāsv anugṛhyate  
-naiṣāṃ sattām anudgṛhya vṛttir janmavatāṃ smṛtā  
+३।९।२३ स्थितः संसर्गिभिर् भावैः स्वक्रियास्व् अनुगृह्यते  
+नैषां सत्ताम् अनुद्गृह्य वृत्तिर् जन्मवतां स्मृता  
 
 
-3.9.24 jarākhyā kālaśaktir yā śaktyantaravirodhinī  
-sā śaktīḥ pratibadhnāti jāyante ca virodhinaḥ  
+३।९।२४ जराख्या कालशक्तिर् या शक्त्यन्तरविरोधिनी  
+सा शक्तीः प्रतिबध्नाति जायन्ते च विरोधिनः  
 
 
-3.9.25 prayojakās tu ye bhāvāḥ sthitibhāgasya hetavaḥ  
-tirobhavanti te sarve yata ātmā prahīyate  
+३।९।२५ प्रयोजकास् तु ये भावाः स्थितिभागस्य हेतवः  
+तिरोभवन्ति ते सर्वे यत आत्मा प्रहीयते  
 
 
-3.9.26 yathaivādbutayā vṛttyā niṣkramaṃ nirnibandhanam  
-apadaṃ jāyate sarvaṃ tathāsyātmā prahīyate  
+३।९।२६ यथैवाद्बुतया वृत्त्या निष्क्रमं निर्निबन्धनम्  
+अपदं जायते सर्वं तथास्यात्मा प्रहीयते  
 
 
-3.9.27 kriyayor apavargiṇyor nānārthasamavetayoḥ  
-saṃbandhinā vinaikena paricchedaḥ kathaṃ bhavet  
+३।९।२७ क्रिययोर् अपवर्गिण्योर् नानार्थसमवेतयोः  
+संबन्धिना विनैकेन परिच्छेदः कथं भवेत्  
 
 
-3.9.28 yathā tulāyāṃ haste vā nānādravyavyavasthitam  
-gurutvaṃ parimīyeta kālād evaṃ kriyāgatiḥ  
+३।९।२८ यथा तुलायां हस्ते वा नानाद्रव्यव्यवस्थितम्  
+गुरुत्वं परिमीयेत कालाद् एवं क्रियागतिः  
 
 
-3.9.29 jahāti sahavṛttāś ca kriyāḥ sa samavasthitāḥ  
-vrīhir yathodakaṃ tena hāyanākhyāṃ prapadyate  
+३।९।२९ जहाति सहवृत्ताश् च क्रियाः स समवस्थिताः  
+व्रीहिर् यथोदकं तेन हायनाख्यां प्रपद्यते  
 
 
-3.9.30 pratibandhābhyanujñābhyāṃ vṛttir yā tasya śāsvatī  
-tayā vibhajyamāno+asau bhajate kramarūpatāṃ  
+३।९।३० प्रतिबन्धाभ्यनुज्ञाभ्यां वृत्तिर् या तस्य शास्वती  
+तया विभज्यमानो+असौ भजते क्रमरूपतां  
 
 
-3.9.31 kartṛbhedāt tadartheṣu pracayāpacayau gataḥ  
-samatvaṃ viṣamatvaṃ vā sa ekaḥ pratipadyate  
+३।९।३१ कर्तृभेदात् तदर्थेषु प्रचयापचयौ गतः  
+समत्वं विषमत्वं वा स एकः प्रतिपद्यते  
 
 
-3.9.32 kriyābhedād yathaikasmiṃs takṣādyākhyā pravartate  
-kriyābhedāt tathaikasminn ṛtvādyākhyopajāyate  
+३।९।३२ क्रियाभेदाद् यथैकस्मिंस् तक्षाद्याख्या प्रवर्तते  
+क्रियाभेदात् तथैकस्मिन्न् ऋत्वाद्याख्योपजायते  
 
 
-3.9.33 ārambhaś ca kriyā caiva niṣṭhā cety abhidhīyate  
-dharmāntarāṇām adhyāsa- bhedāt sadasadātmanaḥ  
+३।९।३३ आरम्भश् च क्रिया चैव निष्ठा चेत्य् अभिधीयते  
+धर्मान्तराणाम् अध्यास- भेदात् सदसदात्मनः  
 
 
-3.9.34 yāvāṃś ca dvyaṇukādīnāṃ tāvān himavato+apy asau  
-na hy ātmā kasya cid bhettuṃ pracetuṃ vāpi śakyate  
+३।९।३४ यावांश् च द्व्यणुकादीनां तावान् हिमवतो+अप्य् असौ  
+न ह्य् आत्मा कस्य चिद् भेत्तुं प्रचेतुं वापि शक्यते  
 
 
-3.9.35 anyais tu bhāvair anyeṣāṃ pracayaḥ parikalpyate  
-śanair idam idaṃ kṣipram iti tena pratīyate  
+३।९।३५ अन्यैस् तु भावैर् अन्येषां प्रचयः परिकल्प्यते  
+शनैर् इदम् इदं क्षिप्रम् इति तेन प्रतीयते  
 
 
-3.9.36 asataś ca kramo nāsti sa hi bhettuṃ na śakyate  
-sato+api cātmatattvaṃ yat tat tathaivāvatiṣṭhate  
+३।९।३६ असतश् च क्रमो नास्ति स हि भेत्तुं न शक्यते  
+सतो+अपि चात्मतत्त्वं यत् तत् तथैवावतिष्ठते  
 
 
-3.9.37 kriyopādhiś ca san bhūta- bhaviṣyadvartamānatāḥ  
-ekādaśābhir ākārair vibhaktāḥ pratipadyate  
+३।९।३७ क्रियोपाधिश् च सन् भूत- भविष्यद्वर्तमानताः  
+एकादशाभिर् आकारैर् विभक्ताः प्रतिपद्यते  
 
 
-3.9.38 bhūtaḥ pañcavidhas tatra bhaviṣyaṃś ca caturvidhaḥ  
-vartamāno dvidhākhyāta ity ekādaśa kalpanāḥ  
+३।९।३८ भूतः पञ्चविधस् तत्र भविष्यंश् च चतुर्विधः  
+वर्तमानो द्विधाख्यात इत्य् एकादश कल्पनाः  
 
 
-3.9.39 kāle nidhāya svaṃ rūpaṃ prajñayā yan nigṛhyate  
-bhāvās tato nivartante tatra saṃkrāntaśaktayaḥ  
+३।९।३९ काले निधाय स्वं रूपं प्रज्ञया यन् निगृह्यते  
+भावास् ततो निवर्तन्ते तत्र संक्रान्तशक्तयः  
 
 
-3.9.40 bhāvināṃ caiva yad rūpaṃ tasya ca pratibimbakam  
-sunirmṛṣṭa ivādarśe kāla evopapadyate  
+३।९।४० भाविनां चैव यद् रूपं तस्य च प्रतिबिम्बकम्  
+सुनिर्मृष्ट इवादर्शे काल एवोपपद्यते  
 
 
-3.9.41 tṛṇaparṇalatādīni yathā sroto+anukarṣati  
-pravartayati kālo+api mātrā mātrāvatāṃ tathā  
+३।९।४१ तृणपर्णलतादीनि यथा स्रोतो+अनुकर्षति  
+प्रवर्तयति कालो+अपि मात्रा मात्रावतां तथा  
 
 
-3.9.42 āviśyevānusaṃdhatte yathā gatimatāṃ gatīḥ  
-vāyus tatraiva kālātmā vidhatte kramarūpatām  
+३।९।४२ आविश्येवानुसंधत्ते यथा गतिमतां गतीः  
+वायुस् तत्रैव कालात्मा विधत्ते क्रमरूपताम्  
 
 
-3.9.43 ayanapravibhāgaś ca gatīś ca jyotiṣāṃ dhruvā  
-nivṛttiprabhavāś caiva bhūtānāṃ tannibandhanāḥ  
+३।९।४३ अयनप्रविभागश् च गतीश् च ज्योतिषां ध्रुवा  
+निवृत्तिप्रभवाश् चैव भूतानां तन्निबन्धनाः  
 
 
-3.9.44 mātrāṇāṃ pariṇāmā ye kālavṛttyanupātinaḥ  
-nakṣatrākhyā pṛthak teṣu cihnamātraṃ tu tārakāḥ  
+३।९।४४ मात्राणां परिणामा ये कालवृत्त्यनुपातिनः  
+नक्षत्राख्या पृथक् तेषु चिह्नमात्रं तु तारकाः  
 
 
-3.9.45 rutair mṛgaśakuntānāṃ sthāvarāṇāṃ ca vṛttibhiḥ  
-chāyādipariṇāmaiś ca ṛtudhāmā nirūpyate  
+३।९।४५ रुतैर् मृगशकुन्तानां स्थावराणां च वृत्तिभिः  
+छायादिपरिणामैश् च ऋतुधामा निरूप्यते  
 
 
-3.9.46 nirbhāsopagamo yo+ayaṃ kramavān iva dṛśyate  
-akramasyāpi viśvasya tat kālasya viceṣṭitam  
+३।९।४६ निर्भासोपगमो यो+अयं क्रमवान् इव दृश्यते  
+अक्रमस्यापि विश्वस्य तत् कालस्य विचेष्टितम्  
 
 
-3.9.47 dūrāntikavyavasthānam adhvādhikaraṇaṃ yathā  
-cirakṣipravyavasthānaṃ kālādhikaraṇaṃ tathā  
+३।९।४७ दूरान्तिकव्यवस्थानम् अध्वाधिकरणं यथा  
+चिरक्षिप्रव्यवस्थानं कालाधिकरणं तथा  
 
 
-3.9.48 tasyābhinnasya kālasya vyavahāre kriyākṛtāḥ  
-bhedā iva trayaḥ siddhā yāṃl loko nātivartate  
+३।९।४८ तस्याभिन्नस्य कालस्य व्यवहारे क्रियाकृताः  
+भेदा इव त्रयः सिद्धा यांल् लोको नातिवर्तते  
 
 
-3.9.49 ekasya śaktayas tisraḥ kālasya samavasthitāḥ  
-yatsaṃbandhena bhāvānāṃ darśanādarśane satām  
+३।९।४९ एकस्य शक्तयस् तिस्रः कालस्य समवस्थिताः  
+यत्संबन्धेन भावानां दर्शनादर्शने सताम्  
 
 
-3.9.50 dvābhyāṃ sa kila śaktibhyāṃ bhāvānāṃ varaṇātmakaḥ  
-śaktis tu vartamānākhyā bhāvarūpaprakāśinī  
+३।९।५० द्वाभ्यां स किल शक्तिभ्यां भावानां वरणात्मकः  
+शक्तिस् तु वर्तमानाख्या भावरूपप्रकाशिनी  
 
 
-3.9.51 anāgatā janmaśakteḥ śaktir apratibandhikā  
-atītākhyā tu yā śaktis tayā janma virudhyate  
+३।९।५१ अनागता जन्मशक्तेः शक्तिर् अप्रतिबन्धिका  
+अतीताख्या तु या शक्तिस् तया जन्म विरुध्यते  
 
 
-3.9.52 tamaḥprakāśavat tv ete trayo+adhvāno vyavasthitāḥ  
-akramās teṣu bhāvānāṃ kramaḥ samupalabhyate  
+३।९।५२ तमःप्रकाशवत् त्व् एते त्रयो+अध्वानो व्यवस्थिताः  
+अक्रमास् तेषु भावानां क्रमः समुपलभ्यते  
 
 
-3.9.53 dvau tu tatra tamorūpāv ekasyālokavat sthitiḥ  
-atītam api keṣāṃ cit punar viparivartate  
+३।९।५३ द्वौ तु तत्र तमोरूपाव् एकस्यालोकवत् स्थितिः  
+अतीतम् अपि केषां चित् पुनर् विपरिवर्तते  
 
 
-3.9.54 yugapad vartamānatvaṃ taddharmā pratipadyate  
-keṣāṃ cid vartamānatvāc caiti tadvad atītatām  
+३।९।५४ युगपद् वर्तमानत्वं तद्धर्मा प्रतिपद्यते  
+केषां चिद् वर्तमानत्वाच् चैति तद्वद् अतीतताम्  
 
 
-3.9.55 hetupakārād ākṣipto vartamānatvam āgataḥ  
-śāntahetūpakāraḥ san punar nopaiti darśanam  
+३।९।५५ हेतुपकाराद् आक्षिप्तो वर्तमानत्वम् आगतः  
+शान्तहेतूपकारः सन् पुनर् नोपैति दर्शनम्  
 
 
-3.9.56 dve eva kālasya vibhoḥ keṣāṃ cic chaktivartmanī  
-karoti yābhyāṃ bhāvānām unmīlananimīlane  
+३।९।५६ द्वे एव कालस्य विभोः केषां चिच् छक्तिवर्त्मनी  
+करोति याभ्यां भावानाम् उन्मीलननिमीलने  
 
 
-3.9.57 kalābhiḥ pṛthagarthābhiḥ pravibhaktaṃ svabhāvataḥ  
-ke cid buddhyanusaṃhāra- lakṣaṇaṃ taṃ pracakṣate  
+३।९।५७ कलाभिः पृथगर्थाभिः प्रविभक्तं स्वभावतः  
+के चिद् बुद्ध्यनुसंहार- लक्षणं तं प्रचक्षते  
 
 
-3.9.58 jñānānugataśaktiṃ vā bāhyaṃ vā satyataḥ sthitam  
-kālātmānam anāśritya vyavahartuṃ na śakyate  
+३।९।५८ ज्ञानानुगतशक्तिं वा बाह्यं वा सत्यतः स्थितम्  
+कालात्मानम् अनाश्रित्य व्यवहर्तुं न शक्यते  
 
 
-3.9.59 tisro bhāvasya bhāvasya keṣāṃ cid bhāvaśaktayaḥ  
-tābhiḥ svaśaktibhiḥ sarvaṃ sadaivāsti ca nāsti ca  
+३।९।५९ तिस्रो भावस्य भावस्य केषां चिद् भावशक्तयः  
+ताभिः स्वशक्तिभिः सर्वं सदैवास्ति च नास्ति च  
 
 
-3.9.60 sattvād avyatirekeṇa tās tisro+api vyavasthitāḥ  
-kramas tās tadabhedāc ca sadasattvaṃ na bhidyate  
+३।९।६० सत्त्वाद् अव्यतिरेकेण तास् तिस्रो+अपि व्यवस्थिताः  
+क्रमस् तास् तदभेदाच् च सदसत्त्वं न भिद्यते  
 
 
-3.9.61 darśanādarśanenaikaṃ dṛṣṭādṛṣṭaṃ tad eva tu  
-adhvanām ekatā nāsti na ca kiṃ cin nivartate  
+३।९।६१ दर्शनादर्शनेनैकं दृष्टादृष्टं तद् एव तु  
+अध्वनाम् एकता नास्ति न च किं चिन् निवर्तते  
 
 
-3.9.62 śaktyātmadevatāpakṣair bhinnaṃ kālasya darśanam  
-prathamaṃ tad avidyāyāṃ yad vidyāyāṃ na vidyate  
+३।९।६२ शक्त्यात्मदेवतापक्षैर् भिन्नं कालस्य दर्शनम्  
+प्रथमं तद् अविद्यायां यद् विद्यायां न विद्यते  
 
 
-3.9.63 abhede yadi kālasya hrasvadīrghaplutādiṣu  
-dṛśyate bhedanirbhāsaḥ sa cirakṣiprabuddhivat  
+३।९।६३ अभेदे यदि कालस्य ह्रस्वदीर्घप्लुतादिषु  
+दृश्यते भेदनिर्भासः स चिरक्षिप्रबुद्धिवत्  
 
 
-3.9.64 hrasvadīrghaplutāvṛttyā nālikāsalilādiṣu  
-kathaṃ pracayayogaḥ syāt kalpanāmātrahetukaḥ  
+३।९।६४ ह्रस्वदीर्घप्लुतावृत्त्या नालिकासलिलादिषु  
+कथं प्रचययोगः स्यात् कल्पनामात्रहेतुकः  
 
 
-3.9.65 abhivyaktinimittasya pracayena pracīyate  
-abhinnam api śabdasya tattvam apracayātmakam  
+३।९।६५ अभिव्यक्तिनिमित्तस्य प्रचयेन प्रचीयते  
+अभिन्नम् अपि शब्दस्य तत्त्वम् अप्रचयात्मकम्  
 
 
-3.9.66 evaṃ mātrāturīyasya bhedo dāśatayasya vā  
-parimāṇavikalpena śabdātmani na vidyate  
+३।९।६६ एवं मात्रातुरीयस्य भेदो दाशतयस्य वा  
+परिमाणविकल्पेन शब्दात्मनि न विद्यते  
 
 
-3.9.67 anuniṣpādikalpena ye+antarāla iva sthitāḥ  
-śabdās te pratipattṝṇām upāyāḥ pratipattaye  
+३।९।६७ अनुनिष्पादिकल्पेन ये+अन्तराल इव स्थिताः  
+शब्दास् ते प्रतिपत्तॄणाम् उपायाः प्रतिपत्तये  
 
 
-3.9.68 viśiṣṭam avadhiṃ taṃ tam upādāya prakalpate  
-kālaḥ kālavatām ekaḥ kṣaṇamāsartubhedabhāk  
+३।९।६८ विशिष्टम् अवधिं तं तम् उपादाय प्रकल्पते  
+कालः कालवताम् एकः क्षणमासर्तुभेदभाक्  
 
 
-3.9.69 buddhyavagrahabhedāc ca vyavahārātmani sthitaḥ  
-tāvān eva kṣaṇaḥ kālo yugamanvantarāṇi vā  
+३।९।६९ बुद्ध्यवग्रहभेदाच् च व्यवहारात्मनि स्थितः  
+तावान् एव क्षणः कालो युगमन्वन्तराणि वा  
 
 
-3.9.70 pratibandhābhyanujñābhyāṃ nālikāvivarāśrite  
-yad ambhasi prakṣaraṇaṃ tat kālasyaiva ceṣṭitam  
+३।९।७० प्रतिबन्धाभ्यनुज्ञाभ्यां नालिकाविवराश्रिते  
+यद् अम्भसि प्रक्षरणं तत् कालस्यैव चेष्टितम्  
 
 
-3.9.71 alpe mahati vā chidre tatsaṃbandhe na bhidyate  
-kālasya vṛttir ātmāpi tam evāsyānuvartate  
+३।९।७१ अल्पे महति वा छिद्रे तत्संबन्धे न भिद्यते  
+कालस्य वृत्तिर् आत्मापि तम् एवास्यानुवर्तते  
 
 
-3.9.72 ākrīḍa iva kālasya dṛśyate yaḥ svaśaktibhiḥ  
-bahurūpasya bhāveṣu bahudhā tena bhidyate  
+३।९।७२ आक्रीड इव कालस्य दृश्यते यः स्वशक्तिभिः  
+बहुरूपस्य भावेषु बहुधा तेन भिद्यते  
 
 
-3.9.73 tvacisārasya vā vṛddhiṃ tṛṇarājasya vā dadhat  
-tāvat tadvṛddhiyogena kālatattvaṃ vikalpate  
+३।९।७३ त्वचिसारस्य वा वृद्धिं तृणराजस्य वा दधत्  
+तावत् तद्वृद्धियोगेन कालतत्त्वं विकल्पते  
 
 
-3.9.74 vyatikrame+api mātrāṇāṃ tasya nāsti vyatikramaḥ  
-na gantṛgatibhedena mārgabhedo+asti kaś cana  
+३।९।७४ व्यतिक्रमे+अपि मात्राणां तस्य नास्ति व्यतिक्रमः  
+न गन्तृगतिभेदेन मार्गभेदो+अस्ति कश् चन  
 
 
-3.9.75 udayāstamayāvṛttyā jyotiṣāṃ lokasiddhayā  
-kālasyāvyatipāte+api tāddharmyam iva lakṣyate  
+३।९।७५ उदयास्तमयावृत्त्या ज्योतिषां लोकसिद्धया  
+कालस्याव्यतिपाते+अपि ताद्धर्म्यम् इव लक्ष्यते  
 
 
-3.9.76 ādityagrahanakṣatra- parispandam athāpare  
-bhinnam āvṛttibhedena kālaṃ kālavido viduḥ  
+३।९।७६ आदित्यग्रहनक्षत्र- परिस्पन्दम् अथापरे  
+भिन्नम् आवृत्तिभेदेन कालं कालविदो विदुः  
 
 
-3.9.77 kriyāntarapariccheda- pravṛttā yā kriyāṃ prati  
-nirjñātaparimāṇā sā kāla ity abhidhīyate  
+३।९।७७ क्रियान्तरपरिच्छेद- प्रवृत्ता या क्रियां प्रति  
+निर्ज्ञातपरिमाणा सा काल इत्य् अभिधीयते  
 
 
-3.9.78 jñāne rūpasya saṃkrāntir jñānenaivānusaṃhṛtiḥ  
-ataḥ kriyāntarābhāve sā kriyā kāla iṣyate  
+३।९।७८ ज्ञाने रूपस्य संक्रान्तिर् ज्ञानेनैवानुसंहृतिः  
+अतः क्रियान्तराभावे सा क्रिया काल इष्यते  
 
 
-3.9.79 bhūto ghaṭa itīyaṃ ca sattāyā eva bhūtatā  
-bhūtā satteti sattāyāḥ sattā bhūtābhidhīyate  
+३।९।७९ भूतो घट इतीयं च सत्ताया एव भूतता  
+भूता सत्तेति सत्तायाः सत्ता भूताभिधीयते  
 
 
-3.9.80 parato bhidyate sarvam ātmā tu na vikalpyate  
-parvatādisthitis tasmāt pararūpeṇa bhidyate  
+३।९।८० परतो भिद्यते सर्वम् आत्मा तु न विकल्प्यते  
+पर्वतादिस्थितिस् तस्मात् पररूपेण भिद्यते  
 
 
-3.9.81 prasiddhabhedā vyāpārā virūpāvayavakriyāḥ  
-sāhacaryeṇa bhidyante sarūpāvayavakriyāḥ  
+३।९।८१ प्रसिद्धभेदा व्यापारा विरूपावयवक्रियाः  
+साहचर्येण भिद्यन्ते सरूपावयवक्रियाः  
 
 
-3.9.82* *vyavadhānam ivopaiti nivṛtta iva dṛśyate  
-kriyāsamūho bhujyādir antarālapravṛttibhiḥ  
+३।९।८२* *व्यवधानम् इवोपैति निवृत्त इव दृश्यते  
+क्रियासमूहो भुज्यादिर् अन्तरालप्रवृत्तिभिः  
 
 
-3.9.83* *na ca vicchinnarūpo+api so+avirāmān nivartate  
-sarvaiva hi kriyānyena samkīrṇevopalabhyate  
+३।९।८३* *न च विच्छिन्नरूपो+अपि सो+अविरामान् निवर्तते  
+सर्वैव हि क्रियान्येन सम्कीर्णेवोपलभ्यते  
 
 
-3.9.84 *tadantarāladṛṣṭā vā sarvaivāvayavakriyā *  
-sādṛśyāt sati bhede tu tadaṅgatvena gṛhyate  
+३।९।८४ *तदन्तरालदृष्टा वा सर्वैवावयवक्रिया *  
+सादृश्यात् सति भेदे तु तदङ्गत्वेन गृह्यते  
 
 
-3.9.85 sad asad vāpi vastu syāt tṛtīyaṃ nāsti kiṃ cana  
-tena bhūtabhaviṣyantau muktvā madhyaṃ na vidyate  
+३।९।८५ सद् असद् वापि वस्तु स्यात् तृतीयं नास्ति किं चन  
+तेन भूतभविष्यन्तौ मुक्त्वा मध्यं न विद्यते  
 
 
-3.9.86 nirvṛttirūpam ekasya bhedābhāvān na kalpate  
-sad asad vāpi tenaikaṃ kramarūpaṃ kathaṃ bhavet  
+३।९।८६ निर्वृत्तिरूपम् एकस्य भेदाभावान् न कल्पते  
+सद् असद् वापि तेनैकं क्रमरूपं कथं भवेत्  
 
 
-3.9.87 bahūnāṃ cānavasthānād ekam evopalabhyate  
-yathopalabdhi smaraṇaṃ tatra cāpy upapadyate  
+३।९।८७ बहूनां चानवस्थानाद् एकम् एवोपलभ्यते  
+यथोपलब्धि स्मरणं तत्र चाप्य् उपपद्यते  
 
 
-3.9.88 sadasadrūpam ekaṃ syād sarvasyaikatvakalpane  
-nirvṛttirūpaṃ nirvṛtteḥ sāmānyam atha vā bhavet  
+३।९।८८ सदसद्रूपम् एकं स्याद् सर्वस्यैकत्वकल्पने  
+निर्वृत्तिरूपं निर्वृत्तेः सामान्यम् अथ वा भवेत्  
 
 
-3.9.89 kāryotpattau samarthaṃ vā svena dharmeṇa tat tathā  
-ātmatattvena gṛhyeta sā cāsmin vartamānatā  
+३।९।८९ कार्योत्पत्तौ समर्थं वा स्वेन धर्मेण तत् तथा  
+आत्मतत्त्वेन गृह्येत सा चास्मिन् वर्तमानता  
 
 
-3.9.90 kriyāprabandharūpaṃ yad adhyātmaṃ vinigṛhyate  
-saṃkrāntarūpam ekatra tām āhur vartamānatām  
+३।९।९० क्रियाप्रबन्धरूपं यद् अध्यात्मं विनिगृह्यते  
+संक्रान्तरूपम् एकत्र ताम् आहुर् वर्तमानताम्  
 
 
-3.9.91 kriyātipattir atyantaṃ kriyānutpattilakṣaṇā  
-na ca bhūtam anutpannaṃ na bhaviṣyat tathāvidham  
+३।९।९१ क्रियातिपत्तिर् अत्यन्तं क्रियानुत्पत्तिलक्षणा  
+न च भूतम् अनुत्पन्नं न भविष्यत् तथाविधम्  
 
 
-3.9.92 prāg viruddhakriyotpādān nirvṛtte vā virodhini  
-vyāpāre+avadhibhedena viṣayas tatra bhidyate  
+३।९।९२ प्राग् विरुद्धक्रियोत्पादान् निर्वृत्ते वा विरोधिनि  
+व्यापारे+अवधिभेदेन विषयस् तत्र भिद्यते  
 
 
-3.9.93 vyabhicāre nimittasya sādhutvaṃ na prakalpate  
-bhāvy āsīd iti sūtreṇa tat kāle+anyatra śiṣyate  
+३।९।९३ व्यभिचारे निमित्तस्य साधुत्वं न प्रकल्पते  
+भाव्य् आसीद् इति सूत्रेण तत् काले+अन्यत्र शिष्यते  
 
 
-3.9.94 svakāla eva sādhutve kālabhede gatiḥ katham  
-vākyārthād atadartheṣu viśiṣṭatvaṃ na sidhyati  
+३।९।९४ स्वकाल एव साधुत्वे कालभेदे गतिः कथम्  
+वाक्यार्थाद् अतदर्थेषु विशिष्टत्वं न सिध्यति  
 
 
-3.9.95 tadarthaś ced avayavo bhāvino bhūtatāgatiḥ  
-na syād atyantabhūtatvam evaikaṃ tatra saṃbhavet  
+३।९।९५ तदर्थश् चेद् अवयवो भाविनो भूततागतिः  
+न स्याद् अत्यन्तभूतत्वम् एवैकं तत्र संभवेत्  
 
 
-3.9.96 viśiṣṭakālatā pūrvaṃ tathāpi tu viśeṣaṇe  
-āśrayāt so+antaraṅgatvāt tatra sādhur bhaviṣyati  
+३।९।९६ विशिष्टकालता पूर्वं तथापि तु विशेषणे  
+आश्रयात् सो+अन्तरङ्गत्वात् तत्र साधुर् भविष्यति  
 
 
-3.9.97 āmiśra eva prakrāntaḥ sa padārthas tathāvidhaḥ  
-kevalasya vimiśratvaṃ nitye+arthe nopapadyate  
+३।९।९७ आमिश्र एव प्रक्रान्तः स पदार्थस् तथाविधः  
+केवलस्य विमिश्रत्वं नित्ये+अर्थे नोपपद्यते  
 
 
-3.9.98 śuddhe ca kāle vyākhyātam āmiśre na prasidhyati  
-sādhutvam ayathākālaṃ tat sūtreṇopadiśyate  
+३।९।९८ शुद्धे च काले व्याख्यातम् आमिश्रे न प्रसिध्यति  
+साधुत्वम् अयथाकालं तत् सूत्रेणोपदिश्यते  
 
 
-3.9.99 ākhyātapadavācye+arthe nirvartyatvāt pradhānatā  
-viśeṣaṇaṃ tadākṣepāt tatkāle vyavatiṣṭhate  
+३।९।९९ आख्यातपदवाच्ये+अर्थे निर्वर्त्यत्वात् प्रधानता  
+विशेषणं तदाक्षेपात् तत्काले व्यवतिष्ठते  
 
 
-3.9.100 saṃpratyayānukāro vā śabdavyāpāra eva vā  
-adhyasyate viruddhe+arthe na ca tena virudhyate  
+३।९।१०० संप्रत्ययानुकारो वा शब्दव्यापार एव वा  
+अध्यस्यते विरुद्धे+अर्थे न च तेन विरुध्यते  
 
 
-3.9.101 bhūtaṃ bhaviṣyad ity etau pratyayau vartamānatām  
-atyajantau prapadyete viruddhāśrayarūpatām  
+३।९।१०१ भूतं भविष्यद् इत्य् एतौ प्रत्ययौ वर्तमानताम्  
+अत्यजन्तौ प्रपद्येते विरुद्धाश्रयरूपताम्  
 
 
-3.9.103 adhvano vartamānasya viṣayeṇa bhaviṣyatā  
-bhāṣye bhaviṣyatkāleti kāryārthaṃ vyapadiśyate  
+३।९।१०३ अध्वनो वर्तमानस्य विषयेण भविष्यता  
+भाष्ये भविष्यत्कालेति कार्यार्थं व्यपदिश्यते  
 
 
-3.9.104 icchā cikīrśatīty atra svakālam anurudhyate  
-bhaviṣyati prakṛtyarthe tatkālaṃ nānurudhyate  
+३।९।१०४ इच्छा चिकीर्शतीत्य् अत्र स्वकालम् अनुरुध्यते  
+भविष्यति प्रकृत्यर्थे तत्कालं नानुरुध्यते  
 
 
-3.9.105 āśāsyamānatantratvād āśaṃsāyāṃ viparyayaḥ  
-prayoktṛdharmaḥ śabdārthe śabdair evānuśajyate  
+३।९।१०५ आशास्यमानतन्त्रत्वाद् आशंसायां विपर्ययः  
+प्रयोक्तृधर्मः शब्दार्थे शब्दैर् एवानुशज्यते  
 
 
-3.9.106 apchālibījasaṃyoge vartate niṣpadir yadā  
-tatrāvayavavṛttitvād bhaviṣyatpratiṣedhanam  
+३।९।१०६ अप्छालिबीजसंयोगे वर्तते निष्पदिर् यदा  
+तत्रावयववृत्तित्वाद् भविष्यत्प्रतिषेधनम्  
 
 
-3.9.107 phalaprasavarūpe tu niṣpadau bhūtakālatā  
-dharmāntareṣu tad rūpam adhyasya parikalpyate  
+३।९।१०७ फलप्रसवरूपे तु निष्पदौ भूतकालता  
+धर्मान्तरेषु तद् रूपम् अध्यस्य परिकल्प्यते  
 
 
-3.9.108 upayukte nimittānāṃ vyāpāre phalasiddhaye  
-tatra rūpaṃ yad adhyastaṃ tatkālaṃ tat pratīyate  
+३।९।१०८ उपयुक्ते निमित्तानां व्यापारे फलसिद्धये  
+तत्र रूपं यद् अध्यस्तं तत्कालं तत् प्रतीयते  
 
 
-3.9.109 niṣpattāv avadhiḥ kaś cit kaś cit prativivakṣitaḥ  
-hetujanmavyapekṣātaḥ phalajanmeti cocyate  
+३।९।१०९ निष्पत्ताव् अवधिः कश् चित् कश् चित् प्रतिविवक्षितः  
+हेतुजन्मव्यपेक्षातः फलजन्मेति चोच्यते  
 
 
-3.9.110 abahiḥsādhanādhīnā siddhir yatra vivakṣitā  
-tat sādhanāntarābhāvāt siddham ity apadiśyate  
+३।९।११० अबहिःसाधनाधीना सिद्धिर् यत्र विवक्षिता  
+तत् साधनान्तराभावात् सिद्धम् इत्य् अपदिश्यते  
 
 
-3.9.111 tasmād avadhibhedena siddhā mukhyaiva bhūtatā  
-anāgatatvam astitvaṃ hetudharmavyapekṣaṇe  
+३।९।१११ तस्माद् अवधिभेदेन सिद्धा मुख्यैव भूतता  
+अनागतत्वम् अस्तित्वं हेतुधर्मव्यपेक्षणे  
 
 
-3.9.112 satām indriyasaṃbandhāt saiva sattā viśiṣyate  
-bhedena vyavahāro hi vastvantaranibandhanaḥ  
+३।९।११२ सताम् इन्द्रियसंबन्धात् सैव सत्ता विशिष्यते  
+भेदेन व्यवहारो हि वस्त्वन्तरनिबन्धनः  
 
 
-3.9.113 astitvaṃ vastumātrasya buddhyā tu parigṛhyate  
-yaḥ samāsādanād bhedaḥ sa tatra na vivakṣitaḥ  
+३।९।११३ अस्तित्वं वस्तुमात्रस्य बुद्ध्या तु परिगृह्यते  
+यः समासादनाद् भेदः स तत्र न विवक्षितः  
 
 
-3.9.114 yogād vā strītvapuṃstvābhyāṃ na kiṃ cid avatiṣṭhate  
-svasminn ātmani tatrānyad bhūtaṃ bhāvi ca kathyate  
+३।९।११४ योगाद् वा स्त्रीत्वपुंस्त्वाभ्यां न किं चिद् अवतिष्ठते  
+स्वस्मिन्न् आत्मनि तत्रान्यद् भूतं भावि च कथ्यते  
 
 
  ३।१०: पुरुषसमुद्देश
@@ -5206,134 +5205,134 @@ svasminn ātmani tatrānyad bhūtaṃ bhāvi ca kathyate
 यथोपलक्षणार्थत्वं तथार्थेष्व् अनुशासनम्  
 
 
- 3.11: saṃkhyāsamuddeśa
+ ३।११: संख्यासमुद्देश
 
-3.11.1 saṃkhyāvān sattvabhūto+arthaḥ sarva evābhidhīyate  
-bhedābhedavibhāgo hi loke saṃkhyānibandhanaḥ  
-
-
-3.11.2 sa dharmo vyatirikto vā teṣāṃ ātmaiva vā tathā  
-bhedahetutvam āśritya saṃkhyeti vyapadiśyate  
+३।११।१ संख्यावान् सत्त्वभूतो+अर्थः सर्व एवाभिधीयते  
+भेदाभेदविभागो हि लोके संख्यानिबन्धनः  
 
 
-3.11.3 samavetā paricchedye kva cid anyatra sā sthitā  
-prakalpayati bhāvānāṃ saṃkhyā bhedaṃ tathātmanaḥ  
+३।११।२ स धर्मो व्यतिरिक्तो वा तेषां आत्मैव वा तथा  
+भेदहेतुत्वम् आश्रित्य संख्येति व्यपदिश्यते  
 
 
-3.11.4 paratve cāparatve ca bhede tulyā śrutir yathā  
-saṃkhyāśabdābhidheyatvaṃ bhedahetos tathā guṇe  
+३।११।३ समवेता परिच्छेद्ये क्व चिद् अन्यत्र सा स्थिता  
+प्रकल्पयति भावानां संख्या भेदं तथात्मनः  
 
 
-3.11.5 asvatantre svatantratvaṃ paradharmo yathā guṇe  
-abhedye bhedyabhāvo+api dravyadharmas tathā guṇe  
+३।११।४ परत्वे चापरत्वे च भेदे तुल्या श्रुतिर् यथा  
+संख्याशब्दाभिधेयत्वं भेदहेतोस् तथा गुणे  
 
 
-3.11.6 svabuddhyā tam apoddhṛtya loko+apy āgamam āśritaḥ  
-svadharmād anyadharmeṇa vyācaṣṭe pratipattaye  
+३।११।५ अस्वतन्त्रे स्वतन्त्रत्वं परधर्मो यथा गुणे  
+अभेद्ये भेद्यभावो+अपि द्रव्यधर्मस् तथा गुणे  
 
 
-3.11.7 paropakāratattvānāṃ svātantryenābhidhāyakaḥ  
-śabdaḥ sarvapadārthānā svadharmad viprakṛṣyate  
+३।११।६ स्वबुद्ध्या तम् अपोद्धृत्य लोको+अप्य् आगमम् आश्रितः  
+स्वधर्माद् अन्यधर्मेण व्याचष्टे प्रतिपत्तये  
 
 
-3.11.8 yathaivāviṣayaṃ jñānaṃ na kiṃ cid avabhāsate  
-tathā bhāvo+apy asaṃsṛṣṭo na kaś cid upalabhyate  
+३।११।७ परोपकारतत्त्वानां स्वातन्त्र्येनाभिधायकः  
+शब्दः सर्वपदार्थाना स्वधर्मद् विप्रकृष्यते  
 
 
-3.11.9 bhedena tu samākhyātaṃ yal loko+apy anuvartate  
-āgamāc chāstrasadṛśo vyavahāraḥ sa varṇyate  
+३।११।८ यथैवाविषयं ज्ञानं न किं चिद् अवभासते  
+तथा भावो+अप्य् असंसृष्टो न कश् चिद् उपलभ्यते  
 
 
-3.11.10 buddhau sthiteṣu teṣv evam adhyāropo na durlabhaḥ  
-paradharmasya na hy atra sadasattvaṃ prayojakam  
+३।११।९ भेदेन तु समाख्यातं यल् लोको+अप्य् अनुवर्तते  
+आगमाच् छास्त्रसदृशो व्यवहारः स वर्ण्यते  
 
 
-3.11.11 sāmānyeṣv api sāmānyaṃ viśeṣeṣu viśiṣṭatā  
-saṃkhyāsu saṃkhyā liṅgeṣu liṅgam evaṃ prakalpate  
+३।११।१० बुद्धौ स्थितेषु तेष्व् एवम् अध्यारोपो न दुर्लभः  
+परधर्मस्य न ह्य् अत्र सदसत्त्वं प्रयोजकम्  
 
 
-3.11.12 ato dravyāśritāṃ saṃkhyām āhuḥ saṃsargavādinaḥ  
-bhedābhedavyatīteṣu bhedābhedavidhāyinīm  
+३।११।११ सामान्येष्व् अपि सामान्यं विशेषेषु विशिष्टता  
+संख्यासु संख्या लिङ्गेषु लिङ्गम् एवं प्रकल्पते  
 
 
-3.11.13 ātmāntarānāṃ yenātmā tadrūpa iva lakṣyate  
-atadrūpeṇa saṃsargāt sā nimittasarūpatā  
+३।११।१२ अतो द्रव्याश्रितां संख्याम् आहुः संसर्गवादिनः  
+भेदाभेदव्यतीतेषु भेदाभेदविधायिनीम्  
 
 
-3.11.14 saṃsṛṣṭeṣv api nirbhāge bhūteṣv arthakriyā yathā  
-sattvādiṣu ca mātrāsu sarvāsv evaṃ pratīyate  
+३।११।१३ आत्मान्तरानां येनात्मा तद्रूप इव लक्ष्यते  
+अतद्रूपेण संसर्गात् सा निमित्तसरूपता  
 
 
-3.11.15 dvitvādiyonir ekatvaṃ bhedās tatpūrvakā yataḥ  
-vinā tena na saṃkhyānām anyāsām asti saṃbhavaḥ  
+३।११।१४ संसृष्टेष्व् अपि निर्भागे भूतेष्व् अर्थक्रिया यथा  
+सत्त्वादिषु च मात्रासु सर्वास्व् एवं प्रतीयते  
 
 
-3.11.16 ekatve buddhisahite nimittaṃ dvitvajanmani  
-ekatvābhyāṃ samutpannam evaṃ vā tat pratīyate  
+३।११।१५ द्वित्वादियोनिर् एकत्वं भेदास् तत्पूर्वका यतः  
+विना तेन न संख्यानाम् अन्यासाम् अस्ति संभवः  
 
 
-3.11.17 ekatvasamudāyo vā sāpekṣe vā pṛthak pṛthak  
-ekatve dvitvam ity evaṃ tayor dvivacanaṃ bhavet  
+३।११।१६ एकत्वे बुद्धिसहिते निमित्तं द्वित्वजन्मनि  
+एकत्वाभ्यां समुत्पन्नम् एवं वा तत् प्रतीयते  
 
 
-3.11.18 eko+api guṇabhedena saṅgho bhedaṃ prakalpayet  
-āśrayāśrayibhedo hi tadāśrayanibandhanaḥ  
+३।११।१७ एकत्वसमुदायो वा सापेक्षे वा पृथक् पृथक्  
+एकत्वे द्वित्वम् इत्य् एवं तयोर् द्विवचनं भवेत्  
 
 
-3.11.19 saṃkhyeyasaṅghasaṃkhyāna- saṅghaḥ saṃkhyeti kathyate  
-vimśatyādisu sānyasva dravyasaṅghasya bhedikā  
+३।११।१८ एको+अपि गुणभेदेन सङ्घो भेदं प्रकल्पयेत्  
+आश्रयाश्रयिभेदो हि तदाश्रयनिबन्धनः  
 
 
-3.11.20 ekaviṃśatisaṃkhvāvāṃ saṃkhyāntarasarūpayoḥ  
-ekasyāṃ buddhyanāvṛttyā, bhāgayor iva kalpanā  
+३।११।१९ संख्येयसङ्घसंख्यान- सङ्घः संख्येति कथ्यते  
+विम्शत्यादिसु सान्यस्व द्रव्यसङ्घस्य भेदिका  
 
 
-3.11.21 asaṃkhyāsamudāyatvāt saṃkhyākāryaṃ vidhīyate  
-samūhatve tu tan na syāt svāṅgādisamudāyavat  
+३।११।२० एकविंशतिसंख्वावां संख्यान्तरसरूपयोः  
+एकस्यां बुद्ध्यनावृत्त्या, भागयोर् इव कल्पना  
 
 
-3.11.22 saṃkhyeyāntaratantrāsu yā saṃkhyāsu pravartate  
-āvṛttivargasaṃkhyeyā tāṃ saṃkhyāṃ tādṛśīṃ viduḥ  
+३।११।२१ असंख्यासमुदायत्वात् संख्याकार्यं विधीयते  
+समूहत्वे तु तन् न स्यात् स्वाङ्गादिसमुदायवत्  
 
 
-3.11.23 na saṃkhyāyāṃ na saṃkhyeye dvau daśety asti saṃbhavaḥ  
-bhedābhāvān na saṃkhyāyāṃ virodhān na tadāśraye  
+३।११।२२ संख्येयान्तरतन्त्रासु या संख्यासु प्रवर्तते  
+आवृत्तिवर्गसंख्येया तां संख्यां तादृशीं विदुः  
 
 
-3.11.24 saṃkhyāyete daśadvargau dvidaśā iti saṃkhyayā  
-tadrūpe vāpi saṃkhyeya āvṛttiḥ parigaṇyate  
+३।११।२३ न संख्यायां न संख्येये द्वौ दशेत्य् अस्ति संभवः  
+भेदाभावान् न संख्यायां विरोधान् न तदाश्रये  
 
 
-3.11.25 saṃkhyā nāma na saṃkhyāsti saṃjñaiṣeti yathocyate  
-rūpaṃ na rūpam apy evaṃ samjñā sā hi sitādiṣu  
+३।११।२४ संख्यायेते दशद्वर्गौ द्विदशा इति संख्यया  
+तद्रूपे वापि संख्येय आवृत्तिः परिगण्यते  
 
 
-3.11.26 saṃkhyānajātiyogāt tu saṃkhyā saṃkhyeti kathyate  
-rūpatvajātiyogāc ca rūpe rūpam iti smṛtam  
+३।११।२५ संख्या नाम न संख्यास्ति संज्ञैषेति यथोच्यते  
+रूपं न रूपम् अप्य् एवं सम्ज्ञा सा हि सितादिषु  
 
 
-3.11.27 nimittam ekam ity atra vibhaktyā nābhidhīyate  
-tadvatas tu yad ekatvaṃ vibhaktis tatra vartate  
+३।११।२६ संख्यानजातियोगात् तु संख्या संख्येति कथ्यते  
+रूपत्वजातियोगाच् च रूपे रूपम् इति स्मृतम्  
 
 
-3.11.28 ekasya pracayo dṛṣṭaḥ samūhaś ca dvayos tathā  
-nimittavyatirekeṇa saṃkhyānyā bhedikā tataḥ  
+३।११।२७ निमित्तम् एकम् इत्य् अत्र विभक्त्या नाभिधीयते  
+तद्वतस् तु यद् एकत्वं विभक्तिस् तत्र वर्तते  
 
 
-3.11.29 tad ekam api caikatvaṃ vibhaktiśravaṇād ṛte  
-nocyate tena śabdena vibhaktyā tu sahocyate  
+३।११।२८ एकस्य प्रचयो दृष्टः समूहश् च द्वयोस् तथा  
+निमित्तव्यतिरेकेण संख्यान्या भेदिका ततः  
 
 
-3.11.30 anvayavyatirekau ca yadi syād vacanāntaram  
-syātām asati tasmimś ca prakṛtyartho na kalpyate  
+३।११।२९ तद् एकम् अपि चैकत्वं विभक्तिश्रवणाद् ऋते  
+नोच्यते तेन शब्देन विभक्त्या तु सहोच्यते  
 
 
-3.11.31 ekatvam eka ity atra śuddhadravyaviśeṣaṇam  
-saguṇas tu prakṛtyartho vibhaktyarthena bhidyate  
+३।११।३० अन्वयव्यतिरेकौ च यदि स्याद् वचनान्तरम्  
+स्याताम् असति तस्मिम्श् च प्रकृत्यर्थो न कल्प्यते  
 
 
-3.11.32 dvyekayor iti nirdeśāt saṃkhyāmātre+api saṃbhavaḥ  
-ekādīnāṃ prasiddhyā tu saṃkhyeyārthatvam ucyate  
+३।११।३१ एकत्वम् एक इत्य् अत्र शुद्धद्रव्यविशेषणम्  
+सगुणस् तु प्रकृत्यर्थो विभक्त्यर्थेन भिद्यते  
+
+
+३।११।३२ द्व्येकयोर् इति निर्देशात् संख्यामात्रे+अपि संभवः  
+एकादीनां प्रसिद्ध्या तु संख्येयार्थत्वम् उच्यते  
 
 
  ३।१२: उपग्रहसमुद्देश
@@ -5446,130 +5445,130 @@ ekādīnāṃ prasiddhyā tu saṃkhyeyārthatvam ucyate
 प्राप्ते विभाषा क्रियते तस्मान् नात्रात्मनेपदम्  
 
 
- 3.13: liṅgasamuddeśa
+ ३।१३: लिङ्गसमुद्देश
 
-3.13.1 stanakeśādisaṃbandho viśiṣṭā vā stanādayaḥ  
-tadupavyañjanā jātir guṇāvasthā guṇās tathā  
-
-
-3.13.2 śabdopajanito+arthātmā śabdasaṃskāra ity api  
-liṅgānāṃ liṅgatattvajñair vikalpāḥ sapta darśitāḥ  
+३।१३।१ स्तनकेशादिसंबन्धो विशिष्टा वा स्तनादयः  
+तदुपव्यञ्जना जातिर् गुणावस्था गुणास् तथा  
 
 
-3.13.3 upādānavikalpāś ca liṅgānāṃ sapta varṇitāḥ  
-vikalpasaṃniyogābhyāṃ ye śabdeṣu vyavasthitāḥ  
+३।१३।२ शब्दोपजनितो+अर्थात्मा शब्दसंस्कार इत्य् अपि  
+लिङ्गानां लिङ्गतत्त्वज्ञैर् विकल्पाः सप्त दर्शिताः  
 
 
-3.13.4 tisro jātaya evaitāḥ kesāṃ cit samavasthitāḥ  
-aviruddhā, viruddhābhir gomahiṣyādijātibhiḥ  
+३।१३।३ उपादानविकल्पाश् च लिङ्गानां सप्त वर्णिताः  
+विकल्पसंनियोगाभ्यां ये शब्देषु व्यवस्थिताः  
 
 
-3.13.5 hastinyāṃ vaḍavāyāṃ ca strīti buddheḥ samanvayaḥ  
-atas tāṃ jātim icchanti dravyādisamavāyinīm  
+३।१३।४ तिस्रो जातय एवैताः केसां चित् समवस्थिताः  
+अविरुद्धा, विरुद्धाभिर् गोमहिष्यादिजातिभिः  
 
 
-3.13.6 paratantrasya yal liṅgam apoddhāre vivakṣite  
-tatrāsau śabdasaṃskāraḥ śabdair eva vyapāśritaḥ  
+३।१३।५ हस्तिन्यां वडवायां च स्त्रीति बुद्धेः समन्वयः  
+अतस् तां जातिम् इच्छन्ति द्रव्यादिसमवायिनीम्  
 
 
-3.13.7 buddhyā kalpitarūpeṣu liṅgeṣv api ca saṃbhavaḥ  
-strītvādīnāṃ vyavasthā hi sā liṅgair vyapadiśyate  
+३।१३।६ परतन्त्रस्य यल् लिङ्गम् अपोद्धारे विवक्षिते  
+तत्रासौ शब्दसंस्कारः शब्दैर् एव व्यपाश्रितः  
 
 
-3.13.8 yathā salilanirbhāsā mṛgatṛṣṇāsu jāyate  
-jalopalabdhyanuguṇād bījād buddhir jale+asati  
+३।१३।७ बुद्ध्या कल्पितरूपेषु लिङ्गेष्व् अपि च संभवः  
+स्त्रीत्वादीनां व्यवस्था हि सा लिङ्गैर् व्यपदिश्यते  
 
 
-3.13.9 tathaivāvyapadeśyebhyo hetubhyas tārakādiṣu  
-mukhyebhya iva liṅgebhyo bhedā loke vyavasthitāḥ  
+३।१३।८ यथा सलिलनिर्भासा मृगतृष्णासु जायते  
+जलोपलब्ध्यनुगुणाद् बीजाद् बुद्धिर् जले+असति  
 
 
-3.13.10 vyakteṣu vyaktarūpāṇāṃ stanādīnāṃ tu darśanāt  
-avyaktavyañjanāvyakter jātir na parikalpyate  
+३।१३।९ तथैवाव्यपदेश्येभ्यो हेतुभ्यस् तारकादिषु  
+मुख्येभ्य इव लिङ्गेभ्यो भेदा लोके व्यवस्थिताः  
 
 
-3.13.11 astitvaṃ ca pratijñāya sadādarśanam icchataḥ  
-atyantādarśane na syād asattvaṃ prati niścayaḥ  
+३।१३।१० व्यक्तेषु व्यक्तरूपाणां स्तनादीनां तु दर्शनात्  
+अव्यक्तव्यञ्जनाव्यक्तेर् जातिर् न परिकल्प्यते  
 
 
-3.13.12 na cālam anumānāya śabdo+adarśanapūrvakaḥ  
-siddhe hi darśane kiṃ syād anumānaprayojanam  
+३।१३।११ अस्तित्वं च प्रतिज्ञाय सदादर्शनम् इच्छतः  
+अत्यन्तादर्शने न स्याद् असत्त्वं प्रति निश्चयः  
 
 
-3.13.13 āvirbhāvas tirobhāvaḥ sthitiś cety anapāyinaḥ  
-dharmā mūrtiṣu sarvāsu liṅgatvenānudarśitāḥ  
+३।१३।१२ न चालम् अनुमानाय शब्दो+अदर्शनपूर्वकः  
+सिद्धे हि दर्शने किं स्याद् अनुमानप्रयोजनम्  
 
 
-3.13.14 sarvamūrtyātmabhūtānāṃ śabdādināṃ guṇe guṇe  
-trayaḥ sattvādidharmās te sarvatra samavasthitāḥ  
+३।१३।१३ आविर्भावस् तिरोभावः स्थितिश् चेत्य् अनपायिनः  
+धर्मा मूर्तिषु सर्वासु लिङ्गत्वेनानुदर्शिताः  
 
 
-3.13.15 rūpasya cātmamātrānāṃ śuklādināṃ pratikṣaṇam  
-kā cit pralīyate kā cit kathaṃ cid abhivardhate  
+३।१३।१४ सर्वमूर्त्यात्मभूतानां शब्दादिनां गुणे गुणे  
+त्रयः सत्त्वादिधर्मास् ते सर्वत्र समवस्थिताः  
 
 
-3.13.16 kvathitodakavac caiṣām anavasthitavṛttitā  
-ajasraṃ sarvabhāvānāṃ bhāṣya evopavarṇitā  
+३।१३।१५ रूपस्य चात्ममात्रानां शुक्लादिनां प्रतिक्षणम्  
+का चित् प्रलीयते का चित् कथं चिद् अभिवर्धते  
 
 
-3.13.17 pravṛtter ekarūpatvaṃ sāmyaṃ vā sthitir ucyate  
-avirbhāvatirobhāva- pravṛttyā vāvatiṣṭhate  
+३।१३।१६ क्वथितोदकवच् चैषाम् अनवस्थितवृत्तिता  
+अजस्रं सर्वभावानां भाष्य एवोपवर्णिता  
 
 
-3.13.18 guṇā ity eva buddher vā nimittatvaṃ sthitir matā  
-sthiteś ca sarvaliṅgānāṃ sarvanāmatvam ucyate  
+३।१३।१७ प्रवृत्तेर् एकरूपत्वं साम्यं वा स्थितिर् उच्यते  
+अविर्भावतिरोभाव- प्रवृत्त्या वावतिष्ठते  
 
 
-3.13.19 sthiteṣu sarvaliṅgeṣu vivakṣāniyamāśrayaḥ  
-kasya cic chabdasaṃskāre vyāpāraḥ kva cid iṣyate  
+३।१३।१८ गुणा इत्य् एव बुद्धेर् वा निमित्तत्वं स्थितिर् मता  
+स्थितेश् च सर्वलिङ्गानां सर्वनामत्वम् उच्यते  
 
 
-3.13.20 saṃnidhāne nimittānāṃ kiṃ cid eva pravartakam  
-yathā takṣādiśabdānāṃ lingeṣu niyamas tathā  
+३।१३।१९ स्थितेषु सर्वलिङ्गेषु विवक्षानियमाश्रयः  
+कस्य चिच् छब्दसंस्कारे व्यापारः क्व चिद् इष्यते  
 
 
-3.13.21 bhāvatattvadṛśaḥ śiṣṭāḥ śabdārtheṣu vyavasthitāḥ  
-yad yad dharme+aṅgatām eti liṅgaṃ tat tat pracakṣate  
+३।१३।२० संनिधाने निमित्तानां किं चिद् एव प्रवर्तकम्  
+यथा तक्षादिशब्दानां लिन्गेषु नियमस् तथा  
 
 
-3.13.22 svarabhedād yathā śabdāḥ sādhavo viṣayāntare  
-liṅgabhedāt tathā siddhāt sādhutvam anugamyate  
+३।१३।२१ भावतत्त्वदृशः शिष्टाः शब्दार्थेषु व्यवस्थिताः  
+यद् यद् धर्मे+अङ्गताम् एति लिङ्गं तत् तत् प्रचक्षते  
 
 
-3.13.23 prayogo viprayogaś ca loke yatropalabhyate  
-śāstram ārabhyate tatra na prayogāviparyaye  
+३।१३।२२ स्वरभेदाद् यथा शब्दाः साधवो विषयान्तरे  
+लिङ्गभेदात् तथा सिद्धात् साधुत्वम् अनुगम्यते  
 
 
-3.13.24 upādhibhedād artheṣu guṇadharmasya kasya cit  
-nimittabhāvaḥ sādhutve vivakṣā ca vyavasthitā  
+३।१३।२३ प्रयोगो विप्रयोगश् च लोके यत्रोपलभ्यते  
+शास्त्रम् आरभ्यते तत्र न प्रयोगाविपर्यये  
 
 
-3.13.25 himāraṇye mahattvena yukte strītvam avasthitam  
-hrasvopādhiviśiṣṭāyāḥ kuṭyāḥ prasavayogitā  
+३।१३।२४ उपाधिभेदाद् अर्थेषु गुणधर्मस्य कस्य चित्  
+निमित्तभावः साधुत्वे विवक्षा च व्यवस्थिता  
 
 
-3.13.26 śabdāntarānāṃ bhinne+artha upāyāḥ pratipattaye  
-ekatām iva niścitya laghvartham upadarśitāḥ  
+३।१३।२५ हिमारण्ये महत्त्वेन युक्ते स्त्रीत्वम् अवस्थितम्  
+ह्रस्वोपाधिविशिष्टायाः कुट्याः प्रसवयोगिता  
 
 
-3.13.27 utpattiḥ prasavo+anyeṣāṃ nāśaḥ saṃstyānam ity api  
-ātmarūpaṃ tu bhāvānāṃ sthitir ity apadiśyate  
+३।१३।२६ शब्दान्तरानां भिन्ने+अर्थ उपायाः प्रतिपत्तये  
+एकताम् इव निश्चित्य लघ्वर्थम् उपदर्शिताः  
 
 
-3.13.28 dṛṣṭaṃ nimittaṃ kesāṃ cij jātyādivad avasthitam  
-dṛṣṭavac chabdasaṃskāra- mātraṃ tu parikalpitam  
+३।१३।२७ उत्पत्तिः प्रसवो+अन्येषां नाशः संस्त्यानम् इत्य् अपि  
+आत्मरूपं तु भावानां स्थितिर् इत्य् अपदिश्यते  
 
 
-3.13.29 yathā prasiddhe+apy ekatve nānātvābhiniveśinaḥ  
-nānātvaṃ janayantīva śabdā liṅge+api sa kramaḥ  
+३।१३।२८ दृष्टं निमित्तं केसां चिज् जात्यादिवद् अवस्थितम्  
+दृष्टवच् छब्दसंस्कार- मात्रं तु परिकल्पितम्  
 
 
-3.13.30 idaṃ veyam ayaṃ veti śabdasaṃskāramātrakam  
-nimittadarśanād arthe kaiś cit sarvatra varṇyate  
+३।१३।२९ यथा प्रसिद्धे+अप्य् एकत्वे नानात्वाभिनिवेशिनः  
+नानात्वं जनयन्तीव शब्दा लिङ्गे+अपि स क्रमः  
 
 
-3.13.31 nāvaśyaṃ viṣayatvena nimittaṃ vyavatiṣṭhate  
-indriyādi yathādṛṣṭaṃ bhedahetus tad iṣyate  
+३।१३।३० इदं वेयम् अयं वेति शब्दसंस्कारमात्रकम्  
+निमित्तदर्शनाद् अर्थे कैश् चित् सर्वत्र वर्ण्यते  
+
+
+३।१३।३१ नावश्यं विषयत्वेन निमित्तं व्यवतिष्ठते  
+इन्द्रियादि यथादृष्टं भेदहेतुस् तद् इष्यते  
 
 
  ३।१४: वृत्तिसमुद्देश

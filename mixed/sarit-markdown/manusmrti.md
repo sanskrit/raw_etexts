@@ -1,25 +1,24 @@
 ---
 
-
 ---
 # छप्तेर् १
  \[ओ\]  एद्न् ३८३-४०२,  \[ओ\]  त्र्। ८७-९३
- 1.1. Prologue
- \[O\]  edn 383-384,  \[O\]  tr. 87
-1.01a manum ekāgram āsīnam abhigamya maharṣayaḥ |  
-1.01c pratipūjya yathānyāyam idaṃ vacanam abruvan || 1 ||  
+ १।१। प्रोलोगुए
+ \[ओ\]  एद्न् ३८३-३८४,  \[ओ\]  त्र्। ८७
+१।०१अ मनुम् एकाग्रम् आसीनम् अभिगम्य महर्षयः ।  
+१।०१च् प्रतिपूज्य यथान्यायम् इदं वचनम् अब्रुवन् ॥ १ ॥  
 
 
-1.02a bhagavan sarvavarṇānāṃ yathāvad anupūrvaśaḥ |  
-1.02c antaraprabhavānāṃ ca dharmān no vaktum arhasi || 2 ||  
+१।०२अ भगवन् सर्ववर्णानां यथावद् अनुपूर्वशः ।  
+१।०२च् अन्तरप्रभवानां च धर्मान् नो वक्तुम् अर्हसि ॥ २ ॥  
 
 
-1.03a tvam eko hy asya sarvasya vidhānasya svayambhuvaḥ |  
-1.03c acintyasya-aprameyasya kāryatattvārthavit prabho || 3 ||  
+१।०३अ त्वम् एको ह्य् अस्य सर्वस्य विधानस्य स्वयम्भुवः ।  
+१।०३च् अचिन्त्यस्य-अप्रमेयस्य कार्यतत्त्वार्थवित् प्रभो ॥ ३ ॥  
 
 
-1.04a sa taiḥ pṛṣṭas tathā samyag amita.ojā mahātmabhiḥ |  
-1.04c pratyuvāca-arcya tān sarvān maharṣīn-śrūyatām iti || 4 ||  
+१।०४अ स तैः पृष्टस् तथा सम्यग् अमित।ओजा महात्मभिः ।  
+१।०४च् प्रत्युवाच-अर्च्य तान् सर्वान् महर्षीन्-श्रूयताम् इति ॥ ४ ॥  
 
 
  १।२। च्रेअतिओन्
@@ -132,46 +131,46 @@
 १।३१च् ब्राह्मणं क्षत्रियं वैश्यं शूद्रं च निरवर्तयत् ॥ ३१ ॥  
 
 
- 1.3. Excursus: Second Account of Creation
- \[O\]  edn 388-390,  \[O\]  tr. 88-89
-1.32a dvidhā kṛtvā-ātmano deham ardhena puruṣo 'bhavat |  
-1.32c ardhena nārī tasyāṃ sa virājam asṛjat prabhuḥ || 32 ||  
+ १।३। एxचुर्सुस्: सेचोन्द् अच्चोउन्त् ओड़् च्रेअतिओन्
+ \[ओ\]  एद्न् ३८८-३९०,  \[ओ\]  त्र्। ८८-८९
+१।३२अ द्विधा कृत्वा-आत्मनो देहम् अर्धेन पुरुषो ऽभवत् ।  
+१।३२च् अर्धेन नारी तस्यां स विराजम् असृजत् प्रभुः ॥ ३२ ॥  
 
 
-1.33a tapas taptvā-asṛjad yaṃ tu sa svayaṃ puruṣo virāṭ |  
-1.33c taṃ māṃ vitta-asya sarvasya sraṣṭāraṃ dvijasattamāḥ || 33 ||  
+१।३३अ तपस् तप्त्वा-असृजद् यं तु स स्वयं पुरुषो विराट् ।  
+१।३३च् तं मां वित्त-अस्य सर्वस्य स्रष्टारं द्विजसत्तमाः ॥ ३३ ॥  
 
 
-1.34a ahaṃ prajāḥ sisṛkṣus tu tapas taptvā su.duścaram |  
-1.34c patīn prajānām asṛjaṃ maharṣīn ādito daśa || 34 ||  
+१।३४अ अहं प्रजाः सिसृक्षुस् तु तपस् तप्त्वा सु।दुश्चरम् ।  
+१।३४च् पतीन् प्रजानाम् असृजं महर्षीन् आदितो दश ॥ ३४ ॥  
 
 
-1.35a marīcim atri.aṅgirasau pulastyaṃ pulahaṃ kratum |  
-1.35c pracetasaṃ vasiṣṭhaṃ ca bhṛguṃ nāradam eva ca || 35 ||  
+१।३५अ मरीचिम् अत्रि।अङ्गिरसौ पुलस्त्यं पुलहं क्रतुम् ।  
+१।३५च् प्रचेतसं वसिष्ठं च भृगुं नारदम् एव च ॥ ३५ ॥  
 
 
-1.36a ete manūṃs tu saptān yān asṛjan bhūritejasaḥ |  
-1.36c devān devanikāyāṃś ca maharṣīṃś ca-amita.ojasaḥ || 36 ||  
+१।३६अ एते मनूंस् तु सप्तान् यान् असृजन् भूरितेजसः ।  
+१।३६च् देवान् देवनिकायांश् च महर्षींश् च-अमित।ओजसः ॥ ३६ ॥  
 
 
-1.37a yakṣa.rakṣas.piśācāṃś ca gandharva.apsaraso 'surān |  
-1.37c nāgān sarpān suparṇāṃś ca pitṝṇāṃś ca pṛthaggaṇam || 37 || 1.37cv/  \[M\] : “pitṝṇāṃ”  
+१।३७अ यक्ष।रक्षस्।पिशाचांश् च गन्धर्व।अप्सरसो ऽसुरान् ।  
+१।३७च् नागान् सर्पान् सुपर्णांश् च पितॄणांश् च पृथग्गणम् ॥ ३७ ॥ १।३७च्व्।  \[म्\] : “पितॄणां”  
 
 
-1.38a vidyuto 'śani.meghāṃś ca rohita.indradhanūṃṣi ca |  
-1.38c ulkā.nirghāta.ketūṃś ca jyotīṃṣy uccāvacāni ca || 38 ||  
+१।३८अ विद्युतो ऽशनि।मेघांश् च रोहित।इन्द्रधनूंषि च ।  
+१।३८च् उल्का।निर्घात।केतूंश् च ज्योतींष्य् उच्चावचानि च ॥ ३८ ॥  
 
 
-1.39a kinnarān vānarān matsyān vividhāṃś ca vihaṅgamān |  
-1.39c paśūn mṛgān manuṣyāṃś ca vyālāṃś ca-ubhayatodataḥ || 39 ||  
+१।३९अ किन्नरान् वानरान् मत्स्यान् विविधांश् च विहङ्गमान् ।  
+१।३९च् पशून् मृगान् मनुष्यांश् च व्यालांश् च-उभयतोदतः ॥ ३९ ॥  
 
 
-1.40a kṛmi.kīṭa.pataṅgāṃś ca yūkā.makṣika.matkuṇam |  
-1.40c sarvaṃ ca daṃśa.maśakaṃ sthāvaraṃ ca pṛthagvidham || 40 ||  
+१।४०अ कृमि।कीट।पतङ्गांश् च यूका।मक्षिक।मत्कुणम् ।  
+१।४०च् सर्वं च दंश।मशकं स्थावरं च पृथग्विधम् ॥ ४० ॥  
 
 
-1.41a evam etair idaṃ sarvaṃ mad.niyogān mahātmabhiḥ |  
-1.41c yathākarma tapoyogāt sṛṣṭaṃ sthāvara.jaṅgamam || 41 ||  
+१।४१अ एवम् एतैर् इदं सर्वं मद्।नियोगान् महात्मभिः ।  
+१।४१च् यथाकर्म तपोयोगात् सृष्टं स्थावर।जङ्गमम् ॥ ४१ ॥  
 
 
  १।४। एxचुर्सुस्: च्लस्सिड़िचतिओन् ओड़् ड़ौन अन्द् ड़्लोर
@@ -212,34 +211,34 @@
 १।५०च् घोरे ऽस्मिन् भूतसंसारे नित्यं सततयायिनि ॥ ५० ॥  
 
 
- 1.5. Excursus: Cosmic Cycles
- \[O\]  edn 391-392,  \[O\]  tr. 89
-1.51a evaṃ sarvaṃ sa sṛṣṭvā-idaṃ māṃ ca-acintya.parākramaḥ |  
-1.51c ātmany antardadhe bhūyaḥ kālaṃ kālena pīḍayan || 51 ||  
+ १।५। एxचुर्सुस्: चोस्मिच् च्य्च्लेस्
+ \[ओ\]  एद्न् ३९१-३९२,  \[ओ\]  त्र्। ८९
+१।५१अ एवं सर्वं स सृष्ट्वा-इदं मां च-अचिन्त्य।पराक्रमः ।  
+१।५१च् आत्मन्य् अन्तर्दधे भूयः कालं कालेन पीडयन् ॥ ५१ ॥  
 
 
-1.52a yadā sa devo jāgarti tad evaṃ ceṣṭate jagat |  
-1.52c yadā svapiti śānta.ātmā tadā sarvaṃ nimīlati || 52 ||  
+१।५२अ यदा स देवो जागर्ति तद् एवं चेष्टते जगत् ।  
+१।५२च् यदा स्वपिति शान्त।आत्मा तदा सर्वं निमीलति ॥ ५२ ॥  
 
 
-1.53a tasmin svapiti tu svasthe karma.ātmānaḥ śarīriṇaḥ | 1.53av/  \[M\] : “svapati”  
-1.53c svakarmabhyo nivartante manaś ca glānim ṛcchati || 53 ||  
+१।५३अ तस्मिन् स्वपिति तु स्वस्थे कर्म।आत्मानः शरीरिणः । १।५३अव्।  \[म्\] : “स्वपति”  
+१।५३च् स्वकर्मभ्यो निवर्तन्ते मनश् च ग्लानिम् ऋच्छति ॥ ५३ ॥  
 
 
-1.54a yugapat tu pralīyante yadā tasmin mahātmani |  
-1.54c tadā-ayaṃ sarvabhūtātmā sukhaṃ svapiti nirvṛtaḥ || 54 ||  
+१।५४अ युगपत् तु प्रलीयन्ते यदा तस्मिन् महात्मनि ।  
+१।५४च् तदा-अयं सर्वभूतात्मा सुखं स्वपिति निर्वृतः ॥ ५४ ॥  
 
 
-1.55a tamo 'yaṃ tu samāśritya ciraṃ tiṣṭhati sa.indriyaḥ |  
-1.55c na ca svaṃ kurute karma tadā-utkrāmati mūrtitaḥ || 55 ||  
+१।५५अ तमो ऽयं तु समाश्रित्य चिरं तिष्ठति स।इन्द्रियः ।  
+१।५५च् न च स्वं कुरुते कर्म तदा-उत्क्रामति मूर्तितः ॥ ५५ ॥  
 
 
-1.56a yadā-aṇumātriko bhūtvā bījaṃ sthāsnu cariṣṇu ca |  
-1.56c samāviśati saṃsṛṣṭas tadā mūrtiṃ vimuñcati || 56 ||  
+१।५६अ यदा-अणुमात्रिको भूत्वा बीजं स्थास्नु चरिष्णु च ।  
+१।५६च् समाविशति संसृष्टस् तदा मूर्तिं विमुञ्चति ॥ ५६ ॥  
 
 
-1.57a evaṃ sa jāgrat.svapnābhyām idaṃ sarvaṃ cara.acaram |  
-1.57c sañjīvayati ca-ajasraṃ pramāpayati ca-avyayaḥ || 57 ||  
+१।५७अ एवं स जाग्रत्।स्वप्नाभ्याम् इदं सर्वं चर।अचरम् ।  
+१।५७च् सञ्जीवयति च-अजस्रं प्रमापयति च-अव्ययः ॥ ५७ ॥  
 
 
  १।६। त्रन्स्मिस्सिओन् ओड़् थे लw
@@ -256,110 +255,110 @@
 १।६०च् तान् अब्रवीद् ऋषीन् सर्वान् प्रीतात्मा श्रूयताम् इति ॥ ६० ॥  
 
 
- 1.7. Excursus: Time and Cosmology
- \[O\]  edn 393-397,  \[O\]  tr. 90-91
-1.61a svāyambhuvasya-asya manoḥ ṣaḍvaṃśyā manavo 'pare |  
-1.61c sṛṣṭavantaḥ prajāḥ svāḥ svā mahātmāno mahā.ojasaḥ || 61 ||  
+ १।७। एxचुर्सुस्: तिमे अन्द् चोस्मोलोग्य्
+ \[ओ\]  एद्न् ३९३-३९७,  \[ओ\]  त्र्। ९०-९१
+१।६१अ स्वायम्भुवस्य-अस्य मनोः षड्वंश्या मनवो ऽपरे ।  
+१।६१च् सृष्टवन्तः प्रजाः स्वाः स्वा महात्मानो महा।ओजसः ॥ ६१ ॥  
 
 
-1.62a svārociṣaś ca-uttamaś ca tāmaso raivatas tathā |  
-1.62c cākṣuṣaś ca mahātejā vivasvat.suta eva ca || 62 ||  
+१।६२अ स्वारोचिषश् च-उत्तमश् च तामसो रैवतस् तथा ।  
+१।६२च् चाक्षुषश् च महातेजा विवस्वत्।सुत एव च ॥ ६२ ॥  
 
 
-1.63a svāyambhuva.ādyāḥ sapta-ete manavo bhūritejasaḥ |  
-1.63c sve sve 'ntare sarvam idam utpādya-āpuś cara.acaram || 63 ||  
+१।६३अ स्वायम्भुव।आद्याः सप्त-एते मनवो भूरितेजसः ।  
+१।६३च् स्वे स्वे ऽन्तरे सर्वम् इदम् उत्पाद्य-आपुश् चर।अचरम् ॥ ६३ ॥  
 
 
-1.64a nimeṣā daśa ca-aṣṭau ca kāṣṭhā triṃśat tu tāḥ kalā |  
-1.64c triṃśat kalā muhūrtaḥ syād ahorātraṃ tu tāvataḥ || 64 ||  
+१।६४अ निमेषा दश च-अष्टौ च काष्ठा त्रिंशत् तु ताः कला ।  
+१।६४च् त्रिंशत् कला मुहूर्तः स्याद् अहोरात्रं तु तावतः ॥ ६४ ॥  
 
 
-1.65a ahorātre vibhajate sūryo mānuṣa.daivike |  
-1.65c rātriḥ svapnāya bhūtānāṃ ceṣṭāyai karmaṇām ahaḥ || 65 ||  
+१।६५अ अहोरात्रे विभजते सूर्यो मानुष।दैविके ।  
+१।६५च् रात्रिः स्वप्नाय भूतानां चेष्टायै कर्मणाम् अहः ॥ ६५ ॥  
 
 
-1.66a pitrye rātri.ahanī māsaḥ pravibhāgas tu pakṣayoḥ |  
-1.66c karma.ceṣṭāsv ahaḥ kṛṣṇaḥ śuklaḥ svapnāya śarvarī || 66 ||  
+१।६६अ पित्र्ये रात्रि।अहनी मासः प्रविभागस् तु पक्षयोः ।  
+१।६६च् कर्म।चेष्टास्व् अहः कृष्णः शुक्लः स्वप्नाय शर्वरी ॥ ६६ ॥  
 
 
-1.67a daive rātri.ahanī varṣaṃ pravibhāgas tayoḥ punaḥ |  
-1.67c ahas tatra-udagayanaṃ rātriḥ syād dakṣiṇāyanam || 67 ||  
+१।६७अ दैवे रात्रि।अहनी वर्षं प्रविभागस् तयोः पुनः ।  
+१।६७च् अहस् तत्र-उदगयनं रात्रिः स्याद् दक्षिणायनम् ॥ ६७ ॥  
 
 
-1.68a brāhmasya tu kṣapāhasya yat pramāṇaṃ samāsataḥ |  
-1.68c ekaikaśo yugānāṃ tu kramaśas tan nibodhata || 68 ||  
+१।६८अ ब्राह्मस्य तु क्षपाहस्य यत् प्रमाणं समासतः ।  
+१।६८च् एकैकशो युगानां तु क्रमशस् तन् निबोधत ॥ ६८ ॥  
 
 
-1.69a catvāry āhuḥ sahasrāṇi varsāṇāṃ tat kṛtaṃ yugam |  
-1.69c tasya tāvat-śatī sandhyā sandhyāṃśaś ca tathāvidhaḥ || 69 ||  
+१।६९अ चत्वार्य् आहुः सहस्राणि वर्साणां तत् कृतं युगम् ।  
+१।६९च् तस्य तावत्-शती सन्ध्या सन्ध्यांशश् च तथाविधः ॥ ६९ ॥  
 
 
-1.70a itareṣu sa.sandhyeṣu sa.sandhyāṃśeṣu ca triṣu |  
-1.70c ekāpāyena vartante sahasrāṇi śatāni ca || 70 ||  
+१।७०अ इतरेषु स।सन्ध्येषु स।सन्ध्यांशेषु च त्रिषु ।  
+१।७०च् एकापायेन वर्तन्ते सहस्राणि शतानि च ॥ ७० ॥  
 
 
-1.71a yad etat parisaṅkhyātam ādāv eva caturyugam |  
-1.71c etad dvādaśasāhasraṃ devānāṃ yugam ucyate || 71 ||  
+१।७१अ यद् एतत् परिसङ्ख्यातम् आदाव् एव चतुर्युगम् ।  
+१।७१च् एतद् द्वादशसाहस्रं देवानां युगम् उच्यते ॥ ७१ ॥  
 
 
-1.72a daivikānāṃ yugānāṃ tu sahasraṃ parisaṅkhyayā |  
-1.72c brāhmam ekam ahar jñeyaṃ tāvatīṃ rātrim eva ca || 72 || 1.72cv/  \[M\] : “tāvatī rātrir eva ca”  
+१।७२अ दैविकानां युगानां तु सहस्रं परिसङ्ख्यया ।  
+१।७२च् ब्राह्मम् एकम् अहर् ज्ञेयं तावतीं रात्रिम् एव च ॥ ७२ ॥ १।७२च्व्।  \[म्\] : “तावती रात्रिर् एव च”  
 
 
-1.73a tad vai yugasahasrāntaṃ brāhmaṃ puṇyam ahar viduḥ |  
-1.73c rātriṃ ca tāvatīm eva te 'horātravido janāḥ || 73 ||  
+१।७३अ तद् वै युगसहस्रान्तं ब्राह्मं पुण्यम् अहर् विदुः ।  
+१।७३च् रात्रिं च तावतीम् एव ते ऽहोरात्रविदो जनाः ॥ ७३ ॥  
 
 
-1.74a tasya so 'har.niśasya-ante prasuptaḥ pratibudhyate |  
-1.74c pratibuddhaś ca sṛjati manaḥ sad.asad.ātmakam || 74 ||  
+१।७४अ तस्य सो ऽहर्।निशस्य-अन्ते प्रसुप्तः प्रतिबुध्यते ।  
+१।७४च् प्रतिबुद्धश् च सृजति मनः सद्।असद्।आत्मकम् ॥ ७४ ॥  
 
 
-1.75a manaḥ sṛṣṭiṃ vikurute codyamānaṃ sisṛkṣayā |  
-1.75c ākāśaṃ jāyate tasmāt tasya śabdaṃ guṇaṃ viduḥ || 75 ||  
+१।७५अ मनः सृष्टिं विकुरुते चोद्यमानं सिसृक्षया ।  
+१।७५च् आकाशं जायते तस्मात् तस्य शब्दं गुणं विदुः ॥ ७५ ॥  
 
 
-1.76a ākāśāt tu vikurvāṇāt sarvagandhavahaḥ śuciḥ |  
-1.76c balavāñ jāyate vāyuḥ sa vai sparśa.guṇo mataḥ || 76 ||  
+१।७६अ आकाशात् तु विकुर्वाणात् सर्वगन्धवहः शुचिः ।  
+१।७६च् बलवाञ् जायते वायुः स वै स्पर्श।गुणो मतः ॥ ७६ ॥  
 
 
-1.77a vāyor api vikurvāṇād virociṣṇu tamonudam |  
-1.77c jyotir utpadyate bhāsvat tad rūpa.guṇam ucyate || 77 ||  
+१।७७अ वायोर् अपि विकुर्वाणाद् विरोचिष्णु तमोनुदम् ।  
+१।७७च् ज्योतिर् उत्पद्यते भास्वत् तद् रूप।गुणम् उच्यते ॥ ७७ ॥  
 
 
-1.78a jyotiṣaś ca vikurvāṇād āpo rasa.guṇāḥ smṛtāḥ |  
-1.78c adbhyo gandha.guṇā bhūmir ity eṣā sṛṣṭir āditaḥ || 78 ||  
+१।७८अ ज्योतिषश् च विकुर्वाणाद् आपो रस।गुणाः स्मृताः ।  
+१।७८च् अद्भ्यो गन्ध।गुणा भूमिर् इत्य् एषा सृष्टिर् आदितः ॥ ७८ ॥  
 
 
-1.79a yad prāg dvādaśasāhasram uditaṃ daivikaṃ yugam |  
-1.79c tad ekasaptati.guṇaṃ manvantaram iha-ucyate || 79 ||  
+१।७९अ यद् प्राग् द्वादशसाहस्रम् उदितं दैविकं युगम् ।  
+१।७९च् तद् एकसप्तति।गुणं मन्वन्तरम् इह-उच्यते ॥ ७९ ॥  
 
 
-1.80a manvantarāṇy asaṅkhyāni sargaḥ saṃhāra eva ca |  
-1.80c krīḍann iva-etat kurute parameṣṭhī punaḥ punaḥ || 80 ||  
+१।८०अ मन्वन्तराण्य् असङ्ख्यानि सर्गः संहार एव च ।  
+१।८०च् क्रीडन्न् इव-एतत् कुरुते परमेष्ठी पुनः पुनः ॥ ८० ॥  
 
 
-1.81a catuṣpāt sakalo dharmaḥ satyaṃ ca-eva kṛte yuge |  
-1.81c na-adharmeṇa-āgamaḥ kaś cin manuṣyān prati vartate || 81 || 1.81cv/  \[M\] : “upavartate”  
+१।८१अ चतुष्पात् सकलो धर्मः सत्यं च-एव कृते युगे ।  
+१।८१च् न-अधर्मेण-आगमः कश् चिन् मनुष्यान् प्रति वर्तते ॥ ८१ ॥ १।८१च्व्।  \[म्\] : “उपवर्तते”  
 
 
-1.82a itareṣv āgamād dharmaḥ pādaśas tv avaropitaḥ |  
-1.82c caurika.anṛta.māyābhir dharmaś ca-apaiti pādaśaḥ || 82 ||  
+१।८२अ इतरेष्व् आगमाद् धर्मः पादशस् त्व् अवरोपितः ।  
+१।८२च् चौरिक।अनृत।मायाभिर् धर्मश् च-अपैति पादशः ॥ ८२ ॥  
 
 
-1.83a a.rogāḥ sarvasiddhārthāś caturvarṣaśata.āyuṣaḥ |  
-1.83c kṛte tretādiṣu hy eṣāṃ āyur hrasati pādaśaḥ || 83 || 1.83cv/  \[V\] : “vayo hrasati”  
+१।८३अ अ।रोगाः सर्वसिद्धार्थाश् चतुर्वर्षशत।आयुषः ।  
+१।८३च् कृते त्रेतादिषु ह्य् एषां आयुर् ह्रसति पादशः ॥ ८३ ॥ १।८३च्व्।  \[व्\] : “वयो ह्रसति”  
 
 
-1.84a veda.uktam āyur martyānām āśiṣaś ca-eva karmaṇām |  
-1.84c phalanty anuyugaṃ loke prabhāvaś ca śarīriṇām || 84 ||  
+१।८४अ वेद।उक्तम् आयुर् मर्त्यानाम् आशिषश् च-एव कर्मणाम् ।  
+१।८४च् फलन्त्य् अनुयुगं लोके प्रभावश् च शरीरिणाम् ॥ ८४ ॥  
 
 
-1.85a anye kṛtayuge dharmās tretāyāṃ dvāpare 'pare | 1.85av/  \[M\] : “pare”  
-1.85c anye kaliyuge nṝṇāṃ yugahrāsānurūpataḥ || 85 ||  
+१।८५अ अन्ये कृतयुगे धर्मास् त्रेतायां द्वापरे ऽपरे । १।८५अव्।  \[म्\] : “परे”  
+१।८५च् अन्ये कलियुगे नॄणां युगह्रासानुरूपतः ॥ ८५ ॥  
 
 
-1.86a tapaḥ paraṃ kṛtayuge tretāyāṃ jñānam ucyate |  
-1.86c dvāpare yajñam evāhur dānam ekaṃ kalau yuge || 86 ||  
+१।८६अ तपः परं कृतयुगे त्रेतायां ज्ञानम् उच्यते ।  
+१।८६च् द्वापरे यज्ञम् एवाहुर् दानम् एकं कलौ युगे ॥ ८६ ॥  
 
 
  १।८। एxचुर्सुस्: ओच्चुपतिओन्स् ओड़् सोचिअल् च्लस्सेस्
@@ -384,46 +383,46 @@
 १।९१च् एतेषाम् एव वर्णानां शुश्रूषाम् अनसूयया ॥ ९१ ॥  
 
 
- 1.9. Excursus: Excellence of the Brahmin
- \[O\]  edn 397-399,  \[O\]  tr. 91-92
-1.92a ūrdhvaṃ nābher medhyataraḥ puruṣaḥ parikīrtitaḥ |  
-1.92c tasmān medhyatamaṃ tv asya mukham uktaṃ svayambhuvā || 92 ||  
+ १।९। एxचुर्सुस्: एxचेल्लेन्चे ओड़् थे ब्रह्मिन्
+ \[ओ\]  एद्न् ३९७-३९९,  \[ओ\]  त्र्। ९१-९२
+१।९२अ ऊर्ध्वं नाभेर् मेध्यतरः पुरुषः परिकीर्तितः ।  
+१।९२च् तस्मान् मेध्यतमं त्व् अस्य मुखम् उक्तं स्वयम्भुवा ॥ ९२ ॥  
 
 
-1.93a uttamāṅga.udbhavāj jyeṣṭhyād brahmaṇaś ca-eva dhāraṇāt | 1.93av/  \[M\] : “jyaiṣṭhyād”  
-1.93c sarvasya-eva-asya sargasya dharmato brāhmaṇaḥ prabhuḥ || 93 ||  
+१।९३अ उत्तमाङ्ग।उद्भवाज् ज्येष्ठ्याद् ब्रह्मणश् च-एव धारणात् । १।९३अव्।  \[म्\] : “ज्यैष्ठ्याद्”  
+१।९३च् सर्वस्य-एव-अस्य सर्गस्य धर्मतो ब्राह्मणः प्रभुः ॥ ९३ ॥  
 
 
-1.94a taṃ hi svayambhūḥ svād āsyāt tapas taptvā-ādito 'sṛjat |  
-1.94c havya.kavyābhivāhyāya sarvasya-asya ca guptaye || 94 ||  
+१।९४अ तं हि स्वयम्भूः स्वाद् आस्यात् तपस् तप्त्वा-आदितो ऽसृजत् ।  
+१।९४च् हव्य।कव्याभिवाह्याय सर्वस्य-अस्य च गुप्तये ॥ ९४ ॥  
 
 
-1.95a yasya-āsyena sadā-aśnanti havyāni tridiva.okasaḥ |  
-1.95c kavyāni ca-eva pitaraḥ kiṃ bhūtam adhikaṃ tataḥ || 95 ||  
+१।९५अ यस्य-आस्येन सदा-अश्नन्ति हव्यानि त्रिदिव।ओकसः ।  
+१।९५च् कव्यानि च-एव पितरः किं भूतम् अधिकं ततः ॥ ९५ ॥  
 
 
-1.96a bhūtānāṃ prāṇinaḥ śreṣṭhāḥ prāṇināṃ buddhijīvinaḥ |  
-1.96c buddhimatsu narāḥ śreṣṭhā nareṣu brāhmaṇāḥ smṛtāḥ || 96 ||  
+१।९६अ भूतानां प्राणिनः श्रेष्ठाः प्राणिनां बुद्धिजीविनः ।  
+१।९६च् बुद्धिमत्सु नराः श्रेष्ठा नरेषु ब्राह्मणाः स्मृताः ॥ ९६ ॥  
 
 
-1.97a brāhmaṇeṣu ca vidvāṃso vidvatsu kṛta.buddhayaḥ |  
-1.97c kṛta.buddhiṣu kartāraḥ kartṛṣu brahmavedinaḥ || 97 ||  
+१।९७अ ब्राह्मणेषु च विद्वांसो विद्वत्सु कृत।बुद्धयः ।  
+१।९७च् कृत।बुद्धिषु कर्तारः कर्तृषु ब्रह्मवेदिनः ॥ ९७ ॥  
 
 
-1.98a utpattir eva viprasya mūrtir dharmasya śāśvatī |  
-1.98c sa hi dharmārtham utpanno brahmabhūyāya kalpate || 98 ||  
+१।९८अ उत्पत्तिर् एव विप्रस्य मूर्तिर् धर्मस्य शाश्वती ।  
+१।९८च् स हि धर्मार्थम् उत्पन्नो ब्रह्मभूयाय कल्पते ॥ ९८ ॥  
 
 
-1.99a brāhmaṇo jāyamāno hi pṛthivyām adhijāyate |  
-1.99c īśvaraḥ sarvabhūtānāṃ dharmakośasya guptaye || 99 ||  
+१।९९अ ब्राह्मणो जायमानो हि पृथिव्याम् अधिजायते ।  
+१।९९च् ईश्वरः सर्वभूतानां धर्मकोशस्य गुप्तये ॥ ९९ ॥  
 
 
-1.100a sarvaṃ svaṃ brāhmaṇasya-idaṃ yat kiṃ cit-jagatīgataṃ |  
-1.100c śraiṣṭhyena-abhijanena-idaṃ sarvaṃ vai brāhmaṇo 'rhati || 100 ||  
+१।१००अ सर्वं स्वं ब्राह्मणस्य-इदं यत् किं चित्-जगतीगतं ।  
+१।१००च् श्रैष्ठ्येन-अभिजनेन-इदं सर्वं वै ब्राह्मणो ऽर्हति ॥ १०० ॥  
 
 
-1.101a svam eva brāhmaṇo bhuṅkte svaṃ vaste svaṃ dadāti ca |  
-1.101c ānṛśaṃsyād brāhmaṇasya bhuñjate hi-itare janāḥ || 101 ||  
+१।१०१अ स्वम् एव ब्राह्मणो भुङ्क्ते स्वं वस्ते स्वं ददाति च ।  
+१।१०१च् आनृशंस्याद् ब्राह्मणस्य भुञ्जते हि-इतरे जनाः ॥ १०१ ॥  
 
 
  १।१०। एxचुर्सुस्: त्रेअतिसे ओड़् मनु
@@ -464,68 +463,68 @@
 १।११०च् सर्वस्य तपसो मूलम् आचारं जगृहुः परम् ॥ ११० ॥  
 
 
- 1.11. Excursus: Synopsis
- \[O\]  edn 401-402,  \[O\]  tr. 92-93
-1.111a jagataś ca samutpattiṃ saṃskāravidhim eva ca |  
-1.111c vratacaryā.upacāraṃ ca snānasya ca paraṃ vidhim || 111 ||  
+ १।११। एxचुर्सुस्: स्य्नोप्सिस्
+ \[ओ\]  एद्न् ४०१-४०२,  \[ओ\]  त्र्। ९२-९३
+१।१११अ जगतश् च समुत्पत्तिं संस्कारविधिम् एव च ।  
+१।१११च् व्रतचर्या।उपचारं च स्नानस्य च परं विधिम् ॥ १११ ॥  
 
 
-1.112a dārādhigamanaṃ ca-eva vivāhānāṃ ca lakṣaṇam |  
-1.112c mahāyajñavidhānaṃ ca śrāddhakalpaṃ ca śāśvatam || 112 ||  
+१।११२अ दाराधिगमनं च-एव विवाहानां च लक्षणम् ।  
+१।११२च् महायज्ञविधानं च श्राद्धकल्पं च शाश्वतम् ॥ ११२ ॥  
 
 
-1.113a vṛttīnāṃ lakṣaṇaṃ ca-eva snātakasya vratāni ca |  
-1.113c bhakṣya.abhakṣyaṃ ca śaucaṃ ca dravyāṇāṃ śuddhim eva ca || 113 ||  
+१।११३अ वृत्तीनां लक्षणं च-एव स्नातकस्य व्रतानि च ।  
+१।११३च् भक्ष्य।अभक्ष्यं च शौचं च द्रव्याणां शुद्धिम् एव च ॥ ११३ ॥  
 
 
-1.114a strīdharma.yogaṃ tāpasyaṃ mokṣaṃ sannyāsam eva ca |  
-1.114c rājñaś ca dharmam akhilaṃ kāryāṇāṃ ca vinirṇayam || 114 ||  
+१।११४अ स्त्रीधर्म।योगं तापस्यं मोक्षं सन्न्यासम् एव च ।  
+१।११४च् राज्ञश् च धर्मम् अखिलं कार्याणां च विनिर्णयम् ॥ ११४ ॥  
 
 
-1.115a sākṣipraśna.vidhānaṃ ca dharmaṃ strī.puṃsayor api |  
-1.115c vibhāgadharmaṃ dyūtaṃ ca kaṇṭakānāṃ ca śodhanam || 115 ||  
+१।११५अ साक्षिप्रश्न।विधानं च धर्मं स्त्री।पुंसयोर् अपि ।  
+१।११५च् विभागधर्मं द्यूतं च कण्टकानां च शोधनम् ॥ ११५ ॥  
 
 
-1.116a vaiśya.śūdra.upacāraṃ ca saṅkīrṇānāṃ ca sambhavam |  
-1.116c āpad.dharmaṃ ca varṇānāṃ prāyaścitta.vidhiṃ tathā || 116 ||  
+१।११६अ वैश्य।शूद्र।उपचारं च सङ्कीर्णानां च सम्भवम् ।  
+१।११६च् आपद्।धर्मं च वर्णानां प्रायश्चित्त।विधिं तथा ॥ ११६ ॥  
 
 
-1.117a saṃsāragamanaṃ ca-eva trividhaṃ karma.sambhavam |  
-1.117c niḥśreyasaṃ karmaṇāṃ ca guṇa.doṣaparīkṣaṇam || 117 ||  
+१।११७अ संसारगमनं च-एव त्रिविधं कर्म।सम्भवम् ।  
+१।११७च् निःश्रेयसं कर्मणां च गुण।दोषपरीक्षणम् ॥ ११७ ॥  
 
 
-1.118a deśadharmān-jātidharmān kuladharmāṃś ca śāśvatān |  
-1.118c pāṣaṇḍa.gaṇadharmāṃś ca śāstre 'sminn uktavān manuḥ || 118 ||  
+१।११८अ देशधर्मान्-जातिधर्मान् कुलधर्मांश् च शाश्वतान् ।  
+१।११८च् पाषण्ड।गणधर्मांश् च शास्त्रे ऽस्मिन्न् उक्तवान् मनुः ॥ ११८ ॥  
 
 
-1.119a yathā-idam uktavān-śāstraṃ purā pṛṣṭo manur mayā |  
-1.119c tathā-idaṃ yūyam apy adya mat.sakāśāt-nibodhata || 119 ||  
+१।११९अ यथा-इदम् उक्तवान्-शास्त्रं पुरा पृष्टो मनुर् मया ।  
+१।११९च् तथा-इदं यूयम् अप्य् अद्य मत्।सकाशात्-निबोधत ॥ ११९ ॥  
 
 
-# Chapter 2
- \[O\]  edn 403-446,  \[O\]  tr. 94-107
+# छप्तेर् २
+ \[ओ\]  एद्न् ४०३-४४६,  \[ओ\]  त्र्। ९४-१०७
  २।१। थे लw
  \[ओ\]  एद्न् ४०३-४१५,  \[ओ\]  त्र्। ९४-९८
 २।०१अ विद्वद्भिः सेवितः सद्भिर् नित्यम् अ।द्वेष।रागिभिः ।  
 २।०१च् हृदयेन-अभ्यनुज्ञातो यो धर्मस् तं निबोधत ॥ १ ॥  
 
 
-# 2.1.1. Excursus: Desire
- \[O\]  edn 403,  \[O\]  tr. 94
-2.02a kāmātmatā na praśastā na ca-eva-iha-asty akāmatā |  
-2.02c kāmyo hi vedādhigamaḥ karmayogaś ca vaidikaḥ || 2 ||  
+# २।१।१। एxचुर्सुस्: देसिरे
+ \[ओ\]  एद्न् ४०३,  \[ओ\]  त्र्। ९४
+२।०२अ कामात्मता न प्रशस्ता न च-एव-इह-अस्त्य् अकामता ।  
+२।०२च् काम्यो हि वेदाधिगमः कर्मयोगश् च वैदिकः ॥ २ ॥  
 
 
-2.03a saṅkalpa.mūlaḥ kāmo vai yajñāḥ saṅkalpa.sambhavāḥ |  
-2.03c vratāni yamadharmāś ca sarve saṅkalpajāḥ smṛtāḥ || 3 ||  
+२।०३अ सङ्कल्प।मूलः कामो वै यज्ञाः सङ्कल्प।सम्भवाः ।  
+२।०३च् व्रतानि यमधर्माश् च सर्वे सङ्कल्पजाः स्मृताः ॥ ३ ॥  
 
 
-2.04a a.kāmasya kriyā kā cid dṛśyate na-iha karhi cit |  
-2.04c yad yadd hi kurute kiṃ cit tat tat kāmasya ceṣṭitam || 4 ||  
+२।०४अ अ।कामस्य क्रिया का चिद् दृश्यते न-इह कर्हि चित् ।  
+२।०४च् यद् यद्द् हि कुरुते किं चित् तत् तत् कामस्य चेष्टितम् ॥ ४ ॥  
 
 
-2.05a teṣu samyag vartamāno gacchaty amaralokatām |  
-2.05c yathā saṅkalpitāṃś ca-iha sarvān kāmān samaśnute || 5 ||  
+२।०५अ तेषु सम्यग् वर्तमानो गच्छत्य् अमरलोकताम् ।  
+२।०५च् यथा सङ्कल्पितांश् च-इह सर्वान् कामान् समश्नुते ॥ ५ ॥  
 
 
 # २।१।२। सोउर्चेस् ओड़् लw
@@ -554,14 +553,14 @@
 २।११च् स साधुभिर् बहिष्कार्यो नास्तिको वेदनिन्दकः ॥ ११ ॥  
 
 
-# 2.1.3. Knowledge of the Law
- \[O\]  edn 405,  \[O\]  tr. 94
-2.12a vedaḥ smṛtiḥ sadācāraḥ svasya ca priyam ātmanaḥ |  
-2.12c etac caturvidhaṃ prāhuḥ sākṣād dharmasya lakṣaṇam || 12 ||  
+# २।१।३। क्नोwलेद्गे ओड़् थे लw
+ \[ओ\]  एद्न् ४०५,  \[ओ\]  त्र्। ९४
+२।१२अ वेदः स्मृतिः सदाचारः स्वस्य च प्रियम् आत्मनः ।  
+२।१२च् एतच् चतुर्विधं प्राहुः साक्षाद् धर्मस्य लक्षणम् ॥ १२ ॥  
 
 
-2.13a artha.kāmeṣv a.saktānāṃ dharmajñānaṃ vidhīyate |  
-2.13c dharmaṃ jijñāsamānānāṃ pramāṇaṃ paramaṃ śrutiḥ || 13 ||  
+२।१३अ अर्थ।कामेष्व् अ।सक्तानां धर्मज्ञानं विधीयते ।  
+२।१३च् धर्मं जिज्ञासमानानां प्रमाणं परमं श्रुतिः ॥ १३ ॥  
 
 
 # २।१।४। चोन्त्रदिच्तिओन्स् इन् लw
@@ -574,10 +573,10 @@
 २।१५च् सर्वथा वर्तते यज्ञ इति-इयं वैदिकी श्रुतिः ॥ १५ ॥  
 
 
-# 2.1.5. Competence to Study the Law
- \[O\]  edn 405-406,  \[O\]  tr. 95
-2.16a niṣeka.ādi.śmaśāna.anto mantrair yasya-udito vidhiḥ |  
-2.16c tasya śāstre 'dhikāro 'smiñ jñeyo na-anyasya kasya cit || 16 ||  
+# २।१।५। चोम्पेतेन्चे तो स्तुद्य् थे लw
+ \[ओ\]  एद्न् ४०५-४०६,  \[ओ\]  त्र्। ९५
+२।१६अ निषेक।आदि।श्मशान।अन्तो मन्त्रैर् यस्य-उदितो विधिः ।  
+२।१६च् तस्य शास्त्रे ऽधिकारो ऽस्मिञ् ज्ञेयो न-अन्यस्य कस्य चित् ॥ १६ ॥  
 
 
 # २।१।६। थे सच्रेद् लन्द्
@@ -614,22 +613,22 @@
 २।२४च् शूद्रस् तु यस्मिन् कस्मिन् वा निवसेद् वृत्तिकर्शितः ॥ २४ ॥ २।२४च्व्।  \[म्\] : “यस्मिंस् तस्मिन् वा”  
 
 
-# 2.1.7. Consecratory Rites
- \[O\]  edn 407-408,  \[O\]  tr. 95
-2.25a eṣā dharmasya vo yoniḥ samāsena prakīrtitā |  
-2.25c sambhavaś ca-asya sarvasya varṇadharmān nibodhata || 25 ||  
+# २।१।७। चोन्सेच्रतोर्य् रितेस्
+ \[ओ\]  एद्न् ४०७-४०८,  \[ओ\]  त्र्। ९५
+२।२५अ एषा धर्मस्य वो योनिः समासेन प्रकीर्तिता ।  
+२।२५च् सम्भवश् च-अस्य सर्वस्य वर्णधर्मान् निबोधत ॥ २५ ॥  
 
 
-2.26a vaidikaiḥ karmabhiḥ puṇyair niṣekādir dvijanmanām |  
-2.26c kāryaḥ śarīrasaṃskāraḥ pāvanaḥ pretya ca-iha ca || 26 ||  
+२।२६अ वैदिकैः कर्मभिः पुण्यैर् निषेकादिर् द्विजन्मनाम् ।  
+२।२६च् कार्यः शरीरसंस्कारः पावनः प्रेत्य च-इह च ॥ २६ ॥  
 
 
-2.27a gārbhair homair jātakarma.cauḍa.mauñjī.nibandhanaiḥ |  
-2.27c baijikaṃ gārbhikaṃ ca-eno dvijānām apamṛjyate || 27 ||  
+२।२७अ गार्भैर् होमैर् जातकर्म।चौड।मौञ्जी।निबन्धनैः ।  
+२।२७च् बैजिकं गार्भिकं च-एनो द्विजानाम् अपमृज्यते ॥ २७ ॥  
 
 
-2.28a svādhyāyena vratair homais traividyena-ijyayā sutaiḥ |  
-2.28c mahāyajñaiś ca yajñaiś ca brāhmī-iyaṃ kriyate tanuḥ || 28 ||  
+२।२८अ स्वाध्यायेन व्रतैर् होमैस् त्रैविद्येन-इज्यया सुतैः ।  
+२।२८च् महायज्ञैश् च यज्ञैश् च ब्राह्मी-इयं क्रियते तनुः ॥ २८ ॥  
 
 
 # २।१।८। छिल्धोओद् रितेस्
@@ -662,134 +661,134 @@
 २।३५च् प्रथमे ऽब्दे तृतीये वा कर्तव्यं श्रुतिचोदनात् ॥ ३५ ॥ २।३५च्व्।  \[म्\] : “श्रुतिनोदनात्”  
 
 
-# 2.1.9. Vedic Initiation
- \[O\]  edn 409-414,  \[O\]  tr. 96-97
- 2.1.9.1. Time for Initiation
- \[O\]  edn 409,  \[O\]  tr. 96
-2.36a garbhāṣṭame 'bde kurvīta brāhmaṇasya-upanāyanam |  
-2.36c garbhād ekādaśe rājño garbhāt tu dvādaśe viśaḥ || 36 ||  
+# २।१।९। वेदिच् इनितिअतिओन्
+ \[ओ\]  एद्न् ४०९-४१४,  \[ओ\]  त्र्। ९६-९७
+ २।१।९।१। तिमे ड़ोर् इनितिअतिओन्
+ \[ओ\]  एद्न् ४०९,  \[ओ\]  त्र्। ९६
+२।३६अ गर्भाष्टमे ऽब्दे कुर्वीत ब्राह्मणस्य-उपनायनम् ।  
+२।३६च् गर्भाद् एकादशे राज्ञो गर्भात् तु द्वादशे विशः ॥ ३६ ॥  
 
 
-2.37a brahmavarcasa.kāmasya kāryo viprasya pañcame |  
-2.37c rājño bala.arthinaḥ ṣaṣṭhe vaiśyasya-iha-arthino 'ṣṭame || 37 ||  
+२।३७अ ब्रह्मवर्चस।कामस्य कार्यो विप्रस्य पञ्चमे ।  
+२।३७च् राज्ञो बल।अर्थिनः षष्ठे वैश्यस्य-इह-अर्थिनो ऽष्टमे ॥ ३७ ॥  
 
 
- 2.1.9.2. Failure to be Initiated
- \[O\]  edn 409-410,  \[O\]  tr. 96
-2.38a ā ṣodaśād brāhmaṇasya sāvitrī na-ativartate |  
-2.38c ā dvāviṃśāt kṣatrabandhor ā caturviṃśater viśaḥ || 38 ||  
+ २।१।९।२। ड़ैलुरे तो बे इनितिअतेद्
+ \[ओ\]  एद्न् ४०९-४१०,  \[ओ\]  त्र्। ९६
+२।३८अ आ षोदशाद् ब्राह्मणस्य सावित्री न-अतिवर्तते ।  
+२।३८च् आ द्वाविंशात् क्षत्रबन्धोर् आ चतुर्विंशतेर् विशः ॥ ३८ ॥  
 
 
-2.39a ata ūrdhvaṃ trayo 'py ete yathākālam a.saṃskṛtāḥ |  
-2.39c sāvitrīpatitā vrātyā bhavanty āryavigarhitāḥ || 39 ||  
+२।३९अ अत ऊर्ध्वं त्रयो ऽप्य् एते यथाकालम् अ।संस्कृताः ।  
+२।३९च् सावित्रीपतिता व्रात्या भवन्त्य् आर्यविगर्हिताः ॥ ३९ ॥  
 
 
-2.40a na-etair a.pūtair vidhivad āpady api hi karhi cit |  
-2.40c brāhmān yaunāṃś ca sambandhān na-ācared brāhmaṇaḥ saha || 40 || 2.40cv/  \[M\] : “brāhmaṇaiḥ saha”  
+२।४०अ न-एतैर् अ।पूतैर् विधिवद् आपद्य् अपि हि कर्हि चित् ।  
+२।४०च् ब्राह्मान् यौनांश् च सम्बन्धान् न-आचरेद् ब्राह्मणः सह ॥ ४० ॥ २।४०च्व्।  \[म्\] : “ब्राह्मणैः सह”  
 
 
- 2.1.9.3. Insignia-I
- \[O\]  edn 410-411,  \[O\]  tr. 96-97
-2.41a kārṣṇa.raurava.bāstāni carmāṇi brahmacāriṇaḥ |  
-2.41c vasīrann ānupūrvyeṇa śāṇa.kṣauma.āvikāni ca || 41 ||  
+ २।१।९।३। इन्सिग्निअ-इ
+ \[ओ\]  एद्न् ४१०-४११,  \[ओ\]  त्र्। ९६-९७
+२।४१अ कार्ष्ण।रौरव।बास्तानि चर्माणि ब्रह्मचारिणः ।  
+२।४१च् वसीरन्न् आनुपूर्व्येण शाण।क्षौम।आविकानि च ॥ ४१ ॥  
 
 
-2.42a mauñjī trivṛt samā ślakṣṇā kāryā viprasya mekhalā |  
-2.42c kṣatriyasya tu maurvī jyā vaiśyasya śaṇatāntavī || 42 ||  
+२।४२अ मौञ्जी त्रिवृत् समा श्लक्ष्णा कार्या विप्रस्य मेखला ।  
+२।४२च् क्षत्रियस्य तु मौर्वी ज्या वैश्यस्य शणतान्तवी ॥ ४२ ॥  
 
 
-2.43a muñjālābhe tu kartavyāḥ kuśa.aśmantaka.balvajaiḥ |  
-2.43c trivṛtā granthinā-ekena tribhiḥ pañcabhir eva vā || 43 ||  
+२।४३अ मुञ्जालाभे तु कर्तव्याः कुश।अश्मन्तक।बल्वजैः ।  
+२।४३च् त्रिवृता ग्रन्थिना-एकेन त्रिभिः पञ्चभिर् एव वा ॥ ४३ ॥  
 
 
-2.44a kārpāsam upavītaṃ syād viprasya-ūrdhvavṛtaṃ trivṛt |  
-2.44c śaṇa.sūtramayaṃ rājño vaiśyasya-āvikasautrikam || 44 ||  
+२।४४अ कार्पासम् उपवीतं स्याद् विप्रस्य-ऊर्ध्ववृतं त्रिवृत् ।  
+२।४४च् शण।सूत्रमयं राज्ञो वैश्यस्य-आविकसौत्रिकम् ॥ ४४ ॥  
 
 
-2.45a brāhmaṇo bailva.pālāśau kṣatriyo vāṭa.khādirau |  
-2.45c pailava.audumbarau vaiśyo daṇḍān arhanti dharmataḥ || 45 ||  
+२।४५अ ब्राह्मणो बैल्व।पालाशौ क्षत्रियो वाट।खादिरौ ।  
+२।४५च् पैलव।औदुम्बरौ वैश्यो दण्डान् अर्हन्ति धर्मतः ॥ ४५ ॥  
 
 
-2.46a keśāntiko brāhmaṇasya daṇḍaḥ kāryaḥ pramāṇataḥ |  
-2.46c lalāṭasammito rājñaḥ syāt tu nāsāntiko viśaḥ || 46 ||  
+२।४६अ केशान्तिको ब्राह्मणस्य दण्डः कार्यः प्रमाणतः ।  
+२।४६च् ललाटसम्मितो राज्ञः स्यात् तु नासान्तिको विशः ॥ ४६ ॥  
 
 
-2.47a ṛjavas te tu sarve syur a.vraṇāḥ saumya.darśanāḥ |  
-2.47c an.udvegakarā nṝṇāṃ sa.tvaco 'nagnidūṣitāḥ || 47 ||  
+२।४७अ ऋजवस् ते तु सर्वे स्युर् अ।व्रणाः सौम्य।दर्शनाः ।  
+२।४७च् अन्।उद्वेगकरा नॄणां स।त्वचो ऽनग्निदूषिताः ॥ ४७ ॥  
 
 
- 2.1.9.4. Food
- \[O\]  edn 411-413,  \[O\]  tr. 97
-2.48a pratigṛhya-īpsitaṃ daṇḍam upasthāya ca bhāskaram |  
-2.48c pradakṣiṇaṃ parītya-agniṃ cared bhaikṣaṃ yathāvidhi || 48 ||  
+ २।१।९।४। ड़ोओद्
+ \[ओ\]  एद्न् ४११-४१३,  \[ओ\]  त्र्। ९७
+२।४८अ प्रतिगृह्य-ईप्सितं दण्डम् उपस्थाय च भास्करम् ।  
+२।४८च् प्रदक्षिणं परीत्य-अग्निं चरेद् भैक्षं यथाविधि ॥ ४८ ॥  
 
 
-2.49a bhavat.pūrvaṃ cared bhaikṣam upanīto dvijottamaḥ |  
-2.49c bhavan.madhyaṃ tu rājanyo vaiśyas tu bhavad.uttaram || 49 ||  
+२।४९अ भवत्।पूर्वं चरेद् भैक्षम् उपनीतो द्विजोत्तमः ।  
+२।४९च् भवन्।मध्यं तु राजन्यो वैश्यस् तु भवद्।उत्तरम् ॥ ४९ ॥  
 
 
-2.50a mātaraṃ vā svasāraṃ vā mātur vā bhaginīṃ nijām |  
-2.50c bhikṣeta bhikṣām prathamaṃ yā ca-enaṃ na-avamānayet || 50 ||  
+२।५०अ मातरं वा स्वसारं वा मातुर् वा भगिनीं निजाम् ।  
+२।५०च् भिक्षेत भिक्षाम् प्रथमं या च-एनं न-अवमानयेत् ॥ ५० ॥  
 
 
-2.51a samāhṛtya tu tad bhaikṣaṃ yāvadannam a.māyayā | 2.51av/  \[M\] : “yāvadartham”  
-2.51c nivedya gurave 'śnīyād ācamya prāṅmukhaḥ śuciḥ || 51 ||  
+२।५१अ समाहृत्य तु तद् भैक्षं यावदन्नम् अ।मायया । २।५१अव्।  \[म्\] : “यावदर्थम्”  
+२।५१च् निवेद्य गुरवे ऽश्नीयाद् आचम्य प्राङ्मुखः शुचिः ॥ ५१ ॥  
 
 
-2.52a āyuṣyaṃ prāṅ.mukho bhuṅkte yaśasyaṃ dakṣiṇā.mukhaḥ |  
-2.52c śriyaṃ pratyaṅ.mukho bhuṅkte ṛtaṃ bhuṅkte hy udaṅ.mukhaḥ || 52 ||  
+२।५२अ आयुष्यं प्राङ्।मुखो भुङ्क्ते यशस्यं दक्षिणा।मुखः ।  
+२।५२च् श्रियं प्रत्यङ्।मुखो भुङ्क्ते ऋतं भुङ्क्ते ह्य् उदङ्।मुखः ॥ ५२ ॥  
 
 
-2.53a upaspṛśya dvijo nityam annam adyāt samāhitaḥ |  
-2.53c bhuktvā ca-upaspṛśet samyag adbhiḥ khāni ca saṃspṛśet || 53 ||  
+२।५३अ उपस्पृश्य द्विजो नित्यम् अन्नम् अद्यात् समाहितः ।  
+२।५३च् भुक्त्वा च-उपस्पृशेत् सम्यग् अद्भिः खानि च संस्पृशेत् ॥ ५३ ॥  
 
 
-2.54a pūjayed aśanaṃ nityam adyāc ca-etad a.kutsayan |  
-2.54c dṛṣṭvā hṛṣyet prasīdec ca pratinandec ca sarvaśaḥ || 54 ||  
+२।५४अ पूजयेद् अशनं नित्यम् अद्याच् च-एतद् अ।कुत्सयन् ।  
+२।५४च् दृष्ट्वा हृष्येत् प्रसीदेच् च प्रतिनन्देच् च सर्वशः ॥ ५४ ॥  
 
 
-2.55a pūjitaṃ hy aśanaṃ nityaṃ balam ūrjaṃ ca yacchati |  
-2.55c a.pūjitaṃ tu tad bhuktam ubhayaṃ nāśayed idam || 55 ||  
+२।५५अ पूजितं ह्य् अशनं नित्यं बलम् ऊर्जं च यच्छति ।  
+२।५५च् अ।पूजितं तु तद् भुक्तम् उभयं नाशयेद् इदम् ॥ ५५ ॥  
 
 
-2.56a na-ucchiṣṭaṃ kasya cid dadyān na-adyād etat tathā-antarā |  
-2.56c na ca-eva-atyaśanaṃ kuryān na ca-ucchiṣṭaḥ kva cid vrajet || 56 ||  
+२।५६अ न-उच्छिष्टं कस्य चिद् दद्यान् न-अद्याद् एतत् तथा-अन्तरा ।  
+२।५६च् न च-एव-अत्यशनं कुर्यान् न च-उच्छिष्टः क्व चिद् व्रजेत् ॥ ५६ ॥  
 
 
-2.57a an.ārogyam an.āyuṣyam a.svargyaṃ ca-atibhojanam |  
-2.57c apuṇyaṃ lokavidviṣṭaṃ tasmāt tat parivarjayet || 57 ||  
+२।५७अ अन्।आरोग्यम् अन्।आयुष्यम् अ।स्वर्ग्यं च-अतिभोजनम् ।  
+२।५७च् अपुण्यं लोकविद्विष्टं तस्मात् तत् परिवर्जयेत् ॥ ५७ ॥  
 
 
- 2.1.9.5. Sipping
- \[O\]  edn 413-414,  \[O\]  tr. 97
-2.58a brāhmeṇa vipras tīrthena nityakālam upaspṛśet |  
-2.58c kāya.traidaśikābhyāṃ vā na pitryeṇa kadā cana || 58 ||  
+ २।१।९।५। सिप्पिन्ग्
+ \[ओ\]  एद्न् ४१३-४१४,  \[ओ\]  त्र्। ९७
+२।५८अ ब्राह्मेण विप्रस् तीर्थेन नित्यकालम् उपस्पृशेत् ।  
+२।५८च् काय।त्रैदशिकाभ्यां वा न पित्र्येण कदा चन ॥ ५८ ॥  
 
 
-2.59a aṅguṣṭhamūlasya tale brāhmaṃ tīrthaṃ pracakṣate |  
-2.59c kāyam aṅgulimūle 'gre devaṃ pitryaṃ tayor adhaḥ || 59 ||  
+२।५९अ अङ्गुष्ठमूलस्य तले ब्राह्मं तीर्थं प्रचक्षते ।  
+२।५९च् कायम् अङ्गुलिमूले ऽग्रे देवं पित्र्यं तयोर् अधः ॥ ५९ ॥  
 
 
-2.60a trir ācāmed apaḥ pūrvaṃ dviḥ pramṛjyāt tato mukham |  
-2.60c khāni ca-eva spṛśed adbhir ātmānaṃ śira eva ca || 60 ||  
+२।६०अ त्रिर् आचामेद् अपः पूर्वं द्विः प्रमृज्यात् ततो मुखम् ।  
+२।६०च् खानि च-एव स्पृशेद् अद्भिर् आत्मानं शिर एव च ॥ ६० ॥  
 
 
-2.61a an.uṣṇābhir a.phenābhir adbhis tīrthena dharmavit |  
-2.61c śauca.īpsuḥ sarvadā-ācāmed ekānte prāg.udaṅ.mukhaḥ || 61 ||  
+२।६१अ अन्।उष्णाभिर् अ।फेनाभिर् अद्भिस् तीर्थेन धर्मवित् ।  
+२।६१च् शौच।ईप्सुः सर्वदा-आचामेद् एकान्ते प्राग्।उदङ्।मुखः ॥ ६१ ॥  
 
 
-2.62a hṛdgābhiḥ pūyate vipraḥ kaṇṭhagābhis tu bhūmipaḥ |  
-2.62c vaiśyo 'dbhiḥ prāśitābhis tu śūdraḥ spṛṣṭābhir antataḥ || 62 ||  
+२।६२अ हृद्गाभिः पूयते विप्रः कण्ठगाभिस् तु भूमिपः ।  
+२।६२च् वैश्यो ऽद्भिः प्राशिताभिस् तु शूद्रः स्पृष्टाभिर् अन्ततः ॥ ६२ ॥  
 
 
- 2.1.9.6. Insignia-II
- \[O\]  edn 414,  \[O\]  tr. 97
-2.63a uddhṛte dakṣine pāṇāv upavītī-ucyate dvijaḥ |  
-2.63c savye prācīnāvītī nivītī kaṇṭhasajjane || 63 ||  
+ २।१।९।६। इन्सिग्निअ-इइ
+ \[ओ\]  एद्न् ४१४,  \[ओ\]  त्र्। ९७
+२।६३अ उद्धृते दक्षिने पाणाव् उपवीती-उच्यते द्विजः ।  
+२।६३च् सव्ये प्राचीनावीती निवीती कण्ठसज्जने ॥ ६३ ॥  
 
 
-2.64a mekhalām ajinaṃ daṇḍam upavītaṃ kamaṇḍalum |  
-2.64c apsu prāsya vinaṣṭāni gṛhṇīta-anyāni mantravat || 64 ||  
+२।६४अ मेखलाम् अजिनं दण्डम् उपवीतं कमण्डलुम् ।  
+२।६४च् अप्सु प्रास्य विनष्टानि गृह्णीत-अन्यानि मन्त्रवत् ॥ ६४ ॥  
 
 
 # २।१।१०। स्हविन्ग् चेरेमोन्य्
@@ -798,102 +797,102 @@
 २।६५च् राजन्यबन्धोर् द्वाविंशे वैश्यस्य द्व्यधिके मतः ॥ ६५ ॥  
 
 
-# 2.1.11. Consecratory Rites for Women
- \[O\]  edn 414-415,  \[O\]  tr. 98
-2.66a a.mantrikā tu kāryā-iyaṃ strīṇām āvṛd aśeṣataḥ |  
-2.66c saṃskārārthaṃ śarīrasya yathākālaṃ yathākramam || 66 ||  
+# २।१।११। चोन्सेच्रतोर्य् रितेस् ड़ोर् Wओमेन्
+ \[ओ\]  एद्न् ४१४-४१५,  \[ओ\]  त्र्। ९८
+२।६६अ अ।मन्त्रिका तु कार्या-इयं स्त्रीणाम् आवृद् अशेषतः ।  
+२।६६च् संस्कारार्थं शरीरस्य यथाकालं यथाक्रमम् ॥ ६६ ॥  
 
 
-2.67a vaivāhiko vidhiḥ strīṇāṃ saṃskāro vaidikaḥ smṛtaḥ |  
-2.67c patisevā gurau vāso gṛhārtho 'gni.parikriyā || 67 ||  
+२।६७अ वैवाहिको विधिः स्त्रीणां संस्कारो वैदिकः स्मृतः ।  
+२।६७च् पतिसेवा गुरौ वासो गृहार्थो ऽग्नि।परिक्रिया ॥ ६७ ॥  
 
 
-2.68a eṣa prokto dvijātīnām aupanāyaniko vidhiḥ |  
-2.68c utpatti.vyañjakaḥ puṇyaḥ karmayogaṃ nibodhata || 68 ||  
+२।६८अ एष प्रोक्तो द्विजातीनाम् औपनायनिको विधिः ।  
+२।६८च् उत्पत्ति।व्यञ्जकः पुण्यः कर्मयोगं निबोधत ॥ ६८ ॥  
 
 
  २।२। थे स्तुदेन्त्
  \[ओ\]  एद्न् ४१५-४४६,  \[ओ\]  त्र्। ९८-१०७
-# 2.2.1. Instruction
- \[O\]  edn 415-418,  \[O\]  tr. 98-99
-2.69a upanīya guruḥ śiṣyaṃ śikṣayet-śaucam āditaḥ |  
-2.69c ācāram agnikāryaṃ ca sandhyā.upāsanam eva ca || 69 ||  
+# २।२।१। इन्स्त्रुच्तिओन्
+ \[ओ\]  एद्न् ४१५-४१८,  \[ओ\]  त्र्। ९८-९९
+२।६९अ उपनीय गुरुः शिष्यं शिक्षयेत्-शौचम् आदितः ।  
+२।६९च् आचारम् अग्निकार्यं च सन्ध्या।उपासनम् एव च ॥ ६९ ॥  
 
 
-2.70a adhyeṣyamāṇas tv ācānto yathāśāstram udaṅ.mukhaḥ |  
-2.70c brahmāñjali.kṛto 'dhyāpyo laghu.vāsā jita.indriyaḥ || 70 ||  
+२।७०अ अध्येष्यमाणस् त्व् आचान्तो यथाशास्त्रम् उदङ्।मुखः ।  
+२।७०च् ब्रह्माञ्जलि।कृतो ऽध्याप्यो लघु।वासा जित।इन्द्रियः ॥ ७० ॥  
 
 
-2.71a brahmārambhe 'vasāne ca pādau grāhyau guroḥ sadā |  
-2.71c saṃhatya hastāv adhyeyaṃ sa hi brahmāñjaliḥ smṛtaḥ || 71 ||  
+२।७१अ ब्रह्मारम्भे ऽवसाने च पादौ ग्राह्यौ गुरोः सदा ।  
+२।७१च् संहत्य हस्ताव् अध्येयं स हि ब्रह्माञ्जलिः स्मृतः ॥ ७१ ॥  
 
 
-2.72a vyatyasta.pāṇinā kāryam upasaṅgrahaṇaṃ guroḥ |  
-2.72c savyena savyaḥ spraṣṭavyo dakṣiṇena ca dakṣiṇaḥ || 72 ||  
+२।७२अ व्यत्यस्त।पाणिना कार्यम् उपसङ्ग्रहणं गुरोः ।  
+२।७२च् सव्येन सव्यः स्प्रष्टव्यो दक्षिणेन च दक्षिणः ॥ ७२ ॥  
 
 
-2.73a adhyeṣyamāṇaṃ tu gurur nityakālam a.tandritaḥ |  
-2.73c adhīṣva bho iti brūyād virāmo 'stv iti ca-āramet || 73 ||  
+२।७३अ अध्येष्यमाणं तु गुरुर् नित्यकालम् अ।तन्द्रितः ।  
+२।७३च् अधीष्व भो इति ब्रूयाद् विरामो ऽस्त्व् इति च-आरमेत् ॥ ७३ ॥  
 
 
-2.74a brahmanaḥ praṇavaṃ kuryād ādāv ante ca sarvadā |  
-2.74c sravaty an.oṅkṛtaṃ pūrvaṃ parastāc ca viśīryati || 74 ||  
+२।७४अ ब्रह्मनः प्रणवं कुर्याद् आदाव् अन्ते च सर्वदा ।  
+२।७४च् स्रवत्य् अन्।ओङ्कृतं पूर्वं परस्ताच् च विशीर्यति ॥ ७४ ॥  
 
 
-2.75a prāk.kūlān paryupāsīnaḥ pavitraiś ca-eva pāvitaḥ |  
-2.75c prāṇāyāmais tribhiḥ pūtas tata oṃ.kāram arhati || 75 ||  
+२।७५अ प्राक्।कूलान् पर्युपासीनः पवित्रैश् च-एव पावितः ।  
+२।७५च् प्राणायामैस् त्रिभिः पूतस् तत ॐ।कारम् अर्हति ॥ ७५ ॥  
 
 
- 2.2.1.1. The Syllable OM
- \[O\]  edn 416-418,  \[O\]  tr. 98-99
-2.76a a.kāraṃ ca-apy u.kāraṃ ca ma.kāraṃ ca prajāpatiḥ |  
-2.76c vedatrayāt-niraduhad bhūr bhuvaḥ svar iti-iti ca || 76 ||  
+ २।२।१।१। थे स्य्ल्लब्ले ओम्
+ \[ओ\]  एद्न् ४१६-४१८,  \[ओ\]  त्र्। ९८-९९
+२।७६अ अ।कारं च-अप्य् उ।कारं च म।कारं च प्रजापतिः ।  
+२।७६च् वेदत्रयात्-निरदुहद् भूर् भुवः स्वर् इति-इति च ॥ ७६ ॥  
 
 
-2.77a tribhya eva tu vedebhyaḥ pādaṃ pādam adūduhat |  
-2.77c tad ity ṛco 'syāḥ sāvitryāḥ parameṣṭhī prajāpatiḥ || 77 ||  
+२।७७अ त्रिभ्य एव तु वेदेभ्यः पादं पादम् अदूदुहत् ।  
+२।७७च् तद् इत्य् ऋचो ऽस्याः सावित्र्याः परमेष्ठी प्रजापतिः ॥ ७७ ॥  
 
 
-2.78a etad akṣaram etāṃ ca japan vyāhṛti.pūrvikām |  
-2.78c sandhyayor vedavid vipro vedapuṇyena yujyate || 78 ||  
+२।७८अ एतद् अक्षरम् एतां च जपन् व्याहृति।पूर्विकाम् ।  
+२।७८च् सन्ध्ययोर् वेदविद् विप्रो वेदपुण्येन युज्यते ॥ ७८ ॥  
 
 
-2.79a sahasrakṛtvas tv abhyasya bahir etat trikaṃ dvijaḥ |  
-2.79c mahato 'py enaso māsāt tvacā-iva-ahir vimucyate || 79 ||  
+२।७९अ सहस्रकृत्वस् त्व् अभ्यस्य बहिर् एतत् त्रिकं द्विजः ।  
+२।७९च् महतो ऽप्य् एनसो मासात् त्वचा-इव-अहिर् विमुच्यते ॥ ७९ ॥  
 
 
-2.80a etayā-ṛcā visaṃyuktaḥ kāle ca kriyayā svayā |  
-2.80c brahma.kṣatriya.viś.yonir garhaṇāṃ yāti sādhuṣu || 80 ||  
+२।८०अ एतया-ऋचा विसंयुक्तः काले च क्रियया स्वया ।  
+२।८०च् ब्रह्म।क्षत्रिय।विश्।योनिर् गर्हणां याति साधुषु ॥ ८० ॥  
 
 
-2.81a oṃ.kāra.pūrvikās tisro mahāvyāhṛtayo 'vyayāḥ | 2.81av/  \[M\] : “oṅkāra.”  
-2.81c tri.padā ca-eva sāvitrī vijñeyaṃ brahmaṇo mukham || 81 ||  
+२।८१अ ॐ।कार।पूर्विकास् तिस्रो महाव्याहृतयो ऽव्ययाः । २।८१अव्।  \[म्\] : “ओङ्कार।”  
+२।८१च् त्रि।पदा च-एव सावित्री विज्ञेयं ब्रह्मणो मुखम् ॥ ८१ ॥  
 
 
-2.82a yo 'dhīte 'hany ahany etāṃ trīṇi varṣāṇy a.tandritaḥ |  
-2.82c sa brahma param abhyeti vāyubhūtaḥ kha.mūrtimān || 82 ||  
+२।८२अ यो ऽधीते ऽहन्य् अहन्य् एतां त्रीणि वर्षाण्य् अ।तन्द्रितः ।  
+२।८२च् स ब्रह्म परम् अभ्येति वायुभूतः ख।मूर्तिमान् ॥ ८२ ॥  
 
 
-2.83a ekākṣaraṃ paraṃ brahma prāṇāyāmaḥ paraṃ tapaḥ |  
-2.83c sāvitryās tu paraṃ na-asti maunāt satyaṃ viśiṣyate || 83 ||  
+२।८३अ एकाक्षरं परं ब्रह्म प्राणायामः परं तपः ।  
+२।८३च् सावित्र्यास् तु परं न-अस्ति मौनात् सत्यं विशिष्यते ॥ ८३ ॥  
 
 
-2.84a kṣaranti sarvā vaidikyo juhoti.yajati.kriyāḥ |  
-2.84c akṣaraṃ duṣkaraṃ jñeyaṃ brahma ca-eva prajāpatiḥ || 84 || 2.84cv/  \[M\] : “akṣaraṃ tv akṣaraṃ jñeyaṃ”  
+२।८४अ क्षरन्ति सर्वा वैदिक्यो जुहोति।यजति।क्रियाः ।  
+२।८४च् अक्षरं दुष्करं ज्ञेयं ब्रह्म च-एव प्रजापतिः ॥ ८४ ॥ २।८४च्व्।  \[म्\] : “अक्षरं त्व् अक्षरं ज्ञेयं”  
 
 
- 2.2.1.2. Soft Recitation
- \[O\]  edn 418,  \[O\]  tr. 99
-2.85a vidhiyajñāj japayajño viśiṣṭo daśabhir guṇaiḥ |  
-2.85c upāṃśuḥ syāt-śataguṇaḥ sāhasro mānasaḥ smṛtaḥ || 85 ||  
+ २।२।१।२। सोड़्त् रेचिततिओन्
+ \[ओ\]  एद्न् ४१८,  \[ओ\]  त्र्। ९९
+२।८५अ विधियज्ञाज् जपयज्ञो विशिष्टो दशभिर् गुणैः ।  
+२।८५च् उपांशुः स्यात्-शतगुणः साहस्रो मानसः स्मृतः ॥ ८५ ॥  
 
 
-2.86a ye pākayajñās catvāro vidhiyajñasamanvitāḥ |  
-2.86c sarve te japayajñasya kalāṃ na-arhanti ṣoḍaśīm || 86 ||  
+२।८६अ ये पाकयज्ञास् चत्वारो विधियज्ञसमन्विताः ।  
+२।८६च् सर्वे ते जपयज्ञस्य कलां न-अर्हन्ति षोडशीम् ॥ ८६ ॥  
 
 
-2.87a japyena-eva tu saṃsidhyed brāhmaṇo na-atra saṃśayaḥ |  
-2.87c kuryād anyan na vā kuryān maitro brāhmaṇa ucyate || 87 ||  
+२।८७अ जप्येन-एव तु संसिध्येद् ब्राह्मणो न-अत्र संशयः ।  
+२।८७च् कुर्याद् अन्यन् न वा कुर्यान् मैत्रो ब्राह्मण उच्यते ॥ ८७ ॥  
 
 
 # २।२।२। एxचुर्सुस्: चोन्त्रोल् ओड़् थे ओर्गन्स्
@@ -950,18 +949,18 @@
 २।१००च् सर्वान् संसाधयेद् अर्थान् अ।क्षिण्वन् योगतस् तनुम् ॥ १०० ॥  
 
 
-# 2.2.3. Twilight Worship
- \[O\]  edn 420-421,  \[O\]  tr. 100
-2.101a pūrvāṃ sandhyāṃ japāṃs tiṣṭhet sāvitrīm ā.arkadarśanāt |  
-2.101c paścimāṃ tu samāsīnaḥ samyag ṛkṣavibhāvanāt || 101 || 2.101cv/  \[M\] : “paścimāṃ tu sadāsīta”  
+# २।२।३। त्wइलिघ्त् Wओर्स्हिप्
+ \[ओ\]  एद्न् ४२०-४२१,  \[ओ\]  त्र्। १००
+२।१०१अ पूर्वां सन्ध्यां जपांस् तिष्ठेत् सावित्रीम् आ।अर्कदर्शनात् ।  
+२।१०१च् पश्चिमां तु समासीनः सम्यग् ऋक्षविभावनात् ॥ १०१ ॥ २।१०१च्व्।  \[म्\] : “पश्चिमां तु सदासीत”  
 
 
-2.102a pūrvāṃ sandhyāṃ japaṃs tiṣṭhan naiśam eno vyapohati |  
-2.102c paścimām tu samāsīno malaṃ hanti divākṛtam || 102 ||  
+२।१०२अ पूर्वां सन्ध्यां जपंस् तिष्ठन् नैशम् एनो व्यपोहति ।  
+२।१०२च् पश्चिमाम् तु समासीनो मलं हन्ति दिवाकृतम् ॥ १०२ ॥  
 
 
-2.103a na tiṣṭhati tu yaḥ pūrvāṃ na-upāste yaś ca paścimām |  
-2.103c sa śūdravad bahiṣkāryaḥ sarvasmād dvijakarmaṇaḥ || 103 ||  
+२।१०३अ न तिष्ठति तु यः पूर्वां न-उपास्ते यश् च पश्चिमाम् ।  
+२।१०३च् स शूद्रवद् बहिष्कार्यः सर्वस्माद् द्विजकर्मणः ॥ १०३ ॥  
 
 
 # २।२।४। वेदिच् रेचिततिओन्
@@ -982,42 +981,42 @@
 २।१०७च् तस्य नित्यं क्षरत्य् एष पयो दधि घृतं मधु ॥ १०७ ॥  
 
 
-# 2.2.5. Persons Competent to Receive Vedic Instruction
- \[O\]  edn 422-423,  \[O\]  tr. 100-101
-2.108a agnīndhanaṃ bhaikṣacaryām adhaḥśayyāṃ guror hitam |  
-2.108c ā samāvartanāt kuryāt kṛta.upanayano dvijaḥ || 108 ||  
+# २।२।५। पेर्सोन्स् चोम्पेतेन्त् तो रेचेइवे वेदिच् इन्स्त्रुच्तिओन्
+ \[ओ\]  एद्न् ४२२-४२३,  \[ओ\]  त्र्। १००-१०१
+२।१०८अ अग्नीन्धनं भैक्षचर्याम् अधःशय्यां गुरोर् हितम् ।  
+२।१०८च् आ समावर्तनात् कुर्यात् कृत।उपनयनो द्विजः ॥ १०८ ॥  
 
 
-2.109a ācāryaputraḥ śuśrūṣur jñānado dhārmikaḥ śuciḥ |  
-2.109c āptaḥ śakto 'rthadaḥ sādhuḥ svo 'dhyāpyā daśa dharmataḥ || 109 ||  
+२।१०९अ आचार्यपुत्रः शुश्रूषुर् ज्ञानदो धार्मिकः शुचिः ।  
+२।१०९च् आप्तः शक्तो ऽर्थदः साधुः स्वो ऽध्याप्या दश धर्मतः ॥ १०९ ॥  
 
 
-2.110a na-apṛṣṭaḥ kasya cid brūyān na ca-anyāyena pṛcchataḥ |  
-2.110c jānann api hi medhāvī jaḍaval loka ācaret || 110 ||  
+२।११०अ न-अपृष्टः कस्य चिद् ब्रूयान् न च-अन्यायेन पृच्छतः ।  
+२।११०च् जानन्न् अपि हि मेधावी जडवल् लोक आचरेत् ॥ ११० ॥  
 
 
-2.111a adharmeṇa ca yaḥ prāha yaś ca-adharmeṇa pṛcchati |  
-2.111c tayor anyataraḥ praiti vidveṣaṃ vā-adhigacchati || 111 ||  
+२।१११अ अधर्मेण च यः प्राह यश् च-अधर्मेण पृच्छति ।  
+२।१११च् तयोर् अन्यतरः प्रैति विद्वेषं वा-अधिगच्छति ॥ १११ ॥  
 
 
-2.112a dharma.arthau yatra na syātāṃ śuśrūṣā vā-api tadvidhā |  
-2.112c tatra vidyā na vaptavyā śubhaṃ bījam iva-ūṣare || 112 ||  
+२।११२अ धर्म।अर्थौ यत्र न स्यातां शुश्रूषा वा-अपि तद्विधा ।  
+२।११२च् तत्र विद्या न वप्तव्या शुभं बीजम् इव-ऊषरे ॥ ११२ ॥  
 
 
-2.113a vidyayā-eva samaṃ kāmaṃ martavyaṃ brahmavādinā |  
-2.113c āpady api hi ghorāyāṃ na tv enām iriṇe vapet || 113 ||  
+२।११३अ विद्यया-एव समं कामं मर्तव्यं ब्रह्मवादिना ।  
+२।११३च् आपद्य् अपि हि घोरायां न त्व् एनाम् इरिणे वपेत् ॥ ११३ ॥  
 
 
-2.114a vidyā brāhmaṇam etya-āha śevadhis te 'smi rakṣa mām | 2.114av/  \[M\] : “śevadhiṣ ṭe”  
-2.114c asūyakāya māṃ mādās tathā syāṃ vīryavattamā || 114 ||  
+२।११४अ विद्या ब्राह्मणम् एत्य-आह शेवधिस् ते ऽस्मि रक्ष माम् । २।११४अव्।  \[म्\] : “शेवधिष् टे”  
+२।११४च् असूयकाय मां मादास् तथा स्यां वीर्यवत्तमा ॥ ११४ ॥  
 
 
-2.115a yam eva tu śuciṃ vidyān niyata.brahmacāriṇam | 2.115av/  \[M\] : “vidyā niyataṃ brahmacāriṇam”  
-2.115c tasmai māṃ brūhi viprāya nidhipāya-a.pramādine || 115 ||  
+२।११५अ यम् एव तु शुचिं विद्यान् नियत।ब्रह्मचारिणम् । २।११५अव्।  \[म्\] : “विद्या नियतं ब्रह्मचारिणम्”  
+२।११५च् तस्मै मां ब्रूहि विप्राय निधिपाय-अ।प्रमादिने ॥ ११५ ॥  
 
 
-2.116a brahma yas tv ananujñātam adhīyānād avāpnuyāt |  
-2.116c sa brahmasteyasaṃyukto narakaṃ pratipadyate || 116 ||  
+२।११६अ ब्रह्म यस् त्व् अननुज्ञातम् अधीयानाद् अवाप्नुयात् ।  
+२।११६च् स ब्रह्मस्तेयसंयुक्तो नरकं प्रतिपद्यते ॥ ११६ ॥  
 
 
 # २।२।६। सलुततिओन्
@@ -1090,30 +1089,30 @@
 २।१३३च् मातृवद् वृत्तिम् आतिष्ठेन् माता ताभ्यो गरीयसी ॥ १३३ ॥  
 
 
-# 2.2.7. Precedence
- \[O\]  edn 426-427,  \[O\]  tr. 101-102
-2.134a daśābda.ākhyaṃ paurasakhyaṃ pañcābda.ākhyaṃ kalābhṛtām |  
-2.134c tryabdapūrvaṃ śrotriyāṇāṃ svalpena-api svayoniṣu || 134 ||  
+# २।२।७। प्रेचेदेन्चे
+ \[ओ\]  एद्न् ४२६-४२७,  \[ओ\]  त्र्। १०१-१०२
+२।१३४अ दशाब्द।आख्यं पौरसख्यं पञ्चाब्द।आख्यं कलाभृताम् ।  
+२।१३४च् त्र्यब्दपूर्वं श्रोत्रियाणां स्वल्पेन-अपि स्वयोनिषु ॥ १३४ ॥  
 
 
-2.135a brāhmaṇaṃ daśavarṣaṃ tu śatavarṣaṃ tu bhūmipam |  
-2.135c pitā.putrau vijānīyād brāhmaṇas tu tayoḥ pitā || 135 ||  
+२।१३५अ ब्राह्मणं दशवर्षं तु शतवर्षं तु भूमिपम् ।  
+२।१३५च् पिता।पुत्रौ विजानीयाद् ब्राह्मणस् तु तयोः पिता ॥ १३५ ॥  
 
 
-2.136a vittaṃ bandhur vayaḥ karma vidyā bhavati pañcamī |  
-2.136c etāni mānyasthānāni garīyo yad yad uttaram || 136 || 2.136cv/  \[M\] : “mānasthānāni”  
+२।१३६अ वित्तं बन्धुर् वयः कर्म विद्या भवति पञ्चमी ।  
+२।१३६च् एतानि मान्यस्थानानि गरीयो यद् यद् उत्तरम् ॥ १३६ ॥ २।१३६च्व्।  \[म्\] : “मानस्थानानि”  
 
 
-2.137a pañcānāṃ triṣu varṇeṣu bhūyāṃsi guṇavanti ca |  
-2.137c yatra syuḥ so 'tra māna.arhaḥ śūdro 'pi daśamīṃ gataḥ || 137 ||  
+२।१३७अ पञ्चानां त्रिषु वर्णेषु भूयांसि गुणवन्ति च ।  
+२।१३७च् यत्र स्युः सो ऽत्र मान।अर्हः शूद्रो ऽपि दशमीं गतः ॥ १३७ ॥  
 
 
-2.138a cakriṇo daśamīsthasya rogiṇo bhāriṇaḥ striyāḥ |  
-2.138c snātakasya ca rājñaś ca panthā deyo varasya ca || 138 ||  
+२।१३८अ चक्रिणो दशमीस्थस्य रोगिणो भारिणः स्त्रियाः ।  
+२।१३८च् स्नातकस्य च राज्ञश् च पन्था देयो वरस्य च ॥ १३८ ॥  
 
 
-2.139a teṣāṃ tu samāvetānāṃ mānyau snātaka.pārthivau |  
-2.139c rāja.snātakayoś ca-eva snātako nṛpamānabhāk || 139 ||  
+२।१३९अ तेषां तु समावेतानां मान्यौ स्नातक।पार्थिवौ ।  
+२।१३९च् राज।स्नातकयोश् च-एव स्नातको नृपमानभाक् ॥ १३९ ॥  
 
 
 # २।२।८। तेअछेर्
@@ -1214,42 +1213,42 @@
 २।१६३च् सुखं चरति लोके ऽस्मिन्न् अवमन्ता विनश्यति ॥ १६३ ॥  
 
 
-# 2.2.9. Vedic Study
- \[O\]  edn 431-433,  \[O\]  tr. 103
-2.164a anena kramayogena saṃskṛta.ātmā dvijaḥ śanaiḥ |  
-2.164c gurau vasan sañcinuyād brahmādhigamikaṃ tapaḥ || 164 ||  
+# २।२।९। वेदिच् स्तुद्य्
+ \[ओ\]  एद्न् ४३१-४३३,  \[ओ\]  त्र्। १०३
+२।१६४अ अनेन क्रमयोगेन संस्कृत।आत्मा द्विजः शनैः ।  
+२।१६४च् गुरौ वसन् सञ्चिनुयाद् ब्रह्माधिगमिकं तपः ॥ १६४ ॥  
 
 
-2.165a tapo.viśeṣair vividhair vrataiś ca vidhicoditaiḥ |  
-2.165c vedaḥ kṛtsno 'dhigantavyaḥ sa.rahasyo dvijanmanā || 165 ||  
+२।१६५अ तपो।विशेषैर् विविधैर् व्रतैश् च विधिचोदितैः ।  
+२।१६५च् वेदः कृत्स्नो ऽधिगन्तव्यः स।रहस्यो द्विजन्मना ॥ १६५ ॥  
 
 
-2.166a vedam eva sadā-abhyasyet tapas tapsyan dvijottamaḥ |  
-2.166c vedābhyāso hi viprasya tapaḥ param iha-ucyate || 166 ||  
+२।१६६अ वेदम् एव सदा-अभ्यस्येत् तपस् तप्स्यन् द्विजोत्तमः ।  
+२।१६६च् वेदाभ्यासो हि विप्रस्य तपः परम् इह-उच्यते ॥ १६६ ॥  
 
 
-2.167a ā ha-eva sa nakhāgrebhyaḥ paramaṃ tapyate tapaḥ |  
-2.167c yaḥ sragvy api dvijo 'dhīte svādhyāyaṃ śaktito 'nvaham || 167 ||  
+२।१६७अ आ ह-एव स नखाग्रेभ्यः परमं तप्यते तपः ।  
+२।१६७च् यः स्रग्व्य् अपि द्विजो ऽधीते स्वाध्यायं शक्तितो ऽन्वहम् ॥ १६७ ॥  
 
 
-2.168a yo 'n.adhītya dvijo vedam anyatra kurute śramam |  
-2.168c sa jīvann eva śūdratvam āśu gacchati sa.anvayaḥ || 168 ||  
+२।१६८अ यो ऽन्।अधीत्य द्विजो वेदम् अन्यत्र कुरुते श्रमम् ।  
+२।१६८च् स जीवन्न् एव शूद्रत्वम् आशु गच्छति स।अन्वयः ॥ १६८ ॥  
 
 
-2.169a mātur agre 'dhijananaṃ dvitīyaṃ mauñjibandhane |  
-2.169c tṛtīyaṃ yajñadīkṣāyāṃ dvijasya śruticodanāt || 169 ||  
+२।१६९अ मातुर् अग्रे ऽधिजननं द्वितीयं मौञ्जिबन्धने ।  
+२।१६९च् तृतीयं यज्ञदीक्षायां द्विजस्य श्रुतिचोदनात् ॥ १६९ ॥  
 
 
-2.170a tatra yad brahmajanma-asya mauñjībandhanacihnitam |  
-2.170c tatra-asya mātā sāvitrī pitā tv ācārya ucyate || 170 ||  
+२।१७०अ तत्र यद् ब्रह्मजन्म-अस्य मौञ्जीबन्धनचिह्नितम् ।  
+२।१७०च् तत्र-अस्य माता सावित्री पिता त्व् आचार्य उच्यते ॥ १७० ॥  
 
 
-2.171a vedapradānād ācāryaṃ pitaraṃ paricakṣate |  
-2.171c na hy asmin yujyate karma kiñ cid ā mauñjibandhanāt || 171 ||  
+२।१७१अ वेदप्रदानाद् आचार्यं पितरं परिचक्षते ।  
+२।१७१च् न ह्य् अस्मिन् युज्यते कर्म किञ् चिद् आ मौञ्जिबन्धनात् ॥ १७१ ॥  
 
 
-2.172a na-abhivyāhārayed brahma svadhāninayanād ṛte |  
-2.172c śūdreṇa hi samas tāvad yāvad vede na jāyate || 172 ||  
+२।१७२अ न-अभिव्याहारयेद् ब्रह्म स्वधानिनयनाद् ऋते ।  
+२।१७२च् शूद्रेण हि समस् तावद् यावद् वेदे न जायते ॥ १७२ ॥  
 
 
 # २।२।१०। ओब्सेर्वन्चेस्
@@ -1328,122 +1327,122 @@
 २।१९०च् राजन्य।वैश्ययोस् त्व् एवं न-एतत् कर्म विधीयते ॥ १९० ॥  
 
 
-# 2.2.11. Conduct towards the Teacher
- \[O\]  edn 436-441,  \[O\]  tr. 104-106
-2.191a codito guruṇā nityam a.pracodita eva vā |  
-2.191c kuryād adhyayane yatnam ācāryasya hiteṣu ca || 191 || 2.191cv/  \[M\] : “adhyayane yogam”  
+# २।२।११। चोन्दुच्त् तोwअर्द्स् थे तेअछेर्
+ \[ओ\]  एद्न् ४३६-४४१,  \[ओ\]  त्र्। १०४-१०६
+२।१९१अ चोदितो गुरुणा नित्यम् अ।प्रचोदित एव वा ।  
+२।१९१च् कुर्याद् अध्ययने यत्नम् आचार्यस्य हितेषु च ॥ १९१ ॥ २।१९१च्व्।  \[म्\] : “अध्ययने योगम्”  
 
 
-2.192a śarīraṃ ca-eva vācaṃ ca buddhīndriya.manāṃsi ca |  
-2.192c niyamya prāñjalis tiṣṭhed vīkṣamāṇo guror mukham || 192 ||  
+२।१९२अ शरीरं च-एव वाचं च बुद्धीन्द्रिय।मनांसि च ।  
+२।१९२च् नियम्य प्राञ्जलिस् तिष्ठेद् वीक्षमाणो गुरोर् मुखम् ॥ १९२ ॥  
 
 
-2.193a nityam uddhṛta.pāṇiḥ syāt sādhu.ācāraḥ su.saṃvṛtaḥ |  
-2.193c āsyatām iti ca-uktaḥ sann āsīta-abhimukhaṃ guroḥ || 193 ||  
+२।१९३अ नित्यम् उद्धृत।पाणिः स्यात् साधु।आचारः सु।संवृतः ।  
+२।१९३च् आस्यताम् इति च-उक्तः सन्न् आसीत-अभिमुखं गुरोः ॥ १९३ ॥  
 
 
-2.194a hīna.anna.vastra.veṣaḥ syāt sarvadā gurusannidhau |  
-2.194c uttiṣṭhet prathamaṃ cāsya caramaṃ ca-eva saṃviśet || 194 ||  
+२।१९४अ हीन।अन्न।वस्त्र।वेषः स्यात् सर्वदा गुरुसन्निधौ ।  
+२।१९४च् उत्तिष्ठेत् प्रथमं चास्य चरमं च-एव संविशेत् ॥ १९४ ॥  
 
 
-2.195a pratiśrāvaṇa.sambhāṣe śayāno na samācaret |  
-2.195c na-āsīno na ca bhuñjāno na tiṣṭhan na parāṅ.mukhaḥ || 195 ||  
+२।१९५अ प्रतिश्रावण।सम्भाषे शयानो न समाचरेत् ।  
+२।१९५च् न-आसीनो न च भुञ्जानो न तिष्ठन् न पराङ्।मुखः ॥ १९५ ॥  
 
 
-2.196a āsīnasya sthitaḥ kuryād abhigacchaṃs tu tiṣṭhataḥ |  
-2.196c pratyudgamya tv āvrajataḥ paścād dhāvaṃs tu dhāvataḥ || 196 ||  
+२।१९६अ आसीनस्य स्थितः कुर्याद् अभिगच्छंस् तु तिष्ठतः ।  
+२।१९६च् प्रत्युद्गम्य त्व् आव्रजतः पश्चाद् धावंस् तु धावतः ॥ १९६ ॥  
 
 
-2.197a parāṅ.mukhasya-abhimukho dūrasthasya-etya ca.antikam |  
-2.197c praṇamya tu śayānasya nideśe ca-eva tiṣṭhataḥ || 197 ||  
+२।१९७अ पराङ्।मुखस्य-अभिमुखो दूरस्थस्य-एत्य च।अन्तिकम् ।  
+२।१९७च् प्रणम्य तु शयानस्य निदेशे च-एव तिष्ठतः ॥ १९७ ॥  
 
 
-2.198a nīcaṃ śayyā.āsanaṃ ca.asya nityaṃ syād gurusannidhau |  
-2.198c guros tu cakṣurviṣaye na yathā.iṣṭa.āsano bhavet || 198 ||  
+२।१९८अ नीचं शय्या।आसनं च।अस्य नित्यं स्याद् गुरुसन्निधौ ।  
+२।१९८च् गुरोस् तु चक्षुर्विषये न यथा।इष्ट।आसनो भवेत् ॥ १९८ ॥  
 
 
-2.199a na-udāhared asya nāma parokṣam api kevalam |  
-2.199c na ca-eva-asya.anukurvīta gati.bhāṣita.ceṣṭitam || 199 ||  
+२।१९९अ न-उदाहरेद् अस्य नाम परोक्षम् अपि केवलम् ।  
+२।१९९च् न च-एव-अस्य।अनुकुर्वीत गति।भाषित।चेष्टितम् ॥ १९९ ॥  
 
 
-2.200a guror yatra parivādo nindā vā.api pravartate |  
-2.200c karṇau tatra pidhātavyau gantavyaṃ vā tato 'nyataḥ || 200 ||  
+२।२००अ गुरोर् यत्र परिवादो निन्दा वा।अपि प्रवर्तते ।  
+२।२००च् कर्णौ तत्र पिधातव्यौ गन्तव्यं वा ततो ऽन्यतः ॥ २०० ॥  
 
 
-2.201a parīvādāt kharo bhavati śvā vai bhavati nindakaḥ |  
-2.201c paribhoktā kṛmir bhavati kīṭo bhavati matsarī || 201 ||  
+२।२०१अ परीवादात् खरो भवति श्वा वै भवति निन्दकः ।  
+२।२०१च् परिभोक्ता कृमिर् भवति कीटो भवति मत्सरी ॥ २०१ ॥  
 
 
-2.202a dūrastho na-arcayed enaṃ na kruddho na-antike striyāḥ |  
-2.202c yāna.āsanasthaś ca-eva-enam avaruhya-abhivādayet || 202 ||  
+२।२०२अ दूरस्थो न-अर्चयेद् एनं न क्रुद्धो न-अन्तिके स्त्रियाः ।  
+२।२०२च् यान।आसनस्थश् च-एव-एनम् अवरुह्य-अभिवादयेत् ॥ २०२ ॥  
 
 
-2.203a prativāte 'nuvāte ca na-āsīta guruṇā saha | 2.203av/  \[M\] : “prativātānuvāte”  
-2.203c a.saṃśrave ca-eva guror na kiṃ cid api kīrtayet || 203 ||  
+२।२०३अ प्रतिवाते ऽनुवाते च न-आसीत गुरुणा सह । २।२०३अव्।  \[म्\] : “प्रतिवातानुवाते”  
+२।२०३च् अ।संश्रवे च-एव गुरोर् न किं चिद् अपि कीर्तयेत् ॥ २०३ ॥  
 
 
-2.204a go.'śva.uṣṭra.yāna.prāsāda.prastareṣu kaṭeṣu ca |  
-2.204c āsīta guruṇā sārdhaṃ śilā.phalaka.nauṣu ca || 204 ||  
+२।२०४अ गो।ऽश्व।उष्ट्र।यान।प्रासाद।प्रस्तरेषु कटेषु च ।  
+२।२०४च् आसीत गुरुणा सार्धं शिला।फलक।नौषु च ॥ २०४ ॥  
 
 
- 2.2.11.1. Teacher's Teacher and other Instructors
- \[O\]  edn 439,  \[O\]  tr. 105
-2.205a guror gurau sannihite guruvad vṛttim ācaret |  
-2.205c na ca-a.nisṛṣṭo guruṇā svān gurūn abhivādayet || 205 ||  
+ २।२।११।१। तेअछेर्ऽस् तेअछेर् अन्द् ओथेर् इन्स्त्रुच्तोर्स्
+ \[ओ\]  एद्न् ४३९,  \[ओ\]  त्र्। १०५
+२।२०५अ गुरोर् गुरौ सन्निहिते गुरुवद् वृत्तिम् आचरेत् ।  
+२।२०५च् न च-अ।निसृष्टो गुरुणा स्वान् गुरून् अभिवादयेत् ॥ २०५ ॥  
 
 
-2.206a vidyāguruṣv evam eva nityā vṛttiḥ svayoniṣu |  
-2.206c pratiṣedhatsu ca-adharmādd hitaṃ ca-upadiśatsv api || 206 ||  
+२।२०६अ विद्यागुरुष्व् एवम् एव नित्या वृत्तिः स्वयोनिषु ।  
+२।२०६च् प्रतिषेधत्सु च-अधर्माद्द् हितं च-उपदिशत्स्व् अपि ॥ २०६ ॥  
 
 
- 2.2.11.2. Members of Teacher's Family
- \[O\]  edn 439-441,  \[O\]  tr. 105-106
-2.207a śreyaḥsu guruvad vṛttiṃ nityam eva samācaret |  
-2.207c guruputreṣu ca-āryeṣu guroś ca-eva svabandhuṣu || 207 || 2.207cv/  \[M\] : “guruputre tathācārye”  
+ २।२।११।२। मेम्बेर्स् ओड़् तेअछेर्ऽस् ड़मिल्य्
+ \[ओ\]  एद्न् ४३९-४४१,  \[ओ\]  त्र्। १०५-१०६
+२।२०७अ श्रेयःसु गुरुवद् वृत्तिं नित्यम् एव समाचरेत् ।  
+२।२०७च् गुरुपुत्रेषु च-आर्येषु गुरोश् च-एव स्वबन्धुषु ॥ २०७ ॥ २।२०७च्व्।  \[म्\] : “गुरुपुत्रे तथाचार्ये”  
 
 
-2.208a bālaḥ samāna.janmā vā śiṣyo vā yajñakarmaṇi |  
-2.208c adhyāpayan gurusuto guruvat-mānam arhati || 208 ||  
+२।२०८अ बालः समान।जन्मा वा शिष्यो वा यज्ञकर्मणि ।  
+२।२०८च् अध्यापयन् गुरुसुतो गुरुवत्-मानम् अर्हति ॥ २०८ ॥  
 
 
-2.209a utsādanaṃ ca gātrāṇāṃ snāpana.ucchiṣṭabhojane |  
-2.209c na kuryād guruputrasya pādayoś ca-avanejanam || 209 ||  
+२।२०९अ उत्सादनं च गात्राणां स्नापन।उच्छिष्टभोजने ।  
+२।२०९च् न कुर्याद् गुरुपुत्रस्य पादयोश् च-अवनेजनम् ॥ २०९ ॥  
 
 
-2.210a guruvat pratipūjyāḥ syuḥ sa.varṇā guruyoṣitaḥ |  
-2.210c a.savarṇās tu sampūjyāḥ pratyutthāna.abhivādanaiḥ || 210 ||  
+२।२१०अ गुरुवत् प्रतिपूज्याः स्युः स।वर्णा गुरुयोषितः ।  
+२।२१०च् अ।सवर्णास् तु सम्पूज्याः प्रत्युत्थान।अभिवादनैः ॥ २१० ॥  
 
 
-2.211a abhyañjanaṃ snāpanaṃ ca gātra.utsādanam eva ca |  
-2.211c gurupatnyā na kāryāṇi keśānāṃ ca prasādhanam || 211 ||  
+२।२११अ अभ्यञ्जनं स्नापनं च गात्र।उत्सादनम् एव च ।  
+२।२११च् गुरुपत्न्या न कार्याणि केशानां च प्रसाधनम् ॥ २११ ॥  
 
 
-2.212a gurupatnī tu yuvatir na-abhivādyā-iha pādayoḥ |  
-2.212c pūrṇaviṃśativarṣeṇa guṇa.doṣau vijānatā || 212 ||  
+२।२१२अ गुरुपत्नी तु युवतिर् न-अभिवाद्या-इह पादयोः ।  
+२।२१२च् पूर्णविंशतिवर्षेण गुण।दोषौ विजानता ॥ २१२ ॥  
 
 
-2.213a svabhāva eṣa nārīṇāṃ narāṇām iha dūṣaṇam |  
-2.213c ato 'rthān na pramādyanti pramadāsu vipaścitaḥ || 213 ||  
+२।२१३अ स्वभाव एष नारीणां नराणाम् इह दूषणम् ।  
+२।२१३च् अतो ऽर्थान् न प्रमाद्यन्ति प्रमदासु विपश्चितः ॥ २१३ ॥  
 
 
-2.214a a.vidvāṃsam alaṃ loke vidvāṃsam api vā punaḥ |  
-2.214c pramadā hy utpathaṃ netuṃ kāma.krodhavaśānugam || 214 ||  
+२।२१४अ अ।विद्वांसम् अलं लोके विद्वांसम् अपि वा पुनः ।  
+२।२१४च् प्रमदा ह्य् उत्पथं नेतुं काम।क्रोधवशानुगम् ॥ २१४ ॥  
 
 
-2.215a mātrā svasrā duhitrā vā na viviktāsano bhavet |  
-2.215c balavān indriyagrāmo vidvāṃsam api karṣati || 215 ||  
+२।२१५अ मात्रा स्वस्रा दुहित्रा वा न विविक्तासनो भवेत् ।  
+२।२१५च् बलवान् इन्द्रियग्रामो विद्वांसम् अपि कर्षति ॥ २१५ ॥  
 
 
-2.216a kāmaṃ tu gurupatnīnāṃ yuvatīnāṃ yuvā bhuvi |  
-2.216c vidhivad vandanaṃ kuryād asāv aham iti bruvan || 216 ||  
+२।२१६अ कामं तु गुरुपत्नीनां युवतीनां युवा भुवि ।  
+२।२१६च् विधिवद् वन्दनं कुर्याद् असाव् अहम् इति ब्रुवन् ॥ २१६ ॥  
 
 
-2.217a viproṣya pādagrahaṇam anvahaṃ ca-abhivādanam |  
-2.217c gurudāreṣu kurvīta satāṃ dharmam anusmaran || 217 ||  
+२।२१७अ विप्रोष्य पादग्रहणम् अन्वहं च-अभिवादनम् ।  
+२।२१७च् गुरुदारेषु कुर्वीत सतां धर्मम् अनुस्मरन् ॥ २१७ ॥  
 
 
-2.218a yathā khanan khanitreṇa naro vāry adhigacchati |  
-2.218c tathā gurugatāṃ vidyāṃ śuśrūṣur adhigacchati || 218 ||  
+२।२१८अ यथा खनन् खनित्रेण नरो वार्य् अधिगच्छति ।  
+२।२१८च् तथा गुरुगतां विद्यां शुश्रूषुर् अधिगच्छति ॥ २१८ ॥  
 
 
 # २।२।१२। रुलेस् ओड़् चोन्दुच्त्
@@ -1548,14 +1547,14 @@
 २।२४२च् ब्राह्मणे वा-अन्।अनूचाने काङ्क्षन् गतिम् अन्।उत्तमाम् ॥ २४२ ॥  
 
 
-# 2.2.13. Life-long Student-I
- \[O\]  edn 445,  \[O\]  tr. 107
-2.243a yadi tv ātyantikaṃ vāsaṃ rocayeta guroḥ kule |  
-2.243c yuktaḥ paricared enam ā śarīravimokṣaṇāt || 243 ||  
+# २।२।१३। लिड़े-लोन्ग् स्तुदेन्त्-इ
+ \[ओ\]  एद्न् ४४५,  \[ओ\]  त्र्। १०७
+२।२४३अ यदि त्व् आत्यन्तिकं वासं रोचयेत गुरोः कुले ।  
+२।२४३च् युक्तः परिचरेद् एनम् आ शरीरविमोक्षणात् ॥ २४३ ॥  
 
 
-2.244a ā samāpteḥ śarīrasya yas tu śuśrūṣate gurum |  
-2.244c sa gacchaty añjasā vipro brahmaṇaḥ sadma śāśvatam || 244 ||  
+२।२४४अ आ समाप्तेः शरीरस्य यस् तु शुश्रूषते गुरुम् ।  
+२।२४४च् स गच्छत्य् अञ्जसा विप्रो ब्रह्मणः सद्म शाश्वतम् ॥ २४४ ॥  
 
 
 # २।२।१४। चोन्च्लुसिओन् ओड़् स्तुद्य्
@@ -1568,36 +1567,36 @@
 २।२४६च् धान्यं शाकं च वासांसि गुरवे प्रीतिम् आवहेत् ॥ २४६ ॥ २।२४६च्व्।  \[म्\] : “धान्यं वासांसि शाकं वा गुरवे प्रीतिम् आहरन्”  
 
 
-# 2.2.15. Life-long Student-II
- \[O\]  edn 446,  \[O\]  tr. 107
-2.247a ācārye tu khalu prete guruputre guṇānvite |  
-2.247c gurudāre sapiṇḍe vā guruvad vṛttim ācaret || 247 ||  
+# २।२।१५। लिड़े-लोन्ग् स्तुदेन्त्-इइ
+ \[ओ\]  एद्न् ४४६,  \[ओ\]  त्र्। १०७
+२।२४७अ आचार्ये तु खलु प्रेते गुरुपुत्रे गुणान्विते ।  
+२।२४७च् गुरुदारे सपिण्डे वा गुरुवद् वृत्तिम् आचरेत् ॥ २४७ ॥  
 
 
-2.248a eteṣv a.vidyamāneṣu sthāna.āsana.vihāravān |  
-2.248c prayuñjāno 'gniśuśrūṣāṃ sādhayed deham ātmanaḥ || 248 ||  
+२।२४८अ एतेष्व् अ।विद्यमानेषु स्थान।आसन।विहारवान् ।  
+२।२४८च् प्रयुञ्जानो ऽग्निशुश्रूषां साधयेद् देहम् आत्मनः ॥ २४८ ॥  
 
 
-2.249a evaṃ carati yo vipro brahmacaryam a.viplutaḥ |  
-2.249c sa gacchaty uttamasthānaṃ na ca-iha jāyate punaḥ || 249 ||  
+२।२४९अ एवं चरति यो विप्रो ब्रह्मचर्यम् अ।विप्लुतः ।  
+२।२४९च् स गच्छत्य् उत्तमस्थानं न च-इह जायते पुनः ॥ २४९ ॥  
 
 
-# Chapter 3
- \[O\]  edn 447-503,  \[O\]  tr. 108-123
+# छप्तेर् ३
+ \[ओ\]  एद्न् ४४७-५०३,  \[ओ\]  त्र्। १०८-१२३
  ३।१। मर्रिअगे
  \[ओ\]  एद्न् ४४७-४५०,  \[ओ\]  त्र्। १०८-१११
-# 3.1.1. Conclusion of Study
- \[O\]  edn 447,  \[O\]  tr. 108
-3.01a ṣaṭtriṃśad.ābdikaṃ caryaṃ gurau traivedikaṃ vratam |  
-3.01c tadardhikaṃ pādikaṃ vā grahaṇāntikam eva vā || 1 ||  
+# ३।१।१। चोन्च्लुसिओन् ओड़् स्तुद्य्
+ \[ओ\]  एद्न् ४४७,  \[ओ\]  त्र्। १०८
+३।०१अ षट्त्रिंशद्।आब्दिकं चर्यं गुरौ त्रैवेदिकं व्रतम् ।  
+३।०१च् तदर्धिकं पादिकं वा ग्रहणान्तिकम् एव वा ॥ १ ॥  
 
 
-3.02a vedān adhītya vedau vā vedaṃ vā-api yathākramam |  
-3.02c a.vipluta.brahmacaryo gṛhasthāśramam āvaset || 2 ||  
+३।०२अ वेदान् अधीत्य वेदौ वा वेदं वा-अपि यथाक्रमम् ।  
+३।०२च् अ।विप्लुत।ब्रह्मचर्यो गृहस्थाश्रमम् आवसेत् ॥ २ ॥  
 
 
-3.03a taṃ pratītaṃ svadharmeṇa brahmadāyaharaṃ pituḥ |  
-3.03c sragviṇaṃ talpa āsīnam arhayet prathamaṃ gavā || 3 ||  
+३।०३अ तं प्रतीतं स्वधर्मेण ब्रह्मदायहरं पितुः ।  
+३।०३च् स्रग्विणं तल्प आसीनम् अर्हयेत् प्रथमं गवा ॥ ३ ॥  
 
 
 # ३।१।२। सेलेच्तिओन् ओड़् अ ब्रिदे
@@ -1668,110 +1667,110 @@
 ३।१९च् तस्यां च-एव प्रसूतस्य निष्कृतिर् न विधीयते ॥ १९ ॥  
 
 
-# 3.1.3. Types of Marriage
- \[O\]  edn 450-455,  \[O\]  tr. 109-110
-3.20a caturṇām api varṇānaṃ pretya ca-iha hita.ahitān |  
-3.20c aṣṭāv imān samāsena strīvivāhān nibodhata || 20 ||  
+# ३।१।३। त्य्पेस् ओड़् मर्रिअगे
+ \[ओ\]  एद्न् ४५०-४५५,  \[ओ\]  त्र्। १०९-११०
+३।२०अ चतुर्णाम् अपि वर्णानं प्रेत्य च-इह हित।अहितान् ।  
+३।२०च् अष्टाव् इमान् समासेन स्त्रीविवाहान् निबोधत ॥ २० ॥  
 
 
-3.21a brāhmo daivas tathā-eva-ārṣaḥ prājāpatyas tathā-asuraḥ |  
-3.21c gāndharvo rākṣasaś ca-eva paiśācaś ca-aṣṭamo 'dhamaḥ || 21 ||  
+३।२१अ ब्राह्मो दैवस् तथा-एव-आर्षः प्राजापत्यस् तथा-असुरः ।  
+३।२१च् गान्धर्वो राक्षसश् च-एव पैशाचश् च-अष्टमो ऽधमः ॥ २१ ॥  
 
 
-3.22a yo yasya dharmyo varṇasya guṇa.doṣau ca yasya yau |  
-3.22c tad vaḥ sarvaṃ pravakṣyāmi prasave ca guṇa.aguṇān || 22 ||  
+३।२२अ यो यस्य धर्म्यो वर्णस्य गुण।दोषौ च यस्य यौ ।  
+३।२२च् तद् वः सर्वं प्रवक्ष्यामि प्रसवे च गुण।अगुणान् ॥ २२ ॥  
 
 
-3.23a ṣaḍ ānupūrvyā viprasya kṣatrasya caturo 'varān |  
-3.23c viś.śūdrayos tu tān eva vidyād dharmyān a.rākṣasān || 23 || 3.23cv/  \[M\] : “dharmyān na rākṣasān”  
+३।२३अ षड् आनुपूर्व्या विप्रस्य क्षत्रस्य चतुरो ऽवरान् ।  
+३।२३च् विश्।शूद्रयोस् तु तान् एव विद्याद् धर्म्यान् अ।राक्षसान् ॥ २३ ॥ ३।२३च्व्।  \[म्\] : “धर्म्यान् न राक्षसान्”  
 
 
-3.24a caturo brāhmaṇasya-ādyān praśastān kavayo viduḥ |  
-3.24c rākṣasaṃ kṣatriyasya-ekam āsuraṃ vaiśya.śūdrayoḥ || 24 ||  
+३।२४अ चतुरो ब्राह्मणस्य-आद्यान् प्रशस्तान् कवयो विदुः ।  
+३।२४च् राक्षसं क्षत्रियस्य-एकम् आसुरं वैश्य।शूद्रयोः ॥ २४ ॥  
 
 
-3.25a pañcānāṃ tu trayo dharmyā dvāv adharmyau smṛtāv iha |  
-3.25c paiśācaś ca-asuraś ca-eva na kartavyau kadā cana || 25 ||  
+३।२५अ पञ्चानां तु त्रयो धर्म्या द्वाव् अधर्म्यौ स्मृताव् इह ।  
+३।२५च् पैशाचश् च-असुरश् च-एव न कर्तव्यौ कदा चन ॥ २५ ॥  
 
 
-3.26a pṛthak pṛthag vā miśrau vā vivāhau pūrvacoditau |  
-3.26c gāndharvo rākṣasaś ca-eva dharmyau kṣatrasya tau smṛtau || 26 ||  
+३।२६अ पृथक् पृथग् वा मिश्रौ वा विवाहौ पूर्वचोदितौ ।  
+३।२६च् गान्धर्वो राक्षसश् च-एव धर्म्यौ क्षत्रस्य तौ स्मृतौ ॥ २६ ॥  
 
 
-3.27a ācchādya ca-arcayitvā ca śruta.śīlavate svayam |  
-3.27c āhūya dānaṃ kanyāyā brāhmo dharmaḥ prakīrtitaḥ || 27 ||  
+३।२७अ आच्छाद्य च-अर्चयित्वा च श्रुत।शीलवते स्वयम् ।  
+३।२७च् आहूय दानं कन्याया ब्राह्मो धर्मः प्रकीर्तितः ॥ २७ ॥  
 
 
-3.28a yajñe tu vitate samyag ṛtvije karma kurvate |  
-3.28c alaṅkṛtya sutādānaṃ daivaṃ dharmaṃ pracakṣate || 28 ||  
+३।२८अ यज्ञे तु वितते सम्यग् ऋत्विजे कर्म कुर्वते ।  
+३।२८च् अलङ्कृत्य सुतादानं दैवं धर्मं प्रचक्षते ॥ २८ ॥  
 
 
-3.29a ekaṃ gomithunaṃ dve vā varād ādāya dharmataḥ |  
-3.29c kanyāpradānaṃ vidhivad ārṣo dharmaḥ sa ucyate || 29 ||  
+३।२९अ एकं गोमिथुनं द्वे वा वराद् आदाय धर्मतः ।  
+३।२९च् कन्याप्रदानं विधिवद् आर्षो धर्मः स उच्यते ॥ २९ ॥  
 
 
-3.30a saha-ubhau caratāṃ dharmam iti vācā-anubhāṣya ca |  
-3.30c kanyāpradānam abhyarcya prājāpatyo vidhiḥ smṛtaḥ || 30 ||  
+३।३०अ सह-उभौ चरतां धर्मम् इति वाचा-अनुभाष्य च ।  
+३।३०च् कन्याप्रदानम् अभ्यर्च्य प्राजापत्यो विधिः स्मृतः ॥ ३० ॥  
 
 
-3.31a jñātibhyo draviṇaṃ dattvā kanyāyai ca-eva śaktitaḥ |  
-3.31c kanyāpradānaṃ svācchandyād āsuro dharma ucyate || 31 ||  
+३।३१अ ज्ञातिभ्यो द्रविणं दत्त्वा कन्यायै च-एव शक्तितः ।  
+३।३१च् कन्याप्रदानं स्वाच्छन्द्याद् आसुरो धर्म उच्यते ॥ ३१ ॥  
 
 
-3.32a icchayā-anyonyasaṃyogaḥ kanyāyāś ca varasya ca |  
-3.32c gāndharvaḥ sa tu vijñeyo maithunyaḥ kāma.sambhavaḥ || 32 ||  
+३।३२अ इच्छया-अन्योन्यसंयोगः कन्यायाश् च वरस्य च ।  
+३।३२च् गान्धर्वः स तु विज्ञेयो मैथुन्यः काम।सम्भवः ॥ ३२ ॥  
 
 
-3.33a hatvā chittvā ca bhittvā ca krośantīṃ rudantīṃ gṛhāt |  
-3.33c prasahya kanyāharaṇaṃ rākṣaso vidhir ucyate || 33 ||  
+३।३३अ हत्वा छित्त्वा च भित्त्वा च क्रोशन्तीं रुदन्तीं गृहात् ।  
+३।३३च् प्रसह्य कन्याहरणं राक्षसो विधिर् उच्यते ॥ ३३ ॥  
 
 
-3.34a suptāṃ mattāṃ pramattāṃ vā raho yatra-upagacchati |  
-3.34c sa pāpiṣṭho vivāhānāṃ paiśācaś ca-aṣṭamo 'dhamaḥ || 34 || 3.34cv/  \[M\] : “paiśācaḥ prathito 'dhamaḥ”  
+३।३४अ सुप्तां मत्तां प्रमत्तां वा रहो यत्र-उपगच्छति ।  
+३।३४च् स पापिष्ठो विवाहानां पैशाचश् च-अष्टमो ऽधमः ॥ ३४ ॥ ३।३४च्व्।  \[म्\] : “पैशाचः प्रथितो ऽधमः”  
 
 
-3.35a adbhir eva dvija.agryāṇāṃ kanyādānaṃ viśiṣyate |  
-3.35c itareṣāṃ tu varṇānām itaretarakāmyayā || 35 ||  
+३।३५अ अद्भिर् एव द्विज।अग्र्याणां कन्यादानं विशिष्यते ।  
+३।३५च् इतरेषां तु वर्णानाम् इतरेतरकाम्यया ॥ ३५ ॥  
 
 
- 3.1.3.1. Sons from Different Types of Marriage
- \[O\]  edn 453-455,  \[O\]  tr. 110
-3.36a yo yasya-eṣāṃ vivāhānāṃ manunā kīrtito guṇaḥ |  
-3.36c sarvaṃ śṛṇuta taṃ viprāḥ sarvaṃ kīrtayato mama || 36 || 3.36cv/  \[M\] : “samyak kīrtayato”  
+ ३।१।३।१। सोन्स् ड़्रोम् दिड़्ड़ेरेन्त् त्य्पेस् ओड़् मर्रिअगे
+ \[ओ\]  एद्न् ४५३-४५५,  \[ओ\]  त्र्। ११०
+३।३६अ यो यस्य-एषां विवाहानां मनुना कीर्तितो गुणः ।  
+३।३६च् सर्वं शृणुत तं विप्राः सर्वं कीर्तयतो मम ॥ ३६ ॥ ३।३६च्व्।  \[म्\] : “सम्यक् कीर्तयतो”  
 
 
-3.37a daśa pūrvān parān vaṃśyān ātmānaṃ ca-ekaviṃśakam |  
-3.37c brāhmīputraḥ sukṛtakṛt-mocayaty enasaḥ pitṝn || 37 ||  
+३।३७अ दश पूर्वान् परान् वंश्यान् आत्मानं च-एकविंशकम् ।  
+३।३७च् ब्राह्मीपुत्रः सुकृतकृत्-मोचयत्य् एनसः पितॄन् ॥ ३७ ॥  
 
 
-3.38a daiva.ūḍhājaḥ sutaś ca-eva sapta sapta para.avarān |  
-3.38c ārṣa.ūḍhājaḥ sutas trīṃs trīn ṣaṭ ṣaṭ kāya.ūḍhajaḥ sutaḥ || 38 ||  
+३।३८अ दैव।ऊढाजः सुतश् च-एव सप्त सप्त पर।अवरान् ।  
+३।३८च् आर्ष।ऊढाजः सुतस् त्रींस् त्रीन् षट् षट् काय।ऊढजः सुतः ॥ ३८ ॥  
 
 
-3.39a brāhma.ādiṣu vivāheṣu caturṣv eva-anupūrvaśaḥ |  
-3.39c brahmavarcasvinaḥ putrā jāyante śiṣṭasammatāḥ || 39 || 3.39cv/  \[M\] : “brahmavarcasinaḥ”  
+३।३९अ ब्राह्म।आदिषु विवाहेषु चतुर्ष्व् एव-अनुपूर्वशः ।  
+३।३९च् ब्रह्मवर्चस्विनः पुत्रा जायन्ते शिष्टसम्मताः ॥ ३९ ॥ ३।३९च्व्।  \[म्\] : “ब्रह्मवर्चसिनः”  
 
 
-3.40a rūpa.sattva.guṇa.upetā dhanavanto yaśasvinaḥ |  
-3.40c paryāpta.bhogā dharmiṣṭhā jīvanti ca śataṃ samāḥ || 40 ||  
+३।४०अ रूप।सत्त्व।गुण।उपेता धनवन्तो यशस्विनः ।  
+३।४०च् पर्याप्त।भोगा धर्मिष्ठा जीवन्ति च शतं समाः ॥ ४० ॥  
 
 
-3.41a itareṣu tu śiṣṭeṣu nṛśaṃsā.anṛtavādinaḥ |  
-3.41c jāyante durvivāheṣu brahma.dharma.dviṣaḥ sutāḥ || 41 ||  
+३।४१अ इतरेषु तु शिष्टेषु नृशंसा।अनृतवादिनः ।  
+३।४१च् जायन्ते दुर्विवाहेषु ब्रह्म।धर्म।द्विषः सुताः ॥ ४१ ॥  
 
 
-3.42a aninditaiḥ strīvivāhair anindyā bhavati prajā |  
-3.42c ninditair ninditā nṝṇāṃ tasmān nindyān vivarjayet || 42 ||  
+३।४२अ अनिन्दितैः स्त्रीविवाहैर् अनिन्द्या भवति प्रजा ।  
+३।४२च् निन्दितैर् निन्दिता नॄणां तस्मान् निन्द्यान् विवर्जयेत् ॥ ४२ ॥  
 
 
- 3.1.3.2. Marriage Rite
- \[O\]  edn 455,  \[O\]  tr. 110
-3.43a pāṇigrahaṇasaṃskāraḥ sa.varṇāsu-upadiśyate |  
-3.43c a.savarṇāsv ayaṃ jñeyo vidhir udvāhakarmaṇi || 43 ||  
+ ३।१।३।२। मर्रिअगे रिते
+ \[ओ\]  एद्न् ४५५,  \[ओ\]  त्र्। ११०
+३।४३अ पाणिग्रहणसंस्कारः स।वर्णासु-उपदिश्यते ।  
+३।४३च् अ।सवर्णास्व् अयं ज्ञेयो विधिर् उद्वाहकर्मणि ॥ ४३ ॥  
 
 
-3.44a śaraḥ kṣatriyayā grāhyaḥ pratodo vaiśyakanyayā |  
-3.44c vasanasya daśā grāhyā śūdrayā-utkṛṣṭavedane || 44 ||  
+३।४४अ शरः क्षत्रियया ग्राह्यः प्रतोदो वैश्यकन्यया ।  
+३।४४च् वसनस्य दशा ग्राह्या शूद्रया-उत्कृष्टवेदने ॥ ४४ ॥  
 
 
 # ३।१।४। सेxउअल् उनिओन्
@@ -1800,22 +1799,22 @@
 ३।५०च् ब्रह्मचार्य् एव भवति यत्र तत्र-आश्रमे वसन् ॥ ५० ॥  
 
 
-# 3.1.5. Purchasing a Wife
- \[O\]  edn 456-457,  \[O\]  tr. 111
-3.51a na kanyāyāḥ pitā vidvān gṛhṇīyāt-śulkam aṇu-api |  
-3.51c gṛhṇan-śulkaṃ hi lobhena syān naro 'patyavikrayī || 51 ||  
+# ३।१।५। पुर्छसिन्ग् अ Wइड़े
+ \[ओ\]  एद्न् ४५६-४५७,  \[ओ\]  त्र्। १११
+३।५१अ न कन्यायाः पिता विद्वान् गृह्णीयात्-शुल्कम् अणु-अपि ।  
+३।५१च् गृह्णन्-शुल्कं हि लोभेन स्यान् नरो ऽपत्यविक्रयी ॥ ५१ ॥  
 
 
-3.52a strīdhanāni tu ye mohād upajīvanti bāndhavāḥ |  
-3.52c nārī yānāni vastraṃ vā te pāpā yānty adhogatim || 52 ||  
+३।५२अ स्त्रीधनानि तु ये मोहाद् उपजीवन्ति बान्धवाः ।  
+३।५२च् नारी यानानि वस्त्रं वा ते पापा यान्त्य् अधोगतिम् ॥ ५२ ॥  
 
 
-3.53a ārṣe gomithunaṃ śulkaṃ ke cid āhur mṛṣā-eva tat |  
-3.53c alpo 'py evaṃ mahān vā-api vikrayas tāvad eva saḥ || 53 || 3.53cv/  \[M\] : “tāvān eva sa vikrayaḥ”  
+३।५३अ आर्षे गोमिथुनं शुल्कं के चिद् आहुर् मृषा-एव तत् ।  
+३।५३च् अल्पो ऽप्य् एवं महान् वा-अपि विक्रयस् तावद् एव सः ॥ ५३ ॥ ३।५३च्व्।  \[म्\] : “तावान् एव स विक्रयः”  
 
 
-3.54a yāsāṃ na-ādadate śulkaṃ jñātayo na sa vikrayaḥ |  
-3.54c arhaṇaṃ tat kumārīṇām ānṛśaṃsyaṃ ca kevalam || 54 || 3.54cv/  \[M\] : “na kevalam”  
+३।५४अ यासां न-आददते शुल्कं ज्ञातयो न स विक्रयः ।  
+३।५४च् अर्हणं तत् कुमारीणाम् आनृशंस्यं च केवलम् ॥ ५४ ॥ ३।५४च्व्।  \[म्\] : “न केवलम्”  
 
 
 # ३।१।६। होनोउरिन्ग् Wओमेन्
@@ -1840,18 +1839,18 @@
 ३।५९च् भूति।कामैर् नरैर् नित्यं सत्करेषु-उत्सवेषु च ॥ ५९ ॥ ३।५९च्व्। नोत् इन्  \[म्\]   
 
 
-# 3.1.7. Marital Harmony
- \[O\]  edn 458,  \[O\]  tr. 111
-3.60a santuṣṭo bhāryayā bhartā bhartrā bhāryā tatha-eva ca | 3.60av/ not in  \[M\]   
-3.60c yasminn eva kule nityaṃ kalyāṇaṃ tatra vai dhruvam || 60 || 3.60cv/ not in  \[M\]   
+# ३।१।७। मरितल् हर्मोन्य्
+ \[ओ\]  एद्न् ४५८,  \[ओ\]  त्र्। १११
+३।६०अ सन्तुष्टो भार्यया भर्ता भर्त्रा भार्या तथ-एव च । ३।६०अव्। नोत् इन्  \[म्\]   
+३।६०च् यस्मिन्न् एव कुले नित्यं कल्याणं तत्र वै ध्रुवम् ॥ ६० ॥ ३।६०च्व्। नोत् इन्  \[म्\]   
 
 
-3.61a yadi hi strī na roceta pumāṃsaṃ na pramodayet | 3.61av/ not in  \[M\]   
-3.61c apramodāt punaḥ puṃsaḥ prajanaṃ na pravartate || 61 || 3.61cv/ not in  \[M\]   
+३।६१अ यदि हि स्त्री न रोचेत पुमांसं न प्रमोदयेत् । ३।६१अव्। नोत् इन्  \[म्\]   
+३।६१च् अप्रमोदात् पुनः पुंसः प्रजनं न प्रवर्तते ॥ ६१ ॥ ३।६१च्व्। नोत् इन्  \[म्\]   
 
 
-3.62a striyāṃ tu rocamānāyāṃ sarvaṃ tad rocate kulaṃ | 3.62av/ not in  \[M\]   
-3.62c tasyāṃ tv arocamānāyāṃ sarvam eva na rocate || 62 || 3.62cv/ not in  \[M\]   
+३।६२अ स्त्रियां तु रोचमानायां सर्वं तद् रोचते कुलं । ३।६२अव्। नोत् इन्  \[म्\]   
+३।६२च् तस्यां त्व् अरोचमानायां सर्वम् एव न रोचते ॥ ६२ ॥ ३।६२च्व्। नोत् इन्  \[म्\]   
 
 
 # ३।१।८। देग्रेदतिओन् ओड़् ड़मिलिएस्
@@ -1872,10 +1871,10 @@
 ३।६६च् कुलसङ्ख्यां च गच्छन्ति कर्षन्ति च महद् यशः ॥ ६६ ॥ ३।६६च्व्। नोत् इन्  \[म्\]   
 
 
- 3.2. The Householder
- \[O\]  edn 459-503,  \[O\]  tr. 111-123
-3.67a[57Ma] vaivāhike 'gnau kurvīta gṛhyaṃ karma yathāvidhi |  
-3.67c[57Mc] pañcayajñavidhānaṃ ca paktiṃ ca-anvāhikīṃ gṛhī || 67 ||  
+ ३।२। थे होउसेहोल्देर्
+ \[ओ\]  एद्न् ४५९-५०३,  \[ओ\]  त्र्। १११-१२३
+३।६७अ[५७म] वैवाहिके ऽग्नौ कुर्वीत गृह्यं कर्म यथाविधि ।  
+३।६७च्[५७म्च्] पञ्चयज्ञविधानं च पक्तिं च-अन्वाहिकीं गृही ॥ ६७ ॥  
 
 
 # ३।२।१। ग्रेअत् सच्रिड़िचेस्
@@ -2104,686 +2103,686 @@
 ३।१२१च्[१११म्च्] वैश्वदेवं हि नाम-एतत् सायं प्रातर् विधीयते ॥ १२१ ॥  
 
 
-# 3.2.2. Ancestral Offerings
- \[O\]  edn 470-502,  \[O\]  tr. 114-123
-3.122a[112Ma] pitṛyajñaṃ tu nirvartya vipraś candrakṣaye 'gnimān | 3.122a[112Ma]v/  \[K\] : “ca-indukṣaye”  
-3.122c[112Mc] piṇḍānvāhāryakaṃ śrāddhaṃ kuryān māsa.anumāsikam || 122 ||  
+# ३।२।२। अन्चेस्त्रल् ओड़्ड़ेरिन्ग्स्
+ \[ओ\]  एद्न् ४७०-५०२,  \[ओ\]  त्र्। ११४-१२३
+३।१२२अ[११२म] पितृयज्ञं तु निर्वर्त्य विप्रश् चन्द्रक्षये ऽग्निमान् । ३।१२२अ[११२म]व्।  \[क्\] : “च-इन्दुक्षये”  
+३।१२२च्[११२म्च्] पिण्डान्वाहार्यकं श्राद्धं कुर्यान् मास।अनुमासिकम् ॥ १२२ ॥  
 
 
-3.123a[113Ma] pitṝṇāṃ māsikaṃ śrāddham anvāhāryaṃ vidur budhāḥ |  
-3.123c[113Mc] tac ca-āmiṣeṇā kartavyaṃ praśastena prayatnataḥ || 123 ||  
+३।१२३अ[११३म] पितॄणां मासिकं श्राद्धम् अन्वाहार्यं विदुर् बुधाः ।  
+३।१२३च्[११३म्च्] तच् च-आमिषेणा कर्तव्यं प्रशस्तेन प्रयत्नतः ॥ १२३ ॥  
 
 
-3.124a[114Ma] tatra ye bhojanīyāḥ syur ye ca varjyā dvijottamāḥ |  
-3.124c[114Mc] yāvantaś ca-eva yaiś ca-annais tān pravakṣyāmy aśeṣataḥ || 124 ||  
+३।१२४अ[११४म] तत्र ये भोजनीयाः स्युर् ये च वर्ज्या द्विजोत्तमाः ।  
+३।१२४च्[११४म्च्] यावन्तश् च-एव यैश् च-अन्नैस् तान् प्रवक्ष्याम्य् अशेषतः ॥ १२४ ॥  
 
 
- 3.2.2.1. Number of Invitees
- \[O\]  edn 471,  \[O\]  tr. 114-115
-3.125a[115Ma] dvau daive pitṛkārye trīn ekaikam ubhayatra vā | 3.125a[115Ma]v/  \[M\] : “pitṛkṛtye”  
-3.125c[115Mc] bhojayet su.samṛddho 'pi na prasajjeta vistare || 125 || 3.125c[115Mc]v/  \[M\] : “na pravarteta”  
+ ३।२।२।१। नुम्बेर् ओड़् इन्वितेएस्
+ \[ओ\]  एद्न् ४७१,  \[ओ\]  त्र्। ११४-११५
+३।१२५अ[११५म] द्वौ दैवे पितृकार्ये त्रीन् एकैकम् उभयत्र वा । ३।१२५अ[११५म]व्।  \[म्\] : “पितृकृत्ये”  
+३।१२५च्[११५म्च्] भोजयेत् सु।समृद्धो ऽपि न प्रसज्जेत विस्तरे ॥ १२५ ॥ ३।१२५च्[११५म्च्]व्।  \[म्\] : “न प्रवर्तेत”  
 
 
-3.126a[116Ma] satkriyāṃ deśa.kālau ca śaucaṃ brāhmaṇasampadaḥ |  
-3.126c[116Mc] pañca-etān vistaro hanti tasmān na-īheta vistaram || 126 ||  
+३।१२६अ[११६म] सत्क्रियां देश।कालौ च शौचं ब्राह्मणसम्पदः ।  
+३।१२६च्[११६म्च्] पञ्च-एतान् विस्तरो हन्ति तस्मान् न-ईहेत विस्तरम् ॥ १२६ ॥  
 
 
- 3.2.2.2. Quality of Invitees
- \[O\]  edn 471-475,  \[O\]  tr. 115-116
-3.127a[117Ma] prathitā pretakṛtyā-eṣā pitryaṃ nāma vidhukṣaye |  
-3.127c[117Mc] tasmin yuktasya-eti nityaṃ pretakṛtyā-eva laukikī || 127 ||  
+ ३।२।२।२। क़ुअलित्य् ओड़् इन्वितेएस्
+ \[ओ\]  एद्न् ४७१-४७५,  \[ओ\]  त्र्। ११५-११६
+३।१२७अ[११७म] प्रथिता प्रेतकृत्या-एषा पित्र्यं नाम विधुक्षये ।  
+३।१२७च्[११७म्च्] तस्मिन् युक्तस्य-एति नित्यं प्रेतकृत्या-एव लौकिकी ॥ १२७ ॥  
 
 
-3.128a[118Ma] śrotriyāya-eva deyāni havya.kavyāni dātṛbhiḥ |  
-3.128c[118Mc] arhattamāya viprāya tasmai dattaṃ mahāphalam || 128 ||  
+३।१२८अ[११८म] श्रोत्रियाय-एव देयानि हव्य।कव्यानि दातृभिः ।  
+३।१२८च्[११८म्च्] अर्हत्तमाय विप्राय तस्मै दत्तं महाफलम् ॥ १२८ ॥  
 
 
-3.129a[119Ma] ekaikam api vidvāṃsaṃ daive pitrye ca bhojayet | 3.129a[119Ma]v/  \[M\] : “bhojayan”  
-3.129c[119Mc] puṣkalaṃ phalam āpnoti na-amantrajñān bahūn api || 129 ||  
+३।१२९अ[११९म] एकैकम् अपि विद्वांसं दैवे पित्र्ये च भोजयेत् । ३।१२९अ[११९म]व्।  \[म्\] : “भोजयन्”  
+३।१२९च्[११९म्च्] पुष्कलं फलम् आप्नोति न-अमन्त्रज्ञान् बहून् अपि ॥ १२९ ॥  
 
 
-3.130a[120Ma] dūrād eva parīkṣeta brāhmaṇaṃ vedapāragam |  
-3.130c[120Mc] tīrthaṃ tadd havya.kavyānāṃ pradāne so 'tithiḥ smṛtaḥ || 130 ||  
+३।१३०अ[१२०म] दूराद् एव परीक्षेत ब्राह्मणं वेदपारगम् ।  
+३।१३०च्[१२०म्च्] तीर्थं तद्द् हव्य।कव्यानां प्रदाने सो ऽतिथिः स्मृतः ॥ १३० ॥  
 
 
-3.131a[121Ma] sahasraṃ hi sahasrāṇām an.ṛcāṃ yatra bhuñjate |  
-3.131c[121Mc] ekas tān mantravit prītaḥ sarvān arhati dharmataḥ || 131 ||  
+३।१३१अ[१२१म] सहस्रं हि सहस्राणाम् अन्।ऋचां यत्र भुञ्जते ।  
+३।१३१च्[१२१म्च्] एकस् तान् मन्त्रवित् प्रीतः सर्वान् अर्हति धर्मतः ॥ १३१ ॥  
 
 
-3.132a[122Ma] jñāna.utkṛṣṭāya deyāni kavyāni ca havīṃṣi ca |  
-3.132c[122Mc] na hi hastāv asṛgdigdhau rudhireṇa-eva śudhyataḥ || 132 ||  
+३।१३२अ[१२२म] ज्ञान।उत्कृष्टाय देयानि कव्यानि च हवींषि च ।  
+३।१३२च्[१२२म्च्] न हि हस्ताव् असृग्दिग्धौ रुधिरेण-एव शुध्यतः ॥ १३२ ॥  
 
 
-3.133a[123Ma] yāvato grasate grāsān havya.kavyeṣv a.mantravit |  
-3.133c[123Mc] tāvato grasate preto dīptaśūla.ṛṣṭi.ayoguḍān || 133 ||  
+३।१३३अ[१२३म] यावतो ग्रसते ग्रासान् हव्य।कव्येष्व् अ।मन्त्रवित् ।  
+३।१३३च्[१२३म्च्] तावतो ग्रसते प्रेतो दीप्तशूल।ऋष्टि।अयोगुडान् ॥ १३३ ॥  
 
 
-3.134a[124Ma] jñānaniṣṭhā dvijāḥ ke cit taponiṣṭhās tathā-apare |  
-3.134c[124Mc] tapaḥ.svādhyāyaniṣṭhāś ca karmaniṣṭhās tathā-apare || 134 ||  
+३।१३४अ[१२४म] ज्ञाननिष्ठा द्विजाः के चित् तपोनिष्ठास् तथा-अपरे ।  
+३।१३४च्[१२४म्च्] तपः।स्वाध्यायनिष्ठाश् च कर्मनिष्ठास् तथा-अपरे ॥ १३४ ॥  
 
 
-3.135a[125Ma] jñānaniṣṭheṣu kavyāni pratiṣṭhāpyāni yatnataḥ |  
-3.135c[125Mc] havyāni tu yathānyāyaṃ sarveṣv eva caturṣv api || 135 ||  
+३।१३५अ[१२५म] ज्ञाननिष्ठेषु कव्यानि प्रतिष्ठाप्यानि यत्नतः ।  
+३।१३५च्[१२५म्च्] हव्यानि तु यथान्यायं सर्वेष्व् एव चतुर्ष्व् अपि ॥ १३५ ॥  
 
 
-3.136a[126Ma] aśrotriyaḥ pitā yasya putraḥ syād vedapāragaḥ |  
-3.136c[126Mc] aśrotriyo vā putraḥ syāt pitā syād vedapāragaḥ || 136 ||  
+३।१३६अ[१२६म] अश्रोत्रियः पिता यस्य पुत्रः स्याद् वेदपारगः ।  
+३।१३६च्[१२६म्च्] अश्रोत्रियो वा पुत्रः स्यात् पिता स्याद् वेदपारगः ॥ १३६ ॥  
 
 
-3.137a[127Ma] jyāyāṃsam anayor vidyād yasya syāt-śrotriyaḥ pitā |  
-3.137c[127Mc] mantrasampūjanārthaṃ tu satkāram itaro 'rhati || 137 ||  
+३।१३७अ[१२७म] ज्यायांसम् अनयोर् विद्याद् यस्य स्यात्-श्रोत्रियः पिता ।  
+३।१३७च्[१२७म्च्] मन्त्रसम्पूजनार्थं तु सत्कारम् इतरो ऽर्हति ॥ १३७ ॥  
 
 
-3.138a[128Ma] na śrāddhe bhojayen mitraṃ dhanaiḥ kāryo 'sya saṅgrahaḥ |  
-3.138c[128Mc] nāriṃ na mitraṃ yaṃ vidyāt taṃ śrāddhe bhojayed dvijam || 138 ||  
+३।१३८अ[१२८म] न श्राद्धे भोजयेन् मित्रं धनैः कार्यो ऽस्य सङ्ग्रहः ।  
+३।१३८च्[१२८म्च्] नारिं न मित्रं यं विद्यात् तं श्राद्धे भोजयेद् द्विजम् ॥ १३८ ॥  
 
 
-3.139a[129Ma] yasya mitra.pradhānāni śrāddhāni ca havīṃṣi ca |  
-3.139c[129Mc] tasya pretya phalaṃ na-asti śrāddheṣu ca haviḥṣu ca || 139 ||  
+३।१३९अ[१२९म] यस्य मित्र।प्रधानानि श्राद्धानि च हवींषि च ।  
+३।१३९च्[१२९म्च्] तस्य प्रेत्य फलं न-अस्ति श्राद्धेषु च हविःषु च ॥ १३९ ॥  
 
 
-3.140a[130Ma] yaḥ saṅgatāni kurute mohāt-śrāddhena mānavaḥ |  
-3.140c[130Mc] sa svargāc cyavate lokāt-śrāddha.mitro dvijādhamaḥ || 140 ||  
+३।१४०अ[१३०म] यः सङ्गतानि कुरुते मोहात्-श्राद्धेन मानवः ।  
+३।१४०च्[१३०म्च्] स स्वर्गाच् च्यवते लोकात्-श्राद्ध।मित्रो द्विजाधमः ॥ १४० ॥  
 
 
-3.141a[131Ma] sambhojāni sā-abhihitā paiśācī dakṣiṇā dvijaiḥ |  
-3.141c[131Mc] iha-eva-āste tu sā loke gaur andhā-iva-ekaveśmani || 141 ||  
+३।१४१अ[१३१म] सम्भोजानि सा-अभिहिता पैशाची दक्षिणा द्विजैः ।  
+३।१४१च्[१३१म्च्] इह-एव-आस्ते तु सा लोके गौर् अन्धा-इव-एकवेश्मनि ॥ १४१ ॥  
 
 
-3.142a[132Ma] yathā-iriṇe bījam uptvā na vaptā labhate phalam |  
-3.142c[132Mc] tathā-an.ṛce havir dattvā na dātā labhate phalam || 142 ||  
+३।१४२अ[१३२म] यथा-इरिणे बीजम् उप्त्वा न वप्ता लभते फलम् ।  
+३।१४२च्[१३२म्च्] तथा-अन्।ऋचे हविर् दत्त्वा न दाता लभते फलम् ॥ १४२ ॥  
 
 
-3.143a[133Ma] dātṝn pratigrahītṝṃś ca kurute phalabhāginaḥ |  
-3.143c[133Mc] viduṣe dakṣiṇāṃ dattvā vidhivat pretya ca-iha ca || 143 ||  
+३।१४३अ[१३३म] दातॄन् प्रतिग्रहीतॄंश् च कुरुते फलभागिनः ।  
+३।१४३च्[१३३म्च्] विदुषे दक्षिणां दत्त्वा विधिवत् प्रेत्य च-इह च ॥ १४३ ॥  
 
 
-3.144a[134Ma] kāmaṃ śrāddhe 'rcayen mitraṃ na-abhirūpam api tv arim |  
-3.144c[134Mc] dviṣatā hi havir bhuktaṃ bhavati pretya niṣ.phalam || 144 ||  
+३।१४४अ[१३४म] कामं श्राद्धे ऽर्चयेन् मित्रं न-अभिरूपम् अपि त्व् अरिम् ।  
+३।१४४च्[१३४म्च्] द्विषता हि हविर् भुक्तं भवति प्रेत्य निष्।फलम् ॥ १४४ ॥  
 
 
-3.145a[135Ma] yatnena bhojayet-śrāddhe bahvṛcaṃ vedapāragam |  
-3.145c[135Mc] śākhāntagam atha-adhvaryuṃ chandogaṃ tu samāptikam || 145 ||  
+३।१४५अ[१३५म] यत्नेन भोजयेत्-श्राद्धे बह्वृचं वेदपारगम् ।  
+३।१४५च्[१३५म्च्] शाखान्तगम् अथ-अध्वर्युं छन्दोगं तु समाप्तिकम् ॥ १४५ ॥  
 
 
-3.146a[136Ma] eṣām anyatamo yasya bhuñjīta śrāddham arcitaḥ |  
-3.146c[136Mc] pitṝṇāṃ tasya tṛptiḥ syāt-śāśvatī sāptapauruṣī || 146 ||  
+३।१४६अ[१३६म] एषाम् अन्यतमो यस्य भुञ्जीत श्राद्धम् अर्चितः ।  
+३।१४६च्[१३६म्च्] पितॄणां तस्य तृप्तिः स्यात्-शाश्वती साप्तपौरुषी ॥ १४६ ॥  
 
 
-3.147a[137Ma] eṣa vai prathamaḥ kalpaḥ pradāne havya.kavyayoḥ |  
-3.147c[137Mc] anukalpas tv ayaṃ jñeyaḥ sadā sadbhir anuṣṭhitaḥ || 147 ||  
+३।१४७अ[१३७म] एष वै प्रथमः कल्पः प्रदाने हव्य।कव्ययोः ।  
+३।१४७च्[१३७म्च्] अनुकल्पस् त्व् अयं ज्ञेयः सदा सद्भिर् अनुष्ठितः ॥ १४७ ॥  
 
 
-3.148a[138Ma] mātāmahaṃ mātulaṃ ca svasrīyaṃ śvaśuraṃ gurum |  
-3.148c[138Mc] dauhitraṃ viṭpatiṃ bandhum ṛtvig yājyau ca bhojayet || 148 ||  
+३।१४८अ[१३८म] मातामहं मातुलं च स्वस्रीयं श्वशुरं गुरुम् ।  
+३।१४८च्[१३८म्च्] दौहित्रं विट्पतिं बन्धुम् ऋत्विग् याज्यौ च भोजयेत् ॥ १४८ ॥  
 
 
-3.149a[139Ma] na brāhmaṇaṃ parīkṣeta daive karmaṇi dharmavit |  
-3.149c[139Mc] pitrye karmaṇi tu prāpte parīkṣeta prayatnataḥ || 149 ||  
+३।१४९अ[१३९म] न ब्राह्मणं परीक्षेत दैवे कर्मणि धर्मवित् ।  
+३।१४९च्[१३९म्च्] पित्र्ये कर्मणि तु प्राप्ते परीक्षेत प्रयत्नतः ॥ १४९ ॥  
 
 
- 3.2.2.3. Unfit Invitees
- \[O\]  edn 475-482,  \[O\]  tr. 116-117
-3.150a[140Ma] ye stena.patita.klībā ye ca nāstikavṛttayaḥ |  
-3.150c[140Mc] tān havya.kavyayor viprān anarhān manur abravīt || 150 ||  
+ ३।२।२।३। उन्ड़ित् इन्वितेएस्
+ \[ओ\]  एद्न् ४७५-४८२,  \[ओ\]  त्र्। ११६-११७
+३।१५०अ[१४०म] ये स्तेन।पतित।क्लीबा ये च नास्तिकवृत्तयः ।  
+३।१५०च्[१४०म्च्] तान् हव्य।कव्ययोर् विप्रान् अनर्हान् मनुर् अब्रवीत् ॥ १५० ॥  
 
 
-3.151a[141Ma] jaṭilaṃ ca-anadhīyānaṃ durbālaṃ kitavaṃ tathā |  
-3.151c[141Mc] yājayanti ca ye pūgāṃs tāṃś ca śrāddhe na bhojayet || 151 ||  
+३।१५१अ[१४१म] जटिलं च-अनधीयानं दुर्बालं कितवं तथा ।  
+३।१५१च्[१४१म्च्] याजयन्ति च ये पूगांस् तांश् च श्राद्धे न भोजयेत् ॥ १५१ ॥  
 
 
-3.152a[142Ma] cikitsakān devalakān māṃsavikrayiṇas tathā | 3.152a[142Ma]v/  \[M\] : “cikitsakādevalakāmāṃsavikrayiṇas tathā”  
-3.152c[142Mc] vipaṇena ca jīvanto varjyāḥ syur havya.kavyayoḥ || 152 ||  
+३।१५२अ[१४२म] चिकित्सकान् देवलकान् मांसविक्रयिणस् तथा । ३।१५२अ[१४२म]व्।  \[म्\] : “चिकित्सकादेवलकामांसविक्रयिणस् तथा”  
+३।१५२च्[१४२म्च्] विपणेन च जीवन्तो वर्ज्याः स्युर् हव्य।कव्ययोः ॥ १५२ ॥  
 
 
-3.153a[143Ma] preṣyo grāmasya rājñaś ca kunakhī śyāvadantakaḥ |  
-3.153c[143Mc] pratiroddhā guroś ca-eva tyakta.agnir vārdhuṣis tathā || 153 ||  
+३।१५३अ[१४३म] प्रेष्यो ग्रामस्य राज्ञश् च कुनखी श्यावदन्तकः ।  
+३।१५३च्[१४३म्च्] प्रतिरोद्धा गुरोश् च-एव त्यक्त।अग्निर् वार्धुषिस् तथा ॥ १५३ ॥  
 
 
-3.154a[144Ma] yakṣmī ca paśupālaś ca parivettā nirākṛtiḥ |  
-3.154c[144Mc] brahmadviṣ-parivittiś ca gaṇābhyantara eva ca || 154 ||  
+३।१५४अ[१४४म] यक्ष्मी च पशुपालश् च परिवेत्ता निराकृतिः ।  
+३।१५४च्[१४४म्च्] ब्रह्मद्विष्-परिवित्तिश् च गणाभ्यन्तर एव च ॥ १५४ ॥  
 
 
-3.155a[145Ma] kuśīlavo 'vakīrṇī ca vṛṣalīpatir eva ca |  
-3.155c[145Mc] paunarbhavaś ca kāṇaś ca yasya ca-upapatir gṛhe || 155 ||  
+३।१५५अ[१४५म] कुशीलवो ऽवकीर्णी च वृषलीपतिर् एव च ।  
+३।१५५च्[१४५म्च्] पौनर्भवश् च काणश् च यस्य च-उपपतिर् गृहे ॥ १५५ ॥  
 
 
-3.156a[146Ma] bhṛtakādhyāpako yaś ca bhṛtakādhyāpitas tathā |  
-3.156c[146Mc] śūdra.śiṣyo guruś ca-eva vāgduṣṭaḥ kuṇḍa.golakau || 156 ||  
+३।१५६अ[१४६म] भृतकाध्यापको यश् च भृतकाध्यापितस् तथा ।  
+३।१५६च्[१४६म्च्] शूद्र।शिष्यो गुरुश् च-एव वाग्दुष्टः कुण्ड।गोलकौ ॥ १५६ ॥  
 
 
-3.157a[147Ma] akāraṇe parityaktā mātā.pitror guros tathā | 3.157a[147Ma]v/  \[K\] : “akāraṇaparityaktā”  
-3.157c[147Mc] brāhmair yaunaiś ca sambandhaiḥ saṃyogaṃ patitair gataḥ || 157 ||  
+३।१५७अ[१४७म] अकारणे परित्यक्ता माता।पित्रोर् गुरोस् तथा । ३।१५७अ[१४७म]व्।  \[क्\] : “अकारणपरित्यक्ता”  
+३।१५७च्[१४७म्च्] ब्राह्मैर् यौनैश् च सम्बन्धैः संयोगं पतितैर् गतः ॥ १५७ ॥  
 
 
-3.158a[148Ma] agāradāhī garadaḥ kuṇḍāśī somavikrayī |  
-3.158c[148Mc] samudrayāyī bandī ca tailikaḥ kūṭakārakaḥ || 158 ||  
+३।१५८अ[१४८म] अगारदाही गरदः कुण्डाशी सोमविक्रयी ।  
+३।१५८च्[१४८म्च्] समुद्रयायी बन्दी च तैलिकः कूटकारकः ॥ १५८ ॥  
 
 
-3.159a[149Ma] pitrā vivadamānaś ca kitavo madyapas tathā |  
-3.159c[149Mc] pāparogy abhiśastaś ca dāmbhiko rasavikrayī || 159 ||  
+३।१५९अ[१४९म] पित्रा विवदमानश् च कितवो मद्यपस् तथा ।  
+३।१५९च्[१४९म्च्] पापरोग्य् अभिशस्तश् च दाम्भिको रसविक्रयी ॥ १५९ ॥  
 
 
-3.160a[150Ma] dhanuḥ.śarāṇāṃ kartā ca yaś ca-agredidhiṣūpatiḥ |  
-3.160c[150Mc] mitradhrug dyūta.vṛttiś ca putra.ācāryas tathā-eva ca || 160 ||  
+३।१६०अ[१५०म] धनुः।शराणां कर्ता च यश् च-अग्रेदिधिषूपतिः ।  
+३।१६०च्[१५०म्च्] मित्रध्रुग् द्यूत।वृत्तिश् च पुत्र।आचार्यस् तथा-एव च ॥ १६० ॥  
 
 
-3.161a[151Ma] bhrāmarī ganḍamālī ca śvitry atho piśunas tathā |  
-3.161c[151Mc] unmatto 'ndhaś ca varjyāḥ syur vedanindaka eva ca || 161 ||  
+३।१६१अ[१५१म] भ्रामरी गन्डमाली च श्वित्र्य् अथो पिशुनस् तथा ।  
+३।१६१च्[१५१म्च्] उन्मत्तो ऽन्धश् च वर्ज्याः स्युर् वेदनिन्दक एव च ॥ १६१ ॥  
 
 
-3.162a[152Ma] hasti.go.'śva.uṣṭradamako nakṣatrair yaś ca jīvati |  
-3.162c[152Mc] pakṣiṇāṃ poṣako yaś ca yuddhācāryas tathā-eva ca || 162 ||  
+३।१६२अ[१५२म] हस्ति।गो।ऽश्व।उष्ट्रदमको नक्षत्रैर् यश् च जीवति ।  
+३।१६२च्[१५२म्च्] पक्षिणां पोषको यश् च युद्धाचार्यस् तथा-एव च ॥ १६२ ॥  
 
 
-3.163a[153Ma] srotasāṃ bhedako yaś ca teṣāṃ ca-āvaraṇe rataḥ |  
-3.163c[153Mc] gṛhasaṃveśako dūto vṛkṣāropaka eva ca || 163 ||  
+३।१६३अ[१५३म] स्रोतसां भेदको यश् च तेषां च-आवरणे रतः ।  
+३।१६३च्[१५३म्च्] गृहसंवेशको दूतो वृक्षारोपक एव च ॥ १६३ ॥  
 
 
-3.164a[154Ma] śvakrīḍī śyenajīvī ca kanyādūṣaka eva ca |  
-3.164c[154Mc] hiṃsro vṛṣala.vṛttiś ca gaṇānāṃ ca-eva yājakaḥ || 164 ||  
+३।१६४अ[१५४म] श्वक्रीडी श्येनजीवी च कन्यादूषक एव च ।  
+३।१६४च्[१५४म्च्] हिंस्रो वृषल।वृत्तिश् च गणानां च-एव याजकः ॥ १६४ ॥  
 
 
-3.165a[155Ma] ācāra.hīnaḥ klībaś ca nityaṃ yācanakas tathā |  
-3.165c[155Mc] kṛṣijīvī ślīpadī ca sadbhir nindita eva ca || 165 ||  
+३।१६५अ[१५५म] आचार।हीनः क्लीबश् च नित्यं याचनकस् तथा ।  
+३।१६५च्[१५५म्च्] कृषिजीवी श्लीपदी च सद्भिर् निन्दित एव च ॥ १६५ ॥  
 
 
-3.166a[156Ma] aurabhriko māhiṣikaḥ parapūrvāpatis tathā |  
-3.166c[156Mc] pretaniryāpakaś ca-eva varjanīyāḥ prayatnataḥ || 166 ||  
+३।१६६अ[१५६म] औरभ्रिको माहिषिकः परपूर्वापतिस् तथा ।  
+३।१६६च्[१५६म्च्] प्रेतनिर्यापकश् च-एव वर्जनीयाः प्रयत्नतः ॥ १६६ ॥  
 
 
-3.167a[157Ma] etān vigarhita.ācārān apāṅkteyān dvijādhamān |  
-3.167c[157Mc] dvijātipravaro vidvān ubhayatra vivarjayet || 167 ||  
+३।१६७अ[१५७म] एतान् विगर्हित।आचारान् अपाङ्क्तेयान् द्विजाधमान् ।  
+३।१६७च्[१५७म्च्] द्विजातिप्रवरो विद्वान् उभयत्र विवर्जयेत् ॥ १६७ ॥  
 
 
-3.168a[158Ma] brāhmaṇo tv an.adhīyānas tṛṇāgnir iva śāmyati | 3.168a[158Ma]v/  \[M\] : “brāhmaṇas hy an.adhīyānas”  
-3.168c[158Mc] tasmai havyaṃ na dātavyaṃ na hi bhasmani hūyate || 168 ||  
+३।१६८अ[१५८म] ब्राह्मणो त्व् अन्।अधीयानस् तृणाग्निर् इव शाम्यति । ३।१६८अ[१५८म]व्।  \[म्\] : “ब्राह्मणस् ह्य् अन्।अधीयानस्”  
+३।१६८च्[१५८म्च्] तस्मै हव्यं न दातव्यं न हि भस्मनि हूयते ॥ १६८ ॥  
 
 
-3.169a[159Ma] apāṅktadāne yo dātur bhavaty ūrdhvaṃ phala.udayaḥ | 3.169a[159Ma]v/  \[M\] : “apaṅktyadāne”  
-3.169c[159Mc] daive haviṣi pitrye vā taṃ pravaksyāmy aśeṣataḥ || 169 || 3.169c[159Mc]v/  \[M\] : “daive karmaṇi”  
+३।१६९अ[१५९म] अपाङ्क्तदाने यो दातुर् भवत्य् ऊर्ध्वं फल।उदयः । ३।१६९अ[१५९म]व्।  \[म्\] : “अपङ्क्त्यदाने”  
+३।१६९च्[१५९म्च्] दैवे हविषि पित्र्ये वा तं प्रवक्स्याम्य् अशेषतः ॥ १६९ ॥ ३।१६९च्[१५९म्च्]व्।  \[म्\] : “दैवे कर्मणि”  
 
 
-3.170a[160Ma] a.vratair yad dvijair bhuktaṃ parivetṛ.ādibhis tathā |  
-3.170c[160Mc] apāṅkteyair yad anyaiś ca tad vai rakṣāṃsi bhuñjate || 170 ||  
+३।१७०अ[१६०म] अ।व्रतैर् यद् द्विजैर् भुक्तं परिवेतृ।आदिभिस् तथा ।  
+३।१७०च्[१६०म्च्] अपाङ्क्तेयैर् यद् अन्यैश् च तद् वै रक्षांसि भुञ्जते ॥ १७० ॥  
 
 
-3.171a[161Ma] dārāgnihotrasaṃyogaṃ kurute yo 'graje sthite |  
-3.171c[161Mc] parivettā sa vijñeyaḥ parivittis tu pūrvajaḥ || 171 ||  
+३।१७१अ[१६१म] दाराग्निहोत्रसंयोगं कुरुते यो ऽग्रजे स्थिते ।  
+३।१७१च्[१६१म्च्] परिवेत्ता स विज्ञेयः परिवित्तिस् तु पूर्वजः ॥ १७१ ॥  
 
 
-3.172a[162Ma] parivittiḥ parivettā yayā ca parividyate |  
-3.172c[162Mc] sarve te narakaṃ yānti dātṛyājaka.pañcamāḥ || 172 ||  
+३।१७२अ[१६२म] परिवित्तिः परिवेत्ता यया च परिविद्यते ।  
+३।१७२च्[१६२म्च्] सर्वे ते नरकं यान्ति दातृयाजक।पञ्चमाः ॥ १७२ ॥  
 
 
-3.173a[163Ma] bhrātur mṛtasya bhāryāyāṃ yo 'nurajyeta kāmataḥ |  
-3.173c[163Mc] dharmeṇa-api niyuktāyāṃ sa jñeyo didhiṣūpatiḥ || 173 ||  
+३।१७३अ[१६३म] भ्रातुर् मृतस्य भार्यायां यो ऽनुरज्येत कामतः ।  
+३।१७३च्[१६३म्च्] धर्मेण-अपि नियुक्तायां स ज्ञेयो दिधिषूपतिः ॥ १७३ ॥  
 
 
-3.174a[164Ma] paradāreṣu jāyete dvau sutau kuṇḍa.golakau |  
-3.174c[164Mc] patyau jīvati kuṇḍaḥ syān mṛte bhartari golakaḥ || 174 ||  
+३।१७४अ[१६४म] परदारेषु जायेते द्वौ सुतौ कुण्ड।गोलकौ ।  
+३।१७४च्[१६४म्च्] पत्यौ जीवति कुण्डः स्यान् मृते भर्तरि गोलकः ॥ १७४ ॥  
 
 
-3.175a[165Ma] tau tu jātau parakṣetre prāṇinau pretya ca-iha ca | 3.175a[165Ma]v/  \[M\] : “te tu jātāḥ parakṣetre prāṇinaḥ”  
-3.175c[165Mc] dattāni havya.kavyāni nāśayanti pradāyinām || 175 ||  
+३।१७५अ[१६५म] तौ तु जातौ परक्षेत्रे प्राणिनौ प्रेत्य च-इह च । ३।१७५अ[१६५म]व्।  \[म्\] : “ते तु जाताः परक्षेत्रे प्राणिनः”  
+३।१७५च्[१६५म्च्] दत्तानि हव्य।कव्यानि नाशयन्ति प्रदायिनाम् ॥ १७५ ॥  
 
 
-3.176a[166Ma] apāṅktyo yāvataḥ paṅktyān bhuñjānān anupaśyati | 3.176a[166Ma]v/  \[M\] : “a.paṅktyo yāvataḥ”  
-3.176c[166Mc] tāvatāṃ na phalaṃ tatra dātā prāpnoti bāliśaḥ || 176 ||  
+३।१७६अ[१६६म] अपाङ्क्त्यो यावतः पङ्क्त्यान् भुञ्जानान् अनुपश्यति । ३।१७६अ[१६६म]व्।  \[म्\] : “अ।पङ्क्त्यो यावतः”  
+३।१७६च्[१६६म्च्] तावतां न फलं तत्र दाता प्राप्नोति बालिशः ॥ १७६ ॥  
 
 
-3.177a[167Ma] vīkṣya-andho navateḥ kāṇaḥ ṣaṣṭeḥ śvitrī śatasya tu | 3.177a[167Ma]v/  \[M\] : “śatasya ca”  
-3.177c[167Mc] pāparogī sahasrasya dātur nāśayate phalam || 177 ||  
+३।१७७अ[१६७म] वीक्ष्य-अन्धो नवतेः काणः षष्टेः श्वित्री शतस्य तु । ३।१७७अ[१६७म]व्।  \[म्\] : “शतस्य च”  
+३।१७७च्[१६७म्च्] पापरोगी सहस्रस्य दातुर् नाशयते फलम् ॥ १७७ ॥  
 
 
-3.178a[168Ma] yāvataḥ saṃspṛśed aṅgair brāhmaṇān-śūdrayājakaḥ |  
-3.178c[168Mc] tāvatāṃ na bhaved dātuḥ phalaṃ dānasya paurtikam || 178 ||  
+३।१७८अ[१६८म] यावतः संस्पृशेद् अङ्गैर् ब्राह्मणान्-शूद्रयाजकः ।  
+३।१७८च्[१६८म्च्] तावतां न भवेद् दातुः फलं दानस्य पौर्तिकम् ॥ १७८ ॥  
 
 
-3.179a[169Ma] vedavid-ca-api vipro 'sya lobhāt kṛtvā pratigraham |  
-3.179c[169Mc] vināśaṃ vrajati kṣipram āmapātram iva-ambhasi || 179 ||  
+३।१७९अ[१६९म] वेदविद्-च-अपि विप्रो ऽस्य लोभात् कृत्वा प्रतिग्रहम् ।  
+३।१७९च्[१६९म्च्] विनाशं व्रजति क्षिप्रम् आमपात्रम् इव-अम्भसि ॥ १७९ ॥  
 
 
-3.180a[170Ma] somavikrayiṇe viṣṭhā bhiṣaje pūya.śoṇitam |  
-3.180c[170Mc] naṣṭaṃ devalake dattam a.pratiṣṭhaṃ tu vārdhuṣau || 180 ||  
+३।१८०अ[१७०म] सोमविक्रयिणे विष्ठा भिषजे पूय।शोणितम् ।  
+३।१८०च्[१७०म्च्] नष्टं देवलके दत्तम् अ।प्रतिष्ठं तु वार्धुषौ ॥ १८० ॥  
 
 
-3.181a[171Ma] yat tu vāṇijake dattaṃ na-iha na-amutra tad bhavet |  
-3.181c[171Mc] bhasmani-iva hutaṃ dravyaṃ tathā paunarbhave dvije || 181 ||  
+३।१८१अ[१७१म] यत् तु वाणिजके दत्तं न-इह न-अमुत्र तद् भवेत् ।  
+३।१८१च्[१७१म्च्] भस्मनि-इव हुतं द्रव्यं तथा पौनर्भवे द्विजे ॥ १८१ ॥  
 
 
-3.182a[172Ma] itareṣu tv apāṅktyeṣu yathā.uddiṣṭeṣv a.sādhuṣu |  
-3.182c[172Mc] medo.'sṛṅ.māṃsa.majjā.asthi vadanty annaṃ manīṣiṇaḥ || 182 ||  
+३।१८२अ[१७२म] इतरेषु त्व् अपाङ्क्त्येषु यथा।उद्दिष्टेष्व् अ।साधुषु ।  
+३।१८२च्[१७२म्च्] मेदो।ऽसृङ्।मांस।मज्जा।अस्थि वदन्त्य् अन्नं मनीषिणः ॥ १८२ ॥  
 
 
- 3.2.2.4. Persons Who Purify Those Alongside Whom They Eat
- \[O\]  edn 482,  \[O\]  tr. 118
-3.183a[173Ma] apāṅktya.upahatā paṅktiḥ pāvyate yair dvijottamaiḥ | 3.183a[173Ma]v/  \[M\] : “a.paṅktya.upahatā paṅktiḥ”  
-3.183c[173Mc] tān nibodhata kārtsnyena dvijāgryān paṅktipāvanān || 183 ||  
+ ३।२।२।४। पेर्सोन्स् Wहो पुरिड़्य् थोसे अलोन्ग्सिदे Wहोम् थेय् एअत्
+ \[ओ\]  एद्न् ४८२,  \[ओ\]  त्र्। ११८
+३।१८३अ[१७३म] अपाङ्क्त्य।उपहता पङ्क्तिः पाव्यते यैर् द्विजोत्तमैः । ३।१८३अ[१७३म]व्।  \[म्\] : “अ।पङ्क्त्य।उपहता पङ्क्तिः”  
+३।१८३च्[१७३म्च्] तान् निबोधत कार्त्स्न्येन द्विजाग्र्यान् पङ्क्तिपावनान् ॥ १८३ ॥  
 
 
-3.184a[174Ma] agryāḥ sarveṣu vedeṣu sarvapravacaneṣu ca |  
-3.184c[174Mc] śrotriyānvayajāś ca-eva vijñeyāḥ paṅktipāvanāḥ || 184 ||  
+३।१८४अ[१७४म] अग्र्याः सर्वेषु वेदेषु सर्वप्रवचनेषु च ।  
+३।१८४च्[१७४म्च्] श्रोत्रियान्वयजाश् च-एव विज्ञेयाः पङ्क्तिपावनाः ॥ १८४ ॥  
 
 
-3.185a[175Ma] triṇāciketaḥ pañca.agnis trisuparṇaḥ ṣaḍaṅgavit |  
-3.185c[175Mc] brahmadeyātmasantāno jyeṣṭhasāmaga eva ca || 185 || 3.185c[175Mc]v/  \[M\] : “brahmadeyānusantāno”  
+३।१८५अ[१७५म] त्रिणाचिकेतः पञ्च।अग्निस् त्रिसुपर्णः षडङ्गवित् ।  
+३।१८५च्[१७५म्च्] ब्रह्मदेयात्मसन्तानो ज्येष्ठसामग एव च ॥ १८५ ॥ ३।१८५च्[१७५म्च्]व्।  \[म्\] : “ब्रह्मदेयानुसन्तानो”  
 
 
-3.186a[176Ma] vedārtha.vit pravaktā ca brahmacārī sahasradaḥ |  
-3.186c[176Mc] śatāyuś ca-eva vijñeyā brāhmaṇāḥ paṅktipāvanāḥ || 186 ||  
+३।१८६अ[१७६म] वेदार्थ।वित् प्रवक्ता च ब्रह्मचारी सहस्रदः ।  
+३।१८६च्[१७६म्च्] शतायुश् च-एव विज्ञेया ब्राह्मणाः पङ्क्तिपावनाः ॥ १८६ ॥  
 
 
- 3.2.2.5. Invitations
- \[O\]  edn 482-483,  \[O\]  tr. 118
-3.187a[177Ma] pūrvedyur aparedyur vā śrāddhakarmaṇy upasthite |  
-3.187c[177Mc] nimantrayeta try.avarān samyag viprān yathā.uditān || 187 || 3.187c[177Mc]v/  \[M\] : “nimantrayīta”  
+ ३।२।२।५। इन्विततिओन्स्
+ \[ओ\]  एद्न् ४८२-४८३,  \[ओ\]  त्र्। ११८
+३।१८७अ[१७७म] पूर्वेद्युर् अपरेद्युर् वा श्राद्धकर्मण्य् उपस्थिते ।  
+३।१८७च्[१७७म्च्] निमन्त्रयेत त्र्य्।अवरान् सम्यग् विप्रान् यथा।उदितान् ॥ १८७ ॥ ३।१८७च्[१७७म्च्]व्।  \[म्\] : “निमन्त्रयीत”  
 
 
-3.188a[178Ma] nimantrito dvijaḥ pitrye niyatātmā bhavet sadā |  
-3.188c[178Mc] na ca chandāṃsy adhīyīta yasya śrāddhaṃ ca tad bhavet || 188 ||  
+३।१८८अ[१७८म] निमन्त्रितो द्विजः पित्र्ये नियतात्मा भवेत् सदा ।  
+३।१८८च्[१७८म्च्] न च छन्दांस्य् अधीयीत यस्य श्राद्धं च तद् भवेत् ॥ १८८ ॥  
 
 
-3.189a[179Ma] nimantritān hi pitara upatiṣṭhanti tān dvijān |  
-3.189c[179Mc] vāyuvat-ca-anugacchanti tathā-āsīnān upāsate || 189 ||  
+३।१८९अ[१७९म] निमन्त्रितान् हि पितर उपतिष्ठन्ति तान् द्विजान् ।  
+३।१८९च्[१७९म्च्] वायुवत्-च-अनुगच्छन्ति तथा-आसीनान् उपासते ॥ १८९ ॥  
 
 
-3.190a[180Ma] ketitas tu yathānyāyaṃ havye kavye dvijottamaḥ |  
-3.190c[180Mc] kathaṃ cid apy atikrāman pāpaḥ sūkaratāṃ vrajet || 190 ||  
+३।१९०अ[१८०म] केतितस् तु यथान्यायं हव्ये कव्ये द्विजोत्तमः ।  
+३।१९०च्[१८०म्च्] कथं चिद् अप्य् अतिक्रामन् पापः सूकरतां व्रजेत् ॥ १९० ॥  
 
 
-3.191a[181Ma] āmantritas tu yaḥ śrāddhe vṛśalyā saha modate |  
-3.191c[181Mc] dātur yad duṣkṛtaṃ kiṃ cit tat sarvaṃ pratipadyate || 191 ||  
+३।१९१अ[१८१म] आमन्त्रितस् तु यः श्राद्धे वृशल्या सह मोदते ।  
+३।१९१च्[१८१म्च्] दातुर् यद् दुष्कृतं किं चित् तत् सर्वं प्रतिपद्यते ॥ १९१ ॥  
 
 
- 3.2.2.6. Classes of Ancestors
- \[O\]  edn 483-485,  \[O\]  tr. 118-119
-3.192a[182Ma] a.krodhanāḥ śauca.parāḥ satataṃ brahmacāriṇaḥ |  
-3.192c[182Mc] nyasta.śastrā mahā.bhāgāḥ pitaraḥ pūrvadevatāḥ || 192 ||  
+ ३।२।२।६। च्लस्सेस् ओड़् अन्चेस्तोर्स्
+ \[ओ\]  एद्न् ४८३-४८५,  \[ओ\]  त्र्। ११८-११९
+३।१९२अ[१८२म] अ।क्रोधनाः शौच।पराः सततं ब्रह्मचारिणः ।  
+३।१९२च्[१८२म्च्] न्यस्त।शस्त्रा महा।भागाः पितरः पूर्वदेवताः ॥ १९२ ॥  
 
 
-3.193a[183Ma] yasmād utpattir eteṣāṃ sarveṣām apy aśeṣataḥ |  
-3.193c[183Mc] ye ca yair upacaryāḥ syur niyamais tān nibodhata || 193 ||  
+३।१९३अ[१८३म] यस्माद् उत्पत्तिर् एतेषां सर्वेषाम् अप्य् अशेषतः ।  
+३।१९३च्[१८३म्च्] ये च यैर् उपचर्याः स्युर् नियमैस् तान् निबोधत ॥ १९३ ॥  
 
 
-3.194a[184Ma] manor hairaṇyagarbhasya ye marīci.ādayaḥ sutāḥ |  
-3.194c[184Mc] teṣām ṛṣīṇāṃ sarveṣāṃ putrāḥ pitṛgaṇāḥ smṛtāḥ || 194 ||  
+३।१९४अ[१८४म] मनोर् हैरण्यगर्भस्य ये मरीचि।आदयः सुताः ।  
+३।१९४च्[१८४म्च्] तेषाम् ऋषीणां सर्वेषां पुत्राः पितृगणाः स्मृताः ॥ १९४ ॥  
 
 
-3.195a[185Ma] virāj.sutāḥ somasadaḥ sādhyānāṃ pitaraḥ smṛtāḥ |  
-3.195c[185Mc] agniṣvāttāś ca devānāṃ mārīcā lokaviśrutāḥ || 195 ||  
+३।१९५अ[१८५म] विराज्।सुताः सोमसदः साध्यानां पितरः स्मृताः ।  
+३।१९५च्[१८५म्च्] अग्निष्वात्ताश् च देवानां मारीचा लोकविश्रुताः ॥ १९५ ॥  
 
 
-3.196a[186Ma] daitya.dānava.yakṣāṇāṃ gandharva.uraga.rakṣasām |  
-3.196c[186Mc] suparṇa.kinnarāṇāṃ ca smṛtā barhiṣado 'trijāḥ || 196 ||  
+३।१९६अ[१८६म] दैत्य।दानव।यक्षाणां गन्धर्व।उरग।रक्षसाम् ।  
+३।१९६च्[१८६म्च्] सुपर्ण।किन्नराणां च स्मृता बर्हिषदो ऽत्रिजाः ॥ १९६ ॥  
 
 
-3.197a[187Ma] somapā nāma viprāṇāṃ kṣatriyāṇāṃ havirbhujaḥ |  
-3.197c[187Mc] vaiśyānām ājyapā nāma śūdrāṇāṃ tu sukālinaḥ || 197 ||  
+३।१९७अ[१८७म] सोमपा नाम विप्राणां क्षत्रियाणां हविर्भुजः ।  
+३।१९७च्[१८७म्च्] वैश्यानाम् आज्यपा नाम शूद्राणां तु सुकालिनः ॥ १९७ ॥  
 
 
-3.198a[188Ma] somapās tu kaveḥ putrā haviṣmanto 'ṅgiraḥsutāḥ |  
-3.198c[188Mc] pulastyasya-ājyapāḥ putrā vasiṣṭhasya sukālinaḥ || 198 ||  
+३।१९८अ[१८८म] सोमपास् तु कवेः पुत्रा हविष्मन्तो ऽङ्गिरःसुताः ।  
+३।१९८च्[१८८म्च्] पुलस्त्यस्य-आज्यपाः पुत्रा वसिष्ठस्य सुकालिनः ॥ १९८ ॥  
 
 
-3.199a[189Ma] agnidagdha.anagnidagdhān kāvyān barhiṣadas tathā | 3.199a[189Ma]v/  \[M\] : “an.agnidagdha.an.agnidagdhān”  
-3.199c[189Mc] agniṣvāttāṃś ca saumyāṃś ca viprāṇām eva nirdiśet || 199 ||  
+३।१९९अ[१८९म] अग्निदग्ध।अनग्निदग्धान् काव्यान् बर्हिषदस् तथा । ३।१९९अ[१८९म]व्।  \[म्\] : “अन्।अग्निदग्ध।अन्।अग्निदग्धान्”  
+३।१९९च्[१८९म्च्] अग्निष्वात्तांश् च सौम्यांश् च विप्राणाम् एव निर्दिशेत् ॥ १९९ ॥  
 
 
-3.200a[190Ma] ya ete tu gaṇā mukhyāḥ pitṝṇāṃ parikīrtitāḥ |  
-3.200c[190Mc] teṣām api-iha vijñeyaṃ putra.pautram an.antakam || 200 ||  
+३।२००अ[१९०म] य एते तु गणा मुख्याः पितॄणां परिकीर्तिताः ।  
+३।२००च्[१९०म्च्] तेषाम् अपि-इह विज्ञेयं पुत्र।पौत्रम् अन्।अन्तकम् ॥ २०० ॥  
 
 
-3.201a[191Ma] ṛṣibhyaḥ pitaro jātāḥ pitṛbhyo deva.mānavāḥ |  
-3.201c[191Mc] devebhyas tu jagat sarvaṃ caraṃ sthāṇv anupūrvaśaḥ || 201 ||  
+३।२०१अ[१९१म] ऋषिभ्यः पितरो जाताः पितृभ्यो देव।मानवाः ।  
+३।२०१च्[१९१म्च्] देवेभ्यस् तु जगत् सर्वं चरं स्थाण्व् अनुपूर्वशः ॥ २०१ ॥  
 
 
-3.202a[192Ma] rājatair bhājanair eṣām atho vā rajatānvitaiḥ |  
-3.202c[192Mc] vāry api śraddhayā dattam akṣayāya-upakalpate || 202 ||  
+३।२०२अ[१९२म] राजतैर् भाजनैर् एषाम् अथो वा रजतान्वितैः ।  
+३।२०२च्[१९२म्च्] वार्य् अपि श्रद्धया दत्तम् अक्षयाय-उपकल्पते ॥ २०२ ॥  
 
 
- 3.2.2.7. Preparatory Rites
- \[O\]  edn 485-487,  \[O\]  tr. 119
-3.203a[193Ma] daivakāryād dvijātīnāṃ pitṛkāryaṃ viśiṣyate |  
-3.203c[193Mc] daivaṃ hi pitṛkāryasya pūrvam āpyāyanaṃ smṛtam || 203 ||  
+ ३।२।२।७। प्रेपरतोर्य् रितेस्
+ \[ओ\]  एद्न् ४८५-४८७,  \[ओ\]  त्र्। ११९
+३।२०३अ[१९३म] दैवकार्याद् द्विजातीनां पितृकार्यं विशिष्यते ।  
+३।२०३च्[१९३म्च्] दैवं हि पितृकार्यस्य पूर्वम् आप्यायनं स्मृतम् ॥ २०३ ॥  
 
 
-3.204a[194Ma] teṣām ārakṣabhūtaṃ tu pūrvaṃ daivaṃ niyojayet |  
-3.204c[194Mc] raksāṃsi vipralumpanti śrāddham ārakṣavarjitam || 204 ||  
+३।२०४अ[१९४म] तेषाम् आरक्षभूतं तु पूर्वं दैवं नियोजयेत् ।  
+३।२०४च्[१९४म्च्] रक्सांसि विप्रलुम्पन्ति श्राद्धम् आरक्षवर्जितम् ॥ २०४ ॥  
 
 
-3.205a[195Ma] daiva.ādyantaṃ tad īheta pitṛ.ādyantaṃ na tad bhavet |  
-3.205c[195Mc] pitṛ.ādyantaṃ tv īhamānaḥ kṣipraṃ naśyati sa.anvayaḥ || 205 ||  
+३।२०५अ[१९५म] दैव।आद्यन्तं तद् ईहेत पितृ।आद्यन्तं न तद् भवेत् ।  
+३।२०५च्[१९५म्च्] पितृ।आद्यन्तं त्व् ईहमानः क्षिप्रं नश्यति स।अन्वयः ॥ २०५ ॥  
 
 
-3.206a[196Ma] śuciṃ deśaṃ viviktaṃ ca gomayena-upalepayet |  
-3.206c[196Mc] dakṣinā.pravaṇaṃ ca-eva prayatnena-upapādayet || 206 ||  
+३।२०६अ[१९६म] शुचिं देशं विविक्तं च गोमयेन-उपलेपयेत् ।  
+३।२०६च्[१९६म्च्] दक्षिना।प्रवणं च-एव प्रयत्नेन-उपपादयेत् ॥ २०६ ॥  
 
 
-3.207a[197Ma] avakāśeṣu cokṣeṣu jalatīreṣu ca-eva hi |  
-3.207c[197Mc] vivikteṣu ca tuṣyanti dattena pitaraḥ sadā || 207 ||  
+३।२०७अ[१९७म] अवकाशेषु चोक्षेषु जलतीरेषु च-एव हि ।  
+३।२०७च्[१९७म्च्] विविक्तेषु च तुष्यन्ति दत्तेन पितरः सदा ॥ २०७ ॥  
 
 
-3.208a[198Ma] āsaneṣu-upakḷpteṣu barhiṣmatsu pṛthak.pṛthak |  
-3.208c[198Mc] upaspṛṣṭa.udakān samyag viprāṃs tān upaveśayet || 208 ||  
+३।२०८अ[१९८म] आसनेषु-उपकॢप्तेषु बर्हिष्मत्सु पृथक्।पृथक् ।  
+३।२०८च्[१९८म्च्] उपस्पृष्ट।उदकान् सम्यग् विप्रांस् तान् उपवेशयेत् ॥ २०८ ॥  
 
 
-3.209a[199Ma] upaveśya tu tān viprān āsaneṣv ajugupsitān |  
-3.209c[199Mc] gandha.mālyaiḥ surabhibhir arcayed daivapūrvakam || 209 ||  
+३।२०९अ[१९९म] उपवेश्य तु तान् विप्रान् आसनेष्व् अजुगुप्सितान् ।  
+३।२०९च्[१९९म्च्] गन्ध।माल्यैः सुरभिभिर् अर्चयेद् दैवपूर्वकम् ॥ २०९ ॥  
 
 
-3.210a[200Ma] teṣām udakam ānīya sa.pavitrāṃs tilān api |  
-3.210c[200Mc] agnau kuryād anujñāto brāhmaṇo brāhmaṇaiḥ saha || 210 ||  
+३।२१०अ[२००म] तेषाम् उदकम् आनीय स।पवित्रांस् तिलान् अपि ।  
+३।२१०च्[२००म्च्] अग्नौ कुर्याद् अनुज्ञातो ब्राह्मणो ब्राह्मणैः सह ॥ २१० ॥  
 
 
-3.211a[201Ma] agneḥ soma.yamābhyāṃ ca kṛtvā-āpyāyanam āditaḥ |  
-3.211c[201Mc] havirdānena vidhivat paścāt santarpayet pitṝn || 211 ||  
+३।२११अ[२०१म] अग्नेः सोम।यमाभ्यां च कृत्वा-आप्यायनम् आदितः ।  
+३।२११च्[२०१म्च्] हविर्दानेन विधिवत् पश्चात् सन्तर्पयेत् पितॄन् ॥ २११ ॥  
 
 
-3.212a[202Ma] agni.abhāve tu viprasya pāṇāv eva-upapādayet |  
-3.212c[202Mc] yo hy agniḥ sa dvijo viprair mantradarśibhir ucyate || 212 ||  
+३।२१२अ[२०२म] अग्नि।अभावे तु विप्रस्य पाणाव् एव-उपपादयेत् ।  
+३।२१२च्[२०२म्च्] यो ह्य् अग्निः स द्विजो विप्रैर् मन्त्रदर्शिभिर् उच्यते ॥ २१२ ॥  
 
 
-3.213a[203Ma] a.krodhanān su.prasādān vadanty etān purātanān |  
-3.213c[203Mc] lokasya-āpyāyane yuktān śrāddha.devān dvijottamān || 213 || 3.213c[203Mc]v/  \[M\] : “śrāddhe devān dvijottamān”  
+३।२१३अ[२०३म] अ।क्रोधनान् सु।प्रसादान् वदन्त्य् एतान् पुरातनान् ।  
+३।२१३च्[२०३म्च्] लोकस्य-आप्यायने युक्तान् श्राद्ध।देवान् द्विजोत्तमान् ॥ २१३ ॥ ३।२१३च्[२०३म्च्]व्।  \[म्\] : “श्राद्धे देवान् द्विजोत्तमान्”  
 
 
- 3.2.2.8. Principal Offerings
- \[O\]  edn 487-489,  \[O\]  tr. 119-120
-3.214a[204Ma] apasavyam agnau kṛtvā sarvam āvṛtya vikramam | 3.214a[204Ma]v/  \[M\] : “āvṛt.parikramam”  
-3.214c[204Mc] apasavyena hastena nirvaped udakaṃ bhuvi || 214 ||  
+ ३।२।२।८। प्रिन्चिपल् ओड़्ड़ेरिन्ग्स्
+ \[ओ\]  एद्न् ४८७-४८९,  \[ओ\]  त्र्। ११९-१२०
+३।२१४अ[२०४म] अपसव्यम् अग्नौ कृत्वा सर्वम् आवृत्य विक्रमम् । ३।२१४अ[२०४म]व्।  \[म्\] : “आवृत्।परिक्रमम्”  
+३।२१४च्[२०४म्च्] अपसव्येन हस्तेन निर्वपेद् उदकं भुवि ॥ २१४ ॥  
 
 
-3.215a[205Ma] trīṃs tu tasmādd haviḥśeṣāt piṇḍān kṛtvā samāhitaḥ |  
-3.215c[205Mc] audakena-eva vidhinā nirvaped dakṣiṇā.mukhaḥ || 215 ||  
+३।२१५अ[२०५म] त्रींस् तु तस्माद्द् हविःशेषात् पिण्डान् कृत्वा समाहितः ।  
+३।२१५च्[२०५म्च्] औदकेन-एव विधिना निर्वपेद् दक्षिणा।मुखः ॥ २१५ ॥  
 
 
-3.216a[206Ma] nyupya piṇḍāṃs tatas tāṃs tu prayato vidhipūrvakam |  
-3.216c[206Mc] teṣu darbheṣu taṃ hastaṃ nirmṛjyāt-lepabhāginām || 216 ||  
+३।२१६अ[२०६म] न्युप्य पिण्डांस् ततस् तांस् तु प्रयतो विधिपूर्वकम् ।  
+३।२१६च्[२०६म्च्] तेषु दर्भेषु तं हस्तं निर्मृज्यात्-लेपभागिनाम् ॥ २१६ ॥  
 
 
-3.217a[207Ma] ācamya-udakparāvṛtya trir āyamya śanair asūn |  
-3.217c[207Mc] ṣaḍ ṛtūṃś ca namaskuryāt pitṝn eva ca mantravat || 217 ||  
+३।२१७अ[२०७म] आचम्य-उदक्परावृत्य त्रिर् आयम्य शनैर् असून् ।  
+३।२१७च्[२०७म्च्] षड् ऋतूंश् च नमस्कुर्यात् पितॄन् एव च मन्त्रवत् ॥ २१७ ॥  
 
 
-3.218a[208Ma] udakaṃ ninayet-śeṣaṃ śanaiḥ piṇḍāntike punaḥ |  
-3.218c[208Mc] avajighrec ca tān piṇḍān yathānyuptān samāhitaḥ || 218 ||  
+३।२१८अ[२०८म] उदकं निनयेत्-शेषं शनैः पिण्डान्तिके पुनः ।  
+३।२१८च्[२०८म्च्] अवजिघ्रेच् च तान् पिण्डान् यथान्युप्तान् समाहितः ॥ २१८ ॥  
 
 
-3.219a[209Ma] piṇḍebhyas tv alpikāṃ mātrāṃ samādāya-anupūrvaśaḥ | 3.219a[209Ma]v/  \[M\] : “piṇḍebhyaḥ svalpikāṃ”  
-3.219c[209Mc] tān eva viprān āsīnān vidhivat pūrvam āśayet || 219 ||  
+३।२१९अ[२०९म] पिण्डेभ्यस् त्व् अल्पिकां मात्रां समादाय-अनुपूर्वशः । ३।२१९अ[२०९म]व्।  \[म्\] : “पिण्डेभ्यः स्वल्पिकां”  
+३।२१९च्[२०९म्च्] तान् एव विप्रान् आसीनान् विधिवत् पूर्वम् आशयेत् ॥ २१९ ॥  
 
 
-3.220a[210Ma] dhriyamāṇe tu pitari pūrveṣām eva nirvapet |  
-3.220c[210Mc] vipravad vā-api taṃ śrāddhe svakaṃ pitaram āśayet || 220 || 3.220c[210Mc]v/  \[M\] : “śrāddhaṃ”  
+३।२२०अ[२१०म] ध्रियमाणे तु पितरि पूर्वेषाम् एव निर्वपेत् ।  
+३।२२०च्[२१०म्च्] विप्रवद् वा-अपि तं श्राद्धे स्वकं पितरम् आशयेत् ॥ २२० ॥ ३।२२०च्[२१०म्च्]व्।  \[म्\] : “श्राद्धं”  
 
 
-3.221a[211Ma] pitā yasya nivṛttaḥ syāj jīvec ca-api pitāmahaḥ | 3.221a[211Ma]v/  \[M\] : “pitā yasya tu vṛttaḥ syāj”  
-3.221c[211Mc] pituḥ sa nāma saṅkīrtya kīrtayet prapitāmaham || 221 ||  
+३।२२१अ[२११म] पिता यस्य निवृत्तः स्याज् जीवेच् च-अपि पितामहः । ३।२२१अ[२११म]व्।  \[म्\] : “पिता यस्य तु वृत्तः स्याज्”  
+३।२२१च्[२११म्च्] पितुः स नाम सङ्कीर्त्य कीर्तयेत् प्रपितामहम् ॥ २२१ ॥  
 
 
-3.222a[212Ma] pitāmaho vā tat.śrāddhaṃ bhuñjīta-ity abravīn manuḥ |  
-3.222c[212Mc] kāmaṃ vā samanujñātaḥ svayam eva samācaret || 222 ||  
+३।२२२अ[२१२म] पितामहो वा तत्।श्राद्धं भुञ्जीत-इत्य् अब्रवीन् मनुः ।  
+३।२२२च्[२१२म्च्] कामं वा समनुज्ञातः स्वयम् एव समाचरेत् ॥ २२२ ॥  
 
 
-3.223a[213Ma] teṣāṃ dattvā tu hasteṣu sa.pavitraṃ tila.udakam |  
-3.223c[213Mc] tatpiṇḍāgraṃ prayaccheta svadhā-eṣām astv iti bruvan || 223 || 3.223c[213Mc]v/  \[M\] : “prayacchet tu”  
+३।२२३अ[२१३म] तेषां दत्त्वा तु हस्तेषु स।पवित्रं तिल।उदकम् ।  
+३।२२३च्[२१३म्च्] तत्पिण्डाग्रं प्रयच्छेत स्वधा-एषाम् अस्त्व् इति ब्रुवन् ॥ २२३ ॥ ३।२२३च्[२१३म्च्]व्।  \[म्\] : “प्रयच्छेत् तु”  
 
 
- 3.2.2.9. Feeding the Brahmins
- \[O\]  edn 489-494,  \[O\]  tr. 120-121
-3.224a[214Ma] pāṇibhyāṃ tu-upasaṅgṛhya svayam annasya vardhitam | 3.224a[214Ma]v/  \[M\] : “varddhitam”  
-3.224c[214Mc] viprāntike pitṝn dhyāyan śanakair upanikṣipet || 224 ||  
+ ३।२।२।९। ड़ेएदिन्ग् थे ब्रह्मिन्स्
+ \[ओ\]  एद्न् ४८९-४९४,  \[ओ\]  त्र्। १२०-१२१
+३।२२४अ[२१४म] पाणिभ्यां तु-उपसङ्गृह्य स्वयम् अन्नस्य वर्धितम् । ३।२२४अ[२१४म]व्।  \[म्\] : “वर्द्धितम्”  
+३।२२४च्[२१४म्च्] विप्रान्तिके पितॄन् ध्यायन् शनकैर् उपनिक्षिपेत् ॥ २२४ ॥  
 
 
-3.225a[215Ma] ubhayor hastayor muktaṃ yad annam upanīyate |  
-3.225c[215Mc] tad vipralumpanty asurāḥ sahasā duṣṭa.cetasaḥ || 225 ||  
+३।२२५अ[२१५म] उभयोर् हस्तयोर् मुक्तं यद् अन्नम् उपनीयते ।  
+३।२२५च्[२१५म्च्] तद् विप्रलुम्पन्त्य् असुराः सहसा दुष्ट।चेतसः ॥ २२५ ॥  
 
 
-3.226a[216Ma] guṇāṃś ca sūpa.śākādyān payo dadhi ghṛtaṃ madhu |  
-3.226c[216Mc] vinyaset prayataḥ pūrvaṃ bhūmāv eva samāhitaḥ || 226 ||  
+३।२२६अ[२१६म] गुणांश् च सूप।शाकाद्यान् पयो दधि घृतं मधु ।  
+३।२२६च्[२१६म्च्] विन्यसेत् प्रयतः पूर्वं भूमाव् एव समाहितः ॥ २२६ ॥  
 
 
-3.227a[217Ma] bhakṣyaṃ bhojyaṃ ca vividhaṃ mūlāni ca phalāni ca |  
-3.227c[217Mc] hṛdyāni ca-eva māṃsāni pānāni su.rabhīṇi ca || 227 ||  
+३।२२७अ[२१७म] भक्ष्यं भोज्यं च विविधं मूलानि च फलानि च ।  
+३।२२७च्[२१७म्च्] हृद्यानि च-एव मांसानि पानानि सु।रभीणि च ॥ २२७ ॥  
 
 
-3.228a[218Ma] upanīya tu tat sarvaṃ śanakaiḥ susamāhitaḥ |  
-3.228c[218Mc] pariveṣayeta prayato guṇān sarvān pracodayan || 228 ||  
+३।२२८अ[२१८म] उपनीय तु तत् सर्वं शनकैः सुसमाहितः ।  
+३।२२८च्[२१८म्च्] परिवेषयेत प्रयतो गुणान् सर्वान् प्रचोदयन् ॥ २२८ ॥  
 
 
-3.229a[219Ma] na-asram āpātayej jātu na kupyen na-anṛtaṃ vadet |  
-3.229c[219Mc] na pādena spṛśed annaṃ na ca-etad avadhūnayet || 229 ||  
+३।२२९अ[२१९म] न-अस्रम् आपातयेज् जातु न कुप्येन् न-अनृतं वदेत् ।  
+३।२२९च्[२१९म्च्] न पादेन स्पृशेद् अन्नं न च-एतद् अवधूनयेत् ॥ २२९ ॥  
 
 
-3.230a[220Ma] asraṃ gamayati pretān kopo 'rīn anṛtaṃ śunaḥ |  
-3.230c[220Mc] pādasparśas tu rakṣāṃsi duṣkṛtīn avadhūnanam || 230 ||  
+३।२३०अ[२२०म] अस्रं गमयति प्रेतान् कोपो ऽरीन् अनृतं शुनः ।  
+३।२३०च्[२२०म्च्] पादस्पर्शस् तु रक्षांसि दुष्कृतीन् अवधूननम् ॥ २३० ॥  
 
 
-3.231a[221Ma] yad yad roceta viprebhyas tat tad dadyād a.matsaraḥ |  
-3.231c[221Mc] brahmodyāś ca kathāḥ kuryāt pitṝṇām etad īpsitam || 231 ||  
+३।२३१अ[२२१म] यद् यद् रोचेत विप्रेभ्यस् तत् तद् दद्याद् अ।मत्सरः ।  
+३।२३१च्[२२१म्च्] ब्रह्मोद्याश् च कथाः कुर्यात् पितॄणाम् एतद् ईप्सितम् ॥ २३१ ॥  
 
 
-3.232a[222Ma] svādhyāyaṃ śrāvayet pitrye dharmaśāstrāṇi ca-eva hi |  
-3.232c[222Mc] ākhyānāni-itihāsāṃś ca purāṇāni khilāni ca || 232 ||  
+३।२३२अ[२२२म] स्वाध्यायं श्रावयेत् पित्र्ये धर्मशास्त्राणि च-एव हि ।  
+३।२३२च्[२२२म्च्] आख्यानानि-इतिहासांश् च पुराणानि खिलानि च ॥ २३२ ॥  
 
 
-3.233a[223Ma] harṣayed brāhmaṇāṃs tuṣṭo bhojayec ca śanaiḥ.śanaiḥ |  
-3.233c[223Mc] annādyena-asakṛc ca-etān guṇaiś ca paricodayet || 233 ||  
+३।२३३अ[२२३म] हर्षयेद् ब्राह्मणांस् तुष्टो भोजयेच् च शनैः।शनैः ।  
+३।२३३च्[२२३म्च्] अन्नाद्येन-असकृच् च-एतान् गुणैश् च परिचोदयेत् ॥ २३३ ॥  
 
 
-3.234a[224Ma] vratastham api dauhitraṃ śrāddhe yatnena bhojayet |  
-3.234c[224Mc] kutapaṃ ca.āsanaṃ dadyāt tilaiś ca vikiren mahīm || 234 ||  
+३।२३४अ[२२४म] व्रतस्थम् अपि दौहित्रं श्राद्धे यत्नेन भोजयेत् ।  
+३।२३४च्[२२४म्च्] कुतपं च।आसनं दद्यात् तिलैश् च विकिरेन् महीम् ॥ २३४ ॥  
 
 
-3.235a[225Ma] trīṇi śrāddhe pavitrāṇi dauhitraḥ kutapas tilāḥ |  
-3.235c[225Mc] trīṇi ca-atra praśaṃsanti śaucam a.krodham a.tvarām || 235 ||  
+३।२३५अ[२२५म] त्रीणि श्राद्धे पवित्राणि दौहित्रः कुतपस् तिलाः ।  
+३।२३५च्[२२५म्च्] त्रीणि च-अत्र प्रशंसन्ति शौचम् अ।क्रोधम् अ।त्वराम् ॥ २३५ ॥  
 
 
-3.236a[226Ma] atyuṣṇaṃ sarvam annaṃ syād bhuñjīraṃs te ca vāgyatāḥ |  
-3.236c[226Mc] na ca dvijātayo brūyur dātrā pṛṣṭā havirguṇān || 236 ||  
+३।२३६अ[२२६म] अत्युष्णं सर्वम् अन्नं स्याद् भुञ्जीरंस् ते च वाग्यताः ।  
+३।२३६च्[२२६म्च्] न च द्विजातयो ब्रूयुर् दात्रा पृष्टा हविर्गुणान् ॥ २३६ ॥  
 
 
-3.237a[227Ma] yāvad uṣmā bhavaty annaṃ yāvad aśnanti vāgyatāḥ |  
-3.237c[227Mc] pitaras tāvad aśnanti yāvat-na-uktā havirguṇāḥ || 237 ||  
+३।२३७अ[२२७म] यावद् उष्मा भवत्य् अन्नं यावद् अश्नन्ति वाग्यताः ।  
+३।२३७च्[२२७म्च्] पितरस् तावद् अश्नन्ति यावत्-न-उक्ता हविर्गुणाः ॥ २३७ ॥  
 
 
-3.238a[228Ma] yad veṣṭita.śirā bhuṅkte yad bhuṅkte dakṣiṇā.mukhaḥ |  
-3.238c[228Mc] sa.upānatkaś ca yad bhuṅkte tad vai rakṣāṃsi bhuñjate || 238 ||  
+३।२३८अ[२२८म] यद् वेष्टित।शिरा भुङ्क्ते यद् भुङ्क्ते दक्षिणा।मुखः ।  
+३।२३८च्[२२८म्च्] स।उपानत्कश् च यद् भुङ्क्ते तद् वै रक्षांसि भुञ्जते ॥ २३८ ॥  
 
 
-3.239a[229Ma] cāṇḍālaś ca varāhaś ca kukkuṭaḥ śvā tathā-eva ca |  
-3.239c[229Mc] rajasvalā ca ṣaṇḍhaś ca na-īkṣerann aśnato dvijān || 239 ||  
+३।२३९अ[२२९म] चाण्डालश् च वराहश् च कुक्कुटः श्वा तथा-एव च ।  
+३।२३९च्[२२९म्च्] रजस्वला च षण्ढश् च न-ईक्षेरन्न् अश्नतो द्विजान् ॥ २३९ ॥  
 
 
-3.240a[230Ma] home pradāne bhojye ca yad ebhir abhivīkṣyate |  
-3.240c[230Mc] daive haviṣi pitrye vā tad gacchaty ayathātatham || 240 ||  
+३।२४०अ[२३०म] होमे प्रदाने भोज्ये च यद् एभिर् अभिवीक्ष्यते ।  
+३।२४०च्[२३०म्च्] दैवे हविषि पित्र्ये वा तद् गच्छत्य् अयथातथम् ॥ २४० ॥  
 
 
-3.241a[231Ma] ghrāṇena sūkaro hanti pakṣavātena kukkuṭaḥ | 3.241a[231Ma]v/  \[M\] : “śūkaro”  
-3.241c[231Mc] śvā tu dṛṣṭinipātena sparśeṇa-avaravarṇajaḥ || 241 ||  
+३।२४१अ[२३१म] घ्राणेन सूकरो हन्ति पक्षवातेन कुक्कुटः । ३।२४१अ[२३१म]व्।  \[म्\] : “शूकरो”  
+३।२४१च्[२३१म्च्] श्वा तु दृष्टिनिपातेन स्पर्शेण-अवरवर्णजः ॥ २४१ ॥  
 
 
-3.242a[232Ma] khañjo vā yadi vā kāṇo dātuḥ preṣyo 'pi vā bhavet |  
-3.242c[232Mc] hīna.atirikta.gātro vā tam apy apanayet punaḥ || 242 ||  
+३।२४२अ[२३२म] खञ्जो वा यदि वा काणो दातुः प्रेष्यो ऽपि वा भवेत् ।  
+३।२४२च्[२३२म्च्] हीन।अतिरिक्त।गात्रो वा तम् अप्य् अपनयेत् पुनः ॥ २४२ ॥  
 
 
-3.243a[233Ma] brāhmaṇaṃ bhikṣukaṃ vā-api bhojanārtham upasthitam |  
-3.243c[233Mc] brāhmaṇair abhyanujñātaḥ śaktitaḥ pratipūjayet || 243 ||  
+३।२४३अ[२३३म] ब्राह्मणं भिक्षुकं वा-अपि भोजनार्थम् उपस्थितम् ।  
+३।२४३च्[२३३म्च्] ब्राह्मणैर् अभ्यनुज्ञातः शक्तितः प्रतिपूजयेत् ॥ २४३ ॥  
 
 
-3.244a[234Ma] sārvavarṇikam annādyaṃ sannīya-āplāvya vāriṇā |  
-3.244c[234Mc] samutsṛjed bhuktavatām agrato vikiran bhuvi || 244 ||  
+३।२४४अ[२३४म] सार्ववर्णिकम् अन्नाद्यं सन्नीय-आप्लाव्य वारिणा ।  
+३।२४४च्[२३४म्च्] समुत्सृजेद् भुक्तवताम् अग्रतो विकिरन् भुवि ॥ २४४ ॥  
 
 
-3.245a[235Ma] asaṃskṛta.pramītānāṃ tyāgināṃ kulayoṣitām |  
-3.245c[235Mc] ucchiṣṭaṃ bhāgadheyaṃ syād darbheṣu vikiraś ca yaḥ || 245 ||  
+३।२४५अ[२३५म] असंस्कृत।प्रमीतानां त्यागिनां कुलयोषिताम् ।  
+३।२४५च्[२३५म्च्] उच्छिष्टं भागधेयं स्याद् दर्भेषु विकिरश् च यः ॥ २४५ ॥  
 
 
-3.246a[236Ma] uccheṣaṇāṃ bhūmigatam a.jihmasya-a.śaṭhasya ca |  
-3.246c[236Mc] dāsavargasya tat pitrye bhāgadheyaṃ pracakṣate || 246 ||  
+३।२४६अ[२३६म] उच्छेषणां भूमिगतम् अ।जिह्मस्य-अ।शठस्य च ।  
+३।२४६च्[२३६म्च्] दासवर्गस्य तत् पित्र्ये भागधेयं प्रचक्षते ॥ २४६ ॥  
 
 
- 3.2.2.10. Rite for the Newly Deceased
- \[O\]  edn 494,  \[O\]  tr. 121
-3.247a[237Ma] ā.sapiṇḍakriyākarma dvijāteḥ saṃsthitasya tu |  
-3.247c[237Mc] a.daivaṃ bhojayet-śrāddhaṃ piṇḍam ekaṃ ca nirvapet || 247 ||  
+ ३।२।२।१०। रिते ड़ोर् थे नेwल्य् देचेअसेद्
+ \[ओ\]  एद्न् ४९४,  \[ओ\]  त्र्। १२१
+३।२४७अ[२३७म] आ।सपिण्डक्रियाकर्म द्विजातेः संस्थितस्य तु ।  
+३।२४७च्[२३७म्च्] अ।दैवं भोजयेत्-श्राद्धं पिण्डम् एकं च निर्वपेत् ॥ २४७ ॥  
 
 
-3.248a[238Ma] sahapiṇḍakriyāyāṃ tu kṛtāyām asya dharmataḥ |  
-3.248c[238Mc] anayā-eva-āvṛtā kāryaṃ piṇḍanirvapanaṃ sutaiḥ || 248 ||  
+३।२४८अ[२३८म] सहपिण्डक्रियायां तु कृतायाम् अस्य धर्मतः ।  
+३।२४८च्[२३८म्च्] अनया-एव-आवृता कार्यं पिण्डनिर्वपनं सुतैः ॥ २४८ ॥  
 
 
- 3.2.2.11. Conclusion of the Meal
- \[O\]  edn 494-496,  \[O\]  tr. 121
-3.249a[239Ma] śrāddhaṃ bhuktvā ya ucchiṣṭaṃ vṛṣalāya prayacchati |  
-3.249c[239Mc] sa mūḍho narakaṃ yāti kālasūtram a.vākśirāḥ || 249 ||  
+ ३।२।२।११। चोन्च्लुसिओन् ओड़् थे मेअल्
+ \[ओ\]  एद्न् ४९४-४९६,  \[ओ\]  त्र्। १२१
+३।२४९अ[२३९म] श्राद्धं भुक्त्वा य उच्छिष्टं वृषलाय प्रयच्छति ।  
+३।२४९च्[२३९म्च्] स मूढो नरकं याति कालसूत्रम् अ।वाक्शिराः ॥ २४९ ॥  
 
 
-3.250a[240Ma] śrāddhabhug vṛṣalītalpaṃ tad ahar yo 'dhigacchati |  
-3.250c[240Mc] tasyāḥ purīṣe taṃ māsaṃ pitaras tasya śerate || 250 ||  
+३।२५०अ[२४०म] श्राद्धभुग् वृषलीतल्पं तद् अहर् यो ऽधिगच्छति ।  
+३।२५०च्[२४०म्च्] तस्याः पुरीषे तं मासं पितरस् तस्य शेरते ॥ २५० ॥  
 
 
-3.251a[241Ma] pṛṣṭvā svaditam ity evaṃ tṛptān ācāmayet tataḥ |  
-3.251c[241Mc] ācāntāṃś ca-anujānīyād abhito ramyatām iti || 251 ||  
+३।२५१अ[२४१म] पृष्ट्वा स्वदितम् इत्य् एवं तृप्तान् आचामयेत् ततः ।  
+३।२५१च्[२४१म्च्] आचान्तांश् च-अनुजानीयाद् अभितो रम्यताम् इति ॥ २५१ ॥  
 
 
-3.252a[242Ma] svadhā-astv ity eva taṃ brūyur brāhmaṇās tadanantaram |  
-3.252c[242Mc] svadhākāraḥ parā hy āṣīḥ sarveṣu pitṛkarmasu || 252 ||  
+३।२५२अ[२४२म] स्वधा-अस्त्व् इत्य् एव तं ब्रूयुर् ब्राह्मणास् तदनन्तरम् ।  
+३।२५२च्[२४२म्च्] स्वधाकारः परा ह्य् आषीः सर्वेषु पितृकर्मसु ॥ २५२ ॥  
 
 
-3.253a[243Ma] tato bhuktavatāṃ teṣām annaśeṣaṃ nivedayet |  
-3.253c[243Mc] yathā brūyus tathā kuryād anujñātas tato dvijaiḥ || 253 ||  
+३।२५३अ[२४३म] ततो भुक्तवतां तेषाम् अन्नशेषं निवेदयेत् ।  
+३।२५३च्[२४३म्च्] यथा ब्रूयुस् तथा कुर्याद् अनुज्ञातस् ततो द्विजैः ॥ २५३ ॥  
 
 
-3.254a[244Ma] pitrye svaditam ity eva vācyaṃ goṣṭhe tu suśṛtam |  
-3.254c[244Mc] sampannam ity abhyudaye daive rucitam ity api || 254 || 3.254c[244Mc]v/  \[M\] : “sampannam”  
+३।२५४अ[२४४म] पित्र्ये स्वदितम् इत्य् एव वाच्यं गोष्ठे तु सुशृतम् ।  
+३।२५४च्[२४४म्च्] सम्पन्नम् इत्य् अभ्युदये दैवे रुचितम् इत्य् अपि ॥ २५४ ॥ ३।२५४च्[२४४म्च्]व्।  \[म्\] : “सम्पन्नम्”  
 
 
-3.255a[245Ma] aparāhṇas tathā darbhā vāstusampādanaṃ tilāḥ | 3.255a[245Ma]v/  \[M\] : “sampādanaṃ”  
-3.255c[245Mc] sṛṣṭir mṛṣṭir dvijāś ca-agryāḥ śrāddhakarmasu sampadaḥ || 255 ||  
+३।२५५अ[२४५म] अपराह्णस् तथा दर्भा वास्तुसम्पादनं तिलाः । ३।२५५अ[२४५म]व्।  \[म्\] : “सम्पादनं”  
+३।२५५च्[२४५म्च्] सृष्टिर् मृष्टिर् द्विजाश् च-अग्र्याः श्राद्धकर्मसु सम्पदः ॥ २५५ ॥  
 
 
-3.256a[246Ma] darbhāḥ pavitraṃ pūrvāhṇo haviṣyāṇi ca sarvaśaḥ |  
-3.256c[246Mc] pavitraṃ yac ca pūrva.uktaṃ vijñeyā havyasampadaḥ || 256 ||  
+३।२५६अ[२४६म] दर्भाः पवित्रं पूर्वाह्णो हविष्याणि च सर्वशः ।  
+३।२५६च्[२४६म्च्] पवित्रं यच् च पूर्व।उक्तं विज्ञेया हव्यसम्पदः ॥ २५६ ॥  
 
 
-3.257a[247Ma] muni.annāni payaḥ somo māṃsaṃ yac ca-an.upaskṛtam |  
-3.257c[247Mc] aksāra.lavaṇaṃ ca-eva prakṛtyā havir ucyate || 257 ||  
+३।२५७अ[२४७म] मुनि।अन्नानि पयः सोमो मांसं यच् च-अन्।उपस्कृतम् ।  
+३।२५७च्[२४७म्च्] अक्सार।लवणं च-एव प्रकृत्या हविर् उच्यते ॥ २५७ ॥  
 
 
- 3.2.2.12. Concluding Rites
- \[O\]  edn 496-497,  \[O\]  tr. 121-122
-3.258a[248Ma] visṛjya brāhmaṇāṃs tāṃs tu niyato vāgyataḥ śuciḥ | 3.258a[248Ma]v/  \[M\] : “visarjya brāhmanāṃs tāṃs tu prayato vidhipūrvakam”  
-3.258c[248Mc] dakṣiṇāṃ diśam ākāṅkṣan yāceta-imān varān pitṝn || 258 ||  
+ ३।२।२।१२। चोन्च्लुदिन्ग् रितेस्
+ \[ओ\]  एद्न् ४९६-४९७,  \[ओ\]  त्र्। १२१-१२२
+३।२५८अ[२४८म] विसृज्य ब्राह्मणांस् तांस् तु नियतो वाग्यतः शुचिः । ३।२५८अ[२४८म]व्।  \[म्\] : “विसर्ज्य ब्राह्मनांस् तांस् तु प्रयतो विधिपूर्वकम्”  
+३।२५८च्[२४८म्च्] दक्षिणां दिशम् आकाङ्क्षन् याचेत-इमान् वरान् पितॄन् ॥ २५८ ॥  
 
 
-3.259a[249Ma] dātāro no 'bhivardhantāṃ vedāḥ santatir eva ca |  
-3.259c[249Mc] śraddhā ca no mā vyagamad bahudeyaṃ ca no 'stv iti || 259 ||  
+३।२५९अ[२४९म] दातारो नो ऽभिवर्धन्तां वेदाः सन्ततिर् एव च ।  
+३।२५९च्[२४९म्च्] श्रद्धा च नो मा व्यगमद् बहुदेयं च नो ऽस्त्व् इति ॥ २५९ ॥  
 
 
-3.260a[250Ma] evaṃ nirvapaṇaṃ kṛtvā piṇḍāṃs tāṃs tadanantaram |  
-3.260c[250Mc] gāṃ vipram ajam agniṃ vā prāśayed apsu vā kṣipet || 260 ||  
+३।२६०अ[२५०म] एवं निर्वपणं कृत्वा पिण्डांस् तांस् तदनन्तरम् ।  
+३।२६०च्[२५०म्च्] गां विप्रम् अजम् अग्निं वा प्राशयेद् अप्सु वा क्षिपेत् ॥ २६० ॥  
 
 
-3.261a[251Ma] piṇḍanirvapaṇaṃ ke cit parastād eva kurvate |  
-3.261c[251Mc] vayobhiḥ khādayanty anye prakṣipanty anale 'psu vā || 261 ||  
+३।२६१अ[२५१म] पिण्डनिर्वपणं के चित् परस्ताद् एव कुर्वते ।  
+३।२६१च्[२५१म्च्] वयोभिः खादयन्त्य् अन्ये प्रक्षिपन्त्य् अनले ऽप्सु वा ॥ २६१ ॥  
 
 
-3.262a[252Ma] pati.vratā dharmapatnī pitṛpūjana.tatparā |  
-3.262c[252Mc] madhyamaṃ tu tataḥ piṇḍam adyāt samyak sutārthinī || 262 ||  
+३।२६२अ[२५२म] पति।व्रता धर्मपत्नी पितृपूजन।तत्परा ।  
+३।२६२च्[२५२म्च्] मध्यमं तु ततः पिण्डम् अद्यात् सम्यक् सुतार्थिनी ॥ २६२ ॥  
 
 
-3.263a[253Ma] āyuṣmantaṃ sutaṃ sūte yaśo.medhāsamanvitam |  
-3.263c[253Mc] dhanavantaṃ prajāvantaṃ sāttvikaṃ dhārmikaṃ tathā || 263 ||  
+३।२६३अ[२५३म] आयुष्मन्तं सुतं सूते यशो।मेधासमन्वितम् ।  
+३।२६३च्[२५३म्च्] धनवन्तं प्रजावन्तं सात्त्विकं धार्मिकं तथा ॥ २६३ ॥  
 
 
-3.264a[254Ma] praksālya hastāv ācāmya jñātiprāyaṃ prakalpayet |  
-3.264c[254Mc] jñātibhyaḥ satkṛtaṃ dattvā bāndhavān api bhojayet || 264 || 3.264c[254Mc]v/  \[M\] : “datvā”  
+३।२६४अ[२५४म] प्रक्साल्य हस्ताव् आचाम्य ज्ञातिप्रायं प्रकल्पयेत् ।  
+३।२६४च्[२५४म्च्] ज्ञातिभ्यः सत्कृतं दत्त्वा बान्धवान् अपि भोजयेत् ॥ २६४ ॥ ३।२६४च्[२५४म्च्]व्।  \[म्\] : “दत्वा”  
 
 
-3.265a[255Ma] uccheṣaṇaṃ tu tat tiṣṭhed yāvad viprā visarjitāḥ | 3.265a[255Ma]v/  \[K\] : “yat tiṣṭhed”  
-3.265c[255Mc] tato gṛhabaliṃ kuryād iti dharmo vyavasthitaḥ || 265 ||  
+३।२६५अ[२५५म] उच्छेषणं तु तत् तिष्ठेद् यावद् विप्रा विसर्जिताः । ३।२६५अ[२५५म]व्।  \[क्\] : “यत् तिष्ठेद्”  
+३।२६५च्[२५५म्च्] ततो गृहबलिं कुर्याद् इति धर्मो व्यवस्थितः ॥ २६५ ॥  
 
 
- 3.2.2.13. Food at Ancestral Rites
- \[O\]  edn 497-499,  \[O\]  tr. 122
-3.266a[256Ma] havir yac cirarātrāya yac ca-ānantyāya kalpate |  
-3.266c[256Mc] pitṛbhyo vidhivad dattaṃ tat pravakṣyāmy aśeṣataḥ || 266 ||  
+ ३।२।२।१३। ड़ोओद् अत् अन्चेस्त्रल् रितेस्
+ \[ओ\]  एद्न् ४९७-४९९,  \[ओ\]  त्र्। १२२
+३।२६६अ[२५६म] हविर् यच् चिररात्राय यच् च-आनन्त्याय कल्पते ।  
+३।२६६च्[२५६म्च्] पितृभ्यो विधिवद् दत्तं तत् प्रवक्ष्याम्य् अशेषतः ॥ २६६ ॥  
 
 
-3.267a[257Ma] tilair vrīhi.yavair māṣair adbhir mūla.phalena vā |  
-3.267c[257Mc] dattena māsaṃ tṛpyanti vidhivat pitaro nṛnām || 267 ||  
+३।२६७अ[२५७म] तिलैर् व्रीहि।यवैर् माषैर् अद्भिर् मूल।फलेन वा ।  
+३।२६७च्[२५७म्च्] दत्तेन मासं तृप्यन्ति विधिवत् पितरो नृनाम् ॥ २६७ ॥  
 
 
-3.268a[258Ma] dvau māsau matsyamāṃsena trīn māsān hāriṇena tu |  
-3.268c[258Mc] aurabhreṇa-atha caturaḥ śākunena-atha pañca vai || 268 ||  
+३।२६८अ[२५८म] द्वौ मासौ मत्स्यमांसेन त्रीन् मासान् हारिणेन तु ।  
+३।२६८च्[२५८म्च्] औरभ्रेण-अथ चतुरः शाकुनेन-अथ पञ्च वै ॥ २६८ ॥  
 
 
-3.269a[259Ma] ṣaṇmāsāṃś chāgamāṃsena pārṣatena ca sapta vai |  
-3.269c[259Mc] aṣṭāv enasya māṃsena rauraveṇa nava-eva tu || 269 || 3.269c[259Mc]v/  \[M\] : “aiṇeyamāṃsena”  
+३।२६९अ[२५९म] षण्मासांश् छागमांसेन पार्षतेन च सप्त वै ।  
+३।२६९च्[२५९म्च्] अष्टाव् एनस्य मांसेन रौरवेण नव-एव तु ॥ २६९ ॥ ३।२६९च्[२५९म्च्]व्।  \[म्\] : “ऐणेयमांसेन”  
 
 
-3.270a[260Ma] daśamāsāṃs tu tṛpyanti varāha.mahiṣāmiṣaiḥ |  
-3.270c[260Mc] śaśa.kūrmayos tu māṃsena māsān ekādaśa-eva tu || 270 ||  
+३।२७०अ[२६०म] दशमासांस् तु तृप्यन्ति वराह।महिषामिषैः ।  
+३।२७०च्[२६०म्च्] शश।कूर्मयोस् तु मांसेन मासान् एकादश-एव तु ॥ २७० ॥  
 
 
-3.271a[261Ma] saṃvatsaraṃ tu gavyena payasā pāyasena ca | 3.271a[261Ma]v/  \[M\] : “saṃvatsare”  
-3.271c[261Mc] vārdhrīṇasasya māṃsena tṛptir dvādaśavārṣikī || 271 ||  
+३।२७१अ[२६१म] संवत्सरं तु गव्येन पयसा पायसेन च । ३।२७१अ[२६१म]व्।  \[म्\] : “संवत्सरे”  
+३।२७१च्[२६१म्च्] वार्ध्रीणसस्य मांसेन तृप्तिर् द्वादशवार्षिकी ॥ २७१ ॥  
 
 
-3.272a[262Ma] kālaśākaṃ mahāśalkāḥ khaṅga.lohāmiṣaṃ madhu |  
-3.272c[262Mc] ānantyāya-eva kalpyante muni.annāni ca sarvaśaḥ || 272 ||  
+३।२७२अ[२६२म] कालशाकं महाशल्काः खङ्ग।लोहामिषं मधु ।  
+३।२७२च्[२६२म्च्] आनन्त्याय-एव कल्प्यन्ते मुनि।अन्नानि च सर्वशः ॥ २७२ ॥  
 
 
- 3.2.2.14. Times for Ancestral Rites
- \[O\]  edn 499-502,  \[O\]  tr. 122-123
-3.273a[263Ma] yat kiṃ cin madhunā miśraṃ pradadyāt tu trayodaśīm |  
-3.273c[263Mc] tad apy akṣayam eva syād varṣāsu ca maghāsu ca || 273 ||  
+ ३।२।२।१४। तिमेस् ड़ोर् अन्चेस्त्रल् रितेस्
+ \[ओ\]  एद्न् ४९९-५०२,  \[ओ\]  त्र्। १२२-१२३
+३।२७३अ[२६३म] यत् किं चिन् मधुना मिश्रं प्रदद्यात् तु त्रयोदशीम् ।  
+३।२७३च्[२६३म्च्] तद् अप्य् अक्षयम् एव स्याद् वर्षासु च मघासु च ॥ २७३ ॥  
 
 
-3.274a[264Ma] api naḥ sa kule bhūyād yo no dadyāt trayodaśīm |  
-3.274c[264Mc] pāyasaṃ madhu.sarpirbhyāṃ prāk chāye kuñjarasya ca || 274 ||  
+३।२७४अ[२६४म] अपि नः स कुले भूयाद् यो नो दद्यात् त्रयोदशीम् ।  
+३।२७४च्[२६४म्च्] पायसं मधु।सर्पिर्भ्यां प्राक् छाये कुञ्जरस्य च ॥ २७४ ॥  
 
 
-3.275a[265Ma] yad yad dadāti vidhivat samyak śraddhāsamanvitaḥ |  
-3.275c[265Mc] tat tat pitṝṇāṃ bhavati paratra-anantam akṣayam || 275 ||  
+३।२७५अ[२६५म] यद् यद् ददाति विधिवत् सम्यक् श्रद्धासमन्वितः ।  
+३।२७५च्[२६५म्च्] तत् तत् पितॄणां भवति परत्र-अनन्तम् अक्षयम् ॥ २७५ ॥  
 
 
-3.276a[266Ma] kṛṣṇapakṣe daśamyādau varjayitvā caturdaśīm |  
-3.276c[266Mc] śrāddhe praśastās tithayo yathā-etā na tathā-itarāḥ || 276 ||  
+३।२७६अ[२६६म] कृष्णपक्षे दशम्यादौ वर्जयित्वा चतुर्दशीम् ।  
+३।२७६च्[२६६म्च्] श्राद्धे प्रशस्तास् तिथयो यथा-एता न तथा-इतराः ॥ २७६ ॥  
 
 
-3.277a[267Ma] yukṣu kurvan dina.ṛkṣeṣu sarvān kāmān samaśnute |  
-3.277c[267Mc] ayukṣu tu pitṝn sarvān prajāṃ prāpnoti puṣkalām || 277 ||  
+३।२७७अ[२६७म] युक्षु कुर्वन् दिन।ऋक्षेषु सर्वान् कामान् समश्नुते ।  
+३।२७७च्[२६७म्च्] अयुक्षु तु पितॄन् सर्वान् प्रजां प्राप्नोति पुष्कलाम् ॥ २७७ ॥  
 
 
-3.278a[268Ma] yathā ca-eva-aparaḥ pakṣaḥ pūrvapakṣād viśiṣyate |  
-3.278c[268Mc] tathā śrāddhasya pūrvāhṇād aparāhṇo viśiṣyate || 278 ||  
+३।२७८अ[२६८म] यथा च-एव-अपरः पक्षः पूर्वपक्षाद् विशिष्यते ।  
+३।२७८च्[२६८म्च्] तथा श्राद्धस्य पूर्वाह्णाद् अपराह्णो विशिष्यते ॥ २७८ ॥  
 
 
-3.279a[269Ma] prācīnāvītinā samyag apasavyam a.tandriṇā |  
-3.279c[269Mc] pitryam ā nidhanāt kāryaṃ vidhivad darbha.pāṇinā || 279 ||  
+३।२७९अ[२६९म] प्राचीनावीतिना सम्यग् अपसव्यम् अ।तन्द्रिणा ।  
+३।२७९च्[२६९म्च्] पित्र्यम् आ निधनात् कार्यं विधिवद् दर्भ।पाणिना ॥ २७९ ॥  
 
 
-3.280a[270Ma] rātrau śrāddhaṃ na kurvīta rākṣasī kīrtitā hi sā |  
-3.280c[270Mc] sandhyayor ubhayoś ca-eva sūrye ca-eva-acira.udite || 280 ||  
+३।२८०अ[२७०म] रात्रौ श्राद्धं न कुर्वीत राक्षसी कीर्तिता हि सा ।  
+३।२८०च्[२७०म्च्] सन्ध्ययोर् उभयोश् च-एव सूर्ये च-एव-अचिर।उदिते ॥ २८० ॥  
 
 
-3.281a[271Ma] anena vidhinā śrāddhaṃ trir abdasya-iha nirvapet |  
-3.281c[271Mc] hemanta.grīṣma.varṣāsu pāñcayajñikam anvaham || 281 ||  
+३।२८१अ[२७१म] अनेन विधिना श्राद्धं त्रिर् अब्दस्य-इह निर्वपेत् ।  
+३।२८१च्[२७१म्च्] हेमन्त।ग्रीष्म।वर्षासु पाञ्चयज्ञिकम् अन्वहम् ॥ २८१ ॥  
 
 
-3.282a[272Ma] na paitṛyajñiyo homo laukike 'gnau vidhīyate |  
-3.282c[272Mc] na darśena vinā śrāddham āhita.agner dvijanmanaḥ || 282 ||  
+३।२८२अ[२७२म] न पैतृयज्ञियो होमो लौकिके ऽग्नौ विधीयते ।  
+३।२८२च्[२७२म्च्] न दर्शेन विना श्राद्धम् आहित।अग्नेर् द्विजन्मनः ॥ २८२ ॥  
 
 
-3.283a[273Ma] yad eva tarpayaty adbhiḥ pitṝn snātvā dvijottamaḥ |  
-3.283c[273Mc] tena-eva kṛtsnam āpnoti pitṛyajñakriyāphalam || 283 ||  
+३।२८३अ[२७३म] यद् एव तर्पयत्य् अद्भिः पितॄन् स्नात्वा द्विजोत्तमः ।  
+३।२८३च्[२७३म्च्] तेन-एव कृत्स्नम् आप्नोति पितृयज्ञक्रियाफलम् ॥ २८३ ॥  
 
 
-3.284a[274Ma] vasūn vadanti tu pitṝn rudrāṃś ca-eva pitāmahān |  
-3.284c[274Mc] prapitāmahāṃs tathā-ādityān śrutir eṣā sanātanī || 284 ||  
+३।२८४अ[२७४म] वसून् वदन्ति तु पितॄन् रुद्रांश् च-एव पितामहान् ।  
+३।२८४च्[२७४म्च्] प्रपितामहांस् तथा-आदित्यान् श्रुतिर् एषा सनातनी ॥ २८४ ॥  
 
 
 # ३।२।३। चोन्च्लुसिओन्
@@ -2798,10 +2797,10 @@
 
 # छप्तेर् ४
  \[ओ\]  एद्न् ५०४-५५७,  \[ओ\]  त्र्। १२४-१३७
- 4.1. The Bath-Graduate
- \[O\]  edn 504-557,  \[O\]  tr. 124-137
-4.01a caturtham āyuṣo bhāgam uṣitvā-ādyaṃ gurau dvijāḥ |  
-4.01c dvitīyam āyuṣo bhāgaṃ kṛta.dāro gṛhe vaset || 1 ||  
+ ४।१। थे बथ्-ग्रदुअते
+ \[ओ\]  एद्न् ५०४-५५७,  \[ओ\]  त्र्। १२४-१३७
+४।०१अ चतुर्थम् आयुषो भागम् उषित्वा-आद्यं गुरौ द्विजाः ।  
+४।०१च् द्वितीयम् आयुषो भागं कृत।दारो गृहे वसेत् ॥ १ ॥  
 
 
 # ४।१।१। रिघ्त् लिवेलिहोओद्
@@ -2850,30 +2849,30 @@
 ४।१२च् सन्तोष।मूलं हि सुखं दुःख।मूलं विपर्ययः ॥ १२ ॥  
 
 
-# 4.1.2. Observances
- \[O\]  edn 506-507,  \[O\]  tr. 124-125
-4.13a ato 'nyatamayā vṛttyā jīvaṃs tu snātako dvijaḥ |  
-4.13c svarga.āyuṣya.yaśasyāni vratāṇi-imāni dhārayet || 13 || 4.13cv/  \[M\] : “svargya.āyuṣya.”  
+# ४।१।२। ओब्सेर्वन्चेस्
+ \[ओ\]  एद्न् ५०६-५०७,  \[ओ\]  त्र्। १२४-१२५
+४।१३अ अतो ऽन्यतमया वृत्त्या जीवंस् तु स्नातको द्विजः ।  
+४।१३च् स्वर्ग।आयुष्य।यशस्यानि व्रताणि-इमानि धारयेत् ॥ १३ ॥ ४।१३च्व्।  \[म्\] : “स्वर्ग्य।आयुष्य।”  
 
 
-4.14a veda.uditaṃ svakaṃ karma nityaṃ kuryād atandritaḥ |  
-4.14c tadd hi kurvan yathāśakti prāpnoti paramāṃ gatim || 14 ||  
+४।१४अ वेद।उदितं स्वकं कर्म नित्यं कुर्याद् अतन्द्रितः ।  
+४।१४च् तद्द् हि कुर्वन् यथाशक्ति प्राप्नोति परमां गतिम् ॥ १४ ॥  
 
 
-4.15a na-īheta-arthān prasaṅgena na viruddhena karmaṇā |  
-4.15c na vidyamāneṣv artheṣu na-ārtyām api yatas tataḥ || 15 || 4.15cv/  \[M\] : “na kalpamāneṣv artheṣu”  
+४।१५अ न-ईहेत-अर्थान् प्रसङ्गेन न विरुद्धेन कर्मणा ।  
+४।१५च् न विद्यमानेष्व् अर्थेषु न-आर्त्याम् अपि यतस् ततः ॥ १५ ॥ ४।१५च्व्।  \[म्\] : “न कल्पमानेष्व् अर्थेषु”  
 
 
-4.16a indriyārtheṣu sarveṣu na prasajyeta kāmataḥ |  
-4.16c atiprasaktiṃ ca-eteṣāṃ manasā sannivartayet || 16 ||  
+४।१६अ इन्द्रियार्थेषु सर्वेषु न प्रसज्येत कामतः ।  
+४।१६च् अतिप्रसक्तिं च-एतेषां मनसा सन्निवर्तयेत् ॥ १६ ॥  
 
 
-4.17a sarvān parityajed arthān svādhyāyasya virodhinaḥ |  
-4.17c yathā tathā-adhyāpayaṃs tu sā hy asya kṛtakṛtyatā || 17 ||  
+४।१७अ सर्वान् परित्यजेद् अर्थान् स्वाध्यायस्य विरोधिनः ।  
+४।१७च् यथा तथा-अध्यापयंस् तु सा ह्य् अस्य कृतकृत्यता ॥ १७ ॥  
 
 
-4.18a vayasaḥ karmaṇo 'rthasya śrutasya-abhijanasya ca |  
-4.18c veṣa.vāc.buddhi.sārūpyam ācaran vicared iha || 18 ||  
+४।१८अ वयसः कर्मणो ऽर्थस्य श्रुतस्य-अभिजनस्य च ।  
+४।१८च् वेष।वाच्।बुद्धि।सारूप्यम् आचरन् विचरेद् इह ॥ १८ ॥  
 
 
 # ४।१।३। स्तुद्य्
@@ -2886,38 +2885,38 @@
 ४।२०च् तथा तथा विजानाति विज्ञानं च-अस्य रोचते ॥ २० ॥  
 
 
-# 4.1.4. Ritual Duties
- \[O\]  edn 507-509,  \[O\]  tr. 125
-4.21a ṛṣiyajñaṃ devayajñaṃ bhūtayajñaṃ ca sarvadā |  
-4.21c nṛyajñaṃ pitṛyajñaṃ ca yathāśakti na hāpayet || 21 ||  
+# ४।१।४। रितुअल् दुतिएस्
+ \[ओ\]  एद्न् ५०७-५०९,  \[ओ\]  त्र्। १२५
+४।२१अ ऋषियज्ञं देवयज्ञं भूतयज्ञं च सर्वदा ।  
+४।२१च् नृयज्ञं पितृयज्ञं च यथाशक्ति न हापयेत् ॥ २१ ॥  
 
 
-4.22a etān eke mahāyajñān yajñaśāstravido janāḥ |  
-4.22c an.īhamānāḥ satatam indriyeṣv eva juhvati || 22 ||  
+४।२२अ एतान् एके महायज्ञान् यज्ञशास्त्रविदो जनाः ।  
+४।२२च् अन्।ईहमानाः सततम् इन्द्रियेष्व् एव जुह्वति ॥ २२ ॥  
 
 
-4.23a vācy eke juhvati prāṇaṃ prāṇe vācaṃ ca sarvadā |  
-4.23c vāci prāṇe ca paśyanto yajñanirvṛttim akṣayām || 23 ||  
+४।२३अ वाच्य् एके जुह्वति प्राणं प्राणे वाचं च सर्वदा ।  
+४।२३च् वाचि प्राणे च पश्यन्तो यज्ञनिर्वृत्तिम् अक्षयाम् ॥ २३ ॥  
 
 
-4.24a jñānena-eva-apare viprā yajanty etair makhaiḥ sadā | 4.24av/  \[M\] : “yajante tair makhaiḥ sadā”  
-4.24c jñāna.mūlām kriyām eṣāṃ paśyanto jñānacakṣuṣā || 24 ||  
+४।२४अ ज्ञानेन-एव-अपरे विप्रा यजन्त्य् एतैर् मखैः सदा । ४।२४अव्।  \[म्\] : “यजन्ते तैर् मखैः सदा”  
+४।२४च् ज्ञान।मूलाम् क्रियाम् एषां पश्यन्तो ज्ञानचक्षुषा ॥ २४ ॥  
 
 
-4.25a agnihotraṃ ca juhuyād ādi.ante dyu.niśoḥ sadā |  
-4.25c darśena ca-ardhamāsānte paurṇāmāsena ca-eva hi || 25 ||  
+४।२५अ अग्निहोत्रं च जुहुयाद् आदि।अन्ते द्यु।निशोः सदा ।  
+४।२५च् दर्शेन च-अर्धमासान्ते पौर्णामासेन च-एव हि ॥ २५ ॥  
 
 
-4.26a sasyānte navasasya.iṣṭyā tathā-ṛtu.ante dvijo 'dhvaraiḥ |  
-4.26c paśunā tv ayanasya-ādau samānte saumikair makhaiḥ || 26 || 4.26cv/  \[M\] : “ayanānte tu samānte”  
+४।२६अ सस्यान्ते नवसस्य।इष्ट्या तथा-ऋतु।अन्ते द्विजो ऽध्वरैः ।  
+४।२६च् पशुना त्व् अयनस्य-आदौ समान्ते सौमिकैर् मखैः ॥ २६ ॥ ४।२६च्व्।  \[म्\] : “अयनान्ते तु समान्ते”  
 
 
-4.27a na-an.iṣṭvā navasasya.iṣṭyā paśunā ca-agnimān dvijaḥ |  
-4.27c navānnam adyāt-māṃsaṃ vā dīrgham āyur jijīviṣuḥ || 27 ||  
+४।२७अ न-अन्।इष्ट्वा नवसस्य।इष्ट्या पशुना च-अग्निमान् द्विजः ।  
+४।२७च् नवान्नम् अद्यात्-मांसं वा दीर्घम् आयुर् जिजीविषुः ॥ २७ ॥  
 
 
-4.28a navena-an.arcitā hy asya paśuhavyena ca-agnayaḥ |  
-4.28c prāṇān eva-attum icchanti navānna.āmiṣagardhinaḥ || 28 ||  
+४।२८अ नवेन-अन्।अर्चिता ह्य् अस्य पशुहव्येन च-अग्नयः ।  
+४।२८च् प्राणान् एव-अत्तुम् इच्छन्ति नवान्न।आमिषगर्धिनः ॥ २८ ॥  
 
 
 # ४।१।५। रेचेप्तिओन् ओड़् गुएस्त्स्
@@ -2938,34 +2937,34 @@
 ४।३२च् संविभागश् च भूतेभ्यः कर्तव्यो ऽन्।उपरोधतः ॥ ३२ ॥  
 
 
-# 4.1.6. Rules of Conduct-I
- \[O\]  edn 510-511,  \[O\]  tr. 126
-4.33a rājato dhanam anvicchet saṃsīdan snātakaḥ kṣudhā |  
-4.33c yājya.antevāsinor vā-api na tv anyata iti sthitiḥ || 33 ||  
+# ४।१।६। रुलेस् ओड़् चोन्दुच्त्-इ
+ \[ओ\]  एद्न् ५१०-५११,  \[ओ\]  त्र्। १२६
+४।३३अ राजतो धनम् अन्विच्छेत् संसीदन् स्नातकः क्षुधा ।  
+४।३३च् याज्य।अन्तेवासिनोर् वा-अपि न त्व् अन्यत इति स्थितिः ॥ ३३ ॥  
 
 
-4.34a na sīdet snātako vipraḥ kṣudhā śaktaḥ kathaṃ cana |  
-4.34c na jīrṇa.malavad.vāsā bhavec ca vibhave sati || 34 ||  
+४।३४अ न सीदेत् स्नातको विप्रः क्षुधा शक्तः कथं चन ।  
+४।३४च् न जीर्ण।मलवद्।वासा भवेच् च विभवे सति ॥ ३४ ॥  
 
 
-4.35a kḷptakeśa.nakha.śmaśrur dāntaḥ śukla.ambaraḥ śuciḥ |  
-4.35c svādhyāye ca-eva yuktaḥ syān nityam ātmahiteṣu ca || 35 ||  
+४।३५अ कॢप्तकेश।नख।श्मश्रुर् दान्तः शुक्ल।अम्बरः शुचिः ।  
+४।३५च् स्वाध्याये च-एव युक्तः स्यान् नित्यम् आत्महितेषु च ॥ ३५ ॥  
 
 
-4.36a vaiṇavīṃ dhārayed yaṣṭiṃ sa.udakaṃ ca kamaṇḍalum |  
-4.36c yajñopavītaṃ vedaṃ ca śubhaṃ raukme ca kuṇḍale || 36 ||  
+४।३६अ वैणवीं धारयेद् यष्टिं स।उदकं च कमण्डलुम् ।  
+४।३६च् यज्ञोपवीतं वेदं च शुभं रौक्मे च कुण्डले ॥ ३६ ॥  
 
 
-4.37a na-īkṣeta-udyantam ādityaṃ na-astaṃ yāntaṃ kadā cana |  
-4.37c na-upasṛṣṭaṃ na vāristhaṃ na madhyaṃ nabhaso gatam || 37 ||  
+४।३७अ न-ईक्षेत-उद्यन्तम् आदित्यं न-अस्तं यान्तं कदा चन ।  
+४।३७च् न-उपसृष्टं न वारिस्थं न मध्यं नभसो गतम् ॥ ३७ ॥  
 
 
-4.38a na laṅghayed vatsatantrīṃ na pradhāvec ca varṣati |  
-4.38c na ca-udake nirīkṣeta svarūpam iti dhāraṇā || 38 ||  
+४।३८अ न लङ्घयेद् वत्सतन्त्रीं न प्रधावेच् च वर्षति ।  
+४।३८च् न च-उदके निरीक्षेत स्वरूपम् इति धारणा ॥ ३८ ॥  
 
 
-4.39a mṛdaṃ gāṃ daivataṃ vipraṃ ghṛtaṃ madhu catuṣpatham |  
-4.39c pradakṣiṇāni kurvīta prajñātāṃś ca vanaspatīn || 39 ||  
+४।३९अ मृदं गां दैवतं विप्रं घृतं मधु चतुष्पथम् ।  
+४।३९च् प्रदक्षिणानि कुर्वीत प्रज्ञातांश् च वनस्पतीन् ॥ ३९ ॥  
 
 
 # ४।१।७। रेलतिओन्स्हिप् wइथ् Wओमेन्
@@ -2990,38 +2989,38 @@
 ४।४४च् न पश्येत् प्रसवन्तीं च तेजस्।कामो द्विजोत्तमः ॥ ४४ ॥  
 
 
-# 4.1.8. Voiding Urine and Excrement
- \[O\]  edn 512-514,  \[O\]  tr. 126-127
-4.45a na-annam adyād ekavāsā na nagnaḥ snānam ācaret |  
-4.45c na mūtraṃ pathi kurvīta na bhasmani na govraje || 45 ||  
+# ४।१।८। वोइदिन्ग् उरिने अन्द् एxच्रेमेन्त्
+ \[ओ\]  एद्न् ५१२-५१४,  \[ओ\]  त्र्। १२६-१२७
+४।४५अ न-अन्नम् अद्याद् एकवासा न नग्नः स्नानम् आचरेत् ।  
+४।४५च् न मूत्रं पथि कुर्वीत न भस्मनि न गोव्रजे ॥ ४५ ॥  
 
 
-4.46a na phālakṛṣṭe na jale na cityāṃ na ca parvate |  
-4.46c na jīrṇadevāyatane na valmīke kadā cana || 46 ||  
+४।४६अ न फालकृष्टे न जले न चित्यां न च पर्वते ।  
+४।४६च् न जीर्णदेवायतने न वल्मीके कदा चन ॥ ४६ ॥  
 
 
-4.47a na sa.sattveṣu garteṣu na gacchann api na sthitaḥ |  
-4.47c na nadītīram āsādya na ca parvatamastake || 47 ||  
+४।४७अ न स।सत्त्वेषु गर्तेषु न गच्छन्न् अपि न स्थितः ।  
+४।४७च् न नदीतीरम् आसाद्य न च पर्वतमस्तके ॥ ४७ ॥  
 
 
-4.48a vāyu.agni.vipram ādityam apaḥ paśyaṃs tathā-eva gāḥ |  
-4.48c na kadā cana kurvīta viṣ.mūtrasya visarjanam || 48 ||  
+४।४८अ वायु।अग्नि।विप्रम् आदित्यम् अपः पश्यंस् तथा-एव गाः ।  
+४।४८च् न कदा चन कुर्वीत विष्।मूत्रस्य विसर्जनम् ॥ ४८ ॥  
 
 
-4.49a[50Ma] tiraskṛtya-uccaret kāṣṭha.loṣṭha.patra.tṛṇādinā | 4.49a[50Ma]v/  \[M\] : “tṛṇādi ca”  
-4.49c[50Mc] niyamya prayato vācaṃ saṃvītāṅgo 'vaguṇṭhitaḥ || 49 ||  
+४।४९अ[५०म] तिरस्कृत्य-उच्चरेत् काष्ठ।लोष्ठ।पत्र।तृणादिना । ४।४९अ[५०म]व्।  \[म्\] : “तृणादि च”  
+४।४९च्[५०म्च्] नियम्य प्रयतो वाचं संवीताङ्गो ऽवगुण्ठितः ॥ ४९ ॥  
 
 
-4.50a[51Ma] mūtra.uccāra.samutsargaṃ divā kuryād udaṅ.mukhaḥ |  
-4.50c[51Mc] dakṣiṇā.abhimukho rātrau sandhyāyoś ca yathā divā || 50 ||  
+४।५०अ[५१म] मूत्र।उच्चार।समुत्सर्गं दिवा कुर्याद् उदङ्।मुखः ।  
+४।५०च्[५१म्च्] दक्षिणा।अभिमुखो रात्रौ सन्ध्यायोश् च यथा दिवा ॥ ५० ॥  
 
 
-4.51a[52Ma] chāyāyām andhakāre vā rātrāv ahani vā dvijaḥ |  
-4.51c[52Mc] yathāsukha.mukhaḥ kuryāt prāṇabādha.bhayeṣu ca || 51 ||  
+४।५१अ[५२म] छायायाम् अन्धकारे वा रात्राव् अहनि वा द्विजः ।  
+४।५१च्[५२म्च्] यथासुख।मुखः कुर्यात् प्राणबाध।भयेषु च ॥ ५१ ॥  
 
 
-4.52a[49Ma] prati.agniṃ prati.sūryaṃ ca prati.soma.udaka.dvijam |  
-4.52c[49Mc] prati.gu prati.vātaṃ ca prajñā naśyati mehataḥ || 52 || 4.52c[49Mc]v/  \[K\] : “prati.gāṃ prati.vātaṃ”  
+४।५२अ[४९म] प्रति।अग्निं प्रति।सूर्यं च प्रति।सोम।उदक।द्विजम् ।  
+४।५२च्[४९म्च्] प्रति।गु प्रति।वातं च प्रज्ञा नश्यति मेहतः ॥ ५२ ॥ ४।५२च्[४९म्च्]व्।  \[क्\] : “प्रति।गां प्रति।वातं”  
 
 
 # ४।१।९। रुलेस् ओड़् चोन्दुच्त्-इइ
@@ -3150,38 +3149,38 @@
 ४।८३च् शिरःस्नातश् च तैलेन न-अङ्गं किं चिद् अपि स्पृशेत् ॥ ८३ ॥  
 
 
-# 4.1.10. People from Whom Gifts May Not Be Accepted
- \[O\]  edn 520-522,  \[O\]  tr. 128
-4.84a na rājñaḥ pratigṛhṇīyād arājanyaprasūtitaḥ |  
-4.84c sūnā.cakra.dhvajavatāṃ veśena-eva ca jīvatām || 84 ||  
+# ४।१।१०। पेओप्ले ड़्रोम् Wहोम् गिड़्त्स् मय् नोत् बे अच्चेप्तेद्
+ \[ओ\]  एद्न् ५२०-५२२,  \[ओ\]  त्र्। १२८
+४।८४अ न राज्ञः प्रतिगृह्णीयाद् अराजन्यप्रसूतितः ।  
+४।८४च् सूना।चक्र।ध्वजवतां वेशेन-एव च जीवताम् ॥ ८४ ॥  
 
 
-4.85a daśasūnā.samaṃ cakraṃ daśacakra.samo dhvajaḥ |  
-4.85c daśadhvaja.samo veśo daśaveśa.samo nṛpaḥ || 85 ||  
+४।८५अ दशसूना।समं चक्रं दशचक्र।समो ध्वजः ।  
+४।८५च् दशध्वज।समो वेशो दशवेश।समो नृपः ॥ ८५ ॥  
 
 
-4.86a daśa sūṇāsahasrāṇi yo vāhayati saunikaḥ |  
-4.86c tena tulyaḥ smṛto rājā ghoras tasya pratigrahaḥ || 86 ||  
+४।८६अ दश सूणासहस्राणि यो वाहयति सौनिकः ।  
+४।८६च् तेन तुल्यः स्मृतो राजा घोरस् तस्य प्रतिग्रहः ॥ ८६ ॥  
 
 
-4.87a yo rājñaḥ pratigṛhṇāti lubdhasya-ucchāstravartinaḥ |  
-4.87c sa paryāyeṇa yāti-imān narakān ekaviṃśatim || 87 ||  
+४।८७अ यो राज्ञः प्रतिगृह्णाति लुब्धस्य-उच्छास्त्रवर्तिनः ।  
+४।८७च् स पर्यायेण याति-इमान् नरकान् एकविंशतिम् ॥ ८७ ॥  
 
 
-4.88a tāmisram andhatāmisraṃ mahāraurava.rauravau |  
-4.88c narakaṃ kālasūtraṃ ca mahānarakam eva ca || 88 ||  
+४।८८अ तामिस्रम् अन्धतामिस्रं महारौरव।रौरवौ ।  
+४।८८च् नरकं कालसूत्रं च महानरकम् एव च ॥ ८८ ॥  
 
 
-4.89a sañjīvanaṃ mahāvīciṃ tapanaṃ sampratāpanam |  
-4.89c saṃhātaṃ ca sa.kākolaṃ kuḍmalaṃ pratimūrtikam || 89 || 4.89cv/  \[M\] : “pūtimṛttikam”  
+४।८९अ सञ्जीवनं महावीचिं तपनं सम्प्रतापनम् ।  
+४।८९च् संहातं च स।काकोलं कुड्मलं प्रतिमूर्तिकम् ॥ ८९ ॥ ४।८९च्व्।  \[म्\] : “पूतिमृत्तिकम्”  
 
 
-4.90a lohaśaṅkum ṛjīṣaṃ ca panthānaṃ śālmalīṃ nadīm |  
-4.90c asipatravanaṃ ca-eva lohadārakam eva ca || 90 ||  
+४।९०अ लोहशङ्कुम् ऋजीषं च पन्थानं शाल्मलीं नदीम् ।  
+४।९०च् असिपत्रवनं च-एव लोहदारकम् एव च ॥ ९० ॥  
 
 
-4.91a etad vidanto vidvāṃso brāhmaṇā brahmavādinaḥ |  
-4.91c na rājñaḥ pratigṛhṇanti pretya śreyo 'bhikāṅkṣiṇaḥ || 91 ||  
+४।९१अ एतद् विदन्तो विद्वांसो ब्राह्मणा ब्रह्मवादिनः ।  
+४।९१च् न राज्ञः प्रतिगृह्णन्ति प्रेत्य श्रेयो ऽभिकाङ्क्षिणः ॥ ९१ ॥  
 
 
 # ४।१।११। मोर्निन्ग् दुतिएस्
@@ -3198,30 +3197,30 @@
 ४।९४च् प्रज्ञां यशश् च कीर्तिं च ब्रह्मवर्चसम् एव च ॥ ९४ ॥  
 
 
-# 4.1.12. Vedic Study
- \[O\]  edn 523-524,  \[O\]  tr. 128-129
-4.95a śrāvaṇyāṃ prauṣṭhapadyāṃ vā-apy upākṛtya yathāvidhi |  
-4.95c yuktaś chandāṃsy adhīyīta māsān vipro 'rdhapañcamān || 95 ||  
+# ४।१।१२। वेदिच् स्तुद्य्
+ \[ओ\]  एद्न् ५२३-५२४,  \[ओ\]  त्र्। १२८-१२९
+४।९५अ श्रावण्यां प्रौष्ठपद्यां वा-अप्य् उपाकृत्य यथाविधि ।  
+४।९५च् युक्तश् छन्दांस्य् अधीयीत मासान् विप्रो ऽर्धपञ्चमान् ॥ ९५ ॥  
 
 
-4.96a puṣye tu chandasāṃ kuryād bahir utsarjanaṃ dvijaḥ |  
-4.96c māghaśuklasya vā prāpte pūrvāhṇe prathame 'hani || 96 ||  
+४।९६अ पुष्ये तु छन्दसां कुर्याद् बहिर् उत्सर्जनं द्विजः ।  
+४।९६च् माघशुक्लस्य वा प्राप्ते पूर्वाह्णे प्रथमे ऽहनि ॥ ९६ ॥  
 
 
-4.97a yathāśāstraṃ tu kṛtvā-evam utsargaṃ chandasāṃ bahiḥ |  
-4.97c viramet pakṣiṇīṃ rātriṃ tad eva-ekam ahar.niśam || 97 ||  
+४।९७अ यथाशास्त्रं तु कृत्वा-एवम् उत्सर्गं छन्दसां बहिः ।  
+४।९७च् विरमेत् पक्षिणीं रात्रिं तद् एव-एकम् अहर्।निशम् ॥ ९७ ॥  
 
 
-4.98a ata ūrdhvaṃ tu chandāṃsi śukleṣu niyataḥ paṭhet |  
-4.98c vedāṅgāni ca sarvāṇi kṛṣṇapakṣeṣu sampaṭhet || 98 ||  
+४।९८अ अत ऊर्ध्वं तु छन्दांसि शुक्लेषु नियतः पठेत् ।  
+४।९८च् वेदाङ्गानि च सर्वाणि कृष्णपक्षेषु सम्पठेत् ॥ ९८ ॥  
 
 
-4.99a na-avispaṣṭam adhīyīta na śūdrajanasannidhau |  
-4.99c na niśānte pariśrānto brahma-adhītya punaḥ svapet || 99 ||  
+४।९९अ न-अविस्पष्टम् अधीयीत न शूद्रजनसन्निधौ ।  
+४।९९च् न निशान्ते परिश्रान्तो ब्रह्म-अधीत्य पुनः स्वपेत् ॥ ९९ ॥  
 
 
-4.100a yathā.uditena vidhinā nityaṃ chandaskṛtaṃ paṭhet |  
-4.100c brahma chandaskṛtaṃ ca-eva dvijo yukto hy anāpadi || 100 ||  
+४।१००अ यथा।उदितेन विधिना नित्यं छन्दस्कृतं पठेत् ।  
+४।१००च् ब्रह्म छन्दस्कृतं च-एव द्विजो युक्तो ह्य् अनापदि ॥ १०० ॥  
 
 
 # ४।१।१३। सुस्पेन्सिओन् ओड़् वेदिच् रेचिततिओन्
@@ -3334,142 +3333,142 @@
 ४।१२७च् स्वाध्यायभूमिं च-अशुद्धम् आत्मानं च-अशुचिं द्विजः ॥ १२७ ॥  
 
 
-# 4.1.14. Rules of Conduct-III
- \[O\]  edn 529-535,  \[O\]  tr. 130-132
-4.128a amāvāsyām aṣṭamīṃ ca paurṇamāsīṃ caturdaśīm |  
-4.128c brahmacārī bhaven nityam apy ṛtau snātako dvijaḥ || 128 ||  
+# ४।१।१४। रुलेस् ओड़् चोन्दुच्त्-इइइ
+ \[ओ\]  एद्न् ५२९-५३५,  \[ओ\]  त्र्। १३०-१३२
+४।१२८अ अमावास्याम् अष्टमीं च पौर्णमासीं चतुर्दशीम् ।  
+४।१२८च् ब्रह्मचारी भवेन् नित्यम् अप्य् ऋतौ स्नातको द्विजः ॥ १२८ ॥  
 
 
-4.129a na snānam ācared bhuktvā na-āturo na mahāniśi |  
-4.129c na vāsobhiḥ saha-ajasraṃ na-avijñāte jalāśaye || 129 ||  
+४।१२९अ न स्नानम् आचरेद् भुक्त्वा न-आतुरो न महानिशि ।  
+४।१२९च् न वासोभिः सह-अजस्रं न-अविज्ञाते जलाशये ॥ १२९ ॥  
 
 
-4.130a devatānāṃ guro rājñaḥ snātaka.ācāryayos tathā |  
-4.130c na-ākrāmet kāmataś chāyāṃ babhruṇo dīkṣitasya ca || 130 ||  
+४।१३०अ देवतानां गुरो राज्ञः स्नातक।आचार्ययोस् तथा ।  
+४।१३०च् न-आक्रामेत् कामतश् छायां बभ्रुणो दीक्षितस्य च ॥ १३० ॥  
 
 
-4.131a madhyandine 'rdharātre ca śrāddhaṃ bhuktvā ca sa.āmiṣam |  
-4.131c sandhyayor ubhayoś ca-eva na seveta catuṣpatham || 131 ||  
+४।१३१अ मध्यन्दिने ऽर्धरात्रे च श्राद्धं भुक्त्वा च स।आमिषम् ।  
+४।१३१च् सन्ध्ययोर् उभयोश् च-एव न सेवेत चतुष्पथम् ॥ १३१ ॥  
 
 
-4.132a udvartanam apasnānaṃ viṣ.mūtre raktam eva ca |  
-4.132c śleśma.niṣṭhyūta.vāntāni na-adhitiṣṭhet tu kāmataḥ || 132 ||  
+४।१३२अ उद्वर्तनम् अपस्नानं विष्।मूत्रे रक्तम् एव च ।  
+४।१३२च् श्लेश्म।निष्ठ्यूत।वान्तानि न-अधितिष्ठेत् तु कामतः ॥ १३२ ॥  
 
 
-4.133a vairiṇaṃ na-upaseveta sahāyaṃ ca-eva vairiṇaḥ |  
-4.133c adhārmikaṃ taskaraṃ ca parasya-eva ca yoṣitaṃ || 133 ||  
+४।१३३अ वैरिणं न-उपसेवेत सहायं च-एव वैरिणः ।  
+४।१३३च् अधार्मिकं तस्करं च परस्य-एव च योषितं ॥ १३३ ॥  
 
 
-4.134a na hi-īdṛśam an.āyuṣyaṃ loke kiṃ cana vidyate |  
-4.134c yādṛśaṃ puruṣasya-iha paradāra.upasevanam || 134 ||  
+४।१३४अ न हि-ईदृशम् अन्।आयुष्यं लोके किं चन विद्यते ।  
+४।१३४च् यादृशं पुरुषस्य-इह परदार।उपसेवनम् ॥ १३४ ॥  
 
 
-4.135a kṣatriyaṃ ca-eva sarpaṃ ca brāhmaṇaṃ ca bahu.śrutam |  
-4.135c na-avamanyeta vai bhūṣṇuḥ kṛśān api kadā cana || 135 ||  
+४।१३५अ क्षत्रियं च-एव सर्पं च ब्राह्मणं च बहु।श्रुतम् ।  
+४।१३५च् न-अवमन्येत वै भूष्णुः कृशान् अपि कदा चन ॥ १३५ ॥  
 
 
-4.136a etat trayaṃ hi puruṣaṃ nirdahed avamānitam |  
-4.136c tasmād etat trayaṃ nityaṃ na-avamanyeta buddhimān || 136 ||  
+४।१३६अ एतत् त्रयं हि पुरुषं निर्दहेद् अवमानितम् ।  
+४।१३६च् तस्माद् एतत् त्रयं नित्यं न-अवमन्येत बुद्धिमान् ॥ १३६ ॥  
 
 
-4.137a na-ātmānam avamanyeta purvābhir a.samṛddhibhiḥ |  
-4.137c ā mṛtyoḥ śriyam anvicchen na-enāṃ manyeta dur.labhām || 137 ||  
+४।१३७अ न-आत्मानम् अवमन्येत पुर्वाभिर् अ।समृद्धिभिः ।  
+४।१३७च् आ मृत्योः श्रियम् अन्विच्छेन् न-एनां मन्येत दुर्।लभाम् ॥ १३७ ॥  
 
 
-4.138a satyaṃ brūyāt priyaṃ brūyān na brūyāt satyam apriyam |  
-4.138c priyaṃ ca na-anṛtaṃ brūyād eṣa dharmaḥ sanātanaḥ || 138 ||  
+४।१३८अ सत्यं ब्रूयात् प्रियं ब्रूयान् न ब्रूयात् सत्यम् अप्रियम् ।  
+४।१३८च् प्रियं च न-अनृतं ब्रूयाद् एष धर्मः सनातनः ॥ १३८ ॥  
 
 
-4.139a bhadraṃ bhadram iti brūyād bhadram ity eva vā vadet |  
-4.139c śuṣka.vairaṃ vivādaṃ ca na kuryāt kena cit saha || 139 ||  
+४।१३९अ भद्रं भद्रम् इति ब्रूयाद् भद्रम् इत्य् एव वा वदेत् ।  
+४।१३९च् शुष्क।वैरं विवादं च न कुर्यात् केन चित् सह ॥ १३९ ॥  
 
 
-4.140a na-atikalyaṃ na-atisāyaṃ na-atimadhyandine sthite |  
-4.140c na-ajñātena samaṃ gacchen na-eko na vṛṣalaiḥ saha || 140 ||  
+४।१४०अ न-अतिकल्यं न-अतिसायं न-अतिमध्यन्दिने स्थिते ।  
+४।१४०च् न-अज्ञातेन समं गच्छेन् न-एको न वृषलैः सह ॥ १४० ॥  
 
 
-4.141a hīna.aṅgān atirikta.aṅgān vidyā.hīnān vayo.'dhikān | 4.141av/  \[M\] : “vayo'tigān”  
-4.141c rūpa.draviṇa.hīnāṃś ca jāti.hīnāṃś ca na-ākṣipet || 141 || 4.141cv/  \[M\] : “rūpadravya.hīnāṃś ca”  
+४।१४१अ हीन।अङ्गान् अतिरिक्त।अङ्गान् विद्या।हीनान् वयो।ऽधिकान् । ४।१४१अव्।  \[म्\] : “वयोऽतिगान्”  
+४।१४१च् रूप।द्रविण।हीनांश् च जाति।हीनांश् च न-आक्षिपेत् ॥ १४१ ॥ ४।१४१च्व्।  \[म्\] : “रूपद्रव्य।हीनांश् च”  
 
 
-4.142a na spṛśet pāṇinā-ucchiṣṭo vipro go.brāhmaṇa.analāṇ |  
-4.142c na ca-api paśyed aśuciḥ sustho jyotirgaṇān divā || 142 || 4.142cv/  \[M\] : “svastho jyotirgaṇān divi”  
+४।१४२अ न स्पृशेत् पाणिना-उच्छिष्टो विप्रो गो।ब्राह्मण।अनलाण् ।  
+४।१४२च् न च-अपि पश्येद् अशुचिः सुस्थो ज्योतिर्गणान् दिवा ॥ १४२ ॥ ४।१४२च्व्।  \[म्\] : “स्वस्थो ज्योतिर्गणान् दिवि”  
 
 
-4.143a spṛṣṭvā-etān aśucir nityam adbhiḥ prāṇān upaspṛśet |  
-4.143c gātrāṇi ca-eva sarvāṇi nābhiṃ pāṇitalena tu || 143 ||  
+४।१४३अ स्पृष्ट्वा-एतान् अशुचिर् नित्यम् अद्भिः प्राणान् उपस्पृशेत् ।  
+४।१४३च् गात्राणि च-एव सर्वाणि नाभिं पाणितलेन तु ॥ १४३ ॥  
 
 
-4.144a an.āturaḥ svāni khāni na spṛśed animittataḥ |  
-4.144c romāṇi ca rahasyāni sarvāṇy eva vivarjayet || 144 ||  
+४।१४४अ अन्।आतुरः स्वानि खानि न स्पृशेद् अनिमित्ततः ।  
+४।१४४च् रोमाणि च रहस्यानि सर्वाण्य् एव विवर्जयेत् ॥ १४४ ॥  
 
 
-4.145a maṅgala.ācārayuktaḥ syāt prayata.ātmā jita.indriyaḥ |  
-4.145c japec ca juhuyāc ca-eva nityam agnim atandritaḥ || 145 ||  
+४।१४५अ मङ्गल।आचारयुक्तः स्यात् प्रयत।आत्मा जित।इन्द्रियः ।  
+४।१४५च् जपेच् च जुहुयाच् च-एव नित्यम् अग्निम् अतन्द्रितः ॥ १४५ ॥  
 
 
-4.146a maṅgala.ācārayuktānāṃ nityaṃ ca prayata.ātmanām |  
-4.146c japatāṃ juhvatāṃ ca-eva vinipāto na vidyate || 146 ||  
+४।१४६अ मङ्गल।आचारयुक्तानां नित्यं च प्रयत।आत्मनाम् ।  
+४।१४६च् जपतां जुह्वतां च-एव विनिपातो न विद्यते ॥ १४६ ॥  
 
 
-4.147a vedam eva-abhyasen nityaṃ yathākālam atandritaḥ | 4.147av/  \[M\] : “vedam eva japen”  
-4.147c taṃ hy asya-āhuḥ paraṃ dharmam upadharmo 'nya ucyate || 147 ||  
+४।१४७अ वेदम् एव-अभ्यसेन् नित्यं यथाकालम् अतन्द्रितः । ४।१४७अव्।  \[म्\] : “वेदम् एव जपेन्”  
+४।१४७च् तं ह्य् अस्य-आहुः परं धर्मम् उपधर्मो ऽन्य उच्यते ॥ १४७ ॥  
 
 
-4.148a vedābhyāsena satataṃ śaucena tapasā-eva ca |  
-4.148c adroheṇa ca bhūtānāṃ jātiṃ smarati paurvikīm || 148 ||  
+४।१४८अ वेदाभ्यासेन सततं शौचेन तपसा-एव च ।  
+४।१४८च् अद्रोहेण च भूतानां जातिं स्मरति पौर्विकीम् ॥ १४८ ॥  
 
 
-4.149a paurvikīṃ saṃsmaran jātiṃ brahma-eva-abhyasyate punaḥ | 4.149av/  \[M\] : “dvijaḥ”  
-4.149c brahmābhyāsena ca-ajasram anantaṃ sukham aśnute || 149 ||  
+४।१४९अ पौर्विकीं संस्मरन् जातिं ब्रह्म-एव-अभ्यस्यते पुनः । ४।१४९अव्।  \[म्\] : “द्विजः”  
+४।१४९च् ब्रह्माभ्यासेन च-अजस्रम् अनन्तं सुखम् अश्नुते ॥ १४९ ॥  
 
 
-4.150a sāvitrān-śāntihomāṃś ca kuryāt parvasu nityaśaḥ | 4.150av/  \[M\] : “sāvitrān śāntihomāṃś”  
-4.150c pitṝṃś ca-eva-aṣṭakāsv arcen nityam anvaṣṭakāsu ca || 150 ||  
+४।१५०अ सावित्रान्-शान्तिहोमांश् च कुर्यात् पर्वसु नित्यशः । ४।१५०अव्।  \[म्\] : “सावित्रान् शान्तिहोमांश्”  
+४।१५०च् पितॄंश् च-एव-अष्टकास्व् अर्चेन् नित्यम् अन्वष्टकासु च ॥ १५० ॥  
 
 
-4.151a dūrād āvasathān mūtraṃ dūrāt pādāvasecanam |  
-4.151c ucchiṣtānna.niṣekaṃ ca dūrād eva samācaret || 151 ||  
+४।१५१अ दूराद् आवसथान् मूत्रं दूरात् पादावसेचनम् ।  
+४।१५१च् उच्छिष्तान्न।निषेकं च दूराद् एव समाचरेत् ॥ १५१ ॥  
 
 
-4.152a maitraṃ prasādhanaṃ snānaṃ dantadhāvanam añjanam |  
-4.152c pūrvāhṇa eva kurvīta devatānāṃ ca pūjanam || 152 ||  
+४।१५२अ मैत्रं प्रसाधनं स्नानं दन्तधावनम् अञ्जनम् ।  
+४।१५२च् पूर्वाह्ण एव कुर्वीत देवतानां च पूजनम् ॥ १५२ ॥  
 
 
-4.153a daivatāny abhigacchet tu dhārmikāṃś ca dvijottamān |  
-4.153c īśvaraṃ ca-eva rakṣārthaṃ gurūn eva ca parvasu || 153 ||  
+४।१५३अ दैवतान्य् अभिगच्छेत् तु धार्मिकांश् च द्विजोत्तमान् ।  
+४।१५३च् ईश्वरं च-एव रक्षार्थं गुरून् एव च पर्वसु ॥ १५३ ॥  
 
 
-4.154a abhivādayed vṛddhāṃś ca dadyāc ca-eva-āsanaṃ svakam |  
-4.154c kṛta.añjalir upāsīta gacchataḥ pṛṣṭhato 'nviyāt || 154 ||  
+४।१५४अ अभिवादयेद् वृद्धांश् च दद्याच् च-एव-आसनं स्वकम् ।  
+४।१५४च् कृत।अञ्जलिर् उपासीत गच्छतः पृष्ठतो ऽन्वियात् ॥ १५४ ॥  
 
 
-4.155a śruti.smṛti.uditaṃ samyaṅ nibaddhaṃ sveṣu karmasu |  
-4.155c dharmamūlaṃ niṣeveta sad.ācāram atandritaḥ || 155 ||  
+४।१५५अ श्रुति।स्मृति।उदितं सम्यङ् निबद्धं स्वेषु कर्मसु ।  
+४।१५५च् धर्ममूलं निषेवेत सद्।आचारम् अतन्द्रितः ॥ १५५ ॥  
 
 
-4.156a ācārāt-labhate hy āyur ācārād īpsitāḥ prajāḥ |  
-4.156c ācārād dhanam akṣayyam ācāro hanty alakṣaṇam || 156 ||  
+४।१५६अ आचारात्-लभते ह्य् आयुर् आचाराद् ईप्सिताः प्रजाः ।  
+४।१५६च् आचाराद् धनम् अक्षय्यम् आचारो हन्त्य् अलक्षणम् ॥ १५६ ॥  
 
 
-4.157a dur.ācāro hi puruṣo loke bhavati ninditaḥ |  
-4.157c duḥkhabhāgī ca satataṃ vyādhito 'lpa.āyur eva ca || 157 ||  
+४।१५७अ दुर्।आचारो हि पुरुषो लोके भवति निन्दितः ।  
+४।१५७च् दुःखभागी च सततं व्याधितो ऽल्प।आयुर् एव च ॥ १५७ ॥  
 
 
-4.158a sarvalakṣaṇa.hīno 'pi yaḥ sadācāravān naraḥ |  
-4.158c śraddadhāno 'n.asūyaś ca śataṃ varṣāṇi jīvati || 158 ||  
+४।१५८अ सर्वलक्षण।हीनो ऽपि यः सदाचारवान् नरः ।  
+४।१५८च् श्रद्दधानो ऽन्।असूयश् च शतं वर्षाणि जीवति ॥ १५८ ॥  
 
 
-4.159a yad yat paravaśaṃ karma tat tad yatnena varjayet |  
-4.159c yad yad ātmavaśaṃ tu syāt tat tat seveta yatnataḥ || 159 ||  
+४।१५९अ यद् यत् परवशं कर्म तत् तद् यत्नेन वर्जयेत् ।  
+४।१५९च् यद् यद् आत्मवशं तु स्यात् तत् तत् सेवेत यत्नतः ॥ १५९ ॥  
 
 
-4.160a sarvaṃ paravaśaṃ duḥkhaṃ sarvam ātmavaśaṃ sukham |  
-4.160c etad vidyāt samāsena lakṣaṇaṃ sukha.duḥkhayoḥ || 160 ||  
+४।१६०अ सर्वं परवशं दुःखं सर्वम् आत्मवशं सुखम् ।  
+४।१६०च् एतद् विद्यात् समासेन लक्षणं सुख।दुःखयोः ॥ १६० ॥  
 
 
-4.161a yat karma kurvato 'sya syāt paritoṣo 'ntarātmanaḥ |  
-4.161c tat prayatnena kurvīta viparītaṃ tu varjayet || 161 ||  
+४।१६१अ यत् कर्म कुर्वतो ऽस्य स्यात् परितोषो ऽन्तरात्मनः ।  
+४।१६१च् तत् प्रयत्नेन कुर्वीत विपरीतं तु वर्जयेत् ॥ १६१ ॥  
 
 
 # ४।१।१५। अवोइदिन्ग् विओलेन्चे
@@ -3506,46 +3505,46 @@
 ४।१६९च् न ताडयेत् तृणेन-अपि न गात्रात् स्रावयेद् असृक् ॥ १६९ ॥  
 
 
-# 4.1.16. Following the Path of Righteousness
- \[O\]  edn 537-539,  \[O\]  tr. 132-133
-4.170a a.dhārmiko naro yo hi yasya ca-apy anṛtaṃ dhanam |  
-4.170c hiṃsārataś ca yo nityaṃ na-iha-asau sukham edhate || 170 || 4.170cv/  \[M\] : “hiṃsāratiś”  
+# ४।१।१६। ड़ोल्लोwइन्ग् थे पथ् ओड़् रिघ्तेओउस्नेस्स्
+ \[ओ\]  एद्न् ५३७-५३९,  \[ओ\]  त्र्। १३२-१३३
+४।१७०अ अ।धार्मिको नरो यो हि यस्य च-अप्य् अनृतं धनम् ।  
+४।१७०च् हिंसारतश् च यो नित्यं न-इह-असौ सुखम् एधते ॥ १७० ॥ ४।१७०च्व्।  \[म्\] : “हिंसारतिश्”  
 
 
-4.171a na sīdann api dharmeṇa mano 'dharme niveśayet |  
-4.171c a.dhārmikānāṃ pāpānām āśu paśyan viparyayam || 171 ||  
+४।१७१अ न सीदन्न् अपि धर्मेण मनो ऽधर्मे निवेशयेत् ।  
+४।१७१च् अ।धार्मिकानां पापानाम् आशु पश्यन् विपर्ययम् ॥ १७१ ॥  
 
 
-4.172a na-adharmaś carito loke sadyaḥ phalati gaur iva |  
-4.172c śanair āvartyamānas tu kartur mūlāni kṛntati || 172 ||  
+४।१७२अ न-अधर्मश् चरितो लोके सद्यः फलति गौर् इव ।  
+४।१७२च् शनैर् आवर्त्यमानस् तु कर्तुर् मूलानि कृन्तति ॥ १७२ ॥  
 
 
-4.173a yadi na-ātmani putreṣu na cet putreṣu naptṛṣu |  
-4.173c na tv eva tu kṛto 'dharmaḥ kartur bhavati niṣ.phalaḥ || 173 || 4.173cv/  \[M\] : “kṛto dharmaḥ?”  
+४।१७३अ यदि न-आत्मनि पुत्रेषु न चेत् पुत्रेषु नप्तृषु ।  
+४।१७३च् न त्व् एव तु कृतो ऽधर्मः कर्तुर् भवति निष्।फलः ॥ १७३ ॥ ४।१७३च्व्।  \[म्\] : “कृतो धर्मः?”  
 
 
-4.174a adharmeṇa-edhate tāvat tato bhadrāṇi paśyati |  
-4.174c tataḥ sapatnān jayati sa.mūlas tu vinaśyati || 174 ||  
+४।१७४अ अधर्मेण-एधते तावत् ततो भद्राणि पश्यति ।  
+४।१७४च् ततः सपत्नान् जयति स।मूलस् तु विनश्यति ॥ १७४ ॥  
 
 
-4.175a satya.dharma.āryavṛtteṣu śauce ca-eva-āramet sadā |  
-4.175c śiṣyāṃś ca śiṣyād dharmeṇa vāc.bāhu.udara.saṃyataḥ || 175 ||  
+४।१७५अ सत्य।धर्म।आर्यवृत्तेषु शौचे च-एव-आरमेत् सदा ।  
+४।१७५च् शिष्यांश् च शिष्याद् धर्मेण वाच्।बाहु।उदर।संयतः ॥ १७५ ॥  
 
 
-4.176a parityajed artha.kāmau yau syātāṃ dharmavarjitau |  
-4.176c dharmaṃ ca-apy asukha.udarkaṃ lokasaṅkruṣṭam eva ca || 176 ||  
+४।१७६अ परित्यजेद् अर्थ।कामौ यौ स्यातां धर्मवर्जितौ ।  
+४।१७६च् धर्मं च-अप्य् असुख।उदर्कं लोकसङ्क्रुष्टम् एव च ॥ १७६ ॥  
 
 
-4.177a na pāṇi.pāda.capalo na netra.capalo 'n.ṛjuḥ |  
-4.177c na syād vāk.capalaś ca-eva na paradrohakarma.dhīḥ || 177 ||  
+४।१७७अ न पाणि।पाद।चपलो न नेत्र।चपलो ऽन्।ऋजुः ।  
+४।१७७च् न स्याद् वाक्।चपलश् च-एव न परद्रोहकर्म।धीः ॥ १७७ ॥  
 
 
-4.178a yena-asya pitaro yātā yena yātāḥ pitāmahāḥ |  
-4.178c tena yāyāt satāṃ mārgaṃ tena gacchan na riṣyati || 178 ||  
+४।१७८अ येन-अस्य पितरो याता येन याताः पितामहाः ।  
+४।१७८च् तेन यायात् सतां मार्गं तेन गच्छन् न रिष्यति ॥ १७८ ॥  
 
 
-4.179a ṛtvik.purohita.ācāryair mātula.atithisaṃśritaiḥ |  
-4.179c bāla.vṛddha.āturair vaidyair jñāti.sambandhi.bāndhavaiḥ || 179 ||  
+४।१७९अ ऋत्विक्।पुरोहित।आचार्यैर् मातुल।अतिथिसंश्रितैः ।  
+४।१७९च् बाल।वृद्ध।आतुरैर् वैद्यैर् ज्ञाति।सम्बन्धि।बान्धवैः ॥ १७९ ॥  
 
 
 # ४।१।१७। ड़मिल्य् अन्द् सोचिअल् रेलतिओन्स्
@@ -3574,42 +3573,42 @@
 ४।१८५च् तस्माद् एतैर् अधिक्षिप्तः सहेत-अ।सञ्ज्वरः सदा ॥ १८५ ॥  
 
 
-# 4.1.18. Accepting and Giving Gifts
- \[O\]  edn 540-542,  \[O\]  tr. 133-134
-4.186a pratigrahasamartho 'pi prasaṅgaṃ tatra varjayet |  
-4.186c pratigraheṇa hy asya-āśu brāhmaṃ tejaḥ praśāmyati || 186 ||  
+# ४।१।१८। अच्चेप्तिन्ग् अन्द् गिविन्ग् गिड़्त्स्
+ \[ओ\]  एद्न् ५४०-५४२,  \[ओ\]  त्र्। १३३-१३४
+४।१८६अ प्रतिग्रहसमर्थो ऽपि प्रसङ्गं तत्र वर्जयेत् ।  
+४।१८६च् प्रतिग्रहेण ह्य् अस्य-आशु ब्राह्मं तेजः प्रशाम्यति ॥ १८६ ॥  
 
 
-4.187a na dravyāṇām a.vijñāya vidhiṃ dharmyaṃ pratigrahe |  
-4.187c prājñaḥ pratigrahaṃ kuryād avasīdann api kṣudhā || 187 ||  
+४।१८७अ न द्रव्याणाम् अ।विज्ञाय विधिं धर्म्यं प्रतिग्रहे ।  
+४।१८७च् प्राज्ञः प्रतिग्रहं कुर्याद् अवसीदन्न् अपि क्षुधा ॥ १८७ ॥  
 
 
-4.188a hiraṇyaṃ bhūmim aśvaṃ gām annaṃ vāsas tilān ghṛtam |  
-4.188c pratigṛhṇann a.vidvāṃs tu bhasmī.bhavati dāruvat || 188 ||  
+४।१८८अ हिरण्यं भूमिम् अश्वं गाम् अन्नं वासस् तिलान् घृतम् ।  
+४।१८८च् प्रतिगृह्णन्न् अ।विद्वांस् तु भस्मी।भवति दारुवत् ॥ १८८ ॥  
 
 
-4.189a hiraṇyam āyur annaṃ ca bhūr gauś ca-apy oṣatas tanum |  
-4.189c aśvaś cakṣus tvacaṃ vāso ghṛtaṃ tejas tilāh prajāḥ || 189 ||  
+४।१८९अ हिरण्यम् आयुर् अन्नं च भूर् गौश् च-अप्य् ओषतस् तनुम् ।  
+४।१८९च् अश्वश् चक्षुस् त्वचं वासो घृतं तेजस् तिलाह् प्रजाः ॥ १८९ ॥  
 
 
-4.190a a.tapās tv an.adhīyānaḥ pratigraha.rucir dvijaḥ |  
-4.190c ambhasy aśmaplavena-iva saha tena-eva majjati || 190 ||  
+४।१९०अ अ।तपास् त्व् अन्।अधीयानः प्रतिग्रह।रुचिर् द्विजः ।  
+४।१९०च् अम्भस्य् अश्मप्लवेन-इव सह तेन-एव मज्जति ॥ १९० ॥  
 
 
-4.191a tasmād a.vidvān bibhiyād yasmāt tasmāt pratigrahāt |  
-4.191c svalpakena-apy a.vidvān hi paṅke gaur iva sīdati || 191 ||  
+४।१९१अ तस्माद् अ।विद्वान् बिभियाद् यस्मात् तस्मात् प्रतिग्रहात् ।  
+४।१९१च् स्वल्पकेन-अप्य् अ।विद्वान् हि पङ्के गौर् इव सीदति ॥ १९१ ॥  
 
 
-4.192a na vāry api prayacchet tu baiḍālavratike dvije |  
-4.192c na bakavratike pāpe na-a.vedavidi dharmavit || 192 ||  
+४।१९२अ न वार्य् अपि प्रयच्छेत् तु बैडालव्रतिके द्विजे ।  
+४।१९२च् न बकव्रतिके पापे न-अ।वेदविदि धर्मवित् ॥ १९२ ॥  
 
 
-4.193a triṣv apy eteṣu dattaṃ hi vidhinā-apy arjitaṃ dhanam |  
-4.193c dātur bhavaty anarthāya paratra-ādātur eva ca || 193 ||  
+४।१९३अ त्रिष्व् अप्य् एतेषु दत्तं हि विधिना-अप्य् अर्जितं धनम् ।  
+४।१९३च् दातुर् भवत्य् अनर्थाय परत्र-आदातुर् एव च ॥ १९३ ॥  
 
 
-4.194a yathā plavena-aupalena nimajjaty udake taran |  
-4.194c tathā nimajjato 'dhastād ajñau dātṛ.pratīcchakau || 194 ||  
+४।१९४अ यथा प्लवेन-औपलेन निमज्जत्य् उदके तरन् ।  
+४।१९४च् तथा निमज्जतो ऽधस्ताद् अज्ञौ दातृ।प्रतीच्छकौ ॥ १९४ ॥  
 
 
 # ४।१।१९। ह्य्पोच्रिस्य्
@@ -3638,22 +3637,22 @@
 ४।२००च्[२०१म्च्] स लिङ्गिनां हरत्य् एनस् तिर्यग्योनौ च जायते ॥ २०० ॥  
 
 
-# 4.1.20. Using What Belongs to Others
- \[O\]  edn 543-544,  \[O\]  tr. 134
-4.201a[202Ma] parakīyanipāneṣu na snāyādd hi kadā cana | 4.201a[202Ma]v/  \[K\] : “snāyāc ca kadā cana”  
-4.201c[202Mc] nipānakartuḥ snātvā tu duṣkṛtāṃśena lipyate || 201 ||  
+# ४।१।२०। उसिन्ग् Wहत् बेलोन्ग्स् तो ओथेर्स्
+ \[ओ\]  एद्न् ५४३-५४४,  \[ओ\]  त्र्। १३४
+४।२०१अ[२०२म] परकीयनिपानेषु न स्नायाद्द् हि कदा चन । ४।२०१अ[२०२म]व्।  \[क्\] : “स्नायाच् च कदा चन”  
+४।२०१च्[२०२म्च्] निपानकर्तुः स्नात्वा तु दुष्कृतांशेन लिप्यते ॥ २०१ ॥  
 
 
-4.202a[203Ma] yāna.śayyā.āsanāny asya kūpa.udyāna.gṛhāṇi ca |  
-4.202c[203Mc] a.dattāny upayuñjāna enasaḥ syāt turīya.bhāk || 202 ||  
+४।२०२अ[२०३म] यान।शय्या।आसनान्य् अस्य कूप।उद्यान।गृहाणि च ।  
+४।२०२च्[२०३म्च्] अ।दत्तान्य् उपयुञ्जान एनसः स्यात् तुरीय।भाक् ॥ २०२ ॥  
 
 
-4.203a[204Ma] nadīṣu devakhāteṣu taḍāgeṣu saraḥsu ca |  
-4.203c[204Mc] snānaṃ samācaren nityaṃ garta.prasravaṇeṣu ca || 203 ||  
+४।२०३अ[२०४म] नदीषु देवखातेषु तडागेषु सरःसु च ।  
+४।२०३च्[२०४म्च्] स्नानं समाचरेन् नित्यं गर्त।प्रस्रवणेषु च ॥ २०३ ॥  
 
 
-4.204a[205Ma] yamān seveta satataṃ na nityaṃ niyamān budhaḥ |  
-4.204c[205Mc] yamān pataty a.kurvāṇo niyamān kevalān bhajan || 204 ||  
+४।२०४अ[२०५म] यमान् सेवेत सततं न नित्यं नियमान् बुधः ।  
+४।२०४च्[२०५म्च्] यमान् पतत्य् अ।कुर्वाणो नियमान् केवलान् भजन् ॥ २०४ ॥  
 
 
 # ४।१।२१। उन्ड़ित् ड़ोओद्
@@ -3742,54 +3741,54 @@
 ४।२२५च्[२२६म्च्] श्रद्धापूतं वदान्यस्य हतम् अ।श्रद्धया-इतरत् ॥ २२५ ॥  
 
 
-# 4.1.22. Gifts and Their Rewards
- \[O\]  edn 549-552,  \[O\]  tr. 135-136
-4.226a[227Ma] śraddhayā-iṣṭaṃ ca pūrtaṃ ca nityaṃ kuryād atandritaḥ |  
-4.226c[227Mc] śraddhākṛte hy akṣaye te bhavataḥ svāgatair dhanaiḥ || 226 ||  
+# ४।१।२२। गिड़्त्स् अन्द् थेइर् रेwअर्द्स्
+ \[ओ\]  एद्न् ५४९-५५२,  \[ओ\]  त्र्। १३५-१३६
+४।२२६अ[२२७म] श्रद्धया-इष्टं च पूर्तं च नित्यं कुर्याद् अतन्द्रितः ।  
+४।२२६च्[२२७म्च्] श्रद्धाकृते ह्य् अक्षये ते भवतः स्वागतैर् धनैः ॥ २२६ ॥  
 
 
-4.227a[228Ma] dānadharmaṃ niṣeveta nityam aiṣṭika.paurtikam |  
-4.227c[228Mc] parituṣṭena bhāvena pātram āsādya śaktitaḥ || 227 ||  
+४।२२७अ[२२८म] दानधर्मं निषेवेत नित्यम् ऐष्टिक।पौर्तिकम् ।  
+४।२२७च्[२२८म्च्] परितुष्टेन भावेन पात्रम् आसाद्य शक्तितः ॥ २२७ ॥  
 
 
-4.228a[229Ma] yat kiṃ cid api dātavyaṃ yācitena-an.asūyayā | 4.228a[229Ma]v/  \[M\] : “anasūyatā?”  
-4.228c[229Mc] utpatsyate hi tat pātraṃ yat tārayati sarvataḥ || 228 ||  
+४।२२८अ[२२९म] यत् किं चिद् अपि दातव्यं याचितेन-अन्।असूयया । ४।२२८अ[२२९म]व्।  \[म्\] : “अनसूयता?”  
+४।२२८च्[२२९म्च्] उत्पत्स्यते हि तत् पात्रं यत् तारयति सर्वतः ॥ २२८ ॥  
 
 
-4.229a[230Ma] vāridas tṛptim āpnoti sukham akṣayyam annadaḥ | 4.229a[230Ma]v/  \[M\] : “akṣayam”  
-4.229c[230Mc] tilapradaḥ prajām iṣṭāṃ dīpadaś cakṣur uttamam || 229 ||  
+४।२२९अ[२३०म] वारिदस् तृप्तिम् आप्नोति सुखम् अक्षय्यम् अन्नदः । ४।२२९अ[२३०म]व्।  \[म्\] : “अक्षयम्”  
+४।२२९च्[२३०म्च्] तिलप्रदः प्रजाम् इष्टां दीपदश् चक्षुर् उत्तमम् ॥ २२९ ॥  
 
 
-4.230a[231Ma] bhūmido bhūmim āpnoti dīrgham āyur hiraṇyadaḥ |  
-4.230c[231Mc] gṛhado 'gryāṇi veśmāni rūpyado rūpam uttamam || 230 ||  
+४।२३०अ[२३१म] भूमिदो भूमिम् आप्नोति दीर्घम् आयुर् हिरण्यदः ।  
+४।२३०च्[२३१म्च्] गृहदो ऽग्र्याणि वेश्मानि रूप्यदो रूपम् उत्तमम् ॥ २३० ॥  
 
 
-4.231a[232Ma] vāsodaś candrasālokyam aśvisālokyam aśvadaḥ |  
-4.231c[232Mc] anaḍuhaḥ śriyaṃ puṣṭāṃ godo bradhnasya viṣṭapam || 231 ||  
+४।२३१अ[२३२म] वासोदश् चन्द्रसालोक्यम् अश्विसालोक्यम् अश्वदः ।  
+४।२३१च्[२३२म्च्] अनडुहः श्रियं पुष्टां गोदो ब्रध्नस्य विष्टपम् ॥ २३१ ॥  
 
 
-4.232a[233Ma] yāna.śayyāprado bhāryām aiśvaryam abhayapradaḥ |  
-4.232c[233Mc] dhānyadaḥ śāśvataṃ saukhyaṃ brahmado brahmasārṣṭitām || 232 ||  
+४।२३२अ[२३३म] यान।शय्याप्रदो भार्याम् ऐश्वर्यम् अभयप्रदः ।  
+४।२३२च्[२३३म्च्] धान्यदः शाश्वतं सौख्यं ब्रह्मदो ब्रह्मसार्ष्टिताम् ॥ २३२ ॥  
 
 
-4.233a[234Ma] sarveṣām eva dānānāṃ brahmadānaṃ viśiṣyate |  
-4.233c[234Mc] vāri.anna.go.mahī.vāsas.tila.kāñcana.sarpiṣām || 233 ||  
+४।२३३अ[२३४म] सर्वेषाम् एव दानानां ब्रह्मदानं विशिष्यते ।  
+४।२३३च्[२३४म्च्] वारि।अन्न।गो।मही।वासस्।तिल।काञ्चन।सर्पिषाम् ॥ २३३ ॥  
 
 
-4.234a[235Ma] yena yena tu bhāvena yad yad dānaṃ prayacchati |  
-4.234c[235Mc] tat tat tena-eva bhāvena prāpnoti pratipūjitaḥ || 234 ||  
+४।२३४अ[२३५म] येन येन तु भावेन यद् यद् दानं प्रयच्छति ।  
+४।२३४च्[२३५म्च्] तत् तत् तेन-एव भावेन प्राप्नोति प्रतिपूजितः ॥ २३४ ॥  
 
 
-4.235a[236Ma] yo 'rcitaṃ pratigṛhṇāti dadāty arcitam eva vā |  
-4.235c[236Mc] tāv ubhau gacchataḥ svargaṃ narakaṃ tu viparyaye || 235 ||  
+४।२३५अ[२३६म] यो ऽर्चितं प्रतिगृह्णाति ददात्य् अर्चितम् एव वा ।  
+४।२३५च्[२३६म्च्] ताव् उभौ गच्छतः स्वर्गं नरकं तु विपर्यये ॥ २३५ ॥  
 
 
-4.236a[237Ma] na vismayeta tapasā vaded iṣṭvā ca na-anṛtam |  
-4.236c[237Mc] na-ārto 'py apavaded viprān na dattvā parikīrtayet || 236 || 4.236c[237Mc]v/  \[M\] : “datvā”  
+४।२३६अ[२३७म] न विस्मयेत तपसा वदेद् इष्ट्वा च न-अनृतम् ।  
+४।२३६च्[२३७म्च्] न-आर्तो ऽप्य् अपवदेद् विप्रान् न दत्त्वा परिकीर्तयेत् ॥ २३६ ॥ ४।२३६च्[२३७म्च्]व्।  \[म्\] : “दत्वा”  
 
 
-4.237a[238Ma] yajño 'nṛtena kṣarati tapaḥ kṣarati vismayāt |  
-4.237c[238Mc] āyur viprāpavādena dānaṃ ca parikīrtanāt || 237 ||  
+४।२३७अ[२३८म] यज्ञो ऽनृतेन क्षरति तपः क्षरति विस्मयात् ।  
+४।२३७च्[२३८म्च्] आयुर् विप्रापवादेन दानं च परिकीर्तनात् ॥ २३७ ॥  
 
 
 # ४।१।२३। अच्चुमुलतिन्ग् मेरित्
@@ -3830,46 +3829,46 @@
 ४।२४६च्[२४७म्च्] अहिंस्रो दम।दानाभ्यां जयेत् स्वर्गं तथा।व्रतः ॥ २४६ ॥  
 
 
-# 4.1.24. Acceptance of Gifts and Food
- \[O\]  edn 554-556,  \[O\]  tr. 137
-4.247a[248Ma] edha.udakaṃ mūla.phalam annam abhyudyataṃ ca yat |  
-4.247c[248Mc] sarvataḥ pratigṛhṇīyāt- madhu-atha-abhayadakṣiṇām || 247 ||  
+# ४।१।२४। अच्चेप्तन्चे ओड़् गिड़्त्स् अन्द् ड़ोओद्
+ \[ओ\]  एद्न् ५५४-५५६,  \[ओ\]  त्र्। १३७
+४।२४७अ[२४८म] एध।उदकं मूल।फलम् अन्नम् अभ्युद्यतं च यत् ।  
+४।२४७च्[२४८म्च्] सर्वतः प्रतिगृह्णीयात्- मधु-अथ-अभयदक्षिणाम् ॥ २४७ ॥  
 
 
-4.248a[249Ma] āhṛta.abhyudyatāṃ bhikṣāṃ purastād a.pracoditām |  
-4.248c[249Mc] mene prajāpatir grāhyām api duṣkṛta.karmaṇaḥ || 248 ||  
+४।२४८अ[२४९म] आहृत।अभ्युद्यतां भिक्षां पुरस्ताद् अ।प्रचोदिताम् ।  
+४।२४८च्[२४९म्च्] मेने प्रजापतिर् ग्राह्याम् अपि दुष्कृत।कर्मणः ॥ २४८ ॥  
 
 
-4.249a[250Ma] na-aśnanti pitaras tasya daśavarṣāṇi pañca ca |  
-4.249c[250Mc] na ca havyaṃ vahaty agnir yas tām abhyavamanyate || 249 ||  
+४।२४९अ[२५०म] न-अश्नन्ति पितरस् तस्य दशवर्षाणि पञ्च च ।  
+४।२४९च्[२५०म्च्] न च हव्यं वहत्य् अग्निर् यस् ताम् अभ्यवमन्यते ॥ २४९ ॥  
 
 
-4.250a[251Ma] śayyāṃ gṛhān kuśān gandhān apaḥ puṣpaṃ maṇīn dadhi |  
-4.250c[251Mc] dhānā matsyān payo māṃsaṃ śākaṃ ca-eva na nirṇudet || 250 ||  
+४।२५०अ[२५१म] शय्यां गृहान् कुशान् गन्धान् अपः पुष्पं मणीन् दधि ।  
+४।२५०च्[२५१म्च्] धाना मत्स्यान् पयो मांसं शाकं च-एव न निर्णुदेत् ॥ २५० ॥  
 
 
-4.251a[252Ma] gurūn bhṛtyāṃś ca-ujjihīrṣann arciṣyan devatā.atithīn |  
-4.251c[252Mc] sarvataḥ pratigṛhṇīyān na tu tṛpyet svayaṃ tataḥ || 251 ||  
+४।२५१अ[२५२म] गुरून् भृत्यांश् च-उज्जिहीर्षन्न् अर्चिष्यन् देवता।अतिथीन् ।  
+४।२५१च्[२५२म्च्] सर्वतः प्रतिगृह्णीयान् न तु तृप्येत् स्वयं ततः ॥ २५१ ॥  
 
 
-4.252a[253Ma] guruṣu tv abhyatīteṣu vinā vā tair gṛhe vasan |  
-4.252c[253Mc] ātmano vṛttim anvicchan gṛhṇīyāt sādhutaḥ sadā || 252 ||  
+४।२५२अ[२५३म] गुरुषु त्व् अभ्यतीतेषु विना वा तैर् गृहे वसन् ।  
+४।२५२च्[२५३म्च्] आत्मनो वृत्तिम् अन्विच्छन् गृह्णीयात् साधुतः सदा ॥ २५२ ॥  
 
 
-4.253a[254Ma] ārdhikaḥ kulamitraṃ ca gopālo dāsa.nāpitau |  
-4.253c[254Mc] ete śūdreṣu bhojya.annā yāś ca-ātmānaṃ nivedayet || 253 ||  
+४।२५३अ[२५४म] आर्धिकः कुलमित्रं च गोपालो दास।नापितौ ।  
+४।२५३च्[२५४म्च्] एते शूद्रेषु भोज्य।अन्ना याश् च-आत्मानं निवेदयेत् ॥ २५३ ॥  
 
 
-4.254a[255Ma] yādṛśo 'sya bhaved ātmā yādṛśaṃ ca cikīrṣitam |  
-4.254c[255Mc] yathā ca-upacared enaṃ tathā-ātmānaṃ nivedayet || 254 ||  
+४।२५४अ[२५५म] यादृशो ऽस्य भवेद् आत्मा यादृशं च चिकीर्षितम् ।  
+४।२५४च्[२५५म्च्] यथा च-उपचरेद् एनं तथा-आत्मानं निवेदयेत् ॥ २५४ ॥  
 
 
-4.255a[256Ma] yo 'nyathā santam ātmānam anyathā satsu bhāṣate |  
-4.255c[256Mc] sa pāpakṛttamo loke stena ātma.apahārakaḥ || 255 ||  
+४।२५५अ[२५६म] यो ऽन्यथा सन्तम् आत्मानम् अन्यथा सत्सु भाषते ।  
+४।२५५च्[२५६म्च्] स पापकृत्तमो लोके स्तेन आत्म।अपहारकः ॥ २५५ ॥  
 
 
-4.256a[257Ma] vācy arthā niyatāḥ sarve vāc.mūlā vāc.viniḥsṛtāḥ |  
-4.256c[257Mc] tāṃs tu yaḥ stenayed vācaṃ sa sarvasteyakṛt- naraḥ || 256 || 4.256c[257Mc]v/  \[M\] : “tān tu?”  
+४।२५६अ[२५७म] वाच्य् अर्था नियताः सर्वे वाच्।मूला वाच्।विनिःसृताः ।  
+४।२५६च्[२५७म्च्] तांस् तु यः स्तेनयेद् वाचं स सर्वस्तेयकृत्- नरः ॥ २५६ ॥ ४।२५६च्[२५७म्च्]व्।  \[म्\] : “तान् तु?”  
 
 
 # ४।१।२५। ओल्द् अगे अन्द् रेतिरेमेन्त्
@@ -3892,18 +3891,18 @@
 
 # छप्तेर् ५
  \[ओ\]  एद्न् ५५८-५९३,  \[ओ\]  त्र्। १३८-१४७
- 5.1. Prologue
- \[O\]  edn 558,  \[O\]  tr. 138
-5.01a śrutvā-etān ṛṣayo dharmān snātakasya yathā.uditān |  
-5.01c idam ūcur mahātmānam anala.prabhavaṃ bhṛgum || 1 ||  
+ ५।१। प्रोलोगुए
+ \[ओ\]  एद्न् ५५८,  \[ओ\]  त्र्। १३८
+५।०१अ श्रुत्वा-एतान् ऋषयो धर्मान् स्नातकस्य यथा।उदितान् ।  
+५।०१च् इदम् ऊचुर् महात्मानम् अनल।प्रभवं भृगुम् ॥ १ ॥  
 
 
-5.02a evaṃ yathā.uktaṃ viprāṇāṃ svadharmam anutiṣṭhatām |  
-5.02c kathaṃ mṛtyuḥ prabhavati veda.śāstravidāṃ prabho || 2 ||  
+५।०२अ एवं यथा।उक्तं विप्राणां स्वधर्मम् अनुतिष्ठताम् ।  
+५।०२च् कथं मृत्युः प्रभवति वेद।शास्त्रविदां प्रभो ॥ २ ॥  
 
 
-5.03a sa tān uvāca dharma.ātmā maharṣīn mānavo bhṛguḥ |  
-5.03c śrūyatāṃ yena doṣeṇa mṛtyur viprān jighāṃsati || 3 ||  
+५।०३अ स तान् उवाच धर्म।आत्मा महर्षीन् मानवो भृगुः ।  
+५।०३च् श्रूयतां येन दोषेण मृत्युर् विप्रान् जिघांसति ॥ ३ ॥  
 
 
  ५।२। ड़ोर्बिद्देन् ड़ोओद्
@@ -4000,322 +3999,322 @@
 ५।२६च् मांसस्य-अतः प्रवक्ष्यामि विधिं भक्षणवर्जने ॥ २६ ॥  
 
 
- 5.3. Eating Meat
- \[O\]  edn 562-568,  \[O\]  tr. 139-141
-5.27a prokṣitaṃ bhakṣayen māṃsaṃ brāhmaṇānāṃ ca kāmyayā |  
-5.27c yathāvidhi niyuktas tu prāṇānām eva ca-atyaye || 27 ||  
+ ५।३। एअतिन्ग् मेअत्
+ \[ओ\]  एद्न् ५६२-५६८,  \[ओ\]  त्र्। १३९-१४१
+५।२७अ प्रोक्षितं भक्षयेन् मांसं ब्राह्मणानां च काम्यया ।  
+५।२७च् यथाविधि नियुक्तस् तु प्राणानाम् एव च-अत्यये ॥ २७ ॥  
 
 
-5.28a prāṇasya-annam idaṃ sarvaṃ prajāpatir akalpayat |  
-5.28c sthāvaraṃ jaṅgamaṃ ca-eva sarvaṃ prāṇasya bhojanam || 28 ||  
+५।२८अ प्राणस्य-अन्नम् इदं सर्वं प्रजापतिर् अकल्पयत् ।  
+५।२८च् स्थावरं जङ्गमं च-एव सर्वं प्राणस्य भोजनम् ॥ २८ ॥  
 
 
-5.29a carāṇām annam a.carā daṃṣṭriṇām apy a.daṃṣṭriṇaḥ |  
-5.29c a.hastāś ca sa.hastānāṃ śūrāṇāṃ ca-eva bhīravaḥ || 29 ||  
+५।२९अ चराणाम् अन्नम् अ।चरा दंष्ट्रिणाम् अप्य् अ।दंष्ट्रिणः ।  
+५।२९च् अ।हस्ताश् च स।हस्तानां शूराणां च-एव भीरवः ॥ २९ ॥  
 
 
-5.30a na-attā duṣyaty adann ādyān prāṇino 'hany.ahany api |  
-5.30c dhātrā-eva sṛṣṭā hy ādyāś ca prāṇino 'ttāra eva ca || 30 ||  
+५।३०अ न-अत्ता दुष्यत्य् अदन्न् आद्यान् प्राणिनो ऽहन्य्।अहन्य् अपि ।  
+५।३०च् धात्रा-एव सृष्टा ह्य् आद्याश् च प्राणिनो ऽत्तार एव च ॥ ३० ॥  
 
 
-5.31a yajñāya jagdhir māṃsasya-ity eṣa daivo vidhiḥ smṛtaḥ |  
-5.31c ato 'nyathā pravṛttis tu rākṣaso vidhir ucyate || 31 ||  
+५।३१अ यज्ञाय जग्धिर् मांसस्य-इत्य् एष दैवो विधिः स्मृतः ।  
+५।३१च् अतो ऽन्यथा प्रवृत्तिस् तु राक्षसो विधिर् उच्यते ॥ ३१ ॥  
 
 
-5.32a krītvā svayaṃ vā-apy utpādya para.upakṛtam eva vā |  
-5.32c devān pitṝṃś ca-arcayitvā khādan māṃsaṃ na duṣyati || 32 ||  
+५।३२अ क्रीत्वा स्वयं वा-अप्य् उत्पाद्य पर।उपकृतम् एव वा ।  
+५।३२च् देवान् पितॄंश् च-अर्चयित्वा खादन् मांसं न दुष्यति ॥ ३२ ॥  
 
 
-5.33a na-adyād avidhinā māṃsaṃ vidhijño 'nāpadi dvijaḥ |  
-5.33c jagdhvā hy a.vidhinā māṃsaṃ pretas tair adyate '.vaśaḥ || 33 ||  
+५।३३अ न-अद्याद् अविधिना मांसं विधिज्ञो ऽनापदि द्विजः ।  
+५।३३च् जग्ध्वा ह्य् अ।विधिना मांसं प्रेतस् तैर् अद्यते ऽ।वशः ॥ ३३ ॥  
 
 
-5.34a na tādṛśaṃ bhavaty eno mṛgahantur dhanārthinaḥ |  
-5.34c yādṛśaṃ bhavati pretya vṛthāmāṃsāni khādataḥ || 34 ||  
+५।३४अ न तादृशं भवत्य् एनो मृगहन्तुर् धनार्थिनः ।  
+५।३४च् यादृशं भवति प्रेत्य वृथामांसानि खादतः ॥ ३४ ॥  
 
 
-5.35a niyuktas tu yathānyāyaṃ yo māṃsaṃ na-atti mānavaḥ |  
-5.35c sa pretya paśutāṃ yāti sambhavān ekaviṃśatim || 35 ||  
+५।३५अ नियुक्तस् तु यथान्यायं यो मांसं न-अत्ति मानवः ।  
+५।३५च् स प्रेत्य पशुतां याति सम्भवान् एकविंशतिम् ॥ ३५ ॥  
 
 
-5.36a asaṃskṛtān paśūn mantrair na-adyād vipraḥ kadā cana |  
-5.36c mantrais tu saṃskṛtān adyāt-śāśvataṃ vidhim āsthitaḥ || 36 ||  
+५।३६अ असंस्कृतान् पशून् मन्त्रैर् न-अद्याद् विप्रः कदा चन ।  
+५।३६च् मन्त्रैस् तु संस्कृतान् अद्यात्-शाश्वतं विधिम् आस्थितः ॥ ३६ ॥  
 
 
-5.37a kuryād ghṛtapaśuṃ saṅge kuryāt piṣṭapaśuṃ tathā |  
-5.37c na tv eva tu vṛthā hantuṃ paśum icchet kadā cana || 37 ||  
+५।३७अ कुर्याद् घृतपशुं सङ्गे कुर्यात् पिष्टपशुं तथा ।  
+५।३७च् न त्व् एव तु वृथा हन्तुं पशुम् इच्छेत् कदा चन ॥ ३७ ॥  
 
 
-5.38a yāvanti paśuromāṇi tāvatkṛtvo ha māraṇam |  
-5.38c vṛthāpaśughnaḥ prāpnoti pretya janmani janmani || 38 ||  
+५।३८अ यावन्ति पशुरोमाणि तावत्कृत्वो ह मारणम् ।  
+५।३८च् वृथापशुघ्नः प्राप्नोति प्रेत्य जन्मनि जन्मनि ॥ ३८ ॥  
 
 
-5.39a yajñārthaṃ paśavaḥ sṛṣṭāḥ svayam eva svayambhuvā |  
-5.39c yajño 'sya bhūtyai sarvasya tasmād yajñe vadho '.vadhaḥ || 39 ||  
+५।३९अ यज्ञार्थं पशवः सृष्टाः स्वयम् एव स्वयम्भुवा ।  
+५।३९च् यज्ञो ऽस्य भूत्यै सर्वस्य तस्माद् यज्ञे वधो ऽ।वधः ॥ ३९ ॥  
 
 
-5.40a oṣadhyaḥ paśavo vṛkṣās tiryañcaḥ pakṣiṇas tathā |  
-5.40c yajñārthaṃ nidhanaṃ prāptāḥ prāpnuvanty utsṛtīḥ punaḥ || 40 || 5.40cv/  \[M\] : “ucchritīḥ”  
+५।४०अ ओषध्यः पशवो वृक्षास् तिर्यञ्चः पक्षिणस् तथा ।  
+५।४०च् यज्ञार्थं निधनं प्राप्ताः प्राप्नुवन्त्य् उत्सृतीः पुनः ॥ ४० ॥ ५।४०च्व्।  \[म्\] : “उच्छ्रितीः”  
 
 
-5.41a madhuparke ca yajñe ca pitṛ.daivatakarmaṇi |  
-5.41c atra-eva paśavo hiṃsyā na-anyatra-ity abravīn manuḥ || 41 ||  
+५।४१अ मधुपर्के च यज्ञे च पितृ।दैवतकर्मणि ।  
+५।४१च् अत्र-एव पशवो हिंस्या न-अन्यत्र-इत्य् अब्रवीन् मनुः ॥ ४१ ॥  
 
 
-5.42a eṣv artheṣu paśūn hiṃsan vedatattvārthavid dvijaḥ |  
-5.42c ātmānaṃ ca paśuṃ ca-eva gamayaty uttamaṃ gatim || 42 ||  
+५।४२अ एष्व् अर्थेषु पशून् हिंसन् वेदतत्त्वार्थविद् द्विजः ।  
+५।४२च् आत्मानं च पशुं च-एव गमयत्य् उत्तमं गतिम् ॥ ४२ ॥  
 
 
-5.43a gṛhe gurāv araṇye vā nivasann ātmavān dvijaḥ |  
-5.43c na-a.vedavihitāṃ hiṃsām āpady api samācaret || 43 ||  
+५।४३अ गृहे गुराव् अरण्ये वा निवसन्न् आत्मवान् द्विजः ।  
+५।४३च् न-अ।वेदविहितां हिंसाम् आपद्य् अपि समाचरेत् ॥ ४३ ॥  
 
 
-5.44a yā vedavihitā hiṃsā niyatā-asmiṃś cara.acare |  
-5.44c ahiṃsām eva tāṃ vidyād vedād dharmo hi nirbabhau || 44 ||  
+५।४४अ या वेदविहिता हिंसा नियता-अस्मिंश् चर।अचरे ।  
+५।४४च् अहिंसाम् एव तां विद्याद् वेदाद् धर्मो हि निर्बभौ ॥ ४४ ॥  
 
 
-5.45a yo 'hiṃsakāni bhūtāni hinasty ātmasukha.icchayā |  
-5.45c sa jīvāṃś ca mṛtaś ca-eva na kva cit sukham edhate || 45 ||  
+५।४५अ यो ऽहिंसकानि भूतानि हिनस्त्य् आत्मसुख।इच्छया ।  
+५।४५च् स जीवांश् च मृतश् च-एव न क्व चित् सुखम् एधते ॥ ४५ ॥  
 
 
-5.46a yo bandhanavadhakleśān prāṇināṃ na cikīrṣati |  
-5.46c sa sarvasya hitaprepsuḥ sukham atyantam aśnute || 46 ||  
+५।४६अ यो बन्धनवधक्लेशान् प्राणिनां न चिकीर्षति ।  
+५।४६च् स सर्वस्य हितप्रेप्सुः सुखम् अत्यन्तम् अश्नुते ॥ ४६ ॥  
 
 
-5.47a yad dhyāyati yat kurute ratiṃ badhnāti yatra ca |  
-5.47c tad avāpnoty ayatnena yo hinasti na kiṃ cana || 47 ||  
+५।४७अ यद् ध्यायति यत् कुरुते रतिं बध्नाति यत्र च ।  
+५।४७च् तद् अवाप्नोत्य् अयत्नेन यो हिनस्ति न किं चन ॥ ४७ ॥  
 
 
-5.48a na-a.kṛtvā prāṇināṃ hiṃsāṃ māṃsam utpadyate kva cit |  
-5.48c na ca prāṇivadhaḥ svargyas tasmān māṃsaṃ vivarjayet || 48 ||  
+५।४८अ न-अ।कृत्वा प्राणिनां हिंसां मांसम् उत्पद्यते क्व चित् ।  
+५।४८च् न च प्राणिवधः स्वर्ग्यस् तस्मान् मांसं विवर्जयेत् ॥ ४८ ॥  
 
 
-5.49a samutpattiṃ ca māṃsasya vadha.bandhau ca dehinām |  
-5.49c prasamīkṣya nivarteta sarvamāṃsasya bhakṣaṇāt || 49 ||  
+५।४९अ समुत्पत्तिं च मांसस्य वध।बन्धौ च देहिनाम् ।  
+५।४९च् प्रसमीक्ष्य निवर्तेत सर्वमांसस्य भक्षणात् ॥ ४९ ॥  
 
 
-5.50a na bhakṣayati yo māṃsaṃ vidhiṃ hitvā piśācavat |  
-5.50c na loke priyatāṃ yāti vyādhibhiś ca na pīḍyate || 50 ||  
+५।५०अ न भक्षयति यो मांसं विधिं हित्वा पिशाचवत् ।  
+५।५०च् न लोके प्रियतां याति व्याधिभिश् च न पीड्यते ॥ ५० ॥  
 
 
-5.51a anumantā viśasitā nihantā kraya.vikrayī |  
-5.51c saṃskartā ca-upahartā ca khādakaś ca-iti ghātakāḥ || 51 ||  
+५।५१अ अनुमन्ता विशसिता निहन्ता क्रय।विक्रयी ।  
+५।५१च् संस्कर्ता च-उपहर्ता च खादकश् च-इति घातकाः ॥ ५१ ॥  
 
 
-5.52a svamāṃsaṃ paramāṃsena yo vardhayitum icchati |  
-5.52c an.abhyarcya pitṝn devāṃs tato 'nyo na-asty apuṇyakṛt || 52 ||  
+५।५२अ स्वमांसं परमांसेन यो वर्धयितुम् इच्छति ।  
+५।५२च् अन्।अभ्यर्च्य पितॄन् देवांस् ततो ऽन्यो न-अस्त्य् अपुण्यकृत् ॥ ५२ ॥  
 
 
-5.53a varṣe varṣe 'śvamedhena yo yajeta śataṃ samāḥ |  
-5.53c māṃsāni ca na khāded yas tayoḥ puṇyaphalaṃ samam || 53 ||  
+५।५३अ वर्षे वर्षे ऽश्वमेधेन यो यजेत शतं समाः ।  
+५।५३च् मांसानि च न खादेद् यस् तयोः पुण्यफलं समम् ॥ ५३ ॥  
 
 
-5.54a phala.mūla.aśanair medhyair muni.annānāṃ ca bhojanaiḥ |  
-5.54c na tat phalam avāpnoti yat-māṃsaparivarjanāt || 54 ||  
+५।५४अ फल।मूल।अशनैर् मेध्यैर् मुनि।अन्नानां च भोजनैः ।  
+५।५४च् न तत् फलम् अवाप्नोति यत्-मांसपरिवर्जनात् ॥ ५४ ॥  
 
 
-5.55a māṃ sa bhakṣayitā-amutra yasya māṃsam iha-admy aham |  
-5.55c etat-māṃsasya māṃsatvaṃ pravadanti manīṣiṇaḥ || 55 ||  
+५।५५अ मां स भक्षयिता-अमुत्र यस्य मांसम् इह-अद्म्य् अहम् ।  
+५।५५च् एतत्-मांसस्य मांसत्वं प्रवदन्ति मनीषिणः ॥ ५५ ॥  
 
 
-5.56a na māṃsabhakṣaṇe doṣo na madye na ca maithune |  
-5.56c pravṛttir eṣā bhūtānāṃ nivṛttis tu mahāphalā || 56 ||  
+५।५६अ न मांसभक्षणे दोषो न मद्ये न च मैथुने ।  
+५।५६च् प्रवृत्तिर् एषा भूतानां निवृत्तिस् तु महाफला ॥ ५६ ॥  
 
 
-5.57a pretaśuddhiṃ pravakṣyāmi dravyaśuddhiṃ tathā-eva ca |  
-5.57c caturṇām api varṇānāṃ yathāvad anupūrvaśaḥ || 57 ||  
+५।५७अ प्रेतशुद्धिं प्रवक्ष्यामि द्रव्यशुद्धिं तथा-एव च ।  
+५।५७च् चतुर्णाम् अपि वर्णानां यथावद् अनुपूर्वशः ॥ ५७ ॥  
 
 
  ५।४। बोदिल्य् पुरिड़िचतिओन्
  \[ओ\]  एद्न् ५६८-५७९,  \[ओ\]  त्र्। १४१-१४४
-# 5.4.1. Death or Birth of a Person Belonging to the Same Ancestry
- \[O\]  edn 568-577,  \[O\]  tr. 141-143
-5.58a dantajāte 'nujāte ca kṛta.cūḍe ca saṃsthite |  
-5.58c aśuddhā bāndhavāḥ sarve sūtake ca tathā-ucyate || 58 ||  
+# ५।४।१। देअथ् ओर् बिर्थ् ओड़् अ पेर्सोन् बेलोन्गिन्ग् तो थे समे अन्चेस्त्र्य्
+ \[ओ\]  एद्न् ५६८-५७७,  \[ओ\]  त्र्। १४१-१४३
+५।५८अ दन्तजाते ऽनुजाते च कृत।चूडे च संस्थिते ।  
+५।५८च् अशुद्धा बान्धवाः सर्वे सूतके च तथा-उच्यते ॥ ५८ ॥  
 
 
-5.59a daśāhaṃ śāvam āśaucaṃ sapiṇḍeṣu vidhīyate |  
-5.59c arvāk sañcayanād asthnāṃ tryaham ekāham eva vā || 59 ||  
+५।५९अ दशाहं शावम् आशौचं सपिण्डेषु विधीयते ।  
+५।५९च् अर्वाक् सञ्चयनाद् अस्थ्नां त्र्यहम् एकाहम् एव वा ॥ ५९ ॥  
 
 
-5.60a sapiṇḍatā tu puruṣe saptame vinivartate |  
-5.60c samānodakabhāvas tu janma.nāmnor a.vedane || 60 ||  
+५।६०अ सपिण्डता तु पुरुषे सप्तमे विनिवर्तते ।  
+५।६०च् समानोदकभावस् तु जन्म।नाम्नोर् अ।वेदने ॥ ६० ॥  
 
 
-5.61a yathā-idaṃ śāvam āśaucaṃ sapiṇḍeṣu vidhīyate | 5.61av/ not in  \[M\]   
-5.61c janane 'py evam eva syāt-nipuṇaṃ śuddhim icchatām || 61 || 5.61cv/ not in  \[M\]   
+५।६१अ यथा-इदं शावम् आशौचं सपिण्डेषु विधीयते । ५।६१अव्। नोत् इन्  \[म्\]   
+५।६१च् जनने ऽप्य् एवम् एव स्यात्-निपुणं शुद्धिम् इच्छताम् ॥ ६१ ॥ ५।६१च्व्। नोत् इन्  \[म्\]   
 
 
-5.62a[61Ma] sarveṣāṃ śāvam āśaucaṃ mātā.pitros tu sūtakam | 5.62a[61Ma]v/  \[M\] : “janane 'py evam eva syān mātā.pitros tu sūtakam”  
-5.62c[61Mc] sūtakaṃ mātur eva syād upaspṛśya pitā śuciḥ || 62 ||  
+५।६२अ[६१म] सर्वेषां शावम् आशौचं माता।पित्रोस् तु सूतकम् । ५।६२अ[६१म]व्।  \[म्\] : “जनने ऽप्य् एवम् एव स्यान् माता।पित्रोस् तु सूतकम्”  
+५।६२च्[६१म्च्] सूतकं मातुर् एव स्याद् उपस्पृश्य पिता शुचिः ॥ ६२ ॥  
 
 
-5.63a[62Ma] nirasya tu pumān-śukram upaspṛsya-eva śudhyati |  
-5.63c[62Mc] baijikād abhisambandhād anurundhyād aghaṃ tryaham || 63 ||  
+५।६३अ[६२म] निरस्य तु पुमान्-शुक्रम् उपस्पृस्य-एव शुध्यति ।  
+५।६३च्[६२म्च्] बैजिकाद् अभिसम्बन्धाद् अनुरुन्ध्याद् अघं त्र्यहम् ॥ ६३ ॥  
 
 
-5.64a[63Ma] ahnā ca-ekena rātryā ca trirātrair eva ca tribhiḥ |  
-5.64c[63Mc] śava.spṛśo viśudhyanti tryahād udakadāyinaḥ || 64 ||  
+५।६४अ[६३म] अह्ना च-एकेन रात्र्या च त्रिरात्रैर् एव च त्रिभिः ।  
+५।६४च्[६३म्च्] शव।स्पृशो विशुध्यन्ति त्र्यहाद् उदकदायिनः ॥ ६४ ॥  
 
 
-5.65a[64Ma] guroḥ pretasya śiṣyas tu pitṛmedhaṃ samācaran |  
-5.65c[64Mc] pretahāraiḥ samaṃ tatra daśarātreṇa śudhyati || 65 || 5.65c[64Mc]v/  \[M\] : “pretāhāraiḥ”  
+५।६५अ[६४म] गुरोः प्रेतस्य शिष्यस् तु पितृमेधं समाचरन् ।  
+५।६५च्[६४म्च्] प्रेतहारैः समं तत्र दशरात्रेण शुध्यति ॥ ६५ ॥ ५।६५च्[६४म्च्]व्।  \[म्\] : “प्रेताहारैः”  
 
 
-5.66a[65Ma] rātribhir māsa.tulyābhir garbhasrāve viśudhyati |  
-5.66c[65Mc] rajasy uparate sādhvī snānena strī rajasvalā || 66 ||  
+५।६६अ[६५म] रात्रिभिर् मास।तुल्याभिर् गर्भस्रावे विशुध्यति ।  
+५।६६च्[६५म्च्] रजस्य् उपरते साध्वी स्नानेन स्त्री रजस्वला ॥ ६६ ॥  
 
 
-5.67a[66Ma] nṛṇām a.kṛtacūḍānāṃ viśuddhir naiśikī smṛtā |  
-5.67c[66Mc] nirvṛtta.cūḍakānāṃ tu trirātrāt-śuddhir iṣyate || 67 || 5.67c[66Mc]v/  \[M\] : “nirvṛtta.muṇḍakānāṃ”  
+५।६७अ[६६म] नृणाम् अ।कृतचूडानां विशुद्धिर् नैशिकी स्मृता ।  
+५।६७च्[६६म्च्] निर्वृत्त।चूडकानां तु त्रिरात्रात्-शुद्धिर् इष्यते ॥ ६७ ॥ ५।६७च्[६६म्च्]व्।  \[म्\] : “निर्वृत्त।मुण्डकानां”  
 
 
-5.68a[67Ma] ūna.dvivārṣikaṃ pretaṃ nidadhyur bāndhavā bahiḥ |  
-5.68c[67Mc] alaṅkṛtya śucau bhūmāv asthisañcayanād ṛte || 68 ||  
+५।६८अ[६७म] ऊन।द्विवार्षिकं प्रेतं निदध्युर् बान्धवा बहिः ।  
+५।६८च्[६७म्च्] अलङ्कृत्य शुचौ भूमाव् अस्थिसञ्चयनाद् ऋते ॥ ६८ ॥  
 
 
-5.69a[68Ma] na-asya kāryo 'gnisaṃskāro na ca kāryā-udakakriyā |  
-5.69c[68Mc] araṇye kāṣṭhavat tyaktvā kṣapeyus tryaham eva tu || 69 || 5.69c[68Mc]v/  \[M\] : “kṣapeta tryaham eva ca”  
+५।६९अ[६८म] न-अस्य कार्यो ऽग्निसंस्कारो न च कार्या-उदकक्रिया ।  
+५।६९च्[६८म्च्] अरण्ये काष्ठवत् त्यक्त्वा क्षपेयुस् त्र्यहम् एव तु ॥ ६९ ॥ ५।६९च्[६८म्च्]व्।  \[म्\] : “क्षपेत त्र्यहम् एव च”  
 
 
-5.70a[69Ma] na-a.trivarṣasya kartavyā bāndhavair udakakriyā |  
-5.70c[69Mc] jāta.dantasya vā kuryur nāmni vā.api kṛte sati || 70 ||  
+५।७०अ[६९म] न-अ।त्रिवर्षस्य कर्तव्या बान्धवैर् उदकक्रिया ।  
+५।७०च्[६९म्च्] जात।दन्तस्य वा कुर्युर् नाम्नि वा।अपि कृते सति ॥ ७० ॥  
 
 
-5.71a[70Ma] sa.brahmacāriṇy ekāham atīte kṣapaṇam smṛtam |  
-5.71c[70Mc] janmany eka.udakānāṃ tu trirātrāt-śuddhir iṣyate || 71 ||  
+५।७१अ[७०म] स।ब्रह्मचारिण्य् एकाहम् अतीते क्षपणम् स्मृतम् ।  
+५।७१च्[७०म्च्] जन्मन्य् एक।उदकानां तु त्रिरात्रात्-शुद्धिर् इष्यते ॥ ७१ ॥  
 
 
-5.72a[71Ma] strīṇām a.saṃskṛtānāṃ tu tryahāt-śudhyanti bāndhavāḥ |  
-5.72c[71Mc] yathā.uktena-eva kalpena śudhyanti tu sa.nābhayaḥ || 72 ||  
+५।७२अ[७१म] स्त्रीणाम् अ।संस्कृतानां तु त्र्यहात्-शुध्यन्ति बान्धवाः ।  
+५।७२च्[७१म्च्] यथा।उक्तेन-एव कल्पेन शुध्यन्ति तु स।नाभयः ॥ ७२ ॥  
 
 
-5.73a[72Ma] a.kṣāra.lavaṇa.annāḥ syur nimajjeyuś ca te tryaham |  
-5.73c[72Mc] māṃsāśanaṃ ca na-aśnīyuḥ śayīraṃś ca pṛthak kṣitau || 73 ||  
+५।७३अ[७२म] अ।क्षार।लवण।अन्नाः स्युर् निमज्जेयुश् च ते त्र्यहम् ।  
+५।७३च्[७२म्च्] मांसाशनं च न-अश्नीयुः शयीरंश् च पृथक् क्षितौ ॥ ७३ ॥  
 
 
- 5.4.1.1. Death in a Distant Region
- \[O\]  edn 572-573,  \[O\]  tr. 142
-5.74a[73Ma] sannidhāv eṣa vai kalpaḥ śāva.āśaucasya kīrtitaḥ |  
-5.74c[73Mc] a.sannidhāv ayaṃ jñeyo vidhiḥ sambandhi.bāndhavaiḥ || 74 ||  
+ ५।४।१।१। देअथ् इन् अ दिस्तन्त् रेगिओन्
+ \[ओ\]  एद्न् ५७२-५७३,  \[ओ\]  त्र्। १४२
+५।७४अ[७३म] सन्निधाव् एष वै कल्पः शाव।आशौचस्य कीर्तितः ।  
+५।७४च्[७३म्च्] अ।सन्निधाव् अयं ज्ञेयो विधिः सम्बन्धि।बान्धवैः ॥ ७४ ॥  
 
 
-5.75a[74Ma] vigataṃ tu videśasthaṃ śṛṇuyād yo hy a.nirdaśam |  
-5.75c[74Mc] yat-śeṣaṃ daśarātrasya tāvad eva-aśucir bhavet || 75 ||  
+५।७५अ[७४म] विगतं तु विदेशस्थं शृणुयाद् यो ह्य् अ।निर्दशम् ।  
+५।७५च्[७४म्च्] यत्-शेषं दशरात्रस्य तावद् एव-अशुचिर् भवेत् ॥ ७५ ॥  
 
 
-5.76a[75Ma] atikrānte daśāhe ca trirātram aśucir bhavet |  
-5.76c[75Mc] saṃvatsare vyatīte tu spṛṣṭvā-eva-āpo viśudhyati || 76 ||  
+५।७६अ[७५म] अतिक्रान्ते दशाहे च त्रिरात्रम् अशुचिर् भवेत् ।  
+५।७६च्[७५म्च्] संवत्सरे व्यतीते तु स्पृष्ट्वा-एव-आपो विशुध्यति ॥ ७६ ॥  
 
 
-5.77a[76Ma] nirdaśaṃ jñātimaraṇaṃ śrutvā putrasya janma ca |  
-5.77c[76Mc] sa.vāsā jalam āplutya śuddho bhavati mānavaḥ || 77 ||  
+५।७७अ[७६म] निर्दशं ज्ञातिमरणं श्रुत्वा पुत्रस्य जन्म च ।  
+५।७७च्[७६म्च्] स।वासा जलम् आप्लुत्य शुद्धो भवति मानवः ॥ ७७ ॥  
 
 
-5.78a[77Ma] bāle deśāntarasthe ca pṛthak.piṇḍe ca saṃsthite |  
-5.78c[77Mc] sa.vāsā jalam āplutya sadya eva viśudhyati || 78 ||  
+५।७८अ[७७म] बाले देशान्तरस्थे च पृथक्।पिण्डे च संस्थिते ।  
+५।७८च्[७७म्च्] स।वासा जलम् आप्लुत्य सद्य एव विशुध्यति ॥ ७८ ॥  
 
 
- 5.4.1.2. Overlapping Period of Impurity
- \[O\]  edn 573,  \[O\]  tr. 142
-5.79a[78Ma] antar.daśāhe syātāṃ cet punar maraṇa.janmanī | 5.79a[78Ma]v/  \[M\] : “cet syātāṃ”  
-5.79c[78Mc] tāvat syād a.śucir vipro yāvat tat syād a.nirdaśam || 79 ||  
+ ५।४।१।२। ओवेर्लप्पिन्ग् पेरिओद् ओड़् इम्पुरित्य्
+ \[ओ\]  एद्न् ५७३,  \[ओ\]  त्र्। १४२
+५।७९अ[७८म] अन्तर्।दशाहे स्यातां चेत् पुनर् मरण।जन्मनी । ५।७९अ[७८म]व्।  \[म्\] : “चेत् स्यातां”  
+५।७९च्[७८म्च्] तावत् स्याद् अ।शुचिर् विप्रो यावत् तत् स्याद् अ।निर्दशम् ॥ ७९ ॥  
 
 
- 5.4.1.3. Death of Significant Others
- \[O\]  edn 573,  \[O\]  tr. 142
-5.80a[79Ma] trirātram āhur āśaucam ācārye saṃsthite sati |  
-5.80c[79Mc] tasya putre ca patnyāṃ ca divā.rātram iti sthitiḥ || 80 ||  
+ ५।४।१।३। देअथ् ओड़् सिग्निड़िचन्त् ओथेर्स्
+ \[ओ\]  एद्न् ५७३,  \[ओ\]  त्र्। १४२
+५।८०अ[७९म] त्रिरात्रम् आहुर् आशौचम् आचार्ये संस्थिते सति ।  
+५।८०च्[७९म्च्] तस्य पुत्रे च पत्न्यां च दिवा।रात्रम् इति स्थितिः ॥ ८० ॥  
 
 
-5.81a[80Ma] śrotriye tu-upasampanne trirātram aśucir bhavet |  
-5.81c[80Mc] mātule pakṣiṇīṃ rātriṃ śiṣya.ṛtvig.bāndhaveṣu ca || 81 ||  
+५।८१अ[८०म] श्रोत्रिये तु-उपसम्पन्ने त्रिरात्रम् अशुचिर् भवेत् ।  
+५।८१च्[८०म्च्] मातुले पक्षिणीं रात्रिं शिष्य।ऋत्विग्।बान्धवेषु च ॥ ८१ ॥  
 
 
-5.82a[81Ma] prete rājani sa.jyotir yasya syād viṣaye sthitaḥ |  
-5.82c[81Mc] a.śrotriye tv ahaḥ kṛtsnam anūcāne tathā gurau || 82 || 5.82c[81Mc]v/  \[M\] : “kṛtsnām”  
+५।८२अ[८१म] प्रेते राजनि स।ज्योतिर् यस्य स्याद् विषये स्थितः ।  
+५।८२च्[८१म्च्] अ।श्रोत्रिये त्व् अहः कृत्स्नम् अनूचाने तथा गुरौ ॥ ८२ ॥ ५।८२च्[८१म्च्]व्।  \[म्\] : “कृत्स्नाम्”  
 
 
- 5.4.1.4. Periods of Impurity for Different Classes
- \[O\]  edn 573-574,  \[O\]  tr. 142
-5.83a[82Ma] śuddhyed vipro daśāhena dvādaśāhena bhūmipaḥ |  
-5.83c[82Mc] vaiśyaḥ pañcadaśāhena śūdro māsena śudhyati || 83 ||  
+ ५।४।१।४। पेरिओद्स् ओड़् इम्पुरित्य् ड़ोर् दिड़्ड़ेरेन्त् च्लस्सेस्
+ \[ओ\]  एद्न् ५७३-५७४,  \[ओ\]  त्र्। १४२
+५।८३अ[८२म] शुद्ध्येद् विप्रो दशाहेन द्वादशाहेन भूमिपः ।  
+५।८३च्[८२म्च्] वैश्यः पञ्चदशाहेन शूद्रो मासेन शुध्यति ॥ ८३ ॥  
 
 
-5.84a[83Ma] na vardhayed agha.ahāni pratyūhen na-agniṣu kriyāḥ |  
-5.84c[83Mc] na ca tatkarma kurvāṇaḥ sa.nābhyo 'py aśucir bhavet || 84 ||  
+५।८४अ[८३म] न वर्धयेद् अघ।अहानि प्रत्यूहेन् न-अग्निषु क्रियाः ।  
+५।८४च्[८३म्च्] न च तत्कर्म कुर्वाणः स।नाभ्यो ऽप्य् अशुचिर् भवेत् ॥ ८४ ॥  
 
 
- 5.4.1.5. Impurity from Touch
- \[O\]  edn 575,  \[O\]  tr. 142
-5.85a[84Ma] divākīrtim udakyāṃ ca patitaṃ sūtikāṃ tathā |  
-5.85c[84Mc] śavaṃ tatspṛṣṭinaṃ ca-eva spṛṣṭvā snānena śudhyati || 85 ||  
+ ५।४।१।५। इम्पुरित्य् ड़्रोम् तोउछ्
+ \[ओ\]  एद्न् ५७५,  \[ओ\]  त्र्। १४२
+५।८५अ[८४म] दिवाकीर्तिम् उदक्यां च पतितं सूतिकां तथा ।  
+५।८५च्[८४म्च्] शवं तत्स्पृष्टिनं च-एव स्पृष्ट्वा स्नानेन शुध्यति ॥ ८५ ॥  
 
 
-5.86a[85Ma] ācamya prayato nityaṃ japed a.śucidarśane |  
-5.86c[85Mc] saurān mantrān yathā.utsāhaṃ pāvamānīś ca śaktitaḥ || 86 ||  
+५।८६अ[८५म] आचम्य प्रयतो नित्यं जपेद् अ।शुचिदर्शने ।  
+५।८६च्[८५म्च्] सौरान् मन्त्रान् यथा।उत्साहं पावमानीश् च शक्तितः ॥ ८६ ॥  
 
 
-5.87a[86Ma] nāraṃ spṛṣṭvā-asthi sa.snehaṃ snātvā vipro viśudhyati |  
-5.87c[86Mc] ācamya-eva tu niḥsnehaṃ gām ālabhya-arkam īkṣya vā || 87 ||  
+५।८७अ[८६म] नारं स्पृष्ट्वा-अस्थि स।स्नेहं स्नात्वा विप्रो विशुध्यति ।  
+५।८७च्[८६म्च्] आचम्य-एव तु निःस्नेहं गाम् आलभ्य-अर्कम् ईक्ष्य वा ॥ ८७ ॥  
 
 
- 5.4.1.6. Libations for the Dead
- \[O\]  edn 575-576,  \[O\]  tr. 142-143
-5.88a[87Ma] ādiṣṭī na-udakaṃ kuryād ā vratasya samāpanāt |  
-5.88c[87Mc] samāpte tu-udakaṃ kṛtvā trirātreṇa-eva śudhyati || 88 ||  
+ ५।४।१।६। लिबतिओन्स् ड़ोर् थे देअद्
+ \[ओ\]  एद्न् ५७५-५७६,  \[ओ\]  त्र्। १४२-१४३
+५।८८अ[८७म] आदिष्टी न-उदकं कुर्याद् आ व्रतस्य समापनात् ।  
+५।८८च्[८७म्च्] समाप्ते तु-उदकं कृत्वा त्रिरात्रेण-एव शुध्यति ॥ ८८ ॥  
 
 
-5.89a[88Ma] vṛthā.saṅkara.jātānāṃ pravrajyāsu ca tiṣṭhatām |  
-5.89c[88Mc] ātmanas tyāgināṃ ca-eva nivarteta-udakakriyā || 89 ||  
+५।८९अ[८८म] वृथा।सङ्कर।जातानां प्रव्रज्यासु च तिष्ठताम् ।  
+५।८९च्[८८म्च्] आत्मनस् त्यागिनां च-एव निवर्तेत-उदकक्रिया ॥ ८९ ॥  
 
 
-5.90a[89Ma] pāṣaṇḍam āśritānāṃ ca carantīnāṃ ca kāmataḥ |  
-5.90c[89Mc] garbha.bhartṛ.druhāṃ ca-eva surāpīnāṃ ca yoṣitām || 90 ||  
+५।९०अ[८९म] पाषण्डम् आश्रितानां च चरन्तीनां च कामतः ।  
+५।९०च्[८९म्च्] गर्भ।भर्तृ।द्रुहां च-एव सुरापीनां च योषिताम् ॥ ९० ॥  
 
 
-5.91a[90Ma] ācāryaṃ svam upādhyāyaṃ pitaraṃ mātaraṃ gurum |  
-5.91c[90Mc] nirhṛtya tu vratī pretān na vratena viyujyate || 91 ||  
+५।९१अ[९०म] आचार्यं स्वम् उपाध्यायं पितरं मातरं गुरुम् ।  
+५।९१च्[९०म्च्] निर्हृत्य तु व्रती प्रेतान् न व्रतेन वियुज्यते ॥ ९१ ॥  
 
 
- 5.4.1.7. Funeral Path
- \[O\]  edn 576,  \[O\]  tr. 143
-5.92a[91Ma] dakṣiṇena mṛtaṃ śūdraṃ puradvāreṇa nirharet |  
-5.92c[91Mc] paścima.uttara.pūrvais tu yathāyogaṃ dvijanmanaḥ || 92 ||  
+ ५।४।१।७। ड़ुनेरल् पथ्
+ \[ओ\]  एद्न् ५७६,  \[ओ\]  त्र्। १४३
+५।९२अ[९१म] दक्षिणेन मृतं शूद्रं पुरद्वारेण निर्हरेत् ।  
+५।९२च्[९१म्च्] पश्चिम।उत्तर।पूर्वैस् तु यथायोगं द्विजन्मनः ॥ ९२ ॥  
 
 
- 5.4.1.8. Instant Purification of Kings
- \[O\]  edn 576-577,  \[O\]  tr. 143
-5.93a[92Ma] na rājñām aghadoṣo 'sti vratināṃ na ca sattriṇām |  
-5.93c[92Mc] aindraṃ sthānam upāsīnā brahmabhūtā hi te sadā || 93 ||  
+ ५।४।१।८। इन्स्तन्त् पुरिड़िचतिओन् ओड़् किन्ग्स्
+ \[ओ\]  एद्न् ५७६-५७७,  \[ओ\]  त्र्। १४३
+५।९३अ[९२म] न राज्ञाम् अघदोषो ऽस्ति व्रतिनां न च सत्त्रिणाम् ।  
+५।९३च्[९२म्च्] ऐन्द्रं स्थानम् उपासीना ब्रह्मभूता हि ते सदा ॥ ९३ ॥  
 
 
-5.94a[93Ma] rājño mahātmike sthāne sadyaḥśaucaṃ vidhīyate |  
-5.94c[93Mc] prajānāṃ parirakṣārtham āsanaṃ ca-atra kāraṇam || 94 ||  
+५।९४अ[९३म] राज्ञो महात्मिके स्थाने सद्यःशौचं विधीयते ।  
+५।९४च्[९३म्च्] प्रजानां परिरक्षार्थम् आसनं च-अत्र कारणम् ॥ ९४ ॥  
 
 
-5.95a[94Ma] ḍimbha.āhava.hatānāṃ ca vidyutā pārthivena ca | 5.95a[94Ma]v/  \[M\] : “ḍimba.āhava.hatānāṃ”  
-5.95c[94Mc] go.brāhmaṇasya ca-eva-arthe yasya ca-icchati pārthivaḥ || 95 ||  
+५।९५अ[९४म] डिम्भ।आहव।हतानां च विद्युता पार्थिवेन च । ५।९५अ[९४म]व्।  \[म्\] : “डिम्ब।आहव।हतानां”  
+५।९५च्[९४म्च्] गो।ब्राह्मणस्य च-एव-अर्थे यस्य च-इच्छति पार्थिवः ॥ ९५ ॥  
 
 
-5.96a[95Ma] soma.agni.arka.anila.indrāṇāṃ vitta.appatyor yamasya ca |  
-5.96c[95Mc] aṣṭānāṃ lokapālānāṃ vapur dhārayate nṛpaḥ || 96 ||  
+५।९६अ[९५म] सोम।अग्नि।अर्क।अनिल।इन्द्राणां वित्त।अप्पत्योर् यमस्य च ।  
+५।९६च्[९५म्च्] अष्टानां लोकपालानां वपुर् धारयते नृपः ॥ ९६ ॥  
 
 
-5.97a[96Ma] lokeśādhiṣṭhito rājā na-asya-āśaucaṃ vidhīyate |  
-5.97c[96Mc] śauca.āśaucaṃ hi martyānāṃ lokebhyaḥ prabhava.apyayau || 97 ||  
+५।९७अ[९६म] लोकेशाधिष्ठितो राजा न-अस्य-आशौचं विधीयते ।  
+५।९७च्[९६म्च्] शौच।आशौचं हि मर्त्यानां लोकेभ्यः प्रभव।अप्ययौ ॥ ९७ ॥  
 
 
-5.98a[97Ma] udyatair āhave śastraiḥ kṣatradharmahatasya ca |  
-5.98c[97Mc] sadyaḥ santiṣṭhate yajñas tathā-āśaucam iti sthitiḥ || 98 ||  
+५।९८अ[९७म] उद्यतैर् आहवे शस्त्रैः क्षत्रधर्महतस्य च ।  
+५।९८च्[९७म्च्] सद्यः सन्तिष्ठते यज्ञस् तथा-आशौचम् इति स्थितिः ॥ ९८ ॥  
 
 
-5.99a[98Ma] vipraḥ śudhyaty apaḥ spṛṣṭvā kṣatriyo vāhana.āyudham |  
-5.99c[98Mc] vaiśyaḥ pratodaṃ raśmīn vā yaṣṭiṃ śūdraḥ kṛta.kriyaḥ || 99 ||  
+५।९९अ[९८म] विप्रः शुध्यत्य् अपः स्पृष्ट्वा क्षत्रियो वाहन।आयुधम् ।  
+५।९९च्[९८म्च्] वैश्यः प्रतोदं रश्मीन् वा यष्टिं शूद्रः कृत।क्रियः ॥ ९९ ॥  
 
 
-5.100a[99Ma] etad vo 'bhihitaṃ śaucaṃ sapiṇḍeṣu dvijottamāḥ |  
-5.100c[99Mc] asapiṇḍeṣu sarveṣu pretaśuddhiṃ nibodhata || 100 ||  
+५।१००अ[९९म] एतद् वो ऽभिहितं शौचं सपिण्डेषु द्विजोत्तमाः ।  
+५।१००च्[९९म्च्] असपिण्डेषु सर्वेषु प्रेतशुद्धिं निबोधत ॥ १०० ॥  
 
 
 # ५।४।२। देअथ् ओड़् अ पेर्सोन् बेलोन्गिन्ग् तो अ दिड़्ड़ेरेन्त् अन्चेस्त्र्य्
@@ -4336,30 +4335,30 @@
 ५।१०४च्[१०३म्च्] अ।स्वर्ग्या ह्य् आहुतिः सा स्यात्-शूद्रसंस्पर्शदूषिता ॥ १०४ ॥  
 
 
-# 5.4.3. Means of Purification
- \[O\]  edn 578-579,  \[O\]  tr. 144
-5.105a[104Ma] jñānaṃ tapo 'gnir āhāro mṛt-mano vāry upāñjanam |  
-5.105c[104Mc] vāyuḥ karma-arka.kālau ca śuddheḥ kartṝṇi dehinām || 105 ||  
+# ५।४।३। मेअन्स् ओड़् पुरिड़िचतिओन्
+ \[ओ\]  एद्न् ५७८-५७९,  \[ओ\]  त्र्। १४४
+५।१०५अ[१०४म] ज्ञानं तपो ऽग्निर् आहारो मृत्-मनो वार्य् उपाञ्जनम् ।  
+५।१०५च्[१०४म्च्] वायुः कर्म-अर्क।कालौ च शुद्धेः कर्तॄणि देहिनाम् ॥ १०५ ॥  
 
 
-5.106a[105Ma] sarveṣām eva śaucānām arthaśaucaṃ paraṃ smṛtaṃ |  
-5.106c[105Mc] yo 'rthe śucir hi sa śucir na mṛt.vāri.śuciḥ śuciḥ || 106 ||  
+५।१०६अ[१०५म] सर्वेषाम् एव शौचानाम् अर्थशौचं परं स्मृतं ।  
+५।१०६च्[१०५म्च्] यो ऽर्थे शुचिर् हि स शुचिर् न मृत्।वारि।शुचिः शुचिः ॥ १०६ ॥  
 
 
-5.107a[106Ma] kṣāntyā śudhyanti vidvāṃso dānena-a.kāryakāriṇaḥ | 5.107a[106Ma]v/  \[M\] : “śuddhyanti”  
-5.107c[106Mc] pracchanna.pāpā japyena tapasā vedavittamāḥ || 107 ||  
+५।१०७अ[१०६म] क्षान्त्या शुध्यन्ति विद्वांसो दानेन-अ।कार्यकारिणः । ५।१०७अ[१०६म]व्।  \[म्\] : “शुद्ध्यन्ति”  
+५।१०७च्[१०६म्च्] प्रच्छन्न।पापा जप्येन तपसा वेदवित्तमाः ॥ १०७ ॥  
 
 
-5.108a[107Ma] mṛt.toyaiḥ śudhyate śodhyaṃ nadī vegena śudhyati |  
-5.108c[107Mc] rajasā strī manoduṣṭā sannyāsena dvijottamāḥ || 108 ||  
+५।१०८अ[१०७म] मृत्।तोयैः शुध्यते शोध्यं नदी वेगेन शुध्यति ।  
+५।१०८च्[१०७म्च्] रजसा स्त्री मनोदुष्टा सन्न्यासेन द्विजोत्तमाः ॥ १०८ ॥  
 
 
-5.109a[108Ma] adbhir gātrāṇi śudhyanti manaḥ satyena śudhyati |  
-5.109c[108Mc] vidyā.tapobhyāṃ bhūtātmā buddhir jñānena śudhyati || 109 || 5.109c[108Mc]v/  \[M\] : “śuddhyati”  
+५।१०९अ[१०८म] अद्भिर् गात्राणि शुध्यन्ति मनः सत्येन शुध्यति ।  
+५।१०९च्[१०८म्च्] विद्या।तपोभ्यां भूतात्मा बुद्धिर् ज्ञानेन शुध्यति ॥ १०९ ॥ ५।१०९च्[१०८म्च्]व्।  \[म्\] : “शुद्ध्यति”  
 
 
-5.110a[109Ma] eṣa śaucasya vaḥ proktaḥ śarīrasya vinirṇayaḥ |  
-5.110c[109Mc] nānāvidhānāṃ dravyāṇāṃ śuddheḥ śṛṇuta nirṇayam || 110 ||  
+५।११०अ[१०९म] एष शौचस्य वः प्रोक्तः शरीरस्य विनिर्णयः ।  
+५।११०च्[१०९म्च्] नानाविधानां द्रव्याणां शुद्धेः शृणुत निर्णयम् ॥ ११० ॥  
 
 
  ५।५। पुरिड़िचतिओन् ओड़् अर्तिच्लेस्
@@ -4432,30 +4431,30 @@
 ५।१२७च्[१२५म्च्] अ।दृष्टम् अद्भिर् निर्णिक्तं यच् च वाचा प्रशस्यते ॥ १२७ ॥  
 
 
-# 5.5.1. Statutory Purity of Things
- \[O\]  edn 583-584,  \[O\]  tr. 145
-5.128a[126Ma] āpaḥ śuddhā bhūmigatā vaitṛṣṇyaṃ yāsu gor bhavet |  
-5.128c[126Mc] a.vyāptāś ced a.medhyena gandha.varṇa.rasa.anvitāḥ || 128 ||  
+# ५।५।१। स्ततुतोर्य् पुरित्य् ओड़् थिन्ग्स्
+ \[ओ\]  एद्न् ५८३-५८४,  \[ओ\]  त्र्। १४५
+५।१२८अ[१२६म] आपः शुद्धा भूमिगता वैतृष्ण्यं यासु गोर् भवेत् ।  
+५।१२८च्[१२६म्च्] अ।व्याप्ताश् चेद् अ।मेध्येन गन्ध।वर्ण।रस।अन्विताः ॥ १२८ ॥  
 
 
-5.129a[127Ma] nityaṃ śuddhaḥ kāru.hastaḥ paṇye yac ca prasāritam | 5.129a[127Ma]v/  \[M\] : “paṇyaṃ”  
-5.129c[127Mc] brahmacārigataṃ bhaikṣyaṃ nityaṃ medhyam iti sthitiḥ || 129 ||  
+५।१२९अ[१२७म] नित्यं शुद्धः कारु।हस्तः पण्ये यच् च प्रसारितम् । ५।१२९अ[१२७म]व्।  \[म्\] : “पण्यं”  
+५।१२९च्[१२७म्च्] ब्रह्मचारिगतं भैक्ष्यं नित्यं मेध्यम् इति स्थितिः ॥ १२९ ॥  
 
 
-5.130a[128Ma] nityam āsyaṃ śuci strīṇāṃ śakuniḥ phalapātane |  
-5.130c[128Mc] prasrave ca śucir vatsaḥ śvā mṛgagrahaṇe śuciḥ || 130 ||  
+५।१३०अ[१२८म] नित्यम् आस्यं शुचि स्त्रीणां शकुनिः फलपातने ।  
+५।१३०च्[१२८म्च्] प्रस्रवे च शुचिर् वत्सः श्वा मृगग्रहणे शुचिः ॥ १३० ॥  
 
 
-5.131a[129Ma] śvabhir hatasya yan māṃsaṃ śuci tan manur abravīt |  
-5.131c[129Mc] kravyādbhiś ca hatasya-anyaiś caṇḍālādyaiś ca dasyubhiḥ || 131 ||  
+५।१३१अ[१२९म] श्वभिर् हतस्य यन् मांसं शुचि तन् मनुर् अब्रवीत् ।  
+५।१३१च्[१२९म्च्] क्रव्याद्भिश् च हतस्य-अन्यैश् चण्डालाद्यैश् च दस्युभिः ॥ १३१ ॥  
 
 
-5.132a[130Ma] ūrdhvaṃ nābher yāni khāni tāni medhyāni sarvaśaḥ |  
-5.132c[130Mc] yāny adhas tāny a.medhyāni dehāc ca-eva malāś cyutāḥ || 132 ||  
+५।१३२अ[१३०म] ऊर्ध्वं नाभेर् यानि खानि तानि मेध्यानि सर्वशः ।  
+५।१३२च्[१३०म्च्] यान्य् अधस् तान्य् अ।मेध्यानि देहाच् च-एव मलाश् च्युताः ॥ १३२ ॥  
 
 
-5.133a[131Ma] makṣikā vipruṣaś chāyā gaur aśvaḥ sūryaraśmayaḥ |  
-5.133c[131Mc] rajo bhūr vāyur agniś ca sparśe medhyāni nirdiśet || 133 ||  
+५।१३३अ[१३१म] मक्षिका विप्रुषश् छाया गौर् अश्वः सूर्यरश्मयः ।  
+५।१३३च्[१३१म्च्] रजो भूर् वायुर् अग्निश् च स्पर्शे मेध्यानि निर्दिशेत् ॥ १३३ ॥  
 
 
  ५।६। पुरिड़िचतिओन् ओड़् थे बोद्य्
@@ -4512,8 +4511,8 @@
 ५।१४६च्[१४४म्च्] उक्तो वः सर्ववर्णानां स्त्रीणां धर्मान् निबोधत ॥ १४६ ॥  
 
 
- 5.7. Law with Respect to Women
- \[O\]  edn 588-592,  \[O\]  tr. 146-147
+ ५।७। लw wइथ् रेस्पेच्त् तो Wओमेन्
+ \[ओ\]  एद्न् ५८८-५९२,  \[ओ\]  त्र्। १४६-१४७
 # ५।७।१। लच्क् ओड़् इन्देपेन्देन्चे
  \[ओ\]  एद्न् ५८८,  \[ओ\]  त्र्। १४६
 ५।१४७अ[१४५म] बालया वा युवत्या वा वृद्धया वा-अपि योषिता ।  
@@ -4532,70 +4531,70 @@
 ५।१५०च्[१४८म्च्] सुसंस्कृत।उपस्करया व्यये च-अमुक्त।हस्तया ॥ १५० ॥  
 
 
-# 5.7.2. Duties towards Husband
- \[O\]  edn 588-592,  \[O\]  tr. 146-147
-5.151a[149Ma] yasmai dadyāt pitā tv enāṃ bhrātā vā-anumate pituḥ |  
-5.151c[149Mc] taṃ śuśrūṣeta jīvantaṃ saṃsthitaṃ ca na laṅghayet || 151 ||  
+# ५।७।२। दुतिएस् तोwअर्द्स् हुस्बन्द्
+ \[ओ\]  एद्न् ५८८-५९२,  \[ओ\]  त्र्। १४६-१४७
+५।१५१अ[१४९म] यस्मै दद्यात् पिता त्व् एनां भ्राता वा-अनुमते पितुः ।  
+५।१५१च्[१४९म्च्] तं शुश्रूषेत जीवन्तं संस्थितं च न लङ्घयेत् ॥ १५१ ॥  
 
 
-5.152a[150Ma] maṅgalārthaṃ svastyayanaṃ yajñaś ca-āsāṃ prajāpateḥ |  
-5.152c[150Mc] prayujyate vivāhe tu pradānaṃ svāmya.kāraṇam || 152 ||  
+५।१५२अ[१५०म] मङ्गलार्थं स्वस्त्ययनं यज्ञश् च-आसां प्रजापतेः ।  
+५।१५२च्[१५०म्च्] प्रयुज्यते विवाहे तु प्रदानं स्वाम्य।कारणम् ॥ १५२ ॥  
 
 
-5.153a[151Ma] an.ṛtāv ṛtukāle ca mantra.saṃskārakṛt patiḥ |  
-5.153c[151Mc] sukhasya nityaṃ dātā-iha paraloke ca yoṣitaḥ || 153 ||  
+५।१५३अ[१५१म] अन्।ऋताव् ऋतुकाले च मन्त्र।संस्कारकृत् पतिः ।  
+५।१५३च्[१५१म्च्] सुखस्य नित्यं दाता-इह परलोके च योषितः ॥ १५३ ॥  
 
 
-5.154a[152Ma] vi.śīlaḥ kāma.vṛtto vā guṇair vā parivarjitaḥ |  
-5.154c[152Mc] upacāryaḥ striyā sādhvyā satataṃ devavat patiḥ || 154 ||  
+५।१५४अ[१५२म] वि।शीलः काम।वृत्तो वा गुणैर् वा परिवर्जितः ।  
+५।१५४च्[१५२म्च्] उपचार्यः स्त्रिया साध्व्या सततं देववत् पतिः ॥ १५४ ॥  
 
 
-5.155a[153Ma] na-asti strīṇāṃ pṛthag yajño na vrataṃ na-apy upoṣaṇam | 5.155a[153Ma]v/  \[M\] : “upoṣitam”  
-5.155c[153Mc] patiṃ śuśrūṣate yena tena svarge mahīyate || 155 ||  
+५।१५५अ[१५३म] न-अस्ति स्त्रीणां पृथग् यज्ञो न व्रतं न-अप्य् उपोषणम् । ५।१५५अ[१५३म]व्।  \[म्\] : “उपोषितम्”  
+५।१५५च्[१५३म्च्] पतिं शुश्रूषते येन तेन स्वर्गे महीयते ॥ १५५ ॥  
 
 
-5.156a[154Ma] pāṇigrāhasya sādhvī strī jīvato vā mṛtasya vā |  
-5.156c[154Mc] patilokam abhīpsantī na-ācaret kiṃ cid a.priyam || 156 ||  
+५।१५६अ[१५४म] पाणिग्राहस्य साध्वी स्त्री जीवतो वा मृतस्य वा ।  
+५।१५६च्[१५४म्च्] पतिलोकम् अभीप्सन्ती न-आचरेत् किं चिद् अ।प्रियम् ॥ १५६ ॥  
 
 
-5.157a[155Ma] kāmaṃ tu ksapayed dehaṃ puṣpa.mūla.phalaiḥ śubhaiḥ |  
-5.157c[155Mc] na tu nāma-api gṛhṇīyāt patyau prete parasya tu || 157 ||  
+५।१५७अ[१५५म] कामं तु क्सपयेद् देहं पुष्प।मूल।फलैः शुभैः ।  
+५।१५७च्[१५५म्च्] न तु नाम-अपि गृह्णीयात् पत्यौ प्रेते परस्य तु ॥ १५७ ॥  
 
 
-5.158a[156Ma] āsīta-ā maraṇāt ksāntā niyatā brahmacāriṇī |  
-5.158c[156Mc] yo dharma ekapatnīnāṃ kāṅkṣantī tam anuttamam || 158 ||  
+५।१५८अ[१५६म] आसीत-आ मरणात् क्सान्ता नियता ब्रह्मचारिणी ।  
+५।१५८च्[१५६म्च्] यो धर्म एकपत्नीनां काङ्क्षन्ती तम् अनुत्तमम् ॥ १५८ ॥  
 
 
-5.159a[157Ma] anekāni sahasrāṇi kumāra.brahmacāriṇām |  
-5.159c[157Mc] divaṃ gatāni viprāṇām a.kṛtvā kulasantatim || 159 ||  
+५।१५९अ[१५७म] अनेकानि सहस्राणि कुमार।ब्रह्मचारिणाम् ।  
+५।१५९च्[१५७म्च्] दिवं गतानि विप्राणाम् अ।कृत्वा कुलसन्ततिम् ॥ १५९ ॥  
 
 
-5.160a[158Ma] mṛte bhartari sāḍhvī strī brahmacarye vyavasthitā |  
-5.160c[158Mc] svargaṃ gacchaty a.putrā-api yathā te brahmacāriṇaḥ || 160 ||  
+५।१६०अ[१५८म] मृते भर्तरि साढ्वी स्त्री ब्रह्मचर्ये व्यवस्थिता ।  
+५।१६०च्[१५८म्च्] स्वर्गं गच्छत्य् अ।पुत्रा-अपि यथा ते ब्रह्मचारिणः ॥ १६० ॥  
 
 
-5.161a[159Ma] apatyalobhād yā tu strī bhartāram ativartate |  
-5.161c[159Mc] sā-iha nindām avāpnoti paralokāc ca hīyate || 161 ||  
+५।१६१अ[१५९म] अपत्यलोभाद् या तु स्त्री भर्तारम् अतिवर्तते ।  
+५।१६१च्[१५९म्च्] सा-इह निन्दाम् अवाप्नोति परलोकाच् च हीयते ॥ १६१ ॥  
 
 
-5.162a[160Ma] na-anya.utpannā prajā-asti-iha na ca-apy anyaparigrahe | 5.162a[160Ma]v/  \[M\] : “na ca-anyasya parigrahe”  
-5.162c[160Mc] na dvitīyaś ca sādhvīnāṃ kva cid bhartā-upadiśyate || 162 ||  
+५।१६२अ[१६०म] न-अन्य।उत्पन्ना प्रजा-अस्ति-इह न च-अप्य् अन्यपरिग्रहे । ५।१६२अ[१६०म]व्।  \[म्\] : “न च-अन्यस्य परिग्रहे”  
+५।१६२च्[१६०म्च्] न द्वितीयश् च साध्वीनां क्व चिद् भर्ता-उपदिश्यते ॥ १६२ ॥  
 
 
-5.163a[161Ma] patiṃ hitvā-apakṛṣṭaṃ svam utkṛṣṭaṃ yā niṣevate | 5.163a[161Ma]v/  \[M\] : “hitvā-avakṛṣṭaṃ”  
-5.163c[161Mc] nindyā-eva sā bhavel loke para.pūrvā-iti ca-ucyate || 163 ||  
+५।१६३अ[१६१म] पतिं हित्वा-अपकृष्टं स्वम् उत्कृष्टं या निषेवते । ५।१६३अ[१६१म]व्।  \[म्\] : “हित्वा-अवकृष्टं”  
+५।१६३च्[१६१म्च्] निन्द्या-एव सा भवेल् लोके पर।पूर्वा-इति च-उच्यते ॥ १६३ ॥  
 
 
-5.164a[162Ma] vyabhicārāt tu bhartuḥ strī loke prāpnoti nindyatām | 5.164a[162Ma]v/  \[M\] : “vyabhicāre tu”  
-5.164c[162Mc] śṛgāla.yoniṃ prāpnoti pāpa.rogaiś ca pīḍyate || 164 ||  
+५।१६४अ[१६२म] व्यभिचारात् तु भर्तुः स्त्री लोके प्राप्नोति निन्द्यताम् । ५।१६४अ[१६२म]व्।  \[म्\] : “व्यभिचारे तु”  
+५।१६४च्[१६२म्च्] शृगाल।योनिं प्राप्नोति पाप।रोगैश् च पीड्यते ॥ १६४ ॥  
 
 
-5.165a[163Ma] patiṃ yā na-abhicarati mano.vāg.dehasaṃyutā | 5.165a[163Ma]v/  \[M\] : “.dehasaṃyatā”  
-5.165c[163Mc] sā bhartṛlokam āpnoti sadbhiḥ sādhvī-iti ca-ucyate || 165 ||  
+५।१६५अ[१६३म] पतिं या न-अभिचरति मनो।वाग्।देहसंयुता । ५।१६५अ[१६३म]व्।  \[म्\] : “।देहसंयता”  
+५।१६५च्[१६३म्च्] सा भर्तृलोकम् आप्नोति सद्भिः साध्वी-इति च-उच्यते ॥ १६५ ॥  
 
 
-5.166a[164Ma] anena nārī vṛttena mano.vāg.dehasaṃyatā |  
-5.166c[164Mc] iha-agryāṃ kīrtim āpnoti patilokaṃ paratra ca || 166 ||  
+५।१६६अ[१६४म] अनेन नारी वृत्तेन मनो।वाग्।देहसंयता ।  
+५।१६६च्[१६४म्च्] इह-अग्र्यां कीर्तिम् आप्नोति पतिलोकं परत्र च ॥ १६६ ॥  
 
 
 # ५।७।३। ड़ुनेरल्
@@ -4608,32 +4607,32 @@
 ५।१६८च्[१६६म्च्] पुनर् दारक्रियां कुर्यात् पुनर् आधानम् एव च ॥ १६८ ॥  
 
 
- 5.8. Concluding Statement on the Householder
- \[O\]  edn 592-593,  \[O\]  tr. 147
-5.169a[167Ma] anena vidhinā nityaṃ pañcayajñān na hāpayet |  
-5.169c[167Mc] dvitīyam āyuṣo bhāgaṃ kṛta.dāro gṛhe vaset || 169 ||  
+ ५।८। चोन्च्लुदिन्ग् स्ततेमेन्त् ओन् थे होउसेहोल्देर्
+ \[ओ\]  एद्न् ५९२-५९३,  \[ओ\]  त्र्। १४७
+५।१६९अ[१६७म] अनेन विधिना नित्यं पञ्चयज्ञान् न हापयेत् ।  
+५।१६९च्[१६७म्च्] द्वितीयम् आयुषो भागं कृत।दारो गृहे वसेत् ॥ १६९ ॥  
 
 
-# Chapter 6
- \[O\]  edn 594-612,  \[O\]  tr. 148-153
+# छप्तेर् ६
+ \[ओ\]  एद्न् ५९४-६१२,  \[ओ\]  त्र्। १४८-१५३
  ६।१। ड़ोरेस्त् हेर्मित्
  \[ओ\]  एद्न् ५९४-६००,  \[ओ\]  त्र्। १४८-१४९
 ६।०१अ एवं गृहाश्रमे स्थित्वा विधिवत् स्नातको द्विजः ।  
 ६।०१च् वने वसेत् तु नियतो यथावद् विजित।इन्द्रियः ॥ १ ॥  
 
 
-# 6.1.1. Time and Procedure
- \[O\]  edn 594,  \[O\]  tr. 148
-6.02a gṛhasthas tu yathā paśyed valī.palitam ātmanaḥ |  
-6.02c apatyasya-eva ca-apatyaṃ tadā-araṇyaṃ samāśrayet || 2 ||  
+# ६।१।१। तिमे अन्द् प्रोचेदुरे
+ \[ओ\]  एद्न् ५९४,  \[ओ\]  त्र्। १४८
+६।०२अ गृहस्थस् तु यथा पश्येद् वली।पलितम् आत्मनः ।  
+६।०२च् अपत्यस्य-एव च-अपत्यं तदा-अरण्यं समाश्रयेत् ॥ २ ॥  
 
 
-6.03a santyajya grāmyam āhāraṃ sarvaṃ ca-eva paricchadam |  
-6.03c putreṣu bhāryāṃ nikṣipya vanaṃ gacchet saha-eva vā || 3 ||  
+६।०३अ सन्त्यज्य ग्राम्यम् आहारं सर्वं च-एव परिच्छदम् ।  
+६।०३च् पुत्रेषु भार्यां निक्षिप्य वनं गच्छेत् सह-एव वा ॥ ३ ॥  
 
 
-6.04a agnihotraṃ samādāya gṛhyaṃ ca-agniparicchadam |  
-6.04c grāmād araṇyaṃ niḥsṛtya nivasen niyata.indriyaḥ || 4 || 6.04cv/  \[M\] : “niṣkramya”  
+६।०४अ अग्निहोत्रं समादाय गृह्यं च-अग्निपरिच्छदम् ।  
+६।०४च् ग्रामाद् अरण्यं निःसृत्य निवसेन् नियत।इन्द्रियः ॥ ४ ॥ ६।०४च्व्।  \[म्\] : “निष्क्रम्य”  
 
 
 # ६।१।२। मोदे ओड़् लिड़े
@@ -4742,22 +4741,22 @@
 ६।२८च् प्रतिगृह्य पुटेन-एव पाणिना शकलेन वा ॥ २८ ॥  
 
 
-# 6.1.3. Conclusion
- \[O\]  edn 599-600,  \[O\]  tr. 149
-6.29a etāś ca-anyāś ca seveta dīkṣā vipro vane vasan |  
-6.29c vividhāś ca-aupaniṣadīr ātmasaṃsiddhaye śrutīḥ || 29 ||  
+# ६।१।३। चोन्च्लुसिओन्
+ \[ओ\]  एद्न् ५९९-६००,  \[ओ\]  त्र्। १४९
+६।२९अ एताश् च-अन्याश् च सेवेत दीक्षा विप्रो वने वसन् ।  
+६।२९च् विविधाश् च-औपनिषदीर् आत्मसंसिद्धये श्रुतीः ॥ २९ ॥  
 
 
-6.30a ṛṣibhir brāhmaṇaiś ca-eva gṛhasthair eva sevitāḥ |  
-6.30c vidyā.tapo.vivṛddhyarthaṃ śarīrasya ca śuddhaye || 30 ||  
+६।३०अ ऋषिभिर् ब्राह्मणैश् च-एव गृहस्थैर् एव सेविताः ।  
+६।३०च् विद्या।तपो।विवृद्ध्यर्थं शरीरस्य च शुद्धये ॥ ३० ॥  
 
 
-6.31a aparājitāṃ vā-āsthāya vrajed diśam ajihmagaḥ |  
-6.31c ā nipātāt-śarīrasya yukto vāri.anila.aśanaḥ || 31 ||  
+६।३१अ अपराजितां वा-आस्थाय व्रजेद् दिशम् अजिह्मगः ।  
+६।३१च् आ निपातात्-शरीरस्य युक्तो वारि।अनिल।अशनः ॥ ३१ ॥  
 
 
-6.32a āsāṃ maharṣicaryāṇāṃ tyaktvā-anyatamayā tanum |  
-6.32c vīta.śoka.bhayo vipro brahmaloke mahīyate || 32 ||  
+६।३२अ आसां महर्षिचर्याणां त्यक्त्वा-अन्यतमया तनुम् ।  
+६।३२च् वीत।शोक।भयो विप्रो ब्रह्मलोके महीयते ॥ ३२ ॥  
 
 
  ६।२। Wअन्देरिन्ग् अस्चेतिच्
@@ -4770,18 +4769,18 @@
 ६।३४च् भिक्षा।बलि।परिश्रान्तः प्रव्रजन् प्रेत्य वर्धते ॥ ३४ ॥  
 
 
-# 6.2.1. Qualification
- \[O\]  edn 600-601,  \[O\]  tr. 150
-6.35a ṛṇāni trīṇy apākṛtya mano mokṣe niveśayet |  
-6.35c an.apākṛtya mokṣaṃ tu sevamāno vrajaty adhaḥ || 35 ||  
+# ६।२।१। क़ुअलिड़िचतिओन्
+ \[ओ\]  एद्न् ६००-६०१,  \[ओ\]  त्र्। १५०
+६।३५अ ऋणानि त्रीण्य् अपाकृत्य मनो मोक्षे निवेशयेत् ।  
+६।३५च् अन्।अपाकृत्य मोक्षं तु सेवमानो व्रजत्य् अधः ॥ ३५ ॥  
 
 
-6.36a adhītya vidhivad vedān putrāṃś ca-utpādya dharmataḥ |  
-6.36c iṣṭvā ca śaktito yajñair mano mokṣe niveśayet || 36 ||  
+६।३६अ अधीत्य विधिवद् वेदान् पुत्रांश् च-उत्पाद्य धर्मतः ।  
+६।३६च् इष्ट्वा च शक्तितो यज्ञैर् मनो मोक्षे निवेशयेत् ॥ ३६ ॥  
 
 
-6.37a an.adhītya dvijo vedān an.utpādya tathā sutān | 6.37av/  \[M\] : “tathā prajām”  
-6.37c an.iṣṭvā ca-eva yajñaiś ca mokṣam icchan vrajaty adhaḥ || 37 ||  
+६।३७अ अन्।अधीत्य द्विजो वेदान् अन्।उत्पाद्य तथा सुतान् । ६।३७अव्।  \[म्\] : “तथा प्रजाम्”  
+६।३७च् अन्।इष्ट्वा च-एव यज्ञैश् च मोक्षम् इच्छन् व्रजत्य् अधः ॥ ३७ ॥  
 
 
 # ६।२।२। इनितिअतिओन्
@@ -4802,38 +4801,38 @@
 ६।४१च् समुपोढेषु कामेषु निर्।अपेक्षः परिव्रजेत् ॥ ४१ ॥  
 
 
-# 6.2.3. Mode of Life
- \[O\]  edn 601-603,  \[O\]  tr. 150-151
-6.42a eka eva caren nityaṃ siddhyartham asahāyavān |  
-6.42c siddhim ekasya sampaśyan na jahāti na hīyate || 42 || 6.42cv/  \[M\] : “siddham”  
+# ६।२।३। मोदे ओड़् लिड़े
+ \[ओ\]  एद्न् ६०१-६०३,  \[ओ\]  त्र्। १५०-१५१
+६।४२अ एक एव चरेन् नित्यं सिद्ध्यर्थम् असहायवान् ।  
+६।४२च् सिद्धिम् एकस्य सम्पश्यन् न जहाति न हीयते ॥ ४२ ॥ ६।४२च्व्।  \[म्\] : “सिद्धम्”  
 
 
-6.43a an.agnir a.niketaḥ syād grāmam annārtham āśrayet |  
-6.43c upekṣako '.saṅkusuko munir bhāvasamāhitaḥ || 43 || 6.43cv/  \[M\] : “a.sāṅkusuko”  
+६।४३अ अन्।अग्निर् अ।निकेतः स्याद् ग्रामम् अन्नार्थम् आश्रयेत् ।  
+६।४३च् उपेक्षको ऽ।सङ्कुसुको मुनिर् भावसमाहितः ॥ ४३ ॥ ६।४३च्व्।  \[म्\] : “अ।साङ्कुसुको”  
 
 
-6.44a kapālaṃ vṛkṣamūlāni kucelam asahāyatā | 6.44av/  \[M\] : “kucailam”  
-6.44c samatā ca-eva sarvasminn etat-muktasya lakṣaṇam || 44 ||  
+६।४४अ कपालं वृक्षमूलानि कुचेलम् असहायता । ६।४४अव्।  \[म्\] : “कुचैलम्”  
+६।४४च् समता च-एव सर्वस्मिन्न् एतत्-मुक्तस्य लक्षणम् ॥ ४४ ॥  
 
 
-6.45a na-abhinandeta maraṇaṃ na-abhinandeta jīvitam |  
-6.45c kālam eva pratīkṣeta nirveśaṃ bhṛtako yathā || 45 ||  
+६।४५अ न-अभिनन्देत मरणं न-अभिनन्देत जीवितम् ।  
+६।४५च् कालम् एव प्रतीक्षेत निर्वेशं भृतको यथा ॥ ४५ ॥  
 
 
-6.46a dṛṣṭipūtaṃ nyaset pādaṃ vastrapūtaṃ jalaṃ pibet |  
-6.46c satyapūtāṃ vaded vācaṃ manaḥpūtaṃ samācaret || 46 ||  
+६।४६अ दृष्टिपूतं न्यसेत् पादं वस्त्रपूतं जलं पिबेत् ।  
+६।४६च् सत्यपूतां वदेद् वाचं मनःपूतं समाचरेत् ॥ ४६ ॥  
 
 
-6.47a ativādāṃs titikṣeta na-avamanyeta kaṃ cana |  
-6.47c na ca-imaṃ deham āśritya vairaṃ kurvīta kena cit || 47 ||  
+६।४७अ अतिवादांस् तितिक्षेत न-अवमन्येत कं चन ।  
+६।४७च् न च-इमं देहम् आश्रित्य वैरं कुर्वीत केन चित् ॥ ४७ ॥  
 
 
-6.48a kruddhyantaṃ na pratikrudhyed ākruṣṭaḥ kuśalaṃ vadet |  
-6.48c saptadvārāvakīrṇāṃ ca na vācam anṛtāṃ vadet || 48 ||  
+६।४८अ क्रुद्ध्यन्तं न प्रतिक्रुध्येद् आक्रुष्टः कुशलं वदेत् ।  
+६।४८च् सप्तद्वारावकीर्णां च न वाचम् अनृतां वदेत् ॥ ४८ ॥  
 
 
-6.49a adhyātma.ratir āsīno nir.apekṣo nir.āmiṣaḥ |  
-6.49c ātmanā-eva sahāyena sukhārthī vicared iha || 49 ||  
+६।४९अ अध्यात्म।रतिर् आसीनो निर्।अपेक्षो निर्।आमिषः ।  
+६।४९च् आत्मना-एव सहायेन सुखार्थी विचरेद् इह ॥ ४९ ॥  
 
 
 # ६।२।४। बेग्गिन्ग् अन्द् ड़ोओद्
@@ -4882,140 +4881,140 @@
 ६।६०च् अहिंसया च भूतानाम् अमृतत्वाय कल्पते ॥ ६० ॥  
 
 
-# 6.2.5. Yogic Meditation
- \[O\]  edn 606-610,  \[O\]  tr. 151-153
-6.61a avekṣeta gatīr nṝṇāṃ karmadoṣa.samudbhavāḥ |  
-6.61c niraye ca-eva patanaṃ yātanāś ca yamakṣaye || 61 ||  
+# ६।२।५। योगिच् मेदिततिओन्
+ \[ओ\]  एद्न् ६०६-६१०,  \[ओ\]  त्र्। १५१-१५३
+६।६१अ अवेक्षेत गतीर् नॄणां कर्मदोष।समुद्भवाः ।  
+६।६१च् निरये च-एव पतनं यातनाश् च यमक्षये ॥ ६१ ॥  
 
 
-6.62a viprayogaṃ priyaiś ca-eva saṃyogaṃ ca tathā-apriyaiḥ |  
-6.62c jarayā ca-abhibhavanaṃ vyādhibhiś ca-upapīḍanaṃ || 62 ||  
+६।६२अ विप्रयोगं प्रियैश् च-एव संयोगं च तथा-अप्रियैः ।  
+६।६२च् जरया च-अभिभवनं व्याधिभिश् च-उपपीडनं ॥ ६२ ॥  
 
 
-6.63a dehād utkramaṇaṃ ca-aṣmāt punar garbhe ca sambhavam |  
-6.63c yonikoṭisahasreṣu sṛtīś ca-asya-antarātmanaḥ || 63 ||  
+६।६३अ देहाद् उत्क्रमणं च-अष्मात् पुनर् गर्भे च सम्भवम् ।  
+६।६३च् योनिकोटिसहस्रेषु सृतीश् च-अस्य-अन्तरात्मनः ॥ ६३ ॥  
 
 
-6.64a adharma.prabhavaṃ ca-eva duḥkhayogaṃ śarīriṇām |  
-6.64c dharmārtha.prabhavaṃ ca-eva sukhasaṃyogam akṣayam || 64 ||  
+६।६४अ अधर्म।प्रभवं च-एव दुःखयोगं शरीरिणाम् ।  
+६।६४च् धर्मार्थ।प्रभवं च-एव सुखसंयोगम् अक्षयम् ॥ ६४ ॥  
 
 
-6.65a sūkṣmatāṃ ca-anvavekṣeta yogena paramātmanaḥ |  
-6.65c deheṣu ca samutpattim uttameṣv adhameṣu ca || 65 || 6.65cv/  \[M\] : “deheṣu caivopapattim”  
+६।६५अ सूक्ष्मतां च-अन्ववेक्षेत योगेन परमात्मनः ।  
+६।६५च् देहेषु च समुत्पत्तिम् उत्तमेष्व् अधमेषु च ॥ ६५ ॥ ६।६५च्व्।  \[म्\] : “देहेषु चैवोपपत्तिम्”  
 
 
- 6.2.5.1. Conduct
- \[O\]  edn 607,  \[O\]  tr. 151-152
-6.66a dūṣito 'pi cared dharmaṃ yatra tatra-āśrame rataḥ | 6.66av/  \[M\] : “bhūṣito 'pi”  
-6.66c samaḥ sarveṣu bhūteṣu na liṅgaṃ dharmakāraṇam || 66 ||  
+ ६।२।५।१। चोन्दुच्त्
+ \[ओ\]  एद्न् ६०७,  \[ओ\]  त्र्। १५१-१५२
+६।६६अ दूषितो ऽपि चरेद् धर्मं यत्र तत्र-आश्रमे रतः । ६।६६अव्।  \[म्\] : “भूषितो ऽपि”  
+६।६६च् समः सर्वेषु भूतेषु न लिङ्गं धर्मकारणम् ॥ ६६ ॥  
 
 
-6.67a phalaṃ katakavṛkṣasya yady apy ambuprasādakam |  
-6.67c na nāmagrahaṇād eva tasya vāri prasīdati || 67 ||  
+६।६७अ फलं कतकवृक्षस्य यद्य् अप्य् अम्बुप्रसादकम् ।  
+६।६७च् न नामग्रहणाद् एव तस्य वारि प्रसीदति ॥ ६७ ॥  
 
 
-6.68a saṃrakṣaṇārthaṃ jantūnāṃ rātrāv ahani vā sadā |  
-6.68c śarīrasya-atyaye ca-eva samīkṣya vasudhāṃ caret || 68 ||  
+६।६८अ संरक्षणार्थं जन्तूनां रात्राव् अहनि वा सदा ।  
+६।६८च् शरीरस्य-अत्यये च-एव समीक्ष्य वसुधां चरेत् ॥ ६८ ॥  
 
 
-6.69a ahnā rātryā ca yāñ jantūn hinasty ajñānato yatiḥ |  
-6.69c teṣāṃ snātvā viśuddhyarthaṃ prāṇāyāmān ṣaḍ ācaret || 69 ||  
+६।६९अ अह्ना रात्र्या च याञ् जन्तून् हिनस्त्य् अज्ञानतो यतिः ।  
+६।६९च् तेषां स्नात्वा विशुद्ध्यर्थं प्राणायामान् षड् आचरेत् ॥ ६९ ॥  
 
 
- 6.2.5.2. Breath Control
- \[O\]  edn 607-608,  \[O\]  tr. 152
-6.70a prāṇāyāmā brāhmaṇasya trayo 'pi vidhivat kṛtāḥ |  
-6.70c vyāhṛti.praṇavair yuktā vijñeyaṃ paramaṃ tapaḥ || 70 ||  
+ ६।२।५।२। ब्रेअथ् चोन्त्रोल्
+ \[ओ\]  एद्न् ६०७-६०८,  \[ओ\]  त्र्। १५२
+६।७०अ प्राणायामा ब्राह्मणस्य त्रयो ऽपि विधिवत् कृताः ।  
+६।७०च् व्याहृति।प्रणवैर् युक्ता विज्ञेयं परमं तपः ॥ ७० ॥  
 
 
-6.71a dahyante dhmāyamānānāṃ dhātūnāṃ hi yathā malāḥ |  
-6.71c tathā-indriyāṇāṃ dahyante doṣāḥ prāṇasya nigrahāt || 71 ||  
+६।७१अ दह्यन्ते ध्मायमानानां धातूनां हि यथा मलाः ।  
+६।७१च् तथा-इन्द्रियाणां दह्यन्ते दोषाः प्राणस्य निग्रहात् ॥ ७१ ॥  
 
 
- 6.2.5.3. Meditation
- \[O\]  edn 608,  \[O\]  tr. 152
-6.72a prāṇāyamair dahed doṣān dhāraṇābhiś ca kilbiṣam |  
-6.72c pratyāhāreṇa saṃsargān dhyānena-an.īśvarān guṇān || 72 ||  
+ ६।२।५।३। मेदिततिओन्
+ \[ओ\]  एद्न् ६०८,  \[ओ\]  त्र्। १५२
+६।७२अ प्राणायमैर् दहेद् दोषान् धारणाभिश् च किल्बिषम् ।  
+६।७२च् प्रत्याहारेण संसर्गान् ध्यानेन-अन्।ईश्वरान् गुणान् ॥ ७२ ॥  
 
 
-6.73a uccāvaceṣu bhūteṣu durjñeyām akṛta.ātmabhiḥ |  
-6.73c dhyānayogena sampaśyed gatim asya-antarātmanaḥ || 73 ||  
+६।७३अ उच्चावचेषु भूतेषु दुर्ज्ञेयाम् अकृत।आत्मभिः ।  
+६।७३च् ध्यानयोगेन सम्पश्येद् गतिम् अस्य-अन्तरात्मनः ॥ ७३ ॥  
 
 
-6.74a samyagdarśanasampannaḥ karmabhir na nibadhyate |  
-6.74c darśanena vihīnas tu saṃsāraṃ pratipadyate || 74 ||  
+६।७४अ सम्यग्दर्शनसम्पन्नः कर्मभिर् न निबध्यते ।  
+६।७४च् दर्शनेन विहीनस् तु संसारं प्रतिपद्यते ॥ ७४ ॥  
 
 
-6.75a ahiṃsayā-indriya.a.saṅgair vaidikaiś ca-eva karmabhiḥ |  
-6.75c tapasaś caraṇaiś ca-ugraiḥ sādhayanti-iha tatpadam || 75 ||  
+६।७५अ अहिंसया-इन्द्रिय।अ।सङ्गैर् वैदिकैश् च-एव कर्मभिः ।  
+६।७५च् तपसश् चरणैश् च-उग्रैः साधयन्ति-इह तत्पदम् ॥ ७५ ॥  
 
 
- 6.2.5.4. Meditation on the Body
- \[O\]  edn 608-609,  \[O\]  tr. 152
-6.76a asthi.sthūṇaṃ snāyuyutaṃ māṃsa.śoṇita.lepanam |  
-6.76c carmāvanaddhaṃ dur.gandhi pūrṇaṃ mūtra.purīṣayoḥ || 76 ||  
+ ६।२।५।४। मेदिततिओन् ओन् थे बोद्य्
+ \[ओ\]  एद्न् ६०८-६०९,  \[ओ\]  त्र्। १५२
+६।७६अ अस्थि।स्थूणं स्नायुयुतं मांस।शोणित।लेपनम् ।  
+६।७६च् चर्मावनद्धं दुर्।गन्धि पूर्णं मूत्र।पुरीषयोः ॥ ७६ ॥  
 
 
-6.77a jarā.śokasamāviṣṭaṃ rogāyatanam āturam |  
-6.77c rajasvalam anityaṃ ca bhūtāvāsam imaṃ tyajet || 77 ||  
+६।७७अ जरा।शोकसमाविष्टं रोगायतनम् आतुरम् ।  
+६।७७च् रजस्वलम् अनित्यं च भूतावासम् इमं त्यजेत् ॥ ७७ ॥  
 
 
-6.78a nadīkūlaṃ yathā vṛkṣo vṛkṣaṃ vā śakunir yathā |  
-6.78c tathā tyajann imaṃ dehaṃ kṛcchrād grāhād vimucyate || 78 ||  
+६।७८अ नदीकूलं यथा वृक्षो वृक्षं वा शकुनिर् यथा ।  
+६।७८च् तथा त्यजन्न् इमं देहं कृच्छ्राद् ग्राहाद् विमुच्यते ॥ ७८ ॥  
 
 
- 6.2.5.5. Final Goal
- \[O\]  edn 609-610,  \[O\]  tr. 152-153
-6.79a priyeṣu sveṣu sukṛtam apriyeṣu ca duṣkṛtam |  
-6.79c visṛjya dhyānayogena brahma-abhyeti sanātanam || 79 ||  
+ ६।२।५।५। ड़िनल् गोअल्
+ \[ओ\]  एद्न् ६०९-६१०,  \[ओ\]  त्र्। १५२-१५३
+६।७९अ प्रियेषु स्वेषु सुकृतम् अप्रियेषु च दुष्कृतम् ।  
+६।७९च् विसृज्य ध्यानयोगेन ब्रह्म-अभ्येति सनातनम् ॥ ७९ ॥  
 
 
-6.80a yadā bhāvena bhavati sarvabhāveṣu niḥspṛhaḥ |  
-6.80c tadā sukham avāpnoti pretya ca-iha ca śāśvatam || 80 ||  
+६।८०अ यदा भावेन भवति सर्वभावेषु निःस्पृहः ।  
+६।८०च् तदा सुखम् अवाप्नोति प्रेत्य च-इह च शाश्वतम् ॥ ८० ॥  
 
 
-6.81a anena vidhinā sarvāṃs tyaktvā saṅgān-śanaiḥ śanaiḥ |  
-6.81c sarvadvandvavinirmukto brahmaṇy eva-avatiṣṭhate || 81 ||  
+६।८१अ अनेन विधिना सर्वांस् त्यक्त्वा सङ्गान्-शनैः शनैः ।  
+६।८१च् सर्वद्वन्द्वविनिर्मुक्तो ब्रह्मण्य् एव-अवतिष्ठते ॥ ८१ ॥  
 
 
-6.82a dhyānikaṃ sarvam eva-etad yad etad abhiśabditam |  
-6.82c na hy an.adhyātmavit kaś cit kriyāphalam upāśnute || 82 ||  
+६।८२अ ध्यानिकं सर्वम् एव-एतद् यद् एतद् अभिशब्दितम् ।  
+६।८२च् न ह्य् अन्।अध्यात्मवित् कश् चित् क्रियाफलम् उपाश्नुते ॥ ८२ ॥  
 
 
-6.83a adhiyajñaṃ brahma japed ādhidaivikam eva ca |  
-6.83c ādhyātmikaṃ ca satataṃ vedāntābhihitaṃ ca yat || 83 ||  
+६।८३अ अधियज्ञं ब्रह्म जपेद् आधिदैविकम् एव च ।  
+६।८३च् आध्यात्मिकं च सततं वेदान्ताभिहितं च यत् ॥ ८३ ॥  
 
 
-6.84a idaṃ śaraṇam ajñānām idam eva vijānatām |  
-6.84c idam anvicchatāṃ svargam idam ānantyam icchatām || 84 ||  
+६।८४अ इदं शरणम् अज्ञानाम् इदम् एव विजानताम् ।  
+६।८४च् इदम् अन्विच्छतां स्वर्गम् इदम् आनन्त्यम् इच्छताम् ॥ ८४ ॥  
 
 
-6.85a anena kramayogena parivrajati yo dvijaḥ |  
-6.85c sa vidhūya-iha pāpmānaṃ paraṃ brahma-adhigacchati || 85 ||  
+६।८५अ अनेन क्रमयोगेन परिव्रजति यो द्विजः ।  
+६।८५च् स विधूय-इह पाप्मानं परं ब्रह्म-अधिगच्छति ॥ ८५ ॥  
 
 
-6.86a eṣa dharmo 'nuśiṣṭo vo yatīnāṃ niyata.ātmanām |  
-6.86c vedasannyāsikānāṃ tu karmayogaṃ nibodhata || 86 ||  
+६।८६अ एष धर्मो ऽनुशिष्टो वो यतीनां नियत।आत्मनाम् ।  
+६।८६च् वेदसन्न्यासिकानां तु कर्मयोगं निबोधत ॥ ८६ ॥  
 
 
  ६।३। वेदिच् रेतिरेए
  \[ओ\]  एद्न् ६१०-६१२,  \[ओ\]  त्र्। १५३
-# 6.3.1. Superiority of the Householder
- \[O\]  edn 610,  \[O\]  tr. 153
-6.87a brahmacārī gṛhasthaś ca vānaprastho yatis tathā |  
-6.87c ete gṛhastha.prabhavāś catvāraḥ pṛthag āśramāḥ || 87 ||  
+# ६।३।१। सुपेरिओरित्य् ओड़् थे होउसेहोल्देर्
+ \[ओ\]  एद्न् ६१०,  \[ओ\]  त्र्। १५३
+६।८७अ ब्रह्मचारी गृहस्थश् च वानप्रस्थो यतिस् तथा ।  
+६।८७च् एते गृहस्थ।प्रभवाश् चत्वारः पृथग् आश्रमाः ॥ ८७ ॥  
 
 
-6.88a sarve 'pi kramaśas tv ete yathāśāstraṃ niṣevitāḥ |  
-6.88c yathā.ukta.kāriṇaṃ vipraṃ nayanti paramāṃ gatim || 88 ||  
+६।८८अ सर्वे ऽपि क्रमशस् त्व् एते यथाशास्त्रं निषेविताः ।  
+६।८८च् यथा।उक्त।कारिणं विप्रं नयन्ति परमां गतिम् ॥ ८८ ॥  
 
 
-6.89a sarveṣām api ca-eteṣāṃ veda.smṛtividhānataḥ | 6.89av/  \[M\] : “veda.śrutividhānataḥ”  
-6.89c gṛhastha ucyate śreṣṭhaḥ sa trīn etān bibharti hi || 89 ||  
+६।८९अ सर्वेषाम् अपि च-एतेषां वेद।स्मृतिविधानतः । ६।८९अव्।  \[म्\] : “वेद।श्रुतिविधानतः”  
+६।८९च् गृहस्थ उच्यते श्रेष्ठः स त्रीन् एतान् बिभर्ति हि ॥ ८९ ॥  
 
 
-6.90a yathā nadī.nadāḥ sarve sāgare yānti saṃsthitim |  
-6.90c tathā-eva-āśramiṇaḥ sarve gṛhasthe yānti saṃsthitim || 90 ||  
+६।९०अ यथा नदी।नदाः सर्वे सागरे यान्ति संस्थितिम् ।  
+६।९०च् तथा-एव-आश्रमिणः सर्वे गृहस्थे यान्ति संस्थितिम् ॥ ९० ॥  
 
 
 # ६।३।२। थे तेन्-पोइन्त् लw
@@ -5032,176 +5031,176 @@
 ६।९३च् अधीत्य च-अनुवर्तन्ते ते यान्ति परमां गतिम् ॥ ९३ ॥  
 
 
-# 6.3.3. Retirement
- \[O\]  edn 611-612,  \[O\]  tr. 153
-6.94a daśa.lakṣaṇakaṃ dharmam anutiṣṭhan samāhitaḥ |  
-6.94c vedāntaṃ vidhivat-śrutvā sannyased an.ṛṇo dvijaḥ || 94 ||  
+# ६।३।३। रेतिरेमेन्त्
+ \[ओ\]  एद्न् ६११-६१२,  \[ओ\]  त्र्। १५३
+६।९४अ दश।लक्षणकं धर्मम् अनुतिष्ठन् समाहितः ।  
+६।९४च् वेदान्तं विधिवत्-श्रुत्वा सन्न्यसेद् अन्।ऋणो द्विजः ॥ ९४ ॥  
 
 
-6.95a sannyasya sarvakarmāṇi karmadoṣān apānudan |  
-6.95c niyato vedam abhyasya putraiśvarye sukhaṃ vaset || 95 ||  
+६।९५अ सन्न्यस्य सर्वकर्माणि कर्मदोषान् अपानुदन् ।  
+६।९५च् नियतो वेदम् अभ्यस्य पुत्रैश्वर्ये सुखं वसेत् ॥ ९५ ॥  
 
 
-6.96a evaṃ sannyasya karmāṇi svakārya.paramo '.spṛhaḥ |  
-6.96c sannyāsena-apahatya-enaḥ prāpnoti paramaṃ gatim || 96 ||  
+६।९६अ एवं सन्न्यस्य कर्माणि स्वकार्य।परमो ऽ।स्पृहः ।  
+६।९६च् सन्न्यासेन-अपहत्य-एनः प्राप्नोति परमं गतिम् ॥ ९६ ॥  
 
 
-6.97a eṣa vo 'bhihito dharmo brāhmaṇasya catur.vidhaḥ |  
-6.97c puṇyo 'kṣaya.phalaḥ pretya rājñāṃ dharmaṃ nibodhata || 97 ||  
+६।९७अ एष वो ऽभिहितो धर्मो ब्राह्मणस्य चतुर्।विधः ।  
+६।९७च् पुण्यो ऽक्षय।फलः प्रेत्य राज्ञां धर्मं निबोधत ॥ ९७ ॥  
 
 
-# Chapter 7
- \[O\]  edn 613-654,  \[O\]  tr. 154-166
+# छप्तेर् ७
+ \[ओ\]  एद्न् ६१३-६५४,  \[ओ\]  त्र्। १५४-१६६
  ७।१। थे लw ड़ोर् थे किन्ग्
  \[ओ\]  एद्न् ६१३-६५४,  \[ओ\]  त्र्। १५४-१६६
 ७।०१अ राजधर्मान् प्रवक्ष्यामि यथावृत्तो भवेन् नृपः ।  
 ७।०१च् सम्भवश् च यथा तस्य सिद्धिश् च परमा यथा ॥ १ ॥  
 
 
-# 7.1.1. Origin of the King
- \[O\]  edn 613-618,  \[O\]  tr. 154-155
-7.02a brāhmaṃ prāptena saṃskāraṃ kṣatriyeṇa yathāvidhi |  
-7.02c sarvasya-asya yathānyāyaṃ kartavyaṃ parirakṣaṇam || 2 ||  
+# ७।१।१। ओरिगिन् ओड़् थे किन्ग्
+ \[ओ\]  एद्न् ६१३-६१८,  \[ओ\]  त्र्। १५४-१५५
+७।०२अ ब्राह्मं प्राप्तेन संस्कारं क्षत्रियेण यथाविधि ।  
+७।०२च् सर्वस्य-अस्य यथान्यायं कर्तव्यं परिरक्षणम् ॥ २ ॥  
 
 
-7.03a a.rājake hi loke 'smin sarvato vidruto bhayāt |  
-7.03c rakṣārtham asya sarvasya rājānam asṛjat prabhuḥ || 3 ||  
+७।०३अ अ।राजके हि लोके ऽस्मिन् सर्वतो विद्रुतो भयात् ।  
+७।०३च् रक्षार्थम् अस्य सर्वस्य राजानम् असृजत् प्रभुः ॥ ३ ॥  
 
 
-7.04a indra.anila.yama.arkāṇām agneś ca varuṇasya ca |  
-7.04c candra.vitteśayoś ca-eva mātrā nirhṛtya śāśvatīḥ || 4 ||  
+७।०४अ इन्द्र।अनिल।यम।अर्काणाम् अग्नेश् च वरुणस्य च ।  
+७।०४च् चन्द्र।वित्तेशयोश् च-एव मात्रा निर्हृत्य शाश्वतीः ॥ ४ ॥  
 
 
-7.05a yasmād eṣāṃ surendrāṇāṃ mātrābhyo nirmito nṛpaḥ |  
-7.05c tasmād abhibhavaty eṣa sarvabhūtāni tejasā || 5 ||  
+७।०५अ यस्माद् एषां सुरेन्द्राणां मात्राभ्यो निर्मितो नृपः ।  
+७।०५च् तस्माद् अभिभवत्य् एष सर्वभूतानि तेजसा ॥ ५ ॥  
 
 
-7.06a tapaty ādityavac ca-eṣa cakṣūṃṣi ca manāṃsi ca |  
-7.06c na ca-enaṃ bhuvi śaknoti kaś cid apy abhivīkṣitum || 6 ||  
+७।०६अ तपत्य् आदित्यवच् च-एष चक्षूंषि च मनांसि च ।  
+७।०६च् न च-एनं भुवि शक्नोति कश् चिद् अप्य् अभिवीक्षितुम् ॥ ६ ॥  
 
 
-7.07a so 'gnir bhavati vāyuś ca so 'rkaḥ somaḥ sa dharmarāṭ |  
-7.07c sa kuberaḥ sa varuṇaḥ sa mahendraḥ prabhāvataḥ || 7 || 7.07cv/  \[M\] : “sa ca-indraḥ svaprabhāvataḥ”  
+७।०७अ सो ऽग्निर् भवति वायुश् च सो ऽर्कः सोमः स धर्मराट् ।  
+७।०७च् स कुबेरः स वरुणः स महेन्द्रः प्रभावतः ॥ ७ ॥ ७।०७च्व्।  \[म्\] : “स च-इन्द्रः स्वप्रभावतः”  
 
 
-7.08a bālo 'pi na-avamāntavyo manuṣya iti bhūmipaḥ |  
-7.08c mahatī devatā hy eṣā nararūpeṇa tiṣṭhati || 8 ||  
+७।०८अ बालो ऽपि न-अवमान्तव्यो मनुष्य इति भूमिपः ।  
+७।०८च् महती देवता ह्य् एषा नररूपेण तिष्ठति ॥ ८ ॥  
 
 
-7.09a ekam eva dahaty agnir naraṃ durupasarpiṇam |  
-7.09c kulaṃ dahati rājā-agniḥ sa.paśu.dravyasañcayam || 9 ||  
+७।०९अ एकम् एव दहत्य् अग्निर् नरं दुरुपसर्पिणम् ।  
+७।०९च् कुलं दहति राजा-अग्निः स।पशु।द्रव्यसञ्चयम् ॥ ९ ॥  
 
 
-7.10a kāryaṃ so 'vekṣya śaktiṃ ca deśa.kālau ca tattvataḥ |  
-7.10c kurute dharmasiddhyarthaṃ viśvarūpaṃ punaḥ punaḥ || 10 ||  
+७।१०अ कार्यं सो ऽवेक्ष्य शक्तिं च देश।कालौ च तत्त्वतः ।  
+७।१०च् कुरुते धर्मसिद्ध्यर्थं विश्वरूपं पुनः पुनः ॥ १० ॥  
 
 
-7.11a yasya prasāde padmā śrīr vijayaś ca parākrame |  
-7.11c mṛtyuś ca vasati krodhe sarvatejomayo hi saḥ || 11 ||  
+७।११अ यस्य प्रसादे पद्मा श्रीर् विजयश् च पराक्रमे ।  
+७।११च् मृत्युश् च वसति क्रोधे सर्वतेजोमयो हि सः ॥ ११ ॥  
 
 
-7.12a taṃ yas tu dveṣṭi sammohāt sa vinaśyaty asaṃśayam |  
-7.12c tasya hy āśu vināśāya rājā prakurute manaḥ || 12 ||  
+७।१२अ तं यस् तु द्वेष्टि सम्मोहात् स विनश्यत्य् असंशयम् ।  
+७।१२च् तस्य ह्य् आशु विनाशाय राजा प्रकुरुते मनः ॥ १२ ॥  
 
 
-7.13a tasmād dharmaṃ yam iṣṭeṣu sa vyavasyen narādhipaḥ |  
-7.13c aniṣṭaṃ ca-apy aniṣṭeṣu taṃ dharmaṃ na vicālayet || 13 ||  
+७।१३अ तस्माद् धर्मं यम् इष्टेषु स व्यवस्येन् नराधिपः ।  
+७।१३च् अनिष्टं च-अप्य् अनिष्टेषु तं धर्मं न विचालयेत् ॥ १३ ॥  
 
 
- 7.1.1.1. Punishment
- \[O\]  edn 615-617,  \[O\]  tr. 154-155
-7.14a tasyārthe sarvabhūtānāṃ goptāraṃ dharmam ātmajam | 7.14av/  \[M\] : “tadarthaṃ”  
-7.14c brahmatejomayaṃ daṇḍam asṛjat pūrvam īśvaraḥ || 14 ||  
+ ७।१।१।१। पुनिस्ह्मेन्त्
+ \[ओ\]  एद्न् ६१५-६१७,  \[ओ\]  त्र्। १५४-१५५
+७।१४अ तस्यार्थे सर्वभूतानां गोप्तारं धर्मम् आत्मजम् । ७।१४अव्।  \[म्\] : “तदर्थं”  
+७।१४च् ब्रह्मतेजोमयं दण्डम् असृजत् पूर्वम् ईश्वरः ॥ १४ ॥  
 
 
-7.15a tasya sarvāṇi bhūtāni sthāvarāṇi carāṇi ca |  
-7.15c bhayād bhogāya kalpante svadharmāt-na calanti ca || 15 ||  
+७।१५अ तस्य सर्वाणि भूतानि स्थावराणि चराणि च ।  
+७।१५च् भयाद् भोगाय कल्पन्ते स्वधर्मात्-न चलन्ति च ॥ १५ ॥  
 
 
-7.16a taṃ deśa.kālau śaktiṃ ca vidyāṃ ca-avekṣya tattvataḥ |  
-7.16c yathārhataḥ sampraṇayen nareṣv anyāya.vartiṣu || 16 ||  
+७।१६अ तं देश।कालौ शक्तिं च विद्यां च-अवेक्ष्य तत्त्वतः ।  
+७।१६च् यथार्हतः सम्प्रणयेन् नरेष्व् अन्याय।वर्तिषु ॥ १६ ॥  
 
 
-7.17a sa rājā puruṣo daṇḍaḥ sa netā śāsitā ca saḥ |  
-7.17c caturṇām āśramāṇāṃ ca dharmasya pratibhūḥ smṛtaḥ || 17 ||  
+७।१७अ स राजा पुरुषो दण्डः स नेता शासिता च सः ।  
+७।१७च् चतुर्णाम् आश्रमाणां च धर्मस्य प्रतिभूः स्मृतः ॥ १७ ॥  
 
 
-7.18a daṇḍaḥ śāsti prajāḥ sarvā daṇḍa eva-abhirakṣati |  
-7.18c daṇḍaḥ supteṣu jāgarti daṇḍaṃ dharmaṃ vidur budhāḥ || 18 ||  
+७।१८अ दण्डः शास्ति प्रजाः सर्वा दण्ड एव-अभिरक्षति ।  
+७।१८च् दण्डः सुप्तेषु जागर्ति दण्डं धर्मं विदुर् बुधाः ॥ १८ ॥  
 
 
-7.19a samīkṣya sa dhṛtaḥ samyak sarvā rañjayati prajāḥ |  
-7.19c a.samīkṣya praṇītas tu vināśayati sarvataḥ || 19 ||  
+७।१९अ समीक्ष्य स धृतः सम्यक् सर्वा रञ्जयति प्रजाः ।  
+७।१९च् अ।समीक्ष्य प्रणीतस् तु विनाशयति सर्वतः ॥ १९ ॥  
 
 
-7.20a yadi na praṇayed rājā daṇḍaṃ daṇḍyeṣv atandritaḥ |  
-7.20c śūle matsyān iva-apakṣyan durbalān balavattarāḥ || 20 ||  
+७।२०अ यदि न प्रणयेद् राजा दण्डं दण्ड्येष्व् अतन्द्रितः ।  
+७।२०च् शूले मत्स्यान् इव-अपक्ष्यन् दुर्बलान् बलवत्तराः ॥ २० ॥  
 
 
-7.21a adyāt kākaḥ puroḍāśaṃ śvā ca lihyādd havis tathā | 7.21av/  \[M\] : “śvā-avalihyādd”  
-7.21c svāmyaṃ ca na syāt kasmiṃś cit pravarteta-adhara.uttaram || 21 ||  
+७।२१अ अद्यात् काकः पुरोडाशं श्वा च लिह्याद्द् हविस् तथा । ७।२१अव्।  \[म्\] : “श्वा-अवलिह्याद्द्”  
+७।२१च् स्वाम्यं च न स्यात् कस्मिंश् चित् प्रवर्तेत-अधर।उत्तरम् ॥ २१ ॥  
 
 
-7.22a sarvo daṇḍajito loko durlabho hi śucir naraḥ |  
-7.22c daṇḍasya hi bhayāt sarvaṃ jagad bhogāya kalpate || 22 ||  
+७।२२अ सर्वो दण्डजितो लोको दुर्लभो हि शुचिर् नरः ।  
+७।२२च् दण्डस्य हि भयात् सर्वं जगद् भोगाय कल्पते ॥ २२ ॥  
 
 
-7.23a deva.dānava.gandharvā rakṣāṃsi pataga.uragāḥ |  
-7.23c te 'pi bhogāya kalpante daṇḍena-eva nipīḍitāḥ || 23 ||  
+७।२३अ देव।दानव।गन्धर्वा रक्षांसि पतग।उरगाः ।  
+७।२३च् ते ऽपि भोगाय कल्पन्ते दण्डेन-एव निपीडिताः ॥ २३ ॥  
 
 
-7.24a duṣyeyuḥ sarvavarṇāś ca bhidyeran sarvasetavaḥ |  
-7.24c sarvalokaprakopaś ca bhaved daṇḍasya vibhramāt || 24 ||  
+७।२४अ दुष्येयुः सर्ववर्णाश् च भिद्येरन् सर्वसेतवः ।  
+७।२४च् सर्वलोकप्रकोपश् च भवेद् दण्डस्य विभ्रमात् ॥ २४ ॥  
 
 
-7.25a yatra śyāmo lohita.akṣo daṇḍaś carati pāpahā |  
-7.25c prajās tatra na muhyanti netā cet sādhu paśyati || 25 ||  
+७।२५अ यत्र श्यामो लोहित।अक्षो दण्डश् चरति पापहा ।  
+७।२५च् प्रजास् तत्र न मुह्यन्ति नेता चेत् साधु पश्यति ॥ २५ ॥  
 
 
-7.26a tasya-āhuḥ sampraṇetāraṃ rājānaṃ satyavādinam |  
-7.26c samīkṣyakāriṇaṃ prājñaṃ dharma.kāma.artha.kovidam || 26 ||  
+७।२६अ तस्य-आहुः सम्प्रणेतारं राजानं सत्यवादिनम् ।  
+७।२६च् समीक्ष्यकारिणं प्राज्ञं धर्म।काम।अर्थ।कोविदम् ॥ २६ ॥  
 
 
-7.27a taṃ rājā praṇayan samyak trivargeṇa-abhivardhate |  
-7.27c kāma.ātmā viṣamaḥ kṣudro daṇḍena-eva nihanyate || 27 || 7.27cv/  \[M\] : “kāma.andho”  
+७।२७अ तं राजा प्रणयन् सम्यक् त्रिवर्गेण-अभिवर्धते ।  
+७।२७च् काम।आत्मा विषमः क्षुद्रो दण्डेन-एव निहन्यते ॥ २७ ॥ ७।२७च्व्।  \[म्\] : “काम।अन्धो”  
 
 
-7.28a daṇḍo hi sumahat.tejo durdharaś ca-akṛta.ātmabhiḥ |  
-7.28c dharmād vicalitaṃ hanti nṛpam eva sa.bāndhavam || 28 ||  
+७।२८अ दण्डो हि सुमहत्।तेजो दुर्धरश् च-अकृत।आत्मभिः ।  
+७।२८च् धर्माद् विचलितं हन्ति नृपम् एव स।बान्धवम् ॥ २८ ॥  
 
 
-7.29a tato durgaṃ ca rāṣṭraṃ ca lokaṃ ca sa.cara.acaram |  
-7.29c antarikṣagatāṃś ca-eva munīn devāṃś ca pīḍayet || 29 ||  
+७।२९अ ततो दुर्गं च राष्ट्रं च लोकं च स।चर।अचरम् ।  
+७।२९च् अन्तरिक्षगतांश् च-एव मुनीन् देवांश् च पीडयेत् ॥ २९ ॥  
 
 
-7.30a so 'sahāyena mūḍhena lubdhena-akṛta.buddhinā |  
-7.30c na śakyo nyāyato netuṃ saktena viṣayeṣu ca || 30 ||  
+७।३०अ सो ऽसहायेन मूढेन लुब्धेन-अकृत।बुद्धिना ।  
+७।३०च् न शक्यो न्यायतो नेतुं सक्तेन विषयेषु च ॥ ३० ॥  
 
 
-7.31a śucinā satyasandhena yathāśāstra.anusāriṇā |  
-7.31c praṇetuṃ śakyate daṇḍaḥ susahāyena dhīmatā || 31 ||  
+७।३१अ शुचिना सत्यसन्धेन यथाशास्त्र।अनुसारिणा ।  
+७।३१च् प्रणेतुं शक्यते दण्डः सुसहायेन धीमता ॥ ३१ ॥  
 
 
- 7.1.1.2. Proper Behaviour
- \[O\]  edn 617-618,  \[O\]  tr. 155
-7.32a svarāṣṭre nyāyavṛttaḥ syād bhṛśa.daṇḍaś ca śatruṣu |  
-7.32c suhṛtsv ajihmaḥ snigdheṣu brāhmaṇeṣu kṣamānvitaḥ || 32 ||  
+ ७।१।१।२। प्रोपेर् बेहविओउर्
+ \[ओ\]  एद्न् ६१७-६१८,  \[ओ\]  त्र्। १५५
+७।३२अ स्वराष्ट्रे न्यायवृत्तः स्याद् भृश।दण्डश् च शत्रुषु ।  
+७।३२च् सुहृत्स्व् अजिह्मः स्निग्धेषु ब्राह्मणेषु क्षमान्वितः ॥ ३२ ॥  
 
 
-7.33a evaṃvṛttasya nṛpateḥ śilā.uñchena-api jīvataḥ |  
-7.33c vistīryate yaśo loke tailabindur iva-ambhasi || 33 ||  
+७।३३अ एवंवृत्तस्य नृपतेः शिला।उञ्छेन-अपि जीवतः ।  
+७।३३च् विस्तीर्यते यशो लोके तैलबिन्दुर् इव-अम्भसि ॥ ३३ ॥  
 
 
-7.34a atas tu viparītasya nṛpater ajita.ātmanaḥ |  
-7.34c saṅkṣipyate yaśo loke ghṛtabindur iva-ambhasi || 34 ||  
+७।३४अ अतस् तु विपरीतस्य नृपतेर् अजित।आत्मनः ।  
+७।३४च् सङ्क्षिप्यते यशो लोके घृतबिन्दुर् इव-अम्भसि ॥ ३४ ॥  
 
 
-7.35a sve sve dharme niviṣṭānāṃ sarveṣām anupūrvaśaḥ |  
-7.35c varṇānām āśramāṇāṃ ca rājā sṛṣṭo 'bhirakṣitā || 35 ||  
+७।३५अ स्वे स्वे धर्मे निविष्टानां सर्वेषाम् अनुपूर्वशः ।  
+७।३५च् वर्णानाम् आश्रमाणां च राजा सृष्टो ऽभिरक्षिता ॥ ३५ ॥  
 
 
-7.36a tena yad yat sa.bhṛtyena kartavyaṃ rakṣatā prajāḥ |  
-7.36c tat tad vo 'haṃ pravakṣyāmi yathāvad anupūrvaśaḥ || 36 ||  
+७।३६अ तेन यद् यत् स।भृत्येन कर्तव्यं रक्षता प्रजाः ।  
+७।३६च् तत् तद् वो ऽहं प्रवक्ष्यामि यथावद् अनुपूर्वशः ॥ ३६ ॥  
 
 
 # ७।१।२। चुल्तिवतिन्ग् विर्तुए अन्द् लेअर्निन्ग्
@@ -5274,30 +5273,30 @@
 ७।५३च् व्यसन्य् अधो ऽधो व्रजति स्वर् यात्य् अव्यसनी मृतः ॥ ५३ ॥  
 
 
-# 7.1.3. Appointment of Counselors
- \[O\]  edn 621-622,  \[O\]  tr. 156-157
-7.54a maulān-śāstravidaḥ śūrān-labdha.lakṣān kula.udbhavān | 7.54av/  \[M\] : “kula.udgatān”  
-7.54c sacivān sapta ca-aṣṭau vā prakurvīta parīkṣitān || 54 || 7.54cv/  \[M\] : “kurvīta suparīkṣitān”  
+# ७।१।३। अप्पोइन्त्मेन्त् ओड़् चोउन्सेलोर्स्
+ \[ओ\]  एद्न् ६२१-६२२,  \[ओ\]  त्र्। १५६-१५७
+७।५४अ मौलान्-शास्त्रविदः शूरान्-लब्ध।लक्षान् कुल।उद्भवान् । ७।५४अव्।  \[म्\] : “कुल।उद्गतान्”  
+७।५४च् सचिवान् सप्त च-अष्टौ वा प्रकुर्वीत परीक्षितान् ॥ ५४ ॥ ७।५४च्व्।  \[म्\] : “कुर्वीत सुपरीक्षितान्”  
 
 
-7.55a api yat sukaraṃ karma tad apy ekena duṣkaram |  
-7.55c viśeṣato 'sahāyena kiṃ tu rājyaṃ mahā.udayam || 55 || 7.55cv/  \[M\] : “kiṃ nu”  
+७।५५अ अपि यत् सुकरं कर्म तद् अप्य् एकेन दुष्करम् ।  
+७।५५च् विशेषतो ऽसहायेन किं तु राज्यं महा।उदयम् ॥ ५५ ॥ ७।५५च्व्।  \[म्\] : “किं नु”  
 
 
-7.56a taiḥ sārdhaṃ cintayen nityaṃ sāmānyaṃ sandhi.vigraham |  
-7.56c sthānaṃ samudayaṃ guptiṃ labdhapraśamanāni ca || 56 ||  
+७।५६अ तैः सार्धं चिन्तयेन् नित्यं सामान्यं सन्धि।विग्रहम् ।  
+७।५६च् स्थानं समुदयं गुप्तिं लब्धप्रशमनानि च ॥ ५६ ॥  
 
 
-7.57a teṣāṃ svaṃ svam abhiprāyam upalabhya pṛthak pṛthak |  
-7.57c samastānāṃ ca kāryeṣu vidadhyādd hitam ātmanaḥ || 57 ||  
+७।५७अ तेषां स्वं स्वम् अभिप्रायम् उपलभ्य पृथक् पृथक् ।  
+७।५७च् समस्तानां च कार्येषु विदध्याद्द् हितम् आत्मनः ॥ ५७ ॥  
 
 
-7.58a sarveṣāṃ tu viśiṣṭena brāhmaṇena vipaścitā |  
-7.58c mantrayet paramaṃ mantraṃ rājā ṣāḍguṇyasaṃyutam || 58 ||  
+७।५८अ सर्वेषां तु विशिष्टेन ब्राह्मणेन विपश्चिता ।  
+७।५८च् मन्त्रयेत् परमं मन्त्रं राजा षाड्गुण्यसंयुतम् ॥ ५८ ॥  
 
 
-7.59a nityaṃ tasmin samāśvastaḥ sarvakāryāṇi niḥkṣipet | 7.59av/  \[M\] : “nikṣipet”  
-7.59c tena sārdhaṃ viniścitya tataḥ karma samārabhet || 59 ||  
+७।५९अ नित्यं तस्मिन् समाश्वस्तः सर्वकार्याणि निःक्षिपेत् । ७।५९अव्।  \[म्\] : “निक्षिपेत्”  
+७।५९च् तेन सार्धं विनिश्चित्य ततः कर्म समारभेत् ॥ ५९ ॥  
 
 
 # ७।१।४। अप्पोइन्त्मेन्त् ओड़् ओड़्ड़िचिअल्स्
@@ -5314,30 +5313,30 @@
 ७।६२च् शुचीन् आकर।कर्मान्ते भीरून् अन्तर्निवेशने ॥ ६२ ॥  
 
 
-# 7.1.5. Appointment of an Envoy
- \[O\]  edn 623-624,  \[O\]  tr. 157
-7.63a dūtaṃ ca-eva prakurvīta sarvaśāstra.viśāradam |  
-7.63c iṅgita.ākāra.ceṣṭajñaṃ śuciṃ dakṣaṃ kula.udgatam || 63 ||  
+# ७।१।५। अप्पोइन्त्मेन्त् ओड़् अन् एन्वोय्
+ \[ओ\]  एद्न् ६२३-६२४,  \[ओ\]  त्र्। १५७
+७।६३अ दूतं च-एव प्रकुर्वीत सर्वशास्त्र।विशारदम् ।  
+७।६३च् इङ्गित।आकार।चेष्टज्ञं शुचिं दक्षं कुल।उद्गतम् ॥ ६३ ॥  
 
 
-7.64a anuraktaḥ śucir dakṣaḥ smṛtimān deśa.kālavit |  
-7.64c vapuṣmān vītabhīr vāgmī dūto rājñaḥ praśasyate || 64 ||  
+७।६४अ अनुरक्तः शुचिर् दक्षः स्मृतिमान् देश।कालवित् ।  
+७।६४च् वपुष्मान् वीतभीर् वाग्मी दूतो राज्ञः प्रशस्यते ॥ ६४ ॥  
 
 
-7.65a amātye daṇḍa āyatto daṇḍe vainayikī kriyā |  
-7.65c nṛpatau kośa.rāṣṭre ca dūte sandhi.viparyayau || 65 ||  
+७।६५अ अमात्ये दण्ड आयत्तो दण्डे वैनयिकी क्रिया ।  
+७।६५च् नृपतौ कोश।राष्ट्रे च दूते सन्धि।विपर्ययौ ॥ ६५ ॥  
 
 
-7.66a dūta eva hi sandhatte bhinatty eva ca saṃhatān |  
-7.66c dūtas tat kurute karma bhidyante yena mānavaḥ || 66 ||  
+७।६६अ दूत एव हि सन्धत्ते भिनत्त्य् एव च संहतान् ।  
+७।६६च् दूतस् तत् कुरुते कर्म भिद्यन्ते येन मानवः ॥ ६६ ॥  
 
 
-7.67a sa vidyād asya kṛtyeṣu nirgūḍha.iṅgita.ceṣṭitaiḥ |  
-7.67c ākāram iṅgitaṃ ceṣṭāṃ bhṛtyeṣu ca cikīrṣitam || 67 ||  
+७।६७अ स विद्याद् अस्य कृत्येषु निर्गूढ।इङ्गित।चेष्टितैः ।  
+७।६७च् आकारम् इङ्गितं चेष्टां भृत्येषु च चिकीर्षितम् ॥ ६७ ॥  
 
 
-7.68a buddhvā ca sarvaṃ tattvena pararājacikīrṣitam |  
-7.68c tathā prayatnam ātiṣṭhed yathā-ātmānaṃ na pīḍayet || 68 ||  
+७।६८अ बुद्ध्वा च सर्वं तत्त्वेन परराजचिकीर्षितम् ।  
+७।६८च् तथा प्रयत्नम् आतिष्ठेद् यथा-आत्मानं न पीडयेत् ॥ ६८ ॥  
 
 
 # ७।१।६। चोन्स्त्रुच्तिन्ग् थे रोयल् ड़ोर्त्
@@ -5374,10 +5373,10 @@
 ७।७६च् गुप्तं सर्व।ऋतुकं शुभ्रं जल।वृक्षसमन्वितम् ॥ ७६ ॥  
 
 
-# 7.1.7. Marriage
- \[O\]  edn 625,  \[O\]  tr. 158
-7.77a tad adhyāsya-udvahed bhāryāṃ sa.varṇāṃ lakṣaṇānvitām |  
-7.77c kule mahati sambhūtāṃ hṛdyāṃ rūpa.guṇānvītām || 77 ||  
+# ७।१।७। मर्रिअगे
+ \[ओ\]  एद्न् ६२५,  \[ओ\]  त्र्। १५८
+७।७७अ तद् अध्यास्य-उद्वहेद् भार्यां स।वर्णां लक्षणान्विताम् ।  
+७।७७च् कुले महति सम्भूतां हृद्यां रूप।गुणान्वीताम् ॥ ७७ ॥  
 
 
 # ७।१।८। अप्पोइन्त्मेन्त् ओड़् छप्लैन् अन्द् प्रिएस्त्स्
@@ -5390,14 +5389,14 @@
 ७।७९च् धर्मार्थं च-एव विप्रेभ्यो दद्याद् भोगान् धनानि च ॥ ७९ ॥  
 
 
-# 7.1.9. Collectors and Supervisors
- \[O\]  edn 626,  \[O\]  tr. 158
-7.80a sāṃvatsarikam āptaiś ca rāṣṭrād āhārayed balim |  
-7.80c syāc ca-āmnāya.paro loke varteta pitṛvat-nṛṣu || 80 ||  
+# ७।१।९। चोल्लेच्तोर्स् अन्द् सुपेर्विसोर्स्
+ \[ओ\]  एद्न् ६२६,  \[ओ\]  त्र्। १५८
+७।८०अ सांवत्सरिकम् आप्तैश् च राष्ट्राद् आहारयेद् बलिम् ।  
+७।८०च् स्याच् च-आम्नाय।परो लोके वर्तेत पितृवत्-नृषु ॥ ८० ॥  
 
 
-7.81a adhyakṣān vividhān kuryāt tatra tatra vipaścitaḥ |  
-7.81c te 'sya sarvāṇy avekṣeran nṛṇāṃ kāryāṇi kurvatām || 81 ||  
+७।८१अ अध्यक्षान् विविधान् कुर्यात् तत्र तत्र विपश्चितः ।  
+७।८१च् ते ऽस्य सर्वाण्य् अवेक्षेरन् नृणां कार्याणि कुर्वताम् ॥ ८१ ॥  
 
 
 # ७।१।१०। देवोतिओन् तो ब्रह्मिन्स्
@@ -5422,60 +5421,60 @@
 ७।८६च् अल्पं वा बहु वा प्रेत्य दानस्य फलम् अश्नुते ॥ ८६ ॥  
 
 
-# 7.1.11. War and Warrior Ethic
- \[O\]  edn 627-629,  \[O\]  tr. 159
-[M7.87Ma] deśa.kālavidhānena dravyaṃ śraddhāsamanvitam | [M7.87Ma]v/ not in  \[K\]   
-[M7.87Mc] pātre pradīyate yat tu tad dharmasya prasādhanam || 87 || [M7.87Mc]v/ not in  \[K\]   
+# ७।१।११। Wअर् अन्द् Wअर्रिओर् एथिच्
+ \[ओ\]  एद्न् ६२७-६२९,  \[ओ\]  त्र्। १५९
+[म्७।८७म] देश।कालविधानेन द्रव्यं श्रद्धासमन्वितम् । [म्७।८७म]व्। नोत् इन्  \[क्\]   
+[म्७।८७म्च्] पात्रे प्रदीयते यत् तु तद् धर्मस्य प्रसाधनम् ॥ ८७ ॥ [म्७।८७म्च्]व्। नोत् इन्  \[क्\]   
 
-+++(Although Medhātithi comments on the above verse,  \[Jha's edition\]  does not count it in his numbering of the text. Therefore, Jha ed.'s numbering is the same with  \[K\]  in the following.)+++
-7.87a[88Ma] sama.uttama.adhamai rājā tv āhūtaḥ pālayan prajāḥ |  
-7.87c[88Mc] na nivarteta saṅgrāmāt kṣātraṃ dharmam anusmaran || 87 ||  
-
-
-7.88a[89Ma] saṅgrāmeṣv anivartitvaṃ prajānāṃ ca-eva pālanam |  
-7.88c[89Mc] śuśrūṣā brāhmaṇānāṃ ca rājñāṃ śreyaskaraṃ param || 88 ||  
++++(अल्थोउघ् मेधातिथि चोम्मेन्त्स् ओन् थे अबोवे वेर्से,  \[झऽस् एदितिओन्\]  दोएस् नोत् चोउन्त् इत् इन् हिस् नुम्बेरिन्ग् ओड़् थे तेxत्। थेरेड़ोरे, झ एद्।ऽस् नुम्बेरिन्ग् इस् थे समे wइथ्  \[क्\]  इन् थे ड़ोल्लोwइन्ग्।)+++
+७।८७अ[८८म] सम।उत्तम।अधमै राजा त्व् आहूतः पालयन् प्रजाः ।  
+७।८७च्[८८म्च्] न निवर्तेत सङ्ग्रामात् क्षात्रं धर्मम् अनुस्मरन् ॥ ८७ ॥  
 
 
-7.89a[90Ma] āhaveṣu mitho 'nyonyaṃ jighāṃsanto mahīkṣitaḥ |  
-7.89c[90Mc] yudhyamānāḥ paraṃ śaktyā svargaṃ yānty a.parāṅmukhāḥ || 89 ||  
+७।८८अ[८९म] सङ्ग्रामेष्व् अनिवर्तित्वं प्रजानां च-एव पालनम् ।  
+७।८८च्[८९म्च्] शुश्रूषा ब्राह्मणानां च राज्ञां श्रेयस्करं परम् ॥ ८८ ॥  
 
 
-7.90a[91Ma] na kūṭair āyudhair hanyād yudhyamāno raṇe ripūn |  
-7.90c[91Mc] na karṇibhir na-api digdhair na-agnijvalita.tejanaiḥ || 90 ||  
+७।८९अ[९०म] आहवेषु मिथो ऽन्योन्यं जिघांसन्तो महीक्षितः ।  
+७।८९च्[९०म्च्] युध्यमानाः परं शक्त्या स्वर्गं यान्त्य् अ।पराङ्मुखाः ॥ ८९ ॥  
 
 
-7.91a[92Ma] na ca hanyāt sthalārūḍhaṃ na klībaṃ na kṛta.añjalim |  
-7.91c[92Mc] na mukta.keśaṃ na-āsīnaṃ na tava-asmi-iti vādinam || 91 ||  
+७।९०अ[९१म] न कूटैर् आयुधैर् हन्याद् युध्यमानो रणे रिपून् ।  
+७।९०च्[९१म्च्] न कर्णिभिर् न-अपि दिग्धैर् न-अग्निज्वलित।तेजनैः ॥ ९० ॥  
 
 
-7.92a[93Ma] na suptaṃ na vi.sannāhaṃ na nagnaṃ na nir.āyudham |  
-7.92c[93Mc] na-ayudhyamānaṃ paśyantaṃ na pareṇa samāgatam || 92 ||  
+७।९१अ[९२म] न च हन्यात् स्थलारूढं न क्लीबं न कृत।अञ्जलिम् ।  
+७।९१च्[९२म्च्] न मुक्त।केशं न-आसीनं न तव-अस्मि-इति वादिनम् ॥ ९१ ॥  
 
 
-7.93a[94Ma] na-āyudhavyasanaprāptaṃ na-ārtaṃ na-atiparikṣataṃ |  
-7.93c[94Mc] na bhītaṃ na parāvṛttaṃ satāṃ dharmam anusmaran || 93 ||  
+७।९२अ[९३म] न सुप्तं न वि।सन्नाहं न नग्नं न निर्।आयुधम् ।  
+७।९२च्[९३म्च्] न-अयुध्यमानं पश्यन्तं न परेण समागतम् ॥ ९२ ॥  
 
 
-7.94a[95Ma] yas tu bhītaḥ parāvṛttaḥ saṅgrāme hanyate paraiḥ |  
-7.94c[95Mc] bhartur yad duṣkṛtaṃ kiṃ cit tat sarvaṃ pratipadyate || 94 ||  
+७।९३अ[९४म] न-आयुधव्यसनप्राप्तं न-आर्तं न-अतिपरिक्षतं ।  
+७।९३च्[९४म्च्] न भीतं न परावृत्तं सतां धर्मम् अनुस्मरन् ॥ ९३ ॥  
 
 
-7.95a[96Ma] yat-ca-asya sukṛtaṃ kiṃ cid amutrārtham upārjitam |  
-7.95c[96Mc] bhartā tat sarvam ādatte parāvṛttahatasya tu || 95 ||  
+७।९४अ[९५म] यस् तु भीतः परावृत्तः सङ्ग्रामे हन्यते परैः ।  
+७।९४च्[९५म्च्] भर्तुर् यद् दुष्कृतं किं चित् तत् सर्वं प्रतिपद्यते ॥ ९४ ॥  
 
 
- 7.1.11.1. War Booty
- \[O\]  edn 629,  \[O\]  tr. 159
-7.96a[97Ma] ratha.aśvaṃ hastinaṃ chatraṃ dhanaṃ dhānyaṃ paśūn striyaḥ |  
-7.96c[97Mc] sarvadravyāṇi kupyaṃ ca yo yaj jayati tasya tat || 96 ||  
+७।९५अ[९६म] यत्-च-अस्य सुकृतं किं चिद् अमुत्रार्थम् उपार्जितम् ।  
+७।९५च्[९६म्च्] भर्ता तत् सर्वम् आदत्ते परावृत्तहतस्य तु ॥ ९५ ॥  
 
 
-7.97a[98Ma] rājñaś ca dadyur uddhāram ity eṣā vaidikī śrutiḥ |  
-7.97c[98Mc] rājñā ca sarvayodhebhyo dātavyam apṛthagjitam || 97 ||  
+ ७।१।११।१। Wअर् बोओत्य्
+ \[ओ\]  एद्न् ६२९,  \[ओ\]  त्र्। १५९
+७।९६अ[९७म] रथ।अश्वं हस्तिनं छत्रं धनं धान्यं पशून् स्त्रियः ।  
+७।९६च्[९७म्च्] सर्वद्रव्याणि कुप्यं च यो यज् जयति तस्य तत् ॥ ९६ ॥  
 
 
-7.98a[99Ma] eṣo 'nupaskṛtaḥ prokto yodhadharmaḥ sanātanaḥ |  
-7.98c[99Mc] asmād dharmān na cyaveta kṣatriyo ghnan raṇe ripūn || 98 ||  
+७।९७अ[९८म] राज्ञश् च दद्युर् उद्धारम् इत्य् एषा वैदिकी श्रुतिः ।  
+७।९७च्[९८म्च्] राज्ञा च सर्वयोधेभ्यो दातव्यम् अपृथग्जितम् ॥ ९७ ॥  
+
+
+७।९८अ[९९म] एषो ऽनुपस्कृतः प्रोक्तो योधधर्मः सनातनः ।  
+७।९८च्[९९म्च्] अस्माद् धर्मान् न च्यवेत क्षत्रियो घ्नन् रणे रिपून् ॥ ९८ ॥  
 
 
 # ७।१।१२। पोलिचिएस् ड़ोर् गोओद् गोवेर्न्मेन्त्
@@ -5540,64 +5539,64 @@
 ७।११३च्[११४म्च्] सुसङ्गृहीतराष्ट्रे हि पार्थिवः सुखम् एधते ॥ ११३ ॥  
 
 
-# 7.1.13. Organization of the State
- \[O\]  edn 632-634,  \[O\]  tr. 160-161
- 7.1.13.1. Governance of Villages and Towns
- \[O\]  edn 632-633,  \[O\]  tr. 160
-7.114a[115Ma] dvayos trayāṇāṃ pañcānāṃ madhye gulmam adhiṣṭhitam |  
-7.114c[115Mc] tathā grāmaśatānāṃ ca kuryād rāṣṭrasya saṅgraham || 114 ||  
+# ७।१।१३। ओर्गनिज़तिओन् ओड़् थे स्तते
+ \[ओ\]  एद्न् ६३२-६३४,  \[ओ\]  त्र्। १६०-१६१
+ ७।१।१३।१। गोवेर्नन्चे ओड़् विल्लगेस् अन्द् तोwन्स्
+ \[ओ\]  एद्न् ६३२-६३३,  \[ओ\]  त्र्। १६०
+७।११४अ[११५म] द्वयोस् त्रयाणां पञ्चानां मध्ये गुल्मम् अधिष्ठितम् ।  
+७।११४च्[११५म्च्] तथा ग्रामशतानां च कुर्याद् राष्ट्रस्य सङ्ग्रहम् ॥ ११४ ॥  
 
 
-7.115a[116Ma] grāmasya-adhipatiṃ kuryād daśagrāmapatiṃ tathā |  
-7.115c[116Mc] viṃśatīśaṃ śata.īśaṃ ca sahasrapatim eva ca || 115 ||  
+७।११५अ[११६म] ग्रामस्य-अधिपतिं कुर्याद् दशग्रामपतिं तथा ।  
+७।११५च्[११६म्च्] विंशतीशं शत।ईशं च सहस्रपतिम् एव च ॥ ११५ ॥  
 
 
-7.116a[117Ma] grāmadoṣān samutpannān grāmikaḥ śanakaiḥ svayam |  
-7.116c[117Mc] śaṃsed grāmadaśa.īśāya daśa.īśo viṃśatīśine || 116 ||  
+७।११६अ[११७म] ग्रामदोषान् समुत्पन्नान् ग्रामिकः शनकैः स्वयम् ।  
+७।११६च्[११७म्च्] शंसेद् ग्रामदश।ईशाय दश।ईशो विंशतीशिने ॥ ११६ ॥  
 
 
-7.117a[118Ma] viṃśatīśas tu tat sarvaṃ śata.īśāya nivedayet |  
-7.117c[118Mc] śaṃsed grāmaśata.īśas tu sahasrapataye svayam || 117 ||  
+७।११७अ[११८म] विंशतीशस् तु तत् सर्वं शत।ईशाय निवेदयेत् ।  
+७।११७च्[११८म्च्] शंसेद् ग्रामशत।ईशस् तु सहस्रपतये स्वयम् ॥ ११७ ॥  
 
 
-7.118a[119Ma] yāni rājapradeyāni pratyahaṃ grāmavāsibhiḥ |  
-7.118c[119Mc] anna.pāna.indhanādīni grāmikas tāny avāpnuyāt || 118 ||  
+७।११८अ[११९म] यानि राजप्रदेयानि प्रत्यहं ग्रामवासिभिः ।  
+७।११८च्[११९म्च्] अन्न।पान।इन्धनादीनि ग्रामिकस् तान्य् अवाप्नुयात् ॥ ११८ ॥  
 
 
-7.119a[120Ma] daśī kulaṃ tu bhuñjīta viṃśī pañca kulāni ca |  
-7.119c[120Mc] grāmaṃ grāmaśatādhyakṣaḥ sahasrādhipatiḥ puram || 119 ||  
+७।११९अ[१२०म] दशी कुलं तु भुञ्जीत विंशी पञ्च कुलानि च ।  
+७।११९च्[१२०म्च्] ग्रामं ग्रामशताध्यक्षः सहस्राधिपतिः पुरम् ॥ ११९ ॥  
 
 
- 7.1.13.2. Supervision of Officials
- \[O\]  edn 633-634,  \[O\]  tr. 160-161
-7.120a[121Ma] teṣāṃ grāmyāṇi kāryāni pṛthakkāryāṇi ca-eva hi |  
-7.120c[121Mc] rājño 'nyaḥ sacivaḥ snigdhas tāni paśyed atandritaḥ || 120 ||  
+ ७।१।१३।२। सुपेर्विसिओन् ओड़् ओड़्ड़िचिअल्स्
+ \[ओ\]  एद्न् ६३३-६३४,  \[ओ\]  त्र्। १६०-१६१
+७।१२०अ[१२१म] तेषां ग्राम्याणि कार्यानि पृथक्कार्याणि च-एव हि ।  
+७।१२०च्[१२१म्च्] राज्ञो ऽन्यः सचिवः स्निग्धस् तानि पश्येद् अतन्द्रितः ॥ १२० ॥  
 
 
-7.121a[122Ma] nagare nagare ca-ekaṃ kuryāt sarvārthacintakam |  
-7.121c[122Mc] uccaiḥsthānaṃ ghorarūpaṃ nakṣatrāṇām iva graham || 121 ||  
+७।१२१अ[१२२म] नगरे नगरे च-एकं कुर्यात् सर्वार्थचिन्तकम् ।  
+७।१२१च्[१२२म्च्] उच्चैःस्थानं घोररूपं नक्षत्राणाम् इव ग्रहम् ॥ १२१ ॥  
 
 
-7.122a[123Ma] sa tān anuparikrāmet sarvān eva sadā svayam |  
-7.122c[123Mc] teṣāṃ vṛttaṃ pariṇayet samyag rāṣṭreṣu tat.caraiḥ || 122 ||  
+७।१२२अ[१२३म] स तान् अनुपरिक्रामेत् सर्वान् एव सदा स्वयम् ।  
+७।१२२च्[१२३म्च्] तेषां वृत्तं परिणयेत् सम्यग् राष्ट्रेषु तत्।चरैः ॥ १२२ ॥  
 
 
-7.123a[124Ma] rājño hi rakṣādhikṛtāḥ parasvādāyinaḥ śaṭhāḥ |  
-7.123c[124Mc] bhṛtyā bhavanti prāyeṇa tebhyo rakṣed imāḥ prajāḥ || 123 ||  
+७।१२३अ[१२४म] राज्ञो हि रक्षाधिकृताः परस्वादायिनः शठाः ।  
+७।१२३च्[१२४म्च्] भृत्या भवन्ति प्रायेण तेभ्यो रक्षेद् इमाः प्रजाः ॥ १२३ ॥  
 
 
-7.124a[125Ma] ye kāryikebhyo 'rtham eva gṛhṇīyuḥ pāpacetasaḥ |  
-7.124c[125Mc] teṣāṃ sarvasvam ādāya rājā kuryāt pravāsanam || 124 ||  
+७।१२४अ[१२५म] ये कार्यिकेभ्यो ऽर्थम् एव गृह्णीयुः पापचेतसः ।  
+७।१२४च्[१२५म्च्] तेषां सर्वस्वम् आदाय राजा कुर्यात् प्रवासनम् ॥ १२४ ॥  
 
 
- 7.1.13.3. Wages
- \[O\]  edn 634,  \[O\]  tr. 161
-7.125a[126Ma] rājā karmasu yuktānāṃ strīṇāṃ preṣyajanasya ca | 7.125a[126Ma]v/  \[M\] : “rājakarmasu”  
-7.125c[126Mc] pratyahaṃ kalpayed vṛttiṃ sthānaṃ karmānurūpataḥ || 125 || 7.125c[126Mc]v/  \[M\] : “sthāna.karmānurūpataḥ”  
+ ७।१।१३।३। Wअगेस्
+ \[ओ\]  एद्न् ६३४,  \[ओ\]  त्र्। १६१
+७।१२५अ[१२६म] राजा कर्मसु युक्तानां स्त्रीणां प्रेष्यजनस्य च । ७।१२५अ[१२६म]व्।  \[म्\] : “राजकर्मसु”  
+७।१२५च्[१२६म्च्] प्रत्यहं कल्पयेद् वृत्तिं स्थानं कर्मानुरूपतः ॥ १२५ ॥ ७।१२५च्[१२६म्च्]व्।  \[म्\] : “स्थान।कर्मानुरूपतः”  
 
 
-7.126a[127Ma] paṇo deyo 'vakṛṣṭasya ṣaḍ utkṛṣṭasya vetanam |  
-7.126c[127Mc] ṣāṇmāsikas tathā-ācchādo dhānyadroṇas tu māsikaḥ || 126 ||  
+७।१२६अ[१२७म] पणो देयो ऽवकृष्टस्य षड् उत्कृष्टस्य वेतनम् ।  
+७।१२६च्[१२७म्च्] षाण्मासिकस् तथा-आच्छादो धान्यद्रोणस् तु मासिकः ॥ १२६ ॥  
 
 
 # ७।१।१४। तxएस् अन्द् दुतिएस्
@@ -5654,14 +5653,14 @@
 ७।१३९च्[१४०म्च्] उच्छिन्दन् ह्य् आत्मनो मूलम् आट्मानं तांश् च पीदयेत् ॥ १३९ ॥  
 
 
-# 7.1.15. Adjudicating Lawsuits
- \[O\]  edn 637,  \[O\]  tr. 161
-7.140a[141Ma] tīkṣṇaś ca-eva mṛduś ca syāt kāryaṃ vīkṣya mahīpatiḥ |  
-7.140c[141Mc] tīkṣṇaś ca-eva mṛduś ca-eva rāja bhavati sammataḥ || 140 ||  
+# ७।१।१५। अद्जुदिचतिन्ग् लwसुइत्स्
+ \[ओ\]  एद्न् ६३७,  \[ओ\]  त्र्। १६१
+७।१४०अ[१४१म] तीक्ष्णश् च-एव मृदुश् च स्यात् कार्यं वीक्ष्य महीपतिः ।  
+७।१४०च्[१४१म्च्] तीक्ष्णश् च-एव मृदुश् च-एव राज भवति सम्मतः ॥ १४० ॥  
 
 
-7.141a[142Ma] amātyamukhyaṃ dharmajñaṃ prājñaṃ dāntaṃ kula.udgatam |  
-7.141c[142Mc] sthāpayed āsane tasmin khinnaḥ kārya.īkṣaṇe nṛṇām || 141 ||  
+७।१४१अ[१४२म] अमात्यमुख्यं धर्मज्ञं प्राज्ञं दान्तं कुल।उद्गतम् ।  
+७।१४१च्[१४२म्च्] स्थापयेद् आसने तस्मिन् खिन्नः कार्य।ईक्षणे नृणाम् ॥ १४१ ॥  
 
 
 # ७।१।१६। प्रोतेच्तिओन् ओड़् थे सुब्जेच्त्स्
@@ -5678,314 +5677,314 @@
 ७।१४४च्[१४५म्च्] निर्दिष्टफलभोक्ता हि राजा धर्मेण युज्यते ॥ १४४ ॥  
 
 
-# 7.1.17. Morning Routine
- \[O\]  edn 638-652,  \[O\]  tr. 162-165
-7.145a[146Ma] utthāya paścime yāme kṛta.śaucaḥ samāhitaḥ |  
-7.145c[146Mc] hutāgnir brāhmaṇāṃś cārcya praviśet sa śubhāṃ sabhām || 145 ||  
+# ७।१।१७। मोर्निन्ग् रोउतिने
+ \[ओ\]  एद्न् ६३८-६५२,  \[ओ\]  त्र्। १६२-१६५
+७।१४५अ[१४६म] उत्थाय पश्चिमे यामे कृत।शौचः समाहितः ।  
+७।१४५च्[१४६म्च्] हुताग्निर् ब्राह्मणांश् चार्च्य प्रविशेत् स शुभां सभाम् ॥ १४५ ॥  
 
 
-7.146a[147Ma] tatra sthitaḥ prajāḥ sarvāḥ pratinandya visarjayet |  
-7.146c[147Mc] visṛjya ca prajāḥ sarvā mantrayet saha mantribhiḥ || 146 ||  
+७।१४६अ[१४७म] तत्र स्थितः प्रजाः सर्वाः प्रतिनन्द्य विसर्जयेत् ।  
+७।१४६च्[१४७म्च्] विसृज्य च प्रजाः सर्वा मन्त्रयेत् सह मन्त्रिभिः ॥ १४६ ॥  
 
 
- 7.1.17.1. Meeting with Counselors
- \[O\]  edn 638-640,  \[O\]  tr. 162
-7.147a[148Ma] giripṛṣṭhaṃ samāruhya prasādaṃ vā rahogataḥ |  
-7.147c[148Mc] araṇye niḥ.śalāke vā mantrayed a.vibhāvitaḥ || 147 ||  
+ ७।१।१७।१। मेएतिन्ग् wइथ् चोउन्सेलोर्स्
+ \[ओ\]  एद्न् ६३८-६४०,  \[ओ\]  त्र्। १६२
+७।१४७अ[१४८म] गिरिपृष्ठं समारुह्य प्रसादं वा रहोगतः ।  
+७।१४७च्[१४८म्च्] अरण्ये निः।शलाके वा मन्त्रयेद् अ।विभावितः ॥ १४७ ॥  
 
 
-7.148a[149Ma] yasya mantraṃ na jānanti samāgamya pṛthagjanāḥ |  
-7.148c[149Mc] sa kṛtsnāṃ pṛthivīṃ bhuṅkte kośahīno 'pi pārthivaḥ || 148 ||  
+७।१४८अ[१४९म] यस्य मन्त्रं न जानन्ति समागम्य पृथग्जनाः ।  
+७।१४८च्[१४९म्च्] स कृत्स्नां पृथिवीं भुङ्क्ते कोशहीनो ऽपि पार्थिवः ॥ १४८ ॥  
 
 
-7.149a[150Ma] jaḍa.mūka.andha.badhirāṃs tairyagyonān vayo.'tigān |  
-7.149c[150Mc] strī.mleccha.vyādhita.vyaṅgān mantrakāle 'pasārayet || 149 ||  
+७।१४९अ[१५०म] जड।मूक।अन्ध।बधिरांस् तैर्यग्योनान् वयो।ऽतिगान् ।  
+७।१४९च्[१५०म्च्] स्त्री।म्लेच्छ।व्याधित।व्यङ्गान् मन्त्रकाले ऽपसारयेत् ॥ १४९ ॥  
 
 
-7.150a[151Ma] bhindanty avamatā mantraṃ tairyagyonās tathā-eva ca |  
-7.150c[151Mc] striyaś ca-eva viśeṣeṇa tasmāt tatrādṛto bhavet || 150 ||  
+७।१५०अ[१५१म] भिन्दन्त्य् अवमता मन्त्रं तैर्यग्योनास् तथा-एव च ।  
+७।१५०च्[१५१म्च्] स्त्रियश् च-एव विशेषेण तस्मात् तत्रादृतो भवेत् ॥ १५० ॥  
 
 
-7.151a[152Ma] madhyandine 'rdharātre vā viśrānto vigataklamaḥ |  
-7.151c[152Mc] cintayed dharma.kāma.arthān sārdhaṃ tair eka eva vā || 151 || 7.151c[152Mc]v/  \[M\] : “sārthaṃ”  
+७।१५१अ[१५२म] मध्यन्दिने ऽर्धरात्रे वा विश्रान्तो विगतक्लमः ।  
+७।१५१च्[१५२म्च्] चिन्तयेद् धर्म।काम।अर्थान् सार्धं तैर् एक एव वा ॥ १५१ ॥ ७।१५१च्[१५२म्च्]व्।  \[म्\] : “सार्थं”  
 
 
-7.152a[153Ma] parasparaviruddhānāṃ teṣāṃ ca samupārjanam |  
-7.152c[153Mc] kanyānāṃ sampradānaṃ ca kumārāṇāṃ ca rakṣaṇaṃ || 152 ||  
+७।१५२अ[१५३म] परस्परविरुद्धानां तेषां च समुपार्जनम् ।  
+७।१५२च्[१५३म्च्] कन्यानां सम्प्रदानं च कुमाराणां च रक्षणं ॥ १५२ ॥  
 
 
-7.153a[154Ma] dūtasampreṣaṇaṃ ca-eva kāryaśeṣaṃ tathā-eva ca |  
-7.153c[154Mc] antaḥpurapracāraṃ ca praṇidhīnāṃ ca ceṣṭitam || 153 ||  
+७।१५३अ[१५४म] दूतसम्प्रेषणं च-एव कार्यशेषं तथा-एव च ।  
+७।१५३च्[१५४म्च्] अन्तःपुरप्रचारं च प्रणिधीनां च चेष्टितम् ॥ १५३ ॥  
 
 
-7.154a[155Ma] kṛtsnaṃ ca-aṣṭavidhaṃ karma pañcavargaṃ ca tattvataḥ |  
-7.154c[155Mc] anurāga.aparāgau ca pracāraṃ maṇḍalasya ca || 154 ||  
+७।१५४अ[१५५म] कृत्स्नं च-अष्टविधं कर्म पञ्चवर्गं च तत्त्वतः ।  
+७।१५४च्[१५५म्च्] अनुराग।अपरागौ च प्रचारं मण्डलस्य च ॥ १५४ ॥  
 
 
-7.155a[156Ma] madhyamasya pracāraṃ ca vijīgiṣoś ca ceṣṭitam |  
-7.155c[156Mc] udāsīnapracāraṃ ca śatroś ca-eva prayatnataḥ || 155 ||  
+७।१५५अ[१५६म] मध्यमस्य प्रचारं च विजीगिषोश् च चेष्टितम् ।  
+७।१५५च्[१५६म्च्] उदासीनप्रचारं च शत्रोश् च-एव प्रयत्नतः ॥ १५५ ॥  
 
 
- 7.1.17.2. Constituents of the Circle
- \[O\]  edn 640-641,  \[O\]  tr. 162
-7.156a[157Ma] etāḥ prakṛtayo mūlaṃ maṇḍalasya samāsataḥ |  
-7.156c[157Mc] aṣṭau ca-anyāḥ samākhyātā dvādaśa-eva tu tāḥ smṛtāḥ || 156 ||  
+ ७।१।१७।२। चोन्स्तितुएन्त्स् ओड़् थे चिर्च्ले
+ \[ओ\]  एद्न् ६४०-६४१,  \[ओ\]  त्र्। १६२
+७।१५६अ[१५७म] एताः प्रकृतयो मूलं मण्डलस्य समासतः ।  
+७।१५६च्[१५७म्च्] अष्टौ च-अन्याः समाख्याता द्वादश-एव तु ताः स्मृताः ॥ १५६ ॥  
 
 
-7.157a[158Ma] amātya.rāṣṭra.durga.artha.daṇḍākhyāḥ pañca ca-aparāḥ |  
-7.157c[158Mc] pratyekaṃ kathitā hy etāḥ saṅkṣepeṇa dvisaptatiḥ || 157 ||  
+७।१५७अ[१५८म] अमात्य।राष्ट्र।दुर्ग।अर्थ।दण्डाख्याः पञ्च च-अपराः ।  
+७।१५७च्[१५८म्च्] प्रत्येकं कथिता ह्य् एताः सङ्क्षेपेण द्विसप्ततिः ॥ १५७ ॥  
 
 
-7.158a[159Ma] anantaram ariṃ vidyād arisevinam eva ca |  
-7.158c[159Mc] arer anantaraṃ mitram udāsīnaṃ tayoḥ param || 158 ||  
+७।१५८अ[१५९म] अनन्तरम् अरिं विद्याद् अरिसेविनम् एव च ।  
+७।१५८च्[१५९म्च्] अरेर् अनन्तरं मित्रम् उदासीनं तयोः परम् ॥ १५८ ॥  
 
 
-7.159a[160Ma] tān sarvān abhisandadhyāt sāmādibhir upakramaiḥ |  
-7.159c[160Mc] vyastaiś ca-eva samastaiś ca pauruṣeṇa nayena ca || 159 ||  
+७।१५९अ[१६०म] तान् सर्वान् अभिसन्दध्यात् सामादिभिर् उपक्रमैः ।  
+७।१५९च्[१६०म्च्] व्यस्तैश् च-एव समस्तैश् च पौरुषेण नयेन च ॥ १५९ ॥  
 
 
- 7.1.17.3. Political Strategy-I
- \[O\]  edn 641-645,  \[O\]  tr. 162-163
-7.160a[161Ma] sandhiṃ ca vigrahaṃ ca-eva yānam āsanam eva ca |  
-7.160c[161Mc] dvaidhībhāvaṃ saṃśrayaṃ ca ṣaḍguṇāṃś cintayet sadā || 160 ||  
+ ७।१।१७।३। पोलितिचल् स्त्रतेग्य्-इ
+ \[ओ\]  एद्न् ६४१-६४५,  \[ओ\]  त्र्। १६२-१६३
+७।१६०अ[१६१म] सन्धिं च विग्रहं च-एव यानम् आसनम् एव च ।  
+७।१६०च्[१६१म्च्] द्वैधीभावं संश्रयं च षड्गुणांश् चिन्तयेत् सदा ॥ १६० ॥  
 
 
-7.161a[162Ma] āsanaṃ ca-eva yānaṃ ca sandhiṃ vigraham eva ca |  
-7.161c[162Mc] kāryaṃ vīkṣya prayuñjīta dvaidhaṃ saṃśrayam eva ca || 161 ||  
+७।१६१अ[१६२म] आसनं च-एव यानं च सन्धिं विग्रहम् एव च ।  
+७।१६१च्[१६२म्च्] कार्यं वीक्ष्य प्रयुञ्जीत द्वैधं संश्रयम् एव च ॥ १६१ ॥  
 
 
-7.162a[163Ma] sandhiṃ tu dvividhaṃ vidyād rājā vigraham eva ca |  
-7.162c[163Mc] ubhe yāna.āsane ca-eva dvividhaḥ saṃśrayaḥ smṛtaḥ || 162 ||  
+७।१६२अ[१६३म] सन्धिं तु द्विविधं विद्याद् राजा विग्रहम् एव च ।  
+७।१६२च्[१६३म्च्] उभे यान।आसने च-एव द्विविधः संश्रयः स्मृतः ॥ १६२ ॥  
 
 
-7.163a[164Ma] samāna.yānakarmā ca viparītas tathā-eva ca |  
-7.163c[164Mc] tadā tv āyatisaṃyuktaḥ sandhir jñeyo dvilakṣaṇaḥ || 163 ||  
+७।१६३अ[१६४म] समान।यानकर्मा च विपरीतस् तथा-एव च ।  
+७।१६३च्[१६४म्च्] तदा त्व् आयतिसंयुक्तः सन्धिर् ज्ञेयो द्विलक्षणः ॥ १६३ ॥  
 
 
-7.164a[165Ma] svayaṅkṛtaś ca kāryārtham akāle kāla eva vā |  
-7.164c[165Mc] mitrasya ca-eva-apakṛte dvividho vigrahaḥ smṛtaḥ || 164 ||  
+७।१६४अ[१६५म] स्वयङ्कृतश् च कार्यार्थम् अकाले काल एव वा ।  
+७।१६४च्[१६५म्च्] मित्रस्य च-एव-अपकृते द्विविधो विग्रहः स्मृतः ॥ १६४ ॥  
 
 
-7.165a[166Ma] ekākinaś ca-ātyayike kārye prāpte yadṛcchayā |  
-7.165c[166Mc] saṃhatasya ca mitreṇa dvividhaṃ yānam ucyate || 165 ||  
+७।१६५अ[१६६म] एकाकिनश् च-आत्ययिके कार्ये प्राप्ते यदृच्छया ।  
+७।१६५च्[१६६म्च्] संहतस्य च मित्रेण द्विविधं यानम् उच्यते ॥ १६५ ॥  
 
 
-7.166a[167Ma] kṣīṇasya ca-eva kramaśo daivāt pūrvakṛtena vā |  
-7.166c[167Mc] mitrasya ca-anurodhena dvividhaṃ smṛtam āsanam || 166 ||  
+७।१६६अ[१६७म] क्षीणस्य च-एव क्रमशो दैवात् पूर्वकृतेन वा ।  
+७।१६६च्[१६७म्च्] मित्रस्य च-अनुरोधेन द्विविधं स्मृतम् आसनम् ॥ १६६ ॥  
 
 
-7.167a[168Ma] balasya svāminaś ca-eva sthitiḥ kāryārthasiddhaye |  
-7.167c[168Mc] dvividhaṃ kīrtyate dvaidhaṃ ṣāḍguṇyaguṇavedibhiḥ || 167 ||  
+७।१६७अ[१६८म] बलस्य स्वामिनश् च-एव स्थितिः कार्यार्थसिद्धये ।  
+७।१६७च्[१६८म्च्] द्विविधं कीर्त्यते द्वैधं षाड्गुण्यगुणवेदिभिः ॥ १६७ ॥  
 
 
-7.168a[169Ma] arthasampādanārthaṃ ca pīḍyamānasya śatrubhiḥ |  
-7.168c[169Mc] sādhuṣu vyapadeśaś ca dvividhaḥ saṃśrayaḥ smṛtaḥ || 168 ||  
+७।१६८अ[१६९म] अर्थसम्पादनार्थं च पीड्यमानस्य शत्रुभिः ।  
+७।१६८च्[१६९म्च्] साधुषु व्यपदेशश् च द्विविधः संश्रयः स्मृतः ॥ १६८ ॥  
 
 
-7.169a[170Ma] yadā-avagacched āyatyām ādhikyaṃ dhruvam ātmanaḥ |  
-7.169c[170Mc] tadātve ca-alpikāṃ pīḍāṃ tadā sandhiṃ samāśrayet || 169 ||  
+७।१६९अ[१७०म] यदा-अवगच्छेद् आयत्याम् आधिक्यं ध्रुवम् आत्मनः ।  
+७।१६९च्[१७०म्च्] तदात्वे च-अल्पिकां पीडां तदा सन्धिं समाश्रयेत् ॥ १६९ ॥  
 
 
-7.170a[171Ma] yadā prahṛṣṭā manyeta sarvās tu prakṛtīr bhṛśam |  
-7.170c[171Mc] atyucchritaṃ tathātmānaṃ tadā kurvīta vigraham || 170 ||  
+७।१७०अ[१७१म] यदा प्रहृष्टा मन्येत सर्वास् तु प्रकृतीर् भृशम् ।  
+७।१७०च्[१७१म्च्] अत्युच्छ्रितं तथात्मानं तदा कुर्वीत विग्रहम् ॥ १७० ॥  
 
 
-7.171a[172Ma] yadā manyeta bhāvena hṛṣṭaṃ puṣṭaṃ balaṃ svakam |  
-7.171c[172Mc] parasya viparītaṃ ca tadā yāyād ripuṃ prati || 171 ||  
+७।१७१अ[१७२म] यदा मन्येत भावेन हृष्टं पुष्टं बलं स्वकम् ।  
+७।१७१च्[१७२म्च्] परस्य विपरीतं च तदा यायाद् रिपुं प्रति ॥ १७१ ॥  
 
 
-7.172a[173Ma] yadā tu syāt parikṣīṇo vāhanena balena ca |  
-7.172c[173Mc] tadāsīta prayatnena śanakaiḥ sāntvayann arīn || 172 ||  
+७।१७२अ[१७३म] यदा तु स्यात् परिक्षीणो वाहनेन बलेन च ।  
+७।१७२च्[१७३म्च्] तदासीत प्रयत्नेन शनकैः सान्त्वयन्न् अरीन् ॥ १७२ ॥  
 
 
-7.173a[174Ma] manyeta-ariṃ yadā rājā sarvathā balavattaram |  
-7.173c[174Mc] tadā dvidhā balaṃ kṛtvā sādhayet kāryam ātmanaḥ || 173 ||  
+७।१७३अ[१७४म] मन्येत-अरिं यदा राजा सर्वथा बलवत्तरम् ।  
+७।१७३च्[१७४म्च्] तदा द्विधा बलं कृत्वा साधयेत् कार्यम् आत्मनः ॥ १७३ ॥  
 
 
-7.174a[175Ma] yadā parabalānāṃ tu gamanīyatamo bhavet |  
-7.174c[175Mc] tadā tu saṃśrayet kṣipraṃ dhārmikaṃ balinaṃ nṛpam || 174 ||  
+७।१७४अ[१७५म] यदा परबलानां तु गमनीयतमो भवेत् ।  
+७।१७४च्[१७५म्च्] तदा तु संश्रयेत् क्षिप्रं धार्मिकं बलिनं नृपम् ॥ १७४ ॥  
 
 
-7.175a[176Ma] nigrahaṃ prakṛtīnāṃ ca kuryād yo 'ribalasya ca |  
-7.175c[176Mc] upaseveta taṃ nityaṃ sarvayatnair guruṃ yathā || 175 ||  
+७।१७५अ[१७६म] निग्रहं प्रकृतीनां च कुर्याद् यो ऽरिबलस्य च ।  
+७।१७५च्[१७६म्च्] उपसेवेत तं नित्यं सर्वयत्नैर् गुरुं यथा ॥ १७५ ॥  
 
 
-7.176a[177Ma] yadi tatra-api sampaśyed doṣaṃ saṃśrayakāritam |  
-7.176c[177Mc] suyuddham eva tatra-api nirviśaṅkaḥ samācaret || 176 ||  
+७।१७६अ[१७७म] यदि तत्र-अपि सम्पश्येद् दोषं संश्रयकारितम् ।  
+७।१७६च्[१७७म्च्] सुयुद्धम् एव तत्र-अपि निर्विशङ्कः समाचरेत् ॥ १७६ ॥  
 
 
-7.177a[178Ma] sarva.upāyais tathā kuryān nītijñaḥ pṛthivīpatiḥ |  
-7.177c[178Mc] yathā-asya-abhyadhikā na syur mitra.udāsīna.śatravaḥ || 177 ||  
+७।१७७अ[१७८म] सर्व।उपायैस् तथा कुर्यान् नीतिज्ञः पृथिवीपतिः ।  
+७।१७७च्[१७८म्च्] यथा-अस्य-अभ्यधिका न स्युर् मित्र।उदासीन।शत्रवः ॥ १७७ ॥  
 
 
-7.178a[179Ma] āyatiṃ sarvakāryāṇāṃ tadātvaṃ ca vicārayet |  
-7.178c[179Mc] atītānāṃ ca sarveṣāṃ guṇa.doṣau ca tattvataḥ || 178 ||  
+७।१७८अ[१७९म] आयतिं सर्वकार्याणां तदात्वं च विचारयेत् ।  
+७।१७८च्[१७९म्च्] अतीतानां च सर्वेषां गुण।दोषौ च तत्त्वतः ॥ १७८ ॥  
 
 
-7.179a[180Ma] āyatyāṃ guṇa.doṣajñas tadātve kṣipra.niścayaḥ |  
-7.179c[180Mc] atīte kāryaśeṣajñaḥ śatrubhir na-abhibhūyate || 179 ||  
+७।१७९अ[१८०म] आयत्यां गुण।दोषज्ञस् तदात्वे क्षिप्र।निश्चयः ।  
+७।१७९च्[१८०म्च्] अतीते कार्यशेषज्ञः शत्रुभिर् न-अभिभूयते ॥ १७९ ॥  
 
 
-7.180a[181Ma] yathā-enaṃ na-abhisandadhyur mitra.udāsīna.śatravaḥ |  
-7.180c[181Mc] tathā sarvaṃ saṃvidadhyād eṣa sāmāsiko nayaḥ || 180 ||  
+७।१८०अ[१८१म] यथा-एनं न-अभिसन्दध्युर् मित्र।उदासीन।शत्रवः ।  
+७।१८०च्[१८१म्च्] तथा सर्वं संविदध्याद् एष सामासिको नयः ॥ १८० ॥  
 
 
- 7.1.17.4. War
- \[O\]  edn 645-649,  \[O\]  tr. 164
-7.181a[182Ma] tadā tu yānam ātiṣṭhed arirāṣṭraṃ prati prabhuḥ |  
-7.181c[182Mc] tadānena vidhānena yāyād aripuraṃ śanaiḥ || 181 ||  
+ ७।१।१७।४। Wअर्
+ \[ओ\]  एद्न् ६४५-६४९,  \[ओ\]  त्र्। १६४
+७।१८१अ[१८२म] तदा तु यानम् आतिष्ठेद् अरिराष्ट्रं प्रति प्रभुः ।  
+७।१८१च्[१८२म्च्] तदानेन विधानेन यायाद् अरिपुरं शनैः ॥ १८१ ॥  
 
 
-7.182a[183Ma] mārgaśīrṣe śubhe māsi yāyād yātrāṃ mahīpatiḥ |  
-7.182c[183Mc] phālgunaṃ vātha caitraṃ vā māsau prati yathābalam || 182 ||  
+७।१८२अ[१८३म] मार्गशीर्षे शुभे मासि यायाद् यात्रां महीपतिः ।  
+७।१८२च्[१८३म्च्] फाल्गुनं वाथ चैत्रं वा मासौ प्रति यथाबलम् ॥ १८२ ॥  
 
 
-7.183a[184Ma] anyeṣv api tu kāleṣu yadā paśyed dhruvaṃ jayam |  
-7.183c[184Mc] tadā yāyād vigṛhya-eva vyasane ca-utthite ripoḥ || 183 ||  
+७।१८३अ[१८४म] अन्येष्व् अपि तु कालेषु यदा पश्येद् ध्रुवं जयम् ।  
+७।१८३च्[१८४म्च्] तदा यायाद् विगृह्य-एव व्यसने च-उत्थिते रिपोः ॥ १८३ ॥  
 
 
-7.184a[185Ma] kṛtvā vidhānaṃ mūle tu yātrikaṃ ca yathāvidhi |  
-7.184c[185Mc] upagṛhya-āspadaṃ ca-eva cārān samyag vidhāya ca || 184 ||  
+७।१८४अ[१८५म] कृत्वा विधानं मूले तु यात्रिकं च यथाविधि ।  
+७।१८४च्[१८५म्च्] उपगृह्य-आस्पदं च-एव चारान् सम्यग् विधाय च ॥ १८४ ॥  
 
 
-7.185a[186Ma] saṃśodhya trividhaṃ mārgaṃ ṣaḍvidhaṃ ca balaṃ svakam |  
-7.185c[186Mc] sāmparāyikakalpena yāyād aripuraṃ prati || 185 ||  
+७।१८५अ[१८६म] संशोध्य त्रिविधं मार्गं षड्विधं च बलं स्वकम् ।  
+७।१८५च्[१८६म्च्] साम्परायिककल्पेन यायाद् अरिपुरं प्रति ॥ १८५ ॥  
 
 
-7.186a[187Ma] śatrusevini mitre ca gūḍhe yuktataro bhavet |  
-7.186c[187Mc] gata.pratyāgate ca-eva sa hi kaṣṭataro ripuḥ || 186 ||  
+७।१८६अ[१८७म] शत्रुसेविनि मित्रे च गूढे युक्ततरो भवेत् ।  
+७।१८६च्[१८७म्च्] गत।प्रत्यागते च-एव स हि कष्टतरो रिपुः ॥ १८६ ॥  
 
 
-7.187a[188Ma] daṇḍavyūhena tan mārgaṃ yāyāt tu śakaṭena vā |  
-7.187c[188Mc] varāha.makarābhyāṃ vā sūcyā vā garuḍena vā || 187 ||  
+७।१८७अ[१८८म] दण्डव्यूहेन तन् मार्गं यायात् तु शकटेन वा ।  
+७।१८७च्[१८८म्च्] वराह।मकराभ्यां वा सूच्या वा गरुडेन वा ॥ १८७ ॥  
 
 
-7.188a[189Ma] yataś ca bhayam āśaṅket tato vistārayed balam |  
-7.188c[189Mc] padmena ca-eva vyūhena niviśeta sadā svayam || 188 ||  
+७।१८८अ[१८९म] यतश् च भयम् आशङ्केत् ततो विस्तारयेद् बलम् ।  
+७।१८८च्[१८९म्च्] पद्मेन च-एव व्यूहेन निविशेत सदा स्वयम् ॥ १८८ ॥  
 
 
-7.189a[190Ma] senāpati.balādhyakṣau sarvadikṣu niveśayet |  
-7.189c[190Mc] yataś ca bhayam āśaṅket prācīṃ tāṃ kalpayed diśam || 189 ||  
+७।१८९अ[१९०म] सेनापति।बलाध्यक्षौ सर्वदिक्षु निवेशयेत् ।  
+७।१८९च्[१९०म्च्] यतश् च भयम् आशङ्केत् प्राचीं तां कल्पयेद् दिशम् ॥ १८९ ॥  
 
 
-7.190a[191Ma] gulmāṃś ca sthāpayed āptān kṛtasañjñān samantataḥ |  
-7.190c[191Mc] sthāne yuddhe ca kuśalān abhīrūn avikāriṇaḥ || 190 ||  
+७।१९०अ[१९१म] गुल्मांश् च स्थापयेद् आप्तान् कृतसञ्ज्ञान् समन्ततः ।  
+७।१९०च्[१९१म्च्] स्थाने युद्धे च कुशलान् अभीरून् अविकारिणः ॥ १९० ॥  
 
 
-7.191a[192Ma] saṃhatān yodhayed alpān kāmaṃ vistārayed bahūn |  
-7.191c[192Mc] sūcyā vajreṇa ca-eva-etān vyūhena vyūhya yodhayet || 191 ||  
+७।१९१अ[१९२म] संहतान् योधयेद् अल्पान् कामं विस्तारयेद् बहून् ।  
+७।१९१च्[१९२म्च्] सूच्या वज्रेण च-एव-एतान् व्यूहेन व्यूह्य योधयेत् ॥ १९१ ॥  
 
 
-7.192a[193Ma] syandana.aśvaiḥ same yudhyed anūpe nau dvipais tathā |  
-7.192c[193Mc] vṛkṣa.gulmāvṛte cāpair asi.carma.āyudhaiḥ sthale || 192 ||  
+७।१९२अ[१९३म] स्यन्दन।अश्वैः समे युध्येद् अनूपे नौ द्विपैस् तथा ।  
+७।१९२च्[१९३म्च्] वृक्ष।गुल्मावृते चापैर् असि।चर्म।आयुधैः स्थले ॥ १९२ ॥  
 
 
-7.193a[194Ma] kurukṣetrāṃś ca matsyāṃś ca pañcālān-śūrasenajān | 7.193a[194Ma]v/  \[M\] : “kaurakṣetrāṃś ca”  
-7.193c[194Mc] dīrghāṃl laghūṃś ca-eva narān agrānīkeṣu yojayet || 193 ||  
+७।१९३अ[१९४म] कुरुक्षेत्रांश् च मत्स्यांश् च पञ्चालान्-शूरसेनजान् । ७।१९३अ[१९४म]व्।  \[म्\] : “कौरक्षेत्रांश् च”  
+७।१९३च्[१९४म्च्] दीर्घांल् लघूंश् च-एव नरान् अग्रानीकेषु योजयेत् ॥ १९३ ॥  
 
 
-7.194a[195Ma] praharṣayed balaṃ vyūhya tāṃś ca samyak parīkṣayet | 7.194a[195Ma]v/  \[M\] : “bhṛśaṃ parīkṣayet”  
-7.194c[195Mc] ceṣṭāś ca-eva vijānīyād arīn yodhayatām api || 194 ||  
+७।१९४अ[१९५म] प्रहर्षयेद् बलं व्यूह्य तांश् च सम्यक् परीक्षयेत् । ७।१९४अ[१९५म]व्।  \[म्\] : “भृशं परीक्षयेत्”  
+७।१९४च्[१९५म्च्] चेष्टाश् च-एव विजानीयाद् अरीन् योधयताम् अपि ॥ १९४ ॥  
 
 
-7.195a[196Ma] uparudhya-arim āsīta rāṣṭraṃ cāsya-upapīḍayet |  
-7.195c[196Mc] dūṣayec cāsya satataṃ yavasa.anna.udaka.indhanam || 195 ||  
+७।१९५अ[१९६म] उपरुध्य-अरिम् आसीत राष्ट्रं चास्य-उपपीडयेत् ।  
+७।१९५च्[१९६म्च्] दूषयेच् चास्य सततं यवस।अन्न।उदक।इन्धनम् ॥ १९५ ॥  
 
 
-7.196a[197Ma] bhindyāc ca-eva taḍāgāni prākāra.parikhās tathā |  
-7.196c[197Mc] samavaskandayec ca-enaṃ rātrau vitrāsayet tathā || 196 ||  
+७।१९६अ[१९७म] भिन्द्याच् च-एव तडागानि प्राकार।परिखास् तथा ।  
+७।१९६च्[१९७म्च्] समवस्कन्दयेच् च-एनं रात्रौ वित्रासयेत् तथा ॥ १९६ ॥  
 
 
-7.197a[198Ma] upajapyān upajaped budhyeta-eva ca tatkṛtam |  
-7.197c[198Mc] yukte ca daive yudhyeta jayaprepsur apetabhīḥ || 197 ||  
+७।१९७अ[१९८म] उपजप्यान् उपजपेद् बुध्येत-एव च तत्कृतम् ।  
+७।१९७च्[१९८म्च्] युक्ते च दैवे युध्येत जयप्रेप्सुर् अपेतभीः ॥ १९७ ॥  
 
 
-7.198a[199Ma] sāmnā dānena bhedena samastair atha vā pṛthak |  
-7.198c[199Mc] vijetuṃ prayateta-arīn na yuddhena kadā cana || 198 || 7.198c[199Mc]v/  \[M\] : “-ariṃ”  
+७।१९८अ[१९९म] साम्ना दानेन भेदेन समस्तैर् अथ वा पृथक् ।  
+७।१९८च्[१९९म्च्] विजेतुं प्रयतेत-अरीन् न युद्धेन कदा चन ॥ १९८ ॥ ७।१९८च्[१९९म्च्]व्।  \[म्\] : “-अरिं”  
 
 
-7.199a[200Ma] anityo vijayo yasmād dṛśyate yudhyamānayoḥ |  
-7.199c[200Mc] parājayaś ca saṅgrāme tasmād yuddhaṃ vivarjayet || 199 ||  
+७।१९९अ[२००म] अनित्यो विजयो यस्माद् दृश्यते युध्यमानयोः ।  
+७।१९९च्[२००म्च्] पराजयश् च सङ्ग्रामे तस्माद् युद्धं विवर्जयेत् ॥ १९९ ॥  
 
 
-7.200a[201Ma] trayāṇām apy upāyānāṃ pūrva.uktānām asambhave |  
-7.200c[201Mc] tathā yudhyeta sampanno vijayeta ripūn yathā || 200 ||  
+७।२००अ[२०१म] त्रयाणाम् अप्य् उपायानां पूर्व।उक्तानाम् असम्भवे ।  
+७।२००च्[२०१म्च्] तथा युध्येत सम्पन्नो विजयेत रिपून् यथा ॥ २०० ॥  
 
 
- 7.1.17.5. Conduct in Victory
- \[O\]  edn 649-650,  \[O\]  tr. 164-165
-7.201a[202Ma] jitvā sampūjayed devān brāhmaṇāṃś ca-eva dhārmikān |  
-7.201c[202Mc] pradadyāt parihārārthaṃ khyāpayed abhayāni ca || 201 ||  
+ ७।१।१७।५। चोन्दुच्त् इन् विच्तोर्य्
+ \[ओ\]  एद्न् ६४९-६५०,  \[ओ\]  त्र्। १६४-१६५
+७।२०१अ[२०२म] जित्वा सम्पूजयेद् देवान् ब्राह्मणांश् च-एव धार्मिकान् ।  
+७।२०१च्[२०२म्च्] प्रदद्यात् परिहारार्थं ख्यापयेद् अभयानि च ॥ २०१ ॥  
 
 
-7.202a[203Ma] sarveṣāṃ tu viditvā-eṣāṃ samāsena cikīrṣitam |  
-7.202c[203Mc] sthāpayet tatra tadvaṃśyaṃ kuryāc ca samayakriyām || 202 ||  
+७।२०२अ[२०३म] सर्वेषां तु विदित्वा-एषां समासेन चिकीर्षितम् ।  
+७।२०२च्[२०३म्च्] स्थापयेत् तत्र तद्वंश्यं कुर्याच् च समयक्रियाम् ॥ २०२ ॥  
 
 
-7.203a[204Ma] pramāṇāni ca kurvīta teṣāṃ dharmān yathā.uditān |  
-7.203c[204Mc] ratnaiś ca pūjayed enaṃ pradhānapuruṣaiḥ saha || 203 ||  
+७।२०३अ[२०४म] प्रमाणानि च कुर्वीत तेषां धर्मान् यथा।उदितान् ।  
+७।२०३च्[२०४म्च्] रत्नैश् च पूजयेद् एनं प्रधानपुरुषैः सह ॥ २०३ ॥  
 
 
-7.204a[205Ma] ādānam apriyakaraṃ dānaṃ ca priyakārakam |  
-7.204c[205Mc] abhīpsitānām arthānāṃ kāle yuktaṃ || 204 || 7.204c[205Mc]v/  \[M\] : “kālayuktaṃ praśasyate”  
+७।२०४अ[२०५म] आदानम् अप्रियकरं दानं च प्रियकारकम् ।  
+७।२०४च्[२०५म्च्] अभीप्सितानाम् अर्थानां काले युक्तं ॥ २०४ ॥ ७।२०४च्[२०५म्च्]व्।  \[म्\] : “कालयुक्तं प्रशस्यते”  
 
 
-7.205a[206Ma] sarvaṃ karma-idam āyattaṃ vidhāne daiva.mānuṣe |  
-7.205c[206Mc] tayor daivam acintyaṃ tu mānuṣe vidyate kriyā || 205 ||  
+७।२०५अ[२०६म] सर्वं कर्म-इदम् आयत्तं विधाने दैव।मानुषे ।  
+७।२०५च्[२०६म्च्] तयोर् दैवम् अचिन्त्यं तु मानुषे विद्यते क्रिया ॥ २०५ ॥  
 
 
- 7.1.17.6. Political Strategy-II
- \[O\]  edn 650-652,  \[O\]  tr. 165+++(The following three verses are found only in  \[M\] . ( \[Jha's edition\]  does not count them in its numbering of the text, although Medhātithi gives their commentary.)+++
-[M7.207Ma] daivena vidhinā yuktaṃ mānuṣyaṃ yat pravartate | [M7.207Ma]v/ not in  \[K\] .  \[Jha\]  “'yuktaṃ”  
-[M7.207Mc] parikleśena mahatā tadarthasya samādhakam || 207 || [M7.207Mc]v/ not in  \[K\]   
+ ७।१।१७।६। पोलितिचल् स्त्रतेग्य्-इइ
+ \[ओ\]  एद्न् ६५०-६५२,  \[ओ\]  त्र्। १६५+++(थे ड़ोल्लोwइन्ग् थ्रेए वेर्सेस् अरे ड़ोउन्द् ओन्ल्य् इन्  \[म्\] । ( \[झऽस् एदितिओन्\]  दोएस् नोत् चोउन्त् थेम् इन् इत्स् नुम्बेरिन्ग् ओड़् थे तेxत्, अल्थोउघ् मेधातिथि गिवेस् थेइर् चोम्मेन्तर्य्।)+++
+[म्७।२०७म] दैवेन विधिना युक्तं मानुष्यं यत् प्रवर्तते । [म्७।२०७म]व्। नोत् इन्  \[क्\] ।  \[झ\]  “ऽयुक्तं”  
+[म्७।२०७म्च्] परिक्लेशेन महता तदर्थस्य समाधकम् ॥ २०७ ॥ [म्७।२०७म्च्]व्। नोत् इन्  \[क्\]   
 
 
-[M7.208Ma] saṃyuktasya-api daivena puruṣakāreṇa varjitam | [M7.208Ma]v/ not in  \[K\]   
-[M7.208Mc] vinā puruṣakāreṇa phalaṃ kṣetraṃ prayacchati || 208 || [M7.208Mc]v/ not in  \[K\]   
+[म्७।२०८म] संयुक्तस्य-अपि दैवेन पुरुषकारेण वर्जितम् । [म्७।२०८म]व्। नोत् इन्  \[क्\]   
+[म्७।२०८म्च्] विना पुरुषकारेण फलं क्षेत्रं प्रयच्छति ॥ २०८ ॥ [म्७।२०८म्च्]व्। नोत् इन्  \[क्\]   
 
 
-[M7.209Ma] candrārka.ādyā grahā vāyur agnir āpas tathā-eva ca | [M7.209Ma]v/ not in  \[K\]   
-[M7.209Mc] iha daivena sādhyante pauruṣeṇa prayatnataḥ || 209 || [M7.209Mc]v/ not in  \[K\]   
+[म्७।२०९म] चन्द्रार्क।आद्या ग्रहा वायुर् अग्निर् आपस् तथा-एव च । [म्७।२०९म]व्। नोत् इन्  \[क्\]   
+[म्७।२०९म्च्] इह दैवेन साध्यन्ते पौरुषेण प्रयत्नतः ॥ २०९ ॥ [म्७।२०९म्च्]व्। नोत् इन्  \[क्\]   
 
 
-7.206a[210Ma] saha vā-api vrajed yuktaḥ sandhiṃ kṛtvā prayatnataḥ |  
-7.206c[210Mc] mitraṃ hiraṇyaṃ bhūmiṃ vā sampaśyaṃs trividhaṃ phalam || 206 ||  
+७।२०६अ[२१०म] सह वा-अपि व्रजेद् युक्तः सन्धिं कृत्वा प्रयत्नतः ।  
+७।२०६च्[२१०म्च्] मित्रं हिरण्यं भूमिं वा सम्पश्यंस् त्रिविधं फलम् ॥ २०६ ॥  
 
 
-7.207a[211Ma] pārṣṇigrāhaṃ ca samprekṣya tathākrandaṃ ca maṇḍale |  
-7.207c[211Mc] mitrād atha-apy amitrād vā yātrāphalam avāpnuyāt || 207 ||  
+७।२०७अ[२११म] पार्ष्णिग्राहं च सम्प्रेक्ष्य तथाक्रन्दं च मण्डले ।  
+७।२०७च्[२११म्च्] मित्राद् अथ-अप्य् अमित्राद् वा यात्राफलम् अवाप्नुयात् ॥ २०७ ॥  
 
 
-7.208a[212Ma] hiraṇya.bhūmisamprāptyā pārthivo na tatha-edhate |  
-7.208c[212Mc] yathā mitraṃ dhruvaṃ labdhvā kṛśam apy āyatikṣamam || 208 ||  
+७।२०८अ[२१२म] हिरण्य।भूमिसम्प्राप्त्या पार्थिवो न तथ-एधते ।  
+७।२०८च्[२१२म्च्] यथा मित्रं ध्रुवं लब्ध्वा कृशम् अप्य् आयतिक्षमम् ॥ २०८ ॥  
 
 
-7.209a[213Ma] dharmajñaṃ ca kṛtajñaṃ ca tuṣṭaprakṛtim eva ca |  
-7.209c[213Mc] anuraktaṃ sthirārambhaṃ laghumitraṃ praśasyate || 209 ||  
+७।२०९अ[२१३म] धर्मज्ञं च कृतज्ञं च तुष्टप्रकृतिम् एव च ।  
+७।२०९च्[२१३म्च्] अनुरक्तं स्थिरारम्भं लघुमित्रं प्रशस्यते ॥ २०९ ॥  
 
 
-7.210a[214Ma] prājñaṃ kulīnaṃ śūraṃ ca dakṣaṃ dātāram eva ca |  
-7.210c[214Mc] kṛtajñaṃ dhṛtimantaṃ ca kaṣṭam āhur ariṃ budhāḥ || 210 ||  
+७।२१०अ[२१४म] प्राज्ञं कुलीनं शूरं च दक्षं दातारम् एव च ।  
+७।२१०च्[२१४म्च्] कृतज्ञं धृतिमन्तं च कष्टम् आहुर् अरिं बुधाः ॥ २१० ॥  
 
 
-7.211a[215Ma] āryatā puruṣajñānaṃ śauryaṃ karuṇaveditā |  
-7.211c[215Mc] sthaulalakṣyaṃ ca satatam udāsīnaguṇa.udayaḥ || 211 ||  
+७।२११अ[२१५म] आर्यता पुरुषज्ञानं शौर्यं करुणवेदिता ।  
+७।२११च्[२१५म्च्] स्थौललक्ष्यं च सततम् उदासीनगुण।उदयः ॥ २११ ॥  
 
 
-7.212a[216Ma] ksemyāṃ sasyapradāṃ nityaṃ paśuvṛddhikarīm api |  
-7.212c[216Mc] parityajen nṛpo bhūmim ātmārtham a.vicārayan || 212 ||  
+७।२१२अ[२१६म] क्सेम्यां सस्यप्रदां नित्यं पशुवृद्धिकरीम् अपि ।  
+७।२१२च्[२१६म्च्] परित्यजेन् नृपो भूमिम् आत्मार्थम् अ।विचारयन् ॥ २१२ ॥  
 
 
-7.213a[217Ma] āpadarthaṃ dhanaṃ rakṣed dārān rakṣed dhanair api | 7.213a[217Ma]v/  \[M\] : “āpadarthe”  
-7.213c[217Mc] ātmānaṃ satataṃ rakṣed dārair api dhanair api || 213 ||  
+७।२१३अ[२१७म] आपदर्थं धनं रक्षेद् दारान् रक्षेद् धनैर् अपि । ७।२१३अ[२१७म]व्।  \[म्\] : “आपदर्थे”  
+७।२१३च्[२१७म्च्] आत्मानं सततं रक्षेद् दारैर् अपि धनैर् अपि ॥ २१३ ॥  
 
 
-7.214a[218Ma] saha sarvāḥ samutpannāḥ prasamīkṣya-āpado bhṛśam |  
-7.214c[218Mc] saṃyuktāṃś ca viyuktāṃś ca sarva.upāyān sṛjed budhaḥ || 214 ||  
+७।२१४अ[२१८म] सह सर्वाः समुत्पन्नाः प्रसमीक्ष्य-आपदो भृशम् ।  
+७।२१४च्[२१८म्च्] संयुक्तांश् च वियुक्तांश् च सर्व।उपायान् सृजेद् बुधः ॥ २१४ ॥  
 
 
-7.215a[219Ma] upetāram upeyaṃ ca sarva.upāyāṃś ca kṛtsnaśaḥ |  
-7.215c[219Mc] etat trayaṃ samāśritya prayateta-arthasiddhaye || 215 ||  
+७।२१५अ[२१९म] उपेतारम् उपेयं च सर्व।उपायांश् च कृत्स्नशः ।  
+७।२१५च्[२१९म्च्] एतत् त्रयं समाश्रित्य प्रयतेत-अर्थसिद्धये ॥ २१५ ॥  
 
 
 # ७।१।१८। अड़्तेर्नोओन् रोउतिने
@@ -6018,40 +6017,40 @@
 ७।२२२च्[२२६म्च्] वाहनानि च सर्वाणि शस्त्राण्य् आभरणानि च ॥ २२२ ॥  
 
 
-# 7.1.19. Evening Routine
- \[O\]  edn 653-654,  \[O\]  tr. 166
-7.223a[227Ma] sandhyāṃ ca-upāsya śṛṇuyād antarveśmani śastrabhṛt |  
-7.223c[227Mc] rahasya-ākhyāyināṃ ca-eva praṇidhīnāṃ ca ceṣṭitam || 223 ||  
+# ७।१।१९। एवेनिन्ग् रोउतिने
+ \[ओ\]  एद्न् ६५३-६५४,  \[ओ\]  त्र्। १६६
+७।२२३अ[२२७म] सन्ध्यां च-उपास्य शृणुयाद् अन्तर्वेश्मनि शस्त्रभृत् ।  
+७।२२३च्[२२७म्च्] रहस्य-आख्यायिनां च-एव प्रणिधीनां च चेष्टितम् ॥ २२३ ॥  
 
 
-7.224a[228Ma] gatvā kakṣāntaraṃ tv anyat samanujñāpya taṃ janam |  
-7.224c[228Mc] praviśed bhojanārthaṃ ca strīvṛto 'ntaḥpuraṃ punaḥ || 224 ||  
+७।२२४अ[२२८म] गत्वा कक्षान्तरं त्व् अन्यत् समनुज्ञाप्य तं जनम् ।  
+७।२२४च्[२२८म्च्] प्रविशेद् भोजनार्थं च स्त्रीवृतो ऽन्तःपुरं पुनः ॥ २२४ ॥  
 
 
-7.225a[229Ma] tatra bhuktvā punaḥ kiṃ cit tūryaghoṣaiḥ praharṣitaḥ |  
-7.225c[229Mc] saṃviśet taṃ yathākālam uttiṣṭhec ca gataklamaḥ || 225 ||  
+७।२२५अ[२२९म] तत्र भुक्त्वा पुनः किं चित् तूर्यघोषैः प्रहर्षितः ।  
+७।२२५च्[२२९म्च्] संविशेत् तं यथाकालम् उत्तिष्ठेच् च गतक्लमः ॥ २२५ ॥  
 
 
-7.226a[230Ma] etadvidhānam ātiṣṭhed arogaḥ pṛthivīpatiḥ |  
-7.226c[230Mc] asvasthaḥ sarvam etat tu bhṛtyeṣu viniyojayet || 226 ||  
+७।२२६अ[२३०म] एतद्विधानम् आतिष्ठेद् अरोगः पृथिवीपतिः ।  
+७।२२६च्[२३०म्च्] अस्वस्थः सर्वम् एतत् तु भृत्येषु विनियोजयेत् ॥ २२६ ॥  
 
 
-# Chapter 8
- \[O\]  edn 659-745,  \[O\]  tr. 167-189
+# छप्तेर् ८
+ \[ओ\]  एद्न् ६५९-७४५,  \[ओ\]  त्र्। १६७-१८९
  ८।१। थे जुस्तिचे स्य्स्तेम्
  \[ओ\]  एद्न् ६५९-७४५,  \[ओ\]  त्र्। १६७-१८९
-# 8.1.1. Court
- \[O\]  edn 659,  \[O\]  tr. 167
-8.01a vyavahārān didṛkṣus tu brāhmaṇaiḥ saha pārthivaḥ |  
-8.01c mantrajñair mantribhiś ca-eva vinītaḥ praviśet sabhām || 1 ||  
+# ८।१।१। चोउर्त्
+ \[ओ\]  एद्न् ६५९,  \[ओ\]  त्र्। १६७
+८।०१अ व्यवहारान् दिदृक्षुस् तु ब्राह्मणैः सह पार्थिवः ।  
+८।०१च् मन्त्रज्ञैर् मन्त्रिभिश् च-एव विनीतः प्रविशेत् सभाम् ॥ १ ॥  
 
 
-8.02a tatra-āsīnaḥ sthito vā-api pāṇim udyamya dakṣiṇam |  
-8.02c vinīta.veṣa.ābharaṇaḥ paśyet kāryāṇi kāryiṇām || 2 ||  
+८।०२अ तत्र-आसीनः स्थितो वा-अपि पाणिम् उद्यम्य दक्षिणम् ।  
+८।०२च् विनीत।वेष।आभरणः पश्येत् कार्याणि कार्यिणाम् ॥ २ ॥  
 
 
-8.03a pratyahaṃ deśadṛṣṭaiś ca śāstradṛṣṭaiś ca hetubhiḥ |  
-8.03c aṣṭādaśasu mārgeṣu nibaddhāni pṛthak pṛthak || 3 ||  
+८।०३अ प्रत्यहं देशदृष्टैश् च शास्त्रदृष्टैश् च हेतुभिः ।  
+८।०३च् अष्टादशसु मार्गेषु निबद्धानि पृथक् पृथक् ॥ ३ ॥  
 
 
 # ८।१।२। ग्रोउन्द्स् ड़ोर् लितिगतिओन्
@@ -6076,172 +6075,172 @@
 ८।०८च् धर्मं शाश्वतम् आश्रित्य कुर्यात् कार्यविनिर्णयम् ॥ ८ ॥  
 
 
-# 8.1.3. Legal Proceedings
- \[O\]  edn 660-666,  \[O\]  tr. 167-169
- 8.1.3.1. Judges
- \[O\]  edn 660,  \[O\]  tr. 167
-8.09a yadā svayaṃ na kuryāt tu nṛpatiḥ kāryadarśanam |  
-8.09c tadā niyuñjyād vidvāṃsaṃ brāhmaṇaṃ kāryadarśane || 9 ||  
+# ८।१।३। लेगल् प्रोचेएदिन्ग्स्
+ \[ओ\]  एद्न् ६६०-६६६,  \[ओ\]  त्र्। १६७-१६९
+ ८।१।३।१। जुद्गेस्
+ \[ओ\]  एद्न् ६६०,  \[ओ\]  त्र्। १६७
+८।०९अ यदा स्वयं न कुर्यात् तु नृपतिः कार्यदर्शनम् ।  
+८।०९च् तदा नियुञ्ज्याद् विद्वांसं ब्राह्मणं कार्यदर्शने ॥ ९ ॥  
 
 
-8.10a so 'sya kāryāṇi sampaśyet sabhyair eva tribhir vṛtaḥ |  
-8.10c sabhām eva praviśya-agryām āsīnaḥ sthita eva vā || 10 ||  
+८।१०अ सो ऽस्य कार्याणि सम्पश्येत् सभ्यैर् एव त्रिभिर् वृतः ।  
+८।१०च् सभाम् एव प्रविश्य-अग्र्याम् आसीनः स्थित एव वा ॥ १० ॥  
 
 
-8.11a yasmin deśe niṣīdanti viprā vedavidas trayaḥ |  
-8.11c rājñaś ca-adhikṛto vidvān brahmaṇas tāṃ sabhāṃ viduḥ || 11 ||  
+८।११अ यस्मिन् देशे निषीदन्ति विप्रा वेदविदस् त्रयः ।  
+८।११च् राज्ञश् च-अधिकृतो विद्वान् ब्रह्मणस् तां सभां विदुः ॥ ११ ॥  
 
 
- 8.1.3.2. Pursuit of Justice
- \[O\]  edn 661-662,  \[O\]  tr. 167-168
-8.12a dharmo viddhas tv adharmeṇa sabhāṃ yatra-upatiṣṭhate |  
-8.12c śalyaṃ ca-asya na kṛntanti viddhās tatra sabhāsadaḥ || 12 ||  
+ ८।१।३।२। पुर्सुइत् ओड़् जुस्तिचे
+ \[ओ\]  एद्न् ६६१-६६२,  \[ओ\]  त्र्। १६७-१६८
+८।१२अ धर्मो विद्धस् त्व् अधर्मेण सभां यत्र-उपतिष्ठते ।  
+८।१२च् शल्यं च-अस्य न कृन्तन्ति विद्धास् तत्र सभासदः ॥ १२ ॥  
 
 
-8.13a sabhāṃ vā na praveṣṭavyaṃ vaktavyaṃ vā samañjasam | 8.13av/  \[M\] : “sabhā vā na praveṣṭavyā”  
-8.13c abruvan vibruvan vā-api naro bhavati kilbiṣī || 13 ||  
+८।१३अ सभां वा न प्रवेष्टव्यं वक्तव्यं वा समञ्जसम् । ८।१३अव्।  \[म्\] : “सभा वा न प्रवेष्टव्या”  
+८।१३च् अब्रुवन् विब्रुवन् वा-अपि नरो भवति किल्बिषी ॥ १३ ॥  
 
 
-8.14a yatra dharmo hy adharmeṇa satyaṃ yatra-anṛtena ca |  
-8.14c hanyate prekṣamāṇānāṃ hatās tatra sabhāsadaḥ || 14 ||  
+८।१४अ यत्र धर्मो ह्य् अधर्मेण सत्यं यत्र-अनृतेन च ।  
+८।१४च् हन्यते प्रेक्षमाणानां हतास् तत्र सभासदः ॥ १४ ॥  
 
 
-8.15a dharma eva hato hanti dharmo rakṣati rakṣitaḥ |  
-8.15c tasmād dharmo na hantavyo mā no dharmo hato 'vadhīt || 15 || 8.15cv/  \[M\] : “vadhīt”  
+८।१५अ धर्म एव हतो हन्ति धर्मो रक्षति रक्षितः ।  
+८।१५च् तस्माद् धर्मो न हन्तव्यो मा नो धर्मो हतो ऽवधीत् ॥ १५ ॥ ८।१५च्व्।  \[म्\] : “वधीत्”  
 
 
-8.16a vṛṣo hi bhagavān dharmas tasya yaḥ kurute hy alam | 8.16av/  \[M\] : “tv alam”  
-8.16c vṛṣalaṃ taṃ vidur devās tasmād dharmaṃ na lopayet || 16 ||  
+८।१६अ वृषो हि भगवान् धर्मस् तस्य यः कुरुते ह्य् अलम् । ८।१६अव्।  \[म्\] : “त्व् अलम्”  
+८।१६च् वृषलं तं विदुर् देवास् तस्माद् धर्मं न लोपयेत् ॥ १६ ॥  
 
 
-8.17a eka eva suhṛd dharmo nidhāne 'py anuyāti yaḥ |  
-8.17c śarīreṇa samaṃ nāśaṃ sarvam anyadd hi gacchati || 17 ||  
+८।१७अ एक एव सुहृद् धर्मो निधाने ऽप्य् अनुयाति यः ।  
+८।१७च् शरीरेण समं नाशं सर्वम् अन्यद्द् हि गच्छति ॥ १७ ॥  
 
 
-8.18a pādo 'dharmasya kartāraṃ pādaḥ sākṣiṇam ṛcchati |  
-8.18c pādaḥ sabhāsadaḥ sarvān pādo rājānam ṛcchati || 18 ||  
+८।१८अ पादो ऽधर्मस्य कर्तारं पादः साक्षिणम् ऋच्छति ।  
+८।१८च् पादः सभासदः सर्वान् पादो राजानम् ऋच्छति ॥ १८ ॥  
 
 
-8.19a rājā bhavaty an.enās tu mucyante ca sabhāsadaḥ |  
-8.19c eno gacchati kartāraṃ nindā.arho yatra nindyate || 19 ||  
+८।१९अ राजा भवत्य् अन्।एनास् तु मुच्यन्ते च सभासदः ।  
+८।१९च् एनो गच्छति कर्तारं निन्दा।अर्हो यत्र निन्द्यते ॥ १९ ॥  
 
 
- 8.1.3.3. Excursus: Śūdras as Legal Interpreters
- \[O\]  edn 662,  \[O\]  tr. 168
-8.20a jātimātra.upajīvī vā kāmaṃ syād brāhmaṇabruvaḥ |  
-8.20c dharmapravaktā nṛpater na śūdraḥ kathaṃ cana || 20 ||  
+ ८।१।३।३। एxचुर्सुस्: शूद्रस् अस् लेगल् इन्तेर्प्रेतेर्स्
+ \[ओ\]  एद्न् ६६२,  \[ओ\]  त्र्। १६८
+८।२०अ जातिमात्र।उपजीवी वा कामं स्याद् ब्राह्मणब्रुवः ।  
+८।२०च् धर्मप्रवक्ता नृपतेर् न शूद्रः कथं चन ॥ २० ॥  
 
 
-8.21a yasya śūdras tu kurute rājño dharmavivecanam |  
-8.21c tasya sīdati tad rāṣṭraṃ paṅke gaur iva paśyataḥ || 21 ||  
+८।२१अ यस्य शूद्रस् तु कुरुते राज्ञो धर्मविवेचनम् ।  
+८।२१च् तस्य सीदति तद् राष्ट्रं पङ्के गौर् इव पश्यतः ॥ २१ ॥  
 
 
-8.22a yad rāṣṭraṃ śūdra.bhūyiṣṭhaṃ nāstikākrāntam a.dvijam |  
-8.22c vinaśyaty āśu tat kṛtsnaṃ durbhikṣa.vyādhipīḍitam || 22 ||  
+८।२२अ यद् राष्ट्रं शूद्र।भूयिष्ठं नास्तिकाक्रान्तम् अ।द्विजम् ।  
+८।२२च् विनश्यत्य् आशु तत् कृत्स्नं दुर्भिक्ष।व्याधिपीडितम् ॥ २२ ॥  
 
 
- 8.1.3.4. Judicial Conduct and Reasoning-I
- \[O\]  edn 662-663,  \[O\]  tr. 168
-8.23a dharmāsanam adhiṣṭhāya saṃvīta.aṅgaḥ samāhitaḥ |  
-8.23c praṇamya lokapālebhyaḥ kāryadarśanam ārabhet || 23 ||  
+ ८।१।३।४। जुदिचिअल् चोन्दुच्त् अन्द् रेअसोनिन्ग्-इ
+ \[ओ\]  एद्न् ६६२-६६३,  \[ओ\]  त्र्। १६८
+८।२३अ धर्मासनम् अधिष्ठाय संवीत।अङ्गः समाहितः ।  
+८।२३च् प्रणम्य लोकपालेभ्यः कार्यदर्शनम् आरभेत् ॥ २३ ॥  
 
 
-8.24a artha.anarthāv ubhau buddhvā dharma.adharmau ca kevalau |  
-8.24c varṇakrameṇa sarvāṇi paśyet kāryāṇi kāryiṇām || 24 ||  
+८।२४अ अर्थ।अनर्थाव् उभौ बुद्ध्वा धर्म।अधर्मौ च केवलौ ।  
+८।२४च् वर्णक्रमेण सर्वाणि पश्येत् कार्याणि कार्यिणाम् ॥ २४ ॥  
 
 
-8.25a bāhyair vibhāvayet-liṅgair bhāvam antargataṃ nṛṇām |  
-8.25c svara.varṇa.iṅgita.ākāraiś cakṣuṣā ceṣṭitena ca || 25 ||  
+८।२५अ बाह्यैर् विभावयेत्-लिङ्गैर् भावम् अन्तर्गतं नृणाम् ।  
+८।२५च् स्वर।वर्ण।इङ्गित।आकारैश् चक्षुषा चेष्टितेन च ॥ २५ ॥  
 
 
-8.26a ākārair iṅgitair gatyā ceṣṭayā bhāṣitena ca |  
-8.26c netra.vaktravikāraiś ca gṛhyate 'ntargataṃ manaḥ || 26 ||  
+८।२६अ आकारैर् इङ्गितैर् गत्या चेष्टया भाषितेन च ।  
+८।२६च् नेत्र।वक्त्रविकारैश् च गृह्यते ऽन्तर्गतं मनः ॥ २६ ॥  
 
 
- 8.1.3.5. Excursus: Property and Minors and Women
- \[O\]  edn 663,  \[O\]  tr. 168
-8.27a bāladāya.ādikaṃ rikthaṃ tāvad rājā-anupālayet |  
-8.27c yāvat sa syāt samāvṛtto yāvat-ca-atīta.śaiśavaḥ] || 27 || 8.27cv/  \[M\] : “yāvad vā-atīta.śaiśavaḥ”  
+ ८।१।३।५। एxचुर्सुस्: प्रोपेर्त्य् अन्द् मिनोर्स् अन्द् Wओमेन्
+ \[ओ\]  एद्न् ६६३,  \[ओ\]  त्र्। १६८
+८।२७अ बालदाय।आदिकं रिक्थं तावद् राजा-अनुपालयेत् ।  
+८।२७च् यावत् स स्यात् समावृत्तो यावत्-च-अतीत।शैशवः] ॥ २७ ॥ ८।२७च्व्।  \[म्\] : “यावद् वा-अतीत।शैशवः”  
 
 
-8.28a vaśā.aputrāsu ca-evaṃ syād rakṣaṇaṃ niṣ.kulāsu ca |  
-8.28c pati.vratāsu ca strīṣu vidhavāsv āturāsu ca || 28 ||  
+८।२८अ वशा।अपुत्रासु च-एवं स्याद् रक्षणं निष्।कुलासु च ।  
+८।२८च् पति।व्रतासु च स्त्रीषु विधवास्व् आतुरासु च ॥ २८ ॥  
 
 
-8.29a jīvantīnāṃ tu tāsāṃ ye tadd hareyuḥ svabāndhavāḥ |  
-8.29c tān-śiṣyāt-cauradaṇḍena dhārmikaḥ pṛthivīpatiḥ || 29 ||  
+८।२९अ जीवन्तीनां तु तासां ये तद्द् हरेयुः स्वबान्धवाः ।  
+८।२९च् तान्-शिष्यात्-चौरदण्डेन धार्मिकः पृथिवीपतिः ॥ २९ ॥  
 
 
- 8.1.3.6. Excursus: Lost and Stolen Property
- \[O\]  edn 664-665,  \[O\]  tr. 168-169
-8.30a praṇaṣṭa.svāmikaṃ rikthaṃ rājā tryabdaṃ nidhāpayet |  
-8.30c arvāk tryabdādd haret svāmī pareṇa nṛpatir haret || 30 ||  
+ ८।१।३।६। एxचुर्सुस्: लोस्त् अन्द् स्तोलेन् प्रोपेर्त्य्
+ \[ओ\]  एद्न् ६६४-६६५,  \[ओ\]  त्र्। १६८-१६९
+८।३०अ प्रणष्ट।स्वामिकं रिक्थं राजा त्र्यब्दं निधापयेत् ।  
+८।३०च् अर्वाक् त्र्यब्दाद्द् हरेत् स्वामी परेण नृपतिर् हरेत् ॥ ३० ॥  
 
 
-8.31a mama-idam iti yo brūyāt so 'nuyojyo yathāvidhi |  
-8.31c saṃvādya rūpa.saṅkhyādīn svāmī tad dravyam arhati || 31 ||  
+८।३१अ मम-इदम् इति यो ब्रूयात् सो ऽनुयोज्यो यथाविधि ।  
+८।३१च् संवाद्य रूप।सङ्ख्यादीन् स्वामी तद् द्रव्यम् अर्हति ॥ ३१ ॥  
 
 
-8.32a a.vedayāno naṣṭasya deśaṃ kālaṃ ca tattvataḥ |  
-8.32c varṇaṃ rūpaṃ pramāṇaṃ ca tatsamaṃ daṇḍam arhati || 32 ||  
+८।३२अ अ।वेदयानो नष्टस्य देशं कालं च तत्त्वतः ।  
+८।३२च् वर्णं रूपं प्रमाणं च तत्समं दण्डम् अर्हति ॥ ३२ ॥  
 
 
-8.33a ādadīta-atha ṣaḍbhāgaṃ pranaṣṭa.adhigatān nṛpaḥ |  
-8.33c daśamaṃ dvādaśaṃ vā-api satāṃ dharmam anusmaran || 33 ||  
+८।३३अ आददीत-अथ षड्भागं प्रनष्ट।अधिगतान् नृपः ।  
+८।३३च् दशमं द्वादशं वा-अपि सतां धर्मम् अनुस्मरन् ॥ ३३ ॥  
 
 
-8.34a pranaṣṭa.adhigataṃ dravyaṃ tiṣṭhed yuktair adhiṣṭhitam |  
-8.34c yāṃs tatra caurān gṛhṇīyāt tān rājā-ibhena ghātayet || 34 ||  
+८।३४अ प्रनष्ट।अधिगतं द्रव्यं तिष्ठेद् युक्तैर् अधिष्ठितम् ।  
+८।३४च् यांस् तत्र चौरान् गृह्णीयात् तान् राजा-इभेन घातयेत् ॥ ३४ ॥  
 
 
-8.35a mamāyam iti yo brūyān nidhiṃ satyena mānavaḥ |  
-8.35c tasyādadīta ṣaḍbhāgaṃ rājā dvādaśam eva vā || 35 ||  
+८।३५अ ममायम् इति यो ब्रूयान् निधिं सत्येन मानवः ।  
+८।३५च् तस्याददीत षड्भागं राजा द्वादशम् एव वा ॥ ३५ ॥  
 
 
-8.36a anṛtaṃ tu vadan daṇḍyaḥ svavittasya-aṃśam aṣṭamam |  
-8.36c tasya-eva vā nidhānasya saṅkhyayā-alpīyasīṃ kalām || 36 ||  
+८।३६अ अनृतं तु वदन् दण्ड्यः स्ववित्तस्य-अंशम् अष्टमम् ।  
+८।३६च् तस्य-एव वा निधानस्य सङ्ख्यया-अल्पीयसीं कलाम् ॥ ३६ ॥  
 
 
-8.37a vidvāṃs tu brāhmaṇo dṛṣṭvā pūrva.upanihitaṃ nidhim |  
-8.37c aśeṣato 'py ādadīta sarvasya-adhipatir hi saḥ || 37 ||  
+८।३७अ विद्वांस् तु ब्राह्मणो दृष्ट्वा पूर्व।उपनिहितं निधिम् ।  
+८।३७च् अशेषतो ऽप्य् आददीत सर्वस्य-अधिपतिर् हि सः ॥ ३७ ॥  
 
 
-8.38a yaṃ tu paśyen nidhiṃ rājā purāṇaṃ nihitaṃ kṣitau |  
-8.38c tasmād dvijebhyo dattvā-ardham ardhaṃ kośe praveśayet || 38 ||  
+८।३८अ यं तु पश्येन् निधिं राजा पुराणं निहितं क्षितौ ।  
+८।३८च् तस्माद् द्विजेभ्यो दत्त्वा-अर्धम् अर्धं कोशे प्रवेशयेत् ॥ ३८ ॥  
 
 
-8.39a nidhīnāṃ tu purāṇānāṃ dhātūnām eva ca kṣitau |  
-8.39c ardhabhāg rakṣaṇād rājā bhūmer adhipatir hi saḥ || 39 ||  
+८।३९अ निधीनां तु पुराणानां धातूनाम् एव च क्षितौ ।  
+८।३९च् अर्धभाग् रक्षणाद् राजा भूमेर् अधिपतिर् हि सः ॥ ३९ ॥  
 
 
-8.40a dātavyaṃ sarvavarṇebhyo rājñā caurair hṛtaṃ dhanam |  
-8.40c rājā tad upayuñjānaś caurasya-āpnoti kilbiṣam || 40 ||  
+८।४०अ दातव्यं सर्ववर्णेभ्यो राज्ञा चौरैर् हृतं धनम् ।  
+८।४०च् राजा तद् उपयुञ्जानश् चौरस्य-आप्नोति किल्बिषम् ॥ ४० ॥  
 
 
- 8.1.3.7. Judicial Conduct and Reasoning-II
- \[O\]  edn 665-666,  \[O\]  tr. 169
-8.41a jāti.jānapadān dharmān śreṇīdharmāṃś ca dharmavit |  
-8.41c samīkṣya kuladharmāṃś ca svadharmaṃ pratipādayet || 41 ||  
+ ८।१।३।७। जुदिचिअल् चोन्दुच्त् अन्द् रेअसोनिन्ग्-इइ
+ \[ओ\]  एद्न् ६६५-६६६,  \[ओ\]  त्र्। १६९
+८।४१अ जाति।जानपदान् धर्मान् श्रेणीधर्मांश् च धर्मवित् ।  
+८।४१च् समीक्ष्य कुलधर्मांश् च स्वधर्मं प्रतिपादयेत् ॥ ४१ ॥  
 
 
-8.42a svāni karmāṇi kurvāṇā dūre santo 'pi mānavāḥ |  
-8.42c priyā bhavanti lokasya sve sve karmaṇy avasthitāḥ || 42 ||  
+८।४२अ स्वानि कर्माणि कुर्वाणा दूरे सन्तो ऽपि मानवाः ।  
+८।४२च् प्रिया भवन्ति लोकस्य स्वे स्वे कर्मण्य् अवस्थिताः ॥ ४२ ॥  
 
 
-8.43a na-utpādayet svayaṃ kāryaṃ rājā na-apy asya puruṣaḥ |  
-8.43c na ca prāpitam anyena grased arthaṃ kathaṃ cana || 43 || 8.43cv/  \[M\] : “graseta-arthaṃ”  
+८।४३अ न-उत्पादयेत् स्वयं कार्यं राजा न-अप्य् अस्य पुरुषः ।  
+८।४३च् न च प्रापितम् अन्येन ग्रसेद् अर्थं कथं चन ॥ ४३ ॥ ८।४३च्व्।  \[म्\] : “ग्रसेत-अर्थं”  
 
 
-8.44a yathā nayaty asṛkpātair mṛgasya mṛgayuḥ padam |  
-8.44c nayet tathā-anumānena dharmasya nṛpatiḥ padam || 44 ||  
+८।४४अ यथा नयत्य् असृक्पातैर् मृगस्य मृगयुः पदम् ।  
+८।४४च् नयेत् तथा-अनुमानेन धर्मस्य नृपतिः पदम् ॥ ४४ ॥  
 
 
-8.45a satyam arthaṃ ca sampaśyed ātmānam atha sākṣiṇaḥ | 8.45av/  \[M\] : “sākṣiṇam”  
-8.45c deśaṃ rūpaṃ ca kālaṃ ca vyavahāravidhau sthitaḥ || 45 ||  
+८।४५अ सत्यम् अर्थं च सम्पश्येद् आत्मानम् अथ साक्षिणः । ८।४५अव्।  \[म्\] : “साक्षिणम्”  
+८।४५च् देशं रूपं च कालं च व्यवहारविधौ स्थितः ॥ ४५ ॥  
 
 
-8.46a sadbhir ācaritaṃ yat syād dhārmikaiś ca dvijātibhiḥ |  
-8.46c tad deśa.kula.jātīnām a.viruddhaṃ prakalpayet || 46 ||  
+८।४६अ सद्भिर् आचरितं यत् स्याद् धार्मिकैश् च द्विजातिभिः ।  
+८।४६च् तद् देश।कुल।जातीनाम् अ।विरुद्धं प्रकल्पयेत् ॥ ४६ ॥  
 
 
 # ८।१।४। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-इ नोन्-पय्मेन्त् ओड़् देब्त्स्
@@ -6287,5223 +6286,5223 @@
 
 
 ८।५७अ साक्षिणः सन्ति मेत्य् उक्त्वा दिश-इत्य् उक्तो दिशेन् न यः । ८।५७अव्।  \[म्\] : “ज्ञातारः सन्ति मेत्य्*] *{मेत्य् < ma ity ?}”  
-8.57c dharmasthaḥ kāraṇair etair hīnaṃ tam api nirdiśet || 57 || 8.57cv/  \[M\] : “tam iti nirdiśet”  
+८।५७च् धर्मस्थः कारणैर् एतैर् हीनं तम् अपि निर्दिशेत् ॥ ५७ ॥ ८।५७च्व्।  \[म्\] : “तम् इति निर्दिशेत्”  
 
 
-8.58a abhiyoktā na ced brūyād badhyo daṇḍyaś ca dharmataḥ | 8.58av/  \[M\] : “bandhyo daṇḍyaś ca”  
-8.58c na cet tripakṣāt prabrūyād dharmaṃ prati parājitaḥ || 58 ||  
+८।५८अ अभियोक्ता न चेद् ब्रूयाद् बध्यो दण्ड्यश् च धर्मतः । ८।५८अव्।  \[म्\] : “बन्ध्यो दण्ड्यश् च”  
+८।५८च् न चेत् त्रिपक्षात् प्रब्रूयाद् धर्मं प्रति पराजितः ॥ ५८ ॥  
 
 
-8.59a yo yāvat-nihnuvīta-arthaṃ mithyā yāvati vā vadet |  
-8.59c tau nṛpeṇa hy adharmajñau dāpyo taddviguṇaṃ damam || 59 ||  
+८।५९अ यो यावत्-निह्नुवीत-अर्थं मिथ्या यावति वा वदेत् ।  
+८।५९च् तौ नृपेण ह्य् अधर्मज्ञौ दाप्यो तद्द्विगुणं दमम् ॥ ५९ ॥  
 
 
-8.60a pṛṣṭo 'pavyayamānas tu kṛta.avastho dhana.eṣiṇā |  
-8.60c tryavaraiḥ sākṣibhir bhāvyo nṛpa.brāhmaṇasannidhau || 60 ||  
+८।६०अ पृष्टो ऽपव्ययमानस् तु कृत।अवस्थो धन।एषिणा ।  
+८।६०च् त्र्यवरैः साक्षिभिर् भाव्यो नृप।ब्राह्मणसन्निधौ ॥ ६० ॥  
 
 
-8.61a yādṛśā dhanibhiḥ kāryā vyavahāreṣu sākṣiṇaḥ |  
-8.61c tādṛśān sampravakṣyāmi yathā vācyam ṛtaṃ ca taiḥ || 61 ||  
+८।६१अ यादृशा धनिभिः कार्या व्यवहारेषु साक्षिणः ।  
+८।६१च् तादृशान् सम्प्रवक्ष्यामि यथा वाच्यम् ऋतं च तैः ॥ ६१ ॥  
 
 
- 8.1.4.1. Qualification of Witnesses
- \[O\]  edn 670-672,  \[O\]  tr. 170
-8.62a gṛhiṇaḥ putriṇo maulāḥ kṣatra.viś.śūdra.yonayaḥ |  
-8.62c arthyuktāḥ sākṣyam arhanti na ye ke cid anāpadi || 62 ||  
+ ८।१।४।१। क़ुअलिड़िचतिओन् ओड़् Wइत्नेस्सेस्
+ \[ओ\]  एद्न् ६७०-६७२,  \[ओ\]  त्र्। १७०
+८।६२अ गृहिणः पुत्रिणो मौलाः क्षत्र।विश्।शूद्र।योनयः ।  
+८।६२च् अर्थ्युक्ताः साक्ष्यम् अर्हन्ति न ये के चिद् अनापदि ॥ ६२ ॥  
 
 
-8.63a āptāḥ sarveṣu varṇeṣu kāryāḥ kāryeṣu sākṣiṇaḥ |  
-8.63c sarvadharmavido 'lubdhā viparītāṃs tu varjayet || 63 ||  
+८।६३अ आप्ताः सर्वेषु वर्णेषु कार्याः कार्येषु साक्षिणः ।  
+८।६३च् सर्वधर्मविदो ऽलुब्धा विपरीतांस् तु वर्जयेत् ॥ ६३ ॥  
 
 
-8.64a na-arthasambandhino na-āptā na sahāyā na vairiṇaḥ |  
-8.64c na dṛṣṭadoṣāḥ kartavyā na vyādhyārtā na dūṣitāḥ || 64 ||  
+८।६४अ न-अर्थसम्बन्धिनो न-आप्ता न सहाया न वैरिणः ।  
+८।६४च् न दृष्टदोषाः कर्तव्या न व्याध्यार्ता न दूषिताः ॥ ६४ ॥  
 
 
-8.65a na sākṣī nṛpatiḥ kāryo na kāruka.kuśīlavau |  
-8.65c na śrotriyo na liṅgastho na saṅgebhyo vinirgataḥ || 65 ||  
+८।६५अ न साक्षी नृपतिः कार्यो न कारुक।कुशीलवौ ।  
+८।६५च् न श्रोत्रियो न लिङ्गस्थो न सङ्गेभ्यो विनिर्गतः ॥ ६५ ॥  
 
 
-8.66a na-adhyadhīno na vaktavyo na dasyur na vikarmakṛt |  
-8.66c na vṛddho na śiśur na-eko na-antyo na vikala.indriyaḥ || 66 ||  
+८।६६अ न-अध्यधीनो न वक्तव्यो न दस्युर् न विकर्मकृत् ।  
+८।६६च् न वृद्धो न शिशुर् न-एको न-अन्त्यो न विकल।इन्द्रियः ॥ ६६ ॥  
 
 
-8.67a na-ārto na matto na-unmatto na kṣut.tṛṣṇā.upapīḍitaḥ |  
-8.67c na śramārto na kāmārto na kruddho na-api taskaraḥ || 67 ||  
+८।६७अ न-आर्तो न मत्तो न-उन्मत्तो न क्षुत्।तृष्णा।उपपीडितः ।  
+८।६७च् न श्रमार्तो न कामार्तो न क्रुद्धो न-अपि तस्करः ॥ ६७ ॥  
 
 
-8.68a strīṇāṃ sākṣyaṃ striyaḥ kuryur dvijānāṃ sadṛśā dvijāḥ |  
-8.68c śūdrāś ca santaḥ śūdrāṇām antyānām antya.yonayaḥ || 68 ||  
+८।६८अ स्त्रीणां साक्ष्यं स्त्रियः कुर्युर् द्विजानां सदृशा द्विजाः ।  
+८।६८च् शूद्राश् च सन्तः शूद्राणाम् अन्त्यानाम् अन्त्य।योनयः ॥ ६८ ॥  
 
 
-8.69a anubhāvī tu yaḥ kaś cit kuryāt sākṣyaṃ vivādinām |  
-8.69c antarveśmany araṇye vā śarīrasya-api ca-atyaye || 69 ||  
+८।६९अ अनुभावी तु यः कश् चित् कुर्यात् साक्ष्यं विवादिनाम् ।  
+८।६९च् अन्तर्वेश्मन्य् अरण्ये वा शरीरस्य-अपि च-अत्यये ॥ ६९ ॥  
 
 
-8.70a striyā-apy asambhāve kāryaṃ bālena sthavireṇa vā |  
-8.70c śiṣyeṇa bandhunā vā-api dāsena bhṛtakena vā || 70 ||  
+८।७०अ स्त्रिया-अप्य् असम्भावे कार्यं बालेन स्थविरेण वा ।  
+८।७०च् शिष्येण बन्धुना वा-अपि दासेन भृतकेन वा ॥ ७० ॥  
 
 
-8.71a bāla.vṛddha.āturāṇāṃ ca sākṣyeṣu vadatāṃ mṛṣā |  
-8.71c jānīyād asthirāṃ vācam utsikta.manasāṃ tathā || 71 ||  
+८।७१अ बाल।वृद्ध।आतुराणां च साक्ष्येषु वदतां मृषा ।  
+८।७१च् जानीयाद् अस्थिरां वाचम् उत्सिक्त।मनसां तथा ॥ ७१ ॥  
 
 
-8.72a sāhaseṣu ca sarveṣu steya.saṅgrahaṇeṣu ca |  
-8.72c vāg.daṇḍayoś ca pāruṣye na parīkṣeta sākṣiṇaḥ || 72 ||  
+८।७२अ साहसेषु च सर्वेषु स्तेय।सङ्ग्रहणेषु च ।  
+८।७२च् वाग्।दण्डयोश् च पारुष्ये न परीक्षेत साक्षिणः ॥ ७२ ॥  
 
 
- 8.1.4.2. Assessing Testimony
- \[O\]  edn 672-673,  \[O\]  tr. 170-171
-8.73a bahutvaṃ parigṛhṇīyāt sākṣidvaidhe narādhipaḥ |  
-8.73c sameṣu tu guṇa.utkṛṣṭān guṇidvaidhe dvijottamān || 73 ||  
+ ८।१।४।२। अस्सेस्सिन्ग् तेस्तिमोन्य्
+ \[ओ\]  एद्न् ६७२-६७३,  \[ओ\]  त्र्। १७०-१७१
+८।७३अ बहुत्वं परिगृह्णीयात् साक्षिद्वैधे नराधिपः ।  
+८।७३च् समेषु तु गुण।उत्कृष्टान् गुणिद्वैधे द्विजोत्तमान् ॥ ७३ ॥  
 
 
-8.74a samakṣadarśanāt sākṣyaṃ śravaṇāc ca-eva sidhyati |  
-8.74c tatra satyaṃ bruvan sākṣī dharma.arthābhyāṃ na hīyate || 74 ||  
+८।७४अ समक्षदर्शनात् साक्ष्यं श्रवणाच् च-एव सिध्यति ।  
+८।७४च् तत्र सत्यं ब्रुवन् साक्षी धर्म।अर्थाभ्यां न हीयते ॥ ७४ ॥  
 
 
-8.75a sākṣī dṛṣṭa.śrutād anyad vibruvann āryasaṃsadi |  
-8.75c avāṅ narakam abhyeti pretya svargāc ca hīyate || 75 ||  
+८।७५अ साक्षी दृष्ट।श्रुताद् अन्यद् विब्रुवन्न् आर्यसंसदि ।  
+८।७५च् अवाङ् नरकम् अभ्येति प्रेत्य स्वर्गाच् च हीयते ॥ ७५ ॥  
 
 
-8.76a yatra-anibaddho 'pīkṣeta śṛṇuyād vā-api kiṃ cana |  
-8.76c pṛṣṭas tatra-api tad brūyād yathādṛṣṭaṃ yathāśrutam || 76 ||  
+८।७६अ यत्र-अनिबद्धो ऽपीक्षेत शृणुयाद् वा-अपि किं चन ।  
+८।७६च् पृष्टस् तत्र-अपि तद् ब्रूयाद् यथादृष्टं यथाश्रुतम् ॥ ७६ ॥  
 
 
-8.77a eko 'lubdhas tu sākṣī syād bahvyaḥ śucyo 'pi na striyaḥ | 8.77av/  \[M\] : “tv asākṣī”  
-8.77c strībuddher asthiratvāt tu doṣaiś ca-anye 'pi ye vṛtāḥ || 77 ||  
+८।७७अ एको ऽलुब्धस् तु साक्षी स्याद् बह्व्यः शुच्यो ऽपि न स्त्रियः । ८।७७अव्।  \[म्\] : “त्व् असाक्षी”  
+८।७७च् स्त्रीबुद्धेर् अस्थिरत्वात् तु दोषैश् च-अन्ये ऽपि ये वृताः ॥ ७७ ॥  
 
 
-8.78a svabhāvena-eva yad brūyus tad grāhyaṃ vyāvahārikam |  
-8.78c ato yad anyad vibrūyur dharmārthaṃ tad apārthakam || 78 ||  
+८।७८अ स्वभावेन-एव यद् ब्रूयुस् तद् ग्राह्यं व्यावहारिकम् ।  
+८।७८च् अतो यद् अन्यद् विब्रूयुर् धर्मार्थं तद् अपार्थकम् ॥ ७८ ॥  
 
 
- 8.1.4.3. Questioning of Witnesses
- \[O\]  edn 673-679,  \[O\]  tr. 171-172
-8.79a sabhāntaḥ sākṣiṇaḥ prāptān arthi.pratyarthi.sannidhau |  
-8.79c prāḍvivāko 'nuyuñjīta vidhinā-anena sāntvayan || 79 ||  
+ ८।१।४।३। क़ुएस्तिओनिन्ग् ओड़् Wइत्नेस्सेस्
+ \[ओ\]  एद्न् ६७३-६७९,  \[ओ\]  त्र्। १७१-१७२
+८।७९अ सभान्तः साक्षिणः प्राप्तान् अर्थि।प्रत्यर्थि।सन्निधौ ।  
+८।७९च् प्राड्विवाको ऽनुयुञ्जीत विधिना-अनेन सान्त्वयन् ॥ ७९ ॥  
 
 
-8.80a yad dvayor anayor vettha kārye 'smiṃś ceṣṭitaṃ mithaḥ |  
-8.80c tad brūta sarvaṃ satyena yuṣmākaṃ hy atra sākṣitā || 80 ||  
+८।८०अ यद् द्वयोर् अनयोर् वेत्थ कार्ये ऽस्मिंश् चेष्टितं मिथः ।  
+८।८०च् तद् ब्रूत सर्वं सत्येन युष्माकं ह्य् अत्र साक्षिता ॥ ८० ॥  
 
 
-8.81a satyaṃ sākṣye bruvan sākṣī lokān āpnoty puṣkalān | 8.81av/  \[M\] : “āpnoty aninditān”  
-8.81c iha ca-an.uttamāṃ kīrtiṃ vāg eṣā brahmapūjitā || 81 ||  
+८।८१अ सत्यं साक्ष्ये ब्रुवन् साक्षी लोकान् आप्नोत्य् पुष्कलान् । ८।८१अव्।  \[म्\] : “आप्नोत्य् अनिन्दितान्”  
+८।८१च् इह च-अन्।उत्तमां कीर्तिं वाग् एषा ब्रह्मपूजिता ॥ ८१ ॥  
 
 
-8.82a sākṣye 'nṛtaṃ vadan pāśair badhyate vāruṇair bhṛśam |  
-8.82c vivaśaḥ śatam ājātīs tasmāt sākṣyaṃ vaded ṛtam || 82 ||  
+८।८२अ साक्ष्ये ऽनृतं वदन् पाशैर् बध्यते वारुणैर् भृशम् ।  
+८।८२च् विवशः शतम् आजातीस् तस्मात् साक्ष्यं वदेद् ऋतम् ॥ ८२ ॥  
 
 
-8.83a satyena pūyate sākṣī dharmaḥ satyena vardhate |  
-8.83c tasmāt satyaṃ hi vaktavyaṃ sarvavarṇeṣu sākṣibhiḥ || 83 ||  
+८।८३अ सत्येन पूयते साक्षी धर्मः सत्येन वर्धते ।  
+८।८३च् तस्मात् सत्यं हि वक्तव्यं सर्ववर्णेषु साक्षिभिः ॥ ८३ ॥  
 
 
-8.84a ātmā-eva hy ātmanaḥ sākṣī gatir ātmā tathā-ātmanaḥ |  
-8.84c mā-avamaṃsthāḥ svam ātmānaṃ nṛṇāṃ sākṣiṇam uttamam || 84 ||  
+८।८४अ आत्मा-एव ह्य् आत्मनः साक्षी गतिर् आत्मा तथा-आत्मनः ।  
+८।८४च् मा-अवमंस्थाः स्वम् आत्मानं नृणां साक्षिणम् उत्तमम् ॥ ८४ ॥  
 
 
-8.85a manyante vai pāpakṛto na kaś cit paśyati-iti naḥ |  
-8.85c tāṃs tu devāḥ prapaśyanti svasya-eva-antarapūruṣaḥ || 85 ||  
+८।८५अ मन्यन्ते वै पापकृतो न कश् चित् पश्यति-इति नः ।  
+८।८५च् तांस् तु देवाः प्रपश्यन्ति स्वस्य-एव-अन्तरपूरुषः ॥ ८५ ॥  
 
 
-8.86a dyaur bhūmir āpo hṛdayaṃ candra.arka.agni.yama.anilāḥ |  
-8.86c rātriḥ sandhye ca dharmaś ca vṛttajñāḥ sarvadehinām || 86 ||  
+८।८६अ द्यौर् भूमिर् आपो हृदयं चन्द्र।अर्क।अग्नि।यम।अनिलाः ।  
+८।८६च् रात्रिः सन्ध्ये च धर्मश् च वृत्तज्ञाः सर्वदेहिनाम् ॥ ८६ ॥  
 
 
-8.87a deva.brāhmaṇasānnidhye sākṣyaṃ pṛcched ṛtaṃ dvijān |  
-8.87c udaṅ.mukhān prāṅ.mukhān vā pūrvāhṇe vai śuciḥ śucīn || 87 ||  
+८।८७अ देव।ब्राह्मणसान्निध्ये साक्ष्यं पृच्छेद् ऋतं द्विजान् ।  
+८।८७च् उदङ्।मुखान् प्राङ्।मुखान् वा पूर्वाह्णे वै शुचिः शुचीन् ॥ ८७ ॥  
 
 
-8.88a brūhi-iti brāhmaṇaṃ pṛcchet satyaṃ brūhi-iti pārthivam |  
-8.88c go.bīja.kāñcanair vaiśyaṃ śūdraṃ sarvais tu pātakaiḥ || 88 ||  
+८।८८अ ब्रूहि-इति ब्राह्मणं पृच्छेत् सत्यं ब्रूहि-इति पार्थिवम् ।  
+८।८८च् गो।बीज।काञ्चनैर् वैश्यं शूद्रं सर्वैस् तु पातकैः ॥ ८८ ॥  
 
 
-8.89a brahmaghno ye smṛtā lokā ye ca strī.bāla.ghātinaḥ |  
-8.89c mitradruhaḥ kṛta.ghnasya te te syur bruvato mṛṣā || 89 ||  
+८।८९अ ब्रह्मघ्नो ये स्मृता लोका ये च स्त्री।बाल।घातिनः ।  
+८।८९च् मित्रद्रुहः कृत।घ्नस्य ते ते स्युर् ब्रुवतो मृषा ॥ ८९ ॥  
 
 
-8.90a janmaprabhṛti yat kiṃ cit puṇyaṃ bhadra tvayā kṛtam |  
-8.90c tat te sarvaṃ śuno gacched yadi brūyās tvam anyathā || 90 ||  
+८।९०अ जन्मप्रभृति यत् किं चित् पुण्यं भद्र त्वया कृतम् ।  
+८।९०च् तत् ते सर्वं शुनो गच्छेद् यदि ब्रूयास् त्वम् अन्यथा ॥ ९० ॥  
 
 
-8.91a eko 'ham asmi-ity ātmānaṃ yas tvaṃ kalyāṇa manyase |  
-8.91c nityaṃ sthitas te hṛdy eṣa puṇya.pāpa.īkṣitā muniḥ || 91 ||  
+८।९१अ एको ऽहम् अस्मि-इत्य् आत्मानं यस् त्वं कल्याण मन्यसे ।  
+८।९१च् नित्यं स्थितस् ते हृद्य् एष पुण्य।पाप।ईक्षिता मुनिः ॥ ९१ ॥  
 
 
-8.92a yamo vaivasvato devo yas tava-eṣa hṛdi sthitaḥ |  
-8.92c tena ced avivādas te mā gaṅgāṃ mā kurūn gamaḥ || 92 ||  
+८।९२अ यमो वैवस्वतो देवो यस् तव-एष हृदि स्थितः ।  
+८।९२च् तेन चेद् अविवादस् ते मा गङ्गां मा कुरून् गमः ॥ ९२ ॥  
 
 
-8.93a nagno muṇḍaḥ kapālena ca bhikṣārthī kṣut.pipāsitaḥ | 8.93av/  \[M\] : “kapālī”  
-8.93c andhaḥ śatrukulaṃ gacched yaḥ sākṣyam anṛtaṃ vadet || 93 ||  
+८।९३अ नग्नो मुण्डः कपालेन च भिक्षार्थी क्षुत्।पिपासितः । ८।९३अव्।  \[म्\] : “कपाली”  
+८।९३च् अन्धः शत्रुकुलं गच्छेद् यः साक्ष्यम् अनृतं वदेत् ॥ ९३ ॥  
 
 
-8.94a avāk.śirās tamasy andhe kilbiṣī narakaṃ vrajet |  
-8.94c yaḥ praśnaṃ vitathaṃ brūyāt pṛṣṭaḥ san dharmaniścaye || 94 ||  
+८।९४अ अवाक्।शिरास् तमस्य् अन्धे किल्बिषी नरकं व्रजेत् ।  
+८।९४च् यः प्रश्नं वितथं ब्रूयात् पृष्टः सन् धर्मनिश्चये ॥ ९४ ॥  
 
 
-8.95a andho matsyān iva-aśnāti sa naraḥ kaṇṭakaiḥ saha |  
-8.95c yo bhāṣate 'rthavaikalyam a.pratyakṣaṃ sabhāṃ gataḥ || 95 ||  
+८।९५अ अन्धो मत्स्यान् इव-अश्नाति स नरः कण्टकैः सह ।  
+८।९५च् यो भाषते ऽर्थवैकल्यम् अ।प्रत्यक्षं सभां गतः ॥ ९५ ॥  
 
 
-8.96a yasya vidvān hi vadataḥ kṣetrajño na-abhiśaṅkate | 8.96av/  \[M\] : “na-atiśaṅkate”  
-8.96c tasmān na devāḥ śreyāṃsaṃ loke 'nyaṃ puruṣaṃ viduḥ || 96 ||  
+८।९६अ यस्य विद्वान् हि वदतः क्षेत्रज्ञो न-अभिशङ्कते । ८।९६अव्।  \[म्\] : “न-अतिशङ्कते”  
+८।९६च् तस्मान् न देवाः श्रेयांसं लोके ऽन्यं पुरुषं विदुः ॥ ९६ ॥  
 
 
-8.97a yāvato bāndhavān yasmin hanti sākṣye 'nṛtaṃ vadan |  
-8.97c tāvataḥ saṅkhyayā tasmin śṛṇu saumya-anupūrvaśaḥ || 97 ||  
+८।९७अ यावतो बान्धवान् यस्मिन् हन्ति साक्ष्ये ऽनृतं वदन् ।  
+८।९७च् तावतः सङ्ख्यया तस्मिन् शृणु सौम्य-अनुपूर्वशः ॥ ९७ ॥  
 
 
-8.98a pañca paśu.anṛte hanti daśa hanti gavānṛte |  
-8.98c śatam aśvānṛte hanti sahasraṃ puruṣānṛte || 98 ||  
+८।९८अ पञ्च पशु।अनृते हन्ति दश हन्ति गवानृते ।  
+८।९८च् शतम् अश्वानृते हन्ति सहस्रं पुरुषानृते ॥ ९८ ॥  
 
 
-8.99a hanti jātān ajātāṃś ca hiraṇyārthe 'nṛtaṃ vadan |  
-8.99c sarvaṃ bhūmi.anṛte hanti mā sma bhūmi.anṛtaṃ vadīḥ || 99 ||  
+८।९९अ हन्ति जातान् अजातांश् च हिरण्यार्थे ऽनृतं वदन् ।  
+८।९९च् सर्वं भूमि।अनृते हन्ति मा स्म भूमि।अनृतं वदीः ॥ ९९ ॥  
 
 
-8.100a apsu bhūmivad ity āhuḥ strīṇāṃ bhoge ca maithune |  
-8.100c abjeṣu ca-eva ratneṣu sarveṣv aśmamayeṣu ca || 100 ||  
+८।१००अ अप्सु भूमिवद् इत्य् आहुः स्त्रीणां भोगे च मैथुने ।  
+८।१००च् अब्जेषु च-एव रत्नेषु सर्वेष्व् अश्ममयेषु च ॥ १०० ॥  
 
 
-8.101a etān doṣān avekṣya tvaṃ sarvān anṛtabhāṣaṇe |  
-8.101c yathāśrutaṃ yathādṛṣṭaṃ sarvam eva-añjasā vada || 101 ||  
+८।१०१अ एतान् दोषान् अवेक्ष्य त्वं सर्वान् अनृतभाषणे ।  
+८।१०१च् यथाश्रुतं यथादृष्टं सर्वम् एव-अञ्जसा वद ॥ १०१ ॥  
 
 
-8.102a gorakṣakān vāṇijikāṃs tathā kāru.kuśīlavān | 8.102av/  \[M\] : “vāṇijakāṃs”  
-8.102c preṣyān vārdhuṣikāṃś ca-eva viprān śūdravad ācaret || 102 ||  
+८।१०२अ गोरक्षकान् वाणिजिकांस् तथा कारु।कुशीलवान् । ८।१०२अव्।  \[म्\] : “वाणिजकांस्”  
+८।१०२च् प्रेष्यान् वार्धुषिकांश् च-एव विप्रान् शूद्रवद् आचरेत् ॥ १०२ ॥  
 
 
- 8.1.4.4. Excusable False Testimony
- \[O\]  edn 679-680,  \[O\]  tr. 172
-8.103a tad vadan dharmato 'rtheṣu jānann apy anythā naraḥ |  
-8.103c na svargāc cyavate lokād daivīṃ vācaṃ vadanti tām || 103 ||  
+ ८।१।४।४। एxचुसब्ले ड़ल्से तेस्तिमोन्य्
+ \[ओ\]  एद्न् ६७९-६८०,  \[ओ\]  त्र्। १७२
+८।१०३अ तद् वदन् धर्मतो ऽर्थेषु जानन्न् अप्य् अन्य्था नरः ।  
+८।१०३च् न स्वर्गाच् च्यवते लोकाद् दैवीं वाचं वदन्ति ताम् ॥ १०३ ॥  
 
 
-8.104a śūdra.viś.kṣatra.viprāṇāṃ yatra-ṛta.uktau bhaved vadhaḥ |  
-8.104c tatra vaktavyam anṛtaṃ tadd hi satyād viśiṣyate || 104 ||  
+८।१०४अ शूद्र।विश्।क्षत्र।विप्राणां यत्र-ऋत।उक्तौ भवेद् वधः ।  
+८।१०४च् तत्र वक्तव्यम् अनृतं तद्द् हि सत्याद् विशिष्यते ॥ १०४ ॥  
 
 
-8.105a vāc.daivatyaiś ca carubhir yajeraṃs te sarasvatīm |  
-8.105c anṛtasya-enasas tasya kurvāṇā niṣkṛtiṃ parām || 105 ||  
+८।१०५अ वाच्।दैवत्यैश् च चरुभिर् यजेरंस् ते सरस्वतीम् ।  
+८।१०५च् अनृतस्य-एनसस् तस्य कुर्वाणा निष्कृतिं पराम् ॥ १०५ ॥  
 
 
-8.106a kūṣmāṇḍair vā-api juhuyād ghṛtam agnau yathāvidhi | 8.106av/  \[TA10.3-5\] ;  \[VS20.14\]   
-8.106c ud ity ṛcā vā vāruṇyā tṛcena-ap.daivatena vā || 106 || 8.106cv/  \[RS1.24.15; 10.9.1-3\] ;  \[VS12.2\] ;  \[VS12.50\]   
+८।१०६अ कूष्माण्डैर् वा-अपि जुहुयाद् घृतम् अग्नौ यथाविधि । ८।१०६अव्।  \[त१०।३-५\] ;  \[व्स्२०।१४\]   
+८।१०६च् उद् इत्य् ऋचा वा वारुण्या तृचेन-अप्।दैवतेन वा ॥ १०६ ॥ ८।१०६च्व्।  \[र्स्१।२४।१५; १०।९।१-३\] ;  \[व्स्१२।२\] ;  \[व्स्१२।५०\]   
 
 
- 8.1.4.5. Failure to Give Evidence
- \[O\]  edn 680,  \[O\]  tr. 172
-8.107a tripakṣād abruvan sākṣyam ṛṇādiṣu naro '.gadaḥ |  
-8.107c tadṛṇaṃ prāpnuyāt sarvaṃ daśabandhaṃ ca sarvataḥ || 107 ||  
+ ८।१।४।५। ड़ैलुरे तो गिवे एविदेन्चे
+ \[ओ\]  एद्न् ६८०,  \[ओ\]  त्र्। १७२
+८।१०७अ त्रिपक्षाद् अब्रुवन् साक्ष्यम् ऋणादिषु नरो ऽ।गदः ।  
+८।१०७च् तदृणं प्राप्नुयात् सर्वं दशबन्धं च सर्वतः ॥ १०७ ॥  
 
 
- 8.1.4.6. Signs of False Testimony
- \[O\]  edn 680,  \[O\]  tr. 173
-8.108a yasya dṛśyeta saptāhād ukta.vākyasya sākṣiṇaḥ |  
-8.108c rogo 'gnir jñātimaraṇam ṛṇaṃ dāpyo damaṃ ca saḥ || 108 ||  
+ ८।१।४।६। सिग्न्स् ओड़् ड़ल्से तेस्तिमोन्य्
+ \[ओ\]  एद्न् ६८०,  \[ओ\]  त्र्। १७३
+८।१०८अ यस्य दृश्येत सप्ताहाद् उक्त।वाक्यस्य साक्षिणः ।  
+८।१०८च् रोगो ऽग्निर् ज्ञातिमरणम् ऋणं दाप्यो दमं च सः ॥ १०८ ॥  
 
 
- 8.1.4.7. Oaths and Ordeals
- \[O\]  edn 681-682,  \[O\]  tr. 173
-8.109a asākṣikeṣu tv artheṣu mitho vivādamānayoḥ |  
-8.109c avindaṃs tattvataḥ satyaṃ śapathena-api lambhayet || 109 ||  
+ ८।१।४।७। ओअथ्स् अन्द् ओर्देअल्स्
+ \[ओ\]  एद्न् ६८१-६८२,  \[ओ\]  त्र्। १७३
+८।१०९अ असाक्षिकेषु त्व् अर्थेषु मिथो विवादमानयोः ।  
+८।१०९च् अविन्दंस् तत्त्वतः सत्यं शपथेन-अपि लम्भयेत् ॥ १०९ ॥  
 
 
-8.110a maharṣibhiś ca devaiś ca kāryārthaṃ śapathāḥ kṛtāḥ |  
-8.110c vasiṣṭhaś ca-api śapathaṃ śepe paijavane nṛpe || 110 ||  
+८।११०अ महर्षिभिश् च देवैश् च कार्यार्थं शपथाः कृताः ।  
+८।११०च् वसिष्ठश् च-अपि शपथं शेपे पैजवने नृपे ॥ ११० ॥  
 
 
-8.111a na vṛthā śapathaṃ kuryāt svalpe 'py arthe naro budhaḥ |  
-8.111c vṛthā hi śapathaṃ kurvan pretya ca-iha ca naśyati || 111 ||  
+८।१११अ न वृथा शपथं कुर्यात् स्वल्पे ऽप्य् अर्थे नरो बुधः ।  
+८।१११च् वृथा हि शपथं कुर्वन् प्रेत्य च-इह च नश्यति ॥ १११ ॥  
 
 
-8.112a kāminīṣu vivāheṣu gavāṃ bhakṣye tathā-indhane |  
-8.112c brāhmaṇa.abhyupapattau ca śapathe na-asti pātakam || 112 ||  
+८।११२अ कामिनीषु विवाहेषु गवां भक्ष्ये तथा-इन्धने ।  
+८।११२च् ब्राह्मण।अभ्युपपत्तौ च शपथे न-अस्ति पातकम् ॥ ११२ ॥  
 
 
-8.113a satyena śāpayed vipraṃ kṣatriyaṃ vāhana.āyudhaiḥ |  
-8.113c go.bīja.kāñcanair vaiśyaṃ śūdraṃ sarvais tu pātakaiḥ || 113 ||  
+८।११३अ सत्येन शापयेद् विप्रं क्षत्रियं वाहन।आयुधैः ।  
+८।११३च् गो।बीज।काञ्चनैर् वैश्यं शूद्रं सर्वैस् तु पातकैः ॥ ११३ ॥  
 
 
-8.114a agniṃ vā-āhārayed enam apsu ca-enaṃ nimajjayet |  
-8.114c putra.dārasya vā-apy enaṃ śirāṃsi sparśayet pṛthak || 114 ||  
+८।११४अ अग्निं वा-आहारयेद् एनम् अप्सु च-एनं निमज्जयेत् ।  
+८।११४च् पुत्र।दारस्य वा-अप्य् एनं शिरांसि स्पर्शयेत् पृथक् ॥ ११४ ॥  
 
 
-8.115a yam iddho na dahaty agnir āpo na-unmajjayanti ca |  
-8.115c na ca-ārtim ṛcchati kṣipraṃ sa jñeyaḥ śapathe śuciḥ || 115 ||  
+८।११५अ यम् इद्धो न दहत्य् अग्निर् आपो न-उन्मज्जयन्ति च ।  
+८।११५च् न च-आर्तिम् ऋच्छति क्षिप्रं स ज्ञेयः शपथे शुचिः ॥ ११५ ॥  
 
 
-8.116a vatsasya hy abhiśastasya purā bhrātrā yavīyasā |  
-8.116c na-agnir dadāha roma-api satyena jagataḥ spaśaḥ || 116 ||  
+८।११६अ वत्सस्य ह्य् अभिशस्तस्य पुरा भ्रात्रा यवीयसा ।  
+८।११६च् न-अग्निर् ददाह रोम-अपि सत्येन जगतः स्पशः ॥ ११६ ॥  
 
 
- 8.1.4.8. False Testimony
- \[O\]  edn 682,  \[O\]  tr. 173
-8.117a yasmin yasmin vivāde tu kauṭasākṣyaṃ kṛtaṃ bhavet |  
-8.117c tat tat kāryaṃ nivarteta kṛtaṃ ca-apy akṛtaṃ bhavet || 117 ||  
+ ८।१।४।८। ड़ल्से तेस्तिमोन्य्
+ \[ओ\]  एद्न् ६८२,  \[ओ\]  त्र्। १७३
+८।११७अ यस्मिन् यस्मिन् विवादे तु कौटसाक्ष्यं कृतं भवेत् ।  
+८।११७च् तत् तत् कार्यं निवर्तेत कृतं च-अप्य् अकृतं भवेत् ॥ ११७ ॥  
 
 
-8.118a lobhāt-mohād bhayāt-maitrāt kāmāt krodhāt tathā-eva ca |  
-8.118c ajñānād bālabhāvāt-ca sākṣyaṃ vitatham ucyate || 118 ||  
+८।११८अ लोभात्-मोहाद् भयात्-मैत्रात् कामात् क्रोधात् तथा-एव च ।  
+८।११८च् अज्ञानाद् बालभावात्-च साक्ष्यं वितथम् उच्यते ॥ ११८ ॥  
 
 
-8.119a eṣām anyatame sthāne yaḥ sākṣyam anṛtaṃ vadet |  
-8.119c tasya daṇḍaviśeṣāṃs tu pravakṣyāmy anupūrvaśaḥ || 119 ||  
+८।११९अ एषाम् अन्यतमे स्थाने यः साक्ष्यम् अनृतं वदेत् ।  
+८।११९च् तस्य दण्डविशेषांस् तु प्रवक्ष्याम्य् अनुपूर्वशः ॥ ११९ ॥  
 
 
- 8.1.4.9. Punishment for Perjury
- \[O\]  edn 683,  \[O\]  tr. 173
-8.120a lobhāt sahasraṃ daṇḍyas tu mohāt pūrvaṃ tu sāhasam |  
-8.120c bhayād dvau madhyamau daṇḍau maitrāt pūrvaṃ caturguṇam || 120 ||  
+ ८।१।४।९। पुनिस्ह्मेन्त् ड़ोर् पेर्जुर्य्
+ \[ओ\]  एद्न् ६८३,  \[ओ\]  त्र्। १७३
+८।१२०अ लोभात् सहस्रं दण्ड्यस् तु मोहात् पूर्वं तु साहसम् ।  
+८।१२०च् भयाद् द्वौ मध्यमौ दण्डौ मैत्रात् पूर्वं चतुर्गुणम् ॥ १२० ॥  
 
 
-8.121a kāmād daśaguṇaṃ pūrvaṃ krodhāt tu triguṇaṃ param |  
-8.121c ajñānād dve śate pūrṇe bāliśyāt-śatam eva tu || 121 ||  
+८।१२१अ कामाद् दशगुणं पूर्वं क्रोधात् तु त्रिगुणं परम् ।  
+८।१२१च् अज्ञानाद् द्वे शते पूर्णे बालिश्यात्-शतम् एव तु ॥ १२१ ॥  
 
 
-8.122a etān āhuḥ kauṭasākṣye proktān daṇḍān manīṣibhiḥ |  
-8.122c dharmasya-avyabhicārārtham adharmaniyamāya ca || 122 ||  
+८।१२२अ एतान् आहुः कौटसाक्ष्ये प्रोक्तान् दण्डान् मनीषिभिः ।  
+८।१२२च् धर्मस्य-अव्यभिचारार्थम् अधर्मनियमाय च ॥ १२२ ॥  
 
 
-8.123a kauṭasākṣyaṃ tu kurvāṇāṃs trīn varṇān dhārmiko nṛpaḥ |  
-8.123c pravāsayed daṇḍayitvā brāhmaṇaṃ tu vivāsayet || 123 ||  
+८।१२३अ कौटसाक्ष्यं तु कुर्वाणांस् त्रीन् वर्णान् धार्मिको नृपः ।  
+८।१२३च् प्रवासयेद् दण्डयित्वा ब्राह्मणं तु विवासयेत् ॥ १२३ ॥  
 
 
- 8.1.4.10. Varieties of Punishment
- \[O\]  edn 683-685,  \[O\]  tr. 173-174
-8.124a daśa sthānāni daṇḍasya manuḥ svayambhuvo 'bravīt |  
-8.124c triṣu varṇeṣu yāni syur akṣato brāhmaṇo vrajet || 124 ||  
+ ८।१।४।१०। वरिएतिएस् ओड़् पुनिस्ह्मेन्त्
+ \[ओ\]  एद्न् ६८३-६८५,  \[ओ\]  त्र्। १७३-१७४
+८।१२४अ दश स्थानानि दण्डस्य मनुः स्वयम्भुवो ऽब्रवीत् ।  
+८।१२४च् त्रिषु वर्णेषु यानि स्युर् अक्षतो ब्राह्मणो व्रजेत् ॥ १२४ ॥  
 
 
-8.125a upastham udaraṃ jihvā hastau pādau ca pañcamam |  
-8.125c cakṣur nāsā ca karṇau ca dhanaṃ dehas tathā-eva ca || 125 ||  
+८।१२५अ उपस्थम् उदरं जिह्वा हस्तौ पादौ च पञ्चमम् ।  
+८।१२५च् चक्षुर् नासा च कर्णौ च धनं देहस् तथा-एव च ॥ १२५ ॥  
 
 
-8.126a anubandhaṃ parijñāya deśa.kālau ca tattvataḥ |  
-8.126c sāra.aparādho ca-ālokya daṇḍaṃ daṇḍyeṣu pātayet || 126 ||  
+८।१२६अ अनुबन्धं परिज्ञाय देश।कालौ च तत्त्वतः ।  
+८।१२६च् सार।अपराधो च-आलोक्य दण्डं दण्ड्येषु पातयेत् ॥ १२६ ॥  
 
 
-8.127a adharmadaṇḍanaṃ loke yaśoghnaṃ kīrtināśanam |  
-8.127c asvargyaṃ ca paratra-api tasmāt tat parivarjayet || 127 ||  
+८।१२७अ अधर्मदण्डनं लोके यशोघ्नं कीर्तिनाशनम् ।  
+८।१२७च् अस्वर्ग्यं च परत्र-अपि तस्मात् तत् परिवर्जयेत् ॥ १२७ ॥  
 
 
-8.128a adaṇḍyān daṇḍayan rājā daṇḍyāṃś ca-eva-apy adaṇḍayan |  
-8.128c ayaśo mahad āpnoti narakaṃ ca-eva gacchati || 128 ||  
+८।१२८अ अदण्ड्यान् दण्डयन् राजा दण्ड्यांश् च-एव-अप्य् अदण्डयन् ।  
+८।१२८च् अयशो महद् आप्नोति नरकं च-एव गच्छति ॥ १२८ ॥  
 
 
-8.129a vāgdaṇḍaṃ prathamaṃ kuryād dhigdaṇḍaṃ tadanantaram |  
-8.129c tṛtīyaṃ dhanadaṇḍaṃ tu vadhadaṇḍam ataḥ param || 129 ||  
+८।१२९अ वाग्दण्डं प्रथमं कुर्याद् धिग्दण्डं तदनन्तरम् ।  
+८।१२९च् तृतीयं धनदण्डं तु वधदण्डम् अतः परम् ॥ १२९ ॥  
 
 
-8.130a vadhena-api yadā tv etān nigrahītuṃ na śaknuyāt |  
-8.130c tadā-eṣu sarvam apy etat prayuñjīta catuṣṭayam || 130 ||  
+८।१३०अ वधेन-अपि यदा त्व् एतान् निग्रहीतुं न शक्नुयात् ।  
+८।१३०च् तदा-एषु सर्वम् अप्य् एतत् प्रयुञ्जीत चतुष्टयम् ॥ १३० ॥  
 
 
-8.131a lokasaṃvyavahārārthaṃ yāḥ sañjñāḥ prathitā bhuvi |  
-8.131c tāmra.rūpya.suvarṇānāṃ tāḥ pravakṣyāmy aśeṣataḥ || 131 ||  
+८।१३१अ लोकसंव्यवहारार्थं याः सञ्ज्ञाः प्रथिता भुवि ।  
+८।१३१च् ताम्र।रूप्य।सुवर्णानां ताः प्रवक्ष्याम्य् अशेषतः ॥ १३१ ॥  
 
 
- 8.1.4.11. Weights
- \[O\]  edn 685-686,  \[O\]  tr. 174
-8.132a jālāntaragate bhānau yat sūkṣmaṃ dṛśyate rajaḥ |  
-8.132c prathamaṃ tat pramāṇānāṃ trasareṇuṃ pracakṣate || 132 ||  
+ ८।१।४।११। Wएइघ्त्स्
+ \[ओ\]  एद्न् ६८५-६८६,  \[ओ\]  त्र्। १७४
+८।१३२अ जालान्तरगते भानौ यत् सूक्ष्मं दृश्यते रजः ।  
+८।१३२च् प्रथमं तत् प्रमाणानां त्रसरेणुं प्रचक्षते ॥ १३२ ॥  
 
 
-8.133a trasareṇavo 'ṣṭau vijñeyā likṣā-ekā parimāṇataḥ |  
-8.133c tā rājasarṣapas tisras te trayo gaurasarṣapaḥ || 133 ||  
+८।१३३अ त्रसरेणवो ऽष्टौ विज्ञेया लिक्षा-एका परिमाणतः ।  
+८।१३३च् ता राजसर्षपस् तिस्रस् ते त्रयो गौरसर्षपः ॥ १३३ ॥  
 
 
-8.134a sarṣapāḥ ṣaḍ yavo madhyas triyavaṃ tv ekakṛṣṇalam |  
-8.134c pañcakṛṣṇalako māṣas te suvarṇas tu ṣoḍaśa || 134 ||  
+८।१३४अ सर्षपाः षड् यवो मध्यस् त्रियवं त्व् एककृष्णलम् ।  
+८।१३४च् पञ्चकृष्णलको माषस् ते सुवर्णस् तु षोडश ॥ १३४ ॥  
 
 
-8.135a palaṃ suvarṇāś catvāraḥ palāni dharaṇaṃ daśa |  
-8.135c dve kṛṣṇale samadhṛte vijñeyo raupyamāṣakaḥ || 135 || 8.135cv/  \[M\] : “rūpyamāṣakaḥ”  
+८।१३५अ पलं सुवर्णाश् चत्वारः पलानि धरणं दश ।  
+८।१३५च् द्वे कृष्णले समधृते विज्ञेयो रौप्यमाषकः ॥ १३५ ॥ ८।१३५च्व्।  \[म्\] : “रूप्यमाषकः”  
 
 
-8.136a te ṣoḍaśa syād dharaṇaṃ purāṇaś ca-eva rājataḥ |  
-8.136c kārṣāpaṇas tu vijñeyas tāmrikaḥ kārṣikaḥ paṇaḥ || 136 ||  
+८।१३६अ ते षोडश स्याद् धरणं पुराणश् च-एव राजतः ।  
+८।१३६च् कार्षापणस् तु विज्ञेयस् ताम्रिकः कार्षिकः पणः ॥ १३६ ॥  
 
 
-8.137a dharaṇāni daśa jñeyaḥ śatamānas tu rājataḥ |  
-8.137c catuḥsauvarṇiko niṣko vijñeyas tu pramāṇataḥ || 137 ||  
+८।१३७अ धरणानि दश ज्ञेयः शतमानस् तु राजतः ।  
+८।१३७च् चतुःसौवर्णिको निष्को विज्ञेयस् तु प्रमाणतः ॥ १३७ ॥  
 
 
- 8.1.4.12. Fines
- \[O\]  edn 686,  \[O\]  tr. 174
-8.138a paṇānāṃ dve śate sārdhe prathamaḥ sāhasaḥ smṛtaḥ |  
-8.138c madhyamaḥ pañca vijñeyaḥ sahasraṃ tv eva ca-uttamaḥ || 138 ||  
+ ८।१।४।१२। ड़िनेस्
+ \[ओ\]  एद्न् ६८६,  \[ओ\]  त्र्। १७४
+८।१३८अ पणानां द्वे शते सार्धे प्रथमः साहसः स्मृतः ।  
+८।१३८च् मध्यमः पञ्च विज्ञेयः सहस्रं त्व् एव च-उत्तमः ॥ १३८ ॥  
 
 
-8.139a ṛṇe deye pratijñāte pañcakaṃ śatam arhati |  
-8.139c apahnave taddviguṇaṃ tan manor anuśāsanam || 139 ||  
+८।१३९अ ऋणे देये प्रतिज्ञाते पञ्चकं शतम् अर्हति ।  
+८।१३९च् अपह्नवे तद्द्विगुणं तन् मनोर् अनुशासनम् ॥ १३९ ॥  
 
 
- 8.1.4.13. Rates of Interest-I
- \[O\]  edn 687,  \[O\]  tr. 174
-8.140a vasiṣṭhavihitāṃ vṛddhiṃ sṛjed vittavivardhinīm |  
-8.140c aśītibhāgaṃ gṛhṇīyān māsād vārdhuṣikaḥ śate || 140 ||  
+ ८।१।४।१३। रतेस् ओड़् इन्तेरेस्त्-इ
+ \[ओ\]  एद्न् ६८७,  \[ओ\]  त्र्। १७४
+८।१४०अ वसिष्ठविहितां वृद्धिं सृजेद् वित्तविवर्धिनीम् ।  
+८।१४०च् अशीतिभागं गृह्णीयान् मासाद् वार्धुषिकः शते ॥ १४० ॥  
 
 
-8.141a dvikaṃ śataṃ vā gṛhṇīyāt satāṃ dharmam anusmaran |  
-8.141c dvikaṃ śataṃ hi gṛhṇāno na bhavaty arthakilbiṣī || 141 ||  
+८।१४१अ द्विकं शतं वा गृह्णीयात् सतां धर्मम् अनुस्मरन् ।  
+८।१४१च् द्विकं शतं हि गृह्णानो न भवत्य् अर्थकिल्बिषी ॥ १४१ ॥  
 
 
-8.142a dvikaṃ trikaṃ catuṣkaṃ ca pañcakaṃ ca śataṃ samam |  
-8.142c māsasya vṛddhiṃ gṛhṇīyād varṇānām anupūrvaśaḥ || 142 ||  
+८।१४२अ द्विकं त्रिकं चतुष्कं च पञ्चकं च शतं समम् ।  
+८।१४२च् मासस्य वृद्धिं गृह्णीयाद् वर्णानाम् अनुपूर्वशः ॥ १४२ ॥  
 
 
-8.143a na tv eva-ādhau sa.upakāre kausīdīṃ vṛddhim āpnuyāt |  
-8.143c na ca-ādheḥ kālasaṃrodhāt-nisargo 'sti na vikrayaḥ || 143 ||  
+८।१४३अ न त्व् एव-आधौ स।उपकारे कौसीदीं वृद्धिम् आप्नुयात् ।  
+८।१४३च् न च-आधेः कालसंरोधात्-निसर्गो ऽस्ति न विक्रयः ॥ १४३ ॥  
 
 
-8.144a na bhoktavyo balād ādhir bhuñjāno vṛddhim utsṛjet |  
-8.144c mūlyena toṣayec ca-enam ādhisteno 'nyathā bhavet || 144 ||  
+८।१४४अ न भोक्तव्यो बलाद् आधिर् भुञ्जानो वृद्धिम् उत्सृजेत् ।  
+८।१४४च् मूल्येन तोषयेच् च-एनम् आधिस्तेनो ऽन्यथा भवेत् ॥ १४४ ॥  
 
 
- 8.1.4.14. Pledges
- \[O\]  edn 687-688,  \[O\]  tr. 174-175
-8.145a ādhiś ca-upanidhiś ca-ubhau na kālātyayam arhataḥ |  
-8.145c avahāryau bhavetāṃ tau dīrghakālam avasthitau || 145 ||  
+ ८।१।४।१४। प्लेद्गेस्
+ \[ओ\]  एद्न् ६८७-६८८,  \[ओ\]  त्र्। १७४-१७५
+८।१४५अ आधिश् च-उपनिधिश् च-उभौ न कालात्ययम् अर्हतः ।  
+८।१४५च् अवहार्यौ भवेतां तौ दीर्घकालम् अवस्थितौ ॥ १४५ ॥  
 
 
-8.146a samprītyā bhujyamānāni na naśyanti kadā cana |  
-8.146c dhenur uṣṭro vahann aśvo yaś ca damyaḥ prayujyate || 146 ||  
+८।१४६अ सम्प्रीत्या भुज्यमानानि न नश्यन्ति कदा चन ।  
+८।१४६च् धेनुर् उष्ट्रो वहन्न् अश्वो यश् च दम्यः प्रयुज्यते ॥ १४६ ॥  
 
 
-8.147a yat kiṃ cid daśavarṣāṇi sannidhau prekṣate dhanī |  
-8.147c bhujyamānaṃ parais tūṣṇīṃ na sa tat-labdhum arhati || 147 ||  
+८।१४७अ यत् किं चिद् दशवर्षाणि सन्निधौ प्रेक्षते धनी ।  
+८।१४७च् भुज्यमानं परैस् तूष्णीं न स तत्-लब्धुम् अर्हति ॥ १४७ ॥  
 
 
-8.148a ajaḍaś ced apogaṇḍo viṣaye ca-asya bhujyate |  
-8.148c bhagnaṃ tad vyavahāreṇa bhoktā tad dravyam arhati || 148 || 8.148cv/  \[M\] : “tad dhanam arhati”  
+८।१४८अ अजडश् चेद् अपोगण्डो विषये च-अस्य भुज्यते ।  
+८।१४८च् भग्नं तद् व्यवहारेण भोक्ता तद् द्रव्यम् अर्हति ॥ १४८ ॥ ८।१४८च्व्।  \[म्\] : “तद् धनम् अर्हति”  
 
 
-8.149a ādhiḥ sīmā bāladhanaṃ nikṣepa.upanidhiḥ striyaḥ | 8.149av/  \[M\] : “nikṣepa.upanidhī”  
-8.149c rājasvaṃ śrotriyasvaṃ ca na bhogena praṇaśyati || 149 ||  
+८।१४९अ आधिः सीमा बालधनं निक्षेप।उपनिधिः स्त्रियः । ८।१४९अव्।  \[म्\] : “निक्षेप।उपनिधी”  
+८।१४९च् राजस्वं श्रोत्रियस्वं च न भोगेन प्रणश्यति ॥ १४९ ॥  
 
 
- 8.1.4.15. Rates of Interest-II
- \[O\]  edn 688-690,  \[O\]  tr. 175
-8.150a yaḥ svāminā-ananujñātam ādhiṃ bhūṅkte 'vicakṣaṇaḥ |  
-8.150c tena-ardhavṛddhir moktavyā tasya bhogasya niṣkṛtiḥ || 150 ||  
+ ८।१।४।१५। रतेस् ओड़् इन्तेरेस्त्-इइ
+ \[ओ\]  एद्न् ६८८-६९०,  \[ओ\]  त्र्। १७५
+८।१५०अ यः स्वामिना-अननुज्ञातम् आधिं भूङ्क्ते ऽविचक्षणः ।  
+८।१५०च् तेन-अर्धवृद्धिर् मोक्तव्या तस्य भोगस्य निष्कृतिः ॥ १५० ॥  
 
 
-8.151a kusīdavṛddhir dvaiguṇyaṃ na-atyeti sakṛd āhṛtā | 8.151av/  \[M\] : “sakṛd āhitā”  
-8.151c dhānye sade lave vāhye na-atikrāmati pañcatām || 151 ||  
+८।१५१अ कुसीदवृद्धिर् द्वैगुण्यं न-अत्येति सकृद् आहृता । ८।१५१अव्।  \[म्\] : “सकृद् आहिता”  
+८।१५१च् धान्ये सदे लवे वाह्ये न-अतिक्रामति पञ्चताम् ॥ १५१ ॥  
 
 
-8.152a kṛtānusārād adhikā vyatiriktā na sidhyati |  
-8.152c kusīdapatham āhus taṃ pañcakaṃ śatam arhati || 152 ||  
+८।१५२अ कृतानुसाराद् अधिका व्यतिरिक्ता न सिध्यति ।  
+८।१५२च् कुसीदपथम् आहुस् तं पञ्चकं शतम् अर्हति ॥ १५२ ॥  
 
 
-8.153a na-ati.sāṃvatsarīṃ vṛddhiṃ na ca-adṛṣṭāṃ punar haret | 8.153av/  \[M\] : “vinirharet”  
-8.153c cakravṛddhiḥ kālavṛddhiḥ kāritā kāyikā ca yā || 153 ||  
+८।१५३अ न-अति।सांवत्सरीं वृद्धिं न च-अदृष्टां पुनर् हरेत् । ८।१५३अव्।  \[म्\] : “विनिर्हरेत्”  
+८।१५३च् चक्रवृद्धिः कालवृद्धिः कारिता कायिका च या ॥ १५३ ॥  
 
 
-8.154a ṛṇaṃ dātum aśakto yaḥ kartum icchet punaḥ kriyām |  
-8.154c sa dattvā nirjitāṃ vṛddhiṃ karaṇaṃ parivartayet || 154 ||  
+८।१५४अ ऋणं दातुम् अशक्तो यः कर्तुम् इच्छेत् पुनः क्रियाम् ।  
+८।१५४च् स दत्त्वा निर्जितां वृद्धिं करणं परिवर्तयेत् ॥ १५४ ॥  
 
 
-8.155a a.darśayitvā tatra-eva hiraṇyaṃ parivartayet |  
-8.155c yāvatī sambhaved vṛddhis tāvatīṃ dātum arhati || 155 ||  
+८।१५५अ अ।दर्शयित्वा तत्र-एव हिरण्यं परिवर्तयेत् ।  
+८।१५५च् यावती सम्भवेद् वृद्धिस् तावतीं दातुम् अर्हति ॥ १५५ ॥  
 
 
-8.156a cakravṛddhiṃ samārūḍho deśa.kālavyavasthitaḥ |  
-8.156c atikrāman deśa.kālau na tatphalam avāpnuyāt || 156 ||  
+८।१५६अ चक्रवृद्धिं समारूढो देश।कालव्यवस्थितः ।  
+८।१५६च् अतिक्रामन् देश।कालौ न तत्फलम् अवाप्नुयात् ॥ १५६ ॥  
 
 
-8.157a samudrayānakuśalā deśa.kāla.arthadarśinaḥ |  
-8.157c sthāpayanti tu yāṃ vṛddhiṃ sā tatra-adhigamaṃ prati || 157 ||  
+८।१५७अ समुद्रयानकुशला देश।काल।अर्थदर्शिनः ।  
+८।१५७च् स्थापयन्ति तु यां वृद्धिं सा तत्र-अधिगमं प्रति ॥ १५७ ॥  
 
 
- 8.1.4.16. Surety
- \[O\]  edn 690-691,  \[O\]  tr. 175
-8.158a yo yasya pratibhūs tiṣṭhed darśanāya-iha mānavaḥ |  
-8.158c a.darśayan sa taṃ tasya prayacchet svadhanād ṛṇam || 158 || 8.158cv/  \[M\] : “tasya yateta”  
+ ८।१।४।१६। सुरेत्य्
+ \[ओ\]  एद्न् ६९०-६९१,  \[ओ\]  त्र्। १७५
+८।१५८अ यो यस्य प्रतिभूस् तिष्ठेद् दर्शनाय-इह मानवः ।  
+८।१५८च् अ।दर्शयन् स तं तस्य प्रयच्छेत् स्वधनाद् ऋणम् ॥ १५८ ॥ ८।१५८च्व्।  \[म्\] : “तस्य यतेत”  
 
 
-8.159a prātibhāvyaṃ vṛthādānam ākṣikaṃ saurikāṃ ca yat |  
-8.159c daṇḍa.śulkāvaśeṣaṃ ca na putro dātum arhati || 159 ||  
+८।१५९अ प्रातिभाव्यं वृथादानम् आक्षिकं सौरिकां च यत् ।  
+८।१५९च् दण्ड।शुल्कावशेषं च न पुत्रो दातुम् अर्हति ॥ १५९ ॥  
 
 
-8.160a darśanaprātibhāvye tu vidhiḥ syāt pūrvacoditaḥ |  
-8.160c dānapratibhuvi prete dāyādān api dāpayet || 160 ||  
+८।१६०अ दर्शनप्रातिभाव्ये तु विधिः स्यात् पूर्वचोदितः ।  
+८।१६०च् दानप्रतिभुवि प्रेते दायादान् अपि दापयेत् ॥ १६० ॥  
 
 
-8.161a adātari punar dātā vijñātaprakṛtāv ṛṇam |  
-8.161c paścāt pratibhuvi prete parīpset kena hetunā || 161 ||  
+८।१६१अ अदातरि पुनर् दाता विज्ञातप्रकृताव् ऋणम् ।  
+८।१६१च् पश्चात् प्रतिभुवि प्रेते परीप्सेत् केन हेतुना ॥ १६१ ॥  
 
 
-8.162a nirādiṣṭadhanaś cet tu pratibhūḥ syād alandhanaḥ |  
-8.162c svadhanād eva tad dadyān nirādiṣṭa iti sthitiḥ || 162 ||  
+८।१६२अ निरादिष्टधनश् चेत् तु प्रतिभूः स्याद् अलन्धनः ।  
+८।१६२च् स्वधनाद् एव तद् दद्यान् निरादिष्ट इति स्थितिः ॥ १६२ ॥  
 
 
- 8.1.4.17. Validity of Transactions
- \[O\]  edn 691-692,  \[O\]  tr. 175-176
-8.163a matta.unmatta.ārta.adhyadhīnair bālena sthavireṇa vā |  
-8.163c asambaddhakṛtaś ca-eva vyāvahāro na sidhyati || 163 ||  
+ ८।१।४।१७। वलिदित्य् ओड़् त्रन्सच्तिओन्स्
+ \[ओ\]  एद्न् ६९१-६९२,  \[ओ\]  त्र्। १७५-१७६
+८।१६३अ मत्त।उन्मत्त।आर्त।अध्यधीनैर् बालेन स्थविरेण वा ।  
+८।१६३च् असम्बद्धकृतश् च-एव व्यावहारो न सिध्यति ॥ १६३ ॥  
 
 
-8.164a satyā na bhāṣā bhavati yady api syāt pratiṣṭhitā |  
-8.164c bahiś ced bhāṣyate dharmāt-niyatād vyavahārikāt || 164 ||  
+८।१६४अ सत्या न भाषा भवति यद्य् अपि स्यात् प्रतिष्ठिता ।  
+८।१६४च् बहिश् चेद् भाष्यते धर्मात्-नियताद् व्यवहारिकात् ॥ १६४ ॥  
 
 
-8.165a yogādhamanavikrītaṃ yogadānapratigraham |  
-8.165c yatra vā-apy upadhiṃ paśyet tat sarvaṃ vinivartayet || 165 ||  
+८।१६५अ योगाधमनविक्रीतं योगदानप्रतिग्रहम् ।  
+८।१६५च् यत्र वा-अप्य् उपधिं पश्येत् तत् सर्वं विनिवर्तयेत् ॥ १६५ ॥  
 
 
-8.166a grahītā yadi naṣṭaḥ syāt kuṭumbārthe kṛto vyayaḥ | 8.166av/  \[M\] : “kuṭumbe ca”  
-8.166c dātavyaṃ bāndhavais tat syāt pravibhaktair api svataḥ || 166 ||  
+८।१६६अ ग्रहीता यदि नष्टः स्यात् कुटुम्बार्थे कृतो व्ययः । ८।१६६अव्।  \[म्\] : “कुटुम्बे च”  
+८।१६६च् दातव्यं बान्धवैस् तत् स्यात् प्रविभक्तैर् अपि स्वतः ॥ १६६ ॥  
 
 
-8.167a kuṭumbārthe 'dhyadhīno 'pi vyavahāraṃ yam ācaret |  
-8.167c svadeśe vā videśe vā taṃ jyāyān na vicālayet || 167 ||  
+८।१६७अ कुटुम्बार्थे ऽध्यधीनो ऽपि व्यवहारं यम् आचरेत् ।  
+८।१६७च् स्वदेशे वा विदेशे वा तं ज्यायान् न विचालयेत् ॥ १६७ ॥  
 
 
-8.168a balād dattaṃ balād bhuktaṃ balād yac ca-api lekhitam |  
-8.168c sarvān balakṛtān arthān akṛtān manur abravīt || 168 ||  
+८।१६८अ बलाद् दत्तं बलाद् भुक्तं बलाद् यच् च-अपि लेखितम् ।  
+८।१६८च् सर्वान् बलकृतान् अर्थान् अकृतान् मनुर् अब्रवीत् ॥ १६८ ॥  
 
 
-8.169a trayaḥ parārthe kliśyanti sākṣiṇaḥ pratibhūḥ kulam |  
-8.169c catvāras tu-upacīyante vipra āḍhyo vaṇiṅ nṛpaḥ || 169 ||  
+८।१६९अ त्रयः परार्थे क्लिश्यन्ति साक्षिणः प्रतिभूः कुलम् ।  
+८।१६९च् चत्वारस् तु-उपचीयन्ते विप्र आढ्यो वणिङ् नृपः ॥ १६९ ॥  
 
 
- 8.1.4.18. Impartiality of the King
- \[O\]  edn 692-693,  \[O\]  tr. 176
-8.170a an.ādeyaṃ na-ādadīta parikṣīṇo 'pi pārthivaḥ |  
-8.170c na ca-ādeyaṃ samṛddho 'pi sūkṣmam apy artham utsṛjet || 170 ||  
+ ८।१।४।१८। इम्पर्तिअलित्य् ओड़् थे किन्ग्
+ \[ओ\]  एद्न् ६९२-६९३,  \[ओ\]  त्र्। १७६
+८।१७०अ अन्।आदेयं न-आददीत परिक्षीणो ऽपि पार्थिवः ।  
+८।१७०च् न च-आदेयं समृद्धो ऽपि सूक्ष्मम् अप्य् अर्थम् उत्सृजेत् ॥ १७० ॥  
 
 
-8.171a an.ādeyasya ca-ādānād ādeyasya ca varjanāt |  
-8.171c daurbalyaṃ khyāpyate rājñaḥ sa pretya-iha ca naśyati || 171 ||  
+८।१७१अ अन्।आदेयस्य च-आदानाद् आदेयस्य च वर्जनात् ।  
+८।१७१च् दौर्बल्यं ख्याप्यते राज्ञः स प्रेत्य-इह च नश्यति ॥ १७१ ॥  
 
 
-8.172a svādānād varṇasaṃsargāt tv abalānāṃ ca rakṣaṇāt |  
-8.172c balaṃ sañjāyate rājñaḥ sa pretya-iha ca vardhate || 172 ||  
+८।१७२अ स्वादानाद् वर्णसंसर्गात् त्व् अबलानां च रक्षणात् ।  
+८।१७२च् बलं सञ्जायते राज्ञः स प्रेत्य-इह च वर्धते ॥ १७२ ॥  
 
 
-8.173a tasmād yama iva svāmī svayaṃ hitvā priya.apriye |  
-8.173c varteta yāmyayā vṛttyā jita.krodho jita.indriyaḥ || 173 ||  
+८।१७३अ तस्माद् यम इव स्वामी स्वयं हित्वा प्रिय।अप्रिये ।  
+८।१७३च् वर्तेत याम्यया वृत्त्या जित।क्रोधो जित।इन्द्रियः ॥ १७३ ॥  
 
 
-8.174a yas tv adharmeṇa kāryāṇi mohāt kuryān narādhipaḥ |  
-8.174c acirāt taṃ dur.ātmānaṃ vaśe kurvanti śatravaḥ || 174 ||  
+८।१७४अ यस् त्व् अधर्मेण कार्याणि मोहात् कुर्यान् नराधिपः ।  
+८।१७४च् अचिरात् तं दुर्।आत्मानं वशे कुर्वन्ति शत्रवः ॥ १७४ ॥  
 
 
-8.175a kāma.krodhau tu saṃyamya yo 'rthān dharmeṇa paśyati |  
-8.175c prajās tam anuvartante samudram iva sindhavaḥ || 175 ||  
+८।१७५अ काम।क्रोधौ तु संयम्य यो ऽर्थान् धर्मेण पश्यति ।  
+८।१७५च् प्रजास् तम् अनुवर्तन्ते समुद्रम् इव सिन्धवः ॥ १७५ ॥  
 
 
- 8.1.4.19. Recovery of Debt
- \[O\]  edn 693-694,  \[O\]  tr. 176
-8.176a yaḥ sādhayantaṃ chandena vedayed dhanikaṃ nṛpe |  
-8.176c sa rājñā tat-caturbhāgaṃ dāpyas tasya ca tad dhanam || 176 ||  
+ ८।१।४।१९। रेचोवेर्य् ओड़् देब्त्
+ \[ओ\]  एद्न् ६९३-६९४,  \[ओ\]  त्र्। १७६
+८।१७६अ यः साधयन्तं छन्देन वेदयेद् धनिकं नृपे ।  
+८।१७६च् स राज्ञा तत्-चतुर्भागं दाप्यस् तस्य च तद् धनम् ॥ १७६ ॥  
 
 
-8.177a karmaṇā-api samaṃ kuryād dhanikāya-adhamarṇikaḥ |  
-8.177c samo 'vakṛṣṭajātis tu dadyāt-śreyāṃs tu tat- śanaiḥ || 177 ||  
+८।१७७अ कर्मणा-अपि समं कुर्याद् धनिकाय-अधमर्णिकः ।  
+८।१७७च् समो ऽवकृष्टजातिस् तु दद्यात्-श्रेयांस् तु तत्- शनैः ॥ १७७ ॥  
 
 
- 8.1.4.20. Conclusion
- \[O\]  edn 694,  \[O\]  tr. 176
-8.178a anena vidhinā rājā mitho vivadatāṃ nṛṇām |  
-8.178c sākṣipratyayasiddhāni kāryāṇi samatāṃ nayet || 178 ||  
+ ८।१।४।२०। चोन्च्लुसिओन्
+ \[ओ\]  एद्न् ६९४,  \[ओ\]  त्र्। १७६
+८।१७८अ अनेन विधिना राजा मिथो विवदतां नृणाम् ।  
+८।१७८च् साक्षिप्रत्ययसिद्धानि कार्याणि समतां नयेत् ॥ १७८ ॥  
 
 
-# 8.1.5. Grounds for Litigation-II Deposits
- \[O\]  edn 694-697,  \[O\]  tr. 176-177
-8.179a kulaje vṛttasampanne dharmajñe satyavādini |  
-8.179c mahāpakṣe dhaniny ārye nikṣepaṃ nikṣiped budhaḥ || 179 ||  
+# ८।१।५। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-इइ देपोसित्स्
+ \[ओ\]  एद्न् ६९४-६९७,  \[ओ\]  त्र्। १७६-१७७
+८।१७९अ कुलजे वृत्तसम्पन्ने धर्मज्ञे सत्यवादिनि ।  
+८।१७९च् महापक्षे धनिन्य् आर्ये निक्षेपं निक्षिपेद् बुधः ॥ १७९ ॥  
 
 
-8.180a yo yathā nikṣipedd haste yam arthaṃ yasya mānavaḥ |  
-8.180c sa tathā-eva grahītavyo yathā dāyas tathā grahaḥ || 180 ||  
+८।१८०अ यो यथा निक्षिपेद्द् हस्ते यम् अर्थं यस्य मानवः ।  
+८।१८०च् स तथा-एव ग्रहीतव्यो यथा दायस् तथा ग्रहः ॥ १८० ॥  
 
 
-8.181a yo nikṣepaṃ yācyamāno nikṣeptur na prayacchati |  
-8.181c sa yācyaḥ prāḍvivākena tat-nikṣeptur asannidhau || 181 ||  
+८।१८१अ यो निक्षेपं याच्यमानो निक्षेप्तुर् न प्रयच्छति ।  
+८।१८१च् स याच्यः प्राड्विवाकेन तत्-निक्षेप्तुर् असन्निधौ ॥ १८१ ॥  
 
 
-8.182a sākṣi.abhāve praṇidhibhir vayo.rūpa.samanvitaiḥ |  
-8.182c apadeśaiś ca sannyasya hiraṇyaṃ tasya tattvataḥ || 182 ||  
+८।१८२अ साक्षि।अभावे प्रणिधिभिर् वयो।रूप।समन्वितैः ।  
+८।१८२च् अपदेशैश् च सन्न्यस्य हिरण्यं तस्य तत्त्वतः ॥ १८२ ॥  
 
 
-8.183a sa yadi pratipadyeta yathānyastaṃ yathākṛtam |  
-8.183c na tatra vidyate kiṃ cid yat parair abhiyujyate || 183 ||  
+८।१८३अ स यदि प्रतिपद्येत यथान्यस्तं यथाकृतम् ।  
+८।१८३च् न तत्र विद्यते किं चिद् यत् परैर् अभियुज्यते ॥ १८३ ॥  
 
 
-8.184a teṣāṃ na dadyād yadi tu tadd hiraṇyaṃ yathāvidhi |  
-8.184c ubhau nigṛhya dāpyaḥ syād iti dharmasya dhāraṇā || 184 || 8.184cv/  \[M\] : “sa nigṛhya-ubhayaṃ dāpya iti dharmasya dhāraṇā”  
+८।१८४अ तेषां न दद्याद् यदि तु तद्द् हिरण्यं यथाविधि ।  
+८।१८४च् उभौ निगृह्य दाप्यः स्याद् इति धर्मस्य धारणा ॥ १८४ ॥ ८।१८४च्व्।  \[म्\] : “स निगृह्य-उभयं दाप्य इति धर्मस्य धारणा”  
 
 
-8.185a nikṣepa.upanidhī nityaṃ na deyau pratyanantare |  
-8.185c naśyato vinipāte tāv anipāte tv anāśinau || 185 ||  
+८।१८५अ निक्षेप।उपनिधी नित्यं न देयौ प्रत्यनन्तरे ।  
+८।१८५च् नश्यतो विनिपाते ताव् अनिपाते त्व् अनाशिनौ ॥ १८५ ॥  
 
 
-8.186a svayam eva tu yau dadyān mṛtasya pratyanantare |  
-8.186c na sa rājñā-abhiyoktavyo na nikṣeptuś ca bandhubhiḥ || 186 ||  
+८।१८६अ स्वयम् एव तु यौ दद्यान् मृतस्य प्रत्यनन्तरे ।  
+८।१८६च् न स राज्ञा-अभियोक्तव्यो न निक्षेप्तुश् च बन्धुभिः ॥ १८६ ॥  
 
 
-8.187a acchalena-eva ca-anvicchet tam arthaṃ prītipūrvakam |  
-8.187c vicārya tasya vā vṛttaṃ sāmnā-eva parisādhayet || 187 ||  
+८।१८७अ अच्छलेन-एव च-अन्विच्छेत् तम् अर्थं प्रीतिपूर्वकम् ।  
+८।१८७च् विचार्य तस्य वा वृत्तं साम्ना-एव परिसाधयेत् ॥ १८७ ॥  
 
 
-8.188a nikṣepeṣv eṣu sarveṣu vidhiḥ syāt parisādhane |  
-8.188c sa.mudre na-āpnuyāt kiṃ cid yadi tasmān na saṃharet || 188 ||  
+८।१८८अ निक्षेपेष्व् एषु सर्वेषु विधिः स्यात् परिसाधने ।  
+८।१८८च् स।मुद्रे न-आप्नुयात् किं चिद् यदि तस्मान् न संहरेत् ॥ १८८ ॥  
 
 
-8.189a caurair hṛtaṃ jalena-ūḍham agninā dagdham eva vā |  
-8.189c na dadyād yadi tasmāt sa na saṃharati kiṃ cana || 189 ||  
+८।१८९अ चौरैर् हृतं जलेन-ऊढम् अग्निना दग्धम् एव वा ।  
+८।१८९च् न दद्याद् यदि तस्मात् स न संहरति किं चन ॥ १८९ ॥  
 
 
-8.190a nikṣepasya-apahartāram anikṣeptāram eva ca |  
-8.190c sarvair upāyair anvicchet-śapathaiś ca-eva vaidikaiḥ || 190 ||  
+८।१९०अ निक्षेपस्य-अपहर्तारम् अनिक्षेप्तारम् एव च ।  
+८।१९०च् सर्वैर् उपायैर् अन्विच्छेत्-शपथैश् च-एव वैदिकैः ॥ १९० ॥  
 
 
-8.191a yo nikṣepaṃ na-arpayati yaś ca-a.nikṣipya yācate |  
-8.191c tāv ubhau cauravat-śāsyau dāpyau vā tatsamaṃ damam || 191 ||  
+८।१९१अ यो निक्षेपं न-अर्पयति यश् च-अ।निक्षिप्य याचते ।  
+८।१९१च् ताव् उभौ चौरवत्-शास्यौ दाप्यौ वा तत्समं दमम् ॥ १९१ ॥  
 
 
-8.192a nikṣepasya-apahartāraṃ tatsamaṃ dāpayed damam |  
-8.192c tathā-upanidhihartāram aviśeṣeṇa pārthivaḥ || 192 ||  
+८।१९२अ निक्षेपस्य-अपहर्तारं तत्समं दापयेद् दमम् ।  
+८।१९२च् तथा-उपनिधिहर्तारम् अविशेषेण पार्थिवः ॥ १९२ ॥  
 
 
-8.193a upadhābhiś ca yaḥ kaś cit paradravyaṃ haren naraḥ |  
-8.193c sa.sahāyaḥ sa hantavyaḥ prakāśaṃ vividhair vadhaiḥ || 193 ||  
+८।१९३अ उपधाभिश् च यः कश् चित् परद्रव्यं हरेन् नरः ।  
+८।१९३च् स।सहायः स हन्तव्यः प्रकाशं विविधैर् वधैः ॥ १९३ ॥  
 
 
-8.194a nikṣepo yaḥ kṛto yena yāvāṃś ca kulasannidhau |  
-8.194c tāvān eva sa vijñeyo vibruvan daṇḍam arhati || 194 ||  
+८।१९४अ निक्षेपो यः कृतो येन यावांश् च कुलसन्निधौ ।  
+८।१९४च् तावान् एव स विज्ञेयो विब्रुवन् दण्डम् अर्हति ॥ १९४ ॥  
 
 
-8.195a mitho dāyaḥ kṛto yena gṛhīto mitha eva vā |  
-8.195c mitha eva pradātavyo yathā dāyas tathā grahaḥ || 195 ||  
+८।१९५अ मिथो दायः कृतो येन गृहीतो मिथ एव वा ।  
+८।१९५च् मिथ एव प्रदातव्यो यथा दायस् तथा ग्रहः ॥ १९५ ॥  
 
 
-8.196a nikṣiptasya dhanasya-evaṃ prītyā-upanihitasya ca |  
-8.196c rājā vinirṇayaṃ kuryād akṣiṇvan nyāsadhāriṇam || 196 ||  
+८।१९६अ निक्षिप्तस्य धनस्य-एवं प्रीत्या-उपनिहितस्य च ।  
+८।१९६च् राजा विनिर्णयं कुर्याद् अक्षिण्वन् न्यासधारिणम् ॥ १९६ ॥  
 
 
-# 8.1.6. Grounds for Litigation-III Sale Without Ownership
- \[O\]  edn 697-699,  \[O\]  tr. 177-178
-8.197a vikrīṇīte parasya svaṃ yo 'svāmī svāmyasammataḥ |  
-8.197c na taṃ nayeta sākṣyaṃ tu stenam astenamāninam || 197 ||  
+# ८।१।६। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-इइइ सले Wइथोउत् ओwनेर्स्हिप्
+ \[ओ\]  एद्न् ६९७-६९९,  \[ओ\]  त्र्। १७७-१७८
+८।१९७अ विक्रीणीते परस्य स्वं यो ऽस्वामी स्वाम्यसम्मतः ।  
+८।१९७च् न तं नयेत साक्ष्यं तु स्तेनम् अस्तेनमानिनम् ॥ १९७ ॥  
 
 
-8.198a avahāryo bhavet-ca-eva sa.anvayaḥ ṣaṭśataṃ damam |  
-8.198c nir.anvayo 'n.apasaraḥ prāptaḥ syāc caurakilbiṣam || 198 ||  
+८।१९८अ अवहार्यो भवेत्-च-एव स।अन्वयः षट्शतं दमम् ।  
+८।१९८च् निर्।अन्वयो ऽन्।अपसरः प्राप्तः स्याच् चौरकिल्बिषम् ॥ १९८ ॥  
 
 
-8.199a asvāminā kṛto yas tu dāyo vikraya eva vā |  
-8.199c akṛtaḥ sa tu vijñeyo vyavahāre yathā sthitiḥ || 199 ||  
+८।१९९अ अस्वामिना कृतो यस् तु दायो विक्रय एव वा ।  
+८।१९९च् अकृतः स तु विज्ञेयो व्यवहारे यथा स्थितिः ॥ १९९ ॥  
 
 
-8.200a sambhogo dṛśyate yatra na dṛśyeta-āgamaḥ kva cit |  
-8.200c āgamaḥ kāraṇaṃ tatra na sambhoga iti sthitiḥ || 200 ||  
+८।२००अ सम्भोगो दृश्यते यत्र न दृश्येत-आगमः क्व चित् ।  
+८।२००च् आगमः कारणं तत्र न सम्भोग इति स्थितिः ॥ २०० ॥  
 
 
-8.201a vikrayād yo dhanaṃ kiṃ cid gṛhṇīyat kulasannidhau |  
-8.201c krayeṇa sa viśuddhaṃ hi nyāyato labhate dhanam || 201 ||  
+८।२०१अ विक्रयाद् यो धनं किं चिद् गृह्णीयत् कुलसन्निधौ ।  
+८।२०१च् क्रयेण स विशुद्धं हि न्यायतो लभते धनम् ॥ २०१ ॥  
 
 
-8.202a atha mūlam anāhāryaṃ prakāśakrayaśodhitaḥ |  
-8.202c adaṇḍyo mucyate rājñā nāṣṭiko labhate dhanam || 202 ||  
+८।२०२अ अथ मूलम् अनाहार्यं प्रकाशक्रयशोधितः ।  
+८।२०२च् अदण्ड्यो मुच्यते राज्ञा नाष्टिको लभते धनम् ॥ २०२ ॥  
 
 
- 8.1.6.1. Fraudulent Sales
- \[O\]  edn 699,  \[O\]  tr. 178
-8.203a na-anyad anyena saṃsṛṣṭarūpaṃ vikrayam arhati |  
-8.203c na ca-a.sāraṃ na ca nyūnaṃ na dūreṇa tirohitam || 203 || 8.203cv/  \[M\] : “na sāvadyaṃ na ca nyūnaṃ na dūre na tirohitam”  
+ ८।१।६।१। ड़्रौदुलेन्त् सलेस्
+ \[ओ\]  एद्न् ६९९,  \[ओ\]  त्र्। १७८
+८।२०३अ न-अन्यद् अन्येन संसृष्टरूपं विक्रयम् अर्हति ।  
+८।२०३च् न च-अ।सारं न च न्यूनं न दूरेण तिरोहितम् ॥ २०३ ॥ ८।२०३च्व्।  \[म्\] : “न सावद्यं न च न्यूनं न दूरे न तिरोहितम्”  
 
 
-8.204a anyāṃ ced darśayitvā-anyā voḍhuḥ kanyā pradīyate |  
-8.204c ubhe ta ekaśulkena vahed ity abravīn manuḥ || 204 ||  
+८।२०४अ अन्यां चेद् दर्शयित्वा-अन्या वोढुः कन्या प्रदीयते ।  
+८।२०४च् उभे त एकशुल्केन वहेद् इत्य् अब्रवीन् मनुः ॥ २०४ ॥  
 
 
-8.205a na-unmattāyā na kuṣṭhinyā na ca yā spṛṣṭa.maithunā |  
-8.205c pūrvaṃ doṣān abhikhyāpya pradātā daṇḍam arhati || 205 ||  
+८।२०५अ न-उन्मत्ताया न कुष्ठिन्या न च या स्पृष्ट।मैथुना ।  
+८।२०५च् पूर्वं दोषान् अभिख्याप्य प्रदाता दण्डम् अर्हति ॥ २०५ ॥  
 
 
-# 8.1.7. Grounds for Litigation-IV Partnerships
- \[O\]  edn 700-701,  \[O\]  tr. 178
-8.206a ṛtvig yadi vṛto yajñe svakarma parihāpayet |  
-8.206c tasya karmānurūpeṇa deyo 'ṃśaḥ sahakartṛbhiḥ || 206 ||  
+# ८।१।७। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-इव् पर्त्नेर्स्हिप्स्
+ \[ओ\]  एद्न् ७००-७०१,  \[ओ\]  त्र्। १७८
+८।२०६अ ऋत्विग् यदि वृतो यज्ञे स्वकर्म परिहापयेत् ।  
+८।२०६च् तस्य कर्मानुरूपेण देयो ऽंशः सहकर्तृभिः ॥ २०६ ॥  
 
 
-8.207a dakṣiṇāsu ca dattāsu svakarma parihāpayan |  
-8.207c kṛtsnam eva labheta-aṃśam anyena-eva ca kārayet || 207 ||  
+८।२०७अ दक्षिणासु च दत्तासु स्वकर्म परिहापयन् ।  
+८।२०७च् कृत्स्नम् एव लभेत-अंशम् अन्येन-एव च कारयेत् ॥ २०७ ॥  
 
 
-8.208a yasmin karmaṇi yās tu syur uktāḥ pratyaṅgadakṣiṇāḥ |  
-8.208c sa eva tā ādidīta bhajeran sarva eva vā || 208 ||  
+८।२०८अ यस्मिन् कर्मणि यास् तु स्युर् उक्ताः प्रत्यङ्गदक्षिणाः ।  
+८।२०८च् स एव ता आदिदीत भजेरन् सर्व एव वा ॥ २०८ ॥  
 
 
-8.209a rathaṃ haret ca-adhvaryur brahmā-ādhāne ca vājinam |  
-8.209c hotā vā-api hared aśvam udgātā ca-apy anaḥ kraye || 209 ||  
+८।२०९अ रथं हरेत् च-अध्वर्युर् ब्रह्मा-आधाने च वाजिनम् ।  
+८।२०९च् होता वा-अपि हरेद् अश्वम् उद्गाता च-अप्य् अनः क्रये ॥ २०९ ॥  
 
 
-8.210a sarveṣām ardhino mukhyās tadardhena-ardhino 'pare |  
-8.210c tṛtīyinas tṛtīyāṃśāś caturthāṃśāś ca pādinaḥ || 210 ||  
+८।२१०अ सर्वेषाम् अर्धिनो मुख्यास् तदर्धेन-अर्धिनो ऽपरे ।  
+८।२१०च् तृतीयिनस् तृतीयांशाश् चतुर्थांशाश् च पादिनः ॥ २१० ॥  
 
 
-8.211a sambhūya svāni karmāṇi kurvadbhir iha mānavaiḥ |  
-8.211c anena vidhiyogena kartavyā-aṃśaprakalpanā || 211 ||  
+८।२११अ सम्भूय स्वानि कर्माणि कुर्वद्भिर् इह मानवैः ।  
+८।२११च् अनेन विधियोगेन कर्तव्या-अंशप्रकल्पना ॥ २११ ॥  
 
 
-# 8.1.8. Grounds for Litigation-V Non-delivery of Gifts
- \[O\]  edn 701,  \[O\]  tr. 178
-8.212a dharmārthaṃ yena dattaṃ syāt kasmai cid yācate dhanam |  
-8.212c paścāc ca na tathā tat syān na deyaṃ tasya tad bhavet || 212 ||  
+# ८।१।८। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-व् नोन्-देलिवेर्य् ओड़् गिड़्त्स्
+ \[ओ\]  एद्न् ७०१,  \[ओ\]  त्र्। १७८
+८।२१२अ धर्मार्थं येन दत्तं स्यात् कस्मै चिद् याचते धनम् ।  
+८।२१२च् पश्चाच् च न तथा तत् स्यान् न देयं तस्य तद् भवेत् ॥ २१२ ॥  
 
 
-8.213a yadi saṃsādhayet tat tu darpāt-lobhena vā punaḥ |  
-8.213c rājñā dāpyaḥ suvarṇaṃ syāt tasya steyasya niṣkṛtiḥ || 213 ||  
+८।२१३अ यदि संसाधयेत् तत् तु दर्पात्-लोभेन वा पुनः ।  
+८।२१३च् राज्ञा दाप्यः सुवर्णं स्यात् तस्य स्तेयस्य निष्कृतिः ॥ २१३ ॥  
 
 
-8.214a dattasya-eṣā-uditā dharmyā yathāvad anapakriyā |  
-8.214c ata ūrdhvaṃ pravakṣyāmi vetanasya-anapakriyām || 214 ||  
+८।२१४अ दत्तस्य-एषा-उदिता धर्म्या यथावद् अनपक्रिया ।  
+८।२१४च् अत ऊर्ध्वं प्रवक्ष्यामि वेतनस्य-अनपक्रियाम् ॥ २१४ ॥  
 
 
-# 8.1.9. Grounds for Litigation-VI Non-payment of Wages
- \[O\]  edn 702,  \[O\]  tr. 178-179
-8.215a bhṛto na-ārto na kuryād yo darpāt karma yathāa.uditam | 8.215av/  \[M\] : “anārto”  
-8.215c sa daṇḍyaḥ kṛṣṇalāny aṣṭau na deyaṃ ca-asya vetanam || 215 ||  
+# ८।१।९। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-वि नोन्-पय्मेन्त् ओड़् Wअगेस्
+ \[ओ\]  एद्न् ७०२,  \[ओ\]  त्र्। १७८-१७९
+८।२१५अ भृतो न-आर्तो न कुर्याद् यो दर्पात् कर्म यथाअ।उदितम् । ८।२१५अव्।  \[म्\] : “अनार्तो”  
+८।२१५च् स दण्ड्यः कृष्णलान्य् अष्टौ न देयं च-अस्य वेतनम् ॥ २१५ ॥  
 
 
-8.216a ārtas tu kuryāt svasthaḥ san yathābhāṣitam āditaḥ |  
-8.216c sa dīrghasya-api kālasya tat-labheta(-eva vetanam || 216 ||  
+८।२१६अ आर्तस् तु कुर्यात् स्वस्थः सन् यथाभाषितम् आदितः ।  
+८।२१६च् स दीर्घस्य-अपि कालस्य तत्-लभेत(-एव वेतनम् ॥ २१६ ॥  
 
 
-8.217a yathā.uktam ārtaḥ sustho vā yas tat karma na kārayet |  
-8.217c na tasya vetanaṃ deyam alpa.ūnasya-api karmaṇaḥ || 217 ||  
+८।२१७अ यथा।उक्तम् आर्तः सुस्थो वा यस् तत् कर्म न कारयेत् ।  
+८।२१७च् न तस्य वेतनं देयम् अल्प।ऊनस्य-अपि कर्मणः ॥ २१७ ॥  
 
 
-8.218a eṣa dharmo 'khilena-ukto vetanādānakarmaṇaḥ |  
-8.218c ata ūrdhvaṃ pravakṣyāmi dharmaṃ samayabhedinām || 218 ||  
+८।२१८अ एष धर्मो ऽखिलेन-उक्तो वेतनादानकर्मणः ।  
+८।२१८च् अत ऊर्ध्वं प्रवक्ष्यामि धर्मं समयभेदिनाम् ॥ २१८ ॥  
 
 
-# 8.1.10. Grounds for Litigation-VII Breach of Contract
- \[O\]  edn 702-703,  \[O\]  tr. 179
-8.219a yo grāma.deśa.saṅghānāṃ kṛtvā satyena saṃvidam |  
-8.219c visaṃvaden naro lobhāt taṃ rāṣṭrād vipravāsayet || 219 ||  
+# ८।१।१०। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-विइ ब्रेअछ् ओड़् चोन्त्रच्त्
+ \[ओ\]  एद्न् ७०२-७०३,  \[ओ\]  त्र्। १७९
+८।२१९अ यो ग्राम।देश।सङ्घानां कृत्वा सत्येन संविदम् ।  
+८।२१९च् विसंवदेन् नरो लोभात् तं राष्ट्राद् विप्रवासयेत् ॥ २१९ ॥  
 
 
-8.220a nigṛhya dāpayec ca-enaṃ samayavyabhicāriṇam |  
-8.220c catuḥsuvarṇān ṣaṇniṣkāṃś-śatamānaṃ ca rājakam || 220 ||  
+८।२२०अ निगृह्य दापयेच् च-एनं समयव्यभिचारिणम् ।  
+८।२२०च् चतुःसुवर्णान् षण्निष्कांश्-शतमानं च राजकम् ॥ २२० ॥  
 
 
-8.221a etad daṇḍavidhiṃ kuryād dhārmikaḥ pṛthivīpatiḥ |  
-8.221c grāma.jāti.samūheṣu samayavyabhicāriṇām || 221 ||  
+८।२२१अ एतद् दण्डविधिं कुर्याद् धार्मिकः पृथिवीपतिः ।  
+८।२२१च् ग्राम।जाति।समूहेषु समयव्यभिचारिणाम् ॥ २२१ ॥  
 
 
-# 8.1.11. Grounds for Litigation-VIII Cancellation of Sale or Purchase
- \[O\]  edn 703-704,  \[O\]  tr. 179
-8.222a krītvā vikrīya vā kiṃ cid yasya-ihānuśayo bhavet |  
-8.222c so 'ntar daśāhāt tad dravyaṃ dadyāc ca-evādadīta vā || 222 ||  
+# ८।१।११। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-विइइ चन्चेल्लतिओन् ओड़् सले ओर् पुर्छसे
+ \[ओ\]  एद्न् ७०३-७०४,  \[ओ\]  त्र्। १७९
+८।२२२अ क्रीत्वा विक्रीय वा किं चिद् यस्य-इहानुशयो भवेत् ।  
+८।२२२च् सो ऽन्तर् दशाहात् तद् द्रव्यं दद्याच् च-एवाददीत वा ॥ २२२ ॥  
 
 
-8.223a pareṇa tu daśāhasya na dadyān nāpi dāpayet |  
-8.223c ādadāno dadat ca-eva rājñā daṇḍyau śatāni ṣaṭ || 223 ||  
+८।२२३अ परेण तु दशाहस्य न दद्यान् नापि दापयेत् ।  
+८।२२३च् आददानो ददत् च-एव राज्ञा दण्ड्यौ शतानि षट् ॥ २२३ ॥  
 
 
-8.224a yas tu doṣavatīṃ kanyām anākhyāya prayacchati |  
-8.224c tasya kuryān nṛpo daṇḍaṃ svayaṃ ṣaṇṇavatiṃ paṇān || 224 ||  
+८।२२४अ यस् तु दोषवतीं कन्याम् अनाख्याय प्रयच्छति ।  
+८।२२४च् तस्य कुर्यान् नृपो दण्डं स्वयं षण्णवतिं पणान् ॥ २२४ ॥  
 
 
-8.225a akanyā-iti tu yaḥ kanyāṃ brūyād dveṣeṇa mānavaḥ |  
-8.225c sa śataṃ prāpnuyād daṇḍaṃ tasyā doṣam adarśayan || 225 ||  
+८।२२५अ अकन्या-इति तु यः कन्यां ब्रूयाद् द्वेषेण मानवः ।  
+८।२२५च् स शतं प्राप्नुयाद् दण्डं तस्या दोषम् अदर्शयन् ॥ २२५ ॥  
 
 
-8.226a pāṇigrahaṇikā mantrāḥ kanyāsv eva pratiṣṭhitāḥ |  
-8.226c na-akanyāsu kva cin nṝṇāṃ lupta.dharmakriyā hi tāḥ || 226 ||  
+८।२२६अ पाणिग्रहणिका मन्त्राः कन्यास्व् एव प्रतिष्ठिताः ।  
+८।२२६च् न-अकन्यासु क्व चिन् नॄणां लुप्त।धर्मक्रिया हि ताः ॥ २२६ ॥  
 
 
-8.227a pāṇigrahaṇikā mantrā niyataṃ dāralakṣaṇam |  
-8.227c teṣāṃ niṣṭhā tu vijñeyā vidvadbhiḥ saptame pade || 227 ||  
+८।२२७अ पाणिग्रहणिका मन्त्रा नियतं दारलक्षणम् ।  
+८।२२७च् तेषां निष्ठा तु विज्ञेया विद्वद्भिः सप्तमे पदे ॥ २२७ ॥  
 
 
-8.228a yasmin yasmin kṛte kārye yasya-ihānuśayo bhavet |  
-8.228c tam anena vidhānena dharmye pathi niveśayet || 228 ||  
+८।२२८अ यस्मिन् यस्मिन् कृते कार्ये यस्य-इहानुशयो भवेत् ।  
+८।२२८च् तम् अनेन विधानेन धर्म्ये पथि निवेशयेत् ॥ २२८ ॥  
 
 
-# 8.1.12. Grounds for Litigation-IX Disputes between Owners and Herdsmen
- \[O\]  edn 704-708,  \[O\]  tr. 179-180
-8.229a paśuṣu svāmināṃ ca-eva pālānāṃ ca vyatikrame |  
-8.229c vivādaṃ sampravakṣyāmi yathāvad dharmatattvataḥ || 229 ||  
+# ८।१।१२। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-इX दिस्पुतेस् बेत्wएएन् ओwनेर्स् अन्द् हेर्द्स्मेन्
+ \[ओ\]  एद्न् ७०४-७०८,  \[ओ\]  त्र्। १७९-१८०
+८।२२९अ पशुषु स्वामिनां च-एव पालानां च व्यतिक्रमे ।  
+८।२२९च् विवादं सम्प्रवक्ष्यामि यथावद् धर्मतत्त्वतः ॥ २२९ ॥  
 
 
- 8.1.12.1. Safety of Herd
- \[O\]  edn 704-706,  \[O\]  tr. 179-180
-8.230a divā vaktavyatā pāle rātrau svāmini tadgṛhe |  
-8.230c yogakṣeme 'nyathā cet tu pālo vaktavyatām iyāt || 230 ||  
+ ८।१।१२।१। सड़ेत्य् ओड़् हेर्द्
+ \[ओ\]  एद्न् ७०४-७०६,  \[ओ\]  त्र्। १७९-१८०
+८।२३०अ दिवा वक्तव्यता पाले रात्रौ स्वामिनि तद्गृहे ।  
+८।२३०च् योगक्षेमे ऽन्यथा चेत् तु पालो वक्तव्यताम् इयात् ॥ २३० ॥  
 
 
-8.231a gopaḥ kṣīrabhṛto yas tu sa duhyād daśato varām |  
-8.231c gosvāmyanumate bhṛtyaḥ sā syāt pāle 'bhṛte bhṛtiḥ || 231 ||  
+८।२३१अ गोपः क्षीरभृतो यस् तु स दुह्याद् दशतो वराम् ।  
+८।२३१च् गोस्वाम्यनुमते भृत्यः सा स्यात् पाले ऽभृते भृतिः ॥ २३१ ॥  
 
 
-8.232a naṣṭaṃ vinaṣṭaṃ kṛmibhiḥ śvahataṃ viṣame mṛtam |  
-8.232c hīnaṃ puruṣakāreṇa pradadyāt pāla eva tu || 232 ||  
+८।२३२अ नष्टं विनष्टं कृमिभिः श्वहतं विषमे मृतम् ।  
+८।२३२च् हीनं पुरुषकारेण प्रदद्यात् पाल एव तु ॥ २३२ ॥  
 
 
-8.233a vighuṣya tu hṛtaṃ caurair na pālo dātum arhati |  
-8.233c yadi deśe ca kāle ca svāminaḥ svasya śaṃsati || 233 ||  
+८।२३३अ विघुष्य तु हृतं चौरैर् न पालो दातुम् अर्हति ।  
+८।२३३च् यदि देशे च काले च स्वामिनः स्वस्य शंसति ॥ २३३ ॥  
 
 
-8.234a karṇau carma ca vālāṃś ca bastiṃ snāyuṃ ca rocanām |  
-8.234c paśuṣu svāmināṃ dadyān mṛteṣv aṅkāni darśayet || 234 || 8.234cv/  \[M\] : “aṅkāṃś ca darśayet”  
+८।२३४अ कर्णौ चर्म च वालांश् च बस्तिं स्नायुं च रोचनाम् ।  
+८।२३४च् पशुषु स्वामिनां दद्यान् मृतेष्व् अङ्कानि दर्शयेत् ॥ २३४ ॥ ८।२३४च्व्।  \[म्\] : “अङ्कांश् च दर्शयेत्”  
 
 
-8.235a aja.avike tu saṃruddhe vṛkaiḥ pāle tv an.āyati |  
-8.235c yāṃ prasahya vṛko hanyāt pāle tat kilbiṣaṃ bhavet || 235 ||  
+८।२३५अ अज।अविके तु संरुद्धे वृकैः पाले त्व् अन्।आयति ।  
+८।२३५च् यां प्रसह्य वृको हन्यात् पाले तत् किल्बिषं भवेत् ॥ २३५ ॥  
 
 
-8.236a tāsāṃ ced avaruddhānāṃ carantīnāṃ mitho vane |  
-8.236c yām utplutya vṛko hanyān na pālas tatra kilbiṣī || 236 ||  
+८।२३६अ तासां चेद् अवरुद्धानां चरन्तीनां मिथो वने ।  
+८।२३६च् याम् उत्प्लुत्य वृको हन्यान् न पालस् तत्र किल्बिषी ॥ २३६ ॥  
 
 
- 8.1.12.2. Damage to Crops
- \[O\]  edn 706-708,  \[O\]  tr. 180
-8.237a dhanuḥśataṃ parīhāro grāmasya syāt samantataḥ |  
-8.237c śamyāpātās trayo vā-api triguṇo nagarasya tu || 237 ||  
+ ८।१।१२।२। दमगे तो च्रोप्स्
+ \[ओ\]  एद्न् ७०६-७०८,  \[ओ\]  त्र्। १८०
+८।२३७अ धनुःशतं परीहारो ग्रामस्य स्यात् समन्ततः ।  
+८।२३७च् शम्यापातास् त्रयो वा-अपि त्रिगुणो नगरस्य तु ॥ २३७ ॥  
 
 
-8.238a tatra-aparivṛtaṃ dhānyaṃ vihiṃsyuḥ paśavo yadi |  
-8.238c na tatra praṇayed daṇḍaṃ nṛpatiḥ paśurakṣiṇām || 238 ||  
+८।२३८अ तत्र-अपरिवृतं धान्यं विहिंस्युः पशवो यदि ।  
+८।२३८च् न तत्र प्रणयेद् दण्डं नृपतिः पशुरक्षिणाम् ॥ २३८ ॥  
 
 
-8.239a vṛtiṃ tatra prakurvīta yām uṣtro na vilokayet |  
-8.239c chidraṃ ca vārayet sarvaṃ śva.sūkaramukhānugam || 239 ||  
+८।२३९अ वृतिं तत्र प्रकुर्वीत याम् उष्त्रो न विलोकयेत् ।  
+८।२३९च् छिद्रं च वारयेत् सर्वं श्व।सूकरमुखानुगम् ॥ २३९ ॥  
 
 
-8.240a pathi kṣetre parivṛte grāmāntīye 'tha vā punaḥ |  
-8.240c sa.pālaḥ śatadaṇḍa.arho vipālān vārayet paśūn || 240 ||  
+८।२४०अ पथि क्षेत्रे परिवृते ग्रामान्तीये ऽथ वा पुनः ।  
+८।२४०च् स।पालः शतदण्ड।अर्हो विपालान् वारयेत् पशून् ॥ २४० ॥  
 
 
-8.241a kṣetreṣv anyeṣu tu paśuḥ sa.pādaṃ paṇam arhati |  
-8.241c sarvatra tu sado deyaḥ kṣetrikasya-iti dhāraṇā || 241 ||  
+८।२४१अ क्षेत्रेष्व् अन्येषु तु पशुः स।पादं पणम् अर्हति ।  
+८।२४१च् सर्वत्र तु सदो देयः क्षेत्रिकस्य-इति धारणा ॥ २४१ ॥  
 
 
-8.242a a.nirdaśāhāṃ gāṃ sūtāṃ vṛṣān devapaśūṃs tathā |  
-8.242c sa.pālān vā vi.pālān vā na daṇḍyān manur abravīt || 242 ||  
+८।२४२अ अ।निर्दशाहां गां सूतां वृषान् देवपशूंस् तथा ।  
+८।२४२च् स।पालान् वा वि।पालान् वा न दण्ड्यान् मनुर् अब्रवीत् ॥ २४२ ॥  
 
 
-8.243a kṣetriyasya-atyaye daṇḍo bhāgād daśaguṇo bhavet | 8.243av/  \[M\] : “kṣetrikasya-atyaye”  
-8.243c tato 'rdhadaṇḍo bhṛtyānām ajñānāt kṣetrikasya tu || 243 ||  
+८।२४३अ क्षेत्रियस्य-अत्यये दण्डो भागाद् दशगुणो भवेत् । ८।२४३अव्।  \[म्\] : “क्षेत्रिकस्य-अत्यये”  
+८।२४३च् ततो ऽर्धदण्डो भृत्यानाम् अज्ञानात् क्षेत्रिकस्य तु ॥ २४३ ॥  
 
 
-8.244a etad vidhānam ātiṣṭhed dhārmikaḥ pṛthivīpatiḥ |  
-8.244c svāmināṃ ca paśūnāṃ ca pālānāṃ ca vyatikrame || 244 ||  
+८।२४४अ एतद् विधानम् आतिष्ठेद् धार्मिकः पृथिवीपतिः ।  
+८।२४४च् स्वामिनां च पशूनां च पालानां च व्यतिक्रमे ॥ २४४ ॥  
 
 
-# 8.1.13. Grounds for Litigation-X Boundary Disputes
- \[O\]  edn 708-712,  \[O\]  tr. 180-181
-8.245a sīmāṃ prati samutpanne vivāde grāmayor dvayoḥ |  
-8.245c jyeṣṭhe māsi nayet sīmāṃ su.prakāśeṣu setuṣu || 245 ||  
+# ८।१।१३। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-X बोउन्दर्य् दिस्पुतेस्
+ \[ओ\]  एद्न् ७०८-७१२,  \[ओ\]  त्र्। १८०-१८१
+८।२४५अ सीमां प्रति समुत्पन्ने विवादे ग्रामयोर् द्वयोः ।  
+८।२४५च् ज्येष्ठे मासि नयेत् सीमां सु।प्रकाशेषु सेतुषु ॥ २४५ ॥  
 
 
- 8.1.13.1. Boundary Markers
- \[O\]  edn 708-709,  \[O\]  tr. 180-181
-8.246a sīṃāvṛkṣāṃś ca kurvīta nyagrodha.aśvattha.kiṃśukān |  
-8.246c śālmalīn sālatālāṃś ca kṣīriṇaś ca-eva pādapān || 246 ||  
+ ८।१।१३।१। बोउन्दर्य् मर्केर्स्
+ \[ओ\]  एद्न् ७०८-७०९,  \[ओ\]  त्र्। १८०-१८१
+८।२४६अ सींआवृक्षांश् च कुर्वीत न्यग्रोध।अश्वत्थ।किंशुकान् ।  
+८।२४६च् शाल्मलीन् सालतालांश् च क्षीरिणश् च-एव पादपान् ॥ २४६ ॥  
 
 
-8.247a gulmān veṇūṃś ca vividhān śamī.vallī.sthalāni ca |  
-8.247c śarān kubjakagulmāṃś ca tathā sīmā na naśyati || 247 ||  
+८।२४७अ गुल्मान् वेणूंश् च विविधान् शमी।वल्ली।स्थलानि च ।  
+८।२४७च् शरान् कुब्जकगुल्मांश् च तथा सीमा न नश्यति ॥ २४७ ॥  
 
 
-8.248a[M250a] taḍāgāny udapānāni vāpyaḥ prasravaṇāni ca |  
-8.248c[M250c] sīmāsandhiṣu kāryāṇi devatāyatanāni ca || 248 ||  
+८।२४८अ[म्२५०अ] तडागान्य् उदपानानि वाप्यः प्रस्रवणानि च ।  
+८।२४८च्[म्२५०च्] सीमासन्धिषु कार्याणि देवतायतनानि च ॥ २४८ ॥  
 
 
-8.249a upachannāni cānyāni sīmāliṅgāni kārayet |  
-8.249c sīmājñāne nṛṇāṃ vīkṣya nityaṃ loke viparyayam || 249 ||  
+८।२४९अ उपछन्नानि चान्यानि सीमालिङ्गानि कारयेत् ।  
+८।२४९च् सीमाज्ञाने नृणां वीक्ष्य नित्यं लोके विपर्ययम् ॥ २४९ ॥  
 
 
-8.250a[M248a] aśmano 'sthīni govālāṃs tuṣān bhasma kapālikāḥ |  
-8.250c[M248c] karīṣam iṣṭakā.aṅgārāṃś-śarkarā vālukās tathā || 250 ||  
+८।२५०अ[म्२४८अ] अश्मनो ऽस्थीनि गोवालांस् तुषान् भस्म कपालिकाः ।  
+८।२५०च्[म्२४८च्] करीषम् इष्टका।अङ्गारांश्-शर्करा वालुकास् तथा ॥ २५० ॥  
 
 
-8.251a yāni ca-evamprakārāṇi kālād bhūmir na bhakṣayet |  
-8.251c tāni sandhiṣu sīmāyām a.prakāśāni kārayet || 251 || 8.251cv/  \[M\] : “sīmāyā”  
+८।२५१अ यानि च-एवम्प्रकाराणि कालाद् भूमिर् न भक्षयेत् ।  
+८।२५१च् तानि सन्धिषु सीमायाम् अ।प्रकाशानि कारयेत् ॥ २५१ ॥ ८।२५१च्व्।  \[म्\] : “सीमाया”  
 
 
- 8.1.13.2. Settling Boundary Disputes
- \[O\]  edn 709-712,  \[O\]  tr. 181
-8.252a etair liṅgair nayet sīmāṃ rājā vivadamānayoḥ |  
-8.252c pūrvabhuktyā ca satatam udakasya-āgamena ca || 252 ||  
+ ८।१।१३।२। सेत्त्लिन्ग् बोउन्दर्य् दिस्पुतेस्
+ \[ओ\]  एद्न् ७०९-७१२,  \[ओ\]  त्र्। १८१
+८।२५२अ एतैर् लिङ्गैर् नयेत् सीमां राजा विवदमानयोः ।  
+८।२५२च् पूर्वभुक्त्या च सततम् उदकस्य-आगमेन च ॥ २५२ ॥  
 
 
-8.253a yadi sṃśaya eva syāt-liṅgānām api darśane |  
-8.253c sākṣipratyaya eva syāt sīmāvādavinirṇayaḥ || 253 || 8.253cv/  \[M\] : “sīmāvādaviniścayaḥ”  
+८।२५३अ यदि स्ंशय एव स्यात्-लिङ्गानाम् अपि दर्शने ।  
+८।२५३च् साक्षिप्रत्यय एव स्यात् सीमावादविनिर्णयः ॥ २५३ ॥ ८।२५३च्व्।  \[म्\] : “सीमावादविनिश्चयः”  
 
 
-8.254a grāmīyaka.kulānāṃ ca samakṣaṃ sīmni sākṣiṇaḥ | 8.254av/  \[M\] : “grāmeyaka.”  
-8.254c praṣṭavyāḥ sīmaliṅgāni tayoś ca-eva vivādinoḥ || 254 || 8.254cv/  \[M\] : “sīmāliṅgāni”  
+८।२५४अ ग्रामीयक।कुलानां च समक्षं सीम्नि साक्षिणः । ८।२५४अव्।  \[म्\] : “ग्रामेयक।”  
+८।२५४च् प्रष्टव्याः सीमलिङ्गानि तयोश् च-एव विवादिनोः ॥ २५४ ॥ ८।२५४च्व्।  \[म्\] : “सीमालिङ्गानि”  
 
 
-8.255a te pṛṣtās tu yathā brūyuḥ samastāḥ sīmni niścayam |  
-8.255c nibadhnīyāt tathā sīmāṃ sarvāṃs tāṃś ca-eva nāmataḥ || 255 ||  
+८।२५५अ ते पृष्तास् तु यथा ब्रूयुः समस्ताः सीम्नि निश्चयम् ।  
+८।२५५च् निबध्नीयात् तथा सीमां सर्वांस् तांश् च-एव नामतः ॥ २५५ ॥  
 
 
-8.256a śirobhis te gṛhītvā-urvīṃ sragviṇo rakta.vāsasaḥ |  
-8.256c sukṛtaiḥ śāpithāḥ svaiḥ svair nayeyus te samañjasam || 256 ||  
+८।२५६अ शिरोभिस् ते गृहीत्वा-उर्वीं स्रग्विणो रक्त।वाससः ।  
+८।२५६च् सुकृतैः शापिथाः स्वैः स्वैर् नयेयुस् ते समञ्जसम् ॥ २५६ ॥  
 
 
-8.257a yathā.uktena nayantas te pūyante satyasākṣiṇaḥ |  
-8.257c viparītaṃ nayantas tu dāpyāḥ syur dviśataṃ damam || 257 ||  
+८।२५७अ यथा।उक्तेन नयन्तस् ते पूयन्ते सत्यसाक्षिणः ।  
+८।२५७च् विपरीतं नयन्तस् तु दाप्याः स्युर् द्विशतं दमम् ॥ २५७ ॥  
 
 
-8.258a sākṣyabhāve tu catvāro grāmāḥ sāmantavāsinaḥ | 8.258av/  \[M\] : “grāmasīmāntavāsinaḥ”  
-8.258c sīmāvinirṇayaṃ kuryuḥ prayatā rājasannidhau || 258 ||  
+८।२५८अ साक्ष्यभावे तु चत्वारो ग्रामाः सामन्तवासिनः । ८।२५८अव्।  \[म्\] : “ग्रामसीमान्तवासिनः”  
+८।२५८च् सीमाविनिर्णयं कुर्युः प्रयता राजसन्निधौ ॥ २५८ ॥  
 
 
-8.259a sāmantānām abhāve tu maulānāṃ sīmni sākṣiṇām |  
-8.259c imān apy anuyuñjīta puruṣān vana.gocarān || 259 ||  
+८।२५९अ सामन्तानाम् अभावे तु मौलानां सीम्नि साक्षिणाम् ।  
+८।२५९च् इमान् अप्य् अनुयुञ्जीत पुरुषान् वन।गोचरान् ॥ २५९ ॥  
 
 
-8.260a vyādhān-śākunikān gopān kaivartān mūlakhānakān |  
-8.260c vyālagrāhān uñchavṛttīn anyāṃś ca vanacāriṇaḥ || 260 ||  
+८।२६०अ व्याधान्-शाकुनिकान् गोपान् कैवर्तान् मूलखानकान् ।  
+८।२६०च् व्यालग्राहान् उञ्छवृत्तीन् अन्यांश् च वनचारिणः ॥ २६० ॥  
 
 
-8.261a te pṛṣṭās tu yathā brūyuḥ sīmāsandhiṣu lakṣaṇam |  
-8.261c tat tathā sthāpayed rājā dharmeṇa grāmayor dvayoḥ || 261 ||  
+८।२६१अ ते पृष्टास् तु यथा ब्रूयुः सीमासन्धिषु लक्षणम् ।  
+८।२६१च् तत् तथा स्थापयेद् राजा धर्मेण ग्रामयोर् द्वयोः ॥ २६१ ॥  
 
 
-8.262a kṣetra.kūpa.taḍāgānām ārāmasya gṛhasya ca |  
-8.262c sāmantapratyayo jñeyaḥ sīmāsetuvinirṇayaḥ || 262 ||  
+८।२६२अ क्षेत्र।कूप।तडागानाम् आरामस्य गृहस्य च ।  
+८।२६२च् सामन्तप्रत्ययो ज्ञेयः सीमासेतुविनिर्णयः ॥ २६२ ॥  
 
 
-8.263a sāmantāś cet-mṛṣā brūyuḥ setau vivādatāṃ nṛṇām |  
-8.263c sarve pṛthak pṛthag daṇḍyā rājñā madhyamasāhasam || 263 ||  
+८।२६३अ सामन्ताश् चेत्-मृषा ब्रूयुः सेतौ विवादतां नृणाम् ।  
+८।२६३च् सर्वे पृथक् पृथग् दण्ड्या राज्ञा मध्यमसाहसम् ॥ २६३ ॥  
 
 
-8.264a gṛhaṃ taḍāgam ārāmaṃ kṣetraṃ vā bhīṣayā haran |  
-8.264c śatāni pañca daṇḍyaḥ syād ajñānād dviśato damaḥ || 264 ||  
+८।२६४अ गृहं तडागम् आरामं क्षेत्रं वा भीषया हरन् ।  
+८।२६४च् शतानि पञ्च दण्ड्यः स्याद् अज्ञानाद् द्विशतो दमः ॥ २६४ ॥  
 
 
-8.265a sīmāyām a.viṣahyāyāṃ svayaṃ rājā-eva dharmavit |  
-8.265c pradiśed bhūmim ekeṣām upakārād iti sthitiḥ || 265 ||  
+८।२६५अ सीमायाम् अ।विषह्यायां स्वयं राजा-एव धर्मवित् ।  
+८।२६५च् प्रदिशेद् भूमिम् एकेषाम् उपकाराद् इति स्थितिः ॥ २६५ ॥  
 
 
-8.266a eṣo 'khilena-abhihito dharmaḥ sīmāvinirṇaye |  
-8.266c ata ūrdhvaṃ pravakṣyāmi vākpāruṣyavinirṇayam || 266 ||  
+८।२६६अ एषो ऽखिलेन-अभिहितो धर्मः सीमाविनिर्णये ।  
+८।२६६च् अत ऊर्ध्वं प्रवक्ष्यामि वाक्पारुष्यविनिर्णयम् ॥ २६६ ॥  
 
 
-# 8.1.14. Grounds for Litigation-XI Verbal Assault
- \[O\]  edn 712-715,  \[O\]  tr. 181-182
-8.267a śataṃ brāhmaṇam ākruśya kṣatriyo daṇḍam arhati |  
-8.267c vaiśyo 'py ardhaśataṃ dve vā śūdras tu vadham arhati || 267 ||  
+# ८।१।१४। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-Xइ वेर्बल् अस्सौल्त्
+ \[ओ\]  एद्न् ७१२-७१५,  \[ओ\]  त्र्। १८१-१८२
+८।२६७अ शतं ब्राह्मणम् आक्रुश्य क्षत्रियो दण्डम् अर्हति ।  
+८।२६७च् वैश्यो ऽप्य् अर्धशतं द्वे वा शूद्रस् तु वधम् अर्हति ॥ २६७ ॥  
 
 
-8.268a pañcāśad brāhmaṇo daṇḍyaḥ kṣatriyasya-abhiśaṃsane |  
-8.268c vaiśye syād ardhapañcāśat-śūdre dvādaśako damaḥ || 268 ||  
+८।२६८अ पञ्चाशद् ब्राह्मणो दण्ड्यः क्षत्रियस्य-अभिशंसने ।  
+८।२६८च् वैश्ये स्याद् अर्धपञ्चाशत्-शूद्रे द्वादशको दमः ॥ २६८ ॥  
 
 
-8.269a samavarṇe dvijātīnāṃ dvādaśa-eva vyatikrame |  
-8.269c vādeṣv a.vacanīyeṣu tad eva dviguṇaṃ bhavet || 269 ||  
+८।२६९अ समवर्णे द्विजातीनां द्वादश-एव व्यतिक्रमे ।  
+८।२६९च् वादेष्व् अ।वचनीयेषु तद् एव द्विगुणं भवेत् ॥ २६९ ॥  
 
 
-8.270a ekajātir dvijātīṃs tu vācā dāruṇayā kṣipan |  
-8.270c jihvāyāḥ prāpnuyāc chedaṃ jaghanya.prabhavo hi saḥ || 270 ||  
+८।२७०अ एकजातिर् द्विजातींस् तु वाचा दारुणया क्षिपन् ।  
+८।२७०च् जिह्वायाः प्राप्नुयाच् छेदं जघन्य।प्रभवो हि सः ॥ २७० ॥  
 
 
-8.271a nāma.jātigrahaṃ tv eṣām abhidroheṇa kurvataḥ |  
-8.271c nikṣepyo 'yomayaḥ śaṅkur jvalann āsye daśāṅgulaḥ || 271 ||  
+८।२७१अ नाम।जातिग्रहं त्व् एषाम् अभिद्रोहेण कुर्वतः ।  
+८।२७१च् निक्षेप्यो ऽयोमयः शङ्कुर् ज्वलन्न् आस्ये दशाङ्गुलः ॥ २७१ ॥  
 
 
-8.272a dharma.upadeśaṃ darpeṇa viprāṇām asya kurvataḥ |  
-8.272c taptam āsecayet tailaṃ vaktre śrotre ca pārthivaḥ || 272 || 8.272cv/  \[M\] : “śrautre”  
+८।२७२अ धर्म।उपदेशं दर्पेण विप्राणाम् अस्य कुर्वतः ।  
+८।२७२च् तप्तम् आसेचयेत् तैलं वक्त्रे श्रोत्रे च पार्थिवः ॥ २७२ ॥ ८।२७२च्व्।  \[म्\] : “श्रौत्रे”  
 
 
-8.273a śrutaṃ deśaṃ ca jātiṃ ca karma śarīram eva ca |  
-8.273c vitathena bruvan darpād dāpyaḥ syād dviśataṃ damam || 273 ||  
+८।२७३अ श्रुतं देशं च जातिं च कर्म शरीरम् एव च ।  
+८।२७३च् वितथेन ब्रुवन् दर्पाद् दाप्यः स्याद् द्विशतं दमम् ॥ २७३ ॥  
 
 
-8.274a kāṇaṃ vā-apy atha vā khañjam anyaṃ vā-api tathāvidham |  
-8.274c tathyena-api bruvan dāpyo daṇḍaṃ kārṣāpaṇa.avaram || 274 ||  
+८।२७४अ काणं वा-अप्य् अथ वा खञ्जम् अन्यं वा-अपि तथाविधम् ।  
+८।२७४च् तथ्येन-अपि ब्रुवन् दाप्यो दण्डं कार्षापण।अवरम् ॥ २७४ ॥  
 
 
-8.275a mātaraṃ pitaraṃ jāyāṃ bhrātaraṃ tanayaṃ gurum |  
-8.275c ākṣārayan-śataṃ dāpyaḥ panthānaṃ ca-adadad guroḥ || 275 ||  
+८।२७५अ मातरं पितरं जायां भ्रातरं तनयं गुरुम् ।  
+८।२७५च् आक्षारयन्-शतं दाप्यः पन्थानं च-अददद् गुरोः ॥ २७५ ॥  
 
 
-8.276a brāhmaṇa.kṣatriyābhyāṃ tu daṇḍaḥ kāryo vijānatā |  
-8.276c brāhmaṇe sāhasaḥ pūrvaḥ kṣatriye tv eva madhyamaḥ || 276 ||  
+८।२७६अ ब्राह्मण।क्षत्रियाभ्यां तु दण्डः कार्यो विजानता ।  
+८।२७६च् ब्राह्मणे साहसः पूर्वः क्षत्रिये त्व् एव मध्यमः ॥ २७६ ॥  
 
 
-8.277a viś.śūdrayor evam eva svajātiṃ prati tattvataḥ |  
-8.277c cheda.varjaṃ praṇayanaṃ daṇḍasya-iti viniścayaḥ || 277 ||  
+८।२७७अ विश्।शूद्रयोर् एवम् एव स्वजातिं प्रति तत्त्वतः ।  
+८।२७७च् छेद।वर्जं प्रणयनं दण्डस्य-इति विनिश्चयः ॥ २७७ ॥  
 
 
-8.278a eṣa daṇḍavidhiḥ prokto vākpāruṣyasya tattvataḥ |  
-8.278c ata ūrdhvaṃ pravakṣyāmi daṇḍapāruṣyanirṇayam || 278 ||  
+८।२७८अ एष दण्डविधिः प्रोक्तो वाक्पारुष्यस्य तत्त्वतः ।  
+८।२७८च् अत ऊर्ध्वं प्रवक्ष्यामि दण्डपारुष्यनिर्णयम् ॥ २७८ ॥  
 
 
-# 8.1.15. Grounds for Litigation-XII Physical Assault
- \[O\]  edn 715-720,  \[O\]  tr. 182-183
- 8.1.15.1. Personal Injury
- \[O\]  edn 715-717,  \[O\]  tr. 182
-8.279a yena kena cid aṅgena hiṃsyāc cet-śreṣṭham antyajaḥ |  
-8.279c chettavyaṃ tad tad eva-asya tan manor anuśāsanam || 279 ||  
+# ८।१।१५। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-Xइइ फ्य्सिचल् अस्सौल्त्
+ \[ओ\]  एद्न् ७१५-७२०,  \[ओ\]  त्र्। १८२-१८३
+ ८।१।१५।१। पेर्सोनल् इन्जुर्य्
+ \[ओ\]  एद्न् ७१५-७१७,  \[ओ\]  त्र्। १८२
+८।२७९अ येन केन चिद् अङ्गेन हिंस्याच् चेत्-श्रेष्ठम् अन्त्यजः ।  
+८।२७९च् छेत्तव्यं तद् तद् एव-अस्य तन् मनोर् अनुशासनम् ॥ २७९ ॥  
 
 
-8.280a pāṇim udyamya daṇḍaṃ vā pāṇicchedanam arhati |  
-8.280c pādena praharan kopāt pādacchedanam arhati || 280 ||  
+८।२८०अ पाणिम् उद्यम्य दण्डं वा पाणिच्छेदनम् अर्हति ।  
+८।२८०च् पादेन प्रहरन् कोपात् पादच्छेदनम् अर्हति ॥ २८० ॥  
 
 
-8.281a sahāsanam abhiprepsur utkṛṣṭasya-apakṛṣṭajaḥ |  
-8.281c kaṭyāṃ kṛta.aṅko nirvāsyaḥ sphicaṃ vā-asya-avakartayet || 281 ||  
+८।२८१अ सहासनम् अभिप्रेप्सुर् उत्कृष्टस्य-अपकृष्टजः ।  
+८।२८१च् कट्यां कृत।अङ्को निर्वास्यः स्फिचं वा-अस्य-अवकर्तयेत् ॥ २८१ ॥  
 
 
-8.282a avaniṣṭhīvato darpād dvāv oṣṭhau chedayen nṛpaḥ |  
-8.282c avamūtrayato meḍhram avaśardhayato gudam || 282 ||  
+८।२८२अ अवनिष्ठीवतो दर्पाद् द्वाव् ओष्ठौ छेदयेन् नृपः ।  
+८।२८२च् अवमूत्रयतो मेढ्रम् अवशर्धयतो गुदम् ॥ २८२ ॥  
 
 
-8.283a keśeṣu gṛhṇato hastau chedayed avicārayan |  
-8.283c pādayor dāḍhikāyāṃ ca grīvāyāṃ vṛṣaṇeṣu ca || 283 ||  
+८।२८३अ केशेषु गृह्णतो हस्तौ छेदयेद् अविचारयन् ।  
+८।२८३च् पादयोर् दाढिकायां च ग्रीवायां वृषणेषु च ॥ २८३ ॥  
 
 
-8.284a tvagbhedakaḥ śataṃ daṇḍyo lohitasya ca darśakaḥ |  
-8.284c māṃsabhettā tu ṣaṭ.niṣkān pravāsyas tv asthibhedakaḥ || 284 ||  
+८।२८४अ त्वग्भेदकः शतं दण्ड्यो लोहितस्य च दर्शकः ।  
+८।२८४च् मांसभेत्ता तु षट्।निष्कान् प्रवास्यस् त्व् अस्थिभेदकः ॥ २८४ ॥  
 
 
-8.285a vanaspatīnāṃ sarveṣām upabhogo yathā yathā |  
-8.285c yathā tathā damaḥ kāryo hiṃsāyām iti dhāraṇā || 285 ||  
+८।२८५अ वनस्पतीनां सर्वेषाम् उपभोगो यथा यथा ।  
+८।२८५च् यथा तथा दमः कार्यो हिंसायाम् इति धारणा ॥ २८५ ॥  
 
 
-8.286a manuṣyāṇāṃ paśūnāṃ ca duḥkhāya prahṛte sati |  
-8.286c yathā yathā mahad duḥkhaṃ daṇḍaṃ kuryāt tathā tathā || 286 ||  
+८।२८६अ मनुष्याणां पशूनां च दुःखाय प्रहृते सति ।  
+८।२८६च् यथा यथा महद् दुःखं दण्डं कुर्यात् तथा तथा ॥ २८६ ॥  
 
 
-8.287a aṅgāvapīḍanāyāṃ ca vraṇa.śonitayos tathā | 8.287av/  \[M\] : “prāṇa.śonitayos”  
-8.287c samutthānavyayaṃ dāpyaḥ sarvadaṇḍam atha-api vā || 287 ||  
+८।२८७अ अङ्गावपीडनायां च व्रण।शोनितयोस् तथा । ८।२८७अव्।  \[म्\] : “प्राण।शोनितयोस्”  
+८।२८७च् समुत्थानव्ययं दाप्यः सर्वदण्डम् अथ-अपि वा ॥ २८७ ॥  
 
 
- 8.1.15.2. Damage to Property
- \[O\]  edn 717,  \[O\]  tr. 182-183
-8.288a dravyāṇi hiṃsyād yo yasya jñānato 'jñānato 'pi vā |  
-8.288c sa tasya-utpādayet tuṣṭiṃ rājñe dadyāc ca tatsamam || 288 ||  
+ ८।१।१५।२। दमगे तो प्रोपेर्त्य्
+ \[ओ\]  एद्न् ७१७,  \[ओ\]  त्र्। १८२-१८३
+८।२८८अ द्रव्याणि हिंस्याद् यो यस्य ज्ञानतो ऽज्ञानतो ऽपि वा ।  
+८।२८८च् स तस्य-उत्पादयेत् तुष्टिं राज्ञे दद्याच् च तत्समम् ॥ २८८ ॥  
 
 
-8.289a carma.cārmikabhāṇḍeṣu kāṣṭha.loṣṭamayeṣu |  
-8.289c mūlyāt pañcaguṇo daṇḍaḥ puṣpa.mūla.phaleṣu ca || 289 ||  
+८।२८९अ चर्म।चार्मिकभाण्डेषु काष्ठ।लोष्टमयेषु ।  
+८।२८९च् मूल्यात् पञ्चगुणो दण्डः पुष्प।मूल।फलेषु च ॥ २८९ ॥  
 
 
- 8.1.15.3. Injuries Caused by Vehicles
- \[O\]  edn 717-719,  \[O\]  tr. 183
-8.290a yānasya ca-eva yātuś ca yānasvāmina eva ca |  
-8.290c daśātivartanāny āhuḥ śeṣe daṇḍo vidhīyate || 290 ||  
+ ८।१।१५।३। इन्जुरिएस् चौसेद् ब्य् वेहिच्लेस्
+ \[ओ\]  एद्न् ७१७-७१९,  \[ओ\]  त्र्। १८३
+८।२९०अ यानस्य च-एव यातुश् च यानस्वामिन एव च ।  
+८।२९०च् दशातिवर्तनान्य् आहुः शेषे दण्डो विधीयते ॥ २९० ॥  
 
 
-8.291a chinna.nāsye bhagna.yuge tiryak.pratimukha.āgate |  
-8.291c akṣa.bhaṅge ca yānasya cakra.bhaṅge tathā-eva ca || 291 ||  
+८।२९१अ छिन्न।नास्ये भग्न।युगे तिर्यक्।प्रतिमुख।आगते ।  
+८।२९१च् अक्ष।भङ्गे च यानस्य चक्र।भङ्गे तथा-एव च ॥ २९१ ॥  
 
 
-8.292a chedane ca-eva yantrāṇāṃ yoktra.raśmyos tathā-eva ca |  
-8.292c ākrande ca-apy apaihi-iti na daṇḍaṃ manur abravīt || 292 ||  
+८।२९२अ छेदने च-एव यन्त्राणां योक्त्र।रश्म्योस् तथा-एव च ।  
+८।२९२च् आक्रन्दे च-अप्य् अपैहि-इति न दण्डं मनुर् अब्रवीत् ॥ २९२ ॥  
 
 
-8.293a yatra-apavartate yugyaṃ vaiguṇyāt prājakasya tu |  
-8.293c tatra svāmī bhaved daṇḍyo hiṃsāyāṃ dviśataṃ damam || 293 ||  
+८।२९३अ यत्र-अपवर्तते युग्यं वैगुण्यात् प्राजकस्य तु ।  
+८।२९३च् तत्र स्वामी भवेद् दण्ड्यो हिंसायां द्विशतं दमम् ॥ २९३ ॥  
 
 
-8.294a prājakaś ced bhaved āptaḥ prājako daṇḍam arhati |  
-8.294c yugyasthāḥ prājake 'nāpte sarve daṇḍyāḥ śataṃ śatam || 294 ||  
+८।२९४अ प्राजकश् चेद् भवेद् आप्तः प्राजको दण्डम् अर्हति ।  
+८।२९४च् युग्यस्थाः प्राजके ऽनाप्ते सर्वे दण्ड्याः शतं शतम् ॥ २९४ ॥  
 
 
-8.295a sa cet tu pathi saṃruddhaḥ paśubhir vā rathena vā |  
-8.295c pramāpayet prāṇabhṛtas tatra daṇḍo 'vicāritaḥ || 295 ||  
+८।२९५अ स चेत् तु पथि संरुद्धः पशुभिर् वा रथेन वा ।  
+८।२९५च् प्रमापयेत् प्राणभृतस् तत्र दण्डो ऽविचारितः ॥ २९५ ॥  
 
 
-8.296a manuṣyamāraṇe kṣipraṃ cauravat kilbiṣaṃ bhavet |  
-8.296c prāṇabhṛtsu mahatsv ardhaṃ go.gaja.uṣṭra.hayādiṣu || 296 ||  
+८।२९६अ मनुष्यमारणे क्षिप्रं चौरवत् किल्बिषं भवेत् ।  
+८।२९६च् प्राणभृत्सु महत्स्व् अर्धं गो।गज।उष्ट्र।हयादिषु ॥ २९६ ॥  
 
 
-8.297a kṣudrakāṇāṃ paśūnāṃ tu hiṃsāyāṃ dviśato damaḥ |  
-8.297c pañcāśat tu bhaved daṇḍaḥ śubheṣu mṛgapakṣiṣu || 297 ||  
+८।२९७अ क्षुद्रकाणां पशूनां तु हिंसायां द्विशतो दमः ।  
+८।२९७च् पञ्चाशत् तु भवेद् दण्डः शुभेषु मृगपक्षिषु ॥ २९७ ॥  
 
 
-8.298a gardhabha.aja.āvikānāṃ tu daṇḍaḥ syāt pañcamāṣikaḥ | 8.298av/  \[M\] : “pāñcamāṣikaḥ”  
-8.298c māṣikas tu bhaved daṇḍaḥ śva.sūkaranipātane || 298 ||  
+८।२९८अ गर्धभ।अज।आविकानां तु दण्डः स्यात् पञ्चमाषिकः । ८।२९८अव्।  \[म्\] : “पाञ्चमाषिकः”  
+८।२९८च् माषिकस् तु भवेद् दण्डः श्व।सूकरनिपातने ॥ २९८ ॥  
 
 
- 8.1.15.4. Corporal Punishment
- \[O\]  edn 719-720,  \[O\]  tr. 183
-8.299a bhāryā putraś ca dāsaś ca preṣyo bhrātrā ca sa.udaraḥ |  
-8.299c prāpta.aparādhās tāḍyāḥ syū rajjvā veṇudalena vā || 299 ||  
+ ८।१।१५।४। चोर्पोरल् पुनिस्ह्मेन्त्
+ \[ओ\]  एद्न् ७१९-७२०,  \[ओ\]  त्र्। १८३
+८।२९९अ भार्या पुत्रश् च दासश् च प्रेष्यो भ्रात्रा च स।उदरः ।  
+८।२९९च् प्राप्त।अपराधास् ताड्याः स्यू रज्ज्वा वेणुदलेन वा ॥ २९९ ॥  
 
 
-8.300a pṛṣṭhatas tu śarīrasya na-uttamāṅge kathaṃ cana |  
-8.300c ato 'nyathā tu praharan prāptaḥ syāc caurakilbiṣam || 300 ||  
+८।३००अ पृष्ठतस् तु शरीरस्य न-उत्तमाङ्गे कथं चन ।  
+८।३००च् अतो ऽन्यथा तु प्रहरन् प्राप्तः स्याच् चौरकिल्बिषम् ॥ ३०० ॥  
 
 
-8.301a eṣo 'khilena-abhihito daṇḍapāruṣyanirṇayaḥ |  
-8.301c stenasya-ataḥ pravakṣyāmi vidhiṃ daṇḍavinirṇaye || 301 ||  
+८।३०१अ एषो ऽखिलेन-अभिहितो दण्डपारुष्यनिर्णयः ।  
+८।३०१च् स्तेनस्य-अतः प्रवक्ष्यामि विधिं दण्डविनिर्णये ॥ ३०१ ॥  
 
 
-# 8.1.16. Grounds for Litigation-XIII Theft
- \[O\]  edn 720-728,  \[O\]  tr. 183-185
- 8.1.16.1. Suppression of Thieves
- \[O\]  edn 720,  \[O\]  tr. 183
-8.302a paramaṃ yatnam ātiṣṭhet stenānāṃ nigrahe nṛpaḥ |  
-8.302c stenānāṃ nigrahād asya yaśo rāṣṭraṃ ca vardhate || 302 ||  
+# ८।१।१६। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-Xइइइ थेड़्त्
+ \[ओ\]  एद्न् ७२०-७२८,  \[ओ\]  त्र्। १८३-१८५
+ ८।१।१६।१। सुप्प्रेस्सिओन् ओड़् थिएवेस्
+ \[ओ\]  एद्न् ७२०,  \[ओ\]  त्र्। १८३
+८।३०२अ परमं यत्नम् आतिष्ठेत् स्तेनानां निग्रहे नृपः ।  
+८।३०२च् स्तेनानां निग्रहाद् अस्य यशो राष्ट्रं च वर्धते ॥ ३०२ ॥  
 
 
-8.303a abhayasya hi yo dātā sa pūjyaḥ satataṃ nṛpaḥ |  
-8.303c sattraṃ hi vardhate tasya sadā-eva-abhaya.dakṣiṇam || 303 ||  
+८।३०३अ अभयस्य हि यो दाता स पूज्यः सततं नृपः ।  
+८।३०३च् सत्त्रं हि वर्धते तस्य सदा-एव-अभय।दक्षिणम् ॥ ३०३ ॥  
 
 
- 8.1.16.2. Obligation to Offer Protection
- \[O\]  edn 720-722,  \[O\]  tr. 183-184
-8.304a sarvato dharmaṣaḍbhāgo rājño bhavati rakṣataḥ |  
-8.304c adharmād api ṣaḍbhāgo bhavaty asya hy a.rakṣataḥ || 304 ||  
+ ८।१।१६।२। ओब्लिगतिओन् तो ओड़्ड़ेर् प्रोतेच्तिओन्
+ \[ओ\]  एद्न् ७२०-७२२,  \[ओ\]  त्र्। १८३-१८४
+८।३०४अ सर्वतो धर्मषड्भागो राज्ञो भवति रक्षतः ।  
+८।३०४च् अधर्माद् अपि षड्भागो भवत्य् अस्य ह्य् अ।रक्षतः ॥ ३०४ ॥  
 
 
-8.305a yad adhīte yad yajate yad dadāti yad arcati |  
-8.305c tasya ṣaḍbhāgabhāg rājā samyag bhavati rakṣaṇāt || 305 ||  
+८।३०५अ यद् अधीते यद् यजते यद् ददाति यद् अर्चति ।  
+८।३०५च् तस्य षड्भागभाग् राजा सम्यग् भवति रक्षणात् ॥ ३०५ ॥  
 
 
-8.306a rakṣan dharmeṇa bhūtāni rājā vadhyāṃś ca ghātayan |  
-8.306c yajate 'har ahar yajñaiḥ sahasraśata.dakṣiṇaiḥ || 306 ||  
+८।३०६अ रक्षन् धर्मेण भूतानि राजा वध्यांश् च घातयन् ।  
+८।३०६च् यजते ऽहर् अहर् यज्ञैः सहस्रशत।दक्षिणैः ॥ ३०६ ॥  
 
 
-8.307a yo '.rakṣan balim ādatte karaṃ śulkaṃ ca pārthivaḥ |  
-8.307c pratibhāgaṃ ca daṇḍaṃ ca sa sadyo narakaṃ vrajet || 307 ||  
+८।३०७अ यो ऽ।रक्षन् बलिम् आदत्ते करं शुल्कं च पार्थिवः ।  
+८।३०७च् प्रतिभागं च दण्डं च स सद्यो नरकं व्रजेत् ॥ ३०७ ॥  
 
 
-8.308a arakṣitāram rājānaṃ baliṣaḍbhāga.hāriṇam | 8.308av/  \[K\] : “arakṣitāraṃ attāraṃ”  
-8.308c tam āhuḥ sarvalokasya samagramala.hārakam || 308 ||  
+८।३०८अ अरक्षितारम् राजानं बलिषड्भाग।हारिणम् । ८।३०८अव्।  \[क्\] : “अरक्षितारं अत्तारं”  
+८।३०८च् तम् आहुः सर्वलोकस्य समग्रमल।हारकम् ॥ ३०८ ॥  
 
 
-8.309a anapekṣita.maryādaṃ nāstikaṃ vipralumpakam | 8.309av/  \[M\] : “anavekṣita.maryādaṃ”  
-8.309c arakṣitāram attāraṃ nṛpaṃ vidyād adho.gatim || 309 ||  
+८।३०९अ अनपेक्षित।मर्यादं नास्तिकं विप्रलुम्पकम् । ८।३०९अव्।  \[म्\] : “अनवेक्षित।मर्यादं”  
+८।३०९च् अरक्षितारम् अत्तारं नृपं विद्याद् अधो।गतिम् ॥ ३०९ ॥  
 
 
-8.310a adhārmikaṃ tribhir nyāyair nigṛhṇīyāt prayatnataḥ |  
-8.310c nirodhanena bandhena vividhena vadhena ca || 310 ||  
+८।३१०अ अधार्मिकं त्रिभिर् न्यायैर् निगृह्णीयात् प्रयत्नतः ।  
+८।३१०च् निरोधनेन बन्धेन विविधेन वधेन च ॥ ३१० ॥  
 
 
-8.311a nigraheṇa hi pāpānāṃ sādhūnāṃ saṅgraheṇa ca |  
-8.311c dvijātaya iva-ijyābhiḥ pūyante satataṃ nṛpāḥ || 311 ||  
+८।३११अ निग्रहेण हि पापानां साधूनां सङ्ग्रहेण च ।  
+८।३११च् द्विजातय इव-इज्याभिः पूयन्ते सततं नृपाः ॥ ३११ ॥  
 
 
-8.312a kṣantavyaṃ prabhuṇā nityaṃ kṣipatāṃ kāryiṇāṃ nṛṇām |  
-8.312c bāla.vṛddha.āturāṇāṃ ca kurvatā hitam ātmanaḥ || 312 ||  
+८।३१२अ क्षन्तव्यं प्रभुणा नित्यं क्षिपतां कार्यिणां नृणाम् ।  
+८।३१२च् बाल।वृद्ध।आतुराणां च कुर्वता हितम् आत्मनः ॥ ३१२ ॥  
 
 
-8.313a yaḥ kṣipto marṣayaty ārtais tena svarge mahīyate |  
-8.313c yas tv aiśvaryān na kṣamate narakaṃ tena gacchati || 313 ||  
+८।३१३अ यः क्षिप्तो मर्षयत्य् आर्तैस् तेन स्वर्गे महीयते ।  
+८।३१३च् यस् त्व् ऐश्वर्यान् न क्षमते नरकं तेन गच्छति ॥ ३१३ ॥  
 
 
- 8.1.16.3. Punishment of Thieves
- \[O\]  edn 722-728,  \[O\]  tr. 184-185
-8.314a rājā stenena gantavyo mukta.keśena dhāvatā | 8.314av/  \[M\] : “dhīmatā”  
-8.314c ācakṣāṇena tat steyam evaṅkarmā-asmi śādhi mām || 314 ||  
+ ८।१।१६।३। पुनिस्ह्मेन्त् ओड़् थिएवेस्
+ \[ओ\]  एद्न् ७२२-७२८,  \[ओ\]  त्र्। १८४-१८५
+८।३१४अ राजा स्तेनेन गन्तव्यो मुक्त।केशेन धावता । ८।३१४अव्।  \[म्\] : “धीमता”  
+८।३१४च् आचक्षाणेन तत् स्तेयम् एवङ्कर्मा-अस्मि शाधि माम् ॥ ३१४ ॥  
 
 
-8.315a skandhena-ādāya musalaṃ laguḍaṃ vā-api khādiram | 8.315av/  \[M\] : “muśalaṃ”  
-8.315c śaktiṃ ca-ubhayatas tīkṣṇām āyasaṃ daṇḍam eva vā || 315 ||  
+८।३१५अ स्कन्धेन-आदाय मुसलं लगुडं वा-अपि खादिरम् । ८।३१५अव्।  \[म्\] : “मुशलं”  
+८।३१५च् शक्तिं च-उभयतस् तीक्ष्णाम् आयसं दण्डम् एव वा ॥ ३१५ ॥  
 
 
-8.316a śāsanād vā vimokṣād vā stenaḥ steyād vimucyate |  
-8.316c a.śāsitvā tu taṃ rājā stenasya-āpnoti kilbiṣam || 316 ||  
+८।३१६अ शासनाद् वा विमोक्षाद् वा स्तेनः स्तेयाद् विमुच्यते ।  
+८।३१६च् अ।शासित्वा तु तं राजा स्तेनस्य-आप्नोति किल्बिषम् ॥ ३१६ ॥  
 
 
-8.317a annāde bhrūṇahā mārṣṭi patyau bhāryā-apacāriṇī |  
-8.317c gurau śiṣyaś ca yājyaś ca steno rājani kilbiṣam || 317 ||  
+८।३१७अ अन्नादे भ्रूणहा मार्ष्टि पत्यौ भार्या-अपचारिणी ।  
+८।३१७च् गुरौ शिष्यश् च याज्यश् च स्तेनो राजनि किल्बिषम् ॥ ३१७ ॥  
 
 
-8.318a rājabhiḥ kṛtadaṇḍās tu kṛtvā pāpāni mānavāḥ | 8.318av/  \[M\] : “rājabhir dhṛtadaṇḍās tu”  
-8.318c nir.malāḥ svargam āyānti santaḥ sukṛtino yathā || 318 ||  
+८।३१८अ राजभिः कृतदण्डास् तु कृत्वा पापानि मानवाः । ८।३१८अव्।  \[म्\] : “राजभिर् धृतदण्डास् तु”  
+८।३१८च् निर्।मलाः स्वर्गम् आयान्ति सन्तः सुकृतिनो यथा ॥ ३१८ ॥  
 
 
-8.319a yas tu rajjuṃ ghaṭaṃ kūpādd hared bhindyāc ca yaḥ prapām |  
-8.319c sa daṇḍaṃ prāpnuyān māṣaṃ tac ca tasmin samāharet || 319 ||  
+८।३१९अ यस् तु रज्जुं घटं कूपाद्द् हरेद् भिन्द्याच् च यः प्रपाम् ।  
+८।३१९च् स दण्डं प्राप्नुयान् माषं तच् च तस्मिन् समाहरेत् ॥ ३१९ ॥  
 
 
-8.320a dhānyaṃ daśabhyaḥ kumbhebhyo harato 'bhyadhikaṃ vadhaḥ |  
-8.320c śeṣe 'py ekādaśaguṇaṃ dāpyas tasya ca tad dhanam || 320 ||  
+८।३२०अ धान्यं दशभ्यः कुम्भेभ्यो हरतो ऽभ्यधिकं वधः ।  
+८।३२०च् शेषे ऽप्य् एकादशगुणं दाप्यस् तस्य च तद् धनम् ॥ ३२० ॥  
 
 
-8.321a tathā dharimameyānāṃ śatād abhyadhike vadhaḥ |  
-8.321c suvarṇa.rajatādīnām uttamānāṃ ca vāsasām || 321 ||  
+८।३२१अ तथा धरिममेयानां शताद् अभ्यधिके वधः ।  
+८।३२१च् सुवर्ण।रजतादीनाम् उत्तमानां च वाससाम् ॥ ३२१ ॥  
 
 
-8.322a pañcāśatas tv abhyadhike hastacchedanam iṣyate |  
-8.322c śeṣe tv ekādaśaguṇaṃ mūlyād daṇḍaṃ prakalpayet || 322 ||  
+८।३२२अ पञ्चाशतस् त्व् अभ्यधिके हस्तच्छेदनम् इष्यते ।  
+८।३२२च् शेषे त्व् एकादशगुणं मूल्याद् दण्डं प्रकल्पयेत् ॥ ३२२ ॥  
 
 
-8.323a puruṣāṇāṃ kulīnānāṃ nārīṇāṃ ca viśeṣataḥ |  
-8.323c mukhyānāṃ ca-eva ratnānāṃ haraṇe vadham arhati || 323 ||  
+८।३२३अ पुरुषाणां कुलीनानां नारीणां च विशेषतः ।  
+८।३२३च् मुख्यानां च-एव रत्नानां हरणे वधम् अर्हति ॥ ३२३ ॥  
 
 
-8.324a mahāpaśūnāṃ haraṇe śastrāṇām auṣadhasya ca |  
-8.324c kālam āsādya kāryaṃ ca daṇḍaṃ rājā prakalpayet || 324 ||  
+८।३२४अ महापशूनां हरणे शस्त्राणाम् औषधस्य च ।  
+८।३२४च् कालम् आसाद्य कार्यं च दण्डं राजा प्रकल्पयेत् ॥ ३२४ ॥  
 
 
-8.325a goṣu brāhmaṇasaṃsthāsu churikāyāś ca bhedane | 8.325av/  \[M\] : “kharikāyāś ca”  
-8.325c paśūnāṃ haraṇe ca-eva sadyaḥ kāryo 'rdhapādikaḥ || 325 ||  
+८।३२५अ गोषु ब्राह्मणसंस्थासु छुरिकायाश् च भेदने । ८।३२५अव्।  \[म्\] : “खरिकायाश् च”  
+८।३२५च् पशूनां हरणे च-एव सद्यः कार्यो ऽर्धपादिकः ॥ ३२५ ॥  
 
 
-8.326a sūtra.kārpāsa.kiṇvānāṃ gomayasya guḍasya ca |  
-8.326c dadhnaḥ kṣīrasya takrasya pānīyasya tṛṇasya ca || 326 ||  
+८।३२६अ सूत्र।कार्पास।किण्वानां गोमयस्य गुडस्य च ।  
+८।३२६च् दध्नः क्षीरस्य तक्रस्य पानीयस्य तृणस्य च ॥ ३२६ ॥  
 
 
-8.327a veṇuvaidalabhāṇḍānāṃ lavaṇānāṃ tathā-eva ca |  
-8.327c mṛṇmayānāṃ ca haraṇe mṛdo bhasmana eva ca || 327 ||  
+८।३२७अ वेणुवैदलभाण्डानां लवणानां तथा-एव च ।  
+८।३२७च् मृण्मयानां च हरणे मृदो भस्मन एव च ॥ ३२७ ॥  
 
 
-8.328a matsyānāṃ pakṣiṇāṃ ca-eva tailasya ca ghṛtasya ca |  
-8.328c māṃsasya madhunaś ca-eva yac ca-anyat paśu.sambhavam || 328 ||  
+८।३२८अ मत्स्यानां पक्षिणां च-एव तैलस्य च घृतस्य च ।  
+८।३२८च् मांसस्य मधुनश् च-एव यच् च-अन्यत् पशु।सम्भवम् ॥ ३२८ ॥  
 
 
-8.329a anyeṣāṃ ca-evam.ādīnāṃ madyānām odanasya ca | 8.329av/  \[M\] : “ca-evamādīnām adyānām”  
-8.329c pakvānnānāṃ ca sarveṣāṃ tanmulyād dviguṇo damaḥ || 329 ||  
+८।३२९अ अन्येषां च-एवम्।आदीनां मद्यानाम् ओदनस्य च । ८।३२९अव्।  \[म्\] : “च-एवमादीनाम् अद्यानाम्”  
+८।३२९च् पक्वान्नानां च सर्वेषां तन्मुल्याद् द्विगुणो दमः ॥ ३२९ ॥  
 
 
-8.330a puṣpeṣu harite dhānye gulma.vallī.nageṣu ca |  
-8.330c anyeṣv a.paripūteṣu daṇḍaḥ syāt pañcakṛṣṇalaḥ || 330 ||  
+८।३३०अ पुष्पेषु हरिते धान्ये गुल्म।वल्ली।नगेषु च ।  
+८।३३०च् अन्येष्व् अ।परिपूतेषु दण्डः स्यात् पञ्चकृष्णलः ॥ ३३० ॥  
 
 
-8.331a paripūteṣu dhānyeṣu śāka.mūla.phaleṣu ca |  
-8.331c niranvaye śataṃ daṇḍaḥ sānvaye 'rdhaśataṃ damaḥ || 331 ||  
+८।३३१अ परिपूतेषु धान्येषु शाक।मूल।फलेषु च ।  
+८।३३१च् निरन्वये शतं दण्डः सान्वये ऽर्धशतं दमः ॥ ३३१ ॥  
 
 
-8.332a syāt sāhasaṃ tv anvayavat prasabhaṃ karma yat kṛtam |  
-8.332c niranvayaṃ bhavet steyaṃ hṛtvā-apavyayate ca yat || 332 ||  
+८।३३२अ स्यात् साहसं त्व् अन्वयवत् प्रसभं कर्म यत् कृतम् ।  
+८।३३२च् निरन्वयं भवेत् स्तेयं हृत्वा-अपव्ययते च यत् ॥ ३३२ ॥  
 
 
-8.333a yas tv etāny upakḷptāni dravyāṇi stenayen naraḥ |  
-8.333c tam ādyaṃ daṇḍayed rājā yaś cāgniṃ corayed gṛhāt || 333 || 8.333cv/  \[M\] : “taṃ śataṃ”  
+८।३३३अ यस् त्व् एतान्य् उपकॢप्तानि द्रव्याणि स्तेनयेन् नरः ।  
+८।३३३च् तम् आद्यं दण्डयेद् राजा यश् चाग्निं चोरयेद् गृहात् ॥ ३३३ ॥ ८।३३३च्व्।  \[म्\] : “तं शतं”  
 
 
-8.334a yena yena yathāṅgena steno nṛṣu viceṣṭate |  
-8.334c tat tad eva haret tasya pratyādeśāya pārthivaḥ || 334 ||  
+८।३३४अ येन येन यथाङ्गेन स्तेनो नृषु विचेष्टते ।  
+८।३३४च् तत् तद् एव हरेत् तस्य प्रत्यादेशाय पार्थिवः ॥ ३३४ ॥  
 
 
-8.335a pitā-ācāryaḥ suhṛt-mātā bhāryā putraḥ purohitaḥ |  
-8.335c na-adaṇḍyo nāma rājño 'sti yaḥ svadharme na tiṣṭhati || 335 ||  
+८।३३५अ पिता-आचार्यः सुहृत्-माता भार्या पुत्रः पुरोहितः ।  
+८।३३५च् न-अदण्ड्यो नाम राज्ञो ऽस्ति यः स्वधर्मे न तिष्ठति ॥ ३३५ ॥  
 
 
-8.336a kārṣāpaṇaṃ bhaved daṇḍyo yatra-anyaḥ prākṛto janaḥ |  
-8.336c tatra rājā bhaved daṇḍyaḥ sahasram iti dhāraṇā || 336 ||  
+८।३३६अ कार्षापणं भवेद् दण्ड्यो यत्र-अन्यः प्राकृतो जनः ।  
+८।३३६च् तत्र राजा भवेद् दण्ड्यः सहस्रम् इति धारणा ॥ ३३६ ॥  
 
 
-8.337a aṣṭāpādyaṃ tu śūdrasya steye bhavati kilbiṣam |  
-8.337c ṣoḍaśa-eva tu vaiśyasya dvātriṃśat kṣatriyasya ca || 337 ||  
+८।३३७अ अष्टापाद्यं तु शूद्रस्य स्तेये भवति किल्बिषम् ।  
+८।३३७च् षोडश-एव तु वैश्यस्य द्वात्रिंशत् क्षत्रियस्य च ॥ ३३७ ॥  
 
 
-8.338a brāhmaṇasya catuḥṣaṣṭiḥ pūrṇaṃ vā-api śataṃ bhavet |  
-8.338c dviguṇā vā catuḥṣaṣṭis taddoṣaguṇavidd hi saḥ || 338 ||  
+८।३३८अ ब्राह्मणस्य चतुःषष्टिः पूर्णं वा-अपि शतं भवेत् ।  
+८।३३८च् द्विगुणा वा चतुःषष्टिस् तद्दोषगुणविद्द् हि सः ॥ ३३८ ॥  
 
 
-8.339a vānaspatyaṃ mūla.phalaṃ dāru-agny.arthaṃ tathā-eva ca |  
-8.339c tṛṇaṃ ca gobhyo grāsa.artham asteyaṃ manur abravīt || 339 ||  
+८।३३९अ वानस्पत्यं मूल।फलं दारु-अग्न्य्।अर्थं तथा-एव च ।  
+८।३३९च् तृणं च गोभ्यो ग्रास।अर्थम् अस्तेयं मनुर् अब्रवीत् ॥ ३३९ ॥  
 
 
-8.340a yo 'dattādāyino hastāt-lipseta brāhmaṇo dhanam |  
-8.340c yājana.adhyāpanena-api yathā stenas tathā-eva saḥ || 340 ||  
+८।३४०अ यो ऽदत्तादायिनो हस्तात्-लिप्सेत ब्राह्मणो धनम् ।  
+८।३४०च् याजन।अध्यापनेन-अपि यथा स्तेनस् तथा-एव सः ॥ ३४० ॥  
 
 
-8.341a dvijo 'dhvagaḥ kṣīṇa.vṛttir dvāv ikṣū dve ca mūlake |  
-8.341c ādadānaḥ parakṣetrāt-na daṇḍaṃ dātum arhati || 341 ||  
+८।३४१अ द्विजो ऽध्वगः क्षीण।वृत्तिर् द्वाव् इक्षू द्वे च मूलके ।  
+८।३४१च् आददानः परक्षेत्रात्-न दण्डं दातुम् अर्हति ॥ ३४१ ॥  
 
 
-8.342a a.sanditānāṃ sandātā sanditānāṃ ca mokṣakaḥ |  
-8.342c dāsa.aśva.rathahartā ca prāptaḥ syāc corakilbiṣam || 342 ||  
+८।३४२अ अ।सन्दितानां सन्दाता सन्दितानां च मोक्षकः ।  
+८।३४२च् दास।अश्व।रथहर्ता च प्राप्तः स्याच् चोरकिल्बिषम् ॥ ३४२ ॥  
 
 
-8.343a anena vidhinā rājā kurvāṇaḥ stenanigraham |  
-8.343c yaśo 'smin prāpnuyāt-loke pretya ca-anuttamaṃ sukham || 343 ||  
+८।३४३अ अनेन विधिना राजा कुर्वाणः स्तेननिग्रहम् ।  
+८।३४३च् यशो ऽस्मिन् प्राप्नुयात्-लोके प्रेत्य च-अनुत्तमं सुखम् ॥ ३४३ ॥  
 
 
-# 8.1.17. Grounds for Litigation-XIV Violence
- \[O\]  edn 728-729,  \[O\]  tr. 185-186
-8.344a aindraṃ sthānam abhiprepsur yaśaś ca-akṣayam avyayam |  
-8.344c na-upekṣeta kṣaṇam api rājā sāhasikaṃ naram || 344 ||  
+# ८।१।१७। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-Xइव् विओलेन्चे
+ \[ओ\]  एद्न् ७२८-७२९,  \[ओ\]  त्र्। १८५-१८६
+८।३४४अ ऐन्द्रं स्थानम् अभिप्रेप्सुर् यशश् च-अक्षयम् अव्ययम् ।  
+८।३४४च् न-उपेक्षेत क्षणम् अपि राजा साहसिकं नरम् ॥ ३४४ ॥  
 
 
-8.345a vāgduṣṭāt taskarāc ca-eva daṇḍena-eva ca hiṃsataḥ |  
-8.345c sāhasasya naraḥ kartā vijñeyaḥ pāpakṛttamaḥ || 345 ||  
+८।३४५अ वाग्दुष्टात् तस्कराच् च-एव दण्डेन-एव च हिंसतः ।  
+८।३४५च् साहसस्य नरः कर्ता विज्ञेयः पापकृत्तमः ॥ ३४५ ॥  
 
 
-8.346a sāhase vartamānaṃ tu yo marṣayati pārthivaḥ |  
-8.346c sa vināśaṃ vrajaty āśu vidveṣaṃ ca-adhigacchati || 346 ||  
+८।३४६अ साहसे वर्तमानं तु यो मर्षयति पार्थिवः ।  
+८।३४६च् स विनाशं व्रजत्य् आशु विद्वेषं च-अधिगच्छति ॥ ३४६ ॥  
 
 
-8.347a na mitrakāraṇād rājā vipulād vā dhanāgamāt |  
-8.347c samutsṛjet sāhasikān sarvabhūtabhayāvahān || 347 ||  
+८।३४७अ न मित्रकारणाद् राजा विपुलाद् वा धनागमात् ।  
+८।३४७च् समुत्सृजेत् साहसिकान् सर्वभूतभयावहान् ॥ ३४७ ॥  
 
 
- 8.1.17.1. Permissable Violence
- \[O\]  edn 728-729,  \[O\]  tr. 185-186
-8.348a śastraṃ dvijātibhir grāhyaṃ dharmo yatra-uparudhyate |  
-8.348c dvijātīnāṃ ca varṇānāṃ viplave kālakārite || 348 ||  
+ ८।१।१७।१। पेर्मिस्सब्ले विओलेन्चे
+ \[ओ\]  एद्न् ७२८-७२९,  \[ओ\]  त्र्। १८५-१८६
+८।३४८अ शस्त्रं द्विजातिभिर् ग्राह्यं धर्मो यत्र-उपरुध्यते ।  
+८।३४८च् द्विजातीनां च वर्णानां विप्लवे कालकारिते ॥ ३४८ ॥  
 
 
-8.349a ātmanaś ca paritrāṇe dakṣiṇānāṃ ca saṅgare |  
-8.349c strī.viprābhyupapattau ca ghnan dharmeṇa na duṣyati || 349 ||  
+८।३४९अ आत्मनश् च परित्राणे दक्षिणानां च सङ्गरे ।  
+८।३४९च् स्त्री।विप्राभ्युपपत्तौ च घ्नन् धर्मेण न दुष्यति ॥ ३४९ ॥  
 
 
-8.350a guruṃ vā bāla.vṛddhau vā brāhmaṇaṃ vā bahu.śrutam |  
-8.350c ātatāyinam āyāntaṃ hanyād eva-a.vicārayan || 350 ||  
+८।३५०अ गुरुं वा बाल।वृद्धौ वा ब्राह्मणं वा बहु।श्रुतम् ।  
+८।३५०च् आततायिनम् आयान्तं हन्याद् एव-अ।विचारयन् ॥ ३५० ॥  
 
 
-8.351a na-ātatāyivadhe doṣo hantur bhavati kaś cana |  
-8.351c prakāśaṃ vā-aprakāśaṃ vā manyus taṃ manyum ṛcchati || 351 ||  
+८।३५१अ न-आततायिवधे दोषो हन्तुर् भवति कश् चन ।  
+८।३५१च् प्रकाशं वा-अप्रकाशं वा मन्युस् तं मन्युम् ऋच्छति ॥ ३५१ ॥  
 
 
-# 8.1.18. Grounds for Litigation-XV Sexual Crimes Against Women
- \[O\]  edn 730-737,  \[O\]  tr. 186-187
- 8.1.18.1. Sexual Crimes against Married Women
- \[O\]  edn 730-732,  \[O\]  tr. 186
-8.352a paradārābhimarśeṣu pravṛttān nṝn mahīpatiḥ |  
-8.352c udvejanakarair daṇḍaiś chinnayitvā pravāsayet || 352 || 8.352cv/  \[M\] : “cihnayitvā”  
+# ८।१।१८। ग्रोउन्द्स् ड़ोर् लितिगतिओन्-Xव् सेxउअल् च्रिमेस् अगैन्स्त् Wओमेन्
+ \[ओ\]  एद्न् ७३०-७३७,  \[ओ\]  त्र्। १८६-१८७
+ ८।१।१८।१। सेxउअल् च्रिमेस् अगैन्स्त् मर्रिएद् Wओमेन्
+ \[ओ\]  एद्न् ७३०-७३२,  \[ओ\]  त्र्। १८६
+८।३५२अ परदाराभिमर्शेषु प्रवृत्तान् नॄन् महीपतिः ।  
+८।३५२च् उद्वेजनकरैर् दण्डैश् छिन्नयित्वा प्रवासयेत् ॥ ३५२ ॥ ८।३५२च्व्।  \[म्\] : “चिह्नयित्वा”  
 
 
-8.353a tat.samuttho hi lokasya jāyate varṇasaṅkaraḥ |  
-8.353c yena mūlaharo 'dharmaḥ sarvanāśāya kalpate || 353 ||  
+८।३५३अ तत्।समुत्थो हि लोकस्य जायते वर्णसङ्करः ।  
+८।३५३च् येन मूलहरो ऽधर्मः सर्वनाशाय कल्पते ॥ ३५३ ॥  
 
 
-8.354a parasya patnyā puruṣaḥ sambhāṣāṃ yojayan rahaḥ |  
-8.354c pūrvam ākṣārito doṣaiḥ prāpnuyāt pūrvasāhasam || 354 ||  
+८।३५४अ परस्य पत्न्या पुरुषः सम्भाषां योजयन् रहः ।  
+८।३५४च् पूर्वम् आक्षारितो दोषैः प्राप्नुयात् पूर्वसाहसम् ॥ ३५४ ॥  
 
 
-8.355a yas tv an.ākṣāritaḥ pūrvam abhibhāṣate kāraṇāt |  
-8.355c na doṣaṃ prāpnuyāt kiṃ cin na hi tasya vyatikramaḥ || 355 ||  
+८।३५५अ यस् त्व् अन्।आक्षारितः पूर्वम् अभिभाषते कारणात् ।  
+८।३५५च् न दोषं प्राप्नुयात् किं चिन् न हि तस्य व्यतिक्रमः ॥ ३५५ ॥  
 
 
-8.356a parastriyaṃ yo 'bhivadet tīrthe 'raṇye vane 'pi vā |  
-8.356c nadīnāṃ vā-api sambhede sa saṅgrahaṇam āpnuyāt || 356 ||  
+८।३५६अ परस्त्रियं यो ऽभिवदेत् तीर्थे ऽरण्ये वने ऽपि वा ।  
+८।३५६च् नदीनां वा-अपि सम्भेदे स सङ्ग्रहणम् आप्नुयात् ॥ ३५६ ॥  
 
 
-8.357a upacārakriyā keliḥ sparśo bhūṣaṇa.vāsasām | 8.357av/  \[M\] : “upakārakriyā”  
-8.357c saha khaṭvā-āsanaṃ ca-eva sarvaṃ saṅgrahaṇaṃ smṛtam || 357 ||  
+८।३५७अ उपचारक्रिया केलिः स्पर्शो भूषण।वाससाम् । ८।३५७अव्।  \[म्\] : “उपकारक्रिया”  
+८।३५७च् सह खट्वा-आसनं च-एव सर्वं सङ्ग्रहणं स्मृतम् ॥ ३५७ ॥  
 
 
-8.358a striyaṃ spṛśed adeśe yaḥ spṛṣṭo vā marṣayet tayā |  
-8.358c parasparasya-anumate sarvaṃ saṅgrahaṇaṃ smṛtam || 358 ||  
+८।३५८अ स्त्रियं स्पृशेद् अदेशे यः स्पृष्टो वा मर्षयेत् तया ।  
+८।३५८च् परस्परस्य-अनुमते सर्वं सङ्ग्रहणं स्मृतम् ॥ ३५८ ॥  
 
 
-8.359a abrāhmaṇaḥ saṅgrahaṇe prāṇāntaṃ daṇḍam arhati |  
-8.359c caturṇām api varṇānāṃ dārā rakṣyatamāḥ sadā || 359 ||  
+८।३५९अ अब्राह्मणः सङ्ग्रहणे प्राणान्तं दण्डम् अर्हति ।  
+८।३५९च् चतुर्णाम् अपि वर्णानां दारा रक्ष्यतमाः सदा ॥ ३५९ ॥  
 
 
-8.360a bhikṣukā bandinaś ca-eva dīkṣitāḥ kāravas tathā |  
-8.360c sambhāṣanaṃ saha strībhiḥ kuryur a.prativāritāḥ || 360 ||  
+८।३६०अ भिक्षुका बन्दिनश् च-एव दीक्षिताः कारवस् तथा ।  
+८।३६०च् सम्भाषनं सह स्त्रीभिः कुर्युर् अ।प्रतिवारिताः ॥ ३६० ॥  
 
 
-8.361a na sambhāṣāṃ parastrībhiḥ pratiṣiddhaḥ samācaret |  
-8.361c niṣiddho bhāṣamāṇas tu suvarṇaṃ daṇḍam arhati || 361 ||  
+८।३६१अ न सम्भाषां परस्त्रीभिः प्रतिषिद्धः समाचरेत् ।  
+८।३६१च् निषिद्धो भाषमाणस् तु सुवर्णं दण्डम् अर्हति ॥ ३६१ ॥  
 
 
-8.362a na-eṣa cāraṇadāreṣu vidhir na-ātma.upajīviṣu |  
-8.362c sajjayanti hi te nārīr nigūḍhāś cārayanti ca || 362 ||  
+८।३६२अ न-एष चारणदारेषु विधिर् न-आत्म।उपजीविषु ।  
+८।३६२च् सज्जयन्ति हि ते नारीर् निगूढाश् चारयन्ति च ॥ ३६२ ॥  
 
 
-8.363a kiṃ cid eva tu dāpyaḥ syāt sambhāṣāṃ tābhir ācaran |  
-8.363c praiṣyāsu ca-ekabhaktāsu rahaḥ pravrajitāsu ca || 363 || 8.363cv/  \[M\] : “preṣyāsu”  
+८।३६३अ किं चिद् एव तु दाप्यः स्यात् सम्भाषां ताभिर् आचरन् ।  
+८।३६३च् प्रैष्यासु च-एकभक्तासु रहः प्रव्रजितासु च ॥ ३६३ ॥ ८।३६३च्व्।  \[म्\] : “प्रेष्यासु”  
 
 
- 8.1.18.2. Male Sexual Assault
- \[O\]  edn 732-733,  \[O\]  tr. 186
-8.364a yo '.kāmāṃ dūṣayet kanyāṃ sa sadyo vadham arhati |  
-8.364c sa.kāmāṃ dūṣayaṃs tulyo na vadhaṃ prāpnuyān naraḥ || 364 ||  
+ ८।१।१८।२। मले सेxउअल् अस्सौल्त्
+ \[ओ\]  एद्न् ७३२-७३३,  \[ओ\]  त्र्। १८६
+८।३६४अ यो ऽ।कामां दूषयेत् कन्यां स सद्यो वधम् अर्हति ।  
+८।३६४च् स।कामां दूषयंस् तुल्यो न वधं प्राप्नुयान् नरः ॥ ३६४ ॥  
 
 
-8.365a kanyām bhajantīm utkṛṣṭaṃ na kiṃ cid api dāpayet |  
-8.365c jaghanyaṃ sevamānāṃ tu saṃyatāṃ vāsayed gṛhe || 365 ||  
+८।३६५अ कन्याम् भजन्तीम् उत्कृष्टं न किं चिद् अपि दापयेत् ।  
+८।३६५च् जघन्यं सेवमानां तु संयतां वासयेद् गृहे ॥ ३६५ ॥  
 
 
-8.366a uttamāṃ sevamānas tu jaghanyo vadham arhati |  
-8.366c śulkaṃ dadyāt sevamānaḥ samām icchet pitā yadi || 366 ||  
+८।३६६अ उत्तमां सेवमानस् तु जघन्यो वधम् अर्हति ।  
+८।३६६च् शुल्कं दद्यात् सेवमानः समाम् इच्छेत् पिता यदि ॥ ३६६ ॥  
 
 
-8.367a abhiṣahya tu yaḥ kanyāṃ kuryād darpeṇa mānavaḥ |  
-8.367c tasya-āśu kartye aṅgulyau daṇḍaṃ ca-arhati ṣaṭśatam || 367 || 8.367cv/  \[M\] : “kartyā aṅgulyo”  
+८।३६७अ अभिषह्य तु यः कन्यां कुर्याद् दर्पेण मानवः ।  
+८।३६७च् तस्य-आशु कर्त्ये अङ्गुल्यौ दण्डं च-अर्हति षट्शतम् ॥ ३६७ ॥ ८।३६७च्व्।  \[म्\] : “कर्त्या अङ्गुल्यो”  
 
 
-8.368a sa.kāmāṃ dūṣayaṃs tulyo na-aṅgulichedam āpnuyāt |  
-8.368c dviśataṃ tu damam dāpyaḥ prasaṅgavinivṛttaye || 368 ||  
+८।३६८अ स।कामां दूषयंस् तुल्यो न-अङ्गुलिछेदम् आप्नुयात् ।  
+८।३६८च् द्विशतं तु दमम् दाप्यः प्रसङ्गविनिवृत्तये ॥ ३६८ ॥  
 
 
- 8.1.18.3. Female Sexual Assault
- \[O\]  edn 733,  \[O\]  tr. 186-187
-8.369a kanyā-eva kanyāṃ yā kuryāt tasyāḥ syād dviśato damaḥ |  
-8.369c śulkaṃ ca dviguṇaṃ dadyāt-śiphāś ca-eva-āpnuyād daśa || 369 ||  
+ ८।१।१८।३। ड़ेमले सेxउअल् अस्सौल्त्
+ \[ओ\]  एद्न् ७३३,  \[ओ\]  त्र्। १८६-१८७
+८।३६९अ कन्या-एव कन्यां या कुर्यात् तस्याः स्याद् द्विशतो दमः ।  
+८।३६९च् शुल्कं च द्विगुणं दद्यात्-शिफाश् च-एव-आप्नुयाद् दश ॥ ३६९ ॥  
 
 
-8.370a yā tu kanyāṃ prakuryāt strī sā sadyo mauṇḍyam arhati |  
-8.370c aṅgulyor eva vā chedaṃ khareṇa-udvahanaṃ tathā || 370 ||  
+८।३७०अ या तु कन्यां प्रकुर्यात् स्त्री सा सद्यो मौण्ड्यम् अर्हति ।  
+८।३७०च् अङ्गुल्योर् एव वा छेदं खरेण-उद्वहनं तथा ॥ ३७० ॥  
 
 
- 8.1.18.4. Adultery
- \[O\]  edn 734-737,  \[O\]  tr. 187
-8.371a bhartāraṃ laṅghayed yā tu strī jñāti.guṇadarpitā |  
-8.371c tāṃ śvabhiḥ khādayed rājā saṃsthāne bahusaṃsthite || 371 ||  
+ ८।१।१८।४। अदुल्तेर्य्
+ \[ओ\]  एद्न् ७३४-७३७,  \[ओ\]  त्र्। १८७
+८।३७१अ भर्तारं लङ्घयेद् या तु स्त्री ज्ञाति।गुणदर्पिता ।  
+८।३७१च् तां श्वभिः खादयेद् राजा संस्थाने बहुसंस्थिते ॥ ३७१ ॥  
 
 
-8.372a pumāṃsaṃ dāhayet pāpaṃ śayane tapta āyase |  
-8.372c abhyādadhyuś ca kāṣṭhāni tatra dahyeta pāpakṛt || 372 ||  
+८।३७२अ पुमांसं दाहयेत् पापं शयने तप्त आयसे ।  
+८।३७२च् अभ्यादध्युश् च काष्ठानि तत्र दह्येत पापकृत् ॥ ३७२ ॥  
 
 
-8.373a saṃvatsarābhiśastasya duṣṭasya dviguṇo damaḥ | 8.373av/  \[M\] : “saṃvatsare 'bhiśastasya”  
-8.373c vrātyayā saha saṃvāse cāṇḍālyā tāvad eva tu || 373 ||  
+८।३७३अ संवत्सराभिशस्तस्य दुष्टस्य द्विगुणो दमः । ८।३७३अव्।  \[म्\] : “संवत्सरे ऽभिशस्तस्य”  
+८।३७३च् व्रात्यया सह संवासे चाण्डाल्या तावद् एव तु ॥ ३७३ ॥  
 
 
-8.374a śūdro guptam aguptaṃ vā dvaijātaṃ varṇam āvasan |  
-8.374c aguptam aṅga.sarvasvair guptaṃ sarveṇa hīyate || 374 || 8.374cv/  \[M\] : “aṅga.sarvasvī”  
+८।३७४अ शूद्रो गुप्तम् अगुप्तं वा द्वैजातं वर्णम् आवसन् ।  
+८।३७४च् अगुप्तम् अङ्ग।सर्वस्वैर् गुप्तं सर्वेण हीयते ॥ ३७४ ॥ ८।३७४च्व्।  \[म्\] : “अङ्ग।सर्वस्वी”  
 
 
-8.375a vaiśyaḥ sarvasva.daṇḍaḥ syāt saṃvatsaranirodhataḥ |  
-8.375c sahasraṃ kṣatriyo daṇḍyo mauṇḍyaṃ mūtreṇa ca-arhati || 375 ||  
+८।३७५अ वैश्यः सर्वस्व।दण्डः स्यात् संवत्सरनिरोधतः ।  
+८।३७५च् सहस्रं क्षत्रियो दण्ड्यो मौण्ड्यं मूत्रेण च-अर्हति ॥ ३७५ ॥  
 
 
-8.376a brāhmaṇīṃ yady aguptāṃ tu gacchetāṃ vaiśya.pārthivau |  
-8.376c vaiśyaṃ pañcaśataṃ kuryāt kṣatriyaṃ tu sahasriṇam || 376 ||  
+८।३७६अ ब्राह्मणीं यद्य् अगुप्तां तु गच्छेतां वैश्य।पार्थिवौ ।  
+८।३७६च् वैश्यं पञ्चशतं कुर्यात् क्षत्रियं तु सहस्रिणम् ॥ ३७६ ॥  
 
 
-8.377a ubhāv api tu tāv eva brāhmaṇyā guptayā saha |  
-8.377c viplutau śūdravad daṇḍyau dagdhavyau vā kaṭāgninā || 377 ||  
+८।३७७अ उभाव् अपि तु ताव् एव ब्राह्मण्या गुप्तया सह ।  
+८।३७७च् विप्लुतौ शूद्रवद् दण्ड्यौ दग्धव्यौ वा कटाग्निना ॥ ३७७ ॥  
 
 
-8.378a sahasraṃ brāhmaṇo daṇḍyo guptāṃ viprāṃ balād vrajan |  
-8.378c śatāni pañca daṇḍyaḥ syād icchantyā saha saṅgataḥ || 378 ||  
+८।३७८अ सहस्रं ब्राह्मणो दण्ड्यो गुप्तां विप्रां बलाद् व्रजन् ।  
+८।३७८च् शतानि पञ्च दण्ड्यः स्याद् इच्छन्त्या सह सङ्गतः ॥ ३७८ ॥  
 
 
-8.379a mauṇḍyaṃ prāṇāntikaṃ daṇḍo brāhmaṇasya vidhīyate | 8.379av/  \[M\] : “prāṇāntako”.  \[M\] 's com. refers to the reading of “prāṇāntika-”.  
-8.379c itareṣāṃ tu varṇānāṃ daṇḍaḥ prāṇāntiko bhavet || 379 || 8.379cv/  \[M\] : “prāṇāntako”  
+८।३७९अ मौण्ड्यं प्राणान्तिकं दण्डो ब्राह्मणस्य विधीयते । ८।३७९अव्।  \[म्\] : “प्राणान्तको”।  \[म्\] ऽस् चोम्। रेड़ेर्स् तो थे रेअदिन्ग् ओड़् “प्राणान्तिक-”।  
+८।३७९च् इतरेषां तु वर्णानां दण्डः प्राणान्तिको भवेत् ॥ ३७९ ॥ ८।३७९च्व्।  \[म्\] : “प्राणान्तको”  
 
 
-8.380a na jātu brāhmaṇaṃ hanyāt sarvapāpeṣv api sthitam |  
-8.380c rāṣṭrād enaṃ bahiḥ kuryāt samagra.dhanam a.kṣatam || 380 ||  
+८।३८०अ न जातु ब्राह्मणं हन्यात् सर्वपापेष्व् अपि स्थितम् ।  
+८।३८०च् राष्ट्राद् एनं बहिः कुर्यात् समग्र।धनम् अ।क्षतम् ॥ ३८० ॥  
 
 
-8.381a na brāhmaṇavadhād bhūyān adharmo vidyate bhuvi |  
-8.381c tasmād asya vadhaṃ rājā manasā-api na cintayet || 381 ||  
+८।३८१अ न ब्राह्मणवधाद् भूयान् अधर्मो विद्यते भुवि ।  
+८।३८१च् तस्माद् अस्य वधं राजा मनसा-अपि न चिन्तयेत् ॥ ३८१ ॥  
 
 
-8.382a vaiśyaś cet kṣatriyāṃ guptāṃ vaiśyāṃ vā kṣatriyo vrajet |  
-8.382c yo brāhmaṇyām aguptāyāṃ tāv ubhau daṇḍam arhataḥ || 382 ||  
+८।३८२अ वैश्यश् चेत् क्षत्रियां गुप्तां वैश्यां वा क्षत्रियो व्रजेत् ।  
+८।३८२च् यो ब्राह्मण्याम् अगुप्तायां ताव् उभौ दण्डम् अर्हतः ॥ ३८२ ॥  
 
 
-8.383a sahasraṃ brāhmaṇo daṇḍaṃ dāpyo gupte tu te vrajan |  
-8.383c śūdrāyāṃ kṣatriya.viśoḥ sāhasro vai bhaved damaḥ || 383 || 8.383cv/  \[M\] : “śūdrāyā”  
+८।३८३अ सहस्रं ब्राह्मणो दण्डं दाप्यो गुप्ते तु ते व्रजन् ।  
+८।३८३च् शूद्रायां क्षत्रिय।विशोः साहस्रो वै भवेद् दमः ॥ ३८३ ॥ ८।३८३च्व्।  \[म्\] : “शूद्राया”  
 
 
-8.384a kṣatriyāyām aguptāyāṃ vaiśye pañcaśataṃ damaḥ |  
-8.384c mūtreṇa mauṇḍyam icchet tu kṣatriyo daṇḍam eva vā || 384 || 8.384cv/  \[M\] : “ṛcchet tu”  
+८।३८४अ क्षत्रियायाम् अगुप्तायां वैश्ये पञ्चशतं दमः ।  
+८।३८४च् मूत्रेण मौण्ड्यम् इच्छेत् तु क्षत्रियो दण्डम् एव वा ॥ ३८४ ॥ ८।३८४च्व्।  \[म्\] : “ऋच्छेत् तु”  
 
 
-8.385a agupte kṣatriyā.vaiśye śūdrāṃ vā brāhmaṇo vrajan |  
-8.385c śatāni pañca daṇḍyaḥ syāt sahasraṃ tv antyajastriyam || 385 ||  
+८।३८५अ अगुप्ते क्षत्रिया।वैश्ये शूद्रां वा ब्राह्मणो व्रजन् ।  
+८।३८५च् शतानि पञ्च दण्ड्यः स्यात् सहस्रं त्व् अन्त्यजस्त्रियम् ॥ ३८५ ॥  
 
 
-# 8.1.19. Excursus
- \[O\]  edn 737-745,  \[O\]  tr. 187-189
- 8.1.19.1. Miscellanea
- \[O\]  edn 737-740,  \[O\]  tr. 187-188
-8.386a yasya stenaḥ pure na-asti na-anyastrīgo na duṣṭa.vāk |  
-8.386c na sāhasika.daṇḍaghno sa rājā śakralokabhāk || 386 ||  
+# ८।१।१९। एxचुर्सुस्
+ \[ओ\]  एद्न् ७३७-७४५,  \[ओ\]  त्र्। १८७-१८९
+ ८।१।१९।१। मिस्चेल्लनेअ
+ \[ओ\]  एद्न् ७३७-७४०,  \[ओ\]  त्र्। १८७-१८८
+८।३८६अ यस्य स्तेनः पुरे न-अस्ति न-अन्यस्त्रीगो न दुष्ट।वाक् ।  
+८।३८६च् न साहसिक।दण्डघ्नो स राजा शक्रलोकभाक् ॥ ३८६ ॥  
 
 
-8.387a eteṣāṃ nigraho rājñaḥ pañcānāṃ viṣaye svake |  
-8.387c sāṃrājyakṛt sajātyeṣu loke ca-eva yaśaskaraḥ || 387 ||  
+८।३८७अ एतेषां निग्रहो राज्ञः पञ्चानां विषये स्वके ।  
+८।३८७च् सांराज्यकृत् सजात्येषु लोके च-एव यशस्करः ॥ ३८७ ॥  
 
 
-8.388a ṛtvijaṃ yas tyajed yājyo yājyaṃ ca rtvik tyajed yadi |  
-8.388c śaktaṃ karmaṇy aduṣṭaṃ ca tayor daṇḍaḥ śataṃ śatam || 388 ||  
+८।३८८अ ऋत्विजं यस् त्यजेद् याज्यो याज्यं च र्त्विक् त्यजेद् यदि ।  
+८।३८८च् शक्तं कर्मण्य् अदुष्टं च तयोर् दण्डः शतं शतम् ॥ ३८८ ॥  
 
 
-8.389a na mātā na pitā na strī na putras tyāgam arhati |  
-8.389c tyajann apatitān etān rājñā daṇḍyaḥ śatāni ṣaṭ || 389 ||  
+८।३८९अ न माता न पिता न स्त्री न पुत्रस् त्यागम् अर्हति ।  
+८।३८९च् त्यजन्न् अपतितान् एतान् राज्ञा दण्ड्यः शतानि षट् ॥ ३८९ ॥  
 
 
-8.390a āśrameṣu dvijātīnāṃ kārye vivadatāṃ mithaḥ |  
-8.390c na vibrūyān nṛpo dharmaṃ cikīrṣan hitam ātmanaḥ || 390 ||  
+८।३९०अ आश्रमेषु द्विजातीनां कार्ये विवदतां मिथः ।  
+८।३९०च् न विब्रूयान् नृपो धर्मं चिकीर्षन् हितम् आत्मनः ॥ ३९० ॥  
 
 
-8.391a yathārham etān abhyarcya brāhmaṇaiḥ saha pārthivaḥ |  
-8.391c sāntvena praśamayya-ādau svadharmaṃ pratipādayet || 391 ||  
+८।३९१अ यथार्हम् एतान् अभ्यर्च्य ब्राह्मणैः सह पार्थिवः ।  
+८।३९१च् सान्त्वेन प्रशमय्य-आदौ स्वधर्मं प्रतिपादयेत् ॥ ३९१ ॥  
 
 
-8.392a prativeśya.anuveśyau ca kalyāṇe viṃśatidvije |  
-8.392c arhāv a.bhojayan vipro daṇḍam arhati māṣakam || 392 ||  
+८।३९२अ प्रतिवेश्य।अनुवेश्यौ च कल्याणे विंशतिद्विजे ।  
+८।३९२च् अर्हाव् अ।भोजयन् विप्रो दण्डम् अर्हति माषकम् ॥ ३९२ ॥  
 
 
-8.393a śrotriyaḥ śrotriyaṃ sādhuṃ bhūtikṛtyeṣv a.bhojayan |  
-8.393c tad.annaṃ dviguṇaṃ dāpyo hiraṇyaṃ ca-eva māṣakam || 393 || 8.393cv/  \[M\] : “hairaṇyaṃ”  
+८।३९३अ श्रोत्रियः श्रोत्रियं साधुं भूतिकृत्येष्व् अ।भोजयन् ।  
+८।३९३च् तद्।अन्नं द्विगुणं दाप्यो हिरण्यं च-एव माषकम् ॥ ३९३ ॥ ८।३९३च्व्।  \[म्\] : “हैरण्यं”  
 
 
-8.394a andho jaḍaḥ pīṭhasarpī saptatyā sthaviraś ca yaḥ |  
-8.394c śrotriyeṣūpakurvaṃś ca na dāpyāḥ kena cit karam || 394 ||  
+८।३९४अ अन्धो जडः पीठसर्पी सप्तत्या स्थविरश् च यः ।  
+८।३९४च् श्रोत्रियेषूपकुर्वंश् च न दाप्याः केन चित् करम् ॥ ३९४ ॥  
 
 
-8.395a śrotriyaṃ vyādhita.ārtau ca bāla.vṛddhāv a.kiñcanam |  
-8.395c mahākulīnam āryaṃ ca rājā sampūjayet sadā || 395 ||  
+८।३९५अ श्रोत्रियं व्याधित।आर्तौ च बाल।वृद्धाव् अ।किञ्चनम् ।  
+८।३९५च् महाकुलीनम् आर्यं च राजा सम्पूजयेत् सदा ॥ ३९५ ॥  
 
 
-8.396a śālmalīphalake ślakṣṇe nenijyān nejakaḥ śanaiḥ |  
-8.396c na ca vāsāṃsi vāsobhir nirharen na ca vāsayet || 396 ||  
+८।३९६अ शाल्मलीफलके श्लक्ष्णे नेनिज्यान् नेजकः शनैः ।  
+८।३९६च् न च वासांसि वासोभिर् निर्हरेन् न च वासयेत् ॥ ३९६ ॥  
 
 
-8.397a tantuvāyo daśapalaṃ dadyād ekapala.adhikam |  
-8.397c ato 'nyathā vartamāno dāpyo dvādaśakaṃ damam || 397 ||  
+८।३९७अ तन्तुवायो दशपलं दद्याद् एकपल।अधिकम् ।  
+८।३९७च् अतो ऽन्यथा वर्तमानो दाप्यो द्वादशकं दमम् ॥ ३९७ ॥  
 
 
- 8.1.19.2. Control of Trade
- \[O\]  edn 740-741,  \[O\]  tr. 188
-8.398a śulkasthāneṣu kuśalāḥ sarvapaṇya.vicakṣaṇāḥ |  
-8.398c kuryur arghaṃ yathāpaṇyaṃ tato viṃśaṃ nṛpo haret || 398 ||  
+ ८।१।१९।२। चोन्त्रोल् ओड़् त्रदे
+ \[ओ\]  एद्न् ७४०-७४१,  \[ओ\]  त्र्। १८८
+८।३९८अ शुल्कस्थानेषु कुशलाः सर्वपण्य।विचक्षणाः ।  
+८।३९८च् कुर्युर् अर्घं यथापण्यं ततो विंशं नृपो हरेत् ॥ ३९८ ॥  
 
 
-8.399a rājñaḥ prakhyātabhāṇḍāni pratiṣiddhāni yāni ca |  
-8.399c tāṇi nirharato lobhāt sarvahāraṃ haren nṛpaḥ || 399 ||  
+८।३९९अ राज्ञः प्रख्यातभाण्डानि प्रतिषिद्धानि यानि च ।  
+८।३९९च् ताणि निर्हरतो लोभात् सर्वहारं हरेन् नृपः ॥ ३९९ ॥  
 
 
-8.400a śulkasthānaṃ pariharann akāle kraya.vikrayī |  
-8.400c mithyāvādī ca saṅkhyāne dāpyo 'ṣṭaguṇam atyayam || 400 ||  
+८।४००अ शुल्कस्थानं परिहरन्न् अकाले क्रय।विक्रयी ।  
+८।४००च् मिथ्यावादी च सङ्ख्याने दाप्यो ऽष्टगुणम् अत्ययम् ॥ ४०० ॥  
 
 
-8.401a āgamaṃ nirgamaṃ sthānaṃ tathā vṛddhi.kṣayāv ubhau |  
-8.401c vicārya sarvapaṇyānāṃ kārayet kraya.vikrayau || 401 ||  
+८।४०१अ आगमं निर्गमं स्थानं तथा वृद्धि।क्षयाव् उभौ ।  
+८।४०१च् विचार्य सर्वपण्यानां कारयेत् क्रय।विक्रयौ ॥ ४०१ ॥  
 
 
-8.402a pañcarātre pañcarātre pakṣe pakṣe 'tha vā gate |  
-8.402c kurvīta ca-eṣāṃ pratyakṣam arghasaṃsthāpanaṃ nṛpaḥ || 402 ||  
+८।४०२अ पञ्चरात्रे पञ्चरात्रे पक्षे पक्षे ऽथ वा गते ।  
+८।४०२च् कुर्वीत च-एषां प्रत्यक्षम् अर्घसंस्थापनं नृपः ॥ ४०२ ॥  
 
 
-8.403a tulāmānaṃ pratīmānaṃ sarvaṃ ca syāt sulakṣitam |  
-8.403c ṣaṭsu ṣaṭsu ca māseṣu punar eva parīkṣayet || 403 ||  
+८।४०३अ तुलामानं प्रतीमानं सर्वं च स्यात् सुलक्षितम् ।  
+८।४०३च् षट्सु षट्सु च मासेषु पुनर् एव परीक्षयेत् ॥ ४०३ ॥  
 
 
- 8.1.19.3. Ferries and Tolls
- \[O\]  edn 741-742,  \[O\]  tr. 188-189
-8.404a paṇaṃ yānaṃ tare dāpyaṃ pauruṣo 'rdhapaṇaṃ tare |  
-8.404c pādaṃ paśuś ca yoṣit-ca pādārdhaṃ riktakaḥ pumān || 404 || 8.404cv/  \[M\] : “pāde”  
+ ८।१।१९।३। ड़ेर्रिएस् अन्द् तोल्ल्स्
+ \[ओ\]  एद्न् ७४१-७४२,  \[ओ\]  त्र्। १८८-१८९
+८।४०४अ पणं यानं तरे दाप्यं पौरुषो ऽर्धपणं तरे ।  
+८।४०४च् पादं पशुश् च योषित्-च पादार्धं रिक्तकः पुमान् ॥ ४०४ ॥ ८।४०४च्व्।  \[म्\] : “पादे”  
 
 
-8.405a bhāṇḍapūrṇāni yānāni tāryaṃ dāpyāni sārataḥ |  
-8.405c riktabhāṇḍāni yat kiṃ cit pumāṃsaś c-aparicchadāḥ || 405 ||  
+८।४०५अ भाण्डपूर्णानि यानानि तार्यं दाप्यानि सारतः ।  
+८।४०५च् रिक्तभाण्डानि यत् किं चित् पुमांसश् च्-अपरिच्छदाः ॥ ४०५ ॥  
 
 
-8.406a dīrghādhvani yathādeśaṃ yathākālaṃ taro bhavet |  
-8.406c nadītīreṣu tad vidyāt samudre na-asti lakṣaṇam || 406 ||  
+८।४०६अ दीर्घाध्वनि यथादेशं यथाकालं तरो भवेत् ।  
+८।४०६च् नदीतीरेषु तद् विद्यात् समुद्रे न-अस्ति लक्षणम् ॥ ४०६ ॥  
 
 
-8.407a garbhiṇī tu dvimāsādis tathā pravrajito muniḥ |  
-8.407c brāhmaṇā liṅginaś ca-eva na dāpyās tārikaṃ tare || 407 ||  
+८।४०७अ गर्भिणी तु द्विमासादिस् तथा प्रव्रजितो मुनिः ।  
+८।४०७च् ब्राह्मणा लिङ्गिनश् च-एव न दाप्यास् तारिकं तरे ॥ ४०७ ॥  
 
 
-8.408a yan nāvi kiṃ cid dāśānāṃ viśīryeta-aparādhataḥ |  
-8.408c tad dāśair eva dātavyaṃ samāgamya svato 'ṃśataḥ || 408 ||  
+८।४०८अ यन् नावि किं चिद् दाशानां विशीर्येत-अपराधतः ।  
+८।४०८च् तद् दाशैर् एव दातव्यं समागम्य स्वतो ऽंशतः ॥ ४०८ ॥  
 
 
-8.409a eṣa nauyāyinām ukto vyavahārasya nirṇayaḥ |  
-8.409c dāśāparādhatas toye daivike na-asti nigrahaḥ || 409 ||  
+८।४०९अ एष नौयायिनाम् उक्तो व्यवहारस्य निर्णयः ।  
+८।४०९च् दाशापराधतस् तोये दैविके न-अस्ति निग्रहः ॥ ४०९ ॥  
 
 
- 8.1.19.4. Occupations of Social Classes
- \[O\]  edn 742-745,  \[O\]  tr. 189
-8.410a vāṇijyaṃ kārayed vaiśyaṃ kusīdaṃ kṛṣim eva ca |  
-8.410c paśūnāṃ rakṣaṇaṃ ca-eva dāsyaṃ śūdraṃ dvijanmanām || 410 ||  
+ ८।१।१९।४। ओच्चुपतिओन्स् ओड़् सोचिअल् च्लस्सेस्
+ \[ओ\]  एद्न् ७४२-७४५,  \[ओ\]  त्र्। १८९
+८।४१०अ वाणिज्यं कारयेद् वैश्यं कुसीदं कृषिम् एव च ।  
+८।४१०च् पशूनां रक्षणं च-एव दास्यं शूद्रं द्विजन्मनाम् ॥ ४१० ॥  
 
 
-8.411a kṣatriyaṃ ca-eva vaiśyaṃ ca brāhmaṇo vṛttikarśitau |  
-8.411c bibhṛyād ānṛśaṃsyena svāni karmāṇi kārayet || 411 ||  
+८।४११अ क्षत्रियं च-एव वैश्यं च ब्राह्मणो वृत्तिकर्शितौ ।  
+८।४११च् बिभृयाद् आनृशंस्येन स्वानि कर्माणि कारयेत् ॥ ४११ ॥  
 
 
-8.412a dāsyaṃ tu kārayan-lobhād brāhmaṇaḥ saṃskṛtān dvijān |  
-8.412c anicchataḥ prābhavatyād rājñā daṇḍyaḥ śatāni ṣaṭ || 412 ||  
+८।४१२अ दास्यं तु कारयन्-लोभाद् ब्राह्मणः संस्कृतान् द्विजान् ।  
+८।४१२च् अनिच्छतः प्राभवत्याद् राज्ञा दण्ड्यः शतानि षट् ॥ ४१२ ॥  
 
 
-8.413a śūdraṃ tu kārayed dāsyaṃ krītam akrītam eva vā |  
-8.413c dāsyāya-eva hi sṛṣṭo 'sau brāhmaṇasya svayambhuvā || 413 ||  
+८।४१३अ शूद्रं तु कारयेद् दास्यं क्रीतम् अक्रीतम् एव वा ।  
+८।४१३च् दास्याय-एव हि सृष्टो ऽसौ ब्राह्मणस्य स्वयम्भुवा ॥ ४१३ ॥  
 
 
-8.414a na svāminā nisṛṣṭo 'pi śūdro dāsyād vimucyate |  
-8.414c nisargajaṃ hi tat tasya kas tasmāt tad apohati || 414 ||  
+८।४१४अ न स्वामिना निसृष्टो ऽपि शूद्रो दास्याद् विमुच्यते ।  
+८।४१४च् निसर्गजं हि तत् तस्य कस् तस्मात् तद् अपोहति ॥ ४१४ ॥  
 
 
-8.415a dhvajāhṛto bhaktadāso gṛhajaḥ krīta.dattrimau |  
-8.415c paitriko daṇḍadāsaś ca sapta-ete dāsayonayaḥ || 415 ||  
+८।४१५अ ध्वजाहृतो भक्तदासो गृहजः क्रीत।दत्त्रिमौ ।  
+८।४१५च् पैत्रिको दण्डदासश् च सप्त-एते दासयोनयः ॥ ४१५ ॥  
 
 
-8.416a bhāryā putraś ca dāsaś ca traya eva-a.dhanāḥ smṛtāḥ |  
-8.416c yat te samadhigacchanti yasya te tasya tad dhanam || 416 ||  
+८।४१६अ भार्या पुत्रश् च दासश् च त्रय एव-अ।धनाः स्मृताः ।  
+८।४१६च् यत् ते समधिगच्छन्ति यस्य ते तस्य तद् धनम् ॥ ४१६ ॥  
 
 
-8.417a visrabdhaṃ brāhmaṇaḥ śūdrād dravya.upādānam ācaret |  
-8.417c na hi tasya-asti kiṃ cit svaṃ bhartṛhārya.dhano hi saḥ || 417 ||  
+८।४१७अ विस्रब्धं ब्राह्मणः शूद्राद् द्रव्य।उपादानम् आचरेत् ।  
+८।४१७च् न हि तस्य-अस्ति किं चित् स्वं भर्तृहार्य।धनो हि सः ॥ ४१७ ॥  
 
 
-8.418a vaiśya.śūdrau prayatnena svāni karmāṇi kārayet |  
-8.418c tau hi cyutau svakarmabhyaḥ kṣobhayetām idaṃ jagat || 418 ||  
+८।४१८अ वैश्य।शूद्रौ प्रयत्नेन स्वानि कर्माणि कारयेत् ।  
+८।४१८च् तौ हि च्युतौ स्वकर्मभ्यः क्षोभयेताम् इदं जगत् ॥ ४१८ ॥  
 
 
-8.419a ahany ahany avekṣeta karmāntān vāhanāni ca |  
-8.419c āya.vyayau ca niyatāv ākarān kośam eva ca || 419 ||  
+८।४१९अ अहन्य् अहन्य् अवेक्षेत कर्मान्तान् वाहनानि च ।  
+८।४१९च् आय।व्ययौ च नियताव् आकरान् कोशम् एव च ॥ ४१९ ॥  
 
 
-8.420a evaṃ sarvān imān rājā vyavahārān samāpayan |  
-8.420c vyapohya kilbiṣaṃ sarvaṃ prāpnoti paramāṃ gatim || 420 ||  
+८।४२०अ एवं सर्वान् इमान् राजा व्यवहारान् समापयन् ।  
+८।४२०च् व्यपोह्य किल्बिषं सर्वं प्राप्नोति परमां गतिम् ॥ ४२० ॥  
 
 
-# Chapter 9
- \[O\]  edn 746-809,  \[O\]  tr. 190-207
- 9.1. The Justice System (cont.
- \[O\]  edn 746-807,  \[O\]  tr. 190-206
-# 9.1.1. Grounds of Litigation-XVI Law Concerning Husband and Wife
- \[O\]  edn 746-765,  \[O\]  tr. 190-195
-9.01a puruṣasya striyāś ca-eva dharme vartmani tiṣṭhatoḥ | 9.01av/  \[M\] : “dharmye”  
-9.01c saṃyoge viprayoge ca dharmān vakṣyāmi śāśvatān || 1 ||  
+# छप्तेर् ९
+ \[ओ\]  एद्न् ७४६-८०९,  \[ओ\]  त्र्। १९०-२०७
+ ९।१। थे जुस्तिचे स्य्स्तेम् (चोन्त्।
+ \[ओ\]  एद्न् ७४६-८०७,  \[ओ\]  त्र्। १९०-२०६
+# ९।१।१। ग्रोउन्द्स् ओड़् लितिगतिओन्-Xवि लw चोन्चेर्निन्ग् हुस्बन्द् अन्द् Wइड़े
+ \[ओ\]  एद्न् ७४६-७६५,  \[ओ\]  त्र्। १९०-१९५
+९।०१अ पुरुषस्य स्त्रियाश् च-एव धर्मे वर्त्मनि तिष्ठतोः । ९।०१अव्।  \[म्\] : “धर्म्ये”  
+९।०१च् संयोगे विप्रयोगे च धर्मान् वक्ष्यामि शाश्वतान् ॥ १ ॥  
 
 
- 9.1.1.1. Guarding the Wife
- \[O\]  edn 746-750,  \[O\]  tr. 190-191
-9.02a asvatantrāḥ striyaḥ kāryāḥ puruṣaiḥ svair divā.niśam |  
-9.02c viṣayeṣu ca sajjantyaḥ saṃsthāpyā ātmano vaśe || 2 ||  
+ ९।१।१।१। गुअर्दिन्ग् थे Wइड़े
+ \[ओ\]  एद्न् ७४६-७५०,  \[ओ\]  त्र्। १९०-१९१
+९।०२अ अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर् दिवा।निशम् ।  
+९।०२च् विषयेषु च सज्जन्त्यः संस्थाप्या आत्मनो वशे ॥ २ ॥  
 
 
-9.03a pitā rakṣati kaumāre bhartā rakṣati yauvane |  
-9.03c rakṣanti sthavire putrā na strī svātantryam arhati || 3 ||  
+९।०३अ पिता रक्षति कौमारे भर्ता रक्षति यौवने ।  
+९।०३च् रक्षन्ति स्थविरे पुत्रा न स्त्री स्वातन्त्र्यम् अर्हति ॥ ३ ॥  
 
 
-9.04a kāle '.dātā pitā vācyo vācyaś ca-an.upayan patiḥ |  
-9.04c mṛte bhartari putras tu vācyo mātur arakṣitā || 4 ||  
+९।०४अ काले ऽ।दाता पिता वाच्यो वाच्यश् च-अन्।उपयन् पतिः ।  
+९।०४च् मृते भर्तरि पुत्रस् तु वाच्यो मातुर् अरक्षिता ॥ ४ ॥  
 
 
-9.05a sūkṣmebhyo 'pi prasaṅgebhyaḥ striyo rakṣyā viśeṣataḥ | 9.05av/  \[M\] : “striyā”  
-9.05c dvayor hi kulayoḥ śokam āvaheyur a.rakṣitāḥ || 5 ||  
+९।०५अ सूक्ष्मेभ्यो ऽपि प्रसङ्गेभ्यः स्त्रियो रक्ष्या विशेषतः । ९।०५अव्।  \[म्\] : “स्त्रिया”  
+९।०५च् द्वयोर् हि कुलयोः शोकम् आवहेयुर् अ।रक्षिताः ॥ ५ ॥  
 
 
-9.06a imaṃ hi sarvavarṇānāṃ paśyanto dharmam uttamam |  
-9.06c yatante rakṣituṃ bhāryāṃ bhartāro durbalā api || 6 ||  
+९।०६अ इमं हि सर्ववर्णानां पश्यन्तो धर्मम् उत्तमम् ।  
+९।०६च् यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि ॥ ६ ॥  
 
 
-9.07a svāṃ prasūtiṃ caritraṃ ca kulam ātmānam eva ca |  
-9.07c svaṃ ca dharmaṃ prayatnena jāyāṃ rakṣan hi rakṣati || 7 ||  
+९।०७अ स्वां प्रसूतिं चरित्रं च कुलम् आत्मानम् एव च ।  
+९।०७च् स्वं च धर्मं प्रयत्नेन जायां रक्षन् हि रक्षति ॥ ७ ॥  
 
 
-9.08a patir bhāryāṃ sampraviśya garbho bhūtvā-iha jāyate |  
-9.08c jāyāyās tadd hi jāyātvaṃ yad asyāṃ jāyate punaḥ || 8 ||  
+९।०८अ पतिर् भार्यां सम्प्रविश्य गर्भो भूत्वा-इह जायते ।  
+९।०८च् जायायास् तद्द् हि जायात्वं यद् अस्यां जायते पुनः ॥ ८ ॥  
 
 
-9.09a yādṛśaṃ bhajate hi strī sutaṃ sūte tathāvidham |  
-9.09c tasmāt prajāviśuddhi.arthaṃ striyaṃ rakṣet prayatnataḥ || 9 ||  
+९।०९अ यादृशं भजते हि स्त्री सुतं सूते तथाविधम् ।  
+९।०९च् तस्मात् प्रजाविशुद्धि।अर्थं स्त्रियं रक्षेत् प्रयत्नतः ॥ ९ ॥  
 
 
-9.10a na kaś cid yoṣitaḥ śaktaḥ prasahya parirakṣitum |  
-9.10c etair upāyayogais tu śakyās tāḥ parirakṣitum || 10 ||  
+९।१०अ न कश् चिद् योषितः शक्तः प्रसह्य परिरक्षितुम् ।  
+९।१०च् एतैर् उपाययोगैस् तु शक्यास् ताः परिरक्षितुम् ॥ १० ॥  
 
 
-9.11a arthasya saṅgrahe ca-enāṃ vyaye ca-eva niyojayet |  
-9.11c śauce dharme 'nnapaktyāṃ ca pāriṇāhyasya vekṣaṇe || 11 ||  
+९।११अ अर्थस्य सङ्ग्रहे च-एनां व्यये च-एव नियोजयेत् ।  
+९।११च् शौचे धर्मे ऽन्नपक्त्यां च पारिणाह्यस्य वेक्षणे ॥ ११ ॥  
 
 
-9.12a a.rakṣitā gṛhe ruddhāḥ puruṣair āptakāribhiḥ |  
-9.12c ātmānam ātmanā yās tu rakṣeyus tāḥ surakṣitāḥ || 12 ||  
+९।१२अ अ।रक्षिता गृहे रुद्धाः पुरुषैर् आप्तकारिभिः ।  
+९।१२च् आत्मानम् आत्मना यास् तु रक्षेयुस् ताः सुरक्षिताः ॥ १२ ॥  
 
 
-9.13a pānaṃ durjanasaṃsargaḥ patyā ca viraho 'ṭanam |  
-9.13c svapno 'nyagehavāsaś ca nārīsandūṣaṇāni ṣaṭ || 13 ||  
+९।१३अ पानं दुर्जनसंसर्गः पत्या च विरहो ऽटनम् ।  
+९।१३च् स्वप्नो ऽन्यगेहवासश् च नारीसन्दूषणानि षट् ॥ १३ ॥  
 
 
-9.14a na-etā rūpaṃ parīkṣante na-āsāṃ vayasi saṃsthitiḥ |  
-9.14c surūpaṃ vā virūpaṃ vā pumān ity eva bhuñjate || 14 ||  
+९।१४अ न-एता रूपं परीक्षन्ते न-आसां वयसि संस्थितिः ।  
+९।१४च् सुरूपं वा विरूपं वा पुमान् इत्य् एव भुञ्जते ॥ १४ ॥  
 
 
-9.15a pauṃścalyāc calacittāc ca naisnehyāc ca svabhāvataḥ | 9.15av/  \[M\] : “naiḥsnehyāc”  
-9.15c rakṣitā yatnato 'pi-iha bhartṛṣv etā vikurvate || 15 ||  
+९।१५अ पौंश्चल्याच् चलचित्ताच् च नैस्नेह्याच् च स्वभावतः । ९।१५अव्।  \[म्\] : “नैःस्नेह्याच्”  
+९।१५च् रक्षिता यत्नतो ऽपि-इह भर्तृष्व् एता विकुर्वते ॥ १५ ॥  
 
 
-9.16a evaṃ svabhāvaṃ jñātvā-āsāṃ prajāpatinisargajam |  
-9.16c paramaṃ yatnam ātiṣṭhet puruṣo rakṣaṇaṃ prati || 16 ||  
+९।१६अ एवं स्वभावं ज्ञात्वा-आसां प्रजापतिनिसर्गजम् ।  
+९।१६च् परमं यत्नम् आतिष्ठेत् पुरुषो रक्षणं प्रति ॥ १६ ॥  
 
 
-9.17a śayyā.āsanam alaṅkāraṃ kāmaṃ krodham anārjavam | 9.17av/  \[M\] : “anāryatām”  
-9.17c drohabhāvaṃ kucaryāṃ ca strībhyo manur akalpayat || 17 || 9.17cv/  \[M\] : “drogdhṛbhāvaṃ”  
+९।१७अ शय्या।आसनम् अलङ्कारं कामं क्रोधम् अनार्जवम् । ९।१७अव्।  \[म्\] : “अनार्यताम्”  
+९।१७च् द्रोहभावं कुचर्यां च स्त्रीभ्यो मनुर् अकल्पयत् ॥ १७ ॥ ९।१७च्व्।  \[म्\] : “द्रोग्धृभावं”  
 
 
-9.18a na-asti strīṇāṃ kriyā mantrair iti dharme vyavasthitiḥ  
-9.18c nir.indriyā hy a.mantrāś ca strībhyo 'nṛtam iti sthitiḥ || 18 || 9.18cv/  \[M\] : “striyo”  
+९।१८अ न-अस्ति स्त्रीणां क्रिया मन्त्रैर् इति धर्मे व्यवस्थितिः  
+९।१८च् निर्।इन्द्रिया ह्य् अ।मन्त्राश् च स्त्रीभ्यो ऽनृतम् इति स्थितिः ॥ १८ ॥ ९।१८च्व्।  \[म्\] : “स्त्रियो”  
 
 
-9.19a tathā ca śrutayo bahvyo nigītā nigameṣv api |  
-9.19c svālakṣaṇyaparīkṣārthaṃ tāsāṃ śṛṇuta niṣkṛtīḥ || 19 ||  
+९।१९अ तथा च श्रुतयो बह्व्यो निगीता निगमेष्व् अपि ।  
+९।१९च् स्वालक्षण्यपरीक्षार्थं तासां शृणुत निष्कृतीः ॥ १९ ॥  
 
 
-9.20a yan me mātā pralulubhe vicaranty a.pativratā |  
-9.20c tan me retaḥ pitā vṛṅktām ity asya-etan nidarśanam || 20 ||  
+९।२०अ यन् मे माता प्रलुलुभे विचरन्त्य् अ।पतिव्रता ।  
+९।२०च् तन् मे रेतः पिता वृङ्क्ताम् इत्य् अस्य-एतन् निदर्शनम् ॥ २० ॥  
 
 
-9.21a dhyāyaty aniṣṭaṃ yat kiṃ cit pāṇigrāhasya cetasā |  
-9.21c tasya-eṣa vyabhicārasya nihnavaḥ samyag ucyate || 21 ||  
+९।२१अ ध्यायत्य् अनिष्टं यत् किं चित् पाणिग्राहस्य चेतसा ।  
+९।२१च् तस्य-एष व्यभिचारस्य निह्नवः सम्यग् उच्यते ॥ २१ ॥  
 
 
- 9.1.1.2. Elevation of Wife to Husbands's Status
- \[O\]  edn 750-751,  \[O\]  tr. 191
-9.22a yādṛg.guṇena bhartrā strī saṃyujyeta yathāvidhi |  
-9.22c tādṛg.guṇā sā bhavati samudreṇa-iva nimnagā || 22 ||  
+ ९।१।१।२। एलेवतिओन् ओड़् Wइड़े तो हुस्बन्द्स्ऽस् स्ततुस्
+ \[ओ\]  एद्न् ७५०-७५१,  \[ओ\]  त्र्। १९१
+९।२२अ यादृग्।गुणेन भर्त्रा स्त्री संयुज्येत यथाविधि ।  
+९।२२च् तादृग्।गुणा सा भवति समुद्रेण-इव निम्नगा ॥ २२ ॥  
 
 
-9.23a akṣamālā vasiṣṭhena saṃyuktā-adhamayonijā |  
-9.23c śāraṅgī mandapālena jagāma-abhyarhaṇīyatām || 23 ||  
+९।२३अ अक्षमाला वसिष्ठेन संयुक्ता-अधमयोनिजा ।  
+९।२३च् शारङ्गी मन्दपालेन जगाम-अभ्यर्हणीयताम् ॥ २३ ॥  
 
 
-9.24a etāś ca-anyāś ca loke 'sminn apakṛṣṭaprasūtayaḥ | 9.24av/  \[M\] : “avakṛṣṭaprasūtayaḥ”  
-9.24c utkarṣaṃ yoṣitaḥ prāptāḥ svaiḥ svair bhartṛguṇaiḥ śubhaiḥ || 24 ||  
+९।२४अ एताश् च-अन्याश् च लोके ऽस्मिन्न् अपकृष्टप्रसूतयः । ९।२४अव्।  \[म्\] : “अवकृष्टप्रसूतयः”  
+९।२४च् उत्कर्षं योषितः प्राप्ताः स्वैः स्वैर् भर्तृगुणैः शुभैः ॥ २४ ॥  
 
 
-9.25a eṣā-uditā lokayātrā nityaṃ strī.puṃsayoḥ śubhā |  
-9.25c pretya-iha ca sukha.udarkān prajādharmān nibodhata || 25 ||  
+९।२५अ एषा-उदिता लोकयात्रा नित्यं स्त्री।पुंसयोः शुभा ।  
+९।२५च् प्रेत्य-इह च सुख।उदर्कान् प्रजाधर्मान् निबोधत ॥ २५ ॥  
 
 
- 9.1.1.3. Importance of Wife
- \[O\]  edn 751-752,  \[O\]  tr. 191
-9.26a prajanārthaṃ mahā.bhāgāḥ pūja.arhā gṛhadīptayaḥ |  
-9.26c striyaḥ śriyaś ca geheṣu na viśeṣo 'sti kaś cana || 26 ||  
+ ९।१।१।३। इम्पोर्तन्चे ओड़् Wइड़े
+ \[ओ\]  एद्न् ७५१-७५२,  \[ओ\]  त्र्। १९१
+९।२६अ प्रजनार्थं महा।भागाः पूज।अर्हा गृहदीप्तयः ।  
+९।२६च् स्त्रियः श्रियश् च गेहेषु न विशेषो ऽस्ति कश् चन ॥ २६ ॥  
 
 
-9.27a utpādanam apatyasya jātasya paripālanam |  
-9.27c pratyahaṃ lokayātrāyāḥ pratyakṣaṃ strī nibandhanam || 27 || 9.27cv/  \[M\] : “pratyarthaṃ”  
+९।२७अ उत्पादनम् अपत्यस्य जातस्य परिपालनम् ।  
+९।२७च् प्रत्यहं लोकयात्रायाः प्रत्यक्षं स्त्री निबन्धनम् ॥ २७ ॥ ९।२७च्व्।  \[म्\] : “प्रत्यर्थं”  
 
 
-9.28a apatyaṃ dharmakāryāṇi śuśrūṣā ratir uttamā |  
-9.28c dārā.adhīnas tathā svargaḥ pitṝṇām ātmanaś ca ha || 28 ||  
+९।२८अ अपत्यं धर्मकार्याणि शुश्रूषा रतिर् उत्तमा ।  
+९।२८च् दारा।अधीनस् तथा स्वर्गः पितॄणाम् आत्मनश् च ह ॥ २८ ॥  
 
 
-9.29a patiṃ yā na-abhicarati mano.vāg.dehasaṃyatā |  
-9.29c sā bhartṛlokān āpnoti sadbhiḥ sādhvī-iti ca-ucyate || 29 ||  
+९।२९अ पतिं या न-अभिचरति मनो।वाग्।देहसंयता ।  
+९।२९च् सा भर्तृलोकान् आप्नोति सद्भिः साध्वी-इति च-उच्यते ॥ २९ ॥  
 
 
-9.30a vyabhicārāt tu bhartuḥ strī loke prāpnoti nindyatām |  
-9.30c sṛgālayoniṃ ca-āpnoti pāparogaiś ca pīḍyate || 30 || 9.30cv/  \[M\] : “śṛgālayoniṃ”  
+९।३०अ व्यभिचारात् तु भर्तुः स्त्री लोके प्राप्नोति निन्द्यताम् ।  
+९।३०च् सृगालयोनिं च-आप्नोति पापरोगैश् च पीड्यते ॥ ३० ॥ ९।३०च्व्।  \[म्\] : “शृगालयोनिं”  
 
 
-9.31a putraṃ pratyuditaṃ sadbhiḥ pūrvajaiś ca maharṣibhiḥ |  
-9.31c viśvajanyam imaṃ puṇyam upanyāsaṃ nibodhata || 31 ||  
+९।३१अ पुत्रं प्रत्युदितं सद्भिः पूर्वजैश् च महर्षिभिः ।  
+९।३१च् विश्वजन्यम् इमं पुण्यम् उपन्यासं निबोधत ॥ ३१ ॥  
 
 
- 9.1.1.4. To Whom Belongs a Son?
- \[O\]  edn 752-756,  \[O\]  tr. 191-193
-9.32a bhartari putraṃ vijānanti śrutidvaidhaṃ tu kartari | 9.32av/  \[M\] : “bhartuḥ”  
-9.32c āhur utpādakaṃ ke cid apare kṣetriṇaṃ viduḥ || 32 ||  
+ ९।१।१।४। तो Wहोम् बेलोन्ग्स् अ सोन्?
+ \[ओ\]  एद्न् ७५२-७५६,  \[ओ\]  त्र्। १९१-१९३
+९।३२अ भर्तरि पुत्रं विजानन्ति श्रुतिद्वैधं तु कर्तरि । ९।३२अव्।  \[म्\] : “भर्तुः”  
+९।३२च् आहुर् उत्पादकं के चिद् अपरे क्षेत्रिणं विदुः ॥ ३२ ॥  
 
 
-9.33a kṣetrabhūtā smṛtā nārī bījabhūtaḥ smṛtaḥ pumān |  
-9.33c kṣetra.bījasamāyogāt sambhavaḥ sarvadehinām || 33 ||  
+९।३३अ क्षेत्रभूता स्मृता नारी बीजभूतः स्मृतः पुमान् ।  
+९।३३च् क्षेत्र।बीजसमायोगात् सम्भवः सर्वदेहिनाम् ॥ ३३ ॥  
 
 
-9.34a viśiṣṭaṃ kutra cid bījaṃ strīyonis tv eva kutra cit |  
-9.34c ubhayaṃ tu samaṃ yatra sā prasūtiḥ praśasyate || 34 ||  
+९।३४अ विशिष्टं कुत्र चिद् बीजं स्त्रीयोनिस् त्व् एव कुत्र चित् ।  
+९।३४च् उभयं तु समं यत्र सा प्रसूतिः प्रशस्यते ॥ ३४ ॥  
 
 
-9.35a bījasya ca-eva yonyāś ca bījam utkṛṣṭam ucyate |  
-9.35c sarvabhūtaprasūtir hi bījalakṣaṇalakṣitā || 35 ||  
+९।३५अ बीजस्य च-एव योन्याश् च बीजम् उत्कृष्टम् उच्यते ।  
+९।३५च् सर्वभूतप्रसूतिर् हि बीजलक्षणलक्षिता ॥ ३५ ॥  
 
 
-9.36a yādṛśaṃ tu-upyate bījaṃ kṣetre kāla.upapādite |  
-9.36c tādṛg rohati tat tasmin bījaṃ svair vyañjitaṃ guṇaiḥ || 36 ||  
+९।३६अ यादृशं तु-उप्यते बीजं क्षेत्रे काल।उपपादिते ।  
+९।३६च् तादृग् रोहति तत् तस्मिन् बीजं स्वैर् व्यञ्जितं गुणैः ॥ ३६ ॥  
 
 
-9.37a iyaṃ bhūmir hi bhūtānāṃ śāśvatī yonir ucyate |  
-9.37c na ca yoniguṇān kāṃś cid bījaṃ puṣyati puṣṭiṣu || 37 ||  
+९।३७अ इयं भूमिर् हि भूतानां शाश्वती योनिर् उच्यते ।  
+९।३७च् न च योनिगुणान् कांश् चिद् बीजं पुष्यति पुष्टिषु ॥ ३७ ॥  
 
 
-9.38a bhūmāv apy ekakedāre kāla.uptāni kṛṣīvalaiḥ |  
-9.38c nānārūpāṇi jāyante bījāni-iha svabhāvataḥ || 38 ||  
+९।३८अ भूमाव् अप्य् एककेदारे काल।उप्तानि कृषीवलैः ।  
+९।३८च् नानारूपाणि जायन्ते बीजानि-इह स्वभावतः ॥ ३८ ॥  
 
 
-9.39a vrīhayaḥ śālayo mudgās tilā māṣās tathā yavāḥ |  
-9.39c yathābījaṃ prarohanti laśunāni-ikṣavas tathā || 39 ||  
+९।३९अ व्रीहयः शालयो मुद्गास् तिला माषास् तथा यवाः ।  
+९।३९च् यथाबीजं प्ररोहन्ति लशुनानि-इक्षवस् तथा ॥ ३९ ॥  
 
 
-9.40a anyad uptaṃ jātam anyad ity etat-na-upapadyate |  
-9.40c upyate yadd hi yad bījaṃ tat tad eva prarohati || 40 ||  
+९।४०अ अन्यद् उप्तं जातम् अन्यद् इत्य् एतत्-न-उपपद्यते ।  
+९।४०च् उप्यते यद्द् हि यद् बीजं तत् तद् एव प्ररोहति ॥ ४० ॥  
 
 
-9.41a tat prājñena vinītena jñāna.vijñānavedinā |  
-9.41c āyuṣkāmena vaptavyaṃ na jātu parayoṣiti || 41 ||  
+९।४१अ तत् प्राज्ञेन विनीतेन ज्ञान।विज्ञानवेदिना ।  
+९।४१च् आयुष्कामेन वप्तव्यं न जातु परयोषिति ॥ ४१ ॥  
 
 
-9.42a atra gāthā vāyugītāḥ kīrtayanti purāvidaḥ |  
-9.42c yathā bījaṃ na vaptavyaṃ puṃsā paraparigrahe || 42 ||  
+९।४२अ अत्र गाथा वायुगीताः कीर्तयन्ति पुराविदः ।  
+९।४२च् यथा बीजं न वप्तव्यं पुंसा परपरिग्रहे ॥ ४२ ॥  
 
 
-9.43a naśyati-iṣur yathā viddhaḥ khe viddham anuvidhyataḥ |  
-9.43c tathā naśyati vai kṣipraṃ bījaṃ paraparigrahe || 43 || 9.43cv/  \[M\] : “kṣiptaṃ”  
+९।४३अ नश्यति-इषुर् यथा विद्धः खे विद्धम् अनुविध्यतः ।  
+९।४३च् तथा नश्यति वै क्षिप्रं बीजं परपरिग्रहे ॥ ४३ ॥ ९।४३च्व्।  \[म्\] : “क्षिप्तं”  
 
 
-9.44a pṛthor api-imāṃ pṛthivīṃ bhāryāṃ pūrvavido viduḥ |  
-9.44c sthāṇu.cchedasya kedāram āhuḥ śālyavato mṛgam || 44 ||  
+९।४४अ पृथोर् अपि-इमां पृथिवीं भार्यां पूर्वविदो विदुः ।  
+९।४४च् स्थाणु।च्छेदस्य केदारम् आहुः शाल्यवतो मृगम् ॥ ४४ ॥  
 
 
-9.45a etāvān eva puruṣo yat-jāyā-ātmā prajā-iti ha |  
-9.45c viprāḥ prāhus tathā ca-etad yo bhartā sā smṛta.aṅganā || 45 ||  
+९।४५अ एतावान् एव पुरुषो यत्-जाया-आत्मा प्रजा-इति ह ।  
+९।४५च् विप्राः प्राहुस् तथा च-एतद् यो भर्ता सा स्मृत।अङ्गना ॥ ४५ ॥  
 
 
-9.46a na niṣkraya.visargābhyāṃ bhartur bhāryā vimucyate |  
-9.46c evaṃ dharmaṃ vijānīmaḥ prāk prajāpatinirmitam || 46 ||  
+९।४६अ न निष्क्रय।विसर्गाभ्यां भर्तुर् भार्या विमुच्यते ।  
+९।४६च् एवं धर्मं विजानीमः प्राक् प्रजापतिनिर्मितम् ॥ ४६ ॥  
 
 
-9.47a sakṛd aṃśo nipatati sakṛt kanyā pradīyate |  
-9.47c sakṛd āha dadāni-iti trīṇy etāni satāṃ sakṛt || 47 || 9.47cv/  \[M\] : “dadāmi-iti”  
+९।४७अ सकृद् अंशो निपतति सकृत् कन्या प्रदीयते ।  
+९।४७च् सकृद् आह ददानि-इति त्रीण्य् एतानि सतां सकृत् ॥ ४७ ॥ ९।४७च्व्।  \[म्\] : “ददामि-इति”  
 
 
-9.48a yathā go.'śva.uṣṭra.dāsīṣu mahiṣy.ajā.avikāsu ca |  
-9.48c na-utpādakaḥ prajābhāgī tathā-eva-anyāṅganāsv api || 48 ||  
+९।४८अ यथा गो।ऽश्व।उष्ट्र।दासीषु महिष्य्।अजा।अविकासु च ।  
+९।४८च् न-उत्पादकः प्रजाभागी तथा-एव-अन्याङ्गनास्व् अपि ॥ ४८ ॥  
 
 
-9.49a ye 'kṣetriṇo bījavantaḥ parakṣetrapravāpiṇaḥ |  
-9.49c te vai sasyasya jātasya na labhante phalaṃ kva cit || 49 ||  
+९।४९अ ये ऽक्षेत्रिणो बीजवन्तः परक्षेत्रप्रवापिणः ।  
+९।४९च् ते वै सस्यस्य जातस्य न लभन्ते फलं क्व चित् ॥ ४९ ॥  
 
 
-9.50a yad anyagoṣu vṛṣabho vatsānāṃ janayet-śatam |  
-9.50c gominām eva te vatsā moghaṃ skanditam ārṣabham || 50 ||  
+९।५०अ यद् अन्यगोषु वृषभो वत्सानां जनयेत्-शतम् ।  
+९।५०च् गोमिनाम् एव ते वत्सा मोघं स्कन्दितम् आर्षभम् ॥ ५० ॥  
 
 
-9.51a tathā-eva-akṣetriṇo bījaṃ parakṣetrapravāpiṇaḥ |  
-9.51c kurvanti kṣetriṇām arthaṃ na bījī labhate phalam || 51 ||  
+९।५१अ तथा-एव-अक्षेत्रिणो बीजं परक्षेत्रप्रवापिणः ।  
+९।५१च् कुर्वन्ति क्षेत्रिणाम् अर्थं न बीजी लभते फलम् ॥ ५१ ॥  
 
 
-9.52a phalaṃ tv an.abhisandhāya kṣetriṇāṃ bījinām tathā |  
-9.52c pratyakṣaṃ kṣetriṇām artho bījād yonir galīyasī || 52 || 9.52cv/  \[M\] : “barīyasī”  
+९।५२अ फलं त्व् अन्।अभिसन्धाय क्षेत्रिणां बीजिनाम् तथा ।  
+९।५२च् प्रत्यक्षं क्षेत्रिणाम् अर्थो बीजाद् योनिर् गलीयसी ॥ ५२ ॥ ९।५२च्व्।  \[म्\] : “बरीयसी”  
 
 
-9.53a kriyābhyupagamāt tv etad bījārthaṃ yat pradīyate |  
-9.53c tasya-iha bhāginau dṛṣṭau bījī kṣetrika eva ca || 53 ||  
+९।५३अ क्रियाभ्युपगमात् त्व् एतद् बीजार्थं यत् प्रदीयते ।  
+९।५३च् तस्य-इह भागिनौ दृष्टौ बीजी क्षेत्रिक एव च ॥ ५३ ॥  
 
 
-9.54a ogha.vātāhṛtaṃ bījaṃ yasya kṣetre prarohati |  
-9.54c kṣetrikasya-eva tad bījaṃ na vaptā labhate phalam || 54 || 9.54cv/  \[M\] : “na bījī labhate phalam”  
+९।५४अ ओघ।वाताहृतं बीजं यस्य क्षेत्रे प्ररोहति ।  
+९।५४च् क्षेत्रिकस्य-एव तद् बीजं न वप्ता लभते फलम् ॥ ५४ ॥ ९।५४च्व्।  \[म्\] : “न बीजी लभते फलम्”  
 
 
-9.55a eṣa dharmo gava.aśvasya dāsy.uṣṭra.aja.avikasya ca |  
-9.55c vihaṅga.mahiṣīṇāṃ ca vijñeyaḥ prasavaṃ prati || 55 ||  
+९।५५अ एष धर्मो गव।अश्वस्य दास्य्।उष्ट्र।अज।अविकस्य च ।  
+९।५५च् विहङ्ग।महिषीणां च विज्ञेयः प्रसवं प्रति ॥ ५५ ॥  
 
 
-9.56a etad vaḥ sāraphalgutvaṃ bīja.yonyoḥ prakīrtitam |  
-9.56c ataḥ paraṃ pravakṣyāmi yoṣitāṃ dharmam āpadi || 56 ||  
+९।५६अ एतद् वः सारफल्गुत्वं बीज।योन्योः प्रकीर्तितम् ।  
+९।५६च् अतः परं प्रवक्ष्यामि योषितां धर्मम् आपदि ॥ ५६ ॥  
 
 
- 9.1.1.5. Levirate
- \[O\]  edn 756-758,  \[O\]  tr. 193
-9.57a bhrātur jyeṣṭhasya bhāryā yā gurupatny anujasya sā |  
-9.57c yavīyasas tu yā bhāryā snuṣā jyeṣṭhasya sā smṛtā || 57 ||  
+ ९।१।१।५। लेविरते
+ \[ओ\]  एद्न् ७५६-७५८,  \[ओ\]  त्र्। १९३
+९।५७अ भ्रातुर् ज्येष्ठस्य भार्या या गुरुपत्न्य् अनुजस्य सा ।  
+९।५७च् यवीयसस् तु या भार्या स्नुषा ज्येष्ठस्य सा स्मृता ॥ ५७ ॥  
 
 
-9.58a jyeṣṭho yavīyaso bhāryāṃ yavīyān vā-agrajastriyam |  
-9.58c patitau bhavato gatvā niyuktāv apy anāpadi || 58 ||  
+९।५८अ ज्येष्ठो यवीयसो भार्यां यवीयान् वा-अग्रजस्त्रियम् ।  
+९।५८च् पतितौ भवतो गत्वा नियुक्ताव् अप्य् अनापदि ॥ ५८ ॥  
 
 
-9.59a devarād vā sapiṇḍād vā striyā samyak-niyuktayā |  
-9.59c prajā-īpsitāa-adhigantavyā santānasya parikṣaye || 59 ||  
+९।५९अ देवराद् वा सपिण्डाद् वा स्त्रिया सम्यक्-नियुक्तया ।  
+९।५९च् प्रजा-ईप्सिताअ-अधिगन्तव्या सन्तानस्य परिक्षये ॥ ५९ ॥  
 
 
-9.60a vidhavāyāṃ niyuktas tu ghṛtākto vāgyato niśi |  
-9.60c ekam utpādayet putraṃ na dvitīyaṃ kathaṃ cana || 60 ||  
+९।६०अ विधवायां नियुक्तस् तु घृताक्तो वाग्यतो निशि ।  
+९।६०च् एकम् उत्पादयेत् पुत्रं न द्वितीयं कथं चन ॥ ६० ॥  
 
 
-9.61a dvitīyam eke prajanaṃ manyante strīṣu tadvidaḥ |  
-9.61c a.nirvṛtaṃ niyogārthaṃ paśyanto dharmatas tayoḥ || 61 || 9.61cv/  \[M\] : “a.nirvṛttaṃ”  
+९।६१अ द्वितीयम् एके प्रजनं मन्यन्ते स्त्रीषु तद्विदः ।  
+९।६१च् अ।निर्वृतं नियोगार्थं पश्यन्तो धर्मतस् तयोः ॥ ६१ ॥ ९।६१च्व्।  \[म्\] : “अ।निर्वृत्तं”  
 
 
-9.62a vidhavāyāṃ niyogārthe nirvṛtte tu yathāvidhi | 9.62av/  \[M\] : “nivṛtte”  
-9.62c guruvat-ca snuṣāvat-ca varteyātāṃ parasparam || 62 ||  
+९।६२अ विधवायां नियोगार्थे निर्वृत्ते तु यथाविधि । ९।६२अव्।  \[म्\] : “निवृत्ते”  
+९।६२च् गुरुवत्-च स्नुषावत्-च वर्तेयातां परस्परम् ॥ ६२ ॥  
 
 
-9.63a niyuktau yau vidhiṃ hitvā varteyātāṃ tu kāmataḥ |  
-9.63c tāv ubhau patitau syātāṃ snuṣāga.gurutalpagau || 63 ||  
+९।६३अ नियुक्तौ यौ विधिं हित्वा वर्तेयातां तु कामतः ।  
+९।६३च् ताव् उभौ पतितौ स्यातां स्नुषाग।गुरुतल्पगौ ॥ ६३ ॥  
 
 
-9.64a na-anyasmin vidhavā nārī niyoktavyā dvijātibhiḥ |  
-9.64c anyasmin hi niyuñjānā dharmaṃ hanyuḥ sanātanam || 64 ||  
+९।६४अ न-अन्यस्मिन् विधवा नारी नियोक्तव्या द्विजातिभिः ।  
+९।६४च् अन्यस्मिन् हि नियुञ्जाना धर्मं हन्युः सनातनम् ॥ ६४ ॥  
 
 
-9.65a na-udvāhikeṣu mantreṣu niyogaḥ kīrtyate kva cit |  
-9.65c na vivāhavidhāv uktaṃ vidhavāvedanaṃ punaḥ || 65 ||  
+९।६५अ न-उद्वाहिकेषु मन्त्रेषु नियोगः कीर्त्यते क्व चित् ।  
+९।६५च् न विवाहविधाव् उक्तं विधवावेदनं पुनः ॥ ६५ ॥  
 
 
-9.66a ayaṃ dvijair hi vidvadbhiḥ paśudharmo vigarhitaḥ |  
-9.66c manuṣyāṇām api prokto vene rājyaṃ praśāsati || 66 ||  
+९।६६अ अयं द्विजैर् हि विद्वद्भिः पशुधर्मो विगर्हितः ।  
+९।६६च् मनुष्याणाम् अपि प्रोक्तो वेने राज्यं प्रशासति ॥ ६६ ॥  
 
 
-9.67a sa mahīm akhilāṃ bhuñjan rājarṣipravaraḥ purā |  
-9.67c varṇānāṃ saṅkaraṃ cakre kāma.upahata.cetanaḥ || 67 ||  
+९।६७अ स महीम् अखिलां भुञ्जन् राजर्षिप्रवरः पुरा ।  
+९।६७च् वर्णानां सङ्करं चक्रे काम।उपहत।चेतनः ॥ ६७ ॥  
 
 
-9.68a tataḥ prabhṛti yo mohāt pramīta.patikāṃ striyam |  
-9.68c niyojayaty apatyārthaṃ taṃ vigarhanti sādhavaḥ || 68 ||  
+९।६८अ ततः प्रभृति यो मोहात् प्रमीत।पतिकां स्त्रियम् ।  
+९।६८च् नियोजयत्य् अपत्यार्थं तं विगर्हन्ति साधवः ॥ ६८ ॥  
 
 
-9.69a yasyā mriyeta kanyāyā vācā satye kṛte patiḥ |  
-9.69c tām anena vidhānena nijo vindeta devaraḥ || 69 ||  
+९।६९अ यस्या म्रियेत कन्याया वाचा सत्ये कृते पतिः ।  
+९।६९च् ताम् अनेन विधानेन निजो विन्देत देवरः ॥ ६९ ॥  
 
 
-9.70a yathāvidhi-adhigamya-enāṃ śukla.vastrāṃ śuci.vratām |  
-9.70c mitho bhajeta-ā prasavāt sakṛt.sakṛd ṛtāv.ṛtau || 70 ||  
+९।७०अ यथाविधि-अधिगम्य-एनां शुक्ल।वस्त्रां शुचि।व्रताम् ।  
+९।७०च् मिथो भजेत-आ प्रसवात् सकृत्।सकृद् ऋताव्।ऋतौ ॥ ७० ॥  
 
 
- 9.1.1.6. Contract of Betrothal
- \[O\]  edn 759,  \[O\]  tr. 193
-9.71a na dattvā kasya cit kanyāṃ punar dadyād vicakṣaṇaḥ |  
-9.71c dattvā punaḥ prayacchan hi prāpnoti puruṣānṛtam || 71 ||  
+ ९।१।१।६। चोन्त्रच्त् ओड़् बेत्रोथल्
+ \[ओ\]  एद्न् ७५९,  \[ओ\]  त्र्। १९३
+९।७१अ न दत्त्वा कस्य चित् कन्यां पुनर् दद्याद् विचक्षणः ।  
+९।७१च् दत्त्वा पुनः प्रयच्छन् हि प्राप्नोति पुरुषानृतम् ॥ ७१ ॥  
 
 
-9.72a vidhivat pratigṛhya-api tyajet kanyāṃ vigarhitām |  
-9.72c vyādhitāṃ vipraduṣṭāṃ vā chadmanā ca-upapāditām || 72 ||  
+९।७२अ विधिवत् प्रतिगृह्य-अपि त्यजेत् कन्यां विगर्हिताम् ।  
+९।७२च् व्याधितां विप्रदुष्टां वा छद्मना च-उपपादिताम् ॥ ७२ ॥  
 
 
-9.73a yas tu doṣavatīṃ kanyām an.ākhyāya-upapādayet |  
-9.73c tasya tad vitathaṃ kuryāt kanyādātur durātmanaḥ || 73 ||  
+९।७३अ यस् तु दोषवतीं कन्याम् अन्।आख्याय-उपपादयेत् ।  
+९।७३च् तस्य तद् वितथं कुर्यात् कन्यादातुर् दुरात्मनः ॥ ७३ ॥  
 
 
- 9.1.1.7. Absence of Husband
- \[O\]  edn 759,  \[O\]  tr. 193-194
-9.74a vidhāya vṛttiṃ bhāryāyāḥ pravaset kāryavān naraḥ |  
-9.74c avṛttikarśitā hi strī praduṣyet sthitimaty api || 74 ||  
+ ९।१।१।७। अब्सेन्चे ओड़् हुस्बन्द्
+ \[ओ\]  एद्न् ७५९,  \[ओ\]  त्र्। १९३-१९४
+९।७४अ विधाय वृत्तिं भार्यायाः प्रवसेत् कार्यवान् नरः ।  
+९।७४च् अवृत्तिकर्शिता हि स्त्री प्रदुष्येत् स्थितिमत्य् अपि ॥ ७४ ॥  
 
 
-9.75a vidhāya proṣite vṛttiṃ jīven niyamam āsthitā |  
-9.75c proṣite tv a.vidhāya-eva jīvet-śilpair agarhitaiḥ || 75 ||  
+९।७५अ विधाय प्रोषिते वृत्तिं जीवेन् नियमम् आस्थिता ।  
+९।७५च् प्रोषिते त्व् अ।विधाय-एव जीवेत्-शिल्पैर् अगर्हितैः ॥ ७५ ॥  
 
 
-9.76a proṣito dharmakāryārthaṃ pratīkṣyo 'ṣṭau naraḥ samāḥ |  
-9.76c vidyārthaṃ ṣaḍ yaśo.'rthaṃ vā kāmārthaṃ trīṃs tu vatsarān || 76 ||  
+९।७६अ प्रोषितो धर्मकार्यार्थं प्रतीक्ष्यो ऽष्टौ नरः समाः ।  
+९।७६च् विद्यार्थं षड् यशो।ऽर्थं वा कामार्थं त्रींस् तु वत्सरान् ॥ ७६ ॥  
 
 
- 9.1.1.8. Repudiation of a Wife
- \[O\]  edn 760-761,  \[O\]  tr. 194
-9.77a saṃvatsaraṃ pratīkṣeta dviṣantīṃ yoṣitaṃ patiḥ | 9.77av/  \[M\] : “dviṣāṇāṃ”  
-9.77c ūrdhvaṃ saṃvatsarāt tv enāṃ dāyaṃ hṛtvā na saṃvaset || 77 ||  
+ ९।१।१।८। रेपुदिअतिओन् ओड़् अ Wइड़े
+ \[ओ\]  एद्न् ७६०-७६१,  \[ओ\]  त्र्। १९४
+९।७७अ संवत्सरं प्रतीक्षेत द्विषन्तीं योषितं पतिः । ९।७७अव्।  \[म्\] : “द्विषाणां”  
+९।७७च् ऊर्ध्वं संवत्सरात् त्व् एनां दायं हृत्वा न संवसेत् ॥ ७७ ॥  
 
 
-9.78a atikrāmet pramattaṃ yā mattaṃ rogārtam eva vā |  
-9.78c sā trīn māsān parityājyā vibhūṣaṇa.paricchadā || 78 ||  
+९।७८अ अतिक्रामेत् प्रमत्तं या मत्तं रोगार्तम् एव वा ।  
+९।७८च् सा त्रीन् मासान् परित्याज्या विभूषण।परिच्छदा ॥ ७८ ॥  
 
 
-9.79a unmattaṃ patitaṃ klībam a.bījaṃ pāparogiṇam |  
-9.79c na tyāgo 'sti dviṣantyāś ca na ca dāyāpavartanam || 79 ||  
+९।७९अ उन्मत्तं पतितं क्लीबम् अ।बीजं पापरोगिणम् ।  
+९।७९च् न त्यागो ऽस्ति द्विषन्त्याश् च न च दायापवर्तनम् ॥ ७९ ॥  
 
 
-9.80a madyapā-asādhuvṛttā ca pratikūlā ca yā bhavet | 9.80av/  \[M\] : “madyapa.asatyavṛttā”  
-9.80c vyādhitā vā-adhivettavyā hiṃsrā-arthaghnī ca sarvadā || 80 ||  
+९।८०अ मद्यपा-असाधुवृत्ता च प्रतिकूला च या भवेत् । ९।८०अव्।  \[म्\] : “मद्यप।असत्यवृत्ता”  
+९।८०च् व्याधिता वा-अधिवेत्तव्या हिंस्रा-अर्थघ्नी च सर्वदा ॥ ८० ॥  
 
 
-9.81a vandhyāṣṭame 'dhivedyā-'bde daśame tu mṛta.prajā |  
-9.81c ekādaśe strījananī sadyas tv apriyavādinī || 81 ||  
+९।८१अ वन्ध्याष्टमे ऽधिवेद्या-ऽब्दे दशमे तु मृत।प्रजा ।  
+९।८१च् एकादशे स्त्रीजननी सद्यस् त्व् अप्रियवादिनी ॥ ८१ ॥  
 
 
-9.82a yā rogiṇī syāt tu hitā sampannā ca-eva śīlataḥ |  
-9.82c sā-anujñāpya-adhivettavyā na-avamānyā ca karhi cit || 82 ||  
+९।८२अ या रोगिणी स्यात् तु हिता सम्पन्ना च-एव शीलतः ।  
+९।८२च् सा-अनुज्ञाप्य-अधिवेत्तव्या न-अवमान्या च कर्हि चित् ॥ ८२ ॥  
 
 
-9.83a adhivinnā tu yā nārī nirgacched ruṣitā gṛhāt |  
-9.83c sā sadyaḥ sanniroddhavyā tyājyā vā kulasannidhau || 83 ||  
+९।८३अ अधिविन्ना तु या नारी निर्गच्छेद् रुषिता गृहात् ।  
+९।८३च् सा सद्यः सन्निरोद्धव्या त्याज्या वा कुलसन्निधौ ॥ ८३ ॥  
 
 
-9.84a pratiṣiddhā-api ced yā tu madyam abhyudayeṣv api | 9.84av/  \[M\] : “pratiṣedhe pibed yā tu”  
-9.84c prekṣā.samājaṃ gacched vā sā daṇḍyā kṛṣṇalāni ṣaṭ || 84 ||  
+९।८४अ प्रतिषिद्धा-अपि चेद् या तु मद्यम् अभ्युदयेष्व् अपि । ९।८४अव्।  \[म्\] : “प्रतिषेधे पिबेद् या तु”  
+९।८४च् प्रेक्षा।समाजं गच्छेद् वा सा दण्ड्या कृष्णलानि षट् ॥ ८४ ॥  
 
 
- 9.1.1.9. Seniority among Wives
- \[O\]  edn 761-762,  \[O\]  tr. 194
-9.85a yadi svāś ca-aparāś ca-eva vinderan yoṣito dvijāḥ |  
-9.85c tāsāṃ varṇakrameṇa syāj jyeṣṭhyaṃ pūjā ca veśma ca || 85 ||  
+ ९।१।१।९। सेनिओरित्य् अमोन्ग् Wइवेस्
+ \[ओ\]  एद्न् ७६१-७६२,  \[ओ\]  त्र्। १९४
+९।८५अ यदि स्वाश् च-अपराश् च-एव विन्देरन् योषितो द्विजाः ।  
+९।८५च् तासां वर्णक्रमेण स्याज् ज्येष्ठ्यं पूजा च वेश्म च ॥ ८५ ॥  
 
 
-9.86a bhartuḥ śarīraśuśrūṣāṃ dharmakāryaṃ ca naityakam |  
-9.86c svā ca-eva kuryāt sarveṣāṃ na-asvajātiḥ kathaṃ cana || 86 || 9.86cv/  \[M\] : “svā svā-eva”  
+९।८६अ भर्तुः शरीरशुश्रूषां धर्मकार्यं च नैत्यकम् ।  
+९।८६च् स्वा च-एव कुर्यात् सर्वेषां न-अस्वजातिः कथं चन ॥ ८६ ॥ ९।८६च्व्।  \[म्\] : “स्वा स्वा-एव”  
 
 
-9.87a yas tu tat kārayen mohāt sa.jātyā sthitayā-anyayā |  
-9.87c yathā brāhmaṇacāṇḍālaḥ pūrvadṛṣṭas tathā-eva saḥ || 87 ||  
+९।८७अ यस् तु तत् कारयेन् मोहात् स।जात्या स्थितया-अन्यया ।  
+९।८७च् यथा ब्राह्मणचाण्डालः पूर्वदृष्टस् तथा-एव सः ॥ ८७ ॥  
 
 
- 9.1.1.10. Marriage of Daughters
- \[O\]  edn 762-765,  \[O\]  tr. 194-195
-9.88a utkṛṣṭāya-abhirūpāya varāya sadṛśāya ca |  
-9.88c aprāptām api tāṃ tasmai kanyāṃ dadyād yathāvidhi || 88 ||  
+ ९।१।१।१०। मर्रिअगे ओड़् दौघ्तेर्स्
+ \[ओ\]  एद्न् ७६२-७६५,  \[ओ\]  त्र्। १९४-१९५
+९।८८अ उत्कृष्टाय-अभिरूपाय वराय सदृशाय च ।  
+९।८८च् अप्राप्ताम् अपि तां तस्मै कन्यां दद्याद् यथाविधि ॥ ८८ ॥  
 
 
-9.89a kāmam ā maraṇāt tiṣṭhed gṛhe kanyā-ṛtumaty api |  
-9.89c na ca-eva-enāṃ prayaccet tu guṇa.hīnāya karhi cit || 89 ||  
+९।८९अ कामम् आ मरणात् तिष्ठेद् गृहे कन्या-ऋतुमत्य् अपि ।  
+९।८९च् न च-एव-एनां प्रयच्चेत् तु गुण।हीनाय कर्हि चित् ॥ ८९ ॥  
 
 
-9.90a trīṇi varṣāṇy udīkṣeta kumāry ṛtumatī satī |  
-9.90c ūrdhvaṃ tu kālād etasmād vindeta sadṛśaṃ patim || 90 ||  
+९।९०अ त्रीणि वर्षाण्य् उदीक्षेत कुमार्य् ऋतुमती सती ।  
+९।९०च् ऊर्ध्वं तु कालाद् एतस्माद् विन्देत सदृशं पतिम् ॥ ९० ॥  
 
 
-9.91a a.dīyamānā bhartāram adhigacched yadi svayam |  
-9.91c na-enaḥ kiṃ cid avāpnoti na ca yaṃ sā-adhigacchati || 91 ||  
+९।९१अ अ।दीयमाना भर्तारम् अधिगच्छेद् यदि स्वयम् ।  
+९।९१च् न-एनः किं चिद् अवाप्नोति न च यं सा-अधिगच्छति ॥ ९१ ॥  
 
 
-9.92a alaṅkāraṃ na-ādadīta pitryaṃ kanyā svayaṃvarā |  
-9.92c mātṛkaṃ bhrātṛdattaṃ vā stenā syād yadi taṃ haret || 92 ||  
+९।९२अ अलङ्कारं न-आददीत पित्र्यं कन्या स्वयंवरा ।  
+९।९२च् मातृकं भ्रातृदत्तं वा स्तेना स्याद् यदि तं हरेत् ॥ ९२ ॥  
 
 
-9.93a pitre na dadyāt-śulkaṃ tu kanyām ṛtumatīṃ haran |  
-9.93c sa ca svāmyād atikrāmed ṛtūnāṃ pratirodhanāt || 93 ||  
+९।९३अ पित्रे न दद्यात्-शुल्कं तु कन्याम् ऋतुमतीं हरन् ।  
+९।९३च् स च स्वाम्याद् अतिक्रामेद् ऋतूनां प्रतिरोधनात् ॥ ९३ ॥  
 
 
-9.94a triṃśadvarṣo vahet kanyāṃ hṛdyāṃ dvādaśavārṣikīm |  
-9.94c tryaṣṭavarṣo 'ṣṭavarṣāṃ vā dharme sīdati satvaraḥ || 94 ||  
+९।९४अ त्रिंशद्वर्षो वहेत् कन्यां हृद्यां द्वादशवार्षिकीम् ।  
+९।९४च् त्र्यष्टवर्षो ऽष्टवर्षां वा धर्मे सीदति सत्वरः ॥ ९४ ॥  
 
 
-9.95a devadattāṃ patir bhāryāṃ vindate na-icchayā-ātmanaḥ |  
-9.95c tāṃ sādhvīṃ bibhṛyān nityaṃ devānāṃ priyam ācaran || 95 ||  
+९।९५अ देवदत्तां पतिर् भार्यां विन्दते न-इच्छया-आत्मनः ।  
+९।९५च् तां साध्वीं बिभृयान् नित्यं देवानां प्रियम् आचरन् ॥ ९५ ॥  
 
 
-9.96a prajanārthaṃ striyaḥ sṛṣṭāḥ santānārthaṃ ca mānavaḥ |  
-9.96c tasmāt sādhāraṇo dharmaḥ śrutau patnyā saha.uditaḥ || 96 ||  
+९।९६अ प्रजनार्थं स्त्रियः सृष्टाः सन्तानार्थं च मानवः ।  
+९।९६च् तस्मात् साधारणो धर्मः श्रुतौ पत्न्या सह।उदितः ॥ ९६ ॥  
 
 
-9.97a kanyāyāṃ datta.śulkāyāṃ mriyeta yadi śulkadaḥ |  
-9.97c devarāya pradātavyā yadi kanyā-anumanyate || 97 ||  
+९।९७अ कन्यायां दत्त।शुल्कायां म्रियेत यदि शुल्कदः ।  
+९।९७च् देवराय प्रदातव्या यदि कन्या-अनुमन्यते ॥ ९७ ॥  
 
 
-9.98a ādadīta na śūdro 'pi śulkaṃ duhitaraṃ dadan |  
-9.98c śulkaṃ hi gṛhṇan kurute channaṃ duhitṛvikrayam || 98 ||  
+९।९८अ आददीत न शूद्रो ऽपि शुल्कं दुहितरं ददन् ।  
+९।९८च् शुल्कं हि गृह्णन् कुरुते छन्नं दुहितृविक्रयम् ॥ ९८ ॥  
 
 
-9.99a etat tu na pare cakrur na-apare jātu sādhavaḥ |  
-9.99c yad anyasya pratijñāya punar anyasya dīyate || 99 ||  
+९।९९अ एतत् तु न परे चक्रुर् न-अपरे जातु साधवः ।  
+९।९९च् यद् अन्यस्य प्रतिज्ञाय पुनर् अन्यस्य दीयते ॥ ९९ ॥  
 
 
-9.100a na-anuśuśruma jātu-etat pūrveṣv api hi janmasu |  
-9.100c śulka.sañjñena mūlyena channaṃ duhitṛvikrayam || 100 ||  
+९।१००अ न-अनुशुश्रुम जातु-एतत् पूर्वेष्व् अपि हि जन्मसु ।  
+९।१००च् शुल्क।सञ्ज्ञेन मूल्येन छन्नं दुहितृविक्रयम् ॥ १०० ॥  
 
 
-9.101a anyonyasya-avyabhicāro bhaved ā.maraṇāntikaḥ |  
-9.101c eṣa dharmaḥ samāsena jñeyaḥ strī.puṃsayoḥ paraḥ || 101 ||  
+९।१०१अ अन्योन्यस्य-अव्यभिचारो भवेद् आ।मरणान्तिकः ।  
+९।१०१च् एष धर्मः समासेन ज्ञेयः स्त्री।पुंसयोः परः ॥ १०१ ॥  
 
 
-9.102a tathā nityaṃ yateyātāṃ strī.puṃsau tu kṛta.kriyau |  
-9.102c yathā nābhicaretāṃ tau viyuktāv itaretaram || 102 || 9.102cv/  \[M\] : “na-aticaretāṃ”  
+९।१०२अ तथा नित्यं यतेयातां स्त्री।पुंसौ तु कृत।क्रियौ ।  
+९।१०२च् यथा नाभिचरेतां तौ वियुक्ताव् इतरेतरम् ॥ १०२ ॥ ९।१०२च्व्।  \[म्\] : “न-अतिचरेतां”  
 
 
-9.103a eṣa strī.puṃsayor ukto dharmo vo ratisaṃhitaḥ |  
-9.103c āpady apatyaprāptiś ca dāyadharmaṃ nibodhata || 103 ||  
+९।१०३अ एष स्त्री।पुंसयोर् उक्तो धर्मो वो रतिसंहितः ।  
+९।१०३च् आपद्य् अपत्यप्राप्तिश् च दायधर्मं निबोधत ॥ १०३ ॥  
 
 
-# 9.1.2. Grounds of Litigation-XVII Partition of Inheritance
- \[O\]  edn 765-787,  \[O\]  tr. 195-201
-9.104a ūrdhvaṃ pituś ca mātuś ca sametya bhrātaraḥ samam |  
-9.104c bhajeran paitṛkaṃ riktham anīśās te hi jīvatoḥ || 104 ||  
+# ९।१।२। ग्रोउन्द्स् ओड़् लितिगतिओन्-Xविइ पर्तितिओन् ओड़् इन्हेरितन्चे
+ \[ओ\]  एद्न् ७६५-७८७,  \[ओ\]  त्र्। १९५-२०१
+९।१०४अ ऊर्ध्वं पितुश् च मातुश् च समेत्य भ्रातरः समम् ।  
+९।१०४च् भजेरन् पैतृकं रिक्थम् अनीशास् ते हि जीवतोः ॥ १०४ ॥  
 
 
- 9.1.2.1. Primogeniture
- \[O\]  edn 766,  \[O\]  tr. 195
-9.105a jyeṣṭha eva tu gṛhṇīyāt pitryaṃ dhanam aśeṣataḥ |  
-9.105c śeṣās tam upajīveyur yathā-eva pitaraṃ tathā || 105 ||  
+ ९।१।२।१। प्रिमोगेनितुरे
+ \[ओ\]  एद्न् ७६६,  \[ओ\]  त्र्। १९५
+९।१०५अ ज्येष्ठ एव तु गृह्णीयात् पित्र्यं धनम् अशेषतः ।  
+९।१०५च् शेषास् तम् उपजीवेयुर् यथा-एव पितरं तथा ॥ १०५ ॥  
 
 
-9.106a jyeṣṭhena jātamātreṇa putrī bhavati mānavaḥ |  
-9.106c pitṝṇām an.ṛṇaś ca-eva sa tasmāt sarvam arhati || 106 ||  
+९।१०६अ ज्येष्ठेन जातमात्रेण पुत्री भवति मानवः ।  
+९।१०६च् पितॄणाम् अन्।ऋणश् च-एव स तस्मात् सर्वम् अर्हति ॥ १०६ ॥  
 
 
-9.107a yasminn ṛṇaṃ sannayati yena ca-anantyam aśnute |  
-9.107c sa eva dharmajaḥ putraḥ kāmajān itarān viduḥ || 107 ||  
+९।१०७अ यस्मिन्न् ऋणं सन्नयति येन च-अनन्त्यम् अश्नुते ।  
+९।१०७च् स एव धर्मजः पुत्रः कामजान् इतरान् विदुः ॥ १०७ ॥  
 
 
-9.108a pitā-iva pālayet pūtrān jyeṣṭho bhrātṝṇ yavīyasaḥ |  
-9.108c putravat-ca-api varteran jyeṣṭhe bhrātari dharmataḥ || 108 ||  
+९।१०८अ पिता-इव पालयेत् पूत्रान् ज्येष्ठो भ्रातॄण् यवीयसः ।  
+९।१०८च् पुत्रवत्-च-अपि वर्तेरन् ज्येष्ठे भ्रातरि धर्मतः ॥ १०८ ॥  
 
 
-9.109a jyeṣṭhaḥ kulaṃ vardhayati vināśayati vā punaḥ |  
-9.109c jyeṣṭhaḥ pūjyatamo loke jyeṣṭhaḥ sadbhir a.garhitaḥ || 109 ||  
+९।१०९अ ज्येष्ठः कुलं वर्धयति विनाशयति वा पुनः ।  
+९।१०९च् ज्येष्ठः पूज्यतमो लोके ज्येष्ठः सद्भिर् अ।गर्हितः ॥ १०९ ॥  
 
 
-9.110a yo jyeṣṭho jyeṣṭha.vṛttiḥ syān mātā-iva sa pitā-iva saḥ |  
-9.110c a.jyeṣṭhavṛttir yas tu syāt sa sampūjyas tu bandhuvat || 110 ||  
+९।११०अ यो ज्येष्ठो ज्येष्ठ।वृत्तिः स्यान् माता-इव स पिता-इव सः ।  
+९।११०च् अ।ज्येष्ठवृत्तिर् यस् तु स्यात् स सम्पूज्यस् तु बन्धुवत् ॥ ११० ॥  
 
 
- 9.1.2.2. Partition and Seniority
- \[O\]  edn 767-768,  \[O\]  tr. 195-196
-9.111a evaṃ saha vaseyur vā pṛthag vā dharmakāmyayā |  
-9.111c pṛthag vivardhate dharmas tasmād dharmyā pṛthakkriyā || 111 ||  
+ ९।१।२।२। पर्तितिओन् अन्द् सेनिओरित्य्
+ \[ओ\]  एद्न् ७६७-७६८,  \[ओ\]  त्र्। १९५-१९६
+९।१११अ एवं सह वसेयुर् वा पृथग् वा धर्मकाम्यया ।  
+९।१११च् पृथग् विवर्धते धर्मस् तस्माद् धर्म्या पृथक्क्रिया ॥ १११ ॥  
 
 
-9.112a jyeṣṭhasya viṃśa uddhāraḥ sarvadravyāc ca yad varam |  
-9.112c tato 'rdhaṃ madhyamasya syāt turīyaṃ tu yavīyasaḥ || 112 ||  
+९।११२अ ज्येष्ठस्य विंश उद्धारः सर्वद्रव्याच् च यद् वरम् ।  
+९।११२च् ततो ऽर्धं मध्यमस्य स्यात् तुरीयं तु यवीयसः ॥ ११२ ॥  
 
 
-9.113a jyeṣṭhaś ca-eva kaniṣṭhaś ca saṃharetāṃ yathā.uditam |  
-9.113c ye 'nye jyeṣṭha.kaniṣṭhābhyāṃ teṣāṃ syān madhyamaṃ dhanam || 113 ||  
+९।११३अ ज्येष्ठश् च-एव कनिष्ठश् च संहरेतां यथा।उदितम् ।  
+९।११३च् ये ऽन्ये ज्येष्ठ।कनिष्ठाभ्यां तेषां स्यान् मध्यमं धनम् ॥ ११३ ॥  
 
 
-9.114a sarveṣāṃ dhanajātānām ādadīta-agryam agrajaḥ |  
-9.114c yac ca sātiśayaṃ kiṃ cid daśataś ca-āpnuyād varam || 114 ||  
+९।११४अ सर्वेषां धनजातानाम् आददीत-अग्र्यम् अग्रजः ।  
+९।११४च् यच् च सातिशयं किं चिद् दशतश् च-आप्नुयाद् वरम् ॥ ११४ ॥  
 
 
-9.115a uddhāro na daśasv asti sampannānāṃ svakarmasu |  
-9.115c yat kiṃ cid eva deyaṃ tu jyāyase māna.vardhanam || 115 ||  
+९।११५अ उद्धारो न दशस्व् अस्ति सम्पन्नानां स्वकर्मसु ।  
+९।११५च् यत् किं चिद् एव देयं तु ज्यायसे मान।वर्धनम् ॥ ११५ ॥  
 
 
-9.116a evaṃ samuddhṛta.uddhāre samān aṃśān prakalpayet |  
-9.116c uddhāre 'n.uddhṛte tv eṣām iyaṃ syād aṃśakalpanā || 116 ||  
+९।११६अ एवं समुद्धृत।उद्धारे समान् अंशान् प्रकल्पयेत् ।  
+९।११६च् उद्धारे ऽन्।उद्धृते त्व् एषाम् इयं स्याद् अंशकल्पना ॥ ११६ ॥  
 
 
-9.117a ekādhikaṃ harej jyeṣṭhaḥ putro 'dhyardhaṃ tato 'nujaḥ |  
-9.117c aṃśam aṃśaṃ yavīyāṃsa iti dharmo vyavasthitaḥ || 117 ||  
+९।११७अ एकाधिकं हरेज् ज्येष्ठः पुत्रो ऽध्यर्धं ततो ऽनुजः ।  
+९।११७च् अंशम् अंशं यवीयांस इति धर्मो व्यवस्थितः ॥ ११७ ॥  
 
 
-9.118a svebhyo 'ṃśebhyas tu kanyābhyaḥ pradadyur bhrātaraḥ pṛthak | 9.118av/  \[M\] : “svābhyaḥ svābhyas tu”  
-9.118c svāt svād aṃśāc caturbhāgaṃ patitāḥ syur aditsavaḥ || 118 ||  
+९।११८अ स्वेभ्यो ऽंशेभ्यस् तु कन्याभ्यः प्रदद्युर् भ्रातरः पृथक् । ९।११८अव्।  \[म्\] : “स्वाभ्यः स्वाभ्यस् तु”  
+९।११८च् स्वात् स्वाद् अंशाच् चतुर्भागं पतिताः स्युर् अदित्सवः ॥ ११८ ॥  
 
 
-9.119a aja.āvikaṃ sa.ekaśaphaṃ na jātu viṣamaṃ bhajet | 9.119av/  \[M\] : “aja.āvikaṃ ca-ekaśaphaṃ”  
-9.119c aja.āvikaṃ tu viṣamaṃ jyeṣṭhasya-eva vidhīyate || 119 ||  
+९।११९अ अज।आविकं स।एकशफं न जातु विषमं भजेत् । ९।११९अव्।  \[म्\] : “अज।आविकं च-एकशफं”  
+९।११९च् अज।आविकं तु विषमं ज्येष्ठस्य-एव विधीयते ॥ ११९ ॥  
 
 
- 9.1.2.3. Seniority of Leviratic Sons
- \[O\]  edn 768,  \[O\]  tr. 196
-9.120a yavīyān-jyeṣṭhabhāryāyāṃ putram utpādayed yadi |  
-9.120c samas tatra vibhāgaḥ syād iti dharmo vyavasthitaḥ || 120 ||  
+ ९।१।२।३। सेनिओरित्य् ओड़् लेविरतिच् सोन्स्
+ \[ओ\]  एद्न् ७६८,  \[ओ\]  त्र्। १९६
+९।१२०अ यवीयान्-ज्येष्ठभार्यायां पुत्रम् उत्पादयेद् यदि ।  
+९।१२०च् समस् तत्र विभागः स्याद् इति धर्मो व्यवस्थितः ॥ १२० ॥  
 
 
-9.121a upasarjanaṃ pradhānasya dharmato na-upapadyate |  
-9.121c pitā pradhānaṃ prajane tasmād dharmeṇa taṃ bhajet || 121 ||  
+९।१२१अ उपसर्जनं प्रधानस्य धर्मतो न-उपपद्यते ।  
+९।१२१च् पिता प्रधानं प्रजने तस्माद् धर्मेण तं भजेत् ॥ १२१ ॥  
 
 
- 9.1.2.4. Seniority among Sons of Different Wives
- \[O\]  edn 768-769,  \[O\]  tr. 196
-9.122a putraḥ kaniṣṭho jyeṣṭhāyāṃ kaniṣṭhāyāṃ ca pūrvajaḥ |  
-9.122c kathaṃ tatra vibhāgaḥ syād iti cet saṃśayo bhavet || 122 ||  
+ ९।१।२।४। सेनिओरित्य् अमोन्ग् सोन्स् ओड़् दिड़्ड़ेरेन्त् Wइवेस्
+ \[ओ\]  एद्न् ७६८-७६९,  \[ओ\]  त्र्। १९६
+९।१२२अ पुत्रः कनिष्ठो ज्येष्ठायां कनिष्ठायां च पूर्वजः ।  
+९।१२२च् कथं तत्र विभागः स्याद् इति चेत् संशयो भवेत् ॥ १२२ ॥  
 
 
-9.123a ekaṃ vṛṣabham uddhāraṃ saṃhareta sa pūrvajaḥ |  
-9.123c tato 'pare jyeṣṭhavṛṣās tad.ūnānāṃ svamātṛtaḥ || 123 ||  
+९।१२३अ एकं वृषभम् उद्धारं संहरेत स पूर्वजः ।  
+९।१२३च् ततो ऽपरे ज्येष्ठवृषास् तद्।ऊनानां स्वमातृतः ॥ १२३ ॥  
 
 
-9.124a jyeṣṭhas tu jāto jyeṣṭhāyāṃ hared vṛṣabha.ṣoḍaśāḥ |  
-9.124c tataḥ svamātṛtaḥ śeṣā bhajerann iti dhāraṇā || 124 ||  
+९।१२४अ ज्येष्ठस् तु जातो ज्येष्ठायां हरेद् वृषभ।षोडशाः ।  
+९।१२४च् ततः स्वमातृतः शेषा भजेरन्न् इति धारणा ॥ १२४ ॥  
 
 
-9.125a sadṛśastrīṣu jātānāṃ putrāṇām aviśeṣataḥ |  
-9.125c na mātṛto jyaiṣṭhyam asti janmato jyaiṣṭhyam ucyate || 125 ||  
+९।१२५अ सदृशस्त्रीषु जातानां पुत्राणाम् अविशेषतः ।  
+९।१२५च् न मातृतो ज्यैष्ठ्यम् अस्ति जन्मतो ज्यैष्ठ्यम् उच्यते ॥ १२५ ॥  
 
 
-9.126a janmajyeṣṭhena ca-āhvānaṃ subrahmaṇyāsv api smṛtam |  
-9.126c yamayoś ca-eva garbheṣu janmato jyeṣṭhatā smṛtā || 126 ||  
+९।१२६अ जन्मज्येष्ठेन च-आह्वानं सुब्रह्मण्यास्व् अपि स्मृतम् ।  
+९।१२६च् यमयोश् च-एव गर्भेषु जन्मतो ज्येष्ठता स्मृता ॥ १२६ ॥  
 
 
- 9.1.2.5. ``Female-Son'' and Her Sons
- \[O\]  edn 769-772,  \[O\]  tr. 196-197
-9.127a a.putro 'nena vidhinā sutāṃ kurvīta putrikām |  
-9.127c yad apatyaṃ bhaved asyāṃ tan mama syāt svadhākaram || 127 ||  
+ ९।१।२।५। ऽऽड़ेमले-सोन्ऽऽ अन्द् हेर् सोन्स्
+ \[ओ\]  एद्न् ७६९-७७२,  \[ओ\]  त्र्। १९६-१९७
+९।१२७अ अ।पुत्रो ऽनेन विधिना सुतां कुर्वीत पुत्रिकाम् ।  
+९।१२७च् यद् अपत्यं भवेद् अस्यां तन् मम स्यात् स्वधाकरम् ॥ १२७ ॥  
 
 
-9.128a anena tu vidhānena purā cakre 'tha putrikāḥ |  
-9.128c vivṛddhyarthaṃ svavaṃśasya svayaṃ dakṣaḥ prajāpatiḥ || 128 ||  
+९।१२८अ अनेन तु विधानेन पुरा चक्रे ऽथ पुत्रिकाः ।  
+९।१२८च् विवृद्ध्यर्थं स्ववंशस्य स्वयं दक्षः प्रजापतिः ॥ १२८ ॥  
 
 
-9.129a dadau sa daśa dharmāya kaśyapāya trayodaśa |  
-9.129c somāya rājñe satkṛtya prīta.ātmā saptaviṃśatim || 129 ||  
+९।१२९अ ददौ स दश धर्माय कश्यपाय त्रयोदश ।  
+९।१२९च् सोमाय राज्ञे सत्कृत्य प्रीत।आत्मा सप्तविंशतिम् ॥ १२९ ॥  
 
 
-9.130a yathā-eva-ātmā tathā putraḥ putreṇa duhitā samā |  
-9.130c tasyām ātmani tiṣṭhantyāṃ katham anyo dhanaṃ haret || 130 ||  
+९।१३०अ यथा-एव-आत्मा तथा पुत्रः पुत्रेण दुहिता समा ।  
+९।१३०च् तस्याम् आत्मनि तिष्ठन्त्यां कथम् अन्यो धनं हरेत् ॥ १३० ॥  
 
 
-9.131a mātus tu yautakaṃ yat syāt kumārībhāga eva saḥ |  
-9.131c dauhitra eva ca hared a.putrasya-akhilaṃ dhanam || 131 ||  
+९।१३१अ मातुस् तु यौतकं यत् स्यात् कुमारीभाग एव सः ।  
+९।१३१च् दौहित्र एव च हरेद् अ।पुत्रस्य-अखिलं धनम् ॥ १३१ ॥  
 
 
-9.132a dauhitro hy a.khilaṃ riktham a.putrasya pitur haret |  
-9.132c sa eva dadyād dvau piṇḍau pitre mātāmahāya ca || 132 ||  
+९।१३२अ दौहित्रो ह्य् अ।खिलं रिक्थम् अ।पुत्रस्य पितुर् हरेत् ।  
+९।१३२च् स एव दद्याद् द्वौ पिण्डौ पित्रे मातामहाय च ॥ १३२ ॥  
 
 
-9.133a pautra.dauhitrayor loke na viśeṣo 'sti dharmataḥ |  
-9.133c tayor hi mātā.pitarau sambhūtau tasya dehataḥ || 133 ||  
+९।१३३अ पौत्र।दौहित्रयोर् लोके न विशेषो ऽस्ति धर्मतः ।  
+९।१३३च् तयोर् हि माता।पितरौ सम्भूतौ तस्य देहतः ॥ १३३ ॥  
 
 
-9.134a putrikāyāṃ kṛtāyāṃ tu yadi putro 'nujāyate |  
-9.134c samas tatra vibhāgaḥ syāt-jyeṣṭhatā na-asti hi striyāḥ || 134 ||  
+९।१३४अ पुत्रिकायां कृतायां तु यदि पुत्रो ऽनुजायते ।  
+९।१३४च् समस् तत्र विभागः स्यात्-ज्येष्ठता न-अस्ति हि स्त्रियाः ॥ १३४ ॥  
 
 
-9.135a a.putrāyāṃ mṛtāyāṃ tu putrikāyāṃ kathaṃ cana |  
-9.135c dhanaṃ tat putrikābhartā hareta-eva-a.vicārayan || 135 ||  
+९।१३५अ अ।पुत्रायां मृतायां तु पुत्रिकायां कथं चन ।  
+९।१३५च् धनं तत् पुत्रिकाभर्ता हरेत-एव-अ।विचारयन् ॥ १३५ ॥  
 
 
-9.136a akṛtā vā kṛtā vā-api yaṃ vindet sadṛśāt sutam |  
-9.136c pautrī mātāmahas tena dadyāt piṇḍaṃ hared dhanam || 136 ||  
+९।१३६अ अकृता वा कृता वा-अपि यं विन्देत् सदृशात् सुतम् ।  
+९।१३६च् पौत्री मातामहस् तेन दद्यात् पिण्डं हरेद् धनम् ॥ १३६ ॥  
 
 
-9.137a putreṇa lokān-jayati pautreṇa-ānantyam aśnute |  
-9.137c atha putrasya pautreṇa bradhnasya-āpnoti viṣṭapam || 137 ||  
+९।१३७अ पुत्रेण लोकान्-जयति पौत्रेण-आनन्त्यम् अश्नुते ।  
+९।१३७च् अथ पुत्रस्य पौत्रेण ब्रध्नस्य-आप्नोति विष्टपम् ॥ १३७ ॥  
 
 
-9.138a put.nāmno narakād yasmāt trāyate pitaraṃ sutaḥ |  
-9.138c tasmāt putra iti proktaḥ svayam eva svayambhuvā || 138 ||  
+९।१३८अ पुत्।नाम्नो नरकाद् यस्मात् त्रायते पितरं सुतः ।  
+९।१३८च् तस्मात् पुत्र इति प्रोक्तः स्वयम् एव स्वयम्भुवा ॥ १३८ ॥  
 
 
-9.139a pautra.dauhitrayor loke viśeṣo na-upapadyate |  
-9.139c dauhitro 'pi hy amutra-enaṃ santārayati pautravat || 139 ||  
+९।१३९अ पौत्र।दौहित्रयोर् लोके विशेषो न-उपपद्यते ।  
+९।१३९च् दौहित्रो ऽपि ह्य् अमुत्र-एनं सन्तारयति पौत्रवत् ॥ १३९ ॥  
 
 
-9.140a mātuḥ prathamataḥ piṇḍaṃ nirvapet putrikāsutaḥ |  
-9.140c dvitīyaṃ tu pitus tasyās tṛtīyaṃ tatpituḥ pituḥ || 140 ||  
+९।१४०अ मातुः प्रथमतः पिण्डं निर्वपेत् पुत्रिकासुतः ।  
+९।१४०च् द्वितीयं तु पितुस् तस्यास् तृतीयं तत्पितुः पितुः ॥ १४० ॥  
 
 
- 9.1.2.6. Adopted Son
- \[O\]  edn 772,  \[O\]  tr. 197
-9.141a upapanno guṇaiḥ sarvaiḥ putro yasya tu dattrimaḥ |  
-9.141c sa hareta-eva tadrikthaṃ samprāpto 'py anyagotrataḥ || 141 ||  
+ ९।१।२।६। अदोप्तेद् सोन्
+ \[ओ\]  एद्न् ७७२,  \[ओ\]  त्र्। १९७
+९।१४१अ उपपन्नो गुणैः सर्वैः पुत्रो यस्य तु दत्त्रिमः ।  
+९।१४१च् स हरेत-एव तद्रिक्थं सम्प्राप्तो ऽप्य् अन्यगोत्रतः ॥ १४१ ॥  
 
 
-9.142a gotra.rikthe janayitur na hared dattrimaḥ kva cit |  
-9.142c gotra.rikthānugaḥ piṇḍo vyapaiti dadataḥ svadhā || 142 ||  
+९।१४२अ गोत्र।रिक्थे जनयितुर् न हरेद् दत्त्रिमः क्व चित् ।  
+९।१४२च् गोत्र।रिक्थानुगः पिण्डो व्यपैति ददतः स्वधा ॥ १४२ ॥  
 
 
- 9.1.2.7. Leviratic Sons
- \[O\]  edn 772-773,  \[O\]  tr. 197
-9.143a aniyuktāsutaś ca-eva putriṇyā-āptaś ca devarāt |  
-9.143c ubhau tau na-arhato bhāgaṃ jārajātaka.kāmajau || 143 ||  
+ ९।१।२।७। लेविरतिच् सोन्स्
+ \[ओ\]  एद्न् ७७२-७७३,  \[ओ\]  त्र्। १९७
+९।१४३अ अनियुक्तासुतश् च-एव पुत्रिण्या-आप्तश् च देवरात् ।  
+९।१४३च् उभौ तौ न-अर्हतो भागं जारजातक।कामजौ ॥ १४३ ॥  
 
 
-9.144a niyuktāyām api pumān nāryāṃ jāto 'vidhānataḥ |  
-9.144c na-eva-arhaḥ paitṛkaṃ rikthaṃ patita.utpādito hi saḥ || 144 ||  
+९।१४४अ नियुक्तायाम् अपि पुमान् नार्यां जातो ऽविधानतः ।  
+९।१४४च् न-एव-अर्हः पैतृकं रिक्थं पतित।उत्पादितो हि सः ॥ १४४ ॥  
 
 
-9.145a haret tatra niyuktāyāṃ jātaḥ putro yathā-aurasaḥ |  
-9.145c kṣetrikasya tu tad bījaṃ dharmataḥ prasavaś ca saḥ || 145 ||  
+९।१४५अ हरेत् तत्र नियुक्तायां जातः पुत्रो यथा-औरसः ।  
+९।१४५च् क्षेत्रिकस्य तु तद् बीजं धर्मतः प्रसवश् च सः ॥ १४५ ॥  
 
 
-9.146a dhanaṃ yo bibhṛyād bhrātur mṛtasya striyam eva ca |  
-9.146c so 'patyaṃ bhrātur utpādya dadyāt tasya-eva taddhanam || 146 ||  
+९।१४६अ धनं यो बिभृयाद् भ्रातुर् मृतस्य स्त्रियम् एव च ।  
+९।१४६च् सो ऽपत्यं भ्रातुर् उत्पाद्य दद्यात् तस्य-एव तद्धनम् ॥ १४६ ॥  
 
 
-9.147a yā niyuktā-anyataḥ putraṃ devarād vā-apy avāpnuyāt |  
-9.147c taṃ kāmajam a.rikthīyaṃ vṛthā.utpannaṃ pracakṣate || 147 || 9.147cv/  \[M\] : “mithyā.utpannaṃ”  
+९।१४७अ या नियुक्ता-अन्यतः पुत्रं देवराद् वा-अप्य् अवाप्नुयात् ।  
+९।१४७च् तं कामजम् अ।रिक्थीयं वृथा।उत्पन्नं प्रचक्षते ॥ १४७ ॥ ९।१४७च्व्।  \[म्\] : “मिथ्या।उत्पन्नं”  
 
 
-9.148a etad vidhānaṃ vijñeyaṃ vibhāgasya-ekayoniṣu |  
-9.148c bahvīṣu ca-ekajātānāṃ nānāstrīṣu nibodhata || 148 ||  
+९।१४८अ एतद् विधानं विज्ञेयं विभागस्य-एकयोनिषु ।  
+९।१४८च् बह्वीषु च-एकजातानां नानास्त्रीषु निबोधत ॥ १४८ ॥  
 
 
- 9.1.2.8. Sons by Wives of Different Castes
- \[O\]  edn 773-775,  \[O\]  tr. 198
-9.149a brāhmaṇasya-anupūrvyeṇa catasras tu yadi striyaḥ |  
-9.149c tāsāṃ putreṣu jāteṣu vibhāge 'yaṃ vidhiḥ smṛtaḥ || 149 ||  
+ ९।१।२।८। सोन्स् ब्य् Wइवेस् ओड़् दिड़्ड़ेरेन्त् चस्तेस्
+ \[ओ\]  एद्न् ७७३-७७५,  \[ओ\]  त्र्। १९८
+९।१४९अ ब्राह्मणस्य-अनुपूर्व्येण चतस्रस् तु यदि स्त्रियः ।  
+९।१४९च् तासां पुत्रेषु जातेषु विभागे ऽयं विधिः स्मृतः ॥ १४९ ॥  
 
 
-9.150a kīnāśo govṛṣo yānam alaṅkāraś ca veśma ca |  
-9.150c viprasya-auddhārikaṃ deyam ekāṃśaś ca pradhānataḥ || 150 ||  
+९।१५०अ कीनाशो गोवृषो यानम् अलङ्कारश् च वेश्म च ।  
+९।१५०च् विप्रस्य-औद्धारिकं देयम् एकांशश् च प्रधानतः ॥ १५० ॥  
 
 
-9.151a tryaṃśaṃ dāyādd hared vipro dvāv aṃśau kṣatriyāsutaḥ |  
-9.151c vaiśyājaḥ sa.ardham eva-aṃśam aṃśaṃ śūdrāsuto haret || 151 ||  
+९।१५१अ त्र्यंशं दायाद्द् हरेद् विप्रो द्वाव् अंशौ क्षत्रियासुतः ।  
+९।१५१च् वैश्याजः स।अर्धम् एव-अंशम् अंशं शूद्रासुतो हरेत् ॥ १५१ ॥  
 
 
-9.152a sarvaṃ vā rikthajātaṃ tad daśadhā parikalpya ca |  
-9.152c dharmyaṃ vibhāgaṃ kurvīta vidhinā-anena dharmavit || 152 ||  
+९।१५२अ सर्वं वा रिक्थजातं तद् दशधा परिकल्प्य च ।  
+९।१५२च् धर्म्यं विभागं कुर्वीत विधिना-अनेन धर्मवित् ॥ १५२ ॥  
 
 
-9.153a caturo 'ṃśān hared vipras trīn aṃśān kṣatriyāsutaḥ |  
-9.153c vaiśyāputro hared dvyaṃśaṃ aṃśaṃ śūdrāsuto haret || 153 ||  
+९।१५३अ चतुरो ऽंशान् हरेद् विप्रस् त्रीन् अंशान् क्षत्रियासुतः ।  
+९।१५३च् वैश्यापुत्रो हरेद् द्व्यंशं अंशं शूद्रासुतो हरेत् ॥ १५३ ॥  
 
 
-9.154a yady api syāt tu sat.putro 'py asat.putro 'pi vā bhavet | 9.154av/  \[M\] : “yady api syāt tu sat.putro yady a.putro 'pi vā bhavet”  
-9.154c na-adhikaṃ daśamād dadyāt-śūdrāputrāya dharmataḥ || 154 ||  
+९।१५४अ यद्य् अपि स्यात् तु सत्।पुत्रो ऽप्य् असत्।पुत्रो ऽपि वा भवेत् । ९।१५४अव्।  \[म्\] : “यद्य् अपि स्यात् तु सत्।पुत्रो यद्य् अ।पुत्रो ऽपि वा भवेत्”  
+९।१५४च् न-अधिकं दशमाद् दद्यात्-शूद्रापुत्राय धर्मतः ॥ १५४ ॥  
 
 
-9.155a brāhmaṇa.kṣatriya.viśāṃ śūdrāputro na rikthabhāk |  
-9.155c yad eva-asya pitā dadyāt tad eva-asya dhanaṃ bhavet || 155 ||  
+९।१५५अ ब्राह्मण।क्षत्रिय।विशां शूद्रापुत्रो न रिक्थभाक् ।  
+९।१५५च् यद् एव-अस्य पिता दद्यात् तद् एव-अस्य धनं भवेत् ॥ १५५ ॥  
 
 
-9.156a sama.varṇāsu vā jātāḥ sarve putrā dvijanmanām |  
-9.156c uddhāraṃ jyāyase dattvā bhajerann itare samam || 156 ||  
+९।१५६अ सम।वर्णासु वा जाताः सर्वे पुत्रा द्विजन्मनाम् ।  
+९।१५६च् उद्धारं ज्यायसे दत्त्वा भजेरन्न् इतरे समम् ॥ १५६ ॥  
 
 
-9.157a śūdrasya tu savarṇā-eva na-anyā bhāryā vidhīyate |  
-9.157c tasyāṃ jātāḥ sama.aṃśāḥ syur yadi putraśataṃ bhavet || 157 ||  
+९।१५७अ शूद्रस्य तु सवर्णा-एव न-अन्या भार्या विधीयते ।  
+९।१५७च् तस्यां जाताः सम।अंशाः स्युर् यदि पुत्रशतं भवेत् ॥ १५७ ॥  
 
 
- 9.1.2.9. Twelve Types of Sons
- \[O\]  edn 775-780,  \[O\]  tr. 198-199
-9.158a putrān dvādaśa yān āha nṝṇāṃ svāyambhuvo manuḥ |  
-9.158c teṣāṃ ṣaḍ bandhu.dāyādāḥ ṣaḍ adāyāda.bāndhavāḥ || 158 ||  
+ ९।१।२।९। त्wएल्वे त्य्पेस् ओड़् सोन्स्
+ \[ओ\]  एद्न् ७७५-७८०,  \[ओ\]  त्र्। १९८-१९९
+९।१५८अ पुत्रान् द्वादश यान् आह नॄणां स्वायम्भुवो मनुः ।  
+९।१५८च् तेषां षड् बन्धु।दायादाः षड् अदायाद।बान्धवाः ॥ १५८ ॥  
 
 
-9.159a aurasaḥ kṣetrajaś ca-eva dattaḥ kṛtrima eva ca |  
-9.159c gūḍha.utpanno 'paviddhaś ca dāyādā bāndhavāś ca ṣaṭ || 159 ||  
+९।१५९अ औरसः क्षेत्रजश् च-एव दत्तः कृत्रिम एव च ।  
+९।१५९च् गूढ।उत्पन्नो ऽपविद्धश् च दायादा बान्धवाश् च षट् ॥ १५९ ॥  
 
 
-9.160a kānīnaś ca sahoḍhaś ca krītaḥ paunarbhavas tathā |  
-9.160c svayandattaś ca śaudraś ca ṣaḍ adāyāda.bāndhavāḥ || 160 ||  
+९।१६०अ कानीनश् च सहोढश् च क्रीतः पौनर्भवस् तथा ।  
+९।१६०च् स्वयन्दत्तश् च शौद्रश् च षड् अदायाद।बान्धवाः ॥ १६० ॥  
 
 
-9.161a yādṛśaṃ phalam āpnoti kuplavaiḥ santaran-jalam |  
-9.161c tādṛśaṃ phalam āpnoti kuputraiḥ santaraṃs tamaḥ || 161 ||  
+९।१६१अ यादृशं फलम् आप्नोति कुप्लवैः सन्तरन्-जलम् ।  
+९।१६१च् तादृशं फलम् आप्नोति कुपुत्रैः सन्तरंस् तमः ॥ १६१ ॥  
 
 
-9.162a yady ekarikthinau syātām aurasa.kṣetrajau sutau |  
-9.162c yasya yat paitṛkaṃ rikthaṃ sa tad gṛhṇīta na-itaraḥ || 162 ||  
+९।१६२अ यद्य् एकरिक्थिनौ स्याताम् औरस।क्षेत्रजौ सुतौ ।  
+९।१६२च् यस्य यत् पैतृकं रिक्थं स तद् गृह्णीत न-इतरः ॥ १६२ ॥  
 
 
-9.163a eka eva-aurasaḥ putraḥ pitryasya vasunaḥ prabhuḥ |  
-9.163c śeṣāṇām ānṛśaṃsyārthaṃ pradadyāt tu prajīvanam || 163 ||  
+९।१६३अ एक एव-औरसः पुत्रः पित्र्यस्य वसुनः प्रभुः ।  
+९।१६३च् शेषाणाम् आनृशंस्यार्थं प्रदद्यात् तु प्रजीवनम् ॥ १६३ ॥  
 
 
-9.164a ṣaṣṭhaṃ tu kṣetrajasya-aṃśaṃ pradadyāt paitṛkād dhanāt |  
-9.164c auraso vibhajan dāyaṃ pitryaṃ pañcamam eva vā || 164 ||  
+९।१६४अ षष्ठं तु क्षेत्रजस्य-अंशं प्रदद्यात् पैतृकाद् धनात् ।  
+९।१६४च् औरसो विभजन् दायं पित्र्यं पञ्चमम् एव वा ॥ १६४ ॥  
 
 
-9.165a aurasa.kṣetrajau putrau pitṛrikthasya bhāginau |  
-9.165c daśa-apare tu kramaśo gotra.rikthāṃśabhāginaḥ || 165 ||  
+९।१६५अ औरस।क्षेत्रजौ पुत्रौ पितृरिक्थस्य भागिनौ ।  
+९।१६५च् दश-अपरे तु क्रमशो गोत्र।रिक्थांशभागिनः ॥ १६५ ॥  
 
 
-9.166a svakṣetre saṃskṛtāyāṃ tu svayam utpādayedd hi yam |  
-9.166c tam aurasaṃ vijānīyāt putraṃ prāthamakalpikam || 166 ||  
+९।१६६अ स्वक्षेत्रे संस्कृतायां तु स्वयम् उत्पादयेद्द् हि यम् ।  
+९।१६६च् तम् औरसं विजानीयात् पुत्रं प्राथमकल्पिकम् ॥ १६६ ॥  
 
 
-9.167a yas talpajaḥ pramītasya klībasya vyādhitasya vā |  
-9.167c svadharmeṇa niyuktāyāṃ sa putraḥ kṣetrajaḥ smṛtaḥ || 167 ||  
+९।१६७अ यस् तल्पजः प्रमीतस्य क्लीबस्य व्याधितस्य वा ।  
+९।१६७च् स्वधर्मेण नियुक्तायां स पुत्रः क्षेत्रजः स्मृतः ॥ १६७ ॥  
 
 
-9.168a mātā pitā vā dadyātāṃ yam adbhiḥ putram āpadi |  
-9.168c sadṛśaṃ prītisaṃyuktaṃ sa jñeyo dattrimaḥ sutaḥ || 168 ||  
+९।१६८अ माता पिता वा दद्यातां यम् अद्भिः पुत्रम् आपदि ।  
+९।१६८च् सदृशं प्रीतिसंयुक्तं स ज्ञेयो दत्त्रिमः सुतः ॥ १६८ ॥  
 
 
-9.169a sadṛśaṃ tu prakuryād yaṃ guṇa.doṣa.vicakṣaṇam |  
-9.169c putraṃ putraguṇair yuktaṃ sa vijñeyaś ca kṛtrimaḥ || 169 ||  
+९।१६९अ सदृशं तु प्रकुर्याद् यं गुण।दोष।विचक्षणम् ।  
+९।१६९च् पुत्रं पुत्रगुणैर् युक्तं स विज्ञेयश् च कृत्रिमः ॥ १६९ ॥  
 
 
-9.170a utpadyate gṛhe yas tu na ca jñāyeta kasya saḥ |  
-9.170c sa gṛhe gūḍha utpannas tasya syād yasya talpajaḥ || 170 ||  
+९।१७०अ उत्पद्यते गृहे यस् तु न च ज्ञायेत कस्य सः ।  
+९।१७०च् स गृहे गूढ उत्पन्नस् तस्य स्याद् यस्य तल्पजः ॥ १७० ॥  
 
 
-9.171a mātā.pitṛbhyām utsṛṣṭaṃ tayor anyatareṇa vā |  
-9.171c yaṃ putraṃ parigṛhṇīyād apaviddhaḥ sa ucyate || 171 ||  
+९।१७१अ माता।पितृभ्याम् उत्सृष्टं तयोर् अन्यतरेण वा ।  
+९।१७१च् यं पुत्रं परिगृह्णीयाद् अपविद्धः स उच्यते ॥ १७१ ॥  
 
 
-9.172a pitṛveśmani kanyā tu yaṃ putraṃ janayed rahaḥ |  
-9.172c taṃ kānīnaṃ vaden nāmnā voḍhuḥ kanyā.samudbhavam || 172 ||  
+९।१७२अ पितृवेश्मनि कन्या तु यं पुत्रं जनयेद् रहः ।  
+९।१७२च् तं कानीनं वदेन् नाम्ना वोढुः कन्या।समुद्भवम् ॥ १७२ ॥  
 
 
-9.173a yā garbhiṇī saṃskriyate jñātā.ajñātā-api vā satī |  
-9.173c voḍhuḥ sa garbho bhavati sahoḍha iti ca-ucyate || 173 ||  
+९।१७३अ या गर्भिणी संस्क्रियते ज्ञाता।अज्ञाता-अपि वा सती ।  
+९।१७३च् वोढुः स गर्भो भवति सहोढ इति च-उच्यते ॥ १७३ ॥  
 
 
-9.174a krīṇīyād yas tv apatyārthaṃ mātā.pitror yam antikāt |  
-9.174c sa krītakaḥ sutas tasya sadṛśo 'sadṛśo 'pi vā || 174 ||  
+९।१७४अ क्रीणीयाद् यस् त्व् अपत्यार्थं माता।पित्रोर् यम् अन्तिकात् ।  
+९।१७४च् स क्रीतकः सुतस् तस्य सदृशो ऽसदृशो ऽपि वा ॥ १७४ ॥  
 
 
-9.175a yā patyā vā parityaktā vidhavā vā svayā-icchayā |  
-9.175c utpādayet punar bhūtvā sa paunarbhava ucyate || 175 ||  
+९।१७५अ या पत्या वा परित्यक्ता विधवा वा स्वया-इच्छया ।  
+९।१७५च् उत्पादयेत् पुनर् भूत्वा स पौनर्भव उच्यते ॥ १७५ ॥  
 
 
-9.176a sā ced akṣata.yoniḥ syād gata.pratyāgatā-api vā |  
-9.176c paunarbhavena bhartrā sā punaḥ saṃskāram arhati || 176 ||  
+९।१७६अ सा चेद् अक्षत।योनिः स्याद् गत।प्रत्यागता-अपि वा ।  
+९।१७६च् पौनर्भवेन भर्त्रा सा पुनः संस्कारम् अर्हति ॥ १७६ ॥  
 
 
-9.177a mātā.pitṛ.vihīno yas tyakto vā syād akāraṇāt |  
-9.177c ātmānam arpayed yasmai svayandattas tu sa smṛtaḥ || 177 ||  
+९।१७७अ माता।पितृ।विहीनो यस् त्यक्तो वा स्याद् अकारणात् ।  
+९।१७७च् आत्मानम् अर्पयेद् यस्मै स्वयन्दत्तस् तु स स्मृतः ॥ १७७ ॥  
 
 
-9.178a yaṃ brāhmaṇas tu śūdrāyāṃ kāmād utpādayet sutam |  
-9.178c sa pārayann eva śavas tasmāt pāraśavaḥ smṛtaḥ || 178 ||  
+९।१७८अ यं ब्राह्मणस् तु शूद्रायां कामाद् उत्पादयेत् सुतम् ।  
+९।१७८च् स पारयन्न् एव शवस् तस्मात् पारशवः स्मृतः ॥ १७८ ॥  
 
 
-9.179a dāsyāṃ vā dāsadāsyāṃ vā yaḥ śūdrasya suto bhavet |  
-9.179c so 'nujñāto hared aṃśam iti dharmo vyavasthitaḥ || 179 ||  
+९।१७९अ दास्यां वा दासदास्यां वा यः शूद्रस्य सुतो भवेत् ।  
+९।१७९च् सो ऽनुज्ञातो हरेद् अंशम् इति धर्मो व्यवस्थितः ॥ १७९ ॥  
 
 
-9.180a kṣetraja.ādīn sutān etān ekādaśa yathā.uditān |  
-9.180c putrapratinidhīn āhuḥ kriyālopān manīṣiṇaḥ || 180 ||  
+९।१८०अ क्षेत्रज।आदीन् सुतान् एतान् एकादश यथा।उदितान् ।  
+९।१८०च् पुत्रप्रतिनिधीन् आहुः क्रियालोपान् मनीषिणः ॥ १८० ॥  
 
 
-9.181a ya ete 'bhihitāḥ putrāḥ prasaṅgād anyabījajāḥ |  
-9.181c yasya te bījato jātās tasya te na-itarasya tu || 181 ||  
+९।१८१अ य एते ऽभिहिताः पुत्राः प्रसङ्गाद् अन्यबीजजाः ।  
+९।१८१च् यस्य ते बीजतो जातास् तस्य ते न-इतरस्य तु ॥ १८१ ॥  
 
 
-9.182a bhrātṝṇām ekajātānām ekaś cet putravān bhavet |  
-9.182c sarvāṃs tāṃs tena putreṇa putriṇo manur abravīt || 182 ||  
+९।१८२अ भ्रातॄणाम् एकजातानाम् एकश् चेत् पुत्रवान् भवेत् ।  
+९।१८२च् सर्वांस् तांस् तेन पुत्रेण पुत्रिणो मनुर् अब्रवीत् ॥ १८२ ॥  
 
 
-9.183a sarvāsām eka.patnīnām ekā cet putriṇī bhavet |  
-9.183c sarvās tās tena putreṇa prāha putravatīr manuḥ || 183 ||  
+९।१८३अ सर्वासाम् एक।पत्नीनाम् एका चेत् पुत्रिणी भवेत् ।  
+९।१८३च् सर्वास् तास् तेन पुत्रेण प्राह पुत्रवतीर् मनुः ॥ १८३ ॥  
 
 
-9.184a śreyasaḥ śreyaso 'lābhe pāpīyān riktham arhati |  
-9.184c bahavaś cet tu sadṛśāḥ sarve rikthasya bhāginaḥ || 184 ||  
+९।१८४अ श्रेयसः श्रेयसो ऽलाभे पापीयान् रिक्थम् अर्हति ।  
+९।१८४च् बहवश् चेत् तु सदृशाः सर्वे रिक्थस्य भागिनः ॥ १८४ ॥  
 
 
-9.185a na bhrātaro na pitaraḥ putrā rikthaharāḥ pituḥ |  
-9.185c pitā hared a.putrasya rikthaṃ bhrātara eva ca || 185 ||  
+९।१८५अ न भ्रातरो न पितरः पुत्रा रिक्थहराः पितुः ।  
+९।१८५च् पिता हरेद् अ।पुत्रस्य रिक्थं भ्रातर एव च ॥ १८५ ॥  
 
 
- 9.1.2.10. Alternative Heirs
- \[O\]  edn 781-782,  \[O\]  tr. 199-200
-9.186a trayāṇām udakaṃ kāryaṃ triṣu piṇḍaḥ pravartate |  
-9.186c caturthaḥ sampradātā-eṣāṃ pañcamo na-upapadyate || 186 ||  
+ ९।१।२।१०। अल्तेर्नतिवे हेइर्स्
+ \[ओ\]  एद्न् ७८१-७८२,  \[ओ\]  त्र्। १९९-२००
+९।१८६अ त्रयाणाम् उदकं कार्यं त्रिषु पिण्डः प्रवर्तते ।  
+९।१८६च् चतुर्थः सम्प्रदाता-एषां पञ्चमो न-उपपद्यते ॥ १८६ ॥  
 
 
-9.187a anantaraḥ sapiṇḍād yas tasya tasya dhanaṃ bhavet |  
-9.187c ata ūrdhvaṃ sakulyaḥ syād ācāryaḥ śiṣya eva vā || 187 ||  
+९।१८७अ अनन्तरः सपिण्डाद् यस् तस्य तस्य धनं भवेत् ।  
+९।१८७च् अत ऊर्ध्वं सकुल्यः स्याद् आचार्यः शिष्य एव वा ॥ १८७ ॥  
 
 
-9.188a sarveṣām apy abhāve tu brāhmaṇā rikthabhāginaḥ |  
-9.188c traividyāḥ śucayo dāntās tathā dharmo na hīyate || 188 ||  
+९।१८८अ सर्वेषाम् अप्य् अभावे तु ब्राह्मणा रिक्थभागिनः ।  
+९।१८८च् त्रैविद्याः शुचयो दान्तास् तथा धर्मो न हीयते ॥ १८८ ॥  
 
 
-9.189a a.hāryaṃ brāhmaṇadravyaṃ rājñā nityam iti sthitiḥ |  
-9.189c itareṣāṃ tu varṇānāṃ sarva.abhāve haren nṛpaḥ || 189 ||  
+९।१८९अ अ।हार्यं ब्राह्मणद्रव्यं राज्ञा नित्यम् इति स्थितिः ।  
+९।१८९च् इतरेषां तु वर्णानां सर्व।अभावे हरेन् नृपः ॥ १८९ ॥  
 
 
-9.190a saṃsthitasya-an.apatyasya sagotrāt putram āharet |  
-9.190c tatra yad rikthajātaṃ syāt tat tasmin pratipādayet || 190 ||  
+९।१९०अ संस्थितस्य-अन्।अपत्यस्य सगोत्रात् पुत्रम् आहरेत् ।  
+९।१९०च् तत्र यद् रिक्थजातं स्यात् तत् तस्मिन् प्रतिपादयेत् ॥ १९० ॥  
 
 
-9.191a dvau tu yau vivadeyātāṃ dvābhyāṃ jātau striyā dhane |  
-9.191c tayor yad yasya pitryaṃ syāt tat sa gṛhṇīta na-itaraḥ || 191 ||  
+९।१९१अ द्वौ तु यौ विवदेयातां द्वाभ्यां जातौ स्त्रिया धने ।  
+९।१९१च् तयोर् यद् यस्य पित्र्यं स्यात् तत् स गृह्णीत न-इतरः ॥ १९१ ॥  
 
 
- 9.1.2.11. Women's Property
- \[O\]  edn 782-783,  \[O\]  tr. 200
-9.192a jananyāṃ saṃsthitāyāṃ tu samaṃ sarve saha.udarāḥ |  
-9.192c bhajeran mātṛkaṃ rikthaṃ bhaginyaś ca sa.nābhayaḥ || 192 ||  
+ ९।१।२।११। Wओमेन्ऽस् प्रोपेर्त्य्
+ \[ओ\]  एद्न् ७८२-७८३,  \[ओ\]  त्र्। २००
+९।१९२अ जनन्यां संस्थितायां तु समं सर्वे सह।उदराः ।  
+९।१९२च् भजेरन् मातृकं रिक्थं भगिन्यश् च स।नाभयः ॥ १९२ ॥  
 
 
-9.193a yās tāsāṃ syur duhitaras tāsām api yathārhataḥ | 9.193av/  \[H.\]  “tasyāṃ”  
-9.193c mātāmahyā dhanāt kiṃ cit pradeyaṃ prītipūrvakam || 193 ||  
+९।१९३अ यास् तासां स्युर् दुहितरस् तासाम् अपि यथार्हतः । ९।१९३अव्।  \[ह्।\]  “तस्यां”  
+९।१९३च् मातामह्या धनात् किं चित् प्रदेयं प्रीतिपूर्वकम् ॥ १९३ ॥  
 
 
-9.194a adhyagni.adhyāvāhanikaṃ dattaṃ ca prītikarmaṇi |  
-9.194c bhrātṛ.mātṛ.pitṛprāptaṃ ṣaḍvidhaṃ strīdhanaṃ smṛtam || 194 ||  
+९।१९४अ अध्यग्नि।अध्यावाहनिकं दत्तं च प्रीतिकर्मणि ।  
+९।१९४च् भ्रातृ।मातृ।पितृप्राप्तं षड्विधं स्त्रीधनं स्मृतम् ॥ १९४ ॥  
 
 
-9.195a anvādheyaṃ ca yad dattaṃ patyā prītena ca-eva yat |  
-9.195c patyau jīvati vṛttāyāḥ prajāyās tad dhanaṃ bhavet || 195 ||  
+९।१९५अ अन्वाधेयं च यद् दत्तं पत्या प्रीतेन च-एव यत् ।  
+९।१९५च् पत्यौ जीवति वृत्तायाः प्रजायास् तद् धनं भवेत् ॥ १९५ ॥  
 
 
-9.196a brāhma.daiva.ārṣa.gāndharva.prājāpatyeṣu yad vasu |  
-9.196c a.prajāyām atītāyāṃ bhartur eva tad iṣyate || 196 ||  
+९।१९६अ ब्राह्म।दैव।आर्ष।गान्धर्व।प्राजापत्येषु यद् वसु ।  
+९।१९६च् अ।प्रजायाम् अतीतायां भर्तुर् एव तद् इष्यते ॥ १९६ ॥  
 
 
-9.197a yat tv asyāḥ syād dhanaṃ dattaṃ vivāheṣv āsura.ādiṣu |  
-9.197c a.prajāyām atītāyāṃ mātā.pitros tad iṣyate || 197 ||  
+९।१९७अ यत् त्व् अस्याः स्याद् धनं दत्तं विवाहेष्व् आसुर।आदिषु ।  
+९।१९७च् अ।प्रजायाम् अतीतायां माता।पित्रोस् तद् इष्यते ॥ १९७ ॥  
 
 
-9.198a striyāṃ tu yad bhaved vittaṃ pitrā dattaṃ kathaṃ cana |  
-9.198c brāhmaṇī tadd haret kanyā tadapatyasya vā bhavet || 198 ||  
+९।१९८अ स्त्रियां तु यद् भवेद् वित्तं पित्रा दत्तं कथं चन ।  
+९।१९८च् ब्राह्मणी तद्द् हरेत् कन्या तदपत्यस्य वा भवेत् ॥ १९८ ॥  
 
 
-9.199a na nirhāraṃ striyaḥ kuryuḥ kuṭumbād bahumadhyagāt |  
-9.199c svakād api ca vittādd hi svasya bhartur anājñayā || 199 ||  
+९।१९९अ न निर्हारं स्त्रियः कुर्युः कुटुम्बाद् बहुमध्यगात् ।  
+९।१९९च् स्वकाद् अपि च वित्ताद्द् हि स्वस्य भर्तुर् अनाज्ञया ॥ १९९ ॥  
 
 
-9.200a patyau jīvati yaḥ strībhir alaṅkāro dhṛto bhavet |  
-9.200c na taṃ bhajeran dāyādā bhajamānāḥ patanti te || 200 ||  
+९।२००अ पत्यौ जीवति यः स्त्रीभिर् अलङ्कारो धृतो भवेत् ।  
+९।२००च् न तं भजेरन् दायादा भजमानाः पतन्ति ते ॥ २०० ॥  
 
 
- 9.1.2.12. Disqualification from Inheritance
- \[O\]  edn 783-784,  \[O\]  tr. 200
-9.201a an.aṃśau klība.patitau jātyandha.badhirau tathā |  
-9.201c unmatta.jaḍa.mūkāś ca ye ca ke cin nir.indriyāḥ || 201 ||  
+ ९।१।२।१२। दिस्क़ुअलिड़िचतिओन् ड़्रोम् इन्हेरितन्चे
+ \[ओ\]  एद्न् ७८३-७८४,  \[ओ\]  त्र्। २००
+९।२०१अ अन्।अंशौ क्लीब।पतितौ जात्यन्ध।बधिरौ तथा ।  
+९।२०१च् उन्मत्त।जड।मूकाश् च ये च के चिन् निर्।इन्द्रियाः ॥ २०१ ॥  
 
 
-9.202a sarveṣām api tu nyāyyaṃ dātuṃ śaktyā manīṣiṇā |  
-9.202c grāsa.ācchādanam atyantaṃ patito hy a.dadad bhavet || 202 ||  
+९।२०२अ सर्वेषाम् अपि तु न्याय्यं दातुं शक्त्या मनीषिणा ।  
+९।२०२च् ग्रास।आच्छादनम् अत्यन्तं पतितो ह्य् अ।ददद् भवेत् ॥ २०२ ॥  
 
 
-9.203a yady arthitā tu dāraiḥ syāt klībādīnāṃ kathaṃ cana |  
-9.203c teṣām utpanna.tantūnām apatyaṃ dāyam arhati || 203 ||  
+९।२०३अ यद्य् अर्थिता तु दारैः स्यात् क्लीबादीनां कथं चन ।  
+९।२०३च् तेषाम् उत्पन्न।तन्तूनाम् अपत्यं दायम् अर्हति ॥ २०३ ॥  
 
 
- 9.1.2.13. Partition of Non-ancestral Property
- \[O\]  edn 784-785,  \[O\]  tr. 200-201
-9.204a yat kiṃ cit pitari prete dhanaṃ jyeṣṭho 'dhigacchati |  
-9.204c bhāgo yavīyasāṃ tatra yadi vidyānupālinaḥ || 204 ||  
+ ९।१।२।१३। पर्तितिओन् ओड़् नोन्-अन्चेस्त्रल् प्रोपेर्त्य्
+ \[ओ\]  एद्न् ७८४-७८५,  \[ओ\]  त्र्। २००-२०१
+९।२०४अ यत् किं चित् पितरि प्रेते धनं ज्येष्ठो ऽधिगच्छति ।  
+९।२०४च् भागो यवीयसां तत्र यदि विद्यानुपालिनः ॥ २०४ ॥  
 
 
-9.205a a.vidyānāṃ tu sarveṣāṃ īhātaś ced dhanaṃ bhavet |  
-9.205c samas tatra vibhāgaḥ syād apitrya iti dhāraṇā || 205 ||  
+९।२०५अ अ।विद्यानां तु सर्वेषां ईहातश् चेद् धनं भवेत् ।  
+९।२०५च् समस् तत्र विभागः स्याद् अपित्र्य इति धारणा ॥ २०५ ॥  
 
 
-9.206a vidyādhanaṃ tu yady asya tat tasya-eva dhanaṃ bhavet |  
-9.206c maitryam audvāhikaṃ ca-eva mādhuparkikam eva ca || 206 ||  
+९।२०६अ विद्याधनं तु यद्य् अस्य तत् तस्य-एव धनं भवेत् ।  
+९।२०६च् मैत्र्यम् औद्वाहिकं च-एव माधुपर्किकम् एव च ॥ २०६ ॥  
 
 
-9.207a bhrātṝṇāṃ yas tu na-īheta dhanaṃ śaktaḥ svakarmaṇā |  
-9.207c sa nirbhājyaḥ svakād aṃśāt kiṃ cid dattvā-upajīvanam || 207 ||  
+९।२०७अ भ्रातॄणां यस् तु न-ईहेत धनं शक्तः स्वकर्मणा ।  
+९।२०७च् स निर्भाज्यः स्वकाद् अंशात् किं चिद् दत्त्वा-उपजीवनम् ॥ २०७ ॥  
 
 
-9.208a an.upaghnan pitṛdravyaṃ śrameṇa yad upārjitam |  
-9.208c svayam īhitalabdhaṃ tan na-a.kāmo dātum arhati || 208 ||  
+९।२०८अ अन्।उपघ्नन् पितृद्रव्यं श्रमेण यद् उपार्जितम् ।  
+९।२०८च् स्वयम् ईहितलब्धं तन् न-अ।कामो दातुम् अर्हति ॥ २०८ ॥  
 
 
-9.209a paitṛkaṃ tu pitā dravyam anavāptaṃ yad āpnuyāt |  
-9.209c na tat putrair bhajet sārdham a.kāmaḥ svayam arjitam || 209 ||  
+९।२०९अ पैतृकं तु पिता द्रव्यम् अनवाप्तं यद् आप्नुयात् ।  
+९।२०९च् न तत् पुत्रैर् भजेत् सार्धम् अ।कामः स्वयम् अर्जितम् ॥ २०९ ॥  
 
 
- 9.1.2.14. Miscellaneous Rules of Partition
- \[O\]  edn 785-787,  \[O\]  tr. 201
-9.210a vibhaktāḥ saha jīvanto vibhajeran punar yadi |  
-9.210c samas tatra vibhāgaḥ syāj jyaiṣṭhyaṃ tatra na vidyate || 210 ||  
+ ९।१।२।१४। मिस्चेल्लनेओउस् रुलेस् ओड़् पर्तितिओन्
+ \[ओ\]  एद्न् ७८५-७८७,  \[ओ\]  त्र्। २०१
+९।२१०अ विभक्ताः सह जीवन्तो विभजेरन् पुनर् यदि ।  
+९।२१०च् समस् तत्र विभागः स्याज् ज्यैष्ठ्यं तत्र न विद्यते ॥ २१० ॥  
 
 
-9.211a yeṣāṃ jyeṣṭhaḥ kaniṣṭho vā hīyeta-aṃśapradānataḥ |  
-9.211c mriyeta-anyataro vā-api tasya bhāgo na lupyate || 211 ||  
+९।२११अ येषां ज्येष्ठः कनिष्ठो वा हीयेत-अंशप्रदानतः ।  
+९।२११च् म्रियेत-अन्यतरो वा-अपि तस्य भागो न लुप्यते ॥ २११ ॥  
 
 
-9.212a sodaryā vibhajeraṃs taṃ sametya sahitāḥ samam |  
-9.212c bhrātaro ye ca saṃsṛṣṭā bhāginyaś ca sa.nābhayaḥ || 212 ||  
+९।२१२अ सोदर्या विभजेरंस् तं समेत्य सहिताः समम् ।  
+९।२१२च् भ्रातरो ये च संसृष्टा भागिन्यश् च स।नाभयः ॥ २१२ ॥  
 
 
-9.213a yo jyeṣṭho vinikurvīta lobhād bhrātṝn yavīyasaḥ |  
-9.213c so 'jyeṣṭhaḥ syād a.bhāgaś ca niyantavyaś ca rājabhiḥ || 213 ||  
+९।२१३अ यो ज्येष्ठो विनिकुर्वीत लोभाद् भ्रातॄन् यवीयसः ।  
+९।२१३च् सो ऽज्येष्ठः स्याद् अ।भागश् च नियन्तव्यश् च राजभिः ॥ २१३ ॥  
 
 
-9.214a sarva eva vikarmasthā na-arhanti bhrātaro dhanam |  
-9.214c na ca-a.dattvā kaniṣṭhebhyo jyeṣṭhaḥ kurvīta yautakam || 214 ||  
+९।२१४अ सर्व एव विकर्मस्था न-अर्हन्ति भ्रातरो धनम् ।  
+९।२१४च् न च-अ।दत्त्वा कनिष्ठेभ्यो ज्येष्ठः कुर्वीत यौतकम् ॥ २१४ ॥  
 
 
-9.215a bhrātṝṇām a.vibhaktānāṃ yady utthānaṃ bhavet saha |  
-9.215c na putrabhāgaṃ viṣamaṃ pitā dadyāt kathaṃ cana || 215 ||  
+९।२१५अ भ्रातॄणाम् अ।विभक्तानां यद्य् उत्थानं भवेत् सह ।  
+९।२१५च् न पुत्रभागं विषमं पिता दद्यात् कथं चन ॥ २१५ ॥  
 
 
-9.216a ūrdhvaṃ vibhāgāt-jātas tu pitryam eva hared dhanam |  
-9.216c saṃsṛṣṭās tena vā ye syur vibhajeta sa taiḥ saha || 216 ||  
+९।२१६अ ऊर्ध्वं विभागात्-जातस् तु पित्र्यम् एव हरेद् धनम् ।  
+९।२१६च् संसृष्टास् तेन वा ये स्युर् विभजेत स तैः सह ॥ २१६ ॥  
 
 
-9.217a an.apatyasya putrasya mātā dāyam avāpnuyāt |  
-9.217c mātary api ca vṛttāyāṃ pitur mātā hared dhanam || 217 ||  
+९।२१७अ अन्।अपत्यस्य पुत्रस्य माता दायम् अवाप्नुयात् ।  
+९।२१७च् मातर्य् अपि च वृत्तायां पितुर् माता हरेद् धनम् ॥ २१७ ॥  
 
 
-9.218a ṛṇe dhane ca sarvasmin pravibhakte yathāvidhi |  
-9.218c paścād dṛśyeta yat kiṃ cit tat sarvaṃ samatāṃ nayet || 218 ||  
+९।२१८अ ऋणे धने च सर्वस्मिन् प्रविभक्ते यथाविधि ।  
+९।२१८च् पश्चाद् दृश्येत यत् किं चित् तत् सर्वं समतां नयेत् ॥ २१८ ॥  
 
 
-9.219a vastraṃ patram alaṅkāraṃ kṛtānnam udakaṃ striyaḥ |  
-9.219c yogakṣemaṃ pracāraṃ ca na vibhājyaṃ pracakṣate || 219 ||  
+९।२१९अ वस्त्रं पत्रम् अलङ्कारं कृतान्नम् उदकं स्त्रियः ।  
+९।२१९च् योगक्षेमं प्रचारं च न विभाज्यं प्रचक्षते ॥ २१९ ॥  
 
 
-9.220a ayam ukto vibhāgo vaḥ putrāṇāṃ ca kriyāvidhiḥ |  
-9.220c kramaśaḥ kṣetrajādīnāṃ dyūtadharmaṃ nibodhata || 220 ||  
+९।२२०अ अयम् उक्तो विभागो वः पुत्राणां च क्रियाविधिः ।  
+९।२२०च् क्रमशः क्षेत्रजादीनां द्यूतधर्मं निबोधत ॥ २२० ॥  
 
 
-# 9.1.3. Grounds of Litigation-XVIII Gambling and Betting
- \[O\]  edn 787-788,  \[O\]  tr. 201-202
-9.221a dyūtaṃ samāhvayaṃ ca-eva rājā rāṣṭrāt-nivārayet |  
-9.221c rājāntakaraṇāv etau dvau doṣau pṛthivīkṣitām || 221 ||  
+# ९।१।३। ग्रोउन्द्स् ओड़् लितिगतिओन्-Xविइइ गम्ब्लिन्ग् अन्द् बेत्तिन्ग्
+ \[ओ\]  एद्न् ७८७-७८८,  \[ओ\]  त्र्। २०१-२०२
+९।२२१अ द्यूतं समाह्वयं च-एव राजा राष्ट्रात्-निवारयेत् ।  
+९।२२१च् राजान्तकरणाव् एतौ द्वौ दोषौ पृथिवीक्षिताम् ॥ २२१ ॥  
 
 
-9.222a prakāśam etat tāskaryaṃ yad devana.samāhvayau |  
-9.222c tayor nityaṃ pratīghāte nṛpatir yatnavān bhavet || 222 ||  
+९।२२२अ प्रकाशम् एतत् तास्कर्यं यद् देवन।समाह्वयौ ।  
+९।२२२च् तयोर् नित्यं प्रतीघाते नृपतिर् यत्नवान् भवेत् ॥ २२२ ॥  
 
 
-9.223a aprāṇibhir yat kriyate tat-loke dyūtam ucyate |  
-9.223c prāṇibhiḥ kriyate yas tu sa vijñeyaḥ samāhvayaḥ || 223 ||  
+९।२२३अ अप्राणिभिर् यत् क्रियते तत्-लोके द्यूतम् उच्यते ।  
+९।२२३च् प्राणिभिः क्रियते यस् तु स विज्ञेयः समाह्वयः ॥ २२३ ॥  
 
 
-9.224a dyūtaṃ samāhvayaṃ ca-eva yaḥ kuryāt kārayeta vā |  
-9.224c tān sarvān ghātayed rājā śūdrāṃś ca dvijaliṅginaḥ || 224 ||  
+९।२२४अ द्यूतं समाह्वयं च-एव यः कुर्यात् कारयेत वा ।  
+९।२२४च् तान् सर्वान् घातयेद् राजा शूद्रांश् च द्विजलिङ्गिनः ॥ २२४ ॥  
 
 
-9.225a kitavān kuśīlavān krūrān pāṣaṇḍasthāṃś ca mānavān |  
-9.225c vikarmasthān śauṇḍikāṃś ca kṣipraṃ nirvāsayet purāt || 225 ||  
+९।२२५अ कितवान् कुशीलवान् क्रूरान् पाषण्डस्थांश् च मानवान् ।  
+९।२२५च् विकर्मस्थान् शौण्डिकांश् च क्षिप्रं निर्वासयेत् पुरात् ॥ २२५ ॥  
 
 
-9.226a ete rāṣṭre vartamānā rājñaḥ prachannataskarāḥ |  
-9.226c vikarmakriyayā nityaṃ bādhante bhadrikāḥ prajāḥ || 226 ||  
+९।२२६अ एते राष्ट्रे वर्तमाना राज्ञः प्रछन्नतस्कराः ।  
+९।२२६च् विकर्मक्रियया नित्यं बाधन्ते भद्रिकाः प्रजाः ॥ २२६ ॥  
 
 
-9.227a dyūtam etat purā kalpe dṛṣṭaṃ vairakaraṃ mahat |  
-9.227c tasmād dyūtaṃ na seveta hāsyārtham api buddhimān || 227 ||  
+९।२२७अ द्यूतम् एतत् पुरा कल्पे दृष्टं वैरकरं महत् ।  
+९।२२७च् तस्माद् द्यूतं न सेवेत हास्यार्थम् अपि बुद्धिमान् ॥ २२७ ॥  
 
 
-9.228a pracchannaṃ vā prakāśaṃ vā tat-niṣeveta yo naraḥ |  
-9.228c tasya daṇḍavikalpaḥ syād yathā.iṣṭaṃ nṛpates tathā || 228 ||  
+९।२२८अ प्रच्छन्नं वा प्रकाशं वा तत्-निषेवेत यो नरः ।  
+९।२२८च् तस्य दण्डविकल्पः स्याद् यथा।इष्टं नृपतेस् तथा ॥ २२८ ॥  
 
 
-# 9.1.4. Excursus: Types of Punishment
- \[O\]  edn 788-793,  \[O\]  tr. 202-203
-9.229a kṣatra.viś.śūdrayonis tu daṇḍaṃ dātum aśaknuvan |  
-9.229c ānṛṇyaṃ karmaṇā gacched vipro dadyāt-śanaiḥ śanaiḥ || 229 ||  
+# ९।१।४। एxचुर्सुस्: त्य्पेस् ओड़् पुनिस्ह्मेन्त्
+ \[ओ\]  एद्न् ७८८-७९३,  \[ओ\]  त्र्। २०२-२०३
+९।२२९अ क्षत्र।विश्।शूद्रयोनिस् तु दण्डं दातुम् अशक्नुवन् ।  
+९।२२९च् आनृण्यं कर्मणा गच्छेद् विप्रो दद्यात्-शनैः शनैः ॥ २२९ ॥  
 
 
-9.230a strī.bāla.unmatta.vṛddhānāṃ daridrāṇāṃ ca rogiṇām |  
-9.230c śiphā.vidala.rajju.ādyair vidadhyāt-nṛpatir damam || 230 ||  
+९।२३०अ स्त्री।बाल।उन्मत्त।वृद्धानां दरिद्राणां च रोगिणाम् ।  
+९।२३०च् शिफा।विदल।रज्जु।आद्यैर् विदध्यात्-नृपतिर् दमम् ॥ २३० ॥  
 
 
-9.231a ye niyuktās tu kāryeṣu hanyuḥ kāryāṇi kāryiṇām |  
-9.231c dhana.uṣmaṇā pacyamānās tān niḥ.svān kārayen nṛpaḥ || 231 ||  
+९।२३१अ ये नियुक्तास् तु कार्येषु हन्युः कार्याणि कार्यिणाम् ।  
+९।२३१च् धन।उष्मणा पच्यमानास् तान् निः।स्वान् कारयेन् नृपः ॥ २३१ ॥  
 
 
-9.232a kūṭaśāsanakartṝṃś ca prakṛtīnāṃ ca dūṣakān |  
-9.232c strī.bāla.brāhmaṇaghnāṃś ca hanyād dviṣ.sevinas tathā || 232 ||  
+९।२३२अ कूटशासनकर्तॄंश् च प्रकृतीनां च दूषकान् ।  
+९।२३२च् स्त्री।बाल।ब्राह्मणघ्नांश् च हन्याद् द्विष्।सेविनस् तथा ॥ २३२ ॥  
 
 
-9.233a tīritaṃ ca-anuśiṣṭaṃ ca yatra kva cana yad bhavet |  
-9.233c kṛtaṃ tad dharmato vidyāt-na tad bhūyo nivartayet || 233 ||  
+९।२३३अ तीरितं च-अनुशिष्टं च यत्र क्व चन यद् भवेत् ।  
+९।२३३च् कृतं तद् धर्मतो विद्यात्-न तद् भूयो निवर्तयेत् ॥ २३३ ॥  
 
 
-9.234a amātyāḥ prāḍvivāko vā yat kuryuḥ kāryam anyathā |  
-9.234c tat svayaṃ nṛpatiḥ kuryāt tān sahasraṃ ca daṇḍayet || 234 || 9.234cv/  \[M\] : “taṃ”  
+९।२३४अ अमात्याः प्राड्विवाको वा यत् कुर्युः कार्यम् अन्यथा ।  
+९।२३४च् तत् स्वयं नृपतिः कुर्यात् तान् सहस्रं च दण्डयेत् ॥ २३४ ॥ ९।२३४च्व्।  \[म्\] : “तं”  
 
 
- 9.1.4.1. Grievous Sins Causing Loss of Caste
- \[O\]  edn 790-793,  \[O\]  tr. 202-203
-9.235a brahmahā ca surāpaś ca steyī ca gurutalpagaḥ | 9.235av/  \[M\] : “taskaro gurutalpagaḥ”  
-9.235c ete sarve pṛthag jñeyā mahāpātakino narāḥ || 235 ||  
+ ९।१।४।१। ग्रिएवोउस् सिन्स् चौसिन्ग् लोस्स् ओड़् चस्ते
+ \[ओ\]  एद्न् ७९०-७९३,  \[ओ\]  त्र्। २०२-२०३
+९।२३५अ ब्रह्महा च सुरापश् च स्तेयी च गुरुतल्पगः । ९।२३५अव्।  \[म्\] : “तस्करो गुरुतल्पगः”  
+९।२३५च् एते सर्वे पृथग् ज्ञेया महापातकिनो नराः ॥ २३५ ॥  
 
 
-9.236a caturṇām api ca-eteṣāṃ prāyaścittam a.kurvatām |  
-9.236c śārīraṃ dhanasaṃyuktaṃ daṇḍaṃ dharmyaṃ prakalpayet || 236 ||  
+९।२३६अ चतुर्णाम् अपि च-एतेषां प्रायश्चित्तम् अ।कुर्वताम् ।  
+९।२३६च् शारीरं धनसंयुक्तं दण्डं धर्म्यं प्रकल्पयेत् ॥ २३६ ॥  
 
 
-9.237a gurutalpe bhagaḥ kāryaḥ surāpāne surādhvajaḥ |  
-9.237c steye ca śvapadaṃ kāryaṃ brahmahaṇy a.śirāḥ pumān || 237 || 9.237cv/  \[M\] : “taskare śvapadaṃ kāryaṃ”  
+९।२३७अ गुरुतल्पे भगः कार्यः सुरापाने सुराध्वजः ।  
+९।२३७च् स्तेये च श्वपदं कार्यं ब्रह्महण्य् अ।शिराः पुमान् ॥ २३७ ॥ ९।२३७च्व्।  \[म्\] : “तस्करे श्वपदं कार्यं”  
 
 
-9.238a a.sambhojyā hy a.saṃyājyā a.sampāṭhyā '.vivāhinaḥ |  
-9.238c careyuḥ pṛthivīṃ dīnāḥ sarvadharmabahiṣkṛtāḥ || 238 ||  
+९।२३८अ अ।सम्भोज्या ह्य् अ।संयाज्या अ।सम्पाठ्या ऽ।विवाहिनः ।  
+९।२३८च् चरेयुः पृथिवीं दीनाः सर्वधर्मबहिष्कृताः ॥ २३८ ॥  
 
 
-9.239a jñāti.sambandhibhis tv ete tyaktavyāḥ kṛta.lakṣaṇāḥ |  
-9.239c nir.dayā nir.namaskārās tan manor anuśāsanam || 239 ||  
+९।२३९अ ज्ञाति।सम्बन्धिभिस् त्व् एते त्यक्तव्याः कृत।लक्षणाः ।  
+९।२३९च् निर्।दया निर्।नमस्कारास् तन् मनोर् अनुशासनम् ॥ २३९ ॥  
 
 
-9.240a prāyaścittaṃ tu kurvāṇāḥ sarvavarṇā yathoditam | 9.240av/  \[M\] : “pūrve varṇā yathā.uditam”  
-9.240c na-aṅkyā rājñā lalāṭe syur dāpyās tu-uttamasāhasam || 240 ||  
+९।२४०अ प्रायश्चित्तं तु कुर्वाणाः सर्ववर्णा यथोदितम् । ९।२४०अव्।  \[म्\] : “पूर्वे वर्णा यथा।उदितम्”  
+९।२४०च् न-अङ्क्या राज्ञा ललाटे स्युर् दाप्यास् तु-उत्तमसाहसम् ॥ २४० ॥  
 
 
-9.241a āgaḥsu brāhmaṇasya-eva kāryo madhyamasāhasaḥ |  
-9.241c vivāsyo vā bhaved rāṣṭrāt sa.dravyaḥ sa.paricchadaḥ || 241 ||  
+९।२४१अ आगःसु ब्राह्मणस्य-एव कार्यो मध्यमसाहसः ।  
+९।२४१च् विवास्यो वा भवेद् राष्ट्रात् स।द्रव्यः स।परिच्छदः ॥ २४१ ॥  
 
 
-9.242a itare kṛtavantas tu pāpāny etāny akāmataḥ |  
-9.242c sarvasvahāram arhanti kāmatas tu pravāsanam || 242 ||  
+९।२४२अ इतरे कृतवन्तस् तु पापान्य् एतान्य् अकामतः ।  
+९।२४२च् सर्वस्वहारम् अर्हन्ति कामतस् तु प्रवासनम् ॥ २४२ ॥  
 
 
-9.243a na-ādadīta nṛpaḥ sādhur mahāpātakino dhanam |  
-9.243c ādadānas tu tat-lobhāt tena doṣeṇa lipyate || 243 ||  
+९।२४३अ न-आददीत नृपः साधुर् महापातकिनो धनम् ।  
+९।२४३च् आददानस् तु तत्-लोभात् तेन दोषेण लिप्यते ॥ २४३ ॥  
 
 
-9.244a apsu praveśya taṃ daṇḍaṃ varuṇāya-upapādayet |  
-9.244c śruta.vṛtta.upapanne vā brāhmaṇe pratipādayet || 244 ||  
+९।२४४अ अप्सु प्रवेश्य तं दण्डं वरुणाय-उपपादयेत् ।  
+९।२४४च् श्रुत।वृत्त।उपपन्ने वा ब्राह्मणे प्रतिपादयेत् ॥ २४४ ॥  
 
 
-9.245a īśo daṇḍasya varuṇo rājñāṃ daṇḍadharo hi saḥ |  
-9.245c īśaḥ sarvasya jagato brāhmaṇo vedapāragaḥ || 245 ||  
+९।२४५अ ईशो दण्डस्य वरुणो राज्ञां दण्डधरो हि सः ।  
+९।२४५च् ईशः सर्वस्य जगतो ब्राह्मणो वेदपारगः ॥ २४५ ॥  
 
 
-9.246a yatra varjayate rājā pāpakṛdbhyo dhanāgamam |  
-9.246c tatra kālena jāyante mānavā dīrghajīvinaḥ || 246 ||  
+९।२४६अ यत्र वर्जयते राजा पापकृद्भ्यो धनागमम् ।  
+९।२४६च् तत्र कालेन जायन्ते मानवा दीर्घजीविनः ॥ २४६ ॥  
 
 
-9.247a niṣpadyante ca sasyāni yathā.uptāni viśāṃ pṛthak |  
-9.247c bālāś ca na pramīyante vikṛtaṃ ca na jāyate || 247 ||  
+९।२४७अ निष्पद्यन्ते च सस्यानि यथा।उप्तानि विशां पृथक् ।  
+९।२४७च् बालाश् च न प्रमीयन्ते विकृतं च न जायते ॥ २४७ ॥  
 
 
-9.248a brāhmaṇān bādhamānaṃ tu kāmād avaravarṇajam |  
-9.248c hanyāc citrair vadha.upāyair udvejanakarair nṛpaḥ || 248 ||  
+९।२४८अ ब्राह्मणान् बाधमानं तु कामाद् अवरवर्णजम् ।  
+९।२४८च् हन्याच् चित्रैर् वध।उपायैर् उद्वेजनकरैर् नृपः ॥ २४८ ॥  
 
 
-9.249a yāvān a.vadhyasya vadhe tāvān vadhyasya mokṣaṇe |  
-9.249c adharmo nṛpater dṛṣṭo dharmas tu viniyacchataḥ || 249 ||  
+९।२४९अ यावान् अ।वध्यस्य वधे तावान् वध्यस्य मोक्षणे ।  
+९।२४९च् अधर्मो नृपतेर् दृष्टो धर्मस् तु विनियच्छतः ॥ २४९ ॥  
 
 
-# 9.1.5. Conclusion of Grounds for Litigation
- \[O\]  edn 793,  \[O\]  tr. 203
-9.250a udito 'yaṃ vistaraśo mitho vivādamānayoḥ |  
-9.250c aṣṭādaśasu mārgeṣu vyavahārasya nirṇayaḥ || 250 ||  
+# ९।१।५। चोन्च्लुसिओन् ओड़् ग्रोउन्द्स् ड़ोर् लितिगतिओन्
+ \[ओ\]  एद्न् ७९३,  \[ओ\]  त्र्। २०३
+९।२५०अ उदितो ऽयं विस्तरशो मिथो विवादमानयोः ।  
+९।२५०च् अष्टादशसु मार्गेषु व्यवहारस्य निर्णयः ॥ २५० ॥  
 
 
-9.251a evaṃ dharmyāṇi kāryāṇi samyak kurvan mahīpatiḥ |  
-9.251c deśān alabdhān-lipseta labdhāṃś ca paripālayet || 251 ||  
+९।२५१अ एवं धर्म्याणि कार्याणि सम्यक् कुर्वन् महीपतिः ।  
+९।२५१च् देशान् अलब्धान्-लिप्सेत लब्धांश् च परिपालयेत् ॥ २५१ ॥  
 
 
-# 9.1.6. Eradication of Thorns
- \[O\]  edn 793-807,  \[O\]  tr. 203-206
-9.252a samyak.niviṣṭa.deśas tu kṛta.durgaś ca śāstrataḥ |  
-9.252c kaṇṭaka.uddharaṇe nityam ātiṣṭhed yatnam uttamam || 252 ||  
+# ९।१।६। एरदिचतिओन् ओड़् थोर्न्स्
+ \[ओ\]  एद्न् ७९३-८०७,  \[ओ\]  त्र्। २०३-२०६
+९।२५२अ सम्यक्।निविष्ट।देशस् तु कृत।दुर्गश् च शास्त्रतः ।  
+९।२५२च् कण्टक।उद्धरणे नित्यम् आतिष्ठेद् यत्नम् उत्तमम् ॥ २५२ ॥  
 
 
-9.253a rakṣanād āryavṛttānāṃ kaṇṭakānāṃ ca śodhanāt |  
-9.253c narendrās tridivaṃ yānti prajāpālana.tatparāḥ || 253 ||  
+९।२५३अ रक्षनाद् आर्यवृत्तानां कण्टकानां च शोधनात् ।  
+९।२५३च् नरेन्द्रास् त्रिदिवं यान्ति प्रजापालन।तत्पराः ॥ २५३ ॥  
 
 
-9.254a a.śāsaṃs taskarān yas tu baliṃ gṛhṇāti pārthivaḥ |  
-9.254c tasya prakṣubhyate rāṣṭraṃ svargāc ca parihīyate || 254 ||  
+९।२५४अ अ।शासंस् तस्करान् यस् तु बलिं गृह्णाति पार्थिवः ।  
+९।२५४च् तस्य प्रक्षुभ्यते राष्ट्रं स्वर्गाच् च परिहीयते ॥ २५४ ॥  
 
 
-9.255a nirbhayaṃ tu bhaved yasya rāṣṭraṃ bāhu.balāśritam |  
-9.255c tasya tad vardhate nityaṃ sicyamāna iva drumaḥ || 255 ||  
+९।२५५अ निर्भयं तु भवेद् यस्य राष्ट्रं बाहु।बलाश्रितम् ।  
+९।२५५च् तस्य तद् वर्धते नित्यं सिच्यमान इव द्रुमः ॥ २५५ ॥  
 
 
-9.256a dvividhāṃs taskarān vidyāt paradravyāpahārakān |  
-9.256c prakāśāṃś ca-aprakāśāṃś ca cāra.cakṣur mahīpatiḥ || 256 ||  
+९।२५६अ द्विविधांस् तस्करान् विद्यात् परद्रव्यापहारकान् ।  
+९।२५६च् प्रकाशांश् च-अप्रकाशांश् च चार।चक्षुर् महीपतिः ॥ २५६ ॥  
 
 
-9.257a prakāśavañcakās teṣāṃ nānāpaṇya-upajīvinaḥ |  
-9.257c pracchannavañcakās tv ete ye stena.aṭavikādayaḥ || 257 ||  
+९।२५७अ प्रकाशवञ्चकास् तेषां नानापण्य-उपजीविनः ।  
+९।२५७च् प्रच्छन्नवञ्चकास् त्व् एते ये स्तेन।अटविकादयः ॥ २५७ ॥  
 
 
-9.258a utkocakāś ca-aupadhikā vañcakāḥ kitavās tathā |  
-9.258c maṅgalādeśa.vṛttāś ca bhadrāś ca-īkṣaṇikaiḥ saha || 258 || 9.258cv/  \[M\] : “bhadraprekṣaṇikaiḥ saha”  
+९।२५८अ उत्कोचकाश् च-औपधिका वञ्चकाः कितवास् तथा ।  
+९।२५८च् मङ्गलादेश।वृत्ताश् च भद्राश् च-ईक्षणिकैः सह ॥ २५८ ॥ ९।२५८च्व्।  \[म्\] : “भद्रप्रेक्षणिकैः सह”  
 
 
-9.259a asamyakkāriṇaś ca-eva mahāmātrāś cikitsakāḥ |  
-9.259c śilpa.upacārayuktāś ca nipuṇāḥ paṇyayoṣitaḥ || 259 ||  
+९।२५९अ असम्यक्कारिणश् च-एव महामात्राश् चिकित्सकाः ।  
+९।२५९च् शिल्प।उपचारयुक्ताश् च निपुणाः पण्ययोषितः ॥ २५९ ॥  
 
 
-9.260a evamādīn vijānīyāt prakāśāṃl lokakaṇṭakān | 9.260av/  \[M\] : “evamādyān”  
-9.260c nigūḍhacāriṇaś ca-anyān anāryān āryaliṅginaḥ || 260 ||  
+९।२६०अ एवमादीन् विजानीयात् प्रकाशांल् लोककण्टकान् । ९।२६०अव्।  \[म्\] : “एवमाद्यान्”  
+९।२६०च् निगूढचारिणश् च-अन्यान् अनार्यान् आर्यलिङ्गिनः ॥ २६० ॥  
 
 
-9.261a tān viditvā sucaritair gūḍhais tatkarmakāribhiḥ |  
-9.261c cāraiś ca-aneka.saṃsthānaiḥ protsādya vaśam ānayet || 261 ||  
+९।२६१अ तान् विदित्वा सुचरितैर् गूढैस् तत्कर्मकारिभिः ।  
+९।२६१च् चारैश् च-अनेक।संस्थानैः प्रोत्साद्य वशम् आनयेत् ॥ २६१ ॥  
 
 
-9.262a teṣāṃ doṣān abhikhyāpya sve sve karmaṇi tattvataḥ |  
-9.262c kurvīta śāsanaṃ rājā samyak sāra.aparādhataḥ || 262 ||  
+९।२६२अ तेषां दोषान् अभिख्याप्य स्वे स्वे कर्मणि तत्त्वतः ।  
+९।२६२च् कुर्वीत शासनं राजा सम्यक् सार।अपराधतः ॥ २६२ ॥  
 
 
-9.263a na hi daṇḍād ṛte śakyaḥ kartuṃ pāpa.vinigrahaḥ |  
-9.263c stenānāṃ pāpabuddhīnāṃ nibhṛtaṃ caratāṃ kṣitau || 263 ||  
+९।२६३अ न हि दण्डाद् ऋते शक्यः कर्तुं पाप।विनिग्रहः ।  
+९।२६३च् स्तेनानां पापबुद्धीनां निभृतं चरतां क्षितौ ॥ २६३ ॥  
 
 
-9.264a sabhā.prapā.apūpa.śālāveśa.madya.anna.vikrayāḥ |  
-9.264c catuṣpathāṃś caityavṛkṣāḥ samājāḥ prekṣaṇāni ca || 264 ||  
+९।२६४अ सभा।प्रपा।अपूप।शालावेश।मद्य।अन्न।विक्रयाः ।  
+९।२६४च् चतुष्पथांश् चैत्यवृक्षाः समाजाः प्रेक्षणानि च ॥ २६४ ॥  
 
 
-9.265a jīrṇa.udyānāny araṇyāni kārukāveśanāni ca |  
-9.265c śūnyāni ca-apy agārāṇi vanāny upavanāni ca || 265 ||  
+९।२६५अ जीर्ण।उद्यानान्य् अरण्यानि कारुकावेशनानि च ।  
+९।२६५च् शून्यानि च-अप्य् अगाराणि वनान्य् उपवनानि च ॥ २६५ ॥  
 
 
-9.266a evaṃvidhān nṛpo deśān gulmaiḥ sthāvara.jaṅgamaiḥ |  
-9.266c taskarapratiṣedhārthaṃ cāraiś ca-apy anucārayet || 266 ||  
+९।२६६अ एवंविधान् नृपो देशान् गुल्मैः स्थावर।जङ्गमैः ।  
+९।२६६च् तस्करप्रतिषेधार्थं चारैश् च-अप्य् अनुचारयेत् ॥ २६६ ॥  
 
 
-9.267a tatsahāyair anugatair nānākarmapravedibhiḥ |  
-9.267c vidyād utsādayec ca-eva nipuṇaiḥ pūrvataskaraiḥ || 267 ||  
+९।२६७अ तत्सहायैर् अनुगतैर् नानाकर्मप्रवेदिभिः ।  
+९।२६७च् विद्याद् उत्सादयेच् च-एव निपुणैः पूर्वतस्करैः ॥ २६७ ॥  
 
 
-9.268a bhakṣya.bhojya.upadeśaiś ca brāhmaṇānāṃ ca darśanaiḥ |  
-9.268c śauryakarmāpadeśaiś ca kuryus teṣāṃ samāgamam || 268 ||  
+९।२६८अ भक्ष्य।भोज्य।उपदेशैश् च ब्राह्मणानां च दर्शनैः ।  
+९।२६८च् शौर्यकर्मापदेशैश् च कुर्युस् तेषां समागमम् ॥ २६८ ॥  
 
 
-9.269a ye tatra na-upasarpeyur mūlapraṇihitāś ca ye |  
-9.269c tān prasahya nṛpo hanyāt sa.mitra.jñāti.bāndhavān || 269 ||  
+९।२६९अ ये तत्र न-उपसर्पेयुर् मूलप्रणिहिताश् च ये ।  
+९।२६९च् तान् प्रसह्य नृपो हन्यात् स।मित्र।ज्ञाति।बान्धवान् ॥ २६९ ॥  
 
 
-9.270a na ha-ūḍhena vinā cauraṃ ghātayed dhārmiko nṛpaḥ |  
-9.270c saha-ūḍhaṃ sa.upakaraṇaṃ ghātayed a.vicārayan || 270 ||  
+९।२७०अ न ह-ऊढेन विना चौरं घातयेद् धार्मिको नृपः ।  
+९।२७०च् सह-ऊढं स।उपकरणं घातयेद् अ।विचारयन् ॥ २७० ॥  
 
 
-9.271a grāmeṣv api ca ye ke cic caurāṇāṃ bhaktadāyakāḥ |  
-9.271c bhāṇḍa.avakāśadāś ca-eva sarvāṃs tān api ghātayet || 271 ||  
+९।२७१अ ग्रामेष्व् अपि च ये के चिच् चौराणां भक्तदायकाः ।  
+९।२७१च् भाण्ड।अवकाशदाश् च-एव सर्वांस् तान् अपि घातयेत् ॥ २७१ ॥  
 
 
-9.272a rāṣṭreṣu rakṣādhikṛtān sāmantāṃś ca-eva coditān |  
-9.272c abhyāghāteṣu madhyasthāñ śiṣyāc caurān iva drutam || 272 ||  
+९।२७२अ राष्ट्रेषु रक्षाधिकृतान् सामन्तांश् च-एव चोदितान् ।  
+९।२७२च् अभ्याघातेषु मध्यस्थाञ् शिष्याच् चौरान् इव द्रुतम् ॥ २७२ ॥  
 
 
-9.273a yaś ca-api dharmasamayāt pracyuto dharma.jīvanaḥ |  
-9.273c daṇḍena-eva tam apy oṣet svakād dharmādd hi vicyutam || 273 ||  
+९।२७३अ यश् च-अपि धर्मसमयात् प्रच्युतो धर्म।जीवनः ।  
+९।२७३च् दण्डेन-एव तम् अप्य् ओषेत् स्वकाद् धर्माद्द् हि विच्युतम् ॥ २७३ ॥  
 
 
-9.274a grāmaghāte hitābhaṅge pathi moṣābhidarśane |  
-9.274c śaktito na-abhidhāvanto nirvāsyāḥ sa.paricchadāḥ || 274 ||  
+९।२७४अ ग्रामघाते हिताभङ्गे पथि मोषाभिदर्शने ।  
+९।२७४च् शक्तितो न-अभिधावन्तो निर्वास्याः स।परिच्छदाः ॥ २७४ ॥  
 
 
-9.275a rājñaḥ kośāpahartṝṃś ca pratikūleṣu ca sthitān | 9.275av/  \[M\] : “prātikūlyeṣv avasthitān”  
-9.275c ghātayed vividhair daṇḍair arīṇāṃ ca-upajāpakān || 275 ||  
+९।२७५अ राज्ञः कोशापहर्तॄंश् च प्रतिकूलेषु च स्थितान् । ९।२७५अव्।  \[म्\] : “प्रातिकूल्येष्व् अवस्थितान्”  
+९।२७५च् घातयेद् विविधैर् दण्डैर् अरीणां च-उपजापकान् ॥ २७५ ॥  
 
 
-9.276a sandhiṃ chittvā tu ye cauryaṃ rātrau kurvanti taskarāḥ | 9.276av/  \[M\] : “sandhiṃ bhittvā”  
-9.276c teṣāṃ chittvā nṛpo hastau tīkṣṇe śūle niveśayet || 276 ||  
+९।२७६अ सन्धिं छित्त्वा तु ये चौर्यं रात्रौ कुर्वन्ति तस्कराः । ९।२७६अव्।  \[म्\] : “सन्धिं भित्त्वा”  
+९।२७६च् तेषां छित्त्वा नृपो हस्तौ तीक्ष्णे शूले निवेशयेत् ॥ २७६ ॥  
 
 
-9.277a aṅgulīr granthibhedasya chedayet prathame grahe |  
-9.277c dvitīye hasta.caraṇau tṛtīye vadham arhati || 277 ||  
+९।२७७अ अङ्गुलीर् ग्रन्थिभेदस्य छेदयेत् प्रथमे ग्रहे ।  
+९।२७७च् द्वितीये हस्त।चरणौ तृतीये वधम् अर्हति ॥ २७७ ॥  
 
 
-9.278a agnidān bhaktadāṃś ca-eva tathā śastra.avakāśadān |  
-9.278c sannidhātṝṃś ca moṣasya hanyāc cauram iva-īśvaraḥ || 278 ||  
+९।२७८अ अग्निदान् भक्तदांश् च-एव तथा शस्त्र।अवकाशदान् ।  
+९।२७८च् सन्निधातॄंश् च मोषस्य हन्याच् चौरम् इव-ईश्वरः ॥ २७८ ॥  
 
 
-9.279a taḍāgabhedakaṃ hanyād apsu śuddhavadhena vā |  
-9.279c yad vā-api pratisaṃskuryād dāpyas tu-uttamasāhasam || 279 ||  
+९।२७९अ तडागभेदकं हन्याद् अप्सु शुद्धवधेन वा ।  
+९।२७९च् यद् वा-अपि प्रतिसंस्कुर्याद् दाप्यस् तु-उत्तमसाहसम् ॥ २७९ ॥  
 
 
-9.280a koṣṭhāgāra.āyudhāgāra.devatāgāra.bhedakān |  
-9.280c hasti.aśva.rathahartṝṃś ca hanyād eva-a.vicārayan || 280 ||  
+९।२८०अ कोष्ठागार।आयुधागार।देवतागार।भेदकान् ।  
+९।२८०च् हस्ति।अश्व।रथहर्तॄंश् च हन्याद् एव-अ।विचारयन् ॥ २८० ॥  
 
 
-9.281a yas tu pūrvaniviṣṭasya taḍāgasya-udakaṃ haret |  
-9.281c āgamaṃ vā-apy apāṃ bhindyāt sa dāpyaḥ pūrvasāhasam || 281 ||  
+९।२८१अ यस् तु पूर्वनिविष्टस्य तडागस्य-उदकं हरेत् ।  
+९।२८१च् आगमं वा-अप्य् अपां भिन्द्यात् स दाप्यः पूर्वसाहसम् ॥ २८१ ॥  
 
 
-9.282a samutsṛjed rājamārge yas tv amedhyam anāpadi |  
-9.282c sa dvau kārṣāpaṇau dadyād amedhyaṃ ca-āśu śodhayet || 282 ||  
+९।२८२अ समुत्सृजेद् राजमार्गे यस् त्व् अमेध्यम् अनापदि ।  
+९।२८२च् स द्वौ कार्षापणौ दद्याद् अमेध्यं च-आशु शोधयेत् ॥ २८२ ॥  
 
 
-9.283a āpadgato 'tha vā vṛddhā garbhiṇī bāla eva vā |  
-9.283c paribhāṣaṇam arhanti tac ca śodhyam iti sthitiḥ || 283 ||  
+९।२८३अ आपद्गतो ऽथ वा वृद्धा गर्भिणी बाल एव वा ।  
+९।२८३च् परिभाषणम् अर्हन्ति तच् च शोध्यम् इति स्थितिः ॥ २८३ ॥  
 
 
-9.284a cikitsakānāṃ sarveṣāṃ mithyāpracaratāṃ damaḥ |  
-9.284c amānuṣeṣu prathamo mānuṣeṣu tu madhyamaḥ || 284 ||  
+९।२८४अ चिकित्सकानां सर्वेषां मिथ्याप्रचरतां दमः ।  
+९।२८४च् अमानुषेषु प्रथमो मानुषेषु तु मध्यमः ॥ २८४ ॥  
 
 
-9.285a saṅkrama.dhvaja.yaṣṭīnāṃ pratimānāṃ ca bhedakaḥ |  
-9.285c pratikuryāc ca tat sarvaṃ pañca dadyāt-śatāni ca || 285 ||  
+९।२८५अ सङ्क्रम।ध्वज।यष्टीनां प्रतिमानां च भेदकः ।  
+९।२८५च् प्रतिकुर्याच् च तत् सर्वं पञ्च दद्यात्-शतानि च ॥ २८५ ॥  
 
 
-9.286a adūṣitānāṃ dravyāṇāṃ dūṣaṇe bhedane tathā |  
-9.286c maṇīnām apavedhe ca daṇḍaḥ prathamasāhasaḥ || 286 ||  
+९।२८६अ अदूषितानां द्रव्याणां दूषणे भेदने तथा ।  
+९।२८६च् मणीनाम् अपवेधे च दण्डः प्रथमसाहसः ॥ २८६ ॥  
 
 
-9.287a samair hi viṣamaṃ yas tu cared vai mūlyato 'pi vā |  
-9.287c samāpnuyād damaṃ pūrvaṃ naro madhyamam eva vā || 287 ||  
+९।२८७अ समैर् हि विषमं यस् तु चरेद् वै मूल्यतो ऽपि वा ।  
+९।२८७च् समाप्नुयाद् दमं पूर्वं नरो मध्यमम् एव वा ॥ २८७ ॥  
 
 
-9.288a bandhanāni ca sarvāṇi rājā mārge niveśayet | 9.288av/  \[M\] : “rājamārge”  
-9.288c duḥkhitā yatra dṛśyeran vikṛtāḥ pāpakāriṇah || 288 ||  
+९।२८८अ बन्धनानि च सर्वाणि राजा मार्गे निवेशयेत् । ९।२८८अव्।  \[म्\] : “राजमार्गे”  
+९।२८८च् दुःखिता यत्र दृश्येरन् विकृताः पापकारिणह् ॥ २८८ ॥  
 
 
-9.289a prākārasya ca bhettāraṃ parikhāṇāṃ ca pūrakam |  
-9.289c dvārāṇāṃ ca-eva bhaṅktāraṃ kṣipram eva pravāsayet || 289 ||  
+९।२८९अ प्राकारस्य च भेत्तारं परिखाणां च पूरकम् ।  
+९।२८९च् द्वाराणां च-एव भङ्क्तारं क्षिप्रम् एव प्रवासयेत् ॥ २८९ ॥  
 
 
-9.290a abhicāreṣu sarveṣu kartavyo dviśato damaḥ |  
-9.290c mūlakarmaṇi ca-anāpteḥ kṛtyāsu vividhāsu ca || 290 || 9.290cv/  \[M\] : “ca-anāptaiḥ”  
+९।२९०अ अभिचारेषु सर्वेषु कर्तव्यो द्विशतो दमः ।  
+९।२९०च् मूलकर्मणि च-अनाप्तेः कृत्यासु विविधासु च ॥ २९० ॥ ९।२९०च्व्।  \[म्\] : “च-अनाप्तैः”  
 
 
-9.291a abījavikrayī ca-eva bīja.utkṛṣṭā tathā-eva ca |  
-9.291c maryādābhedakaś ca-eva vikṛtaṃ prāpnuyād vadham || 291 ||  
+९।२९१अ अबीजविक्रयी च-एव बीज।उत्कृष्टा तथा-एव च ।  
+९।२९१च् मर्यादाभेदकश् च-एव विकृतं प्राप्नुयाद् वधम् ॥ २९१ ॥  
 
 
-9.292a sarvakaṇṭakapāpiṣṭhaṃ hemakāraṃ tu pārthivaḥ |  
-9.292c pravartamānam anyāye chedayet-lavaśaḥ kṣuraiḥ || 292 || 9.292cv/  \[M\] : “chedayet khaṇḍaśaḥ kṣuraiḥ”  
+९।२९२अ सर्वकण्टकपापिष्ठं हेमकारं तु पार्थिवः ।  
+९।२९२च् प्रवर्तमानम् अन्याये छेदयेत्-लवशः क्षुरैः ॥ २९२ ॥ ९।२९२च्व्।  \[म्\] : “छेदयेत् खण्डशः क्षुरैः”  
 
 
-9.293a sītā.dravyāpaharaṇe śastrāṇām auṣadhasya ca |  
-9.293c kālam āsādya kāryaṃ ca rājā daṇḍaṃ prakalpayet || 293 ||  
+९।२९३अ सीता।द्रव्यापहरणे शस्त्राणाम् औषधस्य च ।  
+९।२९३च् कालम् आसाद्य कार्यं च राजा दण्डं प्रकल्पयेत् ॥ २९३ ॥  
 
 
- 9.1.6.1. Excursus: Constituents of a Kingdom
- \[O\]  edn 801-802,  \[O\]  tr. 205
-9.294a svāmy.amātyau puraṃ rāṣṭraṃ kośa.daṇḍau suhṛt tathā |  
-9.294c sapta prakṛtayo hy etāḥ saptāṅgaṃ rājyam ucyate || 294 ||  
+ ९।१।६।१। एxचुर्सुस्: चोन्स्तितुएन्त्स् ओड़् अ किन्ग्दोम्
+ \[ओ\]  एद्न् ८०१-८०२,  \[ओ\]  त्र्। २०५
+९।२९४अ स्वाम्य्।अमात्यौ पुरं राष्ट्रं कोश।दण्डौ सुहृत् तथा ।  
+९।२९४च् सप्त प्रकृतयो ह्य् एताः सप्ताङ्गं राज्यम् उच्यते ॥ २९४ ॥  
 
 
-9.295a saptānāṃ prakṛtīnāṃ tu rājyasya-āsāṃ yathākramam |  
-9.295c pūrvaṃ pūrvaṃ gurutaraṃ jānīyād vyasanaṃ mahat || 295 ||  
+९।२९५अ सप्तानां प्रकृतीनां तु राज्यस्य-आसां यथाक्रमम् ।  
+९।२९५च् पूर्वं पूर्वं गुरुतरं जानीयाद् व्यसनं महत् ॥ २९५ ॥  
 
 
-9.296a sapta.aṅgasya-iha rājyasya viṣṭabdhasya tridaṇḍavat |  
-9.296c anyonyaguṇavaiśeṣyāt-na kiṃ cid atiricyate || 296 ||  
+९।२९६अ सप्त।अङ्गस्य-इह राज्यस्य विष्टब्धस्य त्रिदण्डवत् ।  
+९।२९६च् अन्योन्यगुणवैशेष्यात्-न किं चिद् अतिरिच्यते ॥ २९६ ॥  
 
 
-9.297a teṣu teṣu tu kṛtyeṣu tat tad aṅgaṃ viśiṣyate |  
-9.297c yena yat sādhyate kāryaṃ tat tasmin-śreṣṭham ucyate || 297 ||  
+९।२९७अ तेषु तेषु तु कृत्येषु तत् तद् अङ्गं विशिष्यते ।  
+९।२९७च् येन यत् साध्यते कार्यं तत् तस्मिन्-श्रेष्ठम् उच्यते ॥ २९७ ॥  
 
 
- 9.1.6.2. Excursus: Activities of the King
- \[O\]  edn 802-805,  \[O\]  tr. 205-206
-9.298a cāreṇa-utsāhayogena kriyayā-eva ca karmaṇām |  
-9.298c svaśaktiṃ paraśaktiṃ ca nityaṃ vidyāt-mahīpatiḥ || 298 || 9.298cv/  \[M\] : “vidyāt para.ātmanoḥ”  
+ ९।१।६।२। एxचुर्सुस्: अच्तिवितिएस् ओड़् थे किन्ग्
+ \[ओ\]  एद्न् ८०२-८०५,  \[ओ\]  त्र्। २०५-२०६
+९।२९८अ चारेण-उत्साहयोगेन क्रियया-एव च कर्मणाम् ।  
+९।२९८च् स्वशक्तिं परशक्तिं च नित्यं विद्यात्-महीपतिः ॥ २९८ ॥ ९।२९८च्व्।  \[म्\] : “विद्यात् पर।आत्मनोः”  
 
 
-9.299a pīḍanāni ca sarvāṇi vyasanāni tathā-eva ca |  
-9.299c ārabheta tataḥ kāryaṃ sañcintya guru.lāghavam || 299 ||  
+९।२९९अ पीडनानि च सर्वाणि व्यसनानि तथा-एव च ।  
+९।२९९च् आरभेत ततः कार्यं सञ्चिन्त्य गुरु।लाघवम् ॥ २९९ ॥  
 
 
-9.300a ārabheta-eva karmāṇi śrāntaḥ śrāntaḥ punaḥ punaḥ |  
-9.300c karmāṇy ārabhamāṇaṃ hi puruṣaṃ śrīr niṣevate || 300 ||  
+९।३००अ आरभेत-एव कर्माणि श्रान्तः श्रान्तः पुनः पुनः ।  
+९।३००च् कर्माण्य् आरभमाणं हि पुरुषं श्रीर् निषेवते ॥ ३०० ॥  
 
 
-9.301a kṛtaṃ tretāyugaṃ ca-eva dvāparaṃ kalir eva ca |  
-9.301c rājño vṛttāni sarvāṇi rājā hi yugam ucyate || 301 ||  
+९।३०१अ कृतं त्रेतायुगं च-एव द्वापरं कलिर् एव च ।  
+९।३०१च् राज्ञो वृत्तानि सर्वाणि राजा हि युगम् उच्यते ॥ ३०१ ॥  
 
 
-9.302a kaliḥ prasupto bhavati sa jāgrad dvāparaṃ yugam |  
-9.302c karmasv abhyudyatas tretā vicaraṃs tu kṛtaṃ yugam || 302 ||  
+९।३०२अ कलिः प्रसुप्तो भवति स जाग्रद् द्वापरं युगम् ।  
+९।३०२च् कर्मस्व् अभ्युद्यतस् त्रेता विचरंस् तु कृतं युगम् ॥ ३०२ ॥  
 
 
-9.303a indrasya-arkasya vāyoś ca yamasya varuṇasya ca |  
-9.303c candrasya-agneḥ pṛthivyāś ca tejovṛttaṃ nṛpaś caret || 303 ||  
+९।३०३अ इन्द्रस्य-अर्कस्य वायोश् च यमस्य वरुणस्य च ।  
+९।३०३च् चन्द्रस्य-अग्नेः पृथिव्याश् च तेजोवृत्तं नृपश् चरेत् ॥ ३०३ ॥  
 
 
-9.304a vārṣikāṃś caturo māsān yathā-indro 'bhipravarṣati |  
-9.304c tathā-abhivarṣet svaṃ rāṣṭraṃ kāmair indravrataṃ caran || 304 ||  
+९।३०४अ वार्षिकांश् चतुरो मासान् यथा-इन्द्रो ऽभिप्रवर्षति ।  
+९।३०४च् तथा-अभिवर्षेत् स्वं राष्ट्रं कामैर् इन्द्रव्रतं चरन् ॥ ३०४ ॥  
 
 
-9.305a aṣṭau māsān yathā-ādityas toyaṃ harati raśmibhiḥ |  
-9.305c tathā haret karaṃ rāṣṭrāt-nityam arkavrataṃ hi tat || 305 ||  
+९।३०५अ अष्टौ मासान् यथा-आदित्यस् तोयं हरति रश्मिभिः ।  
+९।३०५च् तथा हरेत् करं राष्ट्रात्-नित्यम् अर्कव्रतं हि तत् ॥ ३०५ ॥  
 
 
-9.306a praviśya sarvabhūtāni yathā carati mārutaḥ |  
-9.306c tathā cāraiḥ praveṣṭavyaṃ vratam etadd hi mārutam || 306 ||  
+९।३०६अ प्रविश्य सर्वभूतानि यथा चरति मारुतः ।  
+९।३०६च् तथा चारैः प्रवेष्टव्यं व्रतम् एतद्द् हि मारुतम् ॥ ३०६ ॥  
 
 
-9.307a yathā yamaḥ priya.dveṣyau prāpte kāle niyacchati |  
-9.307c tathā rājñā niyantavyāḥ prajās tadd hi yamavratam || 307 ||  
+९।३०७अ यथा यमः प्रिय।द्वेष्यौ प्राप्ते काले नियच्छति ।  
+९।३०७च् तथा राज्ञा नियन्तव्याः प्रजास् तद्द् हि यमव्रतम् ॥ ३०७ ॥  
 
 
-9.308a varuṇena yathā pāśair baddha eva-abhidṛśyate |  
-9.308c tathā pāpān nigṛhṇīyād vratam etadd hi vāruṇam || 308 ||  
+९।३०८अ वरुणेन यथा पाशैर् बद्ध एव-अभिदृश्यते ।  
+९।३०८च् तथा पापान् निगृह्णीयाद् व्रतम् एतद्द् हि वारुणम् ॥ ३०८ ॥  
 
 
-9.309a paripūrṇaṃ yathā candraṃ dṛṣṭvā hṛṣyanti mānavāḥ |  
-9.309c tathā prakṛtayo yasmin sa cāndravratiko nṛpaḥ || 309 ||  
+९।३०९अ परिपूर्णं यथा चन्द्रं दृष्ट्वा हृष्यन्ति मानवाः ।  
+९।३०९च् तथा प्रकृतयो यस्मिन् स चान्द्रव्रतिको नृपः ॥ ३०९ ॥  
 
 
-9.310a pratāpayuktas tejasvī nityaṃ syāt pāpakarmasu |  
-9.310c duṣṭasāmantahiṃsraś ca tad āgneyaṃ vrataṃ smṛtam || 310 ||  
+९।३१०अ प्रतापयुक्तस् तेजस्वी नित्यं स्यात् पापकर्मसु ।  
+९।३१०च् दुष्टसामन्तहिंस्रश् च तद् आग्नेयं व्रतं स्मृतम् ॥ ३१० ॥  
 
 
-9.311a yathā sarvāṇi bhūtāni dharā dhārayate samam |  
-9.311c tathā sarvāṇi bhūtāni bibhrataḥ pārthivaṃ vratam || 311 ||  
+९।३११अ यथा सर्वाणि भूतानि धरा धारयते समम् ।  
+९।३११च् तथा सर्वाणि भूतानि बिभ्रतः पार्थिवं व्रतम् ॥ ३११ ॥  
 
 
-9.312a etair upāyair anyaiś ca yukto nityam atandritaḥ |  
-9.312c stenān rājā nigṛhṇīyāt svarāṣṭre para eva ca || 312 ||  
+९।३१२अ एतैर् उपायैर् अन्यैश् च युक्तो नित्यम् अतन्द्रितः ।  
+९।३१२च् स्तेनान् राजा निगृह्णीयात् स्वराष्ट्रे पर एव च ॥ ३१२ ॥  
 
 
- 9.1.6.3. Excursus on Brahmins
- \[O\]  edn 805-807,  \[O\]  tr. 206
-9.313a parām apy āpadaṃ prāpto brāhmaṇān na prakopayet |  
-9.313c te hy enaṃ kupitā hanyuḥ sadyaḥ sa.bala.vāhanam || 313 ||  
+ ९।१।६।३। एxचुर्सुस् ओन् ब्रह्मिन्स्
+ \[ओ\]  एद्न् ८०५-८०७,  \[ओ\]  त्र्। २०६
+९।३१३अ पराम् अप्य् आपदं प्राप्तो ब्राह्मणान् न प्रकोपयेत् ।  
+९।३१३च् ते ह्य् एनं कुपिता हन्युः सद्यः स।बल।वाहनम् ॥ ३१३ ॥  
 
 
-9.314a yaiḥ kṛtaḥ sarvabhakṣyo 'gnir apeyaś ca mahodadhiḥ | 9.314av/  \[M\] : “sarvabhakṣo”  
-9.314c kṣayī ca-āpyāyitaḥ somaḥ ko na naśyet prakopya tān || 314 ||  
+९।३१४अ यैः कृतः सर्वभक्ष्यो ऽग्निर् अपेयश् च महोदधिः । ९।३१४अव्।  \[म्\] : “सर्वभक्षो”  
+९।३१४च् क्षयी च-आप्यायितः सोमः को न नश्येत् प्रकोप्य तान् ॥ ३१४ ॥  
 
 
-9.315a lokān anyān sṛjeyur ye lokapālāṃś ca kopitāḥ |  
-9.315c devān kuryur adevāṃś ca kaḥ kṣiṇvaṃs tān samṛdhnuyāt || 315 ||  
+९।३१५अ लोकान् अन्यान् सृजेयुर् ये लोकपालांश् च कोपिताः ।  
+९।३१५च् देवान् कुर्युर् अदेवांश् च कः क्षिण्वंस् तान् समृध्नुयात् ॥ ३१५ ॥  
 
 
-9.316a yān upāśritya tiṣṭhanti lokā devāś ca sarvadā |  
-9.316c brahma ca-eva dhanaṃ yeṣāṃ ko hiṃsyāt tāñ jijīviṣuḥ || 316 ||  
+९।३१६अ यान् उपाश्रित्य तिष्ठन्ति लोका देवाश् च सर्वदा ।  
+९।३१६च् ब्रह्म च-एव धनं येषां को हिंस्यात् ताञ् जिजीविषुः ॥ ३१६ ॥  
 
 
-9.317a a.vidvāṃś ca-eva vidvāṃś ca brāhmaṇo daivataṃ mahat |  
-9.317c praṇītaś ca-a.praṇītaś ca yathā-agnir daivataṃ mahat || 317 ||  
+९।३१७अ अ।विद्वांश् च-एव विद्वांश् च ब्राह्मणो दैवतं महत् ।  
+९।३१७च् प्रणीतश् च-अ।प्रणीतश् च यथा-अग्निर् दैवतं महत् ॥ ३१७ ॥  
 
 
-9.318a śmaśāneṣv api tejasvī pāvako na-eva duṣyati |  
-9.318c hūyamānaś ca yajñeṣu bhūya eva-abhivardhate || 318 ||  
+९।३१८अ श्मशानेष्व् अपि तेजस्वी पावको न-एव दुष्यति ।  
+९।३१८च् हूयमानश् च यज्ञेषु भूय एव-अभिवर्धते ॥ ३१८ ॥  
 
 
-9.319a evaṃ yady apy aniṣṭeṣu vartante sarvakarmasu |  
-9.319c sarvathā brāhmaṇāḥ pūjyāḥ paramaṃ daivatam hi tat || 319 ||  
+९।३१९अ एवं यद्य् अप्य् अनिष्टेषु वर्तन्ते सर्वकर्मसु ।  
+९।३१९च् सर्वथा ब्राह्मणाः पूज्याः परमं दैवतम् हि तत् ॥ ३१९ ॥  
 
 
-9.320a kṣatrasya-atipravṛddhasya brāhmaṇān prati sarvaśaḥ |  
-9.320c brahma-eva sanniyantṛ syāt kṣatraṃ hi brahma.sambhavam || 320 ||  
+९।३२०अ क्षत्रस्य-अतिप्रवृद्धस्य ब्राह्मणान् प्रति सर्वशः ।  
+९।३२०च् ब्रह्म-एव सन्नियन्तृ स्यात् क्षत्रं हि ब्रह्म।सम्भवम् ॥ ३२० ॥  
 
 
-9.321a adbhyo 'gnir brahmataḥ kṣatram aśmano loham utthitam |  
-9.321c teṣāṃ sarvatragaṃ tejaḥ svāsu yoniṣu śāmyati || 321 ||  
+९।३२१अ अद्भ्यो ऽग्निर् ब्रह्मतः क्षत्रम् अश्मनो लोहम् उत्थितम् ।  
+९।३२१च् तेषां सर्वत्रगं तेजः स्वासु योनिषु शाम्यति ॥ ३२१ ॥  
 
 
-9.322a na-a.brahma kṣatram ṛdhnoti na-a.kṣatraṃ brahma vardhate |  
-9.322c brahma kṣatraṃ ca sampṛktam iha ca-amutra vardhate || 322 ||  
+९।३२२अ न-अ।ब्रह्म क्षत्रम् ऋध्नोति न-अ।क्षत्रं ब्रह्म वर्धते ।  
+९।३२२च् ब्रह्म क्षत्रं च सम्पृक्तम् इह च-अमुत्र वर्धते ॥ ३२२ ॥  
 
 
-9.323a dattvā dhanaṃ tu viprebhyaḥ sarvadaṇḍasamutthitam |  
-9.323c putre rājyaṃ samāsṛjya kurvīta prāyaṇaṃ raṇe || 323 || 9.323cv/  \[M\] : “samāsādya”  
+९।३२३अ दत्त्वा धनं तु विप्रेभ्यः सर्वदण्डसमुत्थितम् ।  
+९।३२३च् पुत्रे राज्यं समासृज्य कुर्वीत प्रायणं रणे ॥ ३२३ ॥ ९।३२३च्व्।  \[म्\] : “समासाद्य”  
 
 
-# 9.1.7. Conclusion of the Rules for Kings
- \[O\]  edn 807,  \[O\]  tr. 206
-9.324a evaṃ caran sadā yukto rājadharmeṣu pārthivaḥ |  
-9.324c hiteṣu ca-eva lokasya sarvān bhṛtyān niyojayet || 324 || 9.324cv/  \[M\] : “hiteṣu ca-eva lokebhyaḥ”  
+# ९।१।७। चोन्च्लुसिओन् ओड़् थे रुलेस् ड़ोर् किन्ग्स्
+ \[ओ\]  एद्न् ८०७,  \[ओ\]  त्र्। २०६
+९।३२४अ एवं चरन् सदा युक्तो राजधर्मेषु पार्थिवः ।  
+९।३२४च् हितेषु च-एव लोकस्य सर्वान् भृत्यान् नियोजयेत् ॥ ३२४ ॥ ९।३२४च्व्।  \[म्\] : “हितेषु च-एव लोकेभ्यः”  
 
 
-9.325a eṣo '.khilaḥ karmavidhir ukto rājñaḥ sanātanaḥ |  
-9.325c imaṃ karmavidhiṃ vidyāt kramaśo vaiśya.śūdrayoḥ || 325 ||  
+९।३२५अ एषो ऽ।खिलः कर्मविधिर् उक्तो राज्ञः सनातनः ।  
+९।३२५च् इमं कर्मविधिं विद्यात् क्रमशो वैश्य।शूद्रयोः ॥ ३२५ ॥  
 
 
- 9.2. Rules of Action for Vaiśyas and Śūdras
- \[O\]  edn 807-809,  \[O\]  tr. 207
-# 9.2.1. Rules for Vaiśyas
- \[O\]  edn 807-808,  \[O\]  tr. 207
-9.326a vaiśyas tu kṛta.saṃskāraḥ kṛtvā dāraparigraham |  
-9.326c vārtāyāṃ nityayuktaḥ syāt paśūnāṃ ca-eva rakṣaṇe || 326 ||  
+ ९।२। रुलेस् ओड़् अच्तिओन् ड़ोर् वैश्यस् अन्द् शूद्रस्
+ \[ओ\]  एद्न् ८०७-८०९,  \[ओ\]  त्र्। २०७
+# ९।२।१। रुलेस् ड़ोर् वैश्यस्
+ \[ओ\]  एद्न् ८०७-८०८,  \[ओ\]  त्र्। २०७
+९।३२६अ वैश्यस् तु कृत।संस्कारः कृत्वा दारपरिग्रहम् ।  
+९।३२६च् वार्तायां नित्ययुक्तः स्यात् पशूनां च-एव रक्षणे ॥ ३२६ ॥  
 
 
-9.327a prajāpatir hi vaiśyāya sṛṣṭvā paridade paśūn |  
-9.327c brāhmaṇāya ca rājñe ca sarvāḥ paridade prajāḥ || 327 ||  
+९।३२७अ प्रजापतिर् हि वैश्याय सृष्ट्वा परिददे पशून् ।  
+९।३२७च् ब्राह्मणाय च राज्ञे च सर्वाः परिददे प्रजाः ॥ ३२७ ॥  
 
 
-9.328a na ca vaiśyasya kāmaḥ syān na rakṣeyaṃ paśūn iti |  
-9.328c vaiśye ca-icchati na-anyena rakṣitavyāḥ kathaṃ cana || 328 ||  
+९।३२८अ न च वैश्यस्य कामः स्यान् न रक्षेयं पशून् इति ।  
+९।३२८च् वैश्ये च-इच्छति न-अन्येन रक्षितव्याः कथं चन ॥ ३२८ ॥  
 
 
-9.329a maṇi.muktā.pravālānāṃ lohānāṃ tāntavasya ca |  
-9.329c gandhānāṃ ca rasānāṃ ca vidyād argha.bala.abalam || 329 ||  
+९।३२९अ मणि।मुक्ता।प्रवालानां लोहानां तान्तवस्य च ।  
+९।३२९च् गन्धानां च रसानां च विद्याद् अर्घ।बल।अबलम् ॥ ३२९ ॥  
 
 
-9.330a bījānām uptivid-ca syāt kṣetradoṣa.guṇasya ca |  
-9.330c mānayogaṃ ca jānīyāt tulāyogāṃś ca sarvaśaḥ || 330 ||  
+९।३३०अ बीजानाम् उप्तिविद्-च स्यात् क्षेत्रदोष।गुणस्य च ।  
+९।३३०च् मानयोगं च जानीयात् तुलायोगांश् च सर्वशः ॥ ३३० ॥  
 
 
-9.331a sāra.asāraṃ ca bhāṇḍānāṃ deśānāṃ ca guṇa.aguṇān |  
-9.331c lābha.alābhaṃ ca paṇyānāṃ paśūnāṃ parivardhanam || 331 ||  
+९।३३१अ सार।असारं च भाण्डानां देशानां च गुण।अगुणान् ।  
+९।३३१च् लाभ।अलाभं च पण्यानां पशूनां परिवर्धनम् ॥ ३३१ ॥  
 
 
-9.332a bhṛtyānāṃ ca bhṛtiṃ vidyād bhāṣāś ca vividhā nṛṇāṃ |  
-9.332c dravyāṇāṃ sthāna.yogāṃś ca kraya.vikrayam eva ca || 332 ||  
+९।३३२अ भृत्यानां च भृतिं विद्याद् भाषाश् च विविधा नृणां ।  
+९।३३२च् द्रव्याणां स्थान।योगांश् च क्रय।विक्रयम् एव च ॥ ३३२ ॥  
 
 
-9.333a dharmeṇa ca dravyavṛddhāv ātiṣṭhed yatnam uttamam |  
-9.333c dadyāc ca sarvabhūtānām annam eva prayatnataḥ || 333 ||  
+९।३३३अ धर्मेण च द्रव्यवृद्धाव् आतिष्ठेद् यत्नम् उत्तमम् ।  
+९।३३३च् दद्याच् च सर्वभूतानाम् अन्नम् एव प्रयत्नतः ॥ ३३३ ॥  
 
 
-# 9.2.2. Rules for Śūdras
- \[O\]  edn 808-809,  \[O\]  tr. 207
-9.334a viprāṇāṃ vedaviduṣāṃ gṛhasthānāṃ yaśasvinām |  
-9.334c śuśrūṣā-eva tu śūdrasya dharmo naiśreyasaḥ paraḥ || 334 || 9.334cv/  \[K\] : “param”  
+# ९।२।२। रुलेस् ड़ोर् शूद्रस्
+ \[ओ\]  एद्न् ८०८-८०९,  \[ओ\]  त्र्। २०७
+९।३३४अ विप्राणां वेदविदुषां गृहस्थानां यशस्विनाम् ।  
+९।३३४च् शुश्रूषा-एव तु शूद्रस्य धर्मो नैश्रेयसः परः ॥ ३३४ ॥ ९।३३४च्व्।  \[क्\] : “परम्”  
 
 
-9.335a śucir utkṛṣṭaśuśrūṣur mṛdu.vāg an.ahaṅkṛtaḥ |  
-9.335c brāhmaṇādi.āśrayo nityam utkṛṣṭāṃ jātim aśnute || 335 || 9.335cv/  \[M\] : “brāhmaṇa.apāśrayo”  
+९।३३५अ शुचिर् उत्कृष्टशुश्रूषुर् मृदु।वाग् अन्।अहङ्कृतः ।  
+९।३३५च् ब्राह्मणादि।आश्रयो नित्यम् उत्कृष्टां जातिम् अश्नुते ॥ ३३५ ॥ ९।३३५च्व्।  \[म्\] : “ब्राह्मण।अपाश्रयो”  
 
 
- 9.3. Conclusion of the Law Outside Times of Adversity
- \[O\]  edn 809,  \[O\]  tr. 207
-9.336a eṣo 'nāpadi varṇānām uktaḥ karmavidhiḥ śubhaḥ |  
-9.336c āpady api hi yas teṣāṃ kramaśas tan nibodhata || 336 ||  
+ ९।३। चोन्च्लुसिओन् ओड़् थे लw ओउत्सिदे तिमेस् ओड़् अद्वेर्सित्य्
+ \[ओ\]  एद्न् ८०९,  \[ओ\]  त्र्। २०७
+९।३३६अ एषो ऽनापदि वर्णानाम् उक्तः कर्मविधिः शुभः ।  
+९।३३६च् आपद्य् अपि हि यस् तेषां क्रमशस् तन् निबोधत ॥ ३३६ ॥  
 
 
-# Chapter 10
- \[O\]  edn 810-836,  \[O\]  tr. 208-214
- 10.1. Rules for Times of Adversity
- \[O\]  edn 810-836,  \[O\]  tr. 208-214
-# 10.1.1. Mixed Classes
- \[O\]  edn 810-826,  \[O\]  tr. 208-211
- 10.1.1.1. The Four Classes
- \[O\]  edn 810-811,  \[O\]  tr. 208
-10.01a adhīyīraṃs trayo varṇāḥ svakarmasthā dvijātayaḥ |  
-10.01c prabrūyād brāhmaṇas tv eṣāṃ na-itarāv iti niścayaḥ || 1 ||  
+# छप्तेर् १०
+ \[ओ\]  एद्न् ८१०-८३६,  \[ओ\]  त्र्। २०८-२१४
+ १०।१। रुलेस् ड़ोर् तिमेस् ओड़् अद्वेर्सित्य्
+ \[ओ\]  एद्न् ८१०-८३६,  \[ओ\]  त्र्। २०८-२१४
+# १०।१।१। मिxएद् च्लस्सेस्
+ \[ओ\]  एद्न् ८१०-८२६,  \[ओ\]  त्र्। २०८-२११
+ १०।१।१।१। थे ड़ोउर् च्लस्सेस्
+ \[ओ\]  एद्न् ८१०-८११,  \[ओ\]  त्र्। २०८
+१०।०१अ अधीयीरंस् त्रयो वर्णाः स्वकर्मस्था द्विजातयः ।  
+१०।०१च् प्रब्रूयाद् ब्राह्मणस् त्व् एषां न-इतराव् इति निश्चयः ॥ १ ॥  
 
 
-10.02a sarveṣāṃ brāhmaṇo vidyād vṛttyupāyān yathāvidhi |  
-10.02c prabrūyād itarebhyaś ca svayaṃ ca-eva tathā bhavet || 2 ||  
+१०।०२अ सर्वेषां ब्राह्मणो विद्याद् वृत्त्युपायान् यथाविधि ।  
+१०।०२च् प्रब्रूयाद् इतरेभ्यश् च स्वयं च-एव तथा भवेत् ॥ २ ॥  
 
 
-10.03a vaiśeṣyāt prakṛtiśraiṣṭhyāt-niyamasya ca dhāraṇāt |  
-10.03c saṃskārasya viśeṣāc ca varṇānāṃ brāhmaṇaḥ prabhuḥ || 3 ||  
+१०।०३अ वैशेष्यात् प्रकृतिश्रैष्ठ्यात्-नियमस्य च धारणात् ।  
+१०।०३च् संस्कारस्य विशेषाच् च वर्णानां ब्राह्मणः प्रभुः ॥ ३ ॥  
 
 
-10.04a brāhmaṇaḥ kṣatriyo vaiśyas trayo varṇā dvijātayaḥ |  
-10.04c caturtha ekajātis tu śūdro na-asti tu pañcamaḥ || 4 ||  
+१०।०४अ ब्राह्मणः क्षत्रियो वैश्यस् त्रयो वर्णा द्विजातयः ।  
+१०।०४च् चतुर्थ एकजातिस् तु शूद्रो न-अस्ति तु पञ्चमः ॥ ४ ॥  
 
 
-10.05a sarvavarṇeṣu tulyāsu patnīṣv akṣata.yoniṣu |  
-10.05c ānulomyena sambhūtā jātyā jñeyās ta eva te || 5 ||  
+१०।०५अ सर्ववर्णेषु तुल्यासु पत्नीष्व् अक्षत।योनिषु ।  
+१०।०५च् आनुलोम्येन सम्भूता जात्या ज्ञेयास् त एव ते ॥ ५ ॥  
 
 
-10.06a strīṣv anantarajātāsu dvijair utpāditān sutān |  
-10.06c sadṛśān eva tān āhur mātṛdoṣavigarhitān || 6 ||  
+१०।०६अ स्त्रीष्व् अनन्तरजातासु द्विजैर् उत्पादितान् सुतान् ।  
+१०।०६च् सदृशान् एव तान् आहुर् मातृदोषविगर्हितान् ॥ ६ ॥  
 
 
-10.07a anantarāsu jātānāṃ vidhir eṣa sanātanaḥ |  
-10.07c dvi.ekāntarāsu jātānāṃ dharmyaṃ vidyād imaṃ vidhim || 7 ||  
+१०।०७अ अनन्तरासु जातानां विधिर् एष सनातनः ।  
+१०।०७च् द्वि।एकान्तरासु जातानां धर्म्यं विद्याद् इमं विधिम् ॥ ७ ॥  
 
 
- 10.1.1.2. Mixed Classes: First Discourse
- \[O\]  edn 811-812,  \[O\]  tr. 208-209
-10.08a brāhmaṇād vaiśyakanyāyām ambaṣṭho nāma jāyate |  
-10.08c niṣādaḥ śūdrakanyāyāṃ yaḥ pāraśava ucyate || 8 ||  
+ १०।१।१।२। मिxएद् च्लस्सेस्: ड़िर्स्त् दिस्चोउर्से
+ \[ओ\]  एद्न् ८११-८१२,  \[ओ\]  त्र्। २०८-२०९
+१०।०८अ ब्राह्मणाद् वैश्यकन्यायाम् अम्बष्ठो नाम जायते ।  
+१०।०८च् निषादः शूद्रकन्यायां यः पारशव उच्यते ॥ ८ ॥  
 
 
-10.09a kṣatriyāt-śūdrakanyāyāṃ krūrācāravihāravān |  
-10.09c kṣatra.śūdra.vapur jantur ugro nāma prajāyate || 9 ||  
+१०।०९अ क्षत्रियात्-शूद्रकन्यायां क्रूराचारविहारवान् ।  
+१०।०९च् क्षत्र।शूद्र।वपुर् जन्तुर् उग्रो नाम प्रजायते ॥ ९ ॥  
 
 
-10.10a viprasya triṣu varṇeṣu nṛpater varṇayor dvayoḥ |  
-10.10c vaiśyasya varṇe ca-ekasmin ṣaḍ ete 'pasadāḥ smṛtāḥ || 10 ||  
+१०।१०अ विप्रस्य त्रिषु वर्णेषु नृपतेर् वर्णयोर् द्वयोः ।  
+१०।१०च् वैश्यस्य वर्णे च-एकस्मिन् षड् एते ऽपसदाः स्मृताः ॥ १० ॥  
 
 
-10.11a kṣatriyād viprakanyāyāṃ sūto bhavati jātitaḥ |  
-10.11c vaiśyān māgadha.vaidehau rāja.vipra.aṅganāsutau || 11 ||  
+१०।११अ क्षत्रियाद् विप्रकन्यायां सूतो भवति जातितः ।  
+१०।११च् वैश्यान् मागध।वैदेहौ राज।विप्र।अङ्गनासुतौ ॥ ११ ॥  
 
 
-10.12a śūdrād āyogavaḥ kṣattā caṇḍālaś ca-adhamo nṛṇām |  
-10.12c vaiśya.rājanya.viprāsu jāyante varṇasaṅkarāḥ || 12 ||  
+१०।१२अ शूद्राद् आयोगवः क्षत्ता चण्डालश् च-अधमो नृणाम् ।  
+१०।१२च् वैश्य।राजन्य।विप्रासु जायन्ते वर्णसङ्कराः ॥ १२ ॥  
 
 
-10.13a ekāntare tv ānulomyād ambaṣṭha.ugrau yathā smṛtau |  
-10.13c kṣattṛ.vaidehakau tadvat prātilomye 'pi janmani || 13 ||  
+१०।१३अ एकान्तरे त्व् आनुलोम्याद् अम्बष्ठ।उग्रौ यथा स्मृतौ ।  
+१०।१३च् क्षत्तृ।वैदेहकौ तद्वत् प्रातिलोम्ये ऽपि जन्मनि ॥ १३ ॥  
 
 
-10.14a putrā ye 'nantarastrījāḥ krameṇa-uktā dvijanmanām |  
-10.14c tān anantara.nāmnas tu mātṛdoṣāt pracakṣate || 14 ||  
+१०।१४अ पुत्रा ये ऽनन्तरस्त्रीजाः क्रमेण-उक्ता द्विजन्मनाम् ।  
+१०।१४च् तान् अनन्तर।नाम्नस् तु मातृदोषात् प्रचक्षते ॥ १४ ॥  
 
 
- 10.1.1.3. Mixed Classes: Second Discourse
- \[O\]  edn 812-814,  \[O\]  tr. 209
-10.15a brāhmaṇād ugrakanyāyām āvṛto nāma jāyate |  
-10.15c ābhīro 'mbaṣṭhakanyāyām āyogavyāṃ tu dhigvaṇaḥ || 15 ||  
+ १०।१।१।३। मिxएद् च्लस्सेस्: सेचोन्द् दिस्चोउर्से
+ \[ओ\]  एद्न् ८१२-८१४,  \[ओ\]  त्र्। २०९
+१०।१५अ ब्राह्मणाद् उग्रकन्यायाम् आवृतो नाम जायते ।  
+१०।१५च् आभीरो ऽम्बष्ठकन्यायाम् आयोगव्यां तु धिग्वणः ॥ १५ ॥  
 
 
-10.16a āyogavaś ca kṣattā ca caṇḍālaś ca-adhamo nṛṇām |  
-10.16c prātilomyena jāyante śūdrād apasadās trayaḥ || 16 ||  
+१०।१६अ आयोगवश् च क्षत्ता च चण्डालश् च-अधमो नृणाम् ।  
+१०।१६च् प्रातिलोम्येन जायन्ते शूद्राद् अपसदास् त्रयः ॥ १६ ॥  
 
 
-10.17a vaiśyān māgadha.vaidehau kṣatriyāt sūta eva tu |  
-10.17c pratīpam ete jāyante pare 'py apasadās trayaḥ || 17 ||  
+१०।१७अ वैश्यान् मागध।वैदेहौ क्षत्रियात् सूत एव तु ।  
+१०।१७च् प्रतीपम् एते जायन्ते परे ऽप्य् अपसदास् त्रयः ॥ १७ ॥  
 
 
-10.18a jāto niṣādāt-śūdrāyāṃ jātyā bhavati pukkasaḥ |  
-10.18c śūdrāj jāto niṣādyāṃ tu sa vai kukkuṭakaḥ smṛtaḥ || 18 ||  
+१०।१८अ जातो निषादात्-शूद्रायां जात्या भवति पुक्कसः ।  
+१०।१८च् शूद्राज् जातो निषाद्यां तु स वै कुक्कुटकः स्मृतः ॥ १८ ॥  
 
 
-10.19a kṣattur jātas tathā-ugrāyāṃ śvapāka iti kīrtyate |  
-10.19c vaidehakena tv ambaṣṭhyām utpanno veṇa ucyate || 19 ||  
+१०।१९अ क्षत्तुर् जातस् तथा-उग्रायां श्वपाक इति कीर्त्यते ।  
+१०।१९च् वैदेहकेन त्व् अम्बष्ठ्याम् उत्पन्नो वेण उच्यते ॥ १९ ॥  
 
 
-10.20a dvijātayaḥ savarṇāsu janayanty a.vratāṃs tu yān |  
-10.20c tān sāvitrīparibhraṣṭān vrātyān iti vinirdiśet || 20 ||  
+१०।२०अ द्विजातयः सवर्णासु जनयन्त्य् अ।व्रतांस् तु यान् ।  
+१०।२०च् तान् सावित्रीपरिभ्रष्टान् व्रात्यान् इति विनिर्दिशेत् ॥ २० ॥  
 
 
-10.21a vrātyāt tu jāyate viprāt pāpa.ātmā bhūrjakaṇṭakaḥ| 10.21av/  \[M\] : “bhṛjjakaṇṭakaḥ”  
-10.21c āvantya.vāṭadhānau ca puṣpadhaḥ śaikha eva ca || 21 ||  
+१०।२१अ व्रात्यात् तु जायते विप्रात् पाप।आत्मा भूर्जकण्टकः। १०।२१अव्।  \[म्\] : “भृज्जकण्टकः”  
+१०।२१च् आवन्त्य।वाटधानौ च पुष्पधः शैख एव च ॥ २१ ॥  
 
 
-10.22a jhallo mallaś ca rājanyād vrātyāt-nicchivir eva ca | 10.22av/  \[M\] : “vrātyāt-licchavir eva ca”  
-10.22c naṭaś ca karaṇaś ca-eva khaso draviḍa eva ca || 22 ||  
+१०।२२अ झल्लो मल्लश् च राजन्याद् व्रात्यात्-निच्छिविर् एव च । १०।२२अव्।  \[म्\] : “व्रात्यात्-लिच्छविर् एव च”  
+१०।२२च् नटश् च करणश् च-एव खसो द्रविड एव च ॥ २२ ॥  
 
 
-10.23a vaiśyāt tu jāyate vrātyāt sudhanvā-ācārya eva ca |  
-10.23c kāruṣaś ca vijanmā ca maitraḥ sātvata eva ca || 23 ||  
+१०।२३अ वैश्यात् तु जायते व्रात्यात् सुधन्वा-आचार्य एव च ।  
+१०।२३च् कारुषश् च विजन्मा च मैत्रः सात्वत एव च ॥ २३ ॥  
 
 
- 10.1.1.4. Mixed Classes: Third Discourse
- \[O\]  edn 814-819,  \[O\]  tr. 209-210
-10.24a vyabhicāreṇa varṇānām avedyāvedanena ca |  
-10.24c svakarmaṇāṃ ca tyāgena jāyante varṇasaṅkarāḥ || 24 ||  
+ १०।१।१।४। मिxएद् च्लस्सेस्: थिर्द् दिस्चोउर्से
+ \[ओ\]  एद्न् ८१४-८१९,  \[ओ\]  त्र्। २०९-२१०
+१०।२४अ व्यभिचारेण वर्णानाम् अवेद्यावेदनेन च ।  
+१०।२४च् स्वकर्मणां च त्यागेन जायन्ते वर्णसङ्कराः ॥ २४ ॥  
 
 
-10.25a saṅkīrṇa.yonayo ye tu pratiloma.anuloma.jāḥ |  
-10.25c anyonyavyatiṣaktāś ca tān pravakṣyāmy aśeṣataḥ || 25 ||  
+१०।२५अ सङ्कीर्ण।योनयो ये तु प्रतिलोम।अनुलोम।जाः ।  
+१०।२५च् अन्योन्यव्यतिषक्ताश् च तान् प्रवक्ष्याम्य् अशेषतः ॥ २५ ॥  
 
 
-10.26a sūto vaidehakaś ca-eva caṇḍālaś ca narādhamaḥ |  
-10.26c māgadhaḥ tathā-āyogava eva ca kṣatrajātiś ca || 26 || 10.26cv/  \[M\] : “kṣattṛjātiś ca”  
+१०।२६अ सूतो वैदेहकश् च-एव चण्डालश् च नराधमः ।  
+१०।२६च् मागधः तथा-आयोगव एव च क्षत्रजातिश् च ॥ २६ ॥ १०।२६च्व्।  \[म्\] : “क्षत्तृजातिश् च”  
 
 
-10.27a ete ṣaṭ sadṛśān varṇāñ janayanti svayoniṣu |  
-10.27c mātṛjātyāṃ prasūyante pravārāsu ca yoniṣu || 27 || 10.27cv/  \[M\] : “mātṛjātyāḥ”  
+१०।२७अ एते षट् सदृशान् वर्णाञ् जनयन्ति स्वयोनिषु ।  
+१०।२७च् मातृजात्यां प्रसूयन्ते प्रवारासु च योनिषु ॥ २७ ॥ १०।२७च्व्।  \[म्\] : “मातृजात्याः”  
 
 
-10.28a yathā trayāṇāṃ varṇānāṃ dvayor ātmā-asya jāyate |  
-10.28c ānantaryāt svayonyāṃ tu tathā bāhyeṣv api kramāt || 28 || 10.28cv/  \[M\] : “kramaḥ”  
+१०।२८अ यथा त्रयाणां वर्णानां द्वयोर् आत्मा-अस्य जायते ।  
+१०।२८च् आनन्तर्यात् स्वयोन्यां तु तथा बाह्येष्व् अपि क्रमात् ॥ २८ ॥ १०।२८च्व्।  \[म्\] : “क्रमः”  
 
 
-10.29a te ca-api bāhyān subahūṃs tato 'py adhikadūṣitān |  
-10.29c parasparasya dāreṣu janayanti vigarhitān || 29 ||  
+१०।२९अ ते च-अपि बाह्यान् सुबहूंस् ततो ऽप्य् अधिकदूषितान् ।  
+१०।२९च् परस्परस्य दारेषु जनयन्ति विगर्हितान् ॥ २९ ॥  
 
 
-10.30a yathā-eva śūdro brāhmaṇyāṃ bāhyaṃ jantuṃ prasūyate |  
-10.30c tathā bāhyataraṃ bāhyaś cāturvarṇye prasūyate || 30 ||  
+१०।३०अ यथा-एव शूद्रो ब्राह्मण्यां बाह्यं जन्तुं प्रसूयते ।  
+१०।३०च् तथा बाह्यतरं बाह्यश् चातुर्वर्ण्ये प्रसूयते ॥ ३० ॥  
 
 
-10.31a pratikūlaṃ vartamānā bāhyā bāhyatarān punaḥ |  
-10.31c hīnā hīnān prasūyante varṇān pañcadaśa-eva tu || 31 ||  
+१०।३१अ प्रतिकूलं वर्तमाना बाह्या बाह्यतरान् पुनः ।  
+१०।३१च् हीना हीनान् प्रसूयन्ते वर्णान् पञ्चदश-एव तु ॥ ३१ ॥  
 
 
-10.32a prasādhana.upacārajñam adāsaṃ dāsajīvanam | 10.32av/  \[M\] : “dāsyajīvinam”  
-10.32c sairindhraṃ vāgurā.vṛttiṃ sūte dasyur ayogave || 32 || 10.32cv/  \[M\] : “sairandhraṃ”  
+१०।३२अ प्रसाधन।उपचारज्ञम् अदासं दासजीवनम् । १०।३२अव्।  \[म्\] : “दास्यजीविनम्”  
+१०।३२च् सैरिन्ध्रं वागुरा।वृत्तिं सूते दस्युर् अयोगवे ॥ ३२ ॥ १०।३२च्व्।  \[म्\] : “सैरन्ध्रं”  
 
 
-10.33a maitreyakaṃ tu vaideho mādhūkaṃ samprasūyate |  
-10.33c nṝn praśaṃsaty ajasraṃ yo ghaṇṭātāḍo 'ruṇa.udaye || 33 ||  
+१०।३३अ मैत्रेयकं तु वैदेहो माधूकं सम्प्रसूयते ।  
+१०।३३च् नॄन् प्रशंसत्य् अजस्रं यो घण्टाताडो ऽरुण।उदये ॥ ३३ ॥  
 
 
-10.34a niṣādo mārgavaṃ sūte dāsaṃ naukarmajīvinam |  
-10.34c kaivartam iti yaṃ prāhur āryāvartanivāsinaḥ || 34 ||  
+१०।३४अ निषादो मार्गवं सूते दासं नौकर्मजीविनम् ।  
+१०।३४च् कैवर्तम् इति यं प्राहुर् आर्यावर्तनिवासिनः ॥ ३४ ॥  
 
 
-10.35a mṛtavastrabhṛtsv nārīṣu garhita.anna.aśanāsu ca | 10.35av/  \[M\] : “anāryāṣu”  
-10.35c bhavanty āyogavīṣv ete jātihīnāḥ pṛthak trayaḥ || 35 ||  
+१०।३५अ मृतवस्त्रभृत्स्व् नारीषु गर्हित।अन्न।अशनासु च । १०।३५अव्।  \[म्\] : “अनार्याषु”  
+१०।३५च् भवन्त्य् आयोगवीष्व् एते जातिहीनाः पृथक् त्रयः ॥ ३५ ॥  
 
 
-10.36a kārāvaro niṣādāt tu carmakāraḥ prasūyate | 10.36av/  \[M\] : “carmakāraṃ”  
-10.36c vaidehikād andhra.medau bahirgrāma.pratiśrayau || 36 ||  
+१०।३६अ कारावरो निषादात् तु चर्मकारः प्रसूयते । १०।३६अव्।  \[म्\] : “चर्मकारं”  
+१०।३६च् वैदेहिकाद् अन्ध्र।मेदौ बहिर्ग्राम।प्रतिश्रयौ ॥ ३६ ॥  
 
 
-10.37a caṇḍālāt pāṇḍusopākas tvaksāravyavahāravān |  
-10.37c āhiṇḍiko niṣādena vaidehyām eva jāyate || 37 ||  
+१०।३७अ चण्डालात् पाण्डुसोपाकस् त्वक्सारव्यवहारवान् ।  
+१०।३७च् आहिण्डिको निषादेन वैदेह्याम् एव जायते ॥ ३७ ॥  
 
 
-10.38a caṇḍālena tu sopāko mūlavyasanavṛttimān |  
-10.38c pukkasyāṃ jāyate pāpaḥ sadā sajjanagarhitaḥ || 38 || 10.38cv/  \[M\] : “pulkasyāṃ”  
+१०।३८अ चण्डालेन तु सोपाको मूलव्यसनवृत्तिमान् ।  
+१०।३८च् पुक्कस्यां जायते पापः सदा सज्जनगर्हितः ॥ ३८ ॥ १०।३८च्व्।  \[म्\] : “पुल्कस्यां”  
 
 
-10.39a niṣādastrī tu caṇḍālāt putram antyāvasāyinam |  
-10.39c śmaśāna.gocaraṃ sūte bāhyānām api garhitam || 39 ||  
+१०।३९अ निषादस्त्री तु चण्डालात् पुत्रम् अन्त्यावसायिनम् ।  
+१०।३९च् श्मशान।गोचरं सूते बाह्यानाम् अपि गर्हितम् ॥ ३९ ॥  
 
 
-10.40a saṅkare jātayas tv etāḥ pitṛ.mātṛ.pradarśitāḥ |  
-10.40c prachannā vā prakāśā vā veditavyāḥ svakarmabhiḥ || 40 ||  
+१०।४०अ सङ्करे जातयस् त्व् एताः पितृ।मातृ।प्रदर्शिताः ।  
+१०।४०च् प्रछन्ना वा प्रकाशा वा वेदितव्याः स्वकर्मभिः ॥ ४० ॥  
 
 
-10.41a svajātija.anantarajāḥ ṣaṭ sutā dvijadharmiṇaḥ |  
-10.41c śūdrāṇāṃ tu sa.dharmāṇaḥ sarve 'padhvaṃsajāḥ smṛtāḥ || 41 ||  
+१०।४१अ स्वजातिज।अनन्तरजाः षट् सुता द्विजधर्मिणः ।  
+१०।४१च् शूद्राणां तु स।धर्माणः सर्वे ऽपध्वंसजाः स्मृताः ॥ ४१ ॥  
 
 
-10.42a tapo.bīja.prabhāvais tu te gacchanti yuge yuge |  
-10.42c utkarṣaṃ ca-apakarṣaṃ ca manuṣyeṣv iha janmataḥ || 42 ||  
+१०।४२अ तपो।बीज।प्रभावैस् तु ते गच्छन्ति युगे युगे ।  
+१०।४२च् उत्कर्षं च-अपकर्षं च मनुष्येष्व् इह जन्मतः ॥ ४२ ॥  
 
 
-10.43a śanakais tu kriyālopād imāḥ kṣatriya.jātayaḥ |  
-10.43c vṛṣalatvaṃ gatā loke brāhmaṇādarśanena ca || 43 || 10.43cv/  \[M\] : “brāhmaṇātikrameṇa ca”  
+१०।४३अ शनकैस् तु क्रियालोपाद् इमाः क्षत्रिय।जातयः ।  
+१०।४३च् वृषलत्वं गता लोके ब्राह्मणादर्शनेन च ॥ ४३ ॥ १०।४३च्व्।  \[म्\] : “ब्राह्मणातिक्रमेण च”  
 
 
-10.44a pauṇḍrakāś cauḍra.draviḍāḥ kāmbojā yavanāḥ śakāḥ | 10.44av/  \[M\] : “puṇḍrakāś coḍa.draviḍāḥ”  
-10.44c pāradā.pahlavāś cīnāḥ kirātā daradāḥ khaśāḥ || 44 ||  
+१०।४४अ पौण्ड्रकाश् चौड्र।द्रविडाः काम्बोजा यवनाः शकाः । १०।४४अव्।  \[म्\] : “पुण्ड्रकाश् चोड।द्रविडाः”  
+१०।४४च् पारदा।पह्लवाश् चीनाः किराता दरदाः खशाः ॥ ४४ ॥  
 
 
-10.45a mukha.bāhu.ūru.pad.jānāṃ yā loke jātayo bahiḥ |  
-10.45c mleccha.vācaś ca-ārya.vācaḥ sarve te dasyavaḥ smṛtāḥ || 45 ||  
+१०।४५अ मुख।बाहु।ऊरु।पद्।जानां या लोके जातयो बहिः ।  
+१०।४५च् म्लेच्छ।वाचश् च-आर्य।वाचः सर्वे ते दस्यवः स्मृताः ॥ ४५ ॥  
 
 
- 10.1.1.5. Occupations, Residence, and Dress
- \[O\]  edn 819-820,  \[O\]  tr. 210
-10.46a ye dvijānām apasadā ye ca-apadhvaṃsajāḥ smṛtāḥ |  
-10.46c te ninditair vartayeyur dvijānām eva karmabhiḥ || 46 ||  
+ १०।१।१।५। ओच्चुपतिओन्स्, रेसिदेन्चे, अन्द् द्रेस्स्
+ \[ओ\]  एद्न् ८१९-८२०,  \[ओ\]  त्र्। २१०
+१०।४६अ ये द्विजानाम् अपसदा ये च-अपध्वंसजाः स्मृताः ।  
+१०।४६च् ते निन्दितैर् वर्तयेयुर् द्विजानाम् एव कर्मभिः ॥ ४६ ॥  
 
 
-10.47a sūtānām aśva.sārathyam ambaṣṭhānāṃ cikitsanam |  
-10.47c vaidehakānāṃ strīkāryaṃ māgadhānāṃ vaṇikpathaḥ || 47 ||  
+१०।४७अ सूतानाम् अश्व।सारथ्यम् अम्बष्ठानां चिकित्सनम् ।  
+१०।४७च् वैदेहकानां स्त्रीकार्यं मागधानां वणिक्पथः ॥ ४७ ॥  
 
 
-10.48a matsyaghāto niṣādānāṃ tvaṣṭis tv āyogavasya ca |  
-10.48c meda.andhra.cuñcu.madgūnām āraṇyapaśuhiṃsanam || 48 ||  
+१०।४८अ मत्स्यघातो निषादानां त्वष्टिस् त्व् आयोगवस्य च ।  
+१०।४८च् मेद।अन्ध्र।चुञ्चु।मद्गूनाम् आरण्यपशुहिंसनम् ॥ ४८ ॥  
 
 
-10.49a kṣattṛ.ugra.pukkasānāṃ tu bilaukovadha.bandhanam |  
-10.49c dhigvaṇānāṃ carmakāryaṃ veṇānāṃ bhāṇḍavādanam || 49 ||  
+१०।४९अ क्षत्तृ।उग्र।पुक्कसानां तु बिलौकोवध।बन्धनम् ।  
+१०।४९च् धिग्वणानां चर्मकार्यं वेणानां भाण्डवादनम् ॥ ४९ ॥  
 
 
-10.50a caityadruma.śmaśāneṣu śaileṣu-upavaneṣu ca |  
-10.50c vaseyur ete vijñātā vartayantaḥ svakarmabhiḥ || 50 ||  
+१०।५०अ चैत्यद्रुम।श्मशानेषु शैलेषु-उपवनेषु च ।  
+१०।५०च् वसेयुर् एते विज्ञाता वर्तयन्तः स्वकर्मभिः ॥ ५० ॥  
 
 
- 10.1.1.6. Cāṇḍālas and Śvapācas
- \[O\]  edn 820-821,  \[O\]  tr. 210
-10.51a caṇḍāla.śvapacānāṃ tu bahir grāmāt pratiśrayaḥ |  
-10.51c apapātrāś ca kartavyā dhanam eṣāṃ śva.gardabham || 51 ||  
+ १०।१।१।६। चाण्डालस् अन्द् श्वपाचस्
+ \[ओ\]  एद्न् ८२०-८२१,  \[ओ\]  त्र्। २१०
+१०।५१अ चण्डाल।श्वपचानां तु बहिर् ग्रामात् प्रतिश्रयः ।  
+१०।५१च् अपपात्राश् च कर्तव्या धनम् एषां श्व।गर्दभम् ॥ ५१ ॥  
 
 
-10.52a vāsāṃsi mṛtacailāni bhinnabhāṇḍeṣu bhojanam |  
-10.52c kārṣṇāyasam alaṅkāraḥ parivrajyā ca nityaśaḥ || 52 ||  
+१०।५२अ वासांसि मृतचैलानि भिन्नभाण्डेषु भोजनम् ।  
+१०।५२च् कार्ष्णायसम् अलङ्कारः परिव्रज्या च नित्यशः ॥ ५२ ॥  
 
 
-10.53a na taiḥ samayam anvicchet puruṣo dharmam ācaran |  
-10.53c vyavahāro mithas teṣāṃ vivāhaḥ sadṛśaiḥ saha || 53 ||  
+१०।५३अ न तैः समयम् अन्विच्छेत् पुरुषो धर्मम् आचरन् ।  
+१०।५३च् व्यवहारो मिथस् तेषां विवाहः सदृशैः सह ॥ ५३ ॥  
 
 
-10.54a annam eṣāṃ parādhīnaṃ deyaṃ syād bhinnabhājane |  
-10.54c rātrau na vicareyus te grāmeṣu nagareṣu ca || 54 ||  
+१०।५४अ अन्नम् एषां पराधीनं देयं स्याद् भिन्नभाजने ।  
+१०।५४च् रात्रौ न विचरेयुस् ते ग्रामेषु नगरेषु च ॥ ५४ ॥  
 
 
-10.55a divā careyuḥ kāryārthaṃ cihnitā rājaśāsanaiḥ |  
-10.55c a.bāndhavaṃ śavaṃ ca-eva nirhareyur iti sthitiḥ || 55 ||  
+१०।५५अ दिवा चरेयुः कार्यार्थं चिह्निता राजशासनैः ।  
+१०।५५च् अ।बान्धवं शवं च-एव निर्हरेयुर् इति स्थितिः ॥ ५५ ॥  
 
 
-10.56a vadhyāṃś ca hanyuḥ satataṃ yathāśāstraṃ nṛpājñayā |  
-10.56c vadhyavāsāṃsi gṛhṇīyuḥ śayyāś ca-ābharaṇāni ca || 56 ||  
+१०।५६अ वध्यांश् च हन्युः सततं यथाशास्त्रं नृपाज्ञया ।  
+१०।५६च् वध्यवासांसि गृह्णीयुः शय्याश् च-आभरणानि च ॥ ५६ ॥  
 
 
- 10.1.1.7. Further Discourse on Mixed Classes
- \[O\]  edn 821-822,  \[O\]  tr. 211
-10.57a varṇāpetam avijñātaṃ naraṃ kaluṣayonijam |  
-10.57c ārya.rūpam iva-anāryaṃ karmabhiḥ svair vibhāvayet || 57 ||  
+ १०।१।१।७। ड़ुर्थेर् दिस्चोउर्से ओन् मिxएद् च्लस्सेस्
+ \[ओ\]  एद्न् ८२१-८२२,  \[ओ\]  त्र्। २११
+१०।५७अ वर्णापेतम् अविज्ञातं नरं कलुषयोनिजम् ।  
+१०।५७च् आर्य।रूपम् इव-अनार्यं कर्मभिः स्वैर् विभावयेत् ॥ ५७ ॥  
 
 
-10.58a anāryatā niṣṭhuratā krūratā niṣkriyātmatā |  
-10.58c puruṣaṃ vyañjayanti-iha loke kaluṣayonijam || 58 ||  
+१०।५८अ अनार्यता निष्ठुरता क्रूरता निष्क्रियात्मता ।  
+१०।५८च् पुरुषं व्यञ्जयन्ति-इह लोके कलुषयोनिजम् ॥ ५८ ॥  
 
 
-10.59a pitryaṃ vā bhajate śīlaṃ mātur vā-ubhayam eva vā |  
-10.59c na kathaṃ cana duryoniḥ prakṛtiṃ svāṃ niyacchati || 59 ||  
+१०।५९अ पित्र्यं वा भजते शीलं मातुर् वा-उभयम् एव वा ।  
+१०।५९च् न कथं चन दुर्योनिः प्रकृतिं स्वां नियच्छति ॥ ५९ ॥  
 
 
-10.60a kule mukhye 'pi jātasya yasya syād yonisaṅkaraḥ |  
-10.60c saṃśrayaty eva tat.śīlaṃ naro 'lpam api vā bahu || 60 ||  
+१०।६०अ कुले मुख्ये ऽपि जातस्य यस्य स्याद् योनिसङ्करः ।  
+१०।६०च् संश्रयत्य् एव तत्।शीलं नरो ऽल्पम् अपि वा बहु ॥ ६० ॥  
 
 
-10.61a yatra tv ete paridhvaṃsāj jāyante varṇadūṣakāḥ |  
-10.61c rāṣṭrikaiḥ saha tad rāṣṭraṃ kṣipram eva vinaśyati || 61 || 10.61cv/  \[M\] : “rāṣṭriyaiḥ”  
+१०।६१अ यत्र त्व् एते परिध्वंसाज् जायन्ते वर्णदूषकाः ।  
+१०।६१च् राष्ट्रिकैः सह तद् राष्ट्रं क्षिप्रम् एव विनश्यति ॥ ६१ ॥ १०।६१च्व्।  \[म्\] : “राष्ट्रियैः”  
 
 
- 10.1.1.8. Advance to Higher Classes
- \[O\]  edn 822-825,  \[O\]  tr. 211
-10.62a brāhmaṇārthe gavārthe vā dehatyāgo 'n.upaskṛtaḥ |  
-10.62c strī.bālābhyupapattau ca bāhyānāṃ siddhikāraṇam || 62 || 10.62cv/  \[M\] : “strī.bālābhyavapattau ca”  
+ १०।१।१।८। अद्वन्चे तो हिघेर् च्लस्सेस्
+ \[ओ\]  एद्न् ८२२-८२५,  \[ओ\]  त्र्। २११
+१०।६२अ ब्राह्मणार्थे गवार्थे वा देहत्यागो ऽन्।उपस्कृतः ।  
+१०।६२च् स्त्री।बालाभ्युपपत्तौ च बाह्यानां सिद्धिकारणम् ॥ ६२ ॥ १०।६२च्व्।  \[म्\] : “स्त्री।बालाभ्यवपत्तौ च”  
 
 
-10.63a ahiṃsā satyam asteyaṃ śaucam indriyanigrahaḥ |  
-10.63c etaṃ sāmāsikaṃ dharmaṃ cāturvarṇye 'bravīn manuḥ || 63 ||  
+१०।६३अ अहिंसा सत्यम् अस्तेयं शौचम् इन्द्रियनिग्रहः ।  
+१०।६३च् एतं सामासिकं धर्मं चातुर्वर्ण्ये ऽब्रवीन् मनुः ॥ ६३ ॥  
 
 
-10.64a śūdrāyāṃ brāhmaṇāj jātaḥ śreyasā cet prajāyate |  
-10.64c aśreyān śreyasīṃ jātiṃ gacchaty ā saptamād yugāt || 64 ||  
+१०।६४अ शूद्रायां ब्राह्मणाज् जातः श्रेयसा चेत् प्रजायते ।  
+१०।६४च् अश्रेयान् श्रेयसीं जातिं गच्छत्य् आ सप्तमाद् युगात् ॥ ६४ ॥  
 
 
-10.65a śūdro brāhmaṇatām eti brāhmaṇaś ca-eti śūdratām |  
-10.65c kṣatriyāj jātam evaṃ tu vidyād vaiśyāt tathā-eva ca || 65 ||  
+१०।६५अ शूद्रो ब्राह्मणताम् एति ब्राह्मणश् च-एति शूद्रताम् ।  
+१०।६५च् क्षत्रियाज् जातम् एवं तु विद्याद् वैश्यात् तथा-एव च ॥ ६५ ॥  
 
 
-10.66a anāryāyāṃ samutpanno brāhmaṇāt tu yadṛcchayā |  
-10.66c brāhmaṇyām apy anāryāt tu śreyastvaṃ kva-iti ced bhavet || 66 || 10.66cv/  \[M\] : “kasya cid bhavet”  
+१०।६६अ अनार्यायां समुत्पन्नो ब्राह्मणात् तु यदृच्छया ।  
+१०।६६च् ब्राह्मण्याम् अप्य् अनार्यात् तु श्रेयस्त्वं क्व-इति चेद् भवेत् ॥ ६६ ॥ १०।६६च्व्।  \[म्\] : “कस्य चिद् भवेत्”  
 
 
-10.67a jāto nāryām anāryāyām āryād āryo bhaved guṇaiḥ |  
-10.67c jāto 'py anāryād āryāyām anārya iti niścayaḥ || 67 ||  
+१०।६७अ जातो नार्याम् अनार्यायाम् आर्याद् आर्यो भवेद् गुणैः ।  
+१०।६७च् जातो ऽप्य् अनार्याद् आर्यायाम् अनार्य इति निश्चयः ॥ ६७ ॥  
 
 
-10.68a tāv ubhāv apy asaṃskāryāv iti dharmo vyavasthitaḥ |  
-10.68c vaiguṇyāj janmanaḥ pūrva uttaraḥ pratilomataḥ || 68 || 10.68cv/  \[M\] : “janmataḥ”  
+१०।६८अ ताव् उभाव् अप्य् असंस्कार्याव् इति धर्मो व्यवस्थितः ।  
+१०।६८च् वैगुण्याज् जन्मनः पूर्व उत्तरः प्रतिलोमतः ॥ ६८ ॥ १०।६८च्व्।  \[म्\] : “जन्मतः”  
 
 
-10.69a subījaṃ ca-eva sukṣetre jātaṃ sampadyate yathā |  
-10.69c tathā-āryāj jāta āryāyāṃ sarvaṃ saṃskāram arhati || 69 ||  
+१०।६९अ सुबीजं च-एव सुक्षेत्रे जातं सम्पद्यते यथा ।  
+१०।६९च् तथा-आर्याज् जात आर्यायां सर्वं संस्कारम् अर्हति ॥ ६९ ॥  
 
 
-10.70a bījam eke praśaṃsanti kṣetram anye manīṣiṇaḥ |  
-10.70c bīja.kṣetre tathā-eva-anye tatra-iyaṃ tu vyavasthitiḥ || 70 ||  
+१०।७०अ बीजम् एके प्रशंसन्ति क्षेत्रम् अन्ये मनीषिणः ।  
+१०।७०च् बीज।क्षेत्रे तथा-एव-अन्ये तत्र-इयं तु व्यवस्थितिः ॥ ७० ॥  
 
 
-10.71a akṣetre bījam utsṛṣṭam antarā-eva vinaśyati |  
-10.71c a.bījakam api kṣetraṃ kevalaṃ sthaṇḍilaṃ bhavet || 71 ||  
+१०।७१अ अक्षेत्रे बीजम् उत्सृष्टम् अन्तरा-एव विनश्यति ।  
+१०।७१च् अ।बीजकम् अपि क्षेत्रं केवलं स्थण्डिलं भवेत् ॥ ७१ ॥  
 
 
-10.72a yasmād bījaprabhāveṇa tiryagjā ṛṣayo 'bhavan |  
-10.72c pūjitāś ca praśastāś ca tasmād bījaṃ praśasyate || 72 || 10.72cv/  \[M\] : “viśiṣyate”  
+१०।७२अ यस्माद् बीजप्रभावेण तिर्यग्जा ऋषयो ऽभवन् ।  
+१०।७२च् पूजिताश् च प्रशस्ताश् च तस्माद् बीजं प्रशस्यते ॥ ७२ ॥ १०।७२च्व्।  \[म्\] : “विशिष्यते”  
 
 
-10.73a anāryam ārya.karmāṇam āryaṃ ca-anāryakarmiṇam |  
-10.73c sampradhārya-abravīd dhātā na samau na-asamāv iti || 73 ||  
+१०।७३अ अनार्यम् आर्य।कर्माणम् आर्यं च-अनार्यकर्मिणम् ।  
+१०।७३च् सम्प्रधार्य-अब्रवीद् धाता न समौ न-असमाव् इति ॥ ७३ ॥  
 
 
-# 10.1.2. Occupations of the Four Classes
- \[O\]  edn 825-826,  \[O\]  tr. 211-212
-10.74a brāhmaṇā brahmayonisthā ye svakarmaṇy avasthitāḥ |  
-10.74c te samyag upajīveyuḥ ṣaṭ karmāṇi yathākramam || 74 ||  
+# १०।१।२। ओच्चुपतिओन्स् ओड़् थे ड़ोउर् च्लस्सेस्
+ \[ओ\]  एद्न् ८२५-८२६,  \[ओ\]  त्र्। २११-२१२
+१०।७४अ ब्राह्मणा ब्रह्मयोनिस्था ये स्वकर्मण्य् अवस्थिताः ।  
+१०।७४च् ते सम्यग् उपजीवेयुः षट् कर्माणि यथाक्रमम् ॥ ७४ ॥  
 
 
-10.75a adhyāpanam adhyayanaṃ yajanaṃ yājanaṃ tathā |  
-10.75c dānaṃ pratigrahaś ca-eva ṣaṭ karmāṇy agrajanmanaḥ || 75 ||  
+१०।७५अ अध्यापनम् अध्ययनं यजनं याजनं तथा ।  
+१०।७५च् दानं प्रतिग्रहश् च-एव षट् कर्माण्य् अग्रजन्मनः ॥ ७५ ॥  
 
 
-10.76a ṣaṇṇāṃ tu karmaṇām asya trīṇi karmāṇi jīvikā |  
-10.76c yājana.adhyāpane ca-eva viśuddhāc ca pratigrahaḥ || 76 ||  
+१०।७६अ षण्णां तु कर्मणाम् अस्य त्रीणि कर्माणि जीविका ।  
+१०।७६च् याजन।अध्यापने च-एव विशुद्धाच् च प्रतिग्रहः ॥ ७६ ॥  
 
 
-10.77a trayo dharmā nivartante brāhmaṇāt kṣatriyaṃ prati |  
-10.77c adhyāpanaṃ yājanaṃ ca tṛtīyaś ca pratigrahaḥ || 77 ||  
+१०।७७अ त्रयो धर्मा निवर्तन्ते ब्राह्मणात् क्षत्रियं प्रति ।  
+१०।७७च् अध्यापनं याजनं च तृतीयश् च प्रतिग्रहः ॥ ७७ ॥  
 
 
-10.78a vaiśyaṃ prati tathā-eva-ete nivarterann iti sthitiḥ |  
-10.78c na tau prati hi tān dharmān manur āha prajāpatiḥ || 78 || 10.78cv/  \[M\] : “prati hitān dharmān”  
+१०।७८अ वैश्यं प्रति तथा-एव-एते निवर्तेरन्न् इति स्थितिः ।  
+१०।७८च् न तौ प्रति हि तान् धर्मान् मनुर् आह प्रजापतिः ॥ ७८ ॥ १०।७८च्व्।  \[म्\] : “प्रति हितान् धर्मान्”  
 
 
-10.79a śastra.astrabhṛttvaṃ kṣatrasya vaṇik.paśu.kṛṣir viṣaḥ |  
-10.79c ājīvanārthaṃ dharmas tu dānam adhyayanaṃ yajiḥ || 79 ||  
+१०।७९अ शस्त्र।अस्त्रभृत्त्वं क्षत्रस्य वणिक्।पशु।कृषिर् विषः ।  
+१०।७९च् आजीवनार्थं धर्मस् तु दानम् अध्ययनं यजिः ॥ ७९ ॥  
 
 
-10.80a vedābhyāso brāhmaṇasya kṣatriyasya ca rakṣaṇam |  
-10.80c vārtākarma-eva vaiśyasya viśiṣṭāni svakarmasu || 80 ||  
+१०।८०अ वेदाभ्यासो ब्राह्मणस्य क्षत्रियस्य च रक्षणम् ।  
+१०।८०च् वार्ताकर्म-एव वैश्यस्य विशिष्टानि स्वकर्मसु ॥ ८० ॥  
 
 
-# 10.1.3. Occupations in Times of Adversity
- \[O\]  edn 826-835,  \[O\]  tr. 212-214
- 10.1.3.1. Brahmins
- \[O\]  edn 826-829,  \[O\]  tr. 212
-10.81a a.jīvaṃs tu yathā.uktena brāhmaṇaḥ svena karmaṇā |  
-10.81c jīvet kṣatriyadharmeṇa sa hy asya praty anantaraḥ || 81 ||  
+# १०।१।३। ओच्चुपतिओन्स् इन् तिमेस् ओड़् अद्वेर्सित्य्
+ \[ओ\]  एद्न् ८२६-८३५,  \[ओ\]  त्र्। २१२-२१४
+ १०।१।३।१। ब्रह्मिन्स्
+ \[ओ\]  एद्न् ८२६-८२९,  \[ओ\]  त्र्। २१२
+१०।८१अ अ।जीवंस् तु यथा।उक्तेन ब्राह्मणः स्वेन कर्मणा ।  
+१०।८१च् जीवेत् क्षत्रियधर्मेण स ह्य् अस्य प्रत्य् अनन्तरः ॥ ८१ ॥  
 
 
-10.82a ubhābhyām apy a.jīvaṃs tu kathaṃ syād iti ced bhavet |  
-10.82c kṛṣi.gorakṣam āsthāya jīved vaiśyasya jīvikām || 82 ||  
+१०।८२अ उभाभ्याम् अप्य् अ।जीवंस् तु कथं स्याद् इति चेद् भवेत् ।  
+१०।८२च् कृषि।गोरक्षम् आस्थाय जीवेद् वैश्यस्य जीविकाम् ॥ ८२ ॥  
 
 
-10.83a vaiśyavṛttyā-api jīvaṃs tu brāhmaṇaḥ ksatriyo 'pi vā |  
-10.83c hiṃsā.prāyāṃ parādhīnāṃ kṛṣiṃ yatnena varjayet || 83 ||  
+१०।८३अ वैश्यवृत्त्या-अपि जीवंस् तु ब्राह्मणः क्सत्रियो ऽपि वा ।  
+१०।८३च् हिंसा।प्रायां पराधीनां कृषिं यत्नेन वर्जयेत् ॥ ८३ ॥  
 
 
-10.84a kṛṣiṃ sādhu-iti manyante sā vṛttiḥ sadvigarhitāḥ |  
-10.84c bhūmiṃ bhūmiśayāṃś ca-eva hanti kāṣṭham ayo.mukham || 84 ||  
+१०।८४अ कृषिं साधु-इति मन्यन्ते सा वृत्तिः सद्विगर्हिताः ।  
+१०।८४च् भूमिं भूमिशयांश् च-एव हन्ति काष्ठम् अयो।मुखम् ॥ ८४ ॥  
 
 
-10.85a idaṃ tu vṛttivaikalyāt tyajato dharmanaipuṇaṃ |  
-10.85c viś.paṇyam uddhṛta.uddhāraṃ vikreyaṃ vittavardhanam || 85 ||  
+१०।८५अ इदं तु वृत्तिवैकल्यात् त्यजतो धर्मनैपुणं ।  
+१०।८५च् विश्।पण्यम् उद्धृत।उद्धारं विक्रेयं वित्तवर्धनम् ॥ ८५ ॥  
 
 
-10.86a sarvān rasān apoheta kṛtānnaṃ ca tilaiḥ saha |  
-10.86c aśmano lavaṇaṃ ca-eva paśavo ye ca mānuṣāḥ || 86 ||  
+१०।८६अ सर्वान् रसान् अपोहेत कृतान्नं च तिलैः सह ।  
+१०।८६च् अश्मनो लवणं च-एव पशवो ये च मानुषाः ॥ ८६ ॥  
 
 
-10.87a sarvaṃ ca tāntavaṃ raktaṃ śāṇa.kṣauma.āvikāni ca |  
-10.87c api cet syur araktāni phala.mūle tathā-oṣadhīḥ || 87 ||  
+१०।८७अ सर्वं च तान्तवं रक्तं शाण।क्षौम।आविकानि च ।  
+१०।८७च् अपि चेत् स्युर् अरक्तानि फल।मूले तथा-ओषधीः ॥ ८७ ॥  
 
 
-10.88a apaḥ śastraṃ viṣaṃ māṃsaṃ somaṃ gandhāṃś ca sarvaśaḥ |  
-10.88c kṣīraṃ kṣaudraṃ dadhi ghṛtaṃ tailaṃ madhu guḍaṃ kuśān || 88 ||  
+१०।८८अ अपः शस्त्रं विषं मांसं सोमं गन्धांश् च सर्वशः ।  
+१०।८८च् क्षीरं क्षौद्रं दधि घृतं तैलं मधु गुडं कुशान् ॥ ८८ ॥  
 
 
-10.89a āraṇyāṃś ca paśūn sarvān daṃṣṭriṇaś ca vayāṃsi ca |  
-10.89c madyaṃ nīliṃ ca lākṣāṃ ca sarvāṃś ca-eka.śaphāṃs tathā || 89 || 10.89cv/  \[M\] : “nīlīṃ”  
+१०।८९अ आरण्यांश् च पशून् सर्वान् दंष्ट्रिणश् च वयांसि च ।  
+१०।८९च् मद्यं नीलिं च लाक्षां च सर्वांश् च-एक।शफांस् तथा ॥ ८९ ॥ १०।८९च्व्।  \[म्\] : “नीलीं”  
 
 
-10.90a kāmam utpādya kṛṣyāṃ tu svayam eva kṛṣīvalaḥ |  
-10.90c vikrīṇīta tilān-śūdrān dharmārtham acirasthitān || 90 || 10.90cv/  \[M\] : “tilān-śuddhān”  
+१०।९०अ कामम् उत्पाद्य कृष्यां तु स्वयम् एव कृषीवलः ।  
+१०।९०च् विक्रीणीत तिलान्-शूद्रान् धर्मार्थम् अचिरस्थितान् ॥ ९० ॥ १०।९०च्व्।  \[म्\] : “तिलान्-शुद्धान्”  
 
 
-10.91a bhojana.abhyañjanād dānād yad anyat kurute tilaiḥ |  
-10.91c kṛmibhūtaḥ śvaviṣṭhāyāṃ pitṛbhiḥ saha majjati || 91 ||  
+१०।९१अ भोजन।अभ्यञ्जनाद् दानाद् यद् अन्यत् कुरुते तिलैः ।  
+१०।९१च् कृमिभूतः श्वविष्ठायां पितृभिः सह मज्जति ॥ ९१ ॥  
 
 
-10.92a sadyaḥ patati māṃsena lākṣayā lavaṇena ca |  
-10.92c tryaheṇa śūdro bhavati brāhmaṇaḥ kṣīravikrayāt || 92 ||  
+१०।९२अ सद्यः पतति मांसेन लाक्षया लवणेन च ।  
+१०।९२च् त्र्यहेण शूद्रो भवति ब्राह्मणः क्षीरविक्रयात् ॥ ९२ ॥  
 
 
-10.93a itareṣāṃ tu paṇyānāṃ vikrayād iha kāmataḥ |  
-10.93c brāhmaṇaḥ saptarātreṇa vaiśyabhāvaṃ niyacchati || 93 ||  
+१०।९३अ इतरेषां तु पण्यानां विक्रयाद् इह कामतः ।  
+१०।९३च् ब्राह्मणः सप्तरात्रेण वैश्यभावं नियच्छति ॥ ९३ ॥  
 
 
-10.94a rasā rasair nimātavyā na tv eva lavaṇaṃ rasaiḥ |  
-10.94c kṛtānnaṃ ca kṛtānnena tilā dhānyena tatsamāḥ || 94 ||  
+१०।९४अ रसा रसैर् निमातव्या न त्व् एव लवणं रसैः ।  
+१०।९४च् कृतान्नं च कृतान्नेन तिला धान्येन तत्समाः ॥ ९४ ॥  
 
 
- 10.1.3.2. Kṣatriyas
- \[O\]  edn 829,  \[O\]  tr. 212-213
-10.95a jīved etena rājanyaḥ sarveṇa-apy anayaṃ gataḥ |  
-10.95c na tv eva jyāyaṃsīṃ vṛttim abhimanyeta karhi cit || 95 ||  
+ १०।१।३।२। क्षत्रियस्
+ \[ओ\]  एद्न् ८२९,  \[ओ\]  त्र्। २१२-२१३
+१०।९५अ जीवेद् एतेन राजन्यः सर्वेण-अप्य् अनयं गतः ।  
+१०।९५च् न त्व् एव ज्यायंसीं वृत्तिम् अभिमन्येत कर्हि चित् ॥ ९५ ॥  
 
 
-10.96a yo lobhād adhamo jātyā jīved utkṛṣṭa.karmabhiḥ |  
-10.96c taṃ rājā nirdhanaṃ kṛtvā kṣipram eva pravāsayet || 96 ||  
+१०।९६अ यो लोभाद् अधमो जात्या जीवेद् उत्कृष्ट।कर्मभिः ।  
+१०।९६च् तं राजा निर्धनं कृत्वा क्षिप्रम् एव प्रवासयेत् ॥ ९६ ॥  
 
 
-10.97a varaṃ svadharmo viguṇo na pārakyaḥ svanuṣṭhitaḥ | 10.97av/  \[M\] : “viguṇaḥ paradharmāt svadhiṣṭhitāt”  
-10.97c paradharmeṇa jīvan hi sadyaḥ patati jātitaḥ || 97 ||  
+१०।९७अ वरं स्वधर्मो विगुणो न पारक्यः स्वनुष्ठितः । १०।९७अव्।  \[म्\] : “विगुणः परधर्मात् स्वधिष्ठितात्”  
+१०।९७च् परधर्मेण जीवन् हि सद्यः पतति जातितः ॥ ९७ ॥  
 
 
- 10.1.3.3. Vaiśyas
- \[O\]  edn 829,  \[O\]  tr. 213
-10.98a vaiśyo '.jīvan svadharmeṇa śūdravṛttyā-api vartayet |  
-10.98c an.ācarann a.kāryāṇi nivarteta ca śaktimān || 98 ||  
+ १०।१।३।३। वैश्यस्
+ \[ओ\]  एद्न् ८२९,  \[ओ\]  त्र्। २१३
+१०।९८अ वैश्यो ऽ।जीवन् स्वधर्मेण शूद्रवृत्त्या-अपि वर्तयेत् ।  
+१०।९८च् अन्।आचरन्न् अ।कार्याणि निवर्तेत च शक्तिमान् ॥ ९८ ॥  
 
 
- 10.1.3.4. Śūdras
- \[O\]  edn 830,  \[O\]  tr. 213
-10.99a a.śaknuvaṃs tu śuśrūṣāṃ śūdraḥ kartuṃ dvijanmanām |  
-10.99c putra.dārātyayaṃ prāpto jīvet kāruka.karmabhiḥ || 99 ||  
+ १०।१।३।४। शूद्रस्
+ \[ओ\]  एद्न् ८३०,  \[ओ\]  त्र्। २१३
+१०।९९अ अ।शक्नुवंस् तु शुश्रूषां शूद्रः कर्तुं द्विजन्मनाम् ।  
+१०।९९च् पुत्र।दारात्ययं प्राप्तो जीवेत् कारुक।कर्मभिः ॥ ९९ ॥  
 
 
-10.100a yaiḥ karmabhiḥ pracaritaiḥ śuśrūṣyante dvijātayaḥ |  
-10.100c tāni kāruka.karmāṇi śilpāni vividhāni ca || 100 ||  
+१०।१००अ यैः कर्मभिः प्रचरितैः शुश्रूष्यन्ते द्विजातयः ।  
+१०।१००च् तानि कारुक।कर्माणि शिल्पानि विविधानि च ॥ १०० ॥  
 
 
- 10.1.3.5. Further Occupations for Brahmins
- \[O\]  edn 830-832,  \[O\]  tr. 213
-10.101a vaiśyavṛttim an.ātiṣṭhan brāhmaṇaḥ sve pathi sthitaḥ |  
-10.101c avṛttikarṣitaḥ sīdann imaṃ dharmaṃ samācaret || 101 ||  
+ १०।१।३।५। ड़ुर्थेर् ओच्चुपतिओन्स् ड़ोर् ब्रह्मिन्स्
+ \[ओ\]  एद्न् ८३०-८३२,  \[ओ\]  त्र्। २१३
+१०।१०१अ वैश्यवृत्तिम् अन्।आतिष्ठन् ब्राह्मणः स्वे पथि स्थितः ।  
+१०।१०१च् अवृत्तिकर्षितः सीदन्न् इमं धर्मं समाचरेत् ॥ १०१ ॥  
 
 
-10.102a sarvataḥ pratigṛhṇīyād brāhmaṇas tv anayaṃ gataḥ |  
-10.102c pavitraṃ duṣyati-ity etad dharmato na-upapadyate || 102 ||  
+१०।१०२अ सर्वतः प्रतिगृह्णीयाद् ब्राह्मणस् त्व् अनयं गतः ।  
+१०।१०२च् पवित्रं दुष्यति-इत्य् एतद् धर्मतो न-उपपद्यते ॥ १०२ ॥  
 
 
-10.103a na-adhyāpanād yājanād vā garhitād vā pratigrahāt |  
-10.103c doṣo bhavati viprāṇāṃ jvalana.ambu.samā hi te || 103 ||  
+१०।१०३अ न-अध्यापनाद् याजनाद् वा गर्हिताद् वा प्रतिग्रहात् ।  
+१०।१०३च् दोषो भवति विप्राणां ज्वलन।अम्बु।समा हि ते ॥ १०३ ॥  
 
 
-10.104a jīvitātyayam āpanno yo 'nnam atti tatas tataḥ |  
-10.104c ākāśam iva paṅkena na sa pāpena lipyate || 104 ||  
+१०।१०४अ जीवितात्ययम् आपन्नो यो ऽन्नम् अत्ति ततस् ततः ।  
+१०।१०४च् आकाशम् इव पङ्केन न स पापेन लिप्यते ॥ १०४ ॥  
 
 
-10.105a ajīgartaḥ sutaṃ hantum upāsarpad bubhukṣitaḥ |  
-10.105c na ca-ālipyata pāpena kṣutpratīkāram ācaran || 105 ||  
+१०।१०५अ अजीगर्तः सुतं हन्तुम् उपासर्पद् बुभुक्षितः ।  
+१०।१०५च् न च-आलिप्यत पापेन क्षुत्प्रतीकारम् आचरन् ॥ १०५ ॥  
 
 
-10.106a śvamāṃsam icchan ārto 'ttuṃ dharma.adharmavicakṣaṇaḥ |  
-10.106c prāṇānāṃ parirakṣārthaṃ vāmadevo na liptavān || 106 ||  
+१०।१०६अ श्वमांसम् इच्छन् आर्तो ऽत्तुं धर्म।अधर्मविचक्षणः ।  
+१०।१०६च् प्राणानां परिरक्षार्थं वामदेवो न लिप्तवान् ॥ १०६ ॥  
 
 
-10.107a bharadvājaḥ kṣudhārtas tu sa.putro vijane vane |  
-10.107c bahvīr gāḥ pratijagrāha vṛdhos takṣṇo mahātapāḥ || 107 ||  
+१०।१०७अ भरद्वाजः क्षुधार्तस् तु स।पुत्रो विजने वने ।  
+१०।१०७च् बह्वीर् गाः प्रतिजग्राह वृधोस् तक्ष्णो महातपाः ॥ १०७ ॥  
 
 
-10.108a kṣudhārtaś ca-attum abhyāgād viśvāmitraḥ śvajāghanīm |  
-10.108c caṇḍālahastād ādāya dharma.adharmavicakṣaṇaḥ || 108 ||  
+१०।१०८अ क्षुधार्तश् च-अत्तुम् अभ्यागाद् विश्वामित्रः श्वजाघनीम् ।  
+१०।१०८च् चण्डालहस्ताद् आदाय धर्म।अधर्मविचक्षणः ॥ १०८ ॥  
 
 
-10.109a pratigrahād yājanād vā tathā-eva-adhyāpanād api |  
-10.109c pratigrahaḥ pratyavaraḥ pretya viprasya garhitaḥ || 109 ||  
+१०।१०९अ प्रतिग्रहाद् याजनाद् वा तथा-एव-अध्यापनाद् अपि ।  
+१०।१०९च् प्रतिग्रहः प्रत्यवरः प्रेत्य विप्रस्य गर्हितः ॥ १०९ ॥  
 
 
-10.110a yājana.adhyāpane nityaṃ kriyete saṃskṛta.ātmanām |  
-10.110c pratigrahas tu kriyate śūdrād apy antya.janmanaḥ || 110 ||  
+१०।११०अ याजन।अध्यापने नित्यं क्रियेते संस्कृत।आत्मनाम् ।  
+१०।११०च् प्रतिग्रहस् तु क्रियते शूद्राद् अप्य् अन्त्य।जन्मनः ॥ ११० ॥  
 
 
-10.111a japa.homair apaity eno yājana.adhyāpanaiḥ kṛtam |  
-10.111c pratigrahanimittaṃ tu tyāgena tapasā-eva ca || 111 ||  
+१०।१११अ जप।होमैर् अपैत्य् एनो याजन।अध्यापनैः कृतम् ।  
+१०।१११च् प्रतिग्रहनिमित्तं तु त्यागेन तपसा-एव च ॥ १११ ॥  
 
 
-10.112a śila.uñcham apy ādadīta vipro '.jīvan yatas tataḥ |  
-10.112c pratigrahāt-śilaḥ śreyāṃs tato 'py uñchaḥ praśasyate || 112 ||  
+१०।११२अ शिल।उञ्छम् अप्य् आददीत विप्रो ऽ।जीवन् यतस् ततः ।  
+१०।११२च् प्रतिग्रहात्-शिलः श्रेयांस् ततो ऽप्य् उञ्छः प्रशस्यते ॥ ११२ ॥  
 
 
-10.113a sīdadbhiḥ kupyam icchadbhir dhane vā pṛthivīpatiḥ | 10.113av/  \[M\] : “dhanaṃ vā”  
-10.113c yācyaḥ syāt snātakair viprair aditsaṃs tyāgam arhati || 113 ||  
+१०।११३अ सीदद्भिः कुप्यम् इच्छद्भिर् धने वा पृथिवीपतिः । १०।११३अव्।  \[म्\] : “धनं वा”  
+१०।११३च् याच्यः स्यात् स्नातकैर् विप्रैर् अदित्संस् त्यागम् अर्हति ॥ ११३ ॥  
 
 
-10.114a akṛtaṃ ca kṛtāt kṣetrād gaur ajāvikam eva ca |  
-10.114c hiraṇyaṃ dhānyam annaṃ ca pūrvaṃ pūrvam adoṣavat || 114 ||  
+१०।११४अ अकृतं च कृतात् क्षेत्राद् गौर् अजाविकम् एव च ।  
+१०।११४च् हिरण्यं धान्यम् अन्नं च पूर्वं पूर्वम् अदोषवत् ॥ ११४ ॥  
 
 
- 10.1.3.6. Acquisition of Property
- \[O\]  edn 832-833,  \[O\]  tr. 214
-10.115a sapta vittāgamā dharmyā dāyo lābhaḥ krayo jayaḥ |  
-10.115c prayogaḥ karmayogaś ca satpratigraha eva ca || 115 ||  
+ १०।१।३।६। अच्क़ुइसितिओन् ओड़् प्रोपेर्त्य्
+ \[ओ\]  एद्न् ८३२-८३३,  \[ओ\]  त्र्। २१४
+१०।११५अ सप्त वित्तागमा धर्म्या दायो लाभः क्रयो जयः ।  
+१०।११५च् प्रयोगः कर्मयोगश् च सत्प्रतिग्रह एव च ॥ ११५ ॥  
 
 
-10.116a vidyā śilpaṃ bhṛtiḥ sevā gorakṣyaṃ vipaṇiḥ kṛṣiḥ |  
-10.116c dhṛtir bhaikṣaṃ kusīdaṃ ca daśa jīvanahetavaḥ || 116 ||  
+१०।११६अ विद्या शिल्पं भृतिः सेवा गोरक्ष्यं विपणिः कृषिः ।  
+१०।११६च् धृतिर् भैक्षं कुसीदं च दश जीवनहेतवः ॥ ११६ ॥  
 
 
-10.117a brāhmaṇaḥ kṣatriyo vā-api vṛddhiṃ na-eva prayojayet |  
-10.117c kāmaṃ tu khalu dharmārthaṃ dadyāt pāpīyase 'lpikām || 117 ||  
+१०।११७अ ब्राह्मणः क्षत्रियो वा-अपि वृद्धिं न-एव प्रयोजयेत् ।  
+१०।११७च् कामं तु खलु धर्मार्थं दद्यात् पापीयसे ऽल्पिकाम् ॥ ११७ ॥  
 
 
-10.118a caturtham ādadāno 'pi kṣatriyo bhāgam āpadi |  
-10.118c prajā rakṣan paraṃ śaktyā kilbiṣāt pratimucyate || 118 ||  
+१०।११८अ चतुर्थम् आददानो ऽपि क्षत्रियो भागम् आपदि ।  
+१०।११८च् प्रजा रक्षन् परं शक्त्या किल्बिषात् प्रतिमुच्यते ॥ ११८ ॥  
 
 
-10.119a svadharmo vijayas tasya na-āhave syāt parāṅ.mukhaḥ |  
-10.119c śastreṇa vaiśyān rakṣitvā dharmyam āhārayed balim || 119 || 10.119cv/  \[M\] : “vaiśyād rakṣitvā”  
+१०।११९अ स्वधर्मो विजयस् तस्य न-आहवे स्यात् पराङ्।मुखः ।  
+१०।११९च् शस्त्रेण वैश्यान् रक्षित्वा धर्म्यम् आहारयेद् बलिम् ॥ ११९ ॥ १०।११९च्व्।  \[म्\] : “वैश्याद् रक्षित्वा”  
 
 
-10.120a dhānye 'ṣṭamaṃ viśāṃ śulkaṃ viṃśaṃ kārṣāpaṇa.avaram |  
-10.120c karma.upakaraṇāḥ śūdrāḥ kāravaḥ śilpinas tathā || 120 ||  
+१०।१२०अ धान्ये ऽष्टमं विशां शुल्कं विंशं कार्षापण।अवरम् ।  
+१०।१२०च् कर्म।उपकरणाः शूद्राः कारवः शिल्पिनस् तथा ॥ १२० ॥  
 
 
- 10.1.3.7. Livelihood of Śūdras
- \[O\]  edn 834-835,  \[O\]  tr. 214
-10.121a śūdras tu vṛttim ākāṅkṣan kṣatram ārādhayed yadi | 10.121av/  \[M\] : “ārādhayed iti”  
-10.121c dhaninaṃ vā-apy upārādhya vaiśyaṃ śūdro jijīviṣet || 121 ||  
+ १०।१।३।७। लिवेलिहोओद् ओड़् शूद्रस्
+ \[ओ\]  एद्न् ८३४-८३५,  \[ओ\]  त्र्। २१४
+१०।१२१अ शूद्रस् तु वृत्तिम् आकाङ्क्षन् क्षत्रम् आराधयेद् यदि । १०।१२१अव्।  \[म्\] : “आराधयेद् इति”  
+१०।१२१च् धनिनं वा-अप्य् उपाराध्य वैश्यं शूद्रो जिजीविषेत् ॥ १२१ ॥  
 
 
-10.122a svargārtham ubhayārthaṃ vā viprān ārādhayet tu saḥ |  
-10.122c jātabrāhmaṇa.śabdasya sā hy asya kṛtakṛtyatā || 122 ||  
+१०।१२२अ स्वर्गार्थम् उभयार्थं वा विप्रान् आराधयेत् तु सः ।  
+१०।१२२च् जातब्राह्मण।शब्दस्य सा ह्य् अस्य कृतकृत्यता ॥ १२२ ॥  
 
 
-10.123a viprasevā-eva śūdrasya viśiṣṭaṃ karma kīrtyate |  
-10.123c yad ato 'nyadd hi kurute tad bhavaty asya niṣphalam || 123 ||  
+१०।१२३अ विप्रसेवा-एव शूद्रस्य विशिष्टं कर्म कीर्त्यते ।  
+१०।१२३च् यद् अतो ऽन्यद्द् हि कुरुते तद् भवत्य् अस्य निष्फलम् ॥ १२३ ॥  
 
 
-10.124a prakalpyā tasya tair vṛttiḥ svakuṭumbād yathārhataḥ |  
-10.124c śaktiṃ ca-avekṣya dākṣyaṃ ca bhṛtyānāṃ ca parigraham || 124 ||  
+१०।१२४अ प्रकल्प्या तस्य तैर् वृत्तिः स्वकुटुम्बाद् यथार्हतः ।  
+१०।१२४च् शक्तिं च-अवेक्ष्य दाक्ष्यं च भृत्यानां च परिग्रहम् ॥ १२४ ॥  
 
 
-10.125a ucchiṣṭam annaṃ dātavyaṃ jīrṇāni vasanāni ca |  
-10.125c pulākāś ca-eva dhānyānāṃ jīrṇāś ca-eva paricchadāḥ || 125 ||  
+१०।१२५अ उच्छिष्टम् अन्नं दातव्यं जीर्णानि वसनानि च ।  
+१०।१२५च् पुलाकाश् च-एव धान्यानां जीर्णाश् च-एव परिच्छदाः ॥ १२५ ॥  
 
 
-10.126a na śūdre pātakaṃ kiṃ cin na ca saṃskāram arhati |  
-10.126c na-asya-adhikāro dharme 'sti na dharmāt pratiṣedhanam || 126 ||  
+१०।१२६अ न शूद्रे पातकं किं चिन् न च संस्कारम् अर्हति ।  
+१०।१२६च् न-अस्य-अधिकारो धर्मे ऽस्ति न धर्मात् प्रतिषेधनम् ॥ १२६ ॥  
 
 
-10.127a dharma.ipsavas tu dharmajñāḥ satāṃ vṛttam anuṣṭhitāḥ | 10.127av/  \[M\] : “satāṃ dharmam”  
-10.127c mantravarjyaṃ na duṣyanti praśaṃsāṃ prāpnuvanti ca || 127 || 10.127cv/  \[M\] : “mantravarjaṃ”  
+१०।१२७अ धर्म।इप्सवस् तु धर्मज्ञाः सतां वृत्तम् अनुष्ठिताः । १०।१२७अव्।  \[म्\] : “सतां धर्मम्”  
+१०।१२७च् मन्त्रवर्ज्यं न दुष्यन्ति प्रशंसां प्राप्नुवन्ति च ॥ १२७ ॥ १०।१२७च्व्।  \[म्\] : “मन्त्रवर्जं”  
 
 
-10.128a yathā yathā hi sadvṛttam ātiṣṭhaty anasūyakaḥ |  
-10.128c tathā tathā-imaṃ ca-amuṃ ca lokaṃ prāpnoty aninditaḥ || 128 ||  
+१०।१२८अ यथा यथा हि सद्वृत्तम् आतिष्ठत्य् अनसूयकः ।  
+१०।१२८च् तथा तथा-इमं च-अमुं च लोकं प्राप्नोत्य् अनिन्दितः ॥ १२८ ॥  
 
 
-10.129a śaktena-api hi śūdreṇa na kāryo dhanasañcayaḥ |  
-10.129c śūdro hi dhanam āsādya brāhmaṇān eva bādhate || 129 ||  
+१०।१२९अ शक्तेन-अपि हि शूद्रेण न कार्यो धनसञ्चयः ।  
+१०।१२९च् शूद्रो हि धनम् आसाद्य ब्राह्मणान् एव बाधते ॥ १२९ ॥  
 
 
-# 10.1.4. Conclusion
- \[O\]  edn 835-836,  \[O\]  tr. 214
-10.130a ete caturṇāṃ varṇānām āpaddharmāḥ prakīrtitāḥ |  
-10.130c yān samyag anutiṣṭhanto vrajanti paramaṃ gatim || 130 ||  
+# १०।१।४। चोन्च्लुसिओन्
+ \[ओ\]  एद्न् ८३५-८३६,  \[ओ\]  त्र्। २१४
+१०।१३०अ एते चतुर्णां वर्णानाम् आपद्धर्माः प्रकीर्तिताः ।  
+१०।१३०च् यान् सम्यग् अनुतिष्ठन्तो व्रजन्ति परमं गतिम् ॥ १३० ॥  
 
 
-10.131a eṣa dharmavidhiḥ kṛtsnaś cāturvarṇyasya kīrtitaḥ |  
-10.131c ataḥ paraṃ pravakṣyāmi prāyaścittavidhiṃ śubham || 131 ||  
+१०।१३१अ एष धर्मविधिः कृत्स्नश् चातुर्वर्ण्यस्य कीर्तितः ।  
+१०।१३१च् अतः परं प्रवक्ष्यामि प्रायश्चित्तविधिं शुभम् ॥ १३१ ॥  
 
 
-# Chapter 11
- \[O\]  edn 837-888,  \[O\]  tr. 215-229
- 11.1. Penance
- \[O\]  edn 837-888,  \[O\]  tr. 215-229
-# 11.1.1. Excursus: Occasions for Giving and Begging
- \[O\]  edn 837-841,  \[O\]  tr. 215-216
-11.01a sāntānikaṃ yakṣyamāṇam adhvagaṃ sārvavedasam |  
-11.01c guru.arthaṃ pitṛ.mātṛ.arthaṃ svādhyāyārthy upatāpinaḥ || 1 ||  
+# छप्तेर् ११
+ \[ओ\]  एद्न् ८३७-८८८,  \[ओ\]  त्र्। २१५-२२९
+ ११।१। पेनन्चे
+ \[ओ\]  एद्न् ८३७-८८८,  \[ओ\]  त्र्। २१५-२२९
+# ११।१।१। एxचुर्सुस्: ओच्चसिओन्स् ड़ोर् गिविन्ग् अन्द् बेग्गिन्ग्
+ \[ओ\]  एद्न् ८३७-८४१,  \[ओ\]  त्र्। २१५-२१६
+११।०१अ सान्तानिकं यक्ष्यमाणम् अध्वगं सार्ववेदसम् ।  
+११।०१च् गुरु।अर्थं पितृ।मातृ।अर्थं स्वाध्यायार्थ्य् उपतापिनः ॥ १ ॥  
 
 
-11.02a na vai tān snātakān vidyād brāhmaṇān dharmabhikṣukān |  
-11.02c niḥsvebhyo deyam etebhyo dānaṃ vidyāviśeṣataḥ || 2 ||  
+११।०२अ न वै तान् स्नातकान् विद्याद् ब्राह्मणान् धर्मभिक्षुकान् ।  
+११।०२च् निःस्वेभ्यो देयम् एतेभ्यो दानं विद्याविशेषतः ॥ २ ॥  
 
 
-11.03a etebhyo hi dvijāgryebhyo deyam annaṃ sa.dakṣiṇam |  
-11.03c itarebhyo bahirvedi kṛtānnaṃ deyam ucyate || 3 ||  
+११।०३अ एतेभ्यो हि द्विजाग्र्येभ्यो देयम् अन्नं स।दक्षिणम् ।  
+११।०३च् इतरेभ्यो बहिर्वेदि कृतान्नं देयम् उच्यते ॥ ३ ॥  
 
 
-11.04a sarvaratnāni rājā tu yathārhaṃ pratipādayet |  
-11.04c brāhmaṇān vedaviduṣo yajñārthaṃ ca-eva dakṣiṇām || 4 ||  
+११।०४अ सर्वरत्नानि राजा तु यथार्हं प्रतिपादयेत् ।  
+११।०४च् ब्राह्मणान् वेदविदुषो यज्ञार्थं च-एव दक्षिणाम् ॥ ४ ॥  
 
 
-11.05a kṛta.dāro 'parān dārān bhikṣitvā yo 'dhigacchati |  
-11.05c rati.mātraṃ phalaṃ tasya dravyadātus tu santatiḥ || 5 ||  
+११।०५अ कृत।दारो ऽपरान् दारान् भिक्षित्वा यो ऽधिगच्छति ।  
+११।०५च् रति।मात्रं फलं तस्य द्रव्यदातुस् तु सन्ततिः ॥ ५ ॥  
 
 
-11.06a dhanāni tu yathāśakti vipreṣu pratipādayet | 11.06av/ not in  \[M\]   
-11.06c vedavitsu vivikteṣu pretya svargaṃ samaśnute || 6 || 11.06cv/ not in  \[M\]   
+११।०६अ धनानि तु यथाशक्ति विप्रेषु प्रतिपादयेत् । ११।०६अव्। नोत् इन्  \[म्\]   
+११।०६च् वेदवित्सु विविक्तेषु प्रेत्य स्वर्गं समश्नुते ॥ ६ ॥ ११।०६च्व्। नोत् इन्  \[म्\]   
 
 
-11.07a[06Ma] yasya traivārṣikaṃ bhaktaṃ paryāptaṃ bhṛtyavṛttaye |  
-11.07c[06Mc] adhikaṃ vā-api vidyeta sa somaṃ pātum arhati || 7 ||  
+११।०७अ[०६म] यस्य त्रैवार्षिकं भक्तं पर्याप्तं भृत्यवृत्तये ।  
+११।०७च्[०६म्च्] अधिकं वा-अपि विद्येत स सोमं पातुम् अर्हति ॥ ७ ॥  
 
 
-11.08a[07Ma] ataḥ svalpīyasi dravye yaḥ somaṃ pibati dvijaḥ |  
-11.08c[07Mc] sa pītasoma.pūrvo 'pi na tasya-āpnoti tatphalam || 8 ||  
+११।०८अ[०७म] अतः स्वल्पीयसि द्रव्ये यः सोमं पिबति द्विजः ।  
+११।०८च्[०७म्च्] स पीतसोम।पूर्वो ऽपि न तस्य-आप्नोति तत्फलम् ॥ ८ ॥  
 
 
-11.09a[08Ma] śaktaḥ parajane dātā svajane duḥkhajīvini |  
-11.09c[08Mc] madhv.āpāto viṣa.āsvādaḥ sa dharma.pratirūpakaḥ || 9 ||  
+११।०९अ[०८म] शक्तः परजने दाता स्वजने दुःखजीविनि ।  
+११।०९च्[०८म्च्] मध्व्।आपातो विष।आस्वादः स धर्म।प्रतिरूपकः ॥ ९ ॥  
 
 
-11.10a[09Ma] bhṛtyānām uparodhena yat karoty aurdhvadehikam |  
-11.10c[09Mc] tad bhavaty asukha.udarkaṃ jīvataś ca mṛtasya ca || 10 ||  
+११।१०अ[०९म] भृत्यानाम् उपरोधेन यत् करोत्य् और्ध्वदेहिकम् ।  
+११।१०च्[०९म्च्] तद् भवत्य् असुख।उदर्कं जीवतश् च मृतस्य च ॥ १० ॥  
 
 
-11.11a[10Ma] yajñaś cet pratiruddhaḥ syād ekena-aṅgena yajvanaḥ |  
-11.11c[10Mc] brāhmaṇasya viśeṣena dhārmike sati rājani || 11 ||  
+११।११अ[१०म] यज्ञश् चेत् प्रतिरुद्धः स्याद् एकेन-अङ्गेन यज्वनः ।  
+११।११च्[१०म्च्] ब्राह्मणस्य विशेषेन धार्मिके सति राजनि ॥ ११ ॥  
 
 
-11.12a[11Ma] yo vaiśyaḥ syād bahupaśur hīna.kratur asomapaḥ |  
-11.12c[11Mc] kuṭumbāt tasya tad dravyam āhared yajñasiddhaye || 12 ||  
+११।१२अ[११म] यो वैश्यः स्याद् बहुपशुर् हीन।क्रतुर् असोमपः ।  
+११।१२च्[११म्च्] कुटुम्बात् तस्य तद् द्रव्यम् आहरेद् यज्ञसिद्धये ॥ १२ ॥  
 
 
-11.13a[12Ma] āharet trīṇi vā dve vā kāmaṃ śūdrasya veśmanaḥ |  
-11.13c[12Mc] na hi śūdrasya yajñeṣu kaś cid asti parigrahaḥ || 13 ||  
+११।१३अ[१२म] आहरेत् त्रीणि वा द्वे वा कामं शूद्रस्य वेश्मनः ।  
+११।१३च्[१२म्च्] न हि शूद्रस्य यज्ञेषु कश् चिद् अस्ति परिग्रहः ॥ १३ ॥  
 
 
-11.14a[13Ma] yo 'nāhita.agniḥ śatagur a.yajvā ca sahasraguḥ | 11.14a[13Ma]v/  \[K\] : “ayajñaś”  
-11.14c[13Mc] tayor api kuṭumbābhyām āhared a.vicārayan || 14 ||  
+११।१४अ[१३म] यो ऽनाहित।अग्निः शतगुर् अ।यज्वा च सहस्रगुः । ११।१४अ[१३म]व्।  \[क्\] : “अयज्ञश्”  
+११।१४च्[१३म्च्] तयोर् अपि कुटुम्बाभ्याम् आहरेद् अ।विचारयन् ॥ १४ ॥  
 
 
-11.15a[14Ma] ādāna.nityāc ca-ādātur āhared a.prayacchataḥ |  
-11.15c[14Mc] tathā yaśo 'sya prathate dharmaś ca-eva pravardhate || 15 ||  
+११।१५अ[१४म] आदान।नित्याच् च-आदातुर् आहरेद् अ।प्रयच्छतः ।  
+११।१५च्[१४म्च्] तथा यशो ऽस्य प्रथते धर्मश् च-एव प्रवर्धते ॥ १५ ॥  
 
 
-11.16a[15Ma] tathāa-eva saptame bhakte bhaktāni ṣaḍ an.aśnatā |  
-11.16c[15Mc] aśvastanavidhānena hartavyaṃ hīna.karmaṇaḥ || 16 ||  
+११।१६अ[१५म] तथाअ-एव सप्तमे भक्ते भक्तानि षड् अन्।अश्नता ।  
+११।१६च्[१५म्च्] अश्वस्तनविधानेन हर्तव्यं हीन।कर्मणः ॥ १६ ॥  
 
 
-11.17a[16Ma] khalāt kṣetrād agārād vā yato vā-apy upalabhyate |  
-11.17c[16Mc] ākhyātavyaṃ tu tat tasmai pṛcchate yadi pṛcchati || 17 ||  
+११।१७अ[१६म] खलात् क्षेत्राद् अगाराद् वा यतो वा-अप्य् उपलभ्यते ।  
+११।१७च्[१६म्च्] आख्यातव्यं तु तत् तस्मै पृच्छते यदि पृच्छति ॥ १७ ॥  
 
 
-11.18a[17Ma] brāhmaṇasvaṃ na hartavyaṃ kṣatriyeṇa kadā cana |  
-11.18c[17Mc] dasyu.niṣkriyayos tu svam a.jīvan hartum arhati || 18 ||  
+११।१८अ[१७म] ब्राह्मणस्वं न हर्तव्यं क्षत्रियेण कदा चन ।  
+११।१८च्[१७म्च्] दस्यु।निष्क्रिययोस् तु स्वम् अ।जीवन् हर्तुम् अर्हति ॥ १८ ॥  
 
 
-11.19a[18Ma] yo 'sādhubhyo 'rtham ādāya sādhubhyaḥ samprayacchati |  
-11.19c[18Mc] sa kṛtvā plavam ātmānaṃ santārayati tāv ubhau || 19 ||  
+११।१९अ[१८म] यो ऽसाधुभ्यो ऽर्थम् आदाय साधुभ्यः सम्प्रयच्छति ।  
+११।१९च्[१८म्च्] स कृत्वा प्लवम् आत्मानं सन्तारयति ताव् उभौ ॥ १९ ॥  
 
 
-11.20a[19Ma] yad dhanaṃ yajñaśīlānāṃ devasvaṃ tad vidur budhāḥ |  
-11.20c[19Mc] a.yajvanāṃ tu yad vittam āsurasvaṃ tad ucyate || 20 ||  
+११।२०अ[१९म] यद् धनं यज्ञशीलानां देवस्वं तद् विदुर् बुधाः ।  
+११।२०च्[१९म्च्] अ।यज्वनां तु यद् वित्तम् आसुरस्वं तद् उच्यते ॥ २० ॥  
 
 
-11.21a[20Ma] na tasmin dhārayed daṇḍaṃ dhārmikaḥ pṛthivīpatiḥ |  
-11.21c[20Mc] kṣatriyasya hi bāliśyād brāhmaṇaḥ sīdati kṣudhā || 21 ||  
+११।२१अ[२०म] न तस्मिन् धारयेद् दण्डं धार्मिकः पृथिवीपतिः ।  
+११।२१च्[२०म्च्] क्षत्रियस्य हि बालिश्याद् ब्राह्मणः सीदति क्षुधा ॥ २१ ॥  
 
 
-11.22a[21Ma] tasya bhṛtyajanaṃ jñātvā svakuṭumbān mahīpatiḥ |  
-11.22c[21Mc] śruta.śīle ca vijñāya vṛttiṃ dharmyāṃ prakalpayet || 22 ||  
+११।२२अ[२१म] तस्य भृत्यजनं ज्ञात्वा स्वकुटुम्बान् महीपतिः ।  
+११।२२च्[२१म्च्] श्रुत।शीले च विज्ञाय वृत्तिं धर्म्यां प्रकल्पयेत् ॥ २२ ॥  
 
 
-11.23a[22Ma] kalpayitvā-asya vṛttiṃ ca rakṣed enaṃ samantataḥ |  
-11.23c[22Mc] rājā hi dharmaṣaḍbhāgaṃ tasmāt prāpnoti rakṣitāt || 23 ||  
+११।२३अ[२२म] कल्पयित्वा-अस्य वृत्तिं च रक्षेद् एनं समन्ततः ।  
+११।२३च्[२२म्च्] राजा हि धर्मषड्भागं तस्मात् प्राप्नोति रक्षितात् ॥ २३ ॥  
 
 
-11.24a[23Ma] na yajñārthaṃ dhanaṃ śūdrād vipro bhikṣeta karhi cit |  
-11.24c[23Mc] yajamāno hi bhikṣitvā caṇḍālaḥ pretya jāyate || 24 ||  
+११।२४अ[२३म] न यज्ञार्थं धनं शूद्राद् विप्रो भिक्षेत कर्हि चित् ।  
+११।२४च्[२३म्च्] यजमानो हि भिक्षित्वा चण्डालः प्रेत्य जायते ॥ २४ ॥  
 
 
-11.25a[24Ma] yājñārtham arthaṃ bhikṣitvā yo na sarvaṃ prayacchati |  
-11.25c[24Mc] sa yāti bhāsatāṃ vipraḥ kākatāṃ vā śataṃ samāḥ || 25 ||  
+११।२५अ[२४म] याज्ञार्थम् अर्थं भिक्षित्वा यो न सर्वं प्रयच्छति ।  
+११।२५च्[२४म्च्] स याति भासतां विप्रः काकतां वा शतं समाः ॥ २५ ॥  
 
 
-11.26a[25Ma] devasvaṃ brāhmaṇasvaṃ vā lobhena-upahinasti yaḥ |  
-11.26c[25Mc] sa pāpa.ātmā pare loke gṛdhra.ucchiṣṭena jīvati || 26 ||  
+११।२६अ[२५म] देवस्वं ब्राह्मणस्वं वा लोभेन-उपहिनस्ति यः ।  
+११।२६च्[२५म्च्] स पाप।आत्मा परे लोके गृध्र।उच्छिष्टेन जीवति ॥ २६ ॥  
 
 
-# 11.1.2. Excursus: Miscellaneous Topics
- \[O\]  edn 841-844,  \[O\]  tr. 216-217
- 11.1.2.1. Times of Adversity
- \[O\]  edn 841-842,  \[O\]  tr. 216
-11.27a[26Ma] iṣṭiṃ vaiśvānarīṃ nityaṃ nirvaped abdaparyaye |  
-11.27c[26Mc] kḷptānāṃ paśu.somānāṃ niṣkṛtyartham asambhave || 27 ||  
+# ११।१।२। एxचुर्सुस्: मिस्चेल्लनेओउस् तोपिच्स्
+ \[ओ\]  एद्न् ८४१-८४४,  \[ओ\]  त्र्। २१६-२१७
+ ११।१।२।१। तिमेस् ओड़् अद्वेर्सित्य्
+ \[ओ\]  एद्न् ८४१-८४२,  \[ओ\]  त्र्। २१६
+११।२७अ[२६म] इष्टिं वैश्वानरीं नित्यं निर्वपेद् अब्दपर्यये ।  
+११।२७च्[२६म्च्] कॢप्तानां पशु।सोमानां निष्कृत्यर्थम् असम्भवे ॥ २७ ॥  
 
 
-11.28a[27Ma] āpatkalpena yo dharmaṃ kurute 'nāpadi dvijaḥ |  
-11.28c[27Mc] sa na-āpnoti phalaṃ tasya paratra-iti vicāritam || 28 ||  
+११।२८अ[२७म] आपत्कल्पेन यो धर्मं कुरुते ऽनापदि द्विजः ।  
+११।२८च्[२७म्च्] स न-आप्नोति फलं तस्य परत्र-इति विचारितम् ॥ २८ ॥  
 
 
-11.29a[28Ma] viśvaiś ca devaiḥ sādhyaiś ca brāhmaṇaiś ca maharṣibhiḥ |  
-11.29c[28Mc] āpatsu maraṇād bhītair vidheḥ pratinidhiḥ kṛtaḥ || 29 ||  
+११।२९अ[२८म] विश्वैश् च देवैः साध्यैश् च ब्राह्मणैश् च महर्षिभिः ।  
+११।२९च्[२८म्च्] आपत्सु मरणाद् भीतैर् विधेः प्रतिनिधिः कृतः ॥ २९ ॥  
 
 
-11.30a[29Ma] prabhuḥ prathamakalpasya yo 'nukalpena vartate |  
-11.30c[29Mc] na sāmparāyikaṃ tasya dur.mater vidyate phalam || 30 ||  
+११।३०अ[२९म] प्रभुः प्रथमकल्पस्य यो ऽनुकल्पेन वर्तते ।  
+११।३०च्[२९म्च्] न साम्परायिकं तस्य दुर्।मतेर् विद्यते फलम् ॥ ३० ॥  
 
 
- 11.1.2.2. Power of Brahmins
- \[O\]  edn 842-843,  \[O\]  tr. 216
-11.31a[30Ma] na brāhmaṇo vedayeta kiṃ cid rājani dharmavit |  
-11.31c[30Mc] svavīryeṇa-eva tān-śiṣyān mānavān apakāriṇaḥ || 31 ||  
+ ११।१।२।२। पोwएर् ओड़् ब्रह्मिन्स्
+ \[ओ\]  एद्न् ८४२-८४३,  \[ओ\]  त्र्। २१६
+११।३१अ[३०म] न ब्राह्मणो वेदयेत किं चिद् राजनि धर्मवित् ।  
+११।३१च्[३०म्च्] स्ववीर्येण-एव तान्-शिष्यान् मानवान् अपकारिणः ॥ ३१ ॥  
 
 
-11.32a[31Ma] svavīryād rājavīryāc ca svavīryaṃ balavattaram |  
-11.32c[31Mc] tasmāt svena-eva vīryeṇa nigṛhṇīyād arīn dvijaḥ || 32 ||  
+११।३२अ[३१म] स्ववीर्याद् राजवीर्याच् च स्ववीर्यं बलवत्तरम् ।  
+११।३२च्[३१म्च्] तस्मात् स्वेन-एव वीर्येण निगृह्णीयाद् अरीन् द्विजः ॥ ३२ ॥  
 
 
-11.33a[32Ma] śrutīr atharvāṅgirasīḥ kuryād ity a.vicārayan |  
-11.33c[32Mc] vākśastraṃ vai brāhmaṇasya tena hanyād arīn dvijaḥ || 33 ||  
+११।३३अ[३२म] श्रुतीर् अथर्वाङ्गिरसीः कुर्याद् इत्य् अ।विचारयन् ।  
+११।३३च्[३२म्च्] वाक्शस्त्रं वै ब्राह्मणस्य तेन हन्याद् अरीन् द्विजः ॥ ३३ ॥  
 
 
-11.34a[33Ma] kṣatriyo bāhuvīryeṇa tared āpadam ātmanaḥ |  
-11.34c[33Mc] dhanena vaiśya.śūdrau tu japa.homair dvijottamaḥ || 34 ||  
+११।३४अ[३३म] क्षत्रियो बाहुवीर्येण तरेद् आपदम् आत्मनः ।  
+११।३४च्[३३म्च्] धनेन वैश्य।शूद्रौ तु जप।होमैर् द्विजोत्तमः ॥ ३४ ॥  
 
 
-11.35a[34Ma] vidhātā śāsitā vaktā maitro brāhmaṇa ucyate |  
-11.35c[34Mc] tasmai na-akuśalaṃ brūyān na śuṣkāṃ giram īrayet || 35 ||  
+११।३५अ[३४म] विधाता शासिता वक्ता मैत्रो ब्राह्मण उच्यते ।  
+११।३५च्[३४म्च्] तस्मै न-अकुशलं ब्रूयान् न शुष्कां गिरम् ईरयेत् ॥ ३५ ॥  
 
 
- 11.1.2.3. Sacrifices
- \[O\]  edn 843-844,  \[O\]  tr. 216-217
-11.36a[35Ma] na vai kanyā na yuvatir na-alpa.vidyo na bāliśaḥ |  
-11.36c[35Mc] hotā syād agnihotrasya na-ārto na-asaṃskṛtas tathā || 36 ||  
+ ११।१।२।३। सच्रिड़िचेस्
+ \[ओ\]  एद्न् ८४३-८४४,  \[ओ\]  त्र्। २१६-२१७
+११।३६अ[३५म] न वै कन्या न युवतिर् न-अल्प।विद्यो न बालिशः ।  
+११।३६च्[३५म्च्] होता स्याद् अग्निहोत्रस्य न-आर्तो न-असंस्कृतस् तथा ॥ ३६ ॥  
 
 
-11.37a[36Ma] narake hi patanty ete juhvantaḥ sa ca yasya tat | 11.37a[36Ma]v/  \[M\] : “juhvataḥ”  
-11.37c[36Mc] tasmād vaitānakuśalo hotā syād vedapāragaḥ || 37 ||  
+११।३७अ[३६म] नरके हि पतन्त्य् एते जुह्वन्तः स च यस्य तत् । ११।३७अ[३६म]व्।  \[म्\] : “जुह्वतः”  
+११।३७च्[३६म्च्] तस्माद् वैतानकुशलो होता स्याद् वेदपारगः ॥ ३७ ॥  
 
 
-11.38a[37Ma] prājāpatyam a.dattvā-aśvam agnyādheyasya dakṣiṇām |  
-11.38c[37Mc] anāhitāgnir bhavati brāhmaṇo vibhave sati || 38 ||  
+११।३८अ[३७म] प्राजापत्यम् अ।दत्त्वा-अश्वम् अग्न्याधेयस्य दक्षिणाम् ।  
+११।३८च्[३७म्च्] अनाहिताग्निर् भवति ब्राह्मणो विभवे सति ॥ ३८ ॥  
 
 
-11.39a[38Ma] puṇyāny anyāni kurvīta śraddadhāno jita.indriyaḥ |  
-11.39c[38Mc] na tv alpa.dakṣiṇair yajñair yajeta-iha kathaṃ cana || 39 ||  
+११।३९अ[३८म] पुण्यान्य् अन्यानि कुर्वीत श्रद्दधानो जित।इन्द्रियः ।  
+११।३९च्[३८म्च्] न त्व् अल्प।दक्षिणैर् यज्ञैर् यजेत-इह कथं चन ॥ ३९ ॥  
 
 
-11.40a[39Ma] indriyāṇi yaśaḥ svargam āyuḥ kīrtiṃ prajāḥ paśūn |  
-11.40c[39Mc] hanty alpa.dakṣiṇo yajñas tasmān na-alpa.dhano yajet || 40 ||  
+११।४०अ[३९म] इन्द्रियाणि यशः स्वर्गम् आयुः कीर्तिं प्रजाः पशून् ।  
+११।४०च्[३९म्च्] हन्त्य् अल्प।दक्षिणो यज्ञस् तस्मान् न-अल्प।धनो यजेत् ॥ ४० ॥  
 
 
-11.41a[40Ma] agnihotry apavidhya-agnīn brāhmaṇaḥ kāmakārataḥ |  
-11.41c[40Mc] cāndrāyaṇaṃ caren māsaṃ vīrahatyāsamaṃ hi tat || 41 ||  
+११।४१अ[४०म] अग्निहोत्र्य् अपविध्य-अग्नीन् ब्राह्मणः कामकारतः ।  
+११।४१च्[४०म्च्] चान्द्रायणं चरेन् मासं वीरहत्यासमं हि तत् ॥ ४१ ॥  
 
 
-11.42a[41Ma] ye śūdrād adhigamya-artham agnihotram upāsate |  
-11.42c[41Mc] ṛtvijas te hi śūdrāṇāṃ brahmavādiṣu garhitāḥ || 42 ||  
+११।४२अ[४१म] ये शूद्राद् अधिगम्य-अर्थम् अग्निहोत्रम् उपासते ।  
+११।४२च्[४१म्च्] ऋत्विजस् ते हि शूद्राणां ब्रह्मवादिषु गर्हिताः ॥ ४२ ॥  
 
 
-11.43a[42Ma] teṣāṃ satatam ajñānāṃ vṛṣalāgnyupasevinām |  
-11.43c[42Mc] padā mastakam ākramya dātā durgāṇi santaret || 43 ||  
+११।४३अ[४२म] तेषां सततम् अज्ञानां वृषलाग्न्युपसेविनाम् ।  
+११।४३च्[४२म्च्] पदा मस्तकम् आक्रम्य दाता दुर्गाणि सन्तरेत् ॥ ४३ ॥  
 
 
-# 11.1.3. Justification for Penance
- \[O\]  edn 845-847,  \[O\]  tr. 217
-11.44a[43Ma] a.kurvan vihitaṃ karma ninditaṃ ca samācaran |  
-11.44c[43Mc] prasaktaś ca-indriyārtheṣu prāyaścittīyate naraḥ || 44 || 11.44c[43Mc]v/  \[M\] : “prasajjan indriyārtheṣu”  
+# ११।१।३। जुस्तिड़िचतिओन् ड़ोर् पेनन्चे
+ \[ओ\]  एद्न् ८४५-८४७,  \[ओ\]  त्र्। २१७
+११।४४अ[४३म] अ।कुर्वन् विहितं कर्म निन्दितं च समाचरन् ।  
+११।४४च्[४३म्च्] प्रसक्तश् च-इन्द्रियार्थेषु प्रायश्चित्तीयते नरः ॥ ४४ ॥ ११।४४च्[४३म्च्]व्।  \[म्\] : “प्रसज्जन् इन्द्रियार्थेषु”  
 
 
-11.45a[44Ma] akāmataḥ kṛte pāpe prāyaścittaṃ vidur budhāḥ |  
-11.45c[44Mc] kāmakārakṛte 'py āhur eke śrutinidarśanāt || 45 ||  
+११।४५अ[४४म] अकामतः कृते पापे प्रायश्चित्तं विदुर् बुधाः ।  
+११।४५च्[४४म्च्] कामकारकृते ऽप्य् आहुर् एके श्रुतिनिदर्शनात् ॥ ४५ ॥  
 
 
-11.46a[45Ma] akāmataḥ kṛtaṃ pāpaṃ vedābhyāsena śudhyati |  
-11.46c[45Mc] kāmatas tu kṛtaṃ mohāt prāyaścittaiḥ pṛthagvidhaiḥ || 46 ||  
+११।४६अ[४५म] अकामतः कृतं पापं वेदाभ्यासेन शुध्यति ।  
+११।४६च्[४५म्च्] कामतस् तु कृतं मोहात् प्रायश्चित्तैः पृथग्विधैः ॥ ४६ ॥  
 
 
-11.47a[46Ma] prāyaścittīyatāṃ prāpya daivāt pūrvakṛtena vā |  
-11.47c[46Mc] na saṃsargaṃ vrajet sadbhiḥ prāyaścitte 'kṛte dvijaḥ || 47 ||  
+११।४७अ[४६म] प्रायश्चित्तीयतां प्राप्य दैवात् पूर्वकृतेन वा ।  
+११।४७च्[४६म्च्] न संसर्गं व्रजेत् सद्भिः प्रायश्चित्ते ऽकृते द्विजः ॥ ४७ ॥  
 
 
-11.48a[47Ma] iha duścaritaiḥ ke cit ke cit pūrvakṛtais tathā |  
-11.48c[47Mc] prāpnuvanti dur.ātmāno narā rūpaviparyayam || 48 ||  
+११।४८अ[४७म] इह दुश्चरितैः के चित् के चित् पूर्वकृतैस् तथा ।  
+११।४८च्[४७म्च्] प्राप्नुवन्ति दुर्।आत्मानो नरा रूपविपर्ययम् ॥ ४८ ॥  
 
 
-11.49a[48Ma] suvarṇacauraḥ kaunakhyaṃ surāpaḥ śyāvadantatām |  
-11.49c[48Mc] brahmahā kṣayarogitvaṃ dauścarmyaṃ gurutalpagaḥ || 49 ||  
+११।४९अ[४८म] सुवर्णचौरः कौनख्यं सुरापः श्यावदन्तताम् ।  
+११।४९च्[४८म्च्] ब्रह्महा क्षयरोगित्वं दौश्चर्म्यं गुरुतल्पगः ॥ ४९ ॥  
 
 
-11.50a[49Ma] piśunaḥ pautināsikyaṃ sūcakaḥ pūtivaktratām |  
-11.50c[49Mc] dhānyacauro 'ṅgahīnatvam ātiraikyaṃ tu miśrakaḥ || 50 ||  
+११।५०अ[४९म] पिशुनः पौतिनासिक्यं सूचकः पूतिवक्त्रताम् ।  
+११।५०च्[४९म्च्] धान्यचौरो ऽङ्गहीनत्वम् आतिरैक्यं तु मिश्रकः ॥ ५० ॥  
 
 
-11.51a[50Ma] annahartā-āmayāvitvaṃ maukyaṃ vāgapahārakaḥ |  
-11.51c[50Mc] vastrāpahārakaḥ śvaitryaṃ paṅgutām aśvahārakaḥ || 51 ||  
+११।५१अ[५०म] अन्नहर्ता-आमयावित्वं मौक्यं वागपहारकः ।  
+११।५१च्[५०म्च्] वस्त्रापहारकः श्वैत्र्यं पङ्गुताम् अश्वहारकः ॥ ५१ ॥  
 
 
-11.52a[51Ma] evaṃ karmaviśeṣeṇa jāyante sadvigarhitāḥ |  
-11.52c[51Mc] jaḍa.mūka.andha.badhirā vikṛta.ākṛtayas tathā || 52 ||  
+११।५२अ[५१म] एवं कर्मविशेषेण जायन्ते सद्विगर्हिताः ।  
+११।५२च्[५१म्च्] जड।मूक।अन्ध।बधिरा विकृत।आकृतयस् तथा ॥ ५२ ॥  
 
 
-11.53a[52Ma] caritavyam ato nityaṃ prāyaścittaṃ viśuddhaye |  
-11.53c[52Mc] nindyair hi lakṣaṇair yuktā jāyante 'niṣkṛta.enasaḥ || 53 ||  
+११।५३अ[५२म] चरितव्यम् अतो नित्यं प्रायश्चित्तं विशुद्धये ।  
+११।५३च्[५२म्च्] निन्द्यैर् हि लक्षणैर् युक्ता जायन्ते ऽनिष्कृत।एनसः ॥ ५३ ॥  
 
 
-11.54a[53Ma] brahmahatyā surāpānaṃ steyaṃ gurvaṅganāgamaḥ |  
-11.54c[53Mc] mahānti pātakāny āhuḥ saṃsargaś ca-api taiḥ saha || 54 ||  
+११।५४अ[५३म] ब्रह्महत्या सुरापानं स्तेयं गुर्वङ्गनागमः ।  
+११।५४च्[५३म्च्] महान्ति पातकान्य् आहुः संसर्गश् च-अपि तैः सह ॥ ५४ ॥  
 
 
-# 11.1.4. Categories of Sin
- \[O\]  edn 847-850,  \[O\]  tr. 217-218
- 11.1.4.1. Grievous Sins Causing Loss of Caste
- \[O\]  edn 847-848,  \[O\]  tr. 217-218
-11.55a[54Ma] anṛtaṃ ca samutkarṣe rājagāmi ca paiśunam |  
-11.55c[54Mc] guroś cālīka.nirbandhaḥ samāni brahmahatyayā || 55 ||  
+# ११।१।४। चतेगोरिएस् ओड़् सिन्
+ \[ओ\]  एद्न् ८४७-८५०,  \[ओ\]  त्र्। २१७-२१८
+ ११।१।४।१। ग्रिएवोउस् सिन्स् चौसिन्ग् लोस्स् ओड़् चस्ते
+ \[ओ\]  एद्न् ८४७-८४८,  \[ओ\]  त्र्। २१७-२१८
+११।५५अ[५४म] अनृतं च समुत्कर्षे राजगामि च पैशुनम् ।  
+११।५५च्[५४म्च्] गुरोश् चालीक।निर्बन्धः समानि ब्रह्महत्यया ॥ ५५ ॥  
 
 
-11.56a[55Ma] brahma.ujjhatā vedanindā kauṭasākṣyaṃ suhṛdvadhaḥ |  
-11.56c[55Mc] garhita.anādyayor jagdhiḥ surāpānasamāni ṣaṭ || 56 ||  
+११।५६अ[५५म] ब्रह्म।उज्झता वेदनिन्दा कौटसाक्ष्यं सुहृद्वधः ।  
+११।५६च्[५५म्च्] गर्हित।अनाद्ययोर् जग्धिः सुरापानसमानि षट् ॥ ५६ ॥  
 
 
-11.57a[56Ma] nikṣepasya-apaharaṇaṃ nara.aśva.rajatasya ca |  
-11.57c[56Mc] bhūmi.vajra.maṇīnāṃ ca rukmasteyasamaṃ smṛtam || 57 ||  
+११।५७अ[५६म] निक्षेपस्य-अपहरणं नर।अश्व।रजतस्य च ।  
+११।५७च्[५६म्च्] भूमि।वज्र।मणीनां च रुक्मस्तेयसमं स्मृतम् ॥ ५७ ॥  
 
 
-11.58a[57Ma] retaḥsekaḥ svayonīṣu kumārīṣv antyajāsu ca |  
-11.58c[57Mc] sakhyuḥ putrasya ca strīṣu gurutalpasamaṃ viduḥ || 58 ||  
+११।५८अ[५७म] रेतःसेकः स्वयोनीषु कुमारीष्व् अन्त्यजासु च ।  
+११।५८च्[५७म्च्] सख्युः पुत्रस्य च स्त्रीषु गुरुतल्पसमं विदुः ॥ ५८ ॥  
 
 
-11.59a[58Ma] govadho 'yājya.saṃyājyaṃ pāradārya.ātmavikrayaḥ |  
-11.59c[58Mc] guru.mātṛ.pitṛ.tyāgaḥ svādhyāya.agnyoḥ sutasya ca || 59 ||  
+११।५९अ[५८म] गोवधो ऽयाज्य।संयाज्यं पारदार्य।आत्मविक्रयः ।  
+११।५९च्[५८म्च्] गुरु।मातृ।पितृ।त्यागः स्वाध्याय।अग्न्योः सुतस्य च ॥ ५९ ॥  
 
 
- 11.1.4.2. Secondary Sins Causing Loss of Caste
- \[O\]  edn 848-849,  \[O\]  tr. 218
-11.60a[59Ma] parivittitā-anuje 'nūḍhe parivedanam eva ca |  
-11.60c[59Mc] tayor dānaṃ ca kanyāyās tayor eva ca yājanam || 60 ||  
+ ११।१।४।२। सेचोन्दर्य् सिन्स् चौसिन्ग् लोस्स् ओड़् चस्ते
+ \[ओ\]  एद्न् ८४८-८४९,  \[ओ\]  त्र्। २१८
+११।६०अ[५९म] परिवित्तिता-अनुजे ऽनूढे परिवेदनम् एव च ।  
+११।६०च्[५९म्च्] तयोर् दानं च कन्यायास् तयोर् एव च याजनम् ॥ ६० ॥  
 
 
-11.61a[60Ma] kanyāyā dūṣaṇaṃ ca-eva vārdhuṣyaṃ vratalopanam |  
-11.61c[60Mc] taḍāga.ārāma.dārāṇām apatyasya ca vikrayaḥ || 61 ||  
+११।६१अ[६०म] कन्याया दूषणं च-एव वार्धुष्यं व्रतलोपनम् ।  
+११।६१च्[६०म्च्] तडाग।आराम।दाराणाम् अपत्यस्य च विक्रयः ॥ ६१ ॥  
 
 
-11.62a[61Ma] vrātyatā bāndhavatyāgo bhṛtyādhyāpanam eva ca |  
-11.62c[61Mc] bhṛtyā ca-adhyayanādānam apaṇyānāṃ ca vikrayaḥ || 62 || 11.62c[61Mc]v/  \[M\] : “bhṛtāc ca-adhyayanādānam”  
+११।६२अ[६१म] व्रात्यता बान्धवत्यागो भृत्याध्यापनम् एव च ।  
+११।६२च्[६१म्च्] भृत्या च-अध्ययनादानम् अपण्यानां च विक्रयः ॥ ६२ ॥ ११।६२च्[६१म्च्]व्।  \[म्\] : “भृताच् च-अध्ययनादानम्”  
 
 
-11.63a[62Ma] sarvākāreṣv adhīkāro mahāyantrapravartanam |  
-11.63c[62Mc] hiṃsā-oṣadhīnāṃ stri.ājīvo 'bhicāro mūlakarma ca || 63 ||  
+११।६३अ[६२म] सर्वाकारेष्व् अधीकारो महायन्त्रप्रवर्तनम् ।  
+११।६३च्[६२म्च्] हिंसा-ओषधीनां स्त्रि।आजीवो ऽभिचारो मूलकर्म च ॥ ६३ ॥  
 
 
-11.64a[63Ma] indhanārtham aśuṣkāṇāṃ drumāṇām avapātanam |  
-11.64c[63Mc] ātmārthaṃ ca kriyārambho ninditānnādanaṃ tathā || 64 ||  
+११।६४अ[६३म] इन्धनार्थम् अशुष्काणां द्रुमाणाम् अवपातनम् ।  
+११।६४च्[६३म्च्] आत्मार्थं च क्रियारम्भो निन्दितान्नादनं तथा ॥ ६४ ॥  
 
 
-11.65a[64Ma] anāhitāgnitā steyam ṛṇānām anapakriyā |  
-11.65c[64Mc] asat.śāṣtrādhigamanaṃ kauśīlavyasya ca kriyā || 65 ||  
+११।६५अ[६४म] अनाहिताग्निता स्तेयम् ऋणानाम् अनपक्रिया ।  
+११।६५च्[६४म्च्] असत्।शाष्त्राधिगमनं कौशीलव्यस्य च क्रिया ॥ ६५ ॥  
 
 
-11.66a[65Ma] dhānya.kupya.paśusteyaṃ madyapastrīniṣevaṇam |  
-11.66c[65Mc] strī.śūdra.viś.kṣatravadho nāstikyaṃ ca-upapātakam || 66 ||  
+११।६६अ[६५म] धान्य।कुप्य।पशुस्तेयं मद्यपस्त्रीनिषेवणम् ।  
+११।६६च्[६५म्च्] स्त्री।शूद्र।विश्।क्षत्रवधो नास्तिक्यं च-उपपातकम् ॥ ६६ ॥  
 
 
-11.67a[66Ma] brāhmaṇasya rujaḥ kṛtvā ghrātir aghreya.madyayoḥ | 11.67a[66Ma]v/  \[M\] : “rujaḥkṛtyaṃ”  
-11.67c[66Mc] jaihmyaṃ ca maithunaṃ puṃsi jātibhraṃśakaraṃ smṛtam || 67 ||  
+११।६७अ[६६म] ब्राह्मणस्य रुजः कृत्वा घ्रातिर् अघ्रेय।मद्ययोः । ११।६७अ[६६म]व्।  \[म्\] : “रुजःकृत्यं”  
+११।६७च्[६६म्च्] जैह्म्यं च मैथुनं पुंसि जातिभ्रंशकरं स्मृतम् ॥ ६७ ॥  
 
 
- 11.1.4.3. Further Categories of Sin
- \[O\]  edn 849-850,  \[O\]  tr. 218
-11.68a[67Ma] khara.aśva.uṣṭra.mṛga.ibhānām aja.āvikavadhas tathā |  
-11.68c[67Mc] saṅkarīkaraṇaṃ jñeyaṃ mīna.ahi.mahiṣasya ca || 68 ||  
+ ११।१।४।३। ड़ुर्थेर् चतेगोरिएस् ओड़् सिन्
+ \[ओ\]  एद्न् ८४९-८५०,  \[ओ\]  त्र्। २१८
+११।६८अ[६७म] खर।अश्व।उष्ट्र।मृग।इभानाम् अज।आविकवधस् तथा ।  
+११।६८च्[६७म्च्] सङ्करीकरणं ज्ञेयं मीन।अहि।महिषस्य च ॥ ६८ ॥  
 
 
-11.69a[68Ma] ninditebhyo dhanādānaṃ vāṇijyaṃ śūdrasevanam |  
-11.69c[68Mc] apātrīkaraṇaṃ jñeyam asatyasya ca bhāṣaṇam || 69 ||  
+११।६९अ[६८म] निन्दितेभ्यो धनादानं वाणिज्यं शूद्रसेवनम् ।  
+११।६९च्[६८म्च्] अपात्रीकरणं ज्ञेयम् असत्यस्य च भाषणम् ॥ ६९ ॥  
 
 
-11.70a[69Ma] kṛmi.kīṭa.vayo.hatyā madyānugatabhojanam |  
-11.70c[69Mc] phala.edhaḥ.kusuma.steyam adhairyaṃ ca malāvaham || 70 ||  
+११।७०अ[६९म] कृमि।कीट।वयो।हत्या मद्यानुगतभोजनम् ।  
+११।७०च्[६९म्च्] फल।एधः।कुसुम।स्तेयम् अधैर्यं च मलावहम् ॥ ७० ॥  
 
 
-11.71a[70Ma] etāny enāṃsi sarvāṇi yathā.uktāni pṛthak pṛthak |  
-11.71c[70Mc] yair yair vratair apohyante tāni samyaṅ nibodhata || 71 ||  
+११।७१अ[७०म] एतान्य् एनांसि सर्वाणि यथा।उक्तानि पृथक् पृथक् ।  
+११।७१च्[७०म्च्] यैर् यैर् व्रतैर् अपोह्यन्ते तानि सम्यङ् निबोधत ॥ ७१ ॥  
 
 
-11.72a[71Ma] brahmahā dvādaśa samāḥ kuṭīṃ kṛtvā vane vaset |  
-11.72c[71Mc] bhaikṣāśy ātmaviśuddhyarthaṃ kṛtvā śavaśiro dhvajam || 72 ||  
+११।७२अ[७१म] ब्रह्महा द्वादश समाः कुटीं कृत्वा वने वसेत् ।  
+११।७२च्[७१म्च्] भैक्षाश्य् आत्मविशुद्ध्यर्थं कृत्वा शवशिरो ध्वजम् ॥ ७२ ॥  
 
 
-# 11.1.5. Penances for Grievous Sins Causing Loss of Caste
- \[O\]  edn 850-857,  \[O\]  tr. 218-220
- 11.1.5.1. Killing a Brahmin
- \[O\]  edn 850-853,  \[O\]  tr. 218-219
-11.73a[72Ma] lakṣyaṃ śastrabhṛtāṃ vā syād viduṣām icchayā-ātmanaḥ |  
-11.73c[72Mc] prāsyed ātmānam agnau vā samiddhe trir avāk.śirāḥ || 73 ||  
+# ११।१।५। पेनन्चेस् ड़ोर् ग्रिएवोउस् सिन्स् चौसिन्ग् लोस्स् ओड़् चस्ते
+ \[ओ\]  एद्न् ८५०-८५७,  \[ओ\]  त्र्। २१८-२२०
+ ११।१।५।१। किल्लिन्ग् अ ब्रह्मिन्
+ \[ओ\]  एद्न् ८५०-८५३,  \[ओ\]  त्र्। २१८-२१९
+११।७३अ[७२म] लक्ष्यं शस्त्रभृतां वा स्याद् विदुषाम् इच्छया-आत्मनः ।  
+११।७३च्[७२म्च्] प्रास्येद् आत्मानम् अग्नौ वा समिद्धे त्रिर् अवाक्।शिराः ॥ ७३ ॥  
 
 
-11.74a[73Ma] yajeta vā-aśvamedhena svarjitā gosavena vā |  
-11.74c[73Mc] abhijid.viśvajidbhyāṃ vā trivṛtā-agniṣṭutā-api vā || 74 ||  
+११।७४अ[७३म] यजेत वा-अश्वमेधेन स्वर्जिता गोसवेन वा ।  
+११।७४च्[७३म्च्] अभिजिद्।विश्वजिद्भ्यां वा त्रिवृता-अग्निष्टुता-अपि वा ॥ ७४ ॥  
 
 
-11.75a[74Ma] japan vā-anyatamaṃ vedaṃ yojanānāṃ śataṃ vrajet |  
-11.75c[74Mc] brahmahatyāpanodāya mitabhuj-niyata.indriyaḥ || 75 ||  
+११।७५अ[७४म] जपन् वा-अन्यतमं वेदं योजनानां शतं व्रजेत् ।  
+११।७५च्[७४म्च्] ब्रह्महत्यापनोदाय मितभुज्-नियत।इन्द्रियः ॥ ७५ ॥  
 
 
-11.76a[75Ma] sarvasvaṃ vedaviduṣe brāhmaṇāya-upapādayet |  
-11.76c[75Mc] dhanaṃ hi jīvanāya-alaṃ gṛhaṃ vā sa.paricchadam || 76 ||  
+११।७६अ[७५म] सर्वस्वं वेदविदुषे ब्राह्मणाय-उपपादयेत् ।  
+११।७६च्[७५म्च्] धनं हि जीवनाय-अलं गृहं वा स।परिच्छदम् ॥ ७६ ॥  
 
 
-11.77a[76Ma] haviṣyabhug vā-anusaret pratisrotaḥ sarasvatīm |  
-11.77c[76Mc] japed vā niyata.āhāras trir vai vedasya saṃhitām || 77 ||  
+११।७७अ[७६म] हविष्यभुग् वा-अनुसरेत् प्रतिस्रोतः सरस्वतीम् ।  
+११।७७च्[७६म्च्] जपेद् वा नियत।आहारस् त्रिर् वै वेदस्य संहिताम् ॥ ७७ ॥  
 
 
-11.78a[77Ma] kṛta.vāpano nivased grāmānte govraje 'pi vā |  
-11.78c[77Mc] āśrame vṛkṣamūle vā go.brāhmaṇahite rataḥ || 78 ||  
+११।७८अ[७७म] कृत।वापनो निवसेद् ग्रामान्ते गोव्रजे ऽपि वा ।  
+११।७८च्[७७म्च्] आश्रमे वृक्षमूले वा गो।ब्राह्मणहिते रतः ॥ ७८ ॥  
 
 
-11.79a[78Ma] brāhmaṇārthe gavārthe vā sadyaḥ prāṇān parityajet | 11.79a[78Ma]v/  \[M\] : “saṃyak prāṇān”  
-11.79c[78Mc] mucyate brahmahatyāyā goptā gor brāhmaṇasya ca || 79 ||  
+११।७९अ[७८म] ब्राह्मणार्थे गवार्थे वा सद्यः प्राणान् परित्यजेत् । ११।७९अ[७८म]व्।  \[म्\] : “संयक् प्राणान्”  
+११।७९च्[७८म्च्] मुच्यते ब्रह्महत्याया गोप्ता गोर् ब्राह्मणस्य च ॥ ७९ ॥  
 
 
-11.80a[79Ma] trivāraṃ pratiroddhā vā sarvasvam avajitya vā | 11.80a[79Ma]v/  \[M\] : “tryavaraṃ”  
-11.80c[79Mc] viprasya tannimitte vā prāṇālābhe vimucyate || 80 || 11.80c[79Mc]v/  \[M\] : “prāṇālābhe 'pi mucyate”  
+११।८०अ[७९म] त्रिवारं प्रतिरोद्धा वा सर्वस्वम् अवजित्य वा । ११।८०अ[७९म]व्।  \[म्\] : “त्र्यवरं”  
+११।८०च्[७९म्च्] विप्रस्य तन्निमित्ते वा प्राणालाभे विमुच्यते ॥ ८० ॥ ११।८०च्[७९म्च्]व्।  \[म्\] : “प्राणालाभे ऽपि मुच्यते”  
 
 
-11.81a[80Ma] evaṃ dṛḍha.vrato nityaṃ brahmacārī samāhitaḥ |  
-11.81c[80Mc] samāpte dvādaśe varṣe brahmahatyām vyapohati || 81 ||  
+११।८१अ[८०म] एवं दृढ।व्रतो नित्यं ब्रह्मचारी समाहितः ।  
+११।८१च्[८०म्च्] समाप्ते द्वादशे वर्षे ब्रह्महत्याम् व्यपोहति ॥ ८१ ॥  
 
 
-11.82a[81Ma] śiṣṭvā vā bhūmidevānāṃ naradevasamāgame |  
-11.82c[81Mc] svam eno 'vabhṛthasnāto hayamedhe vimucyate || 82 ||  
+११।८२अ[८१म] शिष्ट्वा वा भूमिदेवानां नरदेवसमागमे ।  
+११।८२च्[८१म्च्] स्वम् एनो ऽवभृथस्नातो हयमेधे विमुच्यते ॥ ८२ ॥  
 
 
-11.83a[82Ma] dharmasya brāhmaṇo mūlam agraṃ rājanya ucyate |  
-11.83c[82Mc] tasmāt samāgame teṣām eno vikhyāpya śudhyati || 83 ||  
+११।८३अ[८२म] धर्मस्य ब्राह्मणो मूलम् अग्रं राजन्य उच्यते ।  
+११।८३च्[८२म्च्] तस्मात् समागमे तेषाम् एनो विख्याप्य शुध्यति ॥ ८३ ॥  
 
 
-11.84a[83Ma] brahmaṇaḥ sambhavena-eva devānām api daivatam |  
-11.84c[83Mc] pramāṇaṃ ca-eva lokasya brahmātra-eva hi kāraṇam || 84 ||  
+११।८४अ[८३म] ब्रह्मणः सम्भवेन-एव देवानाम् अपि दैवतम् ।  
+११।८४च्[८३म्च्] प्रमाणं च-एव लोकस्य ब्रह्मात्र-एव हि कारणम् ॥ ८४ ॥  
 
 
-11.85a[84Ma] teṣāṃ vedavido brūyus trayo 'py enaḥ suniṣkṛtim |  
-11.85c[84Mc] sā teṣāṃ pāvanāya syāt pavitrā viduṣāṃ hi vāk || 85 || 11.85c[84Mc]v/  \[M\] : “pavitraṃ”  
+११।८५अ[८४म] तेषां वेदविदो ब्रूयुस् त्रयो ऽप्य् एनः सुनिष्कृतिम् ।  
+११।८५च्[८४म्च्] सा तेषां पावनाय स्यात् पवित्रा विदुषां हि वाक् ॥ ८५ ॥ ११।८५च्[८४म्च्]व्।  \[म्\] : “पवित्रं”  
 
 
-11.86a[85Ma] ato 'nyatamam āsthāya vidhiṃ vipraḥ samāhitaḥ |  
-11.86c[85Mc] brahmahatyākṛtaṃ pāpaṃ vyapohaty ātmavattayā || 86 ||  
+११।८६अ[८५म] अतो ऽन्यतमम् आस्थाय विधिं विप्रः समाहितः ।  
+११।८६च्[८५म्च्] ब्रह्महत्याकृतं पापं व्यपोहत्य् आत्मवत्तया ॥ ८६ ॥  
 
 
-11.87a[86Ma] hatvā garbham avijñātam etad eva vrataṃ caret |  
-11.87c[86Mc] rājanya.vaiśyau ca-ījānāv ātreyīm eva ca striyam || 87 ||  
+११।८७अ[८६म] हत्वा गर्भम् अविज्ञातम् एतद् एव व्रतं चरेत् ।  
+११।८७च्[८६म्च्] राजन्य।वैश्यौ च-ईजानाव् आत्रेयीम् एव च स्त्रियम् ॥ ८७ ॥  
 
 
-11.88a[87Ma] uktvā ca-eva-anṛtaṃ sākṣye pratirudhya guruṃ tathā | 11.88a[87Ma]v/  \[M\] : “pratirabhya”  
-11.88c[87Mc] apahṛtya ca niḥkṣepaṃ kṛtvā ca strī.suhṛt.vadham || 88 || 11.88c[87Mc]v/  \[M\] : “nikṣepaṃ”  
+११।८८अ[८७म] उक्त्वा च-एव-अनृतं साक्ष्ये प्रतिरुध्य गुरुं तथा । ११।८८अ[८७म]व्।  \[म्\] : “प्रतिरभ्य”  
+११।८८च्[८७म्च्] अपहृत्य च निःक्षेपं कृत्वा च स्त्री।सुहृत्।वधम् ॥ ८८ ॥ ११।८८च्[८७म्च्]व्।  \[म्\] : “निक्षेपं”  
 
 
-11.89a[88Ma] iyaṃ viśuddhir uditā pramāpya-akāmato dvijam |  
-11.89c[88Mc] kāmato brāhmaṇavadhe niṣkṛtir na vidhīyate || 89 ||  
+११।८९अ[८८म] इयं विशुद्धिर् उदिता प्रमाप्य-अकामतो द्विजम् ।  
+११।८९च्[८८म्च्] कामतो ब्राह्मणवधे निष्कृतिर् न विधीयते ॥ ८९ ॥  
 
 
-11.90a[89Ma] surāṃ pītvā dvijo mohād agni.varṇāṃ surāṃ pibet |  
-11.90c[89Mc] tayā sa kāye nirdagdhe mucyate kilbiṣāt tataḥ || 90 ||  
+११।९०अ[८९म] सुरां पीत्वा द्विजो मोहाद् अग्नि।वर्णां सुरां पिबेत् ।  
+११।९०च्[८९म्च्] तया स काये निर्दग्धे मुच्यते किल्बिषात् ततः ॥ ९० ॥  
 
 
- 11.1.5.2. Drinking Liquor
- \[O\]  edn 854-855,  \[O\]  tr. 219-220
-11.91a[90Ma] gomūtram agni.varṇaṃ vā pibed udakam eva vā |  
-11.91c[90Mc] payo ghṛtaṃ vā-ā maraṇād gośakṛdrasam eva vā || 91 ||  
+ ११।१।५।२। द्रिन्किन्ग् लिक़ुओर्
+ \[ओ\]  एद्न् ८५४-८५५,  \[ओ\]  त्र्। २१९-२२०
+११।९१अ[९०म] गोमूत्रम् अग्नि।वर्णं वा पिबेद् उदकम् एव वा ।  
+११।९१च्[९०म्च्] पयो घृतं वा-आ मरणाद् गोशकृद्रसम् एव वा ॥ ९१ ॥  
 
 
-11.92a[91Ma] kaṇān vā bhakṣayed abdaṃ piṇyākaṃ vā sakṛt-niśi |  
-11.92c[91Mc] surāpānāpanuttyarthaṃ vālavāsā jaṭī dhvajī || 92 ||  
+११।९२अ[९१म] कणान् वा भक्षयेद् अब्दं पिण्याकं वा सकृत्-निशि ।  
+११।९२च्[९१म्च्] सुरापानापनुत्त्यर्थं वालवासा जटी ध्वजी ॥ ९२ ॥  
 
 
-11.93a[92Ma] surā vai malam annānāṃ pāpmā ca malam ucyate |  
-11.93c[92Mc] tasmād brāhmaṇa.rājanyau vaiśyaś ca na surāṃ pibet || 93 ||  
+११।९३अ[९२म] सुरा वै मलम् अन्नानां पाप्मा च मलम् उच्यते ।  
+११।९३च्[९२म्च्] तस्माद् ब्राह्मण।राजन्यौ वैश्यश् च न सुरां पिबेत् ॥ ९३ ॥  
 
 
-11.94a[93Ma] gauḍī paiṣṭī ca mādhvī ca vijñeyā trividhā surā |  
-11.94c[93Mc] yathā-eva-ekā tathā sarvā na pātavyā dvijottamaiḥ || 94 ||  
+११।९४अ[९३म] गौडी पैष्टी च माध्वी च विज्ञेया त्रिविधा सुरा ।  
+११।९४च्[९३म्च्] यथा-एव-एका तथा सर्वा न पातव्या द्विजोत्तमैः ॥ ९४ ॥  
 
 
-11.95a[94Ma] yakṣa.rakṣaḥ.piśāca.annaṃ madyaṃ māṃsaṃ surāsavam |  
-11.95c[94Mc] tad brāhmaṇena na-attavyaṃ devānām aśnatā haviḥ || 95 ||  
+११।९५अ[९४म] यक्ष।रक्षः।पिशाच।अन्नं मद्यं मांसं सुरासवम् ।  
+११।९५च्[९४म्च्] तद् ब्राह्मणेन न-अत्तव्यं देवानाम् अश्नता हविः ॥ ९५ ॥  
 
 
-11.96a[95Ma] amedhye vā paten matto vaidikaṃ vā-apy udāharet |  
-11.96c[95Mc] akāryam anyat kuryād vā brāhmaṇo madamohitaḥ || 96 ||  
+११।९६अ[९५म] अमेध्ये वा पतेन् मत्तो वैदिकं वा-अप्य् उदाहरेत् ।  
+११।९६च्[९५म्च्] अकार्यम् अन्यत् कुर्याद् वा ब्राह्मणो मदमोहितः ॥ ९६ ॥  
 
 
-11.97a[96Ma] yasya kāyagataṃ brahma madyena-āplāvyate sakṛt |  
-11.97c[96Mc] tasya vyapaiti brāhmaṇyaṃ śūdratvaṃ ca sa gacchati || 97 ||  
+११।९७अ[९६म] यस्य कायगतं ब्रह्म मद्येन-आप्लाव्यते सकृत् ।  
+११।९७च्[९६म्च्] तस्य व्यपैति ब्राह्मण्यं शूद्रत्वं च स गच्छति ॥ ९७ ॥  
 
 
-11.98a[97Ma] eṣā vicitrābhihitā surāpānasya niṣkṛtiḥ |  
-11.98c[97Mc] ata ūrdhvaṃ pravakṣyāmi suvarṇasteyaniṣkṛtim || 98 ||  
+११।९८अ[९७म] एषा विचित्राभिहिता सुरापानस्य निष्कृतिः ।  
+११।९८च्[९७म्च्] अत ऊर्ध्वं प्रवक्ष्यामि सुवर्णस्तेयनिष्कृतिम् ॥ ९८ ॥  
 
 
-11.99a[98Ma] suvarṇasteyakṛd vipro rājānam abhigamya tu |  
-11.99c[98Mc] svakarma khyāpayan brūyāt-māṃ bhavān anuśāstv iti || 99 ||  
+११।९९अ[९८म] सुवर्णस्तेयकृद् विप्रो राजानम् अभिगम्य तु ।  
+११।९९च्[९८म्च्] स्वकर्म ख्यापयन् ब्रूयात्-मां भवान् अनुशास्त्व् इति ॥ ९९ ॥  
 
 
- 11.1.5.3. Stealing Gold
- \[O\]  edn 855-856,  \[O\]  tr. 220
-11.100a[99Ma] gṛhītvā musalaṃ rājā sakṛdd hanyāt tu taṃ svayam |  
-11.100c[99Mc] vadhena śudhyati steno brāhmaṇas tapasā-eva tu || 100 ||  
+ ११।१।५।३। स्तेअलिन्ग् गोल्द्
+ \[ओ\]  एद्न् ८५५-८५६,  \[ओ\]  त्र्। २२०
+११।१००अ[९९म] गृहीत्वा मुसलं राजा सकृद्द् हन्यात् तु तं स्वयम् ।  
+११।१००च्[९९म्च्] वधेन शुध्यति स्तेनो ब्राह्मणस् तपसा-एव तु ॥ १०० ॥  
 
 
-11.101a[100Ma] tapasāpanunutsus tu suvarṇasteyajaṃ malam |  
-11.101c[100Mc] cīravāsā dvijo 'raṇye cared brahmahaṇo vratam || 101 ||  
+११।१०१अ[१००म] तपसापनुनुत्सुस् तु सुवर्णस्तेयजं मलम् ।  
+११।१०१च्[१००म्च्] चीरवासा द्विजो ऽरण्ये चरेद् ब्रह्महणो व्रतम् ॥ १०१ ॥  
 
 
-11.102a[101Ma] etair vratair apoheta pāpaṃ steyakṛtaṃ dvijaḥ |  
-11.102c[101Mc] gurustrīgamanī-iyaṃ tu vratair ebhir apānudet || 102 ||  
+११।१०२अ[१०१म] एतैर् व्रतैर् अपोहेत पापं स्तेयकृतं द्विजः ।  
+११।१०२च्[१०१म्च्] गुरुस्त्रीगमनी-इयं तु व्रतैर् एभिर् अपानुदेत् ॥ १०२ ॥  
 
 
-11.103a[102Ma] gurutalpy abhibhāṣya-enas tapte svapyād ayomaye | 11.103a[102Ma]v/  \[M\] : “talpe svapyād”  
-11.103c[102Mc] sūrmīṃ jvalantīṃ svāśliṣyen mṛtyunā sa viśudhyati || 103 || 11.103c[102Mc]v/  \[M\] : “vā-āśliṣyen”  
+११।१०३अ[१०२म] गुरुतल्प्य् अभिभाष्य-एनस् तप्ते स्वप्याद् अयोमये । ११।१०३अ[१०२म]व्।  \[म्\] : “तल्पे स्वप्याद्”  
+११।१०३च्[१०२म्च्] सूर्मीं ज्वलन्तीं स्वाश्लिष्येन् मृत्युना स विशुध्यति ॥ १०३ ॥ ११।१०३च्[१०२म्च्]व्।  \[म्\] : “वा-आश्लिष्येन्”  
 
 
- 11.1.5.4. Sex with an Elder's Wife
- \[O\]  edn 856-857,  \[O\]  tr. 220
-11.104a[103Ma] svayaṃ vā śiṣṇa.vṛṣaṇāv utkṛtya-ādhāya ca-añjalau |  
-11.104c[103Mc] nairṛtīṃ diśam ātiṣṭhed ā nipātād ajihmagaḥ || 104 ||  
+ ११।१।५।४। सेx wइथ् अन् एल्देर्ऽस् Wइड़े
+ \[ओ\]  एद्न् ८५६-८५७,  \[ओ\]  त्र्। २२०
+११।१०४अ[१०३म] स्वयं वा शिष्ण।वृषणाव् उत्कृत्य-आधाय च-अञ्जलौ ।  
+११।१०४च्[१०३म्च्] नैरृतीं दिशम् आतिष्ठेद् आ निपाताद् अजिह्मगः ॥ १०४ ॥  
 
 
-11.105a[104Ma] khaṭvāṅgī cīra.vāsā vā śmaśrulo vijane vane |  
-11.105c[104Mc] prājāpatyaṃ caret kṛcchram abdam ekaṃ samāhitaḥ || 105 ||  
+११।१०५अ[१०४म] खट्वाङ्गी चीर।वासा वा श्मश्रुलो विजने वने ।  
+११।१०५च्[१०४म्च्] प्राजापत्यं चरेत् कृच्छ्रम् अब्दम् एकं समाहितः ॥ १०५ ॥  
 
 
-11.106a[105Ma] cāndrāyaṇaṃ vā trīn māsān abhyasyen niyata.indriyaḥ |  
-11.106c[105Mc] haviṣyeṇa yavāgvā vā gurutalpāpanuttaye || 106 ||  
+११।१०६अ[१०५म] चान्द्रायणं वा त्रीन् मासान् अभ्यस्येन् नियत।इन्द्रियः ।  
+११।१०६च्[१०५म्च्] हविष्येण यवाग्वा वा गुरुतल्पापनुत्तये ॥ १०६ ॥  
 
 
-11.107a[106Ma] etair vratair apoheyur mahāpātakino malam |  
-11.107c[106Mc] upapātakinas tv evam ebhir nānāvidhair vrataiḥ || 107 ||  
+११।१०७अ[१०६म] एतैर् व्रतैर् अपोहेयुर् महापातकिनो मलम् ।  
+११।१०७च्[१०६म्च्] उपपातकिनस् त्व् एवम् एभिर् नानाविधैर् व्रतैः ॥ १०७ ॥  
 
 
-11.108a[107Ma] upapātakasaṃyukto goghno māsaṃ yavān pibet |  
-11.108c[107Mc] kṛta.vāpo vased goṣṭhe carmaṇā tena saṃvṛtaḥ || 108 ||  
+११।१०८अ[१०७म] उपपातकसंयुक्तो गोघ्नो मासं यवान् पिबेत् ।  
+११।१०८च्[१०७म्च्] कृत।वापो वसेद् गोष्ठे चर्मणा तेन संवृतः ॥ १०८ ॥  
 
 
-# 11.1.6. Penances for Secondary Sins Causing Loss of Caste
- \[O\]  edn 857-860,  \[O\]  tr. 220-221
- 11.1.6.1. Killing a Cow
- \[O\]  edn 857-859,  \[O\]  tr. 220-221
-11.109a[108Ma] caturthakālam aśnīyād a.kṣāra.lavaṇaṃ mitam |  
-11.109c[108Mc] gomūtreṇa-ācaret snānaṃ dvau māsau niyata.indriyaḥ || 109 ||  
+# ११।१।६। पेनन्चेस् ड़ोर् सेचोन्दर्य् सिन्स् चौसिन्ग् लोस्स् ओड़् चस्ते
+ \[ओ\]  एद्न् ८५७-८६०,  \[ओ\]  त्र्। २२०-२२१
+ ११।१।६।१। किल्लिन्ग् अ चोw
+ \[ओ\]  एद्न् ८५७-८५९,  \[ओ\]  त्र्। २२०-२२१
+११।१०९अ[१०८म] चतुर्थकालम् अश्नीयाद् अ।क्षार।लवणं मितम् ।  
+११।१०९च्[१०८म्च्] गोमूत्रेण-आचरेत् स्नानं द्वौ मासौ नियत।इन्द्रियः ॥ १०९ ॥  
 
 
-11.110a[109Ma] divā-anugacched gās tās tu tiṣṭhann ūrdhvaṃ rajaḥ pibet |  
-11.110c[109Mc] śuśrūṣitvā namaskṛtya rātrau vīrāsanaṃ vaset || 110 || 11.110c[109Mc]v/  \[M\] : “vīrāsano”  
+११।११०अ[१०९म] दिवा-अनुगच्छेद् गास् तास् तु तिष्ठन्न् ऊर्ध्वं रजः पिबेत् ।  
+११।११०च्[१०९म्च्] शुश्रूषित्वा नमस्कृत्य रात्रौ वीरासनं वसेत् ॥ ११० ॥ ११।११०च्[१०९म्च्]व्।  \[म्\] : “वीरासनो”  
 
 
-11.111a[110Ma] tiṣṭhantīṣv anutiṣṭhet tu vrajantīṣv apy anuvrajet |  
-11.111c[110Mc] āsīnāsu tathā-āsīno niyato vīta.matsaraḥ || 111 ||  
+११।१११अ[११०म] तिष्ठन्तीष्व् अनुतिष्ठेत् तु व्रजन्तीष्व् अप्य् अनुव्रजेत् ।  
+११।१११च्[११०म्च्] आसीनासु तथा-आसीनो नियतो वीत।मत्सरः ॥ १११ ॥  
 
 
-11.112a[111Ma] āturām abhiśastāṃ vā caura.vyāghrādibhir bhayaiḥ |  
-11.112c[111Mc] patitāṃ paṅkalagnaṃ vā sarva.upāyair vimocayet || 112 || 11.112c[111Mc]v/  \[K\] : “sarvaprāṇair”  
+११।११२अ[१११म] आतुराम् अभिशस्तां वा चौर।व्याघ्रादिभिर् भयैः ।  
+११।११२च्[१११म्च्] पतितां पङ्कलग्नं वा सर्व।उपायैर् विमोचयेत् ॥ ११२ ॥ ११।११२च्[१११म्च्]व्।  \[क्\] : “सर्वप्राणैर्”  
 
 
-11.113a[112Ma] uṣṇe varṣati śīte vā mārute vāti vā bhṛśam |  
-11.113c[112Mc] na kurvīta-ātmanas trāṇaṃ gor a.kṛtvā tu śaktitaḥ || 113 ||  
+११।११३अ[११२म] उष्णे वर्षति शीते वा मारुते वाति वा भृशम् ।  
+११।११३च्[११२म्च्] न कुर्वीत-आत्मनस् त्राणं गोर् अ।कृत्वा तु शक्तितः ॥ ११३ ॥  
 
 
-11.114a[113Ma] ātmano yadi vā-anyeṣāṃ gṛhe kṣetre 'tha vā khale |  
-11.114c[113Mc] bhakṣayantīṃ na kathayet pibantaṃ ca-eva vatsakam || 114 ||  
+११।११४अ[११३म] आत्मनो यदि वा-अन्येषां गृहे क्षेत्रे ऽथ वा खले ।  
+११।११४च्[११३म्च्] भक्षयन्तीं न कथयेत् पिबन्तं च-एव वत्सकम् ॥ ११४ ॥  
 
 
-11.115a[114Ma] anena vidhinā yas tu goghno gām anugacchati |  
-11.115c[114Mc] sa gohatyākṛtaṃ pāpaṃ tribhir māsair vyapohati || 115 ||  
+११।११५अ[११४म] अनेन विधिना यस् तु गोघ्नो गाम् अनुगच्छति ।  
+११।११५च्[११४म्च्] स गोहत्याकृतं पापं त्रिभिर् मासैर् व्यपोहति ॥ ११५ ॥  
 
 
-11.116a[115Ma] vṛṣabha.ekādaśā gāś ca dadyāt sucarita.vrataḥ |  
-11.116c[115Mc] a.vidyamāne sarvasvaṃ vedavidbhyo nivedayet || 116 ||  
+११।११६अ[११५म] वृषभ।एकादशा गाश् च दद्यात् सुचरित।व्रतः ।  
+११।११६च्[११५म्च्] अ।विद्यमाने सर्वस्वं वेदविद्भ्यो निवेदयेत् ॥ ११६ ॥  
 
 
-11.117a[116Ma] etad eva vrataṃ kuryur upapātakino dvijāḥ |  
-11.117c[116Mc] avakīrṇivarjyaṃ śuddhyarthaṃ cāndrāyaṇam atha-api vā || 117 || 11.117c[116Mc]v/  \[M\] : “avakīrṇivarjaṃ”  
+११।११७अ[११६म] एतद् एव व्रतं कुर्युर् उपपातकिनो द्विजाः ।  
+११।११७च्[११६म्च्] अवकीर्णिवर्ज्यं शुद्ध्यर्थं चान्द्रायणम् अथ-अपि वा ॥ ११७ ॥ ११।११७च्[११६म्च्]व्।  \[म्\] : “अवकीर्णिवर्जं”  
 
 
- 11.1.6.2. Other Secondary Sins
- \[O\]  edn 859,  \[O\]  tr. 221
-11.118a[117Ma] avakīrṇī tu kāṇena gardabhena catuṣpathe |  
-11.118c[117Mc] pākayajñavidhānena yajeta nirṛtiṃ niśi || 118 ||  
+ ११।१।६।२। ओथेर् सेचोन्दर्य् सिन्स्
+ \[ओ\]  एद्न् ८५९,  \[ओ\]  त्र्। २२१
+११।११८अ[११७म] अवकीर्णी तु काणेन गर्दभेन चतुष्पथे ।  
+११।११८च्[११७म्च्] पाकयज्ञविधानेन यजेत निरृतिं निशि ॥ ११८ ॥  
 
 
- 11.1.6.3. Student Breaking the Vow of Chastity
- \[O\]  edn 859-860,  \[O\]  tr. 221
-11.119a[118Ma] hutvā-agnau vidhivadd homān antataś ca sama-ity ṛcā |  
-11.119c[118Mc] vāta.indra.guru.vahnīnāṃ juhuyāt sarpiṣā-āhutīḥ || 119 ||  
+ ११।१।६।३। स्तुदेन्त् ब्रेअकिन्ग् थे वोw ओड़् छस्तित्य्
+ \[ओ\]  एद्न् ८५९-८६०,  \[ओ\]  त्र्। २२१
+११।११९अ[११८म] हुत्वा-अग्नौ विधिवद्द् होमान् अन्ततश् च सम-इत्य् ऋचा ।  
+११।११९च्[११८म्च्] वात।इन्द्र।गुरु।वह्नीनां जुहुयात् सर्पिषा-आहुतीः ॥ ११९ ॥  
 
 
-11.120a[119Ma] kāmato retasaḥ sekaṃ vratasthasya dvijanmanaḥ |  
-11.120c[119Mc] atikramaṃ vratasya-āhur dharmajñā brahmavādinaḥ || 120 ||  
+११।१२०अ[११९म] कामतो रेतसः सेकं व्रतस्थस्य द्विजन्मनः ।  
+११।१२०च्[११९म्च्] अतिक्रमं व्रतस्य-आहुर् धर्मज्ञा ब्रह्मवादिनः ॥ १२० ॥  
 
 
-11.121a[120Ma] mārutaṃ puruhūtaṃ ca guruṃ pāvakam eva ca |  
-11.121c[120Mc] caturo vratino 'bhyeti brāhmaṃ tejo 'vakīrṇinaḥ || 121 ||  
+११।१२१अ[१२०म] मारुतं पुरुहूतं च गुरुं पावकम् एव च ।  
+११।१२१च्[१२०म्च्] चतुरो व्रतिनो ऽभ्येति ब्राह्मं तेजो ऽवकीर्णिनः ॥ १२१ ॥  
 
 
-11.122a[121Ma] etasminn enasi prāpte vasitvā gardabhājinam |  
-11.122c[121Mc] saptāgārāṃś cared bhaikṣaṃ svakarma parikīrtayan || 122 ||  
+११।१२२अ[१२१म] एतस्मिन्न् एनसि प्राप्ते वसित्वा गर्दभाजिनम् ।  
+११।१२२च्[१२१म्च्] सप्तागारांश् चरेद् भैक्षं स्वकर्म परिकीर्तयन् ॥ १२२ ॥  
 
 
-11.123a[122Ma] tebhyo labdhena bhaikṣeṇa vartayann ekakālikam |  
-11.123c[122Mc] upaspṛśaṃs triṣavaṇaṃ tv abdena sa viśudhyati || 123 || 11.123c[122Mc]v/  \[M\] : “triṣavaṇam abdena”  
+११।१२३अ[१२२म] तेभ्यो लब्धेन भैक्षेण वर्तयन्न् एककालिकम् ।  
+११।१२३च्[१२२म्च्] उपस्पृशंस् त्रिषवणं त्व् अब्देन स विशुध्यति ॥ १२३ ॥ ११।१२३च्[१२२म्च्]व्।  \[म्\] : “त्रिषवणम् अब्देन”  
 
 
-11.124a[123Ma] jātibhraṃśakaraṃ karma kṛtvā-anyatamam icchayā |  
-11.124c[123Mc] caret sāntapanaṃ kṛcchraṃ prājāpatyam anicchayā || 124 ||  
+११।१२४अ[१२३म] जातिभ्रंशकरं कर्म कृत्वा-अन्यतमम् इच्छया ।  
+११।१२४च्[१२३म्च्] चरेत् सान्तपनं कृच्छ्रं प्राजापत्यम् अनिच्छया ॥ १२४ ॥  
 
 
-# 11.1.7. Penances for the Remaining Categories of Sins
- \[O\]  edn 860,  \[O\]  tr. 221
-11.125a[124Ma] saṅkara.apātrakṛtyāsu māsaṃ śodhanam aindavam | 11.125a[124Ma]v/  \[M\] : “aindavaḥ”  
-11.125c[124Mc] malinīkaraṇīyeṣu taptaḥ syād yāvakais tryaham || 125 ||  
+# ११।१।७। पेनन्चेस् ड़ोर् थे रेमैनिन्ग् चतेगोरिएस् ओड़् सिन्स्
+ \[ओ\]  एद्न् ८६०,  \[ओ\]  त्र्। २२१
+११।१२५अ[१२४म] सङ्कर।अपात्रकृत्यासु मासं शोधनम् ऐन्दवम् । ११।१२५अ[१२४म]व्।  \[म्\] : “ऐन्दवः”  
+११।१२५च्[१२४म्च्] मलिनीकरणीयेषु तप्तः स्याद् यावकैस् त्र्यहम् ॥ १२५ ॥  
 
 
-11.126a[125Ma] turīyo brahmahatyāyāḥ kṣatriyasya vadhe smṛtaḥ |  
-11.126c[125Mc] vaiśye 'ṣṭamāṃśo vṛttasthe śūdre jñeyas tu ṣoḍaśaḥ || 126 ||  
+११।१२६अ[१२५म] तुरीयो ब्रह्महत्यायाः क्षत्रियस्य वधे स्मृतः ।  
+११।१२६च्[१२५म्च्] वैश्ये ऽष्टमांशो वृत्तस्थे शूद्रे ज्ञेयस् तु षोडशः ॥ १२६ ॥  
 
 
-# 11.1.8. Excursus: Penances for Injury to Living Beings
- \[O\]  edn 860-864,  \[O\]  tr. 221-222
- 11.1.8.1. Homicide
- \[O\]  edn 860-861,  \[O\]  tr. 221-222
-11.127a[126Ma] akāmatas tu rājanyaṃ vinipātya dvijottamaḥ |  
-11.127c[126Mc] vṛṣabha.ekasahasrā gā dadyāt sucarita.vrataḥ || 127 ||  
+# ११।१।८। एxचुर्सुस्: पेनन्चेस् ड़ोर् इन्जुर्य् तो लिविन्ग् बेइन्ग्स्
+ \[ओ\]  एद्न् ८६०-८६४,  \[ओ\]  त्र्। २२१-२२२
+ ११।१।८।१। होमिचिदे
+ \[ओ\]  एद्न् ८६०-८६१,  \[ओ\]  त्र्। २२१-२२२
+११।१२७अ[१२६म] अकामतस् तु राजन्यं विनिपात्य द्विजोत्तमः ।  
+११।१२७च्[१२६म्च्] वृषभ।एकसहस्रा गा दद्यात् सुचरित।व्रतः ॥ १२७ ॥  
 
 
-11.128a[127Ma] tryabdaṃ cared vā niyato jaṭī brahmahaṇo vratam |  
-11.128c[127Mc] vasan dūratare grāmād vṛkṣamūla.niketanaḥ || 128 ||  
+११।१२८अ[१२७म] त्र्यब्दं चरेद् वा नियतो जटी ब्रह्महणो व्रतम् ।  
+११।१२८च्[१२७म्च्] वसन् दूरतरे ग्रामाद् वृक्षमूल।निकेतनः ॥ १२८ ॥  
 
 
-11.129a[128Ma] etad eva cared abdaṃ prāyaścittaṃ dvijottamaḥ |  
-11.129c[128Mc] pramāpya vaiśyaṃ vṛttasthaṃ dadyāc ca-ekaśataṃ || 129 || 11.129c[128Mc]v/  \[M\] : “dadyād vā-ekaśataṃ gavām”  
+११।१२९अ[१२८म] एतद् एव चरेद् अब्दं प्रायश्चित्तं द्विजोत्तमः ।  
+११।१२९च्[१२८म्च्] प्रमाप्य वैश्यं वृत्तस्थं दद्याच् च-एकशतं ॥ १२९ ॥ ११।१२९च्[१२८म्च्]व्।  \[म्\] : “दद्याद् वा-एकशतं गवाम्”  
 
 
-11.130a[129Ma] etad eva vrataṃ kṛtsnaṃ ṣaṇmāsān-śūdrahā caret |  
-11.130c[129Mc] vṛṣabha.ekādaśā vā-api dadyād viprāya gāḥ sitāḥ || 130 ||  
+११।१३०अ[१२९म] एतद् एव व्रतं कृत्स्नं षण्मासान्-शूद्रहा चरेत् ।  
+११।१३०च्[१२९म्च्] वृषभ।एकादशा वा-अपि दद्याद् विप्राय गाः सिताः ॥ १३० ॥  
 
 
-11.131a[130Ma] mārjāra.nakulau hatvā cāṣaṃ maṇḍūkam eva ca |  
-11.131c[130Mc] śva.godhā.ulūka.kākāṃś ca śūdrahatyāvrataṃ caret || 131 ||  
+११।१३१अ[१३०म] मार्जार।नकुलौ हत्वा चाषं मण्डूकम् एव च ।  
+११।१३१च्[१३०म्च्] श्व।गोधा।उलूक।काकांश् च शूद्रहत्याव्रतं चरेत् ॥ १३१ ॥  
 
 
- 11.1.8.2. Killing Animals
- \[O\]  edn 861-864,  \[O\]  tr. 222
-11.132a[131Ma] payaḥ pibet trirātraṃ vā yojanaṃ vā-adhvano vrajet |  
-11.132c[131Mc] upaspṛśet sravantyāṃ vā sūktaṃ vā-ab.daivataṃ japet || 132 ||  
+ ११।१।८।२। किल्लिन्ग् अनिमल्स्
+ \[ओ\]  एद्न् ८६१-८६४,  \[ओ\]  त्र्। २२२
+११।१३२अ[१३१म] पयः पिबेत् त्रिरात्रं वा योजनं वा-अध्वनो व्रजेत् ।  
+११।१३२च्[१३१म्च्] उपस्पृशेत् स्रवन्त्यां वा सूक्तं वा-अब्।दैवतं जपेत् ॥ १३२ ॥  
 
 
-11.133a[132Ma] abhriṃ kārṣṇāyasīṃ dadyāt sarpaṃ hatvā dvijottamaḥ |  
-11.133c[132Mc] palālabhārakaṃ ṣaṇḍhe saisakaṃ ca-ekamāṣakam || 133 ||  
+११।१३३अ[१३२म] अभ्रिं कार्ष्णायसीं दद्यात् सर्पं हत्वा द्विजोत्तमः ।  
+११।१३३च्[१३२म्च्] पलालभारकं षण्ढे सैसकं च-एकमाषकम् ॥ १३३ ॥  
 
 
-11.134a[133Ma] ghṛtakumbhaṃ varāhe tu tiladroṇaṃ tu tittirau |  
-11.134c[133Mc] śuke dvihāyanaṃ vatsaṃ krauñcaṃ hatvā trihāyanam || 134 ||  
+११।१३४अ[१३३म] घृतकुम्भं वराहे तु तिलद्रोणं तु तित्तिरौ ।  
+११।१३४च्[१३३म्च्] शुके द्विहायनं वत्सं क्रौञ्चं हत्वा त्रिहायनम् ॥ १३४ ॥  
 
 
-11.135a[134Ma] hatvā haṃsaṃ balākāṃ ca bakaṃ barhiṇam eva ca |  
-11.135c[134Mc] vānaraṃ śyena.bhāsau ca sparśayed brāhmaṇāya gām || 135 ||  
+११।१३५अ[१३४म] हत्वा हंसं बलाकां च बकं बर्हिणम् एव च ।  
+११।१३५च्[१३४म्च्] वानरं श्येन।भासौ च स्पर्शयेद् ब्राह्मणाय गाम् ॥ १३५ ॥  
 
 
-11.136a[135Ma] vāso dadyādd hayaṃ hatvā pañca nīlān vṛṣān gajam |  
-11.136c[135Mc] aja.meṣāv anaḍvāhaṃ kharaṃ hatvā-ekahāyanam || 136 ||  
+११।१३६अ[१३५म] वासो दद्याद्द् हयं हत्वा पञ्च नीलान् वृषान् गजम् ।  
+११।१३६च्[१३५म्च्] अज।मेषाव् अनड्वाहं खरं हत्वा-एकहायनम् ॥ १३६ ॥  
 
 
-11.137a[136Ma] kravyādāṃs tu mṛgān hatvā dhenuṃ dadyāt payasvinīm |  
-11.137c[136Mc] akravyādān vatsatarīm uṣṭraṃ hatvā tu kṛṣṇalam || 137 ||  
+११।१३७अ[१३६म] क्रव्यादांस् तु मृगान् हत्वा धेनुं दद्यात् पयस्विनीम् ।  
+११।१३७च्[१३६म्च्] अक्रव्यादान् वत्सतरीम् उष्ट्रं हत्वा तु कृष्णलम् ॥ १३७ ॥  
 
 
-11.138a[137Ma] jīna.kārmuka.basta.avīn pṛthag dadyād viśuddhaye |  
-11.138c[137Mc] caturṇām api varṇānāṃ nārīr hatvā-an.avasthitāḥ || 138 ||  
+११।१३८अ[१३७म] जीन।कार्मुक।बस्त।अवीन् पृथग् दद्याद् विशुद्धये ।  
+११।१३८च्[१३७म्च्] चतुर्णाम् अपि वर्णानां नारीर् हत्वा-अन्।अवस्थिताः ॥ १३८ ॥  
 
 
-11.139a[138Ma] dānena vadhanirṇekaṃ sarpādīnām a.śaknuvan |  
-11.139c[138Mc] ekaikaśaś caret kṛcchraṃ dvijaḥ pāpāpanuttaye || 139 ||  
+११।१३९अ[१३८म] दानेन वधनिर्णेकं सर्पादीनाम् अ।शक्नुवन् ।  
+११।१३९च्[१३८म्च्] एकैकशश् चरेत् कृच्छ्रं द्विजः पापापनुत्तये ॥ १३९ ॥  
 
 
-11.140a[139Ma] asthimatāṃ tu sattvānāṃ sahasrasya pramāpaṇe |  
-11.140c[139Mc] pūrṇe ca-anasy an.asthnāṃ tu śūdrahatyāvrataṃ caret || 140 ||  
+११।१४०अ[१३९म] अस्थिमतां तु सत्त्वानां सहस्रस्य प्रमापणे ।  
+११।१४०च्[१३९म्च्] पूर्णे च-अनस्य् अन्।अस्थ्नां तु शूद्रहत्याव्रतं चरेत् ॥ १४० ॥  
 
 
-11.141a[140Ma] kiṃ cid eva tu viprāya dadyād asthimatāṃ vadhe |  
-11.141c[140Mc] an.asthnāṃ ca-eva hiṃsāyāṃ prāṇāyāmena śudhyati || 141 ||  
+११।१४१अ[१४०म] किं चिद् एव तु विप्राय दद्याद् अस्थिमतां वधे ।  
+११।१४१च्[१४०म्च्] अन्।अस्थ्नां च-एव हिंसायां प्राणायामेन शुध्यति ॥ १४१ ॥  
 
 
-11.142a[141Ma] phaladānāṃ tu vṛkṣāṇāṃ chedane japyam ṛc.śatam |  
-11.142c[141Mc] gulma.vallī.latānāṃ ca puṣpitānāṃ ca vīrudhām || 142 ||  
+११।१४२अ[१४१म] फलदानां तु वृक्षाणां छेदने जप्यम् ऋच्।शतम् ।  
+११।१४२च्[१४१म्च्] गुल्म।वल्ली।लतानां च पुष्पितानां च वीरुधाम् ॥ १४२ ॥  
 
 
- 11.1.8.3. Injuring Vegetation
- \[O\]  edn 864,  \[O\]  tr. 222
-11.143a[142Ma] annādyajānāṃ sattvānāṃ rasajānāṃ ca sarvaśaḥ |  
-11.143c[142Mc] phala.puṣpa.udbhavānāṃ ca ghṛtaprāśo viśodhanam || 143 ||  
+ ११।१।८।३। इन्जुरिन्ग् वेगेततिओन्
+ \[ओ\]  एद्न् ८६४,  \[ओ\]  त्र्। २२२
+११।१४३अ[१४२म] अन्नाद्यजानां सत्त्वानां रसजानां च सर्वशः ।  
+११।१४३च्[१४२म्च्] फल।पुष्प।उद्भवानां च घृतप्राशो विशोधनम् ॥ १४३ ॥  
 
 
-11.144a[143Ma] kṛṣtajānām oṣadhīnāṃ jātānāṃ ca svayaṃ vane |  
-11.144c[143Mc] vṛthālambhe 'nugacched gāṃ dinam ekaṃ payo.vrataḥ || 144 ||  
+११।१४४अ[१४३म] कृष्तजानाम् ओषधीनां जातानां च स्वयं वने ।  
+११।१४४च्[१४३म्च्] वृथालम्भे ऽनुगच्छेद् गां दिनम् एकं पयो।व्रतः ॥ १४४ ॥  
 
 
-11.145a[144Ma] etair vratair apohyaṃ syād eno hiṃsā.samudbhavam |  
-11.145c[144Mc] jñāna.ajñānakṛtaṃ kṛtsnaṃ śṛṇuta-anādyabhakṣaṇe || 145 ||  
+११।१४५अ[१४४म] एतैर् व्रतैर् अपोह्यं स्याद् एनो हिंसा।समुद्भवम् ।  
+११।१४५च्[१४४म्च्] ज्ञान।अज्ञानकृतं कृत्स्नं शृणुत-अनाद्यभक्षणे ॥ १४५ ॥  
 
 
-11.146a[145Ma] ajñānād vāruṇīṃ pītvā saṃskāreṇa-eva śudhyati |  
-11.146c[145Mc] matipūrvam anirdeśyaṃ prāṇāntikam iti sthitiḥ || 146 ||  
+११।१४६अ[१४५म] अज्ञानाद् वारुणीं पीत्वा संस्कारेण-एव शुध्यति ।  
+११।१४६च्[१४५म्च्] मतिपूर्वम् अनिर्देश्यं प्राणान्तिकम् इति स्थितिः ॥ १४६ ॥  
 
 
-# 11.1.9. Excursus: Penances for Eating Forbidden Food
- \[O\]  edn 864-867,  \[O\]  tr. 222-223
-11.147a[146Ma] apaḥ surābhājanasthā madyabhāṇḍasthitās tathā |  
-11.147c[146Mc] pañcarātraṃ pibet pītvā śaṅkhapuṣpīśṛtaṃ payaḥ || 147 ||  
+# ११।१।९। एxचुर्सुस्: पेनन्चेस् ड़ोर् एअतिन्ग् ड़ोर्बिद्देन् ड़ोओद्
+ \[ओ\]  एद्न् ८६४-८६७,  \[ओ\]  त्र्। २२२-२२३
+११।१४७अ[१४६म] अपः सुराभाजनस्था मद्यभाण्डस्थितास् तथा ।  
+११।१४७च्[१४६म्च्] पञ्चरात्रं पिबेत् पीत्वा शङ्खपुष्पीशृतं पयः ॥ १४७ ॥  
 
 
-11.148a[147Ma] spṛṣṭva dattvā ca madirāṃ vidhivat pratigṛhya ca |  
-11.148c[147Mc] śūdra.ucchiṣṭāś ca pītvā-apaḥ kuśavāri pibet tryaham || 148 ||  
+११।१४८अ[१४७म] स्पृष्ट्व दत्त्वा च मदिरां विधिवत् प्रतिगृह्य च ।  
+११।१४८च्[१४७म्च्] शूद्र।उच्छिष्टाश् च पीत्वा-अपः कुशवारि पिबेत् त्र्यहम् ॥ १४८ ॥  
 
 
-11.149a[148Ma] brāhmaṇas tu surāpasya gandham āghrāya somapaḥ |  
-11.149c[148Mc] prāṇān apsu trir āyamya ghṛtaṃ prāśya viśudhyati || 149 ||  
+११।१४९अ[१४८म] ब्राह्मणस् तु सुरापस्य गन्धम् आघ्राय सोमपः ।  
+११।१४९च्[१४८म्च्] प्राणान् अप्सु त्रिर् आयम्य घृतं प्राश्य विशुध्यति ॥ १४९ ॥  
 
 
-11.150a[149Ma] ajñānāt prāśya viṣ.mūtraṃ surāsaṃspṛṣṭam eva ca |  
-11.150c[149Mc] punaḥ saṃskāram arhanti trayo varṇā dvijātayaḥ || 150 ||  
+११।१५०अ[१४९म] अज्ञानात् प्राश्य विष्।मूत्रं सुरासंस्पृष्टम् एव च ।  
+११।१५०च्[१४९म्च्] पुनः संस्कारम् अर्हन्ति त्रयो वर्णा द्विजातयः ॥ १५० ॥  
 
 
-11.151a[150Ma] vapanaṃ mekhalā daṇḍo bhaikṣacaryā vratāni ca | 11.151a[150Ma]v/  \[M\] : “bhaikṣyacaryā”  
-11.151c[150Mc] nivartante dvijātīnāṃ punaḥsaṃskārakarmaṇi || 151 ||  
+११।१५१अ[१५०म] वपनं मेखला दण्डो भैक्षचर्या व्रतानि च । ११।१५१अ[१५०म]व्।  \[म्\] : “भैक्ष्यचर्या”  
+११।१५१च्[१५०म्च्] निवर्तन्ते द्विजातीनां पुनःसंस्कारकर्मणि ॥ १५१ ॥  
 
 
-11.152a[151Ma] abhojyānāṃ tu bhuktvā-annaṃ strī.śūdra.ucchiṣṭam eva ca |  
-11.152c[151Mc] jagdhvā māṃsam abhakṣyaṃ ca saptarātraṃ yavān pibet || 152 ||  
+११।१५२अ[१५१म] अभोज्यानां तु भुक्त्वा-अन्नं स्त्री।शूद्र।उच्छिष्टम् एव च ।  
+११।१५२च्[१५१म्च्] जग्ध्वा मांसम् अभक्ष्यं च सप्तरात्रं यवान् पिबेत् ॥ १५२ ॥  
 
 
-11.153a[152Ma] śuktāni ca kaṣāyāṃś ca pītvā medhyāny api dvijaḥ |  
-11.153c[152Mc] tāvad bhavaty a.prayato yāvat tan na vrajaty adhaḥ || 153 ||  
+११।१५३अ[१५२म] शुक्तानि च कषायांश् च पीत्वा मेध्यान्य् अपि द्विजः ।  
+११।१५३च्[१५२म्च्] तावद् भवत्य् अ।प्रयतो यावत् तन् न व्रजत्य् अधः ॥ १५३ ॥  
 
 
-11.154a[153Ma] viḍvarāha.khara.uṣtrāṇāṃ gomāyoḥ kapi.kākayoḥ |  
-11.154c[153Mc] prāśya mūtra.purīṣāṇi dvijaś cāndrāyaṇaṃ caret || 154 ||  
+११।१५४अ[१५३म] विड्वराह।खर।उष्त्राणां गोमायोः कपि।काकयोः ।  
+११।१५४च्[१५३म्च्] प्राश्य मूत्र।पुरीषाणि द्विजश् चान्द्रायणं चरेत् ॥ १५४ ॥  
 
 
-11.155a[154Ma] śuṣkāṇi bhuktvā māṃsāni bhaumāni kavakāni ca |  
-11.155c[154Mc] ajñātaṃ ca-eva sūnāstham etad eva vrataṃ caret || 155 ||  
+११।१५५अ[१५४म] शुष्काणि भुक्त्वा मांसानि भौमानि कवकानि च ।  
+११।१५५च्[१५४म्च्] अज्ञातं च-एव सूनास्थम् एतद् एव व्रतं चरेत् ॥ १५५ ॥  
 
 
-11.156a[155Ma] kravyāda.sūkara.uṣṭrāṇāṃ kukkuṭānāṃ ca bhakṣaṇe |  
-11.156c[155Mc] nara.kāka.kharāṇāṃ ca taptakṛcchraṃ viśodhanam || 156 ||  
+११।१५६अ[१५५म] क्रव्याद।सूकर।उष्ट्राणां कुक्कुटानां च भक्षणे ।  
+११।१५६च्[१५५म्च्] नर।काक।खराणां च तप्तकृच्छ्रं विशोधनम् ॥ १५६ ॥  
 
 
-11.157a[156Ma] māsikānnaṃ tu yo 'śnīyād asamāvartako dvijaḥ |  
-11.157c[156Mc] sa trīṇy ahāny upavased ekāhaṃ ca-udake vaset || 157 ||  
+११।१५७अ[१५६म] मासिकान्नं तु यो ऽश्नीयाद् असमावर्तको द्विजः ।  
+११।१५७च्[१५६म्च्] स त्रीण्य् अहान्य् उपवसेद् एकाहं च-उदके वसेत् ॥ १५७ ॥  
 
 
-11.158a[157Ma] brahmacārī tu yo 'śnīyān madhu māṃsaṃ kathaṃ cana | 11.158a[157Ma]v/  \[M\] : “vratacārī tu”  
-11.158c[157Mc] sa kṛtvā prākṛtaṃ kṛcchraṃ vrataśeṣaṃ samāpayet || 158 ||  
+११।१५८अ[१५७म] ब्रह्मचारी तु यो ऽश्नीयान् मधु मांसं कथं चन । ११।१५८अ[१५७म]व्।  \[म्\] : “व्रतचारी तु”  
+११।१५८च्[१५७म्च्] स कृत्वा प्राकृतं कृच्छ्रं व्रतशेषं समापयेत् ॥ १५८ ॥  
 
 
-11.159a[158Ma] biḍāla.kāka.ākhu.ucchiṣṭaṃ jagdhvā śva.nakulasya ca |  
-11.159c[158Mc] keśa.kīṭāvapannaṃ ca pibed brahmasuvarcalām || 159 ||  
+११।१५९अ[१५८म] बिडाल।काक।आखु।उच्छिष्टं जग्ध्वा श्व।नकुलस्य च ।  
+११।१५९च्[१५८म्च्] केश।कीटावपन्नं च पिबेद् ब्रह्मसुवर्चलाम् ॥ १५९ ॥  
 
 
-11.160a[159Ma] abhojyam annaṃ na-attavyam ātmanaḥ śuddhim icchatā |  
-11.160c[159Mc] ajñānabhuktaṃ tu-uttāryaṃ śodhyaṃ vā-apy āśu śodhanaiḥ || 160 ||  
+११।१६०अ[१५९म] अभोज्यम् अन्नं न-अत्तव्यम् आत्मनः शुद्धिम् इच्छता ।  
+११।१६०च्[१५९म्च्] अज्ञानभुक्तं तु-उत्तार्यं शोध्यं वा-अप्य् आशु शोधनैः ॥ १६० ॥  
 
 
-11.161a[160Ma] eṣo 'nādya.adanasya-ukto vratānāṃ vividho vidhiḥ |  
-11.161c[160Mc] steyadoṣāpahartṝṇāṃ vratānāṃ śrūyatāṃ vidhiḥ || 161 ||  
+११।१६१अ[१६०म] एषो ऽनाद्य।अदनस्य-उक्तो व्रतानां विविधो विधिः ।  
+११।१६१च्[१६०म्च्] स्तेयदोषापहर्तॄणां व्रतानां श्रूयतां विधिः ॥ १६१ ॥  
 
 
-11.162a[161Ma] dhānya.anna.dhanacauryāṇi kṛtvā kāmād dvijottamaḥ |  
-11.162c[161Mc] svajātīyagṛhād eva kṛcchrābdena viśudhyati || 162 ||  
+११।१६२अ[१६१म] धान्य।अन्न।धनचौर्याणि कृत्वा कामाद् द्विजोत्तमः ।  
+११।१६२च्[१६१म्च्] स्वजातीयगृहाद् एव कृच्छ्राब्देन विशुध्यति ॥ १६२ ॥  
 
 
-# 11.1.10. Excursus: Penances for Theft
- \[O\]  edn 867-869,  \[O\]  tr. 223-224
-11.163a[162Ma] manuṣyāṇāṃ tu haraṇe strīṇāṃ kṣetra.gṛhasya ca |  
-11.163c[162Mc] kūpa.vāpījalānāṃ ca śuddhiś cāndrāyaṇaṃ smṛtam || 163 ||  
+# ११।१।१०। एxचुर्सुस्: पेनन्चेस् ड़ोर् थेड़्त्
+ \[ओ\]  एद्न् ८६७-८६९,  \[ओ\]  त्र्। २२३-२२४
+११।१६३अ[१६२म] मनुष्याणां तु हरणे स्त्रीणां क्षेत्र।गृहस्य च ।  
+११।१६३च्[१६२म्च्] कूप।वापीजलानां च शुद्धिश् चान्द्रायणं स्मृतम् ॥ १६३ ॥  
 
 
-11.164a[163Ma] dravyāṇām alpa.sārāṇāṃ steyaṃ kṛtvā-anyaveśmataḥ | 11.164a[163Ma]v/  \[M\] : “kṛtvā-anyaveśmani”  
-11.164c[163Mc] caret sāntapanaṃ kṛcchraṃ tan niryāty ātmaśuddhaye || 164 ||  
+११।१६४अ[१६३म] द्रव्याणाम् अल्प।साराणां स्तेयं कृत्वा-अन्यवेश्मतः । ११।१६४अ[१६३म]व्।  \[म्\] : “कृत्वा-अन्यवेश्मनि”  
+११।१६४च्[१६३म्च्] चरेत् सान्तपनं कृच्छ्रं तन् निर्यात्य् आत्मशुद्धये ॥ १६४ ॥  
 
 
-11.165a[164Ma] bhakṣya.bhojyāpaharaṇe yāna.śayyā.āsanasya ca |  
-11.165c[164Mc] puṣpa.mūla.phalānāṃ ca pañcagavyaṃ viśodhanam || 165 ||  
+११।१६५अ[१६४म] भक्ष्य।भोज्यापहरणे यान।शय्या।आसनस्य च ।  
+११।१६५च्[१६४म्च्] पुष्प।मूल।फलानां च पञ्चगव्यं विशोधनम् ॥ १६५ ॥  
 
 
-11.166a[165Ma] tṛṇa.kāṣṭha.drumāṇāṃ ca śuṣkānnasya guḍasya ca |  
-11.166c[165Mc] cela.carma.āmiṣāṇāṃ ca trirātraṃ syād abhojanam || 166 || 11.166c[165Mc]v/  \[M\] : “caila.carma.āmikṣāṇāṃ”  
+११।१६६अ[१६५म] तृण।काष्ठ।द्रुमाणां च शुष्कान्नस्य गुडस्य च ।  
+११।१६६च्[१६५म्च्] चेल।चर्म।आमिषाणां च त्रिरात्रं स्याद् अभोजनम् ॥ १६६ ॥ ११।१६६च्[१६५म्च्]व्।  \[म्\] : “चैल।चर्म।आमिक्षाणां”  
 
 
-11.167a[166Ma] maṇi.muktā.pravālānāṃ tāmrasya rajatasya ca |  
-11.167c[166Mc] ayaḥ.kāṃsya.upalānāṃ ca dvādaśāhaṃ kaṇānnatā || 167 ||  
+११।१६७अ[१६६म] मणि।मुक्ता।प्रवालानां ताम्रस्य रजतस्य च ।  
+११।१६७च्[१६६म्च्] अयः।कांस्य।उपलानां च द्वादशाहं कणान्नता ॥ १६७ ॥  
 
 
-11.168a[167Ma] kārpāsa.kīṭaja.ūrṇānāṃ dviśapha.ekaśaphasya ca | 11.168a[167Ma]v/  \[M\] : “dveśapha.ekakhurasya ca”  
-11.168c[167Mc] pakṣi.gandha.oṣadhīnāṃ ca rajjvāś ca-eva tryahaṃ payaḥ || 168 ||  
+११।१६८अ[१६७म] कार्पास।कीटज।ऊर्णानां द्विशफ।एकशफस्य च । ११।१६८अ[१६७म]व्।  \[म्\] : “द्वेशफ।एकखुरस्य च”  
+११।१६८च्[१६७म्च्] पक्षि।गन्ध।ओषधीनां च रज्ज्वाश् च-एव त्र्यहं पयः ॥ १६८ ॥  
 
 
-11.169a[168Ma] etair vratair apoheta pāpaṃ steyakṛtaṃ dvijaḥ |  
-11.169c[168Mc] agamyāgamanīyaṃ tu vratair ebhir apānudet || 169 ||  
+११।१६९अ[१६८म] एतैर् व्रतैर् अपोहेत पापं स्तेयकृतं द्विजः ।  
+११।१६९च्[१६८म्च्] अगम्यागमनीयं तु व्रतैर् एभिर् अपानुदेत् ॥ १६९ ॥  
 
 
-11.170a[169Ma] gurutalpavrataṃ kuryād retaḥ siktvā svayoniṣu |  
-11.170c[169Mc] sakhyuḥ putrasya ca strīṣu kumārīṣv antyajāsu ca || 170 ||  
+११।१७०अ[१६९म] गुरुतल्पव्रतं कुर्याद् रेतः सिक्त्वा स्वयोनिषु ।  
+११।१७०च्[१६९म्च्] सख्युः पुत्रस्य च स्त्रीषु कुमारीष्व् अन्त्यजासु च ॥ १७० ॥  
 
 
-# 11.1.11. Excursus: Penances for Sexual Offences
- \[O\]  edn 869-871,  \[O\]  tr. 224
-11.171a[170Ma] paitṛsvaseyīṃ bhaginīṃ svasrīyāṃ mātur eva ca |  
-11.171c[170Mc] mātuś ca bhrātus tanayāṃ gatvā cāndrāyaṇaṃ caret || 171 || 11.171c[170Mc]v/ ?: “bhrātur āptasya gatvā”  
+# ११।१।११। एxचुर्सुस्: पेनन्चेस् ड़ोर् सेxउअल् ओड़्ड़ेन्चेस्
+ \[ओ\]  एद्न् ८६९-८७१,  \[ओ\]  त्र्। २२४
+११।१७१अ[१७०म] पैतृस्वसेयीं भगिनीं स्वस्रीयां मातुर् एव च ।  
+११।१७१च्[१७०म्च्] मातुश् च भ्रातुस् तनयां गत्वा चान्द्रायणं चरेत् ॥ १७१ ॥ ११।१७१च्[१७०म्च्]व्। ?: “भ्रातुर् आप्तस्य गत्वा”  
 
 
-11.172a[171Ma] etās tisras tu bhāryārthe na-upayacchet tu buddhimān |  
-11.172c[171Mc] jñātitvena-an.upeyās tāḥ patati hy upayann adhaḥ || 172 ||  
+११।१७२अ[१७१म] एतास् तिस्रस् तु भार्यार्थे न-उपयच्छेत् तु बुद्धिमान् ।  
+११।१७२च्[१७१म्च्] ज्ञातित्वेन-अन्।उपेयास् ताः पतति ह्य् उपयन्न् अधः ॥ १७२ ॥  
 
 
-11.173a[172Ma] amānuṣīṣū puruṣa udakyāyām ayoniṣu |  
-11.173c[172Mc] retaḥ siktvā jale ca-eva kṛcchraṃ sāntapanaṃ caret || 173 ||  
+११।१७३अ[१७२म] अमानुषीषू पुरुष उदक्यायाम् अयोनिषु ।  
+११।१७३च्[१७२म्च्] रेतः सिक्त्वा जले च-एव कृच्छ्रं सान्तपनं चरेत् ॥ १७३ ॥  
 
 
-11.174a[173Ma] maithunaṃ tu samāsevya puṃsi yoṣiti vā dvijaḥ |  
-11.174c[173Mc] go.yāne 'psu divā ca-eva sa.vāsāḥ snānam ācaret || 174 ||  
+११।१७४अ[१७३म] मैथुनं तु समासेव्य पुंसि योषिति वा द्विजः ।  
+११।१७४च्[१७३म्च्] गो।याने ऽप्सु दिवा च-एव स।वासाः स्नानम् आचरेत् ॥ १७४ ॥  
 
 
-11.175a[174Ma] caṇḍāla.antyastriyo gatvā bhuktvā ca pratigṛhya ca |  
-11.175c[174Mc] pataty ajñānato vipro jñānāt sāmyaṃ tu gacchati || 175 ||  
+११।१७५अ[१७४म] चण्डाल।अन्त्यस्त्रियो गत्वा भुक्त्वा च प्रतिगृह्य च ।  
+११।१७५च्[१७४म्च्] पतत्य् अज्ञानतो विप्रो ज्ञानात् साम्यं तु गच्छति ॥ १७५ ॥  
 
 
-11.176a[175Ma] vipraduṣṭāṃ striyaṃ bhartā nirundhyād ekaveśmani |  
-11.176c[175Mc] yat puṃsaḥ paradāreṣu tac ca-enāṃ cārayed vratam || 176 ||  
+११।१७६अ[१७५म] विप्रदुष्टां स्त्रियं भर्ता निरुन्ध्याद् एकवेश्मनि ।  
+११।१७६च्[१७५म्च्] यत् पुंसः परदारेषु तच् च-एनां चारयेद् व्रतम् ॥ १७६ ॥  
 
 
-11.177a[176Ma] sā cet punaḥ praduṣyet tu sadṛśena-upamantritā | 11.177a[176Ma]v/  \[K\] : “sadṛśena-upayantritā?”  
-11.177c[176Mc] kṛcchraṃ cāndrāyaṇaṃ ca-eva tad asyāḥ pāvanaṃ smṛtam || 177 ||  
+११।१७७अ[१७६म] सा चेत् पुनः प्रदुष्येत् तु सदृशेन-उपमन्त्रिता । ११।१७७अ[१७६म]व्।  \[क्\] : “सदृशेन-उपयन्त्रिता?”  
+११।१७७च्[१७६म्च्] कृच्छ्रं चान्द्रायणं च-एव तद् अस्याः पावनं स्मृतम् ॥ १७७ ॥  
 
 
-11.178a[177Ma] yat karoty ekarātreṇa vṛṣalīsevanād dvijaḥ |  
-11.178c[177Mc] tad bhaikṣabhuj-japan nityaṃ tribhir varṣair vyapohati || 178 ||  
+११।१७८अ[१७७म] यत् करोत्य् एकरात्रेण वृषलीसेवनाद् द्विजः ।  
+११।१७८च्[१७७म्च्] तद् भैक्षभुज्-जपन् नित्यं त्रिभिर् वर्षैर् व्यपोहति ॥ १७८ ॥  
 
 
-11.179a[178Ma] eṣā pāpakṛtām uktā caturṇām api niṣkṛtiḥ |  
-11.179c[178Mc] patitaiḥ samprayuktānām imāḥ śṛṇuta niṣkṛtīḥ || 179 ||  
+११।१७९अ[१७८म] एषा पापकृताम् उक्ता चतुर्णाम् अपि निष्कृतिः ।  
+११।१७९च्[१७८म्च्] पतितैः सम्प्रयुक्तानाम् इमाः शृणुत निष्कृतीः ॥ १७९ ॥  
 
 
-11.180a[179Ma] saṃvatsareṇa patati patitena saha-ācaran |  
-11.180c[179Mc] yājana.adhyāpanād yaunāt-na tu yāna.āsana.aśanāt || 180 ||  
+११।१८०अ[१७९म] संवत्सरेण पतति पतितेन सह-आचरन् ।  
+११।१८०च्[१७९म्च्] याजन।अध्यापनाद् यौनात्-न तु यान।आसन।अशनात् ॥ १८० ॥  
 
 
-# 11.1.12. Association with Outcastes
- \[O\]  edn 871-873,  \[O\]  tr. 224-225
-11.181a[180Ma] yo yena patitena-eṣāṃ saṃsargaṃ yāti mānavaḥ |  
-11.181c[180Mc] sa tasya-eva vrataṃ kuryāt tatsaṃsargaviśuddhaye || 181 ||  
+# ११।१।१२। अस्सोचिअतिओन् wइथ् ओउत्चस्तेस्
+ \[ओ\]  एद्न् ८७१-८७३,  \[ओ\]  त्र्। २२४-२२५
+११।१८१अ[१८०म] यो येन पतितेन-एषां संसर्गं याति मानवः ।  
+११।१८१च्[१८०म्च्] स तस्य-एव व्रतं कुर्यात् तत्संसर्गविशुद्धये ॥ १८१ ॥  
 
 
-11.182a[181Ma] patitasya-udakaṃ kāryaṃ sapiṇḍair bāndhavair bahiḥ |  
-11.182c[181Mc] nindite 'hani sāyāhne jñāti.ṛtvij.gurusannidhau || 182 ||  
+११।१८२अ[१८१म] पतितस्य-उदकं कार्यं सपिण्डैर् बान्धवैर् बहिः ।  
+११।१८२च्[१८१म्च्] निन्दिते ऽहनि सायाह्ने ज्ञाति।ऋत्विज्।गुरुसन्निधौ ॥ १८२ ॥  
 
 
- 11.1.12.1. Excommunication
- \[O\]  edn 871-872,  \[O\]  tr. 225
-11.183a[182Ma] dāsī ghaṭam apāṃ pūrṇaṃ paryasyet pretavat padā |  
-11.183c[182Mc] ahorātram upāsīrann aśaucaṃ bāndhavaiḥ saha || 183 ||  
+ ११।१।१२।१। एxचोम्मुनिचतिओन्
+ \[ओ\]  एद्न् ८७१-८७२,  \[ओ\]  त्र्। २२५
+११।१८३अ[१८२म] दासी घटम् अपां पूर्णं पर्यस्येत् प्रेतवत् पदा ।  
+११।१८३च्[१८२म्च्] अहोरात्रम् उपासीरन्न् अशौचं बान्धवैः सह ॥ १८३ ॥  
 
 
-11.184a[183Ma] nivarteraṃś ca tasmāt tu sambhāṣaṇa.sahāsane |  
-11.184c[183Mc] dāyādyasya pradānaṃ ca yātrā ca-eva hi laukikī || 184 ||  
+११।१८४अ[१८३म] निवर्तेरंश् च तस्मात् तु सम्भाषण।सहासने ।  
+११।१८४च्[१८३म्च्] दायाद्यस्य प्रदानं च यात्रा च-एव हि लौकिकी ॥ १८४ ॥  
 
 
-11.185a[184Ma] jyeṣṭhatā ca nivarteta jyeṣṭhāvāpyaṃ ca yad dhanam | 11.185a[184Ma]v/  \[M\] : “yad vasu”  
-11.185c[184Mc] jyeṣṭhāṃśaṃ prāpnuyāc ca-asya yavīyān guṇato 'dhikaḥ || 185 ||  
+११।१८५अ[१८४म] ज्येष्ठता च निवर्तेत ज्येष्ठावाप्यं च यद् धनम् । ११।१८५अ[१८४म]व्।  \[म्\] : “यद् वसु”  
+११।१८५च्[१८४म्च्] ज्येष्ठांशं प्राप्नुयाच् च-अस्य यवीयान् गुणतो ऽधिकः ॥ १८५ ॥  
 
 
-11.186a[185Ma] prāyaścitte tu carite pūrṇakumbham apāṃ navam |  
-11.186c[185Mc] tena-eva sārdhaṃ prāsyeyuḥ snātvā puṇye jalāśaye || 186 ||  
+११।१८६अ[१८५म] प्रायश्चित्ते तु चरिते पूर्णकुम्भम् अपां नवम् ।  
+११।१८६च्[१८५म्च्] तेन-एव सार्धं प्रास्येयुः स्नात्वा पुण्ये जलाशये ॥ १८६ ॥  
 
 
- 11.1.12.2. Re-admission
- \[O\]  edn 872-873,  \[O\]  tr. 225
-11.187a[186Ma] sa tv apsu taṃ ghaṭaṃ prāsya praviśya bhavanaṃ svakam |  
-11.187c[186Mc] sarvāṇi jñātikāryāṇi yathāpūrvaṃ samācaret || 187 ||  
+ ११।१।१२।२। रे-अद्मिस्सिओन्
+ \[ओ\]  एद्न् ८७२-८७३,  \[ओ\]  त्र्। २२५
+११।१८७अ[१८६म] स त्व् अप्सु तं घटं प्रास्य प्रविश्य भवनं स्वकम् ।  
+११।१८७च्[१८६म्च्] सर्वाणि ज्ञातिकार्याणि यथापूर्वं समाचरेत् ॥ १८७ ॥  
 
 
-11.188a[187Ma] etad eva vidhiṃ kuryād yoṣitsu patitāsv api | 11.188a[187Ma]v/  \[M\] : “etam eva vidhiṃ”  
-11.188c[187Mc] vastra.anna.pānaṃ deyaṃ tu vaseyuś ca gṛhāntike || 188 ||  
+११।१८८अ[१८७म] एतद् एव विधिं कुर्याद् योषित्सु पतितास्व् अपि । ११।१८८अ[१८७म]व्।  \[म्\] : “एतम् एव विधिं”  
+११।१८८च्[१८७म्च्] वस्त्र।अन्न।पानं देयं तु वसेयुश् च गृहान्तिके ॥ १८८ ॥  
 
 
-11.189a[188Ma] enasvibhir a.nirṇiktair na-arthaṃ kiṃ cit saha-ācaret |  
-11.189c[188Mc] kṛtanirṇejanāṃś ca-eva na jugupseta karhi cit || 189 || 11.189c[188Mc]v/  \[M\] : “kṛtanirṇejanāṃś ca-etān”  
+११।१८९अ[१८८म] एनस्विभिर् अ।निर्णिक्तैर् न-अर्थं किं चित् सह-आचरेत् ।  
+११।१८९च्[१८८म्च्] कृतनिर्णेजनांश् च-एव न जुगुप्सेत कर्हि चित् ॥ १८९ ॥ ११।१८९च्[१८८म्च्]व्।  \[म्\] : “कृतनिर्णेजनांश् च-एतान्”  
 
 
-11.190a[189Ma] bālaghnāṃś ca kṛtaghnāṃś ca viśuddhān api dharmataḥ |  
-11.190c[189Mc] śaraṇāgatahantṝṃś ca strīhantṝṃś ca na saṃvaset || 190 ||  
+११।१९०अ[१८९म] बालघ्नांश् च कृतघ्नांश् च विशुद्धान् अपि धर्मतः ।  
+११।१९०च्[१८९म्च्] शरणागतहन्तॄंश् च स्त्रीहन्तॄंश् च न संवसेत् ॥ १९० ॥  
 
 
-# 11.1.13. Excursus: Miscellanea on Sin and Penance
- \[O\]  edn 873-888,  \[O\]  tr. 225-229
-11.191a[190Ma] yeṣāṃ dvijānāṃ sāvitrī na-anūcyeta yathāvidhi |  
-11.191c[190Mc] tāṃś cārayitvā trīn kṛcchrān yathāvidhi-upanāyayet || 191 ||  
+# ११।१।१३। एxचुर्सुस्: मिस्चेल्लनेअ ओन् सिन् अन्द् पेनन्चे
+ \[ओ\]  एद्न् ८७३-८८८,  \[ओ\]  त्र्। २२५-२२९
+११।१९१अ[१९०म] येषां द्विजानां सावित्री न-अनूच्येत यथाविधि ।  
+११।१९१च्[१९०म्च्] तांश् चारयित्वा त्रीन् कृच्छ्रान् यथाविधि-उपनाययेत् ॥ १९१ ॥  
 
 
-11.192a[191Ma] prāyaścittaṃ cikīrṣanti vikarmasthās tu ye dvijāḥ |  
-11.192c[191Mc] brahmaṇā ca parityaktās teṣām apy etad ādiśet || 192 ||  
+११।१९२अ[१९१म] प्रायश्चित्तं चिकीर्षन्ति विकर्मस्थास् तु ये द्विजाः ।  
+११।१९२च्[१९१म्च्] ब्रह्मणा च परित्यक्तास् तेषाम् अप्य् एतद् आदिशेत् ॥ १९२ ॥  
 
 
-11.193a[192Ma] yad garhitena-arjayanti karmaṇā brāhmaṇā dhanam |  
-11.193c[192Mc] tasya-utsargeṇa śudhyanti japyena tapasā-eva ca || 193 ||  
+११।१९३अ[१९२म] यद् गर्हितेन-अर्जयन्ति कर्मणा ब्राह्मणा धनम् ।  
+११।१९३च्[१९२म्च्] तस्य-उत्सर्गेण शुध्यन्ति जप्येन तपसा-एव च ॥ १९३ ॥  
 
 
-11.194a[193Ma] japitvā trīṇi sāvitryāḥ sahasrāṇi samāhitaḥ |  
-11.194c[193Mc] māsaṃ goṣṭhe payaḥ pītvā mucyate 'satpratigrahāt || 194 ||  
+११।१९४अ[१९३म] जपित्वा त्रीणि सावित्र्याः सहस्राणि समाहितः ।  
+११।१९४च्[१९३म्च्] मासं गोष्ठे पयः पीत्वा मुच्यते ऽसत्प्रतिग्रहात् ॥ १९४ ॥  
 
 
-11.195a[194Ma] upavāsakṛśaṃ taṃ tu govrajāt punar āgatam |  
-11.195c[194Mc] praṇataṃ prati pṛccheyuḥ sāmyaṃ saumya-icchasi-iti kim || 195 ||  
+११।१९५अ[१९४म] उपवासकृशं तं तु गोव्रजात् पुनर् आगतम् ।  
+११।१९५च्[१९४म्च्] प्रणतं प्रति पृच्छेयुः साम्यं सौम्य-इच्छसि-इति किम् ॥ १९५ ॥  
 
 
-11.196a[195Ma] satyam uktvā tu vipreṣu vikired yavasaṃ gavām |  
-11.196c[195Mc] gobhiḥ pravartite tīrthe kuryus tasya parigraham || 196 ||  
+११।१९६अ[१९५म] सत्यम् उक्त्वा तु विप्रेषु विकिरेद् यवसं गवाम् ।  
+११।१९६च्[१९५म्च्] गोभिः प्रवर्तिते तीर्थे कुर्युस् तस्य परिग्रहम् ॥ १९६ ॥  
 
 
-11.197a[196Ma] vrātyānāṃ yājanaṃ kṛtvā pareṣām antyakarma ca |  
-11.197c[196Mc] abhicāram ahīnaṃ ca tribhiḥ kṛcchrair vyapohati || 197 ||  
+११।१९७अ[१९६म] व्रात्यानां याजनं कृत्वा परेषाम् अन्त्यकर्म च ।  
+११।१९७च्[१९६म्च्] अभिचारम् अहीनं च त्रिभिः कृच्छ्रैर् व्यपोहति ॥ १९७ ॥  
 
 
-11.198a[197Ma] śaraṇāgataṃ parityajya vedaṃ viplāvya ca dvijaḥ |  
-11.198c[197Mc] saṃvatsaraṃ yavāhāras tat pāpam apasedhati || 198 ||  
+११।१९८अ[१९७म] शरणागतं परित्यज्य वेदं विप्लाव्य च द्विजः ।  
+११।१९८च्[१९७म्च्] संवत्सरं यवाहारस् तत् पापम् अपसेधति ॥ १९८ ॥  
 
 
-11.199a[198Ma] śva.śṛgāla.kharair daṣṭo grāmyaiḥ kravyādbhir eva ca |  
-11.199c[198Mc] nara.aśva.uṣṭra.varāhaiś ca prāṇāyāmena śudhyati || 199 ||  
+११।१९९अ[१९८म] श्व।शृगाल।खरैर् दष्टो ग्राम्यैः क्रव्याद्भिर् एव च ।  
+११।१९९च्[१९८म्च्] नर।अश्व।उष्ट्र।वराहैश् च प्राणायामेन शुध्यति ॥ १९९ ॥  
 
 
-11.200a[199Ma] ṣaṣṭhānnakālatā māsaṃ saṃhitājapa eva vā |  
-11.200c[199Mc] homāś ca sakalā nityam apāṅktyānāṃ viśodhanam || 200 || 11.200c[199Mc]v/  \[M\] : “homāś ca śākalā”  
+११।२००अ[१९९म] षष्ठान्नकालता मासं संहिताजप एव वा ।  
+११।२००च्[१९९म्च्] होमाश् च सकला नित्यम् अपाङ्क्त्यानां विशोधनम् ॥ २०० ॥ ११।२००च्[१९९म्च्]व्।  \[म्\] : “होमाश् च शाकला”  
 
 
-11.201a[200Ma] uṣṭrayānaṃ samāruhya kharayānaṃ tu kāmataḥ |  
-11.201c[200Mc] snātvā tu vipro dig.vāsāḥ prāṇāyāmena śudhyati || 201 ||  
+११।२०१अ[२००म] उष्ट्रयानं समारुह्य खरयानं तु कामतः ।  
+११।२०१च्[२००म्च्] स्नात्वा तु विप्रो दिग्।वासाः प्राणायामेन शुध्यति ॥ २०१ ॥  
 
 
-11.202a[201Ma] vinā-adbhir apsu vā-apy ārtaḥ śārīraṃ sanniṣevya ca |  
-11.202c[201Mc] sa.cailo bahir āplutya gām ālabhya viśudhyati || 202 ||  
+११।२०२अ[२०१म] विना-अद्भिर् अप्सु वा-अप्य् आर्तः शारीरं सन्निषेव्य च ।  
+११।२०२च्[२०१म्च्] स।चैलो बहिर् आप्लुत्य गाम् आलभ्य विशुध्यति ॥ २०२ ॥  
 
 
-11.203a[202Ma] veda.uditānāṃ nityānāṃ karmaṇāṃ samatikrame |  
-11.203c[202Mc] snātakavratalope ca prāyaścittam abhojanam || 203 ||  
+११।२०३अ[२०२म] वेद।उदितानां नित्यानां कर्मणां समतिक्रमे ।  
+११।२०३च्[२०२म्च्] स्नातकव्रतलोपे च प्रायश्चित्तम् अभोजनम् ॥ २०३ ॥  
 
 
-11.204a[203Ma] huṅkāraṃ brāhmaṇasya-uktvā tvamkāraṃ ca garīyasaḥ |  
-11.204c[203Mc] snātvā-an.aśnann ahaḥ śeṣam abhivādya prasādayet || 204 ||  
+११।२०४अ[२०३म] हुङ्कारं ब्राह्मणस्य-उक्त्वा त्वम्कारं च गरीयसः ।  
+११।२०४च्[२०३म्च्] स्नात्वा-अन्।अश्नन्न् अहः शेषम् अभिवाद्य प्रसादयेत् ॥ २०४ ॥  
 
 
-11.205a[204Ma] tāḍayitvā tṛṇena-api kaṇṭhe vā-ābadhya vāsasā |  
-11.205c[204Mc] vivāde vā vinirjitya praṇipatya prasādayet || 205 ||  
+११।२०५अ[२०४म] ताडयित्वा तृणेन-अपि कण्ठे वा-आबध्य वाससा ।  
+११।२०५च्[२०४म्च्] विवादे वा विनिर्जित्य प्रणिपत्य प्रसादयेत् ॥ २०५ ॥  
 
 
-11.206a[205Ma] avagūrya tv abdaśataṃ sahasram abhihatya ca |  
-11.206c[205Mc] jighāṃsayā brāhmaṇasya narakaṃ pratipadyate || 206 ||  
+११।२०६अ[२०५म] अवगूर्य त्व् अब्दशतं सहस्रम् अभिहत्य च ।  
+११।२०६च्[२०५म्च्] जिघांसया ब्राह्मणस्य नरकं प्रतिपद्यते ॥ २०६ ॥  
 
 
-11.207a[206Ma] śoṇitaṃ yāvataḥ pāṃsūn saṅgṛhṇāti mahītale |  
-11.207c[206Mc] tāvanty abdasahasrāṇi tatkartā narake vaset || 207 || 11.207c[206Mc]v/  \[M\] : “narake vrajet”  
+११।२०७अ[२०६म] शोणितं यावतः पांसून् सङ्गृह्णाति महीतले ।  
+११।२०७च्[२०६म्च्] तावन्त्य् अब्दसहस्राणि तत्कर्ता नरके वसेत् ॥ २०७ ॥ ११।२०७च्[२०६म्च्]व्।  \[म्\] : “नरके व्रजेत्”  
 
 
-11.208a[207Ma] avagūrya caret kṛcchram atikṛcchraṃ nipātane |  
-11.208c[207Mc] kṛcchra.atikṛcchrau kurvīta viprasya-utpādya śoṇitam || 208 ||  
+११।२०८अ[२०७म] अवगूर्य चरेत् कृच्छ्रम् अतिकृच्छ्रं निपातने ।  
+११।२०८च्[२०७म्च्] कृच्छ्र।अतिकृच्छ्रौ कुर्वीत विप्रस्य-उत्पाद्य शोणितम् ॥ २०८ ॥  
 
 
-11.209a[208Ma] anuktaniṣkṛtīnāṃ tu pāpānām apanuttaye |  
-11.209c[208Mc] śaktiṃ ca-avekṣya pāpaṃ ca prāyaścittaṃ prakalpayet || 209 ||  
+११।२०९अ[२०८म] अनुक्तनिष्कृतीनां तु पापानाम् अपनुत्तये ।  
+११।२०९च्[२०८म्च्] शक्तिं च-अवेक्ष्य पापं च प्रायश्चित्तं प्रकल्पयेत् ॥ २०९ ॥  
 
 
-11.210a[209Ma] yair abhyupāyair enāṃsi mānavo vyapakarṣati |  
-11.210c[209Mc] tān vo 'bhyupāyān vakṣyāmi deva.ṛṣi.pitṛsevitān || 210 ||  
+११।२१०अ[२०९म] यैर् अभ्युपायैर् एनांसि मानवो व्यपकर्षति ।  
+११।२१०च्[२०९म्च्] तान् वो ऽभ्युपायान् वक्ष्यामि देव।ऋषि।पितृसेवितान् ॥ २१० ॥  
 
 
-11.211a[210Ma] tryahaṃ prātas tryahaṃ sāyaṃ tryaham adyād ayācitam |  
-11.211c[210Mc] tryahaṃ paraṃ ca na-aśnīyāt prājāpatyaṃ caran dvijaḥ || 211 ||  
+११।२११अ[२१०म] त्र्यहं प्रातस् त्र्यहं सायं त्र्यहम् अद्याद् अयाचितम् ।  
+११।२११च्[२१०म्च्] त्र्यहं परं च न-अश्नीयात् प्राजापत्यं चरन् द्विजः ॥ २११ ॥  
 
 
- 11.1.13.1. Types of Generic Penance
- \[O\]  edn 877-879,  \[O\]  tr. 226-227
-11.212a[211Ma] gomūtraṃ gomayaṃ kṣīraṃ dadhi sarpiḥ kuśa.udakam |  
-11.212c[211Mc] ekarātra.upavāsaś ca kṛcchraṃ sāntapanaṃ smṛtam || 212 ||  
+ ११।१।१३।१। त्य्पेस् ओड़् गेनेरिच् पेनन्चे
+ \[ओ\]  एद्न् ८७७-८७९,  \[ओ\]  त्र्। २२६-२२७
+११।२१२अ[२११म] गोमूत्रं गोमयं क्षीरं दधि सर्पिः कुश।उदकम् ।  
+११।२१२च्[२११म्च्] एकरात्र।उपवासश् च कृच्छ्रं सान्तपनं स्मृतम् ॥ २१२ ॥  
 
 
-11.213a[212Ma] ekaikaṃ grāsam aśnīyāt tryahāṇi trīṇi pūrvavat |  
-11.213c[212Mc] tryahaṃ ca-upavased antyam atikṛcchraṃ caran dvijaḥ || 213 ||  
+११।२१३अ[२१२म] एकैकं ग्रासम् अश्नीयात् त्र्यहाणि त्रीणि पूर्ववत् ।  
+११।२१३च्[२१२म्च्] त्र्यहं च-उपवसेद् अन्त्यम् अतिकृच्छ्रं चरन् द्विजः ॥ २१३ ॥  
 
 
-11.214a[213Ma] taptakṛcchraṃ caran vipro jala.kṣīra.ghṛta.anilān |  
-11.214c[213Mc] prati.tryahaṃ pibed uṣṇān sakṛtsnāyī samāhitaḥ || 214 ||  
+११।२१४अ[२१३म] तप्तकृच्छ्रं चरन् विप्रो जल।क्षीर।घृत।अनिलान् ।  
+११।२१४च्[२१३म्च्] प्रति।त्र्यहं पिबेद् उष्णान् सकृत्स्नायी समाहितः ॥ २१४ ॥  
 
 
-11.215a[214Ma] yata.ātmano 'pramattasya dvādaśāham abhojanam |  
-11.215c[214Mc] parāko nāma kṛcchro 'yaṃ sarvapāpa.apanodanaḥ || 215 ||  
+११।२१५अ[२१४म] यत।आत्मनो ऽप्रमत्तस्य द्वादशाहम् अभोजनम् ।  
+११।२१५च्[२१४म्च्] पराको नाम कृच्छ्रो ऽयं सर्वपाप।अपनोदनः ॥ २१५ ॥  
 
 
-11.216a[215Ma] ekaikaṃ hrāsayet piṇḍaṃ kṛṣṇe śukle ca vardhayet |  
-11.216c[215Mc] upaspṛśaṃs triṣavaṇam etat-cāṇdrāyaṇaṃ smṛtam || 216 ||  
+११।२१६अ[२१५म] एकैकं ह्रासयेत् पिण्डं कृष्णे शुक्ले च वर्धयेत् ।  
+११।२१६च्[२१५म्च्] उपस्पृशंस् त्रिषवणम् एतत्-चाण्द्रायणं स्मृतम् ॥ २१६ ॥  
 
 
-11.217a[216Ma] etam eva vidhiṃ kṛtsnam ācared yavamadhyame |  
-11.217c[216Mc] śuklapakṣādiniyataś caraṃś cāndrāyaṇaṃ vratam || 217 ||  
+११।२१७अ[२१६म] एतम् एव विधिं कृत्स्नम् आचरेद् यवमध्यमे ।  
+११।२१७च्[२१६म्च्] शुक्लपक्षादिनियतश् चरंश् चान्द्रायणं व्रतम् ॥ २१७ ॥  
 
 
-11.218a[217Ma] aṣṭāv aṣṭau samaśnīyāt piṇḍān madhyandine sthite |  
-11.218c[217Mc] niyata.ātmā haviṣyāśī yaticāndrāyaṇaṃ caran || 218 ||  
+११।२१८अ[२१७म] अष्टाव् अष्टौ समश्नीयात् पिण्डान् मध्यन्दिने स्थिते ।  
+११।२१८च्[२१७म्च्] नियत।आत्मा हविष्याशी यतिचान्द्रायणं चरन् ॥ २१८ ॥  
 
 
-11.219a[218Ma] caturaḥ prātar aśnīyāt piṇḍān vipraḥ samāhitaḥ |  
-11.219c[218Mc] caturo 'stam ite sūrye śiśucāndrāyaṇaṃ smṛtam || 219 ||  
+११।२१९अ[२१८म] चतुरः प्रातर् अश्नीयात् पिण्डान् विप्रः समाहितः ।  
+११।२१९च्[२१८म्च्] चतुरो ऽस्तम् इते सूर्ये शिशुचान्द्रायणं स्मृतम् ॥ २१९ ॥  
 
 
-11.220a[219Ma] yathā kathaṃ cit piṇḍānāṃ tisro 'śītīḥ samāhitaḥ |  
-11.220c[219Mc] māsena-aśnan haviṣyasya candrasya-eti salokatām || 220 ||  
+११।२२०अ[२१९म] यथा कथं चित् पिण्डानां तिस्रो ऽशीतीः समाहितः ।  
+११।२२०च्[२१९म्च्] मासेन-अश्नन् हविष्यस्य चन्द्रस्य-एति सलोकताम् ॥ २२० ॥  
 
 
-11.221a[220Ma] etad rudrās tathā-ādityā vasavaś ca-ācaran vratam |  
-11.221c[220Mc] sarvākuśalamokṣāya marutaś ca maharṣibhiḥ || 221 ||  
+११।२२१अ[२२०म] एतद् रुद्रास् तथा-आदित्या वसवश् च-आचरन् व्रतम् ।  
+११।२२१च्[२२०म्च्] सर्वाकुशलमोक्षाय मरुतश् च महर्षिभिः ॥ २२१ ॥  
 
 
-11.222a[221Ma] mahāvyāhṛtibhir homaḥ kartavyaḥ svayam anvaham |  
-11.222c[221Mc] ahiṃsā satyam akrodham ārjavaṃ ca samācaret || 222 ||  
+११।२२२अ[२२१म] महाव्याहृतिभिर् होमः कर्तव्यः स्वयम् अन्वहम् ।  
+११।२२२च्[२२१म्च्] अहिंसा सत्यम् अक्रोधम् आर्जवं च समाचरेत् ॥ २२२ ॥  
 
 
- 11.1.13.2. Observances by the Penitent
- \[O\]  edn 879-880,  \[O\]  tr. 227
-11.223a[222Ma] trir ahnas trir niśāyāṃ ca sa.vāsā jalam āviśet |  
-11.223c[222Mc] strī.śūdra.patitāṃś ca-eva na-abhibhāṣeta karhi cit || 223 ||  
+ ११।१।१३।२। ओब्सेर्वन्चेस् ब्य् थे पेनितेन्त्
+ \[ओ\]  एद्न् ८७९-८८०,  \[ओ\]  त्र्। २२७
+११।२२३अ[२२२म] त्रिर् अह्नस् त्रिर् निशायां च स।वासा जलम् आविशेत् ।  
+११।२२३च्[२२२म्च्] स्त्री।शूद्र।पतितांश् च-एव न-अभिभाषेत कर्हि चित् ॥ २२३ ॥  
 
 
-11.224a[223Ma] sthāna.āsanābhyāṃ vihared aśakto 'dhaḥ śayīta vā |  
-11.224c[223Mc] brahmacārī vratī ca syād guru.deva.dvija.arcakaḥ || 224 ||  
+११।२२४अ[२२३म] स्थान।आसनाभ्यां विहरेद् अशक्तो ऽधः शयीत वा ।  
+११।२२४च्[२२३म्च्] ब्रह्मचारी व्रती च स्याद् गुरु।देव।द्विज।अर्चकः ॥ २२४ ॥  
 
 
-11.225a[224Ma] sāvitrīṃ ca japen nityaṃ pavitrāṇi ca śaktitaḥ |  
-11.225c[224Mc] sarveṣv eva vrateṣv evaṃ prāyaścittārtham ādṛtaḥ || 225 ||  
+११।२२५अ[२२४म] सावित्रीं च जपेन् नित्यं पवित्राणि च शक्तितः ।  
+११।२२५च्[२२४म्च्] सर्वेष्व् एव व्रतेष्व् एवं प्रायश्चित्तार्थम् आदृतः ॥ २२५ ॥  
 
 
-11.226a[225Ma] etair dvijātayaḥ śodhyā vratair āviṣkṛta.enasaḥ |  
-11.226c[225Mc] anāviṣkṛta.pāpāṃs tu mantrair homaiś ca śodhayet || 226 ||  
+११।२२६अ[२२५म] एतैर् द्विजातयः शोध्या व्रतैर् आविष्कृत।एनसः ।  
+११।२२६च्[२२५म्च्] अनाविष्कृत।पापांस् तु मन्त्रैर् होमैश् च शोधयेत् ॥ २२६ ॥  
 
 
-11.227a[226Ma] khyāpanena.anutāpena tapasā-adhyayanena ca |  
-11.227c[226Mc] pāpakṛt-mucyate pāpāt tathā dānena ca-āpadi || 227 ||  
+११।२२७अ[२२६म] ख्यापनेन।अनुतापेन तपसा-अध्ययनेन च ।  
+११।२२७च्[२२६म्च्] पापकृत्-मुच्यते पापात् तथा दानेन च-आपदि ॥ २२७ ॥  
 
 
- 11.1.13.3. Four Means of Expiation
- \[O\]  edn 880-883,  \[O\]  tr. 227-228
-11.228a[227Ma] yathā yathā naro 'dharmaṃ svayaṃ kṛtvā-anubhāṣate |  
-11.228c[227Mc] tathā tathā tvacā-iva-ahis tena-adharmeṇa mucyate || 228 ||  
+ ११।१।१३।३। ड़ोउर् मेअन्स् ओड़् एxपिअतिओन्
+ \[ओ\]  एद्न् ८८०-८८३,  \[ओ\]  त्र्। २२७-२२८
+११।२२८अ[२२७म] यथा यथा नरो ऽधर्मं स्वयं कृत्वा-अनुभाषते ।  
+११।२२८च्[२२७म्च्] तथा तथा त्वचा-इव-अहिस् तेन-अधर्मेण मुच्यते ॥ २२८ ॥  
 
 
-11.229a[228Ma] yathā yathā manas tasya duṣkṛtaṃ karma garhati |  
-11.229c[228Mc] tathā tathā śarīraṃ tat tena-adharmeṇa mucyate || 229 ||  
+११।२२९अ[२२८म] यथा यथा मनस् तस्य दुष्कृतं कर्म गर्हति ।  
+११।२२९च्[२२८म्च्] तथा तथा शरीरं तत् तेन-अधर्मेण मुच्यते ॥ २२९ ॥  
 
 
-11.230a[229Ma] kṛtvā pāpaṃ hi santapya tasmāt pāpāt pramucyate |  
-11.230c[229Mc] na-evaṃ kuryāṃ punar iti nivṛttyā pūyate tu saḥ || 230 ||  
+११।२३०अ[२२९म] कृत्वा पापं हि सन्तप्य तस्मात् पापात् प्रमुच्यते ।  
+११।२३०च्[२२९म्च्] न-एवं कुर्यां पुनर् इति निवृत्त्या पूयते तु सः ॥ २३० ॥  
 
 
-11.231a[230Ma] evaṃ sañcintya manasā pretya karmaphala.udayam |  
-11.231c[230Mc] mano.vāc.mūrtibhir nityaṃ śubhaṃ karma samācaret || 231 ||  
+११।२३१अ[२३०म] एवं सञ्चिन्त्य मनसा प्रेत्य कर्मफल।उदयम् ।  
+११।२३१च्[२३०म्च्] मनो।वाच्।मूर्तिभिर् नित्यं शुभं कर्म समाचरेत् ॥ २३१ ॥  
 
 
-11.232a[231Ma] ajñānād yadi vā jñānāt kṛtvā karma vigarhitam |  
-11.232c[231Mc] tasmād vimuktim anvicchan dvitīyaṃ na samācaret || 232 ||  
+११।२३२अ[२३१म] अज्ञानाद् यदि वा ज्ञानात् कृत्वा कर्म विगर्हितम् ।  
+११।२३२च्[२३१म्च्] तस्माद् विमुक्तिम् अन्विच्छन् द्वितीयं न समाचरेत् ॥ २३२ ॥  
 
 
-11.233a[232Ma] yasmin karmaṇy asya kṛte manasaḥ syād alāghavam |  
-11.233c[232Mc] tasmiṃs tāvat tapaḥ kuryād yāvat tuṣṭikaraṃ bhavet || 233 ||  
+११।२३३अ[२३२म] यस्मिन् कर्मण्य् अस्य कृते मनसः स्याद् अलाघवम् ।  
+११।२३३च्[२३२म्च्] तस्मिंस् तावत् तपः कुर्याद् यावत् तुष्टिकरं भवेत् ॥ २३३ ॥  
 
 
-11.234a[233Ma] tapomūlam idaṃ sarvaṃ daiva.mānuṣakaṃ sukham |  
-11.234c[233Mc] tapomadhyaṃ budhaiḥ proktaṃ tapo.'ntaṃ vedadarśibhiḥ || 234 ||  
+११।२३४अ[२३३म] तपोमूलम् इदं सर्वं दैव।मानुषकं सुखम् ।  
+११।२३४च्[२३३म्च्] तपोमध्यं बुधैः प्रोक्तं तपो।ऽन्तं वेददर्शिभिः ॥ २३४ ॥  
 
 
-11.235a[234Ma] brāhmaṇasya tapo jñānaṃ tapaḥ kṣatrasya rakṣaṇam |  
-11.235c[234Mc] vaiśyasya tu tapo vārtā tapaḥ śūdrasya sevanam || 235 ||  
+११।२३५अ[२३४म] ब्राह्मणस्य तपो ज्ञानं तपः क्षत्रस्य रक्षणम् ।  
+११।२३५च्[२३४म्च्] वैश्यस्य तु तपो वार्ता तपः शूद्रस्य सेवनम् ॥ २३५ ॥  
 
 
-11.236a[235Ma] ṛṣayaḥ saṃyata.ātmānaḥ phala.mūla.anila.aśanāḥ |  
-11.236c[235Mc] tapasā-eva prapaśyanti trailokyaṃ sa.carācaram || 236 ||  
+११।२३६अ[२३५म] ऋषयः संयत।आत्मानः फल।मूल।अनिल।अशनाः ।  
+११।२३६च्[२३५म्च्] तपसा-एव प्रपश्यन्ति त्रैलोक्यं स।चराचरम् ॥ २३६ ॥  
 
 
-11.237a[236Ma] auṣadhāny agado vidyā daivī ca vividhā sthitiḥ |  
-11.237c[236Mc] tapasā-eva prasidhyanti tapas teṣāṃ hi sādhanam || 237 ||  
+११।२३७अ[२३६म] औषधान्य् अगदो विद्या दैवी च विविधा स्थितिः ।  
+११।२३७च्[२३६म्च्] तपसा-एव प्रसिध्यन्ति तपस् तेषां हि साधनम् ॥ २३७ ॥  
 
 
-11.238a[237Ma] yad dustaraṃ yad durāpaṃ yad durgaṃ yac ca duṣkaram |  
-11.238c[237Mc] sarvaṃ tu tapasā sādhyaṃ tapo hi duratikramam || 238 || 11.238c[237Mc]v/  \[M\] : “sarvaṃ tat tapasā”  
+११।२३८अ[२३७म] यद् दुस्तरं यद् दुरापं यद् दुर्गं यच् च दुष्करम् ।  
+११।२३८च्[२३७म्च्] सर्वं तु तपसा साध्यं तपो हि दुरतिक्रमम् ॥ २३८ ॥ ११।२३८च्[२३७म्च्]व्।  \[म्\] : “सर्वं तत् तपसा”  
 
 
-11.239a[238Ma] mahāpātakinaś ca-eva śeṣāś ca-akāryakāriṇaḥ |  
-11.239c[238Mc] tapasā-eva sutaptena mucyante kilbiṣāt tataḥ || 239 ||  
+११।२३९अ[२३८म] महापातकिनश् च-एव शेषाश् च-अकार्यकारिणः ।  
+११।२३९च्[२३८म्च्] तपसा-एव सुतप्तेन मुच्यन्ते किल्बिषात् ततः ॥ २३९ ॥  
 
 
-11.240a[239Ma] kītāś ca-ahi.pataṅgāś ca paśavaś ca vayāṃsi ca |  
-11.240c[239Mc] sthāvarāṇi ca bhūtāni divaṃ yānti tapobalāt || 240 ||  
+११।२४०अ[२३९म] कीताश् च-अहि।पतङ्गाश् च पशवश् च वयांसि च ।  
+११।२४०च्[२३९म्च्] स्थावराणि च भूतानि दिवं यान्ति तपोबलात् ॥ २४० ॥  
 
 
-11.241a[240Ma] yat kiṃ cid enaḥ kurvanti mano.vāc.mūrtibhir janāḥ | 11.241a[240Ma]v/  \[M\] : “mano.vāc.karmabhir”  
-11.241c[240Mc] tat sarvaṃ nirdahanty āśu tapasā-eva tapo.dhanāḥ || 241 ||  
+११।२४१अ[२४०म] यत् किं चिद् एनः कुर्वन्ति मनो।वाच्।मूर्तिभिर् जनाः । ११।२४१अ[२४०म]व्।  \[म्\] : “मनो।वाच्।कर्मभिर्”  
+११।२४१च्[२४०म्च्] तत् सर्वं निर्दहन्त्य् आशु तपसा-एव तपो।धनाः ॥ २४१ ॥  
 
 
-11.242a[241Ma] tapasā-eva viśuddhasya brāhmaṇasya diva.okasaḥ |  
-11.242c[241Mc] ijyāś ca pratigṛhṇanti kāmān saṃvardhayanti ca || 242 ||  
+११।२४२अ[२४१म] तपसा-एव विशुद्धस्य ब्राह्मणस्य दिव।ओकसः ।  
+११।२४२च्[२४१म्च्] इज्याश् च प्रतिगृह्णन्ति कामान् संवर्धयन्ति च ॥ २४२ ॥  
 
 
-11.243a[242Ma] prajāpatir idaṃ śāstraṃ tapasā-eva-asṛjat prabhuḥ |  
-11.243c[242Mc] tathā-eva vedān ṛṣayas tapasā pratipedire || 243 ||  
+११।२४३अ[२४२म] प्रजापतिर् इदं शास्त्रं तपसा-एव-असृजत् प्रभुः ।  
+११।२४३च्[२४२म्च्] तथा-एव वेदान् ऋषयस् तपसा प्रतिपेदिरे ॥ २४३ ॥  
 
 
-11.244a[243Ma] ity etat tapaso devā mahābhāgyaṃ pracakṣate | 11.244a[243Ma]v/  \[M\] : “yad etat tapaso”  
-11.244c[243Mc] sarvasya-asya prapaśyantas tapasaḥ puṇyam uttamam || 244 || 11.244c[243Mc]v/  \[M\] : “puṇyaṃ udbhavam”  
+११।२४४अ[२४३म] इत्य् एतत् तपसो देवा महाभाग्यं प्रचक्षते । ११।२४४अ[२४३म]व्।  \[म्\] : “यद् एतत् तपसो”  
+११।२४४च्[२४३म्च्] सर्वस्य-अस्य प्रपश्यन्तस् तपसः पुण्यम् उत्तमम् ॥ २४४ ॥ ११।२४४च्[२४३म्च्]व्।  \[म्\] : “पुण्यं उद्भवम्”  
 
 
-11.245a[244Ma] vedābhyāso 'nvahaṃ śaktyā mahāyajñakriyā kṣamā |  
-11.245c[244Mc] nāśayanty āśu pāpāni mahāpātakajāny api || 245 ||  
+११।२४५अ[२४४म] वेदाभ्यासो ऽन्वहं शक्त्या महायज्ञक्रिया क्षमा ।  
+११।२४५च्[२४४म्च्] नाशयन्त्य् आशु पापानि महापातकजान्य् अपि ॥ २४५ ॥  
 
 
-11.246a[245Ma] yathā-edhas tejasā vahniḥ prāptaṃ nirdahati kṣaṇāt |  
-11.246c[245Mc] tathā jñānāgninā pāpaṃ sarvaṃ dahati vedavit || 246 ||  
+११।२४६अ[२४५म] यथा-एधस् तेजसा वह्निः प्राप्तं निर्दहति क्षणात् ।  
+११।२४६च्[२४५म्च्] तथा ज्ञानाग्निना पापं सर्वं दहति वेदवित् ॥ २४६ ॥  
 
 
-11.247a[246Ma] ity etad enasām uktaṃ prāyaścittaṃ yathāvidhi |  
-11.247c[246Mc] ata ūrdhvaṃ rahasya-anāṃ prāyaścittaṃ nibodhata || 247 ||  
+११।२४७अ[२४६म] इत्य् एतद् एनसाम् उक्तं प्रायश्चित्तं यथाविधि ।  
+११।२४७च्[२४६म्च्] अत ऊर्ध्वं रहस्य-अनां प्रायश्चित्तं निबोधत ॥ २४७ ॥  
 
 
-11.248a[247Ma] sa.vyāhṛti.praṇavakāḥ prāṇāyāmās tu ṣoḍaśa |  
-11.248c[247Mc] api bhrūṇahanaṃ māsāt punanty ahar ahaḥ kṛtāḥ || 248 ||  
+११।२४८अ[२४७म] स।व्याहृति।प्रणवकाः प्राणायामास् तु षोडश ।  
+११।२४८च्[२४७म्च्] अपि भ्रूणहनं मासात् पुनन्त्य् अहर् अहः कृताः ॥ २४८ ॥  
 
 
- 11.1.13.4. Further Means of Expiation
- \[O\]  edn 884-888,  \[O\]  tr. 228-229
-11.249a[248Ma] kautsaṃ japtvā-apa ity etad vasiṣṭhaṃ ca prati-ity ṛcam |  
-11.249c[248Mc] māhitraṃ śuddhavatyaś ca surāpo 'pi viśudhyati || 249 ||  
+ ११।१।१३।४। ड़ुर्थेर् मेअन्स् ओड़् एxपिअतिओन्
+ \[ओ\]  एद्न् ८८४-८८८,  \[ओ\]  त्र्। २२८-२२९
+११।२४९अ[२४८म] कौत्सं जप्त्वा-अप इत्य् एतद् वसिष्ठं च प्रति-इत्य् ऋचम् ।  
+११।२४९च्[२४८म्च्] माहित्रं शुद्धवत्यश् च सुरापो ऽपि विशुध्यति ॥ २४९ ॥  
 
 
-11.250a[249Ma] sakṛt-japtvā-āsyavāmīyaṃ śivasaṅkalpam eva ca |  
-11.250c[249Mc] apahṛtya suvarṇaṃ tu kṣaṇād bhavati nir.malaḥ || 250 ||  
+११।२५०अ[२४९म] सकृत्-जप्त्वा-आस्यवामीयं शिवसङ्कल्पम् एव च ।  
+११।२५०च्[२४९म्च्] अपहृत्य सुवर्णं तु क्षणाद् भवति निर्।मलः ॥ २५० ॥  
 
 
-11.251a[250Ma] haviṣpāntīyam abhyasya na tamaṃ ha iti-iti ca |  
-11.251c[250Mc] japitvā pauruṣaṃ sūktaṃ mucyate gurutalpagaḥ || 251 ||  
+११।२५१अ[२५०म] हविष्पान्तीयम् अभ्यस्य न तमं ह इति-इति च ।  
+११।२५१च्[२५०म्च्] जपित्वा पौरुषं सूक्तं मुच्यते गुरुतल्पगः ॥ २५१ ॥  
 
 
-11.252a[251Ma] enasāṃ sthūla.sūkṣmāṇāṃ cikīrṣann apanodanam |  
-11.252c[251Mc] ava-ity ṛcaṃ japed abdaṃ yat kiṃ ca-idam iti-iti vā || 252 ||  
+११।२५२अ[२५१म] एनसां स्थूल।सूक्ष्माणां चिकीर्षन्न् अपनोदनम् ।  
+११।२५२च्[२५१म्च्] अव-इत्य् ऋचं जपेद् अब्दं यत् किं च-इदम् इति-इति वा ॥ २५२ ॥  
 
 
-11.253a[252Ma] pratigṛhya-apratigrāhyaṃ bhuktvā ca-annaṃ vigarhitam |  
-11.253c[252Mc] japaṃs taratsamandīyaṃ pūyate mānavas tryahāt || 253 ||  
+११।२५३अ[२५२म] प्रतिगृह्य-अप्रतिग्राह्यं भुक्त्वा च-अन्नं विगर्हितम् ।  
+११।२५३च्[२५२म्च्] जपंस् तरत्समन्दीयं पूयते मानवस् त्र्यहात् ॥ २५३ ॥  
 
 
-11.254a[253Ma] somāraudram tu bahv.enāḥ māsam abhyasya śudhyati | 11.254a[253Ma]v/  \[M\] : “samām abhyasya”  
-11.254c[253Mc] sravantyām ācaran snānam aryamṇām iti ca tṛcam || 254 ||  
+११।२५४अ[२५३म] सोमारौद्रम् तु बह्व्।एनाः मासम् अभ्यस्य शुध्यति । ११।२५४अ[२५३म]व्।  \[म्\] : “समाम् अभ्यस्य”  
+११।२५४च्[२५३म्च्] स्रवन्त्याम् आचरन् स्नानम् अर्यम्णाम् इति च तृचम् ॥ २५४ ॥  
 
 
-11.255a[254Ma] abdārdham indram ity etad enasvī saptakaṃ japet |  
-11.255c[254Mc] apraśastaṃ tu kṛtvā-apsu māsam āsīta bhaikṣabhuk || 255 ||  
+११।२५५अ[२५४म] अब्दार्धम् इन्द्रम् इत्य् एतद् एनस्वी सप्तकं जपेत् ।  
+११।२५५च्[२५४म्च्] अप्रशस्तं तु कृत्वा-अप्सु मासम् आसीत भैक्षभुक् ॥ २५५ ॥  
 
 
-11.256a[255Ma] mantraiḥ śākalahomīyair abdaṃ hutvā ghṛtaṃ dvijaḥ |  
-11.256c[255Mc] sugurv apy apahanty eno japtvā vā nama ity ṛcam || 256 ||  
+११।२५६अ[२५५म] मन्त्रैः शाकलहोमीयैर् अब्दं हुत्वा घृतं द्विजः ।  
+११।२५६च्[२५५म्च्] सुगुर्व् अप्य् अपहन्त्य् एनो जप्त्वा वा नम इत्य् ऋचम् ॥ २५६ ॥  
 
 
-11.257a[256Ma] mahāpātakasaṃyukto 'nugacched gāḥ samāhitaḥ |  
-11.257c[256Mc] abhyasya-abdaṃ pāvamānīr bhaikṣa.āhāro viśudhyati || 257 ||  
+११।२५७अ[२५६म] महापातकसंयुक्तो ऽनुगच्छेद् गाः समाहितः ।  
+११।२५७च्[२५६म्च्] अभ्यस्य-अब्दं पावमानीर् भैक्ष।आहारो विशुध्यति ॥ २५७ ॥  
 
 
-11.258a[257Ma] araṇye vā trir abhyasya prayato vedasaṃhitām |  
-11.258c[257Mc] mucyate pātakaiḥ sarvaiḥ parākaiḥ śodhitas tribhiḥ || 258 ||  
+११।२५८अ[२५७म] अरण्ये वा त्रिर् अभ्यस्य प्रयतो वेदसंहिताम् ।  
+११।२५८च्[२५७म्च्] मुच्यते पातकैः सर्वैः पराकैः शोधितस् त्रिभिः ॥ २५८ ॥  
 
 
-11.259a[258Ma] tryahaṃ tu-upavased yuktas trir ahno 'bhyupayann apaḥ |  
-11.259c[258Mc] mucyate pātakaiḥ sarvais trir japitvā-aghamarṣaṇam || 259 ||  
+११।२५९अ[२५८म] त्र्यहं तु-उपवसेद् युक्तस् त्रिर् अह्नो ऽभ्युपयन्न् अपः ।  
+११।२५९च्[२५८म्च्] मुच्यते पातकैः सर्वैस् त्रिर् जपित्वा-अघमर्षणम् ॥ २५९ ॥  
 
 
-11.260a[259Ma] yathā-aśvamedhaḥ kraturāj-sarvapāpāpa.nodanaḥ |  
-11.260c[259Mc] tathā-aghamarṣaṇaṃ sūktaṃ sarvapāpāpa.nodanam || 260 ||  
+११।२६०अ[२५९म] यथा-अश्वमेधः क्रतुराज्-सर्वपापाप।नोदनः ।  
+११।२६०च्[२५९म्च्] तथा-अघमर्षणं सूक्तं सर्वपापाप।नोदनम् ॥ २६० ॥  
 
 
-11.261a[260Ma] hatvā lokān api-imāṃs trīn aśnann api yatas tataḥ |  
-11.261c[260Mc] ṛgvedaṃ dhārayan vipro na-enaḥ prāpnoti kiṃ cana || 261 ||  
+११।२६१अ[२६०म] हत्वा लोकान् अपि-इमांस् त्रीन् अश्नन्न् अपि यतस् ततः ।  
+११।२६१च्[२६०म्च्] ऋग्वेदं धारयन् विप्रो न-एनः प्राप्नोति किं चन ॥ २६१ ॥  
 
 
-11.262a[261Ma] ṛksaṃhitāṃ trir abhyasya yajuṣāṃ vā samāhitaḥ |  
-11.262c[261Mc] sāmnāṃ vā sa.rahasyānāṃ sarvapāpaiḥ pramucyate || 262 ||  
+११।२६२अ[२६१म] ऋक्संहितां त्रिर् अभ्यस्य यजुषां वा समाहितः ।  
+११।२६२च्[२६१म्च्] साम्नां वा स।रहस्यानां सर्वपापैः प्रमुच्यते ॥ २६२ ॥  
 
 
-11.263a[262Ma] yathā mahāhradaṃ prāpya kṣiptaṃ loṣṭaṃ vinaśyati |  
-11.263c[262Mc] tathā duścaritaṃ sarvaṃ vede trivṛti majjati || 263 ||  
+११।२६३अ[२६२म] यथा महाह्रदं प्राप्य क्षिप्तं लोष्टं विनश्यति ।  
+११।२६३च्[२६२म्च्] तथा दुश्चरितं सर्वं वेदे त्रिवृति मज्जति ॥ २६३ ॥  
 
 
-11.264a[263Ma] ṛco yajūṃṣi ca-anyāni sāmāni vividhāni ca |  
-11.264c[263Mc] eṣa jñeyas trivṛdvedo yo veda-enaṃ sa vedavit || 264 ||  
+११।२६४अ[२६३म] ऋचो यजूंषि च-अन्यानि सामानि विविधानि च ।  
+११।२६४च्[२६३म्च्] एष ज्ञेयस् त्रिवृद्वेदो यो वेद-एनं स वेदवित् ॥ २६४ ॥  
 
 
-11.265a[264Ma] ādyaṃ yat tryakṣaraṃ brahma trayī yasmin pratiṣṭhitā |  
-11.265c[264Mc] sa guhyo 'nyas trivṛdvedo yas taṃ veda sa vedavit || 265 ||  
+११।२६५अ[२६४म] आद्यं यत् त्र्यक्षरं ब्रह्म त्रयी यस्मिन् प्रतिष्ठिता ।  
+११।२६५च्[२६४म्च्] स गुह्यो ऽन्यस् त्रिवृद्वेदो यस् तं वेद स वेदवित् ॥ २६५ ॥  
 
 
-# Chapter 12
- \[O\]  edn 889-913,  \[O\]  tr. 230-236
-12.01a cāturvarṇyasya kṛtsno 'yam ukto dharmas tvayā-anaghaḥ |  
-12.01c karmaṇāṃ phalanirvṛttiṃ śaṃsa nas tattvataḥ parām || 1 ||  
+# छप्तेर् १२
+ \[ओ\]  एद्न् ८८९-९१३,  \[ओ\]  त्र्। २३०-२३६
+१२।०१अ चातुर्वर्ण्यस्य कृत्स्नो ऽयम् उक्तो धर्मस् त्वया-अनघः ।  
+१२।०१च् कर्मणां फलनिर्वृत्तिं शंस नस् तत्त्वतः पराम् ॥ १ ॥  
 
 
-12.02a sa tān uvāca dharma.ātmā maharṣīn mānavo bhṛguḥ |  
-12.02c asya sarvasya śṛṇuta karmayogasya nirṇayam || 2 ||  
+१२।०२अ स तान् उवाच धर्म।आत्मा महर्षीन् मानवो भृगुः ।  
+१२।०२च् अस्य सर्वस्य शृणुत कर्मयोगस्य निर्णयम् ॥ २ ॥  
 
 
- 12.1. Action
- \[O\]  edn 889-911,  \[O\]  tr. 230-236
-# 12.1.1. The Fruits of Action
- \[O\]  edn 889-904,  \[O\]  tr. 230-234
-12.03a śubha.aśubha.phalaṃ karma mano.vāc.deha.sambhavam |  
-12.03c karmajā gatayo nṝṇām uttama.adhama.madhyamaḥ || 3 ||  
+ १२।१। अच्तिओन्
+ \[ओ\]  एद्न् ८८९-९११,  \[ओ\]  त्र्। २३०-२३६
+# १२।१।१। थे ड़्रुइत्स् ओड़् अच्तिओन्
+ \[ओ\]  एद्न् ८८९-९०४,  \[ओ\]  त्र्। २३०-२३४
+१२।०३अ शुभ।अशुभ।फलं कर्म मनो।वाच्।देह।सम्भवम् ।  
+१२।०३च् कर्मजा गतयो नॄणाम् उत्तम।अधम।मध्यमः ॥ ३ ॥  
 
 
-12.04a tasya-iha trividhasya-api tryadhiṣṭhānasya dehinaḥ |  
-12.04c daśalakṣaṇayuktasya mano vidyāt pravartakam || 4 ||  
+१२।०४अ तस्य-इह त्रिविधस्य-अपि त्र्यधिष्ठानस्य देहिनः ।  
+१२।०४च् दशलक्षणयुक्तस्य मनो विद्यात् प्रवर्तकम् ॥ ४ ॥  
 
 
-12.05a paradravyeṣv abhidhyānaṃ manasā-aniṣṭacintanam |  
-12.05c vitathābhiniveśaś ca trividhaṃ karma mānasam || 5 ||  
+१२।०५अ परद्रव्येष्व् अभिध्यानं मनसा-अनिष्टचिन्तनम् ।  
+१२।०५च् वितथाभिनिवेशश् च त्रिविधं कर्म मानसम् ॥ ५ ॥  
 
 
-12.06a pāruṣyam anṛtaṃ ca-eva paiśunyaṃ ca-api sarvaśaḥ |  
-12.06c asambaddhapralāpaś ca vāc.mayaṃ syāc caturvidham || 6 ||  
+१२।०६अ पारुष्यम् अनृतं च-एव पैशुन्यं च-अपि सर्वशः ।  
+१२।०६च् असम्बद्धप्रलापश् च वाच्।मयं स्याच् चतुर्विधम् ॥ ६ ॥  
 
 
-12.07a adattānām upādānaṃ hiṃsā ca-eva-avidhānataḥ |  
-12.07c paradāra.upasevā ca śārīraṃ trividhaṃ smṛtam || 7 ||  
+१२।०७अ अदत्तानाम् उपादानं हिंसा च-एव-अविधानतः ।  
+१२।०७च् परदार।उपसेवा च शारीरं त्रिविधं स्मृतम् ॥ ७ ॥  
 
 
-12.08a mānasaṃ manasā-eva-ayam upabhuṅkte śubha.aśubham |  
-12.08c vācā vācā kṛtaṃ karma kāyena-eva ca kāyikam || 8 ||  
+१२।०८अ मानसं मनसा-एव-अयम् उपभुङ्क्ते शुभ।अशुभम् ।  
+१२।०८च् वाचा वाचा कृतं कर्म कायेन-एव च कायिकम् ॥ ८ ॥  
 
 
-12.09a śarīrajaiḥ karmadoṣair yāti sthāvaratāṃ naraḥ |  
-12.09c vācikaiḥ pakṣi.mṛgatāṃ mānasair antyajātitām || 9 ||  
+१२।०९अ शरीरजैः कर्मदोषैर् याति स्थावरतां नरः ।  
+१२।०९च् वाचिकैः पक्षि।मृगतां मानसैर् अन्त्यजातिताम् ॥ ९ ॥  
 
 
-12.10a vāgdaṇḍo 'tha manodaṇḍaḥ kāyadaṇḍas tathā-eva ca |  
-12.10c yasya-ete nihitā buddhau tridaṇḍī-iti sa ucyate || 10 ||  
+१२।१०अ वाग्दण्डो ऽथ मनोदण्डः कायदण्डस् तथा-एव च ।  
+१२।१०च् यस्य-एते निहिता बुद्धौ त्रिदण्डी-इति स उच्यते ॥ १० ॥  
 
 
-12.11a tridaṇḍam etan nikṣipya sarvabhūteṣu mānavaḥ |  
-12.11c kāma.krodhau tu saṃyamya tataḥ siddhiṃ niyacchati || 11 || 12.11cv/  \[M\] : “kāma.krodhau susaṃyamya tataḥ siddhiṃ nigacchati”  
+१२।११अ त्रिदण्डम् एतन् निक्षिप्य सर्वभूतेषु मानवः ।  
+१२।११च् काम।क्रोधौ तु संयम्य ततः सिद्धिं नियच्छति ॥ ११ ॥ १२।११च्व्।  \[म्\] : “काम।क्रोधौ सुसंयम्य ततः सिद्धिं निगच्छति”  
 
 
- 12.1.1.1. The Inner Selves
- \[O\]  edn 891-892,  \[O\]  tr. 230-231
-12.12a yo 'sya-ātmanaḥ kārayitā taṃ kṣetrajñaṃ pracakṣate |  
-12.12c yaḥ karoti tu karmāṇi sa bhūtātmā-ucyate budhaiḥ || 12 ||  
+ १२।१।१।१। थे इन्नेर् सेल्वेस्
+ \[ओ\]  एद्न् ८९१-८९२,  \[ओ\]  त्र्। २३०-२३१
+१२।१२अ यो ऽस्य-आत्मनः कारयिता तं क्षेत्रज्ञं प्रचक्षते ।  
+१२।१२च् यः करोति तु कर्माणि स भूतात्मा-उच्यते बुधैः ॥ १२ ॥  
 
 
-12.13a jīvasañjño 'ntarātmā-anyaḥ sahajaḥ sarvadehinām |  
-12.13c yena vedayate sarvaṃ sukhaṃ duḥkhaṃ ca janmasu || 13 ||  
+१२।१३अ जीवसञ्ज्ञो ऽन्तरात्मा-अन्यः सहजः सर्वदेहिनाम् ।  
+१२।१३च् येन वेदयते सर्वं सुखं दुःखं च जन्मसु ॥ १३ ॥  
 
 
-12.14a tāv ubhau bhūtasampṛktau mahān kṣetrajña eva ca |  
-12.14c uccāvaceṣu bhūteṣu sthitaṃ taṃ vyāpya tiṣṭhataḥ || 14 ||  
+१२।१४अ ताव् उभौ भूतसम्पृक्तौ महान् क्षेत्रज्ञ एव च ।  
+१२।१४च् उच्चावचेषु भूतेषु स्थितं तं व्याप्य तिष्ठतः ॥ १४ ॥  
 
 
-12.15a a.saṅkhyā mūrtayas tasya niṣpatanti śarīrataḥ |  
-12.15c uccāvacāni bhūtāni satataṃ ceṣṭayanti yāḥ || 15 ||  
+१२।१५अ अ।सङ्ख्या मूर्तयस् तस्य निष्पतन्ति शरीरतः ।  
+१२।१५च् उच्चावचानि भूतानि सततं चेष्टयन्ति याः ॥ १५ ॥  
 
 
- 12.1.1.2. The Process of Rebirth
- \[O\]  edn 892-893,  \[O\]  tr. 231
-12.16a pañcabhya eva mātrābhyaḥ pretya duṣkṛtināṃ nṛṇām | 12.16av/  \[M\] : “pañcabhya eva bhūtebhyaḥ”  
-12.16c śarīraṃ yātanārthīyam anyad utpadyate dhruvam || 16 ||  
+ १२।१।१।२। थे प्रोचेस्स् ओड़् रेबिर्थ्
+ \[ओ\]  एद्न् ८९२-८९३,  \[ओ\]  त्र्। २३१
+१२।१६अ पञ्चभ्य एव मात्राभ्यः प्रेत्य दुष्कृतिनां नृणाम् । १२।१६अव्।  \[म्\] : “पञ्चभ्य एव भूतेभ्यः”  
+१२।१६च् शरीरं यातनार्थीयम् अन्यद् उत्पद्यते ध्रुवम् ॥ १६ ॥  
 
 
-12.17a tena-anubhūya tā yāmīḥ śarīreṇa-iha yātanāḥ |  
-12.17c tāsv eva bhūtamātrāsu pralīyante vibhāgaśaḥ || 17 ||  
+१२।१७अ तेन-अनुभूय ता यामीः शरीरेण-इह यातनाः ।  
+१२।१७च् तास्व् एव भूतमात्रासु प्रलीयन्ते विभागशः ॥ १७ ॥  
 
 
-12.18a so 'nubhūya-asukha.udarkān doṣān viṣayasaṅgajān |  
-12.18c vyapeta.kalmaṣo 'bhyeti tāv eva-ubhau mahā.ojasau || 18 ||  
+१२।१८अ सो ऽनुभूय-असुख।उदर्कान् दोषान् विषयसङ्गजान् ।  
+१२।१८च् व्यपेत।कल्मषो ऽभ्येति ताव् एव-उभौ महा।ओजसौ ॥ १८ ॥  
 
 
-12.19a tau dharmaṃ paśyatas tasya pāpaṃ ca-atandritau saha |  
-12.19c yābhyāṃ prāpnoti sampṛktaḥ pretya-iha ca sukha.asukham || 19 ||  
+१२।१९अ तौ धर्मं पश्यतस् तस्य पापं च-अतन्द्रितौ सह ।  
+१२।१९च् याभ्यां प्राप्नोति सम्पृक्तः प्रेत्य-इह च सुख।असुखम् ॥ १९ ॥  
 
 
-12.20a yady ācarati dharmaṃ sa prāyaśo 'dharmam alpaśaḥ | 12.20av/  \[M\] : “yatha-ācarati”  
-12.20c tair eva ca-āvṛto bhūtaiḥ svarge sukham upāśnute || 20 ||  
+१२।२०अ यद्य् आचरति धर्मं स प्रायशो ऽधर्मम् अल्पशः । १२।२०अव्।  \[म्\] : “यथ-आचरति”  
+१२।२०च् तैर् एव च-आवृतो भूतैः स्वर्गे सुखम् उपाश्नुते ॥ २० ॥  
 
 
-12.21a yadi tu prāyaśo 'dharmaṃ sevate dharmam alpaśaḥ |  
-12.21c tair bhūtaiḥ sa parityakto yāmīḥ prāpnoti yātanāḥ || 21 ||  
+१२।२१अ यदि तु प्रायशो ऽधर्मं सेवते धर्मम् अल्पशः ।  
+१२।२१च् तैर् भूतैः स परित्यक्तो यामीः प्राप्नोति यातनाः ॥ २१ ॥  
 
 
-12.22a yāmīs tā yātanāḥ prāpya sa jīvo vīta.kalmaṣaḥ |  
-12.22c tāny eva pañca bhūtāni punar apyeti bhāgaśaḥ || 22 ||  
+१२।२२अ यामीस् ता यातनाः प्राप्य स जीवो वीत।कल्मषः ।  
+१२।२२च् तान्य् एव पञ्च भूतानि पुनर् अप्येति भागशः ॥ २२ ॥  
 
 
-12.23a etā dṛṣṭvā-asya jīvasya gatīḥ svena-eva cetasā |  
-12.23c dharmato 'dharmataś ca-eva dharme dadhyāt sadā manaḥ || 23 ||  
+१२।२३अ एता दृष्ट्वा-अस्य जीवस्य गतीः स्वेन-एव चेतसा ।  
+१२।२३च् धर्मतो ऽधर्मतश् च-एव धर्मे दध्यात् सदा मनः ॥ २३ ॥  
 
 
- 12.1.1.3. The Three Attributes
- \[O\]  edn 893-899,  \[O\]  tr. 231-232
-12.24a sattvaṃ rajas tamas-ca-eva trīn vidyād ātmano guṇān |  
-12.24c yair vyāpya-imān sthito bhāvān mahān sarvān aśeṣataḥ || 24 ||  
+ १२।१।१।३। थे थ्रेए अत्त्रिबुतेस्
+ \[ओ\]  एद्न् ८९३-८९९,  \[ओ\]  त्र्। २३१-२३२
+१२।२४अ सत्त्वं रजस् तमस्-च-एव त्रीन् विद्याद् आत्मनो गुणान् ।  
+१२।२४च् यैर् व्याप्य-इमान् स्थितो भावान् महान् सर्वान् अशेषतः ॥ २४ ॥  
 
 
-12.25a yo yadā-eṣāṃ guṇo dehe sākalyena-atiricyate |  
-12.25c sa tadā tadguṇaprāyaṃ taṃ karoti śarīriṇam || 25 ||  
+१२।२५अ यो यदा-एषां गुणो देहे साकल्येन-अतिरिच्यते ।  
+१२।२५च् स तदा तद्गुणप्रायं तं करोति शरीरिणम् ॥ २५ ॥  
 
 
-12.26a sattvaṃ jñānaṃ tamo 'jñānaṃ rāga.dveṣau rajaḥ smṛtam |  
-12.26c etad vyāptimad eteṣāṃ sarvabhūtāśritaṃ vapuḥ || 26 ||  
+१२।२६अ सत्त्वं ज्ञानं तमो ऽज्ञानं राग।द्वेषौ रजः स्मृतम् ।  
+१२।२६च् एतद् व्याप्तिमद् एतेषां सर्वभूताश्रितं वपुः ॥ २६ ॥  
 
 
-12.27a tatra yat prītisaṃyuktaṃ kiṃ cid ātmani lakṣayet |  
-12.27c praśāntam iva śuddhābhaṃ sattvaṃ tad upadhārayet || 27 ||  
+१२।२७अ तत्र यत् प्रीतिसंयुक्तं किं चिद् आत्मनि लक्षयेत् ।  
+१२।२७च् प्रशान्तम् इव शुद्धाभं सत्त्वं तद् उपधारयेत् ॥ २७ ॥  
 
 
-12.28a yat tu duḥkhasamāyuktam aprītikaram ātmanaḥ |  
-12.28c tad rajo pratīpaṃ vidyāt satataṃ hāri dehinām || 28 || 12.28cv/  \[M\] : “hartṛ”  
+१२।२८अ यत् तु दुःखसमायुक्तम् अप्रीतिकरम् आत्मनः ।  
+१२।२८च् तद् रजो प्रतीपं विद्यात् सततं हारि देहिनाम् ॥ २८ ॥ १२।२८च्व्।  \[म्\] : “हर्तृ”  
 
 
-12.29a yat tu syān mohasaṃyuktam avyaktaṃ viṣayātmakam |  
-12.29c apratarkyam avijñeyaṃ tamas tad upadhārayet || 29 ||  
+१२।२९अ यत् तु स्यान् मोहसंयुक्तम् अव्यक्तं विषयात्मकम् ।  
+१२।२९च् अप्रतर्क्यम् अविज्ञेयं तमस् तद् उपधारयेत् ॥ २९ ॥  
 
 
-12.30a trayāṇām api ca-eteṣāṃ guṇānāṃ yaḥ phala.udayaḥ |  
-12.30c agryo madhyo jaghanyaś ca taṃ pravakṣyāmy aśeṣataḥ || 30 ||  
+१२।३०अ त्रयाणाम् अपि च-एतेषां गुणानां यः फल।उदयः ।  
+१२।३०च् अग्र्यो मध्यो जघन्यश् च तं प्रवक्ष्याम्य् अशेषतः ॥ ३० ॥  
 
 
-12.31a vedābhyāsas tapo jñānaṃ śaucam indriyanigrahaḥ |  
-12.31c dharmakriyā-ātmacintā ca sāttvikaṃ guṇalakṣaṇam || 31 ||  
+१२।३१अ वेदाभ्यासस् तपो ज्ञानं शौचम् इन्द्रियनिग्रहः ।  
+१२।३१च् धर्मक्रिया-आत्मचिन्ता च सात्त्विकं गुणलक्षणम् ॥ ३१ ॥  
 
 
-12.32a ārambharucitā-adhairyam asatkārya.parigrahaḥ |  
-12.32c viṣaya.upasevā ca-ajasraṃ rājasaṃ guṇalakṣaṇam || 32 ||  
+१२।३२अ आरम्भरुचिता-अधैर्यम् असत्कार्य।परिग्रहः ।  
+१२।३२च् विषय।उपसेवा च-अजस्रं राजसं गुणलक्षणम् ॥ ३२ ॥  
 
 
-12.33a lobhaḥ svapno 'dhṛtiḥ krauryaṃ nāstikyaṃ bhinnavṛttitā |  
-12.33c yāciṣṇutā pramādaś ca tāmasaṃ guṇalakṣaṇam || 33 ||  
+१२।३३अ लोभः स्वप्नो ऽधृतिः क्रौर्यं नास्तिक्यं भिन्नवृत्तिता ।  
+१२।३३च् याचिष्णुता प्रमादश् च तामसं गुणलक्षणम् ॥ ३३ ॥  
 
 
-12.34a trayāṇām api ca-eteṣāṃ guṇānāṃ triṣu tiṣṭhatām |  
-12.34c idaṃ sāmāsikaṃ jñeyaṃ kramaśo guṇalakṣaṇam || 34 ||  
+१२।३४अ त्रयाणाम् अपि च-एतेषां गुणानां त्रिषु तिष्ठताम् ।  
+१२।३४च् इदं सामासिकं ज्ञेयं क्रमशो गुणलक्षणम् ॥ ३४ ॥  
 
 
-12.35a yat karma kṛtvā kurvaṃś ca kariṣyaṃś ca-eva lajjati |  
-12.35c taj jñeyaṃ viduṣā sarvaṃ tāmasaṃ guṇalakṣaṇam || 35 ||  
+१२।३५अ यत् कर्म कृत्वा कुर्वंश् च करिष्यंश् च-एव लज्जति ।  
+१२।३५च् तज् ज्ञेयं विदुषा सर्वं तामसं गुणलक्षणम् ॥ ३५ ॥  
 
 
-12.36a yena-asmin karmanā loke khyātim icchati puṣkalām |  
-12.36c na ca śocaty asampattau tad vijñeyaṃ tu rājasam || 36 ||  
+१२।३६अ येन-अस्मिन् कर्मना लोके ख्यातिम् इच्छति पुष्कलाम् ।  
+१२।३६च् न च शोचत्य् असम्पत्तौ तद् विज्ञेयं तु राजसम् ॥ ३६ ॥  
 
 
-12.37a yat sarveṇa-icchati jñātuṃ yan na lajjati ca-ācaran |  
-12.37c yena tuṣyati ca-ātmā-asya tat sattvaguṇalakṣaṇam || 37 ||  
+१२।३७अ यत् सर्वेण-इच्छति ज्ञातुं यन् न लज्जति च-आचरन् ।  
+१२।३७च् येन तुष्यति च-आत्मा-अस्य तत् सत्त्वगुणलक्षणम् ॥ ३७ ॥  
 
 
-12.38a tamaso lakṣaṇaṃ kāmo rajasas tv artha ucyate |  
-12.38c sattvasya lakṣaṇaṃ dharmaḥ śraiṣṭhyam eṣāṃ yathā.uttaram || 38 ||  
+१२।३८अ तमसो लक्षणं कामो रजसस् त्व् अर्थ उच्यते ।  
+१२।३८च् सत्त्वस्य लक्षणं धर्मः श्रैष्ठ्यम् एषां यथा।उत्तरम् ॥ ३८ ॥  
 
 
-12.39a yena yas tu guṇena-eṣāṃ saṃsarān pratipadyate | 12.39av/  \[M\] : “yena yāṃs tu”  
-12.39c tān samāsena vakṣyāmi sarvasya-asya yathākramam || 39 ||  
+१२।३९अ येन यस् तु गुणेन-एषां संसरान् प्रतिपद्यते । १२।३९अव्।  \[म्\] : “येन यांस् तु”  
+१२।३९च् तान् समासेन वक्ष्यामि सर्वस्य-अस्य यथाक्रमम् ॥ ३९ ॥  
 
 
-12.40a devatvaṃ sāttvikā yānti manuṣyatvaṃ ca rājasāḥ |  
-12.40c tiryaktvaṃ tāmasā nityam ity eṣā trividhā gatiḥ || 40 ||  
+१२।४०अ देवत्वं सात्त्विका यान्ति मनुष्यत्वं च राजसाः ।  
+१२।४०च् तिर्यक्त्वं तामसा नित्यम् इत्य् एषा त्रिविधा गतिः ॥ ४० ॥  
 
 
-12.41a trividhā trividhā-eṣā tu vijñeyā gauṇikī gatiḥ |  
-12.41c adhamā madhyama.agryā ca karma.vidyā.viśeṣataḥ || 41 ||  
+१२।४१अ त्रिविधा त्रिविधा-एषा तु विज्ञेया गौणिकी गतिः ।  
+१२।४१च् अधमा मध्यम।अग्र्या च कर्म।विद्या।विशेषतः ॥ ४१ ॥  
 
 
-12.42a sthāvarāḥ kṛmi.kīṭāś ca matsyāḥ sarpāḥ sa.kacchapāḥ |  
-12.42c paśavaś ca mṛgāś ca-eva jaghanyā tāmasī gatiḥ || 42 ||  
+१२।४२अ स्थावराः कृमि।कीटाश् च मत्स्याः सर्पाः स।कच्छपाः ।  
+१२।४२च् पशवश् च मृगाश् च-एव जघन्या तामसी गतिः ॥ ४२ ॥  
 
 
-12.43a hastinaś ca turaṅgāś ca śūdrā mlecchāś ca garhitāḥ |  
-12.43c siṃhā vyāghrā varāhāś ca madhyamā tāmasī gatiḥ || 43 ||  
+१२।४३अ हस्तिनश् च तुरङ्गाश् च शूद्रा म्लेच्छाश् च गर्हिताः ।  
+१२।४३च् सिंहा व्याघ्रा वराहाश् च मध्यमा तामसी गतिः ॥ ४३ ॥  
 
 
-12.44a cāraṇāś ca suparṇāś ca puruṣāś ca-eva dāmbhikāḥ |  
-12.44c rakṣāṃsi ca piśācāś ca tāmasīṣu-uttamā gatiḥ || 44 ||  
+१२।४४अ चारणाश् च सुपर्णाश् च पुरुषाश् च-एव दाम्भिकाः ।  
+१२।४४च् रक्षांसि च पिशाचाश् च तामसीषु-उत्तमा गतिः ॥ ४४ ॥  
 
 
-12.45a jhallā mallā naṭāś ca-eva puruṣāḥ śastra.vṛttayaḥ |  
-12.45c dyūta.pāna.prasaktāś ca jaghanyā rājasī gatiḥ || 45 ||  
+१२।४५अ झल्ला मल्ला नटाश् च-एव पुरुषाः शस्त्र।वृत्तयः ।  
+१२।४५च् द्यूत।पान।प्रसक्ताश् च जघन्या राजसी गतिः ॥ ४५ ॥  
 
 
-12.46a rājānaḥ kṣatriyāś ca-eva rājñāṃ ca-eva purohitāḥ |  
-12.46c vāda.yuddha.pradhānāś ca madhyamā rājasī gatiḥ || 46 ||  
+१२।४६अ राजानः क्षत्रियाश् च-एव राज्ञां च-एव पुरोहिताः ।  
+१२।४६च् वाद।युद्ध।प्रधानाश् च मध्यमा राजसी गतिः ॥ ४६ ॥  
 
 
-12.47a gandharvā guhyakā yakṣā vibudhānucarāś ca ye |  
-12.47c tathā-eva-apsarasaḥ sarvā rājasīṣu-uttamā gatiḥ || 47 ||  
+१२।४७अ गन्धर्वा गुह्यका यक्षा विबुधानुचराश् च ये ।  
+१२।४७च् तथा-एव-अप्सरसः सर्वा राजसीषु-उत्तमा गतिः ॥ ४७ ॥  
 
 
-12.48a tāpasā yatayo viprā ye ca vaimānikā gaṇāḥ |  
-12.48c nakṣatrāṇi ca daityāś ca prathamā sāttvikī gatiḥ || 48 ||  
+१२।४८अ तापसा यतयो विप्रा ये च वैमानिका गणाः ।  
+१२।४८च् नक्षत्राणि च दैत्याश् च प्रथमा सात्त्विकी गतिः ॥ ४८ ॥  
 
 
-12.49a yajvāna ṛṣayo devā vedā jyotīṃṣi vatsarāḥ |  
-12.49c pitaraś ca-eva sādhyāś ca dvitīyā sāttvikī gatiḥ || 49 ||  
+१२।४९अ यज्वान ऋषयो देवा वेदा ज्योतींषि वत्सराः ।  
+१२।४९च् पितरश् च-एव साध्याश् च द्वितीया सात्त्विकी गतिः ॥ ४९ ॥  
 
 
-12.50a brahmā viśvasṛjo dharmo mahān avyaktam eva ca |  
-12.50c uttamāṃ sāttvikīm etāṃ gatim āhur manīṣiṇaḥ || 50 ||  
+१२।५०अ ब्रह्मा विश्वसृजो धर्मो महान् अव्यक्तम् एव च ।  
+१२।५०च् उत्तमां सात्त्विकीम् एतां गतिम् आहुर् मनीषिणः ॥ ५० ॥  
 
 
-12.51a eṣa sarvaḥ samuddiṣṭas tri.prakārasya karmaṇaḥ | 12.51av/  \[M\] : “triḥ.prakārasya”  
-12.51c trividhas trividhaḥ kṛtsnaḥ saṃsāraḥ sārvabhautikaḥ || 51 ||  
+१२।५१अ एष सर्वः समुद्दिष्टस् त्रि।प्रकारस्य कर्मणः । १२।५१अव्।  \[म्\] : “त्रिः।प्रकारस्य”  
+१२।५१च् त्रिविधस् त्रिविधः कृत्स्नः संसारः सार्वभौतिकः ॥ ५१ ॥  
 
 
-12.52a indriyāṇāṃ prasaṅgena dharmasya-asevanena ca |  
-12.52c pāpān saṃyānti saṃsārān avidvāṃso narādhamāḥ || 52 ||  
+१२।५२अ इन्द्रियाणां प्रसङ्गेन धर्मस्य-असेवनेन च ।  
+१२।५२च् पापान् संयान्ति संसारान् अविद्वांसो नराधमाः ॥ ५२ ॥  
 
 
-12.53a yāṃ yāṃ yoniṃ tu jīvo 'yaṃ yena yena-iha karmaṇā |  
-12.53c kramaśo yāti loke 'smiṃs tat tat sarvaṃ nibodhata || 53 ||  
+१२।५३अ यां यां योनिं तु जीवो ऽयं येन येन-इह कर्मणा ।  
+१२।५३च् क्रमशो याति लोके ऽस्मिंस् तत् तत् सर्वं निबोधत ॥ ५३ ॥  
 
 
- 12.1.1.4. Sin and Rebirth
- \[O\]  edn 899-904,  \[O\]  tr. 233-234
-12.54a bahūn varṣagaṇān ghorān narakān prāpya tatkṣayāt |  
-12.54c saṃsārān pratipadyante mahāpātakinas tv imān || 54 ||  
+ १२।१।१।४। सिन् अन्द् रेबिर्थ्
+ \[ओ\]  एद्न् ८९९-९०४,  \[ओ\]  त्र्। २३३-२३४
+१२।५४अ बहून् वर्षगणान् घोरान् नरकान् प्राप्य तत्क्षयात् ।  
+१२।५४च् संसारान् प्रतिपद्यन्ते महापातकिनस् त्व् इमान् ॥ ५४ ॥  
 
 
-12.55a śva.sūkara.khara.uṣṭrāṇāṃ go.'ja.avi.mṛga.pakṣiṇāṃ |  
-12.55c caṇḍāla.pukkasānāṃ ca brahmahā yonim ṛcchati || 55 ||  
+१२।५५अ श्व।सूकर।खर।उष्ट्राणां गो।ऽज।अवि।मृग।पक्षिणां ।  
+१२।५५च् चण्डाल।पुक्कसानां च ब्रह्महा योनिम् ऋच्छति ॥ ५५ ॥  
 
 
-12.56a kṛmi.kīṭa.pataṅgānāṃ viṣ.bhujāṃ ca-eva pakṣiṇām |  
-12.56c hiṃsrāṇāṃ ca-eva sattvānāṃ surāpo brāhmaṇo vrajet || 56 ||  
+१२।५६अ कृमि।कीट।पतङ्गानां विष्।भुजां च-एव पक्षिणाम् ।  
+१२।५६च् हिंस्राणां च-एव सत्त्वानां सुरापो ब्राह्मणो व्रजेत् ॥ ५६ ॥  
 
 
-12.57a lūtā.ahi.saraṭānāṃ ca tiraścāṃ ca-ambucāriṇām |  
-12.57c hiṃsrāṇāṃ ca piśācānāṃ steno vipraḥ sahasraśaḥ || 57 ||  
+१२।५७अ लूता।अहि।सरटानां च तिरश्चां च-अम्बुचारिणाम् ।  
+१२।५७च् हिंस्राणां च पिशाचानां स्तेनो विप्रः सहस्रशः ॥ ५७ ॥  
 
 
-12.58a tṛṇa.gulma.latānāṃ ca kravyādāṃ daṃṣṭriṇām api |  
-12.58c krūrakarmakṛtāṃ ca-eva śataśo gurutalpagaḥ || 58 ||  
+१२।५८अ तृण।गुल्म।लतानां च क्रव्यादां दंष्ट्रिणाम् अपि ।  
+१२।५८च् क्रूरकर्मकृतां च-एव शतशो गुरुतल्पगः ॥ ५८ ॥  
 
 
-12.59a hiṃsrā bhavanti kravyādāḥ kṛmayo 'medhyabhakṣiṇaḥ |  
-12.59c parasparādinaḥ stenāḥ pretya-antyastrīniṣeviṇaḥ || 59 ||  
+१२।५९अ हिंस्रा भवन्ति क्रव्यादाः कृमयो ऽमेध्यभक्षिणः ।  
+१२।५९च् परस्परादिनः स्तेनाः प्रेत्य-अन्त्यस्त्रीनिषेविणः ॥ ५९ ॥  
 
 
-12.60a saṃyogaṃ patitair gatvā parasya-eva ca yoṣitam |  
-12.60c apahṛtya ca viprasvaṃ bhavati brahmarākṣasaḥ || 60 ||  
+१२।६०अ संयोगं पतितैर् गत्वा परस्य-एव च योषितम् ।  
+१२।६०च् अपहृत्य च विप्रस्वं भवति ब्रह्मराक्षसः ॥ ६० ॥  
 
 
-12.61a maṇi.muktā.pravālāni hṛtvā lobhena mānavaḥ |  
-12.61c vividhāṇi ca ratnāni jāyate hemakartṛṣu || 61 ||  
+१२।६१अ मणि।मुक्ता।प्रवालानि हृत्वा लोभेन मानवः ।  
+१२।६१च् विविधाणि च रत्नानि जायते हेमकर्तृषु ॥ ६१ ॥  
 
 
-12.62a dhānyaṃ hṛtvā bhavaty ākhuḥ kāṃsyaṃ haṃso jalaṃ plavaḥ |  
-12.62c madhu daṃśaḥ payaḥ kāko rasaṃ śvā nakulo ghṛtam || 62 ||  
+१२।६२अ धान्यं हृत्वा भवत्य् आखुः कांस्यं हंसो जलं प्लवः ।  
+१२।६२च् मधु दंशः पयः काको रसं श्वा नकुलो घृतम् ॥ ६२ ॥  
 
 
-12.63a māṃsaṃ gṛdhro vapāṃ madgus tailaṃ tailapakaḥ khagaḥ |  
-12.63c cīrīvākas tu lavaṇaṃ balākā śakunir dadhi || 63 ||  
+१२।६३अ मांसं गृध्रो वपां मद्गुस् तैलं तैलपकः खगः ।  
+१२।६३च् चीरीवाकस् तु लवणं बलाका शकुनिर् दधि ॥ ६३ ॥  
 
 
-12.64a kauśeyaṃ tittirir hṛtvā kṣaumaṃ hṛtvā tu darduraḥ |  
-12.64c kārpāsatāntavaṃ krauñco godhā gāṃ vāggudo guḍam || 64 ||  
+१२।६४अ कौशेयं तित्तिरिर् हृत्वा क्षौमं हृत्वा तु दर्दुरः ।  
+१२।६४च् कार्पासतान्तवं क्रौञ्चो गोधा गां वाग्गुदो गुडम् ॥ ६४ ॥  
 
 
-12.65a chucchundariḥ śubhān gandhān patraśākaṃ tu barhiṇaḥ | 12.65av/  \[M\] : “chucchundarīḥ”  
-12.65c śvāvit kṛtānnaṃ vividham akṛtānnaṃ tu śalyakaḥ || 65 ||  
+१२।६५अ छुच्छुन्दरिः शुभान् गन्धान् पत्रशाकं तु बर्हिणः । १२।६५अव्।  \[म्\] : “छुच्छुन्दरीः”  
+१२।६५च् श्वावित् कृतान्नं विविधम् अकृतान्नं तु शल्यकः ॥ ६५ ॥  
 
 
-12.66a bako bhavati hṛtvā-agniṃ gṛhakārī hy upaskaram |  
-12.66c raktāni hṛtvā vāsāṃsi jāyate jīvajīvakaḥ || 66 ||  
+१२।६६अ बको भवति हृत्वा-अग्निं गृहकारी ह्य् उपस्करम् ।  
+१२।६६च् रक्तानि हृत्वा वासांसि जायते जीवजीवकः ॥ ६६ ॥  
 
 
-12.67a vṛko mṛga.ibhaṃ vyāghro 'śvaṃ phala.mūlaṃ tu markaṭaḥ |  
-12.67c strīm ṛkṣaḥ stokako vāri yānāny uṣṭraḥ paśūn ajaḥ || 67 ||  
+१२।६७अ वृको मृग।इभं व्याघ्रो ऽश्वं फल।मूलं तु मर्कटः ।  
+१२।६७च् स्त्रीम् ऋक्षः स्तोकको वारि यानान्य् उष्ट्रः पशून् अजः ॥ ६७ ॥  
 
 
-12.68a yad vā tad vā paradravyam apahṛtya balāt-naraḥ |  
-12.68c avaśyaṃ yāti tiryaktvaṃ jagdhvā ca-eva-ahutaṃ haviḥ || 68 ||  
+१२।६८अ यद् वा तद् वा परद्रव्यम् अपहृत्य बलात्-नरः ।  
+१२।६८च् अवश्यं याति तिर्यक्त्वं जग्ध्वा च-एव-अहुतं हविः ॥ ६८ ॥  
 
 
-12.69a striyo 'py etena kalpena hṛtvā doṣam avāpnuyuḥ |  
-12.69c eteṣām eva jantūnāṃ bhāryātvam upayānti tāḥ || 69 ||  
+१२।६९अ स्त्रियो ऽप्य् एतेन कल्पेन हृत्वा दोषम् अवाप्नुयुः ।  
+१२।६९च् एतेषाम् एव जन्तूनां भार्यात्वम् उपयान्ति ताः ॥ ६९ ॥  
 
 
-12.70a svebhyaḥ svebhyas tu karmabhyaś cyutā varṇā hy anāpadi |  
-12.70c pāpān saṃsṛtya saṃsārān preṣyatāṃ yānti śatruṣu || 70 || 12.70cv/  \[M\] : “yānti dasyuṣu”  
+१२।७०अ स्वेभ्यः स्वेभ्यस् तु कर्मभ्यश् च्युता वर्णा ह्य् अनापदि ।  
+१२।७०च् पापान् संसृत्य संसारान् प्रेष्यतां यान्ति शत्रुषु ॥ ७० ॥ १२।७०च्व्।  \[म्\] : “यान्ति दस्युषु”  
 
 
-12.71a vāntāśy ulkāmukhaḥ preto vipro dharmāt svakāc cyutaḥ |  
-12.71c amedhya.kuṇapāśī ca kṣatriyaḥ kaṭapūtanaḥ || 71 || 12.71cv/  \[M\] : “kūṭapūtanaḥ”  
+१२।७१अ वान्ताश्य् उल्कामुखः प्रेतो विप्रो धर्मात् स्वकाच् च्युतः ।  
+१२।७१च् अमेध्य।कुणपाशी च क्षत्रियः कटपूतनः ॥ ७१ ॥ १२।७१च्व्।  \[म्\] : “कूटपूतनः”  
 
 
-12.72a maitrākṣajyotikaḥ preto vaiśyo bhavati pūyabhuk | 12.72av/  \[M\] : “maitrākṣijyotikaḥ”  
-12.72c cailāśakaś ca bhavati śūdro dharmāt svakāc cyutaḥ || 72 ||  
+१२।७२अ मैत्राक्षज्योतिकः प्रेतो वैश्यो भवति पूयभुक् । १२।७२अव्।  \[म्\] : “मैत्राक्षिज्योतिकः”  
+१२।७२च् चैलाशकश् च भवति शूद्रो धर्मात् स्वकाच् च्युतः ॥ ७२ ॥  
 
 
-12.73a yathā yathā niṣevante viṣayān viṣaya.ātmakāḥ |  
-12.73c tathā tathā kuśalatā teṣāṃ teṣu-upajāyate || 73 ||  
+१२।७३अ यथा यथा निषेवन्ते विषयान् विषय।आत्मकाः ।  
+१२।७३च् तथा तथा कुशलता तेषां तेषु-उपजायते ॥ ७३ ॥  
 
 
-12.74a te 'bhyāsāt karmaṇāṃ teṣāṃ pāpānām alpa.buddhayaḥ |  
-12.74c samprāpnuvanti duḥkhāni tāsu tāsv iha yoniṣu || 74 ||  
+१२।७४अ ते ऽभ्यासात् कर्मणां तेषां पापानाम् अल्प।बुद्धयः ।  
+१२।७४च् सम्प्राप्नुवन्ति दुःखानि तासु तास्व् इह योनिषु ॥ ७४ ॥  
 
 
-12.75a tāmisrādiṣu ca-ugreṣu narakeṣu vivartanam |  
-12.75c asipatravanādīni bandhana.chedanāni ca || 75 ||  
+१२।७५अ तामिस्रादिषु च-उग्रेषु नरकेषु विवर्तनम् ।  
+१२।७५च् असिपत्रवनादीनि बन्धन।छेदनानि च ॥ ७५ ॥  
 
 
-12.76a vividhāś ca-eva sampīḍāḥ kāka.ulūkaiś ca bhakṣaṇam |  
-12.76c karambhavālukātāpān kumbhīpākāṃś ca dāruṇān || 76 ||  
+१२।७६अ विविधाश् च-एव सम्पीडाः काक।उलूकैश् च भक्षणम् ।  
+१२।७६च् करम्भवालुकातापान् कुम्भीपाकांश् च दारुणान् ॥ ७६ ॥  
 
 
-12.77a sambhavāṃś ca viyonīṣu duḥkha.prāyāsu nityaśaḥ |  
-12.77c śīta.ātapa.abhighātāṃś ca vividhāni bhayāni ca || 77 ||  
+१२।७७अ सम्भवांश् च वियोनीषु दुःख।प्रायासु नित्यशः ।  
+१२।७७च् शीत।आतप।अभिघातांश् च विविधानि भयानि च ॥ ७७ ॥  
 
 
-12.78a asakṛd garbhavāseṣu vāsaṃ janma ca dāruṇam |  
-12.78c bandhanāni ca kāṣṭhāni parapreṣyatvam eva ca || 78 || 12.78cv/  \[M\] : “kaṣṭāni”  
+१२।७८अ असकृद् गर्भवासेषु वासं जन्म च दारुणम् ।  
+१२।७८च् बन्धनानि च काष्ठानि परप्रेष्यत्वम् एव च ॥ ७८ ॥ १२।७८च्व्।  \[म्\] : “कष्टानि”  
 
 
-12.79a bandhu.priya.viyogāṃś ca saṃvāsaṃ ca-eva durjanaiḥ |  
-12.79c dravyārjanaṃ ca nāśaṃ ca mitra.amitrasya ca-arjanam || 79 ||  
+१२।७९अ बन्धु।प्रिय।वियोगांश् च संवासं च-एव दुर्जनैः ।  
+१२।७९च् द्रव्यार्जनं च नाशं च मित्र।अमित्रस्य च-अर्जनम् ॥ ७९ ॥  
 
 
-12.80a jarāṃ ca-eva-a.pratīkārāṃ vyādhibhiś ca-upapīḍanam |  
-12.80c kleśāṃś ca vividhāṃs tāṃs tān mṛtyum eva ca dur.jayam || 80 ||  
+१२।८०अ जरां च-एव-अ।प्रतीकारां व्याधिभिश् च-उपपीडनम् ।  
+१२।८०च् क्लेशांश् च विविधांस् तांस् तान् मृत्युम् एव च दुर्।जयम् ॥ ८० ॥  
 
 
-12.81a yādṛśena tu bhāvena yad yat karma niṣevate |  
-12.81c tādṛśena śarīreṇa tat tat phalam upāśnute || 81 ||  
+१२।८१अ यादृशेन तु भावेन यद् यत् कर्म निषेवते ।  
+१२।८१च् तादृशेन शरीरेण तत् तत् फलम् उपाश्नुते ॥ ८१ ॥  
 
 
-12.82a eṣa sarvaḥ samuddiṣṭaḥ karmaṇāṃ vaḥ phala.udayaḥ |  
-12.82c naiḥśreyasakaraṃ karma viprasya-idaṃ nibodhata || 82 ||  
+१२।८२अ एष सर्वः समुद्दिष्टः कर्मणां वः फल।उदयः ।  
+१२।८२च् नैःश्रेयसकरं कर्म विप्रस्य-इदं निबोधत ॥ ८२ ॥  
 
 
-# 12.1.2. Actions Leading to the Supreme Good
- \[O\]  edn 904-909,  \[O\]  tr. 234-235
-12.83a vedābhyāsas tapo jñānam indriyāṇāṃ ca saṃyamaḥ |  
-12.83c ahiṃsā gurusevā ca niḥśreyasakaraṃ param || 83 ||  
+# १२।१।२। अच्तिओन्स् लेअदिन्ग् तो थे सुप्रेमे गोओद्
+ \[ओ\]  एद्न् ९०४-९०९,  \[ओ\]  त्र्। २३४-२३५
+१२।८३अ वेदाभ्यासस् तपो ज्ञानम् इन्द्रियाणां च संयमः ।  
+१२।८३च् अहिंसा गुरुसेवा च निःश्रेयसकरं परम् ॥ ८३ ॥  
 
 
-12.84a sarveṣām api ca-eteṣāṃ śubhānām iha karmaṇām |  
-12.84c kiṃ cit-śreyaskarataraṃ karma-uktaṃ puruṣaṃ prati || 84 ||  
+१२।८४अ सर्वेषाम् अपि च-एतेषां शुभानाम् इह कर्मणाम् ।  
+१२।८४च् किं चित्-श्रेयस्करतरं कर्म-उक्तं पुरुषं प्रति ॥ ८४ ॥  
 
 
-12.85a sarveṣām api ca-eteṣām ātmajñānaṃ paraṃ smṛtam |  
-12.85c tadd hy agryaṃ sarvavidyānāṃ prāpyate hy amṛtaṃ tataḥ || 85 ||  
+१२।८५अ सर्वेषाम् अपि च-एतेषाम् आत्मज्ञानं परं स्मृतम् ।  
+१२।८५च् तद्द् ह्य् अग्र्यं सर्वविद्यानां प्राप्यते ह्य् अमृतं ततः ॥ ८५ ॥  
 
 
-12.86a ṣaṇṇām eṣāṃ tu sarveṣāṃ karmaṇāṃ pretya ca-iha ca |  
-12.86c śreyaskarataraṃ jñeyaṃ sarvadā karma vaidikam || 86 ||  
+१२।८६अ षण्णाम् एषां तु सर्वेषां कर्मणां प्रेत्य च-इह च ।  
+१२।८६च् श्रेयस्करतरं ज्ञेयं सर्वदा कर्म वैदिकम् ॥ ८६ ॥  
 
 
-12.87a vaidike karmayoge tu sarvāṇy etāny aśeṣataḥ |  
-12.87c antarbhavanti kramaśas tasmiṃs tasmin kriyāvidhau || 87 ||  
+१२।८७अ वैदिके कर्मयोगे तु सर्वाण्य् एतान्य् अशेषतः ।  
+१२।८७च् अन्तर्भवन्ति क्रमशस् तस्मिंस् तस्मिन् क्रियाविधौ ॥ ८७ ॥  
 
 
-12.88a sukhābhyudayikaṃ ca-eva naiḥśreyasikam eva ca |  
-12.88c pravṛttaṃ ca nivṛttaṃ ca dvividhaṃ karma vaidikam || 88 ||  
+१२।८८अ सुखाभ्युदयिकं च-एव नैःश्रेयसिकम् एव च ।  
+१२।८८च् प्रवृत्तं च निवृत्तं च द्विविधं कर्म वैदिकम् ॥ ८८ ॥  
 
 
-12.89a iha ca-amutra vā kāmyaṃ pravṛttaṃ karma kīrtyate |  
-12.89c niṣ.kāmaṃ jñātapūrvaṃ tu nivṛttam upadiśyate || 89 ||  
+१२।८९अ इह च-अमुत्र वा काम्यं प्रवृत्तं कर्म कीर्त्यते ।  
+१२।८९च् निष्।कामं ज्ञातपूर्वं तु निवृत्तम् उपदिश्यते ॥ ८९ ॥  
 
 
-12.90a pravṛttaṃ karma saṃsevyaṃ devānām eti sāmyatām |  
-12.90c nivṛttaṃ sevamānas tu bhūtāny atyeti pañca vai || 90 ||  
+१२।९०अ प्रवृत्तं कर्म संसेव्यं देवानाम् एति साम्यताम् ।  
+१२।९०च् निवृत्तं सेवमानस् तु भूतान्य् अत्येति पञ्च वै ॥ ९० ॥  
 
 
-12.91a sarvabhūteṣu ca-ātmānaṃ sarvabhūtāni ca-ātmani |  
-12.91c samaṃ paśyann ātmayājī svārājyam adhigacchati || 91 ||  
+१२।९१अ सर्वभूतेषु च-आत्मानं सर्वभूतानि च-आत्मनि ।  
+१२।९१च् समं पश्यन्न् आत्मयाजी स्वाराज्यम् अधिगच्छति ॥ ९१ ॥  
 
 
-12.92a yathā.uktāny api karmāṇi parihāya dvijottamaḥ |  
-12.92c ātmajñāne śame ca syād vedābhyāse ca yatnavān || 92 ||  
+१२।९२अ यथा।उक्तान्य् अपि कर्माणि परिहाय द्विजोत्तमः ।  
+१२।९२च् आत्मज्ञाने शमे च स्याद् वेदाभ्यासे च यत्नवान् ॥ ९२ ॥  
 
 
-12.93a etadd hi janmasāphalyaṃ brāhmaṇasya viśeṣataḥ |  
-12.93c prāpya-etat kṛta.kṛtyo hi dvijo bhavati na-anyathā || 93 ||  
+१२।९३अ एतद्द् हि जन्मसाफल्यं ब्राह्मणस्य विशेषतः ।  
+१२।९३च् प्राप्य-एतत् कृत।कृत्यो हि द्विजो भवति न-अन्यथा ॥ ९३ ॥  
 
 
-12.94a pitṛ.deva.manuṣyāṇāṃ vedaś cakṣuḥ sanātanam |  
-12.94c aśakyaṃ ca-aprameyaṃ ca vedaśāstram iti sthitiḥ || 94 ||  
+१२।९४अ पितृ।देव।मनुष्याणां वेदश् चक्षुः सनातनम् ।  
+१२।९४च् अशक्यं च-अप्रमेयं च वेदशास्त्रम् इति स्थितिः ॥ ९४ ॥  
 
 
-12.95a yā vedabāhyāḥ smṛtayo yāś ca kāś ca kudṛṣṭayaḥ | 12.95av/  \[M\] : “śrutayo”  
-12.95c sarvās tā niṣ.phalāḥ pretya tamo.niṣṭhā hi tāḥ smṛtāḥ || 95 ||  
+१२।९५अ या वेदबाह्याः स्मृतयो याश् च काश् च कुदृष्टयः । १२।९५अव्।  \[म्\] : “श्रुतयो”  
+१२।९५च् सर्वास् ता निष्।फलाः प्रेत्य तमो।निष्ठा हि ताः स्मृताः ॥ ९५ ॥  
 
 
-12.96a utpadyante cyavante ca yāny ato 'nyāni kāni cit | 12.96av/  \[M\] : “utpadyante vinaśyanti”  
-12.96c tāny arvākkālikatayā niṣ.phalāny anṛtāni ca || 96 ||  
+१२।९६अ उत्पद्यन्ते च्यवन्ते च यान्य् अतो ऽन्यानि कानि चित् । १२।९६अव्।  \[म्\] : “उत्पद्यन्ते विनश्यन्ति”  
+१२।९६च् तान्य् अर्वाक्कालिकतया निष्।फलान्य् अनृतानि च ॥ ९६ ॥  
 
 
-12.97a cāturvarṇyaṃ trayo lokāś catvāraś ca-āśramāḥ pṛthak |  
-12.97c bhūtaṃ bhavyaṃ bhaviṣyaṃ ca sarvaṃ vedāt prasidhyati || 97 || 12.97cv/  \[M\] : “bhūtaṃ bhavad bhaviṣyaṃ ca”  
+१२।९७अ चातुर्वर्ण्यं त्रयो लोकाश् चत्वारश् च-आश्रमाः पृथक् ।  
+१२।९७च् भूतं भव्यं भविष्यं च सर्वं वेदात् प्रसिध्यति ॥ ९७ ॥ १२।९७च्व्।  \[म्\] : “भूतं भवद् भविष्यं च”  
 
 
-12.98a śabdaḥ sparśaś ca rūpaṃ ca raso gandhaś ca pañcamaḥ |  
-12.98c vedād eva prasūyante prasūtir guṇa.karmataḥ || 98 ||  
+१२।९८अ शब्दः स्पर्शश् च रूपं च रसो गन्धश् च पञ्चमः ।  
+१२।९८च् वेदाद् एव प्रसूयन्ते प्रसूतिर् गुण।कर्मतः ॥ ९८ ॥  
 
 
-12.99a bibharti sarvabhūtāni vedaśāstraṃ sanātanam |  
-12.99c tasmād etat paraṃ manye yat-jantor asya sādhanam || 99 ||  
+१२।९९अ बिभर्ति सर्वभूतानि वेदशास्त्रं सनातनम् ।  
+१२।९९च् तस्माद् एतत् परं मन्ये यत्-जन्तोर् अस्य साधनम् ॥ ९९ ॥  
 
 
-12.100a senāpatyaṃ ca rājyaṃ ca daṇḍanetṛtvam eva ca | 12.100av/  \[M\] : “saināpatyaṃ”  
-12.100c sarvalokādhipatyaṃ ca vedaśāstravid arhati || 100 ||  
+१२।१००अ सेनापत्यं च राज्यं च दण्डनेतृत्वम् एव च । १२।१००अव्।  \[म्\] : “सैनापत्यं”  
+१२।१००च् सर्वलोकाधिपत्यं च वेदशास्त्रविद् अर्हति ॥ १०० ॥  
 
 
-12.101a yathā jāta.balo vahnir dahaty ārdrān api drumān |  
-12.101c tathā dahati vedajñaḥ karmajaṃ doṣam ātmanaḥ || 101 ||  
+१२।१०१अ यथा जात।बलो वह्निर् दहत्य् आर्द्रान् अपि द्रुमान् ।  
+१२।१०१च् तथा दहति वेदज्ञः कर्मजं दोषम् आत्मनः ॥ १०१ ॥  
 
 
-12.102a vedaśāstrārthatattvajño yatra tatra-āśrame vasan |  
-12.102c iha-eva loke tiṣṭhan sa brahmabhūyāya kalpate || 102 ||  
+१२।१०२अ वेदशास्त्रार्थतत्त्वज्ञो यत्र तत्र-आश्रमे वसन् ।  
+१२।१०२च् इह-एव लोके तिष्ठन् स ब्रह्मभूयाय कल्पते ॥ १०२ ॥  
 
 
-12.103a ajñebhyo granthinaḥ śreṣṭhā granthibhyo dhāriṇo varāḥ |  
-12.103c dhāribhyo jñāninaḥ śreṣṭhā jñānibhyo vyavasāyinaḥ || 103 ||  
+१२।१०३अ अज्ञेभ्यो ग्रन्थिनः श्रेष्ठा ग्रन्थिभ्यो धारिणो वराः ।  
+१२।१०३च् धारिभ्यो ज्ञानिनः श्रेष्ठा ज्ञानिभ्यो व्यवसायिनः ॥ १०३ ॥  
 
 
-12.104a tapo vidyā ca viprasya niḥśreyasakaraṃ param |  
-12.104c tapasā kilbiṣaṃ hanti vidyayā-amṛtam aśnute || 104 ||  
+१२।१०४अ तपो विद्या च विप्रस्य निःश्रेयसकरं परम् ।  
+१२।१०४च् तपसा किल्बिषं हन्ति विद्यया-अमृतम् अश्नुते ॥ १०४ ॥  
 
 
-12.105a pratyakṣaṃ ca-anumānaṃ ca śāstraṃ ca vividhā.āgamam |  
-12.105c trayaṃ suviditaṃ kāryaṃ dharmaśuddhim abhīpsatā || 105 ||  
+१२।१०५अ प्रत्यक्षं च-अनुमानं च शास्त्रं च विविधा।आगमम् ।  
+१२।१०५च् त्रयं सुविदितं कार्यं धर्मशुद्धिम् अभीप्सता ॥ १०५ ॥  
 
 
-12.106a ārṣaṃ dharma.upadeśaṃ ca vedaśāstra.avirodhinā |  
-12.106c yas tarkeṇa-anusandhatte sa dharmaṃ veda na-itaraḥ || 106 ||  
+१२।१०६अ आर्षं धर्म।उपदेशं च वेदशास्त्र।अविरोधिना ।  
+१२।१०६च् यस् तर्केण-अनुसन्धत्ते स धर्मं वेद न-इतरः ॥ १०६ ॥  
 
 
-12.107a naiḥśreyasam idaṃ karma yathā.uditam aśeṣataḥ |  
-12.107c mānavasya-asya śāstrasya rahasyam upadiśyate || 107 || 12.107cv/  \[M\] : “upadekṣyate”  
+१२।१०७अ नैःश्रेयसम् इदं कर्म यथा।उदितम् अशेषतः ।  
+१२।१०७च् मानवस्य-अस्य शास्त्रस्य रहस्यम् उपदिश्यते ॥ १०७ ॥ १२।१०७च्व्।  \[म्\] : “उपदेक्ष्यते”  
 
 
-# 12.1.3. Excursus: Secret Teaching
- \[O\]  edn 909-911,  \[O\]  tr. 235-236
-12.108a an.āmnāteṣu dharmeṣu kathaṃ syād iti ced bhavet |  
-12.108c yaṃ śiṣṭā brāhmaṇā brūyuḥ sa dharmaḥ syād aśaṅkitaḥ || 108 ||  
+# १२।१।३। एxचुर्सुस्: सेच्रेत् तेअछिन्ग्
+ \[ओ\]  एद्न् ९०९-९११,  \[ओ\]  त्र्। २३५-२३६
+१२।१०८अ अन्।आम्नातेषु धर्मेषु कथं स्याद् इति चेद् भवेत् ।  
+१२।१०८च् यं शिष्टा ब्राह्मणा ब्रूयुः स धर्मः स्याद् अशङ्कितः ॥ १०८ ॥  
 
 
-12.109a dharmeṇa-adhigato yais tu vedaḥ sa.paribṛṃhaṇaḥ |  
-12.109c te śiṣṭā brāhmaṇā jñeyāḥ śruti.pratyakṣahetavaḥ || 109 ||  
+१२।१०९अ धर्मेण-अधिगतो यैस् तु वेदः स।परिबृंहणः ।  
+१२।१०९च् ते शिष्टा ब्राह्मणा ज्ञेयाः श्रुति।प्रत्यक्षहेतवः ॥ १०९ ॥  
 
 
-12.110a daśa.avarā vā pariṣadyaṃ dharmaṃ parikalpayet |  
-12.110c try.avarā vā-api vṛttasthā taṃ dharmaṃ na vicālayet || 110 ||  
+१२।११०अ दश।अवरा वा परिषद्यं धर्मं परिकल्पयेत् ।  
+१२।११०च् त्र्य्।अवरा वा-अपि वृत्तस्था तं धर्मं न विचालयेत् ॥ ११० ॥  
 
 
-12.111a traividyo hetukas tarkī nairukto dharmapāṭhakaḥ |  
-12.111c trayaś ca-āśramiṇaḥ pūrve pariṣat syād daśa.avarā || 111 ||  
+१२।१११अ त्रैविद्यो हेतुकस् तर्की नैरुक्तो धर्मपाठकः ।  
+१२।१११च् त्रयश् च-आश्रमिणः पूर्वे परिषत् स्याद् दश।अवरा ॥ १११ ॥  
 
 
-12.112a ṛgvedavid yajurvid-ca sāmavedavid eva ca |  
-12.112c try.avarā pariṣad-jñeyā dharmasaṃśayanirṇaye || 112 ||  
+१२।११२अ ऋग्वेदविद् यजुर्विद्-च सामवेदविद् एव च ।  
+१२।११२च् त्र्य्।अवरा परिषद्-ज्ञेया धर्मसंशयनिर्णये ॥ ११२ ॥  
 
 
-12.113a eko 'pi vedavid dharmaṃ yaṃ vyavasyed dvijottamaḥ |  
-12.113c sa vijñeyaḥ paro dharmo na-ajñānām udito 'yutaiḥ || 113 ||  
+१२।११३अ एको ऽपि वेदविद् धर्मं यं व्यवस्येद् द्विजोत्तमः ।  
+१२।११३च् स विज्ञेयः परो धर्मो न-अज्ञानाम् उदितो ऽयुतैः ॥ ११३ ॥  
 
 
-12.114a a.vratānām a.mantrāṇāṃ jātimātra.upajīvinām |  
-12.114c sahasraśaḥ sametānāṃ pariṣattvaṃ na vidyate || 114 ||  
+१२।११४अ अ।व्रतानाम् अ।मन्त्राणां जातिमात्र।उपजीविनाम् ।  
+१२।११४च् सहस्रशः समेतानां परिषत्त्वं न विद्यते ॥ ११४ ॥  
 
 
-12.115a yaṃ vadanti tamobhūtā mūrkhā dharmam atadvidaḥ |  
-12.115c tatpāpaṃ śatadhā bhūtvā tadvaktṝn anugacchati || 115 ||  
+१२।११५अ यं वदन्ति तमोभूता मूर्खा धर्मम् अतद्विदः ।  
+१२।११५च् तत्पापं शतधा भूत्वा तद्वक्तॄन् अनुगच्छति ॥ ११५ ॥  
 
 
-12.116a etad vo 'bhihitaṃ sarvaṃ niḥśreyasakaraṃ param |  
-12.116c asmād apracyuto vipraḥ prāpnoti paramāṃ gatim || 116 ||  
+१२।११६अ एतद् वो ऽभिहितं सर्वं निःश्रेयसकरं परम् ।  
+१२।११६च् अस्माद् अप्रच्युतो विप्रः प्राप्नोति परमां गतिम् ॥ ११६ ॥  
 
 
- 12.2. Conclusion
- \[O\]  edn 911-913,  \[O\]  tr. 236
-# 12.2.1. Excursus: Summation
- \[O\]  edn 911-913,  \[O\]  tr. 236
-12.117a evaṃ sa bhagavān devo lokānāṃ hitakāmyayā |  
-12.117c dharmasya paramaṃ guhyaṃ mama-idaṃ sarvam uktavān || 117 ||  
+ १२।२। चोन्च्लुसिओन्
+ \[ओ\]  एद्न् ९११-९१३,  \[ओ\]  त्र्। २३६
+# १२।२।१। एxचुर्सुस्: सुम्मतिओन्
+ \[ओ\]  एद्न् ९११-९१३,  \[ओ\]  त्र्। २३६
+१२।११७अ एवं स भगवान् देवो लोकानां हितकाम्यया ।  
+१२।११७च् धर्मस्य परमं गुह्यं मम-इदं सर्वम् उक्तवान् ॥ ११७ ॥  
 
 
-12.118a sarvam ātmani sampaśyet sat-ca-asat-ca samāhitaḥ |  
-12.118c sarvaṃ hy ātmani sampaśyan na-adharme kurute manaḥ || 118 || 12.118cv/  \[M\] : “matim”  
+१२।११८अ सर्वम् आत्मनि सम्पश्येत् सत्-च-असत्-च समाहितः ।  
+१२।११८च् सर्वं ह्य् आत्मनि सम्पश्यन् न-अधर्मे कुरुते मनः ॥ ११८ ॥ १२।११८च्व्।  \[म्\] : “मतिम्”  
 
 
-12.119a ātmā-eva devatāḥ sarvāḥ sarvam ātmany avasthitam |  
-12.119c ātmā hi janayaty eṣāṃ karmayogaṃ śarīriṇām || 119 ||  
+१२।११९अ आत्मा-एव देवताः सर्वाः सर्वम् आत्मन्य् अवस्थितम् ।  
+१२।११९च् आत्मा हि जनयत्य् एषां कर्मयोगं शरीरिणाम् ॥ ११९ ॥  
 
 
-12.120a khaṃ sanniveśayet kheṣu ceṣṭana.sparśane 'nilam |  
-12.120c pakti.dṛṣṭyoḥ paraṃ tejaḥ snehe 'po gāṃ ca mūrtiṣu || 120 ||  
+१२।१२०अ खं सन्निवेशयेत् खेषु चेष्टन।स्पर्शने ऽनिलम् ।  
+१२।१२०च् पक्ति।दृष्ट्योः परं तेजः स्नेहे ऽपो गां च मूर्तिषु ॥ १२० ॥  
 
 
-12.121a manasi-induṃ diśaḥ śrotre krānte viṣṇuṃ bale haram |  
-12.121c vācy agniṃ mitram utsarge prajane ca prajāpatim || 121 ||  
+१२।१२१अ मनसि-इन्दुं दिशः श्रोत्रे क्रान्ते विष्णुं बले हरम् ।  
+१२।१२१च् वाच्य् अग्निं मित्रम् उत्सर्गे प्रजने च प्रजापतिम् ॥ १२१ ॥  
 
 
-12.122a praśāsitāraṃ sarveṣām aṇīyāṃsam aṇor api |  
-12.122c rukma.ābhaṃ svapnadhīgamyaṃ vidyāt taṃ puruṣaṃ param || 122 ||  
+१२।१२२अ प्रशासितारं सर्वेषाम् अणीयांसम् अणोर् अपि ।  
+१२।१२२च् रुक्म।आभं स्वप्नधीगम्यं विद्यात् तं पुरुषं परम् ॥ १२२ ॥  
 
 
-12.123a etam eke vadanty agniṃ manum anye prajāpatim |  
-12.123c indram eke pare prāṇam apare brahma śāśvatam || 123 ||  
+१२।१२३अ एतम् एके वदन्त्य् अग्निं मनुम् अन्ये प्रजापतिम् ।  
+१२।१२३च् इन्द्रम् एके परे प्राणम् अपरे ब्रह्म शाश्वतम् ॥ १२३ ॥  
 
 
-12.124a eṣa sarvāṇi bhūtāni pañcabhir vyāpya mūrtibhiḥ |  
-12.124c janma.vṛddhi.kṣayair nityaṃ saṃsārayati cakravat || 124 ||  
+१२।१२४अ एष सर्वाणि भूतानि पञ्चभिर् व्याप्य मूर्तिभिः ।  
+१२।१२४च् जन्म।वृद्धि।क्षयैर् नित्यं संसारयति चक्रवत् ॥ १२४ ॥  
 
 
-12.125a evaṃ yaḥ sarvabhūteṣu paśyaty ātmānam ātmanā |  
-12.125c sa sarvasamatām etya brahma-abhyeti paraṃ padam || 125 ||  
+१२।१२५अ एवं यः सर्वभूतेषु पश्यत्य् आत्मानम् आत्मना ।  
+१२।१२५च् स सर्वसमताम् एत्य ब्रह्म-अभ्येति परं पदम् ॥ १२५ ॥  
 
 
-12.126a ity etan mānavaṃ śāstraṃ bhṛguproktaṃ paṭhan dvijaḥ |  
-12.126c bhavaty ācāravān nityaṃ yathā.iṣṭāṃ prāpnuyād gatim || 126 ||  
+१२।१२६अ इत्य् एतन् मानवं शास्त्रं भृगुप्रोक्तं पठन् द्विजः ।  
+१२।१२६च् भवत्य् आचारवान् नित्यं यथा।इष्टां प्राप्नुयाद् गतिम् ॥ १२६ ॥  
 
 
-samāptaṃ mānavaṃ dharmaśāstram
+समाप्तं मानवं धर्मशास्त्रम्

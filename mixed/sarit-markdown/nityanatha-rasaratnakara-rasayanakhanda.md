@@ -1,6 +1,5 @@
 ---
 
-
 ---
 *॥ श्रीः ॥
 *श्रीनित्यनाथसिद्धविरचितरसरत्नाकरस्य चतुर्थो रसायनखण्डः ।
@@ -12,14 +11,14 @@
 स्थिरमपि कुरुते यः कामि नीनां प्रसङ्गम् ॥ १ ॥  
 
 
- dehasiddheḥ praśaṃsā |
+ देहसिद्धेः प्रशंसा ।
 
-athātaḥ saṃpravakṣyāmi dehasiddhiṃ suśobhanām |  
-yasyāḥ siddhau manuṣyāṇāṃ jāyante sarvasiddhayaḥ || 2 ||  
+अथातः संप्रवक्ष्यामि देहसिद्धिं सुशोभनाम् ।  
+यस्याः सिद्धौ मनुष्याणां जायन्ते सर्वसिद्धयः ॥ २ ॥  
 
 
-na dehena vinā kiñcidiṣṭamasti jagattraye |  
-tasmātsarvaprayatnena ta \[\] smin yatno vidhīyatām || 3 ||  
+न देहेन विना किञ्चिदिष्टमस्ति जगत्त्रये ।  
+तस्मात्सर्वप्रयत्नेन त \[\] स्मिन् यत्नो विधीयताम् ॥ ३ ॥  
 
 
  रसायनसेवनस्य पूर्वकर्म ।
@@ -44,30 +43,30 @@ tasmātsarvaprayatnena ta \[\] smin yatno vidhīyatām || 3 ||
 कुमारीं योगिनीच \[\] क्रं ततः कुर्याद्रसायनम् ॥ ८ ॥  
 
 
- rasasevane pathyāni |
+ रससेवने पथ्यानि ।
 
-nirvāte bhūgṛhe vā'tha bāhyacintāvivarjitaḥ |  
-jitendriyo jitakrodhaḥ kṣīraśālyannabhugbhavet || 9 ||  
-
-
-ṣaṣṭyodanaṃ yavānnaṃ ca godhūmaṃ mudgayūṣakam |  
-jāṅgalaṃ bhakṣayenmāṃsaṃ kevalaṃ kṣīrameva vā || 10 ||  
+निर्वाते भूगृहे वाऽथ बाह्यचिन्ताविवर्जितः ।  
+जितेन्द्रियो जितक्रोधः क्षीरशाल्यन्नभुग्भवेत् ॥ ९ ॥  
 
 
-balānnaṃ vā'tha bhuñjīta śākaloṇavivarjitam |  
-abhyaṅgaṃ mastunā kuryāt snānaṃ caiva sukhāmbunā || 11 ||  
+षष्ट्योदनं यवान्नं च गोधूमं मुद्गयूषकम् ।  
+जाङ्गलं भक्षयेन्मांसं केवलं क्षीरमेव वा ॥ १० ॥  
 
 
-kā \[\] kinīṃ strīṃ bhajennityaṃ svānukūlāṃ suyauvanām |  
-rasendre bhakṣyamāṇe tu kāmāndho jāyate naraḥ || 12 ||  
+बलान्नं वाऽथ भुञ्जीत शाकलोणविवर्जितम् ।  
+अभ्यङ्गं मस्तुना कुर्यात् स्नानं चैव सुखाम्बुना ॥ ११ ॥  
 
 
-maithunena vinā tasya hyajīrṇo jāyate rasaḥ |  
-ajīrṇe kampadāhā \[\] rtī hikkā mūrcchā jvaro'ratiḥ || 13 ||  
+का \[\] किनीं स्त्रीं भजेन्नित्यं स्वानुकूलां सुयौवनाम् ।  
+रसेन्द्रे भक्ष्यमाणे तु कामान्धो जायते नरः ॥ १२ ॥  
 
 
-kāsaśvāsārucicchardibhramamohā bhavanti hi |  
-seveta subhagāṃ tasmāddurbhagāṃ parivarjayet || 14 ||  
+मैथुनेन विना तस्य ह्यजीर्णो जायते रसः ।  
+अजीर्णे कम्पदाहा \[\] र्ती हिक्का मूर्च्छा ज्वरोऽरतिः ॥ १३ ॥  
+
+
+कासश्वासारुचिच्छर्दिभ्रममोहा भवन्ति हि ।  
+सेवेत सुभगां तस्माद्दुर्भगां परिवर्जयेत् ॥ १४ ॥  
 
 
  रसायने वर्ज्यानि ।
@@ -84,30 +83,30 @@ seveta subhagāṃ tasmāddurbhagāṃ parivarjayet || 14 ||
 कलहोद्वेगचिन्ताश्च शोकं चैव विवर्जयेत् ॥ १७ ॥  
 
 
- rasāyanavyāpaccikitsā |
+ रसायनव्यापच्चिकित्सा ।
 
-āvarjanādbhavecchūlaṃ nidrā''lasyaṃ jvaro'ratiḥ |  
-tryaṃhaṃ pibettatpraśāntyai vāriṇā karkaṭīphalam || 18 ||  
-
-
-śuṇṭhīsaindhavacūrṇaṃ vā mātuluṅgāmla \[\] kairlihet |  
-sauvarcalaṃ gavāṃ mūtraiḥ pibedvā tatpraśāntaye || 19 ||  
+आवर्जनाद्भवेच्छूलं निद्राऽऽलस्यं ज्वरोऽरतिः ।  
+त्र्यंहं पिबेत्तत्प्रशान्त्यै वारिणा कर्कटीफलम् ॥ १८ ॥  
 
 
-vandhyākarkoṭakīṃ puṅkhāṃ \[\]  pātālagaruḍīṃ jalaiḥ |  
-kvāthayedaṣṭaguṇitaistadaṣṭāṃ \[\] śaṃ sasaindhavam || 20 ||  
+शुण्ठीसैन्धवचूर्णं वा मातुलुङ्गाम्ल \[\] कैर्लिहेत् ।  
+सौवर्चलं गवां मूत्रैः पिबेद्वा तत्प्रशान्तये ॥ १९ ॥  
 
 
-pibetsarvavikāraghnaṃ tridinaṃ śivabhāṣitam |  
-mūlaṃ vā kāravallyutthaṃ saindhavaṃ vā gavāṃ jalaiḥ || 21 ||  
+वन्ध्याकर्कोटकीं पुङ्खां \[\]  पातालगरुडीं जलैः ।  
+क्वाथयेदष्टगुणितैस्तदष्टां \[\] शं ससैन्धवम् ॥ २० ॥  
 
 
-tridinaṃ karṣamātraṃ tu pibetsarvavikārajit |  
-apathyaśīlināmetat kathitaṃ rasasevinām || 22 ||  
+पिबेत्सर्वविकारघ्नं त्रिदिनं शिवभाषितम् ।  
+मूलं वा कारवल्ल्युत्थं सैन्धवं वा गवां जलैः ॥ २१ ॥  
 
 
-amumeva vidhiṃ kuryādrasāyanavidhau kila |  
-amṛtaṃ vidhisaṃyuktaṃ vidhihīnaṃ tu taddviṣam || 23 ||  
+त्रिदिनं कर्षमात्रं तु पिबेत्सर्वविकारजित् ।  
+अपथ्यशीलिनामेतत् कथितं रससेविनाम् ॥ २२ ॥  
+
+
+अमुमेव विधिं कुर्याद्रसायनविधौ किल ।  
+अमृतं विधिसंयुक्तं विधिहीनं तु तद्द्विषम् ॥ २३ ॥  
 
 
  रससङ्क्रामणम् ।
@@ -116,25 +115,25 @@ amṛtaṃ vidhisaṃyuktaṃ vidhihīnaṃ tu taddviṣam || 23 ||
 खादेत्ताम्बूलसंयुक्तं रससङ्क्रामणे हितम् ॥ २४ ॥  
 
 
- pāradamaraṇabidhiḥ |
+ पारदमरणबिधिः ।
 
-athātra vakṣyate samyagādau pāradamāraṇam |  
-samukhasya rasendrasya vāsanāmukhitasya vā || 25 ||  
-
-
-krameṇa jārayetsvarṇaṃ samāṃśaṃ pūrvavattataḥ |  
-tattulyaṃ gandhakaṃ tasmin dattvā divyauṣadhidravaiḥ || 26 ||  
-
-+++(“mātuluṅgārdrakairlihet” kha. |)++++++(puṅkhāmiti śarapuṅkhāmityarthaḥ |)++++++(“statpādāṃśena saindhavam” kha, |)+++
-mardayettridinaṃ khalve mūṣāyāṃ cāndhitaṃ tataḥ |  
-karīṣāgnau divārātraṃ trirātraṃ vā tuṣāgninā || 27 ||  
+अथात्र वक्ष्यते सम्यगादौ पारदमारणम् ।  
+समुखस्य रसेन्द्रस्य वासनामुखितस्य वा ॥ २५ ॥  
 
 
-sveditaṃ mardayedbhūyo bījairdivyauṣadhodbha \[\] vaiḥ |  
-tulyaṃ khalve caturyāmaṃ vajramūṣāndhitaṃ dhamet || 28 ||  
+क्रमेण जारयेत्स्वर्णं समांशं पूर्ववत्ततः ।  
+तत्तुल्यं गन्धकं तस्मिन् दत्त्वा दिव्यौषधिद्रवैः ॥ २६ ॥  
+
++++(“मातुलुङ्गार्द्रकैर्लिहेत्” ख। ।)++++++(पुङ्खामिति शरपुङ्खामित्यर्थः ।)++++++(“स्तत्पादांशेन सैन्धवम्” ख, ।)+++
+मर्दयेत्त्रिदिनं खल्वे मूषायां चान्धितं ततः ।  
+करीषाग्नौ दिवारात्रं त्रिरात्रं वा तुषाग्निना ॥ २७ ॥  
 
 
-bhasmasūtaṃ bhavettadvai yojyaṃ sarvarasāyane |  
+स्वेदितं मर्दयेद्भूयो बीजैर्दिव्यौषधोद्भ \[\] वैः ।  
+तुल्यं खल्वे चतुर्यामं वज्रमूषान्धितं धमेत् ॥ २८ ॥  
+
+
+भस्मसूतं भवेत्तद्वै योज्यं सर्वरसायने ।  
 
 
  पारदमारणस्य द्वितीयः प्रकारः ।
@@ -157,20 +156,20 @@ bhasmasūtaṃ bhavettadvai yojyaṃ sarvarasāyane |
 तुषाग्निना लघुत्वेन जायते भस्मसूतकः ।  
 
 
- pāradamāraṇasya tṛtīyaḥ prakāraḥ |
+ पारदमारणस्य तृतीयः प्रकारः ।
 
-śu \[\] ddhasūtastribhāgaḥ syādbhāgaikaṃ tāmracūrṇakam || 33 ||  
-
-
-dinaikaṃ mardayedamlaiḥ kṣālitaṃ piṣṭimāharet |  
-mākṣikāddhautasattvaṃ ca piṣṭitulyaṃ prakalpayet || 34 ||  
+शु \[\] द्धसूतस्त्रिभागः स्याद्भागैकं ताम्रचूर्णकम् ॥ ३३ ॥  
 
 
-tatsarvaṃ tridinaṃ mardyaṃ cakramardadaladravaiḥ |  
-tadgolaṃ garbhayantrasthaṃ tridinaṃ tuṣavahninā || 35 ||  
+दिनैकं मर्दयेदम्लैः क्षालितं पिष्टिमाहरेत् ।  
+माक्षिकाद्धौतसत्त्वं च पिष्टितुल्यं प्रकल्पयेत् ॥ ३४ ॥  
 
 
-ka \[\] rīṣāgnau divārātraṃ pacedvā bhasmatāṃ vrajet |  
+तत्सर्वं त्रिदिनं मर्द्यं चक्रमर्ददलद्रवैः ।  
+तद्गोलं गर्भयन्त्रस्थं त्रिदिनं तुषवह्निना ॥ ३५ ॥  
+
+
+क \[\] रीषाग्नौ दिवारात्रं पचेद्वा भस्मतां व्रजेत् ।  
 
 
  पारदमारणस्य चतुर्थः प्रकारः ।
@@ -185,17 +184,17 @@ ka \[\] rīṣāgnau divārātraṃ pacedvā bhasmatāṃ vrajet |
 गर्भयन्त्रगतं पच्यान्म्रियते पूर्ववत्पुटे ।  
 
 +++(“--र्दिव्यौषधिद्रवैः” ख। ।)++++++(“सूतभस्म” ख। ।)++++++(“गडुकायन्त्रगं” क। ।)++++++(“शुद्धसूतं त्रिधा गन्धं भागैकं” ख। ।)++++++(“पचेदग्नौ” ख। ।)+++
- garbhayantralakṣaṇam |
+ गर्भयन्त्रलक्षणम् ।
 
-caturaṅguladīrghaṃ syādvistāre cāṅgulatrayam || 38 ||  
-
-
-mṛṇmayaṃ sampuṭaṃ kṛtvā chāyāśuṣkaṃ ca kārayet |  
-lavaṇaṃ viṃśabhāgaṃ syādbhāgamekaṃ tu guggulum || 39 ||  
+चतुरङ्गुलदीर्घं स्याद्विस्तारे चाङ्गुलत्रयम् ॥ ३८ ॥  
 
 
-sarvaṃ toyaiḥ prapiṣyātha tenaiva sampuṭodaram |  
-liptvā tatra rasaṃ rundhyādgarbhayantramidaṃ bhavet || 40 ||  
+मृण्मयं सम्पुटं कृत्वा छायाशुष्कं च कारयेत् ।  
+लवणं विंशभागं स्याद्भागमेकं तु गुग्गुलुम् ॥ ३९ ॥  
+
+
+सर्वं तोयैः प्रपिष्याथ तेनैव सम्पुटोदरम् ।  
+लिप्त्वा तत्र रसं रुन्ध्याद्गर्भयन्त्रमिदं भवेत् ॥ ४० ॥  
 
 
  पारदमारणस्य पञ्चमः प्रकारः ।
@@ -208,14 +207,14 @@ liptvā tatra rasaṃ rundhyādgarbhayantramidaṃ bhavet || 40 ||
 पाचयेद्वालुकायन्त्रे चतुर्यामान्मृतो भवेत् ॥ ४२ ॥  
 
 
- pāradamāraṇasya ṣaṣṭhaḥ prakāraḥ |
+ पारदमारणस्य षष्ठः प्रकारः ।
 
-mākṣikāddhautasattvaṃ tu tatsamaṃ śuddhagandhakam |  
-dvābhyāṃ tulyaṃ śuddharasaṃ dinaṃ nirguṇḍikādravaiḥ || 43 ||  
+माक्षिकाद्धौतसत्त्वं तु तत्समं शुद्धगन्धकम् ।  
+द्वाभ्यां तुल्यं शुद्धरसं दिनं निर्गुण्डिकाद्रवैः ॥ ४३ ॥  
 
 
-tatsarvaṃ marditaṃ golaṃ vajramūṣāndhitaṃ pacet |  
-dinaikaṃ vālukāyantre mṛtaṃ syādraktavarṇakam || 44 ||  
+तत्सर्वं मर्दितं गोलं वज्रमूषान्धितं पचेत् ।  
+दिनैकं वालुकायन्त्रे मृतं स्याद्रक्तवर्णकम् ॥ ४४ ॥  
 
 
  पारदमारणस्य सप्तमः प्रकारः ।
@@ -228,13 +227,13 @@ dinaikaṃ vālukāyantre mṛtaṃ syādraktavarṇakam || 44 ||
 क्रमाग्नौ वालुकायन्त्रे चतुर्यामान्मृतो भवेत् ॥ ४६ ॥  
 
 
- pāradamāraṇasyāṣṭhamaḥ prakāraḥ |
+ पारदमारणस्याष्ठमः प्रकारः ।
 
-snuhyā vā hemavallyā vā kṣīraiḥ śuddharasaṃ dinam |  
-mardayedgandhakaṃ tulyaṃ garbhayantragataṃ puṭet || 47 ||  
+स्नुह्या वा हेमवल्ल्या वा क्षीरैः शुद्धरसं दिनम् ।  
+मर्दयेद्गन्धकं तुल्यं गर्भयन्त्रगतं पुटेत् ॥ ४७ ॥  
 
 
-pūrvavatkramayogena mṛtaṃ yogeṣu yojayet |  
+पूर्ववत्क्रमयोगेन मृतं योगेषु योजयेत् ।  
 
 
  पारदमारणस्य नवमः प्रकारः ।
@@ -246,17 +245,17 @@ pūrvavatkramayogena mṛtaṃ yogeṣu yojayet |
 वज्रमूषान्धितं ध्मातं म्रियते शशिसन्निभम् ॥ ४९ ॥  
 
 
- pāradamāraṇasya daśamaḥ prakāraḥ |
+ पारदमारणस्य दशमः प्रकारः ।
 
-dravaistu kīṭamāriṇyā hyajamodādravaiśca vā |  
-ahimāryā dravairvā'tha kiṃvā śvetāṅkuladravaiḥ || 50 ||  
-
-
-mardayetpāradaṃ śuddhaṃ samagandhaṃ dinatrayam |  
-sampuṭe mṛṇmaye ruddhvā karīṣāgnau divāniśi || 51 ||  
+द्रवैस्तु कीटमारिण्या ह्यजमोदाद्रवैश्च वा ।  
+अहिमार्या द्रवैर्वाऽथ किंवा श्वेताङ्कुलद्रवैः ॥ ५० ॥  
 
 
-pacettuṣāgninā vā'tha tridinānmriyate dhruvam |  
+मर्दयेत्पारदं शुद्धं समगन्धं दिनत्रयम् ।  
+सम्पुटे मृण्मये रुद्ध्वा करीषाग्नौ दिवानिशि ॥ ५१ ॥  
+
+
+पचेत्तुषाग्निना वाऽथ त्रिदिनान्म्रियते ध्रुवम् ।  
 
 
  पारदमारणस्यैकादशः प्रकारः ।
@@ -276,10 +275,10 @@ pacettuṣāgninā vā'tha tridinānmriyate dhruvam |
 तद्गोलं पूर्ववत्पच्यान्मृतं भवति शोभनम् ॥ ५५ ॥  
 
 
- vajrādimāraṇavidheratideśena kathanam |
+ वज्रादिमारणविधेरतिदेशेन कथनम् ।
 
-vajrābhrādyaṣṭalohānāṃ rasakhaṇḍe yathoditam |  
-māraṇaṃ vā \[\] dikhaṇḍe vā tathā jñeyaṃ rasāyane || 56 ||  
+वज्राभ्राद्यष्टलोहानां रसखण्डे यथोदितम् ।  
+मारणं वा \[\] दिखण्डे वा तथा ज्ञेयं रसायने ॥ ५६ ॥  
 
 
  मृतरसगुणाः ।
@@ -300,17 +299,17 @@ māraṇaṃ vā \[\] dikhaṇḍe vā tathā jñeyaṃ rasāyane || 56 ||
 त्तद्वक्ष्ये परमाद्भुतं सुखकरं साम्राज्यदं धीम \[\] ताम् ॥ १ ॥  
 
 
- kṣetrīkaraṇārthamabhrakabhakṣaṇavidhiḥ |
+ क्षेत्रीकरणार्थमभ्रकभक्षणविधिः ।
 
-abhrakaṃ bhakṣayedādau māritaṃ cāmṛtīkṛtam |  
-māsaikaṃ niṣkaniṣkaṃ vai kṣetrīkaraṇahetave || 2 ||  
-
-
-yasmādabhraṃ rasakṣetraṃ tataḥ kuryādrasāyanam |  
-akṣetrīkaraṇe sūto hyamṛto viṣatāṃ vrajet || 3 ||  
+अभ्रकं भक्षयेदादौ मारितं चामृतीकृतम् ।  
+मासैकं निष्कनिष्कं वै क्षेत्रीकरणहेतवे ॥ २ ॥  
 
 
-phalasiddhiḥ kutastasya subījasyoṣare yathā |  
+यस्मादभ्रं रसक्षेत्रं ततः कुर्याद्रसायनम् ।  
+अक्षेत्रीकरणे सूतो ह्यमृतो विषतां व्रजेत् ॥ ३ ॥  
+
+
+फलसिद्धिः कुतस्तस्य सुबीजस्योषरे यथा ।  
 
 
  वज्रपञ्जररसः ।
@@ -337,24 +336,24 @@ phalasiddhiḥ kutastasya subījasyoṣare yathā |
 वलीपलितनिर्मुक्तो दिव्यकायो महाबलः ।  
 
 
- vajreśvararasaḥ |
+ वज्रेश्वररसः ।
 
-mṛtasūtāddvādaśāṃśaṃ mṛtaṃ vajraṃ prakalpayet || 9 ||  
-
-
-dvābhyāṃ tulyaṃ mṛtaṃ kāntaṃ kāntatulyaṃ mṛtābhrakam |  
-tatsarvaṃ bhṛṅgajairdrāvairmarditaṃ bhāvayettryaham || 10 ||  
+मृतसूताद्द्वादशांशं मृतं वज्रं प्रकल्पयेत् ॥ ९ ॥  
 
 
-tryahaṃ gokṣurakadrāvaiḥ kṣaudrairmāṣaṃ tato lihet |  
-raso vajreśvaro nāma vajrakāyakaro nṛṇām || 11 ||  
-
-+++(“dehamanantapuṇyavibhavā bhuktiśca” kha. |)++++++(“śrīmatām” kha. |)+++
-caturmāsairjarāṃ hanti jīvedbrahmadinaṃ kila |  
-bhṛṅgarājasya pañcāṅgaṃ cūrṇayettriphalāsamam || 12 ||  
+द्वाभ्यां तुल्यं मृतं कान्तं कान्ततुल्यं मृताभ्रकम् ।  
+तत्सर्वं भृङ्गजैर्द्रावैर्मर्दितं भावयेत्त्र्यहम् ॥ १० ॥  
 
 
-palaikaṃ madhunā lehyaṃ krāmakaṃ paramaṃ rase |  
+त्र्यहं गोक्षुरकद्रावैः क्षौद्रैर्माषं ततो लिहेत् ।  
+रसो वज्रेश्वरो नाम वज्रकायकरो नृणाम् ॥ ११ ॥  
+
++++(“देहमनन्तपुण्यविभवा भुक्तिश्च” ख। ।)++++++(“श्रीमताम्” ख। ।)+++
+चतुर्मासैर्जरां हन्ति जीवेद्ब्रह्मदिनं किल ।  
+भृङ्गराजस्य पञ्चाङ्गं चूर्णयेत्त्रिफलासमम् ॥ १२ ॥  
+
+
+पलैकं मधुना लेह्यं क्रामकं परमं रसे ।  
 
 
  वज्रधारारसः ।
@@ -378,21 +377,21 @@ palaikaṃ madhunā lehyaṃ krāmakaṃ paramaṃ rase |
 सर्वतुल्या सिता योज्या चूर्णितं भक्षयेत्पलम् ॥ १७ ॥  
 
 
- bhairavarasaḥ |
+ भैरवरसः ।
 
-suvarṇaṃ pāradaṃ kāntaṃ mṛtaṃ sarvaṃ samaṃ bhavet |  
-śatāvaryāḥ śiphādrāvairbhāvayeddivasatrayam || 18 ||  
-
-
-tridinaṃ triphalākvāthairbhṛṅgadrāvairdinatrayam |  
-bhāvitaṃ madhusarpirbhyāṃ bhakṣayedbhairavaṃ rasam || 19 ||  
+सुवर्णं पारदं कान्तं मृतं सर्वं समं भवेत् ।  
+शतावर्याः शिफाद्रावैर्भावयेद्दिवसत्रयम् ॥ १८ ॥  
 
 
-māṣaikaikaṃ varṣamātraṃ jīveccandrārkatārakam |  
-mūlacūrṇaṃ śatāvaryāḥ kṛṣṇājapayasā yutam || 20 ||  
+त्रिदिनं त्रिफलाक्वाथैर्भृङ्गद्रावैर्दिनत्रयम् ।  
+भावितं मधुसर्पिर्भ्यां भक्षयेद्भैरवं रसम् ॥ १९ ॥  
 
 
-palaikaikaṃ pibeccānu krāmakaṃ paramaṃ hitam |  
+माषैकैकं वर्षमात्रं जीवेच्चन्द्रार्कतारकम् ।  
+मूलचूर्णं शतावर्याः कृष्णाजपयसा युतम् ॥ २० ॥  
+
+
+पलैकैकं पिबेच्चानु क्रामकं परमं हितम् ।  
 
 
  शिलावीररसः ।
@@ -411,24 +410,24 @@ palaikaikaṃ pibeccānu krāmakaṃ paramaṃ hitam |
 धात्रीफलरसैर्वाऽथ क्रामकं ह्मनुपानकम् ।  
 
 
- amṛtārṇavarasaḥ |
+ अमृतार्णवरसः ।
 
-meghanādadravairmardyaṃ śuddhasūtaṃ dinatrayam || 24 ||  
-
-
-viḍaṅgaṃ dviniśaṃ vyoṣaṃ samaṃ cūrṇaṃ prakalpayet |  
-āragvadhasya mūlaṃ tu cūrṇasya dviguṇaṃ bhavet || 25 ||  
+मेघनादद्रवैर्मर्द्यं शुद्धसूतं दिनत्रयम् ॥ २४ ॥  
 
 
-cūrṇasya dviguṇaṃ cājyaṃ kṣaudraṃ caiva caturguṇam |  
-sarvaṃ pūrvarase kṣiptvā mṛdvagnau cālayan pacet || 26 ||  
+विडङ्गं द्विनिशं व्योषं समं चूर्णं प्रकल्पयेत् ।  
+आरग्वधस्य मूलं तु चूर्णस्य द्विगुणं भवेत् ॥ २५ ॥  
 
 
-tatpiṇḍaṃ karṣamekaikaṃ bhakṣayedamṛtārṇavaḥ |  
-varṣamātrāñjarāṃ hanti jīvedvarṣaśatatrayam || 27 ||  
+चूर्णस्य द्विगुणं चाज्यं क्षौद्रं चैव चतुर्गुणम् ।  
+सर्वं पूर्वरसे क्षिप्त्वा मृद्वग्नौ चालयन् पचेत् ॥ २६ ॥  
 
 
-bākucīcūrṇakarṣaikaṃ dhātrīphalarasaiḥ pibet |  
+तत्पिण्डं कर्षमेकैकं भक्षयेदमृतार्णवः ।  
+वर्षमात्राञ्जरां हन्ति जीवेद्वर्षशतत्रयम् ॥ २७ ॥  
+
+
+बाकुचीचूर्णकर्षैकं धात्रीफलरसैः पिबेत् ।  
 
 
  उदयादित्यरसः ।
@@ -459,21 +458,21 @@ bākucīcūrṇakarṣaikaṃ dhātrīphalarasaiḥ pibet |
 मध्वाज्याभ्यां लिहेत्कर्षमनु स्यात्क्रामणं परम् ।  
 
 
- gaganeśvararasaḥ |
+ गगनेश्वररसः ।
 
-pārado gaganaṃ kāntaṃ tīkṣṇaṃ ca māritaṃ samam || 34 ||  
-
-
-bhṛṅgadhātrīphaladrāvaiśchāyāyāṃ bhāvayettryaham |  
-sitāmadhvājyakaistulyaṃ sarvaṃ bhāṇḍe nirodhayet || 35 ||  
+पारदो गगनं कान्तं तीक्ष्णं च मारितं समम् ॥ ३४ ॥  
 
 
-dhānyarāśau sthitaṃ māsaṃ tato niṣkatrayaṃ samam |  
-bhakṣayecca pibetkṣīraṃ karṣaikaṃ triphalāmanu || 36 ||  
+भृङ्गधात्रीफलद्रावैश्छायायां भावयेत्त्र्यहम् ।  
+सितामध्वाज्यकैस्तुल्यं सर्वं भाण्डे निरोधयेत् ॥ ३५ ॥  
 
 
-rātrau śuṇṭhīṃ kaṇāṃ khādedvarṣaikādamaro bhavet |  
-jīvedbrahmadinaṃ vīraḥ syādraso gaganeśvaraḥ || 37 ||  
+धान्यराशौ स्थितं मासं ततो निष्कत्रयं समम् ।  
+भक्षयेच्च पिबेत्क्षीरं कर्षैकं त्रिफलामनु ॥ ३६ ॥  
+
+
+रात्रौ शुण्ठीं कणां खादेद्वर्षैकादमरो भवेत् ।  
+जीवेद्ब्रह्मदिनं वीरः स्याद्रसो गगनेश्वरः ॥ ३७ ॥  
 
 
  वटेश्वररसः ।
@@ -498,18 +497,18 @@ jīvedbrahmadinaṃ vīraḥ syādraso gaganeśvaraḥ || 37 ||
 रसो वटेश्वरो नाम वज्रकायकरो नृणाम् ॥ ४२ ॥  
 
 
- acaleśvararasaḥ |
+ अचलेश्वररसः ।
 
-mṛtaṃ sūtaṃ śuddhagandhaṃ triphalāṃ gugugluṃ samam |  
-sarvaṃ vātāritailena miśraṃ karṣaṃ lihetsadā || 43 ||  
-
-
-ṣaṇmāsena jarāṃ hanti jīvedbrahmadinatrayam |  
-tasya mūtrapurīṣeṇa śulbaṃ bhavati kāñcanam || 44 ||  
+मृतं सूतं शुद्धगन्धं त्रिफलां गुगुग्लुं समम् ।  
+सर्वं वातारितैलेन मिश्रं कर्षं लिहेत्सदा ॥ ४३ ॥  
 
 
-ajasya vṛṣaṇaṃ pācyaṃ gavāṃ kṣīreṇa taṃ niśi |  
-sitāyuktaṃ pibeccānu raso'yamacaleśvaraḥ || 45 ||  
+षण्मासेन जरां हन्ति जीवेद्ब्रह्मदिनत्रयम् ।  
+तस्य मूत्रपुरीषेण शुल्बं भवति काञ्चनम् ॥ ४४ ॥  
+
+
+अजस्य वृषणं पाच्यं गवां क्षीरेण तं निशि ।  
+सितायुक्तं पिबेच्चानु रसोऽयमचलेश्वरः ॥ ४५ ॥  
 
 
  परमेश्वररसः ।
@@ -530,21 +529,21 @@ sitāyuktaṃ pibeccānu raso'yamacaleśvaraḥ || 45 ||
 भक्षयेद्वा सिता सार्धं क्रामकं प \[\] रमे रसे ॥ ४९ ॥  
 
 +++(“परमेश्वरे” ख। ।)+++
- gandhāmṛtarasaḥ |
+ गन्धामृतरसः ।
 
-mṛtasūtasya dviguṇaṃ śuddhaṃ gandhaṃ vimiśrayet |  
-dinaikaṃ kanyakādrāvairmardayitvā nirodhayet || 50 ||  
-
-
-dinaikaṃ madhunā pacyānniṣkaikaṃ madhunā lihet |  
-gandhāmṛto raso nāma vatsarānmṛtyujidbhavet || 51 ||  
+मृतसूतस्य द्विगुणं शुद्धं गन्धं विमिश्रयेत् ।  
+दिनैकं कन्यकाद्रावैर्मर्दयित्वा निरोधयेत् ॥ ५० ॥  
 
 
-samūlaṃ bhṛṅgarājaṃ tu chāyāśuṣkaṃ vicūrṇayet |  
-tatsamaṃ triphalācūrṇaṃ sarvatulyā sitā bhavet || 52 ||  
+दिनैकं मधुना पच्यान्निष्कैकं मधुना लिहेत् ।  
+गन्धामृतो रसो नाम वत्सरान्मृत्युजिद्भवेत् ॥ ५१ ॥  
 
 
-ekīkṛtya palaikaikaṃ bhakṣayedanupānakam |  
+समूलं भृङ्गराजं तु छायाशुष्कं विचूर्णयेत् ।  
+तत्समं त्रिफलाचूर्णं सर्वतुल्या सिता भवेत् ॥ ५२ ॥  
+
+
+एकीकृत्य पलैकैकं भक्षयेदनुपानकम् ।  
 
 
  कालकण्टकरसः ।
@@ -563,21 +562,21 @@ ekīkṛtya palaikaikaṃ bhakṣayedanupānakam |
 जरामृत्युविनिर्मुक्तो जीवेद्ब्रह्मदिनं नरः ।  
 
 
- amṛteśarasaḥ |
+ अमृतेशरसः ।
 
-mṛtasūtābhrakaṃ kāntaṃ viṣaṃ tāpyaṃ śilājatu || 56 ||  
-
-
-tulyāṃśaṃ madhusarpirbhyāṃ lihedguñjātrayaṃ sadā |  
-ṣaṇmāsena jarāṃ hanti jīvedbrahmadinaṃ naraḥ || 57 ||  
+मृतसूताभ्रकं कान्तं विषं ताप्यं शिलाजतु ॥ ५६ ॥  
 
 
-aśvagandhāmūlacūrṇaṃ saptabhāgaghṛtaiḥ samam |  
-bhāgāṣṭakaṃ guḍaṃ tasmin kṣipedbhāgaṃ ca pippalīm || 58 ||  
+तुल्यांशं मधुसर्पिर्भ्यां लिहेद्गुञ्जात्रयं सदा ।  
+षण्मासेन जरां हन्ति जीवेद्ब्रह्मदिनं नरः ॥ ५७ ॥  
 
 
-mṛdvagninā ca tatsarvaṃ piṇḍitaṃ bhakṣayet palam |  
-krāmakaṃ hyamṛteśasya rasarājasya siddhaye || 59 ||  
+अश्वगन्धामूलचूर्णं सप्तभागघृतैः समम् ।  
+भागाष्टकं गुडं तस्मिन् क्षिपेद्भागं च पिप्पलीम् ॥ ५८ ॥  
+
+
+मृद्वग्निना च तत्सर्वं पिण्डितं भक्षयेत् पलम् ।  
+क्रामकं ह्यमृतेशस्य रसराजस्य सिद्धये ॥ ५९ ॥  
 
 
  रसवीरमहारसः ।
@@ -601,24 +600,24 @@ krāmakaṃ hyamṛteśasya rasarājasya siddhaye || 59 ||
 छागीमूत्रेण वा तं वै कर्षैकं क्रामकं परम् ।  
 
 
- kāñcāyanarasaḥ |
+ काञ्चायनरसः ।
 
-mṛtasūtasamaṃ gandhaṃ kākamācyā dravairdinam || 64 ||  
-
-
-marditaṃ cāndhitaṃ pacyātkarīṣāgnau divāniśam |  
-divyauṣadhadaladrāvairdinaṃ mardyaṃ tamandhayet || 65 ||  
+मृतसूतसमं गन्धं काकमाच्या द्रवैर्दिनम् ॥ ६४ ॥  
 
 
-dhmātaṃ tasmātsamuddhṛtya tattulyaṃ hāṭakaṃ mṛtam |  
-ekīkṛtya ghṛtairlehyaṃ māṣaikaṃ vatsarāvadhi || 66 ||  
+मर्दितं चान्धितं पच्यात्करीषाग्नौ दिवानिशम् ।  
+दिव्यौषधदलद्रावैर्दिनं मर्द्यं तमन्धयेत् ॥ ६५ ॥  
 
 
-jarāṃ mṛtyuṃ nihantyāśu satyaṃ kāñcāyano rasaḥ |  
-kākamācīdravairbhāvyaṃ cūrṇaṃ dhātrīphalodbhavam || 67 ||  
+ध्मातं तस्मात्समुद्धृत्य तत्तुल्यं हाटकं मृतम् ।  
+एकीकृत्य घृतैर्लेह्यं माषैकं वत्सरावधि ॥ ६६ ॥  
 
 
-madhunā bhakṣayetkarṣamanu syātkrāmakaṃ param |  
+जरां मृत्युं निहन्त्याशु सत्यं काञ्चायनो रसः ।  
+काकमाचीद्रवैर्भाव्यं चूर्णं धात्रीफलोद्भवम् ॥ ६७ ॥  
+
+
+मधुना भक्षयेत्कर्षमनु स्यात्क्रामकं परम् ।  
 
 
  परानन्दरसः ।
@@ -638,25 +637,25 @@ madhunā bhakṣayetkarṣamanu syātkrāmakaṃ param |
 संवत्सरप्रयोगेण जीवेदाचन्द्रतारकम् ॥ ७१ ॥  
 
 
- mahākālarasaḥ |
+ महाकालरसः ।
 
-mṛtasūtābhrakaṃ tulyaṃ mṛtalohaṃ tayoḥ samam |  
-lohāṃśaṃ śodhitaṃ gandhaṃ bhāvayeddinasaptakam || 72 ||  
-
-
-tatsarvaṃ triphalākvāthairbhṛṅgaśigrukacitrakaiḥ |  
-dravaiḥ pṛthakpṛthagbhāvyaṃ saptadhā saptadhā kramāt || 73 ||  
+मृतसूताभ्रकं तुल्यं मृतलोहं तयोः समम् ।  
+लोहांशं शोधितं गन्धं भावयेद्दिनसप्तकम् ॥ ७२ ॥  
 
 
-saptadhā kaṭukīkvāthairbhāvitaṃ cūrṇayetpunaḥ |  
-+++(“khādet karavīro” kha. |)+++cūrṇatulyaṃ kaṇācūrṇaṃ purātanaguḍaiḥ samaiḥ || 74 ||  
+तत्सर्वं त्रिफलाक्वाथैर्भृङ्गशिग्रुकचित्रकैः ।  
+द्रवैः पृथक्पृथग्भाव्यं सप्तधा सप्तधा क्रमात् ॥ ७३ ॥  
 
 
-sarvamekīkṛtaṃ khādenniṣkaikaṃ vatsarāvadhi |  
-mahākālo raso nāma jarākālabhayaṅkaraḥ || 75 ||  
+सप्तधा कटुकीक्वाथैर्भावितं चूर्णयेत्पुनः ।  
++++(“खादेत् करवीरो” ख। ।)+++चूर्णतुल्यं कणाचूर्णं पुरातनगुडैः समैः ॥ ७४ ॥  
 
 
-tilakoraṇṭapatrāṇi guḍena bhakṣayedanu |  
+सर्वमेकीकृतं खादेन्निष्कैकं वत्सरावधि ।  
+महाकालो रसो नाम जराकालभयङ्करः ॥ ७५ ॥  
+
+
+तिलकोरण्टपत्राणि गुडेन भक्षयेदनु ।  
 
 
  हेमपर्पटकरसः ।
@@ -680,30 +679,30 @@ tilakoraṇṭapatrāṇi guḍena bhakṣayedanu |
 भावितां लेहयेत्क्षौद्रैः पलैकां क्रामकं परम् ॥ ८० ॥  
 
 
- śrīkaṇṭharasaḥ |
+ श्रीकण्ठरसः ।
 
-svarṇatārārkakāntaṃ ca tīkṣṇaṃ vā māritaṃ samam |  
-kṛṣṇābhrasattvamākṣīkaṃ pratyekaṃ svarṇatulyakam || 81 ||  
-
-
-tatsarvaṃ cāndhitaṃ dhāmyaṃ tatkhoṭaṃ mṛtapāradam |  
-samaṃ sūnānmṛtaṃ vajraṃ pādāṃśaṃ tatra yojayet || 82 ||  
+स्वर्णतारार्ककान्तं च तीक्ष्णं वा मारितं समम् ।  
+कृष्णाभ्रसत्त्वमाक्षीकं प्रत्येकं स्वर्णतुल्यकम् ॥ ८१ ॥  
 
 
-sarvaṃ jambīrajairdrāvaistaptakhalve vimardayet |  
-dinaikaṃ taṃ nirudhyātha bhūdhare pācayeddinam || 83 ||  
+तत्सर्वं चान्धितं धाम्यं तत्खोटं मृतपारदम् ।  
+समं सूनान्मृतं वज्रं पादांशं तत्र योजयेत् ॥ ८२ ॥  
 
 
-uddhṛtya gandhakaṃ tulyaṃ dattvā ruddhvā dhameddrutam |  
-taccūrṇaṃ madhunā''jyena māṣamātraṃ lihetsadā || 84 ||  
+सर्वं जम्बीरजैर्द्रावैस्तप्तखल्वे विमर्दयेत् ।  
+दिनैकं तं निरुध्याथ भूधरे पाचयेद्दिनम् ॥ ८३ ॥  
 
 
-rasaḥ śrīkaṇṭhanāmā'yaṃ khecaratvaṃ prayacchati |  
-saṃvatsaraprayogeṇa jīvetkalpāntameva ca || 85 ||  
+उद्धृत्य गन्धकं तुल्यं दत्त्वा रुद्ध्वा धमेद्द्रुतम् ।  
+तच्चूर्णं मधुनाऽऽज्येन माषमात्रं लिहेत्सदा ॥ ८४ ॥  
 
 
-tasya mūtrapurīṣābhyāṃ sarvalohāni kāñcanam |  
-palaikaṃ gandhakaṃ kṣīraiḥ krāmakaṃ cānu pāyayet || 86 ||  
+रसः श्रीकण्ठनामाऽयं खेचरत्वं प्रयच्छति ।  
+संवत्सरप्रयोगेण जीवेत्कल्पान्तमेव च ॥ ८५ ॥  
+
+
+तस्य मूत्रपुरीषाभ्यां सर्वलोहानि काञ्चनम् ।  
+पलैकं गन्धकं क्षीरैः क्रामकं चानु पाययेत् ॥ ८६ ॥  
 
 
  खेचरबद्धरसः ।
@@ -767,40 +766,40 @@ palaikaṃ gandhakaṃ kṣīraiḥ krāmakaṃ cānu pāyayet || 86 ||
 भावयेन्मधुसर्पिर्भ्यां कर्षमात्रं लिहेदनु ।  
 
 
- svayamarinarasaḥ |
+ स्वयमरिनरसः ।
 
-śuddhasūtaṃ dvidhā gandhaṃ kuryātkhalvena kañjalam || 101 ||  
-
-
-tayostulyaṃ kāntacūrṇaṃ tīkṣṇaṃ vā muṇḍameva vā |  
-sarvamekīkṛtaṃ khalve mardayetkanyakādravaiḥ || 102 ||  
+शुद्धसूतं द्विधा गन्धं कुर्यात्खल्वेन कञ्जलम् ॥ १०१ ॥  
 
 
-dinaikaṃ golakaṃ kṛtvā tāmrapātre niveśayet |  
-ācchādyairaṇḍapatraistu yāmārdhe'tyuṣṇatāṃ vrajet || 103 ||  
+तयोस्तुल्यं कान्तचूर्णं तीक्ष्णं वा मुण्डमेव वा ।  
+सर्वमेकीकृतं खल्वे मर्दयेत्कन्यकाद्रवैः ॥ १०२ ॥  
 
 
-dhānyarāśau nyasettaṃ tu dvidinānte samuddharet |  
-kanyābhṛṅgīkākamācīmuṇḍīnirguṇḍicitrakam || 104 ||  
+दिनैकं गोलकं कृत्वा ताम्रपात्रे निवेशयेत् ।  
+आच्छाद्यैरण्डपत्रैस्तु यामार्धेऽत्युष्णतां व्रजेत् ॥ १०३ ॥  
 
 
-koraṇṭabākucībrāhmīsahadevīpunarnavāḥ |  
-śālmalīvijayādhūrtā dravaireṣāṃ pṛthakpṛthak || 105 ||  
+धान्यराशौ न्यसेत्तं तु द्विदिनान्ते समुद्धरेत् ।  
+कन्याभृङ्गीकाकमाचीमुण्डीनिर्गुण्डिचित्रकम् ॥ १०४ ॥  
 
 
-saptadhā saptadhā bhāvyaṃ saptadhā triphalodbhavaiḥ |  
-kaṣāyairbhāvitaṃ cūrṇyaṃ jātīphalalavaṅgakam || 106 ||  
+कोरण्टबाकुचीब्राह्मीसहदेवीपुनर्नवाः ।  
+शाल्मलीविजयाधूर्ता द्रवैरेषां पृथक्पृथक् ॥ १०५ ॥  
 
 
-trikaṭu triphalā cailā cūrṇayennavakaṃ samam |  
-taccūrṇaṃ pūrvacūrṇaṃ ca samaṃ kṣaudreṇa karṣakam || 107 ||  
+सप्तधा सप्तधा भाव्यं सप्तधा त्रिफलोद्भवैः ।  
+कषायैर्भावितं चूर्ण्यं जातीफललवङ्गकम् ॥ १०६ ॥  
 
 
-varṣaikaṃ lehayennityaṃ jarākālapraśāntaye |  
-svayamagniraso nāma siddhānāṃ sumukhāgataḥ || 108 ||  
+त्रिकटु त्रिफला चैला चूर्णयेन्नवकं समम् ।  
+तच्चूर्णं पूर्वचूर्णं च समं क्षौद्रेण कर्षकम् ॥ १०७ ॥  
 
 
-tilāśvagandhayoścūrṇaṃ palārdhaṃ madhunā lihet |  
+वर्षैकं लेहयेन्नित्यं जराकालप्रशान्तये ।  
+स्वयमग्निरसो नाम सिद्धानां सुमुखागतः ॥ १०८ ॥  
+
+
+तिलाश्वगन्धयोश्चूर्णं पलार्धं मधुना लिहेत् ।  
 
 
  कक्षपुटरसः ।
@@ -832,26 +831,26 @@ tilāśvagandhayoścūrṇaṃ palārdhaṃ madhunā lihet |
 पलैकं भक्षयेच्चानु क्रामकं परमं हितम् ॥ ११५ ॥  
 
 
- mahāśāktirasaḥ |
+ महाशाक्तिरसः ।
 
-mṛtasūtābhrakaṃ vajraṃ kāntatārārkahāṭakam |  
-tīkṣṇaṃ ca tulyatulyāṃśaṃ sarveṣāṃ gandhakaṃ samam || 116 ||  
-
-
-sarvaṃ pālāśatailena mardayeddinasaptakam |  
-mahāśaktiraso nāma kṣaudrairmāṣaṃ lihetsadā || 117 ||  
+मृतसूताभ्रकं वज्रं कान्ततारार्कहाटकम् ।  
+तीक्ष्णं च तुल्यतुल्यांशं सर्वेषां गन्धकं समम् ॥ ११६ ॥  
 
 
-ṣaṇmāsena jarāṃ hanti jīvedbrahmadinatrayam |  
-vatsarātsaptakalpāni jīvatyeva na saṃśayaḥ || 118 ||  
+सर्वं पालाशतैलेन मर्दयेद्दिनसप्तकम् ।  
+महाशक्तिरसो नाम क्षौद्रैर्माषं लिहेत्सदा ॥ ११७ ॥  
 
 
-icchāvegī mahāsiddhaḥ parāśaktisamo bhavet |  
-tasya mūtrapurīṣābhyāṃ tāmraṃ bhavati kāñcanam || 119 ||  
+षण्मासेन जरां हन्ति जीवेद्ब्रह्मदिनत्रयम् ।  
+वत्सरात्सप्तकल्पानि जीवत्येव न संशयः ॥ ११८ ॥  
 
 
-pālāśabījajaṃ tailaṃ kṣaudrairlehyaṃ palāṣṭakam |  
-krāmakaṃ hyanupānaṃ syātsamyakchaktyā prakāśitam || 120 ||  
+इच्छावेगी महासिद्धः पराशक्तिसमो भवेत् ।  
+तस्य मूत्रपुरीषाभ्यां ताम्रं भवति काञ्चनम् ॥ ११९ ॥  
+
+
+पालाशबीजजं तैलं क्षौद्रैर्लेह्यं पलाष्टकम् ।  
+क्रामकं ह्यनुपानं स्यात्सम्यक्छक्त्या प्रकाशितम् ॥ १२० ॥  
 
 
  नाटकेश्वररसः ।
@@ -884,18 +883,18 @@ krāmakaṃ hyanupānaṃ syātsamyakchaktyā prakāśitam || 120 ||
 पिबेन्निष्कद्वयां तक्रैः क्रामकं परमं शुभम् ॥ १२७ ॥  
 
 +++(“त्रिफलोषणमध्वाज्यैः” ख। ।)++++++(“हाटकेश्वरः” क। ।)+++
- bālasundararasaḥ |
+ बालसुन्दररसः ।
 
-suśuddhaṃ śvetavaikrāntaṃ saptāhaṃ bhāvyamātape |  
-amlavetasasampiṣṭaṃ tenaiva drutimāpnuyāt || 128 ||  
-
-
-etaddrutiṃ śuddhasūtaṃ samaṃ kṣaudrairdinatrayam |  
-marditaṃ lehayenmāṣaṃ māsādbālo bhavennaraḥ || 129 ||  
+सुशुद्धं श्वेतवैक्रान्तं सप्ताहं भाव्यमातपे ।  
+अम्लवेतससम्पिष्टं तेनैव द्रुतिमाप्नुयात् ॥ १२८ ॥  
 
 
-vatsarādbrahmatulyaḥ syādraso'yaṃ bālasundaraḥ |  
-bākucībījakarṣaikaṃ madhvājyābhyāṃ lihedanu || 130 ||  
+एतद्द्रुतिं शुद्धसूतं समं क्षौद्रैर्दिनत्रयम् ।  
+मर्दितं लेहयेन्माषं मासाद्बालो भवेन्नरः ॥ १२९ ॥  
+
+
+वत्सराद्ब्रह्मतुल्यः स्याद्रसोऽयं बालसुन्दरः ।  
+बाकुचीबीजकर्षैकं मध्वाज्याभ्यां लिहेदनु ॥ १३० ॥  
 
 
  ब्रह्मपञ्जररसः ।
@@ -920,37 +919,37 @@ bākucībījakarṣaikaṃ madhvājyābhyāṃ lihedanu || 130 ||
 पुरातनगुडैस्तुल्यं कर्षैकमनु भक्षयेत् ॥ १३५ ॥  
 
 
- śivāmṛtarasaḥ |
+ शिवामृतरसः ।
 
-raktabhūmau tu bhūnāgān grāhayitvā parīkṣayet |  
-chede niryāti raktaṃ cettān svīkuryātprayatnataḥ || 136 ||  
-
-
-kṛṣṇavarṇagavājyena samena saha tān pacet |  
-lohaje cālayan pātre yāvatsindūravarṇakam || 137 ||  
+रक्तभूमौ तु भूनागान् ग्राहयित्वा परीक्षयेत् ।  
+छेदे निर्याति रक्तं चेत्तान् स्वीकुर्यात्प्रयत्नतः ॥ १३६ ॥  
 
 
-tatsarvaṃ jāyate bhasma tattulyaṃ mṛtapāradam |  
-madhunā''loḍitaṃ sarvaṃ guñjārdhārdhaṃ vivardhayan || 138 ||  
+कृष्णवर्णगवाज्येन समेन सह तान् पचेत् ।  
+लोहजे चालयन् पात्रे यावत्सिन्दूरवर्णकम् ॥ १३७ ॥  
 
 
-paścādguñjāṃ sadā khādedyāvatsaṃvatsarāvadhi |  
-śivāmṛto raso nāma jarāmṛtyuharo nṛṇām |  
-āyurbrahmadinaṃ datte śivāmbu pāyayedanu || 139 ||  
-
-+++(“tilaiḥ saha” kha. |)+++
-evaṃ divyarasāyanaiḥ samucitaiḥ sārātisāraiḥ śubhaiḥ  
-siddhaṃ dehamanekasādhanabalādyeṣāṃ tu dṛṣṭaṃ mayā |  
-tānārādhya ca teṣu sāramakhilaṃ saṅgṛhya śāstrādapi  
-bhūpānāṃ viduṣāṃ mahāmatimatāṃ proktaṃ hitārthāya vai || 140 ||  
+तत्सर्वं जायते भस्म तत्तुल्यं मृतपारदम् ।  
+मधुनाऽऽलोडितं सर्वं गुञ्जार्धार्धं विवर्धयन् ॥ १३८ ॥  
 
 
-iti śrīpārvatīputranityanāthasiddhaviracite rasaratnākare caturthe rasāyanakhaṇḍe divyarasairdehasādhanaṃ nāma dvitīya upadeśaḥ || 2 ||
+पश्चाद्गुञ्जां सदा खादेद्यावत्संवत्सरावधि ।  
+शिवामृतो रसो नाम जरामृत्युहरो नृणाम् ।  
+आयुर्ब्रह्मदिनं दत्ते शिवाम्बु पाययेदनु ॥ १३९ ॥  
 
-# atha tṛtīyopadeśaḥ |
++++(“तिलैः सह” ख। ।)+++
+एवं दिव्यरसायनैः समुचितैः सारातिसारैः शुभैः  
+सिद्धं देहमनेकसाधनबलाद्येषां तु दृष्टं मया ।  
+तानाराध्य च तेषु सारमखिलं सङ्गृह्य शास्त्रादपि  
+भूपानां विदुषां महामतिमतां प्रोक्तं हितार्थाय वै ॥ १४० ॥  
 
-divyayogaguṭikārasāyanaṃ krāmaṇena rahitaṃ na sidhyati |  
-śīghra \[\] siddhikarameva sevyatāṃ krāmaṇārthamanupānamatra vai || 1 ||  
+
+इति श्रीपार्वतीपुत्रनित्यनाथसिद्धविरचिते रसरत्नाकरे चतुर्थे रसायनखण्डे दिव्यरसैर्देहसाधनं नाम द्वितीय उपदेशः ॥ २ ॥
+
+# अथ तृतीयोपदेशः ।
+
+दिव्ययोगगुटिकारसायनं क्रामणेन रहितं न सिध्यति ।  
+शीघ्र \[\] सिद्धिकरमेव सेव्यतां क्रामणार्थमनुपानमत्र वै ॥ १ ॥  
 
 
  मृतसञ्जीवनीगुटिका ।
@@ -990,48 +989,48 @@ divyayogaguṭikārasāyanaṃ krāmaṇena rahitaṃ na sidhyati |
 अनेन त्वनुपानेन देहे सङ्क्रमते रसः ।  
 
 +++(“देहसिद्धिकरमेव” ख। ।)++++++(“बाधां हरेदियम्” ख। ।)+++
- vajreśvarīguṭikā |
+ वज्रेश्वरीगुटिका ।
 
-samukhaṃ pāradaṃ kāntaṃ muṇḍalohābhrasattvakam || 10 ||  
-
-
-tāpyasattvaṃ mṛtaṃ vajraṃ sarvaṃ jambīrajairdravaiḥ |  
-saptāhaṃ mardayettulyaṃ kṛtvā golaṃ samuddharet || 11 ||  
+समुखं पारदं कान्तं मुण्डलोहाभ्रसत्त्वकम् ॥ १० ॥  
 
 
-nirguṇḍī saindhavaṃ kṣaudraṃ gojihvā kākatuṇḍikā |  
-piṣṭvā tu lepayedgolaṃ sarvato'ṅgulamātrakam || 12 ||  
+ताप्यसत्त्वं मृतं वज्रं सर्वं जम्बीरजैर्द्रवैः ।  
+सप्ताहं मर्दयेत्तुल्यं कृत्वा गोलं समुद्धरेत् ॥ ११ ॥  
 
 
-taṃ ruddhvā vajramūṣāyāṃ pacedyāmaṃ tu bhūdhare |  
-liptvā ruddhvā punaḥ pācyamityevaṃ pakṣamātrakam || 13 ||  
+निर्गुण्डी सैन्धवं क्षौद्रं गोजिह्वा काकतुण्डिका ।  
+पिष्ट्वा तु लेपयेद्गोलं सर्वतोऽङ्गुलमात्रकम् ॥ १२ ॥  
 
 
-yavaciñcāpalāśottharājīkārpāsabījakaiḥ |  
-supiṣṭairlepayenmūṣāṃ tanmadhye pūrvagolakam || 14 ||  
+तं रुद्ध्वा वज्रमूषायां पचेद्यामं तु भूधरे ।  
+लिप्त्वा रुद्ध्वा पुनः पाच्यमित्येवं पक्षमात्रकम् ॥ १३ ॥  
 
 
-ṭaṅkaṇaṃ śvetakācaṃ ca dattvā pṛ \[\] ṣṭhe nirudhya ca |  
-khadirāṅgārayogena dhamedyāvaddrutaṃ bhavet || 15 ||  
+यवचिञ्चापलाशोत्थराजीकार्पासबीजकैः ।  
+सुपिष्टैर्लेपयेन्मूषां तन्मध्ये पूर्वगोलकम् ॥ १४ ॥  
 
 
-tatastaṃ biḍaliptāyāṃ mūṣāyāṃ ca niveśayet |  
-tattulyaṃ dāpayetsvarṇaṃ jārayettaṃ dhaman dhaman || 16 ||  
+टङ्कणं श्वेतकाचं च दत्त्वा पृ \[\] ष्ठे निरुध्य च ।  
+खदिराङ्गारयोगेन धमेद्यावद्द्रुतं भवेत् ॥ १५ ॥  
 
 
-jīrṇe svarṇe samuddhṛtya taptakhalve vimardayet |  
-tryahaṃ divyauṣadhidrāvairvajramūṣāndhitaṃ dhamet || 17 ||  
+ततस्तं बिडलिप्तायां मूषायां च निवेशयेत् ।  
+तत्तुल्यं दापयेत्स्वर्णं जारयेत्तं धमन् धमन् ॥ १६ ॥  
 
 
-jāyate guṭikā divyā nāmnā vajreśvarī parā |  
-vaktrasthā sā jarāṃ mṛtyuṃ hanti saṃvatsarātkila || 18 ||  
+जीर्णे स्वर्णे समुद्धृत्य तप्तखल्वे विमर्दयेत् ।  
+त्र्यहं दिव्यौषधिद्रावैर्वज्रमूषान्धितं धमेत् ॥ १७ ॥  
 
 
-śastrastambhaṃ ca kurute brahmāyuryacchati dhruvam |  
-kṛṣṇāṣṭamyāṃ samādāya sahadevīṃ sucūrṇayet || 19 ||  
+जायते गुटिका दिव्या नाम्ना वज्रेश्वरी परा ।  
+वक्त्रस्था सा जरां मृत्युं हन्ति संवत्सरात्किल ॥ १८ ॥  
 
 
-karṣaikāṃ bhakṣayedājyairanu syātkrāmeṇa hitam |  
+शस्त्रस्तम्भं च कुरुते ब्रह्मायुर्यच्छति ध्रुवम् ।  
+कृष्णाष्टम्यां समादाय सहदेवीं सुचूर्णयेत् ॥ १९ ॥  
+
+
+कर्षैकां भक्षयेदाज्यैरनु स्यात्क्रामेण हितम् ।  
 
 
  वज्रसुन्दरीगुटिका ।
@@ -1066,20 +1065,20 @@ karṣaikāṃ bhakṣayedājyairanu syātkrāmeṇa hitam |
 जायते कनकं दिव्यं सत्यं शङ्करभाषितम् ।  
 
 
- hemasundarībaṭikā |
+ हेमसुन्दरीबटिका ।
 
-samukhasya rasendrasya pūrvavatkāñcanaṃ samam || 27 ||  
-
-
-jārayedbiḍayogena tato mardyaṃ dinatrayam |  
-divyauṣadhaiḥ sagomūtrairvajramūṣāndhitaṃ dhamet || 28 ||  
+समुखस्य रसेन्द्रस्य पूर्ववत्काञ्चनं समम् ॥ २७ ॥  
 
 
-uddhṛtya dhārayedvaktre guṭikā hemasundarī |  
-palārdhaṃ gandhakaṃ cājyairdviguṇairlehayedanu || 29 ||  
+जारयेद्बिडयोगेन ततो मर्द्यं दिनत्रयम् ।  
+दिव्यौषधैः सगोमूत्रैर्वज्रमूषान्धितं धमेत् ॥ २८ ॥  
 
 
-varṣaikena jarāṃ hanti jīvedācandratārakam |  
+उद्धृत्य धारयेद्वक्त्रे गुटिका हेमसुन्दरी ।  
+पलार्धं गन्धकं चाज्यैर्द्विगुणैर्लेहयेदनु ॥ २९ ॥  
+
+
+वर्षैकेन जरां हन्ति जीवेदाचन्द्रतारकम् ।  
 
 
  वज्रखेचरीगुटिका ।
@@ -1106,29 +1105,29 @@ varṣaikena jarāṃ hanti jīvedācandratārakam |
 भक्षयेत्क्रामणार्थं तु ब्रह्मायुर्जायते नरः ।  
 
 +++(“क्षिप्त्वा तु मर्दयेच्चानु आर्द्रकस्य द्रवैः पुनः” ख। ।)++++++(“सुरसुन्दरी” ख। ।)++++++(“भूतावरटचूण” ख।)+++
- vyomasundarī vaṭikā |
+ व्योमसुन्दरी वटिका ।
 
-kārpāsyāḥ kākamācyāśca kanyāyāśca daladravaiḥ || 35 ||  
-
-
-śuddhasūtaṃ dinaṃ mardyaṃ kṣālyamamlaiḥ samuddharet |  
-tadrasaṃ niṣkacatvāri niṣkārdhaṃ tāmracūrṇakam || 36 ||  
+कार्पास्याः काकमाच्याश्च कन्यायाश्च दलद्रवैः ॥ ३५ ॥  
 
 
-pādonaniṣkamabhrotthaṃ sattvaṃ pādaṃ ca hāṭakam |  
-hematulyaṃ muṇḍacūrṇaṃ sarvamamlairvimardayet || 37 ||  
+शुद्धसूतं दिनं मर्द्यं क्षाल्यमम्लैः समुद्धरेत् ।  
+तद्रसं निष्कचत्वारि निष्कार्धं ताम्रचूर्णकम् ॥ ३६ ॥  
 
 
-dinānte golakaṃ kṛtvā jambīrasyodare kṣipet |  
-tridinaṃ dolakāyantre pācayetsāranālake || 38 ||  
+पादोननिष्कमभ्रोत्थं सत्त्वं पादं च हाटकम् ।  
+हेमतुल्यं मुण्डचूर्णं सर्वमम्लैर्विमर्दयेत् ॥ ३७ ॥  
 
 
-uddhṛtya dhārayedvaktre guṭikā vyomasundarī |  
-varṣamātrājjarāṃ hanti jīvedbrahmadinaṃ naraḥ || 39 ||  
+दिनान्ते गोलकं कृत्वा जम्बीरस्योदरे क्षिपेत् ।  
+त्रिदिनं दोलकायन्त्रे पाचयेत्सारनालके ॥ ३८ ॥  
 
 
-citramūlasya cūrṇaṃ tu sakṣaudraṃ kāntapātrake |  
-āloḍya bhakṣayetkarṣamanu syātkrāmaṇe hitam || 40 ||  
+उद्धृत्य धारयेद्वक्त्रे गुटिका व्योमसुन्दरी ।  
+वर्षमात्राज्जरां हन्ति जीवेद्ब्रह्मदिनं नरः ॥ ३९ ॥  
+
+
+चित्रमूलस्य चूर्णं तु सक्षौद्रं कान्तपात्रके ।  
+आलोड्य भक्षयेत्कर्षमनु स्यात्क्रामणे हितम् ॥ ४० ॥  
 
 
  हाटकेश्वरीगुटिका ।
@@ -1149,21 +1148,21 @@ citramūlasya cūrṇaṃ tu sakṣaudraṃ kāntapātrake |
 भावितं मधुसर्पिर्भ्यां पलैकं क्रामकं लिहेत् ॥ ४४ ॥  
 
 
- arkaprabhāvatī guṭikā |
+ अर्कप्रभावती गुटिका ।
 
-rasaniṣkatrayaṃ śuddhaṃ niṣkaikaṃ tāmracūrṇakam |  
-ciñcāphalāmlatakrābhyāṃ khalve mardyaṃ dināvadhi || 45 ||  
-
-
-tadgolaṃ bandhayedvasraistakraciñcāmlapūrite |  
-dolāyantre dinaṃ pacyādguṭikā'rkaprabhāvatī || 46 ||  
+रसनिष्कत्रयं शुद्धं निष्कैकं ताम्रचूर्णकम् ।  
+चिञ्चाफलाम्लतक्राभ्यां खल्वे मर्द्यं दिनावधि ॥ ४५ ॥  
 
 
-varṣaikaṃ dhārayedvaktraṃ sūryatulyo bhavennaraḥ |  
-pālāśabījajaṃ tailaṃ gokṣīraiḥ karṣamātrakam || 47 ||  
+तद्गोलं बन्धयेद्वस्रैस्तक्रचिञ्चाम्लपूरिते ।  
+दोलायन्त्रे दिनं पच्याद्गुटिकाऽर्कप्रभावती ॥ ४६ ॥  
 
 
-krāmakaṃ hyanupānaṃ syājjarāmṛtyuharaṃ param |  
+वर्षैकं धारयेद्वक्त्रं सूर्यतुल्यो भवेन्नरः ।  
+पालाशबीजजं तैलं गोक्षीरैः कर्षमात्रकम् ॥ ४७ ॥  
+
+
+क्रामकं ह्यनुपानं स्याज्जरामृत्युहरं परम् ।  
 
 
  सुरसुन्दरी वटिका ।
@@ -1183,25 +1182,25 @@ krāmakaṃ hyanupānaṃ syājjarāmṛtyuharaṃ param |
 भू \[\] तारवटमूलं च कर्षं क्षीरैः पिबेदनु ॥ ५१ ॥  
 
 
- vajratuṇḍāvaṭikā |
+ वज्रतुण्डावटिका ।
 
-svarṇatārārkamuṇḍaṃ ca vaṅgasīsābhrasattvakam |  
-etatsarvaṃ samaṃ cūrṇaṃ cūrṇāśaṃ mṛtavajrakam || 52 ||  
-
-
-sarvatulyaṃ śuddhasūtaṃ sarvaṃ divyauṣadhidravaiḥ |  
-mardayeddinamekaṃ tu vajramūṣāndhitaṃ dhamet || 53 ||  
+स्वर्णतारार्कमुण्डं च वङ्गसीसाभ्रसत्त्वकम् ।  
+एतत्सर्वं समं चूर्णं चूर्णाशं मृतवज्रकम् ॥ ५२ ॥  
 
 
-guṭikā vajratuṇḍeyaṃ jāyate dhāritā mukhe |  
-jarāmṛtyuṃ śastrasaṅghaṃ nāśayedvatsarātkila || 54 ||  
+सर्वतुल्यं शुद्धसूतं सर्वं दिव्यौषधिद्रवैः ।  
+मर्दयेद्दिनमेकं तु वज्रमूषान्धितं धमेत् ॥ ५३ ॥  
 
 
-vajrakāyo mahāvīro jīvedvarṣaśatatrayam |  
-kumāryāḥ svarasaṃ grāhyaṃ guḍena saha loḍayet || 55 ||  
+गुटिका वज्रतुण्डेयं जायते धारिता मुखे ।  
+जरामृत्युं शस्त्रसङ्घं नाशयेद्वत्सरात्किल ॥ ५४ ॥  
 
 
-palaikaṃ krāmakaṃ lehyamanupānaṃ sadaiva hi |  
+वज्रकायो महावीरो जीवेद्वर्षशतत्रयम् ।  
+कुमार्याः स्वरसं ग्राह्यं गुडेन सह लोडयेत् ॥ ५५ ॥  
+
+
+पलैकं क्रामकं लेह्यमनुपानं सदैव हि ।  
 
 
  कामसुन्दरीगुटिका ।
@@ -1224,33 +1223,33 @@ palaikaṃ krāmakaṃ lehyamanupānaṃ sadaiva hi |
 मिश्रितं पाययेच्चानु लक्षायुर्जायते नरः ।  
 
 +++(“भूतावरटमूलं” ख। ।)+++
- gandhārīguṭikā |
+ गन्धारीगुटिका ।
 
-lohapātre drute gandhe pādāṃśaṃ pāradaṃ kṣipet || 60 ||  
-
-
-kiñciccālyaṃ tu kāṣṭhena muhūrtādavatārayet |  
-śatāvarī kṣīrakando vajravallīndravāruṇī || 61 ||  
+लोहपात्रे द्रुते गन्धे पादांशं पारदं क्षिपेत् ॥ ६० ॥  
 
 
-pāṭhā punarnavā ciñcā lāṅgalī suradālikā |  
-etāsāṃ vastrapūteśca dravairmardyaṃ dinatrayam || 62 ||  
+किञ्चिच्चाल्यं तु काष्ठेन मुहूर्तादवतारयेत् ।  
+शतावरी क्षीरकन्दो वज्रवल्लीन्द्रवारुणी ॥ ६१ ॥  
 
 
-tasmin pātre lohamuṣṭyā chāyā \[\] śuṣkaṃ vaṭīkṛtam |  
-lohasampuṭagaṃ ruddhvā sandhiṃ mṛllavaṇairdṛḍham || 63 ||  
+पाठा पुनर्नवा चिञ्चा लाङ्गली सुरदालिका ।  
+एतासां वस्त्रपूतेश्च द्रवैर्मर्द्यं दिनत्रयम् ॥ ६२ ॥  
 
 
-taṃ dhametkhadirāṅgāre yāvadāraktamuddharet |  
-utkhanyotkhanya tanmadhyāduddharettadrasaṃ punaḥ || 64 ||  
+तस्मिन् पात्रे लोहमुष्ट्या छाया \[\] शुष्कं वटीकृतम् ।  
+लोहसम्पुटगं रुद्ध्वा सन्धिं मृल्लवणैर्दृढम् ॥ ६३ ॥  
 
 
-kācaṭaṅkaṇasaṃyuktaṃ mūṣāyāṃ cāndhitaṃ pacet |  
-gāndhārīguṭikā siddhā varṣaṃ vaktre sthitā sadā || 65 ||  
+तं धमेत्खदिराङ्गारे यावदारक्तमुद्धरेत् ।  
+उत्खन्योत्खन्य तन्मध्यादुद्धरेत्तद्रसं पुनः ॥ ६४ ॥  
 
 
-kākatuṇḍībījatailaṃ karṣaikaṃ nasyamācaret |  
-krāmakaṃ hyanupānaṃ syājjīvedvarṣasahasrakam || 66 ||  
+काचटङ्कणसंयुक्तं मूषायां चान्धितं पचेत् ।  
+गान्धारीगुटिका सिद्धा वर्षं वक्त्रे स्थिता सदा ॥ ६५ ॥  
+
+
+काकतुण्डीबीजतैलं कर्षैकं नस्यमाचरेत् ।  
+क्रामकं ह्यनुपानं स्याज्जीवेद्वर्षसहस्रकम् ॥ ६६ ॥  
 
 
  मार्तण्डी गुटिका ।
@@ -1290,21 +1289,21 @@ krāmakaṃ hyanupānaṃ syājjīvedvarṣasahasrakam || 66 ||
 वायुवेगो महासिद्धश्छिद्रां पश्यति-मेदिनीम् ॥ ७५ ॥  
 
 
- tārakeśvarīguṭikā |
+ तारकेश्वरीगुटिका ।
 
-kākamācyamṛtādrāvaiḥ pāradaṃ tālakaṃ samam |  
-mardayeddinamekaṃ tu kṛtvā golaṃ viśoṣayet || 76 ||  
-
-
-nikṣipedvajramūṣāyāmācchādya loha \[\] parpaṭaiḥ |  
-ruddhvā sandhiṃ dhamedgāḍhaṃ khoṭabaddho bhavedrasaḥ || 77 ||  
+काकमाच्यमृताद्रावैः पारदं तालकं समम् ।  
+मर्दयेद्दिनमेकं तु कृत्वा गोलं विशोषयेत् ॥ ७६ ॥  
 
 
-lohaparpaṭakaṃ dattvā tadvaddhāmyaṃ tridhā punaḥ |  
-varṣaikaṃ dhārayedvaktre guṭikā tārakeśvarī || 78 ||  
+निक्षिपेद्वज्रमूषायामाच्छाद्य लोह \[\] पर्पटैः ।  
+रुद्ध्वा सन्धिं धमेद्गाढं खोटबद्धो भवेद्रसः ॥ ७७ ॥  
 
 
-bākucībījakarṣaikaṃ gavāṃ kṣīraiḥ pibedanu |  
+लोहपर्पटकं दत्त्वा तद्वद्धाम्यं त्रिधा पुनः ।  
+वर्षैकं धारयेद्वक्त्रे गुटिका तारकेश्वरी ॥ ७८ ॥  
+
+
+बाकुचीबीजकर्षैकं गवां क्षीरैः पिबेदनु ।  
 
 
  विद्यावागीश्वरी गुटिका ।
@@ -1327,36 +1326,36 @@ bākucībījakarṣaikaṃ gavāṃ kṣīraiḥ pibedanu |
 वाक्पतिर्जायते धीरो जीवेच्चन्द्रार्कतारकम् ।  
 
 
- vajratuṇḍāvaṭikā |
+ वज्रतुण्डावटिका ।
 
-kāntapāṣāṇamākṣīkaṃ ṭaṅkaṇaṃ karkaṭāsthi ca || 83 ||  
-
-
-snuhyarkakṣīrabhūnāgaṃ sarvametatsamaṃ bhavet |  
-strīstanyena dinaṃ mardyaṃ tena mūṣāṃ pralepayet || 84 ||  
+कान्तपाषाणमाक्षीकं टङ्कणं कर्कटास्थि च ॥ ८३ ॥  
 
 
-tanmadhye dru \[\] tasūtaṃ tu vajrabhasma samaṃ samam |  
-kṣiptvā ruddhvā puṭe pacyādgajākhye yāmamātrakam || 85 ||  
+स्नुह्यर्कक्षीरभूनागं सर्वमेतत्समं भवेत् ।  
+स्त्रीस्तन्येन दिनं मर्द्यं तेन मूषां प्रलेपयेत् ॥ ८४ ॥  
 
 
-tataḥ praliptamūṣāyāṃ kṣiptvā ruddhvā dhameddhaṭhāt |  
-+++(“parpaṭīrasaiḥ” kha)++++++(“śuddhasūtaṃ” kha |)+++evaṃ punaḥ punaḥ kāryaṃ vajrasūtaṃ milatyalam || 86 ||  
+तन्मध्ये द्रु \[\] तसूतं तु वज्रभस्म समं समम् ।  
+क्षिप्त्वा रुद्ध्वा पुटे पच्याद्गजाख्ये याममात्रकम् ॥ ८५ ॥  
 
 
-tatastasyaiva dātavyaṃ samaṃ kācaṃ saṭaṅkaṇam |  
-evaṃ mūṣāśate deyaṃ tulyaṃ tulyaṃ dhaman dhaman || 87 ||  
+ततः प्रलिप्तमूषायां क्षिप्त्वा रुद्ध्वा धमेद्धठात् ।  
++++(“पर्पटीरसैः” ख)++++++(“शुद्धसूतं” ख ।)+++एवं पुनः पुनः कार्यं वज्रसूतं मिलत्यलम् ॥ ८६ ॥  
 
 
-tejaḥpuñjo rasendro'sau bhavenmārtaṇḍasannibhaḥ |  
-guṭikā vajratuṇḍeyaṃ vaktrasthā mṛtyunāśinī || 88 ||  
+ततस्तस्यैव दातव्यं समं काचं सटङ्कणम् ।  
+एवं मूषाशते देयं तुल्यं तुल्यं धमन् धमन् ॥ ८७ ॥  
 
 
-varṣamātrānna sandeho rudratulyo bhavennaraḥ |  
-tasya mūtrapurīṣābhyāṃ pūrvavatkāñcanaṃ bhavet || 89 ||  
+तेजःपुञ्जो रसेन्द्रोऽसौ भवेन्मार्तण्डसन्निभः ।  
+गुटिका वज्रतुण्डेयं वक्त्रस्था मृत्युनाशिनी ॥ ८८ ॥  
 
 
-pañcāṅgaṃ bhakṣayetkarṣaṃ rudantyā madhusarpiṣā |  
+वर्षमात्रान्न सन्देहो रुद्रतुल्यो भवेन्नरः ।  
+तस्य मूत्रपुरीषाभ्यां पूर्ववत्काञ्चनं भवेत् ॥ ८९ ॥  
+
+
+पञ्चाङ्गं भक्षयेत्कर्षं रुदन्त्या मधुसर्पिषा ।  
 
 
  गगनेश्वरीगुटिका ।
@@ -1388,38 +1387,38 @@ pañcāṅgaṃ bhakṣayetkarṣaṃ rudantyā madhusarpiṣā |
 खेचरत्वमदृश्यत्वं जायते नात्र संशयः ॥ ९६ ॥  
 
 
- ānandaguṭikā |
+ आनन्दगुटिका ।
 
-agnimantho vajravallī sūraṇaṃ vanasūraṇam |  
-citrakaśca dravaireṣāṃ śuddhasūtaṃ dināvadhi || 97 ||  
-
-
-mardayettaptakhalve tu taṃ rasaṃ palamātrakam |  
-palaṃ palaṃ tālavaṅgau tatsarvaṃ cāmlavetasaiḥ || 98 ||  
+अग्निमन्थो वज्रवल्ली सूरणं वनसूरणम् ।  
+चित्रकश्च द्रवैरेषां शुद्धसूतं दिनावधि ॥ ९७ ॥  
 
 
-mardayeddinamekaṃ tu kṛtvā taṃ golakaṃ punaḥ |  
-+++(“pūrvavacchuddhapāradam” kha. |)+++catuḥpalāṃ nāgamūṣāṃ kṛtvā tasyāṃ tu tatkṣipet || 99 ||  
+मर्दयेत्तप्तखल्वे तु तं रसं पलमात्रकम् ।  
+पलं पलं तालवङ्गौ तत्सर्वं चाम्लवेतसैः ॥ ९८ ॥  
 
 
-catuṣpale śuddhatāmrasampuṭe tāṃ nirodhayet |  
-mṛṇmūṣāyāṃ tu tāṃ ruddhvā āraṇyotpalakaiḥ puṭet || 100 ||  
+मर्दयेद्दिनमेकं तु कृत्वा तं गोलकं पुनः ।  
++++(“पूर्ववच्छुद्धपारदम्” ख। ।)+++चतुःपलां नागमूषां कृत्वा तस्यां तु तत्क्षिपेत् ॥ ९९ ॥  
 
 
-śatadvayapramāṇaistu svāṅgaśītaṃ samuddharet |  
-sarvaṃ divyauṣadhadrāvairmardayeddivasatrayam || 101 ||  
+चतुष्पले शुद्धताम्रसम्पुटे तां निरोधयेत् ।  
+मृण्मूषायां तु तां रुद्ध्वा आरण्योत्पलकैः पुटेत् ॥ १०० ॥  
 
 
-caturniṣkamitā kāryā vaṭikā, śoṣayettataḥ |  
-ekaikāṃ vajramūṣāyāṃ ruddhvā tīvrāgninā dhamet || 102 ||  
+शतद्वयप्रमाणैस्तु स्वाङ्गशीतं समुद्धरेत् ।  
+सर्वं दिव्यौषधद्रावैर्मर्दयेद्दिवसत्रयम् ॥ १०१ ॥  
 
 
-ānandaguṭikā hyeṣā vaktrasthā mṛtyunāśinī |  
-vatsarānnātra sandeho jīvedbrahmadinatrayam || 103 ||  
+चतुर्निष्कमिता कार्या वटिका, शोषयेत्ततः ।  
+एकैकां वज्रमूषायां रुद्ध्वा तीव्राग्निना धमेत् ॥ १०२ ॥  
 
 
-tailaṃ vātāribījotthaṃ gokṣīrairniṣkamātrakam |  
-krāmaṇārthaṃ pibennityaṃ śīghrasiddhikaraṃ param || 104 ||  
+आनन्दगुटिका ह्येषा वक्त्रस्था मृत्युनाशिनी ।  
+वत्सरान्नात्र सन्देहो जीवेद्ब्रह्मदिनत्रयम् ॥ १०३ ॥  
+
+
+तैलं वातारिबीजोत्थं गोक्षीरैर्निष्कमात्रकम् ।  
+क्रामणार्थं पिबेन्नित्यं शीघ्रसिद्धिकरं परम् ॥ १०४ ॥  
 
 
  वज्रखेचरिकावटिका ।
@@ -1448,49 +1447,49 @@ krāmaṇārthaṃ pibennityaṃ śīghrasiddhikaraṃ param || 104 ||
 निर्गुण्डीमुनिचूर्णं तु कर्षमाज्यैः पिबेदनु ॥ ११० ॥  
 
 
- ratneśvarī guṭikā |
+ रत्नेश्वरी गुटिका ।
 
-kāntaṃ śulbaṃ samaṃ cūrṇyaṃ vajramūṣāndhitaṃ dhamet |  
-tatkhoṭasiddhacūrṇaṃ tu gandhakāmlena mardayet || 111 ||  
-
-
-ruddhvā samyakpuṭe pacyātsamuddhṛtyātha mardayet |  
-pūrvavatkramayogena puṭedvārāṃścaturdaśa || 112 ||  
+कान्तं शुल्बं समं चूर्ण्यं वज्रमूषान्धितं धमेत् ।  
+तत्खोटसिद्धचूर्णं तु गन्धकाम्लेन मर्दयेत् ॥ १११ ॥  
 
 
-vajreṇa dvandvitaṃ svarṇamanenaiva tu rañjayet |  
-mūṣāmadhye dhamannevaṃ saptavāraṃ samaṃ kṣipet || 113 ||  
+रुद्ध्वा सम्यक्पुटे पच्यात्समुद्धृत्याथ मर्दयेत् ।  
+पूर्ववत्क्रमयोगेन पुटेद्वारांश्चतुर्दश ॥ ११२ ॥  
 
 
-tatkhoṭaṃ cūrṇitaṃ bhāvyaṃ strīpuṣpeṇa dināvadhi |  
-tattulyaṃ drutasūtaṃ tu sarvaṃ yāmaṃ vimardayet || 114 ||  
+वज्रेण द्वन्द्वितं स्वर्णमनेनैव तु रञ्जयेत् ।  
+मूषामध्ये धमन्नेवं सप्तवारं समं क्षिपेत् ॥ ११३ ॥  
 
 
-veṣṭayedbhūrjapatreṇa vastre baddhvā pacetrtryaham |  
-dolāyantre sāranāle jātaṃ golaṃ samuddharet || 115 ||  
+तत्खोटं चूर्णितं भाव्यं स्त्रीपुष्पेण दिनावधि ।  
+तत्तुल्यं द्रुतसूतं तु सर्वं यामं विमर्दयेत् ॥ ११४ ॥  
 
 
-gāndhārī jīvanī caiva lāṅgalī cendravāruṇī |  
-etāsāṃ piṇḍakalkena veṣṭayetpūrvagolakam || 116 ||  
+वेष्टयेद्भूर्जपत्रेण वस्त्रे बद्ध्वा पचेत्र्त्र्यहम् ।  
+दोलायन्त्रे सारनाले जातं गोलं समुद्धरेत् ॥ ११५ ॥  
 
 
-andhayitvā dinaṃ pacyādbhūdhare taṃ samuddharet |  
-punarlepyaṃ punaḥ pācyaṃ caturdaśadināvadhi || 117 ||  
+गान्धारी जीवनी चैव लाङ्गली चेन्द्रवारुणी ।  
+एतासां पिण्डकल्केन वेष्टयेत्पूर्वगोलकम् ॥ ११६ ॥  
 
 
-guṭikā jāyate divyā nāmnā ratneśvarī tathā |  
-vaktrasthā varṣamātraṃ tu nanditulyo bhavennaraḥ || 118 ||  
+अन्धयित्वा दिनं पच्याद्भूधरे तं समुद्धरेत् ।  
+पुनर्लेप्यं पुनः पाच्यं चतुर्दशदिनावधि ॥ ११७ ॥  
 
 
-jīvedvarṣasahasrāṇi divyatejā mahābalaḥ |  
-varṣadvādaśaparyantaṃ yasya vaktre sthitā tu sā || 119 ||  
+गुटिका जायते दिव्या नाम्ना रत्नेश्वरी तथा ।  
+वक्त्रस्था वर्षमात्रं तु नन्दितुल्यो भवेन्नरः ॥ ११८ ॥  
 
 
-tasya prasvedasamparkādaṣṭalohāni kāñcanam |  
-jāyante nātra sandehaḥ satyamīśvarabhāṣitam || 120 ||  
+जीवेद्वर्षसहस्राणि दिव्यतेजा महाबलः ।  
+वर्षद्वादशपर्यन्तं यस्य वक्त्रे स्थिता तु सा ॥ ११९ ॥  
 
 
-pañcāṅgacūrṇaṃ madhvājyai rudantyutthaṃ lihedanu |  
+तस्य प्रस्वेदसम्पर्कादष्टलोहानि काञ्चनम् ।  
+जायन्ते नात्र सन्देहः सत्यमीश्वरभाषितम् ॥ १२० ॥  
+
+
+पञ्चाङ्गचूर्णं मध्वाज्यै रुदन्त्युत्थं लिहेदनु ।  
 
 
  दिव्यखेचरीवटिका ।
@@ -1537,20 +1536,20 @@ pañcāṅgacūrṇaṃ madhvājyai rudantyutthaṃ lihedanu |
 वलीपलितनिर्मुक्तो महाबलपराक्रमः ।  
 
 
- svarṇavaikrāntabaddharasaḥ |
+ स्वर्णवैक्रान्तबद्धरसः ।
 
-svarṇaṃ vaikrāntasattvaṃ ca dvandvitaṃ jārayedrase || 131 ||  
-
-
-samāṃśaṃ tu bhavedyāvattatastenaiva sā \[\] rayet |  
-samena jāyate baddho dhārayettaṃ mukhe sadā || 132 ||  
+स्वर्णं वैक्रान्तसत्त्वं च द्वन्द्वितं जारयेद्रसे ॥ १३१ ॥  
 
 
-saṃvatsaraprayogeṇa jarākālāpamṛtyujit |  
-kumāryā dalajaṃ drāvaṃ sitāyuktaṃ pibedanu || 133 ||  
+समांशं तु भवेद्यावत्ततस्तेनैव सा \[\] रयेत् ।  
+समेन जायते बद्धो धारयेत्तं मुखे सदा ॥ १३२ ॥  
 
 
-svarṇavaikrāntabaddho'yaṃ brahmāyuryacchate nṛṇām |  
+संवत्सरप्रयोगेण जराकालापमृत्युजित् ।  
+कुमार्या दलजं द्रावं सितायुक्तं पिबेदनु ॥ १३३ ॥  
+
+
+स्वर्णवैक्रान्तबद्धोऽयं ब्रह्मायुर्यच्छते नृणाम् ।  
 
 
  वैक्रान्तवटिका ।
@@ -1577,65 +1576,65 @@ svarṇavaikrāntabaddho'yaṃ brahmāyuryacchate nṛṇām |
 कर्षैकं त्रिफलाचूर्णं मध्वाज्याभ्यां लिहेदनु ।  
 
 +++(“जारयेत्” ख। ।)+++
- divyakhecarīguṭikā |
+ दिव्यखेचरीगुटिका ।
 
-hemnā yddvandvitaṃ vajraṃ kuryāttatsūkṣmacūrṇitam || 139 ||  
-
-
-etaddeyaṃ guhyasūte mūṣāyāmadharottaram |  
-pādamātraṃ prayatnena ruddhvā sandhiṃ viśoṣayet || 140 ||  
+हेम्ना य्द्द्वन्द्वितं वज्रं कुर्यात्तत्सूक्ष्मचूर्णितम् ॥ १३९ ॥  
 
 
-bhūdharākhye dinaṃ pacyātsamuddhṛtyātha mardayet |  
-divyauṣadhaphaladrāvaistaptakhalve dināvadhi || 141 ||  
+एतद्देयं गुह्यसूते मूषायामधरोत्तरम् ।  
+पादमात्रं प्रयत्नेन रुद्ध्वा सन्धिं विशोषयेत् ॥ १४० ॥  
 
 
-ruddhvā'tha bhūdhare pacyāddinaṃ laghupuṭaiḥ puṭet |  
-samuddhṛtya punastadvanmardyaṃ ruddhvā dinatrayam || 142 ||  
+भूधराख्ये दिनं पच्यात्समुद्धृत्याथ मर्दयेत् ।  
+दिव्यौषधफलद्रावैस्तप्तखल्वे दिनावधि ॥ १४१ ॥  
 
 
-tuṣāgninā śanaiḥ svedyamūrdhvādhaḥ parivartayan |  
-jāyate bhasmasūto'yaṃ sarvayogeṣu yojayet || 143 ||  
+रुद्ध्वाऽथ भूधरे पच्याद्दिनं लघुपुटैः पुटेत् ।  
+समुद्धृत्य पुनस्तद्वन्मर्द्यं रुद्ध्वा दिनत्रयम् ॥ १४२ ॥  
 
 
-drutasūtasya bhāgaikaṃ bhāgaikaṃ pūrvabhasmakam |  
-śuddhanāgasya bhāgaikaṃ sarvamamlena mardayet || 144 ||  
+तुषाग्निना शनैः स्वेद्यमूर्ध्वाधः परिवर्तयन् ।  
+जायते भस्मसूतोऽयं सर्वयोगेषु योजयेत् ॥ १४३ ॥  
 
 
-andhamūṣāgataṃ dhāmyaṃ khoṭo bhavati tadrasaḥ |  
-dhametprakaṭamūṣāyāṃ yāvannāgakṣayo bhavet || 145 ||  
+द्रुतसूतस्य भागैकं भागैकं पूर्वभस्मकम् ।  
+शुद्धनागस्य भागैकं सर्वमम्लेन मर्दयेत् ॥ १४४ ॥  
 
 
-drutasūtaprakāreṇa drāvayitvā tvimaṃ rasam |  
-nikṣipetkacchape yantre biḍaṃ dattvā daśāṃśataḥ || 146 ||  
+अन्धमूषागतं धाम्यं खोटो भवति तद्रसः ।  
+धमेत्प्रकटमूषायां यावन्नागक्षयो भवेत् ॥ १४५ ॥  
 
 
-svarṇādisarvalohāni krameṇaiva ca jārayet |  
-pratyekaṃ ṣaṅguṇaṃ paścādvajradvandvaṃ ca jārayet || 147 ||  
+द्रुतसूतप्रकारेण द्रावयित्वा त्विमं रसम् ।  
+निक्षिपेत्कच्छपे यन्त्रे बिडं दत्त्वा दशांशतः ॥ १४६ ॥  
 
 
-triguṇaṃ tu bhavedyāvattato ratnāni vai kramāt |  
-jārayeddrāvitānyeva pratyekaṃ triguṇaṃ śanaiḥ || 148 ||  
+स्वर्णादिसर्वलोहानि क्रमेणैव च जारयेत् ।  
+प्रत्येकं षङ्गुणं पश्चाद्वज्रद्वन्द्वं च जारयेत् ॥ १४७ ॥  
 
 
-tato yantrātsamuddhṛtya divyauṣadhadravairdinam |  
-mardyaṃ ruddhvā dhamedgāḍhaṃ jāyate guṭikā śubhā || 149 ||  
+त्रिगुणं तु भवेद्यावत्ततो रत्नानि वै क्रमात् ।  
+जारयेद्द्रावितान्येव प्रत्येकं त्रिगुणं शनैः ॥ १४८ ॥  
 
 
-pūjayedaṅkuśīmantrairnāmneyaṃ divyakhecarī |  
-yasya vaktre sthitā hyeṣā sa bhavedbhairavopamaḥ || 150 ||  
+ततो यन्त्रात्समुद्धृत्य दिव्यौषधद्रवैर्दिनम् ।  
+मर्द्यं रुद्ध्वा धमेद्गाढं जायते गुटिका शुभा ॥ १४९ ॥  
 
 
-divyatejā mahākāyaḥ khecaratvena gacchati |  
-yatrecchā tatra tatraiva krīḍate hyaṅganādibhiḥ || 151 ||  
+पूजयेदङ्कुशीमन्त्रैर्नाम्नेयं दिव्यखेचरी ।  
+यस्य वक्त्रे स्थिता ह्येषा स भवेद्भैरवोपमः ॥ १५० ॥  
 
 
-mahākalpāntaparyantaṃ tiṣṭhatyeva na saṃśayaḥ |  
-tasya mūtrapurīṣābhyāṃ tāmraṃ bhavati kāñcanam || 152 ||  
+दिव्यतेजा महाकायः खेचरत्वेन गच्छति ।  
+यत्रेच्छा तत्र तत्रैव क्रीडते ह्यङ्गनादिभिः ॥ १५१ ॥  
 
 
-palāśapuṣpacūrṇaṃ tu tilāḥ kṛṣṇāḥ saśarkarāḥ |  
-sarvaṃ palatrayaṃ khādennityaṃ syāt krāmaṇe hitam || 153 ||  
+महाकल्पान्तपर्यन्तं तिष्ठत्येव न संशयः ।  
+तस्य मूत्रपुरीषाभ्यां ताम्रं भवति काञ्चनम् ॥ १५२ ॥  
+
+
+पलाशपुष्पचूर्णं तु तिलाः कृष्णाः सशर्कराः ।  
+सर्वं पलत्रयं खादेन्नित्यं स्यात् क्रामणे हितम् ॥ १५३ ॥  
 
 
  प्रचण्डखेचरीगुटिका ।
@@ -1675,37 +1674,37 @@ sarvaṃ palatrayaṃ khādennityaṃ syāt krāmaṇe hitam || 153 ||
 निर्गुण्डीमूलचूर्णं तु कर्षं तक्रैः पिबेदनु ।  
 
 
- kaṅkālakhecarīguṭikā |
+ कङ्कालखेचरीगुटिका ।
 
-śuddhasūtasya dātavyaṃ kalāṃśaṃ mṛtavajrakam || 162 ||  
-
-
-tatsarvamamlavargeṇa taptakhalve dinatrayam |  
-mardayitvā tatastena lepayetsamabhāgataḥ || 163 ||  
+शुद्धसूतस्य दातव्यं कलांशं मृतवज्रकम् ॥ १६२ ॥  
 
 
-pakvabījasya patrāṇi tāni bhānudalaiḥ punaḥ |  
-veṣṭitāni nirudhyātha nikhanecculligarbhataḥ || 164 ||  
+तत्सर्वमम्लवर्गेण तप्तखल्वे दिनत्रयम् ।  
+मर्दयित्वा ततस्तेन लेपयेत्समभागतः ॥ १६३ ॥  
 
 
-ācchādya jvālayettatra kāṣṭhāgniṃ divasatrayam |  
-uddhṛtya dvandvaliptāyāṃ mūṣāyāṃ taṃ nirodhayet || 165 ||  
+पक्वबीजस्य पत्राणि तानि भानुदलैः पुनः ।  
+वेष्टितानि निरुध्याथ निखनेच्चुल्लिगर्भतः ॥ १६४ ॥  
 
 
-karīṣāgnau puṭe pacyādahorātrātsamuddharet |  
-+++(“jāritaṃ drāvayetpunaḥ” kha. |)+++vāsanāmukhite sūte tulyametadvinikṣipet || 166 ||  
+आच्छाद्य ज्वालयेत्तत्र काष्ठाग्निं दिवसत्रयम् ।  
+उद्धृत्य द्वन्द्वलिप्तायां मूषायां तं निरोधयेत् ॥ १६५ ॥  
 
 
-amlena mardayedyāmaṃ jātaṃ golaṃ samuddharet |  
-kṣipejjambīragarbhe taṃ vastre baddhvā tryahaṃ pacet || 167 ||  
+करीषाग्नौ पुटे पच्यादहोरात्रात्समुद्धरेत् ।  
++++(“जारितं द्रावयेत्पुनः” ख। ।)+++वासनामुखिते सूते तुल्यमेतद्विनिक्षिपेत् ॥ १६६ ॥  
 
 
-dolāyantre sāranāle jāyate guṭikā śubhā |  
-kaṅkālakhecarī nāmnā vaktrasthā mṛtyunāśinī || 168 ||  
+अम्लेन मर्दयेद्यामं जातं गोलं समुद्धरेत् ।  
+क्षिपेज्जम्बीरगर्भे तं वस्त्रे बद्ध्वा त्र्यहं पचेत् ॥ १६७ ॥  
 
 
-varṣaikaṃ dhārayedyastu sa jīvedbrahmaṇo dinam |  
-gandhakaṃ gugguluṃ tulyamājyaiḥ karṣaṃ lihedanu || 169 ||  
+दोलायन्त्रे सारनाले जायते गुटिका शुभा ।  
+कङ्कालखेचरी नाम्ना वक्त्रस्था मृत्युनाशिनी ॥ १६८ ॥  
+
+
+वर्षैकं धारयेद्यस्तु स जीवेद्ब्रह्मणो दिनम् ।  
+गन्धकं गुग्गुलुं तुल्यमाज्यैः कर्षं लिहेदनु ॥ १६९ ॥  
 
 
  कालविध्वंसिका वटिका ।
@@ -1741,29 +1740,29 @@ gandhakaṃ gugguluṃ tulyamājyaiḥ karṣaṃ lihedanu || 169 ||
 जायन्ते नात्र सन्देहः शिवाम्बु क्रामकं पिबेत् ।  
 
 
- pañcānanā guṭikā |
+ पञ्चानना गुटिका ।
 
-svarṇatārārkakāntaṃ ca tīkṣṇacūrṇaṃ samaṃ samam || 177 ||  
-
-
-dvandvamelāpaliptāyāṃ mūṣāyāṃ cāndhitaṃ dhamet |  
-tatkhoṭaṃ cūrṇitaṃ kṛtvā cābhiṣiktaṃ tu pūrvavat || 178 ||  
+स्वर्णतारार्ककान्तं च तीक्ष्णचूर्णं समं समम् ॥ १७७ ॥  
 
 
-samukhe jārayetsūte yāvatpañcaguṇaṃ kramāt |  
-divyauṣadhadravaistaṃ vai mardayeddivasatrayam || 179 ||  
+द्वन्द्वमेलापलिप्तायां मूषायां चान्धितं धमेत् ।  
+तत्खोटं चूर्णितं कृत्वा चाभिषिक्तं तु पूर्ववत् ॥ १७८ ॥  
 
 
-andhamūṣāgataṃ dhmātaṃ jāyate guṭikā śubhā |  
-nāmnā pañcānanā dhāryā vaktre saṃvatsarāvadhi || 180 ||  
+समुखे जारयेत्सूते यावत्पञ्चगुणं क्रमात् ।  
+दिव्यौषधद्रवैस्तं वै मर्दयेद्दिवसत्रयम् ॥ १७९ ॥  
 
 
-valīpalitanirmukto jīveccandrārkatārakam |  
-hastikarṇī samūlā tu cūrṇyā madhvājyasaṃyutā || 181 ||  
+अन्धमूषागतं ध्मातं जायते गुटिका शुभा ।  
+नाम्ना पञ्चानना धार्या वक्त्रे संवत्सरावधि ॥ १८० ॥  
 
 
-snigdhabhāṇḍe tu tāṃ ruddhvā dhānyarāśau niveśayet |  
-trisaptāhātsamuddhṛtya palaikaṃ bhakṣayedanu || 182 ||  
+वलीपलितनिर्मुक्तो जीवेच्चन्द्रार्कतारकम् ।  
+हस्तिकर्णी समूला तु चूर्ण्या मध्वाज्यसंयुता ॥ १८१ ॥  
+
+
+स्निग्धभाण्डे तु तां रुद्ध्वा धान्यराशौ निवेशयेत् ।  
+त्रिसप्ताहात्समुद्धृत्य पलैकं भक्षयेदनु ॥ १८२ ॥  
 
 
  शतवेधिकादिगुटिकाः ।
@@ -1827,116 +1826,116 @@ trisaptāhātsamuddhṛtya palaikaṃ bhakṣayedanu || 182 ||
 रसमन्त्रप्रयोगेण शीघ्रं सिद्धिमवाप्नुयात् ।  
 
 
- kālāntarasasiddhikaraṇaprakāraḥ |
+ कालान्तरससिद्धिकरणप्रकारः ।
 
-kālāntarasasiddhiryā proktā manthānabhairave || 197 ||  
-
-
-tadarthaṃ pañca tattvāni ṣaṣṭhaṃ jīvaṃ ca sādhayet |  
-kākinyāḥ puṣpakāle tu saṅgaṃ kṛtvā samāharet || 198 ||  
+कालान्तरससिद्धिर्या प्रोक्ता मन्थानभैरवे ॥ १९७ ॥  
 
 
-tadyonisthaṃ rajobījaṃ gaganaṃ taṃ vidurbudhāḥ |  
-kākinyutpannaputrasya sadyoviḍvāyurucyate || 199 ||  
+तदर्थं पञ्च तत्त्वानि षष्ठं जीवं च साधयेत् ।  
+काकिन्याः पुष्पकाले तु सङ्गं कृत्वा समाहरेत् ॥ १९८ ॥  
 
 
-tejastu kākinīpuṣpaṃ jalaṃ tatputraśoṇitam |  
-kākinīputrasarvāṅgaṃ pṛthivītattvamucyate || 200 ||  
+तद्योनिस्थं रजोबीजं गगनं तं विदुर्बुधाः ।  
+काकिन्युत्पन्नपुत्रस्य सद्योविड्वायुरुच्यते ॥ १९९ ॥  
 
 
-rasasevakadehotthavīryaṃ jīvastu kathyate |  
-tatpratyekaṃ koṭivedhaṃ karṣaikaṃ rasasaṃyutam || 201 ||  
+तेजस्तु काकिनीपुष्पं जलं तत्पुत्रशोणितम् ।  
+काकिनीपुत्रसर्वाङ्गं पृथिवीतत्त्वमुच्यते ॥ २०० ॥  
 
 
-kṛtvā saṃrakṣayedbhinnaṃ supiṣṭaṃ golakīkṛtam |  
-unnataṃ pauruṣaṃ yāvadvistāreṇa tadardhakam || 202 ||  
+रससेवकदेहोत्थवीर्यं जीवस्तु कथ्यते ।  
+तत्प्रत्येकं कोटिवेधं कर्षैकं रससंयुतम् ॥ २०१ ॥  
 
 
-kuryāttāmrakaṭāhaṃ tu sthūlaṃ yāvat ṣaḍaṅgulam |  
-caturmukhasya koṣṭhasya pṛṣṭhe dhāryaṃ dṛḍhaṃ yathā || 203 ||  
+कृत्वा संरक्षयेद्भिन्नं सुपिष्टं गोलकीकृतम् ।  
+उन्नतं पौरुषं यावद्विस्तारेण तदर्धकम् ॥ २०२ ॥  
 
 
-goghṛtaṃ naratailaṃ ca samabhāgena melayet |  
-tenāpūrya kaṭāhaṃ taṃ siddhacakraṃ tato'rcayet || 204 ||  
+कुर्यात्ताम्रकटाहं तु स्थूलं यावत् षडङ्गुलम् ।  
+चतुर्मुखस्य कोष्ठस्य पृष्ठे धार्यं दृढं यथा ॥ २०३ ॥  
 
 
-kumārīgurudevāgnīn bhairavaṃ bhairavīyutam |  
-tarpayedbalimāṃsena kṣetrapālaṃ ca pūjayet || 205 ||  
+गोघृतं नरतैलं च समभागेन मेलयेत् ।  
+तेनापूर्य कटाहं तं सिद्धचक्रं ततोऽर्चयेत् ॥ २०४ ॥  
 
 
-dhamanaṃ tatra kurvīta caturdikṣu śanaiḥ śanaiḥ |  
-caturbhirvaṅkanālaiśca khadirāṅgārayogataḥ || 206 ||  
-
-+++(asyāgre “aiṃ hrīṃ śrīṃ śrīṃ” ityadhikaṃ kha. pustake |)+++
-sutaptaṃ phenanirmuktaṃ nirdhūmaṃ ca yadā bhavet |  
-candrārkagrahanakṣatradevatābhuvanāni ca || 207 ||  
+कुमारीगुरुदेवाग्नीन् भैरवं भैरवीयुतम् ।  
+तर्पयेद्बलिमांसेन क्षेत्रपालं च पूजयेत् ॥ २०५ ॥  
 
 
-namaskṛtya guruṃ devaṃ dehaṃ tatra vinikṣipet |  
-sudrutaṃ taṃ vijānīyānnikṣipetpārthivaṃ rasam || 208 ||  
+धमनं तत्र कुर्वीत चतुर्दिक्षु शनैः शनैः ।  
+चतुर्भिर्वङ्कनालैश्च खदिराङ्गारयोगतः ॥ २०६ ॥  
+
++++(अस्याग्रे “ऐं ह्रीं श्रीं श्रीं” इत्यधिकं ख। पुस्तके ।)+++
+सुतप्तं फेननिर्मुक्तं निर्धूमं च यदा भवेत् ।  
+चन्द्रार्कग्रहनक्षत्रदेवताभुवनानि च ॥ २०७ ॥  
 
 
-dhamannatraiva yatnena yāvattatkalkatāṃ vrajet |  
-aptattvākhyaṃ rasaṃ tasmin kṣipedraktaṃ bhavettu tat || 209 ||  
+नमस्कृत्य गुरुं देवं देहं तत्र विनिक्षिपेत् ।  
+सुद्रुतं तं विजानीयान्निक्षिपेत्पार्थिवं रसम् ॥ २०८ ॥  
 
 
-vāyuyuktaṃ rasaṃ kṣiptvā śubhravarṇaṃ prajāyate |  
-tejoyuktaṃ rasaṃ kṣipyāddhanībhūtaṃ bhavettu tat || 210 ||  
+धमन्नत्रैव यत्नेन यावत्तत्कल्कतां व्रजेत् ।  
+अप्तत्त्वाख्यं रसं तस्मिन् क्षिपेद्रक्तं भवेत्तु तत् ॥ २०९ ॥  
 
 
-tata ākāśasaṃyuktaṃ rasaṃ tatra vinikṣipet |  
-āvartitaṃ suvarṇābhaṃ jāyate tatra nikṣipet || 211 ||  
+वायुयुक्तं रसं क्षिप्त्वा शुभ्रवर्णं प्रजायते ।  
+तेजोयुक्तं रसं क्षिप्याद्धनीभूतं भवेत्तु तत् ॥ २१० ॥  
 
 
-jīvayuktaṃ rasaṃ divyaṃ tato huṅkāramuccaret |  
-kṛtvā tatra mahārāvaṃ huṅkāratrayasaṃyutam || 212 ||  
+तत आकाशसंयुक्तं रसं तत्र विनिक्षिपेत् ।  
+आवर्तितं सुवर्णाभं जायते तत्र निक्षिपेत् ॥ २११ ॥  
 
 
-tataścottiṣṭhate siddhaḥ pūrvāhṇe bhāskaro yathā |  
-divyatejā mahākāyo mahābalaparākramaḥ || 213 ||  
+जीवयुक्तं रसं दिव्यं ततो हुङ्कारमुच्चरेत् ।  
+कृत्वा तत्र महारावं हुङ्कारत्रयसंयुतम् ॥ २१२ ॥  
 
 
-navanāgasahasrāṇāṃ balaṃ tasyādhikaṃ bhavet |  
-jīvate vajradehaḥ san satyaṃ satyaṃ śivoditam || 214 ||  
+ततश्चोत्तिष्ठते सिद्धः पूर्वाह्णे भास्करो यथा ।  
+दिव्यतेजा महाकायो महाबलपराक्रमः ॥ २१३ ॥  
 
 
-jarājarjaritāṅgānāmandhānāṃ paṅgukuṣṭhinām |  
-naṣṭavāgjaḍaṣaṇḍānāṃ kubjānāṃ kuṣṭhadehinām || 215 ||  
+नवनागसहस्राणां बलं तस्याधिकं भवेत् ।  
+जीवते वज्रदेहः सन् सत्यं सत्यं शिवोदितम् ॥ २१४ ॥  
 
 
-anekavyādhiyuktānāṃ bhrāntonmattapiśācinām |  
-kiṃ punaḥ svacchadehānāṃ bhūpānāṃ rasasevinām || 216 ||  
+जराजर्जरिताङ्गानामन्धानां पङ्गुकुष्ठिनाम् ।  
+नष्टवाग्जडषण्डानां कुब्जानां कुष्ठदेहिनाम् ॥ २१५ ॥  
 
 
-vīrāṇāṃ sādhakānāṃ ca divyasiddhiprado bhavet |  
-tasmādvīrataro yo'tra bhairavo'sau na saṃśayaḥ || 217 ||  
+अनेकव्याधियुक्तानां भ्रान्तोन्मत्तपिशाचिनाम् ।  
+किं पुनः स्वच्छदेहानां भूपानां रससेविनाम् ॥ २१६ ॥  
 
 
-vajrakāyo bhavetsiddho medhāvī divyarūpavān |  
-ardhayojanavistīrṇaṃ vimānaṃ cāpsaroyutam || 218 ||  
+वीराणां साधकानां च दिव्यसिद्धिप्रदो भवेत् ।  
+तस्माद्वीरतरो योऽत्र भैरवोऽसौ न संशयः ॥ २१७ ॥  
 
 
-āyāti nātra sandeha stasya siddhasya sammukham |  
-tatrārūḍho rudraloke krīḍate bhairavo yathā || 219 ||  
+वज्रकायो भवेत्सिद्धो मेधावी दिव्यरूपवान् ।  
+अर्धयोजनविस्तीर्णं विमानं चाप्सरोयुतम् ॥ २१८ ॥  
 
 
-kṣutpipāsāvinirmukto jagannāśe na naśyati |  
-bhuñjānaḥ sarvabhogāṃśca yogināṃ \[\]  sa priyo bhavet |  
-+++(“yoginīnāṃ” kha. |)+++icchāsiddho mahāvīro nityānandamayo bhavet || 220 ||  
+आयाति नात्र सन्देह स्तस्य सिद्धस्य सम्मुखम् ।  
+तत्रारूढो रुद्रलोके क्रीडते भैरवो यथा ॥ २१९ ॥  
 
 
-dṛṣṭvā samastamanubhūya rasāyaneṣu  
-sārātisārasukhasādhyataraṃ narāṇām |  
-dehasya dārḍhyakaraṇe guṭikāprayogāḥ  
-proktāḥ paraṃ śivakarāḥ satataṃ susidhyai || 221 ||  
+क्षुत्पिपासाविनिर्मुक्तो जगन्नाशे न नश्यति ।  
+भुञ्जानः सर्वभोगांश्च योगिनां \[\]  स प्रियो भवेत् ।  
++++(“योगिनीनां” ख। ।)+++इच्छासिद्धो महावीरो नित्यानन्दमयो भवेत् ॥ २२० ॥  
 
 
-iti pārvatīputraśrīnityanāthasiddhaviracite rasaratnākare rasāyanakhaṇḍe guṭikārasāyanaṃ nāma tṛtīyopadeśaḥ |
+दृष्ट्वा समस्तमनुभूय रसायनेषु  
+सारातिसारसुखसाध्यतरं नराणाम् ।  
+देहस्य दार्ढ्यकरणे गुटिकाप्रयोगाः  
+प्रोक्ताः परं शिवकराः सततं सुसिध्यै ॥ २२१ ॥  
 
-# atha caturthopadeśaḥ |
 
-sūtagandhagamanāyasaśulbaṃ māritaṃ ca paramāmṛtīkṛtam |  
-iṣṭamekamapi mūlikāgaṇaṃ dehasiddhikaramāśu sevitam || 1 ||  
+इति पार्वतीपुत्रश्रीनित्यनाथसिद्धविरचिते रसरत्नाकरे रसायनखण्डे गुटिकारसायनं नाम तृतीयोपदेशः ।
+
+# अथ चतुर्थोपदेशः ।
+
+सूतगन्धगमनायसशुल्बं मारितं च परमामृतीकृतम् ।  
+इष्टमेकमपि मूलिकागणं देहसिद्धिकरमाशु सेवितम् ॥ १ ॥  
 
 
  कान्तादिमहारसायनम् ।
@@ -1964,69 +1963,69 @@ iṣṭamekamapi mūlikāgaṇaṃ dehasiddhikaramāśu sevitam || 1 ||
 महारसायनं दिव्यं कामिनीशततोषकम् ।  
 
 
- rasāyanā abhrakayogāḥ |
+ रसायना अभ्रकयोगाः ।
 
-agnivarṇaṃ kṣipetkṣīre kṛṣṇābhraṃ vahnitāpitam || 7 ||  
-
-
-bhinnapatraṃ tataḥ kṛtvā jalamadhye vinikṣipet |  
-triṃśatpalāni yatnena maricaṃ palapañcakam || 8 ||  
+अग्निवर्णं क्षिपेत्क्षीरे कृष्णाभ्रं वह्नितापितम् ॥ ७ ॥  
 
 
-cūrṇitaṃ nikṣipettasmiṃstridinānte samuddharet |  
-tatsarvaṃ peṣayecchlakṣṇaṃ sitavastreṇa bandhayet || 9 ||  
+भिन्नपत्रं ततः कृत्वा जलमध्ये विनिक्षिपेत् ।  
+त्रिंशत्पलानि यत्नेन मरिचं पलपञ्चकम् ॥ ८ ॥  
 
 
-jalapūrṇe ghaṭe gharme dolāyantreṇa dhārayet |  
-śuṣke toye punastoyaṃ dadyādyāvajjale gatam || 10 ||  
+चूर्णितं निक्षिपेत्तस्मिंस्त्रिदिनान्ते समुद्धरेत् ।  
+तत्सर्वं पेषयेच्छ्लक्ष्णं सितवस्त्रेण बन्धयेत् ॥ ९ ॥  
 
 
-tadabhrakaṃ tato vastraṃ santyajedrakṣayejjalam |  
-triṃśadbhāgaṃ tataḥ kuryāttajjalaṃ sābhrakaṃ sudhīḥ || 11 ||  
+जलपूर्णे घटे घर्मे दोलायन्त्रेण धारयेत् ।  
+शुष्के तोये पुनस्तोयं दद्याद्यावज्जले गतम् ॥ १० ॥  
 
 
-tadbhāgaikena saṃloḍya palaikaṃ śvetataṇḍulāt |  
-triṃśatpale gavāṃ kṣīre tat paceccātha śītalam || 12 ||  
+तदभ्रकं ततो वस्त्रं सन्त्यजेद्रक्षयेज्जलम् ।  
+त्रिंशद्भागं ततः कुर्यात्तज्जलं साभ्रकं सुधीः ॥ ११ ॥  
 
 
-madhvājyairdvipalairyuktaṃ niṣkaikaiśca marīcakaiḥ |  
-sādhako bhakṣayennityaṃ māsānmṛtyujarāpaham || 13 ||  
+तद्भागैकेन संलोड्य पलैकं श्वेततण्डुलात् ।  
+त्रिंशत्पले गवां क्षीरे तत् पचेच्चाथ शीतलम् ॥ १२ ॥  
 
 
-keśā dantā nakhāstasya patanti hyudbhavanti ca |  
-vajrakāyo bha \[\] vetsiddho vāyuvego mahābalaḥ || 14 ||  
+मध्वाज्यैर्द्विपलैर्युक्तं निष्कैकैश्च मरीचकैः ।  
+साधको भक्षयेन्नित्यं मासान्मृत्युजरापहम् ॥ १३ ॥  
 
 
-amṛtābhrakayogo'yaṃ śambhunā gaditaḥ purā |  
-mṛtābhraṃ gandhakaṃ śuddhaṃ kaṇā sava samaṃ ghṛtaiḥ || 15 ||  
+केशा दन्ता नखास्तस्य पतन्ति ह्युद्भवन्ति च ।  
+वज्रकायो भ \[\] वेत्सिद्धो वायुवेगो महाबलः ॥ १४ ॥  
 
 
-karṣaikaṃ bhakṣayennityaṃ varṣānmṛtyujarāpaham |  
-koraṇṭakasya patrāṇi mṛtābhraṃ gandhakaṃ samam || 16 ||  
+अमृताभ्रकयोगोऽयं शम्भुना गदितः पुरा ।  
+मृताभ्रं गन्धकं शुद्धं कणा सव समं घृतैः ॥ १५ ॥  
 
 
-tatsarvaṃ nīlikādrāvaiḥ saptāhaṃ bhāvyamātape |  
-tatkarṣaikaṃ pibetkṣīrairabdānmṛtyujarāpaham || 17 ||  
+कर्षैकं भक्षयेन्नित्यं वर्षान्मृत्युजरापहम् ।  
+कोरण्टकस्य पत्राणि मृताभ्रं गन्धकं समम् ॥ १६ ॥  
 
 
-mṛtābhrakasya karṣaikaṃ gavāṃ kṣīraṃ palaṃ tathā |  
-samūlapatrāṃ sarpākṣīṃ sā \[\] rdrāṃ piṣṭvā ca ga \[\] ndhakam || 18 ||  
+तत्सर्वं नीलिकाद्रावैः सप्ताहं भाव्यमातपे ।  
+तत्कर्षैकं पिबेत्क्षीरैरब्दान्मृत्युजरापहम् ॥ १७ ॥  
 
 
-ekīkṛtya pibetsarvaṃ varṣaikena jarāṃ jayet |  
-vajrakāyaḥ khecaraśca jīvedbrahmadinatrayam || 19 ||  
+मृताभ्रकस्य कर्षैकं गवां क्षीरं पलं तथा ।  
+समूलपत्रां सर्पाक्षीं सा \[\] र्द्रां पिष्ट्वा च ग \[\] न्धकम् ॥ १८ ॥  
 
 
-mṛtābhraṃ kāntalohaṃ ca triphalā māgadhī samam |  
-pañcāṅgaṃ badarīcūrṇamabhratulyaṃ niyojayet || 20 ||  
+एकीकृत्य पिबेत्सर्वं वर्षैकेन जरां जयेत् ।  
+वज्रकायः खेचरश्च जीवेद्ब्रह्मदिनत्रयम् ॥ १९ ॥  
 
 
-sitāmadhvājyasaṃyuktaṃ palārdhaṃ bhakṣayetsadā |  
-hanti varṣājjarāṃ mṛtyumāyuḥ syādbrahmaṇo dinam || 21 ||  
+मृताभ्रं कान्तलोहं च त्रिफला मागधी समम् ।  
+पञ्चाङ्गं बदरीचूर्णमभ्रतुल्यं नियोजयेत् ॥ २० ॥  
 
 
-“amṛtakrīḍe viṣṇusaṃvaraṇi svāhā ||” anena mantreṇa sarve abhraka- yogā abhimantrya bhakṣaṇīyāḥ |
-+++(“mahāsiddho” kha. |)++++++(“sārdraiḥ” kha. |)++++++(“karṣakam” kha. |)+++
+सितामध्वाज्यसंयुक्तं पलार्धं भक्षयेत्सदा ।  
+हन्ति वर्षाज्जरां मृत्युमायुः स्याद्ब्रह्मणो दिनम् ॥ २१ ॥  
+
+
+“अमृतक्रीडे विष्णुसंवरणि स्वाहा ॥” अनेन मन्त्रेण सर्वे अभ्रक- योगा अभिमन्त्र्य भक्षणीयाः ।
++++(“महासिद्धो” ख। ।)++++++(“सार्द्रैः” ख। ।)++++++(“कर्षकम्” ख। ।)+++
  रसायनाः कान्तयोगाः ।
 
 मृतं कान्तं तिलाः कृष्णा बदरीफलचूर्णकम् ।  
@@ -2120,70 +2119,70 @@ hanti varṣājjarāṃ mṛtyumāyuḥ syādbrahmaṇo dinam || 21 ||
 शृतं क्षीरं ततोऽन्नं च सेव्यं लौहरसायने ॥ ४३ ॥  
 
 
- brahmavṛkṣakalpaḥ |
+ ब्रह्मवृक्षकल्पः ।
 
-brahmavṛkṣasya pañcāṅgaṃ chāyāśuṣkaṃ sucūrṇitam |  
-madhvājyābhyāṃ lihetkarṣaṃ varṣaikena jarāṃ jayet || 44 ||  
-
-
-jīvedvarṣasahasraikaṃ divyatejā mahābalaḥ |  
-brahmavṛkṣasya puṣpāṇi chāyāśuṣkāṇi kārayet || 45 ||  
+ब्रह्मवृक्षस्य पञ्चाङ्गं छायाशुष्कं सुचूर्णितम् ।  
+मध्वाज्याभ्यां लिहेत्कर्षं वर्षैकेन जरां जयेत् ॥ ४४ ॥  
 
 
-triṃśatpalaṃ tu taccūrṇaṃ caturviṃśatpalaṃ ghṛtam |  
-ekīkṛtya kṣipedbhāṇḍe taṃ ruddhvā dhānyarāśigam || 46 ||  
+जीवेद्वर्षसहस्रैकं दिव्यतेजा महाबलः ।  
+ब्रह्मवृक्षस्य पुष्पाणि छायाशुष्काणि कारयेत् ॥ ४५ ॥  
 
 
-kṛtvā māsātsamuddhṛtya bhāgān kuryāccaturdaśa |  
-+++(“varṣatrayaprayogeṇa” kha. |)+++bhāgaikaṃ bhakṣayennityaṃ bhuñjīta kāntabhājane || 47 ||  
+त्रिंशत्पलं तु तच्चूर्णं चतुर्विंशत्पलं घृतम् ।  
+एकीकृत्य क्षिपेद्भाण्डे तं रुद्ध्वा धान्यराशिगम् ॥ ४६ ॥  
 
 
-evaṃ māsatrayaṃ kuryādvajrakāyo bhavenna \[\] raḥ |  
-tasya mūtrapurīṣābhyāṃ tāmramāyāti kāñcanam || 48 ||  
+कृत्वा मासात्समुद्धृत्य भागान् कुर्याच्चतुर्दश ।  
++++(“वर्षत्रयप्रयोगेण” ख। ।)+++भागैकं भक्षयेन्नित्यं भुञ्जीत कान्तभाजने ॥ ४७ ॥  
 
 
-brahmavṛkṣasya bījāni cūrṇitāni ghṛtaiḥ saha |  
-pūrvavaddhānyamadhye tu kṣiptvā māsātsamuddharet || 49 ||  
+एवं मासत्रयं कुर्याद्वज्रकायो भवेन्न \[\] रः ।  
+तस्य मूत्रपुरीषाभ्यां ताम्रमायाति काञ्चनम् ॥ ४८ ॥  
 
 
-palaikaikaṃ sadā khādedvatsarānmṛtyujidbhavet |  
-valīpalitanirmukto jīvedbrahmadinatrayam || 50 ||  
+ब्रह्मवृक्षस्य बीजानि चूर्णितानि घृतैः सह ।  
+पूर्ववद्धान्यमध्ये तु क्षिप्त्वा मासात्समुद्धरेत् ॥ ४९ ॥  
 
 
-brahmabījotthitaṃ tailaṃ gavāṃ kṣīraiḥ paladvayam |  
-tulyaiḥ pibedbhavenmūrcchā siñcettasya mukhe payaḥ || 51 ||  
+पलैकैकं सदा खादेद्वत्सरान्मृत्युजिद्भवेत् ।  
+वलीपलितनिर्मुक्तो जीवेद्ब्रह्मदिनत्रयम् ॥ ५० ॥  
 
 
-bodhe kṣīraudanaṃ dadyānmāsājjñānī bhavennaraḥ |  
-dvitīye śukratulyaḥ syāttṛtīye vajravadbhavet || 52 ||  
+ब्रह्मबीजोत्थितं तैलं गवां क्षीरैः पलद्वयम् ।  
+तुल्यैः पिबेद्भवेन्मूर्च्छा सिञ्चेत्तस्य मुखे पयः ॥ ५१ ॥  
 
 
-dūraśrāvī caturthe tu pañcame khegatirbhavet |  
-māsaṣaṭke svayaṃ kartā śivatulyaparākramaḥ || 53 ||  
+बोधे क्षीरौदनं दद्यान्मासाज्ज्ञानी भवेन्नरः ।  
+द्वितीये शुक्रतुल्यः स्यात्तृतीये वज्रवद्भवेत् ॥ ५२ ॥  
 
 
-mahākalpāntaparyantaṃ jīvedvarṣaikasevanāt |  
-brahmavṛkṣamatisthūlaṃ chedayedūrdhvabhāgataḥ || 54 ||  
+दूरश्रावी चतुर्थे तु पञ्चमे खेगतिर्भवेत् ।  
+मासषट्के स्वयं कर्ता शिवतुल्यपराक्रमः ॥ ५३ ॥  
 
 
-adho rakṣyaṃ trihastaṃ syāttasya mūrdhni bilaṃ kṛtam |  
-pakva \[\] dhātrīphalaiḥ pūryaṃ tatkāṣṭhena nirudhya ca || 55 ||  
+महाकल्पान्तपर्यन्तं जीवेद्वर्षैकसेवनात् ।  
+ब्रह्मवृक्षमतिस्थूलं छेदयेदूर्ध्वभागतः ॥ ५४ ॥  
 
 
-kuśaistu veṣṭayetsarvaṃ lepyaṃ mṛdgomayaiḥ punaḥ |  
-āveṣṭya vastrakhaṇḍena limpenmṛdgomayaistataḥ || 56 ||  
+अधो रक्ष्यं त्रिहस्तं स्यात्तस्य मूर्ध्नि बिलं कृतम् ।  
+पक्व \[\] धात्रीफलैः पूर्यं तत्काष्ठेन निरुध्य च ॥ ५५ ॥  
 
 
-śuṣke gajapuṭaṃ deyaṃ pa \[\] rito'raṇyakotpalaiḥ |  
-svāṅgaśītalamuddhṛtya sadravāṇi phalāni ca || 57 ||  
+कुशैस्तु वेष्टयेत्सर्वं लेप्यं मृद्गोमयैः पुनः ।  
+आवेष्ट्य वस्त्रखण्डेन लिम्पेन्मृद्गोमयैस्ततः ॥ ५६ ॥  
 
 
-kṣipenmadhvājyasaṃyukte bhāṇḍe tānyeva bhakṣayet |  
-yatheṣṭaṃ bhūgṛhāntasthaḥ kṣīrāhārī jarāṃ jayet || 58 ||  
+शुष्के गजपुटं देयं प \[\] रितोऽरण्यकोत्पलैः ।  
+स्वाङ्गशीतलमुद्धृत्य सद्रवाणि फलानि च ॥ ५७ ॥  
 
 
-mā \[\] sadvayena vasudhāṃ chidrāṃ paśyati niścitam |  
-jīvedbrahmadinaṃ yāvatsarpavatkañcukaṃ tyajet || 59 ||  
+क्षिपेन्मध्वाज्यसंयुक्ते भाण्डे तान्येव भक्षयेत् ।  
+यथेष्टं भूगृहान्तस्थः क्षीराहारी जरां जयेत् ॥ ५८ ॥  
+
+
+मा \[\] सद्वयेन वसुधां छिद्रां पश्यति निश्चितम् ।  
+जीवेद्ब्रह्मदिनं यावत्सर्पवत्कञ्चुकं त्यजेत् ॥ ५९ ॥  
 
 
  श्वेतपालाशकल्पः ।
@@ -2206,21 +2205,21 @@ jīvedbrahmadinaṃ yāvatsarpavatkañcukaṃ tyajet || 59 ||
 
 “अमृतं कुरु कुरु अमृतमालिन्यै नमः ॥” अनेन मन्त्रेण सर्वयोगा सप्ताभिमन्त्रिता भक्षणीयाः ।
 
- muṇḍīkalpaḥ |
+ मुण्डीकल्पः ।
 
-śuklapakṣe'tha pūrṇāyāṃ puṣye vā śravaṇe tathā |  
-revatyāṃ vā'tha sampūjya muṇḍīpañcāṅgamuddharet || 64 ||  
-
-
-chāyāśuṣkaṃ tu taccūrṇaṃ karṣaṃ gopayasā saha |  
-varṣaikena jarāṃ hanti jīvedvarṣaśatatrayam || 65 ||  
+शुक्लपक्षेऽथ पूर्णायां पुष्ये वा श्रवणे तथा ।  
+रेवत्यां वाऽथ सम्पूज्य मुण्डीपञ्चाङ्गमुद्धरेत् ॥ ६४ ॥  
 
 
-tasya mūtrapurīṣābhyāṃ tāmraṃ sauvarṇatāṃ vrajet |  
-taccūrṇaṃ tu ghṛtailehyaṃ tadvatsyādbalamadbhutam || 66 ||  
+छायाशुष्कं तु तच्चूर्णं कर्षं गोपयसा सह ।  
+वर्षैकेन जरां हन्ति जीवेद्वर्षशतत्रयम् ॥ ६५ ॥  
 
 
-“oṃṃ namo'mṛtodbhavāya amṛtaṃ kuru kuru svāhā o hrāṃ saḥ ||” iti auṣadhabhakṣaṇamantraḥ |
+तस्य मूत्रपुरीषाभ्यां ताम्रं सौवर्णतां व्रजेत् ।  
+तच्चूर्णं तु घृतैलेह्यं तद्वत्स्याद्बलमद्भुतम् ॥ ६६ ॥  
+
+
+“ॐं नमोऽमृतोद्भवाय अमृतं कुरु कुरु स्वाहा ओ ह्रां सः ॥” इति औषधभक्षणमन्त्रः ।
 
  देवदालीकल्पः ।
 
@@ -2251,22 +2250,22 @@ taccūrṇaṃ tu ghṛtailehyaṃ tadvatsyādbalamadbhutam || 66 ||
 
 ॐं अमृतगण रुद्रगणाम्भः स्वाहा । अयं च ग्रहणमन्त्रः ॥ “नमो भगवते रुद्राय हुं फट् स्वाहा ।” अयं साधकस्य शिखाबन्धन- मन्त्रः ॥ “ॐं चर र र ।” अयं भक्षणमन्त्रः ॥
 
- śvetārkakalpaḥ |
+ श्वेतार्ककल्पः ।
 
-puṣye śvetārkamūlaṃ tu grāhyaṃ chāyāviśoṣitam |  
-cūrṇakarṣaṃ gavāṃ kṣīraiḥ paladvandvairyutaṃ pibet || 73 ||  
-
-
-māsaṣaṭkājjarāṃ hanti jīvedbrahmadinatrayam |  
-dravaṃ śvetārkapatrāṇāṃ bhṛṅgarājadravaiḥ samam || 74 ||  
+पुष्ये श्वेतार्कमूलं तु ग्राह्यं छायाविशोषितम् ।  
+चूर्णकर्षं गवां क्षीरैः पलद्वन्द्वैर्युतं पिबेत् ॥ ७३ ॥  
 
 
-ekīkṛtyātape śuṣkaṃ cūrṇaṃ kṣīraiścaturguṇaiḥ |  
-mṛdvagninā pacettāvadyāvatpiṇḍatvamāgatam |  
-ta \[\] tkarṣaikaṃ ghṛtairlehyaṃ varṣātsyātpūrvavatphalam || 75 ||  
+मासषट्काज्जरां हन्ति जीवेद्ब्रह्मदिनत्रयम् ।  
+द्रवं श्वेतार्कपत्राणां भृङ्गराजद्रवैः समम् ॥ ७४ ॥  
 
 
-“oṃṃ āṃ haṃ vāsaramāline svāhā |” ayaṃ bhakṣaṇamantraḥ ||
+एकीकृत्यातपे शुष्कं चूर्णं क्षीरैश्चतुर्गुणैः ।  
+मृद्वग्निना पचेत्तावद्यावत्पिण्डत्वमागतम् ।  
+त \[\] त्कर्षैकं घृतैर्लेह्यं वर्षात्स्यात्पूर्ववत्फलम् ॥ ७५ ॥  
+
+
+“ॐं आं हं वासरमालिने स्वाहा ।” अयं भक्षणमन्त्रः ॥
 
  हस्तिकर्णकल्पः ।
 
@@ -2288,25 +2287,25 @@ ta \[\] tkarṣaikaṃ ghṛtairlehyaṃ varṣātsyātpūrvavatphalam || 75 ||
 
 “ॐं गरविषं दृष्टौ गृह्णामि स्वाहा ।” हस्तिकर्णग्रहणमन्त्रः ॥ “ॐं अमृ \[\] तकुटीजातानां अमृतं कुरु कुरु स्वाहा ।” अनेन पूजयेत् । “ॐं अमृतोद्भवाय अमृतं कुरु कुरु नित्यं नमो नमः ।” भक्षणमन्त्रः ॥
 +++(“कर्षैक तु” ख।)++++++(“अमृतकुक्षिजातानां” ख। ।)+++
- rudantīkalpaḥ |
+ रुदन्तीकल्पः ।
 
-rudantyāścaiva pañcāṅgaṃ chāyāśuṣkaṃ vicūrṇayet |  
-tadardhaṃ muśalīcūrṇaṃ muśalyardhaṃ phalatrayam || 80 ||  
-
-
-mūlānāṃ katakotthānāṃ tailaṃ pātālayantrake |  
-grāhayedgarbhayantre vā tattailaṃ kṣālayejjalaiḥ || 81 ||  
+रुदन्त्याश्चैव पञ्चाङ्गं छायाशुष्कं विचूर्णयेत् ।  
+तदर्धं मुशलीचूर्णं मुशल्यर्धं फलत्रयम् ॥ ८० ॥  
 
 
-nālikerajalairvā'tha kṣālyaṃ pañcāṃśavāra \[\] kam |  
-etattailena saṃyuktaṃ pūrvacūrṇaṃ lihetkramāt || 82 ||  
+मूलानां कतकोत्थानां तैलं पातालयन्त्रके ।  
+ग्राहयेद्गर्भयन्त्रे वा तत्तैलं क्षालयेज्जलैः ॥ ८१ ॥  
 
 
-karṣādivardhanaṃ kāryaṃ palāntaṃ cātha vardhayet |  
-evamabdājjarāṃ hanti āyuḥ syādbrahmaṇo dinam || 83 ||  
+नालिकेरजलैर्वाऽथ क्षाल्यं पञ्चांशवार \[\] कम् ।  
+एतत्तैलेन संयुक्तं पूर्वचूर्णं लिहेत्क्रमात् ॥ ८२ ॥  
 
 
-siddhayogo hyayaṃ khyāto vajrakāyakaro nṛṇām |  
+कर्षादिवर्धनं कार्यं पलान्तं चाथ वर्धयेत् ।  
+एवमब्दाज्जरां हन्ति आयुः स्याद्ब्रह्मणो दिनम् ॥ ८३ ॥  
+
+
+सिद्धयोगो ह्ययं ख्यातो वज्रकायकरो नृणाम् ।  
 
 
  निर्गुण्डीकल्पः ।
@@ -2345,42 +2344,42 @@ siddhayogo hyayaṃ khyāto vajrakāyakaro nṛṇām |
 
 “ॐं नमो माय गणपतये भूपतये कुबेराय स्वाहा” इति भक्षणमन्त्रः ॥
 +++(“पञ्चांशवासरम्” ख। ।)+++
- rasāyanāḥ katipayayogāḥ |
+ रसायनाः कतिपययोगाः ।
 
-bhallātako'bhayā vīrā kākatuṇḍyāḥ phalaṃ vacā |  
-lāṅgalī nimbapatrāṇi sahadevī samaṃ samam || 92 ||  
-
-
-eṣāṃ pātālayantreṇa tailaṃ grāhyaṃ prayatnataḥ |  
-tattailaṃ nīlikāmūlayuktamardhapalaṃ pibet || 93 ||  
+भल्लातकोऽभया वीरा काकतुण्ड्याः फलं वचा ।  
+लाङ्गली निम्बपत्राणि सहदेवी समं समम् ॥ ९२ ॥  
 
 
-catsarātpalitaṃ hanti āyuḥ syādbrahmaṇo dinam |  
-tailārdhaniṣke tannasye kṛte syātpūrvavatphalam || 94 ||  
+एषां पातालयन्त्रेण तैलं ग्राह्यं प्रयत्नतः ।  
+तत्तैलं नीलिकामूलयुक्तमर्धपलं पिबेत् ॥ ९३ ॥  
 
 
-kṛṣṇajīrakaprasthaikaṃ tattulyaṃ bhṛṅgajadravam |  
-yaṣṭī nīlotpalaṃ caiva prati prasthārdhamāharet || 95 ||  
+चत्सरात्पलितं हन्ति आयुः स्याद्ब्रह्मणो दिनम् ।  
+तैलार्धनिष्के तन्नस्ये कृते स्यात्पूर्ववत्फलम् ॥ ९४ ॥  
 
 
-pādaprasthaṃ tilāttailaṃ sarvamekatra pācayet |  
-grāhyaṃ tailāvaśeṣaṃ tannasyaṃ tenaiva kārayet || 96 ||  
+कृष्णजीरकप्रस्थैकं तत्तुल्यं भृङ्गजद्रवम् ।  
+यष्टी नीलोत्पलं चैव प्रति प्रस्थार्धमाहरेत् ॥ ९५ ॥  
 
 
-nasyaṃ cāṅkollatailena kuryānmṛtyujarāpaham |  
-niṣkārdhaniṣkaṃ varṣaikaṃ jīvedvarṣaśatatrayam || 97 ||  
+पादप्रस्थं तिलात्तैलं सर्वमेकत्र पाचयेत् ।  
+ग्राह्यं तैलावशेषं तन्नस्यं तेनैव कारयेत् ॥ ९६ ॥  
 
 
-kākamācīphalaṃ piṣṭvā karṣaikamudakaiḥ pibet |  
-vatsarātpalitaṃ hanti āyuḥ syādbrahmaṇo dinam || 98 ||  
+नस्यं चाङ्कोल्लतैलेन कुर्यान्मृत्युजरापहम् ।  
+निष्कार्धनिष्कं वर्षैकं जीवेद्वर्षशतत्रयम् ॥ ९७ ॥  
 
 
-guḍūcī muśalī muṇḍī nirguṇḍī ca śatāvarī |  
-vijayā ca samaṃ cūrṇaṃ sitāmadhvājyasaṃyutam || 99 ||  
+काकमाचीफलं पिष्ट्वा कर्षैकमुदकैः पिबेत् ।  
+वत्सरात्पलितं हन्ति आयुः स्याद्ब्रह्मणो दिनम् ॥ ९८ ॥  
 
 
-khādetkarṣadvayaṃ nityaṃ vatsarātpalitaṃ jayet |  
-uktaṃ gorakṣanāthena jīvedbrahmadinatrayam || 100 ||  
+गुडूची मुशली मुण्डी निर्गुण्डी च शतावरी ।  
+विजया च समं चूर्णं सितामध्वाज्यसंयुतम् ॥ ९९ ॥  
+
+
+खादेत्कर्षद्वयं नित्यं वत्सरात्पलितं जयेत् ।  
+उक्तं गोरक्षनाथेन जीवेद्ब्रह्मदिनत्रयम् ॥ १०० ॥  
 
 
  शुनकशाल्मलिकाकल्पः ।
@@ -2428,14 +2427,14 @@ uktaṃ gorakṣanāthena jīvedbrahmadinatrayam || 100 ||
 
 “ॐं ठः ठः ठः सः सः सः अमृते अमृतवर्षिणि अमृतसञ्जीवति सर्वकामप्रदे भगवान् सोमराज आज्ञापयति स्वाहा” इति भक्ष- णमन्त्रः ॥
 
- triphalādiyogaḥ |
+ त्रिफलादियोगः ।
 
-triphalā bākucībījaṃ pippalī cāśvagandhikā |  
-sarvaṃ tulyaṃ kṛtaṃ cūrṇaṃ madhvājyābhyāṃ lihetpalam |  
-varṣānmṛtyuṃ jarāṃ hanti jīvedbrahmadinatrayam || 111 ||  
+त्रिफला बाकुचीबीजं पिप्पली चाश्वगन्धिका ।  
+सर्वं तुल्यं कृतं चूर्णं मध्वाज्याभ्यां लिहेत्पलम् ।  
+वर्षान्मृत्युं जरां हन्ति जीवेद्ब्रह्मदिनत्रयम् ॥ १११ ॥  
 
 
-“oṃṃ hrāṃ hrīṃ hrūṃ saḥ svāhā” anena mantreṇa bhakṣayet ||
+“ॐं ह्रां ह्रीं ह्रूं सः स्वाहा” अनेन मन्त्रेण भक्षयेत् ॥
 
  मूलिकाकल्पेषु पारदयोगः ।
 
@@ -2444,17 +2443,17 @@ varṣānmṛtyuṃ jarāṃ hanti jīvedbrahmadinatrayam || 111 ||
 रसेन्द्रस्य प्रभावेण शीघ्रं सिद्धिमवाप्नुयात् ॥ ११२ ॥  
 
 
- rasāyanakalpeṣu mantrayogaḥ |
+ रसायनकल्पेषु मन्त्रयोगः ।
 
-asthimudrādharo mantrī lakṣamekaṃ śmaśānataḥ |  
-japenmahābhayaṃ hanti siddhiṃ datte rasāyanam || 113 ||  
-
-
-tena bhakṣitamātreṇa jīvedācandratārakam |  
-ajeyo devadaityānāṃ parvatānapi cālayet || 114 ||  
+अस्थिमुद्राधरो मन्त्री लक्षमेकं श्मशानतः ।  
+जपेन्महाभयं हन्ति सिद्धिं दत्ते रसायनम् ॥ ११३ ॥  
 
 
-“oṃṃ hrīṃ mahābhayerum |”
+तेन भक्षितमात्रेण जीवेदाचन्द्रतारकम् ।  
+अजेयो देवदैत्यानां पर्वतानपि चालयेत् ॥ ११४ ॥  
+
+
+“ॐं ह्रीं महाभयेरुम् ।”
 
  रसायनसेवनविधिः ।
 
@@ -2474,21 +2473,21 @@ ajeyo devadaityānāṃ parvatānapi cālayet || 114 ||
 वक्ष्ये सुसिद्धमनुभूतिपथेन दृष्टम् ॥ १ ॥  
 
 
- valīpalitanāśārthaṃ pāradādyudvartanam |
+ वलीपलितनाशार्थं पारदाद्युद्वर्तनम् ।
 
-pāradaṃ gandhakaṃ tulyaṃ nārīstanyena mardayet |  
-viṣṇukrāntā meghanādā sarpākṣī munimuṇḍikā || 2 ||  
-
-
-āsāṃ dravairdinaṃ khalve mardayettatsamuddharet |  
-yavacūrṇaṃ tilāścaiva pratyekaṃ rasatulyakam || 3 ||  
+पारदं गन्धकं तुल्यं नारीस्तन्येन मर्दयेत् ।  
+विष्णुक्रान्ता मेघनादा सर्पाक्षी मुनिमुण्डिका ॥ २ ॥  
 
 
-kṣipettasmin ghṛtaiḥ kṣaudraiḥ sarvamāloḍya rakṣayet |  
-anenodvartanaṃ samyagvalīpalitanāśanam || 4 ||  
+आसां द्रवैर्दिनं खल्वे मर्दयेत्तत्समुद्धरेत् ।  
+यवचूर्णं तिलाश्चैव प्रत्येकं रसतुल्यकम् ॥ ३ ॥  
 
 
-vatsarāddivyadehaḥ syājjīvedvarṣasahasrakam |  
+क्षिपेत्तस्मिन् घृतैः क्षौद्रैः सर्वमालोड्य रक्षयेत् ।  
+अनेनोद्वर्तनं सम्यग्वलीपलितनाशनम् ॥ ४ ॥  
+
+
+वत्सराद्दिव्यदेहः स्याज्जीवेद्वर्षसहस्रकम् ।  
 
 
  वलीपलितनाशार्थं वज्रकापालिनीमूलाद्युद्वर्तनम् ।
@@ -2499,13 +2498,13 @@ vatsarāddivyadehaḥ syājjīvedvarṣasahasrakam |
 शिवाम्बुना त्र्यहं मर्द्यमुद्वर्तात्पूर्ववत्फलम् ।  
 
 
- valīpalitanāśārthaṃ utpalādyudvartanam |
+ वलीपलितनाशार्थं उत्पलाद्युद्वर्तनम् ।
 
-utpalāni samūlāni pāradaṃ ca samaṃ samam || 6 ||  
+उत्पलानि समूलानि पारदं च समं समम् ॥ ६ ॥  
 
-+++(“balakaraṃ” paramaṃ kha. |)+++
-saptāhaṃ mardayetkhalve svakīyenāśivāmbunā |  
-tenaiva mardayedgātraṃ jāyate pūrvavatphalam || 7 ||  
++++(“बलकरं” परमं ख। ।)+++
+सप्ताहं मर्दयेत्खल्वे स्वकीयेनाशिवाम्बुना ।  
+तेनैव मर्दयेद्गात्रं जायते पूर्ववत्फलम् ॥ ७ ॥  
 
 
  वलीपलितनाशार्थं पारदाद्युद्वर्तनम् ।
@@ -2517,13 +2516,13 @@ tenaiva mardayedgātraṃ jāyate pūrvavatphalam || 7 ||
 अनेनोद्वर्तयेद्गात्रं जायते पूर्ववत्फलम् ।  
 
 
- valīpalitanāśārthaṃ gandhakayogaḥ |
+ वलीपलितनाशार्थं गन्धकयोगः ।
 
-gandhakaṃ kaṭutailena gharme bhāvyaṃ dināvadhi || 9 ||  
+गन्धकं कटुतैलेन घर्मे भाव्यं दिनावधि ॥ ९ ॥  
 
 
-tatpalārdhaṃ sadā khādeddivyakāyakaraṃ nṛṇām |  
-jāyate svarṇavaddeho vatsarādvalivarjitaḥ || 10 ||  
+तत्पलार्धं सदा खादेद्दिव्यकायकरं नृणाम् ।  
+जायते स्वर्णवद्देहो वत्सराद्वलिवर्जितः ॥ १० ॥  
 
 
  रसायनार्थं कुष्ठयोगः ।
@@ -2532,17 +2531,17 @@ jāyate svarṇavaddeho vatsarādvalivarjitaḥ || 10 ||
 वत्सराद्दिव्यदेहः स्याद्गन्धेन शतपुष्पवत् ॥ ११ ॥  
 
 
- palitanāśārthaṃ kāntapāṣāṇādiyogaḥ |
+ पलितनाशार्थं कान्तपाषाणादियोगः ।
 
-kāntapāṣāṇacūrṇaṃ tu tailamadhvājyasaṃyutam |  
-kākatuṇḍīphalaṃ sarvaṃ samametattu kalpayet || 12 ||  
-
-
-bhāṇḍe ruddhvā kṣipenmāsaṃ dhānyarāśāvathoddharet |  
-anena lepayecchīrṣaṃ nasyaṃ kuryādanena vai || 13 ||  
+कान्तपाषाणचूर्णं तु तैलमध्वाज्यसंयुतम् ।  
+काकतुण्डीफलं सर्वं सममेतत्तु कल्पयेत् ॥ १२ ॥  
 
 
-tryahādbhramarasaṅkāśāḥ keśāḥ syurvatsarārdhakam |  
+भाण्डे रुद्ध्वा क्षिपेन्मासं धान्यराशावथोद्धरेत् ।  
+अनेन लेपयेच्छीर्षं नस्यं कुर्यादनेन वै ॥ १३ ॥  
+
+
+त्र्यहाद्भ्रमरसङ्काशाः केशाः स्युर्वत्सरार्धकम् ।  
 
 
  पलितनाशार्थं सीसकादियोगः ।
@@ -2561,13 +2560,13 @@ tryahādbhramarasaṅkāśāḥ keśāḥ syurvatsarārdhakam |
 इत्येवं त्रिदिनं यत्नात्कृत्वा केशांश्च रञ्जयेत् ।  
 
 
- keśarañjanārthaṃ nīlikādiyogaḥ |
+ केशरञ्जनार्थं नीलिकादियोगः ।
 
-pañcāṅgaṃ nīlikābhṛṅgatriphalālohacūrṇakam || 17 ||  
+पञ्चाङ्गं नीलिकाभृङ्गत्रिफलालोहचूर्णकम् ॥ १७ ॥  
 
 
-tulyaṃ sarvaṃ kṛtaṃ sūkṣmamiḍāmūtreṇa mardayet |  
-dinārdhaṃ tena kalkena pūrvavatkeśarañjanam || 18 ||  
+तुल्यं सर्वं कृतं सूक्ष्ममिडामूत्रेण मर्दयेत् ।  
+दिनार्धं तेन कल्केन पूर्ववत्केशरञ्जनम् ॥ १८ ॥  
 
 
  केशरञ्जनार्थं गुञ्जादियोगः ।
@@ -2580,10 +2579,10 @@ dinārdhaṃ tena kalkena pūrvavatkeśarañjanam || 18 ||
 तेनाभ्यङ्गेन केशानां रञ्जनं भ्रमरोपमम् ॥ २० ॥  
 
 
- keśarañjanārthaṃ hastidantādiyogaḥ |
+ केशरञ्जनार्थं हस्तिदन्तादियोगः ।
 
-hastidantasya dagdhasya samaṃ yojyaṃ rasāñjanam |  
-ajākṣīreṇa tatpiṣṭvā lepanātkeśarañjanam || 21 ||  
+हस्तिदन्तस्य दग्धस्य समं योज्यं रसाञ्जनम् ।  
+अजाक्षीरेण तत्पिष्ट्वा लेपनात्केशरञ्जनम् ॥ २१ ॥  
 
 
  केशरञ्जनार्थं त्रिफलादियोगः ।
@@ -2595,17 +2594,17 @@ ajākṣīreṇa tatpiṣṭvā lepanātkeśarañjanam || 21 ||
 तल्लेपाद्रञ्जयेत्केशान् स्याद्यावन्मासपञ्चकम् ।  
 
 
- keśarañjanārthaṃ lohakiṭṭādiyogaḥ |
+ केशरञ्जनार्थं लोहकिट्टादियोगः ।
 
-lohakiṭṭaṃ japāpuṣpaṃ piṣṭvā dhātrīphalaṃ samam || 23 ||  
-
-
-tridinaṃ lepitāstena kacāḥ syurbhramaropamāḥ |  
-bhṛṅgarājarasaprasthaṃ tailaṃ kṛṣṇatilodbhavam || 24 ||  
+लोहकिट्टं जपापुष्पं पिष्ट्वा धात्रीफलं समम् ॥ २३ ॥  
 
 
-tulyaṃ ca nīlikādrāvaṃ sarvaṃ yāmaṃ vimardayet |  
-tallepastridinaṃ kāryaḥ keśānāṃ rañjanaṃ bhavet || 25 ||  
+त्रिदिनं लेपितास्तेन कचाः स्युर्भ्रमरोपमाः ।  
+भृङ्गराजरसप्रस्थं तैलं कृष्णतिलोद्भवम् ॥ २४ ॥  
+
+
+तुल्यं च नीलिकाद्रावं सर्वं यामं विमर्दयेत् ।  
+तल्लेपस्त्रिदिनं कार्यः केशानां रञ्जनं भवेत् ॥ २५ ॥  
 
 
  केशरञ्जनार्थं सिन्दूरादियोगः ।
@@ -2614,13 +2613,13 @@ tallepastridinaṃ kāryaḥ keśānāṃ rañjanaṃ bhavet || 25 ||
 तज्जले पेषितं लेप्यं तत्क्षणात्कचरञ्जनम् ॥ २६ ॥  
 
 
- keśarañjanārthaṃ śatapuṣpādiyogaḥ |
+ केशरञ्जनार्थं शतपुष्पादियोगः ।
 
-śatapuṣpā kākamācī tilāḥ kṛṣṇāśca rocanam |  
-dinaṃ śivāmbunā sarvaṃ mardayellohapātrake || 27 ||  
+शतपुष्पा काकमाची तिलाः कृष्णाश्च रोचनम् ।  
+दिनं शिवाम्बुना सर्वं मर्दयेल्लोहपात्रके ॥ २७ ॥  
 
 
-tallepaṃ tridinaṃ kuryātkeśānāṃ rañjanaṃ bhavet |  
+तल्लेपं त्रिदिनं कुर्यात्केशानां रञ्जनं भवेत् ।  
 
 
  केशरञ्जनार्थं चूर्णादियोगः ।
@@ -2631,12 +2630,12 @@ tallepaṃ tridinaṃ kuryātkeśānāṃ rañjanaṃ bhavet |
 नागपुष्पाद्रवैर्मर्द्यं तल्लेपाद्रञ्जनं भवेत् ।  
 
 
- keśarañjanārthaṃ nīlyādiyogaḥ |
+ केशरञ्जनार्थं नील्यादियोगः ।
 
-nīlīpatrāṇi kāsīsaṃ bhṛṅgarājarasaṃ dadhi || 29 ||  
+नीलीपत्राणि कासीसं भृङ्गराजरसं दधि ॥ २९ ॥  
 
 
-lohacūrṇaṃ samaṃ piṣṭvā tallapaṃ keśarañjanam |  
+लोहचूर्णं समं पिष्ट्वा तल्लपं केशरञ्जनम् ।  
 
 
  केशरञ्जनार्थं चूर्णादियोगः ।
@@ -2648,10 +2647,10 @@ lohacūrṇaṃ samaṃ piṣṭvā tallapaṃ keśarañjanam |
 दिनैकं च ततो लेप्यं केशानां रञ्जनं भवेत् ॥ ३१ ॥  
 
 
- keśarañjanārthaṃ kuraṇṭakapatrādiyogaḥ |
+ केशरञ्जनार्थं कुरण्टकपत्रादियोगः ।
 
-kuraṇṭakasya patrāṇi nāgamuṣṭyā vimardayet |  
-tallepaṃ tridinaṃ kuryājjāyate keśarañjanam || 32 ||  
+कुरण्टकस्य पत्राणि नागमुष्ट्या विमर्दयेत् ।  
+तल्लेपं त्रिदिनं कुर्याज्जायते केशरञ्जनम् ॥ ३२ ॥  
 
 
  केशरञ्जनार्थमाम्रास्थ्यादियोगः ।
@@ -2664,10 +2663,10 @@ tallepaṃ tridinaṃ kuryājjāyate keśarañjanam || 32 ||
 मासमात्रं ततस्तेन लेपाद्भवति रञ्जनम् ॥ ३४ ॥  
 
 
- keśarañjanārthaṃ kākamācyādiyogaḥ |
+ केशरञ्जनार्थं काकमाच्यादियोगः ।
 
-kākamācīyabījāni samāḥ kṛṣṇatilāstathā |  
-tattailaṃ grāhayedyantre tannasyaṃ keśarañjanam || 35 ||  
+काकमाचीयबीजानि समाः कृष्णतिलास्तथा ।  
+तत्तैलं ग्राहयेद्यन्त्रे तन्नस्यं केशरञ्जनम् ॥ ३५ ॥  
 
 
  केशरञ्जनं घृतम् ।
@@ -2676,10 +2675,10 @@ tattailaṃ grāhayedyantre tannasyaṃ keśarañjanam || 35 ||
 मृद्वग्निना पचेत्तेन स्यान्नस्यं केशरञ्जनम् ॥ ३६ ॥  
 
 
- keśarañjanārthaṃ japāpuṣparasanasyam |
+ केशरञ्जनार्थं जपापुष्परसनस्यम् ।
 
-japāpuṣpadravaṃ kṣaudraṃ karṣaikaṃ nasyamācaret |  
-saptāhādrañjayetkeśān sarvanasyeṣvayaṃ vidhiḥ || 37 ||  
+जपापुष्पद्रवं क्षौद्रं कर्षैकं नस्यमाचरेत् ।  
+सप्ताहाद्रञ्जयेत्केशान् सर्वनस्येष्वयं विधिः ॥ ३७ ॥  
 
 
  केशरञ्जनार्थं त्रिफलादतैलम् ।
@@ -2700,21 +2699,21 @@ saptāhādrañjayetkeśān sarvanasyeṣvayaṃ vidhiḥ || 37 ||
 कपालरञ्जनं ख्यातं यावज्जीवं न संशयः ॥ ४१ ॥  
 
 
- keśarañjanārthaṃ kākatuṇḍyādiyogaḥ |
+ केशरञ्जनार्थं काकतुण्ड्यादियोगः ।
 
-bījāni kākatuṇḍyāśca siryālībīja \[\] saṃyutam |  
-taccūrṇaṃ dinacatvāri bhāvyaṃ niguṇḍijairdravaiḥ || 42 ||  
-
-
-japāpuṣpadravaistāvattataḥ pātālayantrake |  
-tailaṃ prāhyaṃ tu tallepātkeśānāṃ rañjanaṃ bhavet || 43 ||  
+बीजानि काकतुण्ड्याश्च सिर्यालीबीज \[\] संयुतम् ।  
+तच्चूर्णं दिनचत्वारि भाव्यं निगुण्डिजैर्द्रवैः ॥ ४२ ॥  
 
 
-veṣṭyameraṇḍapatraiśca nirvāte kṣīrabhojanam |  
-kuryātsnānaṃ kāñjikaiśca nityaṃ saptadine kṛte || 44 ||  
+जपापुष्पद्रवैस्तावत्ततः पातालयन्त्रके ।  
+तैलं प्राह्यं तु तल्लेपात्केशानां रञ्जनं भवेत् ॥ ४३ ॥  
 
 
-yāvajjīvaṃ na sandehaḥ keśāḥ syurbhramaparomāḥ |  
+वेष्ट्यमेरण्डपत्रैश्च निर्वाते क्षीरभोजनम् ।  
+कुर्यात्स्नानं काञ्जिकैश्च नित्यं सप्तदिने कृते ॥ ४४ ॥  
+
+
+यावज्जीवं न सन्देहः केशाः स्युर्भ्रमपरोमाः ।  
 
 
  केशरञ्जानार्थं भृङ्गराजादियोगः ।
@@ -2729,13 +2728,13 @@ yāvajjīvaṃ na sandehaḥ keśāḥ syurbhramaparomāḥ |
 पूर्ववत्क्रमयोगेन सप्ताहात्तत्फलं भवेत् ।  
 
 
- keśarañjanārthaṃ triphalādiyogaḥ |
+ केशरञ्जनार्थं त्रिफलादियोगः ।
 
-ayaskāntamaye pātre rātrau lepyaṃ phalatrayam || 47 ||  
+अयस्कान्तमये पात्रे रात्रौ लेप्यं फलत्रयम् ॥ ४७ ॥  
 
 
-mṛṅgarājadravaiḥ sārdhaṃ prātaḥ keśān pralepayet |  
-evaṃ kuryāttrisaptāhaṃ jāyate pūrvavatphalam || 48 ||  
+मृङ्गराजद्रवैः सार्धं प्रातः केशान् प्रलेपयेत् ।  
+एवं कुर्यात्त्रिसप्ताहं जायते पूर्ववत्फलम् ॥ ४८ ॥  
 
 
  केशरञ्जनार्थं कृष्णजीरकयोगः ।
@@ -2751,29 +2750,29 @@ evaṃ kuryāttrisaptāhaṃ jāyate pūrvavatphalam || 48 ||
 भ्रमराञ्जनसङ्काशं यावज्जीवं न संशयः ।  
 
 +++(“बीजकं समम्” ख। ।)++++++(“जलमण्डया” ख। ।)++++++(“सर्पाक्ष्याऽपूपिकां” ख। ।)+++
- keśarañjanārthaṃ nīlyādiyogaḥ |
+ केशरञ्जनार्थं नील्यादियोगः ।
 
-nīlīpatraṃ bhṛṅgarājaṃ triphalā kṛṣṇamāyasam || 51 ||  
-
-
-madanasya ca bījāni puṣpaṃ koraṇṭakasya ca |  
-arjunasya tvacaṃ cūrṇaṃ nalinīmūlakardamam || 52 ||  
+नीलीपत्रं भृङ्गराजं त्रिफला कृष्णमायसम् ॥ ५१ ॥  
 
 
-sarvaṃ tulyaṃ kṣipedbhāṇḍe lohaje tannirodhayet |  
-pakṣamekaṃ kṣipedbhūmau bhāṇḍātkalkaṃ samuddharet || 53 ||  
+मदनस्य च बीजानि पुष्पं कोरण्टकस्य च ।  
+अर्जुनस्य त्वचं चूर्णं नलिनीमूलकर्दमम् ॥ ५२ ॥  
 
 
-kalkāccaturguṇaṃ tailaṃ tailāccaturguṇaṃ dravam |  
-bhṛṅgatriphalajaṃ yojyaṃ pacettailāvaśeṣakam || 54 ||  
+सर्वं तुल्यं क्षिपेद्भाण्डे लोहजे तन्निरोधयेत् ।  
+पक्षमेकं क्षिपेद्भूमौ भाण्डात्कल्कं समुद्धरेत् ॥ ५३ ॥  
 
 
-parīkṣārthaṃ kṣipetpakṣaṃ balākāyā yadā bhavet |  
-kṛṣṇavarṇaṃ tadā siddhaṃ pātre kṛṣṇāyase kṣipet || 55 ||  
+कल्काच्चतुर्गुणं तैलं तैलाच्चतुर्गुणं द्रवम् ।  
+भृङ्गत्रिफलजं योज्यं पचेत्तैलावशेषकम् ॥ ५४ ॥  
 
 
-māsaikaṃ dhārayettasmiṃstataḥ keśān vilepayet |  
-tiṣṭhanti māsaṣaṭkaṃ tu bhramarastomasannibhāḥ || 56 ||  
+परीक्षार्थं क्षिपेत्पक्षं बलाकाया यदा भवेत् ।  
+कृष्णवर्णं तदा सिद्धं पात्रे कृष्णायसे क्षिपेत् ॥ ५५ ॥  
+
+
+मासैकं धारयेत्तस्मिंस्ततः केशान् विलेपयेत् ।  
+तिष्ठन्ति मासषट्कं तु भ्रमरस्तोमसन्निभाः ॥ ५६ ॥  
 
 
  केशरञ्जनार्थं सीसकादियोगः ।
@@ -2801,56 +2800,56 @@ tiṣṭhanti māsaṣaṭkaṃ tu bhramarastomasannibhāḥ || 56 ||
 शिरो रात्रौ दिवा स्नानं युक्तिरेषा प्रशस्यते ।  
 
 
- keśaśuklīkaraṇayogāḥ |
+ केशशुक्लीकरणयोगाः ।
 
-vajrīkṣīreṇa saptāhaṃ bhāvayedabhayāphalam |  
-taccūrṇayuktatailasya lepācchuklā bhavanti hi || 62 ||  
-
-
-keśāśca sarvaromāṇi śaṅkhavarṇā bhavanti vai |  
-saptāhaṃ vajradugdhena suśvetān bhāvayettilān || 63 ||  
+वज्रीक्षीरेण सप्ताहं भावयेदभयाफलम् ।  
+तच्चूर्णयुक्ततैलस्य लेपाच्छुक्ला भवन्ति हि ॥ ६२ ॥  
 
 
-tebhyastailaṃ gṛhītvā tallepācchuklā bhavanti vai |  
-gauryāmalakacūrṇaṃ tu vajrīkṣīreṇa saptadhā || 64 ||  
+केशाश्च सर्वरोमाणि शङ्खवर्णा भवन्ति वै ।  
+सप्ताहं वज्रदुग्धेन सुश्वेतान् भावयेत्तिलान् ॥ ६३ ॥  
 
 
-bhāvayettena lepena śuklatāṃ yānti mūrdhajāḥ |  
-sindūraṃ sphaṭikāṃ śvetāṃ jalena saha lepayet || 65 ||  
+तेभ्यस्तैलं गृहीत्वा तल्लेपाच्छुक्ला भवन्ति वै ।  
+गौर्यामलकचूर्णं तु वज्रीक्षीरेण सप्तधा ॥ ६४ ॥  
 
 
-tallepena tu romāṇi suśuklāni bhavanti hi |  
-māsaikaṃ māgadhīcūrṇaṃ vajrīkṣīreṇa bhāvayet || 66 ||  
+भावयेत्तेन लेपेन शुक्लतां यान्ति मूर्धजाः ।  
+सिन्दूरं स्फटिकां श्वेतां जलेन सह लेपयेत् ॥ ६५ ॥  
 
 
-narāśvagajavājīnāṃ śuklīkaraṇamuttamam |  
-indragopaṃ tailinī ca tālakaṃ rajanīdvayam || 67 ||  
+तल्लेपेन तु रोमाणि सुशुक्लानि भवन्ति हि ।  
+मासैकं मागधीचूर्णं वज्रीक्षीरेण भावयेत् ॥ ६६ ॥  
 
 
-manaḥśilā ca tulyāṃśaṃ cūrṇaṃ snukpayasā tryaham |  
-bhāvayedarkajaiḥ kṣīraistridinaṃ cātape khare || 68 ||  
+नराश्वगजवाजीनां शुक्लीकरणमुत्तमम् ।  
+इन्द्रगोपं तैलिनी च तालकं रजनीद्वयम् ॥ ६७ ॥  
 
 
-tataḥ kūṣmāṇḍajairdrāvairbhāvayeddinasaptakam |  
-kūṣmāṇḍasya tato garbhe kṣiptvā māsātsamuddharet || 69 ||  
+मनःशिला च तुल्यांशं चूर्णं स्नुक्पयसा त्र्यहम् ।  
+भावयेदर्कजैः क्षीरैस्त्रिदिनं चातपे खरे ॥ ६८ ॥  
 
 
-tailena sarvaromāṇi keśān saṃlepayettryaham |  
-veṣṭayedarkajaiḥ patraiḥ śuklavarṇā bhavanti ca || 70 ||  
+ततः कूष्माण्डजैर्द्रावैर्भावयेद्दिनसप्तकम् ।  
+कूष्माण्डस्य ततो गर्भे क्षिप्त्वा मासात्समुद्धरेत् ॥ ६९ ॥  
 
 
-snāne kṛte śuṣkakaceṣu rātrau lepe kṛte pūrvadalaistu veṣṭyam |  
-dadhnā tilai \[\] ḥ snānamataḥ prabhāte kuryāttryahaṃ lepana mitthameva || 71 ||  
+तैलेन सर्वरोमाणि केशान् संलेपयेत्त्र्यहम् ।  
+वेष्टयेदर्कजैः पत्रैः शुक्लवर्णा भवन्ति च ॥ ७० ॥  
 
 
-iti pārvatīputraśrīnityanāthasiddhaviracite rasaratnākare rasāyanakhaṇḍe udvartanakeśarañjanādhikāro nāma pañcamopadeśaḥ |
+स्नाने कृते शुष्ककचेषु रात्रौ लेपे कृते पूर्वदलैस्तु वेष्ट्यम् ।  
+दध्ना तिलै \[\] ः स्नानमतः प्रभाते कुर्यात्त्र्यहं लेपन मित्थमेव ॥ ७१ ॥  
 
-# atha ṣaṣṭhopadeśaḥ |
 
-yeṣāṃ rāmā ramaṇakuśalā rāgasaktāḥ pragalbhāḥ  
-kāmāsaktā hariṇanayanāścandrabimbānanāśca |  
-teṣāṃ vakṣye madanasukhadāṃ vīryavṛddhiṃ prabhūtāṃ  
-ma \[\] ttāḥ siddhāḥ śatamapi dṛḍhāstādṛśāstoṣayanti || 1 ||  
+इति पार्वतीपुत्रश्रीनित्यनाथसिद्धविरचिते रसरत्नाकरे रसायनखण्डे उद्वर्तनकेशरञ्जनाधिकारो नाम पञ्चमोपदेशः ।
+
+# अथ षष्ठोपदेशः ।
+
+येषां रामा रमणकुशला रागसक्ताः प्रगल्भाः  
+कामासक्ता हरिणनयनाश्चन्द्रबिम्बाननाश्च ।  
+तेषां वक्ष्ये मदनसुखदां वीर्यवृद्धिं प्रभूतां  
+म \[\] त्ताः सिद्धाः शतमपि दृढास्तादृशास्तोषयन्ति ॥ १ ॥  
 
 
  वाजीकरो मकरध्वजरसः ।
@@ -2876,26 +2875,26 @@ ma \[\] ttāḥ siddhāḥ śatamapi dṛḍhāstādṛśāstoṣayanti || 1 ||
 सेवनाद्दृढकायः स्याद्रसोऽयं मकरध्वजः ॥ ६ ॥  
 
 
- vājīkaro manodayarasaḥ |
+ वाजीकरो मनोदयरसः ।
 
-śuddhasūtaṃ samaṃ gandhaṃ raktotpaladaladravaiḥ |  
-yāmaṃ mardyaṃ punargandhaṃ sārdhaṃ tatra vinikṣipet || 7 ||  
-
-
-pūrvadrāvairdinaṃ mardyaṃ rasārdhaṃ gandhakaṃ punaḥ |  
-dattvā tadvaddinaṃ mardyaṃ kācakūpyāṃ nirodhayet || 8 ||  
+शुद्धसूतं समं गन्धं रक्तोत्पलदलद्रवैः ।  
+यामं मर्द्यं पुनर्गन्धं सार्धं तत्र विनिक्षिपेत् ॥ ७ ॥  
 
 
-dinaikaṃ \[\]  vālukāyantre pakvamuddhṛtya cūrṇayet |  
-bhūkūṣmāṇḍīkaṣāyeṇa bhāvayeddinasaptakam || 9 ||  
+पूर्वद्रावैर्दिनं मर्द्यं रसार्धं गन्धकं पुनः ।  
+दत्त्वा तद्वद्दिनं मर्द्यं काचकूप्यां निरोधयेत् ॥ ८ ॥  
 
 
-chāyāyāṃ tatsitātulyaṃ niṣkaikaṃ bhakṣayetsadā |  
-śaṇamūlaṃ sabījaṃ ca muśalī śarkarā samam || 10 ||  
+दिनैकं \[\]  वालुकायन्त्रे पक्वमुद्धृत्य चूर्णयेत् ।  
+भूकूष्माण्डीकषायेण भावयेद्दिनसप्तकम् ॥ ९ ॥  
 
 
-gavāṃ kṣīraiḥ palārdhaṃ tu anu rātro sadā pibet |  
-anantaṃ vardhate vīryaṃ raso'yaṃ madanodayaḥ || 11 ||  
+छायायां तत्सितातुल्यं निष्कैकं भक्षयेत्सदा ।  
+शणमूलं सबीजं च मुशली शर्करा समम् ॥ १० ॥  
+
+
+गवां क्षीरैः पलार्धं तु अनु रात्रो सदा पिबेत् ।  
+अनन्तं वर्धते वीर्यं रसोऽयं मदनोदयः ॥ ११ ॥  
 
 
  वाजीकरो मदनेश्वररसः ।
@@ -2919,29 +2918,29 @@ anantaṃ vardhate vīryaṃ raso'yaṃ madanodayaḥ || 11 ||
 रमयेत्स्त्रीशतं नित्यं तत्त्यागादन्धतां व्रजेत् ।  
 
 
- vājīkaraḥ kāmakalākhyarasaḥ |
+ वाजीकरः कामकलाख्यरसः ।
 
-mṛtābhraṃ pāradaṃ svarṇaṃ tulyaṃ mardyaṃ dinatrayam || 16 ||  
-
-
-muśalītriphalākvāthairvājigandhākaṣāyakaiḥ |  
-kadalīkandajairdrāvaistadgolaṃ cāndhitaṃ puṭet || 17 ||  
+मृताभ्रं पारदं स्वर्णं तुल्यं मर्द्यं दिनत्रयम् ॥ १६ ॥  
 
 
-bhūdhare dinamātraṃ tu samuddhṛtyātha mardayet |  
-dinaikaṃ pūrvajairdrāvaistadvadruddhvā puṭe pacet || 18 ||  
+मुशलीत्रिफलाक्वाथैर्वाजिगन्धाकषायकैः ।  
+कदलीकन्दजैर्द्रावैस्तद्गोलं चान्धितं पुटेत् ॥ १७ ॥  
 
 
-punarmardyaṃ punaḥ pācyamevamaṣṭapuṭaiḥ pacet |  
-śālmalījātaniryāsaistulyaṃ śarkarayā saha || 19 ||  
+भूधरे दिनमात्रं तु समुद्धृत्याथ मर्दयेत् ।  
+दिनैकं पूर्वजैर्द्रावैस्तद्वद्रुद्ध्वा पुटे पचेत् ॥ १८ ॥  
 
 
-khādenniṣkadvayaṃ nityaṃ drāvayedvanitāśatam |  
-gokṣīrairmarkaṭībījaṃ palārdhaṃ pāyayedanu || 20 ||  
+पुनर्मर्द्यं पुनः पाच्यमेवमष्टपुटैः पचेत् ।  
+शाल्मलीजातनिर्यासैस्तुल्यं शर्करया सह ॥ १९ ॥  
 
 
-sarvāṅgodvartanaṃ kuryātsayavaiḥ śālmalīdravaiḥ |  
-rasaḥ kāmakalākhyo'yaṃ mahāvīryakaro nṛṇām || 21 ||  
+खादेन्निष्कद्वयं नित्यं द्रावयेद्वनिताशतम् ।  
+गोक्षीरैर्मर्कटीबीजं पलार्धं पाययेदनु ॥ २० ॥  
+
+
+सर्वाङ्गोद्वर्तनं कुर्यात्सयवैः शाल्मलीद्रवैः ।  
+रसः कामकलाख्योऽयं महावीर्यकरो नृणाम् ॥ २१ ॥  
 
 
  वाजीकरः कामदेवरसः ।
@@ -2965,24 +2964,24 @@ rasaḥ kāmakalākhyo'yaṃ mahāvīryakaro nṛṇām || 21 ||
 मैथुने दृढलिङ्गः स्याद्द्रावयेद्वनिताकुलम् ।  
 
 
- vājīkaro ratikāmarasaḥ |
+ वाजीकरो रतिकामरसः ।
 
-prārambharajasā strīṇāṃ mardayedbhasmasūtakam || 26 ||  
-
-
-mṛtaṃ tāmraṃ ca tāraṃ ca gandhakaṃ ca samaṃ dinam |  
-sitāmadhvājyasaṃyuktaṃ niṣkaṃ bhuktvā pibetpayaḥ || 27 ||  
+प्रारम्भरजसा स्त्रीणां मर्दयेद्भस्मसूतकम् ॥ २६ ॥  
 
 
-ratikāmaraso nāma kāminarimaṇe hitaḥ |  
-vānarīmūlagodhūmaṃ kokilākṣasya bījakam || 28 ||  
+मृतं ताम्रं च तारं च गन्धकं च समं दिनम् ।  
+सितामध्वाज्यसंयुक्तं निष्कं भुक्त्वा पिबेत्पयः ॥ २७ ॥  
 
 
-māṣāścekṣurasaiḥ sarvaṃ loḍitaṃ pācayedghṛtaiḥ |  
-tenaiva vaṭakāḥ kāryā nityaṃ khādeddvayaṃ dvayam || 29 ||  
+रतिकामरसो नाम कामिनरिमणे हितः ।  
+वानरीमूलगोधूमं कोकिलाक्षस्य बीजकम् ॥ २८ ॥  
 
 
-anupānamidaṃ siddhaṃ sevanādramayecchatam |  
+माषाश्चेक्षुरसैः सर्वं लोडितं पाचयेद्घृतैः ।  
+तेनैव वटकाः कार्या नित्यं खादेद्द्वयं द्वयम् ॥ २९ ॥  
+
+
+अनुपानमिदं सिद्धं सेवनाद्रमयेच्छतम् ।  
 
 
  वाजीकरो मदवर्धनरसः ।
@@ -3001,24 +3000,24 @@ anupānamidaṃ siddhaṃ sevanādramayecchatam |
 यथेष्टं भक्षयेच्चानु रमयेत्कामिनीशतम् ।  
 
 
- vājīkarī anaṅgasundarīvaṭikā |
+ वाजीकरी अनङ्गसुन्दरीवटिका ।
 
-paladvayaṃ dvayaṃ śuddhaṃ pāradaṃ gandhakaṃ śubham || 33 ||  
-
-
-karṣaikaṃ māritaṃ svarṇaṃ palaikaṃ mṛtatāmrakam |  
-raupyabhasma caturniṣkaṃ sarvaṃ pañcāmṛtairdinam || 34 ||  
+पलद्वयं द्वयं शुद्धं पारदं गन्धकं शुभम् ॥ ३३ ॥  
 
 
-mardyaṃ ruddhvā dinaṃ pacyādbhūdhare taṃ samuddharet |  
-piṣṭvā pañcāmṛtaiḥ khādedvaṭikāṃ badarākṛtim || 35 ||  
+कर्षैकं मारितं स्वर्णं पलैकं मृतताम्रकम् ।  
+रौप्यभस्म चतुर्निष्कं सर्वं पञ्चामृतैर्दिनम् ॥ ३४ ॥  
 
 
-anaṅgasundarī khyātā rāmāṇāṃ ramate śatam |  
-śālmalīmūlacūrṇaṃ tu madhuśarkarayā'nvitam || 36 ||  
+मर्द्यं रुद्ध्वा दिनं पच्याद्भूधरे तं समुद्धरेत् ।  
+पिष्ट्वा पञ्चामृतैः खादेद्वटिकां बदराकृतिम् ॥ ३५ ॥  
 
 
-palaikaṃ bhakṣayeccānu sitākṣīraṃ tu pāyayet |  
+अनङ्गसुन्दरी ख्याता रामाणां रमते शतम् ।  
+शाल्मलीमूलचूर्णं तु मधुशर्करयाऽन्वितम् ॥ ३६ ॥  
+
+
+पलैकं भक्षयेच्चानु सिताक्षीरं तु पाययेत् ।  
 
 
  वाजीकरः कामनायकरसः ।
@@ -3046,45 +3045,45 @@ palaikaṃ bhakṣayeccānu sitākṣīraṃ tu pāyayet |
 कामिनीनां सहस्रं तु क्षोभयेन्निमिषान्तरे ॥ ४२ ॥  
 
 
- vājīkaraḥ pūrṇendurasaḥ |
+ वाजीकरः पूर्णेन्दुरसः ।
 
-śuddhasūtatrayo bhāgā bhāgaikaṃ tāmracūrṇakam |  
-kṛtvā piṣṭīṃ nirudhyātha rambhākandodare punaḥ || 43 ||  
-
-
-mṛlliptaṃ śoṣitaṃ pacyāddinaikaṃ kariṣāgnināṃ |  
-evaṃ saptadinaṃ pacyātkande kande dinaṃ dinam || 44 ||  
+शुद्धसूतत्रयो भागा भागैकं ताम्रचूर्णकम् ।  
+कृत्वा पिष्टीं निरुध्याथ रम्भाकन्दोदरे पुनः ॥ ४३ ॥  
 
 
-uddhṛtya bandhayedvastre dṛḍhe caiva caturguṇe |  
-kṣudraśambūkamāṃsāktacchāgīraktagataṃ pacet || 45 ||  
+मृल्लिप्तं शोषितं पच्याद्दिनैकं करिषाग्निनां ।  
+एवं सप्तदिनं पच्यात्कन्दे कन्दे दिनं दिनम् ॥ ४४ ॥  
 
 
-dolāyantre tryahaṃ yāvaddeyaṃ raktaṃ punaḥ punaḥ |  
-guḍūcyā gajapippalyā kadalyā kokilākṣakaiḥ || 46 ||  
+उद्धृत्य बन्धयेद्वस्त्रे दृढे चैव चतुर्गुणे ।  
+क्षुद्रशम्बूकमांसाक्तच्छागीरक्तगतं पचेत् ॥ ४५ ॥  
 
 
-gokṣurīvānarīmūlajātīmūlasya ca dravaiḥ |  
-pācayettatkaṣāyairvā dolāyantre dinatrayam || 47 ||  
+दोलायन्त्रे त्र्यहं यावद्देयं रक्तं पुनः पुनः ।  
+गुडूच्या गजपिप्पल्या कदल्या कोकिलाक्षकैः ॥ ४६ ॥  
 
 
-tataḥ kṣīre sitāyukte tadvatpacyāddināvadhi |  
-uddhṛtya muśalīkvāthairmardyaṃ yāmacatuṣṭayam || 48 ||  
+गोक्षुरीवानरीमूलजातीमूलस्य च द्रवैः ।  
+पाचयेत्तत्कषायैर्वा दोलायन्त्रे दिनत्रयम् ॥ ४७ ॥  
 
 
-rasaḥ pūrṇendunāmā'yaṃ khādenmāṃsaṃ sitāyutam |  
-gokṣuro vānarībījaṃ guḍūcī gajapippalī || 49 ||  
+ततः क्षीरे सितायुक्ते तद्वत्पच्याद्दिनावधि ।  
+उद्धृत्य मुशलीक्वाथैर्मर्द्यं यामचतुष्टयम् ॥ ४८ ॥  
 
 
-kokilākṣasya bījāni majjā kārpāsabījajā |  
-śatāvarī ca rambhāyāḥ phalaṃ sarvaṃ samaṃ bhavet || 50 ||  
+रसः पूर्णेन्दुनामाऽयं खादेन्मांसं सितायुतम् ।  
+गोक्षुरो वानरीबीजं गुडूची गजपिप्पली ॥ ४९ ॥  
 
 
-sarvatulyā sitā yojyā madhunā loḍitaṃ lihet |  
-palārdhamanupānaṃ syāttataḥ peyaṃ gavāṃ payaḥ || 51 ||  
+कोकिलाक्षस्य बीजानि मज्जा कार्पासबीजजा ।  
+शतावरी च रम्भायाः फलं सर्वं समं भवेत् ॥ ५० ॥  
 
 
-kāminīnāṃ sahasraikaṃ ramate kāmadevavat |  
+सर्वतुल्या सिता योज्या मधुना लोडितं लिहेत् ।  
+पलार्धमनुपानं स्यात्ततः पेयं गवां पयः ॥ ५१ ॥  
+
+
+कामिनीनां सहस्रैकं रमते कामदेववत् ।  
 
 
  वाजीकरो मदनकामो रसः ।
@@ -3139,37 +3138,37 @@ kāminīnāṃ sahasraikaṃ ramate kāmadevavat |
 कर्षद्वयं गवां क्षीरैरनुपानैः सदा पिबेत् ।  
 
 
- vājīkarā abhrakayogāḥ |
+ वाजीकरा अभ्रकयोगाः ।
 
-niṣkaikaṃ māritaṃ cābhraṃ khādeccharkarayā samam || 64 ||  
-
-
-śālmalīmūlacūrṇaṃ tu mṛṅgarājasya mūlakam |  
-palaikaṃ sitayā cānu seveta kāminīśatam || 65 ||  
+निष्कैकं मारितं चाभ्रं खादेच्छर्करया समम् ॥ ६४ ॥  
 
 
-vānarīkokilākṣasya bījāni tilamāṣakāḥ |  
-vāsāgokṣurayormūlaṃ sarvaṃ cūrṇaṃ samaṃ bhavet || 66 ||  
+शाल्मलीमूलचूर्णं तु मृङ्गराजस्य मूलकम् ।  
+पलैकं सितया चानु सेवेत कामिनीशतम् ॥ ६५ ॥  
 
 
-cūrṇatulyaṃ mṛtaṃ cābhraṃ sarvatulyā tu śarkarā |  
-etatkarṣaṃ gavāṃ kṣīraiḥ pibet kāmāṅganāyakaḥ || 67 ||  
+वानरीकोकिलाक्षस्य बीजानि तिलमाषकाः ।  
+वासागोक्षुरयोर्मूलं सर्वं चूर्णं समं भवेत् ॥ ६६ ॥  
 
 
-tailena pakvaṃ caṭakaṃ khādetpūrvaṃ tu bhojanāt |  
-bhojanānte pibetkṣīraṃ rāmāṇāṃ ramayecchatam || 68 ||  
+चूर्णतुल्यं मृतं चाभ्रं सर्वतुल्या तु शर्करा ।  
+एतत्कर्षं गवां क्षीरैः पिबेत् कामाङ्गनायकः ॥ ६७ ॥  
 
 
-aśvagandhāśatāvaryoḥ śālmalyāścitrakasya ca |  
-mūlaṃ muśalijaṃ kandaṃ kokilākṣasya bījakam || 69 ||  
+तैलेन पक्वं चटकं खादेत्पूर्वं तु भोजनात् ।  
+भोजनान्ते पिबेत्क्षीरं रामाणां रमयेच्छतम् ॥ ६८ ॥  
 
 
-vidārīpadminīkandaṃ vānarībījakaṃ samam |  
-etaccūrṇaṃ mṛtābhraṃ tu tulyaṃ śarkarayā samam || 70 ||  
+अश्वगन्धाशतावर्योः शाल्मल्याश्चित्रकस्य च ।  
+मूलं मुशलिजं कन्दं कोकिलाक्षस्य बीजकम् ॥ ६९ ॥  
 
 
-palārdhaṃ pāyayetkṣīraiḥ khādetkukkuṭamāṃsakam |  
-kṣīrapānaṃ tataḥ kṛtvā ramayetkāminīśatam || 71 ||  
+विदारीपद्मिनीकन्दं वानरीबीजकं समम् ।  
+एतच्चूर्णं मृताभ्रं तु तुल्यं शर्करया समम् ॥ ७० ॥  
+
+
+पलार्धं पाययेत्क्षीरैः खादेत्कुक्कुटमांसकम् ।  
+क्षीरपानं ततः कृत्वा रमयेत्कामिनीशतम् ॥ ७१ ॥  
 
 
  वाजीकरो धात्रीलोहः ।
@@ -3185,20 +3184,20 @@ kṣīrapānaṃ tataḥ kṛtvā ramayetkāminīśatam || 71 ||
 धात्रीलोहप्रभावेन रमयेत् कामिनीशतम् ।  
 
 
- vājīkaraḥ punarnavādiyogaḥ |
+ वाजीकरः पुनर्नवादियोगः ।
 
-punarnavā nāga \[\] balā vājigandhā śatāvarī || 74 ||  
-
-
-gokṣuraṃ muśalīkandaṃ mṛtaṃ sūtaṃ samaṃ samam |  
-cūrṇaṃ madhvājyasaṃyuktaṃ niṣkaṃ bhuktvā pibetpayaḥ || 75 ||  
+पुनर्नवा नाग \[\] बला वाजिगन्धा शतावरी ॥ ७४ ॥  
 
 
-taṇḍulaṃ vānarībījaṃ cūrṇayetsitayā samam |  
-āloḍayedgavāṃ kṣīraistena pacyādapūpikām || 76 ||  
+गोक्षुरं मुशलीकन्दं मृतं सूतं समं समम् ।  
+चूर्णं मध्वाज्यसंयुक्तं निष्कं भुक्त्वा पिबेत्पयः ॥ ७५ ॥  
 
 
-tāṃ ghṛtairbhakṣayeccānu ramayetkāminīkulam |  
+तण्डुलं वानरीबीजं चूर्णयेत्सितया समम् ।  
+आलोडयेद्गवां क्षीरैस्तेन पच्यादपूपिकाम् ॥ ७६ ॥  
+
+
+तां घृतैर्भक्षयेच्चानु रमयेत्कामिनीकुलम् ।  
 
 
  वाजीकरो वटकः ।
@@ -3214,10 +3213,10 @@ tāṃ ghṛtairbhakṣayeccānu ramayetkāminīkulam |
 क्षीरं सितां चानुपिबेद्रामाणां रमते शतम् ॥ ७९ ॥  
 
 +++(“धात्रीफलं” ख। ।)+++
- vājīkaro vālukāmatsyayogaḥ |
+ वाजीकरो वालुकामत्स्ययोगः ।
 
-vālukāsambhavaṃ matsyaṃ supakvaṃ bhakṣayedghṛtaiḥ |  
-ṣaṇḍho'pi jāyate kāmī vīryastambhaḥ prajāyate || 80 ||  
+वालुकासम्भवं मत्स्यं सुपक्वं भक्षयेद्घृतैः ।  
+षण्ढोऽपि जायते कामी वीर्यस्तम्भः प्रजायते ॥ ८० ॥  
 
 
  वाजीकरो नाभिलेपः ।
@@ -3229,13 +3228,13 @@ vālukāsambhavaṃ matsyaṃ supakvaṃ bhakṣayedghṛtaiḥ |
 स्वयमग्निरसं चात्र त्रिनिष्कं भक्षयेत्सदा ।  
 
 
- vājīkaro māṣayogaḥ |
+ वाजीकरो माषयोगः ।
 
-ghṛtāktā dalitā māṣā kṣīreṇa saha pācitāḥ || 82 ||  
+घृताक्ता दलिता माषा क्षीरेण सह पाचिताः ॥ ८२ ॥  
 
 
-sitājyasaṃyutā bhakṣyā vīryavṛddhikarā hyalam |  
-kṣaṇe kṣaṇe bhajedrāmāṃ yathā pārāvato dhruvam || 83 ||  
+सिताज्यसंयुता भक्ष्या वीर्यवृद्धिकरा ह्यलम् ।  
+क्षणे क्षणे भजेद्रामां यथा पारावतो ध्रुवम् ॥ ८३ ॥  
 
 
  कामेश्वर मोदकः ।
@@ -3282,38 +3281,38 @@ kṣaṇe kṣaṇe bhajedrāmāṃ yathā pārāvato dhruvam || 83 ||
 तेषां प्रगल्भाः प्रमदाश्च सर्वा भवन्ति तृप्ताः सुरतप्रसङ्गे ॥ १ ॥  
 
 
- vīryastambhakarī brahmāṇḍaguṭikā |
+ वीर्यस्तम्भकरी ब्रह्माण्डगुटिका ।
 
-nāgavallīdaladrāvaiḥ saptāhaṃ śuddhapāradam |  
-mardayettaptakhalve tu kṣālayetkāñjikaistataḥ || 2 ||  
-
-
-tatkṣipedviṣakandasya garbhe niṣkacatuṣṭayam |  
-viṣeṇa tanmukhaṃ ruddhvā sthūlavārāhamāṃsake || 3 ||  
+नागवल्लीदलद्रावैः सप्ताहं शुद्धपारदम् ।  
+मर्दयेत्तप्तखल्वे तु क्षालयेत्काञ्जिकैस्ततः ॥ २ ॥  
 
 
-piṇḍaṃ garbhe nirundhyātha mukhaṃ sūtreṇa sīvayet |  
-sandhyākāle baliṃ dattvā kukkuṭaṃ madirāyutam || 4 ||  
+तत्क्षिपेद्विषकन्दस्य गर्भे निष्कचतुष्टयम् ।  
+विषेण तन्मुखं रुद्ध्वा स्थूलवाराहमांसके ॥ ३ ॥  
 
 
-tataścūllyāṃ lohapātre taile dhattūrasambhave |  
-taṃ viṃśatipale pacyātsapiṇḍaṃ mandavahninā || 5 ||  
+पिण्डं गर्भे निरुन्ध्याथ मुखं सूत्रेण सीवयेत् ।  
+सन्ध्याकाले बलिं दत्त्वा कुक्कुटं मदिरायुतम् ॥ ४ ॥  
 
 
-sandhyāmārabhya yatnena yāvatsūryodayaṃ tathā |  
-haṭhājjāgaraṇaṃ kuryādanyathā tanna sidhyati || 6 ||  
+ततश्चूल्ल्यां लोहपात्रे तैले धत्तूरसम्भवे ।  
+तं विंशतिपले पच्यात्सपिण्डं मन्दवह्निना ॥ ५ ॥  
 
 
-prātaruddhṛtya guṭikāṃ kṣīrabhāṇḍe vinikṣipet |  
-tatkṣīraṃ śuṣyati kṣiprametatpratyayamadbhutam || 7 ||  
+सन्ध्यामारभ्य यत्नेन यावत्सूर्योदयं तथा ।  
+हठाज्जागरणं कुर्यादन्यथा तन्न सिध्यति ॥ ६ ॥  
 
 
-dṛṣṭvā tāṃ dhārayedvaktre vīryastambhakarīṃ ratau |  
-+++(“mama dṛṣṭapratyayakaro” kha. |)+++kṣīraṃ pītvā ramedrāmāḥ kāmākulakalānvitāḥ || 8 ||  
+प्रातरुद्धृत्य गुटिकां क्षीरभाण्डे विनिक्षिपेत् ।  
+तत्क्षीरं शुष्यति क्षिप्रमेतत्प्रत्ययमद्भुतम् ॥ ७ ॥  
 
 
-mukhāddhastaṃ yadā prāptā tadā vīryaṃ patatyalam |  
-brahmāṇḍaguṭikā nāma śoṣayantī mahodadhim || 9 ||  
+दृष्ट्वा तां धारयेद्वक्त्रे वीर्यस्तम्भकरीं रतौ ।  
++++(“मम दृष्टप्रत्ययकरो” ख। ।)+++क्षीरं पीत्वा रमेद्रामाः कामाकुलकलान्विताः ॥ ८ ॥  
+
+
+मुखाद्धस्तं यदा प्राप्ता तदा वीर्यं पतत्यलम् ।  
+ब्रह्माण्डगुटिका नाम शोषयन्ती महोदधिम् ॥ ९ ॥  
 
 
  वीर्यस्तम्भकरो लिङ्गलेपः ।
@@ -3326,10 +3325,10 @@ brahmāṇḍaguṭikā nāma śoṣayantī mahodadhim || 9 ||
 नरो नारीसहस्रैकं गच्छन् वीर्यं न मुञ्चति ॥ ११ ॥  
 
 
- vīryastambhakaro dīpaḥ |
+ वीर्यस्तम्भकरो दीपः ।
 
-śvetārkatūlajāṃ varttiṃ kṛtvā sūkaramedasā |  
-yāvajjvalati dīpo'yaṃ tāvadvīryaṃ sthiraṃ nṛṇām || 12 ||  
+श्वेतार्कतूलजां वर्त्तिं कृत्वा सूकरमेदसा ।  
+यावज्ज्वलति दीपोऽयं तावद्वीर्यं स्थिरं नृणाम् ॥ १२ ॥  
 
 
  वीर्यस्तम्भकरी इन्द्रवारुणिकामूलाद्या वटीः ।
@@ -3342,10 +3341,10 @@ yāvajjvalati dīpo'yaṃ tāvadvīryaṃ sthiraṃ nṛṇām || 12 ||
 वरमङ्कोलतैलेन नाभिलेपोऽपि वीर्यधृक् ॥ १४ ॥  
 
 
- vīryastambhārthaṃ raktāpāmārgamūlayogaḥ |
+ वीर्यस्तम्भार्थं रक्तापामार्गमूलयोगः ।
 
-raktāpāmārgamūlaṃ tu somavāre'bhimantrayet |  
-bhaume prāptaḥ samuddhṛtya bandhetkaṭyāṃ ca vīryadhṛk || 15 ||  
+रक्तापामार्गमूलं तु सोमवारेऽभिमन्त्रयेत् ।  
+भौमे प्राप्तः समुद्धृत्य बन्धेत्कट्यां च वीर्यधृक् ॥ १५ ॥  
 
 
  वीर्यस्तम्भकरः पादलेपः ।
@@ -3354,13 +3353,13 @@ bhaume prāptaḥ samuddhṛtya bandhetkaṭyāṃ ca vīryadhṛk || 15 ||
 न मुञ्चति नरो वीर्यं शय्यां पादेन न स्पृशेत् ॥ १६ ॥  
 
 
- vīryastambhārthaṃ kaṭyāṃ sarpāsthidhāraṇayogaḥ |
+ वीर्यस्तम्भार्थं कट्यां सर्पास्थिधारणयोगः ।
 
-ḍuṇḍubho nāma yaḥ sarpaḥ kṛṣṇavarṇastamāharet |  
-tasyāsthi dhārayetkaṭyāṃ naro vīryaṃ na muñcati || 17 ||  
+डुण्डुभो नाम यः सर्पः कृष्णवर्णस्तमाहरेत् ।  
+तस्यास्थि धारयेत्कट्यां नरो वीर्यं न मुञ्चति ॥ १७ ॥  
 
 
-tanmukte muñcate vīryaṃ siddhayoga udāhṛtaḥ |  
+तन्मुक्ते मुञ्चते वीर्यं सिद्धयोग उदाहृतः ।  
 
 
  वीर्यस्तम्भकरो नाभिलेपः ।
@@ -3371,13 +3370,13 @@ tanmukte muñcate vīryaṃ siddhayoga udāhṛtaḥ |
 पिष्ट्वा मध्वाज्यसंयुक्तो लेपो नाभौ तु वीर्यधृक् ।  
 
 
- vīryastambhakarī kokilākṣādivaṭī |
+ वीर्यस्तम्भकरी कोकिलाक्षादिवटी ।
 
-śvetasya kokilākṣasya bījaṃ mūlaṃ samāharet || 19 ||  
+श्वेतस्य कोकिलाक्षस्य बीजं मूलं समाहरेत् ॥ १९ ॥  
 
 
-piṣṭaṃ taṇḍulasambhūtaṃ badarīṇāṃ phalaṃ samam |  
-jalaiḥ piṣṭvā vaṭī dhāryā vīryastambhakarī mukhe || 20 ||  
+पिष्टं तण्डुलसम्भूतं बदरीणां फलं समम् ।  
+जलैः पिष्ट्वा वटी धार्या वीर्यस्तम्भकरी मुखे ॥ २० ॥  
 
 
  वीर्यस्तम्भकरो नाभिलेपः ।
@@ -3386,10 +3385,10 @@ jalaiḥ piṣṭvā vaṭī dhāryā vīryastambhakarī mukhe || 20 ||
 तन्नाभौ वीर्यधृक् पुंसां मूलं वा तुलसीभवम् ॥ २१ ॥  
 
 
- vīryastabhakaro rdīpaḥ |
+ वीर्यस्तभकरो र्दीपः ।
 
-mūlena śvetaguñjāyā vartiṃ kṛtvā pradīpayet |  
-dīpaṃ sū \[\] karatailena vīryastambhakaraṃ nṛṇām || 22 ||  
+मूलेन श्वेतगुञ्जाया वर्तिं कृत्वा प्रदीपयेत् ।  
+दीपं सू \[\] करतैलेन वीर्यस्तम्भकरं नृणाम् ॥ २२ ॥  
 
 
  वीर्यस्तम्भकरी वटिका ।
@@ -3401,12 +3400,12 @@ dīpaṃ sū \[\] karatailena vīryastambhakaraṃ nṛṇām || 22 ||
 जिह्वोपरि स्थिते तस्मिन्नरो वीर्यं न मुञ्चति ।  
 
 
- vīryastambhārthaṃ śleṣmātakādiyogaḥ |
+ वीर्यस्तम्भार्थं श्लेष्मातकादियोगः ।
 
-śleṣmātasya kuraṇṭasya bījaṃ phañjyāḥ samāharet || 24 ||  
+श्लेष्मातस्य कुरण्टस्य बीजं फञ्ज्याः समाहरेत् ॥ २४ ॥  
 
 
-ajākṣīreṇa taṃ piṣṭvā karṣaṃ bhuktvā tu vīryadhṛk |  
+अजाक्षीरेण तं पिष्ट्वा कर्षं भुक्त्वा तु वीर्यधृक् ।  
 
 
  वीर्यस्तम्भार्थं सूरणादियोगः ।
@@ -3417,13 +3416,13 @@ ajākṣīreṇa taṃ piṣṭvā karṣaṃ bhuktvā tu vīryadhṛk |
 न मुञ्चति नरो वीर्यं कर्षैकेन पृथक्पृथक् ।  
 
 
- vīryastambhārthaṃ mārjāranakhādibandhanam |
+ वीर्यस्तम्भार्थं मार्जारनखादिबन्धनम् ।
 
-nakhāsthīni samādāya mārjārasya sitasya vai || 26 ||  
+नखास्थीनि समादाय मार्जारस्य सितस्य वै ॥ २६ ॥  
 
 
-śvetāparājitāmūlaṃ nīlīmūlaṃ śmaśānajam |  
-sarvaṃ baddhvā kaṭau vīryaṃ cirakālaṃ na muñcati || 27 ||  
+श्वेतापराजितामूलं नीलीमूलं श्मशानजम् ।  
+सर्वं बद्ध्वा कटौ वीर्यं चिरकालं न मुञ्चति ॥ २७ ॥  
 
 
  वीर्यस्तम्भकरः पादलेपः ।
@@ -3439,20 +3438,20 @@ sarvaṃ baddhvā kaṭau vīryaṃ cirakālaṃ na muñcati || 27 ||
 भावयेत्तेन लेपेन नरो वीर्यं न मुञ्चति ।  
 
 
- vīryastambhakaro liṅgalepaḥ |
+ वीर्यस्तम्भकरो लिङ्गलेपः ।
 
-dāṇḍimasya tvacaścūrṇaṃ phalaṃ bhallātakākṣayoḥ || 30 ||  
-
-
-piṣṭvā tatkaṭutailena lepaḥ syātpūrvavatphalam |  
-karpūraṃ ṭaṅkaṇaṃ sūtaṃ munipuṣparasaṃ madhu || 31 ||  
+दाण्डिमस्य त्वचश्चूर्णं फलं भल्लातकाक्षयोः ॥ ३० ॥  
 
 
-mardayitvā lipettena liṅgaṃ yāvatsamantataḥ |  
-jalaiḥ prakṣālayelliṅgaṃ bhajedrāmāṃ yathocitām || 32 ||  
+पिष्ट्वा तत्कटुतैलेन लेपः स्यात्पूर्ववत्फलम् ।  
+कर्पूरं टङ्कणं सूतं मुनिपुष्परसं मधु ॥ ३१ ॥  
 
 
-vīryaṃ stambhayate puṃsāṃ yāmamātraṃ na saṃśayaḥ |  
+मर्दयित्वा लिपेत्तेन लिङ्गं यावत्समन्ततः ।  
+जलैः प्रक्षालयेल्लिङ्गं भजेद्रामां यथोचिताम् ॥ ३२ ॥  
+
+
+वीर्यं स्तम्भयते पुंसां याममात्रं न संशयः ।  
 
 
  वीर्यस्तम्भार्थं कट्यां पारदगुटिकाधारणम् ।
@@ -3463,16 +3462,16 @@ vīryaṃ stambhayate puṃsāṃ yāmamātraṃ na saṃśayaḥ |
 त्रिलोहैर्वेष्टितं बद्धं तत्कट्यां वीर्यधारकम् ।  
 
 
- vīryastambhārthaṃ pāradādiyogaḥ |
+ वीर्यस्तम्भार्थं पारदादियोगः ।
 
-sūtaṃ svarṇaṃ vyomasattvaṃ tāraṃ tāmraṃ ca rocanam || 34 ||  
-
-
-bījaṃ vai śarapuṅkhāyāḥ kṛṣṇadhattūrabījakam |  
-sarvaṃ mardyaṃ vaṭakṣīraiḥ kuberākṣasya bījake || 35 ||  
+सूतं स्वर्णं व्योमसत्त्वं तारं ताम्रं च रोचनम् ॥ ३४ ॥  
 
 
-tatkṣiptvā dhārayedvaktre vīryastambhakaraṃ ciram |  
+बीजं वै शरपुङ्खायाः कृष्णधत्तूरबीजकम् ।  
+सर्वं मर्द्यं वटक्षीरैः कुबेराक्षस्य बीजके ॥ ३५ ॥  
+
+
+तत्क्षिप्त्वा धारयेद्वक्त्रे वीर्यस्तम्भकरं चिरम् ।  
 
 
  वीर्यस्तम्भार्थं हस्ते मुद्रिकाधारणम् ।
@@ -3484,13 +3483,13 @@ tatkṣiptvā dhārayedvaktre vīryastambhakaraṃ ciram |
 वामहस्ते कनिष्ठायां नरो वीर्यं न मुञ्चति ॥ ३७ ॥  
 
 
- vīryastambhārthaṃ sthalamīnayogaḥ |
+ वीर्यस्तम्भार्थं स्थलमीनयोगः ।
 
-sthalamīnaṃ samādāya śuṣkaṃ cūrṇena lepayet |  
-ulliptaṃ rakṣayetkiñcidvaktre dhāryaśca vīryadhṛk || 38 ||  
+स्थलमीनं समादाय शुष्कं चूर्णेन लेपयेत् ।  
+उल्लिप्तं रक्षयेत्किञ्चिद्वक्त्रे धार्यश्च वीर्यधृक् ॥ ३८ ॥  
 
 
-paścimasamudrasya taṭe amaracaṇḍeśvaro nāma devatāyatanaṃ, tasyāpre vālukāmadhye sthalamīnāstiṣṭhanti, te ca vālukāmīnāḥ kathyante ||
+पश्चिमसमुद्रस्य तटे अमरचण्डेश्वरो नाम देवतायतनं, तस्याप्रे वालुकामध्ये स्थलमीनास्तिष्ठन्ति, ते च वालुकामीनाः कथ्यन्ते ॥
 
  वनिताद्रावणार्थं जलौकायोगाः ।
 
@@ -3562,842 +3561,842 @@ paścimasamudrasya taṭe amaracaṇḍeśvaro nāma devatāyatanaṃ, tasyāpre
 पूर्ववत्क्रमयोगेन वीर्यस्तम्भकरी भवेत् ॥ ५५ ॥  
 
 
- liṅgavardhanāḥ katipayayogāḥ |
+ लिङ्गवर्धनाः कतिपययोगाः ।
 
-pāradaṃ maricaṃ kuṣṭhaṃ tagaraṃ kaṇṭakārikā |  
-aśvagandhātilakṣaudrasaindhavaśvetasarṣapāḥ || 56 ||  
+पारदं मरिचं कुष्ठं तगरं कण्टकारिका ।  
+अश्वगन्धातिलक्षौद्रसैन्धवश्वेतसर्षपाः ॥ ५६ ॥  
 
 
-apāmārgo yavā māṣāḥ pippalī ca samaṃ jalaiḥ |  
-piṣṭvā vimardayettena liṅgaṃ māsamaharniśam || 57 ||  
+अपामार्गो यवा माषाः पिप्पली च समं जलैः ।  
+पिष्ट्वा विमर्दयेत्तेन लिङ्गं मासमहर्निशम् ॥ ५७ ॥  
 
 
-vardhate hastamātraṃ tatsthaulyena muśalopamam |  
-varāhavasayā kṣaudrairliṅgaṃ māsaṃ vilepayet || 58 ||  
+वर्धते हस्तमात्रं तत्स्थौल्येन मुशलोपमम् ।  
+वराहवसया क्षौद्रैर्लिङ्गं मासं विलेपयेत् ॥ ५८ ॥  
 
 
-atidīrghaṃ dṛḍhaṃ sthūlaṃ jāyate nātra saṃśayaḥ |  
-aśvagandhā vacā kuṣṭhaṃ bṛhatī ca śatāvarī || 59 ||  
+अतिदीर्घं दृढं स्थूलं जायते नात्र संशयः ।  
+अश्वगन्धा वचा कुष्ठं बृहती च शतावरी ॥ ५९ ॥  
 
 
-pācayettilatailena mardayettena pūrvavat |  
-liṅgaṃ sthūlaṃ dṛḍhaṃ dīrghaṃ māsamātrātprajāyate || 60 ||  
+पाचयेत्तिलतैलेन मर्दयेत्तेन पूर्ववत् ।  
+लिङ्गं स्थूलं दृढं दीर्घं मासमात्रात्प्रजायते ॥ ६० ॥  
 
 
-jambūsūkarajaṃ tailaṃ mahārāṣṭrī ca ṭaṅkaṇam |  
-madhunā saha lepo'yaṃ māsālliṅgasya vṛddhikṛt || 61 ||  
+जम्बूसूकरजं तैलं महाराष्ट्री च टङ्कणम् ।  
+मधुना सह लेपोऽयं मासाल्लिङ्गस्य वृद्धिकृत् ॥ ६१ ॥  
 
 
-miśritaṃ muśalīcūrṇaṃ māhiṣairnavanītakaiḥ |  
-tadbhāṇḍaṃ dhānyarāśau ca sthitaṃ saptadinairharet || 62 ||  
+मिश्रितं मुशलीचूर्णं माहिषैर्नवनीतकैः ।  
+तद्भाण्डं धान्यराशौ च स्थितं सप्तदिनैर्हरेत् ॥ ६२ ॥  
 
 
-tena pralepayelliṅgaṃ vardhate māsamātrataḥ |  
-pippalī maricaṃ kṣīraṃ sitā tulyaṃ vimardayet || 63 ||  
+तेन प्रलेपयेल्लिङ्गं वर्धते मासमात्रतः ।  
+पिप्पली मरिचं क्षीरं सिता तुल्यं विमर्दयेत् ॥ ६३ ॥  
 
 
-māsaikaṃ vṛddhikṛlliṅge nātra kāryā vicāraṇā |  
-māhiṣaṃ goghṛtaṃ tulyaṃ saindha \[\] vaṃ ca samaṃ samam || 64 ||  
+मासैकं वृद्धिकृल्लिङ्गे नात्र कार्या विचारणा ।  
+माहिषं गोघृतं तुल्यं सैन्ध \[\] वं च समं समम् ॥ ६४ ॥  
 
 
-anena lepayelliṅgaṃ sthūlaṃ syānmāsamātrataḥ |  
-aśvagandhāpamārgau ca sārivā'kṣaphalaṃ tilāḥ || 65 ||  
+अनेन लेपयेल्लिङ्गं स्थूलं स्यान्मासमात्रतः ।  
+अश्वगन्धापमार्गौ च सारिवाऽक्षफलं तिलाः ॥ ६५ ॥  
 
 
-sarṣapendrayavaṃ tulyamajākṣīreṇa peṣayet |  
-tena liṅgaṃ tu māsaikaṃ mardanādvṛddhimāpnuyāt || 66 ||  
+सर्षपेन्द्रयवं तुल्यमजाक्षीरेण पेषयेत् ।  
+तेन लिङ्गं तु मासैकं मर्दनाद्वृद्धिमाप्नुयात् ॥ ६६ ॥  
 
 
-māṃsīmakṣaphalaṃ kuṣṭhamaśvagandhāṃ śatāvarīm |  
-taile paktvā pralepo'yaṃ māsālliṅgasya vṛddhikṛt || 67 ||  
+मांसीमक्षफलं कुष्ठमश्वगन्धां शतावरीम् ।  
+तैले पक्त्वा प्रलेपोऽयं मासाल्लिङ्गस्य वृद्धिकृत् ॥ ६७ ॥  
 
-+++(“śaivālaṃ” ka. |)+++
-rohītamatsyajaṃ pittaṃ jalaukā lāṅgalī samam |  
-anena lepayelliṅgaṃ syānmāsānmuśalopamam || 68 ||  
++++(“शैवालं” क। ।)+++
+रोहीतमत्स्यजं पित्तं जलौका लाङ्गली समम् ।  
+अनेन लेपयेल्लिङ्गं स्यान्मासान्मुशलोपमम् ॥ ६८ ॥  
 
 
-niśā sitā'śvagandhā ca pāradaṃ mardayetsamam |  
-anena mardayelliṅgaṃ yonikarṇastanāṃstathā |  
-vardhante māsamātreṇa nātra kāryā vicāraṇā || 69 ||  
+निशा सिताऽश्वगन्धा च पारदं मर्दयेत्समम् ।  
+अनेन मर्दयेल्लिङ्गं योनिकर्णस्तनांस्तथा ।  
+वर्धन्ते मासमात्रेण नात्र कार्या विचारणा ॥ ६९ ॥  
 
 
-“oṃṃ namo bhagavate uḍḍāmareśvarāya sara prasara 2 kuru kuru ṭha ṭhaḥ |” anena mantreṇa sarve vardhanayogāḥ saptābhimantritāḥ siddhā bhavanti ||
+“ॐं नमो भगवते उड्डामरेश्वराय सर प्रसर २ कुरु कुरु ठ ठः ।” अनेन मन्त्रेण सर्वे वर्धनयोगाः सप्ताभिमन्त्रिताः सिद्धा भवन्ति ॥
 
-jāmbūmārjārayoḥ pittaṃ yavāgūmarditaṃ dihet |  
-māsaikādvardhate liṅgaṃ stanau karṇau ca mardanāt || 70 ||  
+जाम्बूमार्जारयोः पित्तं यवागूमर्दितं दिहेत् ।  
+मासैकाद्वर्धते लिङ्गं स्तनौ कर्णौ च मर्दनात् ॥ ७० ॥  
 
 
-“oṃṃ namo bhagavate uḍḍāmareśvarāya sara prasara prasara nikala nikala nikālaya nikālaya svāhā ṭhaḥ ṭhaḥ ||”
+“ॐं नमो भगवते उड्डामरेश्वराय सर प्रसर प्रसर निकल निकल निकालय निकालय स्वाहा ठः ठः ॥”
 
-gṛhagodhā śuno jihvā strījarāyuḥ samaṃ samam |  
-piṣṭvā dhāryaṃ tāmrapātre saptāhāttaṃ punaḥ pacet || 71 ||  
+गृहगोधा शुनो जिह्वा स्त्रीजरायुः समं समम् ।  
+पिष्ट्वा धार्यं ताम्रपात्रे सप्ताहात्तं पुनः पचेत् ॥ ७१ ॥  
 
 
-tilatailena tattailamardanādvardhate khalu |  
-liṅgaṃ stanau ca karṇau ca hastau pādau na saṃśayaḥ || 72 ||  
+तिलतैलेन तत्तैलमर्दनाद्वर्धते खलु ।  
+लिङ्गं स्तनौ च कर्णौ च हस्तौ पादौ न संशयः ॥ ७२ ॥  
 
 
-“oṃṃ namo bhagavate uḍḍāmareśvarāya sara sara hili hili svāhā ṭhaḥ ṭhaḥ ||”
+“ॐं नमो भगवते उड्डामरेश्वराय सर सर हिलि हिलि स्वाहा ठः ठः ॥”
 
-atitarasukhasādhyairyogarājaiḥ prasiddhaiḥ  
-satatasuratayogyaṃ stambhanaṃ vardhanaṃ ca |  
-nipuṇarasikarāmārañjakaṃ mohakaṃ syā-  
-dgaditamiha samastaṃ bhogināṃ saukhyahetuḥ || 73 ||  
+अतितरसुखसाध्यैर्योगराजैः प्रसिद्धैः  
+सततसुरतयोग्यं स्तम्भनं वर्धनं च ।  
+निपुणरसिकरामारञ्जकं मोहकं स्या-  
+द्गदितमिह समस्तं भोगिनां सौख्यहेतुः ॥ ७३ ॥  
 
 
-iti pārvatīputraśrīnityanāthasiddhaviracite rasaratnākare rasāyanakhaṇḍe vīryastambhanaliṅgavardhanaṃ nāma saptamopadeśaḥ ||
+इति पार्वतीपुत्रश्रीनित्यनाथसिद्धविरचिते रसरत्नाकरे रसायनखण्डे वीर्यस्तम्भनलिङ्गवर्धनं नाम सप्तमोपदेशः ॥
 
-# athāṣṭamopadeśaḥ |
+# अथाष्टमोपदेशः ।
 
-śrīśaile dehasiddhiḥ prabhavati sahasā vṛkṣamṛtkandatoyai-  
-stacchāstraṃ śambhunoktaṃ pragahanamakhilaṃ vīkṣitaṃ yattu sāram |  
-vyāhṛtyānekayuktyā sakalasukhakaraṃ dṛṣṭasiddhaṃ tu yadya-  
-ttadvakṣye sādhakānāmanubhavapathagaṃ bhuktaye muktaye ca || 1 ||  
+श्रीशैले देहसिद्धिः प्रभवति सहसा वृक्षमृत्कन्दतोयै-  
+स्तच्छास्त्रं शम्भुनोक्तं प्रगहनमखिलं वीक्षितं यत्तु सारम् ।  
+व्याहृत्यानेकयुक्त्या सकलसुखकरं दृष्टसिद्धं तु यद्य-  
+त्तद्वक्ष्ये साधकानामनुभवपथगं भुक्तये मुक्तये च ॥ १ ॥  
 
 
-mallikārjunadevasya purato gajasannibhā |  
-śilā tiṣṭhati yā rātrau sravate gugguluṃ sadā || 2 ||  
+मल्लिकार्जुनदेवस्य पुरतो गजसन्निभा ।  
+शिला तिष्ठति या रात्रौ स्रवते गुग्गुलुं सदा ॥ २ ॥  
 
 
-pālāśacāṭunā grāhyaṃ kṣipedalābupātrake |  
-tadguggulusamaṃ gandhaṃ niṣkaikaṃ bhakṣayetsadā || 3 ||  
+पालाशचाटुना ग्राह्यं क्षिपेदलाबुपात्रके ।  
+तद्गुग्गुलुसमं गन्धं निष्कैकं भक्षयेत्सदा ॥ ३ ॥  
 
 
-māsānmṛtyujarāṃ hanti jīvedācandratārakam |  
-tadgugguluṃ drute tāmre koṭibhāgena yojayet || 4 ||  
+मासान्मृत्युजरां हन्ति जीवेदाचन्द्रतारकम् ।  
+तद्गुग्गुलुं द्रुते ताम्रे कोटिभागेन योजयेत् ॥ ४ ॥  
 
 
-tadbhavetkanakaṃ divyaṃ jāmbūnadasamaprabham |  
-vāmato mallināthasya ghaṇṭāsiddheśvaraḥ sthitaḥ || 5 ||  
+तद्भवेत्कनकं दिव्यं जाम्बूनदसमप्रभम् ।  
+वामतो मल्लिनाथस्य घण्टासिद्धेश्वरः स्थितः ॥ ५ ॥  
 
 
-taddvāre vidyate kuṇḍaṃ tatra ghaṇṭā vilambate |  
-rātrau kṛṣṇacaturdaśyāṃ sopavāsaistribhirjanaiḥ || 6 ||  
+तद्द्वारे विद्यते कुण्डं तत्र घण्टा विलम्बते ।  
+रात्रौ कृष्णचतुर्दश्यां सोपवासैस्त्रिभिर्जनैः ॥ ६ ॥  
 
 
-kartavyaṃ sādhanaṃ tatra nirvikalpairanidritaiḥ |  
-ekastu snāpayeddevaṃ jalamekastu vāhayet || 7 ||  
+कर्तव्यं साधनं तत्र निर्विकल्पैरनिद्रितैः ।  
+एकस्तु स्नापयेद्देवं जलमेकस्तु वाहयेत् ॥ ७ ॥  
 
 
-ekastu vādayeddhaṇṭāmavicchinnaṃ niśāvadhi |  
-tatastuṣṭo bhavecchambhuḥ kheracatvaṃ prayacchati || 8 ||  
+एकस्तु वादयेद्धण्टामविच्छिन्नं निशावधि ।  
+ततस्तुष्टो भवेच्छम्भुः खेरचत्वं प्रयच्छति ॥ ८ ॥  
 
 
-ghaṇṭāsiddheśvarasyaiva dakṣiṇe krośamā \[\] trake |  
-nikhaneddṛśyate tatra mṛdgorocanasannibhā || 9 ||  
+घण्टासिद्धेश्वरस्यैव दक्षिणे क्रोशमा \[\] त्रके ।  
+निखनेद्दृश्यते तत्र मृद्गोरोचनसन्निभा ॥ ९ ॥  
 
 
-sitākṣīraiḥ pibetkarṣaṃ saptāhādamaro bhavet |  
-candrodakaṃ prasiddhaṃ vai mallināthasya paścime || 10 ||  
+सिताक्षीरैः पिबेत्कर्षं सप्ताहादमरो भवेत् ।  
+चन्द्रोदकं प्रसिद्धं वै मल्लिनाथस्य पश्चिमे ॥ १० ॥  
 
 
-sthitaṃ vaiśākhamāse tu pūrṇamāsyāṃ susādhayet |  
-sādhako nirvikalpena sthitvā tasya samīpataḥ || 11 ||  
+स्थितं वैशाखमासे तु पूर्णमास्यां सुसाधयेत् ।  
+साधको निर्विकल्पेन स्थित्वा तस्य समीपतः ॥ ११ ॥  
 
 
-rātrau japaṃ prakurvāṇastattoyaṃ cārdharātrake |  
-spraṣṭuṃ candro yadā gacchettadā kṣipraṃ karāñjalim || 12 ||  
+रात्रौ जपं प्रकुर्वाणस्तत्तोयं चार्धरात्रके ।  
+स्प्रष्टुं चन्द्रो यदा गच्छेत्तदा क्षिप्रं कराञ्जलिम् ॥ १२ ॥  
 
 
-kṛtvā tiṣṭhedyadā yāti tajjalaṃ tatkṣaṇātpibet |  
-vajrakāyo bhavedvīro jīvedācandratārakam || 13 ||  
+कृत्वा तिष्ठेद्यदा याति तज्जलं तत्क्षणात्पिबेत् ।  
+वज्रकायो भवेद्वीरो जीवेदाचन्द्रतारकम् ॥ १३ ॥  
 
 
-śrīśailapūrvadvāre tu devo'sti tripurāntakaḥ |  
-devasyottaradigbhāge ciñcāvṛkṣaḥ samīpataḥ || 14 ||  
+श्रीशैलपूर्वद्वारे तु देवोऽस्ति त्रिपुरान्तकः ।  
+देवस्योत्तरदिग्भागे चिञ्चावृक्षः समीपतः ॥ १४ ॥  
 
 
-vidyate tasya mūle tu bhairavo dṛśyate svayam |  
-+++(“jānumātrakam” kha. |)+++tasyāgre nikhanedbhūmiṃ puruṣasya pramāṇataḥ || 15 ||  
+विद्यते तस्य मूले तु भैरवो दृश्यते स्वयम् ।  
++++(“जानुमात्रकम्” ख। ।)+++तस्याग्रे निखनेद्भूमिं पुरुषस्य प्रमाणतः ॥ १५ ॥  
 
 
-dṛśyate taptakuṇḍaṃ tu nīlavarṇajalānvitam |  
-ciñcāvṛkṣasya patrāṇi samyagvastreṇa bandhayet || 16 ||  
+दृश्यते तप्तकुण्डं तु नीलवर्णजलान्वितम् ।  
+चिञ्चावृक्षस्य पत्राणि सम्यग्वस्त्रेण बन्धयेत् ॥ १६ ॥  
 
 
-tasmin kuṇḍe vinikṣipya tāni mīnā bhavanti vai |  
-saṅgṛhya tasya kāṣṭhena pacetteṣāṃ vivarjayet || 17 ||  
+तस्मिन् कुण्डे विनिक्षिप्य तानि मीना भवन्ति वै ।  
+सङ्गृह्य तस्य काष्ठेन पचेत्तेषां विवर्जयेत् ॥ १७ ॥  
 
 
-kaṇṭakāni śiraḥ pucchaṃ śeṣaṃ bhakṣeta sādhakaḥ |  
-kṣaṇaṃ mūrcchā bhavettena prabuddho jāyate svayam || 18 ||  
+कण्टकानि शिरः पुच्छं शेषं भक्षेत साधकः ।  
+क्षणं मूर्च्छा भवेत्तेन प्रबुद्धो जायते स्वयम् ॥ १८ ॥  
 
 
-chidraṃ paśyati medinyāṃ jīvedvarṣāyutaṃ naraḥ |  
-tripurāntakadevasya paścime gavyutidvaye || 19 ||  
+छिद्रं पश्यति मेदिन्यां जीवेद्वर्षायुतं नरः ।  
+त्रिपुरान्तकदेवस्य पश्चिमे गव्युतिद्वये ॥ १९ ॥  
 
 
-maṇipalliriti grāmastasya paścimato giriḥ |  
-tasya paścimadigbhāge kapāṭaṃ dṛśyate śubham || 20 ||  
+मणिपल्लिरिति ग्रामस्तस्य पश्चिमतो गिरिः ।  
+तस्य पश्चिमदिग्भागे कपाटं दृश्यते शुभम् ॥ २० ॥  
 
 
-pūrvābhimukhaḥ praviśettato gacchecca dakṣiṇam |  
-daśadhanvantaraṃ yāvaddṛśyante jvalanaprabhāḥ || 21 ||  
+पूर्वाभिमुखः प्रविशेत्ततो गच्छेच्च दक्षिणम् ।  
+दशधन्वन्तरं यावद्दृश्यन्ते ज्वलनप्रभाः ॥ २१ ॥  
 
 
-āmrākārāḥ supāṣāṇā grāhyā vastreṇa bandhayet |  
-raktavarṇaṃ bhavedvastraṃ kṣīramadhye kṣipettataḥ || 22 ||  
+आम्राकाराः सुपाषाणा ग्राह्या वस्त्रेण बन्धयेत् ।  
+रक्तवर्णं भवेद्वस्त्रं क्षीरमध्ये क्षिपेत्ततः ॥ २२ ॥  
 
 
-tatkṣīraṃ jāyate raktaṃ tatkṣīraṃ sādhakaḥ pibet |  
-saptāhādvajrakāyaḥ syājjīveccandrārkatārakam || 23 ||  
+तत्क्षीरं जायते रक्तं तत्क्षीरं साधकः पिबेत् ।  
+सप्ताहाद्वज्रकायः स्याज्जीवेच्चन्द्रार्कतारकम् ॥ २३ ॥  
 
 
-tripurāntakadevasya uttare kokilābilam |  
-vikhyātaṃ sarvalokeṣu kṛtvā vamanarecanam || 24 ||  
+त्रिपुरान्तकदेवस्य उत्तरे कोकिलाबिलम् ।  
+विख्यातं सर्वलोकेषु कृत्वा वमनरेचनम् ॥ २४ ॥  
 
 
-sādhakaḥ praviśettatra daśadhanvantarāvadhi |  
-pāṣāṇāḥ kokilākārāstiṣṭhanti tāṃstu cāharet || 25 ||  
+साधकः प्रविशेत्तत्र दशधन्वन्तरावधि ।  
+पाषाणाः कोकिलाकारास्तिष्ठन्ति तांस्तु चाहरेत् ॥ २५ ॥  
 
 
-teṣāṃ pṛṣṭhe tilāḥ kṣiptāḥ sphuṭantyeva hi tatkṣaṇāt |  
-ityevaṃ pratyayaṃ dṛṣṭvā tāṃśca ghṛṣṭvā parasparam || 26 ||  
+तेषां पृष्ठे तिलाः क्षिप्ताः स्फुटन्त्येव हि तत्क्षणात् ।  
+इत्येवं प्रत्ययं दृष्ट्वा तांश्च घृष्ट्वा परस्परम् ॥ २६ ॥  
 
 
-kṣīramadhye kṣipettān vai kṣīraṃ kṛṣṇaṃ prajāyate |  
-ākaṇṭhāntaṃ pibettattu divyakāvyo bhavennaraḥ || 27 ||  
+क्षीरमध्ये क्षिपेत्तान् वै क्षीरं कृष्णं प्रजायते ।  
+आकण्ठान्तं पिबेत्तत्तु दिव्यकाव्यो भवेन्नरः ॥ २७ ॥  
 
 
-valīpalitanirmukto jīvedbrahmadinatrayam |  
-chidraṃ paśyati medinyāṃ vāyuvego mahābalaḥ || 28 ||  
+वलीपलितनिर्मुक्तो जीवेद्ब्रह्मदिनत्रयम् ।  
+छिद्रं पश्यति मेदिन्यां वायुवेगो महाबलः ॥ २८ ॥  
 
 
-tripurāntakadevasya pūrvadigyojanāntare |  
-devaḥ svargapurī nāma vidyate tatra vai khanet || 29 ||  
+त्रिपुरान्तकदेवस्य पूर्वदिग्योजनान्तरे ।  
+देवः स्वर्गपुरी नाम विद्यते तत्र वै खनेत् ॥ २९ ॥  
 
 
-devāgre bhūmikāṃ jānumātrāṃ tatra phalā iva |  
-nirgacchanti tu pāṣāṇāḥ kharasparśā bhavanti vai || 30 ||  
+देवाग्रे भूमिकां जानुमात्रां तत्र फला इव ।  
+निर्गच्छन्ति तु पाषाणाः खरस्पर्शा भवन्ति वै ॥ ३० ॥  
 
 
-tripurāntakadevasya paścime yojanārdhake |  
-vidyate hi biladvāraṃ tanmadhye dhanuṣāṃ trayam || 31 ||  
+त्रिपुरान्तकदेवस्य पश्चिमे योजनार्धके ।  
+विद्यते हि बिलद्वारं तन्मध्ये धनुषां त्रयम् ॥ ३१ ॥  
 
 
-ga \[\] cchetkharjūravṛkṣo vai dṛśyate kṛṣṇavarṇakaḥ |  
-tatphalānāṃ rasaṃ pītvā mūrcchā sañjāyate kṣaṇam || 32 ||  
+ग \[\] च्छेत्खर्जूरवृक्षो वै दृश्यते कृष्णवर्णकः ।  
+तत्फलानां रसं पीत्वा मूर्च्छा सञ्जायते क्षणम् ॥ ३२ ॥  
 
 
-tataḥ sañjāyate siddho jīveccandrārkatārakam |  
-śrīśaile dakṣiṇe dvāre jāleśvarasureśvarau || 33 ||  
+ततः सञ्जायते सिद्धो जीवेच्चन्द्रार्कतारकम् ।  
+श्रीशैले दक्षिणे द्वारे जालेश्वरसुरेश्वरौ ॥ ३३ ॥  
 
 
-devau prasiddhau vidyete nikhanettatra bhūmikām |  
-pāṣāṇāḥ śrīphalākārā niryānti sparśabhedakāḥ || 34 ||  
+देवौ प्रसिद्धौ विद्येते निखनेत्तत्र भूमिकाम् ।  
+पाषाणाः श्रीफलाकारा निर्यान्ति स्पर्शभेदकाः ॥ ३४ ॥  
 
 
-devo rāmeśvarastatra vidyate tasya sannidhau |  
-rudrākṣākārapāṣāṇāḥ kharasparśā bhavanti te || 35 ||  
+देवो रामेश्वरस्तत्र विद्यते तस्य सन्निधौ ।  
+रुद्राक्षाकारपाषाणाः खरस्पर्शा भवन्ति ते ॥ ३५ ॥  
 
 
-jyotiḥsiddhavaṭe vṛkṣe ekapādena tiṣṭhati |  
-āvartadevako nāma tatsamīpe tu paścime || 36 ||  
+ज्योतिःसिद्धवटे वृक्षे एकपादेन तिष्ठति ।  
+आवर्तदेवको नाम तत्समीपे तु पश्चिमे ॥ ३६ ॥  
 
 
-vidyate parvatastatra pāṣāṇāstālakopamāḥ |  
-ādāya tān dhamettīvraṃ divyaṃ bhavati kāñcanam || 37 ||  
+विद्यते पर्वतस्तत्र पाषाणास्तालकोपमाः ।  
+आदाय तान् धमेत्तीव्रं दिव्यं भवति काञ्चनम् ॥ ३७ ॥  
 
 
-tatraiva dakṣiṇadvāre devaḥ syātkuṇḍaleśvaraḥ |  
-tatsamīpe khanedbhūmiṃ jānumātrāṃ tato haret || 38 ||  
+तत्रैव दक्षिणद्वारे देवः स्यात्कुण्डलेश्वरः ।  
+तत्समीपे खनेद्भूमिं जानुमात्रां ततो हरेत् ॥ ३८ ॥  
 
 
-pāṣāṇāḥ śrīphalākārā raktāśca sparśavedhakāḥ |  
-puruṣeśvaradevasya kuṇḍamasti samīpataḥ || 39 ||  
+पाषाणाः श्रीफलाकारा रक्ताश्च स्पर्शवेधकाः ।  
+पुरुषेश्वरदेवस्य कुण्डमस्ति समीपतः ॥ ३९ ॥  
 
 
-guñjā ca riṭhṭhakaścaiva dvau vṛkṣau tatra tiṣṭhataḥ |  
-tayoḥ patrāṇi sambhakṣya tatkṣaṇādamaro bhavet || 40 ||  
+गुञ्जा च रिठ्ठकश्चैव द्वौ वृक्षौ तत्र तिष्ठतः ।  
+तयोः पत्राणि सम्भक्ष्य तत्क्षणादमरो भवेत् ॥ ४० ॥  
 
 
-tathā hastiśilā tatra tasyā dakṣiṇataḥ khanet |  
-hastamātraṃ tataḥ paśyejjambūphalasamākṛtiḥ || 41 ||  
+तथा हस्तिशिला तत्र तस्या दक्षिणतः खनेत् ।  
+हस्तमात्रं ततः पश्येज्जम्बूफलसमाकृतिः ॥ ४१ ॥  
 
 
-śilā tatra samākhyātā sparśagrāhyā prayatnataḥ |  
-nāmnā hastiśiraḥ khyātaṃ saiva hastiśilā bhavet || 42 ||  
+शिला तत्र समाख्याता स्पर्शग्राह्या प्रयत्नतः ।  
+नाम्ना हस्तिशिरः ख्यातं सैव हस्तिशिला भवेत् ॥ ४२ ॥  
 
 
-tasyā dakṣiṇadigbhāge yojanaikena tiṣṭhati |  
-chāyāchatraṃ prasiddhaṃ tacchivarūpaṃ śivoditam || 43 ||  
+तस्या दक्षिणदिग्भागे योजनैकेन तिष्ठति ।  
+छायाछत्रं प्रसिद्धं तच्छिवरूपं शिवोदितम् ॥ ४३ ॥  
 
 
-śatahastapramāṇaṃ tu tatkṣetraṃ parivartulam |  
-yo'sau gacchati tasyādho nāsau kenāpi dṛśyate || 44 ||  
+शतहस्तप्रमाणं तु तत्क्षेत्रं परिवर्तुलम् ।  
+योऽसौ गच्छति तस्याधो नासौ केनापि दृश्यते ॥ ४४ ॥  
 
-+++(“gacchedarjunavṛkṣo” kha. |)+++
-rudratulyo bhavetsiddhaḥ krīḍate bhuvanatraye |  
-athavā sādhayeddūrātkhyātaṃ siddhyaṣṭakaṃ tu yat || 45 ||  
++++(“गच्छेदर्जुनवृक्षो” ख। ।)+++
+रुद्रतुल्यो भवेत्सिद्धः क्रीडते भुवनत्रये ।  
+अथवा साधयेद्दूरात्ख्यातं सिद्ध्यष्टकं तु यत् ॥ ४५ ॥  
 
 
-kāntābhraṃ kāñcanaṃ sūtaṃ mardyaṃ kramaguṇottaram |  
-tadgolaṃ veṣṭayellohaisnibhiryatnātkrameṇa vai || 46 ||  
+कान्ताभ्रं काञ्चनं सूतं मर्द्यं क्रमगुणोत्तरम् ।  
+तद्गोलं वेष्टयेल्लोहैस्निभिर्यत्नात्क्रमेण वै ॥ ४६ ॥  
 
 
-vastre baddhvā tu tadvastraṃ vaṃśāgre bandhayeddṛḍham |  
-mantrayetkālimantreṇa chāyācchatre niveśayet || 47 ||  
+वस्त्रे बद्ध्वा तु तद्वस्त्रं वंशाग्रे बन्धयेद्दृढम् ।  
+मन्त्रयेत्कालिमन्त्रेण छायाच्छत्रे निवेशयेत् ॥ ४७ ॥  
 
 
-tadvaṃśāgraṃ kṣaṇaikena jāyate guṭikā tu tām |  
-sādhako dhārayedvaktre khecaratvapradāyikām || 48 ||  
+तद्वंशाग्रं क्षणैकेन जायते गुटिका तु ताम् ।  
+साधको धारयेद्वक्त्रे खेचरत्वप्रदायिकाम् ॥ ४८ ॥  
 
 
-tālakaṃ kunaṭīṃ tadvadvaṃśe baddhvā niveśayet |  
-tābhyāmañjitanetro yo nidhiṃ paśyati bhūgatam || 49 ||  
+तालकं कुनटीं तद्वद्वंशे बद्ध्वा निवेशयेत् ।  
+ताभ्यामञ्जितनेत्रो यो निधिं पश्यति भूगतम् ॥ ४९ ॥  
 
 
-vaṃśe baddhvā kṣipetkhaṅgaṃ pūrvamantreṇa mantritam |  
-tatkhaṅgaṃ dhārayeddhaste trailokyavijayī bhavet || 50 ||  
+वंशे बद्ध्वा क्षिपेत्खङ्गं पूर्वमन्त्रेण मन्त्रितम् ।  
+तत्खङ्गं धारयेद्धस्ते त्रैलोक्यविजयी भवेत् ॥ ५० ॥  
 
 
-vastre gorocanaṃ baddhvā vaṃśasthaṃ tatra veśayet |  
-tenaiva tilakaṃ kuryāddṛṣṭvā mohayate jagat || 51 ||  
+वस्त्रे गोरोचनं बद्ध्वा वंशस्थं तत्र वेशयेत् ।  
+तेनैव तिलकं कुर्याद्दृष्ट्वा मोहयते जगत् ॥ ५१ ॥  
 
 
-srotoñjanaṃ kajjalaṃ ca kṣiptvā tatraiva pūrvavat |  
-tena cāñjitanetro yo devairapi na dṛśyate || 52 ||  
+स्रोतोञ्जनं कज्जलं च क्षिप्त्वा तत्रैव पूर्ववत् ।  
+तेन चाञ्जितनेत्रो यो देवैरपि न दृश्यते ॥ ५२ ॥  
 
 
-pādukāṃ tena yogena kṣiptvā padbhyāṃ tu dhārayet |  
-yatrecchā tatra tatraiva gantā bhavati tatkṣaṇāt || 53 ||  
+पादुकां तेन योगेन क्षिप्त्वा पद्भ्यां तु धारयेत् ।  
+यत्रेच्छा तत्र तत्रैव गन्ता भवति तत्क्षणात् ॥ ५३ ॥  
 
 
-tadvadraktapaṭaṃ tatra kṣiptvā saṃveṣṭya sādhakaḥ |  
-adṛśyo jāyate samyakpaṭe mukte tu dṛśyate || 54 ||  
+तद्वद्रक्तपटं तत्र क्षिप्त्वा संवेष्ट्य साधकः ।  
+अदृश्यो जायते सम्यक्पटे मुक्ते तु दृश्यते ॥ ५४ ॥  
 
 
-kāntābhraṃ kāñcanaṃ sūtaṃ kṛtvā golaṃ tu veśayet |  
-vaṃśāgrasthaṃ mantrayuktaṃ sparśavedhī bhavettu tat || 55 ||  
+कान्ताभ्रं काञ्चनं सूतं कृत्वा गोलं तु वेशयेत् ।  
+वंशाग्रस्थं मन्त्रयुक्तं स्पर्शवेधी भवेत्तु तत् ॥ ५५ ॥  
 
 
-śrīśaile paścime dvāre nāmnā brahmeśvareśvaraḥ |  
-talliṅgaṃ sparśamityāhurdurgā tatraiva tādṛśī || 56 ||  
+श्रीशैले पश्चिमे द्वारे नाम्ना ब्रह्मेश्वरेश्वरः ।  
+तल्लिङ्गं स्पर्शमित्याहुर्दुर्गा तत्रैव तादृशी ॥ ५६ ॥  
 
 
-navamaṃ yattu sopānaṃ nadyāṃ tattādṛśaṃ sthitam |  
-devasya tiṣṭhati dvāre mudgavarṇaṃ vilokayet || 57 ||  
+नवमं यत्तु सोपानं नद्यां तत्तादृशं स्थितम् ।  
+देवस्य तिष्ठति द्वारे मुद्गवर्णं विलोकयेत् ॥ ५७ ॥  
 
 
-brahmeśvarasya nairṛtye saṃsthitaṃ tintiṇīvanam |  
-tasmin vane sthitaṃ kuṇḍaṃ tatra tiṣṭhati caṇḍikā || 58 ||  
+ब्रह्मेश्वरस्य नैरृत्ये संस्थितं तिन्तिणीवनम् ।  
+तस्मिन् वने स्थितं कुण्डं तत्र तिष्ठति चण्डिका ॥ ५८ ॥  
 
 
-ekapādena ciñcādhastadvṛkṣātpatramāharet |  
-baddhvā vastre kṣipetkuṇḍe snānaṃ tatra samācaret || 59 ||  
+एकपादेन चिञ्चाधस्तद्वृक्षात्पत्रमाहरेत् ।  
+बद्ध्वा वस्त्रे क्षिपेत्कुण्डे स्नानं तत्र समाचरेत् ॥ ५९ ॥  
 
 
-snānānte poṭalī grāhyā sarve matsyā bhavanti te |  
-tatkāṣṭhaiḥ pācayettāni kaṇṭhaṃ pucchaṃ śirastyajet || 60 ||  
+स्नानान्ते पोटली ग्राह्या सर्वे मत्स्या भवन्ति ते ।  
+तत्काष्ठैः पाचयेत्तानि कण्ठं पुच्छं शिरस्त्यजेत् ॥ ६० ॥  
 
 
-bhāgaṃ devāya saṅkalpya dvitīyamatitherbhavet |  
-tṛtīyaṃ sādhako bhuktvā kṣaṇaṃ bhavati mūrcchitaḥ || 61 ||  
+भागं देवाय सङ्कल्प्य द्वितीयमतिथेर्भवेत् ।  
+तृतीयं साधको भुक्त्वा क्षणं भवति मूर्च्छितः ॥ ६१ ॥  
 
 
-tatkṣaṇājjāyate siddhāśchidrāṃ paśyati medinīm |  
-ajarāmaratāṃ yāti na bādhyastridaśairapi || 62 ||  
+तत्क्षणाज्जायते सिद्धाश्छिद्रां पश्यति मेदिनीम् ।  
+अजरामरतां याति न बाध्यस्त्रिदशैरपि ॥ ६२ ॥  
 
 
-alampurottare bhāge grāmaḥ syādbhīmapādukaḥ |  
-tasya grāmasya pārśve tu hastamātraṃ khanedbhuvam || 63 ||  
+अलम्पुरोत्तरे भागे ग्रामः स्याद्भीमपादुकः ।  
+तस्य ग्रामस्य पार्श्वे तु हस्तमात्रं खनेद्भुवम् ॥ ६३ ॥  
 
 
-pāṣāṇāḥ sarpavadvakrā grāhyā sparśā bhavanti te |  
-yogeśvarīti vikhyatā devatā yā tvalampure || 64 ||  
+पाषाणाः सर्पवद्वक्रा ग्राह्या स्पर्शा भवन्ति ते ।  
+योगेश्वरीति विख्यता देवता या त्वलम्पुरे ॥ ६४ ॥  
 
 
-devyā hyagre guhā ramyā tanmadhye nikhanedbhuvam |  
-pāṣāṇā bhekasaṅkāśā grāhyā mārjāraviṣṭhayā || 65 ||  
+देव्या ह्यग्रे गुहा रम्या तन्मध्ये निखनेद्भुवम् ।  
+पाषाणा भेकसङ्काशा ग्राह्या मार्जारविष्ठया ॥ ६५ ॥  
 
 
-miśrīkṛtya kṣipedvaṅge tadvaṅgaṃ tāratāṃ vrajet |  
-madhvājyasahitān bhakṣetpāṣāṇāṃstānvicakṣaṇaḥ || 66 ||  
+मिश्रीकृत्य क्षिपेद्वङ्गे तद्वङ्गं तारतां व्रजेत् ।  
+मध्वाज्यसहितान् भक्षेत्पाषाणांस्तान्विचक्षणः ॥ ६६ ॥  
 
 
-śrīśailasyottaradvāre maheśo nāma devatā |  
-bhramarāmraḥ sthitastatra tasya pakvaphalāni vai || 67 ||  
+श्रीशैलस्योत्तरद्वारे महेशो नाम देवता ।  
+भ्रमराम्रः स्थितस्तत्र तस्य पक्वफलानि वै ॥ ६७ ॥  
 
 
-sphoṭayettatra niryānti bhramarā jīvasaṃyutāḥ |  
-ityevaṃ pratyayaṃ jñātvā bhramarāṃstān parityajet || 68 ||  
+स्फोटयेत्तत्र निर्यान्ति भ्रमरा जीवसंयुताः ।  
+इत्येवं प्रत्ययं ज्ञात्वा भ्रमरांस्तान् परित्यजेत् ॥ ६८ ॥  
 
 
-phalāni pācayetkṣīraiḥ pibetkṣīraṃ yatheṣṭakam |  
-kiñcinmūrcchā bhavettena tato bodhe pibetpunaḥ || 69 ||  
+फलानि पाचयेत्क्षीरैः पिबेत्क्षीरं यथेष्टकम् ।  
+किञ्चिन्मूर्च्छा भवेत्तेन ततो बोधे पिबेत्पुनः ॥ ६९ ॥  
 
 
-evaṃ kuryāttrisaptāhaṃ vajrakāyo bhavennaraḥ |  
-valīpalitanirmukto jīvedācandratārakam || 70 ||  
+एवं कुर्यात्त्रिसप्ताहं वज्रकायो भवेन्नरः ।  
+वलीपलितनिर्मुक्तो जीवेदाचन्द्रतारकम् ॥ ७० ॥  
 
 
-sarvavāṅmayavettā ca vāyuvegī bhavennaraḥ |  
-tenaivāmraphalaikena varjitabhramareṇa ca |  
-sahasrapalavaṅgaṃ tu drāvitaṃ stambhayedhruvam || 71 ||  
+सर्ववाङ्मयवेत्ता च वायुवेगी भवेन्नरः ।  
+तेनैवाम्रफलैकेन वर्जितभ्रमरेण च ।  
+सहस्रपलवङ्गं तु द्रावितं स्तम्भयेध्रुवम् ॥ ७१ ॥  
 
 
-kṣepāttāramavāpnoti satyamīśvarabhāṣitam |  
-tatphalaṃ chidritaṃ kṛtvā utpāṭya bhramaraṃ tataḥ || 72 ||  
+क्षेपात्तारमवाप्नोति सत्यमीश्वरभाषितम् ।  
+तत्फलं छिद्रितं कृत्वा उत्पाट्य भ्रमरं ततः ॥ ७२ ॥  
 
 
-śuddhapāradakarṣaikaṃ tattulyaṃ kṛṣṇamabhrakam |  
-kṣiptvā tasminmukhaṃ ruddhvā limpenmṛdgomayena ca || 73 ||  
+शुद्धपारदकर्षैकं तत्तुल्यं कृष्णमभ्रकम् ।  
+क्षिप्त्वा तस्मिन्मुखं रुद्ध्वा लिम्पेन्मृद्गोमयेन च ॥ ७३ ॥  
 
 
-chāyāśuṣkaṃ tadāmrotthaiḥ kvā \[\] thairyāmaṃ vipācayet |  
-svabhāvaśītalā grāhyā guṭikā phalamadhyagā || 74 ||  
+छायाशुष्कं तदाम्रोत्थैः क्वा \[\] थैर्यामं विपाचयेत् ।  
+स्वभावशीतला ग्राह्या गुटिका फलमध्यगा ॥ ७४ ॥  
 
 
-mukhasthā khecaraṃ datte adṛśyatvaṃ mahābalā |  
-kvāthe vākpatitulyaḥ syājjīvedācandratārakam || 75 ||  
+मुखस्था खेचरं दत्ते अदृश्यत्वं महाबला ।  
+क्वाथे वाक्पतितुल्यः स्याज्जीवेदाचन्द्रतारकम् ॥ ७५ ॥  
 
 
-tāraṃ tāmraṃ bhujaṅgaṃ vā koṭibhāgena vedhayet |  
-kṛṣṇābhraṃ śuddhasūtaṃ ca pūrvavattatphale kṣipet || 76 ||  
+तारं ताम्रं भुजङ्गं वा कोटिभागेन वेधयेत् ।  
+कृष्णाभ्रं शुद्धसूतं च पूर्ववत्तत्फले क्षिपेत् ॥ ७६ ॥  
 
 
-limpenmṛdgomayaistadvadāraṇyotpalakaiḥ puṭet |  
-svabhāvaśītalaṃ grāhyaṃ tadrasaṃ madhusarpiṣā || 77 ||  
+लिम्पेन्मृद्गोमयैस्तद्वदारण्योत्पलकैः पुटेत् ।  
+स्वभावशीतलं ग्राह्यं तद्रसं मधुसर्पिषा ॥ ७७ ॥  
 
 
-guñjāmātraṃ sadā khādenmāsādbālo bhavennaraḥ |  
-jīvedbrahmadinaṃ vīro navanāgabalānvitaḥ || 78 ||  
+गुञ्जामात्रं सदा खादेन्मासाद्बालो भवेन्नरः ।  
+जीवेद्ब्रह्मदिनं वीरो नवनागबलान्वितः ॥ ७८ ॥  
 
 
-vidyate lokavikhyātaḥ pūjyaḥ pañcopacārakaiḥ |  
-oṃṃ huṃ phaṭkāramantreṇa nirvikalpena sādhakaiḥ || 79 ||  
+विद्यते लोकविख्यातः पूज्यः पञ्चोपचारकैः ।  
+ॐं हुं फट्कारमन्त्रेण निर्विकल्पेन साधकैः ॥ ७९ ॥  
 
 
-vīkṣya paścimadigbhāge hmantarikṣe ca tatkṣaṇāt |  
-paśyeddivyavimānāni jāyate pratyayo mahān || 80 ||  
+वीक्ष्य पश्चिमदिग्भागे ह्मन्तरिक्षे च तत्क्षणात् ।  
+पश्येद्दिव्यविमानानि जायते प्रत्ययो महान् ॥ ८० ॥  
 
 
-tataḥ paścimadigbhāge gacchennadīṃ taretsudhīḥ |  
-gahvaraṃ dṛśyate tatra praviśetpaścimāmukham || 81 ||  
+ततः पश्चिमदिग्भागे गच्छेन्नदीं तरेत्सुधीः ।  
+गह्वरं दृश्यते तत्र प्रविशेत्पश्चिमामुखम् ॥ ८१ ॥  
 
 
-yojanatritayaṃ gacchedekākī nirvikalpakaḥ |  
-pañcayojanavistīrṇaṃ dṛśyate kadalīvanam || 82 ||  
+योजनत्रितयं गच्छेदेकाकी निर्विकल्पकः ।  
+पञ्चयोजनविस्तीर्णं दृश्यते कदलीवनम् ॥ ८२ ॥  
 
 
-tasya madhye'tivistīrṇaṃ jalapūrṇaṃ sarovaram |  
-siṃhāsanaṃ tu tanmadhye śuddhasphaṭikasannibham || 83 ||  
+तस्य मध्येऽतिविस्तीर्णं जलपूर्णं सरोवरम् ।  
+सिंहासनं तु तन्मध्ये शुद्धस्फटिकसन्निभम् ॥ ८३ ॥  
 
 
-taṃ dṛṣṭvā daṇḍavadbhūmau nipatenmantramuccaret |  
-oṃṃ hrīṃ vidyāvāgīśvarādhipataye hrīṃ oṃṃ svāhā |  
-snānaṃ kṛtvā prayatnena lakṣamekaṃ japedanu |  
-yatheṣṭaṃ bhojanaṃ kṛtvā kandamūlaphalādikam || 84 ||  
+तं दृष्ट्वा दण्डवद्भूमौ निपतेन्मन्त्रमुच्चरेत् ।  
+ॐं ह्रीं विद्यावागीश्वराधिपतये ह्रीं ॐं स्वाहा ।  
+स्नानं कृत्वा प्रयत्नेन लक्षमेकं जपेदनु ।  
+यथेष्टं भोजनं कृत्वा कन्दमूलफलादिकम् ॥ ८४ ॥  
 
 
-tataḥ siṃhāsanasyordhvaṃ śuddhasphaṭikasannibhaḥ |  
-caturbhujastrinetraśca dṛśyate parameśvaraḥ || 85 ||  
+ततः सिंहासनस्योर्ध्वं शुद्धस्फटिकसन्निभः ।  
+चतुर्भुजस्त्रिनेत्रश्च दृश्यते परमेश्वरः ॥ ८५ ॥  
 
 
-stotramantrairnamaskāraiḥ praṇipatya punaḥ punaḥ |  
-varaṃ datte yatheṣṭaṃ vai sādhakasya na saṃśayaḥ || 86 ||  
+स्तोत्रमन्त्रैर्नमस्कारैः प्रणिपत्य पुनः पुनः ।  
+वरं दत्ते यथेष्टं वै साधकस्य न संशयः ॥ ८६ ॥  
 
 
-śatamāyatanaṃ tatra kūpānāṃ ca śataṃ nava |  
-+++(“kāṣṭhaiyoma” kha. |)+++tāvatsaṅkhyāstathā''rāmā nandanākhyavanāni ca || 87 ||  
+शतमायतनं तत्र कूपानां च शतं नव ।  
++++(“काष्ठैयोम” ख। ।)+++तावत्सङ्ख्यास्तथाऽऽरामा नन्दनाख्यवनानि च ॥ ८७ ॥  
 
 
-tathā navaśataṃ vāpyo vidyante kadalīvane |  
-biladvārāṇi tāvanti kalpavṛkṣāstathaiva ca || 88 ||  
+तथा नवशतं वाप्यो विद्यन्ते कदलीवने ।  
+बिलद्वाराणि तावन्ति कल्पवृक्षास्तथैव च ॥ ८८ ॥  
 
 
-tatraiva maukalī nāma yakṣiṇī prakaṭā sthitā |  
-sā vakti bhojanaṃ dehi yadīcchasi samīhitam || 89 ||  
+तत्रैव मौकली नाम यक्षिणी प्रकटा स्थिता ।  
+सा वक्ति भोजनं देहि यदीच्छसि समीहितम् ॥ ८९ ॥  
 
 
-tatastasyai pravaktavyaṃ dāsyāmi parameśvari |  
-kṣīrānnaṃ vā phalāhāraṃ tadagre dāpayetsudhīḥ || 90 ||  
+ततस्तस्यै प्रवक्तव्यं दास्यामि परमेश्वरि ।  
+क्षीरान्नं वा फलाहारं तदग्रे दापयेत्सुधीः ॥ ९० ॥  
 
 
-sā vakti mama putro'yaṃ kṣaṇaṃ vakṣasi dhāraya |  
-yadā na muñcase bhūmau tadā siddhyaṣṭakaṃ tava || 91 ||  
+सा वक्ति मम पुत्रोऽयं क्षणं वक्षसि धारय ।  
+यदा न मुञ्चसे भूमौ तदा सिद्ध्यष्टकं तव ॥ ९१ ॥  
 
 
-dāsye'haṃ nātra saṃndeho bhojanānte'thavā punaḥ |  
-tyakte karomi saṃhāraṃ tasmādyatnena rakṣaya || 92 ||  
+दास्येऽहं नात्र संन्देहो भोजनान्तेऽथवा पुनः ।  
+त्यक्ते करोमि संहारं तस्माद्यत्नेन रक्षय ॥ ९२ ॥  
 
 
-ityevaṃ sādhako vīraḥ kuryātsiddhimavāpnuyāt |  
-gaccheduttaradigbhāge tatsaro yojanārdhakam || 93 ||  
+इत्येवं साधको वीरः कुर्यात्सिद्धिमवाप्नुयात् ।  
+गच्छेदुत्तरदिग्भागे तत्सरो योजनार्धकम् ॥ ९३ ॥  
 
 
-tatrāsti puṣpasaṃmpūrṇaṃ divyākhyaṃ nandanaṃ vanam |  
-puṣpāṇāṃ ghrāṇamātreṇa kṣutpipāsā na vidyate || 94 ||  
+तत्रास्ति पुष्पसंम्पूर्णं दिव्याख्यं नन्दनं वनम् ।  
+पुष्पाणां घ्राणमात्रेण क्षुत्पिपासा न विद्यते ॥ ९४ ॥  
 
 
-athavā bhakṣayettasmātphalamekaṃ yathocitam |  
-tena bhakṣitamātreṇa vajrakāyo bhavennaraḥ || 95 ||  
+अथवा भक्षयेत्तस्मात्फलमेकं यथोचितम् ।  
+तेन भक्षितमात्रेण वज्रकायो भवेन्नरः ॥ ९५ ॥  
 
 
-saro dakṣiṇadigbhāgaṃ gacchedyojanapādakam |  
-tatra dāḍimasampūrṇaṃ dṛśyate nandanaṃ vanam || 96 ||  
+सरो दक्षिणदिग्भागं गच्छेद्योजनपादकम् ।  
+तत्र दाडिमसम्पूर्णं दृश्यते नन्दनं वनम् ॥ ९६ ॥  
 
 
-tatphalaṃ bhakṣayetsiddho jīvedyugasahasrakam |  
-tatsaraḥpūrvadigbhāge gacchetkrośārdhamātrakam || 97 ||  
+तत्फलं भक्षयेत्सिद्धो जीवेद्युगसहस्रकम् ।  
+तत्सरःपूर्वदिग्भागे गच्छेत्क्रोशार्धमात्रकम् ॥ ९७ ॥  
 
 
-tatra dhātrīphalaiḥ pūrṇaṃ śyāmalaṃ nandanaṃ vanam |  
-phalāni bhakṣayettāni jīvetkalpaśatatrayam || 98 ||  
+तत्र धात्रीफलैः पूर्णं श्यामलं नन्दनं वनम् ।  
+फलानि भक्षयेत्तानि जीवेत्कल्पशतत्रयम् ॥ ९८ ॥  
 
 
-tatsaraḥpaścima bhāge gacchedyojanamātrakam |  
-tatra bilvaphalaiḥ pūrṇaṃ dṛśyate nandanaṃ vanam || 99 ||  
+तत्सरःपश्चिम भागे गच्छेद्योजनमात्रकम् ।  
+तत्र बिल्वफलैः पूर्णं दृश्यते नन्दनं वनम् ॥ ९९ ॥  
 
 
-tatphalaṃ bhakṣayedvīro jīveccandrārkatārakam |  
-tannandanavane ramye liṅgaṃ syānnīlavarṇakam || 100 ||  
+तत्फलं भक्षयेद्वीरो जीवेच्चन्द्रार्कतारकम् ।  
+तन्नन्दनवने रम्ये लिङ्गं स्यान्नीलवर्णकम् ॥ १०० ॥  
 
 
-praviśeduttaradvāre tatra nāgo mahābalaḥ |  
-ugraḥ saptaphaṇākāro dṛśyate'tibhayaṅkaraḥ || 101 ||  
+प्रविशेदुत्तरद्वारे तत्र नागो महाबलः ।  
+उग्रः सप्तफणाकारो दृश्यतेऽतिभयङ्करः ॥ १०१ ॥  
 
 
-tasya kuryānnamaskāraṃ hruṃ \[\]  hruṃ kuryātsamuddharet |  
-+++(“huṃkāraṃ ca samuccarat” kha. |)+++tadā'sau vadate vāṇīmadṛśyatvaṃ dadāmi te || 102 ||  
+तस्य कुर्यान्नमस्कारं ह्रुं \[\]  ह्रुं कुर्यात्समुद्धरेत् ।  
++++(“हुंकारं च समुच्चरत्” ख। ।)+++तदाऽसौ वदते वाणीमदृश्यत्वं ददामि ते ॥ १०२ ॥  
 
 
-gaccha tvaṃ paścimadvāre tatrāsti divyakanyakā |  
-gacchettatra mahāvīraḥ sādhako mantramuccaran || 103 ||  
+गच्छ त्वं पश्चिमद्वारे तत्रास्ति दिव्यकन्यका ।  
+गच्छेत्तत्र महावीरः साधको मन्त्रमुच्चरन् ॥ १०३ ॥  
 
 
-hāraṃ dāsyati sā tuṣṭā na \[\]  praveśaṃ prayacchati |  
-taṃ hāraṃ dhārayetkaṇṭhe sākṣādvāgīśvaro bhavet || 104 ||  
+हारं दास्यति सा तुष्टा न \[\]  प्रवेशं प्रयच्छति ।  
+तं हारं धारयेत्कण्ठे साक्षाद्वागीश्वरो भवेत् ॥ १०४ ॥  
 
 
-tatastu dakṣiṇaṃ dvāraṃ gacchettatra bhayaṅkaram |  
-muktakeśaṃ vakranetraṃ gadāhastaṃ digambaram || 105 ||  
+ततस्तु दक्षिणं द्वारं गच्छेत्तत्र भयङ्करम् ।  
+मुक्तकेशं वक्रनेत्रं गदाहस्तं दिगम्बरम् ॥ १०५ ॥  
 
 
-nīlavarṇaṃ kṣetrapālaṃ dṛṣṭvā mantraṃ samuccaret |  
-ha hā he he haṃ hruṃkāraṃ phaṭ huṃ svāhāntameva ca || 106 ||  
+नीलवर्णं क्षेत्रपालं दृष्ट्वा मन्त्रं समुच्चरेत् ।  
+ह हा हे हे हं ह्रुंकारं फट् हुं स्वाहान्तमेव च ॥ १०६ ॥  
 
 
-anena mantrapāṭhena kṣetrapālaḥ prasīdati |  
-dadāti khecarīṃ siddhiṃ na praveśaṃ kadācana || 107 ||  
+अनेन मन्त्रपाठेन क्षेत्रपालः प्रसीदति ।  
+ददाति खेचरीं सिद्धिं न प्रवेशं कदाचन ॥ १०७ ॥  
 
 
-tatastu pūrvadigbhāge dvāraṃ tatra gaṇeśvaraḥ |  
-dṛśyate pūjayettaṃ vai sādhakaḥ praviśettataḥ || 108 ||  
+ततस्तु पूर्वदिग्भागे द्वारं तत्र गणेश्वरः ।  
+दृश्यते पूजयेत्तं वै साधकः प्रविशेत्ततः ॥ १०८ ॥  
 
 
-dṛśyate divyacāpaṃ tu tathā liṅgaṃ manoharam |  
-pūjayecchivamantreṇa rakāreṇaiva nānyathā || 109 ||  
+दृश्यते दिव्यचापं तु तथा लिङ्गं मनोहरम् ।  
+पूजयेच्छिवमन्त्रेण रकारेणैव नान्यथा ॥ १०९ ॥  
 
 
-tatastatra japaṃ kuryādahorātramupoṣitaḥ |  
-pratyakṣo jāyate rudro varaṃ datte yathepsitam || 110 ||  
+ततस्तत्र जपं कुर्यादहोरात्रमुपोषितः ।  
+प्रत्यक्षो जायते रुद्रो वरं दत्ते यथेप्सितम् ॥ ११० ॥  
 
 
-ityevamādayaḥ santi siddhayaḥ kadalīvane |  
-akṣarairlikhitaṃ dvāre tatra padmāvatībilam || 111 ||  
+इत्येवमादयः सन्ति सिद्धयः कदलीवने ।  
+अक्षरैर्लिखितं द्वारे तत्र पद्मावतीबिलम् ॥ १११ ॥  
 
 
-sarasaḥ pūrvadigbhāge yojanaikena tiṣṭhati |  
-vamanaṃ recanaṃ kṛtvā praviśettatra sādhakaḥ || 112 ||  
+सरसः पूर्वदिग्भागे योजनैकेन तिष्ठति ।  
+वमनं रेचनं कृत्वा प्रविशेत्तत्र साधकः ॥ ११२ ॥  
 
 
-dhanvantaraṃ śataṃ yāvadgacchettatra mṛdaṅgakam |  
-dṛṣṭvā taṃ vādayedvīraḥ samyakpadmāvatī tataḥ || 113 ||  
+धन्वन्तरं शतं यावद्गच्छेत्तत्र मृदङ्गकम् ।  
+दृष्ट्वा तं वादयेद्वीरः सम्यक्पद्मावती ततः ॥ ११३ ॥  
 
 
-āgatya cāmṛtaṃ datte yatpānādamaro bhavet |  
-tatastaṃ prārthayatyeva āgaccha mama mandiram || 114 ||  
+आगत्य चामृतं दत्ते यत्पानादमरो भवेत् ।  
+ततस्तं प्रार्थयत्येव आगच्छ मम मन्दिरम् ॥ ११४ ॥  
 
 
-divyaṃ kanyāpañcaśataṃ parivāreṇa svīkuru |  
-ahaṃ patnī bhaviṣyāmi yāvadbrahmā ca jīvati || 115 ||  
+दिव्यं कन्यापञ्चशतं परिवारेण स्वीकुरु ।  
+अहं पत्नी भविष्यामि यावद्ब्रह्मा च जीवति ॥ ११५ ॥  
 
 
-tadante paramaṃ sthānaṃ gacchāmo nātra saṃśayaḥ |  
-kadambeśvaradevastu āgneyyāṃ diśi vidyate || 116 ||  
+तदन्ते परमं स्थानं गच्छामो नात्र संशयः ।  
+कदम्बेश्वरदेवस्तु आग्नेय्यां दिशि विद्यते ॥ ११६ ॥  
 
-+++(“prajeśatvaṃ” kha. |)+++
-tasya pūrvataṭākāgre sthito vṛkṣaḥ kadambakaḥ |  
-tasya patrāṇi saṅgṛhya kaṭutailena lepayet || 117 ||  
++++(“प्रजेशत्वं” ख। ।)+++
+तस्य पूर्वतटाकाग्रे स्थितो वृक्षः कदम्बकः ।  
+तस्य पत्राणि सङ्गृह्य कटुतैलेन लेपयेत् ॥ ११७ ॥  
 
 
-tadvṛkṣabījatailairvā tatkāṣṭhaiḥ pācayetsudhīḥ |  
-matsyā bhavanti te sarve tāmrapātre vinikṣipet || 118 ||  
+तद्वृक्षबीजतैलैर्वा तत्काष्ठैः पाचयेत्सुधीः ।  
+मत्स्या भवन्ति ते सर्वे ताम्रपात्रे विनिक्षिपेत् ॥ ११८ ॥  
 
 
-kaṇṭhapucchaśirovarjaṃ madhvājyābhyāṃ tu bhakṣayet |  
-tatkṣaṇājjāyate siddho rudratulyo mahābalaḥ || 119 ||  
+कण्ठपुच्छशिरोवर्जं मध्वाज्याभ्यां तु भक्षयेत् ।  
+तत्क्षणाज्जायते सिद्धो रुद्रतुल्यो महाबलः ॥ ११९ ॥  
 
 
-nadīsthāne ca yo vṛkṣo vidyate kuṇḍaleśvare |  
-pūrvavatkramayogena siddhiḥ syānnātra saṃśayaḥ || 120 ||  
+नदीस्थाने च यो वृक्षो विद्यते कुण्डलेश्वरे ।  
+पूर्ववत्क्रमयोगेन सिद्धिः स्यान्नात्र संशयः ॥ १२० ॥  
 
 
-kapoteśvaradevasyottare puṣpagiriḥ sthitaḥ |  
-tasya kuryāt prayatnena trivāraṃ tu pradakṣiṇam || 121 ||  
+कपोतेश्वरदेवस्योत्तरे पुष्पगिरिः स्थितः ।  
+तस्य कुर्यात् प्रयत्नेन त्रिवारं तु प्रदक्षिणम् ॥ १२१ ॥  
 
 
-tataḥ śiraḥ samāruhya khecaratvaṃ labhennaraḥ |  
-tatpūrvottaradigbhāge chelikādvā \[\] rasaṃsthitam || 122 ||  
+ततः शिरः समारुह्य खेचरत्वं लभेन्नरः ।  
+तत्पूर्वोत्तरदिग्भागे छेलिकाद्वा \[\] रसंस्थितम् ॥ १२२ ॥  
 
 
-uttarābhimukhaṃ tatra praviśeddhanuṣāṃ trayam |  
-mūṣikākārapāṣāṇāstiṣṭhanti tān samāharet || 123 ||  
+उत्तराभिमुखं तत्र प्रविशेद्धनुषां त्रयम् ।  
+मूषिकाकारपाषाणास्तिष्ठन्ति तान् समाहरेत् ॥ १२३ ॥  
 
 
-takraiḥ piṣṭvā tadekaṃ tu pibenmūrcchāmavāpnuyāt |  
-kṣaṇāduttiṣṭhate siddho jīvedbrahmadinatrayam || 124 ||  
+तक्रैः पिष्ट्वा तदेकं तु पिबेन्मूर्च्छामवाप्नुयात् ।  
+क्षणादुत्तिष्ठते सिद्धो जीवेद्ब्रह्मदिनत्रयम् ॥ १२४ ॥  
 
 
-sa eva sarvalohānāṃ sparśavedhakaro bhavet |  
-ahorātroṣito bhūtvā devāgre siddhimāpnuyāt || 125 ||  
+स एव सर्वलोहानां स्पर्शवेधकरो भवेत् ।  
+अहोरात्रोषितो भूत्वा देवाग्रे सिद्धिमाप्नुयात् ॥ १२५ ॥  
 
 
-kapoteśvaradevasya dakṣiṇe devatādvayam |  
-tanmadhye kaṭimātraṃ tu khanedgorocanopamāḥ || 126 ||  
+कपोतेश्वरदेवस्य दक्षिणे देवताद्वयम् ।  
+तन्मध्ये कटिमात्रं तु खनेद्गोरोचनोपमाः ॥ १२६ ॥  
 
 
-pāṣāṇāstān samādāya madhvājyābhyāṃ prapeṣayet |  
-tatpānājjāyate martyaḥ kalpāyurnātra saṃśayaḥ || 127 ||  
+पाषाणास्तान् समादाय मध्वाज्याभ्यां प्रपेषयेत् ।  
+तत्पानाज्जायते मर्त्यः कल्पायुर्नात्र संशयः ॥ १२७ ॥  
 
 
-kapoteśvaradevasya vāyavye hastamātrakam |  
-khanetpārāvataprakhyāḥ pāṣāṇāḥ sparśabhedakāḥ || 128 ||  
+कपोतेश्वरदेवस्य वायव्ये हस्तमात्रकम् ।  
+खनेत्पारावतप्रख्याः पाषाणाः स्पर्शभेदकाः ॥ १२८ ॥  
 
 
-tiṣṭhanti grāhayedekaṃ devatārādhane kṛte |  
-mallikārjunadevasya aiśānyāṃ bhṛgupātanam || 129 ||  
+तिष्ठन्ति ग्राहयेदेकं देवताराधने कृते ।  
+मल्लिकार्जुनदेवस्य ऐशान्यां भृगुपातनम् ॥ १२९ ॥  
 
 
-vidyate tatsamīpasthaṃ kuṇḍaṃ tasmānmṛdāharet |  
-pañcagavyena sammiśrāṃ khadirāṅgārakairdhamet || 130 ||  
+विद्यते तत्समीपस्थं कुण्डं तस्मान्मृदाहरेत् ।  
+पञ्चगव्येन सम्मिश्रां खदिराङ्गारकैर्धमेत् ॥ १३० ॥  
 
 
-nīlotpalasamaṃ lohaṃ patatyevātha secayet |  
-+++(“ambikādvāraṃ” kha. |)+++madhvājyābhyāṃ sutaptaṃ tatsaptavāraṃ punaḥ punaḥ || 131 ||  
+नीलोत्पलसमं लोहं पतत्येवाथ सेचयेत् ।  
++++(“अम्बिकाद्वारं” ख। ।)+++मध्वाज्याभ्यां सुतप्तं तत्सप्तवारं पुनः पुनः ॥ १३१ ॥  
 
 
-tadgolaṃ dhārayedvaktre viṣṇutulyo bhavennaraḥ |  
-bhṛgupātāt pūrvabhāge krośodadhikapāṭake || 132 ||  
+तद्गोलं धारयेद्वक्त्रे विष्णुतुल्यो भवेन्नरः ।  
+भृगुपातात् पूर्वभागे क्रोशोदधिकपाटके ॥ १३२ ॥  
 
 
-tasyāgre acchatailākhyaḥ parvato nāma viśrutaḥ |  
-tatpaścime biladvāraṃ tanmadhye dhanvapañcakam || 133 ||  
+तस्याग्रे अच्छतैलाख्यः पर्वतो नाम विश्रुतः ।  
+तत्पश्चिमे बिलद्वारं तन्मध्ये धन्वपञ्चकम् ॥ १३३ ॥  
 
 
-gate tu dṛśyate kuṇḍaṃ raso lākṣārasaprabhaḥ |  
-alābupātre saṃgṛhya koṭivedhī bhavettu saḥ || 134 ||  
+गते तु दृश्यते कुण्डं रसो लाक्षारसप्रभः ।  
+अलाबुपात्रे संगृह्य कोटिवेधी भवेत्तु सः ॥ १३४ ॥  
 
 
-mallikārjunadevasya pūrvato lokaviśrutaḥ |  
-prākāraścandraguptasya vidyate tatra mandiram || 135 ||  
+मल्लिकार्जुनदेवस्य पूर्वतो लोकविश्रुतः ।  
+प्राकारश्चन्द्रगुप्तस्य विद्यते तत्र मन्दिरम् ॥ १३५ ॥  
 
 
-tasya pūrve sthitaścaityaścaityapūrve mahāśilā |  
-mudgavarṇā ca sā khyātā sparśavedhakarā tu sā || 136 ||  
+तस्य पूर्वे स्थितश्चैत्यश्चैत्यपूर्वे महाशिला ।  
+मुद्गवर्णा च सा ख्याता स्पर्शवेधकरा तु सा ॥ १३६ ॥  
 
 
-gajastatraiva vikhyātastamāruhya samāhitaḥ |  
-tasya pṛṣṭhāttṛṇaṃ grāhyaṃ tatsarvaṃ kanakaṃ bhavet || 137 ||  
+गजस्तत्रैव विख्यातस्तमारुह्य समाहितः ।  
+तस्य पृष्ठात्तृणं ग्राह्यं तत्सर्वं कनकं भवेत् ॥ १३७ ॥  
 
 
-gajasya cottare pārśve jānumātraṃ khanedbhuvam |  
-jambūphalasamākārāḥ santi te sparśavedhakāḥ || 138 ||  
+गजस्य चोत्तरे पार्श्वे जानुमात्रं खनेद्भुवम् ।  
+जम्बूफलसमाकाराः सन्ति ते स्पर्शवेधकाः ॥ १३८ ॥  
 
 
-gajasyādhaḥ khanedvā'tha jānumātraṃ labhettataḥ |  
-trikoṇaguṭikāṃ siddhāṃ lakṣavedhakarāṃ parām || 139 ||  
+गजस्याधः खनेद्वाऽथ जानुमात्रं लभेत्ततः ।  
+त्रिकोणगुटिकां सिद्धां लक्षवेधकरां पराम् ॥ १३९ ॥  
 
 
-śrīśailasya tu vāyavye tīrthaṃ devahradaḥ sthitam |  
-tatra kuṇḍe mudgavarṇāḥ pāṣāṇāḥ sparśavedhakāḥ || 140 ||  
+श्रीशैलस्य तु वायव्ये तीर्थं देवह्रदः स्थितम् ।  
+तत्र कुण्डे मुद्गवर्णाः पाषाणाः स्पर्शवेधकाः ॥ १४० ॥  
 
 
-tatra kūrmopamaṃ liṅgaṃ sparśavedhakaraṃ param |  
-kṛttikāyāṃ supūrṇāyāṃ kṛtvā pūjāṃ samāharet || 141 ||  
+तत्र कूर्मोपमं लिङ्गं स्पर्शवेधकरं परम् ।  
+कृत्तिकायां सुपूर्णायां कृत्वा पूजां समाहरेत् ॥ १४१ ॥  
 
 
-gavyūtidvayatastasmānnāmnā nīlavanaṃ smṛtam |  
-tatra liṅgaṃ nīlavarṇaṃ jalaṃ caiva tu tādṛśam || 142 ||  
+गव्यूतिद्वयतस्तस्मान्नाम्ना नीलवनं स्मृतम् ।  
+तत्र लिङ्गं नीलवर्णं जलं चैव तु तादृशम् ॥ १४२ ॥  
 
 
-aśvāmrakākasadṛśāḥ pāṣāṇāḥ sparśavedhakāḥ |  
-santi devagṛhasyāntaḥ khanejjānvantarāddharet || 143 ||  
+अश्वाम्रकाकसदृशाः पाषाणाः स्पर्शवेधकाः ।  
+सन्ति देवगृहस्यान्तः खनेज्जान्वन्तराद्धरेत् ॥ १४३ ॥  
 
 
-śrīśailasya tu nairṛtye nāmnā guṇḍiprabhā sthitā |  
-tasyāgrādgartamṛdgrāhyā pītavarṇā puṭairdahet || 144 ||  
+श्रीशैलस्य तु नैरृत्ये नाम्ना गुण्डिप्रभा स्थिता ।  
+तस्याग्राद्गर्तमृद्ग्राह्या पीतवर्णा पुटैर्दहेत् ॥ १४४ ॥  
 
 
-tasmānniḥsarate hema sphuradrūpaṃ na saṃśayaḥ |  
-tatraiva bhramarāḥ syuśca pūrvavatphaladāyakāḥ || 145 ||  
+तस्मान्निःसरते हेम स्फुरद्रूपं न संशयः ।  
+तत्रैव भ्रमराः स्युश्च पूर्ववत्फलदायकाः ॥ १४५ ॥  
 
 
-tathā tambīpure nāmni tīrthe ca vipule śubham |  
-sadāphalaṃ tu vikhyātaṃ pūrvavatsādhayetsudhīḥ || 146 ||  
+तथा तम्बीपुरे नाम्नि तीर्थे च विपुले शुभम् ।  
+सदाफलं तु विख्यातं पूर्ववत्साधयेत्सुधीः ॥ १४६ ॥  
 
 
-mahānandeśvaraṃ nāma śrīśailasya tu nairṛte |  
-tasya pūrvottare pārśve gacchedrājapathena tu || 147 ||  
+महानन्देश्वरं नाम श्रीशैलस्य तु नैरृते ।  
+तस्य पूर्वोत्तरे पार्श्वे गच्छेद्राजपथेन तु ॥ १४७ ॥  
 
 
-kālavarṇeśvaro nāma devastasyāgrakuṇḍakam |  
-indragopakasaṅkāśastanmadhye vidyate rasaḥ || 148 ||  
+कालवर्णेश्वरो नाम देवस्तस्याग्रकुण्डकम् ।  
+इन्द्रगोपकसङ्काशस्तन्मध्ये विद्यते रसः ॥ १४८ ॥  
 
 
-taptāni saptalohāni tatsekātkāñcanaṃ bhavet |  
-śrīśailasya tu īśāne devaḥ syātturaleśvaraḥ || 149 ||  
+तप्तानि सप्तलोहानि तत्सेकात्काञ्चनं भवेत् ।  
+श्रीशैलस्य तु ईशाने देवः स्यात्तुरलेश्वरः ॥ १४९ ॥  
 
 
-tasyottare suvikhyāta umāparvata uttamaḥ |  
-tasya mūrdhni triśūlābhā darbhāstiṣṭhanti śobhanāḥ || 150 ||  
+तस्योत्तरे सुविख्यात उमापर्वत उत्तमः ।  
+तस्य मूर्ध्नि त्रिशूलाभा दर्भास्तिष्ठन्ति शोभनाः ॥ १५० ॥  
 
 
-tasyādhaḥ kaṭimātraṃ tu khātvā nīlāṃ mṛdaṃ haret |  
-tāṃ pacedakṣajaiḥ kāṣṭhairbhāgaṃ devāya kalpayet || 151 ||  
+तस्याधः कटिमात्रं तु खात्वा नीलां मृदं हरेत् ।  
+तां पचेदक्षजैः काष्ठैर्भागं देवाय कल्पयेत् ॥ १५१ ॥  
 
 
-atitheśca tathā'gneśca bhāgaṃ bhāgaṃ prakalpayet |  
-bhāgamātmani bhuñjīta jīvetkalpāyutaṃ naraḥ || 152 ||  
+अतिथेश्च तथाऽग्नेश्च भागं भागं प्रकल्पयेत् ।  
+भागमात्मनि भुञ्जीत जीवेत्कल्पायुतं नरः ॥ १५२ ॥  
 
 
-tatra koṭīśvaraṃ khyātamileśvarasamīpataḥ |  
-tasyāgre puṣpamātraṃ tu sparśavedhakaraṃ bhavet || 153 ||  
+तत्र कोटीश्वरं ख्यातमिलेश्वरसमीपतः ।  
+तस्याग्रे पुष्पमात्रं तु स्पर्शवेधकरं भवेत् ॥ १५३ ॥  
 
 
-acaleśaśca tatraiva sparśavedhakaraḥ paraḥ |  
-dakṣiṇe acaleśasya yojanaikena vidyate || 154 ||  
+अचलेशश्च तत्रैव स्पर्शवेधकरः परः ।  
+दक्षिणे अचलेशस्य योजनैकेन विद्यते ॥ १५४ ॥  
 
 
-amareśvaradevākhyastatra svarṇaśilā śubhā |  
-tasya pṛṣṭhe ca gomāṃsaṃ mahāmāṃsaṃ ca vā kṣipet || 155 ||  
+अमरेश्वरदेवाख्यस्तत्र स्वर्णशिला शुभा ।  
+तस्य पृष्ठे च गोमांसं महामांसं च वा क्षिपेत् ॥ १५५ ॥  
 
 
-prajvālya badarīkāṣṭhaiḥ prātaḥ svarṇopamā tu sā |  
-dṛśyate rajasā strīṇāṃ bhāvitaṃ vastrakhaṇḍakam || 156 ||  
+प्रज्वाल्य बदरीकाष्ठैः प्रातः स्वर्णोपमा तु सा ।  
+दृश्यते रजसा स्त्रीणां भावितं वस्त्रखण्डकम् ॥ १५६ ॥  
 
 
-tacchilāloḍitaṃ kuryādrakṣedalābupātrake |  
-tena saṃsparśamātreṇa lohaṃ bhavati hāṭakam || 157 ||  
+तच्छिलालोडितं कुर्याद्रक्षेदलाबुपात्रके ।  
+तेन संस्पर्शमात्रेण लोहं भवति हाटकम् ॥ १५७ ॥  
 
 
-śrīśaile tatra tatraiva pāṣāṇā piṇḍabhūsthitāḥ |  
-taccūrṇaṃ triphalāsārdhaṃ karṣaikaṃ bhakṣayetsadā || 158 ||  
+श्रीशैले तत्र तत्रैव पाषाणा पिण्डभूस्थिताः ।  
+तच्चूर्णं त्रिफलासार्धं कर्षैकं भक्षयेत्सदा ॥ १५८ ॥  
 
 
-māsārdhaṃ tu jarāṃ hanti jīvedācandratārakam |  
-nairṛtye śailarājasya paṭāhakarṇa īśvaraḥ || 159 ||  
+मासार्धं तु जरां हन्ति जीवेदाचन्द्रतारकम् ।  
+नैरृत्ये शैलराजस्य पटाहकर्ण ईश्वरः ॥ १५९ ॥  
 
 
-tasya ceśānadigbhāge pañcaviṃśatidhanvake |  
-dvihastamātrordhvaśilā tatra hastadvayaṃ khanet || 160 ||  
+तस्य चेशानदिग्भागे पञ्चविंशतिधन्वके ।  
+द्विहस्तमात्रोर्ध्वशिला तत्र हस्तद्वयं खनेत् ॥ १६० ॥  
 
 
-śrāvasampuṭasaṅkāśān pāṣāṇāṃstriṃśadāharet |  
-kṛtvā tānagnivarṇāṃśca siñcetkūṣmāṇḍajairdravaiḥ || 161 ||  
+श्रावसम्पुटसङ्काशान् पाषाणांस्त्रिंशदाहरेत् ।  
+कृत्वा तानग्निवर्णांश्च सिञ्चेत्कूष्माण्डजैर्द्रवैः ॥ १६१ ॥  
 
 
-tanmadhyānnavanītaṃ tu gṛhyāddevāya bhāgakam |  
-atitherbhāgamekaṃ tu bhāgaikaṃ bhakṣayedbudhaḥ || 162 ||  
+तन्मध्यान्नवनीतं तु गृह्याद्देवाय भागकम् ।  
+अतिथेर्भागमेकं तु भागैकं भक्षयेद्बुधः ॥ १६२ ॥  
 
 
-mūrcchā bhaveddivārātraṃ prabuddho jāyate naraḥ |  
-jīvedvarṣāyutaṃ vīro valīpalitavarjitaḥ || 163 ||  
+मूर्च्छा भवेद्दिवारात्रं प्रबुद्धो जायते नरः ।  
+जीवेद्वर्षायुतं वीरो वलीपलितवर्जितः ॥ १६३ ॥  
 
 
-tasya devasya sopānaṃ dvitīyaṃ sparśavedhakam |  
-tasya devasya pārśve tu pāṣāṇāḥ śvetapītakāḥ || 164 ||  
+तस्य देवस्य सोपानं द्वितीयं स्पर्शवेधकम् ।  
+तस्य देवस्य पार्श्वे तु पाषाणाः श्वेतपीतकाः ॥ १६४ ॥  
 
 
-sarvasparśā na sandeha ekameva samāharet |  
-tasya devasya pūrve tu kūpaḥ syānnātidūrataḥ || 165 ||  
+सर्वस्पर्शा न सन्देह एकमेव समाहरेत् ।  
+तस्य देवस्य पूर्वे तु कूपः स्यान्नातिदूरतः ॥ १६५ ॥  
 
 
-tanmadhye bhekasaṅkāśāḥ pāṣāṇāḥ sparśavedhakāḥ |  
-uttare tasya devasya vikhyāto liṅgaparvataḥ || 166 ||  
+तन्मध्ये भेकसङ्काशाः पाषाणाः स्पर्शवेधकाः ।  
+उत्तरे तस्य देवस्य विख्यातो लिङ्गपर्वतः ॥ १६६ ॥  
 
 
-tasya cottarapārśve tu nadī syātpūrvavāhinī |  
-nadyāḥ paścimadigbhāge liṅgaṃ piṅgalavarṇakam || 167 ||  
+तस्य चोत्तरपार्श्वे तु नदी स्यात्पूर्ववाहिनी ।  
+नद्याः पश्चिमदिग्भागे लिङ्गं पिङ्गलवर्णकम् ॥ १६७ ॥  
 
 
-tatra śailodakaiḥ kuṇḍaṃ pūrṇaṃ syātkṣaṇavedhakam |  
-maheśāddakṣiṇe bhāge caṇḍikā yojanadvaye || 168 ||  
+तत्र शैलोदकैः कुण्डं पूर्णं स्यात्क्षणवेधकम् ।  
+महेशाद्दक्षिणे भागे चण्डिका योजनद्वये ॥ १६८ ॥  
 
 
-piṇḍādevīti vikhyātā tasyā vāyavyakoṇataḥ |  
-kūpastiṣṭhati tanmadhye pāṣāṇā mudgavarṇakāḥ || 169 ||  
+पिण्डादेवीति विख्याता तस्या वायव्यकोणतः ।  
+कूपस्तिष्ठति तन्मध्ये पाषाणा मुद्गवर्णकाः ॥ १६९ ॥  
 
 
-tathā pathyāṃnibhāścaiva sarve te sparśavedhakāḥ |  
-sparśanādatra sarveṣāṃ vedhayuktirvidhīyate || 170 ||  
+तथा पथ्यांनिभाश्चैव सर्वे ते स्पर्शवेधकाः ।  
+स्पर्शनादत्र सर्वेषां वेधयुक्तिर्विधीयते ॥ १७० ॥  
 
 
-sthūlaścetpeṣayecchlakṣṇaṃ tena mūṣāṃ tu kārayet |  
-aṣṭalohāni tanmadhye samāvartyāni kārayet || 171 ||  
+स्थूलश्चेत्पेषयेच्छ्लक्ष्णं तेन मूषां तु कारयेत् ।  
+अष्टलोहानि तन्मध्ये समावर्त्यानि कारयेत् ॥ १७१ ॥  
 
 
-tatsarvaṃ jāyate svarṇamevaṃ kuryādyathepsitam |  
-sūkṣmaścedaṣṭalohānāṃ drutānāṃ yatra kutracit || 172 ||  
+तत्सर्वं जायते स्वर्णमेवं कुर्याद्यथेप्सितम् ।  
+सूक्ष्मश्चेदष्टलोहानां द्रुतानां यत्र कुत्रचित् ॥ १७२ ॥  
 
 
-taṃ sarvaṃ nikṣipenmadhye sarvaṃ tatkāñcanaṃ bhavet |  
-mallikārjunavāyavye tīrthaṃ sarveśvaraṃ sthitam || 173 ||  
+तं सर्वं निक्षिपेन्मध्ये सर्वं तत्काञ्चनं भवेत् ।  
+मल्लिकार्जुनवायव्ये तीर्थं सर्वेश्वरं स्थितम् ॥ १७३ ॥  
 
 
-tasya dakṣiṇadigbhāge jalamārge'rdhayojane |  
-gate ḍāṅgarikaṃ tatra dṛśyate tasya mūrdhani || 174 ||  
+तस्य दक्षिणदिग्भागे जलमार्गेऽर्धयोजने ।  
+गते डाङ्गरिकं तत्र दृश्यते तस्य मूर्धनि ॥ १७४ ॥  
 
 
-dhātrīphalāni kṛṣṇāni vidyante tāni bhakṣayet |  
-yatheṣṭāni tu saptāhaṃ vajrakāyo bhavennaraḥ || 175 ||  
+धात्रीफलानि कृष्णानि विद्यन्ते तानि भक्षयेत् ।  
+यथेष्टानि तु सप्ताहं वज्रकायो भवेन्नरः ॥ १७५ ॥  
 
 
-balīpalitanirmukto jīvetkalpaśatatrayam |  
-tasmācca dakṣiṇe bhāge kākalerīmahānavam || 176 ||  
+बलीपलितनिर्मुक्तो जीवेत्कल्पशतत्रयम् ।  
+तस्माच्च दक्षिणे भागे काकलेरीमहानवम् ॥ १७६ ॥  
 
 
-tatrāsti stambhakadalī praviśettatra sādhakaḥ |  
-gacchetkrośārdhamātraṃ tu dṛśyate rasakuṇḍakam || 177 ||  
+तत्रास्ति स्तम्भकदली प्रविशेत्तत्र साधकः ।  
+गच्छेत्क्रोशार्धमात्रं तु दृश्यते रसकुण्डकम् ॥ १७७ ॥  
 
 
-gṛhītvā'lābupātre tu koṭivedhī bhavedrasaḥ |  
-tasmin vane mayūraḥsyānnīlavarṇaśilāmayaḥ || 178 ||  
+गृहीत्वाऽलाबुपात्रे तु कोटिवेधी भवेद्रसः ।  
+तस्मिन् वने मयूरःस्यान्नीलवर्णशिलामयः ॥ १७८ ॥  
 
 
-mukhāgre tasya kuṇḍaṃ tu dvādaśāṅgulanīlakam |  
-tanmadhye śuṣkavaṃśaṃ tu kṣiptvā syānnūtanaḥ kṣaṇāt || 179 ||  
+मुखाग्रे तस्य कुण्डं तु द्वादशाङ्गुलनीलकम् ।  
+तन्मध्ये शुष्कवंशं तु क्षिप्त्वा स्यान्नूतनः क्षणात् ॥ १७९ ॥  
 
 
-dine patraṃ phalaṃ puṣpaṃ jāyate tasya nānyathā |  
-tatra pāradaprasthaikaṃ kṣiptvā tāvajjalaṃ haret || 180 ||  
+दिने पत्रं फलं पुष्पं जायते तस्य नान्यथा ।  
+तत्र पारदप्रस्थैकं क्षिप्त्वा तावज्जलं हरेत् ॥ १८० ॥  
 
 
-kṣaudratulyaṃ pibettaṃ vai tatkṣaṇānmūrcchito bhavet |  
-muhūrtāllabdharājyaḥ syājjīvedyugasahasrakam || 181 ||  
+क्षौद्रतुल्यं पिबेत्तं वै तत्क्षणान्मूर्च्छितो भवेत् ।  
+मुहूर्ताल्लब्धराज्यः स्याज्जीवेद्युगसहस्रकम् ॥ १८१ ॥  
 
 
-śailasyāgneyabhāge tu guṭikāsiddhakeśvaraḥ |  
-vidyate tasya purataḥ pañcahastāṃ khanedbhuvam || 182 ||  
+शैलस्याग्नेयभागे तु गुटिकासिद्धकेश्वरः ।  
+विद्यते तस्य पुरतः पञ्चहस्तां खनेद्भुवम् ॥ १८२ ॥  
 
 
-pāṣāṇā badarākārāḥ santi khegatidāyakāḥ |  
-ekameva samāhṛtya vaktre dhāryaḥ khagāmibhiḥ || 183 ||  
+पाषाणा बदराकाराः सन्ति खेगतिदायकाः ।  
+एकमेव समाहृत्य वक्त्रे धार्यः खगामिभिः ॥ १८३ ॥  
 
 
-śrīśaile sarvayogānāmuktānāṃ vidhirucyate |  
-mantranyāsaṃ purā kṛtvā paścāllakṣaṃ japedanu || 184 ||  
+श्रीशैले सर्वयोगानामुक्तानां विधिरुच्यते ।  
+मन्त्रन्यासं पुरा कृत्वा पश्चाल्लक्षं जपेदनु ॥ १८४ ॥  
 
 
-aghoraṃ tena vai śīghraṃ tattatsiddhimavāpnuyāt |  
+अघोरं तेन वै शीघ्रं तत्तत्सिद्धिमवाप्नुयात् ।  
 
 
-kṣetradevatāmāvāhayet | tatra svapne devatā pratyakṣībhūya varaṃ dadāti |
+क्षेत्रदेवतामावाहयेत् । तत्र स्वप्ने देवता प्रत्यक्षीभूय वरं ददाति ।
 
-evaṃ mantraparaiḥ suniścalatarairbhaktaiśca tatsādhakaiḥ śambhoḥ pūjanatatparaiḥ pratidinaṃ pūjāvidheḥ pālakaiḥ | kāryaṃ śrīgirisā \[\] dhanaṃ japaparairāmnāyapāraṅgatai rno cetkleśakaraṃ parākṛtamaho vyarthaṃ bhavenniścitam || 185 ||
+एवं मन्त्रपरैः सुनिश्चलतरैर्भक्तैश्च तत्साधकैः शम्भोः पूजनतत्परैः प्रतिदिनं पूजाविधेः पालकैः । कार्यं श्रीगिरिसा \[\] धनं जपपरैराम्नायपारङ्गतै र्नो चेत्क्लेशकरं पराकृतमहो व्यर्थं भवेन्निश्चितम् ॥ १८५ ॥
 
-iti śrīpārvatīputraśrīnityanāthasiddhaviracite rasaratnākare rasāyanakhaṇḍe śrīparvatasādhanaṃ nāmāṣṭamopadeśaḥ ||
+इति श्रीपार्वतीपुत्रश्रीनित्यनाथसिद्धविरचिते रसरत्नाकरे रसायनखण्डे श्रीपर्वतसाधनं नामाष्टमोपदेशः ॥
 
-samāpto'yaṃ rasāyanakhaṇḍaḥ |
-+++(śrīśailaparvatastu dakṣiṇabhārate karṇāṭakadeśa vartate |)+++
+समाप्तोऽयं रसायनखण्डः ।
++++(श्रीशैलपर्वतस्तु दक्षिणभारते कर्णाटकदेश वर्तते ।)+++

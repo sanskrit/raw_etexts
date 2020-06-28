@@ -1,6 +1,5 @@
 ---
 
-
 ---
 प्रज्ञां काम् अपि सम्पदं च कुरुते यत्पादसंवाहनं  
 नित्यं शाम्यति विष्वगन्धतमसं यच्चक्षुर् उन्मीलनात् ।  
@@ -6910,6274 +6909,6274 @@
 
 गन्तुं वाञ्छसि गच्छ पिच्छिलम् अमी यावन् न कुर्वन्ति ते  
 पन्थानं मृदुमर्दलध्वनिमुचो धाराभिर् अम्भोधराः ।  
-एतस्यास् तव तानि # rahasi premākṣarāṇi dhruvaṃ   
-dhyāyantyās tu vipad vinodanasakhī murcchaiva sampatsyate ||732||  
+एतस्यास् तव तानि # रहसि प्रेमाक्षराणि ध्रुवं   
+ध्यायन्त्यास् तु विपद् विनोदनसखी मुर्च्छैव सम्पत्स्यते ॥७३२॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-yāsyāmīti giraḥ śrutā avadhir apy ālambitaś cetasā  
-gehe yatnavatī bhaviṣyasi sadety etat samākarṇitam |  
-mugdhe mā śuca ity udīritavataḥ patyur nirīkṣyānanaṃ  
-niḥśvasya stanapāyini svatanaye dṛṣṭiś ciraṃ pātitā ||733||  
+यास्यामीति गिरः श्रुता अवधिर् अप्य् आलम्बितश् चेतसा  
+गेहे यत्नवती भविष्यसि सदेत्य् एतत् समाकर्णितम् ।  
+मुग्धे मा शुच इत्य् उदीरितवतः पत्युर् निरीक्ष्याननं  
+निःश्वस्य स्तनपायिनि स्वतनये दृष्टिश् चिरं पातिता ॥७३३॥  
 
 
-bhadantadhīranāgasya | (Sv 1064)  
+भदन्तधीरनागस्य । (स्व् १०६४)  
 
 
-āyāsyasy avadhāvaparyavasite gatveti saṃbhāvyate   
-saṃprāpte tvayi yāni tānyapi sukhāny adyāparokṣāṇi naḥ |  
-kiṃ tv ajñātaviyogavedanam idaṃ sadyas tvayi prasthite   
-cetaḥ kiṃ nu karīṣyatīty aviditaṃ samyaṅ na niścīyate ||734||  
+आयास्यस्य् अवधावपर्यवसिते गत्वेति संभाव्यते   
+संप्राप्ते त्वयि यानि तान्यपि सुखान्य् अद्यापरोक्षाणि नः ।  
+किं त्व् अज्ञातवियोगवेदनम् इदं सद्यस् त्वयि प्रस्थिते   
+चेतः किं नु करीष्यतीत्य् अविदितं सम्यङ् न निश्चीयते ॥७३४॥  
 
 
-kasyacit | (Sv 1061)  
+कस्यचित् । (स्व् १०६१)  
 
 
-lolair locanavāribhiḥ saśapathaiḥ pādapraṇāmaiḥ priyair  
-anyās tā vinivārayanti kṛpaṇāḥ prāṇeśvaraṃ prasthitam |  
-puṇyāhaṃ vraja maṅgalaṃ sudivasaṃ prātaḥ prayātasya te  
-yat snehocitam īhitaṃ priyatama tvaṃ nirgataḥ śroṣyasi ||735||  
+लोलैर् लोचनवारिभिः सशपथैः पादप्रणामैः प्रियैर्  
+अन्यास् ता विनिवारयन्ति कृपणाः प्राणेश्वरं प्रस्थितम् ।  
+पुण्याहं व्रज मङ्गलं सुदिवसं प्रातः प्रयातस्य ते  
+यत् स्नेहोचितम् ईहितं प्रियतम त्वं निर्गतः श्रोष्यसि ॥७३५॥  
 
 
-kasyacit | (amaru 61; Sv 1060, śā.pa. 3395, sū.mu. 37.12)  
+कस्यचित् । (अमरु ६१; स्व् १०६०, शा।प। ३३९५, सू।मु। ३७।१२)  
 
 
-53. proṣitabhartṛkā  
+५३। प्रोषितभर्तृका  
 
 
-madhye veśma samudgatā tad anu ca dvārāntarālaṃ gatā  
-niryātātha kathañcid aṅgaṇabhuvaṃ preyāṃs tu nālokitaḥ |  
-haṃho vāyasa rājahaṃsa śuka he he sārike kathyatāṃ  
-kā vārteti mṛgīdṛśo vijayate bāṣpāmbugarbhaṃ vacaḥ ||736||  
+मध्ये वेश्म समुद्गता तद् अनु च द्वारान्तरालं गता  
+निर्याताथ कथञ्चिद् अङ्गणभुवं प्रेयांस् तु नालोकितः ।  
+हंहो वायस राजहंस शुक हे हे सारिके कथ्यतां  
+का वार्तेति मृगीदृशो विजयते बाष्पाम्बुगर्भं वचः ॥७३६॥  
 
 
-mahodadheḥ | (su.ra. 718)  
+महोदधेः । (सु।र। ७१८)  
 
 
-astavyastasamīrakampitatayā dṛṣṭes tiraskāriṇīṃ   
-hastenālakavallarīm akuṭilām ānīya karṇāntikam |  
-udvīkṣya priyamārgam adhvagavadhūr astaṃ gate bhāsvati   
-chinnāśā svaniveśam eti śanakaiḥ svapnekṣaṇāśaṃsinī ||737||  
+अस्तव्यस्तसमीरकम्पिततया दृष्टेस् तिरस्कारिणीं   
+हस्तेनालकवल्लरीम् अकुटिलाम् आनीय कर्णान्तिकम् ।  
+उद्वीक्ष्य प्रियमार्गम् अध्वगवधूर् अस्तं गते भास्वति   
+छिन्नाशा स्वनिवेशम् एति शनकैः स्वप्नेक्षणाशंसिनी ॥७३७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-abhyāsasthitacūtaṣaṇḍagahanasthānādito gehinī   
-grāmaṃ kaṃcid avṛkṣakaṃ virahiṇī tūrṇaṃ vadhūr nīyatām |  
-atrāyāntyacireṇa kokilakulavyāhārajhaṃkāriṇaḥ   
-panthastrījanajīvitaikaharaṇaprauḍhāḥ puro vāsarāḥ ||738||  
+अभ्यासस्थितचूतषण्डगहनस्थानादितो गेहिनी   
+ग्रामं कंचिद् अवृक्षकं विरहिणी तूर्णं वधूर् नीयताम् ।  
+अत्रायान्त्यचिरेण कोकिलकुलव्याहारझंकारिणः   
+पन्थस्त्रीजनजीवितैकहरणप्रौढाः पुरो वासराः ॥७३८॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-saukhye gate pravasatā dayitena sārdhaṃ  
-netradvaye dayitamārgagamān nivṛtte |  
-vrīḍāvatī bata kṛtā hatajīvitena  
-niryāya yan na padmātram api prayātam ||739||  
+सौख्ये गते प्रवसता दयितेन सार्धं  
+नेत्रद्वये दयितमार्गगमान् निवृत्ते ।  
+व्रीडावती बत कृता हतजीवितेन  
+निर्याय यन् न पद्मात्रम् अपि प्रयातम् ॥७३९॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-vatse mādhavi mugdhikāsi balavad vanyaukaso devatāḥ  
-pāntu tvām ayam astam añcati ravir yāto’vadhis te pituḥ |  
-śāntaṃ pāpam amaṅgalaṃ param ataḥ śāntyā na kalyāṇi me  
-kalyan navyamadhuvratāya tuy madhūny uddiśya me dāsyasi ||740||  
+वत्से माधवि मुग्धिकासि बलवद् वन्यौकसो देवताः  
+पान्तु त्वाम् अयम् अस्तम् अञ्चति रविर् यातो’वधिस् ते पितुः ।  
+शान्तं पापम् अमङ्गलं परम् अतः शान्त्या न कल्याणि मे  
+कल्यन् नव्यमधुव्रताय तुय् मधून्य् उद्दिश्य मे दास्यसि ॥७४०॥  
 
 
-kasyacit |  
-54. proṣitabhartṛkāvacanam  
+कस्यचित् ।  
+५४। प्रोषितभर्तृकावचनम्  
 
 
-prasthānaṃ valayaiḥ kṛtaṃ priyasakhair ajasraṃ gataṃ  
-dhṛtyā na kṣaṇam āsitaṃ vyavasitaṃ cittena gantuṃ puraḥ |  
-gantuṃ niścitacetasi priyatame sarve samaṃ prasthitā  
-gantavye sati jīvitapriyasuhṛtsārthaḥ kim u tyajyate ||741||  
+प्रस्थानं वलयैः कृतं प्रियसखैर् अजस्रं गतं  
+धृत्या न क्षणम् आसितं व्यवसितं चित्तेन गन्तुं पुरः ।  
+गन्तुं निश्चितचेतसि प्रियतमे सर्वे समं प्रस्थिता  
+गन्तव्ये सति जीवितप्रियसुहृत्सार्थः किम् उ त्यज्यते ॥७४१॥  
 
 
-kasyacit | (amaru 32; Sbhv 1151; śā.pa. 3424; sū.mu. 37.19; padyā. 314)  
+कस्यचित् । (अमरु ३२; स्भ्व् ११५१; शा।प। ३४२४; सू।मु। ३७।१९; पद्या। ३१४)  
 
 
-āyātā madhuyāminī vijayate kāntaprayāṇotsavaḥ  
-prāṇā yāntu yiyāsavo yadi punar janmagraho’bhyarthaye |  
-vyādhaḥ kokilabandhane vidhuparidhvaṃse ca rāhor gaṇāḥ   
-kandarpe haranetrapāvakakaṇāḥ prāṇeśvare manmathaḥ ||742||  
+आयाता मधुयामिनी विजयते कान्तप्रयाणोत्सवः  
+प्राणा यान्तु यियासवो यदि पुनर् जन्मग्रहो’भ्यर्थये ।  
+व्याधः कोकिलबन्धने विधुपरिध्वंसे च राहोर् गणाः   
+कन्दर्पे हरनेत्रपावककणाः प्राणेश्वरे मन्मथः ॥७४२॥  
 
 
-indraśivasya |  
+इन्द्रशिवस्य ।  
 
 
-yātrāmaṅgalasaṃvidhānaracanāvyagre sakhīnāṃ gaṇe  
-bāṣpāmbhaḥpihitekṣaṇe gurujane tadvatsuhṛnmaṇḍale |  
-prāṇeśasya madīkṣaṇārpitadṛśaḥ kṛcchād atikrāmataḥ   
-kiṃ vrīḍāhatayā mayā bhujalatāpāśo na kaṇṭhe’rpitaḥ ||743||  
+यात्रामङ्गलसंविधानरचनाव्यग्रे सखीनां गणे  
+बाष्पाम्भःपिहितेक्षणे गुरुजने तद्वत्सुहृन्मण्डले ।  
+प्राणेशस्य मदीक्षणार्पितदृशः कृच्छाद् अतिक्रामतः   
+किं व्रीडाहतया मया भुजलतापाशो न कण्ठे’र्पितः ॥७४३॥  
 
 
-kasyacit | (Sv 1150, śā.pa. 3437)  
+कस्यचित् । (स्व् ११५०, शा।प। ३४३७)  
 
 
-kiṃ cūtair na vijṛmbhitaṃ stavakitaṃ kiṃ tair na kaṅkellibhiḥ  
-sindūrair iva mudritās tata ito jātā na kiṃ kiṃśukāḥ |  
-vismṛtyāpi na kokilaiḥ kim u rutaṃ kiṃ dākṣiṇātyānilair  
-vātaṃ tatra na nirvṛtaikahṛdayo yatrāsti me vallabhaḥ ||744||  
+किं चूतैर् न विजृम्भितं स्तवकितं किं तैर् न कङ्केल्लिभिः  
+सिन्दूरैर् इव मुद्रितास् तत इतो जाता न किं किंशुकाः ।  
+विस्मृत्यापि न कोकिलैः किम् उ रुतं किं दाक्षिणात्यानिलैर्  
+वातं तत्र न निर्वृतैकहृदयो यत्रास्ति मे वल्लभः ॥७४४॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-mayā baddhā veṇī nivasitam aśuklaṃ ca vasanaṃ  
-śrutāḥ śocantīnāṃ parjanasakhīnām api giraḥ |  
-nivṛttās te dṛṣṭā gatm anugatā ye’sya suhṛdas  
-tathāpy ete prāṇā dayitam anuyātā na kṛpaṇāḥ ||745||  
+मया बद्धा वेणी निवसितम् अशुक्लं च वसनं  
+श्रुताः शोचन्तीनां पर्जनसखीनाम् अपि गिरः ।  
+निवृत्तास् ते दृष्टा गत्म् अनुगता ये’स्य सुहृदस्  
+तथाप्य् एते प्राणा दयितम् अनुयाता न कृपणाः ॥७४५॥  
 
 
-kasyacit | (Sv 1142)  
+कस्यचित् । (स्व् ११४२)  
 
 
-55. sakhīṃ prati proṣitabhartṛkāvacanam  
+५५। सखीं प्रति प्रोषितभर्तृकावचनम्  
 
 
-avadhidivasaḥ prāptaś cāyaṃ tanor virahasya vā   
-ravir ayam upaity astaṃ sakhyo mamāpi ca jīvitam |  
-tad alam aphalair āśābandhaiḥ prasīda namo’stu te   
-hṛdaya sahasā pākotpīḍaṃ viḍambaya dāḍimam ||746||  
+अवधिदिवसः प्राप्तश् चायं तनोर् विरहस्य वा   
+रविर् अयम् उपैत्य् अस्तं सख्यो ममापि च जीवितम् ।  
+तद् अलम् अफलैर् आशाबन्धैः प्रसीद नमो’स्तु ते   
+हृदय सहसा पाकोत्पीडं विडम्बय दाडिमम् ॥७४६॥  
 
 
-abhimanyoḥ | (sū.mu. 4019)  
+अभिमन्योः । (सू।मु। ४०१९)  
 
 
-garjaty ekaḥ parabhṛtayuvā pañcamadhvānagarbhaṃ  
-vāti svairaṃ malayapavano dūrato jīviteśaḥ |  
-ehy āliṅga priyasakhi punaḥ kvāvayor darśanaṃ syāt  
-pratyāsannaṃ maraṇam asavaḥ kaṇṭhadeśe luṭhanti ||747||  
+गर्जत्य् एकः परभृतयुवा पञ्चमध्वानगर्भं  
+वाति स्वैरं मलयपवनो दूरतो जीवितेशः ।  
+एह्य् आलिङ्ग प्रियसखि पुनः क्वावयोर् दर्शनं स्यात्  
+प्रत्यासन्नं मरणम् असवः कण्ठदेशे लुठन्ति ॥७४७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-avadhidivasaḥ so’yaṃ nātrāgataḥ kim iyat kṣaṇaṃ   
-vitara nayane paśyaitan me puraḥ sakhi sāhasam |  
-iyam iyam ahaṃ rūḍhajvālākarālitarodasīṃ   
-malayajarasābhyaktair aṅgaiḥ patāmy abhi kaumudīm ||748||  
+अवधिदिवसः सो’यं नात्रागतः किम् इयत् क्षणं   
+वितर नयने पश्यैतन् मे पुरः सखि साहसम् ।  
+इयम् इयम् अहं रूढज्वालाकरालितरोदसीं   
+मलयजरसाभ्यक्तैर् अङ्गैः पताम्य् अभि कौमुदीम् ॥७४८॥  
 
 
-gosakasya |  
+गोसकस्य ।  
 
 
-dṛṣṭaṃ ketakadhūlidhūsaram idaṃ vyoma kramād vīkṣitāḥ  
-kaccāntāś ca śilīndhrakandalabhṛtaḥ soḍhāḥ kadambānilāḥ |  
-sakhyaḥ saṃvṛṇutāśru muñcata bhayaṃ kasmān mudevākulā  
-etān apy adhunāsmi vajraghaṭitā nūnaṃ sahiṣye dhanān ||749||  
+दृष्टं केतकधूलिधूसरम् इदं व्योम क्रमाद् वीक्षिताः  
+कच्चान्ताश् च शिलीन्ध्रकन्दलभृतः सोढाः कदम्बानिलाः ।  
+सख्यः संवृणुताश्रु मुञ्चत भयं कस्मान् मुदेवाकुला  
+एतान् अप्य् अधुनास्मि वज्रघटिता नूनं सहिष्ये धनान् ॥७४९॥  
 
 
-rudraṭasya | (śṛ.ti. 2.60a; padyā. 327)  
+रुद्रटस्य । (शृ।ति। २।६०अ; पद्या। ३२७)  
 
 
-prasara śiśirāmodaṃ kaundaṃ samīra samīraya  
-prakaṭaya śaśinn āśāḥ kāmaṃ manoja samullasa |  
-avadhidivasaḥ pūrṇaḥ sakhyo vimuñcata tatkathāṃ   
-hṛdayam adhunā kiñcit kartuṃ mamānyad ihecchati ||750||  
+प्रसर शिशिरामोदं कौन्दं समीर समीरय  
+प्रकटय शशिन्न् आशाः कामं मनोज समुल्लस ।  
+अवधिदिवसः पूर्णः सख्यो विमुञ्चत तत्कथां   
+हृदयम् अधुना किञ्चित् कर्तुं ममान्यद् इहेच्छति ॥७५०॥  
 
 
-tasyaiva | (śṛ.ti. 2.58e, sū.mu. 40.18; padyā. 334)  
+तस्यैव । (शृ।ति। २।५८ए, सू।मु। ४०।१८; पद्या। ३३४)  
 
 
-56. proṣitabhartṛkāpriyasaṃvādaḥ   
+५६। प्रोषितभर्तृकाप्रियसंवादः   
 
 
-dvārastambhaniṣaṇṇayā dayitayā vakrīkṛtagrīvayā  
-nāsāgrāgatavāribinduvisaraiḥ saṃsicyamānāṅgayā |  
-manyustambhitakaṇṭhagadgadagirā proccāritārdhākṣaraṃ  
-saṃdiṣṭaṃ tava kāntayā pathika tad vaktuṃ na yat prārthaye ||751||  
+द्वारस्तम्भनिषण्णया दयितया वक्रीकृतग्रीवया  
+नासाग्रागतवारिबिन्दुविसरैः संसिच्यमानाङ्गया ।  
+मन्युस्तम्भितकण्ठगद्गदगिरा प्रोच्चारितार्धाक्षरं  
+संदिष्टं तव कान्तया पथिक तद् वक्तुं न यत् प्रार्थये ॥७५१॥  
 
 
-tutātitasya |  
+तुतातितस्य ।  
 
 
-nāvasthā vapuṣo mameyam avadher uktasya nātikramo  
-nopālambhapadāni vāpy akaruṇe tatrābhidheyāni te |  
-praṣṭavyaḥ śivamāli kevalam asau kaccid bhavadgocare  
-nāyātaṃ malayānilair mukulitaṃ kaccin na cūtair iti ||752||  
+नावस्था वपुषो ममेयम् अवधेर् उक्तस्य नातिक्रमो  
+नोपालम्भपदानि वाप्य् अकरुणे तत्राभिधेयानि ते ।  
+प्रष्टव्यः शिवमालि केवलम् असौ कच्चिद् भवद्गोचरे  
+नायातं मलयानिलैर् मुकुलितं कच्चिन् न चूतैर् इति ॥७५२॥  
 
 
-vākkūṭasya | (su.ra. 725)  
+वाक्कूटस्य । (सु।र। ७२५)  
 
 
-kuṭajakaṭavo ghrātā vātāḥ śrutaṃ ghanagarjitaṃ  
-niśi niśi muhuḥ śūnye talpe kṛtaḥ śayanaśramaḥ |  
-avadhigaṇanā rekhā pūrṇāḥ kṛtā gṛhabhittayo  
-na tava savidhaṃ prāṇāḥ prāptā na vā tvam ihāgataḥ ||753||  
+कुटजकटवो घ्राता वाताः श्रुतं घनगर्जितं  
+निशि निशि मुहुः शून्ये तल्पे कृतः शयनश्रमः ।  
+अवधिगणना रेखा पूर्णाः कृता गृहभित्तयो  
+न तव सविधं प्राणाः प्राप्ता न वा त्वम् इहागतः ॥७५३॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-vijñaptir eṣā mama jīvabandho  
-tatraiva neyā divasāḥ kiyantaḥ |  
-saṃpraty ayogyasthitir eṣa deśaḥ  
-karā himāṃśor api tāpayanti ||754||  
+विज्ञप्तिर् एषा मम जीवबन्धो  
+तत्रैव नेया दिवसाः कियन्तः ।  
+संप्रत्य् अयोग्यस्थितिर् एष देशः  
+करा हिमांशोर् अपि तापयन्ति ॥७५४॥  
 
 
-vijjāyā gaṇapateḥ |  
+विज्जाया गणपतेः ।  
 
 
-gantāsi cet pathika he mama yatra kāntas  
-tattvaṃ vaco hara śucau jagatām asahyaḥ |  
-tāpaḥ sagarjaguruvārinipātabhītas  
-tyaktvā bhuvaṃ virahiṇīhṛdayaṃ viveśa ||755||  
+गन्तासि चेत् पथिक हे मम यत्र कान्तस्  
+तत्त्वं वचो हर शुचौ जगताम् असह्यः ।  
+तापः सगर्जगुरुवारिनिपातभीतस्  
+त्यक्त्वा भुवं विरहिणीहृदयं विवेश ॥७५५॥  
 
 
-laḍahacandrasya |  
-57. proṣitabhartṛkāvasthā  
+लडहचन्द्रस्य ।  
+५७। प्रोषितभर्तृकावस्था  
 
 
-aviralapatadbāṣpotpīḍaprasiktakapolayā   
-vacanaviṣayaḥ saṃdeśo’nyas tayā vihito na te |  
-manasi kim api dhyāyantyā tu kṣaṇaṃ tava kāntayā   
-pathika nihitā dṛṣṭiḥ kaṣṭaṃ nave karuṇāṅkure ||756||  
+अविरलपतद्बाष्पोत्पीडप्रसिक्तकपोलया   
+वचनविषयः संदेशो’न्यस् तया विहितो न ते ।  
+मनसि किम् अपि ध्यायन्त्या तु क्षणं तव कान्तया   
+पथिक निहिता दृष्टिः कष्टं नवे करुणाङ्कुरे ॥७५६॥  
 
 
-dharmapālasya |  
+धर्मपालस्य ।  
 
 
-pakṣmāgraskhalitāśrudhautavalayā niṣpandatārekṣaṇā  
-bibhrāṇā karapallavena satataṃ kṣāmaṃ kapolasthalam |  
-sedānīṃ likhiteva kām api gatāvasthāṃ sakhībhiś cirād  
-āsannāvadhivāsaraprakaṭitapratyāśayāśvāsyate ||757||  
+पक्ष्माग्रस्खलिताश्रुधौतवलया निष्पन्दतारेक्षणा  
+बिभ्राणा करपल्लवेन सततं क्षामं कपोलस्थलम् ।  
+सेदानीं लिखितेव काम् अपि गतावस्थां सखीभिश् चिराद्  
+आसन्नावधिवासरप्रकटितप्रत्याशयाश्वास्यते ॥७५७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-vicchinne’vadhivāsare kṣaṇam atha tvadvartmavātāyanaṃ  
-vāraṃ vāram upetya nirghṛṇatayā niścitya kiṃcit tataḥ |  
-sampraty eva nivedya kelikurarīḥ sāsraṃ sakhībhyaḥ śiśor  
-mādhavyāḥ sahakārakeṇa karuṇaḥ pāṇigrahaḥ kalpitaḥ ||758||  
+विच्छिन्ने’वधिवासरे क्षणम् अथ त्वद्वर्त्मवातायनं  
+वारं वारम् उपेत्य निर्घृणतया निश्चित्य किंचित् ततः ।  
+सम्प्रत्य् एव निवेद्य केलिकुररीः सास्रं सखीभ्यः शिशोर्  
+माधव्याः सहकारकेण करुणः पाणिग्रहः कल्पितः ॥७५८॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-nipatati śayane tava smarantī  
-pathikavadhūr avadhūtajīvitāśā |  
-jaladharasamayasya ketubhūtāṃ  
-vakulalatām avalokya puṣpitāgrām ||759||  
+निपतति शयने तव स्मरन्ती  
+पथिकवधूर् अवधूतजीविताशा ।  
+जलधरसमयस्य केतुभूतां  
+वकुललताम् अवलोक्य पुष्पिताग्राम् ॥७५९॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-ādūrāt pratipāntham āhitadṛśaḥ pratyāśayonmīlati   
-dhvānte svāntam ahar vyaye’pi na parāvṛttaṃ kuraṅgīdṛśaḥ |  
-tasyā niḥsahabāhuvallivigaladdhammillavad bhaṅgura   
-grīvaṃ dīrgham ajīvavat priyasakhīvargeṇa nītaṃ vapuḥ ||760||  
+आदूरात् प्रतिपान्थम् आहितदृशः प्रत्याशयोन्मीलति   
+ध्वान्ते स्वान्तम् अहर् व्यये’पि न परावृत्तं कुरङ्गीदृशः ।  
+तस्या निःसहबाहुवल्लिविगलद्धम्मिल्लवद् भङ्गुर   
+ग्रीवं दीर्घम् अजीववत् प्रियसखीवर्गेण नीतं वपुः ॥७६०॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-58. vartmāvalokinī  
+५८। वर्त्मावलोकिनी  
 
 
-pāṇḍukṣāmakapolapāliluṭhitāṃ trastaiṇaśāvekṣaṇā  
-hastena ślathakaṅkaṇena kavarīm ullāsayantī muhuḥ |  
-dvāropāntavilambinī priyapathaṃ tanvaṅgi yad vīkṣase  
-tan manye vikaṭair ivāñcasi puraḥ panthānam indīvaraiḥ ||761||  
+पाण्डुक्षामकपोलपालिलुठितां त्रस्तैणशावेक्षणा  
+हस्तेन श्लथकङ्कणेन कवरीम् उल्लासयन्ती मुहुः ।  
+द्वारोपान्तविलम्बिनी प्रियपथं तन्वङ्गि यद् वीक्षसे  
+तन् मन्ये विकटैर् इवाञ्चसि पुरः पन्थानम् इन्दीवरैः ॥७६१॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-paryasto divasas taṭīmayam aṭaty astācalasyāṃśumān  
-saṃpraty aṅkuritāndhakārapaṭalair lambālakā dyaur iva |  
-ehy antar viśa veśmanaḥ śaśimukhi dvārasthalītoraṇe  
-stambhālambitabāhuvalli rudatī kiṃ tvaṃ pathaḥ paśyasi ||762||  
+पर्यस्तो दिवसस् तटीमयम् अटत्य् अस्ताचलस्यांशुमान्  
+संप्रत्य् अङ्कुरितान्धकारपटलैर् लम्बालका द्यौर् इव ।  
+एह्य् अन्तर् विश वेश्मनः शशिमुखि द्वारस्थलीतोरणे  
+स्तम्भालम्बितबाहुवल्लि रुदती किं त्वं पथः पश्यसि ॥७६२॥  
 
 
-dharmayogeśvarasya |  
+धर्मयोगेश्वरस्य ।  
 
 
-utkṣipyālakamālikāṃ vilulitām āpāṇḍugaṇḍasthalād  
-viśliṣyadvalayaprapātabhayataḥ prodyamya kiñcit karau |  
-dvārastambhaniṣaṇṇagātralatikā kenāpi puṇyātmanā  
-mārgālokanadattadṛṣṭir abalā tatkālam āliṅgyate ||763||  
+उत्क्षिप्यालकमालिकां विलुलिताम् आपाण्डुगण्डस्थलाद्  
+विश्लिष्यद्वलयप्रपातभयतः प्रोद्यम्य किञ्चित् करौ ।  
+द्वारस्तम्भनिषण्णगात्रलतिका केनापि पुण्यात्मना  
+मार्गालोकनदत्तदृष्टिर् अबला तत्कालम् आलिङ्ग्यते ॥७६३॥  
 
 
-rudraṭasya | (śṛ.ti. 1.81)  
+रुद्रटस्य । (शृ।ति। १।८१)  
 
 
-ājanmavyavasāyinā kratuśatair ārādhya puṣpāyudhaṃ   
-kenākāri purā tanūdari tanutyāgaḥ prayāgabhrame |  
-yasyārthe sakhi lolanetranalinīnālāyamānaskhalad   
-baṣpāmbhaḥ patanāntarālavalitagrīvaṃ pathaḥ paśyasi ||764||  
+आजन्मव्यवसायिना क्रतुशतैर् आराध्य पुष्पायुधं   
+केनाकारि पुरा तनूदरि तनुत्यागः प्रयागभ्रमे ।  
+यस्यार्थे सखि लोलनेत्रनलिनीनालायमानस्खलद्   
+बष्पाम्भः पतनान्तरालवलितग्रीवं पथः पश्यसि ॥७६४॥  
 
 
-dhoyīkasya |   
+धोयीकस्य ।   
 
 
-ādṛṣṭiprasarāt priyasya padavīm udvīkṣya nirviṇṇayā  
-viśrānteṣu pathiṣv ahaḥpariṇatau dhvānte samutsarpati |  
-yāntyaiva svaniveśanaṃ pratipathaṃ pānthastriyāsmin kṣaṇe  
-mā bhūd āgata ity amandavalitodgrīvaṃ muhur vīkṣitam ||765||  
+आदृष्टिप्रसरात् प्रियस्य पदवीम् उद्वीक्ष्य निर्विण्णया  
+विश्रान्तेषु पथिष्व् अहःपरिणतौ ध्वान्ते समुत्सर्पति ।  
+यान्त्यैव स्वनिवेशनं प्रतिपथं पान्थस्त्रियास्मिन् क्षणे  
+मा भूद् आगत इत्य् अमन्दवलितोद्ग्रीवं मुहुर् वीक्षितम् ॥७६५॥  
 
 
-siddhokasya | (amaru 64, da.rū. 2.27a, Sv 1056, su.ra. 728)  
+सिद्धोकस्य । (अमरु ६४, द।रू। २।२७अ, स्व् १०५६, सु।र। ७२८)  
 
 
-59. kākaḥ  
+५९। काकः  
 
 
-gatostaṃ tigmāṃśur vraja sahacarīnīḍam adhunā  
-sukhaṃ bhrātaḥ supyāṚ svajanasadṛśaṃ vāyasa kṛtam |  
-mayi snehād bāṣpasthagitarucidṛṣṭau sakaruṇaṃ  
-rudatyāṃ yo yātas tvayi sa vilapaty eṣyati katham ||766||  
+गतोस्तं तिग्मांशुर् व्रज सहचरीनीडम् अधुना  
+सुखं भ्रातः सुप्याṚ स्वजनसदृशं वायस कृतम् ।  
+मयि स्नेहाद् बाष्पस्थगितरुचिदृष्टौ सकरुणं  
+रुदत्यां यो यातस् त्वयि स विलपत्य् एष्यति कथम् ॥७६६॥  
 
 
-kasyacit | (Sv 1140)  
+कस्यचित् । (स्व् ११४०)  
 
 
-dattaṃ piṇḍaṃ nayanasalilakṣālanādhautagaṇḍaṃ  
-dvāropānte gatadayitayā saṃgamānveṣaṇāya |  
-vakragrīvaś calanataśirāḥ pārśvasaṃcārinetraḥ  
-pāśāśaṅkī galitavalayākrāntam aśnāti kākaḥ ||767||  
+दत्तं पिण्डं नयनसलिलक्षालनाधौतगण्डं  
+द्वारोपान्ते गतदयितया संगमान्वेषणाय ।  
+वक्रग्रीवश् चलनतशिराः पार्श्वसंचारिनेत्रः  
+पाशाशङ्की गलितवलयाक्रान्तम् अश्नाति काकः ॥७६७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-vāraṃ vāram alīka eva hi bhavān kiṃ vyāhṛtair gamyatā  
-mity udgamya sumandabāhulatikām utthāpayantyā ruṣā |  
-saṅkrāntair valayair alaṅkṛtagalo yuṣmadviyogocitāṃ  
-tanvaṅgyāḥ prakaṭīkarīti tanutām aṅge bhraman vāyasaḥ ||768||  
+वारं वारम् अलीक एव हि भवान् किं व्याहृतैर् गम्यता  
+मित्य् उद्गम्य सुमन्दबाहुलतिकाम् उत्थापयन्त्या रुषा ।  
+सङ्क्रान्तैर् वलयैर् अलङ्कृतगलो युष्मद्वियोगोचितां  
+तन्वङ्ग्याः प्रकटीकरीति तनुताम् अङ्गे भ्रमन् वायसः ॥७६८॥  
 
 
-kasyacit | (su.ra. 732)  
+कस्यचित् । (सु।र। ७३२)  
 
 
-yat puṣṇāsi pikānakāraṇaripūn adhvany avāmabhruvāṃ  
-yac cācchidya baliṃ vilumpasi karāt sarvaṃ sahiṣye tava |  
-haṃho madvacanāditas tvayi gate śākhāntaraṃ vāyasa   
-kṣemeṇādya samāgamiṣyati sa cet kāntaś ciraṃ proṣitaḥ ||769||  
+यत् पुष्णासि पिकानकारणरिपून् अध्वन्य् अवामभ्रुवां  
+यच् चाच्छिद्य बलिं विलुम्पसि करात् सर्वं सहिष्ये तव ।  
+हंहो मद्वचनादितस् त्वयि गते शाखान्तरं वायस   
+क्षेमेणाद्य समागमिष्यति स चेत् कान्तश् चिरं प्रोषितः ॥७६९॥  
 
 
-dhoyīkasya |  
+धोयीकस्य ।  
 
 
-ullāso virutena maṅgalabaligrāsena viśvāsanaṃ   
-saṃcāreṇa kṛto vilocanayuge bāṣpodgamāvagrahaḥ |  
-yāto’stam ravir eṣa saṃprati puraḥ svasty astu te gamyatām   
-ete tvām anuyāntu saṃprati mama prāṇāḥ priyānveṣiṇaḥ ||770||  
+उल्लासो विरुतेन मङ्गलबलिग्रासेन विश्वासनं   
+संचारेण कृतो विलोचनयुगे बाष्पोद्गमावग्रहः ।  
+यातो’स्तम् रविर् एष संप्रति पुरः स्वस्त्य् अस्तु ते गम्यताम्   
+एते त्वाम् अनुयान्तु संप्रति मम प्राणाः प्रियान्वेषिणः ॥७७०॥  
 
 
-jalacandrasya |  
+जलचन्द्रस्य ।  
 
 
-60. proṣitasambhedaḥ  
+६०। प्रोषितसम्भेदः  
 
 
-āyāte dayite marusthalabhuvām utprekṣya durlaṅghyatāṃ  
-gehinyā paritoṣabāṣpataralām āsajya dṛṣṭiṃ mukhe |  
-dattvā pīluśamīkarīrakavalān svenāñcalenādarā  
-dāmṛṣṭaṃ karabhasya kesarasaṭābhārāgralagnaṃ rajaḥ ||771||  
+आयाते दयिते मरुस्थलभुवाम् उत्प्रेक्ष्य दुर्लङ्घ्यतां  
+गेहिन्या परितोषबाष्पतरलाम् आसज्य दृष्टिं मुखे ।  
+दत्त्वा पीलुशमीकरीरकवलान् स्वेनाञ्चलेनादरा  
+दामृष्टं करभस्य केसरसटाभाराग्रलग्नं रजः ॥७७१॥  
 
 
-keśaṭasya | (sa.ka.ā. 5.120, da.rū. 4.14a, su.ra. 512, Sv 2075, sū.mu. 54.4)  
+केशटस्य । (स।क।आ। ५।१२०, द।रू। ४।१४अ, सु।र। ५१२, स्व् २०७५, सू।मु। ५४।४)  
 
 
-keyūrīkṛtakaṅkaṇāvalir asau karṇāvataṃsīkṛta  
-vyālolālakapaddhatiḥ pathi puro baddhāñjaliḥ pṛcchati |  
-yāvat kaṃcid udantam ātmakam itus tāvat sa evety atha  
-vrīḍāvakritakaṇṭhanālam abalā kaiḥ kair na bhinnā rasaiḥ ||772||  
+केयूरीकृतकङ्कणावलिर् असौ कर्णावतंसीकृत  
+व्यालोलालकपद्धतिः पथि पुरो बद्धाञ्जलिः पृच्छति ।  
+यावत् कंचिद् उदन्तम् आत्मकम् इतुस् तावत् स एवेत्य् अथ  
+व्रीडावक्रितकण्ठनालम् अबला कैः कैर् न भिन्ना रसैः ॥७७२॥  
 
 
-rājaśekharasya | (sū.mu. 54.10, su.ra. 713)  
+राजशेखरस्य । (सू।मु। ५४।१०, सु।र। ७१३)  
 
 
-nidre bhadram avasthitāsi kuśalaṃ saṃvedane kiṃ tava  
-kṣemaṃ te sakhi nirvṛte na tu samaṃ kāntena yūyaṃ gatāḥ |  
-kiṃ cānyat priyasaṅgamena calito gacchan vipadvatsalo  
-mūrcchāvismṛtivedanāparijano dṛṣṭo’smadīyo na vā ||773||  
+निद्रे भद्रम् अवस्थितासि कुशलं संवेदने किं तव  
+क्षेमं ते सखि निर्वृते न तु समं कान्तेन यूयं गताः ।  
+किं चान्यत् प्रियसङ्गमेन चलितो गच्छन् विपद्वत्सलो  
+मूर्च्छाविस्मृतिवेदनापरिजनो दृष्टो’स्मदीयो न वा ॥७७३॥  
 
 
-aravindasya | (su.ra. 717)  
+अरविन्दस्य । (सु।र। ७१७)  
 
 
-prāg yāmini priyaviyogavipattikāle  
-tvayy eva vāsaraśatāni layaṃ gatāni |  
-daivāt kathaṃ katham api priyasaṅgame’dya  
-caṇḍāli kiṃ tvam asi vāsara eva līnā ||774||  
+प्राग् यामिनि प्रियवियोगविपत्तिकाले  
+त्वय्य् एव वासरशतानि लयं गतानि ।  
+दैवात् कथं कथम् अपि प्रियसङ्गमे’द्य  
+चण्डालि किं त्वम् असि वासर एव लीना ॥७७४॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-pratyudgamya tanūruhodgativaśāt khedaskhalacceṣṭayā  
-dattvā svedalavaiḥ svahastagalitaiḥ prakṣālanā pādayoḥ |  
-kiṃcit smeramukhaprakīrṇadaśanasvacchāṃśupuṣpojjvalair  
-ānandāśrubhir arcito dayitayā pānthaś cirād āgataḥ ||775||  
+प्रत्युद्गम्य तनूरुहोद्गतिवशात् खेदस्खलच्चेष्टया  
+दत्त्वा स्वेदलवैः स्वहस्तगलितैः प्रक्षालना पादयोः ।  
+किंचित् स्मेरमुखप्रकीर्णदशनस्वच्छांशुपुष्पोज्ज्वलैर्  
+आनन्दाश्रुभिर् अर्चितो दयितया पान्थश् चिराद् आगतः ॥७७५॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-61. abhisārārambhaḥ  
+६१। अभिसारारम्भः  
 
 
-patir durvañco’yaṃ vidhuramalino vartma viṣamaṃ  
-janaś chidrānveṣī praṇayivacanaṃ duṣpariharam |  
-ataḥ kācit tanvī ratividitasaṅketagataye  
-gṛhād vāraṃ vāraṃ nirasarad atha prāviśad atha ||776||  
+पतिर् दुर्वञ्चो’यं विधुरमलिनो वर्त्म विषमं  
+जनश् छिद्रान्वेषी प्रणयिवचनं दुष्परिहरम् ।  
+अतः काचित् तन्वी रतिविदितसङ्केतगतये  
+गृहाद् वारं वारं निरसरद् अथ प्राविशद् अथ ॥७७६॥  
 
 
-kasyacit | (su.ra. 830)  
+कस्यचित् । (सु।र। ८३०)  
 
 
-mandaṃ nidhehi caraṇau paridhehi nīlaṃ  
-vāsaḥ pidhehi valayāvalim añcalena |  
-mā jalpa sāhasini śāradacandrakānti  
-dantāṃśavas tava tamāṃsi samāpayanti ||777||  
+मन्दं निधेहि चरणौ परिधेहि नीलं  
+वासः पिधेहि वलयावलिम् अञ्चलेन ।  
+मा जल्प साहसिनि शारदचन्द्रकान्ति  
+दन्तांशवस् तव तमांसि समापयन्ति ॥७७७॥  
 
 
-nālasya | (padyā.. 194; śā.pa. 3620, sū.mu. 71.8 hariharasya)  
+नालस्य । (पद्या॥ १९४; शा।प। ३६२०, सू।मु। ७१।८ हरिहरस्य)  
 
 
-utkṣiptaṃ sakhi vartipūritamukhaṃ mūkīkṛtaṃ nūpuraṃ   
-kāñcīdāma nivṛttagharghararavaṃ kṣiptaṃ dukūlāntare |  
-suptāḥ pañjarasārikāḥ parijano’py āghūrṇito nidrayā   
-śūnyo rājapathas tamāṃsi niviḍāny ehy ehi nirgamyatām ||778||  
+उत्क्षिप्तं सखि वर्तिपूरितमुखं मूकीकृतं नूपुरं   
+काञ्चीदाम निवृत्तघर्घररवं क्षिप्तं दुकूलान्तरे ।  
+सुप्ताः पञ्जरसारिकाः परिजनो’प्य् आघूर्णितो निद्रया   
+शून्यो राजपथस् तमांसि निविडान्य् एह्य् एहि निर्गम्यताम् ॥७७८॥  
 
 
-yogeśvarasya |  
+योगेश्वरस्य ।  
 
 
-sakhī nirvailakṣyā sa ca sahacaro’tyantacapalaḥ  
-kṛto mugdhe dugdhe kim iti vṛṣadaṃśaḥ praharikaḥ |  
-suvarṇaṃ svaṃ cakṣuḥ phalati na vilambasva kulaṭā  
-kulotpātaḥ śātakratavam acalaṃ cumbati śaśī ||779||  
+सखी निर्वैलक्ष्या स च सहचरो’त्यन्तचपलः  
+कृतो मुग्धे दुग्धे किम् इति वृषदंशः प्रहरिकः ।  
+सुवर्णं स्वं चक्षुः फलति न विलम्बस्व कुलटा  
+कुलोत्पातः शातक्रतवम् अचलं चुम्बति शशी ॥७७९॥  
 
 
-mitrasya |  
+मित्रस्य ।  
 
 
-muñcaty ābharaṇāni dīptamukharāṇy uttaṃsam indīvaraiḥ  
-kurvāṇā dadhatī muhur mṛgamadakṣodānuliptaṃ vapuḥ |  
-kālindījalaveṇinīlamasṛṇaṃ cīnāṃśukaṃ bibhratī  
-mugdhe tvaṃ prakaṭīkaroṣy avinayārambhaṃ vṛthā nihnavaḥ ||780||  
+मुञ्चत्य् आभरणानि दीप्तमुखराण्य् उत्तंसम् इन्दीवरैः  
+कुर्वाणा दधती मुहुर् मृगमदक्षोदानुलिप्तं वपुः ।  
+कालिन्दीजलवेणिनीलमसृणं चीनांशुकं बिभ्रती  
+मुग्धे त्वं प्रकटीकरोष्य् अविनयारम्भं वृथा निह्नवः ॥७८०॥  
 
 
-lakṣmaṇasenadevasya |  
+लक्ष्मणसेनदेवस्य ।  
 
 
-62. abhisārikā  
+६२। अभिसारिका  
 
 
-niviḍya kucayor nicolabandhaṃ  
-racaya laghūni kiyanticit padāni |  
-nijapaticirabhogapātakānā  
-mupaśamatīrtham ayaṃ sa te nikuñjaḥ ||781||  
+निविड्य कुचयोर् निचोलबन्धं  
+रचय लघूनि कियन्तिचित् पदानि ।  
+निजपतिचिरभोगपातकाना  
+मुपशमतीर्थम् अयं स ते निकुञ्जः ॥७८१॥  
 
 
-cūḍāmaṇeḥ |  
+चूडामणेः ।  
 
 
-abhisaraṇarasaḥ kṛśāṅgayaṣṭe  
-rayam aparatra na vīkṣitaḥ śruto vā |  
-ahim api yad iyaṃ nirāsa nāṅghre  
-rniviḍitanū puram ātmanīnabuddhyā ||782||  
+अभिसरणरसः कृशाङ्गयष्टे  
+रयम् अपरत्र न वीक्षितः श्रुतो वा ।  
+अहिम् अपि यद् इयं निरास नाङ्घ्रे  
+र्निविडितनू पुरम् आत्मनीनबुद्ध्या ॥७८२॥  
 
 
-dhūrjaṭeḥ | (sū.mu. 71.9)  
+धूर्जटेः । (सू।मु। ७१।९)  
 
 
-urasi nihitas tāro hāraḥ kṛtā jaghane ghane  
-kalakalavatī kāñcī pādau kvaṇanmaṇinūpurau |  
-priyamabhisarasyevaṃ mugdhe samāhataḍiṇḍimā  
-yadi kimadhikatrāsotkampaṃ diśaḥ samudīkṣase ||783||  
+उरसि निहितस् तारो हारः कृता जघने घने  
+कलकलवती काञ्ची पादौ क्वणन्मणिनूपुरौ ।  
+प्रियमभिसरस्येवं मुग्धे समाहतडिण्डिमा  
+यदि किमधिकत्रासोत्कम्पं दिशः समुदीक्षसे ॥७८३॥  
 
 
-amaroḥ | (amaru 28, da.rū. 2.27b, Sv 1947, śā.pa. 3613, sa.ka.ā.m 835)  
+अमरोः । (अमरु २८, द।रू। २।२७ब्, स्व् १९४७, शा।प। ३६१३, स।क।आ।म् ८३५)  
 
 
-kiṃ nv āvṛṇoṣi kavarīṃ sakhi kiṃ nu kāñcīṃ  
-badhnāsi varmayasi kiṃ kucayor nicolam |  
-sotkaṇṭhakāntasubhagādhyuṣitopakaṇṭhā   
-prāptā puraḥ suratasaṅgararaṅgabhūmiḥ ||784||  
+किं न्व् आवृणोषि कवरीं सखि किं नु काञ्चीं  
+बध्नासि वर्मयसि किं कुचयोर् निचोलम् ।  
+सोत्कण्ठकान्तसुभगाध्युषितोपकण्ठा   
+प्राप्ता पुरः सुरतसङ्गररङ्गभूमिः ॥७८४॥  
 
 
-dharmayogeśvarasya |  
+धर्मयोगेश्वरस्य ।  
 
 
-vastraprotadurantatanū purmukhāḥ saṃyamya nīvīmaṇī  
-nudgāḍhāṃśukapallavena nibhṛtaṃ dattābhisārakramāḥ |  
-etāḥ kuntalamallikāparimalavyālolabhṛṅgāvalī  
-jhaṅkārair vikalīkṛtāḥ pathi bata vyaktaṃ kuraṅgīdṛśaḥ ||785||  
+वस्त्रप्रोतदुरन्ततनू पुर्मुखाः संयम्य नीवीमणी  
+नुद्गाढांशुकपल्लवेन निभृतं दत्ताभिसारक्रमाः ।  
+एताः कुन्तलमल्लिकापरिमलव्यालोलभृङ्गावली  
+झङ्कारैर् विकलीकृताः पथि बत व्यक्तं कुरङ्गीदृशः ॥७८५॥  
 
 
-kasyacit | (su.ra. 829)  
+कस्यचित् । (सु।र। ८२९)  
 
 
-63. divābhisārikā  
+६३। दिवाभिसारिका  
 
 
-avalokya nartitaśikhaṇḍimaṇḍalair  
-navanīradair niculitaṃ nabhastalam |  
-divase’pi vañjulanikuñjamitvarī   
-viśati sma vallabhavataṃsitaṃ rasāt ||786||  
+अवलोक्य नर्तितशिखण्डिमण्डलैर्  
+नवनीरदैर् निचुलितं नभस्तलम् ।  
+दिवसे’पि वञ्जुलनिकुञ्जमित्वरी   
+विशति स्म वल्लभवतंसितं रसात् ॥७८६॥  
 
 
-subhaṭasya |  
+सुभटस्य ।  
 
 
-sāndreṣu campakavaneṣu vinidrapuṣpa  
-paṅktiprakāśitaparāgapiśaṅgiteṣu |  
-madhyaṃdine’pi ramaṇī ramaṇābhisāra  
-buddhiṃ babhāra kanakābharaṇaṃ bhajantī ||787||  
+सान्द्रेषु चम्पकवनेषु विनिद्रपुष्प  
+पङ्क्तिप्रकाशितपरागपिशङ्गितेषु ।  
+मध्यंदिने’पि रमणी रमणाभिसार  
+बुद्धिं बभार कनकाभरणं भजन्ती ॥७८७॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-divāpi jaladodayād upacitāndhakāracchaṭā  
-jaṭālitataṭīm imāṃ viśati vismarantī bhayam |  
-tamālataruṇamaṇḍitāvaṭanirastabhānudyutiṃ  
-dhṛtābhisaraṇavratā śavarasundarī kandarīm ||788||  
+दिवापि जलदोदयाद् उपचितान्धकारच्छटा  
+जटालिततटीम् इमां विशति विस्मरन्ती भयम् ।  
+तमालतरुणमण्डितावटनिरस्तभानुद्युतिं  
+धृताभिसरणव्रता शवरसुन्दरी कन्दरीम् ॥७८८॥  
 
 
-kālidāsasya |  
+कालिदासस्य ।  
 
 
-madhyāhne dviguṇārkadīdhitidalatsambhogavīthīpatha  
-prasthānavyayitāruṇāṅgulidalaṃ rādhāpadaṃ mādhavaḥ |  
-maulau srakśabale muhuḥ samuditasvede muhur vakṣasi  
-nyasya prāṇayati prakampavidhuraiḥ śvāsormivātair muhuḥ ||789||  
+मध्याह्ने द्विगुणार्कदीधितिदलत्सम्भोगवीथीपथ  
+प्रस्थानव्ययितारुणाङ्गुलिदलं राधापदं माधवः ।  
+मौलौ स्रक्शबले मुहुः समुदितस्वेदे मुहुर् वक्षसि  
+न्यस्य प्राणयति प्रकम्पविधुरैः श्वासोर्मिवातैर् मुहुः ॥७८९॥  
 
 
-ācāryagopīkasya |  
+आचार्यगोपीकस्य ।  
 
 
-divase’pi dhūmamahiṣī   
-vādyotsavadurdineṣu militāyāḥ |  
-nākṛtapuṇyaḥ paśyasi   
-rahasi mudā vadanakramam eṇākṣyāḥ ||790||  
+दिवसे’पि धूममहिषी   
+वाद्योत्सवदुर्दिनेषु मिलितायाः ।  
+नाकृतपुण्यः पश्यसि   
+रहसि मुदा वदनक्रमम् एणाक्ष्याः ॥७९०॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-64. timirābhisārikā  
+६४। तिमिराभिसारिका  
 
 
-khadyototkaradanturāndhatamasotsaṅgena mā gāḥ sakhi  
-svairaṃ nūpurajāgarūkacaraṇau duḥśikṣite ropaya |  
-nyañcaccolacalācalena tarale hārasrajaṃ niṣpidhāḥ   
-prāptaḥ putri sa eṣa nīlaniculakrīḍālatāmaṇḍapaḥ ||791||  
+खद्योतोत्करदन्तुरान्धतमसोत्सङ्गेन मा गाः सखि  
+स्वैरं नूपुरजागरूकचरणौ दुःशिक्षिते रोपय ।  
+न्यञ्चच्चोलचलाचलेन तरले हारस्रजं निष्पिधाः   
+प्राप्तः पुत्रि स एष नीलनिचुलक्रीडालतामण्डपः ॥७९१॥  
 
 
-pāyīkasya |  
+पायीकस्य ।  
 
 
-maulau śyāmasarojadāma nayanadvandve’ñjanaṃ karṇayos  
-tāpiñchaprasavaḥ kapolaphalake kastūrikāpallavaḥ |  
-viśvālokavilopi ninditam api preyobhisārāśayā   
-hṛṣyadbhiḥ smaradurvinītavanitāstomais tamo manyate ||792||  
+मौलौ श्यामसरोजदाम नयनद्वन्द्वे’ञ्जनं कर्णयोस्  
+तापिञ्छप्रसवः कपोलफलके कस्तूरिकापल्लवः ।  
+विश्वालोकविलोपि निन्दितम् अपि प्रेयोभिसाराशया   
+हृष्यद्भिः स्मरदुर्विनीतवनितास्तोमैस् तमो मन्यते ॥७९२॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-vāso barhiṇakaṇṭhameduram uro niṣpiṣṭakastūrikā  
-patrālīmayam indranīlavalayaṃ dorvallir āsevate |  
-niryāntī ca laghuskhalatpadam idaṃ dhvāntaṃ na yan manyase  
-tad yūnā madirākṣi kena sucirād ārādhi puṣpāyudhaḥ ||793||  
+वासो बर्हिणकण्ठमेदुरम् उरो निष्पिष्टकस्तूरिका  
+पत्रालीमयम् इन्द्रनीलवलयं दोर्वल्लिर् आसेवते ।  
+निर्यान्ती च लघुस्खलत्पदम् इदं ध्वान्तं न यन् मन्यसे  
+तद् यूना मदिराक्षि केन सुचिराद् आराधि पुष्पायुधः ॥७९३॥  
 
 
-āvantikajahnoḥ |  
+आवन्तिकजह्नोः ।  
 
 
-prayāsi yat kuṇḍalacakradhārayā   
-vipāṭayantīva ghanaṃ niśātamaḥ |  
-tad adya karṇāyatalocanotpale   
-phale’grahiḥ kasya manorathadrumaḥ ||794||  
+प्रयासि यत् कुण्डलचक्रधारया   
+विपाटयन्तीव घनं निशातमः ।  
+तद् अद्य कर्णायतलोचनोत्पले   
+फले’ग्रहिः कस्य मनोरथद्रुमः ॥७९४॥  
 
 
-dhoyīkasya |  
+धोयीकस्य ।  
 
 
-iha niśi nibiḍanirantara   
-kucakumbhadvitayadattahṛdayabharā |  
-ramaṇaguṇakṛṣyamāṇā   
-saṃtarati tamastaraṅgiṇīṃ kāpi ||795||  
+इह निशि निबिडनिरन्तर   
+कुचकुम्भद्वितयदत्तहृदयभरा ।  
+रमणगुणकृष्यमाणा   
+संतरति तमस्तरङ्गिणीं कापि ॥७९५॥  
 
 
-amaroḥ |  
-65. jyotsnābhisārikā  
+अमरोः ।  
+६५। ज्योत्स्नाभिसारिका  
 
 
-śaśadharakaraspardhāmugdhaṃ vidhāya vibhūṣaṇaṃ  
-kim iti valitagrīvaṃ mugdhe mudhaiva vilokyate |  
-kṛtam api kṛaṃ nedaṃ dūti pratīhi na mām iyaṃ  
-sahajam alinā dehacchāyā vimuñcati vairiṇī ||796||  
+शशधरकरस्पर्धामुग्धं विधाय विभूषणं  
+किम् इति वलितग्रीवं मुग्धे मुधैव विलोक्यते ।  
+कृतम् अपि कृअं नेदं दूति प्रतीहि न माम् इयं  
+सहजम् अलिना देहच्छाया विमुञ्चति वैरिणी ॥७९६॥  
 
 
-keśavakolīyanāthokasya |  
+केशवकोलीयनाथोकस्य ।  
 
 
-malayajapaṅkaliptatanavo navahāralatāvibhūṣitāḥ  
-sitataradantapatrakṛtavaktraruco rucirāmalāṃśukāḥ |  
-śaśabhṛti vitatadhāmni dhavalayati dharām avibhāvyatāṃ gatāḥ  
-priyavasatiṃ vrajanti sukham eva mitho nirastabhiyo’bhisārikāḥ ||797||  
+मलयजपङ्कलिप्ततनवो नवहारलताविभूषिताः  
+सिततरदन्तपत्रकृतवक्त्ररुचो रुचिरामलांशुकाः ।  
+शशभृति विततधाम्नि धवलयति धराम् अविभाव्यतां गताः  
+प्रियवसतिं व्रजन्ति सुखम् एव मिथो निरस्तभियो’भिसारिकाः ॥७९७॥  
 
 
-bāṇasya | (su.ra. 832)  
+बाणस्य । (सु।र। ८३२)  
 
 
-maulau mauktikadāma ketakadalaṃ karṇe sphuṭatkairavaṃ  
-tāḍaṅkaḥ karidantajaḥ stanataṭīkarpūrareṇūtkaraḥ |  
-kaṇṭho nistalatārahāravalayī śubhraṃ tanīyoṃśukaṃ  
-jyotsnāyām abhisārasaṃpadam imāṃ pañceṣur apy añcati ||798||  
+मौलौ मौक्तिकदाम केतकदलं कर्णे स्फुटत्कैरवं  
+ताडङ्कः करिदन्तजः स्तनतटीकर्पूररेणूत्करः ।  
+कण्ठो निस्तलतारहारवलयी शुभ्रं तनीय्ॐशुकं  
+ज्योत्स्नायाम् अभिसारसंपदम् इमां पञ्चेषुर् अप्य् अञ्चति ॥७९८॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-navadhautadhavalavasanāś candrikayā sāndrayā tirogamitāḥ |  
-ramaṇabhavanāny aśaṅkaṃ sarpanty abhisārikāḥ sapadi ||799||  
+नवधौतधवलवसनाश् चन्द्रिकया सान्द्रया तिरोगमिताः ।  
+रमणभवनान्य् अशङ्कं सर्पन्त्य् अभिसारिकाः सपदि ॥७९९॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-itaḥ prāleyāṃśuḥ pralayam akarot kairavakula   
-klamacchedotsekaiḥ kiraṇanikarair eṣa tamasām |  
-ito’py ājñāvajñāṃ sakhi na sahate duḥsahatara   
-pratāpaḥ pañceṣus tad iha śaraṇaṃ sāhasarasaḥ ||800||  
+इतः प्रालेयांशुः प्रलयम् अकरोत् कैरवकुल   
+क्लमच्छेदोत्सेकैः किरणनिकरैर् एष तमसाम् ।  
+इतो’प्य् आज्ञावज्ञां सखि न सहते दुःसहतर   
+प्रतापः पञ्चेषुस् तद् इह शरणं साहसरसः ॥८००॥  
 
 
-subhaṭasya |  
+सुभटस्य ।  
 
 
-66. durdinābhisārikā  
+६६। दुर्दिनाभिसारिका  
 
 
-paṅke nūpuraśiñjitasya garimā magnaḥ kvaṇanmekhalā  
-jalpākī jaghanasthalī jalamucāṃ nādair niṣiddhādhikam |  
-dorvallīvalayāṃśavaś ca śamitāḥ saudāminīvibhramair  
-varṣārātrivibhūṣitibhis tava sakhi kṣīṇo’ntarāyaḥ kṣaṇāt ||801||  
+पङ्के नूपुरशिञ्जितस्य गरिमा मग्नः क्वणन्मेखला  
+जल्पाकी जघनस्थली जलमुचां नादैर् निषिद्धाधिकम् ।  
+दोर्वल्लीवलयांशवश् च शमिताः सौदामिनीविभ्रमैर्  
+वर्षारात्रिविभूषितिभिस् तव सखि क्षीणो’न्तरायः क्षणात् ॥८०१॥  
 
 
-subhaṭasya |  
+सुभटस्य ।  
 
 
-asūcīsaṃcāre tamasi nabhasi prauḍhajalada  
-dhvaniprājñaṃmanye patati pṛṣatānāṃ nicaye |  
-idaṃ saudāminyāḥ kanakakamanīyaṃ vilasitaṃ   
-mudaṃ ca mlāniṃ ca prathayati pathi svairasudṛśām ||802||  
+असूचीसंचारे तमसि नभसि प्रौढजलद  
+ध्वनिप्राज्ञंमन्ये पतति पृषतानां निचये ।  
+इदं सौदामिन्याः कनककमनीयं विलसितं   
+मुदं च म्लानिं च प्रथयति पथि स्वैरसुदृशाम् ॥८०२॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-dhāvati ceto na tanur dhārādhauto’dharo hṛdi na rāgaḥ |  
-iha ramaṇam abhisarantyāḥ skhalati gatir na tv avaṣṭambhaḥ ||803||  
+धावति चेतो न तनुर् धाराधौतो’धरो हृदि न रागः ।  
+इह रमणम् अभिसरन्त्याः स्खलति गतिर् न त्व् अवष्टम्भः ॥८०३॥  
 
 
-amaroḥ |  
+अमरोः ।  
 
 
-prāṇeśam abhisarantī mugdhā pathi paṅkile skhalantīva |  
-avalambanāya vārāṃ dhārāsu karaṃ prasārayati ||804||  
+प्राणेशम् अभिसरन्ती मुग्धा पथि पङ्किले स्खलन्तीव ।  
+अवलम्बनाय वारां धारासु करं प्रसारयति ॥८०४॥  
 
 
-dharaṇīdharasya | (śā.pa. 3612)  
+धरणीधरस्य । (शा।प। ३६१२)  
 
 
-matpāṇāv apasavyam arpaya karaṃ savyaṃ ca kāñcyāṃ kuru  
-protkuñcāgram amū nidhehi caraṇāv utpaṅkile vartmani |  
-mā putri trasa paśya vartma katicid visphārya cakṣuḥ kṣaṇāny  
-āvalleḍhi taḍillatā tata itaḥ piṇḍāvalehyaṃ tamaḥ ||805||  
+मत्पाणाव् अपसव्यम् अर्पय करं सव्यं च काञ्च्यां कुरु  
+प्रोत्कुञ्चाग्रम् अमू निधेहि चरणाव् उत्पङ्किले वर्त्मनि ।  
+मा पुत्रि त्रस पश्य वर्त्म कतिचिद् विस्फार्य चक्षुः क्षणान्य्  
+आवल्लेढि तडिल्लता तत इतः पिण्डावलेह्यं तमः ॥८०५॥  
 
 
-candrajyotiṣaḥ |  
+चन्द्रज्योतिषः ।  
 
 
-67. svairiṇīpralāpaḥ   
+६७। स्वैरिणीप्रलापः   
 
 
-devo ravir vā praṇipatya yācyaḥ  
-kālakramān maṇḍalam āgatasya |  
-paraḥ sahasrāḥ śarado vidheyās  
-tvayātitheyī mṛgalāñchanasya ||806||  
+देवो रविर् वा प्रणिपत्य याच्यः  
+कालक्रमान् मण्डलम् आगतस्य ।  
+परः सहस्राः शरदो विधेयास्  
+त्वयातिथेयी मृगलाञ्छनस्य ॥८०६॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-śītamadhuram api galitaṃ   
-vamati vidhuṃ vyādhinā yena |  
-śamayati yas taṃ rāhoḥ sakhi   
-bhiṣajas tasya dāsī syām ||807||  
+शीतमधुरम् अपि गलितं   
+वमति विधुं व्याधिना येन ।  
+शमयति यस् तं राहोः सखि   
+भिषजस् तस्य दासी स्याम् ॥८०७॥  
 
 
-dharmapālasya |  
+धर्मपालस्य ।  
 
 
-asmin karīndrakaranirgalitāravinda  
-kandānukāriṇi ciraṃ rucicakravāle |  
-kasmai phalāya kulaṭākulakoṭihomaṃ   
-haṃho mṛgāṅka kuruṣe karuṇāmapāsya ||808||  
+अस्मिन् करीन्द्रकरनिर्गलितारविन्द  
+कन्दानुकारिणि चिरं रुचिचक्रवाले ।  
+कस्मै फलाय कुलटाकुलकोटिहोमं   
+हंहो मृगाङ्क कुरुषे करुणामपास्य ॥८०८॥  
 
 
-subhaṭasya |  
+सुभटस्य ।  
 
 
-niṣpīyāṃśupayaḥ payoruharipoś cakruś cakorā ime  
-yan nādyāpi kalaṅkapaṅkilakalākaṅkālaśeṣaṃ vapuḥ |  
-saiṣā kiṃ kavikalpanā sakhi kim u svairāṅganāduṣkṛtair  
-ebhyaḥ kāntikalāpapānapaṭimavyutpattir udvāsitā ||809||  
+निष्पीयांशुपयः पयोरुहरिपोश् चक्रुश् चकोरा इमे  
+यन् नाद्यापि कलङ्कपङ्किलकलाकङ्कालशेषं वपुः ।  
+सैषा किं कविकल्पना सखि किम् उ स्वैराङ्गनादुष्कृतैर्  
+एभ्यः कान्तिकलापपानपटिमव्युत्पत्तिर् उद्वासिता ॥८०९॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-yan mṛtyuñjayamauliratnam amṛtaprasyandisāndracchavir  
-jyāyān mantravidāṃ mahārṇavamaṇiśreṇisakulyāgraṇīḥ |  
-preyān oṣadhimaṇḍalasya vahati kṣīṇaṃ vapur yaḥ kṣaṇāt  
-tatraite vilasanti putri kulaṭāsatkarmaṇāṃ mūrtayaḥ ||810||  
+यन् मृत्युञ्जयमौलिरत्नम् अमृतप्रस्यन्दिसान्द्रच्छविर्  
+ज्यायान् मन्त्रविदां महार्णवमणिश्रेणिसकुल्याग्रणीः ।  
+प्रेयान् ओषधिमण्डलस्य वहति क्षीणं वपुर् यः क्षणात्  
+तत्रैते विलसन्ति पुत्रि कुलटासत्कर्मणां मूर्तयः ॥८१०॥  
 
 
-jalacandrasya |  
+जलचन्द्रस्य ।  
 
 
-68. strīrūpam  
+६८। स्त्रीरूपम्  
 
 
-yat trailokyamanorathasya paramaṃ pātraṃ manojanmanā  
-yac cāstraṃ haranirjitena jagatīṃ jetuṃ cirād arjitam |  
-yan me śrotrarasāyanaṃ katham aho prāptaṃ tad etan mayā  
-rūpaṃ locanapīyamānavigalallāvaṇyapūraṃ vapuḥ ||811||  
+यत् त्रैलोक्यमनोरथस्य परमं पात्रं मनोजन्मना  
+यच् चास्त्रं हरनिर्जितेन जगतीं जेतुं चिराद् अर्जितम् ।  
+यन् मे श्रोत्ररसायनं कथम् अहो प्राप्तं तद् एतन् मया  
+रूपं लोचनपीयमानविगलल्लावण्यपूरं वपुः ॥८११॥  
 
 
-kālidāsasya |  
+कालिदासस्य ।  
 
 
-dīrghākṣaṃ śaradindukāntivadanaṃ bāhū natāvaṃsayoḥ  
-saṃkṣiptaṃ niviḍonnatastanam uraḥ pārśve pramṛṣṭe iva |  
-madhyaḥ pāṇim ito nitambi jaghanaṃ pādāv udagrāṅgulī  
-chando nartayitur yathaiva manasaḥ sṛṣṭaṃ tathāsyā vapuḥ ||812||  
+दीर्घाक्षं शरदिन्दुकान्तिवदनं बाहू नतावंसयोः  
+संक्षिप्तं निविडोन्नतस्तनम् उरः पार्श्वे प्रमृष्टे इव ।  
+मध्यः पाणिम् इतो नितम्बि जघनं पादाव् उदग्राङ्गुली  
+छन्दो नर्तयितुर् यथैव मनसः सृष्टं तथास्या वपुः ॥८१२॥  
 
 
-tasyaiva | (Mālavikāgnimitra 2.3, da.rū.. 4.48, SD 3.16)  
+तस्यैव । (मालविकाग्निमित्र २।३, द।रू॥ ४।४८, स्द् ३।१६)  
 
 
-bimboṣṭhāya namaskaroti cakitā bandhūkapuṣpadyutiḥ  
-kārpaṇyaṃ tanute na kiṃ smaradhanur dīnaṃ bhruvor agrataḥ |  
-ājñāṃ mūrdhabhir udvahanti kamalāny akṣṇor mṛgākṣyāḥ sphuṭaṃ  
-kiṃ cānyadvadanasya dhāvati puro baddhāñjaliś candramāḥ ||813||  
+बिम्बोष्ठाय नमस्करोति चकिता बन्धूकपुष्पद्युतिः  
+कार्पण्यं तनुते न किं स्मरधनुर् दीनं भ्रुवोर् अग्रतः ।  
+आज्ञां मूर्धभिर् उद्वहन्ति कमलान्य् अक्ष्णोर् मृगाक्ष्याः स्फुटं  
+किं चान्यद्वदनस्य धावति पुरो बद्धाञ्जलिश् चन्द्रमाः ॥८१३॥  
 
 
-puruṣottamadevasya |  
+पुरुषोत्तमदेवस्य ।  
 
 
-lāvaṇyadraviṇavyayo na gaṇitaḥ kleśo mahān svīkṛtaḥ  
-svacchandaṃ vasato janasya hṛdaye cintājvaro nirmitaḥ |  
-eṣāpi svaguṇānurūparamaṇābhāvād varākī hatā  
-ko’rthaś cetasi vedhasā vinihitas tanvyās tanuṃ tanvatā ||814||  
+लावण्यद्रविणव्ययो न गणितः क्लेशो महान् स्वीकृतः  
+स्वच्छन्दं वसतो जनस्य हृदये चिन्ताज्वरो निर्मितः ।  
+एषापि स्वगुणानुरूपरमणाभावाद् वराकी हता  
+को’र्थश् चेतसि वेधसा विनिहितस् तन्व्यास् तनुं तन्वता ॥८१४॥  
 
 
-dharmakīrteḥ (Kuval. 100, su.ra. 454)  
+धर्मकीर्तेः (कुवल्। १००, सु।र। ४५४)  
 
 
-lāvaṇyadravakalpam eva kanakaṃ vaktrasya nīrājanā  
-piṇḍaśrīḥ śaśabhṛddṛg eva nayanadvandvasya nīlotpalam |  
-bhrūvallīṃ kim udāharāmi yad avacchedo dhanur mānmathaṃ  
-tatpīyūṣabhujāmarocakacamatkāri smitaṃ subhruvaḥ ||815||  
+लावण्यद्रवकल्पम् एव कनकं वक्त्रस्य नीराजना  
+पिण्डश्रीः शशभृद्दृग् एव नयनद्वन्द्वस्य नीलोत्पलम् ।  
+भ्रूवल्लीं किम् उदाहरामि यद् अवच्छेदो धनुर् मान्मथं  
+तत्पीयूषभुजामरोचकचमत्कारि स्मितं सुभ्रुवः ॥८१५॥  
 
 
-karañjamahādevasya |   
+करञ्जमहादेवस्य ।   
 
 
-69. bhrūḥ  
+६९। भ्रूः  
 
 
-asaṅgatenonnatim āgatena  
-calena vakreṇa malīmasena |  
-sā durjanenaiva samastam etaṃ  
-prabādhate bhrūyugalena lokam ||816||  
+असङ्गतेनोन्नतिम् आगतेन  
+चलेन वक्रेण मलीमसेन ।  
+सा दुर्जनेनैव समस्तम् एतं  
+प्रबाधते भ्रूयुगलेन लोकम् ॥८१६॥  
 
 
-yajñaghoṣasya |  
+यज्ञघोषस्य ।  
 
 
-akausumī manmathacāpayaṣṭi  
-ranaṃśukā vibhramavaijayantī |  
-lalāṭaraṅgāṅgaṇanartakīya  
-manañjanā bhūr anuyāti dṛṣṭim ||817||  
+अकौसुमी मन्मथचापयष्टि  
+रनंशुका विभ्रमवैजयन्ती ।  
+ललाटरङ्गाङ्गणनर्तकीय  
+मनञ्जना भूर् अनुयाति दृष्टिम् ॥८१७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-viramatu ratijāne lolarolambakīṭa  
-vraṇavivarasahasrakṣuṇṇam etad dhanus te |  
-yad iha kusumaketo bhrūlatā kāpy yūnā  
-mupari jayapatākā subhruvo viśvajetrī ||818||  
+विरमतु रतिजाने लोलरोलम्बकीट  
+व्रणविवरसहस्रक्षुण्णम् एतद् धनुस् ते ।  
+यद् इह कुसुमकेतो भ्रूलता काप्य् यूना  
+मुपरि जयपताका सुभ्रुवो विश्वजेत्री ॥८१८॥  
 
 
-vāsudevajyotiṣaḥ |  
+वासुदेवज्योतिषः ।  
 
 
-indoḥ kāntiṃ jaḍatarakarān mattanāgād gatiṃ vā  
-trastān netre harasi hariṇāt tatra kiṃ nāma citram |  
-etac citraṃ punar iha jagajjaitrakandarpacāpa  
-śrīsarvasvaṃ yad apaharasi preyasi bhrūvilāsaiḥ ||819||  
+इन्दोः कान्तिं जडतरकरान् मत्तनागाद् गतिं वा  
+त्रस्तान् नेत्रे हरसि हरिणात् तत्र किं नाम चित्रम् ।  
+एतच् चित्रं पुनर् इह जगज्जैत्रकन्दर्पचाप  
+श्रीसर्वस्वं यद् अपहरसि प्रेयसि भ्रूविलासैः ॥८१९॥  
 
 
-nānyadevasya |  
+नान्यदेवस्य ।  
 
 
-bhrūlekhāyugalaṃ bhāti  
-tasyāś caṭulacakṣuṣaḥ |  
-patradvayīva haritā  
-nāsāvaṃśasya nirgatā ||820||  
+भ्रूलेखायुगलं भाति  
+तस्याश् चटुलचक्षुषः ।  
+पत्रद्वयीव हरिता  
+नासावंशस्य निर्गता ॥८२०॥  
 
 
-bilhaṇasya | (Vc 2.79, śā.pa. 3297, sū.mu. 53.7)  
+बिल्हणस्य । (व्च् २।७९, शा।प। ३२९७, सू।मु। ५३।७)  
 
 
-70. nayanam  
+७०। नयनम्  
 
 
-nalinaṃ malinaṃ vivṛṇvatī  
-pṛṣatīm aspṛśatī tadīkṣaṇe |  
-api khañjanam añjanāñcite  
-vidadhāte rucigarvadurvidham ||821||  
+नलिनं मलिनं विवृण्वती  
+पृषतीम् अस्पृशती तदीक्षणे ।  
+अपि खञ्जनम् अञ्जनाञ्चिते  
+विदधाते रुचिगर्वदुर्विधम् ॥८२१॥  
 
 
-kavipaṇḍitaśrīharṣasya | (Nc 2.23, śā.pa. 3301)  
+कविपण्डितश्रीहर्षस्य । (न्च् २।२३, शा।प। ३३०१)  
 
 
-nijanayanapratibimbair ambuni bahuśaḥ pratāritā kāpi |  
-nīlotpale’pi vimṛśati karam arpayituṃ kusumalāvī ||822||  
+निजनयनप्रतिबिम्बैर् अम्बुनि बहुशः प्रतारिता कापि ।  
+नीलोत्पले’पि विमृशति करम् अर्पयितुं कुसुमलावी ॥८२२॥  
 
 
-dharaṇīdharasya | (su.ra. 391, sū.mu. 67.13, sā.da. 8.19)  
+धरणीधरस्य । (सु।र। ३९१, सू।मु। ६७।१३, सा।द। ८।१९)  
 
 
-nīrājayāmi nayane tava yan mṛṣodya  
-mindīvaraiḥ samam abaddhamukhāḥ karaṃ te |  
-adyāpi śāmyati na te bata pārvaṇendu  
-bimbopamā sakhi mukhāmbujakiṃvadantī ||823||  
+नीराजयामि नयने तव यन् मृषोद्य  
+मिन्दीवरैः समम् अबद्धमुखाः करं ते ।  
+अद्यापि शाम्यति न ते बत पार्वणेन्दु  
+बिम्बोपमा सखि मुखाम्बुजकिंवदन्ती ॥८२३॥  
 
 
-pītāmbarasya |  
+पीताम्बरस्य ।  
 
 
-akṣibhyāṃ kṛṣṇaśārābhyām asyāḥ karṇau na bādhitau |  
-śaṅke kanakatāḍaṅkapāśatrāsavaśād iva ||824||  
+अक्षिभ्यां कृष्णशाराभ्याम् अस्याः कर्णौ न बाधितौ ।  
+शङ्के कनकताडङ्कपाशत्रासवशाद् इव ॥८२४॥  
 
 
-baṅgālasya |   
+बङ्गालस्य ।   
 
 
-mṛgīsambandhinī dṛṣṭir asau yadi na subhruvaḥ |  
-dhāvati śravaṇottaṃsalīlādūrvāṅkure kṛtaḥ ||825||  
+मृगीसम्बन्धिनी दृष्टिर् असौ यदि न सुभ्रुवः ।  
+धावति श्रवणोत्तंसलीलादूर्वाङ्कुरे कृतः ॥८२५॥  
 
 
-bilhaṇasya | (Vc 8.73)  
+बिल्हणस्य । (व्च् ८।७३)  
 
 
-71. karṇaḥ  
+७१। कर्णः  
 
 
-tyaktādaro dhanuṣi saumanase varoru  
-nīrājitaḥ sutanu naiṣa nijaiḥ pṛṣatkaiḥ |  
-badhnann abhūn nayanakālamṛgān idānīṃ  
-tvatkarṇapāśayugavāguriko manobhūḥ ||826||  
+त्यक्तादरो धनुषि सौमनसे वरोरु  
+नीराजितः सुतनु नैष निजैः पृषत्कैः ।  
+बध्नन्न् अभून् नयनकालमृगान् इदानीं  
+त्वत्कर्णपाशयुगवागुरिको मनोभूः ॥८२६॥  
 
 
-gopīkasya |   
+गोपीकस्य ।   
 
 
-ahaha kim adhunā mudhaiva badhnāsy  
-anucitakāriṇi karṇadantapatram |  
-nanu tava caṭulabhrukarṇapālir  
-bhuvanavilocanakālasārapāśaḥ ||827||  
+अहह किम् अधुना मुधैव बध्नास्य्  
+अनुचितकारिणि कर्णदन्तपत्रम् ।  
+ननु तव चटुलभ्रुकर्णपालिर्  
+भुवनविलोचनकालसारपाशः ॥८२७॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-kiṃ patrabhaṅgarucijālam idaṃ kapole  
-tvatkarṇayoḥ sudati sārita eṣa pāśaḥ |  
-kaścit tv avaty api kim utpatito nitambāṃs  
-tvanmadhyadeśadavam īkṣaṇakālasāraḥ ||828||  
+किं पत्रभङ्गरुचिजालम् इदं कपोले  
+त्वत्कर्णयोः सुदति सारित एष पाशः ।  
+कश्चित् त्व् अवत्य् अपि किम् उत्पतितो नितम्बांस्  
+त्वन्मध्यदेशदवम् ईक्षणकालसारः ॥८२८॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-smaraśaradhinikāśaṃ karṇapāśaṃ kṛśāṅgī  
-rayavigalitatāḍīpatratāḍaṅkam ekam |  
-vahati hṛdayacoraṃ kuṅkumanyāsagauraṃ  
-valayitam iva nālaṃ locanendīvarasya ||829||  
+स्मरशरधिनिकाशं कर्णपाशं कृशाङ्गी  
+रयविगलितताडीपत्रताडङ्कम् एकम् ।  
+वहति हृदयचोरं कुङ्कुमन्यासगौरं  
+वलयितम् इव नालं लोचनेन्दीवरस्य ॥८२९॥  
 
 
-kasyacit | (su.ra. 524)  
+कस्यचित् । (सु।र। ५२४)  
 
 
-sambhogabhṛṣṭatāḍaṅkaḥ  
-karṇas tasyā virājate |  
-netranīlotpalasyeva   
-nālakaṃ dviguṇīkṛtam ||830||  
+सम्भोगभृष्टताडङ्कः  
+कर्णस् तस्या विराजते ।  
+नेत्रनीलोत्पलस्येव   
+नालकं द्विगुणीकृतम् ॥८३०॥  
 
 
-vikramādityakālidāsayoḥ |  
+विक्रमादित्यकालिदासयोः ।  
 
 
-72. adharaḥ  
+७२। अधरः  
 
 
-ayam akṣuṇṇakāntaśrī  
-radharo hariṇīdṛśaḥ |  
-pravālapadmarāgāde  
-rupari pratigarjati ||831||  
+अयम् अक्षुण्णकान्तश्री  
+रधरो हरिणीदृशः ।  
+प्रवालपद्मरागादे  
+रुपरि प्रतिगर्जति ॥८३१॥  
 
 
-dharmāśokadattasya |  
+धर्माशोकदत्तस्य ।  
 
 
-abhinavajavāpuṣpaspardhī tavādharapallavo  
-hasitakusumonmeṣacchāyādaracchuritāntaraḥ |  
-nayanamadhupaśreṇīṃ yūnām anāratam āharaṃ  
-staruṇi tanute tāruṇyaśrīr vilāsavataṃsatām ||832||  
+अभिनवजवापुष्पस्पर्धी तवाधरपल्लवो  
+हसितकुसुमोन्मेषच्छायादरच्छुरितान्तरः ।  
+नयनमधुपश्रेणीं यूनाम् अनारतम् आहरं  
+स्तरुणि तनुते तारुण्यश्रीर् विलासवतंसताम् ॥८३२॥  
 
 
-jalacandrasya |   
+जलचन्द्रस्य ।   
 
 
-ayaṃ te vidrumacchāyo marudeśa ivādharaḥ |  
-karoti kasya no mugdhe pipāsātaralaṃ manaḥ ||833||  
+अयं ते विद्रुमच्छायो मरुदेश इवाधरः ।  
+करोति कस्य नो मुग्धे पिपासातरलं मनः ॥८३३॥  
 
 
-kasyacit | (su.ra. 492)  
+कस्यचित् । (सु।र। ४९२)  
 
 
-vibhāti bimbādharavallir asyāḥ  
-smarasya bandhūkadhanur lateva |  
-vināpi bāṇena guṇena yeyaṃ  
-yūnāṃ manāṃsi prasabhaṃ bhinatti ||834||  
+विभाति बिम्बाधरवल्लिर् अस्याः  
+स्मरस्य बन्धूकधनुर् लतेव ।  
+विनापि बाणेन गुणेन येयं  
+यूनां मनांसि प्रसभं भिनत्ति ॥८३४॥  
 
 
-jayadevasya |  
+जयदेवस्य ।  
 
 
-syād bandhujīvanivahair yadi pañcabāṇa  
-cāpaś calatkusumakeśaracāmarāṅkaḥ |  
-syād eva tena tulanā taruṇi tvadīya  
-bimbādharasya madhurasmitabhāvitasya ||835||  
+स्याद् बन्धुजीवनिवहैर् यदि पञ्चबाण  
+चापश् चलत्कुसुमकेशरचामराङ्कः ।  
+स्याद् एव तेन तुलना तरुणि त्वदीय  
+बिम्बाधरस्य मधुरस्मितभावितस्य ॥८३५॥  
 
 
-śaṅkaradevasya |  
+शङ्करदेवस्य ।  
 
 
-73. vadanam  
+७३। वदनम्  
 
 
-yad api vibudhaiḥ sindhor antaḥ kathañcid upārjitaṃ  
-tad api sakalaṃ cārustrīṇāṃ mukheṣu vibhāvyate |  
-surasumanasaḥ śvāsāmode śaśī ca kapolayo  
-ramṛtam adhare tiryagbhūte viṣaṃ ca vilocane ||836||  
+यद् अपि विबुधैः सिन्धोर् अन्तः कथञ्चिद् उपार्जितं  
+तद् अपि सकलं चारुस्त्रीणां मुखेषु विभाव्यते ।  
+सुरसुमनसः श्वासामोदे शशी च कपोलयो  
+रमृतम् अधरे तिर्यग्भूते विषं च विलोचने ॥८३६॥  
 
 
-lakṣmīdharasya | (su.ra. 401, sū.mu. 53.31)  
+लक्ष्मीधरस्य । (सु।र। ४०१, सू।मु। ५३।३१)  
 
 
-janānandaś candro bhavatu na kathaṃ nāma sukṛtī  
-prayāto’vasthābhis tisṛbhir api yaḥ koṭim iyatīm |  
-bhruvor līlāṃ bālaḥ śriyamm alikapaṭṭasya taruṇo  
-mukhendoḥ sarvasvaṃ harati hariṇākṣyāḥ pariṇataḥ ||837||  
+जनानन्दश् चन्द्रो भवतु न कथं नाम सुकृती  
+प्रयातो’वस्थाभिस् तिसृभिर् अपि यः कोटिम् इयतीम् ।  
+भ्रुवोर् लीलां बालः श्रियम्म् अलिकपट्टस्य तरुणो  
+मुखेन्दोः सर्वस्वं हरति हरिणाक्ष्याः परिणतः ॥८३७॥  
 
 
-murāreḥ | (sū.mu. 53.33)  
+मुरारेः । (सू।मु। ५३।३३)  
 
 
-taspasyatīva śītāṃśu  
-stvanmukhendujigīṣayā |  
-kṛśaḥ śambhujaṭājūṭa  
-taṭinītaṭam āśritaḥ ||838||  
+तस्पस्यतीव शीतांशु  
+स्त्वन्मुखेन्दुजिगीषया ।  
+कृशः शम्भुजटाजूट  
+तटिनीतटम् आश्रितः ॥८३८॥  
 
 
-kasyacit | (su.ra. 460)  
+कस्यचित् । (सु।र। ४६०)  
 
 
-pratyāsannavidūravartiviṣaye’muṣmin dvicandrabhrame  
-mukhyā candramatir mukhe tava nirālambaiva tu vyomani |  
-bhuṅktvāsau hariṇaḥ sadā janabhayāt tatraiva līnaḥ priye  
-naivaṃ cet katham eva yasya jaṭhare tasyaiva lole dṛśau ||839||  
+प्रत्यासन्नविदूरवर्तिविषये’मुष्मिन् द्विचन्द्रभ्रमे  
+मुख्या चन्द्रमतिर् मुखे तव निरालम्बैव तु व्योमनि ।  
+भुङ्क्त्वासौ हरिणः सदा जनभयात् तत्रैव लीनः प्रिये  
+नैवं चेत् कथम् एव यस्य जठरे तस्यैव लोले दृशौ ॥८३९॥  
 
 
-śabdārṇavasya |   
+शब्दार्णवस्य ।   
 
 
-koṣaḥ sphītataraḥ sthitāni paritaḥ patrāṇi durgaṃ jalaṃ  
-maitraṃ maṇḍalam ujjvalaṃ ciram adhonītās tathā kaṇṭakāḥ |  
-ity ākṛṣṭaśilīmukhena racanāṃ kṛtvā tad atyadbhutaṃ  
-yatpadmena jigīṣuṇāpi na jitaṃ mugdhe tavedaṃ mukham ||840||  
+कोषः स्फीततरः स्थितानि परितः पत्राणि दुर्गं जलं  
+मैत्रं मण्डलम् उज्ज्वलं चिरम् अधोनीतास् तथा कण्टकाः ।  
+इत्य् आकृष्टशिलीमुखेन रचनां कृत्वा तद् अत्यद्भुतं  
+यत्पद्मेन जिगीषुणापि न जितं मुग्धे तवेदं मुखम् ॥८४०॥  
 
 
-kasyacit | (su.ra. 445, Sv 1523, śā.pa. 3322)  
+कस्यचित् । (सु।र। ४४५, स्व् १५२३, शा।प। ३३२२)  
 
 
-74. vacanam  
+७४। वचनम्  
 
 
-kalakvāṇe vīṇe virama raṇitāt kokila sakhe   
-sakhedo mā bhūs tvaṃ druhiṇavihitas te paribhavaḥ |  
-sudhe muñca spardhām adharamadhusaṃsargasarasāḥ   
-sphuṭanty etā vācaḥ kim api kamanīyā mṛgadṛśaḥ ||841||  
+कलक्वाणे वीणे विरम रणितात् कोकिल सखे   
+सखेदो मा भूस् त्वं द्रुहिणविहितस् ते परिभवः ।  
+सुधे मुञ्च स्पर्धाम् अधरमधुसंसर्गसरसाः   
+स्फुटन्त्य् एता वाचः किम् अपि कमनीया मृगदृशः ॥८४१॥  
 
 
-sūryadharasya |  
+सूर्यधरस्य ।  
 
 
-naivodañcaya pañcamaṃ pikarutaṃ mā śārike sāraya  
-tvaṃ dhīro bhava kīra vallakivarāt tantrīm atantrīṃ kuru |  
-unmīladyuvabhāvasaṃbhṛtarasapratyunmiṣadvakrima  
-prakāntasmitakaumudīsahabhuvo vācaḥ śrutāḥ subhruvaḥ ||842||  
+नैवोदञ्चय पञ्चमं पिकरुतं मा शारिके सारय  
+त्वं धीरो भव कीर वल्लकिवरात् तन्त्रीम् अतन्त्रीं कुरु ।  
+उन्मीलद्युवभावसंभृतरसप्रत्युन्मिषद्वक्रिम  
+प्रकान्तस्मितकौमुदीसहभुवो वाचः श्रुताः सुभ्रुवः ॥८४२॥  
 
 
-sendubhasya |  
+सेन्दुभस्य ।  
 
 
-tiryaktayaiva parapuṣṭavadhūr apātraṃ  
-vīṇāpy amānuṣaguṇā gaṇanā kuto’syāḥ |  
-vācāṃ na kiṃcid anukāri mṛgāyatākṣyā  
-mādhuryasīmani sudhāṃ punar ālikhāmi ||843||  
+तिर्यक्तयैव परपुष्टवधूर् अपात्रं  
+वीणाप्य् अमानुषगुणा गणना कुतो’स्याः ।  
+वाचां न किंचिद् अनुकारि मृगायताक्ष्या  
+माधुर्यसीमनि सुधां पुनर् आलिखामि ॥८४३॥  
 
 
-kālidāsanandinaḥ |  
+कालिदासनन्दिनः ।  
 
 
-tanvyā manojñasvaranaipuṇena  
-vinirjito roṣavilohitākṣaḥ |  
-prasaktacittāhitam anyapuṣṭaḥ  
-śokena kārṣṇyaṃ vahatīti manye ||844||  
+तन्व्या मनोज्ञस्वरनैपुणेन  
+विनिर्जितो रोषविलोहिताक्षः ।  
+प्रसक्तचित्ताहितम् अन्यपुष्टः  
+शोकेन कार्ष्ण्यं वहतीति मन्ये ॥८४४॥  
 
 
-kumāradāsasya | (Jānakīharaṇa 7.17)  
+कुमारदासस्य । (जानकीहरण ७।१७)  
 
 
-śirīṣapuṣpād api komalāyā  
-vedhā vidhāyāṅgam aśeṣam asyāḥ |  
-prāptaprakarṣaḥ sukumārasarge  
-samāpayad vāci mṛdutvatattvam ||845||  
+शिरीषपुष्पाद् अपि कोमलाया  
+वेधा विधायाङ्गम् अशेषम् अस्याः ।  
+प्राप्तप्रकर्षः सुकुमारसर्गे  
+समापयद् वाचि मृदुत्वतत्त्वम् ॥८४५॥  
 
 
-kavipaṇḍitaśrīharṣasya | (Nc. 7.47)  
+कविपण्डितश्रीहर्षस्य । (न्च्। ७।४७)  
 
 
-75. bāhuḥ  
+७५। बाहुः  
 
 
-imāṃ vidhātuṃ bhujavalli mujjvalāṃ   
-gṛhītasāraṃ vidhinā natabhruvaḥ |  
-kaṭhorabhāvapriyam eva kevalaṃ   
-mṛṇālam antastaralaṃ kuto’nyathā ||846||  
+इमां विधातुं भुजवल्लि मुज्ज्वलां   
+गृहीतसारं विधिना नतभ्रुवः ।  
+कठोरभावप्रियम् एव केवलं   
+मृणालम् अन्तस्तरलं कुतो’न्यथा ॥८४६॥  
 
 
-dūnokasya |  
+दूनोकस्य ।  
 
 
-kiṃ syāt phalaṃ sphuṭam adhūkamayena dāmnā  
-kā vārthitā vikacacampakamālayā me |  
-dhik tāṃ ca kāñcanasarojamṛṇālanālāṃ  
-līlābhuvo bhujalatā lalitāstu saiva ||847||  
+किं स्यात् फलं स्फुटम् अधूकमयेन दाम्ना  
+का वार्थिता विकचचम्पकमालया मे ।  
+धिक् तां च काञ्चनसरोजमृणालनालां  
+लीलाभुवो भुजलता ललितास्तु सैव ॥८४७॥  
 
 
-kavikusumasya |  
+कविकुसुमस्य ।  
 
 
-dayitā bāhupāśasya kuto’yam aparo vidhiḥ |  
-jīvayaty arpitaḥ kaṇṭhe mārayaty apavarjitaḥ ||848||  
+दयिता बाहुपाशस्य कुतो’यम् अपरो विधिः ।  
+जीवयत्य् अर्पितः कण्ठे मारयत्य् अपवर्जितः ॥८४८॥  
 
 
-kaśmīrakaśyāmalasya | (Sv 1529, śā.pa. 3330, sū.mu. 53.40)  
+कश्मीरकश्यामलस्य । (स्व् १५२९, शा।प। ३३३०, सू।मु। ५३।४०)  
 
 
-sarale eva dorlekhe yadi cañcalacakṣuṣaḥ |  
-amugdhābhyo mṛṇālībhyaḥ katham ājahratuḥ śriyam ||849||  
+सरले एव दोर्लेखे यदि चञ्चलचक्षुषः ।  
+अमुग्धाभ्यो मृणालीभ्यः कथम् आजह्रतुः श्रियम् ॥८४९॥  
 
 
-bilhaṇasya | (Vc 8.64)  
+बिल्हणस्य । (व्च् ८।६४)  
 
 
-bāhū tasyāḥ kucābhoga  
-niṣiddhānyonyadarśanau |  
-mantritaṃ katham etābhyāṃ   
-mṛṇālīkīrtiluṇṭhanam ||850||  
+बाहू तस्याः कुचाभोग  
+निषिद्धान्योन्यदर्शनौ ।  
+मन्त्रितं कथम् एताभ्यां   
+मृणालीकीर्तिलुण्ठनम् ॥८५०॥  
 
 
-tasyaiva | (Vc. 8.66)  
+तस्यैव । (व्च्। ८।६६)  
 
 
-76. stanaḥ  
+७६। स्तनः  
 
 
-etan mandavipakvatindukaphalaśyāmodarāpāṇḍura  
-prāntaṃ hanta pulindasundarakarasparśakṣamaṃ lakṣyate |  
-tatpallīpatiputri kuñjarakulaṃ jīvābhayābhyarthanā  
-dīnaṃ tvām anunāthati stanayugaṃ patrāvṛtaṃ mā kṛthāḥ ||851||  
+एतन् मन्दविपक्वतिन्दुकफलश्यामोदरापाण्डुर  
+प्रान्तं हन्त पुलिन्दसुन्दरकरस्पर्शक्षमं लक्ष्यते ।  
+तत्पल्लीपतिपुत्रि कुञ्जरकुलं जीवाभयाभ्यर्थना  
+दीनं त्वाम् अनुनाथति स्तनयुगं पत्रावृतं मा कृथाः ॥८५१॥  
 
 
-vallaṇasya | (su.ra. 1664, Kp 142)  
+वल्लणस्य । (सु।र। १६६४, क्प् १४२)  
 
 
-vilasatu phalajātaṃ cāru hṛdyaṃ tarūṇāṃ  
-taruṇi na padavīṃ tad yāsyati śrīphalasya |  
-asamanijamahimnā yena te tanvi tuṅga  
-stanayugalajigīṣā sāhasenārjitā śrīḥ ||852||  
+विलसतु फलजातं चारु हृद्यं तरूणां  
+तरुणि न पदवीं तद् यास्यति श्रीफलस्य ।  
+असमनिजमहिम्ना येन ते तन्वि तुङ्ग  
+स्तनयुगलजिगीषा साहसेनार्जिता श्रीः ॥८५२॥  
 
 
-tālahaḍīyadaṅkasya |  
+तालहडीयदङ्कस्य ।  
 
 
-ayaṃ lolanmuktāvalikiraṇāvalikiraṇamālāparikaraḥ  
-sphuṭasyendor lakṣmīṃ kṣapayitum alaṃ manmathasuhṛt |  
-viśālaḥ śyāmāyāḥ sthagitaghananīlāṃśukavṛtaḥ   
-stanābhogaḥ svidyanmasṛṇaghusṛṇālepasubhagaḥ ||853||  
+अयं लोलन्मुक्तावलिकिरणावलिकिरणमालापरिकरः  
+स्फुटस्येन्दोर् लक्ष्मीं क्षपयितुम् अलं मन्मथसुहृत् ।  
+विशालः श्यामायाः स्थगितघननीलांशुकवृतः   
+स्तनाभोगः स्विद्यन्मसृणघुसृणालेपसुभगः ॥८५३॥  
 
 
-manovinodakṛtaḥ | (su.ra. 472)  
+मनोविनोदकृतः । (सु।र। ४७२)  
 
 
-sajanmānau tulyāv api janitur ājanma ca saha  
-pravṛddhau nāmnā ca stana iti samānāv udayinau |  
-mithaḥ sīmāmātre yad idam anayor maṇḍalabhṛtor  
-api spardhā nūnaṃ tad iha hi namasyā kaṭhinatā ||854||  
+सजन्मानौ तुल्याव् अपि जनितुर् आजन्म च सह  
+प्रवृद्धौ नाम्ना च स्तन इति समानाव् उदयिनौ ।  
+मिथः सीमामात्रे यद् इदम् अनयोर् मण्डलभृतोर्  
+अपि स्पर्धा नूनं तद् इह हि नमस्या कठिनता ॥८५४॥  
 
 
-rājaśekharasya | (su.ra. 429)  
+राजशेखरस्य । (सु।र। ४२९)  
 
 
-udbhūtaṃ kim idaṃ manobhavanṛpa krīḍāravindadvayaṃ  
-tatsūtiḥ katham ekatas tanuvasad romāvalīnālataḥ |  
-cakradvandvam api kṣamaṃ tad api kiṃ sthātuṃ mukhendoḥ puro  
-lāvaṇyāmbudhimagnayauvanagajasyāvaimi kumbhadvayam ||855||  
+उद्भूतं किम् इदं मनोभवनृप क्रीडारविन्दद्वयं  
+तत्सूतिः कथम् एकतस् तनुवसद् रोमावलीनालतः ।  
+चक्रद्वन्द्वम् अपि क्षमं तद् अपि किं स्थातुं मुखेन्दोः पुरो  
+लावण्याम्बुधिमग्नयौवनगजस्यावैमि कुम्भद्वयम् ॥८५५॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-77. romavalī  
+७७। रोमवली  
 
 
-romāvalī kanakacampakadāmagauryā  
-lakṣmīṃ tanoti navayauvanasambhṛtaśrīḥ |  
-trailokyalabdhavijayasya manobhavasya  
-saurvarṇapaṭṭalikhiteva jayapraśastiḥ ||856||  
+रोमावली कनकचम्पकदामगौर्या  
+लक्ष्मीं तनोति नवयौवनसम्भृतश्रीः ।  
+त्रैलोक्यलब्धविजयस्य मनोभवस्य  
+सौर्वर्णपट्टलिखितेव जयप्रशस्तिः ॥८५६॥  
 
 
-kasyacit | (su.ra. 394)  
+कस्यचित् । (सु।र। ३९४)  
 
 
-romāvalī satrivalī taraṅga  
-nābhīhradasyopari rājate’syāḥ |  
-mukhendubhītastanacakravāka  
-vaktracyutā śaivalamañjarīva ||857||  
+रोमावली सत्रिवली तरङ्ग  
+नाभीह्रदस्योपरि राजते’स्याः ।  
+मुखेन्दुभीतस्तनचक्रवाक  
+वक्त्रच्युता शैवलमञ्जरीव ॥८५७॥  
 
 
-dhoyīkasya |  
+धोयीकस्य ।  
 
 
-dagdhe manobhavatarau bālā kucakumbhasambhṛtair amṛtaiḥ |  
-trivalīkṛtālabālā jātā romāvalīvallī ||858||  
+दग्धे मनोभवतरौ बाला कुचकुम्भसम्भृतैर् अमृतैः ।  
+त्रिवलीकृतालबाला जाता रोमावलीवल्ली ॥८५८॥  
 
 
-bhāsasya |   
+भासस्य ।   
 
 
-uddhṛtaḥ stanabhāra eṣa tarale netre cale bhrūlate  
-rāgādhiṣṭhitamoṣṭhapallavam idaṃ kurvantu nāma vyathām |  
-saubhāgyākṣaramālikeva likhitā puṣpāyudhena svayaṃ  
-madhyasthāpi karoti tāpam adhikaṃ romāvalī kena me ||859||  
+उद्धृतः स्तनभार एष तरले नेत्रे चले भ्रूलते  
+रागाधिष्ठितमोष्ठपल्लवम् इदं कुर्वन्तु नाम व्यथाम् ।  
+सौभाग्याक्षरमालिकेव लिखिता पुष्पायुधेन स्वयं  
+मध्यस्थापि करोति तापम् अधिकं रोमावली केन मे ॥८५९॥  
 
 
-kasyacit | (Sv 1354)  
+कस्यचित् । (स्व् १३५४)  
 
 
-harati ratipater nitambabimba  
-stanataṭacaṅkramasaṅkramasya lakṣmīm |  
-trivalibhavataraṅganimnanābhī  
-hradapadavīm adhiromarājir asyāḥ ||860||  
+हरति रतिपतेर् नितम्बबिम्ब  
+स्तनतटचङ्क्रमसङ्क्रमस्य लक्ष्मीम् ।  
+त्रिवलिभवतरङ्गनिम्ननाभी  
+ह्रदपदवीम् अधिरोमराजिर् अस्याः ॥८६०॥  
 
 
-jayadevasya |  
-78. madhyam  
+जयदेवस्य ।  
+७८। मध्यम्  
 
 
-nihitā maṇimekhalā nitambe  
-taralā hāralatā kucadvaye ca |  
-anayāham alaṅkṛto na kasmā  
-diti tasyās tanutām iyāya madhyam ||861||  
+निहिता मणिमेखला नितम्बे  
+तरला हारलता कुचद्वये च ।  
+अनयाहम् अलङ्कृतो न कस्मा  
+दिति तस्यास् तनुताम् इयाय मध्यम् ॥८६१॥  
 
 
-kuñjasya |  
+कुञ्जस्य ।  
 
 
-ahaṃ tanīyānatikomalaś ca   
-stanadvayaṃ voḍhum alaṃ na tāvat |  
-itīva tatsaṃvahanārtham asyā  
-valitrayaṃ puṣyati madhyabhāgaḥ ||862||  
+अहं तनीयानतिकोमलश् च   
+स्तनद्वयं वोढुम् अलं न तावत् ।  
+इतीव तत्संवहनार्थम् अस्या  
+वलित्रयं पुष्यति मध्यभागः ॥८६२॥  
 
 
-dhoyīkasya |  
+धोयीकस्य ।  
 
 
-lāvaṇyapuṇyasalilaughamahārghatīrthe  
-tasyā valitraya taraṅgiṇi madhyadeśe |  
-nirvāṇam ṛcchati manaḥ sahajaikatāna  
-masmin muhuḥ kim anubhāvayatīva dṛṣṭiḥ ||863||  
+लावण्यपुण्यसलिलौघमहार्घतीर्थे  
+तस्या वलित्रय तरङ्गिणि मध्यदेशे ।  
+निर्वाणम् ऋच्छति मनः सहजैकतान  
+मस्मिन् मुहुः किम् अनुभावयतीव दृष्टिः ॥८६३॥  
 
 
-hareḥ |  
+हरेः ।  
 
 
-tanutvaramaṇīyasya madhyasya ca bhujasya ca |  
-abhavan nitarāṃ tasyā valayaḥ kāntibaddhaye ||864||  
+तनुत्वरमणीयस्य मध्यस्य च भुजस्य च ।  
+अभवन् नितरां तस्या वलयः कान्तिबद्धये ॥८६४॥  
 
 
-kasyacit | (sa.ka.ā. 2.159, sū.mu. 53.64)  
+कस्यचित् । (स।क।आ। २।१५९, सू।मु। ५३।६४)  
 
 
-kucakalaśamahimnā śroṇibhāraprathimnā  
-vihitaniviḍapīḍās tāṃ dvayīm udviṣantaḥ |  
-ciram udarataraṅgaśreṇimārgeṇa yāsāṃ  
-bhrukuṭim iva vahanti krodhato madhyabhāgāḥ ||865||  
+कुचकलशमहिम्ना श्रोणिभारप्रथिम्ना  
+विहितनिविडपीडास् तां द्वयीम् उद्विषन्तः ।  
+चिरम् उदरतरङ्गश्रेणिमार्गेण यासां  
+भ्रुकुटिम् इव वहन्ति क्रोधतो मध्यभागाः ॥८६५॥  
 
 
-rājaśekharasya |  
+राजशेखरस्य ।  
 
 
-79. nāyikākrīḍanam  
+७९। नायिकाक्रीडनम्  
 
 
-amandamaṇinūpurapracuracārucārakramaṃ  
-jhaṇajjhaṇitamekhalāskhalitatārahāracchaṭam |  
-idaṃ taralakaṅkaṇāvaliviśeṣavācālitaṃ  
-mano harati subhruvaḥ kim api kandukakrīḍitam ||866||  
+अमन्दमणिनूपुरप्रचुरचारुचारक्रमं  
+झणज्झणितमेखलास्खलिततारहारच्छटम् ।  
+इदं तरलकङ्कणावलिविशेषवाचालितं  
+मनो हरति सुभ्रुवः किम् अपि कन्दुकक्रीडितम् ॥८६६॥  
 
 
-rājaśekharasya | (vi.śā.bha. 2.6, su.ra. 526, sū.mu. 66.6)  
+राजशेखरस्य । (वि।शा।भ। २।६, सु।र। ५२६, सू।मु। ६६।६)  
 
 
-asyāḥ svedāmbubinducyutatilakatayā vyaktavaktrendukānteḥ  
-paryāyāt kandukasya prahaṇanagaṇanā kelivācālitāyāḥ |  
-utpātottālatālakramanamitadṛśas tāḍanottālatālī  
-līlākhyā maunitāḥ sma pratipadam amunā kandukakrīḍitena ||867||  
+अस्याः स्वेदाम्बुबिन्दुच्युततिलकतया व्यक्तवक्त्रेन्दुकान्तेः  
+पर्यायात् कन्दुकस्य प्रहणनगणना केलिवाचालितायाः ।  
+उत्पातोत्तालतालक्रमनमितदृशस् ताडनोत्तालताली  
+लीलाख्या मौनिताः स्म प्रतिपदम् अमुना कन्दुकक्रीडितेन ॥८६७॥  
 
 
-tasyaiva | (vi.śā.bha. 2.8)  
+तस्यैव । (वि।शा।भ। २।८)  
 
 
-celāñcalena calahāralatāprakāṇḍai  
-rveṇīguṇena ca balād valayīkṛtena |  
-svecchāhitabhramarakabhramimaṇḍalībhi  
-ranyaṃ rasaṃ racayatīva ciraṃ natabhrūḥ ||868||  
+चेलाञ्चलेन चलहारलताप्रकाण्डै  
+र्वेणीगुणेन च बलाद् वलयीकृतेन ।  
+स्वेच्छाहितभ्रमरकभ्रमिमण्डलीभि  
+रन्यं रसं रचयतीव चिरं नतभ्रूः ॥८६८॥  
 
 
-tasyaiva | (vi.śā.bha. 2.9, su.ra. 528)  
+तस्यैव । (वि।शा।भ। २।९, सु।र। ५२८)  
 
 
-śikhāmaṇir itoruṇas tilakayaty ayaṃ medinī  
-mito galitagumphanāstaralaveṇivāntāḥ srajaḥ |  
-itaś churitam antarā truṭitahāramuktāphalai  
-ritaḥ śravaṇapāśataḥ kamalapatram āste cyutam ||869||  
+शिखामणिर् इतोरुणस् तिलकयत्य् अयं मेदिनी  
+मितो गलितगुम्फनास्तरलवेणिवान्ताः स्रजः ।  
+इतश् छुरितम् अन्तरा त्रुटितहारमुक्ताफलै  
+रितः श्रवणपाशतः कमलपत्रम् आस्ते च्युतम् ॥८६९॥  
 
 
-tasyaiva | (vi.śā.bha. 2.13)  
+तस्यैव । (वि।शा।भ। २।१३)  
 
 
-cyutakarṇaśiroruhāvataṃsai  
-rniviḍasvedajalārdragaṇḍalekhaiḥ |  
-asakṛnmaṇikuṭṭimodare sā  
-divasaṃ kandukakelibhir nināya ||870||  
+च्युतकर्णशिरोरुहावतंसै  
+र्निविडस्वेदजलार्द्रगण्डलेखैः ।  
+असकृन्मणिकुट्टिमोदरे सा  
+दिवसं कन्दुककेलिभिर् निनाय ॥८७०॥  
 
 
-muñjasya |  
-80. anukūlanāyakaḥ  
+मुञ्जस्य ।  
+८०। अनुकूलनायकः  
 
 
-sadā cāṭūn jalpan satatam upahārārpitamanā   
-mukhaṃ paśyan nityaṃ satatam avibhinnāñjalipuṭaḥ |  
-anicchann icchan vā kṣaṇam api na pārśvaṃ tyajati yaḥ  
-sa kiṃ kāmī strīṇām ayam aśaraṇo bhṛtyapuruṣaḥ ||871||  
+सदा चाटून् जल्पन् सततम् उपहारार्पितमना   
+मुखं पश्यन् नित्यं सततम् अविभिन्नाञ्जलिपुटः ।  
+अनिच्छन्न् इच्छन् वा क्षणम् अपि न पार्श्वं त्यजति यः  
+स किं कामी स्त्रीणाम् अयम् अशरणो भृत्यपुरुषः ॥८७१॥  
 
 
-śrīmallakṣmaṇasenadevasya |  
+श्रीमल्लक्ष्मणसेनदेवस्य ।  
 
 
-sā bālā vayam apragalbhamanasaḥ sā strī vayaṃ kātarāḥ  
-sā pīnonnatimat payodharayugaṃ dhatte sakhedā vayam |  
-sākrāntā jaghanasthalena guruṇā gantuṃ na śaktā vayaṃ  
-doṣair anyajanāśritair apaṭavo jātāḥ sma ity adbhutam ||872||  
+सा बाला वयम् अप्रगल्भमनसः सा स्त्री वयं कातराः  
+सा पीनोन्नतिमत् पयोधरयुगं धत्ते सखेदा वयम् ।  
+साक्रान्ता जघनस्थलेन गुरुणा गन्तुं न शक्ता वयं  
+दोषैर् अन्यजनाश्रितैर् अपटवो जाताः स्म इत्य् अद्भुतम् ॥८७२॥  
 
 
-[amaru 30, su.ra. 481, Sbh 1346, SK 3.42]  
+[अमरु ३०, सु।र। ४८१, स्भ् १३४६, स्क् ३।४२]  
 
 
-sālaktakena navapallavakomalena  
-pādena nūpuravatā madanālasena |  
-yas tāḍyate dayitayā praṇayārādhāt  
-so’ṅgīkṛto bhagavatā makaradhvajena ||873||  
+सालक्तकेन नवपल्लवकोमलेन  
+पादेन नूपुरवता मदनालसेन ।  
+यस् ताड्यते दयितया प्रणयाराधात्  
+सो’ङ्गीकृतो भगवता मकरध्वजेन ॥८७३॥  
 
 
-[amaru 52; sū.mu. 85.1]  
+[अमरु ५२; सू।मु। ८५।१]  
 
 
-sāmantamaulimaṇirañjitapādapīṭham  
-ekātapatram avaner na tathādhipatyam |  
-asyāḥ sakhe caraṇayor aham adya kāntam  
-ājñākaratvam adhigamya yathā kṛtārthaḥ ||874||  
+सामन्तमौलिमणिरञ्जितपादपीठम्  
+एकातपत्रम् अवनेर् न तथाधिपत्यम् ।  
+अस्याः सखे चरणयोर् अहम् अद्य कान्तम्  
+आज्ञाकरत्वम् अधिगम्य यथा कृतार्थः ॥८७४॥  
 
 
-kasyacit | (Vik. 3.47)  
+कस्यचित् । (विक्। ३।४७)  
 
 
-hāro yatra vyavadhiracanā tvaṃ tu yenāparāddho  
-romodbhedo’py aśithilatarāliṅganeṣv antarāyaḥ |  
-yasmin vāñchā viramati mitho nārdhanārīśvaratve  
-tad dāmpatyaṃ vibhajatu kathaṃkāram anyā mṛgākṣī ||875||  
+हारो यत्र व्यवधिरचना त्वं तु येनापराद्धो  
+रोमोद्भेदो’प्य् अशिथिलतरालिङ्गनेष्व् अन्तरायः ।  
+यस्मिन् वाञ्छा विरमति मिथो नार्धनारीश्वरत्वे  
+तद् दाम्पत्यं विभजतु कथंकारम् अन्या मृगाक्षी ॥८७५॥  
 
 
-govardhanasya |  
-81. dakṣiṇanāyakaḥ  
+गोवर्धनस्य ।  
+८१। दक्षिणनायकः  
 
 
-saivāsya praṇatis tad eva vacanaṃ tā eva kelikriyā  
-bhītiḥ saiva tad eva narmamadhuraṃ pūrvānurāgocitam |  
-kāntasyāpriyakāriṇīti bhavatī taṃ vakti doṣābilaṃ  
-kiṃ syād ittham aharniśaṃ sakhi mano dolāyate cintayā ||876||  
+सैवास्य प्रणतिस् तद् एव वचनं ता एव केलिक्रिया  
+भीतिः सैव तद् एव नर्ममधुरं पूर्वानुरागोचितम् ।  
+कान्तस्याप्रियकारिणीति भवती तं वक्ति दोषाबिलं  
+किं स्याद् इत्थम् अहर्निशं सखि मनो दोलायते चिन्तया ॥८७६॥  
 
 
-rudraṭasya | (śṛ.ti. 1.26a)  
+रुद्रटस्य । (शृ।ति। १।२६अ)  
 
 
-snātā tiṣṭhati kuntaleśvarasutā vāro’ṅgarājasvasur  
-dyūtaiḥ rātrir iyaṃ jitā kamalayā devī prasādyādya ca |  
-ity antaḥpurasundarībhir asakṛd vijñāpitena kramād  
-devenāpratipattimūḍhamanasā dvitrāḥ sthitaṃ nāḍikāḥ ||877||  
+स्नाता तिष्ठति कुन्तलेश्वरसुता वारो’ङ्गराजस्वसुर्  
+द्यूतैः रात्रिर् इयं जिता कमलया देवी प्रसाद्याद्य च ।  
+इत्य् अन्तःपुरसुन्दरीभिर् असकृद् विज्ञापितेन क्रमाद्  
+देवेनाप्रतिपत्तिमूढमनसा द्वित्राः स्थितं नाडिकाः ॥८७७॥  
 
 
-kasyacit | (sa.ka.ā. 5.364, da.rū.. under 2.7, sā.da. under 3.42)  
+कस्यचित् । (स।क।आ। ५।३६४, द।रू॥ उन्देर् २।७, सा।द। उन्देर् ३।४२)  
 
 
-ramyaṃ dveṣṭi yathā purā prakṛtibhir na pratyahaṃ sevyate  
-śayyāprāntavivartanair vigamayaty unnidra eva kṣapāḥ |  
-dākṣiṇyena dadāti vācam ucitām antaḥpurebhyo yadā  
-gotreṣu skhalitas tadā bhavati ca vrīḍāvilakṣaś ciram ||878||  
+रम्यं द्वेष्टि यथा पुरा प्रकृतिभिर् न प्रत्यहं सेव्यते  
+शय्याप्रान्तविवर्तनैर् विगमयत्य् उन्निद्र एव क्षपाः ।  
+दाक्षिण्येन ददाति वाचम् उचिताम् अन्तःपुरेभ्यो यदा  
+गोत्रेषु स्खलितस् तदा भवति च व्रीडाविलक्षश् चिरम् ॥८७८॥  
 
 
-kālidāsasya | (sū.mu. 42.6, Çak. 6.5)  
+कालिदासस्य । (सू।मु। ४२।६, Çअक्। ६।५)  
 
 
-praṇayi vacanaṃ dīnā dṛṣṭiḥ śironihito’ñjaliś  
-caraṇapatanaṃ devyāḥ santi prasādanahetavaḥ |  
-kusumaviśikhajvālātāpasphuṭan mṛdumānasā  
-varatanur asau yena prāpyā sa eva tu nāsti me ||879||  
+प्रणयि वचनं दीना दृष्टिः शिरोनिहितो’ञ्जलिश्  
+चरणपतनं देव्याः सन्ति प्रसादनहेतवः ।  
+कुसुमविशिखज्वालातापस्फुटन् मृदुमानसा  
+वरतनुर् असौ येन प्राप्या स एव तु नास्ति मे ॥८७९॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-vācaḥ paraṃ bhajanty etā devi praṇayacāturīm |  
-hṛdayasya tu sarvasvaṃ tvam evaikapriyā mama ||880||  
+वाचः परं भजन्त्य् एता देवि प्रणयचातुरीम् ।  
+हृदयस्य तु सर्वस्वं त्वम् एवैकप्रिया मम ॥८८०॥  
 
 
-tasyaiva |  
-82. śaṭhanāyakaḥ  
+तस्यैव ।  
+८२। शठनायकः  
 
 
-dṛṣṭvaikāsanasaṃshtite priyatame paścād upetyādarād  
-ekasyā nayane pidyāya vihitakrīḍānubandhacchalaḥ |  
-īṣadvakrimakandharaḥ sapulakaḥ premollasanmānasām  
-antarhāsalasatkapolaphalakāṃ dhūrto’parāṃ cumbati ||881||  
+दृष्ट्वैकासनसंस्ह्तिते प्रियतमे पश्चाद् उपेत्यादराद्  
+एकस्या नयने पिद्याय विहितक्रीडानुबन्धच्छलः ।  
+ईषद्वक्रिमकन्धरः सपुलकः प्रेमोल्लसन्मानसाम्  
+अन्तर्हासलसत्कपोलफलकां धूर्तो’परां चुम्बति ॥८८१॥  
 
 
-[amaru 16; su.ra. 603, Sv. 2069, śā.pa. 3575]  
+[अमरु १६; सु।र। ६०३, स्व्। २०६९, शा।प। ३५७५]  
 
 
-kopāt komalalolabāhulatikāpāśena baddhā dṛḍhaṃ  
-nītvā keliniketanaṃ dayitayā sāyaṃ sakhīnāṃ puraḥ |  
-bhūyo’py evam iti skhalan mṛdugirā saṃsūcya duśceṣṭitaṃ  
-dhanyo hanyata eva nihnutiparaḥ preyān rudatyā hasan ||882||  
+कोपात् कोमललोलबाहुलतिकापाशेन बद्धा दृढं  
+नीत्वा केलिनिकेतनं दयितया सायं सखीनां पुरः ।  
+भूयो’प्य् एवम् इति स्खलन् मृदुगिरा संसूच्य दुश्चेष्टितं  
+धन्यो हन्यत एव निह्नुतिपरः प्रेयान् रुदत्या हसन् ॥८८२॥  
 
 
-[amaru 9, sū.mu. 85.3, Sbh 1351]  
+[अमरु ९, सू।मु। ८५।३, स्भ् १३५१]  
 
 
-ekapriyācaraṇapadmaparīṣṭijāta   
-kleśasya me hṛdayam uttaralīcakāra |  
-udbhinnanirbharamanobhavabhāvamugdha   
-nānāṅganāvadanacandramasāṃ didṛkṣā ||883||  
+एकप्रियाचरणपद्मपरीष्टिजात   
+क्लेशस्य मे हृदयम् उत्तरलीचकार ।  
+उद्भिन्ननिर्भरमनोभवभावमुग्ध   
+नानाङ्गनावदनचन्द्रमसां दिदृक्षा ॥८८३॥  
 
 
-lakṣmaṇasenadevasya |  
+लक्ष्मणसेनदेवस्य ।  
 
 
-kopāt kiṃcid upānato’pi rabhasād ākṛṣya keśeṣv alaṃ  
-nītvā mohanamandiraṃ dayitayā hāreṇa baddhvā dṛḍham |  
-bhūyo yāsyasi tadgṛhān iti muhuḥ kaṇṭhārdharuddhākṣaraṃ  
-jalpantyā śravaṇotpalena sukṛtī kaścid rahas tāḍyate ||884||  
+कोपात् किंचिद् उपानतो’पि रभसाद् आकृष्य केशेष्व् अलं  
+नीत्वा मोहनमन्दिरं दयितया हारेण बद्ध्वा दृढम् ।  
+भूयो यास्यसि तद्गृहान् इति मुहुः कण्ठार्धरुद्धाक्षरं  
+जल्पन्त्या श्रवणोत्पलेन सुकृती कश्चिद् रहस् ताड्यते ॥८८४॥  
 
 
-kasyacit | (śā.pa. 3567, sū.mu. 85.2)  
+कस्यचित् । (शा।प। ३५६७, सू।मु। ८५।२)  
 
 
-sā bāḍhaṃ bhavatekṣiteti niviḍaṃ saṃyamya bāhvoḥ srajā  
-bhūyo drakṣyasi tāṃ śaṭheti paruṣaṃ saṃtarjya saṃtarjya ca |  
-ālīnāṃ pura eva nihnutiparaḥ kopād raṇannūpuraṃ  
-māninyāś caraṇaprahāravidhinā preyān aśokīkṛtaḥ ||885||  
+सा बाढं भवतेक्षितेति निविडं संयम्य बाह्वोः स्रजा  
+भूयो द्रक्ष्यसि तां शठेति परुषं संतर्ज्य संतर्ज्य च ।  
+आलीनां पुर एव निह्नुतिपरः कोपाद् रणन्नूपुरं  
+मानिन्याश् चरणप्रहारविधिना प्रेयान् अशोकीकृतः ॥८८५॥  
 
 
-kasyacit |  
-83. dhṛṣṭanāyakaḥ  
+कस्यचित् ।  
+८३। धृष्टनायकः  
 
 
-śataṃ vārān uktaḥ priyasakhi vacobhiḥ sa paruṣaiḥ  
-sahasraṃ nirdhūtaś caraṇapatitaḥ pārṣṇihatibhiḥ |  
-kiyat kṛtvo baddhāḥ punar iha na vedmi bhrukuṭayas  
-tathāpi kliśyan māṃ kṣaṇam api na dhṛṣṭo rahayati ||886||  
+शतं वारान् उक्तः प्रियसखि वचोभिः स परुषैः  
+सहस्रं निर्धूतश् चरणपतितः पार्ष्णिहतिभिः ।  
+कियत् कृत्वो बद्धाः पुनर् इह न वेद्मि भ्रुकुटयस्  
+तथापि क्लिश्यन् मां क्षणम् अपि न धृष्टो रहयति ॥८८६॥  
 
 
-kasyacit | (sa.ka.ā. 4.180, V. 371)  
+कस्यचित् । (स।क।आ। ४।१८०, व्। ३७१)  
 
 
-vāco vāgmini kiṃ tavādya paruṣāḥ subhru bhruvor vibhramair  
-viśrāntaṃ kuta eva lolanayane kiṃ lohite locane |  
-svedaḥ kiṃ nu ghanastani stanataṭe muktāphalānāṃ tulāṃ  
-dhatte muñca ruṣaṃ mamātra dayite leśo’pi nāsty āgasaḥ ||887||  
+वाचो वाग्मिनि किं तवाद्य परुषाः सुभ्रु भ्रुवोर् विभ्रमैर्  
+विश्रान्तं कुत एव लोलनयने किं लोहिते लोचने ।  
+स्वेदः किं नु घनस्तनि स्तनतटे मुक्ताफलानां तुलां  
+धत्ते मुञ्च रुषं ममात्र दयिते लेशो’पि नास्त्य् आगसः ॥८८७॥  
 
 
-kasyacit | (śṛ.ti. 2.36a, śā.pa. 3579, sū.mu. 58.6)  
+कस्यचित् । (शृ।ति। २।३६अ, शा।प। ३५७९, सू।मु। ५८।६)  
 
 
-jalpantyāḥ paruṣaṃ ruṣā mama balāc cumbaty asāv ānanaṃ  
-mṛdgātyāśu karaṃ kareṇa bahuśaḥ santāḍyamāno’pi san |  
-ālīnāṃ purato dadhāti śirasā pādaprahārāṃs tato  
-no jāne sakhi sāmprataṃ praṇayien kupyāmi tasmai katham ||888||  
+जल्पन्त्याः परुषं रुषा मम बलाच् चुम्बत्य् असाव् आननं  
+मृद्गात्याशु करं करेण बहुशः सन्ताड्यमानो’पि सन् ।  
+आलीनां पुरतो दधाति शिरसा पादप्रहारांस् ततो  
+नो जाने सखि साम्प्रतं प्रणयिएन् कुप्यामि तस्मै कथम् ॥८८८॥  
 
 
-rudraṭasya | (śṛ.ti. 1.28a)  
+रुद्रटस्य । (शृ।ति। १।२८अ)  
 
 
-dṛṣṭā muṣṭibhir āhatā hṛdi nakhair ācoṭitā pārśvayor  
-ākṛṣṭā kavarīṣu gāḍham adhare śītkurvatī khaṇḍitā |  
-tvatkṛtyaṃ tvadagocare’pi hi kṛtaṃ sarvaṃ mayaivādhunā  
-mām ājñāpaya kiṃ karomi sarale bhūyaḥ sapatnyās tava ||889||  
+दृष्टा मुष्टिभिर् आहता हृदि नखैर् आचोटिता पार्श्वयोर्  
+आकृष्टा कवरीषु गाढम् अधरे शीत्कुर्वती खण्डिता ।  
+त्वत्कृत्यं त्वदगोचरे’पि हि कृतं सर्वं मयैवाधुना  
+माम् आज्ञापय किं करोमि सरले भूयः सपत्न्यास् तव ॥८८९॥  
 
 
-kasyacit | (su.ra. 677)  
+कस्यचित् । (सु।र। ६७७)  
 
 
-dāse kṛtāgasi bhaved ucitaḥ prabhūṇāṃ  
-pādaprahār iti mānini nātidūye |  
-udyatkaṭhorapulakāṅkurakaṇṭakāgrair  
-yad bhidyate padam idaṃ tava sā vyathā me ||890||  
+दासे कृतागसि भवेद् उचितः प्रभूणां  
+पादप्रहार् इति मानिनि नातिदूये ।  
+उद्यत्कठोरपुलकाङ्कुरकण्टकाग्रैर्  
+यद् भिद्यते पदम् इदं तव सा व्यथा मे ॥८९०॥  
 
 
-satyabodhasya | (sā.da. under 10.46, śā.pa. 3657, sū.mu. 57.11)  
-84. grāmyanāyakaḥ  
+सत्यबोधस्य । (सा।द। उन्देर् १०।४६, शा।प। ३६५७, सू।मु। ५७।११)  
+८४। ग्राम्यनायकः  
 
 
-svairaṃ kīkaṭadārakaḥ parisare gundrālatopāhita  
-tvaṅgaccarcarako virūḍhalaśunaśyāmaḥ parikrāmati |  
-viśrāntaṃ muṣalaiḥ sthitaṃ titaubhir viśrabdham ambhoghaṭair  
-nirvāṇaṃ jvalanair mukhair vivalitaṃ grāmeyikāṇāṃ puraḥ ||891||  
+स्वैरं कीकटदारकः परिसरे गुन्द्रालतोपाहित  
+त्वङ्गच्चर्चरको विरूढलशुनश्यामः परिक्रामति ।  
+विश्रान्तं मुषलैः स्थितं तितौभिर् विश्रब्धम् अम्भोघटैर्  
+निर्वाणं ज्वलनैर् मुखैर् विवलितं ग्रामेयिकाणां पुरः ॥८९१॥  
 
 
-yogeśvarasya |  
+योगेश्वरस्य ।  
 
 
-dhāvati tarum ārohati kūpaṃ laṅghayati śakaṭam utkṣipati |  
-tinavati tinavati gāyati dṛṣṭvā parayoṣitaṃ ṣiṅgaḥ ||892||  
+धावति तरुम् आरोहति कूपं लङ्घयति शकटम् उत्क्षिपति ।  
+तिनवति तिनवति गायति दृष्ट्वा परयोषितं षिङ्गः ॥८९२॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-brīhiḥ stambakariḥ prabhūtapayasaḥ pratyāgatā dhenavaḥ  
-pratyujjīvitabhikṣuṇā bhṛśam iti dhyāyann apetānyadhīḥ |  
-sāndrośīrakuṭumbinīstanabharavyāluptagharmaklamo  
-deve nīram udāram ujjhati sukhaṃ śete niśāgrāmaṇīḥ ||893||  
+ब्रीहिः स्तम्बकरिः प्रभूतपयसः प्रत्यागता धेनवः  
+प्रत्युज्जीवितभिक्षुणा भृशम् इति ध्यायन्न् अपेतान्यधीः ।  
+सान्द्रोशीरकुटुम्बिनीस्तनभरव्यालुप्तघर्मक्लमो  
+देवे नीरम् उदारम् उज्झति सुखं शेते निशाग्रामणीः ॥८९३॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-paricumbanāya ghaṭate pāramamithunaṃ niśāsu caitrīṣu |  
-kavalitapalāṇḍu parimalasaṃvaladanyonyaniḥśvāsam ||894||  
+परिचुम्बनाय घटते पारममिथुनं निशासु चैत्रीषु ।  
+कवलितपलाण्डु परिमलसंवलदन्योन्यनिःश्वासम् ॥८९४॥  
 
 
-śubhāṅkasya |  
+शुभाङ्कस्य ।  
 
 
-vyāvṛttyā śithilīkaroti vasanaṃ jāgraty api vrīḍayā  
-svapnabhrāntipariplutena manasā gāḍhaṃ samāliṅgati |  
-dattvāṅgaṃ svapiti priyasya rataye vyājena nidrāṃ gatā  
-tanvyaṅgyā viphalaṃ viceṣṭitam abhūd bhāvānabhijñe jane ||895||  
+व्यावृत्त्या शिथिलीकरोति वसनं जाग्रत्य् अपि व्रीडया  
+स्वप्नभ्रान्तिपरिप्लुतेन मनसा गाढं समालिङ्गति ।  
+दत्त्वाङ्गं स्वपिति प्रियस्य रतये व्याजेन निद्रां गता  
+तन्व्यङ्ग्या विफलं विचेष्टितम् अभूद् भावानभिज्ञे जने ॥८९५॥  
 
 
-amaroḥ | (su.ra. 511)  
+अमरोः । (सु।र। ५११)  
 
 
-85. mānināyakaḥ  
+८५। मानिनायकः  
 
 
-smṛtisvapnāvāptatvadakhilavilāsaikamanasā   
-tayā tāvat tādṛk tvadanunayayatnaḥ śithilitaḥ |  
-ayaṃ tu draṣṭavyas tava subhaga garvasya garimā  
-smṛtau vā svapne vā yadi bhavasi vāmaḥ katham api ||896||  
+स्मृतिस्वप्नावाप्तत्वदखिलविलासैकमनसा   
+तया तावत् तादृक् त्वदनुनययत्नः शिथिलितः ।  
+अयं तु द्रष्टव्यस् तव सुभग गर्वस्य गरिमा  
+स्मृतौ वा स्वप्ने वा यदि भवसि वामः कथम् अपि ॥८९६॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-caraṇapatanapratyākhyānāt prasādaparāṅmukhe  
-nibhṛtakitavācārety uktvā ruṣā puruṣīkṛte |  
-vrajati ramaṇe niḥśvasyoccaiḥ stanasthitahastayā  
-nayanasalilacchannā dṛṣṭiḥ sakhīṣu niveśitā ||897|| amaroḥ ||  
+चरणपतनप्रत्याख्यानात् प्रसादपराङ्मुखे  
+निभृतकितवाचारेत्य् उक्त्वा रुषा पुरुषीकृते ।  
+व्रजति रमणे निःश्वस्योच्चैः स्तनस्थितहस्तया  
+नयनसलिलच्छन्ना दृष्टिः सखीषु निवेशिता ॥८९७॥ अमरोः ॥  
 
 
-[amaru 19]  
+[अमरु १९]  
 
 
-virahaviṣamaḥ kāmo vāmas tanuṃ kurute tanuṃ  
-divasagaṇanād akṣaś cāsau vyapetaghṛṇo yamaḥ |  
-tvam api vaśago mānavyādher vicintaya nātha he  
-kiśalayamṛdur jīved evaṃ kathaṃ pramadājanaḥ ||898||  
+विरहविषमः कामो वामस् तनुं कुरुते तनुं  
+दिवसगणनाद् अक्षश् चासौ व्यपेतघृणो यमः ।  
+त्वम् अपि वशगो मानव्याधेर् विचिन्तय नाथ हे  
+किशलयमृदुर् जीवेद् एवं कथं प्रमदाजनः ॥८९८॥  
 
 
-[amaru 64; Sbh 1633, śā.pa. 3572]  
+[अमरु ६४; स्भ् १६३३, शा।प। ३५७२]  
 
 
-kṛtvā nūpuramūkatāṃ caraṇayoḥ saṃyamya nīvīmaṇīn  
-uddāmadhvanipaṇḍitān parijane kiṃcic ca nidrāyati |  
-tasmin kupyati yāvad asmi calitā tāvad vidhipreritaḥ   
-kāśmīraīkucakumbhavibhramakaraḥ śītāṃśur abhyudgataḥ ||899||  
+कृत्वा नूपुरमूकतां चरणयोः संयम्य नीवीमणीन्  
+उद्दामध्वनिपण्डितान् परिजने किंचिच् च निद्रायति ।  
+तस्मिन् कुप्यति यावद् अस्मि चलिता तावद् विधिप्रेरितः   
+काश्मीरईकुचकुम्भविभ्रमकरः शीतांशुर् अभ्युद्गतः ॥८९९॥  
 
 
-kasyacit | (sū.mu. 70.13, kāśmīrabilhaṇasya; su.ra. 834)  
+कस्यचित् । (सू।मु। ७०।१३, काश्मीरबिल्हणस्य; सु।र। ८३४)  
 
 
-mukto mānaparigrahaḥ saha sakhīsārthena tanmantriṇā  
-śaktā tvaccaraṇaprasādarahitā nāhaṃ kṣaṇaṃ prāṇitum |  
-paśya tvaṃ kṛśakaṃ śarīrakam idaṃ yāṃ yām avasthāṃ gataṃ  
-saiṣāhaṃ tava pādayor nipatitā nātha prasīdādhunā ||900||  
+मुक्तो मानपरिग्रहः सह सखीसार्थेन तन्मन्त्रिणा  
+शक्ता त्वच्चरणप्रसादरहिता नाहं क्षणं प्राणितुम् ।  
+पश्य त्वं कृशकं शरीरकम् इदं यां याम् अवस्थां गतं  
+सैषाहं तव पादयोर् निपतिता नाथ प्रसीदाधुना ॥९००॥  
 
 
-kasyacit |  
-86. proṣitaḥ  
+कस्यचित् ।  
+८६। प्रोषितः  
 
 
-deśair antaritā śataiś ca saritām urvībhṛtāṃ kānanair  
-yatnenāpi na yāti locanapathaṃ kānteti jānann api |  
-udgrīvaś caraṇārdharuddhavasudhaḥ kṛtvāśrupūrṇāṃ dṛśaṃ  
-tām āśāṃ pathikas tathāpi kim api dhyāyaṃś ciraṃ vīkṣate ||901||  
+देशैर् अन्तरिता शतैश् च सरिताम् उर्वीभृतां काननैर्  
+यत्नेनापि न याति लोचनपथं कान्तेति जानन्न् अपि ।  
+उद्ग्रीवश् चरणार्धरुद्धवसुधः कृत्वाश्रुपूर्णां दृशं  
+ताम् आशां पथिकस् तथापि किम् अपि ध्यायंश् चिरं वीक्षते ॥९०१॥  
 
 
-[amaru 93 (72); su.ra. 765, sa.ka.ā.m 901, śā.pa. 3445]  
+[अमरु ९३ (७२); सु।र। ७६५, स।क।आ।म् ९०१, शा।प। ३४४५]  
 
 
-hāro nāropitaḥ kaṇṭhe mayā viśleṣabhīruṇā |  
-idānīm āvayor madhye saritsāgarabhūdharāḥ ||902||  
+हारो नारोपितः कण्ठे मया विश्लेषभीरुणा ।  
+इदानीम् आवयोर् मध्ये सरित्सागरभूधराः ॥९०२॥  
 
 
-dharmapālasya | (Sv 1192, śā.pa. 3429)  
+धर्मपालस्य । (स्व् ११९२, शा।प। ३४२९)  
 
 
-bhadrātra grāmake tvaṃ vasasi paricayas tena jānāsi vārtām  
-asminn adhvany ayoṣittaruṇimavayasi dhyāya kācid vipannā |  
-itthaṃ pānthaḥ pravāsāvadhidinagaṇanāpāyaśaṅkī priyāyāḥ   
-pṛcchan vārtāṃ samīpasthitanijabhavanaṃ vyākulo nopayāti ||903||  
+भद्रात्र ग्रामके त्वं वससि परिचयस् तेन जानासि वार्ताम्  
+अस्मिन्न् अध्वन्य् अयोषित्तरुणिमवयसि ध्याय काचिद् विपन्ना ।  
+इत्थं पान्थः प्रवासावधिदिनगणनापायशङ्की प्रियायाः   
+पृच्छन् वार्तां समीपस्थितनिजभवनं व्याकुलो नोपयाति ॥९०३॥  
 
 
-kasyacit | (śā.pa. 3895)  
+कस्यचित् । (शा।प। ३८९५)  
 
 
-vasantāgnau magnā ciraviraharugṇā sahacarī  
-yadi prāṇān muñcet tad iha vadhabhāgī bhavatu kaḥ |  
-vayo vā sneho vā kusumasamayo veti vimṛśaṃs  
-stuhīti pravyaktaṃ pikanikarajhaṃkāram aśṛṇot ||904||  
+वसन्ताग्नौ मग्ना चिरविरहरुग्णा सहचरी  
+यदि प्राणान् मुञ्चेत् तद् इह वधभागी भवतु कः ।  
+वयो वा स्नेहो वा कुसुमसमयो वेति विमृशंस्  
+स्तुहीति प्रव्यक्तं पिकनिकरझंकारम् अशृणोत् ॥९०४॥  
 
 
-pikanikarasya |  
+पिकनिकरस्य ।  
 
 
-savyādheḥ kṛśatā kṣatasya rudhiraṃ daṣṭasya lālāsravaḥ  
-sarvaṃ naitad ihāsti tat katham asau pānthas tapasvī mṛtaḥ |  
-ā jñātaṃ madhulampaṭair madhukarair ārabdhakolāhale  
-nūnaṃ sāhasikena cūtamukule dṛṣṭiḥ samāropitā ||905||  
+सव्याधेः कृशता क्षतस्य रुधिरं दष्टस्य लालास्रवः  
+सर्वं नैतद् इहास्ति तत् कथम् असौ पान्थस् तपस्वी मृतः ।  
+आ ज्ञातं मधुलम्पटैर् मधुकरैर् आरब्धकोलाहले  
+नूनं साहसिकेन चूतमुकुले दृष्टिः समारोपिता ॥९०५॥  
 
 
-rājaśekharasya | (su.ra. 760, śā.pa. 3822)  
+राजशेखरस्य । (सु।र। ७६०, शा।प। ३८२२)  
 
 
-87. pathikaḥ  
+८७। पथिकः  
 
 
-supte grāme nadati jalade śāntasaṃpātaramyaṃ  
-pānthenātmavyasanakaruṇodasru gītaṃ niśīthe |  
-sphītotkaṇṭhāparigatadhiyā proṣitastrījanena  
-dhyānāveśastimitanayanaṃ śrūyate rudyate ca ||906||  
+सुप्ते ग्रामे नदति जलदे शान्तसंपातरम्यं  
+पान्थेनात्मव्यसनकरुणोदस्रु गीतं निशीथे ।  
+स्फीतोत्कण्ठापरिगतधिया प्रोषितस्त्रीजनेन  
+ध्यानावेशस्तिमितनयनं श्रूयते रुद्यते च ॥९०६॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-māgāḥ pāntha pathāmunā yadi tava bhrātaḥ priyaṃ jīvitaṃ  
-yac cūtākṛtir atra tiṣṭhati mahāraudraḥ puro rākṣasaḥ |  
-yenodyanmakarandamugdhamadhupavyāhārajhaṅkāriṇā  
-pānthānām adhunaiva nirghṛṇadhiyā sārtho hataḥ śrūyate ||907||  
+मागाः पान्थ पथामुना यदि तव भ्रातः प्रियं जीवितं  
+यच् चूताकृतिर् अत्र तिष्ठति महारौद्रः पुरो राक्षसः ।  
+येनोद्यन्मकरन्दमुग्धमधुपव्याहारझङ्कारिणा  
+पान्थानाम् अधुनैव निर्घृणधिया सार्थो हतः श्रूयते ॥९०७॥  
 
 
-kasyāpi |  
+कस्यापि ।  
 
 
-upaparisaraṃ godāvaryāḥ parityajatādhvagāḥ   
-saraṇim aparo mārgas tāvad bhavadbhir ihekṣyatām |  
-iha hi vihito raktāśokaḥ kayāpi hatāśayā   
-caraṇanalinanyāsodañcan navāṅkurakañcukaḥ ||908||  
+उपपरिसरं गोदावर्याः परित्यजताध्वगाः   
+सरणिम् अपरो मार्गस् तावद् भवद्भिर् इहेक्ष्यताम् ।  
+इह हि विहितो रक्ताशोकः कयापि हताशया   
+चरणनलिनन्यासोदञ्चन् नवाङ्कुरकञ्चुकः ॥९०८॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-kasmāt tvaṃ kva nu dṛśyate sukhamukhaṃ kvāste’ndhakāraḥ paraṃ   
-kva strīṣu smaradhūmaketurudito dṛṣṭā yuvānaḥ kva te |  
-gantā kva kva ca pañcamaḥ kva ṇasakṛt kvāt saṃkuro nidgataḥ   
-kvānandaikarasodayaḥ kva nu satī kaivādhvagas tat kathā ||909||  
+कस्मात् त्वं क्व नु दृश्यते सुखमुखं क्वास्ते’न्धकारः परं   
+क्व स्त्रीषु स्मरधूमकेतुरुदितो दृष्टा युवानः क्व ते ।  
+गन्ता क्व क्व च पञ्चमः क्व णसकृत् क्वात् संकुरो निद्गतः   
+क्वानन्दैकरसोदयः क्व नु सती कैवाध्वगस् तत् कथा ॥९०९॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-grāme’smin pathikāya pāntha vasatir naivādhunā dīyate  
-paśyātraiva vihāramaṇḍapatale prasupto yuvā |  
-tenodgīya khalena garjati ghane smṛtvā priyā tatkṛtaṃ  
-yenādyāpi karaṅkadaṇḍapatanāśaṅkī janas tiṣṭhati ||910||  
+ग्रामे’स्मिन् पथिकाय पान्थ वसतिर् नैवाधुना दीयते  
+पश्यात्रैव विहारमण्डपतले प्रसुप्तो युवा ।  
+तेनोद्गीय खलेन गर्जति घने स्मृत्वा प्रिया तत्कृतं  
+येनाद्यापि करङ्कदण्डपतनाशङ्की जनस् तिष्ठति ॥९१०॥  
 
 
-kasyacit | (śā.pa. 3893, su.ra. 1661)  
+कस्यचित् । (शा।प। ३८९३, सु।र। १६६१)  
 
 
-88. varṣāpathikaḥ  
+८८। वर्षापथिकः  
 
 
-tāvad vācaḥ prayuktā manasi vinihitā jīvitāśāpi tāvan  
-nikṣiptau tāvad aṅghrī pathi pathikajanair lakṣitās tāvad āśāḥ |  
-nṛtyaddhārākadambas tava kavalayitā yāvad ete na dṛṣṭā  
-nirmuktavyālanīladyutinavajaladavyākulā vindhyapādāḥ ||911||  
+तावद् वाचः प्रयुक्ता मनसि विनिहिता जीविताशापि तावन्  
+निक्षिप्तौ तावद् अङ्घ्री पथि पथिकजनैर् लक्षितास् तावद् आशाः ।  
+नृत्यद्धाराकदम्बस् तव कवलयिता यावद् एते न दृष्टा  
+निर्मुक्तव्यालनीलद्युतिनवजलदव्याकुला विन्ध्यपादाः ॥९११॥  
 
 
-yogeśvarasya | (su.ra. 263)  
+योगेश्वरस्य । (सु।र। २६३)  
 
 
-līlāmbhojatamālakajjalajalaśrīkṇṭhakaṇṭhadyute  
-bhrātar magha mahendracāparuciraṃ vyāsasya kaṇṭhe guṇam |  
-svairaṃ garja muhūrtakaṃ kuru dayāṃ sā bāṣpapūrṇekṣaṇā   
-bālā bālamṛṇālakomalatanus tanvī na soḍhuṃ kṣamā ||912||  
+लीलाम्भोजतमालकज्जलजलश्रीक्ण्ठकण्ठद्युते  
+भ्रातर् मघ महेन्द्रचापरुचिरं व्यासस्य कण्ठे गुणम् ।  
+स्वैरं गर्ज मुहूर्तकं कुरु दयां सा बाष्पपूर्णेक्षणा   
+बाला बालमृणालकोमलतनुस् तन्वी न सोढुं क्षमा ॥९१२॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-jaladharamuditaṃ vilokya dūrād  
-ahaha padāt padam eṣa na yāti |  
-aviratanayanāmbudīrgham uṣṇaṃ  
-śvasiti kathaṃ hatajīvitodhvanīnaḥ ||913||  
+जलधरमुदितं विलोक्य दूराद्  
+अहह पदात् पदम् एष न याति ।  
+अविरतनयनाम्बुदीर्घम् उष्णं  
+श्वसिति कथं हतजीवितोध्वनीनः ॥९१३॥  
 
 
-kavicakravartinaḥ |  
+कविचक्रवर्तिनः ।  
 
 
-niśīthe līnānāṃ jhaṭiti taḍitāṃ vīkṣya viṣamaṃ  
-ghanānām ābhogaṃ rasikapathikenonmukhadṛśā |  
-na gītaṃ sotkaṇṭhaṃ na ca ruditam utkampataralaṃ  
-na muktā niḥśvāsāḥ sphuṭadanumataṃ kintu hṛdayam ||914||  
+निशीथे लीनानां झटिति तडितां वीक्ष्य विषमं  
+घनानाम् आभोगं रसिकपथिकेनोन्मुखदृशा ।  
+न गीतं सोत्कण्ठं न च रुदितम् उत्कम्पतरलं  
+न मुक्ता निःश्वासाः स्फुटदनुमतं किन्तु हृदयम् ॥९१४॥  
 
 
-vāhlīkasya | (śā.pa. 3892)  
+वाह्लीकस्य । (शा।प। ३८९२)  
 
 
-dhīraṃ vāridharasya vāri kirataḥ śrutvā niśīthe dhvaniṃ  
-dīrghocchvāsamudaśruṇā virahiṇīṃ bālāṃ ciraṃ dhyāyatā |  
-adhvanyena vimuktakaṇṭham akhilāṃ rātriṃ tathā kranditaṃ  
-grāmīṇair vrajato janasya vasatir grāme niṣiddhā yathā ||915||  
+धीरं वारिधरस्य वारि किरतः श्रुत्वा निशीथे ध्वनिं  
+दीर्घोच्छ्वासमुदश्रुणा विरहिणीं बालां चिरं ध्यायता ।  
+अध्वन्येन विमुक्तकण्ठम् अखिलां रात्रिं तथा क्रन्दितं  
+ग्रामीणैर् व्रजतो जनस्य वसतिर् ग्रामे निषिद्धा यथा ॥९१५॥  
 
 
-[amaru 11]  
+[अमरु ११]  
 
 
-89. proṣitapriyāsmaraṇam  
+८९। प्रोषितप्रियास्मरणम्  
 
 
-vivekād asmābhiḥ pramapuruṣābhyāsarasikaiḥ  
-kathañcin nīyante ratiramaṇabāṇair api hataiḥ |  
-priyāyā bālatvād abhinavaviyogāt tava tanor  
-na jānīmas tasyā bata katham amī yānti divasāḥ ||916||  
+विवेकाद् अस्माभिः प्रमपुरुषाभ्यासरसिकैः  
+कथञ्चिन् नीयन्ते रतिरमणबाणैर् अपि हतैः ।  
+प्रियाया बालत्वाद् अभिनववियोगात् तव तनोर्  
+न जानीमस् तस्या बत कथम् अमी यान्ति दिवसाः ॥९१६॥  
 
 
-kasyacit | (su.ra. 780)  
+कस्यचित् । (सु।र। ७८०)  
 
 
-ālambyāṅgaṇavāṭikāparisare svecchānatāṃ śākhikāṃ  
-keyūrībhavadalpaśeṣavalayā bālā samastaṃ dinam |  
-sā daivopahṛtasya mūḍhamanaso bhagnāvadheradya me  
-panthānaṃ vivṛtāśruṇā vadanakenālokya kiṃ vakṣyati ||917||  
+आलम्ब्याङ्गणवाटिकापरिसरे स्वेच्छानतां शाखिकां  
+केयूरीभवदल्पशेषवलया बाला समस्तं दिनम् ।  
+सा दैवोपहृतस्य मूढमनसो भग्नावधेरद्य मे  
+पन्थानं विवृताश्रुणा वदनकेनालोक्य किं वक्ष्यति ॥९१७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-anārabdhākṣepaṃ paramakṛtabāṣpavyatikaraṃ   
-nigūḍhāntas tāpaṃ hṛdayavinipītaṃ vyavasitam |  
-kṛśāṅgyā yat pāpe vrajati mayi nairāśyapiśunaṃ   
-ślathair aṅgair uktaṃ hṛdayam idam unmūlayati tat ||918||  
+अनारब्धाक्षेपं परमकृतबाष्पव्यतिकरं   
+निगूढान्तस् तापं हृदयविनिपीतं व्यवसितम् ।  
+कृशाङ्ग्या यत् पापे व्रजति मयि नैराश्यपिशुनं   
+श्लथैर् अङ्गैर् उक्तं हृदयम् इदम् उन्मूलयति तत् ॥९१८॥  
 
 
-kasyacit | (Sv 1333)  
+कस्यचित् । (स्व् १३३३)  
 
 
-utkampo’pi sakampa eva hṛdaye cintāpi cintānvitā   
-niḥśvāsā api niḥśvasanty anibhṛtaṃ bāṣpo’pi bāṣpāyate |  
-kāntāṃ saṃsmarato videśavasater naktaṃ divaṃ kāminaḥ   
-prārohā iva niṣpatanti manaso duḥkhāni duḥkhānvitāt ||919||  
+उत्कम्पो’पि सकम्प एव हृदये चिन्तापि चिन्तान्विता   
+निःश्वासा अपि निःश्वसन्त्य् अनिभृतं बाष्पो’पि बाष्पायते ।  
+कान्तां संस्मरतो विदेशवसतेर् नक्तं दिवं कामिनः   
+प्रारोहा इव निष्पतन्ति मनसो दुःखानि दुःखान्वितात् ॥९१९॥  
 
 
-kasyacit | (Sv 1152)  
+कस्यचित् । (स्व् ११५२)  
 
 
-nirastālaṅkārāṃ nayanajalasiktādharapūṭāṃ   
-ravāvastaṃ yāte dviguṇatarakhedālasamukhīm |  
-aho dūrasthāṃ tāṃ karakamalavinyastavadanāṃ  
-priyāṃ paśyāmīva smṛtiśaraṬakuḍye vilikhitām ||920||  
+निरस्तालङ्कारां नयनजलसिक्ताधरपूटां   
+रवावस्तं याते द्विगुणतरखेदालसमुखीम् ।  
+अहो दूरस्थां तां करकमलविन्यस्तवदनां  
+प्रियां पश्यामीव स्मृतिशरटकुड्ये विलिखिताम् ॥९२०॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-90. prasthānabhaṅgaḥ  
+९०। प्रस्थानभङ्गः  
 
 
-praharaviratau madhye vāhnas tato’pi pare’thavā  
-kim uta sakale jāte vāhnipriya tvam ihaiṣyasi |  
-iti dinaśataprāpyaṃ deśaṃ priyasya yiyāsato  
-harati gamanaṃ bālālāpaiḥ sabāṣpagalajjalaiḥ ||921||  
+प्रहरविरतौ मध्ये वाह्नस् ततो’पि परे’थवा  
+किम् उत सकले जाते वाह्निप्रिय त्वम् इहैष्यसि ।  
+इति दिनशतप्राप्यं देशं प्रियस्य यियासतो  
+हरति गमनं बालालापैः सबाष्पगलज्जलैः ॥९२१॥  
 
 
-[amaru 12; su.ra. 532, Sbh 1048, śā.pa. 3389, sū.mu. 37.7]  
+[अमरु १२; सु।र। ५३२, स्भ् १०४८, शा।प। ३३८९, सू।मु। ३७।७]  
 
 
-lagnā nāṃśukapallave bhujalatā na dvāradeśe’pitā  
-no vā pādatale tayā nipatitaṃ tiṣṭheti noktaṃ vacaḥ |  
-kāle kevalam ambudātimaline gantuṃ pravṛttaḥ śaṭhaḥ  
-tanvyā bāṣpajalaughakalpitanadīpūreṇa baddhaḥ priyaḥ ||922||  
+लग्ना नांशुकपल्लवे भुजलता न द्वारदेशे’पिता  
+नो वा पादतले तया निपतितं तिष्ठेति नोक्तं वचः ।  
+काले केवलम् अम्बुदातिमलिने गन्तुं प्रवृत्तः शठः  
+तन्व्या बाष्पजलौघकल्पितनदीपूरेण बद्धः प्रियः ॥९२२॥  
 
 
-[amaru 62, Sbh 1057, śā.pa. 3388, sū.mu. 37.5]  
+[अमरु ६२, स्भ् १०५७, शा।प। ३३८८, सू।मु। ३७।५]  
 
 
-mā yāhīti nivāraṇaṃ na ca kṛtaṃ naivāvadhir yācito  
-no bāṣpākhukaṇāvalīmalinatāṃ nītā kapolasthalī |  
-arghyavyājam upetayā dayitayā saṃprasthitasyādya me  
-yātrābhaṅgakarī kare vinihitā cautī navā mañjarī ||923||  
+मा याहीति निवारणं न च कृतं नैवावधिर् याचितो  
+नो बाष्पाखुकणावलीमलिनतां नीता कपोलस्थली ।  
+अर्घ्यव्याजम् उपेतया दयितया संप्रस्थितस्याद्य मे  
+यात्राभङ्गकरी करे विनिहिता चौती नवा मञ्जरी ॥९२३॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-dūraṃ sundari nirgatāsi bhavanād eṣa drumaḥ kṣīravān  
-asmād eva nivartyatām iti śanair uktādhvagena priyā |  
-tasyā manyubharocchvasatkucayugābhogasphuṭatkañcukaṃ  
-vīkṣyoraḥsthalam aśrupūritadṛśā prasthānabhaṅgaḥ kṛtaḥ ||924||  
+दूरं सुन्दरि निर्गतासि भवनाद् एष द्रुमः क्षीरवान्  
+अस्माद् एव निवर्त्यताम् इति शनैर् उक्ताध्वगेन प्रिया ।  
+तस्या मन्युभरोच्छ्वसत्कुचयुगाभोगस्फुटत्कञ्चुकं  
+वीक्ष्योरःस्थलम् अश्रुपूरितदृशा प्रस्थानभङ्गः कृतः ॥९२४॥  
 
 
-taraṇinandinaḥ | (Sv. 1063, śā.pa. 3390)  
+तरणिनन्दिनः । (स्व्। १०६३, शा।प। ३३९०)  
 
 
-yāmīty uktavati vrajety abhihitaṃ trastaṃ vimuktāsane  
-dvitrāṇy eva padāni gacchati galadbāṣpāndham ālokitam |  
-niryāte dayite’śrupūritadṛśā tan mugdhayānuṣṭhitaṃ  
-vyāsedhasthitipatrakaṃ pravasatāṃ yajjātam ājanmanaḥ ||925||  
+यामीत्य् उक्तवति व्रजेत्य् अभिहितं त्रस्तं विमुक्तासने  
+द्वित्राण्य् एव पदानि गच्छति गलद्बाष्पान्धम् आलोकितम् ।  
+निर्याते दयिते’श्रुपूरितदृशा तन् मुग्धयानुष्ठितं  
+व्यासेधस्थितिपत्रकं प्रवसतां यज्जातम् आजन्मनः ॥९२५॥  
 
 
-kasyacit |  
-91. virahī  
+कस्यचित् ।  
+९१। विरही  
 
 
-prahartā kvānaṅgaḥ sa ca kusumacāpo’lpaviśikhaś  
-calaṃ sūkṣmaṃ lakṣyaṃ vyavahitam amūrtaṃ kva ca manaḥ |  
-itīmām udbhūtāṃ sphuṭam anupapattiṃ manasi me  
-rudām āvirbhāvād anubhavavirodhaḥ śamayati ||926||  
+प्रहर्ता क्वानङ्गः स च कुसुमचापो’ल्पविशिखश्  
+चलं सूक्ष्मं लक्ष्यं व्यवहितम् अमूर्तं क्व च मनः ।  
+इतीमाम् उद्भूतां स्फुटम् अनुपपत्तिं मनसि मे  
+रुदाम् आविर्भावाद् अनुभवविरोधः शमयति ॥९२६॥  
 
 
-mṛgarājasya | (su.ra. 785)  
+मृगराजस्य । (सु।र। ७८५)  
 
 
-tvaṃ tasyāṃ yadi nāma rāgavidhuraṃ jātaṃ vimucyaiva māṃ  
-tat kenāham idaṃ kim apy anubhavāmy antaḥsamutkaṇṭhitaḥ |  
-svasthībhūya nanu kṣaṇaṃ hṛdaya he sadbhāvam ācakṣva māṃ  
-kiṃ santāpavikhaṇḍitasya bhavato vṛttir dvidhā vartate ||927||  
+त्वं तस्यां यदि नाम रागविधुरं जातं विमुच्यैव मां  
+तत् केनाहम् इदं किम् अप्य् अनुभवाम्य् अन्तःसमुत्कण्ठितः ।  
+स्वस्थीभूय ननु क्षणं हृदय हे सद्भावम् आचक्ष्व मां  
+किं सन्तापविखण्डितस्य भवतो वृत्तिर् द्विधा वर्तते ॥९२७॥  
 
 
-avantivarmaṇaḥ | (Sv. 1348)  
+अवन्तिवर्मणः । (स्व्। १३४८)  
 
 
-apy etad rajanīmayaṃ jagad atho nidrāmayī sā niśā   
-nidrā svapnamayī bhaved atha ca sa svapno mṛgākṣīmayaḥ |  
-seyaṃ mānamayī mama priyatamā tac cāṭuceṣṭāmayo   
-mādṛk kveti samīhitaikavidhaye saṃkalpa tubhyaṃ namaḥ ||928||  
+अप्य् एतद् रजनीमयं जगद् अथो निद्रामयी सा निशा   
+निद्रा स्वप्नमयी भवेद् अथ च स स्वप्नो मृगाक्षीमयः ।  
+सेयं मानमयी मम प्रियतमा तच् चाटुचेष्टामयो   
+मादृक् क्वेति समीहितैकविधये संकल्प तुभ्यं नमः ॥९२८॥  
 
 
-gotithīyadivākarasya |  
+गोतिथीयदिवाकरस्य ।  
 
 
-saṅgamavirahavikalpe  
-varam iha viraho na tu saṅgamas tasyāḥ |  
-saṅge saiva tathaikā  
-tribhuvanam api tanmayaṃ virahe ||929||  
+सङ्गमविरहविकल्पे  
+वरम् इह विरहो न तु सङ्गमस् तस्याः ।  
+सङ्गे सैव तथैका  
+त्रिभुवनम् अपि तन्मयं विरहे ॥९२९॥  
 
 
-dharmakīrteḥ | (padyā.. 239, sā.da. under 10.52)  
+धर्मकीर्तेः । (पद्या॥ २३९, सा।द। उन्देर् १०।५२)  
 
 
-vikalparacitākṛtiṃ satatam eva tāṃ vīkṣase  
-sahāsam abhibhāṣase samupagūhase sarvathā |  
-pramodamukulekṣaṇaṃ pibasi caitad asyā mukhaṃ  
-tathāpi ca divāniśaṃ hṛdaya he saumutkaṇṭhase ||930||  
+विकल्परचिताकृतिं सततम् एव तां वीक्षसे  
+सहासम् अभिभाषसे समुपगूहसे सर्वथा ।  
+प्रमोदमुकुलेक्षणं पिबसि चैतद् अस्या मुखं  
+तथापि च दिवानिशं हृदय हे सौमुत्कण्ठसे ॥९३०॥  
 
 
-bharvoḥ | (Sv. 1329)  
+भर्वोः । (स्व्। १३२९)  
 
 
-92. virahipriyāsmaraṇam  
+९२। विरहिप्रियास्मरणम्  
 
 
-lalitalalitasnigdhālāpasmitasnapitādharaṃ  
-daramukulitāpāṅgadroṇītaraṅgitalocanam |  
-idam ita itaḥ paśyann eva priyāmukhapaṅkajaṃ  
-kim api vadanādvaitaṃ sākṣātkaromi mṛgīdṛśaḥ ||931||  
+ललितललितस्निग्धालापस्मितस्नपिताधरं  
+दरमुकुलितापाङ्गद्रोणीतरङ्गितलोचनम् ।  
+इदम् इत इतः पश्यन्न् एव प्रियामुखपङ्कजं  
+किम् अपि वदनाद्वैतं साक्षात्करोमि मृगीदृशः ॥९३१॥  
 
 
-abhimanyoḥ |  
+अभिमन्योः ।  
 
 
-mukhaṃ jyotsnālokaprasaradhavalākṣaṃ kva nu mayā  
-punar draṣṭavyaṃ tatsmitamadhuramugdhālpadaśanam |  
-kva sā śravyā vāṇī vijitakalahaṃsīkalarutā   
-vilāsā vīkṣyantāṃ kva ca sahabhuvo dhīralalitāḥ ||932||  
+मुखं ज्योत्स्नालोकप्रसरधवलाक्षं क्व नु मया  
+पुनर् द्रष्टव्यं तत्स्मितमधुरमुग्धाल्पदशनम् ।  
+क्व सा श्रव्या वाणी विजितकलहंसीकलरुता   
+विलासा वीक्ष्यन्तां क्व च सहभुवो धीरललिताः ॥९३२॥  
 
 
-karṇāṭadevasya |  
+कर्णाटदेवस्य ।  
 
 
-api sa divasaḥ kiṃ syād yatra priyāmukhapaṅkaje   
-madhu madhukarīvāsmaddṛṣṭir vikāsini pāsyati |  
-tad anu ca mṛdusnigdhālāpakramāhitanarmaṇaḥ   
-suratasacivair aṅgaiḥ saṅgo mamāpi bhaviṣyati ||933||  
+अपि स दिवसः किं स्याद् यत्र प्रियामुखपङ्कजे   
+मधु मधुकरीवास्मद्दृष्टिर् विकासिनि पास्यति ।  
+तद् अनु च मृदुस्निग्धालापक्रमाहितनर्मणः   
+सुरतसचिवैर् अङ्गैः सङ्गो ममापि भविष्यति ॥९३३॥  
 
 
-vārtikakārasya | (su.ra. 777)  
+वार्तिककारस्य । (सु।र। ७७७)  
 
 
-bhraśyadvivakṣitam apaskhaladakṣarārtham  
-utkampamānadaśanacchadam ucchvasantyā |  
-adya smarāmi parimṛjya paṭāñcalena   
-netre tayā kim api yat punaruktam uktam ||934||  
+भ्रश्यद्विवक्षितम् अपस्खलदक्षरार्थम्  
+उत्कम्पमानदशनच्छदम् उच्छ्वसन्त्या ।  
+अद्य स्मरामि परिमृज्य पटाञ्चलेन   
+नेत्रे तया किम् अपि यत् पुनरुक्तम् उक्तम् ॥९३४॥  
 
 
-sollokasya | (su.ra. 787)  
+सोल्लोकस्य । (सु।र। ७८७)  
 
 
-skhalallīlālāpaṃ vinipatitakarṇotpaladalaṃ  
-sravatsvedaklinnaṃ surataviratikṣāmanayanam |  
-kacākarṣakrīḍāsaraladhavalaśroṇisubhagaṃ  
-kadā tad draṣṭavyaṃ vadanam avadātaṃ mṛgadṛśaḥ ||935||  
+स्खलल्लीलालापं विनिपतितकर्णोत्पलदलं  
+स्रवत्स्वेदक्लिन्नं सुरतविरतिक्षामनयनम् ।  
+कचाकर्षक्रीडासरलधवलश्रोणिसुभगं  
+कदा तद् द्रष्टव्यं वदनम् अवदातं मृगदृशः ॥९३५॥  
 
 
-kasyacit | (su.ra. 781)  
+कस्यचित् । (सु।र। ७८१)  
 
 
-93. vilokanam  
+९३। विलोकनम्  
 
 
-kramasaralitakaṇṭhaprakramollāsitoras  
-taralitabalirekhāsūtrasarvāṅgam asyāḥ |  
-sthitamaticiram uccair agrapādāṅgulībhiḥ   
-karakalitasakhīkaṃ māṃ didṛkṣoḥ smarāmi ||936||  
+क्रमसरलितकण्ठप्रक्रमोल्लासितोरस्  
+तरलितबलिरेखासूत्रसर्वाङ्गम् अस्याः ।  
+स्थितमतिचिरम् उच्चैर् अग्रपादाङ्गुलीभिः   
+करकलितसखीकं मां दिदृक्षोः स्मरामि ॥९३६॥  
 
 
-kālidāsasya | (vi.śā.bha. 3.3, su.ra. 523)  
+कालिदासस्य । (वि।शा।भ। ३।३, सु।र। ५२३)  
 
 
-tat tasya niḥśvāsakṛtānuyātraiḥ  
-salīlam ākuñcitapakṣmapatraiḥ |  
-netradvirephair vadanāravindam  
-āsvādayantyo lilihus taruṇyaḥ ||937||  
+तत् तस्य निःश्वासकृतानुयात्रैः  
+सलीलम् आकुञ्चितपक्ष्मपत्रैः ।  
+नेत्रद्विरेफैर् वदनारविन्दम्  
+आस्वादयन्त्यो लिलिहुस् तरुण्यः ॥९३७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-bhavanabhuvi sṛjantas tārahārāvatārān   
-diśi diśi vidiśantaḥ ketakānāṃ kuṭumbam |  
-viyati ca racayantaś candrikāṃ mugdhamugdhāṃ  
-pratinayananipātāḥ subhruvo vibhramanti ||938||  
+भवनभुवि सृजन्तस् तारहारावतारान्   
+दिशि दिशि विदिशन्तः केतकानां कुटुम्बम् ।  
+वियति च रचयन्तश् चन्द्रिकां मुग्धमुग्धां  
+प्रतिनयननिपाताः सुभ्रुवो विभ्रमन्ति ॥९३८॥  
 
 
-rājaśekharasya | (vi.śā.bha. 4.17, su.ra. 521)  
+राजशेखरस्य । (वि।शा।भ। ४।१७, सु।र। ५२१)  
 
 
-tarattāraṃ tāvat prathamam atha citrārpitam iva  
-kramād evāpāṅgaṃ sahajam iva līlāmukulitam |  
-tataḥ kiṃcit kṣuṇṇaṃ tad anu ghanabāṣpāmbulaharī  
-parikṣāmaṃ cakṣuḥ patatu mayi tasyā mṛgadṛśaḥ ||939||  
+तरत्तारं तावत् प्रथमम् अथ चित्रार्पितम् इव  
+क्रमाद् एवापाङ्गं सहजम् इव लीलामुकुलितम् ।  
+ततः किंचित् क्षुण्णं तद् अनु घनबाष्पाम्बुलहरी  
+परिक्षामं चक्षुः पततु मयि तस्या मृगदृशः ॥९३९॥  
 
 
-vīryamitrasya | (su.ra. 467, sū.mu. 43.12)  
+वीर्यमित्रस्य । (सु।र। ४६७, सू।मु। ४३।१२)  
 
 
-yadvrīḍābharabhugnam āsyakamalaṃ vinyasya jānūpari  
-prodyatpakṣmanirīkṣitaṃ vijayate saprema vāmabhruvaḥ |  
-hāsyaśrīlavalāñchitā ca yad asāv asyāḥ kapolasthalī  
-lolallocanagocaraṃ vrajati sa svargād apūrvo vidhiḥ ||940||  
+यद्व्रीडाभरभुग्नम् आस्यकमलं विन्यस्य जानूपरि  
+प्रोद्यत्पक्ष्मनिरीक्षितं विजयते सप्रेम वामभ्रुवः ।  
+हास्यश्रीलवलाञ्छिता च यद् असाव् अस्याः कपोलस्थली  
+लोलल्लोचनगोचरं व्रजति स स्वर्गाद् अपूर्वो विधिः ॥९४०॥  
 
 
-pradyumnasya | (su.ra. 470)  
+प्रद्युम्नस्य । (सु।र। ४७०)  
 
 
-94. citram  
+९४। चित्रम्  
 
 
-priyā saṃnihitaiveyaṃ saṃkalpasthāpitā puraḥ |  
-dṛṣṭvā dṛṣṭvā likhāmy enāṃ yadi tat ko’tra vismayaḥ ||941||  
+प्रिया संनिहितैवेयं संकल्पस्थापिता पुरः ।  
+दृष्ट्वा दृष्ट्वा लिखाम्य् एनां यदि तत् को’त्र विस्मयः ॥९४१॥  
 
 
-prabhākaradattasya | (Nn 2.9)  
+प्रभाकरदत्तस्य । (न्न् २।९)  
 
 
-rahasi satatotsaṅganyāsād ajasra # # # #  
-# # # # # # marṣān nityastanārpaṇakelibhiḥ |  
-aniśacaraṇopāntasparśān nirantaracumbanair  
-api khalu tayā # # lekhyaiḥ sa citrapaṭīkṛtaḥ ||942||  
+रहसि सततोत्सङ्गन्यासाद् अजस्र # # # #  
+# # # # # # मर्षान् नित्यस्तनार्पणकेलिभिः ।  
+अनिशचरणोपान्तस्पर्शान् निरन्तरचुम्बनैर्  
+अपि खलु तया # # लेख्यैः स चित्रपटीकृतः ॥९४२॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-masīyaṃ tūlīyaṃ phalakam idam eṣa tvam adhunā  
-jaḍo’si svinno’si skhalasi khalu pāṇe katham iva |  
-amuṣya prāvīṇyaṃ kalayasi na kiṃ hanta manaso  
-vinā yat sāmagrīṃ subhagaśatam agre vilikhati ||943||  
+मसीयं तूलीयं फलकम् इदम् एष त्वम् अधुना  
+जडो’सि स्विन्नो’सि स्खलसि खलु पाणे कथम् इव ।  
+अमुष्य प्रावीण्यं कलयसि न किं हन्त मनसो  
+विना यत् सामग्रीं सुभगशतम् अग्रे विलिखति ॥९४३॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-citraṃ citragato’py eṣa mamāli madanopamaḥ |  
-samunmūlya balāl lajjām utkaṇṭhayati mānasam ||944||  
+चित्रं चित्रगतो’प्य् एष ममालि मदनोपमः ।  
+समुन्मूल्य बलाल् लज्जाम् उत्कण्ठयति मानसम् ॥९४४॥  
 
 
-rudraṭasya | (śṛ.ti. 1.51b)  
+रुद्रटस्य । (शृ।ति। १।५१ब्)  
 
 
-tavālekhye kautūhalataralatanvīviracite  
-ndhāyaikā cakraṃ racayati suparṇāsutam api |  
-atha svidyatpāṇiskhalitam apamṛjyaitad aparā  
-kare pauṣpaṃ cāpaṃ makaram upariṣṭāc ca likhati ||945||  
+तवालेख्ये कौतूहलतरलतन्वीविरचिते  
+न्धायैका चक्रं रचयति सुपर्णासुतम् अपि ।  
+अथ स्विद्यत्पाणिस्खलितम् अपमृज्यैतद् अपरा  
+करे पौष्पं चापं मकरम् उपरिष्टाच् च लिखति ॥९४५॥  
 
 
-kasyacit | (sa.ka.ā. 3.167)  
-95. svapnaḥ  
+कस्यचित् । (स।क।आ। ३।१६७)  
+९५। स्वप्नः  
 
 
-jāne sā gaganaprasūnakalikelikevātyantam evāsatī  
-tatsambhogarasāś ca tatparimalollāsā ivāsattamāḥ |  
-svapnena dviṣatendrajālam iva me sandarśitā kevalaṃ  
-cetas tatparirambhaṇāya tad api sphītaspṛhaṃ tāmyati ||946||  
+जाने सा गगनप्रसूनकलिकेलिकेवात्यन्तम् एवासती  
+तत्सम्भोगरसाश् च तत्परिमलोल्लासा इवासत्तमाः ।  
+स्वप्नेन द्विषतेन्द्रजालम् इव मे सन्दर्शिता केवलं  
+चेतस् तत्परिरम्भणाय तद् अपि स्फीतस्पृहं ताम्यति ॥९४६॥  
 
 
-kasyacit | (su.ra. 763)  
+कस्यचित् । (सु।र। ७६३)  
 
 
-svapnair prāpitāyāḥ pratirajani tava śrīṣu magnaḥ kaṭākṣaḥ  
-śrotre gītāmṛtābdhau tvag api nanu tanūmañjarīsaukumārye |  
-nāsā śvāsādhivāse’dharam adhuni rasajñā cariteṣu cittaṃ  
-tan nas tanvaṅgi kaiścin na karaṇahariṇair vāgurālaṅghitāsi ||947||  
+स्वप्नैर् प्रापितायाः प्रतिरजनि तव श्रीषु मग्नः कटाक्षः  
+श्रोत्रे गीतामृताब्धौ त्वग् अपि ननु तनूमञ्जरीसौकुमार्ये ।  
+नासा श्वासाधिवासे’धरम् अधुनि रसज्ञा चरितेषु चित्तं  
+तन् नस् तन्वङ्गि कैश्चिन् न करणहरिणैर् वागुरालङ्घितासि ॥९४७॥  
 
 
-kavipaṇḍitaśrīharṣasya (Nc 8.107)  
+कविपण्डितश्रीहर्षस्य (न्च् ८।१०७)  
 
 
-svapna prasīda bhagavan punar ekavāraṃ  
-sandarśaya priyatamāṃ kṣaṇamātram eva |  
-dṛṣṭvā satī niviḍabāhunabandhalagnaṃ  
-tatraiva māṃ nayati sā yadi vā na yāti ||948||  
+स्वप्न प्रसीद भगवन् पुनर् एकवारं  
+सन्दर्शय प्रियतमां क्षणमात्रम् एव ।  
+दृष्ट्वा सती निविडबाहुनबन्धलग्नं  
+तत्रैव मां नयति सा यदि वा न याति ॥९४८॥  
 
 
-kālidāsasya | (su.ra. 806)  
+कालिदासस्य । (सु।र। ८०६)  
 
 
-kva peyaṃ jyotsnāmbho vadata visavallīsaraṇibhir  
-mṛṇālītandūbhyaḥ sicayaracanā kutra bhavatu |  
-kva vā pārīmeyo bata bakuladāmnāṃ parimalaḥ   
-kathaṃ svapnaḥ sākṣāt kuvalayadṛśaṃ kalpayatu tām ||949||  
+क्व पेयं ज्योत्स्नाम्भो वदत विसवल्लीसरणिभिर्  
+मृणालीतन्दूभ्यः सिचयरचना कुत्र भवतु ।  
+क्व वा पारीमेयो बत बकुलदाम्नां परिमलः   
+कथं स्वप्नः साक्षात् कुवलयदृशं कल्पयतु ताम् ॥९४९॥  
 
 
-rājaśekharasya | (sa.ka.ā. 2.60, su.ra. 528)  
+राजशेखरस्य । (स।क।आ। २।६०, सु।र। ५२८)  
 
 
-tat tādṛk kucakumbhabhaṅguram uras tac ca trapāmantharaṃ  
-cakṣuḥ premagurur manobhavasamudbhedaḥ sa vāmabhruvaḥ |  
-re svapnaḥ pralabhāpanītadayitādorvallībandhasya kiṃ  
-sarvaṃ nītavato’ham eva bhavato daivād abhūvaṃ guruḥ ||950||  
+तत् तादृक् कुचकुम्भभङ्गुरम् उरस् तच् च त्रपामन्थरं  
+चक्षुः प्रेमगुरुर् मनोभवसमुद्भेदः स वामभ्रुवः ।  
+रे स्वप्नः प्रलभापनीतदयितादोर्वल्लीबन्धस्य किं  
+सर्वं नीतवतो’हम् एव भवतो दैवाद् अभूवं गुरुः ॥९५०॥  
 
 
-ācāryagopīkasya |  
+आचार्यगोपीकस्य ।  
 
 
-96. nāyakābhilāṣaḥ  
+९६। नायकाभिलाषः  
 
 
-śikhariṇi kva nu nāma kiyac ciraṃ  
-kim abhidhānam asāv akarot tapaḥ |  
-taruṇi yena tavādharapāṭalaṃ  
-daśati bimbaphalaṃ śukaśāvakaḥ ||951||  
+शिखरिणि क्व नु नाम कियच् चिरं  
+किम् अभिधानम् असाव् अकरोत् तपः ।  
+तरुणि येन तवाधरपाटलं  
+दशति बिम्बफलं शुकशावकः ॥९५१॥  
 
 
-dharmakīrteḥ | (Sv 2030, sā.da. under 4.9, su.ra. 439)  
+धर्मकीर्तेः । (स्व् २०३०, सा।द। उन्देर् ४।९, सु।र। ४३९)  
 
 
-āryānaṅga mahāvrataṃ vidadhatā vindhyānilaiḥ pāraṇāṃ  
-kṛtvā sāṅgam akāri kena muralākūle kaṭhoraṃ tapaḥ |  
-yenāsyā ratikhedameduramṛduśvāsādhivāsaspṛśaḥ  
-pīyante’dharasīdhavo vihasitajyotsnopadaṃśaṃ rahaḥ ||952||  
+आर्यानङ्ग महाव्रतं विदधता विन्ध्यानिलैः पारणां  
+कृत्वा साङ्गम् अकारि केन मुरलाकूले कठोरं तपः ।  
+येनास्या रतिखेदमेदुरमृदुश्वासाधिवासस्पृशः  
+पीयन्ते’धरसीधवो विहसितज्योत्स्नोपदंशं रहः ॥९५२॥  
 
 
-yogokasya |  
+योगोकस्य ।  
 
 
-dhyāyan kiṃ danujadviṣaṃ kva nu mahātīrthe kva puṇye kṣaṇe  
-kair vā nirmalakarmabhiḥ karipatiḥ prāṇavyayaṃ lambhitaḥ |  
-dyūte yaddaśanāṃśupāśakayugaṃ hārābhirāmollasan  
-nīrandhrastanamaṇḍaladvayam idaṃ mṛdaṅgi mṛdgāti te ||953||  
+ध्यायन् किं दनुजद्विषं क्व नु महातीर्थे क्व पुण्ये क्षणे  
+कैर् वा निर्मलकर्मभिः करिपतिः प्राणव्ययं लम्भितः ।  
+द्यूते यद्दशनांशुपाशकयुगं हाराभिरामोल्लसन्  
+नीरन्ध्रस्तनमण्डलद्वयम् इदं मृदङ्गि मृद्गाति ते ॥९५३॥  
 
 
-ācāryagopīkasya |  
+आचार्यगोपीकस्य ।  
 
 
-adhīrākṣyāḥ pīnastanakalasam āskandasi muhuḥ  
-kramād ūrudvandvaṃ kalayasi ca lāvaṇyalalitam |  
-bhujāśliṣṭo harṣād anubhavasi hastāhṛtikalām  
-aye vīṇādaṇḍa prakaṭaya phalaṃ kasya tapasaḥ ||954||  
+अधीराक्ष्याः पीनस्तनकलसम् आस्कन्दसि मुहुः  
+क्रमाद् ऊरुद्वन्द्वं कलयसि च लावण्यललितम् ।  
+भुजाश्लिष्टो हर्षाद् अनुभवसि हस्ताहृतिकलाम्  
+अये वीणादण्ड प्रकटय फलं कस्य तपसः ॥९५४॥  
 
 
-vācaspateḥ | (su.ra. 422)  
+वाचस्पतेः । (सु।र। ४२२)  
 
 
-na nīlābjaṃ cakṣuḥ sarasiruham etan na vadanaṃ  
-na bandhūkasyedaṃ mukulam adharas taddyutidharaḥ |  
-mamāpy eṣā bhrāntiḥ prathamam abhavad bhṛṅga kim u te  
-kṛtaṃ yatnair ebhyo virama viramety añjalir ayam ||955||  
+न नीलाब्जं चक्षुः सरसिरुहम् एतन् न वदनं  
+न बन्धूकस्येदं मुकुलम् अधरस् तद्द्युतिधरः ।  
+ममाप्य् एषा भ्रान्तिः प्रथमम् अभवद् भृङ्ग किम् उ ते  
+कृतं यत्नैर् एभ्यो विरम विरमेत्य् अञ्जलिर् अयम् ॥९५५॥  
 
 
-rājaśekharasya | (su.ra. 409)  
+राजशेखरस्य । (सु।र। ४०९)  
 
 
-97. nāyikābhilāṣaḥ  
+९७। नायिकाभिलाषः  
 
 
-tiryagvartitagātrayaṣṭiviṣamodvṛttastanāsphālana  
-truṭyanmauktikamālayā sapulakasvedollasadgaṇḍayā |  
-dūrād eva vilokayety abhimate tad vaktradattekṣaṇaṃ  
-durvārasmarayā tayā sahacarī gāḍhaṃ samāliṅgitā ||956||  
+तिर्यग्वर्तितगात्रयष्टिविषमोद्वृत्तस्तनास्फालन  
+त्रुट्यन्मौक्तिकमालया सपुलकस्वेदोल्लसद्गण्डया ।  
+दूराद् एव विलोकयेत्य् अभिमते तद् वक्त्रदत्तेक्षणं  
+दुर्वारस्मरया तया सहचरी गाढं समालिङ्गिता ॥९५६॥  
 
 
-rudraṭasya | (śṛ.ti. 1.56a)  
+रुद्रटस्य । (शृ।ति। १।५६अ)  
 
 
-abhimukhagate yasminn eva priye bahuśo vadaty  
-avanatamukhaṃ tūṣṇīm eva sthitaṃ mṛganetrayā |  
-atha kila valallīlālokaṃ sa eṣa tathekṣitaḥ  
-katham api yathā dṛṣṭā manye kṛtaṃ śrutilaṅghanam ||957||  
+अभिमुखगते यस्मिन्न् एव प्रिये बहुशो वदत्य्  
+अवनतमुखं तूष्णीम् एव स्थितं मृगनेत्रया ।  
+अथ किल वलल्लीलालोकं स एष तथेक्षितः  
+कथम् अपि यथा दृष्टा मन्ये कृतं श्रुतिलङ्घनम् ॥९५७॥  
 
 
-tasyaiva | (śṛ.ti. 1.56a)  
+तस्यैव । (शृ।ति। १।५६अ)  
 
 
-vyājṛmbhaṇonnamitadantamayūkhajāla  
-vyālambimauktikaguṇaṃ ramaṇe mudeva |  
-ūrdhvaṃ miladbhujalatāvalayaprapañca  
-sattoraṇaṃ hṛdi viśaty aparā vyudāse ||958||  
+व्याजृम्भणोन्नमितदन्तमयूखजाल  
+व्यालम्बिमौक्तिकगुणं रमणे मुदेव ।  
+ऊर्ध्वं मिलद्भुजलतावलयप्रपञ्च  
+सत्तोरणं हृदि विशत्य् अपरा व्युदासे ॥९५८॥  
 
 
-tasyaiva | (śṛ.ti. 1.57b)  
+तस्यैव । (शृ।ति। १।५७ब्)  
 
 
-praviśati yathā gehe’kasmād bahiś ca viceṣṭate  
-vadati ca yathā sakhyā sārdhaṃ sahāsam ihotsukā !  
-dayitavadanāloke mandaṃ yathā ca calaty asau  
-mṛgadṛśi tathaitasyāṃ manye smareṇa kṛtaṃ padam ||959||  
+प्रविशति यथा गेहे’कस्माद् बहिश् च विचेष्टते  
+वदति च यथा सख्या सार्धं सहासम् इहोत्सुका !  
+दयितवदनालोके मन्दं यथा च चलत्य् असौ  
+मृगदृशि तथैतस्यां मन्ये स्मरेण कृतं पदम् ॥९५९॥  
 
 
-tasyaiva | (śṛ.ti. 2.7a)  
+तस्यैव । (शृ।ति। २।७अ)  
 
 
-na jāne saṃmukhāyāte priyāṇi vadati priye |  
-sarvāṇy aṅgāni me yānti śrotratāṃ kim u netratām ||960||  
+न जाने संमुखायाते प्रियाणि वदति प्रिये ।  
+सर्वाण्य् अङ्गानि मे यान्ति श्रोत्रतां किम् उ नेत्रताम् ॥९६०॥  
 
 
-amaroḥ (amaru 63, padyā.. 234, Sv. 2038, śā.pa.. 3522)  
+अमरोः (अमरु ६३, पद्या॥ २३४, स्व्। २०३८, शा।प॥ ३५२२)  
 
 
-98. tanutā  
+९८। तनुता  
 
 
-vigalantīṃ dadhe yāvaddoṣṇā jaghanamekhalām |  
-tāvat kalāpavalayaṃ viveda galitaṃ na sā ||961||  
+विगलन्तीं दधे यावद्दोष्णा जघनमेखलाम् ।  
+तावत् कलापवलयं विवेद गलितं न सा ॥९६१॥  
 
 
-rudraṭasya |  
+रुद्रटस्य ।  
 
 
-smareṇa saṃtakṣya vṛthaiva bāṇair  
-lāvaṇyaśeṣāṃ kṛatām anāyai |  
-anaṅgatām apy ayam āpyamānaḥ   
-spardhāṃ na sārdhaṃ vijahāsi tena ||962||  
+स्मरेण संतक्ष्य वृथैव बाणैर्  
+लावण्यशेषां कृअताम् अनायै ।  
+अनङ्गताम् अप्य् अयम् आप्यमानः   
+स्पर्धां न सार्धं विजहासि तेन ॥९६२॥  
 
 
-kavipaṇḍitaśrīharṣasya | (Nc 3.109)  
+कविपण्डितश्रीहर्षस्य । (न्च् ३।१०९)  
 
 
-sarvātmanā praharatāpi manobhavena   
-saṃdarśitaṃ paramakautukam āyatākṣyāḥ |  
-lāvaṇyavibhramavilāsaviceṣṭitāni  
-no khaṇḍitāni gamitā ca tanus tanutvam ||963||  
+सर्वात्मना प्रहरतापि मनोभवेन   
+संदर्शितं परमकौतुकम् आयताक्ष्याः ।  
+लावण्यविभ्रमविलासविचेष्टितानि  
+नो खण्डितानि गमिता च तनुस् तनुत्वम् ॥९६३॥  
 
 
-bhāsokasya | (Sv 1088)  
+भासोकस्य । (स्व् १०८८)  
 
 
-ekāṃ kṛtvā tanum anupamāṃ candracūḍena sārdhaṃ   
-yas tyakto’rdhaḥ satatavirahakleśabhāgī bhavānyā |  
-tenāṅgānāṃ racitam ucitaṃ saṃvibhaktena kartuṃ   
-nūnaṃ dūnāṃ tanutanulatāṃ nirmame tāṃ viriñciḥ ||964||  
+एकां कृत्वा तनुम् अनुपमां चन्द्रचूडेन सार्धं   
+यस् त्यक्तो’र्धः सततविरहक्लेशभागी भवान्या ।  
+तेनाङ्गानां रचितम् उचितं संविभक्तेन कर्तुं   
+नूनं दूनां तनुतनुलतां निर्ममे तां विरिञ्चिः ॥९६४॥  
 
 
-ācāryagopīkasya |  
+आचार्यगोपीकस्य ।  
 
 
-apanidramadhūkapāṇḍurā   
-sudṛśo’dṛśyata gaṇḍamaṇḍalī |  
-gamitāśrujalaplavair iva   
-kraśimākīrṇatayāpi nimnatām ||965||  
+अपनिद्रमधूकपाण्डुरा   
+सुदृशो’दृश्यत गण्डमण्डली ।  
+गमिताश्रुजलप्लवैर् इव   
+क्रशिमाकीर्णतयापि निम्नताम् ॥९६५॥  
 
 
-śilhaṇasya |   
+शिल्हणस्य ।   
 
 
-99. guṇakīrtanam   
+९९। गुणकीर्तनम्   
 
 
-tadvaktraṃ yadi mudritā śaśikathā hā hema sā ced dyutis  
-tac cakṣur yadi hāritaṃ kuvalayais tac cet smitaṃ kā sudhā |  
-dhik kandarpadhanurbhruvau ca yadi te kiṃ vā bahu brūmahe  
-yat satyaṃ punaruktavastuvimukhaḥ sargakramo vedhasaḥ ||966||  
+तद्वक्त्रं यदि मुद्रिता शशिकथा हा हेम सा चेद् द्युतिस्  
+तच् चक्षुर् यदि हारितं कुवलयैस् तच् चेत् स्मितं का सुधा ।  
+धिक् कन्दर्पधनुर्भ्रुवौ च यदि ते किं वा बहु ब्रूमहे  
+यत् सत्यं पुनरुक्तवस्तुविमुखः सर्गक्रमो वेधसः ॥९६६॥  
 
 
-rājaśekharasya | (bā.rā. 2.17, sa.ka.ā. 4.72, vi.śā.bha. 1.14, sā.da. under 10.113, su.ra. 457, śā.pa. 3373)  
+राजशेखरस्य । (बा।रा। २।१७, स।क।आ। ४।७२, वि।शा।भ। १।१४, सा।द। उन्देर् १०।११३, सु।र। ४५७, शा।प। ३३७३)  
 
 
-dṛṣṭaṃ cen mukham unmukhena śaśinā dhūmāyite cakṣuṣī  
-spṛṣṭā ced idamīyakāntikuliśaiḥ kliśyanti hanta tvacaḥ |  
-jātā smo bata vīṇayāpi vadhirās tasyāḥ śrutaṃ ced vacaḥ   
-pītaś ced adharas tad idttham abhajad drākṣārasaḥ kṣāratām ||967||  
+दृष्टं चेन् मुखम् उन्मुखेन शशिना धूमायिते चक्षुषी  
+स्पृष्टा चेद् इदमीयकान्तिकुलिशैः क्लिश्यन्ति हन्त त्वचः ।  
+जाता स्मो बत वीणयापि वधिरास् तस्याः श्रुतं चेद् वचः   
+पीतश् चेद् अधरस् तद् इद्त्थम् अभजद् द्राक्षारसः क्षारताम् ॥९६७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-nirmāṇanaipuṇavidher avadhividhātur  
-uddāmadhāma makaradhvajarājadhānī |  
-sā candrabimbavadanā taralāyatākṣī  
-sākṣād iyaṃ kim api janmaparigrahasya ||968||  
+निर्माणनैपुणविधेर् अवधिविधातुर्  
+उद्दामधाम मकरध्वजराजधानी ।  
+सा चन्द्रबिम्बवदना तरलायताक्षी  
+साक्षाद् इयं किम् अपि जन्मपरिग्रहस्य ॥९६८॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-sā yair dṛṣṭā na vā dṛṣṭā muṣitāḥ samam eva te |  
-hṛtaṃ hṛdayam ekeṣām anyeṣāṃ cakṣuṣaḥ phalam ||969||  
+सा यैर् दृष्टा न वा दृष्टा मुषिताः समम् एव ते ।  
+हृतं हृदयम् एकेषाम् अन्येषां चक्षुषः फलम् ॥९६९॥  
 
 
-kasyacit | (su.ra. 500)  
+कस्यचित् । (सु।र। ५००)  
 
 
-ābharaṇasyābharaṇaṃ prasādhanavidheḥ prasādhanaviśeṣaḥ |  
-upamānasyāpi sakhe pratyupamānaṃ vapus tasyāḥ ||970||  
+आभरणस्याभरणं प्रसाधनविधेः प्रसाधनविशेषः ।  
+उपमानस्यापि सखे प्रत्युपमानं वपुस् तस्याः ॥९७०॥  
 
 
-kālidāsasya | (Vik 2.3)  
+कालिदासस्य । (विक् २।३)  
 
 
-100. udvegaḥ  
+१००। उद्वेगः  
 
 
-duḥkhāni tiṣṭhata ciraṃ mama cittabhūmau  
-yuṣmākam eva vasatir vidhinā kṛteyam |  
-yaddaivadurvilasitakrakacaprahāraiś   
-chinno’pi na truṭati jīvanatattvabandhaḥ ||971||  
+दुःखानि तिष्ठत चिरं मम चित्तभूमौ  
+युष्माकम् एव वसतिर् विधिना कृतेयम् ।  
+यद्दैवदुर्विलसितक्रकचप्रहारैश्   
+छिन्नो’पि न त्रुटति जीवनतत्त्वबन्धः ॥९७१॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-agnyākāraṃ kalayasi puraś cakravākīva candraṃ  
-baddhotkampaṃ śiśiramarutā dahyase padminīva |  
-prāṇān dhatse katham api balād gacchataḥ śalyatulyāṃs  
-tat kenāsau sutanu jantio mānmathas te vikāraḥ ||972||  
+अग्न्याकारं कलयसि पुरश् चक्रवाकीव चन्द्रं  
+बद्धोत्कम्पं शिशिरमरुता दह्यसे पद्मिनीव ।  
+प्राणान् धत्से कथम् अपि बलाद् गच्छतः शल्यतुल्यांस्  
+तत् केनासौ सुतनु जन्तिओ मान्मथस् ते विकारः ॥९७२॥  
 
 
-rudraṭasya | (śṛ.ti. 2.11a)  
+रुद्रटस्य । (शृ।ति। २।११अ)  
 
 
-ete cūtamahīruho’py aviralair dhūmāyitāḥ ṣaṭpadair   
-ete prajvalitāḥ sphuṭatkisalayodbhedair aśokadrumāḥ |  
-ete kiṃśukaśākhino’pi malinair aṅgāritāḥ kuḍmalaiḥ   
-kaṣṭaṃ viśramayāmi kutra nayane sarvatra vāmo vidhiḥ ||973||  
+एते चूतमहीरुहो’प्य् अविरलैर् धूमायिताः षट्पदैर्   
+एते प्रज्वलिताः स्फुटत्किसलयोद्भेदैर् अशोकद्रुमाः ।  
+एते किंशुकशाखिनो’पि मलिनैर् अङ्गारिताः कुड्मलैः   
+कष्टं विश्रमयामि कुत्र नयने सर्वत्र वामो विधिः ॥९७३॥  
 
 
-vākkūṭasya | (su.ra. 759)  
+वाक्कूटस्य । (सु।र। ७५९)  
 
 
-kāntāmukhaṃ suratakelivimardakheda   
-saṃjātagharmakaṇavicchuritaṃ ratānte |  
-āpāṇḍuraṃ taralatāranimīlitākṣaṃ   
-saṃsmṛtya he hṛdaya kiṃ śatadhā na yāsi ||974||  
+कान्तामुखं सुरतकेलिविमर्दखेद   
+संजातघर्मकणविच्छुरितं रतान्ते ।  
+आपाण्डुरं तरलतारनिमीलिताक्षं   
+संस्मृत्य हे हृदय किं शतधा न यासि ॥९७४॥  
 
 
-kasyacit | (Sv 1289, śā.pa. 3466)  
+कस्यचित् । (स्व् १२८९, शा।प। ३४६६)  
 
 
-candrodañca ciraṃ manobhavacamūcihnāṃśukair aṃśubhir  
-mandaṃ candanaśailasaurabhabharaiś caitrānilāḥ sarpata |  
-ujjṛmbhasva madho madhuvratavadhūvācālavallīśataiś  
-cāpaṃ maṇḍalayann ayaṃ virahiṇāṃ prāṇaiḥ smaraḥ krīḍatu ||975||  
+चन्द्रोदञ्च चिरं मनोभवचमूचिह्नांशुकैर् अंशुभिर्  
+मन्दं चन्दनशैलसौरभभरैश् चैत्रानिलाः सर्पत ।  
+उज्जृम्भस्व मधो मधुव्रतवधूवाचालवल्लीशतैश्  
+चापं मण्डलयन्न् अयं विरहिणां प्राणैः स्मरः क्रीडतु ॥९७५॥  
 
 
-śāntyākarasya |  
+शान्त्याकरस्य ।  
 
 
-101. vilāpaḥ |  
+१०१। विलापः ।  
 
 
-yat tvannetrasamānakānti salile magnaṃ tad indīvaraṃ   
-meghair antaritaḥ priye tava mukhacchāyābhirāmaḥ śaśī |  
-ye ca tvadgamanānukārigatayas te rājahaṃsā gatās  
-tvatsādṛśyavinodamātram api me daivena na kṣamyate ||976||  
+यत् त्वन्नेत्रसमानकान्ति सलिले मग्नं तद् इन्दीवरं   
+मेघैर् अन्तरितः प्रिये तव मुखच्छायाभिरामः शशी ।  
+ये च त्वद्गमनानुकारिगतयस् ते राजहंसा गतास्  
+त्वत्सादृश्यविनोदमात्रम् अपि मे दैवेन न क्षम्यते ॥९७६॥  
 
 
-kālidāsasya | (Mn 5.2, Kuval, p.12; sa.ka.ā. 4.21, 5.486; Sv 1366, sā.da. under 10.81)  
+कालिदासस्य । (म्न् ५।२, कुवल्, प्।१२; स।क।आ। ४।२१, ५।४८६; स्व् १३६६, सा।द। उन्देर् १०।८१)  
 
 
-dagdhā snigdhavadhūvilāsakadalī vīṇā samunmūlitā  
-pītā pañcamakākalīkavalitā śītadyūteḥ kaumudī |  
-pluṣṭāḥ spaṣṭmanekaratnanivahā nālaṃ rateḥ kevalaṃ  
-kandarpaṃ haratā hareṇa bhuvanaṃ niḥsāram etat kṛtam ||977||  
+दग्धा स्निग्धवधूविलासकदली वीणा समुन्मूलिता  
+पीता पञ्चमकाकलीकवलिता शीतद्यूतेः कौमुदी ।  
+प्लुष्टाः स्पष्ट्मनेकरत्ननिवहा नालं रतेः केवलं  
+कन्दर्पं हरता हरेण भुवनं निःसारम् एतत् कृतम् ॥९७७॥  
 
 
-rudraṭasya | (śṛ.ti. 2.60a)  
+रुद्रटस्य । (शृ।ति। २।६०अ)  
 
 
-snigdhaśyāmalakāntiliptaniyato velladbalākā ghanā  
-vātāḥ śīkariṇaḥ payodasuhṛdām ānandakekāḥ kalāḥ |  
-kāmaṃ santu dṛḍhaṃ kaṭhorahṛdayo rāmo’smi sarvaṃsahe  
-vaidehī tu kathaṃ bhaviṣyati hahā hā devi dhīrā bhava ||978||  
+स्निग्धश्यामलकान्तिलिप्तनियतो वेल्लद्बलाका घना  
+वाताः शीकरिणः पयोदसुहृदाम् आनन्दकेकाः कलाः ।  
+कामं सन्तु दृढं कठोरहृदयो रामो’स्मि सर्वंसहे  
+वैदेही तु कथं भविष्यति हहा हा देवि धीरा भव ॥९७८॥  
 
 
-kasyacit | (sā.da. under 2.16)  
+कस्यचित् । (सा।द। उन्देर् २।१६)  
 
 
-ehy ehi kva gatāsi maithili mṛgaḥ prāpto mayā kāñcanīm  
-etasya tvacam uccarāmi kucayor vinyasya varṇāṃśukam |  
-matsaubhāgyabubhutsayāpi vipineṣv ekākinī mā sma bhūr   
-vidviṣṭā mayi saṃcaranti sarale māyāvino rākṣasāḥ ||979||  
+एह्य् एहि क्व गतासि मैथिलि मृगः प्राप्तो मया काञ्चनीम्  
+एतस्य त्वचम् उच्चरामि कुचयोर् विन्यस्य वर्णांशुकम् ।  
+मत्सौभाग्यबुभुत्सयापि विपिनेष्व् एकाकिनी मा स्म भूर्   
+विद्विष्टा मयि संचरन्ति सरले मायाविनो राक्षसाः ॥९७९॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-kiṃ khidyase bhuja mudhādhara tāmyasi tvaṃ  
-cakṣur vimuñca śucam asti hṛdi priyeyam |  
-āśleṣacumbanavilokanakelayo’pi  
-setsyanti vaḥ sphuṭati me hṛdayaṃ muhūrtam ||980||  
+किं खिद्यसे भुज मुधाधर ताम्यसि त्वं  
+चक्षुर् विमुञ्च शुचम् अस्ति हृदि प्रियेयम् ।  
+आश्लेषचुम्बनविलोकनकेलयो’पि  
+सेत्स्यन्ति वः स्फुटति मे हृदयं मुहूर्तम् ॥९८०॥  
 
 
-śāntyākaraguptasya |  
-102. candropālambhaḥ  
+शान्त्याकरगुप्तस्य ।  
+१०२। चन्द्रोपालम्भः  
 
 
-yas tāpaḥ śamito mṛgāṅka jagatāṃ yā mlānir unmūlitā  
-yāminyā gaganasya yāḥ smṛtipathaṃ nītās tamovīcayaḥ |  
-yat kṣāmatvam apākṛtaṃ jalanidher yaḥ kairavāṇāṃ hṛto  
-mohas tat katham atra duḥkhini jane sarvaṃ samāveśitam ||981||  
+यस् तापः शमितो मृगाङ्क जगतां या म्लानिर् उन्मूलिता  
+यामिन्या गगनस्य याः स्मृतिपथं नीतास् तमोवीचयः ।  
+यत् क्षामत्वम् अपाकृतं जलनिधेर् यः कैरवाणां हृतो  
+मोहस् तत् कथम् अत्र दुःखिनि जने सर्वं समावेशितम् ॥९८१॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-priyavirahaamahuṣṇyān murmurāmaṅgalekhā  
-mayi hatakahimāṃśo mā spṛśa krīḍayāpi |  
-iha hi tava luṭhantaḥ ploṣabhāvaṃ bhajante  
-darajaraṭhamṛṇālīkāṇḍamugdhā mayūkhāḥ ||982||  
+प्रियविरहअमहुष्ण्यान् मुर्मुरामङ्गलेखा  
+मयि हतकहिमांशो मा स्पृश क्रीडयापि ।  
+इह हि तव लुठन्तः प्लोषभावं भजन्ते  
+दरजरठमृणालीकाण्डमुग्धा मयूखाः ॥९८२॥  
 
 
-rājaśekharasya | (vi.śā.bha. 3.23, su.ra. 714)  
+राजशेखरस्य । (वि।शा।भ। ३।२३, सु।र। ७१४)  
 
 
-sūtir dugdhasamudrato bhagavataḥ śrīkaustubhau sodarau  
-sauhārdaṃ kumudākareṣu kiraṇāḥ pīyūṣadhārākiraḥ |  
-spardhā te vadanāmbujair mṛgadṛśāṃ tatsthāṇucūḍāmaṇe  
-haṃho candra kathaṃ nu muñcasi mayi jvālāmuco vedanāḥ ||983||  
+सूतिर् दुग्धसमुद्रतो भगवतः श्रीकौस्तुभौ सोदरौ  
+सौहार्दं कुमुदाकरेषु किरणाः पीयूषधाराकिरः ।  
+स्पर्धा ते वदनाम्बुजैर् मृगदृशां तत्स्थाणुचूडामणे  
+हंहो चन्द्र कथं नु मुञ्चसि मयि ज्वालामुचो वेदनाः ॥९८३॥  
 
 
-kasyacit | (vi.śā.bha. 3.13, su.ra. 799)  
+कस्यचित् । (वि।शा।भ। ३।१३, सु।र। ७९९)  
 
 
-mukharaya svayaśo navaḍiṇḍimaṃ  
-jalanidheḥ kulam ujjvalayādhunā |  
-api gṛhāṇa vadhūvadhapauruṣaṃ  
-hariṇalāñchana muñca kadarthanām ||984||  
+मुखरय स्वयशो नवडिण्डिमं  
+जलनिधेः कुलम् उज्ज्वलयाधुना ।  
+अपि गृहाण वधूवधपौरुषं  
+हरिणलाञ्छन मुञ्च कदर्थनाम् ॥९८४॥  
 
 
-kavipaṇḍitaśrīharṣasya | (Nc 4.53)  
+कविपण्डितश्रीहर्षस्य । (न्च् ४।५३)  
 
 
-āśvāsayati kāko’pi   
-duḥkhitāṃ pathikāṅganām |  
-tvaṃ candrāmṛtajanmāpi  
-dahasīti kim ucyatām ||985||  
+आश्वासयति काको’पि   
+दुःखितां पथिकाङ्गनाम् ।  
+त्वं चन्द्रामृतजन्मापि  
+दहसीति किम् उच्यताम् ॥९८५॥  
 
 
-kāśmīrakamahāmanuṣyasya | (Sv 1956)  
+काश्मीरकमहामनुष्यस्य । (स्व् १९५६)  
 
 
-103. madanopālambhaḥ |  
+१०३। मदनोपालम्भः ।  
 
 
-nāthānaṅga nideśavartini jane kas te’bhyasūyārasaś  
-cāpāropitasāyakasya bhavataḥ ko nāma pātraṃ ruṣaḥ |  
-viśrāmyantu śarā niṣīdatu dhanuḥ śiñjāpi saṃyamyatāṃ  
-mākandāṅkurakomale manasi naḥ ko bāṇamokṣagrahaḥ ||986||  
+नाथानङ्ग निदेशवर्तिनि जने कस् ते’भ्यसूयारसश्  
+चापारोपितसायकस्य भवतः को नाम पात्रं रुषः ।  
+विश्राम्यन्तु शरा निषीदतु धनुः शिञ्जापि संयम्यतां  
+माकन्दाङ्कुरकोमले मनसि नः को बाणमोक्षग्रहः ॥९८६॥  
 
 
-govardhanasya |  
+गोवर्धनस्य ।  
 
 
-devena prathamaṃ jito’si śaśabhṛllekhabhṛtānantaraṃ  
-buddhenoddhatabuddhinā smara tataḥ kāntena pānthena me |  
-tvyaktvā tān bata haṃsi mām api kṛśāṃ bālām anāthāṃ striyaṃ  
-dhik tvā dhik tava pauruṣaṃ dhig udayaṃ dhik kārmukaṃ dhik śarān ||987||  
+देवेन प्रथमं जितो’सि शशभृल्लेखभृतानन्तरं  
+बुद्धेनोद्धतबुद्धिना स्मर ततः कान्तेन पान्थेन मे ।  
+त्व्यक्त्वा तान् बत हंसि माम् अपि कृशां बालाम् अनाथां स्त्रियं  
+धिक् त्वा धिक् तव पौरुषं धिग् उदयं धिक् कार्मुकं धिक् शरान् ॥९८७॥  
 
 
-vidyāyāḥ | (su.ra. 701)  
+विद्यायाः । (सु।र। ७०१)  
 
 
-āpuṅkhāgram amī śarā manasi me magnāḥ samaṃ pañca te  
-nirdagdhaṃ virahāgninā vapur idaṃ tair eva sārdhaṃ mama |  
-kaṣṭaṃ kāma nirāyudho’si bhavatā jetuṃ na śakyo jano  
-duḥkhī syām aham eka eva sakalo lokaḥ sukhaṃ jīvatu ||988||  
+आपुङ्खाग्रम् अमी शरा मनसि मे मग्नाः समं पञ्च ते  
+निर्दग्धं विरहाग्निना वपुर् इदं तैर् एव सार्धं मम ।  
+कष्टं काम निरायुधो’सि भवता जेतुं न शक्यो जनो  
+दुःखी स्याम् अहम् एक एव सकलो लोकः सुखं जीवतु ॥९८८॥  
 
 
-rājaśekharasya | (su.ra. 771)  
+राजशेखरस्य । (सु।र। ७७१)  
 
 
-harasi hṛdayaṃ vegād antaḥ praviśya śarīriṇām  
-atha janayasi krīḍāhetor vikāraparamparām |  
-vitarasi muhur mohaṃ paścān nikṛntasi jīvitaṃ  
-kitava kim iyaṃ ceṣṭā loke tavārthajanocitā ||989||  
+हरसि हृदयं वेगाद् अन्तः प्रविश्य शरीरिणाम्  
+अथ जनयसि क्रीडाहेतोर् विकारपरम्पराम् ।  
+वितरसि मुहुर् मोहं पश्चान् निकृन्तसि जीवितं  
+कितव किम् इयं चेष्टा लोके तवार्थजनोचिता ॥९८९॥  
 
 
-gośaraṇasya |  
+गोशरणस्य ।  
 
 
-kaṣṭaṃ hṛdi jvalati śokamayo mamāgnis   
-te cakṣuṣī ca virahajvarajāgaruke |  
-etan mano bhramati viṣvagasūṃs tathāpi   
-tvaṃ paśyatohara iva smara hartukāmaḥ ||990||  
+कष्टं हृदि ज्वलति शोकमयो ममाग्निस्   
+ते चक्षुषी च विरहज्वरजागरुके ।  
+एतन् मनो भ्रमति विष्वगसूंस् तथापि   
+त्वं पश्यतोहर इव स्मर हर्तुकामः ॥९९०॥  
 
 
-kasyacit |  
-104. meghopālambhaḥ  
+कस्यचित् ।  
+१०४। मेघोपालम्भः  
 
 
-pāthovāha kim ambubhiḥ priyatamānetrāmbusiktā mahī  
-kiṃ garjaiḥ sutanor amandaruditair ujjāgarā bhūr api |  
-vātaiḥ śīkaribhiḥ kim induvadanāśvāsaiḥ sabāṣpair alaṃ  
-sarvaṃ te punaruktam etad apunaḥpūrvā punar madvyathā ||991||  
+पाथोवाह किम् अम्बुभिः प्रियतमानेत्राम्बुसिक्ता मही  
+किं गर्जैः सुतनोर् अमन्दरुदितैर् उज्जागरा भूर् अपि ।  
+वातैः शीकरिभिः किम् इन्दुवदनाश्वासैः सबाष्पैर् अलं  
+सर्वं ते पुनरुक्तम् एतद् अपुनःपूर्वा पुनर् मद्व्यथा ॥९९१॥  
 
 
-devabodhasya |   
+देवबोधस्य ।   
 
 
-no ruddhaṃ gaganaṃ payodapaṭalai ruddhapriyāvāñchitaṃ  
-no śīrṇāḥ kamalākarāḥ kṛśatanoḥ śīrṇā manovṛttayaḥ |  
-no pūraḥ saritām apūri dayitānetrāmbukallolinī  
-dhig dhiṅ mārakadarthitāṃ vyathayatā pāthobhṛtā kiṃ kṛtam ||992||  
+नो रुद्धं गगनं पयोदपटलै रुद्धप्रियावाञ्छितं  
+नो शीर्णाः कमलाकराः कृशतनोः शीर्णा मनोवृत्तयः ।  
+नो पूरः सरिताम् अपूरि दयितानेत्राम्बुकल्लोलिनी  
+धिग् धिङ् मारकदर्थितां व्यथयता पाथोभृता किं कृतम् ॥९९२॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-ākrandāḥ stanitair vilocanajalānyaśrāntadhārāmbudhis  
-tadvicchedabhuvaś ca śokaśikhinas tulyās taḍidvibhramaiḥ |  
-antar me dayitāmukhaṃ tava śaśī vṛttiḥ samaivāvayos  
-tat kiṃ mām aniśaṃ sakhe jaladhara tvaṃ dagdhum evodyataḥ ||993||  
+आक्रन्दाः स्तनितैर् विलोचनजलान्यश्रान्तधाराम्बुधिस्  
+तद्विच्छेदभुवश् च शोकशिखिनस् तुल्यास् तडिद्विभ्रमैः ।  
+अन्तर् मे दयितामुखं तव शशी वृत्तिः समैवावयोस्  
+तत् किं माम् अनिशं सखे जलधर त्वं दग्धुम् एवोद्यतः ॥९९३॥  
 
 
-yaśodharmaṇaḥ | (su.ra. 240, sū.mu. 43.33)  
+यशोधर्मणः । (सु।र। २४०, सू।मु। ४३।३३)  
 
 
-haṃsānāṃ gatayo hṛtā yadi tayā kūjantv amī sotsukās  
-tatkeśair hṛtabarhakāntaya ime nṛtyantu vā barhiṇaḥ |  
-lāvaṇyaṃ hṛtam asya dagdhaśaśinas tāpaṃ karotv eṣa me  
-yūyaṃ garjatha yan nirāgasi mayīty etan na yuktaṃ ghanāḥ ||994||  
+हंसानां गतयो हृता यदि तया कूजन्त्व् अमी सोत्सुकास्  
+तत्केशैर् हृतबर्हकान्तय इमे नृत्यन्तु वा बर्हिणः ।  
+लावण्यं हृतम् अस्य दग्धशशिनस् तापं करोत्व् एष मे  
+यूयं गर्जथ यन् निरागसि मयीत्य् एतन् न युक्तं घनाः ॥९९४॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-dagdhā pūrvam ahaṃ vasantasamaye cūtāṅkuraiḥ kokilaiḥ  
-prāyaḥ prāvṛṣi garjitaiḥ kim aparaṃ kartavyam adya tvayā |  
-dīnā kāntaviyogaduḥkhavidhurā kṣāmā tanur vartate   
-kṣāraṃ prakṣipasi kṣate jaladhara prāṇāvaśeṣasthiteḥ ||995||  
+दग्धा पूर्वम् अहं वसन्तसमये चूताङ्कुरैः कोकिलैः  
+प्रायः प्रावृषि गर्जितैः किम् अपरं कर्तव्यम् अद्य त्वया ।  
+दीना कान्तवियोगदुःखविधुरा क्षामा तनुर् वर्तते   
+क्षारं प्रक्षिपसि क्षते जलधर प्राणावशेषस्थितेः ॥९९५॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-105. unmādaḥ  
+१०५। उन्मादः  
 
 
-apy āmīlitapaṅkajāṃ kamalinīm apy ullasatpallavāṃ   
-vāsantīm api saudhabhittipatitām ātmapraticchāyikām |  
-manvānaḥ prathamaṃ priyeti pulakasvedaprakampākulaṃ   
-prītyāliṅgati nāsti seti na punaḥ khedottaraṃ mūrcchati ||996||  
+अप्य् आमीलितपङ्कजां कमलिनीम् अप्य् उल्लसत्पल्लवां   
+वासन्तीम् अपि सौधभित्तिपतिताम् आत्मप्रतिच्छायिकाम् ।  
+मन्वानः प्रथमं प्रियेति पुलकस्वेदप्रकम्पाकुलं   
+प्रीत्यालिङ्गति नास्ति सेति न पुनः खेदोत्तरं मूर्च्छति ॥९९६॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-niyamitam api mānasaṃ tapobhiḥ   
-praviśati vaiśasavāridhāvagādhe |  
-ayam api ciravismṛto’pi dhairyaṃ  
-vyapanayatīva punar manovikāraḥ ||997||  
+नियमितम् अपि मानसं तपोभिः   
+प्रविशति वैशसवारिधावगाधे ।  
+अयम् अपि चिरविस्मृतो’पि धैर्यं  
+व्यपनयतीव पुनर् मनोविकारः ॥९९७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-vyādhūtaṃ pavanena pallavam idaṃ tasyāḥ krudhā nādharaḥ  
-sraṃsante kusumāny amūni na punar bāṣpāmbhasāṃ bindavaḥ |  
-eṣāṃ jhāṅkṛtir ākulā madhulihām ārto na manyudhvanir  
-dhik kaṣṭaṃ drumasaṅgatā mṛdur iyaṃ vallī na me vallabhā ||998||  
+व्याधूतं पवनेन पल्लवम् इदं तस्याः क्रुधा नाधरः  
+स्रंसन्ते कुसुमान्य् अमूनि न पुनर् बाष्पाम्भसां बिन्दवः ।  
+एषां झाङ्कृतिर् आकुला मधुलिहाम् आर्तो न मन्युध्वनिर्  
+धिक् कष्टं द्रुमसङ्गता मृदुर् इयं वल्ली न मे वल्लभा ॥९९८॥  
 
 
-śrīlakṣmaṇasenadevasya |  
+श्रीलक्ष्मणसेनदेवस्य ।  
 
 
-kvākṛtyaṃ śaśalakṣmaṇaḥ kva ca kulaṃ bhūyo’pi dṛśyeta sā  
-doṣāṇām upaśāntaye śrutam aho kope’pi kāntaṃ mukham |  
-kiṃ vakṣyanty apakalmaṣāḥ kṛtadhiyaḥ svapne’pi sā durlabhā  
-cetaḥ svāsthyam upaihi kaḥ khalu yuvā dhanyodharaṃ pāsyati ||999||  
+क्वाकृत्यं शशलक्ष्मणः क्व च कुलं भूयो’पि दृश्येत सा  
+दोषाणाम् उपशान्तये श्रुतम् अहो कोपे’पि कान्तं मुखम् ।  
+किं वक्ष्यन्त्य् अपकल्मषाः कृतधियः स्वप्ने’पि सा दुर्लभा  
+चेतः स्वास्थ्यम् उपैहि कः खलु युवा धन्योधरं पास्यति ॥९९९॥  
 
 
-kasyacit | (sa.ka.ā. 1.177, Sv 1343, sā.da. under 3.240, sū.mu. 43.30)  
+कस्यचित् । (स।क।आ। १।१७७, स्व् १३४३, सा।द। उन्देर् ३।२४०, सू।मु। ४३।३०)  
 
 
-amī kārāgāre niviḍanalinīnālanigaḍair  
-nibadhyantāṃ haṃsāḥ prathamavisakandāṅkurabhidaḥ |  
-nave vāsantīnām udayini vane garbhakalikā  
-cchido nirdhāryantāṃ parabhṛtayuvāno madakalāḥ ||1000||  
+अमी कारागारे निविडनलिनीनालनिगडैर्  
+निबध्यन्तां हंसाः प्रथमविसकन्दाङ्कुरभिदः ।  
+नवे वासन्तीनाम् उदयिनि वने गर्भकलिका  
+च्छिदो निर्धार्यन्तां परभृतयुवानो मदकलाः ॥१०००॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-106. anaṅgalekhaḥ  
+१०६। अनङ्गलेखः  
 
 
-tāḍīdalaṃ yad akaṭhoram idaṃ yad eṣā  
-mudrā stanāṅkaghanacandanapaṅkamūrtiḥ |  
-yad bandhanaṃ visalatā tantantubhiś ca  
-kasyāścid eṣa galitas tad anaṅgalekhaḥ ||1001||  
+ताडीदलं यद् अकठोरम् इदं यद् एषा  
+मुद्रा स्तनाङ्कघनचन्दनपङ्कमूर्तिः ।  
+यद् बन्धनं विसलता तन्तन्तुभिश् च  
+कस्याश्चिद् एष गलितस् तद् अनङ्गलेखः ॥१००१॥  
 
 
-kasyacit | (vi.śā.bha. 3.21, su.ra. 1691)  
+कस्यचित् । (वि।शा।भ। ३।२१, सु।र। १६९१)  
 
 
-pāṇipreṅkhaṇato viśīrṇaśirasaḥ svedāmbubhagnaśriyas  
-tatkṛtyākṛtileśato manasi te kiñcit pratītaṃ gatāḥ |  
-vaicitryāpunar uktalāñchanabhṛtaḥ khaṇḍena vāmena vā  
-vyākṣepaṃ kathayanti pakṣmaladṛśo lekhākṣaraśreṇayaḥ ||1002||  
+पाणिप्रेङ्खणतो विशीर्णशिरसः स्वेदाम्बुभग्नश्रियस्  
+तत्कृत्याकृतिलेशतो मनसि ते किञ्चित् प्रतीतं गताः ।  
+वैचित्र्यापुनर् उक्तलाञ्छनभृतः खण्डेन वामेन वा  
+व्याक्षेपं कथयन्ति पक्ष्मलदृशो लेखाक्षरश्रेणयः ॥१००२॥  
 
 
-rājaśekharasya | (vi.śā.bha. 3.22, su.ra. 1690)  
+राजशेखरस्य । (वि।शा।भ। ३।२२, सु।र। १६९०)  
 
 
-kṛtasaralamṛṇālīsūtrasaṃtānabandhaḥ  
-kucamukulamukhāṅkaś candanopāttamudraḥ |  
-smaraśabaraśarāṇām eṣa lakṣyībhavantīṃ  
-kathayati nanu lekhas tam anudghāṭito’pi ||1003||  
+कृतसरलमृणालीसूत्रसंतानबन्धः  
+कुचमुकुलमुखाङ्कश् चन्दनोपात्तमुद्रः ।  
+स्मरशबरशराणाम् एष लक्ष्यीभवन्तीं  
+कथयति ननु लेखस् तम् अनुद्घाटितो’पि ॥१००३॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-tulyānurāgapiśunaṃ lalitānubandhaṃ  
-patre niveśitam udāharaṇaṃ priyāyāḥ |  
-utpaśyato mama sakhe madirekṣaṇāyās  
-tasyāḥ samāgatam ivānanamānanena ||1004||  
+तुल्यानुरागपिशुनं ललितानुबन्धं  
+पत्रे निवेशितम् उदाहरणं प्रियायाः ।  
+उत्पश्यतो मम सखे मदिरेक्षणायास्  
+तस्याः समागतम् इवाननमाननेन ॥१००४॥  
 
 
-kālidāsasya | (Vik 2.13)  
+कालिदासस्य । (विक् २।१३)  
 
 
-kvāpi svedakaṇānipātamasṛṇaṃ kutrāpi kampaskhalat  
-pāṇivyastalipi kvacid ghanapatadbāṣpāmbuliptākṣaram |  
-kvāpi śvāsamahormimarmaram idaṃ tāḍaṅkatāḍīdalaṃ  
-varṇair eva vinā vyanakti sudṛśo bhāvaikatānaṃ manaḥ ||1005||  
+क्वापि स्वेदकणानिपातमसृणं कुत्रापि कम्पस्खलत्  
+पाणिव्यस्तलिपि क्वचिद् घनपतद्बाष्पाम्बुलिप्ताक्षरम् ।  
+क्वापि श्वासमहोर्मिमर्मरम् इदं ताडङ्कताडीदलं  
+वर्णैर् एव विना व्यनक्ति सुदृशो भावैकतानं मनः ॥१००५॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-107. vanavihāraḥ  
+१०७। वनविहारः  
 
 
-ujjhantyaḥ svarṇakāñcīr jhaṇiti raśanayā campakanyāsamayyā   
-tanvatyas tārahārān vicakilakalikāpaṅktimudrāvalībhiḥ |  
-kiṃ cāśokapravālair aruṇamaṇimayān saṃtyajantyo’vataṃsān   
-utkīrṇāḥ kāmabāṇair iva hṛdi suhṛdo vallabhānāṃ babhūvuḥ ||1006||  
+उज्झन्त्यः स्वर्णकाञ्चीर् झणिति रशनया चम्पकन्यासमय्या   
+तन्वत्यस् तारहारान् विचकिलकलिकापङ्क्तिमुद्रावलीभिः ।  
+किं चाशोकप्रवालैर् अरुणमणिमयान् संत्यजन्त्यो’वतंसान्   
+उत्कीर्णाः कामबाणैर् इव हृदि सुहृदो वल्लभानां बभूवुः ॥१००६॥  
 
 
-rājaśekharasya |  
+राजशेखरस्य ।  
 
 
-dūrodañcitabāhumūlavilasaccīnaprakāśastanā  
-bhogavyāyatamadhyalambivasanā nirmuktanābhīhradā |  
-ākṛṣṭojjhitapuṣpamañjarirajaḥpātāvaruddhekṣaṇā  
-cintvatyāḥ kusumaṃ dhinoti sudṛśaḥ pādāgraduḥsthā tanuḥ ||1007||  
+दूरोदञ्चितबाहुमूलविलसच्चीनप्रकाशस्तना  
+भोगव्यायतमध्यलम्बिवसना निर्मुक्तनाभीह्रदा ।  
+आकृष्टोज्झितपुष्पमञ्जरिरजःपातावरुद्धेक्षणा  
+चिन्त्वत्याः कुसुमं धिनोति सुदृशः पादाग्रदुःस्था तनुः ॥१००७॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-kaṅkelir eṣa kim acetana eva satyaṃ   
-namnaḥ svayaṃ na kusumāni dadāti yaste |  
-dhūrto’thavā namati nāyam udastabāhu   
-vyaktonnatastanataṭāntadidṛkṣayeva ||1008||  
+कङ्केलिर् एष किम् अचेतन एव सत्यं   
+नम्नः स्वयं न कुसुमानि ददाति यस्ते ।  
+धूर्तो’थवा नमति नायम् उदस्तबाहु   
+व्यक्तोन्नतस्तनतटान्तदिदृक्षयेव ॥१००८॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-etasmin sutanu latāgṛhe’tiramyaṃ   
-mālatyāḥ kusumam anācitaṃ pareṇa |  
-ity uktvā mṛdukarapallavaṃ gṛhītvā   
-mugdhākṣīṃ rahasi nināya ko’pi dhūrtaḥ ||1009||  
+एतस्मिन् सुतनु लतागृहे’तिरम्यं   
+मालत्याः कुसुमम् अनाचितं परेण ।  
+इत्य् उक्त्वा मृदुकरपल्लवं गृहीत्वा   
+मुग्धाक्षीं रहसि निनाय को’पि धूर्तः ॥१००९॥  
 
 
-jayamādhavasya |  
+जयमाधवस्य ।  
 
 
-tāsāṃ pīnastanakalasayoḥ sthūlamuktābhirāmā  
-veṇībhūtās trivaliviṣame tiryagāyāmabhājaḥ |  
-vaktre lolālakavilulitāḥ ketakakṣodalakṣmīṃ  
-prāptāḥ krīḍāvanaviharaṇe bindavaḥ svedavārām ||1010||  
+तासां पीनस्तनकलसयोः स्थूलमुक्ताभिरामा  
+वेणीभूतास् त्रिवलिविषमे तिर्यगायामभाजः ।  
+वक्त्रे लोलालकविलुलिताः केतकक्षोदलक्ष्मीं  
+प्राप्ताः क्रीडावनविहरणे बिन्दवः स्वेदवाराम् ॥१०१०॥  
 
 
-dhoyīkasya |  
+धोयीकस्य ।  
 
 
-108. jalakrīḍā  
+१०८। जलक्रीडा  
 
 
-āyāsaślathabāhuvallir adhikasmerai #  
-lolāpāṅgakapolapālir alikastomārdhaluptālakā |  
-nyasyantī madayaty anāvṛta iva pracchādanāyāñcalaṃ   
-mugdhā svedanipītasūkṣmasicayavyaktastanī vakṣasi ||1011||  
+आयासश्लथबाहुवल्लिर् अधिकस्मेरै #  
+लोलापाङ्गकपोलपालिर् अलिकस्तोमार्धलुप्तालका ।  
+न्यस्यन्ती मदयत्य् अनावृत इव प्रच्छादनायाञ्चलं   
+मुग्धा स्वेदनिपीतसूक्ष्मसिचयव्यक्तस्तनी वक्षसि ॥१०११॥  
 
 
-tuṅgokasya |  
+तुङ्गोकस्य ।  
 
 
-ambhobhistanakumbhayos tava ghanaśleṣāt samutkīrṇatāṃ   
-yātāyā śukavakrimapraṇayinī seyaṃ na luptā lipiḥ |  
-kiṃ caitāṃ kusumeṣu kuñjaraśironakṣatramālāṃ tiro  
-dhitsurniṣphalam eva majjasi nabhaḥ svacche sarovāriṇi ||1012||  
+अम्भोभिस्तनकुम्भयोस् तव घनश्लेषात् समुत्कीर्णतां   
+याताया शुकवक्रिमप्रणयिनी सेयं न लुप्ता लिपिः ।  
+किं चैतां कुसुमेषु कुञ्जरशिरोनक्षत्रमालां तिरो  
+धित्सुर्निष्फलम् एव मज्जसि नभः स्वच्छे सरोवारिणि ॥१०१२॥  
 
 
-dharmāśokadattasya |  
+धर्माशोकदत्तस्य ।  
 
 
-mugdhāṅganā kāpi sarojapatre  
-vilolitāmbhaḥkaṇikāṃ vilokya |  
-prasārayāmāsa javena pāṇiṃ  
-sasambhramaṃ mauktikaśaṅkayeva ||1013||  
+मुग्धाङ्गना कापि सरोजपत्रे  
+विलोलिताम्भःकणिकां विलोक्य ।  
+प्रसारयामास जवेन पाणिं  
+ससम्भ्रमं मौक्तिकशङ्कयेव ॥१०१३॥  
 
 
-vallabhadevasya | (Sv 1875)  
+वल्लभदेवस्य । (स्व् १८७५)  
 
 
-bibhrāṇās toyalagnaṃ vasanamaraśanādāmani śroṇibhāre  
-dūrād anyonyasācismitacaturasakhīkāmibhir vīkṣyamāṇāḥ |  
-utterus tīralekhāṃ vipulakamalinīpatram īṣad vilakṣā  
-vakṣojāgreṣu kṛtvā hariṇaśiśudṛśo vītacīnāṃśukeṣu ||1014||  
+बिभ्राणास् तोयलग्नं वसनमरशनादामनि श्रोणिभारे  
+दूराद् अन्योन्यसाचिस्मितचतुरसखीकामिभिर् वीक्ष्यमाणाः ।  
+उत्तेरुस् तीरलेखां विपुलकमलिनीपत्रम् ईषद् विलक्षा  
+वक्षोजाग्रेषु कृत्वा हरिणशिशुदृशो वीतचीनांशुकेषु ॥१०१४॥  
 
 
-dhoyīkasya |  
+धोयीकस्य ।  
 
 
-moktuṃ snānāṃśukāni smararabhasarasasyānukūlair dukūlaiḥ  
-saṃskartuṃ keśapāśān agurusurabhiṇā dhūpadhūmodgamena |  
-tāmbūlollekharekhām api viracayituṃ dhautapṛṣṭhe’dharoṣṭhe  
-tīrottīrṇās taruṇyaḥ kṣaṇam upaviviśur vallikelīgṛheṣu ||1015||  
+मोक्तुं स्नानांशुकानि स्मररभसरसस्यानुकूलैर् दुकूलैः  
+संस्कर्तुं केशपाशान् अगुरुसुरभिणा धूपधूमोद्गमेन ।  
+ताम्बूलोल्लेखरेखाम् अपि विरचयितुं धौतपृष्ठे’धरोष्ठे  
+तीरोत्तीर्णास् तरुण्यः क्षणम् उपविविशुर् वल्लिकेलीगृहेषु ॥१०१५॥  
 
 
-rājaśekharasya |  
+राजशेखरस्य ।  
 
 
-109. veśaḥ  
+१०९। वेशः  
 
 
-vaktrendur mṛgalāñchanena valitaḥ patrāvalīsaṃgamāt  
-kaṇṭhe kambuviḍambini dviguṇitās tārāpahārasrajaḥ |  
-dorvallīyugale mṛṇālasuhṛdi granthibhramāyāṅgadaṃ  
-manye bhūṣaṇam eva dūṣaṇapade tat prāpya tasyā vapuḥ ||1016||  
+वक्त्रेन्दुर् मृगलाञ्छनेन वलितः पत्रावलीसंगमात्  
+कण्ठे कम्बुविडम्बिनि द्विगुणितास् तारापहारस्रजः ।  
+दोर्वल्लीयुगले मृणालसुहृदि ग्रन्थिभ्रमायाङ्गदं  
+मन्ये भूषणम् एव दूषणपदे तत् प्राप्य तस्या वपुः ॥१०१६॥  
 
 
-viriñceḥ |  
+विरिञ्चेः ।  
 
 
-kausumbhaṃ kucakumbhayor nivasanaṃ sauvarṇikaṃ karṇayos  
-tāḍaṅkadvayam āñjanī nayanayor ālekhyalekhālipiḥ |  
-kāśmīreṇa tamālapatram alike haimī kare kaṅkaṇa  
-śreṇiḥ pāśayituṃ jaganty alam alaṅkārāḥ kuraṅgīdṛśaḥ ||1017||  
+कौसुम्भं कुचकुम्भयोर् निवसनं सौवर्णिकं कर्णयोस्  
+ताडङ्कद्वयम् आञ्जनी नयनयोर् आलेख्यलेखालिपिः ।  
+काश्मीरेण तमालपत्रम् अलिके हैमी करे कङ्कण  
+श्रेणिः पाशयितुं जगन्त्य् अलम् अलङ्काराः कुरङ्गीदृशः ॥१०१७॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-dīrghāpāṅgaṃ nayanayugalaṃ bhūṣayaty añjanaśrīs  
-tuṅgābhogau prabhavati kucāv arcituṃ hārayaṣṭiḥ |  
-madhyakṣāme vapuṣi labhate sthāma kūrpāsalakṣmīḥ  
-śroṇībimbe guruṇi raśanādāmaśobhāṃ bibharti ||1018||  
+दीर्घापाङ्गं नयनयुगलं भूषयत्य् अञ्जनश्रीस्  
+तुङ्गाभोगौ प्रभवति कुचाव् अर्चितुं हारयष्टिः ।  
+मध्यक्षामे वपुषि लभते स्थाम कूर्पासलक्ष्मीः  
+श्रोणीबिम्बे गुरुणि रशनादामशोभां बिभर्ति ॥१०१८॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-kaṇṭhe mauktikamālikā stanataṭe kārpūramadhyaṃ rajaḥ  
-sāndraṃ candanam aṅgake valayitā pāṇau mṛṇālīlatā |  
-tanvī naktam iyaṃ cakāsti śucinī cīnāṃśuke bibhratī  
-śītāṃśor adhidevateva galitā vyomāgram ārohitaḥ ||1019||  
+कण्ठे मौक्तिकमालिका स्तनतटे कार्पूरमध्यं रजः  
+सान्द्रं चन्दनम् अङ्गके वलयिता पाणौ मृणालीलता ।  
+तन्वी नक्तम् इयं चकास्ति शुचिनी चीनांशुके बिभ्रती  
+शीतांशोर् अधिदेवतेव गलिता व्योमाग्रम् आरोहितः ॥१०१९॥  
 
 
-rājaśekharasya | (vi.śā.bha. 3.16, su.ra. 385)  
+राजशेखरस्य । (वि।शा।भ। ३।१६, सु।र। ३८५)  
 
 
-indoś candanabindunaiva daśanacchāyaṃ tadīyaṃ mukhaṃ   
-cakraṃ locanabhallamārjanavidhau śāṇasya tat kuṇḍalam |  
-bhinnānāṃ kucakandarā smitasudhākulyeva muktāvalī   
-pādābje dhvanadindranīlavalayaṃ rolambamālaiva sā ||1020||  
+इन्दोश् चन्दनबिन्दुनैव दशनच्छायं तदीयं मुखं   
+चक्रं लोचनभल्लमार्जनविधौ शाणस्य तत् कुण्डलम् ।  
+भिन्नानां कुचकन्दरा स्मितसुधाकुल्येव मुक्तावली   
+पादाब्जे ध्वनदिन्द्रनीलवलयं रोलम्बमालैव सा ॥१०२०॥  
 
 
-śāṇḍilyasya |  
+शाण्डिल्यस्य ।  
 
 
-110. dūtīsaṃvādaḥ  
+११०। दूतीसंवादः  
 
 
-uttiṣṭha yadi jīvantīṃ mām icchasi tam ānaya |  
-ahaṃ netum aśakyāpi sudūram idam antaram ||1021||  
+उत्तिष्ठ यदि जीवन्तीं माम् इच्छसि तम् आनय ।  
+अहं नेतुम् अशक्यापि सुदूरम् इदम् अन्तरम् ॥१०२१॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-kāmaṃ niṣkaruṇaṃ vetsi vetsi taṃ bahuvallabham |  
-dūti cūtāṅkurakharā diśo vetsi na vetsi kim ||1022||  
+कामं निष्करुणं वेत्सि वेत्सि तं बहुवल्लभम् ।  
+दूति चूताङ्कुरखरा दिशो वेत्सि न वेत्सि किम् ॥१०२२॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-jīvitaṃ jalataraṅgavilolaṃ  
-yauvanaṃ tricaturāṇi dināni |  
-śāradabhrataralā tanukāntiḥ  
-gaccha dūti vada satvaram etat ||1023||  
+जीवितं जलतरङ्गविलोलं  
+यौवनं त्रिचतुराणि दिनानि ।  
+शारदभ्रतरला तनुकान्तिः  
+गच्छ दूति वद सत्वरम् एतत् ॥१०२३॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-yasmin bāṣ bāṣpataraṅgitāśrukaluṣā dṛṣṭir na siddhiṃ gatā  
-no hastena vivartamānavalayenāliṅgito na sthitaḥ |  
-yena strīhṛdayasya padmamṛdunaḥ saṃbhāvito nātyayas  
-taṃ gatvā hṛdayaṃ kim aśmasadṛśaṃ tvaṃ dūti vaktuṃ kṣamā ||1024||  
+यस्मिन् बाष् बाष्पतरङ्गिताश्रुकलुषा दृष्टिर् न सिद्धिं गता  
+नो हस्तेन विवर्तमानवलयेनालिङ्गितो न स्थितः ।  
+येन स्त्रीहृदयस्य पद्ममृदुनः संभावितो नात्ययस्  
+तं गत्वा हृदयं किम् अश्मसदृशं त्वं दूति वक्तुं क्षमा ॥१०२४॥  
 
 
-kasyacit | (Sv 1187)  
+कस्यचित् । (स्व् ११८७)  
 
 
-dūti tvaṃ taruṇī yuvā sa capalaḥ śyāmās tamobhir diśaḥ   
-saṃketaḥ sarahasya eṣa vipine saṃketakāvāsakaḥ |  
-bhūyo bhūya ime vasantamarutaś ceto nayanty anyathā  
-gaccha kṣemasamāgamāya nipuṇaṃ rakṣantu te devatāḥ ||1025||  
+दूति त्वं तरुणी युवा स चपलः श्यामास् तमोभिर् दिशः   
+संकेतः सरहस्य एष विपिने संकेतकावासकः ।  
+भूयो भूय इमे वसन्तमरुतश् चेतो नयन्त्य् अन्यथा  
+गच्छ क्षेमसमागमाय निपुणं रक्षन्तु ते देवताः ॥१०२५॥  
 
 
-śīlābhaṭṭārikāyāḥ | (Sv 1188, śā.pa. 3439, sū.mu. 41.11)  
+शीलाभट्टारिकायाः । (स्व् ११८८, शा।प। ३४३९, सू।मु। ४१।११)  
 
 
-111. strīvilobhanam  
+१११। स्त्रीविलोभनम्  
 
 
-priyatamabhujapañjaropagūḍhā  
-śaśitilakeṣu vibhāvarīmukheṣu |  
-anubhavamadavibhramopadiṣṭāny  
-avinayadurlalitāni manmathasya ||1026||  
+प्रियतमभुजपञ्जरोपगूढा  
+शशितिलकेषु विभावरीमुखेषु ।  
+अनुभवमदविभ्रमोपदिष्टान्य्  
+अविनयदुर्ललितानि मन्मथस्य ॥१०२६॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-stanayugavahanālasaṃ ca madhyaṃ  
-caraṇayugaṃ ca nitambabhārakhinnam |  
-yadi vahasi bibharṣi kiṃ vṛthaikaṃ  
-hṛdayam idaṃ dayitānurāgaśūnyam ||1027||  
+स्तनयुगवहनालसं च मध्यं  
+चरणयुगं च नितम्बभारखिन्नम् ।  
+यदि वहसि बिभर्षि किं वृथैकं  
+हृदयम् इदं दयितानुरागशून्यम् ॥१०२७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-sulabham anṛju jīvitāny anityāny  
-atisubhage vyatipāti yauvanaṃ ca |  
-anubhavaphalam ātmano guṇānāṃ  
-divi sukham asti na cāparokṣam etat ||1028||  
+सुलभम् अनृजु जीवितान्य् अनित्यान्य्  
+अतिसुभगे व्यतिपाति यौवनं च ।  
+अनुभवफलम् आत्मनो गुणानां  
+दिवि सुखम् अस्ति न चापरोक्षम् एतत् ॥१०२८॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-yadi bṛhajjaghanāpaghanā tanur  
-yadi ca dīrghavilocanam ānanam |  
-idam upaiti rater abhidheyatāṃ  
-vahati kasya kṛte madano dhanuḥ ||1029||  
+यदि बृहज्जघनापघना तनुर्  
+यदि च दीर्घविलोचनम् आननम् ।  
+इदम् उपैति रतेर् अभिधेयतां  
+वहति कस्य कृते मदनो धनुः ॥१०२९॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-stanayugam asitākṣi sundarīṇāṃ   
-bhavati tataḥ śubham apy abandhyaśobham |  
-yadi kila labhate priyārpitānāṃ  
-rasam upagūhanapīḍanāmṛtānām ||1030||  
+स्तनयुगम् असिताक्षि सुन्दरीणां   
+भवति ततः शुभम् अप्य् अबन्ध्यशोभम् ।  
+यदि किल लभते प्रियार्पितानां  
+रसम् उपगूहनपीडनामृतानाम् ॥१०३०॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-112. puṃvilobhanam  
+११२। पुंविलोभनम्  
 
 
-smitamadhusnapitādharapallavām  
-abhinavollasitastanakuḍmalām |  
-guṇaphalāṃ tvam imām abalālatāṃ  
-tarur ivodvaha puṣpavatīṃ latām ||1031||  
+स्मितमधुस्नपिताधरपल्लवाम्  
+अभिनवोल्लसितस्तनकुड्मलाम् ।  
+गुणफलां त्वम् इमाम् अबलालतां  
+तरुर् इवोद्वह पुष्पवतीं लताम् ॥१०३१॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-gṛhītaṃ tāmbūlaṃ parijanavacobhir na katham api   
-smaraty antaḥśūnyā subhaga vigatāyām api niśi |  
-tatevāste hastaḥ kalitaphaṇivallīkisalayas  
-tathavāsyaṃ tasyāḥ kramukaphalaphālīparicitam ||1032||  
+गृहीतं ताम्बूलं परिजनवचोभिर् न कथम् अपि   
+स्मरत्य् अन्तःशून्या सुभग विगतायाम् अपि निशि ।  
+ततेवास्ते हस्तः कलितफणिवल्लीकिसलयस्  
+तथवास्यं तस्याः क्रमुकफलफालीपरिचितम् ॥१०३२॥  
 
 
-bilhaṇasya | (śā.pa. 3475, padyā. 187 hariharasya, u.nī. 13.59)  
+बिल्हणस्य । (शा।प। ३४७५, पद्या। १८७ हरिहरस्य, उ।नी। १३।५९)  
 
 
-tvaṃ śītalo na vyajanānurāgī  
-dūrāntaras tāpavatī ca kāntā |  
-kāmaṃ na śaktā śaradaṃ viṣoḍhuṃ  
-sthāne samākāṅkṣati sā hi martum ||1033||  
+त्वं शीतलो न व्यजनानुरागी  
+दूरान्तरस् तापवती च कान्ता ।  
+कामं न शक्ता शरदं विषोढुं  
+स्थाने समाकाङ्क्षति सा हि मर्तुम् ॥१०३३॥  
 
 
-śabdārṇavasya |  
+शब्दार्णवस्य ।  
 
 
-vikasitādharam āyatalocanaṃ  
-piba rahasy abhirāmam idaṃ mukham |  
-rucirapatravilambitakeśaraṃ  
-madhukaraḥ sarasīva saroruham ||1034||  
+विकसिताधरम् आयतलोचनं  
+पिब रहस्य् अभिरामम् इदं मुखम् ।  
+रुचिरपत्रविलम्बितकेशरं  
+मधुकरः सरसीव सरोरुहम् ॥१०३४॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-nāgavallirudhirohatu pūgaṃ  
-rātrir eṇatilakena sametu |  
-tvām asau bhajati kokilakaṇṭhī  
-vācam arcatu kaveḥ sukṛto’rthaḥ ||1035||  
+नागवल्लिरुधिरोहतु पूगं  
+रात्रिर् एणतिलकेन समेतु ।  
+त्वाम् असौ भजति कोकिलकण्ठी  
+वाचम् अर्चतु कवेः सुकृतो’र्थः ॥१०३५॥  
 
 
-rājaśekharasya |  
-113. dūtikopālambhaḥ  
+राजशेखरस्य ।  
+११३। दूतिकोपालम्भः  
 
 
-niḥśeṣacyutacandanaṃ stanataṭaṃ nirmṛṣṭarāgo’dharo  
-netra dūram anañjane pulakitā tanvī taveyaṃ tanuḥ |  
-mithyāvādini dūti bāndhavajanasyājñātapīḍāgame  
-vāpīṃ snātum ito gatāsi na punas tasyādhamasyāntikam ||1036||  
+निःशेषच्युतचन्दनं स्तनतटं निर्मृष्टरागो’धरो  
+नेत्र दूरम् अनञ्जने पुलकिता तन्वी तवेयं तनुः ।  
+मिथ्यावादिनि दूति बान्धवजनस्याज्ञातपीडागमे  
+वापीं स्नातुम् इतो गतासि न पुनस् तस्याधमस्यान्तिकम् ॥१०३६॥  
 
 
-suvibhokasya | (sa.ka.ā. 4.236, SD under 2.23, sū.mu. 48.2, su.ra. 837)  
+सुविभोकस्य । (स।क।आ। ४।२३६, स्द् उन्देर् २।२३, सू।मु। ४८।२, सु।र। ८३७)  
 
 
-svakāryabuddhyaiva sadā madarthe  
-dūti pravṛttiṃ pratipālayantyā |  
-tvayā phalenaiva vibhāvito’yaṃ  
-mayā sahābhinnaśarīravādaḥ ||1037||  
+स्वकार्यबुद्ध्यैव सदा मदर्थे  
+दूति प्रवृत्तिं प्रतिपालयन्त्या ।  
+त्वया फलेनैव विभावितो’यं  
+मया सहाभिन्नशरीरवादः ॥१०३७॥  
 
 
-chittokasya | (su.ra. 853)  
+छित्तोकस्य । (सु।र। ८५३)  
 
 
-adharo vītarāgas te kaṣāye tava locane |  
-vihāraḥ kaṇṭhadeśas te dūti pravrajitāsi kim ||1038||  
+अधरो वीतरागस् ते कषाये तव लोचने ।  
+विहारः कण्ठदेशस् ते दूति प्रव्रजितासि किम् ॥१०३८॥  
 
 
-bhikṣoḥ | (su.ra. 840)  
+भिक्षोः । (सु।र। ८४०)  
 
 
-sādhu dūti punaḥ sādhu   
-kartavyaṃ kim ataḥ param |  
-yan madarthe virugṇāsi  
-dantair api nakhair api ||1039||  
+साधु दूति पुनः साधु   
+कर्तव्यं किम् अतः परम् ।  
+यन् मदर्थे विरुग्णासि  
+दन्तैर् अपि नखैर् अपि ॥१०३९॥  
 
 
-tasyaiva | (su.ra. 839)  
+तस्यैव । (सु।र। ८३९)  
 
 
-kiṃ tvaṃ nigūhase dūti  
-stanau vaktraṃ ca pāṇinā |  
-savraṇā eva śobhante  
-vīrādharapayodharāḥ ||1040||  
+किं त्वं निगूहसे दूति  
+स्तनौ वक्त्रं च पाणिना ।  
+सव्रणा एव शोभन्ते  
+वीराधरपयोधराः ॥१०४०॥  
 
 
-kasyacit | (Sv 1428, śā.pa. 3510)  
+कस्यचित् । (स्व् १४२८, शा।प। ३५१०)  
 
 
-114. nāyikāgamanam  
+११४। नायिकागमनम्  
 
 
-śayyāgāraṃ vrajantyāś caturasahacarīmugdhoktimiśraṃ  
-prāṇeśāyāḥ smarajyāraṇitam iva samākarṇya mañjīraghoṣam |  
-yāminyāḥ pūrvayāme vigalati vitatautsukyam ujjṛmbhamāṇo  
-dhanyo nidrācchalena ślathayati suhṛdāṃ narmagoṣṭhīprabandham ||1041||  
+शय्यागारं व्रजन्त्याश् चतुरसहचरीमुग्धोक्तिमिश्रं  
+प्राणेशायाः स्मरज्यारणितम् इव समाकर्ण्य मञ्जीरघोषम् ।  
+यामिन्याः पूर्वयामे विगलति विततौत्सुक्यम् उज्जृम्भमाणो  
+धन्यो निद्राच्छलेन श्लथयति सुहृदां नर्मगोष्ठीप्रबन्धम् ॥१०४१॥  
 
 
-vikramādityasya |  
+विक्रमादित्यस्य ।  
 
 
-nitambagurvī bahuśaḥ śrameṇa  
-viśramya sopānapadeṣu kācit |  
-kāñcīkarālambitavāmapāṇir  
-utthāya harmyaṃ kalayāruroha ||1042||  
+नितम्बगुर्वी बहुशः श्रमेण  
+विश्रम्य सोपानपदेषु काचित् ।  
+काञ्चीकरालम्बितवामपाणिर्  
+उत्थाय हर्म्यं कलयारुरोह ॥१०४२॥  
 
 
-rājaśekharasya |  
+राजशेखरस्य ।  
 
 
-eṣāgataiva nibirīsanitambabimba   
-bhāreṇa pakṣmaladṛśaḥ kriyate tu vighnaḥ |  
-yāntyā itīva dayitāntikam eṇadṛṣṭer   
-agre jagāma gadituṃ laghucittavṛttiḥ ||1043||  
+एषागतैव निबिरीसनितम्बबिम्ब   
+भारेण पक्ष्मलदृशः क्रियते तु विघ्नः ।  
+यान्त्या इतीव दयितान्तिकम् एणदृष्टेर्   
+अग्रे जगाम गदितुं लघुचित्तवृत्तिः ॥१०४३॥  
 
 
-ratnākarasya |  
+रत्नाकरस्य ।  
 
 
-prakāmaṃ suprātaṃ tava nayana saṃpannam abhitas  
-tavāpy āptaṃ cetaḥ phalam iha manorājyalatayā |  
-smarāyāsaproṣapraśamavidhisiddhauṣadhir iyaṃ  
-sphurantī saṃprāptā śaśadharakaleva priyatamā ||1044||  
+प्रकामं सुप्रातं तव नयन संपन्नम् अभितस्  
+तवाप्य् आप्तं चेतः फलम् इह मनोराज्यलतया ।  
+स्मरायासप्रोषप्रशमविधिसिद्धौषधिर् इयं  
+स्फुरन्ती संप्राप्ता शशधरकलेव प्रियतमा ॥१०४४॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-cetaḥ kātaratāṃ jahīhi sapadi sthairyaṃ samālaṃvyatām  
-āyātā smaramārgaṇavraṇaparitrāṇauṣadhiḥ preyasī |  
-yasyāḥ śvāsasamīrasaurabhapatadbhṛṅgāvalīvāraṇa  
-krīḍācañcalapāṇikaṅkaṇajhaṇatkāro muhur mūrcchati ||1045||  
+चेतः कातरतां जहीहि सपदि स्थैर्यं समालंव्यताम्  
+आयाता स्मरमार्गणव्रणपरित्राणौषधिः प्रेयसी ।  
+यस्याः श्वाससमीरसौरभपतद्भृङ्गावलीवारण  
+क्रीडाचञ्चलपाणिकङ्कणझणत्कारो मुहुर् मूर्च्छति ॥१०४५॥  
 
 
-kasyacit | (sū.mu. 70.8, su.ra. 1641)  
+कस्यचित् । (सू।मु। ७०।८, सु।र। १६४१)  
 
 
-115. nāyakāgamanam  
+११५। नायकागमनम्  
 
 
-saṃkīrṇaṃ śayanīyam arpaya kuru dvedhopadhānakriyām  
-abhyāse kuru tālavṛntakam iti vyāpārayantyā sakhīm |  
-āyātasya punarvilāsabhavanaṃ kandarpadīkṣāguror  
-abhutthānam api pramodajaḍayā nāviṣkṛtaṃ subhruvā ||1046||  
+संकीर्णं शयनीयम् अर्पय कुरु द्वेधोपधानक्रियाम्  
+अभ्यासे कुरु तालवृन्तकम् इति व्यापारयन्त्या सखीम् ।  
+आयातस्य पुनर्विलासभवनं कन्दर्पदीक्षागुरोर्  
+अभुत्थानम् अपि प्रमोदजडया नाविष्कृतं सुभ्रुवा ॥१०४६॥  
 
 
-jalacandrasya |  
+जलचन्द्रस्य ।  
 
 
-dvārāgataṃ kāpy avagamya kāntam  
-unnamya vaktraṃ sicayāñcalena |  
-vimuñcatī maṇḍanakarmadīrghaṃ  
-yathāyathātmānam alaṃcakāra ||1047||  
+द्वारागतं काप्य् अवगम्य कान्तम्  
+उन्नम्य वक्त्रं सिचयाञ्चलेन ।  
+विमुञ्चती मण्डनकर्मदीर्घं  
+यथायथात्मानम् अलंचकार ॥१०४७॥  
 
 
-rājaśekharasya |  
+राजशेखरस्य ।  
 
 
-kāpyāgataṃ vīkṣya manodhināthaṃ   
-samutthitā sādaram āsanāya |  
-kareṇa śiñjadvalayena talpam   
-āsphālayantī kalamājuhāva ||1048||  
+काप्यागतं वीक्ष्य मनोधिनाथं   
+समुत्थिता सादरम् आसनाय ।  
+करेण शिञ्जद्वलयेन तल्पम्   
+आस्फालयन्ती कलमाजुहाव ॥१०४८॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-priyatamam avalokya svāśarayād utpatantyāḥ  
-sarabhasam aparasyāḥ pādamūle salīlam |  
-apatad atha karāgrād accharatnātmadarśaḥ  
-śaśadhara iva vaktracchāyayā nirjitaśrīḥ ||1049||  
+प्रियतमम् अवलोक्य स्वाशरयाद् उत्पतन्त्याः  
+सरभसम् अपरस्याः पादमूले सलीलम् ।  
+अपतद् अथ कराग्राद् अच्छरत्नात्मदर्शः  
+शशधर इव वक्त्रच्छायया निर्जितश्रीः ॥१०४९॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-dvārpāntanirantare mayi tayā saundaryasāraśriyā  
-prollāsyoruyugaṃ parasparasamāsaktaṃ samāpāditam |  
-ānītaṃ purataḥ śiroṃśukam adhaḥ kÿpte cale locane  
-vācas tac ca nivāritaṃ prasaraṇaṃ saṃkocite dor late ||1050||  
+द्वार्पान्तनिरन्तरे मयि तया सौन्दर्यसारश्रिया  
+प्रोल्लास्योरुयुगं परस्परसमासक्तं समापादितम् ।  
+आनीतं पुरतः शिर्ॐशुकम् अधः क्ÿप्ते चले लोचने  
+वाचस् तच् च निवारितं प्रसरणं संकोचिते दोर् लते ॥१०५०॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-116. vādyam  
+११६। वाद्यम्  
 
 
-purandhrīṇāṃ pīnais tulitapariṇāhastanataṭair  
-drutaṃ saṃmṛjyantāṃ karakisalayair jharjharapuṭāḥ |  
-kalaṃ guñja mugdhaṃ pibatu madhudigdhādharadalaṃ  
-mukhaṃ nīlo veṇuḥ kamalam iva mālā madhulihām ||1051||  
+पुरन्ध्रीणां पीनैस् तुलितपरिणाहस्तनतटैर्  
+द्रुतं संमृज्यन्तां करकिसलयैर् झर्झरपुटाः ।  
+कलं गुञ्ज मुग्धं पिबतु मधुदिग्धाधरदलं  
+मुखं नीलो वेणुः कमलम् इव माला मधुलिहाम् ॥१०५१॥  
 
 
-viśākhadattasya |  
+विशाखदत्तस्य ।  
 
 
-dhatte vyaktiṃ rasitam asakṛj jarjaraṃ jharjharāṇāṃ  
-stokottuṅgadhvanitalaharībherikā nānadīti |  
-dhīraiḥ snigdhaiḥ karakisalayair āhatāḥ kinnarāṇāṃ  
-śabdāyante navaghanaghaṭāmandranādaṃ mṛdaṅgāḥ ||1052||  
+धत्ते व्यक्तिं रसितम् असकृज् जर्जरं झर्झराणां  
+स्तोकोत्तुङ्गध्वनितलहरीभेरिका नानदीति ।  
+धीरैः स्निग्धैः करकिसलयैर् आहताः किन्नराणां  
+शब्दायन्ते नवघनघटामन्द्रनादं मृदङ्गाः ॥१०५२॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-nāntaḥkarṣanti keṣāṃ kṛtapadaracanaiḥ pāmaragrāmanārī  
-vakṣojottuṅgatumbīphalanihatamṛdūtsarpigambhīraśabdaiḥ |  
-udgītāḥ śṛṅgakoṭīsthagitakaraśikhālolakallolavīṇā  
-tantrīkvāṇānurūpadhvanibhir abhinayavyāhṛtāḥ kāvyabandhāḥ ||1053||  
+नान्तःकर्षन्ति केषां कृतपदरचनैः पामरग्रामनारी  
+वक्षोजोत्तुङ्गतुम्बीफलनिहतमृदूत्सर्पिगम्भीरशब्दैः ।  
+उद्गीताः शृङ्गकोटीस्थगितकरशिखालोलकल्लोलवीणा  
+तन्त्रीक्वाणानुरूपध्वनिभिर् अभिनयव्याहृताः काव्यबन्धाः ॥१०५३॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-vakṣojābhogagurvor mukharayati yugaṃ kāṃsyayoḥ kāpi kāntā  
-prayodattavraṇālīvidhuritamadhuraṃ veṇave kāpi datte |  
-kācit kṛtvāṅgabhaṅgaṃ prasṛtamudam iva snigdhamugdhapraṇādaṃ  
-vāraṃ vāraṃ karābhyāṃ praharati murajaṃ gītasaṃvādaramyam ||1054||  
+वक्षोजाभोगगुर्वोर् मुखरयति युगं कांस्ययोः कापि कान्ता  
+प्रयोदत्तव्रणालीविधुरितमधुरं वेणवे कापि दत्ते ।  
+काचित् कृत्वाङ्गभङ्गं प्रसृतमुदम् इव स्निग्धमुग्धप्रणादं  
+वारं वारं कराभ्यां प्रहरति मुरजं गीतसंवादरम्यम् ॥१०५४॥  
 
 
-kālidāsanandinaḥ |  
+कालिदासनन्दिनः ।  
 
 
-vīnayā ca ninadena ca veṇoḥ  
-kekayā ca phalakaṇṭhagirā ca |  
-śītkṛtaiś ca raṇitaiś ca vadhūnāṃ  
-bhuñjate śrutisukhāni yuvānaḥ ||1055||  
+वीनया च निनदेन च वेणोः  
+केकया च फलकण्ठगिरा च ।  
+शीत्कृतैश् च रणितैश् च वधूनां  
+भुञ्जते श्रुतिसुखानि युवानः ॥१०५५॥  
 
 
-rājaśekharasya |  
+राजशेखरस्य ।  
 
 
-117. nṛtyam  
+११७। नृत्यम्  
 
 
-ramyaṃ gāyatu vā taraṅgayatu vā vyāvartanair bhrūlate  
-vyālolaṃ nayanaṃ ca nartayatu vā kṣuṇṇaḥ sa eṣa kramaḥ |  
-śṛṅgāraṃ punar ātanoti madhuravyāvartanā nartakī  
-pratyaṅgaṃ rasapeśalāni karaṇāny ādhāya yan nṛtyati ||1056||  
+रम्यं गायतु वा तरङ्गयतु वा व्यावर्तनैर् भ्रूलते  
+व्यालोलं नयनं च नर्तयतु वा क्षुण्णः स एष क्रमः ।  
+शृङ्गारं पुनर् आतनोति मधुरव्यावर्तना नर्तकी  
+प्रत्यङ्गं रसपेशलानि करणान्य् आधाय यन् नृत्यति ॥१०५६॥  
 
 
-priyaṃvadasya |  
+प्रियंवदस्य ।  
 
 
-vilolā bhrūvallī masṛṇataralā dṛṣṭir adharaḥ  
-smitasnigdho dhīrā gatir alasam evāṅgacalanam |  
-svabhāvapravyaktonnatanatavibhāgā tanulatā   
-vibhāvo lāsyena sphurati kataro’syā mṛgadṛśaḥ ||1057||  
+विलोला भ्रूवल्ली मसृणतरला दृष्टिर् अधरः  
+स्मितस्निग्धो धीरा गतिर् अलसम् एवाङ्गचलनम् ।  
+स्वभावप्रव्यक्तोन्नतनतविभागा तनुलता   
+विभावो लास्येन स्फुरति कतरो’स्या मृगदृशः ॥१०५७॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-vāmaṃ sandhistimitavalayaṃ nyasya hastaṃ nitambe  
-kṛtvā śyāmā viṭapasadṛśaṃ srastamuktaṃ dvitīyam |  
-pādāṅguṣṭhālulitakusume kuṭṭime pātitākṣaṃ   
-nṛtyādasyāḥ sthitam atitarāṃ kāntam ṛjvāyatārgham ||1058||  
+वामं सन्धिस्तिमितवलयं न्यस्य हस्तं नितम्बे  
+कृत्वा श्यामा विटपसदृशं स्रस्तमुक्तं द्वितीयम् ।  
+पादाङ्गुष्ठालुलितकुसुमे कुट्टिमे पातिताक्षं   
+नृत्यादस्याः स्थितम् अतितरां कान्तम् ऋज्वायतार्घम् ॥१०५८॥  
 
 
-kālidāsasya | ((Mālavikāgnimitra 2.6)  
+कालिदासस्य । ((मालविकाग्निमित्र २।६)  
 
 
-aṅgair antar nihitavacanaiḥ sūcitaḥ samyag arthaḥ   
-pādanyāso layam anugatas tanmayatvaṃ raseṣu |  
-śākhāyonir mṛdur abhinayas tadvikalpānuvṛttau   
-bhāvo bhāvaṃ nudati viṣayādrāg abandhaḥ sa eva ||1059||  
+अङ्गैर् अन्तर् निहितवचनैः सूचितः सम्यग् अर्थः   
+पादन्यासो लयम् अनुगतस् तन्मयत्वं रसेषु ।  
+शाखायोनिर् मृदुर् अभिनयस् तद्विकल्पानुवृत्तौ   
+भावो भावं नुदति विषयाद्राग् अबन्धः स एव ॥१०५९॥  
 
 
-tasyaiva | (Mālavikāgnimitra 2.8; sū.mu. 109.73)  
+तस्यैव । (मालविकाग्निमित्र २।८; सू।मु। १०९।७३)  
 
 
-nanṛtur anatikhedaṃ kauśikīvṛtticañcac  
-caṭulacaraṇacārīcārucitrāṅgahāvāḥ |  
-nijahṛdayanimajjanmāranārācasācī  
-kṛtavadanavinidrāmbhojabhājo yuvatyaḥ ||1060||  
+ननृतुर् अनतिखेदं कौशिकीवृत्तिचञ्चच्  
+चटुलचरणचारीचारुचित्राङ्गहावाः ।  
+निजहृदयनिमज्जन्मारनाराचसाची  
+कृतवदनविनिद्राम्भोजभाजो युवत्यः ॥१०६०॥  
 
 
-hareḥ |  
+हरेः ।  
 
 
-118. gītam  
+११८। गीतम्  
 
 
-alasamukulitākṣaṃ vaktram ālokya tasyā   
-mayi vilulitacitte mūkabhāvaṃ prapanne |  
-śravaṇakuvalayāntaścāriṇā ṣaṭpadena   
-kṣaṇam anugatanādaṃ gītam antaḥ smarāmi ||1061||  
+अलसमुकुलिताक्षं वक्त्रम् आलोक्य तस्या   
+मयि विलुलितचित्ते मूकभावं प्रपन्ने ।  
+श्रवणकुवलयान्तश्चारिणा षट्पदेन   
+क्षणम् अनुगतनादं गीतम् अन्तः स्मरामि ॥१०६१॥  
 
 
-śrīmallakṣmaṇasenadevasya |  
+श्रीमल्लक्ष्मणसेनदेवस्य ।  
 
 
-nādhanyaiḥ kṣaṇadāvirāmamadhurāḥ kiñcid vinītā rasaiḥ  
-śrotrair nāpi ca kinnarīkalagalodgītāni peyāni ca |  
-śrūyante mṛdupītavaktramarutaḥ paurāṇarītikrama  
-vyālolāṅguliruddhamugdhasuṣiraśreṇīravā veṇavaḥ ||1062||  
+नाधन्यैः क्षणदाविराममधुराः किञ्चिद् विनीता रसैः  
+श्रोत्रैर् नापि च किन्नरीकलगलोद्गीतानि पेयानि च ।  
+श्रूयन्ते मृदुपीतवक्त्रमरुतः पौराणरीतिक्रम  
+व्यालोलाङ्गुलिरुद्धमुग्धसुषिरश्रेणीरवा वेणवः ॥१०६२॥  
 
 
-yogeśvarasya |  
+योगेश्वरस्य ।  
 
 
-vilāsamasṛṇolasan musalaloladoḥkandalāḥ  
-parasparapariskhaladvalayaniḥsvanodbandhurāḥ |  
-calanti kaladuṅkṛtiprasabhakampitoraḥsthala  
-truṭadgamakasaṅkulāḥ kalamakaṇḍanīgītayaḥ ||1063||  
+विलासमसृणोलसन् मुसललोलदोःकन्दलाः  
+परस्परपरिस्खलद्वलयनिःस्वनोद्बन्धुराः ।  
+चलन्ति कलदुङ्कृतिप्रसभकम्पितोरःस्थल  
+त्रुटद्गमकसङ्कुलाः कलमकण्डनीगीतयः ॥१०६३॥  
 
 
-tasyaiva | (śā.pa. 582, su.ra. 1178)  
+तस्यैव । (शा।प। ५८२, सु।र। ११७८)  
 
 
-cinvānābhir madhūkaṃ madhuramadhukaradhvānicūtāṅkurāgra  
-grāsavyagrānyapuṣṭadhvanitadhṛtajayārambhasaṃrambhaṇābhiḥ |  
-gīyante vallavībhiḥ pathikasahacarīprāṇayātrāpradīpāḥ  
-prātaḥ prātar vasantasvararacitapadodgāriṇo gītabhedāḥ ||1064||  
+चिन्वानाभिर् मधूकं मधुरमधुकरध्वानिचूताङ्कुराग्र  
+ग्रासव्यग्रान्यपुष्टध्वनितधृतजयारम्भसंरम्भणाभिः ।  
+गीयन्ते वल्लवीभिः पथिकसहचरीप्राणयात्राप्रदीपाः  
+प्रातः प्रातर् वसन्तस्वररचितपदोद्गारिणो गीतभेदाः ॥१०६४॥  
 
 
-viriñceḥ |  
+विरिञ्चेः ।  
 
 
-kvacin masṛṇamāṃsalaṃ kvacid atīva tāraṃ pade  
-prasannasubhagaṃ muhuḥ surataraṅgalīlāṅkitam |  
-idaṃ hi tava vallavīraṇitanirgatair jalpitaṃ  
-mano madayatīva me kim api sādhu saṃgītakam ||1065||  
+क्वचिन् मसृणमांसलं क्वचिद् अतीव तारं पदे  
+प्रसन्नसुभगं मुहुः सुरतरङ्गलीलाङ्कितम् ।  
+इदं हि तव वल्लवीरणितनिर्गतैर् जल्पितं  
+मनो मदयतीव मे किम् अपि साधु संगीतकम् ॥१०६५॥  
 
 
-vāmanasya |  
+वामनस्य ।  
 
 
-119. dyūtam  
+११९। द्यूतम्  
 
 
-āśleṣacumbanaratotsavakautukāni   
-krīḍā durodarapaṇaḥ pratibhūr anaṅgaḥ |  
-bhogaḥ sa yadyapi jaye ca parājaye ca  
-yūnor manas tad api vāñchati jetum eva ||1066||  
+आश्लेषचुम्बनरतोत्सवकौतुकानि   
+क्रीडा दुरोदरपणः प्रतिभूर् अनङ्गः ।  
+भोगः स यद्यपि जये च पराजये च  
+यूनोर् मनस् तद् अपि वाञ्छति जेतुम् एव ॥१०६६॥  
 
 
-murāreḥ | (Ar 7.115, śā.pa. 3661, sū.mu. 75.7, su.ra. 606)  
+मुरारेः । (अर् ७।११५, शा।प। ३६६१, सू।मु। ७५।७, सु।र। ६०६)  
 
 
-āśleṣaḥ prathamaṃ krameṇa vijite kṛtye dhanasyārpaṇaṃ  
-kelidyūtavidhau paṇaṃ priyatame kāntāṃ punaḥ pṛcchati |  
-antargāḍhavigūḍhamanmathasphārībhavadgaṇḍayā  
-svairaṃ śārivisāraṇāya nihitaḥ khedāmbugarbhaḥ karaḥ ||1067||  
+आश्लेषः प्रथमं क्रमेण विजिते कृत्ये धनस्यार्पणं  
+केलिद्यूतविधौ पणं प्रियतमे कान्तां पुनः पृच्छति ।  
+अन्तर्गाढविगूढमन्मथस्फारीभवद्गण्डया  
+स्वैरं शारिविसारणाय निहितः खेदाम्बुगर्भः करः ॥१०६७॥  
 
 
-yogeśvarasya | (su.ra. 605, śā.pa. 3664, sū.mu. 75.5)  
+योगेश्वरस्य । (सु।र। ६०५, शा।प। ३६६४, सू।मु। ७५।५)  
 
 
-tathā gṛhītas tanvaṅgyā   
-vijayopārjitaḥ paṇaḥ |  
-yathā dhanyādharoṣṭhena  
-hārito’pi jitaṃ mayā ||1068||  
+तथा गृहीतस् तन्वङ्ग्या   
+विजयोपार्जितः पणः ।  
+यथा धन्याधरोष्ठेन  
+हारितो’पि जितं मया ॥१०६८॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-akṣadeva na paṇīkṛte’dhare  
-kāntayor jayaparājaye sati |  
-atra veti yadi vakti manmathaḥ  
-kas tayor jayati jīyate’pi vā ||1069||  
+अक्षदेव न पणीकृते’धरे  
+कान्तयोर् जयपराजये सति ।  
+अत्र वेति यदि वक्ति मन्मथः  
+कस् तयोर् जयति जीयते’पि वा ॥१०६९॥  
 
 
-kāśmīrakajayavardhanasya | (Sv 2048, sū.mu. 75.8)  
+काश्मीरकजयवर्धनस्य । (स्व् २०४८, सू।मु। ७५।८)  
 
 
-sotkaṇṭhā ca parāṅmukhī ca purato bālā sakhīkauśalād  
-akṣadyūtavidhau vijitya madanakrīḍāpaṇaṃ preyasaḥ |  
-sānandā jayato’pi jṛmbhitaghanavrīḍāpi sambhogitaḥ  
-saṃtyaktuṃ na ca yācituṃ na ca paricchede babhūva prabhuḥ ||1070||  
+सोत्कण्ठा च पराङ्मुखी च पुरतो बाला सखीकौशलाद्  
+अक्षद्यूतविधौ विजित्य मदनक्रीडापणं प्रेयसः ।  
+सानन्दा जयतो’पि जृम्भितघनव्रीडापि सम्भोगितः  
+संत्यक्तुं न च याचितुं न च परिच्छेदे बभूव प्रभुः ॥१०७०॥  
 
 
-jalacandrasya |  
+जलचन्द्रस्य ।  
 
 
-120. dṛṣṭiḥ  
+१२०। दृष्टिः  
 
 
-niravadhirakūpāraḥ pītaḥ purā muninā muhur  
-nijakarapuṭotsaṅgenedaṃ mṛṣodyam abhūd api |  
-yadi na viduṣāṃ dhairyāmbhodhiṃ gabhīram avajñayā   
-nayananalinīnālākṛṣṭaṃ pibanti mṛgadṛśaḥ ||1071||  
+निरवधिरकूपारः पीतः पुरा मुनिना मुहुर्  
+निजकरपुटोत्सङ्गेनेदं मृषोद्यम् अभूद् अपि ।  
+यदि न विदुषां धैर्याम्भोधिं गभीरम् अवज्ञया   
+नयननलिनीनालाकृष्टं पिबन्ति मृगदृशः ॥१०७१॥  
 
 
-dharmayogeśvarasya |  
+धर्मयोगेश्वरस्य ।  
 
 
-preyāṃsam īkṣitum athekṣaṇatārakasya  
-dūrād apāṅgapadavīm abhidhāvato’syāḥ |  
-ānandabāṣpajalabindunibhena sāndrāḥ  
-svedāmbusīkarakaṇā iva saṃnipetuḥ ||1072||  
+प्रेयांसम् ईक्षितुम् अथेक्षणतारकस्य  
+दूराद् अपाङ्गपदवीम् अभिधावतो’स्याः ।  
+आनन्दबाष्पजलबिन्दुनिभेन सान्द्राः  
+स्वेदाम्बुसीकरकणा इव संनिपेतुः ॥१०७२॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-visphārāḥ prathamaṃ kutūhalavaśād utkṣiptapakṣmaśriyo  
-jātavrīḍam atho vinamrasaralāḥ kiṃcid vilolās tataḥ |  
-abhyāsaṃ punar ākalayya kalayā kāntaṃ kuraṅgīdṛśāṃ  
-siñcantīva sudhācchaṭābhir anṛjuprāgalbhyagarbhā dṛśaḥ ||1073||  
+विस्फाराः प्रथमं कुतूहलवशाद् उत्क्षिप्तपक्ष्मश्रियो  
+जातव्रीडम् अथो विनम्रसरलाः किंचिद् विलोलास् ततः ।  
+अभ्यासं पुनर् आकलय्य कलया कान्तं कुरङ्गीदृशां  
+सिञ्चन्तीव सुधाच्छटाभिर् अनृजुप्रागल्भ्यगर्भा दृशः ॥१०७३॥  
 
 
-vīryamitrasya |  
+वीर्यमित्रस्य ।  
 
 
-yad bhāna na madano na vidanti dūtyo  
-vāgdevatāpi na sukhaṃ yad api vyanakti |  
-tatkūṭagarvitadarasphuṭabhāvabhājo  
-vyākurvate mṛgadṛśāṃ dṛśa eva tattvam ||1074||  
+यद् भान न मदनो न विदन्ति दूत्यो  
+वाग्देवतापि न सुखं यद् अपि व्यनक्ति ।  
+तत्कूटगर्वितदरस्फुटभावभाजो  
+व्याकुर्वते मृगदृशां दृश एव तत्त्वम् ॥१०७४॥  
 
 
-kasyacit |  
-āścaryastimitāḥ kṣaṇaṃ kṣaṇam atha prītipramīlatpuṭā  
-vātāndolitapaṅkajātasumanaḥpīyūṣadhārāmucaḥ |  
-etāḥ kasya haranti hanta na manaḥ kiṃcit trapāmañjula   
-premapreraṇam atra mugdhamuracattārottarā dṛṣṭayaḥ ||1075||  
+कस्यचित् ।  
+आश्चर्यस्तिमिताः क्षणं क्षणम् अथ प्रीतिप्रमीलत्पुटा  
+वातान्दोलितपङ्कजातसुमनःपीयूषधारामुचः ।  
+एताः कस्य हरन्ति हन्त न मनः किंचित् त्रपामञ्जुल   
+प्रेमप्रेरणम् अत्र मुग्धमुरचत्तारोत्तरा दृष्टयः ॥१०७५॥  
 
 
-śaṅkaradharasya |  
+शङ्करधरस्य ।  
 
 
-121. kaṭākṣaḥ  
+१२१। कटाक्षः  
 
 
-praṇālīdīrghasya prasṛmarataraṅgasya suhṛdaḥ  
-kaṭākṣavyākṣepāḥ śiśuśapharaphālapratibhuvaḥ |  
-sudhāyāḥ sarvasvaṃ kusumadhanuṣo’smān prati sakhe  
-navaṃ netrādvaitaṃ kuvalayadṛśaḥ saṃnidadhati ||1076||  
+प्रणालीदीर्घस्य प्रसृमरतरङ्गस्य सुहृदः  
+कटाक्षव्याक्षेपाः शिशुशफरफालप्रतिभुवः ।  
+सुधायाः सर्वस्वं कुसुमधनुषो’स्मान् प्रति सखे  
+नवं नेत्राद्वैतं कुवलयदृशः संनिदधति ॥१०७६॥  
 
 
-rājaśekharasya | (vi.śā.bha. 4.18, su.ra. 520)  
+राजशेखरस्य । (वि।शा।भ। ४।१८, सु।र। ५२०)  
 
 
-tiṣṭhantyā janasaṅkule’pi sudṛśā sāyaṃ gṛhaprāṅgaṇe  
-tatkālaṃ mayi niḥsahālasatanau vīthyāṃ mṛdu preṅkhati |  
-hrīnamrānanayaiva lolasaralaṃ niśvasya tatrāntare  
-premārdrāḥ śaśikhaṇḍapāṇḍimamuṣo muktāḥ kaṭākṣacchṭāḥ ||1077||  
+तिष्ठन्त्या जनसङ्कुले’पि सुदृशा सायं गृहप्राङ्गणे  
+तत्कालं मयि निःसहालसतनौ वीथ्यां मृदु प्रेङ्खति ।  
+ह्रीनम्राननयैव लोलसरलं निश्वस्य तत्रान्तरे  
+प्रेमार्द्राः शशिखण्डपाण्डिममुषो मुक्ताः कटाक्षच्छ्टाः ॥१०७७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-upari kavarībandhagranthīn atha grathitāṅgulīn  
-nijabhujatale tiryak tanvyā vitatya vivṛttayā |  
-vivṛtavilasaddhāmāpāṅgastanārdhakapolayā  
-kuvalayadalasraksandigdhaśriyaḥ prahitā dṛśaḥ ||1078||  
+उपरि कवरीबन्धग्रन्थीन् अथ ग्रथिताङ्गुलीन्  
+निजभुजतले तिर्यक् तन्व्या वितत्य विवृत्तया ।  
+विवृतविलसद्धामापाङ्गस्तनार्धकपोलया  
+कुवलयदलस्रक्सन्दिग्धश्रियः प्रहिता दृशः ॥१०७८॥  
 
 
-parameśvarasya | (su.ra. 509)  
+परमेश्वरस्य । (सु।र। ५०९)  
 
 
-vaidagdhyakramabaddhamugdhahasitajyotsnāvaliptādhare  
-labdhā kiṃ nu kuraṅgaśāvanayane dīkṣā tvayā mānmathī |  
-līlānantaramanmathāḥ śaśimukhi kṣipyanta etāḥ kathaṃ  
-kundendīvaradīrghadāmataralasnigdhāḥ kaṭākṣacchaṭāḥ ||1079||  
+वैदग्ध्यक्रमबद्धमुग्धहसितज्योत्स्नावलिप्ताधरे  
+लब्धा किं नु कुरङ्गशावनयने दीक्षा त्वया मान्मथी ।  
+लीलानन्तरमन्मथाः शशिमुखि क्षिप्यन्त एताः कथं  
+कुन्देन्दीवरदीर्घदामतरलस्निग्धाः कटाक्षच्छटाः ॥१०७९॥  
 
 
-bhaṅgurasya |  
+भङ्गुरस्य ।  
 
 
-svacchandaṃ mīnaketor yuvajanamṛgayājātakautūhalasya   
-jātābandhāvagacchaty adhigatagarimā kārmukottaṃsalakṣmīm |  
-yāvallolākṣi nāyaṃ pratiphalati balaccandrikākarburāntaḥ  
-kālindīvīcimaitrīm avatarati tavāgotrasākṣī kaṭākṣaḥ ||1080||  
+स्वच्छन्दं मीनकेतोर् युवजनमृगयाजातकौतूहलस्य   
+जाताबन्धावगच्छत्य् अधिगतगरिमा कार्मुकोत्तंसलक्ष्मीम् ।  
+यावल्लोलाक्षि नायं प्रतिफलति बलच्चन्द्रिकाकर्बुरान्तः  
+कालिन्दीवीचिमैत्रीम् अवतरति तवागोत्रसाक्षी कटाक्षः ॥१०८०॥  
 
 
-jalacandrasya |  
-122. nāyikācāṭuḥ  
+जलचन्द्रस्य ।  
+१२२। नायिकाचाटुः  
 
 
-pāṇau padmadhiyā madhūkakusumabhrāntyā tathā gaṇḍayor  
-nīlendīvaraśaṅkayā nayanayor bandhūkabuddhyādhare |  
-līyante kavarīṣu bāndhavajanavyāmohajātaspṛhā   
-durvārā madhupāḥ kiyanti taruṇi sthānāni rakṣiṣyasi ||1081||  
+पाणौ पद्मधिया मधूककुसुमभ्रान्त्या तथा गण्डयोर्  
+नीलेन्दीवरशङ्कया नयनयोर् बन्धूकबुद्ध्याधरे ।  
+लीयन्ते कवरीषु बान्धवजनव्यामोहजातस्पृहा   
+दुर्वारा मधुपाः कियन्ति तरुणि स्थानानि रक्षिष्यसि ॥१०८१॥  
 
 
-pāṇineḥ | (su.ra. 451, sū.mu. 65.10)  
+पाणिनेः । (सु।र। ४५१, सू।मु। ६५।१०)  
 
 
-śoṇas te’dharapallavo madhumatī kāntir giro narmadā  
-dṛṣṭir divyataraṅgiṇīva vadanaśrīś candrabhāgopamā |  
-gambhīrā nalinākṣi nābhir api cet tad dehadāhajvara  
-cchedāya kṣaṇamātram ambujamukhi tvaṃ bāhudā me bhava ||1082||  
+शोणस् ते’धरपल्लवो मधुमती कान्तिर् गिरो नर्मदा  
+दृष्टिर् दिव्यतरङ्गिणीव वदनश्रीश् चन्द्रभागोपमा ।  
+गम्भीरा नलिनाक्षि नाभिर् अपि चेत् तद् देहदाहज्वर  
+च्छेदाय क्षणमात्रम् अम्बुजमुखि त्वं बाहुदा मे भव ॥१०८२॥  
 
 
-daṅkasya |  
+दङ्कस्य ।  
 
 
-mugdhe nārjunatāṃ jahāti nayanaṃ madhye tathā kṛṣṇatāṃ  
-dve rūpe dadhatāmunā viracitaḥ karṇena te vigrahaḥ |  
-tat kṛṣṇārjunakarṇavigrahavatī sākṣāt kurukṣetratāṃ  
-yātāsi tvadavāptir eva taruṇi śreyaḥ kim anyat param ||1083||  
+मुग्धे नार्जुनतां जहाति नयनं मध्ये तथा कृष्णतां  
+द्वे रूपे दधतामुना विरचितः कर्णेन ते विग्रहः ।  
+तत् कृष्णार्जुनकर्णविग्रहवती साक्षात् कुरुक्षेत्रतां  
+यातासि त्वदवाप्तिर् एव तरुणि श्रेयः किम् अन्यत् परम् ॥१०८३॥  
 
 
-satyabodhasya |  
+सत्यबोधस्य ।  
 
 
-tava nayanavan nīlāmbhojaṃ tavānanavac chaśī  
-tava hasitavaj jyotsnādyotas tavoditavat sudhā |  
-subhagamadhurābhogais tava varāṅgakavīkṣitaiḥ  
-praṇayini jagatsaṃbhārāṇāṃ tvam ity upamāspadam ||1084||  
+तव नयनवन् नीलाम्भोजं तवाननवच् छशी  
+तव हसितवज् ज्योत्स्नाद्योतस् तवोदितवत् सुधा ।  
+सुभगमधुराभोगैस् तव वराङ्गकवीक्षितैः  
+प्रणयिनि जगत्संभाराणां त्वम् इत्य् उपमास्पदम् ॥१०८४॥  
 
 
-priyaṃvadasya |  
+प्रियंवदस्य ।  
 
 
-svarge svargād api samadhike sādhanaṃ bodhayantaḥ  
-santu prītyai mama punar amī tanvi khedāya vedāḥ |  
-yeṣāṃ madhye kathayati na ced īdṛśaḥ ko’py upāya  
-khedāpāyaḥ praṇayivacanapreṣyatāṃ yena yāmi ||1085||  
+स्वर्गे स्वर्गाद् अपि समधिके साधनं बोधयन्तः  
+सन्तु प्रीत्यै मम पुनर् अमी तन्वि खेदाय वेदाः ।  
+येषां मध्ये कथयति न चेद् ईदृशः को’प्य् उपाय  
+खेदापायः प्रणयिवचनप्रेष्यतां येन यामि ॥१०८५॥  
 
 
-sāgarasya |  
-123. madhupānam  
+सागरस्य ।  
+१२३। मधुपानम्  
 
 
-ardhapītamadirā maṇipārī   
-śobhatāṃ katham atīva taruṇyāḥ |  
-cumbitair adhikapāṭalabhāsā   
-pūritādharamayūkhabhareṇa ||1086||  
+अर्धपीतमदिरा मणिपारी   
+शोभतां कथम् अतीव तरुण्याः ।  
+चुम्बितैर् अधिकपाटलभासा   
+पूरिताधरमयूखभरेण ॥१०८६॥  
 
 
-jayamādhavasya | (Sv 2017)  
+जयमाधवस्य । (स्व् २०१७)  
 
 
-saṃkrāntam ānanam avekṣya mṛgekṣaṇāyāḥ  
-paryāṃ calannayanamāsavapūritāyām |  
-sendīvaraṃ kamalam ity avagamya dūrād  
-bhṛṅgo mamajja sahasaiva yathārthanāmā ||1087||  
+संक्रान्तम् आननम् अवेक्ष्य मृगेक्षणायाः  
+पर्यां चलन्नयनमासवपूरितायाम् ।  
+सेन्दीवरं कमलम् इत्य् अवगम्य दूराद्  
+भृङ्गो ममज्ज सहसैव यथार्थनामा ॥१०८७॥  
 
 
-kāśmīrapracaṇḍamādhavasya | (Sv 2020)  
+काश्मीरप्रचण्डमाधवस्य । (स्व् २०२०)  
 
 
-kāntānanādhararasāmṛtatṛṣṇayeva  
-bimbaṃ papāta śaśino madhubhājane yat |  
-niḥśeṣite madhuni lajjitacittavṛtti  
-tat tanmukhābjajitakāntitayā vinaṣṭam ||1088||  
+कान्ताननाधररसामृततृष्णयेव  
+बिम्बं पपात शशिनो मधुभाजने यत् ।  
+निःशेषिते मधुनि लज्जितचित्तवृत्ति  
+तत् तन्मुखाब्जजितकान्तितया विनष्टम् ॥१०८८॥  
 
 
-vibhākaraśarmaṇaḥ | (Sv 2018, sū.mu. 73.5)  
+विभाकरशर्मणः । (स्व् २०१८, सू।मु। ७३।५)  
 
 
-pītas tuṣārakiraṇo madhunaiva sārdham  
-antaḥ praviśya caṣake pratibimbavartī |  
-mānāndhakāram api mānavatījanasya  
-nūnaṃ bibheda yad asau prasasāda sadyaḥ ||1089||  
+पीतस् तुषारकिरणो मधुनैव सार्धम्  
+अन्तः प्रविश्य चषके प्रतिबिम्बवर्ती ।  
+मानान्धकारम् अपि मानवतीजनस्य  
+नूनं बिभेद यद् असौ प्रससाद सद्यः ॥१०८९॥  
 
 
-[amaru 49, Sbh 2022, śā.pa. 3648]  
+[अमरु ४९, स्भ् २०२२, शा।प। ३६४८]  
 
 
-lalitakaṇṭhaniveśitadorlataḥ   
-karatalākalitaikapayodharaḥ |  
-mṛgadṛśo daśanacchadavāsitaṃ  
-madhu papau madanotsava īśvaraḥ ||1090||  
+ललितकण्ठनिवेशितदोर्लतः   
+करतलाकलितैकपयोधरः ।  
+मृगदृशो दशनच्छदवासितं  
+मधु पपौ मदनोत्सव ईश्वरः ॥१०९०॥  
 
 
-muñjasya |  
-125. śayanādhirohaṇam  
+मुञ्जस्य ।  
+१२५। शयनाधिरोहणम्  
 
 
-atha ratirabhasād alīkanidrā  
-madhuravighūrṇitalocanotpalābhiḥ |  
-śayanatalam aśiśiryan vadhūbhiḥ  
-saha madamanmathamantharā yuvānaḥ ||1091||  
+अथ रतिरभसाद् अलीकनिद्रा  
+मधुरविघूर्णितलोचनोत्पलाभिः ।  
+शयनतलम् अशिशिर्यन् वधूभिः  
+सह मदमन्मथमन्थरा युवानः ॥१०९१॥  
 
 
-ratnākarasya |  
+रत्नाकरस्य ।  
 
 
-pratyaṅgaṃ prati karma narmaparayā kṛtvādhirūḍhaṃ smarād  
-autsukyaṃ pravilokya mohanavidhau cāturyam ālokya ca |  
-sadyo yāvakamaṇḍanaṃ na racitaṃ pāde kuraṅgīdṛśā  
-smerāntā viśadacchade ca śayane dṛṣṭiḥ samāropitā ||1092||  
+प्रत्यङ्गं प्रति कर्म नर्मपरया कृत्वाधिरूढं स्मराद्  
+औत्सुक्यं प्रविलोक्य मोहनविधौ चातुर्यम् आलोक्य च ।  
+सद्यो यावकमण्डनं न रचितं पादे कुरङ्गीदृशा  
+स्मेरान्ता विशदच्छदे च शयने दृष्टिः समारोपिता ॥१०९२॥  
 
 
-rājaśekharasya | (śṛ.ti. 2.67b)  
+राजशेखरस्य । (शृ।ति। २।६७ब्)  
 
 
-paryaṅkāṅkatalaṃ gate ratir asāvyaktakramaṃ vallabhe  
-tadbhāvāvagatau tayāpi rataye svaṃ cittam āviṣkṛtam |  
-nātte yan maṇikuṇḍale parihṛto hāraḥ samaṃ kaṅkaṇaiḥ  
-kāñcīdāma nirākṛtaṃ vicakilaiḥ kÿptaś ca no śekharaḥ ||1093||  
+पर्यङ्काङ्कतलं गते रतिर् असाव्यक्तक्रमं वल्लभे  
+तद्भावावगतौ तयापि रतये स्वं चित्तम् आविष्कृतम् ।  
+नात्ते यन् मणिकुण्डले परिहृतो हारः समं कङ्कणैः  
+काञ्चीदाम निराकृतं विचकिलैः क्ÿप्तश् च नो शेखरः ॥१०९३॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-kāñcyā gāḍhatarāvaruddhavasanaprāntā kim arthaṃ punar  
-mugdhākṣī svaiptīti tatparijanaṃ svairaṃ priye pṛcchati |  
-mātaḥ svaptum apīha vārayati mām ityāhitakrodhayā  
-paryasya svapiticchalena śayane datto’vakāśas tayā ||1094||  
+काञ्च्या गाढतरावरुद्धवसनप्रान्ता किम् अर्थं पुनर्  
+मुग्धाक्षी स्वैप्तीति तत्परिजनं स्वैरं प्रिये पृच्छति ।  
+मातः स्वप्तुम् अपीह वारयति माम् इत्याहितक्रोधया  
+पर्यस्य स्वपितिच्छलेन शयने दत्तो’वकाशस् तया ॥१०९४॥  
 
 
-amaroḥ [amaru 18, Sbh 2081, sū.mu. 77.11]  
+अमरोः [अमरु १८, स्भ् २०८१, सू।मु। ७७।११]  
 
 
-tatra haṃsadhavalottaracchadaṃ  
-jāhvaīpulinacārudarśanam |  
-adhyaśeta śayanaṃ priyāsakhaḥ  
-śāradābhram iva rohiṇīpatiḥ ||1095||  
+तत्र हंसधवलोत्तरच्छदं  
+जाह्वईपुलिनचारुदर्शनम् ।  
+अध्यशेत शयनं प्रियासखः  
+शारदाभ्रम् इव रोहिणीपतिः ॥१०९५॥  
 
 
-kālidāsasya | (Ks 8.82)  
+कालिदासस्य । (क्स् ८।८२)  
 
 
-125. āliṅganam  
+१२५। आलिङ्गनम्  
 
 
-udbhinnasāttvikavikārapariplavāni  
-sadyas tiraskṛtamanobhavavedanāni |  
-tanvi tvada gaparirambhasukhāmṛtāni  
-prādurbhavantu punarāgatajīvitāni ||1096||  
+उद्भिन्नसात्त्विकविकारपरिप्लवानि  
+सद्यस् तिरस्कृतमनोभववेदनानि ।  
+तन्वि त्वद गपरिरम्भसुखामृतानि  
+प्रादुर्भवन्तु पुनरागतजीवितानि ॥१०९६॥  
 
 
-kasyacit | (Ks 8.82)  
+कस्यचित् । (क्स् ८।८२)  
 
 
-samaiva sarvatra caritrapaddhatir  
-nijaḥ puro vā guṇināṃ na vidyate |  
-cakāra hāraḥ # # # # # # #  
-yataḥ parīrambhavidhau dvayor api ||1097||  
+समैव सर्वत्र चरित्रपद्धतिर्  
+निजः पुरो वा गुणिनां न विद्यते ।  
+चकार हारः # # # # # # #  
+यतः परीरम्भविधौ द्वयोर् अपि ॥१०९७॥  
 
 
-nārāyaṇasya |  
+नारायणस्य ।  
 
 
-draṣṭuṃ ketakagarbhapatrasubhagām ûruprabhām utsukas  
-tatsaṃvāhanalīlayā ca śanakair utkṣiptacaṇḍātakaḥ |  
-lajjāmugdhavilocanaṃ smitasudhānirdhautabimbādharaṃ  
-kiṃcid viślathabāhubandhanam asāv āliṅgito bālayā ||1098||  
+द्रष्टुं केतकगर्भपत्रसुभगाम् ûरुप्रभाम् उत्सुकस्  
+तत्संवाहनलीलया च शनकैर् उत्क्षिप्तचण्डातकः ।  
+लज्जामुग्धविलोचनं स्मितसुधानिर्धौतबिम्बाधरं  
+किंचिद् विश्लथबाहुबन्धनम् असाव् आलिङ्गितो बालया ॥१०९८॥  
 
 
-kasyacit | (su.ra. 601)  
+कस्यचित् । (सु।र। ६०१)  
 
 
-bhayamukulitacakṣuḥ saṃtatotkampanīvī  
-maṇimukharitakāñciḥ śvāsaśuṣyanmukhaśrīḥ |  
-aśithilabhujabandhanyāsaniḥśaṅkalagnā   
-mama vapuṣi viśantīvāyatākṣī dhinoti ||1099||  
+भयमुकुलितचक्षुः संततोत्कम्पनीवी  
+मणिमुखरितकाञ्चिः श्वासशुष्यन्मुखश्रीः ।  
+अशिथिलभुजबन्धन्यासनिःशङ्कलग्ना   
+मम वपुषि विशन्तीवायताक्षी धिनोति ॥१०९९॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-ānandānatamīlitākṣiyugalaṃ kiṃ tvaṃ mudhā tiṣṭhasi  
-jñāto’si prakaṭaprakampapulakair aṅgaiḥ sthitaṃ mugdhayā |  
-muñcaināṃ jaḍa kiṃ na paśyasi galadbāṣpāmbudhautānanāṃ  
-sakhyaivaṃ gadite vimucya rabhasāt kaṇṭhe vilagno mayā ||1100||  
+आनन्दानतमीलिताक्षियुगलं किं त्वं मुधा तिष्ठसि  
+ज्ञातो’सि प्रकटप्रकम्पपुलकैर् अङ्गैः स्थितं मुग्धया ।  
+मुञ्चैनां जड किं न पश्यसि गलद्बाष्पाम्बुधौताननां  
+सख्यैवं गदिते विमुच्य रभसात् कण्ठे विलग्नो मया ॥११००॥  
 
 
-kasyāpi |  
+कस्यापि ।  
 
 
-126. cumbanam  
+१२६। चुम्बनम्  
 
 
-rasavad amṛtaṃ kaḥ sandeho madhūny api nānyathā  
-madhuram adhikaṃ cūtasyāpi prasannarasaṃ phalam |  
-sakṛd api punar madhyasthaḥ san rasāntaravijjano  
-vadatu yad ihānyat svādu syāt priyāradanacchadāt ||1101||  
+रसवद् अमृतं कः सन्देहो मधून्य् अपि नान्यथा  
+मधुरम् अधिकं चूतस्यापि प्रसन्नरसं फलम् ।  
+सकृद् अपि पुनर् मध्यस्थः सन् रसान्तरविज्जनो  
+वदतु यद् इहान्यत् स्वादु स्यात् प्रियारदनच्छदात् ॥११०१॥  
 
 
-kasyacit | (sa.ka.ā. 1.110, Sv 1511, su.ra. 529, śā.pa. 3312, sū.mu. 53.21)  
+कस्यचित् । (स।क।आ। १।११०, स्व् १५११, सु।र। ५२९, शा।प। ३३१२, सू।मु। ५३।२१)  
 
 
-kiyantaṃ citkālaṃ daśanapadabhītādharadalaṃ  
-lalāṭaprasvedaskhaladalakam uttālanayanam |  
-niṣedhānujñātaṃ pulakitakapolaṃ priyatamo  
-vadhūvaktrāmbhojaṃ rasayati ca nirvarṇayati ca ||1102||  
+कियन्तं चित्कालं दशनपदभीताधरदलं  
+ललाटप्रस्वेदस्खलदलकम् उत्तालनयनम् ।  
+निषेधानुज्ञातं पुलकितकपोलं प्रियतमो  
+वधूवक्त्राम्भोजं रसयति च निर्वर्णयति च ॥११०२॥  
 
 
-abhinandasya |  
+अभिनन्दस्य ।  
 
 
-phalam alaghu kiṃ līlāvallyā gṛhaṃ nu guṇaśriyām  
-amṛtamathavaikasthaṃ piṇḍīkṛtaṃ na rasāyanam |  
-nidhir uta rateḥ sarvasvaṃ vā vilāsavidheḥ priyair   
-iti na lalanābimboṣṭhānāṃ rasaḥ paricicchide ||1103||  
+फलम् अलघु किं लीलावल्ल्या गृहं नु गुणश्रियाम्  
+अमृतमथवैकस्थं पिण्डीकृतं न रसायनम् ।  
+निधिर् उत रतेः सर्वस्वं वा विलासविधेः प्रियैर्   
+इति न ललनाबिम्बोष्ठानां रसः परिचिच्छिदे ॥११०३॥  
 
 
-śivasvāminaḥ |  
+शिवस्वामिनः ।  
 
 
-śūnyaṃ vāsagṛhaṃ vilokya śayanād utthāya kiṃcic chanair  
-nidrāvyājam upāgatasya suciraṃ nirvarṇya patyur mukham |  
-visrabdhaṃ paricumbya jātapulakām ālokya gaṇḍashtalīṃ  
-lajjānamramukhī priyeṇa hasatā bālā ciraṃ cumbitā ||1104||  
+शून्यं वासगृहं विलोक्य शयनाद् उत्थाय किंचिच् छनैर्  
+निद्राव्याजम् उपागतस्य सुचिरं निर्वर्ण्य पत्युर् मुखम् ।  
+विस्रब्धं परिचुम्ब्य जातपुलकाम् आलोक्य गण्डस्ह्तलीं  
+लज्जानम्रमुखी प्रियेण हसता बाला चिरं चुम्बिता ॥११०४॥  
 
 
-amaroḥ | (As 68, Sv 2113, sā.da.. 1.3)  
+अमरोः । (अस् ६८, स्व् २११३, सा।द॥ १।३)  
 
 
-sandaṣṭādharapallavā sacakitaṃ hastāgram ādhunvatī  
-mām āmuñca śaṭheti kopavacanair ānartitabhrūlatā |  
-śītkārāñcitalocanā sarabhasaṃ yaiś cumbitā māninī  
-prāptaṃ tair amṛtaṃ mudhaiva mathito mūḍhaiḥ suraiḥ sāgaraḥ ||1105||  
+सन्दष्टाधरपल्लवा सचकितं हस्ताग्रम् आधुन्वती  
+माम् आमुञ्च शठेति कोपवचनैर् आनर्तितभ्रूलता ।  
+शीत्काराञ्चितलोचना सरभसं यैश् चुम्बिता मानिनी  
+प्राप्तं तैर् अमृतं मुधैव मथितो मूढैः सुरैः सागरः ॥११०५॥  
 
 
-[amaru 32, Sbh 1303, śā.pa. 3668]  
+[अमरु ३२, स्भ् १३०३, शा।प। ३६६८]  
 
 
-127. adharakhaṇḍanam  
+१२७। अधरखण्डनम्  
 
 
-dṛśā sapadi mīlitaṃ daśanarociṣā nirgataṃ  
-kareṇa parivepitaṃ valayakais tathā kranditam |  
-priyaiḥ sapadi yoṣitāṃ nanu vikhaṇḍyamāne’dhare  
-paravyasanakātarāḥ kim u na kurvate sādhavaḥ ||1106||  
+दृशा सपदि मीलितं दशनरोचिषा निर्गतं  
+करेण परिवेपितं वलयकैस् तथा क्रन्दितम् ।  
+प्रियैः सपदि योषितां ननु विखण्ड्यमाने’धरे  
+परव्यसनकातराः किम् उ न कुर्वते साधवः ॥११०६॥  
 
 
-kasyacit | (Sv 2097, śā.pa. 3684, sū.mu. 78.13)  
+कस्यचित् । (स्व् २०९७, शा।प। ३६८४, सू।मु। ७८।१३)  
 
 
-salīlanirdhūtakarāravinda  
-sītkārasaṃdhukṣitamanmathāyāḥ |  
-jagrāha bimbādharamūḍharāgaṃ   
-rāgaṃ ramaṇyā hṛdayaṃ ca kāntaḥ ||1107||  
+सलीलनिर्धूतकरारविन्द  
+सीत्कारसंधुक्षितमन्मथायाः ।  
+जग्राह बिम्बाधरमूढरागं   
+रागं रमण्या हृदयं च कान्तः ॥११०७॥  
 
 
-ratnākarasya |  
+रत्नाकरस्य ।  
 
 
-yaddantadaṣṭadaśanacchadanā cakāra  
-sītkāram ākulitanetrayugā mṛgākṣī |  
-manye tad etad adharāmṛtapānaseka  
-nirvāpyamāṇavirahajvaravahniśabdam ||1108||  
+यद्दन्तदष्टदशनच्छदना चकार  
+सीत्कारम् आकुलितनेत्रयुगा मृगाक्षी ।  
+मन्ये तद् एतद् अधरामृतपानसेक  
+निर्वाप्यमाणविरहज्वरवह्निशब्दम् ॥११०८॥  
 
 
-jayakaṇṭhasya |  
+जयकण्ठस्य ।  
 
 
-nāndīpadāni ratināṭakavighnaśāntāv  
-ājhākṣarāṇi paramāṇy athavā smarasya |  
-daṣṭe’dhare praṇayinā vidhūtāgrapāṇeḥ  
-sītkāraśuṣkaruditāni jayanti nāryāḥ ||1109||  
+नान्दीपदानि रतिनाटकविघ्नशान्ताव्  
+आझाक्षराणि परमाण्य् अथवा स्मरस्य ।  
+दष्टे’धरे प्रणयिना विधूताग्रपाणेः  
+सीत्कारशुष्करुदितानि जयन्ति नार्याः ॥११०९॥  
 
 
-vāmanasya | (sa.ka.ā. 2.381, da.rū. 2.40b, sū.mu. 78.4)  
+वामनस्य । (स।क।आ। २।३८१, द।रू। २।४०ब्, सू।मु। ७८।४)  
 
 
-saṃdaṣṭe’dharapallave praṇayinā hastāmbujavyādhuti  
-preṅkhitkāñcanankaṅkaṇāvalikalavyāhāramiśraśriyaḥ |  
-sītkārā hṛdayaspṛśo ratiraṇakrīḍāsu vāmabhruvāṃ  
-rājante vijayoddhurasmaracamūkṣveḍā ninādā iva ||1110||  
+संदष्टे’धरपल्लवे प्रणयिना हस्ताम्बुजव्याधुति  
+प्रेङ्खित्काञ्चनन्कङ्कणावलिकलव्याहारमिश्रश्रियः ।  
+सीत्कारा हृदयस्पृशो रतिरणक्रीडासु वामभ्रुवां  
+राजन्ते विजयोद्धुरस्मरचमूक्ष्वेडा निनादा इव ॥१११०॥  
 
 
-yuvatīsambhogakārasya |  
+युवतीसम्भोगकारस्य ।  
 
 
-128. navakṣatam  
+१२८। नवक्षतम्  
 
 
-rājanti kāntanakharakṣatayo mṛgākṣyā  
-lākṣārasadravamucaḥ kucayor upānte |  
-antaḥpravṛddhamakaradhvajapāvakasya  
-śaṅke vibhidya hṛdayaṃ niraguḥ sphuliṅgāḥ ||1111||  
+राजन्ति कान्तनखरक्षतयो मृगाक्ष्या  
+लाक्षारसद्रवमुचः कुचयोर् उपान्ते ।  
+अन्तःप्रवृद्धमकरध्वजपावकस्य  
+शङ्के विभिद्य हृदयं निरगुः स्फुलिङ्गाः ॥११११॥  
 
 
-kasyāpi | (su.ra. 612)  
+कस्यापि । (सु।र। ६१२)  
 
 
-jayanti kāntāstanamaṇḍaleṣu  
-viṭārpitāny ārdranakhakṣatāni |  
-lāvaṇyasambhāranidhānakumbhe  
-mudrākṣarāṇīva manobhavasya ||1112||  
+जयन्ति कान्तास्तनमण्डलेषु  
+विटार्पितान्य् आर्द्रनखक्षतानि ।  
+लावण्यसम्भारनिधानकुम्भे  
+मुद्राक्षराणीव मनोभवस्य ॥१११२॥  
 
 
-kasyacit | (Sv 1541, su.ra. 613)  
+कस्यचित् । (स्व् १५४१, सु।र। ६१३)  
 
 
-pīnatuṅgakaṭhinastanāntare  
-kāntadattam abalā nakhakṣatam |  
-āvṛṇoti vivṛṇoti vīkṣate  
-labdharatnam iva nirdhano janaḥ ||1113||  
+पीनतुङ्गकठिनस्तनान्तरे  
+कान्तदत्तम् अबला नखक्षतम् ।  
+आवृणोति विवृणोति वीक्षते  
+लब्धरत्नम् इव निर्धनो जनः ॥१११३॥  
 
 
-kasyacit | (su.ra. 615)  
+कस्यचित् । (सु।र। ६१५)  
 
 
-nakhakṣataṃ yan navacandrasannibhaṃ  
-sthitaṃ kṛśāṅgi stanamaṇḍale tava |  
-idaṃ tarītuṃ trivalītaraṅgiṇīṃ  
-virājate pañcaśarasya naur iva ||1114||  
+नखक्षतं यन् नवचन्द्रसन्निभं  
+स्थितं कृशाङ्गि स्तनमण्डले तव ।  
+इदं तरीतुं त्रिवलीतरङ्गिणीं  
+विराजते पञ्चशरस्य नौर् इव ॥१११४॥  
 
 
-kasyacit | (su.ra. 623)  
+कस्यचित् । (सु।र। ६२३)  
 
 
-kāśmīrapaṅkakhacitastanapṛṣṭhatāmra  
-paṭṭāvakīrṇadayitārdranakhakṣatālī |  
-eṇīdṛśaḥ kusumacāpanarendradattā  
-jaitrapraśastir iva citralipir vibhāti ||1115||  
+काश्मीरपङ्कखचितस्तनपृष्ठताम्र  
+पट्टावकीर्णदयितार्द्रनखक्षताली ।  
+एणीदृशः कुसुमचापनरेन्द्रदत्ता  
+जैत्रप्रशस्तिर् इव चित्रलिपिर् विभाति ॥१११५॥  
 
 
-dakṣasya | (su.ra. 628)  
+दक्षस्य । (सु।र। ६२८)  
 
 
-129. kaṇṭhakūjitam  
+१२९। कण्ठकूजितम्  
 
 
-kānte vicitrasuratakramabaddharāge  
-saṅketake’pi mṛgaśāvakalocanāyāḥ |  
-tatkūjitaṃ kim api yena tadīyatalpaṃ  
-nālpaiḥ parītam anuśabditalāvakaughaiḥ ||1116||  
+कान्ते विचित्रसुरतक्रमबद्धरागे  
+सङ्केतके’पि मृगशावकलोचनायाः ।  
+तत्कूजितं किम् अपि येन तदीयतल्पं  
+नाल्पैः परीतम् अनुशब्दितलावकौघैः ॥१११६॥  
 
 
-rudraṭasya | (śṛ.ti. 1.22f)  
+रुद्रटस्य । (शृ।ति। १।२२ड़्)  
 
 
-kānte tathā katham api prathitaṃ mṛgākṣyā  
-cāturyam uddhatamanobhavayā rateṣu |  
-tatkūjitāny anuvadadbhir anekavāraṃ  
-śiṣyāyitaṃ gṛhakapotaśatair yathāsyāḥ ||1117||  
+कान्ते तथा कथम् अपि प्रथितं मृगाक्ष्या  
+चातुर्यम् उद्धतमनोभवया रतेषु ।  
+तत्कूजितान्य् अनुवदद्भिर् अनेकवारं  
+शिष्यायितं गृहकपोतशतैर् यथास्याः ॥१११७॥  
 
 
-kasyāpi |   
+कस्यापि ।   
 
 
-11181120 na dattāḥ |  
+१११८११२० न दत्ताः ।  
 
 
-130. vastrākarṣaḥ  
+१३०। वस्त्राकर्षः  
 
 
-aṃsākṛṣṭadukūlayā sarabhasaṃ gūḍhau bhujābhyāṃ stanāv  
-ākṛṣṭe jaghanāṃśuke kṛtam adhaḥ saṃsaktam ūrudvayam |  
-nābhīmūlanibaddhacakṣuṣi tayā brīḍānatāṅgyā priye  
-dīpaḥ phūtkṛtivātavepitaśikhaḥ karṇotphalenāhataḥ ||1121||  
+अंसाकृष्टदुकूलया सरभसं गूढौ भुजाभ्यां स्तनाव्  
+आकृष्टे जघनांशुके कृतम् अधः संसक्तम् ऊरुद्वयम् ।  
+नाभीमूलनिबद्धचक्षुषि तया ब्रीडानताङ्ग्या प्रिये  
+दीपः फूत्कृतिवातवेपितशिखः कर्णोत्फलेनाहतः ॥११२१॥  
 
 
-karṇotpalasya | (su.ra. 570, śā.pa. 3674)  
+कर्णोत्पलस्य । (सु।र। ५७०, शा।प। ३६७४)  
 
 
-samākṛṣṭaṃ vāsaḥ katham api haṭhāt paśyati tadā  
-kramād ūrudvandvaṃ jaraṭhaśaragauraṃ mṛgadṛśaḥ |  
-tayā dṛṣṭiṃ dattvā mahati maṇidīpe nipuṇayā  
-niruddhaṃ hastābhyāṃ jhagiti nijanetrotpalayugam ||1122||  
+समाकृष्टं वासः कथम् अपि हठात् पश्यति तदा  
+क्रमाद् ऊरुद्वन्द्वं जरठशरगौरं मृगदृशः ।  
+तया दृष्टिं दत्त्वा महति मणिदीपे निपुणया  
+निरुद्धं हस्ताभ्यां झगिति निजनेत्रोत्पलयुगम् ॥११२२॥  
 
 
-kasyacit | (śā.pa. 3677, sū.mu. 77.5, su.ra. 579)  
+कस्यचित् । (शा।प। ३६७७, सू।मु। ७७।५, सु।र। ५७९)  
 
 
-ambaraṃ vinayataḥ priyapāṇer  
-yoṣitaś cakorayoḥ kalahasya |  
-vārāṇām iva vidhātum abhīkṣṇaṃ  
-kakṣayā ca valayaiś ca śiśiñje ||1123||  
+अम्बरं विनयतः प्रियपाणेर्  
+योषितश् चकोरयोः कलहस्य ।  
+वाराणाम् इव विधातुम् अभीक्ष्णं  
+कक्षया च वलयैश् च शिशिञ्जे ॥११२३॥  
 
 
-māghasya | (Sv 10.62)  
+माघस्य । (स्व् १०।६२)  
 
 
-11241125 na dattau |  
-131. navoḍhasambhogaḥ  
+११२४११२५ न दत्तौ ।  
+१३१। नवोढसम्भोगः  
 
 
-dṛṣṭā dṛṣṭim adho dadāti kurute nālāpam ābhāṣitā  
-śayyāyāṃ parivṛtya tiṣṭhati balād āliṅgitā vepate |  
-niryāntīṣu sakhīṣu vāsabhavanān nirgantum evehate  
-jātā vāmatayaiva samprati mama prītyai navoḍhā priyā ||1126||  
+दृष्टा दृष्टिम् अधो ददाति कुरुते नालापम् आभाषिता  
+शय्यायां परिवृत्य तिष्ठति बलाद् आलिङ्गिता वेपते ।  
+निर्यान्तीषु सखीषु वासभवनान् निर्गन्तुम् एवेहते  
+जाता वामतयैव सम्प्रति मम प्रीत्यै नवोढा प्रिया ॥११२६॥  
 
 
-śrīharṣadevasya | (Nn 3.4, Sv 2072, su.ra. 469, śā.pa. 3672, sū.mu. 77.2)  
+श्रीहर्षदेवस्य । (न्न् ३।४, स्व् २०७२, सु।र। ४६९, शा।प। ३६७२, सू।मु। ७७।२)  
 
 
-cumbaneṣu parivartitādharaṃ  
-hastarodhi raśanāvighaṭṭane |  
-vighniteccham api tasya sarvato  
-manmathendhanam abhūd vadhūratam ||1127||  
+चुम्बनेषु परिवर्तिताधरं  
+हस्तरोधि रशनाविघट्टने ।  
+विघ्नितेच्छम् अपि तस्य सर्वतो  
+मन्मथेन्धनम् अभूद् वधूरतम् ॥११२७॥  
 
 
-kālidāsasya | (śā.pa. 3676)  
+कालिदासस्य । (शा।प। ३६७६)  
 
 
-paṭālagne patyau namayati mukhaṃ jātavinayā  
-haṭhāśleṣaṃ vāñchaty apaharati gātrāṇi nibhṛtam |  
-na śaknoty ākhyātuṃ smitamukhasakhīdattanayanā  
-hriyā tāmyaty antaḥ prathamaparihāse navavadhūḥ ||1128||  
+पटालग्ने पत्यौ नमयति मुखं जातविनया  
+हठाश्लेषं वाञ्छत्य् अपहरति गात्राणि निभृतम् ।  
+न शक्नोत्य् आख्यातुं स्मितमुखसखीदत्तनयना  
+ह्रिया ताम्यत्य् अन्तः प्रथमपरिहासे नववधूः ॥११२८॥  
 
 
-amaroḥ | (amaru 38, Sv 2056, sa.ka.ā.m 512; śā.pa. 3673; Vishnudas to u.nī. 5.19)  
+अमरोः । (अमरु ३८, स्व् २०५६, स।क।आ।म् ५१२; शा।प। ३६७३; विस्ह्नुदस् तो उ।नी। ५।१९)  
 
 
-hastaṃ kampayate ruṇaddhi raśanāvyāpāralolāṅgulīḥ  
-svau hastau nayati stanāvaraṇatām āliṅgyamānā balāt |  
-pātuṃ pakṣmalanetram unnamayataḥ sācīkaroty ānanaṃ  
-vyājenāpy abhilāṣapūraṇasukhaṃ nirvartayaty eva me ||1129||  
+हस्तं कम्पयते रुणद्धि रशनाव्यापारलोलाङ्गुलीः  
+स्वौ हस्तौ नयति स्तनावरणताम् आलिङ्ग्यमाना बलात् ।  
+पातुं पक्ष्मलनेत्रम् उन्नमयतः साचीकरोत्य् आननं  
+व्याजेनाप्य् अभिलाषपूरणसुखं निर्वर्तयत्य् एव मे ॥११२९॥  
 
 
-kālidāsasya | (M 4.15)  
+कालिदासस्य । (म् ४।१५)  
 
 
-sakhīnāṃ śikṣābhiḥ katham api gatā vāsabhavanaṃ  
-tataḥ premālāpaiḥ śayanam upanītāpi vimukhī |  
-mayi krīḍārambhapraṇayini paraṃ vepathumatī   
-tathāpīyaṃ bālā hṛdayam adhikaṃ saṃmadayati ||1130||  
+सखीनां शिक्षाभिः कथम् अपि गता वासभवनं  
+ततः प्रेमालापैः शयनम् उपनीतापि विमुखी ।  
+मयि क्रीडारम्भप्रणयिनि परं वेपथुमती   
+तथापीयं बाला हृदयम् अधिकं संमदयति ॥११३०॥  
 
 
-śaṅkaradharasya |  
-132. ratārambhaḥ   
+शङ्करधरस्य ।  
+१३२। रतारम्भः   
 
 
-ānandodgatabāṣpapūrapihitaṃ cakṣuḥ kṣamaṃ nekṣituṃ  
-bāhū sīdata eva kampavidhurau śaktau na kaṇṭhagrahe |  
-vāṇī sambhramgadgadākṣarapadā saṃkṣobhalolaṃ manaḥ   
-satyaṃ vallabhasaṅgamo’pi sucirāj jāto viyogāyate ||1131||  
+आनन्दोद्गतबाष्पपूरपिहितं चक्षुः क्षमं नेक्षितुं  
+बाहू सीदत एव कम्पविधुरौ शक्तौ न कण्ठग्रहे ।  
+वाणी सम्भ्रम्गद्गदाक्षरपदा संक्षोभलोलं मनः   
+सत्यं वल्लभसङ्गमो’पि सुचिराज् जातो वियोगायते ॥११३१॥  
 
 
-kasyacit | (Sv 2065 śrīḍāmarasya; sū.mu. 54.10 kasyāpi; padyā. 380 śubhrasya)  
+कस्यचित् । (स्व् २०६५ श्रीडामरस्य; सू।मु। ५४।१० कस्यापि; पद्या। ३८० शुभ्रस्य)  
 
 
-anyonyasaṃvalitamāṃsaladantakānti   
-sollāsam āvir alasaṃ valitārdhatāram |  
-līlāgṛhe pratikalaṃ kilakiñciteṣu   
-vyāvartamānavinayaṃ mithunaṃ cakāsti ||1132||  
+अन्योन्यसंवलितमांसलदन्तकान्ति   
+सोल्लासम् आविर् अलसं वलितार्धतारम् ।  
+लीलागृहे प्रतिकलं किलकिञ्चितेषु   
+व्यावर्तमानविनयं मिथुनं चकास्ति ॥११३२॥  
 
 
-vāmanasya | (sa.ka.ā. 1.113)  
+वामनस्य । (स।क।आ। १।११३)  
 
 
-samāliṅgaty aṅgair apasarati yat preyasi vapuḥ   
-pidhātuṃ yad dṛśyaṃ ghaṭayati ghanāliṅganam api |  
-taopbhir bhūyobhiḥ kim u na kamanīyaṃ sukṛtinām   
-idaṃ ramyaṃ vāmyaṃ madanavivaśāyā mṛgadṛśaḥ ||1133||  
+समालिङ्गत्य् अङ्गैर् अपसरति यत् प्रेयसि वपुः   
+पिधातुं यद् दृश्यं घटयति घनालिङ्गनम् अपि ।  
+तओप्भिर् भूयोभिः किम् उ न कमनीयं सुकृतिनाम्   
+इदं रम्यं वाम्यं मदनविवशाया मृगदृशः ॥११३३॥  
 
 
-kasyacit | (su.ra. 565)  
+कस्यचित् । (सु।र। ५६५)  
 
 
-unmīlatpulakāṅkureṇa niviḍaleśanimeṣeṇa ca   
-krīḍākūtavilokite'dharasudhāpāne kathākelibhiḥ |   
-ānandādhigamena manmathakalāyuddhe'pi yasminn abhud   
-pratyūhaḥ na tayor babhūva suratārambhaḥ priyambhāvukaḥ ||1134||  
+उन्मीलत्पुलकाङ्कुरेण निविडलेशनिमेषेण च   
+क्रीडाकूतविलोकितेऽधरसुधापाने कथाकेलिभिः ।   
+आनन्दाधिगमेन मन्मथकलायुद्धेऽपि यस्मिन्न् अभुद्   
+प्रत्यूहः न तयोर् बभूव सुरतारम्भः प्रियम्भावुकः ॥११३४॥  
 
 
-jayadevasya | (GG 12.10)  
+जयदेवस्य । (ग्ग् १२।१०)  
 
 
-hastasvastikalāñchitāṃ kucataṭīṃ soḍhaḥ spṛśanmugdhayā  
-prasvidyadbalivallarīkam udaraṃ gacchan niruddho manāk |  
-ūrvor mūlam upeyivān atha śanair mām eti lajjājaḍaṃ  
-jalpantyā suratātithiḥ kila ruṣā pāṇis talenāhṛtaḥ ||1135||  
+हस्तस्वस्तिकलाञ्छितां कुचतटीं सोढः स्पृशन्मुग्धया  
+प्रस्विद्यद्बलिवल्लरीकम् उदरं गच्छन् निरुद्धो मनाक् ।  
+ऊर्वोर् मूलम् उपेयिवान् अथ शनैर् माम् एति लज्जाजडं  
+जल्पन्त्या सुरतातिथिः किल रुषा पाणिस् तलेनाहृतः ॥११३५॥  
 
 
-yuvatīsambhogakārasya |  
+युवतीसम्भोगकारस्य ।  
 
 
-133. ratam  
+१३३। रतम्  
 
 
-kleśollāsitalocanaṃ ślathapataddorvallikeliskhalad  
-dhammillaṃ śvasitottaraṅgam aparispandaṃ vahantī vapuḥ |  
-muñceti skhalitākṣareṇa vacasā tanvī yathā yācate   
-viśrāmāya tathādhikaṃ ratavidhāv ākūtam unmīlati ||1136||  
+क्लेशोल्लासितलोचनं श्लथपतद्दोर्वल्लिकेलिस्खलद्  
+धम्मिल्लं श्वसितोत्तरङ्गम् अपरिस्पन्दं वहन्ती वपुः ।  
+मुञ्चेति स्खलिताक्षरेण वचसा तन्वी यथा याचते   
+विश्रामाय तथाधिकं रतविधाव् आकूतम् उन्मीलति ॥११३६॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-bhāvodgāḍham upoḍhakampapulakair aṅgaiḥ samāliṅgitaṃ  
-rāgāc cumbitam apy upetya vadanaṃ pītaṃ ca vaktrāmṛtam |  
-jalpantyaiva muhur naneti nibhṛtaṃ prastabdhacāritrayā   
-niḥśeṣeṇa samāpito ratividhir vācā tu nāṅgīkṛtaḥ ||1137||  
+भावोद्गाढम् उपोढकम्पपुलकैर् अङ्गैः समालिङ्गितं  
+रागाच् चुम्बितम् अप्य् उपेत्य वदनं पीतं च वक्त्रामृतम् ।  
+जल्पन्त्यैव मुहुर् ननेति निभृतं प्रस्तब्धचारित्रया   
+निःशेषेण समापितो रतिविधिर् वाचा तु नाङ्गीकृतः ॥११३७॥  
 
 
-kasyacit | (su.ra. 593)  
+कस्यचित् । (सु।र। ५९३)  
 
 
-aṅgāni ślathaniḥ sahāni nayate mugdhālase vibhrama  
-śvāsotkampitakomalastanam uraḥ sāyāsasupte bhruvau |  
-kiṃ cāndolanakautukavyuparatāvāsyeṣu vāmabhruvāṃ   
-svedāmbhaḥ snapitākulālakalateṣv āvāsito manmathaḥ ||1138||  
+अङ्गानि श्लथनिः सहानि नयते मुग्धालसे विभ्रम  
+श्वासोत्कम्पितकोमलस्तनम् उरः सायाससुप्ते भ्रुवौ ।  
+किं चान्दोलनकौतुकव्युपरतावास्येषु वामभ्रुवां   
+स्वेदाम्भः स्नपिताकुलालकलतेष्व् आवासितो मन्मथः ॥११३८॥  
 
 
-gosokasya |  
+गोसोकस्य ।  
 
 
-sākṣepaṃ ca sacāṭukaṃ pralapatoḥ premālasaṃ paśyator  
-utsūtraṃ ca sasūtram eva ca parīrambhotsavaṃ kurvatoḥ |  
-ākṛṣyālakam ānanaṃ ca pibator uddāmakaṇṭhadhvani  
-krīḍāḍambarayor jayaty anupamāvasthaṃ rahaḥ preyasoḥ ||1139||  
+साक्षेपं च सचाटुकं प्रलपतोः प्रेमालसं पश्यतोर्  
+उत्सूत्रं च ससूत्रम् एव च परीरम्भोत्सवं कुर्वतोः ।  
+आकृष्यालकम् आननं च पिबतोर् उद्दामकण्ठध्वनि  
+क्रीडाडम्बरयोर् जयत्य् अनुपमावस्थं रहः प्रेयसोः ॥११३९॥  
 
 
-yavatīsambhogakārasya |  
+यवतीसम्भोगकारस्य ।  
 
 
-sotkaṇṭhaṃ paripaśyator api muhuḥ sotprāsam ājalpatoḥ  
-sānandaṃ ca sakautukaṃ ca madanavyāpāram abhyasyatoḥ |  
-dampatyor navayauvanojjvalavapuḥ saundaryaramyaśriyoḥ  
-śṛṅgāraḥ kṛtakṛtya eṣa madanādhānaikahetuḥ sphuṭam ||1140||  
+सोत्कण्ठं परिपश्यतोर् अपि मुहुः सोत्प्रासम् आजल्पतोः  
+सानन्दं च सकौतुकं च मदनव्यापारम् अभ्यस्यतोः ।  
+दम्पत्योर् नवयौवनोज्ज्वलवपुः सौन्दर्यरम्यश्रियोः  
+शृङ्गारः कृतकृत्य एष मदनाधानैकहेतुः स्फुटम् ॥११४०॥  
 
 
-priyaṃvadasya |  
-134. viparītaratam  
+प्रियंवदस्य ।  
+१३४। विपरीतरतम्  
 
 
-ālolāmalakāvalīṃ vilulitāṃ bibhraccalatkuṇḍalaṃ  
-kiñcinmṛṣṭaviśeṣakaṃ tanutaraiḥ khedāmbhasāṃ śīkaraiḥ |  
-tanvyā yat suratāntatāntanayanaṃ vaktraṃ rativyatyaye   
-tat tvāṃ pātu cirāya kiṃ hariharabrahmādibhir daivataiḥ ||1141||  
+आलोलामलकावलीं विलुलितां बिभ्रच्चलत्कुण्डलं  
+किञ्चिन्मृष्टविशेषकं तनुतरैः खेदाम्भसां शीकरैः ।  
+तन्व्या यत् सुरतान्ततान्तनयनं वक्त्रं रतिव्यत्यये   
+तत् त्वां पातु चिराय किं हरिहरब्रह्मादिभिर् दैवतैः ॥११४१॥  
 
 
-amaroḥ | (amaru 3; śā.pa. 3702)  
+अमरोः । (अमरु ३; शा।प। ३७०२)  
 
 
-nādhanyānviparītamohanarasapreṅkhannitambasthalī  
-loladbhūṣaṇakiṅkiṇīkalaravavyāmiśrakaṇṭhasvanam |  
-saṃrambhaślathakeśabandhavigalanmuktākalāpatruṭac  
-chvāsacchedataraṅgitastanayugaṃ prīṇāti śṛṅgāriṇī ||1142||  
+नाधन्यान्विपरीतमोहनरसप्रेङ्खन्नितम्बस्थली  
+लोलद्भूषणकिङ्किणीकलरवव्यामिश्रकण्ठस्वनम् ।  
+संरम्भश्लथकेशबन्धविगलन्मुक्ताकलापत्रुटच्  
+छ्वासच्छेदतरङ्गितस्तनयुगं प्रीणाति शृङ्गारिणी ॥११४२॥  
 
 
-sollokasya | (su.ra. 581)  
+सोल्लोकस्य । (सु।र। ५८१)  
 
 
-vikīrṇo dhammillaḥ śramasalilabindustavakito  
-mukhenduvyākoṣaṃ śvasitam idamāḥ sādhu subhaṭe |  
-amuṣmin prārambhe calavalitamuktāsaram uraḥ  
-paraṃ tūṣṇīm ete dadhati raśanādāmni maṇayaḥ ||1143||  
+विकीर्णो धम्मिल्लः श्रमसलिलबिन्दुस्तवकितो  
+मुखेन्दुव्याकोषं श्वसितम् इदमाः साधु सुभटे ।  
+अमुष्मिन् प्रारम्भे चलवलितमुक्तासरम् उरः  
+परं तूष्णीम् एते दधति रशनादाम्नि मणयः ॥११४३॥  
 
 
-kendranīlanārāyaṇasya |  
+केन्द्रनीलनारायणस्य ।  
 
 
-mārāṅke ratikelisaṃkularaṇārambhe tayā sāhasa  
-prāyaṃ kāntajayāya kiṃcid upari prārambhi yat sambhramāt |  
-niṣpandā jaghanasthalī śithilitā dorvallir utkampitaṃ  
-vakṣo mīlitam akṣi pauruṣarasaḥ strīṇāṃ kaḥ sidhyati ||1144||  
+माराङ्के रतिकेलिसंकुलरणारम्भे तया साहस  
+प्रायं कान्तजयाय किंचिद् उपरि प्रारम्भि यत् सम्भ्रमात् ।  
+निष्पन्दा जघनस्थली शिथिलिता दोर्वल्लिर् उत्कम्पितं  
+वक्षो मीलितम् अक्षि पौरुषरसः स्त्रीणां कः सिध्यति ॥११४४॥  
 
 
-jayadevasya |  
+जयदेवस्य ।  
 
 
-sotkampaśvasitottaraṃ sapulakasvedārdragaṇḍasthalī  
-khelatkuṇḍalam asphuṭasmitamilanmandākṣamugdhekṣitam |  
-saṃbhedeṣu mitho dṛśāṃ sukṛtinaḥ kasyāpi kāntānanaṃ  
-prabhraśyatkavarīparītam urasi smerasya viśrāmyati ||1145||  
+सोत्कम्पश्वसितोत्तरं सपुलकस्वेदार्द्रगण्डस्थली  
+खेलत्कुण्डलम् अस्फुटस्मितमिलन्मन्दाक्षमुग्धेक्षितम् ।  
+संभेदेषु मिथो दृशां सुकृतिनः कस्यापि कान्ताननं  
+प्रभ्रश्यत्कवरीपरीतम् उरसि स्मेरस्य विश्राम्यति ॥११४५॥  
 
 
-āvantikajahnoḥ |  
+आवन्तिकजह्नोः ।  
 
 
-135. viparītaratākhyānam  
+१३५। विपरीतरताख्यानम्  
 
 
-ripuḥ premārambhe prathamam abhavan nūpuraravas  
-tam ākṣeptuṃ pāṇiḥ prasarati savācālavalayaḥ |  
-yad ārabdhaṃ kiṃcit tadupaśamahetoḥ sakhi mayā  
-tadā tadvaiguṇyaṃ dviguṇayati kāñcīkalakalaḥ ||1146||  
+रिपुः प्रेमारम्भे प्रथमम् अभवन् नूपुररवस्  
+तम् आक्षेप्तुं पाणिः प्रसरति सवाचालवलयः ।  
+यद् आरब्धं किंचित् तदुपशमहेतोः सखि मया  
+तदा तद्वैगुण्यं द्विगुणयति काञ्चीकलकलः ॥११४६॥  
 
 
-viriñceḥ |  
+विरिञ्चेः ।  
 
 
-paryastastanakarmakīrṇakavarībhāraṃ samunmūlita  
-sragdāma svayam anyad eva tadupakrāntaṃ mayā sāhasam |  
-saṃpannāḥ sakhi tasya kelividhayaḥ prācyāḥ paraṃ durvaha  
-śroṇībhārabharān manīṣitasahasrāṃśo’pi nāsāditaḥ ||1147||  
+पर्यस्तस्तनकर्मकीर्णकवरीभारं समुन्मूलित  
+स्रग्दाम स्वयम् अन्यद् एव तदुपक्रान्तं मया साहसम् ।  
+संपन्नाः सखि तस्य केलिविधयः प्राच्याः परं दुर्वह  
+श्रोणीभारभरान् मनीषितसहस्रांशो’पि नासादितः ॥११४७॥  
 
 
-śaraṇadevasya |  
+शरणदेवस्य ।  
 
 
-paśyāśleṣaviśīrṇacandanarajaḥpuñjaprakarṣād iyaṃ  
-śayyāṃ saṃprati komalāṅgi paruṣety āropya māṃ vakṣasi |  
-gāḍhoṣṭhagrahapūrvam ākulatayā pādāgrasaṃvadaṃśake  
-nākṛṣyāmbaram ātmano yad ucitaṃ dhūrtena tatprastutam ||1148||  
+पश्याश्लेषविशीर्णचन्दनरजःपुञ्जप्रकर्षाद् इयं  
+शय्यां संप्रति कोमलाङ्गि परुषेत्य् आरोप्य मां वक्षसि ।  
+गाढोष्ठग्रहपूर्वम् आकुलतया पादाग्रसंवदंशके  
+नाकृष्याम्बरम् आत्मनो यद् उचितं धूर्तेन तत्प्रस्तुतम् ॥११४८॥  
 
 
-amaroḥ | kāśmīraśilhaṇasya | (Sv 2133)  
+अमरोः । काश्मीरशिल्हणस्य । (स्व् २१३३)  
 
 
-dākṣiṇyād atimānato rasavaśād viśrāmahetor mama  
-prāgalbhyāt tad anuṣṭhitaṃ mṛgadṛśā śakyaṃ na yad yoṣitām |  
-nirvyūḍhaṃ na yadā tayā tad akhilaṃ khinnais tatas tārakaiḥ  
-savrīḍaiś ca vilokitair mayi punar nyastaḥ samasto bharaḥ ||1149||  
+दाक्षिण्याद् अतिमानतो रसवशाद् विश्रामहेतोर् मम  
+प्रागल्भ्यात् तद् अनुष्ठितं मृगदृशा शक्यं न यद् योषिताम् ।  
+निर्व्यूढं न यदा तया तद् अखिलं खिन्नैस् ततस् तारकैः  
+सव्रीडैश् च विलोकितैर् मयि पुनर् न्यस्तः समस्तो भरः ॥११४९॥  
 
 
-mahākaveḥ | (su.ra. 599)  
+महाकवेः । (सु।र। ५९९)  
 
 
-purārūḍhapremaprabalarasarāgeṇa hṛtayā  
-samārabdhaṃ kartuṃ nahi yad abalābhāvasadṛśam |  
-anirvyūḍhe tasmin prakṛtisukumārāṅgalatayā  
-punar lajjālolaṃ mayi vinihitaṃ locanayugam ||1150||  
+पुरारूढप्रेमप्रबलरसरागेण हृतया  
+समारब्धं कर्तुं नहि यद् अबलाभावसदृशम् ।  
+अनिर्व्यूढे तस्मिन् प्रकृतिसुकुमाराङ्गलतया  
+पुनर् लज्जालोलं मयि विनिहितं लोचनयुगम् ॥११५०॥  
 
 
-koṅkasya | (su.ra. 585)  
-136. ratāntaḥ  
+कोङ्कस्य । (सु।र। ५८५)  
+१३६। रतान्तः  
 
 
-āvṛṇvānā jhaṭiti jaghanaṃ maddukūlāñcalena  
-preṅkhallīlālulitakabarībandhanavyagrapāṇiḥ |  
-ardhocchvāsasphuṭanakhapadālaṃkṛtābhyāṃ stanābhyāṃ  
-dṛṣṭā dhārṣṭyād avanatamukhī sā mayā mohanānte ||1151||  
+आवृण्वाना झटिति जघनं मद्दुकूलाञ्चलेन  
+प्रेङ्खल्लीलालुलितकबरीबन्धनव्यग्रपाणिः ।  
+अर्धोच्छ्वासस्फुटनखपदालंकृताभ्यां स्तनाभ्यां  
+दृष्टा धार्ष्ट्याद् अवनतमुखी सा मया मोहनान्ते ॥११५१॥  
 
 
-rājaśekharasya | (sū.mu. 80.5, su.ra. 589)  
+राजशेखरस्य । (सू।मु। ८०।५, सु।र। ५८९)  
 
 
-karakisalayaṃ dhūtvā dhūtvā vilambitamekhalā  
-kṣipati sumanomālāśeṣaṃ pradīpaśikhāṃ prati |  
-sthagayati karaṃ patyur netre vihasya samākulā  
-surataviratau ramyaṃ tanvī punaḥ punar īkṣyate ||1152||  
+करकिसलयं धूत्वा धूत्वा विलम्बितमेखला  
+क्षिपति सुमनोमालाशेषं प्रदीपशिखां प्रति ।  
+स्थगयति करं पत्युर् नेत्रे विहस्य समाकुला  
+सुरतविरतौ रम्यं तन्वी पुनः पुनर् ईक्ष्यते ॥११५२॥  
 
 
-kasyāpi | (Sv 2105, śā.pa. 3706, sū.mu. 80.3, su.ra. 591)  
+कस्यापि । (स्व् २१०५, शा।प। ३७०६, सू।मु। ८०।३, सु।र। ५९१)  
 
 
-chinnārdhorukamekhalaṃ caraṇayoḥ saṃkrāntalākṣārasaṃ  
-talpopāntam udīkṣya sasmitasakhīvailakṣyasaṃbhrāntayā |  
-tanvaṅgyā dṛḍhadaṃśadanturadarocchūnādharotsaṅgayā  
-kṣiptāḥ preyasi kūṭakopakuṭilabhrūvibhramā dṛṣṭayaḥ ||1153||  
+छिन्नार्धोरुकमेखलं चरणयोः संक्रान्तलाक्षारसं  
+तल्पोपान्तम् उदीक्ष्य सस्मितसखीवैलक्ष्यसंभ्रान्तया ।  
+तन्वङ्ग्या दृढदंशदन्तुरदरोच्छूनाधरोत्सङ्गया  
+क्षिप्ताः प्रेयसि कूटकोपकुटिलभ्रूविभ्रमा दृष्टयः ॥११५३॥  
 
 
-dharmayogeśvarasya |  
+धर्मयोगेश्वरस्य ।  
 
 
-paryastālakapaṅktiluptatilakaṃ niṣpītarāgādharaṃ  
-śvāsotkampipayodharaṃ śramabharasvedārdragaṇḍasthalam |  
-tanvaṅgyāḥ ślathanīvimuktakavarībhāraṃ ratānte vapur  
-dṛṣṭaṃ mugdhavilokitasmitam abhūd ānandanisyandi naḥ ||1154||  
+पर्यस्तालकपङ्क्तिलुप्ततिलकं निष्पीतरागाधरं  
+श्वासोत्कम्पिपयोधरं श्रमभरस्वेदार्द्रगण्डस्थलम् ।  
+तन्वङ्ग्याः श्लथनीविमुक्तकवरीभारं रतान्ते वपुर्  
+दृष्टं मुग्धविलोकितस्मितम् अभूद् आनन्दनिस्यन्दि नः ॥११५४॥  
 
 
-śrīkarasya |  
+श्रीकरस्य ।  
 
 
-nayanam alasaṃ svedāmbhobhiḥ karmbitam ānanaṃ  
-skhalitakavarībhārāv aṃsau ślathā bhujavallarī |  
-iti mṛgadṛśaḥ saṃbhogānte vilokya vapuḥśriyaṃ  
-vrajati niyataṃ kandarpo’pi svabāṇaśaravyatām ||1155||  
+नयनम् अलसं स्वेदाम्भोभिः कर्म्बितम् आननं  
+स्खलितकवरीभाराव् अंसौ श्लथा भुजवल्लरी ।  
+इति मृगदृशः संभोगान्ते विलोक्य वपुःश्रियं  
+व्रजति नियतं कन्दर्पो’पि स्वबाणशरव्यताम् ॥११५५॥  
 
 
-śaṅkaradharasya |  
+शङ्करधरस्य ।  
 
 
-137. uṣasi priyādarśanam  
+१३७। उषसि प्रियादर्शनम्  
 
 
-saṃbhrāntyā galitasrajaṃ stanataṭavyastaskhaladvāsaso  
-badhnantyāḥ śithilāṃ jhaṇatkṛtimatīṃ kāñcīṃ nitambasthale |  
-kāminyāḥ sarasaṃ niśāntasamaye vakrā viluptāñjanā   
-nādhanye nipatanti pāṭhalaruco nidrālasā dṛṣṭayaḥ ||1156||  
+संभ्रान्त्या गलितस्रजं स्तनतटव्यस्तस्खलद्वाससो  
+बध्नन्त्याः शिथिलां झणत्कृतिमतीं काञ्चीं नितम्बस्थले ।  
+कामिन्याः सरसं निशान्तसमये वक्रा विलुप्ताञ्जना   
+नाधन्ये निपतन्ति पाठलरुचो निद्रालसा दृष्टयः ॥११५६॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-uṣasi nibiḍayantyāḥ kuṇḍalaṃ keliparyā  
-vilavigalitamantaḥ karṇapāli priyāyāḥ |  
-sarasahasitatiryagbhaṅgurāpāṅgarītiḥ  
-sukṛtibhir avalīḍhā locanābhyāṃ mukhaśrīḥ ||1157||  
+उषसि निबिडयन्त्याः कुण्डलं केलिपर्या  
+विलविगलितमन्तः कर्णपालि प्रियायाः ।  
+सरसहसिततिर्यग्भङ्गुरापाङ्गरीतिः  
+सुकृतिभिर् अवलीढा लोचनाभ्यां मुखश्रीः ॥११५७॥  
 
 
-rudranandinaḥ |  
+रुद्रनन्दिनः ।  
 
 
-priyāyāḥ pratyūṣe galitakavarībandhanavidhāv  
-udañcddorvallīdaracalitalolāñcalam uraḥ |  
-ghanākūte paśyaty atha mayi samandākṣahasitaṃ  
-namantyās tadrūpaṃ yadi likhitum īśo manasijaḥ ||1158||  
+प्रियायाः प्रत्यूषे गलितकवरीबन्धनविधाव्  
+उदञ्च्द्दोर्वल्लीदरचलितलोलाञ्चलम् उरः ।  
+घनाकूते पश्यत्य् अथ मयि समन्दाक्षहसितं  
+नमन्त्यास् तद्रूपं यदि लिखितुम् ईशो मनसिजः ॥११५८॥  
 
 
-dhoyīkasya |  
+धोयीकस्य ।  
 
 
-masṛṇamasṛṇaṃ preyaḥ prātar nivārya vapuḥ svakaṃ  
-tad anu ca tirodhāya svairaṃ ratotsavamaṇḍanam |  
-tricaturapadaṃ gatvā tasmān nivartitakandharaṃ  
-snapayati dṛśā puṇyātmānaṃ kam apy uṣasi priyā ||1159||  
+मसृणमसृणं प्रेयः प्रातर् निवार्य वपुः स्वकं  
+तद् अनु च तिरोधाय स्वैरं रतोत्सवमण्डनम् ।  
+त्रिचतुरपदं गत्वा तस्मान् निवर्तितकन्धरं  
+स्नपयति दृशा पुण्यात्मानं कम् अप्य् उषसि प्रिया ॥११५९॥  
 
 
-śatānandasya |  
+शतानन्दस्य ।  
 
 
-asyāḥ pāṭalapāṇijāṅkitam uro nidrākaṣāye dṛśau  
-nirdhauto’dharaśoṇimā vilulitasrastasrajo mūrdhajāḥ |  
-kāñcīdāma daraślathāñcalam iti prātar nikhātair dṛśor   
-ebhiḥ kāmaśarais tadadbhutam abhūd yan me manaḥ kīlitam ||1160||  
+अस्याः पाटलपाणिजाङ्कितम् उरो निद्राकषाये दृशौ  
+निर्धौतो’धरशोणिमा विलुलितस्रस्तस्रजो मूर्धजाः ।  
+काञ्चीदाम दरश्लथाञ्चलम् इति प्रातर् निखातैर् दृशोर्   
+एभिः कामशरैस् तदद्भुतम् अभूद् यन् मे मनः कीलितम् ॥११६०॥  
 
 
-jayadevasya |  
+जयदेवस्य ।  
 
 
-138. nāyikāniṣkramaṇam  
+१३८। नायिकानिष्क्रमणम्  
 
 
-virāme yāminyā upakucayugorūpajaghanaṃ  
-samālambya vyastāñcalam alasam utthāya śayanāt |  
-hasitvā saṃmugdhaṃ madhuram avalokyātha śithilair  
-bhujair niryāntībhiḥ sudṛḍham upagūḍhaḥ priyatamaḥ ||1161||  
+विरामे यामिन्या उपकुचयुगोरूपजघनं  
+समालम्ब्य व्यस्ताञ्चलम् अलसम् उत्थाय शयनात् ।  
+हसित्वा संमुग्धं मधुरम् अवलोक्याथ शिथिलैर्  
+भुजैर् निर्यान्तीभिः सुदृढम् उपगूढः प्रियतमः ॥११६१॥  
 
 
-vāsudevajyotiṣaḥ |  
+वासुदेवज्योतिषः ।  
 
 
-virāme yāminyā upakucayugo rūpajaghanaṃ  
-samālambya vyastāṃ calam alasam utthāya śayanāt |  
-hasitvā saṃmugdhaṃ madhuram avalokyātha śithilair  
-bhujair niryāntībhiḥ sudṛḍham upagūḍhaḥ priyatamaḥ ||1162||  
+विरामे यामिन्या उपकुचयुगो रूपजघनं  
+समालम्ब्य व्यस्तां चलम् अलसम् उत्थाय शयनात् ।  
+हसित्वा संमुग्धं मधुरम् अवलोक्याथ शिथिलैर्  
+भुजैर् निर्यान्तीभिः सुदृढम् उपगूढः प्रियतमः ॥११६२॥  
 
 
-kasyāpi |  
+कस्यापि ।  
 
 
-pratyagradaṃśajanitaśvayathūn salīlam  
-ambhojakomalakarāṅgulikoṭibhāgaiḥ |  
-bimbādharān madhurasītkṛti saṃspṛśantyaḥ  
-kāntāḥ prayānti dayitāntikato’dhunaitāḥ ||1163||  
+प्रत्यग्रदंशजनितश्वयथून् सलीलम्  
+अम्भोजकोमलकराङ्गुलिकोटिभागैः ।  
+बिम्बाधरान् मधुरसीत्कृति संस्पृशन्त्यः  
+कान्ताः प्रयान्ति दयितान्तिकतो’धुनैताः ॥११६३॥  
 
 
-ratnākarasya |  
+रत्नाकरस्य ।  
 
 
-vidalitakucapāṇijāṅkalekhā  
-darabhidurorubharālasā kṛśāṅgī |  
-uṣasi nidhuvanopabhogajihmā   
-yadi gṛham eti sakhi balābalena ||1164||  
+विदलितकुचपाणिजाङ्कलेखा  
+दरभिदुरोरुभरालसा कृशाङ्गी ।  
+उषसि निधुवनोपभोगजिह्मा   
+यदि गृहम् एति सखि बलाबलेन ॥११६४॥  
 
 
-yogokasya |  
+योगोकस्य ।  
 
 
-niryāntyā rativeśmanaḥ pariṇataprāyāṃ vilokya kṣapāṃ  
-gāḍhāliṅganacumbanāni bahuśaḥ kṛtvāpy asaṃtuṣṭayā |  
-ekaṃ bhūmitale nidhāya caraṇaṃ talpe prakalpyāparaṃ   
-tanvaṅgyā parivartitāṅgalatayā preyāṃś ciraṃ cumbitaḥ ||1165||  
+निर्यान्त्या रतिवेश्मनः परिणतप्रायां विलोक्य क्षपां  
+गाढालिङ्गनचुम्बनानि बहुशः कृत्वाप्य् असंतुष्टया ।  
+एकं भूमितले निधाय चरणं तल्पे प्रकल्प्यापरं   
+तन्वङ्ग्या परिवर्तिताङ्गलतया प्रेयांश् चिरं चुम्बितः ॥११६५॥  
 
 
-kasyāpi | (Sv 2191, śā.pa. 3728)  
+कस्यापि । (स्व् २१९१, शा।प। ३७२८)  
 
 
-139. ratapraśaṃsā  
+१३९। रतप्रशंसा  
 
 
-yatnāt saṃgamam icchatoḥ pratidinaṃ dūtīkṛtāśvāsayor  
-anyonyaṃ parituṣyator avasaraprāptispṛhāṃ tanvatoḥ |  
-saṃketonmukhayoś cirāt katham api prāpte kramād darśane  
-yat saukhyaṃ navaraktayos taruṇayos tat kena sāmyaṃ vrajet ||1166||  
+यत्नात् संगमम् इच्छतोः प्रतिदिनं दूतीकृताश्वासयोर्  
+अन्योन्यं परितुष्यतोर् अवसरप्राप्तिस्पृहां तन्वतोः ।  
+संकेतोन्मुखयोश् चिरात् कथम् अपि प्राप्ते क्रमाद् दर्शने  
+यत् सौख्यं नवरक्तयोस् तरुणयोस् तत् केन साम्यं व्रजेत् ॥११६६॥  
 
 
-bhaṭṭacūlitakasya |  
+भट्टचूलितकस्य ।  
 
 
-sa svargād aparo vidhiḥ sa ca sudhāsekaḥ kṣaṇān netrayos  
-tatsāmrājyam akhaṇḍitaṃ tad aparaṃ premṇaḥ pratiṣṭhāspadam |  
-yad bālā balavan manobhavabhayabhraśyattrapaṃ satrapā  
-tatkālocitanarmakarma dayitādamyāsyam abhyasyati ||1167||  
+स स्वर्गाद् अपरो विधिः स च सुधासेकः क्षणान् नेत्रयोस्  
+तत्साम्राज्यम् अखण्डितं तद् अपरं प्रेम्णः प्रतिष्ठास्पदम् ।  
+यद् बाला बलवन् मनोभवभयभ्रश्यत्त्रपं सत्रपा  
+तत्कालोचितनर्मकर्म दयितादम्यास्यम् अभ्यस्यति ॥११६७॥  
 
 
-kasyāpi | (su.ra. 564)  
+कस्यापि । (सु।र। ५६४)  
 
 
-savrīḍārdhanirīkṣaṇaṃ yad ubhayor yad dūtikāpreṣaṇaṃ  
-cādyaśvo bhavitā samāgama iti prītyā pramodaś ca yaḥ |  
-prāpte caiva samāgame sarabhasaṃ yac cumbanāliṅganāny  
-etatkāmaphalaṃ tad eva surataṃ śeṣaḥ paśūnām iva ||1168||  
+सव्रीडार्धनिरीक्षणं यद् उभयोर् यद् दूतिकाप्रेषणं  
+चाद्यश्वो भविता समागम इति प्रीत्या प्रमोदश् च यः ।  
+प्राप्ते चैव समागमे सरभसं यच् चुम्बनालिङ्गनान्य्  
+एतत्कामफलं तद् एव सुरतं शेषः पशूनाम् इव ॥११६८॥  
 
 
-kasyāpi | (Sv 2237, śā.pa. 3780, su.ra. 1654)  
+कस्यापि । (स्व् २२३७, शा।प। ३७८०, सु।र। १६५४)  
 
 
-sītkāravanti daramīlitalocanāni  
-romāñcamuñci makaraketuniketanāni |  
-eṇīdṛśāṃ makaraketuniketanāni   
-vandāmahe suratavibhramaceṣṭitāni ||1169||  
+सीत्कारवन्ति दरमीलितलोचनानि  
+रोमाञ्चमुञ्चि मकरकेतुनिकेतनानि ।  
+एणीदृशां मकरकेतुनिकेतनानि   
+वन्दामहे सुरतविभ्रमचेष्टितानि ॥११६९॥  
 
 
-kasyacit | (su.ra. 582)  
+कस्यचित् । (सु।र। ५८२)  
 
 
-hārāvalī truṭati na praṇayaḥ priyāṇām  
-ākhaṇḍyate’dharadalaṃ na manobhavājñā |  
-yasmin vilepanam apaiti na cānurāgas  
-tan mohanaṃ na khalu maithunam anyad asmāt ||1170||  
+हारावली त्रुटति न प्रणयः प्रियाणाम्  
+आखण्ड्यते’धरदलं न मनोभवाज्ञा ।  
+यस्मिन् विलेपनम् अपैति न चानुरागस्  
+तन् मोहनं न खलु मैथुनम् अन्यद् अस्मात् ॥११७०॥  
 
 
-keśaṭasya |  
+केशटस्य ।  
 
 
-140. sakhīnāṃ mithaḥ kathā   
+१४०। सखीनां मिथः कथा   
 
 
-kānte talpam upāgate vigalitā nīvī svayaṃ bandhanād  
-vāsaś ca ślathamekhalāguṇadhṛtaṃ kiṃcin nitambe sthitam |  
-etāvat sakhi vedmi kevalam aho tasyāṅgasaṅge punaḥ  
-ko’sau kāsmi rataṃ ca kiṃ kīdṛśam iti svalpāpi me na smṛtiḥ ||1171||  
+कान्ते तल्पम् उपागते विगलिता नीवी स्वयं बन्धनाद्  
+वासश् च श्लथमेखलागुणधृतं किंचिन् नितम्बे स्थितम् ।  
+एतावत् सखि वेद्मि केवलम् अहो तस्याङ्गसङ्गे पुनः  
+को’सौ कास्मि रतं च किं कीदृशम् इति स्वल्पापि मे न स्मृतिः ॥११७१॥  
 
 
-vikaṭanitambāyāḥ | (sa.ka.ā. 5.44, da.rū.. under 2.18, Sv 2147, śā.pa. 3747, sū.mu. 86.17, su.ra. 572)  
+विकटनितम्बायाः । (स।क।आ। ५।४४, द।रू॥ उन्देर् २।१८, स्व् २१४७, शा।प। ३७४७, सू।मु। ८६।१७, सु।र। ५७२)  
 
 
-dhanyāsi yat kathayasi priyasaṅgame’pi  
-narmasmitaṃ ca vadanaṃ ca rasaṃ ca tasya |  
-nīvīṃ prati praṇihite tu kare priyeṇa  
-sakhyaḥ śapāmi yadi kiṃcid api smarāmi ||1172||  
+धन्यासि यत् कथयसि प्रियसङ्गमे’पि  
+नर्मस्मितं च वदनं च रसं च तस्य ।  
+नीवीं प्रति प्रणिहिते तु करे प्रियेण  
+सख्यः शपामि यदि किंचिद् अपि स्मरामि ॥११७२॥  
 
 
-vidyāyāḥ | (sā.da. under 3.73, śā.pa. 376, su.ra. 574)  
+विद्यायाः । (सा।द। उन्देर् ३।७३, शा।प। ३७६, सु।र। ५७४)  
 
 
-ātte vāsasi roddhum akṣamatayā doḥkandalībhyāṃ stanau   
-tasyoraḥsthalam uttarīyaviṣaye sakhyo mayā cintitam |  
-śroṇīṃ tasya kare’dhirohati punar vrīḍāmbudhau mām atho   
-majjantīm udatārayan manasijo devaḥ sa mūrcchāguruḥ ||1173||  
+आत्ते वाससि रोद्धुम् अक्षमतया दोःकन्दलीभ्यां स्तनौ   
+तस्योरःस्थलम् उत्तरीयविषये सख्यो मया चिन्तितम् ।  
+श्रोणीं तस्य करे’धिरोहति पुनर् व्रीडाम्बुधौ माम् अथो   
+मज्जन्तीम् उदतारयन् मनसिजो देवः स मूर्च्छागुरुः ॥११७३॥  
 
 
-ballaṇasya | (su.ra. 568)  
+बल्लणस्य । (सु।र। ५६८)  
 
 
-harṣāśrupūritavilocanayā mayādya  
-kiṃ tasya tat sakhi nirūpitam aṅgam aṅgam |  
-romāñcakañcukatiraskṛtadehayā vā  
-jñātāni tāni parirambhasukhāni kiṃ vā ||1174||  
+हर्षाश्रुपूरितविलोचनया मयाद्य  
+किं तस्य तत् सखि निरूपितम् अङ्गम् अङ्गम् ।  
+रोमाञ्चकञ्चुकतिरस्कृतदेहया वा  
+ज्ञातानि तानि परिरम्भसुखानि किं वा ॥११७४॥  
 
 
-acaladāsasya | (su.ra. 596, acalasya)  
+अचलदासस्य । (सु।र। ५९६, अचलस्य)  
 
 
-mā garvam udvaha kapolatale cakāsti   
-kāntasvahastalikhitā navamañjarīti |  
-anyāpi kiṃ na sakhi bhājanam īdṛśīnāṃ  
-vairī na ced bhavati vepathur antarāyaḥ ||1175||  
+मा गर्वम् उद्वह कपोलतले चकास्ति   
+कान्तस्वहस्तलिखिता नवमञ्जरीति ।  
+अन्यापि किं न सखि भाजनम् ईदृशीनां  
+वैरी न चेद् भवति वेपथुर् अन्तरायः ॥११७५॥  
 
 
-keśaṭasya | (amaru 55; su.ra. 1640; sū.mu. 86.14; SD 3.105 mada; Daśa 2.22, etc.; padyā. 302, dāmodarasya; bha.ra.si. 2.4.165)  
+केशटस्य । (अमरु ५५; सु।र। १६४०; सू।मु। ८६।१४; स्द् ३।१०५ मद; दश २।२२, एत्च्।; पद्या। ३०२, दामोदरस्य; भ।र।सि। २।४।१६५)  
 
 
-śukoktivrīḍā  
+शुकोक्तिव्रीडा  
 
 
-prayacchāhāraṃ me yadi tava rahovṛttam akhilaṃ  
-mayā vācyaṃ noccair iti gṛhaśuke jalpati śanaiḥ |  
-vadhūvaktraṃ vrīḍābharanamitam antar vihasitaṃ  
-haraty ardhonmīlannalinamalināvarjitam iva ||1176||  
+प्रयच्छाहारं मे यदि तव रहोवृत्तम् अखिलं  
+मया वाच्यं नोच्चैर् इति गृहशुके जल्पति शनैः ।  
+वधूवक्त्रं व्रीडाभरनमितम् अन्तर् विहसितं  
+हरत्य् अर्धोन्मीलन्नलिनमलिनावर्जितम् इव ॥११७६॥  
 
 
-ḍimbokasya | (sū.mu. 77.12, su.ra. 622)  
+डिम्बोकस्य । (सू।मु। ७७।१२, सु।र। ६२२)  
 
 
-pratyūṣe gurusannidhau gṛhaśuke tattadrahojalpitaṃ  
-prastotuṃ parihāsakāriṇi padair ardhoditair udyate |  
-krīḍāśārikayā nilīya nibhṛtaṃ trotuṃ bhayārtāṃ vadhūṃ  
-prārabdhaḥ sahasaiva sambhramakaro mārjāragarjāravaḥ ||1177||  
+प्रत्यूषे गुरुसन्निधौ गृहशुके तत्तद्रहोजल्पितं  
+प्रस्तोतुं परिहासकारिणि पदैर् अर्धोदितैर् उद्यते ।  
+क्रीडाशारिकया निलीय निभृतं त्रोतुं भयार्तां वधूं  
+प्रारब्धः सहसैव सम्भ्रमकरो मार्जारगर्जारवः ॥११७७॥  
 
 
-mārjārasya | (su.ra. 631)  
+मार्जारस्य । (सु।र। ६३१)  
 
 
-tvadgaṇḍasthalapāṇḍu dehi lavalaṃ dehi tvadoṣṭhāruṇaṃ  
-bimbaṃ dehi nitambini tvadalakaśyāmaṃ ca me jāmbavam |  
-ity akṣuṇṇamanojñacāṭujanitavrīḍaḥ purandhrījanā  
-dhanyānāṃ bhavaneṣu pañjaraśukair āhāram abhyarthyate ||1178||  
+त्वद्गण्डस्थलपाण्डु देहि लवलं देहि त्वदोष्ठारुणं  
+बिम्बं देहि नितम्बिनि त्वदलकश्यामं च मे जाम्बवम् ।  
+इत्य् अक्षुण्णमनोज्ञचाटुजनितव्रीडः पुरन्ध्रीजना  
+धन्यानां भवनेषु पञ्जरशुकैर् आहारम् अभ्यर्थ्यते ॥११७८॥  
 
 
-vākkūṭasya | (su.ra. 406)  
+वाक्कूटस्य । (सु।र। ४०६)  
 
 
-uṣasi gurusamakṣaṃ lajjamānā mṛgākṣīr  
-atirutam anukartuṃ rājakīre pravṛtte |  
-tirayati śiśulīlānartanacchadmatāla  
-pracalavalayamālāsphālakolāhalena ||1179||  
+उषसि गुरुसमक्षं लज्जमाना मृगाक्षीर्  
+अतिरुतम् अनुकर्तुं राजकीरे प्रवृत्ते ।  
+तिरयति शिशुलीलानर्तनच्छद्मताल  
+प्रचलवलयमालास्फालकोलाहलेन ॥११७९॥  
 
 
-bhavabhūteḥ | (su.ra. 616)  
+भवभूतेः । (सु।र। ६१६)  
 
 
-dampatyor niśi jalpator gṛhaśukenākarṇitaṃ yadvacas  
-tat prātar gurusannidhau nigadatas tasyopahāraṃ vadhūḥ |  
-karṇālaṅkṛtipadmarāgaśakalaṃ vinyasya cañcūpuṭe  
-vrīḍārtā prakaroti dāḍimaphalavyājena vāgbandhanam ||1180||  
+दम्पत्योर् निशि जल्पतोर् गृहशुकेनाकर्णितं यद्वचस्  
+तत् प्रातर् गुरुसन्निधौ निगदतस् तस्योपहारं वधूः ।  
+कर्णालङ्कृतिपद्मरागशकलं विन्यस्य चञ्चूपुटे  
+व्रीडार्ता प्रकरोति दाडिमफलव्याजेन वाग्बन्धनम् ॥११८०॥  
 
 
-amaroḥ | (amaru 15, Kuval 173, su.ra. 621, Sbh 2214, śā.pa. 3743)  
+अमरोः । (अमरु १५, कुवल् १७३, सु।र। ६२१, स्भ् २२१४, शा।प। ३७४३)  
 
 
-142. pratyūṣaḥ   
+१४२। प्रत्यूषः   
 
 
-kṣuṇṇāny eva tamāṃsi kintu dadhati prauḍhi na samyagdṛśor  
-vāsaḥ saṃvṛttam eva kintu jahati prāṇeśvaraṃ nābalāḥ |  
-pārāvāragataiś ca kokamithunair ānandato gadgadaṃ   
-sākūtaṃ rutam eva kintu sahasā jhātkṛtya noḍḍīyate ||1181||  
+क्षुण्णान्य् एव तमांसि किन्तु दधति प्रौढि न सम्यग्दृशोर्  
+वासः संवृत्तम् एव किन्तु जहति प्राणेश्वरं नाबलाः ।  
+पारावारगतैश् च कोकमिथुनैर् आनन्दतो गद्गदं   
+साकूतं रुतम् एव किन्तु सहसा झात्कृत्य नोड्डीयते ॥११८१॥  
 
 
-vasukalpasya | (su.ra. 965)  
+वसुकल्पस्य । (सु।र। ९६५)  
 
 
-patyau pātre kalānāṃ vrajati gativaśād astam indau krameṇa  
-krandantī patrirāvair vigalitatimirastomadhammillabhārā |  
-prabhraṃśisthūlamuktāphalanikaraparispardhitārāśrubinduḥ  
-pronmīlatpūrvasandhyāhutabhuji rajanī paśya dehaṃ juhoti ||1182||  
+पत्यौ पात्रे कलानां व्रजति गतिवशाद् अस्तम् इन्दौ क्रमेण  
+क्रन्दन्ती पत्रिरावैर् विगलिततिमिरस्तोमधम्मिल्लभारा ।  
+प्रभ्रंशिस्थूलमुक्ताफलनिकरपरिस्पर्धिताराश्रुबिन्दुः  
+प्रोन्मीलत्पूर्वसन्ध्याहुतभुजि रजनी पश्य देहं जुहोति ॥११८२॥  
 
 
-yogeśvarasya | (sū.mu. 82.3, su.ra. 970)  
+योगेश्वरस्य । (सू।मु। ८२।३, सु।र। ९७०)  
 
 
-utkaṇṭhākulacakravākayuvatīniḥśvāsadaṇḍāhataḥ  
-pīyūṣadyutir acchadarpaṇatulām ārohati prasthitaḥ |  
-kokānāṃ kṛpayeva kukkuṭaravair āhūyamāne ravau  
-dig jātā navadhautavidrumamaṇicchāyā ca sautrāmaṇī ||1183||  
+उत्कण्ठाकुलचक्रवाकयुवतीनिःश्वासदण्डाहतः  
+पीयूषद्युतिर् अच्छदर्पणतुलाम् आरोहति प्रस्थितः ।  
+कोकानां कृपयेव कुक्कुटरवैर् आहूयमाने रवौ  
+दिग् जाता नवधौतविद्रुममणिच्छाया च सौत्रामणी ॥११८३॥  
 
 
-śubhāṅkasya |  
+शुभाङ्कस्य ।  
 
 
-prāleyāmbhaḥśiśirapavanāpīyamānaklamānāṃ  
-kaṇṭhopāntastimitanamitaikaikadoḥkandalīnām |  
-nānākrīḍājanitarajanījāgareṇopanīte  
-nidrābhogaḥ sthagayati dṛśau sāṃprataṃ dampatīnām ||1184||  
+प्रालेयाम्भःशिशिरपवनापीयमानक्लमानां  
+कण्ठोपान्तस्तिमितनमितैकैकदोःकन्दलीनाम् ।  
+नानाक्रीडाजनितरजनीजागरेणोपनीते  
+निद्राभोगः स्थगयति दृशौ सांप्रतं दम्पतीनाम् ॥११८४॥  
 
 
-surabheḥ |  
+सुरभेः ।  
 
 
-tārāṇāṃ viralo’dhunā parikaraḥ smeraṃ nabho vartate  
-mañjiṣṭhārasapāṭalena mahasākrāntā ca pūrvā kakup |  
-kiṃcānyat smarajāgarūkavihagadvandvasya duḥkhacchido  
-mitrasyāgamanaṃ vyanakti visinīnidrādaridraḥ kṣaṇaḥ ||1185||  
+ताराणां विरलो’धुना परिकरः स्मेरं नभो वर्तते  
+मञ्जिष्ठारसपाटलेन महसाक्रान्ता च पूर्वा ककुप् ।  
+किंचान्यत् स्मरजागरूकविहगद्वन्द्वस्य दुःखच्छिदो  
+मित्रस्यागमनं व्यनक्ति विसिनीनिद्रादरिद्रः क्षणः ॥११८५॥  
 
 
-kāmadevasya |  
-143. sūryodayaḥ  
+कामदेवस्य ।  
+१४३। सूर्योदयः  
 
 
-ayam udayati mudrābhañjanaḥ padminīnām   
-udayagirivanālībālamandārapuṣpam |  
-virahavidhurakokadvandvabandhur vibhindan   
-kupitakapikapolakrodhatāmrastamāṃsi ||1186||  
+अयम् उदयति मुद्राभञ्जनः पद्मिनीनाम्   
+उदयगिरिवनालीबालमन्दारपुष्पम् ।  
+विरहविधुरकोकद्वन्द्वबन्धुर् विभिन्दन्   
+कुपितकपिकपोलक्रोधताम्रस्तमांसि ॥११८६॥  
 
 
-yogeśvarasya | (sa.ka.ā. 1.100, sā.da. under 9.6, su.ra. 979)  
+योगेश्वरस्य । (स।क।आ। १।१००, सा।द। उन्देर् ९।६, सु।र। ९७९)  
 
 
-śakyārcanaḥ sucir amīkṣaṇapaṅkajena  
-kāśmīrapiṇḍaparipāṭalamaṇḍalaśrīḥ |  
-dhvāntaṃ harann amaranāyakapālitāyāṃ  
-devo’bhyudeti diśi vāsarabījakoṣaḥ ||1187||  
+शक्यार्चनः सुचिर् अमीक्षणपङ्कजेन  
+काश्मीरपिण्डपरिपाटलमण्डलश्रीः ।  
+ध्वान्तं हरन्न् अमरनायकपालितायां  
+देवो’भ्युदेति दिशि वासरबीजकोषः ॥११८७॥  
 
 
-viṣṇuhareḥ | (su.ra. 968)  
+विष्णुहरेः । (सु।र। ९६८)  
 
 
-tejorāśau bhuvanajaladheḥ plāvitāśātaṭāntaṃ  
-bhānau kumbhodbhava iva pibaty andhakārotkarāmbhaḥ |  
-sadyo mādyanmakarakamaṭhasthūlamatsyā ivaite  
-yānty antasthāḥ kulaśikhariṇo dṛṣṭivartma krameṇa ||1188||  
+तेजोराशौ भुवनजलधेः प्लाविताशातटान्तं  
+भानौ कुम्भोद्भव इव पिबत्य् अन्धकारोत्कराम्भः ।  
+सद्यो माद्यन्मकरकमठस्थूलमत्स्या इवैते  
+यान्त्य् अन्तस्थाः कुलशिखरिणो दृष्टिवर्त्म क्रमेण ॥११८८॥  
 
 
-śikhasvāminaḥ | (su.ra. 976)  
+शिखस्वामिनः । (सु।र। ९७६)  
 
 
-apāstas tārābhir vidhana iva kāmī yuvatibhir   
-madhucchatracchāyāṃ spṛśati śaśalakṣmā pariṇataḥ |  
-ayaṃ prācīkarṇābharaṇaracanāśokakusuma  
-cchaṭālakṣmīcauraḥ kalayati raviḥ pūrvam acalam ||1189||  
+अपास्तस् ताराभिर् विधन इव कामी युवतिभिर्   
+मधुच्छत्रच्छायां स्पृशति शशलक्ष्मा परिणतः ।  
+अयं प्राचीकर्णाभरणरचनाशोककुसुम  
+च्छटालक्ष्मीचौरः कलयति रविः पूर्वम् अचलम् ॥११८९॥  
 
 
-ratiśramapariskhalatsamadasiddhasīmantinī  
-stanacyutam ivāṃśukaṃ viśadapadmarāgadyuti |  
-ayaṃ diśi śatakratoḥ kuvalayākṣi bimbāruṇa  
-tvadīyadaśanacchadacchavirudeti bālātapaḥ ||1190||  
+रतिश्रमपरिस्खलत्समदसिद्धसीमन्तिनी  
+स्तनच्युतम् इवांशुकं विशदपद्मरागद्युति ।  
+अयं दिशि शतक्रतोः कुवलयाक्षि बिम्बारुण  
+त्वदीयदशनच्छदच्छविरुदेति बालातपः ॥११९०॥  
 
 
-muñjasya |  
+मुञ्जस्य ।  
 
 
-144. madhyāhnaḥ  
+१४४। मध्याह्नः  
 
 
-etasmin divasasya madhyasamaye vāto’pi caṇḍātapa  
-trāseneva na saṃcaraty ahimagorbimbe lalāṭaṃtape |  
-kiṃ cānyatparitaptadhūliluṭhanaproṣāsahatvād iva  
-cchāyā dūragatāpi bhūruhatale vyāvartya saṃlīyate ||1191||  
+एतस्मिन् दिवसस्य मध्यसमये वातो’पि चण्डातप  
+त्रासेनेव न संचरत्य् अहिमगोर्बिम्बे ललाटंतपे ।  
+किं चान्यत्परितप्तधूलिलुठनप्रोषासहत्वाद् इव  
+च्छाया दूरगतापि भूरुहतले व्यावर्त्य संलीयते ॥११९१॥  
 
 
-malayarājasya | (su.ra. 982)  
+मलयराजस्य । (सु।र। ९८२)  
 
 
-dhatte padmalatādalepsur upari khaṃ karṇatālaṃ dvipaḥ  
-śaṣpastambarasān niyacchati śikhī madhye śikhaṇḍaṃ śiraḥ |  
-mithyā leḍhi mṛṇālakoṭirabhasād daṃṣṭrāṅkuraṃ śūkaro  
-madhyāhne mahiṣaś ca vāñchati nijacchāyāmahākardamam ||1192||  
+धत्ते पद्मलतादलेप्सुर् उपरि खं कर्णतालं द्विपः  
+शष्पस्तम्बरसान् नियच्छति शिखी मध्ये शिखण्डं शिरः ।  
+मिथ्या लेढि मृणालकोटिरभसाद् दंष्ट्राङ्कुरं शूकरो  
+मध्याह्ने महिषश् च वाञ्छति निजच्छायामहाकर्दमम् ॥११९२॥  
 
 
-rājaśekharasya | (vi.śā.bha. 1.43, su.ra. 989)  
+राजशेखरस्य । (वि।शा।भ। १।४३, सु।र। ९८९)  
 
 
-madhyāhnārkamarīciduḥsahatayā saṃtyajya darbhāṅkura  
-grāsān āśritakandaradrumaghanacchāyaṃ mṛgāḥ śerate |  
-mātaṅgaḥ karaśīkarair nijavaśāṃ siñcan śramārtāṃ muhur  
-niṣkrānto gahanād drutodgatapadaṃ padmākare sarpati ||1193||  
+मध्याह्नार्कमरीचिदुःसहतया संत्यज्य दर्भाङ्कुर  
+ग्रासान् आश्रितकन्दरद्रुमघनच्छायं मृगाः शेरते ।  
+मातङ्गः करशीकरैर् निजवशां सिञ्चन् श्रमार्तां मुहुर्  
+निष्क्रान्तो गहनाद् द्रुतोद्गतपदं पद्माकरे सर्पति ॥११९३॥  
 
 
-vasantadevasya |  
+वसन्तदेवस्य ।  
 
 
-tāpāt piṇḍitavigraheva viśati cchāyā tarūṇāṃ tale  
-ruddhaḥ svāśrayapakṣapātakṛtibhiḥ padmair apām ātapaḥ |  
-adyāntaḥpurayoṣitāṃ madhumadotsekāt kapolodare   
-dvitraiḥ svedalavair udañcitam aho sūryo lalāṭaṃ tapaḥ ||1194||  
+तापात् पिण्डितविग्रहेव विशति च्छाया तरूणां तले  
+रुद्धः स्वाश्रयपक्षपातकृतिभिः पद्मैर् अपाम् आतपः ।  
+अद्यान्तःपुरयोषितां मधुमदोत्सेकात् कपोलोदरे   
+द्वित्रैः स्वेदलवैर् उदञ्चितम् अहो सूर्यो ललाटं तपः ॥११९४॥  
 
 
-utpalarājasya |  
+उत्पलराजस्य ।  
 
 
-vapus timyac cīnāṃśukaniviḍapīnorujaghana  
-stanānāṃ niścyotaccikurapayasāṃ pakṣmaladṛśām |  
-nimagnottīrṇānāṃ pramadavanavāpītaṭajuṣāṃ  
-didṛkṣābhir devo ravir atha rathaṃ mantharayati ||1195||  
+वपुस् तिम्यच् चीनांशुकनिविडपीनोरुजघन  
+स्तनानां निश्च्योतच्चिकुरपयसां पक्ष्मलदृशाम् ।  
+निमग्नोत्तीर्णानां प्रमदवनवापीतटजुषां  
+दिदृक्षाभिर् देवो रविर् अथ रथं मन्थरयति ॥११९५॥  
 
 
-govardhanasya |  
+गोवर्धनस्य ।  
 
 
-145. astamayaḥ  
+१४५। अस्तमयः  
 
 
-yāte bhāsvati vṛddhasārasaśiraḥśoṇestaśṛṅgāśrayaṃ  
-vyāliptaṃ timiraiḥ kaṭhorabalibhukkaṇṭhātinīlair nabhaḥ |  
-māhendrī dig api prasannamalinā candrodayākāṅkṣiṇī  
-bhāty eṣā ciraviprayuktaśavarīgaṇḍābhapāṇḍucchaviḥ ||1196||  
+याते भास्वति वृद्धसारसशिरःशोणेस्तशृङ्गाश्रयं  
+व्यालिप्तं तिमिरैः कठोरबलिभुक्कण्ठातिनीलैर् नभः ।  
+माहेन्द्री दिग् अपि प्रसन्नमलिना चन्द्रोदयाकाङ्क्षिणी  
+भात्य् एषा चिरविप्रयुक्तशवरीगण्डाभपाण्डुच्छविः ॥११९६॥  
 
 
-malayarājasya | (su.ra. 875)  
+मलयराजस्य । (सु।र। ८७५)  
 
 
-kramasaṅkucitakuśeśayakāṣāntaranīyamānamadhupena |  
-garalam iva galati nalinī dinakaravirahātikhedena ||1197||  
+क्रमसङ्कुचितकुशेशयकाषान्तरनीयमानमधुपेन ।  
+गरलम् इव गलति नलिनी दिनकरविरहातिखेदेन ॥११९७॥  
 
 
-dattasya |  
+दत्तस्य ।  
 
 
-karasādo’mbaratyāgas tejohāniḥ sarāgatā |  
-vāruṇīsaṅgamāvasthā bhānunāpy anubhūyate ||1198||  
+करसादो’म्बरत्यागस् तेजोहानिः सरागता ।  
+वारुणीसङ्गमावस्था भानुनाप्य् अनुभूयते ॥११९८॥  
 
 
-kāśmīrakasuramūlyasya | (Sv. 1886, surabhicūlasya)  
+काश्मीरकसुरमूल्यस्य । (स्व्। १८८६, सुरभिचूलस्य)  
 
 
-vrajati kalitastokāloko navīnajavāruṇa  
-cchavir asau bimbaṃ vindan diśaṃ bhṛśam appateḥ |  
-kakubhi kakubhi prāptāhārāḥ kulāyamahīruhāṃ  
-śirasi śirasi svairaṃ svairaṃ patanti patattriṇaḥ ||1199||  
+व्रजति कलितस्तोकालोको नवीनजवारुण  
+च्छविर् असौ बिम्बं विन्दन् दिशं भृशम् अप्पतेः ।  
+ककुभि ककुभि प्राप्ताहाराः कुलायमहीरुहां  
+शिरसि शिरसि स्वैरं स्वैरं पतन्ति पतत्त्रिणः ॥११९९॥  
 
 
-kasyacit | (su.ra. 869)  
+कस्यचित् । (सु।र। ८६९)  
 
 
-rucirajanitatārāhāracaurasya bhūbhṛc  
-chikharataruniveśollambitasyordhvapādam |  
-ciram avanatam etac choṇitāpūryamāṇaṃ   
-mukham iva ravibimbaṃ rajyate vāsarasya ||1200||  
+रुचिरजनितताराहारचौरस्य भूभृच्  
+छिखरतरुनिवेशोल्लम्बितस्योर्ध्वपादम् ।  
+चिरम् अवनतम् एतच् छोणितापूर्यमाणं   
+मुखम् इव रविबिम्बं रज्यते वासरस्य ॥१२००॥  
 
 
-saṅghaśrīmitrasya |  
+सङ्घश्रीमित्रस्य ।  
 
 
-146. sandhyā  
+१४६। सन्ध्या  
 
 
-niśākarakara—sparśaharṣonmīlitatārakā |  
-aho rāgavatī sandhyā jahāti svayam ambaram ||1201||  
+निशाकरकर—स्पर्शहर्षोन्मीलिततारका ।  
+अहो रागवती सन्ध्या जहाति स्वयम् अम्बरम् ॥१२०१॥  
 
 
-yuvarājasya |  
+युवराजस्य ।  
 
 
-dikkāminīvadanakuṅkumapaṅkacarcā  
-cakāṅganāhṛdayadāvadavānalārciḥ |  
-sandhyā rarāja gaganāntaratoyarāśi  
-bālapravālaviṭapāṅkurakandalaśrīḥ ||1202||  
+दिक्कामिनीवदनकुङ्कुमपङ्कचर्चा  
+चकाङ्गनाहृदयदावदवानलार्चिः ।  
+सन्ध्या रराज गगनान्तरतोयराशि  
+बालप्रवालविटपाङ्कुरकन्दलश्रीः ॥१२०२॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-kausumbhavasarucirāṃ sandhyāṃ pariṇīya mandam anuyāntīm |  
-vāsālayam iva jaladhiṃ rāgī purato ravir viśati ||1203||  
+कौसुम्भवसरुचिरां सन्ध्यां परिणीय मन्दम् अनुयान्तीम् ।  
+वासालयम् इव जलधिं रागी पुरतो रविर् विशति ॥१२०३॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-ākṛṣṭaś cakravākair nayanakalanayā bandhakībhir nirasto   
-nāstaṃ drāg eti bhānur nivasati nalinībodhanidrāntarāle |  
-sandhyādīpaprarohaṃ bahulatilarasavyāptapatrāntarālaṃ   
-vāsāgāre diśantī hasati navavadhūkrodhadṛṣṭā bhujiṣyā ||1204||  
+आकृष्टश् चक्रवाकैर् नयनकलनया बन्धकीभिर् निरस्तो   
+नास्तं द्राग् एति भानुर् निवसति नलिनीबोधनिद्रान्तराले ।  
+सन्ध्यादीपप्ररोहं बहुलतिलरसव्याप्तपत्रान्तरालं   
+वासागारे दिशन्ती हसति नववधूक्रोधदृष्टा भुजिष्या ॥१२०४॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-anurāgavatī saṃdhyā divasastatpuraḥsaraḥ |  
-aho daivagatiścitrā tathāpi na samāgamaḥ ||1205||  
+अनुरागवती संध्या दिवसस्तत्पुरःसरः ।  
+अहो दैवगतिश्चित्रा तथापि न समागमः ॥१२०५॥  
 
 
-kasyacit | (Kuval. p. 108, sa.ka.ā. 3.44, sā.da. under 10.128)  
+कस्यचित् । (कुवल्। प्। १०८, स।क।आ। ३।४४, सा।द। उन्देर् १०।१२८)  
 
 
-147. andhakāraḥ  
+१४७। अन्धकारः  
 
 
-akṣṇor mañjulam añjanaṃ caraṇayor nīlāśmajau nūpurā  
-vaṅge nīlapaṭaḥ sphuṭaṃ mṛgamadanyāsaḥ kapolasthale |  
-yatprītyā pariśīlitaṃ paradṛśāṃ rodhāya tat sāṃprataṃ   
-nepathyasya vidhāv apīdam asatījātasya jātaṃ tamaḥ ||1206||  
+अक्ष्णोर् मञ्जुलम् अञ्जनं चरणयोर् नीलाश्मजौ नूपुरा  
+वङ्गे नीलपटः स्फुटं मृगमदन्यासः कपोलस्थले ।  
+यत्प्रीत्या परिशीलितं परदृशां रोधाय तत् सांप्रतं   
+नेपथ्यस्य विधाव् अपीदम् असतीजातस्य जातं तमः ॥१२०६॥  
 
 
-vāpīkasya |  
+वापीकस्य ।  
 
 
-utsārito hasitadīdhitibhiḥ kapolād  
-ekāvalībhir avadhūta iva stanebhyaḥ |  
-aṅgeṣv alabdhaparibhogasukho’ndhakāro  
-gṛhṇāti keśaracanāsu ruṣeva nārīḥ ||1207||  
+उत्सारितो हसितदीधितिभिः कपोलाद्  
+एकावलीभिर् अवधूत इव स्तनेभ्यः ।  
+अङ्गेष्व् अलब्धपरिभोगसुखो’न्धकारो  
+गृह्णाति केशरचनासु रुषेव नारीः ॥१२०७॥  
 
 
-gaṇapateḥ | (su.ra. 892)  
+गणपतेः । (सु।र। ८९२)  
 
 
-adriṣvañjanapuñjakānti jaladaprāyaṃ ca mūle diśām   
-ūrdhvaṃ nīlavitānakalpabhavanau jambālalepopamam |  
-tīre nīranidhes tamālaviṭapicchāyāṃ ca sāyaṃ śanair   
-udgacchaty abhisārikāpriyatamapremānukūlaṃ tamaḥ ||1208||  
+अद्रिष्वञ्जनपुञ्जकान्ति जलदप्रायं च मूले दिशाम्   
+ऊर्ध्वं नीलवितानकल्पभवनौ जम्बाललेपोपमम् ।  
+तीरे नीरनिधेस् तमालविटपिच्छायां च सायं शनैर्   
+उद्गच्छत्य् अभिसारिकाप्रियतमप्रेमानुकूलं तमः ॥१२०८॥  
 
 
-jhañjhānilasya |  
+झञ्झानिलस्य ।  
 
 
-yatra tatra ratisajjabandhakī  
-prītaye madanaśāsanād iva |  
-nīlakāṇḍapaṭatām upāyayau  
-sūcibhedyaniviḍaṃ niśātamaḥ ||1209||  
+यत्र तत्र रतिसज्जबन्धकी  
+प्रीतये मदनशासनाद् इव ।  
+नीलकाण्डपटताम् उपाययौ  
+सूचिभेद्यनिविडं निशातमः ॥१२०९॥  
 
 
-dhoyīkasya |  
+धोयीकस्य ।  
 
 
-uddhūtā dhūmadhārā virahijanamanomāthino manmathāgneḥ  
-kastūrīpatramālā timiratatir aho dikpurandhrīmukhānām |  
-nirvāṇāṅgāralekhā divasahutabhujaḥ saṃcaraccañcarīka  
-śreṇīyaṃ bhāti bhāsvatkaralulitanabhaḥkandarendīvarasya ||1210||  
+उद्धूता धूमधारा विरहिजनमनोमाथिनो मन्मथाग्नेः  
+कस्तूरीपत्रमाला तिमिरततिर् अहो दिक्पुरन्ध्रीमुखानाम् ।  
+निर्वाणाङ्गारलेखा दिवसहुतभुजः संचरच्चञ्चरीक  
+श्रेणीयं भाति भास्वत्करलुलितनभःकन्दरेन्दीवरस्य ॥१२१०॥  
 
 
-govardhanasya |  
+गोवर्धनस्य ।  
 
 
-148. dīpaḥ  
+१४८। दीपः  
 
 
-vadanavidhusudhābhiṣekaśītān  
-saparibhāvanayeva lolamauliḥ |  
-tvadadharamaruto nipīya hāsyaty  
-api sahajakṣaṇabhaṅgitāṃ pradīpaḥ ||1211||  
+वदनविधुसुधाभिषेकशीतान्  
+सपरिभावनयेव लोलमौलिः ।  
+त्वदधरमरुतो निपीय हास्यत्य्  
+अपि सहजक्षणभङ्गितां प्रदीपः ॥१२११॥  
 
 
-tailapāṭīyagāṅgokasya |  
+तैलपाटीयगाङ्गोकस्य ।  
 
 
-nirvāṇagocaragato’pi muhur niśāyāṃ  
-kiṃ ceṣṭitaṃ taruṇayoḥ suratāvasāne |  
-ity evam ākalayituṃ sakalaṃ kalāvid  
-udgrīvikām iva dadāti ratipradīpaḥ ||1212||  
+निर्वाणगोचरगतो’पि मुहुर् निशायां  
+किं चेष्टितं तरुणयोः सुरतावसाने ।  
+इत्य् एवम् आकलयितुं सकलं कलाविद्  
+उद्ग्रीविकाम् इव ददाति रतिप्रदीपः ॥१२१२॥  
 
 
-kasyacit | (su.ra. 856)  
+कस्यचित् । (सु।र। ८५६)  
 
 
-bālāṃ kṛśāṅgīṃ suratānabhijñāṃ  
-gāḍhaṃ navoḍhām upagūḍhavantam |  
-vilokya jāmātaram eṣa dīpo  
-vātāyate kampam upaiti bhītaḥ ||1213||  
+बालां कृशाङ्गीं सुरतानभिज्ञां  
+गाढं नवोढाम् उपगूढवन्तम् ।  
+विलोक्य जामातरम् एष दीपो  
+वातायते कम्पम् उपैति भीतः ॥१२१३॥  
 
 
-kasyacit | (su.ra. 857)  
+कस्यचित् । (सु।र। ८५७)  
 
 
-hanūmān iva dīpo’yaṃ dūram ullāsitāñjanaḥ |  
-kiṃ ca rāma ivābhāti vinirdhūtadaśānanaḥ ||1214||  
+हनूमान् इव दीपो’यं दूरम् उल्लासिताञ्जनः ।  
+किं च राम इवाभाति विनिर्धूतदशाननः ॥१२१४॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-atipītāṃ tamorājīṃ tanīyān voḍhum akṣamaḥ |  
-vamatīva śanair eṣa pradīpaḥ kajjalacchalāt ||1215||  
+अतिपीतां तमोराजीं तनीयान् वोढुम् अक्षमः ।  
+वमतीव शनैर् एष प्रदीपः कज्जलच्छलात् ॥१२१५॥  
 
 
-kasyacit | (su.ra. 855)  
+कस्यचित् । (सु।र। ८५५)  
 
 
-149. candrodayaḥ  
+१४९। चन्द्रोदयः  
 
 
-ayam udayati candraś candrikādhautaviśvaḥ   
-pariṇatavimalimni vyomni karpūragauraḥ |  
-ṛjurajataśalākāspardhibhir yasya pādair  
-jagad amalamṛṇālīpañjarasthaṃ vibhāti ||1216||  
+अयम् उदयति चन्द्रश् चन्द्रिकाधौतविश्वः   
+परिणतविमलिम्नि व्योम्नि कर्पूरगौरः ।  
+ऋजुरजतशलाकास्पर्धिभिर् यस्य पादैर्  
+जगद् अमलमृणालीपञ्जरस्थं विभाति ॥१२१६॥  
 
 
-madhoḥ |  
+मधोः ।  
 
 
-yas trailokyajitaḥ smarasya kim api krīḍātaḍāgaṃ mahad  
-yaś cābhogabhṛto bhuvaḥ prakaṭitākārārpaṇo darpaṇaḥ |  
-so’yaṃ sundari mandarādrimathitakṣīrodasāroccayaś  
-candraḥ kuṅkumapaṅkapiṇḍalaḍahacchāyaḥ samudgacchati ||1217||  
+यस् त्रैलोक्यजितः स्मरस्य किम् अपि क्रीडातडागं महद्  
+यश् चाभोगभृतो भुवः प्रकटिताकारार्पणो दर्पणः ।  
+सो’यं सुन्दरि मन्दराद्रिमथितक्षीरोदसारोच्चयश्  
+चन्द्रः कुङ्कुमपङ्कपिण्डलडहच्छायः समुद्गच्छति ॥१२१७॥  
 
 
-rājaśekharasya |  
+राजशेखरस्य ।  
 
 
-asāv ekadvitriprabhṛtiparipāṭyā prakaṭayan   
-kalāḥ svairaṃ svairaṃ navakamalakandāṅkurarucaḥ |  
-purandhrīṇāṃ preyovirahadahanoddīpitadṛśāṃ   
-kaṭākṣebhyo bibhyan nibhṛta iva candro’bhyudayate ||1218||  
+असाव् एकद्वित्रिप्रभृतिपरिपाट्या प्रकटयन्   
+कलाः स्वैरं स्वैरं नवकमलकन्दाङ्कुररुचः ।  
+पुरन्ध्रीणां प्रेयोविरहदहनोद्दीपितदृशां   
+कटाक्षेभ्यो बिभ्यन् निभृत इव चन्द्रो’भ्युदयते ॥१२१८॥  
 
 
-tasyaiva | (su.ra. 909)  
+तस्यैव । (सु।र। ९०९)  
 
 
-devaḥ prācīm idānīm ayam upacinute pañcabāṇasya so’yaṃ  
-bibhrāṇaḥ śāṇalīlām amṛtarucir imāṃ lākṣikībhiḥ prabhābhiḥ |  
-kiṃ cāmuṣya prasaṅgān niśitaśaraśikhāvisphuradbhiḥ sphuliṅgaiḥ  
-saṃdhyārāgacchalena cchuritam iva taṭavyomacakraṃ cakāsti ||1219||  
+देवः प्राचीम् इदानीम् अयम् उपचिनुते पञ्चबाणस्य सो’यं  
+बिभ्राणः शाणलीलाम् अमृतरुचिर् इमां लाक्षिकीभिः प्रभाभिः ।  
+किं चामुष्य प्रसङ्गान् निशितशरशिखाविस्फुरद्भिः स्फुलिङ्गैः  
+संध्यारागच्छलेन च्छुरितम् इव तटव्योमचक्रं चकास्ति ॥१२१९॥  
 
 
-hareḥ |  
+हरेः ।  
 
 
-āśāḥ saṃtamasopalepamalināḥ pīyūṣagauraiḥ karair   
-ālimpann ayam udgatair divam imāṃ karpūrapūraṃ sṛjan |  
-candraś candraśilaikakuṭṭimam ayaṃ kṣoṇītalaṃ kalpayan  
-paśyodgacchati pākapāṇḍuraśaracchāyopameyacchaviḥ ||1220||  
+आशाः संतमसोपलेपमलिनाः पीयूषगौरैः करैर्   
+आलिम्पन्न् अयम् उद्गतैर् दिवम् इमां कर्पूरपूरं सृजन् ।  
+चन्द्रश् चन्द्रशिलैककुट्टिमम् अयं क्षोणीतलं कल्पयन्  
+पश्योद्गच्छति पाकपाण्डुरशरच्छायोपमेयच्छविः ॥१२२०॥  
 
 
-anaṅgasya |  
+अनङ्गस्य ।  
 
 
-150. pradoṣaḥ  
+१५०। प्रदोषः  
 
 
-haṃsāḥ saṃprati pakṣatau sunibhṛtaṃ kṛtvā śiraḥ śerate  
-jyotsnābhis tṛṣitāḥ samaṃ sahacaraiḥ suptāś cakorastriyaḥ |  
-ghūrṇadbhiḥ kumudodareṣv api madhukṣīvaiḥ sthitaṃ ṣaṭpadair  
-apy uccair giriśṛṅgamūrdhani bhṛśaṃ niryānty amī barhiṇaḥ ||1221||  
+हंसाः संप्रति पक्षतौ सुनिभृतं कृत्वा शिरः शेरते  
+ज्योत्स्नाभिस् तृषिताः समं सहचरैः सुप्ताश् चकोरस्त्रियः ।  
+घूर्णद्भिः कुमुदोदरेष्व् अपि मधुक्षीवैः स्थितं षट्पदैर्  
+अप्य् उच्चैर् गिरिशृङ्गमूर्धनि भृशं निर्यान्त्य् अमी बर्हिणः ॥१२२१॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-sairandhrīkarakṛṣṭapaṭṭakasarattāradhvanir dūrato  
-dūtīsūtritasandhivigrahavidhiḥ sollāsalīlācayaḥ |  
-vārastrījanasajjyamānaśayanaḥ saṃnaddhapuṣpāyudha  
-śrīkhaṇḍadravadhautasaudhamalino ramyaḥ kṣaṇo vartate ||1222||  
+सैरन्ध्रीकरकृष्टपट्टकसरत्तारध्वनिर् दूरतो  
+दूतीसूत्रितसन्धिविग्रहविधिः सोल्लासलीलाचयः ।  
+वारस्त्रीजनसज्ज्यमानशयनः संनद्धपुष्पायुध  
+श्रीखण्डद्रवधौतसौधमलिनो रम्यः क्षणो वर्तते ॥१२२२॥  
 
 
-kasyacit | (vi.śā.bha. 2.23, śā.pa. 3591, sū.mu. 68.2)  
+कस्यचित् । (वि।शा।भ। २।२३, शा।प। ३५९१, सू।मु। ६८।२)  
 
 
-dik sarāgamukhasaṃnidhāpita  
-sphītacandracaṣakā śatakratoḥ |  
-kṣīvabhāvam iva bibhratī ratau  
-viślathoccatimirāṃśukoccayā ||1223||  
+दिक् सरागमुखसंनिधापित  
+स्फीतचन्द्रचषका शतक्रतोः ।  
+क्षीवभावम् इव बिभ्रती रतौ  
+विश्लथोच्चतिमिरांशुकोच्चया ॥१२२३॥  
 
 
-abhinandasya |  
+अभिनन्दस्य ।  
 
 
-bāṣpair mānavatī janasya kulaṭāsaṃketacintormibhiḥ  
-saṃprāptā priyasaṃgamaikamanasām ākalpanopakramaiḥ |  
-dūtīsaṃcaraṇair api praṇayinoḥ saṃdeśavakroktibhiḥ  
-kutrāyaṃ kurute na manmathamanastoṣaṃ pradoṣāgamaḥ ||1224||  
+बाष्पैर् मानवती जनस्य कुलटासंकेतचिन्तोर्मिभिः  
+संप्राप्ता प्रियसंगमैकमनसाम् आकल्पनोपक्रमैः ।  
+दूतीसंचरणैर् अपि प्रणयिनोः संदेशवक्रोक्तिभिः  
+कुत्रायं कुरुते न मन्मथमनस्तोषं प्रदोषागमः ॥१२२४॥  
 
 
-jalacandrasya |  
+जलचन्द्रस्य ।  
 
 
-upari gūḍhahimāṃśumarīcibhis   
-tamasi dūram itaḥ pratisārite |  
-alakasaṃyamanād iva locane  
-harati me harivāhanadi mukham ||1225||  
+उपरि गूढहिमांशुमरीचिभिस्   
+तमसि दूरम् इतः प्रतिसारिते ।  
+अलकसंयमनाद् इव लोचने  
+हरति मे हरिवाहनदि मुखम् ॥१२२५॥  
 
 
-kālidāsasya | (Vik 3.6)  
-151. vasantārambhaḥ  
+कालिदासस्य । (विक् ३।६)  
+१५१। वसन्तारम्भः  
 
 
-garbhagranthiṣu vīrudhāṃ sumanaso madhye’ṅkuraṃ pallavā  
-vāñchāmātraparigrahaḥ pikavadhūkaṇṭhodare pañcamaḥ |  
-kiṃ ca trīṇi jaganti jiṣṇudivasair dvitrair manojanmano  
-devasyāpi cirojjhitaṃ yadi bhaved abhyāsavaśyaṃ dhanuḥ ||1226||  
+गर्भग्रन्थिषु वीरुधां सुमनसो मध्ये’ङ्कुरं पल्लवा  
+वाञ्छामात्रपरिग्रहः पिकवधूकण्ठोदरे पञ्चमः ।  
+किं च त्रीणि जगन्ति जिष्णुदिवसैर् द्वित्रैर् मनोजन्मनो  
+देवस्यापि चिरोज्झितं यदि भवेद् अभ्यासवश्यं धनुः ॥१२२६॥  
 
 
-(rājaśekharasya; vi.śā.bha. 1.23, su.ra. 166)  
+(राजशेखरस्य; वि।शा।भ। १।२३, सु।र। १६६)  
 
 
-atītā śrītārtiḥ prasarati śanair uṣmakaṇikā  
-dināni sphāyante ravir api athaṃ mantharayati |  
-himānīnirmuktaḥ sphurati nitarāṃ śītakiraṇaḥ  
-śarāṇāṃ vyāpāraḥ kusumadhanuṣo na vyavahitaḥ ||1227||  
+अतीता श्रीतार्तिः प्रसरति शनैर् उष्मकणिका  
+दिनानि स्फायन्ते रविर् अपि अथं मन्थरयति ।  
+हिमानीनिर्मुक्तः स्फुरति नितरां शीतकिरणः  
+शराणां व्यापारः कुसुमधनुषो न व्यवहितः ॥१२२७॥  
 
 
-(sāmpīkasya)  
+(साम्पीकस्य)  
 
 
-nidrāśeṣanimīlitekṣaṇatayā prāpte vasantodyame  
-hastāmarṣavaśād asau nijadhanuḥ pañceṣur anviṣyati |  
-cūtāḥ korakagarbhanirbharadarodbhinnasphuradgranthayo  
-yātyāyāti ca kākalī pikavadhūkaṇṭhopakaṇṭhaṃ muhuḥ ||1228||  
+निद्राशेषनिमीलितेक्षणतया प्राप्ते वसन्तोद्यमे  
+हस्तामर्षवशाद् असौ निजधनुः पञ्चेषुर् अन्विष्यति ।  
+चूताः कोरकगर्भनिर्भरदरोद्भिन्नस्फुरद्ग्रन्थयो  
+यात्यायाति च काकली पिकवधूकण्ठोपकण्ठं मुहुः ॥१२२८॥  
 
 
-prājñabhutanāthasya |  
+प्राज्ञभुतनाथस्य ।  
 
 
-ekadveṣu rasālaśākhiṣu manāg unmīlitaṃ kuḍmalaiḥ  
-karṇākarṇikayā mithaḥ katham amī ghūrṇanti viśvedhvagāḥ |  
-dvitraiḥ kvāpi kila śrutāśrutam api spaṣṭāny apuṣṭārutaṃ  
-viṣvaṅ mūrcchati duḥsaho virahiṇīgeheṣu hāhāravaḥ ||1229||  
+एकद्वेषु रसालशाखिषु मनाग् उन्मीलितं कुड्मलैः  
+कर्णाकर्णिकया मिथः कथम् अमी घूर्णन्ति विश्वेध्वगाः ।  
+द्वित्रैः क्वापि किल श्रुताश्रुतम् अपि स्पष्टान्य् अपुष्टारुतं  
+विष्वङ् मूर्च्छति दुःसहो विरहिणीगेहेषु हाहारवः ॥१२२९॥  
 
 
-bhaṭṭaśālīyapītāmbarasya |  
+भट्टशालीयपीताम्बरस्य ।  
 
 
-yātaṃ mānair vadhūnām iva daraśithilagranthibhiḥ pūrvapatrair  
-jāto’pi kvāpi bālāmadana iva bahir nāṅkuro vyaktim eti |  
-āgāre nāgarāṇām api vihitabahuprārthanāḥ kaṇṭhasīmāṃ  
-nītvā nītvā navoḍhā iva vacanam amūḥ kokilāḥ kuṇṭhayanti ||1230||  
+यातं मानैर् वधूनाम् इव दरशिथिलग्रन्थिभिः पूर्वपत्रैर्  
+जातो’पि क्वापि बालामदन इव बहिर् नाङ्कुरो व्यक्तिम् एति ।  
+आगारे नागराणाम् अपि विहितबहुप्रार्थनाः कण्ठसीमां  
+नीत्वा नीत्वा नवोढा इव वचनम् अमूः कोकिलाः कुण्ठयन्ति ॥१२३०॥  
 
 
-(ācāryagopīkasya)  
+(आचार्यगोपीकस्य)  
 
 
-152. vasantaḥ  
+१५२। वसन्तः  
 
 
-jambūnāṃ kusumodareṣv atirasādābaddhapānotsavāḥ  
-kīrāḥ pakvaphalāśayā madhukarīś cumbanti muñcanti ca |  
-eteṣām api paśya kiṃśukataroḥ patrair abhinnatviṣāṃ  
-puṣpabhrāntibhir āpatanti sahasā cañcūṣu bhṛṅgāṅganāḥ ||1231||  
+जम्बूनां कुसुमोदरेष्व् अतिरसादाबद्धपानोत्सवाः  
+कीराः पक्वफलाशया मधुकरीश् चुम्बन्ति मुञ्चन्ति च ।  
+एतेषाम् अपि पश्य किंशुकतरोः पत्रैर् अभिन्नत्विषां  
+पुष्पभ्रान्तिभिर् आपतन्ति सहसा चञ्चूषु भृङ्गाङ्गनाः ॥१२३१॥  
 
 
-(rājaśekharasya; su.ra. 157, sū.mu. 109.23 vasukasya)  
+(राजशेखरस्य; सु।र। १५७, सू।मु। १०९।२३ वसुकस्य)  
 
 
-aṅkurite pallavite korakite  
-vikasite ca sahakare |  
-aṅkuritaḥ pallavitaḥ korakito  
-vikasitaś ca madano’sau ||1232||  
+अङ्कुरिते पल्लविते कोरकिते  
+विकसिते च सहकरे ।  
+अङ्कुरितः पल्लवितः कोरकितो  
+विकसितश् च मदनो’सौ ॥१२३२॥  
 
 
-(kasyacit; su.ra. 188)  
+(कस्यचित्; सु।र। १८८)  
 
 
-amīṣām ārūḍhaprasavavivarāṇāṃ madhulihāṃ  
-dhvaniḥ pānthastrīṇāṃ prasarati viyogajvara iva |  
-drumālīnāṃ yūnor mana iva sarāgaṃ kisalayaṃ  
-parāgaḥ puṣpāṇāṃ patati madanasyeva viśikhaḥ ||1233||  
+अमीषाम् आरूढप्रसवविवराणां मधुलिहां  
+ध्वनिः पान्थस्त्रीणां प्रसरति वियोगज्वर इव ।  
+द्रुमालीनां यूनोर् मन इव सरागं किसलयं  
+परागः पुष्पाणां पतति मदनस्येव विशिखः ॥१२३३॥  
 
 
-(vasantadevasya)  
+(वसन्तदेवस्य)  
 
 
-līlāsnānavidhikṣamaṃ madhulihāṃ puṣpeṣu jātaṃ madhu  
-sthāyitvaṃ kalakaṇṭhakaṇṭhakuhareṣv āsevate pañcamaḥ |  
-ekacchatrajagattrayārjanarucer devasya śṛṅgāriṇaś  
-caitraś citram akāṇḍa eva samabhūt trailokyamallo bhaṭaḥ ||1234||  
+लीलास्नानविधिक्षमं मधुलिहां पुष्पेषु जातं मधु  
+स्थायित्वं कलकण्ठकण्ठकुहरेष्व् आसेवते पञ्चमः ।  
+एकच्छत्रजगत्त्रयार्जनरुचेर् देवस्य शृङ्गारिणश्  
+चैत्रश् चित्रम् अकाण्ड एव समभूत् त्रैलोक्यमल्लो भटः ॥१२३४॥  
 
 
-(bilhaṇasya; Vc 7.64)  
+(बिल्हणस्य; व्च् ७।६४)  
 
 
-vāpī danturitodarā kamalinī patrāṅkuragranthibhiś  
-cūtānāṃ kalikāmilan madhulihāṃ kāpi sthitir vartate |  
-kiṃ cānyat kusumāyudho’dya bhagavān dhatte sagarvaṃ dhanur  
-jyām unmārṣṭi ca pañcabhiś ca viśikhair jetuṃ jagad vāñchati ||1235||  
+वापी दन्तुरितोदरा कमलिनी पत्राङ्कुरग्रन्थिभिश्  
+चूतानां कलिकामिलन् मधुलिहां कापि स्थितिर् वर्तते ।  
+किं चान्यत् कुसुमायुधो’द्य भगवान् धत्ते सगर्वं धनुर्  
+ज्याम् उन्मार्ष्टि च पञ्चभिश् च विशिखैर् जेतुं जगद् वाञ्छति ॥१२३५॥  
 
 
-(vīryamitrasya; su.ra. 173 abhinandasya)  
+(वीर्यमित्रस्य; सु।र। १७३ अभिनन्दस्य)  
 
 
-153. vasantavāsaraḥ  
+१५३। वसन्तवासरः  
 
 
-āraktāṅkuradanturā kamalinī nāyāminī yāminī  
-stokonmuktatuṣāram ambaramaṇer īṣat pragalbhaṃ mahaḥ |  
-apy ete sahakārasaurabhamuco vācālitāḥ kokilair  
-āyānti priyaviprayuktayuvatīmarmacchido vāsarāḥ ||1236||  
+आरक्ताङ्कुरदन्तुरा कमलिनी नायामिनी यामिनी  
+स्तोकोन्मुक्ततुषारम् अम्बरमणेर् ईषत् प्रगल्भं महः ।  
+अप्य् एते सहकारसौरभमुचो वाचालिताः कोकिलैर्  
+आयान्ति प्रियविप्रयुक्तयुवतीमर्मच्छिदो वासराः ॥१२३६॥  
 
 
-saṅghaśrīyaḥ | (su.ra. 152)  
+सङ्घश्रीयः । (सु।र। १५२)  
 
 
-mandaṃ dakṣiṇam āhvayanti pavanaṃ puṃskokilavyāhṛtaiḥ  
-saṃskurvanti vanasthalīḥ kisalayottaṃsir niṣaṇṇālibhiḥ |  
-candraṃ sundarayanti muktatuhinaprāvārayā jyotsnayā  
-vardhante ca vivardhayanti ca muhus te’mī smaraṃ vāsarāḥ ||1237||  
+मन्दं दक्षिणम् आह्वयन्ति पवनं पुंस्कोकिलव्याहृतैः  
+संस्कुर्वन्ति वनस्थलीः किसलयोत्तंसिर् निषण्णालिभिः ।  
+चन्द्रं सुन्दरयन्ति मुक्ततुहिनप्रावारया ज्योत्स्नया  
+वर्धन्ते च विवर्धयन्ति च मुहुस् ते’मी स्मरं वासराः ॥१२३७॥  
 
 
-(kasyacit; su.ra. 161)  
+(कस्यचित्; सु।र। १६१)  
 
 
-ete samprati vaimanasyam aniśaṃ niḥśaṅkam ātanvate  
-kāntārasthalapadminīparimalair ānanditendindirāḥ |  
-unmīlatsahakārakānanataṭīvācālapuṃskokila  
-dhvānākarṇanakāndiśīkapathikāvaskandino vāsarāḥ ||1238||  
+एते सम्प्रति वैमनस्यम् अनिशं निःशङ्कम् आतन्वते  
+कान्तारस्थलपद्मिनीपरिमलैर् आनन्दितेन्दिन्दिराः ।  
+उन्मीलत्सहकारकाननतटीवाचालपुंस्कोकिल  
+ध्वानाकर्णनकान्दिशीकपथिकावस्कन्दिनो वासराः ॥१२३८॥  
 
 
-(yogeśvarasya)  
+(योगेश्वरस्य)  
 
 
-dhinvantyamū# madamūrcchadalidhvanīni  
-dhūtādhvanī#hṛdayāni madhor dināni |  
-nistandracandravadanāvadanāravinda  
-saurabhyasauhṛdasagarvasamīraṇāni ||1239||  
+धिन्वन्त्यमू# मदमूर्च्छदलिध्वनीनि  
+धूताध्वनी#हृदयानि मधोर् दिनानि ।  
+निस्तन्द्रचन्द्रवदनावदनारविन्द  
+सौरभ्यसौहृदसगर्वसमीरणानि ॥१२३९॥  
 
 
-(kasyacit)  
+(कस्यचित्)  
 
 
-stokastokanivartamānatuhinonmīlannavāmbhojinī  
-saṅkrāntair alibhir mukheṣu kakubhāṃ kÿptālakaśreṇayaḥ |  
-tattanmanmathabandhuvārtikapikaprārabdhabījāṅkura  
-vyākhyātakṣubhitādhvanīnamanaso dhinvanty amī vāsarāḥ ||1240||  
+स्तोकस्तोकनिवर्तमानतुहिनोन्मीलन्नवाम्भोजिनी  
+सङ्क्रान्तैर् अलिभिर् मुखेषु ककुभां क्ÿप्तालकश्रेणयः ।  
+तत्तन्मन्मथबन्धुवार्तिकपिकप्रारब्धबीजाङ्कुर  
+व्याख्यातक्षुभिताध्वनीनमनसो धिन्वन्त्य् अमी वासराः ॥१२४०॥  
 
 
-(hareḥ)  
+(हरेः)  
 
 
-154vasantataravaḥ  
+१५४वसन्ततरवः  
 
 
-mithaḥ krīḍālolabhramarabharabhagnāṅkurarasa  
-presekapronmīlatparimalasamālabdhapavanaḥ |  
-ito’py eṣa śrīmān aviralam idānīṃ mukulitaḥ   
-prayacchaty unmādān ahaha sahakāradrumayuvā ||1241||  
+मिथः क्रीडालोलभ्रमरभरभग्नाङ्कुररस  
+प्रेसेकप्रोन्मीलत्परिमलसमालब्धपवनः ।  
+इतो’प्य् एष श्रीमान् अविरलम् इदानीं मुकुलितः   
+प्रयच्छत्य् उन्मादान् अहह सहकारद्रुमयुवा ॥१२४१॥  
 
 
-kasyacit | (su.ra. 187)  
+कस्यचित् । (सु।र। १८७)  
 
 
-sāmyaṃ samprati sevate vicakilaṃ ṣāṇmāsikair mauktikair  
-vāhlīkīdaśanavraṇāruṇataraiḥ patrair aśokorcitaḥ |  
-bhṛṅgīlaṅghitakoṭi kiṃśukam idaṃ kiṃcid vivṛntāyate   
-māñjiṣṭhair mukulaiś ca pāṭalitaror vṛttaiva kācil lipiḥ ||1242||  
+साम्यं सम्प्रति सेवते विचकिलं षाण्मासिकैर् मौक्तिकैर्  
+वाह्लीकीदशनव्रणारुणतरैः पत्रैर् अशोकोर्चितः ।  
+भृङ्गीलङ्घितकोटि किंशुकम् इदं किंचिद् विवृन्तायते   
+माञ्जिष्ठैर् मुकुलैश् च पाटलितरोर् वृत्तैव काचिल् लिपिः ॥१२४२॥  
 
 
-rājaśekharasya | (vi.śā.bha. 1.25, su.ra. 165)  
+राजशेखरस्य । (वि।शा।भ। १।२५, सु।र। १६५)  
 
 
-vahnir manye himajalabhayāt saṃśritaḥ kiṃśukeṣu  
-śyāmaṃ dhūmaiḥ sa khalu kurute kānanaṃ korakākhyaiḥ |  
-santāpārthaṃ katham itarathā pānthasīmantinīnāṃ  
-puṣpavyājād visṛjati śikhāśreṇim udgāḍhaśoṇām ||1243||  
+वह्निर् मन्ये हिमजलभयात् संश्रितः किंशुकेषु  
+श्यामं धूमैः स खलु कुरुते काननं कोरकाख्यैः ।  
+सन्तापार्थं कथम् इतरथा पान्थसीमन्तिनीनां  
+पुष्पव्याजाद् विसृजति शिखाश्रेणिम् उद्गाढशोणाम् ॥१२४३॥  
 
 
-kasyacit | (su.ra. 176 pautāyaneḥ)  
+कस्यचित् । (सु।र। १७६ पौतायनेः)  
 
 
-idānīṃ plakṣāṇāṃ jaṭharadalaviśleṣacaturaḥ  
-śikhānām ābandhaḥ sphurati śukacañcūpuṭanibhaḥ |  
-tataḥ strīṇāṃ hanta kṣamam adharakāntiṃ kalayituṃ  
-samantān niryāti sphuṭasubhagarāgaṃ kisalayam ||1244||  
+इदानीं प्लक्षाणां जठरदलविश्लेषचतुरः  
+शिखानाम् आबन्धः स्फुरति शुकचञ्चूपुटनिभः ।  
+ततः स्त्रीणां हन्त क्षमम् अधरकान्तिं कलयितुं  
+समन्तान् निर्याति स्फुटसुभगरागं किसलयम् ॥१२४४॥  
 
 
-vāmanasya |  
+वामनस्य ।  
 
 
-parāgair ādigdhāḥ parimilitapiṣṭātakanibhair  
-marullolacchākhaṃ madhuparavagītaṃ vidadhataḥ |  
-palāśaiḥ kāśmīrāruṇavasanakalpair nivasitā   
-drumā rājanty ete madhudivasaramyotsavabhṛtaḥ ||1245||  
+परागैर् आदिग्धाः परिमिलितपिष्टातकनिभैर्  
+मरुल्लोलच्छाखं मधुपरवगीतं विदधतः ।  
+पलाशैः काश्मीरारुणवसनकल्पैर् निवसिता   
+द्रुमा राजन्त्य् एते मधुदिवसरम्योत्सवभृतः ॥१२४५॥  
 
 
-vasantasenasya |  
-155. vasantakokilaḥ  
+वसन्तसेनस्य ।  
+१५५। वसन्तकोकिलः  
 
 
-ete nūtanacūtakorakaghanadhvānātirekībhavat  
-kaṇṭhadhvānajuṣo haranti hṛdayaṃ madhye vanaṃ kokilāḥ |  
-yeṣām akṣinibhena bhānti bhagavadbhūteśanetrānala  
-jvālājālakarālitāsamaśarāṅgārasphuliṅgā iva ||1246||  
+एते नूतनचूतकोरकघनध्वानातिरेकीभवत्  
+कण्ठध्वानजुषो हरन्ति हृदयं मध्ये वनं कोकिलाः ।  
+येषाम् अक्षिनिभेन भान्ति भगवद्भूतेशनेत्रानल  
+ज्वालाजालकरालितासमशराङ्गारस्फुलिङ्गा इव ॥१२४६॥  
 
 
-kasyacit | (su.ra. 171)  
+कस्यचित् । (सु।र। १७१)  
 
 
-adyonmīlanmalayapavanoddhūtacūtāṃkurāgra  
-grāsāsvādād adhikamadhurair uccaradbhir ninādaiḥ |  
-kvāpi kvāpi smarahutavahoddīpanāyādhvagānāṃ   
-hotuṃ prāṇān ṛcam iva pikaḥ sāmidhenīm adhīte ||1247||  
+अद्योन्मीलन्मलयपवनोद्धूतचूतांकुराग्र  
+ग्रासास्वादाद् अधिकमधुरैर् उच्चरद्भिर् निनादैः ।  
+क्वापि क्वापि स्मरहुतवहोद्दीपनायाध्वगानां   
+होतुं प्राणान् ऋचम् इव पिकः सामिधेनीम् अधीते ॥१२४७॥  
 
 
-hareḥ |  
+हरेः ।  
 
 
-yaś cūtāṅkurakandalīkavalanāt karṇāmṛtasrāviṇīṃ  
-chāyāmātraparigraheṇa vidadhe pāñceṣavīm asratām |  
-tāmyat tāluviṭaṅkasaṅkaṭadarīsaṃcārataḥ pañcamaḥ  
-so’yaṃ kokilakāminīgalavilād āmūlam unmūlati ||1248||  
+यश् चूताङ्कुरकन्दलीकवलनात् कर्णामृतस्राविणीं  
+छायामात्रपरिग्रहेण विदधे पाञ्चेषवीम् अस्रताम् ।  
+ताम्यत् तालुविटङ्कसङ्कटदरीसंचारतः पञ्चमः  
+सो’यं कोकिलकामिनीगलविलाद् आमूलम् उन्मूलति ॥१२४८॥  
 
 
-bilhaṇasya | (Vc. 7.76)  
+बिल्हणस्य । (व्च्। ७।७६)  
 
 
-yaḥ śṛṅgārarasāyanaṃ mṛgadṛśāṃ vairāgaycintājvaraḥ  
-śāntyudvāsanaḍiṇḍimaḥ smaraguros tattvopadeśākṣaram |  
-udbhūtasmaragauravajvarabharākrāntādhvanīnāṅganā  
-caitanyatruṭikārmaṇaṃ vijayate rāgaḥ pike pañcamaḥ ||1249||  
+यः शृङ्गाररसायनं मृगदृशां वैरागय्चिन्ताज्वरः  
+शान्त्युद्वासनडिण्डिमः स्मरगुरोस् तत्त्वोपदेशाक्षरम् ।  
+उद्भूतस्मरगौरवज्वरभराक्रान्ताध्वनीनाङ्गना  
+चैतन्यत्रुटिकार्मणं विजयते रागः पिके पञ्चमः ॥१२४९॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-oṃkārāḥ kusumāyudhopaniṣadāṃ mantrānuvādaḥ smara  
-svādhyāyasya rateḥ punarbhavavidhau gandhābhirāmaśrutiḥ |  
-cittākarṣaṇasādhyasiddhir asatīnetrasya karṇajvaraḥ  
-pānthānāṃ sahakārakānanasudhāsekaḥ pikānāṃ dhvaniḥ ||1250||  
+ॐकाराः कुसुमायुधोपनिषदां मन्त्रानुवादः स्मर  
+स्वाध्यायस्य रतेः पुनर्भवविधौ गन्धाभिरामश्रुतिः ।  
+चित्ताकर्षणसाध्यसिद्धिर् असतीनेत्रस्य कर्णज्वरः  
+पान्थानां सहकारकाननसुधासेकः पिकानां ध्वनिः ॥१२५०॥  
 
 
-dhvaniḥ |  
-156. vasantabhramaraḥ  
+ध्वनिः ।  
+१५६। वसन्तभ्रमरः  
 
 
-āraktāyatapuṣpabāṇanayane snigdhāñjanaśyāmikāṃ  
-kāśmīrāruṇakarṇikārakusumottaṃse mahānīlatām |  
-unmīlattilakāntare mṛgamadakṣodārdrabindūpamāṃ  
-dhatte mugdhatamālakāntimadhupīvṛndaṃ vasantaśriyaḥ ||1251||  
+आरक्तायतपुष्पबाणनयने स्निग्धाञ्जनश्यामिकां  
+काश्मीरारुणकर्णिकारकुसुमोत्तंसे महानीलताम् ।  
+उन्मीलत्तिलकान्तरे मृगमदक्षोदार्द्रबिन्दूपमां  
+धत्ते मुग्धतमालकान्तिमधुपीवृन्दं वसन्तश्रियः ॥१२५१॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-pikatroṭīdātratruṭitasahakārāgramukula  
-srutakṣīrakṣīvaprasṛtapavanāndolataralā |  
-idānīṃ vāsantīdalitakusumāmodamudita  
-bhramadbhṛṅgaśreṇī raṇaraṇakam antar vitanute ||1252||  
+पिकत्रोटीदात्रत्रुटितसहकाराग्रमुकुल  
+स्रुतक्षीरक्षीवप्रसृतपवनान्दोलतरला ।  
+इदानीं वासन्तीदलितकुसुमामोदमुदित  
+भ्रमद्भृङ्गश्रेणी रणरणकम् अन्तर् वितनुते ॥१२५२॥  
 
 
-kālidāsanandinaḥ |  
+कालिदासनन्दिनः ।  
 
 
-nirānandāḥ kaunde madhuni paribhuktojjhitarase  
-vaneṣv ambhojānām avikṛtasukheṣu pratihatāḥ |  
-idānīṃ cūtānāṃ mukulamadhuṣu premasarasā   
-navīneṣv ākūtaṃ dadhati parigāḍhaṃ madhulihaḥ ||1253||  
+निरानन्दाः कौन्दे मधुनि परिभुक्तोज्झितरसे  
+वनेष्व् अम्भोजानाम् अविकृतसुखेषु प्रतिहताः ।  
+इदानीं चूतानां मुकुलमधुषु प्रेमसरसा   
+नवीनेष्व् आकूतं दधति परिगाढं मधुलिहः ॥१२५३॥  
 
 
-navakarasya |  
+नवकरस्य ।  
 
 
-mallikāmukule bhāti guñjanmattamadhuvrataḥ |  
-prayāṇe pañcabāṇasya śaṅkham āpūrayann iva ||1254||  
+मल्लिकामुकुले भाति गुञ्जन्मत्तमधुव्रतः ।  
+प्रयाणे पञ्चबाणस्य शङ्खम् आपूरयन्न् इव ॥१२५४॥  
 
 
-kasyacit | (sā.da. 4.9, śā.pa. 3786)  
+कस्यचित् । (सा।द। ४।९, शा।प। ३७८६)  
 
 
-aviralaparāgasaikatamakarandataraṅgiṇīm anuvanāntam |  
-pikayuvatijānudadhnīṃ gāhante madhupayoṣitas tṛṣitāḥ ||1255||  
+अविरलपरागसैकतमकरन्दतरङ्गिणीम् अनुवनान्तम् ।  
+पिकयुवतिजानुदध्नीं गाहन्ते मधुपयोषितस् तृषिताः ॥१२५५॥  
 
 
-āvantikajahnoḥ |  
-157. grīṣmaḥ  
+आवन्तिकजह्नोः ।  
+१५७। ग्रीष्मः  
 
 
-bhuvāṃ gharmārambhe pavanacalitaṃ tāpahṛtaye  
-paṭacchatrākāraṃ vahati gaganaṃ dhūlipaṭalam |  
-amī mandārāṇāṃ davadahanasandehitadhiyo  
-na ḍaukante pātuḥ jhaṭiti makarandaṃ madhulihaḥ ||1256||  
+भुवां घर्मारम्भे पवनचलितं तापहृतये  
+पटच्छत्राकारं वहति गगनं धूलिपटलम् ।  
+अमी मन्दाराणां दवदहनसन्देहितधियो  
+न डौकन्ते पातुः झटिति मकरन्दं मधुलिहः ॥१२५६॥  
 
 
-bhavabhūteḥ (su.ra. 200)  
+भवभूतेः (सु।र। २००)  
 
 
-salilam akhilaṃ veśantānāṃ lulāpakulākulaṃ  
-viśati bisinīpatracchatre rathāṅgavihaṅgamaḥ |  
-nijagajapatiṃ kuñjacchāyāṃ nayanti pade pade  
-pṛthuvamathunā siktvā siktvā kareṇa kareṇavaḥ ||1257||  
+सलिलम् अखिलं वेशन्तानां लुलापकुलाकुलं  
+विशति बिसिनीपत्रच्छत्रे रथाङ्गविहङ्गमः ।  
+निजगजपतिं कुञ्जच्छायां नयन्ति पदे पदे  
+पृथुवमथुना सिक्त्वा सिक्त्वा करेण करेणवः ॥१२५७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-prānte paṅkini pallavasya viluṭhan pautrī nayaty ātapāṃs  
-tṛṣṇālur nibhṛtaṃ hradeṣu mahiṣaḥ śaivālam anviṣyati |  
-ācīrṇauṣadhimūlaśītasurabhiśvāsānilāndolayan   
-prakṣīṇoṣmaṇi līyate vanagiriśvabhrodare śallakaḥ ||1258||  
+प्रान्ते पङ्किनि पल्लवस्य विलुठन् पौत्री नयत्य् आतपांस्  
+तृष्णालुर् निभृतं ह्रदेषु महिषः शैवालम् अन्विष्यति ।  
+आचीर्णौषधिमूलशीतसुरभिश्वासानिलान्दोलयन्   
+प्रक्षीणोष्मणि लीयते वनगिरिश्वभ्रोदरे शल्लकः ॥१२५८॥  
 
 
-yogeśvarasya |  
+योगेश्वरस्य ।  
 
 
-ambhodher jalayantramandiraparispande’pi nidrāṇayoḥ  
-śrīnārāyaṇayor ghanaṃ vighaṭayanty ūṣmā samāliṅganam |  
-kiṃ cottaptaviyatkapālaphalake kaṅkālaśeṣaśriyaṃ  
-candraṃ marmarayanti parpaṭakarakrūrā raver aṃśavaḥ ||1259||  
+अम्भोधेर् जलयन्त्रमन्दिरपरिस्पन्दे’पि निद्राणयोः  
+श्रीनारायणयोर् घनं विघटयन्त्य् ऊष्मा समालिङ्गनम् ।  
+किं चोत्तप्तवियत्कपालफलके कङ्कालशेषश्रियं  
+चन्द्रं मर्मरयन्ति पर्पटकरक्रूरा रवेर् अंशवः ॥१२५९॥  
 
 
-kasyacit | (su.ra. 214, nārāyaṇalacchi)  
+कस्यचित् । (सु।र। २१४, नारायणलच्छि)  
 
 
-pāṣāṇaḥ kuliśāyate purapathaṃ saṃtaptalohāyate  
-nirvātaṃ dahanāyate ca niviḍāṅgārāyate śarkarā |  
-etasmiṃs taruṇapracaṇḍamahasaḥ prauḍhātape sarvataḥ   
-kṣoṇī śuṣyati bālukā ca saritāṃ vahnisphuliṅgāyate ||1260||  
+पाषाणः कुलिशायते पुरपथं संतप्तलोहायते  
+निर्वातं दहनायते च निविडाङ्गारायते शर्करा ।  
+एतस्मिंस् तरुणप्रचण्डमहसः प्रौढातपे सर्वतः   
+क्षोणी शुष्यति बालुका च सरितां वह्निस्फुलिङ्गायते ॥१२६०॥  
 
 
-bhavānandasya |  
-158. grīṣmaveśaḥ  
+भवानन्दस्य ।  
+१५८। ग्रीष्मवेशः  
 
 
-jalārdraṃ saṃvyānaṃ bisakisalayaiḥ kelivalayāḥ  
-śirīṣair uttaṃsp vicakitlamayī hāraracanā |  
-śucāveṇākṣīṇāṃ malayajarasārdrāś ca tanavo  
-vinā tantraṃ mantraṃ ratiramaṇamṛtyuñjayavidhiḥ ||1261||  
+जलार्द्रं संव्यानं बिसकिसलयैः केलिवलयाः  
+शिरीषैर् उत्तंस्प् विचकित्लमयी हाररचना ।  
+शुचावेणाक्षीणां मलयजरसार्द्राश् च तनवो  
+विना तन्त्रं मन्त्रं रतिरमणमृत्युञ्जयविधिः ॥१२६१॥  
 
 
-kasyacit | (vi.śā.bha. 4.3, su.ra. 212, rājaśekharasya)  
+कस्यचित् । (वि।शा।भ। ४।३, सु।र। २१२, राजशेखरस्य)  
 
 
-toyottīrṇā śrayati kavarī śekharaṃ saptalānāṃ  
-śaityaṃ siñcaty upari kucayoḥ pāṭalākaṇṭhadāma |  
-kāntaṃ karṇāvabhiniviśate komalāgraṃ śirīṣaṃ  
-strīṇām aṅge vibhajati tapas tatra tatrātmacihnam ||1262||  
+तोयोत्तीर्णा श्रयति कवरी शेखरं सप्तलानां  
+शैत्यं सिञ्चत्य् उपरि कुचयोः पाटलाकण्ठदाम ।  
+कान्तं कर्णावभिनिविशते कोमलाग्रं शिरीषं  
+स्त्रीणाम् अङ्गे विभजति तपस् तत्र तत्रात्मचिह्नम् ॥१२६२॥  
 
 
-madhuraśīlasya | (su.ra. 209, madhuśīlasya)  
+मधुरशीलस्य । (सु।र। २०९, मधुशीलस्य)  
 
 
-karṇottaṃsaḥ śiśuśukavadhūpicchalīlaṃ śirīṣaṃ  
-sāntaḥsūtrāḥ parimalamuco mallikānāṃ ca hārāḥ |  
-muktāgaurair valayaracanākandalāgrair bisānāṃ  
-grīṣmārambhe ramayati navaṃ maṇḍanaṃ kāminīnām ||1263||  
+कर्णोत्तंसः शिशुशुकवधूपिच्छलीलं शिरीषं  
+सान्तःसूत्राः परिमलमुचो मल्लिकानां च हाराः ।  
+मुक्तागौरैर् वलयरचनाकन्दलाग्रैर् बिसानां  
+ग्रीष्मारम्भे रमयति नवं मण्डनं कामिनीनाम् ॥१२६३॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-abhinavakuśasūtraspardhi karṇe śirīṣaṃ   
-kuravakaparidhānaṃ pāṭalādāma kaṇṭhe |  
-tanusarasajalārdronmīlitaḥ sundarīṇāṃ   
-dinapariṇatijanmā ko’pi veśaś cakāsti ||1264||  
+अभिनवकुशसूत्रस्पर्धि कर्णे शिरीषं   
+कुरवकपरिधानं पाटलादाम कण्ठे ।  
+तनुसरसजलार्द्रोन्मीलितः सुन्दरीणां   
+दिनपरिणतिजन्मा को’पि वेशश् चकास्ति ॥१२६४॥  
 
 
-kamalāyudhasya |  
+कमलायुधस्य ।  
 
 
-sadyaś campakakañcukā kucataṭī vaikakṣake mallikāḥ  
-kāñcr vaicakilī bisālivalayāgraiveyakaṃ keśaraiḥ |  
-cāmpeyottarapāṭalā ca kavarī karṇaḥ śirīṣāñcito  
-veśaś ced ayam aṅganāsu na tadānaṅgasya ke kiṅkarāḥ ||1265||  
+सद्यश् चम्पककञ्चुका कुचतटी वैकक्षके मल्लिकाः  
+काञ्च्र् वैचकिली बिसालिवलयाग्रैवेयकं केशरैः ।  
+चाम्पेयोत्तरपाटला च कवरी कर्णः शिरीषाञ्चितो  
+वेशश् चेद् अयम् अङ्गनासु न तदानङ्गस्य के किङ्कराः ॥१२६५॥  
 
 
-kasyacit |  
-159. śṛṅgāratmakagrīṣmaḥ  
+कस्यचित् ।  
+१५९। शृङ्गारत्मकग्रीष्मः  
 
 
-tadātvasnātānāṃ malayajarasair ārdravapuṣāṃ   
-kucān bibhrāṇānāṃ daravikacamallīmukulinaḥ |  
-nidāghārkaproṣaglapitamahimānaṃ mṛgadṛśāṃ  
-pariṣvaṅgo’naṅgaṃ punar api śanair aṅkurayati ||1266||  
+तदात्वस्नातानां मलयजरसैर् आर्द्रवपुषां   
+कुचान् बिभ्राणानां दरविकचमल्लीमुकुलिनः ।  
+निदाघार्कप्रोषग्लपितमहिमानं मृगदृशां  
+परिष्वङ्गो’नङ्गं पुनर् अपि शनैर् अङ्कुरयति ॥१२६६॥  
 
 
-maṅgalārjunasya | (su.ra. 192, śā.pa. 3834)  
+मङ्गलार्जुनस्य । (सु।र। १९२, शा।प। ३८३४)  
 
 
-apāṃ mūle līnaṃ kṣaṇaparicitaṃ candanarase  
-mṛṇālīhārādau kṛtalaghupadaṃ candramasi ca |  
-muhūrtaṃ viśrāntaṃ sarasakadalīkānanataṭe  
-priyākaṇṭhāśleṣe niviśati padaṃ śaityam adhunā ||1267||  
+अपां मूले लीनं क्षणपरिचितं चन्दनरसे  
+मृणालीहारादौ कृतलघुपदं चन्द्रमसि च ।  
+मुहूर्तं विश्रान्तं सरसकदलीकाननतटे  
+प्रियाकण्ठाश्लेषे निविशति पदं शैत्यम् अधुना ॥१२६७॥  
 
 
-kasyacit | (su.ra. 201)  
+कस्यचित् । (सु।र। २०१)  
 
 
-etasmin ghanacandanārdravapuṣo nidrākaṣāyekṣaṇā  
-līlālolamṛdūllasadbhujalatāvyājṛmbhamāṇā muhuḥ |  
-nirgacchanti śanair ahaḥpariṇatau mandā latāmandirāt  
-svedāmbhaḥkaṇadanturastanataṭābhogāḥ kuraṅgīdṛśaḥ ||1268||  
+एतस्मिन् घनचन्दनार्द्रवपुषो निद्राकषायेक्षणा  
+लीलालोलमृदूल्लसद्भुजलताव्याजृम्भमाणा मुहुः ।  
+निर्गच्छन्ति शनैर् अहःपरिणतौ मन्दा लतामन्दिरात्  
+स्वेदाम्भःकणदन्तुरस्तनतटाभोगाः कुरङ्गीदृशः ॥१२६८॥  
 
 
-kālidāsanandinaḥ |  
+कालिदासनन्दिनः ।  
 
 
-haranti hṛdayāni yac chravaṇaśītalā veṇavo  
-yad arghati karambitā śiśiravāriṇā vāruṇī |  
-bhavanti ca himopamāḥ stanabhuvo yad eṇīdṛśāṃ  
-śucer upari saṃsthito ratipateḥ prasādo guruḥ ||1269||  
+हरन्ति हृदयानि यच् छ्रवणशीतला वेणवो  
+यद् अर्घति करम्बिता शिशिरवारिणा वारुणी ।  
+भवन्ति च हिमोपमाः स्तनभुवो यद् एणीदृशां  
+शुचेर् उपरि संस्थितो रतिपतेः प्रसादो गुरुः ॥१२६९॥  
 
 
-rājaśekharasya | (vi.śā.bha. 4.4, su.ra. 211)  
+राजशेखरस्य । (वि।शा।भ। ४।४, सु।र। २११)  
 
 
-śucau taptāṅgānāṃ bahalamakarandadravamucaḥ  
-kadambaprālambāḥ stanaparisare pakṣmaladṛśām |  
-haṭhāl lūnoṣmāṇaḥ kam api mahimānaṃ vidadhate  
-jalakrīḍātīrṇapriyatamabhujābandhaśiśirāḥ ||1270||  
+शुचौ तप्ताङ्गानां बहलमकरन्दद्रवमुचः  
+कदम्बप्रालम्बाः स्तनपरिसरे पक्ष्मलदृशाम् ।  
+हठाल् लूनोष्माणः कम् अपि महिमानं विदधते  
+जलक्रीडातीर्णप्रियतमभुजाबन्धशिशिराः ॥१२७०॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-160. dāvānalaḥ  
+१६०। दावानलः  
 
 
-ārohaty avanīruhaḥ praviśati śvabhraṃ nagaiḥ spardhate  
-khaṃ vyāleḍhi viceṣṭate kṣititale kuñjodare līyate |  
-antar bhrāmyati koṭarasya viramaty ālambate vīrudhaḥ  
-kiṃ tad yan na karoti mārutavaśaṃ yātaḥ kṛśānur vane ||1271||  
+आरोहत्य् अवनीरुहः प्रविशति श्वभ्रं नगैः स्पर्धते  
+खं व्यालेढि विचेष्टते क्षितितले कुञ्जोदरे लीयते ।  
+अन्तर् भ्राम्यति कोटरस्य विरमत्य् आलम्बते वीरुधः  
+किं तद् यन् न करोति मारुतवशं यातः कृशानुर् वने ॥१२७१॥  
 
 
-yogeśvarasya | (sa.ka.ā. 1.82, sū.mu. 34.7, vasundharasya)  
+योगेश्वरस्य । (स।क।आ। १।८२, सू।मु। ३४।७, वसुन्धरस्य)  
 
 
-vidhvastā mṛgapakṣiṇo vivaśatāṃ nītāḥ sthalīdevatā  
-dhūmair antaritāḥ svabhāvamalinair āśā mahītāpitāḥ |  
-bhasmīkṛtya sapuṣpapallavaphalāṃs tāṃs tān mahāpādapān  
-nirvṛttena davānalena vihitaṃ valmīkaśeṣaṃ vanam ||1272||  
+विध्वस्ता मृगपक्षिणो विवशतां नीताः स्थलीदेवता  
+धूमैर् अन्तरिताः स्वभावमलिनैर् आशा महीतापिताः ।  
+भस्मीकृत्य सपुष्पपल्लवफलांस् तांस् तान् महापादपान्  
+निर्वृत्तेन दवानलेन विहितं वल्मीकशेषं वनम् ॥१२७२॥  
 
 
-tasyaiva (śā.pa. 1159, sū.mu. 34.5, su.ra. 1114. All anonymous.)  
+तस्यैव (शा।प। ११५९, सू।मु। ३४।५, सु।र। १११४। अल्ल् अनोन्य्मोउस्।)  
 
 
-asmin nīṣad vitattavalitastokavicchinnabhugnaḥ  
-kiñcillīlopacitavinataḥ puñjitaścotthitaś ca |  
-dhūmodgārastaruṇamahiṣaskandhoanīlo davāgneḥ  
-svairaṃ sarpan sṛjati gagane gatvarān patrabhaṅgān ||1273||  
+अस्मिन् नीषद् वितत्तवलितस्तोकविच्छिन्नभुग्नः  
+किञ्चिल्लीलोपचितविनतः पुञ्जितश्चोत्थितश् च ।  
+धूमोद्गारस्तरुणमहिषस्कन्धोअनीलो दवाग्नेः  
+स्वैरं सर्पन् सृजति गगने गत्वरान् पत्रभङ्गान् ॥१२७३॥  
 
 
-bāṇasya | (sa.ka.ā. 1.85, su.ra. 1174. Both anonymous.)  
+बाणस्य । (स।क।आ। १।८५, सु।र। ११७४। बोथ् अनोन्य्मोउस्।)  
 
 
-bāle māleyam uccair na bhavati gaganavyāpinī nīradānāṃ  
-kiṃ tatpakṣmāntapātair malinayasi mudhā vaktram aśrupravāhaiḥ |  
-eṣā proddhṛttamattadvipakaṣaṇakṣuṇṇavindhyopalābhā  
-dāvāgneḥ sampravṛddhā malinayati diśāṃ maṇḍalaṃ dhūmalekhā ||1274||  
+बाले मालेयम् उच्चैर् न भवति गगनव्यापिनी नीरदानां  
+किं तत्पक्ष्मान्तपातैर् मलिनयसि मुधा वक्त्रम् अश्रुप्रवाहैः ।  
+एषा प्रोद्धृत्तमत्तद्विपकषणक्षुण्णविन्ध्योपलाभा  
+दावाग्नेः सम्प्रवृद्धा मलिनयति दिशां मण्डलं धूमलेखा ॥१२७४॥  
 
 
-kasyacit | (sa.ka.ā. 2.203, śā.pa. 3829 dhārākadambasya)  
+कस्यचित् । (स।क।आ। २।२०३, शा।प। ३८२९ धाराकदम्बस्य)  
 
 
-diśaḥ prodyatsaṃdhyāgaganatalam udraktakusumaṃ  
-tarūn ābaddhorustavakavikasatkiṃśukalatān |  
-vilolatkausumbhadhvajapaṭasamāśliṣṭaśikharāḥ   
-prakurvan vaṃśālīr vikasati mahīdhreṣu dahanaḥ ||1275||  
+दिशः प्रोद्यत्संध्यागगनतलम् उद्रक्तकुसुमं  
+तरून् आबद्धोरुस्तवकविकसत्किंशुकलतान् ।  
+विलोलत्कौसुम्भध्वजपटसमाश्लिष्टशिखराः   
+प्रकुर्वन् वंशालीर् विकसति महीध्रेषु दहनः ॥१२७५॥  
 
 
-kasyacit |  
-161. varṣārambhaḥ  
+कस्यचित् ।  
+१६१। वर्षारम्भः  
 
 
-netuṃ vāñchati nīḍa eva divasaṃ garbhālasā vāyasī  
-rakto nīpalatāsu bhuktavirasām ujjhaty aliḥ pāṭalam |  
-tejaḥ samprati saṃharanti śikhino dagdhavyāpāraṃ gatā  
-jambūm āmravanād upait śanakair āsannapākāṃ pikaḥ ||1276||  
+नेतुं वाञ्छति नीड एव दिवसं गर्भालसा वायसी  
+रक्तो नीपलतासु भुक्तविरसाम् उज्झत्य् अलिः पाटलम् ।  
+तेजः सम्प्रति संहरन्ति शिखिनो दग्धव्यापारं गता  
+जम्बूम् आम्रवनाद् उपैत् शनकैर् आसन्नपाकां पिकः ॥१२७६॥  
 
 
-abhinandasya |  
+अभिनन्दस्य ।  
 
 
-sthalībhūmir niryannavakatṛṇaromāñcanicaya  
-prapañcaiḥ pronmīlatkuṭajakalikājṛmbhitaśataiḥ |  
-ghanārambhe preyasy upagiri galannirjharajala  
-praṇālaprasvedaiḥ kam api mṛdubhāvaṃ prathayati ||1277||  
+स्थलीभूमिर् निर्यन्नवकतृणरोमाञ्चनिचय  
+प्रपञ्चैः प्रोन्मीलत्कुटजकलिकाजृम्भितशतैः ।  
+घनारम्भे प्रेयस्य् उपगिरि गलन्निर्झरजल  
+प्रणालप्रस्वेदैः कम् अपि मृदुभावं प्रथयति ॥१२७७॥  
 
 
-narasiṃhasya |  
+नरसिंहस्य ।  
 
 
-vātoddhūrtarajomilajjalalavair uccitritāḥ śākhinaś  
-chatrīkṛtya mṛdāṃ tvacaḥ sthalabhuvo niryanti śaṣpāṅkurāḥ |  
-snigdhaśyāmalakaṇṭhanālavalanavyālokitāmbhomucaḥ   
-kekābhiḥ kakubhāṃ mukhāni śikhino vācālayanty utsukāḥ ||1278||  
+वातोद्धूर्तरजोमिलज्जललवैर् उच्चित्रिताः शाखिनश्  
+छत्रीकृत्य मृदां त्वचः स्थलभुवो निर्यन्ति शष्पाङ्कुराः ।  
+स्निग्धश्यामलकण्ठनालवलनव्यालोकिताम्भोमुचः   
+केकाभिः ककुभां मुखानि शिखिनो वाचालयन्त्य् उत्सुकाः ॥१२७८॥  
 
 
-aravindasya |  
+अरविन्दस्य ।  
 
 
-kiṃcin mudritapāṃśavaḥ śikhikulaiḥ sānandam ālokitā  
-bhagnāvāsarudaharidragṛhiṇī śvāsānilajarjarāḥ |  
-ete te nipatanti nūtanaghanāt prāvṛḍbhavārambhiṇo  
-vicchāyīkṛtaviprayuktavanitāvaktrendavo bindavaḥ ||1279||  
+किंचिन् मुद्रितपांशवः शिखिकुलैः सानन्दम् आलोकिता  
+भग्नावासरुदहरिद्रगृहिणी श्वासानिलजर्जराः ।  
+एते ते निपतन्ति नूतनघनात् प्रावृड्भवारम्भिणो  
+विच्छायीकृतविप्रयुक्तवनितावक्त्रेन्दवो बिन्दवः ॥१२७९॥  
 
 
-kasyacit | (śā.pa. 3872)  
+कस्यचित् । (शा।प। ३८७२)  
 
 
-varṣārambhasamunnamadghanaghaṭāgarjābhiruttrasyatā  
-grīṣmeṇāpasṛtaṃ kvacit kvacid api nyastāni vastūny api |  
-dhūliḥ ketakakuḍmale virahiṇīcetaḥsu dāvānalaḥ   
-khadyotabhramiṣūḍucakram aruṇajyotis taḍidvalliṣu ||1280||  
+वर्षारम्भसमुन्नमद्घनघटागर्जाभिरुत्त्रस्यता  
+ग्रीष्मेणापसृतं क्वचित् क्वचिद् अपि न्यस्तानि वस्तून्य् अपि ।  
+धूलिः केतककुड्मले विरहिणीचेतःसु दावानलः   
+खद्योतभ्रमिषूडुचक्रम् अरुणज्योतिस् तडिद्वल्लिषु ॥१२८०॥  
 
 
-kasyacit |  
-162. varṣāḥ  
+कस्यचित् ।  
+१६२। वर्षाः  
 
 
-kāmaṃ kūle nadīnām anugiri mahiṣīyūthanīḍopakaṇṭhe  
-gāhante śaṣparājīr abhinavaśalabhagrāsalolā balākāḥ |  
-antarvinyastavīruttṛṇamayapuruṣatrāsavighnaṃ kathaṃcit  
-kāpotaṃ kodravāṇāṃ kavalayati kaṇān kṣetrakoṇaikadeśe ||1281||  
+कामं कूले नदीनाम् अनुगिरि महिषीयूथनीडोपकण्ठे  
+गाहन्ते शष्पराजीर् अभिनवशलभग्रासलोला बलाकाः ।  
+अन्तर्विन्यस्तवीरुत्तृणमयपुरुषत्रासविघ्नं कथंचित्  
+कापोतं कोद्रवाणां कवलयति कणान् क्षेत्रकोणैकदेशे ॥१२८१॥  
 
 
-yogeśvarasya |  
+योगेश्वरस्य ।  
 
 
-etasmin madajarjarair upacite kambūravāḍamabaraiḥ   
-staimityaṃ manaso diśaty anibhṛtaṃ dhārādhare mūrcchati |  
-utsaṅge kakubho nidhāya rasitair ambhomucāṃ ghorayan  
-manye mudritacandrasūryanayanaṃ vyomāpi nidrāyate ||1282||  
+एतस्मिन् मदजर्जरैर् उपचिते कम्बूरवाडमबरैः   
+स्तैमित्यं मनसो दिशत्य् अनिभृतं धाराधरे मूर्च्छति ।  
+उत्सङ्गे ककुभो निधाय रसितैर् अम्भोमुचां घोरयन्  
+मन्ये मुद्रितचन्द्रसूर्यनयनं व्योमापि निद्रायते ॥१२८२॥  
 
 
-vātokasya | (su.ra. 229)  
+वातोकस्य । (सु।र। २२९)  
 
 
-smaravijayapadāṅkaṃ mattadātyūhakaṇṭha  
-sphuṭitamadhurakūjā gītayaḥ saṃcaranti |  
-api ca vitatabarhacchatram udbhūtapatraṃ  
-naṭati ghananinādotkaṇṭito nīlakaṇṭhaḥ ||1283||  
+स्मरविजयपदाङ्कं मत्तदात्यूहकण्ठ  
+स्फुटितमधुरकूजा गीतयः संचरन्ति ।  
+अपि च विततबर्हच्छत्रम् उद्भूतपत्रं  
+नटति घननिनादोत्कण्टितो नीलकण्ठः ॥१२८३॥  
 
 
-bhavānandasya |  
+भवानन्दस्य ।  
 
 
-vyāptaṃ vāridharair akāṇḍamuditaiḥ kṛtsnaṃ viyanmaṇḍalaṃ  
-nākṣṇor vartmani śītadīdhitir asau nāpi tviṣām īśvaraḥ |  
-bhagnāv eva malīmasaiḥ kim adhunā nirmātum arthāntaraṃ  
-yat sāndraṃ karakāḥ patanti yad amī muñcanti vidyucchaṭāḥ ||1284||  
+व्याप्तं वारिधरैर् अकाण्डमुदितैः कृत्स्नं वियन्मण्डलं  
+नाक्ष्णोर् वर्त्मनि शीतदीधितिर् असौ नापि त्विषाम् ईश्वरः ।  
+भग्नाव् एव मलीमसैः किम् अधुना निर्मातुम् अर्थान्तरं  
+यत् सान्द्रं करकाः पतन्ति यद् अमी मुञ्चन्ति विद्युच्छटाः ॥१२८४॥  
 
 
-vātokasya |  
+वातोकस्य ।  
 
 
-sāmodā bakulaiḥ kadambamukulaiḥ prītyeva romāñcitā  
-nīrandhraṃ pihitāḥ pyodapaṭalaiḥ śyāmottarīya iva |  
-dūrīkṛtya ca nūpurāv iva ripūn haṃsān samutkūjato   
-yātāḥ kvāpy abhisārikā iva diśo meghāgame sotsukāḥ ||1285||  
+सामोदा बकुलैः कदम्बमुकुलैः प्रीत्येव रोमाञ्चिता  
+नीरन्ध्रं पिहिताः प्योदपटलैः श्यामोत्तरीय इव ।  
+दूरीकृत्य च नूपुराव् इव रिपून् हंसान् समुत्कूजतो   
+याताः क्वाप्य् अभिसारिका इव दिशो मेघागमे सोत्सुकाः ॥१२८५॥  
 
 
-kasyacit |  
-163. varṣāmeghaḥ  
+कस्यचित् ।  
+१६३। वर्षामेघः  
 
 
-trailokyādhipatau phaṇīndraśayane nidrāti daityadruhi  
-prāpya prāvṛṣam andhakārarajanīṃ pratyāśam āyojitāḥ |  
-vidyuddīdhitidīpikābhir abhitaḥ saṃśodhayanto diśāṃ  
-bhittīr jāgrati yāmikā iva dhanuṣmantaḥ svananto ghanāḥ ||1286||  
+त्रैलोक्याधिपतौ फणीन्द्रशयने निद्राति दैत्यद्रुहि  
+प्राप्य प्रावृषम् अन्धकाररजनीं प्रत्याशम् आयोजिताः ।  
+विद्युद्दीधितिदीपिकाभिर् अभितः संशोधयन्तो दिशां  
+भित्तीर् जाग्रति यामिका इव धनुष्मन्तः स्वनन्तो घनाः ॥१२८६॥  
 
 
-oṃkaṇṭhasya |  
+ॐकण्ठस्य ।  
 
 
-kṣapāṃ kṣāmīkṛtya prasabham apahṛtyāmbusaritāṃ  
-pratāpyorvīṃ vanatarugahanam utsādya sakalam |  
-kva sampraty uṣṇāṃśur gata iti samanveṣaṇaparās  
-taḍiddīpālokair diśi diśi carantīva jaladāḥ ||1287||  
+क्षपां क्षामीकृत्य प्रसभम् अपहृत्याम्बुसरितां  
+प्रताप्योर्वीं वनतरुगहनम् उत्साद्य सकलम् ।  
+क्व सम्प्रत्य् उष्णांशुर् गत इति समन्वेषणपरास्  
+तडिद्दीपालोकैर् दिशि दिशि चरन्तीव जलदाः ॥१२८७॥  
 
 
-oṃkaṇṭhasya | (su.ra. 251 kasyacit, śā.pa. 3869, sū.mu. 61.18 both pāṇineḥ)  
+ॐकण्ठस्य । (सु।र। २५१ कस्यचित्, शा।प। ३८६९, सू।मु। ६१।१८ बोथ् पाणिनेः)  
 
 
-nipīya svacchandaṃ jalam udarapūraṃ bhavavaśād  
-viṣaṇṇo’tikleśāt kṣitidharaśilālambitavapuḥ |  
-muhur vidyud vallīvalitarasano nisvanamiṣād  
-bhṛśārabdhodgāraṃ vamati jalabhāraṃ jaladharaḥ ||1288||  
+निपीय स्वच्छन्दं जलम् उदरपूरं भववशाद्  
+विषण्णो’तिक्लेशात् क्षितिधरशिलालम्बितवपुः ।  
+मुहुर् विद्युद् वल्लीवलितरसनो निस्वनमिषाद्  
+भृशारब्धोद्गारं वमति जलभारं जलधरः ॥१२८८॥  
 
 
-jalacandrasya |  
+जलचन्द्रस्य ।  
 
 
-vyāpyāntarīkṣakakubhāva nubhūbhṛdagraṃ  
-sāndrāndhakāragahanāsu niśāsu garjan |  
-saṃvīkṣate virahiṇaḥ ka iha dhriyante  
-varṣāsu vidyudurudīpikayeva meghaḥ ||1289||  
+व्याप्यान्तरीक्षककुभाव नुभूभृदग्रं  
+सान्द्रान्धकारगहनासु निशासु गर्जन् ।  
+संवीक्षते विरहिणः क इह ध्रियन्ते  
+वर्षासु विद्युदुरुदीपिकयेव मेघः ॥१२८९॥  
 
 
-loṣṭasarvajñasya |  
+लोष्टसर्वज्ञस्य ।  
 
 
-asau nāstīvenduḥ kvacid api raviḥ proṣita iva  
-grahoḍūnāṃ cakraṃ nabhasi likhitaproñchitam iva |  
-ahar vā rātrir vā dvayam api viluptapravicayaṃ   
-ghanair baddhavyūhaiḥ kim idam iti ghoraṃ vyavasitam ||1290||  
+असौ नास्तीवेन्दुः क्वचिद् अपि रविः प्रोषित इव  
+ग्रहोडूनां चक्रं नभसि लिखितप्रोञ्छितम् इव ।  
+अहर् वा रात्रिर् वा द्वयम् अपि विलुप्तप्रविचयं   
+घनैर् बद्धव्यूहैः किम् इदम् इति घोरं व्यवसितम् ॥१२९०॥  
 
 
-kasyacit | (su.ra. 262)  
+कस्यचित् । (सु।र। २६२)  
 
 
-164. varṣānadī  
+१६४। वर्षानदी  
 
 
-dāty ūhadhvanibhāñji vetasaśikhāsuptoragāṇi dhvanat  
-kādambāni kuraṅgayūthakalitastūpāny udambhāṃsi ca |  
-tīrāṇy adya pipīlikāsamudayāvarjajjaṭālolupa  
-vyāptāny unmadakukkubhāni saritāṃ kurvanti lolaṃ manaḥ ||1291||  
+दात्य् ऊहध्वनिभाञ्जि वेतसशिखासुप्तोरगाणि ध्वनत्  
+कादम्बानि कुरङ्गयूथकलितस्तूपान्य् उदम्भांसि च ।  
+तीराण्य् अद्य पिपीलिकासमुदयावर्जज्जटालोलुप  
+व्याप्तान्य् उन्मदकुक्कुभानि सरितां कुर्वन्ति लोलं मनः ॥१२९१॥  
 
 
-yogeśvarasya | (su.ra. 221)  
+योगेश्वरस्य । (सु।र। २२१)  
 
 
-etāḥ paṅkilakūlarūḍhanaladastambhāḥ kvaṇatkambavaḥ  
-krīḍatkarkaṭacakravālavilasajkambālatoyābilāḥ |  
-hṛllekhaṃ janayanty anūpasaritāṃ uttuṇḍagaṇḍūpado  
-tkīrṇodgīrṇā mṛdarbudasthapuṭitaprāntās taṭībhūmayaḥ ||1292||  
+एताः पङ्किलकूलरूढनलदस्तम्भाः क्वणत्कम्बवः  
+क्रीडत्कर्कटचक्रवालविलसज्कम्बालतोयाबिलाः ।  
+हृल्लेखं जनयन्त्य् अनूपसरितां उत्तुण्डगण्डूपदो  
+त्कीर्णोद्गीर्णा मृदर्बुदस्थपुटितप्रान्तास् तटीभूमयः ॥१२९२॥  
 
 
-parameśvarasya | (su.ra. 254)  
+परमेश्वरस्य । (सु।र। २५४)  
 
 
-viratarajasāṃ sphūrjatsarjaprasūnasugandhinī  
-madavaśalasatkekikvāṇapraṇāditasānunī |  
-apahṛtavanoddeśonmeṣās taraṅgitaraṃhaso  
-vidadhati taṭe bhūbhṛn nadyaḥ kvaṇajjalaraṅkuṇī ||1293||  
+विरतरजसां स्फूर्जत्सर्जप्रसूनसुगन्धिनी  
+मदवशलसत्केकिक्वाणप्रणादितसानुनी ।  
+अपहृतवनोद्देशोन्मेषास् तरङ्गितरंहसो  
+विदधति तटे भूभृन् नद्यः क्वणज्जलरङ्कुणी ॥१२९३॥  
 
 
-kāpālikasya |  
+कापालिकस्य ।  
 
 
-nidāghadrāghīyaḥ klamakamaṭhakaṇṭhākulabhidām  
-idānīm uddeśāḥ pratipulinam arghanti saritām |  
-samantād unmīlan navaniculakujjeṣu rabhasā  
-davasphārakrīḍāsukhamukharadātyūhasuhṛdaḥ ||1294||  
+निदाघद्राघीयः क्लमकमठकण्ठाकुलभिदाम्  
+इदानीम् उद्देशाः प्रतिपुलिनम् अर्घन्ति सरिताम् ।  
+समन्ताद् उन्मीलन् नवनिचुलकुज्जेषु रभसा  
+दवस्फारक्रीडासुखमुखरदात्यूहसुहृदः ॥१२९४॥  
 
 
-hareḥ |  
+हरेः ।  
 
 
-iha gurujalabhārapūrṇagarbhāḥ  
-pradaradarībhramabhūribhīmavegāḥ |  
-taṭakaṭakaniyudhyamānaveṇī  
-dviguṇamahāravabhairavās taṭinyaḥ ||1295||  
+इह गुरुजलभारपूर्णगर्भाः  
+प्रदरदरीभ्रमभूरिभीमवेगाः ।  
+तटकटकनियुध्यमानवेणी  
+द्विगुणमहारवभैरवास् तटिन्यः ॥१२९५॥  
 
 
-tripurāreḥ |  
+त्रिपुरारेः ।  
 
 
-165. varṣādivasaḥ  
+१६५। वर्षादिवसः  
 
 
-tāny etāni śikhaṇḍitāṇḍavagurūn ambhodharān ambare  
-tanvānāni dināni nūnam amṛtasyandīni vandāmahe |  
-udgāḍhā navanīlanīrajadṛśām atyantam āyāsino  
-bhidyante svayam eva yeṣu viṣamā mānagrahagranthayaḥ ||1296||  
+तान्य् एतानि शिखण्डिताण्डवगुरून् अम्भोधरान् अम्बरे  
+तन्वानानि दिनानि नूनम् अमृतस्यन्दीनि वन्दामहे ।  
+उद्गाढा नवनीलनीरजदृशाम् अत्यन्तम् आयासिनो  
+भिद्यन्ते स्वयम् एव येषु विषमा मानग्रहग्रन्थयः ॥१२९६॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-hastaprāpyadiśaḥ pragāḍhajaladaprāgmārasaṃkocita  
-vyomānaḥ patayālubhir dhanarasair ākīrṇabhūmaṇḍalāḥ |  
-adyoddāmanadan navāmbudacayapracchannakīrṇodara  
-krūrāḥ pānthavadhūbhir adbhutam amī soḍhāḥ kathaṃ vāsarāḥ ||1297||  
+हस्तप्राप्यदिशः प्रगाढजलदप्राग्मारसंकोचित  
+व्योमानः पतयालुभिर् धनरसैर् आकीर्णभूमण्डलाः ।  
+अद्योद्दामनदन् नवाम्बुदचयप्रच्छन्नकीर्णोदर  
+क्रूराः पान्थवधूभिर् अद्भुतम् अमी सोढाः कथं वासराः ॥१२९७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-ete te divasā viyogiguravaḥ pūrollasatsindhavo  
-vindhyaśyāmapayodanīlanabhaso nīpārjunāmodinaḥ |  
-āsannaprasavālasāṃ sahacarīm ālokya nīḍārthinīṃ  
-cañcuprāntakiliñjasaṃcayaparaḥ kāko’pi yeṣv ākulaḥ ||1298||  
+एते ते दिवसा वियोगिगुरवः पूरोल्लसत्सिन्धवो  
+विन्ध्यश्यामपयोदनीलनभसो नीपार्जुनामोदिनः ।  
+आसन्नप्रसवालसां सहचरीम् आलोक्य नीडार्थिनीं  
+चञ्चुप्रान्तकिलिञ्जसंचयपरः काको’पि येष्व् आकुलः ॥१२९८॥  
 
 
-rantidevasya |  
+रन्तिदेवस्य ।  
 
 
-ete karburitātapās tata itaḥ saṃjāyamānāmbuda  
-cchedaiḥ saṃprati ketakīdalamiladdarbhātitheyodayāḥ |  
-grāmāntodgataśālibījayavasāśleṣaprahṛṣyanmano  
-govāhāyatagītigarbhitadiśo ramyāḥ sakhe vāsarāḥ ||1300||  
+एते कर्बुरितातपास् तत इतः संजायमानाम्बुद  
+च्छेदैः संप्रति केतकीदलमिलद्दर्भातिथेयोदयाः ।  
+ग्रामान्तोद्गतशालिबीजयवसाश्लेषप्रहृष्यन्मनो  
+गोवाहायतगीतिगर्भितदिशो रम्याः सखे वासराः ॥१३००॥  
 
 
-kasyacit |  
-166. varṣārātriḥ  
+कस्यचित् ।  
+१६६। वर्षारात्रिः  
 
 
-āsārāntamṛdupravṛttamaruto meghopaliptāmbarā  
-vidyutpātamuhūrtadṛṣṭakakubhaḥ suptendutārāgrahāḥ |  
-dhārāklinnakadambasambhṛtasudhāmododvahāḥ proṣitair  
-niḥsampātavisāridarduraravā nītāḥ kathaṃ rātrayaḥ ||1301||  
+आसारान्तमृदुप्रवृत्तमरुतो मेघोपलिप्ताम्बरा  
+विद्युत्पातमुहूर्तदृष्टककुभः सुप्तेन्दुताराग्रहाः ।  
+धाराक्लिन्नकदम्बसम्भृतसुधामोदोद्वहाः प्रोषितैर्  
+निःसम्पातविसारिदर्दुररवा नीताः कथं रात्रयः ॥१३०१॥  
 
 
-kasyacit | (su.ra. 220, yogeśvarasya)  
+कस्यचित् । (सु।र। २२०, योगेश्वरस्य)  
 
 
-khadyotacchuritāndhakārapaṭalāḥ spaṣṭasphuradvidyutaḥ  
-snigdhadhvānavibhāvitorujaladonnāhā raṭatkambavaḥ |  
-etāḥ ketakabhedavāsitapurovātāḥ patadvārayo  
-na pratyemi janasya yad virahiṇo yāsyanti soḍhuṃ niśāḥ ||1302||  
+खद्योतच्छुरितान्धकारपटलाः स्पष्टस्फुरद्विद्युतः  
+स्निग्धध्वानविभावितोरुजलदोन्नाहा रटत्कम्बवः ।  
+एताः केतकभेदवासितपुरोवाताः पतद्वारयो  
+न प्रत्येमि जनस्य यद् विरहिणो यास्यन्ति सोढुं निशाः ॥१३०२॥  
 
 
-kasyacit | (su.ra. 228)  
+कस्यचित् । (सु।र। २२८)  
 
 
-viṣvagvātavikīrṇaśīkarakaṇāḥ sphārasphuradvidyutas  
-tatkālapratibuddhaketakaśikhāgandhopadigdhāmbarāḥ |  
-dātyūhaprasavapraṇāditadiśaḥ pānthapriyāṇām abhūr  
-unmathnanti manāṃsi māṃsalaghanadhvānottarā rātrayaḥ ||1303||  
+विष्वग्वातविकीर्णशीकरकणाः स्फारस्फुरद्विद्युतस्  
+तत्कालप्रतिबुद्धकेतकशिखागन्धोपदिग्धाम्बराः ।  
+दात्यूहप्रसवप्रणादितदिशः पान्थप्रियाणाम् अभूर्  
+उन्मथ्नन्ति मनांसि मांसलघनध्वानोत्तरा रात्रयः ॥१३०३॥  
 
 
-kasyāpi |  
+कस्यापि ।  
 
 
-ambhaḥsaṃbhṛtimantharāmbudaravaiḥ śālūragarjābhara  
-prārabdhapriyaviprayuktayuvatījīvagrahe bhīṣaṇāḥ |  
-vidyuddanturitāndhakārapaṭalā gāmbhīryabaddhārava  
-sthairyonmūlanaśaktayaḥ katham amī niryānti varṣāniśāḥ ||1304||  
+अम्भःसंभृतिमन्थराम्बुदरवैः शालूरगर्जाभर  
+प्रारब्धप्रियविप्रयुक्तयुवतीजीवग्रहे भीषणाः ।  
+विद्युद्दन्तुरितान्धकारपटला गाम्भीर्यबद्धारव  
+स्थैर्योन्मूलनशक्तयः कथम् अमी निर्यान्ति वर्षानिशाः ॥१३०४॥  
 
 
-mādhavasya |  
+माधवस्य ।  
 
 
-vidyuddīdhitibhedabhīṣaṇatamaḥstomāntarāḥ santata  
-śyāmāmbhodhararodhasaṅkaṭaviyadviproṣitajyotiṣaḥ |  
-khadyotonnamitopakaṇṭhataravaḥ puṣṇanti gambhīratām   
-āsārodakamattakīṭapaṭalīkvāṇottarā rātrayaḥ ||1305||  
+विद्युद्दीधितिभेदभीषणतमःस्तोमान्तराः सन्तत  
+श्यामाम्भोधररोधसङ्कटवियद्विप्रोषितज्योतिषः ।  
+खद्योतोन्नमितोपकण्ठतरवः पुष्णन्ति गम्भीरताम्   
+आसारोदकमत्तकीटपटलीक्वाणोत्तरा रात्रयः ॥१३०५॥  
 
 
-kasyacit | (su.ra. 252)  
+कस्यचित् । (सु।र। २५२)  
 
 
-śaradārambhaḥ  
+शरदारम्भः  
 
 
-śubhrābhraṃ gaganaṃ kvacit pravikasat kāśā vanālī kvacit  
-toyonmuktatṛṇāgrapaṅkajaṭilā kṣetrāntabhūmiḥ kvacit |  
-kiṃ ca kvāpi cakoracārucaraṇanyāsārdramudrābhṛto  
-dṛśyante taṭinīvimuktapulinacchedā manohāriṇaḥ ||1306||  
+शुभ्राभ्रं गगनं क्वचित् प्रविकसत् काशा वनाली क्वचित्  
+तोयोन्मुक्ततृणाग्रपङ्कजटिला क्षेत्रान्तभूमिः क्वचित् ।  
+किं च क्वापि चकोरचारुचरणन्यासार्द्रमुद्राभृतो  
+दृश्यन्ते तटिनीविमुक्तपुलिनच्छेदा मनोहारिणः ॥१३०६॥  
 
 
-saṃgrāmadattasya |  
+संग्रामदत्तस्य ।  
 
 
-āgatya saṃprati viyogavisaṃṣṭhulāṅgīm   
-ambhojinīṃ kvacid api kṣapitatriyāmaḥ |  
-etāṃ prasādayati paśya śanaiḥ prabhāte   
-tanvaṅgi pādapatanena sahasraraśmiḥ ||1307||  
+आगत्य संप्रति वियोगविसंष्ठुलाङ्गीम्   
+अम्भोजिनीं क्वचिद् अपि क्षपितत्रियामः ।  
+एतां प्रसादयति पश्य शनैः प्रभाते   
+तन्वङ्गि पादपतनेन सहस्ररश्मिः ॥१३०७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-dhūmraiḥ pakṣapuṭaiḥ patadbhir abhitaḥ pāṇḍūdaraiḥ khañjanair  
-āyāntīṃ śaradaṃ kiranti rabhasāl lājair ivāśāṅganāḥ |  
-maṅgalyaṃ ca kalaṅkapallavamukhaṃ smerānanā śarvarī  
-jyotsnādarpaṇagauram indukalaśaṃ vyomāṅgane nyasyati ||1308||  
+धूम्रैः पक्षपुटैः पतद्भिर् अभितः पाण्डूदरैः खञ्जनैर्  
+आयान्तीं शरदं किरन्ति रभसाल् लाजैर् इवाशाङ्गनाः ।  
+मङ्गल्यं च कलङ्कपल्लवमुखं स्मेरानना शर्वरी  
+ज्योत्स्नादर्पणगौरम् इन्दुकलशं व्योमाङ्गने न्यस्यति ॥१३०८॥  
 
 
-kasyacit | (su.ra. 269)  
+कस्यचित् । (सु।र। २६९)  
 
 
-haṃsānāṃ nivaheṣu yaiḥ kavalitair āsajyate kūjatām  
-anyaḥ ko’pi kaṣāyakaṇṭhaluṭhanād āghargharo nisvanaḥ |  
-te sampraty akaṭhoravāraṇavadhūdantāṅkuraspardhino  
-niryātāḥ kamalākareṣu bisinīkandāṅkuragranthayaḥ ||1309||  
+हंसानां निवहेषु यैः कवलितैर् आसज्यते कूजताम्  
+अन्यः को’पि कषायकण्ठलुठनाद् आघर्घरो निस्वनः ।  
+ते सम्प्रत्य् अकठोरवारणवधूदन्ताङ्कुरस्पर्धिनो  
+निर्याताः कमलाकरेषु बिसिनीकन्दाङ्कुरग्रन्थयः ॥१३०९॥  
 
 
-kamalāyudhasya | (su.ra. 284, dhva. 4.7)  
+कमलायुधस्य । (सु।र। २८४, ध्व। ४।७)  
 
 
-parāvṛttā haṃsāḥ sapadi vigataṃ kalmaṣam apāṃ  
-prasannaḥ śītāṃśuḥ prasṛtapaṭavaḥ sūryakiraṇāḥ |  
-diśo dīrghībhūtā gaganam asivarṇaṃ ca vipulaṃ  
-niyantā vindhyādrer viditam udito’sau munivṛṣā ||1310||  
+परावृत्ता हंसाः सपदि विगतं कल्मषम् अपां  
+प्रसन्नः शीतांशुः प्रसृतपटवः सूर्यकिरणाः ।  
+दिशो दीर्घीभूता गगनम् असिवर्णं च विपुलं  
+नियन्ता विन्ध्याद्रेर् विदितम् उदितो’सौ मुनिवृषा ॥१३१०॥  
 
 
-yogeśvarasya |  
-168. śarat  
+योगेश्वरस्य ।  
+१६८। शरत्  
 
 
-yadyapy ahaṃ śaśimukhi vimalāmbaraśrīr  
-bandūkapuṣparucirādharapallavāpi |  
-dhiṅ māṃ tathāpi galitorupayodharatvād  
-ity uccakaiḥ śarad iyaṃ vahatīva tāpam ||1311||  
+यद्यप्य् अहं शशिमुखि विमलाम्बरश्रीर्  
+बन्दूकपुष्परुचिराधरपल्लवापि ।  
+धिङ् मां तथापि गलितोरुपयोधरत्वाद्  
+इत्य् उच्चकैः शरद् इयं वहतीव तापम् ॥१३११॥  
 
 
-manovinodasya | (su.ra. 267)  
+मनोविनोदस्य । (सु।र। २६७)  
 
 
-varāhānākṣeptuṃ kalamakavalaprītyabhimukhā  
-nidānīṃ sīmānaṃ prati vihitamañcāḥ svapatibhiḥ |  
-kapotaiḥ potārthaṃ kṛtaniviḍanīḍā viṭapinaḥ   
-śivābhir valmīkāḥ kharanakharakhātodaramṛdaḥ ||1312||  
+वराहानाक्षेप्तुं कलमकवलप्रीत्यभिमुखा  
+निदानीं सीमानं प्रति विहितमञ्चाः स्वपतिभिः ।  
+कपोतैः पोतार्थं कृतनिविडनीडा विटपिनः   
+शिवाभिर् वल्मीकाः खरनखरखातोदरमृदः ॥१३१२॥  
 
 
-śatānandasya | (su.ra. 285)  
+शतानन्दस्य । (सु।र। २८५)  
 
 
-tīkṣṇaṃ ravis tapati nīca ivācirāḍhyaḥ  
-śṛṅgaṃ rurus tyajati mitram ivākṛtajñaḥ |  
-toyaṃ prasīdati muner iva dharmacintā  
-kāmī daridra iva śoṣam upaiti paṅkaḥ ||1313||  
+तीक्ष्णं रविस् तपति नीच इवाचिराढ्यः  
+शृङ्गं रुरुस् त्यजति मित्रम् इवाकृतज्ञः ।  
+तोयं प्रसीदति मुनेर् इव धर्मचिन्ता  
+कामी दरिद्र इव शोषम् उपैति पङ्कः ॥१३१३॥  
 
 
-bhāsasya | (su.ra. 276, Sv 1821, śā.pa. 3907, sū.mu. 62.3)  
+भासस्य । (सु।र। २७६, स्व् १८२१, शा।प। ३९०७, सू।मु। ६२।३)  
 
 
-kāntānāṃ vadanendukāntimadhunā dhatte sudhādīdhitiḥ  
-khelatkhañjanapaṅktayo mṛgadṛśāṃ tanvanti netraśriyam |  
-padmāni śvasitasya saurabham abhidruhyanti vāmabhruvām  
-abhyasyanti ca rājahaṃsavanitāḥ pīnastanīnāṃ gatim ||1314||  
+कान्तानां वदनेन्दुकान्तिमधुना धत्ते सुधादीधितिः  
+खेलत्खञ्जनपङ्क्तयो मृगदृशां तन्वन्ति नेत्रश्रियम् ।  
+पद्मानि श्वसितस्य सौरभम् अभिद्रुह्यन्ति वामभ्रुवाम्  
+अभ्यस्यन्ति च राजहंसवनिताः पीनस्तनीनां गतिम् ॥१३१४॥  
 
 
-lakṣmīdharasya |  
+लक्ष्मीधरस्य ।  
 
 
-vastrāyante nadīnāṃ sitakusumadharāḥ śakrasaṅkāśakāśāḥ   
-kāśābhā bhānti tāsāṃ navapulinagatāḥ śrīnadīhaṃsahaṃsāḥ |  
-haṃsābhāmbhodayuktaḥ śaradamalapaṭur medinīcandra candraś  
-candrāṅkaḥ śāradas te jayakṛd upanato vidviṣāṃ kālakālaḥ ||1315||  
+वस्त्रायन्ते नदीनां सितकुसुमधराः शक्रसङ्काशकाशाः   
+काशाभा भान्ति तासां नवपुलिनगताः श्रीनदीहंसहंसाः ।  
+हंसाभाम्भोदयुक्तः शरदमलपटुर् मेदिनीचन्द्र चन्द्रश्  
+चन्द्राङ्कः शारदस् ते जयकृद् उपनतो विद्विषां कालकालः ॥१३१५॥  
 
 
-vāmanasya |  
+वामनस्य ।  
 
 
-169. śarannadī  
+१६९। शरन्नदी  
 
 
-pārāvāraprakaṭapulinābhyugamottārapāṇḍur  
-līlāvartastimitacalanavyañjitoddeśanimnā |  
-krauñcījānudvayasapayasām antarīpodareṣu  
-svacchā veṇir madayati manaḥ śāradīnāṃ nadīnām ||1316||  
+पारावारप्रकटपुलिनाभ्युगमोत्तारपाण्डुर्  
+लीलावर्तस्तिमितचलनव्यञ्जितोद्देशनिम्ना ।  
+क्रौञ्चीजानुद्वयसपयसाम् अन्तरीपोदरेषु  
+स्वच्छा वेणिर् मदयति मनः शारदीनां नदीनाम् ॥१३१६॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-khelatkhañjanalocanāḥ khaganakhakṣuṇṇāntarīpo ravaḥ   
-srastaiḥ śaivalakuntalair aviratasmerāravindānanāḥ |  
-varṣārātrighanopabhogakathayevālīr marālāṅganāḥ  
-prīṇanty adya śaratprabhātamilitā nīcasvanair āpagāḥ ||1317||  
+खेलत्खञ्जनलोचनाः खगनखक्षुण्णान्तरीपो रवः   
+स्रस्तैः शैवलकुन्तलैर् अविरतस्मेरारविन्दाननाः ।  
+वर्षारात्रिघनोपभोगकथयेवालीर् मरालाङ्गनाः  
+प्रीणन्त्य् अद्य शरत्प्रभातमिलिता नीचस्वनैर् आपगाः ॥१३१७॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-pūrvaṃ vāridhaprasaṅgasamaye nāpūritaiḥ kukṣibhir  
-yā garbhiṇya ivātibhāraguravo niḥsevyatām āgatāḥ |  
-etāḥ saṃprati tā vibhānty akulaṣāḥ kṣāmābhirāmāṅgikāḥ   
-kūjatsārasapotapītapayaso nadyaḥ prasūtā iva ||1318||  
+पूर्वं वारिधप्रसङ्गसमये नापूरितैः कुक्षिभिर्  
+या गर्भिण्य इवातिभारगुरवो निःसेव्यताम् आगताः ।  
+एताः संप्रति ता विभान्त्य् अकुलषाः क्षामाभिरामाङ्गिकाः   
+कूजत्सारसपोतपीतपयसो नद्यः प्रसूता इव ॥१३१८॥  
 
 
-kāśmīrakabhogakarmaṇaḥ | (Sv 1825, sū.mu. 62.21)  
+काश्मीरकभोगकर्मणः । (स्व् १८२५, सू।मु। ६२।२१)  
 
 
-pūrāpāyaprakaṭaviṭapāḥ paryaṭatkhañjarīṭā  
-krāntaprāntāḥ prasabhavilasadrājahaṃsāvataṃsāḥ |  
-adyānandaṃ dadhati vicaraccakravākogracañcu  
-grāsatrāsapracalaśapharasmeranīrās taṭinyaḥ ||1319||  
+पूरापायप्रकटविटपाः पर्यटत्खञ्जरीटा  
+क्रान्तप्रान्ताः प्रसभविलसद्राजहंसावतंसाः ।  
+अद्यानन्दं दधति विचरच्चक्रवाकोग्रचञ्चु  
+ग्रासत्रासप्रचलशफरस्मेरनीरास् तटिन्यः ॥१३१९॥  
 
 
-ḍimbokasya | (su.ra. 288)  
+डिम्बोकस्य । (सु।र। २८८)  
 
 
-imās tāḥ kastūrīprakharakhuraṭaṅkakṣatataṭās   
-taṭinyo’raṇyānīm anu kamalinīcchannasalilāḥ |  
-jale yāsāṃ haṃsā bisakisalayagrāsarasikāḥ  
-salīlaṃ līyante yuvatigatividyaikaguravaḥ ||1320||  
+इमास् ताः कस्तूरीप्रखरखुरटङ्कक्षततटास्   
+तटिन्यो’रण्यानीम् अनु कमलिनीच्छन्नसलिलाः ।  
+जले यासां हंसा बिसकिसलयग्रासरसिकाः  
+सलीलं लीयन्ते युवतिगतिविद्यैकगुरवः ॥१३२०॥  
 
 
-manmokasya |  
+मन्मोकस्य ।  
 
 
-170. śaratkhañjanaḥ  
+१७०। शरत्खञ्जनः  
 
 
-dūrotpucchaḥ salayacaraṇo lambalolatpatattūḥ  
-kaṇṭenoccair madakalarutastokavācālacañcuḥ |  
-harṣāśrūrmistimitanayananyastasotkaṇṭhadṛṣṭeḥ  
-kaṃcit kālaṃ naṭati nikaṭe khañjarīṭaḥ priyāyāḥ ||1321||  
+दूरोत्पुच्छः सलयचरणो लम्बलोलत्पतत्तूः  
+कण्टेनोच्चैर् मदकलरुतस्तोकवाचालचञ्चुः ।  
+हर्षाश्रूर्मिस्तिमितनयनन्यस्तसोत्कण्ठदृष्टेः  
+कंचित् कालं नटति निकटे खञ्जरीटः प्रियायाः ॥१३२१॥  
 
 
-manovinodasya | (su.ra. 274)  
+मनोविनोदस्य । (सु।र। २७४)  
 
 
-muhur alasitapucchapreṅkhitaiḥ preyasīnāṃ  
-manasi manasijasya prītim uddyotayanti |  
-navakanabakapatracchatrasūnānukūla  
-sthalakavalitakīṭāḥ khañjarīṭāś caranti ||1322||  
+मुहुर् अलसितपुच्छप्रेङ्खितैः प्रेयसीनां  
+मनसि मनसिजस्य प्रीतिम् उद्द्योतयन्ति ।  
+नवकनबकपत्रच्छत्रसूनानुकूल  
+स्थलकवलितकीटाः खञ्जरीटाश् चरन्ति ॥१३२२॥  
 
 
-apidevavāmanadevayoḥ |  
+अपिदेववामनदेवयोः ।  
 
 
-ayaṃ meghavyūhe balini paripanthiny apasṛte   
-śarajjanyāḥ svairaṃ hasitam iva harṣād aviratam |  
-payaḥpūrabhraṃśakramajanitasopānasikate   
-nadītīre dhīraṃ carati viśadaḥ khañjanagaṇaḥ ||1323||  
+अयं मेघव्यूहे बलिनि परिपन्थिन्य् अपसृते   
+शरज्जन्याः स्वैरं हसितम् इव हर्षाद् अविरतम् ।  
+पयःपूरभ्रंशक्रमजनितसोपानसिकते   
+नदीतीरे धीरं चरति विशदः खञ्जनगणः ॥१३२३॥  
 
 
-suvarṇasya |  
+सुवर्णस्य ।  
 
 
-saṃprati digaṅganānāṃ  
-śarannirākṛtaghanāndhapaṭalānām |  
-khañjanakaṭākṣapātaiḥ  
-karburitaṃ gaganam ābhāti ||1324||  
+संप्रति दिगङ्गनानां  
+शरन्निराकृतघनान्धपटलानाम् ।  
+खञ्जनकटाक्षपातैः  
+कर्बुरितं गगनम् आभाति ॥१३२४॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-madhuramadhuraṃ kūjann agre patanmuhurutpatann  
-aviralacalatpucchaḥ svecchaṃ vicumbya ciraṃ priyām |  
-iha hi śaradi kṣīvaḥ pakṣau vidhūya milan mudā  
-madayati rahaḥ kuñije mañjusthalīm adhi khañjanaḥ ||1325||  
+मधुरमधुरं कूजन्न् अग्रे पतन्मुहुरुत्पतन्न्  
+अविरलचलत्पुच्छः स्वेच्छं विचुम्ब्य चिरं प्रियाम् ।  
+इह हि शरदि क्षीवः पक्षौ विधूय मिलन् मुदा  
+मदयति रहः कुञिजे मञ्जुस्थलीम् अधि खञ्जनः ॥१३२५॥  
 
 
-jayadevasya |  
-171. hemantaḥ  
+जयदेवस्य ।  
+१७१। हेमन्तः  
 
 
-yātrālagnaṃ śiśiramarutāṃ bāndhavaḥ kundalakṣyāḥ  
-kālaṃ so’yaṃ kamalasarasāṃ sampadaḥ kālabhūtaḥ |  
-nidrāvyājāj jaḍimavidhurā yatra gāḍhe himartau  
-rāmāḥ kaṇṭhagraham aśithilaṃ preyasām ādriyante ||1326||  
+यात्रालग्नं शिशिरमरुतां बान्धवः कुन्दलक्ष्याः  
+कालं सो’यं कमलसरसां सम्पदः कालभूतः ।  
+निद्राव्याजाज् जडिमविधुरा यत्र गाढे हिमर्तौ  
+रामाः कण्ठग्रहम् अशिथिलं प्रेयसाम् आद्रियन्ते ॥१३२६॥  
 
 
-kasyacit | (su.ra. 293)  
+कस्यचित् । (सु।र। २९३)  
 
 
-garvāyante palālaṃ prati pathikaśataiḥ pāmarāḥ stūyamānā  
-gopān gogarbhinīnāṃ sukhayati bahalo rātriromanthabāṣpaḥ |  
-prātaḥ pṛṣṭhāvagāḍhaprathamaravirucir grāmasīmopaśalye  
-śete siddhārthapuṣpacchadanicitahimaklinnapakṣmā mahokṣaḥ ||1327||  
+गर्वायन्ते पलालं प्रति पथिकशतैः पामराः स्तूयमाना  
+गोपान् गोगर्भिनीनां सुखयति बहलो रात्रिरोमन्थबाष्पः ।  
+प्रातः पृष्ठावगाढप्रथमरविरुचिर् ग्रामसीमोपशल्ये  
+शेते सिद्धार्थपुष्पच्छदनिचितहिमक्लिन्नपक्ष्मा महोक्षः ॥१३२७॥  
 
 
-yogeśvarasya | (su.ra. 297)  
+योगेश्वरस्य । (सु।र। २९७)  
 
 
-digbhāgeṣu himāvṛtiḥ pratidinaṃ sāndrāpi sāndrāyate  
-prāleyaiḥ pihitaprabho dinapatir mando’pi mandāyate |  
-bhartur māndyaśuceva hanta divasaḥ kṣīṇo’py ayaṃ kṣīyate  
-tatsaṃkocanirargaleva rajanī dīrghāpi dīrghāyate ||1328||  
+दिग्भागेषु हिमावृतिः प्रतिदिनं सान्द्रापि सान्द्रायते  
+प्रालेयैः पिहितप्रभो दिनपतिर् मन्दो’पि मन्दायते ।  
+भर्तुर् मान्द्यशुचेव हन्त दिवसः क्षीणो’प्य् अयं क्षीयते  
+तत्संकोचनिरर्गलेव रजनी दीर्घापि दीर्घायते ॥१३२८॥  
 
 
-lakṣmīdharasya |  
+लक्ष्मीधरस्य ।  
 
 
-pākaṃ yatra na yāti pāṇijabhdiā yatrātiśītārtibhir  
-mānacchedanivedanaṃ ratikalāvṛttikṣamā yat kṣapā |  
-jāranyastaradacchadavraṇasamādhānāya yan mārutas  
-te’mī saṃtatakūṭakÿptakulaṭāmodā mude vāsarāḥ ||1329||  
+पाकं यत्र न याति पाणिजभ्दिआ यत्रातिशीतार्तिभिर्  
+मानच्छेदनिवेदनं रतिकलावृत्तिक्षमा यत् क्षपा ।  
+जारन्यस्तरदच्छदव्रणसमाधानाय यन् मारुतस्  
+ते’मी संततकूटक्ÿप्तकुलटामोदा मुदे वासराः ॥१३२९॥  
 
 
-ācāryagopīkasya |  
+आचार्यगोपीकस्य ।  
 
 
-udgrīvā vivṛtāruṇāsyakuharās tṛṣṇācalattālavaḥ  
-pakṣāsambhavavepamānatanavaḥ proḍḍīya kiñcin muhuḥ |  
-anyonyākṣamiṇaḥ śarāriśiśavaḥ prātar nadīrodhasi  
-prāleyāmbu pibanti vīraṇadaladroṇī praṇālīsrutam ||1330||  
+उद्ग्रीवा विवृतारुणास्यकुहरास् तृष्णाचलत्तालवः  
+पक्षासम्भववेपमानतनवः प्रोड्डीय किञ्चिन् मुहुः ।  
+अन्योन्याक्षमिणः शरारिशिशवः प्रातर् नदीरोधसि  
+प्रालेयाम्बु पिबन्ति वीरणदलद्रोणी प्रणालीस्रुतम् ॥१३३०॥  
 
 
-kasyacit | (su.ra. 1151)  
+कस्यचित् । (सु।र। ११५१)  
 
 
-172. hemantarātriḥ  
+१७२। हेमन्तरात्रिः  
 
 
-antarmanyuvibhinnadīrgharasitaprodbhūtakaṇṭhavyathair  
-ākruṣṭās taṭinīṣu kokamithunair yāvan niśīthaṃ mithaḥ |  
-śītojjāgarajambukaughamukharagrāmopakaṇṭhasthalāḥ   
-kṛcchreṇoparamanti pānthagṛhiṇīcintāyatā rātrayaḥ ||1331||  
+अन्तर्मन्युविभिन्नदीर्घरसितप्रोद्भूतकण्ठव्यथैर्  
+आक्रुष्टास् तटिनीषु कोकमिथुनैर् यावन् निशीथं मिथः ।  
+शीतोज्जागरजम्बुकौघमुखरग्रामोपकण्ठस्थलाः   
+कृच्छ्रेणोपरमन्ति पान्थगृहिणीचिन्तायता रात्रयः ॥१३३१॥  
 
 
-abhinandasya |  
+अभिनन्दस्य ।  
 
 
-viśrāmaṃ bhaja tālavṛnta sumanovaikakṣaka kṣamyatāṃ  
-śrīkhaṇḍadrava vandito’si sumanohārāḥ punar darśanam |  
-dīpe saṃprati karmasākṣiṇi parīrambhāya vāmabhruvām  
-eko’pi prabhavanti haimananiśāyāmā niśāyāminaḥ ||1332||  
+विश्रामं भज तालवृन्त सुमनोवैकक्षक क्षम्यतां  
+श्रीखण्डद्रव वन्दितो’सि सुमनोहाराः पुनर् दर्शनम् ।  
+दीपे संप्रति कर्मसाक्षिणि परीरम्भाय वामभ्रुवाम्  
+एको’पि प्रभवन्ति हैमननिशायामा निशायामिनः ॥१३३२॥  
 
 
-śubhāṅkasya |  
+शुभाङ्कस्य ।  
 
 
-prodyatprauḍhapriyaṅgudyutibhṛtividalatkundamādyaddvirephe  
-kāle prāleyavātapracalavikasitoddāmamandāradāmni |  
-yeṣāṃ no kaṇṭhalagnā kṣaṇam api tuhinakṣodadakṣā mṛgākṣī  
-teṣām āyāmiyāmā yamasadanasamā yāminī yāti yūnām ||1333||  
+प्रोद्यत्प्रौढप्रियङ्गुद्युतिभृतिविदलत्कुन्दमाद्यद्द्विरेफे  
+काले प्रालेयवातप्रचलविकसितोद्दाममन्दारदाम्नि ।  
+येषां नो कण्ठलग्ना क्षणम् अपि तुहिनक्षोददक्षा मृगाक्षी  
+तेषाम् आयामियामा यमसदनसमा यामिनी याति यूनाम् ॥१३३३॥  
 
 
-kasyacit | (Sv 1843, śā.pa. 3924)  
+कस्यचित् । (स्व् १८४३, शा।प। ३९२४)  
 
 
-vilāsināṃ bhāgyavijṛmbhitena  
-yasmin dvayaṃ sādhu kṛtaṃ vidhātrā |  
-yadaṅganānāṃ vipulastanoṣmā  
-vyadhāyi dīrghāś ca kṛtā rajanyaḥ ||1334||  
+विलासिनां भाग्यविजृम्भितेन  
+यस्मिन् द्वयं साधु कृतं विधात्रा ।  
+यदङ्गनानां विपुलस्तनोष्मा  
+व्यधायि दीर्घाश् च कृता रजन्यः ॥१३३४॥  
 
 
-puruṣottamadevasya |  
+पुरुषोत्तमदेवस्य ।  
 
 
-himadhavalakāntikeśī mandadyutitārakā bṛhattimirā |  
-dviguṇībhūtā rajanī vṛddheva śanaiḥ śanair yāti ||1335||  
+हिमधवलकान्तिकेशी मन्दद्युतितारका बृहत्तिमिरा ।  
+द्विगुणीभूता रजनी वृद्धेव शनैः शनैर् याति ॥१३३५॥  
 
 
-kasyacit | (Sv 1832, śā.pa. 3919, sū.mu. 63.6)  
+कस्यचित् । (स्व् १८३२, शा।प। ३९१९, सू।मु। ६३।६)  
 
 
-176. hemantahālikaḥ   
+१७६। हेमन्तहालिकः   
 
 
-laghuni tṛṇakuṭīre kṣetrakoṇe yavānāṃ  
-navakalamapalālasrastare sopadhāne |  
-pariharati suṣuptaṃ hālikadvandvam ārāt  
-stanakalaśamahoṣmābaddharekhas tuṣāraḥ ||1336||  
+लघुनि तृणकुटीरे क्षेत्रकोणे यवानां  
+नवकलमपलालस्रस्तरे सोपधाने ।  
+परिहरति सुषुप्तं हालिकद्वन्द्वम् आरात्  
+स्तनकलशमहोष्माबद्धरेखस् तुषारः ॥१३३६॥  
 
 
-bhavabhūteḥ (da.rū. 4.22, Sv 1840, su.ra. 299, śā.pa. 3922, sū.mu. 63.15)  
+भवभूतेः (द।रू। ४।२२, स्व् १८४०, सु।र। २९९, शा।प। ३९२२, सू।मु। ६३।१५)  
 
 
-idānīm arghanti prathamakalamacchedamuditā  
-navīnāndhasthālīparimalamuco hālikagṛhāḥ |  
-udañcaddorlīlāraṇitavalayābhir yuvatibhir  
-gṛhītaprotkṣiptabhramitamasṛṇodgīrṇamusalāḥ ||1337||  
+इदानीम् अर्घन्ति प्रथमकलमच्छेदमुदिता  
+नवीनान्धस्थालीपरिमलमुचो हालिकगृहाः ।  
+उदञ्चद्दोर्लीलारणितवलयाभिर् युवतिभिर्  
+गृहीतप्रोत्क्षिप्तभ्रमितमसृणोद्गीर्णमुसलाः ॥१३३७॥  
 
 
-yogeśvarasya | (su.ra. 314)  
+योगेश्वरस्य । (सु।र। ३१४)  
 
 
-bhadraṃ te sadṛśaṃ yadadhvagaśataiḥ kīrtistavodgīyate  
-sthāne rūpam anuttamaṃ sukṛtinā dānena karṇo jitaḥ |  
-ity ālokya ciraṃ dṛśā kṛpaṇayā dūrāgatena stutaḥ  
-pānthenaikapalālamuṣṭirucinā garvāyate hālikaḥ ||1338||  
+भद्रं ते सदृशं यदध्वगशतैः कीर्तिस्तवोद्गीयते  
+स्थाने रूपम् अनुत्तमं सुकृतिना दानेन कर्णो जितः ।  
+इत्य् आलोक्य चिरं दृशा कृपणया दूरागतेन स्तुतः  
+पान्थेनैकपलालमुष्टिरुचिना गर्वायते हालिकः ॥१३३८॥  
 
 
-tasyaiva (sa.ka.ā. 3.8, su.ra. 305, śā.pa. 581, sū.mu. 96.2)  
+तस्यैव (स।क।आ। ३।८, सु।र। ३०५, शा।प। ५८१, सू।मु। ९६।२)  
 
 
-āhūto hālikenāśrutam iva vacanaṃ tasya kṛtvā kṣaṇaikaṃ   
-tiṣṭhāsustabdharomā katham api viṭapaṃ niḥsamīraṃ vihāya |  
-dorbhyām āvṛtya vakṣaḥsthalam alasagatir dīnapādapracāraḥ   
-śītkārotkampabhinnasphuṭadadharapuṭaḥ pāmaraḥ kṣetram eti ||1339||  
+आहूतो हालिकेनाश्रुतम् इव वचनं तस्य कृत्वा क्षणैकं   
+तिष्ठासुस्तब्धरोमा कथम् अपि विटपं निःसमीरं विहाय ।  
+दोर्भ्याम् आवृत्य वक्षःस्थलम् अलसगतिर् दीनपादप्रचारः   
+शीत्कारोत्कम्पभिन्नस्फुटदधरपुटः पामरः क्षेत्रम् एति ॥१३३९॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-kṣetropāntapalāyamānaśaśakadvandvaṃ nirīkṣyāparān  
-āhūyātirasena karṣakajanān ārabdhakolāhalāḥ |  
-hastāvāpitadātrarajjulaguḍair vṛddhair avṛddhaiḥ saha  
-tyaktvā śālicikartiṣām ita ito dhāvanty amī pāmarāḥ ||1340||  
+क्षेत्रोपान्तपलायमानशशकद्वन्द्वं निरीक्ष्यापरान्  
+आहूयातिरसेन कर्षकजनान् आरब्धकोलाहलाः ।  
+हस्तावापितदात्ररज्जुलगुडैर् वृद्धैर् अवृद्धैः सह  
+त्यक्त्वा शालिचिकर्तिषाम् इत इतो धावन्त्य् अमी पामराः ॥१३४०॥  
 
 
-kasyacit | (su.ra. 300)  
+कस्यचित् । (सु।र। ३००)  
 
 
-174. hemantapathikaḥ |  
+१७४। हेमन्तपथिकः ।  
 
 
-mātar dharmapare dayāṃ kuru mayi śrānte ca vaideśike  
-dvārālindakakoṇakeṣu nibhṛtaṃ sthitvā kṣipāmi kṣapām |  
-ity evaṃ gṛhiṇīpracaṇḍavadanāvākyena nirbhartsito  
-hastanyastapalālamuṣṭivibhavaḥ pānthaḥ śanair gacchati ||1341||  
+मातर् धर्मपरे दयां कुरु मयि श्रान्ते च वैदेशिके  
+द्वारालिन्दककोणकेषु निभृतं स्थित्वा क्षिपामि क्षपाम् ।  
+इत्य् एवं गृहिणीप्रचण्डवदनावाक्येन निर्भर्त्सितो  
+हस्तन्यस्तपलालमुष्टिविभवः पान्थः शनैर् गच्छति ॥१३४१॥  
 
 
-śatānandasya | (Sv 2416, śā.pa. 580, sū.mu. 96.3, su.ra. 1316)  
+शतानन्दस्य । (स्व् २४१६, शा।प। ५८०, सू।मु। ९६।३, सु।र। १३१६)  
 
 
-svairaṃ saṃcarati pradoṣamaruti tv aṅgattuṣāre jarat  
-tantucchedaviśīrṇasandhiśakalavyākṛṣṭakanthāñcalaḥ |  
-śītārtaḥ karuṇārdrahālikavinirdiṣṭe kṣipāmi kṣapām   
-ity uccārya palālakūṭakuhare śrāntaḥ prasuptodhvagaḥ ||1342||  
+स्वैरं संचरति प्रदोषमरुति त्व् अङ्गत्तुषारे जरत्  
+तन्तुच्छेदविशीर्णसन्धिशकलव्याकृष्टकन्थाञ्चलः ।  
+शीतार्तः करुणार्द्रहालिकविनिर्दिष्टे क्षिपामि क्षपाम्   
+इत्य् उच्चार्य पलालकूटकुहरे श्रान्तः प्रसुप्तोध्वगः ॥१३४२॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-rundhānaḥ karṇasandhī śiśirabharabhayāt pāṇiyugmena gāḍhaṃ  
-bāḍhaṃ vinyasya bāhudvayam urasi raṇaddantapaṅktiḥ samantāt |  
-aṣṭīvadbhyāṃ vicumbannipatitacibukaṃ pṛṣṭhamātraṃ himartau  
-śete saṃchādya sadyas truṭitacirajaratkanthayā pāntharaṅkaḥ ||1343||  
+रुन्धानः कर्णसन्धी शिशिरभरभयात् पाणियुग्मेन गाढं  
+बाढं विन्यस्य बाहुद्वयम् उरसि रणद्दन्तपङ्क्तिः समन्तात् ।  
+अष्टीवद्भ्यां विचुम्बन्निपतितचिबुकं पृष्ठमात्रं हिमर्तौ  
+शेते संछाद्य सद्यस् त्रुटितचिरजरत्कन्थया पान्थरङ्कः ॥१३४३॥  
 
 
-suvratadattasya |  
+सुव्रतदत्तस्य ।  
 
 
-puṇyānau pūrṇavāñchaḥ prathamam agaṇitaploṣadoṣaḥ pradoṣe  
-pānthas taptvā prasuptaḥ pratatatanutṛṇe dhāmani grāmadevyāḥ |  
-utkampī karpaṭārghe jarati padahaticchidrite cchinnanidro  
-vāte vāti prakamaṃ himakaṇini kaṇan koṇataḥ koṇam eti ||1344||  
+पुण्यानौ पूर्णवाञ्छः प्रथमम् अगणितप्लोषदोषः प्रदोषे  
+पान्थस् तप्त्वा प्रसुप्तः प्रतततनुतृणे धामनि ग्रामदेव्याः ।  
+उत्कम्पी कर्पटार्घे जरति पदहतिच्छिद्रिते च्छिन्ननिद्रो  
+वाते वाति प्रकमं हिमकणिनि कणन् कोणतः कोणम् एति ॥१३४४॥  
 
 
-bāṇasya | (Sv 1857, śā.pa. 3946, sū.mu. 64.12, su.ra. 1305)  
+बाणस्य । (स्व् १८५७, शा।प। ३९४६, सू।मु। ६४।१२, सु।र। १३०५)  
 
 
-saṃviṣṭo grāmadevyās tṛṇaghaṭitakuṭīkuḍyakoṇaikadeśe  
-śīte saṃvāti vāyau himakaṇini kaṇahantapaṅktidvayāgraḥ |  
-pānthaḥ kanthāṃ niśīthe parikalitajarattantusantānagurvīṃ  
-grīvāpādāgrajānudvayaghaṭanaraṭatkarpaṭāṃ prāvṛṇoti ||1345||  
+संविष्टो ग्रामदेव्यास् तृणघटितकुटीकुड्यकोणैकदेशे  
+शीते संवाति वायौ हिमकणिनि कणहन्तपङ्क्तिद्वयाग्रः ।  
+पान्थः कन्थां निशीथे परिकलितजरत्तन्तुसन्तानगुर्वीं  
+ग्रीवापादाग्रजानुद्वयघटनरटत्कर्पटां प्रावृणोति ॥१३४५॥  
 
 
-tasyaiva | (śā.pa. 3947, sū.mu. 64.13)  
+तस्यैव । (शा।प। ३९४७, सू।मु। ६४।१३)  
 
 
-175. śiśiraḥ  
+१७५। शिशिरः  
 
 
-dhanyānāṃ varapūritamukhaśyāmāṅganāliṅgana  
-prāptānekasukhapramodavapuṣāṃ ramyas tuṣārodgamaḥ |  
-asmākaṃ tu vidīrṇakhaṇḍitapaṭapracchāditodghāṭita  
-kroḍasvīkṛtajānuvepathumatāṃ cetaḥ paraṃ sīdati ||1346||  
+धन्यानां वरपूरितमुखश्यामाङ्गनालिङ्गन  
+प्राप्तानेकसुखप्रमोदवपुषां रम्यस् तुषारोद्गमः ।  
+अस्माकं तु विदीर्णखण्डितपटप्रच्छादितोद्घाटित  
+क्रोडस्वीकृतजानुवेपथुमतां चेतः परं सीदति ॥१३४६॥  
 
 
-kasyacit | (su.ra. 312)  
+कस्यचित् । (सु।र। ३१२)  
 
 
-virahivanitāvaktraupamyaṃ bibharti niśāpatir  
-galitavibhavasyājhevādya dyutir masṛṇā raveḥ |  
-abhinavavadhūroṣasvāduḥ karīṣatanūnapād  
-asaralajanāśelṣakrūras tuṣārasamīraṇaḥ ||1347||  
+विरहिवनितावक्त्रौपम्यं बिभर्ति निशापतिर्  
+गलितविभवस्याझेवाद्य द्युतिर् मसृणा रवेः ।  
+अभिनववधूरोषस्वादुः करीषतनूनपाद्  
+असरलजनाशेल्षक्रूरस् तुषारसमीरणः ॥१३४७॥  
 
 
-bhāsasya | (su.ra. 317, abhinandasya)  
+भासस्य । (सु।र। ३१७, अभिनन्दस्य)  
 
 
-ete vāmavilocanākucasakhaiḥ soḍhavyaśītārtayaḥ  
-prāptāḥ paścimasaindhavasya marutaḥ premacchido vāsarāḥ |  
-yatrāpāsya purāṇapaṅkajamayaṃ devaḥ saśṛṅgārabhūr  
-ādatte navakundakuḍmalaśikhānirmāṇam anyad dhanuḥ ||1348||  
+एते वामविलोचनाकुचसखैः सोढव्यशीतार्तयः  
+प्राप्ताः पश्चिमसैन्धवस्य मरुतः प्रेमच्छिदो वासराः ।  
+यत्रापास्य पुराणपङ्कजमयं देवः सशृङ्गारभूर्  
+आदत्ते नवकुन्दकुड्मलशिखानिर्माणम् अन्यद् धनुः ॥१३४८॥  
 
 
-prabhākarasya   
+प्रभाकरस्य   
 
 
-kampante kapayo bhṛśaṃ jaḍakṛśaṃ gojāvikaṃ glāyati  
-śvā cullīkuharodaraṃ kṣaṇam api kṣipto’pi naivojjhati |  
-śītārtivyasanāturaḥ punar ayaṃ dīno janaḥ kūrvavat  
-svāny aṅgāni śarīra eva hi nije nihnotum ākāṅkṣati ||1349||  
+कम्पन्ते कपयो भृशं जडकृशं गोजाविकं ग्लायति  
+श्वा चुल्लीकुहरोदरं क्षणम् अपि क्षिप्तो’पि नैवोज्झति ।  
+शीतार्तिव्यसनातुरः पुनर् अयं दीनो जनः कूर्ववत्  
+स्वान्य् अङ्गानि शरीर एव हि निजे निह्नोतुम् आकाङ्क्षति ॥१३४९॥  
 
 
-śatānandasya | (sa.ka.ā. 3.10, su.ra. 313 lakṣmīdharasya, sū.mu. 63.17)  
+शतानन्दस्य । (स।क।आ। ३।१०, सु।र। ३१३ लक्ष्मीधरस्य, सू।मु। ६३।१७)  
 
 
-pākakṣāmatilāḥ samutsukayituṃ śaktāḥ kapotān bhuvaḥ  
-śyāmatvaṃ phalapīḍyamānakusumān āpadyate sarṣapān |  
-vāyur vyastaśaṇas tuṣārakaṇavān abhyeti kampapradaḥ  
-pānthaiḥ śuṣkavivādabaddhakalahaiḥ puṇyāgnir āsevyate ||1350||  
+पाकक्षामतिलाः समुत्सुकयितुं शक्ताः कपोतान् भुवः  
+श्यामत्वं फलपीड्यमानकुसुमान् आपद्यते सर्षपान् ।  
+वायुर् व्यस्तशणस् तुषारकणवान् अभ्येति कम्पप्रदः  
+पान्थैः शुष्कविवादबद्धकलहैः पुण्याग्निर् आसेव्यते ॥१३५०॥  
 
 
-yogeśvarasya | (su.ra. 315)  
+योगेश्वरस्य । (सु।र। ३१५)  
 
 
-176. śiśiragrāmaḥ  
+१७६। शिशिरग्रामः  
 
 
-ābhoginaḥ kim api samprati vāsarānte  
-sampannaśāliphalapallavitopaśalyāḥ |  
-grāmās tuṣārabharabandhuragomayāgni  
-dhūmāvalīvalayamekhalino haranti ||1351||  
+आभोगिनः किम् अपि सम्प्रति वासरान्ते  
+सम्पन्नशालिफलपल्लवितोपशल्याः ।  
+ग्रामास् तुषारभरबन्धुरगोमयाग्नि  
+धूमावलीवलयमेखलिनो हरन्ति ॥१३५१॥  
 
 
-abhinandasya | (su.ra. 303)  
+अभिनन्दस्य । (सु।र। ३०३)  
 
 
-udvegaṃ janayanti saṃcitavṛṣavyāptājiropāntakāḥ  
-prātaḥ śīrṇakuṭīrapuñjitalatāśimbītuṣārāvilāḥ |  
-grāmā gomayadhūmasaṃtatiparikliṣṭāruṇaśmaśrubhir   
-vṛddhaiḥ kuḍyanivātalīnanibhṛtair abhyarthyamānātapāḥ ||1352||  
+उद्वेगं जनयन्ति संचितवृषव्याप्ताजिरोपान्तकाः  
+प्रातः शीर्णकुटीरपुञ्जितलताशिम्बीतुषाराविलाः ।  
+ग्रामा गोमयधूमसंततिपरिक्लिष्टारुणश्मश्रुभिर्   
+वृद्धैः कुड्यनिवातलीननिभृतैर् अभ्यर्थ्यमानातपाः ॥१३५२॥  
 
 
-yogeśvarasya |  
+योगेश्वरस्य ।  
 
 
-śālicchedasamṛddhahālikagṛhāḥ saṃsṛṣṭa=nīlotpala  
-snigdhaśyāmayavaprarohaniviḍavyādīrghasīmodarāḥ |  
-modante parivṛttadhenvanaḍuhacchāyāḥ palālair navaiḥ   
-saṃsaktadhvanadikṣuyantramukharā grāmā guḍāmodinaḥ ||1353||  
+शालिच्छेदसमृद्धहालिकगृहाः संसृष्ट=नीलोत्पल  
+स्निग्धश्यामयवप्ररोहनिविडव्यादीर्घसीमोदराः ।  
+मोदन्ते परिवृत्तधेन्वनडुहच्छायाः पलालैर् नवैः   
+संसक्तध्वनदिक्षुयन्त्रमुखरा ग्रामा गुडामोदिनः ॥१३५३॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-jātokṣotsukagṛṣṭibhīṣitaśiśutrāsārtanārīgaṇāḥ  
-khinnāstīrṇanavīnaśālisurabhisphītopaliptājirāḥ |  
-nedīyaḥ khalamṛdyamānamṛditastūpīkṛtavrīhayaḥ  
-pānthaprārthyapalālagopanaparāḥ prāyo’dya pallīgṛhāḥ ||1354||  
+जातोक्षोत्सुकगृष्टिभीषितशिशुत्रासार्तनारीगणाः  
+खिन्नास्तीर्णनवीनशालिसुरभिस्फीतोपलिप्ताजिराः ।  
+नेदीयः खलमृद्यमानमृदितस्तूपीकृतव्रीहयः  
+पान्थप्रार्थ्यपलालगोपनपराः प्रायो’द्य पल्लीगृहाः ॥१३५४॥  
 
 
-viriñceḥ |  
+विरिञ्चेः ।  
 
 
-sīmāntās tuhināgame halahatavyāsarpitśasyāṭavīn  
-aṣṭaprāvaraṇā yavāṅkuracayaṃ romāñcavad bibhrati |  
-grāmāḥ śālipalālapiṅgalakhalaprāntajvalatpāvaka  
-prodyan māṃsaladhūmakambalam alaṃ śītālavo bhejire ||1355||  
+सीमान्तास् तुहिनागमे हलहतव्यासर्पित्शस्याटवीन्  
+अष्टप्रावरणा यवाङ्कुरचयं रोमाञ्चवद् बिभ्रति ।  
+ग्रामाः शालिपलालपिङ्गलखलप्रान्तज्वलत्पावक  
+प्रोद्यन् मांसलधूमकम्बलम् अलं शीतालवो भेजिरे ॥१३५५॥  
 
 
-piyākasya |  
-177. śiśiraśasyāni  
+पियाकस्य ।  
+१७७। शिशिरशस्यानि  
 
 
-māṣīṇaṃ muṣitaṃ yaveṣu yavasaśyāmacchaviḥ śīryate  
-grāmāntāś ca madhūkadhūsarabhuvaḥ smeraṃ yavānīvanam |  
-puṣpāḍhyāḥ śatapuṣpikāḥ phalabhṛtaḥ siddhyanti siddhārthakāḥ  
-snigdhāḥ vāstukavāstavaḥ stavakitastambā ca kustumbarī ||1356||  
+माषीणं मुषितं यवेषु यवसश्यामच्छविः शीर्यते  
+ग्रामान्ताश् च मधूकधूसरभुवः स्मेरं यवानीवनम् ।  
+पुष्पाढ्याः शतपुष्पिकाः फलभृतः सिद्ध्यन्ति सिद्धार्थकाः  
+स्निग्धाः वास्तुकवास्तवः स्तवकितस्तम्बा च कुस्तुम्बरी ॥१३५६॥  
 
 
-śubhāṅkasya | (su.ra. 321, śubhāṅgasya)  
+शुभाङ्कस्य । (सु।र। ३२१, शुभाङ्गस्य)  
 
 
-siddhārthāḥ phalasūcibandhagurubhir lolanty amī pallavair  
-ucchindanty adha eva bandhuratayā kolīphalāny arbhakāḥ |  
-pākapraślathapatrakoṣadalanavyaktāṅkuragranthayo  
-niṣṭhīvanty api hastayantrakalitāḥ puṇḍrekṣayaṣṭyo rasam ||1357||  
+सिद्धार्थाः फलसूचिबन्धगुरुभिर् लोलन्त्य् अमी पल्लवैर्  
+उच्छिन्दन्त्य् अध एव बन्धुरतया कोलीफलान्य् अर्भकाः ।  
+पाकप्रश्लथपत्रकोषदलनव्यक्ताङ्कुरग्रन्थयो  
+निष्ठीवन्त्य् अपि हस्तयन्त्रकलिताः पुण्ड्रेक्षयष्ट्यो रसम् ॥१३५७॥  
 
 
-vācaspateḥ (su.ra. 316)  
+वाचस्पतेः (सु।र। ३१६)  
 
 
-īṣallomaśabhāvabhāñji kapiśaśyāmānubandhacchavī  
-liptatvañci cakorakīraharitonmeṣīṇi māṣīlatāḥ |  
-etās tarkaya bālavānaravadhūhastāṅgulīlabdhima  
-spardhāvanti phalāni bibhrati parīṇāmābhirāmaśriyaḥ ||1358||  
+ईषल्लोमशभावभाञ्जि कपिशश्यामानुबन्धच्छवी  
+लिप्तत्वञ्चि चकोरकीरहरितोन्मेषीणि माषीलताः ।  
+एतास् तर्कय बालवानरवधूहस्ताङ्गुलीलब्धिम  
+स्पर्धावन्ति फलानि बिभ्रति परीणामाभिरामश्रियः ॥१३५८॥  
 
 
-vasukalpadattasya  
+वसुकल्पदत्तस्य  
 
 
-siddhārthayaṣṭiṣu yathodayahīyamāna  
-santānabaddhaphalasūcitaparamparāsu |  
-vicchidyamānakusumāsu janikrameṇa  
-pākakramaḥ kapiśimānam upādadhāti ||1359||  
+सिद्धार्थयष्टिषु यथोदयहीयमान  
+सन्तानबद्धफलसूचितपरम्परासु ।  
+विच्छिद्यमानकुसुमासु जनिक्रमेण  
+पाकक्रमः कपिशिमानम् उपादधाति ॥१३५९॥  
 
 
-lakṣmīdharasya | (su.ra. 1184, kasyacit)  
+लक्ष्मीधरस्य । (सु।र। ११८४, कस्यचित्)  
 
 
-yavānīvallībhiḥ kapiśaharitābhir diśi diśi  
-śrayante sīmānaḥ kim api kamanīyatvam adhunā |  
-prathante plakṣāṇām api ca kuṭilāḥ kānanabhuvāṃ  
-vilīnāśābandhāḥ śukaśiśukatuṇḍacchavimuṣaḥ ||1360||  
+यवानीवल्लीभिः कपिशहरिताभिर् दिशि दिशि  
+श्रयन्ते सीमानः किम् अपि कमनीयत्वम् अधुना ।  
+प्रथन्ते प्लक्षाणाम् अपि च कुटिलाः काननभुवां  
+विलीनाशाबन्धाः शुकशिशुकतुण्डच्छविमुषः ॥१३६०॥  
 
 
-bhūṣaṇasya |  
-178. śiśirasukham  
+भूषणस्य ।  
+१७८। शिशिरसुखम्  
 
 
-dvāraṃ gṛhasya pihitaṃ śayanasya pārśve  
-vahnir jvalaty upari tūlapaṭo garīyān |  
-aṅke’nukūlam anurāgavaśāt kalatram   
-itthaṃ karoti kim asau svapatas tuṣāraḥ ||1361||  
+द्वारं गृहस्य पिहितं शयनस्य पार्श्वे  
+वह्निर् ज्वलत्य् उपरि तूलपटो गरीयान् ।  
+अङ्के’नुकूलम् अनुरागवशात् कलत्रम्   
+इत्थं करोति किम् असौ स्वपतस् तुषारः ॥१३६१॥  
 
 
-bāṇasya | (Sv 1853, śā.pa. 3940)  
+बाणस्य । (स्व् १८५३, शा।प। ३९४०)  
 
 
-uṣmāyamāṇastanamaṇḍalībhir   
-vārāṅganābhiḥ sphuṭavibhramābhiḥ |  
-āliṅgitā rātriṣu śaiśirīṣu  
-te śerate yaiḥ praṇato śaśāṅkaḥ ||1362||  
+उष्मायमाणस्तनमण्डलीभिर्   
+वाराङ्गनाभिः स्फुटविभ्रमाभिः ।  
+आलिङ्गिता रात्रिषु शैशिरीषु  
+ते शेरते यैः प्रणतो शशाङ्कः ॥१३६२॥  
 
 
-kasyacit |  
+कस्यचित् ।  
 
 
-masṛṇaghusṛṇālepas talpaṃ marālatanūruhaiḥ  
-kuvalayadṛśāṃ gāḍhāśleṣo vidhūm ahutāśanaḥ |  
-śiśirasamaye yady etāni prayānti sahāyatāṃ  
-surapatipadārohe vāñchā manas tava lāñchanam ||1363||  
+मसृणघुसृणालेपस् तल्पं मरालतनूरुहैः  
+कुवलयदृशां गाढाश्लेषो विधूम् अहुताशनः ।  
+शिशिरसमये यद्य् एतानि प्रयान्ति सहायतां  
+सुरपतिपदारोहे वाञ्छा मनस् तव लाञ्छनम् ॥१३६३॥  
 
 
-śaṅkarasya |  
+शङ्करस्य ।  
 
 
-sadyo dhūpitam utpradīpam abhitaḥ saṃruddhavātāyanaṃ  
-śubhraṃ veśma marālapakṣmamṛdulā śayyā sacandrātapā |  
-aṅke kuṅkumapiñjarā ca ramaṇī pūgaṃ mukhe nūtanaṃ  
-syāc cetad vidhivañcitaḥ spṛhayati prāvārabhārāya kaḥ ||1364||  
+सद्यो धूपितम् उत्प्रदीपम् अभितः संरुद्धवातायनं  
+शुभ्रं वेश्म मरालपक्ष्ममृदुला शय्या सचन्द्रातपा ।  
+अङ्के कुङ्कुमपिञ्जरा च रमणी पूगं मुखे नूतनं  
+स्याच् चेतद् विधिवञ्चितः स्पृहयति प्रावारभाराय कः ॥१३६४॥  
 
 
-viriñceḥ |  
+विरिञ्चेः ।  
 
 
-cūḍāgarbhaniveśidāmavikalaṃ muktāphalair bhūṣaṇaiḥ  
-strīṇāṃ kuṅkumapicchilāḥ stanabhuvo gūḍhodaraṃ mandiram |  
-dvitrās tūlapaṭāḥ prasarpadagurugrāmāś ca dhūmodgamāḥ  
-saṃbhogāya bhavanti cātra kṛtināṃ dīptā viśālāgnayaḥ ||1365||  
+चूडागर्भनिवेशिदामविकलं मुक्ताफलैर् भूषणैः  
+स्त्रीणां कुङ्कुमपिच्छिलाः स्तनभुवो गूढोदरं मन्दिरम् ।  
+द्वित्रास् तूलपटाः प्रसर्पदगुरुग्रामाश् च धूमोद्गमाः  
+संभोगाय भवन्ति चात्र कृतिनां दीप्ता विशालाग्नयः ॥१३६५॥  
 
 
-rājaśekharasya | (bā.rā. 5.36)  
+राजशेखरस्य । (बा।रा। ५।३६)  
 
 
-179. uccāvacaṃ  
+१७९। उच्चावचं  
 
 
-paśyāmo mayi kiṃ prapadyata iti sthairyaṃ mayālambitaṃ  
-kiṃ mām ālapatīty ayaṃ khala śaṭhaḥ kopas tayāpy āśritaḥ |  
-ity anyonyavilakṣadṛṣṭicature tasminn avasthāntare  
-savyājaṃ hasitaṃ mayā dhṛtiharo bāṣpas tu muktas tayā ||1366||  
+पश्यामो मयि किं प्रपद्यत इति स्थैर्यं मयालम्बितं  
+किं माम् आलपतीत्य् अयं खल शठः कोपस् तयाप्य् आश्रितः ।  
+इत्य् अन्योन्यविलक्षदृष्टिचतुरे तस्मिन्न् अवस्थान्तरे  
+सव्याजं हसितं मया धृतिहरो बाष्पस् तु मुक्तस् तया ॥१३६६॥  
 
 
-amaroḥ (amaru 20, Kuval., 185)  
+अमरोः (अमरु २०, कुवल्।, १८५)  
 
 
-parimlāne māne mukhaśaśini tasyāḥ karadhṛte  
-mayi kṣīṇopāye praṇipatanamātraikaśaraṇe |  
-tayā pakṣmaprāntavrajapuṭaniruddhena sahasā  
-prasādo bāṣpena stanataṭaviśīrṇena kathitaḥ ||1367||  
+परिम्लाने माने मुखशशिनि तस्याः करधृते  
+मयि क्षीणोपाये प्रणिपतनमात्रैकशरणे ।  
+तया पक्ष्मप्रान्तव्रजपुटनिरुद्धेन सहसा  
+प्रसादो बाष्पेन स्तनतटविशीर्णेन कथितः ॥१३६७॥  
 
 
-tasyaiva (amaru 21, Sbh 1608, sū.mu. 58.1)  
+तस्यैव (अमरु २१, स्भ् १६०८, सू।मु। ५८।१)  
 
 
-gate premābandhe praṇayabahumāne vigalite  
-nivṛtte sadbhāve jana iva jane gacchati puraḥ |  
-tad utprekṣyotprekṣya priyasakhi gatāṃs tāṃś ca divasān  
-na jāne ko hetur dalati śatadhā yan na hṛdayam ||1368||  
+गते प्रेमाबन्धे प्रणयबहुमाने विगलिते  
+निवृत्ते सद्भावे जन इव जने गच्छति पुरः ।  
+तद् उत्प्रेक्ष्योत्प्रेक्ष्य प्रियसखि गतांस् तांश् च दिवसान्  
+न जाने को हेतुर् दलति शतधा यन् न हृदयम् ॥१३६८॥  
 
 
-tasyaiva | (amaru 38, su.ra. 697, Sbh 1141, śā.pa. 3545, sū.mu. 84.1, Rask 2.263c)  
+तस्यैव । (अमरु ३८, सु।र। ६९७, स्भ् ११४१, शा।प। ३५४५, सू।मु। ८४।१, रस्क् २।२६३च्)  
 
 
-śliṣṭaḥ kaṇṭhe kim iti na mayā mūḍhayā prāṇanāthaś  
-cumbaty asmin vadanavidhutiḥ kiṃ kṛtā kiṃ na dṛṣṭaḥ |  
-noktaḥ kasmād iti navavadhūceṣṭitaṃ cintayantī  
-paścāt tāpaṃ vahati taruṇī premṇi jāte rasajñā ||1369||  
+श्लिष्टः कण्ठे किम् इति न मया मूढया प्राणनाथश्  
+चुम्बत्य् अस्मिन् वदनविधुतिः किं कृता किं न दृष्टः ।  
+नोक्तः कस्माद् इति नववधूचेष्टितं चिन्तयन्ती  
+पश्चात् तापं वहति तरुणी प्रेम्णि जाते रसज्ञा ॥१३६९॥  
 
 
-tasyaiva | (amaru 56, Sv 2143)  
+तस्यैव । (अमरु ५६, स्व् २१४३)  
 
 
-yāvat tvaccaritaṃ prasaṅgata iva prastaumi tāvat tvayā  
-vande tān aham ity udīrya śirasā nyastaḥ praṇāmāñjaliḥ |  
-tad yāvac ca ruṣeva doṣam api te pṛcchāmi nābhāṣya māṃ  
-niḥśvāsaiḥ kiyad aṃśubhiś ca kiyad ākhyātaṃ tavāgastayā ||1370||  
+यावत् त्वच्चरितं प्रसङ्गत इव प्रस्तौमि तावत् त्वया  
+वन्दे तान् अहम् इत्य् उदीर्य शिरसा न्यस्तः प्रणामाञ्जलिः ।  
+तद् यावच् च रुषेव दोषम् अपि ते पृच्छामि नाभाष्य मां  
+निःश्वासैः कियद् अंशुभिश् च कियद् आख्यातं तवागस्तया ॥१३७०॥  
 
 
-gotithīyadivākarasya |  
+गोतिथीयदिवाकरस्य ।  
 
 
 
-iti śrīdharadāsakṛte saduktikarṇāmṛte dviītye’smin   
-madayatu suhṛdaya hāsaṃ śṛṅgārākhyaḥ pravāho’yam |  
+इति श्रीधरदासकृते सदुक्तिकर्णामृते द्विईत्ये’स्मिन्   
+मदयतु सुहृदय हासं शृङ्गाराख्यः प्रवाहो’यम् ।  
 
 
-iti śrīmahāmāṇḍalikaśrīdharadāsakṛte saduktikarṇāmṛte   
-śṛṅgārapravāho nāma dvitīyaḥ |   
-vīcayaḥ 179 | ślokāḥ 895 |  
+इति श्रीमहामाण्डलिकश्रीधरदासकृते सदुक्तिकर्णामृते   
+शृङ्गारप्रवाहो नाम द्वितीयः ।   
+वीचयः १७९ । श्लोकाः ८९५ ।  
 
 
-o)0(o  
-saduktikarṇāmṛtam  
+ओ)०(ओ  
+सदुक्तिकर्णामृतम्  
 
 
 
-(3)  
-cāṭupravāhavīcayaḥ  
+(३)  
+चाटुप्रवाहवीचयः  
 
 
-cāṭuḥ saṃmukhacāṭur vidyāguṇadharmarūpam atha dṛṣṭiḥ |  
-bhujakaracaraṇaṃ preyo’bhidhānam atyukticitroktī ||1||  
-api kāryagatī deśāśrayau ca dānaṃ daridrabharaṇaṃ ca |  
-atidānam api ca vikramapauruṣaśauryapratāpatejāṃsi ||2||  
-gajavājināvanīkaṃ khaḍgodbhutakhaḍgakupitakṛpāṇau |  
-cāpaṃ prayāṇabhogāvalitūryasvānasainikarajāṃsi ||3||  
-aśvarajoraṇadhūlir yuddhaṃ yuddhasthalī ca digvijayaḥ |  
-ripuripunagarīsambhramavairivadhūvairiyoṣidaśrūṇi ||4||  
-arinagaravairibhavane yaśasā vīryaṃ yaśaḥ praśastayaśaḥ |  
-kīrtiḥ savīryakīrtiḥ praśastakīrtiś ca kīrtigītiś ca ||5||  
-uccāvacaṃ caturbhir yutayā pañcāśatātha vīcīnām |  
-śrīdharadāsena kṛtaḥ kṛtinā cāṭupravāho’yam ||6||  
+चाटुः संमुखचाटुर् विद्यागुणधर्मरूपम् अथ दृष्टिः ।  
+भुजकरचरणं प्रेयो’भिधानम् अत्युक्तिचित्रोक्ती ॥१॥  
+अपि कार्यगती देशाश्रयौ च दानं दरिद्रभरणं च ।  
+अतिदानम् अपि च विक्रमपौरुषशौर्यप्रतापतेजांसि ॥२॥  
+गजवाजिनावनीकं खड्गोद्भुतखड्गकुपितकृपाणौ ।  
+चापं प्रयाणभोगावलितूर्यस्वानसैनिकरजांसि ॥३॥  
+अश्वरजोरणधूलिर् युद्धं युद्धस्थली च दिग्विजयः ।  
+रिपुरिपुनगरीसम्भ्रमवैरिवधूवैरियोषिदश्रूणि ॥४॥  
+अरिनगरवैरिभवने यशसा वीर्यं यशः प्रशस्तयशः ।  
+कीर्तिः सवीर्यकीर्तिः प्रशस्तकीर्तिश् च कीर्तिगीतिश् च ॥५॥  
+उच्चावचं चतुर्भिर् युतया पञ्चाशताथ वीचीनाम् ।  
+श्रीधरदासेन कृतः कृतिना चाटुप्रवाहो’यम् ॥६॥  
 
 
-o)0(o  
+ओ)०(ओ  
 
 
-1. sāmānyacāṭuḥ  
+१। सामान्यचाटुः  
 
 
-svāminn ambujanātha dhūrjaṭiśiraścūḍāmaṇe candramaḥ   
-pādau vāṃ praṇato’smi sādhu vadataṃ kṣatraprasūtī yuvām |  
-rājā yady upasevitāṅghrir akhilakṣmāpālacūḍāśatair  
-āsīd asti bhaviṣyati kṣititale śrībhojadevopamaḥ ||1371||  
+स्वामिन्न् अम्बुजनाथ धूर्जटिशिरश्चूडामणे चन्द्रमः   
+पादौ वां प्रणतो’स्मि साधु वदतं क्षत्रप्रसूती युवाम् ।  
+राजा यद्य् उपसेविताङ्घ्रिर् अखिलक्ष्मापालचूडाशतैर्  
+आसीद् अस्ति भविष्यति क्षितितले श्रीभोजदेवोपमः ॥१३७१॥  
 
 
-chittipasya |   
+छित्तिपस्य ।   
 
 
-kālindi brūhi kubhodbhavajaladhir ahaṃ nāma gṛhṇāsi kasmāc  
-chatror me narmadāhaṃ tvam api vadasi me nāma kasmāt sapatnyāḥ |  
-mālinyaṃ tarhi kasmād anuharasi milatkajjalair mālavīnāṃ  
-bāṣpāmbhobhiḥ kim āsāṃ samajani kupitaḥ kuntalakṣoṇipālaḥ ||1372||  
+कालिन्दि ब्रूहि कुभोद्भवजलधिर् अहं नाम गृह्णासि कस्माच्  
+छत्रोर् मे नर्मदाहं त्वम् अपि वदसि मे नाम कस्मात् सपत्न्याः ।  
+मालिन्यं तर्हि कस्माद् अनुहरसि मिलत्कज्जलैर् मालवीनां  
+बाष्पाम्भोभिः किम् आसां समजनि कुपितः कुन्तलक्षोणिपालः ॥१३७२॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-dṛptoddāmakarīndravṛndaśitimacchāyeṣu nārārthiṣu  
-pāthodeṣu taṭābhidhātadiksādārabhya nas tāmyati |  
-nūnaṃ mālavarājadigjayavidhau taiḥ pītam ambhonidher  
-mādyadgandhagajasravanmadanadīgandhānubiddhaṃ payaḥ ||1373||  
+दृप्तोद्दामकरीन्द्रवृन्दशितिमच्छायेषु नारार्थिषु  
+पाथोदेषु तटाभिधातदिक्सादारभ्य नस् ताम्यति ।  
+नूनं मालवराजदिग्जयविधौ तैः पीतम् अम्भोनिधेर्  
+माद्यद्गन्धगजस्रवन्मदनदीगन्धानुबिद्धं पयः ॥१३७३॥  
 
 
-tasyaiva |  
+तस्यैव ।  
 
 
-āvācāṃ vyaktatāyāḥ kavipadaviṣayeṣv ācacaṣṭe samanyo  
-muktāsmābhir na ko’pi smarapadam avanau saṃstutaḥ satyam etat |  
-mithayitad bhoḥ kathaṃ re nanu śatam akṛthāḥ kuntalendrasya tat tat  
-kāvyastotrāṇi dhik tvāṃ jaḍamaya na manor eva mūrtiprabhedaḥ ||1374||  
+आवाचां व्यक्ततायाः कविपदविषयेष्व् आचचष्टे समन्यो  
+मुक्तास्माभिर् न को’पि स्मरपदम् अवनौ संस्तुतः सत्यम् एतत् ।  
+मिथयितद् भोः कथं रे ननु शतम् अकृथाः कुन्तलेन्द्रस्य तत् तत्  
+काव्यस्तोत्राणि धिक् त्वां जडमय न मनोर् एव मूर्तिप्रभेदः ॥१३७४॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-krūre kadru kim āttha dāsi vinate muktāsmi dattvāmṛtaṃ  
-tenānāyi sudhā mudhā tṛṇaliho nāgās tvayā vañcitāḥ |  
-tvatpāpair musitāḥ sutāḥ śṛṇu tṛṇaṃ dattvādya yāvan mukhe  
-baṅgakṣmāpatisaṅgare’pi yad amī jīvanti bhūmībhujaḥ ||1375||  
+क्रूरे कद्रु किम् आत्थ दासि विनते मुक्तास्मि दत्त्वामृतं  
+तेनानायि सुधा मुधा तृणलिहो नागास् त्वया वञ्चिताः ।  
+त्वत्पापैर् मुसिताः सुताः शृणु तृणं दत्त्वाद्य यावन् मुखे  
+बङ्गक्ष्मापतिसङ्गरे’पि यद् अमी जीवन्ति भूमीभुजः ॥१३७५॥  
 
 
-ācāryagopīkasya |  
+आचार्यगोपीकस्य ।  
 
 
-2. saṃmukhacāṭuḥ  
+२। संमुखचाटुः  
 
 
-pūrvaḥ kṛtātmanām asi bhagnānāṃ samiti paścimo dviṣatām |  
-tvaṃ dakṣiṇaḥ praṇamatāṃ tathāpi sarvottaras tvam asi ||1376||  
+पूर्वः कृतात्मनाम् असि भग्नानां समिति पश्चिमो द्विषताम् ।  
+त्वं दक्षिणः प्रणमतां तथापि सर्वोत्तरस् त्वम् असि ॥१३७६॥  
 
 
-yogeśvarasya |  
+योगेश्वरस्य ।  
 
 
-yasya dvīpaṃ dharitrī sa ca jaladhir abhūd yasya gaṇḍūṣatoyaṃ  
-tasyāścaryaikamūrter api nabhasi vapur yatra durlakṣyam āsīt |  
-tatpītaṃ tvadyaśobhis tribhuvanam abhajaṃs tāni viśrāmahetos  
-tac cāntaḥ kaiṭabhāreḥ sa ca tava hṛdaye vandanīyas tvam eva ||1377||  
+यस्य द्वीपं धरित्री स च जलधिर् अभूद् यस्य गण्डूषतोयं  
+तस्याश्चर्यैकमूर्तेर् अपि नभसि वपुर् यत्र दुर्लक्ष्यम् आसीत् ।  
+तत्पीतं त्वद्यशोभिस् त्रिभुवनम् अभजंस् तानि विश्रामहेतोस्  
+तच् चान्तः कैटभारेः स च तव हृदये वन्दनीयस् त्वम् एव ॥१३७७॥  
 
 
-tathāgatadāsasya | (su.ra. 1389)  
+तथागतदासस्य । (सु।र। १३८९)  
 
 
-na lopo varṇānāṃ na khalu parataḥ pratyayavidhir  
-vikāro nāsty eva kvacid api na bhagnāḥ prakṛtayaḥ |  
-guṇo vā vṛddhir vā satatam upakārāya jagatāṃ  
-muner dākṣīputrād api tava samarthaḥ padavidhiḥ ||1378||  
+न लोपो वर्णानां न खलु परतः प्रत्ययविधिर्  
+विकारो नास्त्य् एव क्वचिद् अपि न भग्नाः प्रकृतयः ।  
+गुणो वा वृद्धिर् वा सततम् उपकाराय जगतां  
+मुनेर् दाक्षीपुत्राद् अपि तव समर्थः पदविधिः ॥१३७८॥  
 
 
-śabdārṇavasya | (su.ra. 1387)  
+शब्दार्णवस्य । (सु।र। १३८७)  
 
 
-tvaṃ ṣāḍguṇyajuṣāṃ śiromaṇir asi traiguṇyamūrter asāv  
-indus tatra ca ṣoḍaśa tvayi catuḥṣaṣṭhir valante kalāḥ |  
-tasyaikaṃ nanu maṇḍalaṃ tava nava kṣmāmaṇḍalīsiddhayas  
-tejaś candramaso nṛcandra bhavataś caivaṃ davīyo’ntaram ||1379||  
+त्वं षाड्गुण्यजुषां शिरोमणिर् असि त्रैगुण्यमूर्तेर् असाव्  
+इन्दुस् तत्र च षोडश त्वयि चतुःषष्ठिर् वलन्ते कलाः ।  
+तस्यैकं ननु मण्डलं तव नव क्ष्मामण्डलीसिद्धयस्  
+तेजश् चन्द्रमसो नृचन्द्र भवतश् चैवं दवीयो’न्तरम् ॥१३७९॥  
 
 
-laṅgadattasya |  
+लङ्गदत्तस्य ।  
 
 
-pīyūṣaṃ viṣam apy asūta jaladhiḥ kānteḥ kalaṅkasya ca  
-sthānaṃ śītaruciḥ svabhāvakaṭhino dātā ca kalpadrumaḥ |  
-akṣīṇapraṇayāmṛtasya kaluṣair apṛṣṭamūrter asaṃ  
-kṣiptatyāgarasodayasya bhavataḥ sāmyaṃ samabhyetu kaḥ ||1380||  
+पीयूषं विषम् अप्य् असूत जलधिः कान्तेः कलङ्कस्य च  
+स्थानं शीतरुचिः स्वभावकठिनो दाता च कल्पद्रुमः ।  
+अक्षीणप्रणयामृतस्य कलुषैर् अपृष्टमूर्तेर् असं  
+क्षिप्तत्यागरसोदयस्य भवतः साम्यं समभ्येतु कः ॥१३८०॥  
 
 
-śaraṇadevasya |  
+शरणदेवस्य ।  
 
 
-3. vidyā  
+३। विद्या  
 
 
-vācaṃ niṣprathayanti meyam akhilaṃ puṣṇanti muṣṇanti ca  
-prajñālāñchanam advayaṃ prasuvate sārasvataḥ brāhmaṇaḥ |  
-saubhāgyaṃ duhate śriyaṃ vidadhati śvaḥ śreyase tanvate  
-bhindanti bhramamuktayas tava satām aṣṭau mahāsiddhayaḥ ||1381||  
+वाचं निष्प्रथयन्ति मेयम् अखिलं पुष्णन्ति मुष्णन्ति च  
+प्रज्ञालाञ्छनम् अद्वयं प्रसुवते सारस्वतः ब्राह्मणः ।  
+सौभाग्यं दुहते श्रियं विदधति श्वः श्रेयसे तन्वते  
+भिन्दन्ति भ्रममुक्तयस् तव सताम् अष्टौ महासिद्धयः ॥१३८१॥  
 
 
-bhaṭṭavāmadevasya |  
+भट्टवामदेवस्य ।  
 
 
-jātāḥ smaḥ prativeśinaḥ padavidāṃ jānanti naḥ śrotriyāḥ  
-ṣaṭkarmādhvani gacchatāṃ ca viduṣāṃ sārthe prapannā vayam |  
-dṛṣṭāḥ smaḥ kavividyayā mukulitair natratribhāgaiś ciraṃ  
-kiṃ vidmaḥ kiyad anyathāstu nikaṣagrāvā bhavādṛgjanaḥ ||1382||  
+जाताः स्मः प्रतिवेशिनः पदविदां जानन्ति नः श्रोत्रियाः  
+षट्कर्माध्वनि गच्छतां च विदुषां सार्थे प्रपन्ना वयम् ।  
+दृष्टाः स्मः कविविद्यया मुकुलितैर् नत्रत्रिभागैश् चिरं  
+किं विद्मः कियद् अन्यथास्तु निकषग्रावा भवादृग्जनः ॥१३८२॥  
 
 
-vidyāpateḥ |  
+विद्यापतेः ।  
 
 
-agrāhyaṃ śravaṇasya bhūṣaṇam alaṅkāro na bhāvocitaḥ  
-kaṇṭhasyāñjanam ujjvalaṃ nayanayoḥ sūkṣmatvam āvekṣitum |  
-vaktrasya kṣaṇiko’dhivāsanavidhiḥ kānte priye nābhava  
-saubhāgyapratikarmanirmitamahāvidyaiva yenātmanaḥ ||1383||  
+अग्राह्यं श्रवणस्य भूषणम् अलङ्कारो न भावोचितः  
+कण्ठस्याञ्जनम् उज्ज्वलं नयनयोः सूक्ष्मत्वम् आवेक्षितुम् ।  
+वक्त्रस्य क्षणिको’धिवासनविधिः कान्ते प्रिये नाभव  
+सौभाग्यप्रतिकर्मनिर्मितमहाविद्यैव येनात्मनः ॥१३८३॥  
 
 
-śukṣokasya |  
+शुक्षोकस्य ।  
 
 
-kaścid vāco racayitum alaṃ voḍhum evāparas tāḥ  
-sā kalyāṇī matir ubhayathā vismaye nas tanoti |  
-nanv ekasminn atiśayavatāṃ sanniveśo guṇānām  
-ekaḥ sūte kanakam analas tatparīkṣākṣamo’nyaḥ ||1384||  
+कश्चिद् वाचो रचयितुम् अलं वोढुम् एवापरस् ताः  
+सा कल्याणी मतिर् उभयथा विस्मये नस् तनोति ।  
+नन्व् एकस्मिन्न् अतिशयवतां सन्निवेशो गुणानाम्  
+एकः सूते कनकम् अनलस् तत्परीक्षाक्षमो’न्यः ॥१३८४॥  
 
 
-kālidāsasya | (su.ra. 1723)  
+कालिदासस्य । (सु।र। १७२३)  
 
 
-devaḥ sarvavivecanaikanipuṇo devaḥ kavitve gurur  
-devas tarkaniśātanirmalamatiḥ śrīrājacūḍāmaṇiḥ |  
-ity ākarṇya vijṛmbhamāṇapulakasphītā viriśer mukhāḥ  
-saṅgeṣv adya sarasvatī … kṛcchreṇa saṃmāsyati ||1385||  
+देवः सर्वविवेचनैकनिपुणो देवः कवित्वे गुरुर्  
+देवस् तर्कनिशातनिर्मलमतिः श्रीराजचूडामणिः ।  
+इत्य् आकर्ण्य विजृम्भमाणपुलकस्फीता विरिशेर् मुखाः  
+सङ्गेष्व् अद्य सरस्वती … कृच्छ्रेण संमास्यति ॥१३८५॥  
 
 
-vasukalpasya |  
-4. guṇaḥ  
+वसुकल्पस्य ।  
+४। गुणः  
 
 
-ābālyādhigamān mayaiva gamitaḥ koṭiṃ parām unnater  
-asmatsaṅkathanena pārthivasutaḥ sampraty asau lajjate |  
-itthaṃ khinna ivātyayena yaśasā datto’valambo’mbudher  
-yātas tīratapovanāni bhavato vṛddho guṇānāṃ gaṇaḥ ||1386||  
+आबाल्याधिगमान् मयैव गमितः कोटिं पराम् उन्नतेर्  
+अस्मत्सङ्कथनेन पार्थिवसुतः सम्प्रत्य् असौ लज्जते ।  
+इत्थं खिन्न इवात्ययेन यशसा दत्तो’वलम्बो’म्बुधेर्  
+यातस् तीरतपोवनानि भवतो वृद्धो गुणानां गणः ॥१३८६॥  
 
 
-śrīhanūmataḥ | (su.ra. 1433, sū.mu. 97.14)  
+श्रीहनूमतः । (सु।र। १४३३, सू।मु। ९७।१४)  
 
 
-sūryo dhāmavatāṃ na kiṃ na kim ayaṃ prahlādakaś candramā  
-gambhīro na kim ambudhiḥ kṣitibhṛtāṃ rāmaḥ sa jetā na kim |  
-kiṃ tv ekaikaguṇastutau na hi vayaṃ śaktās tad etadgaṇa  
-śrotṬṇāṃ sumahotsavāya nṛpate tvām ekam eva stumaḥ ||1387||  
+सूर्यो धामवतां न किं न किम् अयं प्रह्लादकश् चन्द्रमा  
+गम्भीरो न किम् अम्बुधिः क्षितिभृतां रामः स जेता न किम् ।  
+किं त्व् एकैकगुणस्तुतौ न हि वयं शक्तास् तद् एतद्गण  
+श्रोत्ट्णां सुमहोत्सवाय नृपते त्वाम् एकम् एव स्तुमः ॥१३८७॥  
 
 
-cchittipasya |  
+च्छित्तिपस्य ।  
 
 
-ete śāradakaumudīkulabhuvaḥ kṣīrodadheḥ sodarāḥ  
-śeṣāheḥ suhṛdo vinidrakumudaśreṇīmahaḥsrāviṇaḥ |  
-śītāṃśoḥ sahapāṃśukhelanasakhāḥ svaḥsindhusaṃbandhinaḥ  
-prāleyācalabandhavas tava guṇāḥ kair neha karṇārpitāḥ ||1388||  
+एते शारदकौमुदीकुलभुवः क्षीरोदधेः सोदराः  
+शेषाहेः सुहृदो विनिद्रकुमुदश्रेणीमहःस्राविणः ।  
+शीतांशोः सहपांशुखेलनसखाः स्वःसिन्धुसंबन्धिनः  
+प्रालेयाचलबन्धवस् तव गुणाः कैर् नेह कर्णार्पिताः ॥१३८८॥  
 
 
-hareḥ |  
+हरेः ।  
 
 
-devasya tripurārihāsamahasi prastūyamāne guṇe  
-prītyā ca śrutikautukena ca balād ākṛṣyamāṇaḥ svayam |  
-ekaṃ saṃnatapakṣma pannagapatir dhatte sahasraṃ dṛśām  
-anyanmantharatārakāviluṭhanād atyantavisphāritam||1389||  
+देवस्य त्रिपुरारिहासमहसि प्रस्तूयमाने गुणे  
+प्रीत्या च श्रुतिकौतुकेन च बलाद् आकृष्यमाणः स्वयम् ।  
+एकं संनतपक्ष्म पन्नगपतिर् धत्ते सहस्रं दृशाम्  
+अन्यन्मन्थरतारकाविलुठनाद् अत्यन्तविस्फारितम्॥१३८९॥  
 
 
-kasyāpi |  
+कस्यापि ।  
 
 
-merur daṇḍo yadi ca paṭalaṃ medinīmaṇḍalaṃ syāc  
-cheṣaḥ sūtraṃ samadharaṇam apy eṣa vindhyo mahīdhraḥ |  
-tan mātā ca tripuravijayī keśavo vā yadā syād  
-unmīyeta kṣitipatanaya tvadguṇānāṃ samūhaḥ ||1390||  
+मेरुर् दण्डो यदि च पटलं मेदिनीमण्डलं स्याच्  
+छेषः सूत्रं समधरणम् अप्य् एष विन्ध्यो महीध्रः ।  
+तन् माता च त्रिपुरविजयी केशवो वा यदा स्याद्  
+उन्मीयेत क्षितिपतनय त्वद्गुणानां समूहः ॥१३९०॥  
 
 
-pravarasenasya |  
+प्रवरसेनस्य ।  
 
 
-5. dharmaḥ  
+५। धर्मः  
 
 
-bhrāntaṃ yena caturbhir eva caraṇaiḥ satyābhidhāne yuge  
-tretāyāṃ tribhir aṅghribhiḥ katham api dvābhyāṃ tato dvāpare |  
-na syās tvaṃ yadi deva paṅgulaguṅdaḥ kāle kalāv utkale  
-so’yaṃ paṅgur avasthitaikacaraṇo dharmaḥ kathaṃ bhrāmyati ||1391||  
+भ्रान्तं येन चतुर्भिर् एव चरणैः सत्याभिधाने युगे  
+त्रेतायां त्रिभिर् अङ्घ्रिभिः कथम् अपि द्वाभ्यां ततो द्वापरे ।  
+न स्यास् त्वं यदि देव पङ्गुलगुङ्दः काले कलाव् उत्कले  
+सो’यं पङ्गुर् अवस्थितैकचरणो धर्मः कथं भ्राम्यति ॥१३९१॥  
 
 
-kasyacit | (su.ra. 1455, cittūkasya)  
+कस्यचित् । (सु।र। १४५५, चित्तूकस्य)  
 
 
-ucchann eva kalau vṛṣasya caraṇaśreṇī navīnāṃ punas   
-tāṃ nirmāya kṛtas tvayā punar api nyastaḥ padasyandanaḥ |  
-bhindānais taraṇiṃ tvadastraniyatair etat kilodīritaṃ  
-śrutvānūrurasau vihāya mihiraṃ tvāṃ deva seviṣyate ||1392||  
+उच्छन्न् एव कलौ वृषस्य चरणश्रेणी नवीनां पुनस्   
+तां निर्माय कृतस् त्वया पुनर् अपि न्यस्तः पदस्यन्दनः ।  
+भिन्दानैस् तरणिं त्वदस्त्रनियतैर् एतत् किलोदीरितं  
+श्रुत्वानूरुरसौ विहाय मिहिरं त्वां देव सेविष्यते ॥१३९२॥  
 
 
-ācāryagopīkasya |  
+आचार्यगोपीकस्य ।  
 
 
-padaiś caturbhiḥ sukṛte sthirīkṛte  
-kṛte’munā kena tapaḥ prapedire |  
-bhuvaṃ yad ekāṅghrikaniṣṭhayā spṛśan  
-dadhāvadharmo’pi kṛśas tapasvitām ||1393||  
+पदैश् चतुर्भिः सुकृते स्थिरीकृते  
+कृते’मुना केन तपः प्रपेदिरे ।  
+भुवं यद् एकाङ्घ्रिकनिष्ठया स्पृशन्  
+दधावधर्मो’पि कृशस् तपस्विताम् ॥१३९३॥  
 
 
-śrīharṣasya | (Nc 1.7)  
+श्रीहर्षस्य । (न्च् १।७)  
 
 
-yūpair utkaṭakaṇṭakair iva makhaprodbhūtadhūmodgamair  
-apy andhaṃkaraṇauṣadhair iva pade netre ca jātavyathaiḥ |  
-yasmin dharmapare praśāsati tapaḥsaṃbhedinīṃ medinīm  
-āstām ākramituṃ vilokitum api vyaktaṃ na śaktaḥ kaliḥ ||1394||  
+यूपैर् उत्कटकण्टकैर् इव मखप्रोद्भूतधूमोद्गमैर्  
+अप्य् अन्धंकरणौषधैर् इव पदे नेत्रे च जातव्यथैः ।  
+यस्मिन् धर्मपरे प्रशासति तपःसंभेदिनीं मेदिनीम्  
+आस्ताम् आक्रमितुं विलोकितुम् अपि व्यक्तं न शक्तः कलिः ॥१३९४॥  
 
 
-jayadevasya |  
+जयदेवस्य ।  
 
 
-aśrāntaviśrāṇitayajñayūpa  
-stambhāvalīr drāgavalambamānaḥ |  
-yasya svabhāvād bhuvi saṃcacāra   
-kālakramād ekapado’pi dharmaḥ ||1395||  
+अश्रान्तविश्राणितयज्ञयूप  
+स्तम्भावलीर् द्रागवलम्बमानः ।  
+यस्य स्वभावाद् भुवि संचचार   
+कालक्रमाद् एकपदो’पि धर्मः ॥१३९५॥  
 
 
-umāpatidharasya |  
+उमापतिधरस्य ।  
 
 
-6. rūpam   
+६। रूपम्   
 
 
-śrīmadrūpaviṭaṅkadeva sakalakṣmāpālacuḍāmaṇe  
-yuktaṃ saṃcaraṇaṃ yad atra bhavataś candreṇa rātrāv api |  
-mā bhūt tvadvadanāvalokanavaśād vrīḍāvilakṣaḥ śaśī  
-mā bhūc ceyam arundhatī bhagavatī duḥśīlatābhājanam ||1396||  
+श्रीमद्रूपविटङ्कदेव सकलक्ष्मापालचुडामणे  
+युक्तं संचरणं यद् अत्र भवतश् चन्द्रेण रात्राव् अपि ।  
+मा भूत् त्वद्वदनावलोकनवशाद् व्रीडाविलक्षः शशी  
+मा भूच् चेयम् अरुन्धती भगवती दुःशीलताभाजनम् ॥१३९६॥  
 
 
-tribhuvanasarasvatyāḥ |  
+त्रिभुवनसरस्वत्याः ।  
 
 
-āvaktrendu tadaṅgam eva sṛjataḥ sraṣṭuḥ samagras tviṣāṃ  
-koṣaḥ śoṣam agād agādhajagatīśilpe’pi nālpāyitaḥ |  
-niḥśeṣadyutimaṇḍalavyayavaśādīṣallabhais tat tanū  
-śeṣaḥ keśamayaḥ kim andhatamasastomair abhūn nirmitaḥ ||1397||  
+आवक्त्रेन्दु तदङ्गम् एव सृजतः स्रष्टुः समग्रस् त्विषां  
+कोषः शोषम् अगाद् अगाधजगतीशिल्पे’पि नाल्पायितः ।  
+निःशेषद्युतिमण्डलव्ययवशादीषल्लभैस् तत् तनू  
+शेषः केशमयः किम् अन्धतमसस्तोमैर् अभून् निर्मितः ॥१३९७॥  
 
 
-śrīharṣasya |  
+श्रीहर्षस्य ।  
 
 
-etat te mukham akṣatendulaḍahacchāyaṃ bhavallocanaṃ  
-nīlendīvaranirviśeṣam adharas te bandhujīvāruṇaḥ |  
-bhrūvallis tava kāmakārmukalatā līlāsahādhyāyinī  
-na dhyāyantu kathaṃ nu deva kathaya tvām ekam eṇīdṛśaḥ ||1398||  
+एतत् ते मुखम् अक्षतेन्दुलडहच्छायं भवल्लोचनं  
+नीलेन्दीवरनिर्विशेषम् अधरस् ते बन्धुजीवारुणः ।  
+भ्रूवल्लिस् तव कामकार्मुकलता लीलासहाध्यायिनी  
+न ध्यायन्तु कथं नु देव कथय त्वाम् एकम् एणीदृशः ॥१३९८॥  
 
 
-hareḥ |  
+हरेः ।  
 
 
-kiṃ vātena vilaṅghitā na na mahābhūtārditā kiṃ na na  
-śrāntā kiṃ na na saṃnnipātalaharīpraccharditā kiṃ na na |  
-tat kiṃ muhyati roditi śvasiti ca smeraṃ ca dhatte mukhaṃ  
-dṛṣṭaḥ kiṃ katham apy akāraṇaripuḥ śrībhojadevo’nayā ||1399||  
+किं वातेन विलङ्घिता न न महाभूतार्दिता किं न न  
+श्रान्ता किं न न संन्निपातलहरीप्रच्छर्दिता किं न न ।  
+तत् किं मुह्यति रोदिति श्वसिति च स्मेरं च धत्ते मुखं  
+दृष्टः किं कथम् अप्य् अकारणरिपुः श्रीभोजदेवो’नया ॥१३९९॥  
 
 
-chittapasya | (su.ra. 749)  
+छित्तपस्य । (सु।र। ७४९)  
 
 
-rūpāsavaṃ tava nṛpendra yad eṇanetrā  
-mātrāṃ vyatītya nayanāñjalibhiḥ pibanti |  
-svedacchalād atha vamanti kadambakalpaiḥ  
-raṅgair anaṅgaśarajarjaritair bhramanti ||1400||  
+रूपासवं तव नृपेन्द्र यद् एणनेत्रा  
+मात्रां व्यतीत्य नयनाञ्जलिभिः पिबन्ति ।  
+स्वेदच्छलाद् अथ वमन्ति कदम्बकल्पैः  
+रङ्गैर् अनङ्गशरजर्जरितैर् भ्रमन्ति ॥१४००॥  
 
 
-śaṅkaradevasya |  
+शङ्करदेवस्य ।  
 
 
-7. dṛṣṭiḥ  
+७। दृष्टिः  
 
 
-janayati jananātha dṛṣṭir eṣā  
-tava navanīlasaroruhābhirāmā |  
-praṇayiṣu susamāśriteṣu lakṣmīm  
-ariṣu hi bhaṅgam anaṅgam aṅganāsu ||1401||  
+जनयति जननाथ दृष्टिर् एषा  
+तव नवनीलसरोरुहाभिरामा ।  
+प्रणयिषु सुसमाश्रितेषु लक्ष्मीम्  
+अरिषु हि भङ्गम् अनङ्गम् अङ्गनासु ॥१४०१॥  
 
 
-vidyāyāḥ |  
+विद्यायाः ।  
 
 
-pratyañcatkhalarohaṇādriṣu haṭhād āmūlam unmūlayan  
+प्रत्यञ्चत्खलरोहणाद्रिषु हठाद् आमूलम् उन्मूलयन्  
 # कल्पशाखिषु सुधासान्द्राः सुहृन्मण्डले ।  
 प्रौढारातिचमूवनेषु दहनज्वालावलीभास्वराः  
 शृङ्गारैकरसायनानि सुभग त्वद्दृष्टिपाताः पुनः ॥१४०२॥  
@@ -22409,5 +22408,3 @@ pratyañcatkhalarohaṇādriṣu haṭhād āmūlam unmūlayan
 
  
 वीचयः ४७६ । प्रतिवीचिपञ्चश्लोकनियमेन श्लोकाः २३८० ।  
-
-
