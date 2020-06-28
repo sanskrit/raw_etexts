@@ -1,0 +1,66 @@
++++
+"Text title" = "Hymn to Lord ShrI Gauranga Caitanya Mahaprabhu"
+"File name" = "gaurAngAShTakam.itx"
+itxtitle = "gaurANgAShTakam (sArvabhauma bhaTTAchAryavirachitam malayasuvAsita)"
+engtitle = "gaurAngAShTakam"
+Category = "deities_misc, krishna, gurudev, aShTaka, sArvabhaumabhaTTAchArya"
+Location = "doc_deities_misc"
+Sublocation = "deities_misc"
+SubDeity = "gurudev"
+Author = "Sarvabhauma Bhattacharya"
+Language = "Sanskrit"
+Subject = "philosophy/hinduism/religion"
+"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
+"Description/comments" = "Gauranga Chaitanya Mahaprabhu"
+Indexextra = "(Meaning)"
+"Latest update" = "February 22, 2019"
+"Send corrections to" = "sanskrit@cheerful.com"
+"Site access" = "https://sanskritdocuments.org"
+title = "गौराण्गाष्टकम् (सार्वभौम भट्टाचार्यविरचितम् मलयसुवासित)"
+
++++
+  
+ गौराङ्गाष्टकम्   
+मलयसुवासितभूषितगात्रं  
+     मूर्तिमनोहरविश्वपवित्रम् ।  
+पदनखराजितलज्जितचन्द्रे  
+     शुद्धकनक रय गौर नमस्ते ॥ १॥  
+  
+स्वगात्रपुलकलोचनपूर्णं  
+     जीवदयामयतापविदीर्णम् ।  
+साङ्ख्यजलपतिनामसहस्रे  
+     शुद्धकनक रय गौर नमस्ते ॥ २॥  
+  
+हुङ्कृततर्जनगर्जनरङ्गे  
+     लोचनकलियुगपाप स शङ्के ।  
+पदरजताडितदुष्टसमस्ते  
+     शुद्धकनक जय गौर नमस्ते ॥ ३॥  
+  
+सिंहगमन जिति ताण्डवलील  
+     दीनदयामयतारणशील ।  
+अजभवश्रीहरिपदनखचन्द्रे  
+     शुद्धकनक जय गौर नमस्ते ॥ ४॥  
+  
+गौराङ्गवृतमालतिमाले  
+     मेरुविलम्बितगङ्गाधारे ।  
+मन्दमधुरहासभासमुखचन्द्रे  
+     शुद्धकनक जय गौर नमस्ते ॥ ५॥  
+  
+फल्गुविराजितचन्दनभाल  
+     कुङ्कुमरञ्जितदेहविशाल ।  
+उमापतिसेवितपदनखचन्द्रे  
+     शुद्धकनक जय गौर नमस्ते ॥ ६॥  
+  
+भक्तिपराधीनशान्तकवेश  
+     गमनसुनर्तकभोगविशेष ।  
+मालाविराजितदेहसमस्ते  
+     शुद्धकनक जय गौर नमस्ते ॥ ७॥  
+  
+भोगविरक्तिकसंन्यासैवेश  
+     शिखामोचनलोकप्रवेश ।  
+भक्तिविरक्तिप्रवर्तकचित्त  
+     शुद्धकनक जय गौर नमस्ते ॥ ८॥  
+  
+इति सार्वभौम भट्टाचार्यविरचितं गौराङ्गाष्टकं सम्पूर्णम् ।  
+  
+  

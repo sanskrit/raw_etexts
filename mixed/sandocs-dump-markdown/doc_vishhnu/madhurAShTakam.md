@@ -1,0 +1,53 @@
++++
+"Text title" = "madhurAShTakaM"
+"File name" = "madhurst.itx"
+itxtitle = "madhurAShTakam"
+engtitle = "madhurAShTakam"
+Category = "aShTaka, vishhnu, krishna, vallabhaachaarya, vishnu, puShTimArgIya"
+Location = "doc_vishhnu"
+Sublocation = "vishhnu"
+SubDeity = "krishna"
+Author = "vallabhaachaarya"
+Language = "Sanskrit"
+Subject = "philosophy/hinduism/religion"
+"Transliterated by" = "NA"
+"Proofread by" = "NA"
+"Latest update" = "August 19, 2004"
+"Send corrections to" = "Sanskrit@cheerful.com"
+"Site access" = "https://sanskritdocuments.org"
+title = "मधुराष्टकम्"
+
++++
+  
+ मधुराष्टकं   
+  
+ ॥ मधुराष्टक् ॥  
+  
+अधरं मधुरं वदनं मधुरं नयनं मधुरं हसितं मधुरम् ।  
+हृदयं मधुरं गमनं मधुरं मधुराधिपतेरखिलं मधुरम् ॥ १॥  
+  
+वचनं मधुरं चरितं मधुरं वसनं मधुरं वलितं मधुरम् ।  
+चलितं मधुरं भ्रमितं मधुरं मधुराधिपतेरखिलं मधुरम् ॥ २॥  
+  
+वेणुर्मधुरो रेणुर्मधुरः पाणिर्मधुरः पादौ मधुरौ ।  
+नृत्यं मधुरं सख्यं मधुरं मधुराधिपतेरखिलं मधुरम् ॥ ३॥  
+  
+गीतं मधुरं पीतं मधुरं भुक्तं मधुरं सुप्तं मधुरम् ।  
+रूपं मधुरं तिलकं मधुरं मधुराधिपतेरखिलं मधुरम् ॥ ४॥  
+  
+करणं मधुरं तरणं मधुरं हरणं मधुरं रमणं मधुरम् ।  
+वमितं मधुरं शमितं मधुरं मधुराधिपतेरखिलं मधुरम् ॥ ५॥  
+  
+गुञ्जा मधुरा माला मधुरा यमुना मधुरा वीची मधुरा ।  
+सलिलं मधुरं कमलं मधुरं मधुराधिपतेरखिलं मधुरम् ॥ ६॥  
+  
+गोपी मधुरा लीला मधुरा युक्तं मधुरं मुक्तं मधुरम् ।  
+दृष्टं मधुरं शिष्टं मधुरं मधुराधिपतेरखिलं मधुरम् ॥ ७॥  
+  
+गोपा मधुरा गावो मधुरा यष्टिर्मधुरा सृष्टिर्मधुरा ।  
+दलितं मधुरं फलितं मधुरं मधुराधिपतेरखिलं मधुरम् ॥ ८॥  
+  
+ ॥ इति श्रीमद्वल्लभाचार्यविरचितं मधुराष्टकं सम्पूर्णं ॥  
+  
+  
+  

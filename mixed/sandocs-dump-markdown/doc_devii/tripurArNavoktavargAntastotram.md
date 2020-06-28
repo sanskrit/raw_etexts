@@ -1,0 +1,56 @@
++++
+"Text title" = "tripurArNavoktavargAntastotram"
+"File name" = "tripurArNavoktavargAntastotram.itx"
+itxtitle = "tripurArNavoktavargAntastotram"
+engtitle = "tripurArNavoktavargAntastotram"
+Category = "devii, aShTaka, dashamahAvidyA, devI"
+Location = "doc_devii"
+Sublocation = "devii"
+SubDeity = "dashamahAvidyA"
+Language = "Sanskrit"
+Subject = "philosophy/hinduism/religion"
+"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
+"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
+"Description/comments" = "From Tripurarnava tantra"
+Indexextra = "(Text)"
+"Latest update" = "September 26, 2018"
+"Send corrections to" = "Sanskrit@cheerful.com"
+"Site access" = "https://sanskritdocuments.org"
+title = "त्रिपुरार्णवोक्तवर्गान्तस्तोत्रम्"
+
++++
+  
+ श्रीत्रिपुरार्णवोक्तवर्गान्तस्तोत्रं   
+क्ष्माम्ब्वग्नीरणखार्केन्दुयष्ट्टप्राययुगाक्षरैः ।  
+मातृभैरवगां वन्दे देवीं त्रिपुरभैरवीम् ॥ १॥  
+  
+कादिवर्गाष्टकाकारसमस्ताष्टकविग्रहाम् ।  
+अष्टशक्त्यावृतां वन्दे देवीं त्रिपुरभैरवीम् ॥ २॥  
+  
+स्वरषोडशकानां तु षट् त्रिंशद्भिः परापरैः ।  
+षट् त्रिंशत्तत्वगां वन्दे देवीं त्रिपुरभैरवीम् ॥ ३॥  
+  
+षट् त्रिंशत्तत्वसंस्थाप्यशिवचन्द्रकलास्वपि ।  
+कादितत्त्वान्तरां वन्दे देवीं त्रिपुरभैरवीम् ॥ ४॥  
+  
+आ ई माया द्वयोपाधिविचित्रेन्दुकलावतीम् ।  
+सर्वात्मिकां परां वन्दे देवीं त्रिपुरभैरवीम् ॥ ५॥  
+  
+षडध्वपिण्डयोनिस्थां मण्डलत्रयकुण्डलीम् ।  
+लिङ्गत्रयातिगां वन्दे देवीं त्रिपुरभैरवीम् ॥ ६॥  
+  
+स्वयम्भूहृदयां बाणभ्रूकामान्तःस्थितेतराम् ।  
+प्राच्यां प्रत्यक्चितिं वन्दे देवीं त्रिपुरभैरवीम् ॥ ७॥  
+  
+अक्षरान्तर्गताशेषनामरूपां क्रियापराम् ।  
+शक्तिं विश्वेश्वरीं वन्दे देवीं त्रिपुरभैरवीम् ॥ ८॥  
+  
+वर्गान्ते पठितव्यं स्यात् स्तोत्रमेतत्समाहितैः ।  
+सर्वान् कामानवाप्नोति अन्ते सायुज्यमाप्नुयात् ॥ ९॥  
+  
+इति श्रीत्रिपुरार्णवोक्तवर्गान्तस्तोत्रं सम्पूर्णम् ।  
+  
+  
+  
+Encoded and proofread by Aruna Narayanan narayanan.aruna at gmail.com  
+  

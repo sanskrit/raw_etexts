@@ -1,0 +1,42 @@
++++
+"Text title" = "bAlAtrishatAkSharI"
+"File name" = "bAlAtrishatAkSharI.itx"
+itxtitle = "bAlAtrishatAkSharI"
+engtitle = "bAlAtrishatAkSharI"
+Category = "devii, dashamahAvidyA, devI"
+Location = "doc_devii"
+Sublocation = "devii"
+SubDeity = "dashamahAvidyA"
+Language = "Sanskrit"
+Subject = "philosophy/hinduism/religion"
+"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
+"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
+Indexextra = "(Scan)"
+"Latest update" = "March 21, 2020"
+"Send corrections to" = "sanskrit@cheerful.com"
+"Site access" = "https://sanskritdocuments.org"
+title = "बालात्रिशताक्षरी"
+
++++
+  
+ श्रीबालात्रिशताक्षरी   
+ॐ ऐं ह्रीं श्रीं ऐं क्लीं सौः सौः क्लीं ऐं नमो बाले त्रिपुरसुन्दरि ।  
+हृदयदेवि । शिरोदेवि । शिखादेवि । कवचदेवि । नेत्रदेवि ।  
+अस्त्रदेवि । इन्द्रशक्ते । अग्निशक्ते । यमशक्ते । निरृतिशक्ते ।  
+वरुणशक्ते । वायुशक्ते कुबेरशक्ते ईशानशक्ते । वशिनि ।  
+कामेश्वरि । मोदिनि । विमले । अरुणे । जयिनि । सर्वेश्वरि ।  
+कौलिनि । अनङ्गकुसुमे । अनङ्गमेखले । अनङ्गमदने ।  
+अनङ्गमदनातुरे । अनङ्गरेखे । अनङ्गवेगिनि । अनङ्गाङ्कुशे ।  
+अनङ्गमालिनि । असिताङ्गभैरव-रुद्रभैरव-चण्डभैरव-  
+क्रोधभैरव-उन्मत्तभैरव-कपालभैरव-भीषणभैरव -  
+संहारभैरवयुते । ब्राह्मि । माहेश्वरि । कौमारि । वैष्णवि ।  
+वाराहि । माहेन्द्रि । चामुण्डे । महालक्ष्मि । साकिनि । राकिणि । लाकिनि ।  
+काकिनि । डाकिनि । हाकिनि । याकिनि । गुरुमयि । परमगुरुमयि ।  
+पामेष्ठिगुरुमयि । रतिदेवि । प्रीतिदेवि । विजयादेवि । सावरणदेवते  
+बाले परे भट्टारिके । नमस्ते नमः सौः क्लीं ऐं ॐ ॥  
+  
+इति श्रीबालात्रिशताक्षरी समाप्ता ।  
+  
+  
+Proofread by PSA Easwaran  
+  

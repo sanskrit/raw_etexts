@@ -1,0 +1,51 @@
++++
+"Text title" = "sharavanabhavamantrAkSharaShaTkam"
+"File name" = "sharavanabhavamantrAkSharaShaTkam.itx"
+itxtitle = "sharavanabhavamantrAkSharaShaTkam"
+engtitle = "sharavanabhavamantrAkSharaShaTkam"
+Category = "ShaTkam, subrahmanya"
+Location = "doc_subrahmanya"
+Sublocation = "subrahmanya"
+Language = "Sanskrit"
+Subject = "philosophy/hinduism/religion"
+"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran"
+Description-comments = "Subrahmanya Stuti Manjari, Mahaperiaval Trust"
+Acknowledge-Permission = "Mahaperiaval Trust"
+"Latest update" = "December 22, 2016"
+"Send corrections to" = "Sanskrit@cheerful.com"
+"Site access" = "https://sanskritdocuments.org"
+title = "शरवनभवमन्त्राक्षरषट्कम्"
+
++++
+  
+ श्रीशरवनभवमन्त्राक्षरषट्कम्   
+  
+ॐ श्रीगणेशाय नमः ।  
+  
+शक्तिस्वरूपाय शरोद्भवाय शक्रार्चितायाथ शचीस्तुताय ।  
+शमाय शम्भुप्रणवार्थदाय शकाररूपाय नमो गुहाय ॥ १॥  
+  
+रणन्मणिप्रोज्ज्वलमेखलाय रमासनाथप्रणवार्थदाय ।  
+रतीशपूज्याय रविप्रभाय रकाररूपाय नमो गुहाय ॥ २॥  
+  
+वराय वर्णाश्रमरक्षकाय वरत्रिशूलाभयमण्डिताय ।  
+वलारिकन्यासुकृतालयाय वकाररूपाय नमो गुहाय ॥ ३॥  
+  
+नगेन्द्रकन्येश्वरतत्त्वदाय नगाधिरूढाय नगार्चिताय ।  
+नगासुरघ्नाय नगालयाय नकाररूपाय नमो गुहाय ॥ ४॥  
+  
+भवाय भर्गाय भवात्मजाय भस्मायमानाद्भुतविग्रहाय ।  
+भक्तेष्टकामप्रदकल्पकाय भकाररूपाय नमो गुहाय ॥ ५॥  
+  
+वल्लीवलारातिसुतार्चिताय वराङ्गरागाञ्चितविग्रहाय ।  
+वल्लीकराम्भोरुहमर्दिताय वकाररूपाय नमो गुहाय ॥ ६॥  
+  
+इति श्रीशरवनभवमन्त्राक्षरषट्कं सम्पूर्णम् ॥  
+  
+इति शिवं ॥  
+  
+  
+Proofread by Sivakumar Thyagarajan shivakumar24 at gmail.com,  
+PSA Easwaran psaeaswaran at gmail.com  
+  
+  
