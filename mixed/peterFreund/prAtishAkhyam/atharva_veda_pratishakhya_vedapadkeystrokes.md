@@ -36,7 +36,7 @@ r?IkArokArQ ca semyarthe ?ra pUrvamityasmidmanarthe sayakArama9 dru
 yakAralopaH patyayAntaraM vA ?au apavAdo vA ? vqSabha ?Iti
 devatANyAnama9 Dha, asteH ?rapaiSaccayA madhyamasyaikavacanama9 DhaDha
 ?Ityeteriha7tyanya kS?DhaDa parastAta9 purastAdanyAni DhaTha
-aikA-rAntAnyAkArAbAdhe DhaTa yAnyAkAropadhAni makArAntAni tA- ni
+aikA-rAntAnyAkArAbAdhe DhaTa yAnyAkAropadhAni makArAntAni tAni
 skSyikavacanAni hrasvopadhAni puMvacanAni Dhakha ?Iti ?rapathamaH pAdaH
 USmAntAni svarAntAbAdhAni Dhra lopasaMdehe Dhadru tqta7yA-saMdehe
 sAntASTva Dhau AkArAntASTva ?rapatyayalopinaH Dh A-NyAtaM gakArAntAdeva
@@ -84,7 +84,7 @@ hrasvaH ? saMhitAyAM visarjana7yasya Dha, ?uttmamudAttma9 DhaDha
 ?uttrapade hrasvaH DhaDa AdyakSara vq?Mi?H DhaTha yakArAdQ bahulaM
 da7rghaH DhaTa gaviptQ gaveSa5 ?Iti na lopo vakArasya Dhakha fapatheyyaM
 sahafeyyAyetyekArAtparo yakAraH Dhra pUrvaparQ hrasvQ Dhadru
-akArekArAvAgamQ pUrvasya Dhau vidhemetyanya kS?Dh akArA- ntAnnviti Da,
+akArekArAvAgamQ pUrvasya Dhau vidhemetyanya kS?Dh akArAntAnnviti Da,
 ekArAntASTva DaDha okArAntASTva DaDa ?Iti ?rapathamaH pAdaH ?utpUrvo
 hqSiH DaTha ekavacanAnyanya kS?DaTa takArAntAni Dakha ?SThantAdvA surna
 lupyate kazkSadantAdvA Dra ekArAda7nyeterhyasta-nyAma9 Dadru ?raANyAtena
@@ -108,11 +108,11 @@ SatvasyApavAdaH ?raTha anupasa-rgAtSakAraH ?raTa pUrvapadAta9 ?rakha
 ?IzgaSTheSu ca ?radru abhyAsasya da7rghaH chandasi ?rau adbhyAda7nAM
 matQ ?r sarvalizgavacaneSu ca dru, ?rapathamasya druDha dvita7yasya
 druDa sAkSasAhAda7nAmuttrapadAdyasya druTha nAmetyasya hrasvAntamasamAse
-druTa nipAtAvyayAnA- muttrapadAdyasya drukha ?Iti tqta7yaH pAdaH axcatQ
+druTa nipAtAvyayAnAmuttrapadAdyasya drukha ?Iti tqta7yaH pAdaH axcatQ
 lu?e?rapatyaye nezgaSThate drra devatAdvandvahu
 da7rghAr?ibhyAtrabhyaH-ssu drudru samastamekAkSaraM vqMSThA dru?au
 ekAkSaramava5r?Antama9 dr svaralizgasvaravibhar?ivacanavifeSeSu ?au,
 va5rlizgasva-ravibhar?ivAkyavyatyayafrachandasi ?auDha
-va5rlopAgamahrasva- da7rghaplutAtmanebhASAparasmaibhASA apiyantyapiyanti
+va5rlopAgamahrasvada7rghaplutAtmanebhASAparasmaibhASA apiyantyapiyanti
 ?auDa ?Iti caturthaH pAdaH ?Iti tqta7yaH ?rapapA3kazkha Atharva5?e
 saMhitAlakSa5?raganthe ?rapAtifANyamUlasUkS?M samoma9
