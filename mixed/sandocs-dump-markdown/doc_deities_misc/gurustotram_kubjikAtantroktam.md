@@ -1,0 +1,54 @@
++++
+"Text title" = "gurustotram kubjikAtantre"
+"File name" = "gurustotramkubjikAtantra.itx"
+itxtitle = "gurustotram (kubjikAtantroktam)"
+engtitle = "gurustotram kubjikAtantrokta"
+Category = "deities_misc, gurudev, stotra"
+Location = "doc_deities_misc"
+Sublocation = "deities_misc"
+SubDeity = "gurudev"
+Texttype = "stotra"
+Language = "Sanskrit"
+Subject = "philosophy/hinduism/religion"
+"Transliterated by" = "Puneet Joshi puneetrph at yahoo"
+"Proofread by" = "Puneet Joshi puneetrph at yahoo, NA"
+"Latest update" = "August 24, 2014"
+"Send corrections to" = "Sanskrit@cheerful.com"
+"Site access" = "https://sanskritdocuments.org"
+title = "गुरुस्तोत्रम् (कुब्जिकातन्त्रोक्तम्)"
+
++++
+  
+ श्रीगुरुस्तोत्रम् कुब्जिकातन्त्रोक्त   
+  
+ॐ नमस्तुभ्यं महामन्त्रदायिने शिवरूपिणे ।  
+ब्रह्मज्ञानप्रकाशाय संसारदुःखतारिणे ॥ १॥  
+  
+अतिसौम्याय दिव्याय वीराय ज्ञानहारिणे ।  
+नमस्ते कुलनाथाय कुल कौलिन्यदायिने ॥ २॥  
+  
+शिवतत्त्वप्रबोधाय ब्रह्मतत्त्वप्रकाशिने ।  
+नमस्ते गुरवे तुभ्यं साधकाभयदायिने ॥ ३॥  
+  
+अनाचाराचारभावबोधाय भक्तहेतवे ।  
+भावाभावविनिर्मुक्ताय मुक्तिदात्रे नमो नमः ॥ ४॥  
+  
+नमस्ते शम्भवे तुभ्यं दिव्यभावप्रकाशिने ।  
+ज्ञानानन्दस्वरूपाय विभवाय नमो नमः ॥ ५॥  
+  
+शिवाय शक्तिनाथाय सच्चिदानन्दरूपिणे ।  
+कामरूपाय कामाय कालकेलिकलात्मने ॥ ६॥  
+  
+कुलपूजोपदेशाय कुलाचारस्वरूपिणे ।  
+आरक्तलसच्छक्तये समभागविभूतये ॥    
+नमस्तेऽस्तु महेशाय नमस्तेऽस्तु नमो नमः ॥७॥  
+  
+इदं स्तोत्रं पठेन्नित्त्यं साधको गुरुदिङ्मुखः ।  
+प्रातरुत्थाय देवेशि!  ततो विद्या प्रसीदति ॥ १॥  
+  
+  
+  
+  
+  
+Encoded and proofread by Puneet Joshi puneetrph at yahoo  
+  

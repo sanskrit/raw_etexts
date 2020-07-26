@@ -1,0 +1,292 @@
+#+TITLE: The SARIT library
+
+Welcome to SARIT's library of Indic e-texts. SARIT is short for
+"Search and Retrieval of Indic Texts"
+(cf. http://sarit.indology.info/). 
+
+This collection of files is special in that any changes you make to
+your files can, if you choose so, be shared with other people. So if
+you correct, annotate, or otherwise improve any file in this directory
+or one of the directories below it, you might consider sharing your
+work with others (and hope that they will share their work with you).
+
+We, people administering SARIT and working with it, hope that this
+will lead to incremental but continuous improvement of these files,
+and of any files you wish to add. We plan to periodically update
+SARIT's search interface with the texts changed or added in this
+repository. At the moment, this library is an experiment in online
+collaboration on this sort of material.
+
+
+* What to do next?
+
+** Installing git
+
+In order to make full use of the SARIT library, you should install
+[[http://git-scm.org/][git]]. You can find all you need to get started here:
+http://git-scm.com/downloads/. Documentation is available from
+http://git-scm.com/doc/, and tutorials are listed at the top of
+http://git-scm.com/doc/ext/.
+
+
+** Getting a Graphical User Interface (GUI)
+
+If you do not like working on a command line, you can use a Graphical
+User Interface (GUI) for git. The standard GUI that is installed
+automatically by the steps above is "gitk" on Linux, and "git gui" on
+mac and windows.
+
+These are stable but rather basic programs, and there are quite a few
+other options you might want to explore if you're not happy with
+them. In the following, we will give examples for [[http://www.syntevo.com/smartgit/index.html][Smart Git]], a Java
+program that is free of charge for non-commercial use, and that will
+run any platform that Java runs on (i.e., Linux, Windows, Mac).
+
+Other options are listed here: http://git-scm.com/downloads/guis/.
+
+** Get a copy of the collection you want
+
+Getting the first copy is called ``cloning." Depending on your
+platform, you can either
+
+***  run `git clone https://github.com/sarit/SARIT-corpus.git' if you are using standard git, 
+
+*** or consult the documentation of your git interface on how to point it at  https://github.com/sarit/SARIT-corpus.git
+
+For [[Smart Git]], do this:
+
+1) Project --> Clone
+2) Under "Remote Git or SVN repository", enter the name of the
+   collection, e.g., ``https://github.com/sarit/SARIT-corpus.git", click Next.
+3) Choose a directory where to put your files. This should be
+   somewhere where you usually store your files, i.e., not in
+   ``C:\Programs" or so. Click Next.
+4) Accept or choose the project name (SARIT should be the default).
+
+
+** Learn about TEI P5
+
+The full guidelines can be found here:
+http://www.tei-c.org/Guidelines/P5/, and a simplified version, TEI
+Lite: http://www.tei-c.org/Guidelines/Customization/Lite/.
+
+The specific guidelines that are used for the SARIT corpus are here:
+http://sarit.indology.info/exist/apps/sarit/docs/encoding-guidelines-simple.html.
+
+The most recent version is file:./schemas/odd/sarit-guidelines.xml
+(online at
+https://github.com/sarit/SARIT-corpus/blob/devel/schemas/odd/sarit-guidelines.xml).
+Please use that document as the basis for suggesting improvements to
+the guidelines.
+
+** Learn about  git
+
+We have found the following introductions very helpful:
+
+1) Comparing git to a computer game:
+   http://www-cs-students.stanford.edu/~blynn/gitmagic/ (note also
+   the various translations)
+2) Basic git commands, short and to the point:
+   https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html.
+3) More links can be found here: http://git-scm.com/doc/
+
+
+* Where can I get help?
+
+That depends on the area you need help with:
+
+** Editing files
+
+You probably do need an [[http://en.wikipedia.org/wiki/XML_editor][XML aware editor]]. There are many, and with
+many different features, just as there are many tastes. Some popular
+choices include:
+
+1) [[http://www.jedit.org/index.php?page%3Ddownload][Jedit]], with appropriate plug-ins (runs on all computers where Java is installed)
+2)  http://www.oxygenxml.com/ (on all platforms, not free)
+3) [[http://www.gnu.org/software/emacs/][Emacs]] + [[http://www.thaiopensource.com/nxml-mode/][nxml mode]] (all platforms, free)
+
+For a list to choose from,
+cf. http://en.wikipedia.org/wiki/List_of_XML_editors or
+http://www.xml.com/pub/rg/XML_Editors.
+
+** Sharing/organizing files
+
+This is done via the program git: see [[Learn%20about%20%20git][Learn about git]] above for links
+to documentation, and see [[How%20does%20sharing%20work?][How does sharing work?]] below for a general
+description.
+
+
+* How does sharing work?
+** General idea
+Three steps are involved in sharing these files:
+
+1) Getting <<what other people changed>>.
+2) Letting other people <<get what you changed>>.
+3) <<Merging the changes>> together.
+
+To do this in an organised fashion, we are using a program called
+[[http://git-scm.com/][git]]. It keeps track of changes to the files in this directory, and can
+`pull' ([[what%20other%20people%20changed][point 1 above]]) and `push' ([[get%20what%20you%20changed][point 2 above]]) from or to another
+instance of these files likewise controlled by git. What it pushes are
+the changes you have made to these files, and what it pulls are the
+changes another person (or a group of other persons) has made to these
+files.
+
+When it does this, two things can happen:
+
+*** You changed different parts of a file
+
+When, say, Jane corrects paragraph 1, and Jack corrects paragraph 2 of
+the same file, git will be able to `merge' ([[Merging%20the%20changes][point 3 above]]) . So if
+Jack `pulls' Jane's changes, paragraph 1 of his file will
+automatically be changed to paragraph 1 of Jane's file. Likewise, if
+Jane `pulls' Jack's changes, her file will automatically be changed in
+paragraph 2 according to Jack's changes. So they each edited only one
+paragraph, but both have the same version of the file now, with both
+paragraphs corrected.
+
+*** You changed the same part of a file
+
+In case both Jane and Jack change the same part of a file, git will
+refuse to `merge' the files (since it doesn't know which change is the
+correct one). In this situation, either Jack or Jane will have to
+review the other person's changes, and decide which version to keep
+(or make a third version that contains the changes of both). After
+making these changes, git will understand that either Jack or Jane
+have resolved the conflict, and they can continue to work in the
+normal fashion.
+
+
+
+** github specific information
+
+On github, there are two ways in which you can get your changes back
+to SARIT:
+
+1) by being a collaborator, or
+2) by creating your own copy of the SARIT library (forking) and
+   telling us about your changes (pull request)
+
+In both cases, you need to sign up on http://github.com.
+
+*** Collaboration
+
+Please send an email to pma@rdorte.org with your github account name
+and mentioning that you'd like to collaborate.
+
+*** Forking and Sending Pull Requests
+
+This is the preferred way to go if you want to be a little more
+independent from the main SARIT library, e.g., for working on your own
+set of files, or for general experimentation. Basically, you copy the
+whole project at a particular moment in its history, and then work
+independently on that copy. If you are happy with your changes, you
+can send us a pull request, and we will try to merge your changes back
+into the main repository.
+
+These two pieces of information will get you started:
+
+1) forking [[http://help.github.com/fork-a-repo/]]
+2) Sending pull requests: [[http://help.github.com/pull-requests/]]
+
+* What are these XML files?
+
+The files in this directory try to adhere to the Text Encoding
+Initiatives standards in version P5 ([[http://www.tei-c.org/Guidelines/P5/][TEI P5]]). These standards define a
+vocabulary for describing things about a text: who is its author,
+which other texts is it referring to, which page of a printed edition
+is this paragraph on, who is "asya" referring to, etc.
+
+** saritcorpus.xml
+
+This file is an exception in that it aggregates all the individual text
+files into a corpus. Correspondingly, it has [[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-teiCorpus.html][teiCorpus]] as its root
+element, instead of [[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-TEI.html][TEI]] like all the others.
+
+You can use this to easily operate on the whole corpus, e.g.:
+
+#+BEGIN_SRC sh
+  xmllint --encode UTF-8  --xinclude saritcorpus.xml  > /tmp/saritcorpus.xml \
+      && \
+      jing -c schemas/sarit.rnc /tmp/saritcorpus.xml
+#+END_SRC
+
+** Git and XML
+
+Git treats XML files as text files; it does not know anything specific
+about the `logic' of the XML files. For example, git would think that
+the two strings ~<p xml:id="firstpar" n="1"/>~ and ~<p n="1"
+xml:id="firstpar" />~ are pretty different from each other, whereas
+they probably should be considered the same.
+
+Due to this, there might be some problems when trying to see what
+(important) changes there are between files.  The proper solution for
+this problem is to compare the [[http://www.w3.org/2008/xmlsec/Drafts/xml-norm/Overview.html][normalized versions]] of the two files
+that have differences, and base your merge decisions on this.
+
+In order to see what git thinks changed, it's useful to change
+git-diff's understanding of what constitutes a word by changing the
+word-diff to work on xml tags (and spaces). Taking
+file:./pramanavarttikavrtti.xml as an example, we could look at
+various things that changed in the last month in the following ways:
+
+*** view all changes to xml tags
+
+#+BEGIN_SRC sh
+  git diff --word-diff-regex="<[^>]+>|[^[:space:]]" \
+  --word-diff=porcelain "master@{1 month ago}" HEAD pramanavarttikavrtti.xml | \
+  egrep "^[-+]<" 
+#+END_SRC
+
+The ~--word-diff=porcelain~ option makes it really easy to grep
+through the results. If you leave it out, it's easier to see the
+changes in context.
+
+Running this through further grep expressions or ~sort~ and ~uniq~
+filters, you can get a quick overview of what happened.
+
+*** inspect content changes
+
+To see only what content changed, you could also convert your files
+into a line based xml representation, like the [[http://www.ibm.com/developerworks/library/x-matters17/][PyX]] format. 
+
+Assume you've encountered a merge conflict for the
+file:./tattvasangrahapanjika.xml. You could convert the files to pyx
+formats like this (with the help of http://xmlstar.sourceforge.net/):
+
+#+BEGIN_SRC sh
+  git show :2:tattvasangrahapanjika.xml | \
+      xmlstarlet c14n | \
+      xmlstarlet pyx | \
+      grep "^-" | \
+      sed 's/^-//g' > /tmp/tsp_ours.pyx
+
+  git show :3:tattvasangrahapanjika.xml | \
+      xmlstarlet c14n | \
+      xmlstarlet pyx | \
+      grep "^-" | \
+      sed 's/^-//g' > /tmp/tsp_theirs.pyx
+#+END_SRC
+
+You can then compare ~/tmp/tsp_theirs.pyx~ and ~/tmp/tsp_theirs.pyx~
+to find out about the differences in the text portions of the file.
+
+Alternatively, line-based XML representations can also be created with
+tools found here: http://www.ofb.net/~egnor/xml2/ref. It might look
+like this:
+
+#+BEGIN_SRC sh
+  git show :2:tattvasangrahapanjika.xml | \
+      # standardize, sort attributes, and format 
+      xmllint --exc-c14n --format | \
+      xml2 | \
+      # remove uninteresting stuff 
+      egrep "^/[^@\\!]+=" | \
+      cut -d= -f 2- > /tmp/tsp_ours.xml2
+
+  git show :3:tattvasangrahapanjika.xml | \
+      xmllint --exc-c14n --format | \
+      xml2 | \
+      egrep "^/[^@\\!]+=" | \
+      cut -d= -f 2- > /tmp/tsp_theirs.xml2
+#+END_SRC

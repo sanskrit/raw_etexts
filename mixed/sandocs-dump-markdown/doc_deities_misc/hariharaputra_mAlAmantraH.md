@@ -1,0 +1,48 @@
++++
+"Text title" = "hariharaputramAlAmantra"
+"File name" = "hariharaputramaalaamantra.itx"
+itxtitle = "hariharaputra mAlAmantraH"
+engtitle = "hariharaputra mAlAmantraH"
+Category = "mAlAmantra, deities_misc, ayyappa"
+Location = "doc_deities_misc"
+Sublocation = "deities_misc"
+SubDeity = "ayyappa"
+Language = "Sanskrit"
+Subject = "Hinduism/religion/traditional"
+"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
+"Proofread by" = "Antaratma antaratma at Safe-mail.net"
+"Latest update" = "April 23, 2008"
+"Send corrections to" = "Sanskrit@cheerful.com"
+"Site access" = "https://sanskritdocuments.org"
+title = "हरिहरपुत्र मालामन्त्रः"
+
++++
+  
+ श्रीहरिहरपुत्र मालामन्त्रः   
+  
+ॐ नमो भगवते रुद्रकुमाराय हरिहरपुत्राय आर्याय  
+हाटकाचलकोटि मधुरसार महाहृदयाय हेमजाम्बूनदनवरत्न  
+सिंहासनाधिष्ठिताय वैडूर्यमणिमण्टपक्रीडागृहाय  
+लाक्षाकुङ्कुमजपाविद्युत् तुल्यप्रभाय प्रसन्नवदनाय  
+उन्मत्त चूडाकलितलोलमाल्य वृतवक्षःस्तंभमणिपादुकमण्टपाय  
+प्रस्फंरन्ंअनिमण्डितोपकर्णाय पूर्णालङ्कार बन्धुरदन्तिनिरीक्षिताय  
+कदाचित् कोटिवाद्यातिशायिनिरन्तर जयशब्दमुखरनारदादि देवर्षि  
+शक्रप्रमुखलोकपालतिलकोत्तमाय दिव्यास्त्रपरिसेविताय गोरोचनागरु  
+कर्पूर श्रीगन्ध प्रलेपिताय विश्वावसु प्रधानगन्धर्वसेविताय  
+पूर्णापुष्कलोभय पार्श्वसेविताय सत्यसन्धाय महाशास्त्रे नमः ॥  
+  
+मां रक्ष रक्ष, भक्तजनान् रक्ष रक्ष,  
+मम शत्रून् शीघ्रं मारय मारय, भूतप्रेतपिशाचब्रह्मराक्षस  
+यक्षगन्धर्व परप्रेषिताभिचारकृत्यारोग प्रतिबन्धक  
+समस्त दुष्ट्ग्रहान् मोचय मोचय , आयुर्वित्तं देहि मे स्वाहा ॥  
+  
+सकल देवता आकर्षयाकर्षय उच्चाटयोच्चाटय स्तंभय  
+स्तंभय मम शत्रून् मारय मारय सर्वजनं मे वशमानय  
+वशमानय संमोहय संमोहय सदाऽऽरोग्यं कुरु कुरु स्वाहा ॥ १  
+  
+ॐ घ्रूं असिताङ्गाय महावीरपराक्रमाय गदाधराय धूम्रनेत्राय  
+दंष्ट्राकराळाय मालाधराय नीलाम्बराय सर्वापद्घ्ने  
+सर्वभयापघ्ने शिवपुत्राय कृद्धाय कृपाकराय स्वाहा ॥ २  
+  
+Encoded and proofread by Antaratma antaratma at Safe-mail.net  
+  
