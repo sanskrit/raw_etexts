@@ -1,0 +1,3197 @@
+SATAPATHA-BRAHMANA 10
+
+Data input by H.S. Ananthanarayana and W. P. Lehman.
+
+Bracketted numbering added mechanically.
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ THIS TEXT FILE IS FOR REFERENCE PURPOSES ONLY!	³
+³ COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.	³
+³							³
+³ Text converted to Ronald E. Emmerick's encoding for   ³
+³ WordPerfect 5.1 DOS and related utility programmes 	³
+³ BHELA, CARAKA etc. (DOS versions): 			³
+³ 							³
+³ description             character  =	ASCII		³
+³  							³
+³ long a                  A             195		³
+³ long A                  ù             249		³
+³ long i                  I             197		³
+³ long I                  ý             253		³
+³ long u                  U             198		³
+³ long U                  ô             244		³
+³ vocalic r               R^i             173		³
+³ vocalic R               A             227		³
+³ long vocalic r          Ì             204		³
+³ vocalic l               Ê             202		³
+³ long vocalic l          Ë             203		³
+³ velar n                 Ç             199		³
+³ velar N                 §             167		³
+³ palatal n               ¤             164		³
+³ palatal N               ¥             165		³
+³ retroflex t             T             194		³
+³ retroflex T             è             232		³
+³ retroflex d             D             172		³
+³ retroflex D             Ö             214		³
+³ retroflex n             N             239		³
+³ retroflex N             ×             215		³
+³ palatal s               sh             211		³
+³ palatal S               Á             193		³
+³ retroflex s             Sh             171		³
+³ retroflex S             å             229		³
+³ anusvara                M             230		³
+³ capital anusvara        õ             245		³
+³ visarga                 H             247		³
+³ capital visarga         ê             234		³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+
+
+
+
+10.1.1.[1]
+
+agnireSha purastAccIyate  saMvatsara upariShTAnmahadukthaM shasyate
+prajApatervisrastasyAgraM raso'gacat 
+
+
+
+10.1.1.[2]
+
+sa yaH sa prajApatirvyasraMsata  saMvatsaraH so'tha yAnyasya tAni parvANi
+vyasraMsantAhorAtrANi tAni 
+
+
+
+10.1.1.[3]
+
+sa yaH sa saMvatsaraH prajApatirvyasraMsata  ayameva sa yo'yamagnishcIyate'tha
+yAnyasya tAnyahorAtrANi parvANi vyasraMsanteShTakA eva tAstadyadetA upadadhAti
+yAnyevAsya tAnyahorAtrANi parvANi vyasraMsanta tAnyasminnetatpratidadhAti
+tadetadatraiva yajushcitamatrAptam
+
+
+
+10.1.1.[4]
+
+atha yo'sya so'graM raso'gacat  mahattadukthaM tamasya taM
+rasamR^ikShAmAbhyAmanuyanti tadyattatra yajuH purastAdetyabhinetaiva tadeti yathAdo
+me'mutraikaM tadAhariShyAmItyevaM t
+
+
+
+10.1.1.[5]
+
+tamadhvaryurgraheNa gR^ihNAti  yadgR^ihNAti tasmAdgrahastasmiadyajuH purastAdeti taM
+saMvatsara Apnuvanti nnudgAtA mahAvratena rasaM dadhAti sarvANi haitAni sAmAni
+yanmahAvrataM tadasmintsarvaiH sAmabhI rasaM dadhAti tasminhotA mahatokthena
+rasaM dadhAti sarvA haitA R^ico yanmahadukthaM tadasmintsarvAbhirR^igbhI rasaM
+dadhAti 
+
+
+
+10.1.1.[6]
+
+te yadA stuvate yadAnushaMsati  athAsminnetaM vaShaTkR^ite juhoti tadenameSha
+raso'pyeti na vai mahAvratamidaM stutaM sheta iti pashyanti no
+mahadidamukthamityagnimeva pashyantyAtmA hyagnistadenamete ubhe raso
+bhUtvApIta R^ikca sAma ca tadubhe R^ikShAme yajurapItaH 
+
+
+
+10.1.1.[7]
+
+sa eSha mithuno'gniH  prathamA ca citirdvitIyA ca tR^itIyA ca caturthI cAtha pa¤camyai
+citeryashcite'gnirnidhIyate tanmithunam mithuna u evAyamAtmA
+
+
+
+10.1.1.[8]
+
+aN^guShThA iti pumAMsaH  aN^gulaya iti striyaH karNAviti pumAMsau bhruvAviti striyA
+oShThAviti pumAMsau nAsike iti striyau dantA iti pumAMso jihveti strI sarva eva
+mithunaH so'nena mithunenAtmanaitam mithunamagnimapyeti 
+
+
+
+10.1.1.[9]
+
+eShAtrApItiH  apyahaivam mithuna itthaM ha tvevApi mithuno vAgeveyaM
+yo'yamagnishcito vAcA hi cIyate'tha yashcite'gnirnidhIyate sa prANaH prANo vai vAco vR^iShA
+prANo mithunaM vAgvevAyamAtmAtha ya AtmanprANastanmithunaM so'nena
+mithunenAtmanaitam mithunamagnimapyeti
+
+
+
+10.1.1.[10]
+
+eSho atrApItiH  na ha vA asyAputratAyai kA cana shaN^kA bhavati ya evametau
+mithunAvAtmAnaM cAgniM ca vedAnnaM ha tvevAyamAtmA dakShiNAnnaM vanute yo na
+Atmeti hyapyR^iShiNAbhyuktam
+
+
+
+10.1.1.[11]
+
+tadidamannaM jagdhaM dvedhA bhavati  yadasyAmR^itamUrdhvaM tannAbherUrdhvai
+prANairuccarati tadvAyumapyetyatha yanmartyam parAk tannAbhimatyeti taddvayam
+bhUtvemAmapyeti mUtraM ca purIShaM ca tadyadimAmapyeti yo'yamagnishcitastaM
+tadapyetyatha yadvAyumapyeti yashcite'gnirnidhIyate taM tadapyetyeSho evAtrApItiH 
+
+
+
+10.1.2.[1]
+
+prajApatirimAMlokAnaipsat  sa etaM vayovidhamAtmAnamapashyadagniM taM vyadhatta
+tenemaM lokamApnotsa dvitIyaM vayovidhamAtmAnamapashyanmahAvrataM
+tadvyadhatta tenAntarikShamApnotsa tR^itIyaM
+vayovidhamAtmAnamapashyanmahadukthaM tadvyadhatta tena divamApnot 
+
+
+
+10.1.2.[2]
+
+ayaM vAva loka eSho'gnishcitaH  antarikSham mahAvrataM dyaurmahadukthaM
+tasmAdetAni sarvANi sahopeyAdagnim mahAvratam mahadukthaM saha hIme lokA
+asR^ijyanta tadyadagniH prathamashcIyate'yaM hyeShAM lokAnAm
+prathamo'sR^ijyatetyadhidevatam
+
+
+
+10.1.2.[3]
+
+athAdhyAtmam  mana evAgniH prANo mahAvrataM vAÇmahadukthaM tasmAdetAni
+sarvANi sahopeyAtsaha hi manaH prANo vAktadyadagniH prathamashcIyate mano hi
+prathamam prANAnAm 
+
+
+
+10.1.2.[4]
+
+AtmaivAgniH  prANo mahAvrataM vAÇ mahadukthaM tasmAdetAni sarvANi sahopeyAtsaha
+hyAtmA prANo vAktadyadagniH prathamashcIyata AtmA hi prathamaH sambhavataH
+sambhavati 
+
+
+
+10.1.2.[5]
+
+shira evAgniH  prANo mahAvratamAtmA mahadukthaM tasmAdetAni sarvANi sahopeyAtsaha
+hi shiraH prANa AtmA tadyadagniH prathamashcIyate shiro hi prathamaM jAyamAnasya
+jAyate tasmAdyatraitAni sarvANi saha kriyante mahadevokthamAtamAM khyAyata AtmA
+hi mahaduktham 
+
+
+
+10.1.2.[6]
+
+tadAhuH  yadetAni sarvANi saha durupApAni kaiteShAmupAptiriti jyotiShToma
+evAgniShTome jyotiShTomenaivAgniShTomena yajeta 
+
+
+
+10.1.2.[7]
+
+tasya vA etasya jyotiShTomasyAgniShTomasya  trivR^idbahiShpavamAnaM tadvratasya shiraH
+pa¤cadashasaptadashA uttarau pavamAnau tau pakShau pa¤cadashaM hoturAjyaM
+saptadasham pR^iShThamekaviMshaM yaj~nAyaj~niyaM tatpucam 
+
+
+
+10.1.2.[8]
+
+tayorvA etayoH  pa¤cadashasaptadashayordvAtriMshatstotriyAstato yAH pa¤caviMshatiH sa
+pa¤caviMsha AtmAtha yAH saptAtiyanti tAH parimAdaH pashavo haitAH pashavaH parimAda
+etAvadvai mahAvrataM tadetadatraiva mahAvratamApnoti 
+
+
+
+10.1.2.[9]
+
+atha hotA sapta candAMsi shaMsati  caturuttarANyekarcAni virADaShTamAni teShAM
+tisrashcAshItayo'kSharANi pa¤cacatvAriMshacca tato yA ashItayaH
+saivAshItInAmAptirashItibhirhi
+mahadukthamAkhyAyate'tha yAni pa¤cacatvAriMshattato yAni pa¤caviMshatiH sa
+pa¤caviMsha AtmA yatra vA AtmA tadeva shirastatpakShapucAnyatha yAni
+viMshatistadAvapanametAvadvai mahadukthaM tadetadatraiva mahadukthamApnoti tAni
+vA etAni sarvANi jyotiShToma evAgniShToma Apyante tasmAdu
+jyotiShTomenaivAgniShTomena yajeta 
+
+
+
+10.1.3.[1]
+
+prajApatiH prajA asR^ijata  sa Urdhvebhya eva prANebhyo devAnasR^ijata ye'vA¤caH
+prANAstebhyo martyAH prajA athordhvameva mR^ityum prajAbhyo'ttAramasR^ijata
+
+
+
+10.1.3.[2]
+
+tasya ha prajApateH  ardhameva martyamAsIdardhamamR^itaM tadyadasya
+martyamAsIttena mR^ityorabibhetsa bibhyAdimAm prAvishaddvayam bhUtvA mR^iccApashca 
+
+
+
+10.1.3.[3]
+
+sa mR^ityurdevAnabravIt  kva nu so'bhUdyo no'sR^iShTeti tvadbibhyadimAm prAvikShaditi
+so'bravIttaM vA anvicAma taM sambharAma na vA ahaM taM hiMsiShyAmIti taM devA asyA
+adhi samabharanyadasyApsvAsIttA apaH samabharannatha yadasyAM tAm mR^idaM
+tadubhayaM sambhR^itya mR^idaM cApashceShTakAmakurvaMstasmAdetadubhayamiShTakA
+bhavati mR^iccApashca 
+
+
+
+10.1.3.[4]
+
+tadetA vA asya tAH  pa¤ca martyAstanva AsaMloma tvaÇmAMsamasthi majjAthaitA amR^itA
+mano vAkprANashcakShuH shrotram 
+
+
+
+10.1.3.[5]
+
+sa yaH sa prajApatiH  ayameva sa yo'yamagnishcIyate'tha yA asya tAH pa¤ca
+martyAstanva AsannetAstAH purIShacitayo'tha yA amR^itA etAstA iShTakAcitayaH 
+
+
+
+10.1.3.[6]
+
+te devA abruvan  amR^itamimaM karavAmeti tasyaitAbhyAmamR^itAbhyAM tanUbhyAmetAm
+martyAM tanUm parigR^ihyAmR^itAmakurvanniShTakAcitibhyAm purIShacitiM tathA dvitIyAM
+tathA tR^itIyAM tathA caturthIm
+
+
+
+10.1.3.[7]
+
+atha pa¤camIM citimupadhAya  purIShaM nivapati tatra vakarNIM ca svayamAtR^iNAM
+copadadhAti hiraNyashakalaiH prokShatyagnimabhyAdadhAti sA saptamI
+citistadamR^itamevamasyaitAbhyAmamR^itAbhyAM tanUbhyAmetAm martyAM tanUm
+parigR^ihyAmR^itAmakurvanniShTakAcitibhyAm purIShacitiM tato vai
+prajApatiramR^ito'bhavattathaivaitadyajamAna etamamR^itamAtmAnaM kR^itvA so'mR^ito
+bhavati 
+
+
+
+10.1.3.[8]
+
+te vai devAstaM nAviduH  yadyenaM sarvaM vAkurvanna vA sarvaM yadyati vArecayanna
+vAbhyApayaMsta etAmR^icamapashyandhAmacadagnirindro brahmA devo bR^ihaspatiH 
+sacetaso vishve devA yaj~nam prAvantu naH shubha iti
+
+
+
+10.1.3.[9]
+
+tasyA astyevAgneyam  astyaindramasti vaishvadevaM tadyadasyA AgneyaM
+yadevaitasyAgnerAgneyaM tadasya tena samaskurvanyadaindraM tadaindreNa
+yadvaishvadevaM tadvaishvadevena tamatraiva sarvaM kR^itsnaM samaskurvan 
+
+
+
+10.1.3.[10]
+
+tadyadetayopatiShThate  yadevAsyAtra vidvAnvAvidvAnvAti vA recayati na vAbhyApayati
+tadevAsyaitayA sarvamApnoti yadasya kiM cAnAptamanuShTubdhAmacadbhavati vAgvA
+anuShTubvAgdhAmacadvAcaivAsya tadApnoti yadasya kiM cAnAptam purIShavatIM citiM
+kR^itvopatiShThetetyu haika Ahustatra hisA sarvA kR^itsnA bhavatIti
+
+
+
+10.1.3.[11]
+
+tadu vA AhuH  yaviShThavatyaivopatiShThetaitaddhAsya priyaM dhAma yadyaviShTha iti
+tadyadasya priyaM dhAma tenAsya tadApnoti yadasya kiM cAnAptamAgneyyAgnikarma
+hi gAyatryAgAyatro'gniryAvAnagniryAvatyasya mAtrA tAvataivasya ta dApnoti yadasya
+kiM cAnAptamaniruktayA sarvaM vA aniruktaM sarveNaivAsya tadApnoti yadasya kiM
+cAnAptaM tvaM yaviShTha dAshuSha iti tasyokto bandhuH purIShavatIM citiM
+kR^itvopatiShTheta tatra hi sA sarvA kR^itsnA bhavati 
+
+
+
+10.1.4.[1]
+
+ubhayaM haitadagre prajApatirAsa  martyaM caivAmR^itaM ca tasya prANA evAmR^itA AsuH
+sharIram martyaM sa etena karmaNaitayAvR^itaikadhAjaramamR^itamAtmAnamakuruta
+tathaivaitadyajamAna ubhayameva bhavati martyaM caivAmR^itaM ca tasya prANA evAmR^itA
+bhavanti sharIram martyaM sa etena karmaNaitayAvR^itaikadhAjaramamR^itamAtmAnaM
+kurute 
+
+
+
+10.1.4.[2]
+
+sa prathamAM citiM cinoti  sA hAsyaiShA prANa eva tadvai tadamR^itamR^itaM hi prANaH
+saiShAmR^itacitiratha purIShaM nivapati taddhAsyaitanmajjaiva tadvai tanmartyam
+martyo hi majjA tadetasminnamR^ite pratiShThApayati tenAsyaitadamR^itam bhavati 
+
+
+
+10.1.4.[3]
+
+dvitIyAM citiM cinoti  sA hAsyaiShApAna eva tadvai tadamR^itamamR^itaM hyapAnaH
+saiShAmR^itacitistadetanmartyamubhayato'mR^itena parigR^ihNAti tenAsyaitadamR^itam
+bhavatyatha purIShaM nivapati taddhAsyaitadasthyeva tadvai tanmartyam martyaM
+hyasthi tadetasminnamR^ite pratiShThApayati tenAsyaitadamR^itam bhavati
+
+
+
+10.1.4.[4]
+
+tR^itIyAM citiM cinoti  sA hAsyaiShA vyAna eva tadvai tadamR^itamamR^itaM hi vyAnaH
+saiShAmR^itacitistadetanmartyamubhayato'mR^itena parigR^ihNAti tenAsyaitadamR^itam
+bhavatyatha purIShaM nivapati taddhAsyaitatsnAvaiva tadvai tanmartyaM hi snAva
+tadetasminnamR^ite pratiShThApayati tenAsyaitadamR^itam bhavati 
+
+
+
+10.1.4.[5]
+
+caturthIM citiM cinoti  sA hAsyaiShodAna eva tadvai tadamR^itamamR^itam hyudAnaH
+saiShAmR^itacitistadetanmartyamubhayato'mR^itena parigR^ihNAti tenAsyaitadamR^itam
+bhavatyatha purIShaM nivapati taddhAsyaitanmAMsameva tadvai tanmartyam martyaM
+hi mAMsaM tadetasminnamR^ite pratiShThApayati tenAsyaitadamR^itam bhavati
+
+
+
+10.1.4.[6]
+
+pa¤camIM citiM cinoti  sA hAsyaiShA samAna eva tadvai tadamR^itamamR^itaM hi samAnaH
+saiShAmR^itacitistadetanmartyamubhayato'mR^itena parigR^ihNAti tenAsyaitadamR^itam
+bhavatyatha purIShaM nivapati taddhAsyaitanmeda eva tadvai tanmartyam martyaM hi
+medastadetasminnamR^ite pratiShThApayati tenAsyaitadamR^itam bhavati 
+
+
+
+10.1.4.[7]
+
+ShaShThIM citiM cinoti  sA hAsyaiShA vAgevatadvai tadamR^i tamamR^itaM hi
+vAkShaiShAmR^itacitistadetanmartyamubhayato'mR^itena parigR^ihNAti tenAsyaitadamR^itam
+bhavatyatha puriShaM nivapati taddhAsyaitadasR^igeva tvageva tadvai tanmartyam
+martyaM hyasR^iÇmartyA tvaktadetasminnamR^ite pratiShThApayati tenAsyaitadamR^itam
+bhavati
+
+
+
+10.1.4.[8]
+
+tA vA etAH  ShaDiShTakAcitayaH ShaT purIShacitayastaddvAdasha dvAdasha mAsAH
+saMvatsaraH
+saMvatsaro'gniryAvAnagniryAvatyasya mAtrA tAvataiva
+tatprajApatirekadhAjaramamR^itamAtmAnamakuruta tathaivaitadyajamAna
+ekadhAjaramamR^itamAtmAnaM kurute 
+
+
+
+10.1.4.[9]
+
+atha vikarNIM ca svayamAtR^iNAM copadhAya  hiraNyashakalaiH
+prokShatyagnimabhyAdadhAti rUpameva tatprajApatirhiraNmayamantata Atmano'kuruta
+tadyadantatastasmAdidamantyamAtmano rUpaM tasmAdAhurhiraNmayaH prajApatiriti
+tathaivaitadyajamAno rUpameva hiraNmayamantata AtmanaH kurute
+tadyadantatastasmAdidamantyamAtmano rUpaM tasmAdye caitadvidurye ca na
+hiraNmayo'gnicidamuShmiMloke sambhavatItyevAhuH
+
+
+
+10.1.4.[10]
+
+taddhaitacANDilyashca sAptarathavAhanishca  AcAryAntevAsibau vyUdAte
+rUpamevAsyaitaditi ha smAha shANDilyo lomAnIti sAptarathavAhaniH
+
+
+
+10.1.4.[11]
+
+sa hovAca shANDilyaH  rUpaM vAva lomavadrUpamalomakaM rUpamevAsyaitaditi tadvai
+tattathA yathA tacANDilya uvAca saMcite'gniH praNIyate praNItAdUrdhvaM samidha
+Ahutaya iti hUyante 
+
+
+
+10.1.4.[12]
+
+prANena vai devA annamadanti  agniru devAnAm prANastasmAtprAgdevebhyo juhvati
+prANena hi devA annamadantyapAnena manuShyA annamadanti
+tasmAtpratyaÇmanuShyeShvannaM dhIyate'pAnena hi manuShyA annamadanti
+
+
+
+10.1.4.[13]
+
+tadAhuH  na vayaso'gnicidashnIyAdvayo vA eSha rUpam bhavati yo'gniM cinuta Ishvara
+ArtimAtostasmAnna vayaso'gnicidashnIyAditi tadvai kAmamevaivaMvidashnIyAdagnervA
+eSha rUpam bhavati yo'gniM cinute sarvaM vA idamagnerannaM sarvam ma
+idamannamityevaivaMvidvidyAditi 
+
+
+
+10.1.4.[14]
+
+tadAhuH  kiM tadagnau kriyate yena yajamAnaH punarmR^ityumapajayatItyagnirvA eSha
+devatA bhavati yo'gniM cinute'mR^itamu vA agniH shrIrdevAH shriyaM gacati yasho devA yasho
+ha bhavati ya evaM veda 
+
+
+
+10.1.5.[1]
+
+sarve haite yaj~nA yo'yamagnishcitaH  sa yatpashumAlabhate tadagnyAdheyamatha
+yadukhAM sambharati tAnyagnyAdheyahavImShyatha yaddIkShate tadagnihotramatha
+yaddIkShitaH samidhAvAdadhAti te agnihotrAhutI
+
+
+
+10.1.5.[2]
+
+te vai sAyamprAtarAdadhAti  sAyamprAtarhyagnihotrAhutI juhvati samAnena mantreNa
+samAnena hi mantreNAgnihotrAhutI juhvatyatha yadvanIvAhanaM ca
+bhasmanashcAbhyavaharaNaM tau darshapUrNamAsAvatha yadgArhapatyaM cinoti tAni
+cAturmAsyAnyatha yadUrdhvaM gArhapatyAdA sarvauShadhAttA iShTayo'tha yadUrdhvaM
+sarvauShadhAtprAcInaM citibhyaste pashubandhA ya evaiteShu yaj~neShu viShNukramAste
+viShNukramA yajjapyaM tadvAtsapram 
+
+
+
+10.1.5.[3]
+
+saumyo'dhvaraH prathamA citiH  yatprAcInaM savebhyo rAjasUyo dvitIyA
+vAjapeyastR^itIyAshvamedhashcaturthyagnisavaH pa¤camI yaishcitaM sAmabhiH parigAyati
+tanmahAvratamatha yattatrodgAtuH purastAjjapyaM tacatarudriyaM vasordhArA
+mahadukthamatha yadUrdhvaM sAmabhyaH prAcInaM vasordhArAyai yadeva tatra hotuH
+purastAjjapyaM tattadatha yadUrdhvaM vasordhArAyai te gR^ihamedhA etAvanto vai sarve
+yaj~nAstAnagninApnoti 
+
+
+
+10.1.5.[4]
+
+athAto yaj~navIryANAmeva  sAyamprAtarha vA amuShmiMloke'gnihotrahudashnAti tAvatI
+ha tasminyaj~na UrgardhamAse'rdhamAse darshapUrNamAsayAjI caturShu-caturShu
+mAseShu cAturmAsyayAjI ShaTsu-ShaTsu pashubandhayAjI saMvatsare-saMvatsare somayAjI
+shate-shate saMvatsareshvagnicitkAmamashnAti kAmaM na taddhaitadyAvacataM
+saMvatsarAstAvadamR^itamanantamaparyantaM sa so haitadevaM vedaivaM
+haivAsyaitadamR^itamanantamaparyantam bhavati tasya
+yadapIShIkayevopahanyAttadevAsyAmR^itamanantamaparyantam bhavati
+
+
+
+10.2.1.[1]
+
+prajApatiH svargaM lokamajigAMsat  sarve vai pashavaH prajApatiH puruSho'shvo
+gauravirajaH sa etai rUpairnAshaknotsa etaM vayovidhamAtmAnamapashyadagniM taM
+vyadhatta so'nupasamuhyAnupAdhAyodapipatiShatsa nAshaknotsa
+upasamuhyopadhAyodapatattasmAdapyetarhi vayAMsi yadaiva pakShA upasamUhante
+yadA patrANi visR^ijante'thotpatituM shaknuvanti 
+
+
+
+10.2.1.[2]
+
+taM vA aN^gulibhirmimIte  puruSho vai yaj~nastenedaM sarvam mitaM tasyaiShAvamA
+mAtrA yadaN^gulayastadyAsyAvamA mAtrA tAmasya tadApnoti tayainaM tanmimIte 
+
+
+
+10.2.1.[3]
+
+caturviMshatyAN^gulibhirmimIte  caturviMshatyakSharA vai gAyatrI
+gAyatro'gniryAvAnagniryAvatyasya mAtrA tAvataivainaM tanmimIte 
+
+
+
+10.2.1.[4]
+
+sa caturaN^gulamevobhayato'ntarata upasamUhati  caturaN^gulamubhayato bAhyato
+vyudUhati tadyAvadevopasamUhati tAvadvyudUhati tannAhaivAtirecayati no kanIyaH
+karoti tathA pucasya tathottarasya pakShasya 
+
+
+
+10.2.1.[5]
+
+atha nirNAmau pakShayoH karoti  nirNAmau hi vayasaH pakShayorbhavato vitR^itIye
+vitR^itIye hi vayasaH pakShayornirNAmau bhavato'ntare vitR^itIye'ntare hi vitR^itIye vayasaH
+pakShayornirNAmau bhavataH sa caturaN^gulameva purastAdudUhati caturaN^gulam
+pashcAdupasamUhati tadyAvadevodUhati tAvadupasamUhati tannAhaivAtirecayati no
+kanIyaH karoti
+
+
+
+10.2.1.[6]
+
+sa tasminnirNAme  ekAmiShTakAmupadadhAti tadyeyaM vayasaH patato nirNAmAdekA
+nADyupashete tAM tatkarotyatho idam
+
+
+
+10.2.1.[7]
+
+atha vakrau karoti  vakrau hi vayasaH pakShau bhavataH sa caturaN^gulameva
+pashcAdudUhati caturaN^gulam purastAdupasamUhati tadyAvadevodUhati
+tAvadupasamUhati tannAhaivAtirecayati no kanIyaH karoti
+
+
+
+10.2.1.[8]
+
+atha rUpamUttamaM karoti  atraiSha sarvo'gniH saMskR^itastasmindevA
+etadrUpamuttamamadadhustathaivAsminnayametadrUpamuttamaM dadhAti sa
+sahasramR^ijvAlikhitA iShTakAH karoti sahasramityAlikhitAH sahasramityAlikhitAH
+
+
+
+10.2.1.[9]
+
+atha pa¤camIM citimupadhAya  tredhAgniM vimimIte sa madhyame vitR^itIye
+sahasramR^ijvAlikhitA iShTakA upadadhAti tadyAnImAni vayasaH pratya¤ci shIrShNa A
+pucAdR^ijUni lomAni tAni tatkaroti
+
+
+
+10.2.1.[10]
+
+atha sahasramityAlikhitA dakShiNata upadadhAti  tadyAnImAni vayaso dakShiNato
+vakrANi lomAni tAni tatkaroti 
+
+
+
+10.2.1.[11]
+
+atha sahasramityAlikhitA uttarata upadadhAti  tadyAnImAni vayasa uttarato vakrANi
+lomAni tAni tatkaroti sahasreNa sarvaM vai sahasraM
+sarveNaivAsminnetadrUpamuttamaM dadhAti tribhiH
+sahasraistrivR^idagniryAvAnagniryAvatyasya mAtrA tAvataivAsminnetadrUpamuttamaM
+dadhAti
+
+
+
+10.2.2.[1]
+
+yAnvai tAntsapta puruShAn  ekam puruShamakurvantsa prajApatirabhavatsa prajA
+asR^ijata sa prajAH sR^iShTvordhva udakrAmatsa etaM lokamagacadyatraiSha etattapati no
+ha tarhyanya etasmAdatra yaj~niya Asa taM devA yaj~nenaiva yaShTumadhriyanta 
+
+
+
+10.2.2.[2]
+
+tasmAdetadR^iShiNAbhyanUktam  yaj~nena yaj~namayajanta devA iti yaj~nena hi taM
+yaj~namayajanta devAstAni dharmANi prathamAnyAsanniti te hi dharmAH
+prathame'kriyanta te ha nAkam mahimAnaH sacanteti svargo vai loko nAko devA
+mahimAnaste devAH svargaM lokaM sacanta ye taM yaj~namayajannityetat 
+
+
+
+10.2.2.[3]
+
+yatra pUrve sAdhyAH santi devA iti  prANA vai sAdhyA devAsta etamagra
+evamasAdhayannetadeva bubhUShantasta u evApyetarhi sAdhayanti
+pashcedamanyadabhavadyajatramamartyasya bhuvanasya bhUneti
+pashcAhaivedamanyadyaj~niyamAsa yatkiM cAmR^itam 
+
+
+
+10.2.2.[4]
+
+suparNo aN^gaM saviturgarutmAn  pUrvo jAtaH sa u asyAnu dharmeti prajApatirvai
+suparNo garutmAneSha savitaitasya prajApatiranu dharmanityetat
+
+
+
+10.2.2.[5]
+
+sa vai saptapuruSho bhavati  saptapuruSho hyayam puruSho yaccatvAra AtmA trayaH
+pakShapucAni catvAro hi tasya puruShasyAtmA trayaH pakShapucAni
+
+
+
+10.2.2.[6]
+
+taM vA udbAhunA puruSheNa mimIte  puruSho vai yaj~nastenedaM sarvam mitaM
+tasyaiShA paramA mAtrA yadudbAhustadyAsya paramA mAtrA tAmasya tadApnoti
+tayainaM tanmimIte tatropa yatprapadenAbhyucrito bhavati tatparishridbhirApnoti
+tasmAdu bAhyenaiva lekhAm parishridbhyaH khanet
+
+
+
+10.2.2.[7]
+
+atha pakShayoraratnI upAdadhAti  pakShayostadvIryaM dadhAti bAhU vai pakShau
+bAhubhyAmu vA annamadyate'nnAyaiva tamavakAshAM karoti tadyatpakShayoraratnI
+upAdadhAtyaratnimAtrAddhyannamadyate
+
+
+
+10.2.2.[8]
+
+atha puce vitastimupAdadhAti  pratiShThAyAM tadvIryaM dadhAti pratiShThA vai pucaM
+hasto vitastirhastena vA annamadyate'nnAyaiva tamavakAshaM karoti tadyatpuce
+vitastimupAdadhAtyanna evainaM tatpratiShThApayati tadyattatra kanIya
+upAdadhAtyannehyevainaM tatpratiShThApayatyatho etAvadvA idam mitam
+bhavatyetAvadidaM tadyadevam mimIta etasyaivAptyai
+
+
+
+10.2.3.[1]
+
+yA vA iyaM vediH saptavidhasya  eShA vedermAtrA sa devayajanamadhyavasAya pUrvayA
+dvArA patnIshAlam prapadya gArhapatyAyoddhatyAvokShati gArhapatyasyoddhatAtsapta
+prAcaH prakramAnprakrAmati tataH prA¤caM vyAmaM vimimIte tasya madhya
+AhavanIyAyoddhatyAvokShati pUrvArdhAdvyAmasya trInprAcaH prakramAnprakrAmati
+sa
+vedyantaH 
+
+
+
+10.2.3.[2]
+
+te vA ete  vyAmaikAdashAH prakramA antarA vedyantaM ca gArhapatyaM caikAdashAkSharA
+triShTubvajrastriShTubvIryaM triShTubvajreNaivaitadvIryeNa yajamAnaH
+purastAdyaj~namukhAdrakShAMsi nAShTrA apahanti 
+
+
+
+10.2.3.[3]
+
+saiShA vederyoniH  etasyai vai yonerdevA vedim prAjanayannatha ya eSha vyAmaH sA
+gArhapatyasya yoniretasyai vai yonerdevA gArhapatyam
+prAjanayangArhapatyAdAhavanIyam 
+
+
+
+10.2.3.[4]
+
+sa vedyantAt  ShaTtriMshatprakramAm prAcIM vediM vimimIte triMshatam pashcAttirashcIM
+caturviMshatim purastAttannavatiH saiShA navatiprakramA vedistasyAM saptavidhamagniM
+vidadhAti 
+
+
+
+10.2.3.[5]
+
+tadAhuH  kathameSha saptavidha etayA vedyA sampadyata iti dasha vA ime puruShe
+prANAshcatvAryaN^gAnyAtmA pa¤cadasha evaM dvitIya evaM tR^itIye ShaTsu puruSheShu
+navatirathaikaH puruSho'tyeti pAN^kto vai puruSho loma tvaÇmAMsamasthi majjA pAN^kto
+iyaM vedishcatasro disha AtmA pa¤camyevameSha saptavidha etayA vedyA sampadyate
+
+
+
+10.2.3.[6]
+
+taddhaike  uttarA vidhA vidhAsyanta etAMshca prakramAnetaM ca
+vyAmamanuvardhayanti yonimanuvardhayAma iti na tathA kuryAnna vai jAtaM
+garbhaM yoniranuvardhate yAvadvAva yonAvantargarbho bhavati tAvadeva
+yonirvardhata etAvatyu vA atra garbhasya vR^iddhiH
+
+
+
+10.2.3.[7]
+
+te ye ha tathA kurvanti  etaM ha te pitaram prajApatiM sampadashcyAvayanti ta iShTvA
+pApIyAMso bhavanti pitaraM hi prajApatiM sampadashcyAvayanti sA yAvatyeShA
+saptavidhasya vedistAvatIM caturdasha kR^itva ekashatavidhasya vediM vimimIte 
+
+
+
+10.2.3.[8]
+
+atha ShaTtriMshatprakramAM rajjum mimIte  tAM saptadhA samasyati tasyai
+trInbhAgAnprAca upadadhAti niHsR^ijati caturaH
+
+
+
+10.2.3.[9]
+
+atha triMshatprakramAm mimIte  tAM saptadhA samasyati tasyai
+trInbhAgAnpashcAdupadadhAti niHsR^ijati caturaH
+
+
+
+10.2.3.[10]
+
+atha caturviMshatiprakramAm mimIte  tAM saptadhA samasyati tasyai
+trInbhAgAnpurastAdupadadhAti niHsR^ijati catura iti nu vedivimAnam 
+
+
+
+10.2.3.[11]
+
+athAgnervidhAH  aShTAviMshatiH prA¤caH puruShA aShTAviMshatistirya¤caH sa AtmA
+caturdasha
+puruShA dakShiNaH pakShashcaturdashottarashcaturdasha pucaM caturdashAratnIndakShiNe
+pakSha upadadhAti caturdashottare caturdasha vitastIH puca iti nvaShTAnavateH
+puruShANAm mAtrA sAdhimAnAnAm 
+
+
+
+10.2.3.[12]
+
+atha tripuruShAM rajjum mimIte  tAM saptadhA samasyati tasyai caturo
+bhAgAnAtmannupadadhAti trInpakShapuceShu
+
+
+
+10.2.3.[13]
+
+athAratnimAtrIm mimIte  tAM saptadhA samasyati tasyai trInbhAgAndakShiNe pakSha
+upadadhAti trInevottare niHsR^ijati caturaH 
+
+
+
+10.2.3.[14]
+
+atha vitastimAtrIm mimIte  tAM saptadhA samasyati tasyai trInbhAgAnpuca upadadhAti
+niHsR^ijati catura evameSha ekashatavidha etayA vedyA sampadyate 
+
+
+
+10.2.3.[15]
+
+tadAhuH  yattrayodasha puruShA atiyanti kathamete sampado na cyavanta iti yA vA
+etasya saptamasya puruShasya sampatsaivaiteShAM sarveShAM sampat 
+
+
+
+10.2.3.[16]
+
+atho AhuH  prajApatirevAtmAnaM vidhAya tasya yatra-yatra nyUnamAsIttadetaiH
+samApUrayata teno evApi sampanna iti
+
+
+
+10.2.3.[17]
+
+taddhaike  ekavidham prathamaM vidadhatyathaikottaramAparimitavidhAnna tathA
+kuryAt
+
+
+
+10.2.3.[18]
+
+saptavidho vA agre prajApatirasR^ijyata  sa AtmAnaM vidadhAna aitsa
+ekashatavidhe'tiShThata sa yo'rvAcInaM saptavidhAdvidhatta etaM ha sa pitaram
+prajApatiM vicinatti sa iShTvA pApIyAnbhavati yathA shreyAMsaM hiMsitvAtha sa
+ekashatavidhamatividhatte'smAtsa sarvasmAdbahirdhA niShpadyate sarvamu hIdam
+prajApatistasmAdu saptavidhameva prathamaM
+vidadhItAthaikottaramaikashatavidhAdekashatavidhaM tu nAtividadhIta nAhaitam
+pitaram prajApatiM vicinatti no asmAtsarvasmAdbahirdhA niShpadyate
+
+
+
+10.2.4.[1]
+
+saMvatsaro vai prajApatiH  agniru sarve kAmAH so'yaM saMvatsaraH
+prajApatirakAmayatAgniM sarvAnkAmAnAtmAnamabhisaMcinvIyeti sa ekashatadhAtmAnaM
+vyadhatta sa ekashatadhAtmAnaM vidhAyAgniM sarvAnkAmAnAtmAnamabhisamacinuta sa
+sarve kAmA abhavattasmAnna kashcana bahirdhA kAmo'bhavattasmAdAhuH saMvatsaraH
+sarve kAmA iti na ha saMvatsarAtkashcana bahirdhA kAmo'sti 
+
+
+
+10.2.4.[2]
+
+tathaivaitadyajamAnaH  ekashatadhAtmAnaM vidhAyAgniM
+sarvAnkAmAnAtmAnamabhisaMcinute sa sarve kAmA bhavati tasmAnna kashcana
+bahirdhA kAmo bhavati
+
+
+
+10.2.4.[3]
+
+sa yaH sa saMvatsaro'sau sa AdityaH  sa eSha ekashatavidhastasya rashmayaH shataM vidhA
+eSha evaikashatatamo ya eSha tapatyasmintsarvasminpratiShThitastathaivaitadyajamAna
+ekashatadhAtmAnaM vidhAyAsmintsarvasminpratitiShThati 
+
+
+
+10.2.4.[4]
+
+atha vA ekashatavidhaH  saptavidhamabhisampadyata ekashatadhA vA asAvAdityo vihitaH
+saptasu devalokeShu pratiShThitaH sapta vai devalokAshcatasro dishastraya ime lokA ete
+vai sapta devalokAsteShveSha pratiShThitastathaivaitadyajamAna ekashatadhAtmAnaM
+vidhAya saptasu devalokeShu pratitiShThati
+
+
+
+10.2.4.[5]
+
+yadvevaikashatavidhaH  saptavidhamabhisampadyata ekashatadhA vA asAvAdityo vihitaH
+saptasvR^ituShu saptasu stomeShu saptasu pR^iShTheShu saptasu candaHsu saptasu prANeShu
+saptasu dikShu pratiShThitastathaivaitadyajamAna ekashatadhAtmAnaM
+vidhAyaitasmintsarvasminpratitiShThati 
+
+
+
+10.2.4.[6]
+
+yadvevaikashatavidhaH saptavidhamabhisampadyata ekashatadhA vA asAvAdityo vihitaH
+saptAkShare brahmanpratiShThitaH saptAkSharaM vai brahmargityekamakSharaM yajuriti
+dve sAmeti dve atha yadato'nyadbrahmaiva taddvyakSharaM vai brahma tadetatsarvaM
+saptAkSharam brahma tasminneSha pratiShThitastathaivaitadyajamAna
+ekashatadhAtmAnaM vidhAya saptAkShare brahmanpratitiShThati 
+
+
+
+10.2.4.[7]
+
+tasmAdu saptabhiH-saptabhiH parishrayanti  tasmAdekashatavidhaH
+saptavidhamabhisampadyate'tha vai saptavidha ekashatavidhamabhisampadyate 
+
+
+
+10.2.4.[8]
+
+
+saptavidho vA agre prajApatirasR^ijyata  sa etamekashatadhAtmAnaM
+vihitamapashyatprANabhR^itsu pa¤cAshadiShTakAH pa¤cAshadyajUMShi tacataM sAdanaM ca
+sUdadohAshcaika=\atatame tatsamAnaM sAdayitvA hi sUdadohasAdhivadati sa
+etenaikashatavidhenAtmanemAM jitimajayadimAM vyaShTiM vyAshnuta
+tathaivaitadyajamAna etenaikashatavidhenAtmanemAM jitiM jayatImAM vyaShTiM
+vyashnuta evamu saptavidha ekashatavidhamabhisampadyate sa ya evaikashatavidhaH sa
+saptavidho yaH saptavidhaH sa ekashatavidha iti nu vidhAnam 
+
+
+
+10.2.5.[1]
+
+athAtashcayanasyaiva  antaropasadau cinotyetadvai devA abibhayuryadvai na imamiha
+rakShAMsi nAShTrA na hanyuriti ta etAH puro'pashyannupasada imAneva lokAnime vai
+lokAH purastAH prApadyanta tAH prapadyAbhaye'nAShTra etamAtmAnaM samaskurvata
+tathaivaitadyajamAna etAH puraH prapadyAbhaye'nAShTra etamAtmAnaM saMskurute
+
+
+
+10.2.5.[2]
+
+yadvevAntaropasadau cinoti  etadvai devA abibhayuryadvai na imamiha rakShAMsi
+nAShTrA na hanyuriti ta etAnvajrAnapashyannupasado vajrA vA upasadastAnprApadyanta
+tAnprapadyAbhaye'nAShTra etamAtmAnaM samaskurvata tathaivaitadyajamAna
+etAnvajrAnprapadyAbhaye'nAShTra etamAtmAnaM saMskurute
+
+
+
+10.2.5.[3]
+
+etadu ha yaj~ne tapaH  yadupasadastapo vA upasadastadyattapasi cIyate
+tasmAttApashcitastadvai yAvadevopasadbhishcaranti tAvatpravargyeNa
+saMvatsaramevopasadbhishcaranti saMvatsaram pravargyeNa 
+
+
+
+10.2.5.[4]
+
+ahorAtrANi vA upasadaH  AdityaH pravargyo'muM tadAdityamahorAtreShu
+pratiShThApayati tasmAdeSho'horAtreShu pratiShThitaH 
+
+
+
+10.2.5.[5]
+
+atha yadi caturviMshatiH  caturviMshatirvA ardhamAsA ardhamAsA upasada AdityaH
+pravargyo'muM tadAdityamardhamAseShu pratiShThApayati tasmAdeSho'rdhamAseShu
+pratiShThitaH
+
+
+
+10.2.5.[6]
+
+atha yadi dvAdasha  dvAdasha vai mAsA mAsA upasada AdityaH pravargyo'muM
+tadAdityam mAseShu pratiShThApayati tasmAdeSha mAseShu pratiShThitaH 
+
+
+
+10.2.5.[7]
+
+atha yadi ShaT  ShaDvA R^itava R^itava upasada AdityaH pravargyo'muM tadAdityamR^ituShu
+pratiShThApayati tasmAdeSha R^ituShu pratiShThitaH 
+
+
+
+10.2.5.[8]
+
+atha yadi tisraH  trayo vA ime lokA ime lokA upasada AdityaH pravargyo'muM
+tadAdityameShu lokeShu pratiShThApayati tasmAdeSha eShu lokeShu pratiShThitaH
+
+
+
+10.2.5.[9]
+
+athAtashcitipurIShANAmeva mImAMsA  mAsam prathamA citirmAsam
+purIShametAvAnvAsantika R^itau kAmastadyAvAnvAsantika R^itau kAmastaM
+tatsarvamAtmAnamabhisaMcinute
+
+
+
+10.2.5.[10]
+
+mAsaM dvitIyA  mAsam purIShametAvAngraiShma R^itau kAmastadyAvAngraiShma R^itau
+kAmastaM tatsarvamAtmAnamabhisaMcinute 
+
+
+
+10.2.5.[11]
+
+mAsaM tR^itIyA  mAsam purIShametAvAnvArShika R^itau kAmastadyAvAnvArShika R^itau
+kAmastaM tatsarvamAtmAnamabhisaMcinute 
+
+
+
+10.2.5.[12]
+
+mAsaM caturthI  mAsam purIShametAvA¤cArada R^itau kAmastadyAvA¤cArada R^itau
+kAmastaM tatsarvamAtmAnamabhisaMcinute 
+
+
+
+10.2.5.[13]
+
+atha pa¤camyai citeH  asapatnA virAjashca prathamAhamupadadhAti stomabhAgA
+ekaikAmanvahaM tAH skR^itsAdayati sakR^itsUdadohasAdhivadati tUShNIm mAsaM
+stomabhAgApurIShamabhiharantyetAvAnhaimantika stau kAmastadyAvAnhaimantika
+R^itau kAmastaM tatsarvamAtmAnamabhisaMcinute 
+
+
+
+10.2.5.[14]
+
+mAsaM ShaShThI  mAsam purIShametAvA¤caishira R^itau kAmastadyAvA¤caishira R^itau
+kAmastaM tatsarvamAtmAnamabhisaMcinuta etAvAnvai dvAdashasu mAseShu kAmaH
+ShaTsvR^ituShu tadyAvAndvAdashasu mAseShu kAmaH ShaTsvR^ituShu taM
+tatsarvamAtmAnamabhisaMcinute
+
+
+
+10.2.5.[15]
+
+atha trINyahAnyupAtiyanti  yadahaH shatarudriyaM juhoti yadaharupavasatho yadahaH
+prasutastadyatteShvahaHsUpasadA caranti tAni tasya mAsasyAhorAtrANyatha
+yatpravargyeNa tadu tasminnR^itAvAdityam pratiShThApayatyetAvAnvai trayodashasu
+mAseShu kAmaH saptasvR^ituShu tadyAvAMstrayodashasu mAseShu kAmaH saptasvR^ituShu taM
+tatsarvamAtmAnamabhisaMcinute 
+
+
+
+10.2.5.[16]
+
+sa saMvatsaram prasutaH syAt  sarvaM vai saMvatsaraH sarvamekashatavidhaH sarveNaiva
+tatsarvamApnoti yadi saMvatsaraM na shaknuyAdvishvajitA sarvapR^iShThenAtirAtreNa yajeta
+tasmintsarvavedasaM dadyAtsarvaM vai vishvajitsarvapR^iShTho'tirAtraH sarvaM
+sarvavedasaM sarvamekashatavidhaH sarveNaiva tatsarvamApnoti
+
+
+
+10.2.6.[1]
+
+saMvatsaro vai prajApatirekashatavidhaH  tasyAhorAtrANyardhamAsA mAsA R^itavaH
+ShaShTirmAsasyAhorAtrANi mAsi vai saMvatsarasyAhorAtrANyApyante
+caturviMshatirardhamAsAstrayodasha mAsAstraya R^itavastAH shataM vidhAH saMvatsara
+evaikashatatamI vidhA 
+
+
+
+10.2.6.[2]
+
+sa R^itubhireva saptavidhaH  ShaDR^itavaH saMvatsara eva saptamI vidhA tasyaitasya
+saMvatsarasyaitattejo ya eSha tapati tasya rashmayaH shataM vidhA
+maNDalamevaikashatatamI vidhA
+
+
+
+10.2.6.[3]
+
+sa digbhireva saptavidhaH  ye prAcyAM dishi rashmayaH saikA vidhA ye dakShiNAyAM saikA
+ye pratIcyAM saikA ya udIcyAM saikA ya UrdhvAyAM saikA ye'vAcyAM saikA maNDalameva
+saptamI vidhA
+
+
+
+10.2.6.[4]
+
+tasyaitasya purastAtkAmapro lokaH  amR^itaM vai kAmapramamR^itamevAsya
+tatparastAttadyattadamR^itametattadyadetadarcirdIpyate 
+
+
+
+10.2.6.[5]
+
+tadetadvasucitraM rAdhaH  tadeSha savitA vibhaktAbhyaH prajAbhyo
+vibhajatyapyoShadhibhyo'pi vanaspatibhyo bhUya-iva ha tvekAbhyaH prayacati kanIya
+ivaikAbhyastadyAbhyo bhUyaH prayacati tA jyoktamAM jIvanti yAbhyaH kanIyaH
+kanIyastAH
+
+
+
+10.2.6.[6]
+
+tadetadR^icAbhyuktaM vibhaktAraM havAmahe vasoshcitrasya rAdhasaH  savitAraM
+nR^icakShasamiti tadetatsarvamAyurdIrghamanantaM hi tadyadidamAhurdIrghaM ta
+Ayurastu sarvamAyurihItyeSha te loka etatte'stviti haivaitat
+
+
+
+10.2.6.[7]
+
+pashyantI vAgvadati  tadetadekashatavidhena vaivAptavyaM shatAyutayA vA ya
+evaikashatavidhaM vidhatte yo vA shatam- varShANi jIvati sa haivaitadamR^itamApnoti
+tasmAdye caitadvidurye ca na lokyA shatAyutetyevAhustasmAdu ha na purAyuShaH
+svakAmI preyAdalokyaM haita u vAva lokA yadahorAtrANyardhamAsA mAsA R^itavaH
+saMvatsaraH 
+
+
+
+10.2.6.[8]
+
+tadye'rvAgviMsheShu varSheShu prayanti  ahorAtreShu te lokeShu sajyante'tha ye
+paroviMsheShvarvAkcatvAriMsheShvardhamAseShu te'tha ye
+parashcatvAriMsheShvarvAkShaShTeShu mAseShu te'tha ye paraHShaShTeShvarvAgashIteShvR^ituShu
+te'tha ye paro'shIteShvarvAkshateShu saMvatsare te'tha ya eva shataM varShANi yo vA
+bhUyAMsi jIvati sa haivaitadamR^itamApnoti 
+
+
+
+10.2.6.[9]
+
+bahubhirha vai yaj~naiH  ekamaharekA rAtrirmitA sa ya evaikashatavidhaM vidhatte yo
+vA shataM varShANi jIvati sa haivainadaddhAtamAmApnotyeSha vA ekashatavidhaM vidhatte
+ya enaM saMvatsaraM bibharti tasmAdenaM saMvatsarabhR^itameva cinvItetyadhidevatam
+
+
+
+10.2.6.[10]
+
+athAdhiyaj~nam  yAnamUnekashatamudbAhUnpuruShAnmimIte sa vidhaikashatavidhaH sa
+citibhireva saptavidhaH ShaDR^itavyavatyashcitayo'gnireva saptamI vidhA 
+
+
+
+10.2.6.[11]
+
+sa u vA iShTakaikashatavidhaH  yAH pa¤cAshatprathamA iShTakA yAshcottamAstAH shataM
+vidhA atha yA etadantareNeShTakA upadhIyante saivaikashatatamI vidhA
+
+
+
+10.2.6.[12]
+
+sa u eva yajustejAH  yajurekashatavidho yAni pa¤cAshatprathamAni yajUMShi yAni
+cottamAni tAH shataM vidhA atha yAnyetadantareNa yajUMShi kriyante saivaikashatatamI
+vidhaivamu saptavidha ekashatavidho bhavati sa yaH shatAyutAyAM kAmo ya
+ekashatavidhe sapt!vidhena haiva tamevaMvidApnoti 
+
+
+
+10.2.6.[13]
+
+evaM vAva sarve yaj~nAH  ekashatavidhA AgnihotrAdR^igbhiryajurbhiH padairakSharaiH
+karmabhiH sAmabhiH sa yaH shatAyutAyAM kAmo ya ekashatavidhe yaH saptavidhe yaj~nena
+yaj~nena haiva tamevaMvidApnotItyu evAdhiyaj~nam
+
+
+
+10.2.6.[14]
+
+athAdhyAtmam  pa¤cemAshcaturvidhA aN^gulayo dve kalkuShI doraMsaphalakaM
+cAkShashca tatpa¤caviMshatirevamimAnItarANyaN^gAni tAH shataM vidhA AtmaivaikashatatamI
+vidhoktaM saptavidhatAyai
+
+
+
+10.2.6.[15]
+
+sa u eva prANatejAH  prANaikashatavidho'nvaN^gamaN^ge'N^ge hi prANaH sa yaH
+shatAyutAyAM
+kAmo ya ekashatavidhe yaH saptavidhe yaH sarveShu yaj~neShu vidyAyA haiva
+tamevaMvidApnoti sarvaurhi yaj~nairAtmAnaM sampannaM vide
+
+
+
+10.2.6.[16]
+
+trINi vA imAni pa¤cavidhAni  saMvatsaro'gniH puruShasteShAm pa¤ca vidhA annam
+pAnaM shrIrjyotiramR^itaM yadeva saMvatsare'nnaM tadannaM yA ApastatpAnaM rAtrireva
+shrIH shriyAM haitadrAtryAM sarvANi bhUtAni
+saMvasantyaharjyotirAdityo'mR^itamityadhidevataM
+
+
+
+10.2.6.[17]
+
+athAdhiyaj~nam  yadevAgnAvannamupadhIyate tadannaM yA ApastatpAnam parishrita eva
+shrIstaddhi rAtrINAM rUpaM yajuShmatyo jyotistaddhyahnAM rUpamagniraM!taM
+taddhyAdityasya rUpamityu evAdhiyaj~nam
+
+
+
+10.2.6.[18]
+
+athAdhyAtmam  yadeva puruShe'nnaM tadannaM yA ApastatpAnamasthInyeva shrIstaddhi
+parishritAM rUpam majjAno jyotistaddhi yajuShmatInAM rUpam prANo'mR^itaM taddhyagne
+rUpam prANo'gniH prANo'mR^itamityu vA AhuH 
+
+
+
+10.2.6.[19]
+
+annAdvA ashanAyA nivartate  pAnAtpipAsA shriyai pApmA jyotiShastamo'mR^itAnmR^ityurni ha
+vA asmAdetAni sarvANi vartante'pa punarmR^ityuM jayati sarvamAyureti ya evaM veda
+tadetadamR^itamityevAmutropAsItAyuritIha prANa iti haika upAsate prANo'gniH
+prANo'mR^itamiti vadanto na tathA vidyAdadhruvaM vai tadyatprANastaM te
+viShyAmyAyuSho na madhyAditi hyapi yajuShAbhyuktaM
+tasmAdenadamR^itamityevAmutropAsItAyuritIha tatho ha sarvamAyureti 
+
+
+
+10.3.1.[1]
+
+prANo gAyatrI  cakShuruShNigvAganuShTummano bR^ihatI shrotram paN^ktirya evAyam
+prajananaH prANa eSha triShTubatha yo'yamavAÇ prANa eSha jagatI tAni vA etAni sapta
+candAMsi caturuttarANyagnau kriyante 
+
+
+
+10.3.1.[2]
+
+prANo gAyatrIti  tadya eva prANasya mahimA yadvIryaM tadetatsahasram
+prANasyaivaitadvIryaM yaddhyasya cinvataH prANa utkkAmettata evaiSho'gnirna
+cIyetaitenaivAsya rUpeNa sahasrameSha gAyatrIH saMcito bhavati
+
+
+
+10.3.1.[3]
+
+cakShuruShNigiti  tadya eva cakShuSho mahimA yadvIryaM tadetatsahasraM cakShuSha
+evaitadvIryaM yaddhyasya cinvatashcakShurutkrAmettata evaiSho'gnirna
+cIyetaitenaivAsya rUpeNa sahasrameSha uShNihaH saMcito bhavati
+
+
+
+10.3.1.[4]
+
+vAganuShTubiti  tadya eva vAco mahimA yadvIryaM tadetatsahasraM vAca evaitadvIryaM
+yaddhyasya cinvato vAgutkrAmettata evaiSho'gnirna cIyetaitenaivAsya rUpeNa
+sahasrameSho'nuShTubhaH saMcito bhavati
+
+
+
+10.3.1.[5]
+
+mano bR^ihatIti  tadya eva manaso mahimA yadvIryaM tadetatsahasram manasa
+evaitadvIryaM yaddhyasya cinvato mana utkrAmettata evaiSho'gnirna cIyetaitenaivAsya
+rUpeNa sahasrameSha bR^ihatIH saMcito bhavati 
+
+
+
+10.3.1.[6]
+
+shrotram paN^ktiriti  tadya eva shrotrasya mahimA yadvIryaM tadetatsahasraM
+shrotrasyaivaitadvIryaM yaddhyasya cinvataH shrotramutkrAmettata evaiSho'gnirna
+cIyetaitenaivAsya rUpeNa sahasrameSha paN^ktIH saMcito bhavati
+
+
+
+10.3.1.[7]
+
+ya evAyam prajananaH prANaH  eSha triShTubiti tadya evaitasya prANasya mahimA
+yadvIryaM tadetatsahasrametasyaivaitatprANasya vIryaM yaddhyasya cinvata eSha prANa
+Alubhyettata evaiSho'gnirna cIyetaitenaivAsya rUpeNa sahasrameSha triShTubhaH saMcito
+bhavati 
+
+
+
+10.3.1.[8]
+
+atha yo'yamavAÇ prANaH  eSha jagatIti tadya evaitasya prANasya mahimA yadvIryaM
+tadetatsahasrametasyaivaitatprANasya vIryaM yaddhyasya cinvata eSha pralNa
+A6ubhyettata evaiSho'gnirna cIyetaitenaivAsya rUpeNa sahasrameSha jagatIH saMcito
+bhavati 
+
+
+
+10.3.1.[9]
+
+tAni vA etAni  sapta candAMsi caturuttarANyanyo'nyasminpratiShThitAni sapteme puruShe
+prANA anyo'nyasminpratiShThitAstadyAvantamevaMviccandasAM gaNamanvAha
+candasashcandaso haivAsya so'nUkto bhavati stuto vA shasto vopahito vA 
+
+
+
+10.3.2.[1]
+
+tadAhuH  kiM candaH kA devatAgneH shira iti gAyatrI cando'gnirdevatA shiraH
+
+
+
+10.3.2.[2]
+
+kiM candaH  kA devatA grIvA ityuShNikcandaH savitA devatA grIvAH 
+
+
+
+10.3.2.[3]
+
+kiM candaH  kA devatAnUkamiti bR^ihatI cando bR^ihaspatirdevatAnUkam
+
+
+
+10.3.2.[4]
+
+kiM candaH  kA devatA pakShAviti bR^ihadrathantare cando dyAvApR^ithivI devate pakShau 
+
+
+
+10.3.2.[5]
+
+kiM candaH  kA devatA madhyamiti triShTupcanda indro devatA madhyam
+
+
+
+10.3.2.[6]
+
+kiM candaH  kA devatA shroNI iti jagatI canda Adityo devatA shro NI
+
+
+
+10.3.2.[7]
+
+kiM candaH  kA devatA yasmAdidam prANAdretaH sicyata ityaticandAshcandaH
+prajApatirdevatA
+
+
+
+10.3.2.[8]
+
+kiM candaH  kA devatA yo'yamavAÇ prANa iti yaj~nAyaj~niyaM cando vaishvAnaro devatA 
+
+
+
+10.3.2.[9]
+
+kiM candaH  kA devatorU ityanuShTupcando vishve devA devatorU 
+
+
+
+10.3.2.[10]
+
+kiM candaH  kA devatAShThIvantAviti paN^ktishcando maruto devatAShThIvantau
+
+
+
+10.3.2.[11]
+
+kiM candaH  kA devatA pratiShThe iti dvipadA cando viShNurdevatA pratiShThe 
+
+
+
+10.3.2.[12]
+
+kiM candaH  kA devatA prANA iti vicandAshcando vAyurdevatA prANAH 
+
+
+
+10.3.2.[13]
+
+kiM candaH  kA devatonAtiriktAnIti nyUnAkSharA canda Apo devatonAtiriktAni
+saiShAtmavidyaivaitanmayo haivaitA devatA etamAtmAnamabhisambhavati na hAtrAnyA
+lokyatAyA AshIrasti
+
+
+
+10.3.3.[1]
+
+dhIro ha shAtaparNeyaH  mahAshAlaM jAbAlamupotsasAda taM hovAca kim mA
+vidvAnupodasada ityagniM vedeti kamagniM vettheti vAcamiti yastamagniM veda kiM
+sa bhavatIti vAgmI bhavatIti hovAca nainaM vAgjahAtIti 
+
+
+
+10.3.3.[2]
+
+vetthAgnimiti hovAca  kimeva mA vidvAnupodasada ityagniM vedeti kamagniM vettheti
+cakShuriti yastamagniM veda kiM sa bhavatIti cakShuShmAnbhavatIti hovAca nainaM
+cakShurjahAtIti 
+
+
+
+10.3.3.[3]
+
+vetthAgnimiti hovAca  kimeva mA vidvAnupodasada ityagniM vedeti kamagniM vettheti
+mana iti yastamagniM veda kiM sa bhavatIti manasvI bhavatIti hovAca nainam mano
+jahAtIti 
+
+
+
+10.3.3.[4]
+
+vetthAgnimiti hovAca  kimeva mA vidvAnupodasada ityagniM vedeti kamagniM vettheti
+shrotramiti yastamagniM veda kiM sa bhavatIti shrotravAnbhavatIti hovAca nainaM
+shrotraM jahAtIti
+
+
+
+10.3.3.[5]
+
+vetthAgnimiti hovAca  kimeva mA vidvAnupodasada ityagniM vedeti kamagniM vettheti
+ya etatsarvamagnistaM vedeti tasminhokta upAvarurohAdhIhi bhostamagnimiti 
+
+
+
+10.3.3.[6]
+
+sa hovAca  prANo vAva so'gniryadA vai puruShaH svapiti prANaM tarhi vAgapyeti prANaM
+cakShuH prANam manaH prANaM shrotraM yadA prabudhyate prANAdevAdhi punarjAyanta
+ityadhyAtmam
+
+
+
+10.3.3.[7]
+
+athAdhidevatam  yA vai sA vAgagnireva sa yattaccakShurasau sa Adityo yattanmana eSha
+sa candramA yattacrotraM disha eva tadatha yaH sa prANo'yameva sa vAyuryo'yam
+pavate 
+
+
+
+10.3.3.[8]
+
+yadA vA agniranugacati  vAyuM tarhyanUdvAti tasmAdenamudavAsIdityAhurvAyuM
+hyanUdvAti yadAdityo'stameti vAyuM tarhi pravishati vAyuM candramA vAyau dishaH
+pratiShThitA vAyorevAdhi punarjAyante sa yadaivaMvidasmAllokAtpraiti
+vAcaivAgnimapyeti cakShuShAdityam manasA candraM shrotreNa dishaH prANena vAyuM sa
+etanmaya eva bhUtvaitAsAM devatAnAM yAM-yAM kAmayate sA bhUtvelayati
+
+
+
+10.3.4.[1]
+
+shvetaketurhAruNeyaH  yakShyamANa Asa taM ha pitovAca kAnR^itvijo'vR^ithA iti sa hovAcAyaM
+nveva me vaishvAvasavyo hoteti taM ha papraca vettha brAhmaNa vaishvAvasavya 
+
+
+
+10.3.4.[2]
+
+catvAri mahAntI3 iti  veda bho3 iti hovAca vettha catvAri mahatAm mahAntI3 iti veda
+bho3 iti hovoca vettha catvAri vratAni3 iti veda bho3 iti hovAca vettha catvAri vratAnAM
+vratAnI3 iti veda bho3 iti hovAca vettha catvAri kyAnI3 iti veda bho3 iti hovAca vettha
+catvAri kyAnAM kyAnI3 iti veda bho3 iti hovAca vettha caturo'rkA3niti veda bho3 iti
+hovAca vettha caturo'rkANAmarkA3niti veda bho3 iti hovAca
+
+
+
+10.3.4.[3]
+
+vetthArkamiti  atha vai no bhavAnvakShyatIti vetthArkaparNe ityatha vai no
+bhavAnvakShyatIti vetthArkapuShpe ityatha vai no bhavAnvakShyatIti
+vetthArkakoshyAvityatha vai no bhavAnvakShyatIti vetthArkasamudgAvityatha vai no
+bhavAnvakShyatIti vetthArkadhAnA ityatha vai no bhavAnvakShyatIti
+vetthArkAShThIlAmityatha vai no bhavAnvakShyatIti vetthArkamUlamityatha vai no
+bhavAnvakShyatIti
+
+
+
+10.3.4.[4]
+
+sa ha vai yattaduvAca  vettha catvAri mahAnti vettha catvAri mahatAm
+mahAntItyagnirmahAMstasya mahato mahadoShadhayashca vanaspatayashca
+taddhyasyAnnaM vAyurmahAMstasya mahato mahadApastaddhyasyAnnamAdityo
+mahAMstasya mahato mahaccandramAstaddhyasyAnnam puruSho mahAMstasya mahato
+mahatpashavastaddhyasyAnnametAnyeva catvAri mahAntyetAni catvAri mahatAm
+mahAntyetAnyeva catvAri vratAnyetAni catvAri vratAnAM vratAnyetAnyeva catvAri
+kyAnyetAni catvAri kyAnAM kyAnyeta eva catvAro'rkA ete catvAro'rkANAmarkAH 
+
+
+
+10.3.4.[5]
+
+atha ha vai yattaduvAca  vetthArkamiti puruShaM haiva taduvAca  vetthArkaparNe iti
+karNau haiva taduvAca vetthArkapuShpe ityakShiNI haiva taduvAca vetthArkakoshyAviti
+nAsike haiva taduvAca vetthArkasamudgAvityoShThau haiva taduvAca vetthArkadhAnA
+iti dantAnhaiva taduvAca vetthArkAShThIlAmiti jihvAM haiva taduvAca
+vetthArkamUlamityannaM haiva taduvAca sa eSho'gnirarko yatpuruShaH sa yo
+haitamevamagnimarkam puruShamupAste'yamahamagnirarko'smIti vidyayA
+haivAsyaiSha Atmannagnirarkashcito bhavati
+
+
+
+10.3.5.[1]
+
+ayaM vAva yajuryo'yam pavate  eSha hi yannevedaM sarvaM janayatyetaM
+yantamidamanu prajAyate tasmAdvAyureva yajuH 
+
+
+
+10.3.5.[2]
+
+ayamevAkAsho jUH  yadidamantarikShametaM hyAkAshamanu javate
+tadetadyajurvAyushcAntarikShaM ca yacca jUshca tasmAdyajureSha eva yadeSha hyeti
+tadetadyajurR^ikShAmayoH pratiShThitamR^ikShAme
+vahatastasmAtsamAnairevAdhvayurgrahaiH karma karotyanyAnyanyAni stutashastrANi
+bhavanti yathA pUrvAbhyAM syanttvAparAbhyAM dhAvayettAdR^iktat 
+
+
+
+10.3.5.[3]
+
+agnireva puraH  agniM hi puraskR^ityemAH prajA upAsata Aditya eva caraNaM yadA
+hyevaiSha udetyathedaM sarvaM carati tadetadyajuH sapurashcaraNamadhidevataM 
+
+
+
+10.3.5.[4]
+
+athAdhyAtmam  prANa eva yajuH prANo hi yannevedaM sarvaM janayati prANaM
+yantamidamanu prajAyate tasmAtprANa eva yajuH
+
+
+
+10.3.5.[5]
+
+ayamevAkAsho jUH  yo'yamantarAtmannAkAsha etaM hyAkAshamanu javate tadetadyajuH
+prANashcAkAshashca yacca jUshca tasmAdyajuH prANa eva yatprANo hyeti 
+
+
+
+10.3.5.[6]
+
+annameva yajuH  annena hi jAyate'nnena javate tadetadyajuranne pratiShThitamannaM
+vahati tasmAtsamAna eva prANe'nyadanyadannaM dhIyate
+
+
+
+10.3.5.[7]
+
+mana eva puraH  mano hi prathamam prANAnAM cakShureva caraNaM cakShuShA
+hyayamAtmA carati tadetadyajuH sapurashcaraNamadhidevataM cAdhyAtmaM ca
+pratiShThitaM sa yo haitadevaM yajuH sapurashcaraNamadhidevataM cAdhyAtmaM ca
+pratiShThitaM veda
+
+
+
+10.3.5.[8]
+
+ariShTo haivAnArtaH  svasti yaj~nasyodR^icamashnute svAnAM shreShThaH puraetA
+bhavatyannAdo'dhipatirya evaM veda
+
+
+
+10.3.5.[9]
+
+ya u haivaMvidaM  sveShu pratipratirbubhUShati na haivAlam bhAryebhyo bhavatyatha
+ya evaitamanubhavati yo vai tamanu bhAryAnbubhUrShati sa haivAlam bhAryebhyo
+bhavati 
+
+
+
+10.3.5.[10]
+
+tadetajjyeShTham brahma  na hyetasmAtkiM cana jyAyo'sti jyeShTho ha vai shreShThaH
+svAnAm bhavati ya evaM veda
+
+
+
+10.3.5.[11]
+
+tadetadbrahmApUrvamaparavat  sa yo haitadevam brahmApUrvamaparavadveda na
+hAsmAtkashcana shreyAntmamAneShu bhavati shreyAMsaH shreyAMso haivAsmAdaparapuruShA
+jAyante tasmAdyo'smAjjyAyAntsyAddisho'smAtpUrvA ityupAsIta tatho hainaM na hinasti
+
+
+
+10.3.5.[12]
+
+tasya vA etasya yajuShaH  rasa evopaniShattasmAdyAvanmAtreNa yajuShAdhvaryurgrahaM
+gR^ihNAti sa ubhe stutashastre anuvibhavatyubhe stutashastre anuvyashnute
+tasmAdyAvanmAtra ivAnnasya rasaH sarvamannamavati sarvamannamanuvyeti 
+
+
+
+10.3.5.[13]
+
+tR^iptirevAsya gatiH  tasmAdyadAnnasya tR^ipyatyatha sa gata iva manyata Ananda evAsya
+vij~nAnamAtmAnandAtmAno haiva sarve devAH sA haiShaiva devAnAmaddhAvidyA sa ha
+sa
+na manuShyo ya evaMviddevAnAM haiva sa ekaH
+
+
+
+10.3.5.[14]
+
+etaddha sma vai tadvidvAnpriyavrato rauhiNAyana Aha  vAyuM vAntamAnandasta
+Atmeto vA vAhito veti sa ha sma tathaiva vAti tasmAdyAM
+deveShvAshiShamicedetenaivopatiShThetAnando va AtmAsau me kAmaH sa me
+samR^idhyatAmiti saM haivAsmai sa kAma R^idhyate yatkAmo bhavatyetAM ha vai
+tR^iptimetAM gatimetamAnandametamAtmAnamabhisambhavati ya evaM veda 
+
+
+
+10.3.5.[15]
+
+tadetadyajurupAMshvaniruktam  prANo vai yajurupAMshvAyatano vai prANastadya enaM
+nirbruvantam brUyAdaniruktAM devatAM niravocatprANa enaM hAsyatIti tathA haiva syAt 
+
+
+
+10.3.5.[16]
+
+tasya ha yo niruktamAvirbhAvaM veda  Avirbhavati kIrtyA yashasopAMshu
+yajuShAdhvaryurgrahaM gR^ihNAti gR^ihItaH sanna AvirbhavatyupAMshu yajuShAgniM cinoti
+citaH saMcita AvirbhavatyupAMshu yajuShA havirnirvapati shR^itaM
+niShThitamAvirbhavatyevaM yatkiM copAMshu karoti kR^itaM niShThitamAvirbhavati tasya
+ha ya etamevaM niruktamAvirbhAvaM vedAvirbhavati kIrtyA yashasA brahmavarcasena
+kShipra u haivAvidaM gacati sa ha yajureva bhavati yajuShainamAcakShate
+
+
+
+10.4.1.[1]
+
+prajApatiM visrastam  yatra devAH samaskurvaMstamukhAyAM yonau reto
+bhUtamasi¤canyonirvA ukhA tasmA etatsaMvatsare'nnaM
+samaskurvanyo'yamagnishcitastadAtmanA paryadadhustadAtmanA
+parihitamAtmaivAbhavattasmAdannamAtmanA parihitamAtmaiva bhavati 
+
+
+
+10.4.1.[2]
+
+tathaivaitadyajamAnaH  AtmAnamukhAyAM yonau reto bhUtaM si¤cati yonirvA ukhA
+tasmA etatsaMvatsare'nnaM saMskaroti yo'yamagnishcitastadAtmanA paridadhAti
+tadAtmanA parihitamAtmaiva bhavati tasmAdannamAtmanA parihitamAtmaiva bhavati 
+
+
+
+10.4.1.[3]
+
+taM nidadhAti  vauShaDiti vaugiti vA eSha ShaDitIdaM ShaTcitikamannaM kR^itvAsmA
+apidadhAtyAtmasammitaM yadu vA AtmasammitamannaM tadavati tanna hinasti
+yadbhUyo hinasti tadyatkanIyo na tadavati
+
+
+
+10.4.1.[4]
+
+sa eSha evArkaH  yametamatrAgnimAharanti tasyaitadannaMkyaM
+yo'yamagnishcitastadarkyaM yajuShTa eSha eva mahAMstasyaitadannaM vrataM
+tanmahAvrataM sAmata eSha u evoktasyaitadannaM thaM tadukthamR^iktastadetadekaM
+satredhAkhyAyate
+
+
+
+10.4.1.[5]
+
+athendrAgnI vA asR^ijyetAm  brahma ca kShatraM cAgnireva brahmendraH kShatraM tau
+sR^iShTau nAnaivAstAM tAvabrUtAM na vA itthaM santau shakShyAvaH prajAH
+prajanayitumekaM rUpamubhAvasAveti tAvekaM rUpamubhAvabhavatAm
+
+
+
+10.4.1.[6]
+
+tau yau tAvindrAgnI  etau tau rukmashca puruShashca rukma evendraH puruSho'gnistau
+hiraNmayau bhavato jyotirvai hiraNyaM jyotirindrAgni! amR^itaM
+hiraNvamamR^itamindrAgnI
+
+
+
+10.4.1.[7]
+
+tAvetAvindrAgnI eva cinvanti  yaddhi kiM caiShTakamagnireva tattasmAttadagninA
+pacanti yaddhi kiM cAgninA pacantyagnireva tadatha yatpurIShaM sa
+indrastasmAttadagninA na pacanti nedagnirevAsannendra iti tasmAdetAvindrAgnI eva
+citau 
+
+
+
+10.4.1.[8]
+
+atha yashcite'gnirnidhIyate  tadekaM rUpamubhau bhavatastasmAttAvetenaiva
+rUpeNemAH prajAH prajanayataH saiShaikaiveShTakAgnireva tAmeSha
+sarvo'gnirabhisampadyate saiveShTakAsampattadetadekamevAkSharaM vaugiti tadeSha
+sarvo'gnirabhisampadyate saivAkSharasampat
+
+
+
+10.4.1.[9]
+
+taddhaitatpashyannR^iShirabhyanUvAda  bhUtam bhaviShyatprastaumi
+mahadbrahmaikamakSharam bahu brahmaikamakSharamityetaddhyevAkSharaM sarve
+devAH sarvANi bhUtAnyabhisampadyante tadetadbrahma ca kShatraM cAgnireva
+brahmendraH kShatramindrAgnI vai vishve devA viDu vishve devAstadetadbrahma
+kShatraM viT 
+
+
+
+10.4.1.[10]
+
+etaddha sma vai tadvidvA¤cyAparNaH sAyakAyana Aha  yadvai ma idaM karma
+samApsyata mamaiva prajA salvAnAM rAjAno'bhaviShyanmama brAhmaNA mama vaishyA
+yattu ma etAvatkarmaNaH samApi tena ma ubhayathA salvAnprajAtirekShyata iti sa eSha
+eva shrIreSha yasha eSho'nnAdaH 
+
+
+
+10.4.1.[11]
+
+etaddha vai tacANDilyaH  vAmakakShAyaNAya procyovAca shrImAnyashasvyannAdo
+bhaviShyasIti shrImAnha vai yashasvyannAdo bhavati ya evaM veda 
+
+
+
+10.4.1.[12]
+
+sa eSho'gniH prajApatireva  ta devA etamagnim prajApatiM saMskR^ityAthAsmA
+etatsaMvatsare'nnaM samaskurvanya eSha mahAvratIyo grahaH
+
+
+
+10.4.1.[13]
+
+tamadhvaryurgraheNa gR^ihNAti  yadgR^ihNAti tasmAdgrahastasminnudgAtA mahAvratena
+rasaM dadhAti sarvANi haitAni sAmAni yanmahAvrataM tadasmintsarvaiH sAmabhI rasaM
+dadhAti tasminhotA mahatokthena rasaM dadhAti sarvA haitA R^ico yanmahadukthaM
+tadasmintsarvAbhirR^igbhI rasaM dadhAti 
+
+
+
+10.4.1.[14]
+
+te yadA stuvate yadAnushaMsati  athAsminnetaM vaShaTkR^ite juhoti vaugiti vA eSha
+ShaDitIdaM ShaDvidhamannaM kR^itvAsmA apidadhAtyAtmasammitaM yadu vA
+AtmasammitamannaM tadavati tanna hinasti yadbhUyo hinasti tadyatkanIyo na
+tadavati
+
+
+
+10.4.1.[15]
+
+sa eSha evArkaH  yo'yamagnishcitastasyaitadannaM kyameSha mahAvratIyo
+grahastadarkyaM yajuShTa eSha eva mahAMstasyaitadannaM vrataM tanmahAvrataM
+sAmata eSha u evoktadannaM thaM tadukthamR^iktastadetadekaM sattredhAkhyAyate
+
+
+
+10.4.1.[16]
+
+sa eSha saMvatsaraH prAjApatiragniH  tasyArdhameva sAvitrANyardhaM
+vaishvakarmaNAnyaShTAvevAsya kalAH sAvitrANyaShTau vaishvakarmaNAnyatha
+yadetadantareNa karma kriyate sa eva saptadashaH prajApatiryo vai kalA
+manuShyANAmakSharaM taddevAnAm 
+
+
+
+10.4.1.[17]
+
+tadvai lometi dve akShare  tvagiti dve asR^igiti dve meda iti dve mAMsamiti dve snAveti
+dve asthIti dve majjeti dve tAH ShoDasha kalA atha ya etadantareNa prANaH saMcarati sa
+eva saptadashaH prajApatiH
+
+
+
+10.4.1.[18]
+
+tasmA etasmai prANAya  etAH ShoDasha kalA annamabhiharanti tA yadAnabhihartuM
+dhriyante'thaitA eva jagdhvotkrAmati tasmAdu haitadashishiShatastR^ipramiva bhavati
+prANairadyamAnasya tasmAdu haitadupatApI kR^isha-iva bhavati prANairhi jagdho bhavati
+
+
+
+10.4.1.[19]
+
+tasmA etasmai saptadashAya prajApataye  etatsaptadashamannaM samaskurvanya eSha
+saumyo'dhvaro'tha yA asya tAH ShoDasha kalA ete te ShoDashartvijastasmAnna
+saptadashamR^itvijaM kurvIta nedatirecayAnItyatha ya evAtra raso yA Ahutayo hUyante
+tadeva saptadashamannam
+
+
+
+10.4.1.[20]
+
+te yadA stuvate yadAnushaMsati  athAsminnetaM vaShaTkR^ite juhoti vaugiti vA eSha
+ShaDitIdaM ShaDvidhamannaM kR^itvAsmA apidadhAtyAtmasammitaM yadu vA
+AtmasammitamannaM tadavati tanna hinasti yadbhUyo hinasti tadyatkanIyo na
+tadavati
+
+
+
+10.4.1.[21]
+
+sa eSha evArkaH  yo'yamagnishcitastasyaitadannaM kyameSha saumyo'dhvarastadarkyaM
+yajuShTa eSha eva mahAMstasyaitadannaM vrataM tanmahAvrataM sAmata eSha u
+evoktasyaitadannaM thaM tadukthamR^iktastadetadekaM sattredhAkhyAyate sa
+etenAnnena sahordhva udakrAmatsa yaH sa udakrAmadasau sa Adityo'tha yena
+tenAnnena sahodakrAmadeSha sa candramAH
+
+
+
+10.4.1.[22]
+
+sa eSha evArko ya eSha tapati  tasyaitadannaM kyameSha candramAstadarkyaM yajuShTa
+eSha eva mahAMstasyaitadannaM vrataM tanmahAvrataM sAmata eSha u
+evoktasyaitadannaM thaM tadukthamR^iktastadetadekaM sattredhAkhyAyata
+ityadhidevatam 
+
+
+
+10.4.1.[23]
+
+athAdhyAtmam  prANo vA arkastasyAnnameva kyaM tadarkyaM yajuShTaH prANa eva
+mAhAMstasyAnnameva vrataM tanmahAvrataM sAmataH prANa u evoktasyAnnameva thaM
+tadukthamR^iktastadetadekaM sattredhAkhyAyate sa eSha
+evaiSho'dhidevatamayamadhyAtmam
+
+
+
+10.4.2.[1]
+
+saMvatsaro vai prajApatiragniH  somo rAjA candramAH sa ha svayamevAtmAnam proce
+yaj~navacase rAjastambAyanAya yAvanti vAva me jyotIMShi tAvatyo ma iShTakA iti
+
+
+
+10.4.2.[2]
+
+tasya vA etasya saMvatsarasya prajApateH  sapta ca shatAni viMshatishcAhorAtrANi jyotIMShi
+tA
+iShTakAH ShaShTishca trINi ca shatANi parishritaH ShaShTishca trINi ca shatAni yajuShmatyaH
+so'yaM saMvatsaraH prajApatiH sarvANi bhUtAni sasR^ije yacca prANi
+yaccAprANamubhayAndevamanuShyAntsa sarvANi bhUtAni sR^iShTvA riricAna-iva mene sa
+mR^ityorbibhayAM cakAra 
+
+
+
+10.4.2.[3]
+
+sa hekShAM cakre  kathaM nvahaminAni sarvANi bhUtAni punarAtmannAvapeya
+punarAtmandadhIya kathaM nvahamevaiShAM sarveShAm bhUtAnAm punarAtmA syAmiti 
+
+
+
+10.4.2.[4]
+
+sa dvedhAtmAnaM vyauhat  ShaShTishca trINi ca shatAnyanyatarasyeShTakA
+abhavannevamanyatarasya sa na vyApnot 
+
+
+
+10.4.2.[5]
+
+trInAtmano'kuruta  tisrastisro'shItaya ekaikasyeShTakA abhavantsa naiva vyApnot
+
+
+
+10.4.2.[6]
+
+catura Atmano'kuruta  ashItishateShTakAntsa naiva vyApnot 
+
+
+
+10.4.2.[7]
+
+pa¤cAtmano'kuruta  catushcatvAriMshaM shatamekaikasyeShTakA abhavantsa naiva vyApnot 
+
+
+
+10.4.2.[8]
+
+ShaDAtmano'kuruta  viMshatishateShTakAntsa naiva vyApnonna saptadhA vyabhavat 
+
+
+
+10.4.2.[9]
+
+aShTAvAtmano'kuruta  navatIShTakAntsa naiva vyApnot 
+
+
+
+10.4.2.[10]
+
+navAtmano'kuruta  ashItIShTakAntsa naiva vyApnot 
+
+
+
+10.4.2.[11]
+
+dashAtmano'kuruta  dvAsaptatIShTakAnsa naiva vyApnonnaikAdashadhA vyabhavat
+
+
+
+10.4.2.[12]
+
+dvAdashAtmano'kuruta  ShaShTIShTakAntsa naiva vyApnonna trayodashadhA vyabhavanna
+caturdashadhA 
+
+
+
+10.4.2.[13]
+
+pa¤cadashAtmano'kuruta  aShTAcatvAriMshadiShTakAntsa naiva vyApnot
+
+
+
+10.4.2.[14]
+
+ShoDashAtmano'kuruta  pa¤cacatvAriMshadiShTakAntsa naiva vyApnonna saptadashadhA
+vyabhavat
+
+
+
+10.4.2.[15]
+
+aShTAdashAtmano'kuruta  catvAriMshadiShTakAntsa naiva vyAshnonnaikAM na viMshatidhA
+vyabhavat
+
+
+
+10.4.2.[16]
+
+viMshatimAtmano'kuruta  ShaTtriMshadiShTakAntsa naiva vyApnonnaikaviMshatidhA
+vyabhavanna dvAviMshatidhA na trayoviMshatidhA
+
+
+
+10.4.2.[17]
+
+caturviMshatimAtmano'kuruta  triMshadiShTakAntso'trAtiShThata pa¤cadashe vyUhe
+tadyatpa¤cadashe vyUhe'tiShThata tasmAtpa¤cadashApUryamANasya rUpANi
+pa¤cadashApakShIyamANasya 
+
+
+
+10.4.2.[18]
+
+atha yaccaturviMshatimAtmano'kuruta  tasmAccaturviMshatyardhamAsaH saMvatsaraH sa
+etaishcaturviMshatyA triMshadiShTakairAtmabhirna vyabhavatsa pa¤cadashAhno
+rUpANyapashyadAtmanastanvo muhUrtAlokampR^iNAH pa¤cadashaiva rAtrestadyanmuhu
+trAyante tasmAnmuhurtA atha yatkShudrAH santa imAMlokAnApUrayanti
+tasmAllokampR^iNAH
+
+
+
+10.4.2.[19]
+
+eSha vA idaM sarvam pacati  ahorAtrairardhamAsairmAsairR^itubhiH saMvatsareNa
+tadamunA pakvamayam pacati pakvasya pakteti ha smAha bhAradvAjo'gnimamunA hi
+pakvamayam pacatIti 
+
+
+
+10.4.2.[20]
+
+tAni saMvatsare  dasha ca sahasrANyaShTau ca shatAni samapadyanta so'trAtiShThata dashasu
+ca sahasreShvaShTAsu ca shateShu
+
+
+
+10.4.2.[21]
+
+atha sarvANi bhUtAni paryaikShat  sa trayyAmeva vidyAyAM sarvANi bhUtAnyapashyadatra
+hi sarveShAM candasAmAtmA sarveShAM stomAnAM sarveShAm prANAnAM sarveShAM
+devAnAmetadvA astyetaddhyamR^itaM yaddhyamR^itaM taddhyastyetadu tadyanmartyam
+
+
+
+10.4.2.[22]
+
+sa aikShata prajApatiH  trayyAM vAva vidyAyAM sarvANi bhUtAni hanta trayomeva
+vidyAmAtmAnamabhisaMskaravA iti
+
+
+
+10.4.2.[23]
+
+sa R^ico vyauhat  dvAdasha bR^ihatIsahasrANyetAvatyo harco yAH
+prajApatisR^iShTAstAstriMshattame vyUhe paN^ktiShvatiShThanta tA yattriMshattame
+vyUhe'tiShThanta tasmAttriMshanmAsasya rAtrayo'tha yatpaN^ktiShu tasmAtpAN^ktaH
+prajApatistA aShTAshataM shatAni paN^ktayo'bhavan
+
+
+
+10.4.2.[24]
+
+athetarau vedau vyauhat  dvAdashaiva bR^ihatIsahasrANyaShTau yajuShAM catvAri
+sAmnAmetAvaddhaitayorvedayoryatprajApatisR^iShTaM tau triMshattame vyUhe
+paN^ktiShvatiShThetAM tau yattriMshattame vyUhe'tiShThetAM tasmAttriMshanmAsasya
+rAtrayo'tha yatpaN^ktiShu tasmAtpAN^ktaH prajApatistA aShTAshatameva shatAni
+paN^ktayo'bhavan
+
+
+
+10.4.2.[25]
+
+te sarve trayo vedAH  dasha ca sahasrANyaShTau ca shatAnyashItonAmabhavantsa
+muhUrtena-muhUrtenAshItimApnonmuhUrtena-muhUrtenAshItiH samapadyata 
+
+
+
+10.4.2.[26]
+
+sa es-u triShu lokeShUkhAyAm  yonau reto bhUtamAtmAnamasi¤caccandomayaM
+stomamayam prANamayaM devatAmayaM tasyArdhamAse prathama AtmA samaskriyata
+davIyasi paro davIyasi paraH saMvatsara eva sarvaH kR^itsnaH samaskriyata
+
+
+
+10.4.2.[27]
+
+tadyatparishritamupAdhatta  tadrAtrimupAdhatta tadanu pa¤cadasha
+muhUrtAnmuhUrtAnanu pa¤cadashAshItIratha yadyajuShmatImupAdhatta
+tadaharupAdhatta tadanu pa¤cadasha muhUrtAnmuhUrtAnanu pa¤cadashAshItIrevametAM
+trayIM vidyAmAtmannAvapatAtmannakuruta so'traiva sarveShAm
+bhUtAnAmAtmAbhavaccandomaya stomamayaH prANamayo devatAmayaH sa etanmaya
+eva bhUtvordhva udakrAmatsa yaH sa udakrAmadeSha sa candramAH 
+
+
+
+10.4.2.[28]
+
+tasyaiShA pratiShThA  ya eSha tapatyetasmAdevAdhyacIyataitasminnadhyacIyatAtmana
+evainaM tanniramimItAtmanaH prAjanayat
+
+
+
+10.4.2.[29]
+
+sa yadagniM ceShyamANo dIkShate  yathaiva tatprajApatireShu triShu lokeShUkhAyAM
+yonau reto bhUtamAtmAnamasi¤cadevamevaiSha etadAtmAnamukhAyAM yonau reto
+bhUtaM si¤cati candomayaM stomamayam prANamayaM devatAmayaM tasyArdhamAse
+prathama AtmA saMskriyate davIyasi paro davIyasi paraH saMvatsara eva sarvaH kR^itsnaH
+saMskriyate 
+
+
+
+10.4.2.[30]
+
+tadyatparishritamupadhatte  tadrAtrimupadhatte tadanu pa¤cadasha
+muhUrtAnmuhUrtAnanu pa¤cadashAshItIratha yadyajuShmatImupadhatte
+tadaharupadhatte tadanu pa¤cadasha mUhUrtAnmuhUrtAnanu pa¤cadashAshItIrevametAM
+trayIM vidyAmAtmannAvapata Atmankurute so'traiva sarveShAm bhUtAnAmAtmA bhavati
+candomaya stomamayaH prANamayo devatAmayaH sa etanmaya eva bhUtvordhva
+utkrAmati
+
+
+
+10.4.2.[31]
+
+tasyaiShA pratiShThA  ya eSha tapatyetasmAdvevAdhicIyata etasminnadhicIyata Atmana
+evainaM tannirmimIta AtmanaH prajanayati sa
+yadaivaMvidasmAllokAtpraityathaitamevAtmAnamabhisambhavati candomayam
+prANamayaM devatAmayaM sa etanmaya eva bhUtvordhva utkrAmati ya evaM
+vidvAnetatkarma kurute yo vaitadevaM veda 
+
+
+
+10.4.3.[1]
+
+eSha vai mR^ityuryatsaMvatsaraH  eSha hi martyAnAmahorAtrAbhyAmAyuH kShiNotyatha
+mriyante tasmAdeSha eva mR^ityuH sa yo haitam mR^ityuM saMvatsaraM veda na hAsyaiSha
+purA jaraso'horAtrAbhyAmAyuH kShiNoti sarvaM haivAyureti
+
+
+
+10.4.3.[2]
+
+eSha u evAntakaH  eSha hi martyAnAmahorAtrAbhyAmAyuSho'ntaM gacatyatha mriyante
+tasmAdeSha evAntakaH sa yo haitamantakam mR^ityuM saMvatsaraM veda na hAsyaiSha
+purA jaraso'horAtrAbhyAmAyuSho'ntaM gacati sarvaM haivAyureti 
+
+
+
+10.4.3.[3]
+
+te devAH  etasmAdantakAnmR^ityoH saMvatsarAtprajApaterbibhayAM cakruryadvai
+no'yamahorAtrAbhyAmAyuSho'ntaM na gacediti 
+
+
+
+10.4.3.[4]
+
+ta etAnyaj~nakratUMstenire  agnihotraM darshapUrNamAsau cAturmAsyAni pashubandhaM
+saumyamadhvaraM ta etairyaj~nakratubhiryajamAnA nAmR^itatvamAnashire
+
+
+
+10.4.3.[5]
+
+te hApyagniM cikyire  te'parimitA eva parishrita upadadhuraparimitA
+yajuShmatIraparimitA lokampR^iNA yathedamapyetarhyeka upadadhatIti devA
+akurvanniti te ha naivAmR^itatvamAnashire 
+
+
+
+10.4.3.[6]
+
+te'rcantaH shrAmyantashceruH  amR^itatvamavarurutsamAnAstAnha prajApatiruvAca na vai
+me sarvANi rUpANyupadhatthAti vaiva recayatha na vAbhyApayatha tasmAnnAmR^itA
+bhavatheti
+
+
+
+10.4.3.[7]
+
+te hocuH  tebhyo vai nastvameva tadbrUhi yathA te sarvANi rUpANyupadadhAmeti 
+
+
+
+10.4.3.[8]
+
+sa hovAca  ShaShTiM ca trINi ca shatAni parishrita upadhatta ShaShTiM ca trINi ca shatAni
+yajuShmatIradhi ShaTtriMshatamatha lokampR^iNA dasha ca sahasrANyaShTau ca
+shatAnyupadhattAtha me sarvANi rUpANyupadhAsyathAthAmR^itA bhaviShyatheti te ha tathA
+devA upadadhustato devA amR^itA AsuH
+
+
+
+10.4.3.[9]
+
+sa mR^ityurdevAnabravIt  itthameva sarve manuShyA amR^itA bhaviShyantyatha ko
+mahyam bhAgo bhaviShyatIti te hocurnAto'paraH kashcana saha
+sharIreNAmR^ito'sadyadaiva tvametam bhAgaM harAsA atha vyAvR^itya
+sharIreNAmR^ito'sadyo'mR^ito'sadvidyayA vA karmaNA veti yadvai tadabruvanvidyayA vA
+karmaNA vetyeShA haiva sA vidyA yadagniretadu haiva tatkarma yadagniH 
+
+
+
+10.4.3.[10]
+
+te ya evametadviduH  ye vaitatkarma kurvate mR^itvA punaH sambhavanti te
+sambhavanta evAmR^itatvamabhisambhavantyatha ya evaM na vidurye vaitatkarma na
+kurvate mR^itvA punaH sambhavanti ta etasyaivAnnam punaH-punarbhavanti
+
+
+
+10.4.3.[11]
+
+sa yadagniM cinute  etameva tadantakam mR^ityuM saMvatsaram prajApatimagnimApnoti
+yaM devA Apnuvannetamupadhatte yathaivainamado devA upAdadhata 
+
+
+
+10.4.3.[12]
+
+parishridbhirevAsya rAtrIrApnoti 
+yajuShmatIbhirahAnyardhamAsAnmAsAnR^itUMlokamR^iNAbhirmuhUrtAn 
+
+
+
+10.4.3.[13]
+
+tadyAH pariShritaH  rAtrilokAstA rAtrINAmeva sAptiH kriyate rAtrINAm pratimA tAH
+ShaShTishca trINi ca shatAni bhavanti ShaShTishca ha vai trINi ca shatAni saMvatsarasya
+rAtrayastAsAmekaviMshatiM gArhapatye parishrayati dvAbhyAM nAshItiM dhiShNyeShu dve
+ekaShaShTe shate AhavanIye 
+
+
+
+10.4.3.[14]
+
+atha yajuShmatyaH  darbhastambo logeShTakAH puShkaraparNaM rukmapuruShau srucau
+svayamAtR^iNA dUrveShTakA dviyajU retaHsicau vishvajyotirR^itavye aShADhA kUrma
+ulUkhalamusale ukhA pa¤ca pashushIrShaNi pa¤cadashApasyAH pa¤ca candasyAHH
+
+
+
+10.4.3.[15]
+
+atha dvitIyA  pa¤cAshvinyo dve R^itavye pa¤ca vaishvadevyaH pa¤ca prANabhR^itaH
+pa¤cApasyA ekayA na viMshatirvayasyAstA ekacatvAriMshaddvitIyA citiH 
+
+
+
+10.4.3.[16]
+
+atha tR^itIyA  svayamAtR^iNA pa¤ca dishyA vishvajyotishcatasra R^itavyA dasha prANabhR^itaH
+ShaTtriMshaccandasyAshcaturdasha vAlakhilyAstA ekasaptatistR^itIyA citiH 
+
+
+
+10.4.3.[17]
+
+atha caturthI  aShTAdasha prathamA atha dvAdashAtha saptadasha tAH
+saptacatvAriMshaccaturthI citiH
+
+
+
+10.4.3.[18]
+
+atha pa¤camI  pa¤cAsapatnAshcatvAriMshadvirAja ekayA na triMshatstomabhAgAH pa¤ca
+nAkasadaH pa¤ca pa¤cacUDA ekatriMshaccandasyA aShTau gArhapatyo citiraShTau
+punashcitirR^itavye vishvajyotirvikarNI ca svayamAtR^iNA cAshmA pR^ishniryashcite'gnirnidhIyate
+tA aShTAtriMshaM shatam pa¤camI citiH 
+
+
+
+10.4.3.[19]
+
+tAH sarvAH pa¤cabhirna catvAri shatAni  tayo yAH ShaShTishca trINi ca shatAnyaharlokAstA
+ahnAmeva sAptiH kriyate'hnAm pratimA tAH ShaShTishca trINi ca shatAni bhavanti ShaShTishca
+ha vai trINi ca shatAni saMvatsarasyAhAnyatha yAH ShaTtriMshatpurIShaM tAsAM ShaTtriMshI
+tato yAshcaturviMshatirardhamAsalokAstA ardhamAsAnAmeva sAptiH kriyate'rdhamAsAnAm
+pratimAtha yA dvAdasha mAsalokAstA mAsAnAmeva sAptiH kriyate mAsAnAm pratimA tA
+u
+dva-dve sahartulokA R^itUnAmashUnyatAyai 
+
+
+
+10.4.3.[20]
+
+atha yA lokampR^iNAH  muhurtalokAstA muhUrtAnAmeva sAptiH kriyate muhUrtAnAm
+pratimA tA dasha ca sahasrANyaShTau ca shatAni bhavantyetAvanto hi saMvatsarasya
+muhUrtAstAsAmekavih+shatiM gArhapatya upadadhAti dvAbhyAM nAshItiM
+dhiShNyeShvAhavanIya itarA etAvanti vai saMvatsarasya rUpANi tAnyasyAtrAptAnyupahitAni
+bhavanti
+
+
+
+10.4.3.[21]
+
+taddhaike  AhavanIya evaitAM sampadamApipayiShantyanye vA ete'gnayashcitAH
+kimanyatropahitA iha sampashyemeti na tathA kuryAddasha vA etAnagnIMshcinute'ShTau
+dhiShNyAnAhavanIyaM ca gArhapatyaM ca tasmAdAhurvirADagniriti dashAkSharA hi virAT
+tAnnu sarvAnekamivaivAcakShate'gnirityetasya hyevaitAni sarvANi rUpANi yathA
+saMvatsarasyAhorAtrANyardhamAsA mAsA R^itava evamasyaitAni sarvANi rUpANi
+
+
+
+10.4.3.[22]
+
+te ye ha tathA kurvanti  etAni hAsya te rUpANi bahirdhA kurvantyatho pApavasyasaM
+kurvanti kShatrAya visham pratipratinIm pratyudyAminImAgnIdhrIye vA ashmAnam
+pR^ishnimupadadhAtyatha taM sampashyati kimu taM sampashyannitarA na
+sampashyedyenaiva nirR^itim pApmAnamapahate sa ekAdashaH 
+
+
+
+10.4.3.[23]
+
+tadAhuH  kathamu tA atra na sampashyatIti na hyenA abhijuhotyAhutyA vA iShTakA sarvA
+kR^itsnA bhavatIti 
+
+
+
+10.4.3.[24]
+
+tadAhuH  kathamasyaitA anatiriktA upahitA bhavantIti vIryaM vA asyaitA anatiriktaM vai
+puruShaM vIryaM sa ha vA etaM sarvaM kR^itsnam prajApatiM saMskaroti ya evaM
+vidvAnetatkarma kurute yo vaitadevaM veda
+
+
+
+10.4.4.[1]
+
+prajApatiM vai prajAH sR^ijamAnam  pApmA mR^ityurabhiparijaghAna sa tapo'tapyata
+sahasraM saMvatsarAnpApmAnaM vijihAsan
+
+
+
+10.4.4.[2]
+
+tasya tapastepAnasya  ebhyo lomagartebhya UrdhvAni jyotIMShyAyaMstadyAni tAni
+jyotIMShyetAni tAni nakShatrANi yAvantyetAni nakShatrANi tAvanto lomagartA yAvanto
+lomagartAstAvantaH sahasrasaMvatsarasya muhUrtAH 
+
+
+
+10.4.4.[3]
+
+sa sahasratame saMvatsare  sarvo'tyapavata sa yaH so'tyapavatAyameva sa vAyuryo'yam
+pavate'tha yaM tam pApmAnamatyapavatedaM tacarIraM ka u tasmai manuShyo yaH
+sahasrasaMvatsaramavarundhIta vidyayA ha vA evaMvitsahasrasaMvatsaramavarunddhe 
+
+
+
+10.4.4.[4]
+
+sarvA evaitA iShTakAH sAhasrIrupAsIta  rAtrisahasreNa rAtrisahasreNaikaikAm parishritaM
+sampannAmupAsItAhaHsahasreNAhaHsahasreNaikaikAmaharbhAjamardhamAsasahasre
+NArd
+hamAsasahasreNaikaikAmardhamAsabhAjam mAsasahasreNa-mAsasahasreNaikaikAm
+mAsabhAjamR^itusahasreNartR^isahasreNaikaikAmR^itubhAjam
+muhUrtasahasreNa-muhUrtasahasreNaikaikAm muhUrtabhAjaM saMvatsarasahasreNa
+saMvatsaraM te ya etamevamagniM saMvatsareNa sampannaM viduH sahasratamIM hAsya
+te kalAM viduratha ya enamevaM na vidurna hAsya te sahasratamIM cana kalAM
+viduratha ya evaivaM veda yo vaitatkarma kurute sa haivaitaM sarvaM kR^itsnam
+prAjApatyamagnimApnoti yam prajApatirApnottasmAdevaMvittapa eva tapyeta yadu ha
+vA evaMvittapa tapyata A maithunAtsarvaM hAsya tatsvargaM lokamabhisambhavati 
+
+
+
+10.4.4.[5]
+
+tadetadR^icAbhyuktam  na mR^iShA shrAntaM yadavanti devA iti na haivaivaM viduShaH kiM
+cana mR^iShA shrAntam bhavati tatho hAsyaitatsarvaM devA avanti
+
+
+
+10.4.5.[1]
+
+athAdeshA upaniShadAm  vAyuragniriti ha shAkAyanina upAsata Adityo'gnirityu haika
+Ahuratha ha smAha shraumatyo vA hAliN^gavo vA
+vAyurevAgnistasmAdyadaivAdhvaryuruttamaM karma karotyathaitamevApyetIti 
+
+
+
+10.4.5.[2]
+
+shATyAyaniru ha smAha  saMvatsara evAgnistasya vasantaH shiro grIShmo dakShiNaH pakSho
+varShA uttaraH sharadR^iturmadhyamAtmA hemantashishirAvR^itU pucam pratiShThA vAgagniH
+prANo vAyushcakShurAdityo manashcandramAH shrotraM disha Apo mithunaM tapaH
+pratiShThA mAsAH parvANyardhamAsA nADyo'horAtrANi rajatasuvarNAni patrANi sa evaM
+devAnapyetIti saMvatsaro'gnirityu haiva vidyAdetanmayo bhavatIti tveva vidyAt
+
+
+
+10.4.5.[3]
+
+celaka u ha smAha shANDilyAyanaH  ima eva lokAstisraH svayamAtR^iNavatyashcitayo
+yajamAnashcaturthI sarve kAmAH pa¤camImAMshca lokAntsaMskurva AtmAnaM ca
+sarvAMshca kAmAnityeva vidyAditi
+
+
+
+10.5.1.[1]
+
+tasya vA etasyAgneH  vAgevopaniShadvAcA hi cIyata R^icA yajuShA sAmneti nu daivyAtha
+yanmAnuShyA vAcAhetIdaM kurutetIdaM kuruteti tadu ha tayA cIyate 
+
+
+
+10.5.1.[2]
+
+sA vA eShA vAktredhAvihitA  R^ico yajUMShi sAmAni tenAgnistredhAvihita etena hi trayeNa
+cIyate'pyahaivaM tredhAvihita itthaM ha tvevApi tredhAvihito yadasmiMstredhAvihitA
+iShTakA upadhIyante puMnAmnya strInAmnyo napuMsakanAmnyastredhAvihitAnyu
+evemAni puruShasyAN^gAni puMnAmAni strInAmAni napuMsakanAmAni
+
+
+
+10.5.1.[3]
+
+so'yamAtmA tredhAvihita eva  so'nena tredhAvihitenAtmanaitaM tredhAvihitaM
+daivamamR^itamApnoti tA u sarvA iShTakA ityevAcakShate neShTaka iti neShTakamiti vAco
+rUpeNa vAgghyevaitatsarvaM yatstrI punAnnapuMsakaM vAcA hyevaitatsarvamAptaM
+tasmAdenA aN^girasvaddhruvA sIdetyeva sarvAH sAdayati nAN^girasvaddhruvaH sIdeti
+nAN^girasvaddhruvaM sIdeti vAcaM hyevaitAM saMskurute
+
+
+
+10.5.1.[4]
+
+sA yA sA vAgasau sa AdityaH  sa eSha mR^ityustadyakiM cArvAcInamAdityAtsarvaM
+tanmR^ityunAptaM sa yo hainamato'rvAcInaM cinute mR^ityunA hainaM sa AptaM cinute
+mR^ityave ha sa AtmAnamapidadhAtyatha ya enamata UrdhvaM cinute sa
+punarmR^ityumapajayati vidyayA ha vA asyaiSho'ta UrdhvaM cito bhavati 
+
+
+
+10.5.1.[5]
+
+sA vA eShA vAktredhAvihitA  R^ico yajUMShi sAmAni maNDalamevarco'rciH sAmAni puruSho
+yajUMShyathaitadamR^itaM yadetadarcirdIpyata idaM tatpuShkaraparNaM
+tadyatpuShkaraparNamupadhAyAgniM cinotyetasminnevaitadamR^ita R^iÇmayaM
+yajurmayaM sAmamayamAtmAnaM saMskurute so'mR^ito bhavati 
+
+
+
+10.5.2.[6]
+
+yadetanmaNDalaM tapati  tanmahadukthaM tA .!caH sa R^icAM loko'tha
+yadetadarcirdIpyate tanmahAvrataM tAni sAmAni sa sAmnAM loko'tha ya eSha
+etasminmaNDale puruShaH so'gnistAni yajUMShi sa yajuShAM lokaH 
+
+
+
+10.5.2.[7]
+
+saiShA trayyeva vidyA tapati  taddhaitadapyavidvAMsa AhustrayI vA eShA vidyA tapatIti
+vAgghaiva tatpashyantI vadati 
+
+
+
+10.5.2.[8]
+
+sa eSha etasminmaNDale puruSho'thaitadamR^itaM yadetadarcirdIpyate tasmAnmR^ityurna
+mriyate'mR^ite hyantastasmAdu na dR^ishyate'mR^ite hyantaH 
+
+
+
+10.5.2.[9]
+
+tadeSha shloko bhavati  antaram mR^ityoramR^itamityavaraM hyetanmR^ityoramR^itam
+mR^ityAvamR^itamAhitamityetasminhi puruSha etanmaNDalam pratiShThitaM tapati
+mR^ityurvivasvantaM vasta ityasau vA Adityo vivasvAneSha hyahorAtre vivaste tameSha
+vaste sarvato hyenena parivR^ito mR^ityorAtmA vivasvatItyetasminhi maNDala etasya
+puruShasyAtmaitadeSha shloko bhavati
+
+
+
+10.5.2.[10]
+
+tayorvA etayoH  ubhayoretasya cArciSha etasya ca puruShasyaitanmaNDalam pratiShThA
+tasmAnmahaduktham parasmai na shaMsennedetAm pratiShThAM cinadA ityetAM ha sa
+pratiShThAM cintte yo mahaduktham parasmai shaMsati tasmAdukthashasam bhUyiShTham
+paricakShate pratiShThAcinno hi bhavatItyadhidevatam 
+
+
+
+10.5.2.[11]
+
+athAdhiyaj~nam  yade tanmaNDalaM tapatyayaM sa rukmo'tha yadetadarcirdIpyata idaM
+tatpuShkaraparNamApo hyetA ApaH puShkaraparNamatha ya eSha etasminmaNDale
+puruSho'yameva sa yo'yaM hiraNmayaH puruShastadetadevaitattrayaM
+saMskR^ityehopadhatte tadyaj~nasyaivAnu saMsthAmUrdhvamutkrAmati tadetamapyeti ya
+eSha tapati tasmAdagniM nAdriyeta parihantumamutra hyeSha tadA bhavatItyu
+evAdhiyaj~nam 
+
+
+
+10.5.2.[12]
+
+athAdhyAtmam  yadetanmaNDalaM tapati yashcaiSha rukma idaM tacuklamakShannatha
+yadetadarcirdIpyate yaccaitatpuShkaraparNamidaM tatkR^iShNamakShannatha ya eSha
+etasminmaNDale puruSho yashcaiSha hiraNmayaH puruSho'yameva sa yo'yaM
+dakShiNe'kShanpuruShaH
+
+
+
+10.5.2.[13]
+
+sa eSha eva lokampR^iNA  tAmeSha sarvo'gnirabhisampadyate tasyaitanmithunaM yo'yaM
+savye'kShanpuruSho'rdhamu haitadAtmano yanmithunaM yadA vai saha mithunenAtha
+sarvo'tha kR^itsnaH kR^itsnatAyai tadyatte dve bhavato dvandvaM hi mithunam
+prajananaM tasmAddve-dve lokampR^iNe upadhIyete tasmAdu dvAbhyAM citim
+praNayanti
+
+
+
+10.5.2.[14]
+
+sa eSha evendraH  yo'yaM dakShiNe'kShanpuruSho'theyamindrANI tAbhyAM devA etAM
+vidhR^itimakurvannAsikAM tasmAjjAyAyA ante nAshnIyAdvIryavAnhAsmAjjAyate
+vIryavantamu ha sA janayati yasyA ante nAshnAti
+
+
+
+10.5.2.[15]
+
+tadetaddevavrataM  rAjanyabandhavo manuShyANAmanutamAM gopAyanti tasmAdu teShu
+vIryavAnjAyate'mR^itavAkA vayasAM sA kShiprashyenaM janayati
+
+
+
+10.5.2.[16]
+
+tau hR^idayasyAkAsham pratyavetya  mithunIbhavatastau yadA mithunasyAntaM
+gacato'tha haitatpuruShaH svapiti tadyathA haivedam mAnuShasya mithunasyAntaM
+gatvAsaMvida iva bhavatyevaM haivaitadasaMvida-iva bhavati daivaM hyetanmithunam
+paramo hyeSha AnandaH
+
+
+
+10.5.2.[17]
+
+tasmAdevaMvitsvapyAt  lokyaM haite eva taddevate mithunena priyeNa dhAmnA
+samardhayati tasmAdu ha svapantaM dhureva na bodhayennedete devate
+mithunobhavantyau hinasAnIti tasmAdu haitatsuShupuShaH shleShmaNamiva mukham
+bhavatyete eva taddevate retaH si¤catastasmAdretasa idaM sarvaM sambhavati yadidaM
+kiM ca 
+
+
+
+10.5.2.[18]
+
+sa eSha eva mR^ityuH  ya eSha etasminmaNDale puruSho yashcAyaM
+dakShiNe'kShanpuruShastasya haitasya hR^idaye pAdAvatihatau tau haitadAcidyotkrAmati
+sa yadotkrAmatyatha haitatpuruSho mriyate tasmAdu haitatpretamAhurAcedyasyeti 
+
+
+
+10.5.2.[19]
+
+eSha u eva prANaH  eSha hImAH sarvAH prajA praNayati tasyaite prANAH svAH sa yadA
+svapityathainamete prANAH svA apiyanti tasmAtsvApyayaH svApyayo ha vai taM svapna
+ityAcakShate paro'kSham paro'kShakAmA hi devAH 
+
+
+
+10.5.2.[20]
+
+sa etaiH suptaH  na kasya cana veda na manasA saMkalpayati na vAcAnnasya rasaM
+vijAnAti na prANena gandhaM vijAnAti na cakShuShA pashyati na shrotreNa shR^iNotyetaM hyete
+tadApItA bhavanti sa eSha ekaH sanprajAsu bahudhA vyAviShTastasmAdekA satI
+lokampR^iNA sarvamagnimanuvibhavatyatha yadeka eva tasmAdekA 
+
+
+
+10.5.2.[21]
+
+tadAhuH  eko mR^ityurbahavA3 ityekashca bahavashceti ha brUyAdyadahAsAvamutra
+tenaiko'tha yadiha prajAsu bahudhA vyAviShTasteno bahavaH
+
+
+
+10.5.2.[22]
+
+tadAhuH  antike mR^ityurdUrA ityantike ca dUre ceti ha brUyAdyadahAyamihAdhyAtmaM
+tenAntike'tha yadasAvamutra teno dUre 
+
+
+
+10.5.2.[23]
+
+tadeSha shloko bhavati  anne bhAtyapashrito rasAnAM saMkShare'mR^ita iti
+yadetanmaNDalaM tapati tadannamatha ya eSha etasminmaNDale puruShaH so'ttA sa
+etasminnanne'pashrito bhAtItyadhidevatam
+
+
+
+10.5.2.[24]
+
+athAdhyAtmam  idameva sharIramannamatha yo'yaM dakShiNe'kShanpuruShaH so'ttA sa
+etasminnanne'pashrito bhAti 
+
+
+
+10.5.2.[25]
+
+tametamagnirityadhvaryava upAsate  yajurityeSha hIdaM sarvaM yunakti sAmeti
+candogA etasminhIdaM sarvaM samAnamukthamiti bahvR^icA eSha hIdaM
+sarvamutthApayati yAturiti yAtuvida etena hIdaM sarvaM yataM viShamiti sarpAH sarpa
+iti sarpavida Urgiti devA rayiriti manuShyA mAyetyasurAH svadheti pitaro devajana iti
+devajanavido rUpamiti gandharvA gandha ityapsarasastaM yathA-yathopAsate tadeva
+bhavati taddhainAnbhUtvAvati tasmAdetamevaMvitsarvairevaitairupAsIta sarvaM
+haitadbhavati sarvaM hainametadbhUtvAvati
+
+
+
+10.5.2.[26]
+
+sa eSha trIShTako'gniH  R^igekA yajurekA sAmaikA tadyAM kAM cAtrarcopadadhAti rukma
+eva tasyA Ayatanamatha yAM yajuShA puruSha eva tasyA Ayatanamatha yAM sAmnA
+puShkaraparNameva tasyA AyatanamevaM trIShTakaH
+
+
+
+10.5.2.[27]
+
+te vA ete  ubhe eSha ca rukma etacca puShkaraparNametam puruShamapIta ubhe
+hyR^ikShAme yajurapIta evamvekeShTakaH
+
+
+
+10.5.2.[28]
+
+sa eSha eva mR^ityuH  ya eSha etasminmaNDale puruSho yashcAyaM dakShiNe'kShanpuruShaH
+sa eSha evaMvida AtmA bhavati sa
+yadaivaMvidasmAllokAtpraityathaitamevAtmAnamabhisambhavati so'mR^ito bhavati
+mR^ityurhyasyAtmA bhavati 
+
+
+
+10.5.3.[1]
+
+neva vA idamagre'sadAsInneva sadAsIt  AsIdiva vA idamagre nevAsIttaddha tanmana
+evAsa 
+
+
+
+10.5.3.[2]
+
+tasmAdetadR^iShiNAbhyanUktam  nAsadAsInno sadAsIttadAnImiti neva hi sanmano nevAsat
+
+
+
+
+10.5.3.[3]
+
+tadidam manaH sR^iShTamAvirabubhUShat  niruktataram mUrtataraM
+tadAtmAnamanvaicattattapo'tapyata tatprAmUrcattatShaTtriMshataM
+sahasrANyapashyadAtmano'gnInarkAnmanomayAnmanashcitaste manasaivAdhIyanta
+manasAcIyanta manasaiShu grahA agR^ihyanta manasAstuvata manasAshaMsanyatkiM ca
+yaj~ne karma kriyate yatkiM ca yaj~niyaM karma manasaiva teShu tanmanomayeShu
+manashcitsu manomayamakriyata tadyatkiM cemAni bhUtAni manasA saMkalpayanti
+teShAmeva sA kR^itistAnevAdadhati tAMshcinvanti teShu grahAngR^ihNanti teShu stuvate teShu
+shaMsantyetAvatI vai manaso vibhUtiretAvatI visR^iShTiretAvanmanaH
+ShaTtriMshatsahasrANyagnayo'rkAsteShAmekaika eva tAvAnyAvAnasau pUrvaH
+
+
+
+10.5.3.[4]
+
+tanmano vAcamasR^ijata  seyaM vAkShR^iShTAvirabubhUShanniruktatarA mUrtatarA
+sAtmAnamanvaicatsA tapo'tapyata sA prAmUrcatsA ShaTtriMshataM
+sahasrANyapashyadAtmano'gnInarkAnvAÇmayAnvAkcitaste vAcaivAdhIyanta vAcaiShu
+grahA agR^ihyanta vAcAstuvata vAcAshaMsanyatkiM ca yaj~ne karma kriyate yatkiM ca
+yaj~niyaM karma vAcaiva teShu tadvAÇmayeShu vAkcitsu vAÇmayamakriyata tadyatkiM
+cemAni bhUtAni vAcA vadanti teShAmeva sA kR^itistAnevAdadhati tAMshcinvanti teShu
+grahAngR^ihNanti teShu stuvate teShu shaMsantyetAvatI vai vAco vibhUtiretAvatI
+visR^iShTiretAvatI vAkShaTtriMshatsahasrANyagnayo'rkAsteShAmekaika eva tAvAnyAvAnasau
+pUrvaH
+
+
+
+10.5.3.[5]
+
+sA vAkprANamasR^ijata  so'yam prANaH sR^iShTa AvirabubhUShanniruktataro mUrtataraH sa
+AtmAnamanvaicatsa tapo'tapyata sa prAmUrcatsa ShaTtriMshataM
+sahasrANyapashyadAtmano'gnInarkAnprANamayAnprANacitaste prANenaivAdhIyanta
+prANenAcIyanta prANenaiShu grahA agR^ihyanta prANenAstuvata prANenAshaMsanyatkiM ca
+yaj~ne karma kriyate yatkiM ca yaj~niyaM karma prANenaiva teShu tatprANamayeShu
+prANacitsu prANamayamakriyata tadyatkiM cemAni bhUtAni prANena prANanti teShAmeva
+sA kR^itistAnevAdadhati tAMShcinvanti teShu grahAngR^ihNanti teShu stuvate teShu
+shaMsantyetAvatI vai prANasya vibhUtiretAvatI visR^iShTiretAvAnprANaH ShaTtriMsha 
+
+
+
+10.5.3.[6]
+
+sa prANashcakShurasR^ijata  tadidaM cakShuH sR^iShTamAvirabubhUShanniruktataram
+mUrtataraM tadAtmAnamanvaicattattapo'tapyata tatprAmUrcattatShaTtriMshataM
+sahasrANyapashyadAtmano'gnInarkAshcakShurmayAMshcakShushcitaste cakShuShaivAdhIyanta
+cakShuShAcIyanta cakShuShaiShu grahA agrR^ihyanta cakShuShAstuvata
+cakShuShAshaMsanyatkiM ca yaj~ne karma kriyate yatkiM ca yaj~niyaM karma cakShuShaiva
+teShu taccakShurmayeShu cakShushcitsu cakShurmayamakriyata tadyatkiM cemAni bhUtAni
+cakShuShA pashyanti teShAmeva sA kR^itistAnevAdadhati tAMshcinvanti teShu grahAngR^ihNanti
+teShu stuvate teShu shaMsantyetAvatI vai cakShuSho vibhUtiretAvatI visR^iShTiretAvaccakShuH
+ShaTtriMsha 
+
+
+
+10.5.3.[7]
+
+taccakShuH shrotramasR^ijata  tadidaM shrotraM sR^iShTamAvirabubhUShanniruktataram
+mUrtataraM tadAtmAnamanvaicattattapo'tapyata tatprAmUrcattatShaTtriMshataM
+sahasrANyapashyadAtmano'gnInarkANcrotramayA¤crotracitaste shrotreNaivAdhIyanta
+shrotreNAcIyanta shrotreNaiShu grahA agR^ihyanta shrotreNAstuvata shrotreNAshaMsanyatkiM
+ca
+yaj~ne karma kriyate yatkiM ca yaj~niyaM karma shrotreNaiva teShu tacrotramayeShu
+shrotracitsu shrotramayamakriyata tadyatkiM cemAni bhUtAni shrotreNa shR^iNvanti
+teShAmeva sA kR^itistAnevAdadhati tAMshcinvanti teShu grahAngR^ihNanti teShu stuvate teShu
+shaMsantyetAvatI vai shrotrasya vibhUtiretAvatI visR^iShTiretAvacrotraM ShaTtriMsha
+
+
+
+10.5.3.[8]
+
+tacrotraM karmAsR^ijata  tatprANAnabhisamamUrcadimaM
+saMdeghamannasaMdehamakR^itsnaM vai karmarte prANebhyo'kR^itsnA uvai prANA R^ite
+karmaNaH 
+
+
+
+10.5.3.[9]
+
+tadidaM karma sR^iShTamAvirabubhUShat  niruktataram mUrtataraM
+tadAtmAnamanvaicattattapo'tapyata tatprAmUrcattatShaTtriMshataM
+sahasrANyapashyadAtmano'gnInarkAnkarmamayAnkarmacitaste karmaNaivAdhIyanta
+karmaNAcIyanta karmaNaiShu grahA agR^ihyanta karmaNAstuvata karmaNAshaMsanyatkiM
+ca yaj~ne karma kriyate yatkiM ca yaj~niyaM karma karmaNaiva teShu tatkarmamayeShu
+karmacitsu karmamayamakriyata tadyatkiM cemAni bhUtAni karma kurvate teShAmeva
+sA kR^itistAnevAdadhati tAMshcinvanti teShu grahAngR^ihNanti teShu stuvate teShu
+shaMsantyetAvatI vai karmaNo vibhUtiretAvatI visR^iShTiretAvatkarma ShaTtriMsha 
+
+
+
+10.5.3.[10]
+
+tatkarmAgnimasR^ijata  AvistarAM vA agniH karmaNaH karmaNA hyenaM janayanti
+karmaNendhate
+
+
+
+10.5.3.[11]
+
+so'yamagniH sR^iShTa AvirabubhUShat  niruktataro mUrtataraH sa AtmAnamanvaicatsa
+tapo'tapyata sa prAmUrcatsa ShaTtriMshataM
+sahasrANyapashyadAtmano'gnInarkAnagnimayAnagnicitaste'gninaivAdhIyantAgninAcIyan
+tAgninaiShu grahA agR^ihyantAgninAstuvatAgninAshaMsanyatkiM ca yaj~ne karma kriyate
+yatkiM ca yaj~niyaM karmAgninaiva teShu tadagnimayeShvagnicitsvagnimayamakriyata
+tadyatkiM cemAni bhUtAnyagnimindhate teShAmeva sA kR^itistAnevAdadhati tAMshcinvanti
+teShu grahAngR^ihNanti teShu stuvate teShu shaMsantyetAvatI vA agnervibhUtiretAvatI
+visR^iShTiretAvAnagniH ShaTtriMshatsahasrANyagnayo=rkAsteShAmekaika eva tAvAnyAvAnasau
+pUrvaH 
+
+
+
+10.5.3.[12]
+
+te haite vidyAcita eva  tAnhaitAnevaMvide sarvadA sarvANi bhUtAni cinvantyapi svapate
+vidyayA haivaita evaMvidashcitA bhavanti 
+
+
+
+10.5.4.[1]
+
+ayaM vAva loka eSho'gnishcitaH  tasyApa eva parishrito manuShyA yajuShmatya iShTakAH
+sUdadohA oShadhayashca vanaspatayashca purIShamAhutayaH samidho'gnirlokampR^iNA
+tadvA etatsarvamagnimevAbhisampadyate tatsarvo'gnirlokampR^iNAmabhisampadyate sa
+yo haitadevaM veda lokampR^iNAmenam bhUtametatsarvamabhisampadyate
+
+
+
+10.5.4.[2]
+
+antarikShaM ha tvevaiSho'gnishcitaH  tasya dyAvApR^ithivyoreva saMdhiH parishritaH pareNa
+hAntarikShaM dyAvApR^ithivI saMdhattastAH parishrito vayAMsi yajuShmatya iShTakA varShaM
+sUdadohA marIcayaH purIShamAhutayaH samidho vAyurlokampR^iNA tadvA etatsarvaM
+vAyumevAbhisampadyate tatsarvo'gnirlo 
+
+
+
+10.5.4.[3]
+
+dyaurha tvevaiSho'gnishcitaH  tasyApa eva parishrito yathA ha vA idaM koshaH samubjita
+evamime lokA apsvantastadyA imAMlokAnpareNApastAH parishrito devA yajuShmatya
+iShTakA yadevaitasmiMloke'nnaM tatsUdadohA nakShatrANi purIShamAhutayaH samidha
+Adityo lokampR^iNA tadvA etatsarvamAdityamevAbhisampadyate tatsarvo'gnirlo 
+
+
+
+10.5.4.[4]
+
+Adityo ha tvevaiSho'gnishcitaH  tasya disha eva parishritastAH ShaShTishca trINi ca shatAni
+bhavanti ShaShTishca ha vai trINi ca shatAnyAdityaM dishaH samantam pariyanti rashmayo
+yajuShmatya iShTakAstAH ShaShTishcaiva trINi ca shatAni bhavanti ShaShTishca ha vai trINi ca
+shatAnyAdityasya rashmayastadyatparishritsu yajuShmatIH pratyarpayati rashmIMstaddikShu
+pratyarpayatyatha yadantarA dishashca rashmIMshca tatsUdadohA atha yaddikShu ca
+rashmiShu cAnnaM tatpurIShaM tA AhutayastAH samidho'tha yaddisha iti ca rashmaya iti
+cAkhyAyate tallokampR^iNA tadvA etatsarvaM disha iti caiva rashmaya iti cAkhyAyate
+tatsarvo'gnirlo 
+
+
+
+10.5.4.[5]
+
+nakShatrANi ha tvevaiSho'gnishcitaH  tAni vA etAni saptaviMshatirnakShatrANi saptaviMshatiH
+saptaviMshatirhopanakShatrANyekaikaM nakShatramanUpatiShThante tAni sapta ca shatAni
+viMshatishcAdhi ShaTtriMshattato yAni sapta ca shatAni viMshatishceShTakA eva tAH ShaShTishca
+trINi ca shatAni parishritaH ShaShTishca trINi ca shatAni yajuShmatyo'tha yAnyadhi
+ShaTtriMshatsa trayodasho mAsaH sa AtmA triMshadAtmA pratiShThA dve shira eva ShaTtriMshyau
+tadyatte dve bhavato dvyakSharaM hi shiro'tha yadantarA nakShatre tatsUdadohA atha
+yannakShatreShvannaM tatpurIShaM tA AhutayastAH samidho'tha
+yannakShatrANItyAkhyAyate tallokampR^iNA tadvA etatsarvaMnakShatrANItyevAkhyAyate
+tatsarvo'gnirlo 
+
+
+
+10.5.4.[6]
+
+tA vA etAH  ekaviMshatirbR^ihatya ekaviMsho vai svargo loko bR^ihatI svargo lokastadeSha
+svargaM lokamabhisampadyata ekaviMshaM ca stomam bR^ihatIM ca candaH 
+
+
+
+10.5.4.[7]
+
+candAMsi ha tvevaiSho'gnishcitaH  tAni vA etAni sapta candAMsi caturuttarANi tricAni teShAM
+sapta ca shatAni viMshatishcAkSharANyadhi ShaTtriMshattato yAni sapta ca shatAni
+viMshatishceShTakA eva tAH ShaShTishca trINi ca shatAni parishritaH ShaShTishca trINi ca shatAni
+yajuShmatyo'tha yAnyadhi ShaTtriMshatsa trayodasho mAsaH sa AtmA triMshadAtmA
+pratiShThA dve prANA dve shira eva ShaTtriMshyau tadyatte dve bhavato dvyakSharaM hi
+shiraH
+
+
+
+10.5.4.[8]
+
+tasyai vA etasyai ShaTtriMshadakSharAyai bR^ihatyai  yAni dasha prathamAnyakSharANi sA
+dashAkSharaikapadAtha yAni viMshatiH sA viMshatyakSharA dvipadAtha yAni triMshatsA
+triMshadakSharA virADatha yAni trayastriMshatsA trayastriMshadakSharAtha yAni
+catustriMshatsA catustriMshadakSharA svarADatha
+yatsarvaishcandobhirayamagnishcitastadaticandAstA u sarvA iShTakA eveShTaketi
+trINyakSharANi tripadA gAyatrI tenaiSha gAyatro'gnirmR^idApa iti trINyakSharANi tripadA
+gAyatrI teno evaiSha gAyatro'tha yadantarA candasI tatsUdadohA atha
+yaccandaHsvannaM tatpurIShaM tA AhutayastAH samidho'tha yaccandAMsItyAkhyAyate
+tallokampR^iNA tadvA etatsarvaM candAMsItyevAkhyAyate tatsarvo'gnirlo 
+
+
+
+10.5.4.[9]
+
+tA vA etAH  ekaviMshatirbR^ihatya ekaviMsho vai svargo loko bR^ihatI svargo lokastadeSha
+svargaM lokamabhisampadyata ekaviMshaM ca stomam bR^ihatIM ca candaH 
+
+
+
+10.5.4.[10]
+
+saMvatsaro ha tvevaiSho'gnishcitaH  tasya rAtraya eva parishritastAH ShaShTishca trINi ca
+shatAni bhavanti ShaShTishca ha vai trINi ca shatAni saMvatsarasya rAtrayo'hAni yajuShmatya
+iShTakAstAH ShaShTishcaiva trINi ca shatAni bhavanti ShaShTishca ha vai trINi ca shatAni
+saMvatsarasyAhAnyatha yA amUH ShaTtriMshadiShTakA atiyanti yaH sa trayodasho mAsa
+AtmArdhamAsAshca te mAsAshca caturviMshatirardhamAsA dvAdasha mAsA atha
+yadantarAhorAtre tatsUdadohA atha yadahorAtreShvannaM tatpurIShaM tA AhutayastAH
+samidho'tha yadahorAtrANItyAkhyAyate tallokampR^iNA tadvA
+etatsarvamahorAtrANItyevAkhyAyate tatsarvo'gnirlo
+
+
+
+10.5.4.[11]
+
+tA vA etAH  ekaviMshatirbR^ihatya ekaviMsho vai svargo loko bR^ihatI svargo lokastadeSha
+svargaM lokamabhisampadyate ekaviMshaM ca stomam bR^ihatIM ca candaH 
+
+
+
+10.5.4.[12]
+
+AtmA ha tvevaiSho'gnishcitaH  tasyAsthInyeva parishritastAH ShaShTishca trINi ca shatAni
+bhavanti ShaShTishca ha vai trINi ca shatAni puruShasyAsthIni majjAno yajuShmatya
+iShTakAstAH ShaShTishcaiva trINi ca shatAni bhavanti ShaShTishca ha vai trINi ca shatAni
+puruShasya majjAno'tha yA amUH ShaTtriMshadiShTakA atiyanti yaH sa trayodasho mAsa
+AtmA prANaH sa tasya triMshadAtmanvidhAH pratiShThAyAM dve shIrShandve tadyatte dve
+bhavato dvikapAlaM hi shiro'tha yenemAni parvANi saMtatAni tatsUdadohA athaitattrayaM
+yenAyamAtmA pracanno loma tvaÇmAMsamiti tatpurIShaM yatpibati tA Ahutayo
+yadashnAti tAH samidho'tha yadAtmetyAkhyAyate tallokampR^iNA tadvA
+etatsarvamAtmetyevAkhyAyate tatsarvo'gnirlo 
+
+
+
+10.5.4.[13]
+
+tA vA etAH  ekaviMshatirbR^iha
+
+
+
+10.5.4.[14]
+
+sarvANi ha tveva bhUtAni  sarve devA eSho'gnishcita Apo vai sarve devAH sarvANi bhUtAni
+tA haitA Apa evaiSho'gnishcitastasya nAvyA eva parishritastAH ShaShTishca trINi ca shatAni
+bhavanti ShaShTishca ha vai trINi ca shatAnyAdityaM nAvyAH samantam pariyanti nAvyA u
+eva yajuShmatya iShTakAstAH ShaShTishcaiva trINi ca shatAni bhavanti ShaShTishca ha vai trINi
+ca shatAnyAdityaM nAvyA abhikSharantyatha yadantarA nAvye tatsUdadohA atha yA amUH
+ShaTtriMshadiShTakA atiyanti yaH sa trayodasho mAsa AtmAyameva sa yo'yaM hiraNmayaH
+puruShaH 
+
+
+
+10.5.4.[15]
+
+tasyaite pratiShThe  rukmashca puShkaraparNaM cApashcAdityamaNDalaM ca srucau bAhU
+tAvindrAgnI dve svayamAtR^iNe iyaM cAntarikShaM ca tisro vishvajyotiSha etA devatA
+agnirvAyurAditya etA hyeva devatA vishvaM jyotirdvAdashartavyAH sa saMvatsaraH sa AtmA
+pa¤ca pa¤cacUDAH sa yaj~naste devA atha yadvikarNI ca svayamAtR^iNA cAshmA
+pR^ishniryashcite'gnirnidhIyate sA pa¤catrIMshI lokampR^iNAyai yajuH ShaTtriMshI so'syaiSha
+sarvasyAntamevAtmA sa eSha sarvAsAmapAm madhye sa eSha sarvaiH kAmaiH sampanna
+Apo vai sarve kAmAH sa eSho'kAmaH sarvakAmo na hyetaM kasya cana kAmaH
+
+
+
+10.5.4.[16]
+
+tadeSha shloko bhavati  vidyayA tadArohanti yatra kAmAH parAgatAH na tatra dakShiNA
+yanti nAvidvAMsastapasvina iti na haiva taM lokaM dakShiNAbhirna
+tapasAnevaMvidashnuta evaMvidAM haiva sa lokaH 
+
+
+
+10.5.4.[17]
+
+abhram purISham  candramA Ahutayo nakShatrANi samidho yaccandramA nakShatre
+vasatyAhutistatsamidhi vasatyetadu vA AhuterannameShA pratiShThA tasmAdAhutirna
+kShIyata etaddhyasyA annameShA pratiShThAtha yaddevA ityAkhyAyate tallokampR^iNA
+tadvA etatsarvaM devA ityevAkhyAyate 
+
+
+
+10.5.4.[18]
+
+tadetadR^icAbhyuktam  vishve devA anu tatte yajurguriti sarvANi hyatra bhUtAni sarve
+devA yajureva bhavanti tatsarvo'gnirlokampR^iNAmabhisampadyate sa yo haitadevaM
+veda lokampR^iNAmenam bhUtametatsarvamabhisampadyate 
+
+
+
+10.5.4.[19]
+
+tA vA etAH  ekaviMshatirbR^ihatya ekaviMsho vai svargo loko bR^ihatI svargo lokastadeSha
+svargaM lokamabhisampadyata ekaviMshaM ca stomam bR^ihatIM ca candaH
+
+
+
+10.5.5.[1]
+
+kushrirha vAjashravaso'gniM cikye  taM hovAca sushruvAH kauShyo gautama
+yadagnimacaiShIH prA¤camenamacaiShIH
+pratya¤camenamacaiShIrnya¤camenamacaiShIruttAnamenamacaiShIH 
+
+
+
+10.5.5.[2]
+
+yadyahainam prA¤camacaiShIH yathA parAca AsInAya
+pR^iShThato'nnAdyamupAharettAdR^iktanna te haviH pratigrahIShyati
+
+
+
+10.5.5.[3]
+
+yadyu vA enam pratya¤camacaiShIH  kasmAdasya tarhi pashcAtpucamakArShIH
+
+
+
+10.5.5.[4]
+
+yadyu vA enaM nya¤camacaiShIH  yathA nIcaH shayAnasya pR^iShThe'nnAdyam
+pratiShThApayettAdR^iktannaiva te haviH pratigrahIsyati
+
+
+
+10.5.5.[5]
+
+yadyu vA enamuttAnamacaiShIH  na vA uttAnaM vayaH svargaM lokamabhivahati na tvA
+svargaM lokamabhivakShyatyasvargya u te bhaviShyatIti
+
+
+
+10.5.5.[6]
+
+sa hovAca  prA¤camenamacaiSham pratya¤camenamacaiShaM
+nya¤camenamacaiShamuttAnamenamacaiShaM sarvA anu disha enamacaiShamiti
+
+
+
+10.5.5.[7]
+
+sa yatprA¤cam puruShamupadadhAti  prAcyau srucau tatprAÇ cIyate'tha yatpratya¤caM
+kUrmamupadadhAti pratya¤ci pashushIrShANi tatpratyaÇ cIyate'tha yannya¤caM
+kUrmamupadadhAti nya¤ci pashushIrShANi nIcIriShTakAstannyaÇ cIyate'tha yaduttAnam
+puruShamupadadhAtyuttAne srucA uttAnamulUkhalamuttAnAmukhAM
+taduttAnashcIyate'tha yatsarvA anu dishaH parisarpamiShTakA upadadhAti
+tatsarvatashcIyate
+
+
+
+10.5.5.[8]
+
+atha ha koShA dhAvayantaH  nirUDhashirasamagnimupAdhAvayAM cakrusteShAM haika
+uvAca shrIrvai shiraH shriyamasya nirauhItsarvajyAniM jyAsyata iti sa ha tathaivAsa
+
+
+
+10.5.5.[9]
+
+atha haika uvAca  prANA vai shiraH prANAnasya nirauhItkShipre'muM lokameShyatIti sa
+u
+ha tathaivAsa 
+
+
+
+10.5.5.[10]
+
+Urdhvo vA eSha etaccIyate  yaddarbhastambo logeShTakAH puShkaraparNaM
+rukmapuruShau srucau svayamAtR^iNA dUrveShTakA dviyajU retaHsicau vishvajyotirR^itavye
+aShADhA kUrmo'tha hAsyaitadeva pratyakShatamAM shiro yashcite'gnirnidhIyate tasmAnna
+nirUhet
+
+
+
+10.6.1.[1]
+
+atha haite'ruNe  aupaveshau samAjagmuH satyayaj~naH pauluShirmahAshAlo jAbAlo buDila
+AshvatarAshvirindradyumno bhAllaveyo janaH shArkarAkShyaste ha vaishvAnare samAsata
+teShAM ha vaishvAnare na samiyAya
+
+
+
+10.6.1.[2]
+
+te hocuH  ashvapatirvA ayaM kaikeyaH samprati vaishvAnaraM veda taM gacAmeti te
+hAshvapatiM kaikeyamAjagmustebhyo ha pR^ithagAvasathAnpR^ithagapacitIH
+pR^ithakShAhasrAntsomAnprovAca te ha prAtarasaMvidAnA eva samitprANayaH
+praticakramira upa tvAyAmeti 
+
+
+
+10.6.1.[3]
+
+sa hovAca  yannu bhagavanto'nUcAnA anUcAnaputrAH kimidamiti te hocurvaishvAnaraM
+ha bhagavAntsamprati veda taM no brUhIti sa hovAca samprati khalu nvA ahaM
+vaishvAnaraM vedAbhyAdhatta samidha upetA stheti
+
+
+
+10.6.1.[4]
+
+sa hovAcAruNamaupaveshiM  gautama kaM tvaM vaishvAnaraM vettheti pR^ithivImeva
+rAjanniti hovAcomiti hovAcaiSha vai vaishvAnara etaM hi vai tvam pratiShThAM
+vaishvAnaraM vettha tasmAttvam pratiShThitaH prajayA pashubhirasi yo vA etam
+pratiShThAM vaishvAnaraM vedApa punarmR^ityuh+ jayati sarvamAyureti pAdau tvA etau
+vaishvAnarasya pAdau te'mlAsyatAM yadi ha nAgamiShya iti pAdau te'viditAvabhaviShyatAM
+yadi ha nAgamiShya iti vA
+
+
+
+10.6.1.[5]
+
+atha hovAca satyayaj~nam pauluShim  prAcInayogya kaM tvaM vaishvAnaraM vetthetyapa
+eva rAjanniti hovAcomiti hovAcaiSha vai rayirvaishvAnara etaM hi vai tvaM rayiM
+vaishvAnaraM vettha tasmAttvaM rayimAnpuShTimAnasi yo vA etaM rayiM vaishvAnaraM
+vedApa punarmR^ityuM jayati sarvamAyureti vastistvA eSha vaishvAnarasya
+vastistvAhAsyadyadi ha nAgamiShya iti vastiste'vidito'bhaviShyadyadi ha nAgamiShya iti
+vA 
+
+
+
+10.6.1.[6]
+
+atha hovAca mahAshAlaM jAbAlam  aupamanyava kaM tvaM vaishvAnaraM
+vetthetyAkAshameva rAjanniti hovAcomiti hovAcaiSha vai bahulo vaishvAnara etaM hi vai
+tvam bahulaM vaishvAnaraM vettha tasmAttvam bahuH prajayA pashubhirasi yo vA etam
+bahulaM vaishvAnaraM vedApa punarmR^ityuM jayati sarvamAyuretyAtmA tvA eSha
+vaishvAnarasyAtmA tvAhAsyadyadi ha nAgamiShya ityAtmA te'vidito'bhaviShyadyadi ha
+nAgamiShya iti vA
+
+
+
+10.6.1.[7]
+
+atha hovAca buDilamAshvatarAshvim  vaiyAghrapadya kaM tvaM vaishvAnaraM vettheti
+vAyumeva rAjanniti hovAcomiti hovAcaiSha vai pR^ithagvartmA vaishvAnara etaM hi vai
+tvam pR^ithagvartmAnaM vaishvAnaraM vettha tasmAttvAm pR^ithagrathashreNayo'nuyAnti yo
+vA etam pR^ithagvartmAnaM vaishvAnaraM vedApa punarmR^ityuM jayati sarvamAyureti
+prANastvA eSha vaishvAnarasya prANastvAhAsyadyadi ha nAgamiShya iti
+prANaste'vidito'bhaviShyadyadi ha nAgamiShya iti vA
+
+
+
+10.6.1.[8]
+
+atha hovAcendradyumnam bhAllaveyam  vaiyAghrapadya kaM tvaM vaishvAnaraM
+vetthetyAdityameva rAjanniti hovAcomiti hovAcaiSha vai sutatejA vaishvAnara etaM hi vai
+tvaM sutatejasaM vaishvAnaraM vettha tasmAttavaiSha suto'dyamAnaH
+pacyamAno'kShIyamANo gR^iheShu tiShThati yo vA etaM sutatejasaM vaishvAnaraM vedApa
+punarmR^ityuM jayati sarvamAyureti cakShustvA etadvaishvAnarasya cakShustvAhAsyadyadi
+ha nAgamiShya iti cakShuste'viditamabhaviShyadyadi ha nAgamiShya iti vA 
+
+
+
+10.6.1.[9]
+
+atha hovAca janaM shArkarAkShyam  sAyavasa kaM tvaM vaishvAnaraM vettheti divameva
+rAjanniti hovAcomiti hovAcaiSha vA atiShThA vaishvAnara etaM hi vai tvamatiShThAM
+vaishvAnaraM vettha tasmAttvaM samAnAnatitiShThasi yo vA etamatiShThAM vaishvAnaraM
+vedApa punarmR^ityuM jayati sarvamAyureti mUrdhA tvA eSha vaishvAnarasya mUrdhA
+tvAhAsyadyadi ha nAgamiShya iti mUrdhA te'vidito'bhaviShyadyadi ha nAgamiShya iti vA
+
+
+
+10.6.1.[10]
+
+tAnhovAca  ete vai yUyam pR^ithagvaishvAnarAnvidvAMsaH pR^ithagannamaghasta
+prAdeshamAtramiva ha vai devAH suviditA abhisampannAstathA tu va enAnvakShyAmi
+yathA prAdeshamAtramevAbhisampAdayiShyAmIti 
+
+
+
+10.6.1.[11]
+
+sa hovAca  mUrdhAnamupadishanneSha vA atiShThA vaishvAnara iti cakShuShI
+upadishannuvAcaiSha vai sutatejA vaishvAnara iti nAsike upadishannuvAcaiSha vai
+pR^ithagvartmA vaishvAnara iti mukhyamAkAshamupadishannuvAcaiSha vai bahulo
+vaishvAnara iti mukhyA apa upadishannuvAcaiSha vai rayirvaishvAnaro iti
+cubukamupadishannuvAcaiSha vai pratiShThA vaishvAnara iti sa eSho'gnirvaishvAnaro
+yatpuruShaH sa yo haitamevamagniM vaishvAnaram puruShavidham puruShe'ntaH
+pratiShThitaM vedApa punarmR^ityuM jayati sarvamAyureti na hAsya bruvANaM cana
+vaishvAnaro hinasti
+
+
+
+10.6.2.[1]
+
+dvayaM vA idamattA caivAdyaM ca  tadyadobhayaM samAgacatyattaivAkhyAyate nAdyam
+
+
+
+10.6.2.[2]
+
+sa vai yaH so'ttAgnireva saH  tasminyatkiM cAbhyAdadhatyAhitaya evAsya tA Ahitayo ha
+vai tA Ahutaya ityAcakShate paro'kSham paro'kShakAmA hi devAH 
+
+
+
+10.6.2.[3]
+
+Adityo vA attA  tasya candramA evAhitayashcandramasaM hyAditya
+AdadhatItyadhidevatam 
+
+
+
+10.6.2.[4]
+
+athAdhyAtmam  prANo vA attA tasyAnnamevAhitayo'nnaM hi prANa AdadhatIti nvagneH 
+
+
+
+10.6.2.[5]
+
+athArkasya  agnirvA arkastasyAhutaya eva kamAhutayo hyagnaye kam
+
+
+
+10.6.2.[6]
+
+Adityo vA arkaH  tasya candramA eva kaM candramA hyAdityAya kamityadhidevatam 
+
+
+
+10.6.2.[7]
+
+athAdhyAtmam  prANo vA arkastasyAnnameva kamannaM hi prANAya kamiti
+nvevArkasya 
+
+
+
+10.6.2.[8]
+
+athokthasya  agnirvA uktasyAhutaya eva thamAhutibhirhyagniruttiShThati 
+
+
+
+10.6.2.[9]
+
+Adityo vA uk  tasya candramA eva thaM candramasA hyAditya uttiShThatItyadhidevatam
+
+
+
+10.6.2.[10]
+
+athAdhyAtmam  prANo vA uktasyAnnameva thamannena hi prANa uttiShThatIti
+nvevokthasya sa eSho'gnividho'rkavidha ukthavidho yatpuruShaH sa yo
+haitamevamagnividhamarkavidhamukthavidham puruShamupAste viduSho
+haivAsyaivam bhrAtR^ivyo mlAyati 
+
+
+
+10.6.2.[11]
+
+prANena vA agnirdIpyate  agninA vAyurvAyunAditya Adityena candramAshcandramasA
+nakShatrANi nakShatrairvidyudetAvatI vai dIptirasmiMshca loke'muShmiMshca sarvA haitAM
+dIptiM dIpyate'smiMshca loke'muShmiMshca ya evaM veda 
+
+
+
+10.6.3.[1]
+
+satyam brahmetyupAsIta  atha khalu kratumayo'yam puruShaH sa
+yAvatkraturayamasmAllokAtpraityevaMkraturhAmuM lokam pretyAbhisambhavati
+
+
+
+10.6.3.[2]
+
+sa AtmAnamupAsIta  manomayam prANasharIram bhArUpamAkAshAtmAnaM
+kAmarUpiNam
+manojavasaM satyasaMkalpaM satyadhR^itiM sarvagandhaM sarvarasaM sarvA anu dishaH
+prabhUtaM sarvamidamabhyAptamavAkkamanAdaraM yathA vrIhirvA yavo vA shyAmAko
+vA shyAmAkataNDulo vaivamayamantarAtmanpuruSho hiraNmayo yathA
+jyotiradhUmamevaM jyAyAndivo jyAyAnAkAshAjjyAyAnasyai pR^ithivyai jyAyAntsarvebhyo
+bhUtebhyaH sa prANasyAtmaiSha ma Atmaitamita AtmAnam pretyAbhisambhaviShyAmIti
+yasya syAdaddhA na vicikitsAstIti ha smAha shANDilya evametaditi 
+
+
+
+10.6.4.[1]
+
+uShA vA ashvasya medhyasya shiraH  sUryashcakShurvAtaH prANo vyAttamagnirvaishvAnaraH
+saMvatsara AtmAshvasya medhyasya dyauShpR^iShThamantarikShamudaram pR^ithivI
+pAjasyaM dishaH pArshve avAntaradishaH parshava R^itavo'N^gAni mAsAshcArdhamAsAshca
+parvANyahorAtrANi pratiShThA nakShatrANyasthIni nabho mAMsAnyUvadhyaM sikatAH
+sindhavo gudA yakR^icca klomAnashca parvatA oShadhayashca vanaspatayashca
+lomAnyudyanpUrvArdho nimlocanjaghanArdho yadvijR^imbhate tadvidyotate
+yadvidhUnute tatstanayati yanmehati tadvarShati vAgevAsya vAgaharvA ashvam
+purastAnmahimAnvajAyata tasya pUrve samudre yonIrAtrirenam
+pashcAnmahimAnvajAyata tasyApare samudre yoniretau vA ashvam mahimAnAvabhitaH
+sambabhUvaturhayo bhUtvA devAnavahadvAjI gandharvAnarvAsurAnashvo
+manuShyAntsamudra evAsya bandhuH samudro yoniH
+
+
+
+10.6.5.[1]
+
+naiveha kiM canAgra AsIt  mR^ityunaivedamAvR^itamAsIdashanAyayAshanAyA hi
+mR^ityustanmano'kurutAtmanvI syAmiti so'rcannacarattasyArcata Apo'jAyantArcate vai
+me kamabhUditi tadevArkyasyArkatvaM kaM ha vA asmai bhavati ya
+evametadarkyasyArkatvaM veda 
+
+
+
+10.6.5.[2]
+
+Apo vA arkaH  tadyadapAM shara AsIttatsamahanyata sA
+pR^ithivyabhavattasyAmashrAmyattasya shrAntasya taptasya tejo raso niravartatAgniH 
+
+
+
+10.6.5.[3]
+
+sa tredhAtmAnaM vyakuruta  AdityaM tR^itIyaM vAyuM tR^itIyaM sa eSha
+prANastredhAvihitastasya prAcI dikshiro'sau cAsau cermAvathAsya pratIcI dikpucamasau
+cAsau ca sakthyau dakShiNA codIcI ca pArshve
+dyauShpR^iShThamantarikShamudaramiyamuraH sa eSho'psu pratiShThito yatra kva caiti
+tadeva pratitiShThatyevaM vidvAn 
+
+
+
+10.6.5.[4]
+
+so'kAmayata  dvitIyo ma AtmA jAyeteti sa manasA vAcam mithunaM
+samabhavadashanAyAm mR^ityustadyadreta AsItsa saMvatsaro'bhavanna ha purA tataH
+saMvatsara Asa tametAvantaM kAlamabibharyAvAntsaMvatsarastametAvataH kAlasya
+parastAdasR^ijata taM jAtamabhivyAdadAtsa bhANakarotsaiva vAgabhavat
+
+
+
+10.6.5.[5]
+
+sa aikShata  yadi vA imamabhimaMsye kanIyo'nnaM kariShya iti sa tayA vAcA
+tenAtmanedaM sarvamasR^ijata yadidaM kiM carco yajUMShi sAmAni candAMsi
+yaj~nAnprajAm pashUntsa yadyadevAsR^ijata tattadattumadhriyata sarvaM vA attIti
+tadaditeradititvaM sarvasyAttA bhavati sarvamasyAnnam bhavati ya
+evametadaditeradititvaM veda 
+
+
+
+10.6.5.[6]
+
+so'kAmayata  bhUyasA yaj~nena bhUyo yajeyeti so'shrAmyatsa tapo'tapyata tasya shrAntasya
+taptasya yasho vIryamudakrAmatprANA vai yasho vIryaM tatprANeShUtkrAnteShu sharIraM
+shvayitumadhriyata tasya sharIra eva mana AsIt
+
+
+
+10.6.5.[7]
+
+so'kAmayata  medhyaM ma idaM syAdAtmanvyanena syAmiti tato'shvaH
+samabhavadyadashvattanmedhyamabhUditi tadevAshvamedhasyAshvamedhatvameSha ha
+vA ashvamedhaM veda ya enamevaM veda 
+
+
+
+10.6.5.[8]
+
+tamanavarudhyevAmanyata  taM saMvatsarasya parastAdAtmana Alabhata
+pashUndevatAbhyaH pratyauhattasam:tsarvadevatyam prokShitam prAjApatyamAlabhanta
+eSha vA ashvamedho ya eSha tapati tasya saMvatsara AtmAyamagnirarkastasyeme lokA
+AtmAnastAvetAvarkAmedhau so punarekaiva devatA bhavati mR^ityurevApa punarmR^ityuM
+jayati nainam mR^ityurApnoti mR^ityurasyAtmA bhavati sarvamAyuretyetAsAM
+devatAnAmeko bhavati ya evaM veda
+
+
+
+10.6.5.[9]
+
+atha vaMshaH  samAnamA sAJNjIvIputrAtsAJNjIvIputro
+mANDUkAyanermANDUkAyanirmANDavyAnmANDavyaH kautsAtkautso
+mAhitthermAhitthirvAmakakShAyaNAdvAmakakShAyaNo vAtsyAdvAtsyaH
+shANDilyAcANDilyaH
+kushreH kushriryaj~navacaso rAjastambAyanAdyaj~navacA
+rAjastambAyanasturAtkAvaSheyAtturaH kAvaSheyaH prajApateH prajApatirbrahmaNo
+brahma svayambhu brahmaNe namaH 
+
+
+
+

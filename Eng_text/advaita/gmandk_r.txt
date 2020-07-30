@@ -1,0 +1,749 @@
+Gaudapada: Mandukya-Upanisadkarika (Mandukyopanisadkarika,
+also known as Gaudapadakarika, Mandukyakarika or Agamasastra)
+
+1) Agamaprakarana
+2) Vaitathyaprakarana
+3) Advaitaprakarana
+4) Alatasantiprakarana
+(text extracted from the commented version (see: Agamasastra))
+
+
+
+Input by members of the Sansknet project
+(formerly: www.sansknet.org)
+
+
+
+This GRETIL version has been converted from a custom Devanagari encoding.
+Therefore, word boundaries are usually not marked by blanks.
+These and other irregularities cannot be standardized at present.
+
+In addition, the Sansknet version came in a kind of semi-pausa format, 
+with Sandhi rules applied only in part. 
+In this GRETIL version Sandhi rules are applied throughout, 
+although some cases may have escaped the conversion routine.
+
+The text of Gaudapada's Karikas has been checked against the ed. by A.V. Kathavate,
+Poona 1890 (Anandasrama Sanskrit Series, 10).
+
+
+
+___________________________________________________________________
+
+THIS TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+            
+Text converted to Ronald E. Emmerick's encoding for WordPerfect 5.1 DOS 
+and related utility programmes BHELA, CARAKA etc. (DOS versions):
+            
+description             character  =ASCII
+            
+long a                  A             195
+long A                  ù             249
+long i                  I             197
+long I                  ý             253
+long u                  U             198
+long U                  ô             244
+vocalic r               R^i             173
+vocalic R               ã             227
+long vocalic r          Ì             204
+vocalic l               Ê             202
+long vocalic l          Ë             203
+velar n                 Ç             199
+velar N                 §             167
+palatal n               ¤             164
+palatal N               ¥             165
+retroflex t             T             194
+retroflex T             è             232
+retroflex d             D             172
+retroflex D             Ö             214
+retroflex n             N             239
+retroflex N             ×             215
+palatal s               sh             211
+palatal S               Á             193
+retroflex s             Sh             171
+retroflex S             å             229
+anusvara                M             230
+capital anusvara        õ             245
+visarga                 H             247
+capital visarga         ê             234
+
+Other characters of the REE encoding table are not included.
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.             
+
+For a comprehensive list of REE and other GRETIL encodings 
+and formats see:
+www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdiac.pdf
+and
+www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdias.pdf
+___________________________________________________________________
+
+
+
+
+
+
+
+bahiHpraj~no vibhuH vishvo hy antaHpraj~nas tu taijasaH /
+ghanapraj~naH tathA prAj~na eka eva tridhA smR^itaH // MandUpK_1.1 //
+
+dakShiNAkShimukhe vishvo manasy antas tu taijasaH /
+AkAshe ca hR^idi prAj~nas tridhA dehe vyavasthitaH // MandUpK_1.2 //
+
+vishvaH hi sthUlabhuÇ nityaM taijasaH praviviktabhuk /
+Anandabhuk tathA prAj~nastridhA bhogaM nibodhata // MandUpK_1.3 //
+
+sthUlaM tarpayate vishvaM praviviktaM tu taijasam /
+Anandash ca tathA prAj~naM tridhA tR^iptiM nibodhata // MandUpK_1.4 //
+
+triShu dhAmasu yadbhojyaM bhoktA yash ca prakIrtitaH /
+vadaitadubhayaM yas tu sa bhuJNjAno na lipyate // MandUpK_1.5 //
+
+prabhavaH sarvabhAvAnAM satAm iti vinishcayaH /
+sarvaM janayati prANash ceto 'MshUn puruShaH pR^ithak // MandUpK_1.6 //
+
+vibhUtiM prasavaM tv anye manyante sR^iShTicintakAH /
+svapnamAyAsarUpeti sR^iShTir anyaiH vikalpitA // MandUpK_1.7 //
+
+icchAmAtraM prabhoH sR^iShTir iti sR^iShTau vinishcitAH /
+kAlAt prasUtiM bhUtAnAM manyante kAlacintakAH // MandUpK_1.8 //
+
+bhogArthaM sR^iShTir iti anye krIDArtham iti cApare /
+devasyaiSha svabhAvo 'yam AptakAmasya kA spR^ihA // MandUpK_1.9 //
+
+nivR^itteH sarvaduHkhAnAm IshAnaH prabhur avyayaH /
+advaitaH sarvabhAvAnAM devAs turyo vibhuH smR^itaH // MandUpK_1.10 //
+
+kAryakAraNabaddhau tAv iShyete vishvataijasau /
+prAj~naH kAraNabaddhas tu dvau tau turye na sidhyataH // MandUpK_1.11 //
+
+nAtmAnaM na parAsh caiva na satyaM na api cAnR^itam /
+prAj~naH kiJNcana saMvetti turyaM tat sarvadR^ik sadA // MandUpK_1.12 //
+
+dvaitasyAgrahaNaM tulyam ubhayoH prAj~naturyayoH /
+bIjanidrAyutaH prAj~naH sA ca turye na vidyate // MandUpK_1.13 //
+
+svapnanidrAyutAv Adyau prAj~nas tv asvapnanidrayA /
+na nidrAM naiva ca svapnaM turye pashyanti nishcitaH // MandUpK_1.14 //
+
+anyathA gR^ihNataH svapno nidrA tattvam ajAnataH /
+viparyAse tayoH kShINe turIyaM padam ashnute // MandUpK_1.15 //
+
+anAdimAyayA supto yadA jIvaH prabudhyate /
+ajam anidram asvapnam advaitaM budhyate tadA // MandUpK_1.16 //
+
+prapaJNco yadi vidyeta nivarteta na saMshayaH /
+mAyAmAtram idaM dvaitam advaitaM paramArthataH // MandUpK_1.17 //
+
+vikalpo vinivarteta kalpito yadi kenacit /
+upadeshAd ayaM vAdo j~nAte dvaitaM na vidyate // MandUpK_1.18 //
+
+vishvasyAtvavivakShAyAm AdisAmAnyam utkR^iShTam /
+mAtrAsaMpratipattau syAd AptisAmAnyam eva ca // MandUpK_1.19 //
+
+taijasasyotvavij~nAna utkarSho dR^ishyate sphuTam /
+mAtrAsaMpratipattau syAd ubhayatvaM tathA vidham // MandUpK_1.20 //
+
+makArabhAve prAj~nasya mAnasAm anyam utkaTam /
+mAtrAsaMpratipattau tu layasAmAnyam eva ca // MandUpK_1.21 //
+
+triShu dhAmasu yat tulyaM sAmAnyaM vetti nishcitaH /
+sa pUjyaH sarvabhUtAnAM vandyash caiva mahAmuniH // MandUpK_1.22 //
+
+akAro nayate vishvam ukArash cApi taijasam /
+makArash ca punaH prAj~naM nAmAtre vidyate gatiH // MandUpK_1.23 //
+
+oMkAraM pAdasho vidyAt pAdA mAtrA na saMshayaH /
+oMkAraM pAdasho j~nAtvA na kiJNcid api cintayet // MandUpK_1.24 //
+
+
+yuJNjIta praNave cetaH praNavo brahma nirbhayam /
+praNave nityayuktasya na bhayaM vidyate kvacit // MandUpK_1.25 //
+
+praNavo hy aparaM brahma praNavash ca paraH smR^itaH /
+apUrvo 'nantaro 'bAhyo 'naparaH praNavo 'vyayaH // MandUpK_1.26 //
+
+sarvasya praNavo hy Adir madhyam antas tathaiva ca /
+evaM hi praNavaM j~nAtvA vyashnute tad anantaram // MandUpK_1.27 //
+
+praNavaM hIshvaraM vidyAt sarvasya hR^idi saMsthitam /
+sarvavyApinam oMkAraM matvA dhIro na shocati // MandUpK_1.28 //
+
+amAtro 'nantamAtrash ca dvaitasyopashamaH shivaH /
+oMkAro vidito yena sa munir netAro janaH // MandUpK_1.29 //
+
+
+_______________________________________________________________________
+
+
+
+vaitathyaM sarvabhAvAnAM svapna Ahur manIShiNaH /
+antaHsthAnAt tu bhAvAnAM saMvR^itatvena hetunA // MandUpK_2.1 //
+
+adIrghatvAc ca kAlasya gatvA deshAn na pashyati /
+pratibuddhash ca vai sarvas tasmin deshe na vidyate // MandUpK_2.2 //
+
+abhAvash ca rathAdInAM shrUyate nyAyapUrvakam /
+vaitathyaM tena vai prAptaM svapna AhuH prakAshitam // MandUpK_2.3 //
+
+antasthAnAt tu bhedAnAM tasmAj jAgarite smR^itam /
+yathA tatra tathA svapne saMvR^itatvena bhidyate // MandUpK_2.4 //
+
+svapnajAgaritasthAne hy ekam Ahur manIShiNaH /
+bhedAnAM hi samatvena prasiddhenaiva hetunA // MandUpK_2.5 //
+
+AdAvante ca yan nAsti vartamAne 'pi tat tathA /
+vitathaiH sadR^ishAH santo 'vitathA iva lakShitAH // MandUpK_2.6 //
+
+saprayojanatA teShAM svapne vipratipadyate /
+tasmAd Adyantavatvena mithyaiva khalu te smR^itAH // MandUpK_2.7 //
+
+apUrvaM sthAnidharmo hi yathA svarganivAsinAm /
+tAnayaM prekShate gatvA yathaiveha sushikShitaH // MandUpK_2.8 //
+
+svapnavR^ittAv api tv antash cetasA kalpitaM tv asat /
+bahish cetogR^ihItaM sad dR^iShTaM vaitathyam etayoH // MandUpK_2.9 //
+
+jAgradvR^ittAvapi tv antash cetasA kalpitaM tv asat /
+bahishcetogR^ihItaM sad yuktaM vaitathyam etayoH // MandUpK_2.10 //
+
+ubhayor api vaitathyaM bhedAnAM sthAnayor yadi /
+ka etAn budhyate bhedAn ko vai teShAM vikalpakaH // MandUpK_2.11 //
+
+kalpayaty AtmanAtmAnam AtmA devaH svamAyayA /
+sa eva budhyate bhedAn iti vedAntanishcayaH // MandUpK_2.12 //
+
+vikaroty aparAn bhAvAn antashcitte vyavasthitAn /
+niyatAMsh ca bahishcitta evaM kalpayate prabhuH // MandUpK_2.13 //
+
+cittakAlA hi ye 'ntas tu dvayakAlAsh ca ye bahiH /
+kalpitA eva te sarve visheSho nAnyahetukaH // MandUpK_2.14 //
+
+avyaktA eva ye 'ntas tu sphuTA eva ca ye bahiH /
+kalpitA eva te sarve visheShas tv indriyAntare // MandUpK_2.15 //
+
+jIvaM kalpayate pUrvaM vaco bhAvAn pR^ithagvidhAn /
+bAhyAn AdhyAtmikAMsh caiva yathAvidyas tathAsmR^itiH // MandUpK_2.16 //
+
+anishcitA yathA rajjur andhakAre vikalpitA /
+sarpadhArAdibhir bhAvais tadvad AtmA vikalpitaH // MandUpK_2.17 //
+
+nishcitAyAM yathA rajjvAM vikalpo vinivartate /
+rajjur eveti cAdvaitaM tadvad AtmavinishcayaH // MandUpK_2.18 //
+
+prANAdibhir anantaish ca bhAvair etair vikalpitaH /
+mAyaiShA tasya devasya yayA saMmohitaH svayam // MandUpK_2.19 //
+
+prANa iti prANavido bhUtAnIti ca tadvidaH /
+guNA iti guNavidas tattvAnIti ca tadvidaH // MandUpK_2.20 //
+
+pAdA iti pAdavido viShayA iti ca tadvidaH /
+lokA iti lokavido devA iti ca tadvidaH // MandUpK_2.21 //
+
+vedA iti vedavido yaj~nA iti ca tadvidaH /
+bhokteti ca bhoktR^ivido bhojyam iti ca tadvidaH // MandUpK_2. 22 //
+
+sUkShma iti sUkShmavidaH sthUla iti ca tadvidaH /
+mUrta iti mUrtavido 'mUrta iti ca tadvidaH // MandUpK_2.23 //
+
+kAla iti kAlavido disha iti ca tadvidaH /
+vAdA iti vAdavido bhuvanAnIti tadvidaH // MandUpK_2.24 //
+
+mana iti manovido buddhir iti ca tadvidaH /
+cittam iti cittavido dharmAdharmau ca tadvidaH // MandUpK_2.25 //
+
+paJNcaviMshaka ity eke ShaDvisha iti cApare /
+ekatriMshaka ity Ahur ananta iti cApare // MandUpK_2.26 //
+
+lokAMl lokavidaH prAhur AshramA iti tadvidaH /
+strIpuMnapuMsakaM laiN^gAH parAparam athApare // MandUpK_2.27 //
+
+sR^iShTir iti sR^iShTivido laya iti ca tadvidaH /
+sthitir iti sthitividaH sarve ceha tu sarvadA // MandUpK_2.28 //
+
+yaM bhAvaM darshayed yasya taM bhAvaM sa tu pashyati /
+taM cAvati sa bhUtvAsau tadgrahaH samupaiti tam // MandUpK_2.29 //
+
+etair eSho 'pR^ithagbhAvaiH pR^ithag eveti lakShitaH /
+evaM yo veda tattvena kalpayet so 'vishaN^kitaH // MandUpK_2.30 //
+
+svapnamAye yathA dR^iShTaM gandharvanagaraM yathA /
+tathA vishvam idaM dR^iShTaM vedAnteShu vicakShaNaiH // MandUpK_2.31 //
+
+na nirodho na cotpattir na baddho na ca sAdhakaH /
+na mumukShur na vai mukta ity eShA paramArthatA // MandUpK_2.32 //
+
+bhAvair asadbhir evAyam advayena ca kalpitaH /
+bhAvA apy advayenaiva tasmAd advayatA shivA // MandUpK_2.33 //
+
+nAtmabhAvena nAnedaM na svenApi kathaJNcana /
+na pR^ithaÇ nApR^ithak kiJNcid iti tattvavido viduH // MandUpK_2.34 //
+
+vItarAgabhayakrodhair munibhir vedapAragaiH /
+nirvikalpo hy ayaM dR^iShTaH prapaJNcopashamo 'dvayaH // MandUpK_2.35 //
+
+tasmAd evaM viditvainam advaite yojayet smR^itim /
+advaitaM samanuprApya jaDavallokam Acaret // MandUpK_2.36 //
+
+niHstutir nirnamaskAro niHsvadhAkAra eva ca /
+calAcalaniketash ca yatir yAdR^icchiko bhavet // MandUpK_2.37 //
+
+tattvam AdhyAtmikaM dR^iShTvA tattvaM dR^iShTvA tu bAhyataH /
+tattvIbhUtas tadArAmas tattvAd apracyuto bhavet // MandUpK_2.38 //
+
+
+_______________________________________________________________________
+
+
+
+upAsanAshrito dharmo jAte brahmaNi vartate /
+prAgutpatter ajaM sarvaM tenAsau kR^ipaNaH smR^itaH // MandUpK_3.1 //
+
+ato vakShyAmy akArpaNyam ajAti samatAM gatam /
+yathA na jAyate kiJNcij jAyamAnaM samantataH // MandUpK_3.2 //
+
+AtmA hy AkAshavajjIvair ghaTAkAshair ivoditaH /
+ghaTAdivac ca saMghAtair jAtAv etan nidarshanam // MandUpK_3.3 //
+
+ghaTAdiShu pralIneShu ghaTAkAshAdayo yathA /
+AkAshe saMpralIyante tadvaj jIvA ihAtmani // MandUpK_3.4 //
+
+yathaikasmin ghATAkAshe rajodhUmAdibhir yute /
+na sarve saMprayujyante tadvaj jIvAH sukhAdibhiH // MandUpK_3.5 //
+
+rUpakAryasamAkhyAsh ca bhidyante tatra tatra vai /
+AkAshasya na bhedo 'sti tadvaj jIveShu nirNayaH // MandUpK_3.6 //
+
+nAkAshasya ghaTAkAsho vikArAvayavau yathA /
+naivAtmanaH sadA jIvo vikArAvayavau tathA // MandUpK_3.7 //
+
+yathA bhavati bAlAnAM gaganaM malinaM malaiH /
+tathA bhavaty abuddhAnAm AtmApi malino malaiH // MandUpK_3.8 //
+
+maraNe saMbhave caiva gatyAgamanayor api /
+sthitau sarvasharIreShu AkAshenAvilakShaNaH // MandUpK_3.9 //
+
+saMghAtAH svapnavat sarve AtmamAyAvisarjitAH /
+Adhikye sarvasAmye vA nopapattir hi vidyate // MandUpK_3.10 //
+
+rasAdayo hi ye koshA vyAkhyAtAs taittirIyake /
+teShAm AtmA paro jIvaH khaM yathA saMprakAshitaH // MandUpK_3.11 //
+
+dvayor dvayor madhuj~nAne paraM brahma prakAshitam /
+pR^ithivyAmudare caiva yathAkAshaH prakAshitaH // MandUpK_3.12 //
+
+jIvAtmanor ananyatvam abhedena prashasyate /
+nAnAtvaM nindyate yac ca tad evaM hi samaJNjasam // MandUpK_3.13 //
+
+jIvAtmanoH pR^ithaktvaM yat prAgutpatteH prakIrtitam /
+bhaviShyadvR^ityA gauNaM tan mukhyatvaM hi na yujyate // MandUpK_3.14 //
+
+mR^illohavisphuliN^gAdyaiH sR^iShTir yA coditAnyathA /
+upAyaH so 'vatArAya nAsti bhedaH kathaJNcana // MandUpK_3.15 //
+
+AshramAstrividhA hInamadhyamotkR^iShTadR^iShTayaH /
+upAsanopadiShTeyaM tadartham anukampayA // MandUpK_3.16 //
+
+svasiddhAntavyavasthAsu dvaitino nishcitA dR^iDham /
+parasparaM virudhyante tairayaM na virudhyate // MandUpK_3.17 //
+
+advaitaM paramArtho hi dvaitaM tadbheda ucyate /
+teShAm ubhayathA dvaitaM tenAyaM na viruddhyate // MandUpK_3.18 //
+
+mAyayA bhidyate hy etan nAnyathAjaM kathaJNcana /
+tattvato bhidyamAne hi martyatAm amR^itaM vrajet // MandUpK_3.19 //
+
+ajAtasyaiva bhAvasya jAtim icchanti vAdinaH /
+ajAto hy amR^ito bhAvo martyatAM katham eShyati // MandUpK_3.20 //
+
+na bhavaty amR^itaM martyaM na martyam amR^itaM tathA /
+prakR^iter anyathAbhAvo na kathaJNcid bhaviShyati // MandUpK_3.21 //
+
+svabhAvenAmR^ito yasya bhAvo gacchati martyatAm /
+kR^itakenAmR^itas tasya kathaM sthAsyati nishcalaH // MandUpK_3.22 //
+
+bhUtato 'bhUtato vApi sR^ijyamAne samA shrutiH /
+nishcitaM yuktiyuktaM ca yat tad bhavati netarat // MandUpK_3.23 //
+
+neha nAneti cAmnAyAd indro mAyAbhir ity api /
+ajAyamAno bahudhA mAyayA jAyate tu saH // MandUpK_3.24 //
+
+saMbhUter apavAdAc ca saMbhavaH pratiShidhyate /
+ko nv enaM janayed iti kAraNaM pratiShidhyate // MandUpK_3.25 //
+
+sa eSha neti netIti vyAkhyAtaM nihnute yataH /
+sarvam agrAhyabhAvena hetunAjaM prakAshate // MandUpK_3.26 //
+
+sato hi mAyayA janma yujyate na tu tattvataH /
+tattvato jAyate yasya jAtaM tasya hi jAyate // MandUpK_3.27 //
+
+asato mAyayA janma tattvato naiva yujyate /
+vandhyAputro na tattvena mAyayA vApi jAyate // MandUpK_3.28 //
+
+yathA svapne dvayAbhAsaM spandate mAyayA manaH /
+tathA jAgraddvayAbhAsaM spandate mAyayA manaH // MandUpK_3.29 //
+
+advayaM ca dvayAbhAsaM manaH svapne na saMshayaH /
+advayaM ca dvayAbhAsaM tathA jAgran na saMshayaH // MandUpK_3.30 //
+
+manodR^ishyam idaM dvaitaM yat kiJNcit sacarAcaram /
+manaso hy amanIbhAve dvaitaM naivopalabhyate // MandUpK_3.31 //
+
+AtmasatyAnubodhena na saMkalpayate yadA /
+amanastAM tadA yAti grAhyAbhAve tadagraham // MandUpK_3.32 //
+
+akalpamajaM j~nAnaM j~neyAbhinnaM pracakShate /
+brahma j~neyam ajaM nityam ajenAjaM vibudhyate // MandUpK_3.33 //
+
+nigR^ihItasya manaso nirvikalpasya dhImataH /
+pracAraH sa tu vij~neyaH suShupte 'nyo na tatsamaH // MandUpK_3.34 //
+
+lIyate hi suShupte tan nigR^ihItaM na lIyate /
+tad eva nirbhayaM brahma j~nAnalokaM samantataH // MandUpK_3.35 //
+
+ajam anindram asvapnam anAmakam arUpakam /
+sakR^idvibhAtaM sarvaj~naM nopacAraH kathaJNcana // MandUpK_3.36 //
+
+sarvAbhilApavigataH sarvacintAsamutthitaH /
+suprashAntaH sakR^ijjyotiH samAdhir acalo 'bhayaH // MandUpK_3.37 //
+
+graho na tatra notsargash cintA yatra na vidyate /
+AtmasaMsthaM tadA j~nAnam ajAti samatAM gatam // MandUpK_3.38 //
+
+asparshayogo vai nAma durdarshaH sarvayogibhiH /
+yogino bibhyati hy asmAd abhaye bhayadarshinaH // MandUpK_3.39 //
+
+manaso nigrahAyattam abhayaM sarvayoginAm /
+duHkhakShayaH prabodhash cApy akShayA shAntir eva ca // MandUpK_3.40 //
+
+utseka udadher yadvat kushAgreNaikabindunA /
+manaso nigrahas tadvad bhaved aparikhedataH // MandUpK_3.41 //
+
+upAyena nigR^ihNIyAd vikShiptaM kAmabhogayoH /
+suprasannaM laye caiva yathA kAmo layas tathA // MandUpK_3.42 //
+
+duHkhaM sarvam anusmR^itya kAmabhogAn nivartayet /
+ajaM sarvamanusmR^itya jAtaM naiva tu pashyati // MandUpK_3.43 //
+
+laye saMbodhayec cittaM vikShiptaM shamayet punaH /
+sakaShAyaM vijAnIyAt samaprAptaM na cAlayet // MandUpK_3.44 //
+
+nAsvAdayet sukhaM tatra niHsaN^gaH praj~nayA bhavet /
+nishcalaM nishcarac cittam ekIkuryAt prayatnataH // MandUpK_3.45 //
+
+yadA na lIyate cittaM na ca vikShipyate punaH /
+aniN^ganam anAbhAsaM niShpannaM brahma tat tadA // MandUpK_3.46 //
+
+svasthaM shAntaM sanirvANam akathyaM sukham uttamam /
+ajam ajena j~neyena sarvaj~naM paricakShate // MandUpK_3.47 //
+
+na kashcij jAyate jIvaH saMbhavo 'sya na vidyate /
+etat tad uttamaM satyaM yatra kiJNcin na jAyate // MandUpK_3.48 //
+
+
+_______________________________________________________________________
+
+
+
+j~nAnenAkAshakalpena dharmAnyo gaganopamAn /
+j~neyAbhinnena saMbuddhas taM vande dvipadAM varam // MandUpK_4.1 //
+
+asparshayogo vai nAma sarvasattvasukho hitaH /
+avivAdo 'viruddhash ca deshitas taM namAmy aham // MandUpK_4.2 //
+
+bhUtasya jAtim icchanti vAdinaH kecid eva hi /
+abhUtasyApare dhIrA vivadantaH parasparam // MandUpK_4.3 //
+
+bhUtaM na jAyate kiJNcid abhUtaM naiva jAyate /
+vivadanto 'dvayA hy evam ajAtiM khyApayanti te // MandUpK_4.4 //
+
+khyApyamAnAm ajAtiM tair anumodAmahe vayam /
+vivadAmo na taiH sArdham avivAdaM nibodhata // MandUpK_4.5 //
+
+ajAtasyaiva dharmasya jAtim icchanti vAdinaH /
+ajAto hy amR^ito dharmo martyatAM katham eShyati // MandUpK_4.6 //
+
+na bhavaty amR^itaM martyaM na martyam amR^itaM tathA /
+prakR^iter anyathAbhAvo na kathaJNcid bhaviShyati // MandUpK_4.7 //
+
+svabhAvenAmR^ito yasya dharmo gacchati martyatAm /
+kR^itakenAmR^itas tasya kathaM sthAsyati nishcalaH // MandUpK_4.8 //
+
+sAMsiddhikI svAbhAvikI sahajA akR^itA ca yA /
+prakR^itiH seti vij~neyA svabhAvaM na jahAti yA // MandUpK_4.9 //
+
+jarAmaraNanirmuktAH sarve dharmAH svabhAvataH /
+jarAmaraNam icchantash cyavante tanmanIShayA // MandUpK_4.10 //
+
+kAraNaM yasya vai kAryaM kAraNaM tasya jAyate /
+jAyamAnaM katham ajaM bhinnaM nityaM kathaM ca tat // MandUpK_4.11 //
+
+kAraNAd yady ananyatvam ataH kAryam ajaM yadi /
+jAyamAnAd dhi vai kAryAt kAraNaM te kathaM dhruvam // MandUpK_4.12 //
+
+ajAd vai jAyate yasya dR^iShTAntas tasya nAsti vai /
+jAtAc ca  jAyAmAnasya na vyavasthA prasajyate // MandUpK_4.13 //
+
+hetor AdiH phalaM yeShAm Adir hetuH phalasya ca /
+hetoH phalasya cAnAdiH kathaM tair upavarNyate // MandUpK_4.14 //
+
+hetor AdiH phalaM yeShAm Adir hetuH kalasya ca /
+tathA janma bhavet teShAM putrAj janma pitur yathA // MandUpK_4.15 //
+
+saMbhave hetuphalayor eShitavyaH kramas tvayA /
+yugapatsaMbhave yasmAd asaMbandho viShANavat // MandUpK_4.16 //
+
+phalAd utpadyamAnaH san na te hetuH prasidhyati /
+aprasiddhaH kathaM hetuH phalam utpAdayiShyati // MandUpK_4.17 //
+
+yadi hetoH phalAt siddhiH phalasiddhish ca hetutaH /
+katarat pUrvaniShpannaM yasya siddhir apekShayA // MandUpK_4.18 //
+
+ashaktir aparij~nAnaM kramakopo 'tha vA punaH /
+evaM hi sarvathA buddhair ajAtiH paridIpitA // MandUpK_4.19 //
+
+bIjAN^kurAkhyo dR^iShTAntaH sadA sAdhyasamo hi sa /
+na hi sAdhyasamo hetuH siddhau sAdhyasya yujyate // MandUpK_4.20 //
+
+pUrvAparAparij~nAnam ajAteH paridIpakam /
+jAyamAnAd dhi vai dharmAt kathaM pUrvaM na gR^ihyate // MandUpK_4.21 //
+
+svato vA parato vApi na kiJNcid vastu jAyate /
+sad asat sadasad vApi na kiJNcid vastu jAyate // MandUpK_4.22 //
+
+hetur na jAyate 'nAdeH phalaM cApi svabhAvataH /
+Adir na vidyate yasya tasya hy Adir na vidyate // MandUpK_4.23 //
+
+praj~napteH sanimittatvam anyathA dvayanAshataH /
+saMkleshasyopalabdhesh ca paratantrAstitA matA // MandUpK_4.24 //
+
+praj~napteH sanimittatvam iShyate yuktidarshanAt /
+nimittasyAnimittatvam iShyate bhUtadarshanAt // MandUpK_4.25 //
+
+cittaM na saMspR^ishaty arthaM nArthAbhAsaM tathaiva ca /
+abhUto hi yatash cArtho nArthAbhAsas tataH pR^ithak // MandUpK_4.26 //
+
+nimittaM na sadA cittaM saMspR^ishaty adhvasu triShu /
+animitto viparyAsaH kathaM tasya bhaviShyati // MandUpK_4.27 //
+
+tasmAn na jAyate cittaM cittadR^ishyaM na jAyate /
+tasya pashyanti ye jAtiM khe vai pashyanti te padam // MandUpK_4.28 //
+
+ajAtaM jAyate yasmAd ajAtiH prakR^itis tataH /
+prakR^iter anyathAbhAvo na kathaJNcid bhaviShyati // MandUpK_4.29 //
+
+anAder antavattvaM ca saMsArasya na setsyati /
+anantatA cAdimato mokShasya na bhaviShyati // MandUpK_4.30 //
+
+AdAvante ca yan nAsti vartamAne 'pi tat tathA /
+vitathaiH sadR^ishAH santo 'vitathA iva lakShitAH // MandUpK_4.31 //
+
+saprayojanatA teShAM svapne vipratipadyate /
+tasmAd Adyantavattvena mithyaiva khalu te smR^itAH // MandUpK_4.32 //
+
+sarve dharmA mR^iShA svapne kAyasyAntanidarshanAt /
+saMvR^itte 'smin pradeshe vai bhUtAnAM darshanaM kutaH // MandUpK_4.33 //
+
+na yuktaM darshanaM gatvA kAlasyAniyamAd gatau /
+pratibuddhash ca vai sarvas tasmin deshe na vidyate // MandUpK_4.34 //
+
+mitrAdyaiH saha saMmantrya saMbuddhau na prapadyate /
+gR^ihItaM cApi yat kiJNcit pratibuddho na pashyati // MandUpK_4.35 //
+
+svapne cAvastukaH kAyaH pR^ithag anyasya darshanAt /
+yathA kAyas tathA sarvaM cittadR^ishyam avastukam // MandUpK_4.36 //
+
+grahaNAj jAgaritavat taddhetuH svapna iShyate /
+tad dhetutvAt tu tasyaiva sajjAgaritam iShyate // MandUpK_4.37 //
+
+utpAdasyAprasiddhatvAd ajaM sarvam udAhR^itam /
+na ca bhUtAd abhUtasya saMbhavo 'sti kathaJNcana // MandUpK_4.38 //
+
+asaj jAgarite dR^iShTvA svapne pashyati tanmayaH /
+asatsvapne 'pi dR^iShTvA ca pratibuddhau na pashyati // MandUpK_4.39 //
+
+nAsty asaddhetukam asat sadasaddhetukaM tathA /
+sac ca saddhetukaM nAsti saddhetukam asat kutaH // MandUpK_4.40 //
+
+viparyAsAd yathA jAgrad acintyAn bhUtavat spR^ishet /
+tathA svapne viparyAsAd dharmAMs tatraiva pashyati // MandUpK_4.41 //
+
+upalambhAt samAcArAd asti vastutvavAdinAm /
+jAtis tu deshitA buddhair ajAtes trasatAM sadA // MandUpK_4.42 //
+
+ajAtes trasatAM teShAm upalambhAd viyanti ye /
+jAtidoShA na setsyanti doSho 'py alpo bhaviShyati // MandUpK_4.43 //
+
+upalambhAt samAcArAn mAyAhastI yathocyate /
+upalambhAt samAcArAd asti vastu tathocyate // MandUpK_4.44 //
+
+jAtyAbhAsaM calAbhAsaM vastvAbhAsaM tathaiva ca /
+ajAcalam avastutvaM vij~nAnaM shAntam advayam // MandUpK_4.45 //
+
+evaM na jAyate cittam evaM dharmA ajAH smR^itAH /
+evam eva vijAnanto na patanti viparyaye // MandUpK_4.46 //
+
+R^ijuvakrAdikAbhAsam alAtaspanditaM yathA /
+grahaNagrAhakAbhAsaM vij~nAnaspanditaM tathA // MandUpK_4.47 //
+
+aspandamAnam alAtam anAbhAsam ajaM yathA /
+aspandamAnaM vij~nAnam anAbhAsam ajaM tathA // MandUpK_4.48 //
+
+alAte spandamAne vai nAbhAsA anyato bhuvaH /
+na tato 'nyatra nispandAn nAlAtaM pravishanti te // MandUpK_4.49 //
+
+na nirgatA alAtAt te dravyatvAbhAvayogataH /
+vij~nAne 'pi tathaiva syur AbhAsasyAvisheShataH // MandUpK_4.50 //
+
+vij~nAne spandamAne vai nAbhAsA anyatobhuvaH /
+na tato 'nyatra nispandAn na vij~nAnaM vishanti te // MandUpK_4.51 //
+
+na nirgatAs te vij~nAnAd dravyatvAbhAvayogataH /
+kAryakAraNatAbhAvAd yato 'cintyAH sadaiva te // MandUpK_4.52 //
+
+dravyaM dravyasya hetuH syAd anyad anyasya caiva hi /
+dravyatvam anyabhAvo vA dharmANAM nopapadyate // MandUpK_4.53 //
+
+evaM na cittajA dharmAsh cittaM vApi na dharmajam /
+evaM hetuphalAjAtiM pravishanti manIShiNaH // MandUpK_4.54 //
+
+yAvad dhetuphalAveshas tAvad dhetuphalodbhavaH /
+kShINe hetuphalAveshe nAsti hetuphalodbhavaH // MandUpK_4.55 //
+
+yAvad dhetuphalAveshaH saMsAras tAvadAyataH /
+kShINe hetuphalAveshe saMsAraM na prapadyate // MandUpK_4.56 //
+
+saMvR^ityA jAyate sarvaM shAshvataM nAsti tena vai /
+sadbhAvena hy ajaM sarvam ucchedas tena nAsti vai // MandUpK_4.57 //
+
+dharmA ya iti jAyante jAyante te na tattvataH /
+janma mAyopamaM teShAM sA ca mAyA na vidyate // MandUpK_4.58 //
+
+yathA mAyAmayAd bIjAj jAyate tanmayoN^kuraH /
+nAsau nityo na cocchedI tadvad dharmeShu yojanA // MandUpK_4.59 //
+
+nAjeShu sarvadharmeShu shAshvatAshAshvatAbhidhA /
+yatra varNA na vartante vivekas tatra nocyate // MandUpK_4.60 //
+
+yathA svapne dvayAbhAsaM cittaM calati mAyayA /
+tathA jAgrad dvayAbhAsaM cittaM calati mAyayA // MandUpK_4.61 //
+
+advayaM ca dvayAbhAsaM cittaM svapne na saMshayaH /
+advayaM ca dvayAbhAsaM tathA jAgran na saMshayaH // MandUpK_4.62 //
+
+svapnadR^ik pracaran svapne dikShu vai dashasu sthitAn /
+aNDajAn svedajAn vApi jIvAn pashyati yAn sadA // MandUpK_4.63 //
+
+svapnadR^ikcittadR^ishyAs te na vidyante tataH pR^ithak /
+tathA tad dR^ishyam evedaM svapnadR^ikcittam iShyate // MandUpK_4.64 //
+
+cara¤ jAgarite jAgrad dikShu vai dashasu sthitAn /
+aNDajAn svedajAn vApi jIvAn pashyati yAn sadA // MandUpK_4.65 //
+
+jAgrac cittekShaNIyAs te na vidyante tataH pR^ithak /
+tathA tad dR^ishyam evedaM jAgratash cittam iShyate // MandUpK_4.66 //
+
+ubhe hy anyonyadR^ishye te kiM tad astIti cocyate /
+lakShaNAshUnyam ubhayaM tan mate naiva gR^ihyate // MandUpK_4.67 //
+
+yathA svapnamayo jIvo jAyate mriyate 'pi ca /
+tathA jIvA amI sarve bhavanti na bhavanti ca // MandUpK_4.68 //
+
+yathA mAyAmayo jIvo jAyate mriyate 'pi ca /
+tathA jIvA amI sarve bhavanti na bhavanti ca // MandUpK_4.69 //
+
+yathA nirmitako jIvo jAyate mriyate 'pi ca /
+tathA jIvA amI sarve bhavanti na bhavanti ca // MandUpK_4.70 //
+
+na kashcij jAyate jIvaH saMbhavo 'sya na vidyate /
+etat tad uttamaM satyaM yatra kiJNcin na jAyate // MandUpK_4.71 //
+
+cittaspandikam evedaM grAhyagrAhakavad dvayam /
+cittaM nirviShayaM nityam asaN^gaM tena kIrtitam // MandUpK_4.72 //
+
+yo 'sti kalpitasaMvR^ityA paramArthena nAsty asau /
+paratantrAbhisaMvR^ityA syAn nAsti paramArthataH // MandUpK_4.73 //
+
+ajaH kalpitasaMvR^ityA paramArthena nApy ajaH /
+paratantrAdiniShpattyA saMvR^ityA jAyate tu saH // MandUpK_4.74 //
+
+abhUtAbhinivesho 'sti dvayaM tatra na vidyate /
+dvayAbhAvaM sa buddhvaiva nirnimitto na jAyate // MandUpK_4.75 //
+
+yadA na labhate hetUn uttamAdhamamadhyamAn /
+tadA na jAyate cittaM hetvabhAve phalaM kutaH // MandUpK_4.76 //
+
+animittasya cittasya yAnutpattiH samAdvayA /
+ajAtasyaiva sarvasya cittadR^ishyaM hi tadyataH // MandUpK_4.77 //
+
+buddhvA nimittatAM satyAM hetuM pR^ithag anApnuvan /
+vItashokaM tathAkAmam abhayaM padam ashnute // MandUpK_4.78 //
+
+abhUtAbhiniveshAd dhi sadR^ishe tat pravartate /
+vastvabhAvaM sa budhvaiva niHsaN^gaM vinivartate // MandUpK_4.79 //
+
+nivR^ittasyApravR^ittasya nishcalA hi tathA sthitiH /
+viShayaH sa hi buddhAnAM tat sAmyam ajam advayam // MandUpK_4.80 //
+
+ajam anidram asvapnaM prabhAtaM bhavati svayam /
+sakR^idvibhAto hy evaiSha dharma dhAtusvabhAvataH // MandUpK_4.81 //
+
+sukham Avriyate nityaM duHkhaM vivriyate sadA /
+yasya kasya ca dharmasya graheNa bhagavAn asau // MandUpK_4.82 //
+
+asti nAsty asti nAstIti nAsti nAstIti vA punaH /
+calasthirobhayAbhAvair AvR^iNotye va bAlishaH // MandUpK_4.83 //
+
+koThyash catasra etAs tu grahair yAsAM sadA vR^itaH /
+bhagavAn Abhir aspR^iShTo yena dR^iShTaH sa sarvadR^ik // MandUpK_4.84 //
+
+prApya sarvaj~natAM kR^itsnAM brAhmaNyaM padam advayam /
+anApannAdimadhyAntaM kim ataH param Ihate // MandUpK_4.85 //
+
+viprANAM vinayo hy eSha shamaH prAkR^ita ucyate /
+damaH prakR^itidAntatvAd evaM vidvA¤ shamaM vrajet // MandUpK_4.86 //
+
+savastu sopalambhaM ca dvayaM laukikam iShyate /
+avastu sopalambhaM ca shuddhaM laukikam iShyate // MandUpK_4.87 //
+
+avastv anupalambhaM ca lokottaram iti smR^itam /
+j~nAnaM j~neyaM ca vij~neyaM sadA buddhaiH prakIrtitam // MandUpK_4.88 //
+
+j~nAne ca trividhe j~neye krameNa vidite svayam /
+sarvaj~natA hi sarvatra bhavatIha mahAdhiyaH // MandUpK_4.89 //
+
+heyaj~neyApyapAkyAni vij~neyAny agrayANataH /
+teShAm anyatra vij~neyAd upalambhas triShu smR^itaH // MandUpK_4.90 //
+
+prakR^ityAkAshavaj j~neyAH sarve dharmA anAdayaH /
+vidyate na hi nAnAtvaM teShAM kvacana kiJNcanaH // MandUpK_4.91 //
+
+AdibuddhAH prakR^ityaiva sarve dharmAH sunishcitAH /
+yasyaivaM bhavati kShAntiH so 'mR^itatvAya kalpate // MandUpK_4.92 //
+
+AdishAntA hy anutpannAH prakR^ityaiva sunirvR^itAH /
+sarve dharmAH samAbhinnA ajaM sAmyaM vishAradam // MandUpK_4.93 //
+
+vaishAradyaM tu vai nAsti bhede vicaratAM sadA /
+bhedanimnAH pR^ithagvAdAs tasmAt te kR^ipaNAH smR^itAH // MandUpK_4.94 //
+
+aje sAmye tu ye kecid bhaviShyanti sunishcitAH /
+te hi loke mahAj~nAnAs tac ca loko na gAhate // MandUpK_4.95 //
+
+ajeShv ajam asaMkrAntaM dharmeShu j~nAnam iShyate /
+yato na kramate j~nAnam asaN^gaM tena kIrtitam // MandUpK_4.96 //
+
+aNumAtre 'pi vaidharmye jAyamAne 'vipashcitaH /
+asaN^gatA sadA nAsti kimutAvaraNacyutiH // MandUpK_4.97 //
+
+alabdhAvaraNAH sarve dharmAH prakR^itinirmalAH /
+Adau buddhAs tathA muktA budhyanta iti nAyakAH // MandUpK_4.98 //
+
+kramate na hi buddhasya j~nAnaM dharmeShu tAyinaH /
+sarve dharmAs tathA j~nAnaM naitad buddhena bhAShitam // MandUpK_4.99 //
+
+durdarsham atigambhIram ajaM sAmyaM vishAradam /
+buddhvA padam anAnAtvaM namaskurmo yathAbalam // MandUpK_4.100 //
+
+

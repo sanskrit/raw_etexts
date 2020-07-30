@@ -1,0 +1,125 @@
+%@@1
+% File name             : taitsamhita1.itx
+%--------------------------------------------
+% Text title            : taittiriiya samhitaa 1
+% Author                : Vedic Tradition
+% Language              : Sanskrit
+% Subject               : philosophy/hinduism
+% Description/comments  : ????Source
+% Transliterated by     : Rajagopal Iyer rajsand@yahoo.com
+% Proofread by          : VENKATAVARAHAN <ternandanan@satyam.net.in
+%                       and Rajagopal Iyer rajsand@yahoo.com
+% Latest update         : February 15, 2002
+% Send corrections to   : sanskrit@cheerful.com
+%
+% Special Instructions:
+% i1h.hdr,ijag.inc,itrans.sty,multicol.sty,iarticle.sty
+% Transliteration scheme: ITRANS 5.2
+% Site access  :         
+% http://sanskrit.gde.to/
+% http://www.alkhemy.com/sanskrit/
+% ftp://jaguar.cs.utah.edu/sanskrit/sanskrit.html
+%-----------------------------------------------------
+% The text is to be used for personal studies and research only.
+% Any use for commercial purpose is prohibited as a 'gentleman's'
+% agreement.
+% @@2
+%
+% Commands upto #indian and others with \ mark
+% are needed for devanaagarii output and formatting.
+%--------------------------------------------------------
+
+\documentstyle[11pt,multicol,itrans]{article}
+%\documentclass[11pt]{article}
+%\usepackage{multicol}
+#include=ijag.inc
+#endwordvowel=.h
+\portraitwide
+\parindent=100pt                
+\let\usedvng=\Largedvng      % for 1 column     
+\pagenumbering{itrans} 
+\def\engtitle#1{\hrule\medskip\centerline{\large #1}}
+\def\itxtitle#1{\medskip\centerline{\LARGEdvng #1}\medskip\hrule}
+\def\endtitles{\medskip\obeyspaceslines}
+%%
+\begin{document}
+
+\engtitle{.. Taittiriya Samhita 1..}##
+\itxtitle{.. taittiriiyasa.nhitaa 1..}##\endtitles## 
+.. kR^ishhNayajurvediiya taittiriiya sa.nhitaa .. 
+.. prathamaM kaaNDam. .. 
+i\`shhetvo\`rjetvaa\'vaa\`yava\'ssthopaa\`yava\'ssthade\`vova\'ssavi\`taapraarpa\'yatu\`shreshhTha\'tamaaya\`karma\'Na\` 
+aapyaa\'yadhvamaghniyaadevabhaa\`gamuurja\'svatii\`Hpaya\'svatiiHpra\`jaava\'tiiranamii\`vaaa a\'ya\`kshmaamaava\'ste\`na ii\'shata\`maa.aghasha{\m+}\'soru\`drasya\'he\`tiHpari\'vovR^iNaktudhru\`vaaa\`smingopa\'tausyaataba\`hviiryaja\'maanasya pa\`shuunpaa\'hi .. 1 .. .. 1\.1\.1 .. 
+
+ya\`j~nasya\'gho\`shhada\'si\`pratyu\'shhTa\`{\m+}raksha\`Hpratyu\'shhTaa\`araa\'taya\`Hpreyama\'gaaddhi\`shhaNaa\' ba\`rhiraccha\`manu\'naakR^i\`taasva\`dhayaa\`vita\'shhTaa\`ta aava\'hantika\`vaya\'Hpu\`rastaa\"dde\`vebhyo\`jushhTa\'mi\`ha ba\`rhiraa\`sade\'de\`vaanaa\"mpariShuu\`tama\'siva\`rshhavR^i\'ddhamasi\`deva\'barhi\`rmaatvaa\`nva~Nmaati\`ryakparva\'te raadhyaasamaacchhe\`ttaate\`maari\'shha\`Mdeva\'barhishsha\`tava\'lsha\`Mviro\'hasa\`hasra\'valshaa\`H.. 2.. viva\`ya{\m+} ru\'hemapR^ithi\`vyaassa\`mpR^ica\'Hpaahisusa\`mbhR^itaa\"tvaa\`saMbha\'raa\`myadi\'tyai\`raasnaa\'.asiindraa\`Nyai sa\`nnaha\'naMpuu\`Shaate\"gra\`nthiMgra\'thnaatu\`sate\`maa.a.asthaa\`dindra\'syatvaabaa\`hubhyaa\`mudya\'cchhe\` bR^iha\`spate\"rmuu\`rdhnaaha\'raamyu\`rva\'ntari\'ksha\`manvi\'hidevaMga\`mama\'si .. 3 .. .. 1\.1\.2 .. 
+
+shundha\'dhva\`.ndaivyaa\'ya\`karma\'Nedevaya\`jyaayai\'maata\`rishva\'nogha\`rmo\'.asi\`dyaura\'sipR^ithi\`vya\'si vi\`shvadhaa\'yaa asipara\`meNa\`dhaamnaa\`dR^i{\m+}\'hasva\`maahvaa\`rvasuu\'naaMpa\`vitra\'masisha\`tadhaa\'ra\`.n vasuu\'naaMpa\`vitra\'masisa\`hasra\'dhaara{\m+}hu\`tasto\`kohu\`todra\`pso\".agnaye\'bR^iha\`tenaakaa\'ya\`svaahaa\` dyaavaa\'pR^ithi\`viibhyaa\`{\m+}saavi\`shvaayu\`ssaavi\`shvavya\'caa\`ssaavi\`shvaka\'rmaa\`sampR^i\'cyadhvamR^itaavarii ruu\`rmiNii\`rmadhu\'mattamaama\`ndraadhana\'syasaa\`taye\`so\'mena\`tvaa.a.ata\'na\`cmiindraa\'ya\`dadhi\` 
+vishhNo\'ha\`vya{\m+}ra\'kshasva .. 4.. .. 1\.1\.3 .. 
+
+karma\'Nevaa.nde\`vebhya\'shshakeya\`.nveshhaa\'yatvaa\`pratyu\'shhTa\`{\m+}raksha\`Hpratyu\'shhTaa\`araa\'tayo\`dhuura\' 
+si\`dhuurva\`dhuurva\'nta\`.ndhuurva\`nyo\"smaandhuurva\'ti\`ta.ndhuu\"rva\`ya.nva\`ya.ndhuurvaa\'ma\`stva.nde\`vaanaa\'masi\` sasni\'tama\`Mpapri\'tama\`MjushhTa\'tam\`Mvanhi\'tama\`Mdeva\`huuta\'ma\`mahru\'tamasihavi\`rdhaana\`.ndR^i{\m+}ha\' sva\` maahvaa\"rmi\`trasya\'tvaa\`cakshu\'shhaa\`prekshe\`maabhermaasa.nvi\'kthaa\`maatvaa\'hi{\m+}sishhamu\`ruvaa taa\'yade\`vasya\'tvaasavi\`tuHpra\'sa\`ve\".ashvino\"rbaa\`hubhyaa\"Mpuu\`shhNohastaa\"bhyaama\`gnaye\`jushhTa\`.n nirva\'paamya\`gniishhomaa\"bhyaami\`da.nde\`vaanaa\'mi\`damu\'nassa\`hasphaa\`tyaitvaa\`naa.araa\"tyai\`suva\'ra\`bhi vikh\'yeshha.nvaishvaana\`ra.njyoti\`rdR^i{\m+}ha\'ntaa\`.nduryaa\`dyaavaa\'pR^ithi\`vyoru\`rva\'ntari\'ksha\`manvi\`hyadi\'tyaas tvo\`pasthe\'saadayaa\`myagne\'ha\`vya{\m+}ra\'kshasva .. 1\.1\.4 .. 
+
+de\`vova\'Hsavi\`totpu\'naa\`tvacchhi\'dreNapa\`vitre\'Na\`vaso\`ssuurya\'syara\`shmibhi\`raapo\'deviiragrepuvo.agre 
+gu\`vo.agra\'i\`ma.nya\`j~nanna\'ya\`taagre\'ya\`j~napa\'ti.ndhattayu\`shhmaanindro\'.avR^iNiitavR^itra\`tuurye\' yuu\`yamindra\'mavR^iNiidhva.nvR^itra\`tuurye\`prokshi\'taasthaa\`.agnaye\'vo\`jushhTa.n\`prokshaa\"mya\`gniishhomaa\" bhyaa\`{\m+}\`shundha\'dhva\`.ndaivyaa\'ya\`karma\'Nedevaya\`jyaayaa\`ava\'dhuuta\`{\m+}\`raksho.ava\'dhuutaa\` araa\'ta\`yodi\'tyaa\`stvaga\'si\`prati\'tvaapR^ithi\`viive\"tvadhi\`shhava\'Namasivaanaspa\`tyaMpra\'ti\` tvaa.adi\'tyaa\`stvagve\"tva\`gnesta\`nuura\'sivaa\`covi\`sarja\'na.nde\`vavii\'tayetvaagR^ihNaa\`myadri\'rasivaanaspa\`tyassa i\`da.nde\`vebhyo\'ha\`vya{\m+}su\`shami\'shami\`shhveshha\`maava\`dorja\`maava\'dadyu\`madva\'datava\`ya{\m+} sa\'~Nghaa\`ta.nje\"shhmava\`rshhavR^i\'ddhamasi\`prati\'tvaava\`rshhavR^i\'ddha.nvettu\`paraa\'puuta\`{\m+}\`rakshhaH\` paraa\'puutaa\`araa\'tayo\`raksha\'saaMbhaa\`go\'.asivaa\`yurvo\`vivi\'naktude\`vova\'ssavi\`taahira\'NyapaaNi\`Hprati\' gR^ihNaatu .. 1\.1\.5 .. 
+
+ava\'dhuuta\`{\m+}\`raksho.ava\'dhuutaa\`araa\'ta\`yo.adi\'tyaa\`stvaga\'si\`prati\'tvaapR^ithi\`viive\"ttudi\`vaska\'mbha\`nira\'si\` prati\`tvaa.adi\'tyaa\`stvagve\"ttudhi\`shhaNaa\'.asiparva\`tyaaprati\'tvaadi\`vasska\'mbha\`nirve\"ttu dhi\`shhaNaa\'.asipaarvate\`yiiprati\'tvaaparva\`tirve\"ttude\`vasya\'tvaasavi\`tuHpra\'sa\`ve\".ashvino\"rbaa\`hubhyaa\"M puu\`shhNohastaa\"bhyaa\`madhi\'vapaamidhaa\`nya\'masidhinu\`hide\`vaanpraa\`Naaya\'tvaa.apaa\`naya\'tvaavyaa\`naaya\' tvaadii\`rghaamanu\`prasi\'ti\`maayu\'shhedhaa.nde\`vova\'ssavi\`taahira\'NyapaaNi\`Hprati\'gR^ihNaatu .. 1\.1\.6 .. 
+
+dhR^ishhTi\'rasi\`brahma\'ya\`cchhaapaa\"gne\`.agnimaa\`maadaM`jahi\`nishhkra\`vyaada\'{\m+}se\`dhaa.a.ade\'va\`yaja\'m 
+vaha\`nirda\'gdha\`{\m+}\`raksho\`nirda\'gdhaa\`araa\'tayodhru\`vama\'sipR^ithi\`vii.ndR^i\`{\m+}haa.a.ayu\'rdR^i{\m+}ha pra\`jaa.ndR^i{\m+}\'hasajaa\`taana\`smaiyaja\'maanaaya\`paryuu\'hadha\`rtrama\'sya\`ntari\'ksha.ndR^i{\m+}hapraa\`Na.n dR^i{\m+}\'haapaa\`na.ndR^i{\m+}\'hasajaa\`taana\`smaiyaja\'maanaaya\`paryuu\'hadha\`ruNa\'masi\`diva\'MdR^i{\m+}ha\` cakshu\'dR^i{\m+}ha\`shrotra.n\'dR^i{\m+}hasajaa\`taana\`smaiyaja\'maanaaya\`paryuu\'ha\`dharmaa\'si\`disho\'dR^i{\m+}ha\` yoni\'.ndR^i{\m+}hapra\`jaa.ndR^i{\m+}\'hasajaa\`taana\`smaiyaja\'maanaaya\`paryuu\'ha\`cita\'ssthapra\`jaama\`smai ra\`yima\`smaisa\'jaa\`taana\`smaiyaja\'maanaaya\`paryuu\'ha\`bhR^iguu\'Naa\`ma~Ngi\'rasaa\`.ntapa\'saatapyadhva\`.nyaani\' gha\`rmeka\`paalaa\'nyupaci\`nvanti\'ve\`dhasa\'H. puu\`shhNastaanyapi\'vra\`tai\'ndravaa\`yuuvimu\'~ncataam .. 1\.1\.7 .. 
+
+sa.nva\'paami\`samaapo\'a\`dbhira\'gmata\`samoshha\'dhayo\`rase\'na\`sa{\m+}re\`vatii\`rjaga\'tiibhi\`rmadhu\`matii\`r 
+madhu\'matiibhissR^ijyadhvama\`dbhyaHpari\`prajaa\'taasstha\`sama\`dbhiHpR^i\'cyadhva\`~njana\'yatyaitvaa\`sa.nyau\" 
+mya\`gnaye\'tvaa\`gniishhomaa\"bhyaaMma\`khasya\`shiro\'si\`gharmo\'.asivi\`shvaayu\'ru\`rupra\'thasvo\`rute\'ya\`j~napa\'tiH prathataa\`ntvaca\'.ngR^ihNiishhvaa\`ntari\'ta\`{\m+}\`raksho\`.antari\'taa\`araa\'tayode\`vastvaa\'savi\`taashrapa\'yatu\` varshhi\'shhThe\`adhi\`naake\`.agniste\'ta\`nuva\`Mmaa.ati\'dhaa\`gagne\'ha\`vya{\m+}ra\'kshasva\`saMbrahma\'Naa pR^icyasvaika\`taaya\`svaahaa\'dvi\`taaya\`svaahaa\'tri\`taaya\`svaahaa\" .. 1\.1\.8 .. 
+
+aada\'da\`indra\'syabaa\`hura\'si\`dakshi\'Nassa\`hasra\'bhR^ishhTishsha\`tate\'jaavaa\`yura\'siti\`gmate\'jaa\`HpR^ithi\'vi devayaja\`nyoshha\'dhyaaste\`muula\`Mmaahi{\m+}\'sishha\`mapa\'hato\`.araru\'HpR^ithi\`vyaivra\`ja.nga\'cchhago\`sthaana.n\` varshha\'tute\`dyaurba\'dhaa\`nade\'vasavitaHpara\`masyaa\"Mparaa\`vati\'sha\`tena\`paashai\`ryo\".asmaandveshhTi\` ya.nca\'va\`ya.ndvi\`shhmastamato\`maamau\`gapa\'hato\`.araru\'HpR^ithi\`vyaide\'va\`yaja\'nyaivra\`ja.nga\'cchhago\`sthaana\`mvarshha\'tute\`dyaurba\'dhaa\`nade\'vasavitaHpara\`masyaa\"Mparaa\`vati\'sha\`tena\`paashai\`ryo\".asmaandveshhTi\` ya.nca\'va\`ya.ndvi\`shhmastamato\`maamau\`gapa\'hato\`.araru\'HpR^ithi\`vyaa ade\'va\`yaja\'novra\`ja.nga\'cchha go\`sthaana\`.nvarshha\'tute\`dyaorba\'dhaa\`nade\'vasavitaHpara\`masyaa\"Mparaa\`vati\'sha\`tena\`paashai\`ryo\".asmaan dveshhTi\`ya.nca\'va\`ya.ndvi\`shhmastamato\`maamau\'ga\`raru\'ste\`diva\`Mmaaskaa\`n vasa\'vastvaa\`pari\'gR^ihNantu gaaya\`treNa\`chhanda\'saaru\`drastvaa\`pari\'gR^ihNantu\`traishhTu\'bhena\`chhanda\'saa.a.adi\`tyaastvaa\`pari\'gR^ihNantu\` jaaga\'tena\`chhanda\'saade\`vasya\'savi\`tussa\`vekarma\'kR^iNvantive\`dhasa\'R^i\`tama\'syR^ita\`sada\'namasyR^ita\`shrii 
+ra\'si\`dhaa a\'sisva\`dhaa a\'syu\`rvii\'caasi\`vasvii\'caasipu\`raakruu\`rasya\'vi\`sR^ipo\'viraphshinnudaa\`daaya\'pR^ithi\`vii.n jii\`radaa\'nu\`ryaamaira\'ya~nca\`ndrama\'sisva\`dhaabhi\`staa.ndhiiraa\'so anu\`dR^ishya\'yajante .. 1\. 1\. 9 .. 
+
+pratyu\'shhTa\`{\m+}\` raksha\`Hpratyu\'shhTaa\` araa\'tayo\`.agnerva\`steji\'shhThena\`teja\'saa\`nishhTa\'paamigo\`shhThaM maanirmR^i\'ksha.nvaa\`jina\'.ntvaasapatnasaa\`ha{\m+}saM maa\"rjmi\`vaaca\'Mpraa\`Na.ncakshu\`shshrotra\'Mpra\`jaa.n yoni\`MmaanirmR^i\'ksha.nvaa\`jinii\".ntvaasapatnasaa\`hii{\m+}saMma\"rjmyaa\`shaasaa\'naasaumana\`saMpra\`jaa{\m+} saubhaa\"gya.nta\`nuum.a\`gneranu\'vrataabhuu\`tvaasa.nna\'hyesukR^i\`taaya\`kam .. 
+su\`pra\`jasa\'stvaava\`ya{\m+}su\`patnii\`rupa\'sedima. agne\'sapatna\`dambha\'na\`mada\'bdhaaso\`adaa\"bhyam .. 
+i\`ma.nvishhyaa\'mi\`varu\'Nasya\`paasha\`.nyamaba\'dhniitasavi\`taasu\`keta\'H. 
+dhaa\`tushca\`yonau\'sukR^i\`tasya\'lo\`kesyo\`naMme\'sa\`hapatyaa\'karomi .. 
+samaayu\'shhaa\`saMpra\`jayaa\`sama\'gne\`varca\'saa\`puna\'H. 
+saMpatnii\`patyaa\`.aha.nga\'cchhe\`samaa\`tmaata\`nuvaa\`mama\' .. 
+ma\`hii\`naaMpayo\`.asyoshha\'dhiinaa\`{\m+}\`rasa\`stasya\`te.akshii\'ymaaNasya\`nirva\'paamimahii\`naaM payo\`.asyoshha\'dhiinaa\`{\m+}\`raso.ada\'bdhenatvaa\`cakshu\`shhaa.ave\"kshesuprajaa\`stvaaya\`tejo\'.asi\` tejo.anu\`prehya\`gniste\`tejo\`maavinai\'da\`gnerji\`hvaa.asi\'su\`bhuurde\`vaanaa\`.ndhaamne\'dhaamnede\`vebhyo\` yaju\'shheyajushhebhavashu\`krama\'si\`jyoti\'rasi\`tejo\'.aside\`vova\'ssavi\`totpu\'naa\`tvacchhi\'dreNapa\`vitre\'Na\`vaso\`H suurya\'syara\`shmibhi\'shshu\`kra.ntvaa\'shu\`kraayaa\`.ndhaamne\'dhaamnede\`vebhyo\`yaju\'shheyajushhegR^ihNaami\` jyoti\'stvaa\`jyoti\'shhya\`rcistvaa\`.arcishhi\`dhaamne\'dhaamnede\`vebhyo\`yaju\'shheyajushhegR^ihNaami .. 1\. 1\. 10 .. 
+
+kR^ishhNo\'.asyaakhare\`shhTho\`.agnaye\"tvaa\`svaahaa\`vedi\'rasiba\`rhishhie\"tvaa\`svaahaa\'ba\`rhira\'sisru\`gbhyastvaa\` svaahaa\'di\`vetvaa\`.antari\'kshaayatvaapR^ithi\`vyaitvaa\"sva\`dhaapi\`tR^ibhya\`uurgbha\'vabarhi\`shhadbhya\'uu\`rjaa pR^i\'thi\`vii.nga\'cchhata\`vishhNo\`stuupo\`.asyuurNaa\"mradasa.ntvaastR^iNaamisvaasa\`stha.nde\`vebhyo\'gandha\`rvo\'.asi vi\`shvaava\'su\`rvishva\'smaa\`diishha\'to\`yaja\'maanasyapari\`dhiri\`Da ii\'Di\`ta indra\'syabaa\`hura\'si\`dakshi\'No\` yaja\'maanasyapari\`dhiri\`Da ii\'Di\`tomi\`traavaru\'Nautvottara\`taHpari\'dhattaa.ndhru\`veNa\`dharma\'Naa\`yaja\'maanasya pari\`dhiri\`Da I\'Di\`tassuurya\'stvaapu\`rastaa\"tpaatu\`kasyaa\"shcida\`bhisha\'styaavii\`tiho\'tra.ntvaakavedyu\`manta\`{\m+}\` sami\'dhiima\`hyagne\'bR^i\`hanta\'madhva\`revi\`shoya\`ntrestho\`vasuu\'naa{\m+}ru\`draaNaa\'maadi\`tyaanaa\`{\m+}\`sada\'si sIdaju\`huuru\'pa\`bhR^iddhru\`vaa.asi\'ghR^i\`taacii\`naamnaa\"pri\`yeNa\`naamnaa\"pri\`yesada\'sisiidai\`taa a\'sadan thsu\'kR^i\`tasya\'lo\`ketAvi\'shhNopaahipaa\`hiya\`j~naMpaa\`hiya\`j~napa\'tiMpA\`himaaMya\'j~na\`niya\"m .. 1\. 1\. 11 .. 
+
+bhuva\'namasi\`vipra\'tha\`svA.agne\`yashhTa\'ri\`dannama\'H. juhvehya\`gnistvaa\"hvayatidevaya\`jyaayaa\` upa\'bhR^i\`dehi\' de\`vastvaa\'savi\`taahva\'yatidevaya\`jyAyA\`agnaa\'vishhNuu\`maavaa\`mava\'kramishha\`.n viji\'haathaa\`Mmaamaa\`sa.n taa\"pta.nlo\`kaMme\'lokakR^itaukR^iNuta.nvishhNo\`sthaana\'masI\`ta indro\'akR^iNodvI\`ryaa\'NisamA\`rabhyo\`rdhvo a\'dhva\`rodi\'vi\`spR^isha\`mahru\'toya\`j~noya\`j~napa\'te\`rindraa\'vaa\`nthsvaahaa\'bR^i\`hadbhaaHpaa\`himaa\".agne\` dushca\'ritaa\`daamaa\`suca\'ritebhajama\`khasya\`shiro\'.asi\`samJyoti\'shhaa\`jyoti\'ra~Nktaam .. 1\. 1\. 12 .. 
+
+vaaja\'syamaaprasa\`veno\'dgraa\`bheNoda\'grabhiit . athaa\'sa\`patnaa\`{\m+}indro\'menigraa\`bheNaadha\'raa{\m+}akaH . 
+u\`dgraa\`bha~nca\'nigraa\`bha~nca\`brahma\'de\`vaa a\'viivR^idhann. athaa\'sa\`patnaa\'nindraa\`gniime\'vishhuu\`ciinaa\`n vya\'syataam. vasu\'bhyastvaaru\`drebhya\'stvaa.a.adi\`tyebhya\'stvaa\`.akta{\m+}rihaa\'Naavi\`yantu\`vaya\'H . 
+pra\`jaa.nyoni\`MmaanirmR^i\'ksha\`maapyaa\'yantA\`mApa\`oshha\'dhayoma\`rutaa\`MpR^ishhata\'yastha\`diva\'ngacchha\` tato\'no\`vR^isshhTi\'mera\'ya. A\`yu\`shhpA a\'gne\`.asyAyu\'rmepAhicakshu\`shhpA.a\'gne.asi\`cakshu\'rmepAhidhru\`vA.a si\`yaMpa\'ri\`dhiMpa\`ryadha\'tthaa\` agne\'devapa\`Nibhi\'rvii\`yamaa\'NaH. ta.nta\'e\`tamanu\`joshha\'Mbharaami\` nede\`shhatvada\'pace\`tayaa\'taiya\`j~nasya\`paatha\`upa\`sami\'ta{\m+}sa{\m+}sraa\`vabhaa\'gaasthe\`shhaabR^i\`hanta\'H prastare\`shhThAba\'rhi\`shhada\'shcade\`vA i\`mA.nvAca\'ma\`bhivishve\'gR^i\`Nanta\' aa\`sadyaa\`sminba\`rhishhi\' maadayadhvama\`gnervA\`mapannagR^ihasya\`sada\'sisAdayAmisu\`mnAya\'sumninIsu\`mnemA\'dadhdva.ndhu\`ridhuryo\'pAtha magne\'.adbdhaayo.ashItatanopA\`himA.adyadi\`vaHpA\`hiprasi\'tyaipaa\`hiduri\'shhTyaipaa\`hidu\'radma\`nyaipaa\`hi dushcari\'tA\`davi\'shha.nnaHpi\`tu.nkR^i\'Nu su\`shhadaa\`yoni\`{\m+}\`svaahaa\`devA\'gAtuvidogA\`tu.n vi\`ttvAgA\`tumi\'ta\` mana\'saspata i\`ma.nno\'devade\`veshhu\'ya\`j~na{\m+}svaahaa\'vaa\`cisvaahaa\`vaate\'dhAH .. 1 \. 1\. 13 .. 
+
+u\`bhAvA\'mindrAgnIAhu\`vadhyA\'u\`bhArAdha\'sassa\`hamA\'da\`yadhyai\" . 
+u\`bhAdA\`tArA\'vi\`shhA{\m+}ra\'yI\`NAmu\`bhAvAja\'syasA\`taye\'huvevAm .. 
+ashra\'va\`{\m+}\`hibhU\'ri\`dAva\'ttarA vA\`.n vijA\'mAturu\`tavA\'ghAsyA\`lAt . athA\`soma\'sya\`pra\`ya\'tI yu\`vabhyaa\`mindrA\"gnI\`stoma\'.njanayAmi\`navya\"m .. 
+indrA\"gnInava\`tiMpuro\'daa\`sapa\'tnIradhUnutam. sA\`kameke\`na\`karma\'NA .. 
+shuchi\`.nnustoma\`.nnava\'jAtama\`dyendrA\"gnIvR^itrahaNAju\`shhethA\"m . 
+u\`bhAhivA{\m+}\'su\`havA\` joha\'vImi\`tAvAja\'{\m+}sa\`dya u\'sha\`tedheshhThA\" .. 
+va\`yamu\'tvApathaspate\'ratha\`.nna vAja\'sAtaye . dhi\`yepU\'shhannayujmahi .. 
+pa\`thaspa\'tha\`Hpari\'pati.n vaca\`syAkAme\'na kR^i\`to a\`bhyA\'naDa\`rkam. 
+sano\'rAsacchhu\`rudha\'shca\`ndraagraa\`dhiya\'.ndhiya{\m+}siishhadhaati\`prapuu\`shhaa .. 
+kshetra\'sya\`pati\'nAva\`ya{\m+}hi\`tene\'vajayaamasi . 
+gaamashva\'Mposhhayi\`ntvaasano\'mR^iDAtI\`dR^ishe\" .. 
+kshetra\'syapate\`madhu\'mantamU\`rmi.ndhe\`nuri\'va\`payo\'a\`smaasu\'dhukshva . 
+ma\`dhu\`shcuta\'.n ghR^i\`tami\'vasupU\'tamR^i\`tasya\'na\`Hpata\'yomR^iDayantu .. 
+agne\`naya\'su\`pathaa\'raa\`ye a\`smaanvishvaa\'nidevava\`yunaa\'nivi\`dvaan . 
+yu\`yodhya\'smajju\'huraa\`Nameno\`bhuuyi\'shhThaa.nte\`nama\'ukti.nvidhema .. 
+Ade\`vAnA\`mapi\` panthA\'maganma\`yacchha\`knavaa\'ma\`tadanu\`pravoDhum . 
+a\`gnirvi\`dvaantsaya\'jaa\`tsedu\`hotaa\`so a\'dhva\`raanthsaR^i\`tuunka\'lpayaati .. 
+yadvaahi\'shhTha\`tada\`gnaye\'bR^i\`hada\'rcavibhaavaso . mahi\'shhiiva\`tvadra\`yistvadvaajaa\`udii\'rate .. 
+agne\`tvaMpaa\'rayaa\`navyo\'a\`smaanthsva\`stibhi\`rati\'du\`rgaaNi\`vishvaa\" . 
+puushca\'pR^i\`thiviiba\'hu\`laana\'u\`rviibhavaa\'to\`kaaya\`tana\'yaaya\`sha.nyoH .. 
+tvama\'gnevrata\`paa a\'side\`va Amartye\`shhvaa. tva.nya\`j~neshhviiDya\'H .. 
+yadvo\'va\`yaMpra\'mi\`naama\'vra\`taani\'vi\`dushha\".ndevaa\` avi\'dushhTaraasaH . 
+a\`gnishhTadvishva\`maapR^iNaativi\`dvaan yebhi\'rde\`vaa{\m+}R^i\`tubhi\'Hka\`lpayaa\'ti .. 1\. 1\. 14 .. 
+
+.. iti prathamakaaNDe prathamaH prapaaThakaH (prashnaH) 
+##
+Encoded with accents by Rajagopal Iyer rajsand@yahoo.com
+Proofread by VENKATAVARAHAN ternandanan@satyam.net.in
+\medskip\hrule\obeylines
+\medskip
+{\rm Please send corrections to sanskrit@cheerful.com}
+{\rm Last updated \today}
+\end{document}

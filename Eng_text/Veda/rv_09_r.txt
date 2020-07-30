@@ -1,0 +1,2361 @@
+RGVEDA 9
+
+
+% EXCERPTS FROM README:
+
+% The edition used was that of Aufrecht, 1877. Apparently the edition was 
+% compiled by H.S. Ananthanarayana and W. P. Lehman. 
+% It is a "research-only" text. 
+% Reputedly, it was verified against Grassmann, 1876-77.
+
+
+THE MODIFIED VERSE NUMBERING:
+
+two digits for Mandala.
+three digits for Sukta.
+two digits for verse.
+one digit for line.
+{two digits for varga}
+
+e.g.: 01.001.01.1{01}
+
+⁄ƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒø
+≥ THIS TEXT FILE IS FOR REFERENCE PURPOSES ONLY!	≥
+≥ COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.	≥
+≥							≥
+≥ Text converted to Ronald E. Emmerick's encoding for   ≥
+≥ WordPerfect 5.1 DOS and related utility programmes 	≥
+≥ BHELA, CARAKA etc. (DOS versions): 			≥
+≥ 							≥
+≥ description             character  =	ASCII		≥
+≥  							≥
+≥ long a                  A             195		≥
+≥ long A                  ˘             249		≥
+≥ long i                  I             197		≥
+≥ long I                  ˝             253		≥
+≥ long u                  U             198		≥
+≥ long U                  Ù             244		≥
+≥ vocalic r               R^i             173		≥
+≥ vocalic R               „             227		≥
+≥ long vocalic r          Ã             204		≥
+≥ vocalic l                             202		≥
+≥ long vocalic l          À             203		≥
+≥ velar n                 «             199		≥
+≥ velar N                 ß             167		≥
+≥ palatal n               §             164		≥
+≥ palatal N               •             165		≥
+≥ retroflex t             T             194		≥
+≥ retroflex T             Ë             232		≥
+≥ retroflex d             D             172		≥
+≥ retroflex D             ÷             214		≥
+≥ retroflex n             N             239		≥
+≥ retroflex N             ◊             215		≥
+≥ palatal s               sh             211		≥
+≥ palatal S               ¡             193		≥
+≥ retroflex s             Sh             171		≥
+≥ retroflex S             Â             229		≥
+≥ anusvara                M             230		≥
+≥ capital anusvara        ı             245		≥
+≥ visarga                 H             247		≥
+≥ capital visarga         Í             234		≥
+¿ƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒŸ
+
+RV_09.001.01.1{16}  svAdiShThayA madiShThayA pavasva soma dhArayA
+RV_09.001.01.2{16}  indrAya pAtave sutaH
+RV_09.001.02.1{16}  rakShohA vishvacarShanirabhi yonimayohatam
+RV_09.001.02.2{16}  druNA sadhasthamAsadat
+RV_09.001.03.1{16}  varivodhAtamo bhava maMhiShTho vR^itrahantamaH
+RV_09.001.03.2{16}  parShi rAdhomaghonAm
+RV_09.001.04.1{16}  abhyarSha mahAnAM devAnAM vItimandhasA
+RV_09.001.04.2{16}  abhi vAjamuta shravaH
+RV_09.001.05.1{16}  tvAmachA carAmasi tadidarthaM dive-dive
+RV_09.001.05.2{16}  indo tve na AshasaH
+RV_09.001.06.1{17}  punAti te parisrutaM somaM sUryasya duhitA
+RV_09.001.06.2{17}  vAreNa shashvatA tanA
+RV_09.001.07.1{17}  tamImaNvIH samarya A gR^ibhNanti yoShaNo dasha
+RV_09.001.07.2{17}  svasAraH pArye divi
+RV_09.001.08.1{17}  tamIM hinvantyagruvo dhamanti bAkuraM dR^itim
+RV_09.001.08.2{17}  tridhAtu vAraNaM madhu
+RV_09.001.09.1{17}  abhImamaghnyA uta shrINanti dhenavaH shishum
+RV_09.001.09.2{17}  somamindrAya pAtave
+RV_09.001.10.1{17}  asyedindro madeShvA vishvA vR^itrANi jighnate
+RV_09.001.10.2{17}  shUro maghA ca maMhate
+
+RV_09.002.01.1{18}  pavasva devavIrati pavitraM soma raMhyA
+RV_09.002.01.2{18}  indramindo vR^iShA visha
+RV_09.002.02.1{18}  A vacyasva mahi psaro vR^iShendo dyumnavattamaH
+RV_09.002.02.2{18}  A yoniM dharNasiH sadaH
+RV_09.002.03.1{18}  adhukShata priyaM madhu dhArA sutasya vedhasaH
+RV_09.002.03.2{18}  apo vasiShTa sukratuH
+RV_09.002.04.1{18}  mahAntaM tvA mahIranvApo arShanti sindhavaH
+RV_09.002.04.2{18}  yad gobhirvAsayiShyase
+RV_09.002.05.1{18}  samudro apsu mAmR^ije viShTambho dharuNo divaH
+RV_09.002.05.2{18}  somaH pavitre asmayuH
+RV_09.002.06.1{19}  acikradad vR^iShA harirmahAn mitro na darshataH
+RV_09.002.06.2{19}  saM sUryeNa rocate
+RV_09.002.07.1{19}  girasta inda ojasA marmR^ijyante apasyuvaH
+RV_09.002.07.2{19}  yAbhirmadAya shumbhase
+RV_09.002.08.1{19}  taM tvA madAya ghR^iShvaya u lokakR^itnumImahe
+RV_09.002.08.2{19}  tava prashastayo mahIH
+RV_09.002.09.1{19}  asmabhyamindavindrayurmadhvaH pavasva dhArayA
+RV_09.002.09.2{19}  parjanyo vR^iShTimAniva
+RV_09.002.10.1{19}  goShA indo nR^iShA asyashvasA vAjasA uta
+RV_09.002.10.2{19}  AtmA yaj~nasya pUrvyaH
+
+RV_09.003.01.1{20}  eSha devo amartyaH parNavIriva dIyati
+RV_09.003.01.2{20}  abhi droNAnyAsadam
+RV_09.003.02.1{20}  eSha devo vipA kR^ito.ati hvarAMsi dhAvati
+RV_09.003.02.2{20}  pavamAno adAbhyaH
+RV_09.003.03.1{20}  eSha devo vipanyubhiH pavamAna R^itAyubhiH
+RV_09.003.03.2{20}  harirvAjAya mR^ijyate
+RV_09.003.04.1{20}  eSha vishvAni vAryA shUro yanniva satvabhiH
+RV_09.003.04.2{20}  pavamAnaHsiShAsati
+RV_09.003.05.1{20}  eSha devo ratharyati pavamAno dashasyati
+RV_09.003.05.2{20}  AviSh kR^iNoti vagvanum
+RV_09.003.06.1{21}  eSha viprairabhiShTuto.apo devo vi gAhate
+RV_09.003.06.2{21}  dadhad ratnAnidAshuShe
+RV_09.003.07.1{21}  eSha divaM vi dhAvati tiro rajAMsi dhArayA
+RV_09.003.07.2{21}  pavamAnaHkanikradat
+RV_09.003.08.1{21}  eSha divaM vyAsarat tiro rajANsyaspR^itaH
+RV_09.003.08.2{21}  pavamAnaH svadhvaraH
+RV_09.003.09.1{21}  eSha pratnena janmanA devo devebhyaH sutaH
+RV_09.003.09.2{21}  hariH pavitrearShati
+RV_09.003.10.1{21}  eSha u sya puruvrato jaj~nAno janayanniShaH
+RV_09.003.10.2{21}  dhArayA pavate sutaH
+
+RV_09.004.01.1{22}  sanA ca soma jeShi ca pavamAna mahi shravaH
+RV_09.004.01.2{22}  athA no vasyasas kR^idhi
+RV_09.004.02.1{22}  sanA jyotiH sanA svarvishvA ca soma saubhagA
+RV_09.004.02.2{22}  athA ...
+RV_09.004.03.1{22}  sanA dakShamuta kratumapa soma mR^idho jahi
+RV_09.004.03.2{22}  athA ...
+RV_09.004.04.1{22}  pavItAraH punItana somamindrAya pAtave
+RV_09.004.04.2{22}  athA ...
+RV_09.004.05.1{22}  tvaM sUrye na A bhaja tava kratvA tavotibhiH
+RV_09.004.05.2{22}  athA ...
+RV_09.004.06.1{23}  tava kratvA tavotibhirjyok pashyema sUryam
+RV_09.004.06.2{23}  athA ...
+RV_09.004.07.1{23}  abhyarSha svAyudha soma dvibarhasaM rayim
+RV_09.004.07.2{23}  athA ...
+RV_09.004.08.1{23}  abhyarShAnapacyuto rayiM samatsu sAsahiH
+RV_09.004.08.2{23}  athA ...
+RV_09.004.09.1{23}  tvAM yaj~nairavIvR^idhan pavamAna vidharmaNi
+RV_09.004.09.2{23}  athA ...
+RV_09.004.10.1{23}  rayiM nashcitramashvinamindo vishvAyamA bhara
+RV_09.004.10.2{23}  athA .. .
+
+RV_09.005.01.1{24}  samiddho vishvatas patiH pavamAno vi rAjati
+RV_09.005.01.2{24}  prINan vR^iShA kanikradat
+RV_09.005.02.1{24}  tanUnapAt pavamAnaH shR^iN^ge shishAno arShati
+RV_09.005.02.2{24}  antarikSheNa rArajat
+RV_09.005.03.1{24}  I enyaH pavamAno rayirvi rAjati dyumAn
+RV_09.005.03.2{24}  madhordhArAbhirojasA
+RV_09.005.04.1{24}  barhiH prAcInamojasA pavamAna stR^iNan hariH
+RV_09.005.04.2{24}  deveShu deva Iyate
+RV_09.005.05.1{24}  udAtairjihate bR^ihad dvAro devIrhiraNyayIH
+RV_09.005.05.2{24}  pavamAnena suShTutAH
+RV_09.005.06.1{25}  sushilpe bR^ihatI mahI pavamAno vR^iShaNyati
+RV_09.005.06.2{25}  naktoShAsA nadarshate
+RV_09.005.07.1{25}  ubhA devA nR^icakShasA hotArA daivyA huve
+RV_09.005.07.2{25}  pavamAna indrovR^iShA
+RV_09.005.08.1{25}  bhAratI pavamAnasya sarasvatI A mahI
+RV_09.005.08.2{25}  imaM no yaj~namA gaman tisro devIH supeshasaH
+RV_09.005.09.1{25}  tvaShTAramagrajAM gopAM puroyAvAnamA huve
+RV_09.005.09.2{25}  indurindro vR^iShA hariH pavamAnaH prajApatiH
+RV_09.005.10.1{25}  vanaspatiM pavamAna madhvA samaN^gdhi dhArayA
+RV_09.005.10.2{25}  sahasravalshaM haritaM bhrAjamAnaM hiraNyayam
+RV_09.005.11.1{25}  vishve devAH svAhAkR^itiM pavamAnasyA gata
+RV_09.005.11.2{25}  vAyurbR^ihaspatiH sUryo.agnirindraH sajoShasaH
+
+RV_09.006.01.1{26}  mandrayA soma dhArayA vR^iShA pavasva devayuH
+RV_09.006.01.2{26}  avyo vAreShvasmayuH
+RV_09.006.02.1{26}  abhi tyaM madyaM madamindavindra iti kShara
+RV_09.006.02.2{26}  abhi vAjinoarvataH
+RV_09.006.03.1{26}  abhi tyaM pUrvyaM madaM suvAno arSha pavitra A
+RV_09.006.03.2{26}  abhi vAjamuta shravaH
+RV_09.006.04.1{26}  anu drapsAsa indava Apo na pravatAsaran
+RV_09.006.04.2{26}  punAnA indramAshata
+RV_09.006.05.1{26}  yamatyamiva vAjinaM mR^ijanti yoShaNo dasha
+RV_09.006.05.2{26}  vane krI antamatyavim
+RV_09.006.06.1{27}  taM gobhirvR^iShaNaM rasaM madAya devavItaye
+RV_09.006.06.2{27}  sutaM bharAya saM sR^ija
+RV_09.006.07.1{27}  devo devAya dhArayendrAya pavate sutaH
+RV_09.006.07.2{27}  payo yadasya pIpayat
+RV_09.006.08.1{27}  AtmA yaj~nasya raMhyA suShvANaH pavate sutaH
+RV_09.006.08.2{27}  pratnaMni pAti kAvyam
+RV_09.006.09.1{27}  evA punAna indrayurmadaM madiShTha vItaye
+RV_09.006.09.2{27}  guhA cid dadhiShe giraH#
+
+RV_09.007.01.1  asR^igram indavaH pathA dharmann R^itasya sushriyaH 
+RV_09.007.01.2  vidAnA asya yojanam 
+RV_09.007.02.1  pra dhArA madhvo agriyo mahIr apo vi gAhate 
+RV_09.007.02.2  havir haviShShu vandyaH 
+RV_09.007.03.1  pra yujo vAco agriyo vR^iShAva cakradad vane 
+RV_09.007.03.2  sadmAbhi satyo adhvaraH 
+RV_09.007.04.1  pari yat kAvyA kavir nR^imNA vasAno arShati 
+RV_09.007.04.2  svar vAjI siShAsati 
+RV_09.007.05.1  pavamAno abhi spR^idho visho rAjeva sIdati 
+RV_09.007.05.2  yad Im R^iNvanti vedhasaH 
+RV_09.007.06.1  avyo vAre pari priyo harir vaneShu sIdati 
+RV_09.007.06.2  rebho vanuShyate matI 
+RV_09.007.07.1  sa vAyum indram ashvinA sAkam madena gachati 
+RV_09.007.07.2  raNA yo asya dharmabhiH 
+RV_09.007.08.1  A mitrAvaruNA bhagam madhvaH pavanta UrmayaH 
+RV_09.007.08.2  vidAnA asya shakmabhiH 
+RV_09.007.09.1  asmabhyaM rodasI rayim madhvo vAjasya sAtaye 
+RV_09.007.09.2  shravo vasUni saM jitam 
+
+RV_09.008.01.1  ete somA abhi priyam indrasya kAmam akSharan 
+RV_09.008.01.2  vardhanto asya vIryam 
+RV_09.008.02.1  punAnAsash camUShado gachanto vAyum ashvinA 
+RV_09.008.02.2  te no dhAntu suvIryam 
+RV_09.008.03.1  indrasya soma rAdhase punAno hArdi codaya 
+RV_09.008.03.2  R^itasya yonim Asadam 
+RV_09.008.04.1  mR^ijanti tvA dasha kShipo hinvanti sapta dhItayaH 
+RV_09.008.04.2  anu viprA amAdiShuH 
+RV_09.008.05.1  devebhyas tvA madAya kaM sR^ijAnam ati meShyaH 
+RV_09.008.05.2  saM gobhir vAsayAmasi 
+RV_09.008.06.1  punAnaH kalasheShv A vastrANy aruSho hariH 
+RV_09.008.06.2  pari gavyAny avyata 
+RV_09.008.07.1  maghona A pavasva no jahi vishvA apa dviShaH 
+RV_09.008.07.2  indo sakhAyam A visha 
+RV_09.008.08.1  vR^iShTiM divaH pari srava dyumnam pR^ithivyA adhi 
+RV_09.008.08.2  saho naH soma pR^itsu dhAH 
+RV_09.008.09.1  nR^icakShasaM tvA vayam indrapItaM svarvidam 
+RV_09.008.09.2  bhakShImahi prajAm iSham 
+
+RV_09.009.01.1  pari priyA divaH kavir vayAMsi naptyãr hitaH 
+RV_09.009.01.2  suvAno yAti kavikratuH 
+RV_09.009.02.1  pra-pra kShayAya panyase janAya juShTo adruhe 
+RV_09.009.02.2  vIty arSha caniShThayA 
+RV_09.009.03.1  sa sUnur mAtarA shucir jAto jAte arocayat 
+RV_09.009.03.2  mahAn mahI R^itAvR^idhA 
+RV_09.009.04.1  sa sapta dhItibhir hito nadyã ajinvad adruhaH 
+RV_09.009.04.2  yA ekam akShi vAvR^idhuH 
+RV_09.009.05.1  tA abhi santam astR^itam mahe yuvAnam A dadhuH 
+RV_09.009.05.2  indum indra tava vrate 
+RV_09.009.06.1  abhi vahnir amartyaH sapta pashyati vAvahiH 
+RV_09.009.06.2  krivir devIr atarpayat 
+RV_09.009.07.1  avA kalpeShu naH pumas tamAMsi soma yodhyA 
+RV_09.009.07.2  tAni punAna jaOghanaH 
+RV_09.009.08.1  nU navyase navIyase sUktAya sAdhayA pathaH 
+RV_09.009.08.2  pratnavad rocayA rucaH 
+RV_09.009.09.1  pavamAna mahi shravo gAm ashvaM rAsi vIravat 
+RV_09.009.09.2  sanA medhAM sanA svaH 
+
+RV_09.010.01.1  pra svAnAso rathA ivArvanto na shravasyavaH 
+RV_09.010.01.2  somAso rAye akramuH 
+RV_09.010.02.1  hinvAnAso rathA iva dadhanvire gabhastyoH 
+RV_09.010.02.2  bharAsaH kAriNAm iva 
+RV_09.010.03.1  rAjAno na prashastibhiH somAso gobhir a§jate 
+RV_09.010.03.2  yaj~no na sapta dhAtR^ibhiH 
+RV_09.010.04.1  pari suvAnAsa indavo madAya barhaNA girA 
+RV_09.010.04.2  sutA arShanti dhArayA 
+RV_09.010.05.1  ApAnAso vivasvato jananta uShaso bhagam 
+RV_09.010.05.2  sUrA aNvaM vi tanvate 
+RV_09.010.06.1  apa dvArA matInAm pratnA R^iNvanti kAravaH 
+RV_09.010.06.2  vR^iShNo harasa AyavaH 
+RV_09.010.07.1  samIcInAsa Asate hotAraH saptajAmayaH 
+RV_09.010.07.2  padam ekasya piprataH 
+RV_09.010.08.1  nAbhA nAbhiM na A dade cakShush cit sUrye sacA 
+RV_09.010.08.2  kaver apatyam A duhe 
+RV_09.010.09.1  abhi priyA divas padam adhvaryubhir guhA hitam 
+RV_09.010.09.2  sUraH pashyati cakShasA 
+
+RV_09.011.01.1  upAsmai gAyatA naraH pavamAnAyendave 
+RV_09.011.01.2  abhi devAM iyakShate 
+RV_09.011.02.1  abhi te madhunA payo 'tharvANo ashishrayuH 
+RV_09.011.02.2  devaM devAya devayu 
+RV_09.011.03.1  sa naH pavasva shaM gave shaM janAya sham arvate 
+RV_09.011.03.2  shaM rAjann oShadhIbhyaH 
+RV_09.011.04.1  babhrave nu svatavase 'ruNAya divispR^ishe 
+RV_09.011.04.2  somAya gAtham arcata 
+RV_09.011.05.1  hastacyutebhir adribhiH sutaM somam punItana 
+RV_09.011.05.2  madhAv A dhAvatA madhu 
+RV_09.011.06.1  namased upa sIdata dadhned abhi shrINItana 
+RV_09.011.06.2  indum indre dadhAtana 
+RV_09.011.07.1  amitrahA vicarShaNiH pavasva soma shaM gave 
+RV_09.011.07.2  devebhyo anukAmakR^it 
+RV_09.011.08.1  indrAya soma pAtave madAya pari Shicyase 
+RV_09.011.08.2  manashcin manasas patiH 
+RV_09.011.09.1  pavamAna suvIryaM rayiM soma rirIhi naH 
+RV_09.011.09.2  indav indreNa no yujA 
+
+RV_09.012.01.1{38}  somA asR^igramindavaH sutA R^itasya sAdane
+RV_09.012.01.2{38}  indrAya madhumattamAH
+RV_09.012.02.1{38}  abhi viprA anUShata gAvo vatsaM na mAtaraH
+RV_09.012.02.2{38}  indraM somasya pItaye
+RV_09.012.03.1{38}  madacyut kSheti sAdane sindhorUrmA vipashcit
+RV_09.012.03.2{38}  somo gaurIadhi shritaH
+RV_09.012.04.1{38}  divo nAbhA vicakShaNo.avyo vAre mahIyate
+RV_09.012.04.2{38}  somo yaH sukratuH kaviH
+RV_09.012.05.1{38}  yaH somaH kalasheShvA antaH pavitra AhitaH
+RV_09.012.05.2{38}  taminduH pari Shasvaje
+RV_09.012.06.1{39}  pra vAcaminduriShyati samudrasyAdhi viShTapi
+RV_09.012.06.2{39}  jinvan koshaM madhushcutam
+RV_09.012.07.1{39}  nityastotro vanaspatirdhInAmantaH sabardughaH
+RV_09.012.07.2{39}  hinvAnomAnuShA yugA
+RV_09.012.08.1{39}  abhi priyA divas padA somo hinvAno arShati
+RV_09.012.08.2{39}  viprasya dhArayA kaviH
+RV_09.012.09.1{39}  A pavamAna dhAraya rayiM sahasravarcasam
+RV_09.012.09.2{39}  asme indo svAbhuvam
+
+RV_09.013.01.1{01}  somaH punAno arShati sahasradhAro atyaviH
+RV_09.013.01.2{01}  vAyorindrasyaniShkR^itam
+RV_09.013.02.1{01}  pavamAnamavasyavo vipramabhi pra gAyata
+RV_09.013.02.2{01}  suShvANaM devavItaye
+RV_09.013.03.1{01}  pavante vAjasAtaye somAH sahasrapAjasaH
+RV_09.013.03.2{01}  gR^iNAnA devavItaye
+RV_09.013.04.1{01}  uta no vAjasAtaye pavasva bR^ihatIriShaH
+RV_09.013.04.2{01}  dyumadindo suvIryam
+RV_09.013.05.1{01}  te naH sahasriNaM rayiM pavantAmA suvIryam
+RV_09.013.05.2{01}  suvAnA devAsa indavaH
+RV_09.013.06.1{02}  atyA hiyAnA na hetR^ibhirasR^igraM vAjasAtaye
+RV_09.013.06.2{02}  vi vAramavyamAshavaH
+RV_09.013.07.1{02}  vAshrA arShantIndavo.abhi vatsaM na dhenavaH
+RV_09.013.07.2{02}  dadhanviregabhastyoH
+RV_09.013.08.1{02}  juShTa indrAya matsaraH pavamAna kanikradat
+RV_09.013.08.2{02}  vishvA apa dviSho jahi
+RV_09.013.09.1{02}  apaghnanto arAvNaH pavamAnAH svardR^ishaH
+RV_09.013.09.2{02}  yonAv R^itasya sIdata
+
+RV_09.014.01.1{03}  pari prAsiShyadat kaviH sindhorUrmAvadhi shritaH
+RV_09.014.01.2{03}  kAraM bibhrat puruspR^iham
+RV_09.014.02.1{03}  girA yadI sabandhavaH pa§ca vrAtA apasyavaH
+RV_09.014.02.2{03}  pariShkR^iNvanti dharNasim
+RV_09.014.03.1{03}  Adasya shuShmiNo rase vishve devA amatsata
+RV_09.014.03.2{03}  yadI gobhirvasAyate
+RV_09.014.04.1{03}  niriNAno vi dhAvati jahaccharyANi tAnvA
+RV_09.014.04.2{03}  atrA saM jighnate yujA
+RV_09.014.05.1{03}  naptIbhiryo vivasvataH shubhro na mAmR^ije yuvA
+RV_09.014.05.2{03}  gAH kR^iNvAno na nirNijam
+RV_09.014.06.1{04}  ati shritI tirashcatA gavyA jigAtyaNvyA
+RV_09.014.06.2{04}  vagnumiyarti yaM vide
+RV_09.014.07.1{04}  abhi kShipaH samagmata marjayantIriShas patim
+RV_09.014.07.2{04}  pR^iShThA gR^ibhNata vAjinaH
+RV_09.014.08.1{04}  pari divyAni marmR^ishad vishvAni soma pArthivA
+RV_09.014.08.2{04}  vasUni yAhyasmayuH
+
+RV_09.015.01.1{05}  eSha dhiyA yAtyaNvya shUro rathebhirAshubhiH
+RV_09.015.01.2{05}  gachannindrasya niShkR^itam
+RV_09.015.02.1{05}  eSha purU dhiyAyate bR^ihate devatAtaye
+RV_09.015.02.2{05}  yatrAmR^itAsa Asate
+RV_09.015.03.1{05}  eSha hito vi nIyate.antaH shubhrAvatA pathA
+RV_09.015.03.2{05}  yadI tu§janti bhUrNayaH
+RV_09.015.04.1{05}  eSha shR^iN^gANi dodhuvacchishIte yUthyo vR^iShA
+RV_09.015.04.2{05}  nR^imNA dadhAna ojasA
+RV_09.015.05.1{05}  eSha rukmibhirIyate vAji shubhrebhiraMshubhiH
+RV_09.015.05.2{05}  patiH sindhUnAM bhavan
+RV_09.015.06.1{05}  eSha vasUni pibdanA paruShA yayivAnati
+RV_09.015.06.2{05}  ava shAdeShu gachati
+RV_09.015.07.1{05}  etaM mR^ijanti marjyamupa droNeShvAyavaH
+RV_09.015.07.2{05}  pracakrANaM mahIriShaH
+RV_09.015.08.1{05}  etamu tyaM dasha kShipo mR^ijanti sapta dhItayaH
+RV_09.015.08.2{05}  svAyudhaM madintamam
+
+RV_09.016.01.1{06}  pra te sotAra oNyo rasaM madAya ghR^iShvaya
+RV_09.016.01.2{06}  sargo na taktyetashaH
+RV_09.016.02.1{06}  kratvA dakShasya rathyamapo vasAnamandhasA
+RV_09.016.02.2{06}  goShAmaNveShu sashcima
+RV_09.016.03.1{06}  anaptamapsu duShTaraM somaM pavitra A sR^ija
+RV_09.016.03.2{06}  punIhIndrAya pAtave
+RV_09.016.04.1{06}  pra punAnasya cetasA somaH pavitre arShati
+RV_09.016.04.2{06}  kratvA sadhasthamAsadat
+RV_09.016.05.1{06}  pra tvA namobhirindava indra somA asR^ikShata
+RV_09.016.05.2{06}  mahe bharAyakAriNaH
+RV_09.016.06.1{06}  punAno rUpe avyaye vishvA arShannabhi shriyaH
+RV_09.016.06.2{06}  shUro na goShu tiShThati
+RV_09.016.07.1{06}  divo na sAnu pipyuShI dhArA sutasya vedhasaH
+RV_09.016.07.2{06}  vR^ithA pavitre arShati
+RV_09.016.08.1{06}  tvaM soma vipashcitaM tanA punAna AyuShu
+RV_09.016.08.2{06}  avyo vAraM vi dhAvasi
+
+RV_09.017.01.1{07}  pra nimneneva sindhavo ghnanto vR^itrANi bhUrNayaH
+RV_09.017.01.2{07}  somA asR^igramAshavaH
+RV_09.017.02.1{07}  abhi suvAnAsa indavo vR^iShTayaH pR^ithivImiva
+RV_09.017.02.2{07}  indraM somAso akSharan
+RV_09.017.03.1{07}  atyUrmirmatsaro madaH somaH pavitre arShati
+RV_09.017.03.2{07}  vighnan rakShAMsi devayuH
+RV_09.017.04.1{07}  A kalasheShu dhAvati pavitre pari Shicyate
+RV_09.017.04.2{07}  ukthairyaj~neShuvardhate
+RV_09.017.05.1{07}  ati trI soma rocanA rohan na bhrAjase divam
+RV_09.017.05.2{07}  iShNan sUryaM na codayaH
+RV_09.017.06.1{07}  abhi viprA anUShata mUrdhan yaj~nasya kAravaH
+RV_09.017.06.2{07}  dadhAnAshcakShasi priyam
+RV_09.017.07.1{07}  tamu tvA vAjinaM naro dhIbhirviprA avasyavaH
+RV_09.017.07.2{07}  mR^ijantidevatAtaye
+RV_09.017.08.1{07}  madhordhArAmanu kShara tIvraH sadhasthamAsadaH
+RV_09.017.08.2{07}  cArur{R^i}tAya pItaye
+
+RV_09.018.01.1{08}  pari suvAno giriShThAH pavitre somo akShAH
+RV_09.018.01.2{08}  madeShu sarvadhA asi
+RV_09.018.02.1{08}  tvaM viprastvaM kavirmadhu pra jAtamandhasaH
+RV_09.018.02.2{08}  madeShu...
+RV_09.018.03.1{08}  tava vishve sajoShaso devAsaH pItimAshata
+RV_09.018.03.2{08}  madeShu ...
+RV_09.018.04.1{08}  A yo vishvAni vAryA vasUni hastayordadhe
+RV_09.018.04.2{08}  madeShu ...
+RV_09.018.05.1{08}  ya ime rodasI mahI saM mAtareva dohate
+RV_09.018.05.2{08}  madeShu ...
+RV_09.018.06.1{08}  pari yo rodasI ubhe sadyo vAjebhirarShati
+RV_09.018.06.2{08}  madeShu ...
+RV_09.018.07.1{08}  sa shuShmI kalasheShvA punAno acikradat
+RV_09.018.07.2{08}  madeShu ...
+
+RV_09.019.01.1{09}  yat soma citramukthyaM divyaM pArthivaM vasu
+RV_09.019.01.2{09}  tan naH punAna A bhara
+RV_09.019.02.1{09}  yuvaM hi sthaH svarpatI indrashca soma gopatI
+RV_09.019.02.2{09}  IshAnApipyataM dhiyaH
+RV_09.019.03.1{09}  vR^iShA punAna AyuShu stanayannadhi barhiShi
+RV_09.019.03.2{09}  hariH san yonimAsadat
+RV_09.019.04.1{09}  avAvashanta dhItayo vR^iShabhasyAdhi retasi
+RV_09.019.04.2{09}  sUnorvatsasyamAtaraH
+RV_09.019.05.1{09}  kuvid vR^iShaNyantIbhyaH punAno garbhamAdadhat
+RV_09.019.05.2{09}  yAH shukraM duhate payaH
+RV_09.019.06.1{09}  upa shikShApatasthuSho bhiyasamA dhehi shatruShu
+RV_09.019.06.2{09}  pavamAnavidA rayim
+RV_09.019.07.1{09}  ni shatroH soma vR^iShNyaM ni shuShmaM ni vayastira
+RV_09.019.07.2{09}  dUrevA sato anti vA
+
+RV_09.020.01.1{10}  pra kavirdevavItaye.avyo vArebhirarShati
+RV_09.020.01.2{10}  sAhvAn vishvAabhi spR^idhaH
+RV_09.020.02.1{10}  sa hi ShmA jaritR^ibhya A vAjaM gomantaminvati
+RV_09.020.02.2{10}  pavamAnaH sahasriNam
+RV_09.020.03.1{10}  pari vishvAni cetasA mR^ishase pavase matI
+RV_09.020.03.2{10}  sa naH soma shravo vidaH
+RV_09.020.04.1{10}  abhyarSha bR^ihad yasho maghavadbhyo dhruvaM rayim
+RV_09.020.04.2{10}  iShaM stotR^ibhya A bhara
+RV_09.020.05.1{10}  tvaM rAjeva suvrato giraH somA viveshitha
+RV_09.020.05.2{10}  punAno vahne adbhuta
+RV_09.020.06.1{10}  sa vahnirapsu duShTaro mR^ijyamAno gabhastyoH
+RV_09.020.06.2{10}  somashcamUShu sIdati
+RV_09.020.07.1{10}  krI urmakho na maMhayuH pavitraM soma gachasi
+RV_09.020.07.2{10}  dadhat stotre suvIryam
+
+RV_09.021.01.1{11}  ete dhAvantIndavaH somA indrAya ghR^iShvayaH
+RV_09.021.01.2{11}  matsarAsaHsvarvidaH
+RV_09.021.02.1{11}  pravR^iNvanto abhiyujaH suShvaye varivovidaH
+RV_09.021.02.2{11}  svayaM stotre vayaskR^itaH
+RV_09.021.03.1{11}  vR^ithA krI anta indavaH sadhasthamabhyekamit
+RV_09.021.03.2{11}  sindhorUrmA vyakSharan
+RV_09.021.04.1{11}  ete vishvAni vAryA pavamAnAsa Ashata
+RV_09.021.04.2{11}  hitA na saptayo rathe
+RV_09.021.05.1{11}  Asmin pishaN^gamindavo dadhAtA venamAdishe
+RV_09.021.05.2{11}  yo asmabhyamarAvA
+RV_09.021.06.1{11}  R^ibhurna rathyaM navaM dadhAtA ketamAdishe
+RV_09.021.06.2{11}  shukrAH pavadhvamarNasA
+RV_09.021.07.1{11}  eta u tye avIvashan kAShThAM vAjino akrata
+RV_09.021.07.2{11}  sataH prAsAviShurmatim
+
+RV_09.022.01.1{12}  ete somAsa Ashavo rathA iva pra vAjinaH
+RV_09.022.01.2{12}  sargAH sR^iShTA aheShata
+RV_09.022.02.1{12}  ete vAtA ivoravaH parjanyasyeva vR^iShTayaH
+RV_09.022.02.2{12}  agneriva bhramA vR^ithA
+RV_09.022.03.1{12}  ete pUtA vipashcitaH somAso dadhyAshiraH
+RV_09.022.03.2{12}  vipA vyAnashurdhiyaH
+RV_09.022.04.1{12}  ete mR^iShTA amartyAH sasR^ivAMso na shashramuH
+RV_09.022.04.2{12}  iyakShantaH patho rajaH
+RV_09.022.05.1{12}  ete pR^iShThAni rodasorviprayanto vyAnashuH
+RV_09.022.05.2{12}  utedamuttamaM rajaH
+RV_09.022.06.1{12}  tantuM tanvAnamuttamamanu pravata Ashata
+RV_09.022.06.2{12}  utedamuttamAyyam
+RV_09.022.07.1{12}  tvaM soma paNibhya A vasu gavyAni dhArayaH
+RV_09.022.07.2{12}  tataM tantumacikradaH
+
+RV_09.023.01.1{13}  somA asR^igramAshavo madhormadasya dhArayA
+RV_09.023.01.2{13}  abhi vishvAnikAvyA
+RV_09.023.02.1{13}  anu pratnAsa AyavaH padaM navIyo akramuH
+RV_09.023.02.2{13}  ruce jananta sUryam
+RV_09.023.03.1{13}  A pavamAna no bharAryo adAshuSho gayam
+RV_09.023.03.2{13}  kR^idhi prajAvatIriShaH
+RV_09.023.04.1{13}  abhi somAsa AyavaH pavante madyaM madam
+RV_09.023.04.2{13}  abhi koshaM madhushcutam
+RV_09.023.05.1{13}  somo arShati dharNasirdadhAna indriyaM rasam
+RV_09.023.05.2{13}  suvIro abhishastipAH
+RV_09.023.06.1{13}  indrAya soma pavase devebhyaH sadhamAdyaH
+RV_09.023.06.2{13}  indo vAjaM siShAsasi
+RV_09.023.07.1{13}  asya pItvA madAnAmindro vR^itrANyaprati
+RV_09.023.07.2{13}  jaghAna jaghanacca nu
+
+RV_09.024.01.1{14}  pra somAso adhanviShuH pavamAnAsa indavaH
+RV_09.024.01.2{14}  shrINAnA apsu mR^i§jata
+RV_09.024.02.1{14}  abhi gAvo adhanviShurApo na pravatA yatIH
+RV_09.024.02.2{14}  punAnA indramAshata
+RV_09.024.03.1{14}  pra pavamAna dhanvasi somendrAya pAtave
+RV_09.024.03.2{14}  nR^ibhiryato vi nIyase
+RV_09.024.04.1{14}  tvaM soma nR^imAdanaH pavasva carShaNIsahe
+RV_09.024.04.2{14}  sasniryo anumAdyaH
+RV_09.024.05.1{14}  indo yadadribhiH sutaH pavitraM paridhAvasi
+RV_09.024.05.2{14}  aramindrasya dhAmne
+RV_09.024.06.1{14}  pavasva vR^itrahantamokthebhiranumAdyaH
+RV_09.024.06.2{14}  shuciH pAvako adbhutaH
+RV_09.024.07.1{14}  shuciH pAvaka ucyate somaH sutasya madhvaH
+RV_09.024.07.2{14}  devAvIraghashaMsahA
+
+RV_09.025.01.1{15}  pavasva dakShasAdhano devebhyaH pItaye hare
+RV_09.025.01.2{15}  marudbhyo vAyave madaH
+RV_09.025.02.1{15}  pavamAna dhiyA hito.abhi yoniM kanikradat
+RV_09.025.02.2{15}  dharmaNA vAyumA visha
+RV_09.025.03.1{15}  saM devaiH shobhate vR^iShA kaviryonAvadhi priyaH
+RV_09.025.03.2{15}  vR^itrahA devavItamaH
+RV_09.025.04.1{15}  vishvA rUpANyAvishan punAno yAti haryataH
+RV_09.025.04.2{15}  yatrAmR^itAsa Asate
+RV_09.025.05.1{15}  aruSho janayan giraH somaH pavata AyuShak
+RV_09.025.05.2{15}  indraM gachan kavikratuH
+RV_09.025.06.1{15}  A pavasva madintama pavitraM dhArayA kave
+RV_09.025.06.2{15}  arkasya yonimAsadam
+
+RV_09.026.01.1{16}  tamamR^ikShanta vAjinamupasthe aditeradhi
+RV_09.026.01.2{16}  viprAso aNvyAdhiyA
+RV_09.026.02.1{16}  taM gAvo abhyanUShata sahasradhAramakShitam
+RV_09.026.02.2{16}  induM dhartAramA divaH
+RV_09.026.03.1{16}  taM vedhAM medhayAhyan pavamAnamadhi dyavi
+RV_09.026.03.2{16}  dharNasiM bhUridhAyasam
+RV_09.026.04.1{16}  tamahyan bhurijordhiyA saMvasAnaM vivasvataH
+RV_09.026.04.2{16}  patiM vAco adAbhyam
+RV_09.026.05.1{16}  taM sAnAvadhi jAmayo hariM hinvantyadribhiH
+RV_09.026.05.2{16}  haryatambhUricakShasam
+RV_09.026.06.1{16}  taM tvA hinvanti vedhasaH pavamAna girAvR^idham
+RV_09.026.06.2{16}  indavindrAya matsaram
+
+RV_09.027.01.1{17}  eSha kavirabhiShTutaH pavitre adhi toshate
+RV_09.027.01.2{17}  punAno ghnannapa sridhaH
+RV_09.027.02.1{17}  eSha indrAya vAyave svarjit pari Shicyate
+RV_09.027.02.2{17}  pavitre dakShasAdhanaH
+RV_09.027.03.1{17}  eSha nR^ibhirvi nIyate divo mUrdhA vR^iShA sutaH
+RV_09.027.03.2{17}  somo vaneShu vishvavit
+RV_09.027.04.1{17}  eSha gavyuracikradat pavamAno hiraNyayuH
+RV_09.027.04.2{17}  induH satrAjidastR^itaH
+RV_09.027.05.1{17}  eSha sUryeNa hAsate pavamAno adhi dyavi
+RV_09.027.05.2{17}  pavitre matsaro madaH
+RV_09.027.06.1{17}  eSha shuShmyasiShyadadantarikShe vR^iShA hariH
+RV_09.027.06.2{17}  punAna indurindramA
+
+RV_09.028.01.1{18}  eSha vAjI hito nR^ibhirvishvavin manasas patiH
+RV_09.028.01.2{18}  avyo vAraM vi dhAvati
+RV_09.028.02.1{18}  eSha pavitre akSharat somo devebhyaH sutaH
+RV_09.028.02.2{18}  vishvA dhAmAnyAvishan
+RV_09.028.03.1{18}  eSha devaH shubhAyate.adhi yonAvamartyaH
+RV_09.028.03.2{18}  vR^itrahA devavItamaH
+RV_09.028.04.1{18}  eSha vR^iShA kanikradad dashabhirjAmibhiryataH
+RV_09.028.04.2{18}  abhi droNAni dhAvati
+RV_09.028.05.1{18}  eSha sUryamarocayat pavamAno vicarShaNiH
+RV_09.028.05.2{18}  vishvA dhAmAni vishvavit
+RV_09.028.06.1{18}  eSha shuShmyadAbhyaH somaH punAno arShati
+RV_09.028.06.2{18}  devAvIraghashaMsahA
+
+RV_09.029.01.1{19}  prAsya dhArA akSharan vR^iShNaH sutasyaujasA
+RV_09.029.01.2{19}  devAnanu prabhUShataH
+RV_09.029.02.1{19}  saptiM mR^ijanti vedhaso gR^iNantaH kAravo girA
+RV_09.029.02.2{19}  jyotirjaj~nAnamukthyam
+RV_09.029.03.1{19}  suShahA soma tAni te punAnAya prabhUvaso
+RV_09.029.03.2{19}  vardhA samudramukthyam
+RV_09.029.04.1{19}  vishvA vasUni saJNjayan pavasva soma dhArayA
+RV_09.029.04.2{19}  inu dveShAMsi sadhryak
+RV_09.029.05.1{19}  rakShA su no araruShaH svanAt samasya kasya cit
+RV_09.029.05.2{19}  nido yatramumucmahe
+RV_09.029.06.1{19}  endo pArthivaM rayiM divyaM pavasva dhArayA
+RV_09.029.06.2{19}  dyumantaM shuShmamA bhara
+
+RV_09.030.01.1{20}  pra dhArA asya shuShmiNo vR^ithA pavitre akSharan
+RV_09.030.01.2{20}  punAno vAcamiShyati
+RV_09.030.02.1{20}  indurhiyAnaH sotR^ibhirmR^ijyamAnaH kanikradat
+RV_09.030.02.2{20}  iyarti vagnumindriyam
+RV_09.030.03.1{20}  A naH shuShmaM nR^iShAhyaM vIravantaM puruspR^iham
+RV_09.030.03.2{20}  pavasva soma dhArayA
+RV_09.030.04.1{20}  pra somo ati dhArayA pavamAno asiShyadat
+RV_09.030.04.2{20}  abhi droNAnyAsadam
+RV_09.030.05.1{20}  apsu tvA madhumattamaM hariM hinvantyadribhiH
+RV_09.030.05.2{20}  indavindrAya pItaye
+RV_09.030.06.1{20}  sunotA madhumattamaM somamindrAya vajriNe
+RV_09.030.06.2{20}  cAruM shardhAya matsaram
+
+RV_09.031.01.1{21}  pra somAsaH svAdhyaH pavamAnAso akramuH
+RV_09.031.01.2{21}  rayiM kR^iNvanticetanam
+RV_09.031.02.1{21}  divas pR^ithivyA adhi bhavendo dyumnavardhanaH
+RV_09.031.02.2{21}  bhavA vAjAnAM patiH
+RV_09.031.03.1{21}  tubhyaM vAtA abhipriyastubhyamarShanti sindhavaH
+RV_09.031.03.2{21}  soma vardhanti te mahaH
+RV_09.031.04.1{21}  A pyAyasva sametu te vishvataH soma vR^iShNyam
+RV_09.031.04.2{21}  bhavA vAjasya saMgathe
+RV_09.031.05.1{21}  tubhyaM gAvo ghR^itaM payo babhro duduhre akShitam
+RV_09.031.05.2{21}  varShiShThe adhi sAnavi
+RV_09.031.06.1{21}  svAyudhasya te sato bhuvanasya pate vayam
+RV_09.031.06.2{21}  indo sakhitvamushmasi
+
+RV_09.032.01.1{22}  pra somAso madacyutaH shravase no maghonaH
+RV_09.032.01.2{22}  sutA vidathe akramuH
+RV_09.032.02.1{22}  AdIM tritasya yoShaNo hariM hinvantyadribhiH
+RV_09.032.02.2{22}  indumindrAya pItaye
+RV_09.032.03.1{22}  AdIM haMso yathA gaNaM vishvasyAvIvashan matim
+RV_09.032.03.2{22}  atyona gobhirajyate
+RV_09.032.04.1{22}  ubhe somAvacAkashan mR^igo na takto arShasi
+RV_09.032.04.2{22}  sIdannR^itasya yonimA
+RV_09.032.05.1{22}  abhi gAvo anUShata yoShA jAramiva priyam
+RV_09.032.05.2{22}  agannAjiM yathA hitam
+RV_09.032.06.1{22}  asme dhehi dyumad yasho maghavadbhyashca mahyaM ca
+RV_09.032.06.2{22}  saniM medhAmuta shravaH
+
+RV_09.033.01.1{23}  pra somAso vipashcito.apAM na yantyUrmayaH
+RV_09.033.01.2{23}  vanAni mahiShA iva
+RV_09.033.02.1{23}  abhi droNAni babhravaH shukrA R^itasya dhArayA
+RV_09.033.02.2{23}  vAjaM gomantamakSharan
+RV_09.033.03.1{23}  sutA indrAya vAyave varuNAya marudbhyaH
+RV_09.033.03.2{23}  somA arShanti viShNave
+RV_09.033.04.1{23}  tisro vAca udIrate gAvo mimanti dhenavaH
+RV_09.033.04.2{23}  harireti kanikradat
+RV_09.033.05.1{23}  abhi brahmIranUShata yahvIr{R^i}tasya mAtaraH
+RV_09.033.05.2{23}  marmR^ijyante divaH shishum
+RV_09.033.06.1{23}  rAyaH samudrAMshcaturo.asmabhyaM soma vishvataH
+RV_09.033.06.2{23}  A pavasva sahasriNaH
+
+RV_09.034.01.1{24}  pra suvAno dhArayA tanendurhinvAno arShati
+RV_09.034.01.2{24}  rujad dR^i hA vyojasA
+RV_09.034.02.1{24}  suta indrAya vAyave varuNAya marudbhyaH
+RV_09.034.02.2{24}  somo arShati viShNave
+RV_09.034.03.1{24}  vR^iShANaM vR^iShabhiryataM sunvanti somamadribhiH
+RV_09.034.03.2{24}  duhantishakmanA payaH
+RV_09.034.04.1{24}  bhuvat tritasya marjyo bhuvadindrAya matsaraH
+RV_09.034.04.2{24}  saM rUpairajyate hariH
+RV_09.034.05.1{24}  abhIM R^itasya viShTapaM duhate pR^ishnimAtaraH
+RV_09.034.05.2{24}  cAru priyatamaM haviH
+RV_09.034.06.1{24}  samenamahrutA imA giro arShanti sasrutaH
+RV_09.034.06.2{24}  dhenUrvAshroavIvashat
+
+RV_09.035.01.1{25}  A naH pavasva dhArayA pavamAna rayiM pR^ithum
+RV_09.035.01.2{25}  yayA jyotirvidAsi naH
+RV_09.035.02.1{25}  indo samudramIN^khaya pavasva vishvamejaya
+RV_09.035.02.2{25}  rAyo dhartA na ojasA
+RV_09.035.03.1{25}  tvayA vIreNa vIravo.abhi ShyAma pR^itanyataH
+RV_09.035.03.2{25}  kSharA No abhi vAryam
+RV_09.035.04.1{25}  pra vAjaminduriShyati siShAsan vAjasA R^iShiH
+RV_09.035.04.2{25}  vratA vidAna AyudhA
+RV_09.035.05.1{25}  taM gIrbhirvAcamIN^khayaM punAnaM vAsayAmasi
+RV_09.035.05.2{25}  somaM janasya gopatim
+RV_09.035.06.1{25}  vishvo yasya vrate jano dAdhAra dharmaNas pateH
+RV_09.035.06.2{25}  punAnasya prabhUvasoH
+
+RV_09.036.01.1{26}  asarji rathyo yathA pavitre camvoH sutaH
+RV_09.036.01.2{26}  kArShman vAjInyakramIt
+RV_09.036.02.1{26}  sa vahniH soma jAgR^iviH pavasva devavIrati
+RV_09.036.02.2{26}  abhi koshaM madhushcutam
+RV_09.036.03.1{26}  sa no jyotIMShi pUrvya pavamAna vi rocaya
+RV_09.036.03.2{26}  kratve dakShAyano hinu
+RV_09.036.04.1{26}  shumbhamAno R^itAyubhirmR^ijyamAno gabhastyoH
+RV_09.036.04.2{26}  pavate vAre avyaye
+RV_09.036.05.1{26}  sa vishvA dAshuShe vasu somo divyAni pArthivA
+RV_09.036.05.2{26}  pavatAmAntarikShyA
+RV_09.036.06.1{26}  A divas pR^iShThamashvayurgavyayuH soma rohasi
+RV_09.036.06.2{26}  vIrayuH shavasas pate
+
+RV_09.037.01.1{27}  sa sutaH pItaye vR^iShA somaH pavitre arShati
+RV_09.037.01.2{27}  vighnan rakShAMsi devayuH
+RV_09.037.02.1{27}  sa pavitre vicakShaNo harirarShati dharNasiH
+RV_09.037.02.2{27}  abhi yoniMkanikradat
+RV_09.037.03.1{27}  sa vAjI rocanA divaH pavamAno vi dhAvati
+RV_09.037.03.2{27}  rakShohA vAramavyayam
+RV_09.037.04.1{27}  sa tritasyAdhi sAnavi pavamAno arocayat
+RV_09.037.04.2{27}  jAmibhiH sUryaM saha
+RV_09.037.05.1{27}  sa vR^itrahA vR^iShA suto varivovidadAbhyaH
+RV_09.037.05.2{27}  somo vAjamivAsarat
+RV_09.037.06.1{27}  sa devaH kavineShito.abhi droNAni dhAvati
+RV_09.037.06.2{27}  indurindrAyamaMhanA
+
+RV_09.038.01.1{28}  eSha u sya vR^iShA ratho.avyo vArebhirarShati
+RV_09.038.01.2{28}  gachan vAjaM sahasriNam
+RV_09.038.02.1{28}  etaM tritasya yoShaNo hariM hinvantyadribhiH
+RV_09.038.02.2{28}  indumindrAya pItaye
+RV_09.038.03.1{28}  etaM tyaM harito dasha marmR^ijyante apasyuvaH
+RV_09.038.03.2{28}  yAbhirmadAya shumbhate
+RV_09.038.04.1{28}  eSha sya mAnuShIShvA shyeno na vikShu sIdati
+RV_09.038.04.2{28}  gacha§ jAro na yoShitam
+RV_09.038.05.1{28}  eSha sya madyo raso.ava caShTe divaH shishuH
+RV_09.038.05.2{28}  ya indurvAramAvishat
+RV_09.038.06.1{28}  eSha sya pItaye suto harirarShati dharNasiH
+RV_09.038.06.2{28}  krandan yonimabhi priyam
+
+RV_09.039.01.1{29}  AshurarSha bR^ihanmate pari priyeNa dhAmnA
+RV_09.039.01.2{29}  yatra devA itibravan
+RV_09.039.02.1{29}  pariShkR^iNvannaniShkR^itaM janAya yAtayanniShaH
+RV_09.039.02.2{29}  vR^iShTindivaH pari srava
+RV_09.039.03.1{29}  suta eti pavitra A tviShiM dadhAna ojasA
+RV_09.039.03.2{29}  vicakShANo virocayan
+RV_09.039.04.1{29}  ayaM sa yo divas pari raghuyAmA pavitra A
+RV_09.039.04.2{29}  sindhorUrmA vyakSharat
+RV_09.039.05.1{29}  AvivAsan parAvato atho arvAvataH sutaH
+RV_09.039.05.2{29}  indrAya sicyatemadhu
+RV_09.039.06.1{29}  samIcInA anUShata hariM hinvantyadribhiH
+RV_09.039.06.2{29}  yonAv R^itasya sIdata
+
+RV_09.040.01.1{30}  punAno akramIdabhi vishvA mR^idho vicarShaNiH
+RV_09.040.01.2{30}  shumbhanti vipraM dhItibhiH
+RV_09.040.02.1{30}  A yonimaruNo ruhad gamadindraM vR^iShA sutaH
+RV_09.040.02.2{30}  dhruve sadasi sIdati
+RV_09.040.03.1{30}  nU no rayiM mahAmindo.asmabhyaM soma vishvataH
+RV_09.040.03.2{30}  A pavasvasahasriNam
+RV_09.040.04.1{30}  vishvA soma pavamAna dyumnAnIndavA bhara
+RV_09.040.04.2{30}  vidAH sahasriNIriShaH
+RV_09.040.05.1{30}  sa naH punAna A bhara rayiM stotre suvIryam
+RV_09.040.05.2{30}  jariturvardhayA giraH
+RV_09.040.06.1{30}  punAna indavA bhara soma dvibarhasaM rayim
+RV_09.040.06.2{30}  vR^iShannindo naukthyam
+
+RV_09.041.01.1{31}  pra ye gAvo na bhUrNayastveShA ayAso akramuH
+RV_09.041.01.2{31}  ghnantaH kR^iShNAmapa tvacam
+RV_09.041.02.1{31}  suvitasya manAmahe.ati setuM durAvyam
+RV_09.041.02.2{31}  sAhvAMso dasyumavratam
+RV_09.041.03.1{31}  shR^iNve vR^iShTeriva svanaH pavamAnasya shuShmiNaH
+RV_09.041.03.2{31}  carantividyuto divi
+RV_09.041.04.1{31}  A pavasva mahImiShaM gomadindo hiraNyavat
+RV_09.041.04.2{31}  ashvAvad vAjavat sutaH
+RV_09.041.05.1{31}  sa pavasva vicarShaNa A mahI rodasI pR^iNa
+RV_09.041.05.2{31}  uShAH sUryo na rashmibhiH
+RV_09.041.06.1{31}  pari NaH sharmayantyA dhArayA soma vishvataH
+RV_09.041.06.2{31}  sarA raseva viShTapam
+
+RV_09.042.01.1{32}  janayan rocanA divo janayannapsu sUryam
+RV_09.042.01.2{32}  vasAno gA apohariH
+RV_09.042.02.1{32}  eSha pratnena manmanA devo devebhyas pari
+RV_09.042.02.2{32}  dhArayA pavate sutaH
+RV_09.042.03.1{32}  vAvR^idhAnAya tUrvaye pavante vAjasAtaye
+RV_09.042.03.2{32}  somAH sahasrapAjasaH
+RV_09.042.04.1{32}  duhAnaH pratnamit payaH pavitre pari Shicyate
+RV_09.042.04.2{32}  krandan devAnajIjanat
+RV_09.042.05.1{32}  abhi vishvAni vAryAbhi devAn R^itAvR^idhaH
+RV_09.042.05.2{32}  somaH punAnoarShati
+RV_09.042.06.1{32}  goman naH soma vIravadashvAvad vAjavat sutaH
+RV_09.042.06.2{32}  pavasva bR^ihatIriShaH
+
+RV_09.043.01.1{33}  yo atya iva mR^ijyate gobhirmadAya haryataH
+RV_09.043.01.2{33}  taM gIrbhirvAsayAmasi
+RV_09.043.02.1{33}  taM no vishvA avasyuvo giraH shumbhanti pUrvathA
+RV_09.043.02.2{33}  indumindrAya pItaye
+RV_09.043.03.1{33}  punAno yAti haryataH somo gIrbhiH pariShkR^itaH
+RV_09.043.03.2{33}  viprasya medhyAtitheH
+RV_09.043.04.1{33}  pavamAna vidA rayimasmabhyaM soma sushriyam
+RV_09.043.04.2{33}  indo sahasravarcasam
+RV_09.043.05.1{33}  induratyo na vAjasR^it kanikranti pavitra A
+RV_09.043.05.2{33}  yadakShArati devayuH
+RV_09.043.06.1{33}  pavasva vAjasAtaye viprasya gR^iNato vR^idhe
+RV_09.043.06.2{33}  soma rAsva suvIryam
+
+RV_09.044.01.1{01}  pra Na indo mahe tana UrmiM na bibhradarShasi
+RV_09.044.01.2{01}  abhi devAnayAsyaH
+RV_09.044.02.1{01}  matI juShTo dhiyA hitaH somo hinve parAvati
+RV_09.044.02.2{01}  viprasya dhArayA kaviH
+RV_09.044.03.1{01}  ayaM deveShu jAgR^iviH suta eti pavitra A
+RV_09.044.03.2{01}  somo yAti vicarShaNiH
+RV_09.044.04.1{01}  sa naH pavasva vAjayushcakrANashcArumadhvaram
+RV_09.044.04.2{01}  barhiShmAnA vivAsati
+RV_09.044.05.1{01}  sa no bhagAya vAyave vipravIraH sadAvR^idhaH
+RV_09.044.05.2{01}  somo deveShvA yamat
+RV_09.044.06.1{01}  sa no adya vasuttaye kratuvid gAtuvittamaH
+RV_09.044.06.2{01}  vAjaM jeShi shravo bR^ihat
+
+RV_09.045.01.1{02}  sa pavasva madAya kaM nR^icakShA devavItaye
+RV_09.045.01.2{02}  indavindrAyapItaye
+RV_09.045.02.1{02}  sa no arShAbhi dUtyaM tvamindrAya toshase
+RV_09.045.02.2{02}  devAn sakhibhya A varam
+RV_09.045.03.1{02}  uta tvAmaruNaM vayaM gobhira§jmo madAya kam
+RV_09.045.03.2{02}  vi no rAye duro vR^idhi
+RV_09.045.04.1{02}  atyU pavitramakramId vAjI dhuraM na yAmani
+RV_09.045.04.2{02}  indurdeveShu patyate
+RV_09.045.05.1{02}  samI sakhAyo asvaran vane krI antamatyavim
+RV_09.045.05.2{02}  induM nAvA anUShata
+RV_09.045.06.1{02}  tayA pavasva dhArayA yayA pIto vicakShase
+RV_09.045.06.2{02}  indo stotre suvIryam
+
+RV_09.046.01.1{03}  asR^igran devavItaye.atyAsaH kR^itvyA iva
+RV_09.046.01.2{03}  kSharantaH parvatAvR^idhaH
+RV_09.046.02.1{03}  pariShkR^itAsa indavo yoSheva pitryAvatI
+RV_09.046.02.2{03}  vAyuM somA asR^ikShata
+RV_09.046.03.1{03}  ete somAsa indavaH prayasvantaH camU sutAH
+RV_09.046.03.2{03}  indraM vardhanti karmabhiH
+RV_09.046.04.1{03}  A dhAvatA suhastyaH shukrA gR^ibhNIta manthinA
+RV_09.046.04.2{03}  gobhiH shrINIta matsaram
+RV_09.046.05.1{03}  sa pavasva dhanaJNjaya prayantA rAdhaso mahaH
+RV_09.046.05.2{03}  asmabhyaM soma gAtuvit
+RV_09.046.06.1{03}  etaM mR^ijanti marjyaM pavamAnaM dasha kShipaH
+RV_09.046.06.2{03}  indrAya matsaraM madam
+
+RV_09.047.01.1{04}  ayA somaH sukR^ityayA mahashcidabhyavardhata
+RV_09.047.01.2{04}  mandAna udvR^iShAyate
+RV_09.047.02.1{04}  kR^itAnIdasya kartvA cetante dasyutarhaNA
+RV_09.047.02.2{04}  R^iNA ca dhR^iShNushcayate
+RV_09.047.03.1{04}  At soma indriyo raso vajraH sahasrasA bhuvat
+RV_09.047.03.2{04}  ukthaM yadasya jAyate
+RV_09.047.04.1{04}  svayaM kavirvidhartari viprAya ratnamichati
+RV_09.047.04.2{04}  yadI marmR^ijyate dhiyaH
+RV_09.047.05.1{04}  siShAsatU rayINAM vAjeShvarvatAmiva
+RV_09.047.05.2{04}  bhareShu jigyuShAmasi
+
+RV_09.048.01.1{05}  taM tvA nR^imNAni bibhrataM sadhastheShu maho divaH
+RV_09.048.01.2{05}  cAruM sukR^ityayemahe
+RV_09.048.02.1{05}  saMvR^iktadhR^iShNumukthyaM mahAmahivrataM madam
+RV_09.048.02.2{05}  shataM puro rurukShaNim
+RV_09.048.03.1{05}  atastvA rayimabhi rAjAnaM sukrato divaH
+RV_09.048.03.2{05}  suparNo avyathirbharat
+RV_09.048.04.1{05}  vishvasmA it svardR^ishe sAdhAraNaM rajasturam
+RV_09.048.04.2{05}  gopAM R^itasya virbharat
+RV_09.048.05.1{05}  adhA hinvAna indriyaM jyAyo mahitvamAnashe
+RV_09.048.05.2{05}  abhiShTikR^idvicarShaNiH
+
+RV_09.049.01.1{06}  pavasva vR^iShTimA su no.apAmUrmiM divas pari
+RV_09.049.01.2{06}  ayakShmA bR^ihatIriShaH
+RV_09.049.02.1{06}  tayA pavasva dhArayA yayA gAva ihAgaman
+RV_09.049.02.2{06}  janyAsa upa no gR^iham
+RV_09.049.03.1{06}  ghR^itaM pavasva dhArayA yaj~neShu devavItamaH
+RV_09.049.03.2{06}  asmabhyaM vR^iShTimA pava
+RV_09.049.04.1{06}  sa na Urje vyavyayaM pavitraM dhAva dhArayA
+RV_09.049.04.2{06}  devAsaH shR^iNavan hi kam
+RV_09.049.05.1{06}  pavamAno asiShyadad rakShAMsyapajaN^ghanat
+RV_09.049.05.2{06}  pratnavad rocayan rucaH
+
+RV_09.050.01.1{07}  ut te shuShmAsa Irate sindhorUrmeriva svanaH
+RV_09.050.01.2{07}  vANasya codayA pavim
+RV_09.050.02.1{07}  prasave ta udIrate tisro vAco makhasyuvaH
+RV_09.050.02.2{07}  yadavya eShisAnavi
+RV_09.050.03.1{07}  avyo vAre pari priyaM hariM hinvantyadribhiH
+RV_09.050.03.2{07}  pavamAnammadhushcutam
+RV_09.050.04.1{07}  A pavasva madintama pavitraM dhArayA kave
+RV_09.050.04.2{07}  arkasya yonimAsadam
+RV_09.050.05.1{07}  sa pavasva madintama gobhira§jAno aktubhiH
+RV_09.050.05.2{07}  indavindrAyapItaye
+
+RV_09.051.01.1{08}  adhvaryo adribhiH sutaM somaM pavitra A sR^ija
+RV_09.051.01.2{08}  punIhIndrAya pAtave
+RV_09.051.02.1{08}  divaH pIyUShamuttamaM somamindrAya vajriNe
+RV_09.051.02.2{08}  sunotA madhumattamam
+RV_09.051.03.1{08}  tava tya indo andhaso devA madhorvyashnate
+RV_09.051.03.2{08}  pavamAnasya marutaH
+RV_09.051.04.1{08}  tvaM hi soma vardhayan suto madAya bhUrNaye
+RV_09.051.04.2{08}  vR^iShan stotAramUtaye
+RV_09.051.05.1{08}  abhyarSha vicakShaNa pavitraM dhArayA sutaH
+RV_09.051.05.2{08}  abhi vAjamuta shravaH
+
+RV_09.052.01.1{09}  pari dyukShaH sanadrayirbharad vAjaM no andhasA
+RV_09.052.01.2{09}  suvAnoarSha pavitra A
+RV_09.052.02.1{09}  tava pratnebhiradhvabhiravyo vAre pari priyaH
+RV_09.052.02.2{09}  sahasradhAro yAt tanA
+RV_09.052.03.1{09}  carurna yastamIN^khayendo na dAnamIN^khaya
+RV_09.052.03.2{09}  vadhairvadhasnavIN^khaya
+RV_09.052.04.1{09}  ni shuShmamindaveShAM puruhUta janAnAm
+RV_09.052.04.2{09}  yo asmAnAdideshati
+RV_09.052.05.1{09}  shataM na inda UtibhiH sahasraM vA shucInAm
+RV_09.052.05.2{09}  pavasva maMhayadrayiH
+
+RV_09.053.01.1{10}  ut te shuShmAso asthU rakSho bhindanto adrivaH
+RV_09.053.01.2{10}  nudasva yAH parispR^idhaH
+RV_09.053.02.1{10}  ayA nijaghnirojasA rathasaMge dhane hite
+RV_09.053.02.2{10}  stavA abibhyuShA hR^idA
+RV_09.053.03.1{10}  asya vratAni nAdhR^iShe pavamAnasya dUDhyA
+RV_09.053.03.2{10}  ruja yastvApR^itanyati
+RV_09.053.04.1{10}  taM hinvanti madacyutaM hariM nadIShu vAjinam
+RV_09.053.04.2{10}  indumindrAya matsaram
+
+RV_09.054.01.1{11}  asya pratnAmanu dyutaM shukraM duduhre ahrayaH
+RV_09.054.01.2{11}  payaH sahasrasAM R^iShim
+RV_09.054.02.1{11}  ayaM sUrya ivopadR^igayaM sarAMsi dhAvati
+RV_09.054.02.2{11}  sapta pravataA divam
+RV_09.054.03.1{11}  ayaM vishvAni tiShThati punAno bhuvanopari
+RV_09.054.03.2{11}  somo devo nasUryaH
+RV_09.054.04.1{11}  pari No devavItaye vAjAnarShasi gomataH
+RV_09.054.04.2{11}  punAna indavindrayuH
+
+RV_09.055.01.1{12}  yavaM-yavaM no andhasA puShTam-puShTaM pari srava
+RV_09.055.01.2{12}  soma vishvA ca saubhagA
+RV_09.055.02.1{12}  Indo yathA tava stavo yathA te jAtamandhasaH
+RV_09.055.02.2{12}  ni barhiShi priye sadaH
+RV_09.055.03.1{12}  uta no govidashvavit pavasva somAndhasA
+RV_09.055.03.2{12}  makShUtamebhirahabhiH
+RV_09.055.04.1{12}  yo jinAti na jIyate hanti shatrumabhItya
+RV_09.055.04.2{12}  sa pavasva sahasrajit
+
+RV_09.056.01.1{13}  pari soma R^itaM bR^ihadAshuH pavitre arShati
+RV_09.056.01.2{13}  vighnan rakShAMsi devayuH
+RV_09.056.02.1{13}  yat somo vAjamarShati shataM dhArA apasyuvaH
+RV_09.056.02.2{13}  indrasyasakhyamAvishan
+RV_09.056.03.1{13}  abhi tvA yoShaNo dasha jAraM na kanyAnUShata
+RV_09.056.03.2{13}  mR^ijyase soma sAtaye
+RV_09.056.04.1{13}  tvamindrAya viShNave svAdurindo pari srava
+RV_09.056.04.2{13}  nÃn stotÃnpAhyaMhasaH
+
+RV_09.057.01.1{14}  pra te dhArA asashcato divo na yanti vR^iShTayaH
+RV_09.057.01.2{14}  achA vAjaM sahasriNam
+RV_09.057.02.1{14}  abhi priyANi kAvyA vishvA cakShANo arShati
+RV_09.057.02.2{14}  haristu§jAna AyudhA
+RV_09.057.03.1{14}  sa marmR^ijAna Ayubhiribho rAjeva suvrataH
+RV_09.057.03.2{14}  shyeno na vaMsu ShIdati
+RV_09.057.04.1{14}  sa no vishvA divo vasUto pR^ithivyA adhi
+RV_09.057.04.2{14}  punAna indavAbhara
+
+RV_09.058.01.1{15}  tarat sa mandI dhAvati dhArA sutasyAndhasaH
+RV_09.058.01.2{15}  tarat sa mandI dhAvati
+RV_09.058.02.1{15}  usrA veda vasUnAM martasya devyavasaH
+RV_09.058.02.2{15}  tarat sa mandI dhAvati
+RV_09.058.03.1{15}  dhvasrayoH puruShantyorA sahasrANi dadmahe
+RV_09.058.03.2{15}  tarat sa mandI dhAvati
+RV_09.058.04.1{15}  A yayostriMshataM tanA sahasrANi ca dadmahe
+RV_09.058.04.2{15}  tarat samandI dhAvati
+
+RV_09.059.01.1{16}  pavasva gojidashvajid vishvajit soma raNyajit
+RV_09.059.01.2{16}  prajAvad ratnamA bhara
+RV_09.059.02.1{16}  pavasvAdbhyo adAbhyaH pavasvauShadhIbhyaH
+RV_09.059.02.2{16}  pavasva dhiShaNAbhyaH
+RV_09.059.03.1{16}  tvaM soma pavamAno vishvAni duritA tara
+RV_09.059.03.2{16}  kaviH sIda ni barhiShi
+RV_09.059.04.1{16}  pavamAna svarvido jAyamAno.abhavo mahAn
+RV_09.059.04.2{16}  indo vishvAnabhIdasi
+
+RV_09.060.01.1{17}  pra gAyatreNa gAyata pavamAnaM vicarShaNim
+RV_09.060.01.2{17}  induM sahasracakShasam
+RV_09.060.02.1{17}  taM tvA sahasracakShasamatho sahasrabharNasam
+RV_09.060.02.2{17}  ati vAramapAviShuH
+RV_09.060.03.1{17}  ati vArAn pavamAno asiShyadat kalashAnabhi dhAvati
+RV_09.060.03.2{17}  indrasya hArdyAvishan
+RV_09.060.04.1{17}  indrasya soma rAdhase shaM pavasva vicarShaNe
+RV_09.060.04.2{17}  prajAvad retaA bhara
+
+RV_09.061.01.1{18}  ayA vItI pari srava yasta indo madeShvA
+RV_09.061.01.2{18}  avAhan navatIrnava
+RV_09.061.02.1{18}  puraH sadya itthAdhiye divodAsAya shambaram
+RV_09.061.02.2{18}  adha tyaM turvashaM yadum
+RV_09.061.03.1{18}  pari No ashvamashvavid gomadindo hiraNyavat
+RV_09.061.03.2{18}  kSharA sahasriNIriShaH
+RV_09.061.04.1{18}  pavamAnasya te vayaM pavitramabhyundataH
+RV_09.061.04.2{18}  sakhitvamA vR^iNImahe
+RV_09.061.05.1{18}  ye te pavitramUrmayo.abhikSharanti dhArayA
+RV_09.061.05.2{18}  tebhirnaH soma mR^i aya
+RV_09.061.06.1{19}  sa naH punAna A bhara rayiM vIravatImiSham
+RV_09.061.06.2{19}  IshAnaHsoma vishvataH
+RV_09.061.07.1{19}  etamu tyaM dasha kShipo mR^ijanti sindhumAtaram
+RV_09.061.07.2{19}  samAdityebhirakhyata
+RV_09.061.08.1{19}  samindreNota vAyunA suta eti pavitra A
+RV_09.061.08.2{19}  saM sUryasyarashmibhiH
+RV_09.061.09.1{19}  sa no bhagAya vAyave pUShNe pavasva madhumAn
+RV_09.061.09.2{19}  cArurmitre varuNe ca
+RV_09.061.10.1{19}  uccA te jAtamandhaso divi Shad bhUmyA dade
+RV_09.061.10.2{19}  ugraM sharma mahi shravaH
+RV_09.061.11.1{20}  enA vishvAnyarya A dyumnAni mAnuShANAm
+RV_09.061.11.2{20}  siShAsanto vanAmahe
+RV_09.061.12.1{20}  sa na indrAya yajyave varuNAya marudbhyaH
+RV_09.061.12.2{20}  varivovit parisrava
+RV_09.061.13.1{20}  upo Shu jAtamapturaM gobhirbhaN^gaM pariShkR^itam
+RV_09.061.13.2{20}  induM devA ayAsiShuH
+RV_09.061.14.1{20}  tamid vardhantu no giro vatsaM saMshishvarIriva
+RV_09.061.14.2{20}  ya indrasya hR^idaMsaniH
+RV_09.061.15.1{20}  arShA NaH soma shaM gave dhukShasva pipyuShImiSham
+RV_09.061.15.2{20}  vardhA samudramukthyam
+RV_09.061.16.1{21}  pavamAno ajIjanad divashcitraM na tanyatum
+RV_09.061.16.2{21}  jyotirvaishvAnaraM bR^ihat
+RV_09.061.17.1{21}  pavamAnasya te raso mado rAjannaduchunaH
+RV_09.061.17.2{21}  vi vAramavyamarShati
+RV_09.061.18.1{21}  pavamAna rasastava dakSho vi rAjati dyumAn
+RV_09.061.18.2{21}  jyotirvishvaM svardR^ishe
+RV_09.061.19.1{21}  yaste mado vareNyastenA pavasvAndhasA
+RV_09.061.19.2{21}  devAvIraghashaMsahA
+RV_09.061.20.1{21}  jaghnirvR^itramamitriyaM sasnirvAjaM dive-dive
+RV_09.061.20.2{21}  goShA u ashvasA asi
+RV_09.061.21.1{22}  sammishlo aruSho bhava sUpasthAbhirna dhenubhiH
+RV_09.061.21.2{22}  sIda§chyeno na yonimA
+RV_09.061.22.1{22}  sa pavasva ya AvithendraM vR^itrAya hantave
+RV_09.061.22.2{22}  vavrivAMsaM mahIrapaH
+RV_09.061.23.1{22}  suvIrAso vayaM dhanA jayema soma mIDhvaH
+RV_09.061.23.2{22}  punAno vardhano giraH
+RV_09.061.24.1{22}  tvotAsastavAvasA syAma vanvanta AmuraH
+RV_09.061.24.2{22}  soma vrateShujAgR^ihi
+RV_09.061.25.1{22}  apaghnan pavate mR^idho.apa somo arAvNaH
+RV_09.061.25.2{22}  gachannindrasya niShkR^itam
+RV_09.061.26.1{23}  maho no rAya A bhara pavamAna jahI mR^idhaH
+RV_09.061.26.2{23}  rAsvendo vIravad yashaH
+RV_09.061.27.1{23}  na tvA shataM cana hruto rAdho ditsantamA minan
+RV_09.061.27.2{23}  yat punAno makhasyase
+RV_09.061.28.1{23}  pavasvendo vR^iShA sutaH kR^idhI no yashaso jane
+RV_09.061.28.2{23}  vishvA apadviSho jahi
+RV_09.061.29.1{23}  asya te sakhye vayaM tavendo dyumna uttame
+RV_09.061.29.2{23}  sAsahyAma pR^itanyataH
+RV_09.061.30.1{23}  yA te bhImAnyAyudhA tigmAni santi dhUrvaNe
+RV_09.061.30.2{23}  rakShA samasya no nidaH
+
+RV_09.062.01.1{24}  ete asR^igramindavastiraH pavitramAshavaH
+RV_09.062.01.2{24}  vishvAnyabhisaubhagA
+RV_09.062.02.1{24}  vighnanto duritA puru sugA tokAya vAjinaH
+RV_09.062.02.2{24}  tanA kR^iNvanto arvate
+RV_09.062.03.1{24}  kR^iNvanto varivo gave.abhyarShanti suShTutim
+RV_09.062.03.2{24}  i AmasmabhyaM saMyatam
+RV_09.062.04.1{24}  asAvyaMshurmadAyApsu dakSho giriShThAH
+RV_09.062.04.2{24}  shyeno na yonimAsadat
+RV_09.062.05.1{24}  shubhramandho devavAtamapsu dhUto nR^ibhiH sutaH
+RV_09.062.05.2{24}  svadanti gAvaH payobhiH
+RV_09.062.06.1{25}  AdImashvaM na hetAro.ashUshubhannamR^itAya
+RV_09.062.06.2{25}  madhvo rasaM sadhamAde
+RV_09.062.07.1{25}  yAste dhArA madhushcuto.asR^igraminda Utaye
+RV_09.062.07.2{25}  tAbhiH pavitramAsadaH
+RV_09.062.08.1{25}  so arShendrAya pItaye tiro romANyavyayA
+RV_09.062.08.2{25}  sIdan yonA vaneShvA
+RV_09.062.09.1{25}  tvamindo pari srava svAdiShTho aN^girobhyaH
+RV_09.062.09.2{25}  varivovid ghR^itaM payaH
+RV_09.062.10.1{25}  ayaM vicarShaNirhitaH pavamAnaH sa cetati
+RV_09.062.10.2{25}  hinvAna ApyaM bR^ihat
+RV_09.062.11.1{26}  eSha vR^iShA vR^iShavrataH pavamAno ashastihA
+RV_09.062.11.2{26}  karad vasUni dAshuShe
+RV_09.062.12.1{26}  A pavasva sahasriNaM rayiM gomantamashvinam
+RV_09.062.12.2{26}  purushcandrampuruspR^iham
+RV_09.062.13.1{26}  eSha sya pari Shicyate marmR^ijyamAna AyubhiH
+RV_09.062.13.2{26}  urugAyaH kavikratuH
+RV_09.062.14.1{26}  sahasrotiH shatAmagho vimAno rajasaH kaviH
+RV_09.062.14.2{26}  indrAya pavate madaH
+RV_09.062.15.1{26}  girA jAta iha stuta indurindrAya dhIyate
+RV_09.062.15.2{26}  viryonA vasatAviva
+RV_09.062.16.1{27}  pavamAnaH suto nR^ibhiH somo vAjamivAsarat
+RV_09.062.16.2{27}  camUShu shakmanAsadam
+RV_09.062.17.1{27}  taM tripR^iShThe trivandhure rathe yu§janti yAtave
+RV_09.062.17.2{27}  R^iShINAM sapta dhItibhiH
+RV_09.062.18.1{27}  taM sotAro dhanaspR^itamAshuM vAjAya yAtave
+RV_09.062.18.2{27}  hariM hinota vAjinam
+RV_09.062.19.1{27}  Avishan kalashaM suto vishvA arShannabhi shriyaH
+RV_09.062.19.2{27}  shUrona goShu tiShThati
+RV_09.062.20.1{27}  A ta indo madAya kaM payo duhantyAyavaH
+RV_09.062.20.2{27}  devA devebhyo madhu
+RV_09.062.21.1{28}  A naH somaM pavitra A sR^ijatA madhumattamam
+RV_09.062.21.2{28}  devebhyo devashruttamam
+RV_09.062.22.1{28}  ete somA asR^ikShata gR^iNAnAH shravase mahe
+RV_09.062.22.2{28}  madintamasya dhArayA
+RV_09.062.23.1{28}  abhi gavyAni vItaye nR^imNA punAno arShasi
+RV_09.062.23.2{28}  sanadvAjaH pari srava
+RV_09.062.24.1{28}  uta no gomatIriSho vishvA arSha pariShTubhaH
+RV_09.062.24.2{28}  gR^iNAno jamadagninA
+RV_09.062.25.1{28}  pavasva vAco agriyaH soma citrAbhirUtibhiH
+RV_09.062.25.2{28}  abhi vishvAni kAvyA
+RV_09.062.26.1{29}  tvaM samudriyA apo.agriyo vAca Irayan
+RV_09.062.26.2{29}  pavasva vishvamejaya
+RV_09.062.27.1{29}  tubhyemA bhuvanA kave mahimne soma tasthire
+RV_09.062.27.2{29}  tubhyamarShantisindhavaH
+RV_09.062.28.1{29}  pra te divo na vR^iShTayo dhArA yantyasashcataH
+RV_09.062.28.2{29}  abhi shukrAmupastiram
+RV_09.062.29.1{29}  indrAyenduM punItanograM dakShAya sAdhanam
+RV_09.062.29.2{29}  IshAnaM vItirAdhasam
+RV_09.062.30.1{29}  pavamAna R^itaH kaviH somaH pavitramAsadat
+RV_09.062.30.2{29}  dadhat stotresuvIryam
+
+RV_09.063.01.1{30}  A pavasva sahasriNaM rayiM soma suvIryam
+RV_09.063.01.2{30}  asme shravAMsidhAraya
+RV_09.063.02.1{30}  iShamUrjaM ca pinvasa indrAya matsarintamaH
+RV_09.063.02.2{30}  camUShvA ni ShIdasi
+RV_09.063.03.1{30}  suta indrAya viShNave somaH kalashe akSharat
+RV_09.063.03.2{30}  madhumAnastuvAyave
+RV_09.063.04.1{30}  ete asR^igramAshavo.ati hvarAMsi babhravaH
+RV_09.063.04.2{30}  somA R^itasya dhArayA
+RV_09.063.05.1{30}  indraM vardhanto apturaH kR^iNvanto vishvamAryam
+RV_09.063.05.2{30}  apaghnanto arAvNaH
+RV_09.063.06.1{31}  sutA anu svamA rajo.abhyarShanti babhravaH
+RV_09.063.06.2{31}  indraM gachanta indavaH
+RV_09.063.07.1{31}  ayA pavasva dhArayA yayA sUryamarocayaH
+RV_09.063.07.2{31}  hinvAno mAnuShIrapaH
+RV_09.063.08.1{31}  ayukta sUra etashaM pavamAno manAvadhi
+RV_09.063.08.2{31}  antarikSheNa yAtave
+RV_09.063.09.1{31}  uta tyA harito dasha sUro ayukta yAtave
+RV_09.063.09.2{31}  indurindra itibruvan
+RV_09.063.10.1{31}  parIto vAyave sutaM gira indrAya matsaram
+RV_09.063.10.2{31}  avyo vAreShusi§cata
+RV_09.063.11.1{32}  pavamAna vidA rayimasmabhyaM soma duShTaram
+RV_09.063.11.2{32}  yo dUNAsho vanuShyatA
+RV_09.063.12.1{32}  abhyarSha sahasriNaM rayiM gomantamashvinam
+RV_09.063.12.2{32}  abhi vAjamuta shravaH
+RV_09.063.13.1{32}  somo devo na sUryo.adribhiH pavate sutaH
+RV_09.063.13.2{32}  dadhAnaH kalashe rasam
+RV_09.063.14.1{32}  ete dhAmAnyAryA shukrA R^itasya dhArayA
+RV_09.063.14.2{32}  vAjaM gomantamakSharan
+RV_09.063.15.1{32}  sutA indrAya vajriNe somAso dadhyAshiraH
+RV_09.063.15.2{32}  pavitramatyakSharan
+RV_09.063.16.1{33}  pra soma madhumattamo rAye arSha pavitra A
+RV_09.063.16.2{33}  mado yo devavItamaH
+RV_09.063.17.1{33}  tamI mR^ijantyAyavo hariM nadIShu vAjinam
+RV_09.063.17.2{33}  indumindrAyamatsaram
+RV_09.063.18.1{33}  A pavasva hiraNyavadashvAvat soma vIravat
+RV_09.063.18.2{33}  vAjaM gomantamA bhara
+RV_09.063.19.1{33}  pari vAje na vAjayumavyo vAreShu si§cata
+RV_09.063.19.2{33}  indrAya madhumattamam
+RV_09.063.20.1{33}  kaviM mR^ijanti marjyaM dhIbhirviprA avasyavaH
+RV_09.063.20.2{33}  vR^iShA kanikradarShati
+RV_09.063.21.1{34}  vR^iShaNaM dhIbhirapturaM somaM R^itasya dhArayA
+RV_09.063.21.2{34}  matI viprAH samasvaran
+RV_09.063.22.1{34}  pavasva devAyuShagindraM gachatu te madaH
+RV_09.063.22.2{34}  vAyumA roha dharmaNA
+RV_09.063.23.1{34}  pavamAna ni toshase rayiM soma shravAyyam
+RV_09.063.23.2{34}  priyaH samudramA visha
+RV_09.063.24.1{34}  apaghnan pavase mR^idhaH kratuvit soma matsaraH
+RV_09.063.24.2{34}  nudasvAdevayuM janam
+RV_09.063.25.1{34}  pavamAnA asR^ikShata somAH shukrAsa indavaH
+RV_09.063.25.2{34}  abhi vishvAnikAvyA
+RV_09.063.26.1{35}  pavamAnAsa AshavaH shubhrA asR^igramindavaH
+RV_09.063.26.2{35}  ghnanto vishvA apa dviShaH
+RV_09.063.27.1{35}  pavamanA divas paryantarikShAdasR^ikShata
+RV_09.063.27.2{35}  pR^ithivyA adhi sAnavi
+RV_09.063.28.1{35}  punAnaH soma dhArayendo vishvA apa sridhaH
+RV_09.063.28.2{35}  jahi rakShAMsi sukrato
+RV_09.063.29.1{35}  apaghnan soma rakShaso.abhyarSha kanikradat
+RV_09.063.29.2{35}  dyumantaM shuShmamuttamam
+RV_09.063.30.1{35}  asme vasUni dhAraya soma divyAni pArthivA
+RV_09.063.30.2{35}  indo vishvAnivAryA 
+
+RV_09.064.01.1{36}  vR^iShA soma dyumAnasi vR^iShA deva vR^iShavrataH
+RV_09.064.01.2{36}  vR^iShA dharmANi dadhiShe
+RV_09.064.02.1{36}  vR^iShNaste vR^iShNyaM shavo vR^iShA vanaM vR^iShA madaH
+RV_09.064.02.2{36}  satyaM vR^iShan vR^iShedasi
+RV_09.064.03.1{36}  ashvo na cakrado vR^iShA saM gA indo samarvataH
+RV_09.064.03.2{36}  vi no rAye duro vR^idhi
+RV_09.064.04.1{36}  asR^ikShata pra vAjino gavyA somAso ashvayA
+RV_09.064.04.2{36}  shukrAso vIrayAshavaH
+RV_09.064.05.1{36}  shumbhamAnA R^itAyubhirmR^ijyamAnA gabhastyoH
+RV_09.064.05.2{36}  pavante vAreavyaye
+RV_09.064.06.1{37}  te vishvA dAshuShe vasu somA divyAni pArthivA
+RV_09.064.06.2{37}  pavantAmAntarikShyA
+RV_09.064.07.1{37}  pavamAnasya vishvavit pra te sargA asR^ikShata
+RV_09.064.07.2{37}  sUryasyeva na rashmayaH
+RV_09.064.08.1{37}  ketuM kR^iNvan divas pari vishvA rUpAbhyarShasi
+RV_09.064.08.2{37}  samudraH soma pinvase
+RV_09.064.09.1{37}  hinvAno vAcamiShyasi pavamAna vidharmaNi
+RV_09.064.09.2{37}  akrAn devo nasUryaH
+RV_09.064.10.1{37}  induH paviShTa cetanaH priyaH kavInAM matI
+RV_09.064.10.2{37}  sR^ijadashvaM rathIriva
+RV_09.064.11.1{38}  Urmiryaste pavitra A devAvIH paryakSharat
+RV_09.064.11.2{38}  sIdannR^itasya yonimA
+RV_09.064.12.1{38}  sa no arSha pavitra A mado yo devavItamaH
+RV_09.064.12.2{38}  indavindrAyapItaye
+RV_09.064.13.1{38}  iShe pavasva dhArayA mR^ijyamAno manIShibhiH
+RV_09.064.13.2{38}  indo rucAbhigA ihi
+RV_09.064.14.1{38}  punAno varivas kR^idhyUrjaM janAya girvaNaH
+RV_09.064.14.2{38}  hare sR^ijAnaAshiram
+RV_09.064.15.1{38}  punAno devavItaya indrasya yAhi niShkR^itam
+RV_09.064.15.2{38}  dyutAno vAjibhiryataH
+RV_09.064.16.1{39}  pra hinvAnAsa indavo.achA samudramAshavaH
+RV_09.064.16.2{39}  dhiyA jUtA asR^ikShata
+RV_09.064.17.1{39}  marmR^ijAnAsa Ayavo vR^ithA samudramindavaH
+RV_09.064.17.2{39}  agmannR^itasya yonimA
+RV_09.064.18.1{39}  pari No yAhyasmayurvishvA vasUnyojasA
+RV_09.064.18.2{39}  pAhi naH sharma vIravat
+RV_09.064.19.1{39}  mimAti vahniretashaH padaM yujAna R^ikvabhiH
+RV_09.064.19.2{39}  pra yat samudra AhitaH
+RV_09.064.20.1{39}  A yad yoniM hiraNyayamAshur{R^i}tasya sIdati
+RV_09.064.20.2{39}  jahAtyapracetasaH
+RV_09.064.21.1{40}  abhi venA anUShateyakShanti pracetasaH
+RV_09.064.21.2{40}  majjantyavicetasaH
+RV_09.064.22.1{40}  indrAyendo marutvate pavasva madhumattamaH
+RV_09.064.22.2{40}  R^itasya yonimAsadam
+RV_09.064.23.1{40}  taM tvA viprA vacovidaH pariSh kR^iNvanti vedhasaH
+RV_09.064.23.2{40}  saM tvA mR^ijantyAyavaH
+RV_09.064.24.1{40}  rasaM te mitro aryamA pibanti varunaH kave
+RV_09.064.24.2{40}  pavamAnasya marutaH
+RV_09.064.25.1{40}  tvaM soma vipashcitaM punAno vAcamiShyasi
+RV_09.064.25.2{40}  indo sahasrabharNasam
+RV_09.064.26.1{41}  uto sahasrabharNasaM vAcaM soma makhasyuvam
+RV_09.064.26.2{41}  punAna indavA bhara
+RV_09.064.27.1{41}  punAna indaveShAM puruhUta janAnAm
+RV_09.064.27.2{41}  priyaH samudramA visha
+RV_09.064.28.1{41}  davidyutatyA rucA pariShTobhantyA kR^ipA
+RV_09.064.28.2{41}  somAH shukrA gavAshiraH
+RV_09.064.29.1{41}  hinvAno hetR^ibhiryata A vAjaM vAjyakramIt
+RV_09.064.29.2{41}  sIdanto vanuSho yathA
+RV_09.064.30.1{41}  R^idhak soma svastaye saJNjagmAno divaH kaviH
+RV_09.064.30.2{41}  pavasva sUryodR^ishe
+
+RV_09.065.01.1{01}  hinvanti sUramusrayaH svasAro jAmayas patim
+RV_09.065.01.2{01}  mahAminduM mahIyuvaH
+RV_09.065.02.1{01}  pavamAna rucA-rucA devo devebhyas pari
+RV_09.065.02.2{01}  vishvA vasUnyAvisha
+RV_09.065.03.1{01}  A pavamAna suShTutiM vR^iShTiM devebhyo duvaH
+RV_09.065.03.2{01}  iShe pavasva saMyatam
+RV_09.065.04.1{01}  vR^iShA hyasi bhAnunA dyumantaM tvA havAmahe
+RV_09.065.04.2{01}  pavamAna svAdhyaH
+RV_09.065.05.1{01}  A pavasva suvIryaM mandamAnaH svAyudha
+RV_09.065.05.2{01}  iho ShvindavA gahi
+RV_09.065.06.1{02}  yadadbhiH pariShicyase mR^ijyamAno gabhastyoH
+RV_09.065.06.2{02}  druNA sadhasthamashnuShe
+RV_09.065.07.1{02}  pra somAya vyashvavat pavamAnAya gAyata
+RV_09.065.07.2{02}  mahe sahasracakShase
+RV_09.065.08.1{02}  yasya varNaM madhushcutaM hariM hinvantyadribhiH
+RV_09.065.08.2{02}  indumindrAya pItaye
+RV_09.065.09.1{02}  tasya te vAjino vayaM vishvA dhanAni jigyuShaH
+RV_09.065.09.2{02}  sakhitvamA vR^iNImahe
+RV_09.065.10.1{02}  vR^iShA pavasva dhArayA marutvate ca matsaraH
+RV_09.065.10.2{02}  vishvA dadhAna ojasA
+RV_09.065.11.1{03}  taM tvA dhartAramoNyoH pavamAna svardR^isham
+RV_09.065.11.2{03}  hinve vAjeShu vAjinam
+RV_09.065.12.1{03}  ayA citto vipAnayA hariH pavasva dhArayA
+RV_09.065.12.2{03}  yujaM vAjeShu codaya
+RV_09.065.13.1{03}  A na indo mahImiShaM pavasva vishvadarshataH
+RV_09.065.13.2{03}  asmabhyaM soma gAtuvit
+RV_09.065.14.1{03}  A kalashA anUShatendo dhArAbhirojasA
+RV_09.065.14.2{03}  endrasya pItayevisha
+RV_09.065.15.1{03}  yasya te madyaM rasaM tIvraM duhantyadribhiH
+RV_09.065.15.2{03}  sa pavasvAbhimAtihA
+RV_09.065.16.1{04}  rAjA medhAbhirIyate pavamAno manAvadhi
+RV_09.065.16.2{04}  antarikSheNa yAtave
+RV_09.065.17.1{04}  A na indo shatagvinaM gavAM poShaM svashvyam
+RV_09.065.17.2{04}  vahA bhagattimUtaye
+RV_09.065.18.1{04}  A naH soma saho juvo rUpaM na varcase bhara
+RV_09.065.18.2{04}  suShvANo devavItaye
+RV_09.065.19.1{04}  arShA soma dyumattamo.abhi droNAni roruvat
+RV_09.065.19.2{04}  sIda§chyenona yonimA
+RV_09.065.20.1{04}  apsA indrAya vAyave varuNAya marudbhyaH
+RV_09.065.20.2{04}  somo arShati viShNave
+RV_09.065.21.1{05}  iShaM tokAya no dadhadasmabhyaM soma vishvataH
+RV_09.065.21.2{05}  A pavasvasahasriNam
+RV_09.065.22.1{05}  ye somAsaH parAvati ye arvAvati sunvire
+RV_09.065.22.2{05}  ye vAdaH sharyaNAvati
+RV_09.065.23.1{05}  ya ArjIkeShu kR^itvasu ye madhye pastyAnAm
+RV_09.065.23.2{05}  ye vA janeShupa§casu
+RV_09.065.24.1{05}  te no vR^iShTiM divas pari pavantAmA suvIryam
+RV_09.065.24.2{05}  suvAnA devAsa indavaH
+RV_09.065.25.1{05}  pavate haryato harirgR^iNAno jamadagninA
+RV_09.065.25.2{05}  hinvAno goradhitvaci
+RV_09.065.26.1{06}  pra shukrAso vayojuvo hinvAnAso na saptayaH
+RV_09.065.26.2{06}  shrINAnAapsu mR^i§jata
+RV_09.065.27.1{06}  taM tvA suteShvAbhuvo hinvire devatAtaye
+RV_09.065.27.2{06}  sa pavasvAnayA rucA
+RV_09.065.28.1{06}  A te dakShaM mayobhuvaM vahnimadyA vR^iNImahe
+RV_09.065.28.2{06}  pAntamApuruspR^iham
+RV_09.065.29.1{06}  A mandramA vareNyamA vipramA manIShiNam
+RV_09.065.29.2{06}  pAntamA puruspR^iham
+RV_09.065.30.1{06}  A rayimA sucetunamA sukrato tanUShvA
+RV_09.065.30.2{06}  pAntamA puruspR^iham
+
+RV_09.066.01.1{07}  pavasva vishvacarShaNe.abhi vishvAni kAvyA
+RV_09.066.01.2{07}  sakhA sakhibhya IDyaH
+RV_09.066.02.1{07}  tAbhyAM vishvasya rAjasi ye pavamAna dhAmanI
+RV_09.066.02.2{07}  pratIcI soma tasthatuH
+RV_09.066.03.1{07}  pari dhAmAni yAni te tvaM somAsi vishvataH pavamAna R^itubhiH kave
+RV_09.066.04.1{07}  pavasva janayanniSho.abhi vishvAni vAryA
+RV_09.066.04.2{07}  sakhA sakhibhya Utaye
+RV_09.066.05.1{07}  tava shukrAso arcayo divas pR^iShThe vi tanvate
+RV_09.066.05.2{07}  pavitraM soma dhAmabhiH
+RV_09.066.06.1{08}  taveme sapta sindhavaH prashiShaM soma sisrate
+RV_09.066.06.2{08}  tubhyaM dhAvanti dhenavaH
+RV_09.066.07.1{08}  pra soma yAhi dhArayA suta indrAya matsaraH
+RV_09.066.07.2{08}  dadhAno akShiti shravaH
+RV_09.066.08.1{08}  samu tvA dhIbhirasvaran hinvatIH sapta jAmayaH
+RV_09.066.08.2{08}  vipramAjA vivasvataH
+RV_09.066.09.1{08}  mR^ijanti tvA samagruvo.avye jIrAvadhi Shvani
+RV_09.066.09.2{08}  rebho yadajyase vane
+RV_09.066.10.1{08}  pavamAnasya te kave vAjin sargA asR^ikShata
+RV_09.066.10.2{08}  arvanto na shravasyavaH
+RV_09.066.11.1{09}  achA koshaM madhushcutamasR^igraM vAre avyaye
+RV_09.066.11.2{09}  avAvashantadhItayaH
+RV_09.066.12.1{09}  achA samudramindavo.astaM gAvo na dhenavaH
+RV_09.066.12.2{09}  agmannR^itasya yonimA
+RV_09.066.13.1{09}  pra Na indo mahe raNa Apo arShanti sindhavaH
+RV_09.066.13.2{09}  yad gobhirvAsayiShyase
+RV_09.066.14.1{09}  asya te sakhye vayamiyakShantastvotayaH
+RV_09.066.14.2{09}  indo sakhitvamushmasi
+RV_09.066.15.1{09}  A pavasva gaviShTaye mahe soma nR^icakShase
+RV_09.066.15.2{09}  endrasya jaTharevisha
+RV_09.066.16.1{10}  mahAnasi soma jyeShTha ugrANAminda ojiShThaH
+RV_09.066.16.2{10}  yudhvA sa§chashvajjigetha
+RV_09.066.17.1{10}  ya ugrebhyashcidojIyA§chUrebhyashcicchUrataraH
+RV_09.066.17.2{10}  bhUridAbhyashcin maMhIyAn
+RV_09.066.18.1{10}  tvaM soma sUra eShastokasya sAtA tanUnAm
+RV_09.066.18.2{10}  vR^iNImahe sakhyAya vR^iNImahe yujyAya
+RV_09.066.19.1{10}  agna AyUMShi pavasa A suvorjamiShaM ca naH
+RV_09.066.19.2{10}  Are bAdhasva duchunAm
+RV_09.066.20.1{10}  agnir{R^i}ShiH pavamAnaH pA§cajanyaH purohitaH
+RV_09.066.20.2{10}  tamImahemahAgayam
+RV_09.066.21.1{11}  agne pavasva svapA asme varcaH suvIryam
+RV_09.066.21.2{11}  dadhad rayiM mayi poSham
+RV_09.066.22.1{11}  pavamAno ati sridho.abhyarShati suShTutim
+RV_09.066.22.2{11}  sUro na vishvadarshataH
+RV_09.066.23.1{11}  sa marmR^ijAna AyubhiH prayasvAn prayase hitaH
+RV_09.066.23.2{11}  induratyovicakShaNaH
+RV_09.066.24.1{11}  pavamAna R^itaM bR^ihacchukraM jyotirajIjanat
+RV_09.066.24.2{11}  kR^iShNA tamAMsi jaN^ghanat
+RV_09.066.25.1{11}  pavamAnasya jaN^ghnato hareshcandrA asR^ikShata
+RV_09.066.25.2{11}  jIrA ajirashociShaH
+RV_09.066.26.1{12}  pavamAno rathItamaH shubhrebhiH shubhrashastamaH
+RV_09.066.26.2{12}  harishcandro marudgaNaH
+RV_09.066.27.1{12}  pavamAno vyashnavad rashmibhirvAjasAtamaH
+RV_09.066.27.2{12}  dadhat stotresuvIryam
+RV_09.066.28.1{12}  pra suvAna indurakShAH pavitramatyavyayam
+RV_09.066.28.2{12}  punAna indurindramA
+RV_09.066.29.1{12}  eSha somo adhi tvaci gavAM krI atyadribhiH
+RV_09.066.29.2{12}  indraM madAya johuvat
+RV_09.066.30.1{12}  yasya te dyumnavat payaH pavamAnAbhR^itaM divaH
+RV_09.066.30.2{12}  tena no mR^i a jIvase
+
+RV_09.067.01.1{13}  tvaM somAsi dhArayurmandra ojiShTho adhvare
+RV_09.067.01.2{13}  pavasva maMhayadrayiH
+RV_09.067.02.1{13}  tvaM suto nR^imAdano dadhanvAn matsarintamaH
+RV_09.067.02.2{13}  indrAya sUrirandhasA
+RV_09.067.03.1{13}  tvaM suShvANo adribhirabhyarSha kanikradat
+RV_09.067.03.2{13}  dyumantaM shuShmamuttamam
+RV_09.067.04.1{13}  indurhinvAno arShati tiro vArANyavyayA
+RV_09.067.04.2{13}  harirvAjamacikradat
+RV_09.067.05.1{13}  indo vyavyamarShasi vi shravAMsi vi saubhagA
+RV_09.067.05.2{13}  vi vAjA.nsoma gomataH
+RV_09.067.06.1{14}  A na indo shatagvinaM rayiM gomantamashvinam
+RV_09.067.06.2{14}  bharA soma sahasriNam
+RV_09.067.07.1{14}  pavamAnAsa indavastiraH pavitramAshavaH
+RV_09.067.07.2{14}  indraM yAmebhirAshata
+RV_09.067.08.1{14}  kakuhaH somyo rasa indurindrAya pUrvyaH
+RV_09.067.08.2{14}  AyuH pavata Ayave
+RV_09.067.09.1{14}  hinvanti sUramusrayaH pavamAnaM madhushcutam
+RV_09.067.09.2{14}  abhi girA samasvaran
+RV_09.067.10.1{14}  avitA no ajAshvaH pUShA yAmani-yAmani
+RV_09.067.10.2{14}  A bhakShat kanyAsu naH
+RV_09.067.11.1{15}  ayaM somaH kapardine ghR^itaM na pavate madhu
+RV_09.067.11.2{15}  A bhakShat kanyAsu naH
+RV_09.067.12.1{15}  ayaM ta AghR^iNe suto ghR^itaM na pavate shuci
+RV_09.067.12.2{15}  A bhakShat kanyAsu naH
+RV_09.067.13.1{15}  vAco jantuH kavInAM pavasva soma dhArayA
+RV_09.067.13.2{15}  deveShu ratnadhA asi
+RV_09.067.14.1{15}  A kalasheShu dhAvati shyeno varma vi gAhate
+RV_09.067.14.2{15}  abhi droNA kanikradat
+RV_09.067.15.1{15}  pari pra soma te raso.asarji kalashe sutaH
+RV_09.067.15.2{15}  shyeno na taktoarShati
+RV_09.067.16.1{16}  pavasva soma mandayannindrAya madhumattamaH
+RV_09.067.17.1{16}  asR^igran devavItaye vAjayanto rathA iva
+RV_09.067.18.1{16}  te sutAso madintamAH shukrA vAyumasR^ikShata
+RV_09.067.19.1{16}  grAvNA tunno abhiShTutaH pavitraM soma gachasi
+RV_09.067.19.2{16}  dadhat stotre suvIryam
+RV_09.067.20.1{16}  eSha tunno abhiShTutaH pavitramati gAhate
+RV_09.067.20.2{16}  rakShohA vAramavyayam
+RV_09.067.21.1{17}  yadanti yacca dUrake bhayaM vindati mAmiha
+RV_09.067.21.2{17}  pavamAnavi tajjahi
+RV_09.067.22.1{17}  pavamAnaH so adya naH pavitreNa vicarShaNiH
+RV_09.067.22.2{17}  yaH potAsa punAtu naH
+RV_09.067.23.1{17}  yat te pavitramarciShyagne vitatamantarA
+RV_09.067.23.2{17}  brahma tena punIhi naH
+RV_09.067.24.1{17}  yat te pavitramarcivadagne tena punIhi naH
+RV_09.067.24.2{17}  brahmasavaiH punIhi naH
+RV_09.067.25.1{17}  ubhAbhyAM deva savitaH pavitreNa savena ca
+RV_09.067.25.2{17}  mAM punIhi vishvataH
+RV_09.067.26.1{18}  tribhiSh TvaM deva savitarvarShiShThaiH soma dhAmabhiH
+RV_09.067.26.2{18}  agne dakShaiH punIhi naH
+RV_09.067.27.1{18}  punantu mAM devajanAH punantu vasavo dhiyA
+RV_09.067.27.2{18}  vishve devAH punIta mA jAtavedaH punIhi mA
+RV_09.067.28.1{18}  pra pyAyasva pra syandasva soma vishvebhiraMshubhiH
+RV_09.067.28.2{18}  devebhya uttamaM haviH
+RV_09.067.29.1{18}  upa priyaM panipnataM yuvAnamAhutIvR^idham
+RV_09.067.29.2{18}  aganma bibhratonamaH
+RV_09.067.30.1{18}  alAyyasya parashurnanAsha tamA pavasva deva soma
+RV_09.067.30.2{18}  AkhuM cideva deva soma
+RV_09.067.31.1{18}  yaH pAvamAnIradhyety R^iShibhiH sambhR^itaM rasam
+RV_09.067.31.2{18}  sarvaMsa pUtamashnAti svaditaM mAtarishvanA
+RV_09.067.32.1{18}  pAvamAnIryo adhyety R^iShibhiH sambhR^itaM rasam
+RV_09.067.32.2{18}  tasmai sarasvatI duhe kShIraM sarpirmadhUdakam
+
+RV_09.068.01.1{19}  pra devamachA madhumanta indavo.asiShyadanta gAva A na dhenavaH
+RV_09.068.01.2{19}  barhiShado vacanAvanta UdhabhiH parisrutamusriyAnirNijaM dhire
+RV_09.068.02.1{19}  sa roruvadabhi pUrvA acikradadupAruhaH shrathayan svAdatehariH
+RV_09.068.02.2{19}  tiraH pavitramapriyannuru jrayo ni sharyANi dadhate deva A varam
+RV_09.068.03.1{19}  vi yo mame yamyA saMyatI madaH sAkaMvR^idhA payasA pinvadakShitA
+RV_09.068.03.2{19}  mahI apAre rajasI vivevidadabhivrajannakShitaM pAja A dade
+RV_09.068.04.1{19}  sa mAtarA vicaran vAjayannapaH pra medhiraH svadhayA pinvate padam
+RV_09.068.04.2{19}  aMshuryavena pipishe yato nR^ibhiH saM jAmibhirnasate rakShate shiraH
+RV_09.068.05.1{19}  saM dakSheNa manasA jAyate kavir{R^i}tasya garbho nihito yamA paraH
+RV_09.068.05.2{19}  yUnA ha santA prathamaM vi jaj~naturguhA hitaM janima nemamudyatam
+RV_09.068.06.1{20}  mandrasya rUpaM vividurmanIShiNaH shyeno yadandho abharat parAvataH
+RV_09.068.06.2{20}  taM marjayanta suvR^idhaM nadIShvA ushantamaMshuM pariyantaM R^igmiyam
+RV_09.068.07.1{20}  tvAM mR^ijanti dasha yoShaNaH sutaM soma R^iShibhirmatibhirdhItibhirhitam
+RV_09.068.07.2{20}  avyo vArebhiruta devahUtibhirnR^ibhiryatovAjamA darShi sAtaye
+RV_09.068.08.1{20}  pariprayantaM vayyaM suShaMsadaM somaM manIShA abhyanUShata stubhaH
+RV_09.068.08.2{20}  yo dhArayA madhumAnUrmiNA diva iyarti vAcaM rayiShA  amartyaH
+RV_09.068.09.1{20}  ayaM diva iyarti vishvamA rajaH somaH punAnaH kalasheShu sIdati
+RV_09.068.09.2{20}  adbhirgobhirmR^ijyate adribhiH sutaH punAna indurvarivo vidat priyam
+RV_09.068.10.1{20}  evA naH soma pariShicyamAno vayo dadhaccitratamaM pavasva
+RV_09.068.10.2{20}  adveShe dyAvApR^ithivI huvema devA dhatta rayimasme suvIram
+
+RV_09.069.01.1{21}  iShurna dhanvan prati dhIyate matirvatso na mAturupa sarjyUdhani
+RV_09.069.01.2{21}  urudhAreva duhe agra Ayatyasya vrateShvapi soma iShyate
+RV_09.069.02.1{21}  upo matiH pR^icyate sicyate madhu mandrAjanI codate antarAsani
+RV_09.069.02.2{21}  pavamAnaH santaniH praghnatAmiva madhumAn drapsaH pari vAramarShati
+RV_09.069.03.1{21}  avye vadhUyuH pavate pari tvaci shrathnIte naptIraditer{R^i}taM yate
+RV_09.069.03.2{21}  harirakrAn yajataH saMyato mado nR^imNA shishAno mahiSho na shobhate
+RV_09.069.04.1{21}  ukShA mimAti prati yanti dhenavo devasya devIrupa yanti niShkR^itam
+RV_09.069.04.2{21}  atyakramIdarjunaM vAramavyayamatkaM na niktampari somo avyata
+RV_09.069.05.1{21}  amR^iktena rushatA vAsasA hariramartyo nirNijAnaH pari vyata
+RV_09.069.05.2{21}  divas pR^iShThaM barhaNA nirNije kR^itopastaraNaM camvornabhasmayam
+RV_09.069.06.1{22}  sUryasyeva rashmayo drAvayitnavo matsarAsaH prasupaH sAkamIrate
+RV_09.069.06.2{22}  tantuM tataM pari sargAsa Ashavo nendrAd R^ite pavate dhAma kiM cana
+RV_09.069.07.1{22}  sindhoriva pravaNe nimna Ashavo vR^iShacyutA madAso gAtumAshata
+RV_09.069.07.2{22}  shaM no niveshe dvipade catuShpade.asme vAjaH soma tiShThantu kR^iShTayaH
+RV_09.069.08.1{22}  A naH pavasva vasumad dhiraNyavadashvAvad gomad yavamat suvIryam
+RV_09.069.08.2{22}  yUyaM hi soma pitaro mama sthana divo mUrdhAnaHprasthitA vayaskR^itaH
+RV_09.069.09.1{22}  ete somAH pavamAnAsa indraM rathA iva pra yayuH sAtimacha
+RV_09.069.09.2{22}  sutAH pavitramati yantyavyaM hitvI vavriM haritovR^iShtimacha
+RV_09.069.10.1{22}  indavindrAya bR^ihate pavasva sumR^i Iko anavadyo rishAdAH
+RV_09.069.10.2{22}  bharA candrANi gR^iNate vasUni devairdyAvApR^ithivI prAvataM naH
+
+RV_09.070.01.1{23}  trirasmai sapta dhenavo duduhre satyAmAshiraM pUrvye vyomani
+RV_09.070.01.2{23}  catvAryanyA bhuvanAni nirNije cArUNi cakre yad R^itairavardhata
+RV_09.070.02.1{23}  sa bhikShamANo amR^itasya cAruNa ubhe dyAvA kAvyenA vi shashrathe
+RV_09.070.02.2{23}  tejiShThA apo maMhanA pari vyata yadI devasya shravasA sado viduH
+RV_09.070.03.1{23}  te asya santu ketavo.amR^ityavo.adAbhyAso januShI ubhe anu
+RV_09.070.03.2{23}  yebhirnR^imNA ca devyA ca punata Adid rAjAnaM mananA agR^ibhNata
+RV_09.070.04.1{23}  sa mR^ijyamAno dashabhiH sukarmabhiH pra madhyamAsu mAtR^iShuprame sacA
+RV_09.070.04.2{23}  vratAni pAno amR^itasva cAruNa ubhe nR^icakShAanu pashyate vishau
+RV_09.070.05.1{23}  sa marmR^ijAna indriyAya dhAyasa obhe antA rodasI harShate hitaH
+RV_09.070.05.2{23}  vR^iShA shuShmeNa bAdhate vi durmatIrAdedishAnaH sharyaheva shurudhaH
+RV_09.070.06.1{24}  sa mAtarA na dadR^ishAna usriyo nAnadadeti marutAmiva svanaH
+RV_09.070.06.2{24}  jAnannR^itaM prathamaM yat svarNaraM prashastaye kamavR^iNIta sukratuH
+RV_09.070.07.1{24}  ruvati bhImo vR^iShabhastaviShyayA shR^iN^ge shishAno hariNIvicakShaNaH
+RV_09.070.07.2{24}  A yoniM somaH sukR^itaM ni ShIdati gavyayItvag bhavati nirNigavyayI
+RV_09.070.08.1{24}  shuciH punAnastanvamarepasamavye harirnyadhAviShTa sAnavi
+RV_09.070.08.2{24}  juShTo mitrAya varuNAya vAyave tridhAtu madhu kriyate sukarmabhiH
+RV_09.070.09.1{24}  pavasva soma devavItaye vR^iShendrasya hArdi somadhAnamA visha
+RV_09.070.09.2{24}  purA no bAdhAd duritAti pAraya kShetravid dhi disha AhA vipR^ichate
+RV_09.070.10.1{24}  hito na saptirabhi vAjamarShendrasyendo jaTharamA pavasva
+RV_09.070.10.2{24}  nAvA na sindhumati parShi vidvA§chUro na yudhyannava no nida spaH
+
+RV_09.071.01.1{25}  A dakShiNA sR^ijyate shuShmyAsadaM veti druho rakShasaH pAti jAgR^iviH
+RV_09.071.01.2{25}  hariropashaM kR^iNute nabhas paya upastire camvorbrahma nirNije
+RV_09.071.02.1{25}  pra kriShTiheva shUSha eti roruvadasuryaM varNaM ni riNIte asya tam
+RV_09.071.02.2{25}  jahAti vavriM pitureti niShkR^itamupaprutaM kR^iNute nirNijaM tanA
+RV_09.071.03.1{25}  adribhiH sutaH pavate gabhastyorvR^iShAyate nabhasA vepate matI
+RV_09.071.03.2{25}  sa modate nasate sAdhate girA nenikte apsu yajate parImaNi
+RV_09.071.04.1{25}  pari dyukShaM sahasaH parvatAvR^idhaM madhvaH si§canti harmyasya sakShaNim
+RV_09.071.04.2{25}  A yasmin gAvaH suhutAda Udhani mUrdhaMchrINantyagriyaM varImabhiH
+RV_09.071.05.1{25}  samI rathaM na bhurijoraheShata dasha svasAro aditerupastha A
+RV_09.071.05.2{25}  jigAdupa jrayati gorapIcyaM padaM yadasya matuthA ajIjanan
+RV_09.071.06.1{26}  shyeno na yoniM sadanaM dhiyA kR^itaM hiraNyayamAsadaM deva eShati
+RV_09.071.06.2{26}  e riNanti barhiShi priyaM girAshvo na devAnapyeti yaj~niyaH
+RV_09.071.07.1{26}  parA vyakto aruSho divaH kavirvR^iShA tripR^iShTho anaviShTagA abhi
+RV_09.071.07.2{26}  sahasraNItiryatiH parAyatI rebho na pUrvIruShaso vi rAjati
+RV_09.071.08.1{26}  tveShaM rUpaM kR^iNute varNo asya sa yatrAshayat samR^itA sedhati sridhaH
+RV_09.071.08.2{26}  apsA yAti svadhayA daivyaM janaM saM suShTutI nasate saM goagrayA
+RV_09.071.09.1{26}  ukSheva yUthA pariyannarAvIdadhi tviShIradhita sUryasya
+RV_09.071.09.2{26}  divyaH suparNo.ava cakShata kShAM somaH pari kratunA pashyate jAH
+
+RV_09.072.01.1{27}  hariM mR^ijantyaruSho na yujyate saM dhenubhiH kalashe somo ajyate
+RV_09.072.01.2{27}  ud vAcamIrayati hinvate matI puruShTutasya kati citparipriyaH
+RV_09.072.02.1{27}  sAkaM vadanti bahavo manIShiNa indrasya somaM jaThare yadAduhuH
+RV_09.072.02.2{27}  yadI mR^ijanti sugabhastayo naraH sanI AbhirdashabhiH kAmyaM madhu
+RV_09.072.03.1{27}  aramamANo atyeti gA abhi sUryasya priyaM duhitustiro ravam
+RV_09.072.03.2{27}  anvasmai joShamabharad vinaMgR^isaH saM dvayIbhiH svasR^ibhiH kSheti jAmibhiH
+RV_09.072.04.1{27}  nR^idhUto adriShuto barhiShi priyaH patirgavAM pradiva indur{R^i}tviyaH
+RV_09.072.04.2{27}  purandhivAn manuSho yaj~nasAdhanaH shucirdhiyApavate soma indra te
+RV_09.072.05.1{27}  nR^ibAhubhyAM codito dhArayA suto.anuShvadhaM pavate soma indra te
+RV_09.072.05.2{27}  AprAH kratUn samajairadhvare matIrverna druShaccamvorAsadad dhariH
+RV_09.072.06.1{28}  aMshuM duhanti stanayantamakShitaM kaviM kavayo.apaso manIShiNaH
+RV_09.072.06.2{28}  samI gAvo matayo yanti saMyata R^itasya yonA sadane punarbhuvaH
+RV_09.072.07.1{28}  nAbhA pR^ithivyA dharuNo maho divo.apAmUrmau sindhuShvantarukShitaH
+RV_09.072.07.2{28}  indrasya vajro vR^iShabho vibhUvasuH somo hR^idepavate cAru matsaraH
+RV_09.072.08.1{28}  sa tU pavasva pari pArthivaM raja stotre shikShannAdhUnvate ca sukrato
+RV_09.072.08.2{28}  mA no nirbhAg vasunaH sAdanaspR^isho rayiM pishaN^gaM bahulaM vasImahi
+RV_09.072.09.1{28}  A tU na indo shatadAtvashvyaM sahasradAtu pashumad dhiraNyavat
+RV_09.072.09.2{28}  upa mAsva bR^ihatI revatIriSho.adhi stotrasya pavamAna no gahi
+
+RV_09.073.01.1{29}  srakve drapsasya dhamataH samasvarannR^itasya yonA samarantanAbhayaH
+RV_09.073.01.2{29}  trIn sa mUrdhno asurashcakra Arabhe satyasyanAvaH sukR^itamapIparan
+RV_09.073.02.1{29}  samyak samya§co mahiShA aheShata sindhorUrmAvadhi venA avIvipan
+RV_09.073.02.2{29}  madhordhArAbhirjanayanto arkamit priyAmindrasya tanvamavIvR^idhan
+RV_09.073.03.1{29}  pavitravantaH pari vAcamAsate pitaiShAM pratno abhi rakShati vratam
+RV_09.073.03.2{29}  mahaH samudraM varuNastiro dadhe dhIrA icchekurdharuNeShvArabham
+RV_09.073.04.1{29}  sahasradhAre.ava te samasvaran divo nAke madhujihvA asashcataH
+RV_09.073.04.2{29}  asya spasho na ni miShanti bhUrNayaH pade-pade pAshinaH santi setavaH
+RV_09.073.05.1{29}  piturmAturadhyA ye samasvarannR^icA shocantaH sandahanto avratAn
+RV_09.073.05.2{29}  indradviShTAmapa dhamanti mAyayA tvacamasiknIM bhUmano divas pari
+RV_09.073.06.1{30}  pratnAn mAnAdadhyA ye samasvara§chlokayantrAso rabhasasya mantavaH
+RV_09.073.06.2{30}  apAnakShAso badhirA ahAsata R^itasya panthAM na taranti duShkR^itaH
+RV_09.073.07.1{30}  sahasradhAre vitate pavitra A vAcaM punanti kavayo manIShiNaH
+RV_09.073.07.2{30}  rudrAsa eShAmiShirAso adruha spashaH sva§caH sudR^isho nR^icakShasaH
+RV_09.073.08.1{30}  R^itasya gopA na dabhAya sukratustrI Sha pavitrA hR^idyantarA dadhe
+RV_09.073.08.2{30}  vidvAn sa vishvA bhuvanAbhi pashyatyavAjuShTAn vidhyati karte avratAn
+RV_09.073.09.1{30}  R^itasya tanturvitataH pavitra A jihvAyA agre varuNasya mAyayA
+RV_09.073.09.2{30}  dhIrAshcit tat saminakShanta AshatAtrA kartamava padAtyaprabhuh
+
+RV_09.074.01.1{31}  shishurna jAto.ava cakradad vane svaryad vAjyaruShaH siShAsati
+RV_09.074.01.2{31}  divo retasA sacate payovR^idhA tamImahe sumatI sharma saprathaH
+RV_09.074.02.1{31}  divo ya skambho dharuNaH svAtata ApUrNo aMshuH paryetivishvataH
+RV_09.074.02.2{31}  seme mahI rodasI yakShadAvR^itA samIcIne dAdhAra samiShaH kaviH
+RV_09.074.03.1{31}  mahi psaraH sukR^itaM somyaM madhUrvI gavyUtiraditer{R^i}taM yate
+RV_09.074.03.2{31}  Ishe yo vR^iShTerita usriyo vR^iShApAM netA ya itaUtir{R^i}gmiyaH
+RV_09.074.04.1{31}  Atmanvan nabho duhyate ghR^itaM paya R^itasya nAbhiramR^itaM vijAyate
+RV_09.074.04.2{31}  samIcInAH sudAnavaH prINanti taM naro hitamava mehanti peravaH
+RV_09.074.05.1{31}  arAvIdaMshuH sacamAna UrmiNA devAvyaM manuShe pinvatitvacam
+RV_09.074.05.2{31}  dadhAti garbhamaditerupastha A yena tokaM ca tanayaM ca dhAmahe
+RV_09.074.06.1{32}  sahasradhAre.ava tA asashcatastR^itIye santu rajasi prajAvatIH
+RV_09.074.06.2{32}  catasro nAbho nihitA avo divo havirbharantyamR^itaM ghR^itashcutaH
+RV_09.074.07.1{32}  shvetaM rUpaM kR^iNute yat siShAsati somo mIDhvAnasuro veda bhUmanaH
+RV_09.074.07.2{32}  dhiyA shamI sacate semabhi pravad divas kavandhamava darShadudriNam
+RV_09.074.08.1{32}  adha shvetaM kalashaM gobhiraktaM kArShmannA vAjyakramIt sasavAn
+RV_09.074.08.2{32}  A hinvire manasA devayantaH kakShIvate shatahimAya gonAm
+RV_09.074.09.1{32}  adbhiH soma papR^icAnasya te raso.avyo vAraM vi pavamAna dhAvati
+RV_09.074.09.2{32}  sa mR^ijyamAnaH kavibhirmadintama svadasvendrAya pavamAna pItaye
+
+RV_09.075.01.1{33}  abhi priyANi pavate canohito nAmAni yahvo adhi yeShu vardhate
+RV_09.075.01.2{33}  A sUryasya bR^ihato bR^ihannadhi rathaM viShva§camaruhad vicakShaNaH
+RV_09.075.02.1{33}  R^itasya jihvA pavate madhu priyaM vaktA patirdhiyo asyA adAbhyaH
+RV_09.075.02.2{33}  dadhAti putraH pitrorapIcyaM nAma tR^itIyamadhi rocane divaH
+RV_09.075.03.1{33}  ava dyutAnaH kalashAnacikradan nR^ibhiryemAnaH kosha A hiraNyaye
+RV_09.075.03.2{33}  abhIM R^itasya dohanA anUShatAdhi tripR^iShTha uShaso vi rAjati
+RV_09.075.04.1{33}  adribhiH suto matibhishcanohitaH prarocayan rodasI mAtarAshuciH
+RV_09.075.04.2{33}  romANyavyA samayA vi dhAvati madhordhArA pinvamAnA dive-dive
+RV_09.075.05.1{33}  pari soma pra dhanvA svastaye nR^ibhiH punAno abhi vAsayAshiram
+RV_09.075.05.2{33}  ye te madA Ahanaso vihAyasastebhirindraM codaya dAtave magham
+
+RV_09.076.01.1{01}  dhartA divaH pavate kR^itvyo raso dakSho devAnAmanumAdyo nR^ibhiH
+RV_09.076.01.2{01}  hariH sR^ijAno atyo na satvabhirvR^ithA pAjAMsi kR^iNute nadIShvA
+RV_09.076.02.1{01}  shUro na dhatta AyudhA gabhastyoH svaH siShAsan rathiro gaviShTiShu
+RV_09.076.02.2{01}  indrasya shuShmamIrayannapasyubhirindurhinvAno ajyate manIShibhiH
+RV_09.076.03.1{01}  indrasya soma pavamAna UrmiNA taviShyamANo jaThareShvAvisha
+RV_09.076.03.2{01}  pra NaH pinva vidyudabhreva rodasI dhiyA na vAjAnupa mAsi shashvataH
+RV_09.076.04.1{01}  vishvasya rAjA pavate svardR^isha R^itasya dhItiM R^iShiShA  avIvashat
+RV_09.076.04.2{01}  yaH sUryasyAsireNa mR^ijyate pitA matInAmasamaShTakAvyaH
+RV_09.076.05.1{01}  vR^iSheva yUthA pari koshamarShasyapAmupasthe vR^iShabhaH kanikradat
+RV_09.076.05.2{01}  sa indrAya pavase matsarintamo yathA jeShAma samithe tvotayaH
+
+RV_09.077.01.1{02}  eSha pra koshe madhumAnacikradadindrasya vajro vapuSho vapuShTaraH
+RV_09.077.01.2{02}  abhIM R^itasya sudughA ghR^itashcuto vAshrA arShantipayaseva dhenavaH
+RV_09.077.02.1{02}  sa pUrvyaH pavate yaM divas pari shyeno mathAyadiShitastiro rajaH
+RV_09.077.02.2{02}  sa madhva A yuvate vevijAna it kR^ishAnorasturmanasAha bibhyuShA
+RV_09.077.03.1{02}  te naH pUrvAsa uparAsa indavo mahe vAjAya dhanvantu gomate
+RV_09.077.03.2{02}  IkSheNyAso ahyo na cAravo brahma-brahma ye jujuShurhavir haviH
+RV_09.077.04.1{02}  ayaM no vidvAn vanavad vanuShyata induH satrAcA manasA puruShTutaH
+RV_09.077.04.2{02}  inasya yaH sadane garbhamAdadhe gavAmurubjamabhyarShati vrajam
+RV_09.077.05.1{02}  cakrirdivaH pavate kR^itvyo raso mahAnadabdho varuNo hurugyate
+RV_09.077.05.2{02}  asAvi mitro vR^ijaneShu yaj~niyo.atyo na yUthe vR^iShayuH kanikradat
+
+RV_09.078.01.1{03}  pra rAjA vAcaM janayannasiShyadadapo vasAno abhi gA iyakShati
+RV_09.078.01.2{03}  gR^ibhNAti ripramavirasya tAnvA shuddho devAnAmupa yAti niShkR^itam
+RV_09.078.02.1{03}  indrAya soma pari Shicyase nR^ibhirnR^icakShA UrmiH kavirajyase vane
+RV_09.078.02.2{03}  pUrvIrhi te srutayaH santi yAtave sahasramashvA harayashcamUShadaH
+RV_09.078.03.1{03}  samudriyA apsaraso manIShiNamAsInA antarabhi somamakSharan
+RV_09.078.03.2{03}  tA IM hinvanti harmyasya sakShaNiM yAcante sumnaM pavamAnamakShitam
+RV_09.078.04.1{03}  gojin naH somo rathajid dhiraNyajit svarjidabjit pavate sahasrajit
+RV_09.078.04.2{03}  yaM devAsashcakrire pItaye madaM svAdiShThaM drapsamaruNaM mayobhuvam
+RV_09.078.05.1{03}  etAni soma pavamAno asmayuH satyAni kR^iNvan draviNAnyarShasi
+RV_09.078.05.2{03}  jahi shatrumantike dUrake ca ya urvIM gavyUtimabhayaM ca nas kR^idhi
+
+RV_09.079.01.1{04}  acodaso no dhanvantvindavaH pra suvAnAso bR^ihaddiveShu harayaH
+RV_09.079.01.2{04}  vi ca nashan na iSho arAtayo.aryo nashanta saniShanta no dhiyaH
+RV_09.079.02.1{04}  pra No dhanvantvindavo madacyuto dhanA vA yebhirarvato junImasi
+RV_09.079.02.2{04}  tiro martasya kasya cit parihvR^itiM vayaM dhanAni vishvadhA bharemahi
+RV_09.079.03.1{04}  uta svasyA arAtyA arirhi Sha utAnyasyA arAtyA vR^iko hi ShaH
+RV_09.079.03.2{04}  dhanvan na tR^iShNA samarIta tAnabhi soma jahipavamAna durAdhyaH
+RV_09.079.04.1{04}  divi te nAbhA paramo ya Adade pR^ithivyAste ruruhuH sAnavikShipaH
+RV_09.079.04.2{04}  adrayastvA bapsati goradhi tvacyapsu tvA hastairduduhurmanIShiNaH
+RV_09.079.05.1{04}  evA ta indo subhvaM supeshasaM rasaM tu§janti prathamA abhishriyaH
+RV_09.079.05.2{04}  nidaM-nidaM pavamAna ni tAriSha Aviste shuShmo bhavatu priyo madaH
+
+RV_09.080.01.1{05}  somasya dhArA pavate nR^icakShasa R^itena devAn havate divas pari
+RV_09.080.01.2{05}  bR^ihaspate ravathenA vi didyute samudrAso na savanAni vivyacuH
+RV_09.080.02.1{05}  yaM tvA vAjinnaghnyA abhyanUShatAyohataM yonimA rohasi dyumAn
+RV_09.080.02.2{05}  maghonAmAyuH pratiran mahi shrava indrAya somapavase vR^iShA madaH
+RV_09.080.03.1{05}  endrasya kukShA pavate madintama UrjaM vasAnaH shravase sumaN^galaH
+RV_09.080.03.2{05}  pratyaM sa vishvA bhuvanAbhi paprathe krI an hariratyaH syandate vR^iShA
+RV_09.080.04.1{05}  taM tvA devebhyo madhumattamaM naraH sahasradhAraM duhate dasha kShipaH
+RV_09.080.04.2{05}  nR^ibhiH soma pracyuto grAvabhiH suto vishvAndevAnA pavasvA sahasrajit
+RV_09.080.05.1{05}  taM tvA hastino madhumantamadribhirduhantyapsu vR^iShabhandasha kShipaH
+RV_09.080.05.2{05}  indraM soma mAdayan daivyaM janaM sindhorivormiH pavamAno arShasi
+
+RV_09.081.01.1{06}  pra somasya pavamAnasyormaya indrasya yanti jaTharaM supeshasaH
+RV_09.081.01.2{06}  dadhnA yadImunnItA yashasA gavAM dAnAya shUramudamandiShuH sutAH
+RV_09.081.02.1{06}  achA hi somaH kalashAnasiShyadadatyo na vo hA raghuvartanirvR^iShA
+RV_09.081.02.2{06}  athA devAnAmubhayasya janmano vidvAnashnotyamuta itashca yat
+RV_09.081.03.1{06}  A naH soma pavamAnaH kirA vasvindo bhava maghavA rAdhaso mahaH
+RV_09.081.03.2{06}  shikShA vayodho vasave su cetunA mA no gayamAre asmat parA sicaH
+RV_09.081.04.1{06}  A naH pUShA pavamAnaH surAtayo mitro gachantu varuNaH sajoShasaH
+RV_09.081.04.2{06}  bR^ihaspatirmaruto vAyurashvinA tvaShTA savitA suyamA sarasvatI
+RV_09.081.05.1{06}  ubhe dyAvApR^ithivI vishvaminve aryamA devo aditirvidhAtA
+RV_09.081.05.2{06}  bhago nR^ishaMsa urvantarikShaM vishve devAH pavamAnaJNjuShanta
+
+RV_09.082.01.1{07}  asAvi somo aruSho vR^iShA harI rAjeva dasmo abhi gA acikradat
+RV_09.082.01.2{07}  punAno vAraM paryetyavyayaM shyeno na yoniM ghR^itavantamAsadam
+RV_09.082.02.1{07}  kavirvedhasyA paryeShi mAhinamatyo na mR^iShTo abhi vAjamarShasi
+RV_09.082.02.2{07}  apasedhan duritA soma mR^i aya ghR^itaM vasAnaH pariyAsi nirNijam
+RV_09.082.03.1{07}  parjanyaH pitA mahiShasya parNino nAbhA pR^ithivyA giriShukShayaM dadhe
+RV_09.082.03.2{07}  svasAra Apo abhi gA utAsaran saM grAvabhirnasate vIte adhvare
+RV_09.082.04.1{07}  jAyeva patyAvadhi sheva maMhase pajrAyA garbha shR^iNuhi bravImi te
+RV_09.082.04.2{07}  antarvANIShu pra carA su jIvase.anindyo vR^ijane soma jAgR^ihi
+RV_09.082.05.1{07}  yathA pUrvebhyaH shatasA amR^idhraH sahasrasAH paryayA vAjamindo
+RV_09.082.05.2{07}  evA pavasva suvitAya navyase tava vratamanvApaH sacante
+
+RV_09.083.01.1{08}  pavitraM te vitataM brahmaNas pate prabhurgAtrANi paryeShivishvataH
+RV_09.083.01.2{08}  ataptatanUrna tadAmo ashnute shR^itAsa id vahantastat samAshata
+RV_09.083.02.1{08}  tapoSh pavitraM vitataM divas pade shocanto asya tantavo vyasthiran
+RV_09.083.02.2{08}  avantyasya pavItAramAshavo divas pR^iShThamadhitiShThanti cetasA
+RV_09.083.03.1{08}  arUrucaduShasaH pR^ishniragriya ukShA bibharti bhuvanAni vAjayuH
+RV_09.083.03.2{08}  mAyAvino mamire asya mAyayA nR^icakShasaH pitaro garbhamA dadhuH
+RV_09.083.04.1{08}  gandharva itthA padamasya rakShati pAti devAnAM janimAnyadbhutaH
+RV_09.083.04.2{08}  gR^ibhNAti ripuM nidhayA nidhApatiH sukR^ittamA madhuno bhakShamAshata
+RV_09.083.05.1{08}  havirhaviShmo mahi sadma daivyaM nabho vasAnaH pari yAsyadhvaram
+RV_09.083.05.2{08}  rAjA pavitraratho vAjamAruhaH sahasrabhR^iShTirjayasi shravo bR^ihat
+
+RV_09.084.01.1{09}  pavasva devamAdano vicarShaNirapsA indrAya varuNAya vAyave
+RV_09.084.01.2{09}  kR^idhI no adya varivaH svastimadurukShitau gR^iNIhi daivyaM janam
+RV_09.084.02.1{09}  A yastasthau bhuvanAnyamartyo vishvAni somaH pari tAnyarShati
+RV_09.084.02.2{09}  kR^iNvan saMcR^itaM vicR^itamabhiShTaya induH siShaktyuShasaM na sUryaH
+RV_09.084.03.1{09}  A yo gobhiH sR^ijyata oShadhIShvA devAnAM sumna iShayannupAvasuH
+RV_09.084.03.2{09}  A vidyutA pavate dhArayA suta indraM somo mAdayan daivyaM janam
+RV_09.084.04.1{09}  eSha sya somaH pavate sahasrajid dhinvAno vAcamiShirAmuSharbudham
+RV_09.084.04.2{09}  induH samudramudiyarti vAyubhirendrasya hArdikalasheShu sIdati
+RV_09.084.05.1{09}  abhi tyaM gAvaH payasA payovR^idhaM somaM shrINanti matibhiH svarvidam
+RV_09.084.05.2{09}  dhanaJNjayaH pavate kR^itvyo raso vipraH kaviHkAvyenA svarcanAH
+
+RV_09.085.01.1{10}  indrAya soma suShutaH pari sravApAmIvA bhavatu rakShasA saha
+RV_09.085.01.2{10}  mA te rasasya matsata dvayAvino draviNasvanta iha santvindavaH
+RV_09.085.02.1{10}  asmAn samarye pavamAna codaya dakSho devAnAmasi hi priyo madaH
+RV_09.085.02.2{10}  jahi shatrUnrabhyA bhandanAyataH pibendra somamava no mR^idho jahi
+RV_09.085.03.1{10}  adabdha indo pavase madintama Atmendrasya bhavasi dhAsiruttamaH
+RV_09.085.03.2{10}  abhi svaranti bahavo manIShiNo rAjAnamasya bhuvanasyaniMsate
+RV_09.085.04.1{10}  sahasraNIthaH shatadhAro adbhuta indrAyenduH pavate kAmyaM madhu
+RV_09.085.04.2{10}  jayan kShetramabhyarShA jayannapa uruM no gAtuM kR^iNu soma mIDhvaH
+RV_09.085.05.1{10}  kanikradat kalashe gobhirajyase vyavyayaM samayA vAramarShasi
+RV_09.085.05.2{10}  marmR^ijyamAno atyo na sAnasirindrasya soma jaThare samakSharaH
+RV_09.085.06.1{10}  svAduH pavasva divyAya janmane svAdurindrAya suhavItunAmne
+RV_09.085.06.2{10}  svAdurmitrAya varuNAya vAyave bR^ihaspataye madhumAnadAbhyaH
+RV_09.085.07.1{11}  atyaM mR^ijanti kalashe dasha kShipaH pra viprANAM matayo vAca Irate
+RV_09.085.07.2{11}  pavamAnA abhyarShanti suShTutimendraM vishantimadirAsa indavaH
+RV_09.085.08.1{11}  pavamAno abhyarShA suvIryamurvIM gavyUtiM mahi sharma saprathaH
+RV_09.085.08.2{11}  mAkirno asya pariShUtirIshatendo jayema tvayAdhanaM-dhanam
+RV_09.085.09.1{11}  adhi dyAmasthAd vR^iShabho vicakShaNo.arUrucad vi divo rocanA kaviH
+RV_09.085.09.2{11}  rAjA pavitramatyeti roruvad divaH pIyUShanduhate nR^icakShasaH
+RV_09.085.10.1{11}  divo nAke madhujihvA asashcato venA duhantyukShaNaM giriShThAm
+RV_09.085.10.2{11}  apsu drapsaM vAvR^idhAnaM samudra A sindhorUrmAmadhumantaM pavitra A
+RV_09.085.11.1{11}  nAke suparNamupapaptivAMsaM giro venAnAmakR^ipanta pUrvIH
+RV_09.085.11.2{11}  shishuM rihanti matayaH panipnataM hiraNyayaM shakunaM kShAmaNi sthAm
+RV_09.085.12.1{11}  Urdhvo gandharvo adhi nAke asthAd vishvA rUpA praticakShANo asya
+RV_09.085.12.2{11}  bhAnuH shukreNa shociShA vyadyaut prArUrucad rodasI mAtarA shuciH
+
+RV_09.086.01.1{12}  pra ta AshavaH pavamAna dhIjavo madA arShanti raghujA iva tmanA
+RV_09.086.01.2{12}  divyAH suparNA madhumanta indavo madintamAsaH pari koshamAsate
+RV_09.086.02.1{12}  pra te madAso madirAsa Ashavo.asR^ikShata rathyAso yathA pR^ithak
+RV_09.086.02.2{12}  dhenurna vatsaM payasAbhi vajriNamindramindavo madhumanta UrmayaH
+RV_09.086.03.1{12}  atyo na hiyAno abhi vAjamarSha svarvit koshaM divo adrimAtaram
+RV_09.086.03.2{12}  vR^iShA pavitre adhi sAno avyaye somaH punAna indriyAya dhAyase
+RV_09.086.04.1{12}  pra ta AshvinIH pavamAna dhIjuvo divyA asR^igran payasA dharImaNi
+RV_09.086.04.2{12}  prAntar{R^i}ShayaH sthAvirIrasR^ikShata ye tvA mR^ijanty R^iShiShANa vedhasaH
+RV_09.086.05.1{12}  vishvA dhAmAni vishvacakSha R^ibhvasaH prabhoste sataH pariyanti ketavaH
+RV_09.086.05.2{12}  vyAnashiH pavase soma dharmabhiH patirvishvasya bhuvanasya rAjasi
+RV_09.086.06.1{13}  ubhayataH pavamAnasya rashmayo dhruvasya sataH pari yanti ketavaH
+RV_09.086.06.2{13}  yadI pavitre adhi mR^ijyate hariH sattA ni yonA kalasheShu sIdati
+RV_09.086.07.1{13}  yaj~nasya ketuH pavate svadhvaraH somo devAnAmupa yAti niShkR^itam
+RV_09.086.07.2{13}  sahasradhAraH pari koshamarShati vR^iShA pavitramatyeti roruvat
+RV_09.086.08.1{13}  rAjA samudraM nadyo vi gAhate.apAmUrmiM sacate sindhuShu shritaH
+RV_09.086.08.2{13}  adhyasthAt sAnu pavamAno avyayaM nAbhA pR^ithivyA dharuNo maho divaH
+RV_09.086.09.1{13}  divo na sAnu stanayannacikradad dyaushca yasya pR^ithivI ca dharmabhiH
+RV_09.086.09.2{13}  indrasya sakhyaM pavate vivevidat somaH punAnaHkalasheShu sIdati
+RV_09.086.10.1{13}  jyotiryaj~nasya pavate madhu priyaM pitA devAnAM janitA vibhUvasuH
+RV_09.086.10.2{13}  dadhAti ratnaM svadhayorapIcyaM madintamo matsara indriyo rasaH
+RV_09.086.11.1{14}  abhikrandan kalashaM vAjyarShati patirdivaH shatadhAro vicakShaNaH
+RV_09.086.11.2{14}  harirmitrasya sadaneShu sIdati marmR^ijAno.avibhiHsindhubhirvR^iShA
+RV_09.086.12.1{14}  agre sindhUnAM pavamAno arShatyagre vAco agriyo goShu gachati
+RV_09.086.12.2{14}  agre vAjasya bhajate mahAdhanaM svAyudhaH sotR^ibhiH pUyate vR^iShA
+RV_09.086.13.1{14}  ayaM matavA§chakuno yathA hito.avye sasAra pavamAna UrmiNA
+RV_09.086.13.2{14}  tava kratvA rodasI antarA kave shucirdhiyA pavate soma indra te
+RV_09.086.14.1{14}  drApiM vasAno yajato divispR^ishamantarikShaprA bhuvaneShvarpitaH
+RV_09.086.14.2{14}  svarjaj~nAno nabhasAbhyakramIt pratnamasya pitaramA vivAsati
+RV_09.086.15.1{14}  so asya vishe mahi sharma yachati yo asya dhAma prathamaM vyAnashe
+RV_09.086.15.2{14}  padaM yadasya parame vyomanyato vishvA abhi saMyAti saMyataH
+RV_09.086.16.1{15}  pro ayAsIdindurindrasya niShkR^itaM sakhA sakhyurna pra minAti saMgiram
+RV_09.086.16.2{15}  marya iva yuvatibhiH samarShati somaH kalashe shatayAmnA pathA
+RV_09.086.17.1{15}  pra vo dhiyo mandrayuvo vipanyuvaH panasyuvaH saMvasaneShvakramuH
+RV_09.086.17.2{15}  somaM manIShA abhyanUShata stubho.abhi dhenavaH payasemashishrayuH
+RV_09.086.18.1{15}  A naH soma saMyataM pipyushImiShamindo pavasva pavamAnoasridham
+RV_09.086.18.2{15}  yA no dohate trirahannasashcuShI kShumad vAjavan madhumad suvIryam
+RV_09.086.19.1{15}  vR^iShA matInAM pavate vicakShaNaH somo ahnaH pratarItoShaso divaH
+RV_09.086.19.2{15}  krANA sindhUnAM kalashAnavIvashadindrasya hArdyAvishan manIShibhiH
+RV_09.086.20.1{15}  manIShibhiH pavate pUrvyaH kavirnR^ibhiryataH pari koshAnacikradat
+RV_09.086.20.2{15}  tritasya nAma janayan madhu kSharadindrasya vAyoH sakhyAya kartave
+RV_09.086.21.1{16}  ayaM punAna uShaso vi rocayadayaM sindhubhyo abhavadu lokakR^it
+RV_09.086.21.2{16}  ayaM triH sapta duduhAna AshiraM somo hR^ide pavate cAru matsaraH
+RV_09.086.22.1{16}  pavasva soma divyeShu dhAmasu sR^ijAna indo kalashe pavitra A
+RV_09.086.22.2{16}  sIdannindrasya jaThare kanikradan nR^ibhiryataH sUryamArohayo divi
+RV_09.086.23.1{16}  adribhiH sutaH pavase pavitra A indavindrasya jaThareShvAvishan
+RV_09.086.23.2{16}  tvaM nR^icakShA abhavo vicakShaNa soma gotramaN^girobhyo.avR^iNorapa
+RV_09.086.24.1{16}  tvAM soma pavamAnaM svAdhyo.anu viprAso amadannavasyavaH
+RV_09.086.24.2{16}  tvAM suparNa Abharad divas parIndo vishvAbhirmatibhiH pariShkR^itam
+RV_09.086.25.1{16}  avye punAnaM pari vAra UrmiNA hariM navante abhi sapta dhenavaH
+RV_09.086.25.2{16}  apAmupasthe adhyAyavaH kaviM R^itasya yonA mahiShA aheShata
+RV_09.086.26.1{17}  induH punAno ati gAhate mR^idho vishvAni kR^iNvan supathAni yajyave
+RV_09.086.26.2{17}  gAH kR^iNvAno nirNijaM haryataH kaviratyo na krI an pari vAramarShati
+RV_09.086.27.1{17}  asashcataH shatadhArA abhishriyo hariM navante.ava tA udanyuvaH
+RV_09.086.27.2{17}  kShipo mR^ijanti pari gobhirAvR^itaM tR^itIye pR^iShThe adhi rocane divaH
+RV_09.086.28.1{17}  tavemAH prajA divyasya retasastvaM vishvasya bhuvanasya rAjasi
+RV_09.086.28.2{17}  athedaM vishvaM pavamAna te vashe tvamindo prathamodhAmadhA asi
+RV_09.086.29.1{17}  tvaM samudro asi vishvavit kave tavemAH pa§ca pradisho vidharmaNi
+RV_09.086.29.2{17}  tvaM dyAM ca pR^ithivIM cAti jabhriShe tava jyotIMShi pavamAna sUryaH
+RV_09.086.30.1{17}  tvaM pavitre rajaso vidharmaNi devebhyaH soma pavamAna pUyase
+RV_09.086.30.2{17}  tvAmushijaH prathamA agR^ibhNata tubhyemA vishvA bhuvanAni yemire
+RV_09.086.31.1{18}  pra rebha etyati vAramavyayaM vR^iShA vaneShvava cakradaddhariH
+RV_09.086.31.2{18}  saM dhItayo vAvashAnA anUShata shishuM rihanti matayaH panipnatam
+RV_09.086.32.1{18}  sa sUryasya rashmibhiH pari vyata tantuM tanvAnastrivR^itaMyathA vide
+RV_09.086.32.2{18}  nayannR^itasya prashiSho navIyasIH patirjanInAmupa yAti niShkR^itam
+RV_09.086.33.1{18}  rAjA sindhUnAM pavate patirdiva R^itasya yAti pathibhiH kanikradat
+RV_09.086.33.2{18}  sahasradhAraH pari Shicyate hariH punAno vAcaM janayannupAvasuH
+RV_09.086.34.1{18}  pavamAna mahyarNo vi dhAvasi sUro na citro avyayAni pavyayA
+RV_09.086.34.2{18}  gabhastipUto nR^ibhiradribhiH suto mahe vAjAya dhanyAya dhanvasi
+RV_09.086.35.1{18}  iShamUrjaM pavamAnAbhyarShasi shyeno na vaMsu kalasheShusIdasi
+RV_09.086.35.2{18}  indrAya madvA madyo madaH suto divo viShTambha upamo vicakShaNaH
+RV_09.086.36.1{19}  sapta svasAro abhi mAtaraH shishuM navaM jaj~nAnaM jenyaM vipashcitam
+RV_09.086.36.2{19}  apAM gandharvaM divyaM nR^icakShasaM somaMvishvasya bhuvanasya rAjase
+RV_09.086.37.1{19}  IshAna imA bhuvanAni vIyase yujAna indo haritaH suparNyaH
+RV_09.086.37.2{19}  tAste kSharantu madhumad ghR^itaM payastava vrate soma tiShThantu kR^iShTayaH
+RV_09.086.38.1{19}  tvaM nR^icakShA asi soma vishvataH pavamAna vR^iShabha tA vi dhAvasi
+RV_09.086.38.2{19}  sa naH pavasva vasumad dhiraNyavad vayaM syAma bhuvaneShu jIvase
+RV_09.086.39.1{19}  govit pavasva vasuvid dhiraNyavid retodhA indo bhuvaneShvarpitaH
+RV_09.086.39.2{19}  tvaM suvIro asi soma vishvavit taM tvA viprA upa girema Asate
+RV_09.086.40.1{19}  un madhva UrmirvananA atiShThipadapo vasAno mahiSho vi gAhate
+RV_09.086.40.2{19}  rAjA pavitraratho vAjamAruhat sahasrabhR^iShTirjayati shravo bR^ihat
+RV_09.086.41.1{20}  sa bhandanA udiyarti prajAvatIrvishvAyurvishvAH subharA ahardivi
+RV_09.086.41.2{20}  brahma prajAvad rayimashvapastyaM pIta indavindramasmabhyaM yAcatAt
+RV_09.086.42.1{20}  so agre ahnAM harirharyato madaH pra cetasA cetayate anudyubhiH
+RV_09.086.42.2{20}  dvA janA yAtayannantarIyate narA ca shaMsaM daivyaM ca dhartari
+RV_09.086.43.1{20}  a§jate vya§jate sama§jate kratuM rihanti madhunAbhya§jate
+RV_09.086.43.2{20}  sindhorucchvAse patayantamukShaNaM hiraNyapAvAH pashumAsu gR^ibhNate
+RV_09.086.44.1{20}  vipashcite pavamAnAya gAyata mahI na dhArAtyandho arShati
+RV_09.086.44.2{20}  ahirna jUrNAmati sarpati tvacamatyo na krI annasarad vR^iShA hariH
+RV_09.086.45.1{20}  agrego rAjApyastaviShyate vimAno ahnAM bhuvaneShvarpitaH
+RV_09.086.45.2{20}  harirghR^itasnuH sudR^ishIko arNavo jyotIrathaH pavate rAya okyaH
+RV_09.086.46.1{21}  asarji skambho diva udyato madaH pari tridhAturbhuvanAnyarShati
+RV_09.086.46.2{21}  aMshuM rihanti matayaH panipnataM girA yadi nirNijaM R^igmiNo yayuH
+RV_09.086.47.1{21}  pra te dhArA atyaNvAni meShyaH punAnasya saMyato yantiraMhayaH
+RV_09.086.47.2{21}  yad gobhirindo camvoH samajyasa A suvAnaH soma kalasheShu sIdasi
+RV_09.086.48.1{21}  pavasva soma kratuvin na ukthyo.avyo vAre pari dhAva madhu priyam
+RV_09.086.48.2{21}  jahi vishvAn rakShasa indo atriNo bR^ihad vadema vidathesuvIrAH
+
+RV_09.087.01.1{22}  pra tu drava pari koshaM ni ShIda nR^ibhiH punAno abhi vAjamarSha
+RV_09.087.01.2{22}  ashvaM na tvA vAjinaM marjayanto.achA barhI rashanAbhirnayanti
+RV_09.087.02.1{22}  svAyudhaH pavate deva indurashastihA vR^ijanaM rakShamANaH
+RV_09.087.02.2{22}  pitA devAnAM janitA sudakSho viShTambho divo dharuNaH pR^ithivyAH
+RV_09.087.03.1{22}  R^iShirvipraH puraetA janAnAM R^ibhurdhIra ushanA kAvyena
+RV_09.087.03.2{22}  sa cid viveda nihitaM yadAsAmapIcyaM guhyaM nAma gonAm
+RV_09.087.04.1{22}  eSha sya te madhumAnindra somo vR^iShA vR^iShNe pari pavitre akShAH
+RV_09.087.04.2{22}  sahasrasAH shatasA bhUridAvA shashvattamaM barhirA vAjyasthAt
+RV_09.087.05.1{22}  ete somA abhi gavyA sahasrA mahe vAjAyAmR^itAya shravAMsi
+RV_09.087.05.2{22}  pavitrebhiH pavamAnA asR^igra§chravasyavo na pR^itanAjo atyAH
+RV_09.087.06.1{23}  pari hi ShmA puruhUto janAnAM vishvAsarad bhojanA pUyamAnaH
+RV_09.087.06.2{23}  athA bhara shyenabhR^ita prayAMsi rayiM tu§jAno abhi vAjamarSha
+RV_09.087.07.1{23}  eSha suvAnaH pari somaH pavitre sargo na sR^iShTo adadhAvadarvA
+RV_09.087.07.2{23}  tigme shishAno mahiSho na shR^iN^ge gA gavyannabhishUro na satvA
+RV_09.087.08.1{23}  eShA yayau paramAdantaradreH kUcit satIrUrve gA viveda
+RV_09.087.08.2{23}  divo na vidyut stanayantyabhraiH somasya te pavata indradhArA
+RV_09.087.09.1{23}  uta sma rAshiM pari yAsi gonAmindreNa soma sarathaM punAnaH
+RV_09.087.09.2{23}  pUrvIriSho bR^ihatIrjIradAno shikShA shacIvastava tA upaShTut
+
+RV_09.088.01.1{24}  ayaM soma indra tubhyaM sunve tubhyaM pavate tvamasya pAhi
+RV_09.088.01.2{24}  tvaM ha yaM cakR^iShe tvaM vavR^iSha induM madAya yujyAya somam
+RV_09.088.02.1{24}  sa IM ratho na bhuriShA  ayoji mahaH purUNi sAtaye vasUni
+RV_09.088.02.2{24}  AdIM vishvA nahuShyANi jAtA svarShAtA vana UrdhvA navanta
+RV_09.088.03.1{24}  vAyurna yo niyutvAniShTayAmA nAsatyeva hava A shambhaviShThaH
+RV_09.088.03.2{24}  vishvavAro draviNodA iva tman pUSheva dhIjavano.asi soma
+RV_09.088.04.1{24}  indro na yo mahA karmANi cakrirhantA vR^itrANAmasi somapUrbhit
+RV_09.088.04.2{24}  paidvo na hi tvamahinAmnAM hantA vishvasyAsisoma dasyoH
+RV_09.088.05.1{24}  agnirna yo vana A sR^ijyamAno vR^ithA pAjAMsi kR^iNute nadIShu
+RV_09.088.05.2{24}  jano na yudhvA mahata upabdiriyarti somaH pavamAnaUrmim
+RV_09.088.06.1{24}  ete somA ati vArANyavyA divyA na koshAso abhravarShAH
+RV_09.088.06.2{24}  vR^ithA samudraM sindhavo na nIcIH sutAso abhi kalashAnasR^igran
+RV_09.088.07.1{24}  shuShmI shardho na mArutaM pavasvAnabhishastA divyA yathAviT
+RV_09.088.07.2{24}  Apo na makShU sumatirbhavA naH sahasrApsAH pR^itanAShAN na yaj~naH
+RV_09.088.08.1{24}  rAj~no nu te varuNasya vratAni ...
+
+RV_09.089.01.1{25}  pro sya vahniH pathyAbhirasyAn divo na vR^iShTiH pavamAnoakShAH
+RV_09.089.01.2{25}  sahasradhAro asadan nyasme mAturupasthe vana Aca somaH
+RV_09.089.02.1{25}  rAjA sindhUnAmavasiShTa vAsa R^itasya nAvamAruhad rajiShThAm
+RV_09.089.02.2{25}  apsu drapso vAvR^idhe shyenajUto duha IM pitA duha IM piturjAm
+RV_09.089.03.1{25}  siMhaM nasanta madhvo ayAsaM harimaruShaM divo asya patim
+RV_09.089.03.2{25}  shUro yutsu prathamaH pR^ichate gA asya cakShasA pari pAtyukShA
+RV_09.089.04.1{25}  madhupR^iShThaM ghoramayAsamashvaM rathe yu§jantyurucakraR^iShvam
+RV_09.089.04.2{25}  svasAra IM jAmayo marjayanti sanAbhayo vAjinamUrjayanti
+RV_09.089.05.1{25}  catasra IM ghR^itaduhaH sacante samAne antardharuNe niShattAH
+RV_09.089.05.2{25}  tA ImarShanti namasA punAnAstA IM vishvataH pari Shanti pUrvIH
+RV_09.089.06.1{25}  viShTambho divo dharuNaH pR^ithivyA vishvA uta kShitayo haste asya
+RV_09.089.06.2{25}  asat ta utso gR^iNate niyutvAn madhvo aMshuH pavataindriyAya
+RV_09.089.07.1{25}  vanvannavAto abhi devavItimindrAya soma vR^itrahA pavasva
+RV_09.089.07.2{25}  shagdhi mahaH purushcandrasya rAyaH suvIryasya patayaH syAma
+
+RV_09.090.01.1{26}  pra hinvAno janitA rodasyo ratho na vAjaM saniShyannayAsIt
+RV_09.090.01.2{26}  indraM gachannAyudhA saMshishAno vishvA vasu hastayorAdadhAnaH
+RV_09.090.02.1{26}  abhi tripR^iShThaM vR^iShaNaM vayodhAmAN^gUShANAmavAvashanta vANIH
+RV_09.090.02.2{26}  vanA vasAno varuNo na sindhUn vi ratnadhA dayate vAryANi
+RV_09.090.03.1{26}  shUragrAmaH sarvavIraH sahAvA§ jetA pavasva sanitA dhanAni
+RV_09.090.03.2{26}  tigmAyudhaH kShipradhanvA samatsvaShA haH sAhvAnpR^itanAsu shatrUn
+RV_09.090.04.1{26}  urugavyUtirabhayAni kR^iNvan samIcIne A pavasvA purandhI
+RV_09.090.04.2{26}  apaH siShAsannuShasaH svargAH saM cikrado maho asmabhyaM vAjAn
+RV_09.090.05.1{26}  matsi soma varuNaM matsi mitraM matsIndramindo pavamAna viShNum
+RV_09.090.05.2{26}  matsi shardho mArutaM matsi devAn matsi mahAmindramindo madAya
+RV_09.090.06.1{26}  evA rAjeva kratumAnamena vishvA ghanighnad duritA pavasva
+RV_09.090.06.2{26}  indo sUktAya vacase vayo dhA yUyaM pAta svastibhiH sadA naH
+
+RV_09.091.01.1{01}  asarji vakvA rathye yathAjau dhiyA manotA prathamo manIShI
+RV_09.091.01.2{01}  dasha svasAro adhi sAno avye.ajanti vahniM sadanAnyacha
+RV_09.091.02.1{01}  vItI janasya divyasya kavyairadhi suvAno nahuShyebhirinduH
+RV_09.091.02.2{01}  pra yo nR^ibhiramR^ito martyebhirmarmR^ijAno.avibhirgobhiradbhiH
+RV_09.091.03.1{01}  vR^iShA vR^iShne roruvadaMshurasmai pavamAno rushadIrte payogoH
+RV_09.091.03.2{01}  sahasraM R^ikvA pathibhirvacovidadhvasmabhiH sUro aNvaM vi yAti
+RV_09.091.04.1{01}  rujA dR^i hA cid rakShasaH sadAMsi punAna inda UrNuhi vivAjAn
+RV_09.091.04.2{01}  vR^ishcopariShTAt tujatA vadhena ye anti dUrAdupanAyameShAm
+RV_09.091.05.1{01}  sa pratnavan navyase vishvavAra sUktAya pathaH kR^iNuhi prAcaH
+RV_09.091.05.2{01}  ye duHShahAso vanuShA bR^ihantastAMste ashyAma purukR^it purukSho
+RV_09.091.06.1{01}  evA punAno apaH svargA asmabhyaM tokA tanayAni bhUri
+RV_09.091.06.2{01}  shaM naH kShetramuru jyotIMShi soma jyoM naH sUryandR^ishaye rirIhi
+
+RV_09.092.01.1{02}  pari suvAno hariraMshuH pavitre ratho na sarji sanaye hiyAnaH
+RV_09.092.01.2{02}  ApacchlokamindriyaM pUyamAnaH prati devAnajuShata prayobhiH
+RV_09.092.02.1{02}  achA nR^icakShA asarat pavitre nAma dadhAnaH kavirasya yonau
+RV_09.092.02.2{02}  sIdan hoteva sadane camUShUpemagmannR^iShayaH sapta viprAH
+RV_09.092.03.1{02}  pra sumedhA gAtuvid vishvadevaH somaH punAnaH sada eti nityam
+RV_09.092.03.2{02}  bhuvad vishveShu kAvyeShu rantAnu janAn yatate pa§ca dhIraH
+RV_09.092.04.1{02}  tava tye soma pavamAna niNye vishve devAstraya ekAdashAsaH
+RV_09.092.04.2{02}  dasha svadhAbhiradhi sAno avye mR^ijanti tvA nadyaH sapta yahvIH
+RV_09.092.05.1{02}  tan nu satyaM pavamAnasyAstu yatra vishve kAravaH saMnasanta
+RV_09.092.05.2{02}  jyotiryadahne akR^iNodu lokaM prAvan manuM dasyave karabhIkam
+RV_09.092.06.1{02}  pari sadmeva pashumAnti hotA rAjA na satyaH samitIriyAnaH
+RV_09.092.06.2{02}  somaH punAnaH kalashAnayAsIt sIdan mR^igo na mahiSho vaneShu
+
+RV_09.093.01.1{03}  sAkamukSho marjayanta svasAro dasha dhIrasya dhItayo dhanutrIH
+RV_09.093.01.2{03}  hariH paryadravajjAH sUryasya droNaM nanakShe atyo na vAjI
+RV_09.093.02.1{03}  saM mAtR^ibhirna shishurvAvashAno vR^iShA dadhanve puruvAroadbhiH
+RV_09.093.02.2{03}  maryo na yoShAmabhi niShkR^itaM yan saM gachate kalasha usriyAbhiH
+RV_09.093.03.1{03}  uta pra pipya UdharaghnyAyA indurdhArAbhiH sacate sumedhAH
+RV_09.093.03.2{03}  mUrdhAnaM gAvaH payasA camUShvabhi shrINanti vasubhirna niktaiH
+RV_09.093.04.1{03}  sa no devebhiH pavamAna radendo rayimashvinaM vAvashAnaH
+RV_09.093.04.2{03}  rathirAyatAmushatI purandhirasmadryagA dAvane vasUnAm
+RV_09.093.05.1{03}  nU no rayimupa mAsva nR^ivantaM punAno vAtApyaM vishvashcandram
+RV_09.093.05.2{03}  pra vanditurindo tAryAyuH prAtarmakShU dhiyAvasurjagamyAt
+
+RV_09.094.01.1{04}  adhi yadasmin vAjinIva shubha spardhante dhiyaH sUrye navishaH
+RV_09.094.01.2{04}  apo vR^iNAnaH pavate kavIyan vrajaM na pashuvardhanAya manma
+RV_09.094.02.1{04}  dvitA vyUrNvannamR^itasya dhAma svarvide bhuvanAni prathanta
+RV_09.094.02.2{04}  dhiyaH pinvAnAH svasare na gAva R^itAyantIrabhi vAvashra indum
+RV_09.094.03.1{04}  pari yat kaviH kAvyA bharate shUro na ratho bhuvanAni vishvA
+RV_09.094.03.2{04}  deveShu yasho martAya bhUShan dakShAya rAyaH purubhUShu navyaH
+RV_09.094.04.1{04}  shriye jAtaH shriya A niriyAya shriyaM vayo jaritR^ibhyo dadhAti
+RV_09.094.04.2{04}  shriyaM vasAnA amR^itatvamAyan bhavanti satyA samithA mitadrau
+RV_09.094.05.1{04}  iShamUrjamabhyarShAshvaM gAmuru jyotiH kR^iNuhi matsi devAn
+RV_09.094.05.2{04}  vishvAni hi suShahA tAni tubhyaM pavamAna bAdhasesoma shatrUn
+
+RV_09.095.01.1{05}  kanikranti harirA sR^ijyamAnaH sIdan vanasya jaThare punAnaH
+RV_09.095.01.2{05}  nR^ibhiryataH kR^iNute nirNijaM gA ato matIrjanayatasvadhAbhiH
+RV_09.095.02.1{05}  hariH sR^ijAnaH pathyAM R^itasyeyarti vAcamariteva nAvam
+RV_09.095.02.2{05}  devo devAnAM guhyAni nAmAviSh kR^iNoti barhiShi pravAce
+RV_09.095.03.1{05}  apAmivedUrmayastarturANAH pra manIShA Irate somamacha
+RV_09.095.03.2{05}  namasyantIrupa ca yanti saM cA ca vishantyushatIrushantam
+RV_09.095.04.1{05}  taM marmR^ijAnaM mahiShaM na sAnAvaMshuM duhantyukShaNaM giriShThAm
+RV_09.095.04.2{05}  taM vAvashAnaM matayaH sacante trito bibharti varuNaM samudre
+RV_09.095.05.1{05}  iShyan vAcamupavakteva hotuH punAna indo vi ShyA manIShAm
+RV_09.095.05.2{05}  indrashca yat kShayathaH saubhagAya suvIryasya patayaHsyAma
+
+RV_09.096.01.1{06}  pra senAnIH shUro agre rathAnAM gavyanneti harShate asya senA
+RV_09.096.01.2{06}  bhadrAn kR^iNvannindrahavAn sakhibhya A somo vastrA rabhasAni datte
+RV_09.096.02.1{06}  samasya hariM harayo mR^ijantyashvahayairanishitaM namobhiH
+RV_09.096.02.2{06}  A tiShThati rathamindrasya sakhA vidvAnenA sumatiM yAtyacha
+RV_09.096.03.1{06}  sa no deva devatAte pavasva mahe soma psarasa indrapAnaH
+RV_09.096.03.2{06}  kR^iNvannapo varShayan dyAmutemAmurorA no varivasyA punAnaH
+RV_09.096.04.1{06}  ajItaye.ahataye pavasva svastaye sarvatAtaye bR^ihate
+RV_09.096.04.2{06}  tadushanti vishva ime sakhAyastadahaM vashmi pavamAna soma
+RV_09.096.05.1{06}  somaH pavate janitA matInAM janitA divo janitA pR^ithivyAH
+RV_09.096.05.2{06}  janitAgnerjanitA sUryasya janitendrasya janitota viShNoH
+RV_09.096.06.1{07}  brahmA devAnAM padavIH kavInAM R^iShirviprANAM mahiShomR^igANAm
+RV_09.096.06.2{07}  shyeno gR^idhrANAM svadhitirvanAnAM somaH pavitramatyeti rebhan
+RV_09.096.07.1{07}  prAvIvipad vAca UrmiM na sindhurgiraH somaH pavamAnomanIShAH
+RV_09.096.07.2{07}  antaH pashyan vR^ijanemAvarANyA tiShThati vR^iShabho goShu jAnan
+RV_09.096.08.1{07}  sa matsaraH pR^itsu vanvannavAtaH sahasraretA abhi vAjamarSha
+RV_09.096.08.2{07}  indrAyendo pavamAno manIShyaMshorUrmimIraya gA iShaNyan
+RV_09.096.09.1{07}  pari priyaH kalashe devavAta indrAya somo raNyo madAya
+RV_09.096.09.2{07}  sahasradhAraH shatavAja indurvAjI na saptiH samanA jigAti
+RV_09.096.10.1{07}  sa pUrvyo vasuvijjAyamAno mR^ijAno apsu duduhAno adrau
+RV_09.096.10.2{07}  abhishastipA bhuvanasya rAjA vidad gAtuM brahmaNe pUyamAnaH
+RV_09.096.11.1{08}  tvayA hi naH pitaraH soma pUrve karmANi cakruH pavamAnadhIrAH
+RV_09.096.11.2{08}  vanvannavAtaH paridhInraporNu vIrebhirashvairmaghavA bhavA naH
+RV_09.096.12.1{08}  yathApavathA manave vayodhA amitrahA varivovid dhaviShmAn
+RV_09.096.12.2{08}  evA pavasva draviNaM dadhAna indre saM tiShTha janayAyudhAni
+RV_09.096.13.1{08}  pavasva soma madhumAn R^itAvApo vasAno adhi sAno avye
+RV_09.096.13.2{08}  ava droNAni ghR^itavAnti sIda madintamo matsara indrapAnaH
+RV_09.096.14.1{08}  vR^iShTiM divaH shatadhAraH pavasva sahasrasA vAjayurdevavItau
+RV_09.096.14.2{08}  saM sindhubhiH kalashe vAvashAnaH samusriyAbhiHpratiran na AyuH
+RV_09.096.15.1{08}  eSha sya somo matibhiH punAno.atyo na vAjI taratIdarAtIH
+RV_09.096.15.2{08}  payo na dugdhamaditeriShiramurviva gAtuH suyamona vo: hA
+RV_09.096.16.1{09}  svAyudhaH sotR^ibhiH pUyamAno.abhyarSha guhyaM cAru nAma
+RV_09.096.16.2{09}  abhi vAjaM saptiriva shravasyAbhi vAyumabhi gA devasoma
+RV_09.096.17.1{09}  shishuM jaj~nAnaM haryataM mR^ijanti shumbhanti vahniM maruto gaNena
+RV_09.096.17.2{09}  kavirgIrbhiH kAvyenA kaviH san somaH pavitramatyeti rebhan
+RV_09.096.18.1{09}  R^iShimanA ya R^iShikR^it svarShAH sahasraNIthaH padavIH kavInAm
+RV_09.096.18.2{09}  tR^itIyaM dhAma mahiShaH siShAsan somo virAjamanurAjati ShTup
+RV_09.096.19.1{09}  camUShacchyenaH shakuno vibhR^itvA govindurdrapsa AyudhAnibibhrat
+RV_09.096.19.2{09}  apAmUrmiM sacamAnaH samudraM turIyaM dhAmamahiSho vivakti
+RV_09.096.20.1{09}  maryo na shubhrastanvaM mR^ijAno.atyo na sR^itvA sanaye dhanAnAm
+RV_09.096.20.2{09}  vR^iSheva yUthA pari koshamarShan kanikradaccamvorAvivesha
+RV_09.096.21.1{10}  pavasvendo pavamAno mahobhiH kanikradat pari vArANyarSha
+RV_09.096.21.2{10}  krI a§camvorA visha pUyamAna indraM te raso madiro mamattu
+RV_09.096.22.1{10}  prAsya dhArA bR^ihatIrasR^igrannakto gobhiH kalashAnA vivesha
+RV_09.096.22.2{10}  sAma kR^iNvan sAmanyo vipashcit krandannetyabhi sakhyurna jAmim
+RV_09.096.23.1{10}  apaghnanneShi pavamAna shatrUn priyAM na jAro abhigIta induH
+RV_09.096.23.2{10}  sIdan vaneShu shakuno na patvA somaH punAnaH kalasheShu sattA
+RV_09.096.24.1{10}  A te rucaH pavamAnasya soma yoSheva yanti sudughAH sudhArAH
+RV_09.096.24.2{10}  harirAnItaH puruvAro apsvacikradat kalashe devayUnAm
+
+RV_09.097.01.1{11}  asya preShA hemanA pUyamAno devo devebhiH samapR^ikta rasam
+RV_09.097.01.2{11}  sutaH pavitraM paryeti rebhan miteva sadma pashumAnti hotA
+RV_09.097.02.1{11}  bhadrA vastrA samanyA vasAno mahAn kavirnivacanAni shaMsan
+RV_09.097.02.2{11}  A vacyasva camvoH pUyamAno vicakShaNo jAgR^ivirdevavItau
+RV_09.097.03.1{11}  samu priyo mR^ijyate sAno avye yashastaro yashasAM kShaito asme
+RV_09.097.03.2{11}  abhi svara dhanvA pUyamAno yUyaM pAta svastibhiH sadA naH
+RV_09.097.04.1{11}  pra gAyatAbhyarcAma devAn somaM hinota mahate dhanAya
+RV_09.097.04.2{11}  svAduH pavAte ati vAramavyamA sIdAti kalashaM devayurnaH
+RV_09.097.05.1{11}  indurdevAnAmupa sakhyamAyan sahasradhAraH pavate madAya
+RV_09.097.05.2{11}  nR^ibhiH stavAno anu dhAma pUrvamagannindraM mahate saubhagAya
+RV_09.097.06.1{12}  stotre rAye harirarShA punAna indraM mado gachatu te bharAya
+RV_09.097.06.2{12}  devairyAhi sarathaM rAdho achA yUyaM pAta svastibhiH sadA naH
+RV_09.097.07.1{12}  pra kAvyamushaneva bruvANo devo devAnAM janimA vivakti
+RV_09.097.07.2{12}  mahivrataH shucibandhuH pAvakaH padA varAho abhyeti rebhan
+RV_09.097.08.1{12}  pra haMsAsastR^ipalaM manyumachAmAdastaM vR^iShagaNA ayAsuH
+RV_09.097.08.2{12}  AN^gUShyaM pavamAnaM sakhAyo durmarShaM sAkaM pravadanti vANam
+RV_09.097.09.1{12}  sa raMhata urugAyasya jUtiM vR^ithA krI antaM mimate na gAvaH
+RV_09.097.09.2{12}  parINasaM kR^iNute tigmashR^iN^go divA harirdadR^ishe naktaM R^ijraH
+RV_09.097.10.1{12}  indurvAjI pavate gonyoghA indre somaH saha invan madAya
+RV_09.097.10.2{12}  hanti rakSho bAdhate paryarAtIrvarivaH kR^iNvan vR^ijanasya rAjA
+RV_09.097.11.1{13}  adha dhArayA madhvA pR^icAnastiro roma pavate adridugdhaH
+RV_09.097.11.2{13}  indurindrasya sakhyaM juShANo devo devasya matsaro madAya
+RV_09.097.12.1{13}  abhi priyANi pavate punAno devo devAn svena rasena pR^i§can
+RV_09.097.12.2{13}  indurdharmANy R^ituthA vasAno dasha kShipo avyata sAno avye
+RV_09.097.13.1{13}  vR^iShA shoNo abhikanikradad gA nadayanneti pR^ithivImuta dyAm
+RV_09.097.13.2{13}  indrasyeva vagnurA shR^iNva Ajau pracetayannarShati vAcamemAm
+RV_09.097.14.1{13}  rasAyyaH payasA pinvamAna IrayanneShi madhumantamaMshum
+RV_09.097.14.2{13}  pavamAnaH santanimeShi kR^iNvannindrAya soma pariShicyamAnaH
+RV_09.097.15.1{13}  evA pavasva madiro madAyodagrAbhasya namayan vadhasnaiH
+RV_09.097.15.2{13}  pari varNaM bharamANo rushantaM gavyurno arSha pari soma siktaH
+RV_09.097.16.1{14}  juShTvI na indo supathA sugAnyurau pavasva varivAMsi kR^iNvan
+RV_09.097.16.2{14}  ghaneva viShvag duritAni vighnannadhi ShNunA dhanva sAno avye
+RV_09.097.17.1{14}  vR^iShTiM no arSha divyAM jigatnumi AvatIM shaMgayIM jIradAnum
+RV_09.097.17.2{14}  stukeva vItA dhanvA vicinvan bandhUnrimAnavarAnindo vAyUn
+RV_09.097.18.1{14}  granthiM na vi Shya grathitaM punAna R^ijuM ca gAtuM vR^ijinaM ca soma
+RV_09.097.18.2{14}  atyo na krado harirA sR^ijAno maryo deva dhanva pastyAvAn
+RV_09.097.19.1{14}  juShTo madAya devatAta indo pari ShNunA dhanva sAno avye
+RV_09.097.19.2{14}  sahasradhAraH surabhiradabdhaH pari srava vAjasAtau nR^iShahye
+RV_09.097.20.1{14}  arashmAno ye.arathA ayuktA atyAso na sasR^ijAnAsa Ajau
+RV_09.097.20.2{14}  ete shukrAso dhanvanti somA devAsastAnupa yAtA pibadhyai
+RV_09.097.21.1{15}  evA na indo abhi devavItiM pari srava nabho arNashcamUShu
+RV_09.097.21.2{15}  somo asmabhyaM kAmyaM bR^ihantaM rayiM dadAtu vIravantamugram
+RV_09.097.22.1{15}  takShad yadI manaso venato vAg jyeShThasya vA dharmaNi kShoranIke
+RV_09.097.22.2{15}  AdImAyan varamA vAvashAnA juShTaM patiM kalashe gAva indum
+RV_09.097.23.1{15}  pra dAnudo divyo dAnupinva R^itaM R^itAya pavate sumedhAH
+RV_09.097.23.2{15}  dharmA bhuvad vR^ijanyasya rAjA pra rashmibhirdashabhirbhAri bhUma
+RV_09.097.24.1{15}  pavitrebhiH pavamAno nR^icakShA rAjA devAnAmuta martyAnAm
+RV_09.097.24.2{15}  dvitA bhuvad rayipatI rayINAM R^itaM bharat subhR^itaM cArvinduH
+RV_09.097.25.1{15}  arvAniva shravase sAtimachendrasya vAyorabhi vItimarSha
+RV_09.097.25.2{15}  sa naH sahasrA bR^ihatIriSho dA bhavA soma draviNovit punAnaH
+RV_09.097.26.1{16}  devAvyo naH pariShicyamAnAH kShayaM suvIraM dhanvantu somAH
+RV_09.097.26.2{16}  AyajyavaH sumatiM vishvavArA hotAro na diviyajo mandratamAH
+RV_09.097.27.1{16}  evA deva devatAte pavasva mahe soma psarase devapAnaH
+RV_09.097.27.2{16}  mahashcid dhi Shmasi hitAH samarye kR^idhi suShThAne rodasI punAnaH
+RV_09.097.28.1{16}  ashvo no krado vR^iShabhiryujAnaH siMho na bhImo manaso javIyAn
+RV_09.097.28.2{16}  arvAcInaiH pathibhirye rajiShThA A pavasva saumanasaM na indo
+RV_09.097.29.1{16}  shataM dhArA devajAtA asR^igran sahasramenAH kavayo mR^ijanti
+RV_09.097.29.2{16}  indo sanitraM diva A pavasva puraetAsi mahato dhanasya
+RV_09.097.30.1{16}  divo na sargA asasR^igramahnAM rAjA na mitraM pra minAtidhIraH
+RV_09.097.30.2{16}  piturna putraH kratubhiryatAna A pavasva visheasyA ajItim
+RV_09.097.31.1{17}  pra te dhArA madhumatIrasR^igran vArAn yat pUto atyeShyavyAn
+RV_09.097.31.2{17}  pavamAna pavase dhAma gonAM jaj~nAnaH sUryamapinvo arkaiH
+RV_09.097.32.1{17}  kanikradadanu panthAM R^itasya shukro vi bhAsyamR^itasya dhAma
+RV_09.097.32.2{17}  sa indrAya pavase matsaravAn hinvAno vAcaM matibhiH kavInAm
+RV_09.097.33.1{17}  divyaH suparNo.ava cakShi soma pinvan dhArAH karmaNA devavItau
+RV_09.097.33.2{17}  endo visha kalashaM somadhAnaM krandannihi sUryasyopa rashmim
+RV_09.097.34.1{17}  tisro vAca Irayati pra vahnir{R^i}tasya dhItiM brahmaNo manIShAm
+RV_09.097.34.2{17}  gAvo yanti gopatiM pR^ichamAnAH somaM yanti matayo vAvashAnAH
+RV_09.097.35.1{17}  somaM gAvo dhenavo vAvashAnAH somaM viprA matibhiH pR^ichamAnAH
+RV_09.097.35.2{17}  somaH sutaH pUyate ajyamAnaH some arkAstriShTubhiH saM navante
+RV_09.097.36.1{18}  evA naH soma pariShicyamAna A pavasva pUyamAnaH svasti
+RV_09.097.36.2{18}  indramA visha bR^ihatA raveNa vardhayA vAcaM janayA purandhim
+RV_09.097.37.1{18}  A jAgR^ivirvipra R^itA matInAM somaH punAno asadaccamUShu
+RV_09.097.37.2{18}  sapanti yaM mithunAso nikAmA adhvaryavo rathirAsaH suhastAH
+RV_09.097.38.1{18}  sa punAna upa sUre na dhAtobhe aprA rodasI vi Sha AvaH
+RV_09.097.38.2{18}  priyA cid yasya priyasAsa UtI sa tU dhanaM kAriNena pra yaMsat
+RV_09.097.39.1{18}  sa vardhitA vardhanaH pUyamAnaH somo mIDhvAnabhi no jyotiShAvIt
+RV_09.097.39.2{18}  yenA naH pUrve pitaraH padaj~nAH svarvido abhi gA adrimuShNan
+RV_09.097.40.1{18}  akrAn samudraH prathame vidharma§ janayan prajA bhuvanasyarAjA
+RV_09.097.40.2{18}  vR^iShA pavitre adhi sAno avye bR^ihat somo vAvR^idhe suvAna induH
+RV_09.097.41.1{19}  mahat tat somo mahiShashcakArApAM yad garbho.avR^iNIta devAn
+RV_09.097.41.2{19}  adadhAdindre pavamAna ojo.ajanayat sUrye jyotirinduH
+RV_09.097.42.1{19}  matsi vAyumiShTaye rAdhase ca matsi mitrAvaruNA pUyamAnaH
+RV_09.097.42.2{19}  matsi shardho mArutaM matsi devAn matsi dyAvApR^ithivI deva soma
+RV_09.097.43.1{19}  R^ijuH pavasva vR^ijinasya hantApAmIvAM bAdhamAno mR^idhashca
+RV_09.097.43.2{19}  abhishrINan payaH payasAbhi gonAmindrasya tvaM tava vayaM sakhAyaH
+RV_09.097.44.1{19}  madhvaH sUdaM pavasva vasva utsaM vIraM ca na A pavasvA bhagaM ca
+RV_09.097.44.2{19}  svadasvendrAya pavamAna indo rayiM ca na A pavasvA samudrAt
+RV_09.097.45.1{19}  somaH suto dhArayAtyo na hitvA sindhurna nimnamabhi vAjyakShAH
+RV_09.097.45.2{19}  A yoniM vanyamasadat punAnaH samindurgobhirasarat samadbhiH
+RV_09.097.46.1{20}  eSha sya te pavata indra somashcamUShu dhIra ushate tavasvAn
+RV_09.097.46.2{20}  svarcakShA rathiraH satyashuShmaH kAmo na yo devayatAmasarji
+RV_09.097.47.1{20}  eSha pratnena vayasA punAnastiro varpAMsi duhiturdadhAnaH
+RV_09.097.47.2{20}  vasAnaH sharma trivarUthamapsu hoteva yAti samaneShurebhan
+RV_09.097.48.1{20}  nU nastvaM rathiro deva soma pari srava camvoH pUyamAnaH
+RV_09.097.48.2{20}  apsu svAdiShTho madhumAn R^itAvA devo na yaH savitA satyamanmA
+RV_09.097.49.1{20}  abhi vAyuM vItyarShA gR^iNAno.abhi mitrAvaruNA pUyamAnaH
+RV_09.097.49.2{20}  abhI naraM dhIjavanaM ratheShThAmabhIndraM vR^iShaNaM vajrabAhum
+RV_09.097.50.1{20}  abhi vastrA suvasanAnyarShAbhi dhenUH sudughAH pUyamAnaH
+RV_09.097.50.2{20}  abhi candrA bhartave no hiraNyAbhyashvAn rathino deva soma
+RV_09.097.51.1{21}  abhI no arSha divyA vasUnyabhi vishvA pArthivA pUyamAnaH
+RV_09.097.51.2{21}  abhi yena draviNamashnavAmAbhyarSheyaM jamadagnivannaH
+RV_09.097.52.1{21}  ayA pavA pavasvainA vasUni mAMshcatva indo sarasi pra dhanva
+RV_09.097.52.2{21}  bradhnashcidatra vAto na jAtaH purumedhashcit takave naraM dAt
+RV_09.097.53.1{21}  uta na enA pavayA pavasvAdhi shrute shravAyyasya tIrthe
+RV_09.097.53.2{21}  ShaShTiM sahasrA naiguto vasUni vR^ikShaM na pakvaM dhUnavad raNAya
+RV_09.097.54.1{21}  mahIme asya vR^iShanAma shUShe mA.nshcatve vA pR^ishane vA vadhatre
+RV_09.097.54.2{21}  asvApayan nigutaH snehayaccApAmitrAnapAcito acetaH
+RV_09.097.55.1{21}  saM trI pavitrA vitatAnyeShyanvekaM dhAvasi pUyamAnaH
+RV_09.097.55.2{21}  asi bhago asi dAtrasya dAtAsi maghavA maghavadbhya indo
+RV_09.097.56.1{22}  eSha vishvavit pavate manIShI somo vishvasya bhuvanasya rAjA
+RV_09.097.56.2{22}  drapsAnIrayan vidatheShvindurvi vAramavyaM samayAti yAti
+RV_09.097.57.1{22}  induM rihanti mahiShA adabdhAH pade rebhanti kavayo na gR^idhrAH
+RV_09.097.57.2{22}  hinvanti dhIrA dashabhiH kShipAbhiH sama§jate rUpamapAM rasena
+RV_09.097.58.1{22}  tvayA vayaM pavamAnena soma bhare kR^itaM vi cinuyAma shashvat
+RV_09.097.58.2{22}  tan no mitro varuNo mAmahantAmaditiH sindhuH pR^ithivIuta dyauH
+
+RV_09.098.01.1{23}  abhi no vAjasAtamaM rayimarSha puruspR^iham
+RV_09.098.01.2{23}  indo sahasrabharNasaM tuvidyumnaM vibhvAsaham
+RV_09.098.02.1{23}  pari Shya suvAno: avyayaM rathe na varmAvyata
+RV_09.098.02.2{23}  indurabhidruNA hito hiyAno dhArAbhirakShAH
+RV_09.098.03.1{23}  pari Shya suvAno akShA induravye madacyutaH
+RV_09.098.03.2{23}  dhArA ya Urdhvo adhvare bhrAjA naiti gavyayuH
+RV_09.098.04.1{23}  sa hi tvaM deva shashvate vasu martAya dAshuShe
+RV_09.098.04.2{23}  indo sahasriNaM rayiM shatAtmAnaM vivAsasi
+RV_09.098.05.1{23}  vayaM te asya vR^itrahan vaso vasvaH puruspR^ihaH
+RV_09.098.05.2{23}  ni nediShThatamA iShaH syAma sumnasyAdhrigo
+RV_09.098.06.1{23}  dviryaM pa§ca svayashasaM svasAro adrisaMhatam
+RV_09.098.06.2{23}  priyamindrasya kAmyaM prasnApayantyUrmiNam
+RV_09.098.07.1{24}  pari tyaM haryataM hariM babhruM punanti vAreNa
+RV_09.098.07.2{24}  yo devAn vishvAnit pari madena saha gachati
+RV_09.098.08.1{24}  asya vo hyavasA pAnto dakShasAdhanam
+RV_09.098.08.2{24}  yaH sUriShu shravobR^ihad dadhe svarNa haryataH
+RV_09.098.09.1{24}  sa vAM yaj~neShu mAnavI indurjaniShTa rodasI
+RV_09.098.09.2{24}  devo devI giriShThA asredhan taM tuviShvaNi
+RV_09.098.10.1{24}  indrAya soma pAtave vR^itraghne pari Shicyase
+RV_09.098.10.2{24}  nare ca dakShiNAvate devAya sadanAsade
+RV_09.098.11.1{24}  te pratnAso vyuShTiShu somAH pavitre akSharan
+RV_09.098.11.2{24}  apaprothantaH sanutarhurashcitaH prAtastAnapracetasaH
+RV_09.098.12.1{24}  taM sakhAyaH purorucaM yUyaM vayaM ca sUrayaH
+RV_09.098.12.2{24}  ashyAma vAjagandhyaM sanema vAjapastyam
+
+RV_09.099.01.1{25}  A haryatAya dhR^iShNave dhanustanvanti pauMsyam
+RV_09.099.01.2{25}  shukrAMvayantyasurAya nirNijaM vipAmagre mahIyuvaH
+RV_09.099.02.1{25}  adha kShapA pariShkR^ito vAjAnabhi pra gAhate
+RV_09.099.02.2{25}  yadI vivasvato dhiyo hariM hinvanti yAtave
+RV_09.099.03.1{25}  tamasya marjayAmasi mado ya indrapAtamaH
+RV_09.099.03.2{25}  yaM gAva AsabhirdadhuH purA nUnaM ca sUrayaH
+RV_09.099.04.1{25}  taM gAthayA purANyA punAnamabhyanUShata
+RV_09.099.04.2{25}  uto kR^ipantadhItayo devAnAM nAma bibhratIH
+RV_09.099.05.1{25}  tamukShamANamavyaye vAre punanti dharNasim
+RV_09.099.05.2{25}  dUtaM na pUrvacittaya A shAsate manIShiNaH
+RV_09.099.06.1{26}  sa punAno madintamaH somashcamUShu sIdati
+RV_09.099.06.2{26}  pashau na reta Adadhat patirvacasyate dhiyaH
+RV_09.099.07.1{26}  sa mR^ijyate sukarmabhirdevo devebhyaH sutaH
+RV_09.099.07.2{26}  vide yadAsu sandadirmahIrapo vi gAhate
+RV_09.099.08.1{26}  suta indo pavitra A nR^ibhiryato vi nIyase
+RV_09.099.08.2{26}  indrAya matsarintamashcamUShvA ni ShIdasi
+
+RV_09.100.01.1{27}  abhI navante adruhaH priyamindrasya kAmyam
+RV_09.100.01.2{27}  vatsaM na pUrva Ayuni jAtaM rihanti mAtaraH
+RV_09.100.02.1{27}  punAna indavA bhara soma dvibarhasaM rayim
+RV_09.100.02.2{27}  tvaM vasUnipuShyasi vishvAni dAshuSho gR^ihe
+RV_09.100.03.1{27}  tvaM dhiyaM manoyujaM sR^ijA vR^iShTiM na tanyatuH
+RV_09.100.03.2{27}  tvaM vasUni pArthivA divyA ca soma puShyasi
+RV_09.100.04.1{27}  pari te jigyuSho yathA dhArA sutasya dhAvati
+RV_09.100.04.2{27}  raMhamANAvyavyayaM vAraM vAjIva sAnasiH
+RV_09.100.05.1{27}  kratve dakShAya naH kave pavasva soma dhArayA
+RV_09.100.05.2{27}  indrAya pAtave suto mitrAya varuNAya ca
+RV_09.100.06.1{28}  pavasva vAjasAtamaH pavitre dhArayA sutaH
+RV_09.100.06.2{28}  indrAya somaviShNave devebhyo madhumattamaH
+RV_09.100.07.1{28}  tvAM rihanti mAtaro hariM pavitre adruhaH
+RV_09.100.07.2{28}  vatsaM jAtaMna dhenavaH pavamAna vidharmaNi
+RV_09.100.08.1{28}  pavamAna mahi shravashcitrebhiryAsi rashmibhiH
+RV_09.100.08.2{28}  shardhan tamAMsi jighnase vishvAni dAshuSho gR^ihe
+RV_09.100.09.1{28}  tvaM dyAM ca mahivrata pR^ithivIM cAti jabhriShe
+RV_09.100.09.2{28}  prati drApimamu§cathAH pavamAna mahitvanA
+
+RV_09.101.01.1{01}  purojitI vo andhasaH sutAya mAdayitnave
+RV_09.101.01.2{01}  apa shvAnaM shnathiShTana sakhAyo dIrghajihvyam
+RV_09.101.02.1{01}  yo dhArayA pAvakayA pariprasyandate sutaH
+RV_09.101.02.2{01}  indurashvo na kR^itvyaH
+RV_09.101.03.1{01}  taM duroShamabhI naraH somaM vishvAcyA dhiyA
+RV_09.101.03.2{01}  yaj~naM hinvantyadribhiH
+RV_09.101.04.1{01}  sutAso madhumattamAH somA indrAya mandinaH
+RV_09.101.04.2{01}  pavitravantoakSharan devAn gachantu vo madAH
+RV_09.101.05.1{01}  indurindrAya pavata iti devAso abruvan
+RV_09.101.05.2{01}  vAcas patirmakhasyate vishvasyeshAna ojasA
+RV_09.101.06.1{02}  sahasradhAraH pavate samudro vAcamIN^khayaH
+RV_09.101.06.2{02}  somaH patI rayINAM sakhendrasya dive-dive
+RV_09.101.07.1{02}  ayaM pUShA rayirbhagaH somaH punAno arShati
+RV_09.101.07.2{02}  patirvishvasya bhUmano vyakhyad rodasI ubhe
+RV_09.101.08.1{02}  samu priyA anUShata gAvo madAya ghR^iShvayaH
+RV_09.101.08.2{02}  somAsaH kR^iNvate pathaH pavamAnAsa indavaH
+RV_09.101.09.1{02}  ya ojiShThastamA bhara pavamana shravAyyam
+RV_09.101.09.2{02}  yaH pa§cacarShaNIrabhi rayiM yena vanAmahai
+RV_09.101.10.1{02}  somAH pavanta indavo.asmabhyaM gAtuvittamaH
+RV_09.101.10.2{02}  mitrAH suvAnA arepasaH svAdhyaH svarvidaH
+RV_09.101.11.1{03}  suShvANAso vyadribhishcitAnA goradhi tvaci
+RV_09.101.11.2{03}  iShamasmabhyamabhitaH samasvaran vasuvidaH
+RV_09.101.12.1{03}  ete pUtA vipashcitaH somAso dadhyAshiraH
+RV_09.101.12.2{03}  sUryAso na darshatAso jigatnavo dhruvA ghR^ite
+RV_09.101.13.1{03}  pra sunvAnasyAndhaso marto na vR^ita tad vacaH
+RV_09.101.13.2{03}  apa shvAnamarAdhasaM hatA makhaM na bhR^igavaH
+RV_09.101.14.1{03}  A jAmiratke avyata bhuje na putra oNyoH
+RV_09.101.14.2{03}  sarajjAro na yoShaNAM varo na yonimAsadam
+RV_09.101.15.1{03}  sa vIro dakShasAdhano vi yastastambha rodasI
+RV_09.101.15.2{03}  hariH pavitre avyata vedhA na yonimAsadam
+RV_09.101.16.1{03}  avyo vArebhiH pavate somo gavye adhi tvaci
+RV_09.101.16.2{03}  kanikradad vR^iShA haririndrasyAbhyeti niShkR^itam
+
+RV_09.102.01.1{04}  krANA shishurmahInAM hinvannR^itasya dIdhitim
+RV_09.102.01.2{04}  vishvApari priyA bhuvadadha dvitA
+RV_09.102.02.1{04}  upa tritasya pAShyorabhakta yad guhA padam
+RV_09.102.02.2{04}  yaj~nasya sapta dhAmabhiradha priyam
+RV_09.102.03.1{04}  trINi tritasya dhArayA pR^iShTheShverayA rayim
+RV_09.102.03.2{04}  mimIte asya yojanA vi sukratuH
+RV_09.102.04.1{04}  jaj~nAnaM sapta mAtaro vedhAmashAsata shriye
+RV_09.102.04.2{04}  ayaM dhruvo rayINAM ciketa yat
+RV_09.102.05.1{04}  asya vrate sajoShaso vishve devAso adruhaH
+RV_09.102.05.2{04}  spArhA bhavanti rantayo juShanta yat
+RV_09.102.06.1{05}  yamI garbhaM R^itAvR^idho dR^ishe cArumajIjanan
+RV_09.102.06.2{05}  kaviM maMhiShThamadhvare puruspR^iham
+RV_09.102.07.1{05}  samIcIne abhi tmanA yahvI R^itasya mAtarA
+RV_09.102.07.2{05}  tanvAnA yaj~namAnuShag yada§jate
+RV_09.102.08.1{05}  kratvA shukrebhirakShabhir{R^i}Norapa vrajaM divaH
+RV_09.102.08.2{05}  hinvannR^itasya dIdhitiM prAdhvare
+
+RV_09.103.01.1{06}  pra punAnAya vedhase somAya vaca udyatam
+RV_09.103.01.2{06}  bhR^itiM na bharA matibhirjujoShate
+RV_09.103.02.1{06}  pari vArANyavyayA gobhira§jAno arShati
+RV_09.103.02.2{06}  trI ShadhasthA punAnaH kR^iNute hariH
+RV_09.103.03.1{06}  pari koshaM madhushcutamavyaye vAre arShati
+RV_09.103.03.2{06}  abhi vANIr{R^i}ShINAM sapta nUShata
+RV_09.103.04.1{06}  pari NetA matInAM vishvadevo adAbhyaH
+RV_09.103.04.2{06}  somaH punAnashcamvorvishad dhariH
+RV_09.103.05.1{06}  pari daivIranu svadhA indreNa yAhi saratham
+RV_09.103.05.2{06}  punAno vAghad vAghadbhiramartyaH
+RV_09.103.06.1{06}  pari saptirna vAjayurdevo devebhyaH sutaH
+RV_09.103.06.2{06}  vyAnashiH pavamAno vi dhAvati
+
+RV_09.104.01.1{07}  sakhAya A ni shIdata punAnAya pra gAyata
+RV_09.104.01.2{07}  shishuM na yaj~naiH pari bhUShata shriye
+RV_09.104.02.1{07}  samI vatsaM na mAtR^ibhiH sR^ijatA gayasAdhanam
+RV_09.104.02.2{07}  devAvyammadamabhi dvishavasam
+RV_09.104.03.1{07}  punAtA dakShasAdhanaM yathA shardhAya vItaye
+RV_09.104.03.2{07}  yathA mitrAya varuNAya shantamaH
+RV_09.104.04.1{07}  asmabhyaM tvA vasuvidamabhi vANIranUShata
+RV_09.104.04.2{07}  gobhiSh Te varNamabhi vAsayAmasi
+RV_09.104.05.1{07}  sa no madAnAM pata indo devapsarA asi
+RV_09.104.05.2{07}  sakheva sakhye gAtuvittamo bhava
+RV_09.104.06.1{07}  sanemi kR^idhyasmadA rakShasaM kaM cidatriNam
+RV_09.104.06.2{07}  apAdevaM dvayumaMho yuyodhi naH
+
+RV_09.105.01.1{08}  taM vaH sakhAyo madAya punAnamabhi gAyata
+RV_09.105.01.2{08}  shishuM na yaj~naiH svadayanta gUrtibhiH
+RV_09.105.02.1{08}  saM vatsa iva mAtR^ibhirindurhinvAno ajyate
+RV_09.105.02.2{08}  devAvIrmadomatibhiH pariShkR^itaH
+RV_09.105.03.1{08}  ayaM dakShAya sAdhano.ayaM shardhAya vItaye
+RV_09.105.03.2{08}  ayaM devebhyo madhumattamaH sutaH
+RV_09.105.04.1{08}  goman na indo ashvavat sutaH sudakSha dhanva
+RV_09.105.04.2{08}  shuciM te varNamadhi goShu dIdharam
+RV_09.105.05.1{08}  sa no harINAM pata indo devapsarastamaH
+RV_09.105.05.2{08}  sakheva sakhye naryo ruce bhava
+RV_09.105.06.1{08}  sanemi tvamasmadAnadevaM kaM cidatriNam
+RV_09.105.06.2{08}  sAhvAnindo pari bAdho apa dvayum
+
+RV_09.106.01.1{09}  indramacha sutA ime vR^iShaNaM yantu harayaH
+RV_09.106.01.2{09}  shruShTI jAtAsa indavaH svarvidaH
+RV_09.106.02.1{09}  ayaM bharAya sAnasirindrAya pavate sutaH
+RV_09.106.02.2{09}  somo jaitrasyacetati yathA vide
+RV_09.106.03.1{09}  asyedindro madeShvA grAbhaM gR^ibhNIta sAnasim
+RV_09.106.03.2{09}  vajraMca vR^iShaNaM bharat samapsujit
+RV_09.106.04.1{09}  pra dhanvA soma jAgR^ivirindrAyendo pari srava
+RV_09.106.04.2{09}  dyumantaM shuShmamA bharA svarvidam
+RV_09.106.05.1{09}  indrAya vR^iShaNaM madaM pavasva vishvadarshataH
+RV_09.106.05.2{09}  sahasrayAmA pathikR^id vicakShaNaH
+RV_09.106.06.1{10}  asmabhyaM gAtuvittamo devebhyo madhumattamaH
+RV_09.106.06.2{10}  sahasraM yAhipathibhiH kanikradat
+RV_09.106.07.1{10}  pavasva devavItaya indo dhArAbhirojasA
+RV_09.106.07.2{10}  A kalashaM madhumAn soma naH sadaH
+RV_09.106.08.1{10}  tava drapsA udapruta indraM madAya vAvR^idhuH
+RV_09.106.08.2{10}  tvAM devAso amR^itAya kaM papuH
+RV_09.106.09.1{10}  A naH sutAsa indavaH punAnA dhAvatA rayim
+RV_09.106.09.2{10}  vR^iShTidyAvorItyApaH svarvidaH
+RV_09.106.10.1{10}  somaH punAna UrmiNAvyo vAraM vi dhAvati
+RV_09.106.10.2{10}  agre vAcaHpavamAnaH kanikradat
+RV_09.106.11.1{11}  dhIbhirhinvanti vAjinaM vane krI antamatyavim
+RV_09.106.11.2{11}  abhi tripR^iShThaM matayaH samasvaran
+RV_09.106.12.1{11}  asarji kalashAnabhi mI he saptirna vAjayuH
+RV_09.106.12.2{11}  punAno vAcaM janayannasiShyadat
+RV_09.106.13.1{11}  pavate haryato harirati hvarAMsi raMhyA
+RV_09.106.13.2{11}  abhyarShan stotR^ibhyo vIravad yashaH
+RV_09.106.14.1{11}  ayA pavasva devayurmadhordhArA asR^ikShata
+RV_09.106.14.2{11}  rebhan pavitramparyeShi vishvataH
+
+RV_09.107.01.1{12}  parIto Shi§catA sutaM somo ya uttamaM haviH
+RV_09.107.01.2{12}  dadhanvAnyo naryo apsvantarA suShAva somamadribhiH
+RV_09.107.02.1{12}  nUnaM punAno.avibhiH pari sravAdabdhaH surabhintaraH
+RV_09.107.02.2{12}  sute cit tvApsu madAmo andhasA shrINanto gobhiruttaram
+RV_09.107.03.1{12}  pari suvAnashcakShase devamAdanaH kraturindurvicakShaNaH
+RV_09.107.04.1{12}  punAnaH soma dhArayApo vasAno arShasi
+RV_09.107.04.2{12}  A ratnadhA yonimR^itasya sIdasyutso deva hiraNyayaH
+RV_09.107.05.1{12}  duhAna UdhardivyaM madhu priyaM pratnaM sadhasthamAsadat
+RV_09.107.05.2{12}  ApR^ichyaM dharuNaM vAjyarShati nR^ibhirdhUto vicakShaNaH
+RV_09.107.06.1{13}  punAnaH soma jAgR^iviravyo vAre pari priyaH
+RV_09.107.06.2{13}  tvaM viproabhavo.aN^girastamo madhvA yaj~naM mimikSha naH
+RV_09.107.07.1{13}  somo mIDhvAn pavate gAtuvittama R^iShirvipro vicakShaNaH
+RV_09.107.07.2{13}  tvaM kavirabhavo devavItama A sUryaM rohayo divi
+RV_09.107.08.1{13}  soma u ShuvANaH sotR^ibhiradhi ShNubhiravInAm
+RV_09.107.08.2{13}  ashvayevaharita yAti dhArayA mandrayA yAti dhArayA
+RV_09.107.09.1{13}  anUpe gomAn gobhirakShAH somo dugdhAbhirakShAH
+RV_09.107.09.2{13}  samudraM na saMvaraNAnyagman mandI madAya toshate
+RV_09.107.10.1{13}  A soma suvAno adribhistiro vArANyavyayA
+RV_09.107.10.2{13}  jano na puri camvorvishad dhariH sado vaneShu dadhiShe
+RV_09.107.11.1{14}  sa mAmR^ije tiro aNvAni meShyo mI he saptirna vajayuH
+RV_09.107.11.2{14}  anumAdyaH pavamAno manIShibhiH somo viprebhir{R^i}kvabhiH
+RV_09.107.12.1{14}  pra soma devavItaye sindhurna pipye arNasA aMshoH payasAmadiro na jAgR^ivirachA koshaM madhushcutam
+RV_09.107.13.1{14}  A haryato arjune atke avyata priyaH sUnurna marjyaH
+RV_09.107.13.2{14}  tamIM hinvantyapaso yathA rathaM nadIShvA gabhastyoH
+RV_09.107.14.1{14}  abhi somAsa AyavaH pavante madyaM madam
+RV_09.107.14.2{14}  samudrasyAdhi viShTapi manIShiNo matsarAsaH svarvidaH
+RV_09.107.15.1{14}  tarat samudraM pavamAna UrmiNA rAjA deva R^itaM bR^ihat
+RV_09.107.15.2{14}  arShan mitrasya varuNasya dharmaNA pra hinvAna R^itaM bR^ihat
+RV_09.107.16.1{15}  nR^ibhiryemAno haryato vicakShaNo rAjA devaH samudriyaH
+RV_09.107.17.1{15}  indrAya pavate madaH somo marutvate sutaH
+RV_09.107.17.2{15}  sahasradhAro atyavyamarShati tamIM mR^ijantyAyavaH
+RV_09.107.18.1{15}  punAnashcamU janayan matiM kaviH somo deveShu raNyati
+RV_09.107.18.2{15}  apo vasAnaH pari gobhiruttaraH sIdan vaneShvavyata
+RV_09.107.19.1{15}  tavAhaM soma rAraNa sakhya indo dive-dive
+RV_09.107.19.2{15}  purUNi babhro ni caranti mAmava paridhInrati tAnihi
+RV_09.107.20.1{15}  utAhaM naktamuta soma te divA sakhyAya babhra Udhani
+RV_09.107.20.2{15}  ghR^iNA tapantamati sUryaM paraH shakunA iva paptima
+RV_09.107.21.1{16}  mR^ijyamAnaH suhastya samudre vAcaminvasi
+RV_09.107.21.2{16}  rayiM pishangaM bahulaM puruspR^ihaM pavamAnAbhyarShasi
+RV_09.107.22.1{16}  mR^ijAno vAre pavamano avyaye vR^iShAva cakrado vane
+RV_09.107.22.2{16}  devAnAM soma pavamAna niShkR^itaM gobhira§jAno arShasi
+RV_09.107.23.1{16}  pavasva vAjasAtaye.abhi vishvAni kAvyA
+RV_09.107.23.2{16}  tvaM samudraM prathamo vi dhArayo devebhyaH soma matsaraH
+RV_09.107.24.1{16}  sa tU pavasva pari pArthivaM rajo divyA ca soma dharmabhiH
+RV_09.107.24.2{16}  tvAM viprAso matibhirvicakShaNa shubhraM hinvanti dhItibhiH
+RV_09.107.25.1{16}  pavamAnA asR^ikShata pavitramati dhArayA
+RV_09.107.25.2{16}  marutvanto matsarA indriyA hayA medhAmabhi prayAMsi ca
+RV_09.107.26.1{16}  apo vasAnaH pari koshamarShatindurhiyAnaH sotR^ibhiH
+RV_09.107.26.2{16}  janaya§ jyotirmandanA avIvashad gAH kR^iNvAno na nirNijam
+
+RV_09.108.01.1{17}  pavasva madhumattama indrAya soma kratuvittamo madaH
+RV_09.108.01.2{17}  mahi dyukShatamo madaH
+RV_09.108.02.1{17}  yasya te pItvA vR^iShabho vR^iShAyate.asya pItA svarvidaH
+RV_09.108.02.2{17}  sa supraketo abhyakramIdisho.achA vAjaM naitashaH
+RV_09.108.03.1{17}  tvaM hyanga daivyA pavamAna janimAni dyumattamaH
+RV_09.108.03.2{17}  amR^itatvAya ghoShayaH
+RV_09.108.04.1{17}  yenA navagvo dadhyannaporNute yena viprAsa Apire
+RV_09.108.04.2{17}  devAnAM sumne amR^itasya cAruNo yena shravAMsyAnashuH
+RV_09.108.05.1{17}  eSha sya dhArayA suto.avyo vArebhiH pavate madintamaH
+RV_09.108.05.2{17}  krI annUrmirapAmiva
+RV_09.108.06.1{18}  ya usriyA apyA antarashmano nirgA akR^intadojasA
+RV_09.108.06.2{18}  abhivrajaM tatniShe gavyamashvyaM varmIva dhR^iShNavA ruja
+RV_09.108.07.1{18}  A sotA pari Shi§catAshvaM na stomamapturaM rajasturam
+RV_09.108.07.2{18}  vanaR^ikShamudaprutam
+RV_09.108.08.1{18}  sahasradhAraM vR^iShabhaM payovR^idhaM priyaM devAya janmane
+RV_09.108.08.2{18}  R^itena ya R^itajAto vivAvR^idhe rAjA deva R^itaM bR^ihat
+RV_09.108.09.1{18}  abhi dyumnaM bR^ihad yasha iShas pate didIhi deva devayuH
+RV_09.108.09.2{18}  vikoshaM madhyamaM yuva
+RV_09.108.10.1{18}  A vacyasva sudakSha camvoH suto vishAM vahnirna vishpatiH
+RV_09.108.10.2{18}  vR^iShTiM divaH pavasva rItimapAM jinvA gaviShTaye dhiyaH
+RV_09.108.11.1{19}  etamu tyaM madacyutaM sahasradhAraM vR^iShabhaM divo duhuH
+RV_09.108.11.2{19}  vishvA vasUni bibhratam
+RV_09.108.12.1{19}  vR^iShA vi jaj~ne janayannamartyaH pratapa§ jyotiShA tamaH
+RV_09.108.12.2{19}  sa suShTutaH kavibhirnirNijaM dadhe tridhAtvasya daMsasA
+RV_09.108.13.1{19}  sa sunve yo vasUnAM yo rAyAmAnetA ya i AnAm
+RV_09.108.13.2{19}  somoyaH sukShitInAm
+RV_09.108.14.1{19}  yasya na indraH pibAd yasya maruto yasya vAryamaNA bhagaH
+RV_09.108.14.2{19}  A yena mitrAvaruNA karAmaha endramavase mahe
+RV_09.108.15.1{19}  indrAya soma pAtave nR^ibhiryataH svAyudho madintamaH
+RV_09.108.15.2{19}  pavasva madhumattamaH
+RV_09.108.16.1{19}  indrasya hArdi somadhAnamA visha samudramiva sindhavaH
+RV_09.108.16.2{19}  juShTo mitrAya varuNAya vAyave divo viShTambha uttamaH 
+
+RV_09.109.01.1{20}  pari pra dhanvendrAya soma svAdur mitrAya pUShNe bhagAya 
+RV_09.109.02.1{20}  indras te soma sutasya peyAH kratve dakShAya vishve ca devAH 
+RV_09.109.03.1{20}  evAmR^itAya mahe kShayAya sa shukro arSha divyaH pIyUShaH 
+RV_09.109.04.1{20}  pavasva soma mahAn samudraH pitA devAnAM vishvAbhi dhAma 
+RV_09.109.05.1{20}  shukraH pavasva devebhyaH soma dive pR^ithivyai shaM ca prajAyai 
+RV_09.109.06.1{20}  divo dhartAsi shukraH pIyUShaH satye vidharman vAjI pavasva 
+RV_09.109.07.1{20}  pavasva soma dyumnI sudhAro mahAm avInAm anu pUrvyaH 
+RV_09.109.08.1{20}  nR^ibhir yemAno jaj~nAnaH pUtaH kSharad vishvAni mandraH svarvit 
+RV_09.109.09.1{20}  induH punAnaH prajAm urANaH karad vishvAni draviNAni naH 
+RV_09.109.10.1{20}  pavasva soma kratve dakShAyAshvo na nikto vAjI dhanAya 
+RV_09.109.11.1{21}  taM te sotAro rasam madAya punanti somam mahe dyumnAya 
+RV_09.109.12.1{21}  shishuM jaj~nAnaM harim mR^ijanti pavitre somaM devebhya indum 
+RV_09.109.13.1{21}  induH paviShTa cArur madAyApAm upasthe kavir bhagAya 
+RV_09.109.14.1{21}  bibharti cArv indrasya nAma yena vishvAni vR^itrA jaghAna 
+RV_09.109.15.1{21}  pibanty asya vishve devAso gobhiH shrItasya nR^ibhiH sutasya 
+RV_09.109.16.1{21}  pra suvAno akShAH sahasradhAras tiraH pavitraM vi vAram avyam 
+RV_09.109.17.1{21}  sa vAjy akShAH sahasraretA adbhir mR^ijAno gobhiH shrINAnaH 
+RV_09.109.18.1{21}  pra soma yAhIndrasya kukShA nR^ibhir yemAno adribhiH sutaH 
+RV_09.109.19.1{21}  asarji vAjI tiraH pavitram indrAya somaH sahasradhAraH 
+RV_09.109.20.1{21}  a§janty enam madhvo rasenendrAya vR^iShNa indum madAya 
+RV_09.109.21.1{21}  devebhyas tvA vR^ithA pAjase 'po vasAnaM harim mR^ijanti 
+RV_09.109.22.1{21}  indur indrAya toshate ni toshate shrINann ugro riNann apaH 
+
+RV_09.110.01.1{22}  paryU Shu pra dhanva vAjasAtaye pari vR^itrANi sakShaNiH
+RV_09.110.01.2{22}  dviShastaradhyA R^iNayA na Iyase
+RV_09.110.02.1{22}  anu hi tvA sutaM soma madAmasi mahe samaryarAjye
+RV_09.110.02.2{22}  vAjAnabhi pavamAna pra gAhase
+RV_09.110.03.1{22}  ajIjano hi pavamAna sUryaM vidhAre shakmanA payaH
+RV_09.110.03.2{22}  gojIrayA raMhamAnaH purandhyA
+RV_09.110.04.1{22}  ajIjano amR^ita martyeShvA R^itasya dharmannamR^itasya cAruNaH
+RV_09.110.04.2{22}  sadAsaro vAjamachA saniShyadat
+RV_09.110.05.1{22}  abhy-abhi hi shravasA tatardithotsaM na kaM cijjanapAnamakShitam
+RV_09.110.05.2{22}  sharyAbhirna bharamANo gabhastyoH
+RV_09.110.06.1{22}  AdIM ke cit pashyamAnAsa ApyaM vasuruco divyA abhyanUShata
+RV_09.110.06.2{22}  vAraM na devaH savitA vyUrNute
+RV_09.110.07.1{23}  tve soma prathamA vR^iktabarhiSho mahe vAjAya shravase dhiyandadhuH
+RV_09.110.07.2{23}  sa tvaM no vIra vIryAya codaya
+RV_09.110.08.1{23}  divaH pIyUShaM pUrvyaM yadukthyaM maho gAhAd diva AniradhukShata
+RV_09.110.08.2{23}  indramabhi jAyamAnaM samasvaran
+RV_09.110.09.1{23}  adha yadime pavamAna rodasI imA ca vishvA bhuvanAbhi majmanA
+RV_09.110.09.2{23}  yUthe na niShThA vR^iShabho vi tiShThase
+RV_09.110.10.1{23}  somaH punAno avyaye vAre shishurna krI an pavamAno akShAH
+RV_09.110.10.2{23}  sahasradhAraH shatavAja induH
+RV_09.110.11.1{23}  eSha punAno madhumAn R^itAvendrAyenduH pavate svAdurUrmiH
+RV_09.110.11.2{23}  vAjasanirvarivovid vayodhAH
+RV_09.110.12.1{23}  sa pavasva sahamAnaH pR^itanyUn sedhan rakShAMsyapa durgahANi
+RV_09.110.12.2{23}  svAyudhaH sAsahvAn soma shatrUn
+
+RV_09.111.01.1{24}  ayA rucA hariNyA punAno vishvA dveShAMsi tarati svayugvabhiH sUro na svayugvabhiH dhArA sutasya rocate punAno aruSho hariH
+RV_09.111.01.2{24}  vishvA yad rUpA pariyAty R^ikvabhiH saptAsyebhir{R^i}kvabhiH
+RV_09.111.02.1{24}  tvaM tyat paNInAM vido vasu saM mAtR^ibhirmarjayasi sva A dama R^itasya dhItibhirdame parAvato na sAma tad yatrAraNanti dhItayaH
+RV_09.111.02.2{24}  tridhAtubhiraruShIbhirvayo dadhe rocamAno vayo dadhe
+RV_09.111.03.1{24}  pUrvAmanu pradishaM yAti cekitat saM rashmibhiryatate darshato ratho daivyo darshato rathaH agmannukthAni pauMsyendraM jaitrAya harShayan
+RV_09.111.03.2{24}  vajrashca yad bhavatho anapacyutAsamatsvanapacyutA
+
+RV_09.112.01.1{25}  nAnAnaM vA u no dhiyo vi vratAni janAnAm
+RV_09.112.01.2{25}  takShA riShTaM rutaM bhiShag brahmA sunvantamichatIndrAyendo pari srava
+RV_09.112.02.1{25}  jaratIbhiroShadhIbhiH parNebhiH shakunAnAm
+RV_09.112.02.2{25}  kArmAro ashmabhirdyubhirhiraNyavantamichatIndrAyendo pari srava
+RV_09.112.03.1{25}  kArurahaM tato bhiShagupalaprakShiNI nanA
+RV_09.112.03.2{25}  nAnAdhiyovasUyavo.anu gA iva tasthimendrAyendo pari srava
+RV_09.112.04.1{25}  ashvo vo hA sukhaM rathaM hasanAmupamantriNaH
+RV_09.112.04.2{25}  shepo romaNvantau bhedau vArin maNDUka ichatIndrAyendo pari srava
+
+RV_09.113.01.1{26}  sharyaNAvati somamindraH pibatu vR^itrahA
+RV_09.113.01.2{26}  balaM dadhAna Atmani kariShyan vIryaM mahadindrAyendo pari srava
+RV_09.113.02.1{26}  A pavasva dishAM pata ArjIkAt soma mIDhvaH
+RV_09.113.02.2{26}  R^itavAkena satyena shraddhayA tapasA suta indrAyendo pari srava
+RV_09.113.03.1{26}  parjanyavR^iddhaM mahiShaM taM sUryasya duhitAbharat
+RV_09.113.03.2{26}  taM gandharvAH pratyagR^ibhNan taM some rasamAdadhurindrAyendopari srava
+RV_09.113.04.1{26}  R^itaM vadannR^itadyumna satyaM vadan satyakarman
+RV_09.113.04.2{26}  shraddhAM vadan soma rAjan dhAtrA soma pariShkR^ita indrAyendo pari srava
+RV_09.113.05.1{26}  satyamugrasya bR^ihataH saM sravanti saMsravAH
+RV_09.113.05.2{26}  saM yanti rasino rasAH punAno brahmaNA hara indrAyendo pari srava
+RV_09.113.06.1{27}  yatra brahmA pavamAna chandasyAM vAcaM vadan
+RV_09.113.06.2{27}  grAvNA some mahIyate somenAnandaM janayannindrAyendo pari srava
+RV_09.113.07.1{27}  yatra jyotirajasraM yasmin loke svarhitam
+RV_09.113.07.2{27}  tasmin mAM dhehi pavamAnAmR^ite loke akShita indrAyendo pari srava
+RV_09.113.08.1{27}  yatra rAjA vaivasvato yatrAvarodhanaM divaH
+RV_09.113.08.2{27}  yatrAmUryahvatIrApastatra mAmamR^itaM kR^idhIndrAyendo pari srava
+RV_09.113.09.1{27}  yatrAnukAmaM caraNaM trinAke tridive divaH
+RV_09.113.09.2{27}  lokA yatra jyotiShmantastatra mAmamR^itaM kR^idhIndrAyendo pari srava
+RV_09.113.10.1{27}  yatra kAmA nikAmAshca yatra bradhnasya viShTapam
+RV_09.113.10.2{27}  svadhA ca yatra tR^iptishca tatra mAmamR^itaM kR^idhIndrAyendo parisrava
+RV_09.113.11.1{27}  yatrAnandAshca modAshca mudaH pramuda Asate
+RV_09.113.11.2{27}  kAmasya yatrAptAH kAmAstatra mAmamR^itaM kR^idhIndrAyendo pari srava
+
+RV_09.114.01.1{28}  ya indoH pavamAnasyAnu dhAmAnyakramIt
+RV_09.114.01.2{28}  tamAhuH suprajA iti yaste somAvidhan mana indrAyendo pari srava
+RV_09.114.02.1{28}  R^iShe mantrakR^itAM stomaiH kashyapodvardhayan giraH
+RV_09.114.02.2{28}  somaMnamasya rAjAnaM yo jaj~ne vIrudhAM patirindrAyendo parisrava
+RV_09.114.03.1{28}  sapta disho nAnAsUryAH sapta hotAra R^itvijaH
+RV_09.114.03.2{28}  devA AdityA ye sapta tebhiH somAbhi rakSha na indrayendo pari srava
+RV_09.114.04.1{28}  yat te rAja§chR^itaM havistena somAbhi rakSha naH
+RV_09.114.04.2{28}  arAtIvA mA nastArIn mo ca naH kiM canAmamadindrAyendo parisrava

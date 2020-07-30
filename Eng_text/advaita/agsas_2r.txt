@@ -1,0 +1,859 @@
+Agamasastra
+2) Vaitathyaprakarana
+
+containing:
+1) Mandukyopanisatkarika by Gaudapada 
+   (also known as Gaudapadakarika, Mandukyakarika or Agamasastra)
+2) Agamasastrabhasya (commentary ascribed to Samkara)
+
+NOTE: The term "Agamasastra" is applied to the entire compilation.
+
+
+Input by members of the Sansknet project
+(formerly: www.sansknet.org)
+
+
+This GRETIL version has been converted from a custom Devanagari encoding.
+Therefore, word boundaries are usually not marked by blanks.
+These and other irregularities cannot be standardized at present.
+
+In addition, the Sansknet version came in a kind of semi-pausa format, 
+with Sandhi rules applied only in part. 
+In this GRETIL version Sandhi rules are applied throughout, 
+although some cases may have escaped the conversion routine.
+
+The text of Gaudapada's Karikas has been checked against the ed. by A.V. Kathavate,
+Poona 1890 (Anandasrama Sanskrit Series, 10).
+
+The text of the commentary is not proofread!
+
+
+REFERENCE SYSTEM (added):
+MandUpK_ = GauDapAda's MANDUkyopaniShatkArikA
+MandUpKC = ùgamashAstrabhAShya (i.e., ÁaMkara's comm. on MandUpK)
+
+#<...># = BOLD
+
+
+
+___________________________________________________________________
+
+THIS TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+            
+Text converted to Ronald E. Emmerick's encoding for WordPerfect 5.1 DOS 
+and related utility programmes BHELA, CARAKA etc. (DOS versions):
+            
+description             character  =ASCII
+            
+long a                  A             195
+long A                  ù             249
+long i                  I             197
+long I                  ý             253
+long u                  U             198
+long U                  ô             244
+vocalic r               R^i             173
+vocalic R               ã             227
+long vocalic r          Ì             204
+vocalic l               Ê             202
+long vocalic l          Ë             203
+velar n                 Ç             199
+velar N                 §             167
+palatal n               ¤             164
+palatal N               ¥             165
+retroflex t             T             194
+retroflex T             è             232
+retroflex d             D             172
+retroflex D             Ö             214
+retroflex n             N             239
+retroflex N             ×             215
+palatal s               sh             211
+palatal S               Á             193
+retroflex s             Sh             171
+retroflex S             å             229
+anusvara                M             230
+capital anusvara        õ             245
+visarga                 H             247
+capital visarga         ê             234
+
+Other characters of the REE encoding table are not included.
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.             
+
+For a comprehensive list of REE and other GRETIL encodings 
+and formats see:
+www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdiac.pdf
+and
+www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdias.pdf
+___________________________________________________________________
+
+
+
+
+
+
+#<vaitathyaprakaraNam>#
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.1
+
+j~nAte dvaitaM na vidyata ityuktam,"ekamevAdvitIyam"(chA.u.6 / 2 / 1) ityAdi shrutibhyaH /
+AgamamAtraM tat /
+tatropapattyApi dvaitasya vaitathyaM shakyate 'vadhArayitum iti dvitIyaM  prakaraNam Arabhyate
+
+
+#<vaitathyaM sarvabhAvAnAM svapna Ahur manIShiNaH /
+antaHsthAnAt tu bhAvAnAM saMvR^itatvena hetunA // MandUpK_2.1 //>#
+
+
+__________
+
+
+MandUpKC_2.1
+vitathasya bhAvo vaitathyam, asatyatvam ityarthaH /
+kasya? sarveShAM bAhyAdhyAtmikAnAM bhAvAnAM padArthAnAM svapna upalabhyamAnAnAm, AhuH kathayanti, manIShiNaH pramANakushalAH /
+vaitathye hetumAhAntaHsthAnAt, antaH sharIrasya madhye sthAnaM yeShAm /
+tatra hi bhAvopalabhyante parvatahastyAdayo na bahiH sharIrAt /
+tasmAt te vitathA bhavitum arhanti /
+nanvapavarakAdyantarupalabhyamAnair ghaTAdibhiranaikAntiko hetur ityAshaN^kyAha saMvR^itatvena hetuna iti /
+antaH saMvR^itasthAnAd ityarthaH /
+na hy antaH saMvR^ite dehento nADIShu parvatahastyAdInAM saMbhavo 'sti, na hi dehe parvataH, asti //1//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.2
+
+svapnadR^ishyAnAM bhAvAnAmantaH saMvR^itasthAnamityetad asiddham, yasmAt prAcyeShu supta udakShu svapnAn pashyann iva dR^ishyata ityetad AshaN^kyAha
+
+
+#<adIrghatvAc ca kAlasya gatvA deshAn na pashyati /
+pratibuddhash ca vai sarvas tasmin deshe na vidyate // MandUpK_2.2 //>#
+
+
+__________
+
+
+MandUpKC_2.2
+na dehAdbarhideshAntaraM gatvA svapnAn pashyati /
+yasmAt suptamAtra eva dehadeshAd yojanashatAntarite mAsamAtraprApye deshe svapnAn pashyann iva dR^ishyate /
+na ca tad deshaprApter Agamanasya dIrghaH kAlo 'sti /
+ato dArghatvAc ca kAlasya na svapnadR^igdeshAntaraM gacchati /
+
+kiM ca pratibuddhash ca vai sarvaH svapnadR^iksvapnadarshanadeshe na vidyate /
+yadi ca svapne deshAntaraM gacched yasmin deshe  svapnAn pashyet tatraiva pratibudhyeta /
+na caitad asti /
+rAtrau supto 'hanIva bhAvAn pashyati, bahubhiH saMgato bhavati, yash ca saMgataH  tair gR^ihyeta /
+na ca gR^ihyate, gR^ihItashcetvAm adya tatropalabdhavanto vayam iti vayamiti  brUyuH /
+na caitad asti tasmAn na deshAntaraM gacchati svapne //2//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.3
+
+itash ca svapnadR^ishyA bhAvA vitathA yataH
+
+
+#<abhAvash ca rathAdInAM shrUyate nyAyapUrvakam /
+vaitathyaM tena vai prAptaM svapna AhuH prakAshitam // MandUpK_2.3 //>#
+
+
+__________
+
+
+MandUpKC_2.3
+abhAvash caiva rathAdInAM svapnadR^ishyAnAM shrUyate nyAyapUrvakaM yuktitaH shrutau"na tatra rathAH"(bR^i.u.4 / 3 / 10) ity atra /
+dehAntaH sthAnasaMvR^itatvAdihetunA prAptaM vaikathyaM tad anuvAdinyA shrutyA svapne svayaJNjyotiShTvapratipAdanaparayA prakAshitamAhur brahmavidaH //3//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.4
+
+
+#<antasthAnAt tu bhedAnAM tasmAj jAgarite smR^itam /
+yathA tatra tathA svapne saMvR^itatvena bhidyate // MandUpK_2.4 //>#
+
+
+__________
+
+
+MandUpKC_2.4
+jAgrad dR^ishyAnAM bhAvAnAM vaitathyam iti pratij~nA /
+dR^ishyatvAd iti hetuH svapnadR^ishyabhAvavad iti dR^iShTAntaH /
+yathA tatra svapne dR^ishyAnAM bhAvAnAM vaitathyaM tathA jAgarite 'pi dR^ishyatvam avishiShTam iti hetUpanayaH /
+tasmAj jAgarite 'pi vaitathyaM smR^itam iti nigamanam /
+antaHsthAnAt saMvR^itatvena ca svapnadR^ishyAnAM bhAvAnAM jAgrad dR^ishyebhyaH  bhedaH /
+dR^ishyatvam asatyatvaM cAvishiShTam ubhayatra //4//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.5
+
+
+#<svapnajAgaritasthAne hy ekam Ahur manIShiNaH /
+bhedAnAM hi samatvena prasiddhenaiva hetunA // MandUpK_2.5 //>#
+
+
+__________
+
+
+MandUpKC_2.5
+prasiddhenaiva bhedAnAM grAhyagrAhakatvena hetunA samatvena svapnajAgaritasthAnayor ekatvamAhurvivekina iti pUrvapramANasiddhasyaiva phalam //5//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.6
+
+itash ca vaitathyaM jAgrad dR^ishyAnAM bhedAnAm Adyantayor abhAvAt /
+
+
+#<AdAvante ca yan nAsti vartamAne 'pi tat tathA /
+vitathaiH sadR^ishAH santo 'vitathA iva lakShitAH // MandUpK_2.6 //>#
+
+
+__________
+
+
+MandUpKC_2.6
+yadAdAv ante ca nAsti vastu mR^igatR^iShNikAdi tanmadhye 'pi nAsty ati nishcitaM loke tatheme jAgrad dR^ishyA bhedAH /
+Adyantayor abhAvAd vitathair eva mR^igatR^iShNikAdibhiH sadR^ishatvAd vitathA eva tathApi vitathA iva lakShitA mUDhair anAtmavidbhiH //6//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.7
+
+svapnadR^ishyavajjAgaritadR^ishyAnAm api satvam iti yad uktaM tad ayuktam /
+yasmAj jAgrad dR^ishyA annapAnavAhanAdayaH kShutpipAsAdinivR^ittiM kurvanto gamanAgamanAdikAryaM ca saprayojAnA dR^iShTAH /
+na tu svapnadR^ishyAnAM tad asti /
+tasmAt svapnadR^ishyavad jAgrad dR^ishyAnAm asatvaM manorathamAtram iti /
+
+tan na /
+kasmAt? yasmAt
+
+
+#<saprayojanatA teShAM svapne vipratipadyate /
+tasmAd Adyantavatvena mithyaiva khalu te smR^itAH // MandUpK_2.7 //>#
+
+
+__________
+
+
+MandUpKC_2.7
+saprayojanatA dR^iShTA yA annapAnAdInAM sA svapne vipratipadyate /
+jAgarite hi bhuktvA pItvA ca tR^ipto vinivartitatR^iTsuptamAtra eva kShutpipAsAdyArtam ahorAtroShitaM bhuktavantam AtmAnaM manyate /
+yathA spapne bhuktvA pItvA ca tR^ipta utthitas tathA /
+tasmAd jAgrad dR^ishyAnAM svapne vipratipattir dR^iShTA /
+ato manyAmahe teShAm apy asatvaM spapnadR^ishyavadanAshaN^kanIyam iti /
+tasmAd Adyantavatvamubhayatra samAnam iti mithyA iva khalu te smR^itAH //7//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.8
+
+svapnajAgradbhedayoH samatvAj jAgradbhedAnAm asatvam iti yad uktaM tadasat /
+kasmAt?
+dR^iShTAntasyAsiddhatvAt /
+katham?
+na hi jAgrad dR^iShTA evaite bhedAH svapne dR^ishyante /
+kiM tarhi?
+apUrvaM svapne pashyati, caturdantagajamArUThamaShTabhujamAtmAnaM manyate /
+anyad apy evaMprakAram apUrvaM pashyati svapne /
+tan nAnyenA asatA samam iti sadeva /
+ato dR^iShTAnto 'siddhaH /
+tasmAtsvapnavajjAgaritasyAsatvamity ayuktam /
+
+tan na, svapne dR^iShTam apUrvaM yan manyase na tatsvataH siddham /
+kiM tarhi?
+
+
+#<apUrvaM sthAnidharmo hi yathA svarganivAsinAm /
+tAnayaM prekShate gatvA yathaiveha sushikShitaH // MandUpK_2.8 //>#
+
+
+__________
+
+
+MandUpKC_2.8
+apUrvaM sthAnidharmo hi  sthAnino draShTur eva hi svapnasthAnavato dharmaH /
+yathA svarganivAsinAmindrAdInAM sahasrAkShatvAdi tathA svapnadR^isho 'pUrvo 'yaM dharmaH /
+na svataH siddho draShTuH svarUpavat /
+tAnevaMprakArAnapUrvAnsvacittavikalpAnayaM sthAnI svapnadR^iksvapnasthAne gatvA prekShate /
+yathaiveha loke sushikShito deshAntaramArgastane mArgeNa deshAntaraM gatvA tAnpadArthAnpashyati tadvat /
+tasmAdyathA sthAnidharmANAM rajjusarpamR^igatR^iShNikAdInAmasatvaM tathA svapnadR^iShyAnAmapUrvANAM sthAnidharmatvamevetyasattvamato na svapnadR^iShTAntasyAsiddhatvam //8//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.9
+
+apUrvatvAshaN^kA nirAkR^itA svapnadR^iShTAntasya punaH svapnatulyatAM jAgradbhedAnAM prapaJNcayannAha
+
+
+#<svapnavR^ittAv api tv antash cetasA kalpitaM tv asat /
+bahish cetogR^ihItaM sad dR^iShTaM vaitathyam etayoH // MandUpK_2.9 //>#
+
+
+__________
+
+
+MandUpKC_2.9
+svapnavR^ittAv api svapnasthAne 'py antash cetasA manorathasaN^kalpitam asat /
+saN^kalpAnantarasamakAlam evAdarshanAt tatraiva svapne bahish cetasA gR^ihItaM cakShurAdidvAreNopalabdhaM ghaTAdi sat /
+ity eva satyam iti nishcite 'pi sadasadvibhAgo dR^iShTaH /
+ubhayorapyantarbahishcetaH kalpitayorvaitathyameva dR^iShTam //9//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.10
+
+
+#<jAgradvR^ittAvapi tv antash cetasA kalpitaM tv asat /
+bahishcetogR^ihItaM sad yuktaM vaitathyam etayoH // MandUpK_2.10 //>#
+
+
+__________
+
+
+MandUpKC_2.10
+sadasatorvaitathyaM yuktam, antarbahishcetaHkalpitatvAvisheShAditi vyAkhyAtamanyat //10//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.11
+
+codaka Aha
+
+
+#<ubhayor api vaitathyaM bhedAnAM sthAnayor yadi /
+ka etAn budhyate bhedAn ko vai teShAM vikalpakaH // MandUpK_2.11 //>#
+
+
+__________
+
+
+MandUpKC_2.11
+svapnajAgratsthAnayorbhedAnAM yadi vaitathyaM ka etAnarbahishcetaHkalpitAnbudhyate /
+ko vai teShAM vikalpakaH /
+smR^itij~nAnayoH ka AlambanamityabhiprAyaH, na cennirAtmavAda iShTaH //11//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.12
+
+
+#<kalpayaty AtmanAtmAnam AtmA devaH svamAyayA /
+sa eva budhyate bhedAn iti vedAntanishcayaH // MandUpK_2.12 //>#
+
+
+__________
+
+
+MandUpKC_2.12
+svayaM svamAyayA svamAtmAnamAtsA deva Atmanyeva vakShyamANaM bhedAkAraM kalpayati rajjvAdAviva sarpAdIn svayameva  ta tAnbudhyate bhedAMstadvadevetyevaM vedAntanishcayaH /
+nAnyo 'sti j~nAnasmR^ityAshrayo na ca nirAspada eva j~nAnasmR^itI vainAshikAnAmivetyabhiprAyaH //12//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.13
+
+saN^kalpayankena prakAreNa kalpayatItyucyate
+
+
+#<vikaroty aparAn bhAvAn antashcitte vyavasthitAn /
+niyatAMsh ca bahishcitta evaM kalpayate prabhuH // MandUpK_2.13 //>#
+
+
+__________
+
+
+MandUpKC_2.13
+vikaroti nAnA karotyaparAMl laukikAn bhAvAn padArthA¤ shabdAdInanyAMshcAntashcitte vAsanArUpeNa vyavasthitAnavyAkR^itAn niyatAMshca pR^ithvyAdInaniyatAMshca kalpanAkAlAnbahishcittaH saMstathAntashcitto manorathAdilakShaNAnityevaM kalpayati prabhurIshvara AtmetyarthaH //13//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.14
+
+svapnavaccittaparikalpitaM sarvamityetadAshaN^kyate /
+yasmAccittaparikalpitairmanorathAdilakShaNaishcittaparicchedyaivailakShaNyaM bAhyAnAmanyonyaparicchedyatvamiti //
+sA na yuktAshaN^kA /
+
+
+#<cittakAlA hi ye 'ntas tu dvayakAlAsh ca ye bahiH /
+kalpitA eva te sarve visheSho nAnyahetukaH // MandUpK_2.14 //>#
+
+
+__________
+
+
+MandUpKC_2.14
+cittakAlA hi ye 'ntastu cittaparicchedyAH, nAnyashcittakAlavyatirekeNa paricchedakaH kAlo yeShAM te cittakAlAH /
+kalpanAkAla evopalabhyanta ityarthaH /
+dvayakAlAshca bhedakAlA anyonyaparicchedyAH /
+yathAgodohanamAste, yAvadAste tAvadgAM dogdhi yAvadgAM dogdhi tAvadAste /
+tAvAnayametAvAnsa iti parasparaparicchedyaparicchedakatvaM bAhyAnAM bhedAnAM te dvayakalA antashcittakAlA bAhyAshca dvayakAlAH kalpitA eva te sarve /
+na bAhyo dvayakAlatvavisheShaH kalpitatvavyatirekeNAnyahetukaH /
+atrApi hi svapnadR^iShTAnto bhavatyeva //14//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.15
+
+
+#<avyaktA eva ye 'ntas tu sphuTA eva ca ye bahiH /
+kalpitA eva te sarve visheShas tv indriyAntare // MandUpK_2.15 //>#
+
+
+__________
+
+
+MandUpKC_2.15
+yadapyantaravyaktatvaM bhAvAnAM manovAsanAmAtrAbhivyaktAnAM sphuTatvaM vA bahishcakShurAdIndriyAntare visheSho nAsau bhedAnAmastitvakR^itaH svapne 'pi tathA darshanAt /
+kintarhi? indriyAntarakR^ita eva /
+ataH kalpitA eva jAgtadbhAvA api svapnabhAvavaditi siddham //15//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.16
+
+bAhyAdhyAtmikAnAM bhAvAnAmitaretaranimittanaimittikatayA kalpanAyAM kiM mUlamityucyate
+
+
+#<jIvaM kalpayate pUrvaM vaco bhAvAn pR^ithagvidhAn /
+bAhyAn AdhyAtmikAMsh caiva yathAvidyas tathAsmR^itiH // MandUpK_2.16 //>#
+
+
+__________
+
+
+MandUpKC_2.16
+jIvaM hetuphalAtmakam, ahaM karomi mama sukhaduHkhe  ityevaM  lakShaNam, anevaMlakShaNa eva shuddha Atmani rajjAviva sarpaM kalpayate pUrvam /
+tatastAdarthyena kriyAkArakaphalabhedena prANAdInnAnAvidhAnbhAvAnbAhyAnAdhyAtmikAMshcaiva kalpate /
+tatra kalpanAyAM ko heturityucyate /
+yo 'sausvayaN^kalpito jIvaH sarvakalpanAyAmadhikR^itaH sa yathAvidyaH, yAdR^ishI vidyA vij~nAnamasyeti yathAvidyaH, tathAvidhaiva smR^itistasyeti tathAsmR^itirbhavati sa iti /
+ato hetukalpanAvij~nAnAtphalavij~nAnaM tato hetiphalasmR^itistatastadvij~nAnaM tadarthakriyAkArakatatphalabhedavij~nAnAni tebhyastatsmR^itistatsmR^iteshca punastadvij~nAnAnItyevaM bAhyAnAdhyAtmikAMshcetaretaranimittanaimittikabhAvenAnekadhA kalpayate //16//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.17
+
+tatra jIvakalpanA sarvakalpanAmUlamityuktaM saiva jIvakalpanA kiMnimitteti dR^iShTAntena pratipAdayati
+
+
+#<anishcitA yathA rajjur andhakAre vikalpitA /
+sarpadhArAdibhir bhAvais tadvad AtmA vikalpitaH // MandUpK_2.17 //>#
+
+
+__________
+
+
+MandUpKC_2.17
+yathA loke svena rUpeNAnishcitAnavadhAritaivameveti rajjurmandAndhakAre kiM sarpa udakadhArA daNDa iti vAnekadhA vikalpitA bhavati pUrvaM svarUpAnishcayanimittaM yadi hi pUrvameva rajjuH svarUpeNa nishcitA syAt, na sarpAdivikalpo 'bhaviShyad yathA svahastAN^gulyAdiShu, eSha dR^iShTAntaH /
+tadvaddhetuphalAdisaMsAradharmAnarthavilakShaNatayA svena vishuddhavij~naptimAtrasattAdvayarUpeNAnishcitatvAjjIvaprANAdyanantabhAvabhedairAtmavikalpita ityeSha sarvopaniShadAM siddhAntaH //17//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.18
+
+
+#<nishcitAyAM yathA rajjvAM vikalpo vinivartate /
+rajjur eveti cAdvaitaM tadvad AtmavinishcayaH // MandUpK_2.18 //>#
+
+
+__________
+
+
+MandUpKC_2.18
+rajjureveti nishcaye sarvavikalpanivR^ittau rajjureveti cAdvaitaM yathA tathA 'neti neti'(bR^i.u.4.4.22) iti sarvasaMsAradharmashUnyapratipAdakashAstrajanitavij~nAnasUryAlakakR^itAtmavinishcayaH  'AtmaivedaM sarvam' (chA.u.7.25.2) 'apUrvamanaparamanantaramabAhyam' (bR^i.u.2.5.19) 'sabAhyAbhyantaro hyajaH'(mu.u.2.1.2) 'ajaro 'maro 'mR^ito 'bhayaH'(bR^i.u.4.4.25) 'eka evAdvayaH'  iti //18//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.19
+
+yadyAtmaika eveti nishcayaH kathaM prANAdibhiranantairbhAvairetaiH saMsAralakShaNairvikalpita ity ucyate, shR^iNu
+
+
+#<prANAdibhir anantaish ca bhAvair etair vikalpitaH /
+mAyaiShA tasya devasya yayA saMmohitaH svayam // MandUpK_2.19 //>#
+
+
+__________
+
+
+MandUpKC_2.19
+mAyaiShA tasyAtmano devasya /
+yathA mAyAvinA vihitA mAyA gaganamativimalaM kusumitaiH sapalAshaistarubhirAkIrNamiva karoti tatheyamapi devasya mAyA yayAyaM svayamapi mohita iva mohito bhavati /
+'mama mAyA duratyayA'(gItA 7.14) ityuktam //19//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.20-28
+
+
+
+#<prANa iti prANavido bhUtAnIti ca tadvidaH /
+guNA iti guNavidas tattvAnIti ca tadvidaH // MandUpK_2.20 //>#
+
+
+
+#<pAdA iti pAdavido viShayA iti ca tadvidaH /
+lokA iti lokavido devA iti ca tadvidaH // MandUpK_2.21 //>#
+
+
+
+#<vedA iti vedavido yaj~nA iti ca tadvidaH /
+bhokteti ca bhoktR^ivido bhojyam iti ca tadvidaH  // MandUpK_2. 22  //>#
+
+
+
+#<sUkShma iti sUkShmavidaH sthUla iti ca tadvidaH /
+mUrta iti mUrtavido 'mUrta iti ca tadvidaH // MandUpK_2.23 //>#
+
+
+
+#<kAla iti kAlavido disha iti ca tadvidaH /
+vAdA iti vAdavido bhuvanAnIti tadvidaH // MandUpK_2.24 //>#
+
+
+
+#<mana iti manovido buddhir iti ca tadvidaH /
+cittam iti cittavido dharmAdharmau ca tadvidaH // MandUpK_2.25 //>#
+
+
+
+#<paJNcaviMshaka ity eke ShaDvisha iti cApare /
+ekatriMshaka ity Ahur ananta iti cApare // MandUpK_2.26 //>#
+
+
+
+#<lokAMl lokavidaH prAhur AshramA iti tadvidaH /
+strIpuMnapuMsakaM laiN^gAH parAparam athApare // MandUpK_2.27 //>#
+
+
+
+#<sR^iShTir iti sR^iShTivido laya iti ca tadvidaH /
+sthitir iti sthitividaH sarve ceha tu sarvadA // MandUpK_2.28 //>#
+
+
+__________
+
+
+MandUpKC_2.28
+prANaH prAj~no bIjAtmA tatkAryabhedA hItare sthatyantAH /
+anye ca sarve laukikAH sarvaprANiparikalpitA bhedA rajjvAmiva sarpAdayas tacchUnya AtmanyAtmasvarUpAnishcayahetoravidyayA kalpitA iti piNDIkR^itor'thaH /
+prANAdishlokAnAM pratyekaM padArthavyAkhyAne phalguprayojanatvAtsiddhapadArthatvAcca yatno na kR^itaH //28//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.29
+
+kiM bahunA
+
+
+#<yaM bhAvaM darshayed yasya taM bhAvaM sa tu pashyati /
+taM cAvati sa bhUtvAsau tadgrahaH samupaiti tam // MandUpK_2.29 //>#
+
+
+__________
+
+
+MandUpKC_2.29
+prANAdInAmanyatamamuktamanuktaM vAnyaM bhAvaM padArthaM darshayedyasyAcAryo 'nyo vApta idameva tattvamiti sa taM bhAvamAtmabhUtaM pashyatyayamahamiti vA mameti vA /
+taM ca draShTAraM sa bhAvo 'vati yo darshito bhAvo 'sau bhUtvA rakShati /
+svenAtmanA sarvato niruNaddhi /
+tasmingrahastadgrahastadabhiniveshaH /
+idameva
+tattvamiti sa taM grahItAramupaiti /
+tasyAtmabhAvaM nigacchatItyarthaH //29//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.30
+
+
+#<etair eSho 'pR^ithagbhAvaiH pR^ithag eveti lakShitaH /
+evaM yo veda tattvena kalpayet so 'vishaN^kitaH // MandUpK_2.30 //>#
+
+
+__________
+
+
+MandUpKC_2.30
+etaiH prANAdibhirAtmano 'pR^ithagbhUtairapR^ithagbhAvaireSha AtmA rajjuriva sarpAdi vikalapnArUpaiH pR^ithageveti lakShito 'bhilakShito nishcito mUDhairityarthaH /
+vivekinAM tu rajjvAmiva kalpitAH sarpAdayo nAtmavyatirekeNa prANAdayaH santItyabhiprAya idaM sarvaM yadayamAtmA (bR^i.u.2.4.6, 4.5.7) iti shruteH /
+
+evamAtmavyatirekeNAsatvaM rajjusarpavadAtmani kalpitAnAmAtmAnaM ca kevalaM nirvikalpaM yo veda tattvena shrutito yuktitashca sa avishaN^kito vedArthaM vibhAgataH kalpayetkalpayatItyarthaH idamevaMparaM vAkyamado 'nyaparamiti /
+
+na hyanadhyAtmavidvedAJNj~nAtuM  shaknoti tattvataH /
+'nahyanadhyAtmavitkashcitkriyAphalamupAshnute' (manu.6 / 82) iti hi mAnavaM vacanam //30//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.31
+
+yadetdvaitasyAsattvamuktaM yuktitastadetadvedAntapramANAvagatamityAha
+
+
+
+#<svapnamAye yathA dR^iShTaM gandharvanagaraM yathA /
+tathA vishvam idaM dR^iShTaM vedAnteShu vicakShaNaiH // MandUpK_2.31 //>#
+
+
+__________
+
+
+MandUpKC_2.31
+svapnashca mAyA ca svapnamAye 'sadvastvAtmike 'satyau sadvastvAtmika iva lakShyete 'vivekibhiH /
+yathA ca prasAritapaNyA  paNagR^ihaprAsAdastrIpuJNjanapadavyavahArAkIrNamiva gandharvanagaraM dR^ishyamAnameva sadakasmAdabhAvatAM gataM dR^iShTam, yathA ca svapnamAye dR^iShTe 'sadrUpe, tathA vishvamidaM dvaitaM samastamasaddR^iShTam /
+
+kvetyAha vedAnteShu /
+"neha nAnAsti kiJNcana"(ka.u.2 / 1 / 11, bR^i.u.4 / 4 / 19) "indro mAyAbhiH"(bR^i.u.2 / 5 / 19) "Atmaivedamagra AsIt" (bR^i.u.1 / 4 / 17) "brahma vedamagra AsIt"(bR^i.u.1 / 4 / 10) "dvitIyAdvai bhayaM bhavati"(bR^i.u.1 / 4 / 2) "na tu taddvitIyasti"(bR^i.u.4 / 3 / 23) "yatra svasya sarvamAtmaivAbhUt"(bR^i.u.4 / 5 / 15) ityAdiShu vicakShaNairnipuNataravastudarshibhi paNDitairityarthaH /
+
+"tamaHshvabhranibhaM dR^iShTaM varShabudbudasannibham /
+nAshaprAyaM sukhAddhInaM nAshottaramabhAvagam"iti vyAsasmR^iteH //31//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.32
+
+prakaraNArthopasaMhArArtho 'yaM shlaukaH /
+yadA vitathaM dvaitamAtmaivaikaH paramArthataH saMstadedaM niShpannaM bhavati sarvo 'yaM laukiko vaidikashca vyavahAro 'vidyAviShaya eveti /
+
+tadA
+
+
+#<na nirodho na cotpattir na baddho na ca sAdhakaH /
+na mumukShur na vai mukta ity eShA paramArthatA // MandUpK_2.32 //>#
+
+
+__________
+
+
+MandUpKC_2.32
+na nirodhaH nirodhanaM nirodhaH pralayaH, utpattirjananam, baddhaH saMsArI jIvaH, sAdhako mAdhanavAnmokShasya, mumukShurmocanArthI, mukto vimuktabandhaH /
+utpattipralayayorabhAvAdbaddhAdayo na santItyeShA paramArthatA /
+
+kathamutpattipralayorabhAvaH, ityucyate, dvaitasyAsatvAt /
+yatra hi dvaitamiva bhavati"(bR^i.u.2 / 4 / 14) "ya iha nAneva pashyati"(ka.u.2 / 1 / 10,11) "AtmaivedaM sarvam"(chA.u.7 / 25 / 2) "brahmaivedaM sarvam"(nR^isiMhottara.7)"ekamevAdvitIyaM"(chA.u.6 / 2 / 1) "idaM sarvaM yadayamAtmA"(bR^i.u.2 / 4 / 6,4 / 5 / 7) ityAdinAnAshrutibhyo dvaitasyAsatvaM siddham /
+
+sato hyutpattiH pralayo vA syAnnAsataH shashaviShANAde /
+nApyadvaitamutpadyate lIyate vA /
+advayaM cotpattipralayavacceti vipratiShiddham /
+
+yastu punardvaitasaMvyavahAraH sa rajjusarpavadAtmani prANAdilakShaNaH kalpita ityuktam /
+na hi manovikalpanAyA rajjusarpAdilakShaNAyA rajjvAM pralaya utpattirvA /
+na ca manasi rajjusarpasyotpattiH pralayo vA na cobhayato vA /
+tathA mAnasatvAvisheShAddvaitasya /
+na hi niyate manasi suShupte vA dvaitaM gR^ihyate /
+
+ato manovikalpanAmAtraM dvaitamiti siddham /
+tasmAdsUktaM dvaitasyAsatvAnnirodhAdyabhAvaH paramArthateti /
+
+yadyevaM dvaitAbhAve shAstravyApAro nAdvaite virodhAt /
+tathA ca satyadvaitasya vastutve pramANAbhAvAcchUnyavAdaprasaN^gaH, dvaitasya cAbhAvAt /
+
+na; rajjusarpAdivikalpanAyA nirAspadatvAnupapattiriti pratyuktametatkathamujjIvayasItyAha rajjurapi sarpavikalpasyAspada bhUtA vikalpitaiveti dR^iShTAntAnupapattiH /
+
+na; vikalpanAkShaye 'vikalpitasyAvikalpitatvAdeva sattopatteH /
+rajjusarpavadasattvamiti cet? na, ekAntenAvikalpitatvAdavikalpitarajjvaMshavatprAk sarpAbhAvavij~nAnAt /
+vikalpayitushca prAgvikalpanotpatteH siddhatvAbhyupagamAdasatvAnupapattiH /
+
+kathaM punaH svarUpevyApArAbhAve shAstrasya dvaitavij~nAnanivartakatvam?
+
+naiSha doShaH /
+rajjvAM sarpAdivadAtmani dvaitasyAvidyAdhyastatvAt /
+katham? sukhyahaM duHkhI mUDho jAto mR^ito jIrNo dehavAn pashyAmi vyakto 'vyaktaH kartA phalI saMyukto viyuktaH kShINo vR^iddhohaM mamaita ityevamAdayaH sarva AtmanyadhyAropyante /
+AtmaiteShvanugataH sarvatrAvyabhicArAt /
+yathA sarpadhArAdibhedeShu rajjuH /
+
+yadA caivaM visheShyasvarUpapratyayasya siddhatvAnna kartavyatvaM shAstreNa /
+akR^itakartR^i ca shAstraM kR^itAnukAritve 'prAmANam /
+yato 'vidyAdhyAropitasukhitvAdivisheShapratibandhAdevAtmanaH svarUpeNAnavasthAnaM svarUpAvasthAnaM ca shreya iti sukhitvAdinivartakaM shAstram AtmanyasukhitvAdipratyayakaraNena neti netyasthUlAdivAkyaiH /
+AtmasvarUpavadasukhitvAdyapi sukhitvAdibhedeShu nAnuvR^itto 'sti dharmaH /
+yadyanuvR^ittaH syAnnAdhyAropitasukhitvAdilakShaNo visheShaH /
+yathoShNatvaguNavisheShavatyagnau shItatA /
+tasmAnnirvisheSha evAtmani sukhitvAdayo visheShAH kalpitAH /
+yattvasukhitvAdishAstramAtmanastatsukhitvAdi visheShanivR^ityarthameveti siddham /
+"siddhaM tu nivartakatvAt"ityAgamavidAM sUtram //32//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.33
+
+pUrvashlokArthasya hetumAha
+
+
+#<bhAvair asadbhir evAyam advayena ca kalpitaH /
+bhAvA apy advayenaiva tasmAd advayatA shivA // MandUpK_2.33 //>#
+
+
+__________
+
+
+MandUpKC_2.33
+yathA rajjvAmasadbhiH sapradhArAdibhiradvayena ca rajjudravyeNa satAyaM sarpa iyaM dhArA daNDo 'yamiti vA rajjudravyameva kalpyata evaM prANAdibhiranantairasadbhirevAvidyamAnaiH, na paramArthataH na hyapracalite manasi kashcidbhAva upalakShayituM shakyate kenacit;  na cAtmanaH pracalanamasti; pracalitasyaivopalabhyamAnA bhAvA na paramArthataH santaH kalpayituM shakyAH ato 'sadbhireva prANAdabhAvairadvayena ca paramArthasatAtmanA rajjuvattarvavikalpAspadabhUtenAyaM svayamevAtmA kalpitaH; sadaikasvabhAvo 'pi san /
+
+te ca prANAdibhAvAM apyadvayenaiva satAtmanA vikalpitAH /
+na hi nirAspadA kAcitkalpanopalabhyate; ataH sarvakalpanAspadatvAtsvenAtnAdvayasyAvyabhicArAtkalpanAvasthAyAmapyadvayatA shivA /
+kalpanA eva tvaMshivAH /
+rajjusarpAdivattrAsAdikAriNyo hi tAH /
+advayatAbhayAtaH saiva shivA //33//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.34
+
+kutashcAdvayatA shivA? nAnAbhUtaM /
+pR^ithaktvamanyasyAnyasmAdyatra dR^iShTaM tatrAshivaM bhavet /
+
+
+#<nAtmabhAvena nAnedaM na svenApi kathaJNcana /
+na pR^ithaÇ nApR^ithak kiJNcid iti tattvavido viduH // MandUpK_2.34 //>#
+
+
+__________
+
+
+MandUpKC_2.34
+na hyatrAdvaye paramArthasatyAtmani prANAdisaMsArajAtamidaM jagadAtmabhAvena paramArthasvarUpeNa nirIpyamANaM nAnA vastvantarabhUtaM bhavati /
+yathA rajjusvarUpeNa prakAshena nirUpyamANo na nAnAbhUtaH  kalpitaH sarpo 'sti tadvat /
+nApi svena prANAdyAtmanedaM vidyate /
+kadAcidapi rajjusarpavatkalpitatvAdeva /
+
+tathAnyonyaM na pR^ithakprANAdi vastu yathAshvAnmahiShaH pR^ithagvidyata evam /
+ato 'stvAnnApR^ithagvidyate 'nyonyaM pareNa vA kiJNcidity evaM paramArthatattvamAtavido brAhmaNA viduH /
+ato 'shivahetutvAbhAvAdadvayataiva shivetyabhiprAyaH //34//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.35
+
+tadetatsamyagdarshanaM stUyate
+
+
+#<vItarAgabhayakrodhair munibhir vedapAragaiH /
+nirvikalpo hy ayaM dR^iShTaH prapaJNcopashamo 'dvayaH // MandUpK_2.35 //>#
+
+
+__________
+
+
+MandUpKC_2.35
+vigatarAgabhayadveShakrodhAdisarvadaiShaiH sarvadA munibhirmananashIlairvivekibhirvedapAragairavagatavedArthatattvairj~nAnibhirni rvikalpaH sarvavikalpaH shUnyo 'mAtmA dR^iShTa upalabdho vedAntArthatatparaiH prapaJNcopashamaH prapaJNco dvaitabhedavistArastasyopashamo 'bhAvo yasminsa AtmA prapaJNcopashamo 'ta evAdvayo vigatadoShaireva paNDitairvedAntArthatatparaiH saMnyasibhiH paramAtmA draShTuM shakyaH, nAnyai rAgAdikaluShitacetobhiH svapakShapAtidarshanaistArkikAdibhirityAbhiprAyaH //35//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.36
+
+yasmAtsarvAnarthaprashamarUpatvAdadvayaM shivamabhayam
+
+
+#<tasmAd evaM viditvainam advaite yojayet smR^itim /
+advaitaM samanuprApya jaDavallokam Acaret // MandUpK_2.36 //>#
+
+
+__________
+
+
+MandUpKC_2.36
+ata evaM viditvainamadvaite smR^itiM yojayet /
+advaitAvagamAyaiva smR^itiM kuryAdityarthaH /
+taccAdvaitamavagamyAhamasmi paraM brahmeti viditvAshanAyAdyatItaM sAkShAdaparokShAdajamAtmAnaM sarvalokavyavahArAtItaM jaDavallokamAcaret /
+aprakhyApayannAtmAnamahamevaMvidha ityabhiprAyaH //36//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.37
+
+kayA caryayA lokamAcaredityAha
+
+
+#<niHstutir nirnamaskAro niHsvadhAkAra eva ca /
+calAcalaniketash ca yatir yAdR^icchiko bhavet // MandUpK_2.37 //>#
+
+
+__________
+
+
+MandUpKC_2.37
+stutinamaskArAdisarvakarmavarjitastyaktasarvabAhyaiShaNaH pratipannaparamahaMsapArivrAjya ityabhiprAyaH"etaM vai tamAtmAnaM viditvA"(bR^i.u.3 / 5 / 1) ityAdishruteH;"tadbuddhayastadAtmAnastanniShThAstatparAyaNAH"(gItA 5 / 17) ityAdismR^iteshca calaM sharIraM pratikShaNamanyathAbhAvAt, acalamAtmatattvam, yadAkadAcidbhojanAdivyavahAranimittamAkAshavadacalaM svarUpamAtmatattvamAtmano niketamAshrayamAtmasthitiM vismR^ityAhamiti manyate yadA tadA calo deho niketo yasya sa ayamevaM calAcalaniketo vidvAnna punarbAhyaviShayAshrayaH; sa ca yAdR^icchiko bhaved yadR^icchAprAptakaupInacchAdanagrAsamAtradehasthitirityarthaH //37//
+
+
+_______________________________________________________________________
+
+
+START MandUpK 2.38
+
+
+#<tattvam AdhyAtmikaM dR^iShTvA tattvaM dR^iShTvA tu bAhyataH /
+tattvIbhUtas tadArAmas tattvAd apracyuto bhavet // MandUpK_2.38 //>#
+
+
+__________
+
+
+MandUpKC_2.38
+bAhyaM pR^ithivyAditatvaM AdhyAtmikaM ca dehAdilakShaNaM rajjusarpAdivatsvapnamAyAdivacca asat"vAcArambhaNaM vikAro nAmadheyam" (chA.u.6 / 1 / 4) ityAdishruteH /
+AtmA ca sabAhyAbhyantaro hyajo 'pUrvo 'nantaro 'bAhyaH kR^itsna AkAshavatsarvagataH sUkShmo 'calo nirguNo niShkalo niShkriyaH"tatsatyaM sa AtmA tattvamasi"(chA.u.6 / 8 / 16) iti shruteH /
+ityevaM tattvaM dR^iShTvA tattvIbhUtastadArAmo na bAhyaramaNo yathAtattvadarshI kashciccittamAtmatvena pratipannashcittacalanamanucalitamAtmAnaM manyamAnastatattvAccalitaM dehAdibhUtamAtmAnaM kadAcinmanyate pracyuto 'hamAtmatattvAdidAnImiti; samAhite cu manasi kadAcittattvabhUtaM prasannAtmAnaM manyata idAnImasmi tattvIbhUta iti; na tadAtmavidbhavet /
+Atmana ekarUpattvAtsvarUpapracyavanAsambhavAcca /
+sadaiva brahmAsmItyapracyuto bhavettattvAtsadApracyutAtmatattvadarshano bhavedityabhiprAyaH"shuni caiva shvapAke ca paNDitAH samadarshinaH"(gItA 12 / 18) "samaM sarveShu bhUteShu"(gItA 13 / 17) ityAdi smR^iteH //38//
+
+
+

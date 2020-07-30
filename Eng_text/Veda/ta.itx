@@ -1,0 +1,904 @@
+%@@1
+% File name             : aranyaka1.itx
+%--------------------------------------------
+% Text title            : taittirIya AraNyaka 1
+% Author                : Vedic Tradition
+% Language              : Sanskrit
+% Subject               : philosophy/hinduism
+% Description/comments  : ????Source
+% Transliterated by     : Rajagopal Iyer (rajsand@yahoo.com)
+% Proofread by          : Rajagopal Iyer (rajsand@yahoo.com)
+% Latest update         : July 5, 2000
+% Send corrections to   : sanskrit@cheerful.com
+%
+% Special Instructions:
+% i1h.hdr,ijag.inc,itrans.sty,multicol.sty,iarticle.sty
+% Transliteration scheme: ITRANS 5.2
+% Site access  :         
+% http://sanskrit.gde.to/
+% http://www.alkhemy.com/sanskrit/
+% ftp://jaguar.cs.utah.edu/sanskrit/sanskrit.html
+%-----------------------------------------------------
+% The text is to be used for personal studies and research only.
+% Any use for commercial purpose is prohibited as a 'gentleman's'
+% agreement.
+% @@2
+%
+% Commands upto #indian and others with \ mark
+% are needed for devanAgarI output and formatting.
+%--------------------------------------------------------
+
+
+\documentstyle[11pt,multicol,itrans]{article}
+%\documentclass[11pt]{article}
+%\usepackage{multicol}
+#include=ijag.inc
+#endwordvowel=.h
+\portraitwide
+\parindent=100pt                
+\let\usedvng=\Largedvng      % for 1 column     
+\pagenumbering{itrans} 
+\def\engtitle#1{\hrule\medskip\centerline{\large #1}}
+\def\itxtitle#1{\medskip\centerline{\LARGEdvng #1}\medskip\hrule}
+\def\endtitles{\medskip\obeyspaceslines}
+%%
+\begin{document}
+
+\engtitle{\LARGE TaittiriyAranyakam}##
+\itxtitle{.. taittirIyAraNyakam..}##\endtitles## 
+
+OM bhadraM karNebhiH shR^iNuyAma devAH. bhadraM pashyemAkshabhiryajatrAH.
+sthiraira~NgaistuShTuvA{\m+}sastanUbhiH. vyashema devahitaM yadAyuH.
+svasti na indro vR^iddhashravAH. svasti naH pUShA vishvavedAH.
+svasti nastArkshyo ariShTanemiH. svasti no bR^ihaspatirdadhAtu..
+OM shAntiH shAntiH shAntiH ..
+
+OM bhadraM karNebhiH shR^iNuyAma devAH. bhadraM pashyemAkshabhiryajatrAH.
+sthiraira~NgaistuShTuvA{\m+}sastanUbhiH. vyashema devahitaM yadAyuH.
+svasti na indro vR^iddhashravAH. svasti naH pUShA vishvavedAH.
+svasti nastArkshyo ariShTanemiH. svasti no bR^ihaspatirdadhAtu.
+ApamApAmapaH sarvAH. asmAdasmAdito.amutaH .. 1 ..
+
+agnirvAyushca sUryashca. saha saMcaskararddhiyA. 
+vAyvashvA rashmipatayaH. marIcyAtmano adruhaH.
+devIrbhuvanasUvarIH. putravatvAya me suta.
+mahAnAmnIrmahAmAnAH. mahaso mahasassvaH.
+devIH parjanyasUvarIH. putravatvAya me suta .. 2 ..
+
+apAshnyuShNimapA rakshaH. apAshnyuShNimapAragham.
+apAghrAmapa cAvartim. apadevIrito hita.
+vajraM devIrajItA{\m+}shca. bhuvanaM devasUvarIH.
+AdityAnaditiM devIm. yoninordhvamudIShata .
+shivAnashshantamA bhavantu. divyA Apa oShadhayaH.
+sumR^iDIkA sarasvatI. mA te vyoma saMdR^ishi .. 3 ..
+
+smR^itiH pratyakshamaitihyam. anumAnashcatuShTayam.h.
+etairAdityamaNdalam.h. sarvaireva vidyAsyate.
+sUryo marIcimAdatte. sarvasmAdbhuvanAdadhi.
+tasyAH pAkavisheSheNa. smR^itaM kAlavisheShaNam.h.
+nadIva prabhavAtkAcit.h. akshayyAtsyandate yathA .. 4 ..
+
+tAnnadyo.abhisamAyanti. sorussatI na nivartate evannAnAsamutthAnAH.
+kAlAssaMvatsara{\m+} shritAH. aNushashca mahashashca.
+sarve samavayantritam.h. sataissarvaissamAviShTaH.
+Urussanna nivartate adhisaMvatsaraM vidyAt.h. tadeva lakshaNe .. 5 ..
+
+aNubhishca mahadbhishca. samArUDhaH pradR^ishyate.
+saMvatsaraH pratyaksheNa. nAdhisatvaH pradR^ishyate.
+paTaro viklidhaH pi~NgaH. etadvaruNalakshaNam.h.
+yatraitadupadR^ishyate. sahasraM tatra nIyate.
+eka{\m+}hi shiro nAnA mukhe. kR^itsnam tadR^itulakshaNam.h .. 6 ..
+
+ubhayatassaptendriyANi. jalpitaM tveva dihyate.
+shuklakR^iShNe saMvatsarasya. dakshiNavAmayoH pArshvayoH.
+tasyaiShA bhavati. shukraM te anyadyajataM te anyat.h.
+viShurUpe ahanI dyaurivAsi. vishvA hi mAyA avasi svadhAvaH.
+bhadrA te pUShanniha rAtirastviti. nAtra bhuvanam.h. na pUShA.
+na pashavaH. nAdityassaMvatsara eva prayaksheNa priyatamaM vidyAt.h.
+etadvai saMvatsarasya priyatama{\m+} rUpam.h. yo.asya mahAnartha utpatsyamAno bhavati.
+idaM puNyaM kuruShveti. tamAharaNaM dadyAt.h .. 7 ..
+
+sAkaMjAnA{\m+} saptathamAhurekajam.h. ShaDudyamA R^iShayo devajA iti.
+teShAmiShTAni vihitAni dhAmashaH. sthAtre rejante vikR^itAni rUpashaH
+ko nu maryA amithitaH. sakhA sakhAyamabravIt.h. 
+jahAko asma dIShate. yastityAja sakhivida{\m+} sakhAyAm.h.
+na tasya vAcyapi bhAgo asti. yadI{\m+} shR^iNotyalaka{\m+} shR^iNoti .. 8 ..
+
+na hi praveda sukR^itasya panthAmiti. R^iturR^itunA nudyamAnaH.
+vinanAdAbhidhAvaH. ShaShTishca tri{\m+}shakA valgAH.
+shukakR^iShNau ca ShaShTikau. sArAgavastrairjaradakshaH.
+vasanto vasubhissaha saMvatsarasya savituH. 
+praiShakR^itprathamaH smR^itaH. amUnAdayateetyanyAn.h .. 9 ..
+
+amU{\m+}shca parirakshataH. etA vAcaH prayujyante.
+yatraitadupadR^ishyate. etadeva vijAnIyAt.
+pramANaM kAlaparyaye. visheShaNaM tu vakshyAmaH.
+R^itUnAM tannibodhata. shuklavAsA rudragaNaH.
+grIShmeNA.a.avartate saha. nijahan.h pR^ithivI{\m+} sarvAm.h .. 10 ..
+
+jyotiShA.apratikhyena saH. vishvarUpaNi vAsA{\m+}si.
+AdityAnAM nibodhata. saMvatsarINaM karmaphalam.h.
+varShAbhirdadatA{\m+} saha. aduHkho duHkhacakshuriva. 
+tadmA.a.apIta iva dR^ishyate. shItenAvyathayanniva.
+rurudaksha iva dR^ishyate. hlAdayate jvalatashcaiva.
+shAmyatashcAsya cakshuShI. yA vai prajA bhra{\m+}shyante.
+saMvatsarAttA bhra{\m+}shyante. yAH pratitiShThanti.
+saMvatsare tAH pratitiShThanti. varShAbhya ityarthaH .. 11 ..
+
+akshiduHkhotthitasyaiva. viprasanne kanInike.
+A~NktecAdgaNaM nAsti. R^ibhUNAM tannibodhata.
+kanakAbhAni vAsA{\m+}si. ahatAni nibodhata.
+annamashnIta mR^ijmIta. ahaM vo jIvanapradaH.
+etA vAcaH prayujyante. sharadyatropadR^ishyate .. 12 ..
+
+abhidhUnvanto.abhighnanta iva. vAtavanto marudgaNAH.
+amuto jetumiShumukhAmiva. sannaddhAssaha dadR^ishe ha.
+apadhvastairvastivarNairiva. vishikhAsaH kapardinaH.
+akruddhasya yotsyamAnasya. kruddhasyeva lohinI.
+hematashcakshuShI vidyAt.h. akshNayoH kshipaNoriva .. 13 ..
+
+durbhikshaM devalokeShu. manUnAmudakaM gR^ihe.
+etA vAcaH pravadantIH. vaidyuto yAnti shaishirIH. 
+tA agniH pavamanA anvaikshata. iha jIvikAmaparipashyan.h.
+tasyaiShA bhavati. ihehavassvatapasaH.
+marutassUryatvacaH. sharma saprathA AvR^iNe .. 14 ..
+
+atitAmrANi vAsA{\m+}si. aShTivajrishataghni ca.
+vishve devA vipraharanti. agnijihvA asashcata.
+naiva devo na martyaH. na rAjA varuNo vibhuH.
+nAgnirnendro na pavamAnaH. mAtR^ikkaccana vidyate.
+divyasyaikA dhanurArtniH. pR^ithivyAmaparA shritA .. 15 ..
+
+tasyendro vamrirUpeNa. dhanurjyAmachhinathsvayam.
+tadindradhanurityajyam. abhravarNeShu cakshate.
+etadeva shaMyorbArhaspatyasya. etadrudrasya dhanuH.
+rudrasya tveva dhanurArtniH. shira utpipeSha.
+sa pravargyo.abhavat.h. tasmAdyassapravargyeNa yaj~nena yajate.
+rudrasya sa shiraH pratidadhAti. naina{\m+} rudra Aruko bhavati. ya evaM veda .. 16 ..
+
+atyUrdhvAksho.atirashcAt.h. shishiraH pradR^ishyate.
+naiva rUpaM na vAsA{\m+}si. na cakshuH pratidR^ishyate.
+anyonyaM tu na hi{\m+}srAtaH. satastaddevalakshaNam.h.
+lohito.akshNi shArashIrShNiH. sUryasyodayanaM prati.
+tvaM kareShinya~njalikAm.h. tvaM karoShi nijAnukAm.h .. 17 ..
+
+nijAnukAmenya~njalikA. amI vAcamupAsatAmiti.
+tasmai sarva R^itavo namante. maryAdAkaratvAtprapurodhAm.
+brAhmaNa Apnoti. ya evaM veda. sa khalu saMvatsara etaissenAnIbhissaha.
+indrAya sarvAnkamAnabhivahati. sa drapsaH. tasyaiShA bhavati .. 18 ..
+
+avadrapso a{\m+}shumatImatiShThat.h. iyAnaH kR^iShNo dashabhissahasraiH.
+AvartamindraH shacyA dhamantam.h. upsnuhi taM  nR^imaNAmathadrAmitI.
+etayaivendraH salAvR^ikyA saha. asurAn.h parivR^ishcati.
+pR^ithivya{\m+}shumatI. tAmanvavasthitaH saMvatsaro divaM ca.
+naivaM viduShA.a.acAryAntevAsinau. anyonyasmai druhyAtAm. yo druhyati.
+bhrashyate svargAllokAt.h. ityR^itumaNDalAni. 
+sUryamaNDalAnyAkhyAyikAH. ata Urdhva{\m+} sanirvacanAH ..19 ..
+
+Arogo bhrAjaH paTaraH pata~NgaH. svarNaro jyotiShimAn.h vibhAsaH.
+te asmai sarve divamAtapanti. UrjaM duhAnA anapasphuranta iti.
+kashyapo.aShTamaH. sa mahAmeruM na jahAti. 
+tasyaiShA bhavati. yatte shilpaMkashyapa rocanAvat.h.
+indriyAvatpuShkalaM citrabhAanu. yasmintsUryA arpitAssapta sAkam.h .. 20 ..
+
+tasmin.h rAjAnamadhivishrayemamiti. te asmai sarve kashyapAjjy otirlabhante.
+tAntsomaH kashyapAdadhinirddhamati. bhrastAkarmakR^idivaivam.h.
+prANo jIvAnIndriyajIvAni. sapta shIrShaNyAH prANAH.
+sUryA ityAcAryAH. apashyamahametantsapta sUryAniti.
+pa~ncakarNo vAtsyAyanaH. saptakarNashca plAkshiH .. 21 ..
+
+AnushrAvika eva nau kashyapa iti. ubhau vedayite. 
+na hi shekumiva mahAmeruM  gantum. apashyamahametsUryamaNDala.m parivartamAnam.
+gArgyaH prANatrAtaH. gacchhanta mahAmerum. eka.m cAjahatam.
+bhrAjapaTarapata~NgA nihane. tiShThannAtapanti. tasmAdiha taptritapAH .. 22 ..
+
+amutretare. tasmAdihAtaptritapAH. teShAmeShA bhavati.
+sapta sUryA divamanupraviShTAH. tAnanveti pathibhirdakshiNAvAn.h.
+te asmai sarve ghR^itamAtapanti. UrjaM duhAnA anapasphuranta iti.
+saptartvijassUryA ityAcAryAH.  teShAmeShA bhavati. sapta disho nAnAsUryAH .. 23 ..
+
+sapta hotAra R^itvijaH. devA AdityA ye sapta.
+tebhissomAbhIrakshaNa iti. tadapyAmnAyaH.
+digbhrAja R^itUn.h karoti. etayaivAvR^itA sahasrasUryatAyA iti vaishaMpAyanaH.
+tasyaiShA bhavati. yaddyAva indra te shata{\m+}shataM bhUmIH.
+utasyuH. natvA vajrin.h sahasra{\m+} sUryAH .. 24 ..
+
+anunajAtamaShTa rodasI iti. nAnAli~NgatvAdR^itUnAM nAnAsUryatvam.
+aShTau tu vyavasitA iti. sUryamaNDalAnyaShTAta Urdhvam.h.
+teShAmeShA bhavati. citraM devAnAmudagAdanIkam. 
+cakshurmitrasya varuNasyAgne. AprA dyAvApR^ithivI antariksham.
+sUrya AtmA jagatastasthuShashceti ..25 ..
+
+kvedamabhrannivishate. kvAya{\m+} saMvatsaro mithaH.
+kvAhaH kveyandeva rAtrI. kva mAsA R^itavaH shritAH.
+arddhamAsA muhUrtAH. nimeShAstuTibhissaha.
+kvemA Apo nivishante. yadIto yAnti saMprati.
+kAlA apsunivishante. ApassUrye samAhitAH .. 26 ..
+
+abhrANyapaH prapadyante. vidyutsUrye samAhitA.
+anavarNe ime bhUmI. iyaM cA.asau ca rodasi.
+ki{\m+}svidatrAntarA bhUtam. yeneme vidhR^ite ubhe.
+viShNunA vidhR^ite bhUmI. iti vatsasya vedanA.
+irAvatI dhenumatI hi bhUtam.h. sUyavasinI manuShe dashasye .. 27 ..
+
+vyaShTabhnAdrodasI viShNavete. dAdhartha pR^ithivImabhito mayUkhaiH.
+kintadviShNorbalamAhuH. kA dIptiH kiM parAyaNam.h.
+eko yaddhArayaddevaH. rejatI rodasI ubhe.
+vAtAdviShNorbalamAhuH. aksharAddIptirucyate.
+tripadAddhArayaddevaH. yadviShNorekamuttamam.h .. 28 ..
+
+agnayo vAyavashcaiva. etadasya parAyaNam.h.
+pR^icchhAmi tvA paraM mR^ityum.h. avamaM madhyama~ncatum.h.
+lok~nca puNyapApAnAm.h. etatpR^icchhAmi saMprati.
+amumAhuH paraM mR^ityum.h. pavamAnaM tu madhyamam.h.
+agnirevAvamo mR^ityuH. candramAshcaturucyate .. 29 ..
+
+anAbhogAH paraM mR^ityum.h. pApAssaMyanti sarvadA.
+AbhogAstveva saMyanti. yatra puNyakR^ito janAH.
+tato madhyamamAyanti. catumagniM ca saMprati.
+pR^icchhAmi tvA pApakR^itaH. yatra yAtayate yamaH.
+tvannastadbrahman.h prabrUhi. yadi vetthA.asato gR^ihan.h .. 30 ..
+
+kashyapAduditAssUryAH. pApAnnirghnanti sarvadA.
+rodasyontardesheShu. tatra nyasyante vAsavaiH.
+te.asharIrAH prapadyante. yathA.apuNyasya karmaNaH.
+apANyapAdakeshAsaH. tatra teyonijA janAH.
+mR^itvA punarmR^ityumApadyante. adyamAnAssvakarmabhiH .. 31 ..
+
+AshAtikAH krimaya iva. tataH pUyante vAsavaiH apaitaM mR^ityuM jayati.
+ya evaM veda. sa khalvaivaM vidbrAhmaNaH. dIrghashruttamo bhavati.
+kashyapasyAtithissiddhagamanassiddhagamanaH. tasyaiShA bhavati.
+Ayasminthsapta vAsavAH. rohanti pUrvyA ruhaH .. 32 ..
+
+R^iShir.h ha dIrghashruttamaH. indrasya gharmo atithiriti.
+kashyapaH pashyako bhavati. yatsarvaM paripashyatIti saukshmyAt.h.
+athAgneraShTapuruShasya. tasyaiShA bhavati.
+agne naya supathA rAye asmAn.h. vishvAni deva vayunAni vidvAn.h.
+yuyodhyasmajjuhurANamenaH. bhUyiShThante nama uktiM vidhemeti .. 33 ..
+
+agnishca jAtavedAshca. sahojA ajirAprabhuH. vaishvAnaro naryApAshca. 
+pa~NktirAdhAshca saptamaH visarpevA.aShTamo.agnInAm.h.
+ete.aShTau vasavaH kshitA iti. yathartvevAgnerarcirvarNavisheShAH.
+nIlArcishca pItakArcishceti. atha vAyorekAdashapuruShasyaikAdashastrIkasya.
+prabhrAjamAnA vyavadAtAH .. 34 ..
+
+yAshca vAsukivaidyutAH. rajatAH paruShAH shyAmAH. kapilA atilohitAH. 
+UrdhvA avapatantAshca. vaidyuta ityekAdasha. nainaM vaidyuto hinasti.
+ya evaM veda. sa hovAca vyAsaH pArAsharyaH.
+vidyudvadhamevAhaM mR^ityumaicchhamiti. na tvakAma{\m+}hanti .. 35 ..
+
+ya evaM veda. atha gandharvagaNAH. svAanabhrAT.h.
+a~NghArirbambhAriH. hastassuhastaH. kR^ishAnurvishvAvasuH.
+mUrdhanvAnthsUryavarcAH. kR^itirityekAdasha gandharvagaNAH.
+devAshca mahAdevAH. rashmayashca devA garagiraH ..36 ..
+
+nainaM giro hinasti. ya evaM veda. 
+gaurI mimAya salilAni takshatI. ekapadI dvipadI sA catuShpadI. 
+aShTApadI navapadI babhUvuShI. sasrAksharA parame vyomanniti.
+vAco visheShaNam.h. atha nigadavyAkhyAtAH.
+tAnanukramiShyAmaH. varAhavassvatapasaH .. 37 ..
+
+vidyunmahaso dhUpayaH. shvApayo gR^ihamedhAshcetyete.
+ye ceme.ashimividviShaH. parjanyAssapta pR^ithivImabhivarShanti.
+vR^iShTibhiriti. etayaiva vibhaktiviparItAH. saptabhirvA tairudIritAH.
+amUnlokAnabhivarShanti. teshAmeShA bhavati. samAnametadudakam.h .. 38 ..
+
+uccaityavacAhabhiH. bhUmiM parjanyA jinvanti. divaM jinvantyagnaya iti.
+yadaksharaM bhUtakR^itam.h. vishve devA upAsate. maharShimasya goptAram.
+jamadagnimakurvata. jamadagnirApyAyate.
+chhandobhishcaturuttaraiH. rAj~nassomasya tR^iptAsaH .. 39 ..
+
+brahmaNA vIryAvatA. shivA naH pradisho dishaH.
+tachChaM yorAvR^iNImahe. gAtuM yaj~nAya. gAtuM yaj~napataye. 
+daivIssvastirastu naH. svastirmAnuShebhyaH. UrdhvaM jigAtu bheShajam. 
+shanno astu dvipade. sha.m catuShpade. 
+somapA ##(## 3 ##)## asomapA ##(## 3 ##)## iti nigadavyAkhyAtAH .. 40 ..
+
+sahasravR^idiyaM bhUmiH. paraM vyoma sahasravR^it.h. ashvinA bhujyUnAsatyA.
+vishvasya jagataspatI. jAyA bhUmiH patirvyoma. mithunantA aturyathuH.
+putro bR^ihaspatI rudraH. saramA iti strIpumam.h. 
+shukra,n vAmanyadyajaM vAmanyat.h. viShurUpe ahanI dyauriva sthaH .. 41 ..
+
+vishvA hi mAyA avathaH svadhAvantau. 
+bhadrA vAM pUShaNAviharAtirastu vAsAtyau citrau jagato nidhAnau.
+dyAvAbhUmI carathaH sa{\m+} sakhAyau. tAvashvinA rAsabhAshvA havaM me.
+shubhaspatI Agata{\m+} sUryayA saha. tyugroha bhujyumashvinodameghe.
+rayinna kashcinmamR^ivAM ##(## 2 ##)## avAhAH. tamUhathurnaubhirAtmanvatIbhiH.
+antarikshapruDbhirapodakAbhiH .. 42
+
+tisraH kshapastrirahAtivrajadbhiH. nAsatyA bhujyumUhathuH pata~NgaiH.
+samudrasya dhanvannArdrasya pAre. tribhIrathaishshatapadbhiH ShaDashvaiH.
+savitAraM vitanvantam.h. anubadhnAti shAMbaraH. ApapUrShaMbarashcaiva.
+savitArepaso.abhavat.h. tya{\m+} sutR^iptaM viditvaiva. bahusoma giraM vashI .. 43 ..
+
+anveti tugro vakriyAntam.h. AyasUyAntsomatR^ipsuShu. sa sa~NgrAmastamodyo.atyotaH. 
+vAco gAH pipAti tat.h. sa tadgobhisstA.atyetyanye. rakshasAnanvitAshca ye.
+anveti parivR^ityA.astaH. evametaustho ashvinA. 
+te ete dyuHpR^ithivyoH. aharahargarbhandadhAthe .. 44 ..
+
+tayoretau vatsAvahorAtre. pR^ithivyA ahaH. divo rAtriH.
+tA avisR^iShtau. dampatI eva bhavataH. tayoretau vatsau.
+agnishcAdityashca. rAtrervatsaH. shveta AdityaH. aho.agniH .. 45 ..
+
+tAmro aruNaH. tA avisR^iShTau. dampatI eva bhavataH.
+tayoretau vatsau. vR^itrashca vaidyutashca. agnervR^itraH. vaidyuta Adityasya.
+tA avisR^iShTau. dampatI eva bhavataH. tayoretau vatsau .. 46 ..
+
+uShmA ca nIhArashca. vR^itrasyoShmA. vaidyutasya nIhAraH.
+tau tAveva pratipadyete. seya{\m+}rAtrI garbhiNI putreNa saMvasati.
+tasyA vA etadulbaNam.h. yadrAtrau rashmayaH.
+yathA gorgarbhiNyA ulbaNam.h. evametasyA ulbaNam.h.
+prajayiShNuH prajayA ca pashubhishca bhavati. 
+ya evaM veda. etamudyantamapiyantaM ceti. 
+AdityaH puNyasya vatsaH. atha pavitrA~NgirasaH .. 47 ..
+
+pavitravantaH parivAjamAsate. pitaiShAM pratno abhirakshati vratam.h.
+mahassamudraM varuNastirodadhe. dhIrA icchhekurdharuNeShvArabham.h .
+pavitraM te vitataM brahmaNaspate. prabhurgAtrANi paryeShivishvataH.
+ataptatanUrna tadAmo ashnute. shR^itAsa idvahantastatsamAshata.
+brahmA devAnAm.h. asatassadye tatakshuH .. 48 ..
+
+R^ishayassaptAtrishca yat.h. sarve.atrayo agastyashca.
+nakshatraishsha~NkR^ito.avasan.h. atha savituH shyAvAshvasyA.avartikAmasya.
+amI ya R^ikshA nihitAsa uccA. naktaM dadR^ishre kuhAciddiveyuH.
+adabdhAni varuNasya vratAni. vicAkashaccandramA nakshatrameti.
+tatsaviturvareNyaM. bhargo devasya dhImahi .. 49 ..
+
+dhiyo yo naH pracodayAt.h. tatsaviturvR^iNImahe. 
+vayandevasya bhojanam.h. shreShTha{\m+}sarvadhAtamam.h.
+turaM bhagasya dhImahi. apAgUhata savitA tR^ibhIn.h.
+sarvAdivo andhasaH. naktantAnyabhavandR^ishe.
+asthyasthnA saMbhaviShyAmaH. nAma nAmaiva nAma me .. 50 ..
+
+napu{\m+}sakaM pumA{\m+}stryasmi. sthAvaro.asmyatha ja~NgamaH.
+yaje.ayakshi yaShTAhe ca. mayA bhUtAnyayakshata.
+pashavo mama bhUtAni. anUbandhyo.asmyahaM vibhuH.
+striyassatIH. tA ume pu{\m+}sa AhuH.
+pashyadakshaNvAnnavicetadandhaH. kaviryaH putrasya imA ciketa .. 51 ..
+
+yastA vijAnAthsavituH pitAsat.h. andho maNimavindat.h.
+tamana~NgulirAvayat.h. agrIvaH pratyamu~ncat.h.
+tamajihvA asashcata. UrdhvamUlamavAkchhAkham.h.
+vR^ikshaM yo veda samprati. na sa jAtu janaH shraddadhyAt.h.
+mR^ityurmA mArayAditiH. hasita{\m+}rudita~NgItam.h .. 52 ..
+
+vINApaNavalAsitam.h. mR^ita~njIvaM ca yatkiMcit
+a~NgAni sneva viddhi tat.h. atR^iShya{\m+}stR^iShyadhyAyat.h.
+asmAjjAtA me mithU carann.h. putro nirR^ityA vaidehaH.
+acetA yashca cetanaH. sa taM maNimavindat.h.
+so.ana~NgulirAvayat.h. so.agrIvaH pratyamu~ncat.h .. 53 ..
+
+so.ajihvo asashcata. naitamR^ishiM viditvA nagaraM pravishet.h.
+yadi pravishet.h. mithau caritvA pravishet.h.
+tathsambhavasyaM vratam.h. Atamagne rathantiShTha.
+ekAshvamekayojanam.h. ekacakramekadhuram.h.
+vAtadhrAjigatiM vibho. na riShyati na vyathate .. 54 ..
+
+nAsyAksho yAtu sajjati. yacchhvetAn.hrohitA{\m+}shcAgneH.
+rathe yuk.htvA.adhitiShThati. ekayA ca dashabhishca svabhUte.
+dvAbhyAmiShTaye vi{\m+}shatyA ca. tisR^ibhishca vahase tri{\m+}shatA ca.
+niyudbhirvAyavihitA vimu~nca .. 55 ..
+
+AtanuShva pratanuShva. uddhamA.a.adhama sandhama.
+Aditye candravarNAnAm.h. garbhamAdhehi yaH pumAn.h.
+itassikta{\m+}sUryagatam.h. candramase rasa~NkR^idhi.
+vArAda~njanayAgre.agnim.h. ya eko rudra ucyate.
+asa~NkhyAtAssahasrANi. smaryate na ca dR^ishyate .. 56 ..
+
+evametannibodhata. Amandrairindra haribhiH.
+yAhi mayUraromabhiH. mA tvA kecinniyemurinna pAshinaH.
+dadhanveva tA ihi. mA mandrairindra haribhiH.
+yAmi mayUraromabhiH. mA mA kecinniyemurinna pAshinaH.
+nidhanveva tAM ##(## 2 ##)## imi. aNubhishca mahadbhishca .. 57 ..
+
+nighR^iShvairasamAyutaiH. kAlairharitvamApannaiH.
+indrAyAhi sahasrayuk.h. agnirvibhrAShTivasanaH.
+vAyushshvetasikdrukaH. saMvathsaro viShUvarNaiH.
+nityaste.anucarAstava.  subrahmaNyo{\m+} subrahmaNyo{\m+} subrahmaNyom.h.
+indrAgacchha hariva Agacchha medhAtitheH. meSha vR^iShaNashvasya mene .. 58 ..
+
+gaurAvaskandinnahalyAyai jAra. kaushikabrahmaNa gautamabruvANa.
+aruNAshva ihAgatAH. vasavaH pR^ithivikshitaH.
+aShTaudigvAsaso.agnayaH. agnishca jAtavedAshcetyete.
+tamrAshvAstAmrarathAH. tAmravarNAstathA.asitAH.
+daNdahastAH khyAdagdataH. ito rudrAH parA~NgatAH .. 59 ..
+
+ukta{\m+}sthAna.m pramANa~nca pura ita. bR^ihaspatishca savitA ca.
+vishvarUpairihAgatAm.h. rathonodakavartmanA.
+apsuShA iti taddvayoH. ukto veSho vAsA{\m+}si ca.
+kAlAvayavAnAmitaH pratIjyA. vAsAtyA ityashvinoH.
+ko.antarikshe shbda~NkarotIti. vasiShTo rauhiNo mImA{\m+}sA~ncakre.
+tasyaiShA bhavati. vAshreva vidyuditi.
+brahmaNa udaraNamasi. brahMaNa udIraNamasi.
+brahmaNa AstaraNamasi. brahmaNa upastaraNamasi .. 60 .. 
+
+##[## apakrAmata garbhiNyaH ##]##
+
+aShTayonImaShTaputrAm.h. aShTapatnImimA.m mahIm.h.
+ahaM veda na me mR^ityuH. nacAmR^ityuraghAharat.h.
+aShTayonyaShTaputram.h. aShTapadidamantariksham.h.
+ahaM veda na me mR^ityuH. nacAmR^ityuraghAharat.h.
+aShTayonImaShTaputrAm.h. aShTapatnImamUndivam.h .. 61 ..
+
+ahaM veda na me mR^ityuH. nacAmR^ityuraghAharat.h.
+sutrAmANAM mahImUShu. aditirdyaurditirantariksham.
+aditirmAtA sa pitA sa putraH. vishve devA aditiH pa~ncajanAH.
+aditirjAtamaditijanitvam.h. aShTau putrAso aditeH.
+ye jAtAstanvaH pari. devaM ##(## 2 ##)## upapraitsaptabhiH .. 62 ..
+
+parA mArtANDamAsyat.h. saptabhiH putrairaditiH.
+upapraitpUrvyaM yugam. prajAyai mR^ityave tat.h.
+parA mArtANDamAbharaditi. tAnanukramiShyAmaH. 
+mitrashca varuNashca. dhAtA cAryamA ca.
+a{\m+}shashca bhagashca. indrashca vivasvA{\m+}shcetyete.
+hiraNya garbho ha{\m+}sashshuciShat.h. 
+brahmajaj~nAnaM taditpadamiti garbha prAjApatyaH.
+atha puruShaH sapta puruShaH .. 63 ..
+
+##[## yathAsthAnaM garbhiNyaH ##]##
+
+yo.asau tapannudeti. sa sarveShAM bhUtAnAM prANAnAdAyodeti.
+mA me prajayA mA pashUnAm.h. mA mama prANAnAdAyodagAH.
+asau yo.astameti. sa sarveShAM bhUtAnAM prANAnAdAyA.astameti.
+mA me prajayA mA pashUnAm.h. mA mama prANAnAdAyA.asta~NgAH.
+asau ya ApUryati. sa sarveShAM bhUtAnAM prANairApUryati .. 64 ..
+
+mA me prajayA mA pashUnAm.h. mA mama prANairApUriShThAH.
+asau yo.apakshIyati. sa sarveShAM bhUtAnAM prANairapakshIyati.
+mA me prajayA mA pashUnAm.h. mA mama prANairapaksheShThAH.
+amUni nakshatrANi. sarveShAM bhUtAnAM prANairapaprasarpanti cotsarpanti ca.
+mA me prajayA mA pashUnAm.h. mA mama prANairapaprasR^ipata motsR^ipata .. 65 ..
+
+ime mAsAshcArdhamAsAshca. sarveShAM bhUtAnAM prANairapaprasarpanti cotsarpanti ca.
+mA me prajayA mA pashUnAm.h. mA mama prANairapaprasR^ipata motsR^ipata.
+ima R^itavaH. sarveShAM bhUtAnAM prANairapaprasarpanti cotsarpanti ca.
+mA me prajayA mA pashUnAm.h. mA mama prANairapaprasR^ipata motsR^ipata.
+aya{\m+} saMvatsaraH. sarveShAM bhUtAnAM prANairapaprasarpati cotsarpati ca .. 66 ..
+
+mA me prajayA mA pashUnAm.h. mA mama prANairapaprasR^ipa motsR^ipa.
+idamahaH. sarveShAM bhUtAnAM prANairapaprasarpati cotsarpati ca .
+mA me prajayA mA pashUnAm.h. mA mama prANairapaprasR^ipa motsR^ipa.
+iya{\m+}rAtriH. sarveShAM bhUtAnAM prANairapaprasarpati cotsarpati ca.
+mA me prajayA mA pashUnAm.h. mA mama prANairapaprasR^ipa motsR^ipa.
+OM bhurbhuvassvaH. etadvo mithunaM mA no mithuna{\m+}rIDhvam .. 67 ..
+
+athAdityasyAShTapuruShasya. 
+vasUnAmAdityAna{\m+}sthAne svatejasA bhAni.
+rudrANAmAdityAna{\m+}sthAne svatejasA bhAni. 
+AdityAnAmAdityAna{\m+}sthAne svatejasA bhAni. 
+satA{\m+}satyAnAm.h. AdityAna{\m+}sthAne svatejasA bhAni. 
+abhidhUnvatAmabhighnatAm.h. vAtavatAM marutAm.h. 
+AdityAna{\m+}sthAne svatejasA bhAni.
+R^ibhUNAmAdityAna{\m+}sthAne svatejasA bhAni. 
+vishveShAndevAnAm.h. AdityAna{\m+}sthAne svatejasA bhAni.
+saMvatsarasya savituH. Adityasya svatejasA bhAni.
+OM bhurbhuvassvaH. rashmayo vo mithunaM mA no mithuna{\m+}rIDhvam .. 68 ..
+
+Arogasya sthAne svatejasA bhAni. bhrAjasya  sthAne svatejasA bhAni. 
+paTarasya sthAne svatejasA bhAni. pata~Ngasya sthAne svatejasA bhAni. 
+svarNarasya sthAne svatejasA bhAni. jyotiShImatasya sthAne svatejasA bhAni. 
+vibhAsasya sthAne svatejasA bhAni. kashyapasya sthAne svatejasA bhAni. 
+OM bhurbhuvassvaH. Apo vo mithunaM mA no mithuna{\m+}rIDhvam .. 69 ..
+
+atha vayorekAdashapuruShasyaikAdashastrIkasya.
+prabhrAjamAnAnA{\m+} rudrANA{\m+}sthAne svatejasA bhAni.
+vyavadAtAnA{\m+} rudrANA{\m+}sthAne svatejasA bhAni.
+vAsukivaidyutAnA{\m+} rudrANA{\m+}sthAne svatejasA bhAni.
+rajatAnA{\m+} rudrANA{\m+}sthAne svatejasA bhAni.
+paruShANA{\m+} rudrANA{\m+}sthAne svatejasA bhAni.
+shyAmAnA{\m+} rudrANA{\m+}sthAne svatejasA bhAni.
+kapilAnA{\m+} rudrANA{\m+}sthAne svatejasA bhAni.
+atilohitAnA{\m+} rudrANA{\m+}sthAne svatejasA bhAni.
+UrdhvAnA{\m+} rudrANA{\m+}sthAne svatejasA bhAni .. 70 ..
+
+avapatantAnA{\m+} rudrANA{\m+}sthAne svatejasA bhAni.
+vaidyutAnA{\m+} rudrANA{\m+}sthAne svatejasA bhAni.
+prabhrAjamAnInA{\m+} rudrANInA{\m+}sthAne svatejasA bhAni.
+vyavadAtInA{\m+} rudrANInA{\m+}sthAne svatejasA bhAni.
+vAsukivaidyutInA{\m+} rudrANInA{\m+}sthAne svatejasA bhAni.
+rajatAnA{\m+} rudrANInA{\m+}sthAne svatejasA bhAni.
+paruShANA{\m+} rudrANInA{\m+}sthAne svatejasA bhAni.
+shyAmAnA{\m+} rudrANInA{\m+}sthAne svatejasA bhAni.
+kapilAnA{\m+} rudrANInA{\m+}sthAne svatejasA bhAni.
+atilohitInA{\m+} rudrANInA{\m+}sthAne svatejasA bhAni.
+UrdhvAnA{\m+} rudrANInA{\m+}sthAne svatejasA bhAni.
+avapatantInA{\m+} rudrANInA{\m+}sthAne svatejasA bhAni.
+vaidyutInA{\m+} rudrANInA{\m+}sthAne svatejasA bhAni.
+OM bhurbhuvassvaH. rUpANi vo mithunaM mA no mithuna{\m+}rIDhvam .. 71 ..
+
+athAgneraShTapuruShasya. 
+agneH pUrvadishyasya sthAne svatejasA bhAni.
+jAtavedasa upadishyasya sthAne svatejasA bhAni.
+sahojaso dakshiNadishyasya sthAne svatejasA bhAni.
+ajirAprabhava upadishyasya sthAne svatejasA bhAni.
+vaishvAnarasyA.aparadishyasya sthAne svatejasA bhAni.
+naryApasa upadishyasya sthAne svatejasA bhAni.
+pa~NktirAdhasaudagdishyasya sthAne svatejasA bhAni.
+visarpiNa upadishyasya sthAne svatejasA bhAni.
+OM bhurbhuvassvaH. rUpANi vo mithunaM mA no mithuna{\m+}rIDhvam .. 72 ..
+
+dakshiNapUrvasyAndishi visarpI narakaH. tasmAnnaH paripAhi.
+dakshiNAparasyAM dishyavisarpI narakaH. tasmAnnaH paripAhi.
+uttarapUrvasyAndishi viShAdI narakaH. tasmAnnaH paripAhi.
+uttaraparasyAndishyaviShAdI narakaH. tasmAnnaH paripAhi.
+A yasmintsapta vAsavA indriyANi shatakratavityete .. 73 ..
+
+indraghoShA vo vasubhiH purastAdupadadhatAm.h. 
+manojavaso vaH pitR^ibhirdakshiNata upadadhatAm.h. 
+pracetA vo rudraiH pashcAdupadadhatAm.h.
+vishvakarmA va Adityaruttarata upadadhatAm.h.
+tvaShTA vo rUpairupariShTAdupadadhatAm.h.
+saMj~nAnaM vaH pashcAditi. Adityassarvo.agniH pR^ithivyAm.h.
+vAyurantarikshe. sUryo divi. candramA dikshu.
+nakshatrANi svaloke. evA hyeva. evA hyagne.
+evA hi vAyo. evA hIndra. evA hi pUShan.h. evA hi devAH .. 74 ..
+
+ApamApAmapassarvAH. asmAdasmAdito.amutaH 
+agnirvAyushca sUryashca. saha sa~ncaskararddhiyA. 
+vAyvashvA rashmipatayaH. marIcyAtmano adruhaH.
+devIrbhuvanasUvarIH. putravatvAya me suta.
+mahAnAmnIrmahAmAnAH. mahaso mahasassvaH ..75 ..
+
+devIH parjanyasUvarIH. putravatvAya me suta.
+apA.ashnyuShNimapA rakshaH. apA.a.ashnyuShNimapAragham.
+apAghrAmapacA.avartim. apadevIrito hita.
+vajrandevIrajItA{\m+}shca. bhuvanandevasUvarIH.
+AdityAnaditindevIm. yoninordhvamudIShata .. 76 ..
+
+bhadraM karNebhiH shR^iNuyAma devAH. bhadraM pashyemAkshabhiryajatrAH.
+sthiraira~NgaistuShTuvA{\m+}sastanUbhiH. vyashema devahitaM yadAyuH.
+svasti na indro vR^iddhashravAH. svasti naH pUShA vishvavedAH.
+svasti nastArkshyo ariShTanemiH. svasti no bR^ihaspatirdadhAtu.
+ketavo aruNAsashca. R^iShayo vAtarashanAH.
+pratiShThA{\m+}shatadhA hi. samAhitAso sahasradhAyasam.
+shivA nashshantamA bhavantu. divyA Apa oShadhayaH.
+sumR^iDIkA sarasvati. mA te vyoma sandR^ishi .. 77 ..
+
+yo.apAM puShpaM veda. puShpavAn.h prajAvAn pashumAn bhavati . 
+chandramA vA apAM puShpam. puShpavAn prajAvAn pashumAn.h bhavati .
+ya evaM veda . yo.apAmAyatanaM veda. 
+AyatanavAn.h bhavati. agnirvA apAmAyatanam. 
+AyatanavAn.h bhavati. yo.agnerAyatanaM veda .. 78 ..
+
+AyatanavAn.h bhavati. Apo vA agnerAyatanam.h .  
+AyatanavAn.h bhavati. ya evaM veda.
+yo.apAmAyatanaM veda. AyatanavAn.h bhavati. 
+vAyurvA apAmAyatanam. AyatanavAn.h bhavati. 
+yo vAyorAyatanaM veda. AyatanavAn.h bhavati .. 79 ..
+
+Apo vai vAyorAyatanam.  AyatanavAn.h bhavati . 
+ya evaM veda . yo.apAmAyatanaM veda . 
+AyatanavAn.h bhavati. asau vai tapannapAmAyatanam. 
+AyatanavAn.h bhavati. yo.amuShya tapata AyatanaM veda. 
+AyatanavAn.h bhavati. Apo vA amuShya tapata Ayatanam .. 80 ..  
+
+AyatanavAn.h bhavati. ya evaM veda. 
+yo.apAmAyatanaM veda. AyatanavAn.h bhavati.
+chandramA vA apAmAyatanam.h . AyatanavAn.h bhavati .
+yashchandramasa AyatanaM veda .  AyatanavAn.h bhavati .
+Apo vai chandramasa Ayatanam. AyatanavAn.h bhavati .. 81 ..
+
+ya evaM veda. yo.apAmAyatanaM veda. 
+AyatanavAn.h bhavati. nakshatrANi vA apAmAyatanam. 
+AyatanavAn.h bhavati. yo nakshatrANAmAyatanaM veda.  
+AyatanavAn.h bhavati. Apo vai nakshatrANAmAyatanam. 
+AyatanavAn.h bhavati. ya evaM veda .. 82 ..
+
+yo.apAmAyatanaM veda . AyatanavAn.h bhavati 
+parjanyo vA apAmAyatanam. AyatanavAn.h bhavati . 
+yaH parjanyasyAyatanaM veda .  AyatanavAn.h bhavati .
+Apo vai parjanyasyA.a.ayatanam. AyatanavAn.h bhavati . 
+ya evaM veda . yo.apAmAyatanaM veda .. 83 .. 
+
+AyatanavAn.h bhavati. saMvatsaro vA apAmAyatanam. 
+AyatanavAn.h bhavati. yassaMvatsarasyAyatanaM veda. 
+AyatanavAn.h bhavati. Apo vai saMvatsarasyAyatanam.h. 
+AyatanavAn.h bhavati. ya evaM veda. 
+yo.apsu nAvaM pratiShThitAM veda. pratyeva tiShThati .. 84 ..
+
+ime vai lokA apsu pratiShThitAH. tadeShA.abhyanUktA.
+apA{\m+}rasamudaya{\m+}sann.h. sUrye shukra{\m+}samAbhR^itam.h.
+apA{\m+}rasasya yo rasaH. taM vo gR^ihNAmyuttamamiti.
+ime vai lokA apA{\m+}rasaH. te.amuShminnAditye samAbhR^itAH.
+jAnudaghnImuttaravedI~NkhAtvA. apAM pUrayitvA gulphadaghnam.h .. 85 ..
+
+puShkaraparNaiH puShkaradaNDaiH puShkaraishca sa{\m+}stIrya. tasminvihAyase.
+agniM praNIyopasamAdhAya. brahmavAdino vadanti.
+kasmAtpraNIte.ayamagnishcIyate. sApraNIte.ayamapsu hyaya~ncIyate.
+asau bhuvanepyanAhitAgniretAH. tamabhita etA abIShTakA upadadhAti.
+agnihotre darshapUrNamAsayoH. pashubandhe cAturmAsyeShu .. 86 ..
+
+atho AhuH. sarveShu yaj~nakratuShviti. 
+etaddha sma vA AhushshaNDilAH. kamagni~ncinute. 
+satriyamagni~nchinvAnaH. saMvatsaraM pratyaksheNa. 
+kamagni~ncinute. sAvitramagni~nchinvAnaH. 
+amumAdityaM pratyaksheNa. kamagni~ncinute .. 87 ..
+
+nAciketamagni~nchinvAnaH. 
+prANAnpratyaksheNa. kamagni~ncinute. cAtuhotriyamagni~nchinvAnaH. 
+brahma pratyaksheNa. kamagni~ncinute. vaishvasR^ijamagni~nchinvAnaH. 
+sharIraM pratyaksheNa. kamagni~ncinute. upAnuvAkyamAshumagni~nchinvAnaH .. 88 ..
+
+imAn.h lokAnpratyaksheNa. kamagni~ncinute. imamAruNaketukamagni~nchinvAnaH.
+ya evAsau. itashcA.amutashcA.avyatIpatI. tamiti.
+yo.agnermithUyA veda. mithunavAnbhavati.
+Apo vA agnermithUyAH. mithunavAnbhavati. ya evaM veda .. 89 ..
+
+Apo vA idamAsantsalilameva. sa prajApatirekaH puShkaraparNe samabhavat.h. 
+tasyAntarmanasi kAmassamavartata. ida{\m+}sR^ijeyamiti.
+tasmAdyatpuruSho masabhigacchhati. tadvAcA vadati.
+tatkarmaNA karoti. tadeShA.abhyanUktA.
+kAmastadagre samavartatAdhi. manaso retaH prathamaM yadAsIt.h .. 90 ..
+
+sato bandhumasati niravindann.h. hR^idi pratIShyA kavayo manISheti.
+upainantadupanamati. yatkAmo bhavati. ya evaM veda.
+sa tapo.atapyata. sa tapastaptvA. sharIramadhUnuta. tasya yanmA{\m+}samAsIt.h. 
+tato.aruNAH ketavo vAtarashanA R^iShaya udatiShThann .. 91 ..
+
+ye nakhAH. te vaikhAnasAH. ye vAlAH. te vAlakhilyAH.
+yo rasaH. so.apAm.h. antarataH kUrmaM bhUta{\m+}sarpantam.h.
+tamabravIt.h. mama vaitva~NmA{\m+}sA. samabhUt.h .. 92 ..
+
+netyabravIt.pUrvamevAhamihAsaniti.
+tatpuruShasya puruShatvam.h. sa sahasrashIrShA puruShaH.
+sahassrAkshassahasrapAt.h. bhUtvodatiShThat.h.
+tamabravIt.h.tvaM vai pUrva{\m+}samabhUH. 
+tvamida.m pUrvaH kuruShveti. sa ita AdAyApaH. .. 93 ..
+
+a~njalinA purastAdupAdadhAt.h. evAhyeveti.
+tata Aditya udatiShThat.h. sA prAcI dik.h.
+athA.aruNaH. keturdakshiNata upAdadhAt.h.
+evAhyagna iti. tato vA agnirudatiShThat.h.
+sA dakshiNA dik.h. athAruNaH ketuH pashcAdupadadhAt.h.
+evAhi vAyo iti .. 94 ..
+
+tato vAyurudatiShThat. sA pratIcI dik.h.
+athAruNaH keturuttarata upAdadhAt.h. evAhIndreti.
+tato vA indra udatiShThat.h. sodIcI dik.h.
+athAruNaH keturmadhya upAdadhAt.h.  evAhi pUShanniti.
+tato vai pUShodatiShThat.h. seyandik.h .. 95 ..
+
+athAruNaH keturupariShTAdupAdadhAt.h. evAhi devA hati.
+tato devamanuShyAH pitaraH. gandharvApsarasashcodatiShThann.h.
+sordhvA dik.h. yA vipruSho viparApatann.h.
+tAbhyo.asurA rakshA{\m+}si pishAcAshcodatiShThann.h. tasmAtte parAbhavann.h.
+vipruDbhyo hi te samabhavann.h. tadeShAbhyanUktA .. 96 ..
+
+Apo ha yadbR^ihatIrgarmamAyann.h. dakshandadhAnA janayantIssvayaMbhum.h.
+tata imedhyasR^ijyanta sargAH. adbhyo vA ida{\m+} samabhUt.h.
+tasmAdida{\m+}sarvaM brahma svayaMbhviti. 
+tasmAdida{\m+}sarva{\m+} shithilamivA.adhruvamivAbhavat.h.
+prajApatirvAva tat.h. AtmanAtmAnaM vidhAya.
+tadevAnuprAvishat.h.  tadeShAbhyanUktA .. 97 ..
+
+vidhAya lokAn.h vidhAya bhUtAni. vidhAya sarvAH pradisho dishashca.
+prajApatiH prathamajA R^itasya. AtmanAtmAnamabhi saMvivesheti. 
+sarvamevedamAptvA. sarvamavaruddhya. 
+tadevAnupravishati. ya evaM veda .. 98 ..
+
+catuShTayya Apo gR^ihNAti. catvAri vA apA{\m+}rUpANi.
+medho vidyut.h. stanayitnurvR^iShTiH. tAnyevAvarundhe.
+Atapati varShyA gR^ihNAti. tAH purastAdupadadhAti.
+etA vai brahmavarcasyA ApaH. mukhata eva brahmavarcasamavarundhe. 
+tasmAnmukhato brahmavarcasitaraH .. 99 ..
+
+kUpyA gR^ihNAti. tA dakshiNata upadadhAti.
+etA vai tejasvinIrApaH. teja e.avAsya dakshiNato dadhAti.
+tasmAddakshiNo.ardhastejasvitaraH. sthAvarA gR^ihNAti.
+tAH pashcAdupadadhAti. pratiShThitA vai sthAvarAH.
+pashcAdeva pratitiShThati. vahantIrgR^ihNAti ..100 ..
+
+tA uttarata upadadhAti. 
+ojasA vA etA vahantIrivodgatIriva AkUjatIriva dhAvantIH.
+oja evAsyottarato dadhAti. tasmAduttaro.ardha ojasvitaraH.
+saMbhAryA gR^ihNAti. tA madhya upadadhAti. 
+iyaM vai saMbhAryAH. asyAmeva pratitiShThati.
+palvalyA gR^ihNAti. tA upariShTAdupAdadhAti .. 101 ..
+
+asau vai palvayAH. amuShyAmeva pratitiShThati.
+dikshUpadadhAti. dikshu vA ApaH. 
+annaM vA ApaH. adbhyo cA anna~njAyate. 
+yadevadbhyo.anna~njAyate. tadavarundhe. 
+taM vA etamaruNAH ketavo vAtarashanAR^iShayo.acinvann.h.
+tasmAdAruNaketukaH .. 102 ..
+
+tadeShAbhyanUktA. ketavo aruNAsashca.
+R^iShayo vAtarashanAH. pratiShThA{\m+} shatadhAhi.
+samAhitAso sahasradhAyasamiti. shatashashcaiva sahasrashashca pratitiShThati. 
+ya etamagni~ncinute ya ucainamevaM veda .. 103 ..
+
+jAnudaghnImuttaravedI~NkhAtvA. apAM pUrayati.
+Apa{\m+} sarvatvAya. puShkaraparNa{\m+}rukmaM  puruShamityupadadhAti.
+tapo vai puShkaraparNam.h. satya{\m+}rukmaH. amR^itaM puruShaH.
+etAvadvA vAsti. yAvadetat. yAvadevAsti .. 104 ..
+
+tadavarundhe. kUrmamupadadhAti. 
+apAmeva medhamavarundhe. atho svargasya lokasya samaShTyai.
+ApamApAmapassarvAH. asmAdasmAdito.amutaH.
+agnirvAyushca sUryashca. sahasa~ncaskararddhiyA iti.
+vAyvashvA rashmipatayaH. lokaM pR^iNacchhidraM pR^iNa .. 105 ..
+
+yAstisraH paramajAH. indraghoShA vo vasubhirevAhyeveti.
+pa~ncacitaya upadadhAti. pA~Nkto.agniH.
+yAvanevAgniH. ta~ncinute. 
+lokaMpR^iNayA dvitIyAmupadadhAti. pa~nca padA vai virAT.h.
+tasyA vA iyaM pAdaH. atnarikshaM pAdaH. dyauH pAdaH.
+dishaH pAdaH. parorajAH pAdaH. virAjyeva pratitiShThati.
+ya etamagni~ncinute. ya ucainamevaM veda .. 106 ..
+
+agniM praNIyopasamAdhAya. tamabhita etA abIShTakA upadadhAti.
+agnihotre darshapUrNamAsayoH. pashubandhe cAturmAsyeShu.
+atho AhuH. sarveShu yaj~nakratuShviti.
+atha hasmAhAruNassvAyaMbhuvaH. sAvitraH sarvo.agnirityananuSha~NgaM manyAmahe.
+nAnA vA eteShAM vIryANi. kamagni~ncinute .. 107 ..
+
+satriyamagni~ncivAnaH. kamagni~ncinute.
+sAvitramagni~ncivAnaH. kamagni~ncinute.
+nAciketamagni~ncivAnaH. kamagni~ncinute.
+cAturhotriyamagni~ncivAnaH. kamagni~ncinute.
+vaishvasR^ijamagni~ncivAnaH. kamagni~ncinute .. 108
+
+upAnuvAkyamAshumagni~ncivAnaH. kamagni~ncinute.
+imamAruNaketukamagni~ncivAna iti. vR^iShA vA agniH.
+vR^iShANo sa{\m+}sphAlayet.h. hanyetAsya yaj~naH.
+tasmAnnAnuShajyaH. sottaravediShu kratuShu cinvIta.
+uttaravedyA{\m+}hyagnishcIyate. prajAkAmashcinvIta .. 109 ..
+
+prAjApatyo vA eSho.agniH. prAjApatyAH prajAH.
+prajAvAn.h bhavati. ya evaM veda.
+pashukAmashcinvIta. saMj~nAnaM vA etat.h pashUnAm.h.
+yadApaH pshUnAmeva saMj~nAne.agni~ncinute.
+pshumAn bhavati.  ya evaM veda .. 110 ..
+
+vR^iShTikAmashcinvIta. Apo vai vR^iShTiH.
+parjanyo varShuko bhavati. ya evaM veda.
+AmayAvI cinvIta. Apo vai bheShajam.h.
+bheShajamevAsmai karoti. sarvamAyureti.
+abhicara{\m+}shcinvIta. vajro vai ApaH .. 111 ..
+
+vajrameva bhrAtR^ivyebhyaH praharati.stR^iNuta enam.h.
+tejaskAmo yashaskAmaH. brahmavarcasakAmassvargakAmashcinvIta.
+etAvadvA vAsti. yAvadetat.h. 
+yAvadevAsti. tadavarundhe.
+tasyaitad.h vratam.h. varShatina dhAvet.h .. 112 ..
+
+amR^itaM vA ApaH. amR^itasyAnantarityai.
+nApsu mUtrapurISha~NkuryAt.h. na niShThIvet.h.
+na vivasanassnAyAt.h. guhyo vA eSho.agniH.
+etasyAgneranatidAhAya. na puShkaraparNAni hiraNyaMvA.adhitiShThet.h.
+etasyAgneranabhyArohAya. na kUrmasyAshnIyAt.h.
+nodakasyAghAtukAnyenamodakAni bhavanti. aghAtukA ApaH.
+ya etamagni~ncinute. ya ucainamevaM veda .. 113 ..
+
+imAnukaM bhuvanA sIShadhema. indrashca vishve ca devAH.
+yaj~nashca nastanva~nca prajA~nca. Adityairindrasssaha sIShadhAtu.
+AdityairindrassagaNo marudbhiH. asmAkaM bhUtvavitA tanUnAm.h.
+Aplavasva praplavasva. ANDIbhavaja mA muhuH.
+sukhAdInduHkhanidhanAm.h. pratimu~ncasva svAM puram.h .. 114 ..
+
+marIcayassvAyaMbhuvAH. ye sharIrANyakalpayann.h.
+te te deha~Nkalpayantu. mA ca te khyAsma tIriShat.h.
+uttiShThata mA svapta. agnimicchhadhvaM bhAratAH.
+rAj~nassomasya tR^iptAsaH. sUryeNa sayujoShasaH.
+yuvA suvAsAH. aShTAcakrA navadvArA .. 115 ..
+
+devAnAM pUrayodhyA. tasyA{\m+}hiraNmayaH koshaH.
+svargo loko jyotiShA.a.acR^itaH. yo vai tAM brahmaNo veda. 
+amR^itenA.a.avR^itAM purIm.h. tasmai brahma ca brahmA ca.
+AyuH kIrtiM prajAndaduH. vibhrAjamAnA{\m+}hariNIm.h.
+yashasA saMparIvR^itAm.h. pura{\m+}hiraNmayIM brahmA .. 116 ..
+
+viveshA.aparAjitA. parA~NgetyajyAmayI.
+parA~NgetyanAshakI. ihacAmutracAnveti.
+vidvAndevAsurAnubhayAn.h. yatkumArI mandrayate.
+yadyoShadyatpativratA. ariShTaM yatkiMca kriyate.
+agnistadanuvedhati. ashR^itAsashshR^itAsashca .. 117 ..
+
+yajvAno ye.apyayajvanaH. svaryanto nApekshante.
+indramagnishca ye viduH. sikatA iva saMyanti.
+rashmibhissamudIritAH. asmAllokAdamuShmAcca.
+R^iShibhiradAtpR^ishnibhi. 
+apeta vIta vi ca sarpatAtaH ye.atrastha purANA ye ca nUtanAH.
+ahobhiradbhiraktubhivyaktam.h .. 118 ..
+
+yamo dadAtvavasAnamasmai. nR^i muNantu nR^ipAtvaryaH.
+akR^iShTA ye ca kR^iShTajAH. kumArIShu kanInIShu.
+jAriNIShu ca ye hitAH. retaHpItA ANDapItAH.
+a~NgAreShu ca ye hutAH. ubhayAn.h putrapautrakAn.h.
+yuve.ahaM yamarAjagAn.h. shataminnu sharadaH .. 119 ..
+
+ado yadbrahma vilabam.h. pitR^iNA~nca yamasya ca.
+varuNasyAshvinoragneH. marutA~nca vihAyasAm.h.
+kAmaprayavaNaM me astu. sa hyevAsmi sanAtanaH.
+iti nAko brahmishravo rAyo dhanam.h. putrAnApo devIrihA.a.ahita .. 120 ..
+
+vishIrShNI~NgR^idhrashIrShNI~nca. apetonirR^iti{\m+}hathaH.
+paribAdha{\m+}shvetakuksham.h. nija~Ngha{\m+}shabalodaram.h.
+sa tAn.h vAcyAyayA saha. agne nAshaya sandR^ishaH.
+IrShyAsUye bubhukshAm.h. manyuM kR^ityAM ca dIdhire.
+rathena ki{\m+}shukAvatA. agne nAshaya sandR^ishaH .. 121 ..
+
+parjanyAya pragAyata. divasputrAya mIDhuShe.
+sa no yavasamicchhatu.idaM vacaH parjanyAya svarAje.
+hR^ido astvantarantadyuyota. mayobhUrvAto vishvakR^iShTayassantvasme.
+supippalA oShadhIrdevagopAH. yo garbhamoShadhInam.h.
+gavA~NkR^iNotyarvatAm.h. parjanyaH purUShINAm.h .. 122 ..
+
+punarmAmaitvindriyam.h. punarAyuH punarbhagaH.
+punarbrAhmaNamaitu mA. punardraviNamaitu mA.
+yanme.adya retaH pR^ithivImaskAn.h. yadoShadhIrapyasaradyadApaH.
+idantatpunarAdade. dIrghAyutvAya varcase.
+yanme retaH prasicyate. yanma AjAyate punaH.
+tena mAmamR^itaM kuru. tena suprajasa~Nkuru .. 123 ..
+
+adbhyastirodhA.ajAyata. tava vaishravaNassadA.
+tirodhehi sapatnAnnaH. ye apo.ashnanti kecana.
+tvAShTrIM mAyAM vaishravaNaH. ratha{\m+}sahasravandhuram.h.
+purushcakra{\m+}sahasrAshvam.h. AsthAyAyAhi no balim.h.
+yasmai bhUtAni balimAvahanti. dhana~NgAvo hastihiraNyamashvAn.h .. 124 ..
+
+asAma sumatau yaj~niyasya. shriyaM bibhrati.annamukhIM virAjam.h.
+sudarshane ca kro~nce ca. mainAge ca mahAgirau.
+shatadvATTAragamantA. sa{\m+}hAryannagaraM tava.
+iti mantrAH. kalpo.ata Urdhvam.h. yadi bali{\m+} haret.h.
+hiraNyanAbhaye vitudaye kauberAyAyaM baliH .. 125 ..
+
+sarvabhUtadhipataye nama iti. atha bali{\m+}hR^itvopatiShTheta.
+kshatraM kshatraM vaishravaNaH. brAhmaNA vaya{\m+}smaH.
+namaste astu mA mA hi{\m+}sIH. asmAtpravishyAnnamaddhIti.
+atha tamagnimAdadhIta. yasminnetatkarma prayu~njIta.
+tirodhA bhUH. tirodhA bhuvaH .. 126 ..
+
+tirodhAssvaH. tirodhA bhUrbhuvassvaH. 
+sarveShAM lokAnAmAdhipatye sIdeti. atha tamagnimindhIta.
+yasminnetatkarma prayu~njIta. tirodhA bhUssvAhA. 
+tirodhA bhuvassvAhA. tirodhAssvassvAhA.
+tirodhA bhUrbhuvassvassvAhA.
+yaminnasya kAle sarvA AhutIr hutA bhaveyuH .. 127 ..
+
+api brAhmaNamukhInAH. tasminnahnaH kAle prayun~njIta.
+parassuptajanAdvepi. mAsma pramAdyantamAdhyApayet.h.
+sarvArthAssiddhyante. ya evaM veda.
+kshudhyannidamajAnatAm.h. sarvArthA na siddhyante.
+yaste vighAtuko bhrAtA. mamAntarhR^idaye shritaH .. 128 ..
+
+tasmA imamagrapiNDa~njuhomi. sa me.arthAnmA vivadhIt.h.
+mayi svAhA. rAjAdhirAjAya prasahyasAhine. 
+namo vayaM vaishravaNAya kurmahe. sa me kAmAnkAmakAmAya mahyam.h.
+kAmeshvaro vaishravaNo dadAtu. kuberAya vaishravaNAya.
+mahArAjAya namaH. ketavo aruNAsashca. 
+R^iShayo vAtarashanAH. pratiShThA{\m+}shatadhA hi.
+samAhitAso sahasradhAyasam.h. shivAnashshantamA bhavantu.
+divyA Apa oShadhayaH. sumR^iDIkA sarasvati.
+mA te vyoma sandR^ishi .. 129 ..
+
+saMvatsarametad vrataM caret.h. dvau vA mAsau.
+niyamassamAsena. tasminniyamavisheShAH.
+triShavaNamudakopasparshI. caturthakAlapAnabhaktassyAt.h.
+aharaharvA bhaikshamashnIyAt.h. auduMbarIbhissamidbhiragniM paricaret.h.
+punarmAmaittvindriyanityetenA.anuvAkena. uddhR^itaparipUtAbhiradbhiH kAryaM kurvIta .. 130 ..
+
+asa~ncayavAn.h. agnaye vAyave sUryAya.
+brahmaNe prajApataye. candramase nakshatrebhyaH.
+R^itubhyassaMvatsarAya. varuNAyAruNAyeti vratahomAH. 
+pravargyavadAdeshaH. aruNAH kANDaR^iShayaH.
+araNye.adhIyIrann.h. bhadra~NkarNebhiriti dve japitvA .. 131 ..
+
+mahAnAmnIbhirudaka{\m+} sa{\m+}sparshya. tamAcAryo dadyAt.h.
+shivAnashshantametyoShadhIrAlabhate. sumR^iDIketi bhUmim.h.
+evamapavarge. dhenurdakshiNA. ka{\m+}saM vAsashca kshaumam.h.
+anyadvA shuklam.h. yathAshakti vA. eva{\m+}svAdhyAyadharmeNa.
+araNye.adhIyIta. tapasvI puNyo bhavati tapasvI puNyo bhavati .. 132 ..
+
+OM bhadra~NkarNebhiH shR^iNuyAma devAH. bhadraM pashyemAkshabhiryajatrAH.
+sthiraira~NgaistuShTuvA{\m+}sastanUbhiH. vyashema devahitaM yadAyuH.
+svasti na indro vR^iddhashravAH. svasti naH pUShA vishvavedAH.
+svasti nastArkshyo ariShTanemiH. svasti no bR^ihaspatirdadhAtu .. 133 ..
+.. OM shAntiH shAntiH shAntiH ..
+
+##
+Encoded with Accents by Rajagopal Iyer (rajsand@yahoo.com)
+\medskip\hrule\obeylines
+{\rm Please send corrections to sanskrit@cheerful.com}
+{\rm Last updated \today}
+\end{document}

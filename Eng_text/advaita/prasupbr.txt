@@ -1,0 +1,2223 @@
+Prasna-Upanisad (Prasnopanisad)
+with the commentary ascribed to Samkara
+
+
+Input by members of the Sansknet project
+(formerly: www.sansknet.org)
+
+This GRETIL version has been converted from a custom Devanagari encoding.
+Therefore, word boundaries are usually not marked by blanks.
+These and other irregularities cannot be standardized at present.
+
+
+
+NOTE:
+The mula text has been revised and segmented according to the ed. by V.P. Limaya and R.D. Vadekar (Eighteen Principal Upanisads, Vol. 1, Poona 1958).
+
+PrUp 6.4 was rearranged and completed according to the Bibliotheca Indica edition.
+
+The text of the commentary is not proofread!
+
+
+
+REFERENCE SYSTEM:
+PrUp_n.n = mula text
+PrUpBh_n.n = Samkara's Bhasya
+
+
+#<...># = BOLD
+
+
+
+
+___________________________________________________________________
+
+THIS TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+            
+Text converted to Ronald E. Emmerick's encoding for WordPerfect 5.1 DOS 
+and related utility programmes BHELA, CARAKA etc. (DOS versions):
+            
+description             character  =ASCII
+            
+long a                  Ã             195
+long A                  ù             249
+long i                  Å             197
+long I                  ı             253
+long u                  Æ             198
+long U                  ô             244
+vocalic r               ­             173
+vocalic R               ã             227
+long vocalic r          Ì             204
+vocalic l               Ê             202
+long vocalic l          Ë             203
+velar n                 Ç             199
+velar N                 §             167
+palatal n               ¤             164
+palatal N               ¥             165
+retroflex t             Â             194
+retroflex T             è             232
+retroflex d             ¬             172
+retroflex D             Ö             214
+retroflex n             ï             239
+retroflex N             ×             215
+palatal s               Ó             211
+palatal S               Á             193
+retroflex s             «             171
+retroflex S             å             229
+anusvara                æ             230
+capital anusvara        õ             245
+visarga                 ÷             247
+capital visarga         ê             234
+
+Other characters of the REE encoding table are not included.
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.             
+
+For a comprehensive list of REE and other GRETIL encodings 
+and formats see:
+www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdiac.pdf
+and
+www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdias.pdf
+___________________________________________________________________
+
+
+
+
+
+
+praÓnopani«ad
+
+oæ bhadraæ karïebhi÷ Ó­ïuyÃma devÃ bhadraæ paÓyemÃk«ibhiryajatrÃ÷ /
+sthirairaÇgaistu«ÂuvÃæ sastanÆbhirvyaÓema devahitaæ yadÃyu÷ //
+
+
+oæ ÓÃnti÷! ÓÃnti÷!! ÓÃnti÷!!!
+
+
+svasti na indro v­ddhaÓravÃ÷ svasti na÷ pÆ«Ã viÓvavedÃ÷ /
+svasti nastÃrk«yo ari«Âanemi÷ svasti no b­haspatirdadhÃtu //
+
+
+oæ ÓÃnti÷!ÓÃnti÷!!ÓÃnti÷!!!
+
+
+
+prathama praÓna÷
+
+mantroktasyÃrthasya vistarÃnuvÃdÅdaæ brÃhmaïamÃrabhyate /
+­«ipraÓnaprativacanÃkhyÃyikÃ tu vidyÃstutaye /
+evaæ saævatsarabrahmacaryasaævÃsÃdiyuktairgrÃhyÃ pippalÃdÃdivatsarvaj¤akalpairÃcÃryairvaktavyÃ ca, na sÃ yena kenaciditi vidyÃæ stauti /
+brahmacaryÃdisÃdhanÃsÆcanÃcca tatkartavyatÃ syÃt /
+
+
+oæ
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.1
+
+
+
+#<sukeÓÃ ca bhÃradvÃja÷ ÓaibyaÓ ca satyakÃma÷ sauryÃyaïÅ ca gÃrgya÷ kausalyaÓ cÃÓvalÃyano bhÃrgavo vaidarbhi÷ kabandhÅ kÃtyÃyanas te haite brahmaparÃ brahmani«ÂhÃ paraæ brahmÃnve«amÃïÃ e«a ha vai tatsarvaæ vak«yatÅti te ha samitpÃïayo bhagavantaæ pippalÃdam upasannÃ÷  || PrUp_1.1 ||>#
+
+
+
+____________________
+
+
+PrUpBh_1.1
+
+sukeÓÃ ca nÃmata÷, bharadvÃjasyÃpatyaæ bhÃradvÃja÷, ÓaibyaÓca Óive÷ apatyaæ Óaibya÷ satyakÃmo nÃmata÷;sauryÃyaïÅ sÆryastasyÃpatyaæ saurya÷ tasyÃpatyaæ sauryÃyaïiÓachÃndasa÷ sauryÃyaïÅti, gÃrgyo gargagotrÃpatyaæ bhargavo vaidarbhi÷ vidarbhe bhava÷;kabandhÅ nÃmata÷, katyasyÃpasyaæ kÃtyÃyana÷, vidyamÃna prapitÃmaho yasya sa÷, yuvapratyaya÷ /
+te haite brahmaparÃ aparaæ brahma paratvena gatÃstadanu«ÂhÃnani«ÂhÃÓca brahmani«ÂhÃ÷ paraæ brahmÃnve«amÃïÃ÷ - kiæ tat?yannityaæ vij¤eyamiti tatprÃptyarthaæ yathÃkÃmaæ yati«yÃma ityevaæ tadanve«aïaæ  kurvantastadadhigamÃyai«a ha vai tatsarvaæ vak«yatÅtyÃcÃryamupajagmu÷ /
+katham te ha samitpÃïaya÷ samidlÃrag­hÅtahastÃ÷ santo bhagavantaæ pippalÃdamÃcÃryamupÃsannÃ upajagmu÷ //
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.2
+
+#<tÃn ha sa ­«ir uvÃca |
+bhÆya eva tapasÃ brahmacaryeïa ÓraddhayÃ saævatsaraæ saævatsyatha |
+yathÃkÃmaæ praÓnÃn p­cchata |
+yadi vij¤ÃsyÃma÷ sarvaæ ha vo vak«yÃma iti  || PrUp_1.2 ||>#
+
+____________________
+
+
+PrUpBh_1.2
+
+tÃnevamupagatÃnha sa kila ­«iruvÃca bhÆya÷ punareva yadyapi yÆyaæ pÆrvaæ tapasmina eva tapasendriyasaæyamena tathÃpÅha viÓe«ato brahmacaryeïa ÓraddhayÃ cÃstikyabuddhyÃdaravanta÷ saævatsaraæ kÃlaæ saævatsyatha samyagguruÓuÓrÆ«ÃparÃ÷ santo vatsyatha /
+tato yathÃkÃmaæ yo yasya kÃmastamanatikramya yathÃkÃmaæ yadvi«aye yasya jij¤ÃsÃ tadvi«ayÃnpraÓnÃnp­cchata /
+yadi tadyu«matp­«Âama vij¤ÃsyÃma÷ - anuddhatatvapradarÓanÃrtho yadiÓabdo nÃj¤ÃnasaæÓayÃrtha÷ praÓnanirïayÃdavasÅyate - sarvaæ ha vo va÷ p­«Âaæ vak«yÃma iti //2//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.3
+
+#<atha kabandhÅ kÃtyÃyana upetya papraccha |
+bhagavan kuto ha vÃ imÃ÷ prajÃ÷ prajÃyanta iti  || PrUp_1.3 ||>#
+
+
+
+____________________
+
+
+PrUpBh_1.3
+
+atha saævatsarÃdÆdhvaæ kabandhÅ kÃtyÃyana upetyopagamya papraccha p­«ÂavÃn /
+he bhagavan kuta÷ kasmÃddha vÃ imÃ brÃhmaïÃdyÃ÷ prajÃ÷ prajÃyanta utpadyante /
+aparavidyÃkarmaïo÷ samuccitayoryatkÃryaæ yÃ gatistadvaktavyamiti tadartho 'yaæ praÓna÷ //3//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.4
+
+#<tasmai sa hovÃca |
+prajÃkÃmo vai prajÃpati÷ |
+sa tapo 'tapyata |
+sa tapas taptvÃ sa mithunam utpÃdayate rayiæ ca prÃïaæ ceti |
+etau me bahudhÃ÷ prajÃ÷ kari«yata iti  || PrUp_1.4 ||>#
+
+
+
+____________________
+
+
+PrUpBh_1.4
+
+tasmÃ evaæ p­«Âavate sa hovÃca tadapÃkaraïÃyÃha /
+prajÃkÃma÷ prajÃ Ãtmana÷ sis­k«urvai prajÃpati÷ sarvÃtmÃ sajjagatsrak«yÃmi ityevaæ vij¤ÃnavÃnyathoktakÃrÅ tadbhÃvabhÃvita÷ kalpÃdau niv­tto hiraïyagarbha÷ s­jyamÃnÃnÃæ prajÃnÃæ sthÃvarajaÇgamÃnÃæ pati÷ sajjanmÃntarabhÃvitaæ j¤Ãnaæ ÓrutiprakÃÓitÃrthavi«ayaæ tapo 'nvÃlocayadatapyata /
+
+ata tu sa evaæ tapastaptvÃ Órautaæ j¤ÃnamanvÃlocya s­«ÂisÃdhanabhÆtaæ mithunamutpÃdayate mithunaæ dvandvamutpÃditavÃn /
+rayiæ ca somamannaæ praïaæ cÃgnimattÃram etÃvagni«omÃvattrannabhÆtau me mama bahudhÃnekadhÃ prajÃ÷ kari«yata ityevaæ saæcintyÃï¬otpattikrameïa sÆryÃcandramasÃvakalpayat //4//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.5
+
+#<Ãdityo ha vai prÃïo rayir eva candramÃ÷ |
+rayir vÃ etat sarvaæ yanmÆrtaæ cÃmÆrtaæ ca |
+tasmÃn mÆrtir eva rayi÷  || PrUp_1.5 ||>#
+
+
+
+____________________
+
+
+PrUpBh_1.5
+
+tatrÃdityo ha vai prÃïo 'ttÃ agni÷ /
+rayireva candramÃ÷, rayi÷, evÃnnaæ soma eva /
+tadetadekamattÃ cÃnnaæ ca, prajÃpatirekaæ tu mithunam, guïapradhÃnak­to bheda÷ /
+katham?rayirvÃ annaæ vÃ etan sarvam;kiæ tadyanmÆrtaæ ta sthÆlaæ cÃmÆrtaæ ca sÆk«maæ ca mÆrtÃmÆrte attrannarÆpe rayireva /
+tasmÃtpravibhaktÃd amÆrtÃdyadanyanmÆrtÃrÆpaæ mÆrti÷ saiva rayiramÆrtenÃdyamÃnatvÃt //5//
+
+
+
+tathÃmÆrto 'pi prÃïottÃ sarvameva yaccÃdyam /
+katham -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.6
+
+#<athÃditya udayan yatprÃcÅæ diÓaæ praviÓati tena prÃcyÃn prÃïÃn raÓmi«u saænidhatte |
+yad dak«iïaæ yat pratÅcÅæ yad udÅcÅæ yad adho yad Ærdhvaæ yad antarÃ diÓo yat sarvaæ prakÃÓayati tena sarvÃn prÃïÃn raÓmi«u saænidhatte  || PrUp_1.6 ||>#
+
+
+
+____________________
+
+
+PrUpBh_1.6
+
+athÃditya udayannudgacchan prÃïinÃæ cak«urgocaramÃgacchan yatprÃcÅæ diÓaæ svaprakÃÓena praviÓati vyÃpnoti;tena svÃtmÃvabhÃsarÆpe«u vyÃptimatsu vyÃptatvÃtprÃïina÷ saænidhatte saæniveÓayati;
+
+ÃtmabhÆtÃnkaroti ityartha÷ /
+tathaiva yatpraviÓati dak«iïÃæ yatpratÅcÅæ yadudÅcÅmadha Ærdhvaæ yatpraviÓati yaccÃntarÃ diÓa÷ koïadiÓo 'vÃntaradiÓo yaccÃnyat sarvaæ prakÃÓayati tena svaprakÃÓavyÃptyÃ sarvÃn sarvadiksthÃn prÃïÃn raÓmi«u sannidatte //6//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.7
+
+#<sa e«a vaiÓvÃnaro viÓvarÆpa÷ prÃïo 'gnirudayate |
+tad etad dacÃbhyuktam  || PrUp_1.7 ||>#
+
+____________________
+
+
+PrUpBh_1.7
+
+sa e«o 'ttÃ praïo vaiÓvÃnara÷ sarvÃtmÃ viÓvarÆpo viÓvÃtmatvÃcca prÃïo 'gniÓca sa evÃttodayata udgacchati pratyahaæ sarvÃ diÓa ÃtmasÃtkurvan /
+tadetaduktaæ vastu ­cÃ mantreïÃpyabhyuktam //7//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.8
+
+#<viÓvarÆpaæ hariïaæ jÃtavedasaæ parÃyaïaæ jyotir ekaæ tapantam  /
+sahasraraÓmi÷ ÓatadhÃ vartamÃna÷ prÃïa÷ prajÃnÃm udayaty e«a sÆrya÷  // PrUp_1.8 //>#
+
+
+
+____________________
+
+
+PrUpBh_1.8
+
+viÓvarÆpaæ sarvarÆpaæ hariïaæ raÓmivantaæ jÃtavedasaæ jÃtapraj¤Ãnaæ parÃyaïaæ sarvaprÃïÃÓayaæ jyotirekaæ sarvaprÃïinÃæ cak«urbhÆtamadvitÅyaæ tapantaæ tÃpakriyÃæ kurvÃïaæ svÃtmÃnaæ sÆryaæ sÆrayo vij¤Ãtavanto brahmavida÷ /
+ko 'sau yaæ vij¤Ãtavanta÷?sahasraraÓmiranekaraÓmi÷ ÓatadhÃnekadhÃ prÃïibhedena vartamÃna÷ prÃïa÷ prajÃnÃmudayatye«a sÆrya÷ //8//
+
+
+
+yaÓcÃsau candramÃ mÆrtirannam amÆrtiÓca prÃïo 'ttÃdityastadekam etanmithunaæ sarvaæ kathaæ prajÃ÷ kari«yata iti ucyate-
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.9
+
+#<saævatsaro vai prajÃpati÷ |
+tasyÃyane dak«iïaæ cottaraæ ca |
+tad ye ha vai tadi«ÂÃpÆrte k­tim ity upÃsate te cÃndramasam eva lokam abhijayante |
+ta eva punar Ãvartante |
+tasmÃd eta ­«aya÷ prajÃkÃmÃ dak«iïaæ pratipadyante |
+e«a ha vai rayir ya÷ pit­yÃïa÷  || PrUp_1.9 ||>#
+
+
+
+____________________
+
+
+PrUpBh_1.9
+
+tadeva kÃla÷ saævatsaro vai prajÃpatistannirvartyatvÃtsaævatsarasya /
+candrÃdityanirvartyatvÃtsaævatsarasya /
+candrÃdityanirvartyatithyahorÃtrasamudÃyo hi saævatsara÷ tadananyatvÃdrayiprÃïamithunÃtmaka evetyucyate /
+tatkatham?tasya saævatsarasya prajÃpaterayane mÃrgau dvau dak«iïaæ cottaraæ ca dve prasiddhe hyayane «aïmÃsalak«aïe yÃbhyÃæ dak«iïenottareïa ca yÃti savitÃ kevalakarmiïÃæ j¤ÃnasaæyuktakarmavatÃæ ca lokÃn vidadhat /
+
+katham?tat tatra ca brÃhmaïÃdi«u ye ha vai tadupÃsata iti, kriyÃviÓe«aïo dvitÅyastacchabda÷, i«Âaæ ca pÆrtaæ ce«ÂÃpÆrte ityÃdi k­tamevopÃsate nÃk­taæ nityaæ te cÃndramasaæ candramasi bhavaæ prajÃndramasya /
+te tatraiva ca k­tak«ayÃtpunarÃvartante"imaæ lokaæ hÅnataraæ vÃ viÓanti"(mu.u.1 / 2 / 10) iti hyuktam /
+
+yasmÃdevaæ prajÃpatimannÃtmakaæ phalatvenÃbhinirvartayanti candram i«ÂÃpÆrtakarmaïaiva ­«aya÷ svargadra«ÂÃra÷ prajÃkÃmÃ÷ prajÃrthino g­hasthÃstasmÃtsvak­tameva dak«iïaæ dak«iïÃyanopalak«itaæ candraæ pratipadyante /
+e«a ha vai rayirannaæ ya÷ pit­yÃïa÷ pit­yÃïapalak«ita÷ //9//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.10
+
+#<athottareïa tapasÃ brahmacaryeïa ÓraddhayÃ vidyayÃtmÃnam anvi«yÃdityam abhijayante |
+etad vai prÃïÃnÃm Ãyatanam etad am­tam ayam etat parÃyaïam |
+etasmÃn na punarÃvartanta iti |
+e«a nirodha÷ |
+tad e«a Óloka÷  || PrUp_1.10 ||>#
+
+
+
+____________________
+
+
+PrUpBh_1.10
+
+athottareïÃyanena prajÃpate÷ aæÓaæ prÃïamattÃramÃdityamabhijayante;kena?tapasendriyajayena viÓe«ato brahmacarye ÓraddhayÃ vidyayÃ ca prajÃpatyÃtmavi«ayÃ ÃtmÃnaæ prÃïaæ sÆryaæ jagatastasthu«aÓcÃnvi«yÃhamasmÅti viditvÃdityamabhijayante 'bhiprÃpnuvanti /
+
+etadvÃ Ãyatanaæ sarvaprÃïÃnÃæ sÃmÃnyamÃyatanamÃÓrayametadam­tamavinÃÓi /
+abhayamata eva bhayavajitaæ na candravatk«ayav­ddhibhayavat /
+etatparÃyaïaæ parÃ gati÷ vidyÃvatÃæ karmiïÃæ ca j¤ÃnavatÃm /
+etasmÃnna punarÃvartante yathetare kevalakarmiïÃ iti /
+yasmÃde«o 'vidu«Ãæ nirodha÷ /
+ÃdityÃdi niruddhÃ avidvÃæso naite saævatsaramÃdityamÃtmÃnaæ prÃïamabhiprÃpnuvanti /
+sa hi saævatsara÷ kÃlÃtmÃvidu«Ãæ nirodha÷ /
+tattatrÃsminnartha e«a Óloko mantra÷ /
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.11
+
+#<pa¤capÃdaæ pitaraæ dvÃdaÓak­tiæ diva Ãhu÷ pare ardhe purÅ«iïam  /
+atheme anya u pare vicak«aïaæ saptacakre «a¬ara Ãhurarpitamiti  // PrUp_1.11 //>#
+
+____________________
+
+
+PrUpBh_1.11
+
+pa¤capÃdaæ pa¤cartava÷ pÃdÃ ivÃsya saævatsarÃtmana Ãdityasya tairasau pÃdairivartubhirÃvartate /
+hemantaÓiÓirÃvekÅk­tyeyaæ kalpanÃ /
+pitaraæ sarvasya janayit­tvÃtpit­tvaæ tasya /
+taæ dvÃdaÓÃk­tiæ dvÃdaÓamÃsÃ Ãk­tayo 'vayavÃ Ãkaraïaæ vÃkyavikaraïam asya dvÃdaÓamÃsaistaæ dvÃdaÓÃk­tiæ divo dyulokÃtpara Ærdhver'the sthÃne t­tÅyÃsyÃæ divÅtyartha÷ purÅ«iïaæ purÅ«avantamudakavantamÃhu÷ kÃlavida÷ /
+
+atha tamevÃnya ima u pare kÃlavido ticak«aïaæ nipuïaæ sarvaj¤aæ saptacakre saptahayarÆpeïa cakre satataæ gatimati kÃlÃtmani «a¬are «a¬­tumatyÃhu÷ sarvamidaæ jagatkathayanti arpitamarÃ iva rathanÃbhau nivi«Âamiti /
+
+yadi pa¤capÃdo dvÃdaÓÃk­tiryadivÃ saptacakra÷ «a¬ara÷ sarvathÃpi saævatsara÷ kÃlÃtmÃ prajÃpati÷ candrÃdityalak«aïo 'pi jagata÷ kÃraïam //11//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.12
+
+
+yasminn idaæ Óritaæ viÓvaæ sa eva prajÃpati÷ saævatsarÃkhya÷ svÃvayave mÃse k­tsna÷ parisamÃpyate /
+
+
+#<mÃso vai prajÃpati÷ |
+tasya k­«ïapak«a eva rayi÷ Óukla÷ prÃïa÷ |
+tasmÃd eta ­«aya÷ Óukla i«Âaæ kurvantÅtara itarasmin  || PrUp_1.12 ||>#
+
+
+
+____________________
+
+
+PrUpBh_1.12
+
+mÃso vai prajÃpatiryathoktalak«aïa eva mithunÃtmaka÷ /
+tasya mÃsÃtmana÷ prajÃpatereko bhÃga÷ k­«ïapak«o rayirannaæ candramÃ÷ /
+aparo bhÃga÷ Óuklapak«o rayirannaæ candramÃ÷ /
+aparo bhÃga÷ Óuklapak«a÷ prÃïa Ãdityo 'ttÃgni÷ yasmÃcchuklapak«ÃtmÃnaæ prÃïaæ sarvameva paÓyanti tasmÃtprÃïadarÓina eta ­«aya÷ k­«ïapak«astairna d­Óyate yasmÃt /
+itare tu prÃïaæ na paÓyantÅtyadarÓanalak«aïaæ k­«ïÃtmÃnameva paÓyanti /
+itarasmin k­«ïapak«a eva kurvanti Óukle kurvanto 'pi //12//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.13
+
+#<ahorÃtro vai prajÃpati÷ |
+tasyÃhareva prÃïo rÃtrireva rayi÷ |
+prÃïaæ vÃ ete praskandanti ye divÃ ratyÃ saæyujyante |
+brahmacaryameva tadyadrÃtrau ratyÃ saæyujyante  || PrUp_1.13 ||>#
+
+
+
+____________________
+
+
+PrUpBh_1.13
+
+so 'pi mÃsÃtmÃ prajÃpati÷ svÃvayave 'horÃtre parisamÃpyate /
+ahorÃtro vai prajÃpati÷ pÆrvavat /
+tasyÃpyahareva prÃïo 'ttÃgnÅ rÃtrireva rayi÷ pÆrvavat /
+prÃïamaharÃtmÃnaæ vÃ ete praskandanti nirgamayanti Óo«ayanti vÃ svÃtmano vicchidyÃpanayanti ke?ye divÃhani ratyÃ ratikÃraïabhÆtayÃ saha striyÃ saæyujyante mithunaæ maithunamÃcaranti mÆ¬hÃ÷ /
+yata evaæ tasmÃttanna kartavyamiti prati«edha÷ prÃsaæÇgika÷ /
+yadrÃtrau saæyujyante ratyÃ ­tau brahmacaryameva taditi praÓastatvÃd­tau bhÃryÃgamanaæ kartavyamityayamapi prÃsaÇgiko vidhi÷ /
+prak­taæ tÆcyate - so 'horÃtrÃtmaka÷ prajÃpatirvÅhiyavÃdyannÃtmanÃ vyavasthita÷ //13//
+
+
+
+evaæ krameïa pariïamya tat -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.14
+
+#<annaæ vai prajÃpatis tato ha vai tadreta÷ |
+tasmÃd imÃ÷ prajÃ÷ prajÃyanta iti  || PrUp_1.14 ||>#
+
+
+
+____________________
+
+
+PrUpBh_1.14
+
+annaæ vai prajÃpati÷ /
+katham?tatastasmÃddha vai reto n­bÅjaæ tatprajÃkaraïaæ tasmÃdyo«iti siktÃdimÃ manu«yÃdilak«aïÃ÷ prajÃ÷ prajÃyante /
+yatp­«Âaæ kuto ha vai prajÃ÷ prajÃyanta iti /
+tadevaæ candrÃdityamithunÃdikrameïÃhorÃtrÃntenÃnnÃs­gretoddhÃreïemÃ÷ prajÃ÷ prajÃyanta iti nirïÅtam //14//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.15
+
+#<tad ye ha vai tatprajÃpativrataæ caranti |
+te mithunam utpÃdayante |
+te«Ãmevai«a brahmaloka÷ |
+ye«Ãæ tapo brahmacaryaæ |
+ye«u satyaæ prati«Âhitam  || PrUp_1.15 ||>#
+
+
+
+____________________
+
+
+PrUpBh_1.15
+
+tattatraivaæ sati ye g­hasthÃ÷ - ha vai iti prasiddhasmaraïÃrthau nipÃtau - tatprajÃpatervrataæ prajÃpativratam­tau bhÃryÃgamanaæ caranti kurvanti te«Ãæ d­«Âaphalamidam /
+kim?te mithunaæ putraæ duhitaraæ cotpÃdayante /
+ad­«Âaæ ca phalami«ÂÃpÆrtadattakÃriïÃæ te«Ãmeva e«a yaÓcÃndramaso brahmaloka÷ pit­yÃïalak«aïo ye«Ãæ tapa÷ snÃtakavratÃdÅni, brahmacaryam, ye«u ca satyaman­tavarjanaæ prati«ÂhitamavyabhicÃritayÃ vartate nityameva //15//
+
+
+
+yastu punarÃdityopalak«ita uttarÃyaïa÷ prÃïÃtmabhÃvo viraja÷ Óuddho na candrabrahmalokavadrajasvalo v­ddhik«ayÃdiyukto 'sau te«Ãæ ke«Ãmityucyate -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 1.16
+
+#<te«Ãm asau virajo brahmaloko na ye«u jihvam an­taæ na mÃyÃ ceti  || PrUp_1.16 ||>#
+
+
+
+____________________
+
+
+PrUpBh_1.16
+
+yathÃ g­hasthÃnÃmekaviruddhasaævyavahÃraprayojanavattvÃjjihraæ kauÂilyaæ vakrabhÃvo 'vaÓyaæbhÃvi tathÃ na ye«u jihram /
+
+yathÃ ca g­hasthÃnÃæ krÅ¬ÃnarmÃdinimittaman­tamavarjanÅyaæ tathÃ na ye«u tat /
+tathÃ mÃyÃ g­hasthÃnÃmiva na ye«u vidyate /
+mÃyÃ nÃma bahiranyathÃtmÃnaæ prakÃÓyanyathaiva kÃryaæ karoti sÃ mÃyÃ mithyÃcÃrarÆpÃ /
+
+mÃyetyevamÃdayo do«Ã ye«vadhikÃri«u brahmacÃrivÃnaprasthabhik«u«u nimittÃbhÃvÃnna vidyante tatsÃdhanÃnurÆpeïaiva te«Ãmasau virajo brahmaloka itye«Ã j¤ÃnayuktakarmavatÃæ gati÷ /
+pÆrvauktastu brahmaloka÷ kevalakarmiïÃæ candralak«aïa iti //16//
+
+
+
+iti prathama praÓna÷
+
+
+
+=============================================================================
+
+
+
+dvitÅya÷ praÓna÷
+
+
+
+prÃïo 'ttÃ prajÃpatirityuktam /
+tasya prajÃpatitvamatt­tvaæ ca asmi¤ÓarÅre 'vadhÃrayitavyamiti ayaæ praÓna Ãrabhyate -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 2.1
+
+#<ata hainaæ bhÃrgavo vaidarbhi÷ papraccha |
+bhagavan katyeva devÃ÷ prajÃæ vidhÃrayante |
+katara etat prakÃÓayante |
+ka÷ punar e«Ãæ vari«Âha iti  || PrUp_2.1 ||>#
+
+
+
+____________________
+
+
+PrUpBh_2.1
+
+athÃnantaraæ ha kilainaæ bhÃrgavo vaidarbhi÷ papraccha /
+he bhagavan katyeva devÃ÷ prajÃæ ÓarÅralak«aïÃæ vidhÃrayante viÓe«eïa dhÃrayante /
+katare buddhÅndriyakarmendriyavibhaktÃnÃmetatprakÃÓanaæ svamÃhÃtmyaprakhyÃpanaæ prakÃÓayante /
+ko 'sau punare«Ãæ vari«Âha÷ pradhÃna÷ kÃryakaraïalak«aïÃnÃmiti //1//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 2.2
+
+#<tasmai sa hovÃca |
+ÃkÃÓo ha vÃ e«a devo vÃyur agnir Ãpa÷ p­thivÅ vÃÇmanaÓcak«u Órotraæ ca |
+te prakÃÓyÃbhivadanti |
+vayam etad bÃïam ava«Âabhya vidhÃrayÃma÷  || PrUp_2.2 ||>#
+
+
+
+____________________
+
+
+PrUpBh_2.2
+
+evaæ p­«Âavate tasmai sa hovÃca ÃkÃÓo ha vÃ e«a devo vÃyu÷ agni÷ Ãpa÷ p­thivÅtyetÃni pa¤ca mahÃbhÆtÃni ÓarÅrÃrambhakÃïi vÃÇmanaÓcak«u÷ÓrotramityÃdÅni karmendriyabuddhÅndriyabuddhÅndriyÃïi ca /
+kÃryalak«aïÃ÷ karaïalak«aïÃÓca te devÃ Ãtmano mÃhÃtmyaæ prakÃÓyÃbhivadanti spardhamÃnÃ ahaæ Óre«ÂhatÃyai /
+
+kathaæ vadanti?vayametadbÃïaæ kÃryakaraïasaæghÃtamava«Âabhya pÃsÃdam iva stambhÃdayo 'viÓithilÅk­tya vidhÃrayÃmo vispa«Âaæ dhÃrayÃma÷ //2//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 2.3
+
+#<tÃn vari«Âa÷ prÃïa uvÃca |
+mÃ mohamÃpadyatha, aham evaitat pa¤cadhÃtmÃnaæ pravibhajyaitad bÃïamava«Âabhya vidhÃrayÃmÅti |
+te 'ÓraddadhÃnÃ babhÆvu÷  || PrUp_2.3 ||>#
+
+
+
+____________________
+
+
+PrUpBh_2.3
+
+tÃnevamabhimÃnavato vari«Âo mukhya÷ prÃïa uvÃcoktavÃn /
+mÃ maivaæ mohamÃpadyatha avivekitayÃ abhimÃnaæ mÃ kuruta yasmÃdahameva etadbÃïamava«Âabhya vidhÃrayÃmi pa¤cadhÃtmÃnaæ pravibhajya prÃïÃdiv­ttibhedaæ svasya k­tvÃ vidhÃrayÃmÅtyuktavati ca tasmiæste 'k«addadhÃnÃ apratyayavanto babhÆvu÷ kathametadevamiti //3//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 2.4
+
+#<so 'bhimÃnÃdÆrdhvamutkramata iva |
+tasminn utkrÃmaty athetare sarva evotkrÃmante |
+tasmiæÓ ca prati«ÂhamÃne sarva eva prÃti«Âhante |
+tad yathÃ mak«ikÃ madhukararÃjÃnam utkrÃmantaæ sarvÃ evotkrÃmante |
+tasmiæÓ ca prati«ÂhamÃne sarvÃ eva prÃti«Âhante |
+evaæ vÃÇmanaÓcak«u÷Órotraæ ca |
+te prÅtÃ÷ prÃïaæ stunvanti  || PrUp_2.4 ||>#
+
+
+
+____________________
+
+
+PrUpBh_2.4
+
+sa ca prÃïaste«ÃmaÓraddhadhÃnatÃmÃlak«yÃbhimÃnÃdÆrdhvamutkrÃmata ivedamutkrÃntavÃniva saro«Ãnnirapek«astasminnutkrÃmati yadv­ttaæ taddd­«ÂÃntena pratyak«Åkaroti /
+tasminnutkrÃmati satyathÃnantaram evetare sarva eva prÃïÃÓcak«urÃdÃya utkrÃmanta uccakramire /
+tasmiæÓca prÃïe prati«ÂhamÃne tÆ«ïÅæ bhavati anutkrÃmati sati sarva eva  prÃti«Âhante tÆ«ïÅæ vyavasthitÃ abhÆvan /
+tattatra yathÃ loke mak«ikÃ madhukarÃ÷ svarÃjÃnaæ madhukararÃjÃnam utkrÃmantaæ prati sarvÃ evotkrÃmante tasmiæÓca prati«ÂhamÃne sarvÃ eva prati«Âhante prÃtiti«Âhanti /
+yathÃyaæ d­«ÂÃnta evaæ vÃÇmanaÓcak«u÷Órotraæ cetyÃdayasta uts­jyÃÓraddadhÃnatÃæ buddhvÃ prÃïamÃhÃtmyaæ prÅtÃ÷ prÃïaæ stuvanti //4//
+
+
+
+katham -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 2.5
+
+#<e«o 'gnis tapaty e«a sÆrya e«a parjanyo maghavÃn e«a vÃyu÷  /
+e«a p­thivÅ rayir deva÷ sadasac cÃm­taæ ca yat  // PrUp_2.5 //>#
+
+
+
+____________________
+
+
+PrUpBh_2.5
+
+e«a prÃïo 'gni÷ saæstapati jvalati /
+tathaiva sÆrya÷ san prakÃÓate, tathaiva parjanya÷ san var«ati /
+kiæ ca maghavÃnindra÷ sanÃ prajÃ÷ pÃlayati, jighÃæsatyasurarak«Ãæsi /
+e«a vÃyu÷ ÃvahapravahÃdibheda÷ /
+kiæ cai«a p­thivÅ rayirdeva÷ sarvasya jagata÷ sanmÆrtamasadamÆrtaæ cÃm­taæ ca yaddevÃnÃæ sthitikÃraïaæ kiæ bahunÃ //5//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 2.6
+
+#<arÃ iva rathanÃbhau prÃïe sarvaæ prati«Âhitam  /
+­co yajÆæ«i sÃmÃni yaj¤a÷ k«atraæ brahma ca  // PrUp_2.6//>#
+
+
+
+____________________
+
+
+PrUpBh_2.6
+
+arÃ iva rathanÃbhau ÓraddhÃdi nÃmÃntaæ sarvaæ sthitikÃle prÃïa eva prati«Âhitam /
+tatharco yajÆæ«i sÃmÃnÅti trividhÃ mantrÃ÷ tatsÃdhyaÓca yaj¤a÷ k«atraæ ca sarvasya pÃlayit­ brahma ca yaj¤Ãdikarmakart­tve 'dhik­taæ caivai«a prÃïa÷ sarvam //6//
+
+
+
+kiæ ca -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 2.7
+
+#<prajÃpatiÓ carasi garbhe tvam eva pratijÃyase |
+tubhyaæ prÃïa prajÃs tv imÃ baliæ haranti ya÷ prÃïai÷ prati«Âhasi  || PrUp_2.7 ||>#
+
+
+
+____________________
+
+
+PrUpBh_2.7
+
+ya÷ prajÃpatirapi sa tvameva garbhe carasi, piturmÃtuÓca pratirÆpa÷ sanpratijÃyase;prajÃpatitvÃdeva prÃgeya siddhaæ tava mÃt­pit­tvam /
+sarvadehadehyÃk­ticchaÇmanaika÷ prÃïa÷ sarvÃtmÃsÅtyartha÷ /
+tubhyaæ tvadarthaæ yÃ isÃ manu«yÃdyÃ÷ prajÃstu he prÃïa cak«urÃdidvÃrairbali haranti /
+yastvaæ prÃïaiÓcak«urÃdibhi÷ saha pratiti«Âhasi sarvaÓarÅre«vatastubhyaæ baliæ harantÅti yuktam;bhoktÃ hi yatastvaæ tavaivÃnyatsarvaæ bhojyam //7//
+
+
+
+kiæ ca -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 2.8
+
+#<devÃnÃm asi vahnitama÷ pitÌïÃæ prathamÃ svadhÃ  /
+­«ÅïÃæ caritaæ satyam atharvÃÇgirasÃm asi  // PrUp_2.8 //>#
+
+
+
+____________________
+
+
+PrUpBh_2.8
+
+devÃnÃmindrÃdÅnÃmasi bhavasi tvaæ vahnitamo havi«Ãæ prÃpayit­tama÷ /
+pit­ïÃæ nÃndÅmukhe ÓrÃddhe yÃ pit­bhyo dÅyate svadhÃnnaæ sÃ devapradhÃnamapek«ya prathamÃ bhavati /
+tasyÃ api pit­bhya÷ prÃpayitÃ tvamevetyartha÷ kiæ car«ÅïÃæ cak«urÃdÅnÃæ prÃïÃnÃmaÇgirasÃmaÇgirasabhÆtÃnÃmatharvaïÃæ te«Ãmeva"prÃïo vÃtharvÃ"iti Órute÷, caritaæ ce«Âitaæ satyamavitathaæ dehadhÃraïÃdyupakÃralak«aïaæ tvamevÃsi //8//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 2.9
+
+#<indras tvaæ prÃïa tejasÃ rudro 'si saæhara¤ jagat |
+sthitau ca pari samantÃdrak«itÃ pÃlayitÃ parirak«itÃ |
+tvam eva jagata÷ saumyena rÆpeïa |
+tvam antarik«e 'jasraæ carasi udayÃstamayÃbhyÃæ sÆryas tvam eva ca sarve«Ãæ jyoti«Ãæ pati÷  || PrUp_2.9 ||>#
+
+
+
+____________________
+
+
+PrUpBh_2.9
+
+indra÷ parameÓvarastvaæ he prÃïa tejasÃ vÅryeïa rudro 'si saæharajjagat /
+sthitau ca pari samantÃdrak«itÃ pÃlayitÃ parirak«itÃ tvameva jagata÷ saumyena rÆpeïa /
+tvamantarik«e 'jasraæ carasi udayÃstamayÃbhyÃæ sÆryastvameva ca sarve«Ãæ jyoti«Ãæ pati÷ //9//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 2.10
+
+#<yadÃ tvam abhivar«asy athemÃ÷ prÃïa te prajÃ÷  /
+ÃnandarÆpÃs ti«Âhanti kÃmÃyÃnnaæ bhavi«yatÅti  // PrUp_2.10//>#
+
+
+
+____________________
+
+
+PrUpBh_2.10
+
+yadÃ parjanyo bhÆtvÃbhivar«asi tvamatha tadÃnnaæ prÃpyemÃ÷ prajÃ÷ prÃïate prÃïace«ÂÃæ kurvantÅtyartha÷ /
+athavÃ prÃïa te tavemÃ÷ prajÃ÷ svÃtmabhÆtÃstvadannasaævardhitÃstvadabhivar«aïadarÓanamÃtreïa cÃnandarÆpÃ÷ sukhaæ prÃptÃ iva satya÷ ti«Âhanti kÃmÃyecchÃto 'nna bhavi«yatÅtyevamabhiprÃya÷ //10//
+
+
+
+kiæ ca -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 2.11
+
+#<vrÃtyas tvaæ prÃïaika­«irattÃ viÓvasya satpati÷  /
+vayam Ãdyasya dÃtÃra÷ pitÃ tvaæ mÃtariÓva na÷  // PrUp_2.11//>#
+
+
+
+____________________
+
+
+PrUpBh_2.11
+
+prathamajatvÃdanyasya saæskartu÷ abhÃvÃdasaæsk­to vrÃtyastvaæ svabhÃvata eva Óuddha ityabhiprÃya÷ /
+he prÃïaikar«istvamÃtharvaïÃnÃæ prasiddha ekar«inÃmÃgri÷ sannattÃ sarvahavi«Ãm /
+tvameva viÓvasya sarvasya sato vidyamÃnasya pati÷ satpati÷ /
+sÃdhurvÃ pati÷ satpati÷ /
+
+vayaæ punarÃdyasya tavÃdanÅyasya havi«o dÃtÃra÷ /
+tvaæ pitÃ mÃtariÓva he mÃtariÓvanno 'smÃkam /
+
+atha vÃ mÃtariÓvano vÃyostvam /
+ataÓca sarvasyaiva jagata÷ pit­tvaæ siddham //11//
+
+
+
+kiæ bahunÃ -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 2.12
+
+#<yÃ te tanÆrvÃci prati«ÂhitÃ yÃ Órotraæ yÃ ca cak«u«i  /
+yÃ ca manasi saætatÃ ÓivÃæ tÃæ kuru motkramÅ÷  // PrUp_2.12 //>#
+
+
+
+____________________
+
+
+PrUpBh_2.12
+
+yÃ te tvadÅyÃ sanÆrvÃci prati«ÂhitÃ vakt­tvena vadanace«ÂÃæ kurvatÅ, yÃ Órotre yÃ ca cak«u«i yÃ ca manasi saÇkalpÃdivyÃpÃreïa santatÃ samanugatÃ tanÆstÃæ ÓivÃæ ÓÃntÃæ kuru motkramÅrutkramaïena aÓivÃæ mÃ kÃr«Årityartha÷ //12//
+
+
+
+kiæ bahunÃ -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 2.13
+
+#<prÃïasyedaæ vaÓe sarvaæ tridive yat prati«Âhitam  /
+mÃteva putrÃn rak«asva ÓrÅÓ ca praj¤Ãæ ca vidhehi na iti  // PrUp_2.13 //>#
+
+
+
+____________________
+
+
+PrUpBh_2.13
+
+asmiælloke prÃïasyaiva vaÓe sarvamidaæ yatki¤cidupabhogajÃtaæ tridive t­tÅyasyÃæ divi ca yatprati«Âhitaæ devÃdyupabhogajÃtaæ tasyÃpi prÃïa eveÓitÃ rak«itÃ /
+ato mÃteva putrÃnasmÃn rak«asva pÃlayasva /
+tvannimittÃ hi brÃhmya÷ k«ÃtriyÃÓca ÓriyastÃstvaæ ÓrÅÓca ÓriyaÓca praj¤Ãæ ca tvatsthitinimittÃæ vidhehi no vidhasva ityartha÷ /
+
+
+ityevaæ sarvÃtmatayÃ vÃgÃdibhi÷ prÃïai÷ stutyÃ gamitamahimÃ prÃïa÷ prajÃpatirattetyavadh­tam //13//
+
+
+
+iti dvitÅya÷ praÓna÷
+
+
+
+=============================================================================
+
+
+
+t­tÅya praÓna÷
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 3.1
+
+
+#<atha hainaæ kausalyaÓ cÃÓvalÃyana÷ papraccha |
+bhagavan kuta e«a prÃïo jÃyate |
+katham ÃyÃty asmin ÓarÅre |
+ÃtmÃnaæ vÃ pravibhajya kathaæ prÃti«Âhate |
+kenotkramate |
+kathaæ bÃhyam abhidhatte |
+katham adhyÃtmam iti  || PrUp_3.1 ||>#
+
+
+
+____________________
+
+
+PrUpBh_3.1
+
+atha hainaæ kausalyaÓcÃÓvalÃyana÷ papraccha /
+prÃïo hyevaæ prÃïairnirdhÃritatattvairupalabdhamahimÃpi saæhatatvÃtsyÃdasya÷ kÃryatvamata÷ p­cchÃmi bhagavank­ta÷ kasmÃtkÃraïÃde«a ÃyÃtyasmi¤ÓarÅre /
+kiænimittakamasya ÓarÅragrahaïamityartha÷ /
+pravi«ÂaÓca ÓarÅra ÃtmÃnaæ vÃ pravibhajya pravibhÃgaæ k­tvÃ kathaæ kena prakÃreïa prÃti«Âhate pratiti«Âhati kena vÃ v­ttiviÓe«eïÃsmÃccharÅrÃdutkrÃmata utkrÃmati /
+kathaæ bÃhyamadhibhÆtamadhidaivataæ cÃbhidhatte dhÃrayati kathamadhyÃtmam iti, dhÃrayatÅti Óe«a÷ //1//
+
+
+
+evaæ p­«Âa÷ -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 3.2
+
+#<tasmai sa hovÃca |
+atipraÓnÃn p­cchasi |
+brahmi«Âho 'sÅti |
+tasmÃt te 'haæ bravÅmi  || PrUp_3.2 ||>#
+
+
+
+____________________
+
+
+PrUpBh_3.2
+
+tasmai sa hovÃcÃcÃrya÷, prÃïa eva tÃvaddurvij¤eyatvÃdvi«amapraÓnÃrhastasyÃpi janmÃdi tvaæ p­cchasyato 'tipraÓnÃnp­cchasi /
+brahmi«Âho 'sÅtyatiÓayena tvaæ brahmavidatastu«Âo 'haæ tasmÃtte tubhyaæ bravÅmi yatp­«Âaæ Óruïu //2//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 3.3
+
+#<Ãtmana e«a prÃïo jÃyate |
+yathai«Ã puru«e chÃyaitasminn etadÃtatam |
+manok­tenÃyÃty asmi¤ ÓarÅre  || PrUp_3.3 ||>#
+
+
+
+____________________
+
+
+PrUpBh_3.3
+
+Ãtmana÷ parasmÃtpuru«Ãdak«arÃtsatyÃde«a ukta÷ prÃïo jÃyate /
+kathamityatra d­«ÂÃnta÷ /
+yathÃ loka e«Ã puru«e Óira÷ pÃïyÃdilak«aïe nimitte chÃyÃ naimittikÅ jÃyate tadvadetasminbrahmaïyetat prÃïÃkhyaæ chÃyÃsthÃnÅyaman­tarÆpaæ tattvaæ satye puru«a Ãtataæ samarpitam ityetat /
+chÃyeva dehe manok­tena mana÷ saÇkalpecchÃdini«pannakarmanimittenetyetat - vak«yati hi"puïyena puïyam"(pra.u.3 / 7) ityÃdi÷;tadeva"saktÃ÷ saha karmaïÃ"(b­.u.4 / 4 / 6) iti ca ÓrutyantarÃt - ÃyÃti Ãgacchatyasmi¤ÓarÅre //3//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 3.4
+
+#<yathÃ samrÃ¬ evÃdhik­tÃn viniyuÇkte |
+etÃn grÃmÃn etÃn grÃmÃn adhiti«Âhasveti |
+evam evai«a prÃïa itarÃn prÃïÃn p­thak p­thag eva saænidhatte  || PrUp_3.4 ||>#
+
+
+
+____________________
+
+
+PrUpBh_3.4
+
+yathÃ yena prakÃreïa loke rÃjÃ samrÃ¬eva grÃmÃdi«vadhik­tÃnviniyuÇkte /
+katham?etÃngrÃmÃnetÃngrÃmÃnadhiti«Âhasva iti /
+evameva yathÃ d­«ÂÃnta÷ e«a mukhya÷ prÃïa÷ itarÃnprÃïÃn cak«urÃdÅnÃtmabhedÃæÓca p­thak p­thageva yathÃsthÃnaæ saænidhatte viniyuÇkte //4//
+
+
+
+tatra vibhÃga÷ -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 3.5
+
+#<pÃyÆpasthe 'pÃnam |
+cak«u÷Órotre mukhanÃsikÃbhyÃæ prÃïa÷ svayaæ prati«Âhate |
+madhye tu samÃna÷ |
+e«a hy etad dhutam annaæ samaæ nayati |
+tasmÃd etÃ÷ saptÃrci«o bhavanti  || PrUp_3.5 ||>#
+
+
+
+____________________
+
+
+PrUpBh_3.5
+
+pÃyÆpasthe pÃyuÓcopasthaÓca pÃyÆpasthaæ tasmin, apÃnamÃtmabhedaæ mÆtrapurÅ«Ãdyapanayanaæ kurvasti«Âhati saænidhatte /
+tathÃ cak«u÷Órotre cak«uÓca Órotraæ ca cak«u÷Órotraæ tasmiæÓcak«u÷Órotre, mukhanÃsikÃbhyÃæ ca mukhaæ ca nÃsikÃ ca tÃbhyÃæ mukhanÃsikÃbhyÃæ ca nirgacchanprÃïa÷ svayaæ samrÃÂsthÃnÅya÷ prati«Âhate pratiti«Âhati madhye tu prÃïÃpÃnayo÷ sthÃnayornÃbhyÃæ samÃne 'Óitaæ pÅtaæ ca samaæ nayatÅti samÃna÷ /
+
+e«a hi yasmÃdyadetaddh­taæ bhuktaæ pÅtaæ cÃtmÃgre prak«iptamannaæ samaæ nayati tasmÃdaÓitapÅtendhanÃd agreraudaryÃddh­dayadeÓaæ prÃptÃdetÃ÷ saptasaækhyÃkÃ arci«o dÅptayo nirgacchantyo bhavanti ÓÅr«aïya÷ /
+prÃïadvÃrÃ darÓanaÓravaïÃdilak«aïarÆpÃdivi«ayaprakÃÓa ityabhiprÃya÷ //5//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 3.6
+
+#<h­di hy e«a ÃtmÃ |
+atraitad ekaÓataæ nÃ¬ÅnÃm |
+tÃsÃæ Óataæ Óatam ekaikasyÃ÷ |
+dvÃsaptatir dvÃsaptati÷ pratiÓÃkhÃnÃ¬ÅsahasrÃïi bhavanti |
+Ãsu vyÃnaÓcarati  || PrUp_3.6 ||>#
+
+
+
+____________________
+
+
+PrUpBh_3.6
+
+iti hye«a puï¬arÅkÃkÃramÃæsapiï¬aparicchinne h­dayÃkÃÓa e«a ÃtmÃtmanÃ saæyukto liÇgÃtmÃ /
+atrÃsminh­daya etadekaÓatam ekottaraÓataæ saækhyayÃ pradhÃnanÃ¬ÅnÃæ bhavatÅti /
+tÃsÃæ Óataæ ÓatamekaikasyÃ÷ pradhÃnanÃ¬yÃ bhedÃ÷ /
+punarapi dvÃsaptatirdvÃsaptatirdve dve sahasre adhike saptatiÓca sahasrÃïi sahasrÃïÃæ dvÃsaptati÷ pratiÓÃkhÃnÃ¬ÅsahasrÃïi /
+pratipratinÃ¬ÅÓataæ saækhyayÃ pradhÃnanÃ¬ÅnÃæ sahasrÃïi bhavanti /
+
+Ãsu nÃ¬Å«u vyÃno vÃyu÷ carati vyÃno vyÃpanÃt /
+ÃdityÃdiva raÓmayo h­dayÃt sarvagÃminÅbhirnÃ¬Åbhi÷ sarvadehaæ saævyÃpya vyÃno vartate /
+sandhiskandhamarmadeÓe«u viÓe«eïa prÃïÃpÃnav­ttyoÓca madhya udbhÆtav­ttirvÅryavatkarmakartÃ bhavati //6//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 3.7
+
+#<athaikayordhva udÃna÷ puïyena puïyaæ lokaæ nayati |
+pÃpena pÃpam |
+ubhÃbhyÃm eva manu«yalokam  || PrUp_3.7 ||>#
+
+
+
+____________________
+
+
+PrUpBh_3.7
+
+atha yÃ tu tatraikaÓatÃnÃæ nÃ¬ÅnÃæ madhya ÆrdhvagÃ su«umnÃkhyÃ nÃ¬Å tathaikayordhva÷ sannudÃno vÃyurÃpÃdatalamastakav­tti÷ sa¤caranpuïyena karmaïÃ ÓÃstravihitena puïyaæ lokaæ devÃdisthÃnalak«aïaæ nayati prÃpayati pÃpena tadviparÅtena pÃpaæ narakaæ tiryagyonyÃdilak«aïam /
+ubhÃbhyÃæ samapradhÃnÃbhyÃæ puïyapÃpÃbhyÃmeva manu«yalokaæ nayatÅtyanuvartate //7//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 3.8
+
+#<Ãdityo ha vai bÃhya÷ prÃïa udayati |
+e«a hy enaæ cÃk«u«aæ prÃïam anug­hïÃna÷ |
+p­thivyÃæ yÃ devatÃ sai«Ã puru«asyÃpÃnam ava«Âabhya |
+antarÃ yadÃkÃÓa÷ sa samÃna÷ |
+vÃyur vyÃna÷  || PrUp_3.8 ||>#
+
+
+
+____________________
+
+
+PrUpBh_3.8
+
+Ãdityo ha vai prasiddho hyadhidaivataæ bÃhya÷ prÃïa÷ sa e«a udayatyudgacchati /
+e«a hyainam ÃdhyÃtmikaæ cak«u«i bhavaæ cÃk«u«aæ prÃïaæ prakÃÓenÃnug­hïÃno rÆpopalabdhau cak«u«a Ãlokaæ kurvannityartha÷ /
+tathÃ p­thivyÃmabhimÃninÅ yÃ devatÃ prasiddhÃ sai«Ã putrasya apÃnamapÃnav­ttimava«ÂabhyÃk­«ya vaÓÅk­tyÃdha evÃpakar«aïenÃnugrahaæ kurvatÅ vartata ityartha÷ /
+anyathÃ hi ÓarÅraæ gurutvÃtpatetsÃvakÃÓe vodgacchet /
+
+yadetadantarÃ madhye dyÃvÃp­thivyorya ÃkÃÓastatstho vÃyu÷ ÃkÃÓa ucyate;ma¤caÓthavat /
+sa samÃna÷ samÃnamanug­hïÃno vartata ityartha÷ /
+samÃnasyÃntarÃkÃÓaÓthatvasÃmÃnyÃt /
+sÃmÃnyena ca yo bÃhyo vÃyu÷ sa vyÃptisÃmÃnyÃd vyÃno vyÃnamanug­hïÃno vartata ityabhiprÃya÷ //8//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 3.9
+
+#<tejo ha vÃ udÃna÷ |
+tasmÃd upaÓÃntatejÃ÷ |
+punarbhavam indriyair manasi saæpadyamÃnai÷  || PrUp_3.9 ||>#
+
+
+
+____________________
+
+
+PrUpBh_3.9
+
+yadvÃhyaæ ha vai prasiddhaæ sÃmÃnyaæ tejastaccharÅra udÃna udÃnaæ vÃyumanug­hïÃti svena prakÃÓenetyabhiprÃya÷ /
+yasmÃtteja÷ - svabhÃvo bÃhyatejo 'nug­hÅta utkrÃntikartÃ tasmÃdyadÃ laukika÷ puru«a upaÓÃntatejÃ bhavati;upaÓÃntaæ svÃbhÃvikaæ tejo yasya sa÷, tadÃ taæ k«ÅïÃyu«aæ mumÆr«u vidyÃt /
+
+sa punarbhavaæ ÓarÅrÃntaraæ pratipadyate /
+katham?sahendriyairmanasi sampadyamÃnai÷ praviÓadbhirvÃgÃdibhi÷ //9//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 3.10
+
+#<yaccittas tenai«a prÃïam ÃyÃti |
+prÃïas tejasÃ yukta÷ sahÃtmanÃ yathÃ saækalpitaæ lokaæ nayati  || PrUp_3.10 ||>#
+
+
+____________________
+
+
+PrUpBh_3.10
+
+yaccitto bhavati tenaiva cittena saækalpenendriyai÷ saha prÃïaæ mukhyaprÃïav­ttimÃyÃti /
+maraïakÃle k«Åïendriyav­tti÷ sanmukhyayÃ prÃïav­ttyaivÃvati«Âhata ityartha÷ /
+tadÃbhivadanti j¤Ãtaya uchvasiti jÅvatÅti /
+
+sa ca prÃïastejasodÃnav­ttyÃ yukta÷ sansahÃtmanÃ svÃminÃ bhoktÃ sa evamudÃnav­ttyaiva yukta÷ prÃïastaæ bhoktÃraæ puïyapÃpakarmavaÓÃdyathÃsaækalpitaæ yathÃbhipretaæ lokaæ nayati prÃpayati //10//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 3.11
+
+#<ya evaæ vidvÃn prÃïaæ veda |
+na hÃsya prajÃ hÅyate 'm­to bhavati |
+tad e«a Óloka÷  || PrUp_3.11 ||>#
+
+
+
+____________________
+
+
+PrUpBh_3.11
+
+ya÷ kaÓcidevaæ vidvÃnyathoktaviÓe«aïairviÓi«ÂamutpattyÃdibhi÷ prÃïaæ veda jÃnÃti tasyedaæ phalam aihikamÃmu«mikaæ cocyate /
+na hÃsya naivÃsya vidu«a÷ prajÃ putrapautrÃdilak«aïÃ hÅyate chidyate /
+patite ca ÓarÅre prÃïasÃyujyatayÃm­to 'maraïadharmÃ bhavati /
+tadetasminnarthe saæk«epÃbhidhÃyaka e«a Óloko mantro bhavati //11//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 3.12
+
+#<utpattim ÃyÃtiæ sthÃnaæ vibhutvaæ caiva pa¤cadhÃ |
+adhyÃtmaæ caiva prÃïasya vij¤ÃyÃm­tam aÓnute vij¤ÃyÃm­tam aÓnuta iti  || PrUp_3.12 ||>#
+
+
+
+____________________
+
+
+PrUpBh_3.12
+
+
+utpattiæ paramÃtmana÷ prÃïasyÃyatimÃgamanaæ manok­tenÃsmin ÓarÅre sthÃnaæ sthitiæ ca pÃyÆpasthÃdisthÃne«u vibhutvaæ ca svÃmyameva samrÃ¬iva prÃïav­ttibhedÃnÃæ pa¤cadhÃ sthÃpanaæ bÃhyamÃdityÃdirÆpeïa adhyÃtmaæ caiva cak«urÃdyÃkÃreïa avasthÃnaæ vij¤Ãyaivaæ prÃïamam­tam aÓnuta iti vij¤ÃyÃm­tamaÓnuta iti dvirvacanaæ praÓnÃrthaparisamÃptyartham //12//
+
+
+
+iti t­tÅya÷ praÓna÷ 
+
+
+
+=============================================================================
+
+
+
+caturtha÷ praÓna÷
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 4.1
+
+
+#<atha hainaæ sauryÃyaïÅ gÃrgya÷ papraccha |
+bhagavann etasmin puru«e kÃni svapanti |
+kÃny asmi¤ jÃgrati |
+katara e«a deva÷ svapnÃn paÓyati |
+kasyaitat sukhaæ bhavati |
+kasmin nu sarve saæprati«ÂhitÃ bhavantÅti  || PrUp_4.1 ||>#
+
+
+
+____________________
+
+
+PrUpBh_4.1
+
+atha hainaæ sauryÃyaïÅ gÃrgya÷ papraccha /
+praÓnatrayeïÃparavidyÃgocaraæ sarvaæ parisamÃpya saæsÃraæ vyÃk­tavi«ayaæ sÃdhyasÃdhanalak«aïamanityam;athedÃnÅmasÃdhyasÃdhanalak«aïamaprÃïamamanogocaramatÅndriyavi«ayaæ Óivaæ ÓÃntamavik­tamak«araæ satyaæ  paravidyÃgamyaæ puru«Ãkhyaæ sabÃhyÃbhyantaramajaæ vaktavyamityuttaraæ praÓnatrayamÃrabhyate /
+
+tatra sudÅptÃdivÃgreryasmÃt parÃdak«arÃtsarve bhÃvÃ visphuliÇgÃ iva jÃyante tatra caivÃpiyanti ityuktaæ dvitÅye muï¬ake;ke te sarve bhÃvÃ ak«arÃdvibhajyante?kathaæ vÃ vibhaktÃ÷ santastatraiva apiyanti?kiæ lak«aïaæ vÃ tadak«aramiti?etadvivak«ayÃdhunÃ praÓnÃn udbhÃvayati - 
+
+bhagavannetasminpuru«o Óira÷ pÃïyÃdimati kÃni karaïÃni svapanti svÃpaæ kurvanti svavyÃpÃrÃduparamante?kÃni cÃsmin jÃgrati jÃgaraïamanidrÃvasthÃæ svavyÃpÃraæ kurvanti katara÷ kÃryakaraïa lak«aïayore«a deva÷ svapnÃnpaÓyati?svapno nÃma jÃgraddarÓanÃnniv­ttasya jÃgradvadanta÷ÓarÅre yaddarÓanam /
+tatkiæ kÃryalak«aïena devena nirvartyante kiæ vÃ karaïalak«aïena kenacidityabhiprÃya÷ /
+
+uparate ca jÃgratsvapnavyÃpÃre yatprasannaæ nirÃyÃsalak«aïamanÃbÃdhaæ sukhaæ kasyaitadbhavati /
+tasminkÃle jÃgratsvapnavyÃpÃrÃd uparatÃ÷ santa÷ kasminnu sarve samyagekÅbhÆtÃ÷ saæprati«ÂhitÃ÷ /
+madhuni rasavatsamudrapravi«ÂanadyÃdivacca vivekÃnarhÃ÷ prati«ÂhitÃ bhavanti saægatÃ÷ saæprati«ÂhitÃ bhavantÅtyartha÷ /
+
+nanu nyastadÃtrÃdikaraïÃt svavyÃpÃrÃduparatÃni p­thakp­thageva svÃtmanyavati«Âhanta ityetadyuktam /
+kuta÷ prÃpti÷ su«uptapuru«ÃïÃæ karaïÃnÃæ kasmiæÓcidekÅbhÃvagamanÃÓaÇkÃyÃ÷ pra«Âu÷ /
+
+yuktaiva tvÃÓaÇkÃ /
+yata÷ saæhatÃni karaïÃni svÃbhyarthÃni paratantrÃïi ca jÃgradvi«aye tasmÃt svÃpe 'pi saæhatÃnÃæ pÃratantryeïaiva kasmiæÓcitsaætirnyÃyyeti tasmÃd ÃÓaÇkÃnurÆpa eva praÓno 'yam /
+atra tu kÃryakaraïasaæghÃto yasmiæÓca pralÅna÷ su«uptapralayakÃlayostadviÓe«aæ bubhutso÷ sa ko nu syÃditi kasminsarve saæprati«ÂhitÃ bhavantÅti //1//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 4.2
+
+#<tasmai sa hovÃca |
+yathÃ gÃrgya marÅcayo'rkasyÃs taæ gacchata÷ sarvÃ etasmiæs tejomaï¬ala ekÅbhavanti |
+tÃ÷ puna÷ punar udayata÷ pracaranti |
+evaæ ha vai tat sarvaæ pare deve manasy ekÅbhavati |
+tena tarhy e«a puru«o na Ó­ïoti |
+na paÓyati |
+na jighrati |
+na rasayate |
+na sp­Óate |
+nÃbhivadate |
+nÃdatte |
+nÃnandayate |
+na vis­jate |
+neyÃyate |
+svapatÅty Ãcak«ate  || PrUp_4.2 ||>#
+
+
+
+____________________
+
+
+PrUpBh_4.2
+
+tasmai sa hovÃcÃcÃrya÷ - Ó­ïu he gÃrgya yattvayÃ p­«Âam /
+yathÃ marÅcayo raÓmayor'kasya ÃdityasyÃstamadarÓanaæ gacchata÷ sarvÃ aÓe«ata etasmiæstejomaï¬ale tejorÃÓirÆpa ekÅbhavanti vivekÃnarhatvamaviÓe«atÃæ gacchanti marÅcayastasyaivÃrkasya tÃ÷ puna÷ punarudayata udgacchata÷ pracaranti vikÅryante /
+yathÃyaæ d­«ÂÃnta÷, evaæ ha vai tatsarvaæ vi«ayendriyÃdijÃtaæ pare prak­«Âe deve dyotanavati manasi cak«urÃdidevÃnÃæ manastantratvÃtparo devo mana÷ tasminsvapnakÃla ekÅbhavati /
+maï¬ale marÅcivadaviÓe«atÃæ gacchati /
+jijÃgari«oÓca raÓmimavanmaï¬alÃnmanasa eva pracaranti svavyÃpÃrÃya prati«Âhante /
+
+yasmÃtsvapnakÃle ÓrotrÃdÅni ÓabdÃdyupalabdhikaraïÃni manasi ekÅbhÆtÃnÅva karaïavyÃpÃrÃd uparatÃni tena tasmÃttarhi tasmin svÃpakÃla e«a devadattÃdilak«aïa÷ puru«o na Ó­ïoti na paÓyati na jighrati na rasayate na sp­Óate nÃbhivadate nÃdatte nÃnandayate na vis­jate neyÃyate svapitÅyÃcak«ate laukikÃ÷ //2//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 4.3
+
+#<prÃïÃgnaya evaitasmin pure jÃgrati |
+gÃrhapatyo ha vÃ e«o 'pÃna÷ |
+vyÃno 'nvÃhÃryapacana÷ |
+yad gÃrhapatyÃt praïÅyate praïayanÃt |
+ÃhavanÅya÷ prÃïa÷  || PrUp_4.3 ||>#
+
+
+
+____________________
+
+
+PrUpBh_4.3
+
+suptatsu ÓrotrÃdi«u karaïe«u etasminpure navadvÃre dehe prÃïÃgnaya÷ prÃïÃ eva pa¤ca vÃyavo 'gnaya ivÃgnayo jÃgrati /
+agnisÃmÃnyaæ hi Ãha - gÃrhapatyo ha vÃ e«o 'pÃna÷ /
+kathamityÃha - yasmÃdgÃrhapatyÃdagneragnihotrakÃla itaro 'gni÷ ÃhavanÅya÷ praïÅyate praïayanÃt praïÅyate 'smÃditi praïayano gÃrhapatyo 'gni÷ /
+tathÃ suptasyÃpÃnav­tte÷ praïÅyata iva prÃïo mukhanÃsikÃbhyÃæ saæcaratyata ÃhavanÅyasthÃnÅya÷ prÃïa÷ /
+vyÃnastu h­dayÃd dak«iïasu«iradvÃreïa nirgamÃddak«iïadiksambandhÃdanvÃhÃryapacano dak«iïÃgni÷ //3//
+
+
+
+atra ca hotÃgnihotrasya -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 4.4
+
+#<yad ucchvÃsani÷ÓvÃsÃvetÃvÃhutÅ samaæ nayatÅti sa samÃna÷ |
+mano ha vÃvana yajamÃna÷ |
+i«Âaphalam evodÃna÷ |
+sa enaæ yajamÃnam aharaharbrahma gamayati  || PrUp_4.4 ||>#
+
+
+
+____________________
+
+
+PrUpBh_4.4
+
+yadyasmÃducchvÃsani÷ÓvÃsau agnihotrÃhutÅ iva nityaæ dvitvasÃmÃnyÃdeva tvetÃvÃhutÅ samaæ sÃmyena ÓarÅrasthitibhÃvÃya nayati yo vÃyuragnisthÃnÅyo 'pi hotÃ cÃhutyornet­tvÃt /
+ko 'sau sa samÃna÷ /
+ataÓca vidu«a÷ svÃpo 'pyagnihotrahavanameva /
+tasmÃdvidvÃnnÃkarmÅtyevaæ mantavya ityabhiprÃya÷ /
+sarvadÃ sarvÃïi bhÆtÃni vicinvantyapi svapata iti hi vÃjasaneyake /
+
+atra hi jÃgrasu prÃïÃgni«u upasaæh­tya bÃhyakaraïÃni vi«ayÃæÓca agnihotraphalamiva svarga brahma jigami«urmano ha vÃva yajamÃno jÃgarti yajamÃnavatkÃryakaraïe«u prÃdhÃnyena saævyavahÃrÃtsvargamiva brahma prati prasthitatvÃdyajamÃno mana÷ kalpyate /
+
+i«Âaphalaæ yÃgaphalamevodÃno vÃyu÷ /
+udÃnanimittatvÃdi«ÂaphalaprÃpte÷ /
+katham?sa udÃno mana Ãkhyaæ yajamÃnaæ svapnav­ttirÆpÃdapi pracyÃvyÃharaha÷ su«uptikÃle svargamiva brahmÃk«araæ gamayati /
+ato yÃgaphalasthÃnÅya udÃna÷ //4//
+
+
+
+evaæ vidu«a÷ ÓrotrÃdyuparamakÃlÃdÃrabhya yÃvatsuptotthito bhavati tÃvatsarvayÃgaphalÃnubhava eva nÃvidu«ÃmivÃnarthÃyeti vidvattÃ stÆyate /
+na hi vidu«a eva ÓrotrÃdÅni svapante prÃïÃgnayo vÃ jÃgrati  jÃgratsvapnayormana÷ svÃtantryamanubhavadaharaha÷ su«uptaæ vÃ pratipadyate /
+samÃnaæ hi sarvaprÃïinÃæ paryÃyeïa jÃgratsvapnasu«uptigamanamato vidvattÃstutireva iyamupapadyate /
+yatp­«Âaæ katara e«a deva÷ svapnÃnpaÓyatÅti tadÃha -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 4.5
+
+#<atrai«a deva÷ svapne mahimÃnam anubhavati |
+yad d­«Âaæ i«Âam anupaÓyati |
+Órutaæ Órutam evÃrtham anuÓ­ïoti |
+deÓadigantaraiÓ ca pratyanubhÆtaæ puna÷ puna÷ pratyanubhavati |
+d­«Âaæ cÃd­«Âaæ ca Órutaæ cÃÓrutaæ cÃnubhÆtaæ cÃnanubhÆtaæ ca saccÃsacca sarvaæ paÓyati |
+sarva÷ paÓyati  || PrUp_4.5 ||>#
+
+
+
+____________________
+
+
+PrUpBh_4.5
+
+atroparate«u ÓrotrÃdi«u deharak«Ãyai jÃgratsu prÃïÃdivÃyu«u prÃksu«uptipratipatte÷ etasmin antarÃla e«a devor'karaÓmivat svÃtmani saæh­taÓrotrÃdikaraïa÷ svapne mahimÃnaæ vibhÆtiæ vi«ayavi«ayilak«aïamanekÃtmabhÃvagamanam anubhavati pratipadyate /
+
+nanu mahimÃnubhavane karaïaæ mano 'nubhavitustatkathaæ svÃtantryeïÃnubhavati ityucyate svatantro hi k«etraj¤a÷ /
+
+nai«a do«a÷ k«etraj¤asya svÃtantrya mana upÃdhik­tatvÃnna hi k«etraj¤a÷ paramÃrthata÷ svata÷ svapiti jÃgarti vÃ /
+mana upÃdhik­tameva tasya jÃgaraïaæ svapnaÓcetyuktaæ vÃjasaneyake"sa hi svapno bhÆtvÃ dhyÃyatÅva lelÃyatÅva" (b­.u.4 / 3 / 7) ityÃdi /
+tasmÃnmanaso vibhÆtyanubhave svÃtantryavacanaæ nyÃyyameva /
+
+mana upÃdhisahitatve svapnakÃle k«etraj¤asya svayaæ jyoti«Âvaæ bÃdhyeteti kecit tanna, ÓrutyarthÃparij¤Ãnak­tÃ bhrÃnti÷ te«Ãm /
+yasmÃtsvaya¤jyoti«ÂvÃdivyavahÃro 'pyÃmok«Ãnta÷ sarvo 'vidyÃvi«aya eva mana ÃdyupÃdhijanita÷ /
+"yatra vÃ anyadiva syÃttatrÃnyo 'nyatpaÓyet" (b­.u.4 / 3 / 32) "mÃtrÃsaæsargastvasya bhavati" "yatra tvasya sarvamÃtmaivÃbhÆttatkena kaæ paÓyet" (b­.u.2 / 4 / 14) ityÃdiÓrutibhya÷ /
+ato mandabrahmavidÃmeveyamÃÓaÇkÃ na tu ekÃtmavidÃm /
+
+nanvevaæ sati"atrÃyaæ puru«a÷ svaya¤jyoti÷" (b­.u.3 / 3 / 14) iti viÓe«aïamanarthakaæ bhavati /
+
+atrocyate atyalpamidamucyate"ya e«a'ntarh­daya ÃkÃÓastasmi¤Óete" (b­.u.2 / 1 / 17) ityantarh­dayaparicchede sutarÃæ svaya¤jyoti«Âvaæ bÃdhyeta /
+
+satyamevamayaæ do«o yadyapi syÃtsvapne kevalayÃ svaya¤jyoti«ÂvenÃrdhaæ tÃvadapanÅtaæ bhÃrasyeti cet /
+
+na;tatrÃpi"purÅtati Óete"(b­.u.2 / 1 / 19) iti Órute÷ purÅtannÃ¬ÅsambandhÃdatrÃpi puru«asya svaya¤jyoti«ÂvenÃrdhabhÃrÃpanayÃbhiprÃyo m­«aiva /
+
+kathaæ tarhi"atrÃyaæ puru«a÷ svaya¤jyoti÷"(b­.u.4 / 3 / 14) iti /
+
+anyaÓÃkhÃtvÃdanapek«Ã sÃ Órutiriti cet /
+
+na athaikatvasye«ÂatvÃdeko hyÃtmÃ sarvavedÃntÃnÃmartho vijij¤Ãpayi«ito bubhutsitaÓca /
+tasmÃdyuktÃ svapna Ãtmana÷ svaya¤jyoti«Âvopapattirvaktum /
+ÓruteryathÃrthatattvaprakÃÓakatvÃt /
+
+evaæ tarhi Ó­ïu Órutyarthaæ hitvÃ sarvamabhimÃnaæ na tvabhimÃnena var«aÓatenÃpi Órutyartho j¤Ãtuæ Óakyate sarvai÷ paï¬itammanyai÷ /
+yathÃ - h­dayÃkÃÓe purÅtati nÃ¬Å«u ca svapatastatsaæbandhÃbhÃvÃttato vivicya darÓayituæ Óakyata ityÃtmana÷ svaya¤jyoti«Âvaæ na bÃdhyate /
+evaæ manasyavidyÃkÃmakarmanimittodbhÆtavÃsanÃvati karmanimittÃ vÃsanÃvidyayÃnyadvastvantaramiva paÓyata÷ sarvakÃryakaraïebhya÷ praviviktasya dra«ÂurvÃsanÃbhyo d­ÓyarÆpÃbhyo 'nyatvena svaya¤jyoti«Âvaæ sudarpitenÃpi tÃrkikeïa na vÃrayituæ Óakyate /
+tasmÃt sÃdhÆktaæ manasi pralÅne«u karaïe«u apralÅne ca manasi manomaya÷ svapnÃnpaÓyatÅti /
+
+kathaæ mahimÃnamanubhavatÅtyucyate yanmitraæ putrÃdapi vÃ pÆrvaæ d­«Âaæ tadvÃsanÃvÃsita÷ putramitrÃdivÃsanÃsamudbhÆtaæ putraæ mitramiva vÃ vidyayÃ paÓyatÅtyevaæ manyate /
+tathÃ Órutamarthaæ tadvÃsanayÃnuÓ­ïotÅva /
+deÓadigantaraiÓca deÓÃntarairdigantaraiÓca pratyanubhÆtaæ puna÷ punastatpratyanubhavatÅvÃvidyayÃ tathÃ d­«Âaæ cÃsmi¤janmanyad­«Âaæ ca  janmÃntarad­«Âamityartha÷, atyantÃd­«Âe vÃsanÃnupapatte÷, evaæ Órutaæ cÃÓrutaæ cÃnubhÆtaæ cÃsmi¤janmani kevalena manasÃ ananubhÆtaæ ca manasaiva janmÃntare 'nubhÆtamityartha÷ /
+sacca paramÃrthodakÃdi, asacca marÅcyudakÃdi /
+kiæ bahunoktaæ sarvaæ paÓyati sarva÷ paÓyati sarvamanovÃsanopÃdhi÷ sannevaæ sarvakaraïÃtmÃ manodeva÷ svapnÃnpaÓyati //5//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 4.6
+
+#<sa yadÃ tejasÃbhibhÆto bhavati |
+atrai«a deva÷ svapnÃnna paÓyati |
+atha tadaitasmi¤ ÓarÅra etat sukhaæ bhavati  || PrUp_4.6 ||>#
+
+
+
+____________________
+
+
+PrUpBh_4.6
+
+sa yadÃ manorÆpo devo yasminkÃle saureïa pittÃkhyena tejasÃ nÃ¬ÅÓayena sarvatobhi'bhÆto bhavati tirask­tavÃsanÃdvÃro bhavati tathÃ saha karaïai÷ manaso raÓmayo h­dyupasaæh­tÃ bhavanti /
+yadÃ mano dÃrvagnivadaviÓe«avij¤ÃnarÆpeïa k­snaæ ÓarÅraæ vyÃpyavat«Âate tadÃ su«upto bhavati /
+atraitasminkÃla e«a mana Ãkhyo deva÷ svapnÃnna paÓyati darÓanadvÃrasya tejasÃ /
+atha tadaitasmi¤ÓarÅra etatsukhaæ bhavati yadvij¤Ãnaæ nirÃbÃdhamaviÓe«eïa ÓarÅravyÃpakaæ prasannaæ bhavatÅtyartha÷  // 6 // etasminkÃle 'vidyÃkÃmakarmanibandhanÃni kÃryakaraïÃni ÓÃntÃni bhavanti /
+te«u ÓÃnte«u ÃtmasvarÆpamupÃdhibhiranyathÃ vibhÃvyamÃnamadvayamekaæ Óivaæ ÓÃntaæ bhavatÅtyetÃmevÃvasthÃæ p­thivyÃdyavidyÃk­tamÃtrÃnupraveÓena darÓayituæ d­«ÂÃntamÃha -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 4.7
+
+#<sa yathÃ somya vayÃæsi vÃsov­k«aæ saæprati«Âhante |
+evaæ ha vai tat sarvaæ para Ãtmani saæprati«Âhate  || PrUp_4.7 ||>#
+
+
+
+____________________
+
+
+PrUpBh_4.7
+
+sa d­«ÂÃnto yathÃ yena prakÃreïa somya priyadarÓana vayÃæsi pak«iïo vÃsÃrthaæ v­k«aæ vÃsov­k«aæ prati saæprati«Âhante gacchanti /
+evaæ yathÃ d­«ÂÃnto ha vai tadvak«yamÃïaæ sarvaæ para Ãtmanyak«are saæprati«Âhate //7//
+
+
+
+kiæ tatsarvam -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 4.8
+
+#<p­thivÅ ca p­thivÅmÃtrÃ ca |
+ÃpaÓ cÃpomÃtrÃ ca |
+tejaÓ ca tejomÃtrÃ ca |
+vÃyuÓ ca vÃyumÃtrÃ ca |
+ÃkÃÓaÓ cÃkÃÓamÃtrÃ ca |
+cak«uÓ ca dra«Âavyaæ ca |
+Órotraæ ca Órotavyaæ ca |
+ghrÃïaæ ca ghrÃtavyaæ ca |
+rasaÓ ca rasayitavyaæ ca |
+tvak ca sparÓayitavyaæ ca |
+vÃk ca vaktavyaæ ca |
+hastau cÃdÃtavyaæ ca |
+upasthaÓ cÃnandayitavyaæ ca |
+pÃyuÓ ca visarjayitavyaæ ca |
+pÃdau ca gantavyaæ ca |
+manaÓ ca mantavyaæ ca |
+buddhiÓ ca boddhavyaæ ca |
+ahaÇkÃraÓ cÃhaÇkartavyaæ ca |
+cittaæ ca cetayitavyaæ ca |
+tejaÓ ca vidyotayitavyaæ ca |
+prÃïaÓ ca vidhÃrayitavyaæ ca  || PrUp_4.8 ||>#
+
+
+
+____________________
+
+
+PrUpBh_4.8
+
+p­thivÅ ca sthÆlÃ pa¤caguïÃ tatkÃraïÃ ca p­thivÅmÃtrÃ ca gandhatanmÃtrÃ, tathÃpaÓcÃpomÃtrÃ ca, tejaÓca tejomÃtrÃ ca, vÃyuÓca vÃyumÃtrÃ ca, ÃkÃÓaÓcÃkÃÓamÃtrÃ ca, sthÆlÃni ca sÆk«mÃïi ca bhÆtÃnÅtyartha÷, tathÃ cak«uÓcendriyaæ rÆpaæ ca dra«Âavyaæ ca, Órautraæ ca Órotavyaæ ca, ghrÃïaæ ca ghrÃtavyaæ ca, rasaÓca rasayitavyaæ ca, tvakca sparÓayitavyaæ ca, vÃkca vaktavyaæ ca, hastau cÃdÃtavyaæ ca, upasthaÓcÃnandayitavyaæ ca, pÃyuÓca visarjayitavyaæ ca, pÃdau ca gantavyaæ ca, buddhÅndriyÃïi karmendriyÃïi tathÃ coktÃni, manaÓca pÆrvoktaæ, mantavyaæ ca tadvi«aya÷, buddhiÓca niÓcayÃtmikÃ, boddhavyaæ ca tadvi«aya÷, ahaÇkÃraÓcÃbhimÃnalak«aïamanta÷karaïamahaÇkartavyaæ ca tadvi«aya÷, cittaæ ca cetanÃvadanta÷karaïam, cetayitavyaæ ca tadvi«aya÷, tejaÓca tvagindriyavyatirekeïa prakÃÓaviÓi«ÂÃ yÃ tvaktayÃ nirbhÃsyo vi«ayo vidyotayitavyam, prÃïaÓca sÆtraæ yadÃcak«ate tena vidhÃrayitavyaæ saægrathanÅyaæ sarvaæ hi kÃryakaraïajÃtaæ pÃrÃrthyena saæhataæ nÃmarÆpÃtmakametÃvadeva //8//
+
+
+
+atha÷ paraæ yadÃtmarÆpaæ jalasÆryakÃdivadbhokt­tvakart­tvena iha anupravi«Âam -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 4.9
+
+#<e«a hi dra«ÂÃ spra«ÂÃ ÓrotÃ ghrÃtÃ rasayitÃ mantÃ boddhÃ kartÃ vij¤ÃnÃtmÃ puru«a÷ |
+sa pare 'k«ara Ãtmani saæprati«Âhate  || PrUp_4.9 ||>#
+
+
+
+____________________
+
+
+PrUpBh_4.9
+
+e«a hi dra«ÂÃ spra«ÂÃ ÓrotÃ ghrÃtÃ rasayitÃ mantÃ boddhÃ kartÃ vij¤ÃnÃtmÃ vij¤Ãnaæ vij¤Ãyate 'neneti karaïabhÆtaæ buddhyÃdÅdaæ tu vijÃnÃtÅti vij¤Ãnaæ kart­kÃrarÆpaæ tadÃtmÃ tatsvabhÃvo vij¤Ãt­svabhÃva ityartha÷ /
+puru«a÷ kÃryakaraïasaæghÃtoktopÃdhipÆrïatvÃtpuru«a÷ /
+sa ca jalasÆryakÃdipratibimbasya sÆryÃdipraveÓavajjagadÃdhÃraÓe«e pare 'k«i Ãtmani saæprati«Âhate //9//
+
+
+
+tadekatvavida÷ phalamÃha -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 4.10
+
+#<param evÃk«araæ pratipadyate |
+sa yo ha vai tadacchÃyam aÓarÅram alohitaæ Óubhram ak«araæ vedayate yas tu somya |
+sa sarva÷ sarvo bhavati |
+tad e«a Óloka÷  || PrUp_4.10 ||>#
+
+
+
+____________________
+
+
+PrUpBh_4.10
+
+paramevÃk«araæ vak«yamÃïaviÓe«aæ pratipadyata ityetaducyate /
+sa yo ha vai tatsarvai«aïÃvinirmukto 'cchÃyaæ tamovarjitam, aÓarÅraæ nÃmarÆpasarvopÃdhiÓarÅravarjitam, alohitaæ lohitÃdisarvaguïavarjitam, yata evamata÷ Óubhraæ Óuddham, sarvaviÓe«aïarahitatvÃdak«aram, satyaæ puru«Ãkhyam, aprÃïam amanogocaram, Óivaæ ÓÃntaæ sabÃhyÃbhyantaramajaæ vedayate vijÃnÃti yastu sarvatyÃgÅ somya sa sarvaj¤o na tena viditaæ ki¤cit sambhavati /
+pÆrvamavidyayÃ sarvaj¤a ÃsÅtpunarvidyayÃvidyÃpanaye sarvo bhavati tadÃ /
+tattasminnartha e«a Óloko mantro bhavati uktÃrthasaægrÃhaka÷ //10//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 4.11
+
+#<vij¤ÃnÃtmÃ saha devaiÓ ca sarvai÷ prÃïÃ bhÆtÃni saæprati«Âhanti yatra  /
+tad ak«araæ vedayate yas tu somya sa sarvaj¤a÷ sarvam evÃviveÓeti  // PrUp_4.11 //>#
+
+
+
+____________________
+
+
+PrUpBh_4.11
+
+
+vij¤ÃnÃtmÃ saha devaiÓcÃgnyÃdibhi÷ prÃïaÓcak«urÃdayo bhÆtÃni p­thivyÃdÅni saæprati«Âhanti praviÓanti yatra yasminnak«are tadak«araæ vedayate yastu somya priyadarÓana sa sarvaj¤a÷ sarvameva ÃviveÓÃviÓatÅtyartha÷ //11//
+
+
+
+iti caturtha÷ praÓna÷ 
+
+
+
+=============================================================================
+
+
+
+pa¤cama÷ praÓna÷
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 5.1
+
+
+#<atha hainaæ Óaibya÷ satyakÃma÷ papraccha |
+sa yo ha vai tad bhagavan manu«ye«u prÃyaïÃntam oækÃram abhidhyÃyÅta |
+katamaæ vÃva sa tena lokaæ jayatÅti  || PrUp_5.1 ||>#
+
+
+
+____________________
+
+
+PrUpBh_5.1
+
+atha hainaæ Óaibya÷ satyakÃma÷ papraccha - athedÃnÅæ parÃparabrahmaprÃptisÃdhanatvenoÇkÃrasyopÃsanavidhitsayÃ praÓna Ãrabhyate -
+
+sa ya÷ kaÓcid vai bhagavan manu«ye«u manu«yÃïÃæ madhye tad adbhutamiva prÃyaïÃntaæ maraïÃntam, yÃvajjÅvamityetat, oÇkÃramabhidhyÃyÅtÃbhimukhyena cintayet, bÃhyavi«ayebhya upasaæh­takaraïa÷ samÃhitacitto bhaktyÃveÓitabrahmabhÃva oÇkÃre, ÃtmapratyayasantÃnÃvicchedo bhinnajÃtÅyapratyayÃntarÃkhilÅk­to nirvÃtasthadÅpaÓikhÃsamo 'bhidhyÃnÃÓabdÃrtha÷ /
+satyabrahmacaryÃhiæsÃparigrahatyÃgasaænyÃsaÓaucasanto«ÃmÃyÃvitvÃdyanekayamaniyamÃnug­hÅta÷ sa evaæ yÃvajjÅvavratadhÃraïa÷ katamaæ vÃva, aneke hi j¤ÃnakarmabhirjetavyÃ lokÃsti«Âhanti te«u tenoÇkÃrÃbhidhyÃnena katamaæ sa lokaæ jayati //1//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 5.2
+
+#<tasmai sa hovÃca |
+etad vai satyakÃma paraæ cÃparaæ ca brahma yad oækÃra÷ |
+tasmÃd vidvÃn etenaivÃyatanenaikataram anveti  || PrUp_5.2 ||>#
+
+
+
+____________________
+
+
+PrUpBh_5.2
+
+iti p­«Âavate tasmai sa hovÃca pippalÃda÷ etasmai satyakÃma /
+etadbrahma vai paraæ cÃparaæ ca brahma paraæ satyamak«araæ puru«Ãkhyamaparaæ ca prÃïÃkhyaæ prathamajaæ yattadoÇkÃra evoÇkÃrÃtmakamoÇkÃrapratÅkatvÃt /
+paraæ hi brahma ÓabdÃdyupalak«aïÃnarhaæ sarvadharmaviÓe«avarjitamato na ÓakyamatÅndriyagocaratvÃtkevalena manasÃvagÃhitum /
+oÇkÃre tu vi«ïvÃdipratimÃsthÃnÅye bhaktyÃveÓitabrahmabhÃve dhyÃyinÃæ tatprasÅdati ityetadavagamyate ÓÃstraprÃmÃïyÃt tathÃparaæ ca brahma /
+tasmÃtparaæ cÃparaæ ca brahma yadoÇkÃra ityupacaryate /
+tasmÃdevaæ vidvÃnetenaivÃtmaprÃptisÃdhanenaivoÇkÃrÃbhidhyÃnena ekataraæ paramaparaæ vÃnveti brahmÃnugacchati nedi«Âaæ hyÃlambanamoÇkÃro brahmaïa÷ //2//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 5.3
+
+#<sa yady ekamÃtram abhidhyÃyÅta |
+sa tenaiva saæveditas tÆrïam eva jagatyÃm abhisampadyate |
+tam ­co manu«yalokam upanayante |
+sa tatra tapasÃ brahmacaryeïa ÓraddhayÃ sampanno mahimÃnam anubhavati  || PrUp_5.3 ||>#
+
+
+
+____________________
+
+
+PrUpBh_5.3
+
+sa yadyapyoÇkÃrasya sakalamÃtrÃvibhÃgaj¤o na bhavati tathÃpi oÇkÃrÃbhidhyÃnaprabhÃvÃdviÓi«Âameva gatiæ gacchati;etadekadeÓaj¤ÃnavaiguïyatayoÇkÃraÓaraïa÷ karmaj¤Ãnobhayabhra«Âo na durgatiæ gacchati /
+kiæ tarhi?yadyapyevam oÇkÃramevaikamÃtrÃvibhÃgaj¤a eva kevalo 'bhidhyÃyÅtaikamÃtraæ sadÃ dhyÃyÅta sa tenaivaikamÃtra viÓi«ÂoÇkÃrÃbhidhyÃnenaiva saævedita÷ sambodhitastÆrïaæ k«iprameva jagatyÃæ p­thivyÃmabhisampadyate /
+
+kiæ manu«yalokam /
+anekÃni hi janmÃni jagatyÃæ sambhavanti /
+tatra taæ sÃdhakaæ jagatyÃæ manu«yalokamevarca upanayanta upanigamayanti /
+tena sa tatra manu«yajanmani dvijÃgrya÷ saæstapasÃ brahmacaryeïa ÓraddhayÃ ca saæpanno mahimÃnaæ vibhÆtimanubhavati na vÅtaÓraddho yathe«Âace«Âo bhavati yogabhra«Âa÷ kadÃcidapi na durgatiæ gacchati //3//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 5.4
+
+#<atha yadi dvimÃtreïa manasi saæpadyate |
+so 'ntarÅk«aæ yajurbhir unnÅyate somalokam |
+sa somaloke vibhÆtim anubhÆya punar Ãvartate  || PrUp_5.4 ||>#
+
+
+
+____________________
+
+
+PrUpBh_5.4
+
+atha punaryadi dvimÃtravibhÃgaj¤o dvimÃtreïa viÓi«ÂamoÇÃkÃram abhidhyÃyÅta svapnÃtmake manasi mananÅye yajurmaye somadaivatye saæpadyata ekÃgratayÃtbhÃvaæ gacchati sa evaæ sampanno m­to 'ntarÅk«am antarik«ÃdhÃraæ dvitÅyamÃtrÃrÆpaæ dvitÅyamÃtrarÆpairevayajurbhirunnÅyate somalokaæ saumyaæ janma prÃpayanti taæ yajÆæ«Åtyartha÷ sa tatra vibh­timanubhÆya somaloke manu«yalokaæ prati punarÃvartate //4//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 5.5
+
+#<ya÷ punar etaæ trimÃtreïomity etenaivÃk«areïa paraæ puru«am abhidhyÃyÅta |
+sa tejasi sÆrye saæpanna÷ |
+yathÃ pÃdodaras tvacÃ vinirmucyate |
+evaæ ha vai sa pÃpmanÃ vinirmukta÷ sa sÃmabhir unnÅyate brahmalokam |
+sa etasmÃj jÅvadhanÃt parÃparaæ puriÓayaæ puru«am Åk«ate tad etau Ólokau bhavata÷  || PrUp_5.5 ||>#
+
+
+
+____________________
+
+
+PrUpBh_5.5
+
+ya÷ punaretamoÇkÃraæ trimÃtreïa trimÃtrÃvi«ayavij¤ÃnaviÓi«Âena omityetenaivÃk«areïa paraæ sÆryÃntargataæ puru«aæ pratÅkenÃbhidhyÃyÅta tenÃbhidhyÃnena, pratÅkatvena hyÃlambanatvaæ prak­tam oÇkÃrasya paraæ cÃparaæ ca brahmetyabhedaÓruteroÇkÃramiti  ca dvitÅyÃnekaÓa÷ ÓrutÃ bÃdhyetÃnyathÃ /
+yadyapi t­tÅyÃbhidhyÃnatvena karaïatvamupapadyate tathÃpi prak­tÃnurodhÃt trimÃtraæ paraæ puru«amiti dvitÅyaiva pariïeyÃ"tyajedekaæ kulasyÃrthe"(mahÃ.u.37 / 17) iti nyÃyena /
+sa t­tÅyamÃtrÃrÆpastejasi sÆrye saæpanne bhavati dhyÃyamÃno m­to 'pi sÆryÃtsomalokÃdivanna punarÃvartate kintu sÆrye saæpannamÃtra eva /
+
+yathÃ pÃdodara÷ sarpastvacÃ vinirmucyate jÅrïatvagvinirmukta÷ sa punarnavo bhavati /
+evaæ ha vÃ e«a yathÃ d­«ÂÃnta÷ sa pÃpmanÃ sarpatvaksthÃnÅyenÃÓuddhirÆpeïa vinirmukta÷ sÃmabhist­tÅyamÃtrÃrÆpairÆrdhvamunnÅyate brahmalokaæ hiraïyagarbhasya brahmaïo lokaæ satyÃkhyam /
+sa hiraïyagarbha÷ sarve«Ãæ saæsÃriïÃæ jÅvÃnÃmÃtmabhÆta÷ /
+sa hyantarÃtmÃ liÇgarÆpeïa sarvabhÆtÃnÃm, tasminhi liÇgÃtmani saæhatÃ÷ sarve jÅvÃ÷ /
+tasmÃtma jÅvaghana÷ /
+sa vidvÃæstrimÃtroÇkÃrÃbhij¤a etasmÃjjÅvaghanÃddhiraïyagarbhÃtparÃtparaæ paramÃtmÃkhyaæ puru«amÅk«ate puriÓayaæ sarvaÓarÅrÃnupravi«Âaæ paÓyati dhyÃyamÃna÷ /
+tadetasminyathektÃrthaprakÃÓakau mantrau bhavata÷ //5//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 5.6
+
+#<tisro mÃtrÃ m­tyumatya÷ prayuktÃ anyonyasaktÃ anaviprayuktÃ÷  /
+kriyÃsu bÃhyÃbhyantaramadhyamÃsu samyakprayuktÃsu na kampate j¤a÷  // PrUp_5.6 //>#
+
+
+
+____________________
+
+
+PrUpBh_5.6
+
+tisrastrisaækhyakÃ akÃrokÃramakÃrÃkhyÃ oÇkÃrasya mÃtrÃ m­tyumatyo m­tyuryÃsÃæ vidyate tÃ m­tyumatyo m­tyugocarÃdanatikrÃntÃm­tyugocarÃ evetyartha÷ /
+tÃ Ãtmano dhyÃnakriyÃsu prayuktÃ÷, kiæ cÃnyonyasaktÃ itaretarasaæbaddhÃ÷, anaviprayuktÃ viÓe«eïaikaikavi«aya eva prayuktÃ viprayuktÃ÷, na tathÃ viprayuktÃ nÃviprayuktÃ anaviprayuktÃ÷ /
+
+kiæ tarhi, viÓe«eïaikasmindhyÃnakÃle tis­«u kriyÃsu bÃhyÃbhyantaramadhyamÃsu jÃgratsvapnasu«uptasthÃnapuru«ÃbhidhyÃnalak«aïÃsu yogakriyÃsu samyakprayuktÃsu samyagdhyÃnakÃle prayojitÃsu na kampate na calati yo yogÅ yathoktavibhÃgaj¤a oÇkÃrasyetyartha÷, na tasyaivaævidaÓcalanamupapadyate /
+yasmÃjjÃgratsvapnasu«uptapuru«Ã÷ saha sthÃnairmÃtrÃtrayarÆpeïa oÇkÃrÃtmarupeïa d­«ÂÃ÷ /
+sa hyevaæ vidvÃnsarvÃtmabhÆta oÇkÃramaya÷ kuto vÃ caletkasminvÃ //6//
+
+
+
+sarvÃrthasaægrahÃrtho dvitÅyo mantra÷ -
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 5.7
+
+#<­gbhir etaæ yajurbhir antarik«aæ sÃmabhir yat tat kavayo vedayante  /
+tam oækÃreïaivÃyatanenÃnveti vidvÃn yat tac chÃntam ajaram am­tam abhayaæ paraæ ceti  // PrUp_5.7 //>#
+
+
+
+____________________
+
+
+PrUpBh_5.7
+
+­gbhiretaæ lokaæ manu«yopalak«itam /
+yajurbhirantarik«aæ somÃdhi«Âhitam /
+sÃmabhiryattad brahmalokamiti t­tÅyaæ kavayo medhÃvino vidyÃvanta eva nÃvidvÃæso vedayante /
+taæ trividhaæ lokamoÇkÃreïa sÃdhanenÃparabrahmalak«aïamanvetyanugacchati vidvÃn /
+
+tenaivoÇkÃreïa yattatparaæ brahmÃk«araæ satyaæ puru«Ãkhyaæ ÓÃntaæ vimuktaæ jÃgratsvapnasu«upÃtyÃdi viÓe«asarvaprapa¤cavivarjitamata eva ajaraæ jarÃvarjitamam­taæ m­tyuvarjitamata eva yasmÃjjarÃvikriyÃrahitamato 'bhayam, yasmÃdevÃbhayaæ tasmÃtparaæ niratiÓayam, tadapyoÇkÃreïÃyatanena gamanasÃdhanenÃnvetÅtyartha÷ /
+itiÓabdo vÃkyaparisamÃptyartha÷ //7//
+
+
+
+iti pa¤cama÷ praÓna÷ 
+
+
+
+=============================================================================
+
+
+
+«a«Âha÷ praÓna÷
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 6.1
+
+
+#<atha hainaæ sukeÓÃ bhÃradvÃja÷ papraccha |
+bhagavan hiraïyanÃbha÷ kausalyo rÃjaputro mÃmupetyaitaæ praÓnamap­cchata |
+«o¬aÓakalaæ bhÃradvÃja puru«aæ vettha |
+tam ahaæ kumÃram abruvaæ nÃham imaæ veda |
+yady aham imam avedi«aæ kathaæ te nÃvak«yam iti |
+samÆlo vÃ e«a pariÓu«yati yo 'n­tam abhivadati |
+tasmÃn nÃrhÃmy an­taæ vaktuæ |
+sa tÆ«ïÅæ ratham Ãruhya pravavrÃja |
+taæ tvÃ p­cchÃmi kÃsau puru«a iti  || PrUp_6.1 ||>#
+
+____________________
+
+
+PrUpBh_6.1
+
+atha hainaæ sukeÓÃ bhÃradvÃja÷ papraccha /
+samastaæ jagatkÃryakÃraïalak«aïaæ saha vij¤ÃnÃtmanÃ parasminnak«are su«uptikÃle samprati«Âhata ityuktam /
+sÃmarthyÃtpralaye 'pi tasminnevÃk«are samprati«Âhate jagattata evotpadyata iti siddhaæ bhavati /
+na hyakÃraïe kÃryasya samprati«ÂhÃnamupapadyate /
+
+uktaæ ca Ãtmana e«a prÃïo jÃyate'iti /
+jagataÓca yanmÆlaæ tatparij¤ÃnÃtparaæ Óreya iti sarvopani«adÃæ niÓcitor'tha÷ /
+anantaraæ coktaæ 'sa sarvaj¤a÷ sarvo bhavati'iti vaktavyaæ ca kva tarhi tadak«araæ satyaæ puru«Ãkhyaæ vij¤eyamiti tadarthoyaæ praÓna Ãrabhyate /
+v­ttÃnvÃkhyÃnaæ ca vij¤Ãnasya durlabhatvakhyÃpanena tallabdhyarthaæ mumuk«aïÃæ yatnaviÓe«opÃdÃnÃrtham /
+
+he bhagavan hiraïyanÃbho nÃmata÷ kosalÃyÃæ bhava÷ kausalyo rÃjaputro jÃtita÷ k«atriyo mÃm upetyopagamyaitamucyamÃnaæ praÓnamap­cchata /
+«o¬aÓakalaæ «o¬aÓasaækhyÃkÃ÷ kalÃ avayavÃ iva ÃtmanyavidyÃdhyÃropitarÆpÃ yasmin puru«e so 'yaæ «o¬aÓakalastaæ «o¬aÓakalaæ he bhÃradvÃja puru«aæ vettha vijÃnÃsi /
+tamahaæ rÃjaputraæ kumÃraæ p­«ÂavantamabruvamuktavÃnasmi nÃhamimaæ veda yaæ tvaæ p­cchasÅti /
+
+evamuktavatyapi mayyaj¤ÃnamasaæbhÃvayantaæ tamaj¤Ãne kÃraïamavÃdi«am /
+yadi katha¤cidahamimaæ tvayÃ p­«Âaæ puru«amavedi«aæ viditavÃnasmi kathamatyantaÓi«yaguïavate 'rthine te tubhyaæ nÃvak«yaæ noktavÃnasmi na brÆyÃmityartha÷ /
+bhÆyo 'pyapratyayamivÃlak«ya pratyÃyayitumabravam /
+samÆla÷ saha mÆlena vÃ e«o 'nyathÃ santamÃtmÃnamanyathÃ kurvannan­tamayathÃbhÆtÃrthamabhivadati ya÷ sa pariÓu«yati Óo«amupaitÅhalokaparalokÃbhyÃæ vicchidyate vinaÓyati /
+yata evaæ jÃne tasmÃnnÃrhÃbhyahaman­taæ vaktuæ mÆ¬havat /
+
+sa rÃjaputra evaæ pratyÃyita tÆ«ïÅæ vrÅ¬ito rathamÃruhya pravavrÃja pragatavÃn yathÃgatameva /
+ato nyÃyata upasannÃya yogyÃya jÃnatÃ vidyÃ vaktavyaivÃn­taæ ca na vaktavyaæ sarvÃsvapyavasthÃsu ityetatsiddhaæ bhavati /
+taæ puru«aæ tvÃ tvÃæ p­cchÃmi mama h­di vij¤eyatvena Óalyamiva sthitaæ kvÃsau vartate vij¤eya÷ puru«a iti //1//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 6.2
+
+
+#<tasmai sa hovÃca |
+ihaivÃnta÷ ÓarÅre somya sa puru«o yasminn etÃ÷ «o¬aÓa kalÃ÷ prabhavantÅti  || PrUp_6.2 ||>#
+
+
+
+____________________
+
+
+PrUpBh_6.2
+
+tasmai sa hovÃca /
+ihaivÃnta÷ÓarÅre h­dayapuï¬arÅkÃkÃÓamadhye he somya sa puru«o na deÓÃntare vij¤eyo yasminnetÃ ucyamÃnÃ÷ «o¬aÓa kalÃ÷ prÃïÃdyÃ÷ prabhavanti utpadyanta iti «o¬aÓakalÃbhi÷ upÃdhibhÆtÃbhi÷ sakala iva ni«kala÷ puru«o lak«yate 'vidyayeti tadupÃdhikalÃdhyÃropÃpanayena vidyayÃ sa puru«a÷ kevalo darÓayitavya iti kalÃnÃæ tatprabhavatvamucyate /
+prÃïÃdÅnÃmatyantanirviÓe«e hyadvaye Óuddhe tattve na Óakyo 'dhyÃropamantareïa pratipÃdyapratipÃdanÃdivyavahÃra÷ kartumiti kalÃnÃæ prabhavasthityapyayÃ Ãropyante avidyÃvi«ayÃ÷ /
+caitanyÃvyatirekeïaiva hi kalÃ jÃyamÃnÃ÷ ti«Âhantya÷ pralÅyamÃnÃÓca sarvadÃ lak«yante /
+
+ata eva bhrÃntÃ÷ kecid agnisaæyogÃd gh­tamiva ghaÂÃdyÃkÃreïa caitanyam eva pratik«aïaæ jÃyate naÓyatÅti /
+tannirodhe ÓÆnyamiva sarvamityapare /
+ghaÂÃdivi«ayaæ caitanyaæ cetayiturnityasyÃtmano 'nityaæ jÃyate vinaÓyatÅtyapare /
+caitanyaæ bhÆtadharma iti laukayatikÃ÷ /
+anapÃyopajanadharmakacaitanyamÃtmÃ eva nÃmarÆpÃdyupÃdhidharmai÷ pratyavabhÃsate "satyaæ j¤Ãnamanantaæ brahma"(tai.u.2 / 1 / 1) "praj¤Ãnaæ brahma"(ai.u.5 / 3) "vij¤ÃnamÃnandaæ brahma"(b­.u.3 / 9 / 28) "vij¤Ãnaghana eva"(b­.u.2 / 4 / 12) ityÃdi Órutibhya÷ /
+svarÆpavyabhicÃri«u padÃrthe«u caitanyasyÃvyabhicÃrÃdyathÃ yathÃ yo ya÷ padÃrtho vij¤Ãyate tathÃ tathÃ j¤ÃyamÃnatvÃdeva tasya tasya caitanyasyÃvyabhicÃritvam /
+
+vastutattvaæ bhavati ki¤cit na j¤Ãyata iti cÃnupapannam rÆpaæ ca d­Óyate na cÃsti cak«uriti yathÃ /
+vyabhicarati tu j¤eyam na j¤Ãnaæ vyabhicarati kadÃcidapi j¤eyam, j¤eyÃbhÃve 'pi j¤eyÃntare bhÃvÃjj¤Ãnasya /
+na hi j¤Ãne 'sati j¤eyaæ nÃma bhavati kasyacit su«upte 'darÓanÃt /
+
+j¤ÃnasyÃpi su«upte 'bhÃvÃjj¤eyavajj¤ÃnasvarÆpasya vyabhicÃra iti cet /
+
+na j¤eyÃvabhÃsakasya j¤ÃnasyÃlokavajj¤eyÃbhivya¤jakatvÃtsvavyaÇgyÃbhÃva ÃlokÃbhÃvÃnupapattivatsu«upte vij¤ÃnabhÃvÃnupapatte÷ /
+na hyandhakÃre cak«u«Ã rÆpÃnupalabdhau cak«u«o 'bhÃva÷ Óakya÷ kalpayituæ vainÃÓikena /
+
+vainÃÓiko j¤eyÃbhÃve j¤ÃnÃbhÃvaæ kalpayatyeveti cet /
+
+yena tadabhÃvaæ kalpayettasyÃbhÃva÷ kena kalpyata iti vaktavyaæ vainÃÓikena, tadabhÃvasyÃpi j¤eyatvÃjj¤ÃnÃbhÃve tadanupapatte÷ /
+
+j¤Ãnasya j¤eyÃvyatiriktatvÃjj¤eyÃbhÃve j¤ÃnÃbhÃva iti cet /
+
+na abhÃvasyÃpi j¤eyatvÃbhyupagamÃdabhÃvo 'pi j¤eyobhyupagamyate vainÃÓikairnityaÓca tadavyatiriktaæ cejj¤Ãnaæ nityaæ kalpitaæ syÃttadabhÃvasya ca j¤ÃnÃtmakatvÃdabhÃvatvaæ vÃÇmÃtrameva na paramÃrthato 'bhÃvatvamanityatvaæ ca j¤Ãnasya /
+na ca nityasya j¤ÃnasyÃbhÃvanÃmamÃtrÃdhyÃrope ki¤cinnaÓchinnam /
+
+athÃbhÃvo j¤eyo 'pi san j¤Ãnavyatirikta iti cet /
+
+na tarhi j¤eyÃbhÃve j¤ÃnÃbhÃva÷ /
+
+j¤eyaæ j¤Ãnavyatiriktaæ na tu j¤Ãnaæ j¤eyavyatiriktamiti cet /
+
+na ÓabdamÃtratvÃdviÓe«Ãnupapatte÷ /
+j¤eyaj¤Ãnayorekatvaæ cedabhyupagamyate j¤eyaæ j¤Ãnavyatiriktaæ j¤Ãnaæ j¤eyavyatiriktaæ neti tu ÓabdamÃtrametadvahniragnivyatirikta÷ agnirna vahnivyatirikta iti yadvadabhyupagamyate /
+j¤eyavyatireke tu j¤Ãnasya j¤eyÃbhÃve j¤ÃnÃbhÃvÃnupapatti÷ siddhÃ /
+
+j¤eyÃbhÃve 'darÓanÃdabhÃvo j¤Ãnasyeti cet /
+
+na, su«upte j¤aptyabhyupagamÃt /
+vainÃÓikairabhyupagamyate hi su«upte 'pi j¤ÃnÃstitvam /
+
+tatrÃpi j¤eyatvamabhyupagamyate j¤Ãnasya svenaiveti cet /
+
+na, bhedasya siddhatvÃt /
+siddhaæ hyabhÃvavij¤eyavi«ayasya j¤Ãnasya abhÃvaj¤eyavyatirekÃjj¤eyaj¤Ãnayo÷ anyatvam /
+na hi tatsiddhaæ m­tamivojjÅvayituæ punaranyathÃ kartuæ Óakyate vainÃÓikaÓatairapi /
+
+j¤Ãnasya j¤eyatvameveti tadapyanyena tadapyanyeneti tvatpak«e 'tiprasaÇga iti cet /
+
+na, tadvibhÃgopapatte÷ sarvastha /
+yadÃ hi sarvaæ j¤eyaæ kasyacittadÃ tadvyatiriktaæ j¤Ãnaæ j¤Ãnameveti dvitÅyo vibhÃga evÃbhyupagamyate 'vainÃÓikerna t­tÅyastadvi«aya ityanavasthÃnupapatti÷ /
+
+j¤Ãnasya svenaivÃvij¤eyatve sarvaj¤atvahÃniriti cet /
+
+so 'pi do«astasyaivÃstu kiæ tannibarhaïenÃsmÃkam /
+anavasthÃdo«aÓca j¤Ãnasya j¤eyatvÃbhyupagamÃt /
+avaÓyaæ ca vainÃÓikÃnÃæ j¤Ãnaæ j¤eyam /
+svÃtmanÃ cÃvij¤eyatvenÃnavasthÃnivÃryÃ.
+
+samÃna evÃyaæ do«a iti cet /
+
+na, j¤Ãnasyaikatvopapatte÷ /
+sarvadeÓakÃlapuru«Ãdyavasthamekameva j¤Ãnaæ nÃmarÆpÃdyanekopÃdhibhedÃt savitrÃdijalÃdipratibimbavad anekadhÃvabhÃsata iti nÃsau do«a÷ /
+tathÃ cehedamucyate /
+
+nanu ÓruterihaivÃnta÷ÓarÅre paricchinna÷ kuï¬abadaravatpuru«a iti /
+
+na, prÃïÃdikalÃkÃraïatvÃt /
+na hi ÓarÅramÃtraparicchinnasya prÃïaÓraddhÃdÅnÃæ kalÃnÃæ kÃraïatvaæ pratipattuæ ÓaknuyÃt /
+kalÃkÃryatvÃcca ÓarÅrasya /
+na hi puru«akÃryÃïÃæ kalÃnÃæ kÃryaæ saccharÅraæ kÃraïakÃraïaæ svasya puru«aæ kuï¬abadaramivÃbhyantarÅkuryÃt /
+
+bÅjav­k«ÃdivatsyÃditi cet /
+yathÃ bÅjakÃryaæ v­k«astatkÃryaæ ca phalaæ svakÃraïakÃraïaæ bÅjamabhyantarÅkarotyÃmrÃdi tadvat puru«amabhyantarÅkuryÃccharÅraæ svakÃraïakÃraïamapÅti cet /
+
+na, anyatvÃtsÃvayavatvÃcca /
+d­«ÂÃnte kÃraïabÅjÃt v­k«aphalasaæv­tÃnyanyÃnyeva bÅjÃni dÃr«ÂÃntike tu svakÃraïakÃraïabhÆta÷ sa eva puru«a÷ ÓarÅre 'bhyantarÅk­ta÷ ÓrÆyate /
+bÅjav­k«ÃdÅnÃæ sÃvayavatvÃcca syÃdÃdhÃrÃdheyatvaæ niravayavaÓca puru«a÷ sÃvayavÃÓca kalÃ÷ ÓarÅraæ ca /
+etenÃkÃÓasyÃpi ÓarÅrÃdhÃratvamanupapannaæ kimutÃkÃÓakÃraïasya purusya tasmÃdasamÃno d­«ÂÃnta÷ /
+
+kiæ d­«ÂÃntena vacanÃtsyÃditi cet /
+
+na, vacanasyÃkÃrakatvÃt /
+na hi vacanaæ vastuno 'nyathÃkaraïe vyÃpriyate /
+kiæ tarhi?yathÃbhÆtÃrthÃvadyotane /
+tasmÃdanta÷ÓarÅra ityetadvacanamaï¬asyÃntarvyometivacca dra«Âavyam /
+
+upalabdhinimittatvÃcca, darÓanaÓravaïamananavij¤ÃnÃdiliÇgai÷ anta÷ ÓarÅre paricchinna iva hyupalabhyate puru«a upalabhyate cÃta ucyate 'nta÷ ÓarÅre somya sa puru«a iti /
+na punarÃkÃÓakÃraïa÷ sankuï¬abadaravaccharÅraparicchinna iti manasÃpÅcchati vaktuæ mÆ¬ho 'pi kimuta pramÃïabhÆtÃ Óruti÷ //2//
+
+
+
+yasminnetÃ÷ «o¬aÓa kalÃ÷ prabhavantÅtyuktaæ puru«aviÓe«aïÃrthaæ kalÃnÃæ prabhava÷ sa cÃnyÃrthe 'pi Óruta÷ kena krameïa syÃdityata idamucyate - cetanapÆrvikÃ ca s­«Âirityevamarthaæ ca /
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 6.3  
+
+
+#<sa Åk«Ãæ cakre |
+kasminn aham utkrÃnta utkrÃnto bhavi«yÃmi kasmin vÃ prati«Âhite prati«ÂhÃsyÃmÅti  || PrUp_6.3 ||>#
+
+
+
+____________________
+
+
+PrUpBh_6.3
+
+sa puru«a÷ «o¬aÓakala÷ p­«Âo yo bhÃradvÃjena Åk«Ãntakra Åk«yaæ darÓanaæ cakre k­tavÃnityartha÷ s­«ÂiphalakramÃdivi«ayam /
+katham?ityucyate kasminakart­viÓe«e dehÃdutkrÃnta utkrÃnte bhavi«yÃmi
+
+ahamevaæ kasminvÃ ÓarÅre prati«Âhite ahaæ prati«ÂhÃsyÃmi prati«ÂhitasyÃmityartha÷ /
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 6.4
+
+
+#<sa prÃïamas­jata |
+prÃïÃc chadvÃæ khaæ vÃyur jyotir Ãpa÷ p­thivÅndriyaæ mano 'nnam annÃd vÅryaæ tapo mantrÃ÷ karma lokÃ loke«u nÃma ca  || PrUp_6.4 ||>#
+
+
+____________________
+
+
+PrUpBh_6.4
+
+nanvÃtmÃkartÃ pradhÃnaæ kart­, ata÷ puru«ÃrthaprayojanamurarÅk­tya pradhÃnaæ pravartate mahadÃdyÃkÃreïa /
+tatredamanupapannaæ puru«asya svÃtantryeïa Åk«ÃpÆrvakaæ kart­tvavacam, sattvÃdiguïasÃmye pradhÃne pramÃïopapanne s­«Âikartari satÅÓcarecchÃnuvarti«u vÃ paramÃïu«u satsvÃtmano 'pyekatvena kart­tve sÃdhanÃbhÃvÃdÃtmana Ãtmanyanarthakart­tvÃnupapatteÓca /
+na hi cetanÃvÃnbuddhipÆrvakÃryÃtmano 'nartha kuryÃt /
+tasmÃtpuru«Ãrthena prayojanena Åk«ÃpÆrvakamiva niyatakrameïa pravartamÃne 'cetane pradhÃne cetanavadupacÃre 'yaæ sa Åk«Ã¤cakre ityÃdi÷ /
+yathÃ rÃj¤a÷ sarvÃrthakÃriïi bh­tye rÃjeti tadvat /
+
+na, Ãtmano bhokt­tvavatkart­tvopapatte÷ /
+yathÃ sÃækhyasya cinmÃtrasyÃpÃraïÃmino 'pyÃtmano bhokt­tvaæ tadvadvedavÃdinÃmÅk«ÃdipÆrvakaæ jagatkart­tvamupapannaæ ÓrutiprÃmÃïyÃt /
+
+tattvÃntarapariïÃma Ãtmano 'nityatvÃÓuddhatvÃnekatvanimitto na cinmÃtrasvarÆpavikriyÃ /
+ata÷ puru«asya svÃtmanyeva bhokt­tvaæ cinmÃtrasvarÆpavikriyÃ na do«Ãya bhavatÃæ punarvedavÃdinÃæ s­«Âikart­tve tattvÃntarapariïÃma evetyÃtmano 'nityatvÃdisarvado«aprasaÇga iti cet /
+
+na, ekasyÃpyÃtmano 'vidyÃyÃæ vi«ayanÃmarÆpopÃdhyanupÃdhik­taviÓe«obhyupagamÃdavidyÃk­tanÃmarÆpopÃdhik­to hi viÓe«o 'bhyupagamyata Ãtmano bandhamok«ÃdiÓÃstrak­tasaævyavahÃrÃya paramÃrthato 'nupÃdhik­taæ ca tattvamekamevÃdvitÅyamupÃdeyaæ sarvatÃkiÇkabuddhyanavagÃhyamabhayaæ Óivam i«yate na tatra kart­tvaæ bhokt­tvaæ vÃ kriyÃkÃrakaphalaæ ca syÃd advaitatvÃtsarvabhÃvÃnÃm.
+
+sÃækhyÃstvavidyÃdhyÃropitam eva puru«e kart­tvaæ kriyÃkÃrakaæ phalaæ ceti kalpayitvÃgamabÃhyatvÃtpunastatastrasyanta÷ paramÃrthata eva bhokt­tvaæ puru«asyecchanti tattvÃntaraæ ca pradhÃnaæ puru«ÃtparamÃrthavastubhÆtameva kalpayanto 'nyatÃrkikak­tabuddhivi«ayÃ÷ santo vihanyante /
+
+tathetare tÃrkikÃ÷ sÃækhyai÷ /
+ityevaæ parasparaviruddhÃrthakalpanÃt Ãmi«Ãrthina iva prÃïino 'nyonyaviruddhamÃnÃrthadarÓitvÃt paramÃrthatattvÃddÆram evÃpak­«yante /
+atastanmatamanÃd­tya vedÃntÃrthatattvamekatvadarÓanaæ prati Ãdaravanto mumuk«ava÷ syuriti tÃrkikamatado«apradarÓanaæ ki¤ciducyata asmÃbhirna tu tÃrkikavattÃtparyeïa /
+
+tadaitadatroktam -
+
+'vivadatsveva nik«ipya virodhodbhavakÃraïam /
+tai÷ saærak«itasadbuddhi÷ sukhaæ nirvÃti vedavitÂa //
+iti /
+
+kiæ ca bhokt­tvakart­tvayorvikriyayorviÓe«Ãnupapatti÷ /
+kÃ nÃmÃsau kart­tvÃjjÃtyantarabhÆtÃ bhokt­tvaviÓi«ÂÃ vikriyÃ yato bhoktaiva puru«a÷ kalpyate na kartÃ pradhÃnaæ tu kartreva na bhoktriti /
+
+nanÆktaæ puru«aÓcinmÃtra eva sa ca svÃtmastho vikriyate bhu¤jÃno na tattvÃntarapariïÃmena pradhÃnaæ tu tattvÃntarapariïÃmena pradhÃnaæ tu tattvÃntarapariïÃmena vikriyate 'to 'nekamaÓuddhamacetanaæ cetyÃdidharmavattadviparÅta÷ puru«a÷ /
+
+nÃsau viÓe«o vÃÇmÃtratvÃt /
+prÃgbhogotpatte÷ kevalacinmÃtrasya puru«asya bhokt­tvaæ nÃma viÓe«o  bhogotpattikÃle cejjÃyate niv­tte ca bhoge punastadviÓe«ÃdapetaÓcinmÃtra eva bhavatÅti cenmahadÃdyÃkÃreïa ca pariïamya pradhÃnaæ tato 'petya puna÷ pradhÃnaæ tato 'petya puna÷ pradhÃnaæ svarÆpeïÃvati«Âhata ityasyÃæ kalpanÃyÃæ na kaÓcidviÓe«a iti vÃÇmÃtreïa pradhÃnapuru«ayorviÓi«ÂavikriyÃ kalpyate /
+
+atha bhogakÃle 'pi cinmÃtra eva prÃgvatpuru«a iti cet /
+
+na tarhi paramÃrthato bhoga÷ puru«asya /
+
+bhogakÃle cinmÃtrasya vikriyÃ paramÃrthaiva tena bhoga÷ puru«asyeti cet /
+
+na, pradhÃnasyÃpi bhogakÃle vikriyÃvattvÃdbhokt­tvaprasaÇga÷ /
+cinmÃtrasyaiva vikriyÃ bhokt­tvam iti cedau«ïyÃdyasÃdhÃraïadharmavatÃmagnyÃdÅnÃmabhokt­tve hetvanupapatti÷ /
+
+pradhÃnapuru«asyordvayoryugapadbhokt­tvamiti cet /
+
+na, pradhÃnasya parÃrthyÃnupapatte÷ /
+na hi bhokt­rtrordvayoritaretaraguïapradhÃnabhÃva upapadyate prakÃÓayorivetaretaraprakÃÓane /
+
+bhogadharmavati sattvÃÇgini cetasi puru«asya caitanyapratibimbodayo 'vikriyasya puru«asya bhokt­tvamiti cet /
+
+na, puru«asya viÓe«ÃbhÃve bhokt­tvakalpanÃnarthakyÃt /
+bhogarÆpaÓcedanartha÷ puru«asya nÃsti sadÃ nirviÓe«atvÃtpuru«asya kasya apanayÃrthaæ mok«asÃdhanaæ ÓÃstraæ praïÅyate /
+avidyÃdhyÃropitÃnarthÃpanayanÃya ÓÃstrapraïayanamiti cetparamÃrthata÷ puru«o bhoktaiva na kartÃ pradhÃnaæ kartreva na bhokt­paramÃrthasadvastvantaraæ puru«ÃccetÅyaæ kalpanÃgamabÃhyÃvyarthÃ nirhetukÃ ceti nÃdartavyÃ mumuk«ubhi÷ /
+
+ekatve 'pi ÓÃstrapraïÃyanÃdyÃnarthakyamiti cet /
+
+na abhÃvÃt /
+satsu hi ÓÃstrapraïetrÃdi«u tatphalÃrthi«u ca ÓÃstrasya praïayanamanarthakaæ sÃrthakaæ veti vikalpanÃ syÃt /
+na hyÃtmaikatve ÓÃstrapraïetrÃdayastato bhinnÃ÷ santi tadabhÃva evaæ vikalphanaivÃnupapannÃ /
+
+abhyupagata Ãtmaikatve pramÃïÃrthaÓcÃbhyupagato bhavatÃ yadÃtmaikatvamabhyupagacchatÃ, tadabhyupagame ca vikalpÃnupapattimÃha ÓÃstram"yatra tvasya sarvamÃtmaivÃbhÆttatkena kaæ paÓyet"(b­.u.2 / 4 / 14)  ityÃdi /
+ÓÃstrapraïayanÃdyupapattiæ cÃhÃnyatra paramÃrthavastusvarÆpÃdavidyÃvi«aye /
+"yatra hi dvaitamiva bhavati"(b­.u.2 / 4 / 14) ityÃdi vistarato vÃjasaneyake /
+
+atra ca vibhakte vidyÃvidye parÃpare ityÃdÃveva ÓÃstrasya /
+ato na tÃrkikavÃdabhaÂapraveÓo vedÃntarÃjapramÃïabÃhugupta ihÃtmaikatvavi«aya iti /
+
+etenÃvidyÃk­tanÃmarÆpÃdyupÃdhik­tÃnekaÓaktisÃdhanaÓrutabhedavattvÃdbrÃhmaïa÷ s­«ÂyÃdikart­tve sÃdhanÃdyabhÃvo do«a÷ pratyukto veditavya÷ parairukta ÃtmÃnarthakart­tvÃdido«aÓca /
+
+yastu d­«ÂÃnto rÃj¤a÷ sarvÃrthakÃriïi kartaryupacÃrÃdrÃjÃ karteti so 'trÃnubhapapanna÷"sa Åk«Ã¤cakre"iti ÓrutermukhyÃrthabÃdhanÃtpramÃïabhÆtÃyÃ÷ /
+tatra hi gauïÅ kalpanÃ Óabdasya yatra mukhyÃrtho na sambhavati /
+iha tvacetanasya muktabaddhapuru«aviÓe«Ãpek«ayÃ kart­karmadeÓakÃlanimittÃpek«ayÃ ca bandhamok«ÃdiphalÃrthÃ niyatÃ puru«aæ prati prav­ttirnopapadyate /
+yathoktasarvaj¤eÓvarakart­tvapak«e tÆpapannÃ ÅÓvareïeva sarvÃdhikÃri prÃïa÷ puru«eïa s­jyate /
+katham sa puru«a uktaprakÃreïek«itvÃ sarvaprÃïaæ hiraïyagarbhÃkhyaæ sarvaprÃïikaraïÃdhÃram ÃtmÃnam as­jata s­«ÂavÃn /
+ata÷ prÃïÃcchraddhÃæ sarvaprÃïinÃæ Óubhakarmaprav­ttihetubhÆtÃm /
+tata÷ karmaphalopabhogasÃdhanÃdhi«ÂhÃnÃni kÃraïabhÆtÃni mahÃbhÆtÃnyas­jata /
+
+svaæ Óabdaguïam, vÃyuæ svena sparÓena kÃraïaguïena ca viÓi«Âaæ triguïaæ ÓabdasparÓÃbhyÃm /
+tathÃpo rasena guïena sÃdhÃraïena pÆrvaguïÃnupraveÓena ca caturguïÃ÷ /
+tathÃ gandhaguïena pÆrvaguïÃnupraveÓena ca caturguïÃ÷ /
+tathÃ gandhaguïena pÆrvaguïÃnupraveÓena ca pa¤caguïÃ p­thivÅ /
+tathÃ taireva bhÆtairÃrabdhamindriyaæ dviprakÃraæ buddhyarthaæ karmÃrthaæ ca daÓasaækhyÃkaæ tasya ceÓvaramanta÷sthaæ saæÓayasaÇkalpalak«aïaæ mana÷ /
+
+evaæ prÃïinÃæ kÃryaæ karaïaæ ta s­«ÂvÃ tatsthityarthaæ vrÅhiyavÃdilak«aïamannam /
+tataÓcÃnnÃdadyamÃnÃdvÅryaæ sÃmarthyaæ balaæ sarvakarmaprav­ttisÃdhanam /
+tadvÅryavatÃæ ca prÃïinÃæ tapo viÓuddhisÃdhanaæ saÇkÅryamÃïÃnÃm /
+
+mantrastapoviÓuddhÃntarbahi÷karaïebhya÷ karmasÃdhanabhÆtÃ­gyaju÷ sÃmÃtharvÃÇgirasa÷ tata÷ /
+karmÃgnihotrÃdilak«aïam /
+tapo lokÃ÷ karmaïÃæ phalam /
+te«u ca s­«ÂÃnÃæ prÃïinÃæ nÃma ca devadatto yaj¤adatta ityÃdi /
+
+evam etÃ÷ kalÃ÷ prÃïinÃmavidyÃdido«abÅjÃpek«ayÃ s­«ÂÃ÷ taimirikad­«Âis­«ÂÃ iva dvicandramaÓakamak«ikÃdyÃ÷ svapnad­ks­«ÂÃ iva ca sarvapadÃrtha÷ punastasminneva puru«e pralÅyante hitvÃ nÃmarÆpÃdi vibhÃgam //4//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 6.5
+
+
+katham -
+
+#<sa yathemÃ nadya÷ syandamÃnÃ÷ samudrÃyaïÃ÷ samudraæ prÃpyÃstaæ gacchanti |
+bhidyete tÃsÃæ nÃmarÆpe |
+samudra ity evaæ procyate |
+evam evÃsya paridra«Âur imÃ÷ «o¬aÓa kalÃ÷ puru«ÃyaïÃ÷ puru«aæ prÃpyÃstaæ gacchanti |
+bhidyete cÃsÃæ nÃmarÆpe |
+puru«a ity evaæ procyate |
+sa e«o 'kalo 'm­to bhavati tade«a Óloka÷  || PrUp_6.5 ||>#
+
+____________________
+
+
+PrUpBh_6.5
+
+
+sa d­«ÂÃnto yathÃ loka imÃ nadya÷ syandamÃnÃ÷ sravantya÷ samudrÃyaïÃ÷ samudro 'yanaæ gati÷ Ãtmabhovo yÃsÃæ tÃ÷ samudrÃyaïÃ÷ samudraæ prÃpyopagamyÃstaæ nÃmarÆpatiraskÃraæ gacchanti /
+tÃsÃæ cÃstaæ gatÃnÃæ bhidyete vinaÓyato nÃmarÆpe gaÇgÃyamunetyÃdilak«aïe /
+tadabhede samudra ityevaæ procyate tadvastÆdakalak«aïam /
+
+evaæ yathÃyaæ d­«ÂÃnta÷, uktalak«aïasya prak­tasyÃsya puru«asya paridra«Âu÷ parisamantÃd dra«ÂurdarÓanasya kartu÷ svarÆpabhÆtasya yathÃrka÷ svÃtmaprakÃÓasya kartÃ sarvata÷ tadvadimÃ÷ «o¬aÓa kalÃ÷ prÃïÃdyÃ uktÃ÷ kalÃ÷ puru«ÃyaïÃ nadÅnÃmiva samudra÷ puru«o 'yanamÃtmabhÃvagamanaæ yÃsÃæ kalÃnÃæ tÃ÷ puru«ÃyaïÃ÷ puru«aæ prÃpya puru«ÃtmabhÃvamupagamya tathaivÃstaæ gacchanti /
+bhidyete cÃsÃæ nÃmarÆpe kalÃnÃæ prÃïÃdyÃkhyÃ rÆpaæ ca yathÃsvam /
+bhede ca nÃmarÆpayoryadana«Âaæ tattvaæ puru«a ityevaæ procyate brahmavidbhi÷ /
+
+ya evaæ vidvÃnguruïÃ pradarÓitakalÃpralayamÃrga÷ sa e«a vidyayÃ pravilÃpitÃsvavidyÃkÃmakarmajanitÃsu prÃïÃdikalÃsvakala÷ avidyÃk­takalÃnimitto hi m­tyu÷ tadapagame 'kalatvÃdevÃm­to bhavati tadetasminnartha e«a Óloka÷ //5//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 6.6
+
+#<arÃ iva rathanÃbhau kalÃ yasmin prati«ÂhitÃ÷  /
+taæ vedyaæ puru«aæ veda yathÃ mÃ vo m­tyu÷ parivyathÃ iti  // PrUp_6.6 //>#
+
+
+
+____________________
+
+
+PrUpBh_6.6
+
+arÃ rathacakraparivÃrÃ iva rathanÃbhau rathacakrasya nÃbhau yathÃ praveÓitÃstadÃÓrayÃ bhavanti yathÃ tathetyartha÷, kalÃ÷ prÃïÃdyÃ yasminpuru«e prati«ÂhitÃ utpattisthitilayakÃle«u taæ puru«aæ kalÃnÃmÃtmabhÆtaæ vedyaæ vedanÅyaæ pÆrïatvÃt puru«aæ puri ÓayanÃdvÃ veda jÃnÅyÃt, yathÃ he Ói«yÃ mÃ vo yu«mÃnm­tyu÷ parivyathÃ mÃ parivyathayatu /
+na cedvij¤Ãyeta puru«o m­tyunimittÃæ vyathÃmÃpannÃ du÷khina eva yÆyaæ stha /
+atastanmÃ bhudyu«mÃkamityabhiprÃya÷ //6//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 6.7
+
+#<tÃn hovÃca |
+etÃvad evÃham etat paraæ brahma veda |
+nÃta÷ param astÅti  || PrUp_6.7 ||>#
+
+
+
+____________________
+
+
+PrUpBh_6.7
+
+tÃnevamanuÓi«ya Ói«yÃæstÃn hovÃca pippalÃda÷ kilaitÃvadeva vedyaæ paraæ brahma veda vijÃnÃmyahametat /
+nÃto 'smÃtparamastiprak­«Âataraæ veditavyamityevamuktavÃ¤Ói«yÃïÃmaviditaÓe«ÃstitvÃÓaÇkÃniv­ttaye k­tÃrthabuddhijananÃrthaæ ca //7//
+
+
+
+_______________________________________________________________________
+
+
+
+START PrUp 6.8
+
+#<te tam arcayantas tvaæ hi na÷ pitÃ yo 'smÃkam avidyÃyÃ÷ paraæ pÃraæ tÃrayasÅti nama÷ |
+parama­«ibhyo nama÷ parama­«ibhya÷  || PrUp_6.8 ||>#
+
+
+
+____________________
+
+
+PrUpBh_6.8
+
+tataste Ói«yÃ guruïÃnuÓi«ÂÃstaæ guruæ k­tÃrthÃ÷ santo vidyÃni«krayamapaÓyanta÷ kiæ k­tavanta ityucyate - arcayanta÷ pÆjayanta÷ pÃdayo÷ pu«pÃ¤jaliprakiraïena praïipÃtena ca ÓirasÃ /
+kimÆcirityÃha - tvaæ hi no 'smÃkaæ pitÃ brahmaÓarÅrasya vidyayÃ janayit­tvÃnnityasyÃjarÃmarasyÃbhayasya yastvameva asmÃkavidyÃyÃ viparÅtaj¤ÃnÃt janmajarÃmaraïarogadu÷khÃdigrÃhÃdapÃrÃdavidyÃmahodadhervidyÃplavena paramapunarÃv­ttilak«aïaæ mok«Ãkhyaæ mahodadheriva pÃraæ tÃrayasyasmÃnityata÷ pit­tvaæ tavÃsmÃn pratyapapannamitarasmÃt /
+itaro 'pi hi pitÃ ÓarÅramÃtraæ janayati /
+tathÃpi sa prapÆjyatamo loke kimu vaktavyamÃtyantikÃbhayadÃturityabhiprÃya÷ /
+nama÷ parama ­«ibhyo brahmavidyÃsampradÃyakart­bhyo nama÷ parama­«ibhya iti dvirvacanamÃdarÃrtham //8//
+
+
+
+iti «a«Âha÷ praÓna÷ /
+
+
+iti praÓnopani«atsamÃptÃ //
+
+
+
