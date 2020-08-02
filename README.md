@@ -1,6 +1,17 @@
 ## Intro
 A repository containing important raw texts (some non-proofread). Processed (eg: transliterated) texts may be placed in other repos/ sites.
 
+### Conventions
+"raw" in raw_etexts means "mostly unencoded" text files (and not binary files like doc or pdf or rtf), whose contents may be searched by (say) grep. This means that we prefer files whose formatting (if any) does not interfere much with search.
+
+Allowed formats in the order of decreasing preference: md (possibly with frontmatter), txt, itx, tex, html.
+
+#### Preferred naming conventions:
+
+- OCR files will be named: xyz_ocr.md or xyz_ocr.txt. 
+- When they are being proofread, they will be renamed: xyz_proofreading_.md or txt.
+- When fully proofread, they will be: xyz.md or xyz.txt
+
 ### Motivation
 - Websites with critical digitized texts have disappeared in the past, to the frustration of users.
 - It is easier to search multiple files encoded in plain text. 
