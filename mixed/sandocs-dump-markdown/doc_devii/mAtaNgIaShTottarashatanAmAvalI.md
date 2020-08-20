@@ -1,9 +1,9 @@
 +++
 "Text title" = "mAtangIaShTottarashatanAmAvalI"
-"File name" = "mAtangIaShTottarashatanAmAvalI.itx"
-itxtitle = "mAtaNgIaShTottarashatanAmAvalI"
+"File name" = "mAtangIaShTottarashatanAmAvalI.inf"
+itxtitle = "mAtangIaShTottarashatanAmAvalI"
 engtitle = "mAtangIaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI"
+Category = "aShTottarashatanAmAvalI"
 Location = "doc_devii"
 Sublocation = "devii"
 SubDeity = "dashamahAvidyA"
@@ -18,11 +18,12 @@ Acknowledge-Permission = "Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, p
 "Latest update" = "September 13, 2015"
 "Send corrections to" = "Sanskrit@cheerful.com"
 "Site access" = "https://sanskritdocuments.org"
-title = "मातण्गीअष्टोत्तरशतनामावली"
+title = "मातङ्गीअष्टोत्तरशतनामावली"
 
 +++
-  
- श्रीमातङ्गीअष्टोत्तरशतनामावली   
+   
+॥ श्रीमातङ्गीअष्टोत्तरशतनामावली ॥   
+॥ श्रीमातङ्गीअष्टोत्तरशतनामावली ॥  
 श्रीमहामत्तमातङ्गिन्यै नमः ।  
 श्रीसिद्धिरूपायै नमः ।  
 श्रीयोगिन्यै नमः ।  
