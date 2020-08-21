@@ -136,4 +136,3 @@ title = "मातङ्गीअष्टोत्तरशतनामाव�
   
 Encoded and proofread by  
 Anand senartcon at gmail.com  
-  
