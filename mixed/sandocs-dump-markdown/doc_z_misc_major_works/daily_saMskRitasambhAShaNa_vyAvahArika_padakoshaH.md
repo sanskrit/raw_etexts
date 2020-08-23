@@ -247,7 +247,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  किमपि उक्तवान् वा ?  = Did you say anything ?  
  कुतः आनीतवान् ?  = Where  did you bring it from ?  
  अन्यत् कार्यं किमपि नास्ति ।  = Don't have any other work.  
- मम वचनं श‍ृणोतु  ।  = Please listen to me.  
+ मम वचनं शृणोतु  ।  = Please listen to me.  
  एतत् सत्यं किल ?  = It is true, isn't it ?  
  तद् अहं अपि जानामि ।  = I know it myself.  
  तावद् आवश्यकं न ।  = It is not needed so badly.  
@@ -281,7 +281,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  एवमेव आगतवान् ।  = Just came to call on you.  
  विना कारणं किमर्थं गन्तव्यम् ?  = Why go there unnecessarily ?  
  भवतः वचनं सत्यम् ।  = You are right.  
- मम वचनं कः श‍ृणोति ?  = Who listens to me ?  
+ मम वचनं कः शृणोति ?  = Who listens to me ?  
  तदा तद् न स्फुरितम् ।  = It did not flash me then.  
  किमर्थं तावती चिन्ता ?  = Why so much botheration ?  
  भवतः किं कष्टं अस्ति ?  = Tell me, what your trouble is ?  
@@ -428,7 +428,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  भवान् स्वकार्यं पश्यतु ।  = You mind your business.  
  शीघ्रं प्रत्यागच्छामि ।  = Ill be back in a short while.  
  आवश्यकं चेत् श्वः आनयामि ।  = If you want it, I shall bring it tomorow.  
-  मास्तु  इत्युक्तेऽपि सः न श‍ृणोति ।  = I said no,but he doesn't listen to me.  
+  मास्तु  इत्युक्तेऽपि सः न शृणोति ।  = I said no,but he doesn't listen to me.  
   
  ६. प्रयाणम्   = Journey  
   

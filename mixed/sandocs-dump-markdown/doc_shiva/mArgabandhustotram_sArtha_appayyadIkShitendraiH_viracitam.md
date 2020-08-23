@@ -1671,9 +1671,9 @@ creation एषं मध्ये इलावृत्ं
 प्रविष्टः । BH(5-16-6). The abodes of the  
 gods like Brahma are situated on the peaks of the mountain. Lalita  
 is said to reside on one of the peaks of Meru and so gets the name   
-सुमेरुश‍ृङ्गमध्यस्था। सुमेरोर्हेमद्रेर्मध्यश‍ृङ्गे तिष्ठतीति  
+सुमेरुशृङ्गमध्यस्था। सुमेरोर्हेमद्रेर्मध्यशृङ्गे तिष्ठतीति  
 तत्स्था ।  
-शोभने मेरुमध्यश‍ृङ्गे इति वा LS(55).  The sun  
+शोभने मेरुमध्यशृङ्गे इति वा LS(55).  The sun  
 and the moon are said to go round the mountain. Our poets mention this  
 fact often. Kalidasa refers to the sun going round Meru in his Raghuvamsa  
 (7-24). He says that Aja and Indumati going round the sacred fire during  

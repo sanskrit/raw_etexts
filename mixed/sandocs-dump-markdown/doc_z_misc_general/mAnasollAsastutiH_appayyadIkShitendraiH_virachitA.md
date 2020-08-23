@@ -61,7 +61,7 @@ Some examples are given here.
 5) The saint Kulasekhara also addresses the organs in his  
    Mukundamala. One of his popular poems is given here.  
    जिह्वे कीर्तय केशवं मुररिपुं चेतो भज श्रीधरं  
-   पाणिद्वन्द्व समर्चयाच्युतकथा-श्रोत्रद्वय त्वं श‍ृणु ।  
+   पाणिद्वन्द्व समर्चयाच्युतकथा-श्रोत्रद्वय त्वं शृणु ।  
    कृष्णं लोकय लोचनद्वय हरे-र्गच्छाङ्घ्रियुग्मालयं  
    जिघ्र घ्राण मुकुन्द-पाद-तुलसीं मूर्धन् नमाधोक्षजम् ॥   
   

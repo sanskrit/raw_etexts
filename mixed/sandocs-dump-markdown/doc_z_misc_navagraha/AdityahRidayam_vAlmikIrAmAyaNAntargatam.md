@@ -82,7 +82,7 @@ Rama, exhausted and about to face Ravana ready for a fresh battle was lost
 deep in contemplation. The all knowing sage agastya who had joined the  
 gods to witness the battle spoke to Rama thus .. 1,2  
   
-राम राम महाबाहो श‍ृणु गुह्यं सनातनम् ।  
+राम राम महाबाहो शृणु गुह्यं सनातनम् ।  
 येन सर्वानरीन्वत्स समरे विजयिष्यसि ॥ ३॥  
   
   
@@ -359,7 +359,7 @@ Gods, looked at Rama and exclaimed 'Hurry up' with great delight. 31
 दैवतैश्च समागम्य द्रष्टुमभ्यागतो रणम् ।  
 उपागम्याब्रवीद्राममगस्त्यो भगवानृषिः ॥ २॥  
   
-राम राम महाबाहो श‍ृणु गुह्यं सनातनम् ।  
+राम राम महाबाहो शृणु गुह्यं सनातनम् ।  
 येन सर्वानरीन्वत्स समरे विजयिष्यसि ॥ ३॥  
   
 आदित्यहृदयं पुण्यं सर्वशत्रुविनाशनम् ।  

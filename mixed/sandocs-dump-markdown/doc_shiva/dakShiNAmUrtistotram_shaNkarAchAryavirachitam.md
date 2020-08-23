@@ -193,9 +193,9 @@ exists is Brahman' - to that DakShinamurti, who is embodied
 in the auspicious Guru, I offer my profound salutations.  
   
 सर्वात्मत्वमिति स्फुटीकृतमिदं यस्मादमुष्मिन् स्तवे  
-तेनास्य श्रवणात्तदर्थमननाद्‍ध्यानाच्च सङ्कीर्तनात् ।  
+तेनास्य श्रवणात्तदर्थमननाद्ध्यानाच्च सङ्कीर्तनात् ।  
 सर्वात्मत्वमहाविभूतिसहितं स्यादीश्वरत्वं स्वतः  var  ततः  
-सिद्‍ध्येत्तत्पुनरष्टधा परिणतं चैश्वर्यमव्याहतम् ॥ १०॥    
+सिद्ध्येत्तत्पुनरष्टधा परिणतं चैश्वर्यमव्याहतम् ॥ १०॥    
 The verse points out to the all pervasiveness of the indwelling  
 Spirit, Atman . By the recital, contemplation and meditation  
 of this hymn, the disciple attains the state of oneness with  
@@ -272,9 +272,9 @@ Dakshinamurti Stotra
 तस्मै श्रीगुरुमूर्तये नम इदं श्रीदक्षिणामूर्तये ॥ ९॥  
   
 सर्वात्मत्वमिति स्फुटीकृतमिदं यस्मादमुष्मिन् स्तवे  
-तेनास्य श्रवणात्तदर्थमननाद्‍ध्यानाच्च सङ्कीर्तनात् ।  
+तेनास्य श्रवणात्तदर्थमननाद्ध्यानाच्च सङ्कीर्तनात् ।  
 सर्वात्मत्वमहाविभूतिसहितं स्यादीश्वरत्वं स्वतः  var  ततः  
-सिद्‍ध्येत्तत्पुनरष्टधा परिणतं चैश्वर्यमव्याहतम् ॥ १०॥  
+सिद्ध्येत्तत्पुनरष्टधा परिणतं चैश्वर्यमव्याहतम् ॥ १०॥  
   
 वटविटपिसमीपे भूमिभागे निषण्णं  
 सकलमुनिजनानां ज्ञानदातारमारात् ।  
@@ -557,7 +557,7 @@ ShrI Ganesan (deepa at tiac.net) for providing the meanings.
 स्यात्  = Verb.) May there be;  
 ईश्वरत्वं  = he quality of the Lord himself;  
 स्वतः  = automatically;  
-सिद्‍ध्येत्  = (verb) May it materialise (for the worshipper);  
+सिद्ध्येत्  = (verb) May it materialise (for the worshipper);  
 पुनः  = again;  
 अष्टधा  = eight-fold;  
 परिणतं  = transformed into;  

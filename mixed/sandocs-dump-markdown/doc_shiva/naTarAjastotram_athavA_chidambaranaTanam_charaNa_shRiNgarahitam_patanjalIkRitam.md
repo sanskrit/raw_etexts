@@ -19,7 +19,7 @@ title = "नटराजस्तोत्रम् अथवा चिदम्
 
 +++
   
- नटराजस्तोत्रम् , चरण श‍ृङ्ग रहित (पतञ्जलि)   
+ नटराजस्तोत्रम् , चरण शृङ्ग रहित (पतञ्जलि)   
 चिदम्बरनटननं च  
   
 This hymn is by Sage Patanjali, the author and compiler of the famous  
@@ -47,7 +47,7 @@ the book `caranasrngarahitam natarajastotram.' This book also contains a sanskri
 commentary on this stotra by Chandrakala . The book was published by Bharati  
 Samskrta Vidya Niketanam in 1992-  
   
-                 ॥ अथ-चरणश‍ृङ्गरहित-नटराजस्तोत्रम् ॥  
+                 ॥ अथ-चरणशृङ्गरहित-नटराजस्तोत्रम् ॥  
   
 सदञ्चित मुदञ्चित निकुञ्चित पदं झलझलञ्चलित मञ्जु कटकम्  
 पतञ्जलि दृगञ्जन मनञ्जन मचञ्चलपदं जनन भञ्जन करम् ।  
@@ -103,7 +103,7 @@ The great destroyer has moon, fire and sun as his eyes.
   
 अनन्तनवरत्नविलसत्कटककिङ्किणिझलं झलझलं झलरवं  
 मुकुन्दविधि हस्तगतमद्दल लयध्वनिधिमिद्धिमित नर्तन पदम् ।  
-शकुन्तरथ बर्हिरथ नन्दिमुख श‍ृङ्गिरिटिभृङ्गिगणसङ्घनिकटम्  
+शकुन्तरथ बर्हिरथ नन्दिमुख शृङ्गिरिटिभृङ्गिगणसङ्घनिकटम्  
 सनन्दसनक प्रमुख वन्दित पदं परचिदम्बर नटं हृदि भज ॥ ४॥  
   
   
@@ -170,7 +170,7 @@ of quailities, not comparable to anyone else . He has given boons to sage,
 Sananda . Having a face which is delightful like the moon, he has attained  
 the blissful state.  
   
-अजं क्षितिरथं भुजगपुङ्गवगुणं कनक श‍ृङ्गि धनुषं करलसत्  
+अजं क्षितिरथं भुजगपुङ्गवगुणं कनक शृङ्गि धनुषं करलसत्  
 कुरङ्ग पृथु टङ्क परशुं रुचिर कुङ्कुम रुचिं डमरुकं च दधतमं ।  
 मुकुन्द विशिखं नमदवन्ध्य फलदं निगम वृन्द तुरगं निरुपमं  
 सचण्डिकममुं झटिति संहृतपुरं परचिदम्बर नटं हृदि भज ॥ ८॥  
@@ -202,7 +202,7 @@ He is praised by Patanjali and is like a parrot in the cage of the syllable
 Omkara.  
   
 इति स्तवममुं भुजगपुङ्गव कृतं प्रतिदिनं पठति यः कृतमुखः  
-सदः प्रभुपद द्वितयदर्शनपदं सुललितं चरण श‍ृङ्ग रहितम् ।  
+सदः प्रभुपद द्वितयदर्शनपदं सुललितं चरण शृङ्ग रहितम् ।  
 सरःप्रभव सम्भव हरित्पति हरिप्रमुख दिव्यनुत शङ्करपदं  
 स गच्छति परं न तु जनुर्जलनिधिं परमदुःखजनकं दुरितदम् ॥ १०॥  
   
@@ -217,7 +217,7 @@ by the divine beings headed by Brahmadeva, Lords of the Quarters and Vishnu.
 One who recites this hymn,quickly reaches the highest goal and does not steep  
 into the ocean of worldly existence which causes great sorrow and sinfulness.  
   
-          ॥ इति श्रीपतञ्जलिमुनिप्रणीतं चरणश‍ृङ्गरहित नटराजस्तोत्रं सम्पूर्णम् ॥  
+          ॥ इति श्रीपतञ्जलिमुनिप्रणीतं चरणशृङ्गरहित नटराजस्तोत्रं सम्पूर्णम् ॥  
   
   
 Encoded by P . P .  Narayanaswami at   swami at math.mun.ca  

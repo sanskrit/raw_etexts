@@ -1056,7 +1056,7 @@ End of 1.46
  च  = also  
  एनं  = this soul  
  अन्यः  = another  
- श‍ृणोति  = hears of  
+ शृणोति  = hears of  
  श्रुत्वा  = having heard  
  अपि  = even  
  एनं  = this soul  
@@ -1195,7 +1195,7 @@ End of 1.46
  योगे  = in work without fruitive result  
  तु  = but  
  इमं  = this  
- श‍ृणु  = just hear  
+ शृणु  = just hear  
  बुद्ध्या  = by intelligence  
  युक्तः  = dovetailed  
  यया  = by which  
@@ -2844,7 +2844,7 @@ End of 4.42
  मन्येत  = thinks  
  तत्त्ववित्  = one who knows the truth  
  पश्यन्  = seeing  
- श‍ृण्वन्  = hearing  
+ शृण्वन्  = hearing  
  स्पृशन्  = touching  
  जिघ्रन्  = smelling  
  अश्नन्  = eating  
@@ -3772,7 +3772,7 @@ End of 6.47
  यथा  = how  
  ज्ञास्यसि  = you can know  
  तत्  = that  
- श‍ृणु  = try to hear.  
+ शृणु  = try to hear.  
  ज्ञानं  = phenomenal knowledge  
  ते  = unto you  
  अहं  = I  
@@ -5048,7 +5048,7 @@ End of 9.34
  भूयः  = again  
  एव  = certainly  
  महाबाहो  = O mighty-armed  
- श‍ृणु  = just hear  
+ शृणु  = just hear  
  मे  = My  
  परमं  = supreme  
  वचः  = instruction  
@@ -5283,7 +5283,7 @@ End of 9.34
  कथय  = describe  
  तृप्तिः  = satisfaction  
  हि  = certainly  
- श‍ृण्वतः  = hearing  
+ शृण्वतः  = hearing  
  नास्ति  = there is not  
  मे  = my  
  अमृतं  = nectar.  
@@ -6863,7 +6863,7 @@ End of 12.20
  तत्  = that  
  समासेन  = in summary  
  मे  = from Me  
- श‍ृणु  = understand.  
+ शृणु  = understand.  
  ऋषिभिः  = by the wise sages  
  बहुधा  = in many ways  
  गीतं  = described  
@@ -8005,7 +8005,7 @@ End of 15.20
  आसुरं  = the demoniac  
  पार्थ  = O son of Pritha  
  मे  = from Me  
- श‍ृणु  = just hear.  
+ शृणु  = just hear.  
  प्रवृत्तिं  = acting properly  
  च  = also  
  निवृत्तिं  = not acting improperly  
@@ -8277,7 +8277,7 @@ End of 16.24
  च  = and  
  इति  = thus  
  तां  = that  
- श‍ृणु  = hear from Me.  
+ शृणु  = hear from Me.  
  सत्त्वानुरूपा  = according to the existence  
  सर्वस्य  = of everyone  
  श्रद्धा  = faith  
@@ -8345,7 +8345,7 @@ End of 16.24
  तेषां  = of them  
  भेदं  = the differences  
  इमं  = this  
- श‍ृणु  = hear.  
+ शृणु  = hear.  
  आयुः  = duration of life  
  सत्त्व  = existence  
  बल  = strength  
@@ -8679,7 +8679,7 @@ End of 17.28
  च  = and  
  अपरे  = others.  
  निश्चयं  = certainty  
- श‍ृणु  = hear  
+ शृणु  = hear  
  मे  = from Me  
  तत्र  = therein  
  त्यागे  = in the matter of renunciation  
@@ -8906,7 +8906,7 @@ End of 17.28
  प्रोच्यते  = are said  
  गुणसंख्याने  = in terms of different modes  
  यथावत्  = as they are  
- श‍ृणु  = hear  
+ शृणु  = hear  
  तानि  = all of them  
  अपि  = also.  
  सर्वभूतेषु  = in all living entities  
@@ -9022,7 +9022,7 @@ End of 17.28
  एव  = certainly  
  गुणतः  = by the modes of material nature  
  त्रिविधं  = of three kinds  
- श‍ृणु  = just hear  
+ शृणु  = just hear  
  प्रोच्यमानं  = as described by Me  
  अशेषेण  = in detail  
  पृथक्त्वेन  = differently  
@@ -9119,7 +9119,7 @@ End of 17.28
  तु  = but  
  इदानीं  = now  
  त्रिविधं  = of three kinds  
- श‍ृणु  = hear  
+ शृणु  = hear  
  मे  = from Me  
  भरतर्षभ  = O best amongst the Bharatas  
  अभ्यासात्  = by practice  
@@ -9253,7 +9253,7 @@ End of 17.28
  यथा  = as  
  विन्दति  = attains  
  तत्  = that  
- श‍ृणु  = listen.  
+ शृणु  = listen.  
  यतः  = from whom  
  प्रवृत्तिः  = the emanation  
  भूतानां  = of all living entities  
@@ -9470,7 +9470,7 @@ End of 17.28
  कुरु  = perform.  
  सर्वगुह्यतमं  = the most confidential of all  
  भूयः  = again  
- श‍ृणु  = just hear  
+ शृणु  = just hear  
  मे  = from Me  
  परमं  = the supreme  
  वचः  = instruction  
@@ -9575,7 +9575,7 @@ End of 17.28
  श्रद्धावान्  = faithful  
  अनसूयः  = not envious  
  च  = and  
- श‍ृणुयात्  = does hear  
+ शृणुयात्  = does hear  
  अपि  = certainly  
  यः  = who  
  नरः  = a man  

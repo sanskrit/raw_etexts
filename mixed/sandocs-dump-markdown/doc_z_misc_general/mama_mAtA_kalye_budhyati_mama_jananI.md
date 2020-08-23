@@ -94,7 +94,7 @@ is that of adoration and tender love!
 Let us hear it again through her world and  
 her words - kalye budhyati mama janani!  
 बालिकायाः शब्देभ्यः तदधिकृत्य  
-श‍ृणुयाम- कल्ये बुध्यति मम जननी ॥  
+शृणुयाम- कल्ये बुध्यति मम जननी ॥  
   
 संस्कृतभारती  
 CREDITS  

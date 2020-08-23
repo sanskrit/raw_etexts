@@ -411,7 +411,7 @@ your feet, Sri Mangalamba. 14
   
 प्रादुर्भवत्-तरणिबिम्ब-शतारुणौ ते  
 पर्याप्त-शीतकिरणायुत-कोमलौ च ।  
-श‍ृङ्गारसार-परिवाहमयौ च मातः  
+शृङ्गारसार-परिवाहमयौ च मातः  
 श्रीमङ्गलाम्ब चरणौ शरणं प्रपद्ये ॥ १५॥   
 Mangalamba, your feet, red like the rising Sun, are gentle  
 with thousands of very cool rays. They carry the essence of  

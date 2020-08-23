@@ -169,7 +169,7 @@ Additional information: Indra is the great bird (Suparna -garuda) without any ab
 3.  Indra is the creator of the universe, has universal form, universal life, widely extended in the entire universe with universal activity.  He is the universal deity, universal thought (divine mind) and stands above any reproach.  
   
   
-              त्रिषुजातस्तिग्मश‍ृङ्गो देवो ब्रध्नोऽरुषश्चरन् ।  
+              त्रिषुजातस्तिग्मशृङ्गो देवो ब्रध्नोऽरुषश्चरन् ।  
               रुचानः परमो विद्वान् अरुचो रोचयन्नजः ॥ ४॥  
 4.Indra Deva who knows all the three worlds is perceived as sharp - horned bull on the move (always moving).  Most powerful, great Indra is shining with wisdom, he is self luminous and gives light (knowledge) to light - less (place/people).  
   
@@ -410,7 +410,7 @@ Shatakratu is a synonym of Indra in Puranas which says that he has performed one
 46.  Indra has hundredfold growth/progress (uuti) with glorious deeds attained in many ways, opulent, has luminous energy, purest, bears the title as (source of) inspiration (shrutyam).  He is unbending (firm).  
   
   
-              शूरः शिप्री सहस्रोतिः शुभ्रः श‍ृङ्क्षङ्गवृषोनपात् ।  
+              शूरः शिप्री सहस्रोतिः शुभ्रः शृङ्क्षङ्गवृषोनपात् ।  
               शासः शाकी श्रवस्कामः शवसावानहंसनः ॥ ४७॥  
 47.  Valiant Indra has strong chin (mighty).  Son of sage Shringavrisha (fashioned by sage with special hymns), has abundant growth.  He is chaste, abides by his law, likes the inspired knowledge.  He is confident of himself.  
   

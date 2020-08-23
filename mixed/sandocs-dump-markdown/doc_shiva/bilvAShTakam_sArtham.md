@@ -269,7 +269,7 @@ listening to the holy books like Gita, Ramayanam, Bhagavatam that
 describe His endearing qualities, the mind gets attracted to Him. The  
 mind gets saturated with the thought of the Lord and there is no room  
 for any other thought. It is said in Bhagavata (2-8-4 and 5)\  
-      श‍ृण्वतः श्रद्धया नित्यं गृणतश्च स्वचेष्टितम् ।\  
+      शृण्वतः श्रद्धया नित्यं गृणतश्च स्वचेष्टितम् ।\  
       कालेन नातिदीर्घेण भगवान् विशते हृदि ॥ ४॥\  
       प्रविष्टः कर्णरन्ध्रेण स्वानां भावसरोरुहम् ।\  
       धुनोति शमलं कृष्णः सलिलस्य यथा शरत् ॥ ५॥ \  

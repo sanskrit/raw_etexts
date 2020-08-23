@@ -93,7 +93,7 @@ Shloka 3 Ganesha
    ॐ गणानां त्वा गणपतिं हवामहे  
    कविं कवीनामुपमश्रवस्तमम् ।  
    ज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत  
-   आ नः श‍ृण्वन्नूतिभिः सीदसादनम् ॥ ॥   
+   आ नः शृण्वन्नूतिभिः सीदसादनम् ॥ ॥   
   
  Meaning 3  
 We call on Thee, Lord of the hosts, the poet of poets, the most famous of  
@@ -117,7 +117,7 @@ sacrifice)..
 ब्रह्मणस्पत=  ?? ;  
 आ =  ?? ;  
 नः =  ?? ;  
-श‍ृण्वन्नूतिभिः =  ?? ;  
+शृण्वन्नूतिभिः =  ?? ;  
 सीदसादनम् =  ?? ;    
 Shloka 4 Ganesha  
   
@@ -4532,7 +4532,7 @@ s, Sarasvathi, Sun, Venus and Jupiter;
 Shloka 150 Benediction  
   
     
-   ॐ भद्रं कर्णेभिः श‍ृणुयाम देवा ।  
+   ॐ भद्रं कर्णेभिः शृणुयाम देवा ।  
    भद्रं पश्येमाक्षभिर्यजत्राः ।  
    स्थिरैरङ्गैस्तुष्टुवांसस्तनूभिः ।  
    व्यशेम देवहितं यदायुः ॥ ॥   
@@ -4549,7 +4549,7 @@ span may be increased..
 u and the consonant `m'; also written as `OM'; refers to Brahman;  
 भद्रं = well-being; welfare;  
 कर्णेभिः = through the ears;  
-श‍ृणुयाम = May we hear;  
+शृणुयाम = May we hear;  
 देवाः = gods;  
 भद्रं = well-being; welfare;  
 पश्येमाक्षभिर्यजत्राः = May we the maintainers of the sacred fire see with our eyes;  
@@ -4804,7 +4804,7 @@ Shloka 157 Benediction
     
    ॐ तच्चक्षुर्देवहितं पुरस्ताच्छ्कमुच्चरत् ।  
    पश्येम शरदः शतं जीवेम शरदः शतं  
-   श‍ृणुयाम शरदः शतं प्रब्रवाम शरदः शतं  
+   शृणुयाम शरदः शतं प्रब्रवाम शरदः शतं  
    अदीनाः स्यां शरदः शतं भूयश्च शरदः शतात् ॥ ॥   
   
  Meaning 157  
@@ -4826,7 +4826,7 @@ these for hundred years..
 जीवेम = let us live;  
 शरदः = autumn seasons;;  
 शतं = cardinal number 100;  
-श‍ृणुयाम = May we hear;  
+शृणुयाम = May we hear;  
 शरदः = autumn seasons;;  
 शतं = cardinal number 100;  
 प्रब्रवाम = May we be talking;  

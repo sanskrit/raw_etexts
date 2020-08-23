@@ -1031,7 +1031,7 @@ title = "सत्यसाईसहस्रनामावलिः १"
 ॐ श्री सत्य साईं सत्यसाईंबाबाय नमः ।  
   
 इति श्रीसत्यसाईं सहस्रनामावलिः समाप्ता ।  
-cहप्तेर्‍  
+cहप्तेर्  
   
 1. Salutations to Shri Sai, the Holy teacher  
 2. Salutations to Shri Sai, the first alphabet  

@@ -228,7 +228,7 @@ She who sits in the lap of shiva, who is the conqueror of desire
 She who bestows all that is auspicious  
 ५४. स्वाधीनवल्लभा -  
 She who keeps Her husband always under Her control  
-५५. सुमेरुमध्यश‍ृङ्गस्था -  
+५५. सुमेरुमध्यशृङ्गस्था -  
 She who sits on the middle peak of Mount Sumeru  
 ५६. श्रीमन्नगरनायिका -  
 She who is the Mistress of the most auspicious (or prosperous)  
@@ -925,7 +925,7 @@ She who is the very life of kAmeshvara, Her consort
 She who knows all of our actions as they occur  
 ३७५. कामपूजिता -  
 She who is worshipped by kAma  
-३७६. श‍ृङ्गाररससम्पूर्णा -  
+३७६. शृङ्गाररससम्पूर्णा -  
 She who is filled with the essence of Love  
 ३७७. जया -  
 She who is victorious always and everywhere  
@@ -1887,7 +1887,7 @@ She who lords over the five prANas and the senses
 She who is the giver of life  
 ८३३. पञ्चाशत्पीठरूपिणी -  
 She who has fifty centers of worship  
-८३४. विश‍ृङ्खला -  
+८३४. विशृङ्खला -  
 She who is unfettered, free in every way  
 ८३५. विविक्तस्था -  
 She who abides in secluded places  

@@ -143,7 +143,7 @@ including the spiritual wisdom.  He had vouchsafed in Gita (10-10).
 He is omniscient God and is worshipped by all sages and wise men.  
 The following vedic prayer says this.  
      ॐ गणानां त्वा गणपति ँ हवामहे कविं कवीनामुपमश्रवस्तमम् ।  
-     ज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत आ नः श‍ृण्वन्नूतिभिस्सीद सादनम् ॥  
+     ज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत आ नः शृण्वन्नूतिभिस्सीद सादनम् ॥  
   
           ॐ श्री महगणपतये नमः ।  
 The above mantra salutes Lord Ganapathi and describes Him as the chief  

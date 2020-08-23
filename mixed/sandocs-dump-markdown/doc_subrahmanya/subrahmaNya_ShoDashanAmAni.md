@@ -53,7 +53,7 @@ are popular. Their recitation with devotion is guaranteed to confer
 immense benefits to the person. The Vishnu sahasranamam has the following  
 verse towards the end. This says that the one who listens to it or recites it  
 daily will not encounter misfortunes in this life or the life hereafter.  
-    य इदं श‍ृणुयान्नित्यं यश्चापि परिकीर्तयेत् ।  
+    य इदं शृणुयान्नित्यं यश्चापि परिकीर्तयेत् ।  
     नाशुभं प्राप्नुयात् किञ्चित् सोऽमुत्रेह च मानवः ॥  
 Similarly the Kaivalyopanishad says that one who recites Shri Rudram is  
 absolved from great sins.  

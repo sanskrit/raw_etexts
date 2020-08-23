@@ -104,7 +104,7 @@ Embracing the Jiva in totality means granting him Moksha, Liberation.
   
 ॥ ॐ श्री सुब्रह्मण्याय नमः ॥  
   
-cहप्तेर्‍  
+cहप्तेर्  
 ॐ श्रीगणेशाय नमः ॥  
   
 अम्भोधिमध्ये रविकोट्यनेकप्रभां ददात्याश्रितजीवमध्ये ।  

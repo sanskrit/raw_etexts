@@ -53,7 +53,7 @@ with the sons of Diti (also demon), One who destroys those with evil
 intoxication of pride, daughter of the ocean ..   
   
 अयि जगदंब मदंब कदंबवनप्रियवासिनि हासरते  
-शिखरिशिरोमणितुङ्गहिमालयश‍ृंगनिजालयमध्यगते ।  
+शिखरिशिरोमणितुङ्गहिमालयशृंगनिजालयमध्यगते ।  
 मधुमधुरे मधुकैटभगंजिनि कैटभभंजिनि रासरते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ३॥  
   
@@ -116,7 +116,7 @@ One who delights in the company of auspicious Shiva, Shumbha,
 Nishumbha, and the spirits who were fed during the great battle..   
   
 धनुरनुसंगरणक्षणसंगपरिस्फुरदंगनटत्कटके  
-कनकपिशंगपृषत्कनिषंगरसद्भटश‍ृंगहतावटुके ।  
+कनकपिशंगपृषत्कनिषंगरसद्भटशृंगहतावटुके ।  
 कृतचतुरङ्गबलक्षितिरङ्गघटद्बहुरङ्गरटद्बटुके  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ८॥  
   

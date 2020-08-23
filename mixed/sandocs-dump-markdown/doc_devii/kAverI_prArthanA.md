@@ -152,7 +152,7 @@ sin.मर्षणम्  = cleaning or wiping off. So, this is a prayer to Var
 to make us free from sins. In this sukta we come across the following prayer  
 addressed to some famous rivers.    
      इमं मे गङ्गे यमुने सरस्वति शुतुद्रि स्तोमग्ं सचता परुष्णिया ।  
-     असिक्निया मरुद्धृधे वितस्तया ऽऽजीकीये श‍ृणुह्या सुषोमया ॥  
+     असिक्निया मरुद्धृधे वितस्तया ऽऽजीकीये शृणुह्या सुषोमया ॥  
 The rivers mentioned in this mantra are, Ganga, Yamuna, Sarasvati,  
 Shutudri (Sutlej), Parushni (Rabi), Asikni (Seenab), Vitasta (Jilam),  
 Sushoma (Sohan). The last four rivers mentioned here were flowing in the  
@@ -286,7 +286,7 @@ tree. Sage Agastya was pleased by the answer of Kaveri. He lauded her
 and said that the Southern Peninsula will derive great benefit from her.  
 Then he also passed on to her some secret information he knew by his  
 great spiritual power.    
-     महारहस्यं किञ्चात्र श‍ृणुष्वात्यद्भुतं शुभे ।  
+     महारहस्यं किञ्चात्र शृणुष्वात्यद्भुतं शुभे ।  
      ब्रवीमि दिव्यदृष्ट्याद्य सर्वशास्त्रेषु निश्चितम् ॥  
   
      महापातकिनां पापं मोचयन्त्यः क्षणेन हि।  

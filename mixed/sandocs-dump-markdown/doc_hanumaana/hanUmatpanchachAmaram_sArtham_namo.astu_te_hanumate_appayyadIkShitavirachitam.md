@@ -51,7 +51,7 @@ the singing.
 लक्ष्मणाग्रजं सीताभिरामं रामं तच्चरणसंनिकर्षाभिरतः  
 परमभागवतो- हनुमान् सह किंपुरुषैः  
 अविरतभक्तिरुपासते । आर्ष्टिषेणेन सह गन्दर्वैरनुगीयमानं  
-परमकल्याणीं भर्तृभगवत्कथां समुपश‍ृणोति  स्वयं चेदं गायति ॥(5-19-1,2)\  
+परमकल्याणीं भर्तृभगवत्कथां समुपशृणोति  स्वयं चेदं गायति ॥(5-19-1,2)\  
 Full account of Hanuman is given in Parasara Samhita also. The  
 samhitas are that portion of the vedas that contain the prayers,  
 mantras set to appropriate chandas (meter) and rituals to propitiate  
@@ -620,7 +620,7 @@ fell down unconscious) in the fearful battle. The Lord Rama, though
 He is the intimate relative of all beings, considered you, who thus  
 rendered an invaluable help, a close relative.  
   
-        भवांश्च यत्र यत्र तत् श‍ृणोति रामकीर्तनं  
+        भवांश्च यत्र यत्र तत् शृणोति रामकीर्तनं  
         करोति तत्र तत्र भोः सभाष्पमस्तकाञ्जलिम् ।  
         प्रदेहि मेऽञ्जनासुत त्वदीयभक्तिवैभवं  
         विदेहि मे निरञ्जनं च रामदासदासताम् ॥ ६॥  

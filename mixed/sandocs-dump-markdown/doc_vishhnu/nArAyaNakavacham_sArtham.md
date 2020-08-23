@@ -144,7 +144,7 @@ who were endeavoring to kill him.
    
 श्री-बादरायणिरुवाच  
 वृतः पुरोहितस् त्वाष्ट्रो महेन्द्रायानुपृच्चते  
-नारायणाख्यं वर्माह तद् इहैक-मनाः श‍ृणु ॥ ३॥  
+नारायणाख्यं वर्माह तद् इहैक-मनाः शृणु ॥ ३॥  
   
 श्री-बादरायणिः उवाच  shrI shukadeva GosvAmI said;  
  वृतः  the chosen;  पुरोहितः  priest;  त्वाष्ट्रः  
@@ -152,7 +152,7 @@ who were endeavoring to kill him.
 अनुपृच्चते  after he (Indra) inquired;  नारायण-आख्यम्   
 named NArAyaNa-kavacha;  वर्म  defensive armor made of a mantra;  
  आह  he said;  तत्  that;  इह  this;  एक-मनाः   
-with great attention;  श‍ृणु  hear from me.  
+with great attention;  शृणु  hear from me.  
   
 shrI shukadeva GosvAmI said: King Indra, the leader of the demigods,  
 inquired about the armor known as NArAyaNa-kavacha from VishvarUpa, who was  
@@ -1019,11 +1019,11 @@ He had to do this and bathe in the river before returning to his own abode.
   
    
 श्री-शुक उवाच  
-य इदं श‍ृणुयात् काले यो धारयति चादृतः  
+य इदं शृणुयात् काले यो धारयति चादृतः  
 तं नमस्यन्ति भूतानि मुच्यते सर्वतो भयात् ॥ ४१॥  
   
 श्री-शुकः उवाच  shrI shukadeva GosvAmI said;  यः   
-anyone who;  इदम्  this;  श‍ृणुयात्  may hear;  काले   
+anyone who;  इदम्  this;  शृणुयात्  may hear;  काले   
 at a time of fear;  यः  anyone who;  धारयति  employs this  
 prayer;  च  also;  आदृतः  with faith and adoration;  तम्   
 unto him;  नमस्यन्ति  offer respectful obeisances;  भूतानि   

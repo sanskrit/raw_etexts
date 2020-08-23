@@ -1145,7 +1145,7 @@ The rAgamudrA ``ghaNTA'' occurs in the phrase ``ghaNTAmaNi''.
   
 श्रीकमलांबा जयति अंबा  
 श्रीकमलांबा जयति जगदंबा  
-श्रीकमलांबा जयति श‍ृंगाररसकदंबा मदंबा  
+श्रीकमलांबा जयति शृंगाररसकदंबा मदंबा  
 श्री कमलांबा जयति चिद्बिंबप्रतिबिंबेन्दुबिंबा  
 श्री कमलांबा जयति  
   
@@ -1183,7 +1183,7 @@ Word to word meaning:
 श्री कमलांबा  - Goddess KamalAmbA  
 जयति  - is victorious  
 जगदंबा  - the mother of the universe  
-श‍ृंगार-रस-कदंबा  - a flower of the kadamba plant  
+शृंगार-रस-कदंबा  - a flower of the kadamba plant  
        (the essence) of the pleasure of love  
 मदंबा  - my mother  
 चिद्बिंब  - is of the form of pure consciousness  

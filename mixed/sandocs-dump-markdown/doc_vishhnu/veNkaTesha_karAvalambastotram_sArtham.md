@@ -163,7 +163,7 @@ me the support of your hand. 13.
 Nrisinha, who was like a honey-bee hovering over the lotus  
 feet of Shri Venkatesha. Those mortals who recite them  
 will attain to the supreme world of Visnu. 14.   
-॥ इति श्री श‍ृङ्गेरि जगद्गुरुणा श्री नृसिंह भारति  
+॥ इति श्री शृङ्गेरि जगद्गुरुणा श्री नृसिंह भारति  
 स्वामिना रचितं श्री वेङ्कटेश करावलम्ब स्तोत्रं सम्पूर्णम् ॥  
  Thus is complete the Shri Venkatesha  
 Karavalamba Stotram composed by Shri  

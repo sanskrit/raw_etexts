@@ -496,7 +496,7 @@ teachings. This word is synonymous to jagadguru.
  I bow to shrI shankara who is known as bhagavatpAda.  
    
  VERSE 20   
-व्याससंदर्शनप्रीतः ऋष्यश‍ृङ्गपुरेश्वरः ।  
+व्याससंदर्शनप्रीतः ऋष्यशृङ्गपुरेश्वरः ।  
 सौन्दर्यलहरी मुख्य बहुस्तोत्र विधायकः ॥ २०॥  
   
 ९४) ॐ व्याससंदर्शनप्रीताय नमः  
@@ -513,7 +513,7 @@ Lord shiva, and said the following famous verse:
  Pleased with shankara's bhAshya, sage vyAsa blessed him with  
 additional 16 years of life. One can read about this incident in  
 detail in madhaviya shankara digvijayam.  
-९५) ॐ ऋष्यश‍ृङ्गपुरेश्वराय नमः  
+९५) ॐ ऋष्यशृङ्गपुरेश्वराय नमः  
  I bow to shrI shankara who is the lord of R^iShyashR^iऽNgapuri (now  
 known as shR^iऽNgeri). shrI shankara established the first maTham at  
 shR^iऽNgeri and nominated shrI sureshvarAcharya as its head. It is  
@@ -683,7 +683,7 @@ will realize all the desires.
 ॐ भूमण्डलाचार्याय नमः ।  
 ॐ भगवत्पादसंज्ञकाय नमः ।  
 ॐ व्याससंदर्शनप्रीताय नमः ।  
-ॐ ऋष्यश‍ृङ्गपुरेश्वराय नमः ।  
+ॐ ऋष्यशृङ्गपुरेश्वराय नमः ।  
 ॐ सौन्दर्यलहरीमुख्यबहुस्तोत्रविधायकाय नमः ।  
 ॐ चतुष्षष्टिकलाभिज्ञाय नमः ।  
 ॐ ब्रह्मराक्षसपोषकाय नमः ।  

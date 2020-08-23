@@ -31,7 +31,7 @@ Hymn in praise of gaNesha from the atharva veda.
   
          ॥ शान्ति पाठ ॥  
   
-ॐ भद्रं कर्णेभिः श‍ृणुयाम देवा ।  
+ॐ भद्रं कर्णेभिः शृणुयाम देवा ।  
 भद्रं पश्येमाक्षभिर्यजत्राः ॥  
   
 स्थिरैरंगैस्तुष्टुवांसस्तनूभिः ।  
@@ -41,7 +41,7 @@ Hymn in praise of gaNesha from the atharva veda.
 ॐ = the OmkAra or Brahman itself.  
 भद्रं = Goodness, safety . auspiciousness;  
 कर्णेभिः = through the ears;  
-श‍ृणुयाम = May we  hear;  
+शृणुयाम = May we  hear;  
 देवाः = the gods;  
 भद्रं = Goodness, safety . auspiciousness;  
 पश्येमाक्षभिः = May we see through the eyes;  
@@ -807,7 +807,7 @@ Let us both (the teacher and the taught) be protected together, let us
 enjoy together, let us endeavour together, let our study be resplendent, let  
 us not hate or quarrel.  
   
-ॐ भद्रं कर्णेभिः श‍ृणुयाम देवा ।  
+ॐ भद्रं कर्णेभिः शृणुयाम देवा ।  
 भद्रं पश्येमाक्षभिर्यजत्राः ॥  
   
 स्थिरैरंगैस्तुष्टुवांसस्तनूभिः ।  
@@ -817,7 +817,7 @@ us not hate or quarrel.
 ॐ = OmkAra or Brahma;  
 भद्रं = goodness, safety;  
 कर्णेभिः = thro' ears;  
-श‍ृणुयाम = may we hear;  
+शृणुयाम = may we hear;  
 देवाः = gods;  
 भद्रं = good, safety;  
 पश्येमाक्षभिर्यजत्राः = may we see with eyes?;  

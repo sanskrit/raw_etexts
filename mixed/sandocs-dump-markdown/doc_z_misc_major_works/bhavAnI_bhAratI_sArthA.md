@@ -33,7 +33,7 @@ English translation by Richard Hartz
 on the roads of Spring, I thought of my people, of poetry,  
 of wife and enjoyments, pleasure and possessions.  
   
-कान्तैश्च श‍ृङ्गारयुतैश्च हृष्टो गानैः स छन्दो ललितं बबन्ध ।   
+कान्तैश्च शृङ्गारयुतैश्च हृष्टो गानैः स छन्दो ललितं बबन्ध ।   
 जगौ च कान्तावदनं सहास्यं पूज्ये च मातुश्चरणे गरिष्ठे ॥ २॥   
 2. I shaped my delight into elegant verse in lyrical stanzas  
 of sensuous passion; I sang of the smile on my beloved's face  
@@ -172,20 +172,20 @@ not fear the burning wrath of Kali? Worshipping the goddess
 Bhavani in your heart, strive and enrich your motherland.  
   
 भो भो अवन्त्यो मगधाश्च वङ्गा अङ्गाः कलिङ्गाः कुरवश्च सिन्धो ।   
-भो दाक्षिणात्याः श‍ृणुतान्ध्रचोला वसन्ति ये पञ्चनदेषु शूराः ॥ २३॥   
+भो दाक्षिणात्याः शृणुतान्ध्रचोला वसन्ति ये पञ्चनदेषु शूराः ॥ २३॥   
 23. You and you, O peoples of Avanti and Magadha, Vanga, Anga  
 and Kalinga, O Kurus and men of' Sind: hear me! O southerners,  
 you of Andhra and the Chola country, and you heroes of the  
 land of the five rivers;  
   
 ये के त्रिमूर्ति भजतैकमीशं ये चैकमूर्ति यवना मदीयाः ।   
-माताह्वये वस्तनयान्हि सर्वान् निद्रां विमुञ्चध्वमये श‍ृणुध्वम् ॥ २४॥   
+माताह्वये वस्तनयान्हि सर्वान् निद्रां विमुञ्चध्वमये शृणुध्वम् ॥ २४॥   
 24. you who adore the triple form of the one Lord and you,  
 my Mohammedan sons, who worship Him in His uniqueness: I,  
 the Mother, call all of you, for all are my children. Shake  
 off your slumber! Oh, hear!  
   
-कालस्य भेरीं श‍ृणुताद्रिश‍ृङ्गे रौद्रं कृतान्तं मम दूतरूपम् ।   
+कालस्य भेरीं शृणुताद्रिशृङ्गे रौद्रं कृतान्तं मम दूतरूपम् ।   
 दुर्भिक्षमेतानथ भूमिकम्पान् निबोधताधीशतमागतास्मि ॥ २५॥   
 25. Listen to the drum of Time on the mountain-tops. Behold  
 pitiless Death, my messenger. Famine and earthquake announce  
@@ -219,7 +219,7 @@ show that you are made of Aryan stuff indeed! Lo, there on the
 further shore see a light arise, inviolable in brilliance and  
 armed with the trident.  
   
-कवे विलासिञ्श‍ृणु मातृवाक्यं कालीं करालीं भज पुत्र चण्डीम् ।   
+कवे विलासिञ्शृणु मातृवाक्यं कालीं करालीं भज पुत्र चण्डीम् ।   
 द्राष्टासि वै भारतमातरं तां घ्नतीमरातीन्भृशमाजिमध्ये ॥ ३०॥   
 30. O poet and sensualist, hear the word of the Mother: adore  
 Kali the Terrible, my son, the fierce Chandi. Verily you shall  
@@ -383,7 +383,7 @@ in thy ways?  With one delicate hand thou settest whirling or
 arrestest in its motion the universe with all its stars and  
 suns, O infinite in energy.  
   
-आजौ यदा नृत्यसि चण्डि घोरे श‍ृगालघुष्टे दधती त्रिशूलम् ।   
+आजौ यदा नृत्यसि चण्डि घोरे शृगालघुष्टे दधती त्रिशूलम् ।   
 स्पर्शेन कम्पन्त इवायुधस्य महान्ति तारानियुतानि नाके ॥ ५६॥   
 56. When, wielding the trident, thou dancest, O Chandi, on the  
 gruesome battlefield noisy with jackals, the vast multitudes  
@@ -416,7 +416,7 @@ one, illumining the worlds with beauty.
 radiance mounted on a cow drunk with the zest of battle, and all  
 around thee the Titan hosts tumble like lofty peaks uprooted.  
   
-सा शुभ्रवर्णासितवृत्तश‍ृङ्गा हिमस्य राशिश्चलतीव तूर्णम् ।   
+सा शुभ्रवर्णासितवृत्तशृङ्गा हिमस्य राशिश्चलतीव तूर्णम् ।   
 देवप्रिया भारतभूमिरार्या धेनुस्वरूपेण विहन्ति शत्रून् ॥ ६१॥   
 61. Bright of hue and with round black horns, she romps about  
 like a swiftmoving mass of snow: it is the Aryan land of India,  
@@ -430,8 +430,8 @@ lustre of their laces turning pale with fear, flee suddenly
 like cataracts clown the mountainsides, clamorous and intent  
 on speed.  
   
-श‍ृणोमि ते पाञ्चनदेषु भीमे स्वरानुदाराञ्जयनादमुग्रम् ।   
-निहन्यमानस्य रवं बलस्य भयङ्करे तारतरं श‍ृणोमि ॥ ६३॥   
+शृणोमि ते पाञ्चनदेषु भीमे स्वरानुदाराञ्जयनादमुग्रम् ।   
+निहन्यमानस्य रवं बलस्य भयङ्करे तारतरं शृणोमि ॥ ६३॥   
 63. I hear, O formidable goddess, the noble tones of thy fierce  
 cry of victory echoed by the people of Punjab. Louder still,  
 O fearsome warrior, is heard the uproar of the opposing forces  
@@ -631,7 +631,7 @@ at the gates of the cities of the Aryan country.
 of Strife. Once again the movements of freedom are abroad;  
 I observe them following the paths of the ancient scriptures.  
   
-पुनः श‍ृणोमीममरण्यभूमौ वेदस्य घोषं हृदयामृतोत्सम् ।   
+पुनः शृणोमीममरण्यभूमौ वेदस्य घोषं हृदयामृतोत्सम् ।   
 सुज्ञानिनामाश्रमगा मुनीनां कुल्येव पुंसां वहति प्रपूर्णा ॥ ९३॥   
 93. Once again I hear in the forests the chanting of the Veda  
 which is a fountain of immortalising nectar to the heart. An  
