@@ -28,59 +28,59 @@ ADDITIONAL NOTES
   
 some spellings in the edition have been standardized:
   
-     - devāṇā → devānā;
+     - devāṇā → devānā;
   
-     - dauśīlya → dauḥ-;
+     - dauśīlya → dauḥ-;
   
-     - brahmānaś → -hmāṇaś;
+     - brahmānaś → -hmāṇaś;
   
-     - śarīrāni → -rāṇi;
+     - śarīrāni → -rāṇi;
   
-     - aparamānā buddhadharmā → aparimāṇā b-;
+     - aparamānā buddhadharmā → aparimāṇā b-;
   
-     - dhvajaiṣ patākābhir → dhvajaiḥ p-;
+     - dhvajaiṣ patākābhir → dhvajaiḥ p-;
   
-     - -ṣ k- → -ḥ k-;
+     - -ṣ k- → -ḥ k-;
   
-     - kalām api gananām → kalām api gaṇanām;
+     - kalām api gananām → kalām api gaṇanām;
   
-     - acityam anulpam → acintyam atulyam;
+     - acityam anulpam → acintyam atulyam;
   
-     - niḥsaṃsaya- → niḥsaṃśaya-;
+     - niḥsaṃsaya- → niḥsaṃśaya-;
   
-     - tathendriyānāṃ → tathendriyāṇāṃ;
+     - tathendriyānāṃ → tathendriyāṇāṃ;
   
-     - 'valīyata → 'valīyeta;
+     - 'valīyata → 'valīyeta;
   
-     - divyāṇi → divyāni;
+     - divyāṇi → divyāni;
   
-     - vimokṣānāṃ → vimokṣāṇāṃ;
+     - vimokṣānāṃ → vimokṣāṇāṃ;
   
-     - vṛkṣānāṃ → vṛkṣāṇāṃ;
+     - vṛkṣānāṃ → vṛkṣāṇāṃ;
   
-     - patrānāṃ → patrāṇāṃ;
+     - patrānāṃ → patrāṇāṃ;
   
-     - puṣpānāṃ → puṣpāṇāṃ;
+     - puṣpānāṃ → puṣpāṇāṃ;
   
-     - apramāneṣu → apramāṇeṣu;
+     - apramāneṣu → apramāṇeṣu;
   
-     - mārgena → mārgeṇa;
+     - mārgena → mārgeṇa;
   
-     - anāśravā → anāsravā;
+     - anāśravā → anāsravā;
   
-     - carad upalambhayogena → carann upalambhayogena;
+     - carad upalambhayogena → carann upalambhayogena;
   
-     - ṣaṣṭyāṃ → ṣaṣṭhyāṃ;
+     - ṣaṣṭyāṃ → ṣaṣṭhyāṃ;
   
-     - satkuryan gurukurvan mānayen pūjayen → satkurvan gurukurvan mānayan pūjayan;
+     - satkuryan gurukurvan mānayen pūjayen → satkurvan gurukurvan mānayan pūjayan;
   
-     - lokadhārau → lokadhātau;
+     - lokadhārau → lokadhātau;
   
-     - gaṅgānadivālulo- → gaṅgānadivāluko-;
+     - gaṅgānadivālulo- → gaṅgānadivāluko-;
   
-     - -saṃvodh- → -saṃbodh-;
+     - -saṃvodh- → -saṃbodh-;
   
-     - praśav- → prasav-.  
+     - praśav- → prasav-.  
 
 ## पाठः
 

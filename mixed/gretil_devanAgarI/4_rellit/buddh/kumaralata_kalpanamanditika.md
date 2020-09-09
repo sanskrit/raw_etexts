@@ -18,24 +18,24 @@ Manuscript 4: Hori 2011
 Manucsript 5: Wille 2005 and Karashima 2009  
 
 ABBREVIATIONS  
-Divy            =  Divyāvadāna, ed. E. B. Cowell, R. A. Neil, Cambridge 1886.  
-Hori 2011       =  Shin'ichirḥ Hori, "Sanskrit Fragments from Central Asia at the Institute of Oriental Manuscripts of the Russian Academy of Sciences, St. Petersburg", Bukkyo-Gaku (Journal of Buddhist Studies) 53, pp. 1-24.  
+Divy            =  Divyāvadāna, ed. E. B. Cowell, R. A. Neil, Cambridge 1886.  
+Hori 2011       =  Shin'ichirḥ Hori, "Sanskrit Fragments from Central Asia at the Institute of Oriental Manuscripts of the Russian Academy of Sciences, St. Petersburg", Bukkyo-Gaku (Journal of Buddhist Studies) 53, pp. 1-24.  
 IDP             =  The International Dunhuang Project, The British Library, London (http://idp.bl.uk or http://idp.bbaw.de).  
 Karashima 2009  =  Seishi Karashima, "The Sanskrit Fragments Or.15010 in the Hoernle Collection," Buddhist Manuscripts from Central Asia: The British Library Sanskrit Fragments, vol. II, ed. S. Karashima and K. Wille, Tokyo Meiwa Printing Company, pp. 335-550.  
 r               =  recto  
-SHT             =  Sanskrithandschriften aus den Turfanfunden. Teil 1: unter Mitarbeit von W. Clawiter und L. Holzmann hg. von E. Waldschmidt; Teil 5: bearbeitet von L. Sander und E. Waldschmidt, Wiesbaden/Stuttgart 1965, 1985 (Verzeichnis der orientalischen Handschriften in Deutschland, 10,1 & 5).  
+SHT             =  Sanskrithandschriften aus den Turfanfunden. Teil 1: unter Mitarbeit von W. Clawiter und L. Holzmann hg. von E. Waldschmidt; Teil 5: bearbeitet von L. Sander und E. Waldschmidt, Wiesbaden/Stuttgart 1965, 1985 (Verzeichnis der orientalischen Handschriften in Deutschland, 10,1 & 5).  
 v               =  verso  
 Wille 2005      =  Klaus Wille, "Some recently identified Sanskrit fragments from the Stein and Hoernle collections in the British Library, London (1)," Annual Report of the International Research Institute for Advanced Buddhology 8, pp. 47-79.  
 
 SYMBOLS USED IN THE TRANSLITERATION  
-+     lost akṣara  
-..     illegible akṣara  
-.     single element thereof  
-///     leaf broken off here  
-/     daṇḍa  
-//     double daṇḍa  
-*     virāma  
-'     avagraha, not written in the MS  
++     lost akṣara  
+..     illegible akṣara  
+.     single element thereof  
+///     leaf broken off here  
+/     daṇḍa  
+//     double daṇḍa  
+*     virāma  
+'     avagraha, not written in the MS  
 
 ITALICS for restored akṣaras, unless otherwise indicated  
 

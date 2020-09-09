@@ -21,7 +21,7 @@ Input by Klaus Wille
   
   
 ABBREVIATION  
-Uv = Udānavarga, ed. F. Bernhard, 2 vols., Göttingen 1965, 1968 (Sanskrittexte aus den Turfanfunden, 10).  
+Uv = Udānavarga, ed. F. Bernhard, 2 vols., Göttingen 1965, 1968 (Sanskrittexte aus den Turfanfunden, 10).  
   
   
 ITALICS for restored akṣaras  

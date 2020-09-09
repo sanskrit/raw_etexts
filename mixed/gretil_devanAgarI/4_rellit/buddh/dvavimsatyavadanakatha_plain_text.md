@@ -13,55 +13,55 @@ Dvavimsatyavadanakatha, plain text
   
 Dvavimsatyavadanakatha
   
-     I. punyaprotsahanakatha
+     I. punyaprotsahanakatha
   
-     II. dharmasravanaprotsahanakatha
+     II. dharmasravanaprotsahanakatha
   
-     III. manusyadurlabhakatha
+     III. manusyadurlabhakatha
   
-     IV. danakatha
+     IV. danakatha
   
-     V. punyakamakatha
+     V. punyakamakatha
   
-     VI. jirnoddharanabimbakatha
+     VI. jirnoddharanabimbakatha
   
-     VII. snanakatha
+     VII. snanakatha
   
-     VIII. kunkumadidanakatha
+     VIII. kunkumadidanakatha
   
-     IX. chattradanakatha
+     IX. chattradanakatha
   
-     X. dhatvavaropanakatha
+     X. dhatvavaropanakatha
   
-     XI. mandalakatha
+     XI. mandalakatha
   
-     XII. bhojanakatha
+     XII. bhojanakatha
   
-     XIII. panakatha
+     XIII. panakatha
   
-     XIV. vastrakatha
+     XIV. vastrakatha
   
-     XV. puspakatha
+     XV. puspakatha
   
-     XVI. pranamakatha
+     XVI. pranamakatha
   
-     XVII. ujjvalikadanakatha
+     XVII. ujjvalikadanakatha
   
-     XVIII. dipakatha
+     XVIII. dipakatha
   
-     XIX. viharakatha
+     XIX. viharakatha
   
-     XX. suvarnabhavadana
+     XX. suvarnabhavadana
   
-     XXI. vapusmanavadana
+     XXI. vapusmanavadana
   
-     XXII. candanavadana
+     XXII. candanavadana
   
-     XXIII. danakatha
+     XXIII. danakatha
   
-     [XXIV.] punyotsahavadanasutra
+     [XXIV.] punyotsahavadanasutra
   
-       
+       
 
   
 Based on Mamiko Okada: Dvāviṃśatyavadānakathā. Ein mittelalterlicher buddhistische Text
@@ -86,13 +86,13 @@ MARKUP
 pagination of Okada's edition (Dak)  
 Metrics:
   
-     ^ = short
+     ^ = short
   
-     _ = long
+     _ = long
   
-     X = short/long
+     X = short/long
   
-     XX = short-short/long  
+     XX = short-short/long  
   
 
   
@@ -3606,7 +3606,7 @@ Xइव्। वस्त्रकथा
 तस्माच् चिन्तापरो ऽभूवं कस्मै दास्याम्य् अहं नु भो ॥ दक्_१४।५ ॥  
 
   
-दारिका कथयति   तात न ते शोकः कर्तव्यो नाहं कामेनार्थिनी ॥ यतश् च ॥  
+दारिका कथयति   तात न ते शोकः कर्तव्यो नाहं कामेनार्थिनी ॥ यतश् च ॥  
 
   
 कामोपभोग्यधनधान्यशरीरगेहं सर्वं ह्य् अनर्थम् अतिचञ्चलभङ्गुरं च
@@ -5412,7 +5412,7 @@ XXइइइ। दानकथा
 ततो राजा शक्रं देवेन्द्रम् इदम् अवोचत् ॥ साधु साधु कौशिक कृतो ऽस्माकं धर्माभिप्रायपूरितश् चेति ॥  
 
   
-भगवान् आह ॥ किं मन्यध्वे भिक्षवो यो ऽसौ तेन कालेन तेन समयेन सुरूपो नाम राजा बभूवाहं सः । सुन्दरकुमार आनन्दः । सुन्दरका  एषैव यशोधरा । तदापि मे भिक्षवो धर्महेतोर् इष्टबन्धुपरित्यागः स्वजीवितपरित्यागश् च कृतः प्राग् एवेदानीम् । तस्मात् तर्हि भिक्षव एवं शिक्षितव्यम् । यद् धर्मं सत्करिष्यामो गुरुकरिष्यामो मानयिष्यामः पूजयिष्यामो धर्मं सत्कृत्य गुरुकृत्य मानयित्वा पूजयित्वोपनिश्रित्य विहरिष्याम इत्य् एवं वो भिक्षवः शिक्षितव्यम् इति ॥  
+भगवान् आह ॥ किं मन्यध्वे भिक्षवो यो ऽसौ तेन कालेन तेन समयेन सुरूपो नाम राजा बभूवाहं सः । सुन्दरकुमार आनन्दः । सुन्दरका  एषैव यशोधरा । तदापि मे भिक्षवो धर्महेतोर् इष्टबन्धुपरित्यागः स्वजीवितपरित्यागश् च कृतः प्राग् एवेदानीम् । तस्मात् तर्हि भिक्षव एवं शिक्षितव्यम् । यद् धर्मं सत्करिष्यामो गुरुकरिष्यामो मानयिष्यामः पूजयिष्यामो धर्मं सत्कृत्य गुरुकृत्य मानयित्वा पूजयित्वोपनिश्रित्य विहरिष्याम इत्य् एवं वो भिक्षवः शिक्षितव्यम् इति ॥  
 
   
 इति द्वाविंशतिकावदानकथायां दानकथा ॥  

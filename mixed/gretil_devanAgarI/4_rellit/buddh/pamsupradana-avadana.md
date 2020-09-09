@@ -19,24 +19,24 @@ GBM = Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lok
 
 Symbols used in the transliteration  
   
-+          lost akṣara  
-()          restored akṣara  
-[]          damaged akṣara  
-< >          omitted akṣara  
-<< >>     interlinear correction  
-{ }          superfluous akṣara or part of it  
-{{ }}          cancelled by correction mark  
-..          illegible akṣara  
-.          single element thereof  
-///          leaf broken off here  
-/          daṇḍa  
-//          double daṇḍa  
-\          punctuation mark  
-*          virāma  
-'          avagraha, not written in the MS  
++          lost akṣara  
+()          restored akṣara  
+[]          damaged akṣara  
+< >          omitted akṣara  
+<< >>     interlinear correction  
+{ }          superfluous akṣara or part of it  
+{{ }}          cancelled by correction mark  
+..          illegible akṣara  
+.          single element thereof  
+///          leaf broken off here  
+/          daṇḍa  
+//          double daṇḍa  
+\          punctuation mark  
+*          virāma  
+'          avagraha, not written in the MS  
 ---                                                                                                                                             strokes in the manuscript where the birchbark could not be written on  
   
-@ ... @@     comment  
+@ ... @@     comment  
 
 ## पाठः
 

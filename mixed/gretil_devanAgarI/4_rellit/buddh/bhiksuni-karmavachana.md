@@ -13,7 +13,7 @@ title = "Bhiksuni-Karmavacana"
   
   
 Bhiksuni-Karmavacana (= BhīKaVā)  
-Based on the ed. Michael Schmidt: Bhikṣuṇī-Karmavācanā: Die Handschrift Sansk. c. 25 (R) der Bodleian Library Oxford. In: Studien zur Indologie und Buddhismuskunde, Festgabe für Professor Dr. Heinz Bechert zum 60. Geburtstag am 26. Juni 1992, hg. R. Grünendahl, J.-U. Hartmann, P. Kieffer-Pülz, Bonn 1993 (Indica et Tibetica, 22), pp. 239ḥ288.  
+Based on the ed. Michael Schmidt: Bhikṣuṇī-Karmavācanā: Die Handschrift Sansk. c. 25 (R) der Bodleian Library Oxford. In: Studien zur Indologie und Buddhismuskunde, Festgabe für Professor Dr. Heinz Bechert zum 60. Geburtstag am 26. Juni 1992, hg. R. Grünendahl, J.-U. Hartmann, P. Kieffer-Pülz, Bonn 1993 (Indica et Tibetica, 22), pp. 239ḥ288.  
   
   
 By courtesy of Michael Schmidt.  

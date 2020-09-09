@@ -19,14 +19,14 @@ Input by Klaus Wille (Göttingen)
 Input according to the first edition.  
 The second edition has some emendations, for example:  
   
-p.          (ed. 1947)          |     (ed. 1984)  
-138.9 and 10                                                                                                                                hatavihatavidhvastaḥ     |     -viddhast-  
-140.11     hastino          |     hastinaḥ  
-142.13     grāmasyātha          |     grāmasyārthe  
-143.4          -labdham*          |     -labdhaḥ  
-143.9          -vilambitair akṣarair     |     -vilambitarakṣarair  
-144.1f.     devaḥ sāṃpratam     |     devaḥ saṃvṛttaḥ sāṃpratam  
-144.8          me saṃvṛttaḥ          |     me nāsti saṃvṛttaḥ  
+p.          (ed. 1947)          |     (ed. 1984)  
+138.9 and 10                                                                                                                                hatavihatavidhvastaḥ     |     -viddhast-  
+140.11     hastino          |     hastinaḥ  
+142.13     grāmasyātha          |     grāmasyārthe  
+143.4          -labdham*          |     -labdhaḥ  
+143.9          -vilambitair akṣarair     |     -vilambitarakṣarair  
+144.1f.     devaḥ sāṃpratam     |     devaḥ saṃvṛttaḥ sāṃpratam  
+144.8          me saṃvṛttaḥ          |     me nāsti saṃvṛttaḥ  
   
 Some of Dutt's reading have been corrected by me according to the manuscript, for example:  
   
@@ -865,7 +865,7 @@ ITALICS for restored text
 प्रत्यूह्य यो ऽयं शतानि पुंसां मात्सर्यम् आक्रम्य सपत्नभूतम्* ।  
 ददाति दानं परलोकभीरुः शूरेष्व् असौ शूरतरो मतो मे ॥  
 न तं हि शूरं मुनयो वदन्ति यः शस्त्रपाणिर् विचरत्य् अनीके ।  
-दानं प्रयच्छन्ति विशारदा ये शूरांस् तु तान् सर्वविदो वदन्ति ॥       
+दानं प्रयच्छन्ति विशारदा ये शूरांस् तु तान् सर्वविदो वदन्ति ॥       
   
 स्यात् खलु ते महाराजान्यः स तेन कालेन तेन समयेन राजाभूच् चक्रवर्ती येन तच् चतुरशीतिषु नगरसहस्रेषु यज्ञवाटं मापयित्वा बहूनि वर्षाणि बहूनि वर्षशतानि बहूनि वर्षशतसहस्राणि दानानि दत्तानि पुण्यानि कृतानि । न खल्व् एवं द्रष्टव्यम्* । अपि तु तद् दानं संबोधेर् हेतुमात्रकं प्रत्ययमात्रकं संभारमात्रकम्* ।  
   
@@ -1580,7 +1580,7 @@ ITALICS for restored text
 आढ्ये शाक्यकुले जातमात्रो वाचम् अभाषि यत्* १६९  
 कच्चिद् धनं वा धान्यं + + + + + + ।इ ॥ मः  
 दानं यतो ऽहं दास्यामि तर्पयिष्ये वनीपकान्* १७०  
-+ + तृप्तिं न गच्छामि तर्पयिष्ये वनीपकान्*       
++ + तृप्तिं न गच्छामि तर्पयिष्ये वनीपकान्*       
 साधु मे क्षिप्रम् आख्यातुं कच्चिद् अस्तीह वो धनम्* १७१  
 संविग्नमनसो ऽभूवंस् ते श्रुत्वा मम भाषितम्*  
 दिशो दिशं विधावन्ति स्थापयित्वा च + + + १७२  

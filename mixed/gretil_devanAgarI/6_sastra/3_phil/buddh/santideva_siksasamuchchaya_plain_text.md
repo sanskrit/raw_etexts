@@ -13,45 +13,45 @@ Santideva: Siksasamuccaya, plain text
   
 Santideva: Siksasamuccaya
   
-     I. danaparamita
+     I. danaparamita
   
-     II. saddharmaparigraha
+     II. saddharmaparigraha
   
-     III. dharmabanakadiraksa
+     III. dharmabanakadiraksa
   
-     IV. (caturthah paricchedah)
+     IV. (caturthah paricchedah)
   
-     V. anarthavivarjana
+     V. anarthavivarjana
   
-     VI. atmabhavaraksa
+     VI. atmabhavaraksa
   
-     VII. bhogapunyaraksa
+     VII. bhogapunyaraksa
   
-     VIII. papasodhana
+     VIII. papasodhana
   
-     IX. ksantiparamita
+     IX. ksantiparamita
   
-     X. viryaparamita
+     X. viryaparamita
   
-     XI. aranyasamvarnana
+     XI. aranyasamvarnana
   
-     XII. cittaparikarma
+     XII. cittaparikarma
   
-     XIII. smrtyupasthanapariccheda
+     XIII. smrtyupasthanapariccheda
   
-     XIV. atmabhavaparisuddhi
+     XIV. atmabhavaparisuddhi
   
-     XV. bhogapunyasuddhi
+     XV. bhogapunyasuddhi
   
-     XVI. bhadracaryaviddhi
+     XVI. bhadracaryaviddhi
   
-     XVII. vandanadyanusamsa
+     XVII. vandanadyanusamsa
   
-     XVIII. ratnatrayanusmrti
+     XVIII. ratnatrayanusmrti
   
-     XIX. (punyavrddhi)
+     XIX. (punyavrddhi)
   
-       
+       
 
   
 Input by Mirek Rozehnahl
