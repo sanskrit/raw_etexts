@@ -15,7 +15,7 @@ Candrasutra
   
 
   
-Based on the ed. by  K. Wille: "Neue Fragmente des Candrasūtra".
+Based on the ed. by  K. Wille: "Neue Fragmente des Candrasūtra".
   
 In: Bauddhasāhityastabakāvalī, Essays and Studies on Buddhist Sanskrit Literature dedicated to Claus Vogel by Colleagues, Students, and Friends, ed. D. Dimitrov, M. Hahn, and R. Steiner. Marburg 2008 (Indica et Tibetica, 36), pp. 339-351.  
   
@@ -51,13 +51,13 @@ remarks
   
 Metrics:
   
-     ^ = short syllable
+     ^ = short syllable
   
-     - = long syllable
+     - = long syllable
   
-     x = short/long
+     x = short/long
   
-     xx = short-short/long  
+     xx = short-short/long  
   
 
   

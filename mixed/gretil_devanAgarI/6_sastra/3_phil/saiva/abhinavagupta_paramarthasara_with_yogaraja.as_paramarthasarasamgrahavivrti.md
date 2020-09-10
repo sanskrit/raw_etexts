@@ -10,11 +10,11 @@ Abhinavagupta: Paramarthasara, with Yogaraja's Paramarthasarasamgrahavivrti comm
 Based on the ed. Srinagar : Research Dept. Jammu and Kashmir State 1916  
 (The Kashmir Series of Texts and Studies edition, 7).  
 The text of this edition has been revised after nine manuscripts  
-[see L. Bansat-Boudon - K. D. Tripathi, An Introduction to Tantric Philosophy:  
+[see L. Bansat-Boudon - K. D. Tripathi, An Introduction to Tantric Philosophy:  
 The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja.  
 Translated by Lyne Bansat-Boudon and Kamaleshadatta Tripathi.  
 Introduction, notes, critically revised Sanskrit text, appendix, indices by Lyne Bansat-Boudon.  
-London / New York : Routledge 2011 (Routledge Studies in Tantric Traditions, 3), pp. 347 ff.]  
+London / New York : Routledge 2011 (Routledge Studies in Tantric Traditions, 3), pp. 347 ff.]  
 
 Input by Lyne Bansat-Boudon, Yves Codet and Judit Törzsök.  
 
@@ -808,9 +808,9 @@ BOLD for kārikās and catch words in commentary
 तस्मिन्स्वदेहदेवगृहे प्रकृष्टयोगी परमः सर्वातिशायी यश्चैतन्यलक्षणः आत्मा स एव निःशेषशब्दादिविषयोपभोगविलायनप्रगल्भत्वात् भैरवः भरणरवणवमनस्वभावः स एव शिवदेवता प्रकृष्टश्रेयोरूपो देवस्ताम् परिपूजयन्नास्ते अनवरतं वक्ष्यमाणेन क्रमेण तां तर्पयन्परिस्फुरेत्  । ननु बाह्यदेवता परिवारयुता भवत्येतां किंपरिवारयुतां समर्चयेदित्याह स्वशक्तियुताम् इति  । स्वाः चैतन्यरश्मिरूपाश्चिन्निर्वृतीच्छाज्ञानक्रियाशक्तीनां विभवात्मिकाश्चक्षुरादिकरणशक्तयस्ताभिः युताम् समन्तादावृताम्  । कैः परिपूजयन्नास्त इत्याह आत्मामर्शन इत्यादि  । स्वात्मैवेदं सर्वमिति यत् आमर्शनम् सर्वपदार्थानां संविद्रूपतया पूर्णाहन्ताविश्रान्तिलक्षणो यः परामर्शस्तेन द्वैतकालुष्यकलङ्कपरिक्षयात् विमलानि यानि शब्दादिविषयपञ्चकरूपाणि पूजार्थम् द्रव्याणि जाड्यापगमेन विशुद्धानि तैरात्मामर्शनविमलद्रव्यैरिति  । अयमाशयो ज्ञानी हेयोपादेयभेदकलङ्कपरित्यागेनायत्नोपनतं शब्दादिविषयपञ्चकं श्रोत्रादिकरणदेवीभिः समाहृत्यान्तश्चमत्कुर्वन्स्वात्मनाभेदमापादयतीत्येवमनवरतं प्रतिविषयस्वीकारकाले यो ऽन्तरभेदेन चमत्कारः पूर्णाहन्तास्फुरणमेतदेव स्वात्मदेवतापूजनमत एव शब्दादयो विषयाः पूजोपकरणमित्यवधानवता विषयग्रहणकाले प्रतिक्षणं स्वात्मदेवतापूजकेन भाव्यमिति रहस्यविदः  । एतदेव स्तुतिद्वारेण राजानकरामो दृब्धवान्यथा  
   
 नित्योद्दामसमुद्यमाहृतजगद्भावोपहारार्पण-  
-     व्यग्राभिस्तव तैजसीप्रभृतिभिर्यच्छक्तिभिस्तर्प्यते  ।  
+     व्यग्राभिस्तव तैजसीप्रभृतिभिर्यच्छक्तिभिस्तर्प्यते  ।  
 तन्मांसास्रवसास्थिकूटकलिले काये श्मशानालये  
-     रूपं दर्शय भैरवं भवनिशासंचारवीरस्य मे  ॥  
+     रूपं दर्शय भैरवं भवनिशासंचारवीरस्य मे  ॥  
   
 इति  ॥ ७५  ॥  
   

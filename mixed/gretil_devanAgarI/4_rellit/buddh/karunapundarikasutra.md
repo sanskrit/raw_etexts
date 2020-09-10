@@ -9,7 +9,7 @@ Karunapundarikasutra
 Karunapundarikasutra  
 Based on the edition by Isshi, Yamada,   
 Mahakarunapundarika Sutra.   
-London : School of Oriental and African Studies, 1968, 1-420.  
+London : School of Oriental and African Studies, 1968, 1-420.  
 
 Input by members of the Sanskrit Buddhist Input Project.  
 With kind permission of the Digital Sanskrit Buddhist Canon Project  

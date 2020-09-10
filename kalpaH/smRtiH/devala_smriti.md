@@ -277,15 +277,15 @@
 इति देवल कृतं धर्मशास्त्रं प्रकीर्तितम् ९०
 
 समाप्तेयं देवलस्मृतिः।  
- ।  
- ।  
- ।  
- ।  
- ।  
- ।  
- ।  
- ।  
- ।  
+ ।  
+ ।  
+ ।  
+ ।  
+ ।  
+ ।  
+ ।  
+ ।  
+ ।  
 Reference:।  
 The Smriti Sandarbha: Collection of Ten Dharmashastric Texts by।  
 Maharshis, Vol. 3, (Nag Publishers: Delhi, 1988), pp. 1655-1663.।  

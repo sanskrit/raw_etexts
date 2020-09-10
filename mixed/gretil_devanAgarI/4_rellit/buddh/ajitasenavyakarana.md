@@ -14,7 +14,7 @@ Ajitasenavyakarana
   
 Ajitasenavyakarana = Asv  
 Based on the edition by N. Dutt, Gilgit Manuscript, vol. I,  
-Delhi : Sri Satguru Publ. 1984, pp. 101-136.  
+Delhi : Sri Satguru Publ. 1984, pp. 101-136.  
   
   
 Input by members of the Sanskrit Buddhist Input Project.  

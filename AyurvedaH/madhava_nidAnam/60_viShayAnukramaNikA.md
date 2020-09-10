@@ -38,9 +38,9 @@ title = "६० विषयानुक्रमणिका"
 
 इति श्रीमाधवकरविरचितं माधवनिदानं समाप्तम्।  
 समाप्तश्चायं ग्रन्थः।  
- 
+ 
 
- 
+ 
 
 MŒdhava NidŒna, by MŒdhavŒchŒrya, edited by Vaidya Yadav ji Trikam ji
 ÌchŒrya, 1977 edition. Typed by Om Prakash Sharma, B.A., and proofread

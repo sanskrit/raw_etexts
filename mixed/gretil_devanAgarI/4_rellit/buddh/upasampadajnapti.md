@@ -27,7 +27,7 @@ rṇ for rṇṇ; rt for rtt; rd for rdd; rdh for rddh; rm for rmm; ry for ryy; 
 Abbreviations:  
 KaVā(Bhī) = C. Bendall, "Fragment of a Buddhist Ordination-Ritual in Sanskrit", Album-Kern: Opstellen geschreven te zijner eere van H[endrik] Kern, Leiden 1903, pp. 373_376.  
   
-Kṣudr-v(Bhī) = M. Schmidt, "Bhikṣuṇī-Karmavācanā: Die Handschrift Sansk. c.25(R) der Bodleian Library Oxford", Studien zur Indologie und Buddhismuskunde, Festgabe für Professor Dr. Heinz Bechert zum 60. Geburtstag am 26. Juni 1992, hg. R. Grünendahl, J.-U. Hartmann, P. Kieffer-Pülz, Bonn 1993 (Indica et Tibetica, 22), pp. 239-288.  
+Kṣudr-v(Bhī) = M. Schmidt, "Bhikṣuṇī-Karmavācanā: Die Handschrift Sansk. c.25(R) der Bodleian Library Oxford", Studien zur Indologie und Buddhismuskunde, Festgabe für Professor Dr. Heinz Bechert zum 60. Geburtstag am 26. Juni 1992, hg. R. Grünendahl, J.-U. Hartmann, P. Kieffer-Pülz, Bonn 1993 (Indica et Tibetica, 22), pp. 239-288.  
   
 Skt.C = Bhikṣukarmavākya, ed. A.C. Banerjee, Indian Historcal Quarterly 25 (1949), pp. 19-30.  
   

@@ -34,7 +34,7 @@ Therefore, many word boundaries are not marked by blanks.
 
 Revisions:
   
-     2017-03-17: Preamble corrected by Klaus Wille  
+     2017-03-17: Preamble corrected by Klaus Wille  
 
 ## पाठः
 

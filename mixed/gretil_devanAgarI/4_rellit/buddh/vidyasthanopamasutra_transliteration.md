@@ -15,7 +15,7 @@ Vidyasthanopamasutra
   
 
   
-Based on the ed. by  E. Waldschmidt: "Kleine Brāhmī-Schriftrolle". In: Nachrichten der Akademie der Wissenschaften in Göttingen 1959, pp. 3-7
+Based on the ed. by  E. Waldschmidt: "Kleine Brāhmī-Schriftrolle". In: Nachrichten der Akademie der Wissenschaften in Göttingen 1959, pp. 3-7
   
 [reprint in: E. Waldschmidt. Von Ceylon bis Turfan, Schriften zur Geschichte, Literatur, Religion und Kunst des indischen Kulturraumes (Festgabe zum 70. Geburtstag). Göttingen 1967, pp. 373-378].  
   

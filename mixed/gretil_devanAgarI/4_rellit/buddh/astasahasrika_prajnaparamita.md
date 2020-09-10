@@ -13,7 +13,7 @@ title = "Astasahasrika Prajnaparamita"
   
   
 Astasahasrika Prajnaparamita  
-Based on the edition by P.L. Vaidya, Darbhanga : The Mithila Institute, 1960  
+Based on the edition by P.L. Vaidya, Darbhanga : The Mithila Institute, 1960  
 (Buddhist Sanskrit Texts, 4).  
   
   

@@ -253,6 +253,6 @@ Sources: K.V. Rangaswami Aiyangar, B¨haspati-Sm¨ti (Reconstructed), GOS।
 lxxxv, Baroda 1941।  
 Typescript: Input by Yasuke Ikari and Akihiko Akamatsu।  
 Conversion to Devanagari using Vedapad Software by Ralph Bunker।  
- ।  
+ ।  
 Formatted for Maharishi University of Management।  
 Vedic Literature Collection।  

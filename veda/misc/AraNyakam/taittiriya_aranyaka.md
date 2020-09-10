@@ -199,21 +199,21 @@
 
 अनुवाक ७
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 Remainder of first prapŒÿhaka and prapŒÿhakas two and three as well as
 prapŒÿhakas 6 through 10 are still under preparation and are not yet
@@ -547,7 +547,7 @@ included.
 ब्रह्मवर्चसाय पीपिहि स्कन्दयाद्रुद्रा य रुद्र
 होत्रे स्वाहाऽह्नो मा पाह्यग्नौ सप्त
 
- 
+ 
 
 चअनुवाक ११
 
@@ -977,7 +977,7 @@ included.
 
 दधातु बद्धाञ् जिन्वथ दृशे सप्त च 
 
- 
+ 
 
 प्रपाठक ५   
 
@@ -1664,21 +1664,21 @@ included.
 
 ॐ शान्तिः शान्तिः शान्तिः 
 
- 
+ 
 
 इति कृष्णयजुर्वेदीयतैत्तिरीयारण्यके पञ्चमप्रपाठकः समाप्तः
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 Credits
 
@@ -1703,7 +1703,7 @@ Typescript: Edited by Arlo Griffiths and J.E.M. Houben
 
 Conversion to Devanagari using Vedapad Software by Ralph Bunker
 
- 
+ 
 
 Formatted for Maharishi University of Management Vedic Literature
 Collection

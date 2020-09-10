@@ -27,7 +27,7 @@ Input by Muneo Tokunaga, revised by John Smith (Cambridge)
   
 Revision:
   
-      2017-07-06: erroneous line breaks removed by Tyler Neill  
+      2017-07-06: erroneous line breaks removed by Tyler Neill  
   
   
   
@@ -3768,7 +3768,7 @@ Revision:
   
 ७।०२६।०३१अ सा विमुक्ता ततो रम्भा भ्रष्टमाल्यविभूषणा
   
-७।०२६।०३१च् गजेन्द्राक्रीडमथिता  नदीवाकुलतां गता
+७।०२६।०३१च् गजेन्द्राक्रीडमथिता  नदीवाकुलतां गता
   
 ७।०२६।०३२अ सा वेपमाना लज्जन्ती भीता करकृताञ्जलिः
   

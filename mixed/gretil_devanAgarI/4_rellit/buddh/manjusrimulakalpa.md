@@ -14,7 +14,7 @@ title = "Manjusrimulakalpa"
   
 Manjusrimulakalpa  
 Based on the edition by M.M.T. Ganapati Shastri, 1925 (3 vols.),  
-reprint: Delhi : Sri Satguru Publications 1989, pp. 1-722.  
+reprint: Delhi : Sri Satguru Publications 1989, pp. 1-722.  
   
 Cf. also Aryamanjusrimulakalpa. In: Mahayanasutrasamgraha, part II,   
 ed. by P.L. Vaidya, Darbhanga 1964 (Buddhist Sanskrit Texts, 18).  

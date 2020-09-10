@@ -27,7 +27,7 @@ Input by Input by members of the Sansknet project
   
 Revision:
   
-      2018-08-02: syayambhūr corrected to svayambhūr in IsUp_8 by Jovan Jakić  
+      2018-08-02: syayambhūr corrected to svayambhūr in IsUp_8 by Jovan Jakić  
   
 
   

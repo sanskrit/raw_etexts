@@ -56,7 +56,7 @@ ITALICS for comments
   
   
   
-       
+       
   
 अथ करतोयामाहात्म्यम् ॥  
   

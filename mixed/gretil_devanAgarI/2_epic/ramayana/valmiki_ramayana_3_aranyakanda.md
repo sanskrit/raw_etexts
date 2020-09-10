@@ -27,7 +27,7 @@ Input by Muneo Tokunaga, revised by John Smith (Cambridge)
   
 Revision:
   
-      2017-07-06: erroneous line breaks removed by Tyler Neill  
+      2017-07-06: erroneous line breaks removed by Tyler Neill  
   
   
   

@@ -17,7 +17,7 @@ Input by Arlo Griffiths
 
 TEXT WITH PADA MARKERS  
   
-       
+       
 
 PREAMBLE  
 This work is said to be included in a larger work the Uttara-Pauṇḍra-khaṇḍa, was first published in 1298 B.S. (1891 A.D.) with a Bengali translation, by Pandit Rajachandra Nyayapanchanan. It consists of two parts: verses 1 to 60, Paundra-khsetra-māhātmyam and verses 61 to 85, Karatoyā-māhātmyam. The text is printed here from that edition.  
