@@ -1,25 +1,25 @@
-+++
-"Text title" = "tulasIstavarAjaH"
-"File name" = "tulasIstavarAjaH.itx"
-itxtitle = "tulasIstavarAjaH (brahmapurANAntargataH)"
-engtitle = "tulasIstavarAjaH"
-Category = "devii, tulasI, devI, stavarAja"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar"
-Source = "Brahmapurana"
-Indexextra = "(TulasiPuja scanned)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "June 12, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलसीस्तवराजः (ब्रह्मपुराणान्तर्गतः)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: devii, tulasI, devI, stavarAja
+File name: tulasIstavarAjaH.itx
+Indexextra: (TulasiPuja scanned)
+Language: Sanskrit
+Latest update: June 12, 2017
+Location: doc_devii
+Proofread by: Shree Devi Kumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Brahmapurana
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulasIstavarAjaH
+Transliterated by: Shree Devi Kumar
+engtitle: tulasIstavarAjaH
+itxtitle: tulasIstavarAjaH (brahmapurANAntargataH)
+title: तुलसीस्तवराजः (ब्रह्मपुराणान्तर्गतः)
 
-+++
+---
   
  तुलसीस्तवराजः   
   

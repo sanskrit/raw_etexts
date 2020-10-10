@@ -1,23 +1,24 @@
-+++
-"Text title" = "garbha rakshA stotram"
-"File name" = "garbharakshAstotra.itx"
-itxtitle = "garbharakShAstotraM garbharakShaNastotraM cha"
-engtitle = "garbha rakShaNa stotram"
-Category = "raksha, misc, stotra"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com \"Sumathi Hari Ganesh\" shubhasuman at gmail.com"
-"Proofread by" = "Sunder Hattangadi, PSA Easwaran"
-Indexextra = "(meanings, Audio CD)"
-"Latest update" = "February 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गर्भरक्षास्तोत्रं गर्भरक्षणस्तोत्रं च"
+---
+Category: raksha, misc, stotra
+File name: garbharakshAstotra.itx
+Indexextra: (meanings, Audio CD)
+Language: Sanskrit
+Latest update: February 9, 2018
+Location: doc_z_misc_misc
+Proofread by: Sunder Hattangadi, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: misc
+Text title: garbha rakshA stotram
+Texttype: stotra
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com "Sumathi Hari Ganesh"
+  shubhasuman at gmail.com
+engtitle: garbha rakShaNa stotram
+itxtitle: garbharakShAstotraM garbharakShaNastotraM cha
+title: गर्भरक्षास्तोत्रं गर्भरक्षणस्तोत्रं च
 
-+++
+---
   
  गर्भरक्षणस्तोत्रम्   
   

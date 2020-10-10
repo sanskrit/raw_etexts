@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIveNkaTeshavijayAryAsaptavibhaktistotram"
-"File name" = "shrIveMkaTeshavijayAryAsaptavibhaktistotram.itx"
-itxtitle = "veNkaTeshavijayAryAsaptavibhaktistotram"
-engtitle = "Venkateshavijayaryasaptavibhaktistotram"
-Category = "vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "April 4, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशविजयार्यासप्तविभक्तिस्तोत्रम्"
+---
+Category: vishhnu, venkateshwara, stotra, vishnu
+File name: shrIveMkaTeshavijayAryAsaptavibhaktistotram.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: April 4, 2015
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIveNkaTeshavijayAryAsaptavibhaktistotram
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Venkateshavijayaryasaptavibhaktistotram
+itxtitle: veNkaTeshavijayAryAsaptavibhaktistotram
+title: वेण्कटेशविजयार्यासप्तविभक्तिस्तोत्रम्
 
-+++
+---
   
  श्रीवेङ्कटेशविजयार्यासप्तविभक्तिस्तोत्रम्   
   
@@ -50,7 +50,7 @@ title = "वेण्कटेशविजयार्यासप्तवि�
 आर्यावृत्तसमेता सप्तविभक्तिर्वृषाद्रिनाथस्य ।  
 वादीन्द्रभीकृदाख्यैरार्यै रचिता जयत्वियं सततम् ॥ ९॥  
   
- ॥ इति श्रीवेङ्कटेशविजयार्यासप्तविभक्तिस्तोत्रं संपूर्णम् ॥  
+ ॥ इति श्रीवेङ्कटेशविजयार्यासप्तविभक्तिस्तोत्रं सम्पूर्णम् ॥  
   
   
 Encoded and proofread by Malleswara Rao Yellapragada  

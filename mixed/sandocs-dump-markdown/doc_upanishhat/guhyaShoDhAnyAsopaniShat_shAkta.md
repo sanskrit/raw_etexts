@@ -1,22 +1,22 @@
-+++
-"Text title" = "guhyaShoDhAnyAsopaniShat"
-"File name" = "guhyaShoDhAnyAsopaniShat.itx"
-itxtitle = "guhyaShoDhAnyAsopaniShat (shAkta)"
-engtitle = "guhyaShoDhAnyAsopaniShat"
-Category = "upanishhat, devii, devI, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुह्यषोढान्यासोपनिषत् (शाक्त)"
+---
+Category: upanishhat, devii, devI, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: guhyaShoDhAnyAsopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: guhyaShoDhAnyAsopaniShat
+engtitle: guhyaShoDhAnyAsopaniShat
+itxtitle: guhyaShoDhAnyAsopaniShat (shAkta)
+title: गुह्यषोढान्यासोपनिषत् (शाक्त)
 
-+++
+---
   
  गुह्यषोढान्यासोपनिषत्   
 अथ गुह्यां न्यसेत् । शिवो भवेत् । शक्तिरूपो भवेत् ।  
@@ -36,7 +36,7 @@ title = "गुह्यषोढान्यासोपनिषत् (शा
 परातीता । एतत्पुटितमातृकापुटितमेतन्मन्त्रं मातृकास्थाने न्यसेदिति  
 पञ्चमी । शिवत्वं गच्छति । स सर्वरूपो भवेत् । अथ षष्ठीं  
 कलां न्यसेत् । पूर्णां विद्याराज्ञीं लिपिस्थाने न्यसेद्व्यापयेत् । स शिवो  
-भवेत् । स सर्वज्ञत्वं गच्छति । स कविर्भवेत् । स संन्यासी भवेत् ।  
+भवेत् । स सर्वज्ञत्वं गच्छति । स कविर्भवेत् । स सन्न्यासी भवेत् ।  
 देवो ह वै भवेत् । विश्वरूपो भवेत् । अयुतं न्यसेत् । ऋषिच्छन्दादि  
 पूर्ववद्भवेत् । ब्रह्माण्डगोलकेऽपि या जगतीतले तां सर्वां भुनक्ति ।  
 यस्याः स्मरणात् सिद्धो निदेशवर्ती च भवेत् तां न्यसेत् । न्यसनं  

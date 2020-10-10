@@ -1,24 +1,24 @@
-+++
-"Text title" = "hanumatsahasranAmastotra (From Rudrayamala tantra)"
-"File name" = "hanumatsahasranAmastotrarudrayAmala.itx"
-itxtitle = "hanumatsahasranAmastotram (rudrayAmalAntargartam)"
-engtitle = "hanumatsahasranAmastotrarudrayAmala"
-Category = "sahasranAma, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Source = "Rudrayamala tantra"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्सहस्रनामस्तोत्रम् (रुद्रयामलान्तर्गर्तम्)"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: sahasranAma, hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumatsahasranAmastotrarudrayAmala.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamala tantra
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatsahasranAmastotra (From Rudrayamala tantra)
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: hanumatsahasranAmastotrarudrayAmala
+itxtitle: hanumatsahasranAmastotram (rudrayAmalAntargartam)
+title: हनुमत्सहस्रनामस्तोत्रम् (रुद्रयामलान्तर्गर्तम्)
 
-+++
+---
   
  हनुमत्सहस्रनामस्तोत्रम्   
 रुद्रयामलतः  
@@ -100,7 +100,7 @@ title = "हनुमत्सहस्रनामस्तोत्रम् (
 नम इति कीलकम् । स्वाहेति शक्तिः ।  
 समस्तपुरुषार्थसिद्ध्यर्थे जपे विनियोगः ।  
   
-ॐओङ्कारनमोरूपमोंनमोरूपपालकः ।  
+ॐओङ्कारनमोरूपमोन्नमोरूपपालकः ।  
 ओङ्कारमयोङ्कारकृदोङ्कारात्मा सनातनः ॥ २४॥  
   
 ब्रह्मब्रह्ममयो ब्रह्मज्ञानी ब्रह्मस्वरूपवित् ।  

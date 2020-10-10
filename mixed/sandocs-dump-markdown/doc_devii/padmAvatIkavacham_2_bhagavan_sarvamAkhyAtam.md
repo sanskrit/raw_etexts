@@ -1,21 +1,21 @@
-+++
-"Text title" = "padmAvatIkavacham 2"
-"File name" = "padmAvatIkavacham2.itx"
-itxtitle = "padmAvatIkavacham 2 (bhagavan sarvamAkhyAtam)"
-engtitle = "padmAvatIkavacham 2"
-Category = "devii, devI, jaina, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पद्मावतीकवचम् २ (भगवन् सर्वमाख्यातम्)"
+---
+Category: devii, devI, jaina, kavacha
+File name: padmAvatIkavacham2.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: padmAvatIkavacham 2
+engtitle: padmAvatIkavacham 2
+itxtitle: padmAvatIkavacham 2 (bhagavan sarvamAkhyAtam)
+title: पद्मावतीकवचम् २ (भगवन् सर्वमाख्यातम्)
 
-+++
+---
   
  श्रीपद्मावतीकवचम् २   
 भगवन् !  सर्वमाख्यातं मन्त्रं यन्त्रं शुभप्रदम् ।  

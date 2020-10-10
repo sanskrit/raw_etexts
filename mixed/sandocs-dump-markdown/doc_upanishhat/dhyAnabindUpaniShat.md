@@ -1,24 +1,24 @@
-+++
-"Text title" = "Dhyanabindu Upanishad"
-"File name" = "dhyanabindu.itx"
-itxtitle = "dhyAnabindUpaniShat"
-engtitle = "Dhyanabindu Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "39/108; Krishna Yajurveda, Yoga Upanishad"
-Indexextra = "(Translation)"
-"Latest update" = "February  11, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ध्यानबिन्दूपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 39/108; Krishna Yajurveda, Yoga Upanishad
+File name: dhyanabindu.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: February  11, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Dhyanabindu Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Dhyanabindu Upanishad
+itxtitle: dhyAnabindUpaniShat
+title: ध्यानबिन्दूपनिषत्
 
-+++
+---
   
  ध्यानबिन्दूपनिषत्   
   
@@ -49,7 +49,7 @@ title = "ध्यानबिन्दूपनिषत्"
 तिलमध्ये यथा तैलं पाषाणाष्विव काञ्चनम् ॥ ५॥  
   
 एवं सर्वाणि भूतानि मणौ सूत्र इवात्मनि ।  
-स्थिरबुद्धिरसंमूढो ब्रह्मविद्ब्रह्मणिस्थितः ॥ ६॥  
+स्थिरबुद्धिरसम्मूढो ब्रह्मविद्ब्रह्मणिस्थितः ॥ ६॥  
   
 तिलानां तु यथा तैलं पुष्पे गन्ध इवाश्रितः ।  
 पुरुषस्य शरीरे तु सबाह्याभ्यन्तरे स्थितः ॥ ७॥  
@@ -119,20 +119,20 @@ title = "ध्यानबिन्दूपनिषत्"
 तस्य मध्यगतं देवं वासुदेवं निरञ्जनम् ।  
 श्रीवत्सकौस्तुभोरस्कं मुक्तामणिविभूषितम् ॥ २८॥  
   
-शुद्धस्फटिकसंकाशं चन्द्रकोटिसमप्रभम् ।  
+शुद्धस्फटिकसङ्काशं चन्द्रकोटिसमप्रभम् ।  
 एवं ध्यायेन्महाविष्णुमेवं वा विनयान्वितः ॥ २९॥  
   
-अतसीपुष्पसंकाशं नाभिस्थाने प्रतिष्ठितम् ।  
+अतसीपुष्पसङ्काशं नाभिस्थाने प्रतिष्ठितम् ।  
 चतुर्भुजं महाविष्णुं पूरकेण विचिन्तयेत् ॥ ३०॥  
   
 कुम्भकेन हृदिस्थाने चिन्तयेत्कमलासनम् ।  
 ब्रह्माणं रक्तगौराभं चतुर्वक्त्रं पितामहम् ॥ ३१॥  
   
 रेचकेन तु विद्यात्मा ललाटस्थं त्रिलोचनम् ।  
-शुद्धस्फटिकसंकाशं निष्कलं पापनाशनम् ॥ ३२॥  
+शुद्धस्फटिकसङ्काशं निष्कलं पापनाशनम् ॥ ३२॥  
   
 अञ्जपत्रमधःपुष्पमूर्ध्वनालमधोमुखम् ।  
-कदलीपुष्पसंकाशं सर्ववेदमयं शिवम् ॥ ३३॥  
+कदलीपुष्पसङ्काशं सर्ववेदमयं शिवम् ॥ ३३॥  
   
 शतारं शतपत्राढ्यं विकीर्णाम्बुजकर्णिकम् ।  
 तत्रार्कचन्द्रवह्नीनामुपर्युपरि चिन्तयेत् ॥ ३४॥  
@@ -269,7 +269,7 @@ title = "ध्यानबिन्दूपनिषत्"
 बध्नाति हि शिरोजातमधोगामिनभोजलम् ॥ ७७॥  
   
 ततो जालन्धरो बन्धः कर्मदुःखौघनाशनः ।  
-जालन्धरे कृते बन्धे कर्णसंकोचलक्षणे ॥ ७८॥  
+जालन्धरे कृते बन्धे कर्णसङ्कोचलक्षणे ॥ ७८॥  
   
 न पीयूषं पतत्यग्नौ न च वायुः प्रधावति ।  
 कपालकुहरे जिह्वा प्रविष्टा विपरीतगा ॥ ७९॥  
@@ -296,7 +296,7 @@ title = "ध्यानबिन्दूपनिषत्"
 स एव द्विविधो बिन्दुः पाण्डरो लोहितस्तथा ॥ ८६॥  
   
 पाण्डरं शुक्रमित्याहुर्लोहिताख्यं महारजः ।  
-विद्रुमद्रुमसंकाशं योनिस्थाने स्थितं रजः ॥ ८७॥  
+विद्रुमद्रुमसङ्काशं योनिस्थाने स्थितं रजः ॥ ८७॥  
   
 शशिस्थाने वसेद्बिन्दुःस्तयोरैक्यं सुदुर्लभम् ।  
 बिन्दुः शिवो रजः शक्तिर्बिन्दुरिन्दू रजो रविः ॥ ८८॥  
@@ -388,9 +388,9 @@ title = "ध्यानबिन्दूपनिषत्"
 पूर्वोक्तत्रिकोणस्थानादुपरि पृथिव्यादिपञ्चवर्णकं ध्येयम् ।  
 प्राणादिपञ्चवायुश्च बीजं वर्णं च स्थानकम् ।  
 यकारं प्राणबीजं च नीलजीमूतसन्निभम् ।  
-रकारमग्निबीजं च अपानादित्यसंनिभम् ॥ ९५॥  
+रकारमग्निबीजं च अपानादित्यसन्निभम् ॥ ९५॥  
   
-लकारं पृथिवीरूपं व्यानं बन्धूकसंनिभम् ।  
+लकारं पृथिवीरूपं व्यानं बन्धूकसन्निभम् ।  
 वकारं जीवबीजं च उदानं शङ्खवर्णकम् ॥ ९६॥  
   
 हकारं वियत्स्वरूपं च समानं स्फटिकप्रभम् ।  

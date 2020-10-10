@@ -1,23 +1,23 @@
-+++
-"Text title" = "manoniyamanam with English translation"
-"File name" = "manoniyamanam.itx"
-itxtitle = "manoniyamanam (sArtham sadAshivendravirachitam)"
-engtitle = "manoniyamanam"
-Category = "major_works, sadAshivabrahmendra"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Sadashivendra Sarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Translated by" = "V Subrahmanian v.subrahmanian at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मनोनियमनम् (सार्थम् सदाशिवेन्द्रविरचितम्)"
+---
+Author: Sadashivendra Sarasvati
+Category: major_works, sadAshivabrahmendra
+File name: manoniyamanam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 2, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: manoniyamanam with English translation
+Translated by: V Subrahmanian v.subrahmanian at gmail.com
+engtitle: manoniyamanam
+itxtitle: manoniyamanam (sArtham sadAshivendravirachitam)
+title: मनोनियमनम् (सार्थम् सदाशिवेन्द्रविरचितम्)
 
-+++
+---
   
  मनोनियमनम् सार्थम्   
 आशीविषविषविषमैर्निमिषोन्मेषैर्निषेवितैर्विषयैः ।  

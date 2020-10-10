@@ -1,22 +1,22 @@
-+++
-"Text title" = "subrahmaNya trshatI nAmAvalI 2"
-"File name" = "subrahmaNyatrishatInAma2.itx"
-itxtitle = "subrahmaNyatrishatInAmAvaliH 2"
-engtitle = "subrahmaNyatrishatInAmAvalI 2"
-Category = "shatInAmAvalI, subrahmanya, nAmAvalI, trishatI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer,PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "May 12, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यत्रिशतीनामावलिः २"
+---
+Category: shatInAmAvalI, subrahmanya, nAmAvalI, trishatI
+File name: subrahmaNyatrishatInAma2.itx
+Language: Sanskrit
+Latest update: May 12, 2018
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan Iyer,PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNya trshatI nAmAvalI 2
+Texttype: nAmAvalI
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: subrahmaNyatrishatInAmAvalI 2
+itxtitle: subrahmaNyatrishatInAmAvaliH 2
+title: सुब्रह्मण्यत्रिशतीनामावलिः २
 
-+++
+---
   
  श्रीसुब्रह्मण्यत्रिशतीनामावलिः २   
 ॐ श्रीसुब्रह्मण्याय नमः ।  

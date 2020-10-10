@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ganesha Stuti by Prakriti and Purusha"
-"File name" = "gaNeshastutiHprakRRitipuruShayoH.itx"
-itxtitle = "gaNeshastutiH prakRitipuruShayoH (mudgalapurANAntargatA)"
-engtitle = "gaNeshastutiH prakRitipuruShayoH"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 6"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "गणेशस्तुतिः प्रकृइतिपुरुषयोः (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 6
+File name: gaNeshastutiHprakRRitipuruShayoH.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha Stuti by Prakriti and Purusha
+Transliterated by: NA
+engtitle: gaNeshastutiH prakRitipuruShayoH
+itxtitle: gaNeshastutiH prakRitipuruShayoH (mudgalapurANAntargatA)
+title: गणेशस्तुतिः प्रकृइतिपुरुषयोः (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  गणेशस्तुतिः प्रकृतिपुरुषयोः   
 श्रीगणेशाय नमः ।  
@@ -95,7 +95,7 @@ title = "गणेशस्तुतिः प्रकृइतिपुरु�
 सर्वाकारविहीनोऽयं तत्र भ्रान्तो भविष्यति ।  
 बिम्बबिम्बितभावेन प्रकृतौ मोहितः सदा ॥ ५४॥  
   
-स्वयं मोहविहीनः स सोऽहंमात्रात्मकः सदा ।  
+स्वयं मोहविहीनः स सोऽहम्मात्रात्मकः सदा ।  
 मत्प्रसादाद्भवेन्नित्यं ब्रह्म सोऽहं सुखात्मकः ॥ ५५॥  
   
 मदीया भक्तिरचला भविष्यति तवापि च ।  

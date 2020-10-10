@@ -1,25 +1,25 @@
-+++
-"Text title" = "Kranti Gitam"
-"File name" = "krAntigItam.itx"
-itxtitle = "krAntigItam (rAShTragItAnjaliH)"
-engtitle = "krAntigItam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Kapiladeva Dwivedi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Rashtragitanjali, Kapiladeva Dwivedi (Ed.)"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "क्रान्तिगीतम् (राष्ट्रगीताञ्जलिः)"
+---
+Acknowledge-Permission: Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi
+Author: Kapiladeva Dwivedi
+Category: misc, sanskritgeet
+Description/comments: Rashtragitanjali, Kapiladeva Dwivedi (Ed.)
+File name: krAntigItam.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Kranti Gitam
+Translated by: Mandar Mali
+engtitle: krAntigItam
+itxtitle: krAntigItam (rAShTragItAnjaliH)
+title: क्रान्तिगीतम् (राष्ट्रगीताञ्जलिः)
 
-+++
+---
   
  क्रान्तिगीतम्   
 (गीतिका) (स्रग्विणी वृत्तम्)  
@@ -45,7 +45,7 @@ title = "क्रान्तिगीतम् (राष्ट्रगीत
   
 जागृति सञ्चरेत्, क्रोधवह्नि सरेद्,  
      मातृ-दुःखाग्नि-दाहो जने सञ्चरेत् ।  
-व्योममालां प्रवर्धेत् स्फुलिंङ्गान् सदा  
+व्योममालां प्रवर्धेत् स्फुलिङ्ङ्गान् सदा  
      जीवने क्षोभमालां प्रवृद्धिं व्रजेन् ॥ क्रान्ति०॥  
   
 त्रायतां त्रायतां रक्ष्यतां रक्ष्यतां  

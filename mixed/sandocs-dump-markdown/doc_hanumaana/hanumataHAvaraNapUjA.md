@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumataHAvaraNapUjA"
-"File name" = "hanumataHAvaraNapUjA.itx"
-itxtitle = "hanumataHAvaraNapUjA"
-engtitle = "hanumataHAvaraNapUjA"
-Category = "pUjA, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमतःआवरणपूजा"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: pUjA, hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumataHAvaraNapUjA.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumataHAvaraNapUjA
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: hanumataHAvaraNapUjA
+itxtitle: hanumataHAvaraNapUjA
+title: हनुमतःआवरणपूजा
 
-+++
+---
   
  श्रीहनुमतः आवरणपूजा   
   

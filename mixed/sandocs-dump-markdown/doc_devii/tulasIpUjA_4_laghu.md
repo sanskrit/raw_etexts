@@ -1,25 +1,25 @@
-+++
-"Text title" = "tulasIpUjA 4"
-"File name" = "tulasIpUjA4.itx"
-itxtitle = "tulasIpUjA 4 (laghu)"
-engtitle = "tulasIpUjA 4"
-Category = "pUjA, devii, tulasI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar"
-Description-comments = "laghupUjA 2"
-Indexextra = "(TulasiPuja scanned)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "June 12, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलसीपूजा ४ (लघु)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: pUjA, devii, tulasI, devI
+Description-comments: laghupUjA 2
+File name: tulasIpUjA4.itx
+Indexextra: (TulasiPuja scanned)
+Language: Sanskrit
+Latest update: June 12, 2017
+Location: doc_devii
+Proofread by: Shree Devi Kumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulasIpUjA 4
+Transliterated by: Shree Devi Kumar
+engtitle: tulasIpUjA 4
+itxtitle: tulasIpUjA 4 (laghu)
+title: तुलसीपूजा ४ (लघु)
 
-+++
+---
   
  तुलसीपूजा ४  
   

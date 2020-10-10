@@ -1,23 +1,23 @@
-+++
-"Text title" = "1000 names for Natesha"
-"File name" = "naTeshasahasranAmAvalI.itx"
-itxtitle = "naTeshasahasranAmAvalI"
-engtitle = "naTeshasahasranAmAvalI"
-Category = "sahasranAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24xi at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24xi at gmail.com"
-Description-comments = "See corresponding stotra"
-Source = "stotra"
-"Latest update" = "April 16, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नटेशसहस्रनामावली"
+---
+Category: sahasranAmAvalI, shiva
+Description-comments: See corresponding stotra
+File name: naTeshasahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: April 16, 2019
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan shivakumar24xi at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: stotra
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: 1000 names for Natesha
+Transliterated by: Sivakumar Thyagarajan shivakumar24xi at gmail.com
+engtitle: naTeshasahasranAmAvalI
+itxtitle: naTeshasahasranAmAvalI
+title: नटेशसहस्रनामावली
 
-+++
+---
   
  श्रीनटेश्वरीनटेश्वरसम्मेलन सहस्रनामावली   
 अथ श्रीनटेशसहस्रनामस्तोत्रम् ।  

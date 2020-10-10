@@ -1,22 +1,22 @@
-+++
-"Text title" = "AtmAnusandhAnam"
-"File name" = "AtmAnusandhAnam.itx"
-itxtitle = "AtmAnusandhAnam (sadAshivendravirachitam)"
-engtitle = "AtmAnusandhAnam"
-Category = "major_works, sadAshivabrahmendra"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Sadashivendra Sarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आत्मानुसन्धानम् (सदाशिवेन्द्रविरचितम्)"
+---
+Author: Sadashivendra Sarasvati
+Category: major_works, sadAshivabrahmendra
+File name: AtmAnusandhAnam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 2, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: AtmAnusandhAnam
+engtitle: AtmAnusandhAnam
+itxtitle: AtmAnusandhAnam (sadAshivendravirachitam)
+title: आत्मानुसन्धानम् (सदाशिवेन्द्रविरचितम्)
 
-+++
+---
   
  आत्मानुसन्धानम्   
 त्रय्यन्तततिसंसिद्धशुद्धविद्यैकगोचरः ।  

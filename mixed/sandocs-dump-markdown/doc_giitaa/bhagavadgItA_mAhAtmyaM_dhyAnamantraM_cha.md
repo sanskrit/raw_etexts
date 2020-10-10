@@ -1,25 +1,25 @@
-+++
-"Text title" = "bhagavadgItA mAhAtmyaM dhyAnamantraM cha"
-"File name" = "bgmahat.itx"
-itxtitle = "bhagavadgItA mAhAtmyaM dhyAnamantraM cha"
-engtitle = "bhagavadgItA mAhAtmayaM and dhyAnamantra"
-Category = "gItA, giitaa, bhagavadgita, vyAsa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Subcategory = "bhagavadgita"
-Author = "Vyasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "Mahabharata"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवद्गीता माहात्म्यं ध्यानमन्त्रं च"
+---
+Author: Vyasa
+Category: gItA, giitaa, bhagavadgita, vyAsa
+Description-comments: Mahabharata
+File name: bgmahat.itx
+Language: Sanskrit
+Location: doc_giitaa
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhagavadgita
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: bhagavadgItA mAhAtmyaM dhyAnamantraM cha
+Transliterated by: NA
+engtitle: bhagavadgItA mAhAtmayaM and dhyAnamantra
+itxtitle: bhagavadgItA mAhAtmyaM dhyAnamantraM cha
+title: भगवद्गीता माहात्म्यं ध्यानमन्त्रं च
 
-+++
+---
   
- भगवद्गीता माहात्म्यं अथवा ध्यानमंत्र   
+ भगवद्गीता माहात्म्यं अथवा ध्यानमन्त्र   
   
           ॥ श्री परमात्मने नमः ॥  
   

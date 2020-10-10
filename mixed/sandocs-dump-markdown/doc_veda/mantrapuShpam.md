@@ -1,23 +1,23 @@
-+++
-"Text title" = "mantrapushhpaM"
-"File name" = "mantrapushpa.itx"
-itxtitle = "mantrapuShpam"
-engtitle = "Mantrapushpa"
-Category = "veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-"Proofread by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-"Latest update" = "June 14, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मन्त्रपुष्पम्"
+---
+Author: Vedic Tradition
+Category: veda, svara
+File name: mantrapushpa.itx
+Language: Sanskrit
+Latest update: June 14, 2000
+Location: doc_veda
+Proofread by: Rajagopal Iyer (rajsand at yahoo.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: veda
+Text title: mantrapushhpaM
+Texttype: svara
+Transliterated by: Rajagopal Iyer (rajsand at yahoo.com)
+engtitle: Mantrapushpa
+itxtitle: mantrapuShpam
+title: मन्त्रपुष्पम्
 
-+++
+---
   
  मन्त्रपुष्पं   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Dattatreya Stuti"
-"File name" = "dattAtreyastutiH.itx"
-itxtitle = "dattAtreyastutiH (shrIdharasvAmIvirachitam)"
-engtitle = "Dattatreya Stuti"
-Category = "deities_misc, shrIdharasvAmI, dattatreya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "shrIdharasvAmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "June 8, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयस्तुतिः (श्रीधरस्वामीविरचितम्)"
+---
+Author: shrIdharasvAmI
+Category: deities_misc, shrIdharasvAmI, dattatreya
+File name: dattAtreyastutiH.itx
+Language: Sanskrit
+Latest update: June 8, 2019
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Dattatreya Stuti
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Dattatreya Stuti
+itxtitle: dattAtreyastutiH (shrIdharasvAmIvirachitam)
+title: दत्तात्रेयस्तुतिः (श्रीधरस्वामीविरचितम्)
 
-+++
+---
   
  श्रीदत्तात्रेयस्तुतिः   
 जगत्सत्यं वा नो न च तनुरहं वा तनुरहं  

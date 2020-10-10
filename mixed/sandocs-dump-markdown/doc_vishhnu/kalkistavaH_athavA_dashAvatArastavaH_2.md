@@ -1,24 +1,24 @@
-+++
-"Text title" = "kalkistavaH"
-"File name" = "kalkistavaH.itx"
-itxtitle = "kalkistavaH athavA dashAvatArastavaH 2"
-engtitle = "kalkistavaH or dashAvatArastavaH 2"
-Category = "vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Ravindra Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravindra Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "kalkipurANa"
-"Latest update" = "March 19, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कल्किस्तवः अथवा दशावतारस्तवः २"
+---
+Category: vishhnu, dashAvatAra, stotra, vishnu
+Description-comments: kalkipurANa
+File name: kalkistavaH.itx
+Language: Sanskrit
+Latest update: March 19, 2004
+Location: doc_vishhnu
+Proofread by: Ravindra Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: kalkistavaH
+Texttype: stotra
+Transliterated by: Ravindra Bhalekar ravibhalekar at hotmail.com
+engtitle: kalkistavaH or dashAvatArastavaH 2
+itxtitle: kalkistavaH athavA dashAvatArastavaH 2
+title: कल्किस्तवः अथवा दशावतारस्तवः २
 
-+++
+---
   
  कल्किस्तवः अथवा दशावतारस्तवः   
   
@@ -33,7 +33,7 @@ title = "कल्किस्तवः अथवा दशावतारस्
 पर्वतोद्धरणामृतप्राशनरचनावतारः कूर्माकारः प्रसीद  
 परेश त्वं दीननृपाणाम् ॥ २॥  
   
-पुनरिह दितिजबलपरिलंघितवासवसूदनादृत  
+पुनरिह दितिजबलपरिलङ्घितवासवसूदनादृत  
 जितभुवनपराक्रमहिरण्याक्षनिधन  
 पृथिव्युद्धरणसङ्कल्पाभिनिवेशेन धृतकोलावतार पाहि नः ॥ ३॥  
   
@@ -45,12 +45,12 @@ title = "कल्किस्तवः अथवा दशावतारस्
 नखाग्रभिन्नोरुं दष्टदन्तच्छदं त्यक्तासुं कृतवानसि ॥ ४॥  
   
 पुनरिह त्रिजगज्जयिनो बलेः सत्रे शक्रानुजो बटुवामनो  
-दैत्यसंमोहनाय त्रिपदभूमियाञ्चाच्छलेन  
+दैत्यसम्मोहनाय त्रिपदभूमियाञ्चाच्छलेन  
 विश्वकायस्तदुत्सृष्टजलसंस्पर्शविवृद्धमनोऽभिलाषस्त्वं  
 भूतले बलेर्दौवारिकत्वमङ्गीकृतमुचितं दानफलम् ॥ ५॥  
   
 पुनरिह हैहयादिनृपाणाममितबलपराक्रमाणां  
-नानामदोल्लंघितमर्यादावर्त्मनां निधनाय भृगुवंशजो  
+नानामदोल्लङ्घितमर्यादावर्त्मनां निधनाय भृगुवंशजो  
 जामदग्न्यः पितृहोमधेनुहरणप्रवृद्धमन्युवशात्  
 त्रिःसप्तकृत्वो निःक्षत्रियां पृथिवीं कृतवानसि  
 परशुरामावतारः ॥ ६॥  
@@ -66,11 +66,11 @@ title = "कल्किस्तवः अथवा दशावतारस्
 विविधदानवदैत्यदलनलोकत्रयदुरिततापनो वसुदेवात्मजो  
 कृष्णावतारो बलभद्रस्त्वमसि ॥ ८॥  
   
-पुनरिह विधिकृतवेदधर्मानुष्ठानविहितनानादर्शनसंघृणः  
+पुनरिह विधिकृतवेदधर्मानुष्ठानविहितनानादर्शनसङ्घृणः  
 संसारकर्मत्यागविधिना ब्रह्माभासविलासचातुरीं  
 प्रकृतिविमाननामसम्पादयन् बुद्धावतारस्त्वमसि ॥ ९॥  
   
-अधुना कलिकुलनाशावतारो बौद्धपाषण्डम्लेंच्छादीनां च  
+अधुना कलिकुलनाशावतारो बौद्धपाषण्डम्लेञ्च्छादीनां च  
 वेदधर्मसेतुपरिपालनाय कृतावतारः कल्किरूपेणास्मान्  
 स्त्रीत्वनिरयादुद्धृतवानसि तवानुकम्पां किमिह कथयाम् ॥ १०॥  
   

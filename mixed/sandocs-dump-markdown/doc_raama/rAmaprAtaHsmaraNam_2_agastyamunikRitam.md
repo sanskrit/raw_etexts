@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmaprAtaHsmaraNam 2"
-"File name" = "rAmaprAtaHsmaraNam2.itx"
-itxtitle = "rAmaprAtaHsmaraNam 2 (agastyamunikRitam)"
-engtitle = "rAmaprAtaHsmaraNam 2"
-Category = "raama, suprabhAta, panchaka"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Agastyamuni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rashmi R rashmirjois at gmail.com"
-"Proofread by" = "Rashmi R rashmirjois at gmail.com, NA"
-Indexextra = "(Scan)"
-"Latest update" = "April 19, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामप्रातःस्मरणम् २ (अगस्त्यमुनिकृइतम्)"
+---
+Author: Agastyamuni
+Category: raama, suprabhAta, panchaka
+File name: rAmaprAtaHsmaraNam2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 19, 2019
+Location: doc_raama
+Proofread by: Rashmi R rashmirjois at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmaprAtaHsmaraNam 2
+Transliterated by: Rashmi R rashmirjois at gmail.com
+engtitle: rAmaprAtaHsmaraNam 2
+itxtitle: rAmaprAtaHsmaraNam 2 (agastyamunikRitam)
+title: रामप्रातःस्मरणम् २ (अगस्त्यमुनिकृइतम्)
 
-+++
+---
   
  श्रीरामप्रातःस्मरणम्   
 प्रातः स्मरामि रघुनाथमुखारविन्दं  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "chandrakavacham"
-"File name" = "chandrakavach.itx"
-itxtitle = "chandrakavacham"
-engtitle = "chandrakavacham"
-Category = "kavacha, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com)"
-"Proofread by" = "Ravin Bhalekar, Kirk Wortman"
-"Latest update" = "November 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्रकवचम्"
+---
+Author: Traditional
+Category: kavacha, navagraha
+File name: chandrakavach.itx
+Language: Sanskrit
+Latest update: November 11, 2018
+Location: doc_z_misc_navagraha
+Proofread by: Ravin Bhalekar, Kirk Wortman
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: chandrakavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com)
+engtitle: chandrakavacham
+itxtitle: chandrakavacham
+title: चन्द्रकवचम्
 
-+++
+---
   
  चन्द्रकवचम्   
 श्रीगणेशाय नमः ।  

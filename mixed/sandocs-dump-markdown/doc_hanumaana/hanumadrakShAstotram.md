@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumadrakShAstotram"
-"File name" = "hanumadrakShAstotram.itx"
-itxtitle = "hanumadrakShAstotram"
-engtitle = "hanumadrakShAstotram"
-Category = "raksha, hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "September 19, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमद्रक्षास्तोत्रम्"
+---
+Category: raksha, hanumaana, stotra, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumadrakShAstotram.itx
+Language: Sanskrit
+Latest update: September 19, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumadrakShAstotram
+Texttype: stotra
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: hanumadrakShAstotram
+itxtitle: hanumadrakShAstotram
+title: हनुमद्रक्षास्तोत्रम्
 
-+++
+---
   
  श्रीहनुमद्रक्षास्तोत्रम्   
   

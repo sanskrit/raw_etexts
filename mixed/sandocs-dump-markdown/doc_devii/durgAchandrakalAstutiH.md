@@ -1,25 +1,27 @@
-+++
-"Text title" = "durgAchandrakalAstutiH"
-"File name" = "durgAchandra.itx"
-itxtitle = "durgAchandrakalAstutiH"
-engtitle = "durgAchandrakalAstutiH"
-Category = "devii, durgA, stotra, appayya-dIkShita, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Author = "Shri Appaya Dikshita"
-Language = "Sanskrit"
-Subject = "stotra/hinduism/religion"
-"Transliterated by" = "Sridhar  Seshagiri seshagir at engineering.sdsu.edu"
-"Proofread by" = "Sridhar  Seshagiri seshagir at engineering.sdsu.edu. Corrected by Viswapathi Gopalakrishnan vis_gop at rediffmail.com son of BrahmaSri Viswapathi Sastrigal, residing in Nanganallur"
-Indexextra = "(Video)"
-"Latest update" = "February 28, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गाचन्द्रकलास्तुतिः"
+---
+Author: Shri Appaya Dikshita
+Category: devii, durgA, stotra, appayya-dIkShita, devI
+File name: durgAchandra.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: February 28, 2005
+Location: doc_devii
+Proofread by: Sridhar  Seshagiri seshagir at engineering.sdsu.edu. Corrected by Viswapathi
+  Gopalakrishnan vis_gop at rediffmail.com son of BrahmaSri Viswapathi Sastrigal,
+  residing in Nanganallur
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: stotra/hinduism/religion
+Sublocation: devii
+Text title: durgAchandrakalAstutiH
+Texttype: stotra
+Transliterated by: Sridhar  Seshagiri seshagir at engineering.sdsu.edu
+engtitle: durgAchandrakalAstutiH
+itxtitle: durgAchandrakalAstutiH
+title: दुर्गाचन्द्रकलास्तुतिः
 
-+++
+---
   
  दुर्गाचन्द्रकलास्तुती   
   
@@ -63,7 +65,7 @@ title = "दुर्गाचन्द्रकलास्तुतिः"
   
 माहिष्मतीतनुभवं च रुरूं च हन्तुं  
 आविष्कृतैर्निजरसादवतारभेदैः ।  
-अष्टादशाहतनवाहतकोटिसंख्यैः  
+अष्टादशाहतनवाहतकोटिसङ्ख्यैः  
 अम्बा सदा समभिरक्षतु मां विपद्भ्यः ॥ ९ ॥  
   
 एतच्चरित्रमखिलं लिखितं हि यस्याः  
@@ -71,7 +73,7 @@ title = "दुर्गाचन्द्रकलास्तुतिः"
 दुर्गं च तारयति दुस्तरमप्यशेषं  
 श्रेयः प्रयच्छति च सर्वमुमां भजेताम् ॥ १० ॥  
   
-यत्पूजनस्तुतिनमस्कृतिंभिर्भवन्ति  
+यत्पूजनस्तुतिनमस्कृतिम्भिर्भवन्ति  
 प्रीताः पितामह रमेशहरास्त्रयोऽपि ।  
 तेषामपि स्वकगुर्णंर्ददती वपूंषि  
 तामीश्वरस्य तरुणीं शरणं प्रपद्ये ॥ ११ ॥  
@@ -98,7 +100,7 @@ title = "दुर्गाचन्द्रकलास्तुतिः"
   
 यद्ध्यानजं सुखमवाप्यमनन्तपुण्यैः  
 साक्षात्तमच्युत परिग्रहमाश्व वापुः  
-गोपांगनाः किल यदर्चन पुण्यमात्रा  
+गोपाङ्गनाः किल यदर्चन पुण्यमात्रा  
 सा मे सदा भगवती भवतु प्रसन्ना ॥ १६ ॥  
   
 रात्रिं प्रपद्य इति मन्त्रविदः प्रपन्नान्  

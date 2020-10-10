@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNeshastavarAja bhaviShyapurANe"
-"File name" = "gaNeshastavarAjabhaviShyapurANa.itx"
-itxtitle = "gaNeshastavarAjaH (bhaviShyottarapurANAntargataH)"
-engtitle = "Ganeshastavaraja from Bhavishyottara Purana"
-Category = "stavarAja, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pranav and Vrushali Tendulkar pranav.tendulkar at gmail.com"
-"Proofread by" = "Pranav and Vrushali Tendulkar pranav.tendulkar at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "August 4, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तवराजः (भविष्योत्तरपुराणान्तर्गतः)"
+---
+Category: stavarAja, ganesha
+File name: gaNeshastavarAjabhaviShyapurANa.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 4, 2013
+Location: doc_ganesha
+Proofread by: Pranav and Vrushali Tendulkar pranav.tendulkar at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshastavarAja bhaviShyapurANe
+Transliterated by: Pranav and Vrushali Tendulkar pranav.tendulkar at gmail.com
+engtitle: Ganeshastavaraja from Bhavishyottara Purana
+itxtitle: gaNeshastavarAjaH (bhaviShyottarapurANAntargataH)
+title: गणेशस्तवराजः (भविष्योत्तरपुराणान्तर्गतः)
 
-+++
+---
   
  श्रीगणेशस्तवराज भविष्योत्तरपुराणे   
   

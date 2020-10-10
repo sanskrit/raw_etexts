@@ -1,22 +1,22 @@
-+++
-"Text title" = "badarInAthAShTakam"
-"File name" = "badarInAtha8.itx"
-itxtitle = "badarInAthAShTakam"
-engtitle = "badarInAthAShTakam"
-Category = "aShTaka, vishhnu, vishnu_misc, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "May 3, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बदरीनाथाष्टकम्"
+---
+Category: aShTaka, vishhnu, vishnu_misc, vishnu
+File name: badarInAtha8.itx
+Language: Sanskrit
+Latest update: May 3, 2008
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: badarInAthAShTakam
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: badarInAthAShTakam
+itxtitle: badarInAthAShTakam
+title: बदरीनाथाष्टकम्
 
-+++
+---
   
  श्रीबदरीनाथाष्टकम्   
   

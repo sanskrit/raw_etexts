@@ -1,24 +1,24 @@
-+++
-"Text title" = "Garuda Upanishad"
-"File name" = "garuda.itx"
-itxtitle = "garuDopaniShat"
-engtitle = "Garuda Upanishad"
-Category = "upanishhat, svara, upanishad, deities_misc"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "102 / 108; Atharva Veda - Vaishnava upanishad."
-"Latest update" = "August  15, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गरुडोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, svara, upanishad, deities_misc
+Description-comments: 102 / 108; Atharva Veda - Vaishnava upanishad.
+File name: garuda.itx
+Language: Sanskrit
+Latest update: August  15, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Garuda Upanishad
+Texttype: svara
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Garuda Upanishad
+itxtitle: garuDopaniShat
+title: गरुडोपनिषत्
 
-+++
+---
   
  गरुडोपनिषत्   
   
@@ -74,7 +74,7 @@ title = "गरुडोपनिषत्"
 विषं नाशयते शीघ्रं तूलरशिमिवानलः ॥ ९॥  
   
 ओमीमों नमो भगवते श्रीमहागरुडाय पक्षीन्द्राय  
-विष्णुवल्लभाय त्रैलोक्यपरिपूजिताय उग्रभयंकरकालानलरूपाय  
+विष्णुवल्लभाय त्रैलोक्यपरिपूजिताय उग्रभयङ्करकालानलरूपाय  
 वज्रनखाय वज्रतुण्डाय वज्रदन्ताय वज्रदंष्ट्राय  
 वज्रपुच्छाय वज्रपक्षालक्षितशरीराय ओमीकेह्येहि  
 श्रीमहागरुडाप्रतिशासनास्मिन्नाविशाविश दुष्टानां  
@@ -83,7 +83,7 @@ title = "गरुडोपनिषत्"
 प्रणाशयप्रणाशय सर्वविषं नाशयनाशय हनहन  
 दहदह पचपच भस्मीकुरुभस्मीकुरु हुं फट् स्वाहा ॥  
   
-चन्द्रमण्डलसंकाश सूर्यमण्डलमुष्टिक ।  
+चन्द्रमण्डलसङ्काश सूर्यमण्डलमुष्टिक ।  
 पृथ्वीमण्डलमुद्राङ्ग श्रीमहागरुडाय विषं  
 हरहर हुं फट् स्वाहा ॥ ॐ क्षिप स्वाहा ॥ ओमीं  
 सचरति सचरति तत्कारी मत्कारी विषाणां च विषरूपिणी  
@@ -92,7 +92,7 @@ title = "गरुडोपनिषत्"
 विषं हतं ते ब्रह्मणा विषं हतमिन्द्रस्य वज्रेण स्वाहा ॥  
   
 ॐ नमो भगवते महागरुडाय विष्णुवाहनाय  
-त्रैलोक्यपरिपूजिताय वज्रनखवज्रतुण्डाय वज्रपक्षालंकृत-  
+त्रैलोक्यपरिपूजिताय वज्रनखवज्रतुण्डाय वज्रपक्षालङ्कृत-  
 शरीराय एह्येहि महागरुड विषं छिन्धिच्छिन्धि  
 आवेशयावेशय हुं फट् स्वाहा ॥  
   
@@ -163,7 +163,7 @@ title = "गरुडोपनिषत्"
 गृहगोधिकानां घ्रणासानां गृहगिरिगह्वरकालानलवल्मीकोद्भूतानां  
 तार्णानां पार्णानां काष्ठदारुवृक्षकोटरस्थानां  
 मूलत्वग्दारुनिर्यासपत्रपुष्पफलोद्भूतानां दुष्टकीटकपिश्वान-  
-मार्जारजंबुकव्याघ्रवराहाणां जरायुजाण्डजोद्भिज्जस्वेदजानां  
+मार्जारजम्बुकव्याघ्रवराहाणां जरायुजाण्डजोद्भिज्जस्वेदजानां  
 शस्त्रबाणक्षतस्फोटव्रणमहाव्रणकृतानां कृत्रिमाणामन्येषां  
 भूतवेतालकूष्माण्डपिशाचप्रेतराक्षसयक्षभयप्रदानां  
 विषतुण्डदंष्ट्रानां विषाङ्गानां विषपुच्छानां विषाणां  

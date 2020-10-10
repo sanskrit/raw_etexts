@@ -1,22 +1,22 @@
-+++
-"Text title" = "tulasInAmaShoDashakastotram"
-"File name" = "tulasInAmaShoDashakastotram.itx"
-itxtitle = "tulasInAmaShoDashakastotram"
-engtitle = "tulasInAmaShoDashakastotram"
-Category = "devii, tulasI, stotra, devI, ShoDasha, nAmAvalI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar, PSA Easwaran"
-"Latest update" = "August 28, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलसीनामषोडशकस्तोत्रम्"
+---
+Category: devii, tulasI, stotra, devI, ShoDasha, nAmAvalI
+File name: tulasInAmaShoDashakastotram.itx
+Language: Sanskrit
+Latest update: August 28, 2017
+Location: doc_devii
+Proofread by: Shree Devi Kumar, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulasInAmaShoDashakastotram
+Transliterated by: Shree Devi Kumar
+engtitle: tulasInAmaShoDashakastotram
+itxtitle: tulasInAmaShoDashakastotram
+title: तुलसीनामषोडशकस्तोत्रम्
 
-+++
+---
   
  श्रीतुलसीषोडशकनामस्तोत्रं नामावलिश्च   
 ॥ श्रीतुलसीषोडशकनामस्तोत्रं नामावलिश्च ॥  

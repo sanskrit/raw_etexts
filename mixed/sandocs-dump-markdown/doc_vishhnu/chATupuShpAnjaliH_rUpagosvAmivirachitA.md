@@ -1,25 +1,27 @@
-+++
-"Text title" = "chATupuShpAnjaliH"
-"File name" = "chATupuShpAnjaliH.itx"
-itxtitle = "chATupuShpAnjaliH (rUpagosvAmivirachitA)"
-engtitle = "chATupuShpAnjaliH"
-Category = "vishhnu, krishna, rUpagosvAmin, stavamAlA"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Rupagoswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional Prayers stavamAlA"
-Indexextra = "(Scan, Bengali, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चाटुपुष्पाञ्जलिः (रूपगोस्वामिविरचिता)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Rupagoswami
+Category: vishhnu, krishna, rUpagosvAmin, stavamAlA
+Description/comments: From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional
+  Prayers stavamAlA
+File name: chATupuShpAnjaliH.itx
+Indexextra: (Scan, Bengali, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: chATupuShpAnjaliH
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: chATupuShpAnjaliH
+itxtitle: chATupuShpAnjaliH (rUpagosvAmivirachitA)
+title: चाटुपुष्पाञ्जलिः (रूपगोस्वामिविरचिता)
 
-+++
+---
   
  चाटुपुष्पाञ्जलिः   
   

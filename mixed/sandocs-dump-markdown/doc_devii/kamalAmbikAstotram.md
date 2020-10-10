@@ -1,22 +1,22 @@
-+++
-"Text title" = "kamalAmbikAstotram"
-"File name" = "kamalAmbikAstotram.itx"
-itxtitle = "kamalAmbikAstotram"
-engtitle = "kamalAmbikAstotram"
-Category = "devii, pArvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कमलाम्बिकास्तोत्रम्"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: devii, pArvatI, devI
+File name: kamalAmbikAstotram.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kamalAmbikAstotram
+engtitle: kamalAmbikAstotram
+itxtitle: kamalAmbikAstotram
+title: कमलाम्बिकास्तोत्रम्
 
-+++
+---
   
  श्रीकमलाम्बिकास्तोत्रम्   
 बन्धूकद्युतिमिन्दुबिम्बवदनां वृन्दारकैर्वन्दितां  

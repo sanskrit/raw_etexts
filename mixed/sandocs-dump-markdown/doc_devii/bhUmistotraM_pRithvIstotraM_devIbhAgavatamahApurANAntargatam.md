@@ -1,25 +1,25 @@
-+++
-"Text title" = "bhUmistotram"
-"File name" = "bhUmistotram.itx"
-itxtitle = "bhUmistotraM pRithvIstotraM (devIbhAgavatamahApurANAntargatam)"
-engtitle = "bhUmistotram"
-Category = "devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran"
-Source = "Devi Bhagavat Mahapurana 9.9"
-Indexextra = "(Marathi)"
-Acknowledge-Permission = "Vishwas Bhide http://satsangdhara.net"
-"Latest update" = "June 13, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भूमिस्तोत्रं पृइथ्वीस्तोत्रं (देवीभागवतमहापुराणान्तर्गतम्)"
+---
+Acknowledge-Permission: Vishwas Bhide http://satsangdhara.net
+Category: devii, otherforms, devI
+File name: bhUmistotram.itx
+Indexextra: (Marathi)
+Language: Sanskrit
+Latest update: June 13, 2017
+Location: doc_devii
+Proofread by: Vishwas Bhide, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Devi Bhagavat Mahapurana 9.9
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhUmistotram
+Transliterated by: Vishwas Bhide
+engtitle: bhUmistotram
+itxtitle: bhUmistotraM pRithvIstotraM (devIbhAgavatamahApurANAntargatam)
+title: भूमिस्तोत्रं पृइथ्वीस्तोत्रं (देवीभागवतमहापुराणान्तर्गतम्)
 
-+++
+---
   
  भूमिस्तोत्रम्   
   

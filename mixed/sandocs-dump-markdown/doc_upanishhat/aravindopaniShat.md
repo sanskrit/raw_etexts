@@ -1,24 +1,24 @@
-+++
-"Text title" = "AravindopaniShad"
-"File name" = "aravindopaniShat.itx"
-itxtitle = "aravindopaniShat"
-engtitle = "Aravindopanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Proofread by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Translated by" = "in Tamil by P. R. Kannan"
-Indexextra = "(audio, Tamil translation and commentary)"
-"Latest update" = "March 4, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अरविन्दोपनिषत्"
+---
+Author: Traditional
+Category: upanishhat, upanishad
+File name: aravindopaniShat.itx
+Indexextra: (audio, Tamil translation and commentary)
+Language: Sanskrit
+Latest update: March 4, 2016
+Location: doc_upanishhat
+Proofread by: P. R. Kannan prkannanvashi at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: AravindopaniShad
+Translated by: in Tamil by P. R. Kannan
+Transliterated by: P. R. Kannan prkannanvashi at yahoo.com
+engtitle: Aravindopanishad
+itxtitle: aravindopaniShat
+title: अरविन्दोपनिषत्
 
-+++
+---
   
  श्रीअरविन्दोपनिषत्   
 ॐ । एकमेवाद्वितीयं ब्रह्म सदसद्रूपं सदसदतीतं  

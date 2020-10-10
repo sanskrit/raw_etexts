@@ -1,23 +1,23 @@
-+++
-"Text title" = "Parthasarathi Suprabhatam"
-"File name" = "pArthasArathisuprabhAtam.itx"
-itxtitle = "pArthasArathisuprabhAtam"
-engtitle = "pArthasArathisuprabhAtam"
-Category = "vishhnu, suprabhAta, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "May 23, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "पार्थसारथिसुप्रभातम्"
+---
+Category: vishhnu, suprabhAta, krishna
+File name: pArthasArathisuprabhAtam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 23, 2020
+Location: doc_vishhnu
+Proofread by: NA, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Parthasarathi Suprabhatam
+Transliterated by: NA
+engtitle: pArthasArathisuprabhAtam
+itxtitle: pArthasArathisuprabhAtam
+title: पार्थसारथिसुप्रभातम्
 
-+++
+---
   
  श्रीपार्थसारथि सुप्रभातम्   
 कौसल्या-सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते  
@@ -66,7 +66,7 @@ title = "पार्थसारथिसुप्रभातम्"
   
 ब्रह्मादयस्सुरपतिप्रमुखा दिगीशाः  
      स्वस्वाधिकारनियतास्तव सैन्यनाथाः ।  
-संप्रार्थयन्ति तव सद्मपुरोविभागे  
+सम्प्रार्थयन्ति तव सद्मपुरोविभागे  
      श्रीपार्थसूत भगवंस्तव सुप्रभातम् ॥ ९॥  
   
 गोपाङ्गनास्तव हि मङ्गलगीतकानि  
@@ -110,8 +110,8 @@ title = "पार्थसारथिसुप्रभातम्"
      श्रीपार्थसूत भगवंस्तव सुप्रभातम् ॥ १७॥  
   
 सूर्योदये ग्रहगणास्त्वितरे सुरेन्द्राः  
-     आज्ञां तवैव निजवैभवसंप्रयुक्ताः ।  
-संप्रार्थ्य तोषितुमिहाद्य जगत्पतिं त्वां  
+     आज्ञां तवैव निजवैभवसम्प्रयुक्ताः ।  
+सम्प्रार्थ्य तोषितुमिहाद्य जगत्पतिं त्वां  
      तिष्ठन्ति पार्थरथनायक सुप्रभातम् ॥ १८॥  
   
 नित्यार्चनां रचयितुं विविधोपहारान्  

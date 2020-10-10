@@ -1,22 +1,22 @@
-+++
-"Text title" = "Sundarabahustavah"
-"File name" = "sundarabAhustavaH.itx"
-itxtitle = "sundarabAhustavaH (panchastavyAm 3)"
-engtitle = "sundarabAhustavaH"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Ramanuja Stotramala"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुन्दरबाहुस्तवः (पञ्चस्तव्याम् ३)"
+---
+Category: vishhnu
+Description/comments: Ramanuja Stotramala
+File name: sundarabAhustavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Sundarabahustavah
+engtitle: sundarabAhustavaH
+itxtitle: sundarabAhustavaH (panchastavyAm 3)
+title: सुन्दरबाहुस्तवः (पञ्चस्तव्याम् ३)
 
-+++
+---
   
  सुन्दरबाहुस्तवः   
 पञ्चस्तव्यां ३ सुन्दरबाहुस्तवः  
@@ -453,7 +453,7 @@ title = "सुन्दरबाहुस्तवः (पञ्चस्तव
       श्रीमन् ! सुन्दर ! सेतुबन्धनमुखाः क्रीडास्तवाडम्बरम् ॥ १०५॥  
   
 रघुकुलतिलक ! त्वं जातुचिद्यातुधान-  
-      च्छलमृगमृगयायां संप्रसक्तः पुराऽभूः ।  
+      च्छलमृगमृगयायां सम्प्रसक्तः पुराऽभूः ।  
 तदुपजनितखेदच्छेदनायाद्य गायन्-  
       मधुकरतरुषण्डं रज्यसे किं वनाद्रिम् ॥ १०६॥  
   

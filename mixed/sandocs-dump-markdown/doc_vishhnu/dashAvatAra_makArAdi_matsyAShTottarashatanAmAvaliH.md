@@ -1,29 +1,30 @@
-+++
-"Text title" = "makArAdi matsyAShTottarashatanAmAvaliH"
-"File name" = "makArAdimatsya108nAmAvaliH.itx"
-itxtitle = "dashAvatAra makArAdi matsyAShTottarashatanAmAvaliH"
-engtitle = "makArAdi matsyAShTottarashatanAmAvaliH"
-Category = "aShTottarashatanAmAvalI, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "paNDita shrI bellaMkoNDa rAmarAya kavIndra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA"
-"Latest update" = "January 24, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतार मकारादि मत्स्याष्टोत्तरशतनामावलिः"
+---
+Author: paNDita shrI bellaMkoNDa rAmarAya kavIndra
+Category: aShTottarashatanAmAvalI, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra,
+  vishnu
+File name: makArAdimatsya108nAmAvaliH.itx
+Language: Sanskrit
+Latest update: January 24, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: makArAdi matsyAShTottarashatanAmAvaliH
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: makArAdi matsyAShTottarashatanAmAvaliH
+itxtitle: dashAvatAra makArAdi matsyAShTottarashatanAmAvaliH
+title: दशावतार मकारादि मत्स्याष्टोत्तरशतनामावलिः
 
-+++
+---
   
  मकारादि श्रीमत्स्याष्टोत्तरशतनामावलिः   
   
 ॐ मत्स्याय नमः ।  
-ॐ महालयाम्बोधि संचारिणे नमः ।  
+ॐ महालयाम्बोधि सञ्चारिणे नमः ।  
 ॐ मनुपालकाय नमः ।  
 ॐ महीनौकापृष्ठदेशाय नमः ।  
 ॐ महासुरविनाशनाय नमः ।  
@@ -34,7 +35,7 @@ title = "दशावतार मकारादि मत्स्याष्
 ॐ महासत्वाय नमः । १०  
 ॐ महायादोगणभुजे नमः ।  
 ॐ मधुराकृतये नमः ।  
-ॐ मन्दोल्लुंठनसङ्क्षुब्धसिन्धु भङ्गहतोर्ध्वखाय नमः ।  
+ॐ मन्दोल्लुण्ठनसङ्क्षुब्धसिन्धु भङ्गहतोर्ध्वखाय नमः ।  
 ॐ महाशयाय नमः ।  
 ॐ महाधीराय नमः ।  
 ॐ महौषधिसमुद्धराय नमः ।  
@@ -116,7 +117,7 @@ title = "दशावतार मकारादि मत्स्याष्
 ॐ मग्नलोकाय नमः ।  
 ॐ महाशान्तये नमः ।  
 ॐ महन्महसे नमः ।  
-ॐ महावेदाब्धिसंचारिणे नमः ।  
+ॐ महावेदाब्धिसञ्चारिणे नमः ।  
 ॐ महात्मने नमः ।  
 ॐ मोहितात्मभुवे नमः ।  
 ॐ मन्त्रस्मृतिभ्रंशहेतवे नमः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "vidyAshankarapancharatnastavaH"
-"File name" = "vidyAshankarapancharatnastavaH.itx"
-itxtitle = "vidyAshaNkarapancharatnastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "vidyAshankarapancharatnastavaH"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, pancharatna"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudeva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विद्याशण्करपञ्चरत्नस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, pancharatna
+File name: vidyAshankarapancharatnastavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudeva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vidyAshankarapancharatnastavaH
+engtitle: vidyAshankarapancharatnastavaH
+itxtitle: vidyAshaNkarapancharatnastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: विद्याशण्करपञ्चरत्नस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीविद्याशङ्करपञ्चरत्नस्तवः   
 विद्याशङ्कर मां त्वं विद्याशं कुरु सदैव करुणाब्धे ।  

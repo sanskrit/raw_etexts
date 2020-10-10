@@ -1,23 +1,23 @@
-+++
-"Text title" = "Guha Gita"
-"File name" = "guhagiitaa.itx"
-itxtitle = "guhagItA"
-engtitle = "Guha Gita"
-Category = "gItA, giitaa, subrahmanya"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi, PSA Easwaran psaeaswaran at gmail.com"
-Source = "Subrahmanyastutimanjari, Mahaperiaval Trust"
-Indexextra = "(Subrahmanyastutimanjari)"
-"Latest update" = "June 7, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुहगीता"
+---
+Category: gItA, giitaa, subrahmanya
+File name: guhagiitaa.itx
+Indexextra: (Subrahmanyastutimanjari)
+Language: Sanskrit
+Latest update: June 7, 2015
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Subrahmanyastutimanjari, Mahaperiaval Trust
+Subject: philosophy
+Sublocation: giitaa
+Text title: Guha Gita
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Guha Gita
+itxtitle: guhagItA
+title: गुहगीता
 
-+++
+---
   
  गुहगीता   
 अथ गुहगीता प्रारम्भः ।  

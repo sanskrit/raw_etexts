@@ -1,25 +1,25 @@
-+++
-"Text title" = "viprapatnIkRitaM shrIkRiShNastotram"
-"File name" = "viprapatnikrishnastotra.itx"
-itxtitle = "kRiShNastotram (viprapatnIkRitam)"
-engtitle = "viprapatnIkRitaM shrIkRiShNastotram"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "viprapatnI,brahmavaivarta purANa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "brahmavaivarta"
-"Latest update" = "September 07, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (विप्रपत्नीकृइतम्)"
+---
+Author: viprapatnI,brahmavaivarta purANa
+Category: vishhnu, krishna, stotra, vishnu
+Description-comments: brahmavaivarta
+File name: viprapatnikrishnastotra.itx
+Language: Sanskrit
+Latest update: September 07, 2004
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viprapatnIkRitaM shrIkRiShNastotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: viprapatnIkRitaM shrIkRiShNastotram
+itxtitle: kRiShNastotram (viprapatnIkRitam)
+title: कृइष्णस्तोत्रम् (विप्रपत्नीकृइतम्)
 
-+++
+---
   
  श्रीकृष्णस्तोत्रं विप्रपत्नीकृतम्   
   

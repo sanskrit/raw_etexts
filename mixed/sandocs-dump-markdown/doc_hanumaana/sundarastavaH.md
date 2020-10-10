@@ -1,24 +1,24 @@
-+++
-"Text title" = "sundarastava sundarakANDapratisargasaNgrahAtmakaH"
-"File name" = "sundarastava.itx"
-itxtitle = "sundarastavaH"
-engtitle = "Sundarastava"
-Category = "hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Author = "Atreya shrIbAlakRRiShNashAstri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "September 18, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुन्दरस्तवः"
+---
+Author: Atreya shrIbAlakRRiShNashAstri
+Category: hanumaana, stotra, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: sundarastava.itx
+Language: Sanskrit
+Latest update: September 18, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: sundarastava sundarakANDapratisargasaNgrahAtmakaH
+Texttype: stotra
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: Sundarastava
+itxtitle: sundarastavaH
+title: सुन्दरस्तवः
 
-+++
+---
   
  सुन्दरस्तवः   
   
@@ -132,7 +132,7 @@ title = "सुन्दरस्तवः"
 अभिज्ञानेन सुग्रीवोद्योगेन विरहाधिना ।  
 सुखिनीं दुःखिनीं देवीं पश्यन्तं नौमि मारुतिम् ॥ ३७॥  
   
-मानिनीं दृढविस्रंभां राघवोद्योगकाङ्क्षिणीम् ।  
+मानिनीं दृढविस्रम्भां राघवोद्योगकाङ्क्षिणीम् ।  
 रक्षो जित्वैव नेयां तां नमन्तं नौमि मारुतिम् ॥ ३८॥  
   
 काकोदन्तं रामगुणान् देवृभक्तिं शिरोमणिम् ।  
@@ -195,7 +195,7 @@ title = "सुन्दरस्तवः"
 सोपायनैरङ्गदाद्यैरुन्नदद्भिरुपास्थितम् ।  
 दृष्टा सीतेत्युदीर्याथ व्याख्यान्तं नौमि मारुतिम् ॥ ५८॥  
   
-तीर्त्वान्विष्योपलभ्याश्वास्य च भंक्त्वोपदिश्य च ।  
+तीर्त्वान्विष्योपलभ्याश्वास्य च भङ्क्त्वोपदिश्य च ।  
 दग्ध्वा दृष्ट्वाऽऽगतोऽस्मीति ब्रुवन्तं नौमि मारुतिम् ॥ ५९॥  
   
 दृष्ट्वा सीतां रामनाम श्रावयित्वा समागतः ।  

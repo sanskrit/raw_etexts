@@ -3,7 +3,6 @@ title: 047 Ravana sends his son Aksha
 title_english: 047 Ravana sends his son Aksha
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-047-Ravana_sends_his_son_Aksha.mp3"></div>
 
 सेना पतीन् पन्च स तु प्रमापितान् ।  
@@ -18,7 +17,7 @@ title_english: 047 Ravana sends his son Aksha
 प्रतप्त जाम्बू नद जाल सम्ततम् ।  
 रथाम् समास्थाय ययौ स वीर्यवान् ।  
 महाहरिम् तम् प्रति नैरृत ऋषभः ॥ ५-४७-३  
-ततः तपः सम्ग्रह संचय अर्जितम् ।  
+ततः तपः सम्ग्रह सञ्चय अर्जितम् ।  
 प्रतप्त जाम्बू नद जाल शोभितम् ।  
 पताकिनम् रत्न विभूषित ध्वजम् ।  
 मनो जव अष्ट अश्व वरैः सुयोजितम् ॥ ५-४७-४  
@@ -148,7 +147,7 @@ title_english: 047 Ravana sends his son Aksha
 मही तले सम्यति वानर उत्तमः ॥ ५-४७-३५  
 स भग्न बाहु ऊरु कटी शिरो धरः ।  
 क्षरन्न् असृन् निर्मथित अस्थि लोचनः ।  
-स भिन्न संधिः प्रविकीर्ण बन्धनो ।  
+स भिन्न सन्धिः प्रविकीर्ण बन्धनो ।  
 हतः क्षितौ वायु सुतेन राक्षसः ॥ ५-४७-३६  
 महाकपिः भूमि तले निपीड्य तम् ।  
 चकार रक्षो अधिपतेः महत् भयम् ।  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "kulAnandatantra"
-"File name" = "kulaanandatantra.itx"
-itxtitle = "kulAnanda tantram"
-engtitle = "kulAnanda tantram"
-Category = "tantra, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "tantram"
-"Transliterated by" = "Michael Magee  1997"
-"Proofread by" = "Mike Magee"
-"Latest update" = "July 4, 2011"
-"Send corrections to" = "Mike Magee"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुलानन्द तन्त्रम्"
+---
+Category: tantra, devii, devI
+File name: kulaanandatantra.itx
+Language: Sanskrit
+Latest update: July 4, 2011
+Location: doc_devii
+Proofread by: Mike Magee
+Send corrections to: Mike Magee
+Site access: https://sanskritdocuments.org
+Subject: tantram
+Sublocation: devii
+Text title: kulAnandatantra
+Transliterated by: Michael Magee  1997
+engtitle: kulAnanda tantram
+itxtitle: kulAnanda tantram
+title: कुलानन्द तन्त्रम्
 
-+++
+---
   
  कुलानन्द तन्त्रम्   
   
@@ -118,7 +118,7 @@ title = "कुलानन्द तन्त्रम्"
 ततः परतरं स्थानं तत्र सर्वे प्रवर्त्तते ॥ ३०॥  
   
 अथान्यं परमं देवि दुराबेधं वदाम्यहम् ।  
-ज्वलज्ज्वलनसंध्यस्थं तत्रैव लक्षयेद्देवि ॥ ३१॥  
+ज्वलज्ज्वलनसन्ध्यस्थं तत्रैव लक्षयेद्देवि ॥ ३१॥  
   
 तं त्रितकोटिसमप्रभा ऊर्ध्वं शक्ति निपातान्यतः [?] ।  
 बेधयेद्विचक्षणः बेधयित्वा तु तं लक्षयेत् ॥ ३२॥  
@@ -197,7 +197,7 @@ title = "कुलानन्द तन्त्रम्"
 देव्युवाच ।  
 सर्वत्र तु मया ज्ञानं भाषितं देव तत् पुरा ।  
 अद्यापि संशयो देवि कथयस्व मम प्रभो ।  
-संगमान्मोक्षहेतुकं  *** ***  ॥ ५५॥  
+सङ्गमान्मोक्षहेतुकं  *** ***  ॥ ५५॥  
   
 भैरव उवाच ।  
 शृणु देवि प्रवक्ष्यामि तत् सुरैरपि दुर्लभम् ।  

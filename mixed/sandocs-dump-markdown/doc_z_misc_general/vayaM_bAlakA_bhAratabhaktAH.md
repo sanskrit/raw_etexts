@@ -1,20 +1,20 @@
-+++
-"Text title" = "Vayam balaka BharatabhaktaH"
-"File name" = "vayaMbAlakAbhAratabhaktAH.itx"
-itxtitle = "vayaM bAlakA bhAratabhaktAH"
-engtitle = "vayaM bAlakA bhAratabhaktAH"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Videos 1, 2, 3)"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वयं बालका भारतभक्ताः"
+---
+Category: misc, sanskritgeet
+File name: vayaMbAlakAbhAratabhaktAH.itx
+Indexextra: (Videos 1, 2, 3)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Vayam balaka BharatabhaktaH
+engtitle: vayaM bAlakA bhAratabhaktAH
+itxtitle: vayaM bAlakA bhAratabhaktAH
+title: वयं बालका भारतभक्ताः
 
-+++
+---
   
  वयं बालका भारतभक्ताः   
 वयं बालका भारतभक्ताः  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "gurunAthaguhyanAmasAhasram"
-"File name" = "gurunAthaguhyanAmasAhasram.itx"
-itxtitle = "gurunAthaguhyanAmasAhasram"
-engtitle = "gurunAthaguhyanAmasAhasram"
-Category = "sahasranAmAvalI, subrahmanya, nAmAvalI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "vedasAra adhirahasya stotraratnam"
-"Latest update" = "May 4, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुनाथगुह्यनामसाहस्रम्"
+---
+Category: sahasranAmAvalI, subrahmanya, nAmAvalI
+Description-comments: vedasAra adhirahasya stotraratnam
+File name: gurunAthaguhyanAmasAhasram.itx
+Language: Sanskrit
+Latest update: May 4, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: gurunAthaguhyanAmasAhasram
+Texttype: nAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: gurunAthaguhyanAmasAhasram
+itxtitle: gurunAthaguhyanAmasAhasram
+title: गुरुनाथगुह्यनामसाहस्रम्
 
-+++
+---
   
  श्रीगुरुनाथगुह्यनामसाहस्रम्   
   

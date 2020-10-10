@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Shivakamasundari Trishati Namavalih"
-"File name" = "shivakAmasundarItrishatInAmAvaliH.itx"
-itxtitle = "shivakAmasundarItrishatInAmAvaliH"
-engtitle = "shivakAmasundarItrishatInAmAvaliH"
-Category = "devii, trishatI, shatInAmAvalI, devI, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Latest update" = "May 11, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "शिवकामसुन्दरीत्रिशतीनामावलिः"
+---
+Category: devii, trishatI, shatInAmAvalI, devI, pArvatI
+File name: shivakAmasundarItrishatInAmAvaliH.itx
+Language: Sanskrit
+Latest update: May 11, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Shivakamasundari Trishati Namavalih
+Transliterated by: NA
+engtitle: shivakAmasundarItrishatInAmAvaliH
+itxtitle: shivakAmasundarItrishatInAmAvaliH
+title: शिवकामसुन्दरीत्रिशतीनामावलिः
 
-+++
+---
   
  श्रीशिवकामसुन्दरीत्रिशतीनामावलिः   
 ॐ ओतप्रोताण्डनिवहायै नमः । ओजस्वत्यै नमः ।  

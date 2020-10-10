@@ -1,21 +1,21 @@
-+++
-"Text title" = "prAtahsmaranam"
-"File name" = "prAtahsmaranam.itx"
-itxtitle = "prAtaHsmaraNam"
-engtitle = "prAtaHsmaraNam"
-Category = "suprabhAta, misc"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "May 5, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रातःस्मरणम्"
+---
+Category: suprabhAta, misc
+File name: prAtahsmaranam.itx
+Language: Sanskrit
+Latest update: May 5, 2008
+Location: doc_z_misc_misc
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: prAtahsmaranam
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: prAtaHsmaraNam
+itxtitle: prAtaHsmaraNam
+title: प्रातःस्मरणम्
 
-+++
+---
   
  प्रातःस्मरणम्   
   
@@ -115,7 +115,7 @@ where and as every thing. The Upanishad says this clearly:  that whatever
 is seen or heard of in this universe is permeated by the Lord, in and out.  
 %begin shloka  
   
-यच्च किंचित्जगत्यस्मिन् दृश्यते श्रूयतेऽपि वा ।  
+यच्च किञ्चित्जगत्यस्मिन् दृश्यते श्रूयतेऽपि वा ।  
 अन्तर्बहिश्च तत् सर्वं व्याप्य नारायणः स्थितः ॥ (Taittariyaranyaka, 10-II-4-6)  
 %end shloka  
 More on this subject is discussed later on in this article.  THE MORNING  
@@ -165,7 +165,7 @@ and rested for the night on the bank of the Sarayu river. Just when the
 day was about to break, the sage woke them up saying that the twilight  
 सन्ध्या has set in and it is time for prayer.  %begin shloka  
   
-कौसल्या सुप्रजा राम पूर्वा संध्या प्रवर्तते ।  
+कौसल्या सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते ।  
 उत्तिष्ठ नरशार्दूल कर्तव्यं दैवमान्हिकम् ॥  
 %end shloka  
 This verse is from Ramayana (1-23-2) and is very popular. It is recited  
@@ -178,7 +178,7 @@ Gayatri mantra.  BH(10-70-4,6).  %begin shloka
 दध्यौ प्रसन्न करण आत्मानं तमसः परम् ॥  
   
 अथाप्लुतोऽम्भस्यमले यथाविधि क्रियाकलापं परिधाय वाससी ।  
-चकार संध्योपगमादि सत्तमो हुतानलो ब्रह्म जजाप वाग्यतः ॥  
+चकार सन्ध्योपगमादि सत्तमो हुतानलो ब्रह्म जजाप वाग्यतः ॥  
   
 %एन्द् श्लोक  
  These facts establish the importance of praying at the  
@@ -437,7 +437,7 @@ that has some special glory or strength etc., is part of His manifestation
 only. BG(11-41).  %begin shloka  
   
 यद्यद्विभूतिमत्सत्वं श्रीमदूर्जितमेव वा ।  
-तत्तदेवावगच्च त्वं मम तेजोऽंशसंभवम् ॥  
+तत्तदेवावगच्च त्वं मम तेजोऽंशसम्भवम् ॥  
 %end shloka  
 Uddhava, the friend of Krishna, puts the same question to Krishna  
 and Krishna gives a list of items (BH 11- Chapter 16) in which He  
@@ -864,7 +864,7 @@ and swerve from the path of righteousness. For example,  when Rama was
 told that he would not be made the king but will have to go to the forest  
 his countenance did not show any change, nor was he upset.  %begin shloka  
   
-न वनं गान्तुकामस्य त्यजतश्च वसुंधराम् ।  
+न वनं गान्तुकामस्य त्यजतश्च वसुन्धराम् ।  
 सर्वलोकातिगत्येव लक्ष्यते चित्तविक्रिया ॥  
 %end shloka  
 Ramayana. (2-19-23). These men  were great, because they did not act  
@@ -953,7 +953,7 @@ conducive to the welfare of Rama (and said as follows).  %begin shloka
 द्यौरन्तरिक्षं पृतिवी वायुश्च सचराचराः ॥ १३॥  
   
 नक्षत्राणि च सर्वाणि ग्रहाश्च सह देवतैः ।  
-अहोरात्रे तथा संध्ये पान्तु त्वां वनमाश्रितम् ॥ १४॥  
+अहोरात्रे तथा सन्ध्ये पान्तु त्वां वनमाश्रितम् ॥ १४॥  
   
 ऋतवश्चापि षट् चान्ये मासा संवत्सरास्तथा ।  
 कलाश्च काष्ठाश्च तथा तव शर्म दिशन्तु ते ॥ १५॥  

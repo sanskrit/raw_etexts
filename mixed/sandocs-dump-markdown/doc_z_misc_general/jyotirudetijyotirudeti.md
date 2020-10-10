@@ -1,23 +1,23 @@
-+++
-"Text title" = "jyotirudetijyotirudeti"
-"File name" = "jyotirudetijyotirudeti.itx"
-itxtitle = "jyotirudetijyotirudeti"
-engtitle = "jyotirudetijyotirudeti"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ज्योतिरुदेतिज्योतिरुदेति"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: jyotirudetijyotirudeti.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: jyotirudetijyotirudeti
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: jyotirudetijyotirudeti
+itxtitle: jyotirudetijyotirudeti
+title: ज्योतिरुदेतिज्योतिरुदेति
 
-+++
+---
   
  ज्योतिरुदेति ज्योतिरुदेति   
 ज्योतिरुदेति ज्योतिरुदेति नवयुवज्योतिरुदेति  

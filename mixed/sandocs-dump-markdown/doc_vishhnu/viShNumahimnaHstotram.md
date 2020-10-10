@@ -1,24 +1,24 @@
-+++
-"Text title" = "viShNumahimnaH stotram"
-"File name" = "vishhnumahimna.itx"
-itxtitle = "viShNumahimnaHstotram"
-engtitle = "viShNumahimnaH stotram"
-Category = "vishhnu, stotra, brahmAnanda, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Author = "brahmAnanda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "December 30, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुमहिम्नःस्तोत्रम्"
+---
+Author: brahmAnanda
+Category: vishhnu, stotra, brahmAnanda, vishnu
+File name: vishhnumahimna.itx
+Language: Sanskrit
+Latest update: December 30, 2004
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNumahimnaH stotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: viShNumahimnaH stotram
+itxtitle: viShNumahimnaHstotram
+title: विष्णुमहिम्नःस्तोत्रम्
 
-+++
+---
   
  श्रीविष्णुमहिम्नःस्तोत्रम्   
   
@@ -114,7 +114,7 @@ title = "विष्णुमहिम्नःस्तोत्रम्"
 रमेशाहो माया तव दुरनुमेयाऽखिलजनैः ।१८॥  
   
 हृतं दैत्यैर्द्दष्ट्वाऽनृतघटमजय्यैस्तु नयतः कटाक्षैः  
-संमोहं युवतिवरवेषेण दितिजान् ।  
+सम्मोहं युवतिवरवेषेण दितिजान् ।  
 समग्रं पीयूषं सुभग सुरपूगाय ददतः समस्यापि  
 प्रायस्तव खलु हि भृत्येष्वभिरतिः ॥ १९॥  
   

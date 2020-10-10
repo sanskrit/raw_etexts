@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vikata Stuti by Kamasura"
-"File name" = "vikaTastutiHkAmAsureNaproktam.itx"
-itxtitle = "vikaTastutiH kAmAsureNa proktam (mudgalapurANAntargatA)"
-engtitle = "vikaTastutiH kAmAsureNa proktam"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan"
-"Proofread by" = "Ajit Krishnan, PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 6, Adhyaya 34"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "विकटस्तुतिः कामासुरेण प्रोक्तम् (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 6, Adhyaya 34
+File name: vikaTastutiHkAmAsureNaproktam.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: Ajit Krishnan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Vikata Stuti by Kamasura
+Transliterated by: Ajit Krishnan
+engtitle: vikaTastutiH kAmAsureNa proktam
+itxtitle: vikaTastutiH kAmAsureNa proktam (mudgalapurANAntargatA)
+title: विकटस्तुतिः कामासुरेण प्रोक्तम् (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  विकटस्तुतिः कामासुरेण प्रोक्तम्   
 कामः करपुटं कृत्वा त्यक्त्वा शस्त्रादिकं पुरः ।  

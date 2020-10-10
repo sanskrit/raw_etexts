@@ -1,22 +1,22 @@
-+++
-"Text title" = "jIvanamuktastotram"
-"File name" = "jIvanamuktastotram.itx"
-itxtitle = "jIvanamuktastotram"
-engtitle = "jIvanamuktastotram"
-Category = "misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-Source = "shrutiratnAvalI"
-Indexextra = "(shrutiratnAvalI)"
-"Latest update" = "August 27, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जीवनमुक्तस्तोत्रम्"
+---
+Category: misc
+File name: jIvanamuktastotram.itx
+Indexextra: (shrutiratnAvalI)
+Language: Sanskrit
+Latest update: August 27, 2017
+Location: doc_z_misc_general
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrutiratnAvalI
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: jIvanamuktastotram
+engtitle: jIvanamuktastotram
+itxtitle: jIvanamuktastotram
+title: जीवनमुक्तस्तोत्रम्
 
-+++
+---
   
  जीवन्मुक्तस्तोत्रम्   
   

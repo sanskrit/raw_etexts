@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIveMkaTeshapanchakastotram"
-"File name" = "veMkaTeshapanchakastotram.itx"
-itxtitle = "veNkaTeshapanchakastotram"
-engtitle = "shrIveMkaTeshapanchakastotram"
-Category = "panchaka, vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "December 19, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशपञ्चकस्तोत्रम्"
+---
+Category: panchaka, vishhnu, venkateshwara, stotra, vishnu
+File name: veMkaTeshapanchakastotram.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: December 19, 2015
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIveMkaTeshapanchakastotram
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: shrIveMkaTeshapanchakastotram
+itxtitle: veNkaTeshapanchakastotram
+title: वेण्कटेशपञ्चकस्तोत्रम्
 
-+++
+---
   
  श्रीवेङ्कटेशपञ्चकस्तोत्रम्   
 श्रीधराधिनायकं श्रितापवर्गदायकं  

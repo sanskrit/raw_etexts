@@ -1,26 +1,26 @@
-+++
-"Text title" = "sa.nkaShTaharaNaM gaNeshAShTakam"
-"File name" = "saNkaShTaharaNaMgaNeshAShTakaM.itx"
-itxtitle = "gaNeshAShTakam 4 saNkaShTaharaNam athavA vakratuNDastotram (traiguNyAtItanIlaM)"
-engtitle = "saNkaShTaharaNaM gaNeshAShTakam or vakratuNDastotram"
-Category = "aShTaka, ganesha, shankarAchArya"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Traditional, Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "June 24, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशाष्टकम् ४ सण्कष्टहरणम् अथवा वक्रतुण्डस्तोत्रम् (त्रैगुण्यातीतनीलं)"
+---
+Author: Traditional, Shankaracharya
+Category: aShTaka, ganesha, shankarAchArya
+File name: saNkaShTaharaNaMgaNeshAShTakaM.itx
+Language: Sanskrit
+Latest update: June 24, 2020
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: sa.nkaShTaharaNaM gaNeshAShTakam
+engtitle: saNkaShTaharaNaM gaNeshAShTakam or vakratuNDastotram
+itxtitle: gaNeshAShTakam 4 saNkaShTaharaNam athavA vakratuNDastotram (traiguNyAtItanIlaM)
+title: गणेशाष्टकम् ४ सण्कष्टहरणम् अथवा वक्रतुण्डस्तोत्रम् (त्रैगुण्यातीतनीलं)
 
-+++
+---
   
  सङ्कष्टहरणं गणेशाष्टकम् अथवा वक्रतुण्डस्तोत्रम्   
 श्रीगणेशाय नमः ।  
 ॐ अस्य श्रीसङ्कष्टहरणस्तोत्रमन्त्रस्य श्रीमहागणपतिर्देवता,  
-संकष्टहरणार्थ जपे विनियोगः ।  
+सङ्कष्टहरणार्थ जपे विनियोगः ।  
 ॐ ॐ ॐकाररूपं त्र्यहमिति च परं यत्स्वरूपं तुरीयं  var  ॐकाररूपं हिमकररुचिरं  
 त्रैगुण्यातीतनीलं कलयति मनसस्तेज-सिन्दूर-मूर्तिम् ।  
 योगीन्द्रैर्ब्रह्मरन्ध्रैः सकल-गुणमयं श्रीहरेन्द्रेण सङ्गं  
@@ -32,11 +32,11 @@ title = "गणेशाष्टकम् ४ सण्कष्टहरणम
 धं धं धं धारयन्तं धनदमतिघियं सिद्धि-बुद्धि-द्वितीयम् ॥ २॥  
   
 तुं तुं तुं तुङ्गरूपं गगनपथि गतं व्याप्नुवन्तं दिगन्तान्  
-क्लीं क्लीं क्लींकारनाथं गलितमदमिलल्लोल-मत्तालिमालम् ।  
-ह्रीं ह्रीं ह्रींकारपिङ्गं सकलमुनिवर-ध्येयमुण्डं च शुण्डं  
+क्लीं क्लीं क्लीङ्कारनाथं गलितमदमिलल्लोल-मत्तालिमालम् ।  
+ह्रीं ह्रीं ह्रीङ्कारपिङ्गं सकलमुनिवर-ध्येयमुण्डं च शुण्डं  
 श्रीं श्रीं श्रीं श्रीं श्रयन्तं निखिल-निधिकुलं नौमि हेरम्बबिम्बम् ॥ ३॥  
   
-लौं लौं लौंकारमाद्यं प्रणवमिव पदं मन्त्रमुक्तावलीनां  
+लौं लौं लौङ्कारमाद्यं प्रणवमिव पदं मन्त्रमुक्तावलीनां  
 शुद्धं विघ्नेशबीजं शशिकरसदृशं योगिनां ध्यानगम्यम् ।  
 डं डं डं डामरूपं दलितभवभयं सूर्यकोटिप्रकाशं  
 यं यं यं यज्ञनाथं जपति मुनिवरो बाह्यमभ्यन्तरं च ॥ ४॥  

@@ -1,34 +1,34 @@
-+++
-"Text title" = "devIbhuja.ngastotram"
-"File name" = "devibhujanga.itx"
-itxtitle = "devIbhujaNgastotram (shaNkarAchAryavirachitam)"
-engtitle = "Devibhujangastotram"
-Category = "devii, pArvatI, bhujanga, devI, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Subcategory = "bhujanga"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sridhar Seshagiri seshagir at engineering.sdsu.edu"
-"Proofread by" = "Sridhar Seshagiri seshagir at engineering.sdsu.edu"
-"Latest update" = "August 23, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीभुजण्गस्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: devii, pArvatI, bhujanga, devI, shankarAchArya
+File name: devibhujanga.itx
+Language: Sanskrit
+Latest update: August 23, 2000
+Location: doc_devii
+Proofread by: Sridhar Seshagiri seshagir at engineering.sdsu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subcategory: bhujanga
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIbhuja.ngastotram
+Transliterated by: Sridhar Seshagiri seshagir at engineering.sdsu.edu
+engtitle: Devibhujangastotram
+itxtitle: devIbhujaNgastotram (shaNkarAchAryavirachitam)
+title: देवीभुजण्गस्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
- देवीभुजंगस्तोत्रम्   
+ देवीभुजङ्गस्तोत्रम्   
         ॥ श्रीः ॥  
   
-    ॥ अथ देवीभुजंगस्तोत्रम् ॥  
+    ॥ अथ देवीभुजङ्गस्तोत्रम् ॥  
   
 विरिञ्च्यादिभिः पञ्चभिर्लोकपालैः  
 समूढे महानन्दपीठे निषण्णम् ।  
 धनुर्बाणपाशाङ्कुशप्रोतहस्तं  
-महस्त्रैपुरं शंकराद्वैतमव्यात् ॥ १॥  
+महस्त्रैपुरं शङ्कराद्वैतमव्यात् ॥ १॥  
   
 यदन्नादिभिः पञ्चभिः कोशजालैः  
 शिरःपक्षपुच्छात्मकैरन्तरन्तः ।  
@@ -77,7 +77,7 @@ title = "देवीभुजण्गस्तोत्रम् (शण्क
   
 समारभ्य मूलं गतो ब्रह्मचक्रं  
 भवद्दिव्यचक्रेश्वरीधामभाजः ।  
-महासिद्धिसंघातकल्पद्रुमाभा-  
+महासिद्धिसङ्घातकल्पद्रुमाभा-  
 नवाप्याम्ब नादानुपास्ते च योगी ॥ ११॥  
   
 गणेशैर्ग्रहैरम्ब नक्षत्रपङ्क्त्या  
@@ -93,7 +93,7 @@ title = "देवीभुजण्गस्तोत्रम् (शण्क
 समुद्यत्सहस्रार्कबिम्बाभवक्त्रां  
 स्वभासैव सिन्दूरिताजाण्डकोटिम् ।  
 धनुर्बाणपाशाङ्कुशान्धारयन्तीं  
-स्मरन्तः स्मरं वापि संमोहयेयुः ॥ १४॥  
+स्मरन्तः स्मरं वापि सम्मोहयेयुः ॥ १४॥  
   
 मणिस्यूतताटङ्कशोणास्यबिम्बां  
 हरित्पट्टवस्त्रां त्वगुल्लासिभूषाम् ।  
@@ -107,13 +107,13 @@ title = "देवीभुजण्गस्तोत्रम् (शण्क
   
 तथान्ये विकल्पेषु निर्विण्णचित्ता-  
 स्तदेकं समाधाय बिन्दुत्रयं ते ।  
-परानन्दसंधानसिन्धौ निमग्नाः  
+परानन्दसन्धानसिन्धौ निमग्नाः  
 पुनर्गर्भरन्ध्रं न पश्यन्ति धीराः ॥ १७॥  
   
 त्वदुन्मेषलीलानुबन्धाधिकारा-  
 न्विरिञ्च्यादिकांस्त्वद्गुणाम्भोधिबिन्दून् ।  
 भजन्तस्तितीर्षन्ति संसारसिन्धुं  
-शिवे तावकीना सुसंभावनेयम् ॥ १८॥  
+शिवे तावकीना सुसम्भावनेयम् ॥ १८॥  
   
 कदा वा भवत्पादपोतेन तूर्णं  
 भवाम्भोधिमुक्तीर्य पूर्णान्तरङ्गः ।  
@@ -166,8 +166,8 @@ title = "देवीभुजण्गस्तोत्रम् (शण्क
 स्तदेतत्प्रलापस्तुतिं मे गृहाण ॥ २८॥ं  
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-श्रीमच्छंकरभगवतः कृतौ  
-देवीभुजंगस्तोत्रम् सम्पूर्णम्  ॥  
+श्रीमच्छङ्करभगवतः कृतौ  
+देवीभुजङ्गस्तोत्रम् सम्पूर्णम्  ॥  
   
   
   

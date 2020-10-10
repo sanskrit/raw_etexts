@@ -1,23 +1,23 @@
-+++
-"Text title" = "gurupAdukApanchakam 2"
-"File name" = "gurupAdukApanchakam2.itx"
-itxtitle = "gurupAdukApanchakam 2"
-engtitle = "gurupAdukApanchakam 2"
-Category = "deities_misc, panchaka, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Shri Chitrapura Stuti Manjari,3rd ed. 2008"
-Acknowledge-Permission = "Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/"
-"Latest update" = "March 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुपादुकापञ्चकम् २"
+---
+Acknowledge-Permission: Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/
+Category: deities_misc, panchaka, gurudev
+File name: gurupAdukApanchakam2.itx
+Language: Sanskrit
+Latest update: March 2, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri Chitrapura Stuti Manjari,3rd ed. 2008
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurupAdukApanchakam 2
+engtitle: gurupAdukApanchakam 2
+itxtitle: gurupAdukApanchakam 2
+title: गुरुपादुकापञ्चकम् २
 
-+++
+---
   
  श्रीगुरुपादुकापञ्चकम् २   
 ॐ नमो गुरुभ्यो गुरुपादुकाभ्यो  

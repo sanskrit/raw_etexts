@@ -1,25 +1,25 @@
-+++
-"Text title" = "AtmArpaNastuti by Shrimad Appayya Dixita"
-"File name" = "AtmArpaNastuti.itx"
-itxtitle = "AtmArpaNastutiH (appayyAdIkShitavirachitA)"
-engtitle = "AtmArpaNastutiH by Shrimad Appayya Dixita"
-Category = "shiva, appayya-dIkShita"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Appayya Dikshita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "shaivam.org  Corrected further"
-"Proofread by" = "Rajani Arjun Shankar rajani_arjun at yahoo.com"
-Source = "ParAsharasamhita Hanumachcharitra Vol 2 pages 10-12"
-Indexextra = "(Sanskrit Hindi TIkA)"
-Acknowledge-Permission = "http://shaivam.org"
-"Latest update" = "January 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आत्मार्पणस्तुतिः (अप्पय्यादीक्षितविरचिता)"
+---
+Acknowledge-Permission: http://shaivam.org
+Author: Appayya Dikshita
+Category: shiva, appayya-dIkShita
+File name: AtmArpaNastuti.itx
+Indexextra: (Sanskrit Hindi TIkA)
+Language: Sanskrit
+Latest update: January 4, 2017
+Location: doc_shiva
+Proofread by: Rajani Arjun Shankar rajani_arjun at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: ParAsharasamhita Hanumachcharitra Vol 2 pages 10-12
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: AtmArpaNastuti by Shrimad Appayya Dixita
+Transliterated by: shaivam.org  Corrected further
+engtitle: AtmArpaNastutiH by Shrimad Appayya Dixita
+itxtitle: AtmArpaNastutiH (appayyAdIkShitavirachitA)
+title: आत्मार्पणस्तुतिः (अप्पय्यादीक्षितविरचिता)
 
-+++
+---
   
  आत्मार्पणस्तुतिः   
 श्रीमदप्पय्य दीक्षित विरचिता  
@@ -116,12 +116,12 @@ variation   भवजलनिधावेष
 क्लिष्टोऽहं त्वां वरद शरणं यामि संसारवैद्यम् ॥ १८॥  
   
 ध्यातो यत्नाद्विजितकरणैर्योगिभिर्यो विमुक्त्यै (विमृग्यः)  
-तेभ्यः प्राणोत्क्रमणसमये संनिधायात्मनैव ।  
+तेभ्यः प्राणोत्क्रमणसमये सन्निधायात्मनैव ।  
 तद्व्याचष्टे भवभयहरं तारकं ब्रह्म देवः  
 तं सेवेऽहं गिरिश सततं ब्रह्मविद्यागुरुं त्वाम् ॥ १९॥  
   
 दासोऽस्मीति त्वयि शिव मया नित्यसिद्धं निवेद्यं  
-जानास्येतत् त्वमपि यदहं निर्गतिः संभ्रमामि ।  
+जानास्येतत् त्वमपि यदहं निर्गतिः सम्भ्रमामि ।  
 नास्त्येवान्यन्मम किमपि ते नाथ विज्ञापनीयं   
 कारुण्यान्मे शरणवरणं दीनवृत्तेर्गृहाण ॥ २०॥  
   
@@ -188,7 +188,7 @@ variation   भवजलनिधावेष
 एतावन्तं भ्रमणनिचयं प्रापितोऽयं वराकः  
 श्रान्तः स्वामिन्नगतिरधुना मोचनीयस्त्वयाहम् ।  
 कृत्याकृत्यव्यपगतमतिर्दीनशाखामृगोऽयं  
-संताड्यैनं दशनविवृतिं पश्यतस्ते फलं किम् ॥ ३३॥  
+सन्ताड्यैनं दशनविवृतिं पश्यतस्ते फलं किम् ॥ ३३॥  
   
 माता तातः सुत इति समाबध्य मां मोहपाशै-  
 रापात्यैवं भवजलनिधौ हा किमीश त्वयाऽऽप्तम् ।  
@@ -255,7 +255,7 @@ variation   भवजलनिधावेष
 निखिलमपि रहस्यं नाथ निष्कृष्य साक्षात्  
 सरसिजभवमुख्यैः साधितं नः प्रमाणम् ॥ ४६॥  
   
-न किंचिन्मेनेऽतः समभिलषणीयं त्रिभुवने  
+न किञ्चिन्मेनेऽतः समभिलषणीयं त्रिभुवने  
 सुखं वा दुःखं वा मम भवतु यद्भावि भगवन् ।  
 समुन्मीलत्पाथोरुहकुहरसौभाग्यमुषिते  
 पदद्वन्द्वे चेतः परिचयमुपेयान्मम सदा ॥ ४७॥  

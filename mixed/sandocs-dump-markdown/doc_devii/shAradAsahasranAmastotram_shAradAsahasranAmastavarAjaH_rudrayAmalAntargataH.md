@@ -1,24 +1,24 @@
-+++
-"Text title" = "shAradAsahasranAmastotram"
-"File name" = "shAradAsahasranAmastotra.itx"
-itxtitle = "shAradAsahasranAmastotram shAradAsahasranAmastavarAjaH (rudrayAmalAntargataH)"
-engtitle = "shAradAsahasranAmastotram"
-Category = "sahasranAma, devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "See corresopnding nAmAvalI"
-Indexextra = "(Scan)"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदासहस्रनामस्तोत्रम् शारदासहस्रनामस्तवराजः (रुद्रयामलान्तर्गतः)"
+---
+Category: sahasranAma, devii, sarasvatI, devI
+Description-comments: See corresopnding nAmAvalI
+File name: shAradAsahasranAmastotra.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAsahasranAmastotram
+Transliterated by: NA
+engtitle: shAradAsahasranAmastotram
+itxtitle: shAradAsahasranAmastotram shAradAsahasranAmastavarAjaH (rudrayAmalAntargataH)
+title: शारदासहस्रनामस्तोत्रम् शारदासहस्रनामस्तवराजः (रुद्रयामलान्तर्गतः)
 
-+++
+---
   
  श्रीशारदासहस्रनामस्तोत्रम्   
   
@@ -689,7 +689,7 @@ title = "शारदासहस्रनामस्तोत्रम् श�
 हरिप्रिया हरिस्तुत्या हरिवाहा हरीश्वरी ।  
 हालाप्रिया हलिमुखी हाटकेशी हृदेश्वरी ॥ १६३॥  
   
-ह्रींबीजवर्णमुकुटा ह्रीं हरप्रियकारिणी ।  
+ह्रीम्बीजवर्णमुकुटा ह्रीं हरप्रियकारिणी ।  
 क्षमा क्षान्ता च क्षोणी च क्षत्रियी मन्त्ररूपिणी ॥ १६४॥  
   
 पञ्चात्मिका पञ्चवर्णा पञ्चतिग्मसुभेदिनी ।  

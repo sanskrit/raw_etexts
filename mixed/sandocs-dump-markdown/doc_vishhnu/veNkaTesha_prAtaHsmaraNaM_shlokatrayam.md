@@ -1,25 +1,25 @@
-+++
-"Text title" = "veNkaTesha prAtaHsmaraNaM shlokatrayam"
-"File name" = "venkaTeshashlokatrayam.itx"
-itxtitle = "veNkaTesha prAtaHsmaraNaM shlokatrayam"
-engtitle = "Venkateshashlokatrayam"
-Category = "vishhnu, venkateshwara, stotra, vishnu, suprabhAta"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "April 4, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेश प्रातःस्मरणं श्लोकत्रयम्"
+---
+Category: vishhnu, venkateshwara, stotra, vishnu, suprabhAta
+File name: venkaTeshashlokatrayam.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: April 4, 2015
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veNkaTesha prAtaHsmaraNaM shlokatrayam
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Venkateshashlokatrayam
+itxtitle: veNkaTesha prAtaHsmaraNaM shlokatrayam
+title: वेण्कटेश प्रातःस्मरणं श्लोकत्रयम्
 
-+++
+---
   
  वेङ्कटेश प्रातःस्मरणं श्लोकत्रयम्   
 प्रातः स्मरामि रमया सह वेङ्कटेशं  

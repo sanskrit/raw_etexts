@@ -1,25 +1,25 @@
-+++
-"Text title" = "Brahmasutra Adhikarana List"
-"File name" = "brahmasuutraadhikaraNa.itx"
-itxtitle = "brahmasUtrAdhikaraNAni (anukramaNikA)"
-engtitle = "Brahmasutra Adhikarana List"
-Category = "sUtra, major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "The text is based on Shankarabhashya (not Ramanuja, Madhva)"
-Source = "Sw. Gambhirananda's translation of Shankara Sutra Bhasya, and Belvalkar Brahmasutrapatha"
-Indexextra = "(Brahmasutra 1, 2, Sutra Index, vishnumahima)"
-"Latest update" = "July 15, 2016, October 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मसूत्राधिकरणानि (अनुक्रमणिका)"
+---
+Category: sUtra, major_works
+Description-comments: The text is based on Shankarabhashya (not Ramanuja, Madhva)
+File name: brahmasuutraadhikaraNa.itx
+Indexextra: (Brahmasutra 1, 2, Sutra Index, vishnumahima)
+Language: Sanskrit
+Latest update: July 15, 2016, October 6, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sw. Gambhirananda's translation of Shankara Sutra Bhasya, and Belvalkar Brahmasutrapatha
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: Brahmasutra Adhikarana List
+Texttype: pramukha
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Brahmasutra Adhikarana List
+itxtitle: brahmasUtrAdhikaraNAni (anukramaNikA)
+title: ब्रह्मसूत्राधिकरणानि (अनुक्रमणिका)
 
-+++
+---
   
  ब्रह्मसूत्राधिकरणानि   
 ब्रह्मसूत्राधिकरणानां अनुक्रमणिका अथवा ब्रह्मसूत्राधिकरणसूचिः  
@@ -282,7 +282,7 @@ The text is based on Shankarabhashya
   
  ०८५ इन्द्रियाधिकरणम् ॥  
   
- ०८६ संज्ञामूर्तिक्लृप्त्यधिकरणम् ॥  
+ ०८६ सञ्ज्ञामूर्तिक्लृप्त्यधिकरणम् ॥  
   
 ३ साधन  
    अध्ययः ।         अधिकरण  ६७     सूत्राणि   १८६  
@@ -1135,7 +1135,7 @@ The text is based on Shankarabhashya
   
 अधिकरण   ०८६ सम्ज्ञामुअर्तिक्लृप्त्यधिकरणम् ॥  
   
-सूत्र            २८९ संज्ञामूर्तिक्लृप्तिस्तु त्रिवृत्कुर्वत उपदेशात् ।  
+सूत्र            २८९ सञ्ज्ञामूर्तिक्लृप्तिस्तु त्रिवृत्कुर्वत उपदेशात् ।  
                        २९० मांसादि भौमं यथाशब्दमितरयोश्च ।  
                        २९१ वैशेष्यात्तु तद्वादस्तद्वादः ॥  
   
@@ -1280,7 +1280,7 @@ The text is based on Shankarabhashya
   
 सूत्र              ३६५ अन्यथात्वं शब्दादिति चेन्नाविशेषात् ।  
                          ३६६ न वा प्रकरणभेदात् परोवरीयस्त्वादिवत् ।  
-                         ३६७ संज्ञातश्चेत्तदुक्तमस्ति तु तदपि ॥  
+                         ३६७ सञ्ज्ञातश्चेत्तदुक्तमस्ति तु तदपि ॥  
   
 अधिकरण     १०४ व्याप्त्यधिकरणम् ॥  
   

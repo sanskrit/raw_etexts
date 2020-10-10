@@ -1,23 +1,23 @@
-+++
-"Text title" = "dakShiNAstotram"
-"File name" = "dakShiNAstotram.itx"
-itxtitle = "dakShiNAstotram (brahmavaivartamahApurANAntargatam)"
-engtitle = "dakShiNAstotram"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "brahmavaivartamahApurANa"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणास्तोत्रम् (ब्रह्मवैवर्तमहापुराणान्तर्गतम्)"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: devii, devI
+Description/comments: brahmavaivartamahApurANa
+File name: dakShiNAstotram.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dakShiNAstotram
+engtitle: dakShiNAstotram
+itxtitle: dakShiNAstotram (brahmavaivartamahApurANAntargatam)
+title: दक्षिणास्तोत्रम् (ब्रह्मवैवर्तमहापुराणान्तर्गतम्)
 
-+++
+---
   
  दक्षिणास्तोत्रम्   
   

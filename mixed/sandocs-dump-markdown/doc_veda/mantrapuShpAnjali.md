@@ -1,29 +1,29 @@
-+++
-"Text title" = "mantrapushhpaM No accent"
-"File name" = "mantrapushhpa.itx"
-itxtitle = "mantrapuShpAnjali"
-engtitle = "mantrapuShpA.njali"
-Category = "veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Latest update" = "October 31, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मन्त्रपुष्पाञ्जलि"
+---
+Author: Vedic Tradition
+Category: veda, svara
+File name: mantrapushhpa.itx
+Language: Sanskrit
+Latest update: October 31, 2002
+Location: doc_veda
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: veda
+Text title: mantrapushhpaM No accent
+Texttype: svara
+Transliterated by: NA
+engtitle: mantrapuShpA.njali
+itxtitle: mantrapuShpAnjali
+title: मन्त्रपुष्पाञ्जलि
 
-+++
+---
   
- मन्त्रपुष्पांजलि   
+ मन्त्रपुष्पाञ्जलि   
   
   
 ॐ योऽपां पुष्पं वेद । पुष्पवान् प्रजावान् पशुमान् भवति ।   
-चंद्र मा वा अपां पुष्पम् । पुष्पवान् प्रजावान् पशुमान् भवति ।   
+चन्द्र मा वा अपां पुष्पम् । पुष्पवान् प्रजावान् पशुमान् भवति ।   
 य एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ १॥   
   
 अग्निर्वा अपामायतनम् । आयतनवान् भवति ।   
@@ -41,9 +41,9 @@ title = "मन्त्रपुष्पाञ्जलि"
 आपो वाऽमुष्य तपत आयतनम् । आयतनवान् भवति ।   
 य एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ४॥   
   
-चंद्रमा वा अपामायतनम् । आयतनवान् भवति ।   
-यश्चंद्रमस आयतनं वेद । आयतनवान् भवति ।   
-आपो वै चंद्रमस आयतनम् । आयतनवान् भवति ।   
+चन्द्रमा वा अपामायतनम् । आयतनवान् भवति ।   
+यश्चन्द्रमस आयतनं वेद । आयतनवान् भवति ।   
+आपो वै चन्द्रमस आयतनम् । आयतनवान् भवति ।   
 य एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ५॥   
   
 नक्षत्राणि वा अपामायतनम् । आयतनवान् भवति ।   

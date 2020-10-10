@@ -1,23 +1,23 @@
-+++
-"Text title" = "haridrAgaNeshakavacham"
-"File name" = "haridrAgaNeshakavach.itx"
-itxtitle = "haridrAgaNeshakavacham"
-engtitle = "haridrAgaNeshakavacham"
-Category = "kavacha, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "vishvasAratantre"
-"Latest update" = "March 28, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिद्रागणेशकवचम्"
+---
+Author: Traditional
+Category: kavacha, ganesha
+Description-comments: vishvasAratantre
+File name: haridrAgaNeshakavach.itx
+Language: Sanskrit
+Latest update: March 28, 2005
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: haridrAgaNeshakavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: haridrAgaNeshakavacham
+itxtitle: haridrAgaNeshakavacham
+title: हरिद्रागणेशकवचम्
 
-+++
+---
   
  हरिद्रागणेशकवचम्   
   

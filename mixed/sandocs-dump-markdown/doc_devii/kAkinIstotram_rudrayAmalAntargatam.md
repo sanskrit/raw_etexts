@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Kakini Stotram"
-"File name" = "kAkinIstotram.itx"
-itxtitle = "kAkinIstotram (rudrayAmalAntargatam)"
-engtitle = "kAkinIstotram"
-Category = "devii, ShaTchakrashakti, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "काकिनीस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: devii, ShaTchakrashakti, devI
+Description/comments: rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde
+File name: kAkinIstotram.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Kakini Stotram
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: kAkinIstotram
+itxtitle: kAkinIstotram (rudrayAmalAntargatam)
+title: काकिनीस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीकाकिनीस्तोत्रम्   
 अथैकोनषष्टितमः पटलः  

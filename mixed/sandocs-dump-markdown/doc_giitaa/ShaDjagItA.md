@@ -1,22 +1,22 @@
-+++
-"Text title" = "ShaDjagItA"
-"File name" = "shhaDjagiitaa.itx"
-itxtitle = "ShaDjagItA"
-engtitle = "ShaDjagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-Indexextra = "(mahAbhArata shAntiparva scanned copy 240473 bytes (In progress))"
-"Latest update" = "June 2, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षड्जगीता"
+---
+Category: gItA, giitaa
+File name: shhaDjagiitaa.itx
+Indexextra: (mahAbhArata shAntiparva scanned copy 240473 bytes (In progress))
+Language: Sanskrit
+Latest update: June 2, 1998
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: ShaDjagItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: ShaDjagItA
+itxtitle: ShaDjagItA
+title: षड्जगीता
 
-+++
+---
   
  षड्जगीता   
   

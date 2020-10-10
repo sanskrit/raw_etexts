@@ -1,24 +1,25 @@
-+++
-"Text title" = "Himavata Mukutena Virajita"
-"File name" = "himavatAmukuTenavirAjitA.itx"
-itxtitle = "himavatA mukuTena virAjitA (bhAratarAShTragItam)"
-engtitle = "himavatAmukuTenavirAjitA"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "vI\\. Ara\\. lakShmI ammAla devI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हिमवता मुकुटेन विराजिता (भारतराष्ट्रगीतम्)"
+---
+Author: vI\. Ara\. lakShmI ammAla devI
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: himavatAmukuTenavirAjitA.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Himavata Mukutena Virajita
+Translated by: Mandar Mali
+engtitle: himavatAmukuTenavirAjitA
+itxtitle: himavatA mukuTena virAjitA (bhAratarAShTragItam)
+title: हिमवता मुकुटेन विराजिता (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  हिमवता मुकुटेन विराजिता   
 हिमवता मुकुटेन विराजिता  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "nRisi.nhAShTottarashatanAmAvalI 2"
-"File name" = "nRisinha108-2.itx"
-itxtitle = "nRisi.nhAShTottarashatanAmAvaliH 2"
-engtitle = "nRisi.nhAShTottarashatanAmAvalI 2"
-Category = "aShTottarashatanAmAvalI, vishhnu, dashAvatAra, nAmAvalI, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-Indexextra = "(108 names)"
-"Latest update" = "July 13, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहाष्टोत्तरशतनामावलिः २"
+---
+Category: aShTottarashatanAmAvalI, vishhnu, dashAvatAra, nAmAvalI, vishnu
+File name: nRisinha108-2.itx
+Indexextra: (108 names)
+Language: Sanskrit
+Latest update: July 13, 2008
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nRisi.nhAShTottarashatanAmAvalI 2
+Texttype: nAmAvalI
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: nRisi.nhAShTottarashatanAmAvalI 2
+itxtitle: nRisi.nhAShTottarashatanAmAvaliH 2
+title: नृइसिंहाष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  श्रीनृसिंहाष्टोत्तरशतनामावली २   
   
@@ -89,7 +89,7 @@ title = "नृइसिंहाष्टोत्तरशतनामाव�
 ॐ सर्व-वेदान्तसिद्धान्त-सारसत्तमयाय नमः ।  
 ॐ सर्वमन्त्राधिदेवाय नमः ।  
 ॐ स्तम्भ-डिम्भाय नमः ।  
-ॐ शंभवे नमः ।  
+ॐ शम्भवे नमः ।  
 ॐ अनन्त-कल्याणगुण-रत्नाकराय नमः ।  
 ॐ भगवच्छब्द-वाच्याय नमः । ७०।  
 ॐ वागतीताय नमः ।  
@@ -131,7 +131,7 @@ title = "नृइसिंहाष्टोत्तरशतनामाव�
 ॐ पुराण-पुरुषाय नमः ।  
 ॐ पुरुषोत्तम-रूपाय नमः ॥ १०८॥  
   
-॥ इति श्रीनृसिंहाष्टोत्तरशतनामावलिः संपूर्णा॥  
+॥ इति श्रीनृसिंहाष्टोत्तरशतनामावलिः सम्पूर्णा॥  
   
   
 Encoded and proofread by  

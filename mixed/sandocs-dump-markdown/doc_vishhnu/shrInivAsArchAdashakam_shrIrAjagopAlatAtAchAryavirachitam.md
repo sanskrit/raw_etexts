@@ -1,26 +1,26 @@
-+++
-"Text title" = "shrInivAsArchAdashakam"
-"File name" = "shrInivAsArchAdashakam.itx"
-itxtitle = "shrInivAsArchAdashakam (shrIrAjagopAlatAtAchAryavirachitam)"
-engtitle = "ShrinivAsArchadashakam"
-Category = "vishhnu, venkateshwara, stotra, vishnu, dashaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Author = "shrIrAjagopAlatAtAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "April 4, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीनिवासार्चादशकम् (श्रीराजगोपालताताचार्यविरचितम्)"
+---
+Author: shrIrAjagopAlatAtAchArya
+Category: vishhnu, venkateshwara, stotra, vishnu, dashaka
+File name: shrInivAsArchAdashakam.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: April 4, 2015
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrInivAsArchAdashakam
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: ShrinivAsArchadashakam
+itxtitle: shrInivAsArchAdashakam (shrIrAjagopAlatAtAchAryavirachitam)
+title: श्रीनिवासार्चादशकम् (श्रीराजगोपालताताचार्यविरचितम्)
 
-+++
+---
   
  श्रीनिवासार्चादशकम्   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "viShNupanjarastotram"
-"File name" = "viShNupanjarastotrambrahmANDapurANa.itx"
-itxtitle = "viShNupanjarastotram (brahmANDapurANAntargatam)"
-engtitle = "viShNupanjarastotram"
-Category = "vishhnu, panjara, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, NA, PSA Easwaran"
-Description-comments = "brahANDapurANa"
-"Latest update" = "April 29, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुपञ्जरस्तोत्रम् (ब्रह्माण्डपुराणान्तर्गतम्)"
+---
+Category: vishhnu, panjara, vishnu
+Description-comments: brahANDapurANa
+File name: viShNupanjarastotrambrahmANDapurANa.itx
+Language: Sanskrit
+Latest update: April 29, 2013
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, NA, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNupanjarastotram
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: viShNupanjarastotram
+itxtitle: viShNupanjarastotram (brahmANDapurANAntargatam)
+title: विष्णुपञ्जरस्तोत्रम् (ब्रह्माण्डपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णुपञ्जरस्तोत्रम्   
   
@@ -35,7 +35,7 @@ title = "विष्णुपञ्जरस्तोत्रम् (ब्र
 अथ हृदयादिन्यासः । ॐ ह्रां हृदयाय नमः । ॐ ह्रीं शिरसे स्वाहा ।  
 ॐ ह्रूं शिखायै वषट् । ॐ ह्रैं कवचाय हुम् ।  
 ॐ ह्रौं नेत्रत्रयाय वौषट् । ॐ ह्रः अस्त्राय फट् । इति अङ्गन्यासः ।  
-अहंबीजप्राणायामं मन्त्रत्रयेण कुर्यात् ।  
+अहम्बीजप्राणायामं मन्त्रत्रयेण कुर्यात् ।  
                      अथ ध्यानम् ।  
 परं परस्मात्प्रकृतेरनादिमेकं निविष्टं बहुधा गुहायाम् ।  
 सर्वालयं सर्वचराचरस्थं नमामि विष्णुं जगदेकनाथम् ॥ १॥  

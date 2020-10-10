@@ -1,25 +1,25 @@
-+++
-"Text title" = "Padavalambanastutih"
-"File name" = "pAdAvalambanastutiH.itx"
-itxtitle = "pAdAvalambanastutiH (chandrashekharabhAratI virachitA)"
-engtitle = "pAdAvalambanastutiH"
-Category = "deities_misc, gurudev, chandrashekharabhAratI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "chandrashekharabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Sri Gururaja Sukti Malika"
-Indexextra = "(Translation)"
-"Latest update" = "January 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पादावलम्बनस्तुतिः (चन्द्रशेखरभारती विरचिता)"
+---
+Author: chandrashekharabhAratI
+Category: deities_misc, gurudev, chandrashekharabhAratI
+Description/comments: Sri Gururaja Sukti Malika
+File name: pAdAvalambanastutiH.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: January 1, 2020
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Padavalambanastutih
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: pAdAvalambanastutiH
+itxtitle: pAdAvalambanastutiH (chandrashekharabhAratI virachitA)
+title: पादावलम्बनस्तुतिः (चन्द्रशेखरभारती विरचिता)
 
-+++
+---
   
  पादावलम्बनस्तुतिः   
 स्थितेऽनुकम्पामकरन्दपूर्णे  
@@ -57,7 +57,7 @@ title = "पादावलम्बनस्तुतिः (चन्द्र
 विस्मयावहतुरीयकयात्र  
      देहि देशिक ममाङ्घ्र्यवलम्बम् ॥ ६॥  
   
-ईहितं वितर सच्चितिसंज्ञ  
+ईहितं वितर सच्चितिसञ्ज्ञ  
      मोहितस्य जगदीश्वरशक्त्या ।  
 को हितं मम तनोति विना त्वां  
      देहि देशिक ममाङ्घ्र्यवलम्बम् ॥ ७॥  

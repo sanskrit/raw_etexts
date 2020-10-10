@@ -1,25 +1,26 @@
-+++
-"Text title" = "chaNDiikavacham"
-"File name" = "chaNDiikavacham.itx"
-itxtitle = "chaNDIkavacham"
-engtitle = "chaNDIkavacham"
-Category = "kavacha, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "vArAhapurANe, Gitapress saptashati, also Mantra Maharnava Khemraj - 1924, Pdf file no - 5 , page no 95"
-Indexextra = "(Saptashati, Mantra Maharnava)"
-"Latest update" = "May, 15, 2006, February 3, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चण्डीकवचम्"
+---
+Author: Traditional
+Category: kavacha, devii, durgA, devI
+Description-comments: vArAhapurANe, Gitapress saptashati, also Mantra Maharnava Khemraj
+  - 1924, Pdf file no - 5 , page no 95
+File name: chaNDiikavacham.itx
+Indexextra: (Saptashati, Mantra Maharnava)
+Language: Sanskrit
+Latest update: May, 15, 2006, February 3, 2019
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: chaNDiikavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: chaNDIkavacham
+itxtitle: chaNDIkavacham
+title: चण्डीकवचम्
 
-+++
+---
   
  चण्डीकवचम्   
 श्रीगणेशाय नमः ।  

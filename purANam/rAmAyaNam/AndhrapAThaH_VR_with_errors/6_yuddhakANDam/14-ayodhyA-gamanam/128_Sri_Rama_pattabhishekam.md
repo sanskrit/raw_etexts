@@ -3,7 +3,6 @@ title: 128 Sri Rama pattabhishekam
 title_english: 128 Sri Rama pattabhishekam
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-128-Sri_Rama_pattabhishekam_0.mp3"></div>
 
 शिरस्यञ्जलिमादाय कैकेयीनन्दिवर्धनः ।  
@@ -239,7 +238,7 @@ title_english: 128 Sri Rama pattabhishekam
 समागम्य प्रवासान्ते रमन्ते सह बान्धवैः ।  
 शृण्वन्ति य इदं काव्यं पुरा वाल्मीकिना कृतम् ॥ ६-१२८-११४  
 ते प्रार्थितान् वरान् सर्वान् प्राप्नुवन्तीह राघवात् ।  
-श्रवणेन सुराः सर्वे प्रीयन्ते संप्रशृण्वताम् ॥ ६-१२८-११५  
+श्रवणेन सुराः सर्वे प्रीयन्ते सम्प्रशृण्वताम् ॥ ६-१२८-११५  
 विनायकाश्च शाम्यन्ति गृहे तिष्ठन्ति यस्य वै ।  
 विजयेत महीं राजा प्रवासि स्वस्तिमान् भवेत् ॥ ६-१२८-११६  
 स्त्रियो रजस्वलाः श्रुत्वा पुत्रान् सूयुरनुत्तमान् ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "ardhanArIshvarasahasranAmastotram 1"
-"File name" = "ardhanArIshvarasahasranAmastotram.itx"
-itxtitle = "ardhanArIshvarasahasranAmastotram 1"
-engtitle = "ardhanArIshvarasahasranAmastotram 1"
-Category = "sahasranAma, shiva, devii, pArvatI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-Description-comments = "See corresponding nAmAvalI"
-Indexextra = "(Scan, nAmAvalI)"
-"Latest update" = "May 30, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "अर्धनारीश्वरसहस्रनामस्तोत्रम् १"
+---
+Category: sahasranAma, shiva, devii, pArvatI
+Description-comments: See corresponding nAmAvalI
+File name: ardhanArIshvarasahasranAmastotram.itx
+Indexextra: (Scan, nAmAvalI)
+Language: Sanskrit
+Latest update: May 30, 2020
+Location: doc_shiva
+Proofread by: PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: ardhanArIshvarasahasranAmastotram 1
+engtitle: ardhanArIshvarasahasranAmastotram 1
+itxtitle: ardhanArIshvarasahasranAmastotram 1
+title: अर्धनारीश्वरसहस्रनामस्तोत्रम् १
 
-+++
+---
   
  अर्धनारीश्वरसहस्रनामस्तोत्रम्   
 ॐ । अखण्डमण्डलाकारश्चाखिलाण्डैकनायिका ।  
@@ -257,7 +257,7 @@ title = "अर्धनारीश्वरसहस्रनामस्त�
 घनो घनागमश्यामा घनप्रौढो घनस्तनी ।  
 घृणी घृणानिधिर्घ्राणो घृताचीपूज्यपादुकः ॥ ७९॥  
   
-घण्टामुखसुसंप्रीतो घण्टारवविनोदिनी ।  
+घण्टामुखसुसम्प्रीतो घण्टारवविनोदिनी ।  
 घनीभूतप्रभापूरो घळङ्घलितमेखला ॥ ८०॥  
   
 घनसारविलिप्ताङ्गो घनसारसवर्णिनी ।  

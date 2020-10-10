@@ -1,24 +1,24 @@
-+++
-"Text title" = "kenopaniShad"
-"File name" = "kena.itx"
-itxtitle = "kenopaniShat"
-engtitle = "Kena Upanishad"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "From Eight Upanishads, translated by Gambhirananda"
-Indexextra = "(1, 2, 3, 4 5 translations)"
-"Latest update" = "April 29, 2010, October 1, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "केनोपनिषत्"
+---
+Category: upanishhat, svara, upanishad
+Description-comments: From Eight Upanishads, translated by Gambhirananda
+File name: kena.itx
+Indexextra: (1, 2, 3, 4 5 translations)
+Language: Sanskrit
+Latest update: April 29, 2010, October 1, 2018
+Location: doc_upanishhat
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: kenopaniShad
+Texttype: svara
+Transliterated by: NA
+engtitle: Kena Upanishad
+itxtitle: kenopaniShat
+title: केनोपनिषत्
 
-+++
+---
   
  केनोपनिषत्   
   

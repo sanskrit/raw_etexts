@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRRiShNastavarAjaH"
-"File name" = "kRRiShNastavarAjaH.itx"
-itxtitle = "kRiShNastavarAjaH (kRiShNadAsavirachitaH)"
-engtitle = "kRRiShNastavarAjaH"
-Category = "vishhnu, krishna, stavarAja"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तवराजः (कृइष्णदासविरचितः)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, krishna, stavarAja
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: kRRiShNastavarAjaH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNastavarAjaH
+engtitle: kRRiShNastavarAjaH
+itxtitle: kRiShNastavarAjaH (kRiShNadAsavirachitaH)
+title: कृइष्णस्तवराजः (कृइष्णदासविरचितः)
 
-+++
+---
   
  श्रीकृष्णस्तवराजः   
   

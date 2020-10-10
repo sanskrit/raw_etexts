@@ -1,27 +1,27 @@
-+++
-"Text title" = "Shri Mukambika stotra"
-"File name" = "mUkAmbikAstotra.itx"
-itxtitle = "mUkAmbikAstotram"
-engtitle = "mUkAmbikAstotram"
-Category = "devii, otherforms, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. R. Ramamurthy, Shree"
-"Proofread by" = "P. R. Ramamurthy, Shree"
-Description-comments = "Mookambika Stotra"
-Source = "https://www.kamakotimandali.com/stotra/mukambastava.pdf"
-Indexextra = "(youtube)"
-"Latest update" = "August 2, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मूकाम्बिकास्तोत्रम्"
+---
+Author: Traditional
+Category: devii, otherforms, stotra, devI
+Description-comments: Mookambika Stotra
+File name: mUkAmbikAstotra.itx
+Indexextra: (youtube)
+Language: Sanskrit
+Latest update: August 2, 2016
+Location: doc_devii
+Proofread by: P. R. Ramamurthy, Shree
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: https://www.kamakotimandali.com/stotra/mukambastava.pdf
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Mukambika stotra
+Texttype: stotra
+Transliterated by: P. R. Ramamurthy, Shree
+engtitle: mUkAmbikAstotram
+itxtitle: mUkAmbikAstotram
+title: मूकाम्बिकास्तोत्रम्
 
-+++
+---
   
  श्रीमूकाम्बिकास्तोत्रम्   
   
@@ -76,7 +76,7 @@ title = "मूकाम्बिकास्तोत्रम्"
 पञ्चाद्यञ्चितसञ्चरीं भगवतीं ध्यायामि मूकाम्बिकाम् ॥ १०॥  
   
 सौवर्णाम्बुजमध्यकाञ्चिनयनां सौदामिनीसन्निभां  
-शङ्खंचक्रवराभयानि दधतीं इन्दोः कलां बिभ्रतीम् ।  
+शङ्खञ्चक्रवराभयानि दधतीं इन्दोः कलां बिभ्रतीम् ।  
 ग्रीवेयासक्तहारकुण्डलधरां आखण्डलादिस्तुतां मायां  
 विन्ध्यनिवासिनीं भगवतीं ध्यायामि मूकाम्बिकाम् ॥ ११॥  
   

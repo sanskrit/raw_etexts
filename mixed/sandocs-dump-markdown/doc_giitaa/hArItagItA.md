@@ -1,22 +1,22 @@
-+++
-"Text title" = "hArItagItA"
-"File name" = "haariitagiitaa.itx"
-itxtitle = "hArItagItA"
-engtitle = "hArItagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?) then expanded"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-Indexextra = "(mahAbhArata shAntiparva  Mokshadharma, Chapters 278 (scanned))"
-"Latest update" = "June 2, 1998, March 24, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हारीतगीता"
+---
+Category: gItA, giitaa
+File name: haariitagiitaa.itx
+Indexextra: (mahAbhArata shAntiparva  Mokshadharma, Chapters 278 (scanned))
+Language: Sanskrit
+Latest update: June 2, 1998, March 24, 2013
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: hArItagItA
+Transliterated by: Professor Tokunaga in Kyoto system(?) then expanded
+engtitle: hArItagItA
+itxtitle: hArItagItA
+title: हारीतगीता
 
-+++
+---
   
  हारीतगीता   
   
@@ -65,7 +65,7 @@ title = "हारीतगीता"
 अनुरोधविरोधाभ्यां समः स्यादचलो ध्रुवः ।  
 सुकृतं दुष्कृतं चोभे नानुरुध्येत कर्मणि ॥ १४॥  
   
-नित्यतृप्तः सुसंतुष्टः प्रसन्नवदनेन्द्रियः ।  
+नित्यतृप्तः सुसन्तुष्टः प्रसन्नवदनेन्द्रियः ।  
 विभीर्जप्यपरो मौनी वैराग्यं समुपाश्रितः ॥ १५॥  
   
 अभ्यस्तं भौतिकं पश्यन् भूतानामागतीं गतिम् ।  

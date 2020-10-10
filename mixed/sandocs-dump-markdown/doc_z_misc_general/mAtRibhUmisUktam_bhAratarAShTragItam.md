@@ -1,24 +1,25 @@
-+++
-"Text title" = "Matribhumi Suktam"
-"File name" = "mAtRRibhUmisUktam.itx"
-itxtitle = "mAtRibhUmisUktam (bhAratarAShTragItam)"
-engtitle = "mAtRRibhUmisUktam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Source = "atharvaveda kA0 12 sU0 1, maM0 1,3,6, 45, 45, 62, 63"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातृइभूमिसूक्तम् (भारतराष्ट्रगीतम्)"
+---
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: mAtRRibhUmisUktam.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: atharvaveda kA0 12 sU0 1, maM0 1,3,6, 45, 45, 62, 63
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Matribhumi Suktam
+Translated by: Mandar Mali
+engtitle: mAtRRibhUmisUktam
+itxtitle: mAtRibhUmisUktam (bhAratarAShTragItam)
+title: मातृइभूमिसूक्तम् (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  मातृभूमिसूक्तम्   
 सत्यं वृहद् ऋतमुग्रं दीक्षा  

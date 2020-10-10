@@ -1,22 +1,22 @@
-+++
-"Text title" = "vajrapanjaropaniShat"
-"File name" = "vajrapanjaropaniShat.itx"
-itxtitle = "vajrapanjaropaniShat (shaiva)"
-engtitle = "vajrapanjaropaniShat"
-Category = "upanishhat, shiva, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वज्रपञ्जरोपनिषत् (शैव)"
+---
+Category: upanishhat, shiva, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: vajrapanjaropaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: vajrapanjaropaniShat
+engtitle: vajrapanjaropaniShat
+itxtitle: vajrapanjaropaniShat (shaiva)
+title: वज्रपञ्जरोपनिषत् (शैव)
 
-+++
+---
   
  वज्रपञ्जरोपनिषत्   
 सह नाववतु-इति शान्तिः ।  

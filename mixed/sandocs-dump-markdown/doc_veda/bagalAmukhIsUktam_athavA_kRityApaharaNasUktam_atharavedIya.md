@@ -1,23 +1,23 @@
-+++
-"Text title" = "kRityApaharaNasUktam bagalAmukhIsUkta"
-"File name" = "kRityApaharaNabagalAmukhIsUkta.itx"
-itxtitle = "bagalAmukhIsUktam athavA kRityApaharaNasUktam (atharavedIya)"
-engtitle = "kRityApaharaNasUktam bagalAmukhIsUktam"
-Category = "veda, svara, dashamahAvidyA, devii, devI"
-Location = "doc_veda"
-Sublocation = "veda"
-SubDeity = "dashamahAvidyA"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Indexextra = "(Hindi, English, text)"
-"Latest update" = "May 6, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बगलामुखीसूक्तम् अथवा कृइत्यापहरणसूक्तम् (अथरवेदीय)"
+---
+Category: veda, svara, dashamahAvidyA, devii, devI
+File name: kRityApaharaNabagalAmukhIsUkta.itx
+Indexextra: (Hindi, English, text)
+Language: Sanskrit
+Latest update: May 6, 2018
+Location: doc_veda
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: kRityApaharaNasUktam bagalAmukhIsUkta
+Texttype: svara
+engtitle: kRityApaharaNasUktam bagalAmukhIsUktam
+itxtitle: bagalAmukhIsUktam athavA kRityApaharaNasUktam (atharavedIya)
+title: बगलामुखीसूक्तम् अथवा कृइत्यापहरणसूक्तम् (अथरवेदीय)
 
-+++
+---
   
  कृत्यापरिहरणसूक्तं बगलामुखीसूक्तं च   
   

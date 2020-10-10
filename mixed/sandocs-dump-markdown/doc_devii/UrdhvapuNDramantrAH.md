@@ -1,21 +1,21 @@
-+++
-"Text title" = "UrdhvapuNDramantrAH"
-"File name" = "UrdhvapuNDramantrAH.itx"
-itxtitle = "UrdhvapuNDramantrAH"
-engtitle = "UrdhvapuNDramantrAH"
-Category = "devii, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "sarasa stotrasangrahaH (Lucknow, 1909)"
-Indexextra = "(Scanned)"
-"Latest update" = "November 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ऊर्ध्वपुण्ड्रमन्त्राः"
+---
+Category: devii, radha, devI
+Description-comments: sarasa stotrasangrahaH (Lucknow, 1909)
+File name: UrdhvapuNDramantrAH.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 4, 2017
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: UrdhvapuNDramantrAH
+engtitle: UrdhvapuNDramantrAH
+itxtitle: UrdhvapuNDramantrAH
+title: ऊर्ध्वपुण्ड्रमन्त्राः
 
-+++
+---
   
  श्रीऊर्ध्वपुण्ड्राणां नारायणादि नामद्वादशस्थानानि   
 श्रीरङ्गे द्वारकायां च श्रीकूर्मे च तथा स्थितः ।  

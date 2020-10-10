@@ -1,22 +1,22 @@
-+++
-"Text title" = "nandanandanAShTakam"
-"File name" = "nandanandanAShTakam.itx"
-itxtitle = "nandanandanAShTakam"
-engtitle = "nandanandanAShTakam"
-Category = "vishhnu, krishna, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नन्दनन्दनाष्टकम्"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: vishhnu, krishna, aShTaka
+File name: nandanandanAShTakam.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nandanandanAShTakam
+engtitle: nandanandanAShTakam
+itxtitle: nandanandanAShTakam
+title: नन्दनन्दनाष्टकम्
 
-+++
+---
   
  श्री नन्द नन्दनाष्टकम्   
 सुचारुवक्त्रमण्डलं सुकर्णरत्नकुण्डलम् ।  

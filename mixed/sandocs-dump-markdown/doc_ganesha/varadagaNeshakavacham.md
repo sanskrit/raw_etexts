@@ -1,23 +1,23 @@
-+++
-"Text title" = "varadagaNeshakavacham"
-"File name" = "varadagaNeshakavacham.itx"
-itxtitle = "varadagaNeshakavacham"
-engtitle = "varadagaNeshakavacham"
-Category = "kavacha, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale tantre deviirahasye"
-"Latest update" = "May, 16, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वरदगणेशकवचम्"
+---
+Author: Traditional
+Category: kavacha, ganesha
+Description-comments: rudrayAmale tantre deviirahasye
+File name: varadagaNeshakavacham.itx
+Language: Sanskrit
+Latest update: May, 16, 2006
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: varadagaNeshakavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: varadagaNeshakavacham
+itxtitle: varadagaNeshakavacham
+title: वरदगणेशकवचम्
 
-+++
+---
   
  वरदगणेशकवचम्   
   
@@ -36,7 +36,7 @@ title = "वरदगणेशकवचम्"
 प्रायः सर्वासुरेन्द्रैः ससुरमुनिगणैः साधकैः पूज्यमानं  
 कारुण्येनान्तरायामितभयशमनं विघ्नराजं नमामि ॥ २॥  
   
-ॐश्रींह्रींगं शिरः पातु महागणपतिः प्रभुः ।  
+ॐश्रींह्रीङ्गं शिरः पातु महागणपतिः प्रभुः ।  
 विनायको ललाटं मे विघ्नराजो भ्रुवौ मम ॥ ३॥  
   
 पातु नेत्रे गणाध्यक्षो नासिकां मे गजाननः ।  
@@ -80,9 +80,9 @@ title = "वरदगणेशकवचम्"
   
 सर्वत्र सर्वदा पातु शङ्खयुग्मं च मद्वपुः ।  
 ॐॐ राजकुले हहौं रणभये ह्रींह्रीं कुद्यूतेऽवतात्  
-श्रींश्रीं शत्रुगृहे शशौं जलभये क्लींक्लीं वनान्तेऽवतु ।  
-ग्लौंग्लूंग्लैंग्लंगुं सत्वभीतिषु महाव्याध्यार्तिषु ग्लौंगगौं  
-नित्यं यक्षपिशाचभूतफणिषु ग्लौंगं गणेशोऽवतु ॥ १७॥  
+श्रींश्रीं शत्रुगृहे शशौं जलभये क्लीङ्क्लीं वनान्तेऽवतु ।  
+ग्लौङ्ग्लूङ्ग्लैङ्ग्लङ्गुं सत्वभीतिषु महाव्याध्यार्तिषु ग्लौङ्गगौं  
+नित्यं यक्षपिशाचभूतफणिषु ग्लौङ्गं गणेशोऽवतु ॥ १७॥  
   
 इतीदं कवचं गुह्यं सर्वतन्त्रेषु गोपितम् ।  
 वज्रपञ्जरनामानं गणेशस्य महात्मनः ॥ १८॥  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Gangastotram 3"
-"File name" = "gangAstotram3.itx"
-itxtitle = "gaNgAstotram 3 (samayAchAratantrAntargatam athAnantarato devi)"
-engtitle = "gangAstotram 3"
-Category = "devii, devI, nadI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Proofread by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Description/comments" = "Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty"
-Indexextra = "(Scan)"
-"Latest update" = "December 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गास्तोत्रम् ३ (समयाचारतन्त्रान्तर्गतम् अथानन्तरतो देवि)"
+---
+Category: devii, devI, nadI
+Description/comments: Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty
+File name: gangAstotram3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 7, 2019
+Location: doc_devii
+Proofread by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangastotram 3
+Transliterated by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+engtitle: gangAstotram 3
+itxtitle: gaNgAstotram 3 (samayAchAratantrAntargatam athAnantarato devi)
+title: गण्गास्तोत्रम् ३ (समयाचारतन्त्रान्तर्गतम् अथानन्तरतो देवि)
 
-+++
+---
   
  गङ्गास्तोत्रम् ३   
 श्रीगणेशाय नमः ।  

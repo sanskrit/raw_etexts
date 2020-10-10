@@ -1,23 +1,23 @@
-+++
-"Text title" = "subrahmaNyAkSharamAlikAstotram"
-"File name" = "subrahmaNyAkSharamAlikAstotram.itx"
-itxtitle = "subrahmaNyAkSharamAlikAstotram (nIlakaNThakRitam)"
-engtitle = "subrahmaNyAkSharamAlikAstotram"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "Nilakantha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "April 4, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्याक्षरमालिकास्तोत्रम् (नीलकण्ठकृइतम्)"
+---
+Author: Nilakantha
+Category: subrahmanya
+File name: subrahmaNyAkSharamAlikAstotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 4, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyAkSharamAlikAstotram
+Transliterated by: Sivakumar Thyagarajan Iyer
+engtitle: subrahmaNyAkSharamAlikAstotram
+itxtitle: subrahmaNyAkSharamAlikAstotram (nIlakaNThakRitam)
+title: सुब्रह्मण्याक्षरमालिकास्तोत्रम् (नीलकण्ठकृइतम्)
 
-+++
+---
   
  श्रीसुब्रह्मण्याक्षरमालिकास्तोत्रम्   
 ॐ श्रीगणेशाय नमः  

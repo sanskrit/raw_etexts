@@ -1,25 +1,25 @@
-+++
-"Text title" = "bhavatu bhAratam"
-"File name" = "bhavatubhAratam.itx"
-itxtitle = "bhavatubhAratam"
-engtitle = "bhavatu bhAratam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/India"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "Sun in Raga Bairagi"
-Indexextra = "(Videos 1, 2)"
-Acknowledge-Permission = "EpiClips"
-"Latest update" = "January 3, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवतुभारतम्"
+---
+Acknowledge-Permission: EpiClips
+Author: Traditional
+Category: misc, sanskritgeet
+Description-comments: Sun in Raga Bairagi
+File name: bhavatubhAratam.itx
+Indexextra: (Videos 1, 2)
+Language: Sanskrit
+Latest update: January 3, 2016
+Location: doc_z_misc_general
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/India
+Sublocation: misc
+Text title: bhavatu bhAratam
+Transliterated by: NA
+engtitle: bhavatu bhAratam
+itxtitle: bhavatubhAratam
+title: भवतुभारतम्
 
-+++
+---
   
  भवतु भारतम्   
 शक्तिसम्भृतम् युक्तिसम्भृतम् ।  

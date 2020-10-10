@@ -1,26 +1,26 @@
-+++
-"Text title" = "yamunAstavam from Gargasamhita"
-"File name" = "yamunAstavamgargasamhitA.itx"
-itxtitle = "yamunAstavam (gargasaMhitAntargatam)"
-engtitle = "yamunAstavam from Gargasamhita"
-Category = "devii, nadI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "gargasamhitA"
-Indexextra = "(satsangdhArA)"
-Acknowledge-Permission = "Vishwas Bhide http://satsangdhara.net/"
-"Latest update" = "February 3, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनास्तवम् (गर्गसंहितान्तर्गतम्)"
+---
+Acknowledge-Permission: Vishwas Bhide http://satsangdhara.net/
+Category: devii, nadI, stotra, devI
+Description-comments: gargasamhitA
+File name: yamunAstavamgargasamhitA.itx
+Indexextra: (satsangdhArA)
+Language: Sanskrit
+Latest update: February 3, 2016
+Location: doc_devii
+Proofread by: Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunAstavam from Gargasamhita
+Texttype: stotra
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com
+engtitle: yamunAstavam from Gargasamhita
+itxtitle: yamunAstavam (gargasaMhitAntargatam)
+title: यमुनास्तवम् (गर्गसंहितान्तर्गतम्)
 
-+++
+---
   
  यमुनास्तवम्   
 गर्गसंहितान्तर्गतम्  

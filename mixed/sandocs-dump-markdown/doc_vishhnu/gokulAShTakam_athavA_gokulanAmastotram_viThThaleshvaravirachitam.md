@@ -1,24 +1,24 @@
-+++
-"Text title" = "gokulAShTakam"
-"File name" = "gokulAShTakam.itx"
-itxtitle = "gokulAShTakam athavA gokulanAmastotram (viThThaleshvaravirachitam)"
-engtitle = "gokulAShTakam gokulanAmastotram"
-Category = "aShTaka, vishhnu, krishna, vishnu, puShTimArgIya, viThThaleshvara"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Vitthalesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "May 17, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोकुलाष्टकम् अथवा गोकुलनामस्तोत्रम् (विठ्ठलेश्वरविरचितम्)"
+---
+Author: Vitthalesha
+Category: aShTaka, vishhnu, krishna, vishnu, puShTimArgIya, viThThaleshvara
+Description/comments: puShTimArgIya stotraratnAkara
+File name: gokulAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: May 17, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gokulAShTakam
+engtitle: gokulAShTakam gokulanAmastotram
+itxtitle: gokulAShTakam athavA gokulanAmastotram (viThThaleshvaravirachitam)
+title: गोकुलाष्टकम् अथवा गोकुलनामस्तोत्रम् (विठ्ठलेश्वरविरचितम्)
 
-+++
+---
   
  श्रीगोकुलाष्टकम् अथवा गोकुलनामस्तोत्रम्   
   

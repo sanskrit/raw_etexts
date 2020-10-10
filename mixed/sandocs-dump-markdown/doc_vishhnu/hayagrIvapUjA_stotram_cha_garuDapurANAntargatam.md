@@ -1,21 +1,21 @@
-+++
-"Text title" = "Hayagriva Puja and Stotram"
-"File name" = "hayagrIvapUjAstotram.itx"
-itxtitle = "hayagrIvapUjA stotram cha (garuDapurANAntargatam)"
-engtitle = "Hayagriva Puja and Stotram"
-Category = "vishhnu, stotra, pUjA"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Garudapurana, karmakANDAkhyaH pUrvakhaNDaH 1, adhyAya 33"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हयग्रीवपूजा स्तोत्रम् च (गरुडपुराणान्तर्गतम्)"
+---
+Category: vishhnu, stotra, pUjA
+Description/comments: Garudapurana, karmakANDAkhyaH pUrvakhaNDaH 1, adhyAya 33
+File name: hayagrIvapUjAstotram.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Hayagriva Puja and Stotram
+engtitle: Hayagriva Puja and Stotram
+itxtitle: hayagrIvapUjA stotram cha (garuDapurANAntargatam)
+title: हयग्रीवपूजा स्तोत्रम् च (गरुडपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीहयग्रीवपूजाविधि स्तोत्रम् च   
 रुद्र उवाच ।  
@@ -84,7 +84,7 @@ title = "हयग्रीवपूजा स्तोत्रम् च (ग�
 सत्त्वं रजस्तमश्चैव मध्यदेशेऽथ पूजयेत् ॥ २०॥  
   
 कन्दं नालं च पद्मं च मध्ये चैव प्रपूजयेत् ।  
-अर्कसोमाग्निसंज्ञानां मण्डलानां हि पूजनम् ।  
+अर्कसोमाग्निसञ्ज्ञानां मण्डलानां हि पूजनम् ।  
 मध्यदेशे प्रकर्तव्यमिति रुद्र प्रकीर्तितम् ॥ २१॥  
   
 विमलोत्कर्षिणी ज्ञाना क्रियायोगे वृषध्वज ।  

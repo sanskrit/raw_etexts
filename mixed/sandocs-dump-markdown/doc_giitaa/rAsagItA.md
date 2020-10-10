@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAsagItA"
-"File name" = "rAsagItA.itx"
-itxtitle = "rAsagItA"
-engtitle = "rAsagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Bengali)"
-"Latest update" = "May 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रासगीता"
+---
+Category: gItA, giitaa
+File name: rAsagItA.itx
+Indexextra: (Bengali)
+Language: Sanskrit
+Latest update: May 18, 2013
+Location: doc_giitaa
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: rAsagItA
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: rAsagItA
+itxtitle: rAsagItA
+title: रासगीता
 
-+++
+---
   
  रासगीता   
   

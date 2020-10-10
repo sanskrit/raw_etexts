@@ -1,22 +1,22 @@
-+++
-"Text title" = "mankigItA"
-"File name" = "mankigiitaa.itx"
-itxtitle = "maNkigItA"
-engtitle = "maNkigItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-Indexextra = "(mahAbhArata shAntiparva)"
-"Latest update" = "June 2, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मण्किगीता"
+---
+Category: gItA, giitaa
+File name: mankigiitaa.itx
+Indexextra: (mahAbhArata shAntiparva)
+Language: Sanskrit
+Latest update: June 2, 1998
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: mankigItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: maNkigItA
+itxtitle: maNkigItA
+title: मण्किगीता
 
-+++
+---
   
  मङ्किगीता   
   

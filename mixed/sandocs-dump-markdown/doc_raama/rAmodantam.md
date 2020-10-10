@@ -1,25 +1,25 @@
-+++
-"Text title" = "rAmodantam"
-"File name" = "rAmodantam.itx"
-itxtitle = "rAmodantam"
-engtitle = "rAmodantam"
-Category = "raama, stotra"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "Parameshwara Kavi from Kerala"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Christophe Vielle, P. P. Narayanaswami swami at mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at mun.ca"
-Description-comments = "khaNDakAvyam"
-Indexextra = "(GRETIL, malayalamebooks, SiddharUpam)"
-"Latest update" = "May 10, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामोदन्तम्"
+---
+Author: Parameshwara Kavi from Kerala
+Category: raama, stotra
+Description-comments: khaNDakAvyam
+File name: rAmodantam.itx
+Indexextra: (GRETIL, malayalamebooks, SiddharUpam)
+Language: Sanskrit
+Latest update: May 10, 2015
+Location: doc_raama
+Proofread by: P. P. Narayanaswami swami at mun.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmodantam
+Texttype: stotra
+Transliterated by: Christophe Vielle, P. P. Narayanaswami swami at mun.ca
+engtitle: rAmodantam
+itxtitle: rAmodantam
+title: रामोदन्तम्
 
-+++
+---
   
  श्रीरामोदन्तम्   
     ॥ अथ बालकाण्डः ॥  
@@ -174,7 +174,7 @@ title = "रामोदन्तम्"
 श्रिङ्गिबेरपुरं गत्वा गङ्गाकूलेऽथ राघवः ।  
 गुहेन सत्कृतस्तत्र निशामेकामुवास च ॥ ८॥  
   
-सारथिं संनिमन्त्र्यासौ सीतालक्ष्मणसंयुतः ।  
+सारथिं सन्निमन्त्र्यासौ सीतालक्ष्मणसंयुतः ।  
 गुहेनानीतया नावा सन्ततार च जाह्नवीम् ॥ ९॥  
   
 भरद्वाजमुनिं प्राप्य तं नत्वा तेन सत्कृतः ।  

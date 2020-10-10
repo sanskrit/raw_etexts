@@ -1,24 +1,24 @@
-+++
-"Text title" = "veNkaTeshAShTakam"
-"File name" = "venkateshAShTaka.itx"
-itxtitle = "veNkaTeshAShTakam"
-engtitle = "veNkaTeshAShTakam"
-Category = "aShTaka, vishhnu, venkateshwara, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Author = "prabhAkara  See the last two verses"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Description-comments = "Brihatstotraratnavali"
-"Latest update" = "July 21, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशाष्टकम्"
+---
+Author: prabhAkara  See the last two verses
+Category: aShTaka, vishhnu, venkateshwara, vishnu
+Description-comments: Brihatstotraratnavali
+File name: venkateshAShTaka.itx
+Language: Sanskrit
+Latest update: July 21, 2012
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veNkaTeshAShTakam
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: veNkaTeshAShTakam
+itxtitle: veNkaTeshAShTakam
+title: वेण्कटेशाष्टकम्
 
-+++
+---
   
  श्रीवेङ्कटेशाष्टकम्   
   
@@ -33,9 +33,9 @@ title = "वेण्कटेशाष्टकम्"
 कुर्यादशेषमनिशङ्खलु तापभङ्गम् ॥ २॥  
   
 वैकुण्ठराजसकलोऽपि धनेशवर्गो  
-नीतोऽपमानसरणिंत्वयि विश्वसित्रा ।  
-तस्मादयंन समयः परिहासवाचाम्  
-इष्टंप्रपूर्य कुरु मां कृतकृत्यसङ्घम् ॥ ३॥  
+नीतोऽपमानसरणिन्त्वयि विश्वसित्रा ।  
+तस्मादयन्न समयः परिहासवाचाम्  
+इष्टम्प्रपूर्य कुरु मां कृतकृत्यसङ्घम् ॥ ३॥  
   
 श्रीमन्नारास्तुकतिचिद्धनिकांश्च केचित्  
 क्षोणीपतीन्कतिचिदत्रच राजलोकान् ।  

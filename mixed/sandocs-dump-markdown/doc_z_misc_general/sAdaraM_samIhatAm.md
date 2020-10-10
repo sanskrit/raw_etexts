@@ -1,24 +1,24 @@
-+++
-"Text title" = "sAdaraMsamIhatAm"
-"File name" = "sAdaraMsamIhatAm.itx"
-itxtitle = "sAdaraM samIhatAm"
-engtitle = "sAdaraMsamIhatAm"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Shri Vasudev Divedi Shastri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Audio 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सादरं समीहताम्"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: Shri Vasudev Divedi Shastri
+Category: misc, sanskritgeet
+File name: sAdaraMsamIhatAm.itx
+Indexextra: (Wiki, Audio 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: sAdaraMsamIhatAm
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: sAdaraMsamIhatAm
+itxtitle: sAdaraM samIhatAm
+title: सादरं समीहताम्
 
-+++
+---
   
  सादरं समीहताम्   
 सादरं समीहतां वन्दना विधीयतां  

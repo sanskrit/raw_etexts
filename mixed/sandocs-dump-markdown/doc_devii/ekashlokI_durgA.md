@@ -1,21 +1,21 @@
-+++
-"Text title" = "ekashloki durgA"
-"File name" = "ekashlokIdurgA.itx"
-itxtitle = "ekashlokI durgA"
-engtitle = "ekashloki durgA"
-Category = "ekashlokI, devii, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "September 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकश्लोकी दुर्गा"
+---
+Author: Traditional
+Category: ekashlokI, devii, stotra, devI
+File name: ekashlokIdurgA.itx
+Language: Sanskrit
+Latest update: September 25, 2017
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ekashloki durgA
+Texttype: stotra
+engtitle: ekashloki durgA
+itxtitle: ekashlokI durgA
+title: एकश्लोकी दुर्गा
 
-+++
+---
   
  एकश्लोकी दुर्गा   
   

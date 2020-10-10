@@ -1,24 +1,24 @@
-+++
-"Text title" = "Mahamrityunjayastotram"
-"File name" = "mahaamrtyu.itx"
-itxtitle = "mahAmRityunjayastotram (rudraM pashupatiM)"
-engtitle = "Mahamrityunjayastotram"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. P. Narayanaswami swami at math.mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at math.mun.ca"
-Indexextra = "(mArkaNDeyapurANa)"
-"Latest update" = "March 15, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महामृइत्युञ्जयस्तोत्रम् (रुद्रं पशुपतिं)"
+---
+Author: Traditional
+Category: shiva, stotra
+File name: mahaamrtyu.itx
+Indexextra: (mArkaNDeyapurANa)
+Language: Sanskrit
+Latest update: March 15, 2001
+Location: doc_shiva
+Proofread by: P. P. Narayanaswami swami at math.mun.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mahamrityunjayastotram
+Texttype: stotra
+Transliterated by: P. P. Narayanaswami swami at math.mun.ca
+engtitle: Mahamrityunjayastotram
+itxtitle: mahAmRityunjayastotram (rudraM pashupatiM)
+title: महामृइत्युञ्जयस्तोत्रम् (रुद्रं पशुपतिं)
 
-+++
+---
   
  महामृत्युञ्जयस्तोत्रम्   
   
@@ -95,7 +95,7 @@ Variation
 मार्कण्डेयकृतं स्तोत्रं यः पठेच्छिवसन्निधौ ।  
 तस्य मृत्युभयं नास्ति नाग्निचौरभयं क्वचित् ॥ १९॥  
   
-शतावर्त्तं प्रकर्तव्यं संकटे कष्टनाशनम् ।  
+शतावर्त्तं प्रकर्तव्यं सङ्कटे कष्टनाशनम् ।  
 शुचिर्भूत्वा पथेत्स्तोत्रं सर्वसिद्धिप्रदायकम् ॥ २०॥  
   
 मृत्युञ्जय महादेव त्राहि मां शरणागतम् ।  

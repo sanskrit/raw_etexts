@@ -1,20 +1,20 @@
-+++
-"Text title" = "Shri Sadashiva Kavacha Stotram"
-"File name" = "sadAshivakavachastotram.itx"
-itxtitle = "sadAshivakavachastotram"
-engtitle = "sadAshivakavachastotram"
-Category = "shiva, kavacha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "August 10, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सदाशिवकवचस्तोत्रम्"
+---
+Category: shiva, kavacha
+File name: sadAshivakavachastotram.itx
+Language: Sanskrit
+Latest update: August 10, 2019
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Sadashiva Kavacha Stotram
+engtitle: sadAshivakavachastotram
+itxtitle: sadAshivakavachastotram
+title: सदाशिवकवचस्तोत्रम्
 
-+++
+---
   
  श्रीसदाशिवकवचस्तोत्रम्   
 श्रीदेव्युवाच-  
@@ -74,7 +74,7 @@ title = "सदाशिवकवचस्तोत्रम्"
 भूर्जपत्रे त्विमां विद्यां शुक्लपक्षेण वेष्टिताम् ॥ १७॥  
   
 रजतोदरसंविष्टां कृत्वा वा धारयेत्सुधीः ।  
-संप्राप्य महतीं लक्ष्मीमन्ते मद्देहरूपभाक् ॥ १८॥  
+सम्प्राप्य महतीं लक्ष्मीमन्ते मद्देहरूपभाक् ॥ १८॥  
   
 यस्मै कस्मै न दातव्यं न प्रकाश्यं कदाचन ।  
 शिष्याय भक्तियुक्ताय साधकाय प्रकाशयेत् ॥ १९॥  

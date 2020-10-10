@@ -1,23 +1,23 @@
-+++
-"Text title" = "shanistotram"
-"File name" = "shanistotram.itx"
-itxtitle = "shanistotram"
-engtitle = "shanistotram"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-"Latest update" = "June 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शनिस्तोत्रम्"
+---
+Author: Traditional
+Category: navagraha
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: shanistotram.itx
+Language: Sanskrit
+Latest update: June 5, 2016
+Location: doc_z_misc_navagraha
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shanistotram
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: shanistotram
+itxtitle: shanistotram
+title: शनिस्तोत्रम्
 
-+++
+---
   
  शनिस्तोत्रम्   
 ॐ शनैश्चरः स्वधाकारी छायाभूः सूर्यनन्दनः ।  

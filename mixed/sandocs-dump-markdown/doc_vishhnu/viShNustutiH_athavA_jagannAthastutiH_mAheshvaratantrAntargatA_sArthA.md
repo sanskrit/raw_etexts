@@ -1,24 +1,24 @@
-+++
-"Text title" = "Vishnustuti from Maheshvaratantra"
-"File name" = "viShNustutiHmAheshvaratantra.itx"
-itxtitle = "viShNustutiH athavA jagannAthastutiH (mAheshvaratantrAntargatA sArthA)"
-engtitle = "Vishnustuti from Maheshvaratantra"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Yogesh K Sharma yosharma at gmail.com"
-"Proofread by" = "Yogesh K Sharma yosharma at gmail.com"
-"Translated by" = "Sudhakar Malaviya"
-"Description/comments" = "Maheshwara Tantra Jnanakhanda tRitIya paTalaM Verses 95-98"
-Indexextra = "(Scan)"
-"Latest update" = "May 27, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तुतिः अथवा जगन्नाथस्तुतिः (माहेश्वरतन्त्रान्तर्गता सार्था)"
+---
+Category: vishhnu
+Description/comments: Maheshwara Tantra Jnanakhanda tRitIya paTalaM Verses 95-98
+File name: viShNustutiHmAheshvaratantra.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 27, 2019
+Location: doc_vishhnu
+Proofread by: Yogesh K Sharma yosharma at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Vishnustuti from Maheshvaratantra
+Translated by: Sudhakar Malaviya
+Transliterated by: Yogesh K Sharma yosharma at gmail.com
+engtitle: Vishnustuti from Maheshvaratantra
+itxtitle: viShNustutiH athavA jagannAthastutiH (mAheshvaratantrAntargatA sArthA)
+title: विष्णुस्तुतिः अथवा जगन्नाथस्तुतिः (माहेश्वरतन्त्रान्तर्गता सार्था)
 
-+++
+---
   
  श्रीविष्णुस्तुतिः अथवा श्रीजगन्नाथस्तुतिः   
   
@@ -27,14 +27,14 @@ title = "विष्णुस्तुतिः अथवा जगन्ना
   
 हे भगवन् ! हे मत्स्य एवं कूर्म आदि नाना प्रकारके अवतारों को धारण  
 करके जगत्की रक्षाके लिए उद्यत रहकर सभीके दुःखों का नाश करने  
-वाले ! हे जगत्के बन्धु ! हे कर्म बन्धनोंके हर्ता ! हे भर्त्ता ! हे और  
-दारुण कष्टोंके उपस्थित होने पर जगत् का पालन करने वाले ! आपको  
+वाले ! हे जगत्के बन्धु ! हे कर्म बन्धनोङ्के हर्ता ! हे भर्त्ता ! हे और  
+दारुण कष्टोङ्के उपस्थित होने पर जगत् का पालन करने वाले ! आपको  
 प्रणाम है ॥ १ ॥  
   
 यदा वेदपन्थास्त्वदीयः पुराणः प्रभज्येत पाखण्डचण्डोग्रवादैः ।  
 तदा देवदेवेश सत्त्वेन सत्त्वं वपुश्चारु निर्माय रक्षां विधत्से ॥ २॥  
   
-जब आपका पुरातन वैदिक [ सनातन ] धर्म उग्र पाखण्डियोंके द्वारा  
+जब आपका पुरातन वैदिक [ सनातन ] धर्म उग्र पाखण्डियोङ्के द्वारा  
 छिन्न-भिन्न कर दिया जाता है तब आप, हे देवदेवेश, सत्त्व गुण से  
 सत्त्वमय सुन्दर शरीर धारण करके हम सबकी रक्षा करते हैं ॥  
   
@@ -53,7 +53,7 @@ title = "विष्णुस्तुतिः अथवा जगन्ना
 दह्यमानान् गतानन्दान् रक्षितासीश्वरो यतः ॥ ४॥  
   
 अतः हे नाथ ! आप भगवती रमाके द्वारा किए गए उग्र तपस्या से जलने  
-वाले इन लोकोंकी रक्षा करें, क्योंकि आप ही इनकी रक्षा करनेमें समर्थ  
+वाले इन लोकोङ्की रक्षा करें, क्योङ्कि आप ही इनकी रक्षा करनेमें समर्थ  
 हैं ॥ ९८ ॥  
   
 इति श्रीनारदपङ्चरात्रे माहेश्वरतन्त्रे उत्तरखण्डे  

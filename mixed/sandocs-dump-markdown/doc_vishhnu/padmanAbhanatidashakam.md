@@ -1,22 +1,22 @@
-+++
-"Text title" = "padmanAbhanatidashakam"
-"File name" = "padmanAbhanatidashakam.itx"
-itxtitle = "padmanAbhanatidashakam"
-engtitle = "padmanAbhanatidashakam"
-Category = "vishhnu, vishnu, dashaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. P. Narayanaswami swami at mun.ca"
-"Proofread by" = "P. P. Narayanaswami, Psa Easwaran psaeaswaran at gmail.com"
-"Latest update" = "February 25, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पद्मनाभनतिदशकम्"
+---
+Author: Traditional
+Category: vishhnu, vishnu, dashaka
+File name: padmanAbhanatidashakam.itx
+Language: Sanskrit
+Latest update: February 25, 2016
+Location: doc_vishhnu
+Proofread by: P. P. Narayanaswami, Psa Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: padmanAbhanatidashakam
+Transliterated by: P. P. Narayanaswami swami at mun.ca
+engtitle: padmanAbhanatidashakam
+itxtitle: padmanAbhanatidashakam
+title: पद्मनाभनतिदशकम्
 
-+++
+---
   
  श्रीपद्मनाभनतिदशकम्   
   
@@ -51,7 +51,7 @@ title = "पद्मनाभनतिदशकम्"
 तस्मै देव नमोऽस्तु विश्वगुरवे श्रीपद्मनाभाय ते ॥ ६॥  
   
 लोके चात्र समाधिषट्कविकसद्दिव्यप्रबोधोज्ज्वल-  
-स्वान्ताः शान्ततमा जितेन्द्रियगणा धन्यास्तु संन्यासिनः ।  
+स्वान्ताः शान्ततमा जितेन्द्रियगणा धन्यास्तु सन्न्यासिनः ।  
 मुक्तिं यत्करुणालवेन सरसं सम्प्राप्नुवन्तीह ते  
 तस्मै देव नमोऽस्तु विश्वगुरवे श्रीपद्मनाभाय ते ॥ ७॥  
   

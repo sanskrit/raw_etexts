@@ -1,24 +1,24 @@
-+++
-"Text title" = "gopAlastavaH"
-"File name" = "gopAlastavaH.itx"
-itxtitle = "gopAlastavaH (radhunAthavaryavirachito)"
-engtitle = "gopAlastavaH"
-Category = "vishhnu, krishna, vishnu, raghunAthajI, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Raghunathaji"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "May 17, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपालस्तवः (रधुनाथवर्यविरचितो)"
+---
+Author: Raghunathaji
+Category: vishhnu, krishna, vishnu, raghunAthajI, puShTimArgIya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: gopAlastavaH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: May 17, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopAlastavaH
+engtitle: gopAlastavaH
+itxtitle: gopAlastavaH (radhunAthavaryavirachito)
+title: गोपालस्तवः (रधुनाथवर्यविरचितो)
 
-+++
+---
   
  श्रीगोपालस्तवः   
   

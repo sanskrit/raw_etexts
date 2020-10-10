@@ -1,20 +1,20 @@
-+++
-"Text title" = "Jivanmuktanandalahari"
-"File name" = "Jivanmuktanandalahari.itx"
-itxtitle = "jIvanmuktAnandalaharI"
-engtitle = "Jivanmuktanandalahari"
-Category = "laharI, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "April 15, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जीवन्मुक्तानन्दलहरी"
+---
+Category: laharI, shankarAchArya
+File name: Jivanmuktanandalahari.itx
+Language: Sanskrit
+Latest update: April 15, 2010
+Location: doc_z_misc_shankara
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: Jivanmuktanandalahari
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Jivanmuktanandalahari
+itxtitle: jIvanmuktAnandalaharI
+title: जीवन्मुक्तानन्दलहरी
 
-+++
+---
   
  जीवन्मुक्तानन्दलहरी   
   
@@ -39,16 +39,16 @@ title = "जीवन्मुक्तानन्दलहरी"
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ ४॥  
   
 कदाचिद्विद्वद्भिर्विविदिषुभिरत्यन्तनिरतैः  
-कदाचित्काव्यालंकृतिरसरसालैः कविवरैः ।  
+कदाचित्काव्यालङ्कृतिरसरसालैः कविवरैः ।  
 कदाचित्सत्तर्कैर्रनुमितिपरस्तार्किकवरैर्  
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ ५॥  
   
 कदा ध्यानाभ्यासैः क्वचिदपि सपर्यां विकसितैः  
-सुगंधैः सत्पुष्पैः क्वचिदपि दलैरेव विमलः ।  
-प्रकुर्वन्देवस्य प्रमुदितमनाः संनतिपरो  
+सुगन्धैः सत्पुष्पैः क्वचिदपि दलैरेव विमलः ।  
+प्रकुर्वन्देवस्य प्रमुदितमनाः सन्नतिपरो  
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ ६॥  
   
-शिवायाः शंभोर्वा क्वचिदपि च विष्णोरपि कदा  
+शिवायाः शम्भोर्वा क्वचिदपि च विष्णोरपि कदा  
 गणाध्यक्षस्यापि प्रकटितवरस्यापि च कदा ।  
 पठन्वै नामालिं नयनरचितानन्दसरितो  
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ ७॥  
@@ -74,7 +74,7 @@ title = "जीवन्मुक्तानन्दलहरी"
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ ११॥  
   
 कदाचिन्मौनस्थः क्वचिदपि च वाग्वादनिरतः  
-कदाचित्स्वानंदं हसितरभसस्त्यक्तवचनः  ।  
+कदाचित्स्वानन्दं हसितरभसस्त्यक्तवचनः  ।  
 कदाचिल्लोकानां व्यवहृतिसमालोकनपरो  
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ १२॥  
   

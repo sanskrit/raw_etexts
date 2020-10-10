@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vighnaraja Stuti by Mamasura"
-"File name" = "vighnarAjastutiHmamAsureNaproktA.itx"
-itxtitle = "vighnarAjastutiH mamAsureNa proktA (mudgalapurANAntargatA)"
-engtitle = "vighnarAjastutiH mamAsureNa proktA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan"
-"Proofread by" = "Ajit Krishnan, PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 7, Adhyaya 8"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "विघ्नराजस्तुतिः ममासुरेण प्रोक्ता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 7, Adhyaya 8
+File name: vighnarAjastutiHmamAsureNaproktA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: Ajit Krishnan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Vighnaraja Stuti by Mamasura
+Transliterated by: Ajit Krishnan
+engtitle: vighnarAjastutiH mamAsureNa proktA
+itxtitle: vighnarAjastutiH mamAsureNa proktA (mudgalapurANAntargatA)
+title: विघ्नराजस्तुतिः ममासुरेण प्रोक्ता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  विघ्नराजस्तुतिः ममासुरेण प्रोक्ता   
 ममासुरः प्रसन्नात्मा काव्येन विघ्ननायकम् ।  

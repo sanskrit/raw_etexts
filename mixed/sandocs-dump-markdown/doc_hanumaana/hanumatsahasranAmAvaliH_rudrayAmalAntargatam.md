@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumatsahasranAmAvalIrudrayAmala"
-"File name" = "hanumatsahasranAmAvalIrudrayAmala.itx"
-itxtitle = "hanumatsahasranAmAvaliH (rudrayAmalAntargatam)"
-engtitle = "hanumatsahasranAmAvalIrudrayAmala"
-Category = "sahasranAmAvalI, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्सहस्रनामावलिः (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: sahasranAmAvalI, hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumatsahasranAmAvalIrudrayAmala.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatsahasranAmAvalIrudrayAmala
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: hanumatsahasranAmAvalIrudrayAmala
+itxtitle: hanumatsahasranAmAvaliH (rudrayAmalAntargatam)
+title: हनुमत्सहस्रनामावलिः (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीहनुमत्सहस्रनामावलिः १   
 रुद्रयामलतः  

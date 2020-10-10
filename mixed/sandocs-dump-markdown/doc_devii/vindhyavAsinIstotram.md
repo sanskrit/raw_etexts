@@ -1,24 +1,24 @@
-+++
-"Text title" = "vindhyavAsinIstotram"
-"File name" = "vindhyavaasini.itx"
-itxtitle = "vindhyavAsinIstotram"
-engtitle = "vindhyavAsinIstotram"
-Category = "devii, pArvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "mAlavIya-shuklamathurAnAtha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "June 26, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विन्ध्यवासिनीस्तोत्रम्"
+---
+Author: mAlavIya-shuklamathurAnAtha
+Category: devii, pArvatI, stotra, devI
+File name: vindhyavaasini.itx
+Language: Sanskrit
+Latest update: June 26, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vindhyavAsinIstotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: vindhyavAsinIstotram
+itxtitle: vindhyavAsinIstotram
+title: विन्ध्यवासिनीस्तोत्रम्
 
-+++
+---
   
  विन्ध्यवासिनीस्तोत्रम्   
   
@@ -44,13 +44,13 @@ title = "विन्ध्यवासिनीस्तोत्रम्"
 या दुर्गमं दनुभवं परिमर्द्य नाम्ना दुर्गा बभूव च ततान शुभं सुराणाम् ।  
 स्वाचारकर्म-विमुखस्य जुगुप्सितस्य विन्ध्येश्वरी दहतु वैरिगणान्समस्तान् ॥ ७॥  
   
-सम्प्राप्य जन्म वपुषः परिपोषणाय संख्यातिग-वृजिन-पुञ्जविधायिनो मे ।  
+सम्प्राप्य जन्म वपुषः परिपोषणाय सङ्ख्यातिग-वृजिन-पुञ्जविधायिनो मे ।  
 चण्डासुरप्रमथिनी ललिता च नाम्ना विन्ध्येश्वरी हरतु जाड्यमहान्धकारम् ॥ ८॥  
   
 या तारयत्यखिल-दुष्कृतिलोकपुञ्जात्तारे'ति नाम गदिता भुवनेषु देवी ।  
 अज्ञानसिन्धुतरणे दृढनौस्वरूपा विन्ध्येश्वरी मम गुणाग्र्यसुतं ददातु ॥ ९॥  
   
-रक्ताम्बरा तरुणभानुरुचिः प्रसन्ना रक्ताम्बुजासन-कृतांघ्रियुगा धृतास्त्रा ।  
+रक्ताम्बरा तरुणभानुरुचिः प्रसन्ना रक्ताम्बुजासन-कृताङ्घ्रियुगा धृतास्त्रा ।  
 रक्तैः स्वलङ्कृत-तनुर्मणिभूषणैश्च विन्ध्येश्वरी मम गिरं विशदां करोतु ॥ १०॥  
   
 रात्रीशकान्त-मणिकान्त-तनुर्विशाल-मुक्तालता-ललितवृत्तकुचा कृशाङ्गी ।  

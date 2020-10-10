@@ -3,7 +3,6 @@ title: 073 Bharata reproaches Kaikeyi in many ways
 title_english: 073 Bharata reproaches Kaikeyi in many ways
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-073-Kaikeyee_Nirbhartha_Sanam.mp3"></div>
 
 श्रुत्वा तु पितरम् वृत्तम् भ्रातरु च विवासितौ ।  

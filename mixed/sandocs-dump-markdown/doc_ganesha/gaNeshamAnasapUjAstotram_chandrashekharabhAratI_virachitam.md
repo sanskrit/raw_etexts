@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Ganesha Manasa Puja Stotram"
-"File name" = "gaNeshamAnasapUjAstotram.itx"
-itxtitle = "gaNeshamAnasapUjAstotram (chandrashekharabhAratI virachitam)"
-engtitle = "gaNeshamAnasapUjAstotram"
-Category = "ganesha, chandrashekharabhAratI, pUjA"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "chandrashekharabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Sri Gururaja Sukti Malika"
-Indexextra = "(Translation 1, 2)"
-"Latest update" = "June 3, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशमानसपूजास्तोत्रम् (चन्द्रशेखरभारती विरचितम्)"
+---
+Author: chandrashekharabhAratI
+Category: ganesha, chandrashekharabhAratI, pUjA
+Description/comments: Sri Gururaja Sukti Malika
+File name: gaNeshamAnasapUjAstotram.itx
+Indexextra: (Translation 1, 2)
+Language: Sanskrit
+Latest update: June 3, 2020
+Location: doc_ganesha
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Shri Ganesha Manasa Puja Stotram
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: gaNeshamAnasapUjAstotram
+itxtitle: gaNeshamAnasapUjAstotram (chandrashekharabhAratI virachitam)
+title: गणेशमानसपूजास्तोत्रम् (चन्द्रशेखरभारती विरचितम्)
 
-+++
+---
   
  श्रीगणेशमानसपूजास्तोत्रम्   
 श्रीजगद्गुरु शृङ्गेरी  

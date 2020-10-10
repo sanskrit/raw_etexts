@@ -1,21 +1,21 @@
-+++
-"Text title" = "shivAShTakam by Agastya Rishi"
-"File name" = "agastyAShTakam.itx"
-itxtitle = "agastyAShTakam"
-engtitle = "agastyAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at sify.com"
-"Proofread by" = "N.Balasubramanian bbalu at sify.com"
-"Latest update" = "August 10, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अगस्त्याष्टकम्"
+---
+Category: aShTaka, shiva
+File name: agastyAShTakam.itx
+Language: Sanskrit
+Latest update: August 10, 2007
+Location: doc_shiva
+Proofread by: N.Balasubramanian bbalu at sify.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivAShTakam by Agastya Rishi
+Transliterated by: N.Balasubramanian bbalu at sify.com
+engtitle: agastyAShTakam
+itxtitle: agastyAShTakam
+title: अगस्त्याष्टकम्
 
-+++
+---
   
  अगस्त्याष्टकम्   
   
@@ -25,7 +25,7 @@ title = "अगस्त्याष्टकम्"
 कृतार्थोऽहं कृतार्थोऽहं कृतार्थोऽहं महेश्वर ।  
 अद्य ते पादपद्मस्य दर्शनात्भक्तवत्सल ॥ २॥  
   
-शिवश्शम्भुः शिवश्शंभुः शिवश्शंभुः शिवश्शिवः ।  
+शिवश्शम्भुः शिवश्शम्भुः शिवश्शम्भुः शिवश्शिवः ।  
 इति व्याहरतो नित्यं दिनान्यायान्तु यान्तु मे ॥ ३॥  
   
 शिवे भक्तिश्शिवे भक्तिश्शिवे भक्तिर्भवेभवे ।  
@@ -40,7 +40,7 @@ title = "अगस्त्याष्टकम्"
 वयं धन्या वयं धन्या वयं धन्या जगत्त्रये ।  
 आदिदेवो महादेवो यदस्मत्कुलदैवतम् ॥ ७॥  
   
-हर शंभो महादेव विश्वेशामरवल्लभ ।  
+हर शम्भो महादेव विश्वेशामरवल्लभ ।  
 शिवशङ्कर सर्वात्मन्नीलकण्ठ नमोऽस्तु ते ॥ ८॥  
   
 अगस्त्याष्टकमेतत्तु यः पठेच्छिवसन्निधौ ।  

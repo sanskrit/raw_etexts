@@ -1,21 +1,21 @@
-+++
-"Text title" = "Subrahmanya DhyAna Shlokam from Palanikshetra"
-"File name" = "subrahmaNyadhyAnashlokampaLanIkShetra.itx"
-itxtitle = "subrahmaNyadhyAnashlokam (paLanIkShetrasthita)"
-engtitle = "subrahmaNyadhyAnashlokam paLanIkShetra"
-Category = "subrahmanya, dhyAnam"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Latest update" = "March 6, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यध्यानश्लोकम् (पळनीक्षेत्रस्थित)"
+---
+Category: subrahmanya, dhyAnam
+File name: subrahmaNyadhyAnashlokampaLanIkShetra.itx
+Language: Sanskrit
+Latest update: March 6, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Subrahmanya DhyAna Shlokam from Palanikshetra
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: subrahmaNyadhyAnashlokam paLanIkShetra
+itxtitle: subrahmaNyadhyAnashlokam (paLanIkShetrasthita)
+title: सुब्रह्मण्यध्यानश्लोकम् (पळनीक्षेत्रस्थित)
 
-+++
+---
   
  पळनीक्षेत्रस्थित श्रीसुब्रह्मण्यध्यानश्लोकम्   
 कल्पद्रुमं प्रणमतां कमलारुणाभं  

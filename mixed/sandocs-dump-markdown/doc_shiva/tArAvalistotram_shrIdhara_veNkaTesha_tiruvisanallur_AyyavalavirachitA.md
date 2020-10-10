@@ -1,26 +1,27 @@
-+++
-"Text title" = "Taravali Stotra"
-"File name" = "tArAvali.itx"
-itxtitle = "tArAvalistotram (shrIdhara veNkaTesha tiruvisanallur AyyavalavirachitA)"
-engtitle = "Taravali Stotra"
-Category = "shiva, stotra, shrIdhara-venkaTesha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Sri Sridhara Venkatesa (Tiruvisanallur Ayyaval)"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Proofread by" = "Shree Devi Kumar shreeshrii at gmail.com"
-Description-comments = "29 verses on Siva said to have brought back to life a boy who died of cobra bite"
-Source = "http://sriayyaval.org/works.html"
-Indexextra = "(Text, Tamil)"
-"Latest update" = "October 21, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तारावलिस्तोत्रम् (श्रीधर वेण्कटेश तिरुविसनल्लुर् आय्यवलविरचिता)"
+---
+Author: Sri Sridhara Venkatesa (Tiruvisanallur Ayyaval)
+Category: shiva, stotra, shrIdhara-venkaTesha
+Description-comments: 29 verses on Siva said to have brought back to life a boy who
+  died of cobra bite
+File name: tArAvali.itx
+Indexextra: (Text, Tamil)
+Language: Sanskrit
+Latest update: October 21, 2019
+Location: doc_shiva
+Proofread by: Shree Devi Kumar shreeshrii at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: http://sriayyaval.org/works.html
+Subject: hinduism/religion
+Sublocation: shiva
+Text title: Taravali Stotra
+Texttype: stotra
+Transliterated by: Shree Devi Kumar shreeshrii at gmail.com
+engtitle: Taravali Stotra
+itxtitle: tArAvalistotram (shrIdhara veNkaTesha tiruvisanallur AyyavalavirachitA)
+title: तारावलिस्तोत्रम् (श्रीधर वेण्कटेश तिरुविसनल्लुर् आय्यवलविरचिता)
 
-+++
+---
   
  तारावलिस्तोत्रम्   
 निरवधिकरुणार्द्रैर्निह्नुताशेषदोषैः  
@@ -133,7 +134,7 @@ title = "तारावलिस्तोत्रम् (श्रीधर �
 अघमखिलमपास्यन् अस्य डिम्भस्य शम्भुः  
 सकलभयनिवृत्तिं साम्बमूर्तिर्विधत्ताम् ॥ २२॥  
   
-प्रणमति विहरद्भिस्तत्र संप्रीति दत्त-  
+प्रणमति विहरद्भिस्तत्र सम्प्रीति दत्त-  
 प्रविमलतरहारभ्रान्तिदैर्मन्दहासैः ।  
 अघमखिलमपास्यन् अस्य डिम्भस्य शम्भुः  
 सकलभयनिवृत्तिं साम्बमूर्तिर्विधत्ताम् ॥ २३॥  

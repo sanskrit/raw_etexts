@@ -1,24 +1,24 @@
-+++
-"Text title" = "Varaha Kavacham"
-"File name" = "varAhakavacham.itx"
-itxtitle = "varAhakavacham"
-engtitle = "varAhakavacham"
-Category = "vishhnu, dashAvatAra, kavacha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Comments 1, 2, 3, 4, Videos 1, 2, 3, 4)"
-"Latest update" = "April 12, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वराहकवचम्"
+---
+Category: vishhnu, dashAvatAra, kavacha
+File name: varAhakavacham.itx
+Indexextra: (Comments 1, 2, 3, 4, Videos 1, 2, 3, 4)
+Language: Sanskrit
+Latest update: April 12, 2020
+Location: doc_vishhnu
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Varaha Kavacham
+engtitle: varAhakavacham
+itxtitle: varAhakavacham
+title: वराहकवचम्
 
-+++
+---
   
  श्रीवराहकवचम्   
-आद्यं रङ्गमिति प्रोक्तं विमानं रङ्ग संज्ञितम् ।  
+आद्यं रङ्गमिति प्रोक्तं विमानं रङ्ग सञ्ज्ञितम् ।  
 श्रीमुष्णं वेङ्कटाद्रिं च साळग्रामं च नैमिशम् ॥  
   
 तोयाद्रिं पुष्करं चैव नरनारायणाश्रमम् ।  
@@ -185,7 +185,7 @@ title = "वराहकवचम्"
 अश्वत्थमूलेऽर्कवारे नित्य पुष्करिणीतटे ।  
 वराहकवचं जप्त्वा शतवारं पठेद्यदि ॥ ५०॥  
   
-अपूर्वराज्य संप्राप्तिं नष्टस्य पुनरागमम् ।  
+अपूर्वराज्य सम्प्राप्तिं नष्टस्य पुनरागमम् ।  
 लभते नात्र सन्देहः सत्यमेतन्मयोदितम् ॥ ५१॥  
   
 जप्त्वा वराह मन्त्रं तु लक्षमेकं निरन्तरम् ।  

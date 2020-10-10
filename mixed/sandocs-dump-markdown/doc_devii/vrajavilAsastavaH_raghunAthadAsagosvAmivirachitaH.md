@@ -1,26 +1,27 @@
-+++
-"Text title" = "vrajavilAsastavaH"
-"File name" = "vrajavilAsastavaH.itx"
-itxtitle = "vrajavilAsastavaH (raghunAthadAsagosvAmivirachitaH)"
-engtitle = "vrajavilAsastavaH"
-Category = "devii, radha, raghunAthadAsagosvAmin, stavAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "April 24, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "व्रजविलासस्तवः (रघुनाथदासगोस्वामिविरचितः)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: devii, radha, raghunAthadAsagosvAmin, stavAvalI, devI
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: vrajavilAsastavaH.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: April 24, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vrajavilAsastavaH
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: vrajavilAsastavaH
+itxtitle: vrajavilAsastavaH (raghunAthadAsagosvAmivirachitaH)
+title: व्रजविलासस्तवः (रघुनाथदासगोस्वामिविरचितः)
 
-+++
+---
   
  व्रजविलासस्तवः   
 अथ व्रजविलासस्तवः ।  
@@ -111,7 +112,7 @@ title = "व्रजविलासस्तवः (रघुनाथदास
   
 नादैर्यस्य स्फुटति परितो दिव्यविध्यण्डकोटिः   
      के ते तावत्किल दितिसुताः क्षुद्रकात्क्षुद्रजीवाः ।  
-स्नेहान्मात्रा विजयमभितो रक्षणे संनियुक्तं  
+स्नेहान्मात्रा विजयमभितो रक्षणे सन्नियुक्तं  
      कृष्णस्यारात्परमिह भजे हन्त धात्री सुतं तम् ॥ १९॥  
   
 मन्त्रन्यासैरिह मुररिपोस्तत्पुरोधाः पुरस्तात्  
@@ -175,7 +176,7 @@ title = "व्रजविलासस्तवः (रघुनाथदास
      प्रियगणवृतराधाकृष्णयोस्तां प्रपद्ये ॥ ३१॥  
   
 सख्येनालं परमरुचिरा नर्मभव्येन राधां  
-     पाकार्थं या व्रजपतिमहिष्याज्ञया संनयन्ती ।  
+     पाकार्थं या व्रजपतिमहिष्याज्ञया सन्नयन्ती ।  
 प्रेम्णा शश्वत्पथि पथि हरेर्वार्तया तर्पयन्ती  
      तुष्यत्वेतां परमिह भजे कुन्दपूर्वां लतां ताम् ॥ ३२॥  
   
@@ -280,7 +281,7 @@ title = "व्रजविलासस्तवः (रघुनाथदास
 यस्याप्यंशलवेन नार्हति मनाक्साम्यं मुकुन्दस्य तत्  
      प्राणे योऽप्यधिकप्रियेव दयितं तत्कुण्डमेवाश्रये ॥ ५३॥  
   
-स्फीते रत्नसुवर्णमौक्तिकभरैः संनिर्मिते मण्डपे  
+स्फीते रत्नसुवर्णमौक्तिकभरैः सन्निर्मिते मण्डपे  
      थूत्कारं विनिधाय यत्र रभसात्तौ दम्पती निभर्रम् ।  
 तन्वाते रतिनाथनर्मसचिवौ तद्राज्यचर्चां मुदा  
      तं राधासरसीतटोज्ज्वलमहाकुञ्जं सदाहं भजे ॥ ५४॥  
@@ -419,7 +420,7 @@ title = "व्रजविलासस्तवः (रघुनाथदास
 यत्र स्त्रीपुरुषैः क्वणत्पशुकुलैरावेष्टितो राजते  
      स्नेहैर्द्वादशसूर्यनाम तदिदं तीर्थं सदा संश्रये ॥ ८२॥  
   
-अत्यन्तातपसेवनेन परितः संजातघर्मोत्करै-  
+अत्यन्तातपसेवनेन परितः सञ्जातघर्मोत्करै-  
      र्गोविन्दस्य शरीरतो निपतितैर्यत्तीर्थमुच्चैरभूत् ।  
 तत्तत्कोमलसान्द्रसुन्दरतरश्रीमत्सदङ्गोच्छल-  
      द्गन्धैर्हारिसुवारिसुद्युति भजे प्रस्कन्दनं वन्दनैः ॥ ८३॥  
@@ -492,7 +493,7 @@ title = "व्रजविलासस्तवः (रघुनाथदास
 तुष्टावाद्भुतवत्सपं व्रजपतेः पुत्रं मुकुन्दं मनाक्  
      स्मेरं भीरुचतुर्मुखाख्यमनिशं सेशं प्रदेशं नुमः ॥ ९७॥  
   
-गन्धव्याकुलभृङ्गसञ्चयचमूसंघृष्टपुष्पोत्करैः  
+गन्धव्याकुलभृङ्गसञ्चयचमूसङ्घृष्टपुष्पोत्करैः  
      भाजत्कल्पलता पलाशिनिकरैर्विभ्राजितानि स्फुटम् ।  
 यानि स्फारतडागपर्वतनदीवृन्देन राजन्त्यहो  
      कृष्णप्रेष्ठवनानि तानि नितरां वन्दे मुहुर्द्वादश ॥ ९८॥  

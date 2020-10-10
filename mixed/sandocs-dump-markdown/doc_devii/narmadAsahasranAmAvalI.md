@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrI narmadA sahasranAmAmAvalI"
-"File name" = "narmadAsahasranAmAvalI.itx"
-itxtitle = "narmadAsahasranAmAvalI"
-engtitle = "narmadAsahasranAmAvalI"
-Category = "sahasranAmAvalI, devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "June 13, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नर्मदासहस्रनामावली"
+---
+Category: sahasranAmAvalI, devii, nadI, devI
+File name: narmadAsahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: June 13, 2010
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrI narmadA sahasranAmAmAvalI
+engtitle: narmadAsahasranAmAvalI
+itxtitle: narmadAsahasranAmAvalI
+title: नर्मदासहस्रनामावली
 
-+++
+---
   
  श्रीनर्मदासहस्रनामावली   
   
@@ -332,7 +332,7 @@ title = "नर्मदासहस्रनामावली"
 ॐ ह्रीं श्रीं भोगकृते नमः ।  
 ॐ ह्रीं श्रीं भोगवर्धिन्यै नमः ॥ ३७॥  
   
-ॐ ह्रीं श्रीं भौमप्राणिहिताकांक्षिण्यै नमः ।  
+ॐ ह्रीं श्रीं भौमप्राणिहिताकाङ्क्षिण्यै नमः ।  
 ॐ ह्रीं श्रीं भौमौषधिविवर्धिन्यै नमः ।  
 ॐ ह्रीं श्रीं महामायायै नमः ।  
 ॐ ह्रीं श्रीं महादेव्यै नमः ।  

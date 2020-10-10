@@ -1,21 +1,21 @@
-+++
-"Text title" = "Vemulavada Rajarajeshvara Suprabhata Stotram"
-"File name" = "vemulavADarAjarAjeshvarasuprabhAtastotram.itx"
-itxtitle = "vemulavADarAjarAjeshvarasuprabhAtastotram"
-engtitle = "vemulavADarAjarAjeshvarasuprabhAtastotram"
-Category = "shiva, suprabhAta"
-Location = "doc_shiva"
-Sublocation = "shiva"
-SubDeity = "suprabhAta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेमुलवाडराजराजेश्वरसुप्रभातस्तोत्रम्"
+---
+Category: shiva, suprabhAta
+File name: vemulavADarAjarAjeshvarasuprabhAtastotram.itx
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_shiva
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: suprabhAta
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Vemulavada Rajarajeshvara Suprabhata Stotram
+engtitle: vemulavADarAjarAjeshvarasuprabhAtastotram
+itxtitle: vemulavADarAjarAjeshvarasuprabhAtastotram
+title: वेमुलवाडराजराजेश्वरसुप्रभातस्तोत्रम्
 
-+++
+---
   
  श्रीवेमुलवाडराजराजेश्वरसुप्रभातस्तोत्रम्   
 वेमुलवाड लेम्बालवाटिक ।  
@@ -78,7 +78,7 @@ title = "वेमुलवाडराजराजेश्वरसुप्�
      लेम्बालवाटिकविभो तव  सुप्रभातम् ॥ १२॥  
   
 सारङ्गनाभ घनसारविमिश्रितोद\-  
-     कुम्भैर्घुमंघुमदपूर्वसुगन्धिगन्धैः ।  
+     कुम्भैर्घुमङ्घुमदपूर्वसुगन्धिगन्धैः ।  
 पुष्पैस्सुधूपनिकरैः फलबिल्वपत्रैः  
      प्रातस्समर्चनविधिं परिकल्पयन्ति ।  
      लेम्बालवाटिकविभो तव  सुप्रभातम् ॥ १४॥  

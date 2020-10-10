@@ -1,21 +1,22 @@
-+++
-"Text title" = "Stutisangraha Short Hymns of Various Deities"
-"File name" = "devadevatAstutisangrahaH.itx"
-itxtitle = "devadevatAstutisaNgrahaH"
-engtitle = "Stutisangraha Short Hymns of Various Deities"
-Category = "deities_misc, vishhnu, shiva, navagraha, devii, misc, dashamahAvidyA, sangraha, devI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri (Ed.)"
-"Latest update" = "February 24, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवदेवतास्तुतिसण्ग्रहः"
+---
+Category: deities_misc, vishhnu, shiva, navagraha, devii, misc, dashamahAvidyA, sangraha,
+  devI
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri (Ed.)
+File name: devadevatAstutisangrahaH.itx
+Language: Sanskrit
+Latest update: February 24, 2019
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Stutisangraha Short Hymns of Various Deities
+engtitle: Stutisangraha Short Hymns of Various Deities
+itxtitle: devadevatAstutisaNgrahaH
+title: देवदेवतास्तुतिसण्ग्रहः
 
-+++
+---
   
  सर्वविधदेवानां स्तोत्रसङ्ग्रहः   
 प्रभाते करदर्शनम् ।  
@@ -76,10 +77,10 @@ title = "देवदेवतास्तुतिसण्ग्रहः"
   
 दत्तात्रेयस्तुतिः ।  
 पीताम्बरालङ्कृतपृष्ठभागं भस्मावगुण्ठाऽखिलरुक्मदेहम् ।  
-विद्युत्सदापिङ्गजटाभिरामं श्रीदत्तयागीशमहंनतोऽस्मि ॥ १॥  
+विद्युत्सदापिङ्गजटाभिरामं श्रीदत्तयागीशमहन्नतोऽस्मि ॥ १॥  
   
 ब्रह्मानन्दं परमसुखदं केक्त्यं ज्ञानमूर्तिं  
-     द्वन्द्वातीतं गगनसदृशंतत्त्वमस्यादिलक्ष्यम् ।  
+     द्वन्द्वातीतं गगनसदृशन्तत्त्वमस्यादिलक्ष्यम् ।  
 एक नित्यं विमलमचलं सर्वधीसाक्षिभूतं  
      भावातीतं त्रिगुणरहितं सद्गुरुं तं नमामि ॥ २॥  
   
@@ -91,7 +92,7 @@ title = "देवदेवतास्तुतिसण्ग्रहः"
 विद्या सत्कर्म वित्तं च पुरस्पृष्ठे च पार्श्वयोः ॥ २॥  
   
 नवनागस्तुतिः ।  
-अनन्तं वासुकिं शेषंपद्मनाभं च कम्बलम् ।  
+अनन्तं वासुकिं शेषम्पद्मनाभं च कम्बलम् ।  
 शङ्खपालं धृतराष्ट्रं तक्षकं कालियं तथा ॥ १॥  
   
      एतानि नवनामानि नागानां च महात्मनाम् ।  
@@ -111,7 +112,7 @@ title = "देवदेवतास्तुतिसण्ग्रहः"
 शीतले त्वं जगद्धात्री शीतलायै नमो नमः ॥ १॥  
   
 वन्देऽहं शीतलां देवीं रासभस्थां दिगम्बराम् ।  
-मार्जनींकलशोपेतां शूर्पालङ्कृतमस्तकाम् ॥ २॥  
+मार्जनीङ्कलशोपेतां शूर्पालङ्कृतमस्तकाम् ॥ २॥  
   
 वन्देऽहं शीतलां देवीं सर्वरोगभयापहाम् ।  
 यामासाद्य निवर्तेत विस्फोटकभयं महत् ॥ ३॥  

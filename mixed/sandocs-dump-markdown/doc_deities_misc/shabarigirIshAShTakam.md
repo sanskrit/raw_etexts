@@ -1,22 +1,22 @@
-+++
-"Text title" = "shabarigiriishaaShTakam"
-"File name" = "shabarigiri8.itx"
-itxtitle = "shabarigirIshAShTakam"
-engtitle = "shabarigirIshAShTakam"
-Category = "aShTaka, deities_misc, ayyappa"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 17, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शबरिगिरीशाष्टकम्"
+---
+Category: aShTaka, deities_misc, ayyappa
+File name: shabarigiri8.itx
+Language: Sanskrit
+Latest update: April 17, 2007
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: shabarigiriishaaShTakam
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: shabarigirIshAShTakam
+itxtitle: shabarigirIshAShTakam
+title: शबरिगिरीशाष्टकम्
 
-+++
+---
   
  श्रीशबरिगिरीशाष्टकम्   
   
@@ -52,7 +52,7 @@ title = "शबरिगिरीशाष्टकम्"
   
 शतमुखपालक शान्तिविदायक शत्रुविनाशक शुद्धतनो  
 तरुनिकरालय दीनकृपालय तापसमानस दीप्ततनो  
-हरिहरसंभव पद्मसमुद्भव वासव शम्बव सेव्यतनो  
+हरिहरसम्भव पद्मसमुद्भव वासव शम्बव सेव्यतनो  
 जय जय हे शबरीगिरि मन्दिर सुन्दर पालय मामनिशं ॥ ७  
   
 ममकुलदैवत मत्पितृपूजित माधव लालित मञ्जुमते  

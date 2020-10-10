@@ -1,24 +1,24 @@
-+++
-"Text title" = "viShNoraShTAvi.nshatinAmastotram"
-"File name" = "vishhnu28.itx"
-itxtitle = "viShNoraShTAvi.nshatinAmastotram"
-engtitle = "viShNoraShTAvi.nshatinAmastotram"
-Category = "vishhnu, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.webdunia.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-"Latest update" = "January 13, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णोरष्टाविंशतिनामस्तोत्रम्"
+---
+Author: Traditional
+Category: vishhnu, stotra, vishnu
+File name: vishhnu28.itx
+Language: Sanskrit
+Latest update: January 13, 2002
+Location: doc_vishhnu
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNoraShTAvi.nshatinAmastotram
+Texttype: stotra
+Transliterated by: http://www.webdunia.com
+engtitle: viShNoraShTAvi.nshatinAmastotram
+itxtitle: viShNoraShTAvi.nshatinAmastotram
+title: विष्णोरष्टाविंशतिनामस्तोत्रम्
 
-+++
+---
   
  श्रीविष्णोरष्टाविंशतिनामस्तोत्रम्   
   

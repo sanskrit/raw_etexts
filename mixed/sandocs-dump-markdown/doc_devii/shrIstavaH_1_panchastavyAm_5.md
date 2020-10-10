@@ -1,26 +1,26 @@
-+++
-"Text title" = "shriistavaH"
-"File name" = "shriistava.itx"
-itxtitle = "shrIstavaH 1 (panchastavyAm 5)"
-engtitle = "shrIstavaH 1"
-Category = "devii, lakShmI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Author = "kuresha shrIvatsA.nkamishrAchArya evaM shrI kuranAtha shrIvatsachinhamishra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "One of Panchastavas http://www.prapatti.com/slokas/sanskrit/panchastavam.pdf"
-Indexextra = "(panchastava)"
-"Latest update" = "July 08, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीस्तवः १ (पञ्चस्तव्याम् ५)"
+---
+Author: kuresha shrIvatsA.nkamishrAchArya evaM shrI kuranAtha shrIvatsachinhamishra
+Category: devii, lakShmI, stotra, devI
+Description-comments: One of Panchastavas http://www.prapatti.com/slokas/sanskrit/panchastavam.pdf
+File name: shriistava.itx
+Indexextra: (panchastava)
+Language: Sanskrit
+Latest update: July 08, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shriistavaH
+Texttype: stotra
+Transliterated by: WebD
+engtitle: shrIstavaH 1
+itxtitle: shrIstavaH 1 (panchastavyAm 5)
+title: श्रीस्तवः १ (पञ्चस्तव्याम् ५)
 
-+++
+---
   
  श्रीश्रीस्तवः   
 पञ्चस्तव्यां ५ श्रीस्तवः  
@@ -75,7 +75,7 @@ title = "श्रीस्तवः १ (पञ्चस्तव्याम�
 विश्वं विपर्ययसमुत्थविपर्ययं त्वां   
      तां देवदेवमहिषीं श्रियमाश्रयामः ॥ १०॥  
   
-॥ इति श्री कुरेश श्रीवत्सांकमिश्राचार्य एवं  
+॥ इति श्री कुरेश श्रीवत्साङ्कमिश्राचार्य एवं  
 श्री कुरनाथ श्रीवत्सचिन्हमिश्र श्रीस्तवः सम्पूर्णः ॥  
   
   

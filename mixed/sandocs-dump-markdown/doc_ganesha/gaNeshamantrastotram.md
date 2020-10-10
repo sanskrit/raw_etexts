@@ -1,24 +1,24 @@
-+++
-"Text title" = "gaNeshamantrastotram"
-"File name" = "gaNeshamantrastotram.itx"
-itxtitle = "gaNeshamantrastotram"
-engtitle = "gaNeshamantrastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)"
-"Proofread by" = "Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)"
-Description-comments = "mudgalapurANa"
-"Latest update" = "January 2, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशमन्त्रस्तोत्रम्"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: mudgalapurANa
+File name: gaNeshamantrastotram.itx
+Language: Sanskrit
+Latest update: January 2, 2004
+Location: doc_ganesha
+Proofread by: Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshamantrastotram
+Texttype: stotra
+Transliterated by: Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)
+engtitle: gaNeshamantrastotram
+itxtitle: gaNeshamantrastotram
+title: गणेशमन्त्रस्तोत्रम्
 
-+++
+---
   
  श्रीगणेशमन्त्रस्तोत्रम्   
   
@@ -33,7 +33,7 @@ title = "गणेशमन्त्रस्तोत्रम्"
 तत्र प्रकाशकर्ताऽसौ चिन्तामणिहृदि स्थितः  ।  
 साक्षाद्योगेश योगेज्ञैर्लभ्यते भूमिनाशनात् ॥ ३॥  
   
-चित्तरूपा स्वयंबुद्धिश्चित्तभ्रान्तिकरी मता ।  
+चित्तरूपा स्वयम्बुद्धिश्चित्तभ्रान्तिकरी मता ।  
 सिद्धिर्माया गणेशस्य मायाखेलक उच्यते ॥ ४॥  
   
 अतो गणेशमन्त्रेण गणेशं भज पुत्रक ।  

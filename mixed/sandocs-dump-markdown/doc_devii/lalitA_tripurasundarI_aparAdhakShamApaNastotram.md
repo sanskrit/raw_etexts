@@ -1,25 +1,25 @@
-+++
-"Text title" = "tripurasundarI aparAdha kShamApaNa stotram"
-"File name" = "tripurasundarIaparAdhakShamApana.itx"
-itxtitle = "lalitA tripurasundarI aparAdhakShamApaNastotram"
-engtitle = "lalitA tripurasundarI aparAdhakShamApaNa stotram"
-Category = "aparAdhakShamA, devii, dashamahAvidyA, lalita, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalita"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "V. Gopalakrishnan vgk at igcar.ernet.in"
-"Proofread by" = "V. Gopalakrishnan and his father who is a Sanskrit scholar."
-Description-comments = "A Hymn of worship to Goddess Tripurasundari"
-Indexextra = "(Scan)"
-"Latest update" = "March 8, 2005, December 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललिता त्रिपुरसुन्दरी अपराधक्षमापणस्तोत्रम्"
+---
+Category: aparAdhakShamA, devii, dashamahAvidyA, lalita, devI
+Description-comments: A Hymn of worship to Goddess Tripurasundari
+File name: tripurasundarIaparAdhakShamApana.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 8, 2005, December 2, 2018
+Location: doc_devii
+Proofread by: V. Gopalakrishnan and his father who is a Sanskrit scholar.
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subcategory: lalita
+Subject: hinduism/religion
+Sublocation: devii
+Text title: tripurasundarI aparAdha kShamApaNa stotram
+Transliterated by: V. Gopalakrishnan vgk at igcar.ernet.in
+engtitle: lalitA tripurasundarI aparAdhakShamApaNa stotram
+itxtitle: lalitA tripurasundarI aparAdhakShamApaNastotram
+title: ललिता त्रिपुरसुन्दरी अपराधक्षमापणस्तोत्रम्
 
-+++
+---
   
  श्रीललिता त्रिपुरसुन्दरी अपराधक्षमापणस्तोत्रम्   
 ॐ कञ्जमनोहर पादचलन्मणि नूपुरहंस विराजिते  

@@ -1,25 +1,26 @@
-+++
-"Text title" = "nArAyaNa hRidayam"
-"File name" = "narayanahridayam.itx"
-itxtitle = "nArAyaNahRidayam"
-engtitle = "nArAyaNa hRidayam"
-Category = "hRidaya, vishhnu, narayana, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "narayana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in, Anuradha anuraadha_rs at yahoo.co.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in, Anuradha anuraadha_rs at yahoo.co.in"
-Description-comments = "should be used with lakShmI hRidayam"
-Indexextra = "(Meanings)"
-"Latest update" = "April 4, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणहृइदयम्"
+---
+Category: hRidaya, vishhnu, narayana, vishnu
+Description-comments: should be used with lakShmI hRidayam
+File name: narayanahridayam.itx
+Indexextra: (Meanings)
+Language: Sanskrit
+Latest update: April 4, 2009
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in, Anuradha anuraadha_rs at yahoo.co.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: narayana
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nArAyaNa hRidayam
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in, Anuradha anuraadha_rs
+  at yahoo.co.in
+engtitle: nArAyaNa hRidayam
+itxtitle: nArAyaNahRidayam
+title: नारायणहृइदयम्
 
-+++
+---
   
  नारायणहृदयम्   
   
@@ -45,7 +46,7 @@ Atharva Rahasyam.  They were given out by sage Bhargava.
 They belong to the category of stotram स्तोत्रम् .  
 The appellation stotram, stuti and stavam all describe a  
 hymn only. स्तवः स्तोत्रं नुतिः स्तुतिः । says Amara, the Sanskrit  
-lexicon. They all narrate the qualities of a deity. गुणसंकीर्तनम्  
+lexicon. They all narrate the qualities of a deity. गुणसङ्कीर्तनम्  
 is stotram,  says Shri Shankaracharya in his commentary to Vishnu  
 Sahasranama. The Lord in His true form is described in the scriptures  
 as having no attributes or qualities such as name, form or qualities.    
@@ -118,7 +119,7 @@ is required to perform religious duties like, going on pilgrimages,
 pujas, charity etc. So, seeking wealth, per se is not evil. Kalidasa,  
 in his famous poem Raghuvamsam says (1-7) that the kings of the dynasty  
 of Raghu amassed wealth for giving away to the needy and worthy and not  
-for enriching themselves.  त्यागाय संभृतार्थानाम् । Working to  
+for enriching themselves.  त्यागाय सम्भृतार्थानाम् । Working to  
 acquire wealth and saving for a rainy day are recommended.  It is not  
 decried  as long the means by which the wealth is obtained is legal and  
 does not involve injury or harm to others.  (3) Kama - Our scriptures  
@@ -214,7 +215,7 @@ liberation. Krishna ruefully says this in Gita.  मनुष्याणां 
 bemoans the fact, and says that the dullards are attracted by sense  
 pleasures and so choose the path of mundane prosperity, but the wise  
 choose the path of liberation. KU (1-2-2).    
-श्रेयश्च प्रेयश्च मनुष्यमेत-स्तौ संपरीत्य विविनक्ति धीरः ।  
+श्रेयश्च प्रेयश्च मनुष्यमेत-स्तौ सम्परीत्य विविनक्ति धीरः ।  
 श्रेयो हि धीरोऽभि प्रेयसे वृणीते प्रेयो मन्दो योगक्षेमात् वृणीते ॥  
   
 Wrong knowledge can be righted only by right knowledge called  
@@ -299,7 +300,7 @@ progress. These qualities are said to be four in number and are known
 in the vedantic parlance as साधन चतुष्टयम् or four means of  
 attainment. They are described in texts like Viveka Chudamani and Tattva  
 Bodha. They are more elaborately described by Krishna in chapter 16 of  
-Bhagavat Gita. He calls them as  दैवी संपत् or divine qualities  
+Bhagavat Gita. He calls them as  दैवी सम्पत् or divine qualities  
 They are necessarily to be acquired by one stepping on to the path  
 of liberation. दैवी सम्पद्विमोक्षाय। says Krishna. BG(16-5).  
 It is difficult to acquire these virtues by practice. But one need  
@@ -401,7 +402,7 @@ sense-enjoyments can be had in any body, but realisation can be had only
 with the human body. So, keeping in the mind the fact that the human  
 body is fragile, one should make haste and strive for liberation here  
 itself. BH(11-9-26).   
-लब्ध्वा सुदुर्लभमिदं बहुसंभवान्ते  
+लब्ध्वा सुदुर्लभमिदं बहुसम्भवान्ते  
      मानुष्यमर्थदमनित्यमपीह धीरः ।  
 तूर्णं यतेत न पतेदनुमृत्यु याव-  
      न्निश्रेयसाय विषयः खलु सर्वतः स्यात् ॥  
@@ -483,7 +484,7 @@ Thus, Ishvar and Maya are inseparable and are known as the parents
 of the universe.  This concept is depicted in our shastras as Ardhanariswara in  
 whom both Siva and Parvati share half of one body.  
 The poet Kalidasa says this in the invocatory verse to  
-his immortal classic Raghuvamsam as follows.  वागर्थाविव संपृक्तौ  
+his immortal classic Raghuvamsam as follows.  वागर्थाविव सम्पृक्तौ  
 वागर्थप्रतिपत्तये। जगतः पितरौ वन्दे पार्वतीपरमेश्वरौ ॥ He  
 salutes Parvati and Parameswara who are the parents of the Universe and  
 who are (inseparably) united like the speech and its sense. Prakriti or  
@@ -544,7 +545,7 @@ Now follows the NARAYANA HRIDAYAM stotram.
   
                             ॥ नारायण हृदयम् ॥  
   
-हरिः ओम् ॥ अस्य श्रीनारायण-हृदय-स्तोत्र-महामंत्रस्य भार्गव ऋषिः,  
+हरिः ओम् ॥ अस्य श्रीनारायण-हृदय-स्तोत्र-महामन्त्रस्य भार्गव ऋषिः,  
 अनुष्टुप्छन्दः, लक्ष्मीनारायणो देवता, नारायण-प्रीत्यर्थे जपे विनियोगः ॥  
   
                      ॥ करन्यासः ॥  
@@ -574,7 +575,7 @@ Now follows the NARAYANA HRIDAYAM stotram.
 त्रैलोक्याधारचक्रं तदुपरि कमठं तत्र चानन्तभोगी  
 तन्मध्ये भूमि-पद्माङ्कुश-शिखरदळं कर्णिकाभूत-मेरुम् ।  
 तत्रत्यं शान्तमूर्तिं मणिमय-मकुटं कुण्डलोद्भासिताङ्गं  
-लक्ष्मी-नारायणाख्यं सरसिज-नयनं संततं चिन्तयामः ॥ २॥  
+लक्ष्मी-नारायणाख्यं सरसिज-नयनं सन्ततं चिन्तयामः ॥ २॥  
   
          अस्य श्रीनारायणाहृदय-स्तोत्र-महामन्त्रस्य ब्रह्मा ऋषिः,  
          अनुष्टुप् छन्दः, नारायणो देवता, नारायण-प्रीत्यर्थे जपे विनियोगः ॥  

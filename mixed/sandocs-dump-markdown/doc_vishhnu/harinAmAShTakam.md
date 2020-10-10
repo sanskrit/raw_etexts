@@ -1,24 +1,24 @@
-+++
-"Text title" = "harinAmAShTakam"
-"File name" = "harinAmAShTakam.itx"
-itxtitle = "harinAmAShTakam"
-engtitle = "Shri Harinamashtakam"
-Category = "aShTaka, vishhnu, hari, brahmAnanda, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "hari"
-Author = "Swami Brahmananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, NA"
-"Latest update" = "July 19, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिनामाष्टकम्"
+---
+Author: Swami Brahmananda
+Category: aShTaka, vishhnu, hari, brahmAnanda, vishnu
+File name: harinAmAShTakam.itx
+Language: Sanskrit
+Latest update: July 19, 2012
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: hari
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: harinAmAShTakam
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: Shri Harinamashtakam
+itxtitle: harinAmAShTakam
+title: हरिनामाष्टकम्
 
-+++
+---
   
  श्रीहरिनामाष्टकम्   
   

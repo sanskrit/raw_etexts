@@ -1,24 +1,24 @@
-+++
-"Text title" = "nigrahAShTakam"
-"File name" = "nigrahAShTakam.itx"
-itxtitle = "nigrahAShTakam (appayA dIkShitavirachitam)"
-engtitle = "nigrahAShTakam"
-Category = "aShTaka, shiva, appayya-dIkShita"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Appayya Dikshit  (16th cent. A.D.)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Appayaa Dikshit's prayer to Shiva for protection"
-Source = "Savivaran sriraamayanbharatsaar DLI 5990010894333"
-"Latest update" = "September 25, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "निग्रहाष्टकम् (अप्पया दीक्षितविरचितम्)"
+---
+Author: Appayya Dikshit  (16th cent. A.D.)
+Category: aShTaka, shiva, appayya-dIkShita
+Description-comments: Appayaa Dikshit's prayer to Shiva for protection
+File name: nigrahAShTakam.itx
+Language: Sanskrit
+Latest update: September 25, 2015
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Savivaran sriraamayanbharatsaar DLI 5990010894333
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: nigrahAShTakam
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: nigrahAShTakam
+itxtitle: nigrahAShTakam (appayA dIkShitavirachitam)
+title: निग्रहाष्टकम् (अप्पया दीक्षितविरचितम्)
 
-+++
+---
   
  निग्रहाष्टकम्   
 श्रीमदप्पय्यदीक्षितविरचितम् ।  

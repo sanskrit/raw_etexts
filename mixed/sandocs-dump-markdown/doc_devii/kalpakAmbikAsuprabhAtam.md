@@ -1,24 +1,24 @@
-+++
-"Text title" = "Kalpakambika Suprabhatam"
-"File name" = "kalpakAmbikAsuprabhAtam.itx"
-itxtitle = "kalpakAmbikAsuprabhAtam"
-engtitle = "kalpakAmbikAsuprabhAtam"
-Category = "suprabhAta, devii, devI, otherforms"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Author = "sheShashAyIsharmA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Tamil)"
-"Latest update" = "July 2, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कल्पकाम्बिकासुप्रभातम्"
+---
+Author: sheShashAyIsharmA
+Category: suprabhAta, devii, devI, otherforms
+File name: kalpakAmbikAsuprabhAtam.itx
+Indexextra: (Tamil)
+Language: Sanskrit
+Latest update: July 2, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kalpakambika Suprabhatam
+Texttype: stotra
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: kalpakAmbikAsuprabhAtam
+itxtitle: kalpakAmbikAsuprabhAtam
+title: कल्पकाम्बिकासुप्रभातम्
 
-+++
+---
   
  श्रीकल्पकाम्बिकासुप्रभातम्   
 नृत्तं च लास्यमखिलं पितृ-मातृ-दत्तं  

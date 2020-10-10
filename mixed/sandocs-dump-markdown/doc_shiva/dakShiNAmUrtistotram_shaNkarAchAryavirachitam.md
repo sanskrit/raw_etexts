@@ -1,24 +1,25 @@
-+++
-"Text title" = "dakShiNAmurti stotra"
-"File name" = "dakshina.itx"
-itxtitle = "dakShiNAmUrtistotram (shaNkarAchAryavirachitam)"
-engtitle = "dakShiNAmurti stotra or aShTakam"
-Category = "shiva, stotra, shankarAchArya, aShTaka, vedanta"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "shankarAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Giridhar Madras"
-"Proofread by" = "Giridhar Madras , Shankara shankara_2000 at yahoo.com"
-Indexextra = "(mAnasollAsa bhAvArthavArtika and laghutattvasudhA stotravyAkhyA.  info, HIndi)"
-"Latest update" = "September 24, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्तिस्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Author: shankarAchArya
+Category: shiva, stotra, shankarAchArya, aShTaka, vedanta
+File name: dakshina.itx
+Indexextra: (mAnasollAsa bhAvArthavArtika and laghutattvasudhA stotravyAkhyA.  info,
+  HIndi)
+Language: Sanskrit
+Latest update: September 24, 2018
+Location: doc_shiva
+Proofread by: Giridhar Madras , Shankara shankara_2000 at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: dakShiNAmurti stotra
+Texttype: stotra
+Transliterated by: Giridhar Madras
+engtitle: dakShiNAmurti stotra or aShTakam
+itxtitle: dakShiNAmUrtistotram (shaNkarAchAryavirachitam)
+title: दक्षिणामूर्तिस्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  दक्षिणामूर्तिस्तोत्रं अथवा दक्षिणामूर्त्यष्टकम्   
                  Introduction  
@@ -79,10 +80,10 @@ sridakShinamurti stotra provides an idea of the depth required
 to understand the stotra.  May shri daksinamurti embodied in the  
 acharya(s) lead us from ignorance to Truth.  OM tat sat  
   
-॥ शांतिपाठः ॥  ॐ यो ब्रह्माणं विदधाति पूर्वम्  
+॥ शान्तिपाठः ॥  ॐ यो ब्रह्माणं विदधाति पूर्वम्  
 यो वै वेदांश्च प्रहिणोति तस्मै ।  
 तं ह देवमात्मबुद्धिप्रकाशं  
-मुमुक्षुर्वै शरणमहं प्रपद्ये ॥  ॐ शांतिः शांतिः शांतिः  
+मुमुक्षुर्वै शरणमहं प्रपद्ये ॥  ॐ शान्तिः शान्तिः शान्तिः  
   
 This verse is chanted before the stotraM.  OM . I surrender  
 to THAT, who projected brahma at the beginning of the creation  
@@ -172,7 +173,7 @@ by j~nAna-mudra (the joining of the thumb and the forefinger of
 a raised right hand) - to that DakShinamurti, who is embodied  
 in the auspicious Guru, I offer my profound salutations.  
   
-विश्वं पश्यति कार्यकारणतया स्वस्वामिसंबन्धतः  
+विश्वं पश्यति कार्यकारणतया स्वस्वामिसम्बन्धतः  
 शिष्याचार्यतया तथैव पितृपुत्राद्यात्मना भेदतः ।  
 स्वप्ने जाग्रति वा य एष पुरुषो मायापरिभ्रामितः  
 तस्मै श्रीगुरुमूर्तये नम इदं श्रीदक्षिणामूर्तये ॥ ८॥    
@@ -224,7 +225,7 @@ Dakshinamurti Stotra
 तं ह देवमात्मबुद्धिप्रकाशं  
 मुमुक्षुर्वै शरणमहं प्रपद्ये ॥  
   
-ॐ शांतिः शांतिः शांतिः  
+ॐ शान्तिः शान्तिः शान्तिः  
   
 विश्वं दर्पणदृश्यमाननगरीतुल्यं निजान्तर्गतं  
 पश्यन्नात्मनि मायया बहिरिवोद्भूतं यथा निद्रया ।  
@@ -261,7 +262,7 @@ Dakshinamurti Stotra
 स्वात्मानं प्रकटीकरोति भजतां यो मुद्रया भद्रया  
 तस्मै श्रीगुरुमूर्तये नम इदं श्रीदक्षिणामूर्तये ॥ ७॥  
   
-विश्वं पश्यति कार्यकारणतया स्वस्वामिसंबन्धतः  
+विश्वं पश्यति कार्यकारणतया स्वस्वामिसम्बन्धतः  
 शिष्याचार्यतया तथैव पितृपुत्राद्यात्मना भेदतः ।  
 स्वप्ने जाग्रति वा य एष पुरुषो मायापरिभ्रामितः  
 तस्मै श्रीगुरुमूर्तये नम इदं श्रीदक्षिणामूर्तये ॥ ८॥  
@@ -309,7 +310,7 @@ ShrI Ganesan (deepa at tiac.net) for providing the meanings.
 शरणं  = surrender, refuge;  
 अहं  = (pronoun Nom.sing.) I;  
 प्रपद्ये  = (Verb Pr.I Per . sing.AP) surrender, resort to;  
-शांतिः  = (Fem.Nom.sing.) peace  
+शान्तिः  = (Fem.Nom.sing.) peace  
 विश्वं  = (Nr . Acc.case,sing.)) Universe;  
 दर्पण(ं )  = (Nr.Acc.case, sing.) mirror;  
 दृश्यमानं  = (Nr.Acc.sing.)  looking like, appearing;  
@@ -340,7 +341,7 @@ ShrI Ganesan (deepa at tiac.net) for providing the meanings.
 बीजस्य  = (Nr.Poss.sing.) of the seed;  
 अन्तः  = (indec.) inside;  
 इव  = (indec.) like;  
-अंकुरः  = (Masc.Nom.sing.) sprout;  
+अङ्कुरः  = (Masc.Nom.sing.) sprout;  
 जगत्  = (Neuter Nom.Sing.) world;  
 इदं  = (Nr . Nom.Sing.) this;  
 प्राङ्  = in the beginning;  
@@ -491,7 +492,7 @@ ShrI Ganesan (deepa at tiac.net) for providing the meanings.
 कार्यकारणतया  = (Fem.instr,sing.)(through the quality of) effect;  
 स्व  = one's own;  
 स्वामि  = master;  
-संबन्धतः  = as related;  
+सम्बन्धतः  = as related;  
 शिष्य  = (fem.instr.sing.)(thro' the quality of) disciple;  
 आचार्यतया  = teachership;  
 तथ्ह  = (both words indec.) in that manner;  

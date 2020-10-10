@@ -1,21 +1,21 @@
-+++
-"Text title" = "gajAnanastotram"
-"File name" = "gajAnanastotram2.itx"
-itxtitle = "gajAnanastotram (namaste gajavaktrAya)"
-engtitle = "gajAnanastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Indexextra = "(Translation)"
-"Latest update" = "August 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गजाननस्तोत्रम् (नमस्ते गजवक्त्राय)"
+---
+Category: ganesha, stotra
+File name: gajAnanastotram2.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: August 2, 2017
+Location: doc_ganesha
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gajAnanastotram
+engtitle: gajAnanastotram
+itxtitle: gajAnanastotram (namaste gajavaktrAya)
+title: गजाननस्तोत्रम् (नमस्ते गजवक्त्राय)
 
-+++
+---
   
  गजाननस्तोत्रम्   
   

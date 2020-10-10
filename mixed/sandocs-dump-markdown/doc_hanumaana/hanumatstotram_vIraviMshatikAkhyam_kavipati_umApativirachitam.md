@@ -1,21 +1,21 @@
-+++
-"Text title" = "hanumatstotram vIraviMshatikAkhyam"
-"File name" = "vIraviMshatikAkhyamhanumatstotram.itx"
-itxtitle = "hanumatstotram vIraviMshatikAkhyam (kavipati umApativirachitam)"
-engtitle = "vIraviMshatikAkhyam hanumatstotram"
-Category = "viMshati, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "kavipati umApati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Source = "hanumad rahasyam"
-"Latest update" = "June 8, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्स्तोत्रम् वीरविंशतिकाख्यम् (कविपति उमापतिविरचितम्)"
+---
+Author: kavipati umApati
+Category: viMshati, hanumaana, hanuman
+File name: vIraviMshatikAkhyamhanumatstotram.itx
+Language: Sanskrit
+Latest update: June 8, 2016
+Location: doc_hanumaana
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: hanumad rahasyam
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatstotram vIraviMshatikAkhyam
+engtitle: vIraviMshatikAkhyam hanumatstotram
+itxtitle: hanumatstotram vIraviMshatikAkhyam (kavipati umApativirachitam)
+title: हनुमत्स्तोत्रम् वीरविंशतिकाख्यम् (कविपति उमापतिविरचितम्)
 
-+++
+---
   
  वीरविंशतिकाख्यं श्रीहनुमत्स्तोत्रम्   
   

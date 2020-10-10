@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRiShNasya dvAvi.nshatyakSharo mantraH"
-"File name" = "krishna22.itx"
-itxtitle = "shrIkRiShNasya dvAvi.nshatyakSharAtmko mantraH"
-engtitle = "kRiShNamantra with 22 syllables"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "January 19, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीकृइष्णस्य द्वाविंशत्यक्षरात्म्को मन्त्रः"
+---
+Author: Traditional
+Category: vishhnu, krishna, stotra, vishnu
+File name: krishna22.itx
+Language: Sanskrit
+Latest update: January 19, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRiShNasya dvAvi.nshatyakSharo mantraH
+Texttype: stotra
+Transliterated by: WebD
+engtitle: kRiShNamantra with 22 syllables
+itxtitle: shrIkRiShNasya dvAvi.nshatyakSharAtmko mantraH
+title: श्रीकृइष्णस्य द्वाविंशत्यक्षरात्म्को मन्त्रः
 
-+++
+---
   
  श्रीकृष्णस्य द्वाविंशत्यक्षरात्म्को मन्त्रः   
   

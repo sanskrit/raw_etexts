@@ -1,22 +1,22 @@
-+++
-"Text title" = "sItAShTottarashatanAmAvaliH"
-"File name" = "sItAShTottarashatanAmAvaliH.itx"
-itxtitle = "sItAShTottarashatanAmAvaliH"
-engtitle = "sItAShTottarashatanAmAvaliH"
-Category = "devii, aShTottarashatanAmAvalI, sItA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sItA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीताष्टोत्तरशतनामावलिः"
+---
+Category: devii, aShTottarashatanAmAvalI, sItA
+File name: sItAShTottarashatanAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sItA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sItAShTottarashatanAmAvaliH
+engtitle: sItAShTottarashatanAmAvaliH
+itxtitle: sItAShTottarashatanAmAvaliH
+title: सीताष्टोत्तरशतनामावलिः
 
-+++
+---
   
  सीताष्टोत्तरशतनामावलिः   
   

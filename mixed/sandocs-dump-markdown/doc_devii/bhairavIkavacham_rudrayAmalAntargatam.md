@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhairavIkavacham"
-"File name" = "bhairavIkavacham.itx"
-itxtitle = "bhairavIkavacham (rudrayAmalAntargatam)"
-engtitle = "bhairavIkavacham"
-Category = "devii, kavacha, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-"Description/comments" = "shAktapramodaH, rudrayAmalatantra"
-"Latest update" = "July 29, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भैरवीकवचम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: devii, kavacha, dashamahAvidyA, devI
+Description/comments: shAktapramodaH, rudrayAmalatantra
+File name: bhairavIkavacham.itx
+Language: Sanskrit
+Latest update: July 29, 2018
+Location: doc_devii
+Proofread by: lalitha parameswari parameswari.lalitha at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhairavIkavacham
+engtitle: bhairavIkavacham
+itxtitle: bhairavIkavacham (rudrayAmalAntargatam)
+title: भैरवीकवचम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीभैरवीकवचं   
 श्रीपार्वत्युवाच -  
@@ -88,7 +88,7 @@ title = "भैरवीकवचम् (रुद्रयामलान्त
 पङ्क्तिश्छन्दः स्वरूपा तु मुखे पातु सुरेश्वरी ॥ २२॥  
   
 गन्धाष्टकात्मिका पातु हृदयं शङ्करी सदा ।  
-सर्वसंमोहिनी पातु पातु सङ्क्षोभिणी सदा ॥ २३॥  
+सर्वसम्मोहिनी पातु पातु सङ्क्षोभिणी सदा ॥ २३॥  
   
 सर्वसिद्धिप्रदा पातु सर्वाकर्षणकारिणी ।  
 क्षोभिणी सर्वदा पातु वशिनी सर्वदावतु ॥ २४॥  

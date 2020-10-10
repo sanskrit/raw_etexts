@@ -1,24 +1,24 @@
-+++
-"Text title" = "Kaverinavaratnamalika or Sahyajanavaratnamalika"
-"File name" = "kAverInavaratnamAlikA.itx"
-itxtitle = "kAverinavaratnamAlikA athavA sahyajAnavaratnamAlikA (tyAgarAjakRitA)"
-engtitle = "Kaverinavaratnamalika or Sahyajanavaratnamalika"
-Category = "nava, devii, nadI, stotra, tyAgarAja, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Texttype = "stotra"
-Author = "Tyagaraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Suresh Pitre suresh.pitre at gmail.com"
-"Proofread by" = "Suresh Pitre suresh.pitre at gmail.com"
-"Latest update" = "October 31, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कावेरिनवरत्नमालिका अथवा सह्यजानवरत्नमालिका (त्यागराजकृइता)"
+---
+Author: Tyagaraja
+Category: nava, devii, nadI, stotra, tyAgarAja, devI
+File name: kAverInavaratnamAlikA.itx
+Language: Sanskrit
+Latest update: October 31, 2016
+Location: doc_devii
+Proofread by: Suresh Pitre suresh.pitre at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kaverinavaratnamalika or Sahyajanavaratnamalika
+Texttype: stotra
+Transliterated by: Suresh Pitre suresh.pitre at gmail.com
+engtitle: Kaverinavaratnamalika or Sahyajanavaratnamalika
+itxtitle: kAverinavaratnamAlikA athavA sahyajAnavaratnamAlikA (tyAgarAjakRitA)
+title: कावेरिनवरत्नमालिका अथवा सह्यजानवरत्नमालिका (त्यागराजकृइता)
 
-+++
+---
   
  कावेरी अथवा सह्यजानवरत्नमालिका   
   
@@ -58,11 +58,11 @@ title = "कावेरिनवरत्नमालिका अथवा स
   
 कालं पतीक्ष्यैव सजातु सेव्यः  
 त्वत्तोऽधिकङ्किन्नु फलन्ददाति ।  
-तस्मान्नदीराजमहिष्यलंमे  
+तस्मान्नदीराजमहिष्यलम्मे  
 त्वत्संश्रयो यत्फलमम्बसूते ॥ ७॥  
   
 असह्यपापवारिणि त्वदीयपुण्यवारिणि  
-क्वसह्यजे निमज्जतामघौघ साध्वसंनृणाम् ।  
+क्वसह्यजे निमज्जतामघौघ साध्वसन्नृणाम् ।  
 विधूतपातका हि ते विनैवकृच्छ्रजश्रमं  
 प्रयान्ति शम्भुमन्दिरं प्रकृष्टपुण्यभासुराः ॥ ८॥  
   

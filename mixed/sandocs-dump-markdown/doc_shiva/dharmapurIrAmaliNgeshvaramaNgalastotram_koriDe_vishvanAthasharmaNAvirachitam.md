@@ -1,24 +1,24 @@
-+++
-"Text title" = "Dharmapuri Ramalingeshvara Mangalastotram"
-"File name" = "dharmapurIrAmaliNgeshvaramangalastotram.itx"
-itxtitle = "dharmapurIrAmaliNgeshvaramaNgalastotram (koriDe vishvanAthasharmaNAvirachitam)"
-engtitle = "dharmapurIrAmaliNgeshvaramangalastotram"
-Category = "shiva, koriDevishvanAthasharmA, mangala"
-Location = "doc_shiva"
-Author = "koriDe vishvanAthasharmA, dharmapurI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "koriDe vishvanAthasharmA"
-"Proofread by" = "koriDe vishvanAthasharmA"
-"Description/comments" = "Includes second suprabhAtam and prapatti"
-Indexextra = "(blog)"
-Acknowledge-Permission = "Koride Vishwanatha Sharma"
-"Latest update" = "March 15, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धर्मपुरीरामलिण्गेश्वरमण्गलस्तोत्रम् (कोरिडे विश्वनाथशर्मणाविरचितम्)"
+---
+Acknowledge-Permission: Koride Vishwanatha Sharma
+Author: koriDe vishvanAthasharmA, dharmapurI
+Category: shiva, koriDevishvanAthasharmA, mangala
+Description/comments: Includes second suprabhAtam and prapatti
+File name: dharmapurIrAmaliNgeshvaramangalastotram.itx
+Indexextra: (blog)
+Language: Sanskrit
+Latest update: March 15, 2018
+Location: doc_shiva
+Proofread by: koriDe vishvanAthasharmA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Text title: Dharmapuri Ramalingeshvara Mangalastotram
+Transliterated by: koriDe vishvanAthasharmA
+engtitle: dharmapurIrAmaliNgeshvaramangalastotram
+itxtitle: dharmapurIrAmaliNgeshvaramaNgalastotram (koriDe vishvanAthasharmaNAvirachitam)
+title: धर्मपुरीरामलिण्गेश्वरमण्गलस्तोत्रम् (कोरिडे विश्वनाथशर्मणाविरचितम्)
 
-+++
+---
   
  श्रीधर्मपुरीरामलिङ्गेश्वरमङ्गलस्तोत्रम्   
   

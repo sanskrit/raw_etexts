@@ -1,24 +1,24 @@
-+++
-"Text title" = "lakShmIsahasranAmastotram 1"
-"File name" = "lakShmIsahasranAmastotram.itx"
-itxtitle = "lakShmIsahasranAmastotram 1"
-engtitle = "lakShmIsahasranAmastotram 1"
-Category = "sahasranAma, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(Scanned book)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "October 6, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीसहस्रनामस्तोत्रम् १"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAma, devii, lakShmI, devI
+Description-comments: Edited by S. V. Radhakrishna Shastriji
+File name: lakShmIsahasranAmastotram.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: October 6, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmIsahasranAmastotram 1
+engtitle: lakShmIsahasranAmastotram 1
+itxtitle: lakShmIsahasranAmastotram 1
+title: लक्ष्मीसहस्रनामस्तोत्रम् १
 
-+++
+---
   
  श्रीलक्ष्मीसहस्रनामस्तोत्रम् १   
   
@@ -358,7 +358,7 @@ title = "लक्ष्मीसहस्रनामस्तोत्रम�
 धन्या मान्या पद्मनेमिः भार्गवी वंशवर्धनी ॥ १०४॥  
   
 तीक्ष्णप्रवृत्तिः सत्कीर्तिः निषेव्याऽघविनाशिनी ।  
-संज्ञा निःसंशया पूर्वा वनमाला वसुन्धरा ॥ १०५॥  
+सञ्ज्ञा निःसंशया पूर्वा वनमाला वसुन्धरा ॥ १०५॥  
   
 पृथुर्महोत्कटाऽहल्या मण्डलाऽऽश्रितमानदा ।  
 सर्वा नित्योदितोदारा जृम्भमाणा महोदया ॥ १०६॥  

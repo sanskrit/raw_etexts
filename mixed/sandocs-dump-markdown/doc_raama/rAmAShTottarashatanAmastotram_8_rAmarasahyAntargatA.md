@@ -1,29 +1,29 @@
-+++
-"Text title" = "rAmAShTottarashatanAmastotram 8"
-"File name" = "rAmAShTottarashatanAmastotram8.itx"
-itxtitle = "rAmAShTottarashatanAmastotram 8 (rAmarasahyAntargatA)"
-engtitle = "rAmAShTottarashatanAmastotram 8"
-Category = "raama, aShTottarashatanAma, nAmAvalI"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(Scan)"
-"Latest update" = "April 20, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टोत्तरशतनामस्तोत्रम् ८ (रामरसह्यान्तर्गता)"
+---
+Category: raama, aShTottarashatanAma, nAmAvalI
+File name: rAmAShTottarashatanAmastotram8.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 20, 2019
+Location: doc_raama
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmAShTottarashatanAmastotram 8
+Transliterated by: NA
+engtitle: rAmAShTottarashatanAmastotram 8
+itxtitle: rAmAShTottarashatanAmastotram 8 (rAmarasahyAntargatA)
+title: रामाष्टोत्तरशतनामस्तोत्रम् ८ (रामरसह्यान्तर्गता)
 
-+++
+---
   
  श्रीरामरहस्योक्त श्रीरामाष्टोत्तरशतनामस्तोत्रम्   
 रामो रावणसंहारकृतमानुषविग्रहः ।  
 कौसल्यासुकृतव्रातफलं दशरथात्मजः ॥ १॥  
   
 लक्ष्मणार्चितपादाब्जसर्वलोकप्रियङ्करः  
-साकेतवासिनेत्राब्जसंप्रीणनदिवाकरः ॥ २॥  
+साकेतवासिनेत्राब्जसम्प्रीणनदिवाकरः ॥ २॥  
   
 विश्वामित्रप्रियश्शान्तः ताटकाध्वान्तभास्करः ।  
 सुबाहुराक्षसरिपुः कौशिकाध्वरपालकः ॥ ३॥  

@@ -1,20 +1,20 @@
-+++
-"Text title" = "Varahi Stavam"
-"File name" = "vArAhIstavam.itx"
-itxtitle = "vArAhIstavam"
-engtitle = "vArAhIstavam"
-Category = "devii, devI, otherforms"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Telugu)"
-"Latest update" = "July 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाराहीस्तवम्"
+---
+Category: devii, devI, otherforms
+File name: vArAhIstavam.itx
+Indexextra: (Telugu)
+Language: Sanskrit
+Latest update: July 7, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Varahi Stavam
+engtitle: vArAhIstavam
+itxtitle: vArAhIstavam
+title: वाराहीस्तवम्
 
-+++
+---
   
  श्रीवाराहीदेविस्तवम्   
 ध्यानम् -  

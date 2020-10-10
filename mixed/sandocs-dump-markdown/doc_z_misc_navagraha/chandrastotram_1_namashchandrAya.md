@@ -1,22 +1,22 @@
-+++
-"Text title" = "chandrastotram 1"
-"File name" = "chandrastotram.itx"
-itxtitle = "chandrastotram 1 (namashchandrAya)"
-engtitle = "chandrastotram 1"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "BhaktivivekasAra"
-Indexextra = "(Scanned)"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्रस्तोत्रम् १ (नमश्चन्द्राय)"
+---
+Category: navagraha
+Description/comments: BhaktivivekasAra
+File name: chandrastotram.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: chandrastotram 1
+engtitle: chandrastotram 1
+itxtitle: chandrastotram 1 (namashchandrAya)
+title: चन्द्रस्तोत्रम् १ (नमश्चन्द्राय)
 
-+++
+---
   
  चन्द्रस्तोत्रम्   
 नमश्चन्द्रमसे ॥  

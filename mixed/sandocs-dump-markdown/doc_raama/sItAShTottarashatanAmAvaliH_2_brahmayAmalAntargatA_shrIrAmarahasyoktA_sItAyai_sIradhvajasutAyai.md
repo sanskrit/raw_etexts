@@ -1,23 +1,24 @@
-+++
-"Text title" = "sItAShTottarashatanAmAvaliH 2"
-"File name" = "sItAShTottarashatanAmAvaliH.itx"
-itxtitle = "sItAShTottarashatanAmAvaliH 2 ((brahmayAmalAntargatA shrIrAmarahasyoktA, sItAyai sIradhvajasutAyai)"
-engtitle = "sItAShTottarashatanAmAvaliH 2"
-Category = "devii, aShTottarashatanAmAvalI, sItA, raama, devI"
-Location = "doc_raama"
-Sublocation = "raama"
-SubDeity = "sItA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "brahmayAmala shrIrAmarahasya"
-Indexextra = "(VSM 1, Scan)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीताष्टोत्तरशतनामावलिः २ ((ब्रह्मयामलान्तर्गता श्रीरामरहस्योक्ता, सीतायै सीरध्वजसुतायै)"
+---
+Category: devii, aShTottarashatanAmAvalI, sItA, raama, devI
+Description/comments: brahmayAmala shrIrAmarahasya
+File name: sItAShTottarashatanAmAvaliH.itx
+Indexextra: (VSM 1, Scan)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sItA
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: sItAShTottarashatanAmAvaliH 2
+engtitle: sItAShTottarashatanAmAvaliH 2
+itxtitle: sItAShTottarashatanAmAvaliH 2 ((brahmayAmalAntargatA shrIrAmarahasyoktA,
+  sItAyai sIradhvajasutAyai)
+title: सीताष्टोत्तरशतनामावलिः २ ((ब्रह्मयामलान्तर्गता श्रीरामरहस्योक्ता, सीतायै सीरध्वजसुतायै)
 
-+++
+---
   
  सीताष्टोत्तरशतनामावलिः   
 सीतायै नमः । सीरध्वजसुतायै । सीमातीतगुणोज्ज्वलायै ।  

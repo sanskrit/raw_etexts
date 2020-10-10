@@ -1,30 +1,30 @@
-+++
-"Text title" = "Turiyatita Upanishad"
-"File name" = "turiya.itx"
-itxtitle = "turIyAtItopaniShat"
-engtitle = "Turiyatita Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "64 / 108; Shukla Yajurveda - Sanyasa upanishad"
-"Latest update" = "Mar. 21, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुरीयातीतोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 64 / 108; Shukla Yajurveda - Sanyasa upanishad
+File name: turiya.itx
+Language: Sanskrit
+Latest update: Mar. 21, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Turiyatita Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Turiyatita Upanishad
+itxtitle: turIyAtItopaniShat
+title: तुरीयातीतोपनिषत्
 
-+++
+---
   
  तुरीयातीतोपनिषत्   
   
 ॐ तुरीयातीतोपनिषद्वेद्यं यत्परमाक्षरम् ।  
 तत्तुर्यातीतचिन्मात्रं स्वमात्रं चिन्तयेऽन्वहम् ॥  
   
-तुरीयातीतसंन्यासपरिव्राजाक्षमालिका ।  
+तुरीयातीतसन्न्यासपरिव्राजाक्षमालिका ।  
 अव्यक्तैकाक्षरं पूर्णा सूर्याक्ष्यध्यात्मकुण्डिका ॥  
   
 हरिः ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।  
@@ -45,8 +45,8 @@ title = "तुरीयातीतोपनिषत्"
 हंसः परमहंसो भूत्वा स्वरूपानुसन्धानेन  
 सर्वप्रपञ्चं विदित्वा दण्डकमण्डलुकटिसूत्र-  
 कौपीनाच्छादनं स्वविध्युक्तक्रियादिकं सर्वमप्सु  
-संन्यस्य दिगम्बरो भूत्वा विवर्णजीर्णवल्कलाजिन-  
-परिग्रहमपि संत्यज्य तदूर्ध्वममन्त्रवदाचरन्क्षौरा-  
+सन्न्यस्य दिगम्बरो भूत्वा विवर्णजीर्णवल्कलाजिन-  
+परिग्रहमपि सन्त्यज्य तदूर्ध्वममन्त्रवदाचरन्क्षौरा-  
 भ्यङ्गस्नानोर्ध्वपुण्ड्रादिकं विहाय लौकिकवैदिकम-  
 प्युपसंहृत्य सर्वत्र पुण्यापुण्यवर्जितो ज्ञानाज्ञानमपि  
 विहाय शीतोष्णसुखदुःखमानावमानं निर्जित्य वासनात्रय-  
@@ -61,9 +61,9 @@ title = "तुरीयातीतोपनिषत्"
 सुखेन नानुमोदको रागे निःस्पृहः सर्वत्र शुभाशुभयो-  
 रनभिस्नेहः सर्वेन्द्रियोपरमः स्वपूर्वापन्नाश्रमाचारविद्या-  
 धर्मप्राभवमननुस्मरन्त्यक्तवर्णाश्रमाचारः सर्वदा  
-दिवानक्तसमत्वेनास्वप्नः सर्वदासंचारशीलो  
+दिवानक्तसमत्वेनास्वप्नः सर्वदासञ्चारशीलो  
 देहमात्रवशिष्टो जलस्थलकमण्डलुः सर्वदानुन्मत्तो  
-बालोन्मत्तपिशाचवदेकाकी संचरन्नसंभाषणपरः  
+बालोन्मत्तपिशाचवदेकाकी सञ्चरन्नसम्भाषणपरः  
 स्वरूपध्यानेन निरालम्बमवलम्ब्य स्वात्मनिष्ठानुकूलेन  
 सर्वं विस्मृत्य तुरीयातीतावधूतवेषेणाद्वैतनिष्ठापरः  
 प्रणवात्मकत्वेन देहत्यागं करोति यः सोऽवधूतः  स  

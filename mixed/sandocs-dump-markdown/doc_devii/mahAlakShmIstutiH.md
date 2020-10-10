@@ -1,24 +1,24 @@
-+++
-"Text title" = "mahAlakShmistuti musical composition"
-"File name" = "mahAlakShmIstuti.itx"
-itxtitle = "mahAlakShmIstutiH"
-engtitle = "MahalakShmi Stuti"
-Category = "devii, lakShmI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Lakshmanan"
-"Proofread by" = "Mrs. K. V. Lalitha contact Sowmya Ramkumar, PSA Easwaran"
-"Translated by" = "Badri"
-"Latest update" = "October 12, 2008, August 13, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालक्ष्मीस्तुतिः"
+---
+Category: devii, lakShmI, stotra, devI
+File name: mahAlakShmIstuti.itx
+Language: Sanskrit
+Latest update: October 12, 2008, August 13, 2016
+Location: doc_devii
+Proofread by: Mrs. K. V. Lalitha contact Sowmya Ramkumar, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: Hinduism/religion/traditional
+Sublocation: devii
+Text title: mahAlakShmistuti musical composition
+Texttype: stotra
+Translated by: Badri
+Transliterated by: Lakshmanan
+engtitle: MahalakShmi Stuti
+itxtitle: mahAlakShmIstutiH
+title: महालक्ष्मीस्तुतिः
 
-+++
+---
   
  महालक्ष्मीस्तुतिः   
   
@@ -49,7 +49,7 @@ title = "महालक्ष्मीस्तुतिः"
 जयलक्ष्मि नमस्तेऽस्तु सर्वकार्यजयप्रदे ।  
 जयं देहि शुभं देहि सर्वकामांश्च देहि मे ॥ ९॥  
   
-भाग्यलक्ष्मि नमस्तेऽस्तु सौमंगल्यविवर्धिनि ।  
+भाग्यलक्ष्मि नमस्तेऽस्तु सौमङ्गल्यविवर्धिनि ।  
 भाग्यं देहि श्रियं देहि सर्वकामांश्च देहि मे ॥ १०॥  
   
 कीर्तिलक्ष्मि नमस्तेऽस्तु विष्णुवक्षस्थलस्थिते ।  
@@ -61,16 +61,16 @@ title = "महालक्ष्मीस्तुतिः"
 सिद्धलक्ष्मि नमस्तेऽस्तु सर्वसिद्धिप्रदायिनि ।  
 सिद्धिं देहि श्रियं देहि सर्वकामांश्च देहि मे ॥ १३॥  
   
-सौन्दर्यलक्ष्मि नमस्तेऽस्तु सर्वालंकारशोभिते । सौन्दर्यलक्ष्मि वन्देऽहं  
+सौन्दर्यलक्ष्मि नमस्तेऽस्तु सर्वालङ्कारशोभिते । सौन्दर्यलक्ष्मि वन्देऽहं  
 रूपं देहि श्रियं देहि सर्वकामांश्च देहि मे ॥ १४॥  
   
 साम्राज्यलक्ष्मि नमस्तेऽस्तु भुक्तिमुक्तिप्रदायिनि । साम्राज्यलक्ष्मि वन्देऽहं  
 मोक्षं देहि श्रियं देहि सर्वकामांश्च देहि मे ॥ १५॥  
   
-मंगले मंगलाधारे मांगल्ये मंगलप्रदे ।  
-मंगलार्थं मंगलेशि मांगल्यं देहि मे सदा ॥ १६॥  
+मङ्गले मङ्गलाधारे माङ्गल्ये मङ्गलप्रदे ।  
+मङ्गलार्थं मङ्गलेशि माङ्गल्यं देहि मे सदा ॥ १६॥  
   
-सर्वमंगलमांगल्ये शिवे सर्वार्थसाधिके ।  
+सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके ।  
 शरण्ये त्रयम्बके देवि नारायणि नमोऽस्तु ते ॥ १७॥  
   
 शुभं भवतु कल्याणी आयुरारोग्यसम्पदाम् ।  

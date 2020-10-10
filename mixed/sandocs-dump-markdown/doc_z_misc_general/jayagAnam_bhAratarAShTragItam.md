@@ -1,23 +1,24 @@
-+++
-"Text title" = "Jayaganam"
-"File name" = "jayagAnam.itx"
-itxtitle = "jayagAnam (bhAratarAShTragItam)"
-engtitle = "jayagAnam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयगानम् (भारतराष्ट्रगीतम्)"
+---
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: jayagAnam.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Jayaganam
+Translated by: Mandar Mali
+engtitle: jayagAnam
+itxtitle: jayagAnam (bhAratarAShTragItam)
+title: जयगानम् (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  जयगानम्   
 जय जय जय प्रियभारतजनयित्रि दिव्यधात्रि !  

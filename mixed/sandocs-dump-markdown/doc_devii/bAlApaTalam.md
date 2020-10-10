@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Patalam"
-"File name" = "bAlApaTalam.itx"
-itxtitle = "bAlApaTalam"
-engtitle = "bAlApaTalam"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालापटलम्"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlApaTalam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Patalam
+engtitle: bAlApaTalam
+itxtitle: bAlApaTalam
+title: बालापटलम्
 
-+++
+---
   
  श्रीबालापटलम्   
 कैलासशिखरासीनं भगवन्तमुमापतिम् ।  
@@ -53,7 +53,7 @@ title = "बालापटलम्"
 नाभक्ताय प्रदातव्या विद्येयं परमेश्वरि ॥ १०॥  
   
 मन्त्रोद्धारं तथा यन्त्रं प्रस्तारं ध्यानमेव च ।  
-प्रयोगान् संप्रवक्ष्यामि देवदेव्या महेश्वरि ॥ ११॥  
+प्रयोगान् सम्प्रवक्ष्यामि देवदेव्या महेश्वरि ॥ ११॥  
   
 प्रथमं शृणु देवेशि मन्त्रोद्धारं फलप्रदम् ।  
 गोपनीयं प्रयत्नेन येन सिद्धिः प्रजायते ॥ १२॥  

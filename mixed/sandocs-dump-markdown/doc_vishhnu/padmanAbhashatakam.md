@@ -1,22 +1,22 @@
-+++
-"Text title" = "padmanAbhashatakam"
-"File name" = "padmanAbhashatakam.itx"
-itxtitle = "padmanAbhashatakam"
-engtitle = "padmanAbhashatakam"
-Category = "shataka, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "mahArAjA svAti tirunAL"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. P. Narayanaswami swami at mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at mun.ca, PSA Easwaran"
-"Latest update" = "May 16, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पद्मनाभशतकम्"
+---
+Author: mahArAjA svAti tirunAL
+Category: shataka, vishhnu, vishnu
+File name: padmanAbhashatakam.itx
+Language: Sanskrit
+Latest update: May 16, 2015
+Location: doc_vishhnu
+Proofread by: P. P. Narayanaswami swami at mun.ca, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: padmanAbhashatakam
+Transliterated by: P. P. Narayanaswami swami at mun.ca
+engtitle: padmanAbhashatakam
+itxtitle: padmanAbhashatakam
+title: पद्मनाभशतकम्
 
-+++
+---
   
  श्रीपद्मनाभशतकम्   
 महाराजा स्वाति तिरुनाळ् विरचितम्  
@@ -33,7 +33,7 @@ title = "पद्मनाभशतकम्"
 तस्माच्छिन्धि मदीयमोहमखिलं संसारबन्धावहं  
 भक्तिं त्वत्पदयोर्दिश स्थिरतरां सर्वापदुन्मीलिनीम् ।  
 वाणीं त्वत्पदवर्णने पटुतमां विद्वज्जनाह्लादिनीं  
-देहि त्वत्पदसेवकाय ननु मे कारुण्यवारांनिधे ॥ ३॥  
+देहि त्वत्पदसेवकाय ननु मे कारुण्यवारान्निधे ॥ ३॥  
 येनेदं भुवनं ततं स्वबलतो यस्याज्ञयोदेत्यहर्-  
 नाथो वात्यनिलो दहत्यपि शिखिः सर्वेऽपि यन्निर्मिताः ।  
 यश्चेदं सकलं जगत्स्वजठरे धत्ते च कल्पावधौ  
@@ -342,7 +342,7 @@ title = "पद्मनाभशतकम्"
 हीनपुण्यनिकरैरनवाप्यम् ।  
 तुष्टुवुः सविबुधो द्रुहिणस्त्वां  
 तापमाश्वकथयद्वसुधायाः ॥ ३॥  
-``संभवामि तरसा यदुवंशे  
+``सम्भवामि तरसा यदुवंशे  
 यादवाः किल भवन्त्विह देवाः'' ।  
 एवमीश! कथिते तव वाक्ये  
 वेधसा किल सुरा मुदमापन् ॥ ४॥  

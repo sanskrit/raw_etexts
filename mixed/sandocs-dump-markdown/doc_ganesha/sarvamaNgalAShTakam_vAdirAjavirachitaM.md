@@ -1,23 +1,23 @@
-+++
-"Text title" = "Sarva Mangala Ashtakam"
-"File name" = "sarvamangala8.itx"
-itxtitle = "sarvamaNgalAShTakam (vAdirAjavirachitaM)"
-engtitle = "sarvamaNgalAShTakam"
-Category = "aShTaka, ganesha, mangala, vAdirAja"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Vadiraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)"
-"Proofread by" = "Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)"
-Indexextra = "(Translation)"
-"Latest update" = "January 2, 2004, June 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सर्वमण्गलाष्टकम् (वादिराजविरचितं)"
+---
+Author: Vadiraja
+Category: aShTaka, ganesha, mangala, vAdirAja
+File name: sarvamangala8.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: January 2, 2004, June 18, 2018
+Location: doc_ganesha
+Proofread by: Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Sarva Mangala Ashtakam
+Transliterated by: Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)
+engtitle: sarvamaNgalAShTakam
+itxtitle: sarvamaNgalAShTakam (vAdirAjavirachitaM)
+title: सर्वमण्गलाष्टकम् (वादिराजविरचितं)
 
-+++
+---
   
  सर्वमङ्गलाष्टकम्   
            श्रीगणेशाय नमः ।  

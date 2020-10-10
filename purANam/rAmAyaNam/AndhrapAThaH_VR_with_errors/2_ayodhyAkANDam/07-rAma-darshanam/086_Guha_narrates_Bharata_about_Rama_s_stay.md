@@ -3,7 +3,6 @@ title: 086 Guha narrates Bharata about Rama s stay
 title_english: 086 Guha narrates Bharata about Rama s stay
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-086-Guhena_Rama_Vruththantha_Kathanam.mp3"></div>
 
 आचचक्षे अथ सद्भावम् लक्ष्मणस्य महात्मनः ।  
@@ -20,7 +19,7 @@ title_english: 086 Guha narrates Bharata about Rama s stay
 धर्म अवाप्तिम् च विपुलाम् अर्थ अवाप्तिम् च केवलाम् ॥ २-८६-६  
 सो अहम् प्रिय सखम् रामम् शयानम् सह सीतया ।  
 रक्षिष्यामि धनुष् पाणिः सर्वैः स्वैर् ज्नातिभिः सह ॥ २-८६-७  
-न हि मे अविदितम् किंचिद् वने अस्मिमः चरतः सदा ।  
+न हि मे अविदितम् किञ्चिद् वने अस्मिमः चरतः सदा ।  
 चतुर् अन्गम् ह्य् अपि बलम् प्रसहेम वयम् युधि ॥ २-८६-८  
 एवम् अस्माभिर् उक्तेन लक्ष्मणेन महात्मना ।  
 अनुनीता वयम् सर्वे धर्मम् एव अनुपश्यता ॥ २-८६-९  

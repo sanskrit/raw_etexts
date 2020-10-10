@@ -1,24 +1,24 @@
-+++
-"Text title" = "bAlAShTottarashatanAmastotram 5"
-"File name" = "bAlAShTottarashatanAmastotram5.itx"
-itxtitle = "bAlAShTottarashatanAmastotram 5 (ambA mAtA)"
-engtitle = "bAlAShTottarashatanAmastotram 5"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmastotram"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Balasaparya"
-Indexextra = "(Scan)"
-"Latest update" = "August 23, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाष्टोत्तरशतनामस्तोत्रम् ५ (अम्बा माता)"
+---
+Category: aShTottarashatanAma, devii, dashamahAvidyA, devI
+Description-comments: Balasaparya
+File name: bAlAShTottarashatanAmastotram5.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 23, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAShTottarashatanAmastotram 5
+Texttype: nAmastotram
+engtitle: bAlAShTottarashatanAmastotram 5
+itxtitle: bAlAShTottarashatanAmastotram 5 (ambA mAtA)
+title: बालाष्टोत्तरशतनामस्तोत्रम् ५ (अम्बा माता)
 
-+++
+---
   
  श्रीबालाष्टोत्तरशतनामस्तोत्रम् ५   
 अम्बा माता महालक्ष्मीः सुन्दरी भुवनेश्वरी ।  

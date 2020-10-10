@@ -1,21 +1,21 @@
-+++
-"Text title" = "dhanadA kavacham"
-"File name" = "dhanadaakavach.itx"
-itxtitle = "dhanadAkavacham"
-engtitle = "dhanadA kavacham"
-Category = "kavacha, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sridhar - Seshagiri"
-"Latest update" = "December 29, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धनदाकवचम्"
+---
+Author: Traditional
+Category: kavacha, devii, devI
+File name: dhanadaakavach.itx
+Language: Sanskrit
+Latest update: December 29, 2001
+Location: doc_devii
+Proofread by: Sridhar - Seshagiri
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dhanadA kavacham
+engtitle: dhanadA kavacham
+itxtitle: dhanadAkavacham
+title: धनदाकवचम्
 
-+++
+---
   
  धनदाकवचम्   
   
@@ -24,18 +24,18 @@ title = "धनदाकवचम्"
 इदानीं श्रोतुमिच्छामि कवचं पूर्वसूचितम् ॥  
   
 शिव उवाच  
-शृणु देवि प्रवक्ष्यामि कवचं मंत्रवग्रहम् ।  
+शृणु देवि प्रवक्ष्यामि कवचं मन्त्रवग्रहम् ।  
 सारात्सारतरं देवि कवचं मन्मुखोदितम् ॥  
   
 धनदा कवचस्यास्य कुबेर ऋषिरीरितः ।  
-पंक्तिश्छन्दो देवता च धनदा सिद्धिदा सदा ॥  
+पङ्क्तिश्छन्दो देवता च धनदा सिद्धिदा सदा ॥  
   
 धर्मार्थकाममोक्षेषु विनियोगः प्रकीर्तितः ।  
 धं बीजं मे शिरः पातु ह्रीं बीजं मे ललाटकम् ॥  
   
 श्री बीजं मे मुख पातु रकारं हृदि मेऽवतु ।  
 तिकारं पातु जठरं प्रिकारं पृष्ठतोऽवतु ।  
-येकारं जंघयोर्युग्मे स्वाकारं पादयोर्युगे ।  
+येकारं जङ्घयोर्युग्मे स्वाकारं पादयोर्युगे ।  
 शीर्षादिपादपर्यन्तं हाकारं सर्वतोऽवतु ॥  
   
 इत्येतत्कथितं कान्ते कवचं सर्वसिद्धिदम् ।  
@@ -47,12 +47,12 @@ title = "धनदाकवचम्"
 गुरुपूजात्परो भूत्वा कवचं प्रपठेत्ततः ।  
 सर्वसिद्धियुतो भूत्वा विचरेद् भैरवो यथा ॥  
   
-प्रातःकाले पठेद्यस्तु मंत्रजापपुरः सरम् ।  
+प्रातःकाले पठेद्यस्तु मन्त्रजापपुरः सरम् ।  
 सोऽभीष्टफलमाप्नोति सत्यं सत्यं न संशयः ॥  
   
 पूजाकाले पठेद्यस्तु देवीं ध्यात्वा हृदम्बुजे ।  
 षण्मासाभ्यन्तरे सिद्धिर्नात्र कार्या विचारणा ।  
-सायंकाले पठेद्यस्तु स शिवो नात्र संशयः ।  
+सायङ्काले पठेद्यस्तु स शिवो नात्र संशयः ।  
 भूर्जे विलिख्त गुटिकां स्वर्णस्थां धारयेद्यदि ॥  
   
 पुरुषो दक्षिणे बाहौ योषिद्वामभुजे तथा ।  

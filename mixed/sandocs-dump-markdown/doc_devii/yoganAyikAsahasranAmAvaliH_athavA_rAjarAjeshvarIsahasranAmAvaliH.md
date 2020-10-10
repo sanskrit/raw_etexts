@@ -1,25 +1,25 @@
-+++
-"Text title" = "yoganAyikA or rAjarAjeshvarIsahasranAmAvaliH 1000 Names"
-"File name" = "yoganAyikAsahasranAmAvaliH.itx"
-itxtitle = "yoganAyikAsahasranAmAvaliH athavA rAjarAjeshvarIsahasranAmAvaliH"
-engtitle = "yoganAyikAsahasranAmAvaliH"
-Category = "devii, sahasranAmAvalI, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "rAkArAdirakArAntAdyAkSharaghaTitam"
-Source = "mahAkAlasaMhitA, Atmanatha Stuti Manjari, Ed. S. V. Radhakrishna Sastri"
-Indexextra = "(Scan)"
-"Latest update" = "May 30, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "योगनायिकासहस्रनामावलिः अथवा राजराजेश्वरीसहस्रनामावलिः"
+---
+Category: devii, sahasranAmAvalI, devI, dashamahAvidyA
+Description-comments: rAkArAdirakArAntAdyAkSharaghaTitam
+File name: yoganAyikAsahasranAmAvaliH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 30, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Source: mahAkAlasaMhitA, Atmanatha Stuti Manjari, Ed. S. V. Radhakrishna Sastri
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yoganAyikA or rAjarAjeshvarIsahasranAmAvaliH 1000 Names
+Texttype: stotra
+engtitle: yoganAyikAsahasranAmAvaliH
+itxtitle: yoganAyikAsahasranAmAvaliH athavA rAjarAjeshvarIsahasranAmAvaliH
+title: योगनायिकासहस्रनामावलिः अथवा राजराजेश्वरीसहस्रनामावलिः
 
-+++
+---
   
  श्रीयोगनायिका अथवा राजराजेश्वरी सहस्रनामावलिः   
   
@@ -109,7 +109,7 @@ title = "योगनायिकासहस्रनामावलिः अ�
 वल्कलान्तर्हितरम्यस्तनद्वय्यै । वशिन्यै ।  
 वल्लक्यै । वर्णायै । वर्षाकालप्रपूजितायै । वल्ल्यै ।  
 वसुदलप्रान्तवृत्तकट्याश्रितादरायै । वर्गायै । वरवृषारूढायै ।  
-वषण्मन्त्रसुसंज्ञकायै । वलयाकारवैडूर्यवरकङ्कणभूषणायै ।  
+वषण्मन्त्रसुसञ्ज्ञकायै । वलयाकारवैडूर्यवरकङ्कणभूषणायै ।  
 वज्राञ्चितशिरोभूषायै । वज्रमाङ्गल्यभूषितायै । वाग्वादिन्यै ।  
 वामकेश्यै । वाचस्पतिवरप्रदायै नमः । २००  
   
@@ -231,7 +231,7 @@ title = "योगनायिकासहस्रनामावलिः अ�
 शोभनायै । शोचिष्केशतेजःप्रदायिन्यै । शौरिपूज्यायै ।  
 शौर्यवीर्यायै । शौक्तिकेयसुमालिकायै । श्रियै । श्रीधनसम्पन्नायै ।  
 श्रीकण्ठस्वकुटुम्बिन्यै । श्रीमात्रे । श्रीफल्यै । श्रीलायै ।  
-श्रीवृक्षायै । श्रीपतीडितायै । श्रीसंज्ञायुतताम्बूलायै ।  
+श्रीवृक्षायै । श्रीपतीडितायै । श्रीसञ्ज्ञायुतताम्बूलायै ।  
 श्रीमत्यै । श्रीधराश्रयायै । श्रीबेरबद्धमालाढ्यायै नमः । ५००  
   
 ॐ श्रीश्रीफलायै नमः । श्रीशिवाङ्गनायै । श्रुत्यै ।  

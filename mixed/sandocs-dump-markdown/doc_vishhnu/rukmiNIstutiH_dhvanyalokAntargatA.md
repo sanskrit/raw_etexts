@@ -1,23 +1,23 @@
-+++
-"Text title" = "rukmiNIstutiH"
-"File name" = "rukmiNIstutiH.itx"
-itxtitle = "rukmiNIstutiH (dhvanyalokAntargatA)"
-engtitle = "rukmiNIstutiH"
-Category = "vishhnu, devii, devI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुक्मिणीस्तुतिः (ध्वन्यलोकान्तर्गता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, devii, devI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: rukmiNIstutiH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: rukmiNIstutiH
+engtitle: rukmiNIstutiH
+itxtitle: rukmiNIstutiH (dhvanyalokAntargatA)
+title: रुक्मिणीस्तुतिः (ध्वन्यलोकान्तर्गता)
 
-+++
+---
   
  रुक्मिणीस्तुतिः   
   

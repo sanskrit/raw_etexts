@@ -1,22 +1,22 @@
-+++
-"Text title" = "dIpanamaskAraH"
-"File name" = "dIpanamaskAraH.itx"
-itxtitle = "dIpanamaskAraH"
-engtitle = "dIpanamaskAraH"
-Category = "misc, stotra"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Shri Chitrapura Stuti Manjari,3rd ed. 2008"
-Acknowledge-Permission = "Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/"
-"Latest update" = "March 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दीपनमस्कारः"
+---
+Acknowledge-Permission: Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/
+Category: misc, stotra
+File name: dIpanamaskAraH.itx
+Language: Sanskrit
+Latest update: March 2, 2018
+Location: doc_z_misc_general
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri Chitrapura Stuti Manjari,3rd ed. 2008
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: dIpanamaskAraH
+engtitle: dIpanamaskAraH
+itxtitle: dIpanamaskAraH
+title: दीपनमस्कारः
 
-+++
+---
   
  दीपनमस्कारः   
 ॐ नमो ज्ञानदीपाय शिवाय ब्रह्मतेजसे ।  

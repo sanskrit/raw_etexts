@@ -1,22 +1,22 @@
-+++
-"Text title" = "subrahmaNyasahasranAmAvalI"
-"File name" = "subrahmaNyasahasranAmAvalI.itx"
-itxtitle = "subrahmaNyasahasranAmAvaliH (siddhanAgArjunatantrArgatA)"
-engtitle = "subrahmaNyasahasranAmAvalI"
-Category = "sahasranAmAvalI, subrahmanya, nAmAvalI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "April 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यसहस्रनामावलिः (सिद्धनागार्जुनतन्त्रार्गता)"
+---
+Category: sahasranAmAvalI, subrahmanya, nAmAvalI
+File name: subrahmaNyasahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: April 22, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyasahasranAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: subrahmaNyasahasranAmAvalI
+itxtitle: subrahmaNyasahasranAmAvaliH (siddhanAgArjunatantrArgatA)
+title: सुब्रह्मण्यसहस्रनामावलिः (सिद्धनागार्जुनतन्त्रार्गता)
 
-+++
+---
   
  श्रीसुब्रह्मण्यसहस्रनामालिः सिद्धनागार्जुनतन्त्रान्तर्गता   
   
@@ -176,7 +176,7 @@ variation split
 ॐ अक्षयशुभप्रदाय नमः ।  
 ॐ अक्षरादिककूटस्थोत्तमपुरुषोत्तमाय नमः ।  
 ॐ आखुवाहनमूर्तये नमः ।  
-ॐ आगमाद्यन्तसंनुताय नमः । १३०  
+ॐ आगमाद्यन्तसन्नुताय नमः । १३०  
 ॐ आगमातीतसद्भावाय नमः ।  
 ॐ आचार्यपरमाय नमः ।  
 ॐ आत्मानुभवसन्तुष्टाय नमः ।  
@@ -309,7 +309,7 @@ variation split
 ॐ कामाक्षीतनुजाय नमः । २६०  
 ॐ कामकोटिपूजिताय नमः ।  
 ॐ कामादिशत्रुघातकाय नमः ।  
-ॐ काम्यकर्मसुसंन्यस्ताय नमः ।  
+ॐ काम्यकर्मसुसन्न्यस्ताय नमः ।  
 ॐ कामेश्वरमनःप्रियाय नमः ।  
 ॐ कामेश्वरतपःसिद्धाय नमः ।  
 ॐ कामेश्वरफलप्रदाय नमः ।  
@@ -497,7 +497,7 @@ variation split
 ॐ ज्योतिषाम्परमज्योतिषे नमः ।  
 ॐ ज्योतिर्हीनद्युतिप्रदाय नमः ।  
 ॐ तपःसन्दीप्ततेजस्विने नमः । ४५०  
-ॐ तप्तकाञ्चनसंनिभाय नमः ।  
+ॐ तप्तकाञ्चनसन्निभाय नमः ।  
 ॐ तत्त्वज्ञानानन्ददर्शिने नमः ।  
 ॐ तत्त्वमस्यादिलक्षिताय नमः ।  
 ॐ तत्त्वरूपाय नमः ।  
@@ -583,7 +583,7 @@ variation split
 ॐ धात्रच्युतपूजिताय नमः ।  
 ॐ धनदेन पूजिताय नमः ।  
 ॐ धान्यवर्धनाय नमः ।  
-ॐ धरणीधरसंनिभाय नमः ।  
+ॐ धरणीधरसन्निभाय नमः ।  
 ॐ धर्मज्ञाय नमः ।  
 ॐ धर्मसेतवे नमः ।  
 ॐ धर्मरूपिणे नमः । ५४०  
@@ -1028,7 +1028,7 @@ variation split
 ॐ यन्त्रारूढं जगत्सर्वं मायया भ्रामयत्प्रभवे नमः ।  
 ॐ यमकिङ्कराणां भयदाय नमः । ९८०  
 ॐ याकिनीसेविताय नमः ।  
-ॐ यक्षरक्षःपिशाचानां सांनिध्यादेव नाशकाय नमः ।  
+ॐ यक्षरक्षःपिशाचानां सान्निध्यादेव नाशकाय नमः ।  
 ॐ युगान्तरकल्पिताय नमः ।  
 ॐ योगशक्तिरूपिणे नमः ।  
 ॐ योगमायासमावृताय नमः ।  

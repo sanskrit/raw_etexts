@@ -1,24 +1,25 @@
-+++
-"Text title" = "dAnanirvartanakuNDAShTakam"
-"File name" = "dAnanirvartanakuNDAShTakam.itx"
-itxtitle = "dAnanirvartanakuNDAShTakam (raghunAthadAsagosvAmivirachitam)"
-engtitle = "dAnanirvartanakuNDAShTakam"
-Category = "misc, gurudev, raghunAthadAsagosvAmin, stavAvalI, aShTaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दाननिर्वर्तनकुण्डाष्टकम् (रघुनाथदासगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: misc, gurudev, raghunAthadAsagosvAmin, stavAvalI, aShTaka
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: dAnanirvartanakuNDAShTakam.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_z_misc_general
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: dAnanirvartanakuNDAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: dAnanirvartanakuNDAShTakam
+itxtitle: dAnanirvartanakuNDAShTakam (raghunAthadAsagosvAmivirachitam)
+title: दाननिर्वर्तनकुण्डाष्टकम् (रघुनाथदासगोस्वामिविरचितम्)
 
-+++
+---
   
  श्रीदाननिर्वर्तनकुण्डाष्टकम्   
 स्वदयितगिरिकच्छे गव्यदानार्थमुच्चैः  
@@ -47,7 +48,7 @@ title = "दाननिर्वर्तनकुण्डाष्टकम�
      न्सरसि भवतु वासो दाननिर्वर्तने नः ॥ ५॥  
   
 निजनिजनवकुञ्जे गुञ्जिरोलम्बपुञ्जे  
-     प्रणयिनवसखीभिः संप्रवेश्य प्रियौ तौ ।  
+     प्रणयिनवसखीभिः सम्प्रवेश्य प्रियौ तौ ।  
 निरुपमनवरङ्गस्तन्यते यत्र तस्मि-  
      न्सरसि भवतु वासो दाननिर्वर्तने नः ॥ ६॥  
   

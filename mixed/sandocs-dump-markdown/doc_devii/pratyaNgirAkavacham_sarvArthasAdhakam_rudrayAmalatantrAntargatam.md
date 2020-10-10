@@ -1,22 +1,22 @@
-+++
-"Text title" = "pratyangirAkavacham"
-"File name" = "pratyangirAkavacham.itx"
-itxtitle = "pratyaNgirAkavacham sarvArthasAdhakam (rudrayAmalatantrAntargatam)"
-engtitle = "pratyangirAkavacham sarvArthasAdhakam"
-Category = "devii, kavacha, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishna Vallapareddy krishna321 at hotmail.com"
-"Proofread by" = "Krishna Vallapareddy, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "rudrayAmala tantre panchANgakhaNDe"
-"Latest update" = "March 30, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रत्यण्गिराकवचम् सर्वार्थसाधकम् (रुद्रयामलतन्त्रान्तर्गतम्)"
+---
+Category: devii, kavacha, dashamahAvidyA, devI
+Description/comments: rudrayAmala tantre panchANgakhaNDe
+File name: pratyangirAkavacham.itx
+Language: Sanskrit
+Latest update: March 30, 2018
+Location: doc_devii
+Proofread by: Krishna Vallapareddy, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: pratyangirAkavacham
+Transliterated by: Krishna Vallapareddy krishna321 at hotmail.com
+engtitle: pratyangirAkavacham sarvArthasAdhakam
+itxtitle: pratyaNgirAkavacham sarvArthasAdhakam (rudrayAmalatantrAntargatam)
+title: प्रत्यण्गिराकवचम् सर्वार्थसाधकम् (रुद्रयामलतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्री प्रत्यङ्गिरा सर्वार्थसाधककवचं   
   

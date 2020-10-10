@@ -1,24 +1,24 @@
-+++
-"Text title" = "veNkateshastotra"
-"File name" = "venkaTeshastotra.itx"
-itxtitle = "veNkaTeshvarastotram"
-engtitle = "Shri Venkateshvara Stotram"
-Category = "vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Author = "vaTTepalle narakaNThIrava shAstri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Latest update" = "August 6, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेश्वरस्तोत्रम्"
+---
+Author: vaTTepalle narakaNThIrava shAstri
+Category: vishhnu, venkateshwara, stotra, vishnu
+File name: venkaTeshastotra.itx
+Language: Sanskrit
+Latest update: August 6, 2012
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veNkateshastotra
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Shri Venkateshvara Stotram
+itxtitle: veNkaTeshvarastotram
+title: वेण्कटेश्वरस्तोत्रम्
 
-+++
+---
   
  श्रीवेङ्कटेश्वरस्तोत्रम्   
   
@@ -30,7 +30,7 @@ title = "वेण्कटेश्वरस्तोत्रम्"
 नमस्कर्मीकुर्मोस् नटजन मनोभीष्ट घटना  
 पटियांसं शेषक्षितिधरशिरोभूषण मणिम् ।  
 त्रिलोकीनिर्माणस्थितिहरणलीलासुरषिकम्  
-श्रियःकान्तंदेवं सुगुणनिधिं अस्मत्कुलगुरुम् ॥ २॥  
+श्रियःकान्तन्देवं सुगुणनिधिं अस्मत्कुलगुरुम् ॥ २॥  
   
 श्रीमद् वेङ्कटशैलशेखरतटे सञ्चारमातन्वती  
 निष्कम्पां तटितं सदैव दधति भूयो अमृतं  वर्षति ।  

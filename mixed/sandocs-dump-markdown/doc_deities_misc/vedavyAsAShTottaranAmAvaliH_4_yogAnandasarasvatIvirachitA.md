@@ -1,22 +1,22 @@
-+++
-"Text title" = "Vedavyasa Ashtottaranamavali 4 by Yoganandasarasvati"
-"File name" = "vedavyAsAShTottaranAmAvalI4.itx"
-itxtitle = "vedavyAsAShTottaranAmAvaliH 4 (yogAnandasarasvatIvirachitA)"
-engtitle = "vedavyAsAShTottaranAmAvalI 4"
-Category = "aShTottarashatanAmAvalI, deities_misc, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "September 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदव्यासाष्टोत्तरनामावलिः ४ (योगानन्दसरस्वतीविरचिता)"
+---
+Category: aShTottarashatanAmAvalI, deities_misc, nAmAvalI
+File name: vedavyAsAShTottaranAmAvalI4.itx
+Language: Sanskrit
+Latest update: September 18, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nAmAvalI
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Vedavyasa Ashtottaranamavali 4 by Yoganandasarasvati
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: vedavyAsAShTottaranAmAvalI 4
+itxtitle: vedavyAsAShTottaranAmAvaliH 4 (yogAnandasarasvatIvirachitA)
+title: वेदव्यासाष्टोत्तरनामावलिः ४ (योगानन्दसरस्वतीविरचिता)
 
-+++
+---
   
  श्रीवेदव्यासाष्टोत्तरनामावलिः ४   
 ॐ वेदव्यासाय नमः ।  
@@ -29,7 +29,7 @@ title = "वेदव्यासाष्टोत्तरनामावल�
 ॐ सत्यवतीसुताय नमः ।  
 ॐ कृष्णद्वैपायनाय नमः ।  
 ॐ दान्ताय नमः । १०  
-ॐ बादरायणसंज्ञिताय नमः ।  
+ॐ बादरायणसञ्ज्ञिताय नमः ।  
 ॐ ब्रह्मसूत्रग्रथितवते नमः ।  
 ॐ भगवते नमः ।  
 ॐ ज्ञानभास्कराय नमः ।  

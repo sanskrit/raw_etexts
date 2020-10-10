@@ -1,21 +1,21 @@
-+++
-"Text title" = "guhapancharatnam"
-"File name" = "guhapancharatnam.itx"
-itxtitle = "guhapancharatnam"
-engtitle = "guhapancharatnam"
-Category = "pancharatna, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "January 3, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुहपञ्चरत्नम्"
+---
+Category: pancharatna, subrahmanya
+File name: guhapancharatnam.itx
+Language: Sanskrit
+Latest update: January 3, 2009
+Location: doc_subrahmanya
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: guhapancharatnam
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: guhapancharatnam
+itxtitle: guhapancharatnam
+title: गुहपञ्चरत्नम्
 
-+++
+---
   
  गुहपञ्चरत्नम्   
   

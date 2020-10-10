@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAntistotram"
-"File name" = "shAntistotram.itx"
-itxtitle = "shAntistotram (rudrayAmalAntargatam)"
-engtitle = "ShAnti Stotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com"
-Source = "Mantra Maharnava 1924 part -4 baTukabhairava section"
-Indexextra = "(Scan)"
-"Latest update" = "October 9, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शान्तिस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: shiva
+File name: shAntistotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: October 9, 2016
+Location: doc_shiva
+Proofread by: Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Mantra Maharnava 1924 part -4 baTukabhairava section
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shAntistotram
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: ShAnti Stotram
+itxtitle: shAntistotram (rudrayAmalAntargatam)
+title: शान्तिस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  शान्ति स्तोत्रम्   
 नश्यन्तु प्रेतकूष्माण्डा नश्यन्तु दूषका नराः ।  

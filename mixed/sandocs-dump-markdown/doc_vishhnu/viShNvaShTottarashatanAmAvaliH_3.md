@@ -1,20 +1,20 @@
-+++
-"Text title" = "Vishnu Ashtottarashatanamavali 3"
-"File name" = "viShNvaShTottarashatanAmAvaliH3.itx"
-itxtitle = "viShNvaShTottarashatanAmAvaliH 3"
-engtitle = "viShNvaShTottarashatanAmAvaliH 3"
-Category = "vishhnu, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easearan psaeaswaran at gmail.com"
-"Latest update" = "Julu 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्ण्वष्टोत्तरशतनामावलिः ३"
+---
+Category: vishhnu, aShTottarashatanAmAvalI, nAmAvalI
+File name: viShNvaShTottarashatanAmAvaliH3.itx
+Language: Sanskrit
+Latest update: Julu 11, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easearan psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Vishnu Ashtottarashatanamavali 3
+engtitle: viShNvaShTottarashatanAmAvaliH 3
+itxtitle: viShNvaShTottarashatanAmAvaliH 3
+title: विष्ण्वष्टोत्तरशतनामावलिः ३
 
-+++
+---
   
  श्रीविष्ण्वष्टोत्तरशतनामावलिः ३   
 ॐ कृष्णाय नमः ।  

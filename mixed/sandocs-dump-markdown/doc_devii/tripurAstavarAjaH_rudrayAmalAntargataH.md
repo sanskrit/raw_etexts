@@ -1,24 +1,24 @@
-+++
-"Text title" = "tripurAstavarAjaH"
-"File name" = "tripurAstavarAjaH.itx"
-itxtitle = "tripurAstavarAjaH (rudrayAmalAntargataH)"
-engtitle = "tripurAstavarAjaH"
-Category = "stavarAja, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Rudrayamala"
-Indexextra = "(stotramanjari 1)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरास्तवराजः (रुद्रयामलान्तर्गतः)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: stavarAja, devii, devI
+Description/comments: Rudrayamala
+File name: tripurAstavarAjaH.itx
+Indexextra: (stotramanjari 1)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tripurAstavarAjaH
+Transliterated by: Shree Devi Kumar
+engtitle: tripurAstavarAjaH
+itxtitle: tripurAstavarAjaH (rudrayAmalAntargataH)
+title: त्रिपुरास्तवराजः (रुद्रयामलान्तर्गतः)
 
-+++
+---
   
  श्रीत्रिपुरास्तवराजः   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrii shaaradaa giitam"
-"File name" = "shAradAgItam.itx"
-itxtitle = "shAradAgItam"
-engtitle = "shAradA gItam"
-Category = "gItam, devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda harshanand_16 at rediffmail.com"
-"Latest update" = "April 17, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदागीतम्"
+---
+Author: Traditional
+Category: gItam, devii, sarasvatI, devI
+File name: shAradAgItam.itx
+Language: Sanskrit
+Latest update: April 17, 2002
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrii shaaradaa giitam
+Transliterated by: R. Harshananda harshanand_16 at rediffmail.com
+engtitle: shAradA gItam
+itxtitle: shAradAgItam
+title: शारदागीतम्
 
-+++
+---
   
  श्रीशारदा गीतम्   
   

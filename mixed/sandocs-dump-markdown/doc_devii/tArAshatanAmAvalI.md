@@ -1,26 +1,26 @@
-+++
-"Text title" = "tArAshatanAmAvalI"
-"File name" = "tArAshatanAmAvalI.itx"
-itxtitle = "tArAshatanAmAvalI"
-engtitle = "tArAshatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anand senartcon at gmail.com"
-"Proofread by" = "Anand senartcon at gmail.com"
-Description-comments = "Editor Ramadatta Shukla, Ritashila Sharma"
-Source = "dashamahAvidyA aShTottarashatanAmAvalI"
-Acknowledge-Permission = "Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga"
-"Latest update" = "September 13, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ताराशतनामावली"
+---
+Acknowledge-Permission: Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI
+Description-comments: Editor Ramadatta Shukla, Ritashila Sharma
+File name: tArAshatanAmAvalI.itx
+Language: Sanskrit
+Latest update: September 13, 2015
+Location: doc_devii
+Proofread by: Anand senartcon at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: dashamahAvidyA aShTottarashatanAmAvalI
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tArAshatanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Anand senartcon at gmail.com
+engtitle: tArAshatanAmAvalI
+itxtitle: tArAshatanAmAvalI
+title: ताराशतनामावली
 
-+++
+---
   
  श्रीताराशतनामावली   
 श्रीतारिण्यै नमः ।  

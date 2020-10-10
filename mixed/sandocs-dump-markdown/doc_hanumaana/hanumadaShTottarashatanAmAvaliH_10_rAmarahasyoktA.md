@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Hanumad Ashtottarashata Namavali from Ramarahasya"
-"File name" = "hanumadaShTottarashatanAmAvaliH10.itx"
-itxtitle = "hanumadaShTottarashatanAmAvaliH 10 (rAmarahasyoktA)"
-engtitle = "hanumadaShTottarashatanAmAvaliH 10"
-Category = "hanumaana, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Proofread by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Description/comments" = "from Ramarahasya, in Rama Bhakti Kalpalata Part 1"
-Indexextra = "(Scan)"
-"Latest update" = "April 25, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमदष्टोत्तरशतनामावलिः १० (रामरहस्योक्ता)"
+---
+Category: hanumaana, aShTottarashatanAmAvalI, nAmAvalI
+Description/comments: from Ramarahasya, in Rama Bhakti Kalpalata Part 1
+File name: hanumadaShTottarashatanAmAvaliH10.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 25, 2019
+Location: doc_hanumaana
+Proofread by: Shree Devi Kumar shreeshrii at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: Shri Hanumad Ashtottarashata Namavali from Ramarahasya
+Transliterated by: Shree Devi Kumar shreeshrii at gmail.com
+engtitle: hanumadaShTottarashatanAmAvaliH 10
+itxtitle: hanumadaShTottarashatanAmAvaliH 10 (rAmarahasyoktA)
+title: हनुमदष्टोत्तरशतनामावलिः १० (रामरहस्योक्ता)
 
-+++
+---
   
  श्रीरामरहस्योक्ता हनुमदष्टोत्तरशतनामावलिः   
 । श्रीरामो जयति ।  

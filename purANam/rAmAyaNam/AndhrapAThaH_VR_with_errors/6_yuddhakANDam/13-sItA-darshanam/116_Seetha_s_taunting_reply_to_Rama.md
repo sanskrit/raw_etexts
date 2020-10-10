@@ -3,7 +3,6 @@ title: 116 Seetha s taunting reply to Rama
 title_english: 116 Seetha s taunting reply to Rama
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-116-Seetha_s_taunting_reply_to_Rama_0.mp3"></div>
 
 एवमुक्ता तु वैदेही परुषं लोमहर्षणम् ।  
@@ -68,7 +67,7 @@ title_english: 116 Seetha s taunting reply to Rama
 जनः स सुमहांस्तत्र बालवृद्धसमाकुलः ॥ ६-११६-३०  
 ददर्श मैथिलीं तत्र प्रविशन्तीं हुताशनम् ।  
 सा तप्तनवहेमाभा तप्तकाञ्चनभूषणा ॥ ६-११६-३१  
-पपात ज्वलनं दीप्तं सर्वलोकस्य संनिधौ ।  
+पपात ज्वलनं दीप्तं सर्वलोकस्य सन्निधौ ।  
 ददृशुस्तां विशालाक्षीं पतन्तीं हव्यवाहनम् ॥ ६-११६-३२  
 सीतां सर्वाणि रूपाणि रुक्मवेदिनिभां तदा ।  
 ददृशुस्तां महाभागां प्रविशन्तीं हुताशनम् ॥ ६-११६-३३  

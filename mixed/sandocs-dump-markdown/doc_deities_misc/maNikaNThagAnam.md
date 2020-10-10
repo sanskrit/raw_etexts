@@ -1,22 +1,22 @@
-+++
-"Text title" = "maNikaNThagAanam"
-"File name" = "manikanthagaanam.itx"
-itxtitle = "maNikaNThagAnam"
-engtitle = "maNikaNThagAnam"
-Category = "bhajana, deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 23, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मणिकण्ठगानम्"
+---
+Category: bhajana, deities_misc, stotra
+File name: manikanthagaanam.itx
+Language: Sanskrit
+Latest update: April 23, 2008
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: maNikaNThagAanam
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: maNikaNThagAnam
+itxtitle: maNikaNThagAnam
+title: मणिकण्ठगानम्
 
-+++
+---
   
  मणिकण्ठगानं   
   
@@ -41,7 +41,7 @@ title = "मणिकण्ठगानम्"
 परमकृपालो मणिकण्ठा ॥ ४  
   
 एहि एहि मणिकण्ठा  
-पंपातीरे मणिकण्ठा  
+पम्पातीरे मणिकण्ठा  
 मणिकण्ठा मणिकण्ठा  
 भक्तगणावृत मणिकण्ठा ॥ ५  
   

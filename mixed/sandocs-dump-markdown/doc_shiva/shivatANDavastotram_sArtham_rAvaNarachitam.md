@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivataaNDava stotra with meaning"
-"File name" = "shivTAND_meaning.itx"
-itxtitle = "shivatANDavastotram (sArtham rAvaNarachitam)"
-engtitle = "Shivatandavastotra with meaning"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Girish Beeharry, SArada kALiSeTTy"
-"Translated by" = "Dr. Sarasvati Mohan, Samskrit Academy, San Jose"
-Indexextra = "(Meanings 1 2, 3, 4, 5, 6, 7, Hindi)"
-"Latest update" = "February 16, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवताण्डवस्तोत्रम् (सार्थम् रावणरचितम्)"
+---
+Author: Vedic tradition
+Category: shiva
+File name: shivTAND_meaning.itx
+Indexextra: (Meanings 1 2, 3, 4, 5, 6, 7, Hindi)
+Language: Sanskrit
+Latest update: February 16, 2018
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: shiva
+Text title: shivataaNDava stotra with meaning
+Translated by: Dr. Sarasvati Mohan, Samskrit Academy, San Jose
+Transliterated by: Girish Beeharry, SArada kALiSeTTy
+engtitle: Shivatandavastotra with meaning
+itxtitle: shivatANDavastotram (sArtham rAvaNarachitam)
+title: शिवताण्डवस्तोत्रम् (सार्थम् रावणरचितम्)
 
-+++
+---
   
  सार्थशिवताण्डवस्तोत्रम्   
   
@@ -55,7 +55,7 @@ Tandava and may He shower prosperity on us all.
  on the surface of his forehead, and who has the crescent moon as a   
  jewel on his head.   
   
-धराधरेन्द्रनंदिनीविलासबन्धुबन्धुर  
+धराधरेन्द्रनन्दिनीविलासबन्धुबन्धुर  
  King of mountains-daughter-sportive-kith-beautiful-   
       स्फुरद्दिगन्तसन्ततिप्रमोदमानमानसे ।  
        glorious-horizon-all living beings-rejoicing-mind   
@@ -140,7 +140,7 @@ Tandava and may He shower prosperity on us all.
        new moon-midnight-darkness-tightly-tied-neck   
 निलिम्पनिर्झरीधरस्तनोतु कृत्तिसिन्धुरः  
  celestial-river-wearing-may he bless-skin-red   
-      कलानिधानबन्धुरः श्रियं जगद्धुरंधरः ॥ ८॥  
+      कलानिधानबन्धुरः श्रियं जगद्धुरन्धरः ॥ ८॥  
   
        moon-lovely-prosperity-universe-bearer of the burden   
   
@@ -155,7 +155,7 @@ Tandava and may He shower prosperity on us all.
       hanging-inside-temple-luster-tied-neck   
 स्मरच्छिदं पुरच्छिदं भवच्छिदं मखच्छिदं  
  Manmatha-killer-city-destroyer-mundane life -destroyer-sacrifice destroyer   
-      गजच्छिदांधकच्छिदं तमन्तकच्छिदं भजे ॥ ९॥  
+      गजच्छिदान्धकच्छिदं तमन्तकच्छिदं भजे ॥ ९॥  
   
        elephant-killer-demon-killer-him-destroyer of Lord Yama-I worship   
   
@@ -221,7 +221,7 @@ Tandava and may He shower prosperity on us all.
       released-bad mind-always-on the head-folded hands-   
 विमुक्तलोललोचनो ललामभाललग्नकः  
  agitation-shaking-eyes-the best-forehead-interested   
-     शिवेति मंत्रमुच्चरन् कदा सुखी भवाम्यहम् ॥ १३॥  
+     शिवेति मन्त्रमुच्चरन् कदा सुखी भवाम्यहम् ॥ १३॥  
   
       ᳚Shiva᳚ -mantra-uttering-when-happy-will-be-I   
   
@@ -232,11 +232,11 @@ Tandava and may He shower prosperity on us all.
   
 इदम् हि नित्यमेवमुक्तमुत्तमोत्तमं स्तवं  
  This-indeed-daily-thus-said-the best of the best-stotra   
-     पठन्स्मरन्ब्रुवन्नरो विशुद्धिमेतिसंततम् ।  
+     पठन्स्मरन्ब्रुवन्नरो विशुद्धिमेतिसन्ततम् ।  
       reading-remembering-saying-a person-sanctity-gets-always   
 हरे गुरौ सुभक्तिमाशु याति नान्यथा गतिं  
  in Shiva-in Guru-deep devotion-quickly-gets-no-other-way   
-     विमोहनं हि देहिनां सुशङ्करस्य चिंतनम् ॥ १४॥  
+     विमोहनं हि देहिनां सुशङ्करस्य चिन्तनम् ॥ १४॥  
   
       removal of delusion-indeed-for the people-blessed Shiva's thought   
   
@@ -284,7 +284,7 @@ there are two as follows that devotee can add during prayers.
 निलिम्पनाथनागरीकदम्बमौलमल्लिका-  
      निगुम्फनिर्भरक्षरन्मधूष्णिकामनोहरः ।  
 तनोतु नो मनोमुदं विनोदिनीमहर्निशं  
-     परश्रियः परं पदंतदङ्गजत्विषां चयः ॥ १४॥   
+     परश्रियः परं पदन्तदङ्गजत्विषां चयः ॥ १४॥   
   
 Divine beauty of different parts of Lord Shiva which are  
 enlightened by fragrance of the flowers decorating the twisted  

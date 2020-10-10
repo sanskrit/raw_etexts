@@ -1,25 +1,25 @@
-+++
-"Text title" = "nArada rachita kRiShNastotra"
-"File name" = "naaradakrishnastotra.itx"
-itxtitle = "kRiShNastotram (nAradarachitam)"
-engtitle = "kRiShNastotra (nArada)"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "nAradapa.ncharAtra"
-"Latest update" = "January 16, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (नारदरचितम्)"
+---
+Author: Traditional
+Category: vishhnu, krishna, stotra, vishnu
+Description-comments: nAradapa.ncharAtra
+File name: naaradakrishnastotra.itx
+Language: Sanskrit
+Latest update: January 16, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nArada rachita kRiShNastotra
+Texttype: stotra
+Transliterated by: WebD
+engtitle: kRiShNastotra (nArada)
+itxtitle: kRiShNastotram (nAradarachitam)
+title: कृइष्णस्तोत्रम् (नारदरचितम्)
 
-+++
+---
   
  श्रीकृष्णस्तोत्रं श्रीनारदरचितम्   
   

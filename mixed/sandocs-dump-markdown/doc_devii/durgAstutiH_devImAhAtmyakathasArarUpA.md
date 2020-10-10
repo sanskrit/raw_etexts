@@ -1,26 +1,26 @@
-+++
-"Text title" = "durgAstutiH with English meaning"
-"File name" = "durgAstuti.itx"
-itxtitle = "durgAstutiH devImAhAtmyakathasArarUpA"
-engtitle = "durgAstutiH Essence of devI mAhAtmya kathA"
-Category = "devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Visalakshi Sankaran aarathisankaran at yahoo.com"
-"Proofread by" = "Visalakshi Sankaran aarathisankaran at yahoo.com"
-"Translated by" = "Visalakshi Sankaran aarathisankaran@yahoo.com"
-Description-comments = "Essence of the Devi Mahatmyam"
-Indexextra = "(Essence of the Devi Mahatmyam with English meaning)"
-"Latest update" = "February 7, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गास्तुतिः देवीमाहात्म्यकथसाररूपा"
+---
+Author: Traditional
+Category: devii, durgA, devI
+Description-comments: Essence of the Devi Mahatmyam
+File name: durgAstuti.itx
+Indexextra: (Essence of the Devi Mahatmyam with English meaning)
+Language: Sanskrit
+Latest update: February 7, 2002
+Location: doc_devii
+Proofread by: Visalakshi Sankaran aarathisankaran at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: hinduism/religion
+Sublocation: devii
+Text title: durgAstutiH with English meaning
+Translated by: Visalakshi Sankaran aarathisankaran@yahoo.com
+Transliterated by: Visalakshi Sankaran aarathisankaran at yahoo.com
+engtitle: durgAstutiH Essence of devI mAhAtmya kathA
+itxtitle: durgAstutiH devImAhAtmyakathasArarUpA
+title: दुर्गास्तुतिः देवीमाहात्म्यकथसाररूपा
 
-+++
+---
   
  दुर्गास्तुती देवीमाहात्म्यकथसाररूपा   
   
@@ -37,7 +37,7 @@ Mahamaya, the evil asuras, Madhu and Kaitabha, were then slayed
 by MahaVishnu. Let Goddess Durga become a fort for me to stop  
 the terrible army of kRitAnta, the god of death.  
   
-त्रैलोक्ये महिषासुरप्रमथिते सम्भूय संचिन्ततां  
+त्रैलोक्ये महिषासुरप्रमथिते सम्भूय सञ्चिन्ततां  
 देवानामपि सा विनिर्मितवपुस्तैर्दत्तभूषायुधा ।  
 उच्चैर्नादयुतैर्महासुरबलैरारब्धयुद्धोत्सवा  
 रोद्धुं घोरकृतान्तसैन्यमिह मे दुर्गैव दुर्गायताम् ॥ २॥  
@@ -63,7 +63,7 @@ karAla, bAShkala, biDAla and others. Let Goddess Durga become
 a fort for me to stop the terrible army of kRitAnta, the god  
 of death.  
   
-प्राप्तं क्षोभितविश्वमाशु महिषं संनाशयन्ती ततः  
+प्राप्तं क्षोभितविश्वमाशु महिषं सन्नाशयन्ती ततः  
 सिंहीभूतमथो नराकृतिमिभाकारं लुलायाकृतिम् ।  
 आक्राम्याङ्घ्रितलेन निर्गतममुं भूयोऽसिना छिन्दती  
 रोद्धुं घोरकृतान्तसैन्यमिह मे दुर्गैव दुर्गायताम् ॥ ४॥  
@@ -127,7 +127,7 @@ approached, kAli expressed her anger by roaring aloud. Let that
 Goddess Durga become a fort for me to stop the terrible army of  
 kRitAnta, the god of death.  
   
-ब्रह्माण्डादिषु संगतासु शिवदूतीं च स्वशक्तिं तदा  
+ब्रह्माण्डादिषु सङ्गतासु शिवदूतीं च स्वशक्तिं तदा  
 सृष्ट्वा तत्प्रहितेन्दुमौलिवचसा दैत्यैः प्रवृत्ते रणे ।  
 क्रुध्यन्मातृअणार्दितं रिपुबलं दृष्ट्वा प्रहृष्टाशया  
 रोद्धुं घोरकृतान्तसैन्यमिह मे दुर्गैव दुर्गायताम् ॥ ९॥  

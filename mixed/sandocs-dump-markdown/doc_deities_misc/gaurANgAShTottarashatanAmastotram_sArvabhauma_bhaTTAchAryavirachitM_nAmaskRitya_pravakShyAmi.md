@@ -1,24 +1,25 @@
-+++
-"Text title" = "One Hundred and Eight Names of Lord ShrI Gauranga Caitanya Mahaprabhu"
-"File name" = "gaurAngAShTottarashatanAmastotram.itx"
-itxtitle = "gaurANgAShTottarashatanAmastotram (sArvabhauma bhaTTAchAryavirachitM nAmaskRitya pravakShyAmi)"
-engtitle = "gaurAngAShTottarashatanAmastotram"
-Category = "deities_misc, krishna, gurudev, aShTottarashatanAma, sArvabhaumabhaTTAchArya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Sarvabhauma Bhattacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Gauranga Chaitanya Mahaprabhu"
-Indexextra = "(Meaning 1, 2)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गौराण्गाष्टोत्तरशतनामस्तोत्रम् (सार्वभौम भट्टाचार्यविरचित्ं नामस्कृइत्य प्रवक्ष्यामि)"
+---
+Author: Sarvabhauma Bhattacharya
+Category: deities_misc, krishna, gurudev, aShTottarashatanAma, sArvabhaumabhaTTAchArya
+Description/comments: Gauranga Chaitanya Mahaprabhu
+File name: gaurAngAShTottarashatanAmastotram.itx
+Indexextra: (Meaning 1, 2)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: One Hundred and Eight Names of Lord ShrI Gauranga Caitanya Mahaprabhu
+engtitle: gaurAngAShTottarashatanAmastotram
+itxtitle: gaurANgAShTottarashatanAmastotram (sArvabhauma bhaTTAchAryavirachitM nAmaskRitya
+  pravakShyAmi)
+title: गौराण्गाष्टोत्तरशतनामस्तोत्रम् (सार्वभौम भट्टाचार्यविरचित्ं नामस्कृइत्य प्रवक्ष्यामि)
 
-+++
+---
   
  श्रीगौराङ्गाष्टोत्तरशतनामस्तोत्रम्   
 One Hundred and Eight Names of Lord ShrI Caitanya Mahaprabhu   
@@ -56,7 +57,7 @@ One Hundred and Eight Names of Lord ShrI Caitanya Mahaprabhu
 आर्तिप्रियः शुचिः शुद्धो भावदो भगवत्प्रियाः ॥ ११॥  
   
 इन्द्रादिसर्वलोकेशवन्दितश्रीपदाम्बुजः ।  
-न्यासिचूडामणिः कृष्णः संन्यासआश्रमपावनः ॥ १२॥  
+न्यासिचूडामणिः कृष्णः सन्न्यासआश्रमपावनः ॥ १२॥  
   
 चैतन्यः कृष्णचैतन्यो दण्डधृङ्न्यस्तदण्डकः ।  
 अवधूतप्रियो नित्यानन्दषड्भुजदर्शकः ॥ १३॥  

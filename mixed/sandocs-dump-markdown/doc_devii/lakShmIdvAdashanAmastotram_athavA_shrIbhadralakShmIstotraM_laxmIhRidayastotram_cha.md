@@ -1,24 +1,26 @@
-+++
-"Text title" = "ShrI Lakshmi Dvadashanama Stotram"
-"File name" = "lakShmIdvAdashanAmastotram.itx"
-itxtitle = "lakShmIdvAdashanAmastotram athavA shrIbhadralakShmIstotraM laxmIhRidayastotram cha"
-engtitle = "lakShmIdvAdashanAmastotram"
-Category = "devii, lakShmI, dvAdasha, hRidaya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N. Balasubramanian nbalubn at gmail.com"
-"Proofread by" = "N. Balasubramanian nbalubn at gmail.com"
-"Translated by" = "N. Balasubramanian nbalubn at gmail.com"
-Description-comments = "tulAkAverImAhAtmye dvAviMshe.adhyAye laxmIhRidayastotram"
-"Latest update" = "February 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीद्वादशनामस्तोत्रम् अथवा श्रीभद्रलक्ष्मीस्तोत्रं लक्ष्मीहृइदयस्तोत्रम् च"
+---
+Category: devii, lakShmI, dvAdasha, hRidaya, devI
+Description-comments: tulAkAverImAhAtmye dvAviMshe.adhyAye laxmIhRidayastotram
+File name: lakShmIdvAdashanAmastotram.itx
+Language: Sanskrit
+Latest update: February 18, 2018
+Location: doc_devii
+Proofread by: N. Balasubramanian nbalubn at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ShrI Lakshmi Dvadashanama Stotram
+Translated by: N. Balasubramanian nbalubn at gmail.com
+Transliterated by: N. Balasubramanian nbalubn at gmail.com
+engtitle: lakShmIdvAdashanAmastotram
+itxtitle: lakShmIdvAdashanAmastotram athavA shrIbhadralakShmIstotraM laxmIhRidayastotram
+  cha
+title: लक्ष्मीद्वादशनामस्तोत्रम् अथवा श्रीभद्रलक्ष्मीस्तोत्रं लक्ष्मीहृइदयस्तोत्रम्
+  च
 
-+++
+---
   
  श्रीलक्ष्मी द्वादशनामस्तोत्रम् अथवा श्रीभद्रलक्ष्मीस्तवं   
   
@@ -66,7 +68,7 @@ Some refer to this as bhadralakShmIstava.
 काले स्नात्वाऽपि कावेर्यां जप श्रीवृक्षसन्निदौ ॥  
   
 ॥ इति श्रीलक्ष्मी द्वादशनामस्तोत्रं अथवा  
-            श्रीभद्रलक्ष्मीस्तवं संपूर्णं ॥  
+            श्रीभद्रलक्ष्मीस्तवं सम्पूर्णं ॥  
   
   
 As a proper reference, this occurs in tulAkAverImAhAtmya.  

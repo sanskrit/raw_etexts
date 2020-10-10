@@ -1,24 +1,24 @@
-+++
-"Text title" = "chhinnamastAhradayam"
-"File name" = "chhinnamastaahridayam.itx"
-itxtitle = "ChinnamastAhRidayam"
-engtitle = "ChinnamastAhRidayam"
-Category = "hRidaya, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "shrInandyAvarte mahAdevapArvatIsa.nvAde"
-"Latest update" = "August 11, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "छिन्नमस्ताहृइदयम्"
+---
+Author: Traditional
+Category: hRidaya, devii, dashamahAvidyA, devI
+Description-comments: shrInandyAvarte mahAdevapArvatIsa.nvAde
+File name: chhinnamastaahridayam.itx
+Language: Sanskrit
+Latest update: August 11, 2006
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: chhinnamastAhradayam
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: ChinnamastAhRidayam
+itxtitle: ChinnamastAhRidayam
+title: छिन्नमस्ताहृइदयम्
 
-+++
+---
   
  श्रीछिन्नमस्ताहृदयम्   
   

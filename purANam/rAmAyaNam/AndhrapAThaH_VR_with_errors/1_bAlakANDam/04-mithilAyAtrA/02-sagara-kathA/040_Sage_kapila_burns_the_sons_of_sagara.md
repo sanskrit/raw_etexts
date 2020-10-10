@@ -3,7 +3,6 @@ title: 040 सगर-सुत-विनाशः
 title_english: 040 Sage kapila burns the sons of sagara
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-040-Sagara_Putra_Vinashaha.mp3"></div>
 
 देवतानां वचः श्रुत्वा भगवान् वै पितामहः।  

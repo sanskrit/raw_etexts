@@ -1,20 +1,20 @@
-+++
-"Text title" = "madanamohanAShTakam"
-"File name" = "madanamohana8.itx"
-itxtitle = "madanamohanAShTakam"
-engtitle = "madanamohanAShTakam"
-Category = "aShTaka, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "May 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मदनमोहनाष्टकम्"
+---
+Category: aShTaka, vishhnu, krishna, vishnu
+File name: madanamohana8.itx
+Language: Sanskrit
+Latest update: May 1, 2010
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: madanamohanAShTakam
+engtitle: madanamohanAShTakam
+itxtitle: madanamohanAShTakam
+title: मदनमोहनाष्टकम्
 
-+++
+---
   
  मदनमोहनाष्टकम्   
   

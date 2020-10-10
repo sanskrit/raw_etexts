@@ -1,21 +1,22 @@
-+++
-"Text title" = "shrIbhagavaddhyAnam"
-"File name" = "bhagavaddhyAnam.itx"
-itxtitle = "bhagavaddhyAnam"
-engtitle = "shrIbhagavaddhyAnam"
-Category = "vishhnu, vishnu, dhyAnam"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवद्ध्यानम्"
+---
+Category: vishhnu, vishnu, dhyAnam
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: bhagavaddhyAnam.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIbhagavaddhyAnam
+engtitle: shrIbhagavaddhyAnam
+itxtitle: bhagavaddhyAnam
+title: भगवद्ध्यानम्
 
-+++
+---
   
  श्रीभगवद्ध्यानम्   
   

@@ -1,20 +1,20 @@
-+++
-"Text title" = "Praise of Devi by Vedas"
-"File name" = "vedastutiH.itx"
-itxtitle = "vedakRita devIstutiH"
-engtitle = "vedakRita devI stutiH"
-Category = "devii"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ram ST tramseshan at gmail.com"
-"Latest update" = "April 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वेदकृइत देवीस्तुतिः"
+---
+Category: devii
+File name: vedastutiH.itx
+Language: Sanskrit
+Latest update: April 21, 2020
+Location: doc_devii
+Proofread by: Ram ST tramseshan at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Praise of Devi by Vedas
+engtitle: vedakRita devI stutiH
+itxtitle: vedakRita devIstutiH
+title: वेदकृइत देवीस्तुतिः
 
-+++
+---
   
  वेदकृत देवीस्तुतिः   
 नमो देवि महामाये विश्वोत्पत्तिकरे शिवे ।  

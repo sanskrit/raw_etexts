@@ -1,21 +1,21 @@
-+++
-"Text title" = "navagrahANAM samuchchayAShTottarashatanAmAvalI"
-"File name" = "navagrahasamuchchayAShTottarashatanAmAvalI.itx"
-itxtitle = "navagrahANAM samuchchayAShTottarashatanAmAvalI"
-engtitle = "navagrahANAM samuchchayAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, navagraha, nAmAvalI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan ajit.krishnan at gmail.com"
-"Proofread by" = "Ajit Krishnan ajit.krishnan at gmail.com"
-"Latest update" = "May 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रहाणां समुच्चयाष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, navagraha, nAmAvalI
+File name: navagrahasamuchchayAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: May 6, 2018
+Location: doc_z_misc_navagraha
+Proofread by: Ajit Krishnan ajit.krishnan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: navagrahANAM samuchchayAShTottarashatanAmAvalI
+Transliterated by: Ajit Krishnan ajit.krishnan at gmail.com
+engtitle: navagrahANAM samuchchayAShTottarashatanAmAvalI
+itxtitle: navagrahANAM samuchchayAShTottarashatanAmAvalI
+title: नवग्रहाणां समुच्चयाष्टोत्तरशतनामावली
 
-+++
+---
   
  नवग्रहाणां समुच्चयाष्टोत्तरशतनामावलिः   
   

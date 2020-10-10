@@ -1,22 +1,22 @@
-+++
-"Text title" = "tripurasundaryAdvAdashashlokIstutiH"
-"File name" = "tripurasundaryAdvAdashashlokIstutiH.itx"
-itxtitle = "tripurasundaryAdvAdashashlokIstutiH (nAradapurANAntargatA)"
-engtitle = "tripurasundaryAdvAdashashlokIstutiH"
-Category = "devii, dvAdasha, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "See also lalitAsahasranAmastotram from nAradapurANa, and nityAShoDashikArNavaM"
-Indexextra = "(Commentary)"
-"Latest update" = "April 20, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरसुन्दर्याद्वादशश्लोकीस्तुतिः (नारदपुराणान्तर्गता)"
+---
+Category: devii, dvAdasha, dashamahAvidyA, devI
+Description/comments: See also lalitAsahasranAmastotram from nAradapurANa, and nityAShoDashikArNavaM
+File name: tripurasundaryAdvAdashashlokIstutiH.itx
+Indexextra: (Commentary)
+Language: Sanskrit
+Latest update: April 20, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tripurasundaryAdvAdashashlokIstutiH
+engtitle: tripurasundaryAdvAdashashlokIstutiH
+itxtitle: tripurasundaryAdvAdashashlokIstutiH (nAradapurANAntargatA)
+title: त्रिपुरसुन्दर्याद्वादशश्लोकीस्तुतिः (नारदपुराणान्तर्गता)
 
-+++
+---
   
  श्रीत्रिपुरसुन्दर्याद्वादशश्लोकीस्तुतिः   
 गणेशग्रहनक्षत्रयोगिनीराशिरूपिणीम् ।  

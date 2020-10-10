@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ekadanta Stuti by Madasura"
-"File name" = "ekadantastutiHmadAsureNaproktA.itx"
-itxtitle = "ekadantastutiH madAsureNa proktA (mudgalapurANAntargatA)"
-engtitle = "ekadantastutiH madAsureNa proktA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan"
-"Proofread by" = "Ajit Krishnan, PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 2, Adhyaya 54"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "एकदन्तस्तुतिः मदासुरेण प्रोक्ता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 2, Adhyaya 54
+File name: ekadantastutiHmadAsureNaproktA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: Ajit Krishnan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ekadanta Stuti by Madasura
+Transliterated by: Ajit Krishnan
+engtitle: ekadantastutiH madAsureNa proktA
+itxtitle: ekadantastutiH madAsureNa proktA (mudgalapurANAntargatA)
+title: एकदन्तस्तुतिः मदासुरेण प्रोक्ता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  एकदन्तस्तुतिः मदासुरेण प्रोक्ता   
 गृत्समद उवाच -  
@@ -64,7 +64,7 @@ title = "एकदन्तस्तुतिः मदासुरेण प्
 पुनः पुनः सिद्धिबुद्धिपते तुभ्यं नमो नमः ॥ १७॥  
   
 रक्ष मामेकदन्तस्त्वं शरणागतमञ्जसा ।  
-भक्तं भावेन संप्राप्तं संसारात्तारयस्व च ॥ १८॥  
+भक्तं भावेन सम्प्राप्तं संसारात्तारयस्व च ॥ १८॥  
   
 इति मदासुरेण प्रोक्ता एकदन्तस्तुतिः समाप्ता । २.५४  
   

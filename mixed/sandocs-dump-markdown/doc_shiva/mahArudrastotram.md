@@ -1,21 +1,22 @@
-+++
-"Text title" = "mahArudrastotram"
-"File name" = "mahArudrastotram.itx"
-itxtitle = "mahArudrastotram"
-engtitle = "mahArudrastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "January 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महारुद्रस्तोत्रम्"
+---
+Category: shiva
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: mahArudrastotram.itx
+Language: Sanskrit
+Latest update: January 19, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mahArudrastotram
+engtitle: mahArudrastotram
+itxtitle: mahArudrastotram
+title: महारुद्रस्तोत्रम्
 
-+++
+---
   
  महारुद्रस्तोत्रम्   
   

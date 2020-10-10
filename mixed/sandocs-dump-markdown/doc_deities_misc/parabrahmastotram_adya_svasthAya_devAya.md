@@ -1,21 +1,21 @@
-+++
-"Text title" = "parabrahmastotram"
-"File name" = "parabrahmastotram.itx"
-itxtitle = "parabrahmastotram (adya svasthAya devAya)"
-engtitle = "parabrahmastotram"
-Category = "deities_misc, brahma"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परब्रह्मस्तोत्रम् (अद्य स्वस्थाय देवाय)"
+---
+Category: deities_misc, brahma
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: parabrahmastotram.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: parabrahmastotram
+engtitle: parabrahmastotram
+itxtitle: parabrahmastotram (adya svasthAya devAya)
+title: परब्रह्मस्तोत्रम् (अद्य स्वस्थाय देवाय)
 
-+++
+---
   
  परब्रह्मस्तोत्रम्   
 अद्य स्वस्थाय देवाय नित्याय हतपाप्मने ।  

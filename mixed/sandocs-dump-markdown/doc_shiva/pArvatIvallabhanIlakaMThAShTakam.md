@@ -1,21 +1,21 @@
-+++
-"Text title" = "pArvatIvallabhanIlakaMThAShTakam"
-"File name" = "pArvatIvallabhanIlakaMThAShTakam.itx"
-itxtitle = "pArvatIvallabhanIlakaMThAShTakam"
-engtitle = "pArvatIvallabhanIlakaMThAShTakam"
-Category = "shiva, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Videos 1, 2, 3, 4, 5, 6, 7)"
-"Latest update" = "December 21, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्वतीवल्लभनीलकंठाष्टकम्"
+---
+Category: shiva, aShTaka
+File name: pArvatIvallabhanIlakaMThAShTakam.itx
+Indexextra: (Videos 1, 2, 3, 4, 5, 6, 7)
+Language: Sanskrit
+Latest update: December 21, 2019
+Location: doc_shiva
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: pArvatIvallabhanIlakaMThAShTakam
+engtitle: pArvatIvallabhanIlakaMThAShTakam
+itxtitle: pArvatIvallabhanIlakaMThAShTakam
+title: पार्वतीवल्लभनीलकंठाष्टकम्
 
-+++
+---
   
  पार्वतीवल्लभनीलकण्ठाष्टकम्   
 नमो भूतनाथं नमो देवदेवं  

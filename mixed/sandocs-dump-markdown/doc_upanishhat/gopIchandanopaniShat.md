@@ -1,22 +1,22 @@
-+++
-"Text title" = "Gopichandana Upanishad"
-"File name" = "gopIchandanopaniShat.itx"
-itxtitle = "gopIchandanopaniShat"
-engtitle = "gopIchandanopaniShat"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Atharva Veda upanishad"
-"Latest update" = "March 21, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपीचन्दनोपनिषत्"
+---
+Category: upanishhat, upanishad
+Description/comments: Atharva Veda upanishad
+File name: gopIchandanopaniShat.itx
+Language: Sanskrit
+Latest update: March 21, 2015
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: Gopichandana Upanishad
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: gopIchandanopaniShat
+itxtitle: gopIchandanopaniShat
+title: गोपीचन्दनोपनिषत्
 
-+++
+---
   
  गोपीचन्दनोपनिषत्   
   

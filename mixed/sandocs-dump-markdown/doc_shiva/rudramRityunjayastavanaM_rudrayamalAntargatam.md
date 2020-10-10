@@ -1,22 +1,22 @@
-+++
-"Text title" = "rudramRityunjayastavanaM"
-"File name" = "rudramRityunjayastavana.itx"
-itxtitle = "rudramRityunjayastavanaM (rudrayamalAntargatam)"
-engtitle = "Rudra Mrityunjaya Stavana"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com, NA"
-Source = "Rudrayamale uttaratantre mahAtantroddIpane"
-"Latest update" = "July 26, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रमृइत्युञ्जयस्तवनं (रुद्रयमलान्तर्गतम्)"
+---
+Category: shiva
+File name: rudramRityunjayastavana.itx
+Language: Sanskrit
+Latest update: July 26, 2016
+Location: doc_shiva
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamale uttaratantre mahAtantroddIpane
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: rudramRityunjayastavanaM
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: Rudra Mrityunjaya Stavana
+itxtitle: rudramRityunjayastavanaM (rudrayamalAntargatam)
+title: रुद्रमृइत्युञ्जयस्तवनं (रुद्रयमलान्तर्गतम्)
 
-+++
+---
   
  श्रीरुद्रमृत्युञ्जयस्तवनम्   
   

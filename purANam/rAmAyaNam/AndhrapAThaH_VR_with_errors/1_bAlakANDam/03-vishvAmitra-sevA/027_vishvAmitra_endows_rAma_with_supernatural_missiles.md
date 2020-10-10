@@ -3,7 +3,6 @@ title: 027 रामायास्त्रप्रदानम्
 title_english: 027 vishvAmitra endows rAma with supernatural missiles
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-027-Ramaayastra_Pradhaanam.mp3"></div>
 
 अथ तां रजनीमुष्य विश्वामित्रो महायशाः।  

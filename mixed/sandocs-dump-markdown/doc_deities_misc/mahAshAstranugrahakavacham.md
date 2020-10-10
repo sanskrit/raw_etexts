@@ -1,21 +1,21 @@
-+++
-"Text title" = "mahAshAstranugrahakavacham"
-"File name" = "mahAshAstranugrahakavacham.itx"
-itxtitle = "mahAshAstranugrahakavacham"
-engtitle = "mahAshAstranugrahakavacham"
-Category = "deities_misc, ayyappa, kavacha"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "From Shastrarchana, Kannada publication"
-"Latest update" = "June 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाशास्त्रनुग्रहकवचम्"
+---
+Category: deities_misc, ayyappa, kavacha
+Description/comments: From Shastrarchana, Kannada publication
+File name: mahAshAstranugrahakavacham.itx
+Language: Sanskrit
+Latest update: June 6, 2018
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: mahAshAstranugrahakavacham
+engtitle: mahAshAstranugrahakavacham
+itxtitle: mahAshAstranugrahakavacham
+title: महाशास्त्रनुग्रहकवचम्
 
-+++
+---
   
  महाशास्त्रनुग्रहकवचम्   
 श्रीगणेशाय नमः ।  

@@ -1,25 +1,26 @@
-+++
-"Text title" = "rAdhikAdhyAnAmRRitastotram"
-"File name" = "rAdhikAdhyAnAmRRitastotram.itx"
-itxtitle = "rAdhikAdhyAnAmRitastotram (vishvanAthachakravartin Thakkuravirachitam)"
-engtitle = "rAdhikAdhyAnAmRRitastotram by vishvanAthachakravartin"
-Category = "devii, radha, vishvanAthachakravartin, dhyAnam, stavAmRRitalaharI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधिकाध्यानामृइतस्तोत्रम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: devii, radha, vishvanAthachakravartin, dhyAnam, stavAmRRitalaharI, devI
+File name: rAdhikAdhyAnAmRRitastotram.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_devii
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhikAdhyAnAmRRitastotram
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: rAdhikAdhyAnAmRRitastotram by vishvanAthachakravartin
+itxtitle: rAdhikAdhyAnAmRitastotram (vishvanAthachakravartin Thakkuravirachitam)
+title: राधिकाध्यानामृइतस्तोत्रम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)
 
-+++
+---
   
  श्रीराधिकाध्यानामृतस्तोत्रम्   
 तडिच्चम्पकस्वर्णकाश्मीरभासः  

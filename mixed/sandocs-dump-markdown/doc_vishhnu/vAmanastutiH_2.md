@@ -1,22 +1,22 @@
-+++
-"Text title" = "vAmanastutiH 2"
-"File name" = "vAmanastutiH2.itx"
-itxtitle = "vAmanastutiH 2"
-engtitle = "vAmanastutiH 2"
-Category = "vishhnu, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वामनस्तुतिः २"
+---
+Category: vishhnu, dashAvatAra
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: vAmanastutiH2.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vAmanastutiH 2
+engtitle: vAmanastutiH 2
+itxtitle: vAmanastutiH 2
+title: वामनस्तुतिः २
 
-+++
+---
   
  वामनस्तुतिः २   
 देवेश्वराय देवाय देवसम्भूतिकारिणे ।  

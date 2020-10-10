@@ -1,24 +1,26 @@
-+++
-"Text title" = "kArtikeyastotram"
-"File name" = "skanda.itx"
-itxtitle = "kArtikeyastotram prajnAvivardhanam"
-engtitle = "kArtikeya skanda (hymn)"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "skanda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rama Balasubramanian rbalasub at ecn.purdue.edu and Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Rama Balasubramanian rbalasub at ecn.purdue.edu and Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmala"
-Indexextra = "(meaning)"
-"Latest update" = "December 18, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कार्तिकेयस्तोत्रम् प्रज्ञाविवर्धनम्"
+---
+Author: skanda
+Category: subrahmanya
+Description-comments: rudrayAmala
+File name: skanda.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: December 18, 2004
+Location: doc_subrahmanya
+Proofread by: Rama Balasubramanian rbalasub at ecn.purdue.edu and Ravin Bhalekar ravibhalekar
+  at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: kArtikeyastotram
+Transliterated by: Rama Balasubramanian rbalasub at ecn.purdue.edu and Ravin Bhalekar
+  ravibhalekar at hotmail.com
+engtitle: kArtikeya skanda (hymn)
+itxtitle: kArtikeyastotram prajnAvivardhanam
+title: कार्तिकेयस्तोत्रम् प्रज्ञाविवर्धनम्
 
-+++
+---
   
  कार्तिकेयस्तोत्रम् प्रज्ञाविवर्धनम्   
               Hymn to kArtikeya or skanda  

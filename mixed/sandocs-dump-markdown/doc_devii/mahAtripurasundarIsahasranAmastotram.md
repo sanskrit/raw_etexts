@@ -1,25 +1,28 @@
-+++
-"Text title" = "mahAtripurasundarIsahasranAmastotra"
-"File name" = "mahAtripurasundarIsahasranAmastotra.itx"
-itxtitle = "mahAtripurasundarIsahasranAmastotram"
-engtitle = "Shri Mahatripurasundari Sahasranamastotram"
-Category = "sahasranAma, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion  kumAryAdipaMchAyatanadevatAnAM tantraishcha samalaMkRitaH  From Muktabodha Indological Research Institute www.muktabodha.org  Data-entered by the staff of Muktabodha under the direction of Mark S. G.  Dyczkowski.  Reprint of edition published in 1892.  Revision 0 february 9, 2009"
-"Transliterated by" = "Muktabodha.org"
-"Proofread by" = "Muktabodha.org, DPD"
-Description-comments = "From Shaktapramoda kAlyAdidashamahAvidyAtantrAtmakaH"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "October 2, 2014, May 5, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महात्रिपुरसुन्दरीसहस्रनामस्तोत्रम्"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: sahasranAma, devii, dashamahAvidyA, stotra, devI
+Description-comments: From Shaktapramoda kAlyAdidashamahAvidyAtantrAtmakaH
+File name: mahAtripurasundarIsahasranAmastotra.itx
+Language: Sanskrit
+Latest update: October 2, 2014, May 5, 2017
+Location: doc_devii
+Proofread by: Muktabodha.org, DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion  kumAryAdipaMchAyatanadevatAnAM tantraishcha
+  samalaMkRitaH  From Muktabodha Indological Research Institute www.muktabodha.org  Data-entered
+  by the staff of Muktabodha under the direction of Mark S. G.  Dyczkowski.  Reprint
+  of edition published in 1892.  Revision 0 february 9, 2009
+Sublocation: devii
+Text title: mahAtripurasundarIsahasranAmastotra
+Texttype: stotra
+Transliterated by: Muktabodha.org
+engtitle: Shri Mahatripurasundari Sahasranamastotram
+itxtitle: mahAtripurasundarIsahasranAmastotram
+title: महात्रिपुरसुन्दरीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीमहात्रिपुरसुन्दरीसहस्रनामस्तोत्रम्   
   

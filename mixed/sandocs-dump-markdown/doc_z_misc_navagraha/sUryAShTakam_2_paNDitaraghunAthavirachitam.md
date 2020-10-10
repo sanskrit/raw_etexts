@@ -1,22 +1,22 @@
-+++
-"Text title" = "sUryAShTakam 2"
-"File name" = "sUryAShTakam2.itx"
-itxtitle = "sUryAShTakam 2 (paNDitaraghunAthavirachitam)"
-engtitle = "sUryAShTakam 2"
-Category = "aShTaka, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "paNDitaraghunAthasharmaNa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-"Latest update" = "June 11, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्याष्टकम् २ (पण्डितरघुनाथविरचितम्)"
+---
+Author: paNDitaraghunAthasharmaNa
+Category: aShTaka, navagraha
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: sUryAShTakam2.itx
+Language: Sanskrit
+Latest update: June 11, 2016
+Location: doc_z_misc_navagraha
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryAShTakam 2
+engtitle: sUryAShTakam 2
+itxtitle: sUryAShTakam 2 (paNDitaraghunAthavirachitam)
+title: सूर्याष्टकम् २ (पण्डितरघुनाथविरचितम्)
 
-+++
+---
   
  सूर्याष्टकम् २   
 श्रीगणेशाय नमः ।  

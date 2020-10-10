@@ -1,23 +1,23 @@
-+++
-"Text title" = "svAminAthaShaTpadIstotram"
-"File name" = "svAminAthaShaTpadIstotram.itx"
-itxtitle = "svAminAthaShaTpadIstotram"
-engtitle = "svAminAthaShaTpadIstotram"
-Category = "subrahmanya, ShaTpadI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "Gudalur Ramakrishna Sastrigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, Psa Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Tamil, Author)"
-"Latest update" = "December 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वामिनाथषट्पदीस्तोत्रम्"
+---
+Author: Gudalur Ramakrishna Sastrigal
+Category: subrahmanya, ShaTpadI
+File name: svAminAthaShaTpadIstotram.itx
+Indexextra: (Tamil, Author)
+Language: Sanskrit
+Latest update: December 23, 2019
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, Psa Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: svAminAthaShaTpadIstotram
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: svAminAthaShaTpadIstotram
+itxtitle: svAminAthaShaTpadIstotram
+title: स्वामिनाथषट्पदीस्तोत्रम्
 
-+++
+---
   
  श्रीस्वामिनाथ षट्पदीस्तोत्रम्   
 श्रीसुब्रह्मण्याय नमः ।  

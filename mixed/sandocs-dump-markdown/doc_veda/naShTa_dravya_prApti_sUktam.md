@@ -1,21 +1,21 @@
-+++
-"Text title" = "naShTadravyaprAptisUktam svarita"
-"File name" = "naShTadravyaprAptisUkta.itx"
-itxtitle = "naShTa dravya prApti sUktam"
-engtitle = "naShTa dravya prApti sUktam"
-Category = "sUkta, veda, svara, rigveda"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "hinduism/Veda"
-Description-comments = "Rigveda Mandala 6.54"
-"Latest update" = "April 14, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नष्ट द्रव्य प्राप्ति सूक्तम्"
+---
+Category: sUkta, veda, svara, rigveda
+Description-comments: Rigveda Mandala 6.54
+File name: naShTadravyaprAptisUkta.itx
+Language: Sanskrit
+Latest update: April 14, 2012
+Location: doc_veda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/Veda
+Sublocation: veda
+Text title: naShTadravyaprAptisUktam svarita
+Texttype: svara
+engtitle: naShTa dravya prApti sUktam
+itxtitle: naShTa dravya prApti sUktam
+title: नष्ट द्रव्य प्राप्ति सूक्तम्
 
-+++
+---
   
  नष्ट द्रव्य प्राप्ति सूक्तम्   
   

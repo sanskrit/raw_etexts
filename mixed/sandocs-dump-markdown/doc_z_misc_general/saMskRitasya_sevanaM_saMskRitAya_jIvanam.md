@@ -1,20 +1,20 @@
-+++
-"Text title" = "saMskRRitasyasevanaM"
-"File name" = "saMskRRitasyasevanaM.itx"
-itxtitle = "saMskRitasya sevanaM saMskRitAya jIvanam"
-engtitle = "saMskRRitasyasevanaM"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(video)"
-"Latest update" = "September 12, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृइतस्य सेवनं संस्कृइताय जीवनम्"
+---
+Category: misc, sanskritgeet
+File name: saMskRRitasyasevanaM.itx
+Indexextra: (video)
+Language: Sanskrit
+Latest update: September 12, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: saMskRRitasyasevanaM
+engtitle: saMskRRitasyasevanaM
+itxtitle: saMskRitasya sevanaM saMskRitAya jIvanam
+title: संस्कृइतस्य सेवनं संस्कृइताय जीवनम्
 
-+++
+---
   
  संस्कृतस्य सेवनं संस्कृताय जीवनम्   
 संस्कृतस्य सेवनं, संस्कृताय जीवनम्  

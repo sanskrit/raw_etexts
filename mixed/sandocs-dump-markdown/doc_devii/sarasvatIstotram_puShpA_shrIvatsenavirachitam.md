@@ -1,26 +1,26 @@
-+++
-"Text title" = "sarasvatIstotram"
-"File name" = "sarasvatIstotramPS.itx"
-itxtitle = "sarasvatIstotram (puShpA shrIvatsenavirachitam)"
-engtitle = "sarasvatIstotram"
-Category = "devii, puShpAshrIvatsan, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तोत्रम् (पुष्पा श्रीवत्सेनविरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: devii, puShpAshrIvatsan, sarasvatI, devI
+File name: sarasvatIstotramPS.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 28, 2017
+Location: doc_devii
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIstotram
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: sarasvatIstotram
+itxtitle: sarasvatIstotram (puShpA shrIvatsenavirachitam)
+title: सरस्वतीस्तोत्रम् (पुष्पा श्रीवत्सेनविरचितम्)
 
-+++
+---
   
  श्रीसरस्वतीस्तोत्रम्   
                  ॐ  
@@ -34,7 +34,7 @@ title = "सरस्वतीस्तोत्रम् (पुष्पा �
 नमस्तुभ्यं वरे देवि वीणापुस्तकधारिणि ।  
 विद्यासम्पत्तिदे वाणि सरस्वति नमोस्तु ते ॥ १॥  
   
-ऐंबीजपूजिते देवि वीणासङ्गीतमोदिते ।  
+ऐम्बीजपूजिते देवि वीणासङ्गीतमोदिते ।  
 ज्ञानमोक्षकविस्फूर्ते सरस्वति नमोस्तु ते ॥ २॥  
   
 वाग्देवीं स्वरमाधुर्यां सङ्गीतकवितावराम् ।  

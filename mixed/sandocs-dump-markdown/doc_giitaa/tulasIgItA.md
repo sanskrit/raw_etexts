@@ -1,23 +1,23 @@
-+++
-"Text title" = "tulasIgItA"
-"File name" = "tulasIgItA.itx"
-itxtitle = "tulasIgItA"
-engtitle = "tulasIgItA"
-Category = "gItA, giitaa, tulasI"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-SubDeity = "tulasI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(scanned)"
-"Latest update" = "May 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलसीगीता"
+---
+Category: gItA, giitaa, tulasI
+File name: tulasIgItA.itx
+Indexextra: (scanned)
+Language: Sanskrit
+Latest update: May 18, 2013
+Location: doc_giitaa
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: tulasIgItA
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: tulasIgItA
+itxtitle: tulasIgItA
+title: तुलसीगीता
 
-+++
+---
   
  तुलसीगीता   
   
@@ -34,7 +34,7 @@ title = "तुलसीगीता"
 महाप्रसादजननी आधिव्याधिविनाशिनी ।  
 सर्वसौभाग्यदे देवि तुलसि त्वां नमोऽस्तु ते ॥ ४॥  
   
-या दृष्टा निखिलांससंघशमना स्पृष्टा वपुःपावना  
+या दृष्टा निखिलांससङ्घशमना स्पृष्टा वपुःपावना  
 रोगाणामभिवन्दिता निरसनी सिक्तान्तकत्रासिनी ।  
 प्रत्यासक्तिविधायिनी भगवतः कृष्णस्य संरोपिता  
 न्यस्ता तच्चरणे विमुक्तिफलदा तस्यै तुलस्यै नमः ॥ ५॥  
@@ -81,7 +81,7 @@ title = "तुलसीगीता"
 तुलसीगन्धमादाय यत्र गच्छति मारुतः ।  
 दिशो दश च पूताः स्युर्भूतग्रामाश्चतुर्दशः ॥ १९॥  
   
-तुलसीवनसंभूता छाया पतति यत्र वै ।  
+तुलसीवनसम्भूता छाया पतति यत्र वै ।  
 तत्र श्राद्धं प्रदातव्यं पितॄणां तृप्तिहेतवे ॥ २०॥  
   
 तुलसी पूजिता नित्यं सेविता रोपिता शुभा ।  

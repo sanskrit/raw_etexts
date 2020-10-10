@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhavAnIchandrashekharastotram"
-"File name" = "bhavAnIchandrashekharastotram.itx"
-itxtitle = "bhavAnIchandrashekharastotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "bhavAnIchandrashekharastotram"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, shiva, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवानीचन्द्रशेखरस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, shiva, pArvatI
+File name: bhavAnIchandrashekharastotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhavAnIchandrashekharastotram
+engtitle: bhavAnIchandrashekharastotram
+itxtitle: bhavAnIchandrashekharastotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: भवानीचन्द्रशेखरस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीभवानीचन्द्रशेखरस्तोत्रम्   
 (श्रीशृङ्गगिरौ - श्रीभवानीमलहानिकरेश्वरकल्याणोत्सवे)  

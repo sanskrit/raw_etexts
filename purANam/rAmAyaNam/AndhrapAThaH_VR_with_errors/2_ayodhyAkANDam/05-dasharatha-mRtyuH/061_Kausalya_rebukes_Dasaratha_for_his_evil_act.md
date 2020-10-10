@@ -3,7 +3,6 @@ title: 061 Kausalya rebukes Dasaratha for his evil act
 title_english: 061 Kausalya rebukes Dasaratha for his evil act
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-061-Kousalya_Krutha_Dahsratha_Nindaa.mp3"></div>
 
 वनम् गते धर्म परे रामे रमयताम् वरे ।  

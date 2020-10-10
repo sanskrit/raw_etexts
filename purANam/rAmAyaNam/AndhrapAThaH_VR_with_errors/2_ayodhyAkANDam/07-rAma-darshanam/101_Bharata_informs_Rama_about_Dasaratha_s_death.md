@@ -3,7 +3,6 @@ title: 101 Bharata informs Rama about Dasaratha s death
 title_english: 101 Bharata informs Rama about Dasaratha s death
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-101-Dasharatha_Niryana_Kathanam_.mp3"></div>
 
 तम् तु रामः समाश्वास्य भ्रातरम् गुरु वत्सलम् ।  
@@ -42,7 +41,7 @@ title_english: 101 Bharata informs Rama about Dasaratha s death
 न च अपि जननीम् बाल्यात् त्वम् विगर्हितुम् अर्हसि ॥ २-१०१-१७  
 कामकरो महाप्राअज्ञ गुरूणां सर्वदानघ ।  
 उपपन्नेषु दारेषु पुत्रेषु च विधीयते ॥ २-१०१-१८  
-वयमस्य यथा लोके संख्याताः सुअम्य साधुभिः ।  
+वयमस्य यथा लोके सङ्ख्याताः सुअम्य साधुभिः ।  
 भार्याः पुत्राश्च शिष्याश्छ त्वमनुज्ञातुमर्हसि ॥ २-१०१-१९  
 वने वा चीरवसनं सौम्यकृष्णाजिनाम्बरम् ।  
 राज्ये वापि महाराजो मां वासयितुमीश्वरः ॥ २-१०१-२०  

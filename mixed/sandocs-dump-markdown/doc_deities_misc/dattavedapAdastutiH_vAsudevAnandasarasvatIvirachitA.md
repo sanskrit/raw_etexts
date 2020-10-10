@@ -1,23 +1,24 @@
-+++
-"Text title" = "dattavedapAdastutiH"
-"File name" = "dattavedapAdastutiH.itx"
-itxtitle = "dattavedapAdastutiH (vAsudevAnandasarasvatIvirachitA)"
-engtitle = "dattavedapAdastutiH"
-Category = "deities_misc, dattatreya, vAsudevAnanda-sarasvatI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "vAsudevAnandasarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "March 24, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तवेदपादस्तुतिः (वासुदेवानन्दसरस्वतीविरचिता)"
+---
+Author: vAsudevAnandasarasvatI
+Category: deities_misc, dattatreya, vAsudevAnanda-sarasvatI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: dattavedapAdastutiH.itx
+Language: Sanskrit
+Latest update: March 24, 2017
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattavedapAdastutiH
+engtitle: dattavedapAdastutiH
+itxtitle: dattavedapAdastutiH (vAsudevAnandasarasvatIvirachitA)
+title: दत्तवेदपादस्तुतिः (वासुदेवानन्दसरस्वतीविरचिता)
 
-+++
+---
   
  दत्तवेदपादस्तुतिः   
   

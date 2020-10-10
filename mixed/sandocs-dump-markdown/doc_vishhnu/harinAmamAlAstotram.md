@@ -1,23 +1,23 @@
-+++
-"Text title" = "harinAmamAlA"
-"File name" = "harinAmamAlA.itx"
-itxtitle = "harinAmamAlAstotram"
-engtitle = "harinAmamAlA stotram"
-Category = "mAlAmantra, vishhnu, hari, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "hari"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion/vedanta"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Latest update" = "November 19, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिनाममालास्तोत्रम्"
+---
+Category: mAlAmantra, vishhnu, hari, vishnu
+File name: harinAmamAlA.itx
+Language: Sanskrit
+Latest update: November 19, 2011
+Location: doc_vishhnu
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: hari
+Subject: philosophy/hinduism/religion/vedanta
+Sublocation: vishhnu
+Text title: harinAmamAlA
+Transliterated by: DPD
+engtitle: harinAmamAlA stotram
+itxtitle: harinAmamAlAstotram
+title: हरिनाममालास्तोत्रम्
 
-+++
+---
   
  श्रीहरिनाममालास्तोत्रम्   
   
@@ -60,7 +60,7 @@ title = "हरिनाममालास्तोत्रम्"
 योगीश्वरं यज्ञपतिं यशोदानन्ददायकम्  
 यमुनाजलकल्लोलं तं वन्दे यदुनायकम् ॥ १३॥  
   
-सालिग्रामशिलशुद्धं शंखचक्रोपशोभितम् ।  
+सालिग्रामशिलशुद्धं शङ्खचक्रोपशोभितम् ।  
 सुरासुरैः सदा सेव्यं तं वन्दे साधुवल्लभम् ॥ १४॥  
   
 त्रिविक्रमं तपोमूर्तिं त्रिविधघौघनाशनम् ।  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "Prayer to Lord Jagannatha 1"
-"File name" = "jagannaatha1.itx"
-itxtitle = "jagannAthastotram 1"
-engtitle = "Prayer to Lord Jagannatha 1"
-Category = "vishhnu, jagannatha, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "jagannatha"
-Texttype = "stotra"
-Author = "traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sarbani Sarkar sarbani at srijagannath.org"
-"Proofread by" = "Sarbani Sarkar sarbani at srijagannath.org, corrected by  Avinash Sathaye"
-"Latest update" = "February 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जगन्नाथस्तोत्रम् १"
+---
+Author: traditional
+Category: vishhnu, jagannatha, stotra, vishnu
+File name: jagannaatha1.itx
+Language: Sanskrit
+Latest update: February 18, 2013
+Location: doc_vishhnu
+Proofread by: Sarbani Sarkar sarbani at srijagannath.org, corrected by  Avinash Sathaye
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: jagannatha
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Prayer to Lord Jagannatha 1
+Texttype: stotra
+Transliterated by: Sarbani Sarkar sarbani at srijagannath.org
+engtitle: Prayer to Lord Jagannatha 1
+itxtitle: jagannAthastotram 1
+title: जगन्नाथस्तोत्रम् १
 
-+++
+---
   
  श्रीजगन्नाथस्तोत्र १   
   

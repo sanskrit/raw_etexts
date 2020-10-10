@@ -1,23 +1,23 @@
-+++
-"Text title" = "durgAstavaH"
-"File name" = "durgAstavaH.itx"
-itxtitle = "durgAstavaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "durgAstavaH"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, durgA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गास्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, durgA
+File name: durgAstavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAstavaH
+engtitle: durgAstavaH
+itxtitle: durgAstavaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: दुर्गास्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीदुर्गास्तवः   
 एतावन्तं समयं सर्वापद्भ्योऽपि रक्षणं कृत्वा ।  

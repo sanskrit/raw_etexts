@@ -1,25 +1,26 @@
-+++
-"Text title" = "vilApakusumAnjaliH"
-"File name" = "vilApakusumAnjaliH.itx"
-itxtitle = "vilApakusumAnjaliH (raghunAthadAsagosvAmivirachitA)"
-engtitle = "vilApakusumAnjaliH"
-Category = "devii, radha, raghunAthadAsagosvAmin, stavAvalI, shataka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विलापकुसुमाञ्जलिः (रघुनाथदासगोस्वामिविरचिता)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: devii, radha, raghunAthadAsagosvAmin, stavAvalI, shataka, devI
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: vilApakusumAnjaliH.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vilApakusumAnjaliH
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: vilApakusumAnjaliH
+itxtitle: vilApakusumAnjaliH (raghunAthadAsagosvAmivirachitA)
+title: विलापकुसुमाञ्जलिः (रघुनाथदासगोस्वामिविरचिता)
 
-+++
+---
   
  श्रीविलापकुसुमाञ्जलिः   
 त्वं रूपमञ्जरि सखि प्रथिता पुरेऽस्मि-  
@@ -391,7 +392,7 @@ title = "विलापकुसुमाञ्जलिः (रघुनाथ
      मम मुदमतिबेलं धास्यसे सुव्रते किम् ॥ ८५॥  
   
 नानाविधैः पृथुलकाकुभरैरसह्यैः  
-     संप्रार्थितः प्रियतया बत माधवेन ।  
+     सम्प्रार्थितः प्रियतया बत माधवेन ।  
 त्वन्मानभङ्गविधये सदये जनोऽयं  
      व्यग्रः पतिष्यति कदा ललितापदान्ते ॥ ८६॥  
   
@@ -419,7 +420,7 @@ title = "विलापकुसुमाञ्जलिः (रघुनाथ
 देवि त्वं कच्छपिशिक्षां कदा मां कारयिष्यसि ॥ ९१॥  
   
 विहारैस्त्रुटितं हारं गुम्फितुं दयितं कदा ।  
-सखीनां लज्जया देवि संज्ञया मां निदेक्ष्यसि ॥ ९२॥  
+सखीनां लज्जया देवि सञ्ज्ञया मां निदेक्ष्यसि ॥ ९२॥  
   
 स्वमुखान्मन्मुखे देवि कदा ताम्बूलचर्वितम् ।  
 स्नेहात्सर्वदिशे वीक्ष्य समये त्वं प्रदास्यसि ॥ ९३॥  

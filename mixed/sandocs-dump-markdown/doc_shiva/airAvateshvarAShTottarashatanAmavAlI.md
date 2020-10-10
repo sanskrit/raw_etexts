@@ -1,24 +1,24 @@
-+++
-"Text title" = "airAvateshvarAShTottarashatanAmavAlI"
-"File name" = "airAvateshvarAShTottarashatanAmavAlI.itx"
-itxtitle = "airAvateshvarAShTottarashatanAmavAlI"
-engtitle = "airAvateshvarAShTottarashatanAmavAlI"
-Category = "aShTottarashatanAmAvalI, shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagaraja, PSA Easwaran"
-Source = "Sri Niyama Kshetra Mahatmyam"
-Acknowledge-Permission = "Matangi Publications, http://svradhakrishnasastri.in"
-"Latest update" = "May 4, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ऐरावतेश्वराष्टोत्तरशतनामवाली"
+---
+Acknowledge-Permission: Matangi Publications, http://svradhakrishnasastri.in
+Category: aShTottarashatanAmAvalI, shiva, nAmAvalI
+File name: airAvateshvarAShTottarashatanAmavAlI.itx
+Language: Sanskrit
+Latest update: May 4, 2016
+Location: doc_shiva
+Proofread by: Sivakumar Thyagaraja, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sri Niyama Kshetra Mahatmyam
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: airAvateshvarAShTottarashatanAmavAlI
+Texttype: nAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: airAvateshvarAShTottarashatanAmavAlI
+itxtitle: airAvateshvarAShTottarashatanAmavAlI
+title: ऐरावतेश्वराष्टोत्तरशतनामवाली
 
-+++
+---
   
  श्रीऐरावतेश्वराष्टोत्तरशतनामवालिः   
 ॐ श्रीगणेशाय नमः ।  

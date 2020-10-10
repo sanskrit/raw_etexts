@@ -1,24 +1,24 @@
-+++
-"Text title" = "AnandalaharI"
-"File name" = "aanandal.itx"
-itxtitle = "AnandalaharI"
-engtitle = "AnandalaharI"
-Category = "laharI, devii, dashamahAvidyA, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "S.V.Ganesan and P. P. Narayanaswami  (swami at math.mun.ca)"
-"Proofread by" = "S.V.Ganesan and P. P. Narayanaswami  (swami at math.mun.ca)"
-Indexextra = "(shaNkarAchArya (Meaning))"
-"Latest update" = "October 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आनन्दलहरी"
+---
+Author: Shankaracharya
+Category: laharI, devii, dashamahAvidyA, shankarAchArya, devI
+File name: aanandal.itx
+Indexextra: (shaNkarAchArya (Meaning))
+Language: Sanskrit
+Latest update: October 1, 2010
+Location: doc_devii
+Proofread by: S.V.Ganesan and P. P. Narayanaswami  (swami at math.mun.ca)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: AnandalaharI
+Transliterated by: S.V.Ganesan and P. P. Narayanaswami  (swami at math.mun.ca)
+engtitle: AnandalaharI
+itxtitle: AnandalaharI
+title: आनन्दलहरी
 
-+++
+---
   
  आनन्दलहरी   
   
@@ -30,7 +30,7 @@ title = "आनन्दलहरी"
 घृतक्षीरद्राक्षामधुमधुरिमा कैरपि पदैः  
 विशिष्यानाख्येयो भवति रसनामात्र विषयः ।  
 तथा ते सौन्दर्यं परमशिवदृङ्मात्रविषयः  
-कथंकारं ब्रूमः सकलनिगमागोचरगुणे ॥ २॥  
+कथङ्कारं ब्रूमः सकलनिगमागोचरगुणे ॥ २॥  
   
 मुखे ते ताम्बूलं नयनयुगळे कज्जलकला  
 ललाटे काश्मीरं विलसति गळे मौक्तिकलता ।  
@@ -47,7 +47,7 @@ title = "आनन्दलहरी"
 तडित्पीता पीताम्बरललितमञ्जीरसुभगा  
 ममापर्णा पूर्णा निरवधिसुखैरस्तु सुमुखी ॥ ५॥  
   
-हिमाद्रेः संभूता सुललितकरैः पल्लवयुता  
+हिमाद्रेः सम्भूता सुललितकरैः पल्लवयुता  
 सुपुष्पा मुक्ताभिर्भ्रमरकलिता चालकभरैः ।  
 कृतस्थाणुस्थाना कुचफलनता सूक्तिसरसा  
 रुजां हन्त्री गन्त्री विलसति चिदानन्दलतिका ॥ ६॥  
@@ -58,7 +58,7 @@ title = "आनन्दलहरी"
 पुराणोऽपि स्थाणुः फलति किल कैवल्यपदवीम् ॥ ७॥  
   
 विधात्री धर्माणां त्वमसि सकलाम्नायजननी  
-त्वमर्थानां मूलं धनदनमनीयांघ्रिकमले ।  
+त्वमर्थानां मूलं धनदनमनीयाङ्घ्रिकमले ।  
 त्वमादिः कामानां जननि कृतकन्दर्पविजये  
 सतां मुक्तेर्बीजं त्वमसि परमब्रह्ममहिषी ॥ ८॥  
   
@@ -78,7 +78,7 @@ title = "आनन्दलहरी"
 निरालम्बो लम्बोदरजननि कं यामि शरणम् ॥ ११॥  
   
 अयः स्पर्शे लग्नं सपदि लभते हेमपदवीं  
-यथा रथ्यापाथः शुचि भवति गंगौघमिलितम् ।  
+यथा रथ्यापाथः शुचि भवति गङ्गौघमिलितम् ।  
 तथा तत्तत्पापैरतिमलिनमन्तर्मम यदि  
 त्वयि प्रेम्णासक्तं कथमिव न जायेत विमलम् ॥ १२॥  
   
@@ -105,10 +105,10 @@ title = "आनन्दलहरी"
 अशेषब्रह्माण्डप्रलयविधिनैसर्गिकमतिः  
 श्मशानेष्वासीनः कृतभसितलेपः पशुपतिः ।  
 दधौ कण्ठे हालाहलमखिलभूगोलकृपया  
-भवत्याः संगत्याः फलमिति च कल्याणि कलये ॥ १७॥  
+भवत्याः सङ्गत्याः फलमिति च कल्याणि कलये ॥ १७॥  
   
 त्वदीयं सौन्दर्यं निरतिशयमालोक्य परया  
-भियैवासीद्गंगा जलमयतनुः शैलतनये ।  
+भियैवासीद्गङ्गा जलमयतनुः शैलतनये ।  
 तदेतस्यास्तस्माद्वदनकमलं वीक्ष्य कृपया  
 प्रतिष्ठामातन्वन्निजशिरसिवासेन गिरिशः ॥ १८॥  
   

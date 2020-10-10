@@ -1,25 +1,25 @@
-+++
-"Text title" = "Gangaprabandhah"
-"File name" = "gangAprabandhaH.itx"
-itxtitle = "gaNgAprabandhaH (dhIrajayadevakRitaH)"
-engtitle = "gangAprabandhaH"
-Category = "devii, devI, nadI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Dhira Jayadeva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Proofread by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Description/comments" = "Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty"
-Indexextra = "(Scan)"
-"Latest update" = "December 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाप्रबन्धः (धीरजयदेवकृइतः)"
+---
+Author: Dhira Jayadeva
+Category: devii, devI, nadI
+Description/comments: Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty
+File name: gangAprabandhaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 7, 2019
+Location: doc_devii
+Proofread by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangaprabandhah
+Transliterated by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+engtitle: gangAprabandhaH
+itxtitle: gaNgAprabandhaH (dhIrajayadevakRitaH)
+title: गण्गाप्रबन्धः (धीरजयदेवकृइतः)
 
-+++
+---
   
  गङ्गाप्रबन्धः   
 श्रीगणेशाय नमः ।  

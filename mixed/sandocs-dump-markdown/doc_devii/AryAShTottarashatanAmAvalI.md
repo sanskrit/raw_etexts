@@ -1,22 +1,22 @@
-+++
-"Text title" = "AryAShTottarashatanAmAvalI"
-"File name" = "AryAShTottarashatanAmAvalI.itx"
-itxtitle = "AryAShTottarashatanAmAvalI"
-engtitle = "AryAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda"
-"Proofread by" = "R. Harshananda"
-Indexextra = "(navadurgApUjA)"
-"Latest update" = "February 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आर्याष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI
+File name: AryAShTottarashatanAmAvalI.itx
+Indexextra: (navadurgApUjA)
+Language: Sanskrit
+Latest update: February 17, 2018
+Location: doc_devii
+Proofread by: R. Harshananda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: AryAShTottarashatanAmAvalI
+Transliterated by: R. Harshananda
+engtitle: AryAShTottarashatanAmAvalI
+itxtitle: AryAShTottarashatanAmAvalI
+title: आर्याष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीआर्याष्टोत्तरशतनामावली   
 अस्यश्री आर्यामहामन्त्रस्य मारीच काश्यप ऋषिः त्रिष्टुप्  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "madhurAShTakaM"
-"File name" = "madhurst.itx"
-itxtitle = "madhurAShTakam"
-engtitle = "madhurAShTakam"
-Category = "aShTaka, vishhnu, krishna, vallabhaachaarya, vishnu, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "vallabhaachaarya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Latest update" = "August 19, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मधुराष्टकम्"
+---
+Author: vallabhaachaarya
+Category: aShTaka, vishhnu, krishna, vallabhaachaarya, vishnu, puShTimArgIya
+File name: madhurst.itx
+Language: Sanskrit
+Latest update: August 19, 2004
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: madhurAShTakaM
+Transliterated by: NA
+engtitle: madhurAShTakam
+itxtitle: madhurAShTakam
+title: मधुराष्टकम्
 
-+++
+---
   
  मधुराष्टकं   
   

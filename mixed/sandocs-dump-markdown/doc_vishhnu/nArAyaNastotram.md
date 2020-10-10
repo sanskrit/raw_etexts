@@ -1,24 +1,24 @@
-+++
-"Text title" = "nArAyaNastotram"
-"File name" = "naaraayanastotra.itx"
-itxtitle = "nArAyaNastotram"
-engtitle = "nArAyaNastotram"
-Category = "vishhnu, narayana, stotra, shankarAchArya, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "narayana"
-Texttype = "stotra"
-Author = "ShankarAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "April 15, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणस्तोत्रम्"
+---
+Author: ShankarAchArya
+Category: vishhnu, narayana, stotra, shankarAchArya, vishnu
+File name: naaraayanastotra.itx
+Language: Sanskrit
+Latest update: April 15, 2018
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: narayana
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nArAyaNastotram
+Texttype: stotra
+engtitle: nArAyaNastotram
+itxtitle: nArAyaNastotram
+title: नारायणस्तोत्रम्
 
-+++
+---
   
  नारायणस्तोत्रम्   
   

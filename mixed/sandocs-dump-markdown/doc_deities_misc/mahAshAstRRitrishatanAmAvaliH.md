@@ -1,22 +1,22 @@
-+++
-"Text title" = "mahAshAstRRitrishatanAmAvaliH"
-"File name" = "mahAshAstRRitrishatanAmAvaliH.itx"
-itxtitle = "mahAshAstRRitrishatanAmAvaliH"
-engtitle = "mahAshAstRRitrishatanAmAvaliH"
-Category = "deities_misc, ayyappa, shatInAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyapa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाशास्तृत्रिशतनामावलिः"
+---
+Category: deities_misc, ayyappa, shatInAmAvalI
+File name: mahAshAstRRitrishatanAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyapa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: mahAshAstRRitrishatanAmAvaliH
+engtitle: mahAshAstRRitrishatanAmAvaliH
+itxtitle: mahAshAstRRitrishatanAmAvaliH
+title: महाशास्तृत्रिशतनामावलिः
 
-+++
+---
   
  महाशास्तृत्रिशतनामावलिः   
   

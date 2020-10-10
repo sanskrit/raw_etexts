@@ -1,21 +1,21 @@
-+++
-"Text title" = "jitantestotram"
-"File name" = "jitamtestotram.itx"
-itxtitle = "jitantestotram"
-engtitle = "jitantestotram"
-Category = "vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Source = "Pancharatra"
-"Latest update" = "January 3, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जितन्तेस्तोत्रम्"
+---
+Category: vishhnu, vishnu
+File name: jitamtestotram.itx
+Language: Sanskrit
+Latest update: January 3, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Pancharatra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: jitantestotram
+engtitle: jitantestotram
+itxtitle: jitantestotram
+title: जितन्तेस्तोत्रम्
 
-+++
+---
   
  जितं ते स्तोत्रम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Mahakala KakarAdi Ashtottarashatanama Stotram"
-"File name" = "mahAkAlakakArAdyaShTottarashatanAmastotram.itx"
-itxtitle = "mahAkAlakakArAdyaShTottarashatanAmastotram"
-engtitle = "mahAkAlakakArAdyaShTottarashatanAmastotram"
-Category = "shiva, aShTottarashatanAma"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "See corresponding Namavali"
-"Latest update" = "September 28, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालककाराद्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: shiva, aShTottarashatanAma
+Description/comments: See corresponding Namavali
+File name: mahAkAlakakArAdyaShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: September 28, 2019
+Location: doc_shiva
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mahakala KakarAdi Ashtottarashatanama Stotram
+Transliterated by: NA
+engtitle: mahAkAlakakArAdyaShTottarashatanAmastotram
+itxtitle: mahAkAlakakArAdyaShTottarashatanAmastotram
+title: महाकालककाराद्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीमहाकालककाराद्यष्टोत्तरशतनामस्तोत्रम्   
 कैलासशिखरे रम्ये सुखासीनं जगद्गुरुम् ।  
@@ -93,7 +93,7 @@ title = "महाकालककाराद्यष्टोत्तरश�
 कुलप्रियः कुलधरः कुलाधारः कुलेश्वरः ।  
 कौलव्रतधरः कर्म कामकेलिप्रियः क्रतुः ॥ ४ ॥  
   
-कलह ह्रींमन्त्रवर्णः कलह ह्रींस्वरूपिणः ।  
+कलह ह्रीम्मन्त्रवर्णः कलह ह्रींस्वरूपिणः ।  
 कङ्कालभैरवो देवः कङ्कालभैरवेश्वरः ॥ ५ ॥  
   
 कादम्बरीपानरतः तथा कादम्बरीकलः ।  

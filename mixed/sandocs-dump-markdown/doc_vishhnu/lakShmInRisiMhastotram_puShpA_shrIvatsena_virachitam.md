@@ -1,25 +1,25 @@
-+++
-"Text title" = "lakShmInRisiMhastotram"
-"File name" = "lakShmInRisiMhastotram.itx"
-itxtitle = "lakShmInRisiMhastotram (puShpA shrIvatsena virachitam)"
-engtitle = "lakShmInRisiMhastotram"
-Category = "vishhnu, puShpAshrIvatsan, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनृइसिंहस्तोत्रम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: vishhnu, puShpAshrIvatsan, vishnu
+File name: lakShmInRisiMhastotram.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 28, 2017
+Location: doc_vishhnu
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: lakShmInRisiMhastotram
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: lakShmInRisiMhastotram
+itxtitle: lakShmInRisiMhastotram (puShpA shrIvatsena virachitam)
+title: लक्ष्मीनृइसिंहस्तोत्रम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  श्रीलक्ष्मीनृसिंहस्तोत्रम्   
                  ॐ  

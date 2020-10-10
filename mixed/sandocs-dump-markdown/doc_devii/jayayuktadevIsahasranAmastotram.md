@@ -1,24 +1,25 @@
-+++
-"Text title" = "jayayuktadevIsahasranAmastotram"
-"File name" = "jayayuktadevIsahasranAmastotram.itx"
-itxtitle = "jayayuktadevIsahasranAmastotram"
-engtitle = "jayayuktadevIsahasranAmastotram"
-Category = "sahasranAma, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Description-comments = "From Hindi Book Bhagvat Puran Samkshipta Shrimaddevibhagavat, pages 5-12"
-Indexextra = "(Samkshipta Bhagvat)"
-"Latest update" = "July 15, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जययुक्तदेवीसहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, devii, otherforms, devI
+Description-comments: From Hindi Book Bhagvat Puran Samkshipta Shrimaddevibhagavat,
+  pages 5-12
+File name: jayayuktadevIsahasranAmastotram.itx
+Indexextra: (Samkshipta Bhagvat)
+Language: Sanskrit
+Latest update: July 15, 2017
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jayayuktadevIsahasranAmastotram
+Transliterated by: DPD
+engtitle: jayayuktadevIsahasranAmastotram
+itxtitle: jayayuktadevIsahasranAmastotram
+title: जययुक्तदेवीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  जययुक्त श्रीदेव्यष्टोत्तरसहस्रनामस्तोत्रम्   
   

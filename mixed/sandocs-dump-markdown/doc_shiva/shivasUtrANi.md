@@ -1,21 +1,21 @@
-+++
-"Text title" = "shivasUtrANi"
-"File name" = "shivasutra.itx"
-itxtitle = "shivasUtrANi"
-engtitle = "Siva Sutras"
-Category = "sUtra, shiva, svara"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "1 shaambhavopaaya 2 shaaktopaaya 3 aaNavopaaya"
-"Latest update" = "1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसूत्राणि"
+---
+Category: sUtra, shiva, svara
+Description-comments: 1 shaambhavopaaya 2 shaaktopaaya 3 aaNavopaaya
+File name: shivasutra.itx
+Language: Sanskrit
+Latest update: '1999'
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivasUtrANi
+Texttype: svara
+engtitle: Siva Sutras
+itxtitle: shivasUtrANi
+title: शिवसूत्राणि
 
-+++
+---
   
  श्रीशिवसूत्राणि   
   
@@ -317,9 +317,9 @@ title = "शिवसूत्राणि"
   
 अभिलाषात् बहिः गतिः संवाह्यस्य  
   
-तदारूढप्रमितेस्तत्क्षयाज्जीवसंक्षयः ॥ ४१॥  
+तदारूढप्रमितेस्तत्क्षयाज्जीवसङ्क्षयः ॥ ४१॥  
   
-तत् आरूढ प्रमितेः तत् क्षयात् जीव संक्षयः  
+तत् आरूढ प्रमितेः तत् क्षयात् जीव सङ्क्षयः  
   
 भूतकञ्चुकी तदा विमुक्तो भूयः पतिसमः परः ॥ ४२॥  
   

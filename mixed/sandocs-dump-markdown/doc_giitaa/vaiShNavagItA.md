@@ -1,22 +1,22 @@
-+++
-"Text title" = "vaiShNavagItA"
-"File name" = "vaiShNavagItA.itx"
-itxtitle = "vaiShNavagItA"
-engtitle = "vaiShNavagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Bengali)"
-"Latest update" = "May 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वैष्णवगीता"
+---
+Category: gItA, giitaa
+File name: vaiShNavagItA.itx
+Indexextra: (Bengali)
+Language: Sanskrit
+Latest update: May 18, 2013
+Location: doc_giitaa
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: vaiShNavagItA
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: vaiShNavagItA
+itxtitle: vaiShNavagItA
+title: वैष्णवगीता
 
-+++
+---
   
  वैष्णवगीता   
   

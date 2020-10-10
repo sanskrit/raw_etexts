@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Veda Vyasa Mantras"
-"File name" = "vedavyAsamantrAH.itx"
-itxtitle = "vedavyAsamantrAH"
-engtitle = "vedavyAsamantrAH"
-Category = "deities_misc, gurudev, mantra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वेदव्यासमन्त्राः"
+---
+Category: deities_misc, gurudev, mantra
+File name: vedavyAsamantrAH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Veda Vyasa Mantras
+Transliterated by: Krishnananda Achar
+engtitle: vedavyAsamantrAH
+itxtitle: vedavyAsamantrAH
+title: वेदव्यासमन्त्राः
 
-+++
+---
   
  श्रीवेदव्यासमन्त्राः   
  १. श्रीवेदव्यासमन्त्रस्य ब्रह्माऋषिः । गायत्री छन्दः ।  

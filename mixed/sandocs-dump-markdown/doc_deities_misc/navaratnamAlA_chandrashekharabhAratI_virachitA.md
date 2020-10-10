@@ -1,25 +1,25 @@
-+++
-"Text title" = "Navaratnamala"
-"File name" = "navaratnamAlA.itx"
-itxtitle = "navaratnamAlA (chandrashekharabhAratI virachitA)"
-engtitle = "navaratnamAlA"
-Category = "deities_misc, gurudev, chandrashekharabhAratI, nava"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "chandrashekharabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Sri Gururaja Sukti Malika"
-Indexextra = "(Translation)"
-"Latest update" = "January 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवरत्नमाला (चन्द्रशेखरभारती विरचिता)"
+---
+Author: chandrashekharabhAratI
+Category: deities_misc, gurudev, chandrashekharabhAratI, nava
+Description/comments: Sri Gururaja Sukti Malika
+File name: navaratnamAlA.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: January 1, 2020
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Navaratnamala
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: navaratnamAlA
+itxtitle: navaratnamAlA (chandrashekharabhAratI virachitA)
+title: नवरत्नमाला (चन्द्रशेखरभारती विरचिता)
 
-+++
+---
   
  नवरत्नमाला   
 लोकं समस्तमपि मोहमहान्धकार-  

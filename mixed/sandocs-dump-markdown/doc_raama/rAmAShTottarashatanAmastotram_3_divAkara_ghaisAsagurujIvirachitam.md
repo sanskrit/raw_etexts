@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAmAShTottarashatanAmastotram 3"
-"File name" = "rAmAShTottarashatanAmastotram3.itx"
-itxtitle = "rAmAShTottarashatanAmastotram 3 (divAkara ghaisAsagurujIvirachitam)"
-engtitle = "rAmAShTottarashatanAmastotram 3"
-Category = "raama, aShTottarashatanAma"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Dinakar Ghaisas Guruji"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टोत्तरशतनामस्तोत्रम् ३ (दिवाकर घैसासगुरुजीविरचितम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: Dinakar Ghaisas Guruji
+Category: raama, aShTottarashatanAma
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: rAmAShTottarashatanAmastotram3.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmAShTottarashatanAmastotram 3
+engtitle: rAmAShTottarashatanAmastotram 3
+itxtitle: rAmAShTottarashatanAmastotram 3 (divAkara ghaisAsagurujIvirachitam)
+title: रामाष्टोत्तरशतनामस्तोत्रम् ३ (दिवाकर घैसासगुरुजीविरचितम्)
 
-+++
+---
   
  श्रीरामाष्टोत्तरशतनामस्तोत्रम् ३   
   

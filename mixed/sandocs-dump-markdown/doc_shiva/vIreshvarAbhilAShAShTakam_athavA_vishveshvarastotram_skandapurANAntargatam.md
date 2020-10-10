@@ -1,21 +1,21 @@
-+++
-"Text title" = "vIreshvarAbhilAShAShTakam"
-"File name" = "vIreshvarAbhilAShAShTakam.itx"
-itxtitle = "vIreshvarAbhilAShAShTakam athavA vishveshvarastotram (skandapurANAntargatam)"
-engtitle = "vIreshvarAbhilAShAShTakam"
-Category = "aShTaka, shiva, vedanta"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "anonymous456an at gmail.com"
-"Proofread by" = "anonymous456an at gmail.com"
-"Latest update" = "June 16, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वीरेश्वराभिलाषाष्टकम् अथवा विश्वेश्वरस्तोत्रम् (स्कन्दपुराणान्तर्गतम्)"
+---
+Category: aShTaka, shiva, vedanta
+File name: vIreshvarAbhilAShAShTakam.itx
+Language: Sanskrit
+Latest update: June 16, 2017
+Location: doc_shiva
+Proofread by: anonymous456an at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: vIreshvarAbhilAShAShTakam
+Transliterated by: anonymous456an at gmail.com
+engtitle: vIreshvarAbhilAShAShTakam
+itxtitle: vIreshvarAbhilAShAShTakam athavA vishveshvarastotram (skandapurANAntargatam)
+title: वीरेश्वराभिलाषाष्टकम् अथवा विश्वेश्वरस्तोत्रम् (स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  वीरेश्वराभिलाषाष्टकम् अथवा विश्वेश्वरस्तोत्रम्   
   

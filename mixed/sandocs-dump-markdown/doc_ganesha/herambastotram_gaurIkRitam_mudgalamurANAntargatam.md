@@ -1,24 +1,24 @@
-+++
-"Text title" = "gaurIkRitaM herambastotram"
-"File name" = "gaurikRitaMherambastotram.itx"
-itxtitle = "herambastotram (gaurIkRitam) (mudgalamurANAntargatam)"
-engtitle = "gaurIkRitaM herambastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "mudgalapurANe"
-"Latest update" = "September 16, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हेरम्बस्तोत्रम् (गौरीकृइतम्) (मुद्गलमुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: mudgalapurANe
+File name: gaurikRitaMherambastotram.itx
+Language: Sanskrit
+Latest update: September 16, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaurIkRitaM herambastotram
+Texttype: stotra
+Transliterated by: 'Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)'
+engtitle: gaurIkRitaM herambastotram
+itxtitle: herambastotram (gaurIkRitam) (mudgalamurANAntargatam)
+title: हेरम्बस्तोत्रम् (गौरीकृइतम्) (मुद्गलमुराणान्तर्गतम्)
 
-+++
+---
   
  हेरम्बस्तोत्रं गौरिकृतम्   
   

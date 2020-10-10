@@ -1,22 +1,22 @@
-+++
-"Text title" = "gAyatrItattvastotram"
-"File name" = "gAyatrItattvastotram.itx"
-itxtitle = "gAyatrItattvastotram (vedasAre)"
-engtitle = "gAyatrItattvastotram"
-Category = "devii, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "February 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीतत्त्वस्तोत्रम् (वेदसारे)"
+---
+Category: devii, gAyatrI, devI
+File name: gAyatrItattvastotram.itx
+Language: Sanskrit
+Latest update: February 4, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrItattvastotram
+Transliterated by: NA
+engtitle: gAyatrItattvastotram
+itxtitle: gAyatrItattvastotram (vedasAre)
+title: गायत्रीतत्त्वस्तोत्रम् (वेदसारे)
 
-+++
+---
   
  गायत्रीतत्त्वस्तोत्रम्   
   

@@ -3,7 +3,6 @@ title: 030 यज्ञरक्षणम्
 title_english: 030 rAma safeguards vishvAmitra s vedic ritual
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-030-Yagna_Samrakshnam.mp3"></div>
 
 अथ तौ देशकालज्ञौ राजपुत्रावरिन्दमौ।  
@@ -69,4 +68,4 @@ title_english: 030 rAma safeguards vishvAmitra s vedic ritual
 निरीतिका दिशो दृष्ट्वा काकुत्स्थमिदमब्रवीत् ॥ 1.30.23 ॥   
 कृतार्थोऽस्मि महाबाहो कृतं गुरुवचस्त्वया।  
 सिद्धाश्रममिदं सत्यं कृतं राम महायशः ॥ 1.30.24 ॥   
-स हि रामम् प्रशस्यैवन् ताभ्यां संध्याम् उपागमत् ॥ १-३०-२६  
+स हि रामम् प्रशस्यैवन् ताभ्यां सन्ध्याम् उपागमत् ॥ १-३०-२६  

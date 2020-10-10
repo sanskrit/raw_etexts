@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vighnavinashakastotram"
-"File name" = "vighnavinAshakastotram.itx"
-itxtitle = "vighnavinAshakastotram"
-engtitle = "Vighnavinashakastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sumit"
-"Proofread by" = "Sumit"
-"Latest update" = "June 1, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विघ्नविनाशकस्तोत्रम्"
+---
+Author: Traditional
+Category: ganesha, stotra
+File name: vighnavinAshakastotram.itx
+Language: Sanskrit
+Latest update: June 1, 2017
+Location: doc_ganesha
+Proofread by: Sumit
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Vighnavinashakastotram
+Texttype: stotra
+Transliterated by: Sumit
+engtitle: Vighnavinashakastotram
+itxtitle: vighnavinAshakastotram
+title: विघ्नविनाशकस्तोत्रम्
 
-+++
+---
   
  विघ्नविनाशकस्तोत्रम्   
 ईशानो ढुण्ढिराजो गणपतिरखिलाधौघनाशो वरेण्यो  

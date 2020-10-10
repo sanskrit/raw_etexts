@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ganesha Stava by Panchadevas"
-"File name" = "gaNeshastavaHpanchadevaiHkRRitaH.itx"
-itxtitle = "gaNeshastavaH panchadevaiHkRitaH (mudgalapurANAntargataH)"
-engtitle = "gaNeshastavaH panchadevaiHkRitaH"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 15"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "गणेशस्तवः पञ्चदेवैःकृइतः (मुद्गलपुराणान्तर्गतः)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 15
+File name: gaNeshastavaHpanchadevaiHkRRitaH.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha Stava by Panchadevas
+Transliterated by: NA
+engtitle: gaNeshastavaH panchadevaiHkRitaH
+itxtitle: gaNeshastavaH panchadevaiHkRitaH (mudgalapurANAntargataH)
+title: गणेशस्तवः पञ्चदेवैःकृइतः (मुद्गलपुराणान्तर्गतः)
 
-+++
+---
   
  गणेशस्तवः पञ्चदेवैः कृतः   
 श्रीगणेशाय नमः ।  

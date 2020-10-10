@@ -1,23 +1,24 @@
-+++
-"Text title" = "sarasvatIstotram"
-"File name" = "sarasvatistotrabrahma.itx"
-itxtitle = "sarasvatIstotram (brahmavirachitam)"
-engtitle = "sarasvatIstotram"
-Category = "devii, sarasvatI, stotra, vyAsa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "stotra"
-Author = "Brahmadeva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, Sri Raghava Kiran Mukku msrkiran at gmail.com"
-"Latest update" = "June 30, 2004; December 31, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तोत्रम् (ब्रह्मविरचितम्)"
+---
+Author: Brahmadeva
+Category: devii, sarasvatI, stotra, vyAsa, devI
+File name: sarasvatistotrabrahma.itx
+Language: Sanskrit
+Latest update: June 30, 2004; December 31, 2018
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, Sri Raghava Kiran Mukku
+  msrkiran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIstotram
+Texttype: stotra
+engtitle: sarasvatIstotram
+itxtitle: sarasvatIstotram (brahmavirachitam)
+title: सरस्वतीस्तोत्रम् (ब्रह्मविरचितम्)
 
-+++
+---
   
  श्रीसरस्वतीस्तोत्रम्   
 श्रीगणेशाय नमः ।  
@@ -44,7 +45,7 @@ title = "सरस्वतीस्तोत्रम् (ब्रह्मव
 सा मां पातु सरस्वती भगवती निःशेषजाड्यापहा ॥ ४॥  
   
 ह्रीं ह्रीं हृद्यैकबीजे शशिरुचिकमले कल्पविस्पष्टशोभे  
-भव्ये भव्यानुकूले कुमतिवनदवे विश्ववन्द्यांघ्रिपद्मे ।  
+भव्ये भव्यानुकूले कुमतिवनदवे विश्ववन्द्याङ्घ्रिपद्मे ।  
 पद्मे पद्मोपविष्टे प्रणतजनमनोमोदसम्पादयित्रि  
 प्रोत्फुल्लज्ञानकूटे हरिनिजदयिते देवि संसारसारे ॥ ५॥  
   
@@ -86,7 +87,7 @@ title = "सरस्वतीस्तोत्रम् (ब्रह्मव
 ब्रह्मचारी व्रती मौनी त्रयोदश्यां निरामिषः ।  
 सारस्वतो जनः पाठात्सकृदिष्टार्थलाभवान् ॥ १३॥  
   
-पक्षद्वये त्रयोदश्यामेकविंशतिसंख्यया ।  
+पक्षद्वये त्रयोदश्यामेकविंशतिसङ्ख्यया ।  
 अविच्छिन्नः पठेद्धीमान्ध्यात्वा देवीं सरस्वतीम् ॥ १४॥  
   
 सर्वपापविनिर्मुक्तः सुभगो लोकविश्रुतः ।  

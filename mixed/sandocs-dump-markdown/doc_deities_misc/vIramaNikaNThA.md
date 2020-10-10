@@ -1,22 +1,22 @@
-+++
-"Text title" = "viiramaNikaNThaa"
-"File name" = "viiramanikantha.itx"
-itxtitle = "vIramaNikaNThA"
-engtitle = "vIramaNikaNThA"
-Category = "bhajana, deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "November 24, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वीरमणिकण्ठा"
+---
+Category: bhajana, deities_misc, stotra
+File name: viiramanikantha.itx
+Language: Sanskrit
+Latest update: November 24, 2006
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: viiramaNikaNThaa
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: vIramaNikaNThA
+itxtitle: vIramaNikaNThA
+title: वीरमणिकण्ठा
 
-+++
+---
   
  वीरमणिकण्ठा   
   

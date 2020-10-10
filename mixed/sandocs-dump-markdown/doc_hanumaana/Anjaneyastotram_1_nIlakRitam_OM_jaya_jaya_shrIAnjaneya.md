@@ -1,22 +1,22 @@
-+++
-"Text title" = "Anjaneya Stotram 1 Nilakrita"
-"File name" = "AnjaneyastotramnIlakRita.itx"
-itxtitle = "Anjaneyastotram 1 (nIlakRitam OM jaya jaya shrIAnjaneya)"
-engtitle = "Anjaneyastotram 1 nIlakRita"
-Category = "hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com"
-Source = "ParAsharasamhita Hanumachcharitra Vol 1 page 24"
-"Latest update" = "July 16, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आञ्जनेयस्तोत्रम् १ (नीलकृइतम् ॐ जय जय श्रीआञ्जनेय)"
+---
+Category: hanumaana, hanuman
+File name: AnjaneyastotramnIlakRita.itx
+Language: Sanskrit
+Latest update: July 16, 2016
+Location: doc_hanumaana
+Proofread by: Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: ParAsharasamhita Hanumachcharitra Vol 1 page 24
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: Anjaneya Stotram 1 Nilakrita
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: Anjaneyastotram 1 nIlakRita
+itxtitle: Anjaneyastotram 1 (nIlakRitam OM jaya jaya shrIAnjaneya)
+title: आञ्जनेयस्तोत्रम् १ (नीलकृइतम् ॐ जय जय श्रीआञ्जनेय)
 
-+++
+---
   
  नीलकृत आञ्जनेयस्तोत्रम्   
 ॐ जय जय । श्रीआञ्जनेय । केसरीप्रियनन्दन । वायुकुमार ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "puruShArthadashakam by bhartRihari"
-"File name" = "puruShArthadashakambhartRihari.itx"
-itxtitle = "puruShArthadashakam (bhartRiharipraNItam)"
-engtitle = "puruShArthadashakam by bhartRihari"
-Category = "major_works, dashaka, bhartrihari"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Bhartrihari"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "March 31, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पुरुषार्थदशकम् (भर्तृइहरिप्रणीतम्)"
+---
+Author: Bhartrihari
+Category: major_works, dashaka, bhartrihari
+File name: puruShArthadashakambhartRihari.itx
+Language: Sanskrit
+Latest update: March 31, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: puruShArthadashakam by bhartRihari
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: puruShArthadashakam by bhartRihari
+itxtitle: puruShArthadashakam (bhartRiharipraNItam)
+title: पुरुषार्थदशकम् (भर्तृइहरिप्रणीतम्)
 
-+++
+---
   
  भर्तृहरिप्रणीतं पुरुषार्थदशकम्   
 तस्मादनन्तमजरं परमं विकासि  

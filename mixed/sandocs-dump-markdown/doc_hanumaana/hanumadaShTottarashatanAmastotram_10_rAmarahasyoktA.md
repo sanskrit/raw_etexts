@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Hanumad Ashtottarashatanama Stotram from Ramarahasya"
-"File name" = "hanumadaShTottarashatanAmastotram10.itx"
-itxtitle = "hanumadaShTottarashatanAmastotram 10 (rAmarahasyoktA)"
-engtitle = "hanumadaShTottarashatanAmastotram 10"
-Category = "hanumaana, aShTottarashatanAma"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Proofread by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Description/comments" = "from Ramarahasya, in Rama Bhakti Kalpalata Part 1"
-Indexextra = "(Scan)"
-"Latest update" = "April 25, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमदष्टोत्तरशतनामस्तोत्रम् १० (रामरहस्योक्ता)"
+---
+Category: hanumaana, aShTottarashatanAma
+Description/comments: from Ramarahasya, in Rama Bhakti Kalpalata Part 1
+File name: hanumadaShTottarashatanAmastotram10.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 25, 2019
+Location: doc_hanumaana
+Proofread by: Shree Devi Kumar shreeshrii at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: Shri Hanumad Ashtottarashatanama Stotram from Ramarahasya
+Transliterated by: Shree Devi Kumar shreeshrii at gmail.com
+engtitle: hanumadaShTottarashatanAmastotram 10
+itxtitle: hanumadaShTottarashatanAmastotram 10 (rAmarahasyoktA)
+title: हनुमदष्टोत्तरशतनामस्तोत्रम् १० (रामरहस्योक्ता)
 
-+++
+---
   
  श्रीरामरहस्योक्तं श्रीहनुमदष्टोत्तरशतनामस्तोत्रम्   
 । श्रीसीतारामौ विजयेते ।  
@@ -82,7 +82,7 @@ title = "हनुमदष्टोत्तरशतनामस्तोत�
 रामस्वरूपविलसन्मानसो रामवल्लभः ॥ २०॥  
   
 इत्थमष्टोत्तरशतं नाम्नां वातात्मजस्य यः ।  
-अनुसन्ध्यं पठेत्तस्य मारुतिस्संप्रसीदति ॥ २१॥  
+अनुसन्ध्यं पठेत्तस्य मारुतिस्सम्प्रसीदति ॥ २१॥  
   
 प्रसन्ने मारुतौ रामो भुक्तिमुक्ती प्रयच्छति ।  
   

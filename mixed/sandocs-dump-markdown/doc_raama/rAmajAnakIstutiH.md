@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAmajAnakIstutiH"
-"File name" = "rAmajAnakIstutiH.itx"
-itxtitle = "rAmajAnakIstutiH"
-engtitle = "rAmajAnakIstutiH"
-Category = "raama, devii, sItA, rAmAnujasampradAya, devI"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामजानकीस्तुतिः"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: raama, devii, sItA, rAmAnujasampradAya, devI
+File name: rAmajAnakIstutiH.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmajAnakIstutiH
+engtitle: rAmajAnakIstutiH
+itxtitle: rAmajAnakIstutiH
+title: रामजानकीस्तुतिः
 
-+++
+---
   
  श्रीरामजानकीस्तुतिः   
   

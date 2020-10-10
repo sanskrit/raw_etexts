@@ -1,23 +1,23 @@
-+++
-"Text title" = "viThThalahRRidayam"
-"File name" = "viThThalahRRidayam.itx"
-itxtitle = "viThThalahRidayam"
-engtitle = "viThThalahRRidayam"
-Category = "vishhnu, hRidaya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विठ्ठलहृइदयम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, hRidaya
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viThThalahRRidayam.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viThThalahRRidayam
+engtitle: viThThalahRRidayam
+itxtitle: viThThalahRidayam
+title: विठ्ठलहृइदयम्
 
-+++
+---
   
  श्रीविठ्ठलहृदयम्   
   

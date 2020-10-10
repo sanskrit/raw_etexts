@@ -1,21 +1,21 @@
-+++
-"Text title" = "badarInAthasuprabhAtam"
-"File name" = "badarInAthasuprabhAtam.itx"
-itxtitle = "badarInAthasuprabhAtam (muralIdharashAstrivirachitam)"
-engtitle = "badarInAthasuprabhAtam"
-Category = "shiva, suprabhAta"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nidhish Aaryan nidhish.184 at gmail.com"
-"Proofread by" = "Nidhish Aaryan nidhish.184 at gmail.com"
-"Latest update" = "August 28, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बदरीनाथसुप्रभातम् (मुरलीधरशास्त्रिविरचितम्)"
+---
+Category: shiva, suprabhAta
+File name: badarInAthasuprabhAtam.itx
+Language: Sanskrit
+Latest update: August 28, 2018
+Location: doc_shiva
+Proofread by: Nidhish Aaryan nidhish.184 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: badarInAthasuprabhAtam
+Transliterated by: Nidhish Aaryan nidhish.184 at gmail.com
+engtitle: badarInAthasuprabhAtam
+itxtitle: badarInAthasuprabhAtam (muralIdharashAstrivirachitam)
+title: बदरीनाथसुप्रभातम् (मुरलीधरशास्त्रिविरचितम्)
 
-+++
+---
   
  श्रीबदरीनाथ सुप्रभातम्   
 लक्ष्मीविलास नरसिंह गुणाकरेश  

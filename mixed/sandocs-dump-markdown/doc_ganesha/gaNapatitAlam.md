@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNapatitAlam"
-"File name" = "gaNapatitAlam.itx"
-itxtitle = "gaNapatitAlam"
-engtitle = "gaNapatitAlam"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com, PSA Easwaran"
-"Proofread by" = "Malleswara Rao Yellapragada, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Video 1, 2, 3, 4)"
-"Latest update" = "March 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपतितालम्"
+---
+Category: ganesha
+File name: gaNapatitAlam.itx
+Indexextra: (Video 1, 2, 3, 4)
+Language: Sanskrit
+Latest update: March 17, 2019
+Location: doc_ganesha
+Proofread by: Malleswara Rao Yellapragada, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNapatitAlam
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com, PSA Easwaran
+engtitle: gaNapatitAlam
+itxtitle: gaNapatitAlam
+title: गणपतितालम्
 
-+++
+---
   
  श्रीगणपतितालम्   
 (तत्पुरुषाय विद्महे वक्रतुण्डाय धीमहि  
@@ -56,9 +56,9 @@ title = "गणपतितालम्"
 कटतटविगलितमदजलजलधितगणपतिवाद्यमिदं  
 तत्तत् गणपतिवाद्यमिदं, तत्तत् गणपतिवाद्यमिदम् ॥ ९॥  
   
-तत्गदिं नं तरिगु तरिजनकु कुकुत्तद्दि कुकुतकिट डिंडिंगु डिगुनकुकुतद्दि  
+तत्गदिं नं तरिगु तरिजनकु कुकुत्तद्दि कुकुतकिट डिण्डिङ्गु डिगुनकुकुतद्दि  
 तत्त झं झं तरित ! त झं झं तरित तकतझं झं तरित ।  
-त झंझं तरित तरिदणत तरजुणुत जुणुदिमि टकटदिकुतरिगिटतों  
+त झञ्झं तरित तरिदणत तरजुणुत जुणुदिमि टकटदिकुतरिगिटतों  
 टकि टकटदिकुतरिगिटतों टकि टकुदिकुतरिगिटतों तां ॥ १०॥  
   
 तक-तकिट-तकतकिट-तक-तकिटततों,  

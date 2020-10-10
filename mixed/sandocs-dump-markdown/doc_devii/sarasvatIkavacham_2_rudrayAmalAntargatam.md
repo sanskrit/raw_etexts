@@ -1,23 +1,23 @@
-+++
-"Text title" = "sarasvatIkavacham rudrayAmala"
-"File name" = "sarasvatIkavachamrudrayAmala.itx"
-itxtitle = "sarasvatIkavacham 2 (rudrayAmalAntargatam)"
-engtitle = "Sarasvatikavacha"
-Category = "kavacha, devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD, NA"
-Description-comments = "rudrayAmalatantra dashavidyArahasye"
-"Latest update" = "June 1, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीकवचम् २ (रुद्रयामलान्तर्गतम्)"
+---
+Category: kavacha, devii, sarasvatI, devI
+Description-comments: rudrayAmalatantra dashavidyArahasye
+File name: sarasvatIkavachamrudrayAmala.itx
+Language: Sanskrit
+Latest update: June 1, 2017
+Location: doc_devii
+Proofread by: DPD, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIkavacham rudrayAmala
+Transliterated by: DPD
+engtitle: Sarasvatikavacha
+itxtitle: sarasvatIkavacham 2 (rudrayAmalAntargatam)
+title: सरस्वतीकवचम् २ (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीसरस्वतीकवचम्   
   

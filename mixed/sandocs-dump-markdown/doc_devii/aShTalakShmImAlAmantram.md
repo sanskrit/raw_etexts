@@ -1,22 +1,22 @@
-+++
-"Text title" = "aShTalakShmImAlAmantram"
-"File name" = "aShTalakShmImAlAmantram.itx"
-itxtitle = "aShTalakShmImAlAmantram"
-engtitle = "aShTalakShmImAlAmantram"
-Category = "mAlAmantra, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras"
-"Latest update" = "May 5, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अष्टलक्ष्मीमालामन्त्रम्"
+---
+Category: mAlAmantra, devii, lakShmI, devI
+Description/comments: shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras
+File name: aShTalakShmImAlAmantram.itx
+Language: Sanskrit
+Latest update: May 5, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: aShTalakShmImAlAmantram
+engtitle: aShTalakShmImAlAmantram
+itxtitle: aShTalakShmImAlAmantram
+title: अष्टलक्ष्मीमालामन्त्रम्
 
-+++
+---
   
  श्रीअष्टलक्ष्मीमालामन्त्रम्   
   

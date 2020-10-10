@@ -1,22 +1,22 @@
-+++
-"Text title" = "mahAchaNDyaShTottarashatanAmAvalI"
-"File name" = "mahAchaNDyaShTottarashatanAmAvalI.itx"
-itxtitle = "mahAchaNDyaShTottarashatanAmAvalI"
-engtitle = "mahAchaNDyaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda"
-"Proofread by" = "R. Harshananda"
-Indexextra = "(navadurgApUjA)"
-"Latest update" = "February 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाचण्ड्यष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI
+File name: mahAchaNDyaShTottarashatanAmAvalI.itx
+Indexextra: (navadurgApUjA)
+Language: Sanskrit
+Latest update: February 17, 2018
+Location: doc_devii
+Proofread by: R. Harshananda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAchaNDyaShTottarashatanAmAvalI
+Transliterated by: R. Harshananda
+engtitle: mahAchaNDyaShTottarashatanAmAvalI
+itxtitle: mahAchaNDyaShTottarashatanAmAvalI
+title: महाचण्ड्यष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीमहाचण्ड्यष्टोत्तरशतनामावली   
 ॐ अस्यश्री महाचण्डी महामन्त्रस्य दीर्घतमा ऋषिः ककुप्  

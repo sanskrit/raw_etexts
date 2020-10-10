@@ -1,27 +1,27 @@
-+++
-"Text title" = "bhavAnI bhAratI"
-"File name" = "bhavAnIbhAratI.itx"
-itxtitle = "bhavAnI bhAratI sArthA"
-engtitle = "bhavAnI bhAratI"
-Category = "major_works, devii, devI"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sri Aurobindo"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sarada Susarla"
-"Proofread by" = "Sarada Susarla, Sampadananda Mishra"
-"Translated by" = "Richard Hartz"
-Description-comments = "Modern sanskrit literature patriotic poem"
-Indexextra = "(Tamil translation and commentary)"
-Acknowledge-Permission = "(copyright by Sri Aurobindo Ashram Trust, Puducherry"
-"Latest update" = "July 20, 2004, December 30, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवानी भारती सार्था"
+---
+Acknowledge-Permission: (copyright by Sri Aurobindo Ashram Trust, Puducherry
+Author: Sri Aurobindo
+Category: major_works, devii, devI
+Description-comments: Modern sanskrit literature patriotic poem
+File name: bhavAnIbhAratI.itx
+Indexextra: (Tamil translation and commentary)
+Language: Sanskrit
+Latest update: July 20, 2004, December 30, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sarada Susarla, Sampadananda Mishra
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: bhavAnI bhAratI
+Texttype: pramukha
+Translated by: Richard Hartz
+Transliterated by: Sarada Susarla
+engtitle: bhavAnI bhAratI
+itxtitle: bhavAnI bhAratI sArthA
+title: भवानी भारती सार्था
 
-+++
+---
   
  भवानी भारती   
 English translation by Richard Hartz  
@@ -252,7 +252,7 @@ my brothers in the shadows. Their corpses I saw on the ground,
 pitiable, reduced to skeletons.  
   
 तदा ददर्शासुरमेकमीशं किरीटिनं वज्रधरं महान्तम् ।   
-अश्रूणि रक्तौघशतानि मातुः संगृह्य पुष्णन्तमपत्यसंघान् ॥ ३५॥   
+अश्रूणि रक्तौघशतानि मातुः सङ्गृह्य पुष्णन्तमपत्यसङ्घान् ॥ ३५॥   
 35. Then did I see a lordly Titan, crowned, gigantic, bearing  
 a thunderbolt, feeding the hordes of his offspring with the  
 tears of the Mother mixed with a hundred streams of her blood.  
@@ -319,7 +319,7 @@ flaming wrath licked the sky. Sounds of neighing and the rumble
 of drums frightened the world as Kali fought with the Titan.  
   
 रक्ताक्तमेघा नभसीव तेपुः पपात चोर्व्यां रुधिरोग्रवृष्टिः ।   
-रक्तोदधौ रेजिर अद्रिसंघा वसुन्धरा रक्तमया बभासे ॥ ४६॥   
+रक्तोदधौ रेजिर अद्रिसङ्घा वसुन्धरा रक्तमया बभासे ॥ ४६॥   
 46. Clouds stained with blood seemed to burn in the heavens and  
 a fierce rain of blood fell upon the earth. The mountains rose  
 up from a bloodred sea. All the land was as if turned to blood.  
@@ -391,13 +391,13 @@ of stars seem to tremble in the firmament'at the touch of
 thy weapon.  
   
 दयार्द्रचित्ता रुदितेन पुंसां हंसि प्रजापीडकमस्तकेषु ।   
-यो मृत्युरत्ता भुवनस्य रौद्रैः स किंकरस्ते वसति त्रिशूले ॥ ५७॥   
+यो मृत्युरत्ता भुवनस्य रौद्रैः स किङ्करस्ते वसति त्रिशूले ॥ ५७॥   
 57. Thy heart melting with pity for the weeping of men, thou  
 smitest the heads of the oppressors of the people. Ravenous  
 Death, the eater of the world, is thy servant who rides on  
 the prongs of thy trident.  
   
-शक्तिः परा कोटिषु मानवानां संमन्युनां त्वं भवसि प्रबुद्धा ।   
+शक्तिः परा कोटिषु मानवानां सम्मन्युनां त्वं भवसि प्रबुद्धा ।   
 आर्यान्विपन्नानवतीर्य पासि युगे युगे युध्यस आर्यमातः ॥ ५८॥   
 58. Thou art the supreme Power awakening in millions of  
 impassioned men.  Incarnating thyself, thou preservest this  
@@ -411,7 +411,7 @@ mountains of the north; effulgent thy- light arises, O gracious
 one, illumining the worlds with beauty.  
   
 धेनौ समारूढमनोज्ञकान्ती रणोन्मदायां चरसीयमार्या ।   
-शैला इवोत्तुङ्गशिखाः समूलाः पतन्ति संघाः परितोऽसुराणाम् ॥ ६०॥   
+शैला इवोत्तुङ्गशिखाः समूलाः पतन्ति सङ्घाः परितोऽसुराणाम् ॥ ६०॥   
 60. Thou rangest here, noble goddess, with thy lovely limbs of'  
 radiance mounted on a cow drunk with the zest of battle, and all  
 around thee the Titan hosts tumble like lofty peaks uprooted.  
@@ -459,7 +459,7 @@ wrathful and beneficent, she cuts down with her trident the
 enemies of Shiva, the beneficent Lord.  
   
 खरैः सुनिष्पिष्टमिदं सुरभ्या घोरं किमेवापि सुकृष्णवर्णम् ।   
-मांसस्य पिंण्डं ह्यवनौ निरीक्षे शेषोऽयमस्त्येव तवाहितानाम् ॥ ६७॥   
+मांसस्य पिण्ण्डं ह्यवनौ निरीक्षे शेषोऽयमस्त्येव तवाहितानाम् ॥ ६७॥   
 67. What is this, hideous and black, trampled by the hooves  
 of the cow of the gods'? It is a lump of flesh which I see on  
 the ground: this is all that is left of those who were hostile  
@@ -538,7 +538,7 @@ in the corners of thy eyes.
 fallen and lifeless foemen. The white legs of Bhavani, from  
 the feet to the beautiful knees, gleam like pillars of snow.  
   
-शुक्लं प्रवातैरनिलोपमं ते संक्षोभितं भासुरतोयदाभम् ।   
+शुक्लं प्रवातैरनिलोपमं ते सङ्क्षोभितं भासुरतोयदाभम् ।   
 वातीव वासो रुचिराणि मध्ये भ्राजन्त अङ्गानि शशिप्रभेव ॥ ७९॥   
 79. Fluttering in the breeze, thy bright and airy robe is a  
 luminous cloud from whose midst thy radiant firnbs shine forth  
@@ -564,7 +564,7 @@ vast spaces between the mountains, thy hand is extended, O
 compassionate one, O Rudrani, granting freedom from fear to  
 the peoples.  
   
-तत्संज्ञया ते करपल्लवस्य तमो विधूतं भुवि भारतानाम् ।   
+तत्सञ्ज्ञया ते करपल्लवस्य तमो विधूतं भुवि भारतानाम् ।   
 रक्तस्य मेघा नभसोऽपधूता अचिन्त्यवीर्यासि शुभासि सौम्या ॥ ८३॥   
 83. By that sign of thy flowerlike hand the darkness is expelled  
 from the land of the Bharatas. -h he clouds of blood vanish  

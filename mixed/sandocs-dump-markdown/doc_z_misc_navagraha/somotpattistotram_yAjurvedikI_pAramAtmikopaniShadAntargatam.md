@@ -1,21 +1,21 @@
-+++
-"Text title" = "somotpattistotram"
-"File name" = "somotpattistotram.itx"
-itxtitle = "somotpattistotram ((yAjurvedikI pAramAtmikopaniShadAntargatam)"
-engtitle = "somotpattistotram"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सोमोत्पत्तिस्तोत्रम् ((याजुर्वेदिकी पारमात्मिकोपनिषदान्तर्गतम्)"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: navagraha
+File name: somotpattistotram.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: somotpattistotram
+engtitle: somotpattistotram
+itxtitle: somotpattistotram ((yAjurvedikI pAramAtmikopaniShadAntargatam)
+title: सोमोत्पत्तिस्तोत्रम् ((याजुर्वेदिकी पारमात्मिकोपनिषदान्तर्गतम्)
 
-+++
+---
   
  सोमोत्पत्तिस्तोत्रम्   
 याजुर्वैदिकी पारमात्मिकोपनिषदन्तर्गतं  

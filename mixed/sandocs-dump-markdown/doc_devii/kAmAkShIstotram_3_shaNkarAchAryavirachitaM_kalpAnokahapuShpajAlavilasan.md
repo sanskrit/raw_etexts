@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIkAmAkShIstotram 3"
-"File name" = "kAmAkShIstotram3.itx"
-itxtitle = "kAmAkShIstotram 3 (shaNkarAchAryavirachitaM kalpAnokahapuShpajAlavilasan)"
-engtitle = "Shri Kamakshi stotram 3"
-Category = "devii, kAmAkShI, stotra, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "kAmAkShI"
-Texttype = "stotra"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "nature.and.poetry gmail.com"
-"Proofread by" = "nature.and.poetry gmail.com"
-Indexextra = "(meaning)"
-"Latest update" = "April 24, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामाक्षीस्तोत्रम् ३ (शण्कराचार्यविरचितं कल्पानोकहपुष्पजालविलसन्)"
+---
+Author: Adi Shankaracharya
+Category: devii, kAmAkShI, stotra, shankarAchArya, devI
+File name: kAmAkShIstotram3.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: April 24, 2015
+Location: doc_devii
+Proofread by: nature.and.poetry gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: kAmAkShI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIkAmAkShIstotram 3
+Texttype: stotra
+Transliterated by: nature.and.poetry gmail.com
+engtitle: Shri Kamakshi stotram 3
+itxtitle: kAmAkShIstotram 3 (shaNkarAchAryavirachitaM kalpAnokahapuShpajAlavilasan)
+title: कामाक्षीस्तोत्रम् ३ (शण्कराचार्यविरचितं कल्पानोकहपुष्पजालविलसन्)
 
-+++
+---
   
  श्रीकामाक्षीस्तोत्रम् ३   
 कल्पानोकहपुष्पजालविलसन्नीलालकां मातृकां  

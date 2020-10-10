@@ -3,7 +3,6 @@ title: 087 Indrajit s harsh words to Vibhishana
 title_english: 087 Indrajit s harsh words to Vibhishana
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-087-Indrajit_s_harsh_words_to_Vibhishana_0.mp3"></div>
 
 एवमुक्त्वा तु सौमित्रिं जातहर्षो विभीषणः ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "brahmA rachita kRiShNastotra"
-"File name" = "brahmakrishnastotra.itx"
-itxtitle = "kRiShNastotram (brahmadevarachitam)"
-engtitle = "brahmA rachita kRiShNastotra"
-Category = "vishhnu, krishna, stotra, vyAsa, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Brahmadeva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "January 16, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (ब्रह्मदेवरचितम्)"
+---
+Author: Brahmadeva
+Category: vishhnu, krishna, stotra, vyAsa, vishnu
+File name: brahmakrishnastotra.itx
+Language: Sanskrit
+Latest update: January 16, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: brahmA rachita kRiShNastotra
+Texttype: stotra
+Transliterated by: WebD
+engtitle: brahmA rachita kRiShNastotra
+itxtitle: kRiShNastotram (brahmadevarachitam)
+title: कृइष्णस्तोत्रम् (ब्रह्मदेवरचितम्)
 
-+++
+---
   
  श्रीकृष्णस्तोत्र ब्रह्मारचित   
   

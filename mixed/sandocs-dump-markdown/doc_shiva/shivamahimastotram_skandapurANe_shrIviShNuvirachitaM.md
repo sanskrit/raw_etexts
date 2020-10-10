@@ -1,22 +1,23 @@
-+++
-"Text title" = "shivamahimastotram"
-"File name" = "shivamahimastotram.itx"
-itxtitle = "shivamahimastotram (skandapurANe shrIviShNuvirachitaM)"
-engtitle = "shivamahimastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-Source = "Shandapurana"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवमहिमस्तोत्रम् (स्कन्दपुराणे श्रीविष्णुविरचितं)"
+---
+Category: shiva
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: shivamahimastotram.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shandapurana
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivamahimastotram
+engtitle: shivamahimastotram
+itxtitle: shivamahimastotram (skandapurANe shrIviShNuvirachitaM)
+title: शिवमहिमस्तोत्रम् (स्कन्दपुराणे श्रीविष्णुविरचितं)
 
-+++
+---
   
  शिवमहिमस्तोत्रम्   
   

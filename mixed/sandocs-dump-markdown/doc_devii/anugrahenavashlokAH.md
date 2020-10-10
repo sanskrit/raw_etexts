@@ -1,22 +1,22 @@
-+++
-"Text title" = "Anugrahe Navashlokah"
-"File name" = "anugrahenavashlokAH.itx"
-itxtitle = "anugrahenavashlokAH"
-engtitle = "anugrahenavashlokAH"
-Category = "devii, devI, nava"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan"
-Indexextra = "(Scan)"
-"Latest update" = "May 24, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "अनुग्रहेनवश्लोकाः"
+---
+Category: devii, devI, nava
+File name: anugrahenavashlokAH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 24, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Anugrahe Navashlokah
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: anugrahenavashlokAH
+itxtitle: anugrahenavashlokAH
+title: अनुग्रहेनवश्लोकाः
 
-+++
+---
   
  अनुग्रहे नवश्लोकाः   
 १.  ॐ विश्वेश्वरी जगद्धात्रीं स्थितिसंहारकारिणीं  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrimadbhAgavatAntargataM yugalagIta"
-"File name" = "yugalagIta.itx"
-itxtitle = "yugalagItam (shrImadbhAgavatAntargatam)"
-engtitle = "Yugalagita from Shrimadbhagavatam"
-Category = "gItam, giitaa, vyAsa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "maharShi vyAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Bhagavatam skanda 10 adhyAya 35"
-Indexextra = "(meaning gopiyugalagItA, Hindi)"
-"Latest update" = "November 10, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "युगलगीतम् (श्रीमद्भागवतान्तर्गतम्)"
+---
+Author: maharShi vyAsa
+Category: gItam, giitaa, vyAsa
+Description-comments: Bhagavatam skanda 10 adhyAya 35
+File name: yugalagIta.itx
+Indexextra: (meaning gopiyugalagItA, Hindi)
+Language: Sanskrit
+Latest update: November 10, 2012
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: shrimadbhAgavatAntargataM yugalagIta
+engtitle: Yugalagita from Shrimadbhagavatam
+itxtitle: yugalagItam (shrImadbhAgavatAntargatam)
+title: युगलगीतम् (श्रीमद्भागवतान्तर्गतम्)
 
-+++
+---
   
  युगलगीत श्रीमद्भागवतान्तर्गतम्   
   

@@ -3,7 +3,6 @@ title: 045 Rama requests the citizens to return to Ayodhya
 title_english: 045 Rama requests the citizens to return to Ayodhya
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-045-Thamasa_Theera_Gamanam.mp3"></div>
 
 अनुरक्ता महात्मानम् रामम् सत्य परक्रमम् ।  
@@ -66,7 +65,7 @@ title_english: 045 Rama requests the citizens to return to Ayodhya
 याचमानेषु तेषु त्वम् भक्तिम् भक्तेषु दर्शय ॥ २-४५-२९  
 अनुगम्तुम् अशक्ताः त्वाम् मूलैः उद्धिऋत वेगिभिः ।  
 उन्नता वायु वेगेन विक्रोशन्ति इव पादपाः ॥ २-४५-३०  
-निश्चेष्ट आहार संचारा वृक्ष एक स्थान विष्ठिताः ।  
+निश्चेष्ट आहार सञ्चारा वृक्ष एक स्थान विष्ठिताः ।  
 पक्षिणो अपि प्रयाचन्ते सर्व भूत अनुकम्पिनम् ॥ २-४५-३१  
 एवम् विक्रोशताम् तेषाम् द्विजातीनाम् निवर्तने ।  
 ददृशे तमसा तत्र वारयन्ति इव राघवम् ॥ २-४५-३२  

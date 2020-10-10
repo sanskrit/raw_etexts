@@ -3,7 +3,6 @@ title: 038 Hanuma asks Seetha to give him a token of remembrance
 title_english: 038 Hanuma asks Seetha to give him a token of remembrance
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-038-Hanuma_asks_Seetha_to_give_him_a_token_of_remembrance.mp3"></div>
 
 ततः स कपि शार्दूलः तेन वाक्येन हर्षितः ।  
@@ -101,7 +100,7 @@ title_english: 038 Hanuma asks Seetha to give him a token of remembrance
 कस्य हेतोः न माम् वीरः परित्राति महाबलः ॥ ५-३८-४६  
 यदि तौ पुरुष व्याघ्रौ वाय्व् इन्द्र सम तेजसौ ।  
 सुराणाम् अपि दुर्धर्षो किम् अर्थम् माम् उपेक्षतः ॥ ५-३८-४७  
-मम एव दुष्कृतम् किंचिन् महत् अस्ति न संशयः ।  
+मम एव दुष्कृतम् किञ्चिन् महत् अस्ति न संशयः ।  
 समर्थाव् अपि तौ यन् माम् न अवेक्षेते परम् तपौ ॥ ५-३८-४८  
 वैदेह्या वचनम् श्रुत्वा करुणम् साशुभाषितम् ।  
 अथाब्रवीन्महातेजा हनुमान् मारुतात्मजः ॥ ५-३८-४९  
@@ -116,7 +115,7 @@ title_english: 038 Hanuma asks Seetha to give him a token of remembrance
 ब्रूहि यद्राघवो वाच्यो लक्ष्मणश्च महाबलः ।  
 सुग्रीवो वापि तेजस्वी हरयोऽपि समागताः ॥ ५-३८-५४  
 इत्युक्तवति तस्मिंस्तु सीता सुरसुतोपमा ।  
-उवाच शोकसंतप्ता हनुमन्तं प्लवंगमम् ॥ ५-३८-५५  
+उवाच शोकसन्तप्ता हनुमन्तं प्लवङ्गमम् ॥ ५-३८-५५  
 कौसल्या लोक भर्तारम् सुषुवे यम् मनस्विनी ।  
 तम् मम अर्थे सुखम् पृच्छ शिरसा च अभिवादय ॥ ५-३८-५६  
 स्रजः च सर्व रत्नानि प्रिया याः च वर अन्गनाः ।  

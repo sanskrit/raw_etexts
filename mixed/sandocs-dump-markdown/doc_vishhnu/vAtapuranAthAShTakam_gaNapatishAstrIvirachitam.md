@@ -1,22 +1,22 @@
-+++
-"Text title" = "vAtapuranAthAShTakam"
-"File name" = "vAtapuranAthAShTakam.itx"
-itxtitle = "vAtapuranAthAShTakam (gaNapatishAstrIvirachitam)"
-engtitle = "vAtapuranAthAShTakam"
-Category = "vishhnu, krishna, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Mahaamahopaadhyaaya Brahmasri Ganapathi Sastrigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "December 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वातपुरनाथाष्टकम् (गणपतिशास्त्रीविरचितम्)"
+---
+Author: Mahaamahopaadhyaaya Brahmasri Ganapathi Sastrigal
+Category: vishhnu, krishna, aShTaka
+File name: vAtapuranAthAShTakam.itx
+Language: Sanskrit
+Latest update: December 2, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vAtapuranAthAShTakam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: vAtapuranAthAShTakam
+itxtitle: vAtapuranAthAShTakam (gaNapatishAstrIvirachitam)
+title: वातपुरनाथाष्टकम् (गणपतिशास्त्रीविरचितम्)
 
-+++
+---
   
  श्रीवातपुरनाथाष्टकम्   
   

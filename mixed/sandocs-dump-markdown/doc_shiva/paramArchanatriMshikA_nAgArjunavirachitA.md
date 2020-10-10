@@ -1,23 +1,23 @@
-+++
-"Text title" = "paramArchanatriMshikA"
-"File name" = "paramArchanatriMshikA.itx"
-itxtitle = "paramArchanatriMshikA (nAgArjunavirachitA)"
-engtitle = "paramArchanatriMshikA"
-Category = "shiva, triMshikA"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Nagarjuna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Girdhari Lal Koul glkoul.18 at gmail.com"
-"Proofread by" = "Girdhari Lal Koul glkoul.18 at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 6, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परमार्चनत्रिंशिका (नागार्जुनविरचिता)"
+---
+Author: Nagarjuna
+Category: shiva, triMshikA
+File name: paramArchanatriMshikA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 6, 2019
+Location: doc_shiva
+Proofread by: Girdhari Lal Koul glkoul.18 at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: paramArchanatriMshikA
+Transliterated by: Girdhari Lal Koul glkoul.18 at gmail.com
+engtitle: paramArchanatriMshikA
+itxtitle: paramArchanatriMshikA (nAgArjunavirachitA)
+title: परमार्चनत्रिंशिका (नागार्जुनविरचिता)
 
-+++
+---
   
  नागार्जुनकृता परमार्चनत्रिंशिका   
 अथ परमार्चनत्रिंशिका नागार्जुनकृता ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAjarAjeshvarIShoDashI"
-"File name" = "rAjarAjeshvarIShoDashI.itx"
-itxtitle = "rAjarAjeshvarIShoDashI (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "rAjarAjeshvarIShoDashI"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राजराजेश्वरीषोडशी (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI
+File name: rAjarAjeshvarIShoDashI.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAjarAjeshvarIShoDashI
+engtitle: rAjarAjeshvarIShoDashI
+itxtitle: rAjarAjeshvarIShoDashI (shivAbhinavanRisiMhabhAratIvirachitA)
+title: राजराजेश्वरीषोडशी (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीराजराजेश्वरीषोडशी   
 नौमि ह्रीञ्जपमात्रतुष्टहृदयां श्रीचक्रराजालयां  

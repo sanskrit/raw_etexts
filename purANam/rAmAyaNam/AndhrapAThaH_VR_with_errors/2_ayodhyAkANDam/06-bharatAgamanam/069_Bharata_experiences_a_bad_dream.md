@@ -3,7 +3,6 @@ title: 069 Bharata experiences a bad dream
 title_english: 069 Bharata experiences a bad dream
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-069-Bharathena_Duswapna_Darshanam.mp3"></div>
 
 याम् एव रात्रिम् ते दूताः प्रविशन्ति स्म ताम् पुरीम् ।  

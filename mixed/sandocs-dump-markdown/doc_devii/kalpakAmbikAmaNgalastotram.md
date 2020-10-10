@@ -1,24 +1,24 @@
-+++
-"Text title" = "Kalpakambika Mangala stotram"
-"File name" = "kalpakAmbikAmangalastotram.itx"
-itxtitle = "kalpakAmbikAmaNgalastotram"
-engtitle = "kalpakAmbikAmangalastotram"
-Category = "mangala, devii, devI, otherforms"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Author = "sheShashAyIsharmA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Tamil)"
-"Latest update" = "July 2, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कल्पकाम्बिकामण्गलस्तोत्रम्"
+---
+Author: sheShashAyIsharmA
+Category: mangala, devii, devI, otherforms
+File name: kalpakAmbikAmangalastotram.itx
+Indexextra: (Tamil)
+Language: Sanskrit
+Latest update: July 2, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kalpakambika Mangala stotram
+Texttype: stotra
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: kalpakAmbikAmangalastotram
+itxtitle: kalpakAmbikAmaNgalastotram
+title: कल्पकाम्बिकामण्गलस्तोत्रम्
 
-+++
+---
   
  श्रीकल्पकाम्बिका मङ्गलस्तोत्रम्   
 ओङ्कारस्वरमूलायै ओङ्काराधाररूपिणि  

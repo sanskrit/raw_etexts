@@ -1,20 +1,20 @@
-+++
-"Text title" = "shaNkara granthAvaliH"
-"File name" = "SCW.itx"
-itxtitle = "shANkaragranthAvalI"
-engtitle = "Shri Sankara's Works"
-Category = "sUchI, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(a list of complete works of Shankaracharya)"
-"Latest update" = "October 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शाण्करग्रन्थावली"
+---
+Category: sUchI, shankarAchArya
+File name: SCW.itx
+Indexextra: (a list of complete works of Shankaracharya)
+Language: Sanskrit
+Latest update: October 1, 2010
+Location: doc_z_misc_shankara
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: shaNkara granthAvaliH
+engtitle: Shri Sankara's Works
+itxtitle: shANkaragranthAvalI
+title: शाण्करग्रन्थावली
 
-+++
+---
   
  श्रीशङ्कर ग्रन्थावली   
   
@@ -77,7 +77,7 @@ Volume 1: स्तोत्राणि (a total of 65 stotraMs - 440 pages)
  हरि स्तुतिः (43)  
  गोविन्दाष्टकम्( 8+1=3D9)  
  भगवन्मानसपूजा (10)  
-संकीर्ण स्तोत्राणि: (23 stotras, including some on shiva, devi, etc)  
+सङ्कीर्ण स्तोत्राणि: (23 stotras, including some on shiva, devi, etc)  
  मोहमुद्गरः (31)  
  कनकधारा स्तोत्रम् (18)  
  अन्नपूर्णाष्टकम् (8+4=3D12)  
@@ -117,7 +117,7 @@ Volume 2: प्रकरण प्रबन्धावलिः (30 works - 34
  धन्याष्टकम् (8)  
  जीवन्मुक्तानन्दलहरी (17)  
  अनात्मश्रीविगर्हण प्रकरणम् (18)  
- स्वरूपानुसंधानाष्टकम् (8+1=9)  
+ स्वरूपानुसन्धानाष्टकम् (8+1=9)  
  यतिपञ्चकम् (5)  
  पञ्चीकरणम् (prose)  
  तत्वोपदेशः (87)  
@@ -137,7 +137,7 @@ Volume 2: प्रकरण प्रबन्धावलिः (30 works - 34
 Volume 3: उपदेश रचनावली ( 3 works - 466 pages)  
  विवेकचूडामणिः  
  उपदेशसाहस्री (गद्यप्रबन्धः, पद्यप्रबन्धः)  
- सर्ववेदान्तसिद्धान्तसारसंग्रहः  
+ सर्ववेदान्तसिद्धान्तसारसङ्ग्रहः  
   
 Volumer 4: प्रपञ्चसारः (573 pages)  
   (पटल १-३३)  

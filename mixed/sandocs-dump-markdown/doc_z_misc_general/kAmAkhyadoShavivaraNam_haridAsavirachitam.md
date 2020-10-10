@@ -1,23 +1,23 @@
-+++
-"Text title" = "kAmAkhyadoShavivaraNam"
-"File name" = "kAmAkhyadoShavivaraNam.itx"
-itxtitle = "kAmAkhyadoShavivaraNam (haridAsavirachitam)"
-engtitle = "kAmAkhyadoShavivaraNam"
-Category = "misc, puShTimArgIya, haridAsa, advice"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "haridAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामाख्यदोषविवरणम् (हरिदासविरचितम्)"
+---
+Author: haridAsa
+Category: misc, puShTimArgIya, haridAsa, advice
+Description/comments: puShTimArgIya stotraratnAkara
+File name: kAmAkhyadoShavivaraNam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: kAmAkhyadoShavivaraNam
+engtitle: kAmAkhyadoShavivaraNam
+itxtitle: kAmAkhyadoShavivaraNam (haridAsavirachitam)
+title: कामाख्यदोषविवरणम् (हरिदासविरचितम्)
 
-+++
+---
   
  कामाख्यदोषविवरणम्   
   

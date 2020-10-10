@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumadvADavAnalastotram"
-"File name" = "hanumadvADavAnal.itx"
-itxtitle = "hanumadvADavAnalastotram"
-engtitle = "hanumadvADavAnalastotram"
-Category = "hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Author = "vibhIShaNa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.mypurohith.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "April 05, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमद्वाडवानलस्तोत्रम्"
+---
+Author: vibhIShaNa
+Category: hanumaana, stotra, hanuman
+File name: hanumadvADavAnal.itx
+Language: Sanskrit
+Latest update: April 05, 2006
+Location: doc_hanumaana
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumadvADavAnalastotram
+Texttype: stotra
+Transliterated by: http://www.mypurohith.com
+engtitle: hanumadvADavAnalastotram
+itxtitle: hanumadvADavAnalastotram
+title: हनुमद्वाडवानलस्तोत्रम्
 
-+++
+---
   
  श्रीहनुमद्वाडवानलस्तोत्रम्   
   

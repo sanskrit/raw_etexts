@@ -1,26 +1,27 @@
-+++
-"Text title" = "Vichitracharita Stotram"
-"File name" = "vichitracharitastotram.itx"
-itxtitle = "vichitracharitastotram (ApaTIkaravirachitam)"
-engtitle = "vichitracharitastotram"
-Category = "shiva, ApaTIkara"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "ma. sa. ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विचित्रचरितस्तोत्रम् (आपटीकरविरचितम्)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma. sa. ApaTIkara
+Category: shiva, ApaTIkara
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: vichitracharitastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_shiva
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Vichitracharita Stotram
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: vichitracharitastotram
+itxtitle: vichitracharitastotram (ApaTIkaravirachitam)
+title: विचित्रचरितस्तोत्रम् (आपटीकरविरचितम्)
 
-+++
+---
   
  विचित्रचरितस्तोत्रम्   
      (वसन्ततिलका)  

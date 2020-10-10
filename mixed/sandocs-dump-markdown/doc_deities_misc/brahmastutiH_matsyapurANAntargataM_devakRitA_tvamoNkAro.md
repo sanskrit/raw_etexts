@@ -1,23 +1,23 @@
-+++
-"Text title" = "brahmastutiH devakRitA"
-"File name" = "brahmastutidevakRitA.itx"
-itxtitle = "brahmastutiH (matsyapurANAntargataM devakRitA tvamoNkAro)"
-engtitle = "brahmastutiH"
-Category = "deities_misc, brahma"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "brahma"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subrahmanyam Yvs yvspmp at gmail.com"
-"Proofread by" = "Subrahmanyam Yvs, Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "matsyapurANam adhyAyaH 154 shlokAH 7-15"
-"Latest update" = "July 21, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मस्तुतिः (मत्स्यपुराणान्तर्गतं देवकृइता त्वमोण्कारो)"
+---
+Category: deities_misc, brahma
+File name: brahmastutidevakRitA.itx
+Language: Sanskrit
+Latest update: July 21, 2017
+Location: doc_deities_misc
+Proofread by: Subrahmanyam Yvs, Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: matsyapurANam adhyAyaH 154 shlokAH 7-15
+SubDeity: brahma
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: brahmastutiH devakRitA
+Transliterated by: Subrahmanyam Yvs yvspmp at gmail.com
+engtitle: brahmastutiH
+itxtitle: brahmastutiH (matsyapurANAntargataM devakRitA tvamoNkAro)
+title: ब्रह्मस्तुतिः (मत्स्यपुराणान्तर्गतं देवकृइता त्वमोण्कारो)
 
-+++
+---
   
  देवकृता ब्रह्मस्तुतिः   
   

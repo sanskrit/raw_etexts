@@ -1,21 +1,22 @@
-+++
-"Text title" = "mahAmArIstotram"
-"File name" = "mahAmArIstotram.itx"
-itxtitle = "mahAmArIstotram (devIpurANAntargatam)"
-engtitle = "mahAmArIstotram"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "March 23, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महामारीस्तोत्रम् (देवीपुराणान्तर्गतम्)"
+---
+Category: devii, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: mahAmArIstotram.itx
+Language: Sanskrit
+Latest update: March 23, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAmArIstotram
+engtitle: mahAmArIstotram
+itxtitle: mahAmArIstotram (devIpurANAntargatam)
+title: महामारीस्तोत्रम् (देवीपुराणान्तर्गतम्)
 
-+++
+---
   
  महामारीस्तोत्रम्   
   

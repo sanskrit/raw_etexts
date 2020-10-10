@@ -1,24 +1,24 @@
-+++
-"Text title" = "gokuleshAShTottarashatanAmastotram"
-"File name" = "gokuleshAShTottarashatanAmastotram.itx"
-itxtitle = "gokuleshAShTottarashatanAmastotram (viShNudAsavirachitam)"
-engtitle = "gokuleshAShTottarashatanAmastotram"
-Category = "vishhnu, krishna, puShTimArgIya, aShTottarashatanAma"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "viShNudAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोकुलेशाष्टोत्तरशतनामस्तोत्रम् (विष्णुदासविरचितम्)"
+---
+Author: viShNudAsa
+Category: vishhnu, krishna, puShTimArgIya, aShTottarashatanAma
+Description/comments: puShTimArgIya stotraratnAkara
+File name: gokuleshAShTottarashatanAmastotram.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gokuleshAShTottarashatanAmastotram
+engtitle: gokuleshAShTottarashatanAmastotram
+itxtitle: gokuleshAShTottarashatanAmastotram (viShNudAsavirachitam)
+title: गोकुलेशाष्टोत्तरशतनामस्तोत्रम् (विष्णुदासविरचितम्)
 
-+++
+---
   
  श्रीगोकुलेशाष्टोत्तरशतनामस्तोत्रम्   
   

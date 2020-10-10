@@ -1,22 +1,22 @@
-+++
-"Text title" = "toTakAShTakaM"
-"File name" = "totaka8.itx"
-itxtitle = "toTakAShTakaM shrIshaNkaradeshikAShTakaM cha"
-engtitle = "toTakAShTakam (praise of sha.nkarAchArya)"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anand Hudli ahudli at silver.ucs.indiana.edu"
-"Proofread by" = "Anand Hudli ahudli at silver.ucs.indiana.edu"
-Indexextra = "(praise of sha.nkarAchArya) Meaning"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तोटकाष्टकं श्रीशण्करदेशिकाष्टकं च"
+---
+Category: aShTaka, shiva
+File name: totaka8.itx
+Indexextra: (praise of sha.nkarAchArya) Meaning
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_shiva
+Proofread by: Anand Hudli ahudli at silver.ucs.indiana.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: toTakAShTakaM
+Transliterated by: Anand Hudli ahudli at silver.ucs.indiana.edu
+engtitle: toTakAShTakam (praise of sha.nkarAchArya)
+itxtitle: toTakAShTakaM shrIshaNkaradeshikAShTakaM cha
+title: तोटकाष्टकं श्रीशण्करदेशिकाष्टकं च
 
-+++
+---
   
 ॥ तोटकाष्टकं श्रीशङ्करदेशिकाष्टकं च ॥  
   
@@ -27,7 +27,7 @@ A short description of the advaita paramparA and a short
 account of Shankara's disciple toTaka are included.  
 Invocation:    
   
-शंकरं शंकराचार्यं केशवं बादरायणम् ।  
+शङ्करं शङ्कराचार्यं केशवं बादरायणम् ।  
 सूत्रभाष्यकृतौ वन्दे भगवन्तौ पुनः पुनः ॥  
   
   
@@ -40,8 +40,8 @@ advaita guru-paramparA:
 नारायणं पद्मभुवं वसिष्ठं शक्तिं च तत्पुत्रपराशरं च ।  
 व्यासं शुकं गौडपदं महान्तं गोविन्दयोगीन्द्रमथास्य शिष्यम् ॥  
   
-श्री शंकराचार्यमथास्य पद्मपादं च हस्तामलकं च शिष्यम् ।  
-तं तोटकं वार्तिककारमन्यानस्मद्गुरून् संततमानतोऽस्मि ॥  
+श्री शङ्कराचार्यमथास्य पद्मपादं च हस्तामलकं च शिष्यम् ।  
+तं तोटकं वार्तिककारमन्यानस्मद्गुरून् सन्ततमानतोऽस्मि ॥  
   
   
 These two verses honor the advaita paramparA. The names mentioned here,  
@@ -104,7 +104,7 @@ two short syllables followed by a long one. The hymn naturally lends itself
 to be set to music. A suggested RAga is (HindustAni) toDi.  
   
 विदिताखिलशास्त्रसुधाजलधे महितोपनिषत् कथितार्थनिधे ।  
-हृदये कलये विमलं चरणं भव शंकर देशिक मे शरणम् ॥ १॥  
+हृदये कलये विमलं चरणं भव शङ्कर देशिक मे शरणम् ॥ १॥  
   
   
 O knower of the nectar-ocean of the scriptures, the expounder of the  
@@ -112,7 +112,7 @@ knowledge of the great upanishadic treasure! I meditate on Your pure lotus
 feet in my heart. O Preceptor Shankara, be my refuge.  
   
 करुणावरुणालय पालय मां भवसागरदुःखविदूनहृदम् ।  
-रचयाखिलदर्शनतत्त्वविदं भव शंकर देशिक मे शरणम् ॥ २॥  
+रचयाखिलदर्शनतत्त्वविदं भव शङ्कर देशिक मे शरणम् ॥ २॥  
   
   
 Save me whose heart is afflicted by the misery of the ocean of births,  
@@ -121,7 +121,7 @@ knower of the truths of all the systems of philosophy.  O Preceptor Shankara,
 be my refuge.  
   
 भवता जनता सुहिता भविता निजबोधविचारण चारुमते ।  
-कलयेश्वरजीवविवेकविदं भव शंकर देशिक मे शरणम् ॥ ३॥  
+कलयेश्वरजीवविवेकविदं भव शङ्कर देशिक मे शरणम् ॥ ३॥  
   
   
 The people have found happiness due to You, who have the intellect adept in  
@@ -129,7 +129,7 @@ the inquiry into Self-knowledge. Make me understand the knowledge of God
 and the soul. O Preceptor Shankara, be my refuge.  
   
 भव एव भवानिति मे नितरां समजायत चेतसि कौतुकिता ।  
-मम वारय मोहमहाजलधिं भव शंकर देशिक मे शरणम् ॥ ४॥  
+मम वारय मोहमहाजलधिं भव शङ्कर देशिक मे शरणम् ॥ ४॥  
   
   
 You are Lord Shiva Himself. Knowing this my mind is filled with an  
@@ -137,7 +137,7 @@ abundance of joy. Put an end to my sea of delusion. O Preceptor Shankara,
 be my refuge.  
   
 सुकृतेऽधिकृते बहुधा भवतो भविता समदर्शनलालसता ।  
-अतिदीनमिमं परिपालय मां भव शंकर देशिक मे शरणम् ॥ ५॥  
+अतिदीनमिमं परिपालय मां भव शङ्कर देशिक मे शरणम् ॥ ५॥  
   
   
 Only after numerous virtuous deeds have been performed in many  
@@ -145,23 +145,23 @@ ways, does a keen desire for the experience of Brahman through You arise.
 Protect (me who am) extremely helpless. O Preceptor Shankara, be my refuge.  
   
 जगतीमवितुं कलिताकृतयो विचरन्ति महामहसश्छलतः ।  
-अहिमांशुरिवात्र विभासि गुरो भव शंकर देशिक मे शरणम् ॥ ६॥  
+अहिमांशुरिवात्र विभासि गुरो भव शङ्कर देशिक मे शरणम् ॥ ६॥  
   
   
 For the sake of saving the world, (Your) great (disciples) wander assuming  
 various forms and guises. O Guru, You shine like the sun (among them).  
 O Preceptor Shankara, be my refuge.  
   
-गुरुपुंगव पुंगवकेतन ते समतामयतां नहि कोऽपि सुधीः ।  
-शरणागतवत्सल तत्त्वनिधे भव शंकर देशिक मे शरणम् ॥ ७॥  
+गुरुपुङ्गव पुङ्गवकेतन ते समतामयतां नहि कोऽपि सुधीः ।  
+शरणागतवत्सल तत्त्वनिधे भव शङ्कर देशिक मे शरणम् ॥ ७॥  
   
   
 O Best among the Gurus! The Lord whose flag bears the emblem of the  
 bull! You have no equal among the wise. You who are affectionate to those  
 who seek refuge! The treasure of truth! O Preceptor Shankara, be my refuge.  
   
-विदिता न मया विशदैककला न च किंचन काञ्चनमस्ति गुरो ।  
-द्रुतमेव विधेहि कृपां सहजां भव शंकर देशिक मे शरणम् ॥ ८॥  
+विदिता न मया विशदैककला न च किञ्चन काञ्चनमस्ति गुरो ।  
+द्रुतमेव विधेहि कृपां सहजां भव शङ्कर देशिक मे शरणम् ॥ ८॥  
   
   
 I have neither understood even one branch of knowledge clearly, nor do I  

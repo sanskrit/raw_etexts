@@ -1,24 +1,24 @@
-+++
-"Text title" = "viShNoH ShoDashanAmastotram"
-"File name" = "vishhnu16.itx"
-itxtitle = "viShNoH ShoDashanAmastotram"
-engtitle = "viShNoH ShoDashanAmastotram"
-Category = "vishhnu, stotra, ShoDasha, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "satish bharadwaj satish_uma at hotmail.com"
-"Latest update" = "September 8, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णोः षोडशनामस्तोत्रम्"
+---
+Author: Traditional
+Category: vishhnu, stotra, ShoDasha, vishnu
+File name: vishhnu16.itx
+Language: Sanskrit
+Latest update: September 8, 2004
+Location: doc_vishhnu
+Proofread by: satish bharadwaj satish_uma at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNoH ShoDashanAmastotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: viShNoH ShoDashanAmastotram
+itxtitle: viShNoH ShoDashanAmastotram
+title: विष्णोः षोडशनामस्तोत्रम्
 
-+++
+---
   
  श्रीविष्णोः षोडशनामस्तोत्रम्   
   
@@ -26,9 +26,9 @@ title = "विष्णोः षोडशनामस्तोत्रम्"
 शयने पद्मनाभं च विवाहे च प्रजापतिम् ॥ १॥  
   
 युद्धे चक्रधरं देवं प्रवासे च त्रिविक्रमम् ।  
-नारायणं तनुत्यागे श्रीधरं प्रियसंगमे ॥ २॥  
+नारायणं तनुत्यागे श्रीधरं प्रियसङ्गमे ॥ २॥  
   
-दुःस्वप्ने स्मर गोविंदं संकटे मधुसूदनम् ।  
+दुःस्वप्ने स्मर गोविन्दं सङ्कटे मधुसूदनम् ।  
 कानने नारसिंहं च पावके जलशायिनम् ॥ ३॥  
   
 जलमध्ये वराहं च पर्वते रघुनन्दनम् ।  

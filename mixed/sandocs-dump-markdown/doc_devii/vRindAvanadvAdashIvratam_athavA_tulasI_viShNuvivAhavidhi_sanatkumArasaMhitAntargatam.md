@@ -1,25 +1,25 @@
-+++
-"Text title" = "vRRindAvanadvAdashIvratam"
-"File name" = "vRRindAvanadvAdashIvratam.itx"
-itxtitle = "vRindAvanadvAdashIvratam athavA tulasI viShNuvivAhavidhi (sanatkumArasaMhitAntargatam)"
-engtitle = "vRRindAvanadvAdashIvratam"
-Category = "devii, tulasI, devI, dvAdasha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar"
-Description-comments = "tulasI viShNu vivAhavidhi, sanatkumArasaMhitA"
-Indexextra = "(TulasiPuja scanned)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "June 12, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वृइन्दावनद्वादशीव्रतम् अथवा तुलसी विष्णुविवाहविधि (सनत्कुमारसंहितान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: devii, tulasI, devI, dvAdasha
+Description-comments: tulasI viShNu vivAhavidhi, sanatkumArasaMhitA
+File name: vRRindAvanadvAdashIvratam.itx
+Indexextra: (TulasiPuja scanned)
+Language: Sanskrit
+Latest update: June 12, 2017
+Location: doc_devii
+Proofread by: Shree Devi Kumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vRRindAvanadvAdashIvratam
+Transliterated by: Shree Devi Kumar
+engtitle: vRRindAvanadvAdashIvratam
+itxtitle: vRindAvanadvAdashIvratam athavA tulasI viShNuvivAhavidhi (sanatkumArasaMhitAntargatam)
+title: वृइन्दावनद्वादशीव्रतम् अथवा तुलसी विष्णुविवाहविधि (सनत्कुमारसंहितान्तर्गतम्)
 
-+++
+---
   
  वृन्दावनद्वादशीव्रतम्   
   

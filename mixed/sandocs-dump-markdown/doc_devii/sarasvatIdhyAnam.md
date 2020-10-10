@@ -1,23 +1,23 @@
-+++
-"Text title" = "sarasvatIdhyAnam"
-"File name" = "sarasvatIdhyAnam.itx"
-itxtitle = "sarasvatIdhyAnam"
-engtitle = "sarasvatIdhyAnam"
-Category = "dhyAnam, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 1)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीध्यानम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: dhyAnam, devii, devI
+File name: sarasvatIdhyAnam.itx
+Indexextra: (stotramanjari 1)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIdhyAnam
+Transliterated by: Shree Devi Kumar
+engtitle: sarasvatIdhyAnam
+itxtitle: sarasvatIdhyAnam
+title: सरस्वतीध्यानम्
 
-+++
+---
   
  श्रीसरस्वतीध्यानम्   
   

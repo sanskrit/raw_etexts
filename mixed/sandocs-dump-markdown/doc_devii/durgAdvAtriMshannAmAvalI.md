@@ -1,25 +1,25 @@
-+++
-"Text title" = "durgAdvAtriMshannAmAvaliH"
-"File name" = "durgaa32.itx"
-itxtitle = "durgAdvAtriMshannAmAvalI"
-engtitle = "durgAdvAtriMshannAmAvalI"
-Category = "devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Indexextra = "(32 names)"
-"Latest update" = "June 15, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गाद्वात्रिंशन्नामावली"
+---
+Author: Traditional
+Category: devii, durgA, stotra, devI
+File name: durgaa32.itx
+Indexextra: (32 names)
+Language: Sanskrit
+Latest update: June 15, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAdvAtriMshannAmAvaliH
+Texttype: stotra
+Transliterated by: WebD
+engtitle: durgAdvAtriMshannAmAvalI
+itxtitle: durgAdvAtriMshannAmAvalI
+title: दुर्गाद्वात्रिंशन्नामावली
 
-+++
+---
   
  दुर्गाद्वात्रिंशन्नामावली   
   

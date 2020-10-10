@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhAryAmahimA"
-"File name" = "bhAryAmahimA.itx"
-itxtitle = "bhAryAmahimA (mArkaNDeyapurANAntargatam)"
-engtitle = "Glorification of Married Life / Importance of Wife-partner"
-Category = "misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Translated by" = "V. S. Agrawala"
-Description-comments = "mArkaNDeyapurANAntargtam adhyAya 21"
-Indexextra = "(mArkaNDeyapurANam)"
-"Latest update" = "August 27, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भार्यामहिमा (मार्कण्डेयपुराणान्तर्गतम्)"
+---
+Category: misc
+Description-comments: mArkaNDeyapurANAntargtam adhyAya 21
+File name: bhAryAmahimA.itx
+Indexextra: (mArkaNDeyapurANam)
+Language: Sanskrit
+Latest update: August 27, 2017
+Location: doc_z_misc_general
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: bhAryAmahimA
+Translated by: V. S. Agrawala
+engtitle: Glorification of Married Life / Importance of Wife-partner
+itxtitle: bhAryAmahimA (mArkaNDeyapurANAntargatam)
+title: भार्यामहिमा (मार्कण्डेयपुराणान्तर्गतम्)
 
-+++
+---
   
  भार्यामहिमा   
   

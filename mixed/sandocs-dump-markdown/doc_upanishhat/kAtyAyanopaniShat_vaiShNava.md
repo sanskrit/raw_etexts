@@ -1,22 +1,22 @@
-+++
-"Text title" = "kAtyAyanopaniShat"
-"File name" = "kAtyAyanopaniShat.itx"
-itxtitle = "kAtyAyanopaniShat (vaiShNava)"
-engtitle = "kAtyAyanopaniShat"
-Category = "upanishhat, vishhnu, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कात्यायनोपनिषत् (वैष्णव)"
+---
+Category: upanishhat, vishhnu, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: kAtyAyanopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: kAtyAyanopaniShat
+engtitle: kAtyAyanopaniShat
+itxtitle: kAtyAyanopaniShat (vaiShNava)
+title: कात्यायनोपनिषत् (वैष्णव)
 
-+++
+---
   
  कात्यायनोपनिषत्   
 अथ प्रणिपत्य कात्यायनो ब्रह्माणमन्वयुङ्क्त । अधीहि भगवः  

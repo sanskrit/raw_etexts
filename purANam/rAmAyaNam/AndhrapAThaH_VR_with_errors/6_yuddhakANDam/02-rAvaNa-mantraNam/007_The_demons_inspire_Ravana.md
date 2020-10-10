@@ -3,7 +3,6 @@ title: 007 The demons inspire Ravana
 title_english: 007 The demons inspire Ravana
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-007-The_demons_inspire_Ravana.mp3"></div>
 
 इति उक्ता राक्षस इन्द्रेण राक्षसास्ते महाबलाः ।  

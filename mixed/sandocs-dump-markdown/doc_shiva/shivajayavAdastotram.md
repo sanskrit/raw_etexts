@@ -1,21 +1,22 @@
-+++
-"Text title" = "shivajayavAdastotram"
-"File name" = "shivajayavAdastotram.itx"
-itxtitle = "shivajayavAdastotram"
-engtitle = "shivajayavAdastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "February 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवजयवादस्तोत्रम्"
+---
+Category: shiva
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: shivajayavAdastotram.itx
+Language: Sanskrit
+Latest update: February 28, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivajayavAdastotram
+engtitle: shivajayavAdastotram
+itxtitle: shivajayavAdastotram
+title: शिवजयवादस्तोत्रम्
 
-+++
+---
   
  शिवजयवादस्तोत्रम्   
 श्रीगणेशाय नमः ॥  

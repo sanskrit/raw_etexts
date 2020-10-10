@@ -1,21 +1,21 @@
-+++
-"Text title" = "saMsAramohanagaNeshakavacham"
-"File name" = "saMsAramohanagaNeshakavacham.itx"
-itxtitle = "saMsAramohanagaNeshakavacham (brahmavaivartapurANAntargatram)"
-engtitle = "Samsaramohana Ganeshakavacham"
-Category = "ganesha, kavacha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Verses 78-93 Brahmavaivartapurana adhyAya 13 gaNeshakhaNDa"
-Indexextra = "(Ganesh Stotrani, Brahmavaivartapurana)"
-"Latest update" = "October 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संसारमोहनगणेशकवचम् (ब्रह्मवैवर्तपुराणान्तर्गत्रम्)"
+---
+Category: ganesha, kavacha
+Description-comments: Verses 78-93 Brahmavaivartapurana adhyAya 13 gaNeshakhaNDa
+File name: saMsAramohanagaNeshakavacham.itx
+Indexextra: (Ganesh Stotrani, Brahmavaivartapurana)
+Language: Sanskrit
+Latest update: October 19, 2017
+Location: doc_ganesha
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: saMsAramohanagaNeshakavacham
+engtitle: Samsaramohana Ganeshakavacham
+itxtitle: saMsAramohanagaNeshakavacham (brahmavaivartapurANAntargatram)
+title: संसारमोहनगणेशकवचम् (ब्रह्मवैवर्तपुराणान्तर्गत्रम्)
 
-+++
+---
   
  संसारमोहनं गणेशकवचम्   
   

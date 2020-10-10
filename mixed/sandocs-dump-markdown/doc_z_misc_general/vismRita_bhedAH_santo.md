@@ -1,24 +1,24 @@
-+++
-"Text title" = "vismRRitabhedAHsanto"
-"File name" = "vismRRitabhedAHsanto.itx"
-itxtitle = "vismRita bhedAH santo"
-engtitle = "vismRRitabhedAHsanto"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "ji. mahAbaleshvarabhaTTaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Audio 1, 2)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विस्मृइत भेदाः सन्तो"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: ji. mahAbaleshvarabhaTTaH
+Category: misc, sanskritgeet
+File name: vismRRitabhedAHsanto.itx
+Indexextra: (Wiki, Audio 1, 2)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: vismRRitabhedAHsanto
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: vismRRitabhedAHsanto
+itxtitle: vismRita bhedAH santo
+title: विस्मृइत भेदाः सन्तो
 
-+++
+---
   
  विस्मृतभेदाः सन्तो   
 विस्मृतभेदाः सन्तो  

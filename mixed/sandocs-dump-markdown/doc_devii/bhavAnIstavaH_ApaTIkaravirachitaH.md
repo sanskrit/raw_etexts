@@ -1,27 +1,28 @@
-+++
-"Text title" = "Bhavani Stava"
-"File name" = "bhavAnIstavaH.itx"
-itxtitle = "bhavAnIstavaH (ApaTIkaravirachitaH)"
-engtitle = "bhavAnIstavaH"
-Category = "devii, pArvatI, ApaTIkara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "ma. sa. ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवानीस्तवः (आपटीकरविरचितः)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma. sa. ApaTIkara
+Category: devii, pArvatI, ApaTIkara, devI
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: bhavAnIstavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_devii
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Bhavani Stava
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: bhavAnIstavaH
+itxtitle: bhavAnIstavaH (ApaTIkaravirachitaH)
+title: भवानीस्तवः (आपटीकरविरचितः)
 
-+++
+---
   
  श्रीभवानीस्तवः   
      (पञ्चचामरम्)  

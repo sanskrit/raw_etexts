@@ -1,24 +1,24 @@
-+++
-"Text title" = "bagalAmukhIvarNakavacha"
-"File name" = "bagalAmukhIvarNakavach.itx"
-itxtitle = "bagalAmukhIvarNakavacham"
-engtitle = "bagalAmukhIvarNakavacha"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "Ishvara pArvati sa.nvAde"
-"Latest update" = "February 28, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बगलामुखीवर्णकवचम्"
+---
+Author: Traditional
+Category: kavacha, devii, dashamahAvidyA, devI
+Description-comments: Ishvara pArvati sa.nvAde
+File name: bagalAmukhIvarNakavach.itx
+Language: Sanskrit
+Latest update: February 28, 2006
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bagalAmukhIvarNakavacha
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: bagalAmukhIvarNakavacha
+itxtitle: bagalAmukhIvarNakavacham
+title: बगलामुखीवर्णकवचम्
 
-+++
+---
   
  बगलामुखीवर्णकवच   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Devi 108 Siddhapithas from Devi Bhagavatam"
-"File name" = "devIsiddhapIThAnidevIbhAgavatam.itx"
-itxtitle = "devIsiddhapIThAni (devIbhAgavatAntargatam)"
-engtitle = "Devi Siddhapithas from Devi Bhagavatam"
-Category = "devii, shaktipITha"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Description/comments" = "Devi Bhagavata Mahapuran Skandha 7, Adhyaya 30"
-Indexextra = "(Scan, Devi Bhagavatam 7-30)"
-"Latest update" = "June 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीसिद्धपीठानि (देवीभागवतान्तर्गतम्)"
+---
+Category: devii, shaktipITha
+Description/comments: Devi Bhagavata Mahapuran Skandha 7, Adhyaya 30
+File name: devIsiddhapIThAnidevIbhAgavatam.itx
+Indexextra: (Scan, Devi Bhagavatam 7-30)
+Language: Sanskrit
+Latest update: June 10, 2018
+Location: doc_devii
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Devi 108 Siddhapithas from Devi Bhagavatam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: Devi Siddhapithas from Devi Bhagavatam
+itxtitle: devIsiddhapIThAni (devIbhAgavatAntargatam)
+title: देवीसिद्धपीठानि (देवीभागवतान्तर्गतम्)
 
-+++
+---
   
  देवीसिद्धपीठानि   
 जनमेजय उवाच -  

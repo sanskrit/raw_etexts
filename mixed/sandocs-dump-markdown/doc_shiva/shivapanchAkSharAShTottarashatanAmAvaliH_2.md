@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Shivapanchakshara Ashtottarashata Namavali 2"
-"File name" = "shivapanchAkSharAShTottarashatanAmAvaliH2.itx"
-itxtitle = "shivapanchAkSharAShTottarashatanAmAvaliH 2"
-engtitle = "shivapanchaksharashtottarashatanamavalih 2"
-Category = "shiva, aShTottarashatanAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "December 25, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवपञ्चाक्षराष्टोत्तरशतनामावलिः २"
+---
+Category: shiva, aShTottarashatanAmAvalI
+File name: shivapanchAkSharAShTottarashatanAmAvaliH2.itx
+Language: Sanskrit
+Latest update: December 25, 2019
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Shivapanchakshara Ashtottarashata Namavali 2
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: shivapanchaksharashtottarashatanamavalih 2
+itxtitle: shivapanchAkSharAShTottarashatanAmAvaliH 2
+title: शिवपञ्चाक्षराष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  श्रीशिवपञ्चाक्षराष्टोत्तरशतनामावलिः २   
 श्रीगणेशय नमः ।  

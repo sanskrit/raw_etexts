@@ -1,20 +1,20 @@
-+++
-"Text title" = "daNDAyudhapANisvAmIsuprabhAtam"
-"File name" = "daNDAyudhapANisvAmIsuprabhAtam.itx"
-itxtitle = "daNDAyudhapANisvAmIsuprabhAtam"
-engtitle = "daNDAyudhapANisvAmIsuprabhAtam"
-Category = "subrahmanya, suprabhAta"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "Sri KS Balasubrahmanya Sivachariyar from Pazhani, TN"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "October 10, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दण्डायुधपाणिस्वामीसुप्रभातम्"
+---
+Author: Sri KS Balasubrahmanya Sivachariyar from Pazhani, TN
+Category: subrahmanya, suprabhAta
+File name: daNDAyudhapANisvAmIsuprabhAtam.itx
+Language: Sanskrit
+Latest update: October 10, 2017
+Location: doc_subrahmanya
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: daNDAyudhapANisvAmIsuprabhAtam
+engtitle: daNDAyudhapANisvAmIsuprabhAtam
+itxtitle: daNDAyudhapANisvAmIsuprabhAtam
+title: दण्डायुधपाणिस्वामीसुप्रभातम्
 
-+++
+---
   
  श्रीदण्डायुधपाणिस्वामी सुप्रभातम्   
   

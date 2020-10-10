@@ -1,21 +1,21 @@
-+++
-"Text title" = "gAyatryaShTakam 3"
-"File name" = "gAyatryaShTakam.itx"
-itxtitle = "gAyatryaShTakam 3 (uShaHkAlagamyAmudAtta svarUpAM)"
-engtitle = "gAyatryaShTakam 3"
-Category = "devii, aShTaka, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "January 5, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्र्यष्टकम् ३ (उषःकालगम्यामुदात्त स्वरूपां)"
+---
+Category: devii, aShTaka, gAyatrI, devI
+File name: gAyatryaShTakam.itx
+Language: Sanskrit
+Latest update: January 5, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatryaShTakam 3
+engtitle: gAyatryaShTakam 3
+itxtitle: gAyatryaShTakam 3 (uShaHkAlagamyAmudAtta svarUpAM)
+title: गायत्र्यष्टकम् ३ (उषःकालगम्यामुदात्त स्वरूपां)
 
-+++
+---
   
  श्रीगायत्र्यष्टकम् ३   
 उषःकालगम्यामुदात्त स्वरूपां  

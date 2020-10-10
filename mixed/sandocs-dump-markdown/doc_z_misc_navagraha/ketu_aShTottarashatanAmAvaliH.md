@@ -1,25 +1,27 @@
-+++
-"Text title" = "ketu aShTottarashatanaamavaliH"
-"File name" = "ketu108.itx"
-itxtitle = "ketu aShTottarashatanAmAvaliH"
-engtitle = "ketu aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, navagraha, nAmAvalI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com)"
-"Proofread by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler at gmx.net"
-Description-comments = "108 names for ketu"
-Source = "Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal, Published by VIDVATH SABHA, Chennai - 600073"
-Indexextra = "(108 names)"
-"Latest update" = "Jan 25, 1998, June 3, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "केतु अष्टोत्तरशतनामावलिः"
+---
+Category: aShTottarashatanAmAvalI, navagraha, nAmAvalI
+Description-comments: 108 names for ketu
+File name: ketu108.itx
+Indexextra: (108 names)
+Language: Sanskrit
+Latest update: Jan 25, 1998, June 3, 2007
+Location: doc_z_misc_navagraha
+Proofread by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler
+  at gmx.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal,
+  Published by VIDVATH SABHA, Chennai - 600073
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: ketu aShTottarashatanaamavaliH
+Texttype: nAmAvalI
+Transliterated by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com)
+engtitle: ketu aShTottarashatanAmAvalI
+itxtitle: ketu aShTottarashatanAmAvaliH
+title: केतु अष्टोत्तरशतनामावलिः
 
-+++
+---
   
  केतु अष्टोत्तरशतनामावली   
   
@@ -31,11 +33,11 @@ title = "केतु अष्टोत्तरशतनामावलिः"
 ॐ शिरोमात्राय नमः ।  
 ॐ ध्वजाकृतये नमः ।  
 ॐ नवग्रहयुताय नमः ।  
-ॐ सिंहिकासुरीगर्भसंभवाय नमः ।  
+ॐ सिंहिकासुरीगर्भसम्भवाय नमः ।  
 ॐ महाभीतिकराय नमः ।  
 ॐ चित्रवर्णाय नमः ।  
 ॐ श्रीपिङ्गलाक्षकाय नमः ।  
-ॐ फुल्लधूम्रसंकाषाय नमः । १०  
+ॐ फुल्लधूम्रसङ्काषाय नमः । १०  
 ॐ तीक्ष्णदंष्ट्राय नमः ।  
 ॐ महोदराय नमः ।  
 ॐ रक्तनेत्राय नमः ।  
@@ -74,7 +76,7 @@ title = "केतु अष्टोत्तरशतनामावलिः"
 ॐ मृत्युपुत्राय नमः ।  
 ॐ उत्पातरूपधारिणे नमः ।  
 ॐ अदृश्याय नमः ।  
-ॐ कालाग्निसंनिभाय नमः ।  
+ॐ कालाग्निसन्निभाय नमः ।  
 ॐ नृपीडाय नमः । ५०  
 ॐ ग्रहकारिणे नमः ।  
 ॐ सर्वोपद्रवकारकाय नमः ।  
@@ -83,7 +85,7 @@ title = "केतु अष्टोत्तरशतनामावलिः"
 ॐ सर्वव्याधिविनाशकाय नमः ।  
 ॐ अपसव्यप्रचारिणे नमः ।  
 ॐ नवमे पापदायकाय नमः ।  
-ॐ पंचमे शोकदाय नमः ।  
+ॐ पञ्चमे शोकदाय नमः ।  
 ॐ उपरागखेचराय नमः ।  
 ॐ अतिपुरुषकर्मणे नमः । ६०  
 ॐ तुरीये सुखप्रदाय नमः ।  

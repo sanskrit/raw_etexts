@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmasahasranAmAvaliH 3"
-"File name" = "rAmasahasranAmAvaliH3.itx"
-itxtitle = "rAmasahasranAmAvaliH 3 (akArAdijnakArAnta anAdaye)"
-engtitle = "rAmasahasranAmAvaliH 3"
-Category = "raama, sahasranAmAvalI, nAmAvalI"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2, rAmapUjApaddhati scan)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामसहस्रनामावलिः ३ (अकारादिज्ञकारान्त अनादये)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: raama, sahasranAmAvalI, nAmAvalI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: rAmasahasranAmAvaliH3.itx
+Indexextra: (VSM 2, rAmapUjApaddhati scan)
+Language: Sanskrit
+Latest update: April 1, 2020
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmasahasranAmAvaliH 3
+engtitle: rAmasahasranAmAvaliH 3
+itxtitle: rAmasahasranAmAvaliH 3 (akArAdijnakArAnta anAdaye)
+title: रामसहस्रनामावलिः ३ (अकारादिज्ञकारान्त अनादये)
 
-+++
+---
   
  श्रीरामसहस्रनामावलिः ३   
 (अकारादिज्ञकारान्त)  

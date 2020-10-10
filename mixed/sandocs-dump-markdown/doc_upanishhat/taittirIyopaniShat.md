@@ -1,25 +1,25 @@
-+++
-"Text title" = "Taittiriyopanishad"
-"File name" = "tait.itx"
-itxtitle = "taittirIyopaniShat"
-engtitle = "Taitiriya Upanishad"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Rishis"
-Language = "Sanskrit"
-Subject = "Philosophy"
-"Transliterated by" = "Avinash Sathaye sohum at ms.uky.edu, Kartik kartik at Eng.Auburn.EDU"
-"Proofread by" = "Avinash Sathaye, Kartik, John Manetta, NA"
-Description-comments = "7/108; Krishna YajurVeda, Mukhya upanishad"
-Indexextra = "(Ch7-9 accented (1 2 3translations, blog))"
-"Latest update" = "Aug 2, 1996, July 20, 1999, August 9, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तैत्तिरीयोपनिषत्"
+---
+Author: Vedic Rishis
+Category: upanishhat, svara, upanishad
+Description-comments: 7/108; Krishna YajurVeda, Mukhya upanishad
+File name: tait.itx
+Indexextra: (Ch7-9 accented (1 2 3translations, blog))
+Language: Sanskrit
+Latest update: Aug 2, 1996, July 20, 1999, August 9, 2016
+Location: doc_upanishhat
+Proofread by: Avinash Sathaye, Kartik, John Manetta, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Philosophy
+Sublocation: upanishhat
+Text title: Taittiriyopanishad
+Texttype: svara
+Transliterated by: Avinash Sathaye sohum at ms.uky.edu, Kartik kartik at Eng.Auburn.EDU
+engtitle: Taitiriya Upanishad
+itxtitle: taittirIyopaniShat
+title: तैत्तिरीयोपनिषत्
 
-+++
+---
   
  तैत्तिरीयोपनिषत्   
   
@@ -201,10 +201,10 @@ title = "तैत्तिरीयोपनिषत्"
 भिया देयम् । संविदा देयम् ।  
 अथ यदि ते कर्मविचिकित्सा वा वृत्तविचिकित्सा वा स्यात् ॥ ३॥  
   
-ये तत्र ब्राह्मणाः संमर्शिनः । युक्ता आयुक्ताः ।  
+ये तत्र ब्राह्मणाः सम्मर्शिनः । युक्ता आयुक्ताः ।  
 अलूक्षा धर्मकामाः स्युः । यथा ते तत्र वर्तेरन् ।  
 तथा तत्र वर्तेथाः । अथाभ्याख्यातेषु ।  
-ये तत्र ब्राह्मणाः संमर्शिनः । युक्ता आयुक्ताः ।  
+ये तत्र ब्राह्मणाः सम्मर्शिनः । युक्ता आयुक्ताः ।  
 अलूक्षा धर्मकामाः स्युः । यथा ते तेषु वर्तेरन् ।  
 तथा तेषु वर्तेथाः । एष आदेशः । एष उपदेशः ।  
 एषा वेदोपनिषत् । एतदनुशासनम् । एवमुपासितव्यम् ।  

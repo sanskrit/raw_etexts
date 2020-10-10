@@ -1,23 +1,23 @@
-+++
-"Text title" = "Sharika Kavacham"
-"File name" = "shArikAkavacham.itx"
-itxtitle = "shArikAkavacham"
-engtitle = "shArikAkavacham"
-Category = "devii, dashamahAvidyA, devI, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, Psa Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "February 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारिकाकवचम्"
+---
+Category: devii, dashamahAvidyA, devI, kavacha
+File name: shArikAkavacham.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 18, 2020
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan Iyer, Psa Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Sharika Kavacham
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: shArikAkavacham
+itxtitle: shArikAkavacham
+title: शारिकाकवचम्
 
-+++
+---
   
  शारिकाकवचम्   
 ॐ श्रीगणेशाय नमः ।  

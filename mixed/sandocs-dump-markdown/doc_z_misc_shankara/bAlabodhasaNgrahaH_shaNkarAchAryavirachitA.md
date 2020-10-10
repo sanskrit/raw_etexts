@@ -1,23 +1,23 @@
-+++
-"Text title" = "baalabodhasaNgrahaH"
-"File name" = "bAlabodhasangraha.itx"
-itxtitle = "bAlabodhasaNgrahaH (shaNkarAchAryavirachitA)"
-engtitle = "bAlabodhasaNgrahaH"
-Category = "vedanta, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunder at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunder at hotmail.com"
-Indexextra = "(TextSUVJ)"
-"Latest update" = "December 23, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालबोधसण्ग्रहः (शण्कराचार्यविरचिता)"
+---
+Author: Shankaracharya
+Category: vedanta, shankarAchArya
+File name: bAlabodhasangraha.itx
+Indexextra: (TextSUVJ)
+Language: Sanskrit
+Latest update: December 23, 2012
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi sunder at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: baalabodhasaNgrahaH
+Transliterated by: Sunder Hattangadi sunder at hotmail.com
+engtitle: bAlabodhasaNgrahaH
+itxtitle: bAlabodhasaNgrahaH (shaNkarAchAryavirachitA)
+title: बालबोधसण्ग्रहः (शण्कराचार्यविरचिता)
 
-+++
+---
   
  बालबोधसङ्ग्रहः   
   
@@ -101,7 +101,7 @@ title = "बालबोधसण्ग्रहः (शण्कराचार
           देहो जडः ।  
 शिष्य उवाच -  
           कथं जडः देहस्तावत् बाल्यमारभ्य नित्यं वर्धते जडस्य  
-          वृद्धिर्न संभवति ।  एवमेव सर्वम् ।  
+          वृद्धिर्न सम्भवति ।  एवमेव सर्वम् ।  
 गुरुरुवाच  -  
           भो शिष्य ! देहतादात्म्येन तव सुखदुःखं प्रतिभाति ।  
           यथा धनादिकन्नष्टं चेत् दुःख भवति ।  
@@ -135,7 +135,7 @@ title = "बालबोधसण्ग्रहः (शण्कराचार
           एतत् सर्वं स्थूल शरीरस्यैव ।  
 शिष्य उवाच -  
           भो स्वामिन् ! त्वत् प्रसादात् सत्यं त्वदाज्ञया अहं स्थूलदेहो  
-          न भवामि ।  तत्सम्बन्धाः वर्णाश्रमदयः स्त्रीपुंनपुंसकादयः  
+          न भवामि ।  तत्सम्बन्धाः वर्णाश्रमदयः स्त्रीपुन्नपुंसकादयः  
           श्यामगौरवत्वादि नामरूपादयः मम न सन्ति ।  
           अतः परमिन्द्रियाण्यहम् । इन्द्रियेषु सत्सु पश्यामि शृणोमि  
           स्पृशामि इत्याद्यनुभवाच्च इन्द्रियाण्यहमेव ।  
@@ -296,7 +296,7 @@ title = "बालबोधसण्ग्रहः (शण्कराचार
   
          आस्ते किमपि तदुक्तं किमितःपरमस्मि जन्मसाफल्यम् ॥  
   
-         इदं ज्ञानं परं श्रेष्ठं सतां संमतमादरात् ।  
+         इदं ज्ञानं परं श्रेष्ठं सतां सम्मतमादरात् ।  
          यः शृणोति च मेधावी स मुक्तो नात्र संशयः ।  
 ॥ इति श्रीपरमहंसपरिव्राजकाचार्य  
 श्रीमत् शङ्कराचार्यविरचितबालबोधसङ्ग्रहः समाप्तः ।  

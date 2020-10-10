@@ -1,22 +1,22 @@
-+++
-"Text title" = "dakShiNAmUrtidashakam"
-"File name" = "dakShiNAmUrtidashakam.itx"
-itxtitle = "dakShiNAmUrtidashakam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "dakShiNAmUrtidashakam"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, dashaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्तिदशकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, dashaka
+File name: dakShiNAmUrtidashakam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: dakShiNAmUrtidashakam
+engtitle: dakShiNAmUrtidashakam
+itxtitle: dakShiNAmUrtidashakam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: दक्षिणामूर्तिदशकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीदक्षिणामूर्तिदशकम्   
 पुन्नागवारिजातप्रभृतिसुमस्रग्विभूषितग्रीवः ।  

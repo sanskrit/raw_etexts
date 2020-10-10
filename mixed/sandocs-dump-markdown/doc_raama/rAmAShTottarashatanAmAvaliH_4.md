@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAmAShTottaranAmAvaliH 4"
-"File name" = "raama108-5.itx"
-itxtitle = "rAmAShTottarashatanAmAvaliH 4"
-engtitle = "Shri Ramashtottaranamavali 108 names"
-Category = "aShTottarashatanAmAvalI, raama, nAmAvalI"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sowmya Ramkumar"
-"Proofread by" = "Sowmya Ramkumar"
-"Latest update" = "October 6, 1997"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टोत्तरशतनामावलिः ४"
+---
+Category: aShTottarashatanAmAvalI, raama, nAmAvalI
+File name: raama108-5.itx
+Language: Sanskrit
+Latest update: October 6, 1997
+Location: doc_raama
+Proofread by: Sowmya Ramkumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: raama
+Text title: rAmAShTottaranAmAvaliH 4
+Texttype: nAmAvalI
+Transliterated by: Sowmya Ramkumar
+engtitle: Shri Ramashtottaranamavali 108 names
+itxtitle: rAmAShTottarashatanAmAvaliH 4
+title: रामाष्टोत्तरशतनामावलिः ४
 
-+++
+---
   
  श्रीरामाष्टोत्तरनामावली   
 ॐ श्रीरामाय नमः ।  
@@ -26,7 +26,7 @@ title = "रामाष्टोत्तरशतनामावलिः ४"
 ॐ राजीवलोचनाय नमः ।  
 ॐ श्रीमते नमः ।  
 ॐ राजेन्द्राय नमः ।  
-ॐ रघुपुंगवाय नमः ।  
+ॐ रघुपुङ्गवाय नमः ।  
 ॐ जानकीवल्लभाय नमः । १०  
 ॐ जैत्राय नमः ।  
 ॐ जितामित्राय नमः ।  
@@ -69,7 +69,7 @@ title = "रामाष्टोत्तरशतनामावलिः ४"
 ॐ जितक्रोधाय नमः ।  
 ॐ जितामित्राय नमः ।  
 ॐ जगद्गुरवे नमः ।  
-ॐ ऋक्ष वानर संघातिने नमः ।  
+ॐ ऋक्ष वानर सङ्घातिने नमः ।  
 ॐ चित्रकूट समाश्रयाय नमः ।  
 ॐ जयन्त त्राण वरदाय नमः ।  
 ॐ सुमित्रापुत्र सेविताय नमः ।  
@@ -105,7 +105,7 @@ title = "रामाष्टोत्तरशतनामावलिः ४"
 ॐ जितवाराशये नमः ।  
 ॐ सर्वतीर्थमयाय नमः ।  
 ॐ हरये नमः ।  
-ॐ श्यामांगाय नमः ।  
+ॐ श्यामाङ्गाय नमः ।  
 ॐ सुन्दराय नमः ।  
 ॐ शूराय नमः । १०  
 ॐ पीतवाससे नमः ।  

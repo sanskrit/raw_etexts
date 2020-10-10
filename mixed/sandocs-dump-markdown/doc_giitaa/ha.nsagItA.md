@@ -1,23 +1,24 @@
-+++
-"Text title" = "hansagItA"
-"File name" = "hansagiitaa.itx"
-itxtitle = "ha.nsagItA"
-engtitle = "ha.nsagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion  in critical edition, 289 in Kinjawadekar edition."
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com) and PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "mahAbhArata shAntiparva mokShadharmaparva adhyAyaH 288"
-Indexextra = "(mahAbhArata shAntiparva (Hindi))"
-"Latest update" = "June 2, 1998 , May 12, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हंसगीता"
+---
+Category: gItA, giitaa
+Description-comments: mahAbhArata shAntiparva mokShadharmaparva adhyAyaH 288
+File name: hansagiitaa.itx
+Indexextra: (mahAbhArata shAntiparva (Hindi))
+Language: Sanskrit
+Latest update: June 2, 1998 , May 12, 2013
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com) and PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion  in critical edition, 289 in Kinjawadekar edition.
+Sublocation: giitaa
+Text title: hansagItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: ha.nsagItA
+itxtitle: ha.nsagItA
+title: हंसगीता
 
-+++
+---
   
  हंसगीता   
   
@@ -72,7 +73,7 @@ title = "हंसगीता"
 अदुष्टचेता मुदितोऽनसूयुः  
 स आदत्ते सुकृतं वै परेषाम् ॥ ११॥  
   
-आक्रुश्यमानो न वदामि किंचित्  
+आक्रुश्यमानो न वदामि किञ्चित्  
 क्षमाम्यहं ताड्यमानश्च नित्यम् ।  
 श्रेष्ठं ह्येतत् यत् क्षमामाहुरार्याः  
 सत्यं तथैवार्जवमानृशंस्यम् ॥ १२॥  
@@ -100,12 +101,12 @@ title = "हंसगीता"
 सदाहमार्यान्निभृतोऽप्युपासे  
 न मे विवित्सा न चमेऽस्ति रोषः ।  var  विवित्सोत्सहते न रोषः  
 न चाप्यहं लिप्समानः परैमि  
-न चैव किंचिद्विषयेण यामि ॥ १९॥  
+न चैव किञ्चिद्विषयेण यामि ॥ १९॥  
   
-नाहं शप्तः प्रतिशपामि किंचिद्  
+नाहं शप्तः प्रतिशपामि किञ्चिद्  
 दमं द्वारं ह्यमृतस्येह वेद्मि ।  
 गुह्यं ब्रह्म तदिदं वा ब्रवीमि  
-न मानुषाच्छ्रेष्ठतरं हि किंचित् ॥ २०॥  
+न मानुषाच्छ्रेष्ठतरं हि किञ्चित् ॥ २०॥  
   
 विमुच्यमानः पापेभ्यो धनेभ्य इव चन्द्रमाः ।  
 विरजाः कालमाकाङ्क्षन् धीरो धैर्येण सिध्यति ॥ २१॥  
@@ -141,12 +142,12 @@ title = "हंसगीता"
 एकान्तशील्यूर्ध्वगतिर्भवेत्सः ॥ २९॥  
   
 सर्वानेताननुचरन् वत्सवच्चतुरः स्तनान् ।  var  सर्वांश्चैनाननुचरन्  
-न पावनतमं किंचित्सत्यादध्यगमं क्वचित् ॥ ३०॥  
+न पावनतमं किञ्चित्सत्यादध्यगमं क्वचित् ॥ ३०॥  
   
 आचक्षेऽहं मनुष्येभ्यो देवेभ्यः प्रतिसञ्चरन् ।  
 सत्यं स्वर्गस्य सोपानं पारावारस्य नौरिव ॥ ३१॥  
   
-यादृशैः संनिवसति यादृशांश्चोपसेवते ।  
+यादृशैः सन्निवसति यादृशांश्चोपसेवते ।  
 यादृगिच्छेच्च भवितुं तादृग्भवति पूरुषः ॥ ३२॥  
   
 यदि सन्तं सेवति यद्यसन्तं  

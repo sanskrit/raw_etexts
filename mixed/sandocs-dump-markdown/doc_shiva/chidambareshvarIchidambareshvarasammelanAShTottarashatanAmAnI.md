@@ -1,21 +1,21 @@
-+++
-"Text title" = "chidambareshvarIchidambareshvarasammelanAShTottarashatanAma"
-"File name" = "chidambareshvarIchidambareshvarasammelanAShTottarashatanAma.itx"
-itxtitle = "chidambareshvarIchidambareshvarasammelanAShTottarashatanAmAnI"
-engtitle = "chidambareshvarIchidambareshvarasammelanAShTottarashatanAma"
-Category = "shiva, aShTottarashatanAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Latest update" = "May 14, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "चिदम्बरेश्वरीचिदम्बरेश्वरसम्मेलनाष्टोत्तरशतनामानी"
+---
+Category: shiva, aShTottarashatanAmAvalI
+File name: chidambareshvarIchidambareshvarasammelanAShTottarashatanAma.itx
+Language: Sanskrit
+Latest update: May 14, 2020
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: chidambareshvarIchidambareshvarasammelanAShTottarashatanAma
+Transliterated by: NA
+engtitle: chidambareshvarIchidambareshvarasammelanAShTottarashatanAma
+itxtitle: chidambareshvarIchidambareshvarasammelanAShTottarashatanAmAnI
+title: चिदम्बरेश्वरीचिदम्बरेश्वरसम्मेलनाष्टोत्तरशतनामानी
 
-+++
+---
   
  श्रीचिदम्बरेश्वरीचिदम्बरेश्वरसम्मेलनाष्टोत्तरशतनामस्तोत्रम्   
   

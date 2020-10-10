@@ -1,22 +1,22 @@
-+++
-"Text title" = "guruparamparAstotram"
-"File name" = "guruparamparAstotram.itx"
-itxtitle = "guruparamparAstotram"
-engtitle = "guruparamparAstotram"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "Shankara Granthavali volume 8 published by Samata Books"
-"Latest update" = "January 7, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुपरम्परास्तोत्रम्"
+---
+Category: deities_misc, gurudev
+Description-comments: Shankara Granthavali volume 8 published by Samata Books
+File name: guruparamparAstotram.itx
+Language: Sanskrit
+Latest update: January 7, 2017
+Location: doc_deities_misc
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: guruparamparAstotram
+engtitle: guruparamparAstotram
+itxtitle: guruparamparAstotram
+title: गुरुपरम्परास्तोत्रम्
 
-+++
+---
   
  सम्प्रदाय परम्परा श्लोकानि   
 ॐ नमो ब्रह्मादिभ्यो ब्रह्मविद्यासम्प्रदायकर्तृभ्यो  

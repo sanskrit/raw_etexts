@@ -1,24 +1,26 @@
-+++
-"Text title" = "mahAlakShmI stotram"
-"File name" = "mahaalaxmiistotra.itx"
-itxtitle = "mahAlakShmIstotram (viShNupurANAntargatam)"
-engtitle = "mahAlakShmIstotram from Vishnu Purana"
-Category = "devii, lakShmI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, Karthik Raman karthik.raman at gmail.com"
-Description-comments = "Shri Vishnupurana amsha 1, adhyAya 9, shloka 117-149, also Gita Press Book  1774 Devi StotraRatnakara"
-"Latest update" = "July 08, 2004, November 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालक्ष्मीस्तोत्रम् (विष्णुपुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: devii, lakShmI, stotra, devI
+Description-comments: Shri Vishnupurana amsha 1, adhyAya 9, shloka 117-149, also Gita
+  Press Book  1774 Devi StotraRatnakara
+File name: mahaalaxmiistotra.itx
+Language: Sanskrit
+Latest update: July 08, 2004, November 14, 2018
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, Karthik Raman karthik.raman
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAlakShmI stotram
+Texttype: stotra
+engtitle: mahAlakShmIstotram from Vishnu Purana
+itxtitle: mahAlakShmIstotram (viShNupurANAntargatam)
+title: महालक्ष्मीस्तोत्रम् (विष्णुपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीमहालक्ष्मीस्तोत्रम् विष्णुपुराणान्तर्गतम्   
   

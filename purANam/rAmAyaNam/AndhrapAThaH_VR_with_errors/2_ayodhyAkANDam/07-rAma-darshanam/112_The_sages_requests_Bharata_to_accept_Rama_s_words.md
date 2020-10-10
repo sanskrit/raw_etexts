@@ -3,7 +3,6 @@ title: 112 The sages requests Bharata to accept Rama s words
 title_english: 112 The sages requests Bharata to accept Rama s words
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-112-Padukaa_Pradaanam.mp3"></div>
 
 तम् अप्रतिम तेजोभ्याम् भ्रातृभ्याम् रोम हर्षणम् ।  
@@ -52,9 +51,9 @@ title_english: 112 The sages requests Bharata to accept Rama s words
 प्रायग्च्छत् सुमहा तेजा भरताय महात्मने ॥ २-११२-२२  
 स पादुके सम्प्रणम्य रामं वचनम्ब्रवीत् ।  
 चतुर्दश हि वर्षाणि जटाचीरधरो ह्यहम् ॥ २-११२-२३  
-फलमूलाशनो वीर भवेयम् रघुनंदन ।  
+फलमूलाशनो वीर भवेयम् रघुनन्दन ।  
 तवागमनमाकाङ्क्षन् वसन्वै नगराद्बहिः ॥ २-११२-२४  
-तव पादुकयोर्न्यस्तराज्यतन्त्रः परंतप ।  
+तव पादुकयोर्न्यस्तराज्यतन्त्रः परन्तप ।  
 चतुर्दशे तु सम्पूर्णे वर्षेऽहानि रघूत्तम ॥ २-११२-२५  
 न द्रक्ष्यामि यदि त्वां तु प्रवेक्ष्यामि हुताशनम् ।  
 तथेति च प्रतिज्ञाय तं परिष्वज्य सादरम् ॥ २-११२-२६  

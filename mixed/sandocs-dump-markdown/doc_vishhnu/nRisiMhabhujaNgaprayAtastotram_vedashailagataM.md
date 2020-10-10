@@ -1,24 +1,24 @@
-+++
-"Text title" = "nRRisiMhabhujangaprayAtastotram"
-"File name" = "nRRisiMhabhujangaprayAtastotram.itx"
-itxtitle = "nRisiMhabhujaNgaprayAtastotram (vedashailagataM)"
-engtitle = "nRRisiMhabhujangaprayAtastotram"
-Category = "vishhnu, dashAvatAra, bhujanga"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहभुजण्गप्रयातस्तोत्रम् (वेदशैलगतं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, dashAvatAra, bhujanga
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: nRRisiMhabhujangaprayAtastotram.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nRRisiMhabhujangaprayAtastotram
+engtitle: nRRisiMhabhujangaprayAtastotram
+itxtitle: nRisiMhabhujaNgaprayAtastotram (vedashailagataM)
+title: नृइसिंहभुजण्गप्रयातस्तोत्रम् (वेदशैलगतं)
 
-+++
+---
   
  नृसिंहभुजङ्गप्रयातस्तोत्रम्   
   

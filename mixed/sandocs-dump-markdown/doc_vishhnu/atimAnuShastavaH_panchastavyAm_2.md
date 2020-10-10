@@ -1,22 +1,22 @@
-+++
-"Text title" = "Atimanushastavah"
-"File name" = "atimAnuShastavaH.itx"
-itxtitle = "atimAnuShastavaH ( (panchastavyAm 2)"
-engtitle = "atimAnuShastavaH"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Ramanuja Stotramala"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अतिमानुषस्तवः ( (पञ्चस्तव्याम् २)"
+---
+Category: vishhnu
+Description/comments: Ramanuja Stotramala
+File name: atimAnuShastavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Atimanushastavah
+engtitle: atimAnuShastavaH
+itxtitle: atimAnuShastavaH ( (panchastavyAm 2)
+title: अतिमानुषस्तवः ( (पञ्चस्तव्याम् २)
 
-+++
+---
   
  अतिमानुषस्तवः   
 पञ्चस्तव्यां २ अतिमानुषस्तवः  
@@ -133,7 +133,7 @@ title = "अतिमानुषस्तवः ( (पञ्चस्तव्�
 मानुष्यकं चरितमाचरितुं प्रवृत्तो  
      देवातिगं चरितमङ्ग! किमङ्ग्यकार्षीः ।  
 यत्सागरे बत बबन्धिथ नाथ! सेतुं  
-     शैलैःप्लवङ्गमसमिङ्गितसंप्रणुन्नैः ॥ २२॥  
+     शैलैःप्लवङ्गमसमिङ्गितसम्प्रणुन्नैः ॥ २२॥  
   
 यो विक्रमेण मनुजत्वविभूषणेन  
      देवं वरं वरुणराजमज! व्यजेष्ठाः ।  
@@ -280,7 +280,7 @@ title = "अतिमानुषस्तवः ( (पञ्चस्तव्�
 यास्तावकीनपदपङ्क्तिजुषोऽजुषन्त  
      निक्षिप्य तत्र निजमङ्गमनङ्गतप्तम् ॥ ५१॥  
   
-आचिन्वतः कुसुममंङ्घ्रिसरोरुहं ते  
+आचिन्वतः कुसुममङ्ङ्घ्रिसरोरुहं ते  
      ये भेजिरे बत ! वनस्पतयो लता वा ।  
 अद्यापि तत्कुलभुवः कुलदैवतं मे  
      वृन्दावनं मम धियं च सनाथयन्ति ॥ ५२॥  

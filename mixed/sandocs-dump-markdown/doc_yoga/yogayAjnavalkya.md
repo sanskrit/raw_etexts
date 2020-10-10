@@ -1,22 +1,22 @@
-+++
-"Text title" = "yogayAjnyavalkya"
-"File name" = "yogayAjnyavalkya.itx"
-itxtitle = "yogayAjnavalkya"
-engtitle = "Shri Yoga Yajnyavalkya"
-Category = "yoga"
-Location = "doc_yoga"
-Sublocation = "yoga"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, Sunder Hattangadi, Shankara, Sowmya Ramkumara"
-"Proofread by" = "DPD, Radim Navyan radimnavyan at gmail"
-"Latest update" = "December 24, 2014, March 3, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगयाज्ञवल्क्य"
+---
+Author: Traditional
+Category: yoga
+File name: yogayAjnyavalkya.itx
+Language: Sanskrit
+Latest update: December 24, 2014, March 3, 2019
+Location: doc_yoga
+Proofread by: DPD, Radim Navyan radimnavyan at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: yoga
+Text title: yogayAjnyavalkya
+Transliterated by: DPD, Sunder Hattangadi, Shankara, Sowmya Ramkumara
+engtitle: Shri Yoga Yajnyavalkya
+itxtitle: yogayAjnavalkya
+title: योगयाज्ञवल्क्य
 
-+++
+---
   
  श्रीयोगयाज्ञवल्क्य   
   
@@ -123,10 +123,10 @@ title = "योगयाज्ञवल्क्य"
 तपश्चरन्वसेन्नित्यं साग्निहोत्रः समाहितः ।  
 आत्मन्यग्नीन्समारोप्य सन्न्यसेद्विधिना ततः ॥ ३३॥  
   
-संन्यासाश्रमसंयुक्तो नित्यं कर्म समाचरन् ।  
+सन्न्यासाश्रमसंयुक्तो नित्यं कर्म समाचरन् ।  
 यावत्क्षेत्री भवेत्तावत् यजेदात्मानमात्मनि ॥ ३४॥  
   
-क्षत्रियश्च चरेदेवमासंन्यासाश्रमात्सदा ।  
+क्षत्रियश्च चरेदेवमासन्न्यासाश्रमात्सदा ।  
 वानप्रस्थाश्रमादेवं चरेद्वैश्यः समाहितः ॥ ३५॥  
   
 शूद्रः शुश्रूषया नित्यं गृहस्थाश्रमं आचरेत् ।  

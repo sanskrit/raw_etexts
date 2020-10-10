@@ -1,26 +1,26 @@
-+++
-"Text title" = "dayAnandAShTakam"
-"File name" = "dayAnandAShTakam.itx"
-itxtitle = "dayAnandAShTakam (puShpA shrIvatsena virachitam)"
-engtitle = "dayAnandAShTakam"
-Category = "deities_misc, puShpAshrIvatsan, gurudev, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Dayananda Stotravali"
-Indexextra = "(Translation)"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दयानन्दाष्टकम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: deities_misc, puShpAshrIvatsan, gurudev, aShTaka
+File name: dayAnandAShTakam.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_deities_misc
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Dayananda Stotravali
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dayAnandAShTakam
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: dayAnandAShTakam
+itxtitle: dayAnandAShTakam (puShpA shrIvatsena virachitam)
+title: दयानन्दाष्टकम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  श्रीदयानन्दाष्टकम्   
                  ॐ  

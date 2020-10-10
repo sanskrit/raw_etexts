@@ -1,23 +1,23 @@
-+++
-"Text title" = "VadirAja's Hitopadesh or Panchashloki"
-"File name" = "hitopadeshaHvAdirAja.itx"
-itxtitle = "hitopadeshaH athavA panchashlokI (vAdirAjavirachitam)"
-engtitle = "hitopadeshaH or panchashlokI by vAdirAja"
-Category = "vishhnu, panchaka, vAdirAja"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "vAdirAja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Prabha Maruvada pvmaruvada at gmail.com"
-"Proofread by" = "Prabha Maruvada, NA"
-Indexextra = "(Text)"
-"Latest update" = "April 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "हितोपदेशः अथवा पञ्चश्लोकी (वादिराजविरचितम्)"
+---
+Author: vAdirAja
+Category: vishhnu, panchaka, vAdirAja
+File name: hitopadeshaHvAdirAja.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: April 21, 2020
+Location: doc_vishhnu
+Proofread by: Prabha Maruvada, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: VadirAja's Hitopadesh or Panchashloki
+Transliterated by: Prabha Maruvada pvmaruvada at gmail.com
+engtitle: hitopadeshaH or panchashlokI by vAdirAja
+itxtitle: hitopadeshaH athavA panchashlokI (vAdirAjavirachitam)
+title: हितोपदेशः अथवा पञ्चश्लोकी (वादिराजविरचितम्)
 
-+++
+---
   
  श्रीमद्वादिराजस्य हितोपदेशः अथवा पञ्चश्लोकी   
 स्मर कृष्णं भज हरिं नम विष्णुं श्रयाच्युतम् ।  

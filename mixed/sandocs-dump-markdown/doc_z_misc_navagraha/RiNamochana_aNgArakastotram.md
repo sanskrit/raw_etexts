@@ -1,23 +1,23 @@
-+++
-"Text title" = "aNgArakastotram"
-"File name" = "angArakastotram.itx"
-itxtitle = "RiNamochana aNgArakastotram"
-engtitle = "AngArakastotram"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-"Proofread by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-Description-comments = "From Grantha/Tamil book Adityadi Navagraha Stotra"
-"Latest update" = "November 19, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ऋइणमोचन अण्गारकस्तोत्रम्"
+---
+Category: navagraha, stotra
+Description-comments: From Grantha/Tamil book Adityadi Navagraha Stotra
+File name: angArakastotram.itx
+Language: Sanskrit
+Latest update: November 19, 2012
+Location: doc_z_misc_navagraha
+Proofread by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: aNgArakastotram
+Texttype: stotra
+Transliterated by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+engtitle: AngArakastotram
+itxtitle: RiNamochana aNgArakastotram
+title: ऋइणमोचन अण्गारकस्तोत्रम्
 
-+++
+---
   
  ऋणमोचन अङ्गारकस्तोत्रम्   
   

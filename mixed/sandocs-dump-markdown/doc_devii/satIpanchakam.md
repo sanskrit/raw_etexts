@@ -1,22 +1,22 @@
-+++
-"Text title" = "satIpanchakam"
-"File name" = "satIpanchakam.itx"
-itxtitle = "satIpanchakam"
-engtitle = "satIpanchakam (satInAM satIM)"
-Category = "panchaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Indexextra = "(Translation)"
-"Latest update" = "August 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सतीपञ्चकम्"
+---
+Category: panchaka
+File name: satIpanchakam.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: August 2, 2017
+Location: doc_devii
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: satIpanchakam
+engtitle: satIpanchakam (satInAM satIM)
+itxtitle: satIpanchakam
+title: सतीपञ्चकम्
 
-+++
+---
   
  सतीपञ्चकम्   
   

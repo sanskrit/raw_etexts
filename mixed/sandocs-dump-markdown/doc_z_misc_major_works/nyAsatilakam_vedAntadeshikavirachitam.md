@@ -1,23 +1,23 @@
-+++
-"Text title" = "nyAsatilakam"
-"File name" = "nyAsatilakam.itx"
-itxtitle = "nyAsatilakam (vedAntadeshikavirachitam)"
-engtitle = "nyAsatilakam"
-Category = "major_works, vedAnta-deshika, vedanta"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "VedAnta Deshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vikram Bhaskaran vikram85.iyer at gmail.com"
-"Proofread by" = "Vikram Bhaskaran vikram85.iyer at gmail.com, NA"
-Indexextra = "(Stotras)"
-"Latest update" = "May 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "न्यासतिलकम् (वेदान्तदेशिकविरचितम्)"
+---
+Author: VedAnta Deshika
+Category: major_works, vedAnta-deshika, vedanta
+File name: nyAsatilakam.itx
+Indexextra: (Stotras)
+Language: Sanskrit
+Latest update: May 17, 2018
+Location: doc_z_misc_major_works
+Proofread by: Vikram Bhaskaran vikram85.iyer at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: nyAsatilakam
+Transliterated by: Vikram Bhaskaran vikram85.iyer at gmail.com
+engtitle: nyAsatilakam
+itxtitle: nyAsatilakam (vedAntadeshikavirachitam)
+title: न्यासतिलकम् (वेदान्तदेशिकविरचितम्)
 
-+++
+---
   
  न्यासतिलकम्   
 श्रीमते निगमान्तमहादेशिकाय नमः ।  

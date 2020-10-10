@@ -1,24 +1,24 @@
-+++
-"Text title" = "saMskRRitabhAShA saralA sulabhA"
-"File name" = "saMskRRitabhAShAsaralAsulabhA.itx"
-itxtitle = "saMskRitabhAShA saralA sulabhA"
-engtitle = "saMskRRitabhAShA saralA sulabhA"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "janArdana hegaDe"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृइतभाषा सरला सुलभा"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: janArdana hegaDe
+Category: misc, sanskritgeet
+File name: saMskRRitabhAShAsaralAsulabhA.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: saMskRRitabhAShA saralA sulabhA
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: saMskRRitabhAShA saralA sulabhA
+itxtitle: saMskRitabhAShA saralA sulabhA
+title: संस्कृइतभाषा सरला सुलभा
 
-+++
+---
   
  संस्कृतभाषा सरला सुलभा   
 संस्कृतभाषा सरला सुलभा  

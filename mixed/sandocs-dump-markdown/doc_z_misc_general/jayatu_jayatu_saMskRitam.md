@@ -1,24 +1,24 @@
-+++
-"Text title" = "jayatujayatusaMskRRitam"
-"File name" = "jayatujayatusaMskRRitam.itx"
-itxtitle = "jayatu jayatu saMskRitam"
-engtitle = "jayatujayatusaMskRRitam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dr. prabhAkarasharmA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयतु जयतु संस्कृइतम्"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: Dr. prabhAkarasharmA
+Category: misc, sanskritgeet
+File name: jayatujayatusaMskRRitam.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: jayatujayatusaMskRRitam
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: jayatujayatusaMskRRitam
+itxtitle: jayatu jayatu saMskRitam
+title: जयतु जयतु संस्कृइतम्
 
-+++
+---
   
  जयतु जयतु संस्कृतम्   
 जयतु जयतु संस्कृतं  

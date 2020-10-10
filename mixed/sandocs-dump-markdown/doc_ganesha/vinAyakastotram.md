@@ -1,23 +1,23 @@
-+++
-"Text title" = "vinAyakastotram"
-"File name" = "vinaayaka.itx"
-itxtitle = "vinAyakastotram"
-engtitle = "vinAyakastotra"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "M Suresh msuresh at altavista.net"
-"Proofread by" = "M Suresh msuresh at altavista.net"
-Description-comments = "shrIbrahmANDapurANe skandaprokta"
-"Latest update" = "January 21, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विनायकस्तोत्रम्"
+---
+Category: ganesha, stotra
+Description-comments: shrIbrahmANDapurANe skandaprokta
+File name: vinaayaka.itx
+Language: Sanskrit
+Latest update: January 21, 1999
+Location: doc_ganesha
+Proofread by: M Suresh msuresh at altavista.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: vinAyakastotram
+Texttype: stotra
+Transliterated by: M Suresh msuresh at altavista.net
+engtitle: vinAyakastotra
+itxtitle: vinAyakastotram
+title: विनायकस्तोत्रम्
 
-+++
+---
   
  श्रीविनायकस्तोत्रम्   
   

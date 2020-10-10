@@ -1,22 +1,22 @@
-+++
-"Text title" = "dakShiNAmUrtidhyAnam"
-"File name" = "dakShiNAmUrtidhyAnam.itx"
-itxtitle = "dakShiNAmUrtidhyAnam (sadAshivendravirachitam)"
-engtitle = "dakShiNAmUrtidhyAnam"
-Category = "shiva, major_works, sadAshivabrahmendra, dhyAnam"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sadashivendra Sarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्तिध्यानम् (सदाशिवेन्द्रविरचितम्)"
+---
+Author: Sadashivendra Sarasvati
+Category: shiva, major_works, sadAshivabrahmendra, dhyAnam
+File name: dakShiNAmUrtidhyAnam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 2, 2018
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: dakShiNAmUrtidhyAnam
+engtitle: dakShiNAmUrtidhyAnam
+itxtitle: dakShiNAmUrtidhyAnam (sadAshivendravirachitam)
+title: दक्षिणामूर्तिध्यानम् (सदाशिवेन्द्रविरचितम्)
 
-+++
+---
   
  श्रीदक्षिणामूर्तिध्यानम्   
 वटस्याधः कञ्चित्करकमलचिन्मुद्रमचलं  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "siddhasarasvatIstotram 2"
-"File name" = "siddhasarasvatIstotram2.itx"
-itxtitle = "siddhasarasvatIstotram 2 (sanatkumArasaMhitAyAm)"
-engtitle = "siddhasarasvatIstotram 2"
-Category = "devii, devI, sarasvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धसरस्वतीस्तोत्रम् २ (सनत्कुमारसंहितायाम्)"
+---
+Category: devii, devI, sarasvatI
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: siddhasarasvatIstotram2.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: siddhasarasvatIstotram 2
+engtitle: siddhasarasvatIstotram 2
+itxtitle: siddhasarasvatIstotram 2 (sanatkumArasaMhitAyAm)
+title: सिद्धसरस्वतीस्तोत्रम् २ (सनत्कुमारसंहितायाम्)
 
-+++
+---
   
  सिद्धसरस्वतीस्तोत्रम् २   
 ॐ अस्य श्रीसरस्वतीस्तोत्रमन्त्रस्य मार्कण्डेयऋषिः,  
@@ -84,7 +84,7 @@ title = "सिद्धसरस्वतीस्तोत्रम् २ (�
 निर्विघ्नं तस्य विद्या प्रभवति सततं चाऽऽशु ग्रन्थप्रबोधः  
      कीर्तिस्त्रैलोक्यमध्ये निवसति वदने शारदा तस्य साक्षाद् ।  
 दीर्घायुर्लोकपूज्यः सकलगुणनिधिः सन्ततं राजमान्यते  
-     वाग्देव्याः संप्रसादात् त्रिजगति विजयो जायते तस्य साक्षाद् ॥ ८॥  
+     वाग्देव्याः सम्प्रसादात् त्रिजगति विजयो जायते तस्य साक्षाद् ॥ ८॥  
   
 ब्रह्मचारी व्रती मौनी त्रयोदश्यामहर्निशम् ।  
 सारस्वतो जनः पाठाद् भवेदिष्टार्थलाभवान् ॥ ९॥  

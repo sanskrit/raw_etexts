@@ -1,24 +1,24 @@
-+++
-"Text title" = "surasasubodhA vishvamanojnA"
-"File name" = "surasasubodhAvishvamanojnA.itx"
-itxtitle = "surasasubodhA vishvamanojnA"
-engtitle = "surasasubodhA vishvamanojnA"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "paM. vasanta gADagIlaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुरससुबोधा विश्वमनोज्ञा"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: paM. vasanta gADagIlaH
+Category: misc, sanskritgeet
+File name: surasasubodhAvishvamanojnA.itx
+Indexextra: (Wiki, Videos 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: surasasubodhA vishvamanojnA
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: surasasubodhA vishvamanojnA
+itxtitle: surasasubodhA vishvamanojnA
+title: सुरससुबोधा विश्वमनोज्ञा
 
-+++
+---
   
  सुरससुबोधा विश्वमनोज्ञा   
 सुरससुबोधा विश्वमनोज्ञा  

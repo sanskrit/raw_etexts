@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Rajarajeshvari Stuti or Rajarajeshvaryashtakam"
-"File name" = "rAjarAjeshvaryaShTakam.itx"
-itxtitle = "rAjarAjeshvaryaShTakam 2 rAjarAjeshvaryAH stutiH (AdikShAnta samastavarNavibhavA)"
-engtitle = "rAjarAjeshvaryaShTakam 2"
-Category = "devii, dashamahAvidyA, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "rAjAnaka vidyAdhara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Girdhari Lal koul glkoul.18 at gmail.com"
-"Proofread by" = "Girdhari Lal koul glkoul.18 at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "November 30, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राजराजेश्वर्यष्टकम् २ राजराजेश्वर्याः स्तुतिः (आदिक्षान्त समस्तवर्णविभवा)"
+---
+Author: rAjAnaka vidyAdhara
+Category: devii, dashamahAvidyA, aShTaka, devI
+File name: rAjarAjeshvaryaShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 30, 2019
+Location: doc_devii
+Proofread by: Girdhari Lal koul glkoul.18 at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Rajarajeshvari Stuti or Rajarajeshvaryashtakam
+Transliterated by: Girdhari Lal koul glkoul.18 at gmail.com
+engtitle: rAjarAjeshvaryaShTakam 2
+itxtitle: rAjarAjeshvaryaShTakam 2 rAjarAjeshvaryAH stutiH (AdikShAnta samastavarNavibhavA)
+title: राजराजेश्वर्यष्टकम् २ राजराजेश्वर्याः स्तुतिः (आदिक्षान्त समस्तवर्णविभवा)
 
-+++
+---
   
  श्रीराजराजेश्वर्याः स्तुतिः अथवा राजराजेश्वर्यष्टकम्   
 ॐ नमः पराशक्तये ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "himagireH shRingam"
-"File name" = "himagireHshRRingam.itx"
-itxtitle = "himagireH shRiNgam"
-engtitle = "himagireHshRRingam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "nArAyaNabhaTTaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हिमगिरेः शृइण्गम्"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: nArAyaNabhaTTaH
+Category: misc, sanskritgeet
+File name: himagireHshRRingam.itx
+Indexextra: (Wiki, 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: himagireH shRingam
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: himagireHshRRingam
+itxtitle: himagireH shRiNgam
+title: हिमगिरेः शृइण्गम्
 
-+++
+---
   
  हिमगिरेः शृङ्गम्   
 हिमगिरेः शृङ्गम्, देवनदीं गङ्गां  

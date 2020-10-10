@@ -1,21 +1,21 @@
-+++
-"Text title" = "tripurasundarIpuShpAnjalistavaH"
-"File name" = "tripurasundarIpuShpAnjalistavaH.itx"
-itxtitle = "tripurasundarIpuShpAnjalistavaH"
-engtitle = "tripurasundarIpuShpAnjalistavaH"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Latest update" = "December 27, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरसुन्दरीपुष्पाञ्जलिस्तवः"
+---
+Category: devii, dashamahAvidyA, devI
+File name: tripurasundarIpuShpAnjalistavaH.itx
+Language: Sanskrit
+Latest update: December 27, 2016
+Location: doc_devii
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tripurasundarIpuShpAnjalistavaH
+engtitle: tripurasundarIpuShpAnjalistavaH
+itxtitle: tripurasundarIpuShpAnjalistavaH
+title: त्रिपुरसुन्दरीपुष्पाञ्जलिस्तवः
 
-+++
+---
   
  त्रिपुरसुन्दरीपुष्पाञ्जलिस्तवः   
   
@@ -32,7 +32,7 @@ title = "त्रिपुरसुन्दरीपुष्पाञ्ज�
 लज्जां विहाय बहुधा बहवोऽपि देवाः सम्पूजिता जडधिया नतु कोऽपि दृष्टः ।  
 लब्धं तवैव रमणीयवपुर्दृशा मे पुष्पाञ्जलिश्चरणयोरयमम्ब कीर्णः ॥ ४॥  
   
-ह्रींकारमन्त्रनिलये बहुशो भवाब्धौ मग्नः परं तु न कदापि गतोऽस्मि पारम् ।  
+ह्रीङ्कारमन्त्रनिलये बहुशो भवाब्धौ मग्नः परं तु न कदापि गतोऽस्मि पारम् ।  
 तत्तारणे निपुणयोस्त्रिपुरे मयाद्य पुष्पाञ्जलिश्चरणयोरयमम्ब कीर्णः ॥ ५॥  
   
 हस्तेषु पाशमहनीयसितेक्षुचापे पुष्पास्त्रमङ्कुशवरं ललितं दधाने ।  

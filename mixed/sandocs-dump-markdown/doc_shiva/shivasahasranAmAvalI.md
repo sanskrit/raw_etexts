@@ -1,21 +1,21 @@
-+++
-"Text title" = "shivasahasranAmAvalI"
-"File name" = "shiva-1000.itx"
-itxtitle = "shivasahasranAmAvalI"
-engtitle = "Siva's 1000 Names"
-Category = "sahasranAmAvalI, shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Proofread by Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "June 20, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसहस्रनामावली"
+---
+Category: sahasranAmAvalI, shiva, nAmAvalI
+File name: shiva-1000.itx
+Language: Sanskrit
+Latest update: June 20, 2011
+Location: doc_shiva
+Proofread by: Proofread by Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivasahasranAmAvalI
+Texttype: nAmAvalI
+engtitle: Siva's 1000 Names
+itxtitle: shivasahasranAmAvalI
+title: शिवसहस्रनामावली
 
-+++
+---
   
  श्रीशिवसहस्रनामावली   
   
@@ -73,7 +73,7 @@ title = "शिवसहस्रनामावली"
 ॐनियमाय नमः ।  
 ॐ नियमाश्रिताय नमः ।  
 ॐ सर्वकर्मणे नमः ।  
-ॐ स्वयंभूताय नमः ।  
+ॐ स्वयम्भूताय नमः ।  
 ॐ आदये नमः ।  
 ॐ आदिकराय नमः ।  
 ॐ निधये नमः ।  
@@ -165,7 +165,7 @@ title = "शिवसहस्रनामावली"
 ॐ सेनापतये नमः ।  
 ॐ विभवे नमः ।  
 ॐ अहश्चराय नमः ।  
-ॐ नक्तंचराय नमः ।  
+ॐ नक्तञ्चराय नमः ।  
 ॐ तिग्ममन्यवे नमः ।  
 ॐ सुवर्चसाय नमः ।  
 ॐ गजघ्ने नमः । १५०।  
@@ -285,7 +285,7 @@ title = "शिवसहस्रनामावली"
 ॐ त्रिदशाय नमः ।  
 ॐ त्रिकालधृते नमः ।  
 ॐ कर्मसर्वबन्धविमोचनाय नमः ।  
-ॐ असुरेन्द्राणांबन्धनाय नमः ।  
+ॐ असुरेन्द्राणाम्बन्धनाय नमः ।  
 ॐ युधि शत्रुविनाशनाय नमः ।  
 ॐ साङ्ख्यप्रसादाय नमः ।  
 ॐ दुर्वाससे नमः । २७०।  
@@ -308,7 +308,7 @@ title = "शिवसहस्रनामावली"
 ॐ माक्षाय नमः ।  
 ॐ विजयक्षाय नमः ।  
 ॐ विशारदाय नमः ।  
-ॐ संग्रहाय नमः । २९०।  
+ॐ सङ्ग्रहाय नमः । २९०।  
 ॐ निग्रहाय नमः ।  
 ॐ कर्त्रे नमः ।  
 ॐ सर्पचीरनिवासनाय नमः ।  
@@ -883,7 +883,7 @@ title = "शिवसहस्रनामावली"
 ॐ गतये नमः ।  
 ॐ अनन्तरूपाय नमः ।  
 ॐ नैकात्मने नमः ।  
-ॐ स्वयंभुव तिग्मतेजसे नमः ।  
+ॐ स्वयम्भुव तिग्मतेजसे नमः ।  
 ॐ ऊर्ध्वगात्मने नमः ।  
 ॐ पशुपतये नमः ।  
 ॐ वातरंहाय नमः ।  
@@ -921,7 +921,7 @@ title = "शिवसहस्रनामावली"
 ॐ वसुरादित्याय नमः । ९००।  
 ॐ विवस्वते सवितामृताय नमः ।  
 ॐ व्यासाय नमः ।  
-ॐ सर्गाय सुसंक्षेपाय विस्तराय नमः ।  
+ॐ सर्गाय सुसङ्क्षेपाय विस्तराय नमः ।  
 ॐ पर्यायोनराय  नमः ।  
 ॐ ऋतवे नमः ।  
 ॐ संवत्सराय नमः ।  
@@ -971,7 +971,7 @@ title = "शिवसहस्रनामावली"
 ॐ सर्वदेवमयाय नमः । ९५०।  
 ॐ अचिन्त्याय नमः ।  
 ॐ देवतात्मने नमः ।  
-ॐ आत्मसंभवाय नमः ।  
+ॐ आत्मसम्भवाय नमः ।  
 ॐ उद्भिदे नमः ।  
 ॐ त्रिविक्रमाय नमः ।  
 ॐ वैद्याय नमः ।  

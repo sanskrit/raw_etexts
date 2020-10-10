@@ -1,25 +1,25 @@
-+++
-"Text title" = "shivaTANDava stotra"
-"File name" = "shivtAND.itx"
-itxtitle = "shivatANDavastotram (rAvaNarachitam)"
-engtitle = "Shivatandavastotra (Ravana)"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Ravana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Girish Beeharry and Sushil D. Sharma sushil at synopsys.com"
-"Proofread by" = "Girish Beeharry and Sushil D. Sharma"
-Description-comments = "Extended version with 17 verses"
-Indexextra = "(Meanings 1 2, 3, 4, 5, 6, 7, Hindi, Gujarati)"
-"Latest update" = "February 16, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवताण्डवस्तोत्रम् (रावणरचितम्)"
+---
+Author: Ravana
+Category: shiva, stotra
+Description-comments: Extended version with 17 verses
+File name: shivtAND.itx
+Indexextra: (Meanings 1 2, 3, 4, 5, 6, 7, Hindi, Gujarati)
+Language: Sanskrit
+Latest update: February 16, 2018
+Location: doc_shiva
+Proofread by: Girish Beeharry and Sushil D. Sharma
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivaTANDava stotra
+Texttype: stotra
+Transliterated by: Girish Beeharry and Sushil D. Sharma sushil at synopsys.com
+engtitle: Shivatandavastotra (Ravana)
+itxtitle: shivatANDavastotram (rAvaNarachitam)
+title: शिवताण्डवस्तोत्रम् (रावणरचितम्)
 
-+++
+---
   
  श्रीशिवताण्डवस्तोत्रम् रावणरचितम्   
   
@@ -95,7 +95,7 @@ title = "शिवताण्डवस्तोत्रम् (रावणर
 निलिम्पनाथनागरीकदम्बमौलमल्लिका-  
      निगुम्फनिर्भरक्षरन्मधूष्णिकामनोहरः ।  
 तनोतु नो मनोमुदं विनोदिनीमहर्निशं  
-     परश्रियः परं पदंतदङ्गजत्विषां चयः ॥ १४॥  
+     परश्रियः परं पदन्तदङ्गजत्विषां चयः ॥ १४॥  
   
 प्रचण्डवाडवानलप्रभाशुभप्रचारणी  
      महाष्टसिद्धिकामिनीजनावहूतजल्पना ।  

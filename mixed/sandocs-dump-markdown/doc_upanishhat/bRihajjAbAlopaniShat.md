@@ -1,24 +1,24 @@
-+++
-"Text title" = "Brihat-Jabala Upanishad"
-"File name" = "brihajjabala.itx"
-itxtitle = "bRihajjAbAlopaniShat"
-engtitle = "Brihat-Jabala Upanishad"
-Category = "upanishhat, svara, upanishad, shiva"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "26/108; Atharva Veda, Shaiva Upanishad"
-"Latest update" = "Nov. 05, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बृइहज्जाबालोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, svara, upanishad, shiva
+Description-comments: 26/108; Atharva Veda, Shaiva Upanishad
+File name: brihajjabala.itx
+Language: Sanskrit
+Latest update: Nov. 05, 1999
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Brihat-Jabala Upanishad
+Texttype: svara
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Brihat-Jabala Upanishad
+itxtitle: bRihajjAbAlopaniShat
+title: बृइहज्जाबालोपनिषत्
 
-+++
+---
   
  बृहज्जाबालोपनिषत्   
   
@@ -110,7 +110,7 @@ title = "बृइहज्जाबालोपनिषत्"
 तथैव निम्नगः सोमः शिवशक्तिपदास्पदः ॥ ८॥  
   
 शिवश्चोर्ध्वमयः शक्तिरूर्ध्वशक्तिमयः शिवः ।  
-तदित्थं शिवशक्तिभ्यां नाव्याप्तमिह किंचन ॥ ९॥  
+तदित्थं शिवशक्तिभ्यां नाव्याप्तमिह किञ्चन ॥ ९॥  
   
 असकृच्चाग्निना दग्धं जगत्तद्भस्मसात्कृतम् ।  
 अग्नेर्वीर्यमिदं प्राहुस्तद्वीर्यं भस्म यत्ततः ॥ १०॥  
@@ -173,7 +173,7 @@ title = "बृइहज्जाबालोपनिषत्"
 गोमयं शोधयेद्विद्वान्श्रीर्मे भजतुमन्त्रतः ॥ ८॥  
   
 अलक्ष्मीर्म इति मन्त्रेण गोमयं धान्यवर्जितम् ।  
-संत्वासिंचामि मन्त्रेण गोमये क्षिपेत् ॥ ९॥  
+सन्त्वासिञ्चामि मन्त्रेण गोमये क्षिपेत् ॥ ९॥  
   
 पञ्चानां त्विति मन्त्रेण पिण्डानां च चतुर्दश ।  
 कुर्यात्संशोध्य किरणैः सौरकैराहरेत्ततः ॥ १०॥  
@@ -218,7 +218,7 @@ title = "बृइहज्जाबालोपनिषत्"
 शुक्लयज्ञोपवीती च शुक्लमाल्यानुलेपनः ॥ २३॥  
   
 शुक्लदन्तो भस्मदिग्धो मन्त्रेणानेन मन्त्रवित् ।  
-ॐ तद्ब्रह्मेति चोच्चार्य पौलकं भस्म संत्यजेत् ॥ २४॥  
+ॐ तद्ब्रह्मेति चोच्चार्य पौलकं भस्म सन्त्यजेत् ॥ २४॥  
   
 तत्र चावाहनमुखानुपचारांस्तु षोडश ।  
 कुर्याद्व्याहृतिभिस्त्वेवं ततोऽग्निमुपसंहरेत् ॥ २५॥  
@@ -251,7 +251,7 @@ title = "बृइहज्जाबालोपनिषत्"
 प्रथममनुकल्पम् । द्वितीयमुपकल्पम् ।  
 उपोपकल्पं तृतीयम् । अकल्पं चतुर्थम् ।  
 अग्निहोत्रं समुद्भूतं विरजानलजमनुकल्पम् ।  
-वने शुष्कं शकृत्संगृह्य कल्पोक्तविधिना  
+वने शुष्कं शकृत्सङ्गृह्य कल्पोक्तविधिना  
 कल्पितमुपकल्पं स्यात् ।  
 अरण्ये शुष्कगोमयं चूर्णीकृत्य गोमूत्रैः पिण्डीकृत्य  
 यथाकल्पं संस्कृतमुपोपकल्पम् ।  शिवालयस्थमकल्पं  

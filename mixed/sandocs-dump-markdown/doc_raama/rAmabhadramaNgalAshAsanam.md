@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmabhadramangalAshAsanam"
-"File name" = "rAmabhadramangalAshAsanam.itx"
-itxtitle = "rAmabhadramaNgalAshAsanam"
-engtitle = "rAmabhadramangalAshAsanam"
-Category = "raama, rAmAnujasampradAya, mangala"
-Location = "doc_raama"
-Sublocation = "raama"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामभद्रमण्गलाशासनम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: raama, rAmAnujasampradAya, mangala
+File name: rAmabhadramangalAshAsanam.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmabhadramangalAshAsanam
+engtitle: rAmabhadramangalAshAsanam
+itxtitle: rAmabhadramaNgalAshAsanam
+title: रामभद्रमण्गलाशासनम्
 
-+++
+---
   
  श्रीरामभद्रमङ्गलाशासनम्   
   

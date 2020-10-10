@@ -1,24 +1,24 @@
-+++
-"Text title" = "puShTimArgalakShaNAni"
-"File name" = "puShTimArgalakShaNAni.itx"
-itxtitle = "puShTimArgalakShaNAni (haridAsanirUpitAni)"
-engtitle = "puShTimArgalakShaNAni"
-Category = "vishhnu, krishna, puShTimArgIya, haridAsa"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "haridAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पुष्टिमार्गलक्षणानि (हरिदासनिरूपितानि)"
+---
+Author: haridAsa
+Category: vishhnu, krishna, puShTimArgIya, haridAsa
+Description/comments: puShTimArgIya stotraratnAkara
+File name: puShTimArgalakShaNAni.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: puShTimArgalakShaNAni
+engtitle: puShTimArgalakShaNAni
+itxtitle: puShTimArgalakShaNAni (haridAsanirUpitAni)
+title: पुष्टिमार्गलक्षणानि (हरिदासनिरूपितानि)
 
-+++
+---
   
  पुष्टिमार्गलक्षणानि   
   

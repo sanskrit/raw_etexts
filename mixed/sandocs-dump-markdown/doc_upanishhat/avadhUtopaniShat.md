@@ -1,23 +1,23 @@
-+++
-"Text title" = "Avadhuta Upanishad"
-"File name" = "avadhuta.itx"
-itxtitle = "avadhUtopaniShat"
-engtitle = "Avadhuta Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "79 / 108; Krishna Yajurveda - Sanyasa upanishad"
-"Latest update" = "Mar. 27, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अवधूतोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 79 / 108; Krishna Yajurveda - Sanyasa upanishad
+File name: avadhuta.itx
+Language: Sanskrit
+Latest update: Mar. 27, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Avadhuta Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Avadhuta Upanishad
+itxtitle: avadhUtopaniShat
+title: अवधूतोपनिषत्
 
-+++
+---
   
  अवधूतोपनिषत्   
   
@@ -30,7 +30,7 @@ title = "अवधूतोपनिषत्"
   
 ॐ शान्तिः शान्तिः शान्तिः ॥  
   
-हरिः ॐ अथ ह सांकृतिर्भगवन्तमवधूतं दत्तात्रेयं  
+हरिः ॐ अथ ह साङ्कृतिर्भगवन्तमवधूतं दत्तात्रेयं  
 परिसमेत्य पप्रच्छ भगवन्कोऽवधूतस्य का स्थितिः किं  
 लक्ष्म किं संसरणमिति । तं होवाच भगवो दत्तात्रेयः  
 परमकारुणिकः ॥  
@@ -50,9 +50,9 @@ title = "अवधूतोपनिषत्"
 एवं चतुष्पथं कृत्वा ते यान्ति परमां गतिम् ।  
 न कर्मणा न प्रजया धनेन त्यागेनैके अमृतत्वमानशुः ॥ ५॥  
   
-स्वैरं स्वैरविहरणं तत्संसरणम् । सांबरा वा दिगंबरा वा ।  
+स्वैरं स्वैरविहरणं तत्संसरणम् । साम्बरा वा दिगम्बरा वा ।  
 न तेषां धर्माधर्मौ न मेध्यामेधौ । सदा  
-सांग्रहण्येष्ट्याश्वमेधमन्तयागं यजते ।  
+साङ्ग्रहण्येष्ट्याश्वमेधमन्तयागं यजते ।  
 स महामखो महायोगः । कृत्स्नमेतच्चित्रं कर्म।  
 स्वैरं न विगायेत्तन्महाव्रतम् । न स मूढवल्लिप्यते ।  
 यथा रविः सर्वरसान्प्रभुङ्क्ते  
@@ -119,7 +119,7 @@ title = "अवधूतोपनिषत्"
 तारं जपतु वाक्तद्वत्पठत्वाम्नायमस्तकम् ॥ २४॥  
   
 विष्णुं ध्यायतु धीर्यद्वा ब्रह्मानन्दे विलीयताम् ।  
-साक्ष्यहं किंचिदप्यत्र न कुर्वे नापि कारये ॥ २५॥  
+साक्ष्यहं किञ्चिदप्यत्र न कुर्वे नापि कारये ॥ २५॥  
   
 कृतकृत्यतया तृप्तः प्राप्तप्राप्यतया पुनः ।  
 तृप्यन्नेवं स्वमनसा मन्यतेसौ निरन्तरम् ॥ २६॥  
@@ -130,7 +130,7 @@ title = "अवधूतोपनिषत्"
 धन्योऽहं धन्योऽहं दुःखं सांसारिकं न वीक्षेऽद्य ।  
 धन्योऽहं धन्योऽहं स्वस्याज्ञानं पलायितं क्वापि ॥ २८॥  
   
-धन्योऽहं धन्योऽहं कर्तव्यं मे न विद्यते किंचित् ।  
+धन्योऽहं धन्योऽहं कर्तव्यं मे न विद्यते किञ्चित् ।  
 धन्योऽहं धन्योऽहं प्राप्तव्यं सर्वमत्र सम्पन्नम् ॥ २९॥  
   
 धन्योऽहं धन्योऽहं तृप्तेर्मे कोपमा भवेल्लोके ।  

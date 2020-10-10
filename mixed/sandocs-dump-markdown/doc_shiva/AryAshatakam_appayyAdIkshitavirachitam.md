@@ -1,23 +1,23 @@
-+++
-"Text title" = "AryAshatakam by Shri Appayya Dikshit"
-"File name" = "AryAshatakamappayyA.itx"
-itxtitle = "AryAshatakam (appayyAdIkshitavirachitam)"
-engtitle = "AryAshatakam by Shri Appayya Dikshit"
-Category = "shataka, shiva, appayya-dIkShita"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Appayya Dixit"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "shaivam.org, Sunder Hattangadi"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com, Rajani"
-Indexextra = "(Scanned TIkA)"
-"Latest update" = "August 4, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आर्याशतकम् (अप्पय्यादीक्षितविरचितम्)"
+---
+Author: Appayya Dixit
+Category: shataka, shiva, appayya-dIkShita
+File name: AryAshatakamappayyA.itx
+Indexextra: (Scanned TIkA)
+Language: Sanskrit
+Latest update: August 4, 2016
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com, Rajani
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: AryAshatakam by Shri Appayya Dikshit
+Transliterated by: shaivam.org, Sunder Hattangadi
+engtitle: AryAshatakam by Shri Appayya Dikshit
+itxtitle: AryAshatakam (appayyAdIkshitavirachitam)
+title: आर्याशतकम् (अप्पय्यादीक्षितविरचितम्)
 
-+++
+---
   
  आर्याशतकम् श्रीमदप्पय्यदीक्षितविरचितम्   
 दयया यदीयया वाङ्नवरसरुचिरा सुधाधिकोदेति ।  

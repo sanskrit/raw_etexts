@@ -1,23 +1,23 @@
-+++
-"Text title" = "narmadaashhTakaM Hymn to River Narmada"
-"File name" = "narmadaa8.itx"
-itxtitle = "narmadAShTakam (shaNkarAchAryavirachitam)"
-engtitle = "Hymn to River Narmada"
-Category = "aShTaka, devii, nadI, devI, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Savithri D. savdev at hotmail.com"
-"Proofread by" = "Savithri D. savdev at hotmail.com"
-"Latest update" = "April 17, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नर्मदाष्टकम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: aShTaka, devii, nadI, devI, shankarAchArya
+File name: narmadaa8.itx
+Language: Sanskrit
+Latest update: April 17, 2020
+Location: doc_devii
+Proofread by: Savithri D. savdev at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism
+Sublocation: devii
+Text title: narmadaashhTakaM Hymn to River Narmada
+Transliterated by: Savithri D. savdev at hotmail.com
+engtitle: Hymn to River Narmada
+itxtitle: narmadAShTakam (shaNkarAchAryavirachitam)
+title: नर्मदाष्टकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  नर्मदाष्टकं   
 सबिन्दुसिन्धुसुस्खलत्तरङ्गभङ्गरञ्जितं  
@@ -52,7 +52,7 @@ title = "नर्मदाष्टकम् (शण्कराचार्य
   
 अलक्षलक्षलक्षपापलक्षसारसायुधं  
 ततस्तु जीवजन्तुतन्तुभुक्तिमुक्तिदायकम् ।  
-विरिञ्चिविष्णुशंकरस्वकीयधामवर्मदे  
+विरिञ्चिविष्णुशङ्करस्वकीयधामवर्मदे  
 त्वदीयपादपङ्कजं नमामि देवि नर्मदे ॥ ७॥  
   
 अहो धृतं स्वनं श्रुतं महेशिकेशजातटे  
@@ -67,7 +67,7 @@ title = "नर्मदाष्टकम् (शण्कराचार्य
   
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-श्रीमच्छंकरभगवतः कृतौ  
+श्रीमच्छङ्करभगवतः कृतौ  
 नर्मदाष्टकं सम्पूर्णम् ॥  
   
   

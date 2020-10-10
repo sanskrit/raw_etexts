@@ -1,20 +1,20 @@
-+++
-"Text title" = "Shri Mallikarjuna Mangalashasanam"
-"File name" = "mallikArjunamangalAshAsanam.itx"
-itxtitle = "mallikArjunamaNgalAshAsanam"
-engtitle = "mallikArjunamangalAshAsanam"
-Category = "shiva, mangala"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Info)"
-"Latest update" = "July 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मल्लिकार्जुनमण्गलाशासनम्"
+---
+Category: shiva, mangala
+File name: mallikArjunamangalAshAsanam.itx
+Indexextra: (Info)
+Language: Sanskrit
+Latest update: July 7, 2019
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Mallikarjuna Mangalashasanam
+engtitle: mallikArjunamangalAshAsanam
+itxtitle: mallikArjunamaNgalAshAsanam
+title: मल्लिकार्जुनमण्गलाशासनम्
 
-+++
+---
   
  श्रीमल्लिकार्जुनमङ्गलाशासनम्   
 उमाकान्ताय कान्ताय कामितार्थप्रदायिने ।  

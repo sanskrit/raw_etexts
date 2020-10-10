@@ -1,22 +1,22 @@
-+++
-"Text title" = "Mukambika Suprabhatam"
-"File name" = "mUkAmbikAsuprabhAtam.itx"
-itxtitle = "mUkAmbikAsuprabhAtam"
-engtitle = "mUkAmbikAsuprabhAtam"
-Category = "devii, suprabhAta, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com, NA"
-Indexextra = "(Scan, Video)"
-"Latest update" = "June 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मूकाम्बिकासुप्रभातम्"
+---
+Category: devii, suprabhAta, otherforms, devI
+File name: mUkAmbikAsuprabhAtam.itx
+Indexextra: (Scan, Video)
+Language: Sanskrit
+Latest update: June 29, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Mukambika Suprabhatam
+Transliterated by: NA
+engtitle: mUkAmbikAsuprabhAtam
+itxtitle: mUkAmbikAsuprabhAtam
+title: मूकाम्बिकासुप्रभातम्
 
-+++
+---
   
  श्रीमूकाम्बिका सुप्रभातं   
 उत्तिष्ठोत्तिष्ठ मूकाम्बा उत्तिष्ठ जगदीश्वरि ।  

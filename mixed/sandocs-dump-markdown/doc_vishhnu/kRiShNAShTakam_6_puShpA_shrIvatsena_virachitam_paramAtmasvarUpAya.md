@@ -1,26 +1,26 @@
-+++
-"Text title" = "kRiShNAShTakam 6"
-"File name" = "kRiShNAShTakam.itx"
-itxtitle = "kRiShNAShTakam 6 (puShpA shrIvatsena virachitam paramAtmasvarUpAya)"
-engtitle = "kRiShNAShTakam 6"
-Category = "vishhnu, puShpAshrIvatsan, krishna, aShTaka, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णाष्टकम् ६ (पुष्पा श्रीवत्सेन विरचितम् परमात्मस्वरूपाय)"
+---
+Author: Pushpa Srivatsan
+Category: vishhnu, puShpAshrIvatsan, krishna, aShTaka, vishnu
+File name: kRiShNAShTakam.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 28, 2017
+Location: doc_vishhnu
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRiShNAShTakam 6
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: kRiShNAShTakam 6
+itxtitle: kRiShNAShTakam 6 (puShpA shrIvatsena virachitam paramAtmasvarUpAya)
+title: कृइष्णाष्टकम् ६ (पुष्पा श्रीवत्सेन विरचितम् परमात्मस्वरूपाय)
 
-+++
+---
   
  श्रीकृष्णाष्टकम्   
                  ॐ  

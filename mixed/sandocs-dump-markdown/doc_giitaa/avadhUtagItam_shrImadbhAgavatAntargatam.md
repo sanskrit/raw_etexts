@@ -1,25 +1,25 @@
-+++
-"Text title" = "Avadhutagitam from Shrimad Bhagavata"
-"File name" = "avadhUtagItam.itx"
-itxtitle = "avadhUtagItam (shrImadbhAgavatAntargatam)"
-engtitle = "avadhUtagItam"
-Category = "gItam, giitaa, vyAsa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "Vyasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Portion of adhyAyas 7, 8 and 9 of uddhavagItA"
-Source = "Bhagavatam"
-Indexextra = "(tIkA-ShridharaSwamin, Hindi)"
-"Latest update" = "September 24, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अवधूतगीतम् (श्रीमद्भागवतान्तर्गतम्)"
+---
+Author: Vyasa
+Category: gItam, giitaa, vyAsa
+Description-comments: Portion of adhyAyas 7, 8 and 9 of uddhavagItA
+File name: avadhUtagItam.itx
+Indexextra: (tIkA-ShridharaSwamin, Hindi)
+Language: Sanskrit
+Latest update: September 24, 2017
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Bhagavatam
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: Avadhutagitam from Shrimad Bhagavata
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: avadhUtagItam
+itxtitle: avadhUtagItam (shrImadbhAgavatAntargatam)
+title: अवधूतगीतम् (श्रीमद्भागवतान्तर्गतम्)
 
-+++
+---
   
  अवधूतगीतम्   
   
@@ -126,7 +126,7 @@ title = "अवधूतगीतम् (श्रीमद्भागवता
 तं तं समनयत् कामं कृच्छ्रेण अपि अजितैन्द्रियः ॥ ५६॥  
   
 कपोती प्रथमं गर्भं गृह्णति कालः आगते ।  
-अण्डानि सुषुवे नीडे स्वपत्युः संनिधौ सती ॥ ५७॥  
+अण्डानि सुषुवे नीडे स्वपत्युः सन्निधौ सती ॥ ५७॥  
   
 तेषू काले व्यजायन्त रचितावयवा हरेः ।  
 शक्तिभिः दुर्विभाव्याभिः कोमलाङ्गतनूरुहाः ॥ ५८॥  
@@ -324,7 +324,7 @@ title = "अवधूतगीतम् (श्रीमद्भागवता
 छित्वोपशममास्थाय शय्यामुपविवेश सा ॥ ४३॥  
   
 आशा हि परमं दुःखं नैराश्यं परमं सुखम् ।  
-यथा संछिद्य कान्ताशां सुखं सुष्वाप पिङ्गला ॥ ४४॥  
+यथा सञ्छिद्य कान्ताशां सुखं सुष्वाप पिङ्गला ॥ ४४॥  
   
 इति श्रीमद्भागवते महापुराणे पारमहंस्यां  
 संहितायामेकादशस्कन्धे पिङ्गलोपाख्याऽनेष्टमोऽध्यायः  
@@ -392,7 +392,7 @@ title = "अवधूतगीतम् (श्रीमद्भागवता
 केवलानुभवानन्दसन्दोहो निरुपाधिकः ॥ १८॥  
   
 केवलात्मानुभावेन स्वमायां त्रिगुणात्मिकाम् ।  
-संक्षोभयन्सृजत्यादौ तया सूत्रमरिन्दम ॥ १९॥  
+सङ्क्षोभयन्सृजत्यादौ तया सूत्रमरिन्दम ॥ १९॥  
   
 तामाहुस्त्रिगुणव्यक्तिं सृजन्तीं विश्वतोमुखम् ।  
 यस्मिन्प्रोतमिदं विश्वं येन संसरते पुमान् ॥ २०॥  

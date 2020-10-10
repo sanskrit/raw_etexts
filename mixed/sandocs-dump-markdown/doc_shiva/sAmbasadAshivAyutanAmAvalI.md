@@ -1,24 +1,26 @@
-+++
-"Text title" = "10000 names of Sambasadashiva"
-"File name" = "sAmbasadAshivAyutanAmAvalI.itx"
-itxtitle = "sAmbasadAshivAyutanAmAvalI"
-engtitle = "10000 names of Sambasadashiva"
-Category = "shiva, AyutanAmAvalI, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Shree Devi Kumar, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Compiled by Brahma Vidya Ratna, Rashtrapati Sammanita Vaidya S.V. Radhakrishna Sastri, Srirangam, Chennai"
-Source = "Various Puranas.  Published in shivanAmamanjari by Mahaperiyaval Trust"
-Indexextra = "(nAmAvalI, shivanAmAmanjarI)"
-Acknowledge-Permission = "Sri Mahaperiyaval Trust, Gurukripa, 94, I.T.I. Layout, M.S.R.I.T. Nagar. Bangalore"
-"Latest update" = "June 5, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "साम्बसदाशिवायुतनामावली"
+---
+Acknowledge-Permission: Sri Mahaperiyaval Trust, Gurukripa, 94, I.T.I. Layout, M.S.R.I.T.
+  Nagar. Bangalore
+Category: shiva, AyutanAmAvalI, nAmAvalI
+Description/comments: Compiled by Brahma Vidya Ratna, Rashtrapati Sammanita Vaidya
+  S.V. Radhakrishna Sastri, Srirangam, Chennai
+File name: sAmbasadAshivAyutanAmAvalI.itx
+Indexextra: (nAmAvalI, shivanAmAmanjarI)
+Language: Sanskrit
+Latest update: June 5, 2019
+Location: doc_shiva
+Proofread by: Shree Devi Kumar, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Various Puranas.  Published in shivanAmamanjari by Mahaperiyaval Trust
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: 10000 names of Sambasadashiva
+engtitle: 10000 names of Sambasadashiva
+itxtitle: sAmbasadAshivAyutanAmAvalI
+title: साम्बसदाशिवायुतनामावली
 
-+++
+---
   
  साम्बसदाशिवायुतनामावलिः   
 पुराणानि समस्तानि विलोड्यैषा समुद्धृता ।  
@@ -477,8 +479,8 @@ title = "साम्बसदाशिवायुतनामावली"
 औकारस्य सुब्रह्मण्यो देवता । राजवश्यार्थे विनियोगः ।  
 ॐ औकाराय नमः । औङ्कारेश्वरपूजिताय नमः । १०६९  
   
-अंकारस्य परमात्मा देवता । हस्तिवश्यार्थे विनियोगः ।  
-ॐ अंकाराय नमः । अङ्कितोत्तमवर्णाय । अङ्गलुब्धाय । अङ्गाय ।  
+अङ्कारस्य परमात्मा देवता । हस्तिवश्यार्थे विनियोगः ।  
+ॐ अङ्काराय नमः । अङ्कितोत्तमवर्णाय । अङ्गलुब्धाय । अङ्गाय ।  
 अङ्गुष्ठशिरसा लङ्कानाथदर्पहराय । अङ्गिरसे । अङ्गहारिणे ।  
 अन्तकान्तकाय । अन्तकहर्त्रे । अन्तःस्थाय । अन्तरिक्षस्वरूपाय नमः । १०८०  
   
@@ -3127,7 +3129,7 @@ title = "साम्बसदाशिवायुतनामावली"
 वरुणाधाराय । वर्गत्रयाय । वर्गाय । वरीयसे । रूपिणे । वरुणाधाराय ।  
 वर्गत्रयाय । वर्गाय । वरीयसे । वरेड्याय । वरभूषणदीप्ताङ्गाय ।  
 वराहभेदिने । वारुणाय । वारणमदापहाराय । वारिधिनिषङ्गाय ।  
-वारिकल्लोलसंक्षुब्धमहाबुद्धिविघट्टनाय । वारिधीशशरधये ।  
+वारिकल्लोलसङ्क्षुब्धमहाबुद्धिविघट्टनाय । वारिधीशशरधये ।  
 वारणाजिनपरिवृताय । वाराशितूणीराय । वारितातनुसंसारसन्तापाय ।  
 वारुणीमदखण्डनाय नमः । ७४८०  
   
@@ -3561,7 +3563,7 @@ title = "साम्बसदाशिवायुतनामावली"
 शिष्यान्तरनिवासाय । शिष्यनामकज्ञात्रात्मने । शेषस्तुत्याय नमः । ८५००  
   
 ॐ शेषवासुकिसंसेव्याय नमः । शेषदेवादिपुरुषाय ।  
-शेष्यशेषकलाश्रयाय । शेषसंज्ञिताय । श्रेष्ठाय ।  
+शेष्यशेषकलाश्रयाय । शेषसञ्ज्ञिताय । श्रेष्ठाय ।  
 शस्त्राये । शस्त्रहारिणे । शस्त्रभृतां रामाय । श्वसते ।  
 शास्त्राय । शास्त्रे । शास्त्रकराय । शास्त्रवित्तमाय ।  
 शास्त्रनेत्राय । शास्त्रसंवेद्याय । शास्त्रतत्त्वज्ञाय ।  

@@ -3,7 +3,6 @@ title: 034 Rama consoles Dasaratha
 title_english: 034 Rama consoles Dasaratha
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-034-Dasharatha_Murchchaa.mp3"></div>
 
 ततःकमलपत्राक्षः श्यामो निरुपमो महान् ।  
@@ -137,7 +136,7 @@ title_english: 034 Rama consoles Dasaratha
 एवम् स राजा व्यसनाभिपन्नः ।  
 शोकेन दुःखेन च ताम्यमानः ।  
 आलिङ्ग्य पुत्रम् सुविनष्टसम्ज्ञो ।  
-मोहम् गतो नैव चिचेश्ट किंचित् ॥ २-३४-६०  
+मोहम् गतो नैव चिचेश्ट किञ्चित् ॥ २-३४-६०  
 देव्यस्ततः सम्रुरुदुः समेता ।  
 स्ताम् वर्जयित्वा नरदेवपत्नीम् ।  
 रुदन् सुमन्त्रोऽपि जगाम मूर्छाम् ।  

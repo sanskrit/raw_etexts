@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Panchangam"
-"File name" = "bAlApanchAngam.itx"
-itxtitle = "bAlApanchANgam (rudrayAmalAntargatam)"
-engtitle = "bAlApanchAngam"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH, Rudrayamala"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालापञ्चाण्गम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH, Rudrayamala
+File name: bAlApanchAngam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Panchangam
+engtitle: bAlApanchAngam
+itxtitle: bAlApanchANgam (rudrayAmalAntargatam)
+title: बालापञ्चाण्गम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीबालापञ्चाङ्गम्   
 श्रीभैरव उवाच-  
@@ -54,7 +54,7 @@ title = "बालापञ्चाण्गम् (रुद्रयामल
 बिन्दुत्रिकोणवसुनागदलाढ्य वेद  
      गेहान्विते परमयन्त्रवरे निषण्णाम् ।  
 ध्यायन्ति ये परिकरेण समन्वितां त्वां  
-     संप्राप्नुवन्ति तव देवि परं पदं तत् ॥ ४॥  
+     सम्प्राप्नुवन्ति तव देवि परं पदं तत् ॥ ४॥  
   
 इतीदं परमं गुह्यमङ्गभूतं हि पञ्चमम् ।  
 देवि त्रिपुरसुन्दर्याः श्रीबालायाः स्तवोत्तमम् ॥ ५॥  

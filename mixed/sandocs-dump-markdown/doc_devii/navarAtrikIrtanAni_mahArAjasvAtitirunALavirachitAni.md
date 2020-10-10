@@ -1,24 +1,24 @@
-+++
-"Text title" = "Navaratri Kirtanam by MahArAjA SvAti TirunAL"
-"File name" = "navarAtrikIrtanAnimahArAjasvAtitirunAL.itx"
-itxtitle = "navarAtrikIrtanAni (mahArAjasvAtitirunALavirachitAni)"
-engtitle = "Navaratri Kirtanam by MahArAjA SvAti TirunAL"
-Category = "devii, kRitI, svAtitirunAL, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "svAtitirunAL"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Collection"
-Indexextra = "(Videos)"
-"Latest update" = "August 23, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवरात्रिकीर्तनानि (महाराजस्वातितिरुनाळविरचितानि)"
+---
+Author: svAtitirunAL
+Category: devii, kRitI, svAtitirunAL, devI
+Description-comments: Collection
+File name: navarAtrikIrtanAnimahArAjasvAtitirunAL.itx
+Indexextra: (Videos)
+Language: Sanskrit
+Latest update: August 23, 2019
+Location: doc_devii
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Navaratri Kirtanam by MahArAjA SvAti TirunAL
+Transliterated by: Pallasena Narayanaswami ppnswami at gmail.com
+engtitle: Navaratri Kirtanam by MahArAjA SvAti TirunAL
+itxtitle: navarAtrikIrtanAni (mahArAjasvAtitirunALavirachitAni)
+title: नवरात्रिकीर्तनानि (महाराजस्वातितिरुनाळविरचितानि)
 
-+++
+---
   
  महाराजा श्री स्वाति तिरुनाळ् विरचितानि नवरात्रिकीर्तनानि   
 Introduction :    

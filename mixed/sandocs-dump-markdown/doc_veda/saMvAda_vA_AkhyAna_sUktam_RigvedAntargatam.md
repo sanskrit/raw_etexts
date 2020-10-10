@@ -1,22 +1,22 @@
-+++
-"Text title" = "samvAdasUkta Rigveda saMhitA maNDala 10"
-"File name" = "samvAdasUkta.itx"
-itxtitle = "saMvAda vA AkhyAna sUktam (RigvedAntargatam)"
-engtitle = "Samvada or Akhyana sukta from Rigveda Samhita Mandala 10"
-Category = "sUkta, veda, svara, rigveda"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism, Literature of ancient India"
-Description-comments = "Samvada sUkta comprises conversation between"
-"Latest update" = "September 2, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संवाद वा आख्यान सूक्तम् (ऋइग्वेदान्तर्गतम्)"
+---
+Author: Vedic Tradition
+Category: sUkta, veda, svara, rigveda
+Description-comments: Samvada sUkta comprises conversation between
+File name: samvAdasUkta.itx
+Language: Sanskrit
+Latest update: September 2, 2012
+Location: doc_veda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism, Literature of ancient India
+Sublocation: veda
+Text title: samvAdasUkta Rigveda saMhitA maNDala 10
+Texttype: svara
+engtitle: Samvada or Akhyana sukta from Rigveda Samhita Mandala 10
+itxtitle: saMvAda vA AkhyAna sUktam (RigvedAntargatam)
+title: संवाद वा आख्यान सूक्तम् (ऋइग्वेदान्तर्गतम्)
 
-+++
+---
   
  संवाद अथवा आख्यान सूक्त ऋग्वेद संहिता मण्डल १०   
   

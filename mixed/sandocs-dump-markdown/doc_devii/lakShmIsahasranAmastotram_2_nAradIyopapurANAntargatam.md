@@ -1,24 +1,24 @@
-+++
-"Text title" = "lakShmIsahasranAmastotram 2"
-"File name" = "lakShmIsahasranAmastotram2.itx"
-itxtitle = "lakShmIsahasranAmastotram 2 (nAradIyopapurANAntargatam)"
-engtitle = "lakShmIsahasranAmastotram 2"
-Category = "sahasranAma, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(Scanned book)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "October 6, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीसहस्रनामस्तोत्रम् २ (नारदीयोपपुराणान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAma, devii, lakShmI, devI
+Description-comments: Edited by S. V. Radhakrishna Shastriji
+File name: lakShmIsahasranAmastotram2.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: October 6, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmIsahasranAmastotram 2
+engtitle: lakShmIsahasranAmastotram 2
+itxtitle: lakShmIsahasranAmastotram 2 (nAradIyopapurANAntargatam)
+title: लक्ष्मीसहस्रनामस्तोत्रम् २ (नारदीयोपपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीलक्ष्मीसहस्रनामस्तोत्रम् २   
 (नारदीयोपपुराणतः)  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "durgAShTakam 2"
-"File name" = "durgAShTakam2.itx"
-itxtitle = "durgAShTakam 2"
-engtitle = "durgAShTakam 2"
-Category = "aShTaka, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. R. Ramamurthy"
-"Proofread by" = "P. R. Ramamurthy"
-"Latest update" = "January 23, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गाष्टकम् २"
+---
+Category: aShTaka, devii, durgA, devI
+File name: durgAShTakam2.itx
+Language: Sanskrit
+Latest update: January 23, 2016
+Location: doc_devii
+Proofread by: P. R. Ramamurthy
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAShTakam 2
+Transliterated by: P. R. Ramamurthy
+engtitle: durgAShTakam 2
+itxtitle: durgAShTakam 2
+title: दुर्गाष्टकम् २
 
-+++
+---
   
  दुर्गाष्टकम् २   
   

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Batukabhairava Hridayam"
-"File name" = "baTukabhairavahRidayastotram.itx"
-itxtitle = "baTukabhairavahRidayastotram"
-engtitle = "baTukabhairavahRidayastotram"
-Category = "hRidaya, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, NA"
-"Latest update" = "November 21, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बटुकभैरवहृइदयस्तोत्रम्"
+---
+Category: hRidaya, shiva
+File name: baTukabhairavahRidayastotram.itx
+Language: Sanskrit
+Latest update: November 21, 2016
+Location: doc_shiva
+Proofread by: Gopal Upadhyay, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Batukabhairava Hridayam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: baTukabhairavahRidayastotram
+itxtitle: baTukabhairavahRidayastotram
+title: बटुकभैरवहृइदयस्तोत्रम्
 
-+++
+---
   
  श्रीबटुकभैरवहृदयस्तोत्रम्   
   

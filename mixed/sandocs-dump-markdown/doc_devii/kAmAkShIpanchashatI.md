@@ -1,23 +1,23 @@
-+++
-"Text title" = "kAmAkShIpanchashatI"
-"File name" = "kAmAkShIpanchashatI.itx"
-itxtitle = "kAmAkShIpanchashatI"
-engtitle = "kAmAkShIpanchashatI"
-Category = "shatI, devii, devI, panchashatI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामाक्षीपञ्चशती"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: shatI, devii, devI, panchashatI
+File name: kAmAkShIpanchashatI.itx
+Indexextra: (stotramanjari 2)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAmAkShIpanchashatI
+Transliterated by: Shree Devi Kumar
+engtitle: kAmAkShIpanchashatI
+itxtitle: kAmAkShIpanchashatI
+title: कामाक्षीपञ्चशती
 
-+++
+---
   
  श्रीकामाक्षीपञ्चशती   
   
@@ -322,7 +322,7 @@ title = "कामाक्षीपञ्चशती"
 ॐ दीप्यन्त्यै नमः ।  
 ॐ कान्तिधूतजपाछव्यै नमः । ३००  
 ॐ हृदयाकाशतरण्यै नमः ।  
-ॐ ह्रींकार्यै नमः ।  
+ॐ ह्रीङ्कार्यै नमः ।  
 ॐ हृष्टमानसायै नमः ।  
 ॐ ह्रीमत्यै नमः ।  
 ॐ हृदयाकाशज्योत्स्नायै नमः ।  

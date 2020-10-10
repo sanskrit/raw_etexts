@@ -1,20 +1,20 @@
-+++
-"Text title" = "mohanAShTakam"
-"File name" = "mohanAShTakam.itx"
-itxtitle = "mohanAShTakam (mohanadAsa karamachanda gAndhI)"
-engtitle = "mohanAShTakam Eight verses praising Mahatma Gandhi"
-Category = "misc, aShTaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Latest update" = "August 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मोहनाष्टकम् (मोहनदास करमचन्द गान्धी)"
+---
+Category: misc, aShTaka
+File name: mohanAShTakam.itx
+Language: Sanskrit
+Latest update: August 28, 2017
+Location: doc_z_misc_general
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: mohanAShTakam
+engtitle: mohanAShTakam Eight verses praising Mahatma Gandhi
+itxtitle: mohanAShTakam (mohanadAsa karamachanda gAndhI)
+title: मोहनाष्टकम् (मोहनदास करमचन्द गान्धी)
 
-+++
+---
   
  मोहनाष्टकम्   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "dakShiNAmUrti aShTottara shatanAmAvali"
-"File name" = "dakshina108naama.itx"
-itxtitle = "dakShiNAmUrtyaShTottarashatanAmAvaliH"
-engtitle = "dakShiNAmUrti aShTottara shatanAmAvali"
-Category = "aShTottarashatanAmAvalI, shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Arun Shantharam shantharam.arun at gmail.com"
-"Proofread by" = "Arun Shantharam shantharam.arun at gmail.com"
-Indexextra = "(info)"
-"Latest update" = "April 6, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्त्यष्टोत्तरशतनामावलिः"
+---
+Category: aShTottarashatanAmAvalI, shiva, nAmAvalI
+File name: dakshina108naama.itx
+Indexextra: (info)
+Language: Sanskrit
+Latest update: April 6, 2009
+Location: doc_shiva
+Proofread by: Arun Shantharam shantharam.arun at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: dakShiNAmUrti aShTottara shatanAmAvali
+Texttype: nAmAvalI
+Transliterated by: Arun Shantharam shantharam.arun at gmail.com
+engtitle: dakShiNAmUrti aShTottara shatanAmAvali
+itxtitle: dakShiNAmUrtyaShTottarashatanAmAvaliH
+title: दक्षिणामूर्त्यष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीदक्षिणामूर्त्यष्टोत्तरशतनामावलिः   
 ॐ विद्यारूपिणे नमः ।  
@@ -43,10 +43,10 @@ title = "दक्षिणामूर्त्यष्टोत्तरश�
 ॐ उक्षवाहाय नमः     ॥ २०॥  
   
 ॐ चर्मवाससे नमः ।  
-ॐ पीतांबर विभूषणाय नमः ।  
+ॐ पीताम्बर विभूषणाय नमः ।  
 ॐ मोक्षदायिने नमः ।  
 ॐ मोक्ष निधये नमः ।  
-ॐ अंधकारये नमः ।  
+ॐ अन्धकारये नमः ।  
 ॐ जगत्पतये नमः ।  
 ॐ विद्याधारिणे नमः ।  
 ॐ शुक्ल तनवे नमः ।  
@@ -77,8 +77,8 @@ title = "दक्षिणामूर्त्यष्टोत्तरश�
   
 ॐ त्रयीमूर्तये नमः ।  
 ॐ परब्रह्मणे नमः ।  
-ॐ नागराजैरलंकृताय नमः ।  
-ॐ शांतरूपायमहाज्ञानिने नमः ।  
+ॐ नागराजैरलङ्कृताय नमः ।  
+ॐ शान्तरूपायमहाज्ञानिने नमः ।  
 ॐ सर्वलोकविभूषणाय नमः ।  
 ॐ अर्धनारीश्वराय नमः ।  
 ॐ देवाय नमः ।  
@@ -87,7 +87,7 @@ title = "दक्षिणामूर्त्यष्टोत्तरश�
 ॐ व्याख्यानदेवाय नमः ॥ ६०॥  
   
 ॐ भगवते नमः ।  
-ॐ रविचंद्राग्नि लोचनाय नमः ।  
+ॐ रविचन्द्राग्नि लोचनाय नमः ।  
 ॐ जगद्गुरवे नमः ।  
 ॐ महादेवाय नमः ।  
 ॐ महानन्द परायणाय नमः ।  

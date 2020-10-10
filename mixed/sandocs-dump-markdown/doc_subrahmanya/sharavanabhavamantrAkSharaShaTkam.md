@@ -1,22 +1,22 @@
-+++
-"Text title" = "sharavanabhavamantrAkSharaShaTkam"
-"File name" = "sharavanabhavamantrAkSharaShaTkam.itx"
-itxtitle = "sharavanabhavamantrAkSharaShaTkam"
-engtitle = "sharavanabhavamantrAkSharaShaTkam"
-Category = "ShaTkam, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran"
-Description-comments = "Subrahmanya Stuti Manjari, Mahaperiaval Trust"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "December 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरवनभवमन्त्राक्षरषट्कम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: ShaTkam, subrahmanya
+Description-comments: Subrahmanya Stuti Manjari, Mahaperiaval Trust
+File name: sharavanabhavamantrAkSharaShaTkam.itx
+Language: Sanskrit
+Latest update: December 22, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: sharavanabhavamantrAkSharaShaTkam
+engtitle: sharavanabhavamantrAkSharaShaTkam
+itxtitle: sharavanabhavamantrAkSharaShaTkam
+title: शरवनभवमन्त्राक्षरषट्कम्
 
-+++
+---
   
  श्रीशरवनभवमन्त्राक्षरषट्कम्   
   

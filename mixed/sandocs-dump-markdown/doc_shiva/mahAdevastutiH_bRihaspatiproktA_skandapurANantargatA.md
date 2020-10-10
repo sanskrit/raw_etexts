@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAdevastutiH"
-"File name" = "mahAdevastutiH.itx"
-itxtitle = "mahAdevastutiH (bRihaspatiproktA skandapurANantargatA)"
-engtitle = "mahAdevastutiH"
-Category = "shiva, stuti, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Brihaspati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Source = "Kashikhanda Skandapurana"
-Indexextra = "(Translation)"
-"Latest update" = "August 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महादेवस्तुतिः (बृइहस्पतिप्रोक्ता स्कन्दपुराणन्तर्गता)"
+---
+Author: Brihaspati
+Category: shiva, stuti, stotra
+File name: mahAdevastutiH.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: August 2, 2017
+Location: doc_shiva
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Kashikhanda Skandapurana
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mahAdevastutiH
+engtitle: mahAdevastutiH
+itxtitle: mahAdevastutiH (bRihaspatiproktA skandapurANantargatA)
+title: महादेवस्तुतिः (बृइहस्पतिप्रोक्ता स्कन्दपुराणन्तर्गता)
 
-+++
+---
   
  महादेवस्तुतिः   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "uktiprtyuktistotram"
-"File name" = "uktiprtyuktistotram.itx"
-itxtitle = "ukti pratyuktistotram"
-engtitle = "ukti pratyukti stotram"
-Category = "vishhnu, vishnu_misc, vAdirAja, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Author = "Shri Vadirajayati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at sify.com"
-"Proofread by" = "N.Balasubramanian bbalu at sify.com"
-"Latest update" = "August 10, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उक्ति प्रत्युक्तिस्तोत्रम्"
+---
+Author: Shri Vadirajayati
+Category: vishhnu, vishnu_misc, vAdirAja, vishnu
+File name: uktiprtyuktistotram.itx
+Language: Sanskrit
+Latest update: August 10, 2007
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at sify.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: uktiprtyuktistotram
+Transliterated by: N.Balasubramanian bbalu at sify.com
+engtitle: ukti pratyukti stotram
+itxtitle: ukti pratyuktistotram
+title: उक्ति प्रत्युक्तिस्तोत्रम्
 
-+++
+---
   
  उक्ति प्रत्युक्तिस्तोत्रम्   
   
@@ -119,7 +119,7 @@ Krishna:-  मातः! O mother! कञ्चन वत्सकं मृग�
 इत्येवं वरवल्लवी प्रतिवचः कृष्णस्य पुष्णातु नः = let  
 such words of Krishna given in reply to the good gopi woman  protect us.  
   
-   ॥ इति श्रीवादिराजयति कृतम् उक्ति-प्रत्युक्ति स्तोत्रम् संपूर्णम् ॥  
+   ॥ इति श्रीवादिराजयति कृतम् उक्ति-प्रत्युक्ति स्तोत्रम् सम्पूर्णम् ॥  
   
   
 Encoded, translated, and proofread by N.Balasubramanian bbalu@sify.com  

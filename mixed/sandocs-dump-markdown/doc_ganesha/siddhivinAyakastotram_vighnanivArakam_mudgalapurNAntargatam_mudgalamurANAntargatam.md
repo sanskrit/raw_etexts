@@ -1,24 +1,24 @@
-+++
-"Text title" = "vighnanivArakaM siddhivinAyakastotram"
-"File name" = "vighnanivArakaMsiddhivinAyakastotram.itx"
-itxtitle = "siddhivinAyakastotram vighnanivArakam (mudgalapurNAntargatam) (mudgalamurANAntargatam)"
-engtitle = "vighnanivArakaM siddhivinAyakastotram"
-Category = "ganesha, stotra, aShTaka"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj"
-"Proofread by" = "Karthik Chandan.P : Amith K Nagaraj (amithkn at rediffmail.com)"
-Description-comments = "mudgalapurANa"
-"Latest update" = "March 9, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धिविनायकस्तोत्रम् विघ्ननिवारकम् (मुद्गलपुर्णान्तर्गतम्) (मुद्गलमुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: ganesha, stotra, aShTaka
+Description-comments: mudgalapurANa
+File name: vighnanivArakaMsiddhivinAyakastotram.itx
+Language: Sanskrit
+Latest update: March 9, 2004
+Location: doc_ganesha
+Proofread by: 'Karthik Chandan.P : Amith K Nagaraj (amithkn at rediffmail.com)'
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: vighnanivArakaM siddhivinAyakastotram
+Texttype: stotra
+Transliterated by: 'Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj'
+engtitle: vighnanivArakaM siddhivinAyakastotram
+itxtitle: siddhivinAyakastotram vighnanivArakam (mudgalapurNAntargatam) (mudgalamurANAntargatam)
+title: सिद्धिविनायकस्तोत्रम् विघ्ननिवारकम् (मुद्गलपुर्णान्तर्गतम्) (मुद्गलमुराणान्तर्गतम्)
 
-+++
+---
   
  विघ्ननिवारकं सिद्धिविनायकस्तोत्रम्   
   
@@ -39,7 +39,7 @@ title = "सिद्धिविनायकस्तोत्रम् वि�
 शीघ्राञ्चनस्खलनतुङ्गरवोर्ध्वकण्ठस्थूलोन्दुरुद्रवणहासितदेवसङ्घः ।  
 शूर्पश्रुतिश्च पृथुवर्तुलतुङ्गतुन्दो विघ्नं ममापहर सिद्धिविनायक त्वम् ॥ ५॥  
   
-यज्ञोपवीतपदलंभितनागराजो मासादिपुण्यददृशीकृतऋक्षराजः ।  
+यज्ञोपवीतपदलम्भितनागराजो मासादिपुण्यददृशीकृतऋक्षराजः ।  
 भक्ताभयप्रद दयालय विघ्नराज विघ्नं ममापहर सिद्धिविनायक त्वम् ॥ ६॥  
   
 सद्रत्नसारततिराजितसत्किरीटः  कौसुम्भचारुवसनद्वय ऊर्जितश्रीः ।  

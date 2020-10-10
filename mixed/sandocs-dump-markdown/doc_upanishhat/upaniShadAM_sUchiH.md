@@ -1,22 +1,22 @@
-+++
-"Text title" = "A List of Upanishads"
-"File name" = "upanishadconsolidated.itx"
-itxtitle = "upaniShadAM sUchiH"
-engtitle = "upaniShadAM sUchiH"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(muktikopanishad list)"
-"Latest update" = "December 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उपनिषदां सूचिः"
+---
+Category: upanishhat, upanishad
+File name: upanishadconsolidated.itx
+Indexextra: (muktikopanishad list)
+Language: Sanskrit
+Latest update: December 24, 2016
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: A List of Upanishads
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: upaniShadAM sUchiH
+itxtitle: upaniShadAM sUchiH
+title: उपनिषदां सूचिः
 
-+++
+---
   
  उपनिषदां सूचिः   
   
@@ -201,7 +201,7 @@ Sadhale’s upanishad mahAvAkya kosha (marked S). (Total 201 below)
 श्वेतमृत्तिका S  
 श्वेताश्वतर **  
 षोढ A  
-संन्यास **  
+सन्न्यास **  
 सङ्कर्षण A  
 सदानन्द A  
 सन्ध्या S  
@@ -275,7 +275,7 @@ different books and not easily traceable for confirmation. (56 below)
 रुद्राक्षज्वाला  
 लघु अवधूत  
 लघु जाबाल  
-लघु संन्यास  
+लघु सन्न्यास  
 वैराग्य  
 शकट  
 शङ्ख  

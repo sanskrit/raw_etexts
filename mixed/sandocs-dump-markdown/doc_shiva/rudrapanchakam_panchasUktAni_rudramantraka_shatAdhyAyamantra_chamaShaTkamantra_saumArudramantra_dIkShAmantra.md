@@ -1,22 +1,24 @@
-+++
-"Text title" = "Rudra Panchakam Five Suktas related to Rudra devatA"
-"File name" = "rudrapanchakam.itx"
-itxtitle = "rudrapanchakam (panchasUktAni rudramantraka, shatAdhyAyamantra, chamaShaTkamantra, saumArudramantra, dIkShAmantra)"
-engtitle = "rudrapanchakam"
-Category = "shiva, veda"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Sneha Sudha snehasudha13 at gmail.com, NA"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "June 2, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रपञ्चकम् (पञ्चसूक्तानि रुद्रमन्त्रक, शताध्यायमन्त्र, चमषट्कमन्त्र, सौमारुद्रमन्त्र, दीक्षामन्त्र)"
+---
+Category: shiva, veda
+File name: rudrapanchakam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: June 2, 2019
+Location: doc_shiva
+Proofread by: Sneha Sudha snehasudha13 at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Rudra Panchakam Five Suktas related to Rudra devatA
+Transliterated by: NA
+engtitle: rudrapanchakam
+itxtitle: rudrapanchakam (panchasUktAni rudramantraka, shatAdhyAyamantra, chamaShaTkamantra,
+  saumArudramantra, dIkShAmantra)
+title: रुद्रपञ्चकम् (पञ्चसूक्तानि रुद्रमन्त्रक, शताध्यायमन्त्र, चमषट्कमन्त्र, सौमारुद्रमन्त्र,
+  दीक्षामन्त्र)
 
-+++
+---
   
  रुद्रपञ्चकम्   
 रुद्रमन्त्रकसूक्तं प्रथमम्  
@@ -80,7 +82,7 @@ title = "रुद्रपञ्चकम् (पञ्चसूक्तान
 प्रत्युत्क्रान्तानुवाकौ देवर्षी रुद्रदैवत्यस्त्रिष्टुप्च्छन्दश्चयने  
 विनियोगः,  
 नमस्ते देवा रौद्रमानुष्टुभमाद्या गायत्री पञ्चमषष्ठ्यौ  
-पांक्त्यन्ता महापङ्क्तिर्मा भैरेकपदा जगत्यनुष्टुप त्रिष्टुप् महाबृहती  
+पाङ्क्त्यन्ता महापङ्क्तिर्मा भैरेकपदा जगत्यनुष्टुप त्रिष्टुप् महाबृहती  
 यवमध्या रुद्रो देवता चरुमेष्टिका, अस्य रुद्रस्य प्रश्नस्य  
 अनुष्टुपच्छन्दः अघोर ऋषि सङ्कर्षणमूर्तिः सुरूपो योऽसावादित्यः  
 परःपुरुषः सएव देवता, अग्निः क्रतुचरुमायामिष्टिकायां  

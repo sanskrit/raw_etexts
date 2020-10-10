@@ -1,21 +1,21 @@
-+++
-"Text title" = "pingalagItA"
-"File name" = "pingalagiitaa.itx"
-itxtitle = "piNgalAgItA"
-engtitle = "pingalAgItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-"Latest update" = "June 2, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पिण्गलागीता"
+---
+Category: gItA, giitaa
+File name: pingalagiitaa.itx
+Language: Sanskrit
+Latest update: June 2, 1998
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: pingalagItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: pingalAgItA
+itxtitle: piNgalAgItA
+title: पिण्गलागीता
 
-+++
+---
   
  पिङ्गलागीता   
   

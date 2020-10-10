@@ -1,24 +1,25 @@
-+++
-"Text title" = "lalitAmbAparameshvarastavaH"
-"File name" = "lalitAmbAparameshvarastavaH.itx"
-itxtitle = "lalitAmbAparameshvarastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "lalitAmbAparameshvarastavaH"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, shiva, dashamahAvidyA, lalitA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललिताम्बापरमेश्वरस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, shiva, dashamahAvidyA,
+  lalitA
+File name: lalitAmbAparameshvarastavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitAmbAparameshvarastavaH
+engtitle: lalitAmbAparameshvarastavaH
+itxtitle: lalitAmbAparameshvarastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: ललिताम्बापरमेश्वरस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीललिताम्बापरमेश्वरस्तवः   
 कलयतु कन्याणततिं कमलासखपद्मयोनिमुखवन्द्यः ।  

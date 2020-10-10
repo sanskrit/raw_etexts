@@ -1,21 +1,21 @@
-+++
-"Text title" = "kuberAShTottaranAmAvalI"
-"File name" = "kuberAShTottaranAmAvalI.itx"
-itxtitle = "kuberAShTottaranAmAvalI"
-engtitle = "kuberAShTottaranAmAvalI"
-Category = "aShTottarashatanAmAvalI, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "November 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुबेराष्टोत्तरनामावली"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, deities_misc
+File name: kuberAShTottaranAmAvalI.itx
+Language: Sanskrit
+Latest update: November 22, 2016
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: kuberAShTottaranAmAvalI
+engtitle: kuberAShTottaranAmAvalI
+itxtitle: kuberAShTottaranAmAvalI
+title: कुबेराष्टोत्तरनामावली
 
-+++
+---
   
  कुबेराष्टोत्तरशतनामावलिः   
    

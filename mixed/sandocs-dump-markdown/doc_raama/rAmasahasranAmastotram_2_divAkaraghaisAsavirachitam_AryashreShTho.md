@@ -1,21 +1,21 @@
-+++
-"Text title" = "RamasahasranAmastotram 2 by D. A. Ghaisas"
-"File name" = "rAmasahasranAmastotradivAkaraghaisAsa.itx"
-itxtitle = "rAmasahasranAmastotram 2 (divAkaraghaisAsavirachitam AryashreShTho)"
-engtitle = "RamasahasranAmastotram 2"
-Category = "sahasranAma, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Pandit Divakar Anant Ghaisas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Source = "Vishnustutimanjari and Brihatstotraratnakara Dhavele Prakashan"
-"Latest update" = "May 29, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामसहस्रनामस्तोत्रम् २ (दिवाकरघैसासविरचितम् आर्यश्रेष्ठो)"
+---
+Author: Pandit Divakar Anant Ghaisas
+Category: sahasranAma, raama
+File name: rAmasahasranAmastotradivAkaraghaisAsa.itx
+Language: Sanskrit
+Latest update: May 29, 2015
+Location: doc_raama
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Vishnustutimanjari and Brihatstotraratnakara Dhavele Prakashan
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: RamasahasranAmastotram 2 by D. A. Ghaisas
+engtitle: RamasahasranAmastotram 2
+itxtitle: rAmasahasranAmastotram 2 (divAkaraghaisAsavirachitam AryashreShTho)
+title: रामसहस्रनामस्तोत्रम् २ (दिवाकरघैसासविरचितम् आर्यश्रेष्ठो)
 
-+++
+---
   
  श्रीरामसहस्रनामस्तोत्रं अनन्तसुतश्रीदिवाकरविरचितम्   
 अनन्तसुतश्रीदिवाकरघैसासशास्त्रिविरचितं  

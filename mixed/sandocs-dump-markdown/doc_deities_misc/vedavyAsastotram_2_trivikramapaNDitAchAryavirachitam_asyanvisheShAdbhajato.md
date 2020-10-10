@@ -1,28 +1,28 @@
-+++
-"Text title" = "Shri Veda Vyasa Stotram 2"
-"File name" = "vedavyAsastotram2.itx"
-itxtitle = "vedavyAsastotram 2 (trivikramapaNDitAchAryavirachitam asyanvisheShAdbhajato)"
-engtitle = "vedavyAsastotram 2"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "trivikramapaNDitAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वेदव्यासस्तोत्रम् २ (त्रिविक्रमपण्डिताचार्यविरचितम् अस्यन्विशेषाद्भजतो)"
+---
+Author: trivikramapaNDitAchArya
+Category: deities_misc, gurudev
+File name: vedavyAsastotram2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Veda Vyasa Stotram 2
+Transliterated by: Krishnananda Achar
+engtitle: vedavyAsastotram 2
+itxtitle: vedavyAsastotram 2 (trivikramapaNDitAchAryavirachitam asyanvisheShAdbhajato)
+title: वेदव्यासस्तोत्रम् २ (त्रिविक्रमपण्डिताचार्यविरचितम् अस्यन्विशेषाद्भजतो)
 
-+++
+---
   
  श्रीवेदव्यासस्तोत्रम् २   
 अस्यन्विशेषाद्भजतो भवौघाद्व्यगादींश्च विशिष्ट आस ।  
-सोयं हरिर्व्यासपदाभिधेयः संप्रीयतां सत्यवतीसुतोमे ॥ १  
+सोयं हरिर्व्यासपदाभिधेयः सम्प्रीयतां सत्यवतीसुतोमे ॥ १  
                                        (तम्म प्रदीपिका)  
   
 याभ्यां शुश्रूषुरासीः कुरुकुलजनने क्षत्र विप्रोदिताभ्यां  

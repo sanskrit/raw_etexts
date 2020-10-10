@@ -1,23 +1,23 @@
-+++
-"Text title" = "Nrisimha Runamukti Stotram"
-"File name" = "nRRisiMhaRRiNamuktistotram.itx"
-itxtitle = "nRisiMhaRiNamuktistotram"
-engtitle = "Nrisimha Rinamukti Stotram"
-Category = "vishhnu, aShTaka, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Yash Khasbage"
-"Proofread by" = "Yash Khasbage, NA"
-Indexextra = "(Scan)"
-"Latest update" = "June 12, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहऋइणमुक्तिस्तोत्रम्"
+---
+Category: vishhnu, aShTaka, dashAvatAra
+File name: nRRisiMhaRRiNamuktistotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 12, 2020
+Location: doc_vishhnu
+Proofread by: Yash Khasbage, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Nrisimha Runamukti Stotram
+Transliterated by: Yash Khasbage
+engtitle: Nrisimha Rinamukti Stotram
+itxtitle: nRisiMhaRiNamuktistotram
+title: नृइसिंहऋइणमुक्तिस्तोत्रम्
 
-+++
+---
   
  श्रीनृसिंह ऋणमुक्तिस्तोत्रम्   
 देवता कार्यसिद्ध्यर्थं सभास्तम्भसमुद्धितम् ।  

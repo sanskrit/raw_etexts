@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivayogadarpaNam"
-"File name" = "shivayogadarpaNam.itx"
-itxtitle = "shivayogadarpaNam (shivagorakShakRitam)"
-engtitle = "shivayogadarpaNam"
-Category = "yoga, shiva"
-Location = "doc_yoga"
-Sublocation = "yoga"
-SubDeity = "shiva"
-Author = "Shivagoraksha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD, NA"
-"Latest update" = "July 11, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवयोगदर्पणम् (शिवगोरक्षकृइतम्)"
+---
+Author: Shivagoraksha
+Category: yoga, shiva
+File name: shivayogadarpaNam.itx
+Language: Sanskrit
+Latest update: July 11, 2017
+Location: doc_yoga
+Proofread by: DPD, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: shiva
+Subject: philosophy/hinduism/religion
+Sublocation: yoga
+Text title: shivayogadarpaNam
+Transliterated by: DPD
+engtitle: shivayogadarpaNam
+itxtitle: shivayogadarpaNam (shivagorakShakRitam)
+title: शिवयोगदर्पणम् (शिवगोरक्षकृइतम्)
 
-+++
+---
   
  शिवयोगदर्पणम्   
   

@@ -1,21 +1,21 @@
-+++
-"Text title" = "durvAsanApratikArAdashakam"
-"File name" = "durvAsanApratikArAdashakam.itx"
-itxtitle = "durvAsanApratikArAdashakam (vidyAraNyavirachitam)"
-engtitle = "durvAsanApratikArAdashakam"
-Category = "misc, advice, dashaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Swami Vidyaranya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Scan, Translation 1, 2)"
-"Latest update" = "July 15, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्वासनाप्रतिकारादशकम् (विद्यारण्यविरचितम्)"
+---
+Author: Swami Vidyaranya
+Category: misc, advice, dashaka
+File name: durvAsanApratikArAdashakam.itx
+Indexextra: (Scan, Translation 1, 2)
+Language: Sanskrit
+Latest update: July 15, 2018
+Location: doc_z_misc_general
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: durvAsanApratikArAdashakam
+engtitle: durvAsanApratikArAdashakam
+itxtitle: durvAsanApratikArAdashakam (vidyAraNyavirachitam)
+title: दुर्वासनाप्रतिकारादशकम् (विद्यारण्यविरचितम्)
 
-+++
+---
   
  दुर्वासनाप्रतिकारादशकम्   
 प्रातर्वैदिककर्मतः तत्तदनुसद्वेदान्तसच्चिन्तया  

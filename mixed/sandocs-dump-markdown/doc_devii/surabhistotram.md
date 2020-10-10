@@ -1,23 +1,23 @@
-+++
-"Text title" = "surabhistotram"
-"File name" = "surabhistotram.itx"
-itxtitle = "surabhistotram"
-engtitle = "surabhistotram"
-Category = "devii, rAmAnujasampradAya, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुरभिस्तोत्रम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: devii, rAmAnujasampradAya, otherforms, devI
+File name: surabhistotram.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: surabhistotram
+engtitle: surabhistotram
+itxtitle: surabhistotram
+title: सुरभिस्तोत्रम्
 
-+++
+---
   
  सुरभिस्तोत्रम्   
   

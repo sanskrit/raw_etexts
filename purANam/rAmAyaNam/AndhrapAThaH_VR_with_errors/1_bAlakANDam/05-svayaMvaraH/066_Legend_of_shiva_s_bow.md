@@ -3,7 +3,6 @@ title: 066 शिवधनुर्दर्शनम्
 title_english: 066 Legend of shiva s bow
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-066-Shiva_Dhanur_Dharshanam.mp3"></div>
 
 ततः प्रभाते विमले कृतकर्मा नराधिपः।  

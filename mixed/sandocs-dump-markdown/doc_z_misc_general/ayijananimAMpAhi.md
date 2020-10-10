@@ -1,23 +1,23 @@
-+++
-"Text title" = "ayijananimAMpAhi"
-"File name" = "ayijananimAMpAhi.itx"
-itxtitle = "ayijananimAMpAhi"
-engtitle = "ayijananimAMpAhi"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अयिजननिमांपाहि"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: ayijananimAMpAhi.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: ayijananimAMpAhi
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: ayijananimAMpAhi
+itxtitle: ayijananimAMpAhi
+title: अयिजननिमांपाहि
 
-+++
+---
   
  अयि जननि मां पाहि   
 अयि जननि मां पाहि नुतशरणचरणं  

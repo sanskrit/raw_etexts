@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmakRiShNa paramaha.nsopaniShadaM"
-"File name" = "raamakrishnopanishat.itx"
-itxtitle = "rAmakRiShNa paramaha.nsopaniShat"
-engtitle = "Shriramakrishna Paramahansopanishadam"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Swami Harshananda Puri"
-Language = "Sanskrit"
-Subject = "Religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "modern inspired upanishat by Swami Harshananda Puri"
-"Latest update" = "Dec. 26, 1997"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामकृइष्ण परमहंसोपनिषत्"
+---
+Author: Swami Harshananda Puri
+Category: upanishhat, upanishad
+Description-comments: modern inspired upanishat by Swami Harshananda Puri
+File name: raamakrishnopanishat.itx
+Language: Sanskrit
+Latest update: Dec. 26, 1997
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Religion
+Sublocation: upanishhat
+Text title: rAmakRiShNa paramaha.nsopaniShadaM
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Shriramakrishna Paramahansopanishadam
+itxtitle: rAmakRiShNa paramaha.nsopaniShat
+title: रामकृइष्ण परमहंसोपनिषत्
 
-+++
+---
   
  श्रीरामकृष्ण परमहंसोपनिषत्   
   
@@ -36,27 +36,27 @@ title = "रामकृइष्ण परमहंसोपनिषत्"
    तदेव भक्तजनानां शीतल भक्तेः प्रभावात्  
       सगुणः साकारः परमेश्वरो भवति हिममिव  
       जलात् शैत्यात् ।  
-   स एव परमेश्वरो निखिलजगदंतर्यामी च ॥ २॥  
+   स एव परमेश्वरो निखिलजगदन्तर्यामी च ॥ २॥  
   
    राम-कृष्ण-शिव-विष्णु-गाॅडल्लेत्यादि  
-      विविधनामभिर्निर्दिष्टं परंतत्त्वमपि स एव ।  
+      विविधनामभिर्निर्दिष्टं परन्तत्त्वमपि स एव ।  
    स एव लक्ष्मी-दुर्गा-काली-सरस्वतीत्यादि  
       देवीनामभिरपि निर्दिश्यते ॥ ३॥  
   
    व्यवहारदशायां यत्र पुरुषोऽज्ञो द्वैतमिव  
       पश्यति तदा काल्यादि देव्यः परस्यैव ब्रह्मणः  
       शक्तय इति मन्तव्यम् । दाहिकशक्तिर्यथाग्नेः ।  
-   वस्तुतस्तु तयोरत्यंतमभेदः एव ॥४॥  
+   वस्तुतस्तु तयोरत्यन्तमभेदः एव ॥४॥  
   
    परमेश्वरदर्शनमेव मानव जीवनस्य चरमोद्देशः ।  
       तथैव मुक्तेः साध्यत्वात् ।  
    परमेश्वरस्तु द्रष्टुं स्प्रष्टुं च शक्यः ।  
       तेन सहालापोऽपि साध्यः ।  
-      सर्वे धर्माः समानास्तमेव गमयंति च ॥ ५॥  
+      सर्वे धर्माः समानास्तमेव गमयन्ति च ॥ ५॥  
   
    अपि तु मायाजवनिकाच्छन्नः स सुखेन द्रष्टुं  
       न लभ्यः ।  
-      कामकांचन कामनैव माया ।  
+      कामकाञ्चन कामनैव माया ।  
       तदपगमे सः स्वयमेवाविर्भवति मेघापायेंऽशुमानिव ।  
    ज्ञानमिश्रित भक्तिश्च मायानाशोपायः ।  
       स एव सर्वमित्यतो दीनदरिद्ररोग्यज्ञादीनां  
@@ -64,7 +64,7 @@ title = "रामकृइष्ण परमहंसोपनिषत्"
       अनुत्तमोपायश्चित्तशुद्धिद्वारा तं  
       साक्षात्कर्तुम् ॥ ६॥  
   
-   कथंचित्तं ज्ञात्वा दृष्ट्वा स्पृष्ट्वा  
+   कथञ्चित्तं ज्ञात्वा दृष्ट्वा स्पृष्ट्वा  
       भवबन्धनाद्विमुक्ता भवत ।  
       विमुक्ता भवतेत्युपनिषत् ॥ ७॥  
   

@@ -1,25 +1,26 @@
-+++
-"Text title" = "reNukAsaptakam"
-"File name" = "reNukAsaptakam.itx"
-itxtitle = "reNukAsaptakam (gaNapatimunivirachitam)"
-engtitle = "Renuka Saptakam"
-Category = "devii, reNukA, stotra, gaNapati-muni, devI, saptaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Texttype = "stotra"
-Author = "Shri Vasishtha Ganapati Muni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-Description-comments = "The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol 2.13"
-Indexextra = "(Collected Works)"
-"Latest update" = "July 3, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकासप्तकम् (गणपतिमुनिविरचितम्)"
+---
+Author: Shri Vasishtha Ganapati Muni
+Category: devii, reNukA, stotra, gaNapati-muni, devI, saptaka
+Description-comments: The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol
+  2.13
+File name: reNukAsaptakam.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: July 3, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAsaptakam
+Texttype: stotra
+engtitle: Renuka Saptakam
+itxtitle: reNukAsaptakam (gaNapatimunivirachitam)
+title: रेणुकासप्तकम् (गणपतिमुनिविरचितम्)
 
-+++
+---
   
  श्रीरेणुकासप्तकम्   
   

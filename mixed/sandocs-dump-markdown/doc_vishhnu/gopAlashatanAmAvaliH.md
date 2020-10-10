@@ -1,22 +1,22 @@
-+++
-"Text title" = "gopAlashatanAmAvaliH"
-"File name" = "gopAlashatanAmAvaliH.itx"
-itxtitle = "gopAlashatanAmAvaliH"
-engtitle = "gopAlashatanAmAvaliH"
-Category = "vishhnu, krishna, aShTottarashatanAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपालशतनामावलिः"
+---
+Category: vishhnu, krishna, aShTottarashatanAmAvalI
+File name: gopAlashatanAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopAlashatanAmAvaliH
+engtitle: gopAlashatanAmAvaliH
+itxtitle: gopAlashatanAmAvaliH
+title: गोपालशतनामावलिः
 
-+++
+---
   
  श्रीगोपालशतनामावलिः   
   

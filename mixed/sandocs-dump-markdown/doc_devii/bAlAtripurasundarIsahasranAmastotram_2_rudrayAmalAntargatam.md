@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrI bAlAtripurasundarIsahasranAmastotram 2"
-"File name" = "bAlAtripurasundarIsahasranAmastotra2.itx"
-itxtitle = "bAlAtripurasundarIsahasranAmastotram 2 (rudrayAmalAntargatam)"
-engtitle = "bAlAtripurasundarIsahasranAmastotram 2"
-Category = "sahasranAma, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, Alex"
-"Proofread by" = "DPD, PSA Easwaran"
-Description-comments = "From Rudrayamalatantra"
-"Latest update" = "August 19, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालात्रिपुरसुन्दरीसहस्रनामस्तोत्रम् २ (रुद्रयामलान्तर्गतम्)"
+---
+Category: sahasranAma, devii, dashamahAvidyA, devI
+Description-comments: From Rudrayamalatantra
+File name: bAlAtripurasundarIsahasranAmastotra2.itx
+Language: Sanskrit
+Latest update: August 19, 2018
+Location: doc_devii
+Proofread by: DPD, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrI bAlAtripurasundarIsahasranAmastotram 2
+Transliterated by: DPD, Alex
+engtitle: bAlAtripurasundarIsahasranAmastotram 2
+itxtitle: bAlAtripurasundarIsahasranAmastotram 2 (rudrayAmalAntargatam)
+title: बालात्रिपुरसुन्दरीसहस्रनामस्तोत्रम् २ (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीबालात्रिपुरसुन्दरीसहस्रनामस्तोत्रम् २   
   

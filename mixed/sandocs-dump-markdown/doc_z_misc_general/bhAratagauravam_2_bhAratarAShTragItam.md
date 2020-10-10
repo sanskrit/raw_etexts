@@ -1,24 +1,25 @@
-+++
-"Text title" = "Bharata Gauravam 2"
-"File name" = "bhAratagauravam2.itx"
-itxtitle = "bhAratagauravam 2 (bhAratarAShTragItam)"
-engtitle = "bhAratagauravam 2"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "mahAdevashAstri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारतगौरवम् २ (भारतराष्ट्रगीतम्)"
+---
+Author: mahAdevashAstri
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: bhAratagauravam2.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bharata Gauravam 2
+Translated by: Mandar Mali
+engtitle: bhAratagauravam 2
+itxtitle: bhAratagauravam 2 (bhAratarAShTragItam)
+title: भारतगौरवम् २ (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  भारतगौरवम् २   
 (स्रग्धरा)  

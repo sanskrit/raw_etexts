@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ishopanishadbhashyam"
-"File name" = "ishabhashyaGM.itx"
-itxtitle = "IshopaniShadbhAShyam (gaNapatimunivirachitam)"
-engtitle = "Ishopanishadbhashya - Ganapati Muni"
-Category = "upanishhat, gaNapati-muni, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vasishtha Ganapati Muni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "The Collected Works of Vasishtha Kavyakantha Ganapati Muni"
-Indexextra = "(Collected Works)"
-"Latest update" = "July 21, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ईशोपनिषद्भाष्यम् (गणपतिमुनिविरचितम्)"
+---
+Author: Vasishtha Ganapati Muni
+Category: upanishhat, gaNapati-muni, upanishad
+Description-comments: The Collected Works of Vasishtha Kavyakantha Ganapati Muni
+File name: ishabhashyaGM.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: July 21, 2013
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: Ishopanishadbhashyam
+engtitle: Ishopanishadbhashya - Ganapati Muni
+itxtitle: IshopaniShadbhAShyam (gaNapatimunivirachitam)
+title: ईशोपनिषद्भाष्यम् (गणपतिमुनिविरचितम्)
 
-+++
+---
   
  ईशोपनिषद्भाष्यम्   
   
@@ -95,13 +95,13 @@ title = "ईशोपनिषद्भाष्यम् (गणपतिमु
 तु पूर्णानुभूत्यप्रतिद्वन्द्वीति ।  
   
         स पर्यगाच्छुक्रमकायमव्रणमस्नाविरं शुद्धमपापविद्धम् ।  
-        कविर्मनीषीपरिभूः स्वयंभूर्याथातथ्यतोऽर्थान् व्यदधा-  
+        कविर्मनीषीपरिभूः स्वयम्भूर्याथातथ्यतोऽर्थान् व्यदधा-  
         च्छाश्वतीभ्यः समाभ्यः ॥ ८॥  
   
 स मुक्तः पुरुषोऽकायमशरीरं अव्रणमभेद्यत्वात् अस्नाविरमभौतिक-  
 त्वात् । शुद्धममलिनम् । अपापविद्धं असङ्गत्वात् । शुक्रममृतं ज्योतिर्मयं  
 दिव्यं वपुः पर्यगात् प्राप । कविर्मन्त्रदर्शी मनीषी मनस ईशः परिभूः  
-सर्वात्मभावेन व्याप्तः स्वयंभूरमृते दिव्ये वपुषि स्वयमाविर्भावात् । स  
+सर्वात्मभावेन व्याप्तः स्वयम्भूरमृते दिव्ये वपुषि स्वयमाविर्भावात् । स  
 पुरुषोऽर्थान् वेदितव्यानंशान् याथातथ्यतः सत्यतया शाश्वतीभ्यः  
 समाभ्यः चिरं लोके जिज्ञासूनामर्थे स्थितये व्यदधाद्रचयामास । अभि-  
 दधावित्यर्थः । ऋषेरात्मान्वितैव परोक्षवदेषोक्तिः । ईश्वराधि-  

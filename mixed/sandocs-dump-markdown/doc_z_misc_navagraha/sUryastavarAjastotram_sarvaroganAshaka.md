@@ -1,22 +1,22 @@
-+++
-"Text title" = "sUryastavarAjastotram"
-"File name" = "sUryastavarAjastotra.itx"
-itxtitle = "sUryastavarAjastotram (sarvaroganAshaka)"
-engtitle = "sUryastavarAjastotram"
-Category = "stavarAja, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vineet Menon mvineetmenon at gmail.com"
-"Proofread by" = "Vineet Menon mvineetmenon at gmail.com, NA"
-"Latest update" = "May 30, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यस्तवराजस्तोत्रम् (सर्वरोगनाशक)"
+---
+Category: stavarAja, navagraha, stotra
+File name: sUryastavarAjastotra.itx
+Language: Sanskrit
+Latest update: May 30, 2015
+Location: doc_z_misc_navagraha
+Proofread by: Vineet Menon mvineetmenon at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryastavarAjastotram
+Texttype: stotra
+Transliterated by: Vineet Menon mvineetmenon at gmail.com
+engtitle: sUryastavarAjastotram
+itxtitle: sUryastavarAjastotram (sarvaroganAshaka)
+title: सूर्यस्तवराजस्तोत्रम् (सर्वरोगनाशक)
 
-+++
+---
   
  सर्वरोगनाशक श्रीसूर्यस्तवराजस्तोत्रम्   
 विनियोगः - ॐ श्री सूर्यस्तवराजस्तोत्रस्य श्रीवसिष्ठ ऋषिः ।  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "shAkambharI dhyAnaM"
-"File name" = "shAkambharIdhyAnam.itx"
-itxtitle = "shAkambharIdhyAnam"
-engtitle = "shAkambharI dhyAnaM"
-Category = "devii, dashamahAvidyA, dhyAnam, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Information)"
-"Latest update" = "August 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शाकम्भरीध्यानम्"
+---
+Category: devii, dashamahAvidyA, dhyAnam, devI
+File name: shAkambharIdhyAnam.itx
+Indexextra: (Information)
+Language: Sanskrit
+Latest update: August 18, 2018
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAkambharI dhyAnaM
+engtitle: shAkambharI dhyAnaM
+itxtitle: shAkambharIdhyAnam
+title: शाकम्भरीध्यानम्
 
-+++
+---
   
  श्री शाकम्भरीध्यानम्   
 ध्यानम् ।  
@@ -38,7 +38,7 @@ title = "शाकम्भरीध्यानम्"
 खड्गं घण्टां त्रिशूलं लिपिविशदतरं बिभ्रतीं दक्ष हस्तैः  
 पात्रं शीर्षं सुखेटं डमरुकमनिशं वामहस्तैस्त्रिनेत्राम् ।  
 सिंहस्थां तारहारां गदमणिमुकुटां द्योतयन्तीं प्रसन्नां  
-वन्दे पूर्णेन्दुबिम्बां प्रतिरुचिरमुखीं शङ्करीं शंकरेष्टाम् ॥ ५॥  
+वन्दे पूर्णेन्दुबिम्बां प्रतिरुचिरमुखीं शङ्करीं शङ्करेष्टाम् ॥ ५॥  
   
 शूलं खड्गं च डमरुं दधानामभयप्रदम् ।  
 सिंहासनस्थां ध्यायामि देवी शाकम्भरीमहम् ॥ ६॥  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "bilvAShTakaM with meaning"
-"File name" = "bilva8mean.itx"
-itxtitle = "bilvAShTakam (sArtham)"
-engtitle = "bilvAShTakam with meaning"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-Indexextra = "(with meaning)"
-"Latest update" = "August 15, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बिल्वाष्टकम् (सार्थम्)"
+---
+Category: aShTaka, shiva
+File name: bilva8mean.itx
+Indexextra: (with meaning)
+Language: Sanskrit
+Latest update: August 15, 2004
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: bilvAShTakaM with meaning
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+engtitle: bilvAShTakam with meaning
+itxtitle: bilvAShTakam (sArtham)
+title: बिल्वाष्टकम् (सार्थम्)
 
-+++
+---
   
  सार्थ बिल्वाष्टकम्   
   
@@ -260,7 +260,7 @@ doing! \
 औत्कण्ठ्यप्रवृत्तप्रणयबाष्पनिरुद्धावलोकनयन एवं  
 निजरमणारुण-\  
 चराणारविन्दानुध्यानपरिचितभक्तियोगेन  
-परिप्लुतपरमाह्लादगंभीरहृदयह्रदावगाढधिषणस्तामपि\  
+परिप्लुतपरमाह्लादगम्भीरहृदयह्रदावगाढधिषणस्तामपि\  
 क्रियमाणां भगवत्सपर्यां न सस्मार ॥  (5-7-12)  
 The question then is how to get this right frame of mind? This may be  
 done by chanting His names or saying prayers like Vishnu or Shiva  
@@ -286,7 +286,7 @@ this in his Shivamanasa puja. He says:\
       आत्मा त्वं गिरिजा मतिः सहचराः प्राणाः शरीरं गृहं,\  
            पूजा ते विषयोपभोगरचना निद्रा समाधिस्थितिः ।\  
       सञ्चारः पदयोः प्रदक्षिणविधिः स्तोत्राणि सर्वा गिरः,\  
-           यद्यत्कर्म करोमि तत्तदखिलं शंभो तवाराधनम् ॥ \  
+           यद्यत्कर्म करोमि तत्तदखिलं शम्भो तवाराधनम् ॥ \  
 You are the Atman, the self. My mind is Parvati. All my sense organs  
 are your attendents.  
 This body is Your temple. Every sense experience is a form of worship  
@@ -334,7 +334,7 @@ creation and pervade the creation. One of Shiva's names is
 गुणत्रयस्वरूपः ।  He is the cause behind the creation. \  
 त्रिनेत्रम्  = having three eyes. Shiva has three eyes. They are the  
 sun, the moon and Agni or fire. So He is known as त्रिणेत्रः,  
-सोमसूर्याग्निलोचनः, त्र्यंबकः  and  त्रिलोचनः । . The third  
+सोमसूर्याग्निलोचनः, त्र्यम्बकः  and  त्रिलोचनः । . The third  
 eye stands for His infinite wisdom. He is the embodiment of knowledge  
 and knows all says the upanishad.\  
 यः सर्वज्ञः सर्वविद्यस्य ज्ञानमयं तपः । \  
@@ -555,8 +555,8 @@ body of LakShmi Devi and is dear to Lord Mahadeva.
 horrible न विद्यते घोरं यस्मात् तत् अत्यन्त घोरं इत्यर्थः ।   
 While any type of sin is bad, Manu names five as महापातकानि  or  
 most heinous.  They are \  
-ब्रह्महत्या सुरापानं स्तेयं गुर्वंगनागमः ।\  
-महांति पातकान्याहुस्तत्संसर्गश्च पंचमः ॥ \  
+ब्रह्महत्या सुरापानं स्तेयं गुर्वङ्गनागमः ।\  
+महान्ति पातकान्याहुस्तत्संसर्गश्च पञ्चमः ॥ \  
 The reason for saying why seeing or touching the bilva tree is so  
 purifying is because it represents all the gods. This is said in the  
 verse No.9 that follows.\  

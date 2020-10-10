@@ -1,22 +1,22 @@
-+++
-"Text title" = "mangalastotram"
-"File name" = "mangalastotram.itx"
-itxtitle = "maNgalastotram (vyAsakRitam)"
-engtitle = "mangalastotram"
-Category = "deities_misc, gurudev, mangala"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मण्गलस्तोत्रम् (व्यासकृइतम्)"
+---
+Category: deities_misc, gurudev, mangala
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: mangalastotram.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: mangalastotram
+engtitle: mangalastotram
+itxtitle: maNgalastotram (vyAsakRitam)
+title: मण्गलस्तोत्रम् (व्यासकृइतम्)
 
-+++
+---
   
  मङ्गलस्तोत्रम्   
 गणाधिपो भानु-शशी-धरासुतो बुधो गुरुर्भार्गवसूर्यनन्दनाः ।  

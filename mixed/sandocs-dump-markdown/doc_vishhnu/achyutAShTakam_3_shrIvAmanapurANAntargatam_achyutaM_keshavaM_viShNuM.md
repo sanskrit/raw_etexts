@@ -1,22 +1,22 @@
-+++
-"Text title" = "achyuta82 vAmanapurANe"
-"File name" = "achyuta82.itx"
-itxtitle = "achyutAShTakam 3 (shrIvAmanapurANAntargatam achyutaM keshavaM viShNuM)"
-engtitle = "achyutAShTakam 3"
-Category = "aShTaka, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Vamanapurana"
-"Latest update" = "June 13, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अच्युताष्टकम् ३ (श्रीवामनपुराणान्तर्गतम् अच्युतं केशवं विष्णुं)"
+---
+Category: aShTaka, vishhnu, krishna, vishnu
+Description-comments: Vamanapurana
+File name: achyuta82.itx
+Language: Sanskrit
+Latest update: June 13, 2013
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: achyuta82 vAmanapurANe
+engtitle: achyutAShTakam 3
+itxtitle: achyutAShTakam 3 (shrIvAmanapurANAntargatam achyutaM keshavaM viShNuM)
+title: अच्युताष्टकम् ३ (श्रीवामनपुराणान्तर्गतम् अच्युतं केशवं विष्णुं)
 
-+++
+---
   
  अच्युताष्टकम् ३ श्रीवामनपुराणे   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "mAtRibhUmI praarthanaa"
-"File name" = "prarthana.itx"
-itxtitle = "mAtRibhUmI prArthanA (rAShTrIya svayaAMsevaka saNgha)"
-engtitle = "Prayer to Motherland"
-Category = "deities_misc, stotra, sanskritgeet"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Author = "Narahar Narayan Bhide"
-Language = "Sanskrit"
-Subject = "miscellaneous"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Background http://joshiprafull.blogspot.com/2014_04_01_archive.html"
-Indexextra = "(Audio 1, Info 1, 2)"
-"Latest update" = "September 10, 1998"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातृइभूमी प्रार्थना (राष्ट्रीय स्वयआंसेवक सण्घ)"
+---
+Author: Narahar Narayan Bhide
+Category: deities_misc, stotra, sanskritgeet
+Description-comments: Background http://joshiprafull.blogspot.com/2014_04_01_archive.html
+File name: prarthana.itx
+Indexextra: (Audio 1, Info 1, 2)
+Language: Sanskrit
+Latest update: September 10, 1998
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Site access: https://sanskritdocuments.org
+Subject: miscellaneous
+Sublocation: deities_misc
+Text title: mAtRibhUmI praarthanaa
+Texttype: stotra
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Prayer to Motherland
+itxtitle: mAtRibhUmI prArthanA (rAShTrIya svayaAMsevaka saNgha)
+title: मातृइभूमी प्रार्थना (राष्ट्रीय स्वयआंसेवक सण्घ)
 
-+++
+---
   
  मातृभूमी प्रार्थना   
 नमस्ते सदा वत्सले मातृभूमे  
@@ -32,11 +32,11 @@ Forever I bow to Thee, O loving Motherland!
 O great and blessed Holy Land! in thy cause  
       May my body be sacrificed. Obeisance to thee, again and again! 1.  
   
-प्रभो शक्तिमन् हिन्दुराष्ट्रांगभूता । इमे सादरन् त्वां नमामो वयम् ।  
+प्रभो शक्तिमन् हिन्दुराष्ट्राङ्गभूता । इमे सादरन् त्वां नमामो वयम् ।  
 त्वदीयाय कार्याय बद्धा कटीयम् । शुभामाशिशन् देहि तत्पूर्तये ॥  
   
 अजय्यान् च विश्वस्य देहीश शक्तिम् । सुशीलं जगद् येन नम्रं भवेत् ।  
-श्रुतंचैव यत्कण्टकाकीर्णमार्गम् । स्वयं स्वीकृतन् नः सुगंकारयेत् ॥ २॥  
+श्रुतञ्चैव यत्कण्टकाकीर्णमार्गम् । स्वयं स्वीकृतन् नः सुगङ्कारयेत् ॥ २॥  
   
   
 O Almighty! we, children of this Hindu Nation, bow to Thee in reverence .  

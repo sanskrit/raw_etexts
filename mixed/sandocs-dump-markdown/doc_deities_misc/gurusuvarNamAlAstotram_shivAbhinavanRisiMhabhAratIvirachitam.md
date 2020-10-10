@@ -1,23 +1,23 @@
-+++
-"Text title" = "gurusuvarNamAlAstotram"
-"File name" = "gurusuvarNamAlAstotram.itx"
-itxtitle = "gurusuvarNamAlAstotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "gurusuvarNamAlAstotram"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudeva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुसुवर्णमालास्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva
+File name: gurusuvarNamAlAstotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudeva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurusuvarNamAlAstotram
+engtitle: gurusuvarNamAlAstotram
+itxtitle: gurusuvarNamAlAstotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: गुरुसुवर्णमालास्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीगुरुसुवर्णमालास्तोत्रम्   
 श्रीमातृचिन्तनरतः श्रीशाङ्करभाष्यजलधिराकेन्दुः  

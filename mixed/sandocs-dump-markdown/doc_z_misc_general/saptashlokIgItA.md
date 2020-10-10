@@ -1,23 +1,23 @@
-+++
-"Text title" = "saptashlokIgItA"
-"File name" = "saptashlokIgItA.itx"
-itxtitle = "saptashlokIgItA"
-engtitle = "saptashlokIgItA"
-Category = "gItA, misc, vyAsa, saptaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Vyasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "Brihatstotraratnakar 386 pages one, item 181"
-"Latest update" = "January 3, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सप्तश्लोकीगीता"
+---
+Author: Vyasa
+Category: gItA, misc, vyAsa, saptaka
+Description-comments: Brihatstotraratnakar 386 pages one, item 181
+File name: saptashlokIgItA.itx
+Language: Sanskrit
+Latest update: January 3, 2014
+Location: doc_z_misc_general
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: saptashlokIgItA
+Transliterated by: NA
+engtitle: saptashlokIgItA
+itxtitle: saptashlokIgItA
+title: सप्तश्लोकीगीता
 
-+++
+---
   
  सप्तश्लोकीगीता   
   

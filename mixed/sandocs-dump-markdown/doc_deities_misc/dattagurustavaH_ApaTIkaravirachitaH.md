@@ -1,27 +1,28 @@
-+++
-"Text title" = "Dattaguru Stava"
-"File name" = "dattagurustavaH.itx"
-itxtitle = "dattagurustavaH (ApaTIkaravirachitaH)"
-engtitle = "dattagurustavaH"
-Category = "deities_misc, dattatreya, ApaTIkara"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "ma. sa. ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तगुरुस्तवः (आपटीकरविरचितः)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma. sa. ApaTIkara
+Category: deities_misc, dattatreya, ApaTIkara
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: dattagurustavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_deities_misc
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Dattaguru Stava
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: dattagurustavaH
+itxtitle: dattagurustavaH (ApaTIkaravirachitaH)
+title: दत्तगुरुस्तवः (आपटीकरविरचितः)
 
-+++
+---
   
  श्रीदत्तगुरुस्तवः   
      (दोधकम्)  

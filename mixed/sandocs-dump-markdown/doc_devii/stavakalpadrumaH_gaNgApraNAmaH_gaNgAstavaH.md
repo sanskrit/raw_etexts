@@ -1,24 +1,24 @@
-+++
-"Text title" = "Stavakalpadrumah"
-"File name" = "stavakalpadrumaH.itx"
-itxtitle = "stavakalpadrumaH gaNgApraNAmaH gaNgAstavaH"
-engtitle = "stavakalpadrumaH"
-Category = "devii, devI, nadI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Proofread by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Description/comments" = "Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty"
-Indexextra = "(Scan)"
-"Latest update" = "December 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्तवकल्पद्रुमः गण्गाप्रणामः गण्गास्तवः"
+---
+Category: devii, devI, nadI
+Description/comments: Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty
+File name: stavakalpadrumaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 7, 2019
+Location: doc_devii
+Proofread by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Stavakalpadrumah
+Transliterated by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+engtitle: stavakalpadrumaH
+itxtitle: stavakalpadrumaH gaNgApraNAmaH gaNgAstavaH
+title: स्तवकल्पद्रुमः गण्गाप्रणामः गण्गास्तवः
 
-+++
+---
   
  स्तवकल्पद्रुमः   
 श्रीगणेशाय नमः ।  
@@ -53,7 +53,7 @@ title = "स्तवकल्पद्रुमः गण्गाप्रण�
   
 यस्यास्तवाम्बु कणिकामपि जन्हुकन्ये !  
      सौदासनामनृपतिर्द्विजकोटिहन्ता ।  
-संप्राप्य मुक्तिमगमत् त्रिदशैरलभ्यां  
+सम्प्राप्य मुक्तिमगमत् त्रिदशैरलभ्यां  
      तां त्वां नमामि शिरसा वरदे ! प्रसीद ॥ ३॥  
   
 नारायणाच्युतजनार्दनकृष्णराम  

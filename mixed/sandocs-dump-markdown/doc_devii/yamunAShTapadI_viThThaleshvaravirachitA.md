@@ -1,24 +1,24 @@
-+++
-"Text title" = "yamunAShTapadI"
-"File name" = "yamunAShTapadI.itx"
-itxtitle = "yamunAShTapadI (viThThaleshvaravirachitA)"
-engtitle = "yamunAShTapadI"
-Category = "devii, nadI, puShTimArgIya, aShTaka, viThThaleshvara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "viThThaleshvara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनाष्टपदी (विठ्ठलेश्वरविरचिता)"
+---
+Author: viThThaleshvara
+Category: devii, nadI, puShTimArgIya, aShTaka, viThThaleshvara, devI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: yamunAShTapadI.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunAShTapadI
+engtitle: yamunAShTapadI
+itxtitle: yamunAShTapadI (viThThaleshvaravirachitA)
+title: यमुनाष्टपदी (विठ्ठलेश्वरविरचिता)
 
-+++
+---
   
  यमुनाष्टपदी   
   

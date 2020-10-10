@@ -1,22 +1,22 @@
-+++
-"Text title" = "mahiShAsuramardinI aShTottarashatanAmAvalI"
-"File name" = "mahiShAsuramardinI108nAma.itx"
-itxtitle = "mahiShAsuramardinyaShTottarashatanAmAvalI"
-engtitle = "mahiShAsuramardinyaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-"Latest update" = "August 16, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महिषासुरमर्दिन्यष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, durgA, devI
+File name: mahiShAsuramardinI108nAma.itx
+Language: Sanskrit
+Latest update: August 16, 2014
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahiShAsuramardinI aShTottarashatanAmAvalI
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: mahiShAsuramardinyaShTottarashatanAmAvalI
+itxtitle: mahiShAsuramardinyaShTottarashatanAmAvalI
+title: महिषासुरमर्दिन्यष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीमहिषासुरमर्दिनी अष्टोत्तरशतनामावलिः   
   

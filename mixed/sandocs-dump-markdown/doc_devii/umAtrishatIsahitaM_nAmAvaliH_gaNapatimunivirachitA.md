@@ -1,26 +1,28 @@
-+++
-"Text title" = "umAtrishatievamnAmavalI by Ganapati Muni"
-"File name" = "umAtrishatievamnAmAvalI.itx"
-itxtitle = "umAtrishatIsahitaM  nAmAvaliH (gaNapatimunivirachitA)"
-engtitle = "umAtrishatI with list of 300 names by Ganapati Muni"
-Category = "shatInAmAvalI, devii, pArvatI, nAmAvalI, gaNapati-muni, ramaNa-maharShi, devI, trishatI, trishatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "nAmAvalI"
-Author = "Ganapati Muni with Ramana Maharshi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Description-comments = "From The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol 1"
-Indexextra = "(Collected Works)"
-"Latest update" = "November 24, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उमात्रिशतीसहितं  नामावलिः (गणपतिमुनिविरचिता)"
+---
+Author: Ganapati Muni with Ramana Maharshi
+Category: shatInAmAvalI, devii, pArvatI, nAmAvalI, gaNapati-muni, ramaNa-maharShi,
+  devI, trishatI, trishatI
+Description-comments: From The Collected Works of Vasishtha Kavyakantha Ganapati Muni
+  Vol 1
+File name: umAtrishatievamnAmAvalI.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: November 24, 2012
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: umAtrishatievamnAmavalI by Ganapati Muni
+Texttype: nAmAvalI
+Transliterated by: DPD
+engtitle: umAtrishatI with list of 300 names by Ganapati Muni
+itxtitle: umAtrishatIsahitaM  nAmAvaliH (gaNapatimunivirachitA)
+title: उमात्रिशतीसहितं  नामावलिः (गणपतिमुनिविरचिता)
 
-+++
+---
   
  श्रीउमात्रिशतीसहितं नामावली   
   

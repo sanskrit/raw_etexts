@@ -1,23 +1,23 @@
-+++
-"Text title" = "raamaashhTaka 4 bhaje visheShasundaraM"
-"File name" = "raamaashhTaka4.itx"
-itxtitle = "rAmAShTakam 4 (shrIrAma rAma)"
-engtitle = "rAmAShTakam 4"
-Category = "aShTaka, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Description-comments = "Path Pustakam 1934 Srinagar Kashmir Mercantile Press"
-Indexextra = "(pustakam)"
-"Latest update" = "April 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टकम् ४ (श्रीराम राम)"
+---
+Category: aShTaka, raama
+Description-comments: Path Pustakam 1934 Srinagar Kashmir Mercantile Press
+File name: raamaashhTaka4.itx
+Indexextra: (pustakam)
+Language: Sanskrit
+Latest update: April 21, 2018
+Location: doc_raama
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: raamaashhTaka 4 bhaje visheShasundaraM
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: rAmAShTakam 4
+itxtitle: rAmAShTakam 4 (shrIrAma rAma)
+title: रामाष्टकम् ४ (श्रीराम राम)
 
-+++
+---
   
  श्रीरामाष्टकम् ४   
 ॐ श्रीरामचन्द्राय नमः ।  

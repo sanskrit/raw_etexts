@@ -1,24 +1,24 @@
-+++
-"Text title" = "svarupaanusandhaanaaShTaka"
-"File name" = "svarupa-8.itx"
-itxtitle = "svarUpAnusandhAnAShTakaM vijnAnanaukA cha (shaNkarAchAryavirachitam)"
-engtitle = "Svarupanusandhanashtakam"
-Category = "aShTaka, shankarAchArya, vedanta"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "attributed to shaNkaraachaarya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Vedanta philosophy"
-Indexextra = "(Sanskrit)"
-"Latest update" = "March 22 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वरूपानुसन्धानाष्टकं विज्ञाननौका च (शण्कराचार्यविरचितम्)"
+---
+Author: attributed to shaNkaraachaarya
+Category: aShTaka, shankarAchArya, vedanta
+Description-comments: Vedanta philosophy
+File name: svarupa-8.itx
+Indexextra: (Sanskrit)
+Language: Sanskrit
+Latest update: March 22 2003
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: svarupaanusandhaanaaShTaka
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Svarupanusandhanashtakam
+itxtitle: svarUpAnusandhAnAShTakaM vijnAnanaukA cha (shaNkarAchAryavirachitam)
+title: स्वरूपानुसन्धानाष्टकं विज्ञाननौका च (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  स्वरूपानुसन्धानाष्टकम् विज्ञाननौका च   
 तपोयज्ञदानादिभिः शुद्धबुद्धि-  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIstutiH"
-"File name" = "shriistuti.itx"
-itxtitle = "shrIstutiH (vedAntadeshikavirachitA)"
-engtitle = "shrIstutiH by Swami Vedanta Desika"
-Category = "devii, lakShmI, stotra, vedAnta-deshika, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Author = "Swami Vedanta Desika (Ramanuja Sampradaya)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "Also known as kanakadhArAlakShmIstavarAjaH"
-"Latest update" = "July 09, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीस्तुतिः (वेदान्तदेशिकविरचिता)"
+---
+Author: Swami Vedanta Desika (Ramanuja Sampradaya)
+Category: devii, lakShmI, stotra, vedAnta-deshika, devI
+Description-comments: Also known as kanakadhArAlakShmIstavarAjaH
+File name: shriistuti.itx
+Language: Sanskrit
+Latest update: July 09, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIstutiH
+Texttype: stotra
+Transliterated by: WebD
+engtitle: shrIstutiH by Swami Vedanta Desika
+itxtitle: shrIstutiH (vedAntadeshikavirachitA)
+title: श्रीस्तुतिः (वेदान्तदेशिकविरचिता)
 
-+++
+---
   
  श्रीस्तुतिः   
   
@@ -77,7 +77,7 @@ title = "श्रीस्तुतिः (वेदान्तदेशिक
 दूरोत्क्षिप्तैरिव मधुरता दुग्धराशेस्तरङ्गे ॥ १०॥  
   
 धत्ते शोभां हरिमरकते तावकी मूर्तिराद्या  
-तन्वी तुंगस्तनभरनता तप्तजाम्बूनदाभा ।  
+तन्वी तुङ्गस्तनभरनता तप्तजाम्बूनदाभा ।  
 यस्यां गच्छन्त्युदयविलयैर्नित्यमानन्दसिन्धा-  
 विच्छावेगोल्लसितलहरीविभ्रमं व्यक्तयस्ते ॥ ११॥  
   
@@ -117,7 +117,7 @@ title = "श्रीस्तुतिः (वेदान्तदेशिक
 अम्ब स्तम्बावधिकजननग्रामसीमान्तरेखामालम्बन्ते  
 विमलमनसो विष्णुकान्ते दया ते ॥ १८॥  
   
-जाताकांक्षा जननि युवयोरेकसेवाधिकारे  
+जाताकाङ्क्षा जननि युवयोरेकसेवाधिकारे  
 मायालीढं विभवमखिलं मन्यमानास्तृणाय ।  
 प्रीत्यै विष्णोस्तव च कृतिनः प्रीतिमन्तो भजन्ते  
 वेलाभङ्गप्रशमनफलं वैदिकं धर्मसेतुम् ॥ १९॥  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "brAhmIvidyA"
-"File name" = "brAhmIvidyA.itx"
-itxtitle = "brAhmIvidyA"
-engtitle = "brAhmIvidyA"
-Category = "misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Description-comments = "Path Pustakam 1934 Srinagar Kashmir Mercantile Press"
-Source = "Adityapurana"
-Indexextra = "(pustakam)"
-"Latest update" = "April 22, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्राह्मीविद्या"
+---
+Category: misc
+Description-comments: Path Pustakam 1934 Srinagar Kashmir Mercantile Press
+File name: brAhmIvidyA.itx
+Indexextra: (pustakam)
+Language: Sanskrit
+Latest update: April 22, 2018
+Location: doc_z_misc_general
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Adityapurana
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: brAhmIvidyA
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: brAhmIvidyA
+itxtitle: brAhmIvidyA
+title: ब्राह्मीविद्या
 
-+++
+---
   
  ब्राह्मीविद्या   
 अथ ब्राह्मीविद्या ॥  

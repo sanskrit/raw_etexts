@@ -1,25 +1,25 @@
-+++
-"Text title" = "rAdhAkRRiShNasuprabhAtam"
-"File name" = "rAdhAkRRiShNasuprabhAtam.itx"
-itxtitle = "rAdhAkRRiShNasuprabhAtam"
-engtitle = "rAdhAkRRiShNasuprabhAtam"
-Category = "suprabhAta, devii, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "Datta Gopala Krishna, Pammal, Chennai 9442252443"
-Source = "kalyANamanjarI dvitIya bhAgaH rAdhAkalyaNam"
-Acknowledge-Permission = "Svarna Prakashanam"
-"Latest update" = "May 14, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाकृष्णसुप्रभातम्"
+---
+Acknowledge-Permission: Svarna Prakashanam
+Category: suprabhAta, devii, radha, devI
+Description/comments: Datta Gopala Krishna, Pammal, Chennai 9442252443
+File name: rAdhAkRRiShNasuprabhAtam.itx
+Language: Sanskrit
+Latest update: May 14, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: kalyANamanjarI dvitIya bhAgaH rAdhAkalyaNam
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAkRRiShNasuprabhAtam
+Transliterated by: NA
+engtitle: rAdhAkRRiShNasuprabhAtam
+itxtitle: rAdhAkRRiShNasuprabhAtam
+title: राधाकृष्णसुप्रभातम्
 
-+++
+---
   
  श्रीराधाकृष्णसुप्रभातम्   
   
@@ -50,7 +50,7 @@ title = "राधाकृष्णसुप्रभातम्"
   
 पूज्याष्टाक्षरमन्त्रमन्त्रित नमो नारायणाख्य प्रभो  
 श्रीमद्द्वादशमन्त्रनित्यमहित श्रीवासुदेव प्रभो ।  
-रांपूर्वैश्च षडक्षरैः सुविदित श्रीवीरराम प्रभो  
+राम्पूर्वैश्च षडक्षरैः सुविदित श्रीवीरराम प्रभो  
 राधाकृष्ण महाप्रभोऽखिलगुरो ते सुप्रभातं शुभम् ॥ ६॥  
   
 त्वं सान्दीपनिसद्गुरोर्हि वचसा सामुद्रमग्नं शिशुं  

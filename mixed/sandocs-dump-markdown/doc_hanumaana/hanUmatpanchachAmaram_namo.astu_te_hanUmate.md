@@ -1,21 +1,21 @@
-+++
-"Text title" = "hanumat pa.ncha chAmaraM"
-"File name" = "hanumatpanchachamara.itx"
-itxtitle = "hanUmatpanchachAmaram (namo.astu te hanUmate)"
-engtitle = "hanUmat pancha chAmaram"
-Category = "hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "April 20, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनूमत्पञ्चचामरम् (नमोऽस्तु ते हनूमते)"
+---
+Category: hanumaana, hanuman
+File name: hanumatpanchachamara.itx
+Language: Sanskrit
+Latest update: April 20, 2005
+Location: doc_hanumaana
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumat pa.ncha chAmaraM
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: hanUmat pancha chAmaram
+itxtitle: hanUmatpanchachAmaram (namo.astu te hanUmate)
+title: हनूमत्पञ्चचामरम् (नमोऽस्तु ते हनूमते)
 
-+++
+---
   
  श्रीहनूमत् पञ्चचामरम्   
 नमोऽस्तु ते हनूमते दयावते मनोगते  

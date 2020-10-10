@@ -1,22 +1,22 @@
-+++
-"Text title" = "pitRisUktam"
-"File name" = "pitRisUktam.itx"
-itxtitle = "pitRisUktam"
-engtitle = "pitRisUktam"
-Category = "veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Source = "https://sanskritdocuments.org/mirrors/rigveda/e-text.htm"
-Indexextra = "(Scan 1, 2 complete Hindi, text)"
-"Latest update" = "April 2, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पितृइसूक्तम्"
+---
+Category: veda, svara
+File name: pitRisUktam.itx
+Indexextra: (Scan 1, 2 complete Hindi, text)
+Language: Sanskrit
+Latest update: April 2, 2016
+Location: doc_veda
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: https://sanskritdocuments.org/mirrors/rigveda/e-text.htm
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: pitRisUktam
+Texttype: svara
+engtitle: pitRisUktam
+itxtitle: pitRisUktam
+title: पितृइसूक्तम्
 
-+++
+---
   
  पितृसूक्तम्   
 ऋग्वेदान्तर्गतम्  
@@ -28,7 +28,7 @@ title = "पितृइसूक्तम्"
 आहं पि॒तॄन्सु॑वि॒दत्रा॑ँ अवित्सि॒ नपा॑तं च वि॒क्रम॑णं च॒ विष्णोः॑ ।  
 ब॒र्हि॒षदो॒ ये स्व॒धया॑ सु॒तस्य॒ भज॑न्त पि॒त्वस्त इ॒हाग॑मिष्ठाः ॥ १०.०१५.०३  
 बर्हि॑षदः पितर ऊ॒त्य१॒॑र्वागि॒मा वो॑ ह॒व्या च॑कृमा जु॒षध्व॑म् ।  
-त आ ग॒ताव॑सा॒ शंत॑मे॒नाथा॑ नः॒ शं योर॑र॒पो द॑धात ॥ १०.०१५.०४  
+त आ ग॒ताव॑सा॒ शन्त॑मे॒नाथा॑ नः॒ शं योर॑र॒पो द॑धात ॥ १०.०१५.०४  
 उप॑हूताः पि॒तरः॑ सो॒म्यासो॑ बर्हि॒ष्ये॑षु नि॒धिषु॑ प्रि॒येषु॑ ।  
 त आ ग॑मन्तु॒ त इ॒ह श्रु॑व॒न्त्वधि॑ ब्रुवन्तु॒ ते॑ऽवन्त्व॒स्मान् ॥ १०.०१५.०५  
 आच्या॒ जानु॑ दक्षिण॒तो नि॒षद्ये॒मं य॒ज्ञम॒भि गृ॑णीत॒ विश्वे॑ ।  
@@ -61,7 +61,7 @@ title = "पितृइसूक्तम्"
 आहं पितॄन्सुविदत्राँ अवित्सि नपातं च विक्रमणं च विष्णोः ।  
 बर्हिषदो ये स्वधया सुतस्य भजन्त पित्वस्त इहागमिष्ठाः ॥ १०.०१५.०३  
 बर्हिषदः पितर ऊत्य१र्वागिमा वो हव्या चकृमा जुषध्वम् ।  
-त आ गतावसा शंतमेनाथा नः शं योररपो दधात ॥ १०.०१५.०४  
+त आ गतावसा शन्तमेनाथा नः शं योररपो दधात ॥ १०.०१५.०४  
 उपहूताः पितरः सोम्यासो बर्हिष्येषु निधिषु प्रियेषु ।  
 त आ गमन्तु त इह श्रुवन्त्वधि ब्रुवन्तु तेऽवन्त्वस्मान् ॥ १०.०१५.०५  
 आच्या जानु दक्षिणतो निषद्येमं यज्ञमभि गृणीत विश्वे ।  

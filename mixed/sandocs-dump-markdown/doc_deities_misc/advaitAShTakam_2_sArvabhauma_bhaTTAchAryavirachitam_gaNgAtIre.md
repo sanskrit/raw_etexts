@@ -1,24 +1,24 @@
-+++
-"Text title" = "Hymn to Advaitacharya 2"
-"File name" = "advaitAShTakam2.itx"
-itxtitle = "advaitAShTakam 2 (sArvabhauma bhaTTAchAryavirachitam gaNgAtIre)"
-engtitle = "advaitAShTakam 2"
-Category = "deities_misc, krishna, gurudev, aShTaka, sArvabhaumabhaTTAchArya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Sarvabhauma Bhattacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Advaitacharya"
-Indexextra = "(Meaning)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अद्वैताष्टकम् २ (सार्वभौम भट्टाचार्यविरचितम् गण्गातीरे)"
+---
+Author: Sarvabhauma Bhattacharya
+Category: deities_misc, krishna, gurudev, aShTaka, sArvabhaumabhaTTAchArya
+Description/comments: Advaitacharya
+File name: advaitAShTakam2.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Hymn to Advaitacharya 2
+engtitle: advaitAShTakam 2
+itxtitle: advaitAShTakam 2 (sArvabhauma bhaTTAchAryavirachitam gaNgAtIre)
+title: अद्वैताष्टकम् २ (सार्वभौम भट्टाचार्यविरचितम् गण्गातीरे)
 
-+++
+---
   
  अद्वैताष्टकं २   
 गङ्गातीरे तत्पयोभिस्तुलस्यः  
@@ -61,7 +61,7 @@ title = "अद्वैताष्टकम् २ (सार्वभौम �
 शश्वच्चेतसाचरद्गौरधाम  
      श्रीलाद्वैताचार्यमेतं प्रपद्ये ॥ ८॥  
   
-प्रातः प्रीतः प्रत्यहं संपठेद्यः  
+प्रातः प्रीतः प्रत्यहं सम्पठेद्यः  
      सीतानाथस्यष्टकं शुद्धबुद्धिः ।  
 सोऽयं साम्यं तस्य पादारविन्दे  
      विन्दन्भक्तिं तत्प्रियात्वं प्रयाति ॥ ९॥  

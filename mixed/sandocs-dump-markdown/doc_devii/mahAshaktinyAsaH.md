@@ -1,24 +1,24 @@
-+++
-"Text title" = "mahAshaktinyAsaH"
-"File name" = "mahAshaktinyAsaH.itx"
-itxtitle = "mahAshaktinyAsaH"
-engtitle = "mahAshaktinyAsaH"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "Shri Vidyaratnakara, Karpatri Maharaj, Page 409"
-Indexextra = "(Scan)"
-"Latest update" = "December 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाशक्तिन्यासः"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: Shri Vidyaratnakara, Karpatri Maharaj, Page 409
+File name: mahAshaktinyAsaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 14, 2018
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAshaktinyAsaH
+Transliterated by: DPD
+engtitle: mahAshaktinyAsaH
+itxtitle: mahAshaktinyAsaH
+title: महाशक्तिन्यासः
 
-+++
+---
   
  श्रीविद्या महाशक्तिन्यासः   
     योनिरित्युच्यते शक्तिरेषा ब्रह्माण्डभेदिनी ।  

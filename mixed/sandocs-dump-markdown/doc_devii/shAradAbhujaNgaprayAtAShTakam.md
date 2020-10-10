@@ -1,29 +1,29 @@
-+++
-"Text title" = "shaaradaabhuja.ngaprauaataashhTakaM"
-"File name" = "shaaradaabhuja.itx"
-itxtitle = "shAradAbhujaNgaprayAtAShTakam"
-engtitle = "Sharadabhujangaprayatashtakam"
-Category = "devii, sarasvatI, bhujanga, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Subcategory = "bhujanga"
-Author = "Popular stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Savithri D. savdev at hotmail.com"
-"Proofread by" = "Savithri D. savdev at hotmail.com"
-Indexextra = "(sha.nkarAchArya)"
-"Latest update" = "June 24, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदाभुजण्गप्रयाताष्टकम्"
+---
+Author: Popular stotra
+Category: devii, sarasvatI, bhujanga, shankarAchArya, devI
+File name: shaaradaabhuja.itx
+Indexextra: (sha.nkarAchArya)
+Language: Sanskrit
+Latest update: June 24, 2000
+Location: doc_devii
+Proofread by: Savithri D. savdev at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subcategory: bhujanga
+Subject: philosophy/hinduism
+Sublocation: devii
+Text title: shaaradaabhuja.ngaprauaataashhTakaM
+Transliterated by: Savithri D. savdev at hotmail.com
+engtitle: Sharadabhujangaprayatashtakam
+itxtitle: shAradAbhujaNgaprayAtAShTakam
+title: शारदाभुजण्गप्रयाताष्टकम्
 
-+++
+---
   
  शारदाभुजङ्गप्रयाताष्टकम्   
   
-सुवक्षोजकुम्भां सुधापूर्णकुंभां  
+सुवक्षोजकुम्भां सुधापूर्णकुम्भां  
 प्रसादावलम्बां प्रपुण्यावलम्बाम् ।  
 सदास्येन्दुबिम्बां सदानोष्ठबिम्बां  
 भजे शारदाम्बामजस्रं मदम्बाम् ॥ १॥  

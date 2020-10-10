@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrimad sha.nkarachAryapadAvalambsuvarNamAlAstuti"
-"File name" = "shankaracharyapadAvalambsuvarNamAlAstuti.itx"
-itxtitle = "shaNkarAchAryapadAvalambasuvarNamAlAstutiH"
-engtitle = "shaNkarAchAryapadAvalambasuvarNamAlAstutiH"
-Category = "varNamAlA, deities_misc, shankarAchArya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Transliterated by" = "Ramakrishna Upadrasta uramakrishna at gmail.com"
-"Proofread by" = "Ramakrishna Upadrasta"
-"Latest update" = "May 18, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शण्कराचार्यपदावलम्बसुवर्णमालास्तुतिः"
+---
+Category: varNamAlA, deities_misc, shankarAchArya
+File name: shankaracharyapadAvalambsuvarNamAlAstuti.itx
+Language: Sanskrit
+Latest update: May 18, 2012
+Location: doc_deities_misc
+Proofread by: Ramakrishna Upadrasta
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism
+Sublocation: deities_misc
+Text title: shrimad sha.nkarachAryapadAvalambsuvarNamAlAstuti
+Transliterated by: Ramakrishna Upadrasta uramakrishna at gmail.com
+engtitle: shaNkarAchAryapadAvalambasuvarNamAlAstutiH
+itxtitle: shaNkarAchAryapadAvalambasuvarNamAlAstutiH
+title: शण्कराचार्यपदावलम्बसुवर्णमालास्तुतिः
 
-+++
+---
   
  श्रीशङ्कराचार्यपदावलम्बसुवर्णमालास्तुती   
   
@@ -35,7 +35,7 @@ title = "शण्कराचार्यपदावलम्बसुवर�
 श्रीशङ्करार्य मम देहि पदावलम्बम् ॥ ३॥  
   
 शङ्कानिवारणपटो प्रणतव्रजस्य  
-यं कालकाल इति कुंभभवो जगाद ।  
+यं कालकाल इति कुम्भभवो जगाद ।  
 स त्वं वितीर्य परमायुरभीष्टपूगं  
 श्रीशङ्करार्य मम देहि पदावलम्बम् ॥ ४॥  
   

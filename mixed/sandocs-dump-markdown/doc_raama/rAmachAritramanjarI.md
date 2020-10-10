@@ -1,26 +1,26 @@
-+++
-"Text title" = "rAmachAritramanjarI"
-"File name" = "rAmachAritramanjarI.itx"
-itxtitle = "rAmachAritramanjarI"
-engtitle = "rAmachAritramanjarI"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Shri Raghavendra Swami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "May 16, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामचारित्रमञ्जरी"
+---
+Author: Shri Raghavendra Swami
+Category: raama
+File name: rAmachAritramanjarI.itx
+Language: Sanskrit
+Latest update: May 16, 2011
+Location: doc_raama
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmachAritramanjarI
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: rAmachAritramanjarI
+itxtitle: rAmachAritramanjarI
+title: रामचारित्रमञ्जरी
 
-+++
+---
   
  श्रीरामचारित्रमञ्जरी   
   
-श्रीमत्सुधीन्द्रकरकमलसंजात - श्रीमद्राघवेन्द्रयतिकृता  
+श्रीमत्सुधीन्द्रकरकमलसञ्जात - श्रीमद्राघवेन्द्रयतिकृता  
   
 Shri Raghavendra Swami (1595-1671) was a great scholar and devotee. His  
 original name was Venkanna or Venkatanatha. As a young boy he was a  
@@ -87,7 +87,7 @@ praying to Lord Rama.
   
 नीत्वा मासान् कपीशानिह दश हरितः प्रेष्य सीतां विचित्या-  
      यातश्रीमद्धनूमद्गिरमथ समनुश्रुत्य गच्छन् कपीन्द्रैः ।  
-सुग्रीवाद्यैरसंख्यैर्दशमुखसहजं मानयन्नब्धिवाचा  
+सुग्रीवाद्यैरसङ्ख्यैर्दशमुखसहजं मानयन्नब्धिवाचा  
      दैत्यघ्नः सेतुकारी रिपुपुररुदवेद्वानैर्वैरिघाती ॥ ७॥  
   
 भग्नं कृत्वा दशास्यं गुरुतरवपुषं कुम्भकर्णं निहत्य  
@@ -95,7 +95,7 @@ praying to Lord Rama.
 सर्वानुज्जीवयन्तं गिरिधरमनघश्चाञ्जनेयं कपीन् स्वान्  
      विज्ञानास्त्रेण रक्षन् समवतु दमयंल्लक्ष्मणाच्छक्रशत्रुम् ॥ ८॥  
   
-क्रव्यादान् घ्नन्न्संख्यानपि दशवदनं ब्रह्मपूर्वैः सुरेशैः  
+क्रव्यादान् घ्नन्न्सङ्ख्यानपि दशवदनं ब्रह्मपूर्वैः सुरेशैः  
      पुष्पैराकीर्यमाणो हुतवहविमलमाप्य सीतां विधाय ।  
 रक्षोनाथं स्वभक्तं स्वपुरमथ गतः पुष्पकस्थः समस्तैः  
       साम्रज्ये चाभिषिक्तो निजजनमखिलं मानयन् मे गतिः स्यात् ॥ ९॥  
@@ -103,7 +103,7 @@ praying to Lord Rama.
 रक्षन् क्षोणीं समृद्धां नुत उत मुनिभिर्मानयन् वायुसूनुं  
      प्रेष्यादित्यात्मजादीन् व्यतनुत भरतं यौवराज्येऽनुमान्य ।  
 कार्ये सौमित्रिमार्तश्वगदितकृदरिघ्नोऽथ शत्रुघ्नो यो  
-     हत्वाऽसौ दुष्टशूद्रं द्विजसुतगुबवेत् कुंभजान्मालभारी ॥ १०॥  
+     हत्वाऽसौ दुष्टशूद्रं द्विजसुतगुबवेत् कुम्भजान्मालभारी ॥ १०॥  
   
 यज्ञं तन्वन् त्रिकोटीर्व्यतुदत भरताद्यैः सुरानीशवाक्या-  
      द्यास्यन् धामात्रिपुरं भुजिमथ स नयन्नात्मसून् स्वराज्ये ।  
@@ -114,7 +114,7 @@ praying to Lord Rama.
 राघ्वेन्द्रेण यतिना भूयाद्रामप्रसाददा ॥ १२॥  
   
  ॥ इति श्रीमत्सुधीन्द्रकरकमलसञ्जात राघवेन्द्रयतिकृता  
-             श्रीरामचारित्रमञ्जरी संपूर्णा ॥   
+             श्रीरामचारित्रमञ्जरी सम्पूर्णा ॥   
   
 Encoded and proofread by N.Balasubramanian bbalu at sify.com  
   

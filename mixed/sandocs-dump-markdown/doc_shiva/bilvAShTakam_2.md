@@ -1,22 +1,22 @@
-+++
-"Text title" = "bilvAShTakam 2"
-"File name" = "bilvAShTakam2.itx"
-itxtitle = "bilvAShTakam 2"
-engtitle = "bilvAShTakam 2"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-"Latest update" = "July 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बिल्वाष्टकम् २"
+---
+Category: aShTaka, shiva
+File name: bilvAShTakam2.itx
+Language: Sanskrit
+Latest update: July 1, 2010
+Location: doc_shiva
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: bilvAShTakam 2
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: bilvAShTakam 2
+itxtitle: bilvAShTakam 2
+title: बिल्वाष्टकम् २
 
-+++
+---
   
  बिल्वाष्टकम् २   
   
@@ -32,7 +32,7 @@ title = "बिल्वाष्टकम् २"
 काशीक्षेत्रनिवासं च कालभैरवदर्शनम् ।  
 प्रयागे माधवं दृष्ट्वा एकबिल्वं शिवार्पणम् ॥ ४॥  
   
-तुलसी बिल्वनिर्गुण्डी जंबीरामलकं तथा ।  
+तुलसी बिल्वनिर्गुण्डी जम्बीरामलकं तथा ।  
 पञ्चबिल्वमिति ख्याता  एकबिल्वं शिवार्पणम् ॥ ५॥  
   
 तटाकं धननिक्षेपं ब्रह्मस्थाप्यं शिवालयम् ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "dhAtupATha"
-"File name" = "dhatupatha.itx"
-itxtitle = "pANinIyadhAtupAThaH nissvaraH"
-engtitle = "pANinIyadhAtupAThaH without pronunciation marks"
-Category = "sUchI, major_works, pANinI"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "pANinI"
-Language = "Sanskrit"
-Subject = "linguistics/grammar/morphology_and_phonetics"
-"Transliterated by" = "Mihas Bayaryn bayaryn at mail.ru"
-"Proofread by" = "Mihas Bayaryn bayaryn at mail.ru"
-"Latest update" = "February 1, 2005, December 23, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पाणिनीयधातुपाठः निस्स्वरः"
+---
+Author: pANinI
+Category: sUchI, major_works, pANinI
+File name: dhatupatha.itx
+Language: Sanskrit
+Latest update: February 1, 2005, December 23, 2018
+Location: doc_z_misc_major_works
+Proofread by: Mihas Bayaryn bayaryn at mail.ru
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: linguistics/grammar/morphology_and_phonetics
+Sublocation: major_works
+Text title: dhAtupATha
+Texttype: pramukha
+Transliterated by: Mihas Bayaryn bayaryn at mail.ru
+engtitle: pANinIyadhAtupAThaH without pronunciation marks
+itxtitle: pANinIyadhAtupAThaH nissvaraH
+title: पाणिनीयधातुपाठः निस्स्वरः
 
-+++
+---
   
  पाणिनीयधातुपाठः निस्स्वरः   
   

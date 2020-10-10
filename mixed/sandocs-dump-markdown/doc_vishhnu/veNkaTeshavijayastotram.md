@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIveMkaTeshavijayastotram"
-"File name" = "veMkaTeshavijayastotram.itx"
-itxtitle = "veNkaTeshavijayastotram"
-engtitle = "shrIveMkaTeshavijayastotram"
-Category = "vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "December 19, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशविजयस्तोत्रम्"
+---
+Category: vishhnu, venkateshwara, stotra, vishnu
+File name: veMkaTeshavijayastotram.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: December 19, 2015
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIveMkaTeshavijayastotram
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: shrIveMkaTeshavijayastotram
+itxtitle: veNkaTeshavijayastotram
+title: वेण्कटेशविजयस्तोत्रम्
 
-+++
+---
   
  श्रीवेङ्कटेशविजयस्तोत्रम्   
   

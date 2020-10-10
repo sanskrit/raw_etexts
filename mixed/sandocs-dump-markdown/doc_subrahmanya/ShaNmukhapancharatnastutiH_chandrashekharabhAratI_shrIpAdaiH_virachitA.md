@@ -1,22 +1,22 @@
-+++
-"Text title" = "ShaNmukhapancharatnastutiH"
-"File name" = "ShaNmukhapancharatnastutiH.itx"
-itxtitle = "ShaNmukhapancharatnastutiH (chandrashekharabhAratI shrIpAdaiH virachitA)"
-engtitle = "ShaNmukhapancharatnastutiH"
-Category = "pancharatna, subrahmanya, chandrashekharabhAratI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "shrIchandrashekharabhAratI shrIpAdaiH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran, Aruna Narayanan"
-Description-comments = "Subrahmanya Stuti Manjari,  Sri Gururaja Sukti Malika"
-"Latest update" = "December 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षण्मुखपञ्चरत्नस्तुतिः (चन्द्रशेखरभारती श्रीपादैः विरचिता)"
+---
+Author: shrIchandrashekharabhAratI shrIpAdaiH
+Category: pancharatna, subrahmanya, chandrashekharabhAratI
+Description-comments: Subrahmanya Stuti Manjari,  Sri Gururaja Sukti Malika
+File name: ShaNmukhapancharatnastutiH.itx
+Language: Sanskrit
+Latest update: December 22, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran, Aruna Narayanan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: ShaNmukhapancharatnastutiH
+engtitle: ShaNmukhapancharatnastutiH
+itxtitle: ShaNmukhapancharatnastutiH (chandrashekharabhAratI shrIpAdaiH virachitA)
+title: षण्मुखपञ्चरत्नस्तुतिः (चन्द्रशेखरभारती श्रीपादैः विरचिता)
 
-+++
+---
   
  श्रीषण्मुखपञ्चरत्नस्तुतिः   
   

@@ -1,31 +1,31 @@
-+++
-"Text title" = "ambAstotram 1"
-"File name" = "ambaastotram.itx"
-itxtitle = "ambAstotram 1 (svAmI vivekAnandavirachitaM kA tvaM shubhakare)"
-engtitle = "ambAstotram 1 by Swami Vivekanand"
-Category = "devii, pArvatI, stotra, vivekAnanda, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "Swami Vivekananda"
-Language = "Sanskrit"
-Subject = "Religion"
-"Transliterated by" = "Sunder Hattangadi"
-"Proofread by" = "Sunder Hattangadi"
-Description-comments = "by Swami Vivekananda"
-Indexextra = "(Audio, translation, PDF)"
-"Latest update" = "Dec. 27, 1997"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अम्बास्तोत्रम् १ (स्वामी विवेकानन्दविरचितं का त्वं शुभकरे)"
+---
+Author: Swami Vivekananda
+Category: devii, pArvatI, stotra, vivekAnanda, devI
+Description-comments: by Swami Vivekananda
+File name: ambaastotram.itx
+Indexextra: (Audio, translation, PDF)
+Language: Sanskrit
+Latest update: Dec. 27, 1997
+Location: doc_devii
+Proofread by: Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: Religion
+Sublocation: devii
+Text title: ambAstotram 1
+Texttype: stotra
+Transliterated by: Sunder Hattangadi
+engtitle: ambAstotram 1 by Swami Vivekanand
+itxtitle: ambAstotram 1 (svAmI vivekAnandavirachitaM kA tvaM shubhakare)
+title: अम्बास्तोत्रम् १ (स्वामी विवेकानन्दविरचितं का त्वं शुभकरे)
 
-+++
+---
   
  अम्बास्तोत्रं स्वामी विवेकानन्दरचितम्   
 का त्वं शुभकरे सुखदुःखहस्ते  
       आघूर्णितं भवजलं प्रबलोर्मिभङ्गैः ।  
-शांतिं विधातुमिह किं बहुधा विभग्नाम्  
+शान्तिं विधातुमिह किं बहुधा विभग्नाम्  
       मतः प्रयत्नपरमासि सदैव विश्वे ॥ १॥  
   
 सम्पादयत्यविरतं त्वविरामवृता  
@@ -35,7 +35,7 @@ title = "अम्बास्तोत्रम् १ (स्वामी व�
   
 को वा धर्मः किमकृतं क्वः कपाललेखः  
       किंवादृष्टं फलमिहास्ति हि यां विना भोः ।  
-इच्छापाशैर्नियमिता नियमाः स्वतंत्रैः  
+इच्छापाशैर्नियमिता नियमाः स्वतन्त्रैः  
       यस्या नेत्री भवति सा शरणं ममाद्या ॥ ३॥  
   
 सन्तानयन्ति जलधिं जनिमृत्युजालम्  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAmAShtottarashatanAmAvaliH tyAgarAjAvirachitA 3"
-"File name" = "rAmAShtottaramtyAgarAjA.itx"
-itxtitle = "rAmAShTottarashatanAmAvaliH 3 rAghavAShTottarashatanAmAvaliH (tyAgarAjavirachitA)"
-engtitle = "Ramashtottarashatanamavali 3"
-Category = "aShTottarashatanAmAvalI, raama, nAmAvalI"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "nAmAvalI"
-Author = "Tyagaraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "From http://www.kamakotimandali.com/misc/rama108.html"
-"Proofread by" = "sunder hattangadi sunderh at hotmail.com"
-Description-comments = "From http://www.kamakotimandali.com/misc/rama108.html"
-"Latest update" = "October 19, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टोत्तरशतनामावलिः ३ राघवाष्टोत्तरशतनामावलिः (त्यागराजविरचिता)"
+---
+Author: Tyagaraja
+Category: aShTottarashatanAmAvalI, raama, nAmAvalI
+Description-comments: From http://www.kamakotimandali.com/misc/rama108.html
+File name: rAmAShtottaramtyAgarAjA.itx
+Language: Sanskrit
+Latest update: October 19, 2013
+Location: doc_raama
+Proofread by: sunder hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmAShtottarashatanAmAvaliH tyAgarAjAvirachitA 3
+Texttype: nAmAvalI
+Transliterated by: From http://www.kamakotimandali.com/misc/rama108.html
+engtitle: Ramashtottarashatanamavali 3
+itxtitle: rAmAShTottarashatanAmAvaliH 3 rAghavAShTottarashatanAmAvaliH (tyAgarAjavirachitA)
+title: रामाष्टोत्तरशतनामावलिः ३ राघवाष्टोत्तरशतनामावलिः (त्यागराजविरचिता)
 
-+++
+---
   
  रामाष्टोत्तरशतनामावली त्यागराजविरचिता   
   
@@ -53,7 +53,7 @@ title = "रामाष्टोत्तरशतनामावलिः ३ 
 ॐ अनिमिषवैरिवारिदसमीरणाय नमः ।  
 ॐ खगतुरङ्गाय नमः ।  
 ॐ सत्कविहृदालयाय नमः । - ३०  
-ॐ अगणितवानराधिपनतांघ्रियुगाय नमः ।  
+ॐ अगणितवानराधिपनताङ्घ्रियुगाय नमः ।  
 ॐ जगदानन्दकारकाय नमः ।  
 ॐ जय जानकीप्राणनायकाय नमः ।  
 ॐ इन्द्रनीलमणिसन्निभपघनाय नमः ।  

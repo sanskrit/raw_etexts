@@ -1,25 +1,25 @@
-+++
-"Text title" = "hariharaatmajaashhtakam"
-"File name" = "hariharaatmajaashhtakam.itx"
-itxtitle = "hariharAtmajAShTakam athavA shAstuH gItAShTakam athavA harivarAsanam"
-engtitle = "hariharAtmajAShTakam"
-Category = "aShTaka, deities_misc, ayyappa, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Texttype = "stotra"
-Author = "Kumbakudi Kulathur Iyer"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Karthik Raman at gmail, Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Karthik Raman at gmail, Antaratma antaratma"
-Indexextra = "(meaning, , Videos 1, 2, 3)"
-"Latest update" = "May 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिहरात्मजाष्टकम् अथवा शास्तुः गीताष्टकम् अथवा हरिवरासनम्"
+---
+Author: Kumbakudi Kulathur Iyer
+Category: aShTaka, deities_misc, ayyappa, stotra
+File name: hariharaatmajaashhtakam.itx
+Indexextra: (meaning, , Videos 1, 2, 3)
+Language: Sanskrit
+Latest update: May 23, 2020
+Location: doc_deities_misc
+Proofread by: Karthik Raman at gmail, Antaratma antaratma
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: hariharaatmajaashhtakam
+Texttype: stotra
+Transliterated by: Karthik Raman at gmail, Antaratma antaratma at Safe-mail.net
+engtitle: hariharAtmajAShTakam
+itxtitle: hariharAtmajAShTakam athavA shAstuH gItAShTakam athavA harivarAsanam
+title: हरिहरात्मजाष्टकम् अथवा शास्तुः गीताष्टकम् अथवा हरिवरासनम्
 
-+++
+---
   
  श्रीहरिहरात्मजाष्टकम् अथवा शास्तुः गीताष्टकम्   
         हरिवरासनं विश्वमोहनं  

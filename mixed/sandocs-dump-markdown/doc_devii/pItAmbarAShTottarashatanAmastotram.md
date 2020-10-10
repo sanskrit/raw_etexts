@@ -1,25 +1,25 @@
-+++
-"Text title" = "pItAmbarAShTottarashatanAmastotram"
-"File name" = "pItAmbarA108.itx"
-itxtitle = "pItAmbarAShTottarashatanAmastotram"
-engtitle = "pItAmbarAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "utkaTashambare nAgendraprayANatantre viShNushaNkarasa.nvAde"
-"Latest update" = "May 08, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पीताम्बराष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Traditional
+Category: aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI
+Description-comments: utkaTashambare nAgendraprayANatantre viShNushaNkarasa.nvAde
+File name: pItAmbarA108.itx
+Language: Sanskrit
+Latest update: May 08, 2006
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: pItAmbarAShTottarashatanAmastotram
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: pItAmbarAShTottarashatanAmastotram
+itxtitle: pItAmbarAShTottarashatanAmastotram
+title: पीताम्बराष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीपीताम्बराष्टोत्तरशतनामस्तोत्रम्   
   
@@ -152,7 +152,7 @@ title = "पीताम्बराष्टोत्तरशतनामस�
 इदं सहस्रनामाख्यं स्तोत्रं त्रैलोक्य पावनम् ।  
 एतत्पठति यो मन्त्री फलं तस्य वदाम्यहम् ॥ ४२॥  
   
-राजानो वश्यतां यान्ति यान्ति पापानि संक्षयः ।  
+राजानो वश्यतां यान्ति यान्ति पापानि सङ्क्षयः ।  
 गिरयः समतां यान्ति वह्निर्गच्छति शीतताम् ॥ ४३॥  
   
 प्रचण्डा सौम्यतां यान्ति शोषयान्त्येव सिन्धवः ।  

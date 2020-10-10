@@ -1,22 +1,22 @@
-+++
-"Text title" = "viThThalAShTottarashatanAmAvaliH"
-"File name" = "viThThalAShTottarashatanAmAvaliH.itx"
-itxtitle = "viThThalAShTottarashatanAmAvaliH (padmapurANAntargatA)"
-engtitle = "viThThalAShTottarashatanAmAvaliH"
-Category = "vishhnu, aShTottarashatanAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Source = "padmapurANa"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विठ्ठलाष्टोत्तरशतनामावलिः (पद्मपुराणान्तर्गता)"
+---
+Category: vishhnu, aShTottarashatanAmAvalI
+File name: viThThalAShTottarashatanAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: padmapurANa
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viThThalAShTottarashatanAmAvaliH
+engtitle: viThThalAShTottarashatanAmAvaliH
+itxtitle: viThThalAShTottarashatanAmAvaliH (padmapurANAntargatA)
+title: विठ्ठलाष्टोत्तरशतनामावलिः (पद्मपुराणान्तर्गता)
 
-+++
+---
   
  श्रीविठ्ठलाष्टोत्तरशतनामावलिः   
   

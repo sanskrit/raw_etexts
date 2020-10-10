@@ -1,23 +1,23 @@
-+++
-"Text title" = "ramaNalaharI"
-"File name" = "ramaNalaharI.itx"
-itxtitle = "ramaNalaharI (narendrakesarIvirachitam)"
-engtitle = "ramaNalaharI"
-Category = "laharI, deities_misc, gurudev, ramana"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Narendrakesarisharma"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Scan 1 , 2)"
-"Latest update" = "January 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रमणलहरी (नरेन्द्रकेसरीविरचितम्)"
+---
+Author: Narendrakesarisharma
+Category: laharI, deities_misc, gurudev, ramana
+File name: ramaNalaharI.itx
+Indexextra: (Scan 1 , 2)
+Language: Sanskrit
+Latest update: January 6, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: ramaNalaharI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: ramaNalaharI
+itxtitle: ramaNalaharI (narendrakesarIvirachitam)
+title: रमणलहरी (नरेन्द्रकेसरीविरचितम्)
 
-+++
+---
   
  श्रीरमणलहरी   
   

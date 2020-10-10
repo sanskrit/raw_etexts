@@ -1,24 +1,24 @@
-+++
-"Text title" = "vaikuNThagadyam"
-"File name" = "vaikuNThagadyam.itx"
-itxtitle = "vaikuNThagadyam (rAmAnujavirachitaM gadyatrayam)"
-engtitle = "vaikuNThagadyam"
-Category = "gadyam, vishhnu, krishna, rAmAnuja, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "rAmAnuja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rajnarayanan C K krajnara at gmail.com"
-"Proofread by" = "Rajnarayanan C K, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "One of the three gadyam-s (gadyatrayam)"
-"Latest update" = "January 11, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वैकुण्ठगद्यम् (रामानुजविरचितं गद्यत्रयम्)"
+---
+Author: rAmAnuja
+Category: gadyam, vishhnu, krishna, rAmAnuja, vishnu
+Description-comments: One of the three gadyam-s (gadyatrayam)
+File name: vaikuNThagadyam.itx
+Language: Sanskrit
+Latest update: January 11, 2017
+Location: doc_vishhnu
+Proofread by: Rajnarayanan C K, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vaikuNThagadyam
+Transliterated by: Rajnarayanan C K krajnara at gmail.com
+engtitle: vaikuNThagadyam
+itxtitle: vaikuNThagadyam (rAmAnujavirachitaM gadyatrayam)
+title: वैकुण्ठगद्यम् (रामानुजविरचितं गद्यत्रयम्)
 
-+++
+---
   
  श्रीवैकुण्ठगद्यम्   
   

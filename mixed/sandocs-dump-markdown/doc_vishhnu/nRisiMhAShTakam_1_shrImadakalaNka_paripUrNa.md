@@ -1,26 +1,26 @@
-+++
-"Text title" = "nrisimhAShTakam 1"
-"File name" = "nrisimhAShTakam.itx"
-itxtitle = "nRisiMhAShTakam 1 (shrImadakalaNka paripUrNa)"
-engtitle = "nRisiMhAShTakam 1"
-Category = "aShTaka, vishhnu, dashAvatAra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "April 24, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहाष्टकम् १ (श्रीमदकलण्क परिपूर्ण)"
+---
+Category: aShTaka, vishhnu, dashAvatAra, vishnu
+File name: nrisimhAShTakam.itx
+Language: Sanskrit
+Latest update: April 24, 2019
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nrisimhAShTakam 1
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: nRisiMhAShTakam 1
+itxtitle: nRisiMhAShTakam 1 (shrImadakalaNka paripUrNa)
+title: नृइसिंहाष्टकम् १ (श्रीमदकलण्क परिपूर्ण)
 
-+++
+---
   
  श्रीनृसिंहाष्टकम्   
 सुन्दरजामातृमुनेः प्रपद्ये चरणाम्बुजम् ।  
-संसारार्णवसंमग्नजन्तुसंतारपोतकम् ॥  
+संसारार्णवसम्मग्नजन्तुसन्तारपोतकम् ॥  
   
 श्रीमदकलङ्क परिपूर्ण! शशिकोटि-  
      श्रीधर! मनोहर! सटापटल कान्त! ।  

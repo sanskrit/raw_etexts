@@ -1,26 +1,26 @@
-+++
-"Text title" = "lalitAaShTottarashatanAmAvalI 3"
-"File name" = "lalitAaShTottarashatanAmAvalI.itx"
-itxtitle = "lalitAShTottarashatanAmAvaliH 3 (shrIkAmeshvaryai)"
-engtitle = "lalitAaShTottarashatanAmAvalI 3"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anand senartcon at gmail.com"
-"Proofread by" = "Anand senartcon at gmail.com"
-Description-comments = "Editor Ramadatta Shukla, Ritashila Sharma"
-Source = "dashamahAvidyA aShTottarashatanAmAvalI"
-Acknowledge-Permission = "Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga"
-"Latest update" = "September 13, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललिताष्टोत्तरशतनामावलिः ३ (श्रीकामेश्वर्यै)"
+---
+Acknowledge-Permission: Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI
+Description-comments: Editor Ramadatta Shukla, Ritashila Sharma
+File name: lalitAaShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: September 13, 2015
+Location: doc_devii
+Proofread by: Anand senartcon at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: dashamahAvidyA aShTottarashatanAmAvalI
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitAaShTottarashatanAmAvalI 3
+Texttype: nAmAvalI
+Transliterated by: Anand senartcon at gmail.com
+engtitle: lalitAaShTottarashatanAmAvalI 3
+itxtitle: lalitAShTottarashatanAmAvaliH 3 (shrIkAmeshvaryai)
+title: ललिताष्टोत्तरशतनामावलिः ३ (श्रीकामेश्वर्यै)
 
-+++
+---
   
  श्रीललिताष्टोत्तरशतनामावली   
 श्रीकामेश्वर्यै नमः ।  
@@ -129,7 +129,7 @@ title = "ललिताष्टोत्तरशतनामावलिः �
 श्रीसन्ततायै नमः ।  
 श्रीसोमायै नमः ।  
 श्रीसर्वायै नमः ।  
-श्रीसांख्यायै नमः ।  
+श्रीसाङ्ख्यायै नमः ।  
 श्रीसनातन्यै नमः । १०८  
   
   

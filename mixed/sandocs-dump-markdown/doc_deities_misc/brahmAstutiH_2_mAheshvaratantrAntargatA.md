@@ -1,23 +1,23 @@
-+++
-"Text title" = "Brahmastuti from Maheshvaratantra"
-"File name" = "brahmAstutimaheshvaratantra.itx"
-itxtitle = "brahmAstutiH 2 (mAheshvaratantrAntargatA)"
-engtitle = "brahmAstuti from maheshvaratantra"
-Category = "deities_misc, brahma"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Yogesh K Sharma yosharma at gmail.com"
-"Proofread by" = "Yogesh K Sharma yosharma at gmail.com"
-"Description/comments" = "Maheshwara Tantra Tritiya paTalaH Verses 24-33"
-Indexextra = "(Scan)"
-"Latest update" = "April 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मास्तुतिः २ (माहेश्वरतन्त्रान्तर्गता)"
+---
+Category: deities_misc, brahma
+Description/comments: Maheshwara Tantra Tritiya paTalaH Verses 24-33
+File name: brahmAstutimaheshvaratantra.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 17, 2019
+Location: doc_deities_misc
+Proofread by: Yogesh K Sharma yosharma at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Brahmastuti from Maheshvaratantra
+Transliterated by: Yogesh K Sharma yosharma at gmail.com
+engtitle: brahmAstuti from maheshvaratantra
+itxtitle: brahmAstutiH 2 (mAheshvaratantrAntargatA)
+title: ब्रह्मास्तुतिः २ (माहेश्वरतन्त्रान्तर्गता)
 
-+++
+---
   
  श्रीब्रह्मास्तुतिः   
     नमो नमस्ते जगदेककर्त्रे नमो नमस्ते जगदेकपात्रे ।  
@@ -81,7 +81,7 @@ title = "ब्रह्मास्तुतिः २ (माहेश्व�
     न चेदद्य भविष्यन्ति लोका भस्मावशेषिताः ॥ ९॥  
   
 हे महा मतिमान् ! उस अग्नि के शमन का उपाय विचार करिए । नहीं तो  
-आज ही ये लोक भस्मीभूत हो जायेंगे ॥ ९ ॥  
+आज ही ये लोक भस्मीभूत हो जायेङ्गे ॥ ९ ॥  
   
     इति तेषां च गृणतां देवानामातुरं वचः ।  
     विमृश्य ध्यानयोगेन तदिदं हृद्यवाप सः ॥ १०॥  

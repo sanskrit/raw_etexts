@@ -1,22 +1,22 @@
-+++
-"Text title" = "pitRigItam"
-"File name" = "pitRigItam.itx"
-itxtitle = "pitRigItam"
-engtitle = "Pitrugitam"
-Category = "gItam, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Varaha Purana, Chapter 13, Slokas 49-59 Bengali)"
-"Latest update" = "May 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पितृइगीतम्"
+---
+Category: gItam, giitaa
+File name: pitRigItam.itx
+Indexextra: (Varaha Purana, Chapter 13, Slokas 49-59 Bengali)
+Language: Sanskrit
+Latest update: May 18, 2013
+Location: doc_giitaa
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: pitRigItam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Pitrugitam
+itxtitle: pitRigItam
+title: पितृइगीतम्
 
-+++
+---
   
  पितृगीतम्   
   

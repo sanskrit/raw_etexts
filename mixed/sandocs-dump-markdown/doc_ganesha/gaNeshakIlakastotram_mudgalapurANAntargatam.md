@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNeshakIlakastotram"
-"File name" = "gaNeshakIlakastotram.itx"
-itxtitle = "gaNeshakIlakastotram (mudgalapurANAntargatam)"
-engtitle = "gaNeshakIlakastotram"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manoj Sethuraman manoj.sethuraman at gmail.com"
-"Proofread by" = "Manoj Sethuraman manoj.sethuraman at gmail.com"
-Source = "MudgalapurANa 45th (last) Chapter of the 5th Khanda of Mudgalaurana"
-Indexextra = "(Mudgalapurana)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशकीलकस्तोत्रम् (मुद्गलपुराणान्तर्गतम्)"
+---
+Category: ganesha
+File name: gaNeshakIlakastotram.itx
+Indexextra: (Mudgalapurana)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_ganesha
+Proofread by: Manoj Sethuraman manoj.sethuraman at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: MudgalapurANa 45th (last) Chapter of the 5th Khanda of Mudgalaurana
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshakIlakastotram
+Transliterated by: Manoj Sethuraman manoj.sethuraman at gmail.com
+engtitle: gaNeshakIlakastotram
+itxtitle: gaNeshakIlakastotram (mudgalapurANAntargatam)
+title: गणेशकीलकस्तोत्रम् (मुद्गलपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीगणेशकीलकस्तोत्रम्   
   

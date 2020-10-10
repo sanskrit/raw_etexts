@@ -1,24 +1,24 @@
-+++
-"Text title" = "puraHpuraHprayAhi"
-"File name" = "puraHpuraHprayAhi.itx"
-itxtitle = "puraH puraH prayAhi"
-engtitle = "puraHpuraHprayAhi"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Narendrah"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1, 2, 3)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पुरः पुरः प्रयाहि"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: Narendrah
+Category: misc, sanskritgeet
+File name: puraHpuraHprayAhi.itx
+Indexextra: (Wiki, Videos 1, 2, 3)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: puraHpuraHprayAhi
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: puraHpuraHprayAhi
+itxtitle: puraH puraH prayAhi
+title: पुरः पुरः प्रयाहि
 
-+++
+---
   
  पुरः पुरः प्रयाहि   
 पुरः पुरः प्रयाहि रे  (प्रगच्छ रे)  

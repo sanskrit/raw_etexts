@@ -3,7 +3,6 @@ title: 081 Bharata with Shatrughna enters the assembly
 title_english: 081 Bharata with Shatrughna enters the assembly
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-081-Raja_Sabhaa_Gamanam.mp3"></div>
 
 ततः नान्दी मुखीम् रात्रिम् भरतम् सूत मागधाः ।  

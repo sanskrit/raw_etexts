@@ -1,23 +1,23 @@
-+++
-"Text title" = "baTukabhairavAShTakam"
-"File name" = "baTukabhairavAShTakam.itx"
-itxtitle = "baTukabhairavAShTakam athavA mahAbhairavAShTakam (rudrayAmalatantrAntargatam)"
-engtitle = "baTukabhairavAShTakam, aShTaka"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, Shashtri Pulkitbhai Vyas"
-"Description/comments" = "Rudrayamala"
-Indexextra = "(Manuscript)"
-"Latest update" = "May 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बटुकभैरवाष्टकम् अथवा महाभैरवाष्टकम् (रुद्रयामलतन्त्रान्तर्गतम्)"
+---
+Category: shiva
+Description/comments: Rudrayamala
+File name: baTukabhairavAShTakam.itx
+Indexextra: (Manuscript)
+Language: Sanskrit
+Latest update: May 18, 2018
+Location: doc_shiva
+Proofread by: Gopal Upadhyay, Shashtri Pulkitbhai Vyas
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: baTukabhairavAShTakam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: baTukabhairavAShTakam, aShTaka
+itxtitle: baTukabhairavAShTakam athavA mahAbhairavAShTakam (rudrayAmalatantrAntargatam)
+title: बटुकभैरवाष्टकम् अथवा महाभैरवाष्टकम् (रुद्रयामलतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीबटुकभैरवाष्टकस्तोत्रम् अथवा महाभैरवाष्टकम्   
 श्रीगणेशाय नमः ।  
@@ -125,7 +125,7 @@ title = "बटुकभैरवाष्टकम् अथवा महाभ
   
 हं हं हं हंसहास्यं कलितकरतलेकालदण्डं करालं  
 थं थं थं स्थैर्यरूपं शिरकपिलजटं मुक्तिदं दीर्घहास्यम् ।  
-टं टं टंकारभीमं त्रिदशवरनुतं लटलटं कामिनां दर्पहारं  
+टं टं टङ्कारभीमं त्रिदशवरनुतं लटलटं कामिनां दर्पहारं  
 भूं भूं भूं (भुं भुं भुं) भूतनाथं  
                          नतिरिह सततं भैरवं क्षेत्रपालम् ॥ ८॥  
   

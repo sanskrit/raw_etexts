@@ -1,24 +1,24 @@
-+++
-"Text title" = "venkaTeshabhujangam"
-"File name" = "venkaTeshabhujangam.itx"
-itxtitle = "veNkaTeshabhujaNgam"
-engtitle = "venkaTeshabhujangam"
-Category = "vishhnu, venkateshwara, bhujanga, shankarAchArya, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran@gmail.com"
-Description-comments = "bhujangaprayAtastotram"
-Indexextra = "(Video)"
-"Latest update" = "November 12, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशभुजण्गम्"
+---
+Category: vishhnu, venkateshwara, bhujanga, shankarAchArya, vishnu
+Description-comments: bhujangaprayAtastotram
+File name: venkaTeshabhujangam.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: November 12, 2017
+Location: doc_vishhnu
+Proofread by: NA, PSA Easwaran psaeaswaran@gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: venkaTeshabhujangam
+Transliterated by: NA
+engtitle: venkaTeshabhujangam
+itxtitle: veNkaTeshabhujaNgam
+title: वेण्कटेशभुजण्गम्
 
-+++
+---
   
  वेङ्कटेशभुजङ्गम्   
 मुखे चारुहासं करे शङ्खचक्रं गले रत्नमालां स्वयं मेघवर्णम् ।  

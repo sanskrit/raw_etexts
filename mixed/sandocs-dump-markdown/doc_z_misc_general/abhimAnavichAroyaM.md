@@ -1,24 +1,24 @@
-+++
-"Text title" = "abhimAnavichAroyaM"
-"File name" = "abhimAnavichAroyaM.itx"
-itxtitle = "abhimAnavichAroyaM"
-engtitle = "abhimAnavichAroyaM"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dr. nArAyaNabhaTTaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अभिमानविचारोयं"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: Dr. nArAyaNabhaTTaH
+Category: misc, sanskritgeet
+File name: abhimAnavichAroyaM.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: abhimAnavichAroyaM
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: abhimAnavichAroyaM
+itxtitle: abhimAnavichAroyaM
+title: अभिमानविचारोयं
 
-+++
+---
   
  अभिमानविचारोयं   
 अभिमानविचारोऽयं मम यदिदं हिन्दुराष्ट्रम् ।  

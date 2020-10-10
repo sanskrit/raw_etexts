@@ -1,22 +1,22 @@
-+++
-"Text title" = "vidyAdAnavAksarasvatIhRidayastotra"
-"File name" = "vidyAdAnavAksarasvatIhRidayastotra.itx"
-itxtitle = "vidyAdAnavAksarasvatIhRidayastotram"
-engtitle = "vidyAdAnavAksarasvatIhRidayastotram"
-Category = "hRidaya, devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "February 2, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विद्यादानवाक्सरस्वतीहृइदयस्तोत्रम्"
+---
+Category: hRidaya, devii, sarasvatI, devI
+File name: vidyAdAnavAksarasvatIhRidayastotra.itx
+Language: Sanskrit
+Latest update: February 2, 2013
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vidyAdAnavAksarasvatIhRidayastotra
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: vidyAdAnavAksarasvatIhRidayastotram
+itxtitle: vidyAdAnavAksarasvatIhRidayastotram
+title: विद्यादानवाक्सरस्वतीहृइदयस्तोत्रम्
 
-+++
+---
   
  विद्यादानवाक्सरस्वतीहृदयस्तोत्रम्   
   
@@ -51,11 +51,11 @@ title = "विद्यादानवाक्सरस्वतीहृइ�
 मन्त्रे मन्त्रार्थतत्त्वे मतिमतिमतिदे माधवप्रीतिनादे ॥ ५॥  
   
 ह्रीं क्षीं धीं ह्रीं स्वरूपे दह दह रुदितं पुस्तकव्यग्रहस्ते  
-सन्तुष्टाचारचित्ते स्मितमुखि सुभगे जंभनिस्तंभविद्ये ।  
+सन्तुष्टाचारचित्ते स्मितमुखि सुभगे जम्भनिस्तम्भविद्ये ।  
 मोहे मुग्द्धप्रबोधे मम कुरु सुमतिं ध्वान्तविध्वंसनित्ये  
 गीर्वाग् गौर्भारती त्वं कविवररसनासिद्धिदा सिद्धिसाद्ध्या ॥ ६॥  
   
-सौं सौं सौं शक्तिबीजे कमलभवमुखांभोजभूतस्वरूपे   
+सौं सौं सौं शक्तिबीजे कमलभवमुखाम्भोजभूतस्वरूपे   
 रूपारूपप्रकाशे सकलगुणमये निर्गुणे निर्विकारे ।  
 न स्थूले नैव सूक्ष्मेऽप्यविदितविभवे जाप्यविज्ञानतत्त्वे  
 विश्वे विश्वान्तराळे सुरगणनमिते निष्कळे नित्यशुद्धे ॥ ७॥  

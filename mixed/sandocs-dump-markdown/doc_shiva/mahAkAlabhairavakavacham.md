@@ -1,22 +1,22 @@
-+++
-"Text title" = "mahAkAlabhairavakavacham"
-"File name" = "mahAkAlabhairavakavacham.itx"
-itxtitle = "mahAkAlabhairavakavacham"
-engtitle = "mahAkAlabhairavakavacham"
-Category = "kavacha, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pranav Tendulkar pranav.tendulkar at gmail.com"
-"Proofread by" = "Pranav Tendulkar pranav.tendulkar at gmail.com, NA"
-"Latest update" = "February 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालभैरवकवचम्"
+---
+Author: Traditional
+Category: kavacha, shiva
+File name: mahAkAlabhairavakavacham.itx
+Language: Sanskrit
+Latest update: February 19, 2017
+Location: doc_shiva
+Proofread by: Pranav Tendulkar pranav.tendulkar at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mahAkAlabhairavakavacham
+Transliterated by: Pranav Tendulkar pranav.tendulkar at gmail.com
+engtitle: mahAkAlabhairavakavacham
+itxtitle: mahAkAlabhairavakavacham
+title: महाकालभैरवकवचम्
 
-+++
+---
   
  श्रीमहाकालभैरवकवचम्   
   
@@ -76,7 +76,7 @@ title = "महाकालभैरवकवचम्"
 वेदादिबीजमादाय भगमान् तदनन्तरम् ॥ १७॥  
   
 महाकालाय सम्प्रोच्य कूर्चं दत्वा च ठद्वयम् ।  
-ह्रींकारपूर्वमुद्धृत्य वेदादिस्तदनन्तरम् ॥ १८॥  
+ह्रीङ्कारपूर्वमुद्धृत्य वेदादिस्तदनन्तरम् ॥ १८॥  
   
 महाकालस्यान्तभागे स्वाहान्तमनुमुत्तमम् ।  
 धनं पुत्रं सदा पातु बन्धुदारानिकेतनम् ॥ १९॥  

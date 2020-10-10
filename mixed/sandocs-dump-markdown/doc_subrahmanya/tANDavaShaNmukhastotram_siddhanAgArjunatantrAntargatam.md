@@ -1,22 +1,22 @@
-+++
-"Text title" = "tANDavaShaNmukhastotram"
-"File name" = "tANDavaShaNmukhastotram.itx"
-itxtitle = "tANDavaShaNmukhastotram (siddhanAgArjunatantrAntargatam)"
-engtitle = "tANDavaShaNmukhastotram"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-Description-comments = "siddhanAgArjunatantra"
-"Latest update" = "June 15, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ताण्डवषण्मुखस्तोत्रम् (सिद्धनागार्जुनतन्त्रान्तर्गतम्)"
+---
+Category: subrahmanya
+Description-comments: siddhanAgArjunatantra
+File name: tANDavaShaNmukhastotram.itx
+Language: Sanskrit
+Latest update: June 15, 2017
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: tANDavaShaNmukhastotram
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: tANDavaShaNmukhastotram
+itxtitle: tANDavaShaNmukhastotram (siddhanAgArjunatantrAntargatam)
+title: ताण्डवषण्मुखस्तोत्रम् (सिद्धनागार्जुनतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीताण्डवषण्मुखस्तोत्रम्   
   

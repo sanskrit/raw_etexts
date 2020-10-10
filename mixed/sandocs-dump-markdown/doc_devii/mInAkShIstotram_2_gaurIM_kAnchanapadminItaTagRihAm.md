@@ -1,26 +1,26 @@
-+++
-"Text title" = "Minakshi Stotram 2"
-"File name" = "mInAkShIstotram2.itx"
-itxtitle = "mInAkShIstotram 2 (gaurIM kAnchanapadminItaTagRihAm)"
-engtitle = "Hymn to Goddess mInAkShI"
-Category = "devii, mInAkShI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "mInAkShI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Manoj S R manoj.sethuraman at gmail.com"
-"Proofread by" = "Manoj S R manoj.sethuraman at gmail.com, NA"
-Description-comments = "Hymn to Goddess Minakshi"
-Source = "Stotrarnava 2 (Madras Govt Series) page 652/699"
-Indexextra = "(Scan)"
-"Latest update" = "February 21, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मीनाक्षीस्तोत्रम् २ (गौरीं काञ्चनपद्मिनीतटगृइहाम्)"
+---
+Category: devii, mInAkShI, stotra, devI
+Description-comments: Hymn to Goddess Minakshi
+File name: mInAkShIstotram2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 21, 2020
+Location: doc_devii
+Proofread by: Manoj S R manoj.sethuraman at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotrarnava 2 (Madras Govt Series) page 652/699
+SubDeity: mInAkShI
+Subject: hinduism/religion
+Sublocation: devii
+Text title: Minakshi Stotram 2
+Texttype: stotra
+Transliterated by: Manoj S R manoj.sethuraman at gmail.com
+engtitle: Hymn to Goddess mInAkShI
+itxtitle: mInAkShIstotram 2 (gaurIM kAnchanapadminItaTagRihAm)
+title: मीनाक्षीस्तोत्रम् २ (गौरीं काञ्चनपद्मिनीतटगृइहाम्)
 
-+++
+---
   
  श्रीमीनाक्षीस्तोत्रम् २   
 गौरीं काञ्चनपद्मिनीतटगृहां श्रीसुन्दरेशप्रियां  

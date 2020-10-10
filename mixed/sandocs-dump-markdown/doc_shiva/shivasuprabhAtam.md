@@ -1,21 +1,21 @@
-+++
-"Text title" = "shiva-suprabhatam"
-"File name" = "shiva-suprabhatam.itx"
-itxtitle = "shivasuprabhAtam"
-engtitle = "shiva-suprabhatam"
-Category = "suprabhAta, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Kapila Shankaran Love kapilalove at gmail.com"
-"Proofread by" = "Kapila Shankaran"
-"Latest update" = "January 22, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसुप्रभातम्"
+---
+Category: suprabhAta, shiva
+File name: shiva-suprabhatam.itx
+Language: Sanskrit
+Latest update: January 22, 1998
+Location: doc_shiva
+Proofread by: Kapila Shankaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: shiva
+Text title: shiva-suprabhatam
+Transliterated by: Kapila Shankaran Love kapilalove at gmail.com
+engtitle: shiva-suprabhatam
+itxtitle: shivasuprabhAtam
+title: शिवसुप्रभातम्
 
-+++
+---
   
  श्रीशिवसुप्रभातम्   
   

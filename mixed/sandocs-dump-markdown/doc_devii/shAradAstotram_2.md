@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAradAstotram 2"
-"File name" = "shAradAstotram2.itx"
-itxtitle = "shAradAstotram 2"
-engtitle = "shAradAstotram 2 (vAgdevate)"
-Category = "devii, sarasvatI, jaina, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "from Gujarati book mahAlakShmIshAradApUjana"
-"Latest update" = "April 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदास्तोत्रम् २"
+---
+Category: devii, sarasvatI, jaina, devI
+Description/comments: from Gujarati book mahAlakShmIshAradApUjana
+File name: shAradAstotram2.itx
+Language: Sanskrit
+Latest update: April 14, 2018
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAstotram 2
+Transliterated by: DPD
+engtitle: shAradAstotram 2 (vAgdevate)
+itxtitle: shAradAstotram 2
+title: शारदास्तोत्रम् २
 
-+++
+---
   
  श्रीशारदास्तोत्रम् २   
 वाग्देवते ! भक्तिमतां स्वशक्तिकलापवित्रा सितविग्रहा मे ।  

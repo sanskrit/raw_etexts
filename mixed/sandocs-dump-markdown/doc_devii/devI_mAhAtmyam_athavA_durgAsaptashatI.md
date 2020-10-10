@@ -1,24 +1,26 @@
-+++
-"Text title" = "devii maahaatmyam / durgaa saptashatii"
-"File name" = "durga700.itx"
-itxtitle = "devI mAhAtmyam athavA durgAsaptashatI"
-engtitle = "devI mAhAtmyam or durgAsaptashatI"
-Category = "devii, durgA, shatI, devI, saptashatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "religious"
-"Transliterated by" = "K. Shankaran Kirk Wortman Dhruba Chakroborty Ahto Jarve"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com : Kirk Wortman (kirkwort at hotmail.com)"
-Description-comments = "700 shlokas regarding devi durga"
-Indexextra = "(1, Bengali chanting, meanings, Sanskrit bhAShya, audio, Italian and English, English, Compilation)"
-"Latest update" = "September 14, 2003, July 4, 2008, September 15, 2017, October 6, 2018"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवी माहात्म्यम् अथवा दुर्गासप्तशती"
+---
+Category: devii, durgA, shatI, devI, saptashatI
+Description-comments: 700 shlokas regarding devi durga
+File name: durga700.itx
+Indexextra: (1, Bengali chanting, meanings, Sanskrit bhAShya, audio, Italian and English,
+  English, Compilation)
+Language: Sanskrit
+Latest update: September 14, 2003, July 4, 2008, September 15, 2017, October 6, 2018
+Location: doc_devii
+Proofread by: 'Sunder Hattangadi sunderh at hotmail.com : Kirk Wortman (kirkwort at
+  hotmail.com)'
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: religious
+Sublocation: devii
+Text title: devii maahaatmyam / durgaa saptashatii
+Texttype: pramukha
+Transliterated by: K. Shankaran Kirk Wortman Dhruba Chakroborty Ahto Jarve
+engtitle: devI mAhAtmyam or durgAsaptashatI
+itxtitle: devI mAhAtmyam athavA durgAsaptashatI
+title: देवी माहात्म्यम् अथवा दुर्गासप्तशती
 
-+++
+---
   
  देवी माहात्म्यम् वा दुर्गासप्तशती   
   
@@ -1444,7 +1446,7 @@ title = "देवी माहात्म्यम् अथवा दुर�
 तथैव गजरत्नं च हृतं देवेन्द्रवाहनम् ॥ १०९॥  
   
 क्षीरोदमथनोद्भूतमश्वरत्नं ममामरैः ।  
-उच्चैःश्रवससंज्ञं तत्प्रणिपत्य समर्पितम् ॥ ११०॥  
+उच्चैःश्रवससञ्ज्ञं तत्प्रणिपत्य समर्पितम् ॥ ११०॥  
   
 यानि चान्यानि देवेषु गन्धर्वेषूरगेषु च ।  
 रत्नभूतानि भूतानि तानि मय्येव शोभने ॥ १११॥  

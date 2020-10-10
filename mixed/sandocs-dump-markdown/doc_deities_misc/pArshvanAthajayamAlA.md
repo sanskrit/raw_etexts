@@ -1,21 +1,21 @@
-+++
-"Text title" = "pArshvanAthajayamAlA"
-"File name" = "pArshvanAthajayamAlA.itx"
-itxtitle = "pArshvanAthajayamAlA"
-engtitle = "pArshvanAthajayamAlA"
-Category = "deities_misc, jaina"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 31, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्श्वनाथजयमाला"
+---
+Category: deities_misc, jaina
+File name: pArshvanAthajayamAlA.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 31, 2019
+Location: doc_deities_misc
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: pArshvanAthajayamAlA
+engtitle: pArshvanAthajayamAlA
+itxtitle: pArshvanAthajayamAlA
+title: पार्श्वनाथजयमाला
 
-+++
+---
   
  श्रीपार्श्वनाथजयमाला   
 अथ श्रीपार्श्वनाथ जयमाला ।  

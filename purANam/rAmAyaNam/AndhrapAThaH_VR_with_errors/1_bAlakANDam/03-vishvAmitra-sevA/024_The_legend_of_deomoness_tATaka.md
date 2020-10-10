@@ -3,7 +3,6 @@ title: 024 कामाश्रमदर्शनम्
 title_english: 024 The legend of deomoness tATaka
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-024-Kaama_Shrama_Dharshanam.mp3"></div>
 
   

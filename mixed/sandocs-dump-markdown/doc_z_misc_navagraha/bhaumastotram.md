@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhaumastotram"
-"File name" = "bhaumastotram.itx"
-itxtitle = "bhaumastotram"
-engtitle = "bhaumastotram"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "BhaktivivekasAra"
-Indexextra = "(Scanned)"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भौमस्तोत्रम्"
+---
+Category: navagraha
+Description/comments: BhaktivivekasAra
+File name: bhaumastotram.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: bhaumastotram
+engtitle: bhaumastotram
+itxtitle: bhaumastotram
+title: भौमस्तोत्रम्
 
-+++
+---
   
  भौमस्तोत्रम्   
 ॐ उदयभूधरशिखरकोटरचर दिवाकरसन्निभ  

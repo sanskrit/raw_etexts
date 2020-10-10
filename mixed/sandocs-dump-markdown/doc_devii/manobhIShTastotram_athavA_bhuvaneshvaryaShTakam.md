@@ -1,22 +1,22 @@
-+++
-"Text title" = "manobhIShTastotram"
-"File name" = "manobhIShTastotram.itx"
-itxtitle = "manobhIShTastotram athavA bhuvaneshvaryaShTakam"
-engtitle = "manobhIShTastotram"
-Category = "aShTaka, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener"
-"Latest update" = "July 9, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मनोभीष्टस्तोत्रम् अथवा भुवनेश्वर्यष्टकम्"
+---
+Category: aShTaka, devii, dashamahAvidyA, devI
+File name: manobhIShTastotram.itx
+Language: Sanskrit
+Latest update: July 9, 2017
+Location: doc_devii
+Proofread by: Jonathan Wiener
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: manobhIShTastotram
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: manobhIShTastotram
+itxtitle: manobhIShTastotram athavA bhuvaneshvaryaShTakam
+title: मनोभीष्टस्तोत्रम् अथवा भुवनेश्वर्यष्टकम्
 
-+++
+---
   
  मनोभीष्टस्तोत्रं अथवा श्रीभुवनेश्वर्यष्टकम्   
 भुवनेश्वरीं नमस्यामो भक्तकल्पद्रुमां सदा ।  

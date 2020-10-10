@@ -1,24 +1,24 @@
-+++
-"Text title" = "Ashta-Laxmi Stotra"
-"File name" = "ashtalaxmistotra.itx"
-itxtitle = "aShTalakShmIstotram"
-engtitle = "Ashta-Laxmi Stotra"
-Category = "aShTaka, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "Unknown"
-Language = "Sanskrit"
-Subject = "religion/hinduism"
-"Transliterated by" = "Suprabha Pavuluri"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Hymn in praise of Laxmi, in her 8 forms"
-"Latest update" = "Nov. 12, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अष्टलक्ष्मीस्तोत्रम्"
+---
+Author: Unknown
+Category: aShTaka, devii, lakShmI, devI
+Description-comments: Hymn in praise of Laxmi, in her 8 forms
+File name: ashtalaxmistotra.itx
+Language: Sanskrit
+Latest update: Nov. 12, 1999
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: religion/hinduism
+Sublocation: devii
+Text title: Ashta-Laxmi Stotra
+Transliterated by: Suprabha Pavuluri
+engtitle: Ashta-Laxmi Stotra
+itxtitle: aShTalakShmIstotram
+title: अष्टलक्ष्मीस्तोत्रम्
 
-+++
+---
   
  अष्टलक्ष्मीस्तोत्रम्   
   
@@ -108,9 +108,9 @@ title = "अष्टलक्ष्मीस्तोत्रम्"
   
    ॥ धनलक्ष्मी ॥  
   
-धिमिधिमि धिंधिमि धिंधिमि धिंधिमि  
+धिमिधिमि धिन्धिमि धिन्धिमि धिन्धिमि  
      दुन्दुभि नाद सुपूर्णमये ।  
-घुमघुम घुंघुम घुंघुम घुंघुम  
+घुमघुम घुङ्घुम घुङ्घुम घुङ्घुम  
     शङ्खनिनाद सुवाद्यनुते ॥  
   
 वेदपुराणेतिहास सुपूजित  

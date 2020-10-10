@@ -1,24 +1,26 @@
-+++
-"Text title" = "shivagItimAlA"
-"File name" = "shivagItimAlA.itx"
-itxtitle = "shivagItimAlA athavA shivAShTapadI (chandrashekharendrasarasvatIvirachitA)"
-engtitle = "shivagItimAlA or shivAShTapadI"
-Category = "shiva, aShTaka, kRitI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Shri Chandrashekharendra Saraswati, 62nd Sankaracharya of Kanchi Kamakoti Peetham"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P.R. Kannan prkannanvashi at yahoo.com"
-"Proofread by" = "P.R. Kannan prkannanvashi at yahoo.com"
-"Description/comments" = "Praising the pleasurable moments of Lord Ekamreshwarar and Goddess Sri Kamakshi"
-Indexextra = "(Meaning)"
-"Latest update" = "January 19, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवगीतिमाला अथवा शिवाष्टपदी (चन्द्रशेखरेन्द्रसरस्वतीविरचिता)"
+---
+Author: Shri Chandrashekharendra Saraswati, 62nd Sankaracharya of Kanchi Kamakoti
+  Peetham
+Category: shiva, aShTaka, kRitI
+Description/comments: Praising the pleasurable moments of Lord Ekamreshwarar and Goddess
+  Sri Kamakshi
+File name: shivagItimAlA.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: January 19, 2019
+Location: doc_shiva
+Proofread by: P.R. Kannan prkannanvashi at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivagItimAlA
+Transliterated by: P.R. Kannan prkannanvashi at yahoo.com
+engtitle: shivagItimAlA or shivAShTapadI
+itxtitle: shivagItimAlA athavA shivAShTapadI (chandrashekharendrasarasvatIvirachitA)
+title: शिवगीतिमाला अथवा शिवाष्टपदी (चन्द्रशेखरेन्द्रसरस्वतीविरचिता)
 
-+++
+---
   
  शिवगीतिमाला अथवा शिवाष्टपदी   
 श्रीचन्द्रशेखरेन्द्रसरस्वतीविरचिता  
@@ -893,9 +895,9 @@ by Jagadguru Sri Chandrasekharendra Saraswati
 इति विरहितामेनां चेतः प्रसादवतीं शिवां  
      अनुनयगिरां गुम्फैः सम्भावयन्निजपाणिना ।  
 झटिति घटयन्मन्दस्मेरस्तदीयकराम्बुजं  
-     हिमकरकलामौलिः संप्राप केलिलतागृहम् ॥ ४८॥  
+     हिमकरकलामौलिः सम्प्राप केलिलतागृहम् ॥ ४८॥  
   
-संप्राप्य केळीगृहमिन्दुमौलिः इन्दीवराक्षीमनुवीक्षमाणः ।  
+सम्प्राप्य केळीगृहमिन्दुमौलिः इन्दीवराक्षीमनुवीक्षमाणः ।  
 जहौ रहः केलिकुतूहलेन वियोगजार्तिं पुनराबभाषे ॥ ४९॥  
   
      ॥ विंशाष्टपदी ॥  

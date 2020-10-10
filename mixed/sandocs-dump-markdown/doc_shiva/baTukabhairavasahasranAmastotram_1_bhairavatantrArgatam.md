@@ -1,22 +1,22 @@
-+++
-"Text title" = "baTukabhairavasahasranAmastotram 1"
-"File name" = "baTukabhairavasahasrabhairavanatra.itx"
-itxtitle = "baTukabhairavasahasranAmastotram 1 (bhairavatantrArgatam)"
-engtitle = "baTukabhairavasahasranAmastotram 1"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rajnarayanan C K krajnara at gmail.com"
-"Proofread by" = "Rajnarayanan C K krajnara at gmail.com"
-Description-comments = "bhairavatantra"
-"Latest update" = "November 16, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बटुकभैरवसहस्रनामस्तोत्रम् १ (भैरवतन्त्रार्गतम्)"
+---
+Category: sahasranAma, shiva
+Description-comments: bhairavatantra
+File name: baTukabhairavasahasrabhairavanatra.itx
+Language: Sanskrit
+Latest update: November 16, 2016
+Location: doc_shiva
+Proofread by: Rajnarayanan C K krajnara at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: baTukabhairavasahasranAmastotram 1
+Transliterated by: Rajnarayanan C K krajnara at gmail.com
+engtitle: baTukabhairavasahasranAmastotram 1
+itxtitle: baTukabhairavasahasranAmastotram 1 (bhairavatantrArgatam)
+title: बटुकभैरवसहस्रनामस्तोत्रम् १ (भैरवतन्त्रार्गतम्)
 
-+++
+---
   
  श्रीबटुकभैरवसहस्रनामस्तोत्रम् १   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrIdakShiNAmUrtisahasranAmastotra 2"
-"File name" = "dakShiNAmUrtisahasranAmastotra2.itx"
-itxtitle = "dakShiNAmUrtisahasranAmastotram 2 (Adidevo)"
-engtitle = "Shri Dakshinamurtisahasranamastotram 2"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-Source = "Shri AtmanAtha Stuti Manjari, Mahaperiaval Trust"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Shri Gopal of Mahaperiaval Trust"
-"Latest update" = "August 27, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्तिसहस्रनामस्तोत्रम् २ (आदिदेवो)"
+---
+Acknowledge-Permission: Shri Gopal of Mahaperiaval Trust
+Category: sahasranAma, shiva
+File name: dakShiNAmUrtisahasranAmastotra2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 27, 2015
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri AtmanAtha Stuti Manjari, Mahaperiaval Trust
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shrIdakShiNAmUrtisahasranAmastotra 2
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: Shri Dakshinamurtisahasranamastotram 2
+itxtitle: dakShiNAmUrtisahasranAmastotram 2 (Adidevo)
+title: दक्षिणामूर्तिसहस्रनामस्तोत्रम् २ (आदिदेवो)
 
-+++
+---
   
  श्रीदक्षिणामूर्तिसहस्रनामस्तोत्रम् २   
 श्रीगणेशाय नमः ।  

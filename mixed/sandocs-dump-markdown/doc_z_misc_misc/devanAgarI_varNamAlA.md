@@ -1,20 +1,20 @@
-+++
-"Text title" = "devanAgarI varNamAlA"
-"File name" = "barakhadi.itx"
-itxtitle = "devanAgarI varNamAlA"
-engtitle = "Devanagari Alphabet and Barakhadi"
-Category = "misc"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Language = "Sanskrit"
-"Transliterated by" = "Aksharamukha"
-Description-comments = "Taken from wikipedia"
-"Latest update" = "June 26, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवनागरी वर्णमाला"
+---
+Category: misc
+Description-comments: Taken from wikipedia
+File name: barakhadi.itx
+Language: Sanskrit
+Latest update: June 26, 2020
+Location: doc_z_misc_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Sublocation: misc
+Text title: devanAgarI varNamAlA
+Transliterated by: Aksharamukha
+engtitle: Devanagari Alphabet and Barakhadi
+itxtitle: devanAgarI varNamAlA
+title: देवनागरी वर्णमाला
 
-+++
+---
   
  देवनागरी वर्णमाला   
 अ आ इ ई उ ऊ ए ऐ ओ औ अं अः  

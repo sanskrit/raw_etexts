@@ -3,7 +3,6 @@ title: 066 Angada reassures the monkeys to return to the battle
 title_english: 066 Angada reassures the monkeys to return to the battle
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-066-Angada_reassures_the_monkeys_to_return_to_the_battle__0.mp3"></div>
 
 स लङ्घायित्वा प्राकारम् गिरिकूटोपमो महान् ।  

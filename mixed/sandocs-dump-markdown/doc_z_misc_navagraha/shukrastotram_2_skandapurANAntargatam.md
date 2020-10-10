@@ -1,24 +1,24 @@
-+++
-"Text title" = "shukrastotram 2"
-"File name" = "shukrastotram2.itx"
-itxtitle = "shukrastotram 2 (skandapurANAntargatam)"
-engtitle = "shukrastotram 2"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-Source = "skandapurANa"
-"Latest update" = "June 11, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शुक्रस्तोत्रम् २ (स्कन्दपुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: navagraha, stotra
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: shukrastotram2.itx
+Language: Sanskrit
+Latest update: June 11, 2016
+Location: doc_z_misc_navagraha
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: skandapurANa
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shukrastotram 2
+Texttype: stotra
+engtitle: shukrastotram 2
+itxtitle: shukrastotram 2 (skandapurANAntargatam)
+title: शुक्रस्तोत्रम् २ (स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  शुक्रस्तोत्रम् २   
 श्रीगणेशाय नमः ।  

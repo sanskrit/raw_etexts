@@ -1,23 +1,24 @@
-+++
-"Text title" = "mantra mAtRikA puShpamAlA stavaH"
-"File name" = "mantramAtRikApuShpamAlA.itx"
-itxtitle = "mantra mAtRikA puShpamAlA stavaH"
-engtitle = "mantra mAtRikA puShpamAlA stavaH"
-Category = "mAlAmantra, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Transliterated by" = "V. Gopalakrishnan visgop at gmail.com, Aravind Krishnan"
-"Proofread by" = "V. Gopalakrishnan visgop at gmail.com, Sridhar Seshagiri seshagir at engineering.sdsu.edu"
-Indexextra = "(meaning)"
-"Latest update" = "March 14, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मन्त्र मातृइका पुष्पमाला स्तवः"
+---
+Author: Shankaracharya
+Category: mAlAmantra, shankarAchArya
+File name: mantramAtRikApuShpamAlA.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: March 14, 2020
+Location: doc_z_misc_shankara
+Proofread by: V. Gopalakrishnan visgop at gmail.com, Sridhar Seshagiri seshagir at
+  engineering.sdsu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism
+Sublocation: shankara
+Text title: mantra mAtRikA puShpamAlA stavaH
+Transliterated by: V. Gopalakrishnan visgop at gmail.com, Aravind Krishnan
+engtitle: mantra mAtRikA puShpamAlA stavaH
+itxtitle: mantra mAtRikA puShpamAlA stavaH
+title: मन्त्र मातृइका पुष्पमाला स्तवः
 
-+++
+---
   
  मन्त्र मातृका पुष्पमाला स्तवः   
 कल्लोलोल्लसितामृताब्धिलहरीमध्ये विराजन्मणि-  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmAShTottara shatanAmAvali 1"
-"File name" = "raama108.itx"
-itxtitle = "rAmAShTottarashatanAmAvaliH 1"
-engtitle = "rAmAShTottara shatanAmAvali 1"
-Category = "aShTottarashatanAmAvalI, raama, nAmAvalI"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "padmapurANa"
-"Latest update" = "July 4, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टोत्तरशतनामावलिः १"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, raama, nAmAvalI
+Description-comments: padmapurANa
+File name: raama108.itx
+Language: Sanskrit
+Latest update: July 4, 2006
+Location: doc_raama
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmAShTottara shatanAmAvali 1
+Texttype: nAmAvalI
+engtitle: rAmAShTottara shatanAmAvali 1
+itxtitle: rAmAShTottarashatanAmAvaliH 1
+title: रामाष्टोत्तरशतनामावलिः १
 
-+++
+---
   
  श्रीरामाष्टोत्तरशतनामावली   
   
@@ -47,7 +47,7 @@ title = "रामाष्टोत्तरशतनामावलिः १"
 ॐ सदाहनुमदाश्रिताय नमः ।  
 ॐ कौसलेयाय नमः ।  
 ॐ खरध्वंसिने नमः ।  
-ॐ विराधवधपंडिताय नमः ।  
+ॐ विराधवधपण्डिताय नमः ।  
 ॐ विभीषणपरित्रात्रे नमः ।  
 ॐ हरकोदण्डखण्डनाय नमः ।  
 ॐ सप्ततालप्रभेत्रे नमः ।  
@@ -67,7 +67,7 @@ title = "रामाष्टोत्तरशतनामावलिः १"
   
 ॐ त्रिलोकरक्षकाय नमः ।  
 ॐ धन्विने नमः ।  
-ॐ दंडकारण्यवर्तनाय नमः ।  
+ॐ दण्डकारण्यवर्तनाय नमः ।  
 ॐ अहल्याशापविमोचनाय नमः ।  
 ॐ पितृभक्ताय नमः ।  
 ॐ वरप्रदाय नमः ।  

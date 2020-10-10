@@ -1,23 +1,23 @@
-+++
-"Text title" = "mArutikavacham"
-"File name" = "mArutikavacham.itx"
-itxtitle = "mArutikavacham"
-engtitle = "mArutikavacham"
-Category = "kavacha, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मारुतिकवचम्"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: kavacha, hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: mArutikavacham.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: mArutikavacham
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: mArutikavacham
+itxtitle: mArutikavacham
+title: मारुतिकवचम्
 
-+++
+---
   
  मारुतिकवचम्   
 ॐ नमो भगवते विचित्रवीरहनुमते प्रलयकालानलप्रभाप्रज्वलनाय ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "jalabhedaH"
-"File name" = "jalabhedaH.itx"
-itxtitle = "jalabhedaH (vallabhAchAryavirachitaH)"
-engtitle = "jalabhedaH"
-Category = "misc, puShTimArgIya, vallabhaachaarya"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जलभेदः (वल्लभाचार्यविरचितः)"
+---
+Author: vallabhAchArya
+Category: misc, puShTimArgIya, vallabhaachaarya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: jalabhedaH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: jalabhedaH
+engtitle: jalabhedaH
+itxtitle: jalabhedaH (vallabhAchAryavirachitaH)
+title: जलभेदः (वल्लभाचार्यविरचितः)
 
-+++
+---
   
  जलभेदः   
   
@@ -31,7 +31,7 @@ title = "जलभेदः (वल्लभाचार्यविरचित
 कुल्याः पौराणिकाः प्रोक्ताः पारम्पर्ययुता भुवि ॥ ३॥  
   
 क्षेत्रप्रविष्टास्ते चापि संसारोत्पत्तिहेतवः ।  
-वेश्यादिसहिता मत्ता गायका गर्तसंज्ञिताः ॥ ४॥  
+वेश्यादिसहिता मत्ता गायका गर्तसञ्ज्ञिताः ॥ ४॥  
   
 जलार्थमेव गर्तास्तु नीचा गानोपजीविनः ।  
 हृदास्तु पण्डिताः प्रोक्ता भगवच्छास्त्रतत्पराः ॥ ५॥  

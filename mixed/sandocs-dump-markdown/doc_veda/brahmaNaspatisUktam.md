@@ -1,21 +1,21 @@
-+++
-"Text title" = "brahmaNaspatisUktam"
-"File name" = "brahmaNaspatisUktam.itx"
-itxtitle = "brahmaNaspatisUktam"
-engtitle = "brahmaNaspatisUktam"
-Category = "sUkta, veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(audio, homavidhi)"
-"Latest update" = "March 27, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मणस्पतिसूक्तम्"
+---
+Category: sUkta, veda, svara
+File name: brahmaNaspatisUktam.itx
+Indexextra: (audio, homavidhi)
+Language: Sanskrit
+Latest update: March 27, 2016
+Location: doc_veda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: brahmaNaspatisUktam
+Texttype: svara
+engtitle: brahmaNaspatisUktam
+itxtitle: brahmaNaspatisUktam
+title: ब्रह्मणस्पतिसूक्तम्
 
-+++
+---
   
  ब्रह्मणस्पतिसूक्तम् सस्वर   
 ऋग्वेदान्तर्गतम्  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Gananayakashtakam"
-"File name" = "gaNanAyak8.itx"
-itxtitle = "gaNanAyakAShTakam"
-engtitle = "gaNanAyakAShTakam"
-Category = "aShTaka, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "Shri Vighneshvarastutimanjari Part 1, p211"
-"Latest update" = "November 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणनायकाष्टकम्"
+---
+Category: aShTaka, ganesha
+Description-comments: Shri Vighneshvarastutimanjari Part 1, p211
+File name: gaNanAyak8.itx
+Language: Sanskrit
+Latest update: November 5, 2016
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Gananayakashtakam
+engtitle: gaNanAyakAShTakam
+itxtitle: gaNanAyakAShTakam
+title: गणनायकाष्टकम्
 
-+++
+---
   
  गणनायकाष्टकम्   
   

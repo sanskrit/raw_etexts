@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shakrastava"
-"File name" = "shakrastava.itx"
-itxtitle = "shakrastavaH (siddhasenadivAkarasUrivirachitaH)"
-engtitle = "Shakrastava"
-Category = "deities_misc, jaina"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Siddhasenadivakarasuri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Indexextra = "(Video 1, 2)"
-"Latest update" = "March 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शक्रस्तवः (सिद्धसेनदिवाकरसूरिविरचितः)"
+---
+Author: Siddhasenadivakarasuri
+Category: deities_misc, jaina
+File name: shakrastava.itx
+Indexextra: (Video 1, 2)
+Language: Sanskrit
+Latest update: March 14, 2019
+Location: doc_deities_misc
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shakrastava
+Transliterated by: DPD
+engtitle: Shakrastava
+itxtitle: shakrastavaH (siddhasenadivAkarasUrivirachitaH)
+title: शक्रस्तवः (सिद्धसेनदिवाकरसूरिविरचितः)
 
-+++
+---
   
  शक्रस्तवः   
 सिद्धसेनदिवाकरसूरिविरचितः शक्रस्तवः ।  
@@ -96,7 +96,7 @@ title = "शक्रस्तवः (सिद्धसेनदिवाकर
   
 ॐ नमोऽर्हते सर्वसमर्थाय सर्वप्रदाय सर्वहिताय  
 सर्वाधिनाथाय कस्मैचन क्षेत्राय पात्राय तीर्थाय पावनाय  
-पवित्राय अनुत्तराय उत्तराय योगाचार्याय संप्रक्षालनाय  
+पवित्राय अनुत्तराय उत्तराय योगाचार्याय सम्प्रक्षालनाय  
 प्रवराय आग्नेयाय वाचस्पतये माङ्गल्याय सर्वात्मनीनाय सर्वार्थाय  
 अमृताय सदोदिताय ब्रह्मचारिणे तायिने दक्षिणीयाय निर्विकाराय  
 वजर्षभ-नाराच-मूर्त्तये तत्त्वदर्शिने पारदर्शिने परमदर्शिने  
@@ -107,7 +107,7 @@ title = "शक्रस्तवः (सिद्धसेनदिवाकर
 शिव-मचल-मरुज-मनन्त-मक्षय-मव्याबाध-मपुनरावृत्ति-  
 महानन्दं महोदयं सर्वदुःखक्षयं कैवल्यममृतं  
 निर्वाणमक्षरं परब्रह्म निः श्रेयसमपुनर्भवं  
-सिद्धिगति-नामधेयं-स्थानसंप्रान्तवते चराचर-मवते नमोऽस्तु  
+सिद्धिगति-नामधेयं-स्थानसम्प्रान्तवते चराचर-मवते नमोऽस्तु  
 श्रीमहावीराय त्रिजगत्स्वामिने श्रीवर्धमानाय ॥ १०॥  
   
 ॐ नमोऽर्हते केवलिने परमयोगिने (भक्तिमार्गयोगिने) विशाल-शासनाय  

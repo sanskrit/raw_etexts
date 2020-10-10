@@ -1,25 +1,25 @@
-+++
-"Text title" = "Shrimad Acharyendrastavah"
-"File name" = "AchAryendrastavaH.itx"
-itxtitle = "AchAryendrastavaH (chandrashekharabhAratI virachitaH)"
-engtitle = "AchAryendrastavaH"
-Category = "deities_misc, gurudev, chandrashekharabhAratI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "chandrashekharabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Sri Gururaja Sukti Malika"
-Indexextra = "(Translation)"
-"Latest update" = "January 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आचार्येन्द्रस्तवः (चन्द्रशेखरभारती विरचितः)"
+---
+Author: chandrashekharabhAratI
+Category: deities_misc, gurudev, chandrashekharabhAratI
+Description/comments: Sri Gururaja Sukti Malika
+File name: AchAryendrastavaH.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: January 1, 2020
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shrimad Acharyendrastavah
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: AchAryendrastavaH
+itxtitle: AchAryendrastavaH (chandrashekharabhAratI virachitaH)
+title: आचार्येन्द्रस्तवः (चन्द्रशेखरभारती विरचितः)
 
-+++
+---
   
  श्रीमदाचार्येन्द्रस्तवः   
 दृष्ट्वा वाचि सरस्वतीं नयनयोरन्ते च लक्ष्मीं तथा  

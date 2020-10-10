@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vishnu Pratah-smarana"
-"File name" = "vishnupratahsmarana.itx"
-itxtitle = "viShNoH prAtaHsmaraNam"
-engtitle = "Vishnu Pratah-smarana"
-Category = "suprabhAta, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Latest update" = "May 4, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णोः प्रातःस्मरणम्"
+---
+Author: Traditional
+Category: suprabhAta, vishhnu, vishnu
+File name: vishnupratahsmarana.itx
+Language: Sanskrit
+Latest update: May 4, 2010
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: hinduism
+Sublocation: vishhnu
+Text title: Vishnu Pratah-smarana
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Vishnu Pratah-smarana
+itxtitle: viShNoH prAtaHsmaraNam
+title: विष्णोः प्रातःस्मरणम्
 
-+++
+---
   
  श्रीविष्णोः प्रातःस्मरणम्   
   

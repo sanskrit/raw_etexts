@@ -1,34 +1,34 @@
-+++
-"Text title" = "kalki stotra"
-"File name" = "kalkistotra.itx"
-itxtitle = "kalkistotram"
-engtitle = "kalkistotram"
-Category = "vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "kalkipurANa"
-"Latest update" = "Narch 6, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कल्किस्तोत्रम्"
+---
+Category: vishhnu, dashAvatAra, stotra, vishnu
+Description-comments: kalkipurANa
+File name: kalkistotra.itx
+Language: Sanskrit
+Latest update: Narch 6, 2004
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: kalki stotra
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: kalkistotram
+itxtitle: kalkistotram
+title: कल्किस्तोत्रम्
 
-+++
+---
   
  कल्किस्तोत्रम्   
   
              श्रीगणेशाय नमः ।  
 सुशान्तोवाच ।  
-जय हरेऽमराधीशसेवितं तव पदांबुजं भूरिभूषणम् ।  
+जय हरेऽमराधीशसेवितं तव पदाम्बुजं भूरिभूषणम् ।  
 कुरु ममाग्रतः साधुसत्कृतं त्यज महामते मोहमात्मनः ॥ १॥  
   
 तव वपुर्जगद्रूपसम्पदा विरचितं सतां मानसे स्थितम् ।  
-रतिपतेर्मनो मोहदायकं कुरु विचेष्टितं कामलंपटम् ॥ २॥  
+रतिपतेर्मनो मोहदायकं कुरु विचेष्टितं कामलम्पटम् ॥ २॥  
   
 तव यशोजगच्छोकनाशकं मृदुकथामृतं प्रीतिदायकम् ।  
 स्मितसुधोक्षितं चन्द्रवन्मुखं तव करोत्यलं लोकमङ्गलम् ॥ ३॥  

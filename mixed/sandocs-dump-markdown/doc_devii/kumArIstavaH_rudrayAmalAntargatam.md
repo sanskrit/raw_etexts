@@ -1,26 +1,26 @@
-+++
-"Text title" = "Kumaristavah"
-"File name" = "kumArIstavaH.itx"
-itxtitle = "kumArIstavaH (rudrayAmalAntargatam)"
-engtitle = "kumArIstavaH"
-Category = "devii, ShaTchakrashakti, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमारीस्तवः (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: devii, ShaTchakrashakti, devI
+Description/comments: rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde
+File name: kumArIstavaH.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kumaristavah
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: kumArIstavaH
+itxtitle: kumArIstavaH (rudrayAmalAntargatam)
+title: कुमारीस्तवः (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  कुमारीस्तवः   
 महाविद्या महासेवा भक्तिश्रद्धाप्लुतार्पितः ॥ ८-१३॥  
@@ -64,7 +64,7 @@ title = "कुमारीस्तवः (रुद्रयामलान्
 वन्दे पर्वतराजराजतनयां कालप्रियो त्वामहम् ॥ ८-२१॥  
   
 कौमारीं कुलकामिनीं रिपुगणक्षोभाग्निसन्दोहिनीं  
-रक्ताभानयनां शुभां परममार्गमुक्तिसंज्ञाप्रदाम् ।  
+रक्ताभानयनां शुभां परममार्गमुक्तिसञ्ज्ञाप्रदाम् ।  
 भार्या भागवतीं मतिं भुवनमामोदपञ्चाननां  
 पञ्चास्यप्रियकामिनीं भयहरां सर्पादिहारां भजे ॥ ८-२२॥  
   
@@ -75,7 +75,7 @@ title = "कुमारीस्तवः (रुद्रयामलान्
   
 योगीशं भुवनेश्वरं प्रियकरं श्रीकालसन्दर्भया  
 शोभासागरगामिनं हरभवं वाञ्छाफलोद्दीपनम् ।  
-लोकानामघनाशनाय शिवया श्रीसंज्ञया विद्यया  
+लोकानामघनाशनाय शिवया श्रीसञ्ज्ञया विद्यया  
 धर्मप्राणसदैवतां प्रणमतां कल्पद्रुमं भावये ॥ ८-२४॥  
   
 विद्यां तामपराजितां मदनभावामोदमत्ताननां  

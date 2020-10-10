@@ -1,24 +1,24 @@
-+++
-"Text title" = "agrechala"
-"File name" = "agrechala.itx"
-itxtitle = "agre chala agre chala"
-engtitle = "agrechala"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Prof. Ashok Aklujkar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ameya Sakhare amaybsakhare at gmail.com"
-"Proofread by" = "Ameya Sakhare amaybsakhare at gmail.com"
-"Description/comments" = "From Sharada Magazine, February 1969"
-Indexextra = "(Scan)"
-"Latest update" = "May 19, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अग्रे चल अग्रे चल"
+---
+Author: Prof. Ashok Aklujkar
+Category: misc, sanskritgeet
+Description/comments: From Sharada Magazine, February 1969
+File name: agrechala.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 19, 2019
+Location: doc_z_misc_general
+Proofread by: Ameya Sakhare amaybsakhare at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: agrechala
+Transliterated by: Ameya Sakhare amaybsakhare at gmail.com
+engtitle: agrechala
+itxtitle: agre chala agre chala
+title: अग्रे चल अग्रे चल
 
-+++
+---
   
  अग्रे चल अग्रे चल   
 अग्रे चल, अग्रे चल !  

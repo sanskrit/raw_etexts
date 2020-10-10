@@ -1,23 +1,23 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 11 maNDalavidhaanaM"
-"File name" = "natya11.itx"
-itxtitle = "nATyashAstram adhyAyaH 11"
-engtitle = "Natya Shastra Chapter 11"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture/Dance/Drama"
-"Transliterated by" = "Sowmya Krishnapur krsowmya at yahoo.com"
-"Proofread by" = "Sowmya Krishnapur krsowmya at yahoo.com"
-"Latest update" = "February 16, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः ११"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya11.itx
+Language: Sanskrit
+Latest update: February 16, 2005
+Location: doc_z_misc_major_works
+Proofread by: Sowmya Krishnapur krsowmya at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture/Dance/Drama
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 11 maNDalavidhaanaM
+Texttype: pramukha
+Transliterated by: Sowmya Krishnapur krsowmya at yahoo.com
+engtitle: Natya Shastra Chapter 11
+itxtitle: nATyashAstram adhyAyaH 11
+title: नाट्यशास्त्रम् अध्यायः ११
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः ११   
   
@@ -112,7 +112,7 @@ title = "नाट्यशास्त्रम् अध्यायः ११
 पार्श्वक्रान्तस्ततश्चाद्योऽप्यलातश्चैव वामकः ।  
 भ्रान्त्वा चारीभिरेताभिः पर्यायेणाथ मण्डलम् ॥ २९॥  
   
-षट्संख्यं सप्तसंख्यं च ललितैः पादविक्रमैः ।  
+षट्सङ्ख्यं सप्तसङ्ख्यं च ललितैः पादविक्रमैः ।  
 अधिकुर्यादपक्रान्तमतिक्रान्तं च वामकम् ॥ ३०॥  
   
 अपक्रन्तः पुनश्चाद्यो वामोऽतिक्रान्त एव च ।  
@@ -139,7 +139,7 @@ title = "नाट्यशास्त्रम् अध्यायः ११
 अलातश्च पुनर्वामः पार्श्वक्रान्तश्च दक्षिणः ।  
 सूचीवामं पुनर्दद्यादपक्रान्तस्तु दक्षिणः ॥ ३८॥  
   
-अतिक्रान्तः पुनर्वामः कार्यो ललितसंज्ञकः ।  
+अतिक्रान्तः पुनर्वामः कार्यो ललितसञ्ज्ञकः ।  
 एष पादप्रसारस्तु ललिते मण्डले भवेत् ॥ ३९॥  
   
 सूचीवामक्रमं कृत्वा ह्यपक्रान्तश्च वामकम् ।  
@@ -194,7 +194,7 @@ title = "नाट्यशास्त्रम् अध्यायः ११
 एडकाक्रीडितैश्चैव तूर्णैस्त्रिकविवर्तितैः ॥ ५६॥  
   
 सूचीविद्धापविद्धैश्च क्रमेणावृत्त्य मण्डलम् ।  
-एडकाक्रीडितं विद्यात् खण्डमण्डलसंज्ञितम् ॥ ५७॥  
+एडकाक्रीडितं विद्यात् खण्डमण्डलसञ्ज्ञितम् ॥ ५७॥  
   
 सव्यमुद्घट्टितं कृत्वा तेनैवावर्तमाचरेत् ।  
 तेनैवास्कन्दितः कार्यः शकटास्यश्च वामकः ॥ ५८॥  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "ekAdashamukhahanumatkavacham"
-"File name" = "ekaadashamukha.itx"
-itxtitle = "ekAdashamukhahanumatkavacham (agastyasaMhitAntargatam)"
-engtitle = "ekAdashamukhahanumatkavacham"
-Category = "kavacha, hanumaana, agastya, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "agasti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "agastya_sa.nhitAyAmekAdashamukha"
-"Latest update" = "August 14, 2004, February 5, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकादशमुखहनुमत्कवचम् (अगस्त्यसंहितान्तर्गतम्)"
+---
+Author: agasti
+Category: kavacha, hanumaana, agastya, hanuman
+Description-comments: agastya_sa.nhitAyAmekAdashamukha
+File name: ekaadashamukha.itx
+Language: Sanskrit
+Latest update: August 14, 2004, February 5, 2014
+Location: doc_hanumaana
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: ekAdashamukhahanumatkavacham
+Transliterated by: WebD
+engtitle: ekAdashamukhahanumatkavacham
+itxtitle: ekAdashamukhahanumatkavacham (agastyasaMhitAntargatam)
+title: एकादशमुखहनुमत्कवचम् (अगस्त्यसंहितान्तर्गतम्)
 
-+++
+---
   
  एकादशमुखहनुमत्कवचम्   
   
@@ -64,7 +64,7 @@ title = "एकादशमुखहनुमत्कवचम् (अगस्
 ह्रसौं-बीजमयो मध्यं पातु लङ्काविदाहकः ॥ १३॥  
   
 ह्रीं-बीजधरः पातु गुह्यं देवेन्द्रवन्दितः ।  
-रं-बीजात्मा सदा पातु चोरू वार्धिलंघनः ॥ १४॥  
+रं-बीजात्मा सदा पातु चोरू वार्धिलङ्घनः ॥ १४॥  
   
 सुग्रीवसचिवः पातु जानुनी मे मनोजवः ।  
 पादौ पादतले पातु द्रोणाचलधरो हरिः ॥ १५॥  
@@ -85,7 +85,7 @@ title = "एकादशमुखहनुमत्कवचम् (अगस्
 एकादशमुखस्यैतद्गोप्यं वै कीर्तितं मया ॥ २०॥  
   
 रक्षोघ्नं कामदं सौम्यं सर्वसम्पद्विधायकम् ।  
-पुत्रदं धनदं चोग्रशत्रुसंघविमर्दनम् ॥ २१॥  
+पुत्रदं धनदं चोग्रशत्रुसङ्घविमर्दनम् ॥ २१॥  
   
 स्वर्गापवर्गदं दिव्यं चिन्तितार्थप्रदं शुभम् ।  
 एतत्कवचमज्ञात्वा मन्त्रसिद्धिर्न जायते ॥ २२॥  

@@ -1,20 +1,20 @@
-+++
-"Text title" = "Ganapati Gakara AshTottarashatanama Stotram"
-"File name" = "gaNapatigakArAShTottarashatanAmastotram.itx"
-itxtitle = "gaNapatigakArAShTottarashatanAmastotram"
-engtitle = "gaNapatigakArAShTottarashatanAmastotram"
-Category = "ganesha, aShTottarashatanAma"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपतिगकाराष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: ganesha, aShTottarashatanAma
+File name: gaNapatigakArAShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganapati Gakara AshTottarashatanama Stotram
+engtitle: gaNapatigakArAShTottarashatanAmastotram
+itxtitle: gaNapatigakArAShTottarashatanAmastotram
+title: गणपतिगकाराष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीगणपतिगकाराष्टोत्तरशतनामस्तोत्रम्   
          ॐ श्रीगणेशाय नमः ।  

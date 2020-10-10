@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Lakinidevi Stotram"
-"File name" = "lAkinIdevIstotram.itx"
-itxtitle = "lAkinIdevIstotram (rudrayAmalAntargatam)"
-engtitle = "lAkinIdevIstotram"
-Category = "devii, ShaTchakrashakti, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लाकिनीदेवीस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: devii, ShaTchakrashakti, devI
+Description/comments: rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde
+File name: lAkinIdevIstotram.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Lakinidevi Stotram
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: lAkinIdevIstotram
+itxtitle: lAkinIdevIstotram (rudrayAmalAntargatam)
+title: लाकिनीदेवीस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीलाकिनीदेवीस्तोत्रम्   
 अथैकोनपञ्चाशत्तमः पटलः  
@@ -36,7 +36,7 @@ title = "लाकिनीदेवीस्तोत्रम् (रुद्
 मणिपूरभेदने जपे विनियोगः ॥  
   
 ओं बीजाक्षरमूर्तिमार्ति हरिणीमार्यां जयां बुद्धिदां  
-     दीनानामपराधकोटिहननीं संज्ञामणिं योगिनाम् ।  
+     दीनानामपराधकोटिहननीं सञ्ज्ञामणिं योगिनाम् ।  
 त्वामाद्यामनुरागिणीं गुणगणामोदैकहेतुस्थलां  
      स्थित्यन्तःकृतकौतुकीमवरदे वन्दे मुदा लाकिनीम् ॥ ४९-३॥  
   

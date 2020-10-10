@@ -1,23 +1,23 @@
-+++
-"Text title" = "annapUrNAkavacham"
-"File name" = "annapUrNAkavacham.itx"
-itxtitle = "annapUrNAkavacham (shaNkarAchAryavirachitam)"
-engtitle = "annapUrNAkavacham"
-Category = "devii, devI, pArvatI, annapUrNa, shankarAchArya, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अन्नपूर्णाकवचम् (शण्कराचार्यविरचितम्)"
+---
+Author: Adi Shankaracharya
+Category: devii, devI, pArvatI, annapUrNa, shankarAchArya, kavacha
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: annapUrNAkavacham.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: annapUrNAkavacham
+engtitle: annapUrNAkavacham
+itxtitle: annapUrNAkavacham (shaNkarAchAryavirachitam)
+title: अन्नपूर्णाकवचम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  अन्नपूर्णाकवचम्   
 द्वात्रिंशद्वर्णमन्त्रोऽयं शङ्करप्रतिभाषितः ।  

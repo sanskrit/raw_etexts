@@ -1,22 +1,22 @@
-+++
-"Text title" = "yamunAShTakam 7"
-"File name" = "yamunAShTakam7.itx"
-itxtitle = "yamunAShTakam 7 (tvayi snAtA dhyAtA vanamAlishAstrivirachitam)"
-engtitle = "yamunAShTakam 7"
-Category = "devii, nadI, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Vanamalishastri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "January 15, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनाष्टकम् ७ (त्वयि स्नाता ध्याता वनमालिशास्त्रिविरचितम्)"
+---
+Author: Vanamalishastri
+Category: devii, nadI, aShTaka, devI
+File name: yamunAShTakam7.itx
+Language: Sanskrit
+Latest update: January 15, 2019
+Location: doc_devii
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunAShTakam 7
+engtitle: yamunAShTakam 7
+itxtitle: yamunAShTakam 7 (tvayi snAtA dhyAtA vanamAlishAstrivirachitam)
+title: यमुनाष्टकम् ७ (त्वयि स्नाता ध्याता वनमालिशास्त्रिविरचितम्)
 
-+++
+---
   
  श्रीयमुनाष्टकम् ७   
 त्वयि स्नाता ध्याता तव सलिलपाता नमयिता  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Bhuvaneshvari Trishati Namavali 300 Names"
-"File name" = "bhuvaneshvarItrishatInAmAvalI.itx"
-itxtitle = "bhuvaneshvarItrishatInAmAvalI"
-engtitle = "Bhuvaneshvari Trishati Namavali 300 Names"
-Category = "devii, devI, trishatI, dashamahAvidyA, shatInAmAvalI, nAmAvalI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan"
-"Proofread by" = "Aruna Narayanan"
-"Description/comments" = "See corresponding stotram"
-Indexextra = "(Tamil Scan, stotram)"
-"Latest update" = "June 23, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वरीत्रिशतीनामावली"
+---
+Category: devii, devI, trishatI, dashamahAvidyA, shatInAmAvalI, nAmAvalI
+Description/comments: See corresponding stotram
+File name: bhuvaneshvarItrishatInAmAvalI.itx
+Indexextra: (Tamil Scan, stotram)
+Language: Sanskrit
+Latest update: June 23, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Bhuvaneshvari Trishati Namavali 300 Names
+Transliterated by: Aruna Narayanan
+engtitle: Bhuvaneshvari Trishati Namavali 300 Names
+itxtitle: bhuvaneshvarItrishatInAmAvalI
+title: भुवनेश्वरीत्रिशतीनामावली
 
-+++
+---
   
  श्रीभुवनेश्वरीत्रिशतीनामावलिः   
 अस्य श्रीभुवनेश्वरी त्रिशतीमालामहामन्त्रस्य सदाशिवऋषिः,  

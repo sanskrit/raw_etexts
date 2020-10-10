@@ -1,24 +1,25 @@
-+++
-"Text title" = "shubhaashita"
-"File name" = "shloka3.itx"
-itxtitle = "subhAShitam"
-engtitle = "Subhashitam"
-Category = "misc, shloka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "shloka"
-Author = "traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture/Dance/Drama"
-"Transliterated by" = "acharyaonline.com"
-"Proofread by" = "Anuradha anuraadha_ts at yahoo.co.in and Sunder Hattangadi sunderh at hotmail.com."
-Indexextra = "(click here for set 4 common shlokas used for recitation - set 3)"
-"Latest update" = "August 20, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुभाषितम्"
+---
+Author: traditional
+Category: misc, shloka
+File name: shloka3.itx
+Indexextra: (click here for set 4 common shlokas used for recitation - set 3)
+Language: Sanskrit
+Latest update: August 20, 2003
+Location: doc_z_misc_general
+Proofread by: Anuradha anuraadha_ts at yahoo.co.in and Sunder Hattangadi sunderh at
+  hotmail.com.
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture/Dance/Drama
+Sublocation: misc
+Text title: shubhaashita
+Texttype: shloka
+Transliterated by: acharyaonline.com
+engtitle: Subhashitam
+itxtitle: subhAShitam
+title: सुभाषितम्
 
-+++
+---
   
  सुभाषितम्   
   
@@ -377,7 +378,7 @@ of the face and by the movements of the eyes.
   
   
 उपदेशोहि मूर्खाणां प्रकोपाय न शान्तये ।  
-पयः पानं भुजंगानां केवलं विषवर्धनम् ॥  
+पयः पानं भुजङ्गानां केवलं विषवर्धनम् ॥  
   
 Milk consumed by snakes increases their poison. Similarly advice  
 given to fools make them even more furious instead of pacifying them.  
@@ -569,7 +570,7 @@ limited knowledge but thinks high of himself.
   
   
   
-दौर्मन्त्र्यान्नृपतिः विनश्यति यतिः संगात्सुतः लालनात्  
+दौर्मन्त्र्यान्नृपतिः विनश्यति यतिः सङ्गात्सुतः लालनात्  
 विप्रोऽनध्ययनात्कुलं कुतनयाच्छीलं खलोपासनात् ।  
 ह्रीः मद्यादनवेक्षणादपि कृषिः स्नेहः प्रवास आश्रयात्  
 मैत्री चाप्रणयात्समृद्धिरनयात्त्यागात्प्रमादाद्धनम् ॥  
@@ -763,8 +764,8 @@ with the birth of men.
   
   
   
-दुर्जनः परिहर्तव्यो विद्ययालंकृतोऽपि सन् ।  
-मणिना भूषितः सर्पः किमसौ न भयंकरः ॥  
+दुर्जनः परिहर्तव्यो विद्ययालङ्कृतोऽपि सन् ।  
+मणिना भूषितः सर्पः किमसौ न भयङ्करः ॥  
   
 Though he be adorned with learning, a bad man is to be avoided.  
 Is a snake adorned with a gem not to be feared?  
@@ -799,7 +800,7 @@ the kimshukA flowers, which are beautiful but no fragrance.
   
   
 शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं  
-विश्वाधारं गगनसदृशं मेघवर्णं शुभांगम् ।  
+विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् ।  
 लक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं  
 वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥  
   
@@ -1055,7 +1056,7 @@ justice is, there is victory.
   
   
   
-अनंतपारं किल शब्दशास्त्रं  
+अनन्तपारं किल शब्दशास्त्रं  
 स्वल्पं तथायुर्बहवश्च विघ्नाः ।  
 सारं ततो ग्राह्यमपास्य फल्गु  
 हंसैर्यथा क्षीरमिवाम्बुमध्यात् ॥  

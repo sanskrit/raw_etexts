@@ -1,23 +1,23 @@
-+++
-"Text title" = "Jvalamukhi Stotram 2"
-"File name" = "jvAlAmukhIstotram.itx"
-itxtitle = "jvAlAmukhIstotram 2 (natAH stutiparAH sarve)"
-engtitle = "jvAlAmukhIstotram 2"
-Category = "devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "BhaktivivekasAra"
-Indexextra = "(Scanned)"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ज्वालामुखीस्तोत्रम् २ (नताः स्तुतिपराः सर्वे)"
+---
+Category: devii, devI, dashamahAvidyA
+Description/comments: BhaktivivekasAra
+File name: jvAlAmukhIstotram.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Jvalamukhi Stotram 2
+engtitle: jvAlAmukhIstotram 2
+itxtitle: jvAlAmukhIstotram 2 (natAH stutiparAH sarve)
+title: ज्वालामुखीस्तोत्रम् २ (नताः स्तुतिपराः सर्वे)
 
-+++
+---
   
  ज्वालामुखीस्तोत्रम्   
 ॐ नताः स्तुतिपराः सर्वे यस्या नित्यं दिवौकसः ।  

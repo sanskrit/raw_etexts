@@ -1,22 +1,22 @@
-+++
-"Text title" = "Sarasvati Stuti 2"
-"File name" = "sarasvatIstutiH2.itx"
-itxtitle = "sarasvatIstutiH 2 (rAjAnakA.a.anandakRitam oNkAra AripsitakArya)"
-engtitle = "sarasvatIstutiH 2"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तुतिः २ (राजानकाऽऽनन्दकृइतम् ओण्कार आरिप्सितकार्य)"
+---
+Category: devii, sarasvatI, devI
+File name: sarasvatIstutiH2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Sarasvati Stuti 2
+engtitle: sarasvatIstutiH 2
+itxtitle: sarasvatIstutiH 2 (rAjAnakA.a.anandakRitam oNkAra AripsitakArya)
+title: सरस्वतीस्तुतिः २ (राजानकाऽऽनन्दकृइतम् ओण्कार आरिप्सितकार्य)
 
-+++
+---
   
  सरस्वतीस्तुतिः २   
 ओङ्कार आरिप्सितकार्यसिद्धेर्बुद्धेः प्रचाराय परः प्रकारः ।  

@@ -1,20 +1,20 @@
-+++
-"Text title" = "bhadragiripatisaMstutiH"
-"File name" = "bhadragiripatisaMstutiH.itx"
-itxtitle = "bhadragiripatisaMstutiH"
-engtitle = "bhadragiripatisaMstutiH"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Telugu)"
-"Latest update" = "April 28, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "भद्रगिरिपतिसंस्तुतिः"
+---
+Category: raama
+File name: bhadragiripatisaMstutiH.itx
+Indexextra: (Telugu)
+Language: Sanskrit
+Latest update: April 28, 2019
+Location: doc_raama
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: bhadragiripatisaMstutiH
+engtitle: bhadragiripatisaMstutiH
+itxtitle: bhadragiripatisaMstutiH
+title: भद्रगिरिपतिसंस्तुतिः
 
-+++
+---
   
  भद्रगिरिपति संस्तुतिः   
 धरणीतनया रमणी कमनीय सीताङ्क मनोहररूप हरे ।  

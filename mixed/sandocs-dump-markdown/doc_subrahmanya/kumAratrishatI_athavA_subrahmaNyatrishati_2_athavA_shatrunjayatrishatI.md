@@ -1,25 +1,25 @@
-+++
-"Text title" = "kumAratrishatI"
-"File name" = "kumAratrishatI.itx"
-itxtitle = "kumAratrishatI athavA subrahmaNyatrishati 2 athavA shatrunjayatrishatI"
-engtitle = "kumAratrishatI athavA shatrunjayatrishatI"
-Category = "shatI, subrahmanya, trishatI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Commments)"
-"Latest update" = "July 14, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमारत्रिशती अथवा सुब्रह्मण्यत्रिशति २ अथवा शत्रुञ्जयत्रिशती"
+---
+Category: shatI, subrahmanya, trishatI
+File name: kumAratrishatI.itx
+Indexextra: (Commments)
+Language: Sanskrit
+Latest update: July 14, 2017
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: kumAratrishatI
+engtitle: kumAratrishatI athavA shatrunjayatrishatI
+itxtitle: kumAratrishatI athavA subrahmaNyatrishati 2 athavA shatrunjayatrishatI
+title: कुमारत्रिशती अथवा सुब्रह्मण्यत्रिशति २ अथवा शत्रुञ्जयत्रिशती
 
-+++
+---
   
  श्रीकुमारत्रिशती   
   
-शत्रुंजयत्रिशती  
+शत्रुञ्जयत्रिशती  
   
 ॐ अस्य श्रीकुमारत्रिशतीमहामन्त्रस्य मार्कण्डेय ऋषिः ।  
 अनुष्टुप्छन्दः । कुमारषण्मुखो देवता । कुमार इति बीजम् ।  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "kRRiShNalaharIstotram"
-"File name" = "kRRiShNalaharIstotram.itx"
-itxtitle = "kRiShNalaharIstotram (vAsudevAnandasarasvatIvirachitam)"
-engtitle = "kRRiShNalaharIstotram"
-Category = "vishhnu, krishna, laharI, vAsudevAnanda-sarasvatI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "vAsudevAnanda-sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णलहरीस्तोत्रम् (वासुदेवानन्दसरस्वतीविरचितम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: vAsudevAnanda-sarasvatI
+Category: vishhnu, krishna, laharI, vAsudevAnanda-sarasvatI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: kRRiShNalaharIstotram.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNalaharIstotram
+engtitle: kRRiShNalaharIstotram
+itxtitle: kRiShNalaharIstotram (vAsudevAnandasarasvatIvirachitam)
+title: कृइष्णलहरीस्तोत्रम् (वासुदेवानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  श्रीकृष्णलहरीस्तोत्रम्   
   

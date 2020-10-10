@@ -1,24 +1,24 @@
-+++
-"Text title" = "mahAdevakRitaM shrIkRiShNastotra brahmavaivartapurANe"
-"File name" = "krishnastotramahAdevaBVP.itx"
-itxtitle = "kRiShNastotram (mahAdevakRitam, brahmavaivartapurANAntargatam)"
-engtitle = "Krishna stotra by Mahadeva from BrahmavaivartapurAna"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "brahmavaivartapurANa gaNapatikhaNDam adhyAya 32 shloka 27-76"
-"Latest update" = "April 4, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (महादेवकृइतम्, ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: vishhnu, krishna, stotra, vishnu
+Description-comments: brahmavaivartapurANa gaNapatikhaNDam adhyAya 32 shloka 27-76
+File name: krishnastotramahAdevaBVP.itx
+Language: Sanskrit
+Latest update: April 4, 2020
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: mahAdevakRitaM shrIkRiShNastotra brahmavaivartapurANe
+Texttype: stotra
+Transliterated by: NA
+engtitle: Krishna stotra by Mahadeva from BrahmavaivartapurAna
+itxtitle: kRiShNastotram (mahAdevakRitam, brahmavaivartapurANAntargatam)
+title: कृइष्णस्तोत्रम् (महादेवकृइतम्, ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीकृष्णस्तोत्रम् श्रीमहादेवकृतम्   
   

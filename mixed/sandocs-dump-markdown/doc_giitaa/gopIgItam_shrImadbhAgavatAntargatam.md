@@ -1,25 +1,25 @@
-+++
-"Text title" = "Gopi Geeta"
-"File name" = "gopigeeta.itx"
-itxtitle = "gopIgItam (shrImadbhAgavatAntargatam)"
-engtitle = "Gopi Geeta"
-Category = "gItam, giitaa, krishna, vyAsa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-SubDeity = "krishna"
-Author = "Vyasa"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "Bhagavata Purana - Part X-Chap. 31"
-Indexextra = "(meaning 1, 2, 3 audio, lectures, Hindi)"
-"Latest update" = "June  6, 2000, September 1, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपीगीतम् (श्रीमद्भागवतान्तर्गतम्)"
+---
+Author: Vyasa
+Category: gItam, giitaa, krishna, vyAsa
+Description-comments: Bhagavata Purana - Part X-Chap. 31
+File name: gopigeeta.itx
+Indexextra: (meaning 1, 2, 3 audio, lectures, Hindi)
+Language: Sanskrit
+Latest update: June  6, 2000, September 1, 2017
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: hinduism/religion
+Sublocation: giitaa
+Text title: Gopi Geeta
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Gopi Geeta
+itxtitle: gopIgItam (shrImadbhAgavatAntargatam)
+title: गोपीगीतम् (श्रीमद्भागवतान्तर्गतम्)
 
-+++
+---
   
  गोपीगीतम्   
   
@@ -56,7 +56,7 @@ title = "गोपीगीतम् (श्रीमद्भागवतान
   
 प्रणतदेहिनां पापकर्शनं  
      तृणचरानुगं श्रीनिकेतनम् ।  
-फणिफणार्पितं ते पदांबुजं  
+फणिफणार्पितं ते पदाम्बुजं  
      कृणु कुचेषु नः कृन्धि हृच्छयम् ॥ ७॥  
   
 मधुरया गिरा वल्गुवाक्यया  

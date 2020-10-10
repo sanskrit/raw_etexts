@@ -1,24 +1,24 @@
-+++
-"Text title" = "purajanagItA rAmacharitamAnasase"
-"File name" = "purajanagItARamacharitamanas.itx"
-itxtitle = "purajanagItA (hindI rAmacharitamAnasase)"
-engtitle = "Purajanagita from Shri Ramacharitamanas"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Hindi"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed from Gita press by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Translated by" = "http://www.gitapress.org/hindi/Download_Eng_pdf.htm"
-Description-comments = "From uttarakANDa dohA 42-47, Ramacharitamanas"
-Indexextra = "(Ramacharitamanas)"
-"Latest update" = "May 27, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पुरजनगीता (हिन्दी रामचरितमानससे)"
+---
+Category: gItA, giitaa
+Description-comments: From uttarakANDa dohA 42-47, Ramacharitamanas
+File name: purajanagItARamacharitamanas.itx
+Indexextra: (Ramacharitamanas)
+Language: Hindi
+Latest update: May 27, 2013
+Location: doc_giitaa
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: purajanagItA rAmacharitamAnasase
+Translated by: http://www.gitapress.org/hindi/Download_Eng_pdf.htm
+Transliterated by: Processed from Gita press by Sowmya Ramkumar
+engtitle: Purajanagita from Shri Ramacharitamanas
+itxtitle: purajanagItA (hindI rAmacharitamAnasase)
+title: पुरजनगीता (हिन्दी रामचरितमानससे)
 
-+++
+---
   
  पुरजनगीता रामचरितमानससे   
   
@@ -34,12 +34,12 @@ delight in the stories of Shri Hari.
   
 चौपाई  
 एक बार रघुनाथ बोलाए । गुर द्विज पुरबासी सब आए ।  
-बैठे गुर मुनि अरु द्विज सज्जन । बोले बचन भगत भव भंजन । १ ।  
+बैठे गुर मुनि अरु द्विज सज्जन । बोले बचन भगत भव भञ्जन । १ ।  
 सुनहु सकल पुरजन मम बानी । कहउँ न कछु ममता उर आनी ।  
 नहिं अनीति नहिं कछु प्रभुताई । सुनहु करहु जो तुम्हहि सोहाई । २ ।  
 सोइ सेवक प्रियतम मम सोई । मम अनुसासन मानै जोई ।  
 जौँ अनीति कछु भाषौँ भाई । तौ मोहि बरजहु भय बिसराई । ३ ।  
-बड़ें भाग मानुष तनु पावा । सुर दुर्लभ सब ग्रंथन्हि गावा ।  
+बड़ें भाग मानुष तनु पावा । सुर दुर्लभ सब ग्रन्थन्हि गावा ।  
 साधन धाम मोच्छ कर द्वारा । पाइ न जेहिं परलोक सँवारा । ४ ।  
   
 One day, invited by the Lord of the Raghus, the preceptor (vasiShTha) and other  
@@ -67,9 +67,9 @@ attributing the blame to Time, Fate and God.' (43)
   
   
 चौपाई  
-एहि तन कर फल बिषय न भाई । स्वर्गउ स्वल्प अंत दुखदाई ।  
+एहि तन कर फल बिषय न भाई । स्वर्गउ स्वल्प अन्त दुखदाई ।  
 नर तनु पाइ बिषयँ मन देहीं । पलटि सुधा ते सठ बिष लेहीं । १ ।  
-ताहि कबहुँ भल कहई न कोई । गुंजा ग्रहै परस मनि खोई ।  
+ताहि कबहुँ भल कहई न कोई । गुञ्जा ग्रहै परस मनि खोई ।  
 आकर चारि लच्छ चौरासी । जोनि भ्रमत यह जिव अबिनासी । २ ।  
 फिरत सदा माया कर प्रेरा । काल कर्म सुभाव गुन घेरा ।  
 कबहुँक करि करुना नर देही । देत ईस बिनु हेतु सनेही । ३ ।  
@@ -93,7 +93,7 @@ easily available to it.' (1-4)
   
 दोहा  
 जो न तरै भव सागर नर समाज अस पाइ ।  
-सो कृत निंदक मंदमति आत्माहन गति जाइ । ४४ ।  
+सो कृत निन्दक मन्दमति आत्माहन गति जाइ । ४४ ।  
   
 `The man who, though equipped with all these resources, fails to cross the ocean  
 of metempsychosis is ungrateful and dull-witted and meets the fate of a  
@@ -105,8 +105,8 @@ self-murderer.' (44)
 सुलभ सुखद मारग यह भाई । भगति मोरि पुरान श्रुति गाई । १ ।  
 ग्यान अगम प्रत्यूह अनेका । साधन कठिन न मन कहुँ टेका ।  
 करत कष्ट बहु पावइ कोऊ । भक्ति हीन मोहि प्रिय नहिं सोऊ । २ ।  
-भक्ति सुतंत्र सकल सुख खानी । बिनु सतसंग न पावहिं प्रानी ।  
-पुन्य पुंज बिनु मिलहिं न संता । सतसंगति संसृति कर अंता । ३ ।  
+भक्ति सुतन्त्र सकल सुख खानी । बिनु सतसङ्ग न पावहिं प्रानी ।  
+पुन्य पुञ्ज बिनु मिलहिं न सन्ता । सतसङ्गति संसृति कर अन्ता । ३ ।  
 पुन्य एक जग महुँ नहिं दूजा । मन क्रम बचन बिप्र पद पूजा ।  
 सानुकूल तेहि पर मुनि देवा । जो तजि कपटु करइ द्विज सेवा । ४ ।  
   
@@ -127,7 +127,7 @@ twice-born (the BrahmaNas).' (1-4)
   
 दोहा  
 औरउ एक गुपुत मत सबहि कहउँ कर जोरि ।  
-संकर भजन बिना नर भगति न पावइ मोरि । ४५ ।  
+सङ्कर भजन बिना नर भगति न पावइ मोरि । ४५ ।  
   
 `With joined palms I lay before you all, another secret doctrine: without  
 adoring Shankara (Lord Shiva) man cannot attain devotion to Me.' (45)  
@@ -135,11 +135,11 @@ adoring Shankara (Lord Shiva) man cannot attain devotion to Me.' (45)
   
 चौपाई  
 कहहु भगति पथ कवन प्रयासा । जोग न मख जप तप उपवासा ।  
-सरल सुभाव न मन कुटिलाई । जथा लाभ संतोष सदाई । १ ।  
+सरल सुभाव न मन कुटिलाई । जथा लाभ सन्तोष सदाई । १ ।  
 मोर दास कहाइ नर आसा । करइ तौ कहहु कहा बिस्वासा ।  
 बहुत कहउँ का कथा बढ़ाई । एहि आचरन बस्य मैं भाई । २ ।  
 बैर न बिग्रह आस न त्रासा । सुखमय ताहि सदा सब आसा ।  
-अनारंभ अनिकेत अमानी । अनघ अरोष दच्छ बिग्यानी । ३ ।  
+अनारम्भ अनिकेत अमानी । अनघ अरोष दच्छ बिग्यानी । ३ ।  
 प्रीति सदा सज्जन संसर्गा । तृन सम बिषय स्वर्ग अपबर्गा ।  
 भगति पच्छ हठ नहिं सठताई । दुष्ट तर्क सब दूरि बहाई । ४ ।  
   
@@ -160,7 +160,7 @@ Devotion but avoiding bigotry, and giving up all sophistical reasoning' :- (1-4)
   
 दोहा  
 मम गुन ग्राम नाम रत गत ममता मद मोह ।  
-ता कर सुख सोइ जानइ परानंद संदोह । ४६ ।  
+ता कर सुख सोइ जानइ परानन्द सन्दोह । ४६ ।  
   
 `Fond of singing and hearing My praises and devoted to My Name, and free from  
 attachment to the world, arrogance and infatuation-the felicity that such a man  
@@ -170,7 +170,7 @@ supreme bliss.' (46)
   
 चौपाई  
 सुनत सुधासम बचन राम के । गहे सबनि पद कृपाधाम के ।  
-जननि जनक गुर बंधु हमारे । कृपा निधान प्रान ते प्यारे । १ ।  
+जननि जनक गुर बन्धु हमारे । कृपा निधान प्रान ते प्यारे । १ ।  
 तनु धनु धाम राम हितकारी । सब बिधि तुम्ह प्रनतारति हारी ।  
 असि सिख तुम्ह बिनु देइ न कोऊ । मातु पिता स्वारथ रत ओऊ । २ ।  
 हेतु रहित जग जुग उपकारी । तुम्ह तुम्हार सेवक असुरारी ।  
@@ -195,7 +195,7 @@ way the Lord's charming discourse. (1-4)
   
 दोहा  
 उमा अवधबासी नर नारि कृतारथ रूप ।  
-ब्रह्म सच्चिदानंद घन रघुनायक जहँ भूप । ४७ ।  
+ब्रह्म सच्चिदानन्द घन रघुनायक जहँ भूप । ४७ ।  
   
 Uma, (continues Lord Shiva,) the people of Ayodhya, both men and women, were the  
 very picture of blessedness : for the Lord of the Raghus, who was none other  

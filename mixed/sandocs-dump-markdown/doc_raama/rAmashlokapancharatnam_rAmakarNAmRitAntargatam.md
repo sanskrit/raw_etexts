@@ -1,21 +1,21 @@
-+++
-"Text title" = "rAmashlokapancharatnam"
-"File name" = "rAmashlokapancharatnam.itx"
-itxtitle = "rAmashlokapancharatnam (rAmakarNAmRitAntargatam)"
-engtitle = "rAmashlokapancharatnam"
-Category = "pancharatna, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Verses 58-63 of Ramakarnamritam, chaturtha AshvAsaH"
-"Latest update" = "October 5, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामश्लोकपञ्चरत्नम् (रामकर्णामृइतान्तर्गतम्)"
+---
+Category: pancharatna, raama
+Description-comments: Verses 58-63 of Ramakarnamritam, chaturtha AshvAsaH
+File name: rAmashlokapancharatnam.itx
+Language: Sanskrit
+Latest update: October 5, 2017
+Location: doc_raama
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmashlokapancharatnam
+engtitle: rAmashlokapancharatnam
+itxtitle: rAmashlokapancharatnam (rAmakarNAmRitAntargatam)
+title: रामश्लोकपञ्चरत्नम् (रामकर्णामृइतान्तर्गतम्)
 
-+++
+---
   
  श्रीरामश्लोकपञ्चरत्नम्   
   

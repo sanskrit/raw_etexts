@@ -3,7 +3,6 @@ title: 114 Bharata enters Ayodhya city
 title_english: 114 Bharata enters Ayodhya city
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-114-Ayodhyaa_Praveshaha.mp3"></div>
 
 स्निग्ध गम्भीर घोषेण स्यन्दनेन उपयान् प्रभुः ।  
@@ -50,7 +49,7 @@ title_english: 114 Bharata enters Ayodhya city
 प्रमत्तगजनादश्च महांश्च रथनिस्वनः ॥ २-११४-२१  
 नेदानीम् श्रूयते पुर्यामस्याम् रामे विवासिते ॥ २-११४-२२  
 चन्दनागारुगन्धांश्च महार्हश्च नवस्रजः ॥ २-११४-२३  
-गते हि रामे तरुणाः संतप्ता नोपभुञ्जते ।  
+गते हि रामे तरुणाः सन्तप्ता नोपभुञ्जते ।  
 बहिर्यात्रां न गच्छन्ति चित्रमाअल्यधरा नराः ॥ २-११४-२४  
 नोत्सवाः सम्प्रवर्तन्ते रामशोकार्दिते पुरे ।  
 सह नूनम् मम भ्रात्रा पुरस्यास्य द्युतिर्गता ॥ २-११४-२५  

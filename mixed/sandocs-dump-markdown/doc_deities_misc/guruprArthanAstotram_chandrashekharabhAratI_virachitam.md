@@ -1,25 +1,25 @@
-+++
-"Text title" = "Guruprarthana Stotram"
-"File name" = "guruprArthanAstotram.itx"
-itxtitle = "guruprArthanAstotram (chandrashekharabhAratI virachitam)"
-engtitle = "guruprArthanAstotram"
-Category = "deities_misc, gurudev, chandrashekharabhAratI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "chandrashekharabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Sri Gururaja Sukti Malika"
-Indexextra = "(Translation)"
-"Latest update" = "January 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुप्रार्थनास्तोत्रम् (चन्द्रशेखरभारती विरचितम्)"
+---
+Author: chandrashekharabhAratI
+Category: deities_misc, gurudev, chandrashekharabhAratI
+Description/comments: Sri Gururaja Sukti Malika
+File name: guruprArthanAstotram.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: January 1, 2020
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Guruprarthana Stotram
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: guruprArthanAstotram
+itxtitle: guruprArthanAstotram (chandrashekharabhAratI virachitam)
+title: गुरुप्रार्थनास्तोत्रम् (चन्द्रशेखरभारती विरचितम्)
 
-+++
+---
   
  गुरुप्रार्थना स्तोत्रम्   
 पृथ्वीमण्डलराजमाननृपमौल्याभात्किरीटोज्ज्वल-  

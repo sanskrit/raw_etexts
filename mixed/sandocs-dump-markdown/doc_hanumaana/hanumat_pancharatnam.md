@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrii hanumat paJNcharatnam.h"
-"File name" = "hanumatpancha.itx"
-itxtitle = "hanumat pancharatnam"
-engtitle = "hanumat paJNcharatnam.h"
-Category = "pancharatna, hanumaana, shankarAchArya, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Raman Anantaraman (anantaraman at nscl.msu.edu)"
-"Proofread by" = "Raman Anantaraman (anantaraman at nscl.msu.edu)"
-"Translated by" = "A. Narayanaswami"
-Description-comments = "Garland of Five Gems on Shri Hanuman"
-Indexextra = "(with meAning)"
-"Latest update" = "April 16, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत् पञ्चरत्नम्"
+---
+Author: Adi Shankaracharya
+Category: pancharatna, hanumaana, shankarAchArya, hanuman
+Description-comments: Garland of Five Gems on Shri Hanuman
+File name: hanumatpancha.itx
+Indexextra: (with meAning)
+Language: Sanskrit
+Latest update: April 16, 2006
+Location: doc_hanumaana
+Proofread by: Raman Anantaraman (anantaraman at nscl.msu.edu)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: hanumaana
+Text title: shrii hanumat paJNcharatnam.h
+Translated by: A. Narayanaswami
+Transliterated by: Raman Anantaraman (anantaraman at nscl.msu.edu)
+engtitle: hanumat paJNcharatnam.h
+itxtitle: hanumat pancharatnam
+title: हनुमत् पञ्चरत्नम्
 
-+++
+---
   
  श्रीहनुमत् पञ्चरत्नम्   
   
@@ -70,7 +70,7 @@ was the culmination of the accumulated penances of Vayu. 5.
 will become one with the devotees of Shri Rama after enjoying  
 for long the pleasures of this world.  6.   
   
- इति श्रीमच्छंकर-भगवतः कृतौ हनुमत्-पञ्चरत्नं संपूर्णम् ॥  
+ इति श्रीमच्छङ्कर-भगवतः कृतौ हनुमत्-पञ्चरत्नं सम्पूर्णम् ॥  
  Here ends ᳚Hanumat Pancharatnam,᳚ composed by Shri  
 Shankara Bhagavata, Adi Shankaracarya.    
   

@@ -1,25 +1,26 @@
-+++
-"Text title" = "bRihadAraNyakopaniShat"
-"File name" = "bri.itx"
-itxtitle = "bRihadAraNyakopaniShat (sasvarA)"
-engtitle = "Brihadaranyaka Upanishad with Vedic Accent"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Marcos Albino"
-Description-comments = "The upanishad has only Udatta and Anudatta (no svarita, vertical line above)"
-Source = "Mantrapushpam, Ramkrishna Mission, Khar"
-Indexextra = "(TITUS text), translation, notes)"
-"Latest update" = "January 31, 1997, February 25, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बृइहदारण्यकोपनिषत् (सस्वरा)"
+---
+Author: Vedic Tradition
+Category: upanishhat, svara, upanishad
+Description-comments: The upanishad has only Udatta and Anudatta (no svarita, vertical
+  line above)
+File name: bri.itx
+Indexextra: (TITUS text), translation, notes)
+Language: Sanskrit
+Latest update: January 31, 1997, February 25, 2019
+Location: doc_upanishhat
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Mantrapushpam, Ramkrishna Mission, Khar
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: bRihadAraNyakopaniShat
+Texttype: svara
+Transliterated by: Marcos Albino
+engtitle: Brihadaranyaka Upanishad with Vedic Accent
+itxtitle: bRihadAraNyakopaniShat (sasvarA)
+title: बृइहदारण्यकोपनिषत् (सस्वरा)
 
-+++
+---
   
  बृहदारण्यकोपनिषत् सस्वरा   
   

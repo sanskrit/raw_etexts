@@ -1,25 +1,25 @@
-+++
-"Text title" = "gangAlaharI"
-"File name" = "gangAlaharI.itx"
-itxtitle = "gaNgAlaharI athavA pIyuShalaharI (paNDitarAjajagannAthavirachitA)"
-engtitle = "Gangalahari by Jagannatha Pandit"
-Category = "laharI, devii, nadI, jagannAthapaNDita, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Jagannathapandita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Arvind Kolhatkar akolhatkar at rogers.com"
-"Proofread by" = "Arvind Kolhatkar akolhatkar at rogers.com, Sunder Hattangadi"
-"Latest update" = "January 12, 2005, June 21, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गालहरी अथवा पीयुषलहरी (पण्डितराजजगन्नाथविरचिता)"
+---
+Author: Jagannathapandita
+Category: laharI, devii, nadI, jagannAthapaNDita, devI
+File name: gangAlaharI.itx
+Language: Sanskrit
+Latest update: January 12, 2005, June 21, 2011
+Location: doc_devii
+Proofread by: Arvind Kolhatkar akolhatkar at rogers.com, Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gangAlaharI
+Transliterated by: Arvind Kolhatkar akolhatkar at rogers.com
+engtitle: Gangalahari by Jagannatha Pandit
+itxtitle: gaNgAlaharI athavA pIyuShalaharI (paNDitarAjajagannAthavirachitA)
+title: गण्गालहरी अथवा पीयुषलहरी (पण्डितराजजगन्नाथविरचिता)
 
-+++
+---
   
- गंगालहरी   
+ गङ्गालहरी   
   
 समृद्धं सौभाग्यं सकलवसुधायाः किमपि तन्  
 महैश्वर्यं लीलाजनितजगतः खण्डपरशोः ।  
@@ -32,7 +32,7 @@ title = "गण्गालहरी अथवा पीयुषलहरी (�
 प्रवाहस्ते वारां श्रियमयमपारां दिशतु नः ॥ २॥  
   
 उदञ्चन्मार्तण्डस्फुटकपटहेरम्बजननी-  
-कटाक्षव्याक्षेपक्षणजनितसंक्षोभनिवहाः ।  
+कटाक्षव्याक्षेपक्षणजनितसङ्क्षोभनिवहाः ।  
 भवन्तु त्वङ्गन्तो हरशिरसि गङ्गातनुभुव-  
 स्तरङ्गाः प्रोत्तुङ्गा दुरितभयभङ्गाय भवताम् ॥ ३॥  
   

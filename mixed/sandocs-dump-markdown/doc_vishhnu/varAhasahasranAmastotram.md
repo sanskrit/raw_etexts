@@ -1,24 +1,24 @@
-+++
-"Text title" = "varAhasahasranAmastotram"
-"File name" = "varAhasahasranAmastotram.itx"
-itxtitle = "varAhasahasranAmastotram"
-engtitle = "varAhasahasranAmastotram"
-Category = "sahasranAma, vishhnu, dashAvatAra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(Scanned book)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "October 6, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वराहसहस्रनामस्तोत्रम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAma, vishhnu, dashAvatAra, vishnu
+Description-comments: Edited by S. V. Radhakrishna Shastriji
+File name: varAhasahasranAmastotram.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: October 6, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: varAhasahasranAmastotram
+engtitle: varAhasahasranAmastotram
+itxtitle: varAhasahasranAmastotram
+title: वराहसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीवराहसहस्रनामस्तोत्रम्   
   

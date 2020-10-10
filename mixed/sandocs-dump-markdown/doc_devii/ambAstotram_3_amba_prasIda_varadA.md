@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ambastotram 3"
-"File name" = "ambAstotram3.itx"
-itxtitle = "ambAstotram 3 (amba prasIda varadA)"
-engtitle = "ambAstotram 3"
-Category = "devii, devI, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "March 14, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अम्बास्तोत्रम् ३ (अम्ब प्रसीद वरदा)"
+---
+Category: devii, devI, pArvatI
+File name: ambAstotram3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 14, 2020
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Ambastotram 3
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: ambAstotram 3
+itxtitle: ambAstotram 3 (amba prasIda varadA)
+title: अम्बास्तोत्रम् ३ (अम्ब प्रसीद वरदा)
 
-+++
+---
   
  अम्बास्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  

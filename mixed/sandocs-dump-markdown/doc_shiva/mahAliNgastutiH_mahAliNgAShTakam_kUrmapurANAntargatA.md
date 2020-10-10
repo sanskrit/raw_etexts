@@ -1,21 +1,21 @@
-+++
-"Text title" = "Mahalingastuti or Mahalingashtakam"
-"File name" = "mahAlingastutiH.itx"
-itxtitle = "mahAliNgastutiH mahAliNgAShTakam (kUrmapurANAntargatA)"
-engtitle = "mahAlingastutiH"
-Category = "shiva, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "kUrmapurANa"
-Indexextra = "(Telugu)"
-"Latest update" = "July 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालिण्गस्तुतिः महालिण्गाष्टकम् (कूर्मपुराणान्तर्गता)"
+---
+Category: shiva, aShTaka
+Description/comments: kUrmapurANa
+File name: mahAlingastutiH.itx
+Indexextra: (Telugu)
+Language: Sanskrit
+Latest update: July 7, 2019
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mahalingastuti or Mahalingashtakam
+engtitle: mahAlingastutiH
+itxtitle: mahAliNgastutiH mahAliNgAShTakam (kUrmapurANAntargatA)
+title: महालिण्गस्तुतिः महालिण्गाष्टकम् (कूर्मपुराणान्तर्गता)
 
-+++
+---
   
  श्रीमहालिङ्गस्तुतिः   
 अनादिमलसंसार रोगवैद्याय शम्भवे ।  

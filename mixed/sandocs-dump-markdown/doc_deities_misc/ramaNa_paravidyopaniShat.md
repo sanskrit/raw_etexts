@@ -1,25 +1,25 @@
-+++
-"Text title" = "Shri Ramana Paravidya Upanishad"
-"File name" = "ramaNaparavidyopanishad.itx"
-itxtitle = "ramaNa paravidyopaniShat"
-engtitle = "Shri Ramanaparavidyopanishad"
-Category = "deities_misc, ramana, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ramana"
-Author = "'WHO'  (K. Lakshmana Sarma)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Ramanashrama Publication ISBN 81-8288-058-0 2nd ed. 2009"
-Acknowledge-Permission = "Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org"
-"Latest update" = "Dec. 14, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रमण परविद्योपनिषत्"
+---
+Acknowledge-Permission: Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org
+Author: '''WHO''  (K. Lakshmana Sarma)'
+Category: deities_misc, ramana, gurudev
+File name: ramaNaparavidyopanishad.itx
+Language: Sanskrit
+Latest update: Dec. 14, 2014
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Ramanashrama Publication ISBN 81-8288-058-0 2nd ed. 2009
+SubDeity: ramana
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Ramana Paravidya Upanishad
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Shri Ramanaparavidyopanishad
+itxtitle: ramaNa paravidyopaniShat
+title: रमण परविद्योपनिषत्
 
-+++
+---
   
  श्रीरमण परविद्योपनिषत्   
   
@@ -383,7 +383,7 @@ Quote - Upanishad
 अनित्यमल्पं च सुखं सुषुप्तौ  
      मनोऽस्ति तस्यां खलु बीजभावे ।  
 तुर्ये प्रपूर्णं सुखमस्त्यनन्त-  
-     मानन्दसंज्ञं श्रुतिषु प्रसिद्धम् ॥ ६७॥  
+     मानन्दसञ्ज्ञं श्रुतिषु प्रसिद्धम् ॥ ६७॥  
   
 तस्यैव मात्रां खलु जीवलोके  
      लब्ध्वा रमन्तेऽखिलजन्तवोऽपि ।  

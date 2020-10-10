@@ -1,23 +1,23 @@
-+++
-"Text title" = "vaMsha vRiddhikaraM durgaa kavacham"
-"File name" = "vanshavRiddhikaradurgAkavacha.itx"
-itxtitle = "durgAkavacham (vaMshavRiddhikaram)"
-engtitle = "vaMsha vRiddhikaraM durgA kavacham"
-Category = "kavacha, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "jnaana bhaaskara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Arun Shantharam shantharam.arun  at  gmail.com"
-"Proofread by" = "Arun Shantharam shantharam.arun  at  gmail.com"
-"Latest update" = "April 12, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गाकवचम् (वंशवृइद्धिकरम्)"
+---
+Author: jnaana bhaaskara
+Category: kavacha, devii, durgA, devI
+File name: vanshavRiddhikaradurgAkavacha.itx
+Language: Sanskrit
+Latest update: April 12, 2009
+Location: doc_devii
+Proofread by: Arun Shantharam shantharam.arun  at  gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vaMsha vRiddhikaraM durgaa kavacham
+Transliterated by: Arun Shantharam shantharam.arun  at  gmail.com
+engtitle: vaMsha vRiddhikaraM durgA kavacham
+itxtitle: durgAkavacham (vaMshavRiddhikaram)
+title: दुर्गाकवचम् (वंशवृइद्धिकरम्)
 
-+++
+---
   
  वंशवृद्धिकरं दुर्गाकवचम् अथवा वंशकवचम्   
   
@@ -51,7 +51,7 @@ title = "दुर्गाकवचम् (वंशवृइद्धिकर
 उत्तरे वैष्णवीं रक्षेत् ईशाने सिंह वाहिनी ॥ २॥  
   
 ऊर्ध्वां तु शारदा रक्षेदधो रक्षतु पार्वती ।  
-शाकंभरी शिरो रक्षेन्मुखं रक्षतु भैरवी ॥ ३॥  
+शाकम्भरी शिरो रक्षेन्मुखं रक्षतु भैरवी ॥ ३॥  
   
 कण्ठं रक्षतु चामुण्डा हृदयं रक्षतात् शिवा ।  
 ईशानी च भुजौ रक्षेत् कुक्षिं नाभिं च कालिका ॥ ४ ॥  
@@ -69,7 +69,7 @@ title = "दुर्गाकवचम् (वंशवृइद्धिकर
 महाकाली महालक्ष्मी महासरस्वती रुपायै  
 नवकोटिमूर्त्यै दुर्गायै नमः ॥ ८॥  
   
-ह्रीं ह्रीं ह्रीं दुर्गार्तिनाशिनी संतानसौख्यम् देहि देहि  
+ह्रीं ह्रीं ह्रीं दुर्गार्तिनाशिनी सन्तानसौख्यम् देहि देहि  
 बन्ध्यत्वं मृतवत्सत्वं च हर हर गर्भरक्षां कुरु कुरु  
 सकलां बाधां कुलजां बाह्यजां कृतामकृतां च नाशय  
 नाशय सर्वगात्राणि रक्ष रक्ष गर्भं पोषय पोषय  
@@ -93,7 +93,7 @@ title = "दुर्गाकवचम् (वंशवृइद्धिकर
 गुह्याद्गुह्यतरं चेदं न प्रकाश्यं हि सर्वतः ॥ ५॥  
   
 धारणात् पठनादस्य वंशच्छेदो न जायते ।  
-बाला विनश्यंति पतन्ति गर्भास्तत्राबलाः कष्टयुताश्च वन्ध्याः ॥ ६ ॥  
+बाला विनश्यन्ति पतन्ति गर्भास्तत्राबलाः कष्टयुताश्च वन्ध्याः ॥ ६ ॥  
   
 बाल ग्रहैर्भूतगणैश्च रोगैर्न यत्र धर्माचरणं गृहे स्यात् ॥  
   

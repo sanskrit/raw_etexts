@@ -1,24 +1,24 @@
-+++
-"Text title" = "bhAtubhAratam"
-"File name" = "bhAtubhAratam.itx"
-itxtitle = "bhAtubhAratam"
-engtitle = "bhAtubhAratam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "vaidyaH rAmasvarUpa shAstrI"
-Language = "Sanskrit"
-Subject = "philosophy"
-"Transliterated by" = "Srinivas Kommireddy srinivas.kommireddy at googlemail.com"
-"Proofread by" = "Srinivas Kommireddy"
-Source = "Divya Jyoti Sanskrit Magazine September 1966"
-Indexextra = "(Magazine)"
-"Latest update" = "December 6, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भातुभारतम्"
+---
+Author: vaidyaH rAmasvarUpa shAstrI
+Category: misc, sanskritgeet
+File name: bhAtubhAratam.itx
+Indexextra: (Magazine)
+Language: Sanskrit
+Latest update: December 6, 2015
+Location: doc_z_misc_general
+Proofread by: Srinivas Kommireddy
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Divya Jyoti Sanskrit Magazine September 1966
+Subject: philosophy
+Sublocation: misc
+Text title: bhAtubhAratam
+Transliterated by: Srinivas Kommireddy srinivas.kommireddy at googlemail.com
+engtitle: bhAtubhAratam
+itxtitle: bhAtubhAratam
+title: भातुभारतम्
 
-+++
+---
   
  भातु भारतम्   
 मुनिभिरर्चितं देवपूजितं श्रुतिभिरूर्जितं शास्त्रचर्चितम् ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vande Bharatam Bharatam Vande.anaratam"
-"File name" = "vandebhArataMbhArataMvande.anAratam.itx"
-itxtitle = "vande bhArataM bhArataM vande.anAratam"
-engtitle = "vande bhArataM bhArataM vande.anAratam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dr. ichChArAma dvivedI \"praNava\""
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Volunteers at Bharat Vikas Parishad https://bvpindia.com"
-Indexextra = "(Text, BVP Intro)"
-Acknowledge-Permission = "Bharat Vikas Parishad https://bvpindia.com Atam Dev"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वन्दे भारतं भारतं वन्देऽनारतम्"
+---
+Acknowledge-Permission: Bharat Vikas Parishad https://bvpindia.com Atam Dev
+Author: Dr. ichChArAma dvivedI "praNava"
+Category: misc, sanskritgeet
+File name: vandebhArataMbhArataMvande.anAratam.itx
+Indexextra: (Text, BVP Intro)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Vande Bharatam Bharatam Vande.anaratam
+Transliterated by: Volunteers at Bharat Vikas Parishad https://bvpindia.com
+engtitle: vande bhArataM bhArataM vande.anAratam
+itxtitle: vande bhArataM bhArataM vande.anAratam
+title: वन्दे भारतं भारतं वन्देऽनारतम्
 
-+++
+---
   
  वन्दे भारतं भारतं वन्देऽनारतम्   
 वन्दे भारतं  

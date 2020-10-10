@@ -1,21 +1,21 @@
-+++
-"Text title" = "Gauripati Shatanamavali 100 Names"
-"File name" = "gaurIpatishatanAmAvaliH.itx"
-itxtitle = "gaurIpatishatanAmAvaliH"
-engtitle = "gaurIpatishatanAmAvaliH"
-Category = "shiva, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "From Shivastotraratnakara, Gita press.  See corresponding stotra."
-Indexextra = "(stotra)"
-"Latest update" = "May 10, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गौरीपतिशतनामावलिः"
+---
+Category: shiva, aShTottarashatanAmAvalI, nAmAvalI
+Description/comments: From Shivastotraratnakara, Gita press.  See corresponding stotra.
+File name: gaurIpatishatanAmAvaliH.itx
+Indexextra: (stotra)
+Language: Sanskrit
+Latest update: May 10, 2020
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Gauripati Shatanamavali 100 Names
+engtitle: gaurIpatishatanAmAvaliH
+itxtitle: gaurIpatishatanAmAvaliH
+title: गौरीपतिशतनामावलिः
 
-+++
+---
   
  गौरीपतिशतनामावलिः   
 बृहस्पतिरुवाच -  

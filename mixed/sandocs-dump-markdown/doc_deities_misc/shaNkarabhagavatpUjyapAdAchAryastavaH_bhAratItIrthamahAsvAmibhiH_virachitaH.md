@@ -1,24 +1,24 @@
-+++
-"Text title" = "majjagadgurushaMkarabhagavatpUjyapAdAchAryastavaH"
-"File name" = "shankaracharyastava.itx"
-itxtitle = "shaNkarabhagavatpUjyapAdAchAryastavaH (bhAratItIrthamahAsvAmibhiH virachitaH)"
-engtitle = "jagadgurushaMkarabhagavatpUjyapAdAchAryastavaH"
-Category = "deities_misc, stotra, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "stotra"
-Author = "bhAratItIrthamahAsvAmi"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Transliterated by" = "Ramakrishna Upadrasta uramakrishna at gmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com Ramakrishna Upadrasta"
-"Latest update" = "May 18, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शण्करभगवत्पूज्यपादाचार्यस्तवः (भारतीतीर्थमहास्वामिभिः विरचितः)"
+---
+Author: bhAratItIrthamahAsvAmi
+Category: deities_misc, stotra, gurudev
+File name: shankaracharyastava.itx
+Language: Sanskrit
+Latest update: May 18, 2012
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com Ramakrishna Upadrasta
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: hinduism
+Sublocation: deities_misc
+Text title: majjagadgurushaMkarabhagavatpUjyapAdAchAryastavaH
+Texttype: stotra
+Transliterated by: Ramakrishna Upadrasta uramakrishna at gmail.com
+engtitle: jagadgurushaMkarabhagavatpUjyapAdAchAryastavaH
+itxtitle: shaNkarabhagavatpUjyapAdAchAryastavaH (bhAratItIrthamahAsvAmibhiH virachitaH)
+title: शण्करभगवत्पूज्यपादाचार्यस्तवः (भारतीतीर्थमहास्वामिभिः विरचितः)
 
-+++
+---
   
  श्रीमज्जगद्गुरुशङ्करभगवत्पूज्यपादाचार्यस्तवः   
   

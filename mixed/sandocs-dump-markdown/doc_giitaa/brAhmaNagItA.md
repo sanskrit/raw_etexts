@@ -1,23 +1,23 @@
-+++
-"Text title" = "brAhmaNagItA"
-"File name" = "braahmaNagiitaa.itx"
-itxtitle = "brAhmaNagItA"
-engtitle = "brAhmaNagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-Description-comments = "Adhyaya numbers 21-34 in Ashvamedhika, Mahabharata"
-Indexextra = "(Adhyaya 21-34 Ashvamedhika, Mahabharata (scanned))"
-"Latest update" = "June 2, 1998, February 8, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्राह्मणगीता"
+---
+Category: gItA, giitaa
+Description-comments: Adhyaya numbers 21-34 in Ashvamedhika, Mahabharata
+File name: braahmaNagiitaa.itx
+Indexextra: (Adhyaya 21-34 Ashvamedhika, Mahabharata (scanned))
+Language: Sanskrit
+Latest update: June 2, 1998, February 8, 2013
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: brAhmaNagItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: brAhmaNagItA
+itxtitle: brAhmaNagItA
+title: ब्राह्मणगीता
 
-+++
+---
   
  ब्राह्मणगीता   
   
@@ -1047,7 +1047,7 @@ title = "ब्राह्मणगीता"
 तस्मात्ते सुभगे नास्ति परलोककृतं भयम् ।  
 मद्भावभावनिरता ममैवात्मानमेष्यसि ॥ ८॥  
   
-इति श्रीमहाभारते आश्वमेधिके पर्वणि अनुगीतापर्वणि त्रयस्त्रिंचोऽध्यायः ॥  
+इति श्रीमहाभारते आश्वमेधिके पर्वणि अनुगीतापर्वणि त्रयस्त्रिञ्चोऽध्यायः ॥  
   
   
   

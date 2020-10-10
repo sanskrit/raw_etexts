@@ -1,22 +1,23 @@
-+++
-"Text title" = "Shri MahalakShmi Ashtottarashata Namavali 108 Names"
-"File name" = "mahAlakShmyaShTottarashatanAmAvaliH.itx"
-itxtitle = "mahAlakShmyaShTottarashatanAmAvaliH"
-engtitle = "mahAlakShmyaShTottarashatanAmAvaliH"
-Category = "devii, aShTottarashatanAmAvalI, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "Last three names are taken from mahAlakShmyakSharamAlikA for completion to unique 108 names"
-Indexextra = "(stotra)"
-"Latest update" = "January 4, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालक्ष्म्यष्टोत्तरशतनामावलिः"
+---
+Category: devii, aShTottarashatanAmAvalI, lakShmI, devI
+Description/comments: Last three names are taken from mahAlakShmyakSharamAlikA for
+  completion to unique 108 names
+File name: mahAlakShmyaShTottarashatanAmAvaliH.itx
+Indexextra: (stotra)
+Language: Sanskrit
+Latest update: January 4, 2020
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri MahalakShmi Ashtottarashata Namavali 108 Names
+engtitle: mahAlakShmyaShTottarashatanAmAvaliH
+itxtitle: mahAlakShmyaShTottarashatanAmAvaliH
+title: महालक्ष्म्यष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीमहालक्ष्म्यष्टोत्तरशतनामावलिः   
 ॐ शुद्धलक्ष्म्यै नमः । बुद्धिलक्ष्म्यै । वरलक्ष्म्यै ।  

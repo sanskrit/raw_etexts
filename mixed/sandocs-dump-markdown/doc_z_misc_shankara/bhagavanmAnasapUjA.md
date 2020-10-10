@@ -1,21 +1,22 @@
-+++
-"Text title" = "bhagavanmAnasapUjA"
-"File name" = "bhagavanmAnasapUjA.itx"
-itxtitle = "bhagavanmAnasapUjA"
-engtitle = "bhagavanmAnasapUjA"
-Category = "pUjA, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Singanallur Ganesan singanallur at gmail.com"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "June 3, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवन्मानसपूजा"
+---
+Category: pUjA, shankarAchArya
+File name: bhagavanmAnasapUjA.itx
+Language: Sanskrit
+Latest update: June 3, 2013
+Location: doc_z_misc_shankara
+Proofread by: Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: bhagavanmAnasapUjA
+Transliterated by: Singanallur Ganesan singanallur at gmail.com
+engtitle: bhagavanmAnasapUjA
+itxtitle: bhagavanmAnasapUjA
+title: भगवन्मानसपूजा
 
-+++
+---
   
  भगवन्मानसपूजा   
   
@@ -49,7 +50,7 @@ title = "भगवन्मानसपूजा"
 सदा तृप्तान्नं षड्रसवदखिलव्यञ्जनयुतं  
 सुवर्णामत्रे गोघृतचषकयुक्ते स्थितमिदम् ।  
 यशोदासूनो तत्परमदययाऽशान सखिभिः  
-प्रसादं वांछद्भिः सह तदनु नीरं पिब विभो ॥ ६॥  
+प्रसादं वाञ्छद्भिः सह तदनु नीरं पिब विभो ॥ ६॥  
   
 सचन्द्रं ताम्बूलं मुखरुचिकरं भक्षय हरे  
 फलं स्वादु प्रीत्या परिमलवदास्वादय चिरम् ।  

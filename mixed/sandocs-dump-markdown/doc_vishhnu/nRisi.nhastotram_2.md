@@ -1,24 +1,24 @@
-+++
-"Text title" = "nRisi.nhastotra"
-"File name" = "nrisinhastotra2.itx"
-itxtitle = "nRisi.nhastotram 2"
-engtitle = "nRisi.nhastotra"
-Category = "vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "December 30, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहस्तोत्रम् २"
+---
+Author: Traditional
+Category: vishhnu, dashAvatAra, stotra, vishnu
+File name: nrisinhastotra2.itx
+Language: Sanskrit
+Latest update: December 30, 2004
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nRisi.nhastotra
+Texttype: stotra
+Transliterated by: WebD
+engtitle: nRisi.nhastotra
+itxtitle: nRisi.nhastotram 2
+title: नृइसिंहस्तोत्रम् २
 
-+++
+---
   
  नृसिंहस्तोत्र   
   

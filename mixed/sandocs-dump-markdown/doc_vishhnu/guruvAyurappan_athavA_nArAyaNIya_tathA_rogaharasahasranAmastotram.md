@@ -1,21 +1,21 @@
-+++
-"Text title" = "guruvAyurappansahasranAmastotram"
-"File name" = "guruvAyurappansahasranAmastotram.itx"
-itxtitle = "guruvAyurappan athavA nArAyaNIya tathA rogaharasahasranAmastotram"
-engtitle = "guruvAyurappansahasranAmastotram"
-Category = "vishhnu, krishna, sahasranAma"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "July 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुवायुरप्पन् अथवा नारायणीय तथा रोगहरसहस्रनामस्तोत्रम्"
+---
+Category: vishhnu, krishna, sahasranAma
+File name: guruvAyurappansahasranAmastotram.itx
+Language: Sanskrit
+Latest update: July 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: guruvAyurappansahasranAmastotram
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: guruvAyurappansahasranAmastotram
+itxtitle: guruvAyurappan athavA nArAyaNIya tathA rogaharasahasranAmastotram
+title: गुरुवायुरप्पन् अथवा नारायणीय तथा रोगहरसहस्रनामस्तोत्रम्
 
-+++
+---
   
  गुरुवायुरप्प अथवा नारायणीय तथा रोगहरसहस्रनामस्तोत्रम्   
   

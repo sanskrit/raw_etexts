@@ -1,23 +1,23 @@
-+++
-"Text title" = "Sarasvati Dvadasha Nama Stotram"
-"File name" = "sarasvatIdvAdashanAmastotram.itx"
-itxtitle = "sarasvatIdvAdashanAmastotram"
-engtitle = "sarasvatI dvAdashanAma stotram"
-Category = "devii, sarasvatI, dvAdasha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(Scan)"
-"Latest update" = "January 28, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीद्वादशनामस्तोत्रम्"
+---
+Category: devii, sarasvatI, dvAdasha, devI
+File name: sarasvatIdvAdashanAmastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 28, 2020
+Location: doc_devii
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Sarasvati Dvadasha Nama Stotram
+Transliterated by: NA
+engtitle: sarasvatI dvAdashanAma stotram
+itxtitle: sarasvatIdvAdashanAmastotram
+title: सरस्वतीद्वादशनामस्तोत्रम्
 
-+++
+---
   
  सरस्वतीद्वादशनामस्तोत्रम्   
 सरस्वतीमहं वन्दे वीणापुस्तकधारिणीम् ।  

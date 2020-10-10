@@ -1,23 +1,23 @@
-+++
-"Text title" = "Agni AshtottarashatanAmastotram"
-"File name" = "agnyaShTottarashatanAmastotram.itx"
-itxtitle = "agnyaShTottarashatanAmastotram (sAmbadIkShitena saNkalitam)"
-engtitle = "agnyaShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Sambadikshita from Gokarna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "Shri Kamakoti Kosha Sthanam, Madras, 1973"
-"Latest update" = "June 3, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अग्न्यष्टोत्तरशतनामस्तोत्रम् (साम्बदीक्षितेन सण्कलितम्)"
+---
+Acknowledge-Permission: Shri Kamakoti Kosha Sthanam, Madras, 1973
+Author: Sambadikshita from Gokarna
+Category: aShTottarashatanAma, deities_misc, stotra
+File name: agnyaShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: June 3, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Agni AshtottarashatanAmastotram
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: agnyaShTottarashatanAmastotram
+itxtitle: agnyaShTottarashatanAmastotram (sAmbadIkShitena saNkalitam)
+title: अग्न्यष्टोत्तरशतनामस्तोत्रम् (साम्बदीक्षितेन सण्कलितम्)
 
-+++
+---
   
  अग्नेः अष्टोत्तरशतनामस्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  

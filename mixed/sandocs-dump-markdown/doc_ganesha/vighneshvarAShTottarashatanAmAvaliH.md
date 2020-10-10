@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Vighneshvara Ashtottarashatanamavali 108 names"
-"File name" = "vighneshvarAShTottarashatanAmAvaliH.itx"
-itxtitle = "vighneshvarAShTottarashatanAmAvaliH"
-engtitle = "vighneshvara aShTottarashatanAmAvaliH"
-Category = "aShTottarashatanAmAvalI, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "See corresponding stotram"
-"Latest update" = "August 29, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विघ्नेश्वराष्टोत्तरशतनामावलिः"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, ganesha
+Description-comments: See corresponding stotram
+File name: vighneshvarAShTottarashatanAmAvaliH.itx
+Language: Sanskrit
+Latest update: August 29, 2019
+Location: doc_ganesha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Shri Vighneshvara Ashtottarashatanamavali 108 names
+Texttype: stotra
+engtitle: vighneshvara aShTottarashatanAmAvaliH
+itxtitle: vighneshvarAShTottarashatanAmAvaliH
+title: विघ्नेश्वराष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीविघ्नेश्वराष्टोत्तरशतनामावलिः   
 ॐ विनायकाय नमः । विघ्नराजाय । गौरीपुत्राय । गणेश्वराय ।  

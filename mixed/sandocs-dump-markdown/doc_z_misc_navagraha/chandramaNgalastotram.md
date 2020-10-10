@@ -1,22 +1,22 @@
-+++
-"Text title" = "chandramangalastotram"
-"File name" = "chandramangalastotram.itx"
-itxtitle = "chandramaNgalastotram"
-engtitle = "chandramangalastotram"
-Category = "navagraha, mangala"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्रमण्गलस्तोत्रम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: navagraha, mangala
+File name: chandramangalastotram.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: chandramangalastotram
+engtitle: chandramangalastotram
+itxtitle: chandramaNgalastotram
+title: चन्द्रमण्गलस्तोत्रम्
 
-+++
+---
   
  चन्द्रमङ्गलस्तोत्रम्   
   

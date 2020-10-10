@@ -1,22 +1,22 @@
-+++
-"Text title" = "vaTapatyaShTakam"
-"File name" = "vaTapatyaShTakam.itx"
-itxtitle = "vaTapatyaShTakam"
-engtitle = "vaTapatyaShTakam"
-Category = "vishhnu, aShTaka, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal"
-"Proofread by" = "NA"
-Indexextra = "(Sanskrit and Gujarati Commentary)"
-"Latest update" = "September 26, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वटपत्यष्टकम्"
+---
+Category: vishhnu, aShTaka, vishnu
+File name: vaTapatyaShTakam.itx
+Indexextra: (Sanskrit and Gujarati Commentary)
+Language: Sanskrit
+Latest update: September 26, 2016
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vaTapatyaShTakam
+Transliterated by: Gopal
+engtitle: vaTapatyaShTakam
+itxtitle: vaTapatyaShTakam
+title: वटपत्यष्टकम्
 
-+++
+---
   
  श्रीवटपत्यष्टकम्   
   

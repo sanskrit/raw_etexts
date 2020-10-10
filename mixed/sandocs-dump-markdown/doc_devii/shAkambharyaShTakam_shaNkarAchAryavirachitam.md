@@ -1,25 +1,25 @@
-+++
-"Text title" = "shAkambharyaShTakam"
-"File name" = "shAkambharyaShTakam.itx"
-itxtitle = "shAkambharyaShTakam (shaNkarAchAryavirachitam)"
-engtitle = "shAkambharyaShTakam"
-Category = "devii, dashamahAvidyA, aShTaka, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Prakash Ketkar"
-"Proofread by" = "Prakash Ketkar, Sunder Hattangadi, NA"
-Indexextra = "(Audio-Video)"
-Acknowledge-Permission = "http://ioustotra.blogspot.com"
-"Latest update" = "August 5, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शाकम्भर्यष्टकम् (शण्कराचार्यविरचितम्)"
+---
+Acknowledge-Permission: http://ioustotra.blogspot.com
+Author: Shankaracharya
+Category: devii, dashamahAvidyA, aShTaka, shankarAchArya, devI
+File name: shAkambharyaShTakam.itx
+Indexextra: (Audio-Video)
+Language: Sanskrit
+Latest update: August 5, 2018
+Location: doc_devii
+Proofread by: Prakash Ketkar, Sunder Hattangadi, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAkambharyaShTakam
+Transliterated by: Prakash Ketkar
+engtitle: shAkambharyaShTakam
+itxtitle: shAkambharyaShTakam (shaNkarAchAryavirachitam)
+title: शाकम्भर्यष्टकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  श्रीशाकम्भर्यष्टकम्   
 शक्तिः शाम्भवविश्वरूपमहिमा माङ्गल्यमुक्तामणि-  

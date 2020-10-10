@@ -1,20 +1,20 @@
-+++
-"Text title" = "Bodhayitva Sangha Bhavam"
-"File name" = "bodhayitvAsanghabhAvam.itx"
-itxtitle = "bodhayitvA saNghabhAvam"
-engtitle = "bodhayitvA saNghabhAvam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Videos and Text 1, 2, 3, 4, Rashtravandana)"
-"Latest update" = "October 19, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बोधयित्वा सण्घभावम्"
+---
+Category: misc, sanskritgeet
+File name: bodhayitvAsanghabhAvam.itx
+Indexextra: (Videos and Text 1, 2, 3, 4, Rashtravandana)
+Language: Sanskrit
+Latest update: October 19, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bodhayitva Sangha Bhavam
+engtitle: bodhayitvA saNghabhAvam
+itxtitle: bodhayitvA saNghabhAvam
+title: बोधयित्वा सण्घभावम्
 
-+++
+---
   
  बोधयित्वा सङ्घभावम्   
 बोधयित्वा सङ्घभावं  

@@ -1,26 +1,28 @@
-+++
-"Text title" = "durgA dakArAdi sahasranAma stotra"
-"File name" = "durgadakaradisahasranama.itx"
-itxtitle = "durgA dakArAdisahasranAmastotram (kulArNavatantrAntargatam)"
-engtitle = "durgA dakArAdi sahasranAma stotram"
-Category = "sahasranAma, devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kirk Wortman kirkwort at hotmail.com, Adwaith Menon adwaithmenon at gmail.com"
-"Proofread by" = "Kirk Wortman, Ravin Bhalekar ravibhalekar at hotmail.com, Adwaith Menon, KS Ramachandran"
-Description-comments = "kulArNave tantre, Scanned PDF page 263 with some variations"
-Indexextra = "(Scanned)"
-"Latest update" = "August 09, 2006, December 8, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गा दकारादिसहस्रनामस्तोत्रम् (कुलार्णवतन्त्रान्तर्गतम्)"
+---
+Author: Traditional
+Category: sahasranAma, devii, durgA, stotra, devI
+Description-comments: kulArNave tantre, Scanned PDF page 263 with some variations
+File name: durgadakaradisahasranama.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: August 09, 2006, December 8, 2017
+Location: doc_devii
+Proofread by: Kirk Wortman, Ravin Bhalekar ravibhalekar at hotmail.com, Adwaith Menon,
+  KS Ramachandran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgA dakArAdi sahasranAma stotra
+Texttype: stotra
+Transliterated by: Kirk Wortman kirkwort at hotmail.com, Adwaith Menon adwaithmenon
+  at gmail.com
+engtitle: durgA dakArAdi sahasranAma stotram
+itxtitle: durgA dakArAdisahasranAmastotram (kulArNavatantrAntargatam)
+title: दुर्गा दकारादिसहस्रनामस्तोत्रम् (कुलार्णवतन्त्रान्तर्गतम्)
 
-+++
+---
   
  दकारादि दुर्गासहस्रनामस्तोत्रम्   
                   ॥ श्रीः ॥  
@@ -97,7 +99,7 @@ title = "दुर्गा दकारादिसहस्रनामस्�
 दुर्गमा दुर्गम्ध्याना दुर्गमात्मस्वरूपिणी ॥ १५॥  
   
 दुर्गमागमसन्धाना दुर्गमागमसंस्तुता ।  
-दुर्गमागमदुर्ज्ञेया दुर्गमश्रुतिसंमता ॥ १६॥  
+दुर्गमागमदुर्ज्ञेया दुर्गमश्रुतिसम्मता ॥ १६॥  
   
 दुर्गमश्रुतिमान्या च दुर्गमश्रुतिपूजिता ।  
 दुर्गमश्रुतिसुप्रीता दुर्गमश्रुतिहर्षदा ॥ १७॥  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "sashaktishivanavakam"
-"File name" = "sashaktishivanavakam.itx"
-itxtitle = "sashaktishivanavakam"
-engtitle = "sashaktishivanavakam"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सशक्तिशिवनवकम्"
+---
+Category: shiva
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: sashaktishivanavakam.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: sashaktishivanavakam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: sashaktishivanavakam
+itxtitle: sashaktishivanavakam
+title: सशक्तिशिवनवकम्
 
-+++
+---
   
  सशक्तिशिवनवकम्   
   

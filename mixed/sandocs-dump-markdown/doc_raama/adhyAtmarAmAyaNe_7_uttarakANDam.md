@@ -1,24 +1,24 @@
-+++
-"Text title" = "adhyAtma rAmAyaNa uttara kANDa"
-"File name" = "adhyaatmaRamuttara.itx"
-itxtitle = "adhyAtmarAmAyaNe 7 uttarakANDam"
-engtitle = "adhyAtmarAmAyaNa uttarakANDa"
-Category = "adhyAtmarAmAyaNa, raama, vyAsa"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "pramukha"
-Author = "Shri Veda Vyas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vishwas underscore bhide at yahoo.com"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran, ahimsasoldier"
-Indexextra = "(Hindi)"
-"Latest update" = "June 20, 2005, April 4, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अध्यात्मरामायणे ७ उत्तरकाण्डम्"
+---
+Author: Shri Veda Vyas
+Category: adhyAtmarAmAyaNa, raama, vyAsa
+File name: adhyaatmaRamuttara.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: June 20, 2005, April 4, 2015
+Location: doc_raama
+Proofread by: Vishwas Bhide, PSA Easwaran, ahimsasoldier
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: adhyAtma rAmAyaNa uttara kANDa
+Texttype: pramukha
+Transliterated by: Vishwas Bhide vishwas underscore bhide at yahoo.com
+engtitle: adhyAtmarAmAyaNa uttarakANDa
+itxtitle: adhyAtmarAmAyaNe 7 uttarakANDam
+title: अध्यात्मरामायणे ७ उत्तरकाण्डम्
 
-+++
+---
   
  अध्यात्मरामायणे उत्तरकाण्डम्   
 ॥ प्रथमः सर्गः ॥  
@@ -1493,7 +1493,7 @@ title = "अध्यात्मरामायणे ७ उत्तरका
 नागेन्द्रैर्ध्रियमाणं च दिव्यदेहै रविप्रभम् ।  
 भूदेवी जानकीं दोर्भ्यां गृहीत्वा स्नेहसंयुता ॥ ४२॥  
   
-स्वागतं तामुवाचैनामासने संन्यवेशयत् ।  
+स्वागतं तामुवाचैनामासने सन्न्यवेशयत् ।  
 सिंहासनस्थां वैदेहीं प्रविशन्तीं रसातलम् ॥ ४३॥  
   
 निरन्तरा पुष्पवृष्टिर्दिव्या सीतामवाकिरत् ।  

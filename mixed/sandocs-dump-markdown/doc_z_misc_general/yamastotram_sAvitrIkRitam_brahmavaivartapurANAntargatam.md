@@ -1,23 +1,23 @@
-+++
-"Text title" = "sAvitrIkRita yamastotram"
-"File name" = "yamastotrasAvitrikritaBVP.itx"
-itxtitle = "yamastotram (sAvitrIkRitam (brahmavaivartapurANAntargatam))"
-engtitle = "Yamastotra by Savitri"
-Category = "misc, stotra"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Singanallur Ganesan singanallur at gmail.com, PSA Easwaran"
-"Proofread by" = "Singanallur Ganesan, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "brahmavaivartapurANa prakRitikhaNDa adhyAya 28"
-"Latest update" = "January 31, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमस्तोत्रम् (सावित्रीकृइतम् (ब्रह्मवैवर्तपुराणान्तर्गतम्))"
+---
+Category: misc, stotra
+Description-comments: brahmavaivartapurANa prakRitikhaNDa adhyAya 28
+File name: yamastotrasAvitrikritaBVP.itx
+Language: Sanskrit
+Latest update: January 31, 2013
+Location: doc_z_misc_general
+Proofread by: Singanallur Ganesan, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: sAvitrIkRita yamastotram
+Texttype: stotra
+Transliterated by: Singanallur Ganesan singanallur at gmail.com, PSA Easwaran
+engtitle: Yamastotra by Savitri
+itxtitle: yamastotram (sAvitrIkRitam (brahmavaivartapurANAntargatam))
+title: यमस्तोत्रम् (सावित्रीकृइतम् (ब्रह्मवैवर्तपुराणान्तर्गतम्))
 
-+++
+---
   
  यमस्तोत्रं सावित्रीकृत ब्रह्मवैवर्तपुराणान्तर्गतम्   
   
@@ -42,7 +42,7 @@ title = "यमस्तोत्रम् (सावित्रीकृइत
 शुभकर्मविपाकं च श्रुतं नृणां मनोहरम् ।  
 कर्माशुभविपाकं च तन्मे व्याख्यातुमर्हसि ॥ ६॥  
   
-इत्युक्त्वा सा सती ब्रह्मन्भक्तिनम्रात्मकंधरा ।  
+इत्युक्त्वा सा सती ब्रह्मन्भक्तिनम्रात्मकन्धरा ।  
 तुष्टाव धर्मराजं च वेदोक्तेन स्तवेन च ॥ ७॥  
   
 सावित्र्युवाच ।  
@@ -58,7 +58,7 @@ title = "यमस्तोत्रम् (सावित्रीकृइत
 बिभर्ति दण्डं दण्ड्याय पापिनां शुद्धिहेतवे ।  
 नमामि तं दण्डधरं यः शास्ता सर्वकर्मणाम् ॥ ११॥  
   
-विश्वे यः कलयत्येव सर्वायुश्चापि संततम् ।  
+विश्वे यः कलयत्येव सर्वायुश्चापि सन्ततम् ।  
 अतीव दुर्निवार्यं च तं कालं प्रणमाम्यहम् ॥ १२॥  
   
 तपस्वी वैष्णवो धर्मो संयमी विजितेन्द्रियः ।  

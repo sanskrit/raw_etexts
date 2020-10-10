@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Ramadandakam"
-"File name" = "rAmadaNDakam.itx"
-itxtitle = "rAmadaNDakaM"
-engtitle = "rAmadaNDakaM"
-Category = "raama, daNDaka"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामदण्डकं"
+---
+Category: raama, daNDaka
+File name: rAmadaNDakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_raama
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Shri Ramadandakam
+Transliterated by: PSA Easwaran
+engtitle: rAmadaNDakaM
+itxtitle: rAmadaNDakaM
+title: रामदण्डकं
 
-+++
+---
   
  श्रीरामदण्डकम्   
 श्रीरामध्यानम् ।  

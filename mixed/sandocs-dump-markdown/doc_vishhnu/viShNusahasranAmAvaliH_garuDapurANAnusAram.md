@@ -1,21 +1,21 @@
-+++
-"Text title" = "Vishnu Sahasranamavali from Garudapurana"
-"File name" = "viShNusahasranAmAvalIgaruDapurANa.itx"
-itxtitle = "viShNusahasranAmAvaliH (garuDapurANAnusAram)"
-engtitle = "VishnusahasranAmAvalI from Garudapurana"
-Category = "sahasranAmAvalI, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "See corresponding sahasranAmastotra"
-"Latest update" = "November 27, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुसहस्रनामावलिः (गरुडपुराणानुसारम्)"
+---
+Category: sahasranAmAvalI, vishhnu, vishnu
+Description-comments: See corresponding sahasranAmastotra
+File name: viShNusahasranAmAvalIgaruDapurANa.itx
+Language: Sanskrit
+Latest update: November 27, 2016
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Vishnu Sahasranamavali from Garudapurana
+engtitle: VishnusahasranAmAvalI from Garudapurana
+itxtitle: viShNusahasranAmAvaliH (garuDapurANAnusAram)
+title: विष्णुसहस्रनामावलिः (गरुडपुराणानुसारम्)
 
-+++
+---
   
  श्रीविष्णुसहस्रनामावलिः गरुडपुराणानुसारम्   
   
@@ -530,7 +530,7 @@ title = "विष्णुसहस्रनामावलिः (गरुड
 चक्रपाणये नमः । (४५०)  
   
 कुण्डलिने नमः ।  
-श्रीवत्सांकाय नमः ।   
+श्रीवत्साङ्काय नमः ।   
 प्रकृतये नमः ।  
 कौस्तुभग्रीवाय नमः ।  
 पीताम्बरधराय नमः ।  
@@ -573,7 +573,7 @@ title = "विष्णुसहस्रनामावलिः (गरुड
 चञ्चलाय नमः ।  
 चलाचलविवर्जिताय नमः । (४९०)  
   
-अहंकाराय नमः ।  
+अहङ्काराय नमः ।  
 मतये नमः ।  
 चित्ताय नमः ।  
 गगनाय नमः ।  
@@ -755,7 +755,7 @@ title = "विष्णुसहस्रनामावलिः (गरुड
 मनसः अग्राह्यय नमः ।  
 बुद्ध्या ग्राह्याय नमः ।  
 हरये नमः ।   
-अहंबुद्ध्या ग्राह्याय नमः ।  
+अहम्बुद्ध्या ग्राह्याय नमः ।  
 चेतसा ग्राह्याय नमः ।  
 शङ्खपाणये नमः ।  
 अव्ययाय नमः । (६६०)  
@@ -876,7 +876,7 @@ title = "विष्णुसहस्रनामावलिः (गरुड
 तीर्थिने नमः ।  
 तीर्थविदे नमः ।   
 तीर्थादिभूताय नमः ।  
-सांख्याय नमः ।  
+साङ्ख्याय नमः ।  
 निरुक्ताय नमः ।  
 अधिदैवताय नमः ।  
 प्रणवाय नमः । (७७०)  

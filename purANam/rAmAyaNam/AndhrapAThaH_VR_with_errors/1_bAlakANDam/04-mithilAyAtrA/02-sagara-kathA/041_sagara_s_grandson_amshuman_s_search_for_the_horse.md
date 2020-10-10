@@ -3,7 +3,6 @@ title: 041 सगर-यज्ञ-समाप्तिः
 title_english: 041 sagara s grandson amshuman s search for the horse
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-041-Sagara_Yagna_Parisamapthihi.mp3"></div>
 
 पुत्रांश्चिरगतान् ज्ञात्वा सगरो रघुनन्दन।  

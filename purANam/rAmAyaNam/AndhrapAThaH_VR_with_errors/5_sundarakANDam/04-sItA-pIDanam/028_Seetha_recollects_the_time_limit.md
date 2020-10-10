@@ -3,7 +3,6 @@ title: 028 Seetha recollects the time limit
 title_english: 028 Seetha recollects the time limit
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-028-Seetha_recollects_the_time_limit.mp3"></div>
 
 सा राक्षसेन्द्रस्य वचो निशम्य ।  
@@ -57,7 +56,7 @@ title_english: 028 Seetha recollects the time limit
 मोघो हि धर्मश्चरितो मयायं ।  
 तथैकपत्नीत्वमिदं निरर्थम् ।  
 या त्वां न पश्यामि कृशा विवर्णा ।  
-हीना त्वया संगमने निराशा ॥ ५-२८-१३  
+हीना त्वया सङ्गमने निराशा ॥ ५-२८-१३  
 पितुर्निदेशं नियमेन कृत्वा वनान्निवृत्तश्चरितव्रतश्च ।  
 स्त्रीभिस्तु मन्ये विपुलेक्षणाभिस्त्वं रंस्यसे वीतभयः कृतार्थः ॥ ५-२८-१४  
 अहं तु राम त्वयि जातकामा चिरं विनाशाय निबद्धभावा ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "dattastavarAjaH"
-"File name" = "dattastavarAjaH.itx"
-itxtitle = "dattastavarAjaH"
-engtitle = "dattastavarAjaH"
-Category = "deities_misc, dattatreya, stavarAja"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Dattatreya Stuti Manjari, Ed. S.V. Radhakrishnashastri"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "December 8, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तस्तवराजः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: deities_misc, dattatreya, stavarAja
+Description/comments: Dattatreya Stuti Manjari, Ed. S.V. Radhakrishnashastri
+File name: dattastavarAjaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 8, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattastavarAjaH
+engtitle: dattastavarAjaH
+itxtitle: dattastavarAjaH
+title: दत्तस्तवराजः
 
-+++
+---
   
  श्रीदत्तस्तवराजः   
 श्रीगणेशाय नमः ।  
@@ -187,7 +187,7 @@ title = "दत्तस्तवराजः"
 गुरोः परतरं नास्ति सत्यं सत्यं न संशयः ।  
 गुरोः पादोदकं पीत्वा गुरुनाम सदा जपेत् ॥ ५५॥  
   
-तेऽपि संन्यासैनो ज्ञेयाः इतरे वेषधारिणः ।  
+तेऽपि सन्न्यासैनो ज्ञेयाः इतरे वेषधारिणः ।  
 गङ्गाद्याः सरितः सर्वे गुरोः पादाम्बुजे सदा ॥ ५६॥  
   
 गुरुस्तवं न जानाति गुरुनाममुखेन हि ।  

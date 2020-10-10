@@ -1,24 +1,24 @@
-+++
-"Text title" = "bAlAtripurasundarI aShTottarashatanAmastotra"
-"File name" = "bAlA108str.itx"
-itxtitle = "bAlAtripurasundarI aShTottarashatanAmastotram 1"
-engtitle = "bAlAtripurasundarI 108 names"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Satish Arigela"
-"Proofread by" = "Satish Arigela, PSA Easwaran psaeaswaran at gmail"
-Description-comments = "bAlAsaparyA"
-Indexextra = "(Scan)"
-"Latest update" = "June 13, 2015, August 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालात्रिपुरसुन्दरी अष्टोत्तरशतनामस्तोत्रम् १"
+---
+Category: aShTottarashatanAma, devii, dashamahAvidyA, devI
+Description-comments: bAlAsaparyA
+File name: bAlA108str.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 13, 2015, August 21, 2018
+Location: doc_devii
+Proofread by: Satish Arigela, PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAtripurasundarI aShTottarashatanAmastotra
+Transliterated by: Satish Arigela
+engtitle: bAlAtripurasundarI 108 names
+itxtitle: bAlAtripurasundarI aShTottarashatanAmastotram 1
+title: बालात्रिपुरसुन्दरी अष्टोत्तरशतनामस्तोत्रम् १
 
-+++
+---
   
  श्रीबालाष्टोत्तरशतनामस्तोत्रम् १   
 अस्य श्रीबालात्रिपुरसुन्दर्यष्टोत्तरशतनामस्तोत्रमहामन्त्रस्य  
@@ -51,7 +51,7 @@ title = "बालात्रिपुरसुन्दरी अष्टो�
 ह्रीङ्कारी स्कन्दजननी परा पञ्चदशाक्षरी ।  
 त्रिलोकी मोहनाधीशा सर्वेशी सर्वरूपिणी ॥ २॥  
   
-सर्वसंक्षोभिणी पूर्णा नवमुद्रेश्वरी शिवा ।  
+सर्वसङ्क्षोभिणी पूर्णा नवमुद्रेश्वरी शिवा ।  
 अनङ्गकुसुमा ख्याता अनङ्गा भुवनेश्वरी ॥ ३॥  
   
 जप्या स्तव्या श्रुतिर्निता नित्यक्लिन्नाऽमृतोद्भवा ।  
@@ -76,7 +76,7 @@ title = "बालात्रिपुरसुन्दरी अष्टो�
 योगेश्वरी मुनिध्येया परब्रह्मस्वरूपिणी ॥ १०॥  
   
 चतुर्भुजा चन्द्रचूडा पुराणागमरूपिनी ।  
-ऐंकारादिर्महाविद्या पञ्चप्रणवरूपिणी ॥ ११॥  
+ऐङ्कारादिर्महाविद्या पञ्चप्रणवरूपिणी ॥ ११॥  
   
 भूतेश्वरी भूतमयी पञ्चाशद्वर्णरूपिणी ।  
 षोढान्यास महाभूषा कामाक्षी दशमातृका ॥ १२॥  

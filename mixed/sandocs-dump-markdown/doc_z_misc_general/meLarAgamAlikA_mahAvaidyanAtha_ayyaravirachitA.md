@@ -1,23 +1,23 @@
-+++
-"Text title" = "Mela Ragamalika by Maha Vaidyanatha Shiva Iyer"
-"File name" = "meLarAgamAlikAmahAvaidyanAthaIyer.itx"
-itxtitle = "meLarAgamAlikA (mahAvaidyanAtha ayyaravirachitA)"
-engtitle = "Mela Ragamalika by Maha Vaidyanatha Shiva Iyer"
-Category = "misc, kRitI"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "svAtitirunAL"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Collection"
-"Latest update" = "August 23, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मेळरागमालिका (महावैद्यनाथ अय्यरविरचिता)"
+---
+Author: svAtitirunAL
+Category: misc, kRitI
+Description-comments: Collection
+File name: meLarAgamAlikAmahAvaidyanAthaIyer.itx
+Language: Sanskrit
+Latest update: August 23, 2019
+Location: doc_z_misc_general
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Mela Ragamalika by Maha Vaidyanatha Shiva Iyer
+Transliterated by: Pallasena Narayanaswami ppnswami at gmail.com
+engtitle: Mela Ragamalika by Maha Vaidyanatha Shiva Iyer
+itxtitle: meLarAgamAlikA (mahAvaidyanAtha ayyaravirachitA)
+title: मेळरागमालिका (महावैद्यनाथ अय्यरविरचिता)
 
-+++
+---
   
  श्रीमहावैद्यनाथशिवविरचिता मेळरागमालिका   
   
@@ -28,7 +28,7 @@ Later, the shivan brothers learnt the subtle aspects of music from Anayya, and f
 गौरीनायक कनकसभा नायक  
 हालाहलधर गङ्गाधरहर ।  
 स्मरहरपुरहर शिवकामेश्वर  
-चिदंबरेश्वर नटराज मामव ॥   
+चिदम्बरेश्वर नटराज मामव ॥   
 Later, he recast this pallavi into a tillAnA, ᳚ThIM tara tiranA᳚ in KalyANi, in the same Simhanandana tALaM. This tillAnA is also sung in rAga kAnaDa. VaiyanAtha Iyer was also a gifted performer of HarikathA kAlakShEpaM. Throughout his life, shivan enjoyed the healthy patronage of the rulers of RAmanAthapuraM.  
   
 The kAmbhoji pada varNaM, ᳚Pa~NkajAkShi pai᳚, and the nAgasvrAvali kRRiti ᳚shri sha~Nkara GuruvaraM᳚ are his well-known compositions, among various other kRRiti-s in Tamil and Sanskrit. In addition, many of the compositions which are attributed to his elder brother RAmasvAmi, undoubtedly enjoy co-authorship with VaidyanAtha shivan, and contain the rAgamudra ᳚guha dAsa᳚.  Here is a partial list of such compositions by shivan brothers:   

@@ -1,26 +1,26 @@
-+++
-"Text title" = "ramaNachatvAriMshat Forty Verses in praise of Maharshi Ramana"
-"File name" = "ramaNachatvAriMshatGM.itx"
-itxtitle = "ramaNachatvAriMshat (gaNapatimunivirachitam)"
-engtitle = "Ramanachatvarimshat - Forty Verses in praise of Maharshi Ramana"
-Category = "deities_misc, ramana, stotra, gaNapati-muni, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ramana"
-Texttype = "stotra"
-Author = "Vasishtha Ganapati Muni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "(Forty Verses in praise of Ramana Maharshi)"
-Indexextra = "(Collected Works)"
-Acknowledge-Permission = "Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org"
-"Latest update" = "October 1, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रमणचत्वारिंशत् (गणपतिमुनिविरचितम्)"
+---
+Acknowledge-Permission: Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org
+Author: Vasishtha Ganapati Muni
+Category: deities_misc, ramana, stotra, gaNapati-muni, gurudev
+Description-comments: (Forty Verses in praise of Ramana Maharshi)
+File name: ramaNachatvAriMshatGM.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: October 1, 2014
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ramana
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: ramaNachatvAriMshat Forty Verses in praise of Maharshi Ramana
+Texttype: stotra
+engtitle: Ramanachatvarimshat - Forty Verses in praise of Maharshi Ramana
+itxtitle: ramaNachatvAriMshat (gaNapatimunivirachitam)
+title: रमणचत्वारिंशत् (गणपतिमुनिविरचितम्)
 
-+++
+---
   
  श्रीरमणचत्वारिंशत्   
   
@@ -49,7 +49,7 @@ title = "रमणचत्वारिंशत् (गणपतिमुनि
 बहुमानवशादयता सुखितामवमानततेरविदूनवता ॥ ७॥  
   
 यतिनामधिपेन कुशाग्रलसन्मतिना धृतिना शितचित्तभुवा ।  
-लहरींप्रमदस्य सदावहता निहतान्तरशात्रवसंहतिना ॥ ८॥  
+लहरीम्प्रमदस्य सदावहता निहतान्तरशात्रवसंहतिना ॥ ८॥  
   
 भगवत्पदमन्यजनासुलभं स्वगुणैरधिगत्य परं जयता ।  
 ममतारहितेन हितेन सतां निहितेन गणप्रभुणा हृदये ॥ ९॥  

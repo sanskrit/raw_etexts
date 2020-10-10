@@ -1,21 +1,21 @@
-+++
-"Text title" = "Mallikarjuna Suprabhatam"
-"File name" = "mallikArjunasuprabhAtam.itx"
-itxtitle = "mallikArjunasuprabhAtam"
-engtitle = "mallikArjunasuprabhAtam"
-Category = "shiva, suprabhAta"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Telugu)"
-"Latest update" = "July 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मल्लिकार्जुनसुप्रभातम्"
+---
+Category: shiva, suprabhAta
+File name: mallikArjunasuprabhAtam.itx
+Indexextra: (Telugu)
+Language: Sanskrit
+Latest update: July 7, 2019
+Location: doc_shiva
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mallikarjuna Suprabhatam
+engtitle: mallikArjunasuprabhAtam
+itxtitle: mallikArjunasuprabhAtam
+title: मल्लिकार्जुनसुप्रभातम्
 
-+++
+---
   
  श्रीमल्लिकार्जुनसुप्रभातं   
 प्रातस्स्मरामि गणनाथमनाथबन्धुं  

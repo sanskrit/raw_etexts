@@ -1,26 +1,26 @@
-+++
-"Text title" = "AnandalaharI"
-"File name" = "aanandalaharImeaning.itx"
-itxtitle = "AnandalaharI (sArthA)"
-engtitle = "AnandalaharI with meanings"
-Category = "laharI, devii, dashamahAvidyA, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "S.V.Ganesan singanallur at gmail.com and P. P. Narayanaswami"
-"Proofread by" = "S.V.Ganesan singanallur at gmail.com and P. P. Narayanaswami"
-"Translated by" = "Sri. N. Anantaraman of Veda Rakshan Nidhi http://www.kanchiforum.org/forum/viewtopic.php?t=1819"
-Description-comments = "17th volume of Complete works of Shankaracharya"
-Indexextra = "(meaning - Sri. N. Anantaraman of Veda Rakshan Nidhi - 1 , 2)"
-"Latest update" = "July 13, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आनन्दलहरी (सार्था)"
+---
+Author: Shankaracharya
+Category: laharI, devii, dashamahAvidyA, shankarAchArya, devI
+Description-comments: 17th volume of Complete works of Shankaracharya
+File name: aanandalaharImeaning.itx
+Indexextra: (meaning - Sri. N. Anantaraman of Veda Rakshan Nidhi - 1 , 2)
+Language: Sanskrit
+Latest update: July 13, 2013
+Location: doc_devii
+Proofread by: S.V.Ganesan singanallur at gmail.com and P. P. Narayanaswami
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: AnandalaharI
+Translated by: Sri. N. Anantaraman of Veda Rakshan Nidhi http://www.kanchiforum.org/forum/viewtopic.php?t=1819
+Transliterated by: S.V.Ganesan singanallur at gmail.com and P. P. Narayanaswami
+engtitle: AnandalaharI with meanings
+itxtitle: AnandalaharI (sArthA)
+title: आनन्दलहरी (सार्था)
 
-+++
+---
   
  आनन्दलहरी सार्थ   
   
@@ -52,7 +52,7 @@ incomparable attributes of the Goddess.
 घृतक्षीरद्राक्षामधुमधुरिमा कैरपि पदैः  
 विशिष्यानाख्येयो भवति रसनामात्र विषयः ।  
 तथा ते सौन्दर्यं परमशिवदृङ्मात्रविषयः  
-कथंकारं ब्रूमः सकलनिगमागोचरगुणे ॥ २॥  
+कथङ्कारं ब्रूमः सकलनिगमागोचरगुणे ॥ २॥  
   
   
 The sweetness of ghee, milk, grapes and honey cannot be described  
@@ -177,7 +177,7 @@ leaves. The word also means one who frees from indebtedness अप +
 ऋण. For one who is in debt financially and otherwise, the Goddess  
 bestows freedom from debts and financial worry.    
   
-हिमाद्रेः संभूता सुललितकरैः पल्लवयुता  
+हिमाद्रेः सम्भूता सुललितकरैः पल्लवयुता  
 सुपुष्पा मुक्ताभिर्भ्रमरकलिता चालकभरैः ।  
 कृतस्थाणुस्थाना कुचफलनता सूक्तिसरसा  
 रुजां हन्त्री गन्त्री विलसति चिदानन्दलतिका ॥ ६॥  
@@ -233,7 +233,7 @@ form of the Goddess is far superior to the apparently attractive leafy
 creepers which many seek.    
   
 विधात्री धर्माणां त्वमसि सकलाम्नायजननी  
-त्वमर्थानां मूलं धनदनमनीयांघ्रिकमले ।  
+त्वमर्थानां मूलं धनदनमनीयाङ्घ्रिकमले ।  
 त्वमादिः कामानां जननि कृतकन्दर्पविजये  
 सतां मुक्तेर्बीजं त्वमसि परमब्रह्ममहिषी ॥ ८॥  
   
@@ -336,7 +336,7 @@ fallen at His feet. Single minded and steadfast devotion and immense
 faith are required on the part of the devotee.    
   
 अयः स्पर्शे लग्नं सपदि लभते हेमपदवीं  
-यथा रथ्यापाथः शुचि भवति गंगौघमिलितम् ।  
+यथा रथ्यापाथः शुचि भवति गङ्गौघमिलितम् ।  
 तथा तत्तत्पापैरतिमलिनमन्तर्मम यदि  
 त्वयि प्रेम्णासक्तं कथमिव न जायेत विमलम् ॥ १२॥  
   
@@ -469,7 +469,7 @@ the Soubhagya of the Divine Mother, who is the consort of Shiva.
 अशेषब्रह्माण्डप्रलयविधिनैसर्गिकमतिः  
 श्मशानेष्वासीनः कृतभसितलेपः पशुपतिः ।  
 दधौ कण्ठे हालाहलमखिलभूगोलकृपया  
-भवत्याः संगत्याः फलमिति च कल्याणि कलये ॥ १७॥  
+भवत्याः सङ्गत्याः फलमिति च कल्याणि कलये ॥ १७॥  
   
   
 Shiva as destroyer or Samharamurti continues the annihilation of  
@@ -490,7 +490,7 @@ travelling downwards and killing him due to which he survived and became
 `nIlakantha' (blue throated).. So surmises the poet.    
   
 त्वदीयं सौन्दर्यं निरतिशयमालोक्य परया  
-भियैवासीद्गंगा जलमयतनुः शैलतनये ।  
+भियैवासीद्गङ्गा जलमयतनुः शैलतनये ।  
 तदेतस्यास्तस्माद्वदनकमलं वीक्ष्य कृपया  
 प्रतिष्ठामातन्वन्निजशिरसिवासेन गिरिशः ॥ १८॥  
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Batukabhairava Ashtottarashatanama Stotram 2"
-"File name" = "baTukabhairavAShTottarashatanAmastotram2.itx"
-itxtitle = "baTukabhairavAShTottarashatanAmastotram 2 (kAlasaNkarShaNatantrAntargatam)"
-engtitle = "Batukabhairavashtottarashatanamastotram 2"
-Category = "aShTottarashatanAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, Psa Easwaran psaeaswaran at gmail.com"
-Source = "kAlasaNkarShaNatantra"
-"Latest update" = "October 15, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बटुकभैरवाष्टोत्तरशतनामस्तोत्रम् २ (कालसण्कर्षणतन्त्रान्तर्गतम्)"
+---
+Category: aShTottarashatanAma, shiva
+File name: baTukabhairavAShTottarashatanAmastotram2.itx
+Language: Sanskrit
+Latest update: October 15, 2016
+Location: doc_shiva
+Proofread by: Gopal Upadhyay, Psa Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: kAlasaNkarShaNatantra
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Batukabhairava Ashtottarashatanama Stotram 2
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: Batukabhairavashtottarashatanamastotram 2
+itxtitle: baTukabhairavAShTottarashatanAmastotram 2 (kAlasaNkarShaNatantrAntargatam)
+title: बटुकभैरवाष्टोत्तरशतनामस्तोत्रम् २ (कालसण्कर्षणतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीबटुकभैरवाष्टोत्तरशतनामस्तोत्रम् २   
 ॥ श्रीगणेशाय नमः ॥  
@@ -54,7 +54,7 @@ title = "बटुकभैरवाष्टोत्तरशतनामस�
 नीलजीमूतसङ्काशो जटिलो रक्तलोचनः ।   
 दंष्ट्राकरालवदनः सर्पयज्ञोपवीतवान् ॥  
   
-दंष्ट्रायुधालंकृतश्च कपालस्रग्विभूषितः ।   
+दंष्ट्रायुधालङ्कृतश्च कपालस्रग्विभूषितः ।   
 हस्तन्यस्तकरोटीको भस्मभूषितविग्रहः ॥   
 नागराजकटीसूत्रो बालमूर्ति दिगम्बरः ।   
 मञ्जु सिञ्जानमञ्जरी पादकम्पितभूतलः ॥   

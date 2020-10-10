@@ -1,22 +1,22 @@
-+++
-"Text title" = "Mumukshu Panchakam"
-"File name" = "mumukShupanchakam.itx"
-itxtitle = "mumukShupanchakam"
-engtitle = "mumukShupanchakam"
-Category = "misc, vedanta, panchaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "April 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "मुमुक्षुपञ्चकम्"
+---
+Category: misc, vedanta, panchaka
+File name: mumukShupanchakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 18, 2020
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Mumukshu Panchakam
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: mumukShupanchakam
+itxtitle: mumukShupanchakam
+title: मुमुक्षुपञ्चकम्
 
-+++
+---
   
  मुमुक्षु पञ्चकम्   
 विहायैनः कृत्वा क्रतुविधुरकर्मादिविहितं  

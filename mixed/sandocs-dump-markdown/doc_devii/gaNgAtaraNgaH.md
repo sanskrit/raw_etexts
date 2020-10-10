@@ -1,24 +1,24 @@
-+++
-"Text title" = "Gangatarangah"
-"File name" = "gangAtarangaH.itx"
-itxtitle = "gaNgAtaraNgaH"
-engtitle = "gangAtarangaH"
-Category = "devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "mayUrapaNDitAnujasUnabAlakavi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Proofread by" = "Shree Devi Kumar shreeshrii at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "November 3, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गातरण्गः"
+---
+Author: mayUrapaNDitAnujasUnabAlakavi
+Category: devii, nadI, devI
+File name: gangAtarangaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 3, 2019
+Location: doc_devii
+Proofread by: Shree Devi Kumar shreeshrii at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangatarangah
+Transliterated by: Shree Devi Kumar shreeshrii at gmail.com
+engtitle: gangAtarangaH
+itxtitle: gaNgAtaraNgaH
+title: गण्गातरण्गः
 
-+++
+---
   
  गङ्गातरङ्गः   
 ॥ श्रीगणेशाय नमः ॥  
@@ -35,7 +35,7 @@ title = "गण्गातरण्गः"
 दयनीयोऽयं गङ्गे सर्वैधर्मादिभिः परित्यक्तः ।  
 यामि शरणं कमधुना त्वया विना व्रात्यराजोऽहम् ॥ ४॥  
   
-पूर्वं समुद्धृतः कति संप्रत्युद्धर्तुमनलसासि त्वम् ।  
+पूर्वं समुद्धृतः कति सम्प्रत्युद्धर्तुमनलसासि त्वम् ।  
 अग्रे समुद्धरिष्यसि तन्मध्ये मादृशो नैव ॥ ५॥  
   
 पूर्वं न चैव मादृङ् नोचेदानीं पुरः कुतो भविता ।  

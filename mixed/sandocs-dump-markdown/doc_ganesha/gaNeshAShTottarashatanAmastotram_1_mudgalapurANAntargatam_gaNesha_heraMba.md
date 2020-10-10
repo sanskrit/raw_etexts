@@ -1,25 +1,25 @@
-+++
-"Text title" = "gaNeshAShTottarashatanAmastotram 1"
-"File name" = "gaNeshAShTottarashatanAmastotram.itx"
-itxtitle = "gaNeshAShTottarashatanAmastotram 1 (mudgalapurANAntargatam gaNesha heraMba)"
-engtitle = "Ganesha Ashtottarashatanama Stotram 1"
-Category = "aShTottarashatanAma, ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "Karthik Chandan.P, Amith K Nagaraj, PSA Easwaran"
-Description-comments = "Mudgalapurana khaNDa 5, adhyAya 26, shlokAH 33-55"
-Indexextra = "(Scan"
-"Latest update" = "June 22, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशाष्टोत्तरशतनामस्तोत्रम् १ (मुद्गलपुराणान्तर्गतम् गणेश हेरंब)"
+---
+Author: Traditional
+Category: aShTottarashatanAma, ganesha, stotra
+Description-comments: Mudgalapurana khaNDa 5, adhyAya 26, shlokAH 33-55
+File name: gaNeshAShTottarashatanAmastotram.itx
+Indexextra: (Scan
+Language: Sanskrit
+Latest update: June 22, 2020
+Location: doc_ganesha
+Proofread by: Karthik Chandan.P, Amith K Nagaraj, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshAShTottarashatanAmastotram 1
+Texttype: stotra
+Transliterated by: PSA Easwaran
+engtitle: Ganesha Ashtottarashatanama Stotram 1
+itxtitle: gaNeshAShTottarashatanAmastotram 1 (mudgalapurANAntargatam gaNesha heraMba)
+title: गणेशाष्टोत्तरशतनामस्तोत्रम् १ (मुद्गलपुराणान्तर्गतम् गणेश हेरंब)
 
-+++
+---
   
  श्रीगणेशाष्टोत्तरशतनामस्तोत्रम्   
 श्रीगणेशाय नमः ।  
@@ -34,7 +34,7 @@ title = "गणेशाष्टोत्तरशतनामस्तोत�
 गणेश हेरम्ब गजाननेति महोदर स्वानुभवप्रकाशिन् ।  
 वरिष्ठ सिद्धिप्रिय बुद्धिनाथ वदन्तमेवं त्यजत प्रभीताः ॥ ३५॥  
   
-अनेकविघ्नान्तक वक्रतुण्ड स्वसंज्ञवासिंश्च चतुर्भुजेति ।  
+अनेकविघ्नान्तक वक्रतुण्ड स्वसञ्ज्ञवासिंश्च चतुर्भुजेति ।  
 कवीश देवान्तकनाशकारिन् वदन्तमेवं त्यजत प्रभीताः ॥ ३६॥  
   
 महेशसूनो गजदैत्यशत्रो वरेण्यसूनो विकट त्रिनेत्र ।  

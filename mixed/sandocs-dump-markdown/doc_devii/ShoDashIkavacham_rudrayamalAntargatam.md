@@ -1,24 +1,24 @@
-+++
-"Text title" = "ShoDashIkavacham"
-"File name" = "ShoDashIkavacham.itx"
-itxtitle = "ShoDashIkavacham (rudrayamalAntargatam)"
-engtitle = "ShoDashIkavacham"
-Category = "devii, kavacha, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com"
-Source = "Rudrayamala Tantra"
-Indexextra = "(Manuscript, Info)"
-"Latest update" = "February 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षोडशीकवचम् (रुद्रयमलान्तर्गतम्)"
+---
+Category: devii, kavacha, dashamahAvidyA, devI
+File name: ShoDashIkavacham.itx
+Indexextra: (Manuscript, Info)
+Language: Sanskrit
+Latest update: February 15, 2020
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamala Tantra
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ShoDashIkavacham
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: ShoDashIkavacham
+itxtitle: ShoDashIkavacham (rudrayamalAntargatam)
+title: षोडशीकवचम् (रुद्रयमलान्तर्गतम्)
 
-+++
+---
   
  श्रीषोडशीकवचम्   
 ॐ श्रीगणेशाय नमः ।  

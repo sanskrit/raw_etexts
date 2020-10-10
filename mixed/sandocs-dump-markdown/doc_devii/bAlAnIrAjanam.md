@@ -1,23 +1,23 @@
-+++
-"Text title" = "bAlAnIrAjanam"
-"File name" = "bAlAnIrAjanam.itx"
-itxtitle = "bAlAnIrAjanam"
-engtitle = "bAlAnIrAjanam"
-Category = "devii, dashamahAvidyA, devI, AratI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालानीराजनम्"
+---
+Category: devii, dashamahAvidyA, devI, AratI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAnIrAjanam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAnIrAjanam
+engtitle: bAlAnIrAjanam
+itxtitle: bAlAnIrAjanam
+title: बालानीराजनम्
 
-+++
+---
   
  श्रीबालानीराजनम्   
 जय बाले त्रिपुरे जय बाले जय त्रिपुरे ।  

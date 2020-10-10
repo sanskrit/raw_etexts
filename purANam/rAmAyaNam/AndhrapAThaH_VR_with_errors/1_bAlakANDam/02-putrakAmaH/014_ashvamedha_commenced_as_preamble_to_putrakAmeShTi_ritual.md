@@ -3,7 +3,6 @@ title: 014 अश्वमेधयजनम्
 title_english: 014 ashvamedha commenced as preamble to putrakAmeShTi ritual
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-014-Ashva_Medhayajanam.mp3"></div>
 
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "sUrya aShTottarashatanAma stotraM"
-"File name" = "sUrya108nAmastotra.itx"
-itxtitle = "sUryAShTottarashatanAmastotram 1 (atharvaNarahasyAntargatam aruNAya sharaNyAya)"
-engtitle = "sUrya aShTottarashatanAma stotram"
-Category = "aShTottarashatanAma, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manda Krishna Srikanth mandaksk at gmail.com"
-"Proofread by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-"Latest update" = "November 19, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्याष्टोत्तरशतनामस्तोत्रम् १ (अथर्वणरहस्यान्तर्गतम् अरुणाय शरण्याय)"
+---
+Category: aShTottarashatanAma, navagraha, stotra
+File name: sUrya108nAmastotra.itx
+Language: Sanskrit
+Latest update: November 19, 2012
+Location: doc_z_misc_navagraha
+Proofread by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUrya aShTottarashatanAma stotraM
+Texttype: stotra
+Transliterated by: Manda Krishna Srikanth mandaksk at gmail.com
+engtitle: sUrya aShTottarashatanAma stotram
+itxtitle: sUryAShTottarashatanAmastotram 1 (atharvaNarahasyAntargatam aruNAya sharaNyAya)
+title: सूर्याष्टोत्तरशतनामस्तोत्रम् १ (अथर्वणरहस्यान्तर्गतम् अरुणाय शरण्याय)
 
-+++
+---
   
  श्रीसूर्याष्टोत्तरशतनामस्तोत्रम्   
   

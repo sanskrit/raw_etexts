@@ -1,24 +1,24 @@
-+++
-"Text title" = "jagannAthadaNDakam"
-"File name" = "jagannAthadaNDakam.itx"
-itxtitle = "jagannAthadaNDakam (sUtasaMhitAyAM)"
-engtitle = "jagannAthadaNDakam"
-Category = "vishhnu, daNDaka, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जगन्नाथदण्डकम् (सूतसंहितायां)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, daNDaka, krishna
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: jagannAthadaNDakam.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: jagannAthadaNDakam
+engtitle: jagannAthadaNDakam
+itxtitle: jagannAthadaNDakam (sUtasaMhitAyAM)
+title: जगन्नाथदण्डकम् (सूतसंहितायां)
 
-+++
+---
   
  श्रीजगन्नाथदण्डकम्   
   

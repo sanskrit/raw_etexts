@@ -1,22 +1,22 @@
-+++
-"Text title" = "RiShabhagItA bhAgavatamahApurANAntargatam"
-"File name" = "RiShabhagItAbhAgavatam.itx"
-itxtitle = "RiShabhagItA (bhAgavatamahApurANAntargatA)"
-engtitle = "Rishabha Gita from Bhagavata Purana"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Bhagavatam Skandha 5 adhyAya 5 and 6"
-Indexextra = "(Bhagavatam Skandha 5, chapters 5-6)"
-"Latest update" = "June 29, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ऋइषभगीता (भागवतमहापुराणान्तर्गता)"
+---
+Category: gItA, giitaa
+Description-comments: Bhagavatam Skandha 5 adhyAya 5 and 6
+File name: RiShabhagItAbhAgavatam.itx
+Indexextra: (Bhagavatam Skandha 5, chapters 5-6)
+Language: Sanskrit
+Latest update: June 29, 2013
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: RiShabhagItA bhAgavatamahApurANAntargatam
+engtitle: Rishabha Gita from Bhagavata Purana
+itxtitle: RiShabhagItA (bhAgavatamahApurANAntargatA)
+title: ऋइषभगीता (भागवतमहापुराणान्तर्गता)
 
-+++
+---
   
  ऋषभगीता भागवतमहापुराणान्तर्गतम्   
   

@@ -1,21 +1,21 @@
-+++
-"Text title" = "vAdirAjayati-virachita-navagrahastotram"
-"File name" = "navagrahastotravAdirAja.itx"
-itxtitle = "navagrahastotram (vAdirAjayativirachitam)"
-engtitle = "ShrI Navagrahastotram by Shri Vadirajayati"
-Category = "navagraha, stotra, vAdirAja"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Vadirajayati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "August 5, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रहस्तोत्रम् (वादिराजयतिविरचितम्)"
+---
+Author: Vadirajayati
+Category: navagraha, stotra, vAdirAja
+File name: navagrahastotravAdirAja.itx
+Language: Sanskrit
+Latest update: August 5, 2012
+Location: doc_z_misc_navagraha
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: vAdirAjayati-virachita-navagrahastotram
+Texttype: stotra
+engtitle: ShrI Navagrahastotram by Shri Vadirajayati
+itxtitle: navagrahastotram (vAdirAjayativirachitam)
+title: नवग्रहस्तोत्रम् (वादिराजयतिविरचितम्)
 
-+++
+---
   
  नवग्रहस्तोत्रं वादिराजयतिविरचित   
   

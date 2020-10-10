@@ -1,23 +1,23 @@
-+++
-"Text title" = "annapUrNAstotram 3"
-"File name" = "annapUrNAstotram.itx"
-itxtitle = "annapUrNAstotram 3 (shaNkarAchAryavirachitam mandAra kalpa)"
-engtitle = "annapUrNAstotram 3"
-Category = "devii, devI, pArvatI, annapUrNa, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अन्नपूर्णास्तोत्रम् ३ (शण्कराचार्यविरचितम् मन्दार कल्प)"
+---
+Author: Adi Shankaracharya
+Category: devii, devI, pArvatI, annapUrNa, shankarAchArya
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: annapUrNAstotram.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: annapUrNAstotram 3
+engtitle: annapUrNAstotram 3
+itxtitle: annapUrNAstotram 3 (shaNkarAchAryavirachitam mandAra kalpa)
+title: अन्नपूर्णास्तोत्रम् ३ (शण्कराचार्यविरचितम् मन्दार कल्प)
 
-+++
+---
   
  अन्नपूर्णास्तोत्रम् ३   
 मन्दार-कल्प-हरिचन्दन-पारिजात-  

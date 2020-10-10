@@ -1,25 +1,25 @@
-+++
-"Text title" = "kAlIshatanAmastotram bRRihannIlatantrAntargatam"
-"File name" = "kAlIshatanAmastotrambRRihannIla.itx"
-itxtitle = "kAlIshatanAmastotram (bRihannIlatantrArgatam)"
-engtitle = "Kalishatanamastotra from Brihannilatantra"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "muktabodha.org"
-"Proofread by" = "DPD"
-Description-comments = "Brihannilatantra"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "March 8, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालीशतनामस्तोत्रम् (बृइहन्नीलतन्त्रार्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI
+Description-comments: Brihannilatantra
+File name: kAlIshatanAmastotrambRRihannIla.itx
+Language: Sanskrit
+Latest update: March 8, 2013
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAlIshatanAmastotram bRRihannIlatantrAntargatam
+Texttype: stotra
+Transliterated by: muktabodha.org
+engtitle: Kalishatanamastotra from Brihannilatantra
+itxtitle: kAlIshatanAmastotram (bRihannIlatantrArgatam)
+title: कालीशतनामस्तोत्रम् (बृइहन्नीलतन्त्रार्गतम्)
 
-+++
+---
   
  कालीशतनामस्तोत्रम् बृहन्नीलतन्त्रार्गतम्   
   
@@ -79,7 +79,7 @@ title = "कालीशतनामस्तोत्रम् (बृइहन
 मुक्तकेशी छिन्नजटा जटाजूटविलासिनी ॥ २३-१७॥  
   
 सर्पराजयुताभीमा सर्पराजोपरि स्थिता ।  
-श्मशानस्था महानन्दिस्तुता संदीप्तलोचना ॥ २३-१८॥  
+श्मशानस्था महानन्दिस्तुता सन्दीप्तलोचना ॥ २३-१८॥  
   
 शवासनरता नन्दा सिद्धचारणसेविता ।  
 बलिदानप्रिया गर्भा भूर्भुवःस्वःस्वरूपिणी ॥ २३-१९॥  

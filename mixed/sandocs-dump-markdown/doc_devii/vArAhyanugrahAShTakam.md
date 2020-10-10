@@ -1,24 +1,24 @@
-+++
-"Text title" = "vArAhyanugrahAShTakam"
-"File name" = "vaaraahii8.itx"
-itxtitle = "vArAhyanugrahAShTakam"
-engtitle = "vArAhyanugrahAShTakam"
-Category = "aShTaka, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin"
-"Proofread by" = "NA"
-Description-comments = "Brihatstotra ratnAkara"
-"Latest update" = "February 22, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाराह्यनुग्रहाष्टकम्"
+---
+Author: Traditional
+Category: aShTaka, devii, otherforms, devI
+Description-comments: Brihatstotra ratnAkara
+File name: vaaraahii8.itx
+Language: Sanskrit
+Latest update: February 22, 2013
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vArAhyanugrahAShTakam
+Transliterated by: Ravin
+engtitle: vArAhyanugrahAShTakam
+itxtitle: vArAhyanugrahAShTakam
+title: वाराह्यनुग्रहाष्टकम्
 
-+++
+---
   
  वाराह्यनुग्रहाष्टकम्   
   

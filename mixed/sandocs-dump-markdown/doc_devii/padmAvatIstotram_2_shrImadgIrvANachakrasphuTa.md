@@ -1,21 +1,21 @@
-+++
-"Text title" = "padmAvatIstotram 2"
-"File name" = "padmAvatIstotram2.itx"
-itxtitle = "padmAvatIstotram 2 (shrImadgIrvANachakrasphuTa)"
-engtitle = "padmAvatIstotram 2"
-Category = "devii, devI, jaina"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पद्मावतीस्तोत्रम् २ (श्रीमद्गीर्वाणचक्रस्फुट)"
+---
+Category: devii, devI, jaina
+File name: padmAvatIstotram2.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: padmAvatIstotram 2
+engtitle: padmAvatIstotram 2
+itxtitle: padmAvatIstotram 2 (shrImadgIrvANachakrasphuTa)
+title: पद्मावतीस्तोत्रम् २ (श्रीमद्गीर्वाणचक्रस्फुट)
 
-+++
+---
   
  श्रीपद्मावतीस्तोत्रम् २   
 श्रीमद्गीर्वाणचक्रस्फुटमुकुटतटीदिव्यमाणिक्यमाला-  

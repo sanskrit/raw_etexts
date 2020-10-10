@@ -1,23 +1,23 @@
-+++
-"Text title" = "yogavishaya"
-"File name" = "yogavishaya.itx"
-itxtitle = "yogaviShayaH"
-engtitle = "yogaviShayaH"
-Category = "yoga"
-Location = "doc_yoga"
-Sublocation = "yoga"
-Texttype = "pramukha"
-Author = "Guru Matsyendranaatha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mike Magee ac70 at cityscape.co.uk"
-"Proofread by" = "Mike Magee ac70 at cityscape.co.uk, Shankara"
-"Latest update" = "October 20, 1998, April 25, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगविषयः"
+---
+Author: Guru Matsyendranaatha
+Category: yoga
+File name: yogavishaya.itx
+Language: Sanskrit
+Latest update: October 20, 1998, April 25, 2015
+Location: doc_yoga
+Proofread by: Mike Magee ac70 at cityscape.co.uk, Shankara
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: yoga
+Text title: yogavishaya
+Texttype: pramukha
+Transliterated by: Mike Magee ac70 at cityscape.co.uk
+engtitle: yogaviShayaH
+itxtitle: yogaviShayaH
+title: योगविषयः
 
-+++
+---
   
  योगविषयः   
 गुरुश्च गुरुपुत्रश्च ये चान्ये गुरुबान्धवाः ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Eight stanzas to Goddess Bhavani, Bhavani Ashtakam"
-"File name" = "bhavani8.itx"
-itxtitle = "bhavAnyaShTakam (shaNkarAchAryavirachitam)"
-engtitle = "bhavAnyaShTakam"
-Category = "aShTaka, devii, pArvatI, devI, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Meaning Russian, English, Hindi 1, 2, Videos 1, 2, 3)"
-"Latest update" = "October 7, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवान्यष्टकम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: aShTaka, devii, pArvatI, devI, shankarAchArya
+File name: bhavani8.itx
+Indexextra: (Meaning Russian, English, Hindi 1, 2, Videos 1, 2, 3)
+Language: Sanskrit
+Latest update: October 7, 2016
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Eight stanzas to Goddess Bhavani, Bhavani Ashtakam
+engtitle: bhavAnyaShTakam
+itxtitle: bhavAnyaShTakam (shaNkarAchAryavirachitam)
+title: भवान्यष्टकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  भवान्यष्टकं   
     न तातो न माता न बन्धुर्न दाता   

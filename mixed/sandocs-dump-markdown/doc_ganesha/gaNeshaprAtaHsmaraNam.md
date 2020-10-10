@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Ganesha Pratah-smarana"
-"File name" = "ganeshapratahsmarana.itx"
-itxtitle = "gaNeshaprAtaHsmaraNam"
-engtitle = "Ganesha Pratahsmarana"
-Category = "suprabhAta, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "Extended from the Shri Ganesh Stotrani"
-Indexextra = "(Ganesh Stotrani)"
-"Latest update" = "Apr. 27, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशप्रातःस्मरणम्"
+---
+Author: Traditional
+Category: suprabhAta, ganesha
+Description-comments: Extended from the Shri Ganesh Stotrani
+File name: ganeshapratahsmarana.itx
+Indexextra: (Ganesh Stotrani)
+Language: Sanskrit
+Latest update: Apr. 27, 2010
+Location: doc_ganesha
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism
+Sublocation: ganesha
+Text title: Shri Ganesha Pratah-smarana
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Ganesha Pratahsmarana
+itxtitle: gaNeshaprAtaHsmaraNam
+title: गणेशप्रातःस्मरणम्
 
-+++
+---
   
  श्रीगणेशप्रातःस्मरणम्   
   

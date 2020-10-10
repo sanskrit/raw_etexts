@@ -1,24 +1,24 @@
-+++
-"Text title" = "Garbha Upanishad"
-"File name" = "garbha.itx"
-itxtitle = "garbhopaniShat"
-engtitle = "Garbha Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "17/108; Krishna-Yajur-Veda, Samanya Upanishad"
-Indexextra = "(120 Upanishads)"
-"Latest update" = "September 30, 1999, August 29, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गर्भोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 17/108; Krishna-Yajur-Veda, Samanya Upanishad
+File name: garbha.itx
+Indexextra: (120 Upanishads)
+Language: Sanskrit
+Latest update: September 30, 1999, August 29, 2015
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Garbha Upanishad
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Garbha Upanishad
+itxtitle: garbhopaniShat
+title: गर्भोपनिषत्
 
-+++
+---
   
  गर्भोपनिषत् १७   
   
@@ -45,7 +45,7 @@ title = "गर्भोपनिषत्"
 बुद्ध्यति मनसा सङ्कल्पयति वाचा वदति । षडाश्रयमिति  
 कस्मात् मधुराम्ललवणतिक्तकटुकषायरसान्विन्दते ।  
 षड्जर्षभगान्धारमध्यमपञ्चमधैवतनिषादाश्चेति ।  
-इष्टानिष्टशब्दसंज्ञाः प्रतिविधाः सप्तविधा भवन्ति ॥ १॥  
+इष्टानिष्टशब्दसञ्ज्ञाः प्रतिविधाः सप्तविधा भवन्ति ॥ १॥  
   
  var  प्रणिधानाद्दशविधा भवन्ति   
 शुक्लो रक्तः कृष्णो धूम्रः पीतः कपिलः पाण्डुर इति ।  
@@ -85,7 +85,7 @@ title = "गर्भोपनिषत्"
 यन्मया परिजनस्यार्थे कृतं कर्म शुभाशुभम् ।  
 एकाकी तेन दह्यामि गतास्ते फलभोगिनः ॥  
   
-यदि योन्यां प्रमुञ्चामि सांख्यं योगं समाश्रये ।  
+यदि योन्यां प्रमुञ्चामि साङ्ख्यं योगं समाश्रये ।  
 अशुभक्षयकर्तारं फलमुक्तिप्रदायकम् ॥  
   
 यदि योन्यां प्रमुञ्चामि तं प्रपद्ये महेश्वरम् ।  

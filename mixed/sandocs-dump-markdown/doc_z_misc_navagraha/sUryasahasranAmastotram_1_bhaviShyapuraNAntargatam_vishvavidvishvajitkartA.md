@@ -1,25 +1,26 @@
-+++
-"Text title" = "Shri Surya Sahasranama Stotram 1"
-"File name" = "suuryasahasraBhaviShya.itx"
-itxtitle = "sUryasahasranAmastotram 1 (bhaviShyapuraNAntargatam vishvavidvishvajitkartA)"
-engtitle = "sUrya sahasranAma stotram 1"
-Category = "sahasranAma, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kirk Wortman kirkwort at hotmail.com, PSA Easwaran"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com, PSA Easwaran"
-Description-comments = "From bhaviShyapuraNa referenced in Gita press version.  Shaktapramoda has variations.  See corresponding nAmAvalI."
-Indexextra = "( booklet, nAmAvalI)"
-"Latest update" = "January 31, 2003, January 5, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यसहस्रनामस्तोत्रम् १ (भविष्यपुरणान्तर्गतम् विश्वविद्विश्वजित्कर्ता)"
+---
+Author: Traditional
+Category: sahasranAma, navagraha, stotra
+Description-comments: From bhaviShyapuraNa referenced in Gita press version.  Shaktapramoda
+  has variations.  See corresponding nAmAvalI.
+File name: suuryasahasraBhaviShya.itx
+Indexextra: ( booklet, nAmAvalI)
+Language: Sanskrit
+Latest update: January 31, 2003, January 5, 2020
+Location: doc_z_misc_navagraha
+Proofread by: Kirk Wortman kirkwort at hotmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Shri Surya Sahasranama Stotram 1
+Texttype: stotra
+Transliterated by: Kirk Wortman kirkwort at hotmail.com, PSA Easwaran
+engtitle: sUrya sahasranAma stotram 1
+itxtitle: sUryasahasranAmastotram 1 (bhaviShyapuraNAntargatam vishvavidvishvajitkartA)
+title: सूर्यसहस्रनामस्तोत्रम् १ (भविष्यपुरणान्तर्गतम् विश्वविद्विश्वजित्कर्ता)
 
-+++
+---
   
  श्रीसूर्यसहस्रनामस्तोत्रम् १ भविष्यपुराणान्तर्गता   
 सुमन्तुरुवाच  
@@ -127,7 +128,7 @@ title = "सूर्यसहस्रनामस्तोत्रम् १ 
 त्र्यम्बकः सर्वदमनो भावितात्मा भिषग्वरः ॥ १६॥  
   
 आलोककृल्लोकनाथो लोकालोकनमस्कृतः ।  
-कालः कल्पान्तको वह्निस्तपनः संप्रतापनः ॥ १७॥  
+कालः कल्पान्तको वह्निस्तपनः सम्प्रतापनः ॥ १७॥  
   
 विरोचनो विरूपाक्षः सहस्राक्षः पुरन्दरः ।  
 सहस्ररश्मिर्मिहिरो विविधाम्बरभूषणः ॥ १८॥  
@@ -300,7 +301,7 @@ title = "सूर्यसहस्रनामस्तोत्रम् १ 
 अनिर्देश्यवपुः श्रीमान् विपाप्मा बहुमङ्गलः ।  
 स्वःस्थितः सुरथः स्वर्णो मोक्षदो बलिकेतनः ॥ ७४॥  
   
-निर्द्वन्द्वो द्वन्द्वहा सर्गः सर्वगः संप्रकाशकः ।  
+निर्द्वन्द्वो द्वन्द्वहा सर्गः सर्वगः सम्प्रकाशकः ।  
 दयालुः सूक्ष्मधीः क्षान्तिः क्षेमाक्षेमस्थितिप्रियः ॥ ७५॥  
   
 भूधरो भूपतिर्वक्ता पवित्रात्मा त्रिलोचनः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Sankshiptaramayanam Sanksheparamayanam"
-"File name" = "saNkShiptarAmAyaNam.itx"
-itxtitle = "saNkSheparAmAyaNam saNkShiptarAmAyaNaM mUlarAmAyaNaM cha"
-engtitle = "saNkShiptarAmAyaNam"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan, NA, Sowmya Krishnapur sowmya.krishnapur at gmail.com"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-"Latest update" = "June 5, 2016, May 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सण्क्षेपरामायणम् सण्क्षिप्तरामायणं मूलरामायणं च"
+---
+Author: Traditional
+Category: raama
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: saNkShiptarAmAyaNam.itx
+Language: Sanskrit
+Latest update: June 5, 2016, May 15, 2019
+Location: doc_raama
+Proofread by: Nat Natarajan, NA, Sowmya Krishnapur sowmya.krishnapur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Sankshiptaramayanam Sanksheparamayanam
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: saNkShiptarAmAyaNam
+itxtitle: saNkSheparAmAyaNam saNkShiptarAmAyaNaM mUlarAmAyaNaM cha
+title: सण्क्षेपरामायणम् सण्क्षिप्तरामायणं मूलरामायणं च
 
-+++
+---
   
  सङ्क्षेपरामायणम्   
 श्रीगणेशाय नमः ।  
@@ -274,7 +274,7 @@ title = "सण्क्षेपरामायणम् सण्क्षि�
 कर्मणा तेन महता त्रैलोक्यं सचराचरम् ॥ ८३॥  
   
 सदेवर्षिगणं तुष्टं राघवस्य महात्मनः ।  
-बभौ रामः संप्रहृष्टः पूजितः सर्वदैवतैः ॥ ८४॥  
+बभौ रामः सम्प्रहृष्टः पूजितः सर्वदैवतैः ॥ ८४॥  
   
 अभिषिच्य च लङ्कायां राक्षसेन्द्रं विभीषणम् ।  
 कृतकृत्यस्तदा रामो विज्वरः प्रमुमोद ह ॥ ८५॥  

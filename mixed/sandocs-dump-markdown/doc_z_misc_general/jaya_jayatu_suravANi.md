@@ -1,20 +1,20 @@
-+++
-"Text title" = "Jaya Jayatu Suravani"
-"File name" = "jayajayatusuravANi.itx"
-itxtitle = "jaya jayatu suravANi"
-engtitle = "Jaya Jayatu Suravani"
-Category = "misc, sanskritgeet, sarasvatI, devI, devii"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Text, Audio)"
-"Latest update" = "February 5, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जय जयतु सुरवाणि"
+---
+Category: misc, sanskritgeet, sarasvatI, devI, devii
+File name: jayajayatusuravANi.itx
+Indexextra: (Text, Audio)
+Language: Sanskrit
+Latest update: February 5, 2020
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Jaya Jayatu Suravani
+engtitle: Jaya Jayatu Suravani
+itxtitle: jaya jayatu suravANi
+title: जय जयतु सुरवाणि
 
-+++
+---
   
  जय जयतु सुरवाणि   
 जय जयतु सुरवाणि ॥ धृ॥  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Dattatreyakavacham"
-"File name" = "dattAtreyakavacham.itx"
-itxtitle = "dattAtreyakavacham (vAsudevAnandasarasvatI virachitam)"
-engtitle = "Dattatreyakavacham"
-Category = "kavacha, deities_misc, dattatreya, vAsudevAnanda-sarasvatI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "vAsudevAnandasarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Prasad M myshopping.prasad at gmail.com"
-"Proofread by" = "Prasad M myshopping.prasad at gmail.com, NA"
-"Latest update" = "August 13, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयकवचम् (वासुदेवानन्दसरस्वती विरचितम्)"
+---
+Author: vAsudevAnandasarasvatI
+Category: kavacha, deities_misc, dattatreya, vAsudevAnanda-sarasvatI
+File name: dattAtreyakavacham.itx
+Language: Sanskrit
+Latest update: August 13, 2016
+Location: doc_deities_misc
+Proofread by: Prasad M myshopping.prasad at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Dattatreyakavacham
+Transliterated by: Prasad M myshopping.prasad at gmail.com
+engtitle: Dattatreyakavacham
+itxtitle: dattAtreyakavacham (vAsudevAnandasarasvatI virachitam)
+title: दत्तात्रेयकवचम् (वासुदेवानन्दसरस्वती विरचितम्)
 
-+++
+---
   
  श्रीदत्तात्रेयकवचम्   
 श्रीपादः पातु मे पादावूरू सिद्धासनस्थितः ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAmakRRiShNayugalastutiH"
-"File name" = "rAmakRRiShNayugalastutiH.itx"
-itxtitle = "rAmakRiShNayugalastutiH"
-engtitle = "rAmakRRiShNayugalastutiH"
-Category = "raama, krishna, vishhnu"
-Location = "doc_raama"
-Sublocation = "raama"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामकृइष्णयुगलस्तुतिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: raama, krishna, vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: rAmakRRiShNayugalastutiH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmakRRiShNayugalastutiH
+engtitle: rAmakRRiShNayugalastutiH
+itxtitle: rAmakRiShNayugalastutiH
+title: रामकृइष्णयुगलस्तुतिः
 
-+++
+---
   
  श्रीरामकृष्णयुगलस्तुतिः   
   

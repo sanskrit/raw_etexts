@@ -1,22 +1,22 @@
-+++
-"Text title" = "subhaashhita postings by Kedar Naphade"
-"File name" = "subhaashhita_kedar.itx"
-itxtitle = "pratidinaM subhAShitam"
-engtitle = "A Subhashita A Day - with translation"
-Category = "subhAShita, subhaashita, sangraha"
-Location = "doc_z_misc_subhaashita"
-Sublocation = "subhaashita"
-Author = "Kedar Naphade"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture"
-"Transliterated by" = "Kedar Naphade"
-"Proofread by" = "Kedar Naphade"
-"Latest update" = "June 1, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रतिदिनं सुभाषितम्"
+---
+Author: Kedar Naphade
+Category: subhAShita, subhaashita, sangraha
+File name: subhaashhita_kedar.itx
+Language: Sanskrit
+Latest update: June 1, 2007
+Location: doc_z_misc_subhaashita
+Proofread by: Kedar Naphade
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture
+Sublocation: subhaashita
+Text title: subhaashhita postings by Kedar Naphade
+Transliterated by: Kedar Naphade
+engtitle: A Subhashita A Day - with translation
+itxtitle: pratidinaM subhAShitam
+title: प्रतिदिनं सुभाषितम्
 
-+++
+---
   
  प्रतिदिनं सुभाषितं   
   
@@ -511,7 +511,7 @@ this, Alas ! an elephant uprooted the lotus !
 I believe this is the first piece of verse in Sanskrit ; composed by Valmiki  
   
 मा निषाद प्रतिष्ठां त्वं अगमः शाश्वतीः समाः ।  
-यत्क्रौंचमिथुनादेकं अवधीः काममोहितम् ॥  
+यत्क्रौञ्चमिथुनादेकं अवधीः काममोहितम् ॥  
   
   
 O niShAda, you will not come to glory till the end of eternity. for you have  
@@ -522,7 +522,7 @@ hunter shooting one of two krauncha birds who were engaged in rati.
 I believe this is the first piece of verse in Sanskrit ; composed by Valmiki  
   
 मा निषाद प्रतिष्ठां त्वं अगमः शाश्वतीः समाः ।  
-यत्क्रौंचमिथुनादेकं अवधीः काममोहितम् ॥  
+यत्क्रौञ्चमिथुनादेकं अवधीः काममोहितम् ॥  
   
   
 O niShAda, you will not come to glory till the end of eternity. for you have  
@@ -707,7 +707,7 @@ corrected version :
   
 %ASAD[32]  
   
-साहित्य संगीत कला विहीनः साक्षात् पशुः पुछ विषाण हीनः ।  
+साहित्य सङ्गीत कला विहीनः साक्षात् पशुः पुछ विषाण हीनः ।  
 तृणं न खादन्नपि जीवमानः तद् भागधेयं परमं पषूणाम् ॥  
   
   
@@ -822,8 +822,8 @@ here .. )
   
 क्षते प्रहाराः निपतन्ति अभीक्ष्णं  
 धनक्षये वर्धति जाठराग्निः ।  
-आपत्सु वैराणि समुद्भदंति  
-चिद्रेषु अनर्थाः बहुलीभवंति ॥  
+आपत्सु वैराणि समुद्भदन्ति  
+चिद्रेषु अनर्थाः बहुलीभवन्ति ॥  
   
   
 When the money is gone (become poor), the hunger increases  
@@ -1020,14 +1020,14 @@ The difference betn ᳚CHINTA᳚ and ᳚CHITA᳚ is just a dot.
 ᳚PYRE᳚ burns the dead, while ᳚WORRY᳚  burns the living.  
   
 उपकारो हि नीचानां अपकरो हि जायते ।  
-पयःपानं भुजंगाणां केवलं विषवर्धनम् ॥  
+पयःपानं भुजङ्गाणां केवलं विषवर्धनम् ॥  
   
   
  उप + कृ  =   to do a favor  
  नीच  =  lowly  
  अप + कृ  =  to harm  
  पयस्  =  milk / water  
- भुजंग  =  snake  
+ भुजङ्ग  =  snake  
  केवलं  =  only  
  विष  =  posion  
  वर्धन  =  increase  
@@ -1060,10 +1060,10 @@ because of their father. The inferior men are famous because of their uncle.
 and the worst among them are famous because of their father in law.  
 I Thought you may like this subhashitha.  
   
-अनुगंथुं सथं वत्स्मा कुत्सनं यदि नशक्यथे ।  
+अनुगन्थुं सथं वत्स्मा कुत्सनं यदि नशक्यथे ।  
 स्वल्पमार्थनुगन्थव्यम्, मर्गस्थोव नवसीधथि     ॥  
   
-सुंदरोपि सुशीलोपि कुलीलोपि महढनह  ।  
+सुन्दरोपि सुशीलोपि कुलीलोपि महढनह  ।  
 अकुलिनोपि विद्यावान्, देवैरपि स्।उपूज्यथे ॥  
   
   
@@ -1349,8 +1349,8 @@ So, let me wind up this small series with a subhAshita I wrote.
 Please excuse me for the mistakes.  
   
 भवदीयः।  
-मधुसिक्तो निम्बखण्डः दुग्धपुष्टो भुजंगमः ।  
-गंगास्नातोपि दुर्जनः स्वभावं नैव मुन्चति ॥  
+मधुसिक्तो निम्बखण्डः दुग्धपुष्टो भुजङ्गमः ।  
+गङ्गास्नातोपि दुर्जनः स्वभावं नैव मुन्चति ॥  
   
   
  मधु  =  honey  
@@ -1608,7 +1608,7 @@ of this verse
 परमदिनदयाळा नीरसी मोहमाया  
 अचपळ मन माज़े नावरे आवरीता  
 तुज विण शिण होतो धाव रे धाव आता !  
-न भूतपूर्वं न कदापि वार्ता हेम्नः कुरंगः न कदापि दृष्टः ।  
+न भूतपूर्वं न कदापि वार्ता हेम्नः कुरङ्गः न कदापि दृष्टः ।  
 तथापि तॄष्णा रघुनन्दनस्य विनाशकाले विपरीतबुद्धिः ॥  
   
   
@@ -1717,11 +1717,11 @@ place, he does not leave the previous abode.
   
 प्रिय मित्राणि ।  
 कल्पद्रुमः कल्पितमेव सूत् सा कामधुक् कामितमेव दोग्धि  ।  
-चिन्तामणिश्चिन्तितमेव दत्ते सतां तु संगः सकलम् प्रसूते । ॥  
+चिन्तामणिश्चिन्तितमेव दत्ते सतां तु सङ्गः सकलम् प्रसूते । ॥  
   
 सन्धि विग्रह  
 कल्प द्रुमः कल्पितं एव सूते सा कामधुक् कामितं एव दोग्धि ।  
-चिन्तामणिः चिन्तितं एव दत्ते सतां तु संगः सकलं प्रसूते ॥  
+चिन्तामणिः चिन्तितं एव दत्ते सतां तु सङ्गः सकलं प्रसूते ॥  
   
   
 shabdArtha  
@@ -1737,7 +1737,7 @@ imagine
  चिन्तित  =  something one has thought about  
  दा  =  to give  
  सत्  =  the good men  
- संग  =  company  
+ सङ्ग  =  company  
  सकल  =  everything  
 bhAvArtha  
 The kalpavRikSha produces only what you can imagine, The kAmadhenu milks  
@@ -1828,7 +1828,7 @@ soft inside). Others are like the jujube fruit, beautiful only on the outside
   
 %ASAD[79]  
   
-न भूतपूर्वं न कदापि वार्ता हेम्नः कुरंगः न कदापि दृष्टः ।  
+न भूतपूर्वं न कदापि वार्ता हेम्नः कुरङ्गः न कदापि दृष्टः ।  
 तथापि तॄष्णा रघुनन्दनस्य विनाशकाले विपरीतबुद्धिः ॥  
   
   
@@ -1837,7 +1837,7 @@ shabdArtha
  पूर्व  =  previously  
  वार्ता  =  news  
  हेमन्  =  gold  
- कुरंग  =  deer  
+ कुरङ्ग  =  deer  
  तृष्णा  =  desire  
  रघुनन्दन्  =  Rama  
  विनाश  =  destruction  
@@ -1949,14 +1949,14 @@ never become sweet.
 %ASAD[82]  
   
 केयूरा न विभूषयन्ति पुरुषं हारा न चन्द्रोज्ज्वलाः  
-न स्नानं न विलेपनं न कुसुमं नालंकृता मूर्धजाः ।  
-वाण्येका समलंकरोति पुरुषं या संस्कृता धार्यते  
+न स्नानं न विलेपनं न कुसुमं नालङ्कृता मूर्धजाः ।  
+वाण्येका समलङ्करोति पुरुषं या संस्कृता धार्यते  
 क्षीयन्ते खलू भूषणानि सततं वाग्भूषणं भूषणम् ॥  
   
 सन्धि विग्रह  
 केयूराः न विभूषयन्ति पुरुषं हाराः न चन्द्र उज्ज्वलाः  
-न स्नानं न विलेपनं न कुसुमं न अलंकृताः मूर्धजाः ।  
-वाणी एका समलंकरोति पुरुषं या संस्कृता धार्यते  
+न स्नानं न विलेपनं न कुसुमं न अलङ्कृताः मूर्धजाः ।  
+वाणी एका समलङ्करोति पुरुषं या संस्कृता धार्यते  
 क्षीयन्ते खलू भूषणानि सततं वाग्भूषणं भूषणम् ॥  
   
   
@@ -1970,7 +1970,7 @@ shabdArtha
  स्नान  =  bath  
  विलेपन  =  smearing  
  कुसुम  =  flower  
- अलंकृत  =  decorated / ornamented  
+ अलङ्कृत  =  decorated / ornamented  
  मूर्धन्  =  head  
  मूर्धजा  =  hair (from the head)  
  वाणी  =  language/ gift of speech  
@@ -2020,19 +2020,19 @@ gave poison ! (halAhala)
   
 %ASAD[84]  
   
-गुणैरुत्तुंगतां याति नोत्तुंगेनासनेन वै ।  
+गुणैरुत्तुङ्गतां याति नोत्तुङ्गेनासनेन वै ।  
 प्रासादशिखरस्थोऽपि काको न गरुडायते ॥  
   
 सन्धि विग्रह  
-गुणैः उत्तुंगतां याति न उत्तुंगेन आसनेन वै ।  
+गुणैः उत्तुङ्गतां याति न उत्तुङ्गेन आसनेन वै ।  
 प्रासाद शिखर स्थः अपि काकः न गरुडायते ॥  
   
   
 shabdArtha  
  गुण  =  qualities  
- उत्तंगता  =  greatness  
+ उत्तङ्गता  =  greatness  
  या  =  to go  
- उत्तुंग  =  tall  
+ उत्तुङ्ग  =  tall  
  आसन  =  seat  
  प्रासाद  =  palace  
  शिखर  =  tip, peak  
@@ -2366,7 +2366,7 @@ not stop until they have  achieved the determined objective.
   
 %ASAD[95]  
   
-अद्य संक्रान्तिः । पठतु एतद् सुभाशितं मम गुरुणा श्रि वसन्त  
+अद्य सङ्क्रान्तिः । पठतु एतद् सुभाशितं मम गुरुणा श्रि वसन्त  
 नानिवडेकर्महोदयेन् विरचितं  
   
 Today is Makar SankrAnti. Here is a subhAshita for the occasion  
@@ -2374,14 +2374,14 @@ composed by my teacher Shri Vasant Nanivadekar
   
 तिलवत् स्निग्धं मनोऽस्तु वाण्यां गुडवन्माधुर्यं  
 तिलगुडलद्दुकवत् सम्बन्धे अस्तु सुवृत्तत्त्वम् ।  
-अस्तु विचारे शुभसंक्रमणं मंगलाय यशसे  
-कल्याणी संक्रान्तिरस्तु वः सदाहमाशंसे ॥  
+अस्तु विचारे शुभसङ्क्रमणं मङ्गलाय यशसे  
+कल्याणी सङ्क्रान्तिरस्तु वः सदाहमाशंसे ॥  
   
 सन्धि विग्रह  
 तिलवत् स्निग्धं मनः अस्तु वाण्यां गुडवत् माधुर्यं  
 तिल गुड लद्दुकवत् सम्बन्धे अस्तु सुवृत्तत्त्वम् ।  
-अस्तु विचारे शुभ संक्रमणं मंगलाय यशसे  
-कल्याणी संक्रान्तिः अस्तु वः सदा अहं आशंसे ॥  
+अस्तु विचारे शुभ सङ्क्रमणं मङ्गलाय यशसे  
+कल्याणी सङ्क्रान्तिः अस्तु वः सदा अहं आशंसे ॥  
   
   
 shabdArtha  
@@ -2396,11 +2396,11 @@ shabdArtha
  सु वृत् तत्त्व  =  the principle of goodness  
  विचार  =  thought  
  शुभ  =  good, auspicious  
- संक्रमण  =  concurrence, coming together  
- मंगल  =  auspicious  
+ सङ्क्रमण  =  concurrence, coming together  
+ मङ्गल  =  auspicious  
  यशस्  =  glory  
  कल्याण  =  blessedness, goodness, auspiciousness  
- संक्रान्ति  =  the festival of makara sa.nkrAnt  
+ सङ्क्रान्ति  =  the festival of makara sa.nkrAnt  
  सदा  =  always  
  आ + शंस्  =  to wish, to hope, to desire  
   
@@ -2501,7 +2501,7 @@ pushpamAlA prasa.ngena sUtram shirasidhAryate ..
   
 सन्धि विग्रह  
 गुणवत् जन संसर्ग अत् य अस्ति नीच अपि गोउरवम् ।  
-पुश्प माला प्रसंग एन सूत्रम् शिर असि धार्यते ॥  
+पुश्प माला प्रसङ्ग एन सूत्रम् शिर असि धार्यते ॥  
   
   
 prati padAratha :    
@@ -2523,17 +2523,17 @@ guNavarjana samsargAt yAsti  nIchOpi gouravam .
 guNavajjana           yAti   nicho.api (transliteration)  
 note : yAti means ᳚goes᳚  
   
-पुश्पमाला प्रसंगेन सूत्रम् शिरसिधार्यते ॥  
+पुश्पमाला प्रसङ्गेन सूत्रम् शिरसिधार्यते ॥  
   
   
 shirasi dhAryate (two separate words)  
   
 सन्धि विग्रह  
 गुणवत् जन संसर्ग अत् य अस्ति नीच अपि गोउरवम् ।  
-पुश्पमाला प्रसंग एन सूत्रम् शिर असि धार्यते ॥  
+पुश्पमाला प्रसङ्ग एन सूत्रम् शिर असि धार्यते ॥  
   
 गुणवत् जन संसर्गात् याति निचः अपि गौरवम् ।  
-पुष्प माला प्रसंगेन सूत्रं शिरसि धार्यते ॥  
+पुष्प माला प्रसङ्गेन सूत्रं शिरसि धार्यते ॥  
   
   
 prati padAratha :    
@@ -2544,7 +2544,7 @@ prati padAratha :
  गोउरवम्  =  respect  
  पुश्पमाला  =  garland (of flowers)  
  प्रसन्गेन  =  because of / along with  
- प्रसंग  =  close association. prasa.ngena = because of close association  
+ प्रसङ्ग  =  close association. prasa.ngena = because of close association  
  सूत्रम्  =  thread  
  शिरह्  =  head  
 (original noun is shiras : shirasi is the locative singular, meaning on the  
@@ -2939,19 +2939,19 @@ to whose left is the daughter of Janaka and in front of whom is Maruti.
   
 %ASAD[109]  
   
-दातव्यं भोक्तव्यं धनविषये संचयो न कर्तव्यः ।  
-पश्येह मधुकरीणां संचितार्थं हरन्त्यन्ये ॥  
+दातव्यं भोक्तव्यं धनविषये सञ्चयो न कर्तव्यः ।  
+पश्येह मधुकरीणां सञ्चितार्थं हरन्त्यन्ये ॥  
   
 सन्धि विग्रह  
-दातव्यं भोक्तव्यं धन विषये संचयः न कर्तव्यः ।  
-पश्य इह मधुकरीणां संचित अर्थं हरन्ति अन्ये ॥  
+दातव्यं भोक्तव्यं धन विषये सञ्चयः न कर्तव्यः ।  
+पश्य इह मधुकरीणां सञ्चित अर्थं हरन्ति अन्ये ॥  
   
 शब्दार्थ  
   
  दातव्य  =  shouold be given  
  भोक्तव्य  =  should be used, enjoyed  
  धन  =  money  
- संचय  =  collection  
+ सञ्चय  =  collection  
  कर्तव्य  =  should be done  
  पश्य  =  see (from dRish)  
  इह  =  here  
@@ -3188,13 +3188,13 @@ fruits are for the good of others: Trees are indeed like good men.
   
 %ASAD[115]  
   
-लालयेत् पंच वर्षाणि दश वर्षाणि ताडयेत् ।  
+लालयेत् पञ्च वर्षाणि दश वर्षाणि ताडयेत् ।  
 प्राप्ते तु षोडशे वर्शे पुत्रे मित्रवद् आचरेत् ॥  
   
 शब्दार्थ  
   
  लाल्  =  to  pamper  
- पंच  =  five  
+ पञ्च  =  five  
  वर्ष  =  year  
  दश  =  ten  
  तड्  =  to hit  
@@ -3383,7 +3383,7 @@ little, is indeed a lot.
   
 (Dear Sanskrit Lovers)  
   
-आपदि मित्र परीक्षा शूर परीक्षा रण अंगणे भवति ।  
+आपदि मित्र परीक्षा शूर परीक्षा रण अङ्गणे भवति ।  
 विनये वंश परीक्षा शील परीक्षा धन क्षये भवति ॥  
   
 सन्धि विग्रह  
@@ -3469,17 +3469,17 @@ jithe rAbatI hAta tethe harI .... ?
   
 (Dear Sanskrit Lovers)  
   
-मूर्खस्य पंच चिह्नानि गर्वो दुर्वचनं तथा ।  
+मूर्खस्य पञ्च चिह्नानि गर्वो दुर्वचनं तथा ।  
 क्रोधश्च दृढवादश्च परवाक्येष्वनादरः ॥  
   
 सन्धि विग्रह  
-मूर्खस्य पंच चिह्नानि गर्वः दुर्वचनं तथा ।  
+मूर्खस्य पञ्च चिह्नानि गर्वः दुर्वचनं तथा ।  
 क्रोधः च दृढवादः च परवाक्येषु अनादरः ॥  
   
 शब्दार्थ  
   
  मूर्ख  =  fool  
- पंच  =  five  
+ पञ्च  =  five  
  चिह्न  =  sign  
  गर्व  =  vanity  
  दुर्वचन  =  wicked statements  
@@ -3534,7 +3534,7 @@ strength and gratitude.
 %ASAD[141]  
   
 कः न याति वशं लोके मुखं पीण्डेन पूरितः ।  
-मृदंगः मुख लेपेन करोति मधुरं ध्वनिम् ॥  
+मृदङ्गः मुख लेपेन करोति मधुरं ध्वनिम् ॥  
   
   
 sandhi vigraha  
@@ -3544,7 +3544,7 @@ sandhi vigraha
  मुख  =  mouth  
  पिण्ड  =  morsel of food  
  पूर्  =  to fill  
- मृदंग  =  drum  
+ मृदङ्ग  =  drum  
  मुख  =  mouth  
  लेप  =  smearing  
  मधुर  =  sweet  
@@ -3670,7 +3670,7 @@ charity and for protection.
   
 %ASAD[155]  
   
-अम्बा यस्य उमादेवी जनकः यस्य शंकरः ।  
+अम्बा यस्य उमादेवी जनकः यस्य शङ्करः ।  
 विद्यां ददाति सर्वेभ्यः स नः पातु गजाननः ॥  
   
 शब्दार्थ  
@@ -3691,7 +3691,7 @@ whose father is sha.nkara and who gives knowledge to everybody, bless us.
   
 %ASAD[156]  
   
-गौरवं प्राप्यते दानात् न तु वित्तस्य संचयात् ।  
+गौरवं प्राप्यते दानात् न तु वित्तस्य सञ्चयात् ।  
 स्थितिः उच्चैः  पयोदानां पयोधीनां अधः स्थितिः ॥  
   
 शब्दार्थ  
@@ -3700,7 +3700,7 @@ whose father is sha.nkara and who gives knowledge to everybody, bless us.
  प्राप्  =  to obtain  
  दान  =  giving  
  वित्त  =  money  
- संचय  =  collection  
+ सञ्चय  =  collection  
  स्थिति  =  position  
  उच्चैः  =  up  
  पयोद  =  cloud (one who gives water)  
@@ -3739,7 +3739,7 @@ courage, intelligence, strength and adventurous accomplishment.
 %ASAD[161]  
   
 उपदेशः हि मूर्खाणां प्रकोपाय न शान्तये ।  
-पयः पानं भुजंगानां केवलं विषवर्धनम् ॥  
+पयः पानं भुजङ्गानां केवलं विषवर्धनम् ॥  
   
 शब्दार्थ  
   
@@ -3749,7 +3749,7 @@ courage, intelligence, strength and adventurous accomplishment.
  शान्ति  =  calmness  
  पयस्  =  milk  
  पान  =  drinking  
- भुजंग  =  snake  
+ भुजङ्ग  =  snake  
  विष  =  poison  
  वर्धन  =  growth  
   
@@ -3923,11 +3923,11 @@ crossed over to the other bank, what is the use of the boat ?
 %ASAD[203]  
   
 मनो मधुकरो मेघो मद्यपो मत्कुणो मरुत् ।  
-मा मदो मर्कटो मत्स्यो मकारा दश चंचलाः ॥  
+मा मदो मर्कटो मत्स्यो मकारा दश चञ्चलाः ॥  
   
 सन्धि विग्रह  
 मनः मधुकरः मेघः मद्यपः मत्कुणः मरुत् ।  
-मा मदः मर्कटः मत्स्यः मकाराः दश चंचलाः ॥  
+मा मदः मर्कटः मत्स्यः मकाराः दश चञ्चलाः ॥  
   
 शब्दार्थ  
   
@@ -3943,7 +3943,7 @@ crossed over to the other bank, what is the use of the boat ?
  मत्स्य  =  fish  
  मकार  =  something starting with the letter ᳚ma᳚  
  दश  =  ten  
- चंचल  =  fickle, unsteady  
+ चञ्चल  =  fickle, unsteady  
   
 भावार्थ  
   

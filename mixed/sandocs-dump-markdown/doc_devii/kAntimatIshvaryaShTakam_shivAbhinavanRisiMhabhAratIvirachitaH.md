@@ -1,22 +1,22 @@
-+++
-"Text title" = "Tirunelveli Kanthimathi Ambal kAntimatIshvaryaShTakam"
-"File name" = "kAntimatIshvaryaShTakam.itx"
-itxtitle = "kAntimatIshvaryaShTakam (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "kAntimatIshvaryaShTakam"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कान्तिमतीश्वर्यष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, aShTaka, devI
+Description/comments: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+File name: kAntimatIshvaryaShTakam.itx
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_devii
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Tirunelveli Kanthimathi Ambal kAntimatIshvaryaShTakam
+Transliterated by: NA
+engtitle: kAntimatIshvaryaShTakam
+itxtitle: kAntimatIshvaryaShTakam (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: कान्तिमतीश्वर्यष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीकान्तिमतीश्वर्यष्टकम्   
               ॥ श्रीः ॥  

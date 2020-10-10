@@ -3,7 +3,6 @@ title: 046 Ravana applauds his son for his daring act
 title_english: 046 Ravana applauds his son for his daring act
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-046-Ravana_applauds_his_son_for_his_daring_act_0.mp3"></div>
 
 ततो द्याम् पृथिवीम् चैव वीक्षमाणा वन ओकसः ।  
@@ -85,7 +84,7 @@ title_english: 046 Ravana applauds his son for his daring act
 हितम् राम पुरोगाणाम् सैन्यानाम् अनुचिन्त्यताम् ।  
 अथ वा रक्ष्यताम् रामो यावत् सम्ज्ना विपर्ययः ॥ ६-४६-३९  
 लब्ध सम्ज्नौ तु काकुत्स्थौ भयम् नो व्यपनेष्यतः ।  
-न एतत् किंचन रामस्य न च रामो मुमूर्षति ॥ ६-४६-४०  
+न एतत् किञ्चन रामस्य न च रामो मुमूर्षति ॥ ६-४६-४०  
 न ह्य् एनम् हास्यते लक्ष्मीर् दुर्लभा या गत आयुषाम् ।  
 तस्माद् आश्वासय अत्मानम् बलम् च आश्वासय स्वकम् ॥ ६-४६-४१  
 यावत् सर्वाणि सैन्यानि पुनह् संस्थापयाम्य् अहम् ।  

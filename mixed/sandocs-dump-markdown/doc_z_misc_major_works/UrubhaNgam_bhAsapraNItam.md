@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAkavishrIbhAsapraNItam UrubhaNgam"
-"File name" = "Urubhanga.itx"
-itxtitle = "UrubhaNgam (bhAsapraNItam)"
-engtitle = "Urubhangam by Bhasa"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "bhAsa"
-Language = "Sanskrit"
-Subject = "Drama"
-"Transliterated by" = "Arun questions.Sanskrit at gmail.com http://learnsanskrit.org/tools/sanscript"
-"Proofread by" = "Arun questions.Sanskrit at gmail.com"
-"Latest update" = "January 23, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ऊरुभण्गम् (भासप्रणीतम्)"
+---
+Author: bhAsa
+Category: major_works
+File name: Urubhanga.itx
+Language: Sanskrit
+Latest update: January 23, 2011
+Location: doc_z_misc_major_works
+Proofread by: Arun questions.Sanskrit at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Drama
+Sublocation: major_works
+Text title: mahAkavishrIbhAsapraNItam UrubhaNgam
+Texttype: pramukha
+Transliterated by: Arun questions.Sanskrit at gmail.com http://learnsanskrit.org/tools/sanscript
+engtitle: Urubhangam by Bhasa
+itxtitle: UrubhaNgam (bhAsapraNItam)
+title: ऊरुभण्गम् (भासप्रणीतम्)
 
-+++
+---
   
  महाकविश्रीभासप्रणीतम् ऊरुभङ्गम्   
   
@@ -75,7 +75,7 @@ title = "ऊरुभण्गम् (भासप्रणीतम्)"
 वैरस्याक्वथनं बलस्य निकषं मानप्रतिष्ठागृहं  
 युद्धेष्वप्सरसां स्वयंवरसभां शौर्यप्रतिष्ठां नृणाम् ।  
 राज्ञां पश्चिमकालवीरशयनं प्राणाग्निहोमक्रतुं  
-सम्प्राप्ता रणसंज्ञमाश्रमपदं राज्ञां नभःसङ्क्रमम् ॥ ४॥  
+सम्प्राप्ता रणसञ्ज्ञमाश्रमपदं राज्ञां नभःसङ्क्रमम् ॥ ४॥  
   
 द्वितीयः -- सम्यग् भवानाह ।  
   
@@ -234,9 +234,9 @@ title = "ऊरुभण्गम् (भासप्रणीतम्)"
 वीरो निहन्ति समरेषु भयं त्यजेति ॥ २२॥  
   
 द्वितीयः -- एष इदानीमपहास्यमानं भीमसेनं दृष्ट्वा  
-स्वमूरुमभिहत्य कामपि संज्ञां प्रयच्छति जनार्दनः ।  
+स्वमूरुमभिहत्य कामपि सञ्ज्ञां प्रयच्छति जनार्दनः ।  
   
-तृतीयः -- एष संज्ञया समाश्वासितो मारुतिः,  
+तृतीयः -- एष सञ्ज्ञया समाश्वासितो मारुतिः,  
   
 संहृत्य भ्रुकुटी ललाटविवरे स्वेदं करेणाक्षिपन्  
 बाहुभ्यां प्रतिगृह्य भीमवदनश्चित्राङ्गदां स्वां गदाम् ।  
@@ -247,7 +247,7 @@ title = "ऊरुभण्गम् (भासप्रणीतम्)"
   
 भूमौ पाणितले निघृष्य तरसा बाहू प्रमृज्याधिकं  
 सन्दष्टोष्ठपुटेन विक्रमबलात् क्रोधाधिकं गर्जता ।  
-त्यक्त्वा धर्मघृणां विहाय समयं कृष्णस्य संज्ञासमं  
+त्यक्त्वा धर्मघृणां विहाय समयं कृष्णस्य सञ्ज्ञासमं  
 गान्धारीतनयस्य पाण्डुतनयेनोर्वोर्विमुक्ता गदा ॥ २४॥  
   
 सर्वे -- हा धिक् पतितो महाराजः ।  
@@ -298,7 +298,7 @@ title = "ऊरुभण्गम् (भासप्रणीतम्)"
 (नेपथ्ये)  
 प्रसीदतु प्रसीदतु भगवान् हलायुधः ।  
   
-बलदेवः -- एवांगतोऽप्यनुगच्छति मां तपस्वी दुर्योधनः । एषः,  
+बलदेवः -- एवाङ्गतोऽप्यनुगच्छति मां तपस्वी दुर्योधनः । एषः,  
   
 श्रीमान् संयुगचन्दनेन रुधिरेणार्द्रानुलिप्तच्छविर्  
 भूसंसर्पणरेणूपाटलभुजो बालव्रतं ग्राहितः ।  
@@ -485,7 +485,7 @@ title = "ऊरुभण्गम् (भासप्रणीतम्)"
 हृदयप्रीतिजननो यो मे नेत्रोत्सवः स्वयम् ।  
 सोऽयं कालविपर्यासाच्चन्द्रो वह्नित्वमागतः ॥ ४३॥  
   
-दुर्जयः -- अङ्के उववेसं किंणिमित्तं तुवं वारेसि । [अङ्के उपवेश  
+दुर्जयः -- अङ्के उववेसं किण्णिमित्तं तुवं वारेसि । [अङ्के उपवेश  
 किन्निमित्तं त्वं वारयसि ।]  
   
 राजा --  
@@ -493,7 +493,7 @@ title = "ऊरुभण्गम् (भासप्रणीतम्)"
 त्यक्त्वा परिचितं पुत्र ! यत्रतत्र त्वयास्यताम् ।  
 अद्यप्रभृति नास्तीदं पूर्वभुक्तं तवासनम् ॥ ४४॥  
   
-दुर्जय -- कहिंणुखु महाराओ गमिस्सदि । [कुत्रनुखलु महाराजो गमिष्यति ।]  
+दुर्जय -- कहिण्णुखु महाराओ गमिस्सदि । [कुत्रनुखलु महाराजो गमिष्यति ।]  
   
 राजा -- भ्रातृशतमनुगच्छामि ।  
   

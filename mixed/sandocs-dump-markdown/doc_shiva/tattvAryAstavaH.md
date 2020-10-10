@@ -1,24 +1,24 @@
-+++
-"Text title" = "tattvAryAstavaH Hymn on Lord Nataraja at Chidambaram"
-"File name" = "tattvAryA.itx"
-itxtitle = "tattvAryAstavaH"
-engtitle = "tattvAryAstavaH Hymn on Lord Nataraja at Chidambaram"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-"Proofread by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-Description-comments = "Hymn on Lord Nataraja at Chidambaram"
-Indexextra = "(Hymn on Lord Nataraja at Chidambaram)"
-"Latest update" = "December 29, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तत्त्वार्यास्तवः"
+---
+Category: shiva, stotra
+Description-comments: Hymn on Lord Nataraja at Chidambaram
+File name: tattvAryA.itx
+Indexextra: (Hymn on Lord Nataraja at Chidambaram)
+Language: Sanskrit
+Latest update: December 29, 2001
+Location: doc_shiva
+Proofread by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: shiva
+Text title: tattvAryAstavaH Hymn on Lord Nataraja at Chidambaram
+Texttype: stotra
+Transliterated by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+engtitle: tattvAryAstavaH Hymn on Lord Nataraja at Chidambaram
+itxtitle: tattvAryAstavaH
+title: तत्त्वार्यास्तवः
 
-+++
+---
   
  तत्त्वार्यास्तवः   
   
@@ -28,7 +28,7 @@ title = "तत्त्वार्यास्तवः"
 गीर्वाणचक्रवर्ती गीश्चेतोमार्गदूरतोवर्ती ।  
 भक्ताशयानुवर्ती भवतु नटेशोऽखिलामयनिवर्ती ॥ २॥  
   
-वैयाघ्रपादभाग्यं वैयाघ्रं चर्म कंचन वसानम् ।  
+वैयाघ्रपादभाग्यं वैयाघ्रं चर्म कञ्चन वसानम् ।  
 वैयाकरणफणीड्यं वैयासिक्या गिरा स्तुतं प्रणुमः ॥ ३॥  
   
 हाटकसभानिवासः शाटकतापन्नसकलहरिदन्तः ।  
@@ -37,10 +37,10 @@ title = "तत्त्वार्यास्तवः"
 शैलूषराजमाद्यं मालूरप्रसवमालिकाभरणम् ।  
 पीलूपमोऽन्धुजीर्यच्छालूराभः कथं विजानीयाम् ॥ ५॥  
   
-कनकसभैकनिकेतं कठिनपुराणोक्तिसारसंकेतम् ।  
+कनकसभैकनिकेतं कठिनपुराणोक्तिसारसङ्केतम् ।  
 नाराधयन्ति के तं नारायण्या युतं स्वतोकेतम् ॥ ६॥  
   
-तिल्लवने क्षुल्लवने पल्लवसंभिन्नफुल्लपुष्पघने ।  
+तिल्लवने क्षुल्लवने पल्लवसम्भिन्नफुल्लपुष्पघने ।  
 चिल्लहरीमुल्ललयन् वल्लभया भिल्लतल्लजो नटति ॥ ७॥  
   
 वैराजहृत्सरोजे वैराजाद्यैः स सामभिः स्तव्यः ।  
@@ -67,10 +67,10 @@ title = "तत्त्वार्यास्तवः"
 नृत्यन्नटेशमौलित्वङ्गद्गङ्गातरङ्गशीकरिणः ।  
 भूषाहिपीतशिष्टाः पुनन्तु मां तिल्लवनवाताः ॥ १५॥  
   
-कनकसभासम्राजो नटनारम्भे झलंझलंझलिति ।  
+कनकसभासम्राजो नटनारम्भे झलञ्झलञ्झलिति ।  
 मञ्जीरमञ्जुनिनदा ध्वनियुः श्रोत्रे कदा नु मम ॥ १६॥  
   
-पर्वतराजतनूजाकुचतटसंक्रान्तकुङ्कुमोन्मिश्राः ।  
+पर्वतराजतनूजाकुचतटसङ्क्रान्तकुङ्कुमोन्मिश्राः ।  
 नटनार्भटीविधूता भूतिकणास्ते स्पृशेयुरपि मेऽङ्गम् ॥ १७॥  
   
 नटनोच्चलत्कपालामर्दितचन्द्रक्षरत्सुधामिलिताः ।  
@@ -88,7 +88,7 @@ title = "तत्त्वार्यास्तवः"
 कामपरवशं कृत्वा कामपरवशं त्वकृत्वा माम् ।  
 कनकसभां गमयसि रे कनकसभां हा न यापयसि ॥ २२॥  
   
-नटनं विहाय शंभोर्घटनं पीनस्तनीभिराशास्से ।  
+नटनं विहाय शम्भोर्घटनं पीनस्तनीभिराशास्से ।  
 अटनं भवे दुरन्ते विट नन्दसि न स्वभूमसुखम् ॥ २३॥  
   
 कलितभवलङ्घनानां किं करैव चित्सुखघनानाम् ।  

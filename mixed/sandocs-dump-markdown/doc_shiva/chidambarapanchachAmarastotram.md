@@ -1,23 +1,23 @@
-+++
-"Text title" = "Chidambara Panchachamara Stotram"
-"File name" = "chidambarapanchachAmarastotram.itx"
-itxtitle = "chidambarapanchachAmarastotram"
-engtitle = "chidambarapanchachAmarastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Description/comments" = "Stotrarnava part I, MGOS Chandrasekharan p 154."
-Indexextra = "(text, Audio)"
-"Latest update" = "March 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चिदम्बरपञ्चचामरस्तोत्रम्"
+---
+Category: shiva
+Description/comments: Stotrarnava part I, MGOS Chandrasekharan p 154.
+File name: chidambarapanchachAmarastotram.itx
+Indexextra: (text, Audio)
+Language: Sanskrit
+Latest update: March 25, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Chidambara Panchachamara Stotram
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: chidambarapanchachAmarastotram
+itxtitle: chidambarapanchachAmarastotram
+title: चिदम्बरपञ्चचामरस्तोत्रम्
 
-+++
+---
   
  श्रीचिदम्बरपञ्चचामरस्तोत्रम्   
 कदम्बकाननप्रियं चिदम्बया विहारिणं  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Rudraakshajabala Upanishad"
-"File name" = "rudrakshajabala.itx"
-itxtitle = "rudrAkShajAbAlopaniShat"
-engtitle = "RudrakShajabala Upanishad"
-Category = "upanishhat, upanishad, shiva"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "88 / 108; Sama Veda - shaiva upanishad"
-"Latest update" = "Apr. 3, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्राक्षजाबालोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad, shiva
+Description-comments: 88 / 108; Sama Veda - shaiva upanishad
+File name: rudrakshajabala.itx
+Language: Sanskrit
+Latest update: Apr. 3, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Rudraakshajabala Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: RudrakShajabala Upanishad
+itxtitle: rudrAkShajAbAlopaniShat
+title: रुद्राक्षजाबालोपनिषत्
 
-+++
+---
   
  रुद्राक्षजाबालोपनिषत्   
   
@@ -162,7 +162,7 @@ title = "रुद्राक्षजाबालोपनिषत्"
 मद्यं मांसं च लशुनं पलाण्डुं शिग्रुमेव च ।  
 श्लेष्मातकं विड्वराहमभक्ष्यं वर्जयेन्नरः ॥ १७॥  
   
-ग्रहणे विषुवे चैवमयने संक्रमेऽपि च ।  
+ग्रहणे विषुवे चैवमयने सङ्क्रमेऽपि च ।  
 दर्शेषु पूर्णमासे च पूर्णेषु दिवसेषु च ।  
 रुद्राक्षधारणात्सद्यः सर्वपापैः प्रमुच्यते ॥ १८॥  
   
@@ -196,7 +196,7 @@ title = "रुद्राक्षजाबालोपनिषत्"
 सायं प्रातः प्रयुञ्जानोऽनेकजन्मकृतं पापं नाशयति ।  
 षट्सहस्रलक्षगायत्रीजपफलमवाप्नोति । ब्रह्महत्यासुरापान-  
 स्वर्णस्तेयगुरुदारगमनतत्संयोगपातकेभ्यः पूतो भवति ।  
-सर्वतीर्थफलमश्नुते । पतितसंभाषणात्पूतो भवति ।  
+सर्वतीर्थफलमश्नुते । पतितसम्भाषणात्पूतो भवति ।  
 पङ्क्तिशतसहस्रपावनो भवति । शिवसायुज्यमवाप्नोति । न च  
 पुनरावर्तते न च पुनरावर्तत इत्योंसत्यमित्युपनिषत् ॥  
   

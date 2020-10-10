@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrI kumArasubrahmaNyamUrtisahasranAmAvalI"
-"File name" = "kumArasubrahmaNyamUrtisahasranAmAvalI.itx"
-itxtitle = "kumArasubrahmaNyamUrtisahasranAmAvalI"
-engtitle = "kumArasubrahmaNyamUrtisahasranAmAvalI"
-Category = "sahasranAmAvalI, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran, Sivakumar Thyagarajan"
-"Proofread by" = "PSA Easwaran, Sivakumar Thyagarajan"
-"Latest update" = "October 9, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमारसुब्रह्मण्यमूर्तिसहस्रनामावली"
+---
+Category: sahasranAmAvalI, subrahmanya
+File name: kumArasubrahmaNyamUrtisahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: October 9, 2016
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran, Sivakumar Thyagarajan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: shrI kumArasubrahmaNyamUrtisahasranAmAvalI
+Transliterated by: PSA Easwaran, Sivakumar Thyagarajan
+engtitle: kumArasubrahmaNyamUrtisahasranAmAvalI
+itxtitle: kumArasubrahmaNyamUrtisahasranAmAvalI
+title: कुमारसुब्रह्मण्यमूर्तिसहस्रनामावली
 
-+++
+---
   
  श्रीमुत्तुकुमारसुब्रह्मण्यमूर्तिसहस्रनामावलिः   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Sita Sahasranamastotram 1 from Adbhutaramayana"
-"File name" = "sItAsahasranAmastotramadbhutarAmAyaNa.itx"
-itxtitle = "sItAsahasranAmastotram 1 (adbhutarAmAyaNAntargatam)"
-engtitle = "Sita Sahasranamastotram 1 from Adbhutaramayana"
-Category = "sahasranAma, devii, sItA, devI"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Also available in Sahasranama stotrasangraha, Gita Press"
-Source = "adbhutarAmAyaNAntargatam adhyAya 25"
-"Latest update" = "January 6, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीतासहस्रनामस्तोत्रम् १ (अद्भुतरामायणान्तर्गतम्)"
+---
+Category: sahasranAma, devii, sItA, devI
+Description-comments: Also available in Sahasranama stotrasangraha, Gita Press
+File name: sItAsahasranAmastotramadbhutarAmAyaNa.itx
+Language: Sanskrit
+Latest update: January 6, 2018
+Location: doc_raama
+Proofread by: Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: adbhutarAmAyaNAntargatam adhyAya 25
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Sita Sahasranamastotram 1 from Adbhutaramayana
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com
+engtitle: Sita Sahasranamastotram 1 from Adbhutaramayana
+itxtitle: sItAsahasranAmastotram 1 (adbhutarAmAyaNAntargatam)
+title: सीतासहस्रनामस्तोत्रम् १ (अद्भुतरामायणान्तर्गतम्)
 
-+++
+---
   
  श्रीसीतासहस्रनामस्तोत्रम्   
   
@@ -156,7 +156,7 @@ fearful and started praising Sita with 1008 names.
 प्रधानपुरुषातीता प्रधानपुरुषात्मिका ॥ ३२॥  
   
 पुराणी १२० चिन्मयी पुंसामादिः पुरुषरूपिणी ।  
-भूतान्तरात्मा कूटस्था महापुरुषसंज्ञिता ॥ ३३॥  
+भूतान्तरात्मा कूटस्था महापुरुषसञ्ज्ञिता ॥ ३३॥  
   
 जन्ममृत्युजरातीता सर्वशक्तिसमन्विता ।  
 व्यापिनी चानवच्छिन्ना १३० प्रधाना सुप्रवेशिनी ॥ ३४॥  

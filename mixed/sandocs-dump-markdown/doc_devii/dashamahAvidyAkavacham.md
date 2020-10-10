@@ -1,22 +1,22 @@
-+++
-"Text title" = "dashamahAvidyAkavacham"
-"File name" = "dashamahAvidyAkavacham.itx"
-itxtitle = "dashamahAvidyAkavacham"
-engtitle = "dashamahAvidyAkavacham"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "KS Ramachandran ramachandran_ksr@yahoo.ca, PSA Easwaran"
-"Description/comments" = "http://mysiddhashram.blogspot.com/2011/10/ten-mahavidya-kavach.html"
-"Latest update" = "May 2, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशमहाविद्याकवचम्"
+---
+Category: kavacha, devii, dashamahAvidyA, devI
+Description/comments: http://mysiddhashram.blogspot.com/2011/10/ten-mahavidya-kavach.html
+File name: dashamahAvidyAkavacham.itx
+Language: Sanskrit
+Latest update: May 2, 2015
+Location: doc_devii
+Proofread by: KS Ramachandran ramachandran_ksr@yahoo.ca, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dashamahAvidyAkavacham
+engtitle: dashamahAvidyAkavacham
+itxtitle: dashamahAvidyAkavacham
+title: दशमहाविद्याकवचम्
 
-+++
+---
   
  श्रीदशमहाविद्याकवचम्   
 विनियोगः   

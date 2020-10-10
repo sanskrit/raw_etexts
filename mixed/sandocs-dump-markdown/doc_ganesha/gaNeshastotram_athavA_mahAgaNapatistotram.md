@@ -1,35 +1,35 @@
-+++
-"Text title" = "gaNeshastotra"
-"File name" = "gaNeshastotra.itx"
-itxtitle = "gaNeshastotram athavA mahAgaNapatistotram"
-engtitle = "gaNeshastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Pooja P pooanaji at gmail.com"
-"Proofread by" = "Pooja P pooanaji at gmail.com"
-Description-comments = "Shri-Maha-Ganapati-Sadhana from Kalyan-Mandir"
-Indexextra = "(Hindi)"
-"Latest update" = "May 21, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तोत्रम् अथवा महागणपतिस्तोत्रम्"
+---
+Category: ganesha, stotra
+Description-comments: Shri-Maha-Ganapati-Sadhana from Kalyan-Mandir
+File name: gaNeshastotra.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: May 21, 2014
+Location: doc_ganesha
+Proofread by: Pooja P pooanaji at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshastotra
+Texttype: stotra
+Transliterated by: Pooja P pooanaji at gmail.com
+engtitle: gaNeshastotram
+itxtitle: gaNeshastotram athavA mahAgaNapatistotram
+title: गणेशस्तोत्रम् अथवा महागणपतिस्तोत्रम्
 
-+++
+---
   
  श्रीगणेशस्तोत्रम्   
 महागणपतिस्तोत्रम्  
   
 ॐकारमाद्यं प्रवदन्ति सन्तो वाचः श्रुतिनामपि ये गृणन्ति ।  
-गजाननं देवगणानतांघ्रिं भजेऽहमर्द्धेन्दुकृतावतंसम् ॥ १॥  
+गजाननं देवगणानताङ्घ्रिं भजेऽहमर्द्धेन्दुकृतावतंसम् ॥ १॥  
   
 पादारविन्दार्चनतत्पराणां संसारदावानलभङ्गदक्षम् ।  
 निरन्तरं निर्गतदानतोयैस्तं नौमि विघ्नेश्वरमम्बुजाभम् ॥ २॥  
   
-कृताङ्गरागं नवकुंकुमेन, मत्तालिमालां मदपङ्कलग्नाम् ।  
+कृताङ्गरागं नवकुङ्कुमेन, मत्तालिमालां मदपङ्कलग्नाम् ।  
 निवारयन्तं निजकर्णतालैः, को विस्मरेत् पुत्रमनङ्गशत्रोः ॥ ३॥  
   
 शम्भोर्जटाजूटनिवासिगङ्गाजलं समानीय कराम्बुजेन ।  
@@ -59,7 +59,7 @@ title = "गणेशस्तोत्रम् अथवा महागणप
 पदं श्रुतीनामपदं स्तुतीनां, लीलावतारं परमात्ममूर्तेः ।  
 नागात्मको वा पुरुषात्मको वेत्यभेद्यमाद्यं भज विघ्नराजम् ॥ १२॥  
   
-पाशांकुशौ भग्नरदं त्वभीष्टं, करैर्दधानं कररन्ध्रमुक्तैः ।  
+पाशाङ्कुशौ भग्नरदं त्वभीष्टं, करैर्दधानं कररन्ध्रमुक्तैः ।  
 मुक्ताफलाभैः पृथुशीकरौघैः, सिञ्चन्तमङ्गं शिवयोर्भजामि ॥ १३॥  
   
 अनेकमेकं गजमेकदन्तं, चैतन्यरूपं जगदादिबीजम् ।  

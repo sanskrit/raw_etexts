@@ -1,24 +1,24 @@
-+++
-"Text title" = "pArvatIstotram"
-"File name" = "pArvatI.itx"
-itxtitle = "pArvatIstotram"
-engtitle = "pArvatIstotram"
-Category = "devii, pArvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sridhar  Seshagiri seshagir at engineering.sdsu.edu"
-"Proofread by" = "Sridhar  Seshagiri seshagir at engineering.sdsu.edu"
-Description-comments = "Hymn to Parvati Devi"
-"Latest update" = "October 14, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्वतीस्तोत्रम्"
+---
+Category: devii, pArvatI, stotra, devI
+Description-comments: Hymn to Parvati Devi
+File name: pArvatI.itx
+Language: Sanskrit
+Latest update: October 14, 2001
+Location: doc_devii
+Proofread by: Sridhar  Seshagiri seshagir at engineering.sdsu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: hinduism/religion
+Sublocation: devii
+Text title: pArvatIstotram
+Texttype: stotra
+Transliterated by: Sridhar  Seshagiri seshagir at engineering.sdsu.edu
+engtitle: pArvatIstotram
+itxtitle: pArvatIstotram
+title: पार्वतीस्तोत्रम्
 
-+++
+---
   
  पार्वतीस्तोत्रम्   
   
@@ -41,12 +41,12 @@ title = "पार्वतीस्तोत्रम्"
 स्मरवैरिवशीकृतप्रवीणे चरणाब्जानतसत्क्रियाधुरीणे ॥ ६ ॥  
   
 गिरिजे गगनोपमावलग्ने गिरितुङ्गस्तनगौरवेण भुग्ने ।  
-वस मे हृदये तवाङ्गलग्ने तव संदर्शनमोदसिन्धुमग्ने ॥ ७ ॥  
+वस मे हृदये तवाङ्गलग्ने तव सन्दर्शनमोदसिन्धुमग्ने ॥ ७ ॥  
   
 सकलोपनिषत्सरोजवाटीकलहंस्यास्तव मे कवित्वधाटी ।  
 कृपयाविरभूदियं तु पेटी वहतु त्वद्गुणरम्यरत्नकोटीः ॥ ८ ॥  
   
-॥ इति श्रीपार्वतीस्तोत्रं संपूर्णम् ॥  
+॥ इति श्रीपार्वतीस्तोत्रं सम्पूर्णम् ॥  
   
   
 The hymn pArvatIstotram is specifically a hymn in praise  

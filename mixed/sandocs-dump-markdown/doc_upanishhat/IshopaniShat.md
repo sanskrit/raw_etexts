@@ -1,32 +1,32 @@
-+++
-"Text title" = "IshopaniShat"
-"File name" = "iisha.itx"
-itxtitle = "IshopaniShat"
-engtitle = "IshopaniShat"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Rishis"
-Language = "Sanskrit"
-Subject = "Philosophy"
-"Transliterated by" = "NA"
-"Proofread by" = "John Manetta, Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "1/108; Shukla YajurVeda, Mukhya upanishad"
-Indexextra = "(1 2translations, Hindi (audio))"
-"Latest update" = "July 20, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ईशोपनिषत्"
+---
+Author: Vedic Rishis
+Category: upanishhat, svara, upanishad
+Description-comments: 1/108; Shukla YajurVeda, Mukhya upanishad
+File name: iisha.itx
+Indexextra: (1 2translations, Hindi (audio))
+Language: Sanskrit
+Latest update: July 20, 1999
+Location: doc_upanishhat
+Proofread by: John Manetta, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Philosophy
+Sublocation: upanishhat
+Text title: IshopaniShat
+Texttype: svara
+Transliterated by: NA
+engtitle: IshopaniShat
+itxtitle: IshopaniShat
+title: ईशोपनिषत्
 
-+++
+---
   
  ईशोपनिषत्   
   
 ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते ।  
 पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥  
   
-       ॐ शांतिः शांतिः शांतिः ॥  
+       ॐ शान्तिः शान्तिः शान्तिः ॥  
   
        ॥ अथ ईशोपनिषत् ॥  
   
@@ -82,7 +82,7 @@ title = "ईशोपनिषत्"
 यत्ते रूपं कल्याणतमं तत्ते पश्यामि  
      योऽसावसौ पुरुषः सोऽहमस्मि ॥ १६॥  
   
-वायुरनिलममृतमथेदं भस्मांतꣳ शरीरम् ।  
+वायुरनिलममृतमथेदं भस्मान्तꣳ शरीरम् ।  
 ॐ क्रतो स्मर कृतꣳ स्मर क्रतो स्मर कृतꣳ स्मर ॥ १७॥  
   
 अग्ने नय सुपथा राये अस्मान्  
@@ -95,7 +95,7 @@ title = "ईशोपनिषत्"
 ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।  
 पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥  
   
-      ॐ शांतिः शांतिः शांतिः ॥  
+      ॐ शान्तिः शान्तिः शान्तिः ॥  
   
   
   

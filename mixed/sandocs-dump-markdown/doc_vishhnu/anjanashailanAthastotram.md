@@ -1,25 +1,25 @@
-+++
-"Text title" = "anjanashailanAthastotram"
-"File name" = "anjanashailanAthastotram.itx"
-itxtitle = "anjanashailanAthastotram"
-engtitle = "Anjanashailanathastotram"
-Category = "vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "April 4, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अञ्जनशैलनाथस्तोत्रम्"
+---
+Category: vishhnu, venkateshwara, stotra, vishnu
+File name: anjanashailanAthastotram.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: April 4, 2015
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: anjanashailanAthastotram
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Anjanashailanathastotram
+itxtitle: anjanashailanAthastotram
+title: अञ्जनशैलनाथस्तोत्रम्
 
-+++
+---
   
  अञ्जनशैलनाथस्तोत्रम्   
   
@@ -38,7 +38,7 @@ title = "अञ्जनशैलनाथस्तोत्रम्"
 आविस्स्मिताननममन्ददयाकटाक्षं  
 आराधयामि हरिमञ्जनशैलनाथम् ॥ ३॥  
   
-अप्राकृतावयवसंहितसंनिवेशं  
+अप्राकृतावयवसंहितसन्निवेशं  
 आरूढयौवनमहीनकुमारभावम् ।  
 अम्लानकान्तिमतिवाङ्मनसानुभावं  
 आराधयामि हरिमञ्जनशैलनाथम् ॥ ४॥  
@@ -48,7 +48,7 @@ title = "अञ्जनशैलनाथस्तोत्रम्"
 आश्लेषगम्यसुखसंस्पृशनातिरेकं  
 आराधयामि हरिमञ्जनशैलनाथम् ॥ ५॥  
   
-आदर्शयन्तमतिसंकुचिताक्षिशक्तिं  
+आदर्शयन्तमतिसङ्कुचिताक्षिशक्तिं  
 आश्रावयन्तमखिलान् बधिरान् प्रकृत्या ।  
 आभाषयन्तमभितो नतमूकवर्गं  
 आराधयामि हरिमञ्जनशैलनाथम् ॥ ६॥  
@@ -90,7 +90,7 @@ title = "अञ्जनशैलनाथस्तोत्रम्"
   
 वादिभीतिकरार्येण रचिता भावबन्ध तः  
 शोभते वेङ्कटाद्रीशविषया स्तुतिरद्भुता ॥   
- ॥ इति अञ्जनशैलनाथस्तोत्रं संपूर्णम् ॥  
+ ॥ इति अञ्जनशैलनाथस्तोत्रं सम्पूर्णम् ॥  
   
   
 Encoded and proofread by Malleswara Rao Yellapragada  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "sandhyAstotram"
-"File name" = "sandhyAstotram.itx"
-itxtitle = "sandhyAstotram"
-engtitle = "Sandhya Stotram"
-Category = "misc, stotra"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA from Audio"
-"Proofread by" = "Avinash Sathaye sohum at ms.uky.edu"
-Description-comments = "http://www.youtube.com/watch?v=d18FQm-GqT8"
-Indexextra = "(video)"
-"Latest update" = "June 29, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्ध्यास्तोत्रम्"
+---
+Category: misc, stotra
+Description-comments: http://www.youtube.com/watch?v=d18FQm-GqT8
+File name: sandhyAstotram.itx
+Indexextra: (video)
+Language: Sanskrit
+Latest update: June 29, 2013
+Location: doc_z_misc_general
+Proofread by: Avinash Sathaye sohum at ms.uky.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: sandhyAstotram
+Texttype: stotra
+Transliterated by: NA from Audio
+engtitle: Sandhya Stotram
+itxtitle: sandhyAstotram
+title: सन्ध्यास्तोत्रम्
 
-+++
+---
   
  सन्ध्यास्तोत्रम्   
   

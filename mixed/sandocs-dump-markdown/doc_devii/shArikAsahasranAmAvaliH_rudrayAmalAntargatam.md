@@ -1,22 +1,22 @@
-+++
-"Text title" = "ShArika SahasranAmAvali"
-"File name" = "shArikAsahasranAmAvalI.itx"
-itxtitle = "shArikAsahasranAmAvaliH (rudrayAmalAntargatam)"
-engtitle = "ShArika Sahasra Namavali"
-Category = "sahasranAmAvalI, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD, NA, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "May 23, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारिकासहस्रनामावलिः (रुद्रयामलान्तर्गतम्)"
+---
+Category: sahasranAmAvalI, devii, dashamahAvidyA, devI
+File name: shArikAsahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: May 23, 2018
+Location: doc_devii
+Proofread by: DPD, NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ShArika SahasranAmAvali
+Transliterated by: DPD
+engtitle: ShArika Sahasra Namavali
+itxtitle: shArikAsahasranAmAvaliH (rudrayAmalAntargatam)
+title: शारिकासहस्रनामावलिः (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीशारिकासहस्रनामावलिः   
 श्रीगणेशाय नमः ।  

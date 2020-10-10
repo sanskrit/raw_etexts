@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrI kRiShNa chaaliisaa"
-"File name" = "krishna40.itx"
-itxtitle = "shrI kRiShNa chAlIsA"
-engtitle = "shrI kRiShNa chalisa"
-Category = "chAlisA, vishhnu, krishna, vishnu"
-Location = "doc_z_otherlang_hindi"
-Sublocation = "krishna"
-Author = "Traditional"
-Language = "Hindi"
-Subject = "hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "Devotional hymn to Lord Krishna, of 40 verses"
-"Latest update" = "January 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्री कृइष्ण चालीसा"
+---
+Author: Traditional
+Category: chAlisA, vishhnu, krishna, vishnu
+Description-comments: Devotional hymn to Lord Krishna, of 40 verses
+File name: krishna40.itx
+Language: Hindi
+Latest update: January 28, 2017
+Location: doc_z_otherlang_hindi
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: krishna
+Text title: shrI kRiShNa chaaliisaa
+Transliterated by: NA
+engtitle: shrI kRiShNa chalisa
+itxtitle: shrI kRiShNa chAlIsA
+title: श्री कृइष्ण चालीसा
 
-+++
+---
   
  श्रीकृष्ण चालीसा   
 दोहा  
@@ -27,7 +27,7 @@ title = "श्री कृइष्ण चालीसा"
 पूर्ण इन्द्र, अरविन्द मुख, पीताम्बर शुभ साज ।  
 जय मनमोहन मदन छवि, कृष्णचन्द्र महाराज ॥  
   
-जय यदुनंदन जय जगवंदन ।  
+जय यदुनन्दन जय जगवन्दन ।  
 जय वसुदेव देवकी नन्दन ॥  
   
 जय यशुदा सुत नन्द दुलारे ।  
@@ -51,20 +51,20 @@ title = "श्री कृइष्ण चालीसा"
 राजित राजिव नयन विशाला ।  
 मोर मुकुट वैजन्तीमाला ॥  
   
-कुंडल श्रवण, पीत पट आछे ।  
-कटि किंकिणी काछनी काछे ॥  
+कुण्डल श्रवण, पीत पट आछे ।  
+कटि किङ्किणी काछनी काछे ॥  
   
 नील जलज सुन्दर तनु सोहे ।  
 छबि लखि, सुर नर मुनिमन मोहे ॥  
   
-मस्तक तिलक, अलक घुंघराले ।  
+मस्तक तिलक, अलक घुङ्घराले ।  
 आओ कृष्ण बांसुरी वाले ॥  
   
 करि पय पान, पूतनहि तार्यो ।  
 अका बका कागासुर मार्यो ॥  
   
 मधुवन जलत अगिन जब ज्वाला ।  
-भै शीतल लखतहिं नंदलाला ॥  
+भै शीतल लखतहिं नन्दलाला ॥  
   
 सुरपति जब ब्रज चढ़्यो रिसाई ।  
 मूसर धार वारि वर्षाई ॥  
@@ -76,12 +76,12 @@ title = "श्री कृइष्ण चालीसा"
 मुख मंह चौदह भुवन दिखाई ॥  
   
 दुष्ट कंस अति उधम मचायो ।  
-कोटि कमल जब फूल मंगायो ॥  
+कोटि कमल जब फूल मङ्गायो ॥  
   
 नाथि कालियहिं तब तुम लीन्हें ।  
 चरण चिह्न दै निर्भय कीन्हें ॥  
   
-करि गोपिन संग रास विलासा ।  
+करि गोपिन सङ्ग रास विलासा ।  
 सबकी पूरण करी अभिलाषा ॥  
   
 केतिक महा असुर संहार्यो ।  
@@ -97,13 +97,13 @@ title = "श्री कृइष्ण चालीसा"
 लाये षट दश सहसकुमारी ॥  
   
 दै भीमहिं तृण चीर सहारा ।  
-जरासिंधु राक्षस कहँ मारा ॥  
+जरासिन्धु राक्षस कहँ मारा ॥  
   
 असुर बकासुर आदिक मार्यो ।  
 भक्तन के तब कष्ट निवार्यो ॥  
   
 दीन सुदामा के दुःख टार्यो ।  
-तंदुल तीन मूंठ मुख डार्यो ॥  
+तन्दुल तीन मूण्ठ मुख डार्यो ॥  
   
 प्रेम के साग विदुर घर माँगे ।  
 दुर्योधन के मेवा त्यागे ॥  
@@ -132,7 +132,7 @@ title = "श्री कृइष्ण चालीसा"
 जबहिं द्रौपदी टेर लगाई ।  
 दीनानाथ लाज अब जाई ॥  
   
-तुरतहि वसन बने नंदलाला ।  
+तुरतहि वसन बने नन्दलाला ।  
 बढ़े चीर भै अरि मुंह काला ॥  
   
 अस अनाथ के नाथ कन्हैया ।  

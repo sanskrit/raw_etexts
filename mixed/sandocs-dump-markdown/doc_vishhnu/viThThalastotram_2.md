@@ -1,23 +1,23 @@
-+++
-"Text title" = "viThThalastotram 2"
-"File name" = "viThThalastotram2.itx"
-itxtitle = "viThThalastotram 2"
-engtitle = "viThThalastotram 2"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विठ्ठलस्तोत्रम् २"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viThThalastotram2.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viThThalastotram 2
+engtitle: viThThalastotram 2
+itxtitle: viThThalastotram 2
+title: विठ्ठलस्तोत्रम् २
 
-+++
+---
   
  विठ्ठलस्तोत्रम् २   
 जीवनजीगोस्वामिकृतं  
@@ -40,11 +40,11 @@ title = "विठ्ठलस्तोत्रम् २"
 दरवरमथ ते करगं दृष्ट्वा संसारदरदरं दरताम् ।  
 अदरामभजन्नरवर शशधरकरभरमिवान्धकारभरः ॥ ६॥  
   
-स्वीयजनाभयदाने दक्षिणहस्तोऽस्ति युक्तसंज्ञो मे ।  
+स्वीयजनाभयदाने दक्षिणहस्तोऽस्ति युक्तसञ्ज्ञो मे ।  
 इति तथ्यं सूचयितुं नालीकं सम्बिभर्षि तस्मिंस्त्वम् ॥ ७॥  
   
 त्वयि पुण्डरीकसुखदे गोगणसंवेष्टिते त्रयीनिलये ।  
-पापान्धनाशकत्वं युक्तं संज्ञासुखप्रदेऽक्षिचरे ॥ ८॥  
+पापान्धनाशकत्वं युक्तं सञ्ज्ञासुखप्रदेऽक्षिचरे ॥ ८॥  
   
 दाक्षिण्यं स्वीकर्तुं देशेऽस्मिंस्त्वं स्थितोऽसि यदपि विभो ।  
 वामत्वं त्वय्याप्तं स्वीयव्रजमा त्यजत्यहो विमलम् ॥ ९॥  

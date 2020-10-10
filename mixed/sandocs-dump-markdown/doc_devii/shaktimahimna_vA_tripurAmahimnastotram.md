@@ -1,24 +1,24 @@
-+++
-"Text title" = "shaktimahimnastotra evam tripurAmahimnastotra"
-"File name" = "shaktitripurAmahimnastotra.itx"
-itxtitle = "shaktimahimna vA tripurAmahimnastotram"
-engtitle = "Shri Shaktimahimna or Shri Tripuramahimna stotram"
-Category = "devii, otherforms, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Indexextra = "(Commentary)"
-"Latest update" = "April 5, 2013, June 13, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शक्तिमहिम्न वा त्रिपुरामहिम्नस्तोत्रम्"
+---
+Category: devii, otherforms, stotra, devI
+File name: shaktitripurAmahimnastotra.itx
+Indexextra: (Commentary)
+Language: Sanskrit
+Latest update: April 5, 2013, June 13, 2017
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shaktimahimnastotra evam tripurAmahimnastotra
+Texttype: stotra
+Transliterated by: DPD
+engtitle: Shri Shaktimahimna or Shri Tripuramahimna stotram
+itxtitle: shaktimahimna vA tripurAmahimnastotram
+title: शक्तिमहिम्न वा त्रिपुरामहिम्नस्तोत्रम्
 
-+++
+---
   
  श्रीशक्तिमहिम्न अथवा त्रिपुरामहिम्नस्तोत्रम्   
   
@@ -101,7 +101,7 @@ title = "शक्तिमहिम्न वा त्रिपुरामह
   
 इत्थं त्रीण्यपि मूल-वाग्भव-महा-श्रीकामराज स्फुर-  
 च्छक्त्त्याख्यानि चतुः- श्रुतिप्रकटितान्युत्कृष्ट-कूटानि ते ।  
-भूतर्तु श्रुति संख्य-वर्ण-विदितान्यारक्तकान्ते शिवे  
+भूतर्तु श्रुति सङ्ख्य-वर्ण-विदितान्यारक्तकान्ते शिवे  
 यो जानाति स एव सर्वजगतां-स्थिति-ध्वंसकृत् ॥ १६॥  
   
    
@@ -345,7 +345,7 @@ title = "शक्तिमहिम्न वा त्रिपुरामह
 लोकाश्चार्यैर्नवनवपदैरिन्दु बिम्ब प्रकाशैः ॥ ५७॥  
   
    
-संगीतं गिरिजे कवित्वसरणिं-चाम्नाय-वाक्य-स्मृतेः  
+सङ्गीतं गिरिजे कवित्वसरणिं-चाम्नाय-वाक्य-स्मृतेः  
 व्याख्यानं हृदि तावकीन-चरणद्वन्दं च सर्वज्ञताम् ।  
 श्रद्धां कर्मणि कालिकेऽतिविपुल-श्रीजृम्भणं मन्दिरे  
 सौन्दर्यं वपुषि प्रकाशमतुलं प्राप्नोति विद्वान् कवि ॥ ५८॥  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Satya SiddhAnta"
-"File name" = "satyasiddhAnta.itx"
-itxtitle = "satyasiddhAnta"
-engtitle = "satyasiddhAnta"
-Category = "misc, vedanta"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "April 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "सत्यसिद्धान्त"
+---
+Category: misc, vedanta
+File name: satyasiddhAnta.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 18, 2020
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Satya SiddhAnta
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: satyasiddhAnta
+itxtitle: satyasiddhAnta
+title: सत्यसिद्धान्त
 
-+++
+---
   
  सत्य सिद्धान्त   
 शार्दूल विक्रीडित छन्द ।  
@@ -50,13 +50,13 @@ title = "सत्यसिद्धान्त"
 सिद्धान्त है ॥ २॥  
   
 कर्माकर्मविकर्म बोध जनकाः कर्मार्थ मीमांसकाः  
-     साङ्ख्यास्त्यागपराः सदा विविदिषा संन्यासैन स्नातकाः ।  
+     साङ्ख्यास्त्यागपराः सदा विविदिषा सन्न्यासैन स्नातकाः ।  
 योगाङ्गाष्टक बोधक प्रति भटाः पातञ्जला न्यायकाः  
      योग ज्ञानमिदं प्रबोध जनकं सत्यं न मोक्षः परः ॥ ३॥  
   
 मीमांसक कर्म, अकर्म और विकर्म इन तीनों के बोध को  
 कराने वाले कर्म परायण हैं, त्वं पदार्थ के बोध के निमित्त  
-साङ्ख्य शास्त्र वाले त्याग परायण हैं, संन्यासई और ब्रह्मचारी  
+साङ्ख्य शास्त्र वाले त्याग परायण हैं, सन्न्यासई और ब्रह्मचारी  
 ज्ञान के लिये विशेष इच्छा करने वाले हैं, न्याय कर्ता पातञ्जल  
 अष्टाङ्ग योग के बोध कराने में शूरवीर हैम् । यह योग का ज्ञान  
 प्रबोध का देने वाला है, परन्तु उत्कृष्ट मोक्ष का देने वाला नहीं  

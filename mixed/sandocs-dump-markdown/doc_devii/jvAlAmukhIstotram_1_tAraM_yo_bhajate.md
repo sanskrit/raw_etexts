@@ -1,25 +1,25 @@
-+++
-"Text title" = "Shri Jvalamukhi Stotram 1"
-"File name" = "jvaalaamukhiistotram.itx"
-itxtitle = "jvAlAmukhIstotram 1 (tAraM yo bhajate)"
-engtitle = "jvAlAmukhIstotram 1"
-Category = "devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar, Prakash Raj Pandey"
-Description-comments = "rudrayaamale tantre dashavidyaarahasye"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ज्वालामुखीस्तोत्रम् १ (तारं यो भजते)"
+---
+Author: Traditional
+Category: devii, dashamahAvidyA, stotra, devI
+Description-comments: rudrayaamale tantre dashavidyaarahasye
+File name: jvaalaamukhiistotram.itx
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_devii
+Proofread by: Ravin Bhalekar, Prakash Raj Pandey
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Jvalamukhi Stotram 1
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: jvAlAmukhIstotram 1
+itxtitle: jvAlAmukhIstotram 1 (tAraM yo bhajate)
+title: ज्वालामुखीस्तोत्रम् १ (तारं यो भजते)
 
-+++
+---
   
  श्रीज्वालामुखीस्तोत्रम्   
 श्रीगणेशाय नमः । श्रीभैरव उवाच ।  
@@ -72,7 +72,7 @@ title = "ज्वालामुखीस्तोत्रम् १ (ता�
 निद्रां नो भजते विधिर्भगवति शङ्का शिवं नो त्यजेद्  
      विष्णुर्व्याकुलतामलं कमलिनीकान्तोऽपि धत्ते भयम् ।  
 दृष्ट्वा देवि त्वदीयकोपदहनज्वालां ज्वलन्ति तदा  
-     देवः कुङ्कुमपीतगण्डयुगलः संक्रन्दनः क्रन्दति ॥ १३॥  
+     देवः कुङ्कुमपीतगण्डयुगलः सङ्क्रन्दनः क्रन्दति ॥ १३॥  
   
 यामाराध्य दिवानिशं सुरसरित्तीरे स्तवैरात्मभू-  
      रुद्यद्भास्वरघर्मभानुसदृशीं प्राप्तोऽमरज्येष्ठताम् ।  

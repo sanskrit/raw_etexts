@@ -1,23 +1,23 @@
-+++
-"Text title" = "Dharmapuri Ramalingeshvara Mangalashasanam"
-"File name" = "dharmapurIrAmaliNgeshvaramaNgalashAsanam.itx"
-itxtitle = "dharmapurIrAmaliNgeshvaramaNgalashAsanam (koriDe vishvanAthasharmaNAvirachitam)"
-engtitle = "dharmapurIrAmalingeshvaramangalashAsanam"
-Category = "shiva, koriDevishvanAthasharmA"
-Location = "doc_shiva"
-Author = "koriDe vishvanAthasharmA, dharmapurI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "koriDe vishvanAthasharmA"
-"Proofread by" = "koriDe vishvanAthasharmA"
-Indexextra = "(blog)"
-Acknowledge-Permission = "Koride Vishwanatha Sharma"
-"Latest update" = "February 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धर्मपुरीरामलिण्गेश्वरमण्गलशासनम् (कोरिडे विश्वनाथशर्मणाविरचितम्)"
+---
+Acknowledge-Permission: Koride Vishwanatha Sharma
+Author: koriDe vishvanAthasharmA, dharmapurI
+Category: shiva, koriDevishvanAthasharmA
+File name: dharmapurIrAmaliNgeshvaramaNgalashAsanam.itx
+Indexextra: (blog)
+Language: Sanskrit
+Latest update: February 18, 2018
+Location: doc_shiva
+Proofread by: koriDe vishvanAthasharmA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Text title: Dharmapuri Ramalingeshvara Mangalashasanam
+Transliterated by: koriDe vishvanAthasharmA
+engtitle: dharmapurIrAmalingeshvaramangalashAsanam
+itxtitle: dharmapurIrAmaliNgeshvaramaNgalashAsanam (koriDe vishvanAthasharmaNAvirachitam)
+title: धर्मपुरीरामलिण्गेश्वरमण्गलशासनम् (कोरिडे विश्वनाथशर्मणाविरचितम्)
 
-+++
+---
   
  श्रीधर्मपुरीरामलिङ्गेश्वर मङ्गलाशासनम्   
 अथ श्री धर्मपुरीरामलिङ्गेश्वर मङ्गलाशासनम्   

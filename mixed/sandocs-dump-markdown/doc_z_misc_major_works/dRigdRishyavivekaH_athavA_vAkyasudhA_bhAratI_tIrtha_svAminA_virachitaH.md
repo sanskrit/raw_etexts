@@ -1,24 +1,24 @@
-+++
-"Text title" = "Drig-Drishya-Viveka"
-"File name" = "drigdrishyaviveka.itx"
-itxtitle = "dRigdRishyavivekaH athavA vAkyasudhA (bhAratI tIrtha svAminA virachitaH)"
-engtitle = "Drig-Drishya-Viveka"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sw. Bharati Tirtha [Sringeri Mathadhipati 1328-1380]"
-Language = "Sanskrit"
-Subject = "Vedanta Philosophy"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "A prakarana grantha on Vedanta"
-"Latest update" = "April 17, 2003, November 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दृइग्दृइश्यविवेकः अथवा वाक्यसुधा (भारती तीर्थ स्वामिना विरचितः)"
+---
+Author: Sw. Bharati Tirtha [Sringeri Mathadhipati 1328-1380]
+Category: major_works
+Description-comments: A prakarana grantha on Vedanta
+File name: drigdrishyaviveka.itx
+Language: Sanskrit
+Latest update: April 17, 2003, November 14, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Vedanta Philosophy
+Sublocation: major_works
+Text title: Drig-Drishya-Viveka
+Texttype: pramukha
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Drig-Drishya-Viveka
+itxtitle: dRigdRishyavivekaH athavA vAkyasudhA (bhAratI tIrtha svAminA virachitaH)
+title: दृइग्दृइश्यविवेकः अथवा वाक्यसुधा (भारती तीर्थ स्वामिना विरचितः)
 
-+++
+---
   
  दृग्दृश्यविवेकः अथवा वाक्यसुधा   
 भारती तीर्थ स्वामिना विरचितः  

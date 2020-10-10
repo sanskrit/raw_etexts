@@ -1,23 +1,23 @@
-+++
-"Text title" = "dattAtreyastavaH"
-"File name" = "dattAtreyastavaH.itx"
-itxtitle = "dattAtreyastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "dattAtreyastavaH"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, dattatreya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, dattatreya
+File name: dattAtreyastavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattAtreyastavaH
+engtitle: dattAtreyastavaH
+itxtitle: dattAtreyastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: दत्तात्रेयस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीदत्तात्रेयस्तवः   
 दत्तात्रेयपदाब्जं वित्ताधीशाधिदेववर्येड्यम् ।  

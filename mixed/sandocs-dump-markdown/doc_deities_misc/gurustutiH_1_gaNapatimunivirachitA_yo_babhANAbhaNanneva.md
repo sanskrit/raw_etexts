@@ -1,26 +1,27 @@
-+++
-"Text title" = "gurustutiH 1"
-"File name" = "shrIgurustutiH.itx"
-itxtitle = "gurustutiH 1 (gaNapatimunivirachitA yo babhANAbhaNanneva)"
-engtitle = "gurustutiH 1"
-Category = "deities_misc, gurudev, stotra, gaNapati-muni, ramaNa-maharShi"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "stotra"
-Author = "Ganapati Muni with Ramana Maharshi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Description-comments = "From The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol 1"
-Indexextra = "(Collected Works)"
-"Latest update" = "November 24, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुस्तुतिः १ (गणपतिमुनिविरचिता यो बभाणाभणन्नेव)"
+---
+Author: Ganapati Muni with Ramana Maharshi
+Category: deities_misc, gurudev, stotra, gaNapati-muni, ramaNa-maharShi
+Description-comments: From The Collected Works of Vasishtha Kavyakantha Ganapati Muni
+  Vol 1
+File name: shrIgurustutiH.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: November 24, 2012
+Location: doc_deities_misc
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurustutiH 1
+Texttype: stotra
+Transliterated by: DPD
+engtitle: gurustutiH 1
+itxtitle: gurustutiH 1 (gaNapatimunivirachitA yo babhANAbhaNanneva)
+title: गुरुस्तुतिः १ (गणपतिमुनिविरचिता यो बभाणाभणन्नेव)
 
-+++
+---
   
  श्रीगुरुस्तुती   
   
@@ -28,7 +29,7 @@ title = "गुरुस्तुतिः १ (गणपतिमुनिव�
 दक्षिणामूर्तये तस्मै प्रज्ञानगुरवे नमः ॥ १॥  
   
 स्थापितं ब्रह्मनिष्ठेन येनाद्वैतमतं भुवि ।  
-तस्मै शङ्करसंज्ञाय विज्ञानगुरवे नमः ॥ २॥  
+तस्मै शङ्करसञ्ज्ञाय विज्ञानगुरवे नमः ॥ २॥  
   
 अंशावतारः स्कन्दस्य विश्वाचार्यो विदां वरः ।  
 प्रणम्यते महाभागो रमणो भगवानृषिः ॥ ३॥  

@@ -1,23 +1,24 @@
-+++
-"Text title" = "dattaprabodhaH"
-"File name" = "dattaprabodhaH.itx"
-itxtitle = "dattaprabodhaH (vAsudevAnandasarasvatIvirachitaH)"
-engtitle = "dattaprabodhaH"
-Category = "deities_misc, dattatreya, vAsudevAnanda-sarasvatI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "Shri Vasudevanandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "February 10, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तप्रबोधः (वासुदेवानन्दसरस्वतीविरचितः)"
+---
+Author: Shri Vasudevanandasarasvati
+Category: deities_misc, dattatreya, vAsudevAnanda-sarasvatI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: dattaprabodhaH.itx
+Language: Sanskrit
+Latest update: February 10, 2017
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattaprabodhaH
+engtitle: dattaprabodhaH
+itxtitle: dattaprabodhaH (vAsudevAnandasarasvatIvirachitaH)
+title: दत्तप्रबोधः (वासुदेवानन्दसरस्वतीविरचितः)
 
-+++
+---
   
  दत्तप्रबोधः   
   
@@ -40,7 +41,7 @@ title = "दत्तप्रबोधः (वासुदेवानन्द
   
 आयात्यशेषविनुतोऽप्यवगाहनाय  
      दत्तोऽधुनेति सुरसिन्धुरपेक्षते त्वाम् ।  
-क्षेत्रे तथैव कुरुसंज्ञक एत्य सिद्धा-  
+क्षेत्रे तथैव कुरुसञ्ज्ञक एत्य सिद्धा-  
      स्तस्थुस्तवाचमनदेश इनोदयात्प्राक् ॥ ४॥  
   
 सन्ध्यामुपासितुमजोऽप्यधुना गमिष्य-  
@@ -48,7 +49,7 @@ title = "दत्तप्रबोधः (वासुदेवानन्द
 कृष्णातटेऽपि नरसिंहसुवाटिकायां  
      सारार्तिकः कृतिजनः प्रतिवीक्षते त्वाम् ॥ ५॥  
   
-गान्धर्वसंज्ञकपुरेऽपि सुभाविकास्ते  
+गान्धर्वसञ्ज्ञकपुरेऽपि सुभाविकास्ते  
      ध्यानार्थमत्र भगवान्समुपैष्यतीति ।  
 मत्वास्थुराचरितसन्नियताप्लवाद्या  
      उत्तिष्ठ देव भगवन्नत एव शीघ्रम् ॥ ६॥  

@@ -3,7 +3,6 @@ title: 051 Guha requests Lakshmana to take rest
 title_english: 051 Guha requests Lakshmana to take rest
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-051-Guha_Lakshmana_Samvadhaha.mp3"></div>
 
 तम् जाग्रतम् अदम्भेन भ्रातुर् अर्थाय लक्ष्मणम् ।  
@@ -18,7 +17,7 @@ title_english: 051 Guha requests Lakshmana to take rest
 धर्म अवाप्तिम् च विपुलाम् अर्थ अवाप्तिम् च केवलाम् ॥ २-५१-५  
 सो अहम् प्रिय सखम् रामम् शयानम् सह सीतया ।  
 रक्षिष्यामि धनुष् पाणिः सर्वतः ज्ञातिभिः सह ॥ २-५१-६  
-न हि मे अविदितम् किंचित् वने अस्मिमः चरतः सदा ।  
+न हि मे अविदितम् किञ्चित् वने अस्मिमः चरतः सदा ।  
 चतुर् अन्गम् हि अपि बलम् सुमहत् प्रसहेमहि ॥ २-५१-७  
 लक्ष्मणः तम् तदा उवाच रक्ष्यमाणाः त्वया अनघ ।  
 न अत्र भीता वयम् सर्वे धर्मम् एव अनुपश्यता ॥ २-५१-८  
@@ -62,4 +61,4 @@ title_english: 051 Guha requests Lakshmana to take rest
 नर इन्द्र पुत्रे गुरु सौहृदात् गुहः ।  
 मुमोच बाष्पम् व्यसन अभिपीडितः ।  
 ज्वरा आतुरः नागैव व्यथा आतुरः ॥ २-५१-२७  
-इति वाल्मीकि रामायणे आदि काव्ये अयोध्य काण्डे एकपंचाशः सर्गः
+इति वाल्मीकि रामायणे आदि काव्ये अयोध्य काण्डे एकपञ्चाशः सर्गः

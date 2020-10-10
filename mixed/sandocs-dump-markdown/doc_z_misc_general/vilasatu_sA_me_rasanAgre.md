@@ -1,24 +1,24 @@
-+++
-"Text title" = "Vilasatu Sa Me Rasanagre"
-"File name" = "vilasatusAmerasanAgre.itx"
-itxtitle = "vilasatu sA me rasanAgre"
-engtitle = "vilasatu sA me rasanAgre"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "shrI manjunAthasharmA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विलसतु सा मे रसनाग्रे"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: shrI manjunAthasharmA
+Category: misc, sanskritgeet
+File name: vilasatusAmerasanAgre.itx
+Indexextra: (Wiki, Videos 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Vilasatu Sa Me Rasanagre
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: vilasatu sA me rasanAgre
+itxtitle: vilasatu sA me rasanAgre
+title: विलसतु सा मे रसनाग्रे
 
-+++
+---
   
  विलसतु सा मे रसनाग्रे   
 विलसतु सा मे रसनाग्रे  

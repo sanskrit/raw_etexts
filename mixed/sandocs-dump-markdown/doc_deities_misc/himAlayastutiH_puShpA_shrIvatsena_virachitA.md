@@ -1,24 +1,24 @@
-+++
-"Text title" = "himAlayastuti"
-"File name" = "himAlayastuti.itx"
-itxtitle = "himAlayastutiH (puShpA shrIvatsena virachitA)"
-engtitle = "himAlayastuti"
-Category = "deities_misc, puShpAshrIvatsan"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-"Latest update" = "December 5, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हिमालयस्तुतिः (पुष्पा श्रीवत्सेन विरचिता)"
+---
+Author: Pushpa Srivatsan
+Category: deities_misc, puShpAshrIvatsan
+File name: himAlayastuti.itx
+Language: Sanskrit
+Latest update: December 5, 2017
+Location: doc_deities_misc
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: himAlayastuti
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: himAlayastuti
+itxtitle: himAlayastutiH (puShpA shrIvatsena virachitA)
+title: हिमालयस्तुतिः (पुष्पा श्रीवत्सेन विरचिता)
 
-+++
+---
   
  हिमालयस्तुतिः   
                  ॐ  

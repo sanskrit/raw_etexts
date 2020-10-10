@@ -1,25 +1,26 @@
-+++
-"Text title" = "AdyA stotram"
-"File name" = "AdyA.itx"
-itxtitle = "AdyAstotram"
-engtitle = "AdyA stotram"
-Category = "devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Kunal Mukherjee"
-"Proofread by" = "Kunal Mukherjee and Sunder Hattangadi"
-Description-comments = "brahmayAmala.  It is ment for AdyAshakti mahAmayA in form of kAlI"
-Indexextra = "(meaning and  audio)"
-"Latest update" = "March 22, 2006, September 17, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आद्यास्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, stotra, devI
+Description-comments: brahmayAmala.  It is ment for AdyAshakti mahAmayA in form of
+  kAlI
+File name: AdyA.itx
+Indexextra: (meaning and  audio)
+Language: Sanskrit
+Latest update: March 22, 2006, September 17, 2014
+Location: doc_devii
+Proofread by: Kunal Mukherjee and Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: Hinduism/religion/traditional
+Sublocation: devii
+Text title: AdyA stotram
+Texttype: stotra
+Transliterated by: Kunal Mukherjee
+engtitle: AdyA stotram
+itxtitle: AdyAstotram
+title: आद्यास्तोत्रम्
 
-+++
+---
   
  आद्यास्तोत्रम्   
   

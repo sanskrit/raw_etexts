@@ -1,24 +1,24 @@
-+++
-"Text title" = "Hansa Upanishad"
-"File name" = "hansa.itx"
-itxtitle = "ha.nsopaniShat"
-engtitle = "Hansa Upanishad  15"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "15/108; Shukla-Yajur-Veda, Yoga Upanishad"
-Indexextra = "(Translation)"
-"Latest update" = "September 29, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हंसोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 15/108; Shukla-Yajur-Veda, Yoga Upanishad
+File name: hansa.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: September 29, 1999
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Hansa Upanishad
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Hansa Upanishad  15
+itxtitle: ha.nsopaniShat
+title: हंसोपनिषत्
 
-+++
+---
   
  हंसोपनिषत्   
   
@@ -35,7 +35,7 @@ title = "हंसोपनिषत्"
 विचार्य सर्ववेदेषु मतं ज्ञात्वा पिनाकिनः ।  
 पार्वत्या कथितं तत्त्वं शृणु गौतम तन्मम ॥ २॥  
   
-अनाख्येयमिदं गुह्यं योगिनां कोशसंनिभम् ।  
+अनाख्येयमिदं गुह्यं योगिनां कोशसन्निभम् ।  
 हंसस्याकृतिविस्तारं भुक्तिमुक्तिफलप्रदम् ॥ ३॥  
   
 अथ हंसपरमहंसनिर्णयं व्याख्यास्यामः ।  
@@ -86,10 +86,10 @@ title = "हंसोपनिषत्"
 गूढविज्ञानं परा वाचा तथाष्टमे ॥  
   
 अदृश्यं नवमे देहं दिव्यं चक्षुस्तथामलम् । दशमे  
-परमं ब्रह्म भवेद्ब्रह्मात्मसंनिधौ ॥  
+परमं ब्रह्म भवेद्ब्रह्मात्मसन्निधौ ॥  
   
 तस्मिन्मनो विलीयते मनसि सङ्कल्पविकल्पे दग्धे पुण्यपापे  
-सदाशिवः शक्त्यात्मा सर्वत्रावस्थितः स्वयंज्योतिः शुद्धो  
+सदाशिवः शक्त्यात्मा सर्वत्रावस्थितः स्वयञ्ज्योतिः शुद्धो  
 बुद्धो नित्यो निरञ्जनः शान्तः प्रकाशत इति ॥  
   
 इति वेदप्रवचनं वेदप्रवचनम् ॥ २॥  

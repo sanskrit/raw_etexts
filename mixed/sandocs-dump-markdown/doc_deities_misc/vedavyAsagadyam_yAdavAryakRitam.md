@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Veda Vyasa Gadyam"
-"File name" = "vedavyAsagadyam.itx"
-itxtitle = "vedavyAsagadyam (yAdavAryakRitam)"
-engtitle = "vedavyAsagadyam"
-Category = "deities_misc, gurudev, gadyam"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Yadavarya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वेदव्यासगद्यम् (यादवार्यकृइतम्)"
+---
+Author: Yadavarya
+Category: deities_misc, gurudev, gadyam
+File name: vedavyAsagadyam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Veda Vyasa Gadyam
+Transliterated by: Krishnananda Achar
+engtitle: vedavyAsagadyam
+itxtitle: vedavyAsagadyam (yAdavAryakRitam)
+title: वेदव्यासगद्यम् (यादवार्यकृइतम्)
 
-+++
+---
   
  श्रीवेदव्यासगद्यम्   
 शुद्धानन्दोरुसंविद्द्युतिबलबहुलौदार्यवीर्यसौन्दर्य प्रागल्भ्य  

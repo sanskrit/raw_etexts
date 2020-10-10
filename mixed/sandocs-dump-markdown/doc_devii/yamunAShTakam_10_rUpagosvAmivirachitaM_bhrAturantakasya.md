@@ -1,25 +1,27 @@
-+++
-"Text title" = "yamunAShTakam 10"
-"File name" = "yamunAShTakam10.itx"
-itxtitle = "yamunAShTakam 10 (rUpagosvAmivirachitaM bhrAturantakasya)"
-engtitle = "yamunAShTakam 10"
-Category = "devii, krishna, rUpagosvAmin, stavamAlA, aShTaka, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Rupagoswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional Prayers stavamAlA"
-Indexextra = "(Scan, Bengali, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनाष्टकम् १० (रूपगोस्वामिविरचितं भ्रातुरन्तकस्य)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Rupagoswami
+Category: devii, krishna, rUpagosvAmin, stavamAlA, aShTaka, nadI, devI
+Description/comments: From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional
+  Prayers stavamAlA
+File name: yamunAShTakam10.itx
+Indexextra: (Scan, Bengali, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunAShTakam 10
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: yamunAShTakam 10
+itxtitle: yamunAShTakam 10 (rUpagosvAmivirachitaM bhrAturantakasya)
+title: यमुनाष्टकम् १० (रूपगोस्वामिविरचितं भ्रातुरन्तकस्य)
 
-+++
+---
   
  श्रीयमुनाष्टकम्   
 भ्रातुरन्तकस्य पत्तनेऽभिपत्तिहारिणी  

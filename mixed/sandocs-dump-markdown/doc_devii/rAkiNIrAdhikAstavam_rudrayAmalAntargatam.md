@@ -1,26 +1,26 @@
-+++
-"Text title" = "Rakini Radhika Stavam"
-"File name" = "rAkiNIrAdhikAstavam.itx"
-itxtitle = "rAkiNIrAdhikAstavam (rudrayAmalAntargatam)"
-engtitle = "rAkiNIrAdhikAstavam"
-Category = "devii, ShaTchakrashakti, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राकिणीराधिकास्तवम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: devii, ShaTchakrashakti, devI
+Description/comments: rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde
+File name: rAkiNIrAdhikAstavam.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Rakini Radhika Stavam
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: rAkiNIrAdhikAstavam
+itxtitle: rAkiNIrAdhikAstavam (rudrayAmalAntargatam)
+title: राकिणीराधिकास्तवम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  राकिणीराधिकास्तवम्   
 आन्दोलिता रसनिधौ कुलचञ्चला या  
@@ -34,7 +34,7 @@ title = "राकिणीराधिकास्तवम् (रुद्र
 कृष्णेश्वरी समुदयं कुरु राकिणी मे ॥ ४१-१९॥  
   
 या राकिणी त्रिजगतामुदयाय चेष्टा  
-संज्ञामयी कुलवती कुलवल्लभस्था ।  
+सञ्ज्ञामयी कुलवती कुलवल्लभस्था ।  
 विश्वेश्वरी स्मरहरप्रियकर्मनिष्ठा  
 कृष्णप्रिया मम सुखं परिपातु देवी ॥ ४१-२०॥  
   

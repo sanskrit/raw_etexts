@@ -1,24 +1,24 @@
-+++
-"Text title" = "bhArgavakavacham"
-"File name" = "bhArgavakavacham.itx"
-itxtitle = "bhArgavakavacham (viShNuyAmalatantrArgatam)"
-engtitle = "Shri BhArgavakavacham"
-Category = "kavacha, vishhnu, vishnu_misc, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com, NA"
-Description-comments = "From @@Bhagvan Parashuram@@ by Dr. Viracharya Shastri"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "July 21, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भार्गवकवचम् (विष्णुयामलतन्त्रार्गतम्)"
+---
+Category: kavacha, vishhnu, vishnu_misc, vishnu
+Description-comments: From @@Bhagvan Parashuram@@ by Dr. Viracharya Shastri
+File name: bhArgavakavacham.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: July 21, 2014
+Location: doc_vishhnu
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: bhArgavakavacham
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: Shri BhArgavakavacham
+itxtitle: bhArgavakavacham (viShNuyAmalatantrArgatam)
+title: भार्गवकवचम् (विष्णुयामलतन्त्रार्गतम्)
 
-+++
+---
   
  श्रीभार्गवकवचम्   
   
@@ -168,7 +168,7 @@ title = "भार्गवकवचम् (विष्णुयामलतन
 आसेचितादिव तरोः फलं नाप्नोति सद्रसम् ॥ ३९॥  
   
 जयकामो भूर्जपत्रे रक्तबिन्दुभिरुज्जवलैः ।  
-लिखित्वावर्तयेद्रात्रौ कवचंशतसंख्यया ॥ ४०॥  
+लिखित्वावर्तयेद्रात्रौ कवचंशतसङ्ख्यया ॥ ४०॥  
   
 सम्पूज्य धूपदीपाद्यैर्ध्यात्वा च हृदि भार्गवम् ।  
 हस्ते बध्वा रणं गत्वा विजयश्रियमाप्नुयात् ॥ ४१॥  
@@ -182,7 +182,7 @@ title = "भार्गवकवचम् (विष्णुयामलतन
 श्रीकामस्तु महेन्द्राद्रेर्द्रोणिं गत्वा मनोहराम् ।  
 तत्र मण्डलमास्थाय चण्डभानुं विलोकयन् ॥ ४४॥  
   
-जपेदिदं महद्वर्म प्रत्यहं शतसंख्यया ।  
+जपेदिदं महद्वर्म प्रत्यहं शतसङ्ख्यया ।  
 मण्डलान्ते श्रियं श्रेष्ठा लभते भार्गवाज्ञया ॥ ४५॥  
   
 सिद्धयो विविधास्तस्य दिव्यज्योतिर्लतालयः ।  

@@ -1,25 +1,26 @@
-+++
-"Text title" = "prArthanAshrayachaturdashakam"
-"File name" = "prArthanAshrayachaturdashakam.itx"
-itxtitle = "prArthanAshrayachaturdashakam (raghunAthadAsagosvAmivirachitam)"
-engtitle = "prArthanAshrayachaturdashakam"
-Category = "devii, radha, raghunAthadAsagosvAmin, stavAvalI, dashaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रार्थनाश्रयचतुर्दशकम् (रघुनाथदासगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: devii, radha, raghunAthadAsagosvAmin, stavAvalI, dashaka, devI
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: prArthanAshrayachaturdashakam.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: prArthanAshrayachaturdashakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: prArthanAshrayachaturdashakam
+itxtitle: prArthanAshrayachaturdashakam (raghunAthadAsagosvAmivirachitam)
+title: प्रार्थनाश्रयचतुर्दशकम् (रघुनाथदासगोस्वामिविरचितम्)
 
-+++
+---
   
  श्रीप्रार्थनाश्रयचतुर्दशकम्   
 अलं दीपावल्यां विपुलरति गोवर्धनगिरिं  

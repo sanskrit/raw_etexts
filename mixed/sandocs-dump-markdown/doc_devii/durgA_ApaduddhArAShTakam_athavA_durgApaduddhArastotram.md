@@ -1,24 +1,24 @@
-+++
-"Text title" = "durgaa aapaduddhaaraaShTakam.h"
-"File name" = "durga-a8.itx"
-itxtitle = "durgA ApaduddhArAShTakam athavA durgApaduddhArastotram"
-engtitle = "DurgA ApaduddhArAShTakam or durgApaduddhArastotram"
-Category = "aShTaka, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "Devotional"
-"Transliterated by" = "Kapila Shankaran Love kapilalove at gmail.com"
-"Proofread by" = "Kapila Shankaran Love, Nat Natarajan"
-Description-comments = "siddheshvarItantre"
-Source = "Brihatstotraratnakara 408"
-"Latest update" = "May 30, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गा आपदुद्धाराष्टकम् अथवा दुर्गापदुद्धारस्तोत्रम्"
+---
+Category: aShTaka, devii, durgA, devI
+Description-comments: siddheshvarItantre
+File name: durga-a8.itx
+Language: Sanskrit
+Latest update: May 30, 2016
+Location: doc_devii
+Proofread by: Kapila Shankaran Love, Nat Natarajan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Brihatstotraratnakara 408
+SubDeity: durgA
+Subject: Devotional
+Sublocation: devii
+Text title: durgaa aapaduddhaaraaShTakam.h
+Transliterated by: Kapila Shankaran Love kapilalove at gmail.com
+engtitle: DurgA ApaduddhArAShTakam or durgApaduddhArastotram
+itxtitle: durgA ApaduddhArAShTakam athavA durgApaduddhArastotram
+title: दुर्गा आपदुद्धाराष्टकम् अथवा दुर्गापदुद्धारस्तोत्रम्
 
-+++
+---
   
  श्रीदुर्गा आपदुद्धाराष्टकम् अथवा दुर्गापदुद्धारस्तोत्रम्   
 दुर्गापदुद्धारस्तवराजः  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "lakShmInArAyaNastotram 1"
-"File name" = "lakShmInArAyaNastotram.itx"
-itxtitle = "lakShmInArAyaNastotram 1 (lokodbhavasthe malayeshvarAbhyAm)"
-engtitle = "lakShmInArAyaNastotram 1"
-Category = "vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनारायणस्तोत्रम् १ (लोकोद्भवस्थे मलयेश्वराभ्याम्)"
+---
+Category: vishhnu, vishnu
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: lakShmInArAyaNastotram.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: lakShmInArAyaNastotram 1
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: lakShmInArAyaNastotram 1
+itxtitle: lakShmInArAyaNastotram 1 (lokodbhavasthe malayeshvarAbhyAm)
+title: लक्ष्मीनारायणस्तोत्रम् १ (लोकोद्भवस्थे मलयेश्वराभ्याम्)
 
-+++
+---
   
  लक्ष्मीनारायणस्तोत्रम्   
   

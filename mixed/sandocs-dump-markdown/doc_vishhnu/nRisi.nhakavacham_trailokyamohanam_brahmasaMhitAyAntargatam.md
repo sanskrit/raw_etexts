@@ -1,24 +1,25 @@
-+++
-"Text title" = "nRRisiMhakavacham brahmasaMhitAyAm"
-"File name" = "nRRisiMhakavacham.itx"
-itxtitle = "nRisi.nhakavacham trailokyamohanam (brahmasaMhitAyAntargatam)"
-engtitle = "Nrisimha Kavacham from Brahmasamhita"
-Category = "kavacha, vishhnu, dashAvatAra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brahmasamhita"
-Source = "https://archive.org/details/HindiBook-danikPrarthnastrotaKavach Pages 50-51"
-"Latest update" = "July 21, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहकवचम् त्रैलोक्यमोहनम् (ब्रह्मसंहितायान्तर्गतम्)"
+---
+Category: kavacha, vishhnu, dashAvatAra, vishnu
+Description-comments: Brahmasamhita
+File name: nRRisiMhakavacham.itx
+Language: Sanskrit
+Latest update: July 21, 2013
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: https://archive.org/details/HindiBook-danikPrarthnastrotaKavach Pages 50-51
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nRRisiMhakavacham brahmasaMhitAyAm
+Transliterated by: Dinesh Agarwal
+engtitle: Nrisimha Kavacham from Brahmasamhita
+itxtitle: nRisi.nhakavacham trailokyamohanam (brahmasaMhitAyAntargatam)
+title: नृइसिंहकवचम् त्रैलोक्यमोहनम् (ब्रह्मसंहितायान्तर्गतम्)
 
-+++
+---
   
  नृसिंहकवचं ब्रह्मसंहितायाम्   
   

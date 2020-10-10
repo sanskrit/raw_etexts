@@ -1,22 +1,23 @@
-+++
-"Text title" = "hanUmachchaturviMshatiH"
-"File name" = "hanUmachchaturviMshatiH.itx"
-itxtitle = "hanUmachchaturviMshatiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "hanUmachchaturviMshatiH"
-Category = "hanumaana, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, chaturviMshati, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनूमच्चतुर्विंशतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: hanumaana, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, chaturviMshati,
+  hanuman
+File name: hanUmachchaturviMshatiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanUmachchaturviMshatiH
+engtitle: hanUmachchaturviMshatiH
+itxtitle: hanUmachchaturviMshatiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: हनूमच्चतुर्विंशतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीहनूमच्चतुर्विंशतिः   
 यो बाल्येऽपि दिनेशं प्रोद्यन्तं पक्वदिव्यफलबुद्ध्या ।  
@@ -31,7 +32,7 @@ title = "हनूमच्चतुर्विंशतिः (शिवाभ
 लङ्कापुराधिदैवतगर्वं वेगाच्चपेटिकादानात् ।  
 निर्मूलं यश्चक्रे वन्दे तं वायुसूनुममितबलम् ॥ ४॥  
   
-गोष्पदवत्सरितांनिधिमुल्लङ्घ्याशोकविपिनगां सीताम् ।  
+गोष्पदवत्सरितान्निधिमुल्लङ्घ्याशोकविपिनगां सीताम् ।  
 अद्राक्षीद्भयरहितो यस्तं प्रणमामि शिंशुपामूले ॥ ५॥  
   
 रामादेशश्रवणानन्दादुद्धूतशोकगन्धां यः ।  
@@ -46,7 +47,7 @@ title = "हनूमच्चतुर्विंशतिः (शिवाभ
 सीताप्रोदितवचनान्यशेषतो यो निवेद्य रघुवीरम् ।  
 चक्रे चिन्तारहितं वन्दे तं चिन्तितार्थदं नमताम् ॥ ९॥  
   
-समरे वक्षसि येन प्रहतः संमूर्छितः ससंज्ञोऽथ ।  
+समरे वक्षसि येन प्रहतः सम्मूर्छितः ससञ्ज्ञोऽथ ।  
 प्रशशंस रावणो यं तमतिबलानन्दवर्धनं नौमि ॥ १०॥  
   
 ओषधिगिरिमतिवेगाद्गत्वाऽऽनीय प्रवृद्धदिव्यतनुः ।  

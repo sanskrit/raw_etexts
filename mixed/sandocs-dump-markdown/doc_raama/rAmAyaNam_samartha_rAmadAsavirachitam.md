@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrimad rAmAyaNa samartha rAmadAsavirachitam"
-"File name" = "rAmAyaNarAmadAsa.itx"
-itxtitle = "rAmAyaNam (samartha rAmadAsavirachitam)"
-engtitle = "mad rAmAyaNam by Samartha Ramadas Swami"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "May 16, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामायणम् (समर्थ रामदासविरचितम्)"
+---
+Category: raama
+File name: rAmAyaNarAmadAsa.itx
+Language: Sanskrit
+Latest update: May 16, 2011
+Location: doc_raama
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: shrimad rAmAyaNa samartha rAmadAsavirachitam
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: mad rAmAyaNam by Samartha Ramadas Swami
+itxtitle: rAmAyaNam (samartha rAmadAsavirachitam)
+title: रामायणम् (समर्थ रामदासविरचितम्)
 
-+++
+---
   
  श्रीमद्रामायणं समर्थरामदासविरचितम्   
   
@@ -23,7 +23,7 @@ INTRODUCTION:-
 Srimad Bhagavatam says (11-5-38) that menwho were born in Krita and  
 other earlier ages long to be born in Kali Yuga for it is in Kali that  
 great devotees of the Lord appear.  
-कृतादिषु प्रजा राजन् कलाविच्छन्ति संभवम्।  
+कृतादिषु प्रजा राजन् कलाविच्छन्ति सम्भवम्।  
 कलौ खलु भविष्यन्ति नारायणपरायणाः ॥  
 True to this statement the history of India is marked by the appearance  
 of a galaxy of great devotees and saints from time to time. They had  

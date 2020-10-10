@@ -1,26 +1,26 @@
-+++
-"Text title" = "lakshmiinRisi.nhapancharatnam"
-"File name" = "laxm-nri.itx"
-itxtitle = "lakShmInRisi.nhapancharatnam"
-engtitle = "LaxmI-Nrisinha PancharatnaStotra"
-Category = "pancharatna, vishhnu, dashAvatAra, shankarAchArya, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Latest update" = "December 1, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनृइसिंहपञ्चरत्नम्"
+---
+Author: Shankaracharya
+Category: pancharatna, vishhnu, dashAvatAra, shankarAchArya, vishnu
+File name: laxm-nri.itx
+Language: Sanskrit
+Latest update: December 1, 1999
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: lakshmiinRisi.nhapancharatnam
+engtitle: LaxmI-Nrisinha PancharatnaStotra
+itxtitle: lakShmInRisi.nhapancharatnam
+title: लक्ष्मीनृइसिंहपञ्चरत्नम्
 
-+++
+---
   
  श्रीलक्ष्मीनृसिंहपञ्चरत्नम्   
   
 त्वत्प्रभुजीवप्रियमिच्छसि चेन्नरहरिपूजां कुरु सततं  
-  प्रतिबिम्बालंकृतिधृतिकुशलो बिम्बालंकृतिमातनुते ।  
+  प्रतिबिम्बालङ्कृतिधृतिकुशलो बिम्बालङ्कृतिमातनुते ।  
 चेतोभृङ्ग भ्रमसि वृथा भवमरुभूमौ विरसायां  
   भज भज लक्ष्मीनरसिंहानघपदसरसिजमकरन्दम् ॥ १॥  
   
@@ -46,7 +46,7 @@ title = "लक्ष्मीनृइसिंहपञ्चरत्नम�
   
       इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
       श्री गोविन्द भगवत्पूज्यपाद शिष्यस्य  
-      श्रीमच्छंकर भगवतः कृतौ  
+      श्रीमच्छङ्कर भगवतः कृतौ  
       लक्ष्मीनृसिंह पञ्चरत्नम् सम्पूर्णम् ॥  
   
   

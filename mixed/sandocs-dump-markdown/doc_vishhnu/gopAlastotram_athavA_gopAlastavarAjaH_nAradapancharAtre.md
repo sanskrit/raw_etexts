@@ -1,24 +1,24 @@
-+++
-"Text title" = "gopAlastotra"
-"File name" = "gopaalastotra.itx"
-itxtitle = "gopAlastotram athavA gopAlastavarAjaH (nAradapancharAtre)"
-engtitle = "gopAlastotra"
-Category = "stavarAja, vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "nAradapa.ncharAtra"
-"Latest update" = "January 16, 2005, January 22, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपालस्तोत्रम् अथवा गोपालस्तवराजः (नारदपञ्चरात्रे)"
+---
+Author: Traditional
+Category: stavarAja, vishhnu, krishna, stotra, vishnu
+Description-comments: nAradapa.ncharAtra
+File name: gopaalastotra.itx
+Language: Sanskrit
+Latest update: January 16, 2005, January 22, 2017
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopAlastotra
+Texttype: stotra
+engtitle: gopAlastotra
+itxtitle: gopAlastotram athavA gopAlastavarAjaH (nAradapancharAtre)
+title: गोपालस्तोत्रम् अथवा गोपालस्तवराजः (नारदपञ्चरात्रे)
 
-+++
+---
   
  गोपालस्तोत्रं अथवा गोपालस्तवराजस्तोत्रम्   
   
@@ -46,7 +46,7 @@ title = "गोपालस्तोत्रम् अथवा गोपाल
 स्थूलं मुक्ताफलोदारहारोद्योतितवक्षसम् ॥ ३॥  
   
 हेमाङ्गदतुलाकोटिकिरीटोज्ज्वलविग्रहम् ।  
-मन्दमारुतसंक्षोभचलिताम्बरसञ्चयम् ॥ ४॥  
+मन्दमारुतसङ्क्षोभचलिताम्बरसञ्चयम् ॥ ४॥  
   
 रुचिरौष्ठपुटन्यस्तवंशीमधुरनिःस्वनैः ।  
 लसद्गोपालिकाचेतो मोहयन्तं पुनः पुनः ॥ ५॥  

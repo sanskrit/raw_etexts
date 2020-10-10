@@ -1,22 +1,22 @@
-+++
-"Text title" = "guruvAyupureshabhujangastotram"
-"File name" = "guruvAyupureshabhujangastotram.itx"
-itxtitle = "guruvAyupureshabhujaNgastotram"
-engtitle = "guruvAyupureshabhujangastotram"
-Category = "vishhnu, krishna, bhujanga"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Kodungallur Kunhikkuttan Thampuran"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "December 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुवायुपुरेशभुजण्गस्तोत्रम्"
+---
+Author: Kodungallur Kunhikkuttan Thampuran
+Category: vishhnu, krishna, bhujanga
+File name: guruvAyupureshabhujangastotram.itx
+Language: Sanskrit
+Latest update: December 2, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: guruvAyupureshabhujangastotram
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: guruvAyupureshabhujangastotram
+itxtitle: guruvAyupureshabhujaNgastotram
+title: गुरुवायुपुरेशभुजण्गस्तोत्रम्
 
-+++
+---
   
  गुरुवायुपुरेशभुजङ्गस्तोत्रम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "tANDaveshvarItANDaveshvarAShTottarashatanAmAvalI"
-"File name" = "tANDaveshvarItAnDaveshvara108.itx"
-itxtitle = "tANDaveshvarItANDaveshvarAShTottarashatanAmAvaliH (chidambararahasyAntargatam)"
-engtitle = "108 Names of tANDaveshvarI and tANDaveshvara"
-Category = "aShTottarashatanAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, DPD, PSA Easwaran"
-Source = "Chidambararahasya"
-"Latest update" = "February 11, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ताण्डवेश्वरीताण्डवेश्वराष्टोत्तरशतनामावलिः (चिदम्बररहस्यान्तर्गतम्)"
+---
+Category: aShTottarashatanAmAvalI, shiva
+File name: tANDaveshvarItAnDaveshvara108.itx
+Language: Sanskrit
+Latest update: February 11, 2017
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, DPD, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Chidambararahasya
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: tANDaveshvarItANDaveshvarAShTottarashatanAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: 108 Names of tANDaveshvarI and tANDaveshvara
+itxtitle: tANDaveshvarItANDaveshvarAShTottarashatanAmAvaliH (chidambararahasyAntargatam)
+title: ताण्डवेश्वरीताण्डवेश्वराष्टोत्तरशतनामावलिः (चिदम्बररहस्यान्तर्गतम्)
 
-+++
+---
   
  श्रीताण्डवेश्वरीताण्डवेश्वर सम्मेलनाष्टोत्तरशतनामानि   
 चिदम्बररहस्योक्तानि  

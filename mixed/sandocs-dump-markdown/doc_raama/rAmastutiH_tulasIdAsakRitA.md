@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAmastuti (tulasIdAsa)"
-"File name" = "rAmastuti.itx"
-itxtitle = "rAmastutiH (tulasIdAsakRitA)"
-engtitle = "rAmastuti (tulasIdAsa)"
-Category = "raama, stotra"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Girish Beeharry"
-"Proofread by" = "Girish Beeharry"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामस्तुतिः (तुलसीदासकृइता)"
+---
+Category: raama, stotra
+File name: rAmastuti.itx
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_raama
+Proofread by: Girish Beeharry
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmastuti (tulasIdAsa)
+Texttype: stotra
+Transliterated by: Girish Beeharry
+engtitle: rAmastuti (tulasIdAsa)
+itxtitle: rAmastutiH (tulasIdAsakRitA)
+title: रामस्तुतिः (तुलसीदासकृइता)
 
-+++
+---
   
  श्रीरामस्तुती ( तुलसीदास )   
   
@@ -26,11 +26,11 @@ Encoded and proofread by Girish Beeharry (gkb at ast.cam.ac.uk)
 श्रीरामचन्द्र कृपालु भजु मन     हरण भवभय दारुणम् ।  
 नवकञ्ज लोचन कञ्ज मुखकर     कञ्जपद कञ्जारुणम् ॥ १॥  
   
-कंदर्प अगणित अमित छबि    नव नील नीरज सुन्दरम् ।  
+कन्दर्प अगणित अमित छबि    नव नील नीरज सुन्दरम् ।  
 पटपीत पानहुँ तड़ित रुचि सुचि    नौमि जनक सुतावरम्  ॥ २॥  
   
 भजु दीन बन्धु दिनेश दानव    दैत्यवंशनिकन्दनम् ।  
-रघुनन्द आनंदकंद कोशल    चन्द दशरथ नन्दनम्  ॥ ३॥  
+रघुनन्द आनन्दकन्द कोशल    चन्द दशरथ नन्दनम्  ॥ ३॥  
   
 सिरक्रीट कुण्डल तिलक चारु    उदार अङ्ग विभूषणम्  ।  
 आजानुभुज सर चापधर    सङ्ग्राम जित खरदूषणम् ॥ ४॥  

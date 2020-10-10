@@ -1,22 +1,22 @@
-+++
-"Text title" = "malahAnikareshvarastutiH"
-"File name" = "malahAnikareshvarastutiH.itx"
-itxtitle = "malahAnikareshvarastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "malahAnikareshvarastutiH"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, shiva"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मलहानिकरेश्वरस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, shiva
+File name: malahAnikareshvarastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: malahAnikareshvarastutiH
+engtitle: malahAnikareshvarastutiH
+itxtitle: malahAnikareshvarastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: मलहानिकरेश्वरस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीमलहानिकरेश्वरस्तुतिः   
 (श्रीशृङ्गगिरौ - श्रीभवानीमलहानिकरेश्वरकल्याणोत्सवे)  

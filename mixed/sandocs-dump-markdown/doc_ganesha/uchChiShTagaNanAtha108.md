@@ -1,22 +1,22 @@
-+++
-"Text title" = "uchChiShTagaNanAtha108"
-"File name" = "uchChiShTagaNanAtha108.itx"
-itxtitle = "uchChiShTagaNanAtha108"
-engtitle = "108 Names of uchChiShTagaNanAtha"
-Category = "ganesha, aShTottarashatanAmAvalI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "krishna vallapareddy krishna321 at hotmail.com"
-"Proofread by" = "krishna vallapareddy krishna321 at hotmail.com"
-Indexextra = "(audio)"
-"Latest update" = "January 30, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उच्छिष्टगणनाथ१०८"
+---
+Category: ganesha, aShTottarashatanAmAvalI
+File name: uchChiShTagaNanAtha108.itx
+Indexextra: (audio)
+Language: Sanskrit
+Latest update: January 30, 2018
+Location: doc_ganesha
+Proofread by: krishna vallapareddy krishna321 at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: uchChiShTagaNanAtha108
+Transliterated by: krishna vallapareddy krishna321 at hotmail.com
+engtitle: 108 Names of uchChiShTagaNanAtha
+itxtitle: uchChiShTagaNanAtha108
+title: उच्छिष्टगणनाथ१०८
 
-+++
+---
   
  श्रीउच्छिष्टगणनाथस्य अष्टोत्तरशतनामावलिः   
   

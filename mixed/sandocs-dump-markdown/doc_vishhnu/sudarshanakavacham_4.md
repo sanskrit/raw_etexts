@@ -1,23 +1,23 @@
-+++
-"Text title" = "sudarshanakavacham 4"
-"File name" = "sudarshanakavacham4.itx"
-itxtitle = "sudarshanakavacham 4"
-engtitle = "sudarshanakavacham 4"
-Category = "vishhnu, krishna, puShTimArgIya, kavacha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुदर्शनकवचम् ४"
+---
+Category: vishhnu, krishna, puShTimArgIya, kavacha
+Description/comments: puShTimArgIya stotraratnAkara
+File name: sudarshanakavacham4.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sudarshanakavacham 4
+engtitle: sudarshanakavacham 4
+itxtitle: sudarshanakavacham 4
+title: सुदर्शनकवचम् ४
 
-+++
+---
   
  सुदर्शनकवचम् ४   
   

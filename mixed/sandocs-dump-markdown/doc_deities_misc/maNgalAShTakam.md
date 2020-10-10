@@ -1,23 +1,23 @@
-+++
-"Text title" = "maNgalAShTakam"
-"File name" = "maNgalAShTakam.itx"
-itxtitle = "maNgalAShTakam"
-engtitle = "Mangala Ashtakam"
-Category = "aShTaka, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मण्गलाष्टकम्"
+---
+Category: aShTaka, deities_misc
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: maNgalAShTakam.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: maNgalAShTakam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Mangala Ashtakam
+itxtitle: maNgalAShTakam
+title: मण्गलाष्टकम्
 
-+++
+---
   
  मङ्गलाष्टकम्   
   

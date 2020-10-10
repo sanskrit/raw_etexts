@@ -1,22 +1,22 @@
-+++
-"Text title" = "Paramarthashlokadvayam"
-"File name" = "paramArthashlokadvayam.itx"
-itxtitle = "paramArthashlokadvayam"
-engtitle = "paramArthashlokadvayam"
-Category = "misc, vedanta"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Ramanuja Stotramala"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परमार्थश्लोकद्वयम्"
+---
+Category: misc, vedanta
+Description/comments: Ramanuja Stotramala
+File name: paramArthashlokadvayam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Paramarthashlokadvayam
+engtitle: paramArthashlokadvayam
+itxtitle: paramArthashlokadvayam
+title: परमार्थश्लोकद्वयम्
 
-+++
+---
   
  परमार्थश्लोकद्वयम्   
    श्रीवात्स्यवरदगुरुभिरनुगृहीतं  
@@ -38,7 +38,7 @@ title = "परमार्थश्लोकद्वयम्"
      सायुज्यं समवाप्य नन्दति समं तेनैव धन्यः पुमान् ॥ २॥  
   
 प्रातर्नित्यानुसन्धेयं परमार्थं मुमुक्षुभिः ।  
-श्लोकद्वयेन संक्षिप्तं सुव्यक्तं वरदोऽब्रवीत् ॥ ३॥  
+श्लोकद्वयेन सङ्क्षिप्तं सुव्यक्तं वरदोऽब्रवीत् ॥ ३॥  
   
 इति परमार्थश्लोकद्वयं समाप्तम् ।  
   

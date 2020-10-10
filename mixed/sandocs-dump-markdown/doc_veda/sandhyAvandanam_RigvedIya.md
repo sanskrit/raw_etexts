@@ -1,21 +1,21 @@
-+++
-"Text title" = "RigvedIya ashvalAyana prAtaH sa.ndhyAva.ndanaM"
-"File name" = "rgsandhya.itx"
-itxtitle = "sandhyAvandanam (RigvedIya)"
-engtitle = "Rigvediya Sandhya Vandana"
-Category = "veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "With translation and procedure"
-"Latest update" = "May 30, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्ध्यावन्दनम् (ऋइग्वेदीय)"
+---
+Category: veda, svara
+Description-comments: With translation and procedure
+File name: rgsandhya.itx
+Language: Sanskrit
+Latest update: May 30, 1999
+Location: doc_veda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: RigvedIya ashvalAyana prAtaH sa.ndhyAva.ndanaM
+Texttype: svara
+engtitle: Rigvediya Sandhya Vandana
+itxtitle: sandhyAvandanam (RigvedIya)
+title: सन्ध्यावन्दनम् (ऋइग्वेदीय)
 
-+++
+---
   
  ऋग्वेदीय सन्ध्या वन्दनम्   
   
@@ -459,7 +459,7 @@ Sri Narayana who is shining in the form of Sun . ᳚ )
 अप्सु मे सोमो अब्रवीदन्तर्विश्वानि भेशजा ।  
 अग्निञ्च विश्वशम्भुवम् ॥    ........ (6.5)  
 आपः पृणीत भेषजं वरूथं तन्वे३मम ।  
-ज्योक्चसूर्यंदृशे ॥    ........ (6.6)  
+ज्योक्चसूर्यन्दृशे ॥    ........ (6.6)  
 इदमापः प्रवहत यत्किञ्चदुरितं मयि ।  
 यद्वाहमबिदुद्रोह यद्वाश्शेप उतानृतम् ॥  ........ (6.7)  
 आपो अद्यान्वचारिषं रसेन समगस्महि ।  
@@ -508,7 +508,7 @@ to reside in my soul and body.  (6.9))
   
 पापपुरुषविसर्जनम् (अघमर्षणम्) ................. (7)  
   
-ॐ ऋतंचेत्यस्य सूक्तस्य । अघमर्षण ऋषिः ।  
+ॐ ऋतञ्चेत्यस्य सूक्तस्य । अघमर्षण ऋषिः ।  
 भाववृत्तो देवता । अनुष्टुप् छन्दः । पापपुरुष विसर्जने  
 विनियोगः ॥ ........... (7.1)  
   
@@ -517,7 +517,7 @@ to reside in my soul and body.  (6.9))
   
 अहो रात्राणि विदधद्विश्वस्य मिषतोवशी ।  
 सूर्याचन्द्रमसौ धाता यथा पूर्वमकल्पयत् । दिवं च  
-पृथिवींचान्तरिक्षमथो स्वः ॥  ............ (7.2)  
+पृथिवीञ्चान्तरिक्षमथो स्वः ॥  ............ (7.2)  
   
 (While uttering this verse take a spoon of water (Arghya  
 Water) in right-palm then after completing the verse inhale  
@@ -728,7 +728,7 @@ sandhyopasthAnam (which will be posted later) )
 श्री नारायणो देवता । अनुष्टुप् छन्दः । गायत्रै आवाहने  
 विनियोगः ॥  ........... (10.4)  
   
-आयातु वरदादेवी । अक्षरंब्रह्म सम्मितम् । गायत्री छन्दसां  
+आयातु वरदादेवी । अक्षरम्ब्रह्म सम्मितम् । गायत्री छन्दसां  
 मातेदं ब्रह्म जुषस्वमे । यदह्नात्कुरुतेपापं तदह्नात्प्रतिमुच्च्यते ।  
 यद्रात्रियात्कुरुतेपापं तद्रात्रियात्प्रतिमुच्च्यते ।  
 सर्ववर्णे महादेवि सन्ध्याविद्ये सरस्वति ॥  ........... (10.5)  

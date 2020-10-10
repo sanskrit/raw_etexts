@@ -1,23 +1,23 @@
-+++
-"Text title" = "balarAmasahasranAmastotra"
-"File name" = "balarAmasahasranAmastotra.itx"
-itxtitle = "balarAmasahasranAmastotram (gargasaMhitAntargartam)"
-engtitle = "Balaramasahasranamastotra"
-Category = "sahasranAma, deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com http://satsangdhara.net/"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com, Vishwas Bhide"
-Description-comments = "from Garga Samhita, Balabhadra khanda, Adhyaya 13"
-"Latest update" = "April 18, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बलरामसहस्रनामस्तोत्रम् (गर्गसंहितान्तर्गर्तम्)"
+---
+Category: sahasranAma, deities_misc, stotra
+Description-comments: from Garga Samhita, Balabhadra khanda, Adhyaya 13
+File name: balarAmasahasranAmastotra.itx
+Language: Sanskrit
+Latest update: April 18, 2014
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com, Vishwas Bhide
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: balarAmasahasranAmastotra
+Texttype: stotra
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com http://satsangdhara.net/
+engtitle: Balaramasahasranamastotra
+itxtitle: balarAmasahasranAmastotram (gargasaMhitAntargartam)
+title: बलरामसहस्रनामस्तोत्रम् (गर्गसंहितान्तर्गर्तम्)
 
-+++
+---
   
  बलरामसहस्रनामस्तोत्रम्   
   
@@ -74,7 +74,7 @@ title = "बलरामसहस्रनामस्तोत्रम् (ग
 चतुर्व्यूहश्चतुर्वेदश्चतुर्मूर्तिश्चतुष्पदः ॥ १२॥  
   
 प्रधानं प्रकृतिः साक्षी सङ्घातः सङ्घवान् सखी ।  
-महामना बुद्धिसखश्चेतोऽहंकार आवृतः ॥ १३॥  
+महामना बुद्धिसखश्चेतोऽहङ्कार आवृतः ॥ १३॥  
   
 इन्द्रियेशो देवातात्मा ज्ञानं कर्म च शर्म च ।  
 अद्वितीयो द्वितीयश्च निराकारो निरञ्जनः ॥ १४॥  
@@ -115,7 +115,7 @@ title = "बलरामसहस्रनामस्तोत्रम् (ग
 धन्वन्तरिर्नृसिंहश्च कलिर्नारायणो नरः ।  
 रामचन्द्रो राघवेन्द्रः कोशलेन्द्रो रघूद्वहः ॥ २६॥  
   
-काकुत्स्थः करुणासिंधू राजेन्द्रः सर्वलक्षणः ।  
+काकुत्स्थः करुणासिन्धू राजेन्द्रः सर्वलक्षणः ।  
 शूरो दाशरथिस्त्राता कौसल्यानन्दवर्द्धनः ॥ २७॥  
   
 सौमित्रिर्भरतो धन्वी शत्रुघ्नः शत्रुतापनः ।  
@@ -133,7 +133,7 @@ title = "बलरामसहस्रनामस्तोत्रम् (ग
 मतङ्गवनसञ्चारी नेता पञ्चवटीपतिः ।  
 सुग्रीवः सुग्रीवसखो हनुमत्प्रीतमानसः ॥ ३२॥  
   
-सेतुबन्धो रावणारिर्लंकादहनतत्परः ।  
+सेतुबन्धो रावणारिर्लङ्कादहनतत्परः ।  
 रावण्यरिः पुष्पकस्थो जानकीविरहातुरः ॥ ३३॥  
   
 अयोध्याधिपतिः श्रीमाँल्लवणारिः सुरार्चितः ।  
@@ -220,7 +220,7 @@ title = "बलरामसहस्रनामस्तोत्रम् (ग
 कृतमाला महापुण्या कावेरी च पयस्विनी ।  
 प्रतीची सुप्रभा वेणी त्रिवेणी सरयूपमा ॥ ६१॥  
   
-कृष्णा पंपा नर्मदा च गङ्गा भागीरथी नदी ।  
+कृष्णा पम्पा नर्मदा च गङ्गा भागीरथी नदी ।  
 सिद्धाश्रमः प्रभासश्च बिन्दुर्बिन्दुसरोवरः ॥ ६२॥  
   
 पुष्करः सैन्धवो जम्बू नरनारायणाश्रमः ।  
@@ -317,7 +317,7 @@ title = "बलरामसहस्रनामस्तोत्रम् (ग
 अश्वत्थो यवभोजी च यवक्रीतो यवाशनः ॥ ९३॥  
   
 प्रह्लादरक्षकः स्निग्ध ऐलवंशविवर्द्धनः ।  
-गताधिरंबरीषाङ्गो विगाधिर्गाधिनां वरः ॥ ९४॥  
+गताधिरम्बरीषाङ्गो विगाधिर्गाधिनां वरः ॥ ९४॥  
   
 नानामणिसमाकीर्णो नानारत्नविभूषणः ।  
 नानापुष्पधरः पुष्पी पुष्पधन्वा प्रपुष्पितः ॥ ९५॥  

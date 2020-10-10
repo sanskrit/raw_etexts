@@ -1,23 +1,23 @@
-+++
-"Text title" = "aghoramUrtisahasranAmAvaliH 1"
-"File name" = "aghoramUrtisahasranAmAvaliH1.itx"
-itxtitle = "aghoramUrtisahasranAmAvaliH 1"
-engtitle = "aghoramUrtisahasranAmAvaliH 1"
-Category = "shiva, sahasranAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Derived from stotra"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "See corresponding stotra. 946 names derived from the stotra."
-Indexextra = "(Scan, stotra)"
-"Latest update" = "January 12, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अघोरमूर्तिसहस्रनामावलिः १"
+---
+Category: shiva, sahasranAmAvalI
+Description/comments: See corresponding stotra. 946 names derived from the stotra.
+File name: aghoramUrtisahasranAmAvaliH1.itx
+Indexextra: (Scan, stotra)
+Language: Sanskrit
+Latest update: January 12, 2020
+Location: doc_shiva
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: aghoramUrtisahasranAmAvaliH 1
+Transliterated by: Derived from stotra
+engtitle: aghoramUrtisahasranAmAvaliH 1
+itxtitle: aghoramUrtisahasranAmAvaliH 1
+title: अघोरमूर्तिसहस्रनामावलिः १
 
-+++
+---
   
  अघोरमूर्तिसहस्रनामावलिः   
 अथ मूलम् ।  

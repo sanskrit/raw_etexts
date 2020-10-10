@@ -1,22 +1,22 @@
-+++
-"Text title" = "Siddha Mangala Stotram"
-"File name" = "siddhamangalastotram.itx"
-itxtitle = "siddhamaNgalastotram"
-engtitle = "siddhamangalastotram"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "From Shripada Shrivallabha Charitamrutam"
-Indexextra = "(Video 1, 2, 3, 4, 5)"
-"Latest update" = "May 19, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धमण्गलस्तोत्रम्"
+---
+Category: deities_misc, gurudev
+Description/comments: From Shripada Shrivallabha Charitamrutam
+File name: siddhamangalastotram.itx
+Indexextra: (Video 1, 2, 3, 4, 5)
+Language: Sanskrit
+Latest update: May 19, 2019
+Location: doc_deities_misc
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Siddha Mangala Stotram
+engtitle: siddhamangalastotram
+itxtitle: siddhamaNgalastotram
+title: सिद्धमण्गलस्तोत्रम्
 
-+++
+---
   
  श्रीसिद्धमङ्गलस्तोत्रम्   
 श्रीमदनन्त श्रीविभूषित अप्पललक्ष्मीनरसिंहराज ।  

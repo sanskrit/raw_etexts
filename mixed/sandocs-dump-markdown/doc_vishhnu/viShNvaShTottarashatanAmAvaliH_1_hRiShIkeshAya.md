@@ -1,21 +1,21 @@
-+++
-"Text title" = "viShNvaShTottarashatanAmAvaliH 1"
-"File name" = "viShNvaShTottarashatanAmAvaliH.itx"
-itxtitle = "viShNvaShTottarashatanAmAvaliH 1 (hRiShIkeshAya)"
-engtitle = "viShNvaShTottarashatanAmAvaliH 1"
-Category = "vishhnu, aShTottarashatanAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्ण्वष्टोत्तरशतनामावलिः १ (हृइषीकेशाय)"
+---
+Category: vishhnu, aShTottarashatanAmAvalI
+File name: viShNvaShTottarashatanAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNvaShTottarashatanAmAvaliH 1
+engtitle: viShNvaShTottarashatanAmAvaliH 1
+itxtitle: viShNvaShTottarashatanAmAvaliH 1 (hRiShIkeshAya)
+title: विष्ण्वष्टोत्तरशतनामावलिः १ (हृइषीकेशाय)
 
-+++
+---
   
  श्रीविष्ण्वष्टोत्तरशतनामावलिः   
 ॐ हृषीकेशाय नमः । केशवाय । मधुसूदनाय । सर्वदतियानां  

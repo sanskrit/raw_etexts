@@ -1,22 +1,22 @@
-+++
-"Text title" = "puNDarIkAkShastotram"
-"File name" = "puNDarIkAkShastotram.itx"
-itxtitle = "puNDarIkAkShastotram mokShaprada"
-engtitle = "puNDarIkAkShastotram"
-Category = "vishhnu, krishna, rAmAnujasampradAya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पुण्डरीकाक्षस्तोत्रम् मोक्षप्रद"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: vishhnu, krishna, rAmAnujasampradAya
+File name: puNDarIkAkShastotram.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: puNDarIkAkShastotram
+engtitle: puNDarIkAkShastotram
+itxtitle: puNDarIkAkShastotram mokShaprada
+title: पुण्डरीकाक्षस्तोत्रम् मोक्षप्रद
 
-+++
+---
   
  मोक्षप्रदश्रीपुण्डरीकाक्षस्तोत्रम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "oShadhIsUkta"
-"File name" = "oShadhIsUktam.itx"
-itxtitle = "oShadhIsUktam"
-engtitle = "oShadhIsUktam"
-Category = "veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Source = "https://sanskritdocuments.org/mirrors/rigveda/e-text.htm"
-Indexextra = "(Scan 1, 2 complete Hindi, text)"
-"Latest update" = "November 29, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ओषधीसूक्तम्"
+---
+Category: veda, svara
+File name: oShadhIsUktam.itx
+Indexextra: (Scan 1, 2 complete Hindi, text)
+Language: Sanskrit
+Latest update: November 29, 2015
+Location: doc_veda
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: https://sanskritdocuments.org/mirrors/rigveda/e-text.htm
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: oShadhIsUkta
+Texttype: svara
+engtitle: oShadhIsUktam
+itxtitle: oShadhIsUktam
+title: ओषधीसूक्तम्
 
-+++
+---
   
  ओषधीसूक्तम्   
   
@@ -115,7 +115,7 @@ title = "ओषधीसूक्तम्"
 मा वो रिषत्खनिता यस्मै चाहं खनामि वः ।  
 द्विपच्चतुष्पदस्माकं सर्वमस्त्वनातुरम् ॥ १०.०९७.२०  
 याश्चेदमुपशृण्वन्ति याश्च दूरं परागताः ।  
-सर्वाः संगत्य वीरुधोऽस्यै सं दत्त वीर्यम् ॥ १०.०९७.२१  
+सर्वाः सङ्गत्य वीरुधोऽस्यै सं दत्त वीर्यम् ॥ १०.०९७.२१  
 ओषधयः सं वदन्ते सोमेन सह राज्ञा ।  
 यस्मै कृणोति ब्राह्मणस्तं राजन्पारयामसि ॥ १०.०९७.२२  
 त्वमुत्तमास्योषधे तव वृक्षा उपस्तयः ।  

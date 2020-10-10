@@ -1,24 +1,24 @@
-+++
-"Text title" = "Amba Pancharatna Stotra"
-"File name" = "ambApancharatnastotram.itx"
-itxtitle = "ambApancharatnastotram"
-engtitle = "Amba Pancharatna Stotram"
-Category = "pancharatna, devii, pArvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अम्बापञ्चरत्नस्तोत्रम्"
+---
+Category: pancharatna, devii, pArvatI, devI
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: ambApancharatnastotram.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Amba Pancharatna Stotra
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Amba Pancharatna Stotram
+itxtitle: ambApancharatnastotram
+title: अम्बापञ्चरत्नस्तोत्रम्
 
-+++
+---
   
  अम्बापञ्चरत्नस्तोत्रम्   
   

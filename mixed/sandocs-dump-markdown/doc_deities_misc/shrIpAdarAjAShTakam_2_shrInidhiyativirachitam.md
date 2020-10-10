@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Shripadaraja Ashtakam 2"
-"File name" = "shrIpAdarAjAShTakam2.itx"
-itxtitle = "shrIpAdarAjAShTakam 2 (shrInidhiyativirachitam)"
-engtitle = "shrIpAdarAjAShTakam 2"
-Category = "deities_misc, gurudev, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "shrInidhiyati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-"Description/comments" = "PanchayatistutiH"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "C Narayanarao"
-"Latest update" = "June 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "श्रीपादराजाष्टकम् २ (श्रीनिधियतिविरचितम्)"
+---
+Acknowledge-Permission: C Narayanarao
+Author: shrInidhiyati
+Category: deities_misc, gurudev, aShTaka
+Description/comments: PanchayatistutiH
+File name: shrIpAdarAjAShTakam2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Shripadaraja Ashtakam 2
+Transliterated by: Krishnananda Achar
+engtitle: shrIpAdarAjAShTakam 2
+itxtitle: shrIpAdarAjAShTakam 2 (shrInidhiyativirachitam)
+title: श्रीपादराजाष्टकम् २ (श्रीनिधियतिविरचितम्)
 
-+++
+---
   
  श्रीश्रीपादराजाष्टकम् २   
 श्रीमत्या जाम्बवत्या यदुपतिनगरे पूजितः फल्गुणेन  

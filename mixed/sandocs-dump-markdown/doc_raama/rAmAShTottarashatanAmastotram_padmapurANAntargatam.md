@@ -1,23 +1,23 @@
-+++
-"Text title" = "shriiraamaashhTottarashatanaamastotram.h"
-"File name" = "raama108st.itx"
-itxtitle = "rAmAShTottarashatanAmastotram (padmapurANAntargatam)"
-engtitle = "rAmAShTottarashatanAmastotra"
-Category = "aShTottarashatanAma, raama, stotra"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Religious"
-"Transliterated by" = "Sowmya Ramkumar - ramkumar at batelco.com.bh"
-"Proofread by" = "Sowmya Ramkumar"
-Source = "padmapurANa"
-"Latest update" = "July 4, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टोत्तरशतनामस्तोत्रम् (पद्मपुराणान्तर्गतम्)"
+---
+Category: aShTottarashatanAma, raama, stotra
+File name: raama108st.itx
+Language: Sanskrit
+Latest update: July 4, 2006
+Location: doc_raama
+Proofread by: Sowmya Ramkumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: padmapurANa
+Subject: Religious
+Sublocation: raama
+Text title: shriiraamaashhTottarashatanaamastotram.h
+Texttype: stotra
+Transliterated by: Sowmya Ramkumar - ramkumar at batelco.com.bh
+engtitle: rAmAShTottarashatanAmastotra
+itxtitle: rAmAShTottarashatanAmastotram (padmapurANAntargatam)
+title: रामाष्टोत्तरशतनामस्तोत्रम् (पद्मपुराणान्तर्गतम्)
 
-+++
+---
   
  रामाष्टोत्तरशतनामस्तोत्र   
   
@@ -56,7 +56,7 @@ title = "रामाष्टोत्तरशतनामस्तोत्�
 अहल्याशापशमनः पितृभक्तो वरप्रदः ।  
 जितेन्द्रियो जितक्रोधो जितामित्रो जगद्गुरुः ॥ ८॥  
   
-ऋक्षवानरसंघाती चित्रकूटसमाश्रयः ।  
+ऋक्षवानरसङ्घाती चित्रकूटसमाश्रयः ।  
 जयन्तत्राणवरदः सुमित्रापुत्रसेवितः ॥ ९॥  
   
 सर्वदेवादिदेवश्च मृतवानरजीवनः ।  
@@ -81,7 +81,7 @@ title = "रामाष्टोत्तरशतनामस्तोत्�
 शिवलिङ्गप्रतिष्ठाता सर्वावगुणवर्जितः ॥ १६॥  
   
 परमात्मा परं ब्रह्म सच्चिदानन्दविग्रहः ।  
-परं ज्योतिः परंधाम पराकाशः परात्परः ॥ १७॥  
+परं ज्योतिः परन्धाम पराकाशः परात्परः ॥ १७॥  
   
 परेशः पारगः पारः सर्वदेवात्मकः परः ॥  
   

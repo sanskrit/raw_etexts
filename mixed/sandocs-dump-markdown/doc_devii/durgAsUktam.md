@@ -1,24 +1,24 @@
-+++
-"Text title" = "durgAsUktam"
-"File name" = "durga-suuktam.itx"
-itxtitle = "durgAsUktam"
-engtitle = "durgAsUktam"
-Category = "sUkta, devii, durgA, svara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. P. Narayanaswami swami at math.mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at math.mun.ca"
-Indexextra = "(with vedic svara)"
-"Latest update" = "August 19, 2004, October 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गासूक्तम्"
+---
+Category: sUkta, devii, durgA, svara, devI
+File name: durga-suuktam.itx
+Indexextra: (with vedic svara)
+Language: Sanskrit
+Latest update: August 19, 2004, October 10, 2018
+Location: doc_devii
+Proofread by: P. P. Narayanaswami swami at math.mun.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAsUktam
+Texttype: svara
+Transliterated by: P. P. Narayanaswami swami at math.mun.ca
+engtitle: durgAsUktam
+itxtitle: durgAsUktam
+title: दुर्गासूक्तम्
 
-+++
+---
   
  दुर्गासूक्तम्   
   
@@ -43,7 +43,7 @@ title = "दुर्गासूक्तम्"
 प्रत्नोषि कमीड्यो अध्वरेषु सनाच्च होता नव्यश्च सथ्सि ।  
 स्वाञ्चाग्ने तनुवं पिप्रयस्वास्मभ्यं च सौभगमायजस्व ॥ ६॥  
   
-गोभिर्जुष्टमयुजो निषिक्तन्तवेन्द्र विष्णोरनुसंचरेम ।  
+गोभिर्जुष्टमयुजो निषिक्तन्तवेन्द्र विष्णोरनुसञ्चरेम ।  
 नाकस्य पृष्ठमभि संवसानो वैष्णवीं लोक इह मादयन्ताम् ॥ ७॥  
   
 ॐ कात्यायनाय विद्महे कन्यकुमारि धीमहि । तन्नो दुर्गिः प्रचोदयात् ॥  

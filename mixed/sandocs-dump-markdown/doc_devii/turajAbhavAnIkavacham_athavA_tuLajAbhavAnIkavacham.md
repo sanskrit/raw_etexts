@@ -1,23 +1,23 @@
-+++
-"Text title" = "TurajabhavAni Kavacham Tulaja Kavacham"
-"File name" = "turajAbhavAnIkavacham.itx"
-itxtitle = "turajAbhavAnIkavacham athavA tuLajAbhavAnIkavacham"
-engtitle = "turajAbhavAnIkavacham"
-Category = "devii, kavacha, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Marathi)"
-"Latest update" = "June 28, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुरजाभवानीकवचम् अथवा तुळजाभवानीकवचम्"
+---
+Category: devii, kavacha, otherforms, devI
+File name: turajAbhavAnIkavacham.itx
+Indexextra: (Marathi)
+Language: Sanskrit
+Latest update: June 28, 2019
+Location: doc_devii
+Proofread by: NA, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: TurajabhavAni Kavacham Tulaja Kavacham
+Transliterated by: NA
+engtitle: turajAbhavAnIkavacham
+itxtitle: turajAbhavAnIkavacham athavA tuLajAbhavAnIkavacham
+title: तुरजाभवानीकवचम् अथवा तुळजाभवानीकवचम्
 
-+++
+---
   
  श्रीतुरजाभवानीकवचम् अथवा तुळजाकवचम्   
 श्रीगणेशाय नमः ।  

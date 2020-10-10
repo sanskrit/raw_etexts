@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAmAShTakaM"
-"File name" = "rama8.itx"
-itxtitle = "rAmAShTakam 1 (AnandarAmAyaNAntargatam sugrIvamitram)"
-engtitle = "Ramashtakam from Ananda Ramayana"
-Category = "aShTaka, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion  dvAdashasargAntargatam"
-"Transliterated by" = "Girish Beeharry, PSA Easwaran psaeaswaran at gmail"
-"Proofread by" = "Girish Beeharry, PSA Easwaran psaeaswaran at gmail"
-Description-comments = "from Ananda Ramayana, sArakANDe yuddhacharite"
-"Latest update" = "August 24, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टकम् १ (आनन्दरामायणान्तर्गतम् सुग्रीवमित्रम्)"
+---
+Category: aShTaka, raama
+Description-comments: from Ananda Ramayana, sArakANDe yuddhacharite
+File name: rama8.itx
+Language: Sanskrit
+Latest update: August 24, 2014
+Location: doc_raama
+Proofread by: Girish Beeharry, PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion  dvAdashasargAntargatam
+Sublocation: raama
+Text title: rAmAShTakaM
+Transliterated by: Girish Beeharry, PSA Easwaran psaeaswaran at gmail
+engtitle: Ramashtakam from Ananda Ramayana
+itxtitle: rAmAShTakam 1 (AnandarAmAyaNAntargatam sugrIvamitram)
+title: रामाष्टकम् १ (आनन्दरामायणान्तर्गतम् सुग्रीवमित्रम्)
 
-+++
+---
   
  रामाष्टकं १ श्रीमदानन्दरामायणे   
   

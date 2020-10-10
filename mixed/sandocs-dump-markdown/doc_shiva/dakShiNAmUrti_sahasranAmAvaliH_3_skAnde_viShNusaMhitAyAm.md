@@ -1,23 +1,23 @@
-+++
-"Text title" = "DakshinAmurti Sahasranamavali 3"
-"File name" = "dakShiNAmUrtisahasranAmAvalI.itx"
-itxtitle = "dakShiNAmUrti sahasranAmAvaliH 3 (skAnde viShNusaMhitAyAm)"
-engtitle = "Dakshinamurti Sahasranamavali 3"
-Category = "sahasranAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com"
-Source = "skAnde viShNusaMhitAyAm"
-Indexextra = "(Scan)"
-"Latest update" = "December 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्ति सहस्रनामावलिः ३ (स्कान्दे विष्णुसंहितायाम्)"
+---
+Category: sahasranAmAvalI, shiva
+File name: dakShiNAmUrtisahasranAmAvalI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 22, 2016
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: skAnde viShNusaMhitAyAm
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: DakshinAmurti Sahasranamavali 3
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: Dakshinamurti Sahasranamavali 3
+itxtitle: dakShiNAmUrti sahasranAmAvaliH 3 (skAnde viShNusaMhitAyAm)
+title: दक्षिणामूर्ति सहस्रनामावलिः ३ (स्कान्दे विष्णुसंहितायाम्)
 
-+++
+---
   
  श्रीदक्षिणामूर्ति सहस्रनामावलिः ३   
 ॐ श्रीगणेशाय नमः ।  

@@ -3,7 +3,6 @@ title: 102 Bharata requests Rama to come to Ayodhya
 title_english: 102 Bharata requests Rama to come to Ayodhya
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-102-Nivapanjanali_Daanam.mp3"></div>
 
 रामस्य वचनम् श्रुत्वा भरतः प्रत्युवाच ह ।  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "rAdhikAShTakam"
-"File name" = "rAdhikAShTakam.itx"
-itxtitle = "rAdhikAShTakam (raghunAthadAsagosvAmivirachitam)"
-engtitle = "rAdhikAShTakam"
-Category = "devii, aShTaka, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji, from Stavavali"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधिकाष्टकम् (रघुनाथदासगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: RaghunathadAsagosvAmi
+Category: devii, aShTaka, radha, devI
+Description/comments: Edited by S. V. Radhakrishna Shastriji, from Stavavali
+File name: rAdhikAShTakam.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhikAShTakam
+engtitle: rAdhikAShTakam
+itxtitle: rAdhikAShTakam (raghunAthadAsagosvAmivirachitam)
+title: राधिकाष्टकम् (रघुनाथदासगोस्वामिविरचितम्)
 
-+++
+---
   
  श्रीराधिकाष्टकम्   
 रस-वलित-मृगाक्षी मौलिमाणिक्यलक्ष्मीः  

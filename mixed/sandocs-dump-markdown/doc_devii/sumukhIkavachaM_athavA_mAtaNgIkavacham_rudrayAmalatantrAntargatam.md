@@ -1,24 +1,24 @@
-+++
-"Text title" = "sumukhImAtaNgIkavacham"
-"File name" = "sumukhiikavacham.itx"
-itxtitle = "sumukhIkavachaM athavA mAtaNgIkavacham (rudrayAmalatantrAntargatam)"
-engtitle = "Sumukhi or Matangi Kavacham"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale tantre"
-"Latest update" = "May, 15, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुमुखीकवचं अथवा मातण्गीकवचम् (रुद्रयामलतन्त्रान्तर्गतम्)"
+---
+Author: Traditional
+Category: kavacha, devii, dashamahAvidyA, devI
+Description-comments: rudrayAmale tantre
+File name: sumukhiikavacham.itx
+Language: Sanskrit
+Latest update: May, 15, 2006
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sumukhImAtaNgIkavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: Sumukhi or Matangi Kavacham
+itxtitle: sumukhIkavachaM athavA mAtaNgIkavacham (rudrayAmalatantrAntargatam)
+title: सुमुखीकवचं अथवा मातण्गीकवचम् (रुद्रयामलतन्त्रान्तर्गतम्)
 
-+++
+---
   
  सुमुखी अथवा मातङ्गीकवचम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Ganesha Panchashat Namavali Ganesha's 50 Names"
-"File name" = "gaNeshapanchAshatnAmAvalI.itx"
-itxtitle = "gaNeshapanchAshannAmAvalI"
-engtitle = "gaNeshapanchAshannAmAvalI"
-Category = "ganesha, panchAshatnAmAvalI, nAmAvalI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "See corresponding stotra"
-"Latest update" = "May 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशपञ्चाशन्नामावली"
+---
+Category: ganesha, panchAshatnAmAvalI, nAmAvalI
+Description/comments: See corresponding stotra
+File name: gaNeshapanchAshatnAmAvalI.itx
+Language: Sanskrit
+Latest update: May 23, 2019
+Location: doc_ganesha
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Shri Ganesha Panchashat Namavali Ganesha's 50 Names
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: gaNeshapanchAshannAmAvalI
+itxtitle: gaNeshapanchAshannAmAvalI
+title: गणेशपञ्चाशन्नामावली
 
-+++
+---
   
  श्रीगणेशपञ्चाशन्नामावलिः   
 ॐ गणेशाय नमः ।  

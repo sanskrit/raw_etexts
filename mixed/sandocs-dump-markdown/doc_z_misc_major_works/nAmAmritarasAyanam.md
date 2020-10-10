@@ -1,24 +1,24 @@
-+++
-"Text title" = "nAmAmritarasAyanam"
-"File name" = "nAmAmritarasAyanam.itx"
-itxtitle = "nAmAmritarasAyanam"
-engtitle = "nAmAmritarasAyanam"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Bodhendra Yati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "scan"
-"Latest update" = "June 2, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नामाम्रितरसायनम्"
+---
+Author: Bodhendra Yati
+Category: major_works
+File name: nAmAmritarasAyanam.itx
+Language: Sanskrit
+Latest update: June 2, 2015
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: scan
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: nAmAmritarasAyanam
+Texttype: pramukha
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: nAmAmritarasAyanam
+itxtitle: nAmAmritarasAyanam
+title: नामाम्रितरसायनम्
 
-+++
+---
   
  नामामृतरसायनम्   
                      ॥ श्रीः ॥  
@@ -72,7 +72,7 @@ title = "नामाम्रितरसायनम्"
 स शिवः शङ्करो भूयात्सदा मम दयाम्बुधिः ॥ ११॥  
   
 सकलनतजनानां रक्षणे बद्धदीक्षो  
-     वरवटतरुमूले संनिविष्टोऽखिलात्मा ।  
+     वरवटतरुमूले सन्निविष्टोऽखिलात्मा ।  
 सकलमुनिजनानां ज्ञानदाता दयाब्धिः  
      प्रदिशतु सुमतिं मे दक्षिणामूर्तिदेवः ॥ १२॥  
   

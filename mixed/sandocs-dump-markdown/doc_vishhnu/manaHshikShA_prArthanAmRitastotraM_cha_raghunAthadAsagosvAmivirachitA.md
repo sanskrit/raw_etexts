@@ -1,26 +1,26 @@
-+++
-"Text title" = "manaHshikShA"
-"File name" = "manaHshikShA.itx"
-itxtitle = "manaHshikShA prArthanAmRitastotraM cha (raghunAthadAsagosvAmivirachitA)"
-engtitle = "manaHshikShA"
-Category = "vishhnu, misc, krishna, advice, raghunAthadAsagosvAmin, stavAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski"
-"Proofread by" = "Jan, NA"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Meaning 1, 2, 3, Bengali, Hindi)"
-Acknowledge-Permission = "Gaudiya Grantha Mandira"
-"Latest update" = "January 10, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मनःशिक्षा प्रार्थनामृइतस्तोत्रं च (रघुनाथदासगोस्वामिविरचिता)"
+---
+Acknowledge-Permission: Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: vishhnu, misc, krishna, advice, raghunAthadAsagosvAmin, stavAvalI
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: manaHshikShA.itx
+Indexextra: (Meaning 1, 2, 3, Bengali, Hindi)
+Language: Sanskrit
+Latest update: January 10, 2019
+Location: doc_vishhnu
+Proofread by: Jan, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: manaHshikShA
+Transliterated by: Jan Brzezinski
+engtitle: manaHshikShA
+itxtitle: manaHshikShA prArthanAmRitastotraM cha (raghunAthadAsagosvAmivirachitA)
+title: मनःशिक्षा प्रार्थनामृइतस्तोत्रं च (रघुनाथदासगोस्वामिविरचिता)
 
-+++
+---
   
  मनःशिक्षा   
 गुरौ गोष्ठे गोष्ठालयिषु सुजने भूसुरगणे  

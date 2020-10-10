@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Mantrakavacha Stotram"
-"File name" = "bAlAmantrakavachastotram.itx"
-itxtitle = "bAlAmantrakavachastotram (AdhAre taruNArkabimbaruchiraM)"
-engtitle = "bAlAmantrakavachastotram"
-Category = "devii, dashamahAvidyA, devI, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालामन्त्रकवचस्तोत्रम् (आधारे तरुणार्कबिम्बरुचिरं)"
+---
+Category: devii, dashamahAvidyA, devI, kavacha
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAmantrakavachastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Mantrakavacha Stotram
+engtitle: bAlAmantrakavachastotram
+itxtitle: bAlAmantrakavachastotram (AdhAre taruNArkabimbaruchiraM)
+title: बालामन्त्रकवचस्तोत्रम् (आधारे तरुणार्कबिम्बरुचिरं)
 
-+++
+---
   
  श्रीबालामन्त्रकवचस्तोत्रम्   
 आधारे तरुणार्कबिम्बरुचिरं हेमप्रभाभास्वरं  
@@ -36,7 +36,7 @@ title = "बालामन्त्रकवचस्तोत्रम् (आ
 ओष्ठौ मे सुभगा पातु चुबुकं नववार्षिका ॥ ३॥  
   
 कपोले कमनीयाऽव्यात्कण्ठे कामार्चिताऽवतु ।  
-बाहू पातु वराभीतिधारिणी संप्रदायिनी ॥ ४॥  
+बाहू पातु वराभीतिधारिणी सम्प्रदायिनी ॥ ४॥  
   
 वक्षस्त्रिकं च पद्माक्षी कुचौ काञ्चीनिवासिनी ।  
 उदरं सुन्दरी पातु नाभिं नागेन्द्रवन्दिता ॥ ५॥  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "bhagavatstotramvAsukinIlamate"
-"File name" = "bhagavatstotramvAsukinIlamate.itx"
-itxtitle = "bhagavatstotram (vAsukikRitaM nIlamatapurANAntargatam)"
-engtitle = "bhagavatstotramvAsukinIlamate"
-Category = "vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Latest update" = "March 26, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवत्स्तोत्रम् (वासुकिकृइतं नीलमतपुराणान्तर्गतम्)"
+---
+Category: vishhnu, vishnu
+File name: bhagavatstotramvAsukinIlamate.itx
+Language: Sanskrit
+Latest update: March 26, 2016
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: bhagavatstotramvAsukinIlamate
+Transliterated by: NA
+engtitle: bhagavatstotramvAsukinIlamate
+itxtitle: bhagavatstotram (vAsukikRitaM nIlamatapurANAntargatam)
+title: भगवत्स्तोत्रम् (वासुकिकृइतं नीलमतपुराणान्तर्गतम्)
 
-+++
+---
   
  भगवत्स्तोत्रं वासुकिकृत   
 भक्ष्यमाणेषु नागेषु गरुडेन महात्मना ।  

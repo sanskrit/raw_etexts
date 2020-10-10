@@ -1,23 +1,23 @@
-+++
-"Text title" = "Gayatri Upanishad"
-"File name" = "gaayatryupanishhat.itx"
-itxtitle = "gAyatryupaniShat"
-engtitle = "Gayatri Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Rishi ?"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "[from Unpublished Upanishads - Adyar Library collection]"
-"Latest update" = "Jan. 4, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्र्युपनिषत्"
+---
+Author: Rishi ?
+Category: upanishhat, upanishad
+Description-comments: '[from Unpublished Upanishads - Adyar Library collection]'
+File name: gaayatryupanishhat.itx
+Language: Sanskrit
+Latest update: Jan. 4, 2010
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Gayatri Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Gayatri Upanishad
+itxtitle: gAyatryupaniShat
+title: गायत्र्युपनिषत्
 
-+++
+---
   
  गायत्र्युपनिषत्   
   

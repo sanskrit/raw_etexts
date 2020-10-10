@@ -1,23 +1,23 @@
-+++
-"Text title" = "mantrAtmakam mArutistotram"
-"File name" = "mantrAtmakammArutistotram.itx"
-itxtitle = "mantrAtmakam mArutistotram"
-engtitle = "mantrAtmakam mArutistotram"
-Category = "hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "January 10, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मन्त्रात्मकम् मारुतिस्तोत्रम्"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: mantrAtmakammArutistotram.itx
+Language: Sanskrit
+Latest update: January 10, 2017
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: mantrAtmakam mArutistotram
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: mantrAtmakam mArutistotram
+itxtitle: mantrAtmakam mArutistotram
+title: मन्त्रात्मकम् मारुतिस्तोत्रम्
 
-+++
+---
   
  मन्त्रात्मकं श्रीमारुतिस्तोत्रम्   
   

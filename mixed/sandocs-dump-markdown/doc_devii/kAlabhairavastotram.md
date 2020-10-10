@@ -1,21 +1,21 @@
-+++
-"Text title" = "kAlabhairavastotram"
-"File name" = "kAlabhairavastotram.itx"
-itxtitle = "kAlabhairavastotram"
-engtitle = "kAlabhairavastotram"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Indexextra = "(stotra)"
-"Latest update" = "January 27, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालभैरवस्तोत्रम्"
+---
+Category: devii, devI
+File name: kAlabhairavastotram.itx
+Indexextra: (stotra)
+Language: Sanskrit
+Latest update: January 27, 2019
+Location: doc_devii
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAlabhairavastotram
+engtitle: kAlabhairavastotram
+itxtitle: kAlabhairavastotram
+title: कालभैरवस्तोत्रम्
 
-+++
+---
   
  श्रीकालभैरवस्तोत्रम्   
 श्रीगणेशायनमः ।  

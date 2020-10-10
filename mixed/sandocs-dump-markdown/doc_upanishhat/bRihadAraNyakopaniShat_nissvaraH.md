@@ -1,24 +1,24 @@
-+++
-"Text title" = "bRihadAraNyakopaniShat"
-"File name" = "bribasic.itx"
-itxtitle = "bRihadAraNyakopaniShat (nissvaraH)"
-engtitle = "Brihadaranyaka Upanishad (basic without accent)"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(translation, 120 Upanishads)"
-"Latest update" = "November 28, 2016, April 25, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बृइहदारण्यकोपनिषत् (निस्स्वरः)"
+---
+Author: Vedic Tradition
+Category: upanishhat, svara, upanishad
+File name: bribasic.itx
+Indexextra: (translation, 120 Upanishads)
+Language: Sanskrit
+Latest update: November 28, 2016, April 25, 2018
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: bRihadAraNyakopaniShat
+Texttype: svara
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Brihadaranyaka Upanishad (basic without accent)
+itxtitle: bRihadAraNyakopaniShat (nissvaraH)
+title: बृइहदारण्यकोपनिषत् (निस्स्वरः)
 
-+++
+---
   
  बृहदारण्यकोपनिषत्   
   
@@ -65,7 +65,7 @@ C खिल काण्ड[उपासना काण्ड]
 अथ द्वितीयं ब्राह्मणम् ।  
   
           मन्त्र १ [I.ii.1]  
-नैवेह किंचनाग्र आसीन् मृत्युनैवेदमावृतमासीदशनाययाऽशनाया  
+नैवेह किञ्चनाग्र आसीन् मृत्युनैवेदमावृतमासीदशनाययाऽशनाया  
 हि मृत्युस्तन्मनोऽकुरुताऽऽत्मन्वी स्यामिति । सोऽर्चन्नचरत्  
 तस्यार्चत आपोऽजायन्तार्चते वै मे कमभूदिति । तदेवार्क्यस्यार्कत्वम् ।  
 कꣳ ह वा अस्मै भवति य एवमेतदर्कस्यार्कत्वं वेद ॥ १॥  
@@ -690,8 +690,8 @@ C खिल काण्ड[उपासना काण्ड]
 स होवाचाजातशत्रुः प्रतिलोमं चैतद्यद्ब्राह्मणः  
 क्षत्रियमुपेयाद् ब्रह्म मे वक्ष्यतीति । व्येव त्वा  
 ज्ञपयिष्यामीति । तं पाणावादायोत्तस्थौ । तौ ह पुरुषꣳ  
-सुप्तमाजग्मतुस्तमेतैर्नामभिरामन्त्रयांचक्रे बृहन्पाण्डरवासः  
-सोम राजन्निति । स नोत्तस्थौ । तं पाणिनाऽऽपेषं बोधयांचकार ।  
+सुप्तमाजग्मतुस्तमेतैर्नामभिरामन्त्रयाञ्चक्रे बृहन्पाण्डरवासः  
+सोम राजन्निति । स नोत्तस्थौ । तं पाणिनाऽऽपेषं बोधयाञ्चकार ।  
 स होत्तस्थौ ॥ १५॥  
   
           मन्त्र १६[II.i.16]  
@@ -1002,7 +1002,7 @@ C खिल काण्ड[उपासना काण्ड]
 इदं वै तन्मधु दध्यङ्ङाथर्वणोऽश्विभ्यामुवाच । तदेतदृषिः  
 पश्यन्नवोचत् पुरश्चक्रे द्विपदः पुरश्चक्रे चतुष्पदः । पुरः  
 स पक्षी भूत्वा पुरः पुरुष आविशदिति । स वा अयं पुरुषः सर्वासु  
-पूर्षु पुरिशयो नैनेन किंचनानावृतं नैनेन किंचनासंवृतम् ॥ १८॥  
+पूर्षु पुरिशयो नैनेन किञ्चनानावृतं नैनेन किञ्चनासंवृतम् ॥ १८॥  
   
           मन्त्र १९[II.v.19]  
 इदं वै तन्मधु दध्यङ्ङाथर्वणोऽश्विभ्यामुवाच । तदेतदृषिः  
@@ -1297,7 +1297,7 @@ C खिल काण्ड[उपासना काण्ड]
 स होवाच वायुर्वै गौतम तत्सूत्रं वायुना वै गौतम सूत्रेणायं  
 च लोकः परश्च लोकः सर्वाणि च भूतानि सन्दृब्धानि भवन्ति ।  
 तस्माद्वै गौतम पुरुषं प्रेतमाहुर्व्यस्रꣳसिषतास्याङ्गानीति  
-वायुना हि गौतम सूत्रेण संदृब्धानि भवन्तीत्येवमेवैतद्  
+वायुना हि गौतम सूत्रेण सन्दृब्धानि भवन्तीत्येवमेवैतद्  
 याज्ञवल्क्यान्तर्यामिणं ब्रूहीति ॥ २॥  
   
           मन्त्र ३[III.vii.3]  
@@ -2005,7 +2005,7 @@ C खिल काण्ड[उपासना काण्ड]
 अथ ये शतं प्रजापतिलोक आनन्दाः स एको ब्रह्मलोक आनन्दो यश्च  
 श्रोत्रियोऽवृजिनोऽकामहतोऽथैष एव परम आनन्द एष ब्रह्मलोकः  
 सम्राड् इति होवाच याज्ञवल्क्यः । सोऽहं भगवते सहस्रं ददाम्यत  
-ऊर्ध्वं विमोक्षायैव ब्रूहीत्यत्र ह याज्ञवल्क्यो बिभयांचकारः  
+ऊर्ध्वं विमोक्षायैव ब्रूहीत्यत्र ह याज्ञवल्क्यो बिभयाञ्चकारः  
 मेधावी राजा सर्वेभ्यो माऽन्तेभ्य उदरौत्सीदिति ॥ ३३॥  
   
           मन्त्र ३४[IV.iii.34]  
@@ -2909,7 +2909,7 @@ C खिल काण्ड[उपासना काण्ड]
 ओषधीनां पुष्पाणि पुष्पाणां फलानि फलानां पुरुषः पुरुषस्य रेतः ॥ १॥  
   
           मन्त्र २[VI.iv.2]  
-स ह प्रजापतिरीक्षांचक्रे हन्तास्मै प्रतिष्ठां कल्पयानीति स  
+स ह प्रजापतिरीक्षाञ्चक्रे हन्तास्मै प्रतिष्ठां कल्पयानीति स  
 स्त्रियꣳ ससृजे । ताꣳ सृष्ट्वाऽध उपास्त तस्मात्स्त्रियमध  
 उपासीत स एतं प्राञ्चं ग्रावाणमात्मन एव समुदपारयत्  
 तेनैनामभ्यसृजत् ॥ २॥  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIstavaH"
-"File name" = "shrIstava.itx"
-itxtitle = "shrIstavaH 2"
-engtitle = "shrIstavaH 2"
-Category = "devii, lakShmI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-Description-comments = "Found in inscriptions in the Far East lands of Java and Cambodia"
-Indexextra = "(Java)"
-"Latest update" = "November 25, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीस्तवः २"
+---
+Category: devii, lakShmI, stotra, devI
+Description-comments: Found in inscriptions in the Far East lands of Java and Cambodia
+File name: shrIstava.itx
+Indexextra: (Java)
+Language: Sanskrit
+Latest update: November 25, 2006
+Location: doc_devii
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIstavaH
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: shrIstavaH 2
+itxtitle: shrIstavaH 2
+title: श्रीस्तवः २
 
-+++
+---
   
  श्रीस्तवः   
   

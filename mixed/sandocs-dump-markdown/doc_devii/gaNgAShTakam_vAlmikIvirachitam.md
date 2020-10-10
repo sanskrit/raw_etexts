@@ -1,34 +1,34 @@
-+++
-"Text title" = "ga.ngAShTakam"
-"File name" = "gangAShTakamValmiki.itx"
-itxtitle = "gaNgAShTakam (vAlmikIvirachitam)"
-engtitle = "GangAShTakam by Sage Valmiki"
-Category = "aShTaka, devii, nadI, vAlmIki, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Sage Valmiki"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at sify.com"
-"Proofread by" = "N.Balasubramanian bbalu at sify.com"
-"Latest update" = "August 10, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाष्टकम् (वाल्मिकीविरचितम्)"
+---
+Author: Sage Valmiki
+Category: aShTaka, devii, nadI, vAlmIki, devI
+File name: gangAShTakamValmiki.itx
+Language: Sanskrit
+Latest update: August 10, 2007
+Location: doc_devii
+Proofread by: N.Balasubramanian bbalu at sify.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ga.ngAShTakam
+Transliterated by: N.Balasubramanian bbalu at sify.com
+engtitle: GangAShTakam by Sage Valmiki
+itxtitle: gaNgAShTakam (vAlmikIvirachitam)
+title: गण्गाष्टकम् (वाल्मिकीविरचितम्)
 
-+++
+---
   
  गङ्गाष्टकं श्रीवाल्मिकिविरचितम्   
   
 मातः शैलसुता-सपत्नि वसुधा-शृङ्गारहारावलि  
 स्वर्गारोहण-वैजयन्ति भवतीं भागीरथीं प्रार्थये ।  
-त्वत्तीरे वसतः त्वदंबु पिबतस्त्वद्वीचिषु प्रेङ्खतः  
+त्वत्तीरे वसतः त्वदम्बु पिबतस्त्वद्वीचिषु प्रेङ्खतः  
 त्वन्नाम स्मरतस्त्वदर्पितदृशः स्यान्मे शरीरव्ययः ॥ १॥  
   
 त्वत्तीरे तरुकोटरान्तरगतो गङ्गे विहङ्गो परं  
 त्वन्नीरे नरकान्तकारिणि वरं मत्स्योऽथवा कच्छपः ।  
-नैवान्यत्र मदान्धसिन्धुरघटासंघट्टघण्टारण-  
+नैवान्यत्र मदान्धसिन्धुरघटासङ्घट्टघण्टारण-  
 त्कारस्तत्र समस्तवैरिवनिता-लब्धस्तुतिर्भूपतिः ॥ २॥  
   
 उक्षा पक्षी तुरग उरगः कोऽपि वा वारणो वाऽ-  

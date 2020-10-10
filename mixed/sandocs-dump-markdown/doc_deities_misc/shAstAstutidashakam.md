@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAstAstutidashakam"
-"File name" = "shaastaastutidashakam.itx"
-itxtitle = "shAstAstutidashakam"
-engtitle = "shAstAstutidashakam"
-Category = "deities_misc, ayyappa, stotra, dashaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "April 23, 2008, June 26, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शास्तास्तुतिदशकम्"
+---
+Category: deities_misc, ayyappa, stotra, dashaka
+File name: shaastaastutidashakam.itx
+Language: Sanskrit
+Latest update: April 23, 2008, June 26, 2018
+Location: doc_deities_misc
+Proofread by: Antaratma, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: shAstAstutidashakam
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: shAstAstutidashakam
+itxtitle: shAstAstutidashakam
+title: शास्तास्तुतिदशकम्
 
-+++
+---
   
  श्रीशास्तास्तुतिदशकं   
 आशानुरूपफलदं चरणारविन्द-  

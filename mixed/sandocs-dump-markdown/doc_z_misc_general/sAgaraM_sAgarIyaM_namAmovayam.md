@@ -1,24 +1,24 @@
-+++
-"Text title" = "sAgaramsAgarIyam"
-"File name" = "sAgaramsAgarIyam.itx"
-itxtitle = "sAgaraM sAgarIyaM namAmovayam"
-engtitle = "sAgaramsAgarIyam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Description/comments" = "Sung in Rag Kedar"
-Source = "Posted by Peeyush Rathore, Vidya Bharati,  Sanskrit Geet 2017-2018"
-Indexextra = "(Audio, Video, Text, Video 2)"
-"Latest update" = "February 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सागरं सागरीयं नमामोवयम्"
+---
+Category: misc, sanskritgeet
+Description/comments: Sung in Rag Kedar
+File name: sAgaramsAgarIyam.itx
+Indexextra: (Audio, Video, Text, Video 2)
+Language: Sanskrit
+Latest update: February 18, 2018
+Location: doc_z_misc_general
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Posted by Peeyush Rathore, Vidya Bharati,  Sanskrit Geet 2017-2018
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: sAgaramsAgarIyam
+Transliterated by: NA
+engtitle: sAgaramsAgarIyam
+itxtitle: sAgaraM sAgarIyaM namAmovayam
+title: सागरं सागरीयं नमामोवयम्
 
-+++
+---
   
  सागरं सागरीयं नमामोवयम्   
           सागरं सागरीयं नमामोवयम् ।  

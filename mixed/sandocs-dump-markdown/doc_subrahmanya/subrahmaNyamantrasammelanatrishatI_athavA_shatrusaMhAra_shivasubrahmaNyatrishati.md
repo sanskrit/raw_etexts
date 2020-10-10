@@ -1,22 +1,23 @@
-+++
-"Text title" = "Shri Subrahmanya Mantra Sammelana Trishati Shatrusamhara Shivasubrahmanya Trishati"
-"File name" = "subrahmaNyasammelanatrishatI.itx"
-itxtitle = "subrahmaNyamantrasammelanatrishatI athavA shatrusaMhAra shivasubrahmaNyatrishati"
-engtitle = "subrahmaNya mantra sammelana trishatI"
-Category = "shatInAmAvalI, subrahmanya, nAmAvalI, trishatI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mahaperiaval trust"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com, Ravi Venkatraman raviv at hamiltonianusa.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 23, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यमन्त्रसम्मेलनत्रिशती अथवा शत्रुसंहार शिवसुब्रह्मण्यत्रिशति"
+---
+Category: shatInAmAvalI, subrahmanya, nAmAvalI, trishatI
+File name: subrahmaNyasammelanatrishatI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 23, 2019
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran psaeaswaran at gmail.com, Ravi Venkatraman raviv at hamiltonianusa.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Shri Subrahmanya Mantra Sammelana Trishati Shatrusamhara Shivasubrahmanya
+  Trishati
+Transliterated by: Mahaperiaval trust
+engtitle: subrahmaNya mantra sammelana trishatI
+itxtitle: subrahmaNyamantrasammelanatrishatI athavA shatrusaMhAra shivasubrahmaNyatrishati
+title: सुब्रह्मण्यमन्त्रसम्मेलनत्रिशती अथवा शत्रुसंहार शिवसुब्रह्मण्यत्रिशति
 
-+++
+---
   
  श्रीसुब्रह्मण्यमन्त्रसम्मेलनत्रिशती   
 अथवा श्री शत्रुसंहार शिवसुब्रह्मण्यत्रिशति   
@@ -175,7 +176,7 @@ title = "सुब्रह्मण्यमन्त्रसम्मेल�
 हं ... हृदयाम्बुजमध्यस्थविरजव्योमनायकाय ।  
 ळं ... लोकैकनाथाय नमः ॥ ३००॥  
   
-क्षं ... एकपञ्चदशा(ञ्चादशा)क्षरसंपूर्णाय नमः ।  
+क्षं ... एकपञ्चदशा(ञ्चादशा)क्षरसम्पूर्णाय नमः ।  
 अं आं इं ईं उं ऊं ऋं ॠं लृं लॄं एं ऐं ओं औं अं अः  
 कं खं गं घं ङं चं छं जं झं ञं टं ठं डं ढं णं  
 तं थं दं धं नं पं फं बं भं मं  

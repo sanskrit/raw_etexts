@@ -1,21 +1,21 @@
-+++
-"Text title" = "AratI shrImadbhAgavatamahApurANa kI"
-"File name" = "AratIbhAgavata.itx"
-itxtitle = "AratI shrImadbhAgavatamahApurANa kI"
-engtitle = "AratI shrImadbhAgavatamahApurANa kI"
-Category = "AratI, misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Hindi"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-"Proofread by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-"Latest update" = "July 31, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आरती श्रीमद्भागवतमहापुराण की"
+---
+Category: AratI, misc
+File name: AratIbhAgavata.itx
+Language: Hindi
+Latest update: July 31, 2013
+Location: doc_z_misc_general
+Proofread by: Ankur Nagpal ankurnagpal108 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: AratI shrImadbhAgavatamahApurANa kI
+Transliterated by: Ankur Nagpal ankurnagpal108 at gmail.com
+engtitle: AratI shrImadbhAgavatamahApurANa kI
+itxtitle: AratI shrImadbhAgavatamahApurANa kI
+title: आरती श्रीमद्भागवतमहापुराण की
 
-+++
+---
   
  आरती श्रीमद्भागवतमहापुराण की   
   
@@ -35,7 +35,7 @@ title = "आरती श्रीमद्भागवतमहापुरा�
   
 परमहंस-मुनि-मन उल्लासिनि ।  रसिक-हृदय-रस-रासविलासिनि ॥  
   
-भुक्ति-मुक्ति-रति-प्रेम सुदासिनि ।  कथा अकिंचन प्रिय सुजान की ॥ आरती०  
+भुक्ति-मुक्ति-रति-प्रेम सुदासिनि ।  कथा अकिञ्चन प्रिय सुजान की ॥ आरती०  
   
   
 Encoded and proofread by Ankur Nagpal (ankurnagpal108 at gmail.com)  

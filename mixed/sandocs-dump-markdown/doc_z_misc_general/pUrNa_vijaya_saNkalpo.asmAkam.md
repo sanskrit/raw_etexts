@@ -1,23 +1,23 @@
-+++
-"Text title" = "pUrNavijayasankalpo asmAkam"
-"File name" = "pUrNavijayasankalpoasmAkam.itx"
-itxtitle = "pUrNa vijaya saNkalpo.asmAkam"
-engtitle = "pUrNavijayasankalpo asmAkam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Video 1, 2, Hindi)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पूर्ण विजय सण्कल्पोऽस्माकम्"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: pUrNavijayasankalpoasmAkam.itx
+Indexextra: (Wiki, Video 1, 2, Hindi)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: pUrNavijayasankalpo asmAkam
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: pUrNavijayasankalpo asmAkam
+itxtitle: pUrNa vijaya saNkalpo.asmAkam
+title: पूर्ण विजय सण्कल्पोऽस्माकम्
 
-+++
+---
   
  पूर्णविजयसङ्कल्पोऽस्माकम्   
 पूर्णविजयसङ्कल्पोऽस्माकं, सततपरिश्रमशीलवताम् ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vighnaraja Stuti by Devarshi"
-"File name" = "vighnarAjastutiHdevarShibhiHproktA.itx"
-itxtitle = "vighnarAjastutiH devarShibhiH proktA (mudgalapurANAntargatA)"
-engtitle = "vighnarAjastutiH devarShibhiH proktA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan"
-"Proofread by" = "Ajit Krishnan, PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 7, Adhyaya 9"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "विघ्नराजस्तुतिः देवर्षिभिः प्रोक्ता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 7, Adhyaya 9
+File name: vighnarAjastutiHdevarShibhiHproktA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: Ajit Krishnan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Vighnaraja Stuti by Devarshi
+Transliterated by: Ajit Krishnan
+engtitle: vighnarAjastutiH devarShibhiH proktA
+itxtitle: vighnarAjastutiH devarShibhiH proktA (mudgalapurANAntargatA)
+title: विघ्नराजस्तुतिः देवर्षिभिः प्रोक्ता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  विघ्नराजस्तुतिः देवर्षिभिः प्रोक्ता   
 कश्यप उवाच -  

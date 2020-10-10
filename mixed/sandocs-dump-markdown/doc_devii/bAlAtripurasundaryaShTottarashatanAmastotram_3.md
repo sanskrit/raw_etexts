@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Balatripurasundari Ashtottarashatanamastotram 3"
-"File name" = "bAlAtripurasundarIaShTottarashatanAmastotram.itx"
-itxtitle = "bAlAtripurasundaryaShTottarashatanAmastotram 3"
-engtitle = "Shri Balatripurasundari Ashtottarashatanamastotram 3"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "August 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालात्रिपुरसुन्दर्यष्टोत्तरशतनामस्तोत्रम् ३"
+---
+Category: aShTottarashatanAma, devii, dashamahAvidyA, devI
+File name: bAlAtripurasundarIaShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: August 21, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Balatripurasundari Ashtottarashatanamastotram 3
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Shri Balatripurasundari Ashtottarashatanamastotram 3
+itxtitle: bAlAtripurasundaryaShTottarashatanAmastotram 3
+title: बालात्रिपुरसुन्दर्यष्टोत्तरशतनामस्तोत्रम् ३
 
-+++
+---
   
  श्रीबालात्रिपुरसुन्दर्यष्टोत्तरशतनामस्तोत्रम् ३   
 ॐ ऐं ह्रीं श्रीं -  

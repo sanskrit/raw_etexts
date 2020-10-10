@@ -1,24 +1,24 @@
-+++
-"Text title" = "lakShmIhayavadanaratnamAlAstotram"
-"File name" = "lakShmIhayavadanaratnamAlAstotram.itx"
-itxtitle = "lakShmIhayavadanaratnamAlAstotram (abhinavaraNganAthabrahmatantraparakAlamahAdeshikavirachitam)"
-engtitle = "lakShmIhayavadanaratnamAlAstotram"
-Category = "vishhnu, vishnu, lakShmI, pancharatna, devii, mAlAmantra, devI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "lakShmI"
-Author = "Abhinava RanganAthabrahmatantraparakAlamahAdeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rujuta rujuta5879 at gmail.com"
-"Proofread by" = "Rujuta rujuta5879 at gmail.com"
-Indexextra = "(StotraSringeri, Parakala Matha, Prapatti)"
-"Latest update" = "April 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीहयवदनरत्नमालास्तोत्रम् (अभिनवरण्गनाथब्रह्मतन्त्रपरकालमहादेशिकविरचितम्)"
+---
+Author: Abhinava RanganAthabrahmatantraparakAlamahAdeshika
+Category: vishhnu, vishnu, lakShmI, pancharatna, devii, mAlAmantra, devI
+File name: lakShmIhayavadanaratnamAlAstotram.itx
+Indexextra: (StotraSringeri, Parakala Matha, Prapatti)
+Language: Sanskrit
+Latest update: April 2, 2018
+Location: doc_vishhnu
+Proofread by: Rujuta rujuta5879 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: lakShmIhayavadanaratnamAlAstotram
+Transliterated by: Rujuta rujuta5879 at gmail.com
+engtitle: lakShmIhayavadanaratnamAlAstotram
+itxtitle: lakShmIhayavadanaratnamAlAstotram (abhinavaraNganAthabrahmatantraparakAlamahAdeshikavirachitam)
+title: लक्ष्मीहयवदनरत्नमालास्तोत्रम् (अभिनवरण्गनाथब्रह्मतन्त्रपरकालमहादेशिकविरचितम्)
 
-+++
+---
   
  श्रीलक्ष्मीहयवदनरत्नमालास्तोत्रम्   
   

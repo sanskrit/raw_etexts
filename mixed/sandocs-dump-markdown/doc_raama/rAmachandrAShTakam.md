@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAmachandrAShTakam"
-"File name" = "raamachandra8.itx"
-itxtitle = "rAmachandrAShTakam"
-engtitle = "rAmachandrAShTakam"
-Category = "aShTaka, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "madmaradAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.webdunia.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-"Latest update" = "January 13, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामचन्द्राष्टकम्"
+---
+Author: madmaradAsa
+Category: aShTaka, raama
+File name: raamachandra8.itx
+Language: Sanskrit
+Latest update: January 13, 2002
+Location: doc_raama
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmachandrAShTakam
+Transliterated by: http://www.webdunia.com
+engtitle: rAmachandrAShTakam
+itxtitle: rAmachandrAShTakam
+title: रामचन्द्राष्टकम्
 
-+++
+---
   
  श्रीरामचन्द्राष्टकम्   
   

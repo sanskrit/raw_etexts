@@ -1,24 +1,25 @@
-+++
-"Text title" = "Vagmati Sahasranama Stotram"
-"File name" = "vAgmatisahasranAmastotram.itx"
-itxtitle = "vAgmatisahasranAmastotram (skandapurANe himavatkhaNDAntargatam)"
-engtitle = "vAgmatisahasranAmastotram"
-Category = "devii, sahasranAma, stotra, devI, sarsvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Manish Gavkar, PSA Easwaran"
-"Description/comments" = "Skanda Purana, Himavat Khanda (Nepal based). See corresponding nAmAvalI."
-Indexextra = "(Scan, nAmAvalI)"
-"Latest update" = "June 10, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वाग्मतिसहस्रनामस्तोत्रम् (स्कन्दपुराणे हिमवत्खण्डान्तर्गतम्)"
+---
+Category: devii, sahasranAma, stotra, devI, sarsvatI
+Description/comments: Skanda Purana, Himavat Khanda (Nepal based). See corresponding
+  nAmAvalI.
+File name: vAgmatisahasranAmastotram.itx
+Indexextra: (Scan, nAmAvalI)
+Language: Sanskrit
+Latest update: June 10, 2020
+Location: doc_devii
+Proofread by: Manish Gavkar, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vagmati Sahasranama Stotram
+Transliterated by: NA
+engtitle: vAgmatisahasranAmastotram
+itxtitle: vAgmatisahasranAmastotram (skandapurANe himavatkhaNDAntargatam)
+title: वाग्मतिसहस्रनामस्तोत्रम् (स्कन्दपुराणे हिमवत्खण्डान्तर्गतम्)
 
-+++
+---
   
  श्रीवाग्मतिसहस्रनामस्तोत्रम्   
 ॐ श्रीवाग्मत्याः सहस्रनामस्तोत्रस्य गायत्रीच्छन्दः ।  
@@ -100,7 +101,7 @@ title = "वाग्मतिसहस्रनामस्तोत्रम�
 ओङ्कारवक्त्रसम्भूता ओङ्कारपूर्वजप्रिया ॥ ५०॥  
   
 और्ध्वरेतोऽर्च्चिता और्वी और्ध्वदेहफलप्रदा ।  
-औत्तानपादसंप्रीता और्वासमोर्वशीप्रिया ॥ ५१॥  
+औत्तानपादसम्प्रीता और्वासमोर्वशीप्रिया ॥ ५१॥  
   
 अम्बिकाम्बालिकानन्ता अर्णवाध्वरशीर्षगा ।  
 अङ्कुशधारिणी अम्बा अन्नपूर्णान्नकारिणी ॥ ५२॥  
@@ -189,7 +190,7 @@ title = "वाग्मतिसहस्रनामस्तोत्रम�
 झर्झरानिपतन्ती च झङ्केशार्द्धाङ्गहारिणी ।  
 झषावतारसुप्रीता झषवर्गप्रसेविता ॥ ८०॥  
   
-झर्झररवसंक्षिप्ता झकाररूपतोषिता ।  
+झर्झररवसङ्क्षिप्ता झकाररूपतोषिता ।  
 अट्टाट्टहासिनी क्रोधात्कोटिकोटितरङ्गिणी ॥ ८१॥  
   
 तटिनी करहाटाढ्या अटवीक्षितिगामिनी ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "jinavAkstutiH"
-"File name" = "jinavAkstutiH.itx"
-itxtitle = "jinavAkstutiH"
-engtitle = "jinavAkstutiH"
-Category = "devii, jaina, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Latest update" = "April 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जिनवाक्स्तुतिः"
+---
+Category: devii, jaina, sarasvatI, devI
+File name: jinavAkstutiH.itx
+Language: Sanskrit
+Latest update: April 14, 2018
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jinavAkstutiH
+Transliterated by: DPD
+engtitle: jinavAkstutiH
+itxtitle: jinavAkstutiH
+title: जिनवाक्स्तुतिः
 
-+++
+---
   
  श्रीजिनवाक्स्तुतिः   
   

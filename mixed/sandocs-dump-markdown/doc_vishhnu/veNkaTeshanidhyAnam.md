@@ -1,25 +1,25 @@
-+++
-"Text title" = "veNkaTeshanidhyAnam"
-"File name" = "venkaTeshanidhyAnam.itx"
-itxtitle = "veNkaTeshanidhyAnam"
-engtitle = "Venkateshanidhyanam"
-Category = "vishhnu, venkateshwara, stotra, vishnu, dhyAnam"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "April 4, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशनिध्यानम्"
+---
+Category: vishhnu, venkateshwara, stotra, vishnu, dhyAnam
+File name: venkaTeshanidhyAnam.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: April 4, 2015
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veNkaTeshanidhyAnam
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Venkateshanidhyanam
+itxtitle: veNkaTeshanidhyAnam
+title: वेण्कटेशनिध्यानम्
 
-+++
+---
   
  श्रीवेङ्कटेशनिध्यानम्   
   

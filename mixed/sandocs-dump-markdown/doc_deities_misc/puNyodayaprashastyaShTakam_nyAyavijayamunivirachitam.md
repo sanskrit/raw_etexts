@@ -1,23 +1,23 @@
-+++
-"Text title" = "Punyodayaprashasti Ashtakam"
-"File name" = "puNyodayaprashastI.itx"
-itxtitle = "puNyodayaprashastyaShTakam (nyAyavijayamunivirachitam)"
-engtitle = "puNyodayaprashastI Ashtakam"
-Category = "deities_misc, gurudev, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "nyAyavijayamuni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. Jayaraman vyshupjr at gmail.com"
-"Proofread by" = "P. Jayaraman vyshupjr at gmail.com, NA"
-Acknowledge-Permission = "https://stotra.wordpress.com"
-"Latest update" = "March 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पुण्योदयप्रशस्त्यष्टकम् (न्यायविजयमुनिविरचितम्)"
+---
+Acknowledge-Permission: https://stotra.wordpress.com
+Author: nyAyavijayamuni
+Category: deities_misc, gurudev, aShTaka
+File name: puNyodayaprashastI.itx
+Language: Sanskrit
+Latest update: March 2, 2018
+Location: doc_deities_misc
+Proofread by: P. Jayaraman vyshupjr at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Punyodayaprashasti Ashtakam
+Transliterated by: P. Jayaraman vyshupjr at gmail.com
+engtitle: puNyodayaprashastI Ashtakam
+itxtitle: puNyodayaprashastyaShTakam (nyAyavijayamunivirachitam)
+title: पुण्योदयप्रशस्त्यष्टकम् (न्यायविजयमुनिविरचितम्)
 
-+++
+---
   
  पुण्योदयप्रशस्त्यष्टकम्   
 पुण्यमूर्तिः पुण्यचेताः पुण्यधीः पुण्यवाङ्महाः ।  

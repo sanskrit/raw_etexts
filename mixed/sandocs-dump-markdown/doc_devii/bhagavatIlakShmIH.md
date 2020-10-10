@@ -1,25 +1,26 @@
-+++
-"Text title" = "bhagavatIlakShmIH"
-"File name" = "bhagavatIlakShmIH.itx"
-itxtitle = "bhagavatIlakShmIH"
-engtitle = "bhagavatIlakShmIH"
-Category = "devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "narendranAtha sharmA chaudhurI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-"Description/comments" = "Article describing importance of and reference to literature on Lakshmi"
-Indexextra = "(Scan)"
-"Latest update" = "December 31, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवतीलक्ष्मीः"
+---
+Author: narendranAtha sharmA chaudhurI
+Category: devii, lakShmI, devI
+Description/comments: Article describing importance of and reference to literature
+  on Lakshmi
+File name: bhagavatIlakShmIH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 31, 2018
+Location: doc_devii
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhagavatIlakShmIH
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: bhagavatIlakShmIH
+itxtitle: bhagavatIlakShmIH
+title: भगवतीलक्ष्मीः
 
-+++
+---
   
  भगवती लक्ष्मीः   
 (नरेन्द्रनाथ शर्मा चौधुरी)  
@@ -72,7 +73,7 @@ of lakShmI.
 पृष्ठाङ्काः ३८१)  
   
 ध्यानादस्मादवगम्यते यद् भगवतीयं पद्मासनस्था, गौरवर्णा,  
-हस्तद्वयेन केषांचिन्मते हस्तचतुष्टयेन वा पाशं,  
+हस्तद्वयेन केषाञ्चिन्मते हस्तचतुष्टयेन वा पाशं,  
 रुद्राक्षजपमालां, पद्ममङ्कुशं च बिभर्ति । परमेतत्  
 सर्वमेतस्याः कर्मजातं हि प्रकटीकरोति । तथा हि लक्ष्मीतो जनानां  
 भायाबन्धनं पाशेन, धर्मादिकर्म च रुद्राक्षजपमालया,  
@@ -231,7 +232,7 @@ of lakShmI.
 एवञ्चानेन लक्ष्म्या वैशिष्ट्येन सममत्र द्रष्टव्यं यन्महाभागा  
 भगवती उषादेव्यपि नभसि, प्रकृत्या, प्रतिदिनं, प्रत्युषः,  
 हिरण्यवर्णा, ततश्चादित्यवर्णा, तदनन्तरं च शुभ्रवर्णा  
-समालोक्यते । इयं पुनर्मध्याकाशवर्तिनो विष्णुसंज्ञकस्य सूर्यस्य  
+समालोक्यते । इयं पुनर्मध्याकाशवर्तिनो विष्णुसञ्ज्ञकस्य सूर्यस्य  
 पत्नी सूर्या इति च श्रूयते । अपि च भगवतीयं विभातसमये  
 सवनादिकर्मसु प्रेरणाद् धनं, ततश्च स्वाध्यायादिकर्मसु  
 प्रेरणाच्च ज्ञानं जनयति । अतएव इयमेव वर्णक्रमादिभेदाद्  

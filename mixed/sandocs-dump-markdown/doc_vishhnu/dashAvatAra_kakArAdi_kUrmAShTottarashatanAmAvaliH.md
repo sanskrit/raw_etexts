@@ -1,24 +1,25 @@
-+++
-"Text title" = "kakArAdi kUrmAShTottarashatanAmAvaliH"
-"File name" = "kakArAdikUrma108nAmAvaliH.itx"
-itxtitle = "dashAvatAra kakArAdi kUrmAShTottarashatanAmAvaliH"
-engtitle = "kakArAdi kUrmAShTottarashatanAmAvaliH"
-Category = "aShTottarashatanAmAvalI, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "paNDita shrI bellaMkoNDa rAmarAya kavIndra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA"
-"Latest update" = "January 24, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतार ककारादि कूर्माष्टोत्तरशतनामावलिः"
+---
+Author: paNDita shrI bellaMkoNDa rAmarAya kavIndra
+Category: aShTottarashatanAmAvalI, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra,
+  vishnu
+File name: kakArAdikUrma108nAmAvaliH.itx
+Language: Sanskrit
+Latest update: January 24, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kakArAdi kUrmAShTottarashatanAmAvaliH
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: kakArAdi kUrmAShTottarashatanAmAvaliH
+itxtitle: dashAvatAra kakArAdi kUrmAShTottarashatanAmAvaliH
+title: दशावतार ककारादि कूर्माष्टोत्तरशतनामावलिः
 
-+++
+---
   
  ककारादि श्रीकूर्माष्टोत्तरशतनामावलिः   
 श्री हयग्रीवाय नमः ।  
@@ -56,7 +57,7 @@ title = "दशावतार ककारादि कूर्माष्ट
 ॐ कमलासनकल्याणसन्धात्रे नमः । ३०  
 ॐ कलिनाशनाय नमः ।  
 ॐ कटाक्षक्षतदेवार्तये नमः ।  
-ॐ केन्द्रादिविधृतांजलये नमः ।  
+ॐ केन्द्रादिविधृताञ्जलये नमः ।  
 ॐ कालीपतिप्रीतिपात्राय नमः ।  
 ॐ कामितार्धप्रदाय नमः ।  
 ॐ कवये नमः ।  
@@ -66,7 +67,7 @@ title = "दशावतार ककारादि कूर्माष्ट
 ॐ कामहीनाय नमः । ४०  
 ॐ कामहेतवे नमः ।  
 ॐ कामभृते नमः ।  
-ॐ कंजलोचनाय नमः ।  
+ॐ कञ्जलोचनाय नमः ।  
 ॐ क्रतुभुग्दैन्यविध्वंसिने नमः ।  
 ॐ क्रतुभुक्पालकाय नमः ।  
 ॐ क्रतवे नमः ।  
@@ -87,7 +88,7 @@ title = "दशावतार ककारादि कूर्माष्ट
 ॐ कृताद्भुताय नमः ।  
 ॐ कौमोदकीहतामित्राय नमः ।  
 ॐ कौतुकाकलिताहवाय नमः ।  
-ॐ कराशिकंटकोद्धर्त्रे नमः ।  
+ॐ कराशिकण्टकोद्धर्त्रे नमः ।  
 ॐ कविताब्धिमणीसुमाय नमः ।  
 ॐ कैवल्यवल्लरीकन्दाय नमः ।  
 ॐ कन्दुकीकृतचन्दिराय नमः ।  

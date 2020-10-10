@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivAShTakam 3"
-"File name" = "shivAShTakam3.itx"
-itxtitle = "shivAShTakam 3"
-engtitle = "shivAShTakam 3 by Adi ShankarAcharya"
-Category = "aShTaka, shiva, shankarAchArya"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Indexextra = "(version 3 tasmai namaH)"
-"Latest update" = "January 23, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवाष्टकम् ३"
+---
+Author: Adi Shankaracharya
+Category: aShTaka, shiva, shankarAchArya
+File name: shivAShTakam3.itx
+Indexextra: (version 3 tasmai namaH)
+Language: Sanskrit
+Latest update: January 23, 2010
+Location: doc_shiva
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivAShTakam 3
+Transliterated by: DPD
+engtitle: shivAShTakam 3 by Adi ShankarAcharya
+itxtitle: shivAShTakam 3
+title: शिवाष्टकम् ३
 
-+++
+---
   
  श्रीशिवाष्टकम् ३   
   
@@ -72,7 +72,7 @@ title = "शिवाष्टकम् ३"
 शिवाष्टकमिदं पुण्यं यः पठेत् शिवसन्निधौ  
 शिवलोकमवाप्नोति शिवेन सह मोदते ॥  
   
-श्री शंकराचार्यकृतं शिवाष्टकं सम्पूर्णम् ।  
+श्री शङ्कराचार्यकृतं शिवाष्टकं सम्पूर्णम् ।  
   
   
   

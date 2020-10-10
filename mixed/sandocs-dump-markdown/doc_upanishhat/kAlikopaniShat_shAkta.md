@@ -1,23 +1,23 @@
-+++
-"Text title" = "kAlikopaniShat"
-"File name" = "kAlikopaniShat.itx"
-itxtitle = "kAlikopaniShat (shAkta)"
-engtitle = "kAlikopaniShat"
-Category = "upanishhat, devii, devI, upanishad, dashamahAvidyA"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालिकोपनिषत् (शाक्त)"
+---
+Category: upanishhat, devii, devI, upanishad, dashamahAvidyA
+Description-comments: aprakAshitA upaniShadaH
+File name: kAlikopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: kAlikopaniShat
+engtitle: kAlikopaniShat
+itxtitle: kAlikopaniShat (shAkta)
+title: कालिकोपनिषत् (शाक्त)
 
-+++
+---
   
  कालिकोपनिषत्   
 ॐ अथ देनं(?) ब्रह्मरन्ध्रे ब्रह्मरूपिणीमाप्नोति । सुभगां त्रिगुणितां  
@@ -59,7 +59,7 @@ title = "कालिकोपनिषत् (शाक्त)"
 स्थावरजङ्गमं तत्सर्वं कालिकातन्त्रे ओतं प्रोतं वेद ।  
 य एवं मनुजापी स पाप्मानं तरति । स भ्रूणहत्यां तरति ।  
 सोऽगम्यागमनं तरति । स सर्वसुखमाप्नोति । स सर्वं जानाति ।  
-स सर्वसंन्यासई भवति । स विरक्तो भवति । ल्स सर्ववेदाध्यायी  
+स सर्वसन्न्यासई भवति । स विरक्तो भवति । ल्स सर्ववेदाध्यायी  
 भवति । स सर्वमन्त्रजापी भवति । स सर्वशास्रवेत्ता भवति ।  
 स सर्वज्ञानकारी भवति । स आवयोर्मित्रभूतो भवति । इत्याह भगवान्  
 शिवः । निर्विकल्पेन मनसा स वन्द्यो भवति ॥  

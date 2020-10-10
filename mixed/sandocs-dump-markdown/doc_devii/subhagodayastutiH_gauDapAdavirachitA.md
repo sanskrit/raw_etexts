@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Subhagodayastuti"
-"File name" = "subhagodayastuti.itx"
-itxtitle = "subhagodayastutiH (gauDapAdavirachitA)"
-engtitle = "Shrisubhagodayastuti"
-Category = "devii, dashamahAvidyA, stotra, gauDapaada, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "Gaudapadacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Latest update" = "Dec. 24, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुभगोदयस्तुतिः (गौडपादविरचिता)"
+---
+Author: Gaudapadacharya
+Category: devii, dashamahAvidyA, stotra, gauDapaada, devI
+File name: subhagodayastuti.itx
+Language: Sanskrit
+Latest update: Dec. 24, 2013
+Location: doc_devii
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism
+Sublocation: devii
+Text title: Shri Subhagodayastuti
+Texttype: stotra
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Shrisubhagodayastuti
+itxtitle: subhagodayastutiH (gauDapAdavirachitA)
+title: सुभगोदयस्तुतिः (गौडपादविरचिता)
 
-+++
+---
   
  श्रीसुभगोदयस्तुती   
   
@@ -119,7 +119,7 @@ title = "सुभगोदयस्तुतिः (गौडपादविर
 ततोऽभून्नागारं नृपतिदलमस्मात्त्रिवलयं  
         *चतुर्द्वाःप्राकारत्रितयमिदमेवाम्ब *शरणम् ॥ १७॥ varचतुर्धा; चरणम्  
   
-चतुःषष्टिस्तन्त्राण्यपि कुलमतं निन्दितमभू- varकुलनुतंनिन्दितमिदं तदेत  
+चतुःषष्टिस्तन्त्राण्यपि कुलमतं निन्दितमभू- varकुलनुतन्निन्दितमिदं तदेत  
        द्यदेतन्मिश्राख्यं मतमपि भवेन्निन्दितमिह ।  
 शुभाख्याः पञ्चैताः श्रुतिसरणिसिद्धाः प्रकृतयो  
        महाविद्यास्तासां भवति *परमार्थो भगवती ॥ १८॥ varपरमार्था, परमार्थो भगवति  
@@ -175,7 +175,7 @@ title = "सुभगोदयस्तुतिः (गौडपादविर
 अनाहत्या *नादः प्रभवति सुषुम्णाध्वजनितं- varसादः  
       स्तदा वायोस्तत्र प्रभव इदमाहुः समयिनः ॥ २८॥  
   
-तदेतत्ते संवित्कमलमिति संज्ञान्तरमुमे  
+तदेतत्ते संवित्कमलमिति सञ्ज्ञान्तरमुमे  
        भवेत्संवित्पूजा भवति कमलेऽस्मिन्समयिनाम् ।  
 विशुद्ध्याख्ये चक्रे वियदुदितमाहुः समयिनः  
        सदापूर्वो देवः शिव इति हिमानीसमतनुः ॥ २९॥  
@@ -239,7 +239,7 @@ title = "सुभगोदयस्तुतिः (गौडपादविर
 *यथावर्गं वर्णप्रचुरतनवो याभिरभवं- varयदा वर्गा वर्णप्रचुरतरवो  
        स्तव प्रस्तारास्ते त्रय इति जगुस्ते समयिनः ॥ ४०॥  
   
-इमा नित्या वर्णास्तव चरणसंमेलनवशा-  
+इमा नित्या वर्णास्तव चरणसम्मेलनवशा-  
        न्महामेरुस्थाः *स्युर्मनुमिलनकैलासवपुषः । varस्थास्यन्मनु  
 वशिन्याद्या एता अपि *तव सबिन्द्वात्मकतया varच सहबि  
        महीप्रस्तारोऽयं क्रम इति रहस्यं समयिनाम् ॥ ४१॥  
@@ -247,7 +247,7 @@ title = "सुभगोदयस्तुतिः (गौडपादविर
                               इति प्रस्तारत्रयनिरूपणम्॥  
   
 भवेन्मूलाधारं तदुपरितनं चक्रमपि त-  
-       द्द्वयं तामिस्राख्यं शिखिकिरणसंमेलनवशात् ।  
+       द्द्वयं तामिस्राख्यं शिखिकिरणसम्मेलनवशात् ।  
 तदेतत्कौलानां प्रतिदिनमनुष्ठेयमुदितं  
        भवत्या वामाख्यं मतमपि परित्याज्यमुभयम् ॥ ४२॥  
   

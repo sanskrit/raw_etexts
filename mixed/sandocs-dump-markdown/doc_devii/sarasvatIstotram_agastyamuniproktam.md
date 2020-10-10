@@ -1,25 +1,25 @@
-+++
-"Text title" = "sarasvatI stotram"
-"File name" = "sarasvatiAgastya.itx"
-itxtitle = "sarasvatIstotram (agastyamuniproktam)"
-engtitle = "sarasvatI stotram (agastya)"
-Category = "devii, sarasvatI, stotra, agastya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "stotra"
-Author = "agastyamuni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "Traditional"
-Indexextra = "(Agastya)"
-"Latest update" = "January 25, 2005, July 16, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तोत्रम् (अगस्त्यमुनिप्रोक्तम्)"
+---
+Author: agastyamuni
+Category: devii, sarasvatI, stotra, agastya, devI
+Description-comments: Traditional
+File name: sarasvatiAgastya.itx
+Indexextra: (Agastya)
+Language: Sanskrit
+Latest update: January 25, 2005, July 16, 2016
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatI stotram
+Texttype: stotra
+engtitle: sarasvatI stotram (agastya)
+itxtitle: sarasvatIstotram (agastyamuniproktam)
+title: सरस्वतीस्तोत्रम् (अगस्त्यमुनिप्रोक्तम्)
 
-+++
+---
   
  श्रीसरस्वतीस्तोत्रं अगस्त्यमुनिप्रोक्तम्   
   

@@ -1,21 +1,22 @@
-+++
-"Text title" = "Prayers for Eight Immortal Beings"
-"File name" = "chiranjIvIprArthanA.itx"
-itxtitle = "chiranjIvIprArthanA"
-engtitle = "chiranjIvI prArthanA"
-Category = "deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "For chanting for ugrarathashAnti (celebrating 60+ years) or called ShaShTyabdapUrti ShaShTi pUrti"
-Indexextra = "(Scan)"
-"Latest update" = "October 24, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चिरञ्जीवीप्रार्थना"
+---
+Category: deities_misc
+Description/comments: For chanting for ugrarathashAnti (celebrating 60+ years) or
+  called ShaShTyabdapUrti ShaShTi pUrti
+File name: chiranjIvIprArthanA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: October 24, 2019
+Location: doc_deities_misc
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Prayers for Eight Immortal Beings
+engtitle: chiranjIvI prArthanA
+itxtitle: chiranjIvIprArthanA
+title: चिरञ्जीवीप्रार्थना
 
-+++
+---
   
  चिरञ्जीवीप्रार्थना   
 अश्वत्थामा बलिर्व्यासो हनूमांश्च बिभीषणः ।  

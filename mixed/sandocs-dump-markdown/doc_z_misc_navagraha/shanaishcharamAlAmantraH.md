@@ -1,21 +1,21 @@
-+++
-"Text title" = "shriishanaishcharamaalaamantraH"
-"File name" = "shriishanaishcharamaalaamantraH.itx"
-itxtitle = "shanaishcharamAlAmantraH"
-engtitle = "shanaishcharamAlAmantraH"
-Category = "mAlAmantra, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalun at dataone.in"
-"Proofread by" = "N.Balasubramanian bbalun at dataone.in"
-"Latest update" = "March 29, 2009, June 3, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शनैश्चरमालामन्त्रः"
+---
+Category: mAlAmantra, navagraha
+File name: shriishanaishcharamaalaamantraH.itx
+Language: Sanskrit
+Latest update: March 29, 2009, June 3, 2016
+Location: doc_z_misc_navagraha
+Proofread by: N.Balasubramanian bbalun at dataone.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shriishanaishcharamaalaamantraH
+Transliterated by: N.Balasubramanian bbalun at dataone.in
+engtitle: shanaishcharamAlAmantraH
+itxtitle: shanaishcharamAlAmantraH
+title: शनैश्चरमालामन्त्रः
 
-+++
+---
   
  श्रीशनैश्चरमालामन्त्रः   
   

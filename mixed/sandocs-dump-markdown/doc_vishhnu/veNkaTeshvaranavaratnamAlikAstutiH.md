@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIveMkaTeshvaranavaratnamAlikAstutiHm"
-"File name" = "shrIveMkaTeshvaranavaratnamAlikAstutiH.itx"
-itxtitle = "veNkaTeshvaranavaratnamAlikAstutiH"
-engtitle = "VenkateshvaranavaratnamAlikastutiH"
-Category = "vishhnu, venkateshwara, stotra, nava, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "April 4, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेश्वरनवरत्नमालिकास्तुतिः"
+---
+Category: vishhnu, venkateshwara, stotra, nava, vishnu
+File name: shrIveMkaTeshvaranavaratnamAlikAstutiH.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: April 4, 2015
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIveMkaTeshvaranavaratnamAlikAstutiHm
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: VenkateshvaranavaratnamAlikastutiH
+itxtitle: veNkaTeshvaranavaratnamAlikAstutiH
+title: वेण्कटेश्वरनवरत्नमालिकास्तुतिः
 
-+++
+---
   
  श्रीवेङ्कटेश्वरनवरत्नमालिकास्तुतिः   
   
@@ -53,7 +53,7 @@ title = "वेण्कटेश्वरनवरत्नमालिका�
 कारुण्याञ्चत्कटाक्षं कलशजलधिजापीनवक्षोजकोशा-  
 श्लेषावाताङ्गरागोच्छ्यललितनवाङ्कोरुवक्षस्स्थलाढ्यम् ॥ ६॥  
   
-श्रीमन्संपूर्णशीतद्युतिहसनमुखं रम्यबिम्बाधरोष्ठं  
+श्रीमन्सम्पूर्णशीतद्युतिहसनमुखं रम्यबिम्बाधरोष्ठं  
 ग्रीवाप्रालम्बिवक्षस्स्थलसततनटद्वैजयन्तीविलासम् ।  
 आदर्शौपम्यगण्डप्रतिफलितलसत्कुण्डलश्रोत्रयुग्मं  
 स्तौमि त्वां द्योतमानोत्तममणिरुचिरानल्पकोटीरकान्तम् ॥ ७॥  

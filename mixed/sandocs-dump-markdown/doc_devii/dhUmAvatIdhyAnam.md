@@ -1,23 +1,23 @@
-+++
-"Text title" = "dhUmAvatIdhyAnam"
-"File name" = "dhUmAvatIdhyAnam.itx"
-itxtitle = "dhUmAvatIdhyAnam"
-engtitle = "dhUmAvatIdhyAnam"
-Category = "dhyAnam, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 1)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धूमावतीध्यानम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: dhyAnam, devii, devI
+File name: dhUmAvatIdhyAnam.itx
+Indexextra: (stotramanjari 1)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dhUmAvatIdhyAnam
+Transliterated by: Shree Devi Kumar
+engtitle: dhUmAvatIdhyAnam
+itxtitle: dhUmAvatIdhyAnam
+title: धूमावतीध्यानम्
 
-+++
+---
   
  श्रीधूमावती ध्यानम्   
   

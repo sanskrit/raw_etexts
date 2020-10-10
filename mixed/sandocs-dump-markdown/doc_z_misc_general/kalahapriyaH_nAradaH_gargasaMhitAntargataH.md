@@ -1,24 +1,24 @@
-+++
-"Text title" = "kalahapriyaH nAradaH from Gargasamhita"
-"File name" = "kalahapriyaHnAradaHgargasamhitA.itx"
-itxtitle = "kalahapriyaH nAradaH (gargasaMhitAntargataH)"
-engtitle = "kalahapriyaH nAradaH from Gargasamhita"
-Category = "misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "gargasamhitA"
-Indexextra = "(satsangdhArA)"
-Acknowledge-Permission = "Vishwas Bhide http://satsangdhara.net/"
-"Latest update" = "February 3, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कलहप्रियः नारदः (गर्गसंहितान्तर्गतः)"
+---
+Acknowledge-Permission: Vishwas Bhide http://satsangdhara.net/
+Category: misc
+Description-comments: gargasamhitA
+File name: kalahapriyaHnAradaHgargasamhitA.itx
+Indexextra: (satsangdhArA)
+Language: Sanskrit
+Latest update: February 3, 2016
+Location: doc_z_misc_general
+Proofread by: Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: kalahapriyaH nAradaH from Gargasamhita
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com
+engtitle: kalahapriyaH nAradaH from Gargasamhita
+itxtitle: kalahapriyaH nAradaH (gargasaMhitAntargataH)
+title: कलहप्रियः नारदः (गर्गसंहितान्तर्गतः)
 
-+++
+---
   
  कलहप्रियः नारदः   
   

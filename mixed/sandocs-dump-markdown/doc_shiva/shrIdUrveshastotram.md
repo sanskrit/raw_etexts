@@ -1,21 +1,22 @@
-+++
-"Text title" = "shrIdUrveshastotram"
-"File name" = "shrIdUrveshastotram.itx"
-itxtitle = "shrIdUrveshastotram"
-engtitle = "shrIdUrveshastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "February 20, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीदूर्वेशस्तोत्रम्"
+---
+Category: shiva
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: shrIdUrveshastotram.itx
+Language: Sanskrit
+Latest update: February 20, 2017
+Location: doc_shiva
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shrIdUrveshastotram
+engtitle: shrIdUrveshastotram
+itxtitle: shrIdUrveshastotram
+title: श्रीदूर्वेशस्तोत्रम्
 
-+++
+---
   
  श्रीदूर्वेशस्तोत्रम्   
   

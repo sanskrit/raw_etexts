@@ -1,22 +1,22 @@
-+++
-"Text title" = "lingAShTottarashatanAmAvaliH"
-"File name" = "lingAShTottarashatanAmAvalI.itx"
-itxtitle = "liNgAShTottarashatanAmAvaliH"
-engtitle = "lingAShTottarashatanAmAvaliH"
-Category = "aShTottarashatanAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar"
-Source = "Page 397 of shivanAmamanjarI 2 by S. V. Radhakrishna Sastri"
-"Latest update" = "October 21, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लिण्गाष्टोत्तरशतनामावलिः"
+---
+Category: aShTottarashatanAmAvalI, shiva
+File name: lingAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: October 21, 2016
+Location: doc_shiva
+Proofread by: Shree Devi Kumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Page 397 of shivanAmamanjarI 2 by S. V. Radhakrishna Sastri
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: lingAShTottarashatanAmAvaliH
+Transliterated by: Shree Devi Kumar
+engtitle: lingAShTottarashatanAmAvaliH
+itxtitle: liNgAShTottarashatanAmAvaliH
+title: लिण्गाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  लिङ्गाष्टोत्तरशतनामावलिः   
 ॥ श्री लिङ्गेभ्यो नमः ॥  

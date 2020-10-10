@@ -1,24 +1,24 @@
-+++
-"Text title" = "ekAdashamukhihanumatkavacham (From Rudrayamala)"
-"File name" = "ekAdashamukhihanumatkavacham1.itx"
-itxtitle = "ekAdashamukhihanumatkavacham (rudrayAmalAntargatam)"
-engtitle = "ekAdashamukhihanumatkavacham (From Rudrayamala)"
-Category = "kavacha, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Indexextra = "(Video)"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकादशमुखिहनुमत्कवचम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: kavacha, hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: ekAdashamukhihanumatkavacham1.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: ekAdashamukhihanumatkavacham (From Rudrayamala)
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: ekAdashamukhihanumatkavacham (From Rudrayamala)
+itxtitle: ekAdashamukhihanumatkavacham (rudrayAmalAntargatam)
+title: एकादशमुखिहनुमत्कवचम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  एकादशमुखिहनुमत्कवचम् १   
 (रुद्रयामलतः)  

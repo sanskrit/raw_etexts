@@ -1,24 +1,25 @@
-+++
-"Text title" = "Bharata Bhuprashasti"
-"File name" = "bhAratabhUprashastiH.itx"
-itxtitle = "bhAratabhUprashastiH (bhAratarAShTragItam)"
-engtitle = "bhAratabhUprashastiH"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "tArAcharaNa bhaTTAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारतभूप्रशस्तिः (भारतराष्ट्रगीतम्)"
+---
+Author: tArAcharaNa bhaTTAchArya
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: bhAratabhUprashastiH.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bharata Bhuprashasti
+Translated by: Mandar Mali
+engtitle: bhAratabhUprashastiH
+itxtitle: bhAratabhUprashastiH (bhAratarAShTragItam)
+title: भारतभूप्रशस्तिः (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  भारतभूप्रशस्तिः   
 जय भारतभूमि भासि विश्वभुवन-वन्दिता  

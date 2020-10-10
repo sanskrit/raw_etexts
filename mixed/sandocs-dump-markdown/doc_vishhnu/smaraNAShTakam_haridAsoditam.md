@@ -1,24 +1,24 @@
-+++
-"Text title" = "smaraNAShTakam"
-"File name" = "smaraNAShTakam.itx"
-itxtitle = "smaraNAShTakam (haridAsoditam)"
-engtitle = "smaraNAShTakam"
-Category = "vishhnu, krishna, puShTimArgIya, aShTaka, haridAsa"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "haridAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्मरणाष्टकम् (हरिदासोदितम्)"
+---
+Author: haridAsa
+Category: vishhnu, krishna, puShTimArgIya, aShTaka, haridAsa
+Description/comments: puShTimArgIya stotraratnAkara
+File name: smaraNAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: smaraNAShTakam
+engtitle: smaraNAShTakam
+itxtitle: smaraNAShTakam (haridAsoditam)
+title: स्मरणाष्टकम् (हरिदासोदितम्)
 
-+++
+---
   
  श्रीस्मरणाष्टकम्   
   

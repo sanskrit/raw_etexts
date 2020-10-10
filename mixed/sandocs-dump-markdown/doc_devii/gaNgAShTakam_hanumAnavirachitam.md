@@ -1,23 +1,23 @@
-+++
-"Text title" = "Gangashtakam by Hanuman"
-"File name" = "gangAShTakamhanumAn.itx"
-itxtitle = "gaNgAShTakam (hanumAnavirachitam)"
-engtitle = "gangAShTakam hanumAn"
-Category = "devii, nadI, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Proofread by" = "Shree Devi Kumar shreeshrii at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "November 3, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाष्टकम् (हनुमानविरचितम्)"
+---
+Category: devii, nadI, aShTaka, devI
+File name: gangAShTakamhanumAn.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 3, 2019
+Location: doc_devii
+Proofread by: Shree Devi Kumar shreeshrii at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangashtakam by Hanuman
+Transliterated by: Shree Devi Kumar shreeshrii at gmail.com
+engtitle: gangAShTakam hanumAn
+itxtitle: gaNgAShTakam (hanumAnavirachitam)
+title: गण्गाष्टकम् (हनुमानविरचितम्)
 
-+++
+---
   
  गङ्गाष्टकम्   
 ॥ श्रीगणेशाय नमः ॥  

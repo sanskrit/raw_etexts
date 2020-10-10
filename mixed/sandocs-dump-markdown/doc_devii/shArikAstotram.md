@@ -1,22 +1,22 @@
-+++
-"Text title" = "shArikAstotram"
-"File name" = "shArikAstotram.itx"
-itxtitle = "shArikAstotram"
-engtitle = "shArikAstotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan gmail.com, NA"
-"Latest update" = "June 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारिकास्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, devI
+File name: shArikAstotram.itx
+Language: Sanskrit
+Latest update: June 17, 2018
+Location: doc_devii
+Proofread by: Nat Natarajan nat.natarajan gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shArikAstotram
+Transliterated by: Nat Natarajan nat.natarajan gmail.com
+engtitle: shArikAstotram
+itxtitle: shArikAstotram
+title: शारिकास्तोत्रम्
 
-+++
+---
   
  श्रीशारिकास्तोत्रम्   
 श्रीशारिके शरण्ये त्वं मयि दासे कृपां कुरु ।  

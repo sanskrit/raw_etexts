@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNeshAShTakam 2"
-"File name" = "gaNeshAShTakam2.itx"
-itxtitle = "gaNeshAShTakam 2 (padmapurNAntargatam vyAsavirachitam gaNapatiparivAraM)"
-engtitle = "gaNeshAShTakam 2"
-Category = "ganesha, aShTaka"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Maharshi Vyas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri, padmapurNa"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशाष्टकम् २ (पद्मपुर्णान्तर्गतम् व्यासविरचितम् गणपतिपरिवारं)"
+---
+Author: Maharshi Vyas
+Category: ganesha, aShTaka
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri, padmapurNa
+File name: gaNeshAShTakam2.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_ganesha
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshAShTakam 2
+engtitle: gaNeshAShTakam 2
+itxtitle: gaNeshAShTakam 2 (padmapurNAntargatam vyAsavirachitam gaNapatiparivAraM)
+title: गणेशाष्टकम् २ (पद्मपुर्णान्तर्गतम् व्यासविरचितम् गणपतिपरिवारं)
 
-+++
+---
   
  गणेशाष्टकम् २   
 गणपति-परिवारं चारुकेयूरहारं  

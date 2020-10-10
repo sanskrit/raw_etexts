@@ -1,25 +1,25 @@
-+++
-"Text title" = "rAdhopaniShat"
-"File name" = "rAdhopaniShat.itx"
-itxtitle = "rAdhopaniShat"
-engtitle = "rAdhopaniShat"
-Category = "upanishhat, upanishad, radha"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Unpublished Upanishads, Adyar library collection, 1933"
-Indexextra = "(scan)"
-Acknowledge-Permission = "Older granthamandira"
-"Latest update" = "November 22, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधोपनिषत्"
+---
+Acknowledge-Permission: Older granthamandira
+Category: upanishhat, upanishad, radha
+File name: rAdhopaniShat.itx
+Indexextra: (scan)
+Language: Sanskrit
+Latest update: November 22, 2015
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Unpublished Upanishads, Adyar library collection, 1933
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: rAdhopaniShat
+Transliterated by: Jan Brzezinski
+engtitle: rAdhopaniShat
+itxtitle: rAdhopaniShat
+title: राधोपनिषत्
 
-+++
+---
   
  राधोपनिषत्   
 प्रथमः प्रपाठकः  

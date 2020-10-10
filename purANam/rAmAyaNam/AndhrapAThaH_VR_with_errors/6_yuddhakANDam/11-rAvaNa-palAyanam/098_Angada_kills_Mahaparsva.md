@@ -3,7 +3,6 @@ title: 098 Angada kills Mahaparsva
 title_english: 098 Angada kills Mahaparsva
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-098-Angada_kills_Mahaparsva_0.mp3"></div>
 
 महोदरे तु निहते महापार्श्वो महाबलः ।  
@@ -22,7 +21,7 @@ title_english: 098 Angada kills Mahaparsva
 स तु तेन प्रहारेण महापार्श्वो विचेतनः ॥६-९८-७  
 ससूतः स्यन्दनात्तस्माद्विसन्ज्ञः प्रापतद्भुवि ।  
 यस्यर्क्षराजस्तु तेजस्वी नीलाज्ञनचयोपमः ॥६-९८-८  
-निष्पत्य सुमहावीर्यः स्वाद्यूथान्मेघसंनिभात् ।  
+निष्पत्य सुमहावीर्यः स्वाद्यूथान्मेघसन्निभात् ।  
 प्रगृह्य गिरिशृङ्गाभान् क्रुद्धः स विपुलान् शिलाम् ॥६-९८-९  
 अश्वाञ्जघान तरसा स्यन्दनन् च बभञ्ज तम् ।  
 मुहूर्ताल्लब्धसन्ज्ञस्तु महापार्श्वो महाबलः ॥६-९८-१०  

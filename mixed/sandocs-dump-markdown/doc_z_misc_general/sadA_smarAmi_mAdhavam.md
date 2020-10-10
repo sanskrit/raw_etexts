@@ -1,20 +1,20 @@
-+++
-"Text title" = "Sada Smarami Madhavam"
-"File name" = "sadAsmarAmimAdhavam.itx"
-itxtitle = "sadA smarAmi mAdhavam"
-engtitle = "Sada Smarami Madhavam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Text)"
-"Latest update" = "February 5, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सदा स्मरामि माधवम्"
+---
+Category: misc, sanskritgeet
+File name: sadAsmarAmimAdhavam.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: February 5, 2020
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Sada Smarami Madhavam
+engtitle: Sada Smarami Madhavam
+itxtitle: sadA smarAmi mAdhavam
+title: सदा स्मरामि माधवम्
 
-+++
+---
   
  सदा स्मरामि माधवम्   
 सुदर्शनं सदाशिवं सदा स्मरामि माधवं  

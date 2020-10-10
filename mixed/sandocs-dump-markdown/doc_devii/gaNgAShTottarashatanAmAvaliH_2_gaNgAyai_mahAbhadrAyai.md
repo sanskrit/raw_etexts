@@ -1,23 +1,23 @@
-+++
-"Text title" = "gangAShTottarashatanAmAvaliH (2) 108 Names"
-"File name" = "gangAShTottarashatanAmAvaliH2.itx"
-itxtitle = "gaNgAShTottarashatanAmAvaliH 2 (gaNgAyai, mahAbhadrAyai)"
-engtitle = "gangAShTottarashatanAmAvaliH 2"
-Category = "devii, aShTottarashatanAmAvalI, nAmAvalI, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Pandit Shri Rama Ramanuja Acharya, srimatham.com"
-"Latest update" = "June 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाष्टोत्तरशतनामावलिः २ (गण्गायै, महाभद्रायै)"
+---
+Acknowledge-Permission: Pandit Shri Rama Ramanuja Acharya, srimatham.com
+Category: devii, aShTottarashatanAmAvalI, nAmAvalI, nadI, devI
+File name: gangAShTottarashatanAmAvaliH2.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: June 22, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gangAShTottarashatanAmAvaliH (2) 108 Names
+engtitle: gangAShTottarashatanAmAvaliH 2
+itxtitle: gaNgAShTottarashatanAmAvaliH 2 (gaNgAyai, mahAbhadrAyai)
+title: गण्गाष्टोत्तरशतनामावलिः २ (गण्गायै, महाभद्रायै)
 
-+++
+---
   
  गङ्गाष्टोत्तरशतनामावलिः २   
 ॐ गङ्गायै नमः । महाभद्रायै । माहामायायै । वरप्रदायै ।  

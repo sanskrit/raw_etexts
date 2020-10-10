@@ -1,29 +1,29 @@
-+++
-"Text title" = "siddhivinAyaka stotram"
-"File name" = "siddhivinaayaka.itx"
-itxtitle = "siddhivinAyakastotram"
-engtitle = "siddhivinAyaka stotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "M Suresh msuresh at altavista.net"
-"Proofread by" = "M Suresh msuresh at altavista.net"
-"Latest update" = "December 25, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धिविनायकस्तोत्रम्"
+---
+Category: ganesha, stotra
+File name: siddhivinaayaka.itx
+Language: Sanskrit
+Latest update: December 25, 1998
+Location: doc_ganesha
+Proofread by: M Suresh msuresh at altavista.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: siddhivinAyaka stotram
+Texttype: stotra
+Transliterated by: M Suresh msuresh at altavista.net
+engtitle: siddhivinAyaka stotram
+itxtitle: siddhivinAyakastotram
+title: सिद्धिविनायकस्तोत्रम्
 
-+++
+---
   
  श्रीसिद्धिविनायकस्तोत्रम्   
   
 जयोऽस्तु ते गणपते देहि मे विपुलां मतिम् ।  
 स्तवनम् ते सदा कर्तुं स्फूर्ति यच्छममानिशम् ॥ १॥  
   
-प्रभुं मंगलमूर्तिं त्वां चन्द्रेन्द्रावपि ध्यायतः ।  
+प्रभुं मङ्गलमूर्तिं त्वां चन्द्रेन्द्रावपि ध्यायतः ।  
 यजतस्त्वां विष्णुशिवौ ध्यायतश्चाव्ययं सदा ॥ २॥  
   
 विनायकं च प्राहुस्त्वां गजास्यं शुभदायकम् ।  
@@ -39,10 +39,10 @@ title = "सिद्धिविनायकस्तोत्रम्"
 त्वत्पादयोरनन्यार्थी याचे सर्वार्थ रक्षणम् ॥ ६॥  
   
 त्वमेव माता च पिता देवस्त्वं च ममाव्ययः ।  
-अनाथनाथस्त्वं देहि विभो मे वांछितं फलम् ॥ ७॥  
+अनाथनाथस्त्वं देहि विभो मे वाञ्छितं फलम् ॥ ७॥  
   
 लम्बोदरस्वम् गजास्यो विभुः सिद्धिविनायकः ।  
-हेरम्बः शिवपुत्रस्त्वं विघ्नेशोऽनाथबांधवः ॥ ८॥  
+हेरम्बः शिवपुत्रस्त्वं विघ्नेशोऽनाथबान्धवः ॥ ८॥  
   
 नागाननो भक्तपालो वरदस्त्वं दयां कुरु ।  
 सिन्दूरवर्णः परशुहस्तस्त्वं विघ्ननाशकः ॥ ९॥  

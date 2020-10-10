@@ -1,24 +1,24 @@
-+++
-"Text title" = "hrasvabhAgavatam"
-"File name" = "hrasvabhAgavatam.itx"
-itxtitle = "hrasvabhAgavatam (paleli nambUdiri virachitam)"
-engtitle = "hrasvabhAgavatam"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Texttype = "stotra"
-Author = "Paleli Namboodiri, author of Devi Narayaneeyam"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Translation)"
-"Latest update" = "May 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ह्रस्वभागवतम् (पलेलि नम्बूदिरि विरचितम्)"
+---
+Author: Paleli Namboodiri, author of Devi Narayaneeyam
+Category: vishhnu
+File name: hrasvabhAgavatam.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: May 9, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: hrasvabhAgavatam
+Texttype: stotra
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: hrasvabhAgavatam
+itxtitle: hrasvabhAgavatam (paleli nambUdiri virachitam)
+title: ह्रस्वभागवतम् (पलेलि नम्बूदिरि विरचितम्)
 
-+++
+---
   
  ह्रस्वभागवतम्   
   

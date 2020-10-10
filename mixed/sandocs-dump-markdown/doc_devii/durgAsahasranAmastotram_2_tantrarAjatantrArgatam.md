@@ -1,22 +1,22 @@
-+++
-"Text title" = "durgAsahasranAmastotram 2 from TantrarAjatantra"
-"File name" = "durgAsahasranAmastotramtantrarAja.itx"
-itxtitle = "durgAsahasranAmastotram 2 (tantrarAjatantrArgatam)"
-engtitle = "Shri Durga Sahasranamastotram 2 from TantrarAjatantra"
-Category = "sahasranAma, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, Alex"
-"Proofread by" = "DPD, NA"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गासहस्रनामस्तोत्रम् २ (तन्त्रराजतन्त्रार्गतम्)"
+---
+Category: sahasranAma, devii, durgA, devI
+File name: durgAsahasranAmastotramtantrarAja.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_devii
+Proofread by: DPD, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAsahasranAmastotram 2 from TantrarAjatantra
+Transliterated by: DPD, Alex
+engtitle: Shri Durga Sahasranamastotram 2 from TantrarAjatantra
+itxtitle: durgAsahasranAmastotram 2 (tantrarAjatantrArgatam)
+title: दुर्गासहस्रनामस्तोत्रम् २ (तन्त्रराजतन्त्रार्गतम्)
 
-+++
+---
   
  श्रीदुर्गासहस्रनामस्तोत्रम् २   
 तन्त्रराजतन्त्रे  

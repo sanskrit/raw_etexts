@@ -1,21 +1,21 @@
-+++
-"Text title" = "mantravarNAkSharayuktashrIrAmAShTottarashatanAmAvaliH"
-"File name" = "mantravarNAkSharayuktashrIrAmAShTottarashatanAmAvaliH.itx"
-itxtitle = "rAmAShTottarashatanAmAvaliH 10 mantravarNAkSharayukta"
-engtitle = "Mantravarnaksharayukta Shri Ramashtottarashatanamavalih"
-Category = "raama, aShTottarashatanAmAvalI"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टोत्तरशतनामावलिः १० मन्त्रवर्णाक्षरयुक्त"
+---
+Category: raama, aShTottarashatanAmAvalI
+File name: mantravarNAkSharayuktashrIrAmAShTottarashatanAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: mantravarNAkSharayuktashrIrAmAShTottarashatanAmAvaliH
+engtitle: Mantravarnaksharayukta Shri Ramashtottarashatanamavalih
+itxtitle: rAmAShTottarashatanAmAvaliH 10 mantravarNAkSharayukta
+title: रामाष्टोत्तरशतनामावलिः १० मन्त्रवर्णाक्षरयुक्त
 
-+++
+---
   
  मन्त्रवर्णाक्षरयुक्त श्रीरामाष्टोत्तरशतनामावलिः   
 श्रीरामाय नमः ।  

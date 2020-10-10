@@ -1,24 +1,24 @@
-+++
-"Text title" = "saptashatI siddha sampuTamantra"
-"File name" = "saptashatIsiddhasampuTamantra.itx"
-itxtitle = "saptashatI siddhasampuTamantrAH"
-engtitle = "saptashatI siddha sampuTamantra"
-Category = "mantra, devii, durgA, shatI, devI, saptashatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "animesh1978 at gmail.com"
-"Proofread by" = "animesh1978 at gmail.com"
-Description-comments = "Gita press gorakhpur publication shrIdurgAsaptashatii"
-"Latest update" = "September 16, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सप्तशती सिद्धसम्पुटमन्त्राः"
+---
+Author: Traditional
+Category: mantra, devii, durgA, shatI, devI, saptashatI
+Description-comments: Gita press gorakhpur publication shrIdurgAsaptashatii
+File name: saptashatIsiddhasampuTamantra.itx
+Language: Sanskrit
+Latest update: September 16, 2005
+Location: doc_devii
+Proofread by: animesh1978 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: saptashatI siddha sampuTamantra
+Transliterated by: animesh1978 at gmail.com
+engtitle: saptashatI siddha sampuTamantra
+itxtitle: saptashatI siddhasampuTamantrAH
+title: सप्तशती सिद्धसम्पुटमन्त्राः
 
-+++
+---
   
  सप्तशती सिद्ध सम्पुटमन्त्राः   
   

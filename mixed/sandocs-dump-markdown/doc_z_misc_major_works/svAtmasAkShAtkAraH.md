@@ -1,24 +1,24 @@
-+++
-"Text title" = "Svatmasakshatkara"
-"File name" = "svatmasakshatkara.itx"
-itxtitle = "svAtmasAkShAtkAraH"
-engtitle = "SvatmasakShatkaraH"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail"
-Description-comments = "Sarvajnanottara Agama http://shodhganga.inflibnet.ac.in/handle/10603/1354"
-Indexextra = "(sarvajnAnottara Agama)"
-"Latest update" = "April 21, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वात्मसाक्षात्कारः"
+---
+Author: Traditional
+Category: major_works
+Description-comments: Sarvajnanottara Agama http://shodhganga.inflibnet.ac.in/handle/10603/1354
+File name: svatmasakshatkara.itx
+Indexextra: (sarvajnAnottara Agama)
+Language: Sanskrit
+Latest update: April 21, 2013
+Location: doc_z_misc_major_works
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: Svatmasakshatkara
+Texttype: pramukha
+Transliterated by: Sunder Hattangadi sunderh at hotmail
+engtitle: SvatmasakShatkaraH
+itxtitle: svAtmasAkShAtkAraH
+title: स्वात्मसाक्षात्कारः
 
-+++
+---
   
  स्वात्मसाक्षात्कारः   
   
@@ -52,7 +52,7 @@ title = "स्वात्मसाक्षात्कारः"
 मया व्याप्तमिदं सर्वं दृश्यादृश्यं चराचरम् ।  
 अहमेव जगन्नाथो मत्तः सर्वं प्रकाशते ॥ ९॥  
   
-अनेकाकारसंभिन्नं विश्वं भुवनसञ्चयम् ।  
+अनेकाकारसम्भिन्नं विश्वं भुवनसञ्चयम् ।  
 शिवाद्यवनिपर्यन्तं तत्सर्वं मयि संस्थितम् ॥ १०॥  
   
 यच्चकिञ्चिज्जगत्यस्मिन् दृश्यते श्रूयतेऽपि वा ।  
@@ -83,7 +83,7 @@ title = "स्वात्मसाक्षात्कारः"
 स्थूलो मन्त्रमयः प्रोक्तः सूक्ष्मो ध्यानैकसंस्थितः ॥ १९॥  
   
 अथवा बहुशोऽनेन किमुक्तेन षडानन ।  
-वाग्विकल्पविशेषेण मनः संमोहकारिणा ॥ २०॥  
+वाग्विकल्पविशेषेण मनः सम्मोहकारिणा ॥ २०॥  
   
 सर्वे धर्मात्मनः सन्ति यद्येवं परिकल्पयेत् ।  
 तत्तद्भवत्यसन्देहात् सदा तद्भावभावतः ॥ २१॥  
@@ -121,7 +121,7 @@ title = "स्वात्मसाक्षात्कारः"
 निराश्रयं निरालम्बमप्रमेयमनूपमम् ।  
 स्वभावविमलं नित्यमात्मानं पर्युपासयेत् ॥ ३२॥  
   
-संन्यस्य सर्वकर्माणि निःस्पृहः सङ्गवर्जितः ।  
+सन्न्यस्य सर्वकर्माणि निःस्पृहः सङ्गवर्जितः ।  
 भावयेदात्मनात्मानमात्मन्येवात्मनि स्थितम् ॥ ३३॥  
   
 स देशजातिसम्बन्धान्वर्णाश्रमसमन्वितान् ।  

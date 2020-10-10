@@ -1,21 +1,21 @@
-+++
-"Text title" = "nahuShagItA"
-"File name" = "nahuShagiitaa.itx"
-itxtitle = "nahuShagItA"
-engtitle = "nahuShagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunder at hotmail.com"
-Indexextra = "(scanned)"
-"Latest update" = "January 12, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नहुषगीता"
+---
+Category: gItA, giitaa
+File name: nahuShagiitaa.itx
+Indexextra: (scanned)
+Language: Sanskrit
+Latest update: January 12, 2012
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunder at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: nahuShagItA
+engtitle: nahuShagItA
+itxtitle: nahuShagItA
+title: नहुषगीता
 
-+++
+---
   
  नहुषगीता   
   
@@ -153,7 +153,7 @@ title = "नहुषगीता"
 एषां कार्यगरीयस्त्वाद्दृश्यते गुरुलाघवम् ॥ ४॥  
   
 कस्माच्चिद्दानयोगाद्धि सत्यमेव विशिष्यते ।  
-सत्यवाक्याच्च राजेन्द्र किंचिद्दानं विशिष्यते ॥ ५॥  
+सत्यवाक्याच्च राजेन्द्र किञ्चिद्दानं विशिष्यते ॥ ५॥  
   
 एवमेव महेष्वास प्रियवाक्यान्महीपते ।  
 अहिंसा दृश्यते गुर्वी ततश्च प्रियमिष्यते ॥ ६॥  
@@ -247,7 +247,7 @@ title = "नहुषगीता"
 अहं हि दिवि दिव्येन विमानेन चरन्पुरा ।  
 अभिमानेन मत्तः सन्कं चिन्नान्यमचिन्तयम् ॥ ३३॥  
   
-ब्रह्मर्षिदेवगन्धर्वयक्षराक्षस किंनराः ।  
+ब्रह्मर्षिदेवगन्धर्वयक्षराक्षस किन्नराः ।  
 करान्मम प्रयच्छन्ति सर्वे त्रैलोक्यवासिनः ॥ ३४॥  
   
 चक्षुषा यं प्रपश्यामि प्राणिनं पृथिवीपते ।  

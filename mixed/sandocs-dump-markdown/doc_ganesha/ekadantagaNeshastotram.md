@@ -1,24 +1,24 @@
-+++
-"Text title" = "ekadantagaNesha stotram"
-"File name" = "ekadantagaNeshastotra.itx"
-itxtitle = "ekadantagaNeshastotram"
-engtitle = "ekada.ntagaNeshastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Available at webdunia.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "April 27, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकदन्तगणेशस्तोत्रम्"
+---
+Category: ganesha, stotra
+File name: ekadantagaNeshastotra.itx
+Language: Sanskrit
+Latest update: April 27, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: ganesha
+Text title: ekadantagaNesha stotram
+Texttype: stotra
+Transliterated by: Available at webdunia.com
+engtitle: ekada.ntagaNeshastotram
+itxtitle: ekadantagaNeshastotram
+title: एकदन्तगणेशस्तोत्रम्
 
-+++
+---
   
- एकदंतगणेशस्तोत्रम्   
+ एकदन्तगणेशस्तोत्रम्   
   
 श्रीगणेशाय नमः ।  
 मदासुरं सुशान्तं वै दृष्ट्वा विष्णुमुखाः सुराः ।  
@@ -117,7 +117,7 @@ title = "एकदन्तगणेशस्तोत्रम्"
 एकविंशतिवारं च श्लोकांश्चैवैकविंशतिम् ।  
 पठते नित्यमेवं च दिनानि त्वेकविंशतिम् ॥ ३१॥  
   
-न तस्य दुर्लभं किंचित् त्रिषु लोकेषु वै भवेत् ।  
+न तस्य दुर्लभं किञ्चित् त्रिषु लोकेषु वै भवेत् ।  
 असाध्यं साधयेन् मर्त्यः सर्वत्र विजयी भवेत् ॥ ३२॥  
   
 नित्यं यः पठते स्तोत्रं ब्रह्मभूतः स वै नरः ।  

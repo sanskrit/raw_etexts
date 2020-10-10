@@ -1,24 +1,24 @@
-+++
-"Text title" = "Jayini Bhava Suravani"
-"File name" = "jayinIbhavasuravANi.itx"
-itxtitle = "jayinI bhava suravANi"
-engtitle = "jayinI bhava suravANi"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "shrI gaNapayyahoLLaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयिनी भव सुरवाणि"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: shrI gaNapayyahoLLaH
+Category: misc, sanskritgeet
+File name: jayinIbhavasuravANi.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Jayini Bhava Suravani
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: jayinI bhava suravANi
+itxtitle: jayinI bhava suravANi
+title: जयिनी भव सुरवाणि
 
-+++
+---
   
  जयिनी भव सुरवाणि   
 जयिनी भव सुरवाणि  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "kiraatashaastuH aShTottarashatanaamastotram"
-"File name" = "kiraata108stotra.itx"
-itxtitle = "kirAtashAstuH aShTottarashatanAmastotram"
-engtitle = "kirAtashAstuH aShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 17, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "किरातशास्तुः अष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, deities_misc, stotra
+File name: kiraata108stotra.itx
+Language: Sanskrit
+Latest update: April 17, 2007
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: kiraatashaastuH aShTottarashatanaamastotram
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: kirAtashAstuH aShTottarashatanAmastotram
+itxtitle: kirAtashAstuH aShTottarashatanAmastotram
+title: किरातशास्तुः अष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीकिरातशास्तुः अष्टोत्तरशतनामस्तोत्रम्   
   

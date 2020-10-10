@@ -1,25 +1,25 @@
-+++
-"Text title" = "sArtha gAyatrI mantra"
-"File name" = "sArthagAyatrI.itx"
-itxtitle = "sArtha gAyatrI mantrArthaH"
-engtitle = "Gayatri Mantra"
-Category = "deities_misc, stotra, vidyAraNya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Author = "Sw. Vidyaranya (circa 13 cent. A.D.)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "Advaita meaning of Gayatri mantra"
-Indexextra = "(Vidyaranya)"
-"Latest update" = "May 4, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सार्थ गायत्री मन्त्रार्थः"
+---
+Author: Sw. Vidyaranya (circa 13 cent. A.D.)
+Category: deities_misc, stotra, vidyAraNya
+Description-comments: Advaita meaning of Gayatri mantra
+File name: sArthagAyatrI.itx
+Indexextra: (Vidyaranya)
+Language: Sanskrit
+Latest update: May 4, 2010
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: deities_misc
+Text title: sArtha gAyatrI mantra
+Texttype: stotra
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Gayatri Mantra
+itxtitle: sArtha gAyatrI mantrArthaH
+title: सार्थ गायत्री मन्त्रार्थः
 
-+++
+---
   
  सार्थ गायत्री मन्त्रार्थः   
   
@@ -32,7 +32,7 @@ title = "सार्थ गायत्री मन्त्रार्थः
   
 तत्र शुद्धगायत्री प्रत्यग्ब्रह्मैक्यबोधिका । धियो यो नः प्रचोदयादिति  
 ---नः अस्माकं धियः बुद्धिः यः प्रचोदयात् प्रेरयेत् इति सर्वबुद्धि-  
-संज्ञान्तःकरणप्रकाशकः सर्वसाक्षी प्रत्यगात्मा उच्यते । तस्य  
+सञ्ज्ञान्तःकरणप्रकाशकः सर्वसाक्षी प्रत्यगात्मा उच्यते । तस्य  
 प्रचोदयाच्छब्दनिर्दिष्टस्यात्मनः स्वरूपभूतं परं ब्रह्म---  
 तत्सवितुरित्यादिपदैर्निर्दिश्यते ।  
   
@@ -57,16 +57,16 @@ title = "सार्थ गायत्री मन्त्रार्थः
 सुष्ठु सर्वैर्व्रियमाणसुखस्वरूपमुच्यते । मह इति महीयते पूज्यत इति  
 व्युत्पत्त्या सर्वातिशयत्वमुच्यते , जन इति---जनयतीति जनः, सकल-  
 कारणत्वमुच्यते । तप इति सर्वतेजोरूपत्वम् । सत्यमिति सर्वबाधरहितम् ।  
-एतदुक्तं भवति---यल्लोके सद्रूपं तदोंकारवाच्यं ब्रह्मैव,  
-आत्मनोऽस्य सच्चिद्रूपस्वभावादिति । अथ भूरादयः सर्वलोका ओंकारावाच्य-  
-ब्रह्मात्मकाः, न तद्व्यतिरिक्तं किंचिदस्तीति व्याहृतयोऽपि सर्वात्मक-  
+एतदुक्तं भवति---यल्लोके सद्रूपं तदोङ्कारवाच्यं ब्रह्मैव,  
+आत्मनोऽस्य सच्चिद्रूपस्वभावादिति । अथ भूरादयः सर्वलोका ओङ्कारावाच्य-  
+ब्रह्मात्मकाः, न तद्व्यतिरिक्तं किञ्चिदस्तीति व्याहृतयोऽपि सर्वात्मक-  
 ब्रह्मबोधिकाः ।  
   
 गायत्री-शिरसोऽप्ययमेवार्थः--- आप इत्याप्नोतीति व्युत्पत्त्या  
 व्यापित्वमुच्यते ज्योतिरिति प्रकाशरूपत्वम् । रस इति सर्वातिशयत्वम् ।  
 अमृतमिति मरणादि संसारनिर्मुक्तत्वम् ।  
 सर्वव्यापिसर्वप्रकाशकसर्वोत्कृष्टनित्यमुक्तमात्मरूपं  
-सच्चिदात्मकं यदोंकारवाच्ग्यं ब्रह्म तदहमस्मि ।  
+सच्चिदात्मकं यदोङ्कारवाच्ग्यं ब्रह्म तदहमस्मि ।  
   
 इति गायत्रीमन्त्रस्यार्थः ।  
 गुहाशयब्रह्महुताशनोऽहं  

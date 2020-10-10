@@ -1,25 +1,25 @@
-+++
-"Text title" = "Himadri Vaibhavam Haimakunda and Pushpadhati"
-"File name" = "himAdrivaibhavamhaimakuNDa.itx"
-itxtitle = "himAdrivaibhavaM haimakuNDaH puShpadhATI cha (rAShTragItAnjaliH)"
-engtitle = "himAdrivaibhavam haimakuNDaH puShpadhATI cha"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Kapiladeva Dwivedi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Rashtragitanjali, Kapiladeva Dwivedi (Ed.)"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हिमाद्रिवैभवं हैमकुण्डः पुष्पधाटी च (राष्ट्रगीताञ्जलिः)"
+---
+Acknowledge-Permission: Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi
+Author: Kapiladeva Dwivedi
+Category: misc, sanskritgeet
+Description/comments: Rashtragitanjali, Kapiladeva Dwivedi (Ed.)
+File name: himAdrivaibhavamhaimakuNDa.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Himadri Vaibhavam Haimakunda and Pushpadhati
+Translated by: Mandar Mali
+engtitle: himAdrivaibhavam haimakuNDaH puShpadhATI cha
+itxtitle: himAdrivaibhavaM haimakuNDaH puShpadhATI cha (rAShTragItAnjaliH)
+title: हिमाद्रिवैभवं हैमकुण्डः पुष्पधाटी च (राष्ट्रगीताञ्जलिः)
 
-+++
+---
   
  हिमाद्रिवैभवम्हैमकुण्ड   
 (हैमकुण्ड पुष्पधाटी च)  

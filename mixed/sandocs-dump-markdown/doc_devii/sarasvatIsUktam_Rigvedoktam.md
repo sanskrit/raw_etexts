@@ -1,24 +1,24 @@
-+++
-"Text title" = "sarasvatIsUktam"
-"File name" = "sarasvatIsUktam.itx"
-itxtitle = "sarasvatIsUktam (Rigvedoktam)"
-engtitle = "sarasvatIsUktam"
-Category = "devii, sarasvatI, sUkta, svara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "Rigveda Mandala 6, 61st Suktam"
-"Latest update" = "January 5, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीसूक्तम् (ऋइग्वेदोक्तम्)"
+---
+Category: devii, sarasvatI, sUkta, svara, devI
+Description/comments: Rigveda Mandala 6, 61st Suktam
+File name: sarasvatIsUktam.itx
+Language: Sanskrit
+Latest update: January 5, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIsUktam
+Texttype: svara
+Transliterated by: PSA Easwaran
+engtitle: sarasvatIsUktam
+itxtitle: sarasvatIsUktam (Rigvedoktam)
+title: सरस्वतीसूक्तम् (ऋइग्वेदोक्तम्)
 
-+++
+---
   
  श्रीसरस्वती सूक्तम्   
 ऋग्वेदं षष्ठं मण्डलं ६१ सूक्तम् ।  

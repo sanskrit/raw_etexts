@@ -1,24 +1,24 @@
-+++
-"Text title" = "govindadAmodara mAdhaveti stotraM"
-"File name" = "govind.itx"
-itxtitle = "govindadAmodarastotram (bilvamaNgalAchAryavirachita)"
-engtitle = "govindadAmodarastotra"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "bilvamangalAchArya"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Damodar Godse - dgodse at aracnet.net"
-"Proofread by" = "Damodar Godse - dgodse at aracnet.net"
-"Latest update" = "June 16, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोविन्ददामोदरस्तोत्रम् (बिल्वमण्गलाचार्यविरचित)"
+---
+Author: bilvamangalAchArya
+Category: vishhnu, krishna, stotra, vishnu
+File name: govind.itx
+Language: Sanskrit
+Latest update: June 16, 2019
+Location: doc_vishhnu
+Proofread by: Damodar Godse - dgodse at aracnet.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: govindadAmodara mAdhaveti stotraM
+Texttype: stotra
+Transliterated by: Damodar Godse - dgodse at aracnet.net
+engtitle: govindadAmodarastotra
+itxtitle: govindadAmodarastotram (bilvamaNgalAchAryavirachita)
+title: गोविन्ददामोदरस्तोत्रम् (बिल्वमण्गलाचार्यविरचित)
 
-+++
+---
   
  श्रीगोविन्ददामोदरस्तोत्र   
 अग्रे कुरूणामथ पाण्डवानां दुःशासनेनाहृतवस्त्रकेशा ।  

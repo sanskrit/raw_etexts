@@ -1,24 +1,24 @@
-+++
-"Text title" = "Pandava Gita"
-"File name" = "pandavagita.itx"
-itxtitle = "pANDavagItA athavA prapannagItA"
-engtitle = "pANDavagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "Anonymous"
-Language = "Sanskrit"
-Subject = "Hindu, religion"
-"Transliterated by" = "Sunder Hattangadi"
-"Proofread by" = "Sunder Hattangadi"
-Description-comments = "Anthology of hymns from Mahabharata, Bhagavata : Vishnu Purana-s"
-Indexextra = "(Translations)"
-"Latest update" = "May 18, 2006, May 12, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पाण्डवगीता अथवा प्रपन्नगीता"
+---
+Author: Anonymous
+Category: gItA, giitaa
+Description-comments: 'Anthology of hymns from Mahabharata, Bhagavata : Vishnu Purana-s'
+File name: pandavagita.itx
+Indexextra: (Translations)
+Language: Sanskrit
+Latest update: May 18, 2006, May 12, 2020
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hindu, religion
+Sublocation: giitaa
+Text title: Pandava Gita
+Transliterated by: Sunder Hattangadi
+engtitle: pANDavagItA
+itxtitle: pANDavagItA athavA prapannagItA
+title: पाण्डवगीता अथवा प्रपन्नगीता
 
-+++
+---
   
  पाण्डवगीता अथवा प्रपन्नगीता   
 प्रह्लादनारदपराशरपुण्डरीक-  

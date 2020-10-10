@@ -1,22 +1,22 @@
-+++
-"Text title" = "viShNusahasranAmAvali"
-"File name" = "vishnaam.itx"
-itxtitle = "viShNusahasranAmAvalI"
-engtitle = "viShNusahasranAmAvali with notes by K. N. Rao"
-Category = "sahasranAmAvalI, vishhnu, nAmAvalI, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(meaning with notes by K.N. Rao)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुसहस्रनामावली"
+---
+Category: sahasranAmAvalI, vishhnu, nAmAvalI, vishnu
+File name: vishnaam.itx
+Indexextra: (meaning with notes by K.N. Rao)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNusahasranAmAvali
+Texttype: nAmAvalI
+engtitle: viShNusahasranAmAvali with notes by K. N. Rao
+itxtitle: viShNusahasranAmAvalI
+title: विष्णुसहस्रनामावली
 
-+++
+---
   
  श्रीविष्णुसहस्रनामावली   
   
@@ -35,10 +35,10 @@ Meditation Upon Lord Vishnu
   
     ॥ ध्यानम् ॥  
   
-शांताकारं भुजगशयनं पद्मनाभं सुरेशं  
+शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं  
 विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् ।  
 लक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं  
-वंदे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥  
+वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥  
   
   
   obeylines  
@@ -195,7 +195,7 @@ where as the third repeated name references to first two. ॥
 १०८ ॐ सम्मिताय नमः ।  
 १०९ ॐ समाय नमः ।  
 ११० ॐ अमोघाय नमः ।  
-१११ ॐ पुंडरीकाक्षाय नमः ।  
+१११ ॐ पुण्डरीकाक्षाय नमः ।  
 ११२ ॐ वृषकर्मणे नमः ।  
 ११३ ॐ वृषाकृतये नमः ।  
 ११४ ॐ रुद्राय नमः ।  
@@ -268,11 +268,11 @@ where as the third repeated name references to first two. ॥
 १८१ ॐ महेश्वासाय नमः ।  
 १८२ ॐ महीभर्त्रे नमः ।  
 १८३ ॐ श्रीनिवासाय नमः ।  
-१८४ ॐ सतांगतये नमः ।  
+१८४ ॐ सताङ्गतये नमः ।  
 १८५ ॐ अनिरुद्धाय नमः ।  
-१८६ ॐ सुरानंदाय नमः ।  
+१८६ ॐ सुरानन्दाय नमः ।  
 १८७ ॐ गोविन्दाय नमः ।  
-१८८ ॐ गोविदांपतये नमः ।  
+१८८ ॐ गोविदाम्पतये नमः ।  
 १८९ ॐ मरीचये नमः ।  
 १९० ॐ दमनाय नमः ।  
 १९१ ॐ हंसाय नमः ।  
@@ -285,7 +285,7 @@ where as the third repeated name references to first two. ॥
 १९८ ॐ अमृत्यवे नमः ।  
 १९९ ॐ सर्वदृशे नमः ।  
 २०० ॐ सिंहाय नमः ।  
-२०१ ॐ संधाद्ते नमः ।  
+२०१ ॐ सन्धाद्ते नमः ।  
 २०२ ॐ सन्धिमते नमः ।  
 २०३ ॐ स्थिराय नमः ।  
 २०४ ॐ अजाय नमः ।  (see 95)  
@@ -331,13 +331,13 @@ where as the third repeated name references to first two. ॥
 २४४ ॐ जान्हवे नमः ।  
 २४५ ॐ नारायणाय नमः ।  
 २४६ ॐ नराय नमः ।  
-२४७ ॐ असंख्येयाय नमः ।  
+२४७ ॐ असङ्ख्येयाय नमः ।  
 २४८ ॐ अप्रमेयात्मने नमः ।  
 २४९ ॐ विशिष्टाय नमः ।  
 २५० ॐ शिष्टकृते नमः ।  
 २५१ ॐ शुचये नमः ।  (see 155)  
 २५२ ॐ सिद्धार्थाय नमः ।  
-२५३ ॐ सिद्धसंकल्पाय नमः ।  
+२५३ ॐ सिद्धसङ्कल्पाय नमः ।  
 २५४ ॐ सिद्धिदाय नमः ।  
 २५५ ॐ सिद्धिसाधाय नमः ।  
 २५६ ॐ वृषाहिणे नमः ।  
@@ -364,7 +364,7 @@ where as the third repeated name references to first two. ॥
 २७७ ॐ प्रतापनाय नमः ।  
 २७८ ॐ ऋद्धाय नमः ।  
 २७९ ॐ स्पष्टाक्षराय नमः ।  
-२८० ॐ मंत्राय नमः ।  
+२८० ॐ मन्त्राय नमः ।  
 २८१ ॐ चन्द्रांशवे नमः ।  
 २८२ ॐ भास्करद्युतये नमः ।  
 २८३ ॐ अमृतांशूद्भवाय नमः ।  
@@ -395,7 +395,7 @@ where as the third repeated name references to first two. ॥
 ३०८ ॐ इष्टाय नमः ।  
 ३०९ ॐ विशिष्टाय नमः । (see 249)  
 ३१० ॐ शिष्टेष्टाय नमः ।  
-३११ ॐ शिखंडिने नमः ।  
+३११ ॐ शिखण्डिने नमः ।  
 ३१२ ॐ नहुषाय नमः ।  
 ३१३ ॐ वृषाय नमः ।  
 ३१४ ॐ क्रोधाग्ने नमः ।  
@@ -446,7 +446,7 @@ where as the third repeated name references to first two. ॥
 ३५९ ॐ हविर्हरये नमः ।  
 ३६० ॐ सर्वलक्षणलक्षणाय नमः ।  
 ३६१ ॐ लक्ष्मीवते नमः ।  
-३६२ ॐ समितिंजयाय नमः ।  
+३६२ ॐ समितिञ्जयाय नमः ।  
 ३६३ ॐ विक्षराय नमः ।  
 ३६४ ॐ रोहिताय नमः ।  
 ३६५ ॐ मार्गाय नमः ।  
@@ -489,7 +489,7 @@ where as the third repeated name references to first two. ॥
 ४०२ ॐ शक्तिमतां श्रेष्ठायै नमः ।  
 ४०३ ॐ धर्मायै नमः ।  
 ४०४ ॐ धर्मविदुत्तमायै नमः ।  
-४०५ ॐ वैकुंठायै नमः ।  
+४०५ ॐ वैकुण्ठायै नमः ।  
 ४०६ ॐ पुरुषायै नमः ।  
 ४०७ ॐ प्राणायै नमः ।  
 ४०८ ॐ प्राणदायै नमः ।  
@@ -534,7 +534,7 @@ where as the third repeated name references to first two. ॥
 ४४७ ॐ महेज्याय नमः ।  
 ४४८ ॐ क्रतवे नमः ।  
 ४४९ ॐ सत्राय नमः ।  
-४५० ॐ सतांगतये नमः । (see 184)  
+४५० ॐ सताङ्गतये नमः । (see 184)  
 ४५१ ॐ सर्वदर्शिने नमः ।  
 ४५२ ॐ विमुक्तात्मने नमः ।  
 ४५३ ॐ सर्वज्ञाय नमः ।  
@@ -594,7 +594,7 @@ where as the third repeated name references to first two. ॥
 ५०७ ॐ पुरुसत्तमाय नमः ।  
 ५०८ ॐ विनयाय नमः ।  
 ५०९ ॐ जयाय नमः ।  
-५१० ॐ सत्यसंधाय नमः ।  
+५१० ॐ सत्यसन्धाय नमः ।  
 ५११ ॐ दाशार्हाय नमः ।  
 ५१२ ॐ सात्वतां पतये नमः ।  
 ५१३ ॐ जीवाय नमः ।  
@@ -636,7 +636,7 @@ where as the third repeated name references to first two. ॥
 ५४९ ॐ अजिताय नमः ।  
 ५५० ॐ कृष्णाय नमः । (see 57)  
 ५५१ ॐ दृढाय नमः ।  
-५५२ ॐ संकर्षणाच्युताय नमः ।  
+५५२ ॐ सङ्कर्षणाच्युताय नमः ।  
 ५५३ ॐ वरुणाय नमः ।  
 ५५४ ॐ वारुणाय नमः ।  
 ५५५ ॐ वृक्षाय नमः ।  
@@ -664,7 +664,7 @@ where as the third repeated name references to first two. ॥
 ५७७ ॐ निर्वाणाय नमः ।  
 ५७८ ॐ भेषजाय नमः ।  
 ५७९ ॐ भिषजे नमः ।  
-५८० ॐ संन्यासकृते नमः ।  
+५८० ॐ सन्न्यासकृते नमः ।  
 ५८१ ॐ शमाय नमः ।  
 ५८२ ॐ शान्ताय नमः ।  
 ५८३ ॐ निष्ठायै नमः ।  
@@ -682,7 +682,7 @@ where as the third repeated name references to first two. ॥
 ५९५ ॐ वृषप्रियाय नमः ।  
 ५९६ ॐ अनिवर्तिने नमः ।  
 ५९७ ॐ निवृत्तात्मने नमः । (see 229)  
-५९८ ॐ संक्षेप्त्रे नमः ।  
+५९८ ॐ सङ्क्षेप्त्रे नमः ।  
 ५९९ ॐ क्षेमकृते नमः ।  
 ६०० ॐ शिवाय नमः । (see 27)  
 ६०१ ॐ श्रीवत्सवक्षे नमः ।  
@@ -744,7 +744,7 @@ where as the third repeated name references to first two. ॥
 ६५७ ॐ विष्णवे नमः । (see 2, 258)  
 ६५८ ॐ वीराय नमः । (see 643)  
 ६५९ ॐ अनन्ताय नमः ।  
-६६० ॐ धनंजयाय नमः ।  
+६६० ॐ धनञ्जयाय नमः ।  
 ६६१ ॐ ब्रह्मण्याय नमः ।  
 ६६२ ॐ ब्रह्मकृते नमः ।  
 ६६३ ॐ ब्रह्मणे नमः ।  
@@ -885,7 +885,7 @@ where as the third repeated name references to first two. ॥
 ७९८ ॐ जयन्ताय नमः ।  
 ७९९ ॐ सर्वविज्जयिने नमः ।  
 ८०० ॐ उद्भवाय नमः ।  (see 373, 790)  
-८००-१ ॐ सुवर्ण बिंदवे नमः ।  
+८००-१ ॐ सुवर्ण बिन्दवे नमः ।  
 ८००-२ ॐ अक्षोभ्याय नमः ।  
 ८०१ ॐ अधोक्षजाय नमः ।  
 ८०२ ॐ सर्ववागीश्वराय नमः ।  
@@ -945,7 +945,7 @@ where as the third repeated name references to first two. ॥
 ८५६ ॐ वायुवाहनाय नमः । (see 331)  
 ८५७ ॐ धनुर्धराय नमः ।  
 ८५८ ॐ धनुर्वेदाय नमः ।  
-८५९ ॐ दंडाय नमः ।  
+८५९ ॐ दण्डाय नमः ।  
 ८६० ॐ दमित्रे नमः ।  
 ८६१ ॐ दमाय नमः ।  
 ८६२ ॐ अपराजिताय नमः ।  (see 716)  
@@ -1072,14 +1072,14 @@ where as the third repeated name references to first two. ॥
 ९८३ ॐ अन्नाय नमः ।  
 ९८४ ॐ अन्नादाय नमः ।  
 ९८५ ॐ आत्मयोनये नमः ।  
-९८६ ॐ स्वयंजाताय नमः ।  
+९८६ ॐ स्वयञ्जाताय नमः ।  
 ९८७ ॐ वैखानाय नमः ।  
 ९८८ ॐ सामगायनाय नमः ।  
 ९८९ ॐ देवकीनन्दनाय नमः ।  
 ९९० ॐ स्रष्ट्रे नमः । (see 588)  
 ९९१ ॐ क्षितीशाय नमः ।  
 ९९२ ॐ पापनाशनाय नमः ।  
-९९३ ॐ शंखभृते नमः ।  
+९९३ ॐ शङ्खभृते नमः ।  
 ९९४ ॐ नन्दकिने नमः ।  
 ९९५ ॐ चक्रिणे नमः । (see 908)  
 ९९६ ॐ शर्ङ्गधन्वने नमः ।  
@@ -1150,10 +1150,10 @@ IP Extension, Patparganj,
 Delhi, India 110092  
 Two-line prayer for all the nine planets  
   
-ब्रह्मामुरारिस्त्रिपुरांतकारी  
+ब्रह्मामुरारिस्त्रिपुरान्तकारी  
      भानुशशी भूमिसुतो बुधश्च ।  
 गुरुश्च शुक्रश्च शनि राहु केतवः  
-     कुर्वंतु सर्वे मम सुप्रभातम् ॥  
+     कुर्वन्तु सर्वे मम सुप्रभातम् ॥  
   
   
   

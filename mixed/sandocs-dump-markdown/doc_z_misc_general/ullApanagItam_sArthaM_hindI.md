@@ -1,22 +1,22 @@
-+++
-"Text title" = "Queen Madalasa's Lullaby Advice"
-"File name" = "ullApanagItamsArthaMhindI.itx"
-itxtitle = "ullApanagItam sArthaM hindI"
-engtitle = "ullApanagItam sArthaM hindI"
-Category = "misc, vedanta, advice"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "April 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "उल्लापनगीतम् सार्थं हिन्दी"
+---
+Category: misc, vedanta, advice
+File name: ullApanagItamsArthaMhindI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 18, 2020
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Queen Madalasa's Lullaby Advice
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: ullApanagItam sArthaM hindI
+itxtitle: ullApanagItam sArthaM hindI
+title: उल्लापनगीतम् सार्थं हिन्दी
 
-+++
+---
   
  उल्लापनगीतम् सार्थं हिन्दी   
 मदालसोपाख्यान - बालोल्लापनगीतम् सार्थम् हिन्दी  

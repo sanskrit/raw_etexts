@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrIlakShmIstotram"
-"File name" = "lakShmIstotraVkalApa.itx"
-itxtitle = "shrIlakShmIstotram (veNkateShakAvyakalApaH)"
-engtitle = "shrIlakShmIstotram"
-Category = "devii, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha KavyakalApa"
-Indexextra = "(book Venkatesha KavyakalApa)"
-"Latest update" = "June 10, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीलक्ष्मीस्तोत्रम् (वेण्कतेषकाव्यकलापः)"
+---
+Category: devii, stotra, devI
+File name: lakShmIstotraVkalApa.itx
+Indexextra: (book Venkatesha KavyakalApa)
+Language: Sanskrit
+Latest update: June 10, 2016
+Location: doc_devii
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha KavyakalApa
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIlakShmIstotram
+Texttype: stotra
+engtitle: shrIlakShmIstotram
+itxtitle: shrIlakShmIstotram (veNkateShakAvyakalApaH)
+title: श्रीलक्ष्मीस्तोत्रम् (वेण्कतेषकाव्यकलापः)
 
-+++
+---
   
  लक्ष्मीस्तोत्रम् वेङ्कटेशकाव्यकलापान्तर्गतम्   
 % ३  
@@ -275,7 +275,7 @@ title = "श्रीलक्ष्मीस्तोत्रम् (वेण
 आनीलमद्भुतमनातपवार्यमम्ब  
 केशापदेशतिमिरं बिभृषे किमेतत् ॥ ५२॥  
   
-किंनु स्विदम्ब तिमिरस्य विपत्ति(क्ति)रेषः  
+किन्नु स्विदम्ब तिमिरस्य विपत्ति(क्ति)रेषः  
 किंवा नवोत्पलजनीलिमसम्प्रदायः ।  
 भिन्नाञ्जनोपलरुचामथवैष राशिः  
 इत्यादिसंशयपदं तव केशपाशः ॥ ५३॥  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "ayyappasuprabhAtam"
-"File name" = "ayyappasuprabhAtam.itx"
-itxtitle = "ayyappasuprabhAtam"
-engtitle = "ayyappasuprabhAtam"
-Category = "deities_misc, ayyappa, suprabhAta"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "November 25, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अय्यप्पसुप्रभातम्"
+---
+Category: deities_misc, ayyappa, suprabhAta
+File name: ayyappasuprabhAtam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 25, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: ayyappasuprabhAtam
+engtitle: ayyappasuprabhAtam
+itxtitle: ayyappasuprabhAtam
+title: अय्यप्पसुप्रभातम्
 
-+++
+---
   
  श्रीमदय्यप्पसुप्रभातम्   
 श्रीहरिहरसुप्रजा शास्तः पूर्वा सन्ध्या प्रवर्तते ।  

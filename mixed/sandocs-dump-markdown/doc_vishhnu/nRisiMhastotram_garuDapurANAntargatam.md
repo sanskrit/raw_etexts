@@ -1,22 +1,22 @@
-+++
-"Text title" = "nRisiMhastotram garuDapurANAnrgatam"
-"File name" = "nRisiMhastotramgaruDapurANa.itx"
-itxtitle = "nRisiMhastotram (garuDapurANAntargatam)"
-engtitle = "Nrisinhastotram from Garuda Purana"
-Category = "vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Garudapurana 1.231.1-25"
-"Latest update" = "July 28, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहस्तोत्रम् (गरुडपुराणान्तर्गतम्)"
+---
+Category: vishhnu, dashAvatAra, stotra, vishnu
+Description-comments: Garudapurana 1.231.1-25
+File name: nRisiMhastotramgaruDapurANa.itx
+Language: Sanskrit
+Latest update: July 28, 2012
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nRisiMhastotram garuDapurANAnrgatam
+Texttype: stotra
+engtitle: Nrisinhastotram from Garuda Purana
+itxtitle: nRisiMhastotram (garuDapurANAntargatam)
+title: नृइसिंहस्तोत्रम् (गरुडपुराणान्तर्गतम्)
 
-+++
+---
   
  नृसिंहस्तोत्रम् गरुडपुराणान्र्गतम्   
   
@@ -63,13 +63,13 @@ title = "नृइसिंहस्तोत्रम् (गरुडपुर
 नमोऽस्तु पद्मनाभाय शोभनाय जगद्गुरो ।  
 कल्पान्ताम्भोदनिर्घोष सूर्यकोटिसमप्रभ ॥ १३॥  
   
-सहस्रयमसंत्रास सहस्रेन्द्रपराक्रम ।  
+सहस्रयमसन्त्रास सहस्रेन्द्रपराक्रम ।  
 हसस्त्रधनदस्फीत सहस्रचरणात्मक ॥ १४॥  
   
 सहस्रचन्दप्रतिम ! सहस्रांशुहरिक्रम ।  
 सहस्ररुद्रतेजस्क सहस्रब्रह्मसंस्तुत ॥ १५॥  
   
-सहस्ररुद्रसंजप्त सहस्राक्षनिरीक्षण ।  
+सहस्ररुद्रसञ्जप्त सहस्राक्षनिरीक्षण ।  
 सहस्रजन्ममथन सहस्रबन्धनमोचन ॥ १६॥  
   
 सहस्रवायुवेगाक्ष सहस्राज्ञकृपाकर ।  

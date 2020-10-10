@@ -1,23 +1,23 @@
-+++
-"Text title" = "brahmasUtram"
-"File name" = "brahmasUtramVS.itx"
-itxtitle = "brahmasUtram (vAsudevAnandasarasvatIvirachitam)"
-engtitle = "brahmasUtram"
-Category = "major_works, vAsudevAnanda-sarasvatI, vedanta, sUtra"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "vAsudevAnandasarasvatI TembesvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "From stotrAdisangraha"
-Indexextra = "(stotrAdisangraha, Author)"
-"Latest update" = "December 31, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मसूत्रम् (वासुदेवानन्दसरस्वतीविरचितम्)"
+---
+Author: vAsudevAnandasarasvatI TembesvAmi
+Category: major_works, vAsudevAnanda-sarasvatI, vedanta, sUtra
+Description-comments: From stotrAdisangraha
+File name: brahmasUtramVS.itx
+Indexextra: (stotrAdisangraha, Author)
+Language: Sanskrit
+Latest update: December 31, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: brahmasUtram
+engtitle: brahmasUtram
+itxtitle: brahmasUtram (vAsudevAnandasarasvatIvirachitam)
+title: ब्रह्मसूत्रम् (वासुदेवानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  ब्रह्मसूत्रं   
 चित्तूलजातं यदु चित्तवृत्तं त्रिवृत्कृतं येन च भूतजातम् ।  

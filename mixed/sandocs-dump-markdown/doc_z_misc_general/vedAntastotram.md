@@ -1,21 +1,21 @@
-+++
-"Text title" = "vedAntastotram"
-"File name" = "vedAntastotram.itx"
-itxtitle = "vedAntastotram"
-engtitle = "vedAntastotram"
-Category = "misc, vedanta"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदान्तस्तोत्रम्"
+---
+Category: misc, vedanta
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: vedAntastotram.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: vedAntastotram
+engtitle: vedAntastotram
+itxtitle: vedAntastotram
+title: वेदान्तस्तोत्रम्
 
-+++
+---
   
  वेदान्तस्तोत्रम्   
 श्रीमन्मध्वमेते हरिः परतरः सत्यं जगत् तत्त्वतो  

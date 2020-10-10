@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrii subrahmaNya puujaakalpaH"
-"File name" = "subrahmanyapuujaakalpa.itx"
-itxtitle = "subrahmaNya pUjAkalpaH"
-engtitle = "subrahmaNya pUjAkalpaH"
-Category = "pUjA, subrahmanya, stotra"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "March 15, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्य पूजाकल्पः"
+---
+Category: pUjA, subrahmanya, stotra
+File name: subrahmanyapuujaakalpa.itx
+Language: Sanskrit
+Latest update: March 15, 2006
+Location: doc_subrahmanya
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrii subrahmaNya puujaakalpaH
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: subrahmaNya pUjAkalpaH
+itxtitle: subrahmaNya pUjAkalpaH
+title: सुब्रह्मण्य पूजाकल्पः
 
-+++
+---
   
  श्रीसुब्रह्मण्य पूजाकल्पः   
 आदौ विघ्नेश्वर पूजां कृत्वा ।  
@@ -35,7 +35,7 @@ title = "सुब्रह्मण्य पूजाकल्पः"
 प्राणायाम्य ॥  
   
 ममोपात्त समस्त/हरिरों तत् सत्यादि ... शुभे शोभने  
-मुहूर्ते आदि शुभतिथौ पर्यंते (अमुक गोत्रोत्भवस्य/  
+मुहूर्ते आदि शुभतिथौ पर्यन्ते (अमुक गोत्रोत्भवस्य/  
 अमुक नक्षत्रे अमुक राशौ जातस्य अमुक नाम शर्मणः नाम्न्या  
 सहधर्मपत्नी पुत्र पौत्रस्य ), ( अस्य यजमानस्य )  
 मम सकुटुम्बस्य क्षेम स्थैर्य वीर्य विजयायुरारोग्य  
@@ -49,9 +49,9 @@ title = "सुब्रह्मण्य पूजाकल्पः"
 कलशादि पूजां कृत्वा)  
   
 अपवित्रो पवित्रो वा सर्व अवस्थाङ्गतोपि वा ।  
-यः स्मरेत् पुण्डरीकाक्षं सः बाह्याभ्यंतरः शुचिः ॥  
+यः स्मरेत् पुण्डरीकाक्षं सः बाह्याभ्यन्तरः शुचिः ॥  
   
-एवं पूजाद्रव्याणि आत्मानंच प्रोक्ष्याः ॥  
+एवं पूजाद्रव्याणि आत्मानञ्च प्रोक्ष्याः ॥  
   
 अथ ध्यानं ॥  
   
@@ -99,7 +99,7 @@ title = "सुब्रह्मण्य पूजाकल्पः"
   
 ॥ अर्घ्यं ॥  
   
-अर्घ्यं गृहाण गांगेय देवराजसमर्चित ।  
+अर्घ्यं गृहाण गाङ्गेय देवराजसमर्चित ।  
 सफलान् कुरु कामान् मे षाण्मातुर नमो नमः ॥  
   
 वल्लीदेवसेना समेत श्री सुब्रह्मण्य स्वामिने नमः अर्घ्यं  
@@ -147,7 +147,7 @@ title = "सुब्रह्मण्य पूजाकल्पः"
   
 ॥ उपवीतं ॥  
   
-रजतं ब्रह्मसूत्रं च काञ्चनंचोत्तरीयकं ।  
+रजतं ब्रह्मसूत्रं च काञ्चनञ्चोत्तरीयकं ।  
 ददामि देवसेनेश गृहाण गुणसागर ॥  
   
 वल्लीदेवसेना समेत श्री सुब्रह्मण्य स्वामिने नमः उपवीतं  
@@ -155,7 +155,7 @@ title = "सुब्रह्मण्य पूजाकल्पः"
   
 ॥ विभूति ॥  
   
-अग्निहोत्रसमुत्भूतं विरजानलसंभवं ।  
+अग्निहोत्रसमुत्भूतं विरजानलसम्भवं ।  
 गृहाण भसितं देव भूतबाध विनाशन ॥  
   
 वल्लीदेवसेना समेत श्री सुब्रह्मण्य स्वामिने नमः विभूतिं  
@@ -214,7 +214,7 @@ title = "सुब्रह्मण्य पूजाकल्पः"
   
 ॥ धूपः ॥  
   
-दशाङ्गं गुग्गुलूपेतं सुगन्धंच मनोहरं ।  
+दशाङ्गं गुग्गुलूपेतं सुगन्धञ्च मनोहरं ।  
 धूपं गृहाण देवेश धूतपाप नमोऽस्तुते ॥  
   
 वल्लीदेवसेना समेत श्री सुब्रह्मण्य स्वामिने नमः  
@@ -250,7 +250,7 @@ title = "सुब्रह्मण्य पूजाकल्पः"
 ॥ ताम्बूलं ॥  
   
 पूगीफलानिरम्याणि नागवल्लीदलानिच ।  
-चूर्णंच चन्द्रसंकाशं गृहाण शिखिवाहन ॥  
+चूर्णञ्च चन्द्रसङ्काशं गृहाण शिखिवाहन ॥  
   
 वल्लीदेवसेना समेत श्री सुब्रह्मण्य स्वामिने नमः ताम्बूलं  
 समर्पयामि ॥  
@@ -298,7 +298,7 @@ title = "सुब्रह्मण्य पूजाकल्पः"
 समर्पयामि ॥  
   
 विद्यां देहि यशो देहि पुत्रान् देहि सथायुषः ।  
-त्वयि भक्तिं परां देहि परत्रच परांगतिं ॥  
+त्वयि भक्तिं परां देहि परत्रच पराङ्गतिं ॥  
   
 इति प्रार्थनामि ॥  
   

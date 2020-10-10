@@ -1,22 +1,22 @@
-+++
-"Text title" = "jAnakIcharamasharaNAgatamantra"
-"File name" = "jAnakIcharamasharaNAgatamantra.itx"
-itxtitle = "jAnakIsharaNAgatipanchakam athavA jAnakIcharamasharaNAgatamantraH"
-engtitle = "jAnakIshrIjAnakIsharaNAgatipanchakam jAnakIcharamasharaNAgatamantra"
-Category = "devii, panchaka, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Indexextra = "(booklet)"
-"Latest update" = "September 22, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जानकीशरणागतिपञ्चकम् अथवा जानकीचरमशरणागतमन्त्रः"
+---
+Category: devii, panchaka, otherforms, devI
+File name: jAnakIcharamasharaNAgatamantra.itx
+Indexextra: (booklet)
+Language: Sanskrit
+Latest update: September 22, 2017
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jAnakIcharamasharaNAgatamantra
+engtitle: jAnakIshrIjAnakIsharaNAgatipanchakam jAnakIcharamasharaNAgatamantra
+itxtitle: jAnakIsharaNAgatipanchakam athavA jAnakIcharamasharaNAgatamantraH
+title: जानकीशरणागतिपञ्चकम् अथवा जानकीचरमशरणागतमन्त्रः
 
-+++
+---
   
  श्रीजानकीशरणागतिपञ्चकम्   
   

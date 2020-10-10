@@ -1,21 +1,21 @@
-+++
-"Text title" = "satyanArAyaNAShTakam"
-"File name" = "satyanArAyaNAShTakam.itx"
-itxtitle = "satyanArAyaNAShTakam"
-engtitle = "satyanArAyaNAShTakam"
-Category = "vishhnu, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सत्यनारायणाष्टकम्"
+---
+Category: vishhnu, aShTaka
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: satyanArAyaNAShTakam.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: satyanArAyaNAShTakam
+engtitle: satyanArAyaNAShTakam
+itxtitle: satyanArAyaNAShTakam
+title: सत्यनारायणाष्टकम्
 
-+++
+---
   
  सत्यनारायणाष्टकम्   
 आदिदेवं जगत्कारणं श्रीधरं लोकनाथं विभुं व्यापकं शङ्करम् ।  

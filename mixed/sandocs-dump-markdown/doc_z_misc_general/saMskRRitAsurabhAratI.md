@@ -1,22 +1,22 @@
-+++
-"Text title" = "saMskRRitAsurabhAratI"
-"File name" = "saMskRRitAsurabhAratI.itx"
-itxtitle = "saMskRRitAsurabhAratI"
-engtitle = "saMskRRitAsurabhAratI"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com"
-Indexextra = "(audio, English)"
-"Latest update" = "December 25, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृतासुरभारती"
+---
+Category: misc, sanskritgeet
+File name: saMskRRitAsurabhAratI.itx
+Indexextra: (audio, English)
+Language: Sanskrit
+Latest update: December 25, 2018
+Location: doc_z_misc_general
+Proofread by: Ganesh Kandu kanduganesh at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: saMskRRitAsurabhAratI
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: saMskRRitAsurabhAratI
+itxtitle: saMskRRitAsurabhAratI
+title: संस्कृतासुरभारती
 
-+++
+---
   
  संस्कृता सुरभारती   
   

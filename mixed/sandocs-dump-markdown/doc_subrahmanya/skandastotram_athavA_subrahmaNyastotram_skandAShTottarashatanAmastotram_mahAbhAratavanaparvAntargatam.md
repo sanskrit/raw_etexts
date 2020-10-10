@@ -1,23 +1,25 @@
-+++
-"Text title" = "Skanda or Subrahmanya Stotram"
-"File name" = "skandastotram.itx"
-itxtitle = "skandastotram athavA subrahmaNyastotram skandAShTottarashatanAmastotram (mahAbhAratavanaparvAntargatam)"
-engtitle = "skandastotram athavA subrahmaNyastotram skandAShTottarashatanAmastotram"
-Category = "subrahmanya, aShottarashatanAma"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Description-comments = "Portion is termed as skanda panchAshata nAma stotram.  See 108 corresponding Namavali"
-Indexextra = "(Tamil, nAmAvalI)"
-"Latest update" = "April 12, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्कन्दस्तोत्रम् अथवा सुब्रह्मण्यस्तोत्रम् स्कन्दाष्टोत्तरशतनामस्तोत्रम् (महाभारतवनपर्वान्तर्गतम्)"
+---
+Category: subrahmanya, aShottarashatanAma
+Description-comments: Portion is termed as skanda panchAshata nAma stotram.  See 108
+  corresponding Namavali
+File name: skandastotram.itx
+Indexextra: (Tamil, nAmAvalI)
+Language: Sanskrit
+Latest update: April 12, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Skanda or Subrahmanya Stotram
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: skandastotram athavA subrahmaNyastotram skandAShTottarashatanAmastotram
+itxtitle: skandastotram athavA subrahmaNyastotram skandAShTottarashatanAmastotram
+  (mahAbhAratavanaparvAntargatam)
+title: स्कन्दस्तोत्रम् अथवा सुब्रह्मण्यस्तोत्रम् स्कन्दाष्टोत्तरशतनामस्तोत्रम् (महाभारतवनपर्वान्तर्गतम्)
 
-+++
+---
   
  श्रीस्कन्दस्तोत्रम् अथवा सुब्रह्मण्यस्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  
@@ -86,7 +88,7 @@ title = "स्कन्दस्तोत्रम् अथवा सुब्
 श्रावयेद्ब्राह्मणेभ्यो यः शृणुयाद्वा द्विजेरितम् ॥ २०॥  
   
 धनमायुर्यशोदीप्तं पुत्रान् शत्रुजयं तथा ।  
-स पुष्टितुष्टी संप्राप्य स्कन्दसालोक्यमाप्नुयात् ॥ २१॥  
+स पुष्टितुष्टी सम्प्राप्य स्कन्दसालोक्यमाप्नुयात् ॥ २१॥  
   
 ॥ इति श्रीमन्महाभारतवनपर्वान्तर्गतं स्कन्द (सुब्रह्मण्य)  
               स्तोत्रं सम्पूर्णम् ॥  

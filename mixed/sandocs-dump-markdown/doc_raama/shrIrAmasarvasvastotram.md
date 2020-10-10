@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrIrAmasarvasvastotram"
-"File name" = "shrIrAmasarvasvastotram.itx"
-itxtitle = "shrIrAmasarvasvastotram"
-engtitle = "shrIrAmasarvasvastotram"
-Category = "kavacha, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-"Latest update" = "March 20, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीरामसर्वस्वस्तोत्रम्"
+---
+Author: Traditional
+Category: kavacha, raama
+File name: shrIrAmasarvasvastotram.itx
+Language: Sanskrit
+Latest update: March 20, 2016
+Location: doc_raama
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: shrIrAmasarvasvastotram
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: shrIrAmasarvasvastotram
+itxtitle: shrIrAmasarvasvastotram
+title: श्रीरामसर्वस्वस्तोत्रम्
 
-+++
+---
   
  श्रीरामसर्वस्वस्तोत्रम्   
   

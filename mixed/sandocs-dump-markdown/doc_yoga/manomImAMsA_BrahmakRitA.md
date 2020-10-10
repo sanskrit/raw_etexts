@@ -1,22 +1,22 @@
-+++
-"Text title" = "manomImAMsA"
-"File name" = "manomImAMsA.itx"
-itxtitle = "manomImAMsA (BrahmakRitA)"
-engtitle = "manomImAMsA"
-Category = "yoga"
-Location = "doc_yoga"
-Sublocation = "yoga"
-Author = "Brahma"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Indexextra = "(Translation)"
-"Latest update" = "August 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मनोमीमांसा (भ्रह्मकृइता)"
+---
+Author: Brahma
+Category: yoga
+File name: manomImAMsA.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: August 2, 2017
+Location: doc_yoga
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: yoga
+Text title: manomImAMsA
+engtitle: manomImAMsA
+itxtitle: manomImAMsA (BrahmakRitA)
+title: मनोमीमांसा (भ्रह्मकृइता)
 
-+++
+---
   
  मनोमीमांसा   
   

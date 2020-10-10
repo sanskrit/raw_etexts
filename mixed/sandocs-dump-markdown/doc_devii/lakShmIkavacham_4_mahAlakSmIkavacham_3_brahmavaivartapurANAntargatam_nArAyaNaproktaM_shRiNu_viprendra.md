@@ -1,23 +1,25 @@
-+++
-"Text title" = "laxmI kavacham 4"
-"File name" = "laxmikavacham2.itx"
-itxtitle = "lakShmIkavacham 4 mahAlakSmIkavacham 3 (brahmavaivartapurANAntargatam nArAyaNaproktaM shRiNu viprendra)"
-engtitle = "ShrI Laxmi Kavacham 4"
-Category = "kavacha, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "brahmavaivartapurANa 3 Ganapati Khanda, adhyAya 38, verses 52-82"
-Indexextra = "(English, Scans 1, 2)"
-"Latest update" = "March 31, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीकवचम् ४ महालक्ष्मीकवचम् ३ (ब्रह्मवैवर्तपुराणान्तर्गतम् नारायणप्रोक्तं शृइणु विप्रेन्द्र)"
+---
+Category: kavacha, devii, lakShmI, devI
+Description-comments: brahmavaivartapurANa 3 Ganapati Khanda, adhyAya 38, verses 52-82
+File name: laxmikavacham2.itx
+Indexextra: (English, Scans 1, 2)
+Language: Sanskrit
+Latest update: March 31, 2019
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: laxmI kavacham 4
+engtitle: ShrI Laxmi Kavacham 4
+itxtitle: lakShmIkavacham 4 mahAlakSmIkavacham 3 (brahmavaivartapurANAntargatam nArAyaNaproktaM
+  shRiNu viprendra)
+title: लक्ष्मीकवचम् ४ महालक्ष्मीकवचम् ३ (ब्रह्मवैवर्तपुराणान्तर्गतम् नारायणप्रोक्तं
+  शृइणु विप्रेन्द्र)
 
-+++
+---
   
  श्रीलक्ष्मीकवचम्   
 नारायण उवाच ।  

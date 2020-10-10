@@ -1,25 +1,25 @@
-+++
-"Text title" = "DhuNDhirAjabhujangaprayAtastotra"
-"File name" = "DhuNDhirAjabhujangaprayAtastotra.itx"
-itxtitle = "DhuNDhirAjabhujaNgaprayAtastotram"
-engtitle = "DhuNDhirAjabhujangaprayAtastotram"
-Category = "ganesha, bhujanga"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Subcategory = "bhujanga"
-Author = "DhuNDhirAja"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Available at webdunia.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "April 23, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ढुण्ढिराजभुजण्गप्रयातस्तोत्रम्"
+---
+Author: DhuNDhirAja
+Category: ganesha, bhujanga
+File name: DhuNDhirAjabhujangaprayAtastotra.itx
+Language: Sanskrit
+Latest update: April 23, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhujanga
+Subject: hinduism/religion
+Sublocation: ganesha
+Text title: DhuNDhirAjabhujangaprayAtastotra
+Transliterated by: Available at webdunia.com
+engtitle: DhuNDhirAjabhujangaprayAtastotram
+itxtitle: DhuNDhirAjabhujaNgaprayAtastotram
+title: ढुण्ढिराजभुजण्गप्रयातस्तोत्रम्
 
-+++
+---
   
- ढुण्ढिराजभुजंगप्रयातस्तोत्रम्   
+ ढुण्ढिराजभुजङ्गप्रयातस्तोत्रम्   
   
 उमाङ्गोद्भवं दन्तिवक्त्रं गणेशं भजे कङ्कणैः शोभितं धूम्रकेतुम् ।  
 गले हारमुक्तावलीशोभितं तं नमो ज्ञानरूपं गणेशं नमस्ते ॥ १॥  
@@ -33,7 +33,7 @@ title = "ढुण्ढिराजभुजण्गप्रयातस्�
 शिरःसिन्दुरं कुङ्कुमं देहवर्णं शुभैभादिकं प्रीयते विघ्नराजम् ।  
 महासङ्कटच्छेदने धूम्रकेतुं नमो गौरिपुत्रं गणेशं नमस्ते ॥ ४॥  
   
-तथा पातकं छेदितुं विष्णुनामं तथा ध्यायतां शंकरं पापनाशम् ।  
+तथा पातकं छेदितुं विष्णुनामं तथा ध्यायतां शङ्करं पापनाशम् ।  
 यथा पूजितं षण्मुखं शोकनाशं नमो विघ्ननाशं गणेशं नमस्ते ॥ ५॥  
   
 सदा सर्वदा ध्यायतामेकदन्तं सदा पूजितं सिन्दुरारक्तपुष्पैः ।  

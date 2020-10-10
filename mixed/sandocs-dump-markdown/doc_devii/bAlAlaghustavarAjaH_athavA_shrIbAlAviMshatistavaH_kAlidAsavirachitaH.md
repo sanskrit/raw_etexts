@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Bala Laghustavaraja"
-"File name" = "bAlAlaghustavarAjaH.itx"
-itxtitle = "bAlAlaghustavarAjaH athavA shrIbAlAviMshatistavaH (kAlidAsavirachitaH)"
-engtitle = "bAlAlaghustavarAjaH"
-Category = "devii, dashamahAvidyA, devI, stavarAja, viMshati"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Kalidas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालालघुस्तवराजः अथवा श्रीबालाविंशतिस्तवः (कालिदासविरचितः)"
+---
+Author: Kalidas
+Category: devii, dashamahAvidyA, devI, stavarAja, viMshati
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAlaghustavarAjaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Laghustavaraja
+engtitle: bAlAlaghustavarAjaH
+itxtitle: bAlAlaghustavarAjaH athavA shrIbAlAviMshatistavaH (kAlidAsavirachitaH)
+title: बालालघुस्तवराजः अथवा श्रीबालाविंशतिस्तवः (कालिदासविरचितः)
 
-+++
+---
   
  श्रीबालालघुस्तवराजः   
 (श्रीबालाविंशतिस्तवः लघुस्तवः इत्यपि नामान्तरम् ।)  
@@ -122,7 +122,7 @@ title = "बालालघुस्तवराजः अथवा श्री
 बोद्धव्या निपुणं बुधैः स्तुतिरियं कृत्वा मनस्तद्गतं  
 भारत्यास्त्रिपुरेत्यनन्यमनसो यत्राद्यवृत्ते स्फुटम् ।  
 एकद्वित्रिपदक्रमेण कथितस्तत्पादसङ्ख्याक्षरैः  
-मन्त्रोद्धारविधिर्विशेषसहितः सत्संप्रदायान्वितः ॥ २०॥  
+मन्त्रोद्धारविधिर्विशेषसहितः सत्सम्प्रदायान्वितः ॥ २०॥  
   
 सावद्यं निरवद्यमस्तु यदि वा किं वानया चिन्तया  
 नूनं स्तोत्रमिदं पठिष्यति जनो यस्यास्ति भक्तिस्त्वयि ।  

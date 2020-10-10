@@ -1,31 +1,31 @@
-+++
-"Text title" = "navagrahapIDAharastotram"
-"File name" = "navagrahapIDAharastotram.itx"
-itxtitle = "navagrahapIDAharastotram"
-engtitle = "navagrahapIDAharastotram"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kirk Wortman kirkwort at hotmail.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-"Latest update" = "August 24, 2006, July 2 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रहपीडाहरस्तोत्रम्"
+---
+Author: Traditional
+Category: navagraha, stotra
+File name: navagrahapIDAharastotram.itx
+Language: Sanskrit
+Latest update: August 24, 2006, July 2 2011
+Location: doc_z_misc_navagraha
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: navagrahapIDAharastotram
+Texttype: stotra
+Transliterated by: Kirk Wortman kirkwort at hotmail.com
+engtitle: navagrahapIDAharastotram
+itxtitle: navagrahapIDAharastotram
+title: नवग्रहपीडाहरस्तोत्रम्
 
-+++
+---
   
  नवग्रहपीडाहरस्तोत्रम्   
   
 ग्रहाणामादिरादित्यो लोकरक्षणकारकः ।  
-विषमस्थानसंभूतां पीडां हरतु मे रविः ॥ १॥  
+विषमस्थानसम्भूतां पीडां हरतु मे रविः ॥ १॥  
   
 रोहिणीशः सुधामूर्तिः सुधागात्रः सुधाशनः ।  
-विषमस्थानसंभूतां पीडां हरतु मे विधुः ॥ २॥  
+विषमस्थानसम्भूतां पीडां हरतु मे विधुः ॥ २॥  
   
 भूमिपुत्रो महातेजा जगतां भयकृत् सदा ।  
 वृष्टिकृद्वृष्टिहर्ता च पीडां हरतु मे कुजः ॥ ३॥  

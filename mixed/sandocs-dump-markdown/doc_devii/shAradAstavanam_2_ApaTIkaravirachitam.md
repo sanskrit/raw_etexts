@@ -1,27 +1,28 @@
-+++
-"Text title" = "Sharada Stavanam 2"
-"File name" = "shAradAstavanam2.itx"
-itxtitle = "shAradAstavanam 2 (ApaTIkaravirachitam)"
-engtitle = "shAradAstavanam 2"
-Category = "devii, sarasvatI, ApaTIkara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "ma. sa. ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदास्तवनम् २ (आपटीकरविरचितम्)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma. sa. ApaTIkara
+Category: devii, sarasvatI, ApaTIkara, devI
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: shAradAstavanam2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_devii
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Sharada Stavanam 2
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: shAradAstavanam 2
+itxtitle: shAradAstavanam 2 (ApaTIkaravirachitam)
+title: शारदास्तवनम् २ (आपटीकरविरचितम्)
 
-+++
+---
   
  श्रीशारदास्तवनम् २   
      (रागः केदार)  

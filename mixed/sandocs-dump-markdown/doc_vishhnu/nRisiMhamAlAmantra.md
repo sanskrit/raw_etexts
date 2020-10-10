@@ -1,20 +1,20 @@
-+++
-"Text title" = "Nrisimha Mala Mantra"
-"File name" = "nRisiMhamAlAmantra.itx"
-itxtitle = "nRisiMhamAlAmantra"
-engtitle = "nRisiMhamAlAmantra"
-Category = "vishhnu, dashAvatAra, mAlAmantra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "July 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहमालामन्त्र"
+---
+Category: vishhnu, dashAvatAra, mAlAmantra
+File name: nRisiMhamAlAmantra.itx
+Language: Sanskrit
+Latest update: July 13, 2018
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Nrisimha Mala Mantra
+engtitle: nRisiMhamAlAmantra
+itxtitle: nRisiMhamAlAmantra
+title: नृइसिंहमालामन्त्र
 
-+++
+---
   
  श्रीनृसिंहमालामन्त्रः   
   

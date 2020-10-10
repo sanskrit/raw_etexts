@@ -1,23 +1,23 @@
-+++
-"Text title" = "durgAsahasranAmAvaliH 3"
-"File name" = "durgAsahasranAmAvaliH.itx"
-itxtitle = "durgAsahasranAmAvaliH 3"
-engtitle = "durgAsahasranAmAvaliH 3"
-Category = "sahasranAmAvalI, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गासहस्रनामावलिः ३"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAmAvalI, devii, devI
+File name: durgAsahasranAmAvaliH.itx
+Indexextra: (stotramanjari 2)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAsahasranAmAvaliH 3
+Transliterated by: Shree Devi Kumar
+engtitle: durgAsahasranAmAvaliH 3
+itxtitle: durgAsahasranAmAvaliH 3
+title: दुर्गासहस्रनामावलिः ३
 
-+++
+---
   
  श्रीदुर्गासहस्रनामावलिः   
   
@@ -570,8 +570,8 @@ title = "दुर्गासहस्रनामावलिः ३"
 ॐ दासकामधेनुस्वरूपिण्यै नमः । ५२०  
 ॐ पञ्चदशाक्षरीमन्त्रायै नमः ।  
 ॐ तारकावृतषोडश्यै नमः ।  
-ॐ ह्रींकारनिष्ठायै नमः ।  
-ॐ ह्रींकारहुङ्कार्यै नमः ।  
+ॐ ह्रीङ्कारनिष्ठायै नमः ।  
+ॐ ह्रीङ्कारहुङ्कार्यै नमः ।  
 ॐ दुरितापहायै नमः ।  
 ॐ षडङ्गायै नमः ।  
 ॐ नवकोणस्थायै नमः ।  
@@ -1062,7 +1062,7 @@ title = "दुर्गासहस्रनामावलिः ३"
 ॐ सौभाग्यवत्यै नमः ।  
 ॐ क्लीङ्कार्यै नमः ।  
 ॐ सर्वमङ्गलायै नमः ।  
-ॐ ह्रींकार्यै नमः । १०  
+ॐ ह्रीङ्कार्यै नमः । १०  
 ॐ स्कन्दजनन्यै नमः ।  
 ॐ परायै नमः ।  
 ॐ पञ्चदशाक्षर्यै नमः ।  
@@ -1175,7 +1175,7 @@ title = "दुर्गासहस्रनामावलिः ३"
 ॐ सौभाग्यवत्यै नमः ।  
 ॐ क्लीङ्कार्यै नमः ।  
 ॐ सर्वमङ्गलायै नमः ।  
-ॐ ह्रींकार्यै नमः । १०  
+ॐ ह्रीङ्कार्यै नमः । १०  
 ॐ स्कन्दजनन्यै नमः ।  
 ॐ परायै नमः ।  
 ॐ पञ्चदशाक्षर्यै नमः ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "hariharaputrAShTottarashatanAmAvaliH 2"
-"File name" = "hariharaputrAShTottarashatanAmAvaliH2.itx"
-itxtitle = "hariharaputrAShTottarashatanAmAvaliH 2"
-engtitle = "hariharaputrAShTottarashatanAmAvaliH 2"
-Category = "deities_misc, aShTottarashatanAmAvalI, ayyappa"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyapa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिहरपुत्राष्टोत्तरशतनामावलिः २"
+---
+Category: deities_misc, aShTottarashatanAmAvalI, ayyappa
+File name: hariharaputrAShTottarashatanAmAvaliH2.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyapa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: hariharaputrAShTottarashatanAmAvaliH 2
+engtitle: hariharaputrAShTottarashatanAmAvaliH 2
+itxtitle: hariharaputrAShTottarashatanAmAvaliH 2
+title: हरिहरपुत्राष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  हरिहरपुत्राष्टोत्तरशतनामावलिः २   
   

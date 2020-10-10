@@ -1,23 +1,23 @@
-+++
-"Text title" = "Saubhagyalaksmi Upanishad"
-"File name" = "saubhagya.itx"
-itxtitle = "saubhAgyalakShmyupaniShat"
-engtitle = "SaubhagyalakShmi Upanishad"
-Category = "upanishhat, veda, rigveda, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "105 / 108; Rigveda - shakta upanishad"
-"Latest update" = "April  24, 2000, June 22, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सौभाग्यलक्ष्म्युपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, veda, rigveda, upanishad
+Description-comments: 105 / 108; Rigveda - shakta upanishad
+File name: saubhagya.itx
+Language: Sanskrit
+Latest update: April  24, 2000, June 22, 2011
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Saubhagyalaksmi Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: SaubhagyalakShmi Upanishad
+itxtitle: saubhAgyalakShmyupaniShat
+title: सौभाग्यलक्ष्म्युपनिषत्
 
-+++
+---
   
  सौभाग्यलक्ष्म्युपनिषत्   
   
@@ -164,13 +164,13 @@ title = "सौभाग्यलक्ष्म्युपनिषत्"
 योगेन योगं संरोध्य भावं भावेन चाञ्जसा ।  
 निर्विकल्पं परं तत्त्वं सदा भूत्वा परं भवेत् ॥ १२॥  
   
-अहंभावं परित्यज्य जगद्भावमनीदृशम् ।  
+अहम्भावं परित्यज्य जगद्भावमनीदृशम् ।  
 निर्विकल्पे स्थितो विद्वान्भूयो नाप्यनुशोचति ॥ १३॥  
   
 सलिले सैन्धावं यद्वत्साम्यं भवति योगतः ।  
 तथात्ममनसौरेक्यं समाधिरभिधीयते ॥ १४॥  
   
-यदा संक्षीयते प्राणो मानसं च प्रलीयते ।  
+यदा सङ्क्षीयते प्राणो मानसं च प्रलीयते ।  
 तदा समरसत्वं यत्समाधिरभिधीयते ॥ १५॥  
   
 यत्समत्वं तयोरत्र जीवात्मपरमात्मनोः ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRRiShNAShTakam 8"
-"File name" = "kRRiShNAShTakam.itx"
-itxtitle = "kRiShNAShTakam 8 (vallabhAchAryavirachitam shrIgopagokulavivardhana)"
-engtitle = "kRRiShNAShTakam 8"
-Category = "aShTaka, vishhnu, krishna, vallabhaachaarya, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "May 17, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णाष्टकम् ८ (वल्लभाचार्यविरचितम् श्रीगोपगोकुलविवर्धन)"
+---
+Author: vallabhAchArya
+Category: aShTaka, vishhnu, krishna, vallabhaachaarya, puShTimArgIya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: kRRiShNAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: May 17, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNAShTakam 8
+engtitle: kRRiShNAShTakam 8
+itxtitle: kRiShNAShTakam 8 (vallabhAchAryavirachitam shrIgopagokulavivardhana)
+title: कृइष्णाष्टकम् ८ (वल्लभाचार्यविरचितम् श्रीगोपगोकुलविवर्धन)
 
-+++
+---
   
  श्रीकृष्णाष्टकम्   
 श्रीगोपगोकुलविवर्धन नन्दसूनो  

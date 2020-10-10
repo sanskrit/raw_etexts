@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ganesha Stuti by Shiva"
-"File name" = "gaNeshastutiHshiva.itx"
-itxtitle = "gaNeshastutiH shivaproktA (mudgalapurANAntargatA)"
-engtitle = "gaNeshastutiH shiva proktA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 4"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "गणेशस्तुतिः शिवप्रोक्ता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 4
+File name: gaNeshastutiHshiva.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_ganesha
+Proofread by: PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha Stuti by Shiva
+Transliterated by: PSA Easwaran
+engtitle: gaNeshastutiH shiva proktA
+itxtitle: gaNeshastutiH shivaproktA (mudgalapurANAntargatA)
+title: गणेशस्तुतिः शिवप्रोक्ता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  शिवकृता गणेशस्तुतिः   
 शिव उवाच ।  
@@ -46,7 +46,7 @@ title = "गणेशस्तुतिः शिवप्रोक्ता (�
 एवंविधं त्वां प्रवदन्ति वेदाः तं वै गणेशं शरणं प्रपद्ये ॥ २७॥  
   
 मायामयं वै गुणपं तु सृष्ट्वा तस्मात्पुरस्त्वं गणराज चादौ ।  
-स्वानन्दसंज्ञे नगरे विभासि सिद्ध्या च वुद्ध्या सहितः परेश ॥ २८॥  
+स्वानन्दसञ्ज्ञे नगरे विभासि सिद्ध्या च वुद्ध्या सहितः परेश ॥ २८॥  
   
 तं त्वां गणेशं शरणं प्रपद्ये स्थितं सदा हृत्सु च योगिनां वै ।  
 वेदैर्न वेद्यं मनसा न लभ्यं तं वक्रतुण्डं हृदि चिन्तयामि ॥ २९॥  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "laLitaahRidaya stotraM"
-"File name" = "shrIlalitAhRidayastotram.itx"
-itxtitle = "lalitAhRidayastotram"
-engtitle = "lalitAhRidaya stotram"
-Category = "hRidaya, devii, dashamahAvidyA, lalitA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Adwaith Menon adwaithmenon at gmail.com"
-"Proofread by" = "Adwaith Menon"
-"Latest update" = "June 15, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललिताहृइदयस्तोत्रम्"
+---
+Author: Traditional
+Category: hRidaya, devii, dashamahAvidyA, lalitA, devI
+File name: shrIlalitAhRidayastotram.itx
+Language: Sanskrit
+Latest update: June 15, 2005
+Location: doc_devii
+Proofread by: Adwaith Menon
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: laLitaahRidaya stotraM
+Transliterated by: Adwaith Menon adwaithmenon at gmail.com
+engtitle: lalitAhRidaya stotram
+itxtitle: lalitAhRidayastotram
+title: ललिताहृइदयस्तोत्रम्
 
-+++
+---
   
  श्रीललिताहृदयस्तोत्रम्   
 अथश्रीललिताहृदयस्तोत्रं ॥  
@@ -72,8 +72,8 @@ title = "ललिताहृइदयस्तोत्रम्"
 महाशृङ्गारपरिखां महापत्माटवीं भजे ।  
 चिन्तामणिमहारत्नगृहराजं नमाम्यहं ॥ १५॥  
   
-पूर्वांनायमयं पूर्व्वद्वारं देवि नमाम्यहं ।  
-दक्षिणांनायरूपन्तेदक्षिणद्वारमाश्रये ॥ १६॥  
+पूर्वान्नायमयं पूर्व्वद्वारं देवि नमाम्यहं ।  
+दक्षिणान्नायरूपन्तेदक्षिणद्वारमाश्रये ॥ १६॥  
   
 नमामि पश्चिमद्वारं पश्चिमाम्नाय रूपकं ।  
 वन्देहमुत्तरद्वारमुत्तराम्नायरूपकं ॥ १७॥  
@@ -85,7 +85,7 @@ title = "ललिताहृइदयस्तोत्रम्"
 एकंविष्णुमयं मञ्चपादमन्यं नमाम्यहं ॥ १९॥  
   
 एकं रुद्रमयं मञ्चपादमन्यं नमाम्यहं ।  
-मञ्चपादंममाम्येकं तव देवीश्वरात्मकं ॥ २०॥  
+मञ्चपादम्ममाम्येकं तव देवीश्वरात्मकं ॥ २०॥  
   
 मञ्चैकफलकं वन्दे सदाशिवमयं शुभं ।  
 नमामितेहंसतूलतल्पकं परमेश्वरी! ॥ २१॥  
@@ -118,7 +118,7 @@ title = "ललिताहृइदयस्तोत्रम्"
 मांरक्षरक्षेति हृदि करोम्यज्ञलिमीश्वरि! ॥ ३०॥  
   
 महादेव्यासनायेति प्रकरोम्यासनं शिवे ।  
-चक्रासनंनमस्यामि सर्वमन्त्रासनं शिवे ॥ ३१॥  
+चक्रासनन्नमस्यामि सर्वमन्त्रासनं शिवे ॥ ३१॥  
   
 साद्ध्यसिद्धासनं मन्त्रैरेभिर्युक्तं महेश्वरि ।  
 करोम्यस्मिञ्चक्रमन्त्रैर्देवतासनमुत्तमं ॥ ३२॥  
@@ -240,7 +240,7 @@ title = "ललिताहृइदयस्तोत्रम्"
 निरस्तमोहतिमिरां साक्षात् संवित्स्वरूपिणीं ।  
 नासापुटात्परकलामथनिर्ग्गमयाम्यहं ॥ ७१॥  
   
-नमामियोनिमद्ध्यास्थां त्रिखण्डकुसुमांञ्जलिं ।  
+नमामियोनिमद्ध्यास्थां त्रिखण्डकुसुमाञ्ञ्जलिं ।  
 जगन्मातर्महादेवियन्त्रेत्वां स्थापयाम्यहं ॥ ७२॥  
   
 सुधाचैतन्यमूर्त्तीं ते कल्पयामिमनुं तव ।  
@@ -405,7 +405,7 @@ title = "ललिताहृइदयस्तोत्रम्"
 कौमारीं वैष्णवीं वन्दे वाराहीं प्रणमाम्यहं ।  
 माहेन्द्रीमपिचामुण्डाम्महालक्ष्मीमहं भजे ॥ १२६॥  
   
-तृतीये चतुरश्रे तु सर्वसंक्षोभिणीं भजे ।  
+तृतीये चतुरश्रे तु सर्वसङ्क्षोभिणीं भजे ।  
 सर्वविद्रापिणीम्मुद्रां सर्वाकर्षिणिकां भजे ॥ १२७॥  
   
 मुद्रां वशङ्करीं वन्दे सर्वोन्मादिनिकां भजे ।  
@@ -418,7 +418,7 @@ title = "ललिताहृइदयस्तोत्रम्"
 सुधार्ण्णवासनंवन्दे तत्र ते परमेश्वरि ॥ १३०॥  
   
 चक्रेश्वरि महं वन्दे त्रिपुरां प्रणमाम्यहं ।  
-सर्वसंक्षोभिणीम्मुद्रां ततोहं कलये शिवे ॥ १३१॥  
+सर्वसङ्क्षोभिणीम्मुद्रां ततोहं कलये शिवे ॥ १३१॥  
   
 अथाहं षोडशदले कामाकर्षिणिकां भजे ।  
 बुद्ध्याकर्षिणिकांवन्देहङ्काराकर्षिणिकां भजे ॥ १३२॥  
@@ -453,7 +453,7 @@ title = "ललिताहृइदयस्तोत्रम्"
 नमामि जगतीशानीं तत्र त्रिपुरसुन्दरीं ।  
 सर्वाकर्षिणिकाम्मुद्रां तत्राह कलपयामिते ॥ १४२॥  
   
-भुवनाश्रये तव शिवे सर्वसंक्षोभिणीं भजे ।  
+भुवनाश्रये तव शिवे सर्वसङ्क्षोभिणीं भजे ।  
 सर्वविद्राविणींवन्दे सर्वकर्षिणिकां भजे ॥ १४३॥  
   
 सर्वह्लादिनीं वन्दे सर्वसम्मोहिनीं भजे ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "lakShmyaShTottarashatanAmastotram"
-"File name" = "laxmi108naama.itx"
-itxtitle = "lakShmyaShTottarashatanAmastotram"
-engtitle = "lakShmyaShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "July 21, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्म्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Traditional
+Category: aShTottarashatanAma, devii, lakShmI, devI
+File name: laxmi108naama.itx
+Language: Sanskrit
+Latest update: July 21, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmyaShTottarashatanAmastotram
+engtitle: lakShmyaShTottarashatanAmastotram
+itxtitle: lakShmyaShTottarashatanAmastotram
+title: लक्ष्म्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीलक्ष्म्यष्टोत्तरशतनामस्तोत्रम्   
   
@@ -42,7 +42,7 @@ title = "लक्ष्म्यष्टोत्तरशतनामस्�
 तव प्रीत्याद्य वक्ष्यामि समाहितमनाः शृणुं ।  
 अष्टोत्तरशतस्यास्य महालक्ष्मीस्तु देवता ॥ ६॥  
   
-क्लींबीजपदमित्युक्तं शक्तिस्तु भुवनेश्वरी ।  
+क्लीम्बीजपदमित्युक्तं शक्तिस्तु भुवनेश्वरी ।  
 अङ्गन्यासः करन्यास स इत्यादिः प्रकीर्तितः ॥ ७॥  
   
 ध्यानम्  

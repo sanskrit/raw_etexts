@@ -1,24 +1,25 @@
-+++
-"Text title" = "vakArAdi vAmanAShTottarashatanAmAvaliH"
-"File name" = "vakArAdivAmana108nAmAvaliH.itx"
-itxtitle = "dashAvatAra vakArAdi vAmanAShTottarashatanAmAvaliH"
-engtitle = "vakArAdi vAmanAShTottarashatanAmAvaliH"
-Category = "aShTottarashatanAmAvalI, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "paNDita shrI bellaMkoNDa rAmarAya kavIndra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA"
-"Latest update" = "January 24, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतार वकारादि वामनाष्टोत्तरशतनामावलिः"
+---
+Author: paNDita shrI bellaMkoNDa rAmarAya kavIndra
+Category: aShTottarashatanAmAvalI, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra,
+  vishnu
+File name: vakArAdivAmana108nAmAvaliH.itx
+Language: Sanskrit
+Latest update: January 24, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vakArAdi vAmanAShTottarashatanAmAvaliH
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: vakArAdi vAmanAShTottarashatanAmAvaliH
+itxtitle: dashAvatAra vakArAdi vAmanAShTottarashatanAmAvaliH
+title: दशावतार वकारादि वामनाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  वकारादि श्रीवामनाष्टोत्तरशतनामावलिः   
 श्री हयग्रीवाय नमः ।  
@@ -81,7 +82,7 @@ title = "दशावतार वकारादि वामनाष्टो
 ॐ वैषम्यनैर्घृण्यहीनाय नमः ।  
 ॐ वैरोचनिकृतप्रियाय नमः ।  
 ॐ विदारितैककाव्याक्षाय नमः ।  
-ॐ वांछिताज्ङ्घ्रित्रयक्षितये नमः ।  
+ॐ वाञ्छिताज्ङ्घ्रित्रयक्षितये नमः ।  
 ॐ वैरोचनिमहाभाग्य परिणामाय नमः ।  
 ॐ विषादहृते नमः । ६०  
 ॐ वियद्दुन्दुभिनिर्घृष्टबलिवाक्यप्रहर्षिताय नमः ।  

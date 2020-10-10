@@ -1,23 +1,23 @@
-+++
-"Text title" = "achyutAShTakam 4"
-"File name" = "achyutAShTakam4.itx"
-itxtitle = "achyutAShTakam 4 (shaNkarabhagavatpAdakRitam achyutAchyuta hare)"
-engtitle = "achyutAShTakam 4"
-Category = "vishhnu, aShTaka, shankarAchArya, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 2, Meaning)"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अच्युताष्टकम् ४ (शण्करभगवत्पादकृइतम् अच्युताच्युत हरे)"
+---
+Author: Shankaracharya
+Category: vishhnu, aShTaka, shankarAchArya, krishna
+File name: achyutAShTakam4.itx
+Indexextra: (VSM 2, Meaning)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: achyutAShTakam 4
+engtitle: achyutAShTakam 4
+itxtitle: achyutAShTakam 4 (shaNkarabhagavatpAdakRitam achyutAchyuta hare)
+title: अच्युताष्टकम् ४ (शण्करभगवत्पादकृइतम् अच्युताच्युत हरे)
 
-+++
+---
   
  अच्युताष्टकम् ४   
 अच्युताच्युत हरे परमात्मन् राम कृष्ण पुरुषोत्तम विष्णो ।  

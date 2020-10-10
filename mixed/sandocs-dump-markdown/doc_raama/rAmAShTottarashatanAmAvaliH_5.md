@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmAShTottarashatanAmAvaliH 5"
-"File name" = "rAmAShTottarashatanAmAvaliH5.itx"
-itxtitle = "rAmAShTottarashatanAmAvaliH 5"
-engtitle = "rAmAShTottarashatanAmAvaliH 5"
-Category = "raama, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टोत्तरशतनामावलिः ५"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: raama, aShTottarashatanAmAvalI, nAmAvalI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: rAmAShTottarashatanAmAvaliH5.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmAShTottarashatanAmAvaliH 5
+engtitle: rAmAShTottarashatanAmAvaliH 5
+itxtitle: rAmAShTottarashatanAmAvaliH 5
+title: रामाष्टोत्तरशतनामावलिः ५
 
-+++
+---
   
  श्रीरामाष्टोत्तरशतनामावलिः ५   
   

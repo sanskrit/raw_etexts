@@ -1,22 +1,22 @@
-+++
-"Text title" = "godAShTottarashatanAmastotram"
-"File name" = "godAShTottarashatanAmastotram.itx"
-itxtitle = "godAShTottarashatanAmastotram"
-engtitle = "godAShTottarashatanAmastotram"
-Category = "devii, nadI, aShTottarashatanAma, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Raman karthik.raman at gmail.com"
-"Proofread by" = "Karthik Raman karthik.raman at gmail.com"
-"Latest update" = "November 29, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोदाष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: devii, nadI, aShTottarashatanAma, devI
+File name: godAShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: November 29, 2018
+Location: doc_devii
+Proofread by: Karthik Raman karthik.raman at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: godAShTottarashatanAmastotram
+Transliterated by: Karthik Raman karthik.raman at gmail.com
+engtitle: godAShTottarashatanAmastotram
+itxtitle: godAShTottarashatanAmastotram
+title: गोदाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीगोदाष्टोत्तरशतनामस्तोत्रम्   
 ध्यानम् ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "hindurAShTrasanghaTakaM"
-"File name" = "hindurAShTrasanghaTakaM.itx"
-itxtitle = "hindurAShTrasaNghaTakaM"
-engtitle = "hindurAShTrasanghaTakaM"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Video 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हिन्दुराष्ट्रसण्घटकं"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: hindurAShTrasanghaTakaM.itx
+Indexextra: (Wiki, Video 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: hindurAShTrasanghaTakaM
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: hindurAShTrasanghaTakaM
+itxtitle: hindurAShTrasaNghaTakaM
+title: हिन्दुराष्ट्रसण्घटकं
 
-+++
+---
   
  हिन्दुराष्ट्रसङ्घटकं   
 हिन्दुराष्ट्रसङ्घटकं सुजनवन्दनीयं  

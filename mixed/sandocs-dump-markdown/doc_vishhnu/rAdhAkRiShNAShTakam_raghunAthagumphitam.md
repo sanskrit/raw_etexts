@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAdhAkRRiShNAShTakam"
-"File name" = "rAdhAkRRiShNAShTakam.itx"
-itxtitle = "rAdhAkRiShNAShTakam (raghunAthagumphitam)"
-engtitle = "rAdhAkRRiShNAShTakam"
-Category = "aShTaka, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "May 17, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाकृइष्णाष्टकम् (रघुनाथगुम्फितम्)"
+---
+Category: aShTaka, vishhnu, krishna, vishnu
+Description/comments: puShTimArgIya stotraratnAkara
+File name: rAdhAkRRiShNAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: May 17, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: rAdhAkRRiShNAShTakam
+engtitle: rAdhAkRRiShNAShTakam
+itxtitle: rAdhAkRiShNAShTakam (raghunAthagumphitam)
+title: राधाकृइष्णाष्टकम् (रघुनाथगुम्फितम्)
 
-+++
+---
   
  श्रीराधाकृष्णाष्टकम्   
   

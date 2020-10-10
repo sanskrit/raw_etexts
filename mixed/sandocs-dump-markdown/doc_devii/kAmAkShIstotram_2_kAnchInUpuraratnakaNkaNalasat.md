@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrIkAmAkShIstotram 2"
-"File name" = "kAmAkShIstotram2.itx"
-itxtitle = "kAmAkShIstotram 2 (kAnchInUpuraratnakaNkaNalasat)"
-engtitle = "Shri Kamakshi Stotram 2"
-Category = "devii, kAmAkShI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "kAmAkShI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. R. Ramamurthy"
-"Proofread by" = "P. R. Ramamurthy"
-Indexextra = "(Audio, Video, gleanings)"
-"Latest update" = "April 24, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामाक्षीस्तोत्रम् २ (काञ्चीनूपुररत्नकण्कणलसत्)"
+---
+Category: devii, kAmAkShI, stotra, devI
+File name: kAmAkShIstotram2.itx
+Indexextra: (Audio, Video, gleanings)
+Language: Sanskrit
+Latest update: April 24, 2015
+Location: doc_devii
+Proofread by: P. R. Ramamurthy
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: kAmAkShI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIkAmAkShIstotram 2
+Texttype: stotra
+Transliterated by: P. R. Ramamurthy
+engtitle: Shri Kamakshi Stotram 2
+itxtitle: kAmAkShIstotram 2 (kAnchInUpuraratnakaNkaNalasat)
+title: कामाक्षीस्तोत्रम् २ (काञ्चीनूपुररत्नकण्कणलसत्)
 
-+++
+---
   
  श्रीकामाक्षीस्तोत्रम् २   
 कामारिकामां कमलासनस्थां  

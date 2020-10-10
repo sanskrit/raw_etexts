@@ -1,23 +1,23 @@
-+++
-"Text title" = "Nadabindu Upanishad"
-"File name" = "nadabindu.itx"
-itxtitle = "nAdabindUpaniShat"
-engtitle = "Nadabindu Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "38/108; Rig Veda, Yoga Upanishad"
-"Latest update" = "July, 3, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नादबिन्दूपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 38/108; Rig Veda, Yoga Upanishad
+File name: nadabindu.itx
+Language: Sanskrit
+Latest update: July, 3, 1999
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Nadabindu Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Nadabindu Upanishad
+itxtitle: nAdabindUpaniShat
+title: नादबिन्दूपनिषत्
 
-+++
+---
   
  नादबिन्दूपनिषत्   
   
@@ -56,7 +56,7 @@ title = "नादबिन्दूपनिषत्"
 न भिद्यते कर्मचारैः पापकोटिशतैरपि ।  
 आग्नेयी प्रथमा मात्रा वायव्येषा तथापरा ॥ ६॥  
   
-भानुमण्डलसंकाशा भवेन्मात्रा तथोत्तरा ।  
+भानुमण्डलसङ्काशा भवेन्मात्रा तथोत्तरा ।  
 परमा चार्धमात्रा या वारुणीं तां विदुर्बुधाः ॥ ७॥  
   
 कालत्रयेऽपि यत्रेमा मात्रा नूनं प्रतिष्ठिताः ।  
@@ -159,12 +159,12 @@ title = "नादबिन्दूपनिषत्"
 उन्मनीकारकं सद्यो नादमेवावधारयेत् ॥ ४०॥  
   
 सर्वचिन्तां समुत्सृज्य सर्वचेष्टाविवर्जितः ।  
-नादमेवानुसंदध्यान्नादे चित्तं विलीयते ॥ ४१॥  
+नादमेवानुसन्दध्यान्नादे चित्तं विलीयते ॥ ४१॥  
   
 मकरन्दं पिबन्भृङ्गो गन्धान्नापेक्षते तथा ।  
 नादासक्तं सदा चित्तं विषयं न हि काङ्क्षति ॥ ४२॥  
   
-बद्धः सुनादगन्धेन सद्यः संत्यक्तचापलः ।  
+बद्धः सुनादगन्धेन सद्यः सन्त्यक्तचापलः ।  
 नादग्रहणतश्चित्तमन्तरङ्गभुजङ्गमः ॥ ४३॥  
   
 विस्मृत्य विश्वमेकाग्रः कुत्रचिन्न हि धावति ।  
@@ -183,7 +183,7 @@ title = "नादबिन्दूपनिषत्"
 नादो यावन्मनस्तावन्नादान्तेऽपि मनोन्मनी ॥ ४८॥  
   
 सशब्दश्चाक्षरे क्षीणे निःशब्दं परमं पदम् ।  
-सदा नादानुसन्धानात्संक्षीणा वासना भवेत् ॥ ४९॥  
+सदा नादानुसन्धानात्सङ्क्षीणा वासना भवेत् ॥ ४९॥  
   
 निरञ्जने विलीयेते मनोवायू न संशयः ।  
 नादकोटिसहस्राणि बिन्दुकोटिशतानि च ॥ ५०॥  
@@ -197,7 +197,7 @@ title = "नादबिन्दूपनिषत्"
 काष्ठवज्ज्ञायते देह उन्मन्यावस्थया ध्रुवम् ।  
 न जानाति स शीतोष्णं न दुःखं न सुखं तथा ॥ ५३॥  
   
-न मानं नावमानं च संत्यक्त्वा तु समाधिना ।  
+न मानं नावमानं च सन्त्यक्त्वा तु समाधिना ।  
 अवस्थात्रयमन्वेति न चित्तं योगिनः सदा ॥ ५४॥  
   
 जाग्रन्निद्राविनिर्मुक्तः स्वरूपावस्थतामियात् ॥ ५५॥  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrI shivakAmasundarI sahasranAmAvalI 1 1000 names"
-"File name" = "shivakAmasundarIsahasranAmAvalI.itx"
-itxtitle = "shivakAmasundarIsahasranAmAvaliH 1 (bhRiNgiriTisaMhitAyAM)"
-engtitle = "shivakAmasundarIsahasranAmAvalI 1"
-Category = "sahasranAmAvalI, devii, nAmAvalI, devI, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD, Sneha Sudha snehasudha13 at gmail.com"
-Description-comments = "From Bhringiriti Samhita"
-Indexextra = "(Scan)"
-"Latest update" = "May 1, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवकामसुन्दरीसहस्रनामावलिः १ (भृइण्गिरिटिसंहितायां)"
+---
+Category: sahasranAmAvalI, devii, nAmAvalI, devI, pArvatI
+Description-comments: From Bhringiriti Samhita
+File name: shivakAmasundarIsahasranAmAvalI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 1, 2019
+Location: doc_devii
+Proofread by: DPD, Sneha Sudha snehasudha13 at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrI shivakAmasundarI sahasranAmAvalI 1 1000 names
+engtitle: shivakAmasundarIsahasranAmAvalI 1
+itxtitle: shivakAmasundarIsahasranAmAvaliH 1 (bhRiNgiriTisaMhitAyAM)
+title: शिवकामसुन्दरीसहस्रनामावलिः १ (भृइण्गिरिटिसंहितायां)
 
-+++
+---
   
  श्रीशिवकामसुन्दरीसहस्रनामस्तोत्रम्   
 ॐ अस्य श्री शिवकामसुन्दरीसहस्रनामस्तोत्रमहा  
@@ -129,7 +129,7 @@ title = "शिवकामसुन्दरीसहस्रनामाव�
 ॐ इष्टार्तिघ्नीयै नमः ।  
 ॐ इष्टवरदायै नमः ।  
 ॐ एभवक्त्रप्रियङ्कर्यै ॐ ऐं ह्रीं श्रीं ईं - नमः ।  
-ॐ ईशित्वसिद्धिसंप्रार्थितापसायै नमः । ८०  
+ॐ ईशित्वसिद्धिसम्प्रार्थितापसायै नमः । ८०  
 ॐ इषत्स्मिताननायै नमः ।  
 ॐ ईश्वर्यै नमः ।  
 ॐ इशप्रियायै नमः ।  
@@ -1048,7 +1048,7 @@ title = "शिवकामसुन्दरीसहस्रनामाव�
 ॐ क्षेत्रपालवन्दितायै नमः ।  
 ॐ क्षेत्ररूपिण्यै नमः ।  
 ॐ क्षौमाम्बरधरायै नमः ।  
-ॐ क्षत्रसंप्रार्थितजयोत्सवायै नमः ।  
+ॐ क्षत्रसम्प्रार्थितजयोत्सवायै नमः ।  
 ॐ क्ष्वेलभुग्रसनास्वादजातवाग्रसवैभवायै नमः । १०००  
   
 इति श्रीभृङ्गिरिटिसंहितायां शक्त्युत्कर्षप्रकरणे शिवगौरीसंवादे  

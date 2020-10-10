@@ -1,23 +1,24 @@
-+++
-"Text title" = "shAradAShaTkastotram"
-"File name" = "shAradAShaTkastotram.itx"
-itxtitle = "shAradAShaTkastotram (nRisiMhabhAratIsvAmivirachitam)"
-engtitle = "shAradAShaTkastotram"
-Category = "ShaTkam, devii, sarasvatI, nRisiMhabhAratIsvAmi, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "nRisiMhabhAratIsvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "February 10, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदाषट्कस्तोत्रम् (नृइसिंहभारतीस्वामिविरचितम्)"
+---
+Author: nRisiMhabhAratIsvAmi
+Category: ShaTkam, devii, sarasvatI, nRisiMhabhAratIsvAmi, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: shAradAShaTkastotram.itx
+Language: Sanskrit
+Latest update: February 10, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAShaTkastotram
+engtitle: shAradAShaTkastotram
+itxtitle: shAradAShaTkastotram (nRisiMhabhAratIsvAmivirachitam)
+title: शारदाषट्कस्तोत्रम् (नृइसिंहभारतीस्वामिविरचितम्)
 
-+++
+---
   
  शारदाषट्कस्तोत्रम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Guruvayurappan Suprabhatam"
-"File name" = "guruvAyurappansuprabhAtam.itx"
-itxtitle = "guruvAyurappan suprabhAtam"
-engtitle = "guruvAyurappan suprabhAtam"
-Category = "vishhnu, krishna, suprabhAta"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com, PSA Easwaran"
-Indexextra = "(Text, English)"
-"Latest update" = "November 24, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुवायुरप्पन् सुप्रभातम्"
+---
+Category: vishhnu, krishna, suprabhAta
+File name: guruvAyurappansuprabhAtam.itx
+Indexextra: (Text, English)
+Language: Sanskrit
+Latest update: November 24, 2018
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Guruvayurappan Suprabhatam
+engtitle: guruvAyurappan suprabhAtam
+itxtitle: guruvAyurappan suprabhAtam
+title: गुरुवायुरप्पन् सुप्रभातम्
 
-+++
+---
   
  श्रीगुरुवायुपुरेशसुप्रभातम्   
 उत्तिष्ठ कृष्ण गुरुवायुपुरेश शौरे  

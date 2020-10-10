@@ -1,25 +1,25 @@
-+++
-"Text title" = "nRisi.nhastotram"
-"File name" = "nrisinhastotra.itx"
-itxtitle = "nRisi.nhastotram"
-engtitle = "nRisi.nhastotram"
-Category = "vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com.com"
-Description-comments = "bhAgavatAntargate_saptamaskandhe"
-"Latest update" = "December 25, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहस्तोत्रम्"
+---
+Author: Traditional
+Category: vishhnu, dashAvatAra, stotra, vishnu
+Description-comments: bhAgavatAntargate_saptamaskandhe
+File name: nrisinhastotra.itx
+Language: Sanskrit
+Latest update: December 25, 2004
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nRisi.nhastotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: nRisi.nhastotram
+itxtitle: nRisi.nhastotram
+title: नृइसिंहस्तोत्रम्
 
-+++
+---
   
  नृसिंहस्तोत्रम्   
   
@@ -52,7 +52,7 @@ title = "नृइसिंहस्तोत्रम्"
   
 विद्याधरा ऊचुः ।  
 विद्यां पृथग्धारणयाऽनुराद्धां न्यषेधदज्ञो बलवीर्यदृप्तः ।  
-स येन संख्ये पशुबद्धतस्तं मायानृसिंहं प्रणताः स्म नित्यम् ॥ ७॥  
+स येन सङ्ख्ये पशुबद्धतस्तं मायानृसिंहं प्रणताः स्म नित्यम् ॥ ७॥  
   
 नागा ऊचुः ।  
 येन पापेन रत्नानि स्त्रीरत्नानि हृतानि नः ।  
@@ -71,7 +71,7 @@ title = "नृइसिंहस्तोत्रम्"
 स एष नीतो भवता दशामिमां किमुत्पथस्थः कुशलाय कल्पते ॥ ११॥  
   
 चारणा ऊचुः ।  
-हरे तवांग्घ्रिपङ्कजं भवापवर्गमाश्रिताः ।  
+हरे तवाङ्ग्घ्रिपङ्कजं भवापवर्गमाश्रिताः ।  
 यदेव साधु हृच्छयस्त्वयाऽसुरः समापितः ॥ १२॥  
   
 यक्षा ऊचुः ।  

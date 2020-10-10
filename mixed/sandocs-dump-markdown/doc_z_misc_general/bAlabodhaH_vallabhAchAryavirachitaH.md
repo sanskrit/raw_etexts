@@ -1,24 +1,24 @@
-+++
-"Text title" = "bAlabodhaH"
-"File name" = "bAlabodhaH.itx"
-itxtitle = "bAlabodhaH (vallabhAchAryavirachitaH)"
-engtitle = "bAlabodhaH"
-Category = "misc, krishna, puShTimArgIya, vallabhaachaarya, advice"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-SubDeity = "krishna"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालबोधः (वल्लभाचार्यविरचितः)"
+---
+Author: vallabhAchArya
+Category: misc, krishna, puShTimArgIya, vallabhaachaarya, advice
+Description/comments: puShTimArgIya stotraratnAkara
+File name: bAlabodhaH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: bAlabodhaH
+engtitle: bAlabodhaH
+itxtitle: bAlabodhaH (vallabhAchAryavirachitaH)
+title: बालबोधः (वल्लभाचार्यविरचितः)
 
-+++
+---
   
  बालबोधः   
   

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Shivapanchakshara Ashtottarashata Namavali 1"
-"File name" = "shivapanchAkSharAShTottarashatanAmAvaliH1.itx"
-itxtitle = "shivapanchAkSharAShTottarashatanAmAvaliH 1"
-engtitle = "shivapanchaksharashtottarashatanamavaliH 1"
-Category = "shiva, aShTottarashatanAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-"Latest update" = "December 25, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवपञ्चाक्षराष्टोत्तरशतनामावलिः १"
+---
+Category: shiva, aShTottarashatanAmAvalI
+File name: shivapanchAkSharAShTottarashatanAmAvaliH1.itx
+Language: Sanskrit
+Latest update: December 25, 2019
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Shivapanchakshara Ashtottarashata Namavali 1
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: shivapanchaksharashtottarashatanamavaliH 1
+itxtitle: shivapanchAkSharAShTottarashatanAmAvaliH 1
+title: शिवपञ्चाक्षराष्टोत्तरशतनामावलिः १
 
-+++
+---
   
  श्रीशिवपञ्चाक्षराष्टोत्तरशतनामावलिः १   
 श्रीगणेशाय नमः ।  

@@ -1,19 +1,19 @@
-+++
-"Text title" = "mArtaNDabhairavastotram"
-"File name" = "mArtaNDabhairavastotram.itx"
-itxtitle = "mArtaNDabhairavastotram"
-engtitle = "mArtaNDabhairavastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "December 17, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मार्तण्डभैरवस्तोत्रम्"
+---
+Category: shiva
+File name: mArtaNDabhairavastotram.itx
+Language: Sanskrit
+Latest update: December 17, 2018
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mArtaNDabhairavastotram
+engtitle: mArtaNDabhairavastotram
+itxtitle: mArtaNDabhairavastotram
+title: मार्तण्डभैरवस्तोत्रम्
 
-+++
+---
   
  श्रीमार्तण्डभैरवस्तोत्रम्   
 भैरवा ऊचुः -  

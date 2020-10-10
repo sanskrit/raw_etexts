@@ -1,22 +1,22 @@
-+++
-"Text title" = "naTeshauttarapIThikA"
-"File name" = "naTeshauttarapIThikA.itx"
-itxtitle = "naTeshasahasranAmastotrasya uttarapIThikA"
-engtitle = "naTeshauttarapIThikA"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-Indexextra = "(sahasranAmastotram)"
-"Latest update" = "November 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नटेशसहस्रनामस्तोत्रस्य उत्तरपीठिका"
+---
+Category: sahasranAma, shiva
+File name: naTeshauttarapIThikA.itx
+Indexextra: (sahasranAmastotram)
+Language: Sanskrit
+Latest update: November 5, 2016
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: naTeshauttarapIThikA
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: naTeshauttarapIThikA
+itxtitle: naTeshasahasranAmastotrasya uttarapIThikA
+title: नटेशसहस्रनामस्तोत्रस्य उत्तरपीठिका
 
-+++
+---
   
  नटेश्वरसहस्रनामस्तोत्रस्य उत्तरपीठिका   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "kanyAkumArIpancharatnastutiH"
-"File name" = "kanyAkumArIpancharatnastutiH.itx"
-itxtitle = "kanyAkumArIpancharatnastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "kanyAkumArIpancharatnastutiH"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, pancharatna"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कन्याकुमारीपञ्चरत्नस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, pancharatna
+File name: kanyAkumArIpancharatnastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kanyAkumArIpancharatnastutiH
+engtitle: kanyAkumArIpancharatnastutiH
+itxtitle: kanyAkumArIpancharatnastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: कन्याकुमारीपञ्चरत्नस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीकन्याकुमारीपञ्चरत्नस्तुतिः   
 (श्रीकन्याकुमारीक्षेत्रे)  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "mAyApanchakam"
-"File name" = "mAyA5.itx"
-itxtitle = "mAyApanchakam"
-engtitle = "Maya-panchakam"
-Category = "panchaka, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "vedanta/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Hymn of 5 verses on Maya"
-"Latest update" = "March 26, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मायापञ्चकम्"
+---
+Author: Adi Shankaracharya
+Category: panchaka, shankarAchArya
+Description-comments: Hymn of 5 verses on Maya
+File name: mAyA5.itx
+Language: Sanskrit
+Latest update: March 26, 2002
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: vedanta/hinduism/religion
+Sublocation: shankara
+Text title: mAyApanchakam
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Maya-panchakam
+itxtitle: mAyApanchakam
+title: मायापञ्चकम्
 
-+++
+---
   
  मायापञ्चकम्   
   
@@ -37,7 +37,7 @@ title = "मायापञ्चकम्"
    त्वघटितघटनापटीयसी माया ॥ ३॥  
   
 अपगतगुणवर्णजातिभेदे  
-   सुखचिति विप्रविडाद्यहंकृतिं च ।  
+   सुखचिति विप्रविडाद्यहङ्कृतिं च ।  
 स्फुटयति सुतदारगेहमोहं  
    त्वघटितघटनापटीयसी माया ॥ ४॥  
   

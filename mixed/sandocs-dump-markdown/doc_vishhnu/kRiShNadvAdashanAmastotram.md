@@ -1,26 +1,26 @@
-+++
-"Text title" = "kRiShNadvAdashanAmastotram"
-"File name" = "krishna12.itx"
-itxtitle = "kRiShNadvAdashanAmastotram"
-engtitle = "kRiShNadvAdashanAmastotram"
-Category = "vishhnu, krishna, stotra, vyAsa, vishnu, dvAdasha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Vyasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "mahAbhArate_araNyaparva"
-Indexextra = "(NONENONE)"
-"Latest update" = "January 12, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णद्वादशनामस्तोत्रम्"
+---
+Author: Vyasa
+Category: vishhnu, krishna, stotra, vyAsa, vishnu, dvAdasha
+Description-comments: mahAbhArate_araNyaparva
+File name: krishna12.itx
+Indexextra: (NONENONE)
+Language: Sanskrit
+Latest update: January 12, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRiShNadvAdashanAmastotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: kRiShNadvAdashanAmastotram
+itxtitle: kRiShNadvAdashanAmastotram
+title: कृइष्णद्वादशनामस्तोत्रम्
 
-+++
+---
   
  श्रीकृष्णद्वादशनामस्तोत्रम्   
   

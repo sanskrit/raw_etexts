@@ -1,22 +1,22 @@
-+++
-"Text title" = "AnjaneyamangalAShTakam"
-"File name" = "AnjaneyamangalAShTakam.itx"
-itxtitle = "AnjaneyamaNgalAShTakam"
-engtitle = "AnjaneyamangalAShTakam"
-Category = "aShTaka, hanumaana, hanuman, mangala"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com"
-Source = "Parasharasamhita Hanumchcharitam Vol 2 p. 116"
-"Latest update" = "July 4, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आञ्जनेयमण्गलाष्टकम्"
+---
+Category: aShTaka, hanumaana, hanuman, mangala
+File name: AnjaneyamangalAShTakam.itx
+Language: Sanskrit
+Latest update: July 4, 2016
+Location: doc_hanumaana
+Proofread by: Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Parasharasamhita Hanumchcharitam Vol 2 p. 116
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: AnjaneyamangalAShTakam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: AnjaneyamangalAShTakam
+itxtitle: AnjaneyamaNgalAShTakam
+title: आञ्जनेयमण्गलाष्टकम्
 
-+++
+---
   
  श्री आञ्जनेयमङ्गलाष्टकम्   
   

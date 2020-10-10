@@ -1,23 +1,23 @@
-+++
-"Text title" = "dhUmAvatyaShTottarashatanAmastotram"
-"File name" = "dhUmAvatyaShTottarashatanAmastotram.itx"
-itxtitle = "dhUmAvatyaShTottarashatanAmastotram"
-engtitle = "dhUmAvatyaShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 1)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धूमावत्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: aShTottarashatanAma, devii, devI
+File name: dhUmAvatyaShTottarashatanAmastotram.itx
+Indexextra: (stotramanjari 1)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dhUmAvatyaShTottarashatanAmastotram
+Transliterated by: Shree Devi Kumar
+engtitle: dhUmAvatyaShTottarashatanAmastotram
+itxtitle: dhUmAvatyaShTottarashatanAmastotram
+title: धूमावत्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीधूमावत्यष्टोत्तरशतनामस्तोत्रम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "kAverIstuti evaM prArthanA"
-"File name" = "kAverIstuti.itx"
-itxtitle = "kAverI prArthanA"
-engtitle = "A Prayer to River kAverI"
-Category = "devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "September 4, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कावेरी प्रार्थना"
+---
+Category: devii, nadI, devI
+File name: kAverIstuti.itx
+Language: Sanskrit
+Latest update: September 4, 2012
+Location: doc_devii
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAverIstuti evaM prArthanA
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: A Prayer to River kAverI
+itxtitle: kAverI prArthanA
+title: कावेरी प्रार्थना
 
-+++
+---
   
  कावेरी प्रार्थना   
   
@@ -27,7 +27,7 @@ title = "कावेरी प्रार्थना"
           कवेरकन्ये कावेरि समुद्रमहिषिप्रिये ॥ २॥  
   
           देहि मे भक्तिमुक्ति त्वं सर्वतीर्थस्वरूपिणि ।  
-          सिन्धुवर्ये दयासिन्धो मामुद्धर दयांबुधे ॥ ३॥  
+          सिन्धुवर्ये दयासिन्धो मामुद्धर दयाम्बुधे ॥ ३॥  
   
           स्त्रियं देहि सुतं देहि श्रियं देहि ततः स्वगा ।  
           आयुष्यं देहि चारोग्यं ऋणान्मुक्तं कुरुष्व माम् ॥ ४॥  
@@ -125,7 +125,7 @@ that a realised person will see only God in anything: for example
 a learned righteous brahmin, a cow, an elephant, a dog which is  
 considered unclean, and also a mean outcast who eats the flesh of the  
 dog. Gita(5-18).   
-     विद्या-विनय-संपन्ने ब्राह्मणे गवि हस्तिनि ।  
+     विद्या-विनय-सम्पन्ने ब्राह्मणे गवि हस्तिनि ।  
      शुनि चैव श्वपाके च पण्डिताः समदर्शिनः ॥  
 The wordसमं  in this context means the Supreme Being and not `equal.'  
 This is made clear by Krishna in the very next verse (5-19).निर्दोषं  
@@ -202,10 +202,10 @@ bed of Kaveri is said to be rich in gold content.  Kaveri is called Ponni
 (pon = gold) in Tamil.  The great acharya Shri Vedanta Desika mentions  
 the glory of the river in his famous work Sri Bhagavaddhyana sopanam  
 (verse no.2).    
-     वेलातीत श्रुतिपरिमलं वेधसांमौलि सेव्यं  
+     वेलातीत श्रुतिपरिमलं वेधसाम्मौलि सेव्यं  
           प्रादुर्भूतं कनकसरितस्सैकते हंसजुष्टे ।  
      लक्ष्मीभूम्योः करसरसिजैर्लालितं रङ्गभर्तुः  
-          पादांभोज प्रतिपलतु मे भावनादीर्घिकायाम् ॥  
+          पादाम्भोज प्रतिपलतु मे भावनादीर्घिकायाम् ॥  
 The acharya says that the lotus feet of the Lord Ranganatha appeared on the  
 golden sands of Kaveri which are home to hamsas or swans. It is said that  
 swans do not like to stay in turbid waters.न बद्ध्नाति रतिं हंसः  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "shRRigAlagItA"
-"File name" = "shRRigAlagItA.itx"
-itxtitle = "shRRigAlagItA"
-engtitle = "shRRigAlagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "adhyAya 180/178"
-Source = "Mahabharata, Shantiparva, Mokshadharmaparva, shRigAla-kashyapa saMvAda"
-Indexextra = "(Scanned)"
-"Latest update" = "September 15, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शृगालगीता"
+---
+Category: gItA, giitaa
+Description-comments: adhyAya 180/178
+File name: shRRigAlagItA.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: September 15, 2017
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Mahabharata, Shantiparva, Mokshadharmaparva, shRigAla-kashyapa saMvAda
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: shRRigAlagItA
+engtitle: shRRigAlagItA
+itxtitle: shRRigAlagItA
+title: शृगालगीता
 
-+++
+---
   
  शृगालगीता   
   

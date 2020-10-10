@@ -1,23 +1,23 @@
-+++
-"Text title" = "eta bAlakAH darshayAmi"
-"File name" = "etabAlakAHdarshayAmi.itx"
-itxtitle = "eta bAlakAH darshayAmi"
-engtitle = "etabAlakAHdarshayAmi"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एत बालकाः दर्शयामि"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: etabAlakAHdarshayAmi.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: eta bAlakAH darshayAmi
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: etabAlakAHdarshayAmi
+itxtitle: eta bAlakAH darshayAmi
+title: एत बालकाः दर्शयामि
 
-+++
+---
   
  एत बालकाः दर्शयामि   
 एत बालकाः दर्शयामि वस्तेजो हिन्दुस्थानस्य,  

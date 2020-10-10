@@ -1,21 +1,22 @@
-+++
-"Text title" = "Rudra Sahasranama stotra 2 from LingapurAna"
-"File name" = "rudrasahasranAmastotralingapurANa.itx"
-itxtitle = "rudrasahasranAmastotram 2 (liNgapurANAntargatam)"
-engtitle = "rudrasahasranAmastotra lingapurANa"
-Category = "shiva, sahasranAma"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD, Sivakumar Thyagarajan, PSA Easwaran"
-"Description/comments" = "Lingapuranam - pUrvabhAgaH/adhyAyaH 65.  Purana available at sa.wikisource.org"
-"Latest update" = "March 26, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रसहस्रनामस्तोत्रम् २ (लिण्गपुराणान्तर्गतम्)"
+---
+Category: shiva, sahasranAma
+Description/comments: Lingapuranam - pUrvabhAgaH/adhyAyaH 65.  Purana available at
+  sa.wikisource.org
+File name: rudrasahasranAmastotralingapurANa.itx
+Language: Sanskrit
+Latest update: March 26, 2020
+Location: doc_shiva
+Proofread by: DPD, Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Rudra Sahasranama stotra 2 from LingapurAna
+engtitle: rudrasahasranAmastotra lingapurANa
+itxtitle: rudrasahasranAmastotram 2 (liNgapurANAntargatam)
+title: रुद्रसहस्रनामस्तोत्रम् २ (लिण्गपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीरुद्रसहस्रनामस्तोत्रम् २   
 लिङ्गपुराणतः अध्याय ६५  
@@ -28,11 +29,11 @@ title = "रुद्रसहस्रनामस्तोत्रम् २ 
 अदितिः सुषुवे पुत्रमादित्यं कश्यपाद्द्विजाः ।  
 तस्यादित्यस्य चैवासीद्भार्यात्रयमथापरम् ॥ २॥  
   
-संज्ञा राज्ञी प्रभा छाया पुत्रांस्तासां वदामि वः ।  
-संज्ञा त्वाष्ट्री च सुषुवे सूर्यान्मनुमनुत्तमम् ॥ ३॥  
+सञ्ज्ञा राज्ञी प्रभा छाया पुत्रांस्तासां वदामि वः ।  
+सञ्ज्ञा त्वाष्ट्री च सुषुवे सूर्यान्मनुमनुत्तमम् ॥ ३॥  
   
 यमं च यमुनां चैव राज्ञी रेवतमेव च ।  
-प्रभा प्रभातमादित्याच्छायां संज्ञाप्यकल्पयत् ॥ ४॥  
+प्रभा प्रभातमादित्याच्छायां सञ्ज्ञाप्यकल्पयत् ॥ ४॥  
   
 छाया च तस्मात्सुषुवे सावर्णिं भास्कराद्द्विजाः ।  
 ततः शनिञ्च तपतीं विष्टिञ्चैव यथाक्रमम् ॥ ५॥  
@@ -59,12 +60,12 @@ title = "रुद्रसहस्रनामस्तोत्रम् २ 
 वडवारूपमास्थाय तपस्तेपे तु सुव्रता ॥ १२॥  
   
 कालात्प्रयत्नतो ज्ञात्वा छायां छायापतिः प्रभुः ।  
-वडवामगमत् संज्ञामश्वरूपेण भास्करः ॥ १३॥  
+वडवामगमत् सञ्ज्ञामश्वरूपेण भास्करः ॥ १३॥  
   
-वडवा च तदा त्वाष्ट्री संज्ञा तस्माद्दिवाकरात् ।  
+वडवा च तदा त्वाष्ट्री सञ्ज्ञा तस्माद्दिवाकरात् ।  
 सुषुवे चाश्विनौ देवौ देवानान्तु भिषग्वरौ ॥ १४॥  
   
-लिखितो भास्करः पश्चात्संज्ञापित्रा महात्मना ।  
+लिखितो भास्करः पश्चात्सञ्ज्ञापित्रा महात्मना ।  
 विष्णोश्चक्रं तु यद्घोरं मण्डलाद्भास्करस्य तु ॥ १५॥  
   
 निर्ममे भगवांस्त्वष्टा प्रधानं दिव्यमायुधम् ।  
@@ -164,7 +165,7 @@ title = "रुद्रसहस्रनामस्तोत्रम् २ 
 कथञ्चैवाश्वमेधं वै करोमीति विचिन्तयन् ॥ ४७॥  
   
 धनहीनश्च धर्मात्मा दृष्टवान् ब्रह्मणः सुतम् ।  
-तण्डिसंज्ञं द्विजं तस्माल्लब्धवान् द्विजसत्तमाः ॥ ४८॥  
+तण्डिसञ्ज्ञं द्विजं तस्माल्लब्धवान् द्विजसत्तमाः ॥ ४८॥  
   
 नाम्नां सहस्रं रुद्रस्य ब्रह्मणा कथितं पुरा ।  
 तेन नाम्नां सहस्रेण स्तुत्वा तण्डिर्महेश्वरम् ॥ ४९॥  
@@ -535,7 +536,7 @@ title = "रुद्रसहस्रनामस्तोत्रम् २ 
 तस्माल्लब्ध्वा स्तवं शम्भोर्नृपस्त्रैलोक्यविश्रुतः ॥ १७०॥  
   
 अश्वमेधसहस्रस्य फलं प्राप्य महायशाः ।  
-गणाधिपत्यं संप्राप्तस्तण्डिनस्तेजसा प्रभोः ॥ १७१॥  
+गणाधिपत्यं सम्प्राप्तस्तण्डिनस्तेजसा प्रभोः ॥ १७१॥  
   
 यः पठेच्छ्रुणुयाद्वापि श्रावयेद्ब्राह्मणानपि ।  
 अश्वमेधसहस्रस्य फलं प्राप्नोति वै द्विजाः ॥ १७२॥  

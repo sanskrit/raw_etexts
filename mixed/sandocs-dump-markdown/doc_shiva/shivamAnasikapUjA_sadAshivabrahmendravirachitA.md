@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivamAnasikapUjA"
-"File name" = "shivamAnasikapUjA.itx"
-itxtitle = "shivamAnasikapUjA (sadAshivabrahmendravirachitA)"
-engtitle = "shivamAnasikapUjA"
-Category = "pUjA, shiva, sadAshivabrahmendra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sadashiva Brahmendra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rajani Arjun Shankar rajani_arjun at yahoo.com"
-"Proofread by" = "Rajani Arjun Shankar rajani_arjun at yahoo.com"
-"Translated by" = "Rajani Arjun Shankar rajani_arjun at yahoo.com"
-"Latest update" = "January 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवमानसिकपूजा (सदाशिवब्रह्मेन्द्रविरचिता)"
+---
+Author: Sadashiva Brahmendra
+Category: pUjA, shiva, sadAshivabrahmendra
+File name: shivamAnasikapUjA.itx
+Language: Sanskrit
+Latest update: January 4, 2017
+Location: doc_shiva
+Proofread by: Rajani Arjun Shankar rajani_arjun at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivamAnasikapUjA
+Translated by: Rajani Arjun Shankar rajani_arjun at yahoo.com
+Transliterated by: Rajani Arjun Shankar rajani_arjun at yahoo.com
+engtitle: shivamAnasikapUjA
+itxtitle: shivamAnasikapUjA (sadAshivabrahmendravirachitA)
+title: शिवमानसिकपूजा (सदाशिवब्रह्मेन्द्रविरचिता)
 
-+++
+---
   
  शिवमानसिकपूजा   
 सदाशिवब्रह्मेन्द्र विरचिता  

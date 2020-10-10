@@ -1,21 +1,21 @@
-+++
-"Text title" = "bANali.ngakavacha"
-"File name" = "bANalingakavacha.itx"
-itxtitle = "bANaliNgakavacham"
-engtitle = "bANalinga kavacham"
-Category = "kavacha, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kunal Mukherjee kunal at neo.tamu.edu"
-"Proofread by" = "Kunal Mukherjee and Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "April 25, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बाणलिण्गकवचम्"
+---
+Category: kavacha, shiva
+File name: bANalingakavacha.itx
+Language: Sanskrit
+Latest update: April 25, 2006
+Location: doc_shiva
+Proofread by: Kunal Mukherjee and Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: bANali.ngakavacha
+Transliterated by: Kunal Mukherjee kunal at neo.tamu.edu
+engtitle: bANalinga kavacham
+itxtitle: bANaliNgakavacham
+title: बाणलिण्गकवचम्
 
-+++
+---
   
  बाणलिङ्गकवचम्   
   

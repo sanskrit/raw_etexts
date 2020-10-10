@@ -1,23 +1,23 @@
-+++
-"Text title" = "kRRiShNastotram by rAdhA"
-"File name" = "kRRiShNastotramrAdhA.itx"
-itxtitle = "kRiShNastotram (rAdhAvirachitam brahmavaivartapurANe))"
-engtitle = "kRRiShNastotram by rAdhA"
-Category = "devii, krishna, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Brahmavaivartapurana Shrikrishnakhanda adhyAya 27, verses 99-113"
-Indexextra = "(Brahmavaivarta, VSM 3)"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (राधाविरचितम् ब्रह्मवैवर्तपुराणे))"
+---
+Category: devii, krishna, radha, devI
+Description/comments: Brahmavaivartapurana Shrikrishnakhanda adhyAya 27, verses 99-113
+File name: kRRiShNastotramrAdhA.itx
+Indexextra: (Brahmavaivarta, VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kRRiShNastotram by rAdhA
+engtitle: kRRiShNastotram by rAdhA
+itxtitle: kRiShNastotram (rAdhAvirachitam brahmavaivartapurANe))
+title: कृइष्णस्तोत्रम् (राधाविरचितम् ब्रह्मवैवर्तपुराणे))
 
-+++
+---
   
  श्रीकृष्णस्तोत्रम् राधाकृतम्   
 गोलोकनाथ गोपीश मदीश प्राणवल्लभ ।  

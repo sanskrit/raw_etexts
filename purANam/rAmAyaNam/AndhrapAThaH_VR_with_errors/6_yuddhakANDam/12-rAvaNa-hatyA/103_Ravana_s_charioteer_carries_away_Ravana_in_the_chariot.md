@@ -3,7 +3,6 @@ title: 103 Ravana s charioteer carries away Ravana in the chariot
 title_english: 103 Ravana s charioteer carries away Ravana in the chariot
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-103-Ravana_s_charioteer_carries_away_Ravana_in_the_chariot_0.mp3"></div>
 
 स तु तेन तदा क्रोधात्काकुत्स्थेनार्दितो रणे ।  
@@ -40,7 +39,7 @@ title_english: 103 Ravana s charioteer carries away Ravana in the chariot
 कर्मणः प्राप्नुहीदानीन् तस्याद्य सुमहत्फलम् ॥ ६-१०३-१६  
 शूरोऽहमिति चात्मानमवगच्छसि दुर्मते ।  
 नैव लज्जास्ति ते सीतान् चोरवद्व्यपकर्षतः ॥ ६-१०३-१७  
-यदि मत्संनिधौ सीता धर्षिता स्यात्त्वया बलात् ।  
+यदि मत्सन्निधौ सीता धर्षिता स्यात्त्वया बलात् ।  
 भ्रातरन् तु खरं पश्येस्तदा मत्सायकैर्हतः ॥ ६-१०३-१८  
 दिष्ट्यासि मम दुष्टात्मंश्चक्षुर्विषयमागतः ।  
 अद्य त्वान् सायकैस्तीक्ष्णैर्नयामि यमसादनम् ॥ ६-१०३-१९  

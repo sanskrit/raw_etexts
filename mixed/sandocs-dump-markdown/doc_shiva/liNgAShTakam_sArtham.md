@@ -1,22 +1,22 @@
-+++
-"Text title" = "sArtha liNgAShTakaM"
-"File name" = "lingashhMean.itx"
-itxtitle = "liNgAShTakam (sArtham)"
-engtitle = "liNgAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Srinivas Sunder sunder at crystal.cirrus.com"
-"Proofread by" = "Srinivas Sunder sunder at crystal.cirrus.com"
-Indexextra = "(meaning, video)"
-"Latest update" = "Feb. 10, 1995"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लिण्गाष्टकम् (सार्थम्)"
+---
+Category: aShTaka, shiva
+File name: lingashhMean.itx
+Indexextra: (meaning, video)
+Language: Sanskrit
+Latest update: Feb. 10, 1995
+Location: doc_shiva
+Proofread by: Srinivas Sunder sunder at crystal.cirrus.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: sArtha liNgAShTakaM
+Transliterated by: Srinivas Sunder sunder at crystal.cirrus.com
+engtitle: liNgAShTakam
+itxtitle: liNgAShTakam (sArtham)
+title: लिण्गाष्टकम् (सार्थम्)
 
-+++
+---
   
  लिङ्गाष्टकं सार्थ   
 ब्रह्ममुरारिसुरार्चितलिङ्गं निर्मलभासितशोभितलिङ्गम् ।  

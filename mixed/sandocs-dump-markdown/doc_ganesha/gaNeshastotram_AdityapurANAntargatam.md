@@ -1,24 +1,24 @@
-+++
-"Text title" = "gaNeshastotram from AdityapurANa"
-"File name" = "gaNeshastotramAdityapurANa.itx"
-itxtitle = "gaNeshastotram (AdityapurANAntargatam)"
-engtitle = "gaNeshastotram from AdityapurANa"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Description-comments = "Path Pustakam 1934 Srinagar Kashmir Mercantile Press"
-Source = "Adityapurana"
-Indexextra = "(pustakam)"
-"Latest update" = "April 22, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तोत्रम् (आदित्यपुराणान्तर्गतम्)"
+---
+Category: ganesha
+Description-comments: Path Pustakam 1934 Srinagar Kashmir Mercantile Press
+File name: gaNeshastotramAdityapurANa.itx
+Indexextra: (pustakam)
+Language: Sanskrit
+Latest update: April 22, 2018
+Location: doc_ganesha
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Adityapurana
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshastotram from AdityapurANa
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: gaNeshastotram from AdityapurANa
+itxtitle: gaNeshastotram (AdityapurANAntargatam)
+title: गणेशस्तोत्रम् (आदित्यपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीगणेशस्तोत्रम्   
 आदित्यपुराणान्तर्गतम्  

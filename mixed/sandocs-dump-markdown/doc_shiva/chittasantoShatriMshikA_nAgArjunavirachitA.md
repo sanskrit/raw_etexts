@@ -1,23 +1,23 @@
-+++
-"Text title" = "chittasantoShatriMshikA"
-"File name" = "chittasantoShatriMshikA.itx"
-itxtitle = "chittasantoShatriMshikA (nAgArjunavirachitA)"
-engtitle = "chittasantoShatriMshikA"
-Category = "shiva, triMshikA"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Nagarjuna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Girdhari Lal Koul glkoul.18 at gmail.com"
-"Proofread by" = "Girdhari Lal Koul glkoul.18 at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 6, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चित्तसन्तोषत्रिंशिका (नागार्जुनविरचिता)"
+---
+Author: Nagarjuna
+Category: shiva, triMshikA
+File name: chittasantoShatriMshikA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 6, 2019
+Location: doc_shiva
+Proofread by: Girdhari Lal Koul glkoul.18 at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: chittasantoShatriMshikA
+Transliterated by: Girdhari Lal Koul glkoul.18 at gmail.com
+engtitle: chittasantoShatriMshikA
+itxtitle: chittasantoShatriMshikA (nAgArjunavirachitA)
+title: चित्तसन्तोषत्रिंशिका (नागार्जुनविरचिता)
 
-+++
+---
   
  नागार्जुनकृता चित्तसन्तोषत्रिंशिका   
 लोकोत्तरानुभवसस्मितघूर्णमान-  
@@ -122,13 +122,13 @@ title = "चित्तसन्तोषत्रिंशिका (नाग
   
 वन्दामहे किमु नुमः किमु गोरवेण  
      हर्षेण चित्त ! किमु नाम निषीडयामः ।  
-संप्राप्त दुर्लभ महोदय शैव सम्पत्  
+सम्प्राप्त दुर्लभ महोदय शैव सम्पत्  
      त्वां कौतुकेन किमु मित्र ! विलोकयामः ॥ २१॥  
   
 अपृच्छतामिय मनादि धनप्रबोध-  
      स्नेहानुविद्वहृदयात् हृदयाध्य माया ।  
 संसेव्यतां सुभग शैवपद प्रवेश  
-     संप्राप्त दुर्लभ महोदय मुक्ति लक्ष्मीः ॥ २२॥  
+     सम्प्राप्त दुर्लभ महोदय मुक्ति लक्ष्मीः ॥ २२॥  
   
 किं ब्रूमहेऽत्र भवते सुकृतेन सत्ये  
      सर्वाशिषाम विषये ननु वर्तसे त्वम् ।  
@@ -155,8 +155,8 @@ title = "चित्तसन्तोषत्रिंशिका (नाग
 चित्त त्वयैव विजितं श्रयता विनाशि  
      दिग्देश कालकलना रहितं पदं तत् ॥ २७॥  
   
-स्वस्त्यस्तु तेऽम्बरविकस्वरसंप्रदाय  
-     संप्राप्त शङ्कर पदोदित सम्मदाय ।  
+स्वस्त्यस्तु तेऽम्बरविकस्वरसम्प्रदाय  
+     सम्प्राप्त शङ्कर पदोदित सम्मदाय ।  
 दुर्वारसं स्मृति दशास्वपि निर्विकार-  
      नित्यो दितात्म विभवाय भवाभवाय ॥ २८॥  
   

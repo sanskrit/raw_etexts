@@ -3,7 +3,6 @@ title: 078 Shatrughna seizes Manthara and threatens to punish her
 title_english: 078 Shatrughna seizes Manthara and threatens to punish her
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-078-Mandhara_Shasanam.mp3"></div>
 
 अत्र यात्राम् समीहन्तम् शत्रुघ्नः लक्ष्मण अनुजः ।  

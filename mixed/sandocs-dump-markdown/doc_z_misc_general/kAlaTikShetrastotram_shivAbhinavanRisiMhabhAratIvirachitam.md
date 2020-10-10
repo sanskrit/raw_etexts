@@ -1,22 +1,22 @@
-+++
-"Text title" = "kAlaTikShetrastotram"
-"File name" = "kAlaTikShetrastotram.itx"
-itxtitle = "kAlaTikShetrastotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "kAlaTikShetrastotram"
-Category = "misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालटिक्षेत्रस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: kAlaTikShetrastotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: kAlaTikShetrastotram
+engtitle: kAlaTikShetrastotram
+itxtitle: kAlaTikShetrastotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: कालटिक्षेत्रस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीकालटिक्षेत्रस्तोत्रम्   
 अद्राक्षं गुरुवर्यजन्मधरणिं कालट्यभिख्यां महा-  

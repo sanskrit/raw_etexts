@@ -1,22 +1,22 @@
-+++
-"Text title" = "shAkambharI AratI 2"
-"File name" = "shAkambharIAratI2.itx"
-itxtitle = "shAkambharI AratI 2"
-engtitle = "shAkambharI AratI 2"
-Category = "devii, AratI, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Latest update" = "August 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शाकम्भरी आरती २"
+---
+Category: devii, AratI, dashamahAvidyA, devI
+File name: shAkambharIAratI2.itx
+Language: Sanskrit
+Latest update: August 18, 2018
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAkambharI AratI 2
+Transliterated by: NA
+engtitle: shAkambharI AratI 2
+itxtitle: shAkambharI AratI 2
+title: शाकम्भरी आरती २
 
-+++
+---
   
  श्रीशाकम्भरी आरती २   
 जय देवि जय देवि जय जगदाधारे ।  

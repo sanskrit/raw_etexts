@@ -1,24 +1,24 @@
-+++
-"Text title" = "yAGYavalkyakRitaM shrIsUryastotraM"
-"File name" = "sUryastutiyAGYavalkya.itx"
-itxtitle = "sUryastotram 2 (yAjnavalkyakRitam)"
-engtitle = "Suryastotra by Sage Yagnyavalkya"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "K Kalyanaraman srimatha12 at gmail.com"
-"Proofread by" = "K Kalyanaraman srimatha12 at gmail.com"
-Description-comments = "Stuti  from 12th Skandham (6th Adhyaya) of Srimad BhAgavatham."
-Indexextra = "(Bhagavatam)"
-"Latest update" = "December 7, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यस्तोत्रम् २ (याज्ञवल्क्यकृइतम्)"
+---
+Category: navagraha, stotra
+Description-comments: Stuti  from 12th Skandham (6th Adhyaya) of Srimad BhAgavatham.
+File name: sUryastutiyAGYavalkya.itx
+Indexextra: (Bhagavatam)
+Language: Sanskrit
+Latest update: December 7, 2008
+Location: doc_z_misc_navagraha
+Proofread by: K Kalyanaraman srimatha12 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: yAGYavalkyakRitaM shrIsUryastotraM
+Texttype: stotra
+Transliterated by: K Kalyanaraman srimatha12 at gmail.com
+engtitle: Suryastotra by Sage Yagnyavalkya
+itxtitle: sUryastotram 2 (yAjnavalkyakRitam)
+title: सूर्यस्तोत्रम् २ (याज्ञवल्क्यकृइतम्)
 
-+++
+---
   
  सूर्यस्तोत्रं श्रीयाज्ञवल्क्यकृतम्   
   
@@ -39,7 +39,7 @@ title = "सूर्यस्तोत्रम् २ (याज्ञवल�
 य इह वाव स्थिरचरनिकराणां निजनिकेतनानां मन-इन्द्रियासुगणान्  
 अनात्मनः स्वयमात्मा अन्तर्यामी प्रचोदयति ॥ ३  
   
-य एवेमं लोकं अतिकराल-वदनान्धकार-संज्ञा-जगरग्रह-गिलितं  
+य एवेमं लोकं अतिकराल-वदनान्धकार-सञ्ज्ञा-जगरग्रह-गिलितं  
 मृतकमिव विचेतनं अवलोक्य अनुकम्पया परमकारुणिकः ईक्षयैव  
 उत्थाप्य अहरहरनुसवनं  श्रेयसि स्वधर्माख्यात्मावस्थाने  
 प्रवर्तयति अवनिपतिरिव असाधूनां भयमुदीरयन्नटति ॥ ४  

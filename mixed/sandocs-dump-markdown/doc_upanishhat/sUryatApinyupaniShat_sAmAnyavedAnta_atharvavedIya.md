@@ -1,22 +1,22 @@
-+++
-"Text title" = "sUryatApinyupaniShat"
-"File name" = "sUryatApinyupaniShat.itx"
-itxtitle = "sUryatApinyupaniShat (sAmAnyavedAnta, atharvavedIya)"
-engtitle = "sUryatApinyupaniShat"
-Category = "upanishhat, vedanta, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned book)"
-"Latest update" = "October 18, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यतापिन्युपनिषत् (सामान्यवेदान्त, अथर्ववेदीय)"
+---
+Category: upanishhat, vedanta, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: sUryatApinyupaniShat.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: October 18, 2017
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: sUryatApinyupaniShat
+engtitle: sUryatApinyupaniShat
+itxtitle: sUryatApinyupaniShat (sAmAnyavedAnta, atharvavedIya)
+title: सूर्यतापिन्युपनिषत् (सामान्यवेदान्त, अथर्ववेदीय)
 
-+++
+---
   
  सूर्यतापिन्युपनिषत्   
   
@@ -65,7 +65,7 @@ title = "सूर्यतापिन्युपनिषत् (सामा
 सर्वदेवाधिदैवतं सर्वदेवनमस्यन्तं काश्यपं भास्करं ध्यात्वा  
 प्रस्कण्वः कण्वपुत्रो मुनिरस्य छन्दोऽनुष्टुब्भास्करो द्वादशात्मको  
 दैवतमुदात्तस्वरो ज्ञानं नेत्रं सूर्यस्तत्त्वं प्रथमं बीजं द्वितीयं  
-शक्तिस्तृतीयं कीलकमथापि श्रींबीजं शक्तिः सूर्य इति कीलकम्  
+शक्तिस्तृतीयं कीलकमथापि श्रीम्बीजं शक्तिः सूर्य इति कीलकम्  
 । अथ पादाद्यैरर्धर्चैः रृग्भिस्तृचेन द्वादशभिर्नामभिः  
 मित्ररविसूर्यभानुखगपूषहिरण्यगर्भमरीच्यादित्यसवित्रर्कभास्कराख्यैः  
 षड्बीजैः सम्पुटिताः । स्तस्य सिध्यन्ति । गच्छेदन्ते परं पदम् ॥  

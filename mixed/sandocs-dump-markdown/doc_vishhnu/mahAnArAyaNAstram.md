@@ -1,22 +1,22 @@
-+++
-"Text title" = "mahAnArAyaNAstram"
-"File name" = "mahAnArAyaNAstram.itx"
-itxtitle = "mahAnArAyaNAstram"
-engtitle = "mahAnArAyaNAstram"
-Category = "vishhnu, krishna, rAmAnujasampradAya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महानारायणास्त्रम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: vishhnu, krishna, rAmAnujasampradAya
+File name: mahAnArAyaNAstram.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: mahAnArAyaNAstram
+engtitle: mahAnArAyaNAstram
+itxtitle: mahAnArAyaNAstram
+title: महानारायणास्त्रम्
 
-+++
+---
   
  महानारायणास्त्रम्   
   

@@ -1,26 +1,26 @@
-+++
-"Text title" = "Gangasahasranamastotram from Skandapurana"
-"File name" = "gangaasahasra.itx"
-itxtitle = "gaNgAsahasranAmastotram 1 (skandapurANAntargatam)"
-engtitle = "Gangasahasranamastotram from Skandapurana"
-Category = "sahasranAma, devii, nadI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, Kirk Wortman"
-"Proofread by" = "DPD, Kirk Wortman"
-Description-comments = "akArAdikShakArAnta"
-Source = "Skandapurana, Kashikhanda"
-Indexextra = "(bhagavatistutimanjari)"
-"Latest update" = "August 13, 2001, February 11, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गासहस्रनामस्तोत्रम् १ (स्कन्दपुराणान्तर्गतम्)"
+---
+Category: sahasranAma, devii, nadI, stotra, devI
+Description-comments: akArAdikShakArAnta
+File name: gangaasahasra.itx
+Indexextra: (bhagavatistutimanjari)
+Language: Sanskrit
+Latest update: August 13, 2001, February 11, 2017
+Location: doc_devii
+Proofread by: DPD, Kirk Wortman
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Skandapurana, Kashikhanda
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangasahasranamastotram from Skandapurana
+Texttype: stotra
+Transliterated by: DPD, Kirk Wortman
+engtitle: Gangasahasranamastotram from Skandapurana
+itxtitle: gaNgAsahasranAmastotram 1 (skandapurANAntargatam)
+title: गण्गासहस्रनामस्तोत्रम् १ (स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीगङ्गासहस्रनामस्तोत्रम्   
 अकारादिक्षकारान्त नामघटितं स्कन्दपुराणान्तर्गतं  
@@ -83,7 +83,7 @@ title = "गण्गासहस्रनामस्तोत्रम् १ 
   
 ॐ नमो गङ्गादेव्यै  ॥  
   
-ओंकाररूपिण्यजराऽतुलाऽनन्ताऽमृतस्रवा ।  
+ओङ्काररूपिण्यजराऽतुलाऽनन्ताऽमृतस्रवा ।  
 अत्युदाराऽभयाऽशोकाऽलकनन्दाऽमृताऽमला ॥ १७॥  
   
 अनाथवत्सलाऽमोघाऽपांयोनिरमृतप्रदा ।  

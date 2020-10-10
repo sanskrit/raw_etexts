@@ -1,22 +1,22 @@
-+++
-"Text title" = "durgAShTottarashatanAmAvalI 3"
-"File name" = "durgAShTottarashatanAmAvalI.itx"
-itxtitle = "durgAShTottarashatanAmAvaliH 3"
-engtitle = "durgAShTottarashatanAmAvalI 3"
-Category = "aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda"
-"Proofread by" = "R. Harshananda"
-Indexextra = "(navadurgApUjA)"
-"Latest update" = "February 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गाष्टोत्तरशतनामावलिः ३"
+---
+Category: aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI
+File name: durgAShTottarashatanAmAvalI.itx
+Indexextra: (navadurgApUjA)
+Language: Sanskrit
+Latest update: February 17, 2018
+Location: doc_devii
+Proofread by: R. Harshananda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAShTottarashatanAmAvalI 3
+Transliterated by: R. Harshananda
+engtitle: durgAShTottarashatanAmAvalI 3
+itxtitle: durgAShTottarashatanAmAvaliH 3
+title: दुर्गाष्टोत्तरशतनामावलिः ३
 
-+++
+---
   
  श्रीदुर्गाष्टोत्तरशतनामावली ३   
 अस्यश्री दुर्गाऽष्टोत्तरशतनाम महामन्त्रस्य नारद ऋषिः  

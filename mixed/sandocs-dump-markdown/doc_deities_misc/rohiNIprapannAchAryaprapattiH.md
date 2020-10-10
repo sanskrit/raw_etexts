@@ -1,23 +1,23 @@
-+++
-"Text title" = "rohiNIprapannAchAryaprapattiH"
-"File name" = "rohiNIprapannAchAryaprapattiH.itx"
-itxtitle = "rohiNIprapannAchAryaprapattiH"
-engtitle = "rohiNIprapannAchAryaprapattiH"
-Category = "deities_misc, gurudev, rAmAnujasampradAya, prapatti"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रोहिणीप्रपन्नाचार्यप्रपत्तिः"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: deities_misc, gurudev, rAmAnujasampradAya, prapatti
+File name: rohiNIprapannAchAryaprapattiH.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: rohiNIprapannAchAryaprapattiH
+engtitle: rohiNIprapannAchAryaprapattiH
+itxtitle: rohiNIprapannAchAryaprapattiH
+title: रोहिणीप्रपन्नाचार्यप्रपत्तिः
 
-+++
+---
   
  श्रीमज्जगद्गुरुश्रीरोहिणीप्रपन्नाचार्यप्रपत्तिः   
   

@@ -1,19 +1,19 @@
-+++
-"Text title" = "Words containing substring mAval"
-"File name" = "mAvalwords.itx"
-itxtitle = "mAval shabdAH"
-engtitle = "Words containing substring mAval"
-Category = "misc"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "October 7, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मावल् शब्दाः"
+---
+Category: misc
+File name: mAvalwords.itx
+Language: Sanskrit
+Latest update: October 7, 2017
+Location: doc_z_misc_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Words containing substring mAval
+engtitle: Words containing substring mAval
+itxtitle: mAval shabdAH
+title: मावल् शब्दाः
 
-+++
+---
   
  मावल् शब्दाः   
   
@@ -80,7 +80,7 @@ title = "मावल् शब्दाः"
 लालसा  
 लामावल्लभो  
 लम्बिस्तनयुग्मनतानना  
-लसद्वृत्तगंभीर  
+लसद्वृत्तगम्भीर  
 लोमावलि  
 लोमावली  
 मध्यस्थरोमावलिरम्यरेखम्  
@@ -165,7 +165,7 @@ title = "मावल् शब्दाः"
 समावलोक्य  
 समेष्यत्युल्लासं  
 सम्मेलन  
-सांगितलेली  
+साङ्गितलेली  
 सर्वकर्मावलंवश्च  
 सर्वशर्मावलीवल्लिविद्युद्धवम्  
 शक्रतनूजालसाक्ष्यळिकदम्बः  

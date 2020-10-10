@@ -1,24 +1,24 @@
-+++
-"Text title" = "nRisi.nhAShTottarashatanAmAvalI"
-"File name" = "nRisinha108.itx"
-itxtitle = "nRisi.nhAShTottarashatanAmAvaliH 1"
-engtitle = "nRisi.nhAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, vishhnu, dashAvatAra, nAmAvalI, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-Indexextra = "(108 names)"
-"Latest update" = "June 23, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहाष्टोत्तरशतनामावलिः १"
+---
+Category: aShTottarashatanAmAvalI, vishhnu, dashAvatAra, nAmAvalI, vishnu
+File name: nRisinha108.itx
+Indexextra: (108 names)
+Language: Sanskrit
+Latest update: June 23, 2008
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nRisi.nhAShTottarashatanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: nRisi.nhAShTottarashatanAmAvalI
+itxtitle: nRisi.nhAShTottarashatanAmAvaliH 1
+title: नृइसिंहाष्टोत्तरशतनामावलिः १
 
-+++
+---
   
  श्रीनृसिंहाष्टोत्तरशतनामावली   
   
@@ -132,7 +132,7 @@ title = "नृइसिंहाष्टोत्तरशतनामाव�
 ॐ स्रष्ट्रे नमः ।  
 ॐ परस्मैज्योतिषे नमः ।  
 ॐ परायणाय नमः ।  
-॥ श्री नृसिंहाष्टोत्तरशतनामावलिः संपूर्णा ॥  
+॥ श्री नृसिंहाष्टोत्तरशतनामावलिः सम्पूर्णा ॥  
   
   
 Encoded and proofread by  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "viGYaanagaNarAjastotram"
-"File name" = "viGYaanagaNarAjastotram.itx"
-itxtitle = "viGYAnagaNarAjastotram (mudgalamurANAntargatam)"
-engtitle = "viGYAnagaNarAjastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "mudgalapurANa"
-"Latest update" = "May 12, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विज्ञानगणराजस्तोत्रम् (मुद्गलमुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: mudgalapurANa
+File name: viGYaanagaNarAjastotram.itx
+Language: Sanskrit
+Latest update: May 12, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: viGYaanagaNarAjastotram
+Texttype: stotra
+Transliterated by: 'Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)'
+engtitle: viGYAnagaNarAjastotram
+itxtitle: viGYAnagaNarAjastotram (mudgalamurANAntargatam)
+title: विज्ञानगणराजस्तोत्रम् (मुद्गलमुराणान्तर्गतम्)
 
-+++
+---
   
  विज्ञानगणराजस्तोत्रम्   
   
@@ -46,7 +46,7 @@ title = "विज्ञानगणराजस्तोत्रम् (मु
 सदसन्मयगं विष्णुं जानीहि वेदवादतः ॥ ७॥  
   
 तेभ्यो विलक्षणस्तुर्या नेतिरूपः प्रकीर्तितः ।  
-निर्मोहः शिवसंज्ञश्च स्वाधीनं ब्रह्म तद्बुधैः ॥ ८॥  
+निर्मोहः शिवसञ्ज्ञश्च स्वाधीनं ब्रह्म तद्बुधैः ॥ ८॥  
   
 चतुर्णां ब्रह्मसंयोगे स्वानन्दः कथ्यते बुधैः ।  
 स वै मायामयः साक्षाद्गुणेशो वेदवादिभिः ॥ ९॥  
@@ -137,7 +137,7 @@ title = "विज्ञानगणराजस्तोत्रम् (मु
 तं द्रष्टुं गणपस्तत्र ययौ भक्तं निजेच्छया ।  
 भक्तवात्सल्यभावेन दत्ताश्रमसुशान्तिदः ॥ ३८॥  
   
-तं दृष्ट्वा सहसोत्थाय प्रणनाम कृतांजलिः ।  
+तं दृष्ट्वा सहसोत्थाय प्रणनाम कृताञ्जलिः ।  
 तुष्टाव सुस्थिरो भूत्वा विघ्नेशं कुलदैवतम् ॥ ३९॥  
   
 दत्त उवाच ।  
@@ -153,7 +153,7 @@ title = "विज्ञानगणराजस्तोत्रम् (मु
 स्वानन्दवासिने तुभ्यं संयोगाभेदधारिणे ।  
 नानामायाविहाराय विघ्नेशाय नमो नमः ॥ ४३॥  
   
-सांख्याय ब्रह्मनिष्ठाय बोधहीनाय धीमते ।  
+साङ्ख्याय ब्रह्मनिष्ठाय बोधहीनाय धीमते ।  
 परतोत्थानरूपाय विदेहाय नमो नमः ॥ ४४॥  
   
 बोधाय सर्वरूपाय देहदेहिमयाय च ।  
@@ -178,7 +178,7 @@ title = "विज्ञानगणराजस्तोत्रम् (मु
 वेदादयः समर्था न त्वामतः प्रणमाम्यहम् ॥ ५१॥  
   
 धन्यो देहो मदीयोऽद्य पितरौ कुलमेव च ।  
-विद्या योगस्तपश्चैव त्वदंग़्ह्रियुगदर्शनात् ॥ ५२॥  
+विद्या योगस्तपश्चैव त्वदङ्ग़्ह्रियुगदर्शनात् ॥ ५२॥  
   
 इत्युक्त्वा भक्तिभावेन परिप्लुतो महामुनिः ।  
 ननर्त हृष्टरोमाऽसौ आनन्दाश्रूः सृजन्मुहुः ॥ ५३॥  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "indrakRitaM rAmastotram"
-"File name" = "indraraamastotra.itx"
-itxtitle = "rAmastotram (indrakRitam)"
-engtitle = "indrakRitaM rAmastotram"
-Category = "raama, stotra, vyAsa"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "indra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.webdunia.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-Description-comments = "adhyAtmarAmAyaNa"
-"Latest update" = "January 8, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामस्तोत्रम् (इन्द्रकृइतम्)"
+---
+Author: indra
+Category: raama, stotra, vyAsa
+Description-comments: adhyAtmarAmAyaNa
+File name: indraraamastotra.itx
+Language: Sanskrit
+Latest update: January 8, 2002
+Location: doc_raama
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: indrakRitaM rAmastotram
+Texttype: stotra
+Transliterated by: http://www.webdunia.com
+engtitle: indrakRitaM rAmastotram
+itxtitle: rAmastotram (indrakRitam)
+title: रामस्तोत्रम् (इन्द्रकृइतम्)
 
-+++
+---
   
  इन्द्रकृतं रामस्तोत्रम्   
   

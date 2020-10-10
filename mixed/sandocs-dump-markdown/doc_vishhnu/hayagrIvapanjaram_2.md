@@ -1,23 +1,23 @@
-+++
-"Text title" = "hayagrIvapanjaram 2"
-"File name" = "hayagrIvapanjaram2.itx"
-itxtitle = "hayagrIvapanjaram 2"
-engtitle = "hayagrIvapanjaram 2"
-Category = "vishhnu, panjara"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हयग्रीवपञ्जरम् २"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, panjara
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: hayagrIvapanjaram2.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: hayagrIvapanjaram 2
+engtitle: hayagrIvapanjaram 2
+itxtitle: hayagrIvapanjaram 2
+title: हयग्रीवपञ्जरम् २
 
-+++
+---
   
  श्रीहयग्रीवपञ्जरम् २   
   

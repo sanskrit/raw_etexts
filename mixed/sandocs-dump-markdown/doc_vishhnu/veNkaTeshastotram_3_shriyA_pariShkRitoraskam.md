@@ -1,27 +1,27 @@
-+++
-"Text title" = "shrIveMkaTeshastotram 3"
-"File name" = "veMkaTeshastotram.itx"
-itxtitle = "veNkaTeshastotram 3 (shriyA pariShkRitoraskam)"
-engtitle = "shrIveMkaTeshastotram 3"
-Category = "vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Author = "vIrarAghavAchArye"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Description-comments = "with shrIpadmAvatIstotra"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "June 10, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशस्तोत्रम् ३ (श्रिया परिष्कृइतोरस्कम्)"
+---
+Author: vIrarAghavAchArye
+Category: vishhnu, venkateshwara, stotra, vishnu
+Description-comments: with shrIpadmAvatIstotra
+File name: veMkaTeshastotram.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: June 10, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIveMkaTeshastotram 3
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: shrIveMkaTeshastotram 3
+itxtitle: veNkaTeshastotram 3 (shriyA pariShkRitoraskam)
+title: वेण्कटेशस्तोत्रम् ३ (श्रिया परिष्कृइतोरस्कम्)
 
-+++
+---
   
  श्रीवेङ्कटेशस्तोत्रम्   
 श्रिया परिष्कृतोरस्कं दयामय शुभाकृतिम् ।  
@@ -447,7 +447,7 @@ sएच्तिओन्
 अनुभूय राधयति यं शम्भुस्तं सिंहशैलगं स्तौमि ॥ ११६॥  
   
 ण इति हि वर्णो वार्णासिद्धेर्विष्णोश्च वर्णने हेतुः ।  
-नारायणसंज्ञां त्वयि नियमयति श्रीवृषाद्रीश ॥ ११७॥  
+नारायणसञ्ज्ञां त्वयि नियमयति श्रीवृषाद्रीश ॥ ११७॥  
   
 तटिदुज्ज्वलो घनो यो वनमालाशोभनो वृषाधीनः  
 तद्दृष्टौ न भवेयुः केकाः कथमत्र पक्षिणां मध्ये ॥ ११८॥  
@@ -476,7 +476,7 @@ sएच्तिओन्
 भवतु भगवन्मुकुन्द श्रीवल्लभ वेङ्कटाद्रिशृङ्गमणे ।  
 कुलदैव कल्पवृक्षन्त्येवं त्वयि मे वचोऽजस्रम् ॥ १२६॥  
   
-मदनकदनैर्धंनायावेताल्या पारलौकिकैर्धर्मैः ।  
+मदनकदनैर्धन्नायावेताल्या पारलौकिकैर्धर्मैः ।  
 भृशमत्र कर्शितानां परायणं त्वं रसायनं भगवन् ॥ १२७॥  
   
 यस्याः कणास्सरन्तो भाग्यवशात्संहतास्सुखाय भुवः ।  
@@ -687,7 +687,7 @@ sएच्तिओन्
          न्मन्दस्यन्दिमरन्दमेदुरमहोरस्को विरक्तिं मम ॥ १८२॥  
   
 कृत्याकृत्यविवेकदुर्विधमहानर्थोपनद्धोन्मद-  
-         प्राज्ञंमन्यकरत्यजद्दरदृढप्रोन्माथि मन्मानसम् ।  
+         प्राज्ञम्मन्यकरत्यजद्दरदृढप्रोन्माथि मन्मानसम् ।  
 तन्मे सम्प्रति तं प्रति प्रणतयस्सन्तु प्रियो यश्श्रियः  
          प्रेमार्द्रं प्रणिधापयेन्मन इदं कामञ्च निर्यापयेत् ॥ १८३॥  
   
@@ -713,7 +713,7 @@ sएच्तिओन्
   
 यस्तु प्राथमिकाश्रमस्स भगवन् क्षिप्रं व्यतीयाय मे  
          वानप्रस्थ इतीदमद्य जगति प्राप्तं भृशादर्शनम् ।  
-संन्यासस्तु गृहस्थधर्मवहनव्याक्षिप्तनैजस्थितिः  
+सन्न्यासस्तु गृहस्थधर्मवहनव्याक्षिप्तनैजस्थितिः  
          तद्गार्हस्थ्यमिदं विधत्स्व नियतं धर्म्यं प्रियं ते मम ॥ १८८॥  
   
 इत्थं वेङ्कटशैलशेखरपदाम्भोजद्वयैकप्रियः  

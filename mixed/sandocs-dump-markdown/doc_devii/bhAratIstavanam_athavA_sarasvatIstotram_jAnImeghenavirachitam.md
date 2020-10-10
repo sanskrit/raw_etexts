@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhAratIstavanam"
-"File name" = "bhAratIstavanam.itx"
-itxtitle = "bhAratIstavanam athavA sarasvatIstotram (jAnImeghenavirachitam)"
-engtitle = "bhAratIstavanam"
-Category = "devii, jaina, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Janimegha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Latest update" = "April 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारतीस्तवनम् अथवा सरस्वतीस्तोत्रम् (जानीमेघेनविरचितम्)"
+---
+Author: Janimegha
+Category: devii, jaina, sarasvatI, devI
+File name: bhAratIstavanam.itx
+Language: Sanskrit
+Latest update: April 14, 2018
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhAratIstavanam
+Transliterated by: DPD
+engtitle: bhAratIstavanam
+itxtitle: bhAratIstavanam athavA sarasvatIstotram (jAnImeghenavirachitam)
+title: भारतीस्तवनम् अथवा सरस्वतीस्तोत्रम् (जानीमेघेनविरचितम्)
 
-+++
+---
   
  भारतीस्तवनम् अथवा सरस्वतीस्तोत्रम्   
   

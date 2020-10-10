@@ -1,24 +1,24 @@
-+++
-"Text title" = "devIkShamApaNastotram"
-"File name" = "devIkShamApanastotram.itx"
-itxtitle = "devIkShamApaNastotram"
-engtitle = "devIkShamApaNastotram"
-Category = "devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "July 26, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीक्षमापणस्तोत्रम्"
+---
+Author: Traditional
+Category: devii, durgA, stotra, devI
+File name: devIkShamApanastotram.itx
+Language: Sanskrit
+Latest update: July 26, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIkShamApaNastotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: devIkShamApaNastotram
+itxtitle: devIkShamApaNastotram
+title: देवीक्षमापणस्तोत्रम्
 
-+++
+---
   
  देवीक्षमापणस्तोत्रम्   
   

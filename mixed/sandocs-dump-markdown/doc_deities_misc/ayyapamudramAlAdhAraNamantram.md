@@ -1,22 +1,22 @@
-+++
-"Text title" = "ayyapamudramAlAdhAraNamantram"
-"File name" = "ayyapamudramAlAdhAraNamantram.itx"
-itxtitle = "ayyapamudramAlAdhAraNamantram"
-engtitle = "ayyapamudramAlAdhAraNamantram"
-Category = "deities_misc, ayyappa"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "November 25, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अय्यपमुद्रमालाधारणमन्त्रम्"
+---
+Category: deities_misc, ayyappa
+File name: ayyapamudramAlAdhAraNamantram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 25, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: ayyapamudramAlAdhAraNamantram
+engtitle: ayyapamudramAlAdhAraNamantram
+itxtitle: ayyapamudramAlAdhAraNamantram
+title: अय्यपमुद्रमालाधारणमन्त्रम्
 
-+++
+---
   
  श्रीमदय्यप्पमुद्रमालाधारणमन्त्रम्   
 ज्ञानमुद्रां शास्त्रमुद्रां गुरुमुद्रां नमाम्यहम् ।  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "Shri Dakshina Sheshachalesha Shrinivasa Bhagavat Suprabhatam"
-"File name" = "dakShiNAsheShAchaleshashrInivAsabhagavatsuprabhAtam.itx"
-itxtitle = "dakShiNasheShAchaleshashrInivAsabhagavatsuprabhAtam"
-engtitle = "dakShiNasheShAchaleshashrInivAsabhagavatsuprabhAtam"
-Category = "vishhnu, suprabhAta, venkateshwara"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Author = "saralakavi rAghavAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "for the Deity on the hill of Vaiyavur"
-Indexextra = "(Tamil)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणशेषाचलेशश्रीनिवासभगवत्सुप्रभातम्"
+---
+Author: saralakavi rAghavAchArya
+Category: vishhnu, suprabhAta, venkateshwara
+Description/comments: for the Deity on the hill of Vaiyavur
+File name: dakShiNAsheShAchaleshashrInivAsabhagavatsuprabhAtam.itx
+Indexextra: (Tamil)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Dakshina Sheshachalesha Shrinivasa Bhagavat Suprabhatam
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: dakShiNasheShAchaleshashrInivAsabhagavatsuprabhAtam
+itxtitle: dakShiNasheShAchaleshashrInivAsabhagavatsuprabhAtam
+title: दक्षिणशेषाचलेशश्रीनिवासभगवत्सुप्रभातम्
 
-+++
+---
   
  श्रीदक्षिणशेषाचलेशश्रीनिवासभगवत्सुप्रभातम्   
 श्रीमते प्रसन्नवेङ्कटेशश्रीनिवासाय नमः ।  

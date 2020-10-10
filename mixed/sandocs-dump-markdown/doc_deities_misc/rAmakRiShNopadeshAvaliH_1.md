@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri RamakrishnaparamahamsopadeshAvaliH 1"
-"File name" = "rAmakRiShNopadesha1.itx"
-itxtitle = "rAmakRiShNopadeshAvaliH 1"
-engtitle = "Shri RamakrishnopadeshAvaliH 1"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Sw. Ramakrishnananda (1863-1911)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "English and Hindi translations in the source book"
-Source = "ShriRamKrishna UpadeshSahasri by Swami Apurvananda"
-Indexextra = "(Scanned)"
-"Latest update" = "July 10, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामकृइष्णोपदेशावलिः १"
+---
+Author: Sw. Ramakrishnananda (1863-1911)
+Category: deities_misc, gurudev
+Description-comments: English and Hindi translations in the source book
+File name: rAmakRiShNopadesha1.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: July 10, 2016
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: ShriRamKrishna UpadeshSahasri by Swami Apurvananda
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri RamakrishnaparamahamsopadeshAvaliH 1
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Shri RamakrishnopadeshAvaliH 1
+itxtitle: rAmakRiShNopadeshAvaliH 1
+title: रामकृइष्णोपदेशावलिः १
 
-+++
+---
   
  श्रीरामकृष्णपरमहंसोपदेशावलिः १   
 वियत्तले सूर्यविभाप्रभावाद्  

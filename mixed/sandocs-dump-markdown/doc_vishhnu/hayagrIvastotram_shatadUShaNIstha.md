@@ -1,21 +1,21 @@
-+++
-"Text title" = "shatadUShaNIstha hayagrIvastotram"
-"File name" = "shatadUShaNIsthahayagrIvastotram.itx"
-itxtitle = "hayagrIvastotram shatadUShaNIstha"
-engtitle = "shatadUShaNIstha hayagrIvastotram"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vedha Nathan vnathan.lab at gmail.com"
-"Proofread by" = "Vedha Nathan vnathan.lab at gmail.com, NA"
-"Latest update" = "February 2, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हयग्रीवस्तोत्रम् शतदूषणीस्थ"
+---
+Category: vishhnu
+File name: shatadUShaNIsthahayagrIvastotram.itx
+Language: Sanskrit
+Latest update: February 2, 2019
+Location: doc_vishhnu
+Proofread by: Vedha Nathan vnathan.lab at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shatadUShaNIstha hayagrIvastotram
+Transliterated by: Vedha Nathan vnathan.lab at gmail.com
+engtitle: shatadUShaNIstha hayagrIvastotram
+itxtitle: hayagrIvastotram shatadUShaNIstha
+title: हयग्रीवस्तोत्रम् शतदूषणीस्थ
 
-+++
+---
   
  शतदूषणीस्थहयग्रीवस्तोत्रम्   
 श्रीलक्ष्मीहयवदनपरब्रह्मणे नमः ।  
@@ -30,7 +30,7 @@ title = "हयग्रीवस्तोत्रम् शतदूषणी�
 हयग्रीवसुधासिन्धुहर्षहेषारवोर्मयः।  
 जयन्ति वादवेलान्तक्षिप्तबाह्यकुदृष्टयः ॥ २॥  
   
-संप्रज्ञातस्थितिमधिगते निर्विकल्पे समाधौ  
+सम्प्रज्ञातस्थितिमधिगते निर्विकल्पे समाधौ  
      शान्तावद्यं स्तिमितबहुलानन्दसन्दाहमन्तः ।  
 यत्तद्ब्रह्म स्फुरति यमिनां पूर्णषाड्गुण्यरूपं  
      सा मे नित्यं हृदि हयमुखी देवता सन्निधत्ताम् ॥ ३॥  

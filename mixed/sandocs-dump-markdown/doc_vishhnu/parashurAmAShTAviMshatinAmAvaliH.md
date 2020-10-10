@@ -1,22 +1,22 @@
-+++
-"Text title" = "parashurAmAShTAviMshatinAmAvaliH"
-"File name" = "parashurAmAShTAviMshatinAmAvaliH.itx"
-itxtitle = "parashurAmAShTAviMshatinAmAvaliH"
-engtitle = "parashurAmAShTAviMshatinAmAvaliH"
-Category = "vishhnu, dashAvatAra, viMshati"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परशुरामाष्टाविंशतिनामावलिः"
+---
+Category: vishhnu, dashAvatAra, viMshati
+File name: parashurAmAShTAviMshatinAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: parashurAmAShTAviMshatinAmAvaliH
+engtitle: parashurAmAShTAviMshatinAmAvaliH
+itxtitle: parashurAmAShTAviMshatinAmAvaliH
+title: परशुरामाष्टाविंशतिनामावलिः
 
-+++
+---
   
  श्रीपरशुरामाष्टाविंशतिनामावलिः   
   

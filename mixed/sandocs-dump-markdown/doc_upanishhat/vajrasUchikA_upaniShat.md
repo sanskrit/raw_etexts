@@ -1,29 +1,29 @@
-+++
-"Text title" = "vajrasUchikA upaniShat"
-"File name" = "vajrasUchikopan.itx"
-itxtitle = "vajrasUchikA upaniShat"
-engtitle = "vajrasUchika (with trans.)"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "H. P. Raghunandan hpraghu at genius.tisl.soft.net"
-"Proofread by" = "H. P. Raghunandan hpraghu at genius.tisl.soft.net"
-Indexextra = "(with meanings)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वज्रसूचिका उपनिषत्"
+---
+Category: upanishhat, upanishad
+File name: vajrasUchikopan.itx
+Indexextra: (with meanings)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_upanishhat
+Proofread by: H. P. Raghunandan hpraghu at genius.tisl.soft.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: vajrasUchikA upaniShat
+Transliterated by: H. P. Raghunandan hpraghu at genius.tisl.soft.net
+engtitle: vajrasUchika (with trans.)
+itxtitle: vajrasUchikA upaniShat
+title: वज्रसूचिका उपनिषत्
 
-+++
+---
   
  वज्रसूचिका उपनिषत्   
   
           ॥ श्री गुरुभ्यो नमः हरिः ॐ ॥  
   
        यज्ञ्ज्ञानाद्यान्ति मुनयो ब्राह्मण्यं परमाद्भुतम् ।  
-       तत्रैपद्ब्रह्मतत्त्वमहमस्मीति चिंतये  ॥  
+       तत्रैपद्ब्रह्मतत्त्वमहमस्मीति चिन्तये  ॥  
   
           ॐ आप्यायन्त्विति शान्तिः ॥  
   
@@ -39,18 +39,18 @@ title = "वज्रसूचिका उपनिषत्"
 ज्ञानं किं कर्म किं धार्मिक इति ॥  
   
 तत्र प्रथमो जीवो ब्राह्मण इति चेत् तन्न । अतीतानागतानेकदेहानां  
-जीवस्यैकरूपत्वात् एकस्यापि कर्मवशादनेकदेहसंभवात् सर्वशरीराणां  
+जीवस्यैकरूपत्वात् एकस्यापि कर्मवशादनेकदेहसम्भवात् सर्वशरीराणां  
 जीवस्यैकरूपत्वाच्च । तस्मात् न जीवो ब्राह्मण इति ॥  
   
 तर्हि देहो ब्राह्मण इति चेत् तन्न । आचाण्डालादिपर्यन्तानां मनुष्याणां  
 पञ्चभौतिकत्वेन देहस्यैकरूपत्वात्  
 जरामरणधर्माधर्मादिसाम्यदर्शनत् ब्राह्मणः श्वेतवर्णः क्षत्रियो  
 रक्तवर्णो वैश्यः पीतवर्णः शूद्रः कृष्णवर्णः इति नियमाभावात् ।  
-पित्रादिशरीरदहने पुत्रादीनां ब्रह्महत्यादिदोषसंभवाच्च ।  
+पित्रादिशरीरदहने पुत्रादीनां ब्रह्महत्यादिदोषसम्भवाच्च ।  
 तस्मात् न देहो ब्राह्मण इति ॥  
   
 तर्हि जाति ब्राह्मण इति चेत् तन्न । तत्र  
-जात्यन्तरजन्तुष्वनेकजातिसंभवात् महर्षयो बहवः सन्ति ।  
+जात्यन्तरजन्तुष्वनेकजातिसम्भवात् महर्षयो बहवः सन्ति ।  
 ऋष्यशृङ्गो मृग्याः, कौशिकः कुशात्, जाम्बूको जाम्बूकात्, वाल्मीको  
 वाल्मीकात्, व्यासः कैवर्तकन्यकायाम्, शशपृष्ठात् गौतमः,  
 वसिष्ठ उर्वश्याम्, अगस्त्यः कलशे जात इति शृतत्वात् । एतेषां  
@@ -82,7 +82,7 @@ title = "वज्रसूचिका उपनिषत्"
   
           ॥ इति वज्रसूच्युपनिषत्समाप्ता ॥  
   
-          ॥ भारतीरमणमुख्यप्राणंतर्गत श्रीकृष्णार्पणमस्तु ॥  
+          ॥ भारतीरमणमुख्यप्राणन्तर्गत श्रीकृष्णार्पणमस्तु ॥  
   
   
   

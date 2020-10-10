@@ -1,23 +1,23 @@
-+++
-"Text title" = "pArvatIstutiH vIrakakRitA"
-"File name" = "pArvatIstutivIraka.itx"
-itxtitle = "pArvatIstutiH (matsyapurANAntargataM vIrakakRitA natasurAsuramaulimilan)"
-engtitle = "pArvatIstutiH"
-Category = "devii, pArvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subrahmanyam Yvs yvspmp at gmail.com"
-"Proofread by" = "Subrahmanyam Yvs, Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "matsyapurANa adhyAya 158 shlokAH 11-20"
-"Latest update" = "July 21, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्वतीस्तुतिः (मत्स्यपुराणान्तर्गतं वीरककृइता नतसुरासुरमौलिमिलन्)"
+---
+Category: devii, pArvatI, devI
+File name: pArvatIstutivIraka.itx
+Language: Sanskrit
+Latest update: July 21, 2017
+Location: doc_devii
+Proofread by: Subrahmanyam Yvs, Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: matsyapurANa adhyAya 158 shlokAH 11-20
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: pArvatIstutiH vIrakakRitA
+Transliterated by: Subrahmanyam Yvs yvspmp at gmail.com
+engtitle: pArvatIstutiH
+itxtitle: pArvatIstutiH (matsyapurANAntargataM vIrakakRitA natasurAsuramaulimilan)
+title: पार्वतीस्तुतिः (मत्स्यपुराणान्तर्गतं वीरककृइता नतसुरासुरमौलिमिलन्)
 
-+++
+---
   
  वीरककृता पार्वतीस्तुतिः   
   

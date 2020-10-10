@@ -1,26 +1,26 @@
-+++
-"Text title" = "reNukA aShTottarashatanAma stotram"
-"File name" = "reNukA108nAmastotra.itx"
-itxtitle = "reNukA aShTottarashatanAmastotram"
-engtitle = "Sri Renuka Ashtottarashatanama Stotram"
-Category = "aShTottarashatanAma, devii, reNukA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Texttype = "stotra"
-Author = "shANDilyamaharShi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com, NA"
-Description-comments = "from shrIreNukAtantram, Pitambarapeeth, Datia"
-Indexextra = "(shANDilyamaharShi)"
-"Latest update" = "May 11, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुका अष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: shANDilyamaharShi
+Category: aShTottarashatanAma, devii, reNukA, stotra, devI
+Description-comments: from shrIreNukAtantram, Pitambarapeeth, Datia
+File name: reNukA108nAmastotra.itx
+Indexextra: (shANDilyamaharShi)
+Language: Sanskrit
+Latest update: May 11, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukA aShTottarashatanAma stotram
+Texttype: stotra
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Sri Renuka Ashtottarashatanama Stotram
+itxtitle: reNukA aShTottarashatanAmastotram
+title: रेणुका अष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीरेणुका अष्टोत्तरशतनामस्तोत्रम्   
   

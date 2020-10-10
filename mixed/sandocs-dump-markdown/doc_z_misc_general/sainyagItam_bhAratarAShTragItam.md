@@ -1,24 +1,25 @@
-+++
-"Text title" = "Sainya Gitam"
-"File name" = "sainyagItam.itx"
-itxtitle = "sainyagItam (bhAratarAShTragItam)"
-engtitle = "sainyagItam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "vAsudeva dvivedI shAstrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सैन्यगीतम् (भारतराष्ट्रगीतम्)"
+---
+Author: vAsudeva dvivedI shAstrI
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: sainyagItam.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Sainya Gitam
+Translated by: Mandar Mali
+engtitle: sainyagItam
+itxtitle: sainyagItam (bhAratarAShTragItam)
+title: सैन्यगीतम् (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  सैन्य गीतम्   
 (लय-कदम कदम बढाये जा॥॥)  

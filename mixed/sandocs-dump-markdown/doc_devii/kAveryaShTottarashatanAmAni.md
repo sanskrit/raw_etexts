@@ -1,22 +1,22 @@
-+++
-"Text title" = "kAveryaShTottarashatanAmAni"
-"File name" = "kAverI108naama.itx"
-itxtitle = "kAveryaShTottarashatanAmAni"
-engtitle = "kAveryaShTottarashatanAmAni"
-Category = "aShTottarashatanAmAvalI, devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at sify.com"
-"Proofread by" = "N.Balasubramanian bbalu at sify.com"
-"Latest update" = "November 28, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कावेर्यष्टोत्तरशतनामानि"
+---
+Category: aShTottarashatanAmAvalI, devii, nadI, devI
+File name: kAverI108naama.itx
+Language: Sanskrit
+Latest update: November 28, 2008
+Location: doc_devii
+Proofread by: N.Balasubramanian bbalu at sify.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAveryaShTottarashatanAmAni
+Transliterated by: N.Balasubramanian bbalu at sify.com
+engtitle: kAveryaShTottarashatanAmAni
+itxtitle: kAveryaShTottarashatanAmAni
+title: कावेर्यष्टोत्तरशतनामानि
 
-+++
+---
   
  कावेर्यष्टोत्तरशतनामानि   
   
@@ -89,10 +89,10 @@ title = "कावेर्यष्टोत्तरशतनामानि"
 ॐ पापिष्ठजन-पावनायै नमः ।  
 ॐ फणीन्द्र-कीर्तित-कलायै नमः ।  
 ॐ फलदान-परायणायै नमः ।  
-ॐ बहुजन्म-तपो-योग-फलसंप्राप्त-दर्शनायै नमः । ७०।  
+ॐ बहुजन्म-तपो-योग-फलसम्प्राप्त-दर्शनायै नमः । ७०।  
 ॐ बाहुरूप-द्विपार्श्वस्थ-स्वमातृक-जलार्थिनां\  
        कलमक्षेत्र-शाल्यन्न-दान-निर्जित-वित्तपायै नमः ।  
-ॐ भगवत्कृत-संतोषायै नमः ।  
+ॐ भगवत्कृत-सन्तोषायै नमः ।  
 ॐ भास्करक्षेत्र-गामिन्यै नमः ।  
 ॐ भागीरती-समाक्रन्त-तुलामास-जलाश्रयायै नमः ।  
 ॐ मज्जद्दुर्जन-प्राग्जन्म-दुर्जयांहः प्रमार्जन्यै नमः । ७५।  

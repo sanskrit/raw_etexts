@@ -1,22 +1,22 @@
-+++
-"Text title" = "jambunaathaaShTakaM"
-"File name" = "jambunAtha8.itx"
-itxtitle = "jambunAthAShTakam"
-engtitle = "jambunAthAShTakam"
-Category = "aShTaka, shiva, shrIdhara-venkaTesha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Shridhara VenkaTesha, lived in Tamilnadu about 300 years ago"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-"Latest update" = "June 23, 2003, April 27, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जम्बुनाथाष्टकम्"
+---
+Author: Shridhara VenkaTesha, lived in Tamilnadu about 300 years ago
+Category: aShTaka, shiva, shrIdhara-venkaTesha
+File name: jambunAtha8.itx
+Language: Sanskrit
+Latest update: June 23, 2003, April 27, 2019
+Location: doc_shiva
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: jambunaathaaShTakaM
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+engtitle: jambunAthAShTakam
+itxtitle: jambunAthAShTakam
+title: जम्बुनाथाष्टकम्
 
-+++
+---
   
  जम्बुनाथाष्टकं   
 By Shri Sridharavenkatesa  
@@ -32,7 +32,7 @@ once a forest of jambu trees and there was a Shiva linga under
 one of the trees. So Shiva came to be known as Jambunatha or  
 Jambukeshwara. This is a Shiva temple associated with one of  
 the five great elements (viz.)  water and so called pancha  
-bhoota sthalam (पंच भूत स्थलम्). The Shiva lingam  
+bhoota sthalam (पञ्च भूत स्थलम्). The Shiva lingam  
 in the sanctum is always surrounded by water and so is known  
 as appu lingam (ap for water). The other places where Shiva is  
 worshipped in the form of the great elements are Chidambaram  
@@ -63,30 +63,30 @@ is called AnaikkA.
            । जम्बुनाताष्टकम् ।  
     । श्री श्रीधरवेङ्कटेशार्येण विरचितम् ।  
 कश्चन जगतां हेतुः कपर्दकन्दलितकुमुदजीवातुः ।  
-जयति ज्ञानमहीन्दुर्जन्ममृतिक्लांतिहरदयाबिन्दुः ॥ १॥  
+जयति ज्ञानमहीन्दुर्जन्ममृतिक्लान्तिहरदयाबिन्दुः ॥ १॥  
   
 श्रितभृतिभद्धपताकः कलितोत्पलवननवमदोद्रेकः ।  
 अखिलाण्डमातुरेकः सुखयत्वस्मांस्तपःपरीपाकः ॥ २॥  
   
 कश्चन कारुण्यझरः कमलाकुचकलशकषणनिशितशरः ।  
-श्रीमान् दमितत्रिपुरः श्रितजंभूपरिसरश्चकास्तु पुरः ॥ ३॥  
+श्रीमान् दमितत्रिपुरः श्रितजम्भूपरिसरश्चकास्तु पुरः ॥ ३॥  
   
 शमितस्मरदवविसरश्शक्राद्याशास्यसेवनावसरः ।  
 करिवनघनभाग्यभरो गिरतु मलं मम मनस्सरश्शफरः ॥ ४॥  
   
-गृहिणीकृतवैकुण्ठं गेहितजंभूमहीरुडुपकण्ठम् ।  
+गृहिणीकृतवैकुण्ठं गेहितजम्भूमहीरुडुपकण्ठम् ।  
 दिव्यं किमप्यकुण्ठं तेजः स्तादस्मदवनसोत्कण्ठम् ॥ ५॥  
   
 कृतशमनदर्पहरणं कृतकेतरफणितिचारिरथचरणम् ।  
-शक्रादिश्रितचरणं शरणं जंभूद्रुमांतिकाभरणम् ॥ ६॥  
+शक्रादिश्रितचरणं शरणं जम्भूद्रुमान्तिकाभरणम् ॥ ६॥  
   
 करुणारसवारिधये करवाणि नमः प्रणम्रसुरविधये ।  
-जगदानन्दधुनिधये जंभूतरुमूलनिलयसन्निधये ॥ ७॥  
+जगदानन्दधुनिधये जम्भूतरुमूलनिलयसन्निधये ॥ ७॥  
   
 कश्चन शशिचूडालं कण्ठेकालं दयौघमुत्कूलम् ।  
-श्रितजंभूतरुमूलं शिक्षितकालं भजे जगन्मूलम् ॥ ८॥  
+श्रितजम्भूतरुमूलं शिक्षितकालं भजे जगन्मूलम् ॥ ८॥  
   
-       ॥ जम्बुनाथाष्टकं संपूर्णम् ॥  
+       ॥ जम्बुनाथाष्टकं सम्पूर्णम् ॥  
   
   
   

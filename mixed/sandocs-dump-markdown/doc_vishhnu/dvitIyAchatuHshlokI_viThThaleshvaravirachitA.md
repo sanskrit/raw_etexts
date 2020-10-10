@@ -1,24 +1,24 @@
-+++
-"Text title" = "dvitIyAchatuHshlokI"
-"File name" = "dvitIyAchatuHshlokI.itx"
-itxtitle = "dvitIyAchatuHshlokI (viThThaleshvaravirachitA)"
-engtitle = "dvitIyAchatuHshlokI"
-Category = "vishhnu, krishna, puShTimArgIya, viThThaleshvara, advice, chatuHshlokI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "viThThaleshvara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "द्वितीयाचतुःश्लोकी (विठ्ठलेश्वरविरचिता)"
+---
+Author: viThThaleshvara
+Category: vishhnu, krishna, puShTimArgIya, viThThaleshvara, advice, chatuHshlokI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: dvitIyAchatuHshlokI.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dvitIyAchatuHshlokI
+engtitle: dvitIyAchatuHshlokI
+itxtitle: dvitIyAchatuHshlokI (viThThaleshvaravirachitA)
+title: द्वितीयाचतुःश्लोकी (विठ्ठलेश्वरविरचिता)
 
-+++
+---
   
  द्वितीया चतुःश्लोकी   
   

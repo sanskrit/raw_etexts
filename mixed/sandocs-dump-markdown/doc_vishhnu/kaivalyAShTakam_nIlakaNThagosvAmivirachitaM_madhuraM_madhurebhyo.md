@@ -1,24 +1,24 @@
-+++
-"Text title" = "kaivalyAShTakam"
-"File name" = "kaivalyAShTakam.itx"
-itxtitle = "kaivalyAShTakam (nIlakaNThagosvAmivirachitaM madhuraM madhurebhyo)"
-engtitle = "kaivalyAShTakam"
-Category = "vishhnu, aShTaka, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Nilakantha Goswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Translated by" = "Swami Shivananda"
-"Description/comments" = "from Pancharatnam 5 shatakam by Nilakantha Goswami"
-Indexextra = "(Translation 1, 2, Reference)"
-"Latest update" = "February 7, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कैवल्याष्टकम् (नीलकण्ठगोस्वामिविरचितं मधुरं मधुरेभ्यो)"
+---
+Author: Nilakantha Goswami
+Category: vishhnu, aShTaka, krishna
+Description/comments: from Pancharatnam 5 shatakam by Nilakantha Goswami
+File name: kaivalyAShTakam.itx
+Indexextra: (Translation 1, 2, Reference)
+Language: Sanskrit
+Latest update: February 7, 2019
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kaivalyAShTakam
+Translated by: Swami Shivananda
+engtitle: kaivalyAShTakam
+itxtitle: kaivalyAShTakam (nIlakaNThagosvAmivirachitaM madhuraM madhurebhyo)
+title: कैवल्याष्टकम् (नीलकण्ठगोस्वामिविरचितं मधुरं मधुरेभ्यो)
 
-+++
+---
   
  कैवल्याष्टकम् अथवा केवलाष्टकम्   
 मधुरं मधुरेभ्योऽपि मङ्गलेभ्योपि मङ्गलम् ।  

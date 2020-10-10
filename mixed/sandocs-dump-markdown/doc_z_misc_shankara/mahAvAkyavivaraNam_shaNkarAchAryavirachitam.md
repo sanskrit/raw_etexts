@@ -1,22 +1,22 @@
-+++
-"Text title" = "mahAvAkyavivaraNa by shankarAchArya"
-"File name" = "mahAvAkyavivaraNashankarAchArya.itx"
-itxtitle = "mahAvAkyavivaraNam (shaNkarAchAryavirachitam)"
-engtitle = "mahAvAkyavivaraNa by shankarAchArya"
-Category = "vedanta, shankarAchArya, major"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Dvadasha Mahavakya Vivarana of Sankaracharya"
-Indexextra = "(Scan)"
-"Latest update" = "May 29, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महावाक्यविवरणम् (शण्कराचार्यविरचितम्)"
+---
+Category: vedanta, shankarAchArya, major
+Description/comments: Dvadasha Mahavakya Vivarana of Sankaracharya
+File name: mahAvAkyavivaraNashankarAchArya.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 29, 2018
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: mahAvAkyavivaraNa by shankarAchArya
+engtitle: mahAvAkyavivaraNa by shankarAchArya
+itxtitle: mahAvAkyavivaraNam (shaNkarAchAryavirachitam)
+title: महावाक्यविवरणम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  महावाक्यविवरणम्   
 ऋग्वेदे प्रज्ञानशब्दनिर्णयः प्रथमसिद्धान्तः ॥ १॥  
@@ -285,7 +285,7 @@ title = "महावाक्यविवरणम् (शण्कराचा
 ब्रह्मचैतन्याभिमानीत्यभिमानी प्रकाशाभिमानी  
 षड्विंशको महाविष्णुर्महागुह्यो महाहविरितिश्रुतेः  
 षड्विंशकोऽयं कथं पञ्चकर्मेन्द्रियाणि पञ्चमहाभूतानि  
-पञ्चतन्मात्राणि विषयाश्च अन्तःकरणचतुष्टयं अभिमानसंज्ञकम्  
+पञ्चतन्मात्राणि विषयाश्च अन्तःकरणचतुष्टयं अभिमानसञ्ज्ञकम्  
 सत्वरजस्तम इति गुणत्रयरूपं तत्र मूलप्रकृतिः  
 समस्तस्वरूपं इति सर्वेषां भवति  
 तत्र मूलप्रकृतिः ब्रह्म ब्रह्मविषया  
@@ -636,12 +636,12 @@ title = "महावाक्यविवरणम् (शण्कराचा
 सा प्रकृतिस्त्रिधा भवति सात्विकी राजसी तामसी चेति सा प्रकृतिर्ब्रह्माश्रिता  
 भवति परमात्माश्रिता माया स्थितिकारणं इति श्रुतेः  
 सा माया जगत्कारणहेतुर्भवति प्रकृति कार्यं  
-महत्तत्त्वं महत्तत्त्वकार्यमहङ्कारोऽहंङ्कारकार्यं मनो मनःकार्यं  
+महत्तत्त्वं महत्तत्त्वकार्यमहङ्कारोऽहङ्ङ्कारकार्यं मनो मनःकार्यं  
 बुद्धिर्बुद्धिकार्यं शब्दादयो विषयाः  
 शब्दकार्यमाकाश आकाशकार्यं वायुर्वायुकार्यं  
 चाग्निरग्निकार्यमापोऽप् कार्यं पृथ्वी पृथिव्या  
 ओषधिवनस्पतयः ओषधिवनस्पतिभ्यः फलान्यन्नं चान्नकार्यं रसः  
-रसकार्यं रेतो रेतःकार्यं सप्तधातवस्तेषां संज्ञा रुधिरमांसादयो  
+रसकार्यं रेतो रेतःकार्यं सप्तधातवस्तेषां सञ्ज्ञा रुधिरमांसादयो  
 वसात्वङ्मांसमेदोऽस्थिमज्जाशुक्राण्येते सप्तधातव एतद्धातुकार्यं  
 शरीरं एतद्धातुभिः समस्तजीवशरीरमारभ्यतेऽमुनाप्रकारेण  
 कार्यकारणात्मकं विश्वं संसारप्रपञ्चादि  

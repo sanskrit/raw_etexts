@@ -1,31 +1,31 @@
-+++
-"Text title" = "Mahishasuramardinistotram with meaning"
-"File name" = "mahisha_mean.itx"
-itxtitle = "mahiShAsuramardinistotram (sArtham)"
-engtitle = "Part of bhagavatIpadyapuShpA.njalIstotra as Mahishasuramardini Stotra"
-Category = "devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "raamakRiShNa kavI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "A.Hudli and by G. Ramkumar"
-"Proofread by" = "A.Hudli and by G. Ramkumar, Sunder Hattangadi"
-"Translated by" = "Madhav Deshpande, Unkown (12), Ashok Aklujkar (9), greenmsg (11)"
-Indexextra = "(meaning, Marathi, Hindi, text, Italian, Videos 1, 2, 3, 4)"
-"Latest update" = "October 29, 2002, April 13, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महिषासुरमर्दिनिस्तोत्रम् (सार्थम्)"
+---
+Author: raamakRiShNa kavI
+Category: devii, durgA, devI
+File name: mahisha_mean.itx
+Indexextra: (meaning, Marathi, Hindi, text, Italian, Videos 1, 2, 3, 4)
+Language: Sanskrit
+Latest update: October 29, 2002, April 13, 2020
+Location: doc_devii
+Proofread by: A.Hudli and by G. Ramkumar, Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Mahishasuramardinistotram with meaning
+Translated by: Madhav Deshpande, Unkown (12), Ashok Aklujkar (9), greenmsg (11)
+Transliterated by: A.Hudli and by G. Ramkumar
+engtitle: Part of bhagavatIpadyapuShpA.njalIstotra as Mahishasuramardini Stotra
+itxtitle: mahiShAsuramardinistotram (sArtham)
+title: महिषासुरमर्दिनिस्तोत्रम् (सार्थम्)
 
-+++
+---
   
- भगवतीपद्यपुष्पांजलीस्तोत्रान्तर्गतं महिषासुरमर्दिनिस्तोत्रम्   
+ भगवतीपद्यपुष्पाञ्जलीस्तोत्रान्तर्गतं महिषासुरमर्दिनिस्तोत्रम्   
   
-अयि गिरिनंदिनि नंदितमेदिनि विश्वविनोदिनि नंदनुते  
-गिरिवरविंध्यशिरोधिनिवासिनि विष्णुविलासिनि जिष्णुनुते ।  
-भगवति हे शितिकण्ठकुटुंबिनि भूरिकुटुंबिनि भूरिकृते  
+अयि गिरिनन्दिनि नन्दितमेदिनि विश्वविनोदिनि नन्दनुते  
+गिरिवरविन्ध्यशिरोधिनिवासिनि विष्णुविलासिनि जिष्णुनुते ।  
+भगवति हे शितिकण्ठकुटुम्बिनि भूरिकुटुम्बिनि भूरिकृते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १॥  
   
  O daughter of the mountain, who makes the whole earth happy,  
@@ -39,7 +39,7 @@ be victorious, be victorious, O destroyer of the demon mahisa, with
 beautiful braids of hair, daughter of the mountain Himalaya ..   
   
 सुरवरवर्षिणि दुर्धरधर्षिणि दुर्मुखमर्षिणि हर्षरते  
-त्रिभुवनपोषिणि शंकरतोषिणि किल्बिषमोषिणि घोषरते ।  
+त्रिभुवनपोषिणि शङ्करतोषिणि किल्बिषमोषिणि घोषरते ।  
 दनुजनिरोषिणि दितिसुतरोषिणि दुर्मदशोषिणि सिन्धुसुते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ २॥  
   
@@ -52,9 +52,9 @@ One who is angry with the progeny of Danu (demon), One who is angry
 with the sons of Diti (also demon), One who destroys those with evil  
 intoxication of pride, daughter of the ocean ..   
   
-अयि जगदंब मदंब कदंबवनप्रियवासिनि हासरते  
-शिखरिशिरोमणितुङ्गहिमालयशृंगनिजालयमध्यगते ।  
-मधुमधुरे मधुकैटभगंजिनि कैटभभंजिनि रासरते  
+अयि जगदम्ब मदम्ब कदम्बवनप्रियवासिनि हासरते  
+शिखरिशिरोमणितुङ्गहिमालयशृङ्गनिजालयमध्यगते ।  
+मधुमधुरे मधुकैटभगञ्जिनि कैटभभञ्जिनि रासरते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ३॥  
   
  O mother of the world, my mother, One who loves to dwell  
@@ -79,7 +79,7 @@ chieftains with the strength of her own arms ..
   
 अयि रणदुर्मदशत्रुवधोदितदुर्धरनिर्जरशक्तिभृते  
 चतुरविचारधुरीणमहाशिवदूतकृतप्रमथाधिपते ।  
-दुरितदुरीहदुराशयदुर्मतिदानवदूतकृतांतमते  
+दुरितदुरीहदुराशयदुर्मतिदानवदूतकृतान्तमते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ५॥  
   
  O One who holds the invincible and undiminishing striking  
@@ -92,7 +92,7 @@ sinful, with evil intentions, thoughts and mind ..
   
 अयि शरणागतवैरिवधूवरवीरवराभयदायकरे  
 त्रिभुवनमस्तकशूलविरोधिशिरोधिकृतामलशूलकरे ।  
-दुमिदुमितामरदुंदुभिनादमहोमुखरीकृततिग्मकरे  
+दुमिदुमितामरदुन्दुभिनादमहोमुखरीकृततिग्मकरे  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ६॥  
   
  O One who gives protection to the great heroic husbands of  
@@ -104,7 +104,7 @@ resounding noise of the drums of Gods ..
   
 अयि निजहुँकृतिमात्रनिराकृतधूम्रविलोचनधूम्रशते  
 समरविशोषितशोणितबीजसमुद्भवशोणितबीजलते ।  
-शिवशिव शुंभनिशुंभमहाहवतर्पितभूतपिशाचरते  
+शिवशिव शुम्भनिशुम्भमहाहवतर्पितभूतपिशाचरते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ७॥  
   
  O One who has blown aside hundreds of streams of smoke  
@@ -115,8 +115,8 @@ battle .
 One who delights in the company of auspicious Shiva, Shumbha,  
 Nishumbha, and the spirits who were fed during the great battle..   
   
-धनुरनुसंगरणक्षणसंगपरिस्फुरदंगनटत्कटके  
-कनकपिशंगपृषत्कनिषंगरसद्भटशृंगहतावटुके ।  
+धनुरनुसङ्गरणक्षणसङ्गपरिस्फुरदङ्गनटत्कटके  
+कनकपिशङ्गपृषत्कनिषङ्गरसद्भटशृङ्गहतावटुके ।  
 कृतचतुरङ्गबलक्षितिरङ्गघटद्बहुरङ्गरटद्बटुके  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ८॥  
   
@@ -129,7 +129,7 @@ colorful drama with screaming little soldiers ..
   
 सुरललनाततथेयितथेयितथाभिनयोत्तरनृत्यरते  
 हासविलासहुलासमयि प्रणतार्तजनेऽमितप्रेमभरे ।  
-धिमिकिटधिक्कटधिकटधिमिध्वनिघोरमृदंगनिनादरते  
+धिमिकिटधिक्कटधिकटधिमिध्वनिघोरमृदङ्गनिनादरते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ९॥  
   
   
@@ -144,7 +144,7 @@ vanquisher of the demon MahiSa! O one bearing attractive knotted hair! O
 daughter of the mountain! Victory to you! (translation by Prof. Aklujkar)   
   
 जय जय जप्यजये जयशब्दपरस्तुतितत्परविश्वनुते  
-झणझणझिञ्झिमिझिंकृतनूपुरसिंजितमोहितभूतपते ।  
+झणझणझिञ्झिमिझिङ्कृतनूपुरसिञ्जितमोहितभूतपते ।  
 नटितनटार्धनटीनटनायकनाटितनाट्यसुगानरते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १०॥  
   
@@ -156,7 +156,7 @@ various sounds of dancing .
 who delights in beautiful singing and in dance-drama presented by a  
 leading dancer acting out the role of an actress with half of his body ..   
   
-अयि सुमनःसुमनः सुमनः सुमनः सुमनोहरकांतियुते  
+अयि सुमनःसुमनः सुमनः सुमनः सुमनोहरकान्तियुते  
 श्रितरजनीरजनीरजनीरजनीरजनीकरवक्त्रवृते ।  
 सुनयनविभ्रमरभ्रमरभ्रमरभ्रमरभ्रमराधिपते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ११॥  
@@ -201,7 +201,7 @@ the ornament of all the three worlds .
 princess of cupid who enchants the minds desirous of ladies with  
 beautiful teeth ..   
   
-कमलदलामलकोमलकांतिकलाकलितामलभाललते  
+कमलदलामलकोमलकान्तिकलाकलितामलभाललते  
 सकलविलासकलानिलयक्रमकेलिचलत्कलहंसकुले ।  
 अलिकुलसङ्कुलकुवलयमण्डलमौलिमिलद्भकुलालिकुले  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १४॥  
@@ -215,7 +215,7 @@ which are crowded with (their own) bees ..
   
 करमुरलीरववीजितकूजितलज्जितकोकिलमञ्जुमते  
 मिलितपुलिन्दमनोहरगुञ्जितरञ्जितशैलनिकुञ्जगते ।  
-निजगुणभूतमहाशबरीगणसद्गुणसंभृतकेलितले  
+निजगुणभूतमहाशबरीगणसद्गुणसम्भृतकेलितले  
 variation  निजगणभूतमहाशबरीगणरङ्गणसम्भृतकेलिरते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १५॥  
   
@@ -228,9 +228,9 @@ whose playbround is filled with good qualities of the flocks of the
 great tribal women who are manifestations of her own  
 qualities ..   
   
-कटितटपीतदुकूलविचित्रमयूखतिरस्कृतचंद्ररुचे  
-प्रणतसुरासुरमौलिमणिस्फुरदंशुलसन्नखचंद्ररुचे ।  
-जितकनकाचलमौलिपदोर्जितनिर्झरकुंजरकुंभकुचे  
+कटितटपीतदुकूलविचित्रमयूखतिरस्कृतचन्द्ररुचे  
+प्रणतसुरासुरमौलिमणिस्फुरदंशुलसन्नखचन्द्ररुचे ।  
+जितकनकाचलमौलिपदोर्जितनिर्झरकुञ्जरकुम्भकुचे  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १६॥  
   
  Who has set aside the brilliance of the moon with the colorful  
@@ -254,7 +254,7 @@ peaks of the golden mountains ..
   
 पदकमलं करुणानिलये वरिवस्यति योऽनुदिनं स शिवे  
 अयि कमले कमलानिलये कमलानिलयः स कथं न भवेत् ।  
-तव पदमेव परंपदमेवमनुशीलयतो मम किं न शिवे  
+तव पदमेव परम्पदमेवमनुशीलयतो मम किं न शिवे  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १८॥  
   
  O benevolent goddess accompanied by Shiva, if someone daily  
@@ -265,7 +265,7 @@ O auspicious Goddess, is there anything that I would not have, if I
 earnestly believe that your feet are the highest goal to be achieved? ..   
   
 कनकलसत्कलसिन्धुजलैरनुसिञ्चिनुते गुण रङ्गभुवं  
-भजति स किं न शचीकुचकुंभतटीपरिरंभसुखानुभवम् ।  
+भजति स किं न शचीकुचकुम्भतटीपरिरम्भसुखानुभवम् ।  
 तव चरणं शरणं करवाणि नतामरवाणिनिवासि शिवं  
                variation  मृडानि सदा मयि देहि शिवं  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ १९॥  

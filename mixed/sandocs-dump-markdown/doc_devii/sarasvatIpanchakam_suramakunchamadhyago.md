@@ -1,22 +1,22 @@
-+++
-"Text title" = "sarasvatIpanchakam"
-"File name" = "sarasvatIpanchakam.itx"
-itxtitle = "sarasvatIpanchakam (suramakunchamadhyago)"
-engtitle = "sarasvatIpanchakam"
-Category = "devii, panchaka, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Indexextra = "(Translation)"
-"Latest update" = "August 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीपञ्चकम् (सुरमकुञ्चमध्यगो)"
+---
+Category: devii, panchaka, sarasvatI, devI
+File name: sarasvatIpanchakam.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: August 2, 2017
+Location: doc_devii
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIpanchakam
+engtitle: sarasvatIpanchakam
+itxtitle: sarasvatIpanchakam (suramakunchamadhyago)
+title: सरस्वतीपञ्चकम् (सुरमकुञ्चमध्यगो)
 
-+++
+---
   
  सरस्वतीपञ्चकम्   
   

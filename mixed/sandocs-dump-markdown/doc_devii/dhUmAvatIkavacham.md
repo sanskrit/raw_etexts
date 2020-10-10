@@ -1,23 +1,23 @@
-+++
-"Text title" = "dhUmAvatI kavacham"
-"File name" = "dhUmAvatIkavacham.itx"
-itxtitle = "dhUmAvatIkavacham"
-engtitle = "dhUmAvatIkavacham"
-Category = "devii, dashamahAvidyA, devI, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravi S. Ramphal rramphal at gmail.com, NA"
-Description-comments = "In shAktapramoda and mantramahArNava"
-Indexextra = "(Mahavidya Chatushtayam)"
-"Latest update" = "June 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धूमावतीकवचम्"
+---
+Category: devii, dashamahAvidyA, devI, kavacha
+Description-comments: In shAktapramoda and mantramahArNava
+File name: dhUmAvatIkavacham.itx
+Indexextra: (Mahavidya Chatushtayam)
+Language: Sanskrit
+Latest update: June 10, 2018
+Location: doc_devii
+Proofread by: Ravi S. Ramphal rramphal at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dhUmAvatI kavacham
+engtitle: dhUmAvatIkavacham
+itxtitle: dhUmAvatIkavacham
+title: धूमावतीकवचम्
 
-+++
+---
   
  श्रीधूमावतीकवचम्   
 श्रीगणेशाय नमः ।  

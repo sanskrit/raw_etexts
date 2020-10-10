@@ -1,24 +1,24 @@
-+++
-"Text title" = "maNgalAcharaNam"
-"File name" = "mangalAcharaNam.itx"
-itxtitle = "maNgalAcharaNam"
-engtitle = "maNgalAcharaNam"
-Category = "ganesha, stotra, mangala"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)"
-"Proofread by" = "Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)"
-Description-comments = "mudgalapurANa"
-"Latest update" = "January 2, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मण्गलाचरणम्"
+---
+Author: Traditional
+Category: ganesha, stotra, mangala
+Description-comments: mudgalapurANa
+File name: mangalAcharaNam.itx
+Language: Sanskrit
+Latest update: January 2, 2004
+Location: doc_ganesha
+Proofread by: Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: maNgalAcharaNam
+Texttype: stotra
+Transliterated by: Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)
+engtitle: maNgalAcharaNam
+itxtitle: maNgalAcharaNam
+title: मण्गलाचरणम्
 
-+++
+---
   
  मङ्गलाचरणम्   
   
@@ -30,15 +30,15 @@ title = "मण्गलाचरणम्"
 वासरमणिरिव तमसां राशिं नाशयति विऽघ्नानाम् ॥ १॥  
   
 सुमुखश्चैकदन्तश्च कपिलो गजकर्णकः ।  
-लंबोदरश्च विकटो  विघ्ननाशो गणाधिपः ॥ २॥  
+लम्बोदरश्च विकटो  विघ्ननाशो गणाधिपः ॥ २॥  
   
 धूम्रकेतुर्गणाध्यक्षो भालचन्द्रो गजानानः ।  
 द्वादशैतानि नामानि यः पठेच्छृणुयादपि ॥ ३॥  
   
-विद्यारंभे विवाहे च प्रवेशे निर्गमे तथा ।  
+विद्यारम्भे विवाहे च प्रवेशे निर्गमे तथा ।  
 सङ्ग्रामे सङ्कटे चैव विघ्नस्तस्य न जायते ॥ ४॥  
   
-शुक्लांबरधरं देवं शशिवर्णं चतुर्भुजम् ।  
+शुक्लाम्बरधरं देवं शशिवर्णं चतुर्भुजम् ।  
 प्रसन्नवदनं ध्यायेत् सर्वाविघ्नोपशान्तये ॥ ५॥  
   
 व्यासं वसिष्ठनप्तारं शक्तेः पौत्रमकल्मषम् ।  
@@ -48,7 +48,7 @@ title = "मण्गलाचरणम्"
 नमो वै ब्रह्मनिधये वासिष्ठाय नमो नमः ॥ ७॥  
   
 अचतुर्वदनो ब्रह्मा द्विबाहुरपरो हरिः ।  
-अभाललोचनः शंभुर्भगवान् बादरायणः ॥ ८॥  
+अभाललोचनः शम्भुर्भगवान् बादरायणः ॥ ८॥  
   
 इति मङ्गलाचरणं सम्पूर्णम् ॥  
   

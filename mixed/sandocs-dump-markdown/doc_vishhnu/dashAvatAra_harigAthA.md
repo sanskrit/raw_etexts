@@ -1,24 +1,24 @@
-+++
-"Text title" = "dashAvatAra harigAthA"
-"File name" = "dashAvatAraharigAthA.itx"
-itxtitle = "dashAvatAra harigAthA"
-engtitle = "dashAvatAra harigAthA"
-Category = "vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Author = "vijayadhvajatIrtha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "June 5, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतार हरिगाथा"
+---
+Author: vijayadhvajatIrtha
+Category: vishhnu, dashAvatAra, stotra, vishnu
+File name: dashAvatAraharigAthA.itx
+Language: Sanskrit
+Latest update: June 5, 2006
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dashAvatAra harigAthA
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: dashAvatAra harigAthA
+itxtitle: dashAvatAra harigAthA
+title: दशावतार हरिगाथा
 
-+++
+---
   
  दशावतार हरिगाथा   
   
@@ -46,7 +46,7 @@ title = "दशावतार हरिगाथा"
 मुरली-निस्वन-मोहितवनितं यादवकृष्णम् ।  
 कमलाकान्त-मण्डित-विभवाब्धिं हरिमीडे ॥ ८॥  
   
-पटुचाटिकृत-निस्फुट-जननं श्रीघनसंज्ञम् ।  
+पटुचाटिकृत-निस्फुट-जननं श्रीघनसञ्ज्ञम् ।  
 कमलाकान्त-मण्डित-विभवाब्धिं हरिमीडे ॥ ९॥  
   
 परिनिर्मूलित-दुष्टजन-कुलं विष्णुयशोजम् ।  

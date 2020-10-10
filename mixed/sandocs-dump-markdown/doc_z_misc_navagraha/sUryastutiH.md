@@ -1,22 +1,22 @@
-+++
-"Text title" = "sUryastutiH"
-"File name" = "sUryastutiH.itx"
-itxtitle = "sUryastutiH"
-engtitle = "sUryastutiH"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "BhaktivivekasAra"
-Indexextra = "(Scanned)"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यस्तुतिः"
+---
+Category: navagraha
+Description/comments: BhaktivivekasAra
+File name: sUryastutiH.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryastutiH
+engtitle: sUryastutiH
+itxtitle: sUryastutiH
+title: सूर्यस्तुतिः
 
-+++
+---
   
  सूर्यस्तुतिः   
 ॐ नम आदित्याय ॥  

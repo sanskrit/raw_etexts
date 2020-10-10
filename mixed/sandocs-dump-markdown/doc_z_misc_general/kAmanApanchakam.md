@@ -1,21 +1,21 @@
-+++
-"Text title" = "kAmanApanchakam"
-"File name" = "kAmanApanchakam.itx"
-itxtitle = "kAmanApanchakam"
-engtitle = "kAmanApanchakam"
-Category = "misc, panchaka, vedanta"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामनापञ्चकम्"
+---
+Category: misc, panchaka, vedanta
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: kAmanApanchakam.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: kAmanApanchakam
+engtitle: kAmanApanchakam
+itxtitle: kAmanApanchakam
+title: कामनापञ्चकम्
 
-+++
+---
   
  कामनापञ्चकम्   
 योऽत्रावतीर्य शकलीकृतदैत्यकीर्त-  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Nrisimha Ashtakam 3"
-"File name" = "nRRisiMhAShTakam3.itx"
-itxtitle = "nRRisiMhAShTakam 3 (nIlAM ramAM)"
-engtitle = "nRRisiMhAShTakam 3"
-Category = "vishhnu, dashAvatAra, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu, NA, PSA Easwaran"
-"Description/comments" = "shodhagangA thesis about Nrisimha cult Appendix 1"
-Indexextra = "(thesis)"
-"Latest update" = "July 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृसिंहाष्टकम् ३ (नीलां रमां)"
+---
+Category: vishhnu, dashAvatAra, aShTaka
+Description/comments: shodhagangA thesis about Nrisimha cult Appendix 1
+File name: nRRisiMhAShTakam3.itx
+Indexextra: (thesis)
+Language: Sanskrit
+Latest update: July 13, 2018
+Location: doc_vishhnu
+Proofread by: Ganesh Kandu, NA, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Nrisimha Ashtakam 3
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: nRRisiMhAShTakam 3
+itxtitle: nRRisiMhAShTakam 3 (nIlAM ramAM)
+title: नृसिंहाष्टकम् ३ (नीलां रमां)
 
-+++
+---
   
  श्रीनृसिंहाष्टकम् ३   
 ध्यायामि नारसिंहाख्यं ब्रह्मवेदान्तगोचरम् ।  
@@ -59,7 +59,7 @@ title = "नृसिंहाष्टकम् ३ (नीलां रमा�
 श्रीराजराजवरदाखिललोकनाथ  
 श्रीनारसिंह परिपालय मां च भक्तम् ॥ ७॥  
   
-ज्ञानेन केचिदवलम्ब्य पदांबुजं ते  
+ज्ञानेन केचिदवलम्ब्य पदाम्बुजं ते  
 केचित्सुकर्मनिकरेण परे च भक्त्या ।  
 मुक्तिं गताः खलु जना कृपया मुरारे  
 श्रीनारसिंह परिपालय मां च भक्तम् ॥ ८॥  

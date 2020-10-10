@@ -1,29 +1,29 @@
-+++
-"Text title" = "Surya Sahasranama Stotram"
-"File name" = "sUryasahasranAmastotram3.itx"
-itxtitle = "sUryasahasranAmastotram 3 (skandapurANAntargatam AdityashchAdidevo.ayam)"
-engtitle = "sUryasahasranAmastotram 3"
-Category = "sahasranAma, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "Skanda Purana"
-Indexextra = "(Scan)"
-"Latest update" = "June 13, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यसहस्रनामस्तोत्रम् ३ (स्कन्दपुराणान्तर्गतम् आदित्यश्चादिदेवोऽयम्)"
+---
+Category: sahasranAma, navagraha, stotra
+Description/comments: Skanda Purana
+File name: sUryasahasranAmastotram3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 13, 2020
+Location: doc_z_misc_navagraha
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Surya Sahasranama Stotram
+Transliterated by: DPD
+engtitle: sUryasahasranAmastotram 3
+itxtitle: sUryasahasranAmastotram 3 (skandapurANAntargatam AdityashchAdidevo.ayam)
+title: सूर्यसहस्रनामस्तोत्रम् ३ (स्कन्दपुराणान्तर्गतम् आदित्यश्चादिदेवोऽयम्)
 
-+++
+---
   
  श्रीसूर्यसहस्रनामस्तोत्रम् स्कन्दपुराणान्तर्गतम्   
 शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।  
 प्रसन्नवदनं ध्यायेत् सर्वविघ्रोपशान्तये ॥  
   
-विनियोगः एवं संकल्प वाक्य -  
+विनियोगः एवं सङ्कल्प वाक्य -  
 अस्य श्रीसूर्यसहस्रनामस्तोत्रमहामन्त्रस्य आदित्योपासकः  
 श्रीसूर्यवर्चा ऋषिः । श्रीमदादित्यनारायणो देवता ब्रह्मवर्चस्विता  
 मूलमिति बीजम् । सर्वपापविनाशक इति शक्तिः । अग्निश्च जातवेदाश्चेति  
@@ -124,13 +124,13 @@ title = "सूर्यसहस्रनामस्तोत्रम् ३ 
 अह्नाम्प्रभुर्दिनमणिदैतेयकुलमृत्युकृत् ॥ २०॥  
   
 कला काष्ठा मुहूर्तात्मा दिनरात्रिशरीरवान् ।  
-पद्मापतिः परंधाम परमात्मा परायणम् ॥ २१॥  
+पद्मापतिः परन्धाम परमात्मा परायणम् ॥ २१॥  
   
 निदानं नित्यमद्वैतं केवलं मुक्तिकारणम् ।  
 सर्वभूतशरीरस्थं चैतन्यं ब्रह्मनिर्गुणम् ॥ २२॥  
   
 एको नैकः कृतिश्शान्तिर्मतिर्बुद्धिधृतिस्स्मृतिः ।  
-मन्त्रो यन्त्रं तथाक्षेत्रं क्षेत्रज्ञोऽक्षरसंज्ञिकः ॥ २३॥  
+मन्त्रो यन्त्रं तथाक्षेत्रं क्षेत्रज्ञोऽक्षरसञ्ज्ञिकः ॥ २३॥  
   
 इन्द्रियाणामधिष्ठाता तत्त्वं तत्पुरुषाग्रणीः ।  
 अमायी मायिनामग्र्यो लोकस्वामी स्वराड्गुरुः ॥ २४॥  
@@ -172,7 +172,7 @@ title = "सूर्यसहस्रनामस्तोत्रम् ३ 
 अनिन्द्यो निन्द्यविध्वंसी विश्वामित्रवरप्रदः ॥ ३६॥  
   
 विध्यर्थबोधको भानुर्विन्ध्यवीथी प्लवङ्गमः ।  
-तत्पदार्थोऽहंपदार्थस्तत्त्वमस्यर्थबोधकः ॥ ३७॥  
+तत्पदार्थोऽहम्पदार्थस्तत्त्वमस्यर्थबोधकः ॥ ३७॥  
   
 त एते त्वमहं देवयक्षरक्षोभयङ्करः ।  
 मृत्युञ्जयः पाकभेदी सुषुम्नातालशोभितः ॥ ३८॥  
@@ -310,7 +310,7 @@ title = "सूर्यसहस्रनामस्तोत्रम् ३ 
 कुन्तीप्रसन्नः कौबेरः श्रीवक्षाः श्रीनिकेतनः ॥ ८२॥  
   
 अरुणोऽरुणकेतुश्च युद्धप्रेतगतिप्रदः ।  
-संज्ञामनोनुकूलश्च महेन्द्रकृतपूजनः ॥ ८३॥  
+सञ्ज्ञामनोनुकूलश्च महेन्द्रकृतपूजनः ॥ ८३॥  
   
 गरुडाग्रजसूतश्च सस्यालिसुहृदूर्मिकृत् ।  
 गोधूमधान्यनाथश्च वर्तुलाकारमण्डलः ॥ ८४॥  

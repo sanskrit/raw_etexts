@@ -1,27 +1,28 @@
-+++
-"Text title" = "Lakshmi Stuti 2"
-"File name" = "lakShmIstutiH2.itx"
-itxtitle = "lakShmIstutiH 2 (ApaTIkaravirachitA)"
-engtitle = "lakShmIstutiH 2"
-Category = "devii, lakShmI, ApaTIkara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "ma. sa. ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीस्तुतिः २ (आपटीकरविरचिता)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma. sa. ApaTIkara
+Category: devii, lakShmI, ApaTIkara, devI
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: lakShmIstutiH2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_devii
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Lakshmi Stuti 2
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: lakShmIstutiH 2
+itxtitle: lakShmIstutiH 2 (ApaTIkaravirachitA)
+title: लक्ष्मीस्तुतिः २ (आपटीकरविरचिता)
 
-+++
+---
   
  श्रीलक्ष्मीस्तुतिः २   
      (पृथ्वी)  

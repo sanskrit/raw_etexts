@@ -1,23 +1,23 @@
-+++
-"Text title" = "Sampurna Vishva Ratnam"
-"File name" = "sampUrNavishvaratnam.itx"
-itxtitle = "sampUrNavishvaratnam (1 hindI sAre jahA.N se achChA)"
-engtitle = "Sampurna Vishva Ratnam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jagadananda Jha"
-"Proofread by" = "Jagadananda Jha"
-Indexextra = "(Videos 1, 2,  Audio)"
-Acknowledge-Permission = "https://sanskritbhasi.blogspot.com"
-"Latest update" = "January 26, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सम्पूर्णविश्वरत्नम् (१ हिन्दी सारे जहाँ से अच्छा)"
+---
+Acknowledge-Permission: https://sanskritbhasi.blogspot.com
+Category: misc, sanskritgeet
+File name: sampUrNavishvaratnam.itx
+Indexextra: (Videos 1, 2,  Audio)
+Language: Sanskrit
+Latest update: January 26, 2020
+Location: doc_z_misc_general
+Proofread by: Jagadananda Jha
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Sampurna Vishva Ratnam
+Transliterated by: Jagadananda Jha
+engtitle: Sampurna Vishva Ratnam
+itxtitle: sampUrNavishvaratnam (1 hindI sAre jahA.N se achChA)
+title: सम्पूर्णविश्वरत्नम् (१ हिन्दी सारे जहाँ से अच्छा)
 
-+++
+---
   
  सम्पूर्णविश्वरत्नम्   
 सम्पूर्णविश्वरत्नं खलु भारतं स्वकीयम् ।  

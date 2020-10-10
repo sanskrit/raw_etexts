@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNeshastavarAjaH"
-"File name" = "gaNeshastavarAja.itx"
-itxtitle = "gaNeshastavarAjaH athavA gaNeshAShTakam (rudrayAmalAntargatam)"
-engtitle = "gaNeshastavarAjaH or gaNesha aShTaka"
-Category = "stavarAja, ganesha, aShTaka"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "source rudrayAmala tantra"
-Indexextra = "(varivasyA)"
-"Latest update" = "April 23, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तवराजः अथवा गणेशाष्टकम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: stavarAja, ganesha, aShTaka
+Description-comments: source rudrayAmala tantra
+File name: gaNeshastavarAja.itx
+Indexextra: (varivasyA)
+Language: Sanskrit
+Latest update: April 23, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshastavarAjaH
+engtitle: gaNeshastavarAjaH or gaNesha aShTaka
+itxtitle: gaNeshastavarAjaH athavA gaNeshAShTakam (rudrayAmalAntargatam)
+title: गणेशस्तवराजः अथवा गणेशाष्टकम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीगणेशस्तवराजः   
 गणेशाष्टकम् च ।  
@@ -53,7 +53,7 @@ title = "गणेशस्तवराजः अथवा गणेशाष्
   
 सरत्नहेम-घण्टिका-निनाद-नुपुरस्वनै-  
 मृदङ्ग-तालनाद-भेदसाधनानुरूपतः ।  
-धिमि-द्धिमि-त्तथोंग-थोङ्ग-थैयि-थैयिशब्दतो  
+धिमि-द्धिमि-त्तथोङ्ग-थोङ्ग-थैयि-थैयिशब्दतो  
 विनायकः शशाङ्कशेखरः प्रहृष्य नृत्यति ॥ ५॥  
   
 सदा नमामि नायकैकनायकं विनायकं  

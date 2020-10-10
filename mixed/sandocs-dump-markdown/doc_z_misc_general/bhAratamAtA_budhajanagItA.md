@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhAratamAtA budhajanagItA"
-"File name" = "bhAratamAtAbudhajanagItA.itx"
-itxtitle = "bhAratamAtA budhajanagItA"
-engtitle = "bhAratamAtA budhajanagItA"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, 1, 2, 3, 4, 5, 6)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारतमाता बुधजनगीता"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: bhAratamAtAbudhajanagItA.itx
+Indexextra: (Wiki, 1, 2, 3, 4, 5, 6)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: bhAratamAtA budhajanagItA
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: bhAratamAtA budhajanagItA
+itxtitle: bhAratamAtA budhajanagItA
+title: भारतमाता बुधजनगीता
 
-+++
+---
   
  भाररमाता बुधजनगीता   
 भारतमाता बुधजनगीता  

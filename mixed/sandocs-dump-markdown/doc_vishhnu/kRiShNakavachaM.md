@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shrikrishna Kavacham"
-"File name" = "kRRiShNakavacham.itx"
-itxtitle = "kRiShNakavachaM"
-engtitle = "kRRiShNakavachaM"
-Category = "vishhnu, krishna, kavacha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णकवचं"
+---
+Category: vishhnu, krishna, kavacha
+File name: kRRiShNakavacham.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_vishhnu
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shrikrishna Kavacham
+Transliterated by: PSA Easwaran
+engtitle: kRRiShNakavachaM
+itxtitle: kRiShNakavachaM
+title: कृइष्णकवचं
 
-+++
+---
   
  श्रीकृष्णकवचम्   
 प्रणम्य देवं विप्रेशं प्रणम्य च सरस्वतीम् ।  

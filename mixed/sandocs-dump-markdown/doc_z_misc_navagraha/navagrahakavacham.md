@@ -1,22 +1,23 @@
-+++
-"Text title" = "navagrahakavacham"
-"File name" = "navagrahakavacham.itx"
-itxtitle = "navagrahakavacham"
-engtitle = "Navagraha kavacha"
-Category = "kavacha, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ram Sankar Bhattacharya ramsankar.bhattacharya at gmail.com"
-"Proofread by" = "Ram Sankar Bhattacharya ramsankar.bhattacharya at  gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "grahayAmala tantra"
-"Latest update" = "August 17, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रहकवचम्"
+---
+Category: kavacha, navagraha
+Description-comments: grahayAmala tantra
+File name: navagrahakavacham.itx
+Language: Sanskrit
+Latest update: August 17, 2013
+Location: doc_z_misc_navagraha
+Proofread by: Ram Sankar Bhattacharya ramsankar.bhattacharya at  gmail.com, PSA Easwaran
+  psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: navagrahakavacham
+Transliterated by: Ram Sankar Bhattacharya ramsankar.bhattacharya at gmail.com
+engtitle: Navagraha kavacha
+itxtitle: navagrahakavacham
+title: नवग्रहकवचम्
 
-+++
+---
   
  नवग्रहकवचम्   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "gopIkRitabAlarakShA"
-"File name" = "bAlarakShA.itx"
-itxtitle = "bAlarakShA (gopIkRitA)"
-engtitle = "bAlarakShA"
-Category = "raksha, vishhnu, vishnu_misc, vyAsa, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Author = "Maharshi Vyas in Bhagavat Purana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, NA"
-Description-comments = "From Bhagavatapurana, 10.06.22-29"
-"Latest update" = "July 29, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालरक्षा (गोपीकृइता)"
+---
+Author: Maharshi Vyas in Bhagavat Purana
+Category: raksha, vishhnu, vishnu_misc, vyAsa, vishnu
+Description-comments: From Bhagavatapurana, 10.06.22-29
+File name: bAlarakShA.itx
+Language: Sanskrit
+Latest update: July 29, 2012
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopIkRitabAlarakShA
+engtitle: bAlarakShA
+itxtitle: bAlarakShA (gopIkRitA)
+title: बालरक्षा (गोपीकृइता)
 
-+++
+---
   
  श्रीबालरक्षा   
   

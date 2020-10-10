@@ -1,24 +1,24 @@
-+++
-"Text title" = "bagalAmukhIpItAmbarIdhyAnam"
-"File name" = "bagalAmukhIpItAmbarIdhyAnam.itx"
-itxtitle = "bagalAmukhIpItAmbarIdhyAnam"
-engtitle = "bagalAmukhIpItAmbarIdhyAnam"
-Category = "dhyAnam, devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 1)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बगलामुखीपीताम्बरीध्यानम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: dhyAnam, devii, devI, dashamahAvidyA
+File name: bagalAmukhIpItAmbarIdhyAnam.itx
+Indexextra: (stotramanjari 1)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bagalAmukhIpItAmbarIdhyAnam
+Transliterated by: Shree Devi Kumar
+engtitle: bagalAmukhIpItAmbarIdhyAnam
+itxtitle: bagalAmukhIpItAmbarIdhyAnam
+title: बगलामुखीपीताम्बरीध्यानम्
 
-+++
+---
   
  बगलामुखी (पीताम्बरी) ध्यानम्   
   

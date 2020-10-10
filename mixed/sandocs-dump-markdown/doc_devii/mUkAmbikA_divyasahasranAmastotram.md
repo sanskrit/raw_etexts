@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrii muukaambikaa divyasahasranaamastotram"
-"File name" = "mUkAmbikA1000str.itx"
-itxtitle = "mUkAmbikA divyasahasranAmastotram"
-engtitle = "mUkAmbikA divyasahasranAmastotram"
-Category = "sahasranAma, devii, otherforms, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda harshanand_16 at rediffmail.com"
-Description-comments = "mookambika sahasranaama stotram"
-Indexextra = "(youtube)"
-"Latest update" = "April 17, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मूकाम्बिका दिव्यसहस्रनामस्तोत्रम्"
+---
+Author: Traditional
+Category: sahasranAma, devii, otherforms, stotra, devI
+Description-comments: mookambika sahasranaama stotram
+File name: mUkAmbikA1000str.itx
+Indexextra: (youtube)
+Language: Sanskrit
+Latest update: April 17, 2002
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrii muukaambikaa divyasahasranaamastotram
+Texttype: stotra
+Transliterated by: R. Harshananda harshanand_16 at rediffmail.com
+engtitle: mUkAmbikA divyasahasranAmastotram
+itxtitle: mUkAmbikA divyasahasranAmastotram
+title: मूकाम्बिका दिव्यसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीमूकाम्बिका दिव्यसहस्रनामस्तोत्रम्   
   
@@ -54,7 +54,7 @@ proper discernment.
 त्रिगुणा श्रीर्महालक्ष्मीः योऽसौभाग्यवती परा ॥  
   
 योगनिद्रानिमग्नस्य विष्णोरमिततेजसः ।  
-पिंजूषतत्समुद्भूतौ विख्यातौ मधुकैटभौ ॥  
+पिञ्जूषतत्समुद्भूतौ विख्यातौ मधुकैटभौ ॥  
   
 तयोः विष्णोरभूद्भूयो युद्धं सार्वभयङ्करम् ।  
 चक्रिणा निहतावेतौ महामायाविमोहितौ ॥  
@@ -63,7 +63,7 @@ proper discernment.
 महिषं सा महावीर्यं अवधीन्नामरूपकम् ॥  
   
 ततो दैत्यार्दितैः देवैः पुरुहूतादिभिः स्तुता ।  
-सैषा भगवती दैत्यं धूम्रलोचनसंज्ञितम् ॥  
+सैषा भगवती दैत्यं धूम्रलोचनसञ्ज्ञितम् ॥  
   
 चण्डमुण्डौ महावीर्यौ रक्तबीजं भयङ्करम् ।  
 निहत्य देवी दैत्येन्द्रं निशुम्भमुरुविक्रमम् ॥  
@@ -118,7 +118,7 @@ proper discernment.
 मनुवन्द्या मन्त्रिवर्या महेष्वासा मन्सविनी ॥  
   
 मेनकातनया माता महिता मातृपूजिता  
-महती मारजननी मृतसंजीविनी मतिः ।  
+महती मारजननी मृतसञ्जीविनी मतिः ।  
 महनीया मदोल्लासा मन्दारकुसुमप्रभा माधवी  
 मल्लिकापूज्या मलयाचलवासिनी ॥  
   
@@ -130,7 +130,7 @@ proper discernment.
 महाकारुणिका मुक्ताभरणा मङ्गलप्रदा  
 मणिमाणिक्यशोभाढ्या मदहीना मदोत्कटा ।  
 महाभाग्यवती मन्दस्मिता मन्मथसेविता  
-माया विद्यामयी मंजुभाषिणी मदलालसा ॥  
+माया विद्यामयी मञ्जुभाषिणी मदलालसा ॥  
   
 मृडाणी मृत्युमथिनी मृदुभाषा मृडप्रिया  
 मन्त्रज्ञा मित्रसङ्काशा मुनिः महिषमर्दिनी ।  
@@ -392,7 +392,7 @@ proper discernment.
 तिलपुष्पसमाकारनासिका तीर्थरूपिणी  
 तिर्यग्रूपा तीर्थपादा त्रिवर्गा त्रिपुरेश्वरी ॥  
   
-त्रिसंध्या त्रिगुणाध्यक्षा त्रिमूर्तिः त्रिपुरान्तकी  
+त्रिसन्ध्या त्रिगुणाध्यक्षा त्रिमूर्तिः त्रिपुरान्तकी  
 त्रिनेत्रवल्लभा त्र्यक्षा त्रयी त्राणपरायणा ।  
 तारणा तारिणी तारा तारापरिकलावृता  
 तारात्मिका तारजपा तुरिताढ्या तरूत्तमा ॥  
@@ -475,7 +475,7 @@ proper discernment.
 योगलक्ष्मीः राज्यलक्ष्मीः महालक्ष्मीः सरस्वती  
 सदानन्दैकरसिका ब्रह्मविष्ण्वादिवन्दिता ।  
 कुमारी कपिला काली पिङ्गाक्षी कृष्णपिङ्गला  
-चण्डघंटाः महासिद्धिः वाराही वरवर्णिनी ॥  
+चण्डघण्टाः महासिद्धिः वाराही वरवर्णिनी ॥  
   
 कात्यायनी वायुवेगा कामाक्षी कर्मसाक्षिणी  
 दुर्गादेवी महादेवी आदिदेवी महासना ।  

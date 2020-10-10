@@ -1,26 +1,26 @@
-+++
-"Text title" = "ganesh kritaM shrii raadhaa stotram"
-"File name" = "raadhaaganesha.itx"
-itxtitle = "rAdhAstotram (gaNeshakRitam)"
-engtitle = "ganesh kritaM shrI rAdhA stotram"
-Category = "devii, radha, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Daniel Mohanpersad (danielmohanpersad98 at msn.com)"
-"Proofread by" = "Daniel Mohanpersad (danielmohanpersad98 at msn.com)"
-"Translated by" = "-"
-Description-comments = "brahmavaivart purANa"
-Indexextra = "(needs proofreading)"
-"Latest update" = "July 27, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधास्तोत्रम् (गणेशकृइतम्)"
+---
+Category: devii, radha, stotra, devI
+Description-comments: brahmavaivart purANa
+File name: raadhaaganesha.itx
+Indexextra: (needs proofreading)
+Language: Sanskrit
+Latest update: July 27, 2002
+Location: doc_devii
+Proofread by: Daniel Mohanpersad (danielmohanpersad98 at msn.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: hinduism/religion
+Sublocation: devii
+Text title: ganesh kritaM shrii raadhaa stotram
+Texttype: stotra
+Translated by: '-'
+Transliterated by: Daniel Mohanpersad (danielmohanpersad98 at msn.com)
+engtitle: ganesh kritaM shrI rAdhA stotram
+itxtitle: rAdhAstotram (gaNeshakRitam)
+title: राधास्तोत्रम् (गणेशकृइतम्)
 
-+++
+---
   
  श्रीराधास्तोत्रं गणेशकृतम्   
   
@@ -58,7 +58,7 @@ title = "राधास्तोत्रम् (गणेशकृइतम्
 वंशहानिर्भवेत्तस्य दुःखशोकमिहैव च ।  
 पच्यते निरते घोरे याव द्रदिवाकरौ ॥ ११॥  
   
-गुरुश्च ज्ञानोद्गिरणाज्ज्ञानं स्यान्मंत्रतंत्रयोः ।  
+गुरुश्च ज्ञानोद्गिरणाज्ज्ञानं स्यान्मन्त्रतन्त्रयोः ।  
 स च मन्त्रश्च तत्तन्त्रं  भक्तिः  स्याद् युवयोर्यतः ॥ १२॥  
   
 निशेव्य मन्त्रं देवानां जीवा जन्मनि जन्मनि ।  
@@ -76,7 +76,7 @@ title = "राधास्तोत्रम् (गणेशकृइतम्
 यो जपेत् परया भक्त्या पुण्यक्षेत्रे च भारते ।  
 पुरुषाणां सहस्रं च स्वात्मना  सार्धमुद्धरेत् ॥ १७॥  
   
-गुरुमभ्यर्च्य विधिवद् वस्त्रालंकारचन्दनैः ।  
+गुरुमभ्यर्च्य विधिवद् वस्त्रालङ्कारचन्दनैः ।  
 कवचं धारयेद् यो हि विष्णुतुल्यो भवेद् ध्रुवम् ॥ १८॥  
   
 ॥ इति श्री ब्रह्मवैवर्ते गणेशकृतं श्रीराधास्तवनं सम्पूर्णम् ॥  

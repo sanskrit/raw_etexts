@@ -1,22 +1,22 @@
-+++
-"Text title" = "shAkambharI AratI 1"
-"File name" = "shAkambharIAratI1.itx"
-itxtitle = "shAkambharI AratI 1"
-engtitle = "shAkambharI AratI 1"
-Category = "devii, AratI, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Latest update" = "August 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शाकम्भरी आरती १"
+---
+Category: devii, AratI, dashamahAvidyA, devI
+File name: shAkambharIAratI1.itx
+Language: Sanskrit
+Latest update: August 18, 2018
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAkambharI AratI 1
+Transliterated by: NA
+engtitle: shAkambharI AratI 1
+itxtitle: shAkambharI AratI 1
+title: शाकम्भरी आरती १
 
-+++
+---
   
  श्रीशाकम्भरी आरती १   
   

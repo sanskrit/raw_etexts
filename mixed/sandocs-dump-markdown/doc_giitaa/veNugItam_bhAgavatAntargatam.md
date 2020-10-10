@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrimadbhAgavatAntargataM veNugIta"
-"File name" = "veNugIta.itx"
-itxtitle = "veNugItam (bhAgavatAntargatam)"
-engtitle = "Venugita from Shrimadbhagavatam"
-Category = "gItam, giitaa, vyAsa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "maharShi vyAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Bhagavatam skanda 10 adhyAya 21"
-Indexextra = "(Bhagavatam 10.21 (meaning)"
-"Latest update" = "November 17, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेणुगीतम् (भागवतान्तर्गतम्)"
+---
+Author: maharShi vyAsa
+Category: gItam, giitaa, vyAsa
+Description-comments: Bhagavatam skanda 10 adhyAya 21
+File name: veNugIta.itx
+Indexextra: (Bhagavatam 10.21 (meaning)
+Language: Sanskrit
+Latest update: November 17, 2012
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: shrimadbhAgavatAntargataM veNugIta
+engtitle: Venugita from Shrimadbhagavatam
+itxtitle: veNugItam (bhAgavatAntargatam)
+title: वेणुगीतम् (भागवतान्तर्गतम्)
 
-+++
+---
   
  श्रीमद्भागवतान्तर्गतं वेणुगीतम्   
   

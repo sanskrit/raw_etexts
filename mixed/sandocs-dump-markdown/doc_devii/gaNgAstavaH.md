@@ -1,25 +1,25 @@
-+++
-"Text title" = "gangAstava kalkIpurANe evaM bhaviShye"
-"File name" = "gangAstavakalkIP.itx"
-itxtitle = "gaNgAstavaH"
-engtitle = "Gangastava"
-Category = "devii, nadI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwaa, by PSA EASWARAN psaeaswaran at gmail.coml"
-Description-comments = "shrIkalkipurANe.anubhAgavate bhaviShye tRityA.nshe"
-Indexextra = "(Kalki and Bhavishyapurana)"
-"Latest update" = "May 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गास्तवः"
+---
+Category: devii, nadI, stotra, devI
+Description-comments: shrIkalkipurANe.anubhAgavate bhaviShye tRityA.nshe
+File name: gangAstavakalkIP.itx
+Indexextra: (Kalki and Bhavishyapurana)
+Language: Sanskrit
+Latest update: May 18, 2013
+Location: doc_devii
+Proofread by: Dinesh Agarwaa, by PSA EASWARAN psaeaswaran at gmail.coml
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gangAstava kalkIpurANe evaM bhaviShye
+Texttype: stotra
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: Gangastava
+itxtitle: gaNgAstavaH
+title: गण्गास्तवः
 
-+++
+---
   
  गङ्गास्तवः   
   

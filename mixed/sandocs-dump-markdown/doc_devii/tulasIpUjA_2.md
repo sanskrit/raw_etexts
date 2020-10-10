@@ -1,25 +1,25 @@
-+++
-"Text title" = "tulasIpUjA 2"
-"File name" = "tulasIpUjA2.itx"
-itxtitle = "tulasIpUjA 2"
-engtitle = "tulasIpUjA 2"
-Category = "pUjA, devii, tulasI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar"
-Description-comments = "pUjA 2"
-Indexextra = "(TulasiPuja scanned)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "June 12, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलसीपूजा २"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: pUjA, devii, tulasI, devI
+Description-comments: pUjA 2
+File name: tulasIpUjA2.itx
+Indexextra: (TulasiPuja scanned)
+Language: Sanskrit
+Latest update: June 12, 2017
+Location: doc_devii
+Proofread by: Shree Devi Kumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulasIpUjA 2
+Transliterated by: Shree Devi Kumar
+engtitle: tulasIpUjA 2
+itxtitle: tulasIpUjA 2
+title: तुलसीपूजा २
 
-+++
+---
   
  तुलसीपूजा २  
   

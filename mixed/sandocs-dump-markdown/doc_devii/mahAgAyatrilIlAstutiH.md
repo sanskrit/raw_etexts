@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAgAyatrilIlAstuti"
-"File name" = "mahAgAyatrilIlAstuti.itx"
-itxtitle = "mahAgAyatrilIlAstutiH"
-engtitle = "Mahagayatrililastuti"
-Category = "devii, gAyatrI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jagannath Vedula jvedula at yahoo.com"
-"Proofread by" = "Jagannath Vedula jvedula at yahoo.com"
-"Latest update" = "September 11, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महागायत्रिलीलास्तुतिः"
+---
+Category: devii, gAyatrI, stotra, devI
+File name: mahAgAyatrilIlAstuti.itx
+Language: Sanskrit
+Latest update: September 11, 2013
+Location: doc_devii
+Proofread by: Jagannath Vedula jvedula at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAgAyatrilIlAstuti
+Texttype: stotra
+Transliterated by: Jagannath Vedula jvedula at yahoo.com
+engtitle: Mahagayatrililastuti
+itxtitle: mahAgAyatrilIlAstutiH
+title: महागायत्रिलीलास्तुतिः
 
-+++
+---
   
  महागायत्रीलीलास्तुती   
   
@@ -38,9 +38,9 @@ title = "महागायत्रिलीलास्तुतिः"
 सरोजषण्डबान्धवप्रतप्तपावकप्रभैः  
 किरीटरत्नरञ्जितैः सुधांशुखण्डमण्डितैः ॥ ३॥  
   
-मुखैर्दशार्धसंमितैर्विराजमानविग्रहां  
+मुखैर्दशार्धसम्मितैर्विराजमानविग्रहां  
 सुरेशचापसप्रभां समस्तदेववन्दिताम् ।  
-वराभयाङ्कुशान्वितैः कपालशूल शंख-  
+वराभयाङ्कुशान्वितैः कपालशूल शङ्ख-  
 चक्रसारसद्वयीगुणाङ्कितैः करैर्विराजिताम् ॥ ४॥  
   
 भवद्रुमस्य मूलतां गतां मुनीन्द्रवन्दिताम्  
@@ -54,7 +54,7 @@ title = "महागायत्रिलीलास्तुतिः"
 परेशशक्तिमुत्तमां भजे त्रिलोकसुन्दरीम् ॥ ६॥  
   
 महामहेश्वरी जगद्विसर्गसुस्थितिक्षय-  
-स्वतंत्रता शरीरिणी बभूव या महेशितुः ।  
+स्वतन्त्रता शरीरिणी बभूव या महेशितुः ।  
 द्विपत्रितादिभेदतो लतायमानविग्रहा  
 त्रयीश्वरी सदा तु सा जगङ्जयाय जायताम् ॥ ७॥  
   
@@ -79,13 +79,13 @@ title = "महागायत्रिलीलास्तुतिः"
 यतोङ्व्रिचिन्तकं दयादृशेक्षसे न माद्यशम् ॥ ११॥  
   
 अनेकदोषदूषितेष्वनिर्विवेचना सती  
-स्वतंत्रशक्तिरीश्वरी भवाधनाशकारिणी ।  
+स्वतन्त्रशक्तिरीश्वरी भवाधनाशकारिणी ।  
 कृपामयीम् दृशं विधाय सा स्वभक्तिपात्रितं  
 स्वपत्कजे मधुव्रतं करोतु मामहर्निशम् ॥ १२॥  
   
 त्रिसन्ध्यमिष्टदैवतं सुकेशवास्यजं स्तवं  
 स्मरन् हृदीद्धभावनो विधाय वेदमातरम् ।  
-विधूय पापसंचयं वितीर्य कीर्तिमुत्तमाम्-  
+विधूय पापसञ्चयं वितीर्य कीर्तिमुत्तमाम्-  
 इह त्वमुत्र कैवलं पदं स याति निर्भयम् ॥ १३॥  
   
 इति श्रीमहागायत्रीलीलास्तुतिः ।  

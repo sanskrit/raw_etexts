@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhairavAShTakam 2"
-"File name" = "bhairvAShTakam2.itx"
-itxtitle = "bhairavAShTakam 2 (gArgyamunivirachitam)"
-engtitle = "bhairavAShTakam 2"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Gargyamuni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Latest update" = "June 30, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भैरवाष्टकम् २ (गार्ग्यमुनिविरचितम्)"
+---
+Author: Gargyamuni
+Category: aShTaka, shiva
+File name: bhairvAShTakam2.itx
+Language: Sanskrit
+Latest update: June 30, 2017
+Location: doc_shiva
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: bhairavAShTakam 2
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: bhairavAShTakam 2
+itxtitle: bhairavAShTakam 2 (gArgyamunivirachitam)
+title: भैरवाष्टकम् २ (गार्ग्यमुनिविरचितम्)
 
-+++
+---
   
  श्रीभैरवाष्टकम् २   
   

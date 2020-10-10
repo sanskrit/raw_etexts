@@ -1,23 +1,23 @@
-+++
-"Text title" = "shankArachAryabhujangaprayAtastotram"
-"File name" = "shankArachAryabhujangaprayAtastotram.itx"
-itxtitle = "shaNkArachAryabhujaNgaprayAtastotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "shankArachAryabhujangaprayAtastotram"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, bhujanga"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudeva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शण्कारचार्यभुजण्गप्रयातस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, bhujanga
+File name: shankArachAryabhujangaprayAtastotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudeva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shankArachAryabhujangaprayAtastotram
+engtitle: shankArachAryabhujangaprayAtastotram
+itxtitle: shaNkArachAryabhujaNgaprayAtastotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: शण्कारचार्यभुजण्गप्रयातस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीशङ्कारचार्यभुजङ्गप्रयातस्तोत्रम्   
 (कालटिक्षेत्रे )  

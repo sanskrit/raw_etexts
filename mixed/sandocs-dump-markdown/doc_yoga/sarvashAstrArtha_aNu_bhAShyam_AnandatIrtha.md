@@ -1,39 +1,39 @@
-+++
-"Text title" = "sarvashAstrArtha aNu bhAShya (AnandatIrtha)"
-"File name" = "aNu_bhAshhya.itx"
-itxtitle = "sarvashAstrArtha aNu bhAShyam (AnandatIrtha)"
-engtitle = "sarvashAstrArtha aNu bhAShyam (AnandatIrtha)"
-Category = "vedanta, yoga"
-Location = "doc_yoga"
-Sublocation = "yoga"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shrisha Rao shrao at dvaita.org"
-"Proofread by" = "Shrisha Rao shrao at dvaita.org"
-Indexextra = "(madhva concise treatiseAnandatIrtha)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सर्वशास्त्रार्थ अणु भाष्यम् (आनन्दतीर्थ)"
+---
+Category: vedanta, yoga
+File name: aNu_bhAshhya.itx
+Indexextra: (madhva concise treatiseAnandatIrtha)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_yoga
+Proofread by: Shrisha Rao shrao at dvaita.org
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: yoga
+Text title: sarvashAstrArtha aNu bhAShya (AnandatIrtha)
+Transliterated by: Shrisha Rao shrao at dvaita.org
+engtitle: sarvashAstrArtha aNu bhAShyam (AnandatIrtha)
+itxtitle: sarvashAstrArtha aNu bhAShyam (AnandatIrtha)
+title: सर्वशास्त्रार्थ अणु भाष्यम् (आनन्दतीर्थ)
 
-+++
+---
   
  सर्वशास्त्रार्थ अणु भाष्य ( आनन्दतीर्थ)   
   
-          सर्वशास्त्रार्थसंग्रहः  
+          सर्वशास्त्रार्थसङ्ग्रहः  
   
 Encoded and proofread by Shrisha Rao shrao at dvaita.org  
   
           ॥ श्री गुरुभ्यो नमः हरिः ॐ ॥  
   
 ॐ विष्णुरेव विजिज्ञास्यः सर्वकर्ताऽगमोदितः ।  
-समन्वयादीक्षतेश्च पूर्णानन्दोऽंतरः खवत् ॥ १.१॥  
+समन्वयादीक्षतेश्च पूर्णानन्दोऽन्तरः खवत् ॥ १.१॥  
   
 प्रणेता ज्योतिरित्यादैः प्रसिद्धैरन्यवस्तुषु ।  
 उच्यते विष्णुरेवैकः सर्वैः सर्व गुणत्त्वतः ॥ १.२॥  
   
-सर्वगोऽत्ता नियंता च दृश्यत्त्वादुज्झितः सदा ।  
-विश्वजीवांतरत्त्वादैर्लिङ्गैः सर्वैर्युतः स हि ॥ १.३॥  
+सर्वगोऽत्ता नियन्ता च दृश्यत्त्वादुज्झितः सदा ।  
+विश्वजीवान्तरत्त्वादैर्लिङ्गैः सर्वैर्युतः स हि ॥ १.३॥  
   
 सर्वाश्रयः पूर्णगुणः सोऽक्षरः सन् हृदब्जगः ।  
 सूर्यादिभासकः प्राणप्रेरको दैवतैरपि ॥ १.४॥  
@@ -120,11 +120,11 @@ Encoded and proofread by Shrisha Rao shrao at dvaita.org
 यथासङ्कल्पभोगाश्च चिदानन्द शरीरिणः ।  
 जगत्सृष्ट्यादिविशयं महासामर्थ्य मप्यृते ॥ ४.६॥  
   
-यथेष्टशक्तिमंतश्च विना स्वाभाविकोत्तमान् ।  
+यथेष्टशक्तिमन्तश्च विना स्वाभाविकोत्तमान् ।  
 अनन्यवशगाश्चैव वृद्धिह्रास विवर्जिताः ।  
-दुःखादिरहितं नित्यं मोदंतेऽविरतं सुखम् ॥ ४.७॥  
+दुःखादिरहितं नित्यं मोदन्तेऽविरतं सुखम् ॥ ४.७॥  
   
-पूर्णप्रज्ञेन मुनिना सर्वशास्त्रार्थसंग्रहः ।  
+पूर्णप्रज्ञेन मुनिना सर्वशास्त्रार्थसङ्ग्रहः ।  
 कृतोऽयं प्रीयतां तेन परमात्मा रमापतिः ॥ ४.८॥  
   
 नमो नमोऽशेषदोषदूर पूर्णगुणात्मने ।  
@@ -134,7 +134,7 @@ Encoded and proofread by Shrisha Rao shrao at dvaita.org
   
 इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं  
 ब्रह्मसूत्राणुभाष्यं सम्पूर्णम्  
-॥ भारतीरमणमुख्यप्राणंतर्गत श्रीकृष्णार्पणमस्तु ॥  
+॥ भारतीरमणमुख्यप्राणन्तर्गत श्रीकृष्णार्पणमस्तु ॥  
   
   
   

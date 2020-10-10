@@ -1,25 +1,25 @@
-+++
-"Text title" = "bAlAsahasranAmAvaliH 1"
-"File name" = "bAlAsahasranAmAvaliH.itx"
-itxtitle = "bAlAsahasranAmAvaliH 1"
-engtitle = "bAlAsahasranAmAvaliH 1"
-Category = "sahasranAmAvalI, devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Devi Nama Sthothra Manjari Part 2, Balasaparya"
-Indexextra = "(stotramanjari 2, Scan)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालासहस्रनामावलिः १"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAmAvalI, devii, devI, dashamahAvidyA
+Description/comments: Devi Nama Sthothra Manjari Part 2, Balasaparya
+File name: bAlAsahasranAmAvaliH.itx
+Indexextra: (stotramanjari 2, Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAsahasranAmAvaliH 1
+Transliterated by: Shree Devi Kumar
+engtitle: bAlAsahasranAmAvaliH 1
+itxtitle: bAlAsahasranAmAvaliH 1
+title: बालासहस्रनामावलिः १
 
-+++
+---
   
  श्रीबालासहस्रनामावलिः १   
 श्रीदेव्युवाच -  
@@ -66,7 +66,7 @@ title = "बालासहस्रनामावलिः १"
 चण्डिकायै । चण्ड्यै । चामुण्ड्यै । मुण्डमालिन्यै । अणुरूपायै ।  
 महारूपायै । भूतेश्यै । भुवनेश्वर्यै । चित्रायै । विचित्रायै ।  
 चित्राङ्ग्यै । हेमगर्भस्वरूपिण्यै । चैतन्यरूपिण्यै । नित्यायै ।  
-नित्यानित्यस्वरूपिण्यै । ह्रींकार्यै नमः । ८०  
+नित्यानित्यस्वरूपिण्यै । ह्रीङ्कार्यै नमः । ८०  
   
 ॐ कुण्डल्यै  नमः । धात्र्यै । विधात्र्यै । भूतसम्प्लवायै ।  
 उन्मादिन्यै । महामाल्यै । सुप्रसन्नायै । सुरार्चितायै । परमायै ।  
@@ -211,7 +211,7 @@ title = "बालासहस्रनामावलिः १"
 ॐ श्रेष्ठायै  नमः । शर्मिष्ठायै । शारदार्चितायै । सुवर्चलायै ।  
 सुराराध्यायै । शुद्धसत्त्वायै । सुरार्चितायै । स्तुत्यै । स्तुतिमय्यै ।  
 स्तुत्यायै । स्तुतिरूपायै । स्तुतिप्रियायै । कामेश्वर्यै । कामवत्यै ।  
-कामिन्यै । कामरूपिण्यै । आकाशगर्भायै । ह्रींकार्यै । कङ्काल्यै ।  
+कामिन्यै । कामरूपिण्यै । आकाशगर्भायै । ह्रीङ्कार्यै । कङ्काल्यै ।  
 कालरूपिण्यै नमः । ५६०  
   
 ॐ विष्णुपत्न्यै  नमः । विशुद्धार्थायै । विश्वरूपायै ।  
@@ -245,13 +245,13 @@ title = "बालासहस्रनामावलिः १"
   
 ॐ मायावत्यै  नमः । घोरमुख्यै । नादिन्यै । दीपिन्यै । शिवायै ।  
 मकारायै । अमृतचक्रेश्यै । महासेनाविमोहिन्यै । उत्सुकायै ।  
-अनुत्सुकायै । हृष्टायै । ह्रींकार्यै । चक्रनायिकायै । रुद्रायै ।  
-भवान्यै । चामुण्ड्यै । ह्रींकार्यै । सौख्यदायिन्यै । गरुडायै ।  
+अनुत्सुकायै । हृष्टायै । ह्रीङ्कार्यै । चक्रनायिकायै । रुद्रायै ।  
+भवान्यै । चामुण्ड्यै । ह्रीङ्कार्यै । सौख्यदायिन्यै । गरुडायै ।  
 गरुड्यै नमः । ६८०  
   
 ॐ कृष्णायै  नमः । सकलायै । ब्रह्मचारिण्यै । कृष्णाङ्गायै ।  
 वाहिन्यै । कृष्णायै । खेचर्यै । कमलायै । प्रियायै । भद्रिण्यै ।  
-रुद्रचामुण्डायै । ह्रींकार्यै । सौभगायै । ध्रुवायै । गोरुड्यै ।  
+रुद्रचामुण्डायै । ह्रीङ्कार्यै । सौभगायै । ध्रुवायै । गोरुड्यै ।  
 गारुड्यै । ज्येष्ठायै । स्वर्गगायै । ब्रह्मचारिण्यै । पानानुरक्तायै  
 नमः । ७००  
   

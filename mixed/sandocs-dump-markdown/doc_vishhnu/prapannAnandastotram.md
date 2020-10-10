@@ -1,23 +1,23 @@
-+++
-"Text title" = "prapannAnandastotram"
-"File name" = "prapannAnandastotram.itx"
-itxtitle = "prapannAnandastotram"
-engtitle = "prapannAnandastotram"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Swamini Tattvapriyananda tattvapriya3108 at gmail.com"
-"Description/comments" = "Stotra Sringeri"
-Indexextra = "(Scan)"
-"Latest update" = "November 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रपन्नानन्दस्तोत्रम्"
+---
+Category: vishhnu
+Description/comments: Stotra Sringeri
+File name: prapannAnandastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 17, 2018
+Location: doc_vishhnu
+Proofread by: Swamini Tattvapriyananda tattvapriya3108 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: prapannAnandastotram
+Transliterated by: NA
+engtitle: prapannAnandastotram
+itxtitle: prapannAnandastotram
+title: प्रपन्नानन्दस्तोत्रम्
 
-+++
+---
   
  प्रपन्नानन्दस्तोत्रम्   
 श्रीवेङ्कटधरणीधरपतिवक्षस्स्थलविशालकेलिगृहम् ।  

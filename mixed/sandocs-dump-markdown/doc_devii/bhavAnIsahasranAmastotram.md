@@ -1,26 +1,26 @@
-+++
-"Text title" = "durlabha bhavAnI kavacha ma.ntra sahasranAma stotra"
-"File name" = "bhavaaniisahasra.itx"
-itxtitle = "bhavAnIsahasranAmastotram"
-engtitle = "bhavAnIsahasranAmastotram"
-Category = "sahasranAma, devii, pArvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com.com"
-Description-comments = "rUdrayAmala_ta.ntra"
-Indexextra = "(meaning, text)"
-"Latest update" = "October 31, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवानीसहस्रनामस्तोत्रम्"
+---
+Author: Traditional
+Category: sahasranAma, devii, pArvatI, stotra, devI
+Description-comments: rUdrayAmala_ta.ntra
+File name: bhavaaniisahasra.itx
+Indexextra: (meaning, text)
+Language: Sanskrit
+Latest update: October 31, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durlabha bhavAnI kavacha ma.ntra sahasranAma stotra
+Texttype: stotra
+Transliterated by: WebD
+engtitle: bhavAnIsahasranAmastotram
+itxtitle: bhavAnIsahasranAmastotram
+title: भवानीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीभवानीसहस्रनामस्तोत्रम्   
   
@@ -46,7 +46,7 @@ title = "भवानीसहस्रनामस्तोत्रम्"
 स्कन्दस्यापि च यद्गोप्यं रहस्यं कथयामि तत् ॥ ६॥  
   
 पुरा कल्पक्षये लोकान्सिसृक्षुर्मूढचेतनः ।  
-गुणत्रयमयी शक्तिर्मूलप्रकृतिसंज्ञिता ॥ ७॥  
+गुणत्रयमयी शक्तिर्मूलप्रकृतिसञ्ज्ञिता ॥ ७॥  
   
 तस्यामहं समुत्पन्नस्तत्वैस्तैर्महदादिभिः ।  
 चेतनेति ततः शक्तिर्मां काप्यालिङ्ग्य तस्थुषी ॥ ८॥  
@@ -164,7 +164,7 @@ title = "भवानीसहस्रनामस्तोत्रम्"
 सती पतिव्रता साध्वी सुचक्षुः कुण्डवासिनी ॥ १८॥  
   
 एकचक्षुः सहस्राक्षी सुश्रोणिर्भगमालिनी ।  
-सेनाश्रोणिः पताका च सुव्यूहा युद्धकांक्षिणी ॥ १९॥  
+सेनाश्रोणिः पताका च सुव्यूहा युद्धकाङ्क्षिणी ॥ १९॥  
   
 पताकिनी दयारम्भा विपञ्ची पञ्चमप्रिया ।  
 परा परकलाकान्ता त्रिशक्तिर्मोक्षदायिनी ॥ २०॥  
@@ -331,7 +331,7 @@ title = "भवानीसहस्रनामस्तोत्रम्"
 भूता भव्या भविष्या च शैलजा शैलवासिनी ।  
 वाममार्गरता वामा शिववामाङ्गवासिनी ॥ ७४॥  
   
-वामाचारप्रिया तुष्टिर्लोंपामुद्रा प्रबोधिनी ।  
+वामाचारप्रिया तुष्टिर्लोम्पामुद्रा प्रबोधिनी ।  
 भूतात्मा परमात्मा भूतभावविभाविनी ॥ ७५॥  
   
 मङ्गला च सुशीला च परमार्थप्रबोधिनी ।  
@@ -343,7 +343,7 @@ title = "भवानीसहस्रनामस्तोत्रम्"
 नारस्ंइही सुजन्मा च त्रिवर्गफलदायिनी ।  
 धर्मदा धनदा चैव कामदा मोक्षदाद्युतिः ॥ ७८॥  
   
-साक्षिणी क्षणदा कांक्षा दक्षजा कूटरूपिणी ।  
+साक्षिणी क्षणदा काङ्क्षा दक्षजा कूटरूपिणी ।  
 ऋअतुः कात्यायनी स्वच्छा सुच्छन्दा कविप्रिया ॥ ७९॥  
   
 सत्यागमा बहिःस्था च काव्यशक्तिः कवित्वदा ।  
@@ -620,7 +620,7 @@ title = "भवानीसहस्रनामस्तोत्रम्"
 बध्नन्तिये महारक्षां बालानां च विशेषतः ॥ १७०॥  
   
 भवन्ति नृप पूज्यास्ते कीर्तिभाजो यशस्विनः ।  
-शत्रुतो न भयंतेषां दुर्जनेभ्यो न राजतः ॥ १७१॥  
+शत्रुतो न भयन्तेषां दुर्जनेभ्यो न राजतः ॥ १७१॥  
   
 न च रोगो न वै दुःख न दारिद्र्यं न दुर्गतिः ।  
 महार्णवे महानद्यां स्थितेऽपि च नभीः क्वचित् ॥ १७२॥  

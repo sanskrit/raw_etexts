@@ -1,25 +1,26 @@
-+++
-"Text title" = "Sadacharanausandhanam"
-"File name" = "sadacharanusandhanam.itx"
-itxtitle = "sadAchArAnusandhAnam athavA sadAchAra (shaNkarAchAryavirachitam)"
-engtitle = "Sadacharanusandhanami"
-Category = "vedanta, advice, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Texttype = "advice"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "In 55 verses, PDF pages 121-130 in Works of Shankaracharya Vol 16, 1910 by Sri Vani Vilas Press"
-Indexextra = "(Scan, Hindi, Marathi)"
-"Latest update" = "Nov. 9, 2009, August 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सदाचारानुसन्धानम् अथवा सदाचार (शण्कराचार्यविरचितम्)"
+---
+Author: Adi Shankaracharya
+Category: vedanta, advice, shankarAchArya
+Description-comments: In 55 verses, PDF pages 121-130 in Works of Shankaracharya Vol
+  16, 1910 by Sri Vani Vilas Press
+File name: sadacharanusandhanam.itx
+Indexextra: (Scan, Hindi, Marathi)
+Language: Sanskrit
+Latest update: Nov. 9, 2009, August 6, 2018
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: shankara
+Text title: Sadacharanausandhanam
+Texttype: advice
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Sadacharanusandhanami
+itxtitle: sadAchArAnusandhAnam athavA sadAchAra (shaNkarAchAryavirachitam)
+title: सदाचारानुसन्धानम् अथवा सदाचार (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  सदाचारानुसन्धानम्   
 ॥ श्रीः ॥  
@@ -69,7 +70,7 @@ title = "सदाचारानुसन्धानम् अथवा सद
 अतीतानागतं किञ्चिन्न स्मरामि न चिन्तये ।  
 रागद्वेषं विना प्राप्तं भुञ्जाम्यत्र शुभाशुभम् ॥ १५॥  
   
-देहाभ्यासो हि संन्यासो नैव काषायवाससा ।  
+देहाभ्यासो हि सन्न्यासो नैव काषायवाससा ।  
 नाहं देहोऽहमात्मेति निश्चयो न्यासलक्षणम् ॥ १६॥  
   
 अभयं सर्वभूतानां दानमाहुर्मनीषिणः ।  
@@ -162,7 +163,7 @@ title = "सदाचारानुसन्धानम् अथवा सद
 आत्मनो ब्रह्मणः सम्यगुपाधिद्वयवर्जितम् ।  
 त्वमर्थविषयं ज्ञानं विज्ञानं तत्पदाश्रयम् ॥ ४६॥  
   
-पदयोरैक्यबोधस्तु ज्ञानविज्ञानसंज्ञितम् ।  
+पदयोरैक्यबोधस्तु ज्ञानविज्ञानसञ्ज्ञितम् ।  
 आत्मानात्मविवेकस्य ज्ञानमाहुर्मनीषिणः ॥ ४७॥  
   
 अज्ञानं चान्यता लोके विज्ञानं तन्मयं जगत् ।  
@@ -186,7 +187,7 @@ title = "सदाचारानुसन्धानम् अथवा सद
 हर्षामर्षविनिर्मुक्तो वानप्रस्थः स उच्यते ।  
 स गृही यो गृहातीतः शरीरं गृहमुच्यते ॥ ५४॥  
   
-सदाचारमिमं नित्यं योऽनुसंदधते बुधः ।  
+सदाचारमिमं नित्यं योऽनुसन्दधते बुधः ।  
 संसारसागराच्छीघ्रं स मुक्तो नात्र संशयः ॥ ५५॥  
   
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  

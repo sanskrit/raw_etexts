@@ -1,24 +1,24 @@
-+++
-"Text title" = "varadarAjastavaH 2"
-"File name" = "varadarAjastavaH2.itx"
-itxtitle = "varadarAjastavaH 2 (appayyadIkShitendravirachitaH)"
-engtitle = "varadarAjastavaH 2"
-Category = "vishhnu, appayya-dIkShita"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Sri Appayya Dixitar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वरदराजस्तवः २ (अप्पय्यदीक्षितेन्द्रविरचितः)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: Sri Appayya Dixitar
+Category: vishhnu, appayya-dIkShita
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: varadarAjastavaH2.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: varadarAjastavaH 2
+engtitle: varadarAjastavaH 2
+itxtitle: varadarAjastavaH 2 (appayyadIkShitendravirachitaH)
+title: वरदराजस्तवः २ (अप्पय्यदीक्षितेन्द्रविरचितः)
 
-+++
+---
   
  श्रीवरदराजस्तवः २   
 अप्पय्यदीक्षितेन्द्रविरचितः ।  

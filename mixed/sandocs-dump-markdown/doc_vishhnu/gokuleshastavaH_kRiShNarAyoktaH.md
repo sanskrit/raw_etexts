@@ -1,24 +1,24 @@
-+++
-"Text title" = "gokuleshastavaH"
-"File name" = "gokuleshastavaH.itx"
-itxtitle = "gokuleshastavaH (kRiShNarAyoktaH)"
-engtitle = "gokuleshastavaH"
-Category = "vishhnu, krishna, puShTimArgIya, kRiShNarAya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "kRRiShNarAya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोकुलेशस्तवः (कृइष्णरायोक्तः)"
+---
+Author: kRRiShNarAya
+Category: vishhnu, krishna, puShTimArgIya, kRiShNarAya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: gokuleshastavaH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gokuleshastavaH
+engtitle: gokuleshastavaH
+itxtitle: gokuleshastavaH (kRiShNarAyoktaH)
+title: गोकुलेशस्तवः (कृइष्णरायोक्तः)
 
-+++
+---
   
  श्रीगोकुलेशस्तवः   
   

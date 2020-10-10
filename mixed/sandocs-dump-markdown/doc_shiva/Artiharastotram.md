@@ -1,22 +1,22 @@
-+++
-"Text title" = "Artiharastotram"
-"File name" = "Artihara.itx"
-itxtitle = "Artiharastotram"
-engtitle = "Artiharastotram"
-Category = "shiva, shrIdhara-venkaTesha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sri Sridhara Venkatesa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "August 10, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आर्तिहरस्तोत्रम्"
+---
+Author: Sri Sridhara Venkatesa
+Category: shiva, shrIdhara-venkaTesha
+File name: Artihara.itx
+Language: Sanskrit
+Latest update: August 10, 2003
+Location: doc_shiva
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Artiharastotram
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: Artiharastotram
+itxtitle: Artiharastotram
+title: आर्तिहरस्तोत्रम्
 
-+++
+---
   
  आर्तिहरस्तोत्रम्   
   
@@ -34,17 +34,17 @@ collection of hymns they recite during their prayer.
   
     ॥ अथ आर्तिहरस्तोत्रम् ॥  
   
-श्री शंभो मयि करुणाशिशिरां दृष्टिं दिशन् सुधावृष्टिम्।  
+श्री शम्भो मयि करुणाशिशिरां दृष्टिं दिशन् सुधावृष्टिम्।  
 सन्तापमपाकुरुमे मन्तापरमेश तव दयायाः स्याम् ॥ १॥  
   
 अवसीदामि यदार्तिभिरनुगुणमिदमोकसोंहसां खलु मे।  
 तव सन्नवसीदामि यदन्तकशासन नतत्तवानुगुणम् ॥ २॥  
   
-देव स्मरंति तव येतेषां स्मरतोऽपि नार्तिरितिकीर्तिम्।  
+देव स्मरन्ति तव येतेषां स्मरतोऽपि नार्तिरितिकीर्तिम्।  
 कलयसि शिव पाहीतिक्रन्दन् सीदाम्यहं किमुचितमिदम् ॥ ३॥  
   
 आदिश्याघकृतौ मामन्तर्यामिन्नसावघात्मेति।  
-आर्तिषुमज्जयसे मां किंब्रूयां तवकृपैकपात्रमहम् ॥ ४॥  
+आर्तिषुमज्जयसे मां किम्ब्रूयां तवकृपैकपात्रमहम् ॥ ४॥  
   
 मन्दाग्र्णीरहं तव मयि करुणां घटयितुं विबोनालम्।  
 आकृष्टुं तान्तु बलादलमिह मद्दैन्यमिति समाश्वसिति ॥ ५॥  
@@ -53,7 +53,7 @@ collection of hymns they recite during their prayer.
 त्वं मयि दोषान् गणयसि किं कथये तुदति किं दया नत्वाम् ॥ ६॥  
   
 आश्रितमार्ततरं मामुपेक्षसे किमिति शिव न किं दयसे।  
-श्रितगोप्ता दीनार्तिहृदिति खलु शंसंति जगति सन्तस्त्वाम् ॥ ७॥  
+श्रितगोप्ता दीनार्तिहृदिति खलु शंसन्ति जगति सन्तस्त्वाम् ॥ ७॥  
   
 प्रहराहरेतिवादी फणितमदाख्य इति पालितो भवता।  
 शिव पाहीति वदोऽहं शृतो न किं क्वां कथं न पाल्यस्ते ॥ ८॥  
@@ -61,7 +61,7 @@ collection of hymns they recite during their prayer.
 शरणं व्रज शिवमार्तीस्सतव हरेदिति सतां गिराऽहम् त्वाम्।  
 शरणं गतोऽस्मि पालय खलमपि तेष्वीश पक्षपातान्माम् ॥ ९॥  
   
-इति श्री श्रीधरवेंकटेशार्यकृतिषु आर्तिहरस्तोत्रं संपूर्णम् ॥  
+इति श्री श्रीधरवेङ्कटेशार्यकृतिषु आर्तिहरस्तोत्रं सम्पूर्णम् ॥  
   
   
 Encoded and proofread by N. Balasubramanian bbalu at satyam.net.in  

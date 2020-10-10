@@ -1,32 +1,32 @@
-+++
-"Text title" = "miinaakshistotram"
-"File name" = "miinaakshistotra.itx"
-itxtitle = "mInAkShIstotram (shaNkarAchAryavirachitam)"
-engtitle = "Hymn to Goddess mInAkShI"
-Category = "devii, mInAkShI, stotra, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "mInAkShI"
-Texttype = "stotra"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Ravi  Mayavaram  msr at comco.com"
-"Proofread by" = "Sridhar  Seshagiri seshagir at engineering.sdsu.edu"
-Description-comments = "Hymn to Goddess Minakshi"
-"Latest update" = "September 29, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मीनाक्षीस्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Author: Adi Shankaracharya
+Category: devii, mInAkShI, stotra, shankarAchArya, devI
+Description-comments: Hymn to Goddess Minakshi
+File name: miinaakshistotra.itx
+Language: Sanskrit
+Latest update: September 29, 2001
+Location: doc_devii
+Proofread by: Sridhar  Seshagiri seshagir at engineering.sdsu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: mInAkShI
+Subject: hinduism/religion
+Sublocation: devii
+Text title: miinaakshistotram
+Texttype: stotra
+Transliterated by: Ravi  Mayavaram  msr at comco.com
+engtitle: Hymn to Goddess mInAkShI
+itxtitle: mInAkShIstotram (shaNkarAchAryavirachitam)
+title: मीनाक्षीस्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  मीनाक्षीस्तोत्रम्   
              ॥ श्रीः ॥  
   
 श्रीविद्ये शिववामभागनिलये श्रीराजराजार्चिते  
 श्रीनाथादिगुरुस्वरूपविभवे चिन्तामणीपीठिके ।  
-श्रीवाणीगिरिजानुताङ्घ्रिकमले श्रीशांभवि श्रीशिवे  
+श्रीवाणीगिरिजानुताङ्घ्रिकमले श्रीशाम्भवि श्रीशिवे  
 मध्याह्ने मलयध्वजाधिपसुते मां पाहि मीनाम्बिके ॥ १ ॥  
   
 चक्रस्थेऽचपले चराचरजगन्नाथे जगत्पूजिते  
@@ -36,8 +36,8 @@ title = "मीनाक्षीस्तोत्रम् (शण्करा
   
 कोटीराङ्गदरत्नकुण्डलधरे कोदण्डबाणाञ्चिते  
 कोकाकारकुचद्वयोपरिलसत्प्रालम्बहाराञ्चिते ।  
-शिञ्जन्नूपुरपादसारसमणीश्रीपादुकालंकृते  
-मद्दारिद्र्यभुजंगगारुडखगे मां पाहि मीनाम्बिके ॥ ३॥  
+शिञ्जन्नूपुरपादसारसमणीश्रीपादुकालङ्कृते  
+मद्दारिद्र्यभुजङ्गगारुडखगे मां पाहि मीनाम्बिके ॥ ३॥  
   
 ब्रह्मेशाच्युतगीयमानचरिते प्रेतासनान्तस्थिते  
 पाशोदङ्कुशचापबाणकलिते बालेन्दुचूडाञ्चिते ।  
@@ -60,14 +60,14 @@ title = "मीनाक्षीस्तोत्रम् (शण्करा
 पूर्णे पूर्णकलाभिरामवदने मां पाहि मीनाम्बिके ॥ ७॥  
   
 शब्दब्रह्ममयी चराचरमयी ज्योतिर्मयी वाङ्मयी  
-नित्यानन्दमयी निरञ्जनमयी तत्त्वंमयी चिन्मयी ।  
+नित्यानन्दमयी निरञ्जनमयी तत्त्वम्मयी चिन्मयी ।  
 तत्त्वातीतमयी परात्परमयी मायामयी श्रीमयी  
 सर्वैश्वर्यमयी सदाशिवमयी मां पाहि मीनाम्बिके ॥ ८ ॥  
   
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-श्रीमच्छंकरभगवतः कृतौ  
-मीनाक्षीस्तोत्रं संपूर्णम् ॥  
+श्रीमच्छङ्करभगवतः कृतौ  
+मीनाक्षीस्तोत्रं सम्पूर्णम् ॥  
   
   
   

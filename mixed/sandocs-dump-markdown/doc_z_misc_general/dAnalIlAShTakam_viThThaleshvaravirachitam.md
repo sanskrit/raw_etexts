@@ -1,23 +1,23 @@
-+++
-"Text title" = "dAnalIlAShTakam"
-"File name" = "dAnalIlAShTakam.itx"
-itxtitle = "dAnalIlAShTakam (viThThaleshvaravirachitam)"
-engtitle = "dAnalIlAShTakam"
-Category = "misc, puShTimArgIya, aShTaka, viThThaleshvara"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "viThThaleshvara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दानलीलाष्टकम् (विठ्ठलेश्वरविरचितम्)"
+---
+Author: viThThaleshvara
+Category: misc, puShTimArgIya, aShTaka, viThThaleshvara
+Description/comments: puShTimArgIya stotraratnAkara
+File name: dAnalIlAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: dAnalIlAShTakam
+engtitle: dAnalIlAShTakam
+itxtitle: dAnalIlAShTakam (viThThaleshvaravirachitam)
+title: दानलीलाष्टकम् (विठ्ठलेश्वरविरचितम्)
 
-+++
+---
   
  दानलीलाष्टकम्   
   

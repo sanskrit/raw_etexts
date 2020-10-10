@@ -1,23 +1,24 @@
-+++
-"Text title" = "shrii subrahmaNyabhujaNgaprayaatastotraM 4"
-"File name" = "subrabhujanga4.itx"
-itxtitle = "subrahmaNyabhujaNgastotram 4 (subrahmaNya sudhAmayUkha, chandrashekharabhAratI virachitam)"
-engtitle = "subrahmaNyabhujaNgastotraM 4"
-Category = "subrahmanya, bhujanga, chandrashekharabhAratI, aShTaka"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Subcategory = "bhujanga"
-Author = "34th Acharya of Shringeri Sharada Peetham , HH Shri Chandrashekhara Bharati"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "G Vasanth gsathyaarumugam at gmail.com"
-"Proofread by" = "G Vasanth, NA"
-"Latest update" = "November 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यभुजण्गस्तोत्रम् ४ (सुब्रह्मण्य सुधामयूख, चन्द्रशेखरभारती विरचितम्)"
+---
+Author: 34th Acharya of Shringeri Sharada Peetham , HH Shri Chandrashekhara Bharati
+Category: subrahmanya, bhujanga, chandrashekharabhAratI, aShTaka
+File name: subrabhujanga4.itx
+Language: Sanskrit
+Latest update: November 17, 2018
+Location: doc_subrahmanya
+Proofread by: G Vasanth, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhujanga
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrii subrahmaNyabhujaNgaprayaatastotraM 4
+Transliterated by: G Vasanth gsathyaarumugam at gmail.com
+engtitle: subrahmaNyabhujaNgastotraM 4
+itxtitle: subrahmaNyabhujaNgastotram 4 (subrahmaNya sudhAmayUkha, chandrashekharabhAratI
+  virachitam)
+title: सुब्रह्मण्यभुजण्गस्तोत्रम् ४ (सुब्रह्मण्य सुधामयूख, चन्द्रशेखरभारती विरचितम्)
 
-+++
+---
   
  श्रीसुब्रह्मण्यभुजङ्गस्तोत्रम् ४   
 सुब्रह्मण्य सुधामयूखसुषमाहङ्कार हुङ्कारकृ-  

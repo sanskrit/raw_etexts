@@ -1,23 +1,23 @@
-+++
-"Text title" = "kRRiShNapuruShottamasiddhAntopaniShat"
-"File name" = "kRRiShNapuruShottamasiddhAntopaniShat.itx"
-itxtitle = "kRiShNapuruShottamasiddhAntopaniShat (vaiShNava)"
-engtitle = "kRRiShNapuruShottamasiddhAntopaniShat"
-Category = "upanishhat, vishhnu, upanishad, krishna"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णपुरुषोत्तमसिद्धान्तोपनिषत् (वैष्णव)"
+---
+Category: upanishhat, vishhnu, upanishad, krishna
+Description-comments: aprakAshitA upaniShadaH
+File name: kRRiShNapuruShottamasiddhAntopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: kRRiShNapuruShottamasiddhAntopaniShat
+engtitle: kRRiShNapuruShottamasiddhAntopaniShat
+itxtitle: kRiShNapuruShottamasiddhAntopaniShat (vaiShNava)
+title: कृइष्णपुरुषोत्तमसिद्धान्तोपनिषत् (वैष्णव)
 
-+++
+---
   
  श्रीकृष्णपुरुषोत्तमसिद्धान्तोपनिषत्   
 निरञ्जनो निराख्यातो निर्विकल्पो नमो नमः ।  
@@ -42,7 +42,7 @@ title = "कृइष्णपुरुषोत्तमसिद्धान�
 ``पुष्प एवेदं सर्वम्'' इत्येतत्पर्यन्तं अतीव विकला मातृकेति  
 सानुतापं यथास्थितं दीयते ऽ  
 जीवः जीवा अस्ताजीव्यामं सर्वमायुजीव्याप्तं (?) ।  
-लोदङ्कञ्चनङ्कांञ्चानु अमृतं न भवति (?) पारमधाराणि  
+लोदङ्कञ्चनङ्काञ्ञ्चानु अमृतं न भवति (?) पारमधाराणि  
 (परमधर्माणि) जातवेदाः प्रोवाचैवेदं सर्वम् । शिवशक्तिपशुजीवो  
 ब्रह्मा भक्तः पशुवत् (?) । यन्नत्यादेव परं श्रत्को परशिवः अन्या  
 अवतारातेहि व्यासवल्लश्रविठलेहरयस्तथा (?) । ललाटे ऊर्ध्वपुण्ड्रं  

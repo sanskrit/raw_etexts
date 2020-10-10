@@ -1,24 +1,24 @@
-+++
-"Text title" = "kAthabodhaH"
-"File name" = "kAthabodhaH.itx"
-itxtitle = "kAthabodhaH (santoShAnandavirachitaH)"
-engtitle = "kAthabodhaH"
-Category = "deities_misc, dattatreya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "santoShAnanda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Sanskrit-Hindi TIkA commentary)"
-"Latest update" = "August 25, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "काथबोधः (सन्तोषानन्दविरचितः)"
+---
+Author: santoShAnanda
+Category: deities_misc, dattatreya
+File name: kAthabodhaH.itx
+Indexextra: (Sanskrit-Hindi TIkA commentary)
+Language: Sanskrit
+Latest update: August 25, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: kAthabodhaH
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: kAthabodhaH
+itxtitle: kAthabodhaH (santoShAnandavirachitaH)
+title: काथबोधः (सन्तोषानन्दविरचितः)
 
-+++
+---
   
  काथबोधः   
 (दत्तात्रेयसम्प्रदायाऽनुगतः)  

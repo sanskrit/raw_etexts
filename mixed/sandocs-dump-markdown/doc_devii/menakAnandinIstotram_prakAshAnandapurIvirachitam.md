@@ -1,23 +1,23 @@
-+++
-"Text title" = "menakAnandinIstotram"
-"File name" = "menakAnandinIstotram.itx"
-itxtitle = "menakAnandinIstotram (prakAshAnandapurIvirachitam)"
-engtitle = "menakAnandinIstotram"
-Category = "devii, pArvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Madhura Bal madhurabal11 gmail.com"
-"Proofread by" = "Madhura Bal madhurabal11 gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "August 19, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मेनकानन्दिनीस्तोत्रम् (प्रकाशानन्दपुरीविरचितम्)"
+---
+Category: devii, pArvatI, devI
+File name: menakAnandinIstotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 19, 2018
+Location: doc_devii
+Proofread by: Madhura Bal madhurabal11 gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: menakAnandinIstotram
+Transliterated by: Madhura Bal madhurabal11 gmail.com
+engtitle: menakAnandinIstotram
+itxtitle: menakAnandinIstotram (prakAshAnandapurIvirachitam)
+title: मेनकानन्दिनीस्तोत्रम् (प्रकाशानन्दपुरीविरचितम्)
 
-+++
+---
   
  श्रीमेनकानन्दिनीस्तोत्रम्   
   

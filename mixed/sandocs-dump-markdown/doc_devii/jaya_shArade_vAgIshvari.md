@@ -1,24 +1,24 @@
-+++
-"Text title" = "Jaya Sharade Vagishvari"
-"File name" = "jayashAradevAgIshvari.itx"
-itxtitle = "jaya shArade vAgIshvari"
-engtitle = "Jaya Sharade Vagishvari"
-Category = "devii, sanskritgeet, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Marathi: Shanta Shelake, Sanskrit Rajendra Datar, Badalapur"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com"
-Indexextra = "(Audio YouTube)"
-"Latest update" = "July 8, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जय शारदे वागीश्वरि"
+---
+Author: 'Marathi: Shanta Shelake, Sanskrit Rajendra Datar, Badalapur'
+Category: devii, sanskritgeet, sarasvatI, devI
+File name: jayashAradevAgIshvari.itx
+Indexextra: (Audio YouTube)
+Language: Sanskrit
+Latest update: July 8, 2018
+Location: doc_devii
+Proofread by: Ganesh Kandu kanduganesh at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Jaya Sharade Vagishvari
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: Jaya Sharade Vagishvari
+itxtitle: jaya shArade vAgIshvari
+title: जय शारदे वागीश्वरि
 
-+++
+---
   
  श्रीशारदास्तवनम्   
   

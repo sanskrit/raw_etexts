@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Veda Vyasa Suprabhatam"
-"File name" = "vedavyAsasuprabhAtam.itx"
-itxtitle = "vedavyAsasuprabhAtam panchakam (vidyAratnAkaratIrthavirachitam)"
-engtitle = "vedavyAsasuprabhAtam"
-Category = "deities_misc, gurudev, suprabhAta, panchaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "vidyAratnAkaratIrtha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वेदव्याससुप्रभातम् पञ्चकम् (विद्यारत्नाकरतीर्थविरचितम्)"
+---
+Author: vidyAratnAkaratIrtha
+Category: deities_misc, gurudev, suprabhAta, panchaka
+File name: vedavyAsasuprabhAtam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Veda Vyasa Suprabhatam
+Transliterated by: Krishnananda Achar
+engtitle: vedavyAsasuprabhAtam
+itxtitle: vedavyAsasuprabhAtam panchakam (vidyAratnAkaratIrthavirachitam)
+title: वेदव्याससुप्रभातम् पञ्चकम् (विद्यारत्नाकरतीर्थविरचितम्)
 
-+++
+---
   
  श्रीवेदव्याससुप्रभातम्   
 श्रीमत्पराशरतपःफलवासवीसु  

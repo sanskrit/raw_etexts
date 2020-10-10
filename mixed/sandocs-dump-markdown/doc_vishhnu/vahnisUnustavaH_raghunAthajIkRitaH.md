@@ -1,24 +1,24 @@
-+++
-"Text title" = "vahnisUnustavaH"
-"File name" = "vahnisUnustavaH.itx"
-itxtitle = "vahnisUnustavaH (raghunAthajIkRitaH)"
-engtitle = "vahnisUnustavaH"
-Category = "vishhnu, krishna, puShTimArgIya, raghunAthajI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "raghunAthajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वह्निसूनुस्तवः (रघुनाथजीकृइतः)"
+---
+Author: raghunAthajI
+Category: vishhnu, krishna, puShTimArgIya, raghunAthajI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: vahnisUnustavaH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vahnisUnustavaH
+engtitle: vahnisUnustavaH
+itxtitle: vahnisUnustavaH (raghunAthajIkRitaH)
+title: वह्निसूनुस्तवः (रघुनाथजीकृइतः)
 
-+++
+---
   
  वह्निसूनुस्तवः   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "brahmAShTottarashatanAmAvaliH"
-"File name" = "brahmAShTottarashatanAmAvaliH.itx"
-itxtitle = "brahmAShTottarashatanAmAvaliH"
-engtitle = "brahmAShTottarashatanAmAvaliH"
-Category = "deities_misc, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Pandit Shri Rama Ramanuja Acharya, srimatham.com"
-"Latest update" = "June 20, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्माष्टोत्तरशतनामावलिः"
+---
+Acknowledge-Permission: Pandit Shri Rama Ramanuja Acharya, srimatham.com
+Category: deities_misc, aShTottarashatanAmAvalI, nAmAvalI
+File name: brahmAShTottarashatanAmAvaliH.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: June 20, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: brahmAShTottarashatanAmAvaliH
+engtitle: brahmAShTottarashatanAmAvaliH
+itxtitle: brahmAShTottarashatanAmAvaliH
+title: ब्रह्माष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीब्रह्माष्टोत्तरशतनामावलिः   
 ॐ ब्रह्मणे नमः । गायत्रीपतये । सावित्रीपतये । सरस्वतिपतये ।  

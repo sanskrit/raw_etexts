@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Venkateshvara Dvadashamanjarika Stotram"
-"File name" = "venkaTeshvaradvAdashapanjarikA.itx"
-itxtitle = "veNkaTeshvara dvAdashamanjarikAstotram"
-engtitle = "Shri Venkateshvara Dvadashamanjarika Stotram"
-Category = "vishhnu, venkateshwara, stotra, vishnu, panjara, dvAdasha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Latest update" = "July 21, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेश्वर द्वादशमञ्जरिकास्तोत्रम्"
+---
+Category: vishhnu, venkateshwara, stotra, vishnu, panjara, dvAdasha
+File name: venkaTeshvaradvAdashapanjarikA.itx
+Language: Sanskrit
+Latest update: July 21, 2012
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Venkateshvara Dvadashamanjarika Stotram
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Shri Venkateshvara Dvadashamanjarika Stotram
+itxtitle: veNkaTeshvara dvAdashamanjarikAstotram
+title: वेण्कटेश्वर द्वादशमञ्जरिकास्तोत्रम्
 
-+++
+---
   
  श्रीवेङ्कटेश्वर द्वादशमञ्जरिकास्तोत्रम्   
   

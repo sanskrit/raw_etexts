@@ -1,20 +1,20 @@
-+++
-"Text title" = "bilvAShTakam.h"
-"File name" = "bilvaashhtaka.itx"
-itxtitle = "bilvAShTakam"
-engtitle = "bilvAShtakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-"Transliterated by" = "Subramanian  Ganesh (sg at tulblr.unisys.com)"
-"Proofread by" = "Shree"
-"Latest update" = "January 21, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बिल्वाष्टकम्"
+---
+Category: aShTaka, shiva
+File name: bilvaashhtaka.itx
+Language: Sanskrit
+Latest update: January 21, 1998
+Location: doc_shiva
+Proofread by: Shree
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Sublocation: shiva
+Text title: bilvAShTakam.h
+Transliterated by: Subramanian  Ganesh (sg at tulblr.unisys.com)
+engtitle: bilvAShtakam
+itxtitle: bilvAShTakam
+title: बिल्वाष्टकम्
 
-+++
+---
   
  बिल्वाष्टक   
   

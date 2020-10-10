@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrimadbhAgavatAntargataM praNayagIta"
-"File name" = "praNayagIta.itx"
-itxtitle = "praNayagItam (bhAgavatAntargatam)"
-engtitle = "Pranayagita from Shrimadbhagavatam"
-Category = "gItam, giitaa, vyAsa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "maharShi vyAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Bhagavatam skanda 10 adhyAya 29"
-Indexextra = "(meaning 1 Bhagavatam 10.29)"
-"Latest update" = "November 10, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रणयगीतम् (भागवतान्तर्गतम्)"
+---
+Author: maharShi vyAsa
+Category: gItam, giitaa, vyAsa
+Description-comments: Bhagavatam skanda 10 adhyAya 29
+File name: praNayagIta.itx
+Indexextra: (meaning 1 Bhagavatam 10.29)
+Language: Sanskrit
+Latest update: November 10, 2012
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: shrimadbhAgavatAntargataM praNayagIta
+engtitle: Pranayagita from Shrimadbhagavatam
+itxtitle: praNayagItam (bhAgavatAntargatam)
+title: प्रणयगीतम् (भागवतान्तर्गतम्)
 
-+++
+---
   
  श्रीमद्भागवतान्तर्गतं प्रणयगीतम्   
   

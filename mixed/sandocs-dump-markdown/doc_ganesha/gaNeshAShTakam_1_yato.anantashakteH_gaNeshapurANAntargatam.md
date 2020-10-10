@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ganesha Ashtaka"
-"File name" = "gaNeshAShTakam.itx"
-itxtitle = "gaNeshAShTakam 1 (yato.anantashakteH, gaNeshapurANAntargatam)"
-engtitle = "gaNeshAShTakam"
-Category = "aShTaka, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010, BSR Shivdutta"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशाष्टकम् १ (यतोऽनन्तशक्तेः, गणेशपुराणान्तर्गतम्)"
+---
+Category: aShTaka, ganesha
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: gaNeshAShTakam.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_ganesha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010, BSR Shivdutta
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha Ashtaka
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: gaNeshAShTakam
+itxtitle: gaNeshAShTakam 1 (yato.anantashakteH, gaNeshapurANAntargatam)
+title: गणेशाष्टकम् १ (यतोऽनन्तशक्तेः, गणेशपुराणान्तर्गतम्)
 
-+++
+---
   
  गणेशाष्टकम्   
 यतोऽनन्तशक्तेरनन्ताश्च जीवा  

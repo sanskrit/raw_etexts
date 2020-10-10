@@ -1,23 +1,23 @@
-+++
-"Text title" = "viShNupUjAstotram"
-"File name" = "viShNupUjAstotram.itx"
-itxtitle = "viShNupUjAstotram"
-engtitle = "viShNupUjAstotram"
-Category = "vishhnu, pUjA"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुपूजास्तोत्रम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, pUjA
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viShNupUjAstotram.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNupUjAstotram
+engtitle: viShNupUjAstotram
+itxtitle: viShNupUjAstotram
+title: विष्णुपूजास्तोत्रम्
 
-+++
+---
   
  श्रीविष्णुपूजास्तोत्रम्   
   
@@ -44,7 +44,7 @@ title = "विष्णुपूजास्तोत्रम्"
 अर्ध्यं गृहाणाश्रितपारिजात श्रिया सहाम्भोजदलायताक्ष ॥ ६॥  
   
 तीर्थोदकं गाङ्गमिदं हि विष्णो त्रिविक्रमानन्त मया निवेदितम् ।  
-दध्याज्ययुक्तं मधुपर्कसंज्ञं गृहाण देवेश यथाक्रमेण ॥ ७॥  
+दध्याज्ययुक्तं मधुपर्कसञ्ज्ञं गृहाण देवेश यथाक्रमेण ॥ ७॥  
   
 आकल्पसंशोभितदिव्यगात्र राकेन्दुनीकाशमुखारविन्द ।  
 दत्तं मया चाचमनं गृहाण श्रीकेशवानन्त धरारिदारिन् ॥ ८॥  

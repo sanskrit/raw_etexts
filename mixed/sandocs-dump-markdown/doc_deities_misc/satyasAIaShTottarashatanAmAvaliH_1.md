@@ -1,28 +1,28 @@
-+++
-"Text title" = "Satya Sai Baba Ashtottarashatanamavali (1) 108 names offerings"
-"File name" = "satyasAIaShTottarashatanAmAvaliH.itx"
-itxtitle = "satyasAIaShTottarashatanAmAvaliH 1"
-engtitle = "satyasAIaShTottarashatanAmAvaliH 1"
-Category = "aShTottarashatanAmAvalI, deities_misc, nAmAvalI, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-"Translated by" = "Online source"
-Indexextra = "(Info)"
-"Latest update" = "June 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सत्यसाईअष्टोत्तरशतनामावलिः १"
+---
+Category: aShTottarashatanAmAvalI, deities_misc, nAmAvalI, gurudev
+File name: satyasAIaShTottarashatanAmAvaliH.itx
+Indexextra: (Info)
+Language: Sanskrit
+Latest update: June 16, 2019
+Location: doc_deities_misc
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Satya Sai Baba Ashtottarashatanamavali (1) 108 names offerings
+Translated by: Online source
+Transliterated by: NA
+engtitle: satyasAIaShTottarashatanAmAvaliH 1
+itxtitle: satyasAIaShTottarashatanAmAvaliH 1
+title: सत्यसाईअष्टोत्तरशतनामावलिः १
 
-+++
+---
   
  श्रीसत्यसाईं अष्टोत्तरशतनामावलिः १   
 अथ श्रीसत्यसाईं अष्टोत्तरनामावलिः ।  
-ॐ श्री साईं सत्यसाईंबाबाय नमः ।  
+ॐ श्री साईं सत्यसाईम्बाबाय नमः ।  
 ॐ श्री साईं सत्यस्वरूपाय नमः ।  
 ॐ श्री साईं सत्यधर्मपरायणाय नमः ।  
 ॐ श्री साईं वरदाय नमः ।  
@@ -129,7 +129,7 @@ title = "सत्यसाईअष्टोत्तरशतनामाव�
 ॐ श्री साईं आर्तिहराय नमः ।  
 ॐ श्री साईं शान्तमूर्तये नमः ।  
 ॐ श्री साईं सुलभप्रसन्नाय नमः ।  
-ॐ श्री साईं भगवान् श्रीसत्यसाईंबाबाय नमः ॥ १०८  
+ॐ श्री साईं भगवान् श्रीसत्यसाईम्बाबाय नमः ॥ १०८  
   
 इति श्रीसत्यसाईं अष्टोत्तरशतनामावलिः समाप्ता ।  
 cहप्तेर्  

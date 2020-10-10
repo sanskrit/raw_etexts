@@ -1,23 +1,23 @@
-+++
-"Text title" = "shukrastavarAjastotram"
-"File name" = "shukrastavarAja.itx"
-itxtitle = "shukrastavarAjastotram"
-engtitle = "Shukra Stava"
-Category = "stavarAja, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com, Vineet Menon"
-"Proofread by" = "Sunder Hattangadi, Vineet Menon"
-Source = "brahmayAmalatantra"
-"Latest update" = "April 3, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शुक्रस्तवराजस्तोत्रम्"
+---
+Category: stavarAja, navagraha, stotra
+File name: shukrastavarAja.itx
+Language: Sanskrit
+Latest update: April 3, 2016
+Location: doc_z_misc_navagraha
+Proofread by: Sunder Hattangadi, Vineet Menon
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: brahmayAmalatantra
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shukrastavarAjastotram
+Texttype: stotra
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com, Vineet Menon
+engtitle: Shukra Stava
+itxtitle: shukrastavarAjastotram
+title: शुक्रस्तवराजस्तोत्रम्
 
-+++
+---
   
  शुक्रस्तवराजः   
 अस्य श्रीशुक्रस्तवराजस्य प्रजापतिः ऋषिः अनुष्टुप् छन्दः  

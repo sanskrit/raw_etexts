@@ -1,24 +1,24 @@
-+++
-"Text title" = "raadhopaniShadokta Raadhaanaamaani"
-"File name" = "raadhaarigvediiya.itx"
-itxtitle = "rAdhAnAmAni rAdhopaniShadAntargatA"
-engtitle = "rAdhopaniShadokta RAdhAnAmAni"
-Category = "devii, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Daniel Mohanpersad"
-"Proofread by" = "Daniel Mohanpersad"
-"Translated by" = "-"
-Description-comments = "source : brahmavaivarta puraaNa"
-"Latest update" = "December 19, 2002"
-"Send corrections to" = "danielmohanpersad98@msn.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधानामानि राधोपनिषदान्तर्गता"
+---
+Category: devii, radha, devI
+Description-comments: 'source : brahmavaivarta puraaNa'
+File name: raadhaarigvediiya.itx
+Language: Sanskrit
+Latest update: December 19, 2002
+Location: doc_devii
+Proofread by: Daniel Mohanpersad
+Send corrections to: danielmohanpersad98@msn.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: hinduism/religion
+Sublocation: devii
+Text title: raadhopaniShadokta Raadhaanaamaani
+Translated by: '-'
+Transliterated by: Daniel Mohanpersad
+engtitle: rAdhopaniShadokta RAdhAnAmAni
+itxtitle: rAdhAnAmAni rAdhopaniShadAntargatA
+title: राधानामानि राधोपनिषदान्तर्गता
 
-+++
+---
   
  राधोपनिषदोक्त ऱाधानामानि   
   

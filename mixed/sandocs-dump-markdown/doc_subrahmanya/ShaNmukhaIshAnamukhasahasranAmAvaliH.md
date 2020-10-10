@@ -1,22 +1,22 @@
-+++
-"Text title" = "ShaNmukhaIshAnamukhasahasranAmAvalI"
-"File name" = "ShaNmukhaIshAnamukhasahasranAmAvalI.itx"
-itxtitle = "ShaNmukhaIshAnamukhasahasranAmAvaliH"
-engtitle = "ShaNmukhaIshAnamukhasahasranAmAvaliH"
-Category = "sahasranAmAvalI, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-Description-comments = "Subrahmanya stuti manjari p259+, pratimukhashaNmukasahasranAmAvalI"
-"Latest update" = "November 2, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षण्मुखईशानमुखसहस्रनामावलिः"
+---
+Category: sahasranAmAvalI, subrahmanya
+Description-comments: Subrahmanya stuti manjari p259+, pratimukhashaNmukasahasranAmAvalI
+File name: ShaNmukhaIshAnamukhasahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: November 2, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: ShaNmukhaIshAnamukhasahasranAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: ShaNmukhaIshAnamukhasahasranAmAvaliH
+itxtitle: ShaNmukhaIshAnamukhasahasranAmAvaliH
+title: षण्मुखईशानमुखसहस्रनामावलिः
 
-+++
+---
   
  श्रीषण्मुख अथवा ईशानमुखसहस्रनामावलिः १   
   

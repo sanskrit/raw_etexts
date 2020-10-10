@@ -1,22 +1,22 @@
-+++
-"Text title" = "nAradopaniShat"
-"File name" = "nAradopaniShat.itx"
-itxtitle = "nAradopaniShat (vaiShNava)"
-engtitle = "nAradopaniShat"
-Category = "upanishhat, vishhnu, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारदोपनिषत् (वैष्णव)"
+---
+Category: upanishhat, vishhnu, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: nAradopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: nAradopaniShat
+engtitle: nAradopaniShat
+itxtitle: nAradopaniShat (vaiShNava)
+title: नारदोपनिषत् (वैष्णव)
 
-+++
+---
   
  नारदोपनिषत्   
 अथ प्रणिपत्य नारदो ब्रह्माणं प्रायुङ्क्त । अधीहि भगवन्मे  

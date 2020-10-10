@@ -1,23 +1,23 @@
-+++
-"Text title" = "tattvasamaasa"
-"File name" = "tattvasamaasa.itx"
-itxtitle = "tattvasamAsam (kapilamunipraNItam)"
-engtitle = "kapilamunipraNIta tattvasamAsa"
-Category = "vedanta, yoga"
-Location = "doc_yoga"
-Sublocation = "yoga"
-Author = "Muni Kapila"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Haresh Bakshi hareshbakshi at hotmail.com"
-"Proofread by" = "Haresh Bakshi hareshbakshi at hotmail.com"
-Indexextra = "(kapilamuni)"
-"Latest update" = "February 6, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तत्त्वसमासम् (कपिलमुनिप्रणीतम्)"
+---
+Author: Muni Kapila
+Category: vedanta, yoga
+File name: tattvasamaasa.itx
+Indexextra: (kapilamuni)
+Language: Sanskrit
+Latest update: February 6, 2003
+Location: doc_yoga
+Proofread by: Haresh Bakshi hareshbakshi at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: yoga
+Text title: tattvasamaasa
+Transliterated by: Haresh Bakshi hareshbakshi at hotmail.com
+engtitle: kapilamunipraNIta tattvasamAsa
+itxtitle: tattvasamAsam (kapilamunipraNItam)
+title: तत्त्वसमासम् (कपिलमुनिप्रणीतम्)
 
-+++
+---
   
  कपिलमुनिप्रणीत तत्त्वसमास   
   

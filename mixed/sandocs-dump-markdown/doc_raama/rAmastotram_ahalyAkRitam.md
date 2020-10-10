@@ -1,25 +1,25 @@
-+++
-"Text title" = "ahalyAkRitaM rAmastotram"
-"File name" = "ahalyaaraamstotra.itx"
-itxtitle = "rAmastotram (ahalyAkRitam)"
-engtitle = "ahalyAkRitaM rAmastotram"
-Category = "raama, stotra"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "ahalyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "adhyAtmarAmAyaNa sarga 5, shloka 43-65"
-Indexextra = "(Gita Press)"
-"Latest update" = "August 5, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामस्तोत्रम् (अहल्याकृइतम्)"
+---
+Author: ahalyA
+Category: raama, stotra
+Description-comments: adhyAtmarAmAyaNa sarga 5, shloka 43-65
+File name: ahalyaaraamstotra.itx
+Indexextra: (Gita Press)
+Language: Sanskrit
+Latest update: August 5, 2015
+Location: doc_raama
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: ahalyAkRitaM rAmastotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: ahalyAkRitaM rAmastotram
+itxtitle: rAmastotram (ahalyAkRitam)
+title: रामस्तोत्रम् (अहल्याकृइतम्)
 
-+++
+---
   
  श्रीरामस्तोत्रं अहल्याकृतम्   
   
@@ -43,7 +43,7 @@ title = "रामस्तोत्रम् (अहल्याकृइतम
 यस्यावतारचरितानि विरिञ्चिलोके गायन्ति नारदमुखा भवपद्मजाद्याः ।  
 आनन्दजाश्रुपरिषिक्तकुचाग्रसीमा वागीश्वरी च तमहं शरणं प्रपद्ये ॥ ६॥  
   
-सोऽयं परात्मा पुरुषः पुराण एषः स्वयंज्योतिरनन्त आद्यः । var  एकः  
+सोऽयं परात्मा पुरुषः पुराण एषः स्वयञ्ज्योतिरनन्त आद्यः । var  एकः  
 मायातनुं लोकविमोहनीयां धत्ते परानुग्रह एष रामः ॥ ७॥  
   
 अयं हि विश्वोद्भवसंयमानामेकः स्वमायागुणबिम्बितो यः ।  
@@ -55,7 +55,7 @@ title = "रामस्तोत्रम् (अहल्याकृइतम
 जगतामादिभूतस्त्वं जगत्त्वं जगदाश्रयः ।  
 सर्वभूतेष्वसंयुक्त एको भाति भवान्परः ॥ १०॥  
   
-ओंकारवाच्यस्त्वं राम वाचामविषयः पुमान् ।  
+ओङ्कारवाच्यस्त्वं राम वाचामविषयः पुमान् ।  
 वाच्यवाचकभेदेन भवानेव जगन्मयः ॥ ११॥  
   
 कार्यकारणकर्तृत्वफलसाधनभेदतः ।  

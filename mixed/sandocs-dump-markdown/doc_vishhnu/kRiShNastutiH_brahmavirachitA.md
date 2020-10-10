@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRRiShNastutiH brahma"
-"File name" = "kRRiShNastutiHbrahma.itx"
-itxtitle = "kRiShNastutiH (brahmavirachitA)"
-engtitle = "kRRiShNastutiH brahma"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तुतिः (ब्रह्मविरचिता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, krishna
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: kRRiShNastutiHbrahma.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNastutiH brahma
+engtitle: kRRiShNastutiH brahma
+itxtitle: kRiShNastutiH (brahmavirachitA)
+title: कृइष्णस्तुतिः (ब्रह्मविरचिता)
 
-+++
+---
   
  श्रीकृष्णस्तुतिःब्रह्म   
   
@@ -106,7 +106,7 @@ title = "कृइष्णस्तुतिः (ब्रह्मविरच
 आत्मानमेवात्मतयाऽविजानतां तेनैव जातं निखिलं प्रपञ्चितम् ।  
 ज्ञानेन भूयोऽपि च तत्प्रलीयते रज्ज्वामहेर्भोगभवाभवौ यथा ॥ २५॥  
   
-अज्ञानसंज्ञौ भवबन्धमोक्षौ द्वौ नाम नान्यौ स्त ऋतज्ञभावात् ।  
+अज्ञानसञ्ज्ञौ भवबन्धमोक्षौ द्वौ नाम नान्यौ स्त ऋतज्ञभावात् ।  
 अजस्रचित्याऽऽत्मनि केवले परे विचार्यमाणे तरणाविवाहनी ॥ २६॥  
   
 त्वामात्मानं परं मत्वा परमात्मानमेव च ।  

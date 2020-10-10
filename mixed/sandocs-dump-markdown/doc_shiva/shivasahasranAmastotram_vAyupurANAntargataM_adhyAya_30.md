@@ -1,24 +1,25 @@
-+++
-"Text title" = "shivasahasranAmastotra vAyupurANe adhyAya 30"
-"File name" = "shivasahasranAmastotravAyupurANa.itx"
-itxtitle = "shivasahasranAmastotram (vAyupurANAntargataM adhyAya 30)"
-engtitle = "Shri Shivasahasranamastotra from Vayupurana Adhyaya 30"
-Category = "sahasranAma, shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion  Adhyaya 30 starting at verse 180.  This shivasahasranAma stotra is  referenced in Purana Index for sahasranAmastotra."
-"Transliterated by" = "Independently by Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "NA"
-Description-comments = "Available at http://sa.wikisource.org Vayupurana"
-Indexextra = "(thesis)"
-"Latest update" = "March 3, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसहस्रनामस्तोत्रम् (वायुपुराणान्तर्गतं अध्याय ३०)"
+---
+Category: sahasranAma, shiva, stotra
+Description-comments: Available at http://sa.wikisource.org Vayupurana
+File name: shivasahasranAmastotravAyupurANa.itx
+Indexextra: (thesis)
+Language: Sanskrit
+Latest update: March 3, 2014
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion  Adhyaya 30 starting at verse 180.  This shivasahasranAma
+  stotra is  referenced in Purana Index for sahasranAmastotra.
+Sublocation: shiva
+Text title: shivasahasranAmastotra vAyupurANe adhyAya 30
+Texttype: stotra
+Transliterated by: Independently by Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: Shri Shivasahasranamastotra from Vayupurana Adhyaya 30
+itxtitle: shivasahasranAmastotram (vAyupurANAntargataM adhyAya 30)
+title: शिवसहस्रनामस्तोत्रम् (वायुपुराणान्तर्गतं अध्याय ३०)
 
-+++
+---
   
  श्रीशिवसहस्रनामस्तोत्रं वायुपुराणे अध्याय ३०   
   

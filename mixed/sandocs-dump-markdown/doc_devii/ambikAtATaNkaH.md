@@ -1,21 +1,21 @@
-+++
-"Text title" = "ambikAtATankaH"
-"File name" = "ambikAtATankaH.itx"
-itxtitle = "ambikAtATaNkaH"
-engtitle = "ambikAtATankaH"
-Category = "devii, devI, jaina"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अम्बिकाताटण्कः"
+---
+Category: devii, devI, jaina
+File name: ambikAtATankaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ambikAtATankaH
+engtitle: ambikAtATankaH
+itxtitle: ambikAtATaNkaH
+title: अम्बिकाताटण्कः
 
-+++
+---
   
  अम्बिकाताटङ्कः   
 सिंहारूढा सुतयुगविभूषिता कम्रनम्रमध्यगता ।  

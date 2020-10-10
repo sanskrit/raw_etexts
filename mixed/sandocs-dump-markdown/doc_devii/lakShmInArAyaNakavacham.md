@@ -1,26 +1,26 @@
-+++
-"Text title" = "lakShmInArAyaNakavacham"
-"File name" = "lakShmInArAyaNakavacham.itx"
-itxtitle = "lakShmInArAyaNakavacham"
-engtitle = "lakShmInArAyaNakavacham"
-Category = "kavacha, devii, lakShmI, narayana, devI, vishhnu"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Subcategory = "vishhnu"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale devIrahasye"
-Indexextra = "(NONENONE)"
-"Latest update" = "June, 17, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनारायणकवचम्"
+---
+Author: Traditional
+Category: kavacha, devii, lakShmI, narayana, devI, vishhnu
+Description-comments: rudrayAmale devIrahasye
+File name: lakShmInArAyaNakavacham.itx
+Indexextra: (NONENONE)
+Language: Sanskrit
+Latest update: June, 17, 2006
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subcategory: vishhnu
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmInArAyaNakavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: lakShmInArAyaNakavacham
+itxtitle: lakShmInArAyaNakavacham
+title: लक्ष्मीनारायणकवचम्
 
-+++
+---
   
  श्रीलक्ष्मीनारायणकवचम्   
   
@@ -113,7 +113,7 @@ title = "लक्ष्मीनारायणकवचम्"
   
 ॐॐॐरणराजचौररिपुतः पायाच्च मां केशवः  
 ह्रींह्रींह्रींहह्हाह्सौः ह्सह्सौः वह्नेर्वतान्माधवः ।  
-ह्रींह्रींह्रींजलपर्वताग्निभयतः पायादनन्तो विभुः  
+ह्रींह्रींह्रीञ्जलपर्वताग्निभयतः पायादनन्तो विभुः  
 श्रींश्रींश्रींशशशाललं प्रतिदिनं लक्ष्मीधवः पातु माम् ॥ २७॥  
   
 इतीदं कवचं दिव्यं वज्रपञ्जरकाभिधम् ।  

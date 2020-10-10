@@ -1,23 +1,23 @@
-+++
-"Text title" = "chintAmaNiShaTpadI"
-"File name" = "chintAmaNi6.itx"
-itxtitle = "chintAmaNiShaTpadI"
-engtitle = "chintAmaNiShaTpadI"
-Category = "ShaTkam, ganesha, ShaTpadI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)"
-"Proofread by" = "Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)"
-Description-comments = "mudgalapurANa"
-"Latest update" = "January 2, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चिन्तामणिषट्पदी"
+---
+Author: Traditional
+Category: ShaTkam, ganesha, ShaTpadI
+Description-comments: mudgalapurANa
+File name: chintAmaNi6.itx
+Language: Sanskrit
+Latest update: January 2, 2004
+Location: doc_ganesha
+Proofread by: Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: chintAmaNiShaTpadI
+Transliterated by: Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)
+engtitle: chintAmaNiShaTpadI
+itxtitle: chintAmaNiShaTpadI
+title: चिन्तामणिषट्पदी
 
-+++
+---
   
  चिन्तामणिषट्पदी   
   

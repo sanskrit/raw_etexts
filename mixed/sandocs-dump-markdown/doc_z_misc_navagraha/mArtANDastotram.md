@@ -1,20 +1,20 @@
-+++
-"Text title" = "Shri Martanda Stotram"
-"File name" = "mArtANDastotram.itx"
-itxtitle = "mArtANDastotram"
-engtitle = "mArtANDastotram"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "मार्ताण्डस्तोत्रम्"
+---
+Category: navagraha
+File name: mArtANDastotram.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Shri Martanda Stotram
+engtitle: mArtANDastotram
+itxtitle: mArtANDastotram
+title: मार्ताण्डस्तोत्रम्
 
-+++
+---
   
  श्रीमार्ताण्डस्तोत्रम्   
 गाढान्तकारहरणाय जगद्धिताय  
@@ -27,7 +27,7 @@ title = "मार्ताण्डस्तोत्रम्"
 सौवर्णरत्नमकुटाय विकर्तनाय  
 सूर्याय तीव्रकिरणाय नमो नमस्ते ॥  
   
-संज्ञावधूहृदयपङ्कजषट्पदाय  
+सञ्ज्ञावधूहृदयपङ्कजषट्पदाय  
 गौरीशपङ्कजभवाच्युतविग्रहाय ।  
 लोकेक्षणाय तपनाय दिवाकराय  
 सूर्याय तीव्रकिरणाय नमो नमस्ते ॥  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Paduka Panchakam by Shiva"
-"File name" = "pAdukApanchakamshivoktam.itx"
-itxtitle = "pAdukApanchakaM shivoktam"
-engtitle = "pAdukApanchakamshivoktam"
-Category = "deities_misc, gurudev, panchaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Prabha Maruvada pvmaruvada at gmail.com"
-"Proofread by" = "Prabha Maruvada"
-Indexextra = "(Scan, variation)"
-"Latest update" = "May 8, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "पादुकापञ्चकं शिवोक्तम्"
+---
+Category: deities_misc, gurudev, panchaka
+File name: pAdukApanchakamshivoktam.itx
+Indexextra: (Scan, variation)
+Language: Sanskrit
+Latest update: May 8, 2020
+Location: doc_deities_misc
+Proofread by: Prabha Maruvada
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Paduka Panchakam by Shiva
+Transliterated by: Prabha Maruvada pvmaruvada at gmail.com
+engtitle: pAdukApanchakamshivoktam
+itxtitle: pAdukApanchakaM shivoktam
+title: पादुकापञ्चकं शिवोक्तम्
 
-+++
+---
   
  शिवोक्तं पादुकापञ्चकं   
 ब्रह्मरन्ध्रसरसीरुहोदरे  

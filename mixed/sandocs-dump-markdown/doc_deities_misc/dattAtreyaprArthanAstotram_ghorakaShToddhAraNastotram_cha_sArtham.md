@@ -1,25 +1,25 @@
-+++
-"Text title" = "ghorakaShTodhAraNastotra"
-"File name" = "ghorakaShTodhAraNastotra.itx"
-itxtitle = "dattAtreyaprArthanAstotram ghorakaShToddhAraNastotram cha (sArtham)"
-engtitle = "ghora kaShToddhAraNa stotram with meaning"
-Category = "deities_misc, dattatreya, stotra, vAsudevAnanda-sarasvatI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Texttype = "stotra"
-Author = "Swami Vasudevananda Saraswati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hatttangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hatttangadi, Narendra Kapre and Avinash Sathaye"
-Indexextra = "(handwritten)"
-"Latest update" = "August 11, 2007, June 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयप्रार्थनास्तोत्रम् घोरकष्टोद्धारणस्तोत्रम् च (सार्थम्)"
+---
+Author: Swami Vasudevananda Saraswati
+Category: deities_misc, dattatreya, stotra, vAsudevAnanda-sarasvatI
+File name: ghorakaShTodhAraNastotra.itx
+Indexextra: (handwritten)
+Language: Sanskrit
+Latest update: August 11, 2007, June 18, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hatttangadi, Narendra Kapre and Avinash Sathaye
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: ghorakaShTodhAraNastotra
+Texttype: stotra
+Transliterated by: Sunder Hatttangadi sunderh at hotmail.com
+engtitle: ghora kaShToddhAraNa stotram with meaning
+itxtitle: dattAtreyaprArthanAstotram ghorakaShToddhAraNastotram cha (sArtham)
+title: दत्तात्रेयप्रार्थनास्तोत्रम् घोरकष्टोद्धारणस्तोत्रम् च (सार्थम्)
 
-+++
+---
   
  घोर कष्टोद्धारणस्तोत्रम्   
   
@@ -68,8 +68,8 @@ has no desires / desireless) and Save us (deliver us, rescue
 us, extricate us) from awful, (hurtful, painful) difficulties.  
 We bow down unto you.   
   
-धर्मे प्रीतिं सन्मतिं देवभक्तिम् । सत्संगाप्तिं देहि भुक्तिं च मुक्तिम् ।  
-भावासक्तिं चाखिलानंदमूर्ते । घोरात्कष्टादुद्धरास्मान्नमस्ते ॥ ५॥  
+धर्मे प्रीतिं सन्मतिं देवभक्तिम् । सत्सङ्गाप्तिं देहि भुक्तिं च मुक्तिम् ।  
+भावासक्तिं चाखिलानन्दमूर्ते । घोरात्कष्टादुद्धरास्मान्नमस्ते ॥ ५॥  
   
 Hey Akhilanandmurte Deva, (one whose very nature is of  
 complete joy) grant us , love towards Dharma, Bhakti, and  
@@ -81,7 +81,7 @@ our desires.  Save us (deliver us, rescue us, extricate us)
 from awful, (hurtful, painful) difficulties.  We bow down unto  
 you.   
   
-श्लोकपंचकमेततद्यो लोकमङ्गलवर्धनम् ।  
+श्लोकपञ्चकमेततद्यो लोकमङ्गलवर्धनम् ।  
 प्रपठेन्नियतो भक्त्या स श्रीदत्तप्रियो भवेत् ॥  
   
 All these five shlokas (couplets) one who recites or chants  

@@ -3,7 +3,6 @@ title: 113 Keeping Rama s sandals on his head Bharata ascends his chariot
 title_english: 113 Keeping Rama s sandals on his head Bharata ascends his chariot
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-113-Bharathasya_Prathi_Nivartham.mp3"></div>
 
 ततः शिरसि कृत्वा तु पादुके भरतः तदा ।  
@@ -50,7 +49,7 @@ title_english: 113 Keeping Rama s sandals on his head Bharata ascends his chario
 ददृशुः ताम् पुनः सर्वे गन्गाम् शिव जलाम् नदीम् ॥ २-११३-२१  
 ताम् रम्य जल सम्पूर्णाम् सम्तीर्य सह बान्धवः ।  
 शृन्ग वेर पुरम् रम्यम् प्रविवेश ससैनिकः ॥ २-११३-२२  
-शृन्ग वेर पुराद् भूय अयोध्याम् संददर्श ह ।  
+शृन्ग वेर पुराद् भूय अयोध्याम् सन्ददर्श ह ।  
 अयोध्याम् च ततो दृष्ट्वा पित्रा भ्रात्रा विवर्जिताम् ।  
 भरतो दुह्ख सम्तप्तः सारथिम् च इदम् अब्रवीत् ॥ २-११३-२३  
 सारथे पश्य विध्वस्ता अयोध्या न प्रकाशते ।  

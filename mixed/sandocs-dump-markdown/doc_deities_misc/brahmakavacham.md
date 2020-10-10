@@ -1,21 +1,21 @@
-+++
-"Text title" = "brahmakavacham"
-"File name" = "brahmakavacham.itx"
-itxtitle = "brahmakavacham"
-engtitle = "brahmakavacham"
-Category = "deities_misc, kavacha"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "December 25, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मकवचम्"
+---
+Category: deities_misc, kavacha
+File name: brahmakavacham.itx
+Language: Sanskrit
+Latest update: December 25, 2018
+Location: doc_deities_misc
+Proofread by: Ganesh Kandu, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: brahmakavacham
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: brahmakavacham
+itxtitle: brahmakavacham
+title: ब्रह्मकवचम्
 
-+++
+---
   
  श्रीब्रह्मकवचम्   
 ॐ श्रीब्रह्मणे नमः ।  

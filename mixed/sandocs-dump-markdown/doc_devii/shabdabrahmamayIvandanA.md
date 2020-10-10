@@ -1,24 +1,24 @@
-+++
-"Text title" = "shabdabrahmamayIvandanA"
-"File name" = "shabdabrahmamayIvandanA.itx"
-itxtitle = "shabdabrahmamayIvandanA"
-engtitle = "shabdabrahmamayIvandanA"
-Category = "devii, otherforms, sadAshivabrahmendra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Author = "svAmI sadAshiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Translated by" = "DPD"
-"Latest update" = "April 17, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शब्दब्रह्ममयीवन्दना"
+---
+Author: svAmI sadAshiva
+Category: devii, otherforms, sadAshivabrahmendra, devI
+File name: shabdabrahmamayIvandanA.itx
+Language: Sanskrit
+Latest update: April 17, 2016
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shabdabrahmamayIvandanA
+Translated by: DPD
+Transliterated by: DPD
+engtitle: shabdabrahmamayIvandanA
+itxtitle: shabdabrahmamayIvandanA
+title: शब्दब्रह्ममयीवन्दना
 
-+++
+---
   
  शब्दब्रह्म वन्दना   
   
@@ -39,12 +39,12 @@ to thee and pray that my mind and intellect be absorbed forever in thee !
   
   
 अर्थ (गुजराती)  
-जे नित्य आनंदमयी छे, सदा कल्याणकारी छे, सदा शान्ति आपनारी छे,  
+जे नित्य आनन्दमयी छे, सदा कल्याणकारी छे, सदा शान्ति आपनारी छे,  
 शब्दब्रह्मस्वरूपिणी छे, परा एटले श्रेष्ठमां श्रेष्ठ छे, परम  
 ज्ञानस्वरूपिणी छे, एक छतां अनेक रूप धारण करनारी छे, परम  
-अणुमयी होवाथी अति सूक्ष्म छे, अने सत् चित् आनंदस्वरूपिणी छे, एवी  
-जे सांभळवामां मध जेम मीठाशवाळी भगवती ᳚श्री श्रुति᳚ छे,  
-तेनी हुं वंदना करुं छुं के मारा मन अने बुद्धिमां एकरस थइने  
+अणुमयी होवाथी अति सूक्ष्म छे, अने सत् चित् आनन्दस्वरूपिणी छे, एवी  
+जे साम्भळवामां मध जेम मीठाशवाळी भगवती ᳚श्री श्रुति᳚ छे,  
+तेनी हुं वन्दना करुं छुं के मारा मन अने बुद्धिमां एकरस थइने  
 रमी जाय।                                   स्वामी सदाशिव  
   
   

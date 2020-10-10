@@ -1,25 +1,27 @@
-+++
-"Text title" = "chandra aShTottarashatanaamavaliH"
-"File name" = "chandra108.itx"
-itxtitle = "chandrAShTottarashatanAmAvalI"
-engtitle = "chandra aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, navagraha, nAmAvalI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com)"
-"Proofread by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef  Eichler DetlefEichler at gmx.net, Sunder Hattangadi, PSA Easwaran"
-Description-comments = "108 names for chandra"
-Source = "Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal, Published by VIDVATH SABHA, Chennai - 600073"
-Indexextra = "(108 names)"
-"Latest update" = "Jan 25, 1998, June 3, 2007, May 26, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्राष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, navagraha, nAmAvalI
+Description-comments: 108 names for chandra
+File name: chandra108.itx
+Indexextra: (108 names)
+Language: Sanskrit
+Latest update: Jan 25, 1998, June 3, 2007, May 26, 2014
+Location: doc_z_misc_navagraha
+Proofread by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef  Eichler DetlefEichler
+  at gmx.net, Sunder Hattangadi, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal,
+  Published by VIDVATH SABHA, Chennai - 600073
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: chandra aShTottarashatanaamavaliH
+Texttype: nAmAvalI
+Transliterated by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com)
+engtitle: chandra aShTottarashatanAmAvalI
+itxtitle: chandrAShTottarashatanAmAvalI
+title: चन्द्राष्टोत्तरशतनामावली
 
-+++
+---
   
  चन्द्राष्टोत्तरशतनामावली   
 चन्द्र बीज मन्त्र -   

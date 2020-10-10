@@ -1,22 +1,22 @@
-+++
-"Text title" = "upashAntyaShTakam"
-"File name" = "upashAntyaShTakam.itx"
-itxtitle = "upashAntyaShTakam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "upashAntyaShTakam"
-Category = "misc, vedanta, advice, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, aShTaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उपशान्त्यष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: misc, vedanta, advice, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, aShTaka
+File name: upashAntyaShTakam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: upashAntyaShTakam
+engtitle: upashAntyaShTakam
+itxtitle: upashAntyaShTakam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: उपशान्त्यष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  उपशान्त्यष्टकम्   
 अनुपासादितसुगुरोरविचारितवेदशीर्षतत्त्वस्य ।  

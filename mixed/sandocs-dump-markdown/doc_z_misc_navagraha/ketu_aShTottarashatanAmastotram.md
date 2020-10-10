@@ -1,22 +1,22 @@
-+++
-"Text title" = "ketu aShTottarashatanAma stotraM"
-"File name" = "ketu108nAmastotra.itx"
-itxtitle = "ketu aShTottarashatanAmastotram"
-engtitle = "ketu aShTottarashatanAma stotram"
-Category = "aShTottarashatanAma, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manda Krishna Srikanth mandaksk at gmail.com"
-"Proofread by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-"Latest update" = "November 19, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "केतु अष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, navagraha, stotra
+File name: ketu108nAmastotra.itx
+Language: Sanskrit
+Latest update: November 19, 2012
+Location: doc_z_misc_navagraha
+Proofread by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: ketu aShTottarashatanAma stotraM
+Texttype: stotra
+Transliterated by: Manda Krishna Srikanth mandaksk at gmail.com
+engtitle: ketu aShTottarashatanAma stotram
+itxtitle: ketu aShTottarashatanAmastotram
+title: केतु अष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीकेतु अष्टोत्तरशतनामस्तोत्रम्   
   
@@ -26,9 +26,9 @@ title = "केतु अष्टोत्तरशतनामस्तोत�
 केतुः स्थूलशिराश्चैव शिरोमात्रो ध्वजाकृतिः ॥ १॥  
   
 नवग्रहयुतः सिंहिकासुरीगर्भसम्भवः ।  
-महाभीतिकरश्चित्रवर्णो वै पिंगळाक्षकः ॥ २॥  
+महाभीतिकरश्चित्रवर्णो वै पिङ्गळाक्षकः ॥ २॥  
   
-स फलोधूम्रसंकाषः तीक्ष्णदंष्ट्रो महोरगः ।  
+स फलोधूम्रसङ्काषः तीक्ष्णदंष्ट्रो महोरगः ।  
 रक्तनेत्रश्चित्रकारी तीव्रकोपो महासुरः ॥ ३॥  
   
 क्रूरकण्ठः क्रोधनिधिश्छायाग्रहविशेषकः ।  
@@ -64,7 +64,7 @@ title = "केतु अष्टोत्तरशतनामस्तोत�
 चतुर्थे मातृनाशश्च नवमे पितृनाशकः ।  
 अन्त्ये वैरप्रदश्चैव सुतानन्दनबन्धकः ॥ १४॥  
   
-सर्पाक्षिजातोऽनंगश्च कर्मराश्युद्भवस्तथा ।  
+सर्पाक्षिजातोऽनङ्गश्च कर्मराश्युद्भवस्तथा ।  
 उपान्ते कीर्तिदश्चैव सप्तमे कलहप्रदः ॥ १५॥  
   
 अष्टमे व्याधिकर्ता च धने बहुसुखप्रदः ।  

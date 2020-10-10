@@ -1,20 +1,20 @@
-+++
-"Text title" = "champakApurIshrInivAsAShTakam"
-"File name" = "champakApurIshrInivAsAShTakam.itx"
-itxtitle = "champakApurIshrInivAsAShTakam (kambhaMchokkaNNavirachitaM)"
-engtitle = "champakApurIshrInivAsAShTakam"
-Category = "vishhnu, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Text, Kannada)"
-"Latest update" = "April 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चम्पकापुरीश्रीनिवासाष्टकम् (कम्भंचोक्कण्णविरचितं)"
+---
+Category: vishhnu, aShTaka
+File name: champakApurIshrInivAsAShTakam.itx
+Indexextra: (Text, Kannada)
+Language: Sanskrit
+Latest update: April 2, 2018
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: champakApurIshrInivAsAShTakam
+engtitle: champakApurIshrInivAsAShTakam
+itxtitle: champakApurIshrInivAsAShTakam (kambhaMchokkaNNavirachitaM)
+title: चम्पकापुरीश्रीनिवासाष्टकम् (कम्भंचोक्कण्णविरचितं)
 
-+++
+---
   
  चम्पकापुरीश्रीनिवासाष्टकम्   
   

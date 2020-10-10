@@ -1,23 +1,23 @@
-+++
-"Text title" = "gurustutiH 3"
-"File name" = "gurustutiH3.itx"
-itxtitle = "gurustutiH 3 (tattvottIrNo.atula)"
-engtitle = "gurustutiH 3"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Girdhari Lal Koul glkoul.18 at gmail.com"
-"Proofread by" = "Girdhari Lal Koul glkoul.18 at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 6, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुस्तुतिः ३ (तत्त्वोत्तीर्णोऽतुल)"
+---
+Category: deities_misc, gurudev
+File name: gurustutiH3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 6, 2019
+Location: doc_deities_misc
+Proofread by: Girdhari Lal Koul glkoul.18 at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurustutiH 3
+Transliterated by: Girdhari Lal Koul glkoul.18 at gmail.com
+engtitle: gurustutiH 3
+itxtitle: gurustutiH 3 (tattvottIrNo.atula)
+title: गुरुस्तुतिः ३ (तत्त्वोत्तीर्णोऽतुल)
 
-+++
+---
   
  गुरुस्तुतिः ३   
         ॐ शिवाय गुरवे नमः ।  

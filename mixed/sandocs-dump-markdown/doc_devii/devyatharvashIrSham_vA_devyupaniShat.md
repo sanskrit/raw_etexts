@@ -1,23 +1,23 @@
-+++
-"Text title" = "devyatharvashIrSham evaM devyupanishhat"
-"File name" = "deviiatharva.itx"
-itxtitle = "devyatharvashIrSham vA devyupaniShat"
-engtitle = "devyatharvashIrSham evaM devyupaniShat"
-Category = "atharvashIrSha, devii, pArvatI, devI, upanishhat, upaniShat"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, PSA Easwaran"
-Indexextra = "(audio 1, 2)"
-"Latest update" = "June 15, 2004, Febraury 20, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देव्यथर्वशीर्षम् वा देव्युपनिषत्"
+---
+Author: Traditional
+Category: atharvashIrSha, devii, pArvatI, devI, upanishhat, upaniShat
+File name: deviiatharva.itx
+Indexextra: (audio 1, 2)
+Language: Sanskrit
+Latest update: June 15, 2004, Febraury 20, 2016
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devyatharvashIrSham evaM devyupanishhat
+engtitle: devyatharvashIrSham evaM devyupaniShat
+itxtitle: devyatharvashIrSham vA devyupaniShat
+title: देव्यथर्वशीर्षम् वा देव्युपनिषत्
 
-+++
+---
   
  श्रीदेव्यथर्वशीर्षं अथवा देव्युपनिषत्   
   
@@ -101,7 +101,7 @@ title = "देव्यथर्वशीर्षम् वा देव्य
 वाङ्माया ब्रह्मसूस्तस्मात् षष्ठं वक्त्रसमन्वितम् ।  
  var  ब्रह्मभूस्तस्मात्  
 सूर्योऽवामश्रोत्रबिन्दुसंयुक्ताष्टात्तृतीयकम् ।  
-नारायणेन संमिश्रो वायुश्चाधारयुक्ततः ।  
+नारायणेन सम्मिश्रो वायुश्चाधारयुक्ततः ।  
 विच्चे नवार्णकोऽर्णः स्यान्महदानन्ददायकः ॥ २०॥  
   
  var  नवार्णकोणस्य महानानन्ददायकः  
@@ -138,10 +138,10 @@ var  नाऽर्चाशुद्धिं च विन्दति
 सायमधीयानो दिवसकृतं पापं नाशयति ।  
 प्रातरधीयानो रात्रिकृतं पापं नाशयति ।  
 सायं प्रातः प्रयुञ्जानोऽपापो भवति ।  
-निशीथे तुरीयसंध्यायां जप्त्वा वाक्सिद्धिर्भवति ।  
-नूतनायां प्रतिमायां जप्त्वा देवतासांनिध्यं भवति ।  
+निशीथे तुरीयसन्ध्यायां जप्त्वा वाक्सिद्धिर्भवति ।  
+नूतनायां प्रतिमायां जप्त्वा देवतासान्निध्यं भवति ।  
 प्राणप्रतिष्ठायां जप्त्वा प्राणानां प्रतिष्ठा भवति ।  
-भौमाश्विन्यां महादेवीसंनिधौ जप्त्वा महामृत्युं  
+भौमाश्विन्यां महादेवीसन्निधौ जप्त्वा महामृत्युं  
 तरति स महामृत्युं तरति ।  
 य एवं वेद ॥ इत्युपनिषत् ॥ २७॥  
   

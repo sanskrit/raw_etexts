@@ -1,25 +1,25 @@
-+++
-"Text title" = "annapUrNAsahasranAmastotram"
-"File name" = "annapUrNAsahasranAmastotra.itx"
-itxtitle = "annapUrNAsahasranAmastotram (rudrayAmalAntargatam)"
-engtitle = "Shri Annapurna Sahasranamastotram"
-Category = "sahasranAma, devii, pArvatI, annapUrNa, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, Alex"
-"Proofread by" = "DPD, NA"
-Source = "Rudrayamalatantra, bhagavatistutimanjari"
-"Latest update" = "February 14, 2015, March 31, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अन्नपूर्णासहस्रनामस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Author: Traditional
+Category: sahasranAma, devii, pArvatI, annapUrNa, stotra, devI
+File name: annapUrNAsahasranAmastotra.itx
+Language: Sanskrit
+Latest update: February 14, 2015, March 31, 2016
+Location: doc_devii
+Proofread by: DPD, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalatantra, bhagavatistutimanjari
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: annapUrNAsahasranAmastotram
+Texttype: stotra
+Transliterated by: DPD, Alex
+engtitle: Shri Annapurna Sahasranamastotram
+itxtitle: annapUrNAsahasranAmastotram (rudrayAmalAntargatam)
+title: अन्नपूर्णासहस्रनामस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीअन्नपूर्णासहस्रनामस्तोत्रम्   
 श्रीरुद्रयामले  
@@ -153,7 +153,7 @@ title = "अन्नपूर्णासहस्रनामस्तोत�
 कञ्जस्था कञ्जवदना कञ्जकिञ्जल्कचर्चिता ॥ २९॥  
   
 कञ्जाभा कञ्जमध्यस्था कञ्जनेत्रा कचोद्भवा ।  
-कामरूपा च ह्रींकारी कश्यपान्वयवर्धिनी ॥ ३०॥  
+कामरूपा च ह्रीङ्कारी कश्यपान्वयवर्धिनी ॥ ३०॥  
   
 खर्वा च खञ्जनद्वन्द्वलोचना खर्ववाहिनी ।  
 खड्गिनी खड्गहस्ता च खेचरी खड्गरूपिणी ॥ ३१॥  
@@ -510,7 +510,7 @@ title = "अन्नपूर्णासहस्रनामस्तोत�
 मूर्खोऽपि लभते शास्त्रं चोरोऽपि लभते गतिम् ॥ १४७॥  
   
 गुर्विणी जनयेत्पुत्रं कन्यां विन्दति सत्पतिम् ।  
-संक्रान्त्यां च चतुर्दश्यामष्टम्यां च विशेषतः ॥ १४८॥  
+सङ्क्रान्त्यां च चतुर्दश्यामष्टम्यां च विशेषतः ॥ १४८॥  
   
 पौर्णमास्याममावास्यां नवम्यां भौमवासरे ।  
 पठेद्वा पाठयेद्वापि पूजयेद्वापि पुस्तकम् ॥ १४९॥  

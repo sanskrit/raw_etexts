@@ -1,28 +1,28 @@
-+++
-"Text title" = "nandikeshvara ashTottarashatanAmAvalI"
-"File name" = "nandi108nAmAvalI.itx"
-itxtitle = "nandikeshvarAShTottarashatanAmAvalI"
-engtitle = "nandikeshvara aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "April 25, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नन्दिकेश्वराष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, shiva, nAmAvalI
+File name: nandi108nAmAvalI.itx
+Language: Sanskrit
+Latest update: April 25, 2008
+Location: doc_shiva
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: nandikeshvara ashTottarashatanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: nandikeshvara aShTottarashatanAmAvalI
+itxtitle: nandikeshvarAShTottarashatanAmAvalI
+title: नन्दिकेश्वराष्टोत्तरशतनामावली
 
-+++
+---
   
  नन्दिकेश्वराष्टोत्तरशतनामावली   
 विभ्राणं परशुं मृगं करतलैरीशप्रणामाञ्जलिं  
-भस्मोद्धूलन-पाण्डरं शशिकला-गंगा-कपर्दोज्वलम्।  
+भस्मोद्धूलन-पाण्डरं शशिकला-गङ्गा-कपर्दोज्वलम्।  
 पर्याय-त्रिपुरान्तकं प्रमथप-श्रेष्टं गणं दैवतं  
-ब्रह्नेन्द्राच्युत-पूजितांघ्रिकमलं श्रीनन्दिकेशं भजे॥  
+ब्रह्नेन्द्राच्युत-पूजिताङ्घ्रिकमलं श्रीनन्दिकेशं भजे॥  
   
 ॐ नन्दिकेशाय नमः ।  
 ॐ ब्रह्मरूपिणे नमः ।  
@@ -47,7 +47,7 @@ title = "नन्दिकेश्वराष्टोत्तरशतन�
 ॐ श्रुतिप्रियाय नमः ।  
 ॐ श्वेतोपवीतिने नमः ।  
 ॐ नाट्यनन्दकाय नमः ।  
-ॐ किंकिणीधराय नमः ।  
+ॐ किङ्किणीधराय नमः ।  
 ॐ मत्तशृङ्गिणे नमः  
 ॐ हाटकेशाय नमः ।  
 ॐ हेमभूषणाय नमः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "ardhanArIshvarasahasranAmAvalI 1"
-"File name" = "ardhanArIshvarasahasranAmAvaliH.itx"
-itxtitle = "ardhanArIshvarasahasranAmAvaliH 1"
-engtitle = "ardhanArIshvarasahasranAmAvalI 1"
-Category = "sahasranAmAvalI, shiva, devii, pArvatI, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-Description-comments = "See corresponding stotra"
-Indexextra = "(Scan, stotram)"
-"Latest update" = "May 30, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "अर्धनारीश्वरसहस्रनामावलिः १"
+---
+Category: sahasranAmAvalI, shiva, devii, pArvatI, nAmAvalI
+Description-comments: See corresponding stotra
+File name: ardhanArIshvarasahasranAmAvaliH.itx
+Indexextra: (Scan, stotram)
+Language: Sanskrit
+Latest update: May 30, 2020
+Location: doc_shiva
+Proofread by: PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: ardhanArIshvarasahasranAmAvalI 1
+engtitle: ardhanArIshvarasahasranAmAvalI 1
+itxtitle: ardhanArIshvarasahasranAmAvaliH 1
+title: अर्धनारीश्वरसहस्रनामावलिः १
 
-+++
+---
   
  अर्धनारीश्वरसहस्रनामावलिः   
 ॐ अखण्डमण्डलाकाराय नमः । अखिलाण्डेकनायिकायै ।  
@@ -167,7 +167,7 @@ title = "अर्धनारीश्वरसहस्रनामावल�
 गोविन्दाय । गोपिकाराध्यायै । गोपतये । गोमत्यै । गन्धर्वरूपाय ।  
 गन्धर्वकन्याकोटि- समर्चितायै । घनाय । घनागमश्यामायै ।  
 घनप्रौढाय । घनस्तन्यै । घृणिने । घृणानिधये । घ्राणाय ।  
-घृताचीपूज्यपादुकायै । घण्टामुखसुसंप्रीताय ।  
+घृताचीपूज्यपादुकायै । घण्टामुखसुसम्प्रीताय ।  
 घण्टारावविनोदिन्यै नमः । ३८०  
   
 ॐ घनीभूतप्रभापूराय नमः । घलङ्घलितमेखलायै ।  

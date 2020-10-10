@@ -1,26 +1,26 @@
-+++
-"Text title" = "vRiShAdrinAthastotram"
-"File name" = "vRiShAdrinAthastotram.itx"
-itxtitle = "vRiShAdrinAthastotram (tirunandALvaMsharaghunAthAchAryarachitam)"
-engtitle = "Vrishadrinathastotram"
-Category = "vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Author = "tirunandALvaMsharaghunAthAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "April 4, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वृइषाद्रिनाथस्तोत्रम् (तिरुनन्दाळ्वंशरघुनाथाचार्यरचितम्)"
+---
+Author: tirunandALvaMsharaghunAthAchArya
+Category: vishhnu, venkateshwara, stotra, vishnu
+File name: vRiShAdrinAthastotram.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: April 4, 2015
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vRiShAdrinAthastotram
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Vrishadrinathastotram
+itxtitle: vRiShAdrinAthastotram (tirunandALvaMsharaghunAthAchAryarachitam)
+title: वृइषाद्रिनाथस्तोत्रम् (तिरुनन्दाळ्वंशरघुनाथाचार्यरचितम्)
 
-+++
+---
   
  वृषाद्रिनाथस्तोत्रम्   
   
@@ -37,13 +37,13 @@ title = "वृइषाद्रिनाथस्तोत्रम् (ति
 त्वद्दासस्त्वदुपाश्रितस्तव सुतस्तस्मादहं निर्भयः  
 स्वामिंस्तादृशवैभस्य भवतः कर्तुं यतिष्ये स्तुतिम् ॥ २॥  
   
-श्रीवत्साङ्कयतीन्द्रसंनुतहरे श्रीवेङ्कटाख्ये गिरौ  
+श्रीवत्साङ्कयतीन्द्रसन्नुतहरे श्रीवेङ्कटाख्ये गिरौ  
 वैकुण्ठात्स्वयमागतः प्रकृतिसंश्लिष्टानिमान् प्राणिनः ।  
 ब्रह्माण्डान्तरसंस्थितान् हि कृपया पातुं सदा वर्तसे  
 तस्माद्विश्वविधायिनस्तव कृपा निर्हेतुकैव ध्रुवम् ॥ ३॥  
   
 प्रह्लादः करिराङ् विभीषण इति ख्याताश्च भक्ता ह्यमी  
-भक्त्या लब्धभवत्कृपापरिणतां तां लेभिरे संपदम् ।  
+भक्त्या लब्धभवत्कृपापरिणतां तां लेभिरे सम्पदम् ।  
 तस्मात्केचिदहो सहेतुकपरां व्याचक्षिरे त्वत्कृपां  
 तेषां भक्तिमनिन्दितां तव कृपालब्धां कथं नोचिरे ॥ ४॥  
   
@@ -113,7 +113,7 @@ title = "वृइषाद्रिनाथस्तोत्रम् (ति
 वल्गन्मेखलया परिष्कृतमहं मध्यं भजे सुन्दरम् ॥ १७॥  
   
 रम्भास्तम्भमदेभहस्तकरभप्रागल्भ्यचौर्यक्षमौ  
-ऊरू मे हृदयाब्जदर्पणतलस्तंभानुभावं गतौ ।  
+ऊरू मे हृदयाब्जदर्पणतलस्तम्भानुभावं गतौ ।  
 स्वामिन्नञ्जनशैलनाथ सततं सेवे भवज्जङ्घिके  
 स्फूर्जन्मन्मथकाहलीकमलगर्भाकारलीला जुषौ ॥ १८॥  
   
@@ -182,7 +182,7 @@ title = "वृइषाद्रिनाथस्तोत्रम् (ति
 लीलाभिस्तदुलूखलं करतलेनोद्धाट्य गत्वाऽर्जुन-  
 द्वन्द्वस्यामररूपतामविदधच्छेषक्षमाभृद्विभो ॥ ३१॥  
   
-बाले मातुलसंज्ञकेन रिपुणा कंसेन या प्रेषिता  
+बाले मातुलसञ्ज्ञकेन रिपुणा कंसेन या प्रेषिता  
 वक्षोज (द्वय) गुप्तभूरिगरला तत्पूतना या पुरा ।  
 स्तन्यं क्ष्वेलमयं सहासुभिरहो पीत्वा च निश्चेतनां  
 कृत्वा तां गिरिसन्निभामविहरच्छ्रीमान् भवान् श्रीविभो ॥ ३२॥  
@@ -194,10 +194,10 @@ title = "वृइषाद्रिनाथस्तोत्रम् (ति
   
 बाल्येन त्वयि मृत्तिकां कबलयत्याक्रोशतः सादरं  
 मात्रा मृत्परिहारणाय वदनं चोद्धाठ्य ते पाणिना ।  
-यत्रालोक्य किलाब्जजाण्डपटलीमाश्चर्यसंमोहिता  
+यत्रालोक्य किलाब्जजाण्डपटलीमाश्चर्यसम्मोहिता  
 तस्थावञ्जनशैलनायक हरे माया तवात्यद्भुता ॥ ३४॥  
   
-कालिन्दीसविधे विनोदमुरलीनादेन संमोहिताः  
+कालिन्दीसविधे विनोदमुरलीनादेन सम्मोहिताः  
 सुन्दर्यस्त्वरयाऽऽगताः स्मरनिभं त्वां वीक्ष्य गोपाङ्गनाः ।  
 त्वद्ब्रह्मात्मकताविलोकनदशापन्ना मुनीशा यथा  
 दिव्यानन्दपयोधिमग्नमनसोऽभूवन् वृषाद्रि प्रभो ॥ ३५॥  
@@ -322,7 +322,7 @@ title = "वृइषाद्रिनाथस्तोत्रम् (ति
 वैषम्यं प्रकृतेर्विचाय सदुपायोपेयभावात् सुधीः  
 त्वत्पादौ शरणं गतस्तदितरो सन्मुक्तो भवेत्सन्त्यजन् ॥ ५९॥  
   
-सुक्तस्संप्रतिपूजितस्सुरवरैर्ब्रह्मादिभिस्संव्रजन्  
+सुक्तस्सम्प्रतिपूजितस्सुरवरैर्ब्रह्मादिभिस्संव्रजन्  
 अण्डं चावरणान्यतीत्य च महाव्यक्तेस्तक्ते त रन्वै ततः  
 स्नातस्सन् विरजासरित्यथ भजन् दिव्योल्लसद्विग्रहं  
 वैकुण्ठं भवतैव नन्दति समं श्रीशेषभूभृद्विभो ॥ ६०॥  
@@ -361,7 +361,7 @@ title = "वृइषाद्रिनाथस्तोत्रम् (ति
 चकार रघुनाथार्यः शेषभूभृद्विभोस्स्तुतिम् ॥  
   
 ॥ इति तिरुनन्दाळ्वंशरघुनाथाचार्येण कृतं  
-वृषाद्रिनाथस्तोत्रं संपूर्णम्॥  
+वृषाद्रिनाथस्तोत्रं सम्पूर्णम्॥  
   
   
 Encoded and proofread by Malleswara Rao Yellapragada  

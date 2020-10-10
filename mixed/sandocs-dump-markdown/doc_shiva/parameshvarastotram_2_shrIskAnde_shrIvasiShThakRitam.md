@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Parameshvara Stotram 2"
-"File name" = "parameshvarastotram2.itx"
-itxtitle = "parameshvarastotram 2 (shrIskAnde shrIvasiShThakRitam)"
-engtitle = "parameshvarastotram 2"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "Skanda Purana"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "परमेश्वरस्तोत्रम् २ (श्रीस्कान्दे श्रीवसिष्ठकृइतम्)"
+---
+Category: shiva
+Description/comments: Skanda Purana
+File name: parameshvarastotram2.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_shiva
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Parameshvara Stotram 2
+engtitle: parameshvarastotram 2
+itxtitle: parameshvarastotram 2 (shrIskAnde shrIvasiShThakRitam)
+title: परमेश्वरस्तोत्रम् २ (श्रीस्कान्दे श्रीवसिष्ठकृइतम्)
 
-+++
+---
   
  श्रीपरमेश्वरस्तोत्रम् २   
 नमः कनकलिङ्गाय वेदलिङ्गाय वै नमः ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "viShNudevAShTakam"
-"File name" = "viShNudevAShTakam.itx"
-itxtitle = "viShNudevAShTakam (anantAnandasarasvatIvirachitam)"
-engtitle = "viShNudevAShTakam"
-Category = "vishhnu, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Anantanandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुदेवाष्टकम् (अनन्तानन्दसरस्वतीविरचितम्)"
+---
+Author: Anantanandasarasvati
+Category: vishhnu, aShTaka
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: viShNudevAShTakam.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNudevAShTakam
+engtitle: viShNudevAShTakam
+itxtitle: viShNudevAShTakam (anantAnandasarasvatIvirachitam)
+title: विष्णुदेवाष्टकम् (अनन्तानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  विष्णुदेवाष्टकम्   
 श्रिया जुष्टं तुष्टं श्रुतिशतनुतं श्रीमधुरिपुं  
@@ -46,7 +46,7 @@ title = "विष्णुदेवाष्टकम् (अनन्तान
   
 मया शास्त्रे दृष्टं गुरुजनमुखाद् वा श्रुतमिदं  
      कृपा विष्णोर्वन्द्या पतितमनुजोद्धारनिपुणा ।  
-अतस्त्वां संप्राप्तः शरणद ! शरण्यं करुणया  
+अतस्त्वां सम्प्राप्तः शरणद ! शरण्यं करुणया  
      श्रिया हीनं दीनं मधुमथन ! मां पालय विभो ॥ ६॥  
   
 न चेल्लक्ष्मीजाने सकलहितकृच्छास्त्रनिचयो  

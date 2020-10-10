@@ -1,23 +1,23 @@
-+++
-"Text title" = "Gananatha Stuti by Vairatadeva"
-"File name" = "gaNanAthastutiHvairATadevenakRRitA.itx"
-itxtitle = "gaNanAthastutiH vairATadevenakRitA (mudgalapurANAntargatA)"
-engtitle = "gaNanAthastutiH vairATadevenakRitA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 10"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "गणनाथस्तुतिः वैराटदेवेनकृइता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 10
+File name: gaNanAthastutiHvairATadevenakRRitA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Gananatha Stuti by Vairatadeva
+Transliterated by: NA
+engtitle: gaNanAthastutiH vairATadevenakRitA
+itxtitle: gaNanAthastutiH vairATadevenakRitA (mudgalapurANAntargatA)
+title: गणनाथस्तुतिः वैराटदेवेनकृइता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  गणनाथस्तुतिः वैराटदेवेन कृता   
 श्रीगणेशाय नमः ।  
@@ -30,7 +30,7 @@ title = "गणनाथस्तुतिः वैराटदेवेनक�
 तस्य देहे च भूतानि स्थावराणि चराणि च ॥ २॥  
   
 संस्थितानि च सर्वाणि भुवनानि चतुर्दश ।  
-तत्तेऽहं संप्रवक्ष्यामि समाहितमनाः शृणु ॥॥  
+तत्तेऽहं सम्प्रवक्ष्यामि समाहितमनाः शृणु ॥॥  
   
 पादयोस्तस्य पातालं गुल्फे तस्य रसातलम् ।  
 पार्ष्ण्योर्महातलं तस्य जङ्घयोश्च तलातलम् ॥ ४॥  
@@ -53,7 +53,7 @@ title = "गणनाथस्तुतिः वैराटदेवेनक�
 तस्यान्तरे स्थितं रूपं नाम्ना हैरण्यगर्भकम् ।  
 एतादृशं तथा स्वप्नं विश्वरूपं विराजति ॥ १०॥  
   
-बहिर्वैश्वानरश्चायं जाग्रद्वैराटसंज्ञितः ।  
+बहिर्वैश्वानरश्चायं जाग्रद्वैराटसञ्ज्ञितः ।  
 हिरण्यगर्भकोशस्थः स्वप्नवैराटधारकः ॥ ११॥  
   
 उभयोः समभावेन बाह्यान्तरसरूपतः ।  

@@ -1,26 +1,26 @@
-+++
-"Text title" = "Nirvana Upanishad"
-"File name" = "nirvana.itx"
-itxtitle = "nirvANopaniShat"
-engtitle = "Nirvana Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "47/108; Rig Veda, Sanyasa Upanishad"
-"Latest update" = "July, 3, 1999, October 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "निर्वाणोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 47/108; Rig Veda, Sanyasa Upanishad
+File name: nirvana.itx
+Language: Sanskrit
+Latest update: July, 3, 1999, October 6, 2018
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Nirvana Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Nirvana Upanishad
+itxtitle: nirvANopaniShat
+title: निर्वाणोपनिषत्
 
-+++
+---
   
  निर्वाणोपनिषत्   
-(ऋग्वेदीय संन्यासोपनिषत्)  
+(ऋग्वेदीय सन्न्यासोपनिषत्)  
   
 निर्वाणोपनिषद्वेद्यं निर्वाणानन्दतुन्दिलम् ।  
 त्रैपदानन्दसाम्राज्यं स्वमात्रमिति चिन्तयेत् ॥  
@@ -76,8 +76,8 @@ title = "निर्वाणोपनिषत्"
 भ्रान्तिहरणम् । कामादिवृत्तिदहनम् । काठिन्यदृढकौपीनम् ।  
 चीराजिनवासः । अनाहतमन्त्रः । अक्रिययैव जुष्टम् ।  
 स्वेच्छाचारस्वस्वभावो मोक्षः परं ब्रह्म ।  
-प्लववदाचरणम् । ब्रह्मचर्यशान्तिसंग्रहणम् ।  
-ब्रह्मचर्याश्रमेऽधीत्य ससर्वसंविन्न्यासं संन्यासम् ।  
+प्लववदाचरणम् । ब्रह्मचर्यशान्तिसङ्ग्रहणम् ।  
+ब्रह्मचर्याश्रमेऽधीत्य ससर्वसंविन्न्यासं सन्न्यासम् ।  
 अन्ते ब्रह्माखण्डाकारम् । नित्यं सर्वसन्देहनाशनम् ।  
 एतन्निर्वाणदर्शनम् ।  
 शिष्यं पुत्रं विना न देयमित्युपनिषत् ।  

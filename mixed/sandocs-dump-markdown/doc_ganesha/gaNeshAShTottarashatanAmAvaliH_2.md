@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNeshAShTottarashatanAmAvalI 2"
-"File name" = "gaNeshAShTottarashatanAmAvalI.itx"
-itxtitle = "gaNeshAShTottarashatanAmAvaliH 2"
-engtitle = "gaNeshAShTottarashatanAmAvalI 2"
-Category = "ganesha, aShTottarashatanAmAvalI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(Scanned book)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "October 9, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशाष्टोत्तरशतनामावलिः २"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: ganesha, aShTottarashatanAmAvalI
+Description-comments: Edited by S. V. Radhakrishna Shastriji
+File name: gaNeshAShTottarashatanAmAvalI.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: October 9, 2017
+Location: doc_ganesha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshAShTottarashatanAmAvalI 2
+engtitle: gaNeshAShTottarashatanAmAvalI 2
+itxtitle: gaNeshAShTottarashatanAmAvaliH 2
+title: गणेशाष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  श्रीगणेशाष्टोत्तरशतनामावलिः   
 ॐ विघ्नेशाय । विश्ववरदाय (विश्ववदनाय) । विश्वचक्षुषे ।  

@@ -1,20 +1,20 @@
-+++
-"Text title" = "Shri Valli AshtottarashatanamavaliH 2"
-"File name" = "vallyaShTottarashatanAmAvalI2.itx"
-itxtitle = "vallyaShTottarashatanAmAvaliH 2"
-engtitle = "vallyaShTottarashatanAmAvalI 2"
-Category = "aShTottarashatanAmAvalI, subrahmanya, nAmAvalI, devii, devI"
-Location = "doc_devii"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Latest update" = "August 27, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्ल्यष्टोत्तरशतनामावलिः २"
+---
+Category: aShTottarashatanAmAvalI, subrahmanya, nAmAvalI, devii, devI
+File name: vallyaShTottarashatanAmAvalI2.itx
+Language: Sanskrit
+Latest update: August 27, 2006
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: Shri Valli AshtottarashatanamavaliH 2
+Texttype: nAmAvalI
+engtitle: vallyaShTottarashatanAmAvalI 2
+itxtitle: vallyaShTottarashatanAmAvaliH 2
+title: वल्ल्यष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  वल्ल्यष्टोत्तरशतनामावलिः २   
   

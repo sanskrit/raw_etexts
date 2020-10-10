@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Raksha Stotram"
-"File name" = "bAlArakShAstotram.itx"
-itxtitle = "bAlArakShAstotram"
-engtitle = "bAlArakShAstotram"
-Category = "devii, dashamahAvidyA, devI, raksha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालारक्षास्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, devI, raksha
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlArakShAstotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Raksha Stotram
+engtitle: bAlArakShAstotram
+itxtitle: bAlArakShAstotram
+title: बालारक्षास्तोत्रम्
 
-+++
+---
   
  श्रीबालारक्षास्तोत्रम्   
 सर्वलोकैकजनके सर्वाभीष्टफलप्रदे ।  

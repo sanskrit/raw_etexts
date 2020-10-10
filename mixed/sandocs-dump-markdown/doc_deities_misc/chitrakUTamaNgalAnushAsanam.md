@@ -1,23 +1,23 @@
-+++
-"Text title" = "chitrakUTamangalAnushAsanam"
-"File name" = "chitrakUTamangalAnushAsanam.itx"
-itxtitle = "chitrakUTamaNgalAnushAsanam"
-engtitle = "chitrakUTamangalAnushAsanam"
-Category = "deities_misc, gurudev, rAmAnujasampradAya, mangala"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चित्रकूटमण्गलानुशासनम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: deities_misc, gurudev, rAmAnujasampradAya, mangala
+File name: chitrakUTamangalAnushAsanam.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: chitrakUTamangalAnushAsanam
+engtitle: chitrakUTamangalAnushAsanam
+itxtitle: chitrakUTamaNgalAnushAsanam
+title: चित्रकूटमण्गलानुशासनम्
 
-+++
+---
   
  चित्रकूट मङ्गलानुशासनम्   
   

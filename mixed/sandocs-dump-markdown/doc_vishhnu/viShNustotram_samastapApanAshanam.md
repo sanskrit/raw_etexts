@@ -1,24 +1,24 @@
-+++
-"Text title" = "samastapApanAshana viShNustotra puShkarikta agnipurANe"
-"File name" = "samastapApanAshanaviShNustotrapuShkara.itx"
-itxtitle = "viShNustotram samastapApanAshanam"
-engtitle = "samastapApanAshana shrIviShNustotra"
-Category = "vishhnu, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "Agni Purana adhyAya 172 1-22"
-Indexextra = "(puShkarokta agnipurANe)"
-"Latest update" = "February 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तोत्रम् समस्तपापनाशनम्"
+---
+Category: vishhnu, stotra, vishnu
+Description-comments: Agni Purana adhyAya 172 1-22
+File name: samastapApanAshanaviShNustotrapuShkara.itx
+Indexextra: (puShkarokta agnipurANe)
+Language: Sanskrit
+Latest update: February 18, 2013
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: samastapApanAshana viShNustotra puShkarikta agnipurANe
+Texttype: stotra
+engtitle: samastapApanAshana shrIviShNustotra
+itxtitle: viShNustotram samastapApanAshanam
+title: विष्णुस्तोत्रम् समस्तपापनाशनम्
 
-+++
+---
   
  श्रीसमस्तपापनाशन श्रीविष्णुस्तोत्र   
 पुष्कर उवाच   

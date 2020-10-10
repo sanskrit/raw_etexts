@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAdhAkuNDAShTakam"
-"File name" = "rAdhAkuNDAShTakam.itx"
-itxtitle = "rAdhAkuNDAShTakam"
-engtitle = "rAdhAkuNDAShTakam"
-Category = "devii, aShTaka, radha, raghunAthadAsagosvAmin, stavAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(VSM 3, Text, Meaning 1, 2, Info)"
-"Latest update" = "March 8, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाकुण्डाष्टकम्"
+---
+Author: RaghunathadAsagosvAmi
+Category: devii, aShTaka, radha, raghunAthadAsagosvAmin, stavAvalI, devI
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: rAdhAkuNDAShTakam.itx
+Indexextra: (VSM 3, Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 8, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAkuNDAShTakam
+engtitle: rAdhAkuNDAShTakam
+itxtitle: rAdhAkuNDAShTakam
+title: राधाकुण्डाष्टकम्
 
-+++
+---
   
  श्रीराधाकुण्डाष्टकम्   
 वृषभदनुजनाशान्नर्मधर्मोक्तिरङ्गै-  

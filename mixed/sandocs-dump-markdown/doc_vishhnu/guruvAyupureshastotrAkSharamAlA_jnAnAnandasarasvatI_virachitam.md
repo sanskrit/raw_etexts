@@ -1,23 +1,24 @@
-+++
-"Text title" = "guruvAyupureshastotrAkSharamAlA"
-"File name" = "guruvAyupureshastotrAkSharamAlA.itx"
-itxtitle = "guruvAyupureshastotrAkSharamAlA (jnAnAnandasarasvatI virachitam)"
-engtitle = "guruvAyupureshastotrAkSharamAlA"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Texttype = "stotra"
-Author = "shrIjnAnAnandasarasvatI virachitam, bhAShAntarakRitaM sushrI prakAsha agravAla\\, sushrI kalpanA guptA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "February 8, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुवायुपुरेशस्तोत्राक्षरमाला (ज्ञानानन्दसरस्वती विरचितम्)"
+---
+Author: shrIjnAnAnandasarasvatI virachitam, bhAShAntarakRitaM sushrI prakAsha agravAla\,
+  sushrI kalpanA guptA
+Category: vishhnu
+File name: guruvAyupureshastotrAkSharamAlA.itx
+Language: Sanskrit
+Latest update: February 8, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: guruvAyupureshastotrAkSharamAlA
+Texttype: stotra
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: guruvAyupureshastotrAkSharamAlA
+itxtitle: guruvAyupureshastotrAkSharamAlA (jnAnAnandasarasvatI virachitam)
+title: गुरुवायुपुरेशस्तोत्राक्षरमाला (ज्ञानानन्दसरस्वती विरचितम्)
 
-+++
+---
   
  गुरुवायुपुरेशस्तोत्राक्षरमाला   
   

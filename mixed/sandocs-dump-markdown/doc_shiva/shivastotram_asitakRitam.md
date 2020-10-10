@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivastotram asitakRita"
-"File name" = "shivastotramasitakRita.itx"
-itxtitle = "shivastotram (asitakRitam)"
-engtitle = "Shivastotram Asitakrita"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Latest update" = "April 17, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवस्तोत्रम् (असितकृइतम्)"
+---
+Category: shiva, stotra
+File name: shivastotramasitakRita.itx
+Language: Sanskrit
+Latest update: April 17, 2013
+Location: doc_shiva
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivastotram asitakRita
+Texttype: stotra
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Shivastotram Asitakrita
+itxtitle: shivastotram (asitakRitam)
+title: शिवस्तोत्रम् (असितकृइतम्)
 
-+++
+---
   
  श्रीशिवस्तोत्रं असितकृत   
   

@@ -1,21 +1,21 @@
-+++
-"Text title" = "mAtangIstotram 3"
-"File name" = "mAtangIstotram3.itx"
-itxtitle = "mAtaNgIstotram 3"
-engtitle = "mAtangIstotram 3"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "June 20, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातण्गीस्तोत्रम् ३"
+---
+Category: devii, dashamahAvidyA, devI
+File name: mAtangIstotram3.itx
+Language: Sanskrit
+Latest update: June 20, 2019
+Location: doc_devii
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mAtangIstotram 3
+engtitle: mAtangIstotram 3
+itxtitle: mAtaNgIstotram 3
+title: मातण्गीस्तोत्रम् ३
 
-+++
+---
   
  मातङ्गीस्तोत्रम् ३   
 ईश्वर उवाच -  

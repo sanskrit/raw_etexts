@@ -1,26 +1,26 @@
-+++
-"Text title" = "shrIvallIbhuvaneshvaryaShTakam"
-"File name" = "shrIvallIbhuvaneshvaryaShTakam.itx"
-itxtitle = "shrIvallIbhuvaneshvaryaShTakam (sadyojAta shaNkarAshramasvAmivirachitam)"
-engtitle = "shrIvallIbhuvaneshvaryaShTakam"
-Category = "aShTaka, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Shri Sadyojata Shankarashrama Swami (Mathadhipati 1996-,ChitrapurMath,Shirali-Karnataka)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Description-comments = "Shrivalli, distorted from Shirali, the Chitrapur Math village"
-Source = "Shri chitrapura Stuti Manjari,3rd ed. 2008"
-Acknowledge-Permission = "Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/"
-"Latest update" = "February 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीवल्लीभुवनेश्वर्यष्टकम् (सद्योजात शण्कराश्रमस्वामिविरचितम्)"
+---
+Acknowledge-Permission: Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/
+Author: Shri Sadyojata Shankarashrama Swami (Mathadhipati 1996-,ChitrapurMath,Shirali-Karnataka)
+Category: aShTaka, devii, dashamahAvidyA, devI
+Description-comments: Shrivalli, distorted from Shirali, the Chitrapur Math village
+File name: shrIvallIbhuvaneshvaryaShTakam.itx
+Language: Sanskrit
+Latest update: February 10, 2018
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri chitrapura Stuti Manjari,3rd ed. 2008
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIvallIbhuvaneshvaryaShTakam
+Transliterated by: DPD
+engtitle: shrIvallIbhuvaneshvaryaShTakam
+itxtitle: shrIvallIbhuvaneshvaryaShTakam (sadyojAta shaNkarAshramasvAmivirachitam)
+title: श्रीवल्लीभुवनेश्वर्यष्टकम् (सद्योजात शण्कराश्रमस्वामिविरचितम्)
 
-+++
+---
   
  श्रीवल्लीभुवनेश्वर्यष्टकम्   
   
@@ -45,7 +45,7 @@ title = "श्रीवल्लीभुवनेश्वर्यष्ट�
 श्रीवल्लीं भुवनेश्वरीं शिवमयीमैश्वर्यदां तां भजे  ॥ ४॥  
   
 श्रीमच्छङ्करसद्गुरुर्गणपतिर्वातात्मजः क्षेत्रपः   
-प्रासादे विलसन्ति भूरि सदये  नित्यस्थिते  ह्रींमयि ।  
+प्रासादे विलसन्ति भूरि सदये  नित्यस्थिते  ह्रीम्मयि ।  
 युष्मत्स्नेहकटाक्षसौम्यकिरणा रक्षन्ति दोग्ध्रीकुलं  
 श्रीवल्लीं भुवनेश्वरीं शिवमयीमैश्वर्यदां तां भजे  ॥ ५॥  
   
@@ -62,7 +62,7 @@ title = "श्रीवल्लीभुवनेश्वर्यष्ट�
 क्षुद्रा मे भुवनेश्वरि स्तुतिकथा किं वा मुखे ते स्मितं  
 याऽसि त्वं पदवर्णवाक्यजननी वर्णैः कथं वर्ण्यताम् ।  
 वासस्ते मम मानसे गुरुकृपे नित्यम् भवेत् पावनि  
-नान्या मे भुवनेश्वरि प्रशमिका नान्या गतिर्ह्रींमयि  ॥ ८॥  
+नान्या मे भुवनेश्वरि प्रशमिका नान्या गतिर्ह्रीम्मयि  ॥ ८॥  
   
 इति श्रीसद्योजात शङ्कराश्रमस्वामिविरचितं  
 श्रीवल्लीभुवनेश्वर्यष्टकं सम्पूर्णम् ।  

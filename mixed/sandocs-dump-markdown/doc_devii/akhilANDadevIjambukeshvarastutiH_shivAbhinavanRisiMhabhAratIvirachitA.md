@@ -1,22 +1,22 @@
-+++
-"Text title" = "akhilANDadevIjambukeshvarastutiH"
-"File name" = "akhilANDadevIjambukeshvarastutiH.itx"
-itxtitle = "akhilANDadevIjambukeshvarastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "akhilANDadevIjambukeshvarastutiH"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, shiva"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अखिलाण्डदेवीजम्बुकेश्वरस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, shiva
+File name: akhilANDadevIjambukeshvarastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: akhilANDadevIjambukeshvarastutiH
+engtitle: akhilANDadevIjambukeshvarastutiH
+itxtitle: akhilANDadevIjambukeshvarastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: अखिलाण्डदेवीजम्बुकेश्वरस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीमदखिलाण्डदेवीजम्बुकेश्वरस्तुतिः   
 (श्रीजम्बुकेश्वरक्षेत्रे)  

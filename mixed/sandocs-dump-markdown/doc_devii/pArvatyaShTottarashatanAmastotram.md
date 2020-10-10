@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Parvati Ashtottarashatanama Stotram"
-"File name" = "pArvatyaShTottarashatanAmastotram.itx"
-itxtitle = "pArvatyaShTottarashatanAmastotram"
-engtitle = "pArvatyaShTottarashatanAmastotram"
-Category = "devii, aShTottarashatanAma, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "See corresponding Namavali"
-Indexextra = "(Scan, nAmAvalI)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्वत्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: devii, aShTottarashatanAma, devI
+Description/comments: See corresponding Namavali
+File name: pArvatyaShTottarashatanAmastotram.itx
+Indexextra: (Scan, nAmAvalI)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Parvati Ashtottarashatanama Stotram
+Transliterated by: PSA Easwaran
+engtitle: pArvatyaShTottarashatanAmastotram
+itxtitle: pArvatyaShTottarashatanAmastotram
+title: पार्वत्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीपार्वत्यष्टोत्तरशतनामस्तोत्रम्   
 महेश्वरी महादेवी महेश्वरविमोहिनी ।  

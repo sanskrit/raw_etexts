@@ -1,24 +1,25 @@
-+++
-"Text title" = "Avadhuta Gita"
-"File name" = "avadhutagiitaa.itx"
-itxtitle = "avadhUtagItA"
-engtitle = "Avadhuta Gita"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "Rishi Dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi, Nira Zafrir-Bursztyn nirazb at yahoo"
-Description-comments = "A classic poem of Absolute Non-Dual Philosophy"
-Indexextra = "(Sanskrit and English, Gita supersite, English Translation 1 (Simhadrikhanda of Padmapurana))"
-"Latest update" = "September 13, 2000, May 10, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अवधूतगीता"
+---
+Author: Rishi Dattatreya
+Category: gItA, giitaa
+Description-comments: A classic poem of Absolute Non-Dual Philosophy
+File name: avadhutagiitaa.itx
+Indexextra: (Sanskrit and English, Gita supersite, English Translation 1 (Simhadrikhanda
+  of Padmapurana))
+Language: Sanskrit
+Latest update: September 13, 2000, May 10, 2016
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi, Nira Zafrir-Bursztyn nirazb at yahoo
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy
+Sublocation: giitaa
+Text title: Avadhuta Gita
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Avadhuta Gita
+itxtitle: avadhUtagItA
+title: अवधूतगीता
 
-+++
+---
   
  अवधूत गीता   
   
@@ -118,8 +119,8 @@ title = "अवधूतगीता"
 नाहं तत्त्वं समं तत्त्वं कल्पनाहेतुवर्जितम् ।  
 ग्राह्यग्राहकनिर्मुक्तं स्वसंवेद्यं कथं भवेत् ॥ २८॥  
   
-अनन्तरूपं न हि वस्तु किंचि-  
-     त्तत्त्वस्वरूपं न हि वस्तु किंचित् ।  
+अनन्तरूपं न हि वस्तु किञ्चि-  
+     त्तत्त्वस्वरूपं न हि वस्तु किञ्चित् ।  
 आत्मैकरूपं परमार्थतत्त्वं  
      न हिंसको वापि न चाप्यहिंसा ॥ २९॥  
   
@@ -156,7 +157,7 @@ title = "अवधूतगीता"
 व्योमाकारं तथैवैकं ध्याता ध्यानं कथं भवेत् ॥ ३९॥  
   
 यत्करोमि यदश्नामि यज्जुहोमि ददामि यत् ।  
-एतत्सर्वं न मे किंचिद्विशुद्धोऽहमजोऽव्ययः ॥ ४०॥  
+एतत्सर्वं न मे किञ्चिद्विशुद्धोऽहमजोऽव्ययः ॥ ४०॥  
   
 सर्वं जगद्विद्धि निराकृतीदं  
      सर्वं जगद्विद्धि विकारहीनम् ।  
@@ -172,7 +173,7 @@ title = "अवधूतगीता"
 आदिमध्यान्तमुक्तोऽहं न बद्धोऽहं कदाचन ।  
 स्वभावनिर्मलः शुद्ध इति मे निश्चिता मतिः ॥ ४४॥  
   
-महदादि जगत्सर्वं न किंचित्प्रतिभाति मे ।  
+महदादि जगत्सर्वं न किञ्चित्प्रतिभाति मे ।  
 ब्रह्मैव केवलं सर्वं कथं वर्णाश्रमस्थितिः ॥ ४५॥  
   
 जानामि सर्वथा सर्वमहमेको निरन्तरम् ।  
@@ -233,7 +234,7 @@ title = "अवधूतगीता"
 न ते च माता च पिता च बन्धुः  
      न ते च पत्नी न सुतश्च मित्रम् ।  
 न पक्षपाती न विपक्षपातः  
-     कथं हि संतप्तिरियं हि चित्ते ॥ ६३॥  
+     कथं हि सन्तप्तिरियं हि चित्ते ॥ ६३॥  
   
 दिवा नक्तं न ते चित्तं उदयास्तमयौ न हि ।  
 विदेहस्य शरीरत्वं कल्पयन्ति कथं बुधाः ॥ ६४॥  
@@ -381,7 +382,7 @@ title = "अवधूतगीता"
   
 सहजमजमचिन्त्यं यस्तु पश्येत्स्वरूपं  
      घटति यदि यथेष्टं लिप्यते नैव दोषैः ।  
-सकृदपि तदभावात्कर्म किंचिन्नकुर्यात्  
+सकृदपि तदभावात्कर्म किञ्चिन्नकुर्यात्  
      तदपि न च विबद्धः संयमी वा तपस्वी ॥ ३०॥  
   
 निरामयं निष्प्रतिमं निराकृतिं  
@@ -415,13 +416,13 @@ title = "अवधूतगीता"
      तमीशमात्मानमुपैति शाश्वतम् ॥ ३६॥  
   
 सुसंयमी वा यदि वा न संयमी  
-     सुसंग्रही वा यदि वा न संग्रही ।  
+     सुसङ्ग्रही वा यदि वा न सङ्ग्रही ।  
 निष्कर्मको वा यदि वा सकर्मक-  
      स्तमीशमात्मानमुपैति शाश्वतम् ॥ ३७॥  
   
 मनो न बुद्धिर्न शरीरमिन्द्रियं  
      तन्मात्रभूतानि न भूतपञ्चकम् ।  
-अहंकृतिश्चापि वियत्स्वरूपकं  
+अहङ्कृतिश्चापि वियत्स्वरूपकं  
      तमीशमात्मानमुपैति शाश्वतम् ॥ ३८॥  
   
 विधौ निरोधे परमात्मतां गते  
@@ -541,7 +542,7 @@ title = "अवधूतगीता"
      ज्ञानामृतं समरसं गगनोपमोऽहम् ॥ २०॥  
   
 दीर्घो लघुः पुनरितीह नमे विभागो  
-     विस्तारसंकटमितीह न मे विभागः ।  
+     विस्तारसङ्कटमितीह न मे विभागः ।  
 कोणं हि वर्तुलमितीह न मे विभागो  
      ज्ञानामृतं समरसं गगनोपमोऽहम् ॥ २१॥  
   
@@ -1215,7 +1216,7 @@ title = "अवधूतगीता"
 धारणाध्याननिर्मुक्तो धूकारस्तस्य लक्षणम् ॥ ८॥  
   
 तत्त्वचिन्ता धृता येन चिन्ताचेष्टाविवर्जितः ।  
-तमोऽहंकारनिर्मुक्तस्तकारस्तस्य लक्षणम् ॥ ९॥  
+तमोऽहङ्कारनिर्मुक्तस्तकारस्तस्य लक्षणम् ॥ ९॥  
   
 दत्तात्रेयावधूतेन निर्मितानन्दरूपिणा ।  
 ये पठन्ति च शृण्वन्ति तेषां नैव पुनर्भवः ॥ १०॥  

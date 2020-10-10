@@ -1,23 +1,26 @@
-+++
-"Text title" = "rAdhAkRRiShNayugalasahasranAmAvaliH"
-"File name" = "rAdhAkRRiShNayugalasahasranAmAvaliH.itx"
-itxtitle = "rAdhAkRiShNasahasranAmAvaliH rAdhAkRRiShNayugalasahasranAmAvaliH (nAradapurANAntargataM devakInandanAya shauraye)"
-engtitle = "rAdhAkRRiShNayugalasahasranAmAvaliH"
-Category = "devii, sahasranAmAvalI, radha, krishna, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Vishnu Stuti Manjari Volume 1 p. 579, Naradapurana Purvardha adhyAya 82"
-Indexextra = "(Scan VSM 1)"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाकृइष्णसहस्रनामावलिः राधाकृष्णयुगलसहस्रनामावलिः (नारदपुराणान्तर्गतं देवकीनन्दनाय शौरये)"
+---
+Category: devii, sahasranAmAvalI, radha, krishna, devI
+Description/comments: Vishnu Stuti Manjari Volume 1 p. 579, Naradapurana Purvardha
+  adhyAya 82
+File name: rAdhAkRRiShNayugalasahasranAmAvaliH.itx
+Indexextra: (Scan VSM 1)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAkRRiShNayugalasahasranAmAvaliH
+engtitle: rAdhAkRRiShNayugalasahasranAmAvaliH
+itxtitle: rAdhAkRiShNasahasranAmAvaliH rAdhAkRRiShNayugalasahasranAmAvaliH (nAradapurANAntargataM
+  devakInandanAya shauraye)
+title: राधाकृइष्णसहस्रनामावलिः राधाकृष्णयुगलसहस्रनामावलिः (नारदपुराणान्तर्गतं देवकीनन्दनाय
+  शौरये)
 
-+++
+---
   
  श्रीराधाकृष्णयुगलसहस्रनामावलिः   
 श्रीकृष्णनामावलिः  १-५००  
@@ -64,7 +67,7 @@ title = "राधाकृइष्णसहस्रनामावलिः �
 ॐ पीताम्बराय नमः । हेममालिने । मणिमुक्ताविभूषणाय । किङ्किणिने ।  
 कटकिने । सूत्रिणे । नूपुरिणे । मुद्रिकान्विताय । वत्सासुरपतिध्वंसिने ।  
 बकासुरविनाशनाय । अघासुरविनाशिने । विनिद्रीकृतबालकाय । आद्याय ।  
-आत्मप्रदाय । संज्ञिने । यमुनातीरभोजनाय । गोपालमण्डलीमध्याय ।  
+आत्मप्रदाय । सञ्ज्ञिने । यमुनातीरभोजनाय । गोपालमण्डलीमध्याय ।  
 सर्वगोपालभूषणाय । कृतहस्ततलग्रासाय ।  
 व्यञ्जनाश्रितशाखिकाय नमः ॥ १४०  
   

@@ -1,21 +1,22 @@
-+++
-"Text title" = "jalandharAShTakam"
-"File name" = "jalandharAShTakam.itx"
-itxtitle = "jalandharAShTakam"
-engtitle = "jalandharAShTakam"
-Category = "bhajana, deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "Nathasampradaya.  In praise of Jalandharanatha. Article by S. Y. Wakankar"
-Indexextra = "(Commentary)"
-"Latest update" = "August 8, 2018, October 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जलन्धराष्टकम्"
+---
+Category: bhajana, deities_misc, stotra
+Description/comments: Nathasampradaya.  In praise of Jalandharanatha. Article by S.
+  Y. Wakankar
+File name: jalandharAShTakam.itx
+Indexextra: (Commentary)
+Language: Sanskrit
+Latest update: August 8, 2018, October 6, 2018
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: jalandharAShTakam
+engtitle: jalandharAShTakam
+itxtitle: jalandharAShTakam
+title: जलन्धराष्टकम्
 
-+++
+---
   
  जलन्धराष्टकं   
 श्रीमच्छङ्करपादमद्मयुगलं नत्वाऽऽत्मदीपं मुदा  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Radha Ashtakam 3"
-"File name" = "rAdhAShTakam3.itx"
-itxtitle = "rAdhAShTakam 3 (nimbArkAchAryavirachitam)"
-engtitle = "rAdhAShTakam 3"
-Category = "devii, aShTaka, radha, nimbArkAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "Nimbarkacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Text)"
-"Latest update" = "January 13, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाष्टकम् ३ (निम्बार्काचार्यविरचितम्)"
+---
+Author: Nimbarkacharya
+Category: devii, aShTaka, radha, nimbArkAchArya, devI
+File name: rAdhAShTakam3.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: January 13, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Radha Ashtakam 3
+engtitle: rAdhAShTakam 3
+itxtitle: rAdhAShTakam 3 (nimbArkAchAryavirachitam)
+title: राधाष्टकम् ३ (निम्बार्काचार्यविरचितम्)
 
-+++
+---
   
  राधाष्टकम् ३   
 नमस्ते श्रियै राधिकायै परायै  

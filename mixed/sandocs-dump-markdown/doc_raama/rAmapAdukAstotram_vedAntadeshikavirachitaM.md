@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAmapAdukAstotram"
-"File name" = "rAmapAdukAstotram.itx"
-itxtitle = "rAmapAdukAstotram (vedAntadeshikavirachitaM)"
-engtitle = "rAmapAdukAstotram"
-Category = "raama, vedAnta-deshika"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामपादुकास्तोत्रम् (वेदान्तदेशिकविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: vedAntadeshika
+Category: raama, vedAnta-deshika
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: rAmapAdukAstotram.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmapAdukAstotram
+engtitle: rAmapAdukAstotram
+itxtitle: rAmapAdukAstotram (vedAntadeshikavirachitaM)
+title: रामपादुकास्तोत्रम् (वेदान्तदेशिकविरचितं)
 
-+++
+---
   
  श्रीरामपादुकास्तोत्रम्   
   
@@ -27,7 +27,7 @@ title = "रामपादुकास्तोत्रम् (वेदान
 जयन्ति भुवन-त्राणपदपङ्कज-रेणवः ॥ १॥  
   
 वन्दे विष्णुपदासक्तं तमृषिं तां च पादुकाम् ।  
-यथार्था शठजित्संज्ञा मच्चित्तविजयाद्ययोः ॥ २॥  
+यथार्था शठजित्सञ्ज्ञा मच्चित्तविजयाद्ययोः ॥ २॥  
   
 वन्दे तद्रङ्गनाथस्य मान्यं पादुकयोर्युगम् ।  
 उन्नतानामवनतिः नतानां यत्र चोन्नतिः ॥ ३॥  

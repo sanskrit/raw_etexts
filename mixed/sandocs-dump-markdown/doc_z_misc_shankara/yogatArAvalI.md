@@ -1,23 +1,23 @@
-+++
-"Text title" = "yogatArAvalI"
-"File name" = "yogatArAvalI.itx"
-itxtitle = "yogatArAvalI"
-engtitle = "yogatArAvalI"
-Category = "stotra, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Texttype = "stotra"
-Author = "Adi shaNkarAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Arun Shantharam shantharam.arun  at  gmail.com"
-"Proofread by" = "Arun Shantharam shantharam.arun  at  gmail.com"
-"Latest update" = "April 7, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगतारावली"
+---
+Author: Adi shaNkarAchArya
+Category: stotra, shankarAchArya
+File name: yogatArAvalI.itx
+Language: Sanskrit
+Latest update: April 7, 2009
+Location: doc_z_misc_shankara
+Proofread by: Arun Shantharam shantharam.arun  at  gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: yogatArAvalI
+Texttype: stotra
+Transliterated by: Arun Shantharam shantharam.arun  at  gmail.com
+engtitle: yogatArAvalI
+itxtitle: yogatArAvalI
+title: योगतारावली
 
-+++
+---
   
  योगतारावली   
   
@@ -78,13 +78,13 @@ title = "योगतारावली"
 उन्मन्यवस्थाधिगमाय विद्वन् उपायमेकं तव निर्दिशामः ।  
 पश्यन्नुदासीनतया प्रपञ्चं सङ्कल्पमुन्मूलय सावधानः ॥ १९॥  
   
-प्रसह्य सङ्कल्पपरंपराणां संभेदने सन्ततसावधानम् ।  
+प्रसह्य सङ्कल्पपरम्पराणां सम्भेदने सन्ततसावधानम् ।  
 आलम्बनाशादपचीयमानं शनैः शनैः शान्तिमुपैति चेतः ॥ २०॥  
   
 निश्वासलोपैर्निभृतैः शरीरैर्नेत्राम्बुजैरर्धनिमीलितैश्च ।  
 आविर्भवन्तीममनस्कमुद्रामालोकयामो मुनिपुङ्गवानाम् ॥ २१॥  
   
-अमी यमीन्द्राः सहजामनस्का-दहंममत्वे शिथिलायमाने ।  
+अमी यमीन्द्राः सहजामनस्का-दहम्ममत्वे शिथिलायमाने ।  
 मनोतिगं मारुतवृत्तिशून्यं गच्छन्ति भावं गगनावशेषम् ॥ २२॥  
   
 निवर्तयन्तीं निखिलेन्द्रियाणि प्रवर्तयन्तीं परमात्मयोगम् ।  

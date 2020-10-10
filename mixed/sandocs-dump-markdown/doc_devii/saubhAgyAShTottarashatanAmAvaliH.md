@@ -1,25 +1,26 @@
-+++
-"Text title" = "Saubhagya Ashtottarashatanamavali 108 Names"
-"File name" = "saubhAgyAShTottarashatanAmAvalI.itx"
-itxtitle = "saubhAgyAShTottarashatanAmAvaliH"
-engtitle = "saubhAgyAShTottarashatanAmAvaliH"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, dattAtreyAnandanAtha, devI, nAmAvalI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sridhar Seshagiri seshagir at engineering.sdsu.edu"
-"Proofread by" = "Sridhar Seshagiri, Shriramana Sharma jamadagni at gmail.com"
-Description-comments = "26th adhyAya mAhAtmya khaNDam of tripurA rahasyam"
-Indexextra = "(anusthanokarehasya, dasamahavidhyasadhakparivar, nikhildham)"
-"Latest update" = "July 14, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सौभाग्याष्टोत्तरशतनामावलिः"
+---
+Author: Dattatreya
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, dattAtreyAnandanAtha, devI,
+  nAmAvalI
+Description-comments: 26th adhyAya mAhAtmya khaNDam of tripurA rahasyam
+File name: saubhAgyAShTottarashatanAmAvalI.itx
+Indexextra: (anusthanokarehasya, dasamahavidhyasadhakparivar, nikhildham)
+Language: Sanskrit
+Latest update: July 14, 2019
+Location: doc_devii
+Proofread by: Sridhar Seshagiri, Shriramana Sharma jamadagni at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Saubhagya Ashtottarashatanamavali 108 Names
+Transliterated by: Sridhar Seshagiri seshagir at engineering.sdsu.edu
+engtitle: saubhAgyAShTottarashatanAmAvaliH
+itxtitle: saubhAgyAShTottarashatanAmAvaliH
+title: सौभाग्याष्टोत्तरशतनामावलिः
 
-+++
+---
   
  सौभाग्याष्टोत्तरशतनामावलिः   
 ॐ कामेश्वर्यै नमः । कामशक्त्यै । कामसौभाग्यदायिन्यै । कामरूपायै ।  

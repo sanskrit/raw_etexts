@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shuka-Rahasya Upanishad"
-"File name" = "shuka.itx"
-itxtitle = "shukarahasyopaniShat"
-engtitle = "Shuka-Rahasya Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "35/108; Krishna Yajurveda Samanya upanishad"
-"Latest update" = "Jan. 16, 2000, July 17, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शुकरहस्योपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 35/108; Krishna Yajurveda Samanya upanishad
+File name: shuka.itx
+Language: Sanskrit
+Latest update: Jan. 16, 2000, July 17, 2010
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Shuka-Rahasya Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Shuka-Rahasya Upanishad
+itxtitle: shukarahasyopaniShat
+title: शुकरहस्योपनिषत्
 
-+++
+---
   
  शुकरहस्योपनिषत्   
   
@@ -146,7 +146,7 @@ title = "शुकरहस्योपनिषत्"
 सत्यं ज्ञानं सच्चिदानन्दरूपं  
          ध्यायेदेवं तन्महोभ्राजमानम् ॥  
   
-त्वंपद महामन्त्रस्य विष्णुरृषिः ।  
+त्वम्पद महामन्त्रस्य विष्णुरृषिः ।  
 गायत्री छन्दः । परमात्मा देवता ।  
 ऐं बीजम् । क्लीं शक्तिः । सौः कीलकम् ।  
 मम मुक्त्यर्थे जपे विनियोगः ।  
@@ -163,7 +163,7 @@ title = "शुकरहस्योपनिषत्"
 ध्यानम् ॥  
   
 जीवत्वं सर्वभूतानां सर्वत्राखण्डविग्रहम् ।  
-चित्ताहङ्कारयन्तारं जीवाख्यं त्वंपदं भजे ।  
+चित्ताहङ्कारयन्तारं जीवाख्यं त्वम्पदं भजे ।  
 असिपदमहामन्त्रस्य मन ऋषिः ।  
 गायत्री छन्दः । अर्धनारीश्वरो देवता ।  
 अव्यक्तादिर्बीजम् । नृसिंहः शक्तिः ।  
@@ -201,7 +201,7 @@ title = "शुकरहस्योपनिषत्"
 एकमेवाद्वितीयं सन्नामरूपविवर्जितम् ।  
 सृष्टेः पुराधुनाप्यस्य तादृक्त्वं तदितीर्यते ॥ ५॥  
   
-श्रोतुर्देहेन्द्रियातीतं वस्त्वत्र त्वंपदेरितम् ।  
+श्रोतुर्देहेन्द्रियातीतं वस्त्वत्र त्वम्पदेरितम् ।  
 एकता ग्राह्यतेऽसीति तदैक्यमनुभूयताम् ॥ ६॥  
   
 स्वप्रकाशापरोक्षत्वमयमित्युक्तितो मतम् ।  
@@ -215,7 +215,7 @@ title = "शुकरहस्योपनिषत्"
 स्वरूपसूर्येऽभ्युदिते स्फुटोक्ते-  
     र्गुरोर्महावाक्यपदैः प्रबुद्धः ॥ ९॥  
   
-वाच्यं लक्ष्यमिति द्विधार्थसरणीवाच्यस्य हि त्वंपदे  
+वाच्यं लक्ष्यमिति द्विधार्थसरणीवाच्यस्य हि त्वम्पदे  
     वाच्यं भौतिकमिन्द्रियादिरपि यल्लक्ष्यं त्वमर्थश्च सः ।  
 वाच्यं तत्पदमीशताकृतमतिर्लक्ष्यं तु सच्चित्सुखा-  
     नन्दब्रह्मतदर्थ एष च तयोरैक्यं त्वसीदं पदम् ॥ १०॥  

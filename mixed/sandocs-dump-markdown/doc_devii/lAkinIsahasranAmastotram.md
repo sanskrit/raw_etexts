@@ -1,25 +1,25 @@
-+++
-"Text title" = "lAkinIsahasra maNipUra sthita shakti"
-"File name" = "lAkinIsahasra.itx"
-itxtitle = "lAkinIsahasranAmastotram"
-engtitle = "lAkinIsahasranAmastotram"
-Category = "sahasranAma, devii, ShaTchakrashakti, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mark S.G. Dyczkowski muktAbodha"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale uttaratantre bhairava bhairavI sa.nvAde"
-"Latest update" = "May 25, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लाकिनीसहस्रनामस्तोत्रम्"
+---
+Author: Traditional
+Category: sahasranAma, devii, ShaTchakrashakti, stotra, devI
+Description-comments: rudrayAmale uttaratantre bhairava bhairavI sa.nvAde
+File name: lAkinIsahasra.itx
+Language: Sanskrit
+Latest update: May 25, 2008
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lAkinIsahasra maNipUra sthita shakti
+Texttype: stotra
+Transliterated by: Mark S.G. Dyczkowski muktAbodha
+engtitle: lAkinIsahasranAmastotram
+itxtitle: lAkinIsahasranAmastotram
+title: लाकिनीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीलाकिनीसहस्रनामस्तोत्रम्   
   
@@ -128,10 +128,10 @@ title = "लाकिनीसहस्रनामस्तोत्रम्"
 मधुमांससमुत्पन्नो मधुमांसविहारिणी ॥ ३३॥  
   
 मैथुनानन्दनिरतो मैथुनालापमोहिनी ।  
-मुरारिप्रेमसंतुष्टो मुरारिकरसेविता ॥ ३४॥  
+मुरारिप्रेमसन्तुष्टो मुरारिकरसेविता ॥ ३४॥  
   
 माल्यचन्दनदिग्धाङ्गो मालिनी मन्त्रजीविका ।  
-मन्त्रजालस्थितो मन्त्री मन्त्रिणांमन्त्रसिद्धिदा ॥ ३५॥  
+मन्त्रजालस्थितो मन्त्री मन्त्रिणाम्मन्त्रसिद्धिदा ॥ ३५॥  
   
 मन्त्रचैतन्यकारी च मन्त्रसिद्धिप्रिया सती ।  
 महातीर्थप्रियो मेषो महासिंहासनस्थिता ॥ ३६॥  
@@ -245,7 +245,7 @@ title = "लाकिनीसहस्रनामस्तोत्रम्"
 कामजालक्रियानाथो विकला कमलासना ॥ ७२॥  
   
 खण्डबुद्धिहरो भावो भवतीति दुरासना ।  
-असंख्यको रूपसंख्यो नामसंख्यादिपूरणी ॥ ७३॥  
+असङ्ख्यको रूपसङ्ख्यो नामसङ्ख्यादिपूरणी ॥ ७३॥  
   
 सद्मनाद्यमना कोषकिङ्किणीजालमालिनी ।  
 चन्द्रायुतमुखाम्भोजो विभायुतसमानना ॥ ७४॥  
@@ -382,7 +382,7 @@ title = "लाकिनीसहस्रनामस्तोत्रम्"
 रेवातीरनिवासी च गङ्गातीरनिवासिनी ।  
 चाङ्गेशः पुष्करेशश्च व्यासभाषाविशेषिका ॥ ११८॥  
   
-अमलानाथसंज्ञश्च रामेश्वरसुपूजिता ।  
+अमलानाथसञ्ज्ञश्च रामेश्वरसुपूजिता ।  
 रमानाथ प्रभु प्राप्ति कीर्तीदुर्गाभिधानिका ॥ ११९॥  
   
 लम्बोदर प्रेमकालो लम्बोदरकुलप्रिया ।  
@@ -550,7 +550,7 @@ title = "लाकिनीसहस्रनामस्तोत्रम्"
 ज्योत्स्नाजालकरो योगी वियोगशायिनी युगा ।  
 युगगामी योगगामी जयदा लाकिनी शिवा ॥ १७४॥  
   
-संज्ञाबुद्धिकरो भावो भवभीतिविमोहिनी ।  
+सञ्ज्ञाबुद्धिकरो भावो भवभीतिविमोहिनी ।  
 सुन्दर सुन्दरानन्दो रतिकारतिसुन्दरी ॥ १७५॥  
   
 रतिज्ञानी रतिसुखो रतिनाथप्रकाशिनी ।  
@@ -584,7 +584,7 @@ title = "लाकिनीसहस्रनामस्तोत्रम्"
 इत्येतत् कथितं नाथ महाविद्याभिधानकम् ॥ १८५॥  
   
 शब्दब्रह्ममयं साक्षात् कल्पवृक्षस्वरूपकम् ।  
-अष्टोत्तरसहस्राख्यं शतसंख्यासमाकुलम् ॥ १८६॥  
+अष्टोत्तरसहस्राख्यं शतसङ्ख्यासमाकुलम् ॥ १८६॥  
   
 त्रैलोक्यमङ्गलक्षेत्रं सिद्धविद्याफलप्रदम् ।  
 सकलं निष्कलं साक्षात् कल्पद्रुमकलान्वितम् ॥ १८७॥  
@@ -602,7 +602,7 @@ title = "लाकिनीसहस्रनामस्तोत्रम्"
 अक्लेशपञ्चमासिद्धिं ततः प्राप्नोति मध्यमाम् ॥ १९१॥  
   
 अत्यन्तदुःखहननं गुरुत्वं लोकमण्डले ।  
-देवानां भक्तिसंख्याञ्च दिव्यभावं सदा सुखम् ॥ १९२॥  
+देवानां भक्तिसङ्ख्याञ्च दिव्यभावं सदा सुखम् ॥ १९२॥  
   
 आयुर्वृद्धिं लोकवश्यं पूर्णकोशं हि गोधनम् ।  
 देवानां राज्यभवनं प्रत्यक्षे स्वप्नकालके ॥ १९३॥  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Durga Pratahsmarana Stotra"
-"File name" = "durgAprAtaHsmaraNam.itx"
-itxtitle = "durgAprAtaHsmaraNastotram (prakAshAnandapurIvirachitam)"
-engtitle = "durgAprAtaHsmaraNam"
-Category = "devii, suprabhAta, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Madhura Bal madhurabal11 gmail.com"
-"Proofread by" = "Madhura Bal madhurabal11 gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "August 15, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गाप्रातःस्मरणस्तोत्रम् (प्रकाशानन्दपुरीविरचितम्)"
+---
+Category: devii, suprabhAta, devI
+File name: durgAprAtaHsmaraNam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 15, 2018
+Location: doc_devii
+Proofread by: Madhura Bal madhurabal11 gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Durga Pratahsmarana Stotra
+Transliterated by: Madhura Bal madhurabal11 gmail.com
+engtitle: durgAprAtaHsmaraNam
+itxtitle: durgAprAtaHsmaraNastotram (prakAshAnandapurIvirachitam)
+title: दुर्गाप्रातःस्मरणस्तोत्रम् (प्रकाशानन्दपुरीविरचितम्)
 
-+++
+---
   
  श्रीदुर्गाप्रातःस्मरणस्तोत्रम्   
   

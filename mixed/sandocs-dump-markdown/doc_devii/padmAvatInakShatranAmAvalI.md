@@ -1,21 +1,21 @@
-+++
-"Text title" = "padmAvatInakShatranAmAvalI"
-"File name" = "padmAvatInakShatranAmAvalI.itx"
-itxtitle = "padmAvatInakShatranAmAvalI"
-engtitle = "padmAvatInakShatranAmAvalI"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Latest update" = "June 16, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पद्मावतीनक्षत्रनामावली"
+---
+Category: devii, devI
+File name: padmAvatInakShatranAmAvalI.itx
+Language: Sanskrit
+Latest update: June 16, 2017
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: padmAvatInakShatranAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: padmAvatInakShatranAmAvalI
+itxtitle: padmAvatInakShatranAmAvalI
+title: पद्मावतीनक्षत्रनामावली
 
-+++
+---
   
  पद्मावतीनक्षत्रनामावलिः   
   

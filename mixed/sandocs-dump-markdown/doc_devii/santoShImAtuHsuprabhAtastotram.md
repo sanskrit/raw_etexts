@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri SantoShi Matuh Suprabhata Stotram"
-"File name" = "santoShImAtuHsuprabhAtastotram.itx"
-itxtitle = "santoShImAtuHsuprabhAtastotram"
-engtitle = "santoShImAtursuprabhAtastotram"
-Category = "devii, suprabhAta, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-"Latest update" = "January 1, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्तोषीमातुःसुप्रभातस्तोत्रम्"
+---
+Category: devii, suprabhAta, otherforms, devI
+File name: santoShImAtuHsuprabhAtastotram.itx
+Language: Sanskrit
+Latest update: January 1, 2019
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri SantoShi Matuh Suprabhata Stotram
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: santoShImAtursuprabhAtastotram
+itxtitle: santoShImAtuHsuprabhAtastotram
+title: सन्तोषीमातुःसुप्रभातस्तोत्रम्
 
-+++
+---
   
  श्रीसन्तोषीमातुःसुप्रभातस्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  
@@ -121,7 +121,7 @@ title = "सन्तोषीमातुःसुप्रभातस्त�
 पुष्टः सुतुष्टहृदयो निवसेच्चिराय सन्तोषमातुरधिकाधिकसत्कटाक्षात् ॥ ३३॥  
   
 सन्तोषमातुरखिलेष्टदमद्भुतं च यः सुप्रभातमुषसि प्रपठेत् स भक्तः ।  
-संप्राप्य नन्दतितरां सुधनं सुपुत्रं गेहं च भूषणचयं च चिरायुरेव ॥ ३४॥  
+सम्प्राप्य नन्दतितरां सुधनं सुपुत्रं गेहं च भूषणचयं च चिरायुरेव ॥ ३४॥  
   
 आस्थाय वीरपरमासनमार्तिहन्त्री खड्गत्रिशूलवरदाभयहस्तभूषा ।  
 मन्दस्मिताञ्चितमुखी विलसत्किरीटा सन्तोषनित्यजननी प्रददातु कामान् ॥ ३५॥  

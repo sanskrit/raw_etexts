@@ -1,22 +1,22 @@
-+++
-"Text title" = "Ganesha Lila Stutih"
-"File name" = "gaNeshalIlAstutiH2.itx"
-itxtitle = "gaNeshalIlAstutiH 2"
-engtitle = "gaNeshalIlAstutiH 2"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan"
-Indexextra = "(Scan)"
-"Latest update" = "May 24, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "गणेशलीलास्तुतिः २"
+---
+Category: ganesha
+File name: gaNeshalIlAstutiH2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 24, 2020
+Location: doc_ganesha
+Proofread by: Aruna Narayanan
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha Lila Stutih
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: gaNeshalIlAstutiH 2
+itxtitle: gaNeshalIlAstutiH 2
+title: गणेशलीलास्तुतिः २
 
-+++
+---
   
  गणेशलीलास्तुतिः २   
 ॐलाक्षासिन्दूरवर्णं सुरवरनमितं मोदकैर्मोदितास्यं  
@@ -72,7 +72,7 @@ title = "गणेशलीलास्तुतिः २"
 बिभ्रत्पञ्चमुखानि योयमुदितः स्वातन्त्र्यमात्रात्मना  
      शक्तेर्वैभवतः परप्रतिहतद्वैताख्यविघ्नव्ययः ।  
 एकीभूतमुखः सकारणगणानुकारिणा तेजसा  
-     देवःसंप्रति भासतां मयि यथा तत्त्वं गणाधीश्वरः ॥ १३॥  
+     देवःसम्प्रति भासतां मयि यथा तत्त्वं गणाधीश्वरः ॥ १३॥  
   
 हस्तीन्द्राननमिन्दुचूडमरुणच्छायं त्रिनेत्रं रसादाश्लिष्टं  
      प्रियया समपद्मद्यमकरया स्वाङ्कस्थया सन्ततम् ।  

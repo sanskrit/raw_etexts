@@ -1,25 +1,26 @@
-+++
-"Text title" = "indrasahasranAmastotram"
-"File name" = "indrasahasranAmastotram.itx"
-itxtitle = "indrasahasranAmastotram (gaNapatimunivirachitam)"
-engtitle = "indrasahasranAmastotram composed by Ganapti Muni"
-Category = "sahasranAma, deities_misc, stotra, gaNapati-muni"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Author = "Ganapati Muni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Description-comments = "From The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol 3"
-Indexextra = "(Collected Works)"
-"Latest update" = "January 27, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "इन्द्रसहस्रनामस्तोत्रम् (गणपतिमुनिविरचितम्)"
+---
+Author: Ganapati Muni
+Category: sahasranAma, deities_misc, stotra, gaNapati-muni
+Description-comments: From The Collected Works of Vasishtha Kavyakantha Ganapati Muni
+  Vol 3
+File name: indrasahasranAmastotram.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: January 27, 2013
+Location: doc_deities_misc
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: indrasahasranAmastotram
+Texttype: stotra
+Transliterated by: DPD
+engtitle: indrasahasranAmastotram composed by Ganapti Muni
+itxtitle: indrasahasranAmastotram (gaNapatimunivirachitam)
+title: इन्द्रसहस्रनामस्तोत्रम् (गणपतिमुनिविरचितम्)
 
-+++
+---
   
  इन्द्रसहस्रनामस्तोत्रं गणपतेः कृतिः   
   
@@ -50,7 +51,7 @@ title = "इन्द्रसहस्रनामस्तोत्रम् (
 धृणवोजा अविताधीनां धनानां सञ्जिदच्युतः ।  
 विहन्ता तमसस्त्वष्टा तनूपास्तरुतातुरः ॥ ९॥  
   
-त्वेषनृम्णस्त्वेष्संदृक् तुराषाडपराजितः ।  
+त्वेषनृम्णस्त्वेष्सन्दृक् तुराषाडपराजितः ।  
 तुग्य्रावृधोदस्मतमः तुविकूर्मितमस्तुजः ॥ १०॥  
   
 वृषप्रभर्मा विश्वानि विद्वानादङ्क्षर्दिरस्तवाः ।  
@@ -82,7 +83,7 @@ title = "इन्द्रसहस्रनामस्तोत्रम् (
 पुरुत्मा पलितोहेता प्रहेता प्राविता पिता ॥ १८॥  
   
 पुरुनृम्णः पर्वतेष्ठाः प्राचामन्युः पुरोहितः ।  
-पुरांभिन्दुरनाधृष्यः पुराजाः पप्रथिन्तमः ॥ १९॥  
+पुराम्भिन्दुरनाधृष्यः पुराजाः पप्रथिन्तमः ॥ १९॥  
   
 पृतनाषाड् बाहुशर्धी बृहद्रेणुरनिष्टृतः ।  
 अभिभूतिरयोपाष्टिः बृहद्रेरपिधानवान् ॥ २०॥  
@@ -312,7 +313,7 @@ title = "इन्द्रसहस्रनामस्तोत्रम् (
 समन्तुनामा पुरुध प्रतिको बृहतः पतिः ।  
 दीध्यानो दामनो दाता दीर्घश्रवस ऋभ्वसः ॥ ८७॥  
   
-दंसनावान्दिवः संम्राड्देतवजूतो दिवावसुः ।  
+दंसनावान्दिवः सम्म्राड्देतवजूतो दिवावसुः ।  
 दशमो देवता दक्षो दुध्रोद्युम्नी द्युमन्तमः ॥ ८८॥  
   
 ॥ इत्यष्टमं नामशतकम् ॥  

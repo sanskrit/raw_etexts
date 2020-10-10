@@ -1,21 +1,22 @@
-+++
-"Text title" = "sUryastotram 4"
-"File name" = "sUryastotram4.itx"
-itxtitle = "sUryastotram 4"
-engtitle = "sUryastotram 4"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "February 20, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यस्तोत्रम् ४"
+---
+Category: navagraha
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: sUryastotram4.itx
+Language: Sanskrit
+Latest update: February 20, 2017
+Location: doc_z_misc_navagraha
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryastotram 4
+engtitle: sUryastotram 4
+itxtitle: sUryastotram 4
+title: सूर्यस्तोत्रम् ४
 
-+++
+---
   
  सूर्यस्तोत्रम् ४   
   

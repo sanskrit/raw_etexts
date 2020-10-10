@@ -1,28 +1,28 @@
-+++
-"Text title" = "vArAhInigrahAShTakam"
-"File name" = "vaaraahiinigraha8.itx"
-itxtitle = "vArAhInigrahAShTakam"
-engtitle = "vArAhInigrahAShTakam"
-Category = "aShTaka, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "June 26, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाराहीनिग्रहाष्टकम्"
+---
+Author: Traditional
+Category: aShTaka, devii, otherforms, devI
+File name: vaaraahiinigraha8.itx
+Language: Sanskrit
+Latest update: June 26, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vArAhInigrahAShTakam
+Transliterated by: WebD
+engtitle: vArAhInigrahAShTakam
+itxtitle: vArAhInigrahAShTakam
+title: वाराहीनिग्रहाष्टकम्
 
-+++
+---
   
  वाराहीनिग्रहाष्टकम्   
   
 श्रीगणेशाय नमः ।  
-देवि क्रोडमुखि त्वदंघ्रिकमल-द्वन्द्वानुरक्तात्मने  
+देवि क्रोडमुखि त्वदङ्घ्रिकमल-द्वन्द्वानुरक्तात्मने  
 मह्यं द्रुह्यति यो महेशि मनसा कायेन वाचा नरः ।  
 तस्याशु त्वदयोग्रनिष्ठुरहला-घात-प्रभूत-व्यथा-  
 पर्यस्यन्मनसो भवन्तु वपुषः प्राणाः प्रयाणोन्मुखाः ॥ १॥  
@@ -30,14 +30,14 @@ title = "वाराहीनिग्रहाष्टकम्"
 देवि त्वत्पदपद्मभक्तिविभव-प्रक्षीणदुष्कर्मणि  
 प्रादुर्भूतनृशंसभावमलिनां वृत्तिं विधत्ते मयि ।  
 यो देही भुवने तदीयहृदयान्निर्गत्वरैर्लोहितैः  
-सद्यः पूरयसे कराब्ज-चषकं वांछाफलैर्मामपि ॥ २॥  
+सद्यः पूरयसे कराब्ज-चषकं वाञ्छाफलैर्मामपि ॥ २॥  
   
 चण्डोत्तुण्ड-विदीर्णदंष्ट्रहृदय-प्रोद्भिन्नरक्तच्छटा-  
 हालापान-मदाट्टहास-निनदाटोप-प्रतापोत्कटम् ।  
-मातर्मत्परिपन्थिनामपहृतैः प्राणैस्त्वदंघ्रिद्वयं  
+मातर्मत्परिपन्थिनामपहृतैः प्राणैस्त्वदङ्घ्रिद्वयं  
 ध्यानोद्दामरवैर्भवोदयवशात्सन्तर्पयामि क्षणात् ॥ ३॥  
   
-श्यामां तामरसाननांघ्रिनयनां सोमार्धचूडां  
+श्यामां तामरसाननाङ्घ्रिनयनां सोमार्धचूडां  
 जगत्त्राण-व्यग्र-हलायुधाग्रमुसलां सन्त्रासमुद्रावतीम् ।  
 ये त्वां रक्तकपालिनीं हरवरारोहे वराहाननां  
 भावैः सन्दधते कथं क्षणमपि प्राणन्ति तेषां द्विषः ॥ ४॥  
@@ -45,10 +45,10 @@ title = "वाराहीनिग्रहाष्टकम्"
 विश्वाधीश्वरवल्लभे विजयसे या त्वं नियन्त्र्यात्मिका  
 भूतान्ता पुरुषायुषावधिकरी पाकप्रदा कर्मणाम् ।  
 त्वां याचे भवतीं किमप्यवितथं यो मद्विरोधी  
-जनस्तस्यायुर्मम वांछितावधि भवेन्मातस्तवैवाज्ञया ॥ ५॥  
+जनस्तस्यायुर्मम वाञ्छितावधि भवेन्मातस्तवैवाज्ञया ॥ ५॥  
   
 मातः सम्यगुपासितुं जडमतिस्त्वां नैव शक्नोम्यहं  
-यद्यप्यन्वित-दैशिकांघ्रिकमलानुक्रोशपात्रस्य मे ।  
+यद्यप्यन्वित-दैशिकाङ्घ्रिकमलानुक्रोशपात्रस्य मे ।  
 जन्तुः कश्चन चिन्तयत्यकुशलं यस्तस्य तद्वैशसं  
 भूयाद्देवि विरोधिनो मम च ते श्रेयः पदासङ्गिनः ॥ ६॥  
   

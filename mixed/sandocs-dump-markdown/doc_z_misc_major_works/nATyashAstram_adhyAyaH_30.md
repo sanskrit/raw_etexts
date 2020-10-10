@@ -1,23 +1,23 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 30"
-"File name" = "natya30.itx"
-itxtitle = "nATyashAstram adhyAyaH 30"
-engtitle = "Natya Shastra Chapter 30"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture/Dance/Drama"
-"Transliterated by" = "hareshbakshi at hotmail.com"
-"Proofread by" = "hareshbakshi at hotmail.com"
-"Latest update" = "february 14, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः ३०"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya30.itx
+Language: Sanskrit
+Latest update: february 14, 2003
+Location: doc_z_misc_major_works
+Proofread by: hareshbakshi at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture/Dance/Drama
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 30
+Texttype: pramukha
+Transliterated by: hareshbakshi at hotmail.com
+engtitle: Natya Shastra Chapter 30
+itxtitle: nATyashAstram adhyAyaH 30
+title: नाट्यशास्त्रम् अध्यायः ३०
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः ३०   
   
@@ -48,7 +48,7 @@ title = "नाट्यशास्त्रम् अध्यायः ३०
 ऋषभो धैवतश्चापि कम्प्यमानाङ्गुलीकृतौ ।  
 अर्धमुक्ताङ्गुलिश्चैव गान्धारोऽथ निषादवान् ॥ ७ ॥  
   
-स्वरसाधारणश्चापि काकल्यन्तरसंज्ञया ।  
+स्वरसाधारणश्चापि काकल्यन्तरसञ्ज्ञया ।  
 निषादगान्धारकृतौ षड्जमध्यमयोरपि ॥ ८ ॥  
   
 विपर्यया सन्निकर्षे श्रुतिलक्षणसिद्धितः ।  
@@ -60,7 +60,7 @@ title = "नाट्यशास्त्रम् अध्यायः ३०
 अविचलितमविच्छिन्नं वर्णालङ्कारसंयुतं विधिवत् ।  
 ललितं मधुरं स्निग्धं वेणोरेवं स्मृतं वाद्यम् ॥ ११ ॥  
   
-एवमेतत् स्वरगतं विज्ञेयंगानयोक्तृभिः ।  
+एवमेतत् स्वरगतं विज्ञेयङ्गानयोक्तृभिः ।  
 अतः परं प्रवक्ष्यामि धनातोद्यविकल्पनम् ॥ १२ ॥  
   
 इति भरतीये नाट्यशास्त्रे सुषिरातोद्यलक्षणं  

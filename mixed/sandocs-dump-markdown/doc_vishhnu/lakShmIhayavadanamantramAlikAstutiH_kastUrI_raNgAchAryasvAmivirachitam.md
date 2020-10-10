@@ -1,25 +1,25 @@
-+++
-"Text title" = "lakShmIhayavadanamantramAlikAstutiH"
-"File name" = "lakShmIhayavadanamantramAlikAstutiH.itx"
-itxtitle = "lakShmIhayavadanamantramAlikAstutiH (kastUrI raNgAchAryasvAmivirachitam)"
-engtitle = "lakShmIhayavadanamantramAlikAstutiH"
-Category = "vishhnu, devii, lakShmI, devI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "lakShmI"
-Author = "kastUrI raNgAchAryasvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Swamini Tattvapriyananda tattvapriya3108 at gmail.com"
-"Description/comments" = "Stotra Sringeri"
-Indexextra = "(Scan)"
-"Latest update" = "November 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीहयवदनमन्त्रमालिकास्तुतिः (कस्तूरी रण्गाचार्यस्वामिविरचितम्)"
+---
+Author: kastUrI raNgAchAryasvAmi
+Category: vishhnu, devii, lakShmI, devI
+Description/comments: Stotra Sringeri
+File name: lakShmIhayavadanamantramAlikAstutiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 17, 2018
+Location: doc_vishhnu
+Proofread by: Swamini Tattvapriyananda tattvapriya3108 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: lakShmIhayavadanamantramAlikAstutiH
+Transliterated by: NA
+engtitle: lakShmIhayavadanamantramAlikAstutiH
+itxtitle: lakShmIhayavadanamantramAlikAstutiH (kastUrI raNgAchAryasvAmivirachitam)
+title: लक्ष्मीहयवदनमन्त्रमालिकास्तुतिः (कस्तूरी रण्गाचार्यस्वामिविरचितम्)
 
-+++
+---
   
  श्रीलक्ष्मीहयवदनमन्त्रमालिकास्तुतिः   
  ॥ श्रीः ॥  
@@ -84,7 +84,7 @@ title = "लक्ष्मीहयवदनमन्त्रमालिक�
 कल्योत्फुल्लाम्बुजातप्रमदभरनिराकारनिस्तन्द्रदृष्टेः ॥ १०॥  
   
 दाक्ष्यं लक्ष्येत धातुः क्वनु खलु जगतीजालनिर्माणलीला-  
-रम्भे संज्ञाविधावप्यथ च तदुचितानेकमूर्तिप्रक्लृप्तौ ।  
+रम्भे सञ्ज्ञाविधावप्यथ च तदुचितानेकमूर्तिप्रक्लृप्तौ ।  
 तत्तत्कृत्यप्रपञ्चेष्वपि च दिविषदां दैत्यपाशाहृताना-  
 माम्नायानां दयार्द्रो यदि हयवदनो नोद्धृतिं संविदध्यात् ॥ ११॥  
   

@@ -1,25 +1,27 @@
-+++
-"Text title" = "rAdhAShTakam 4"
-"File name" = "rAdhAShTakam4.itx"
-itxtitle = "rAdhAShTakam 4 (rUpagosvAmivirachitam dishi dishi rachayantI)"
-engtitle = "rAdhAShTakam 4"
-Category = "devii, krishna, rUpagosvAmin, stavamAlA, aShTaka, radha, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "Rupagoswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional Prayers stavamAlA"
-Indexextra = "(Scan, Bengali, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाष्टकम् ४ (रूपगोस्वामिविरचितम् दिशि दिशि रचयन्ती)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Rupagoswami
+Category: devii, krishna, rUpagosvAmin, stavamAlA, aShTaka, radha, devii, devI
+Description/comments: From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional
+  Prayers stavamAlA
+File name: rAdhAShTakam4.itx
+Indexextra: (Scan, Bengali, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAShTakam 4
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: rAdhAShTakam 4
+itxtitle: rAdhAShTakam 4 (rUpagosvAmivirachitam dishi dishi rachayantI)
+title: राधाष्टकम् ४ (रूपगोस्वामिविरचितम् दिशि दिशि रचयन्ती)
 
-+++
+---
   
  श्रीराधाष्टकम् ४   
 श्रीश्रीवृन्दावनेश्वर्यै नमः ।  

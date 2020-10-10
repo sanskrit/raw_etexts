@@ -1,24 +1,24 @@
-+++
-"Text title" = "dharmashAstuHpancharatnam"
-"File name" = "dharmashastu.itx"
-itxtitle = "dharmashAstuH pancharatnam"
-engtitle = "Shri Dharmashastu Pancharatna"
-Category = "deities_misc, ayyappa, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "November 29, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धर्मशास्तुः पञ्चरत्नम्"
+---
+Category: deities_misc, ayyappa, stotra
+File name: dharmashastu.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 29, 1998
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dharmashAstuHpancharatnam
+Texttype: stotra
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Shri Dharmashastu Pancharatna
+itxtitle: dharmashAstuH pancharatnam
+title: धर्मशास्तुः पञ्चरत्नम्
 
-+++
+---
   
  श्रीधर्मशास्तुः पञ्चरत्नम्   
   

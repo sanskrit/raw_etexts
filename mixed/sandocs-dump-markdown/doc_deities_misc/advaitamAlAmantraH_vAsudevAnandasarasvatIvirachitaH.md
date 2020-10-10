@@ -1,24 +1,24 @@
-+++
-"Text title" = "advaitamAlAmantraH"
-"File name" = "advaitamAlAmantraHVS.itx"
-itxtitle = "advaitamAlAmantraH (vAsudevAnandasarasvatIvirachitaH)"
-engtitle = "advaitamAlAmantraH"
-Category = "dattatreya, deities_misc, vAsudevAnanda-sarasvatI, vedanta, mAlAmantra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "vAsudevAnandasarasvatI TembesvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "From stotrAdisangraha"
-Indexextra = "(stotrAdisangraha, Author)"
-"Latest update" = "December 31, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अद्वैतमालामन्त्रः (वासुदेवानन्दसरस्वतीविरचितः)"
+---
+Author: vAsudevAnandasarasvatI TembesvAmi
+Category: dattatreya, deities_misc, vAsudevAnanda-sarasvatI, vedanta, mAlAmantra
+Description-comments: From stotrAdisangraha
+File name: advaitamAlAmantraHVS.itx
+Indexextra: (stotrAdisangraha, Author)
+Language: Sanskrit
+Latest update: December 31, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: advaitamAlAmantraH
+engtitle: advaitamAlAmantraH
+itxtitle: advaitamAlAmantraH (vAsudevAnandasarasvatIvirachitaH)
+title: अद्वैतमालामन्त्रः (वासुदेवानन्दसरस्वतीविरचितः)
 
-+++
+---
   
  अद्वैतमालामन्त्रः   
 वराभयकरं देवं सच्चिदानन्दविग्रहम् ।  
@@ -62,7 +62,7 @@ title = "अद्वैतमालामन्त्रः (वासुदे
 अन्तरायकरा भूतग्रहाः क्रूरतरा अपि ।  
 याश्च तृष्णादिराक्षस्यो दुर्भरा भैरवा अपि ॥ ४॥  
   
-ये च त्रिविधदुःखाख्या वेतालो लोभसंज्ञितः ।  
+ये च त्रिविधदुःखाख्या वेतालो लोभसञ्ज्ञितः ।  
 महामोहाभिधो ब्रह्मराक्षसो द्विविधावृती ॥ ५॥  
   
 शाकिनी डाकिनी चापि लयाद्याश्च पिशाचकाः ।  

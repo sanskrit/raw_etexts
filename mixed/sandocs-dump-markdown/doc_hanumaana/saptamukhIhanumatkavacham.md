@@ -1,23 +1,23 @@
-+++
-"Text title" = "saptamukhiihanumatkavacham"
-"File name" = "saptamukhiihanumatkavach.itx"
-itxtitle = "saptamukhIhanumatkavacham"
-engtitle = "saptamukhIhanumatkavacham"
-Category = "kavacha, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "atharvaNarahasye"
-"Latest update" = "April 08, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सप्तमुखीहनुमत्कवचम्"
+---
+Author: Traditional
+Category: kavacha, hanumaana, hanuman
+Description-comments: atharvaNarahasye
+File name: saptamukhiihanumatkavach.itx
+Language: Sanskrit
+Latest update: April 08, 2006
+Location: doc_hanumaana
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: saptamukhiihanumatkavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: saptamukhIhanumatkavacham
+itxtitle: saptamukhIhanumatkavacham
+title: सप्तमुखीहनुमत्कवचम्
 
-+++
+---
   
  सप्तमुखीहनुमत्कवचम्   
   
@@ -78,13 +78,13 @@ title = "सप्तमुखीहनुमत्कवचम्"
 रुद्रांशः शत्रुसङ्ग्रामात्सर्वावस्थासु सर्वभृत् ॥ ११॥  
   
 ॐ नमो भगवते सप्तवदनाय आद्यकपिमुखाय वीरहनुमते  
-सर्वशत्रुसंहारणाय ठंठंठंठंठंठंठं ॐ नमः स्वाहा ॥ १२॥  
+सर्वशत्रुसंहारणाय ठण्ठण्ठण्ठण्ठण्ठण्ठं ॐ नमः स्वाहा ॥ १२॥  
   
 ॐ नमो भगवते सप्तवदनाय द्वीतीयनारसिंहास्याय अत्युग्रतेजोवपुषे  
 भीषणाय भयनाशनाय हंहंहंहंहंहंहं ॐ नमः स्वाहा ॥ १३॥  
   
 ॐ नमो भगवते सप्तवदनाय तृतीयगरुडवक्त्राय वज्रदंष्ट्राय  
-महाबलाय सर्वरोगविनाशाय मंमंमंमंमंमंमं ॐ नमः स्वाहा ॥ १४॥  
+महाबलाय सर्वरोगविनाशाय मम्मम्मम्मम्मम्मम्मं ॐ नमः स्वाहा ॥ १४॥  
   
 ॐ नमो भगवते सप्तवदनाय चतुर्थक्रोडतुण्डाय सौमित्रिरक्षकाय  
 पुत्राद्यभिवृद्धिकराय लंलंलंलंलंलंलं ॐ नमः स्वाहा ॥ १५॥  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "Sarasvati Bhujangaprayata stotra"
-"File name" = "sarasvatIbhujaNgaprayAtastotram.itx"
-itxtitle = "sarasvatIbhujaNgaprayAtastotram"
-engtitle = "Sarasvati Bhujangaprayata stotra"
-Category = "devii, sarasvatI, bhujanga, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Subcategory = "bhujanga"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीभुजण्गप्रयातस्तोत्रम्"
+---
+Category: devii, sarasvatI, bhujanga, devI
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: sarasvatIbhujaNgaprayAtastotram.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+SubDeity: sarasvatI
+Subcategory: bhujanga
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Sarasvati Bhujangaprayata stotra
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Sarasvati Bhujangaprayata stotra
+itxtitle: sarasvatIbhujaNgaprayAtastotram
+title: सरस्वतीभुजण्गप्रयातस्तोत्रम्
 
-+++
+---
   
  सरस्वतीभुजङ्गप्रयातस्तोत्रम्   
   

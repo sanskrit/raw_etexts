@@ -1,25 +1,25 @@
-+++
-"Text title" = "durgAmAnasa pUjA"
-"File name" = "durgaamaanasa.itx"
-itxtitle = "durgAmAnasa pUjA"
-engtitle = "durgAmAnasa pUjA"
-Category = "pUjA, devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "durgAtantre"
-"Latest update" = "October 14, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गामानस पूजा"
+---
+Author: Traditional
+Category: pUjA, devii, durgA, stotra, devI
+Description-comments: durgAtantre
+File name: durgaamaanasa.itx
+Language: Sanskrit
+Latest update: October 14, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAmAnasa pUjA
+Texttype: stotra
+Transliterated by: WebD
+engtitle: durgAmAnasa pUjA
+itxtitle: durgAmAnasa pUjA
+title: दुर्गामानस पूजा
 
-+++
+---
   
  श्रीदुर्गामानस पूजा   
   
@@ -50,7 +50,7 @@ title = "दुर्गामानस पूजा"
 चैतन्निर्मलमातनोतु वसनं श्रीसुन्दरि त्वन्मुदम् ॥ ५॥  
   
 स्वर्णाकल्पितकुण्डले श्रुतियुगे हस्ताम्बुजे मुद्रिका  
-मध्ये सारसना नितम्बफलके मञ्जीरमंघ्रिद्वये ।  
+मध्ये सारसना नितम्बफलके मञ्जीरमङ्घ्रिद्वये ।  
 हारो वक्षसि कङ्कणौ क्वणरणत्कारौ करद्वन्द्वके  
 विन्यस्तं मुकुटं शिरस्यनुदिनं दत्तोन्मदं स्तूयताम् ॥ ६॥  
   

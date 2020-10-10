@@ -1,22 +1,22 @@
-+++
-"Text title" = "rudropaniShat"
-"File name" = "rudropaniShat.itx"
-itxtitle = "rudropaniShat (shaiva)"
-engtitle = "rudropaniShat"
-Category = "upanishhat, shiva, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रोपनिषत् (शैव)"
+---
+Category: upanishhat, shiva, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: rudropaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: rudropaniShat
+engtitle: rudropaniShat
+itxtitle: rudropaniShat (shaiva)
+title: रुद्रोपनिषत् (शैव)
 
-+++
+---
   
  रुद्रोपनिषत्   
 विश्वमयो ब्राह्मणः शिवं व्रजति । ब्राह्मणः पञ्चाक्षरमनुभवति ।  

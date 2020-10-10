@@ -1,23 +1,23 @@
-+++
-"Text title" = "Dhumravarna Stuti by Devarshi"
-"File name" = "dhUmravarNastutiHdevarShibhiHproktA.itx"
-itxtitle = "dhUmravarNastutiH devarShibhiH proktA (mudgalapurANAntargatA)"
-engtitle = "dhUmravarNastutiH devarShibhiH proktA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan"
-"Proofread by" = "Ajit Krishnan, PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 8, Adhyaya 8"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "धूम्रवर्णस्तुतिः देवर्षिभिः प्रोक्ता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 8, Adhyaya 8
+File name: dhUmravarNastutiHdevarShibhiHproktA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: Ajit Krishnan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Dhumravarna Stuti by Devarshi
+Transliterated by: Ajit Krishnan
+engtitle: dhUmravarNastutiH devarShibhiH proktA
+itxtitle: dhUmravarNastutiH devarShibhiH proktA (mudgalapurANAntargatA)
+title: धूम्रवर्णस्तुतिः देवर्षिभिः प्रोक्ता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  धूम्रवर्णस्तुतिः देवर्षिभिः प्रोक्ता   
 शिव उवाच -  

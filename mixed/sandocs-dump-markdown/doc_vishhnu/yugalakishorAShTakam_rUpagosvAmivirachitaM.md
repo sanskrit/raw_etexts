@@ -1,25 +1,25 @@
-+++
-"Text title" = "yugalakishorAShTakam"
-"File name" = "yugalakishorAShTakam.itx"
-itxtitle = "yugalakishorAShTakam (rUpagosvAmivirachitaM)"
-engtitle = "yugalakishorAShTakam"
-Category = "vishhnu, aShTaka, radha, devii, krishna, rUpagosvAmi, devI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "rUpagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "युगलकिशोराष्टकम् (रूपगोस्वामिविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: rUpagosvAmi
+Category: vishhnu, aShTaka, radha, devii, krishna, rUpagosvAmi, devI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: yugalakishorAShTakam.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: yugalakishorAShTakam
+engtitle: yugalakishorAShTakam
+itxtitle: yugalakishorAShTakam (rUpagosvAmivirachitaM)
+title: युगलकिशोराष्टकम् (रूपगोस्वामिविरचितं)
 
-+++
+---
   
  श्रीयुगलकिशोराष्टकम्   
   

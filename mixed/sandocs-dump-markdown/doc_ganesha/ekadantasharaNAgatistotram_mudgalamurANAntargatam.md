@@ -1,24 +1,24 @@
-+++
-"Text title" = "ekadantasharaNaagatistotram"
-"File name" = "ekadantasharaNaagatistotram.itx"
-itxtitle = "ekadantasharaNAgatistotram (mudgalamurANAntargatam)"
-engtitle = "Ekadantasharanagatistotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P (kardan5380 at yahoo.com)  : Amith K Nagaraj"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "mudgalapurANa"
-"Latest update" = "September 12, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकदन्तशरणागतिस्तोत्रम् (मुद्गलमुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: mudgalapurANa
+File name: ekadantasharaNaagatistotram.itx
+Language: Sanskrit
+Latest update: September 12, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: ekadantasharaNaagatistotram
+Texttype: stotra
+Transliterated by: 'Karthik Chandan.P (kardan5380 at yahoo.com)  : Amith K Nagaraj'
+engtitle: Ekadantasharanagatistotram
+itxtitle: ekadantasharaNAgatistotram (mudgalamurANAntargatam)
+title: एकदन्तशरणागतिस्तोत्रम् (मुद्गलमुराणान्तर्गतम्)
 
-+++
+---
   
  एकदन्तशरणागतिस्तोत्रम्   
   
@@ -37,12 +37,12 @@ title = "एकदन्तशरणागतिस्तोत्रम् (म
 स्ववीर्यकं तत्र ददाति यो वै तमेकदन्तं शरणं व्रजामः ॥ ४॥  
   
 त्वदीयवीर्येण समर्थभूतस्वमायया संरचितं च विश्वम् ।  
-तुरीयकं ह्यात्मप्रतीतिसंज्ञं तमेकदन्तं शरणं व्रजामः ॥ ५॥  
+तुरीयकं ह्यात्मप्रतीतिसञ्ज्ञं तमेकदन्तं शरणं व्रजामः ॥ ५॥  
   
 स्वदीयसत्ताधरमेकदन्तं गुणेश्वरं यं गुणबोधितारम् ।  
 भजन्तमत्यन्तमजं त्रिसंस्थं तमेकदन्तं शरणं व्रजामः ॥ ६॥  
   
-ततस्वया प्रेरितनादकेन सुषुप्तिसंज्ञं रचितं जगद्वै ।  
+ततस्वया प्रेरितनादकेन सुषुप्तिसञ्ज्ञं रचितं जगद्वै ।  
 समानरूपं ह्युभयत्रसंस्थं तमेकदन्तं शरणं व्रजामः ॥ ७॥  
   
 तदेव विश्वं कृपया प्रभूतं द्विभावमादौ तमसा विभान्तम् ।  

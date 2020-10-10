@@ -1,24 +1,24 @@
-+++
-"Text title" = "sarvottamastotram"
-"File name" = "sarvottamastotram.itx"
-itxtitle = "sarvottamastotram (agnikumAraproktam)"
-engtitle = "sarvottamastotram"
-Category = "vishhnu, krishna, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "agnikumAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सर्वोत्तमस्तोत्रम् (अग्निकुमारप्रोक्तम्)"
+---
+Author: agnikumAra
+Category: vishhnu, krishna, puShTimArgIya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: sarvottamastotram.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sarvottamastotram
+engtitle: sarvottamastotram
+itxtitle: sarvottamastotram (agnikumAraproktam)
+title: सर्वोत्तमस्तोत्रम् (अग्निकुमारप्रोक्तम्)
 
-+++
+---
   
  श्रीसर्वोत्तमस्तोत्रम्   
   

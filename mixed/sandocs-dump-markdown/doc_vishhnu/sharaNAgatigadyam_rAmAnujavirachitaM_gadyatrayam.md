@@ -1,25 +1,25 @@
-+++
-"Text title" = "sharaNaagati gadyam"
-"File name" = "tsarana.itx"
-itxtitle = "sharaNAgatigadyam (rAmAnujavirachitaM gadyatrayam)"
-engtitle = "sharaNAgati gadyam"
-Category = "vishhnu, krishna, stotra, rAmAnuja, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Ramanujacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "T. R. Chari trchari at hotmail.com"
-"Proofread by" = "T. R. Chari, PSA easwaran"
-Description-comments = "One of the three gadyam-s (gadyatrayam)"
-"Latest update" = "January 5, 2000, February 11, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरणागतिगद्यम् (रामानुजविरचितं गद्यत्रयम्)"
+---
+Author: Ramanujacharya
+Category: vishhnu, krishna, stotra, rAmAnuja, vishnu
+Description-comments: One of the three gadyam-s (gadyatrayam)
+File name: tsarana.itx
+Language: Sanskrit
+Latest update: January 5, 2000, February 11, 2017
+Location: doc_vishhnu
+Proofread by: T. R. Chari, PSA easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sharaNaagati gadyam
+Texttype: stotra
+Transliterated by: T. R. Chari trchari at hotmail.com
+engtitle: sharaNAgati gadyam
+itxtitle: sharaNAgatigadyam (rAmAnujavirachitaM gadyatrayam)
+title: शरणागतिगद्यम् (रामानुजविरचितं गद्यत्रयम्)
 
-+++
+---
   
  शरणागति गद्यम्   
   

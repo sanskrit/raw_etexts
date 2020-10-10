@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Parthasarathi Stavah"
-"File name" = "pArthasArathistavaH.itx"
-itxtitle = "pArthasArathistavaH"
-engtitle = "pArthasArathistavaH"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Muthuraman Krishnamurthy"
-"Proofread by" = "Muthuraman Krishnamurthy, PSA Easwaran"
-"Description/comments" = "Encoded from Grantha Tamil text Parthasarathi Stavah"
-Indexextra = "(scan)"
-"Latest update" = "May 23, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "पार्थसारथिस्तवः"
+---
+Category: vishhnu, krishna
+Description/comments: Encoded from Grantha Tamil text Parthasarathi Stavah
+File name: pArthasArathistavaH.itx
+Indexextra: (scan)
+Language: Sanskrit
+Latest update: May 23, 2020
+Location: doc_vishhnu
+Proofread by: Muthuraman Krishnamurthy, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Parthasarathi Stavah
+Transliterated by: Muthuraman Krishnamurthy
+engtitle: pArthasArathistavaH
+itxtitle: pArthasArathistavaH
+title: पार्थसारथिस्तवः
 
-+++
+---
   
  श्रीपार्थसारथिस्तवः   
              श्रियै नमः ।  
@@ -50,7 +50,7 @@ title = "पार्थसारथिस्तवः"
 अन्यत्र न पतेदेव मत्कृतानति सन्ततिः ॥ २ ॥  
   
 यत्तदुक्तमविज्ञातं श्रुतिभिः प्रतिभावताम् ।  
-अज्ञत्वादेव संप्राप्ते वेत्तृत्वं वक्तृता च मे ॥ ३ ॥  
+अज्ञत्वादेव सम्प्राप्ते वेत्तृत्वं वक्तृता च मे ॥ ३ ॥  
   
 अधिकारोऽत्र नोवेति कल्पना न हरिस्तुतौ ।  
 पश्यन्तु साधु विबुधाः तावत्कालफलानयम् ॥ ४॥  
@@ -588,7 +588,7 @@ title = "पार्थसारथिस्तवः"
 कुसुमित सुभगावशुत्तमाला-  
 विवजलधिप्रभवा नरैकसूतौ ॥ १२३ ॥  
   
-अहो नु संप्रार्थयते गुणज्ञौ  
+अहो नु सम्प्रार्थयते गुणज्ञौ  
 अयं हि दासः प्रणयाम्बुराशी ।  
 किमस्ति वा त्वत्तनु दृष्टिमृष्टं  
 मत्पातकं वां पदपद्मचूडः ॥ १२४ ॥  
@@ -599,7 +599,7 @@ title = "पार्थसारथिस्तवः"
 यथा स्वधीशक्तिकृतेह माला ॥ १२५ ॥  
   
 वामर्पिताहं कृतिमूढचित्त-  
-     कृतापि युष्मद्गुणसंप्रयोगात् ।  
+     कृतापि युष्मद्गुणसम्प्रयोगात् ।  
 आमोद भारावहलब्धवर्णा  
      जीयाच्चिरं वां च मुदे कवीनाम् ॥ १२६ ॥  
   
@@ -778,7 +778,7 @@ title = "पार्थसारथिस्तवः"
 या वै शिखा यतिवरस्य निजानुरूपा  
      कौटिल्यलेशरहिता प्रविभात्यनल्पा ।  
 यद्वा शिखी स च तया क्व च साधुवृन्दाः  
-     धाम्ना शिखीति गदितुं किल संप्रवृत्ताः ॥ १७॥  
+     धाम्ना शिखीति गदितुं किल सम्प्रवृत्ताः ॥ १७॥  
   
 मूर्ध्नापि सद्वृत्तमयो यतीशः  
      यदेनमाहुर्भुवि भूसुराणाम् ।  
@@ -1016,7 +1016,7 @@ title = "पार्थसारथिस्तवः"
      भक्त्याञ्जनेन सुदृशः परिपश्यतैनम् ॥ ६८॥  
   
 यावत्कालं सन्नतौघे  समीपं  
-     संप्राप्ते वा स्वात्मभारार्पणाय ।  
+     सम्प्राप्ते वा स्वात्मभारार्पणाय ।  
 नायं योगी योगदृष्टाखिलेशः  
      खिन्नो दृष्टो दृष्टपुंसिंहचित्तः ॥ ६९॥  
   
@@ -1283,7 +1283,7 @@ End of Part 3
 वृष्टिर्वसोश्च विद्यायाः पुष्पस्य मधुनो यथा ।  
 सर्वामोदकरी लक्ष्मीनृसिंहहृदयङ्गमा ॥ ५८॥  
   
-सर्वथा संप्रवृत्ता सा देवानामपि दुर्लभा ।  
+सर्वथा सम्प्रवृत्ता सा देवानामपि दुर्लभा ।  
 दशधा लसदात्मापि तुष्यत्यात्मेश्वरो हरिः ॥ ५९॥  
   
 गुरुसन्तोषकृद्वृत्तः हंसश्शिष्यो यतिस्सदा ।  
@@ -1397,7 +1397,7 @@ End of Part 3
 समक्षञ्च दिनेशस्य कृतस्नानो यतीश्वरः ।  
 सन्दिग्धायां रविस्थित्यां नृसिंहारधने यतः ॥ ९६॥  
   
-लक्ष्मीनृसिंहशठजिद्योगीन्द्रं संप्रण्म्य च ।  
+लक्ष्मीनृसिंहशठजिद्योगीन्द्रं सम्प्रण्म्य च ।  
 कटाक्षामृतसन्तुष्टः जयत्यखिलवन्दितः ॥ ९७॥  
   
 अथ योगासने योगी योगतुष्टनृसिंहधीः ।  

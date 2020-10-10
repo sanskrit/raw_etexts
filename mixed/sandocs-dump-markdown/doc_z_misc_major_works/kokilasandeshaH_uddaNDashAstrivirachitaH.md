@@ -1,23 +1,23 @@
-+++
-"Text title" = "uddaNDashAstrivirachitaH kokilasandeshaH"
-"File name" = "kokilasandesha.itx"
-itxtitle = "kokilasandeshaH (uddaNDashAstrivirachitaH)"
-engtitle = "Uddanda Shastri's Kokila Sandesha"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "UddaNDashAstri"
-Language = "Sanskrit"
-Subject = "philosophy/literature/poetry"
-"Transliterated by" = "www.rasalabooks.com  Contact Venetia Ansell venetia at rasalabooks.com"
-"Proofread by" = "www.rasalabooks.com  Contact Venetia Ansell venetia at rasalabooks.com"
-"Latest update" = "July 31, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कोकिलसन्देशः (उद्दण्डशास्त्रिविरचितः)"
+---
+Author: UddaNDashAstri
+Category: major_works
+File name: kokilasandesha.itx
+Language: Sanskrit
+Latest update: July 31, 2012
+Location: doc_z_misc_major_works
+Proofread by: www.rasalabooks.com  Contact Venetia Ansell venetia at rasalabooks.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/literature/poetry
+Sublocation: major_works
+Text title: uddaNDashAstrivirachitaH kokilasandeshaH
+Texttype: pramukha
+Transliterated by: www.rasalabooks.com  Contact Venetia Ansell venetia at rasalabooks.com
+engtitle: Uddanda Shastri's Kokila Sandesha
+itxtitle: kokilasandeshaH (uddaNDashAstrivirachitaH)
+title: कोकिलसन्देशः (उद्दण्डशास्त्रिविरचितः)
 
-+++
+---
   
  कोकिलसन्देशः उद्दण्डशास्त्रिविरचितः   
   
@@ -537,7 +537,7 @@ title = "कोकिलसन्देशः (उद्दण्डशास्
   
 यस्यां मेघा हरिमणिशिलाहर्म्यपर्यन्तभाजो  
 न ज्ञायेरन् श्रवणसुभगं गर्जितं चेन्न दद्युः ।  
-विद्युद्वल्ली पुनरपि नवारब्धसंभोगलीला-  
+विद्युद्वल्ली पुनरपि नवारब्धसम्भोगलीला-  
 वेल्लत्कान्ताविपुलजघनस्रस्तकाञ्चीसमैव ॥ १०॥  
   
 तस्यां लक्ष्मीरमणनिलयं दक्षिणेनेक्षणीयं  
@@ -683,7 +683,7 @@ title = "कोकिलसन्देशः (उद्दण्डशास्
 कोपं चण्डि  त्यज परिजने दैवमत्रापराद्धं  
 येनाकाण्डे समघटि महानावयोर्विप्रयोगः ।  
 इत्थं बद्धाञ्जलि कृतरुषं भावितामग्रतस्तां  
-साहंभूता प्रियचटुशतैरुद्यता वानुनेतुम् ॥ ३९॥  
+साहम्भूता प्रियचटुशतैरुद्यता वानुनेतुम् ॥ ३९॥  
   
 गण्डालम्बैर्लुलितमलकैर्धूसरैर्वक्त्रबिम्बं  
 दृष्ट्वा शुद्धस्फटिकघटिते बिम्बितं भित्तिभागे ।  
@@ -785,7 +785,7 @@ title = "कोकिलसन्देशः (उद्दण्डशास्
 कालात् क्षीणे पुनरवयवे वर्धते केवलं नो  
 तापस्तीव्रस्मरहुतभुजा तस्य वर्णोद्गमोऽपि ॥ ५९॥  
   
-एवंप्राया न हि न विरहे जीवितुं सन्त्युपायाः  
+एवम्प्राया न हि न विरहे जीवितुं सन्त्युपायाः  
 सत्यं तैस्तैः कृतधृतिरहं प्राणिमि प्राणनाथे ।  
 निश्चित्यैवं निरुपमगुणे  साहसेभ्यो निवृत्ता  
 त्वं च स्नानादिषु सवयसां प्रार्थनां मा निषेधीः ॥ ६०॥  

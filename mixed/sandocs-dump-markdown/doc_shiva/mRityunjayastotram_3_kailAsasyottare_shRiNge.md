@@ -1,24 +1,24 @@
-+++
-"Text title" = "Mrityunjayastotram 3"
-"File name" = "mRRityunjayastotram3.itx"
-itxtitle = "mRityunjayastotram 3 (kailAsasyottare shRiNge)"
-engtitle = "Mrityunjayastotram 3"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com, NA"
-Indexextra = "(Scan)"
-"Latest update" = "December 25, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मृइत्युञ्जयस्तोत्रम् ३ (कैलासस्योत्तरे शृइण्गे)"
+---
+Author: Traditional
+Category: shiva, stotra
+File name: mRRityunjayastotram3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 25, 2018
+Location: doc_shiva
+Proofread by: Ganesh Kandu kanduganesh at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mrityunjayastotram 3
+Texttype: stotra
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: Mrityunjayastotram 3
+itxtitle: mRityunjayastotram 3 (kailAsasyottare shRiNge)
+title: मृइत्युञ्जयस्तोत्रम् ३ (कैलासस्योत्तरे शृइण्गे)
 
-+++
+---
   
  श्रीमृत्युञ्जयस्तोत्रम् ३   
 ॐ नमो मृत्युञ्जयाय ।  
@@ -89,7 +89,7 @@ title = "मृइत्युञ्जयस्तोत्रम् ३ (क�
 कारणं सर्वतीर्थानां मृत्युञ्जय नमोऽस्तु ते ॥ २१॥  
   
 नेता त्वमिन्द्रियाणां च सर्वज्ञानप्रबोधकः ।  
-सांख्ययोगश्च हंसश्च मृत्युञ्जय नमोऽस्तु ते ॥ २२॥  
+साङ्ख्ययोगश्च हंसश्च मृत्युञ्जय नमोऽस्तु ते ॥ २२॥  
   
 रूपातीतः सरूपश्च पिण्डस्थपदमेव च ।  
 चतुर्युगकलाधार मृत्युञ्जय नमोऽस्तु ते ॥ २३॥  

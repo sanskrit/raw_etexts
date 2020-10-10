@@ -1,23 +1,23 @@
-+++
-"Text title" = "Jayatviyam Vasundhara Jayatviyam Vasundhara"
-"File name" = "jayatviyaMvasundharAjayatviyaMvasundharA.itx"
-itxtitle = "jayatviyaM vasundharA jayatviyaM vasundharA"
-engtitle = "jayatviyaM vasundharA jayatviyaM vasundharA"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "abhirAja Dr. rAjendra mishra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Volunteers at Bharat Vikas Parishad https://bvpindia.com"
-Indexextra = "(Text, BVP Intro)"
-Acknowledge-Permission = "Bharat Vikas Parishad https://bvpindia.com Atam Dev"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयत्वियं वसुन्धरा जयत्वियं वसुन्धरा"
+---
+Acknowledge-Permission: Bharat Vikas Parishad https://bvpindia.com Atam Dev
+Author: abhirAja Dr. rAjendra mishra
+Category: misc, sanskritgeet
+File name: jayatviyaMvasundharAjayatviyaMvasundharA.itx
+Indexextra: (Text, BVP Intro)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Jayatviyam Vasundhara Jayatviyam Vasundhara
+Transliterated by: Volunteers at Bharat Vikas Parishad https://bvpindia.com
+engtitle: jayatviyaM vasundharA jayatviyaM vasundharA
+itxtitle: jayatviyaM vasundharA jayatviyaM vasundharA
+title: जयत्वियं वसुन्धरा जयत्वियं वसुन्धरा
 
-+++
+---
   
  जयत्वियं वसुन्धरा जयत्वियं वसुन्धरा   
 जयत्वियं वसुन्धरा जयत्वियं वसुन्धरा ।  

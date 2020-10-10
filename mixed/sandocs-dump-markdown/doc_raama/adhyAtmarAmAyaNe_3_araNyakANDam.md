@@ -1,25 +1,25 @@
-+++
-"Text title" = "adhyAtma rAmAyaNa araNyakANDam"
-"File name" = "adhyaatmaRamAra.itx"
-itxtitle = "adhyAtmarAmAyaNe 3 araNyakANDam"
-engtitle = "adhyAtmarAmAyaNa araNyakANDa"
-Category = "adhyAtmarAmAyaNa, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "pramukha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nagaraj Balijepalli"
-"Proofread by" = "Nagaraj Balijepalli, Sunder Hattangadi, PSA Easwaran, ahimsasoldier"
-Description-comments = "adhyAtma raamAyaNa"
-Indexextra = "(Hindi)"
-"Latest update" = "July 22, 2006, April 4, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अध्यात्मरामायणे ३ अरण्यकाण्डम्"
+---
+Author: Traditional
+Category: adhyAtmarAmAyaNa, raama
+Description-comments: adhyAtma raamAyaNa
+File name: adhyaatmaRamAra.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: July 22, 2006, April 4, 2015
+Location: doc_raama
+Proofread by: Nagaraj Balijepalli, Sunder Hattangadi, PSA Easwaran, ahimsasoldier
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: adhyAtma rAmAyaNa araNyakANDam
+Texttype: pramukha
+Transliterated by: Nagaraj Balijepalli
+engtitle: adhyAtmarAmAyaNa araNyakANDa
+itxtitle: adhyAtmarAmAyaNe 3 araNyakANDam
+title: अध्यात्मरामायणे ३ अरण्यकाण्डम्
 
-+++
+---
   
  अध्यात्मरामायणे अरण्यकाण्डम्   
 ॥ प्रथमः सर्गः ॥  

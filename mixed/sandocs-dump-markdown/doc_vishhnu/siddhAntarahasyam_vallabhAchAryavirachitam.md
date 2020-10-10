@@ -1,24 +1,24 @@
-+++
-"Text title" = "siddhAntarahasyam"
-"File name" = "siddhAntarahasyam.itx"
-itxtitle = "siddhAntarahasyam (vallabhAchAryavirachitam)"
-engtitle = "siddhAntarahasyam"
-Category = "vishhnu, krishna, puShTimArgIya, vallabhaachaarya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धान्तरहस्यम् (वल्लभाचार्यविरचितम्)"
+---
+Author: vallabhAchArya
+Category: vishhnu, krishna, puShTimArgIya, vallabhaachaarya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: siddhAntarahasyam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: siddhAntarahasyam
+engtitle: siddhAntarahasyam
+itxtitle: siddhAntarahasyam (vallabhAchAryavirachitam)
+title: सिद्धान्तरहस्यम् (वल्लभाचार्यविरचितम्)
 
-+++
+---
   
  सिद्धान्तरहस्यम्   
   

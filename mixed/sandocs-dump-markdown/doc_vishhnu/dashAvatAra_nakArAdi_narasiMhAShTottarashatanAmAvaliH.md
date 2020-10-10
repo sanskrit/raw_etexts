@@ -1,24 +1,25 @@
-+++
-"Text title" = "nakArAdi narasiMhAShTottarashatanAmAvaliH"
-"File name" = "nakArAdinarasiMha108nAmAvaliH.itx"
-itxtitle = "dashAvatAra nakArAdi narasiMhAShTottarashatanAmAvaliH"
-engtitle = "nakArAdi narasiMhAShTottarashatanAmAvaliH"
-Category = "aShTottarashatanAmAvalI, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "paNDita shrI bellaMkoNDa rAmarAya kavIndra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA"
-"Latest update" = "January 24, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतार नकारादि नरसिंहाष्टोत्तरशतनामावलिः"
+---
+Author: paNDita shrI bellaMkoNDa rAmarAya kavIndra
+Category: aShTottarashatanAmAvalI, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra,
+  vishnu
+File name: nakArAdinarasiMha108nAmAvaliH.itx
+Language: Sanskrit
+Latest update: January 24, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nakArAdi narasiMhAShTottarashatanAmAvaliH
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: nakArAdi narasiMhAShTottarashatanAmAvaliH
+itxtitle: dashAvatAra nakArAdi narasiMhAShTottarashatanAmAvaliH
+title: दशावतार नकारादि नरसिंहाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  नकारादि श्रीनरसिंहाष्टोत्तरशतनामावलिः   
 श्री हयग्रीवाय नमः ।  

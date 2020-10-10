@@ -1,21 +1,21 @@
-+++
-"Text title" = "vAkyasaNgraha udaaharaNa"
-"File name" = "vaakyaexamples.itx"
-itxtitle = "vAkyasaNgrahaH udAharaNaH"
-engtitle = "vAkya examples"
-Category = "sUchI, vaakyasangraha"
-Location = "doc_z_misc_vaakyasangraha"
-Sublocation = "vaakyasangraha"
-Language = "Sanskrit"
-Subject = "philosophy"
-"Latest update" = "1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाक्यसण्ग्रहः उदाहरणः"
+---
+Category: sUchI, vaakyasangraha
+File name: vaakyaexamples.itx
+Language: Sanskrit
+Latest update: '1998'
+Location: doc_z_misc_vaakyasangraha
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy
+Sublocation: vaakyasangraha
+Text title: vAkyasaNgraha udaaharaNa
+engtitle: vAkya examples
+itxtitle: vAkyasaNgrahaH udAharaNaH
+title: वाक्यसण्ग्रहः उदाहरणः
 
-+++
+---
   
- वाक्य संग्रह   
+ वाक्य सङ्ग्रह   
   
                     श्रद्धावाँल्लभते ज्ञानं  
   

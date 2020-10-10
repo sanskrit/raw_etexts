@@ -1,19 +1,19 @@
-+++
-"Text title" = "mArtaNDabhairavadhyAnam"
-"File name" = "mArtaNDabhairavadhyAnam.itx"
-itxtitle = "mArtaNDabhairavadhyAnam"
-engtitle = "mArtaNDabhairavadhyAnam"
-Category = "shiva, dhyAnam"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "December 17, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मार्तण्डभैरवध्यानम्"
+---
+Category: shiva, dhyAnam
+File name: mArtaNDabhairavadhyAnam.itx
+Language: Sanskrit
+Latest update: December 17, 2018
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mArtaNDabhairavadhyAnam
+engtitle: mArtaNDabhairavadhyAnam
+itxtitle: mArtaNDabhairavadhyAnam
+title: मार्तण्डभैरवध्यानम्
 
-+++
+---
   
  श्रीमार्तण्डभैरवध्यानम्   
 हेमाम्भोजप्रवालप्रतिमनिजरुचिं चारुखट्वाङ्गपद्मौ  

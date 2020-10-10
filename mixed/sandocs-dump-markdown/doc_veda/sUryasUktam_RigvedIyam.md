@@ -1,22 +1,22 @@
-+++
-"Text title" = "sUryasUktam from Rigveda"
-"File name" = "sUryasUktamRigveda.itx"
-itxtitle = "sUryasUktam (RigvedIyam)"
-engtitle = "sUryasUktam from Rigveda"
-Category = "veda, sUkta, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "Mandala 1, Sukta 115"
-Indexextra = "(Hindi 1 AWGP, 2 Arya, 3, English)"
-"Latest update" = "May 5, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यसूक्तम् (ऋइग्वेदीयम्)"
+---
+Category: veda, sUkta, svara
+Description/comments: Mandala 1, Sukta 115
+File name: sUryasUktamRigveda.itx
+Indexextra: (Hindi 1 AWGP, 2 Arya, 3, English)
+Language: Sanskrit
+Latest update: May 5, 2018
+Location: doc_veda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: sUryasUktam from Rigveda
+Texttype: svara
+engtitle: sUryasUktam from Rigveda
+itxtitle: sUryasUktam (RigvedIyam)
+title: सूर्यसूक्तम् (ऋइग्वेदीयम्)
 
-+++
+---
   
  ऋग्वेदीय सूर्यसूक्तम्   
   

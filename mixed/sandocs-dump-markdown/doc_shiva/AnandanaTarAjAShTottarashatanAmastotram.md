@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shrimad Ananda Nataraja AshTottarashatanama Stotram"
-"File name" = "AnandanaTarAjAShTottarashatanAmastotram.itx"
-itxtitle = "AnandanaTarAjAShTottarashatanAmastotram"
-engtitle = "AnandanaTarAjAShTottarashatanAmastotram"
-Category = "shiva, aShTottarashatanAma"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Latest update" = "May 9, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "आनन्दनटराजाष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: shiva, aShTottarashatanAma
+File name: AnandanaTarAjAShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: May 9, 2020
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shrimad Ananda Nataraja AshTottarashatanama Stotram
+Transliterated by: NA
+engtitle: AnandanaTarAjAShTottarashatanAmastotram
+itxtitle: AnandanaTarAjAShTottarashatanAmastotram
+title: आनन्दनटराजाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीमदानन्दनटराजाष्टोत्तरशतनामस्तोत्रम्   
 चिदम्बरेश्वरः शम्भुः नटेशो नटनप्रियः ।  
@@ -72,7 +72,7 @@ title = "आनन्दनटराजाष्टोत्तरशतना�
 पुत्रपौत्रप्रदं वंशवृद्धिदं विषनाशनम् ।  
 आयुष्करं व्याधिहरं सर्वसम्पत्प्रदायकम् ॥ १८॥  
   
-सर्वमङ्गलसंप्राप्तिः जायते तस्य हि धुवम् ।  
+सर्वमङ्गलसम्प्राप्तिः जायते तस्य हि धुवम् ।  
   
 इति श्रीमदानन्दनटराजाष्टोत्तरशतनामस्तोत्रं सम्पूर्णम् ॥  
   

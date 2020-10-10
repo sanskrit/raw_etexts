@@ -1,25 +1,25 @@
-+++
-"Text title" = "shAkinIsadAshivasahasra"
-"File name" = "shAkinIsadAshivasahasra.itx"
-itxtitle = "shAkinIsadAshivastavanamaNgalAShTottarasahasranAmastotram"
-engtitle = "shAkinIsadAshivastavanamaNgalAShTottarasahasranAmastotra"
-Category = "sahasranAma, devii, ShaTchakrashakti, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mark S.G. Dyczkowski muktAbodha"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale uttaratantre bhairava bhairavI sa.nvAde"
-"Latest update" = "May 25, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शाकिनीसदाशिवस्तवनमण्गलाष्टोत्तरसहस्रनामस्तोत्रम्"
+---
+Author: Traditional
+Category: sahasranAma, devii, ShaTchakrashakti, stotra, devI
+Description-comments: rudrayAmale uttaratantre bhairava bhairavI sa.nvAde
+File name: shAkinIsadAshivasahasra.itx
+Language: Sanskrit
+Latest update: May 25, 2009
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAkinIsadAshivasahasra
+Texttype: stotra
+Transliterated by: Mark S.G. Dyczkowski muktAbodha
+engtitle: shAkinIsadAshivastavanamaNgalAShTottarasahasranAmastotra
+itxtitle: shAkinIsadAshivastavanamaNgalAShTottarasahasranAmastotram
+title: शाकिनीसदाशिवस्तवनमण्गलाष्टोत्तरसहस्रनामस्तोत्रम्
 
-+++
+---
   
  शाकिनीसदाशिवस्तवनमङ्गलाष्टोत्तरसहस्रनामस्तोत्र   
   
@@ -253,7 +253,7 @@ title = "शाकिनीसदाशिवस्तवनमण्गला�
 लाकिनीशा लाकिनीशः प्रियाख्या चारुवाहनः ॥ ७५ ॥  
   
 जटिला त्रिजटाधारी चतुराङ्गी चराचरः ।  
-त्रिश्रोता पार्वंतीनाथो भुवनेशी नरेश्वरः ॥ ७६ ॥  
+त्रिश्रोता पार्वन्तीनाथो भुवनेशी नरेश्वरः ॥ ७६ ॥  
   
 पिनाकिनी पिनाकी च चन्द्रचूडा विचारवित् ।  
 जाड्यहन्त्री जडात्मा च जिह्वायुक्तो जरामरः ॥ ७७ ॥  

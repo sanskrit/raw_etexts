@@ -1,22 +1,22 @@
-+++
-"Text title" = "shanaishcharasahasranAmaavaLiH"
-"File name" = "shanaishchara1000.itx"
-itxtitle = "shanaishcharasahasranAmAvaliH"
-engtitle = "shanaishchara sahasranAmAvaLiH"
-Category = "sahasranAmAvalI, navagraha, nAmAvalI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kirk Wortman kirkwort at hotmail.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-"Latest update" = "May 19, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शनैश्चरसहस्रनामावलिः"
+---
+Category: sahasranAmAvalI, navagraha, nAmAvalI
+File name: shanaishchara1000.itx
+Language: Sanskrit
+Latest update: May 19, 2007
+Location: doc_z_misc_navagraha
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shanaishcharasahasranAmaavaLiH
+Texttype: nAmAvalI
+Transliterated by: Kirk Wortman kirkwort at hotmail.com
+engtitle: shanaishchara sahasranAmAvaLiH
+itxtitle: shanaishcharasahasranAmAvaliH
+title: शनैश्चरसहस्रनामावलिः
 
-+++
+---
   
  श्रीशनैश्चरसहस्रनामावळिः   
   
@@ -91,7 +91,7 @@ title = "शनैश्चरसहस्रनामावलिः"
 ॐ आत्मनामजपप्रीताय नमः ।  
 ॐ आत्माधिकफलप्रदाय नमः । ॥ ११॥  
   
-ॐ आदित्यसंभवाय नमः । ६०  
+ॐ आदित्यसम्भवाय नमः । ६०  
 ॐ आर्तिभञ्जनाय नमः ।  
 ॐ आत्मरक्षकाय नमः ।  
 ॐ आपद्बान्धवाय नमः ।  
@@ -162,9 +162,9 @@ title = "शनैश्चरसहस्रनामावलिः"
 ॐ ऐन्द्राय नमः ।  
 ॐ ऐरावतसुपूजिताय नमः । ॥ २३॥  
   
-ॐ ओंकारजपसुप्रीताय नमः ।  
-ॐ ओंकारपरिपूजिताय नमः । १२०  
-ॐ ओंकारबीजाय नमः ।  
+ॐ ओङ्कारजपसुप्रीताय नमः ।  
+ॐ ओङ्कारपरिपूजिताय नमः । १२०  
+ॐ ओङ्कारबीजाय नमः ।  
 ॐ औदार्यहस्ताय नमः ।  
 ॐ औन्नत्यदायकाय नमः । ॥ २४॥  
   
@@ -289,7 +289,7 @@ title = "शनैश्चरसहस्रनामावलिः"
 ॐ घर्मिणे नमः ।  
 ॐ घनकृपान्विताय नमः ।  
 ॐ घननीलाम्बरधराय नमः ।  
-ॐ ङादिवर्ण सुसंज्ञिताय नमः । ॥ ४५॥  
+ॐ ङादिवर्ण सुसञ्ज्ञिताय नमः । ॥ ४५॥  
   
 ॐ चक्रवर्तिसमाराध्याय नमः ।  
 ॐ चन्द्रमत्यसमर्चिताय नमः ।  
@@ -441,7 +441,7 @@ title = "शनैश्चरसहस्रनामावलिः"
 ॐ दैवज्ञचित्तवासिने नमः ।  
 ॐ दमयन्त्यासुपूजिताय नमः । ॥ ७२॥  
   
-ॐ द्वादशाब्दंतु दुर्भिक्षकारिणे नमः ।  
+ॐ द्वादशाब्दन्तु दुर्भिक्षकारिणे नमः ।  
 ॐ दुःस्वप्ननाशनाय नमः ।  
 ॐ दुराराध्याय नमः ।  
 ॐ दुराधर्षाय नमः ।  
@@ -519,7 +519,7 @@ title = "शनैश्चरसहस्रनामावलिः"
 ॐ नळस्तोत्रप्रियाय नमः ।  
 ॐ नळराजसुपूजिताय नमः ।  
 ॐ नक्षत्रमण्डलगताय नमः । ४२०  
-ॐ नमतांप्रियकारकाय नमः । ॥ ८५॥  
+ॐ नमताम्प्रियकारकाय नमः । ॥ ८५॥  
   
 ॐ नित्यार्चितपदाम्भोजाय नमः ।  
 ॐ निजाज्ञापरिपालकाय नमः ।  
@@ -790,7 +790,7 @@ title = "शनैश्चरसहस्रनामावलिः"
 ॐ भक्तिमतां सुलभाय नमः ।  
 ॐ भ्रुकुटीमुखाय नमः । ॥ १३२॥ ६५०  
 ॐ भवभूतगणैःस्तुत्याय नमः ।  
-ॐ भूतसंघसमावृताय नमः ।  
+ॐ भूतसङ्घसमावृताय नमः ।  
 ॐ भ्राजिष्णवे नमः ।  
 ॐ भगवते नमः ।  
 ॐ भीमाय नमः ।  
@@ -1107,7 +1107,7 @@ title = "शनैश्चरसहस्रनामावलिः"
   
 ॐ सप्तद्वीपाधिपाय नमः ।  
 ॐ सुरासुरभयङ्कराय नमः ।  
-ॐ सर्वसंक्षोभहारिणे नमः ।  
+ॐ सर्वसङ्क्षोभहारिणे नमः ।  
 ॐ सर्वलोकहितङ्कराय नमः । ॥ १८४॥  
   
 ॐ सर्वौदार्यस्वभावाय नमः ।  
@@ -1120,7 +1120,7 @@ title = "शनैश्चरसहस्रनामावलिः"
 ॐ सर्वसौख्यप्रदात्रे नमः ।  
 ॐ सर्वव्याकुलनाशनाय नमः । ॥ १८६॥  
   
-ॐ सर्वसंक्षोभहारिणे नमः ।  
+ॐ सर्वसङ्क्षोभहारिणे नमः ।  
 ॐ सर्वारिष्टफलप्रदाय नमः ।  
 ॐ सर्वव्याधिप्रशमनाय नमः ।  
 ॐ सर्वमृत्युनिवारकाय नमः । ॥ १८७॥  

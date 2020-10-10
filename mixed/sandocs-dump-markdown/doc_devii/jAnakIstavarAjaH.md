@@ -1,23 +1,23 @@
-+++
-"Text title" = "jAnakIstavarAjaH"
-"File name" = "jAnakIstavarAjaH.itx"
-itxtitle = "jAnakIstavarAjaH"
-engtitle = "jAnakIstavarAjaH"
-Category = "devii, stavarAja, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Source = "agastyasaMhitA paramarahasya"
-Indexextra = "(booklet)"
-"Latest update" = "September 22, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जानकीस्तवराजः"
+---
+Category: devii, stavarAja, otherforms, devI
+File name: jAnakIstavarAjaH.itx
+Indexextra: (booklet)
+Language: Sanskrit
+Latest update: September 22, 2017
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: agastyasaMhitA paramarahasya
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jAnakIstavarAjaH
+engtitle: jAnakIstavarAjaH
+itxtitle: jAnakIstavarAjaH
+title: जानकीस्तवराजः
 
-+++
+---
   
  श्रीजानकीस्तवराजः   
   
@@ -304,7 +304,7 @@ title = "जानकीस्तवराजः"
   
 साक्षात्तपोव्रतयमैर्नियमैः समीहे  
 कर्तुङ्कृपामृतमिह प्रसभं स्वरूपम् ।  
-नाथस्यते श्रुतिवचो विषयंकथंस्या-  
+नाथस्यते श्रुतिवचो विषयङ्कथंस्या-  
 न्मूढोवृथोत्सृजति देवि सुखान्यमूनि ॥ ५०॥  
   
 योगाधिरूढमुनयो हरिपादपद्मे  

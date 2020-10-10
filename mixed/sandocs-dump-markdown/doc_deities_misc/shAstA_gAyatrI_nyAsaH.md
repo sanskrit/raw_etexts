@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAstAgAyatrInyAsaH"
-"File name" = "shaastaagaayatriinyaasah.itx"
-itxtitle = "shAstA gAyatrI nyAsaH"
-engtitle = "hariharaputra/shAstA/ayyappa gAyatrI nyAsaH"
-Category = "deities_misc, ayyappa, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 23, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शास्ता गायत्री न्यासः"
+---
+Category: deities_misc, ayyappa, stotra
+File name: shaastaagaayatriinyaasah.itx
+Language: Sanskrit
+Latest update: April 23, 2008
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: shAstAgAyatrInyAsaH
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: hariharaputra/shAstA/ayyappa gAyatrI nyAsaH
+itxtitle: shAstA gAyatrI nyAsaH
+title: शास्ता गायत्री न्यासः
 
-+++
+---
   
  हरिहरपुत्र अथवा शास्ता अथवा अय्यप्प गायत्री न्यासः   
   

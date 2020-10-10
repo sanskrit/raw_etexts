@@ -1,23 +1,23 @@
-+++
-"Text title" = "Bhajami Shailasuta Ramanam"
-"File name" = "bhajAmishailasutAramaNam.itx"
-itxtitle = "bhajAmi shailasutAramaNam"
-engtitle = "Bhajami Shailasuta Ramanam"
-Category = "misc, sanskritgeet, shiva"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jagadananda Jha"
-"Proofread by" = "Jagadananda Jha"
-Indexextra = "(Video,  Audio)"
-Acknowledge-Permission = "https://sanskritbhasi.blogspot.com"
-"Latest update" = "January 26, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भजामि शैलसुतारमणम्"
+---
+Acknowledge-Permission: https://sanskritbhasi.blogspot.com
+Category: misc, sanskritgeet, shiva
+File name: bhajAmishailasutAramaNam.itx
+Indexextra: (Video,  Audio)
+Language: Sanskrit
+Latest update: January 26, 2020
+Location: doc_z_misc_general
+Proofread by: Jagadananda Jha
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bhajami Shailasuta Ramanam
+Transliterated by: Jagadananda Jha
+engtitle: Bhajami Shailasuta Ramanam
+itxtitle: bhajAmi shailasutAramaNam
+title: भजामि शैलसुतारमणम्
 
-+++
+---
   
  भजामि शैलसुतारमणम्   
 हे हर! शङ्कर! जीवनभारमुपाहर श्रीचरणं  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "kirAtamUrtistotram"
-"File name" = "kirAtamUrtistotram.itx"
-itxtitle = "kirAtamUrtistotram"
-engtitle = "kirAtamUrtistotram"
-Category = "aShTaka, deities_misc, ayyappa, shiva"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Source = "Bhaktitarangini by Prof. P.C. Vasudevan Elayath"
-"Latest update" = "September 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "किरातमूर्तिस्तोत्रम्"
+---
+Category: aShTaka, deities_misc, ayyappa, shiva
+File name: kirAtamUrtistotram.itx
+Language: Sanskrit
+Latest update: September 7, 2019
+Location: doc_deities_misc
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Bhaktitarangini by Prof. P.C. Vasudevan Elayath
+SubDeity: ayyappa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: kirAtamUrtistotram
+engtitle: kirAtamUrtistotram
+itxtitle: kirAtamUrtistotram
+title: किरातमूर्तिस्तोत्रम्
 
-+++
+---
   
  किरातमूर्तिस्तोत्रं   
 नमः शिवाय भर्गाय लीलाशबररूपिणे ।  

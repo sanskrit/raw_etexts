@@ -1,26 +1,26 @@
-+++
-"Text title" = "Anandasagarastava"
-"File name" = "anandasagarastava.itx"
-itxtitle = "AnandasAgarastavaH"
-engtitle = "Anandasagarastava"
-Category = "devii, otherforms, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "stotra"
-Author = "Nilakantha Dikshitar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi"
-"Translated by" = "n/a"
-Description-comments = "Hymn to Devi Minakshi"
-Indexextra = "(Scan)"
-"Latest update" = "Dec. 18, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आनन्दसागरस्तवः"
+---
+Author: Nilakantha Dikshitar
+Category: devii, otherforms, stotra, devI
+Description-comments: Hymn to Devi Minakshi
+File name: anandasagarastava.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: Dec. 18, 2009
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Anandasagarastava
+Texttype: stotra
+Translated by: n/a
+Transliterated by: Sunder Hattangadi
+engtitle: Anandasagarastava
+itxtitle: AnandasAgarastavaH
+title: आनन्दसागरस्तवः
 
-+++
+---
   
  आनन्दसागरस्तवः   
   
@@ -222,9 +222,9 @@ title = "आनन्दसागरस्तवः"
 तुल्यं तदम्ब यदि कस्तव वीरवादः ॥ ३९ ॥  
   
 प्रारब्धकर्म गिरिजे भवदाश्रिताना-  
-मन्यत्र संक्रमय नाशय वा समूलम् ।  
+मन्यत्र सङ्क्रमय नाशय वा समूलम् ।  
 मर्त्याश्च खल्वपि विषं वपुषि प्रसक्तं  
-संक्रामयन्ति परतोऽपि च नाशयन्ति ॥ ४० ॥  
+सङ्क्रामयन्ति परतोऽपि च नाशयन्ति ॥ ४० ॥  
   
 त्वद्दर्शनश्रवणचिन्तनवन्दनादि-  
 ष्वक्षाणि देवि विनियुज्य यथाधिकारम् ।  
@@ -233,7 +233,7 @@ title = "आनन्दसागरस्तवः"
   
 त्रातव्य एष इति चेत्करुणा मयि स्या-  
 त्त्रायस्व किं सुकृतदुष्कृतचिन्तया मे ।  
-कर्तुं जगत्तिरयितुं च विशृंखलायाः  
+कर्तुं जगत्तिरयितुं च विशृङ्खलायाः  
 कर्मानुरोध इति कं प्रति वञ्चनेयम् ॥ ४२ ॥  
   
 त्वय्यर्पितं प्रथममप्पययज्वनैव  
@@ -252,12 +252,12 @@ title = "आनन्दसागरस्तवः"
 विस्रब्धमुत्तरत पल्वलतुल्यमेनम् ॥ ४५ ॥  
   
 क्वेदं पतिष्यति वपुः क्व ततो नु गम्यं  
-को दण्डयिष्यति कियंतमनेहसं वा ।  
+को दण्डयिष्यति कियन्तमनेहसं वा ।  
 किं तस्य सन्तरणसाधनमित्यनन्ता  
 चिन्ता स्थिता त्वयि शनैरवतारिता सा ॥ ४६ ॥  
   
 ज्ञानं विशेयमुत तेन विनोद्धरेयं  
-प्रारब्धमप्यपलपेयमुतानुरुंध्याम् ।  
+प्रारब्धमप्यपलपेयमुतानुरुन्ध्याम् ।  
 इत्थं सकृत्प्रपदनैकवशंवदाया  
 मातुर्मयि प्रववृते महतीह चिन्ता ॥ ४७ ॥  
   
@@ -327,7 +327,7 @@ title = "आनन्दसागरस्तवः"
   
 अव्याजसुन्दरमनुत्तरमप्रमेय-  
 मप्राकृतं परममङ्गलमङ्घ्रिपद्मम् ।  
-संदर्शयेदपि सकृद्भवती दयार्द्रा  
+सन्दर्शयेदपि सकृद्भवती दयार्द्रा  
 द्रष्टास्मि केन तदहं तु विलोचनेन ॥ ६१ ॥  
   
 दिव्या दृशोऽपि दिविषद्ग्रहणोचितानि  
@@ -551,7 +551,7 @@ title = "आनन्दसागरस्तवः"
 मातः स्तुतिं त्वयि समर्पयितुं विलज्जे ॥ १०५ ॥  
   
 काचित्कृता कृतिरिति त्वयि साऽर्पितेति  
-कापि प्रमोदकणिका न ममांतरङ्गे ।  
+कापि प्रमोदकणिका न ममान्तरङ्गे ।  
 मौढ्यं मदीयमिह यद्विदितं ममैव  
 किं त्वम्ब विश्वसिमि दीनशरण्यतां ते ॥ १०६ ॥  
   

@@ -1,28 +1,29 @@
-+++
-"Text title" = "IsvarakRiShNasya sA.nkhyakArikA"
-"File name" = "IshvarakRiShNasAnkyakArikA.itx"
-itxtitle = "sANkhyakArikA (IshvarakRiShNasya)"
-engtitle = "Ishvarakrishna's sAnkhyakArikA"
-Category = "major_works, krishna"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-SubDeity = "krishna"
-Texttype = "pramukha"
-Author = "IshvarakRiShNa"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Ferenc Ruzsa F_RUZSA at ISIS.ELTE.HU"
-"Proofread by" = "Surin Usgaonkar usgaonkar at hotmail.com, Giulio Enrico Geymonat giuliogey at gmail.com"
-Description-comments = "See references in the end of the text"
-Indexextra = "(meaning)"
-"Latest update" = "Orginal entry in 1998.  April 24, 2005, December 25, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "साण्ख्यकारिका (ईश्वरकृइष्णस्य)"
+---
+Author: IshvarakRiShNa
+Category: major_works, krishna
+Description-comments: See references in the end of the text
+File name: IshvarakRiShNasAnkyakArikA.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: Orginal entry in 1998.  April 24, 2005, December 25, 2014
+Location: doc_z_misc_major_works
+Proofread by: Surin Usgaonkar usgaonkar at hotmail.com, Giulio Enrico Geymonat giuliogey
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: Hinduism/religion/traditional
+Sublocation: major_works
+Text title: IsvarakRiShNasya sA.nkhyakArikA
+Texttype: pramukha
+Transliterated by: Ferenc Ruzsa F_RUZSA at ISIS.ELTE.HU
+engtitle: Ishvarakrishna's sAnkhyakArikA
+itxtitle: sANkhyakArikA (IshvarakRiShNasya)
+title: साण्ख्यकारिका (ईश्वरकृइष्णस्य)
 
-+++
+---
   
- ईश्वरकृष्णस्य सांख्यकारिका   
+ ईश्वरकृष्णस्य साङ्ख्यकारिका   
   
 साङ्ख्य कारिका - ईश्वरकृष्ण  
 दुःखत्रयाभिघाताज् जिज्ञासा तदप१घातके हेतौ ।  

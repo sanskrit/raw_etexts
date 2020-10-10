@@ -1,25 +1,26 @@
-+++
-"Text title" = "Gaudapadacharya Ashtottarashata Namavali 108 Names"
-"File name" = "gauDapAdAchAryAShTottarashatanAmAvalI.itx"
-itxtitle = "gauDapAdAchAryAShTottarashatanAmAvaliH"
-engtitle = "gauDapAdAchAryAShTottarashatanAmAvalI"
-Category = "deities_misc, gurudev, aShTottarashatanAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Swami Bodhathmananda Saraswathi, Chinmaya mission Mumbai"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Description/comments" = "The nAmAvalI is based on Mandukya Karika, offered to Gaudapacharya ji on the day of Bhagavan Shankaracharya Jayanti"
-Acknowledge-Permission = "Swami Bodhathmananda Saraswathi, Chinmaya mission"
-"Latest update" = "July 26, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गौडपादाचार्याष्टोत्तरशतनामावलिः"
+---
+Acknowledge-Permission: Swami Bodhathmananda Saraswathi, Chinmaya mission
+Author: Swami Bodhathmananda Saraswathi, Chinmaya mission Mumbai
+Category: deities_misc, gurudev, aShTottarashatanAmAvalI
+Description/comments: The nAmAvalI is based on Mandukya Karika, offered to Gaudapacharya
+  ji on the day of Bhagavan Shankaracharya Jayanti
+File name: gauDapAdAchAryAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: July 26, 2019
+Location: doc_deities_misc
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Gaudapadacharya Ashtottarashata Namavali 108 Names
+Transliterated by: NA
+engtitle: gauDapAdAchAryAShTottarashatanAmAvalI
+itxtitle: gauDapAdAchAryAShTottarashatanAmAvaliH
+title: गौडपादाचार्याष्टोत्तरशतनामावलिः
 
-+++
+---
   
  परमगुरु गौडपादाचार्याणां अष्टोत्तरशतनामावलिः   
 ॐ परमगुरवे नमः । अकार्पण्याय । अग्राह्यात्मने । अचलाय ।  

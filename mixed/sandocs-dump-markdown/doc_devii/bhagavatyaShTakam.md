@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhagavatyaShTakam"
-"File name" = "bhagavatii8.itx"
-itxtitle = "bhagavatyaShTakam"
-engtitle = "bhagavatyaShTakam"
-Category = "aShTaka, devii, pArvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "amaradAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sridhar - Seshagiri"
-"Latest update" = "November 26, 2001, November 27, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवत्यष्टकम्"
+---
+Author: amaradAsa
+Category: aShTaka, devii, pArvatI, devI
+File name: bhagavatii8.itx
+Language: Sanskrit
+Latest update: November 26, 2001, November 27, 2016
+Location: doc_devii
+Proofread by: Sridhar - Seshagiri
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhagavatyaShTakam
+engtitle: bhagavatyaShTakam
+itxtitle: bhagavatyaShTakam
+title: भगवत्यष्टकम्
 
-+++
+---
   
  भगवत्यष्टकम्   
   

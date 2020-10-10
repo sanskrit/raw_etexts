@@ -1,23 +1,23 @@
-+++
-"Text title" = "Uttaradinacharya"
-"File name" = "uttaradinacharyA.itx"
-itxtitle = "uttaradinacharyA"
-engtitle = "uttaradinacharyA"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Ramanuja Stotramala"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उत्तरदिनचर्या"
+---
+Category: deities_misc, gurudev
+Description/comments: Ramanuja Stotramala
+File name: uttaradinacharyA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Uttaradinacharya
+engtitle: uttaradinacharyA
+itxtitle: uttaradinacharyA
+title: उत्तरदिनचर्या
 
-+++
+---
   
  उत्तरदिनचर्या   
 श्रीदेवराजगुरुभिरनुगृहीता  
@@ -49,12 +49,12 @@ title = "उत्तरदिनचर्या"
   
 अग्रे पश्चादुपरि परितो भूतलं पार्श्वतो मे  
      मौलौ वक्त्रे वपुषि सकले मानसाम्भोरुहे च ।  
-दर्शंदर्शं वरवरमुने दिव्यमङ्घ्रिद्वयं ते  
+दर्शन्दर्शं वरवरमुने दिव्यमङ्घ्रिद्वयं ते  
      नित्यं मज्जन्नमृतजलधौ निस्तरेयं भवाब्धिम् ॥ ७॥  
   
 कर्माधीने वपुषि कुमतिः कल्पयन्नात्मभावं  
      दुःखे मग्नः किमिति सुचिरं दूयते जन्तुरेषः ।  
-सर्वे त्यक्त्वा वरवरमुने ! संप्रति त्वत्प्रसादा-  
+सर्वे त्यक्त्वा वरवरमुने ! सम्प्रति त्वत्प्रसादा-  
      द्दिव्यं प्राप्तुस्तव पदयुगं देहि मे सुप्रभातम् ॥ ८॥  
   
 या या वृत्तिर्मनसि मम सा जायतां संस्मृतिस्ते  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "OMnamonArAyaNAya aShTAksharamantramAhAtmya"
-"File name" = "OMnamonArAyaNAyaaShTAksharamantramAhAtmya.itx"
-itxtitle = "OM namo nArAyaNAya aShTAkSharamAhAtmyam"
-engtitle = "OM namo nArAyaNAya aShTAkSharamAhAtmyam"
-Category = "vishhnu, narayana, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "narayana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 17"
-"Latest update" = "June 6, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ॐ नमो नारायणाय अष्टाक्षरमाहात्म्यम्"
+---
+Category: vishhnu, narayana, stotra, vishnu
+Description-comments: Narasimhapurana adhyAya 17
+File name: OMnamonArAyaNAyaaShTAksharamantramAhAtmya.itx
+Language: Sanskrit
+Latest update: June 6, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: narayana
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: OMnamonArAyaNAya aShTAksharamantramAhAtmya
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: OM namo nArAyaNAya aShTAkSharamAhAtmyam
+itxtitle: OM namo nArAyaNAya aShTAkSharamAhAtmyam
+title: ॐ नमो नारायणाय अष्टाक्षरमाहात्म्यम्
 
-+++
+---
   
  ॐ नमो नारायणाय अष्टाक्षरमाहात्म्यं   
   
@@ -53,7 +53,7 @@ title = "ॐ नमो नारायणाय अष्टाक्षरम�
 सर्वपापहरः श्रीमान् सर्वमन्त्रेषु चोत्तमः ।  
 एनमष्टाक्षरं मन्त्रं जपन्नारायणं स्मरेत् ॥ ९॥  
   
-संध्यावसाने सततं सर्वपापैः प्रमुच्यते ।  
+सन्ध्यावसाने सततं सर्वपापैः प्रमुच्यते ।  
 एष एव परो मन्त्र एष एव परं तपः ॥ १०॥  
   
 एष एव परो मोक्ष एष स्वर्ग उदाहृतः ।  
@@ -101,7 +101,7 @@ title = "ॐ नमो नारायणाय अष्टाक्षरम�
 जपेन्नारायणं मन्त्रमेतन्मृत्युभयापहम् ।  
 मन्त्राणां परमो मन्त्रो देवतानां च दैवतम् ॥ २५॥  
   
-गुह्यानां परमं गुह्यमोंकाराद्यक्षराष्टकम् ।  
+गुह्यानां परमं गुह्यमोङ्काराद्यक्षराष्टकम् ।  
 आयुष्यं धनपुत्रांश्च पशून् विद्यां महद्यशः ॥ २६॥  
   
 धर्मार्थकाममोक्षांश्च लभते च जपन्नरः ।  
@@ -135,7 +135,7 @@ title = "ॐ नमो नारायणाय अष्टाक्षरम�
 जप पुत्र महाबुद्धे यदि सिद्धिमभीप्ससि ॥ ३५॥  
   
 इदं स्तवं व्यासमुखात्तु निस्सृतं  
-संध्यात्रये ये पुरुषाः पठन्ति ।  
+सन्ध्यात्रये ये पुरुषाः पठन्ति ।  
 ते धौतपाण्डुरपटा इव राजहंसाः  
 संसारसागरमपेतभयास्तरन्ति ॥ ३६॥  
   

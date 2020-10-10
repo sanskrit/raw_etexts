@@ -1,25 +1,25 @@
-+++
-"Text title" = "Vishnustuti by Brahma in Narasimhapurana"
-"File name" = "viShNustutibrahmoktaNP.itx"
-itxtitle = "viShNustutiH (brahmoktA narasi.nhapurANAntargatA)"
-engtitle = "Vishnustuti by Brahma in Narasimhapurana"
-Category = "vishhnu, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 47.  Stotra 15-23"
-Indexextra = "(narasi.nhapurANa)"
-"Latest update" = "June 29, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तुतिः (ब्रह्मोक्ता नरसिंहपुराणान्तर्गता)"
+---
+Category: vishhnu, stotra, vishnu
+Description-comments: Narasimhapurana adhyAya 47.  Stotra 15-23
+File name: viShNustutibrahmoktaNP.itx
+Indexextra: (narasi.nhapurANa)
+Language: Sanskrit
+Latest update: June 29, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Vishnustuti by Brahma in Narasimhapurana
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: Vishnustuti by Brahma in Narasimhapurana
+itxtitle: viShNustutiH (brahmoktA narasi.nhapurANAntargatA)
+title: विष्णुस्तुतिः (ब्रह्मोक्ता नरसिंहपुराणान्तर्गता)
 
-+++
+---
   
  श्रीविष्णुस्तुती ब्रह्मोक्त नरसिंहपुऱाने   
   
@@ -53,7 +53,7 @@ title = "विष्णुस्तुतिः (ब्रह्मोक्त
   
 इति ।  
   
-अध्याय ४७ श्लोक १५-२३, अध्याय श्लोक संख्या १५९  
+अध्याय ४७ श्लोक १५-२३, अध्याय श्लोक सङ्ख्या १५९  
   
   
 From Narasimhapurana adhyAya 47.  Selected verses.  

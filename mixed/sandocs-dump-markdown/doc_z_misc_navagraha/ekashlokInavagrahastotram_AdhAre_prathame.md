@@ -1,21 +1,21 @@
-+++
-"Text title" = "Ekashloki Navagraha Stotram"
-"File name" = "ekashlokInavagrahastotram.itx"
-itxtitle = "ekashlokInavagrahastotram (AdhAre prathame)"
-engtitle = "ekashlokInavagrahastotram"
-Category = "navagraha, ekashlokI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकश्लोकीनवग्रहस्तोत्रम् (आधारे प्रथमे)"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: navagraha, ekashlokI
+File name: ekashlokInavagrahastotram.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Ekashloki Navagraha Stotram
+engtitle: ekashlokInavagrahastotram
+itxtitle: ekashlokInavagrahastotram (AdhAre prathame)
+title: एकश्लोकीनवग्रहस्तोत्रम् (आधारे प्रथमे)
 
-+++
+---
   
  एकश्लोकीनवग्रहस्तोत्रम्   
 आधारे प्रथमे सहस्रकिरणं ताराधवं स्वाश्रये  

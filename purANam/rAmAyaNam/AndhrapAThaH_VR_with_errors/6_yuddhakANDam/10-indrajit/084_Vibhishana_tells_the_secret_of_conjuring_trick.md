@@ -3,7 +3,6 @@ title: 084 Vibhishana tells the secret of conjuring trick
 title_english: 084 Vibhishana tells the secret of conjuring trick
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-084-Vibhishana_tells_the_secret_of_conjuring_trick_0.mp3"></div>
 
 राममाश्वासयाने तु लक्ष्मणे भ्रातृवत्सले ।  
@@ -20,8 +19,8 @@ title_english: 084 Vibhishana tells the secret of conjuring trick
 उवाच लक्ष्मणो वाक्यमिदं बाष्पपरिप्लुतः ॥ ६-८४-६  
 हतामिन्द्रजिता सीतामिह श्रुत्वैव राघवः ।  
 हनूमद्वचनात्सौम्य ततो मोहमुपागतः ॥ ६-८४-७  
-कथयन्तं तु सौमित्रिं संनिवार्य विभीषणः ।  
-पुष्कलार्थमिदं वाक्यं विसंज्ञं राममब्रवीत् ॥ ६-८४-८  
+कथयन्तं तु सौमित्रिं सन्निवार्य विभीषणः ।  
+पुष्कलार्थमिदं वाक्यं विसञ्ज्ञं राममब्रवीत् ॥ ६-८४-८  
 मनुजेन्द्रार्तरूपेण यदुक्तस्त्वं हनूमता ।  
 तदयुक्तमहं मन्ये सागरस्येव शोषणम् ॥ ६-८४-९  
 अभिप्रायं तु जानामि रावणस्य दुरात्मनः ।  

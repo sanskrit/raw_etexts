@@ -1,26 +1,26 @@
-+++
-"Text title" = "reNukAstotraM vAsudevAnandavirachitam 2"
-"File name" = "reNukAstotramvAsudevAnanda2.itx"
-itxtitle = "reNukAstotram (vAsudevAnandasarasvatIkRitam)"
-engtitle = "Renuka Stotram Vasudevananda Sarasvati Kritam"
-Category = "devii, reNukA, stotra, vAsudevAnanda-sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Texttype = "stotra"
-Author = "Vasudevananda Saraswati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-Description-comments = "First one is reNukAstotrammAtApuravAsinI"
-Indexextra = "(Vasudevananda Saraswati)"
-"Latest update" = "June 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकास्तोत्रम् (वासुदेवानन्दसरस्वतीकृइतम्)"
+---
+Author: Vasudevananda Saraswati
+Category: devii, reNukA, stotra, vAsudevAnanda-sarasvatI, devI
+Description-comments: First one is reNukAstotrammAtApuravAsinI
+File name: reNukAstotramvAsudevAnanda2.itx
+Indexextra: (Vasudevananda Saraswati)
+Language: Sanskrit
+Latest update: June 18, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAstotraM vAsudevAnandavirachitam 2
+Texttype: stotra
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Renuka Stotram Vasudevananda Sarasvati Kritam
+itxtitle: reNukAstotram (vAsudevAnandasarasvatIkRitam)
+title: रेणुकास्तोत्रम् (वासुदेवानन्दसरस्वतीकृइतम्)
 
-+++
+---
   
  रेणुकास्तोत्रं श्रीवासुदेवानन्दसरस्वतीकृतम्   
   

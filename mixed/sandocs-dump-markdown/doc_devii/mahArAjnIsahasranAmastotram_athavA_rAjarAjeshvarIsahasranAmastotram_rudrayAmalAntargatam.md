@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrImahArAjnIsahasranAmastotra"
-"File name" = "mahArAjnIsahasranAmastotra.itx"
-itxtitle = "mahArAjnIsahasranAmastotram athavA rAjarAjeshvarIsahasranAmastotram (rudrayAmalAntargatam)"
-engtitle = "mahArAjnIsahasranAmastotram"
-Category = "sahasranAma, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "See corresponding nAmAvalI"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "August 5, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाराज्ञीसहस्रनामस्तोत्रम् अथवा राजराजेश्वरीसहस्रनामस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: sahasranAma, devii, dashamahAvidyA, stotra, devI
+Description-comments: See corresponding nAmAvalI
+File name: mahArAjnIsahasranAmastotra.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: August 5, 2019
+Location: doc_devii
+Proofread by: DPD, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrImahArAjnIsahasranAmastotra
+Texttype: stotra
+Transliterated by: DPD
+engtitle: mahArAjnIsahasranAmastotram
+itxtitle: mahArAjnIsahasranAmastotram athavA rAjarAjeshvarIsahasranAmastotram (rudrayAmalAntargatam)
+title: महाराज्ञीसहस्रनामस्तोत्रम् अथवा राजराजेश्वरीसहस्रनामस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीमहाराज्ञीसहस्रनामस्तोत्रम्   
   
@@ -54,7 +54,7 @@ NOTE: The follwing 5 lines (before ᳚dhyAnaM᳚ are not found in SVR's book
   
 ब्रह्मऋषये नमः शिरसि । गायत्रीच्छन्दसे नमः मुखे ।  
 श्रीभूतेश्वरीमह्राराज्ञीदेवतायै नमः हृदि ।  
-ह्रींबीजाय नमः नाभौ । सौः शक्तये नमः गुह्ये ।  
+ह्रीम्बीजाय नमः नाभौ । सौः शक्तये नमः गुह्ये ।  
 क्लीं कीलकाय नमः पादयोः । विनियोगाय नमः सर्वाङ्गेषु ।  
 ॐह्रामित्यादिना करषडङ्गन्यासं विधाय ध्यानं कुर्यात् ।  
   

@@ -1,30 +1,31 @@
-+++
-"Text title" = "shivasahasranAma from rudrayAmala tantra"
-"File name" = "shivasahasrarudrayAmala.itx"
-itxtitle = "shivasahasranAmastotram (rudrayAmalAntargatram evaM shivarahasye saptamA.nshe)"
-engtitle = "ShrI  ShivasahasranAma Stotram from Rudrayamala tantra"
-Category = "sahasranAma, shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Ravi Chander r_ravi_c at hotmail.com"
-"Proofread by" = "KSRamachandran ramachandran_ksr at yahoo.ca"
-Description-comments = "rudrayaamala tantra, Also found in shrIshivarahasya saptamAMsha with slight variation."
-Indexextra = "(rudrayAmala (thesis))"
-"Latest update" = "December 23, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसहस्रनामस्तोत्रम् (रुद्रयामलान्तर्गत्रम् एवं शिवरहस्ये सप्तमांशे)"
+---
+Category: sahasranAma, shiva, stotra
+Description-comments: rudrayaamala tantra, Also found in shrIshivarahasya saptamAMsha
+  with slight variation.
+File name: shivasahasrarudrayAmala.itx
+Indexextra: (rudrayAmala (thesis))
+Language: Sanskrit
+Latest update: December 23, 2007
+Location: doc_shiva
+Proofread by: KSRamachandran ramachandran_ksr at yahoo.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: shiva
+Text title: shivasahasranAma from rudrayAmala tantra
+Texttype: stotra
+Transliterated by: Ravi Chander r_ravi_c at hotmail.com
+engtitle: ShrI  ShivasahasranAma Stotram from Rudrayamala tantra
+itxtitle: shivasahasranAmastotram (rudrayAmalAntargatram evaM shivarahasye saptamA.nshe)
+title: शिवसहस्रनामस्तोत्रम् (रुद्रयामलान्तर्गत्रम् एवं शिवरहस्ये सप्तमांशे)
 
-+++
+---
   
  श्रीशिवसहस्रनामस्तोत्रम्   
   
 ॐ श्रीगणेशाय नमः ।  
 पूर्वपीठिका  
-ॐ ओंकारनिलयं देवं गजवक्त्रं चतुर्भुजम् ।  
+ॐ ओङ्कारनिलयं देवं गजवक्त्रं चतुर्भुजम् ।  
 पिचण्डिलमहं वन्दे सर्वविघ्नोपशान्तये ॥  
   
 श्रुतिस्मृतिपुराणानामालयं करुणालयम् ।  
@@ -561,7 +562,7 @@ variation
 मम नामानि दिव्यानि यो जपेद्भक्तिपूर्वकम् ।  
 एवमुक्तगुणोपेतः स देवैः पूजितो भवेत् ॥ ४॥  
   
-संसारपाशसंबद्धजनमोक्षैकसाधनम् ।  
+संसारपाशसम्बद्धजनमोक्षैकसाधनम् ।  
 मन्नामस्मरणं नूनं तदेव सकलार्थदम् ॥ ५॥  
   
 मन्नामैव परं जप्यमहमेवाक्षयार्थदः ।  

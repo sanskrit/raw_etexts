@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumatdIpadAnam"
-"File name" = "hanumatdIpadAnam.itx"
-itxtitle = "hanumatdIpadAnam"
-engtitle = "hanumatdIpadAnam"
-Category = "hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्दीपदानम्"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumatdIpadAnam.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatdIpadAnam
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: hanumatdIpadAnam
+itxtitle: hanumatdIpadAnam
+title: हनुमत्दीपदानम्
 
-+++
+---
   
  दीपदानम्   
 कवचमन्त्रपाठः-ॐ ऐं श्रीं ह्रां ह्रीं ह्रूं ह्रैं ह्रों ह्यें फ्रें  

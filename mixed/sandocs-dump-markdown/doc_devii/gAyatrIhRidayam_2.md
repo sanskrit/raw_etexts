@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaayatrii hRRidayam"
-"File name" = "gAyatrIhRidaya2.itx"
-itxtitle = "gAyatrIhRidayam 2"
-engtitle = "Gayatri Hridayam 2"
-Category = "hRidaya, devii, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "September 2, 2007, March 16, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीहृइदयम् २"
+---
+Category: hRidaya, devii, gAyatrI, devI
+File name: gAyatrIhRidaya2.itx
+Language: Sanskrit
+Latest update: September 2, 2007, March 16, 2014
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gaayatrii hRRidayam
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Gayatri Hridayam 2
+itxtitle: gAyatrIhRidayam 2
+title: गायत्रीहृइदयम् २
 
-+++
+---
   
  गायत्रीहृदयम् २   
   
@@ -41,7 +41,7 @@ title = "गायत्रीहृइदयम् २"
 गायत्र्या गायत्री छन्दो विश्वामित्र ऋषिः सविता देवता ।  
 अग्निर्मुखं ब्रह्मा शिरो विष्णुर्हृदयं रुद्रःशिखा ।  
 पृथिवी योनिः प्राणापान व्यानोदान समान सप्राण  
-श्वेतवर्ण सांख्यायन्यास गोत्र गायत्री चतुर्विंशत्यक्षरा  
+श्वेतवर्ण साङ्ख्यायन्यास गोत्र गायत्री चतुर्विंशत्यक्षरा  
 त्रिपाद षट् कुक्षिः पञ्चशीर्षोपनयने विनियोगः ॥  
   
          । इति गायत्री हृदयम् ।  

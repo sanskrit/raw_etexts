@@ -1,23 +1,23 @@
-+++
-"Text title" = "AdityAShTakam"
-"File name" = "AdityAShTakam.itx"
-itxtitle = "AdityAShTakam"
-engtitle = "AdityAShTakam"
-Category = "aShTaka, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आदित्याष्टकम्"
+---
+Category: aShTaka, navagraha
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: AdityAShTakam.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: AdityAShTakam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: AdityAShTakam
+itxtitle: AdityAShTakam
+title: आदित्याष्टकम्
 
-+++
+---
   
  आदित्याष्टकम्    
   

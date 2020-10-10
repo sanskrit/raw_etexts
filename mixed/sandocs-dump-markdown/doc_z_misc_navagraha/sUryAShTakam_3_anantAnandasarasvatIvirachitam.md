@@ -1,29 +1,29 @@
-+++
-"Text title" = "sUryAShTakam 3"
-"File name" = "sUryAShTakam3.itx"
-itxtitle = "sUryAShTakam 3 (anantAnandasarasvatIvirachitam)"
-engtitle = "sUryAShTakam 3"
-Category = "navagraha, aShTaka"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "Anantanandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्याष्टकम् ३ (अनन्तानन्दसरस्वतीविरचितम्)"
+---
+Author: Anantanandasarasvati
+Category: navagraha, aShTaka
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: sUryAShTakam3.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_z_misc_navagraha
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryAShTakam 3
+engtitle: sUryAShTakam 3
+itxtitle: sUryAShTakam 3 (anantAnandasarasvatIvirachitam)
+title: सूर्याष्टकम् ३ (अनन्तानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  सूर्याष्टकम् ३   
 यस्योदयेनाब्जवनं प्रसन्नं प्रीतो भवत्याशु रथाङ्गवर्गः ।  
 गावो मृगास्सम्मुदिताश्चरन्ति मार्तण्डमाकाशमणिं तमीडे ॥ १॥  
   
 आशाः समस्ता मुदिता भवन्ति गाढं तमो द्यौर्विजहाति विष्वक् ।  
-ग्राम्या जनाः कर्मणि संप्रवृत्ताः मार्त्तण्डमाकाशमणिं तमीडे ॥ २॥  
+ग्राम्या जनाः कर्मणि सम्प्रवृत्ताः मार्त्तण्डमाकाशमणिं तमीडे ॥ २॥  
   
 स्वाहा-स्वधाकारर्रवं द्विजेन्द्राः कुर्वन्ति कुत्रापि च वेदपाठम् ।  
 पान्था मुदा सर्वदिशो व्रजन्ति मार्त्तण्डमाकाशमणिं तमीडे ॥ ३॥  

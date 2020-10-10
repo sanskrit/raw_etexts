@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmadashAvaraNapUjA"
-"File name" = "rAmadashAvaraNapUjA.itx"
-itxtitle = "rAmadashAvaraNapUjA"
-engtitle = "rAmadashAvaraNapUjA"
-Category = "raama, pUjA"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामदशावरणपूजा"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: raama, pUjA
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: rAmadashAvaraNapUjA.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmadashAvaraNapUjA
+engtitle: rAmadashAvaraNapUjA
+itxtitle: rAmadashAvaraNapUjA
+title: रामदशावरणपूजा
 
-+++
+---
   
  श्रीरामदशावरणपूजा   
   

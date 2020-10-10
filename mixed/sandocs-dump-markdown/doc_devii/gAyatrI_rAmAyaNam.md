@@ -1,26 +1,26 @@
-+++
-"Text title" = "Gayatri Ramayana"
-"File name" = "gAyatrI_raamAyaNa.itx"
-itxtitle = "gAyatrI rAmAyaNam"
-engtitle = "Gayatri Ramayana"
-Category = "devii, gAyatrI, stotra, devI, raama"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Gayatri Mahavijnana -Pandit"
-Indexextra = "(text with meaning, Hindi AWGP)"
-"Latest update" = "February 24, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्री रामायणम्"
+---
+Author: Traditional
+Category: devii, gAyatrI, stotra, devI, raama
+File name: gAyatrI_raamAyaNa.itx
+Indexextra: (text with meaning, Hindi AWGP)
+Language: Sanskrit
+Latest update: February 24, 2018
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Gayatri Mahavijnana -Pandit
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gayatri Ramayana
+Texttype: stotra
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Gayatri Ramayana
+itxtitle: gAyatrI rAmAyaNam
+title: गायत्री रामायणम्
 
-+++
+---
   
  गायत्री रामायण   
 (गायत्रीमन्त्र अक्षराणां(वर्णानां) श्रीमद् वाल्मीकिरामायणे प्रदर्शिताः)  

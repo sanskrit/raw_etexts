@@ -1,23 +1,23 @@
-+++
-"Text title" = "devIsukta (Rigveda)"
-"File name" = "deviisuukta.itx"
-itxtitle = "devIsUktam (RigvedIyam)"
-engtitle = "devIsukta (Rigveda)"
-Category = "sUkta, veda, svara, rigveda, devI"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rekha Venkatesh, Dhruba Chakroborty"
-"Proofread by" = "Rekha Venkatesh, Paulo Santos"
-Indexextra = "(meaning, Rigveda)"
-"Latest update" = "November 22, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीसूक्तम् (ऋइग्वेदीयम्)"
+---
+Category: sUkta, veda, svara, rigveda, devI
+File name: deviisuukta.itx
+Indexextra: (meaning, Rigveda)
+Language: Sanskrit
+Latest update: November 22, 2015
+Location: doc_veda
+Proofread by: Rekha Venkatesh, Paulo Santos
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: devIsukta (Rigveda)
+Texttype: svara
+Transliterated by: Rekha Venkatesh, Dhruba Chakroborty
+engtitle: devIsukta (Rigveda)
+itxtitle: devIsUktam (RigvedIyam)
+title: देवीसूक्तम् (ऋइग्वेदीयम्)
 
-+++
+---
   
  देवीसूक्त ऋग्वेदान्तर्गतम्   
   
@@ -61,7 +61,7 @@ title = "देवीसूक्तम् (ऋइग्वेदीयम्)"
 अहं सोममाहनसं बिभर्म्यहं त्वष्टारमुत पूषणं भगम् ।  
 अहं दधामि द्रविणं हविष्मते सुप्राव्ये ए ३ यजमानाय सुन्वते ॥ २॥  
   
-अहं राष्ट्री संगमनी वसूनां चिकितुषी प्रथमा यज्ञियानाम् ।  
+अहं राष्ट्री सङ्गमनी वसूनां चिकितुषी प्रथमा यज्ञियानाम् ।  
 तां मा देवा व्यदधुः पुरुत्रा भूरिस्थात्रां भूर्या वेशयन्तीम् ॥ ३॥  
   
 मया सोऽअन्नमत्ति यो विपश्यति यः प्राणिति य ईं शृणोत्युक्तम् ।  

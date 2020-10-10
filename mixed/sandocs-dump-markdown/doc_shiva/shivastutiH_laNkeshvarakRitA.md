@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivastutiH laNkeshvaravirachitA"
-"File name" = "shivastutilankeshvara.itx"
-itxtitle = "shivastutiH (laNkeshvarakRitA)"
-engtitle = "Shivastuti by Lankeshvara Ravana"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Latest update" = "April 7, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवस्तुतिः (लण्केश्वरकृइता)"
+---
+Category: shiva, stotra
+File name: shivastutilankeshvara.itx
+Language: Sanskrit
+Latest update: April 7, 2013
+Location: doc_shiva
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivastutiH laNkeshvaravirachitA
+Texttype: stotra
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Shivastuti by Lankeshvara Ravana
+itxtitle: shivastutiH (laNkeshvarakRitA)
+title: शिवस्तुतिः (लण्केश्वरकृइता)
 
-+++
+---
   
  श्रीशिवस्तुती लङ्केश्वरकृत   
   

@@ -1,26 +1,26 @@
-+++
-"Text title" = "Kalistavanam"
-"File name" = "kAlIstavanam.itx"
-itxtitle = "kAlIstavanam (rudrayAmalAntargatam)"
-engtitle = "kAlIstavanam"
-Category = "devii, ShaTchakrashakti"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालीस्तवनम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: devii, ShaTchakrashakti
+Description/comments: rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde
+File name: kAlIstavanam.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kalistavanam
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: kAlIstavanam
+itxtitle: kAlIstavanam (rudrayAmalAntargatam)
+title: कालीस्तवनम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  कालीस्तवनम्   
 अथ द्विसप्ततितमः पटलः  

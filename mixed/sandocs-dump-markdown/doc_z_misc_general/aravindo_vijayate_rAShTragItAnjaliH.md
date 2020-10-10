@@ -1,25 +1,25 @@
-+++
-"Text title" = "Aravindo Vijayate"
-"File name" = "aravindovijayate.itx"
-itxtitle = "aravindo vijayate (rAShTragItAnjaliH)"
-engtitle = "aravindo vijayate"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Kapiladeva Dwivedi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Rashtragitanjali, Kapiladeva Dwivedi (Ed.)"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अरविन्दो विजयते (राष्ट्रगीताञ्जलिः)"
+---
+Acknowledge-Permission: Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi
+Author: Kapiladeva Dwivedi
+Category: misc, sanskritgeet
+Description/comments: Rashtragitanjali, Kapiladeva Dwivedi (Ed.)
+File name: aravindovijayate.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Aravindo Vijayate
+Translated by: Mandar Mali
+engtitle: aravindo vijayate
+itxtitle: aravindo vijayate (rAShTragItAnjaliH)
+title: अरविन्दो विजयते (राष्ट्रगीताञ्जलिः)
 
-+++
+---
   
  अरविन्दो विजयते   
 (उपजातिवृत्तम्)  

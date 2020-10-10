@@ -1,25 +1,26 @@
-+++
-"Text title" = "jIvanamuktigItiH"
-"File name" = "jIvanamuktigItiH.itx"
-itxtitle = "jIvanamuktigItiH (anuvAdakaH bhANDarakaramahodayaH)"
-engtitle = "The Song of the Free with original (composed by Vivekananda)"
-Category = "vedanta, misc, sahitya, advice, vivekAnanda"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Subcategory = "sahitya"
-Texttype = "advice"
-Author = "Engilsh poem Song of the Free by Swami Vivekananda, Sanskrit translation by Tryambak Bhandarkar"
-Language = "Sanskrit"
-Subject = "hinduism/Vedanta"
-"Transliterated by" = "sunderh at hotmail.com"
-"Proofread by" = "sunderh at hotmail.com"
-Indexextra = "(Yugacharya Vivekananda)"
-"Latest update" = "January 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जीवनमुक्तिगीतिः (अनुवादकः भाण्डरकरमहोदयः)"
+---
+Author: Engilsh poem Song of the Free by Swami Vivekananda, Sanskrit translation by
+  Tryambak Bhandarkar
+Category: vedanta, misc, sahitya, advice, vivekAnanda
+File name: jIvanamuktigItiH.itx
+Indexextra: (Yugacharya Vivekananda)
+Language: Sanskrit
+Latest update: January 21, 2018
+Location: doc_z_misc_general
+Proofread by: sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: hinduism/Vedanta
+Sublocation: misc
+Text title: jIvanamuktigItiH
+Texttype: advice
+Transliterated by: sunderh at hotmail.com
+engtitle: The Song of the Free with original (composed by Vivekananda)
+itxtitle: jIvanamuktigItiH (anuvAdakaH bhANDarakaramahodayaH)
+title: जीवनमुक्तिगीतिः (अनुवादकः भाण्डरकरमहोदयः)
 
-+++
+---
   
  जीवन्मुक्तगीतिः   
 शराङ्कवसुचन्द्रवर्षे फेब्रुअरीमासस्य पञ्चदशदिने न्यूयार्क-  

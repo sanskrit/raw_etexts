@@ -1,26 +1,27 @@
-+++
-"Text title" = "Saptasaptisaptakam"
-"File name" = "saptasaptisaptakam.itx"
-itxtitle = "saptasaptisaptakam (ApaTIkaravirachitam)"
-engtitle = "saptasaptisaptakam"
-Category = "navagraha, ApaTIkara"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "ma. sa. ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सप्तसप्तिसप्तकम् (आपटीकरविरचितम्)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma. sa. ApaTIkara
+Category: navagraha, ApaTIkara
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: saptasaptisaptakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_z_misc_navagraha
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Saptasaptisaptakam
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: saptasaptisaptakam
+itxtitle: saptasaptisaptakam (ApaTIkaravirachitam)
+title: सप्तसप्तिसप्तकम् (आपटीकरविरचितम्)
 
-+++
+---
   
  सप्तसप्तिसप्तकम्   
      (चामर)  

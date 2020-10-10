@@ -1,23 +1,23 @@
-+++
-"Text title" = "yamAShTakam"
-"File name" = "yamAShTakam.itx"
-itxtitle = "yamAShTakam"
-engtitle = "yamAShTakam"
-Category = "aShTaka, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalun at dataone.in"
-"Proofread by" = "N.Balasubramanian bbalun at dataone.in"
-Description-comments = "Devi Bhagavatam (9-31) Savitri p[raising Yama"
-Indexextra = "(Devi Bhagavatam)"
-"Latest update" = "December 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमाष्टकम्"
+---
+Category: aShTaka, deities_misc
+Description-comments: Devi Bhagavatam (9-31) Savitri p[raising Yama
+File name: yamAShTakam.itx
+Indexextra: (Devi Bhagavatam)
+Language: Sanskrit
+Latest update: December 13, 2018
+Location: doc_deities_misc
+Proofread by: N.Balasubramanian bbalun at dataone.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: yamAShTakam
+Transliterated by: N.Balasubramanian bbalun at dataone.in
+engtitle: yamAShTakam
+itxtitle: yamAShTakam
+title: यमाष्टकम्
 
-+++
+---
   
  यमाष्टकम्   
 श्रीनारायण उवाच -  

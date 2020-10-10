@@ -1,21 +1,22 @@
-+++
-"Text title" = "murAripancharatnam"
-"File name" = "murAripancharatnam.itx"
-itxtitle = "murAripancharatnam"
-engtitle = "murAripancharatnam"
-Category = "pancharatna, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "January 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मुरारिपञ्चरत्नम्"
+---
+Category: pancharatna, vishhnu, vishnu
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: murAripancharatnam.itx
+Language: Sanskrit
+Latest update: January 19, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: murAripancharatnam
+engtitle: murAripancharatnam
+itxtitle: murAripancharatnam
+title: मुरारिपञ्चरत्नम्
 
-+++
+---
   
  मुरारिपञ्चरत्नम्   
   

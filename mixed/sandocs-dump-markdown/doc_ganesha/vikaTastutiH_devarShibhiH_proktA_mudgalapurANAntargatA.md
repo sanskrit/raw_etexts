@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vikata Stuti by Devarshi"
-"File name" = "vikaTastutiHdevarShibhiHproktA.itx"
-itxtitle = "vikaTastutiH devarShibhiH proktA (mudgalapurANAntargatA)"
-engtitle = "vikaTastutiH devarShibhiH proktA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan"
-"Proofread by" = "Ajit Krishnan, PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 6, Adhyaya 36"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "विकटस्तुतिः देवर्षिभिः प्रोक्ता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 6, Adhyaya 36
+File name: vikaTastutiHdevarShibhiHproktA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: Ajit Krishnan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Vikata Stuti by Devarshi
+Transliterated by: Ajit Krishnan
+engtitle: vikaTastutiH devarShibhiH proktA
+itxtitle: vikaTastutiH devarShibhiH proktA (mudgalapurANAntargatA)
+title: विकटस्तुतिः देवर्षिभिः प्रोक्ता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  विकटस्तुतिः देवर्षिभिः प्रोक्ता   
 आदिशक्तिरुवाच -  

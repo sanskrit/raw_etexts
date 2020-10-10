@@ -1,25 +1,27 @@
-+++
-"Text title" = "govardhanAShTakam 1"
-"File name" = "govardhanAShTakam1.itx"
-itxtitle = "govardhanAShTakam 1 (rUpagosvAmivirachitam)"
-engtitle = "govardhanAShTakam 1"
-Category = "vishhnu, krishna, rUpagosvAmin, stavamAlA, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Rupagoswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional Prayers stavamAlA"
-Indexextra = "(Scan, Bengali, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोवर्धनाष्टकम् १ (रूपगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Rupagoswami
+Category: vishhnu, krishna, rUpagosvAmin, stavamAlA, aShTaka
+Description/comments: From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional
+  Prayers stavamAlA
+File name: govardhanAShTakam1.itx
+Indexextra: (Scan, Bengali, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: govardhanAShTakam 1
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: govardhanAShTakam 1
+itxtitle: govardhanAShTakam 1 (rUpagosvAmivirachitam)
+title: गोवर्धनाष्टकम् १ (रूपगोस्वामिविरचितम्)
 
-+++
+---
   
  श्रीगोवर्धनाष्टकम् १   
   

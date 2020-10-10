@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivanirvANastotram"
-"File name" = "shivanirvANastotram.itx"
-itxtitle = "shivanirvANashatanAmAvaliH athavA stotram"
-engtitle = "shivanirvANastotram"
-Category = "shiva, aShTottarashatanAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com, NA"
-Indexextra = "(Scan)"
-"Latest update" = "December 25, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवनिर्वाणशतनामावलिः अथवा स्तोत्रम्"
+---
+Category: shiva, aShTottarashatanAmAvalI
+File name: shivanirvANastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 25, 2018
+Location: doc_shiva
+Proofread by: Ganesh Kandu kanduganesh at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivanirvANastotram
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: shivanirvANastotram
+itxtitle: shivanirvANashatanAmAvaliH athavA stotram
+title: शिवनिर्वाणशतनामावलिः अथवा स्तोत्रम्
 
-+++
+---
   
  शिवनिर्वाणस्तोत्रम्   
 ॐ नमः शिवाय ।  

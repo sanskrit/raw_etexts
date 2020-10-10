@@ -1,22 +1,22 @@
-+++
-"Text title" = "dIpalakShmIstavam"
-"File name" = "dIpalakShmIstavam.itx"
-itxtitle = "dIpalakShmIstavam"
-engtitle = "dIpalakShmIstavam"
-Category = "devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras"
-"Latest update" = "May 5, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दीपलक्ष्मीस्तवम्"
+---
+Category: devii, lakShmI, devI
+Description/comments: shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras
+File name: dIpalakShmIstavam.itx
+Language: Sanskrit
+Latest update: May 5, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dIpalakShmIstavam
+engtitle: dIpalakShmIstavam
+itxtitle: dIpalakShmIstavam
+title: दीपलक्ष्मीस्तवम्
 
-+++
+---
   
  दीपलक्ष्मीस्तवम्   
   

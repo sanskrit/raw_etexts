@@ -1,22 +1,22 @@
-+++
-"Text title" = "AdityahRidayastotra"
-"File name" = "adityahriday.itx"
-itxtitle = "AdityahRidayam (vAlmikIrAmAyaNAntargatam)"
-engtitle = "AdityahRidayam"
-Category = "hRidaya, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "M. Giridhar giridhar at chemeng.iisc.ernet.in"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-Indexextra = "(audio 1, 2, 3, pdf.)"
-"Latest update" = "June 13, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आदित्यहृइदयम् (वाल्मिकीरामायणान्तर्गतम्)"
+---
+Category: hRidaya, navagraha
+File name: adityahriday.itx
+Indexextra: (audio 1, 2, 3, pdf.)
+Language: Sanskrit
+Latest update: June 13, 2020
+Location: doc_z_misc_navagraha
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: navagraha
+Text title: AdityahRidayastotra
+Transliterated by: M. Giridhar giridhar at chemeng.iisc.ernet.in
+engtitle: AdityahRidayam
+itxtitle: AdityahRidayam (vAlmikIrAmAyaNAntargatam)
+title: आदित्यहृइदयम् (वाल्मिकीरामायणान्तर्गतम्)
 
-+++
+---
   
  आदित्यहृदयम्   
   

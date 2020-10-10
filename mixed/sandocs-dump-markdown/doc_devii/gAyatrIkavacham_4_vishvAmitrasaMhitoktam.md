@@ -1,24 +1,24 @@
-+++
-"Text title" = "gAyatrIkavacham 4"
-"File name" = "gAyatrIkavacham4.itx"
-itxtitle = "gAyatrIkavacham 4 (vishvAmitrasaMhitoktam)"
-engtitle = "gAyatrIkavacham 4"
-Category = "devii, rAmAnujasampradAya, gAyatrI, devI, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Source = "vishvAmitrasaMhitA"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीकवचम् ४ (विश्वामित्रसंहितोक्तम्)"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: devii, rAmAnujasampradAya, gAyatrI, devI, kavacha
+File name: gAyatrIkavacham4.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: vishvAmitrasaMhitA
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrIkavacham 4
+engtitle: gAyatrIkavacham 4
+itxtitle: gAyatrIkavacham 4 (vishvAmitrasaMhitoktam)
+title: गायत्रीकवचम् ४ (विश्वामित्रसंहितोक्तम्)
 
-+++
+---
   
  गायत्रीकवचम् ४   
   

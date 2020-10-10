@@ -1,21 +1,21 @@
-+++
-"Text title" = "rAdhApaTalastotram"
-"File name" = "rAdhApaTalastotram.itx"
-itxtitle = "rAdhApaTalastotram"
-engtitle = "rAdhApaTalastotram"
-Category = "devii, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "sarasa stotrasangrahaH (Lucknow, 1909)"
-Indexextra = "(Scanned)"
-"Latest update" = "November 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधापटलस्तोत्रम्"
+---
+Category: devii, radha, devI
+Description-comments: sarasa stotrasangrahaH (Lucknow, 1909)
+File name: rAdhApaTalastotram.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 4, 2017
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhApaTalastotram
+engtitle: rAdhApaTalastotram
+itxtitle: rAdhApaTalastotram
+title: राधापटलस्तोत्रम्
 
-+++
+---
   
  श्रीराधापटलस्तोत्रम्   
 ईश्वर उवाच ॥  

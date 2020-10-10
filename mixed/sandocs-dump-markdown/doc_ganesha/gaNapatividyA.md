@@ -1,21 +1,21 @@
-+++
-"Text title" = "Ganapati Vidya"
-"File name" = "gaNapatividyA.itx"
-itxtitle = "gaNapatividyA"
-engtitle = "gaNapatividyA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपतिविद्या"
+---
+Category: ganesha
+File name: gaNapatividyA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_ganesha
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganapati Vidya
+engtitle: gaNapatividyA
+itxtitle: gaNapatividyA
+title: गणपतिविद्या
 
-+++
+---
   
  गणपतिविद्या   
 ॐ गणानामधिपश्चण्डो गजवक्त्रस्त्रिलोचनः ।  

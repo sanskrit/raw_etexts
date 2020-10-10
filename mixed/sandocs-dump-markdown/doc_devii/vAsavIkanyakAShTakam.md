@@ -1,22 +1,22 @@
-+++
-"Text title" = "vAsavIkanyakAShTakam"
-"File name" = "vAsavIkanyakAShTakam.itx"
-itxtitle = "vAsavIkanyakAShTakam"
-engtitle = "vAsavIkanyakAShTakam"
-Category = "devii, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(Info 1, 2, 3, Audio 1, 2)"
-"Latest update" = "May 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकाष्टकम्"
+---
+Category: devii, aShTaka, devI
+File name: vAsavIkanyakAShTakam.itx
+Indexextra: (Info 1, 2, 3, Audio 1, 2)
+Language: Sanskrit
+Latest update: May 18, 2019
+Location: doc_devii
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vAsavIkanyakAShTakam
+Transliterated by: NA
+engtitle: vAsavIkanyakAShTakam
+itxtitle: vAsavIkanyakAShTakam
+title: वासवीकन्यकाष्टकम्
 
-+++
+---
   
  श्रीवासवीकन्यकाष्टकम्   
 नमो देव्यै सुभद्रायै कन्यकायै नमो नमः ।  
@@ -28,7 +28,7 @@ title = "वासवीकन्यकाष्टकम्"
 नन्दायैते नमस्तेऽस्तु गौर्यै देव्यै नमो नमः ।  
 पाहिनः पुत्रदारांश्च वासव्यै ते नमो नमः ॥ ३॥  
   
-अपर्णायै नमस्तेऽस्तु कौसुंभ्यै ते नमो नमः ।  
+अपर्णायै नमस्तेऽस्तु कौसुम्भ्यै ते नमो नमः ।  
 नमः कमलहस्तायै वासव्यै ते नमो नमः ॥ ४॥  
   
 चतुर्भुजायै शर्वाण्यै शुकपाण्यै नमो नमः ।  

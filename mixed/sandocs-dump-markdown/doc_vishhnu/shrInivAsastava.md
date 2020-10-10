@@ -1,26 +1,26 @@
-+++
-"Text title" = "shrIshrInivAsastava"
-"File name" = "shrInivAsastava.itx"
-itxtitle = "shrInivAsastava"
-engtitle = "shrIshrInivAsastava"
-Category = "vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Author = "shrIshailastAtayAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "December 19, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीनिवासस्तव"
+---
+Author: shrIshailastAtayAchArya
+Category: vishhnu, venkateshwara, stotra, vishnu
+File name: shrInivAsastava.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: December 19, 2015
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIshrInivAsastava
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: shrIshrInivAsastava
+itxtitle: shrInivAsastava
+title: श्रीनिवासस्तव
 
-+++
+---
   
  श्रीश्रीनिवासस्तवः   
   

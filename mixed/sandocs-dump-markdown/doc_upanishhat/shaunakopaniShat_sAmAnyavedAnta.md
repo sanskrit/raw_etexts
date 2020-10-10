@@ -1,22 +1,23 @@
-+++
-"Text title" = "shaunakopaniShat"
-"File name" = "shaunakopaniShat.itx"
-itxtitle = "shaunakopaniShat (sAmAnyavedAnta)"
-engtitle = "shaunakopaniShat"
-Category = "upanishhat, vedanta, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com, Radim Navyan radimnavyan at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned book)"
-"Latest update" = "October 21, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शौनकोपनिषत् (सामान्यवेदान्त)"
+---
+Category: upanishhat, vedanta, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: shaunakopaniShat.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: October 21, 2017
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com, Radim Navyan radimnavyan at
+  gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: shaunakopaniShat
+engtitle: shaunakopaniShat
+itxtitle: shaunakopaniShat (sAmAnyavedAnta)
+title: शौनकोपनिषत् (सामान्यवेदान्त)
 
-+++
+---
   
  शौनकोपनिषत्   
   
@@ -61,9 +62,9 @@ title = "शौनकोपनिषत् (सामान्यवेदान
 साब्रवीत् । बिभेमि वा एतदेतेभ्यो यथौजीयांसो बलीयांस इमे  
 पराभवन्निति । स ह प्रणवमेवोवाच पुरोगायमेवारभस्वेति ।  
 सोऽब्रवीत् । किं मेऽतः स्यादिति । यदहं स त्वं ममैव रूपेण  
-न्यूंखयिष्यन्ति त्वामिति । स हापश्यत् । सर्व एव न्यूंखयन्तो  
+न्यूङ्खयिष्यन्ति त्वामिति । स हापश्यत् । सर्व एव न्यूङ्खयन्तो  
 मामभिचक्षीरन्निति । स ह सर्वमेवात्मानमुपसंहृत्य शृङ्ग  
-एवागूहयत् । स ह विशृङ्ग एवाभवत् । तस्मादित्थैव न्यूंखयन्ति ।  
+एवागूहयत् । स ह विशृङ्ग एवाभवत् । तस्मादित्थैव न्यूङ्खयन्ति ।  
 ततो हासुराः पराभावयन् । तस्माद्रुद्रानेव माध्यन्दिनं सवनं  
 त्रैष्टुभं चेति ॥  
   

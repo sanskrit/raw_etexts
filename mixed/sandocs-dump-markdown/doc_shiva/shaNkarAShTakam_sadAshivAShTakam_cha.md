@@ -1,23 +1,23 @@
-+++
-"Text title" = "shankarAShTakaM brahmAnandavirachitam"
-"File name" = "shankarAShTakam.itx"
-itxtitle = "shaNkarAShTakam sadAshivAShTakam cha"
-engtitle = "Shankarashtakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-Description-comments = "Swami Brhmanananda"
-Indexextra = "(svAmi brhmAnanda)"
-"Latest update" = "April 17, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शण्कराष्टकम् सदाशिवाष्टकम् च"
+---
+Category: aShTaka, shiva
+Description-comments: Swami Brhmanananda
+File name: shankarAShTakam.itx
+Indexextra: (svAmi brhmAnanda)
+Language: Sanskrit
+Latest update: April 17, 2013
+Location: doc_shiva
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shankarAShTakaM brahmAnandavirachitam
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Shankarashtakam
+itxtitle: shaNkarAShTakam sadAshivAShTakam cha
+title: शण्कराष्टकम् सदाशिवाष्टकम् च
 
-+++
+---
   
  शङ्कराष्टकम्   
   

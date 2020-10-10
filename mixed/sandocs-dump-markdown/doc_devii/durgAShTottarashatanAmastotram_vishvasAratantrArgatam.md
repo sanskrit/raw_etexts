@@ -1,24 +1,24 @@
-+++
-"Text title" = "durgAShTottarashatanAmastotraM (vishvasAratantra)"
-"File name" = "durga108.itx"
-itxtitle = "durgAShTottarashatanAmastotram (vishvasAratantrArgatam)"
-engtitle = "durgAShTottarashatanAmastotraM (vishvasAratantra)"
-Category = "aShTottarashatanAma, devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Girish Beeharry"
-"Proofread by" = "Girish Beeharry"
-Indexextra = "(vishvasAratantra)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गाष्टोत्तरशतनामस्तोत्रम् (विश्वसारतन्त्रार्गतम्)"
+---
+Category: aShTottarashatanAma, devii, durgA, stotra, devI
+File name: durga108.itx
+Indexextra: (vishvasAratantra)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_devii
+Proofread by: Girish Beeharry
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAShTottarashatanAmastotraM (vishvasAratantra)
+Texttype: stotra
+Transliterated by: Girish Beeharry
+engtitle: durgAShTottarashatanAmastotraM (vishvasAratantra)
+itxtitle: durgAShTottarashatanAmastotram (vishvasAratantrArgatam)
+title: दुर्गाष्टोत्तरशतनामस्तोत्रम् (विश्वसारतन्त्रार्गतम्)
 
-+++
+---
   
  दुर्गाष्टोत्तरशतनामस्तोत्रम् ( विश्वसारतन्त्र )   
   
@@ -36,7 +36,7 @@ title = "दुर्गाष्टोत्तरशतनामस्तो�
 आर्या दुर्गा जया चाद्या त्रिनेत्रा शूलधारिणी ॥ २॥  
   
 पिनाकधारिणी चित्रा चण्डघण्टा महातपाः ।  
-मनो बुद्धिरहंकारा चित्तरूपा चिता चितिः ॥ ३॥  
+मनो बुद्धिरहङ्कारा चित्तरूपा चिता चितिः ॥ ३॥  
   
 सर्वमन्त्रमयी सत्ता सत्यानन्दस्वरूपिणी ।  
 अनन्ता भाविनी भाव्या भव्याभव्या सदागतिः ॥ ४॥  

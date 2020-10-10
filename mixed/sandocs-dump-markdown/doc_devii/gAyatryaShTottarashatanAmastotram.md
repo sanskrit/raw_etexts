@@ -1,22 +1,22 @@
-+++
-"Text title" = "gAyatryaShTottarashatanAmastotram"
-"File name" = "gAyatryaShTottarashatanAmastotram.itx"
-itxtitle = "gAyatryaShTottarashatanAmastotram"
-engtitle = "gAyatryaShTottarashatanAmastotram"
-Category = "devii, aShTottarashatanAma, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(nAmAvalI)"
-"Latest update" = "January 5, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्र्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: devii, aShTottarashatanAma, gAyatrI, devI
+File name: gAyatryaShTottarashatanAmastotram.itx
+Indexextra: (nAmAvalI)
+Language: Sanskrit
+Latest update: January 5, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatryaShTottarashatanAmastotram
+engtitle: gAyatryaShTottarashatanAmastotram
+itxtitle: gAyatryaShTottarashatanAmastotram
+title: गायत्र्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीगायत्र्यष्टोत्तरशतनामस्तोत्रम्   
 हरिः ॐ ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Lakshmi Gayatri"
-"File name" = "lakShmIgAyatrI.itx"
-itxtitle = "lakShmIgAyatrI"
-engtitle = "lakShmIgAyatrI"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीगायत्री"
+---
+Category: devii, devI
+File name: lakShmIgAyatrI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Lakshmi Gayatri
+Transliterated by: PSA Easwaran
+engtitle: lakShmIgAyatrI
+itxtitle: lakShmIgAyatrI
+title: लक्ष्मीगायत्री
 
-+++
+---
   
  लक्ष्मीगायत्री   
 श्रीलक्ष्मीः कल्याणी कमला कमलालया पत्मा ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAjnIstotram 1"
-"File name" = "rAjnIstotram.itx"
-itxtitle = "rAjnIstotram 1 (shItAMshubAlArkakRishAnunetrAm)"
-engtitle = "rAjnIstotram 1"
-Category = "devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "BhaktivivekasAra"
-Indexextra = "(Scanned)"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राज्ञीस्तोत्रम् १ (शीतांशुबालार्ककृइशानुनेत्राम्)"
+---
+Category: devii, devI, dashamahAvidyA
+Description/comments: BhaktivivekasAra
+File name: rAjnIstotram.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAjnIstotram 1
+engtitle: rAjnIstotram 1
+itxtitle: rAjnIstotram 1 (shItAMshubAlArkakRishAnunetrAm)
+title: राज्ञीस्तोत्रम् १ (शीतांशुबालार्ककृइशानुनेत्राम्)
 
-+++
+---
   
  राज्ञीस्तोत्रम्   
 ॐ शीतांशुबालार्ककृशानुनेत्रां चतुर्भुजामेणत्वगासनस्थाम् ।  

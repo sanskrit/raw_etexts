@@ -1,23 +1,23 @@
-+++
-"Text title" = "Devika Lahari"
-"File name" = "devikAlaharI.itx"
-itxtitle = "devikAlaharI"
-engtitle = "devikAlaharI"
-Category = "devii, devI, laharI, nadI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta at  gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta at  gmail.com"
-Indexextra = "(Scan and Info)"
-"Latest update" = "March 6, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देविकालहरी"
+---
+Category: devii, devI, laharI, nadI
+File name: devikAlaharI.itx
+Indexextra: (Scan and Info)
+Language: Sanskrit
+Latest update: March 6, 2020
+Location: doc_devii
+Proofread by: Mandar Mali aryavrutta at  gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Devika Lahari
+Transliterated by: Mandar Mali aryavrutta at  gmail.com
+engtitle: devikAlaharI
+itxtitle: devikAlaharI
+title: देविकालहरी
 
-+++
+---
   
  श्रीदेविकालहरी   
 श्रियामायानं यद्विमलवसने सर्वजगतां-  

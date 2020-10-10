@@ -1,24 +1,24 @@
-+++
-"Text title" = "gAyatrIstotram 2"
-"File name" = "gAyatrIstotram2.itx"
-itxtitle = "gAyatrIstotram 2 (bhaktAnukampinam)"
-engtitle = "gAyatrIstotram 2"
-Category = "devii, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-"Latest update" = "June 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीस्तोत्रम् २ (भक्तानुकम्पिनम्)"
+---
+Author: Traditional
+Category: devii, gAyatrI, devI
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: gAyatrIstotram2.itx
+Language: Sanskrit
+Latest update: June 5, 2016
+Location: doc_devii
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrIstotram 2
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: gAyatrIstotram 2
+itxtitle: gAyatrIstotram 2 (bhaktAnukampinam)
+title: गायत्रीस्तोत्रम् २ (भक्तानुकम्पिनम्)
 
-+++
+---
   
  गायत्रीस्तोत्रम् २   
   
@@ -65,7 +65,7 @@ title = "गायत्रीस्तोत्रम् २ (भक्ता�
 तपस्विनी तपोलोके सत्यलोके तु सत्यवाक् ॥ १३॥  
   
 कमला विष्णुलोके च गायत्री ब्रह्मलोकदा ।  
-रुद्रलोके स्थिता गौरी हरार्धांगनिवासिनी ॥ १४॥  
+रुद्रलोके स्थिता गौरी हरार्धाङ्गनिवासिनी ॥ १४॥  
   
 अहमो महतश्चैव प्रकृतिस्त्वं हि गीयसे ।  
 साम्यावस्थात्मिका त्वं हि शबलब्रह्मरूपिणी ॥ १५॥  

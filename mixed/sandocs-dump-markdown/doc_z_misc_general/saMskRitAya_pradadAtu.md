@@ -1,22 +1,22 @@
-+++
-"Text title" = "Samskritaya pradadAtu"
-"File name" = "saMskRRitAyapradadAtu.itx"
-itxtitle = "saMskRitAya pradadAtu"
-engtitle = "saMskRRitAyapradadAtu"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "manish gavkar manishyg at gmail.com"
-"Proofread by" = "manish gavkar manishyg at gmail.com, NA"
-Indexextra = "(Video)"
-"Latest update" = "April 4, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृइताय प्रददातु"
+---
+Category: misc, sanskritgeet
+File name: saMskRRitAyapradadAtu.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: April 4, 2020
+Location: doc_z_misc_general
+Proofread by: manish gavkar manishyg at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Samskritaya pradadAtu
+Transliterated by: manish gavkar manishyg at gmail.com
+engtitle: saMskRRitAyapradadAtu
+itxtitle: saMskRitAya pradadAtu
+title: संस्कृइताय प्रददातु
 
-+++
+---
   
  संस्कृताय प्रददातु   
 सुन्दरं सुबद्धमस्माकं संस्कृतम् ।  

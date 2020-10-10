@@ -1,24 +1,24 @@
-+++
-"Text title" = "tripurArNavoktavargAntastotram"
-"File name" = "tripurArNavoktavargAntastotram.itx"
-itxtitle = "tripurArNavoktavargAntastotram"
-engtitle = "tripurArNavoktavargAntastotram"
-Category = "devii, aShTaka, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "From Tripurarnava tantra"
-Indexextra = "(Text)"
-"Latest update" = "September 26, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरार्णवोक्तवर्गान्तस्तोत्रम्"
+---
+Category: devii, aShTaka, dashamahAvidyA, devI
+Description/comments: From Tripurarnava tantra
+File name: tripurArNavoktavargAntastotram.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: September 26, 2018
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tripurArNavoktavargAntastotram
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: tripurArNavoktavargAntastotram
+itxtitle: tripurArNavoktavargAntastotram
+title: त्रिपुरार्णवोक्तवर्गान्तस्तोत्रम्
 
-+++
+---
   
  श्रीत्रिपुरार्णवोक्तवर्गान्तस्तोत्रं   
 क्ष्माम्ब्वग्नीरणखार्केन्दुयष्ट्टप्राययुगाक्षरैः ।  

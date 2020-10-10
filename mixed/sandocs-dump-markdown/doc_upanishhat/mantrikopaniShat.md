@@ -1,23 +1,23 @@
-+++
-"Text title" = "Mantrika Upanishad"
-"File name" = "mantrika.itx"
-itxtitle = "mantrikopaniShat"
-engtitle = "Mantrika Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "32/108; Shuklayajurveda Samanya upanishad"
-"Latest update" = "Jan. 11, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मन्त्रिकोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 32/108; Shuklayajurveda Samanya upanishad
+File name: mantrika.itx
+Language: Sanskrit
+Latest update: Jan. 11, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Mantrika Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Mantrika Upanishad
+itxtitle: mantrikopaniShat
+title: मन्त्रिकोपनिषत्
 
-+++
+---
   
  मन्त्रिकोपनिषत्   
   
@@ -32,7 +32,7 @@ title = "मन्त्रिकोपनिषत्"
 ॐ अष्टपादं शुचिं हंसं त्रिसूत्रमणुमव्ययम् ।  
 त्रिवर्त्मानं तेजसोहं सर्वतःपश्यन्न पश्यति ॥ १॥  
   
-भूतसंमोहने काले भिन्ने तमसि वैखरे ।  
+भूतसम्मोहने काले भिन्ने तमसि वैखरे ।  
 अन्तः पश्यन्ति सत्त्वस्था निर्गुणं गुणगह्वरे ॥ २॥  
   
 अशक्यः सोऽन्यथा द्रष्टुं ध्यायमानः कुमारकैः ।  
@@ -71,7 +71,7 @@ title = "मन्त्रिकोपनिषत्"
 तं षड्विंशक इत्येते सप्तविंशं तथापरे ।  
 पुरुषं निर्गुणं साङ्ख्यमथर्वशिरसो विदुः ॥ १४॥  
   
-चतुर्विंशतिसंख्यातं व्यक्तमव्यक्तमेव च ।  
+चतुर्विंशतिसङ्ख्यातं व्यक्तमव्यक्तमेव च ।  
 अद्वैतं द्वैतमित्याहुस्त्रिधा तं पञ्चधा तथा ॥ १५॥  
   
 ब्रह्माद्यं स्थावरान्तं च पश्यन्ति ज्ञानचक्षुषः ।  

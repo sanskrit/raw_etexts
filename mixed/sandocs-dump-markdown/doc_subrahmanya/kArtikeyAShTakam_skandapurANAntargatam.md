@@ -1,22 +1,22 @@
-+++
-"Text title" = "kArtikeyAShTakam"
-"File name" = "kArtikeyAShTakam.itx"
-itxtitle = "kArtikeyAShTakam (skandapurANAntargatam)"
-engtitle = "kArtikeyAShTakam"
-Category = "aShTaka, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran"
-Description-comments = "Subrahmanya Stuti Manjari, skAnde kAshIkhaNDataH"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "December 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कार्तिकेयाष्टकम् (स्कन्दपुराणान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: aShTaka, subrahmanya
+Description-comments: Subrahmanya Stuti Manjari, skAnde kAshIkhaNDataH
+File name: kArtikeyAShTakam.itx
+Language: Sanskrit
+Latest update: December 22, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: kArtikeyAShTakam
+engtitle: kArtikeyAShTakam
+itxtitle: kArtikeyAShTakam (skandapurANAntargatam)
+title: कार्तिकेयाष्टकम् (स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीकार्तिकेयाष्टकम्   
   

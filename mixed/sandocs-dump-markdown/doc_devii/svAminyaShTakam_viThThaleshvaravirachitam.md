@@ -1,23 +1,23 @@
-+++
-"Text title" = "svAminyaShTakam"
-"File name" = "svAminyaShTakam.itx"
-itxtitle = "svAminyaShTakam (viThThaleshvaravirachitam)"
-engtitle = "svAminyaShTakam"
-Category = "devii, radha, puShTimArgIya, aShTaka, viThThaleshvara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "viThThaleshvara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वामिन्यष्टकम् (विठ्ठलेश्वरविरचितम्)"
+---
+Author: viThThaleshvara
+Category: devii, radha, puShTimArgIya, aShTaka, viThThaleshvara, devI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: svAminyaShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: svAminyaShTakam
+engtitle: svAminyaShTakam
+itxtitle: svAminyaShTakam (viThThaleshvaravirachitam)
+title: स्वामिन्यष्टकम् (विठ्ठलेश्वरविरचितम्)
 
-+++
+---
   
  श्रीस्वामिन्यष्टकम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "skandalaharI"
-"File name" = "skandalaharI.itx"
-itxtitle = "skandalaharI"
-engtitle = "skandalaharI"
-Category = "subrahmanya, laharI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com, PSA Easwaran"
-Description-comments = "Subrahmanya Stuti Manjari, Mahaperiaval Trust"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "January 3, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्कन्दलहरी"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: subrahmanya, laharI
+Description-comments: Subrahmanya Stuti Manjari, Mahaperiaval Trust
+File name: skandalaharI.itx
+Language: Sanskrit
+Latest update: January 3, 2017
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: skandalaharI
+engtitle: skandalaharI
+itxtitle: skandalaharI
+title: स्कन्दलहरी
 
-+++
+---
   
  स्कन्दलहरी   
   

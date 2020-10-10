@@ -1,24 +1,24 @@
-+++
-"Text title" = "madhusUdanastotram"
-"File name" = "madhusudana.itx"
-itxtitle = "madhusUdanastotram"
-engtitle = "Madhusudana Stotra"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "shukadeva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sanjay Rath srath at srath.com"
-"Proofread by" = "Sanjay Rath srath at srath.com"
-"Latest update" = "July 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मधुसूदनस्तोत्रम्"
+---
+Author: shukadeva
+Category: vishhnu, krishna, stotra, vishnu
+File name: madhusudana.itx
+Language: Sanskrit
+Latest update: July 22, 2016
+Location: doc_vishhnu
+Proofread by: Sanjay Rath srath at srath.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: madhusUdanastotram
+Texttype: stotra
+Transliterated by: Sanjay Rath srath at srath.com
+engtitle: Madhusudana Stotra
+itxtitle: madhusUdanastotram
+title: मधुसूदनस्तोत्रम्
 
-+++
+---
   
  श्रीमधुसूदनस्तोत्रम्   
   

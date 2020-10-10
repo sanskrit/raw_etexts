@@ -1,22 +1,22 @@
-+++
-"Text title" = "Bhrashtashtakam"
-"File name" = "bhraShTAShTakam.itx"
-itxtitle = "bhraShTAShTakam"
-engtitle = "bhraShTAShTakam"
-Category = "misc, vedanta, aShTaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "April 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "भ्रष्टाष्टकम्"
+---
+Category: misc, vedanta, aShTaka
+File name: bhraShTAShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 18, 2020
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bhrashtashtakam
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: bhraShTAShTakam
+itxtitle: bhraShTAShTakam
+title: भ्रष्टाष्टकम्
 
-+++
+---
   
  भ्रष्टाष्टकम्   
      विश्वं सत्यं मनुते तनुते कर्माणि लोकसंसिद्ध्यै ।  

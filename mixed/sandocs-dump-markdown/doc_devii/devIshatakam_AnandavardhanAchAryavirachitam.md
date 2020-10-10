@@ -1,21 +1,21 @@
-+++
-"Text title" = "devIshatakam"
-"File name" = "devIshatakam.itx"
-itxtitle = "devIshatakam (AnandavardhanAchAryavirachitam)"
-engtitle = "devIshatakam"
-Category = "shataka, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "AnandavardhanAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Latest update" = "December 27, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीशतकम् (आनन्दवर्धनाचार्यविरचितम्)"
+---
+Author: AnandavardhanAchArya
+Category: shataka, devii, devI
+File name: devIshatakam.itx
+Language: Sanskrit
+Latest update: December 27, 2016
+Location: doc_devii
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIshatakam
+engtitle: devIshatakam
+itxtitle: devIshatakam (AnandavardhanAchAryavirachitam)
+title: देवीशतकम् (आनन्दवर्धनाचार्यविरचितम्)
 
-+++
+---
   
   देवीशतकम्  
   
@@ -124,7 +124,7 @@ title = "देवीशतकम् (आनन्दवर्धनाचार
 सुरानिति द्वेषिजनैरभिद्रुतानुदाहरद्या स्वयमाहवोद्यता ।  
 शिवोऽद्य तापप्रशमस्तया तव प्रशस्तया तत्त्वदृशा विधीयताम् ॥ ३४॥  
   
-वक्रं बिभ्रत्युपहितचन्द्रायासं या संमोहप्रशमनसूर्याकारा ।  
+वक्रं बिभ्रत्युपहितचन्द्रायासं या सम्मोहप्रशमनसूर्याकारा ।  
 कारानीतामरमरिमाचिक्षेप क्षेपत्यक्ता रणभुवि सा वः पायात् ॥ ३५॥  
   
 हिते हितेऽस्तु ते स्तुते जिताजितामितामिता ।  
@@ -137,7 +137,7 @@ title = "देवीशतकम् (आनन्दवर्धनाचार
   
 या मूर्तिं किमपि स्मरारिवपुषा धत्ते समायोजितां  
      यां दृष्ट्वैव विनाशमाप सहसा शुम्भः समायोऽजिताम् ।  
-या नम्रैः सुरसिद्धिकिंनरनरैः खेदं विना शस्यते  
+या नम्रैः सुरसिद्धिकिन्नरनरैः खेदं विना शस्यते  
      सा हेतुर्भवतां त्रिलोचनवधूरश्रीविनाशस्य ते ॥ ३८॥  
   
 सायासायास्त्रिलोक्याः शरणमकरुणक्षुण्णदैत्यप्रवीरा  
@@ -268,7 +268,7 @@ title = "देवीशतकम् (आनन्दवर्धनाचार
 संवादिसारसम्पत्तीसदागोरिजयेसुदे ।  
 तवसत्तीरदे सन्तु संसारे सुसमानदे ॥ ७८॥  
   
-आगममणिसुदमहिमसमसंमदकृदपरजस्सु ।  
+आगममणिसुदमहिमसमसम्मदकृदपरजस्सु ।  
 किर सविभयवदितो समय उज्जलभावसहस्सु ॥ ७९॥  
   
 त्वं वादे शास्त्रसङ्गिन्यां भासि वाचि दिवौकसः ।  
@@ -308,7 +308,7 @@ title = "देवीशतकम् (आनन्दवर्धनाचार
 त्वं धैर्यजननी पासि जननीतिगुणस्थितीः ॥ ९१॥  
   
 ख्यातिकल्पनदक्षैका त्वं सामर्ग्यजुषामितः ।  
-सदा सरक्षसांमुख्यदानवानामसुस्थितिः ॥ ९२॥  
+सदा सरक्षसाम्मुख्यदानवानामसुस्थितिः ॥ ९२॥  
   
 सिता संसत्सु सत्तास्ते स्तुतेस्ते सततं सतः ।  
 ततास्तितैत्ति तस्तेति सूतिः सूतिस्ततोऽसि सा ॥ ९३॥  
@@ -334,7 +334,7 @@ title = "देवीशतकम् (आनन्दवर्धनाचार
 करोषि तात्स्त्वमुत्खातमोहस्थाने स्थिरा मतीः ।  
 पदं यतिः सुतपसा लभतेऽतः सशुक्लिम ॥ १००॥  
   
-देव्या स्वप्नोद्गमादिष्टदेवीशतकसंज्ञया ।  
+देव्या स्वप्नोद्गमादिष्टदेवीशतकसञ्ज्ञया ।  
 देशितानुपमामाधादतो नोणसुतो नुतिम् ॥ १०१॥  
   
 हार्दध्वान्तनियन्तृभास्वरवपुः स्वर्वासिनां सर्वतो  

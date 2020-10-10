@@ -1,23 +1,23 @@
-+++
-"Text title" = "mangalAcharaNam 3"
-"File name" = "mangalAcharaNam3.itx"
-itxtitle = "maNgalAcharaNam 3"
-engtitle = "mangalAcharaNam 3"
-Category = "vishhnu, krishna, puShTimArgIya, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मण्गलाचरणम् ३"
+---
+Category: vishhnu, krishna, puShTimArgIya, mangala
+Description/comments: puShTimArgIya stotraratnAkara
+File name: mangalAcharaNam3.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: mangalAcharaNam 3
+engtitle: mangalAcharaNam 3
+itxtitle: maNgalAcharaNam 3
+title: मण्गलाचरणम् ३
 
-+++
+---
   
  मङ्गलाचरणम् ३   
   

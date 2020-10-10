@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Balopanishat"
-"File name" = "bAlopaniShat.itx"
-itxtitle = "bAlopaniShat"
-engtitle = "bAlopaniShat"
-Category = "devii, dashamahAvidyA, devI, upanishhat, upaniShat"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालोपनिषत्"
+---
+Category: devii, dashamahAvidyA, devI, upanishhat, upaniShat
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlopaniShat.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Balopanishat
+engtitle: bAlopaniShat
+itxtitle: bAlopaniShat
+title: बालोपनिषत्
 
-+++
+---
   
  श्रीबालोपनिषत्   
 (अथर्ववेदीया)  

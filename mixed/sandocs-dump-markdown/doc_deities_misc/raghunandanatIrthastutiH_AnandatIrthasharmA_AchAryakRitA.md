@@ -1,24 +1,24 @@
-+++
-"Text title" = "Raghunandanatirtha Stutih"
-"File name" = "raghunandanatIrthastutiH.itx"
-itxtitle = "raghunandanatIrthastutiH (AnandatIrthasharmA AchAryakRitA)"
-engtitle = "Raghunandanatirtha StutiH"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "AnandatIrthasharmA AchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "June 13, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रघुनन्दनतीर्थस्तुतिः (आनन्दतीर्थशर्मा आचार्यकृइता)"
+---
+Author: AnandatIrthasharmA AchArya
+Category: deities_misc, gurudev
+File name: raghunandanatIrthastutiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 13, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Raghunandanatirtha Stutih
+Transliterated by: Krishnananda Achar
+engtitle: Raghunandanatirtha StutiH
+itxtitle: raghunandanatIrthastutiH (AnandatIrthasharmA AchAryakRitA)
+title: रघुनन्दनतीर्थस्तुतिः (आनन्दतीर्थशर्मा आचार्यकृइता)
 
-+++
+---
   
  श्रीरघुनन्दनतीर्थस्तुतिः   
 ॐ ।  

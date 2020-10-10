@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumatstavarAjaH"
-"File name" = "hanumatstavarAjaH.itx"
-itxtitle = "hanumatstavarAjaH"
-engtitle = "hanumatstavarAjaH"
-Category = "stavarAja, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "hanumatkalpe"
-"Latest update" = "April 23, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्स्तवराजः"
+---
+Author: Traditional
+Category: stavarAja, hanumaana, hanuman
+Description-comments: hanumatkalpe
+File name: hanumatstavarAjaH.itx
+Language: Sanskrit
+Latest update: April 23, 2005
+Location: doc_hanumaana
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatstavarAjaH
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: hanumatstavarAjaH
+itxtitle: hanumatstavarAjaH
+title: हनुमत्स्तवराजः
 
-+++
+---
   
  श्रीहनुमत्स्तवराजः   
   

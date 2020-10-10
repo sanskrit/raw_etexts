@@ -1,23 +1,23 @@
-+++
-"Text title" = "shriiraNganaayikaaShTottarashatanaamaavaliH ||"
-"File name" = "ranganaayikaa108.itx"
-itxtitle = "raNganAyikAShTottarashatanAmAvalI"
-engtitle = "raNganAyikAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "May 15, 2007, November 15, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रण्गनायिकाष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI
+File name: ranganaayikaa108.itx
+Language: Sanskrit
+Latest update: May 15, 2007, November 15, 2012
+Location: doc_devii
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: Hinduism/religion/traditional
+Sublocation: devii
+Text title: shriiraNganaayikaaShTottarashatanaamaavaliH ||
+Texttype: nAmAvalI
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: raNganAyikAShTottarashatanAmAvalI
+itxtitle: raNganAyikAShTottarashatanAmAvalI
+title: रण्गनायिकाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीरङ्गनायिकाष्टोत्तरशतनामावली   
   

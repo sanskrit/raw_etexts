@@ -1,28 +1,28 @@
-+++
-"Text title" = "shrii gaNesha chaaliisaa"
-"File name" = "gaNesha40.itx"
-itxtitle = "gaNesha chAlIsA"
-engtitle = "shri gaNesha chalisa"
-Category = "chAlisA, ganesha"
-Location = "doc_z_otherlang_hindi"
-Sublocation = "ganesha"
-Language = "Hindi"
-Subject = "hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "Devotional hymn to gaNesha, of 40 verses"
-"Latest update" = "March 14, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेश चालीसा"
+---
+Category: chAlisA, ganesha
+Description-comments: Devotional hymn to gaNesha, of 40 verses
+File name: gaNesha40.itx
+Language: Hindi
+Latest update: March 14, 2005
+Location: doc_z_otherlang_hindi
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: ganesha
+Text title: shrii gaNesha chaaliisaa
+Transliterated by: NA
+engtitle: shri gaNesha chalisa
+itxtitle: gaNesha chAlIsA
+title: गणेश चालीसा
 
-+++
+---
   
  श्री गणेश चालीसा   
 जय गणपति सद्गुणसदन कविवर बदन कृपाल ।   
-विघ्न हरण मंगल करण जय जय गिरिजालाल ॥  
+विघ्न हरण मङ्गल करण जय जय गिरिजालाल ॥  
   
-जय जय जय गणपति राजू । मंगल भरण करण शुभ काजू ॥  
+जय जय जय गणपति राजू । मङ्गल भरण करण शुभ काजू ॥  
   
 जय गजबदन सदन सुखदाता । विश्व विनायक बुद्धि विधाता ॥  
   
@@ -38,7 +38,7 @@ title = "गणेश चालीसा"
   
 ऋद्धि सिद्धि तव चँवर सुधारे । मूषक वाहन सोहत द्वारे ॥  
   
-कहौं जन्म शुभ कथा तुम्हारी । अति शुचि पावन मंगल कारी ॥  
+कहौं जन्म शुभ कथा तुम्हारी । अति शुचि पावन मङ्गल कारी ॥  
   
 एक समय गिरिराज कुमारी । पुत्र हेतु तप कीन्हा भारी ॥  
   
@@ -56,11 +56,11 @@ title = "गणेश चालीसा"
   
 बनि शिशु रुदन जबहि तुम ठाना । लखि मुख सुख नहिं गौरि समाना ॥  
   
-सकल मगन सुख मंगल गावहिं । नभ ते सुरन सुमन वर्षावहिं ॥  
+सकल मगन सुख मङ्गल गावहिं । नभ ते सुरन सुमन वर्षावहिं ॥  
   
 शम्भु उमा बहुदान लुटावहिं । सुर मुनि जन सुत देखन आवहिं ॥  
   
-लखि अति आनन्द मंगल साजा । देखन भी आये शनि राजा ॥  
+लखि अति आनन्द मङ्गल साजा । देखन भी आये शनि राजा ॥  
   
 निज अवगुण गुनि शनि मन माहीं । बालक देखन चाहत नाहीं ॥  
   
@@ -78,7 +78,7 @@ title = "गणेश चालीसा"
   
 तुरत गरुड़ चढ़ि विष्णु सिधाये । काटि चक्र सो गज शिर लाये ॥  
   
-बालक के धड़ ऊपर धारयो । प्राण मंत्र पढ़ शंकर डारयो ॥  
+बालक के धड़ ऊपर धारयो । प्राण मन्त्र पढ़ शङ्कर डारयो ॥  
   
 नाम गणेश शम्भु तब कीन्हे । प्रथम पूज्य बुद्धि निधि वर दीन्हे ॥  
   
@@ -100,10 +100,10 @@ title = "गणेश चालीसा"
   
 दोहा  
        श्री गणेश यह चालीसा पाठ करें धर ध्यान ।   
-       नित नव मंगल गृह बसै लहे जगत सन्मान ॥  
+       नित नव मङ्गल गृह बसै लहे जगत सन्मान ॥  
   
-       संवत् अपन सहस्र दश ऋषि पंचमी दिनेश ।   
-       पूरण चालीसा भयो मंगल मूर्ति गणेश ॥  
+       संवत् अपन सहस्र दश ऋषि पञ्चमी दिनेश ।   
+       पूरण चालीसा भयो मङ्गल मूर्ति गणेश ॥  
   
                 ॥ आरती श्री गणेश जी की ॥  
   
@@ -113,7 +113,7 @@ title = "गणेश चालीसा"
   
 पान चढ़े फल चढ़े और चढ़े मेवा । लड्डुअन का भोग लगे सन्त करें सेवा ॥  
   
-अंधे को आँख देत कोढ़िन को काया ।बाँझन को पुत्र देत निर्धन को माया ॥  
+अन्धे को आँख देत कोढ़िन को काया ।बाँझन को पुत्र देत निर्धन को माया ॥  
   
 सूर श्याम शरण आए सफल कीजे सेवा । जय गणेश जय गणेश जय गणेश देवा ॥  
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "navavarNamAlA"
-"File name" = "navarNamAlA.itx"
-itxtitle = "navavarNamAlA"
-engtitle = "navavarNamAlA"
-Category = "varNamAlA, shiva, sadAshivabrahmendra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "sadAshivabrahmendra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "June 22, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नववर्णमाला"
+---
+Author: sadAshivabrahmendra
+Category: varNamAlA, shiva, sadAshivabrahmendra
+File name: navarNamAlA.itx
+Language: Sanskrit
+Latest update: June 22, 2004
+Location: doc_shiva
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: navavarNamAlA
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: navavarNamAlA
+itxtitle: navavarNamAlA
+title: नववर्णमाला
 
-+++
+---
   
  नववर्णमाला   
   
@@ -24,8 +24,8 @@ title = "नववर्णमाला"
   
    ॥ श्री सदाशिवब्रह्मेन्द्रविरचिता ॥  
   
-ओंकारैकनिरूप्यं पङ्कजभवनादिभावितपदाब्जम् ।  
-किंकरकैरवशशिनं शंकरमेकं कलये॥ १ ॥  
+ओङ्कारैकनिरूप्यं पङ्कजभवनादिभावितपदाब्जम् ।  
+किङ्करकैरवशशिनं शङ्करमेकं कलये॥ १ ॥  
   
 ऐन्द्रं पदमपि मनुते नैव वरं यस्य पदरजःस्पर्शात् ।  
 सान्द्रसुखोदधिमेकं चन्द्रकलोत्तंसमीशमासेवे॥ २ ॥  
@@ -34,25 +34,25 @@ title = "नववर्णमाला"
 भोगीशभूषिताङ्गं भागीकृतसर्वमङ्गलं नौमि॥ ३ ॥  
   
 नगराजशिखरवासिनं अगजामुखकुमुदकौमुदीनिकरम् ।  
-गगनशिरोरुहमेकं निगमशिरस्तन्त्रविदितमवलंबे॥ ४ ॥  
+गगनशिरोरुहमेकं निगमशिरस्तन्त्रविदितमवलम्बे॥ ४ ॥  
   
 मन्दस्मितलसदाननं इन्दुकलोत्तंसमम्बिकासचिवम् ।  
-कंदर्पकोटिशतगुण-सुन्दरदिव्याकृतिं शिवं वन्दे॥ ५ ॥  
+कन्दर्पकोटिशतगुण-सुन्दरदिव्याकृतिं शिवं वन्दे॥ ५ ॥  
   
-मस्तक नम कमलांघ्रिं संस्तुहि भो वाणि वरगुणोदारम् ।  
+मस्तक नम कमलाङ्घ्रिं संस्तुहि भो वाणि वरगुणोदारम् ।  
 हस्तयुगार्चय शर्वं स्वस्थो निवसामि निजमहिम्न्यमुना॥ ६ ॥  
   
-क्लिन्नेक्षणमतिकृपया संनुतमहिमानमागमशिरोभिः ।  
+क्लिन्नेक्षणमतिकृपया सन्नुतमहिमानमागमशिरोभिः ।  
 तं नौमि पार्वतीशं पन्नगवरभूषणोज्ज्वलकराब्जम्॥ ७ ॥  
   
 वटविटपिनिकटनिलयं कुटिलजटाघटितहिमकरोदारम् ।  
-कटिलसितकरटिकृत्तिं निटिलाम्बकमेकमालंबे॥९ ॥  
+कटिलसितकरटिकृत्तिं निटिलाम्बकमेकमालम्बे॥९ ॥  
   
 वामाङ्ककलितकान्तं कामान्तकमादिदैवतं दान्तम् ।  
 भूमानन्दघनं तद्धाम किमप्यन्तरान्तरं भाति॥ १० ॥  
   
 यदपाङ्गितात्प्रबोधात्पदमलभेऽखण्डितात्ममात्रमहम् ।  
-सदयं सांबशिवं तं मदनान्तकमादिदैवतं नौमि॥ ११ ॥  
+सदयं साम्बशिवं तं मदनान्तकमादिदैवतं नौमि॥ ११ ॥  
   
 सौस्नातिकममृतजलैः सुस्मितवदनेन्दुसमुदितदिगन्तम् ।  
 संस्तुतममरगणैस्तं निस्तुलमहिमानमानतोऽस्मि शिवम्॥ १२ ॥  
@@ -60,7 +60,7 @@ title = "नववर्णमाला"
 नववर्णमालास्तुतिमेतामादिदेशिकेन्द्रस्य ।  
 धारयतः स्याद्भुक्तिः सकलकलावाप्तिरथ परा मुक्तिः॥ १३ ॥  
   
-॥ इति श्री सदाशिवब्रह्मेन्द्रविरचिता नववर्णमाला संपूर्णा॥  
+॥ इति श्री सदाशिवब्रह्मेन्द्रविरचिता नववर्णमाला सम्पूर्णा॥  
   
   
 Endoded by N. Balasubramanian bbalu@satyam.net.in  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "parashurAmasahasranAmAvalI"
-"File name" = "parashurAmasahasranAmAvalI.itx"
-itxtitle = "parashurAmasahasranAmAvaliH"
-engtitle = "Parashurama sahasranAmAvalI"
-Category = "sahasranAmAvalI, vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "See corresponding stotra"
-Source = "bhagavAn parashurAma by vIrAchArya shAstrI, reNukAnantran"
-Indexextra = "(agnipurANa)"
-"Latest update" = "April 6, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परशुरामसहस्रनामावलिः"
+---
+Category: sahasranAmAvalI, vishhnu, dashAvatAra, stotra, vishnu
+Description-comments: See corresponding stotra
+File name: parashurAmasahasranAmAvalI.itx
+Indexextra: (agnipurANa)
+Language: Sanskrit
+Latest update: April 6, 2019
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: bhagavAn parashurAma by vIrAchArya shAstrI, reNukAnantran
+SubDeity: dashAvatAra
+Subject: hinduism
+Sublocation: vishhnu
+Text title: parashurAmasahasranAmAvalI
+engtitle: Parashurama sahasranAmAvalI
+itxtitle: parashurAmasahasranAmAvaliH
+title: परशुरामसहस्रनामावलिः
 
-+++
+---
   
  श्रीपरशुरामसहस्रनामावलिः   
 अथ विनियोगः ।  
@@ -925,7 +925,7 @@ title = "परशुरामसहस्रनामावलिः"
 ॐ अनिष्टमथनाय नमः ।  
 ॐ मुकुन्दाय नमः ।  
 ॐ विगतज्वराय नमः ।  
-ॐ स्वयंज्योतिषे नमः ।  
+ॐ स्वयञ्ज्योतिषे नमः ।  
 ॐ गुरुतमाय नमः ।  
 ॐ सुप्रसादाय नमः ।  
 ॐ अचलाय नमः ।  ८५०  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "kulakuNDalIkavacham"
-"File name" = "kulakuNDalIkavacham.itx"
-itxtitle = "kulakuNDalIkavachaM athavA kandavAsinIkavacham (rudrayAmalAntargatam)"
-engtitle = "kulakuNDalIkavacham from Rudrayamala"
-Category = "kavacha, devii, ShaTchakrashakti, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "RudrayAmale utaratantre siddhividyAprakaraNe"
-"Latest update" = "July 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुलकुण्डलीकवचं अथवा कन्दवासिनीकवचम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: kavacha, devii, ShaTchakrashakti, devI
+Description-comments: RudrayAmale utaratantre siddhividyAprakaraNe
+File name: kulakuNDalIkavacham.itx
+Language: Sanskrit
+Latest update: July 5, 2016
+Location: doc_devii
+Proofread by: Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kulakuNDalIkavacham
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: kulakuNDalIkavacham from Rudrayamala
+itxtitle: kulakuNDalIkavachaM athavA kandavAsinIkavacham (rudrayAmalAntargatam)
+title: कुलकुण्डलीकवचं अथवा कन्दवासिनीकवचम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीकुलकुण्डलीकवचस्तोत्रम् अथवा कन्दवासिनीकवचम्   
 ॥ श्रीगणेशाय नमः ॥  

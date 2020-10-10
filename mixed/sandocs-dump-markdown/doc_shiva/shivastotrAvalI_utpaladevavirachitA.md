@@ -1,25 +1,25 @@
-+++
-"Text title" = "shivastotrAvalI by utapaladeva"
-"File name" = "shivastotrAvalIutapaladeva.itx"
-itxtitle = "shivastotrAvalI (utpaladevavirachitA)"
-engtitle = "shivastotrAvalI (utpaladevavirachitA)"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Utpaladeva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Somadeva Vasudeva"
-"Proofread by" = "Somadeva Vasudeva"
-Description-comments = "20 stotras for Shiva by Utpaladeva"
-Indexextra = "(Sanskrit Text, Commentary, Reference)"
-Acknowledge-Permission = "GRETIL, sanskritworld.in"
-"Latest update" = "July 1, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवस्तोत्रावली (उत्पलदेवविरचिता)"
+---
+Acknowledge-Permission: GRETIL, sanskritworld.in
+Author: Utpaladeva
+Category: shiva
+Description-comments: 20 stotras for Shiva by Utpaladeva
+File name: shivastotrAvalIutapaladeva.itx
+Indexextra: (Sanskrit Text, Commentary, Reference)
+Language: Sanskrit
+Latest update: July 1, 2017
+Location: doc_shiva
+Proofread by: Somadeva Vasudeva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivastotrAvalI by utapaladeva
+Transliterated by: Somadeva Vasudeva
+engtitle: shivastotrAvalI (utpaladevavirachitA)
+itxtitle: shivastotrAvalI (utpaladevavirachitA)
+title: शिवस्तोत्रावली (उत्पलदेवविरचिता)
 
-+++
+---
   
  उत्पलदेवविरचिता शिवस्तोत्रावलिः   
   
@@ -1097,7 +1097,7 @@ title = "शिवस्तोत्रावली (उत्पलदेवव
 कीर्त्यश्चिन्तापदं मृग्यः पूज्यो येन त्वमेव तत्  
 भवद्भक्तिमतां श्लाघ्या लोकयात्रा भवन्मयी ॥ १६.१८॥  
   
-मुक्तिसंज्ञा विपक्वाया भक्तेरेव त्वयि प्रभो  
+मुक्तिसञ्ज्ञा विपक्वाया भक्तेरेव त्वयि प्रभो  
 तस्यामाद्यदशारूढा मुक्तकल्पा वयं ततः ॥ १६.१९॥  
   
 दुःखागमोऽपि भूयान्मे त्वद्भक्तिभरितात्मनः  

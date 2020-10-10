@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Yogeshwari Kavacham"
-"File name" = "yogeshvarIkavacham.itx"
-itxtitle = "yogeshvarIkavacham yogeshvarI trailokyavijayakavacham (rudrayAmAlAntargatam)"
-engtitle = "Yogeshwari Kavacham"
-Category = "devii, devI, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "rudrayAmale bahurUpAShTaka prastAve IshvarapArvatI saMvAde"
-Indexextra = "(Marathi and audio)"
-Acknowledge-Permission = "http://chitpavanfoundation.org/Chitpavans/"
-"Latest update" = "January 28, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगेश्वरीकवचम् योगेश्वरी त्रैलोक्यविजयकवचम् (रुद्रयामालान्तर्गतम्)"
+---
+Acknowledge-Permission: http://chitpavanfoundation.org/Chitpavans/
+Category: devii, devI, kavacha
+Description/comments: rudrayAmale bahurUpAShTaka prastAve IshvarapArvatI saMvAde
+File name: yogeshvarIkavacham.itx
+Indexextra: (Marathi and audio)
+Language: Sanskrit
+Latest update: January 28, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Yogeshwari Kavacham
+engtitle: Yogeshwari Kavacham
+itxtitle: yogeshvarIkavacham yogeshvarI trailokyavijayakavacham (rudrayAmAlAntargatam)
+title: योगेश्वरीकवचम् योगेश्वरी त्रैलोक्यविजयकवचम् (रुद्रयामालान्तर्गतम्)
 
-+++
+---
   
  श्रीयोगेश्वरीकवचम्   
 श्रीगणेशाय नमः ।  
@@ -146,7 +146,7 @@ title = "योगेश्वरीकवचम् योगेश्वरी 
 ॐ देवीं भक्तजनप्रियां सुवदनां खड्गं च पाशं तथा  
      स्वर्णालङ्कृतलाङगलं सुमुसलं हस्तैर्दधानां श्रियम् ।  
 विद्युत्कोटिरवीन्दुकान्ति धवलां दन्तासुरोन्मूलिनीं  
-     ब्रह्मेन्द्राद्यभिवन्दितां च वरदां योगेश्वरीं संभजे ॥ १॥  
+     ब्रह्मेन्द्राद्यभिवन्दितां च वरदां योगेश्वरीं सम्भजे ॥ १॥  
   
 लं पृथिव्यादि पञ्चमानसोपचारैः सम्पूज्य जपेत् ।  
 अथ मन्त्रः ।  

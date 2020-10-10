@@ -1,22 +1,22 @@
-+++
-"Text title" = "bagalApanjaranyAsastotram"
-"File name" = "bagalApanjaranyAsastotram.itx"
-itxtitle = "bagalApanjaranyAsastotram"
-engtitle = "bagalApanjaranyAsastotram"
-Category = "devii, dashamahAvidyA, panjara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Latest update" = "June 21, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बगलापञ्जरन्यासस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, panjara, devI
+File name: bagalApanjaranyAsastotram.itx
+Language: Sanskrit
+Latest update: June 21, 2017
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bagalApanjaranyAsastotram
+Transliterated by: DPD
+engtitle: bagalApanjaranyAsastotram
+itxtitle: bagalApanjaranyAsastotram
+title: बगलापञ्जरन्यासस्तोत्रम्
 
-+++
+---
   
  श्रीबगलापञ्जरन्यासस्तोत्रम्   
   

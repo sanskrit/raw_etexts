@@ -1,22 +1,22 @@
-+++
-"Text title" = "vibhinnarUpalakShmIdhyAnaprakArAH"
-"File name" = "vibhinnarUpalakShmIdhyAnaprakArAH.itx"
-itxtitle = "vibhinnarUpalakShmIdhyAnaprakArAH"
-engtitle = "vibhinnarUpalakShmIdhyAnaprakArAH"
-Category = "devii, lakShmI, devI, dhyAnam"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras"
-"Latest update" = "May 5, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विभिन्नरूपलक्ष्मीध्यानप्रकाराः"
+---
+Category: devii, lakShmI, devI, dhyAnam
+Description/comments: shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras
+File name: vibhinnarUpalakShmIdhyAnaprakArAH.itx
+Language: Sanskrit
+Latest update: May 5, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vibhinnarUpalakShmIdhyAnaprakArAH
+engtitle: vibhinnarUpalakShmIdhyAnaprakArAH
+itxtitle: vibhinnarUpalakShmIdhyAnaprakArAH
+title: विभिन्नरूपलक्ष्मीध्यानप्रकाराः
 
-+++
+---
   
  विभिन्नरूपलक्ष्मीध्यानप्रकाराः   
   
@@ -182,7 +182,7 @@ title = "विभिन्नरूपलक्ष्मीध्यानप�
 चित्राम्बिकां त्रिनयनां हृदि भावयामि ॥  
   
 गायत्री - रक्तवर्णा  
-देवीं पूर्वाह्नसंध्यायां गायत्रीं वह्निरूपिणीम् ।  
+देवीं पूर्वाह्नसन्ध्यायां गायत्रीं वह्निरूपिणीम् ।  
 कुमारीं रक्तवस्त्राङ्गीं रक्तस्रगनुलेपनाम् ॥  
   
 चतुर्भुजां चतुर्वक्त्रां वरदां चाष्टलोचनाम् ।  

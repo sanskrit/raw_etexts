@@ -1,24 +1,24 @@
-+++
-"Text title" = "Anahateshvarasammohana or Ishvarasammohana Kavacham"
-"File name" = "anAhateshvarasammohanakavacham.itx"
-itxtitle = "anAhateshvarasammohanakavacham (rudrayAmalAntargatam)"
-engtitle = "anAhateshvarasammohanakavacham"
-Category = "shiva, kavacha"
-Location = "doc_shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अनाहतेश्वरसम्मोहनकवचम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: shiva, kavacha
+Description/comments: rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde
+File name: anAhateshvarasammohanakavacham.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+Subject: philosophy/hinduism/religion
+Text title: Anahateshvarasammohana or Ishvarasammohana Kavacham
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: anAhateshvarasammohanakavacham
+itxtitle: anAhateshvarasammohanakavacham (rudrayAmalAntargatam)
+title: अनाहतेश्वरसम्मोहनकवचम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  अनाहतेश्वरसम्मोहन अथवा ईश्वरसम्मोहनकवचम्   
 अथ त्रिषष्टितमः पटलः  
@@ -187,7 +187,7 @@ title = "अनाहतेश्वरसम्मोहनकवचम् (र
 महासेनेश्वरस्तुण्डं मम पातु निरन्तरम् ।  
 श्रीकण्ठादिमहारुद्राः स्वाङ्गग्रन्थिषु मातृकाः ॥ ६३-५३॥  
   
-मां पातु कालरुद्रश्च सर्वांङ्ग कालसंक्षयः ।  
+मां पातु कालरुद्रश्च सर्वाङ्ङ्ग कालसङ्क्षयः ।  
 अकाल तारकः पातु उदरं परिपूरकः ॥ ६३-५४॥  
   
 अगस्त्यादिमुनिश्रेष्ठाः पान्तु योगिन ईश्वराः ।  

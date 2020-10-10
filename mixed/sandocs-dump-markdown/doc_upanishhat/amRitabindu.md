@@ -1,23 +1,23 @@
-+++
-"Text title" = "amRitabindu upanishad"
-"File name" = "amrtabindu_upan.itx"
-itxtitle = "amRitabindu"
-engtitle = "amRitabindu"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Anshuman"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anshuman Pandey pandey at umich.edu"
-"Proofread by" = "M. Giridhar, Sunder Hattangadi"
-Indexextra = "(Translation)"
-"Latest update" = "16 April 1996, March 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अमृइतबिन्दु"
+---
+Author: Anshuman
+Category: upanishhat, upanishad
+File name: amrtabindu_upan.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: 16 April 1996, March 4, 2017
+Location: doc_upanishhat
+Proofread by: M. Giridhar, Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: amRitabindu upanishad
+Transliterated by: Anshuman Pandey pandey at umich.edu
+engtitle: amRitabindu
+itxtitle: amRitabindu
+title: अमृइतबिन्दु
 
-+++
+---
   
  अमृतबिन्दु   
   
@@ -26,7 +26,7 @@ title = "अमृइतबिन्दु"
           हरिः ॐ ॥  
   
 मनो हि द्विविधं प्रोक्तं शुद्धं चाशुद्धमेव च ।  
-अशुद्धं कामसंकल्पं शुद्धं कामविवर्जितम् ॥ १॥  
+अशुद्धं कामसङ्कल्पं शुद्धं कामविवर्जितम् ॥ १॥  
   
 मन एव मनुष्याणां कारणं बन्धमोक्षयोः ।  
 बन्धाय विषयासक्तं मुक्त्यै निर्विषयं स्मृतम् ॥ २॥  
@@ -34,7 +34,7 @@ title = "अमृइतबिन्दु"
 यतो निर्विषयस्यास्य मनसो मुक्तिरिष्यते ।  
 अतो निर्विषयं नित्यं मनः कार्यं मुमुक्षुणा ॥ ३॥  
   
-निरस्तविषयासङ्गं संनिरुद्धं मनो हृदि ।  
+निरस्तविषयासङ्गं सन्निरुद्धं मनो हृदि ।  
 यदाऽऽयात्यात्मनो भावं तदा तत्परमं पदम् ॥ ४॥  
   
 तावदेव निरोद्धव्यं यावधृदि गतं क्षयम् ।  
@@ -43,7 +43,7 @@ title = "अमृइतबिन्दु"
 नैव चिन्त्यं न चाचिन्त्यं न चिन्त्यं चिन्त्यमेव च ।  
 पक्षपातविनिर्मुक्तं ब्रह्म सम्पद्यते तदा ॥ ६॥  
   
-स्वरेण संधयेद्योगमस्वरं भावयेत्परम् ।  
+स्वरेण सन्धयेद्योगमस्वरं भावयेत्परम् ।  
 अस्वरेणानुभावेन नाभावो भाव इष्यते ॥ ७॥  
   
 तदेव निष्कलं ब्रह्म निर्विकल्पं निरञ्जनम् ।  

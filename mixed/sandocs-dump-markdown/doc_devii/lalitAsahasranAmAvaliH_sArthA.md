@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Lalita Sahasranamavali with meanings"
-"File name" = "lalita1000.itx"
-itxtitle = "lalitAsahasranAmAvaliH (sArthA)"
-engtitle = "Shri Lalita Sahasranamavali with meanings"
-Category = "sahasranAmAvalI, devii, lalitA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lalitA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Saraswathy"
-"Proofread by" = "Ravi Mayavaram, Saraswathy"
-"Translated by" = "Ravi Mayavaram, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "May 19, 2018"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितासहस्रनामावलिः (सार्था)"
+---
+Category: sahasranAmAvalI, devii, lalitA, nAmAvalI, devI
+File name: lalita1000.itx
+Language: Sanskrit
+Latest update: May 19, 2018
+Location: doc_devii
+Proofread by: Ravi Mayavaram, Saraswathy
+Site access: https://sanskritdocuments.org
+SubDeity: lalitA
+Subject: hinduism/religion
+Sublocation: devii
+Text title: Shri Lalita Sahasranamavali with meanings
+Texttype: nAmAvalI
+Translated by: Ravi Mayavaram, PSA Easwaran psaeaswaran at gmail.com
+Transliterated by: Saraswathy
+engtitle: Shri Lalita Sahasranamavali with meanings
+itxtitle: lalitAsahasranAmAvaliH (sArthA)
+title: ललितासहस्रनामावलिः (सार्था)
 
-+++
+---
   
  श्रीललितासहस्रनामावली सार्थ   
   
@@ -203,7 +203,7 @@ She whose ankles are hidden
 ४३. कूर्मपृष्ठजयिष्णुप्रपदान्विता -  
 She whose feet have arches that rival the back of a tortoise  
      in smooothness and beauty  
-४४. नखदीधितिसंछन्ननमज्जनतमोगुणा -  
+४४. नखदीधितिसञ्छन्ननमज्जनतमोगुणा -  
 She whose toenails give out such a radiance that all the  
      darkness of ignorance is dispelled completely from those  
      devotees who prostrate at Her feet  

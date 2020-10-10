@@ -1,23 +1,23 @@
-+++
-"Text title" = "ranganAthAShTottarashatanAmAvaliH"
-"File name" = "ranganAthAShTottarashatanAmAvaliH.itx"
-itxtitle = "raNganAthAShTottarashatanAmAvaliH"
-engtitle = "ranganAthAShTottarashatanAmAvaliH"
-Category = "vishhnu, aShTottarashatanAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रण्गनाथाष्टोत्तरशतनामावलिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, aShTottarashatanAmAvalI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: ranganAthAShTottarashatanAmAvaliH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ranganAthAShTottarashatanAmAvaliH
+engtitle: ranganAthAShTottarashatanAmAvaliH
+itxtitle: raNganAthAShTottarashatanAmAvaliH
+title: रण्गनाथाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीरङ्गनाथाष्टोत्तरशतनामावलिः   
   

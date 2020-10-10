@@ -1,25 +1,26 @@
-+++
-"Text title" = "shrIdayAshatakam"
-"File name" = "dayAshatakam.itx"
-itxtitle = "dayAshatakam (vedAntadeshikavirachitaM)"
-engtitle = "Dayashatakam"
-Category = "shataka, vishhnu, venkateshwara, stotra, vishnu, vedAnta-deshika"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada, T K Gopalan tkgopalan at gmail.com, PSA Easwaran"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "August 11, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दयाशतकम् (वेदान्तदेशिकविरचितं)"
+---
+Category: shataka, vishhnu, venkateshwara, stotra, vishnu, vedAnta-deshika
+File name: dayAshatakam.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: August 11, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada, T K Gopalan tkgopalan at gmail.com, PSA
+  Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIdayAshatakam
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Dayashatakam
+itxtitle: dayAshatakam (vedAntadeshikavirachitaM)
+title: दयाशतकम् (वेदान्तदेशिकविरचितं)
 
-+++
+---
   
  दयाशतकम्   
 श्रीमते निगमान्तमहादेशिकाय नमः ।  
@@ -163,7 +164,7 @@ title = "दयाशतकम् (वेदान्तदेशिकविर
     वृषगिरिहरिनीलं व्यञ्जितं निर्विशन्ति ॥ ३९॥  
   
 त्वयि बहुमतिहीनः श्रीनिवासानुकम्पे  
-    जगति गतिमिहान्यां देवि संमन्यते यः ।  
+    जगति गतिमिहान्यां देवि सम्मन्यते यः ।  
 स खलु विबुधसिन्धौ सन्निकर्षे वहन्त्यां  
     शमयति मृगतृष्णावीचिकाभिः पिपासाम् ॥ ४०॥  
   
@@ -193,7 +194,7 @@ title = "दयाशतकम् (वेदान्तदेशिकविर
     शीलोपज्ञं क्षरति भवती शीतलं सद्गुणौघम् ॥ ४५॥  
   
 भीमे नित्यं भवजलनिधौ मज्जतां मानवाना-  
-मालम्बार्थं वृषगिरिपतिस्त्वन्निदेशात्प्रयुंक्ते ।  
+मालम्बार्थं वृषगिरिपतिस्त्वन्निदेशात्प्रयुङ्क्ते ।  
 प्रज्ञासारं प्रकृतिमहता मूलभागेन जुष्टं  
     शाखाभेदैस्सुभगमनघं शाश्वतं शास्त्रपाणिम् ॥ ४६॥  
   
@@ -298,7 +299,7 @@ title = "दयाशतकम् (वेदान्तदेशिकविर
     शुनासीरो देवासुरसमरनासीरसुभटः ॥ ६६॥  
   
 दये दुग्धोदन्वद्व्यतियुतसुधासिन्धुनयत-  
-    स्त्वदाश्लेषान्नित्यं जनितमृतसंजीवनदशाः ।  
+    स्त्वदाश्लेषान्नित्यं जनितमृतसञ्जीवनदशाः ।  
 स्वदन्ते दान्तेभ्यः श्रुतिवदनकर्पूरगुलिका  
     विषुण्वन्तश्चित्तं वृषशिखरिविश्वम्भरगुणाः ॥ ६७॥  
   
@@ -499,7 +500,7 @@ title = "दयाशतकम् (वेदान्तदेशिकविर
 विश्वानुग्रहमातरं व्यतिषजत्स्वर्गापवर्गां सुधा-  
     सध्रीचीमिति वेङ्कटेश्वरकविर्भक्त्या दयामस्तुत ।  
 पद्मानामिह यद्विधेयभगवत्सङ्कल्पकल्पद्रुमात् var  पद्यानामिह  
-    झंझामारुतधूतचूतनयतस्साम्पातिकोऽयं क्रमः ॥ १०७॥  
+    झञ्झामारुतधूतचूतनयतस्साम्पातिकोऽयं क्रमः ॥ १०७॥  
   
 कामं सन्तु मिथः करम्बितगुणावद्यानि पद्यानि नः  
     कस्यास्मिञ्छतके सदम्बुकतके दोषश्रुतिं क्षाम्यति ।  

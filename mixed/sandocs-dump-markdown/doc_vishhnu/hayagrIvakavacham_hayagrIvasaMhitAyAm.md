@@ -1,22 +1,22 @@
-+++
-"Text title" = "hayagrIvakavacham"
-"File name" = "hayagrIvakavacham.itx"
-itxtitle = "hayagrIvakavacham (hayagrIvasaMhitAyAm)"
-engtitle = "hayagrIvakavacham"
-Category = "kavacha, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-"Latest update" = "March 20, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हयग्रीवकवचम् (हयग्रीवसंहितायाम्)"
+---
+Author: Traditional
+Category: kavacha, vishhnu, vishnu
+File name: hayagrIvakavacham.itx
+Language: Sanskrit
+Latest update: March 20, 2016
+Location: doc_vishhnu
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: hayagrIvakavacham
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: hayagrIvakavacham
+itxtitle: hayagrIvakavacham (hayagrIvasaMhitAyAm)
+title: हयग्रीवकवचम् (हयग्रीवसंहितायाम्)
 
-+++
+---
   
  हयग्रीवकवचम्   
   
@@ -49,8 +49,8 @@ title = "हयग्रीवकवचम् (हयग्रीवसंहि
 ह्रौं तु बीजं समाख्यातं ह्रीं शक्तिः समुदाहृता ।  
 ॐ कीलकं समाख्यातमुच्चैरुत् कीलकं तथा ॥ ८॥  
   
-लक्ष्मीकराम्भोरुहहेमकुंभपीयूषपूरैरभिषिक्तशीर्षम् ।  
-व्याख्यानमालांबुजपुस्तकानि हस्तैर्वहन्तं हयतुण्डमीडे ॥ ९॥  
+लक्ष्मीकराम्भोरुहहेमकुम्भपीयूषपूरैरभिषिक्तशीर्षम् ।  
+व्याख्यानमालाम्बुजपुस्तकानि हस्तैर्वहन्तं हयतुण्डमीडे ॥ ९॥  
   
 सुधासिक्तः शिरः पातु भालं पातु शशिप्रभः ।  
 दृशौ रक्षतु दैत्यारिर्नासां वोद्धृतवारिधिः ॥ १०॥  
@@ -73,7 +73,7 @@ title = "हयग्रीवकवचम् (हयग्रीवसंहि
 ऊर्ध्वं पातु हरिः साक्षादधः पातु गुणाकरः ।  
 अन्तरिक्षे हरिः पातु विश्वतः पातु विश्वधृक् ॥ १६॥  
   
-पुराणं कवचं धीमान् संनह्येन्निजविग्रहे ।  
+पुराणं कवचं धीमान् सन्नह्येन्निजविग्रहे ।  
 दुर्गतिवाक् शरव्यूहैः स कदाचिन्न बाध्यते ॥ १७॥  
   
 जपेद्य एतत्कवचं त्रिसन्ध्यं भक्तिभावतः ।  

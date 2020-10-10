@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Sheshachandrikacharya Stotram"
-"File name" = "sheShachandrikAchAryastotram.itx"
-itxtitle = "sheShachandrikAchAryastotram (vidyAratnAkaratIrthavirachitam)"
-engtitle = "sheShachandrikAchAryastotram"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "vidyAratnAkaratIrtha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-"Description/comments" = "PanchayatistutiH"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "C Narayanarao"
-"Latest update" = "June 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "शेषचन्द्रिकाचार्यस्तोत्रम् (विद्यारत्नाकरतीर्थविरचितम्)"
+---
+Acknowledge-Permission: C Narayanarao
+Author: vidyAratnAkaratIrtha
+Category: deities_misc, gurudev
+Description/comments: PanchayatistutiH
+File name: sheShachandrikAchAryastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Sheshachandrikacharya Stotram
+Transliterated by: Krishnananda Achar
+engtitle: sheShachandrikAchAryastotram
+itxtitle: sheShachandrikAchAryastotram (vidyAratnAkaratIrthavirachitam)
+title: शेषचन्द्रिकाचार्यस्तोत्रम् (विद्यारत्नाकरतीर्थविरचितम्)
 
-+++
+---
   
  श्रीशेषचन्द्रिकाचार्यस्तोत्रम्   
 श्रीपूर्णबोधसमयाम्बुधिचन्दिराय  

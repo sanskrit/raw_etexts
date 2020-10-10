@@ -1,24 +1,24 @@
-+++
-"Text title" = "chatushshlokIbhAgavatam"
-"File name" = "chatushshlokIbhAgavatam.itx"
-itxtitle = "chatuHshlokIbhAgavatam"
-engtitle = "chatuHshlokIbhAgavatam"
-Category = "vishhnu, krishna, stotra, vyAsa, vishnu, chatuHshlokI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Maharshi Vyas in Bhagavat Purana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, NA"
-Description-comments = "From Bhagavatapurana, 2.09-30-36"
-"Latest update" = "July 31, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चतुःश्लोकीभागवतम्"
+---
+Author: Maharshi Vyas in Bhagavat Purana
+Category: vishhnu, krishna, stotra, vyAsa, vishnu, chatuHshlokI
+Description-comments: From Bhagavatapurana, 2.09-30-36
+File name: chatushshlokIbhAgavatam.itx
+Language: Sanskrit
+Latest update: July 31, 2012
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: chatushshlokIbhAgavatam
+Texttype: stotra
+engtitle: chatuHshlokIbhAgavatam
+itxtitle: chatuHshlokIbhAgavatam
+title: चतुःश्लोकीभागवतम्
 
-+++
+---
   
  चतुःश्लोकीभागवतम्   
   

@@ -1,30 +1,30 @@
-+++
-"Text title" = "vande sadA svadesham"
-"File name" = "vandesadAsvadesham.itx"
-itxtitle = "vande sadA svadesham"
-engtitle = "vande sadA svadesham"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "AchAryaH Abhiraja Rajendra Mishra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manish Gavkar manishyg at gmail.com, NA"
-"Proofread by" = "Manish Gavkar manishyg at gmail.com, NA"
-Indexextra = "(Video)"
-"Latest update" = "February 9, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वन्दे सदा स्वदेशम्"
+---
+Author: AchAryaH Abhiraja Rajendra Mishra
+Category: misc, sanskritgeet
+File name: vandesadAsvadesham.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: February 9, 2020
+Location: doc_z_misc_general
+Proofread by: Manish Gavkar manishyg at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: vande sadA svadesham
+Transliterated by: Manish Gavkar manishyg at gmail.com, NA
+engtitle: vande sadA svadesham
+itxtitle: vande sadA svadesham
+title: वन्दे सदा स्वदेशम्
 
-+++
+---
   
  वन्दे सदा स्वदेशम्   
         उत्तरं यत्समुद्रस्य हिमाद्रेश्चैव दक्षिणम् ।  
-        वर्षं तद् भारतं नाम भारती यत्र संततिः ॥  
+        वर्षं तद् भारतं नाम भारती यत्र सन्ततिः ॥  
   
 समुद्र के उत्तर में और हिमालय के दक्षिण में जो पवित्र भूभाग  
-स्थित है, उसका नाम भारतवर्ष है, जहाँ भरत के संतति निवास  
+स्थित है, उसका नाम भारतवर्ष है, जहाँ भरत के सन्तति निवास  
 करते हैं ।   
 The country that lies north of the ocean and south of the  
 snowy mountains is called Bharatam, there dwell the descendants  
@@ -33,7 +33,7 @@ of Bharata.
         वन्दे सदा स्वदेशं एतादृशं स्वदेशम् ।  
         गङ्गा पुनाति भालं रेवा कटिप्रदेशम् ॥ ध्रु॥  
   
-गंगा जिस भारत देश के ललाट भाग को अतीव उत्तुङ्ग गंगोत्री के  
+गङ्गा जिस भारत देश के ललाट भाग को अतीव उत्तुङ्ग गङ्गोत्री के  
 पावन उद्गम स्थल से निकलकर इस देश को पवित्र करती है, तथा  
 रेवा (नर्मदा) नदी इस देश के कटि प्रान्त (मध्यभाग) को पवित्र करति  
 है, ऐसे इस अपने स्वदेश (भारतभूमि) की मैं वन्दना करता हूँ ।  
@@ -42,7 +42,7 @@ sanctified by river Ganga and waist part by river Narmada.
   
         काशी प्रयाग मथुरा वृन्दाटवीविशालाः ।  
         द्वारावतीसुकाञ्चीविदिशादितीर्थमालाः ।  
-        संभूषयन्ति कामं यस्य प्रशान्तवेषम् ॥ १॥  
+        सम्भूषयन्ति कामं यस्य प्रशान्तवेषम् ॥ १॥  
   
 जिस स्वदेश में इतिहास और परम्परा से जुडे हुए, पूर्ण रूपसे  
 शान्तिप्रदर्शक, मोक्षदायक, अलङ्कारित और शृङ्गारिक वस्त्र जैसे  
@@ -62,7 +62,7 @@ Vrindavan, Dwaravati, Sukanchi, Vidisha.
 करते हैं, किन्तु जहाँ सभी का धर्म एकनिष्ठ दयाभाव से परिपूर्ण  
 है, तथा जिस स्वदेश का सम्पूर्ण भूभाग एक ऐसे प्राङ्गण (आँगन)  
 के समान है जिस में अनेक धर्मों की विविधतायें विद्यमान है ।  
-(अर्थात जहाँ की संस्कृति गंगा जमुनी है) जिस देश की संस्कृति  
+(अर्थात जहाँ की संस्कृति गङ्गा जमुनी है) जिस देश की संस्कृति  
 अनेकता में एकता की उक्ति को चरितार्थ करती है । मैं उस स्वदेश  
 की सदैव वन्दना करता हूँ ।  
 I salute that country of mine, whose water tastes like  
@@ -109,7 +109,7 @@ and some to Lord Shiva.
   
 जिस अपने देश की नीति प्राचीनकाल से एवं आज भी विश्वशान्ति का  
 नारा लगाती है तथा विश्वबन्धुत्व की सद्भावना का उद्घोष करती  
-हुई विश्व को आश्चर्यचकित कर देती है । उस तिरंगे ध्वज को  
+हुई विश्व को आश्चर्यचकित कर देती है । उस तिरङ्गे ध्वज को  
 मैं वन्दना करता हूँ जिसके तीनों वर्ण क्रमशः केसरिया विश्वप्रेम  
 श्वेतवर्ण विश्वशान्ति तथा हरितवर्ण गतिशील नीतियों का प्रवर्तक  
 है, ऐसे देश की मैं वन्दना करता हूँ ।  

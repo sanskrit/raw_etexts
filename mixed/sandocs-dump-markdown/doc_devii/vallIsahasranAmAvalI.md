@@ -1,24 +1,25 @@
-+++
-"Text title" = "vallIsahasranAmAvalI"
-"File name" = "vallIsahasranAmAvalI.itx"
-itxtitle = "vallIsahasranAmAvalI"
-engtitle = "Shri Valli Sahasranamavali"
-Category = "sahasranAmAvalI, subrahmanya, nAmAvalI, vyAsa"
-Location = "doc_devii"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Author = "Vyasa (Skanda Purana, Shankara Samhita)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Shri Bhagavati Stutimanjari, S.V.Radhakrishna Sastri, publ. Mahaperiyaval Trust 2007"
-"Latest update" = "October 19, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्लीसहस्रनामावली"
+---
+Author: Vyasa (Skanda Purana, Shankara Samhita)
+Category: sahasranAmAvalI, subrahmanya, nAmAvalI, vyAsa
+Description-comments: Shri Bhagavati Stutimanjari, S.V.Radhakrishna Sastri, publ.
+  Mahaperiyaval Trust 2007
+File name: vallIsahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: October 19, 2014
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: vallIsahasranAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Shri Valli Sahasranamavali
+itxtitle: vallIsahasranAmAvalI
+title: वल्लीसहस्रनामावली
 
-+++
+---
   
  श्रीवल्लीसहस्रनामावली   
   

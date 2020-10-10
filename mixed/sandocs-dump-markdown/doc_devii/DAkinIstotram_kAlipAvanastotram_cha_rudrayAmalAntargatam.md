@@ -1,24 +1,24 @@
-+++
-"Text title" = "Dakini Stotram"
-"File name" = "DAkinIstotrarudrayAmalatantra.itx"
-itxtitle = "DAkinIstotram kAlipAvanastotram cha (rudrayAmalAntargatam)"
-engtitle = "Dakini Stotram"
-Category = "devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://muktalib5.org"
-"Proofread by" = "http://muktalib5.org, Daksha"
-Description-comments = "shrIrudrayAmale uttaratantre siddhamantraprakaraNe"
-"Latest update" = "March 29, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "डाकिनीस्तोत्रम् कालिपावनस्तोत्रम् च (रुद्रयामलान्तर्गतम्)"
+---
+Category: devii, dashamahAvidyA, stotra, devI
+Description-comments: shrIrudrayAmale uttaratantre siddhamantraprakaraNe
+File name: DAkinIstotrarudrayAmalatantra.itx
+Language: Sanskrit
+Latest update: March 29, 2013
+Location: doc_devii
+Proofread by: http://muktalib5.org, Daksha
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Dakini Stotram
+Texttype: stotra
+Transliterated by: http://muktalib5.org
+engtitle: Dakini Stotram
+itxtitle: DAkinIstotram kAlipAvanastotram cha (rudrayAmalAntargatam)
+title: डाकिनीस्तोत्रम् कालिपावनस्तोत्रम् च (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  डाकिनीस्तोत्रम्   
 आनन्दभैरवी उवाच  
@@ -119,7 +119,7 @@ title = "डाकिनीस्तोत्रम् कालिपावन�
 या देवी नवडाकिनी स्वरमणी विज्ञानिनी मोहिनी ।  
     मां पातु पिरयकामिनी भवविधेरानन्दसिन्धूद्भवा ।  
 मे मूलं गुणभासिनी प्रचयतु श्रीः कीतीचक्रं हि मा।  
-    नित्या सिद्धिगुणोदया सुरदया श्रीसंज्ञया मोहिता ॥ ३०॥  
+    नित्या सिद्धिगुणोदया सुरदया श्रीसञ्ज्ञया मोहिता ॥ ३०॥  
   
 तन्मध्ये परमाकला कुलफला बाणप्रकाण्डाकरा  
     राका राशषसादशा शशिघटा लोलामला कोमला ।  

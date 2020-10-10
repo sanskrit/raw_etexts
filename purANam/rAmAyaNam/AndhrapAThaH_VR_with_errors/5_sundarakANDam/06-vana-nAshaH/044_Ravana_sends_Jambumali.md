@@ -3,10 +3,9 @@ title: 044 Ravana sends Jambumali
 title_english: 044 Ravana sends Jambumali
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-044-Ravana_sends_Jambumali.mp3"></div>
 
-संदिष्टो राक्षस इन्द्रेण प्रहस्तस्य सुतो बली ।  
+सन्दिष्टो राक्षस इन्द्रेण प्रहस्तस्य सुतो बली ।  
 जम्बु माली महादम्ष्ट्रो निर्जगाम धनुः धरः ॥ ५-४४-१  
 रक्त माल्य अम्बर धरः स्रग्वी रुचिर कुण्डलः ।  
 महान् विवृत्त नयनः चण्डः समर दुर्जयः ॥ ५-४४-२  

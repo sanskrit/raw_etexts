@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shrimat Nateshashtottarashatanamavali"
-"File name" = "naTeshAShTottarashatanAmAvalI.itx"
-itxtitle = "naTeshAShTottarashatanAmAvalI"
-engtitle = "naTeshAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Source = "Shivanamamanjari 2 page 412"
-"Latest update" = "October 21, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नटेशाष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, shiva
+File name: naTeshAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: October 21, 2016
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shivanamamanjari 2 page 412
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shrimat Nateshashtottarashatanamavali
+Transliterated by: NA
+engtitle: naTeshAShTottarashatanAmAvalI
+itxtitle: naTeshAShTottarashatanAmAvalI
+title: नटेशाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीनटेशाष्टोत्तरशतनामावलिः   
   

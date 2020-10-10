@@ -1,23 +1,23 @@
-+++
-"Text title" = "Mahodara Stuti by Ture"
-"File name" = "mahodarastutiHtureNaproktA.itx"
-itxtitle = "mahodarastutiH tureNa proktA (mudgalapurANAntargatA)"
-engtitle = "mahodarastutiH tureNa proktA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan"
-"Proofread by" = "Ajit Krishnan, PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 10"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskritcheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "महोदरस्तुतिः तुरेण प्रोक्ता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 10
+File name: mahodarastutiHtureNaproktA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: Ajit Krishnan, PSA Easwaran
+Send corrections to: Sanskritcheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Mahodara Stuti by Ture
+Transliterated by: Ajit Krishnan
+engtitle: mahodarastutiH tureNa proktA
+itxtitle: mahodarastutiH tureNa proktA (mudgalapurANAntargatA)
+title: महोदरस्तुतिः तुरेण प्रोक्ता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  महोदरस्तुतिः तुरेण प्रोक्ता   
 समागत्य स दैत्येन्द्रो ननाम स महोदरम् ।  

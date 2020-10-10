@@ -1,42 +1,42 @@
-+++
-"Text title" = "mAtangIstotram 2"
-"File name" = "mAtangIstotram2.itx"
-itxtitle = "mAtaNgIstotram 2"
-engtitle = "mAtangIstotram 2"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "From Durlabh Stotrani. muNDamAlA tantra"
-Indexextra = "(Scan)"
-"Latest update" = "June 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातण्गीस्तोत्रम् २"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: From Durlabh Stotrani. muNDamAlA tantra
+File name: mAtangIstotram2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 17, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mAtangIstotram 2
+engtitle: mAtangIstotram 2
+itxtitle: mAtaNgIstotram 2
+title: मातण्गीस्तोत्रम् २
 
-+++
+---
   
  मातङ्गी स्तोत्रम्   
 नमामि वरदां देवीं सुमुखीं सर्वसिद्धिदाम् ।  
 सूर्यकोटिनिभां देवीं वह्निरूपां व्यवस्थिताम् ॥ १॥  
   
 रक्तवस्त्र नितम्बां च रक्तमाल्योपशोभिताम् ।  
-गुंजाहारस्तनाढ्यान्तां परंज्योतिस्वरूपिणीम् ॥ २॥  
+गुञ्जाहारस्तनाढ्यान्तां परञ्ज्योतिस्वरूपिणीम् ॥ २॥  
   
 मारणं मोहनं वश्यं स्तम्भनाकर्ष दायिनी ।  
-मुण्ड कर्त्रिं शरावामां परंज्योतिस्वरूपिणीम् ॥ ३॥  
+मुण्ड कर्त्रिं शरावामां परञ्ज्योतिस्वरूपिणीम् ॥ ३॥  
   
 स्वयम्भुकुसुम प्रीतां ऋतुयोनिनिवासिनीम् ।  
-शवस्थां स्मेरवदनां परंज्योतिस्वरूपिणीम् ॥ ४॥।  
+शवस्थां स्मेरवदनां परञ्ज्योतिस्वरूपिणीम् ॥ ४॥।  
   
 रजस्वला भवेन्नित्यं पूजेष्टफलदायिनी ।  
-मद्यप्रियं रतिमयीं परंज्योतिस्वरूपिणीम् ॥ ५॥  
+मद्यप्रियं रतिमयीं परञ्ज्योतिस्वरूपिणीम् ॥ ५॥  
   
 शिवविष्णुविरञ्चीनां साद्यां बुद्धिप्रदायिनीम् ।  
-असाध्यं साधिनीं नित्यां परंज्योतिस्वरूपिणीम् ॥ ६॥  
+असाध्यं साधिनीं नित्यां परञ्ज्योतिस्वरूपिणीम् ॥ ६॥  
   
 रात्रौ पूजा बलियुतां गोमांस रुधिरप्रियाम् ।  
 नानाऽलङ्कारिणीं रौद्रीं पिशाचगणसेविताम् ॥ ७॥  

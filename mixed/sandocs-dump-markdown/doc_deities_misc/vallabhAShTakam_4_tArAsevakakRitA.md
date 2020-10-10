@@ -1,24 +1,24 @@
-+++
-"Text title" = "vallabhAShTakam 4"
-"File name" = "vallabhAShTakam4.itx"
-itxtitle = "vallabhAShTakam 4 (tArAsevakakRitA)"
-engtitle = "vallabhAShTakam 4"
-Category = "deities_misc, gurudev, puShTimArgIya, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "tArAsevaka"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्लभाष्टकम् ४ (तारासेवककृइता)"
+---
+Author: tArAsevaka
+Category: deities_misc, gurudev, puShTimArgIya, aShTaka
+Description/comments: puShTimArgIya stotraratnAkara
+File name: vallabhAShTakam4.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vallabhAShTakam 4
+engtitle: vallabhAShTakam 4
+itxtitle: vallabhAShTakam 4 (tArAsevakakRitA)
+title: वल्लभाष्टकम् ४ (तारासेवककृइता)
 
-+++
+---
   
  श्रीवल्लभाष्टकम् ४   
   

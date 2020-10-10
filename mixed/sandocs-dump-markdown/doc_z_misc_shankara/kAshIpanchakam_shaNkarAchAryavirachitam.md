@@ -1,24 +1,25 @@
-+++
-"Text title" = "kAshIpa.nchakam"
-"File name" = "kashipanchakam.itx"
-itxtitle = "kAshIpanchakam (shaNkarAchAryavirachitam)"
-engtitle = "kAshIpanchakam"
-Category = "panchaka, shankarAchArya, vedanta"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Sunder Hattangadi"
-"Proofread by" = "sunderh at hotmail.com"
-"Translated by" = "Commentary by Surin Usgaonkar usgaonkar at hotmail.com, N.Balasubramanian. bbalu at satyam.net.in"
-Indexextra = "(Hindi 1, 2)"
-"Latest update" = "October 8, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "काशीपञ्चकम् (शण्कराचार्यविरचितम्)"
+---
+Author: Adi Shankaracharya
+Category: panchaka, shankarAchArya, vedanta
+File name: kashipanchakam.itx
+Indexextra: (Hindi 1, 2)
+Language: Sanskrit
+Latest update: October 8, 2005
+Location: doc_z_misc_shankara
+Proofread by: sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: shankara
+Text title: kAshIpa.nchakam
+Translated by: Commentary by Surin Usgaonkar usgaonkar at hotmail.com, N.Balasubramanian.
+  bbalu at satyam.net.in
+Transliterated by: Sunder Hattangadi
+engtitle: kAshIpanchakam
+itxtitle: kAshIpanchakam (shaNkarAchAryavirachitam)
+title: काशीपञ्चकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  काशीपञ्चकम्   
 उपजानि छन्द -  
@@ -200,7 +201,7 @@ dynasty.)
   
 As far as KAshiकाशी  is concerned, it was a place  
 where most of the knowledge during the time of writing of  
-most brahman-granthas (ब्राह्मण्ग्रंथ) was born. During  
+most brahman-granthas (ब्राह्मण्ग्रन्थ) was born. During  
 Mahabharata period kAshi was a kingdom and Varanasi was the  
 capital city of Kashi. In the first or second century AD most  
 literature refers to .kAshi. as a .nagari.  (city).  
@@ -225,7 +226,7 @@ the importance that it gives to the .doer. कर्ता than
 to the .method. arguing that an accurate aetiology does not  
 exist in nature. Vedic .vidhi.विधी  (to be translated  
 as .command.) has three parts 1. doerकर्ता  2.  mantra  
-(methodology)मंत्र  and 3. deityदेवता .  Out of  
+(methodology)मन्त्र  and 3. deityदेवता .  Out of  
 these deity is always used to denote a set of qualities  
 or set of adjectives and, contrary to the common belief,  
 is the least important. (eg. the word vasudevवसुदेव  
@@ -288,7 +289,7 @@ of Mahabharata chapter 82 carefully . That would give you
 Vyasas interpretation of .sacrifice. by the kings etc. Please  
 understand that the name of a deity is used at many places  
 mean only a set of adjectives. In sanskrit literaterature it  
-is called prasha.nsa.nka svarUpa प्रशंसंक स्वरूप.  
+is called prasha.nsa.nka svarUpa प्रशंसङ्क स्वरूप.  
   
 (Researched and written by Surin Usgonkar. Mumbai , India )  
   

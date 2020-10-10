@@ -1,24 +1,24 @@
-+++
-"Text title" = "durgAsahasranAmastotram 3"
-"File name" = "durgAsahasranAmastotram.itx"
-itxtitle = "durgAsahasranAmastotram 3"
-engtitle = "durgAsahasranAmastotram 3"
-Category = "sahasranAma, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Some call it Mahashulini divyasahasranAmastotram"
-Indexextra = "(stotramanjari 1)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गासहस्रनामस्तोत्रम् ३"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAma, devii, devI
+Description/comments: Some call it Mahashulini divyasahasranAmastotram
+File name: durgAsahasranAmastotram.itx
+Indexextra: (stotramanjari 1)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAsahasranAmastotram 3
+Transliterated by: Shree Devi Kumar
+engtitle: durgAsahasranAmastotram 3
+itxtitle: durgAsahasranAmastotram 3
+title: दुर्गासहस्रनामस्तोत्रम् ३
 
-+++
+---
   
  श्रीदुर्गासहस्रनामस्तोत्रम्   
   

@@ -1,20 +1,20 @@
-+++
-"Text title" = "Sadhayati Samskara Bharati Bharate Navajivanam"
-"File name" = "sAdhayatisaMskArabhAratibhAratenavajIvanam.itx"
-itxtitle = "sAdhayati saMskAra bhArati bhArate navajIvanam"
-engtitle = "Sadhayati Samskara Bharati Bharate Navajivanam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Text, Videos 1, 2, 3)"
-"Latest update" = "February 5, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "साधयति संस्कार भारति भारते नवजीवनम्"
+---
+Category: misc, sanskritgeet
+File name: sAdhayatisaMskArabhAratibhAratenavajIvanam.itx
+Indexextra: (Text, Videos 1, 2, 3)
+Language: Sanskrit
+Latest update: February 5, 2020
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Sadhayati Samskara Bharati Bharate Navajivanam
+engtitle: Sadhayati Samskara Bharati Bharate Navajivanam
+itxtitle: sAdhayati saMskAra bhArati bhArate navajIvanam
+title: साधयति संस्कार भारति भारते नवजीवनम्
 
-+++
+---
   
  साधयति संस्कार भारति भारते नवजीवनं   
 साधयति संस्कारभारति भारते नवजीवनं  

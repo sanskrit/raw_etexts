@@ -3,7 +3,6 @@ title: 029 Seetha experiences some good omens
 title_english: 029 Seetha experiences some good omens
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-029-Seetha_experiences_some_good_omens.mp3"></div>
 
 तथा गताम् ताम् व्यथिताम् अनिन्दिताम् ।  
@@ -25,7 +24,7 @@ title_english: 029 Seetha experiences some good omens
 शुभम् पुनः हेम समान वर्णम् ।  
 ईषत् रजो ध्वस्तम् इव अमल अक्ष्याः ।  
 वासः स्थितायाः शिखर अग्र दन्त्याः ।  
-किंचित् परिस्रंसत चारु गात्र्याः ॥ ५-२९-५  
+किञ्चित् परिस्रंसत चारु गात्र्याः ॥ ५-२९-५  
 एतैः निमित्तैः अपरैः च सुभ्रूः ।  
 सम्बोधिता प्राग् अपि साधु सिद्धैः ।  
 वात आतप क्लान्तम् इव प्रनष्टम् ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "arbudAbhagavatIstotram"
-"File name" = "arbudAbhagavatIstotram.itx"
-itxtitle = "arbudAbhagavatIstotram (Ishwaranandagirivirachitam)"
-engtitle = "arbudAbhagavatIstotram"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "The Samvat Master, Iswarananda Giriji, Mount Abu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Shri Chitrapura Stuti Manjari,3rd ed. 2008"
-Acknowledge-Permission = "Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/"
-"Latest update" = "March 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अर्बुदाभगवतीस्तोत्रम् (ईश्वरनन्दगिरिविरचितम्)"
+---
+Acknowledge-Permission: Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/
+Author: The Samvat Master, Iswarananda Giriji, Mount Abu
+Category: devii, devI
+File name: arbudAbhagavatIstotram.itx
+Language: Sanskrit
+Latest update: March 2, 2018
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri Chitrapura Stuti Manjari,3rd ed. 2008
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: arbudAbhagavatIstotram
+engtitle: arbudAbhagavatIstotram
+itxtitle: arbudAbhagavatIstotram (Ishwaranandagirivirachitam)
+title: अर्बुदाभगवतीस्तोत्रम् (ईश्वरनन्दगिरिविरचितम्)
 
-+++
+---
   
  अर्बुदाभगवतीस्तोत्रम्   
 श्यामां दिनाद्ययजनेरुण-पद्मरागां  

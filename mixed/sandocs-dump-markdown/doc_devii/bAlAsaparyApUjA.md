@@ -1,23 +1,23 @@
-+++
-"Text title" = "bAlAsaparyApUjA"
-"File name" = "bAlAsaparyApUjA.itx"
-itxtitle = "bAlAsaparyApUjA"
-engtitle = "bAlAsaparyApUjA"
-Category = "devii, dashamahAvidyA, devI, pUjA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालासपर्यापूजा"
+---
+Category: devii, dashamahAvidyA, devI, pUjA
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAsaparyApUjA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAsaparyApUjA
+engtitle: bAlAsaparyApUjA
+itxtitle: bAlAsaparyApUjA
+title: बालासपर्यापूजा
 
-+++
+---
   
  बालासपर्यापूजा   
  ॥ श्रीः ॥  
@@ -56,7 +56,7 @@ title = "बालासपर्यापूजा"
 ज्ञानशक्तिं समारुह्य तत्त्वमालाविभूषिणे ।  
 भुक्तिमुक्तिप्रदात्रे च तस्मै श्रीगुरवे नमः ॥ १०॥  
   
-अनेकजन्मसंप्राप्तकर्मधर्मविदाहिने ।  
+अनेकजन्मसम्प्राप्तकर्मधर्मविदाहिने ।  
 ज्ञानानल्पप्रभावेन तस्मै श्रीगुरवे नमः ॥ ११॥  
   
 मन्नाथः श्रीजगन्नाथो मद्गुरुः श्रीजगद्गुरुः ।  
@@ -279,7 +279,7 @@ title = "बालासपर्यापूजा"
 आब्रह्मलोकादाशेषादालोकालोकपर्वतात् ।  
 ये वसन्ति द्विजा देवास्तेभ्यो नित्यं नमो नमः ॥  
   
-ॐ नमो ब्रह्मादिभ्यो ब्रह्मविद्यासंप्रदायकर्तृभ्यो वंशर्षिभ्यो  
+ॐ नमो ब्रह्मादिभ्यो ब्रह्मविद्यासम्प्रदायकर्तृभ्यो वंशर्षिभ्यो  
        नमो गुरुभ्यः ।  
 ब्रह्माद्यशेषगुरुपारम्पर्यक्रमेण स्वगुरुपादाम्बुजं यावत्प्रणमामि ।  
 गुं गुरुभ्यो नमः (दक्षबाहौ) । गं गणपतये नमः (वामबाहौ) ।  

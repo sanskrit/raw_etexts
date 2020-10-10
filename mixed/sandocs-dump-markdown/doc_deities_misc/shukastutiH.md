@@ -1,22 +1,22 @@
-+++
-"Text title" = "shukastutiH"
-"File name" = "shukastutiH.itx"
-itxtitle = "shukastutiH"
-engtitle = "shukastutiH"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शुकस्तुतिः"
+---
+Category: deities_misc, gurudev
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: shukastutiH.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shukastutiH
+engtitle: shukastutiH
+itxtitle: shukastutiH
+title: शुकस्तुतिः
 
-+++
+---
   
  शुकस्तुतिः   
 यं प्रव्रजन्तमनुपेयमपेतकृत्यं  

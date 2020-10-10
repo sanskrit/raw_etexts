@@ -1,23 +1,23 @@
-+++
-"Text title" = "bAlalIlAShTakam"
-"File name" = "bAlalIlAShTakam.itx"
-itxtitle = "bAlalIlAShTakam"
-engtitle = "bAlalIlAShTakam"
-Category = "vishhnu, krishna, puShTimArgIya, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बाललीलाष्टकम्"
+---
+Category: vishhnu, krishna, puShTimArgIya, aShTaka
+Description/comments: puShTimArgIya stotraratnAkara
+File name: bAlalIlAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: bAlalIlAShTakam
+engtitle: bAlalIlAShTakam
+itxtitle: bAlalIlAShTakam
+title: बाललीलाष्टकम्
 
-+++
+---
   
  श्रीबाललीलाष्टकम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Skanda Dandakam"
-"File name" = "skandadaNDakam.itx"
-itxtitle = "skandadaNDakam"
-engtitle = "skandadaNDakam"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "March 14, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्कन्ददण्डकम्"
+---
+Category: subrahmanya
+File name: skandadaNDakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 14, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Skanda Dandakam
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: skandadaNDakam
+itxtitle: skandadaNDakam
+title: स्कन्ददण्डकम्
 
-+++
+---
   
  स्कन्ददण्डकम्   
 ॐश्रीगणेशाय नमः ।  

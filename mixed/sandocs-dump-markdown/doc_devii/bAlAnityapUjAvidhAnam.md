@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Nitya Puja Vidhanam"
-"File name" = "bAlAnityapUjAvidhAnam.itx"
-itxtitle = "bAlAnityapUjAvidhAnam"
-engtitle = "bAlAnityapUjAvidhAnam"
-Category = "devii, dashamahAvidyA, devI, pUjA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालानित्यपूजाविधानम्"
+---
+Category: devii, dashamahAvidyA, devI, pUjA
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAnityapUjAvidhAnam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Nitya Puja Vidhanam
+engtitle: bAlAnityapUjAvidhAnam
+itxtitle: bAlAnityapUjAvidhAnam
+title: बालानित्यपूजाविधानम्
 
-+++
+---
   
  श्रीबाला नित्यपूजाविधानम्   
 शुक्लाम्बरधरं ..... इत्यादि ..... शान्तये । (प्राणायम्य)  
@@ -38,7 +38,7 @@ title = "बालानित्यपूजाविधानम्"
 गङ्गे च यमुने चैव गोदावरी सरस्वति ।  
 नर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु ॥  
   
-कलशोदकेन देवीं आत्मानं पूजाद्रव्याणि संप्रोक्ष्य -  
+कलशोदकेन देवीं आत्मानं पूजाद्रव्याणि सम्प्रोक्ष्य -  
 अथ ध्यानम्-  
 ऐङ्कारासनगर्भितानलशिखां सौःक्लीं कला बिभ्रतीं  
 सौवर्णाम्बरधारिणीं वरसुधाधौताङ्गरङ्गोज्ज्वलाम् ।  

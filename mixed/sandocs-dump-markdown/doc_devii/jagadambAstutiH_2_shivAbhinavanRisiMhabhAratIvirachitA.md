@@ -1,23 +1,23 @@
-+++
-"Text title" = "jagadambAstutiH 2"
-"File name" = "jagadambAstutiH2.itx"
-itxtitle = "jagadambAstutiH 2 (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "jagadambAstutiH 2"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जगदम्बास्तुतिः २ (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI
+File name: jagadambAstutiH2.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jagadambAstutiH 2
+engtitle: jagadambAstutiH 2
+itxtitle: jagadambAstutiH 2 (shivAbhinavanRisiMhabhAratIvirachitA)
+title: जगदम्बास्तुतिः २ (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीजगदम्बास्तुतिः २   
 भज जगदम्बां भज जगदम्बां  

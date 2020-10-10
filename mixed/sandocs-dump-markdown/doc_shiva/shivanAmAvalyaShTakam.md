@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivanAmAvalyaShTakam"
-"File name" = "shivanamav.itx"
-itxtitle = "shivanAmAvalyaShTakam"
-engtitle = "shivanAmAvalyaShTakam"
-Category = "aShTaka, shiva, nAmAvalI, shankarAchArya"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "nAmAvalI"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-"Transliterated by" = "Dhrup Chand"
-"Proofread by" = "Sridhar - Seshagiri seshagir at engineering.sdsu.edu"
-Indexextra = "(Marathi)"
-"Latest update" = "December 24, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवनामावल्यष्टकम्"
+---
+Author: Shankaracharya
+Category: aShTaka, shiva, nAmAvalI, shankarAchArya
+File name: shivanamav.itx
+Indexextra: (Marathi)
+Language: Sanskrit
+Latest update: December 24, 2019
+Location: doc_shiva
+Proofread by: Sridhar - Seshagiri seshagir at engineering.sdsu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Sublocation: shiva
+Text title: shivanAmAvalyaShTakam
+Texttype: nAmAvalI
+Transliterated by: Dhrup Chand
+engtitle: shivanAmAvalyaShTakam
+itxtitle: shivanAmAvalyaShTakam
+title: शिवनामावल्यष्टकम्
 
-+++
+---
   
  श्रीशिवनामावल्यष्टकम्   
 हे चन्द्रचूड मदनान्तक शूलपाणे  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrii subrahmaNyapancaratnaM"
-"File name" = "subrapancharatnam.itx"
-itxtitle = "subrahmaNyapancharatnam 1 (vimalanijapadAbjam)"
-engtitle = "SubrahmaNya Pancharatnam"
-Category = "pancharatna, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "March 15, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यपञ्चरत्नम् १ (विमलनिजपदाब्जम्)"
+---
+Category: pancharatna, subrahmanya
+File name: subrapancharatnam.itx
+Language: Sanskrit
+Latest update: March 15, 2006
+Location: doc_subrahmanya
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrii subrahmaNyapancaratnaM
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: SubrahmaNya Pancharatnam
+itxtitle: subrahmaNyapancharatnam 1 (vimalanijapadAbjam)
+title: सुब्रह्मण्यपञ्चरत्नम् १ (विमलनिजपदाब्जम्)
 
-+++
+---
   
  श्रीसुब्रह्मण्य पञ्चरत्नं   
   
@@ -26,13 +26,13 @@ title = "सुब्रह्मण्यपञ्चरत्नम् १ (�
   
 शिवशरवणजातं शैवयोगप्रभावं  
     भवहितगुरुनाथं भक्तबृन्दप्रमोदम् ।  
-नवरसमृदुपादं नादह्रींकाररूपं  
+नवरसमृदुपादं नादह्रीङ्काररूपं  
      कवनमधुरसारं कार्तिकेयं भजामि ॥ २॥  
   
 पाकारातिसुतामुखाब्जमधुरं बालेन्दुमौलीश्वरं  
 लोकानुग्रहकारणं शिवसुतं लोकेशतत्वप्रदम् ।  
 राकाचन्द्रसमानचारुवदनमम्भोरुहवल्लीश्वरं  
-ह्रींकारप्रणवस्वरूपलहरीं श्रीकार्तिकेयं भजे ॥ ३॥  
+ह्रीङ्कारप्रणवस्वरूपलहरीं श्रीकार्तिकेयं भजे ॥ ३॥  
   
 महादेवजातं शरवणभवं मन्त्रशरभं  
      महत्तत्वानन्दं परमलहरीमन्दमधुरम् ।  

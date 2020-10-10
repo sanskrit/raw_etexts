@@ -1,26 +1,26 @@
-+++
-"Text title" = "Kaxmi-Nrisinha Karavalamba Karunavalamba Stotra"
-"File name" = "lxmnrikar.itx"
-itxtitle = "lakShmInRisi.nhakaruNArasa athavA karuNAvalambastotram"
-engtitle = "Shankara's LakShmi-Nrisinha Karunarasa Stotra"
-Category = "vishhnu, dashAvatAra, stotra, shankarAchArya, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Author = "Adi Shankara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "Hymn to Lakshmi-Nrisinha"
-Indexextra = "(1, 2, 3, 4 App 1)"
-"Latest update" = "April, 26, 2000, May 12, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनृइसिंहकरुणारस अथवा करुणावलम्बस्तोत्रम्"
+---
+Author: Adi Shankara
+Category: vishhnu, dashAvatAra, stotra, shankarAchArya, vishnu
+Description-comments: Hymn to Lakshmi-Nrisinha
+File name: lxmnrikar.itx
+Indexextra: (1, 2, 3, 4 App 1)
+Language: Sanskrit
+Latest update: April, 26, 2000, May 12, 2018
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Kaxmi-Nrisinha Karavalamba Karunavalamba Stotra
+Texttype: stotra
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Shankara's LakShmi-Nrisinha Karunarasa Stotra
+itxtitle: lakShmInRisi.nhakaruNArasa athavA karuNAvalambastotram
+title: लक्ष्मीनृइसिंहकरुणारस अथवा करुणावलम्बस्तोत्रम्
 
-+++
+---
   
  श्रीलक्ष्मीनृसिंहकरुणारस अथवा करावलम्बस्तोत्रम्   
   

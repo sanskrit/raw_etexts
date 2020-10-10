@@ -1,25 +1,25 @@
-+++
-"Text title" = "raadhaaShodashanaamavarNam"
-"File name" = "raadhaa16naarayaNa.itx"
-itxtitle = "rAdhAShoDashanAmavarNanam (shrInArAyaNakRitam)"
-engtitle = "rAdhAShoDashanAmavarNanam"
-Category = "devii, radha, stotra, ShoDasha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Texttype = "stotra"
-Author = "naarayaNa"
-Language = "Sanskrit"
-Subject = "stotra"
-"Transliterated by" = "Daniel Mohanpersad"
-"Proofread by" = "Daniel Mohanpersad"
-Source = "brahmavaivarta puraaNa ,shriinaaraayaNakRitam"
-"Latest update" = "December 19, 2002"
-"Send corrections to" = "danielmohanpersad98@msn.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाषोडशनामवर्णनम् (श्रीनारायणकृइतम्)"
+---
+Author: naarayaNa
+Category: devii, radha, stotra, ShoDasha, devI
+File name: raadhaa16naarayaNa.itx
+Language: Sanskrit
+Latest update: December 19, 2002
+Location: doc_devii
+Proofread by: Daniel Mohanpersad
+Send corrections to: danielmohanpersad98@msn.com
+Site access: https://sanskritdocuments.org
+Source: brahmavaivarta puraaNa ,shriinaaraayaNakRitam
+SubDeity: radha
+Subject: stotra
+Sublocation: devii
+Text title: raadhaaShodashanaamavarNam
+Texttype: stotra
+Transliterated by: Daniel Mohanpersad
+engtitle: rAdhAShoDashanAmavarNanam
+itxtitle: rAdhAShoDashanAmavarNanam (shrInArAyaNakRitam)
+title: राधाषोडशनामवर्णनम् (श्रीनारायणकृइतम्)
 
-+++
+---
   
  राधाषोडशनामवर्णनम्   
   
@@ -48,7 +48,7 @@ title = "राधाषोडशनामवर्णनम् (श्रीन
 कृष्णास्यातिप्रिया कान्ता कृष्णो वास्याः प्रियः सदा ।  
 सर्वैर्देवगणैरुक्ता तेन कृष्णप्रिया स्मृता ॥ ८॥  
   
-कृष्णरूपं संनिधातुं या शक्ता चावलीलया ।  
+कृष्णरूपं सन्निधातुं या शक्ता चावलीलया ।  
 सर्वांशैः कृष्णसदृशी तेन कृष्णस्वरूपिणी ॥ ९॥  
   
 वामाङ्गार्धेन कृष्णस्य या सम्भूता परा सती ।  
@@ -69,7 +69,7 @@ title = "राधाषोडशनामवर्णनम् (श्रीन
 वृन्दावने विनोदश्च सोऽस्या ह्यस्ति च तत्र वै ।  
 वेदा वदन्ति तां तेन वृन्दावनविनोदिनीम् ॥ १५॥  
   
-नखचन्द्रावली वक्त्रचन्द्रोऽस्ति यत्र संततम् ।  
+नखचन्द्रावली वक्त्रचन्द्रोऽस्ति यत्र सन्ततम् ।  
 तेन चन्द्रवली सा च कृष्णेन परिकीर्तिता ॥ १६॥  
   
 कान्तिरस्ति चन्द्रतुल्या सदा यस्या दिवानिशम् ।  
@@ -91,7 +91,7 @@ title = "राधाषोडशनामवर्णनम् (श्रीन
 इदं स्तोत्रं महापुण्यं तुभ्यं दत्तं मया मुने ।  
 निन्दकायावैष्णवाय न दातव्यं महामुने ॥ २१॥  
   
-यावज्जीवमिदं स्तोत्रं त्रिसंध्यं यः पठेन्नरः ।  
+यावज्जीवमिदं स्तोत्रं त्रिसन्ध्यं यः पठेन्नरः ।  
 राधामाधवयोः पादपद्मे भक्तिर्भवेदिह ॥ २२॥  
   
 अन्ते लभेत्तयोर्दास्यं शश्वत्सहचरो भवेत् ।  

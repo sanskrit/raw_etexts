@@ -3,7 +3,6 @@ title: 043 The duels arose between the monkeys and demons
 title_english: 043 The duels arose between the monkeys and demons
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-043-The_duels_arose_between_the_monkeys_and_demons_0.mp3"></div>
 
 युध्यताम् तु ततस् तेषाम् वानराणाम् महात्मनाम् ।  

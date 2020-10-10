@@ -1,30 +1,30 @@
-+++
-"Text title" = "gaNeshanyAsaH"
-"File name" = "gaNeshanyAsaH.itx"
-itxtitle = "gaNeshanyAsaH"
-engtitle = "gaNeshanyAsaH"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.webdunia.com"
-"Proofread by" = "Karthik Chandan.P : Amith K Nagaraj(amithkn at rediffmail.com)"
-Description-comments = "mudgalapurANa"
-"Latest update" = "March 9, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशन्यासः"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: mudgalapurANa
+File name: gaNeshanyAsaH.itx
+Language: Sanskrit
+Latest update: March 9, 2004
+Location: doc_ganesha
+Proofread by: 'Karthik Chandan.P : Amith K Nagaraj(amithkn at rediffmail.com)'
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshanyAsaH
+Texttype: stotra
+Transliterated by: http://www.webdunia.com
+engtitle: gaNeshanyAsaH
+itxtitle: gaNeshanyAsaH
+title: गणेशन्यासः
 
-+++
+---
   
  श्रीगणेशन्यासः   
   
 श्री गणेशाय नमः ॥  
   
-आचम्य, प्राणायामं संकल्पं च कृत्वा , दक्षिणहस्ते  
+आचम्य, प्राणायामं सङ्कल्पं च कृत्वा , दक्षिणहस्ते  
 वक्रतुण्डाय नमः ।  
 वामहस्ते शूर्पकर्णाय नमः ।  
 ओष्ठे विघ्नेशाय नमः ।  

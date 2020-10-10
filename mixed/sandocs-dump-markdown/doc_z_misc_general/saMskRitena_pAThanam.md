@@ -1,24 +1,24 @@
-+++
-"Text title" = "Sanskritena Pathanam"
-"File name" = "saMskRRitenapAThanam.itx"
-itxtitle = "saMskRitena pAThanam"
-engtitle = "saMskRRitena pAThanam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "ji. mahAbaleshvarabhaTTaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृइतेन पाठनम्"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: ji. mahAbaleshvarabhaTTaH
+Category: misc, sanskritgeet
+File name: saMskRRitenapAThanam.itx
+Indexextra: (Wiki, Videos 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Sanskritena Pathanam
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: saMskRRitena pAThanam
+itxtitle: saMskRitena pAThanam
+title: संस्कृइतेन पाठनम्
 
-+++
+---
   
  संस्कृतेन पाठनम्   
 संस्कृतेन पाठनं संस्कृताय जीवनम् ।  

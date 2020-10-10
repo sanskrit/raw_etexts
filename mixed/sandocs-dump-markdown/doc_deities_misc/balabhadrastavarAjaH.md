@@ -1,22 +1,22 @@
-+++
-"Text title" = "balabhadrastavarAja"
-"File name" = "balabhadrastavarAja.itx"
-itxtitle = "balabhadrastavarAjaH"
-engtitle = "balabhadrastavarAja"
-Category = "stavarAja, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com http://satsangdhara.net/"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com, Vishwas Bhide"
-Description-comments = "from Garga Samhita, Balabhadrakhanda, Adhyaya 11"
-"Latest update" = "April 18, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बलभद्रस्तवराजः"
+---
+Category: stavarAja, deities_misc
+Description-comments: from Garga Samhita, Balabhadrakhanda, Adhyaya 11
+File name: balabhadrastavarAja.itx
+Language: Sanskrit
+Latest update: April 18, 2014
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com, Vishwas Bhide
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: balabhadrastavarAja
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com http://satsangdhara.net/
+engtitle: balabhadrastavarAja
+itxtitle: balabhadrastavarAjaH
+title: बलभद्रस्तवराजः
 
-+++
+---
   
  बलभद्रस्तवराज   
   

@@ -1,26 +1,26 @@
-+++
-"Text title" = "shiva nIrAjanam"
-"File name" = "shivanIrAjana.itx"
-itxtitle = "shiva nIrAnjanam"
-engtitle = "shiva nIrA.njanam"
-Category = "AratI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "From shivananda site, possible he is the author"
-Indexextra = "(video with pAThabheda)"
-"Latest update" = "October 30, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिव नीराञ्जनम्"
+---
+Author: Traditional
+Category: AratI, shiva
+Description-comments: From shivananda site, possible he is the author
+File name: shivanIrAjana.itx
+Indexextra: (video with pAThabheda)
+Language: Sanskrit
+Latest update: October 30, 2008
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shiva nIrAjanam
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: shiva nIrA.njanam
+itxtitle: shiva nIrAnjanam
+title: शिव नीराञ्जनम्
 
-+++
+---
   
- श्रीशिव नीरांजनम्   
+ श्रीशिव नीराञ्जनम्   
   
 हरिः ॐ नमोऽत्वनन्ताय सहस्रमूर्तये सहस्रपादाक्षिशिरोरुवाहवे ।  
 सहस्रनाम्ने पुरुषाय शाश्वते सहस्रकोटियुगधारिणे नमः ॥ १॥  

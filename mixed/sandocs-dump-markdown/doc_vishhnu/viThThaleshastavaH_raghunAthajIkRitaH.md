@@ -1,24 +1,24 @@
-+++
-"Text title" = "viThThaleshastavaH"
-"File name" = "viThThaleshastavaH.itx"
-itxtitle = "viThThaleshastavaH (raghunAthajIkRitaH)"
-engtitle = "viThThaleshastavaH"
-Category = "vishhnu, krishna, puShTimArgIya, raghunAthajI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "raghunAthajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विठ्ठलेशस्तवः (रघुनाथजीकृइतः)"
+---
+Author: raghunAthajI
+Category: vishhnu, krishna, puShTimArgIya, raghunAthajI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: viThThaleshastavaH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viThThaleshastavaH
+engtitle: viThThaleshastavaH
+itxtitle: viThThaleshastavaH (raghunAthajIkRitaH)
+title: विठ्ठलेशस्तवः (रघुनाथजीकृइतः)
 
-+++
+---
   
  विठ्ठलेशस्तवः   
   

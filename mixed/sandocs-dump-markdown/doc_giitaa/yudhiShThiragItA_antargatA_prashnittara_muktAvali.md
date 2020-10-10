@@ -1,21 +1,21 @@
-+++
-"Text title" = "yudhiShThiragItA"
-"File name" = "yudhiShThiragiitaa.itx"
-itxtitle = "yudhiShThiragItA (antargatA prashnittara muktAvali)"
-engtitle = "yudhiShThiragItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunder at hotmail.com"
-Indexextra = "(scanned, Part Hindi)"
-"Latest update" = "December 15, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "युधिष्ठिरगीता (अन्तर्गता प्रश्नित्तर मुक्तावलि)"
+---
+Category: gItA, giitaa
+File name: yudhiShThiragiitaa.itx
+Indexextra: (scanned, Part Hindi)
+Language: Sanskrit
+Latest update: December 15, 2012
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunder at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: yudhiShThiragItA
+engtitle: yudhiShThiragItA
+itxtitle: yudhiShThiragItA (antargatA prashnittara muktAvali)
+title: युधिष्ठिरगीता (अन्तर्गता प्रश्नित्तर मुक्तावलि)
 
-+++
+---
   
  युधिष्ठिरगीता   
   
@@ -391,7 +391,7 @@ title = "युधिष्ठिरगीता (अन्तर्गता �
 यक्ष उवाच ।  
   
 इन्द्रियार्थाननुभवन्बुद्धिमाँल्लोकपूजितः ।   
-संमतः सर्वभूतानामुच्छ्वसन्को न जीवति ॥ ३८॥  
+सम्मतः सर्वभूतानामुच्छ्वसन्को न जीवति ॥ ३८॥  
   
 युधिष्ठिर उवाच ।  
   
@@ -1046,7 +1046,7 @@ title = "युधिष्ठिरगीता (अन्तर्गता �
 यक्ष उवाच ।  
   
 इन्द्रियार्थाननुभवन्बुद्धिमाँल्लोकपूजितः ।   
-संमतः सर्वभूतानामुच्छ्वसन्को न जीवति ॥ ३८॥  
+सम्मतः सर्वभूतानामुच्छ्वसन्को न जीवति ॥ ३८॥  
   
 युधिष्ठिर उवाच ।  
   

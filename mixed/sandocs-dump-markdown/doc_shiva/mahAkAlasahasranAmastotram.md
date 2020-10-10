@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAkAlasahasranAmastotra"
-"File name" = "mahAkAlasahasranAmastotra.itx"
-itxtitle = "mahAkAlasahasranAmastotram"
-engtitle = "mahAkAlasahasranAmastotra"
-Category = "sahasranAma, shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24xi at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, DPD, NA, PSA Easwaran"
-Description-comments = "prakRiShTanandoktAgam"
-"Latest update" = "December 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालसहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, shiva, stotra
+Description-comments: prakRiShTanandoktAgam
+File name: mahAkAlasahasranAmastotra.itx
+Language: Sanskrit
+Latest update: December 14, 2019
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, DPD, NA, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mahAkAlasahasranAmastotra
+Texttype: stotra
+Transliterated by: Sivakumar Thyagarajan shivakumar24xi at gmail.com
+engtitle: mahAkAlasahasranAmastotra
+itxtitle: mahAkAlasahasranAmastotram
+title: महाकालसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीमहाकालसहस्रनामस्तोत्रम्   
 श्रीप्रकृष्टनन्दोक्तागमे  
@@ -127,7 +127,7 @@ title = "महाकालसहस्रनामस्तोत्रम्"
 यवप्रियो यवरूपो यवनान्तो यवी यवः ॥ २४॥  
   
 ऋग्वेदो रोगहन्ता च रन्तिदेवो रणाग्रणीः ।  
-रैवतो रैवताधीशो रैवतेश्वरसंज्ञकः ॥ २५॥  
+रैवतो रैवताधीशो रैवतेश्वरसञ्ज्ञकः ॥ २५॥  
   
 रामेश्वरो रकारश्च रामप्रियो रमाप्रियः ।  
 रणी रणहरो रक्षो रक्षको ऋणहारकः ॥ २६॥  

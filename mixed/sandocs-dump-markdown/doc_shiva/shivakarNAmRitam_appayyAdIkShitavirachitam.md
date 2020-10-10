@@ -1,24 +1,25 @@
-+++
-"Text title" = "shivakarNAmRRitam"
-"File name" = "shivakarNAmRRitam.itx"
-itxtitle = "shivakarNAmRitam (appayyAdIkShitavirachitam)"
-engtitle = "shivakarNAmRRitam"
-Category = "shiva, trishatI, appayya-dIkShita"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Appayya Dixit"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Usha Rani Sanka usharani.sanka at gmail.com"
-"Proofread by" = "Usha Rani Sanka usharani.sanka at gmail.com"
-"Description/comments" = "Text in AsvAdini authored by Dornal Vishwanath Sharma with Telugu Commentary on total 368 verses."
-Indexextra = "(Scan, Telugu audio)"
-"Latest update" = "April 28, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवकर्णामृइतम् (अप्पय्यादीक्षितविरचितम्)"
+---
+Author: Appayya Dixit
+Category: shiva, trishatI, appayya-dIkShita
+Description/comments: Text in AsvAdini authored by Dornal Vishwanath Sharma with Telugu
+  Commentary on total 368 verses.
+File name: shivakarNAmRRitam.itx
+Indexextra: (Scan, Telugu audio)
+Language: Sanskrit
+Latest update: April 28, 2018
+Location: doc_shiva
+Proofread by: Usha Rani Sanka usharani.sanka at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivakarNAmRRitam
+Transliterated by: Usha Rani Sanka usharani.sanka at gmail.com
+engtitle: shivakarNAmRRitam
+itxtitle: shivakarNAmRitam (appayyAdIkShitavirachitam)
+title: शिवकर्णामृइतम् (अप्पय्यादीक्षितविरचितम्)
 
-+++
+---
   
  श्रीशिवकर्णामृतं   
   
@@ -387,7 +388,7 @@ and भक्ति.
 मुक्तिद्वारस्तम्भशुम्भद्विषाणो लीलाचारश्रीचतुर्वर्तिताङ्घ्रिः ।  
 प्राप्तोऽयम्मे दृक्पथम्मन्दगामी बुभ्रच्छम्भुं शुभ्रदेहो महोक्षः ॥ १.८७॥  
   
-मयि स्थितं शम्भुमवेक्ष्य तूर्णमागत्य धन्या भवतेति संज्ञाम् ।  
+मयि स्थितं शम्भुमवेक्ष्य तूर्णमागत्य धन्या भवतेति सञ्ज्ञाम् ।  
 कुर्वन्निवायाति पुरो वृषोऽयं मुहुर्मुहुः कम्पनतो मुखस्य ॥ १.८८॥  
   
 भात्ययं वृषभः शुभ्रां महतीं ककुदं दधत् ।  

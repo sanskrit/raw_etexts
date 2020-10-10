@@ -1,23 +1,23 @@
-+++
-"Text title" = "kAverIstotram"
-"File name" = "kAverIstotram.itx"
-itxtitle = "kAverIstotram"
-engtitle = "kAverIstotram"
-Category = "devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Suresh Pitre suresh.pitre at gmail.com"
-"Proofread by" = "Suresh Pitre, PR Kannan, PSA Easwaran"
-Description-comments = "Kaveri Rahasyam"
-"Latest update" = "December 31, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कावेरीस्तोत्रम्"
+---
+Category: devii, nadI, devI
+Description-comments: Kaveri Rahasyam
+File name: kAverIstotram.itx
+Language: Sanskrit
+Latest update: December 31, 2016
+Location: doc_devii
+Proofread by: Suresh Pitre, PR Kannan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAverIstotram
+Transliterated by: Suresh Pitre suresh.pitre at gmail.com
+engtitle: kAverIstotram
+itxtitle: kAverIstotram
+title: कावेरीस्तोत्रम्
 
-+++
+---
   
  कावेरी स्तोत्रम्   
   

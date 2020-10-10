@@ -1,22 +1,22 @@
-+++
-"Text title" = "yamunAShTakam 8"
-"File name" = "yamunAShTakam8.itx"
-itxtitle = "yamunAShTakam 8 (vrajAdhirAja hitaharivaMshachandragosvAmivirachitam)"
-engtitle = "yamunAShTakam 8"
-Category = "devii, nadI, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "hitaharivaMshachandragosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "January 15, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनाष्टकम् ८ (व्रजाधिराज हितहरिवंशचन्द्रगोस्वामिविरचितम्)"
+---
+Author: hitaharivaMshachandragosvAmi
+Category: devii, nadI, aShTaka, devI
+File name: yamunAShTakam8.itx
+Language: Sanskrit
+Latest update: January 15, 2019
+Location: doc_devii
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunAShTakam 8
+engtitle: yamunAShTakam 8
+itxtitle: yamunAShTakam 8 (vrajAdhirAja hitaharivaMshachandragosvAmivirachitam)
+title: यमुनाष्टकम् ८ (व्रजाधिराज हितहरिवंशचन्द्रगोस्वामिविरचितम्)
 
-+++
+---
   
  श्रीयमुनाष्टकम् ८   
 व्रजाधिराज-नन्दनाम्बुदाभ-गात्र-वन्दना-  

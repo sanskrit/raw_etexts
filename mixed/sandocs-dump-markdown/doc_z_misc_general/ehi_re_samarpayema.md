@@ -1,24 +1,24 @@
-+++
-"Text title" = "ehiresamarpayema"
-"File name" = "ehiresamarpayema.itx"
-itxtitle = "ehi re samarpayema"
-engtitle = "ehiresamarpayema"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "janArdana hegaDe"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Video 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एहि रे समर्पयेम"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: janArdana hegaDe
+Category: misc, sanskritgeet
+File name: ehiresamarpayema.itx
+Indexextra: (Wiki, Video 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: ehiresamarpayema
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: ehiresamarpayema
+itxtitle: ehi re samarpayema
+title: एहि रे समर्पयेम
 
-+++
+---
   
  एहि रे समर्पयेम   
 एहि रे समर्पयेम मित्र ! मातृचरणयोः  

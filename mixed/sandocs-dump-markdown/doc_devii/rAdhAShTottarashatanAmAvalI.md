@@ -1,25 +1,25 @@
-+++
-"Text title" = "rAdhAShTottarashatanAmAvalI"
-"File name" = "rAdhAShTottarashatanAmAvalI.itx"
-itxtitle = "rAdhAShTottarashatanAmAvalI"
-engtitle = "rAdhAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "Datta Gopala Krishna, Pammal, Chennai 9442252443"
-Source = "kalyANamanjarI dvitIya bhAgaH rAdhAkalyaNam"
-Acknowledge-Permission = "Svarna Prakashanam"
-"Latest update" = "May 14, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाष्टोत्तरशतनामावली"
+---
+Acknowledge-Permission: Svarna Prakashanam
+Category: aShTottarashatanAmAvalI, devii, radha, devI
+Description/comments: Datta Gopala Krishna, Pammal, Chennai 9442252443
+File name: rAdhAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: May 14, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: kalyANamanjarI dvitIya bhAgaH rAdhAkalyaNam
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAShTottarashatanAmAvalI
+Transliterated by: NA
+engtitle: rAdhAShTottarashatanAmAvalI
+itxtitle: rAdhAShTottarashatanAmAvalI
+title: राधाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीराधाष्टोत्तरशतनामावलिः   
 श्रीराधायै नमः ।  

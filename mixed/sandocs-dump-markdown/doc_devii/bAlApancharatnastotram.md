@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Pancharatna Stotram"
-"File name" = "bAlApancharatnastotram.itx"
-itxtitle = "bAlApancharatnastotram"
-engtitle = "bAlApancharatnastotram"
-Category = "devii, dashamahAvidyA, devI, pancharatna"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालापञ्चरत्नस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, devI, pancharatna
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlApancharatnastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Pancharatna Stotram
+engtitle: bAlApancharatnastotram
+itxtitle: bAlApancharatnastotram
+title: बालापञ्चरत्नस्तोत्रम्
 
-+++
+---
   
  श्रीबालापञ्चरत्नस्तोत्रम्   
 आई आनन्दवल्ली अमृतकरतली आदिशक्तिः पराई  
@@ -35,7 +35,7 @@ title = "बालापञ्चरत्नस्तोत्रम्"
 वेदा वेदाङ्गनादा विनतघनमुखी वीरतन्त्रीप्रचारी  
      सारी संसारवासी सकलदुरितहा सर्वतो ह्रीं नमस्ते ॥ ३॥  
   
-ऐं क्लीं ह्रीं मन्त्ररूपा शकलशशिधरा संप्रदायप्रधाना  
+ऐं क्लीं ह्रीं मन्त्ररूपा शकलशशिधरा सम्प्रदायप्रधाना  
      क्लीं ह्रीं श्रीं बीजमुख्यैः हिमकरदिनकृज्ज्योतिरूपा सरूपा ।  
 सौः क्लीं ऐं शक्तिरूपा प्रणवहरिसते बिन्दुनादात्मकोटिः  
      क्षां क्षीं क्षूङ्कारनादे सकलगुणमयी सुन्दरी ऐं नमस्ते ॥ ४॥  

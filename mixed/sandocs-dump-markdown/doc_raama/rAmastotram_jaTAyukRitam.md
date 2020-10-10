@@ -1,24 +1,24 @@
-+++
-"Text title" = "jaTAyukRitaM rAmastotram"
-"File name" = "jataayuraamastotra.itx"
-itxtitle = "rAmastotram (jaTAyukRitam)"
-engtitle = "jaTAyukRitaM rAmastotram"
-Category = "raama, stotra"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "jaTAyu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.webdunia.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-Description-comments = "adhyAtmarAmAyaNa"
-"Latest update" = "January 13, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामस्तोत्रम् (जटायुकृइतम्)"
+---
+Author: jaTAyu
+Category: raama, stotra
+Description-comments: adhyAtmarAmAyaNa
+File name: jataayuraamastotra.itx
+Language: Sanskrit
+Latest update: January 13, 2002
+Location: doc_raama
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: jaTAyukRitaM rAmastotram
+Texttype: stotra
+Transliterated by: http://www.webdunia.com
+engtitle: jaTAyukRitaM rAmastotram
+itxtitle: rAmastotram (jaTAyukRitam)
+title: रामस्तोत्रम् (जटायुकृइतम्)
 
-+++
+---
   
  जटायुकृतं रामस्तोत्रम्   
   

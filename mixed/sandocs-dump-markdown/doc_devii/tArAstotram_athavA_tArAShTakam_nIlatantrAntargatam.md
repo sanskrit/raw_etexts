@@ -1,25 +1,25 @@
-+++
-"Text title" = "tArAstotram"
-"File name" = "tArAstotram.itx"
-itxtitle = "tArAstotram athavA tArAShTakam (nIlatantrAntargatam)"
-engtitle = "tArAstotram"
-Category = "aShTaka, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "niilatantre"
-"Latest update" = "February 28, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तारास्तोत्रम् अथवा ताराष्टकम् (नीलतन्त्रान्तर्गतम्)"
+---
+Author: Traditional
+Category: aShTaka, devii, dashamahAvidyA, stotra, devI
+Description-comments: niilatantre
+File name: tArAstotram.itx
+Language: Sanskrit
+Latest update: February 28, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tArAstotram
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com)
+engtitle: tArAstotram
+itxtitle: tArAstotram athavA tArAShTakam (nIlatantrAntargatam)
+title: तारास्तोत्रम् अथवा ताराष्टकम् (नीलतन्त्रान्तर्गतम्)
 
-+++
+---
   
  तारास्तोत्रम् अथवा ताराष्टकं   
 श्रीगणेशाय नमः ।  
@@ -39,7 +39,7 @@ title = "तारास्तोत्रम् अथवा ताराष्
 ग्रन्थिश्रेणिनृमुण्डदामललिते भीमे भयं नाशय ॥ ३॥  
   
 मायानङ्गविकाररूपललनाबिन्द्वर्द्धचन्द्राम्बिके  
-हुंफट्कारमयि त्वमेव शरणं मन्त्रात्मिके मादृशः ।  
+हुम्फट्कारमयि त्वमेव शरणं मन्त्रात्मिके मादृशः ।  
 मूर्तिस्ते जननि त्रिधामघटिता स्थूलातिसूक्ष्मा  
 परा वेदानां नहि गोचरा कथमपि प्राज्ञैर्नुतामाश्रये ॥ ४॥  
   

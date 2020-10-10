@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNgAstotram 1"
-"File name" = "gangastotra.itx"
-itxtitle = "gaNgAstotram 1 (shaNkarAchAryarachitaM devi sureshvari bhagavati)"
-engtitle = "gaNgAstotram 1"
-Category = "devii, nadI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Siva Pandyaram siva at toledo.sbi.com"
-"Proofread by" = "Siva Pandyaram siva at toledo.sbi.com, NA"
-"Latest update" = "November 1, 2010, May 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गास्तोत्रम् १ (शण्कराचार्यरचितं देवि सुरेश्वरि भगवति)"
+---
+Category: devii, nadI, stotra, devI
+File name: gangastotra.itx
+Language: Sanskrit
+Latest update: November 1, 2010, May 28, 2017
+Location: doc_devii
+Proofread by: Siva Pandyaram siva at toledo.sbi.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gaNgAstotram 1
+Texttype: stotra
+Transliterated by: Siva Pandyaram siva at toledo.sbi.com
+engtitle: gaNgAstotram 1
+itxtitle: gaNgAstotram 1 (shaNkarAchAryarachitaM devi sureshvari bhagavati)
+title: गण्गास्तोत्रम् १ (शण्कराचार्यरचितं देवि सुरेश्वरि भगवति)
 
-+++
+---
   
  श्रीगङ्गास्तोत्रम्   
   

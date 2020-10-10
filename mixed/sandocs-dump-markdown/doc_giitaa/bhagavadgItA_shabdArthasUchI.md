@@ -1,21 +1,22 @@
-+++
-"Text title" = "bhagavad gItA shabdArtha in Devanagari sequence"
-"File name" = "bgwordsSeqD.itx"
-itxtitle = "bhagavadgItA shabdArthasUchI"
-engtitle = "bhagavad gItA shabdArtha  in Devanagari sequence"
-Category = "gItA, giitaa, bhagavadgita"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Subcategory = "bhagavadgita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(2 columns (Critical Word index, Marathi) word meanings with Devanagari sequence)"
-"Latest update" = "December 13, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवद्गीता शब्दार्थसूची"
+---
+Category: gItA, giitaa, bhagavadgita
+File name: bgwordsSeqD.itx
+Indexextra: (2 columns (Critical Word index, Marathi) word meanings with Devanagari
+  sequence)
+Language: Sanskrit
+Latest update: December 13, 2014
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhagavadgita
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: bhagavad gItA shabdArtha in Devanagari sequence
+engtitle: bhagavad gItA shabdArtha  in Devanagari sequence
+itxtitle: bhagavadgItA shabdArthasUchI
+title: भगवद्गीता शब्दार्थसूची
 
-+++
+---
   
  भगवद्गीता शब्दार्थसूची   
   
@@ -703,7 +704,7 @@ fund of knowledge
 अश्विनौ   (ashvinau) = the Asvini-kumaras  
 अश्विनौ   (ashvinau) = the two Asvinis  
 अष्टधा   (aShTadhA) = eightfold.  
-असंन्यस्त   (asa.nnyasta) = without giving up  
+असन्न्यस्त   (asa.nnyasta) = without giving up  
 असंयता   (asa.nyatA) = unbridled  
 असंशयं   (asa.nshayaM) = undoubtedly  
 असंशयं   (asa.nshayaM) = without doubt  
@@ -1534,7 +1535,7 @@ fund of knowledge
 कर्मयोगः   (karmayogaH) = work in devotion  
 कर्मयोगेण   (karmayogeNa) = by activities without fruitive desire  
 कर्मयोगेण   (karmayogeNa) = by the linking process of devotion  
-कर्मसंन्यासात्   (karmasa.nnyAsAt) = in comparison to th  
+कर्मसन्न्यासात्   (karmasa.nnyAsAt) = in comparison to th  
                                          renunciation of fruitive work  
 कर्मसङ्गिनां   (karmasaN^ginAM) = who are attached to fruitive work  
 कर्मसङ्गिषु   (karmasaN^giShu) = in the association of thos  
@@ -1890,7 +1891,7 @@ fund of knowledge
 गुणमयी   (guNamayI) = consisting of the three modes  
                                         of material nature  
 गुणमयैः   (guNamayaiH) = consisting of the gunas  
-गुणसंख्याने   (guNasa.nkhyAne) = in terms of different modes  
+गुणसङ्ख्याने   (guNasa.nkhyAne) = in terms of different modes  
 गुणसङ्गः   (guNasaN^gaH) = the association with  
                                         the modes of nature  
 गुणाः   (guNAH) = the qualities  
@@ -2443,7 +2444,7 @@ fund of knowledge
 त्वां   (tvAM) = of You  
 त्वां   (tvAM) = you  
 त्वां   (tvAM) = You  
-दंडः   (da.nDaH) = punishment  
+दण्डः   (da.nDaH) = punishment  
 दंष्ट्रा   (da.nShTrA) = teeth  
 दग्ध   (dagdha) = burned  
 दत्तं   (dattaM) = given  
@@ -3045,7 +3046,7 @@ fund of knowledge
 परं   (paraM) = superior  
 परं   (paraM) = supreme  
 परं   (paraM) = far superior things  
-परंतप   (para.ntapa) = O chastiser of the enemies.  
+परन्तप   (para.ntapa) = O chastiser of the enemies.  
 परः   (paraH) = in the next life  
 परः   (paraH) = transcendental  
 परः   (paraH) = the ultimate goal.  
@@ -3309,7 +3310,7 @@ fund of knowledge
 पृथिव्यां   (pR^ithivyAM) = in the earth  
 पृथिव्यां   (pR^ithivyAM) = on the earth  
 पृष्ठतः   (pR^iShThataH) = from behind  
-पौंड्रं   (pau.nDraM) = the conch named Paundra  
+पौण्ड्रं   (pau.nDraM) = the conch named Paundra  
 पौत्राः   (pautrAH) = grandsons  
 पौत्रान्   (pautrAn) = grandsons  
 पौरुषं   (pauruShaM) = ability  
@@ -4601,7 +4602,7 @@ fund of knowledge
                                   KRiShNa consciousness  
 योगवित्तमाः   (yogavittamAH) = the most perfect in knowledge of yoga.  
 योगसंसिद्धिं   (yogasa.nsiddhiM) = the highest perfection in mysticism  
-योगसंज्ञितं   (yogasa.nj~nitaM) = called trance in yoga.  
+योगसञ्ज्ञितं   (yogasa.nj~nitaM) = called trance in yoga.  
 योगसेवया   (yogasevayA) = by performance of yoga  
 योगस्थः   (yogasthaH) = equipoised  
 योगस्य   (yogasya) = about yoga  
@@ -4770,8 +4771,8 @@ fund of knowledge
 लोकः   (lokaH) = people  
 लोकः   (lokaH) = persons  
 लोकत्रये   (lokatraye) = in the three planetary systems  
-लोकसंग्रहं   (lokasa.ngrahaM) = the people in general.  
-लोकसंग्रहं   (lokasa.ngrahaM) = the people in general  
+लोकसङ्ग्रहं   (lokasa.ngrahaM) = the people in general.  
+लोकसङ्ग्रहं   (lokasa.ngrahaM) = the people in general  
 लोकस्य   (lokasya) = of all the world  
 लोकस्य   (lokasya) = of the people  
 लोकाः   (lokAH) = all the world  
@@ -5402,26 +5403,26 @@ fund of knowledge
 स   (sa) = with both  
 स   (sa) = with  
 स   (sa) = that  
-संगवर्जितः   (sa.ngavarjitaH) = freed from the contamination  
+सङ्गवर्जितः   (sa.ngavarjitaH) = freed from the contamination  
                          of fruitive activities and mental speculation  
-संग्रहः   (sa.ngrahaH) = the accumulation.  
-संग्रहेण   (sa.ngraheNa) = in summary  
-संग्रामं   (sa.ngrAmaM) = fighting  
-संन्यस्त   (sa.nnyasta) = one who has renounced  
-संन्यस्य   (sa.nnyasya) = giving up completely  
-संन्यस्य   (sa.nnyasya) = giving up  
-संन्यास   (sa.nnyAsa) = of renunciation  
-संन्यासं   (sa.nnyAsaM) = the renounced order of life  
-संन्यासं   (sa.nnyAsaM) = renunciation  
-संन्यासः   (sa.nnyAsaH) = the renounced order of life  
-संन्यासः   (sa.nnyAsaH) = renunciation of work  
-संन्यासः   (sa.nnyAsaH) = renunciation  
-संन्यासनात्   (sa.nnyAsanAt) = by renunciation  
-संन्यासस्य   (sa.nnyAsasya) = of renunciation  
-संन्यासी   (sa.nnyAsI) = in the renounced order  
-संन्यासी   (sa.nnyAsI) = renouncer  
-संन्यासीनां   (sa.nnyAsInAM) = for the renounced order  
-संन्यासेन   (sa.nnyAsena) = by the renounced order of life  
+सङ्ग्रहः   (sa.ngrahaH) = the accumulation.  
+सङ्ग्रहेण   (sa.ngraheNa) = in summary  
+सङ्ग्रामं   (sa.ngrAmaM) = fighting  
+सन्न्यस्त   (sa.nnyasta) = one who has renounced  
+सन्न्यस्य   (sa.nnyasya) = giving up completely  
+सन्न्यस्य   (sa.nnyasya) = giving up  
+सन्न्यास   (sa.nnyAsa) = of renunciation  
+सन्न्यासं   (sa.nnyAsaM) = the renounced order of life  
+सन्न्यासं   (sa.nnyAsaM) = renunciation  
+सन्न्यासः   (sa.nnyAsaH) = the renounced order of life  
+सन्न्यासः   (sa.nnyAsaH) = renunciation of work  
+सन्न्यासः   (sa.nnyAsaH) = renunciation  
+सन्न्यासनात्   (sa.nnyAsanAt) = by renunciation  
+सन्न्यासस्य   (sa.nnyAsasya) = of renunciation  
+सन्न्यासी   (sa.nnyAsI) = in the renounced order  
+सन्न्यासी   (sa.nnyAsI) = renouncer  
+सन्न्यासीनां   (sa.nnyAsInAM) = for the renounced order  
+सन्न्यासेन   (sa.nnyAsena) = by the renounced order of life  
 संयत   (sa.nyata) = controlled  
 संयम   (sa.nyama) = of restraint  
 संयमतां   (sa.nyamatAM) = of all regulators  
@@ -5463,11 +5464,11 @@ fund of knowledge
 संस्पर्शजाः   (sa.nsparshajAH) = by contact with the material senses  
 संस्मृत्य   (sa.nsmR^itya) = remembering  
 संहरते   (sa.nharate) = winds up  
-संज्ञके   (sa.nj~nake) = which is called.  
-संज्ञार्थं   (sa.nj~nArthaM) = for information  
-संज्ञितं   (sa.nj~nitaM) = in the matter of  
-संज्ञितः   (sa.nj~nitaH) = is called.  
-संज्ञैः   (sa.nj~naiH) = named  
+सञ्ज्ञके   (sa.nj~nake) = which is called.  
+सञ्ज्ञार्थं   (sa.nj~nArthaM) = for information  
+सञ्ज्ञितं   (sa.nj~nitaM) = in the matter of  
+सञ्ज्ञितः   (sa.nj~nitaH) = is called.  
+सञ्ज्ञैः   (sa.nj~naiH) = named  
 सः   (saH) = anyone  
 सः   (saH) = it  
 सः   (saH) = He  

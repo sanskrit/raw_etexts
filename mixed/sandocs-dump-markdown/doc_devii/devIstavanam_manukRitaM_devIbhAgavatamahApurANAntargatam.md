@@ -1,25 +1,25 @@
-+++
-"Text title" = "devIstavanammanu"
-"File name" = "devIstavanammanu.itx"
-itxtitle = "devIstavanam (manukRitaM devIbhAgavatamahApurANAntargatam)"
-engtitle = "devIstavanam manu"
-Category = "devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran"
-Source = "Devi Bhagavat Mahapurana 10.1"
-Indexextra = "(Marathi)"
-Acknowledge-Permission = "Vishwas Bhide http://satsangdhara.net"
-"Latest update" = "June 14, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीस्तवनम् (मनुकृइतं देवीभागवतमहापुराणान्तर्गतम्)"
+---
+Acknowledge-Permission: Vishwas Bhide http://satsangdhara.net
+Category: devii, otherforms, devI
+File name: devIstavanammanu.itx
+Indexextra: (Marathi)
+Language: Sanskrit
+Latest update: June 14, 2017
+Location: doc_devii
+Proofread by: Vishwas Bhide, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Devi Bhagavat Mahapurana 10.1
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIstavanammanu
+Transliterated by: Vishwas Bhide
+engtitle: devIstavanam manu
+itxtitle: devIstavanam (manukRitaM devIbhAgavatamahApurANAntargatam)
+title: देवीस्तवनम् (मनुकृइतं देवीभागवतमहापुराणान्तर्गतम्)
 
-+++
+---
   
  देवीस्तवनम् मनुकृतम्   
   

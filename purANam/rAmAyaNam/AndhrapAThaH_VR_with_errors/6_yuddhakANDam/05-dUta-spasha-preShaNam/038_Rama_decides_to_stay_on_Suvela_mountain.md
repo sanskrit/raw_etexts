@@ -3,7 +3,6 @@ title: 038 Rama decides to stay on Suvela mountain
 title_english: 038 Rama decides to stay on Suvela mountain
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-038-Rama_decides_to_stay_on_Suvela_mountain__0.mp3"></div>
 
 स तु कृत्वा सुवेलस्य मतिम् आरोहणम् प्रति ।  
@@ -41,7 +40,7 @@ title_english: 038 Rama decides to stay on Suvela mountain
 ददृज़ुस् ते हरि ज़्रेष्ठाह् प्राकारम् अपरम् कृतम् ।  
 ते दृष्ट्वा वानराह् सर्वे राक्षसान् युद्ध कान्क्षिणह् ॥ ६-३८-१७  
 मुमुचुर् विपुलान् नादांस् तत्र रामस्य पज़्यतह् ।  
-ततो अस्तम् अगमत् सूर्यह् संध्यया प्रतिरन्जितह् ॥ ६-३८-१८  
+ततो अस्तम् अगमत् सूर्यह् सन्ध्यया प्रतिरन्जितह् ॥ ६-३८-१८  
 पूर्ण चन्द्र प्रदीपा च क्षपा समभिवर्तते ।  
 ततः स रामो हरि वाहिनी पतिर् ।  
 विभीषणेन प्रतिनन्द्य सत्कृतः ।  

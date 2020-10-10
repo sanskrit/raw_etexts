@@ -1,24 +1,24 @@
-+++
-"Text title" = "varadarAjastotram"
-"File name" = "varadarAjastotram.itx"
-itxtitle = "varadarAjastotram (nAradapurANAntargatam) (nAradapurANAntargataM)"
-engtitle = "varadarAjastotram"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Source = "Naradapurana"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वरदराजस्तोत्रम् (नारदपुराणान्तर्गतम्) (नारदपुराणान्तर्गतं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: varadarAjastotram.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Naradapurana
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: varadarAjastotram
+engtitle: varadarAjastotram
+itxtitle: varadarAjastotram (nAradapurANAntargatam) (nAradapurANAntargataM)
+title: वरदराजस्तोत्रम् (नारदपुराणान्तर्गतम्) (नारदपुराणान्तर्गतं)
 
-+++
+---
   
  वरदराजस्तोत्रम्   
   

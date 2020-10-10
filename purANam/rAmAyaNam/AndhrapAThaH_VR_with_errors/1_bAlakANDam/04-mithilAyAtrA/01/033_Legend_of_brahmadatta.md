@@ -3,7 +3,6 @@ title: 033 कुशनाभकन्योद्वाहः
 title_english: 033 Legend of brahmadatta
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-033-Kushanabha_Kanyodvahaha.mp3"></div>
 
 तस्य तद्वचनं श्रुत्वा कुशनाभस्य धीमतः।  

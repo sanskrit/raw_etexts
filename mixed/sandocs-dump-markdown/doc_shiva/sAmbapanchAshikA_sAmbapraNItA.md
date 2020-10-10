@@ -1,22 +1,23 @@
-+++
-"Text title" = "sAmbapanchAshikA"
-"File name" = "sAmbapanchAshikA.itx"
-itxtitle = "sAmbapanchAshikA (sAmbapraNItA)"
-engtitle = "sAmbapanchAshikA"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-Indexextra = "(Word by Word Hindi-Sanskrit, Commentary)"
-"Latest update" = "February 20, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "साम्बपञ्चाशिका (साम्बप्रणीता)"
+---
+Category: shiva
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: sAmbapanchAshikA.itx
+Indexextra: (Word by Word Hindi-Sanskrit, Commentary)
+Language: Sanskrit
+Latest update: February 20, 2017
+Location: doc_shiva
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: sAmbapanchAshikA
+engtitle: sAmbapanchAshikA
+itxtitle: sAmbapanchAshikA (sAmbapraNItA)
+title: साम्बपञ्चाशिका (साम्बप्रणीता)
 
-+++
+---
   
  साम्बपञ्चाशिका   
   
@@ -165,7 +166,7 @@ title = "साम्बपञ्चाशिका (साम्बप्रण
 तत्त्वालोके तपन सुदिने ये परं सम्प्रबुद्धा  
      ये वा चित्तोपशमरजनीयोगनिद्रामुपेताः ।  
 तेऽहोरात्रोपरमपरमानन्दसन्ध्यासु सौरं  
-     भित्त्वा ज्योतिःपरमपरमं यान्ति निर्वाणसंज्ञम् ॥ २९॥  
+     भित्त्वा ज्योतिःपरमपरमं यान्ति निर्वाणसञ्ज्ञम् ॥ २९॥  
   
 आ ब्रह्मेद नवमिव जगज्जङ्गमस्थावरान्तं  
      सर्गे सर्गे विसृजसि रवे गोभिरुद्रिक्तसोमैः ।  

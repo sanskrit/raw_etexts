@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ganesha Stuti by Panchadevas"
-"File name" = "gaNeshastutiHpanchadevaiHkRRitA.itx"
-itxtitle = "gaNeshastutiH panchadevaiHkRitA (mudgalapurANAntargatA)"
-engtitle = "gaNeshastutiH panchadevaiHkRitA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 11"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "गणेशस्तुतिः पञ्चदेवैःकृइता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 11
+File name: gaNeshastutiHpanchadevaiHkRRitA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha Stuti by Panchadevas
+Transliterated by: NA
+engtitle: gaNeshastutiH panchadevaiHkRitA
+itxtitle: gaNeshastutiH panchadevaiHkRitA (mudgalapurANAntargatA)
+title: गणेशस्तुतिः पञ्चदेवैःकृइता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  गणेशस्तुतिः पञ्चदेवैः कृता   
 श्रीगणेशाय नमः ।  
@@ -26,7 +26,7 @@ title = "गणेशस्तुतिः पञ्चदेवैःकृइ�
 नमस्ते विघ्नराजाय भक्तानां विघ्नहारिणे ।  
 विघ्नकर्त्रे ह्यभक्तानां गणेशाय नमो नमः ॥ २६॥  
   
-हेरंबाय नमस्तुभ्यं ढुण्ढिराजाय ते नमः ।  
+हेरम्बाय नमस्तुभ्यं ढुण्ढिराजाय ते नमः ।  
 विनायकाय देवाय ब्रह्मणां नायकाय च ॥ २७॥  
   
 लम्बोदराय सिद्धेश गजाननधराय च ।  
@@ -59,7 +59,7 @@ title = "गणेशस्तुतिः पञ्चदेवैःकृइ�
 बिन्दुमात्राय बिन्दूनां पतये प्राकृताय च ।  
 भेदाभेदमयायैव ज्योतीरूपाय ते नमः ॥ ३७॥  
   
-सोऽहंमात्राय शून्याय शुन्याधाराय देहिने ।  
+सोऽहम्मात्राय शून्याय शुन्याधाराय देहिने ।  
 शून्यानां शून्यरूपाय पुरुषाय नमो नमः ॥ ३८॥  
   
 ज्ञानाय बोधनाथाय बोधानां बोधकारिणे ।  

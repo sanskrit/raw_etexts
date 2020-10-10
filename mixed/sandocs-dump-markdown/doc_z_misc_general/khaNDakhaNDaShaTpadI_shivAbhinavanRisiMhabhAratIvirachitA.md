@@ -1,22 +1,22 @@
-+++
-"Text title" = "khaNDakhaNDaShaTpadI"
-"File name" = "khaNDakhaNDaShaTpadI.itx"
-itxtitle = "khaNDakhaNDaShaTpadI (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "khaNDakhaNDaShaTpadI"
-Category = "misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, ShaTpadI"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "खण्डखण्डषट्पदी (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, ShaTpadI
+File name: khaNDakhaNDaShaTpadI.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: khaNDakhaNDaShaTpadI
+engtitle: khaNDakhaNDaShaTpadI
+itxtitle: khaNDakhaNDaShaTpadI (shivAbhinavanRisiMhabhAratIvirachitA)
+title: खण्डखण्डषट्पदी (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीखण्डखण्डषट्पदी   
 श्रीखण्डखण्डः प्रतिभाति शिल्पिवरेण चित्रीकृतसर्वगात्रः ।  

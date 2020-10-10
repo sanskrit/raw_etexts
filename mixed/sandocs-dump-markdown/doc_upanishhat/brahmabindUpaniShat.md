@@ -1,23 +1,23 @@
-+++
-"Text title" = "Brahmabindu Upanishad"
-"File name" = "brahmabindu.itx"
-itxtitle = "brahmabindUpaniShat"
-engtitle = "Brahmabindu Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "S."
-"Proofread by" = "S."
-Description-comments = "11/108; Krishna-Yajurveda Sannyasa Upanishad"
-"Latest update" = "September 27, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मबिन्दूपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 11/108; Krishna-Yajurveda Sannyasa Upanishad
+File name: brahmabindu.itx
+Language: Sanskrit
+Latest update: September 27, 1999
+Location: doc_upanishhat
+Proofread by: S.
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Brahmabindu Upanishad
+Transliterated by: S.
+engtitle: Brahmabindu Upanishad
+itxtitle: brahmabindUpaniShat
+title: ब्रह्मबिन्दूपनिषत्
 
-+++
+---
   
  ब्रह्मबिन्दूपनिषत् ११   
   

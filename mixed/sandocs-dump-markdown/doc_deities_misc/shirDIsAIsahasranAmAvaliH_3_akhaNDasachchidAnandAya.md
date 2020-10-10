@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shirdi Sai Baba Sahasranamavali (3) 1000 names offerings"
-"File name" = "shirDIsAIsahasranAmAvalI3.itx"
-itxtitle = "shirDIsAIsahasranAmAvaliH 3 (akhaNDasachchidAnandAya)"
-engtitle = "shirDIsAIsahasranAmAvalI 3"
-Category = "sahasranAmAvalI, deities_misc, nAmAvalI, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Old 1, 2)"
-"Latest update" = "July 11, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिर्डीसाईसहस्रनामावलिः ३ (अखण्डसच्चिदानन्दाय)"
+---
+Category: sahasranAmAvalI, deities_misc, nAmAvalI, gurudev
+File name: shirDIsAIsahasranAmAvalI3.itx
+Indexextra: (Old 1, 2)
+Language: Sanskrit
+Latest update: July 11, 2019
+Location: doc_deities_misc
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shirdi Sai Baba Sahasranamavali (3) 1000 names offerings
+Transliterated by: Shree
+engtitle: shirDIsAIsahasranAmAvalI 3
+itxtitle: shirDIsAIsahasranAmAvaliH 3 (akhaNDasachchidAnandAya)
+title: शिर्डीसाईसहस्रनामावलिः ३ (अखण्डसच्चिदानन्दाय)
 
-+++
+---
   
  श्री सायिनाथसहस्रनामावलिः ३   
 ॐ श्री साई अखण्डसच्चिदानन्दाय नमः ।   
@@ -25,7 +25,7 @@ title = "शिर्डीसाईसहस्रनामावलिः ३ 
 ॐ श्री साई अखिलवस्तुविस्ताराय नमः ।   
 ॐ श्री साई अक्बराज्ञाभिवन्दिताय नमः ।   
 ॐ श्री साई अखिलचेतनाऽऽविष्टाय नमः ।   
-ॐ श्री साई अखिलवेदसंप्रदाय नमः ।   
+ॐ श्री साई अखिलवेदसम्प्रदाय नमः ।   
 ॐ श्री साई अखिलाण्डेशरूपेऽपि पिण्डे पिण्डे प्रतिष्ठिताय नमः ।   
 ॐ श्री साई अग्रण्ये नमः ।   
 ॐ श्री साई अग्र्यभूम्ने नमः ।   
@@ -80,7 +80,7 @@ title = "शिर्डीसाईसहस्रनामावलिः ३ 
 ॐ श्री साई अनेकाद्भुतदर्शनाय नमः ।   
 ॐ श्री साई अनेकजन्मजं पापं स्मृतिमात्रेण हारकाय नमः ।   
 ॐ श्री साई अनेकजन्मवृत्तान्तं सविस्तारमुदीरयते नमः । ६०  
-ॐ श्री साई अनेकजन्मसंप्राप्तकर्मबन्धविदारणाय नमः ।   
+ॐ श्री साई अनेकजन्मसम्प्राप्तकर्मबन्धविदारणाय नमः ।   
 ॐ श्री साई अनेकजन्मसंसिद्धशक्तिज्ञानस्वरूपवते नमः ।   
 ॐ श्री साई अन्तर्बहिश्च सर्वत्र व्याप्ताखिलचराचराय नमः ।   
 ॐ श्री साई अन्तर्हृदय आकाशाय नमः ।   
@@ -317,7 +317,7 @@ title = "शिर्डीसाईसहस्रनामावलिः ३ 
 ॐ श्री साई गिरीशसदृशत्यागिने नमः ।   
 ॐ श्री साई गीताचार्याय नमः ।   
 ॐ श्री साई गीताद्भुतार्थवक्त्रे नमः ।   
-ॐ श्री साई गीतारहस्यसंप्रदाय नमः ।   
+ॐ श्री साई गीतारहस्यसम्प्रदाय नमः ।   
 ॐ श्री साई गीताज्ञानमयाय नमः ।   
 ॐ श्री साई गीतापूर्णोपदेशकाय नमः । ३००  
 ॐ श्री साई गुणातीताय नमः ।   
@@ -340,7 +340,7 @@ title = "शिर्डीसाईसहस्रनामावलिः ३ 
 ॐ श्री साई गुरुमार्गप्रवर्तकाय नमः ।   
 ॐ श्री साई गुर्वात्मदेवताबुद्ध्या ब्रह्मानन्दमयाय नमः ।   
 ॐ श्री साई गुरोस्समाधिपार्श्वस्थनिम्बच्छायानिवासकृते नमः । ३२०  
-ॐ श्री साई गुरुवेङ्कूशसंप्राप्तवस्त्रेष्टिका सदाधृताय नमः ।   
+ॐ श्री साई गुरुवेङ्कूशसम्प्राप्तवस्त्रेष्टिका सदाधृताय नमः ।   
 ॐ श्री साई गुरुपरम्पराऽऽदिष्टसर्वत्यागपरायणाय नमः ।   
 ॐ श्री साई गुरुपरम्पराप्राप्तसच्चिदानन्दमूर्तिमते नमः ।   
 ॐ श्री साई गृहहीनमहाराजाय नमः ।   
@@ -673,7 +673,7 @@ title = "शिर्डीसाईसहस्रनामावलिः ३ 
 ॐ श्री साई भजतां सुहृदे नमः ।   
 ॐ श्री साई भक्तसर्वस्वहारिणे नमः ।   
 ॐ श्री साई भक्तानुग्रहकातराय नमः ।   
-ॐ श्री साई भक्तरास्न्यादि सर्वेषां अमोघाभयसंप्रदाय नमः ।   
+ॐ श्री साई भक्तरास्न्यादि सर्वेषां अमोघाभयसम्प्रदाय नमः ।   
 ॐ श्री साई भक्तावनसमर्थाय नमः ।   
 ॐ श्री साई भक्तावनधुरन्धराय नमः ।   
 ॐ श्री साई भक्तभावपराधीनाय नमः ।   
@@ -856,7 +856,7 @@ title = "शिर्डीसाईसहस्रनामावलिः ३ 
 ॐ श्री साई विश्वमङ्गलमाङ्गल्याय नमः ।   
 ॐ श्री साई विषयात्संहृतेन्द्रियाय नमः ।   
 ॐ श्री साई वीतरागभयक्रोधाय नमः ।   
-ॐ श्री साई वृद्धान्ध ईक्षणसंप्रदाय नमः ।   
+ॐ श्री साई वृद्धान्ध ईक्षणसम्प्रदाय नमः ।   
 ॐ श्री साई वेदान्ताम्बुजसूर्याय नमः ।   
 ॐ श्री साई वेदिस्थाग्निविवर्धनाय नमः ।   
 ॐ श्री साई वैराग्यपूर्णचारित्राय नमः । ८४०  

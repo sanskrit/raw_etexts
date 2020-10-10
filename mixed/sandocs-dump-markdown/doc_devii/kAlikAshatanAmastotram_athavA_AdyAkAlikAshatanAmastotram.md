@@ -1,20 +1,20 @@
-+++
-"Text title" = "AdyAkAlikAshatanAmastotram"
-"File name" = "AdyAkAlikAshatanAmastotram.itx"
-itxtitle = "kAlikAshatanAmastotram athavA AdyAkAlikAshatanAmastotram"
-engtitle = "Shri AdyA kAlikA shatanAma stotram"
-Category = "devii, stotra, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "August 6, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालिकाशतनामस्तोत्रम् अथवा आद्याकालिकाशतनामस्तोत्रम्"
+---
+Category: devii, stotra, dashamahAvidyA, devI
+File name: AdyAkAlikAshatanAmastotram.itx
+Language: Sanskrit
+Latest update: August 6, 2017
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: AdyAkAlikAshatanAmastotram
+engtitle: Shri AdyA kAlikA shatanAma stotram
+itxtitle: kAlikAshatanAmastotram athavA AdyAkAlikAshatanAmastotram
+title: कालिकाशतनामस्तोत्रम् अथवा आद्याकालिकाशतनामस्तोत्रम्
 
-+++
+---
   
  आद्या कालिकादेव्याः शतनामस्तोत्रम्   
 कालिकाशतनामस्तोत्रम्  

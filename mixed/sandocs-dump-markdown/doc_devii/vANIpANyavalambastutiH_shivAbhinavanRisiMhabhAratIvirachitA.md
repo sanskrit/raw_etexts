@@ -1,23 +1,23 @@
-+++
-"Text title" = "vANIpANyavalambastutiH"
-"File name" = "vANIpANyavalambastutiH.itx"
-itxtitle = "vANIpANyavalambastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "vANIpANyavalambastutiH"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाणीपाण्यवलम्बस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI
+File name: vANIpANyavalambastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vANIpANyavalambastutiH
+engtitle: vANIpANyavalambastutiH
+itxtitle: vANIpANyavalambastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: वाणीपाण्यवलम्बस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीवाणीपाण्यवलम्बस्तुतिः   
 जाड्यवारिधिनिमग्नसुबुद्धेर्जातरूपसदृशच्छविकाये ।  

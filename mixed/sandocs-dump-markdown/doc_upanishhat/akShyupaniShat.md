@@ -1,23 +1,23 @@
-+++
-"Text title" = "Akshi Upanishad"
-"File name" = "akshi.itx"
-itxtitle = "akShyupaniShat"
-engtitle = "AkShi Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "72 / 108; Krishna Yajurveda - Samanya upanishad"
-"Latest update" = "Mar. 24, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अक्ष्युपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 72 / 108; Krishna Yajurveda - Samanya upanishad
+File name: akshi.itx
+Language: Sanskrit
+Latest update: Mar. 24, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Akshi Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: AkShi Upanishad
+itxtitle: akShyupaniShat
+title: अक्ष्युपनिषत्
 
-+++
+---
   
  अक्ष्युपनिषत्   
   
@@ -32,7 +32,7 @@ title = "अक्ष्युपनिषत्"
   
 हरिः ॐ ॥  
   
-अथ ह सांकृतिर्भगवानादित्यलोकं जगाम ।  
+अथ ह साङ्कृतिर्भगवानादित्यलोकं जगाम ।  
 तमादित्यं नत्वा चाक्षुष्मतीविद्यया  
 तमस्तुवत् । ॐ नमो भगवते श्रीसूर्या-  
 याक्षितेजसे नमः । ॐ खेचराय नमः ।  
@@ -52,9 +52,9 @@ title = "अक्ष्युपनिषत्"
 ब्राह्मणान्ग्राहयित्वाथ विद्यासिद्धिर्भवति ।  
 य एवं वेद स महान्भवति ॥ १॥  
   
-अथ ह सांकृतिरादित्यं पप्रच्छ भगवन्-  
+अथ ह साङ्कृतिरादित्यं पप्रच्छ भगवन्-  
 ब्रह्मविद्यां मे ब्रूहीति । तमादित्यो होवाच ।  
-सांकृते शृणु वक्ष्यामि तत्त्वज्ञानं सुदुर्लभम् ।  
+साङ्कृते शृणु वक्ष्यामि तत्त्वज्ञानं सुदुर्लभम् ।  
 येन विज्ञातमात्रेण जीवन्मुक्तो भविष्यसि ॥१॥  
   
 सर्वमेकमजं शान्तमनन्तं ध्रुवमव्ययम् ।  
@@ -93,7 +93,7 @@ title = "अक्ष्युपनिषत्"
 मदाभिमानमात्सर्यलोभमोहातिशायिताम् ।  
 बहिरप्यास्थितामीषत्यजत्यहिरिव त्वचम् ॥ १३॥  
   
-इत्थंभूतमतिः शास्त्रगुरुसज्जनसेवया ।  
+इत्थम्भूतमतिः शास्त्रगुरुसज्जनसेवया ।  
 सरहस्यमशेषेण यथावदधिगच्छति ॥ १४॥  
   
 असंसर्गाभिधामन्यां तृतीयां योगभूमिकाम् ।  
@@ -115,7 +115,7 @@ title = "अक्ष्युपनिषत्"
 द्विविधोऽयमसंसर्गः सामान्यः श्रेष्ठ एव च ॥ २०॥  
   
 नाहं कर्ता न भोक्ता च न बाध्यो न च बाधकः ।  
-इत्यसंजनमर्थेषु सामान्यासङ्गनामकम् ॥ २१॥  
+इत्यसञ्जनमर्थेषु सामान्यासङ्गनामकम् ॥ २१॥  
   
 प्राक्कर्मनिर्मितं सर्वमीश्वराधीनमेव वा ।  
 सुखं वा यदि वा दुःखं कैवात्र तव कर्तृता ॥ २२॥  
@@ -136,11 +136,11 @@ title = "अक्ष्युपनिषत्"
 सन्तोषामोदमधुरा प्रथमोदेति भूमिका ।  
 भूमिप्रोदितमात्रोऽन्तरमृताङ्कुरिकेव सा ॥ २७॥  
   
-एषा हि परिमृष्टान्तः संन्यासा प्रसवैकभूः ।  
+एषा हि परिमृष्टान्तः सन्न्यासा प्रसवैकभूः ।  
 द्वितीयां च तृतीयां च भूमिकां प्राप्नुयात्ततः ॥ २८॥  
   
 श्रेष्ठा सर्वगता ह्येषा तृतीया भूमिकात्र हि ।  
-भवति प्रोज्झिताशेषसंकल्पकलनः पुमान् ॥ २९॥  
+भवति प्रोज्झिताशेषसङ्कल्पकलनः पुमान् ॥ २९॥  
   
 भूमिकात्रितयाभ्यासादज्ञाने क्षयमागते ।  
 समं सर्वत्र पश्यन्ति चतुर्थीं भूमिकां गताः ॥ ३०॥  
@@ -166,7 +166,7 @@ title = "अक्ष्युपनिषत्"
 कुर्वन्नभ्यासमेतस्यां भूमिकायां विवासनः ।  
 षष्ठीं तुर्याभिधामन्यां क्रमात्पतति भूमिकाम् ॥ ३७॥  
   
-यत्र नासन्नसद्रूपो नाहं नाप्यहंकृतिः ।  
+यत्र नासन्नसद्रूपो नाहं नाप्यहङ्कृतिः ।  
 केवलं क्षीणमननमास्तेऽद्वैतेऽतिनिर्भयः ॥ ३८॥  
   
 निर्ग्रन्थिः शान्तसन्देहो जीवन्मुक्तो विभावनः ।  

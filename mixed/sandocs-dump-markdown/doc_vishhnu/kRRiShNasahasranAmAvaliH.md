@@ -1,22 +1,22 @@
-+++
-"Text title" = "kRRiShNasahasranAmAvaliH"
-"File name" = "kRRiShNasahasranAmAvaliH.itx"
-itxtitle = "kRRiShNasahasranAmAvaliH"
-engtitle = "kRRiShNasahasranAmAvaliH"
-Category = "vishhnu, krishna, sahasranAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृष्णसहस्रनामावलिः"
+---
+Category: vishhnu, krishna, sahasranAmAvalI
+File name: kRRiShNasahasranAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNasahasranAmAvaliH
+engtitle: kRRiShNasahasranAmAvaliH
+itxtitle: kRRiShNasahasranAmAvaliH
+title: कृष्णसहस्रनामावलिः
 
-+++
+---
   
  श्रीकृष्णसहस्रनामावलिः   
   

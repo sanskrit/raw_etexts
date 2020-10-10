@@ -1,22 +1,22 @@
-+++
-"Text title" = "shAkambharyaShTottarashatanAmAvalI"
-"File name" = "shAkambharyaShTottarashatanAmAvalI.itx"
-itxtitle = "shAkambharyaShTottarashatanAmAvaliH"
-engtitle = "shAkambharyaShTottarashatanAmAvalI"
-Category = "devii, dashamahAvidyA, aShTottarashatanAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Latest update" = "August 5, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शाकम्भर्यष्टोत्तरशतनामावलिः"
+---
+Category: devii, dashamahAvidyA, aShTottarashatanAmAvalI, devI
+File name: shAkambharyaShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: August 5, 2018
+Location: doc_devii
+Proofread by: Ganesh Kandu kanduganesh at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAkambharyaShTottarashatanAmAvalI
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: shAkambharyaShTottarashatanAmAvalI
+itxtitle: shAkambharyaShTottarashatanAmAvaliH
+title: शाकम्भर्यष्टोत्तरशतनामावलिः
 
-+++
+---
   
  शाकम्भरी अथवा वनशङ्करी अष्टोत्तरशतनामावलिः   
   
@@ -44,7 +44,7 @@ title = "शाकम्भर्यष्टोत्तरशतनामा�
   
 ॐ वेण्यै नमः । सर्वशस्त्रधारिण्यै । समुद्रवसनायै ।  
 ब्रह्माण्डमेखलायै । अवस्थात्रयनिर्मुक्तायै । गुणत्रयविवर्जितायै ।  
-योगध्यानैकसंन्यस्तायै । योगध्यानैकरूपिण्यै । वेदत्रयरूपिण्यै ।  
+योगध्यानैकसन्न्यस्तायै । योगध्यानैकरूपिण्यै । वेदत्रयरूपिण्यै ।  
 वेदान्तज्ञानरूपिण्यै । पद्मावत्यै । विशालाक्ष्यै । नागयज्ञोपवीतिन्यै ।  
 सूर्यचन्द्रस्वरूपिण्यै । ग्रहनक्षत्ररूपिण्यै । वेदिकायै । वेदरूपिण्यै ।  
 हिरण्यगर्भायै । कैवल्यपददायिन्यै । सूर्यमण्डलसंस्थितायै नमः ॥ ६०  

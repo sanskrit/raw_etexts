@@ -3,7 +3,6 @@ title: 015 Indrajit criticizes Vibhishana
 title_english: 015 Indrajit criticizes Vibhishana
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-015-Indrajit_criticizes_Vibhishana.mp3"></div>
 
 बृहस्पतेस्तुल्यमतेर्वचस्त ।  

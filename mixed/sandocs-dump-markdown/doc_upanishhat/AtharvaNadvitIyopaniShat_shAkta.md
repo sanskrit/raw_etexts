@@ -1,22 +1,22 @@
-+++
-"Text title" = "AtharvaNadvitIyopaniShat"
-"File name" = "AtharvaNadvitIyopaniShat.itx"
-itxtitle = "AtharvaNadvitIyopaniShat (shAkta)"
-engtitle = "AtharvaNadvitIyopaniShat"
-Category = "upanishhat, devii, devI, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आथर्वणद्वितीयोपनिषत् (शाक्त)"
+---
+Category: upanishhat, devii, devI, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: AtharvaNadvitIyopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: AtharvaNadvitIyopaniShat
+engtitle: AtharvaNadvitIyopaniShat
+itxtitle: AtharvaNadvitIyopaniShat (shAkta)
+title: आथर्वणद्वितीयोपनिषत् (शाक्त)
 
-+++
+---
   
  आथर्वणद्वितीयोपनिषत्   
 ह्रीं श्रीं या वै शिवा भगवती अणिमासिद्ध्यादिदशकं  
@@ -41,7 +41,7 @@ title = "आथर्वणद्वितीयोपनिषत् (शाक
 ह्रीं श्रीं या वै शिवा भगवती औं चामुण्डाशक्तिस्तस्यै वै नमो नमः ।  
 ह्रीं श्रीं या वै शिवा भगवती महालक्ष्मीशक्तिस्तस्यै वै नमो नमः ।  
 ह्रीं श्रीं या वै शिवा भगवती मुद्रादशकं तस्यै वै नमो नमः ।  
-ह्रीं श्रीं या वै शिवा भगवती द्रां सर्वसंक्षोभिणीमुद्रा  
+ह्रीं श्रीं या वै शिवा भगवती द्रां सर्वसङ्क्षोभिणीमुद्रा  
      तस्यै वै नमो नमः ।  
 ह्रीं श्रीं या वै शिवा भगवती द्रीं दाविणीमुद्रा तस्यै वै नमो नमः ।  
 ह्रीं श्रीं या वै शिवा भगवती क्लीं सर्वाकर्षिणीमुद्रा  
@@ -58,7 +58,7 @@ title = "आथर्वणद्वितीयोपनिषत् (शाक
 ह्रीं श्रीं या वै शिवा भगवती प्रथमचक्रेश्वरी त्रिपुरा देवी  
      तस्यै वै नमो नमः ।  
 ह्रीं श्रीं या वै शिवा भगवती अणिमादिसिद्धिस्तस्यै वै नमो नमः ।  
-ह्रीं श्रीं या वै शिवा भगवती सर्वसंक्षोभिणीमुद्रा  
+ह्रीं श्रीं या वै शिवा भगवती सर्वसङ्क्षोभिणीमुद्रा  
      तस्यै वै नमो नमः ।  
 ह्रीं श्रीं या वै शिवा भगवती कामाकर्षिण्यादिषोडशकं  
      तस्यै वै नमो नमः ।  
@@ -105,9 +105,9 @@ title = "आथर्वणद्वितीयोपनिषत् (शाक
 ह्रीं श्रीं या वै शिवा भगवती ह्रीं क्लीं सौः तृतीयचकेश्वरी  
      त्रिपुरसुन्दरी देवी तस्यै वै नमो नमः ह्रीं श्रीं या वै  
      शिवा भगवती क्लीं सर्वाकर्षिणीमुद्रा तस्यै वै नमो नमः ।  
-ह्रीं श्रीं या वै शिवा भगवती सर्वसंक्षोभिण्यादिचतुर्दशकं  
+ह्रीं श्रीं या वै शिवा भगवती सर्वसङ्क्षोभिण्यादिचतुर्दशकं  
      तस्यै वै नमो नमः ।  
-ह्रीं श्रीं या वै शिवा भगवती सर्वसंक्षोभिणीशक्तिस्तस्यै  
+ह्रीं श्रीं या वै शिवा भगवती सर्वसङ्क्षोभिणीशक्तिस्तस्यै  
      वै नमो नमः ।  
 ह्रीं श्रीं या वै शिवा भगवती सर्वविद्राविणीशक्तिस्तस्यै वै नमो नमः ।  
 ह्रीं श्रीं या वै शिवा भगवती सर्वाकर्षिणीशक्तिस्तस्यै वै नमो नमः ।  

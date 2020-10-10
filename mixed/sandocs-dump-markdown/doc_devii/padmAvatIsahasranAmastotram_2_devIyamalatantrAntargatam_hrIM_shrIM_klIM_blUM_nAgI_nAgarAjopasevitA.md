@@ -1,24 +1,26 @@
-+++
-"Text title" = "Padmavati Sahasranama Stotram 2"
-"File name" = "padmAvatIsahasranAmastotram2.itx"
-itxtitle = "padmAvatIsahasranAmastotram 2 (devIyamalatantrAntargatam hrIM shrIM klIM blUM nAgI nAgarAjopasevitA)"
-engtitle = "padmAvatIsahasranAmastotram 2"
-Category = "devii, sahasranAma, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Description-comments = "for Shri Padmavati thAyAr of Tiruchanur, Tirupati, AP"
-Indexextra = "(Manuscripts)"
-Acknowledge-Permission = "http://indianmanuscripts.com"
-"Latest update" = "March 22, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पद्मावतीसहस्रनामस्तोत्रम् २ (देवीयमलतन्त्रान्तर्गतम् ह्रीं श्रीं क्लीं ब्लूं नागी नागराजोपसेविता)"
+---
+Acknowledge-Permission: http://indianmanuscripts.com
+Category: devii, sahasranAma, devI
+Description-comments: for Shri Padmavati thAyAr of Tiruchanur, Tirupati, AP
+File name: padmAvatIsahasranAmastotram2.itx
+Indexextra: (Manuscripts)
+Language: Sanskrit
+Latest update: March 22, 2020
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Padmavati Sahasranama Stotram 2
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: padmAvatIsahasranAmastotram 2
+itxtitle: padmAvatIsahasranAmastotram 2 (devIyamalatantrAntargatam hrIM shrIM klIM
+  blUM nAgI nAgarAjopasevitA)
+title: पद्मावतीसहस्रनामस्तोत्रम् २ (देवीयमलतन्त्रान्तर्गतम् ह्रीं श्रीं क्लीं ब्लूं
+  नागी नागराजोपसेविता)
 
-+++
+---
   
  श्रीपद्मावतीसहस्रनामस्तोत्रम् २   
 ॐ श्रीगणेशाय नमः  

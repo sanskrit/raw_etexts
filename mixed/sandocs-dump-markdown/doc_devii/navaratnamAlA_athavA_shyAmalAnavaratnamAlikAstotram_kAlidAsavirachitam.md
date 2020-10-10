@@ -1,25 +1,25 @@
-+++
-"Text title" = "Navaratnamala"
-"File name" = "navaratnamala.itx"
-itxtitle = "navaratnamAlA athavA shyAmalAnavaratnamAlikAstotram (kAlidAsavirachitam)"
-engtitle = "Navaratnamala by Kalidas"
-Category = "devii, otherforms, stotra, kAlidAsa, nava, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "stotra"
-Author = "Kalidasa"
-Language = "Sanskrit"
-Subject = "literature"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "A poem by Kalidasa"
-"Latest update" = "Feb. 27, 2008, February 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवरत्नमाला अथवा श्यामलानवरत्नमालिकास्तोत्रम् (कालिदासविरचितम्)"
+---
+Author: Kalidasa
+Category: devii, otherforms, stotra, kAlidAsa, nava, devI
+Description-comments: A poem by Kalidasa
+File name: navaratnamala.itx
+Language: Sanskrit
+Latest update: Feb. 27, 2008, February 10, 2018
+Location: doc_devii
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: literature
+Sublocation: devii
+Text title: Navaratnamala
+Texttype: stotra
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Navaratnamala by Kalidas
+itxtitle: navaratnamAlA athavA shyAmalAnavaratnamAlikAstotram (kAlidAsavirachitam)
+title: नवरत्नमाला अथवा श्यामलानवरत्नमालिकास्तोत्रम् (कालिदासविरचितम्)
 
-+++
+---
   
  नवरत्नमाला अथवा श्यामलानवरत्नमालिकास्तोत्रम् कालिदासविरचितम्   
 मातङ्गीस्तोत्रं च  

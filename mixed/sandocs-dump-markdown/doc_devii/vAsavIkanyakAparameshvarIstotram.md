@@ -1,21 +1,21 @@
-+++
-"Text title" = "Vasavi Kanyaka Parameshvari Stotram"
-"File name" = "vAsavIkanyakAparameshvarIstotram.itx"
-itxtitle = "vAsavIkanyakAparameshvarIstotram"
-engtitle = "vAsavIkanyakAparameshvarIstotram"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Info 1, 2, 3)"
-"Latest update" = "May 31, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकापरमेश्वरीस्तोत्रम्"
+---
+Category: devii, devI
+File name: vAsavIkanyakAparameshvarIstotram.itx
+Indexextra: (Info 1, 2, 3)
+Language: Sanskrit
+Latest update: May 31, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vasavi Kanyaka Parameshvari Stotram
+engtitle: vAsavIkanyakAparameshvarIstotram
+itxtitle: vAsavIkanyakAparameshvarIstotram
+title: वासवीकन्यकापरमेश्वरीस्तोत्रम्
 
-+++
+---
   
  श्रीवासवीकन्यकापरमेश्वरीस्तोत्रम्   
 कैलासाचलसन्निभे गिरिपुरे सौवर्णशृङ्गे महत्  

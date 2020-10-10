@@ -1,24 +1,24 @@
-+++
-"Text title" = "Kalyana-Vrishti-Stava"
-"File name" = "kalyANavRiShTi.itx"
-itxtitle = "kalyANavRiShTistavaH"
-engtitle = "Kalyana-Vrishti-Stava"
-Category = "devii, stotra, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Author = "Adi Shanakaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi, Aravind Krishnan"
-"Proofread by" = "Sunder Hattangadi, Sridhar Seshagiri"
-Description-comments = "A hymn in praise of Lakshmi"
-"Latest update" = "March 4 , 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कल्याणवृइष्टिस्तवः"
+---
+Author: Adi Shanakaracharya
+Category: devii, stotra, shankarAchArya, devI
+Description-comments: A hymn in praise of Lakshmi
+File name: kalyANavRiShTi.itx
+Language: Sanskrit
+Latest update: March 4 , 2007
+Location: doc_devii
+Proofread by: Sunder Hattangadi, Sridhar Seshagiri
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kalyana-Vrishti-Stava
+Texttype: stotra
+Transliterated by: Sunder Hattangadi, Aravind Krishnan
+engtitle: Kalyana-Vrishti-Stava
+itxtitle: kalyANavRiShTistavaH
+title: कल्याणवृइष्टिस्तवः
 
-+++
+---
   
  कल्याणवृष्टिस्तवः ।   
   
@@ -40,9 +40,9 @@ title = "कल्याणवृइष्टिस्तवः"
 लब्ध्वा सकृत्त्रिपुरसुन्दरि तावकीनं  
 कारुण्यकन्दलितकान्तिभरं कटाक्षम् ।  
 कन्दर्पकोटिसुभगास्त्वयि भक्तिभाजः  
-संमोहयन्ति तरुणीर्भुवनत्रयेऽपि ॥ ४॥  
+सम्मोहयन्ति तरुणीर्भुवनत्रयेऽपि ॥ ४॥  
   
-ह्रींकारमेव तव नाम गृणन्ति वेदा  
+ह्रीङ्कारमेव तव नाम गृणन्ति वेदा  
 मातस्त्रिकोणनिलये त्रिपुरे त्रिनेत्रे ।  
 त्वत्संस्मृतौ यमभटाभिभवं विहाय  
 दीव्यन्ति नन्दनवने सह लोकपालैः ॥ ५॥  
@@ -92,12 +92,12 @@ title = "कल्याणवृइष्टिस्तवः"
 भास्वत्किरीटममृतांशुकलावतंसं  
 मध्ये त्रिकोणनिलयं परमामृतार्द्रम् ॥ १४॥  
   
-ह्रींकारमेव तव नाम तदेव रूपं  
+ह्रीङ्कारमेव तव नाम तदेव रूपं  
 त्वन्नाम दुर्लभमिह त्रिपुरे गृणन्ति ।  
 त्वत्तेजसा परिणतं वियदादिभूतं  
 सौख्यं तनोति सरसीरुहसम्भवादेः ॥ १५॥  
   
-ह्रींकारत्रयसम्पुटेन महता मन्त्रेण सन्दीपितं  
+ह्रीङ्कारत्रयसम्पुटेन महता मन्त्रेण सन्दीपितं  
 स्तोत्रं यः प्रतिवासरं तव पुरो मातर्जपेन्मन्त्रवित् ।  
 तस्य क्षोणिभुजो भवन्ति वशगा लक्ष्मीश्चिरस्थायिनी  
 वाणी निर्मलसूक्तिभारभरिता जागर्ति दीर्घं वयः ॥ १६॥  

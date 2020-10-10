@@ -1,22 +1,22 @@
-+++
-"Text title" = "mallikArjunaprashnamAlikAstavaH"
-"File name" = "mallikArjunaprashnamAlikAstavaH.itx"
-itxtitle = "mallikArjunaprashnamAlikAstavaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "mallikArjunaprashnamAlikAstavaH"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मल्लिकार्जुनप्रश्नमालिकास्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: mallikArjunaprashnamAlikAstavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mallikArjunaprashnamAlikAstavaH
+engtitle: mallikArjunaprashnamAlikAstavaH
+itxtitle: mallikArjunaprashnamAlikAstavaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: मल्लिकार्जुनप्रश्नमालिकास्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीमल्लिकार्जुनप्रश्नमालिकास्तवः   
 (श्रीशैलक्षेत्रे)  

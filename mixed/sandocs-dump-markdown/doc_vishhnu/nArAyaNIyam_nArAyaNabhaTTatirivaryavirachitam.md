@@ -1,26 +1,28 @@
-+++
-"Text title" = "naaraayaniiyam"
-"File name" = "nArAyaNIyam.itx"
-itxtitle = "nArAyaNIyam (nArAyaNabhaTTatirivaryavirachitam)"
-engtitle = "Narayaneeyam"
-Category = "vishhnu, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Author = "melpattUr Narayanabhatta"
-Language = "Sanskrit"
-Subject = "kavya"
-"Proofread by" = "M.K. Krishnaswamy, M.G.Vasudevan, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Includes pArAyaNasankalpam, dhyAnam, concluding anubandham and maNgalam"
-Indexextra = "(See the site Complete narayaneeyam, word meanings, Malyalam book, audio, commentary, GRETIL.)"
-Acknowledge-Permission = "Pandanus, http://iu.ff.cuni.cz/pandanus/electronictexts/"
-"Latest update" = "April 21, 2003, April 12, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणीयम् (नारायणभट्टतिरिवर्यविरचितम्)"
+---
+Acknowledge-Permission: Pandanus, http://iu.ff.cuni.cz/pandanus/electronictexts/
+Author: melpattUr Narayanabhatta
+Category: vishhnu, stotra, vishnu
+Description-comments: Includes pArAyaNasankalpam, dhyAnam, concluding anubandham and
+  maNgalam
+File name: nArAyaNIyam.itx
+Indexextra: (See the site Complete narayaneeyam, word meanings, Malyalam book, audio,
+  commentary, GRETIL.)
+Language: Sanskrit
+Latest update: April 21, 2003, April 12, 2020
+Location: doc_vishhnu
+Proofread by: M.K. Krishnaswamy, M.G.Vasudevan, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: kavya
+Sublocation: vishhnu
+Text title: naaraayaniiyam
+Texttype: stotra
+engtitle: Narayaneeyam
+itxtitle: nArAyaNIyam (nArAyaNabhaTTatirivaryavirachitam)
+title: नारायणीयम् (नारायणभट्टतिरिवर्यविरचितम्)
 
-+++
+---
   
  नारायणीयम्   
 ॐ नमो भगवते वासुदेवाय ।  
@@ -4054,7 +4056,7 @@ Birth of Hiranyaksha And Hiranyakashipu
 अपूर्णसुकृतं त्वमुं पवनजेन सङ्ग्रामयन्  
 निरीक्ष्य सह जिष्णुना त्वमपि राजयुध्वा स्थितः ॥ ८५-४॥  
   
-अशान्तसमरोद्धतं विटपपाटनासंज्ञया  
+अशान्तसमरोद्धतं विटपपाटनासञ्ज्ञया  
 निपात्य जरसस्सुतं पवनजेन निष्पाटितम् ।  
 विमुच्य नृपतीन्मुदा समनुगृह्य भक्तिं परां  
 दिदेशिथ गतस्पृहानपि च धर्मगुप्त्यै भुवः ॥ ८५-५॥  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "pRRithvIstotram"
-"File name" = "pRRithvIstotram.itx"
-itxtitle = "pRRithvIstotram (brahmavaivartamahApurANAntargataM viShNukRitaM)"
-engtitle = "pRRithvIstotram"
-Category = "devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "from devIstotraratnAkara"
-"Latest update" = "April 20, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पृथ्वीस्तोत्रम् (ब्रह्मवैवर्तमहापुराणान्तर्गतं विष्णुकृइतं)"
+---
+Category: devii, otherforms, devI
+Description/comments: from devIstotraratnAkara
+File name: pRRithvIstotram.itx
+Language: Sanskrit
+Latest update: April 20, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: pRRithvIstotram
+engtitle: pRRithvIstotram
+itxtitle: pRRithvIstotram (brahmavaivartamahApurANAntargataM viShNukRitaM)
+title: पृथ्वीस्तोत्रम् (ब्रह्मवैवर्तमहापुराणान्तर्गतं विष्णुकृइतं)
 
-+++
+---
   
  पृथ्वीस्तोत्रम्   
 विष्णुरुवाच -  
@@ -63,12 +63,12 @@ title = "पृथ्वीस्तोत्रम् (ब्रह्मवै
 समस्त शस्यों का अपहरण भी कर लेती हो । इस संसार में तुम  
 सर्वशस्यस्वरूपिणी हो ॥ ३॥  
   
-मङ्गलमयी देवि! तुम मंगलका आधार हो । मङ्गलके योग्य हो ।  
+मङ्गलमयी देवि! तुम मङ्गलका आधार हो । मङ्गलके योग्य हो ।  
 मङ्गलदायिनी हो । मङ्गलमय पदार्थ तुम्हारे स्वरूप हैं ।  
-मंगलेश्वरि !  तुम जगत्मे मुझे मङ्गल प्रदान करो ॥ ४॥  
+मङ्गलेश्वरि !  तुम जगत्मे मुझे मङ्गल प्रदान करो ॥ ४॥  
   
 भूमे !  तुम भूमिपालों का सर्वस्व हो, भूमिपालपरायण हो तथा  
-भूमिपालों के अहंकार का मूर्तरूप हो । भूमिदायिनी देवि ! मुझे  
+भूमिपालों के अहङ्कार का मूर्तरूप हो । भूमिदायिनी देवि ! मुझे  
 भूमि दो ॥ ५॥  
   
 नारद! यह स्तोत्र परम पवित्र है । जो पुरुष पृथ्वी का पूजन  
@@ -82,7 +82,7 @@ title = "पृथ्वीस्तोत्रम् (ब्रह्मवै
   
 मुने ! पृथ्वीपर वीर्य त्यागने तथा दीपक रखने से जो पाप होता है,  
 उससे भी, बुद्धिमान् पुरुष इस स्तोत्र का पाठ करने से मुक्त हो जाता  
-है और सौ अश्वमेधयज्ञोंके करनेका पुण्यफल प्राप्त करता है,  
+है और सौ अश्वमेधयज्ञोङ्के करनेका पुण्यफल प्राप्त करता है,  
 इसमें संशय नहीं है ॥ ८॥  
   
 इस प्रकार श्रीब्रह्मवैवर्तमहापुराणके प्रकृतिखण्ड में  

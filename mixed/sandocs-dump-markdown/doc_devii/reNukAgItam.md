@@ -1,23 +1,23 @@
-+++
-"Text title" = "reNukAgItam"
-"File name" = "reNukAgItam.itx"
-itxtitle = "reNukAgItam"
-engtitle = "Renuka Geetam"
-Category = "gItam, devii, reNukA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-Description-comments = "from shrIreNukAtantram, Pitambarapeeth, Datia"
-"Latest update" = "June 22, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकागीतम्"
+---
+Category: gItam, devii, reNukA, devI
+Description-comments: from shrIreNukAtantram, Pitambarapeeth, Datia
+File name: reNukAgItam.itx
+Language: Sanskrit
+Latest update: June 22, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAgItam
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Renuka Geetam
+itxtitle: reNukAgItam
+title: रेणुकागीतम्
 
-+++
+---
   
  रेणुका गीतम्   
   

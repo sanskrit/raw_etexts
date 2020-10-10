@@ -3,7 +3,6 @@ title: 056 Akampana enters the battle field
 title_english: 056 Akampana enters the battle field
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-056-Akampana_enters_the_battle-field__0.mp3"></div>
 
 तद् दृष्ट्वा सुमहत् कर्म कृतम् वानर सत्तमैः ।  

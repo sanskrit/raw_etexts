@@ -1,26 +1,26 @@
-+++
-"Text title" = "shrIpAdarAjapanchakam"
-"File name" = "shrIpAdarAjapanchakam.itx"
-itxtitle = "shrIpAdarAjapanchakam (vyAsarAjayatikRitam)"
-engtitle = "shrIpAdarAjapanchakam"
-Category = "deities_misc, gurudev, panchaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Vyasaraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-"Description/comments" = "PanchayatistutiH"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "C Narayanarao"
-"Latest update" = "June 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "श्रीपादराजपञ्चकम् (व्यासराजयतिकृइतम्)"
+---
+Acknowledge-Permission: C Narayanarao
+Author: Vyasaraja
+Category: deities_misc, gurudev, panchaka
+Description/comments: PanchayatistutiH
+File name: shrIpAdarAjapanchakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shrIpAdarAjapanchakam
+Transliterated by: Krishnananda Achar
+engtitle: shrIpAdarAjapanchakam
+itxtitle: shrIpAdarAjapanchakam (vyAsarAjayatikRitam)
+title: श्रीपादराजपञ्चकम् (व्यासराजयतिकृइतम्)
 
-+++
+---
   
  श्रीश्रीपादराजपञ्चकम्०   
 वन्दे श्रीपादराजं रुचितमहृदयं पूजितश्रीसहायं  

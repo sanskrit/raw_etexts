@@ -1,21 +1,22 @@
-+++
-"Text title" = "devIstotramrAtrisUktAtmakaM"
-"File name" = "devIstotramrAtrisUktAtmakaM.itx"
-itxtitle = "devIstotram 2 (rAtrisUktAtmakam rAtridevIM)"
-engtitle = "devIstotramrAtrisUktAtmakaM"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "March 22, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीस्तोत्रम् २ (रात्रिसूक्तात्मकम् रात्रिदेवीं)"
+---
+Category: devii, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: devIstotramrAtrisUktAtmakaM.itx
+Language: Sanskrit
+Latest update: March 22, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIstotramrAtrisUktAtmakaM
+engtitle: devIstotramrAtrisUktAtmakaM
+itxtitle: devIstotram 2 (rAtrisUktAtmakam rAtridevIM)
+title: देवीस्तोत्रम् २ (रात्रिसूक्तात्मकम् रात्रिदेवीं)
 
-+++
+---
   
  रात्रिसूक्तात्मकं देवीस्तोत्रम्   
   

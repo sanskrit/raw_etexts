@@ -1,25 +1,26 @@
-+++
-"Text title" = "shachIsUnvaShTakam"
-"File name" = "shachIsUnvaShTakam.itx"
-itxtitle = "shachIsUnvaShTakam (raghunAthadAsagosvAmivirachitam)"
-engtitle = "shachIsUnvaShTakam"
-Category = "deities_misc, gurudev, raghunAthadAsagosvAmin, stavAvalI, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शचीसून्वष्टकम् (रघुनाथदासगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: deities_misc, gurudev, raghunAthadAsagosvAmin, stavAvalI, aShTaka
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: shachIsUnvaShTakam.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shachIsUnvaShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: shachIsUnvaShTakam
+itxtitle: shachIsUnvaShTakam (raghunAthadAsagosvAmivirachitam)
+title: शचीसून्वष्टकम् (रघुनाथदासगोस्वामिविरचितम्)
 
-+++
+---
   
  शचीसून्वष्टकम्   
 हरिर्दृष्ट्वा गोष्ठे मुकुरगतमात्मानमतुलं  

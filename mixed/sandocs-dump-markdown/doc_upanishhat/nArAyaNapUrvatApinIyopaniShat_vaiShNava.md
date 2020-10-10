@@ -1,22 +1,22 @@
-+++
-"Text title" = "nArAyaNapUrvatApinIyopaniShat"
-"File name" = "nArAyaNapUrvatApinIyopaniShat.itx"
-itxtitle = "nArAyaNapUrvatApinIyopaniShat (vaiShNava)"
-engtitle = "nArAyaNapUrvatApinIyopaniShat"
-Category = "upanishhat, vishhnu, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणपूर्वतापिनीयोपनिषत् (वैष्णव)"
+---
+Category: upanishhat, vishhnu, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: nArAyaNapUrvatApinIyopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: nArAyaNapUrvatApinIyopaniShat
+engtitle: nArAyaNapUrvatApinIyopaniShat
+itxtitle: nArAyaNapUrvatApinIyopaniShat (vaiShNava)
+title: नारायणपूर्वतापिनीयोपनिषत् (वैष्णव)
 
-+++
+---
   
  नारायणपूर्वतापिनीयोपनिषत्   
 प्रथमः खण्डः ।  
@@ -234,7 +234,7 @@ title = "नारायणपूर्वतापिनीयोपनिष�
 सर्वनेत्रसुमुखसुप्रतीका द्वात्रिंशद्दलाः ।  
 ऐरावतपुण्डर्राकवामनकुमुदाञ्जनपुण्यदन्तसार्वभौम-  
 सुप्रतीकाक्षाश्चतुरश्रदेवताः ।  
-ॐ नमो नारायणायाष्टाक्षरसंज्ञावरणदेवतापूजा कर्तव्या ।  
+ॐ नमो नारायणायाष्टाक्षरसञ्ज्ञावरणदेवतापूजा कर्तव्या ।  
 स होवाच भगवान् य एवं वेद । इत्युपनिषत् ॥  
   
 इत्याथर्वणरहस्ये नारायणपर्वतापिनीये षष्ठः खण्डः  

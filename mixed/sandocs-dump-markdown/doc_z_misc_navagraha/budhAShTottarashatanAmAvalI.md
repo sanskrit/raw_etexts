@@ -1,25 +1,27 @@
-+++
-"Text title" = "budha aShTottarashatanaamavaliH"
-"File name" = "budha108.itx"
-itxtitle = "budhAShTottarashatanAmAvalI"
-engtitle = "budha aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, navagraha, nAmAvalI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com)"
-"Proofread by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler at gmx.net"
-Description-comments = "108 names for budha"
-Source = "Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal, Published by VIDVATH SABHA, Chennai - 600073"
-Indexextra = "(108 names)"
-"Latest update" = "Jan 25, 1998, June 3, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बुधाष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, navagraha, nAmAvalI
+Description-comments: 108 names for budha
+File name: budha108.itx
+Indexextra: (108 names)
+Language: Sanskrit
+Latest update: Jan 25, 1998, June 3, 2007
+Location: doc_z_misc_navagraha
+Proofread by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler
+  at gmx.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal,
+  Published by VIDVATH SABHA, Chennai - 600073
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: budha aShTottarashatanaamavaliH
+Texttype: nAmAvalI
+Transliterated by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com)
+engtitle: budha aShTottarashatanAmAvalI
+itxtitle: budhAShTottarashatanAmAvalI
+title: बुधाष्टोत्तरशतनामावली
 
-+++
+---
   
  बुधाष्टोत्तरशतनामावली   
   
@@ -49,7 +51,7 @@ title = "बुधाष्टोत्तरशतनामावली"
 ॐ विदुषे नमः ।  
 ॐ विद्वत्प्रीतिकराय नमः ।  
 ॐ ऋजवे नमः ।  
-ॐ विश्वानुकूलसंचाराय नमः ।  
+ॐ विश्वानुकूलसञ्चाराय नमः ।  
 ॐ विशेषविनयान्विताय नमः ।  
 ॐ विविधागमसारज्ञाय नमः ।  
 ॐ वीर्यवते नमः ।  
@@ -69,7 +71,7 @@ title = "बुधाष्टोत्तरशतनामावली"
 ॐ वरेण्याय नमः ।  
 ॐ वाग्विलक्षणाय नमः ।  
 ॐ सत्यवते नमः ।  
-ॐ सत्यसंकल्पाय नमः ।  
+ॐ सत्यसङ्कल्पाय नमः ।  
 ॐ सत्यबन्धवे नमः ।  
 ॐ सदादराय नमः ।  
 ॐ सर्वरोगप्रशमनाय नमः ।  
@@ -96,13 +98,13 @@ title = "बुधाष्टोत्तरशतनामावली"
 ॐ मखासक्ताय नमः ।  
 ॐ मगधाधिपतये नमः ।  
 ॐ हरये नमः । ७०  
-ॐ सौम्यवत्सरसंजाताय नमः ।  
+ॐ सौम्यवत्सरसञ्जाताय नमः ।  
 ॐ सोमप्रियकराय नमः ।  
 ॐ महते नमः ।  
 ॐ सिंहाधिरूढाय नमः ।  
 ॐ सर्वज्ञाय नमः ।  
 ॐ शिखिवर्णाय नमः ।  
-ॐ शिवंकराय नमः ।  
+ॐ शिवङ्कराय नमः ।  
 ॐ पीताम्बराय नमः ।  
 ॐ पीतवपुषे नमः ।  
 ॐ पीतच्छत्रध्वजाङ्किताय नमः । ८०  
@@ -112,7 +114,7 @@ title = "बुधाष्टोत्तरशतनामावली"
 ॐ आत्रेयगोत्रजाय नमः ।  
 ॐ अत्यन्तविनयाय नमः ।  
 ॐ विश्वपवनाय नमः ।  
-ॐ चाम्पेयपुष्पसंकाशाय नमः ।  
+ॐ चाम्पेयपुष्पसङ्काशाय नमः ।  
 ॐ चारणाय नमः ।  
 ॐ चारुभूषणाय नमः ।  
 ॐ वीतरागाय नमः । ९०  

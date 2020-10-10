@@ -1,23 +1,23 @@
-+++
-"Text title" = "varAhapanchakam"
-"File name" = "varAhapanchakam.itx"
-itxtitle = "varAhapanchakam"
-engtitle = "varAhapanchakam"
-Category = "panchaka, vishhnu, dashAvatAra, vAdirAja, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "vAdirAjayati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "November 25, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वराहपञ्चकम्"
+---
+Author: vAdirAjayati
+Category: panchaka, vishhnu, dashAvatAra, vAdirAja, vishnu
+File name: varAhapanchakam.itx
+Language: Sanskrit
+Latest update: November 25, 2006
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: varAhapanchakam
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: varAhapanchakam
+itxtitle: varAhapanchakam
+title: वराहपञ्चकम्
 
-+++
+---
   
  वराहपञ्चकम्   
   
@@ -27,7 +27,7 @@ title = "वराहपञ्चकम्"
 रक्षो-वक्षोविदारोल्लस-दमलदृशं नौमि लक्ष्मीनृसिंहम्॥१॥  
   
 वामाङ्कस्थ-धराकराञ्जलिपुट-प्रेमाति-हृष्टान्तरं  
-सीमातीतगुणं फणीन्द्रफणगं श्रीमान्य-पादांबुजम्।  
+सीमातीतगुणं फणीन्द्रफणगं श्रीमान्य-पादाम्बुजम्।  
 कामाद्याकरचक्र-शङ्खसुवरोद्धामाभयोद्यत्करं  
 सामादीड्य-वराहरूपममलं हे मानसेमं स्मर॥२॥  
   
@@ -35,12 +35,12 @@ title = "वराहपञ्चकम्"
 नीलाय निजभक्तौघ-पालाय हरये नमः॥३॥  
   
 धात्रीं शुभगुणपात्रीमादाय अशेषविबुध-मोदय।  
-शेषेतमिमदोषे धातुं हातुं च शंकिनं शंके॥४॥  
+शेषेतमिमदोषे धातुं हातुं च शङ्किनं शङ्के॥४॥  
   
 नमोऽस्तु हरये युक्ति गिरये निर्जितारये।  
 समस्त-गुरवे कल्पतरवे परवेदिनाम्॥५॥  
   
-॥इति श्रीवादिराजयति-कृतं वराहपञ्चकं संपूर्णम्॥  
+॥इति श्रीवादिराजयति-कृतं वराहपञ्चकं सम्पूर्णम्॥  
   
   
   

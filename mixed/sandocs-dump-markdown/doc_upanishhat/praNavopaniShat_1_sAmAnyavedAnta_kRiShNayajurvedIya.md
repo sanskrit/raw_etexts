@@ -1,22 +1,23 @@
-+++
-"Text title" = "praNavopaniShat 1"
-"File name" = "praNavopaniShat.itx"
-itxtitle = "praNavopaniShat 1 (sAmAnyavedAnta, kRiShNayajurvedIya)"
-engtitle = "praNavopaniShat 1"
-Category = "upanishhat, vedanta, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com, Radim Navyan radimnavyan at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned book)"
-"Latest update" = "October 20, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रणवोपनिषत् १ (सामान्यवेदान्त, कृइष्णयजुर्वेदीय)"
+---
+Category: upanishhat, vedanta, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: praNavopaniShat.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: October 20, 2017
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com, Radim Navyan radimnavyan at
+  gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: praNavopaniShat 1
+engtitle: praNavopaniShat 1
+itxtitle: praNavopaniShat 1 (sAmAnyavedAnta, kRiShNayajurvedIya)
+title: प्रणवोपनिषत् १ (सामान्यवेदान्त, कृइष्णयजुर्वेदीय)
 
-+++
+---
   
  प्रणवोपनिषत् १   
   

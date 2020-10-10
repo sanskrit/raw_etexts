@@ -1,22 +1,22 @@
-+++
-"Text title" = "sudarshana sahasranAma stotra"
-"File name" = "sudarshana1000.itx"
-itxtitle = "sudarshanasahasranAmastotram (vihageshvarasaMhitAntargatam)"
-engtitle = "sudarshana sahasranAma stotram"
-Category = "sahasranAma, vishhnu, stotra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Usha Iyer iyerku at gmail.com"
-"Proofread by" = "Usha Iyer iyerku at gmail.com"
-"Latest update" = "January 15, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुदर्शनसहस्रनामस्तोत्रम् (विहगेश्वरसंहितान्तर्गतम्)"
+---
+Category: sahasranAma, vishhnu, stotra
+File name: sudarshana1000.itx
+Language: Sanskrit
+Latest update: January 15, 2011
+Location: doc_vishhnu
+Proofread by: Usha Iyer iyerku at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sudarshana sahasranAma stotra
+Texttype: stotra
+Transliterated by: Usha Iyer iyerku at gmail.com
+engtitle: sudarshana sahasranAma stotram
+itxtitle: sudarshanasahasranAmastotram (vihageshvarasaMhitAntargatam)
+title: सुदर्शनसहस्रनामस्तोत्रम् (विहगेश्वरसंहितान्तर्गतम्)
 
-+++
+---
   
  श्रीसुदर्शनसहस्रनामस्तोत्रम्   
   

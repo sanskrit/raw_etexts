@@ -1,22 +1,22 @@
-+++
-"Text title" = "chakreshvarIstotram"
-"File name" = "chakreshvarIstotram.itx"
-itxtitle = "chakreshvarIstotram (jInadattasUrivirachitam)"
-engtitle = "chakreshvarIstotram"
-Category = "devii, devI, jaina"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Jinadattasuri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चक्रेश्वरीस्तोत्रम् (जीनदत्तसूरिविरचितम्)"
+---
+Author: Jinadattasuri
+Category: devii, devI, jaina
+File name: chakreshvarIstotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: chakreshvarIstotram
+engtitle: chakreshvarIstotram
+itxtitle: chakreshvarIstotram (jInadattasUrivirachitam)
+title: चक्रेश्वरीस्तोत्रम् (जीनदत्तसूरिविरचितम्)
 
-+++
+---
   
  श्रीचक्रेश्वरीस्तोत्रम्   
 श्रीजीनदत्तसूरिविरचितं  
@@ -32,7 +32,7 @@ title = "चक्रेश्वरीस्तोत्रम् (जीनद
      पात्रं जीवमनःप्रसादजनकं भाति त्वदीयं मुखम् ॥ २॥  
   
 श्रीचकेश्वरी युष्मदाननरविं पश्यन्ति नैवोदितं  
-     ध्वस्तध्वान्तततिं प्रदत्तसुगतिं संप्राप्तमार्गस्थितिम् ।  
+     ध्वस्तध्वान्तततिं प्रदत्तसुगतिं सम्प्राप्तमार्गस्थितिम् ।  
 ते ज्ञेया इह कौशिका इव जना हेयाः सतां सर्वथा  
      नादेयाः कुदृशो भवन्ति भगवन्युच्चैःशिव वाञ्छताम् ॥ ३॥  
   
@@ -43,7 +43,7 @@ title = "चक्रेश्वरीस्तोत्रम् (जीनद
   
 श्रीचकेश्वरि ये स्तुवन्ति भवतीं भव्या भवद्भक्तयः  
      श्रीसर्वज्ञपदारविन्दयुगले विश्राममातन्वतीम् ।  
-भृङ्गीवत्सदृशां सुखं त्वसदृशं संप्रार्थयन्तो जना-  
+भृङ्गीवत्सदृशां सुखं त्वसदृशं सम्प्रार्थयन्तो जना-  
      स्ते स्युर्ध्वस्तविपत्तयः सुमतयः स्पष्टं जितारातयः ॥ ५॥  
   
 श्रीचक्रेश्वरि नित्यमेव भवतीनामाऽपि ये सादरं  

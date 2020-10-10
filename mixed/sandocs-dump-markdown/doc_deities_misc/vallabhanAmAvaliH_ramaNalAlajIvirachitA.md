@@ -1,24 +1,24 @@
-+++
-"Text title" = "vallabhanAmAvalI"
-"File name" = "vallabhanAmAvalI.itx"
-itxtitle = "vallabhanAmAvaliH (ramaNalAlajIvirachitA)"
-engtitle = "vallabhanAmAvalI"
-Category = "deities_misc, gurudev, puShTimArgIya, nAmAvalI, trishatI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "ramaNalAlajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्लभनामावलिः (रमणलालजीविरचिता)"
+---
+Author: ramaNalAlajI
+Category: deities_misc, gurudev, puShTimArgIya, nAmAvalI, trishatI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: vallabhanAmAvalI.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vallabhanAmAvalI
+engtitle: vallabhanAmAvalI
+itxtitle: vallabhanAmAvaliH (ramaNalAlajIvirachitA)
+title: वल्लभनामावलिः (रमणलालजीविरचिता)
 
-+++
+---
   
  श्रीवल्लभनामावली   
   
@@ -47,7 +47,7 @@ title = "वल्लभनामावलिः (रमणलालजीवि
 २२। अतिसौन्दर्यनिकरप्राप्तकौमारशोभनाय नमः ।  
 २३। पञ्चमाब्दोपनयनाय नमः ।  
 २४। गायत्रीव्रतधारकाय नमः ।  
-२५। गुरुब्रह्मकुलावासंज्ञापिताखिलसत्क्रियाय नमः ।  
+२५। गुरुब्रह्मकुलावासञ्ज्ञापिताखिलसत्क्रियाय नमः ।  
 २६। सकृन्निगदसम्प्राप्तसर्वविद्याविशारदाय नमः ।  
 २७। महातेजःप्रकटनाय नमः ।  
 २८। महामाहात्म्यदर्शकाय नमः ।  

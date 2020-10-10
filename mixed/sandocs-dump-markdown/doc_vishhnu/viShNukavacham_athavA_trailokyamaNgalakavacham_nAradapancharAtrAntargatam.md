@@ -1,22 +1,23 @@
-+++
-"Text title" = "trailokyamangalakavacham"
-"File name" = "trailokyamangalakavacham.itx"
-itxtitle = "viShNukavacham athavA trailokyamaNgalakavacham (nAradapancharAtrAntargatam)"
-engtitle = "Trailokyamangalakavacham from Naradapancharatra"
-Category = "kavacha, vishhnu, vishnu_misc, vishnu, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Singanallur Ganesan singanallur at gmail.com"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "June 3, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुकवचम् अथवा त्रैलोक्यमण्गलकवचम् (नारदपञ्चरात्रान्तर्गतम्)"
+---
+Category: kavacha, vishhnu, vishnu_misc, vishnu, mangala
+File name: trailokyamangalakavacham.itx
+Language: Sanskrit
+Latest update: June 3, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: trailokyamangalakavacham
+Transliterated by: Singanallur Ganesan singanallur at gmail.com
+engtitle: Trailokyamangalakavacham from Naradapancharatra
+itxtitle: viShNukavacham athavA trailokyamaNgalakavacham (nAradapancharAtrAntargatam)
+title: विष्णुकवचम् अथवा त्रैलोक्यमण्गलकवचम् (नारदपञ्चरात्रान्तर्गतम्)
 
-+++
+---
   
  विष्णुकवचं अथवा त्रैलोक्यमङ्गलकवचं   
   

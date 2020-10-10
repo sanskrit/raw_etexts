@@ -1,22 +1,22 @@
-+++
-"Text title" = "Sarasvati Stuti 3)"
-"File name" = "sarasvatIstutiH3.itx"
-itxtitle = "sarasvatIstutiH 3 (sitavarNAlaNkAre sarasvati"
-engtitle = "sarasvatIstutiH 3"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तुतिः ३ (सितवर्णालण्कारे सरस्वति"
+---
+Category: devii, sarasvatI, devI
+File name: sarasvatIstutiH3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Sarasvati Stuti 3)
+engtitle: sarasvatIstutiH 3
+itxtitle: sarasvatIstutiH 3 (sitavarNAlaNkAre sarasvati
+title: सरस्वतीस्तुतिः ३ (सितवर्णालण्कारे सरस्वति
 
-+++
+---
   
  सरस्वतीस्तुतिः ३   
 ॐ सितवर्णालङ्कारे सरस्वति समस्तवाङ्मयाधारे ! ।  

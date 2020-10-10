@@ -1,23 +1,23 @@
-+++
-"Text title" = "panchAyudhastutiH"
-"File name" = "panchAyudhastutiH.itx"
-itxtitle = "panchAyudhastutiH"
-engtitle = "panchAyudhastutiH"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Swamini Tattvapriyananda tattvapriya3108 at gmail.com"
-"Description/comments" = "Stotra Sringeri"
-Indexextra = "(Scan)"
-"Latest update" = "November 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पञ्चायुधस्तुतिः"
+---
+Category: vishhnu
+Description/comments: Stotra Sringeri
+File name: panchAyudhastutiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 17, 2018
+Location: doc_vishhnu
+Proofread by: Swamini Tattvapriyananda tattvapriya3108 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: panchAyudhastutiH
+Transliterated by: NA
+engtitle: panchAyudhastutiH
+itxtitle: panchAyudhastutiH
+title: पञ्चायुधस्तुतिः
 
-+++
+---
   
  पञ्चायुधस्तुतिः   
                  श्रीः  

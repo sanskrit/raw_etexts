@@ -1,24 +1,24 @@
-+++
-"Text title" = "ShoDashIsahasranAmastotra"
-"File name" = "ShoDashIsahasranAmastotra.itx"
-itxtitle = "ShoDashIsahasranAmastotram"
-engtitle = "Shodashisahasranamastotra"
-Category = "sahasranAma, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pankaj Dubey dr.pankaj.dubey at gmail.com"
-"Proofread by" = "Pankaj Dubey, PSA Easwaran"
-Source = "vAmakeshvaratantre"
-"Latest update" = "August 27, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षोडशीसहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, devii, dashamahAvidyA, stotra, devI
+File name: ShoDashIsahasranAmastotra.itx
+Language: Sanskrit
+Latest update: August 27, 2015
+Location: doc_devii
+Proofread by: Pankaj Dubey, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: vAmakeshvaratantre
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ShoDashIsahasranAmastotra
+Texttype: stotra
+Transliterated by: Pankaj Dubey dr.pankaj.dubey at gmail.com
+engtitle: Shodashisahasranamastotra
+itxtitle: ShoDashIsahasranAmastotram
+title: षोडशीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीषोडशीसहस्रनामस्तोत्रम्   
   

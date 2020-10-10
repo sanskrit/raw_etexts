@@ -1,25 +1,26 @@
-+++
-"Text title" = "rudraprashnaH svara sahitam"
-"File name" = "rudra.itx"
-itxtitle = "rudraprashnaH sasvaraH"
-engtitle = "Rudraprashna"
-Category = "veda, svara, shiva"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-"Proofread by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-Description-comments = "Mantrapushpam"
-Indexextra = "(Also rudram (praise namakam and chamakam or rudrAdhyAya) (Meaning 1, 2, 3, 4, completevidhi, Roman, Skt Dvng, Malayalam) ((without accents)), translation)"
-"Latest update" = "June 14, 2000, October 29, 2010, June 22, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रप्रश्नः सस्वरः"
+---
+Author: Vedic Tradition
+Category: veda, svara, shiva
+Description-comments: Mantrapushpam
+File name: rudra.itx
+Indexextra: (Also rudram (praise namakam and chamakam or rudrAdhyAya) (Meaning 1,
+  2, 3, 4, completevidhi, Roman, Skt Dvng, Malayalam) ((without accents)), translation)
+Language: Sanskrit
+Latest update: June 14, 2000, October 29, 2010, June 22, 2011
+Location: doc_veda
+Proofread by: Rajagopal Iyer (rajsand at yahoo.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: veda
+Text title: rudraprashnaH svara sahitam
+Texttype: svara
+Transliterated by: Rajagopal Iyer (rajsand at yahoo.com)
+engtitle: Rudraprashna
+itxtitle: rudraprashnaH sasvaraH
+title: रुद्रप्रश्नः सस्वरः
 
-+++
+---
   
  रुद्रप्रश्नः   
   
@@ -31,7 +32,7 @@ title = "रुद्रप्रश्नः सस्वरः"
   
 ब्रह्माण्डव्याप्तदेहा भसितहिमरुचा भासमाना भुजङ्गैः  
 कण्ठे कालाः कपर्दाकलित शशिकलाश्चण्डकोदण्डहस्ताः ।  
-त्र्यक्षा रुद्राक्षमालाः प्रणतभयहराः शांभवा मूर्तिभेदाः  
+त्र्यक्षा रुद्राक्षमालाः प्रणतभयहराः शाम्भवा मूर्तिभेदाः  
 रुद्राः श्रीरुद्रसूक्तप्रकटितविभवा नः प्रयच्छन्तु सौख्यम् ॥  
   
          ॥ अथ श्री॒ रुद्रप्रश्नः ॥  
@@ -53,7 +54,7 @@ title = "रुद्रप्रश्नः सस्वरः"
 या ते॑ रुद्र शि॒वा त॒नूरघो॒राऽपा॑पकाशिनी ।  
 तया॑ नस्त॒नुवा॒ शन्त॑मया॒ गिरि॑शन्ता॒भिचा॑कशीहि ॥  
   
-यामिषुं॑ गिरिशंत॒ हस्ते॒ बिभ॒र्ष्यस्त॑वे।  
+यामिषुं॑ गिरिशन्त॒ हस्ते॒ बिभ॒र्ष्यस्त॑वे।  
 शि॒वां गि॑रित्र॒ तां कु॑रु॒ मा हिꣳ॑सीः॒ पुरु॑षं॒ जग॑त् ॥  
   
 शि॒वेन॒ वच॑सा त्वा॒ गिरि॒शाच्छा॑वदामसि ।  
@@ -93,7 +94,7 @@ title = "रुद्रप्रश्नः सस्वरः"
   
 नम॑स्ते अस्तु भगवन्विश्वेश्व॒राय॑ महादे॒वाय॑ त्र्यम्ब॒काय॑  
 त्रिपुरान्त॒काय॑ त्रिकाग्निका॒लाय॑ कालाग्निरु॒द्राय॑  var  त्रिकालाग्नि  
-नीलक॒ण्ठाय॑ मृत्युंज॒याय॑ सर्वेश्व॒राय॑  
+नीलक॒ण्ठाय॑ मृत्युञ्ज॒याय॑ सर्वेश्व॒राय॑  
 सदाशि॒वाय॑ श्रीमन्महादे॒वाय॒ नमः॑ ॥१ ॥  
   
 नमो॒ हिर॑ण्यबाहवे सेना॒न्ये॑ दि॒शां च॒ पत॑ये॒ नमो॒  
@@ -138,7 +139,7 @@ title = "रुद्रप्रश्नः सस्वरः"
 नमो॑ र॒थिभ्यो॑ऽर॒थेभ्य॑श्च वो॒ नमो॒  
 नमो॒ रथे᳚भ्यो॒ रथ॑पतिभ्यश्च वो॒ नमो॒  
 नमः॒ सेना᳚भ्यः सेना॒निभ्य॑श्च वो॒ नमो॒  
-नमः॑ क्ष॒त्तृभ्यः॑ संग्रही॒तृभ्य॑श्च वो॒ नमो॒  
+नमः॑ क्ष॒त्तृभ्यः॑ सङ्ग्रही॒तृभ्य॑श्च वो॒ नमो॒  
 नम॒स्तक्ष॑भ्यो रथका॒रेभ्य॑श्च वो॒ नमो॒  
 नमः॒ कुला॑लेभ्यः क॒र्मारे᳚भ्यश्च वो॒ नमो॒  
 नमः॑ पुञ्जिष्टे᳚भ्यो निषा॒देभ्य॑श्च वो॒ नमो॒  
@@ -192,7 +193,7 @@ title = "रुद्रप्रश्नः सस्वरः"
 नमो॑ अग्रेव॒धाय॑ च दूरेव॒धाय॑ च॒  
 नमो॑ ह॒न्त्रे च॒ हनी॑यसे च॒ नमो॑ वृ॒क्षेभ्यो॒ हरि॑केशेभ्यो॒  
 नम॑स्ता॒राय॒ नम॑श्शं॒भवे॑ च मयो॒भवे॑ च॒  
-नमः॑ शंक॒राय॑ च मयस्क॒राय॑ च॒  
+नमः॑ शङ्क॒राय॑ च मयस्क॒राय॑ च॒  
 नमः॑ शि॒वाय॑  च शि॒वत॑राय च॒  
 नम॒स्तीर्थ्या॑य च॒ कूल्या॑य च॒  
 नमः॑ पा॒र्या॑य चावा॒र्या॑य च॒  
@@ -221,7 +222,7 @@ title = "रुद्रप्रश्नः सस्वरः"
   
 द्रापे॒ अन्ध॑सस्पते॒ दरि॑द्र॒न्नील॑लोहित ।  
 ए॒षां पुरु॑षाणामे॒षां प॑शू॒नां मा भेर्माऽरो॒ मो ए॑षां॒  
-किंच॒नाम॑मत् ॥ १०-१ ॥  
+किञ्च॒नाम॑मत् ॥ १०-१ ॥  
   
 या ते॑ रुद्र शि॒वा त॒नूः शि॒वा वि॒श्वाह॑ भेषजी ।  
 शि॒वा रु॒द्रस्य॑ भेष॒जी तया॑ नो मृड जी॒वसे᳚ ॥ १०-२ ॥  
@@ -276,7 +277,7 @@ title = "रुद्रप्रश्नः सस्वरः"
   
 नील॑ग्रीवाः शिति॒कण्ठा॒ दिवꣳ॑ रु॒द्रा उप॑श्रिताः ॥ ११-४ ॥  
   
-ये वृ॒क्षेषु॑ स॒स्पिंज॑रा॒ नील॑ग्रीवा॒ विलो॑हिताः ॥ ११-५ ॥  
+ये वृ॒क्षेषु॑ स॒स्पिञ्ज॑रा॒ नील॑ग्रीवा॒ विलो॑हिताः ॥ ११-५ ॥  
   
 ये भू॒ताना॒मधि॑पतयो विशि॒खासः॑ कप॒र्दिनः॑ ॥ ११-६ ॥  
   

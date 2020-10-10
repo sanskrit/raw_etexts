@@ -1,26 +1,28 @@
-+++
-"Text title" = "devi aparAdha kShamApana stotra"
-"File name" = "dapradh.itx"
-itxtitle = "devI aparAdhakShamApaNastotram (shaNkarAchAryavirachitam)"
-engtitle = "devi aparAdha kShamApana stotra"
-Category = "devii, durgA, stotra, devI, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu ek879 at cleveland.freenet.edu"
-"Proofread by" = "Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu ek879 at cleveland.freenet.edu"
-Description-comments = "yogeshvarI stotra"
-Indexextra = "(stotra)"
-"Latest update" = "January 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवी अपराधक्षमापणस्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: devii, durgA, stotra, devI, shankarAchArya
+Description-comments: yogeshvarI stotra
+File name: dapradh.itx
+Indexextra: (stotra)
+Language: Sanskrit
+Latest update: January 19, 2019
+Location: doc_devii
+Proofread by: Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu ek879
+  at cleveland.freenet.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devi aparAdha kShamApana stotra
+Texttype: stotra
+Transliterated by: Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu
+  ek879 at cleveland.freenet.edu
+engtitle: devi aparAdha kShamApana stotra
+itxtitle: devI aparAdhakShamApaNastotram (shaNkarAchAryavirachitam)
+title: देवी अपराधक्षमापणस्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  देव्यपराधक्षमापणस्तोत्रम्   
           ॥ अथ देव्यपराधक्षमापणस्तोत्रम् ॥  

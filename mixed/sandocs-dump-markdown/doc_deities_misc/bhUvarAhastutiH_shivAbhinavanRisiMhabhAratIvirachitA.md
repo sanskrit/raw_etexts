@@ -1,24 +1,24 @@
-+++
-"Text title" = "bhUvarAhastutiH"
-"File name" = "bhUvarAhastutiH.itx"
-itxtitle = "bhUvarAhastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "bhUvarAhastutiH"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भूवराहस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: bhUvarAhastutiH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: bhUvarAhastutiH
+engtitle: bhUvarAhastutiH
+itxtitle: bhUvarAhastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: भूवराहस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीभूवराहस्तुतिः   
   

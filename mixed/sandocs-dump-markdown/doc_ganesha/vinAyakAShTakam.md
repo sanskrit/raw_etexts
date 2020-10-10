@@ -1,21 +1,21 @@
-+++
-"Text title" = "Vinayaka Ashtakam"
-"File name" = "vinAyakAShTakam.itx"
-itxtitle = "vinAyakAShTakam"
-engtitle = "vinAyakAShTakam"
-Category = "ganesha, aShTaka"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विनायकाष्टकम्"
+---
+Category: ganesha, aShTaka
+File name: vinAyakAShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_ganesha
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Vinayaka Ashtakam
+engtitle: vinAyakAShTakam
+itxtitle: vinAyakAShTakam
+title: विनायकाष्टकम्
 
-+++
+---
   
  विनायकाष्टकम्   
 एकदन्तमीशपुत्रमाखुवाहमीश्वरं  

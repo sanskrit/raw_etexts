@@ -1,24 +1,24 @@
-+++
-"Text title" = "strIguru dhyAna stutiH kavachaM gItA vividha tantre"
-"File name" = "strIgurustutikavachagItA.itx"
-itxtitle = "strIguru dhyAnastutikavachaM gItA vividha tantre"
-engtitle = "Striguru Dhyanam Stuti Kavacha and Gita from various tantras"
-Category = "kavacha, deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://muktalib5.org"
-"Proofread by" = "http://muktalib5.org, DPD"
-Description-comments = "strIgurudhyAnaM guptasAdhanatantre dvitIyapaTale"
-Indexextra = "(from different tantras)"
-"Latest update" = "August 16, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्त्रीगुरु ध्यानस्तुतिकवचं गीता विविध तन्त्रे"
+---
+Category: kavacha, deities_misc, gurudev
+Description-comments: strIgurudhyAnaM guptasAdhanatantre dvitIyapaTale
+File name: strIgurustutikavachagItA.itx
+Indexextra: (from different tantras)
+Language: Sanskrit
+Latest update: August 16, 2013
+Location: doc_deities_misc
+Proofread by: http://muktalib5.org, DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: strIguru dhyAna stutiH kavachaM gItA vividha tantre
+Transliterated by: http://muktalib5.org
+engtitle: Striguru Dhyanam Stuti Kavacha and Gita from various tantras
+itxtitle: strIguru dhyAnastutikavachaM gItA vividha tantre
+title: स्त्रीगुरु ध्यानस्तुतिकवचं गीता विविध तन्त्रे
 
-+++
+---
   
  स्त्रीगुरु ध्यानस्तुतीकवचं गीता विविध तन्त्रे   
   

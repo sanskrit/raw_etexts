@@ -1,21 +1,21 @@
-+++
-"Text title" = "sUryAryAstotram yAjnvalkyavirachitaM"
-"File name" = "sUryAryAstotram.itx"
-itxtitle = "sUryAryAstotram"
-engtitle = "Suryaryastotra"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA, Karthik Raman"
-"Latest update" = "January 9, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यार्यास्तोत्रम्"
+---
+Category: navagraha, stotra
+File name: sUryAryAstotram.itx
+Language: Sanskrit
+Latest update: January 9, 2020
+Location: doc_z_misc_navagraha
+Proofread by: NA, Karthik Raman
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryAryAstotram yAjnvalkyavirachitaM
+Texttype: stotra
+engtitle: Suryaryastotra
+itxtitle: sUryAryAstotram
+title: सूर्यार्यास्तोत्रम्
 
-+++
+---
   
  सूर्यार्यास्तोत्रम्   
 श्री गणेशाय नमः ॥  

@@ -1,28 +1,28 @@
-+++
-"Text title" = "aNgArakAShTottarashatanAmastotram"
-"File name" = "angAraka108nAmastotra.itx"
-itxtitle = "aNgArakAShTottarashatanAmastotram"
-engtitle = "angAraka aShTottara shatanAma stotram"
-Category = "aShTottarashatanAma, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manda Krishna Srikanth mandaksk at gmail.com"
-"Proofread by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-"Latest update" = "November 19, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अण्गारकाष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, navagraha, stotra
+File name: angAraka108nAmastotra.itx
+Language: Sanskrit
+Latest update: November 19, 2012
+Location: doc_z_misc_navagraha
+Proofread by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: aNgArakAShTottarashatanAmastotram
+Texttype: stotra
+Transliterated by: Manda Krishna Srikanth mandaksk at gmail.com
+engtitle: angAraka aShTottara shatanAma stotram
+itxtitle: aNgArakAShTottarashatanAmastotram
+title: अण्गारकाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीअङ्गारकाष्टोत्तरशतनामस्तोत्रम्   
   
 मङ्गल बीज मन्त्र - ॐ क्राँ क्रीं क्रौं सः भौमाय नमः ॥  
   
-महीसुतो महाभागो मंगळो मंगळप्रदः ।  
+महीसुतो महाभागो मङ्गळो मङ्गळप्रदः ।  
 महावीरो महाशूरो महाबलपराक्रमः ॥ १॥  
   
 महारौद्रो महाभद्रो माननीयो दयाकरः ।  
@@ -58,10 +58,10 @@ title = "अण्गारकाष्टोत्तरशतनामस्�
 शक्तिशूलधरश्शक्तः शस्त्रविद्याविशारदः ।  
 तार्किकः तामसाधारः तपस्वी ताम्रलोचनः ॥ १२॥  
   
-तप्तकाञ्चनसंकाशो रक्तकिञ्जल्कसन्निभः ।  
+तप्तकाञ्चनसङ्काशो रक्तकिञ्जल्कसन्निभः ।  
 गोत्राधिदेवो गोमध्यचरो गुणविभूषणः ॥ १३॥  
   
-असृजंगारकोऽवन्तीदेशाधीशो जनार्दनः ।  
+असृजङ्गारकोऽवन्तीदेशाधीशो जनार्दनः ।  
 सूर्ययाम्यप्रदेशस्थो यावनो याम्यदिऽग्मुखः ॥ १४॥  
   
 त्रिकोणमण्डलगतो त्रिदशाधिपसन्नुतः ।  

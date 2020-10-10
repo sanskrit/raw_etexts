@@ -1,22 +1,22 @@
-+++
-"Text title" = "mahAkavishrIbhAsapraNItaM karNabhAram"
-"File name" = "karNabhAra.itx"
-itxtitle = "karNabhAram (bhAsapraNItam)"
-engtitle = "Karnabharam of Bhasa"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "Drama"
-"Transliterated by" = "questions.sanskrit at gmail.com http://learnsanskrit.org/"
-"Proofread by" = "questions.sanskrit at gmail.com"
-"Latest update" = "January 23, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कर्णभारम् (भासप्रणीतम्)"
+---
+Category: major_works
+File name: karNabhAra.itx
+Language: Sanskrit
+Latest update: January 23, 2011
+Location: doc_z_misc_major_works
+Proofread by: questions.sanskrit at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Drama
+Sublocation: major_works
+Text title: mahAkavishrIbhAsapraNItaM karNabhAram
+Texttype: pramukha
+Transliterated by: questions.sanskrit at gmail.com http://learnsanskrit.org/
+engtitle: Karnabharam of Bhasa
+itxtitle: karNabhAram (bhAsapraNItam)
+title: कर्णभारम् (भासप्रणीतम्)
 
-+++
+---
   
  महाकविश्रीभासप्रणीतं कर्णभारम्   
   
@@ -42,7 +42,7 @@ title = "कर्णभारम् (भासप्रणीतम्)"
   
 सूत्रधारः -- भवतु, विज्ञातम् ।  
 सङ्ग्रामे तुमुले जाते कर्णाय कलिताञ्जलिः ।  
-निवेदयति संभ्रान्तो भृत्यो दुर्योधनाज्ञया ॥ २॥  
+निवेदयति सम्भ्रान्तो भृत्यो दुर्योधनाज्ञया ॥ २॥  
   
 (निष्क्राण्तः)  
   
@@ -312,7 +312,7 @@ title = "कर्णभारम् (भासप्रणीतम्)"
   
 शक्रः -- (गृहीत्वा आत्मगतम्) गृहीते एते । पूर्वमेवाहम्  
 अर्जुनविजयार्थं सर्वदेवैर्यत् समर्थितं, तदिदानीं मयानुष्ठितम्  
-। तस्मादहमप्यैरावतमारुह्यार्जुनकर्णयोर्युद्धविशेषंपश्यामि ।  
+। तस्मादहमप्यैरावतमारुह्यार्जुनकर्णयोर्युद्धविशेषम्पश्यामि ।  
 (निष्क्रान्तः)  
   
 शल्यः -- अङ्गराज ! वञ्चितः खलु भवान् ।  

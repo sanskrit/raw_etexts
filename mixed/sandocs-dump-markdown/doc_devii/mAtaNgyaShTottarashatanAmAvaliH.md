@@ -1,24 +1,24 @@
-+++
-"Text title" = "mAtangI aShTottarashatanAmAvaliH"
-"File name" = "mAtangIaShTottarashatanAmAvaliH.itx"
-itxtitle = "mAtaNgyaShTottarashatanAmAvaliH"
-engtitle = "mAtangyaShTottarashatanAmAvaliH"
-Category = "aShTottarashatanAmAvalI, devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातण्ग्यष्टोत्तरशतनामावलिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: aShTottarashatanAmAvalI, devii, devI, dashamahAvidyA
+File name: mAtangIaShTottarashatanAmAvaliH.itx
+Indexextra: (stotramanjari 2)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mAtangI aShTottarashatanAmAvaliH
+Transliterated by: Shree Devi Kumar
+engtitle: mAtangyaShTottarashatanAmAvaliH
+itxtitle: mAtaNgyaShTottarashatanAmAvaliH
+title: मातण्ग्यष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीमातङ्गी अष्टोत्तरशतनामावलिः   
   
@@ -105,7 +105,7 @@ title = "मातण्ग्यष्टोत्तरशतनामाव�
 ॐ जयायै नमः ।  
 ॐ जाग्रतीयोग्यरूपायै नमः ।  
 ॐ जयाङ्गायै नमः ।  
-ॐ जपध्यानसन्तुष्टसंज्ञायै नमः ।  
+ॐ जपध्यानसन्तुष्टसञ्ज्ञायै नमः ।  
 ॐ जयप्राणरूपायै नमः ।  
 ॐ जयस्वर्णदेहायै नमः ।  
 ॐ जयज्वालिनीयामिन्यै नमः ।  

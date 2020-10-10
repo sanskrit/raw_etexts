@@ -1,22 +1,22 @@
-+++
-"Text title" = "Aghorakavacham or Aghora Murti Kavacham"
-"File name" = "aghoramUrtikavacham.itx"
-itxtitle = "aghorakavacham athavA aghoramUrtikavacham"
-engtitle = "aghoramUrtikavacham"
-Category = "shiva, kavacha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Indexextra = "(Manuscript)"
-"Latest update" = "March 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अघोरकवचम् अथवा अघोरमूर्तिकवचम्"
+---
+Category: shiva, kavacha
+File name: aghoramUrtikavacham.itx
+Indexextra: (Manuscript)
+Language: Sanskrit
+Latest update: March 25, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Aghorakavacham or Aghora Murti Kavacham
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: aghoramUrtikavacham
+itxtitle: aghorakavacham athavA aghoramUrtikavacham
+title: अघोरकवचम् अथवा अघोरमूर्तिकवचम्
 
-+++
+---
   
  अघोरकवचम् अघोरमूर्तिकवचम्   
 ॐ श्रीगणेशाय नमः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "shankarAryapadAvalamvasuvarNamAlAstutiH"
-"File name" = "shankarAryapadAvalamvasuvarNamAlAstutiH.itx"
-itxtitle = "shaNkarAryapadAvalamvasuvarNamAlAstutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "shankarAryapadAvalamvasuvarNamAlAstutiH"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudeva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शण्करार्यपदावलम्वसुवर्णमालास्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva
+File name: shankarAryapadAvalamvasuvarNamAlAstutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudeva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shankarAryapadAvalamvasuvarNamAlAstutiH
+engtitle: shankarAryapadAvalamvasuvarNamAlAstutiH
+itxtitle: shaNkarAryapadAvalamvasuvarNamAlAstutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: शण्करार्यपदावलम्वसुवर्णमालास्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीशङ्करार्यपदावलम्व सुवर्णमालास्तुतिः   
 (श्रीकालटिक्षेत्रे)  

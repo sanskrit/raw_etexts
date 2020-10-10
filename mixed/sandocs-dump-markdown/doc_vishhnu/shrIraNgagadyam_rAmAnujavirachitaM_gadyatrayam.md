@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Rangagadyam"
-"File name" = "shrIrangagadyam.itx"
-itxtitle = "shrIraNgagadyam (rAmAnujavirachitaM gadyatrayam)"
-engtitle = "shrIrangagadyam"
-Category = "gadyam, vishhnu, krishna, rAmAnuja, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "rAmAnuja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishna Srikanth Manda mandaksk at gmail.com"
-"Proofread by" = "Krishna Srikanth Manda, Rajnarayanan C K krajnara at gmail.com"
-Description-comments = "One of the three gadyam-s (gadyatrayam)"
-"Latest update" = "October 4, 2014, November 27, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीरण्गगद्यम् (रामानुजविरचितं गद्यत्रयम्)"
+---
+Author: rAmAnuja
+Category: gadyam, vishhnu, krishna, rAmAnuja, vishnu
+Description-comments: One of the three gadyam-s (gadyatrayam)
+File name: shrIrangagadyam.itx
+Language: Sanskrit
+Latest update: October 4, 2014, November 27, 2016
+Location: doc_vishhnu
+Proofread by: Krishna Srikanth Manda, Rajnarayanan C K krajnara at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Rangagadyam
+Transliterated by: Krishna Srikanth Manda mandaksk at gmail.com
+engtitle: shrIrangagadyam
+itxtitle: shrIraNgagadyam (rAmAnujavirachitaM gadyatrayam)
+title: श्रीरण्गगद्यम् (रामानुजविरचितं गद्यत्रयम्)
 
-+++
+---
   
  श्रीरङ्गगद्यम्   
   

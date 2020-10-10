@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Subrahmanya Dvadashakshara Mantra"
-"File name" = "subrahmaNyadvAdashAkSharamantraH.itx"
-itxtitle = "subrahmaNyadvAdashAkSharamantraH"
-engtitle = "subrahmaNyadvAdashAkSharamantraH"
-Category = "subrahmanya, mantra, dvAdasha"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mahaperiaval trust"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-Description-comments = "Subramanya Sthuthi Manjari, Ed. S.V.Radhakrishna Sastri"
-Indexextra = "(Scan)"
-"Latest update" = "February 8, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यद्वादशाक्षरमन्त्रः"
+---
+Category: subrahmanya, mantra, dvAdasha
+Description-comments: Subramanya Sthuthi Manjari, Ed. S.V.Radhakrishna Sastri
+File name: subrahmaNyadvAdashAkSharamantraH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 8, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Shri Subrahmanya Dvadashakshara Mantra
+Transliterated by: Mahaperiaval trust
+engtitle: subrahmaNyadvAdashAkSharamantraH
+itxtitle: subrahmaNyadvAdashAkSharamantraH
+title: सुब्रह्मण्यद्वादशाक्षरमन्त्रः
 
-+++
+---
   
  श्रीसुब्रह्मण्यद्वादशाक्षरमन्त्रः   
 अथ तत्त्वाचमनम्-  

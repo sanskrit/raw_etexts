@@ -1,22 +1,22 @@
-+++
-"Text title" = "shampAkagItA"
-"File name" = "shampaakagiitaa.itx"
-itxtitle = "shampAkagItA"
-engtitle = "shaMpAkagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-Indexextra = "(Mahabharata, Santi Parva, Chapter 173)"
-"Latest update" = "June 2, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शम्पाकगीता"
+---
+Category: gItA, giitaa
+File name: shampaakagiitaa.itx
+Indexextra: (Mahabharata, Santi Parva, Chapter 173)
+Language: Sanskrit
+Latest update: June 2, 1998
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: shampAkagItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: shaMpAkagItA
+itxtitle: shampAkagItA
+title: शम्पाकगीता
 
-+++
+---
   
  शम्पाकगीता   
   
@@ -27,7 +27,7 @@ title = "शम्पाकगीता"
   
   भीष्म उवाच ।  
 अत्राप्युदाहरन्तीममितिहासं पुरातनम् ।  
-शंपाकेनेह मुक्तेन गीतं शान्तिगतेन च ॥ २॥  
+शम्पाकेनेह मुक्तेन गीतं शान्तिगतेन च ॥ २॥  
   
 अब्रवीन्मां पुरा कश्चिद्ब्राह्मणस्त्यागमाश्रितः ।  
 क्लिश्यमानः कुदारेण कुचैलेन बुभुक्षया ॥ ३॥  
@@ -90,10 +90,10 @@ title = "शम्पाकगीता"
 नात्यक्त्वा चाभयः शेते त्यक्त्वा सर्वं सुखी भव ॥ २२॥  
   
 इत्येतद्धास्तिनपुरे ब्राह्मणेनोपवर्णितम् ।  
-शंपाकेन पुरा मह्यं तस्मात्त्यागः परो मतः ॥ २३॥  
+शम्पाकेन पुरा मह्यं तस्मात्त्यागः परो मतः ॥ २३॥  
   
    इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि  
-  शंपाकगीतायां षट्सप्त्यत्यधिकशततमोऽध्यायः ॥ १७६॥  
+  शम्पाकगीतायां षट्सप्त्यत्यधिकशततमोऽध्यायः ॥ १७६॥  
   
 ॥ इति॥  
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "gurvaShTottarashatanAmAvalistotram gItAsAra"
-"File name" = "gurvaShTottarashatanAmAvalistotramgItAsAra.itx"
-itxtitle = "gurvaShTottarashatanAmAvalistotram (gItAsAra)"
-engtitle = "gurvaShTottarashatanAmAvalistotram gItAsAra"
-Category = "aShTottarashatanAma, deities_misc, gurudev, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "R. Krishnaswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "On shrIchandrashekharabhAratI"
-"Latest update" = "June 8, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुर्वष्टोत्तरशतनामावलिस्तोत्रम् (गीतासार)"
+---
+Author: R. Krishnaswami
+Category: aShTottarashatanAma, deities_misc, gurudev, nAmAvalI
+Description/comments: On shrIchandrashekharabhAratI
+File name: gurvaShTottarashatanAmAvalistotramgItAsAra.itx
+Language: Sanskrit
+Latest update: June 8, 2018
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurvaShTottarashatanAmAvalistotram gItAsAra
+engtitle: gurvaShTottarashatanAmAvalistotram gItAsAra
+itxtitle: gurvaShTottarashatanAmAvalistotram (gItAsAra)
+title: गुर्वष्टोत्तरशतनामावलिस्तोत्रम् (गीतासार)
 
-+++
+---
   
  श्रीगीतासार गुर्वष्टोत्तरशतनामावलिस्तोत्रम्   
 श्रीगणेशाय नमः ।  
@@ -33,8 +33,8 @@ title = "गुर्वष्टोत्तरशतनामावलिस�
 स्वकर्मनिरतः शान्तो धर्मात्माऽमितविक्रमः ।  
 मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः ॥ २॥  
   
-स्थिरबुद्धिरसंमूढो जितात्मा विगतस्पृहः ।  
-सर्वसङ्कल्पसंन्यासी भक्तः सङ्गविवर्जितः ॥ ३॥  
+स्थिरबुद्धिरसम्मूढो जितात्मा विगतस्पृहः ।  
+सर्वसङ्कल्पसन्न्यासी भक्तः सङ्गविवर्जितः ॥ ३॥  
   
 विविक्तसेवी लघ्वाशी यतवाक्कायमानसः ।  
 एकाकी योगसंसिद्धो योगारूढोऽपरिग्रहः ॥ ४॥  

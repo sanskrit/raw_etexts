@@ -1,23 +1,23 @@
-+++
-"Text title" = "kAlikAShTakam"
-"File name" = "kAlikAShTakam.itx"
-itxtitle = "kAlikAShTakam (shaNkarAchAryavirichitam galadraktamuNDAvalIkaNThamAlam)"
-engtitle = "kAlikAShTakam"
-Category = "aShTaka, devii, dashamahAvidyA, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "This is also said to be from Kalirahasya"
-Indexextra = "(translation)"
-"Latest update" = "June 30, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालिकाष्टकम् (शण्कराचार्यविरिचितम् गलद्रक्तमुण्डावलीकण्ठमालम्)"
+---
+Author: Shankaracharya
+Category: aShTaka, devii, dashamahAvidyA, shankarAchArya, devI
+Description-comments: This is also said to be from Kalirahasya
+File name: kAlikAShTakam.itx
+Indexextra: (translation)
+Language: Sanskrit
+Latest update: June 30, 2017
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAlikAShTakam
+engtitle: kAlikAShTakam
+itxtitle: kAlikAShTakam (shaNkarAchAryavirichitam galadraktamuNDAvalIkaNThamAlam)
+title: कालिकाष्टकम् (शण्कराचार्यविरिचितम् गलद्रक्तमुण्डावलीकण्ठमालम्)
 
-+++
+---
   
  श्रीकालिकाष्टकम्   
   

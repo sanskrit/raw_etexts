@@ -1,22 +1,22 @@
-+++
-"Text title" = "kArtavIrya dvAdashanAma stotram"
-"File name" = "kArtavIrya12.itx"
-itxtitle = "kArtavIrya dvAdashanAmastotram"
-engtitle = "kArtavIrya dvAdashanAma stotram"
-Category = "deities_misc, stotra, dvAdasha"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "January 11, 2008, NOvember 25, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कार्तवीर्य द्वादशनामस्तोत्रम्"
+---
+Category: deities_misc, stotra, dvAdasha
+File name: kArtavIrya12.itx
+Language: Sanskrit
+Latest update: January 11, 2008, NOvember 25, 2018
+Location: doc_deities_misc
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: kArtavIrya dvAdashanAma stotram
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: kArtavIrya dvAdashanAma stotram
+itxtitle: kArtavIrya dvAdashanAmastotram
+title: कार्तवीर्य द्वादशनामस्तोत्रम्
 
-+++
+---
   
  कार्तवीर्य द्वादशनामस्तोत्रम्   
   

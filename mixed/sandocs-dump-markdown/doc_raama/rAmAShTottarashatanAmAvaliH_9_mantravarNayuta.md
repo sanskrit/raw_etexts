@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAmAShTottarashatanAmAvalI 9"
-"File name" = "rAmAShTottarashatanAmAvalI9.itx"
-itxtitle = "rAmAShTottarashatanAmAvaliH 9 mantravarNayuta"
-engtitle = "rAmAShTottarashatanAmAvalI 9"
-Category = "raama, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-"Proofread by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-Indexextra = "(Scan Telugu)"
-"Latest update" = "April 19, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टोत्तरशतनामावलिः ९ मन्त्रवर्णयुत"
+---
+Category: raama, aShTottarashatanAmAvalI, nAmAvalI
+File name: rAmAShTottarashatanAmAvalI9.itx
+Indexextra: (Scan Telugu)
+Language: Sanskrit
+Latest update: April 19, 2019
+Location: doc_raama
+Proofread by: lalitha parameswari parameswari.lalitha at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmAShTottarashatanAmAvalI 9
+Transliterated by: lalitha parameswari parameswari.lalitha at gmail.com
+engtitle: rAmAShTottarashatanAmAvalI 9
+itxtitle: rAmAShTottarashatanAmAvaliH 9 mantravarNayuta
+title: रामाष्टोत्तरशतनामावलिः ९ मन्त्रवर्णयुत
 
-+++
+---
   
  मन्त्रवर्णयुत श्रीरामाष्टोत्तरशतनामावलिः ९   
 ॐ श्रीमत्सूर्यकुलाम्बोधिवर्धनीयकलानिधये नमः ।  

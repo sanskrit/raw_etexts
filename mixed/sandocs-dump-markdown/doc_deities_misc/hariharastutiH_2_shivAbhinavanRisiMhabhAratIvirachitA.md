@@ -1,23 +1,23 @@
-+++
-"Text title" = "hariharastutiH 2"
-"File name" = "hariharastutiH2.itx"
-itxtitle = "hariharastutiH 2 (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "hariharastutiH 2"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, ayyappa"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिहरस्तुतिः २ (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, ayyappa
+File name: hariharastutiH2.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: hariharastutiH 2
+engtitle: hariharastutiH 2
+itxtitle: hariharastutiH 2 (shivAbhinavanRisiMhabhAratIvirachitA)
+title: हरिहरस्तुतिः २ (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीहरिहरस्तुतिः २   
 (श्रीशङ्करनारायणक्षेत्रे)  

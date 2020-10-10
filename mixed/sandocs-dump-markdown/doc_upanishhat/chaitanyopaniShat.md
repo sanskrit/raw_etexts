@@ -1,22 +1,22 @@
-+++
-"Text title" = "ShrI Chaitanya Upanishad"
-"File name" = "chaitanyopaniShat.itx"
-itxtitle = "chaitanyopaniShat"
-engtitle = "ShrI Chaitanya Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Links 1, 2, 2, Bengali)"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चैतन्योपनिषत्"
+---
+Category: upanishhat, upanishad
+File name: chaitanyopaniShat.itx
+Indexextra: (Links 1, 2, 2, Bengali)
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_upanishhat
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: ShrI Chaitanya Upanishad
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: ShrI Chaitanya Upanishad
+itxtitle: chaitanyopaniShat
+title: चैतन्योपनिषत्
 
-+++
+---
   
  श्रीश्रीचैतन्योपनिषत्   
   

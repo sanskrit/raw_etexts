@@ -1,22 +1,23 @@
-+++
-"Text title" = "aparokShAnubhUti"
-"File name" = "aparokshaanubhuuti.itx"
-itxtitle = "aparokShAnubhUtiH"
-engtitle = "AparokShanubhuti by Shankaracharya"
-Category = "vedanta, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi, David  Lyttle,  PSA Easwaran, kalyana krrit kalyanakrrit at gmail.com"
-"Latest update" = "January 2, 1998, November 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अपरोक्षानुभूतिः"
+---
+Author: Adi Shankaracharya
+Category: vedanta, shankarAchArya
+File name: aparokshaanubhuuti.itx
+Language: Sanskrit
+Latest update: January 2, 1998, November 22, 2016
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi, David  Lyttle,  PSA Easwaran, kalyana krrit kalyanakrrit
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: shankara
+Text title: aparokShAnubhUti
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: AparokShanubhuti by Shankaracharya
+itxtitle: aparokShAnubhUtiH
+title: अपरोक्षानुभूतिः
 
-+++
+---
   
  अपरोक्षानुभूतिः   
   
@@ -104,7 +105,7 @@ title = "अपरोक्षानुभूतिः"
 निर्मलो निश्चलोऽनन्तः शुद्धोऽहमजरोऽमरः ।  
 नाहं देहो ह्यसद्रूपो ज्ञानमित्युच्यते बुधैः ॥ २८॥  
   
-स्वदेहं शोभनं त्यक्त्वा पुरुषाख्यं च संमतम् ।  
+स्वदेहं शोभनं त्यक्त्वा पुरुषाख्यं च सम्मतम् ।  
 किं मूर्ख शून्यमात्मानं देहातीतं करोषि भोः ॥ २९॥  
   
 स्वात्मानं शृणु मूर्ख त्वं श्रुत्या युक्त्या च पूरुषम् ।  
@@ -122,13 +123,13 @@ title = "अपरोक्षानुभूतिः"
 यस्मात्परमिति श्रुत्या तया पुरुषलक्षणम् ।  
 विनिर्णीतं विशुद्धेन कथं स्याद्देहकः पुमान् ॥ ३४॥  
   
-सर्वं पुरुष एवेति सूक्ते पुरुषसंज्ञिते ।  
+सर्वं पुरुष एवेति सूक्ते पुरुषसञ्ज्ञिते ।  
 अप्युच्यते यतः श्रुत्या कथं स्याद्देहकः पुमान् ॥ ३५॥  
   
 असङ्गः पुरुषः प्रोक्तो बृहदारण्यकेऽपि च ।  
 अनन्तमलसंसृष्टः कथं स्याद्देहकः पुमान् ॥ ३६॥  
   
-तत्रैव च समाख्यातः स्वयंज्योतिर्हि पूरुषः ।  
+तत्रैव च समाख्यातः स्वयञ्ज्योतिर्हि पूरुषः ।  
 जडः परप्रकाश्योऽयं कथं स्याद्देहकः पुमान् ॥ ३७॥  
   
 प्रोक्तोऽपि कर्मकाण्डेन ह्यात्मा देहाद्विलक्षणः ।  
@@ -224,7 +225,7 @@ title = "अपरोक्षानुभूतिः"
 सदैवात्मा विशुद्धोऽपि ह्यशुद्धो भाति वै सदा ।  
 यथैव द्विविधा रज्जुर्ज्ञानिनोऽज्ञानिनो निशि ॥ ६८॥  
   
-यथैव मृण्मयः कुंभस्तद्वद्देहोऽपि चिन्मयः ।  
+यथैव मृण्मयः कुम्भस्तद्वद्देहोऽपि चिन्मयः ।  
 आत्मानात्मविभागोऽयं मुधैव क्रियते बुधैः ॥ ६९॥  
   
 सर्पत्वेन यथा रज्जू रजतत्वेन शुक्तिका ।  
@@ -344,7 +345,7 @@ title = "अपरोक्षानुभूतिः"
 वाचो यस्मान्निवर्तन्ते तद्वक्तुं केन शक्यते ।  
 प्रपञ्चो यदि वक्तव्यः सोऽपि शब्दविवर्जितः ॥ १०८॥  
   
-इति वा तद्भवेन्मौनं सतां सहजसंज्ञितम् ।  
+इति वा तद्भवेन्मौनं सतां सहजसञ्ज्ञितम् ।  
 गिरां मौनं तु बालानां प्रयुक्तं ब्रह्मवादिभिः ॥ १०९॥  
   
 आदावन्ते च मध्ये च जनो यस्मिन्न विद्यते ।  
@@ -377,7 +378,7 @@ title = "अपरोक्षानुभूतिः"
 निषेधनं प्रपञ्चस्य रेचकाख्यः समीरणः ।  
 ब्रह्मैवास्मीति या वृत्तिः पूरको वायुरीरितः ॥ ११९॥  
   
-ततस्तद्वृत्तिनैश्चल्यं कुंभकः प्राणसंयमः ।  
+ततस्तद्वृत्तिनैश्चल्यं कुम्भकः प्राणसंयमः ।  
 अयं चापि प्रबुद्धानामज्ञानां घ्राणपीडनम् ॥ १२०॥  
   
 विषयेष्वात्मतां दृष्ट्वा मनसश्चिति मज्जनम् ।  
@@ -390,7 +391,7 @@ title = "अपरोक्षानुभूतिः"
 ध्यानशब्देन विख्याता परमानन्ददायिनी ॥ १२३॥  
   
 निर्विकारतया वृत्त्या ब्रह्माकारतया पुनः ।  
-वृत्तिविस्मरणं सम्यक्समाधिर्ज्ञानसंज्ञकः ॥ १२४॥  
+वृत्तिविस्मरणं सम्यक्समाधिर्ज्ञानसञ्ज्ञकः ॥ १२४॥  
   
 एवञ्चाकृत्रिमानन्दं तावत्साधु समभ्यसेत् ।  
 वश्यो यावत्क्षणात्पुंसः प्रयुक्तः सन् भवेत्स्वयम् ॥ १२५॥  

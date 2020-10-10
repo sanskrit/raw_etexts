@@ -1,21 +1,21 @@
-+++
-"Text title" = "tAropaniShat"
-"File name" = "tAropaniShat.itx"
-itxtitle = "tAropaniShat"
-engtitle = "tAropaniShat"
-Category = "upanishhat, devii, devI"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "V. Kumaran vkumaran at hotmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-"Latest update" = "March 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तारोपनिषत्"
+---
+Category: upanishhat, devii, devI
+Description-comments: aprakAshitA upaniShadaH
+File name: tAropaniShat.itx
+Language: Sanskrit
+Latest update: March 9, 2018
+Location: doc_upanishhat
+Proofread by: V. Kumaran vkumaran at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: tAropaniShat
+engtitle: tAropaniShat
+itxtitle: tAropaniShat
+title: तारोपनिषत्
 
-+++
+---
   
  तारोपनिषत्   
   
@@ -52,7 +52,7 @@ title = "तारोपनिषत्"
 भीमदंष्ट्रा करालास्या पिङ्लोग्रैकजटा खड्गकर्तृदक्षिणकरयुगा  
 कपालोत्पलवामकारयुगा अक्षोभ्यमौलीन्दुप्रज्वलिता  
 पितृभूमिमध्यस्ठा ध्येया । चित्ततोष्णानन्तरं स्वयम् तारिणीति  
-आत्मभेदतया आत्मनि सन्तोष्य पूर्वमोंकारं तत आकारः  
+आत्मभेदतया आत्मनि सन्तोष्य पूर्वमोङ्कारं तत आकारः  
 परे सुरेखे वज्ररेखे उत्तरे कूर्चं तदन्तास्त्रवह्निजाया ।  
 चतुरस्राष्टदलत्रिकोणरूपं यन्त्रम् । लक्ष्मी सरस्वती रतिः  
 प्रीतिः कीर्तिः तुष्टिः शान्तिः सदाशिवश्चात्र गमागमवशात्  
@@ -63,7 +63,7 @@ title = "तारोपनिषत्"
 पद्मान्तकयमान्तकविघ्नान्तकनरान्तकान् । त्रिकोणेषु बीजत्रयम्  
 ब्राह्मी वैष्णवी माहेश्वरी शक्तित्रययुता यथायोग्यं वस्त्रालङ्कार  
 महाशङ्खमालया लक्ष नियमेनानियमेन वा सिद्धविद्यानाम्  
-देवज्ञानप्रकाशकानाम् संज्ञानसङ्कान् । कालिकाविहितानि कल्पानि कुर्यात् ।  
+देवज्ञानप्रकाशकानाम् सञ्ज्ञानसङ्कान् । कालिकाविहितानि कल्पानि कुर्यात् ।  
 अथ हैनं भगवन्तम् परमेष्ठिनं सनत्कुमारः पप्रच्छ येन  
 सर्वस्य सर्वं भवति तन्मन्त्रम् कथय भगवन् को हि मन्त्राणाम्  
 परमा मन्त्रदेवतानाञ्च दैवतम् किमुतास्य विद्यायुगशोधनं  

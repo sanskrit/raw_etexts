@@ -1,22 +1,22 @@
-+++
-"Text title" = "AdityahRRidayapadmapurANAntargatam"
-"File name" = "AdityahRRidayapadmapurANa.itx"
-itxtitle = "AdityahRidayastotram (padmapurANAntargatam)"
-engtitle = "Adityahridayastotram from padmapurANa"
-Category = "hRidaya, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "PP"
-"Proofread by" = "PP"
-Description-comments = "from Kalyan-Mandir magazine"
-"Latest update" = "May 26, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आदित्यहृइदयस्तोत्रम् (पद्मपुराणान्तर्गतम्)"
+---
+Category: hRidaya, navagraha
+Description-comments: from Kalyan-Mandir magazine
+File name: AdityahRRidayapadmapurANa.itx
+Language: Sanskrit
+Latest update: May 26, 2014
+Location: doc_z_misc_navagraha
+Proofread by: PP
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: navagraha
+Text title: AdityahRRidayapadmapurANAntargatam
+Transliterated by: PP
+engtitle: Adityahridayastotram from padmapurANa
+itxtitle: AdityahRidayastotram (padmapurANAntargatam)
+title: आदित्यहृइदयस्तोत्रम् (पद्मपुराणान्तर्गतम्)
 
-+++
+---
   
  आदित्यहृदयस्तोत्रम् पद्मपुराणान्तर्गतम्   
   

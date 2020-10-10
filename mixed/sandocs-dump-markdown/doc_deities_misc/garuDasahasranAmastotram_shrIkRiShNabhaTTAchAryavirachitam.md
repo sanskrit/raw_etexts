@@ -1,24 +1,24 @@
-+++
-"Text title" = "garuDasahasranAmastotram"
-"File name" = "garuDasahasranAmastotra.itx"
-itxtitle = "garuDasahasranAmastotram (shrIkRiShNabhaTTAchAryavirachitam)"
-engtitle = "Garudasahasranamastotram"
-Category = "sahasranAma, deities_misc, stotra, vishhnu"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Author = "shrIkRiShNabhaTTAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD, Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Vishnustutimanjari 2, Mahaperiaval Trust"
-"Latest update" = "May 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गरुडसहस्रनामस्तोत्रम् (श्रीकृइष्णभट्टाचार्यविरचितम्)"
+---
+Author: shrIkRiShNabhaTTAchArya
+Category: sahasranAma, deities_misc, stotra, vishhnu
+Description-comments: Vishnustutimanjari 2, Mahaperiaval Trust
+File name: garuDasahasranAmastotra.itx
+Language: Sanskrit
+Latest update: May 25, 2017
+Location: doc_deities_misc
+Proofread by: DPD, Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: garuDasahasranAmastotram
+Texttype: stotra
+Transliterated by: DPD
+engtitle: Garudasahasranamastotram
+itxtitle: garuDasahasranAmastotram (shrIkRiShNabhaTTAchAryavirachitam)
+title: गरुडसहस्रनामस्तोत्रम् (श्रीकृइष्णभट्टाचार्यविरचितम्)
 
-+++
+---
   
  श्रीगरुडसहस्रनामस्तोत्रम्   
   

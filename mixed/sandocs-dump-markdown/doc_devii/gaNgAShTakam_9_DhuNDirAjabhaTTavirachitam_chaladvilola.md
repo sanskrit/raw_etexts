@@ -1,25 +1,25 @@
-+++
-"Text title" = "Gangashtakam 9"
-"File name" = "gangAShTakam9.itx"
-itxtitle = "gaNgAShTakam 9 (DhuNDirAjabhaTTavirachitam chaladvilola)"
-engtitle = "gangAShTakam 9"
-Category = "devii, devI, nadI, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Dhundiraja Bhatta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Proofread by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Description/comments" = "Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty"
-Indexextra = "(Scan)"
-"Latest update" = "June 13, 2010"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाष्टकम् ९ (ढुण्डिराजभट्टविरचितम् चलद्विलोल)"
+---
+Author: Dhundiraja Bhatta
+Category: devii, devI, nadI, aShTaka
+Description/comments: Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty
+File name: gangAShTakam9.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 13, 2010
+Location: doc_devii
+Proofread by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangashtakam 9
+Transliterated by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+engtitle: gangAShTakam 9
+itxtitle: gaNgAShTakam 9 (DhuNDirAjabhaTTavirachitam chaladvilola)
+title: गण्गाष्टकम् ९ (ढुण्डिराजभट्टविरचितम् चलद्विलोल)
 
-+++
+---
   
  गङ्गाष्टकम् ९   
 श्रीगणेशाय नमः ।  

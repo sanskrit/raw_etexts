@@ -1,21 +1,21 @@
-+++
-"Text title" = "vallabhamahAgaNapatitrishatI"
-"File name" = "vallabhamahAgaNapatitrishati.itx"
-itxtitle = "vallabhamahAgaNapatitrishatI"
-engtitle = "Shri Vallabhamahaganapati TrishatI Namavali Sadhana"
-Category = "shatInAmAvalI, ganesha, trishatI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar, PSA Easwaran"
-"Latest update" = "August 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्लभमहागणपतित्रिशती"
+---
+Category: shatInAmAvalI, ganesha, trishatI
+File name: vallabhamahAgaNapatitrishati.itx
+Language: Sanskrit
+Latest update: August 25, 2017
+Location: doc_ganesha
+Proofread by: Shree Devi Kumar, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: vallabhamahAgaNapatitrishatI
+Transliterated by: Shree Devi Kumar
+engtitle: Shri Vallabhamahaganapati TrishatI Namavali Sadhana
+itxtitle: vallabhamahAgaNapatitrishatI
+title: वल्लभमहागणपतित्रिशती
 
-+++
+---
   
  श्रीवल्लभमहागणपतित्रिशतीनामावलिः   
   

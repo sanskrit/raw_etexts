@@ -1,22 +1,22 @@
-+++
-"Text title" = "dakShiNAsyabhujangaprayAtastutiH"
-"File name" = "dakShiNAsyabhujangaprayAtastutiH.itx"
-itxtitle = "dakShiNAsyabhujaNgaprayAtastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "dakShiNAsyabhujangaprayAtastutiH"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, bhujanga"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणास्यभुजण्गप्रयातस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, bhujanga
+File name: dakShiNAsyabhujangaprayAtastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: dakShiNAsyabhujangaprayAtastutiH
+engtitle: dakShiNAsyabhujangaprayAtastutiH
+itxtitle: dakShiNAsyabhujaNgaprayAtastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: दक्षिणास्यभुजण्गप्रयातस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीदक्षिणास्यभुजङ्गप्रयातस्तुतिः   
 भवाम्भोधिपारे नयन्तं स्वभक्तान्  

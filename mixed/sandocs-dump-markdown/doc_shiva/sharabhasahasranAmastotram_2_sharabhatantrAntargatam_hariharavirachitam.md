@@ -1,24 +1,24 @@
-+++
-"Text title" = "sharabheshvarasahasranAmastotram 2"
-"File name" = "sharabhasahasranAmastotra.itx"
-itxtitle = "sharabhasahasranAmastotram 2 (sharabhatantrAntargatam hariharavirachitam)"
-engtitle = "sharabhasahasranAmastotram 2"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "harihara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD, Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "sharabhatantra, Akashabhairava tantra"
-"Latest update" = "August 18, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरभसहस्रनामस्तोत्रम् २ (शरभतन्त्रान्तर्गतम् हरिहरविरचितम्)"
+---
+Author: harihara
+Category: sahasranAma, shiva
+Description-comments: sharabhatantra, Akashabhairava tantra
+File name: sharabhasahasranAmastotra.itx
+Language: Sanskrit
+Latest update: August 18, 2017
+Location: doc_shiva
+Proofread by: DPD, Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: sharabheshvarasahasranAmastotram 2
+Texttype: stotra
+Transliterated by: DPD
+engtitle: sharabhasahasranAmastotram 2
+itxtitle: sharabhasahasranAmastotram 2 (sharabhatantrAntargatam hariharavirachitam)
+title: शरभसहस्रनामस्तोत्रम् २ (शरभतन्त्रान्तर्गतम् हरिहरविरचितम्)
 
-+++
+---
   
  श्रीशरभसहस्रनामस्तोत्रम् २   
   

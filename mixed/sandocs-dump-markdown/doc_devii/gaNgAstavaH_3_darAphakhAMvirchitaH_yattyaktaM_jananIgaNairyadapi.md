@@ -1,25 +1,25 @@
-+++
-"Text title" = "Gangastavah 3"
-"File name" = "gangAstavaH3.itx"
-itxtitle = "gaNgAstavaH 3 (darAphakhAMvirchitaH yattyaktaM jananIgaNairyadapi)"
-engtitle = "gangAstavaH 3"
-Category = "devii, devI, nadI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "DaraphaKhaM"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Proofread by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Description/comments" = "Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty"
-Indexextra = "(Scan)"
-"Latest update" = "December 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गास्तवः ३ (दराफखांविर्चितः यत्त्यक्तं जननीगणैर्यदपि)"
+---
+Author: DaraphaKhaM
+Category: devii, devI, nadI
+Description/comments: Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty
+File name: gangAstavaH3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 7, 2019
+Location: doc_devii
+Proofread by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangastavah 3
+Transliterated by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+engtitle: gangAstavaH 3
+itxtitle: gaNgAstavaH 3 (darAphakhAMvirchitaH yattyaktaM jananIgaNairyadapi)
+title: गण्गास्तवः ३ (दराफखांविर्चितः यत्त्यक्तं जननीगणैर्यदपि)
 
-+++
+---
   
  गङ्गास्तवः ३   
 श्रीगणेशाय नमः ।  

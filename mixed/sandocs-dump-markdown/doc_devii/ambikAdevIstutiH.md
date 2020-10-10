@@ -1,21 +1,21 @@
-+++
-"Text title" = "ambikAdevIstutiH"
-"File name" = "ambikAdevIstutiH.itx"
-itxtitle = "ambikAdevIstutiH"
-engtitle = "ambikAdevIstutiH"
-Category = "devii, devI, jaina"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अम्बिकादेवीस्तुतिः"
+---
+Category: devii, devI, jaina
+File name: ambikAdevIstutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ambikAdevIstutiH
+engtitle: ambikAdevIstutiH
+itxtitle: ambikAdevIstutiH
+title: अम्बिकादेवीस्तुतिः
 
-+++
+---
   
  श्रीअम्बिकादेवीस्तुतिः   
 श्रीजिनेश्वरसूरिविरचिता  

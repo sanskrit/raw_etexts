@@ -1,24 +1,24 @@
-+++
-"Text title" = "Hymn to Lord ShrI Gauranga Caitanya Mahaprabhu"
-"File name" = "gaurAngAShTakam.itx"
-itxtitle = "gaurANgAShTakam (sArvabhauma bhaTTAchAryavirachitam malayasuvAsita)"
-engtitle = "gaurAngAShTakam"
-Category = "deities_misc, krishna, gurudev, aShTaka, sArvabhaumabhaTTAchArya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Sarvabhauma Bhattacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Gauranga Chaitanya Mahaprabhu"
-Indexextra = "(Meaning)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गौराण्गाष्टकम् (सार्वभौम भट्टाचार्यविरचितम् मलयसुवासित)"
+---
+Author: Sarvabhauma Bhattacharya
+Category: deities_misc, krishna, gurudev, aShTaka, sArvabhaumabhaTTAchArya
+Description/comments: Gauranga Chaitanya Mahaprabhu
+File name: gaurAngAShTakam.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Hymn to Lord ShrI Gauranga Caitanya Mahaprabhu
+engtitle: gaurAngAShTakam
+itxtitle: gaurANgAShTakam (sArvabhauma bhaTTAchAryavirachitam malayasuvAsita)
+title: गौराण्गाष्टकम् (सार्वभौम भट्टाचार्यविरचितम् मलयसुवासित)
 
-+++
+---
   
  गौराङ्गाष्टकम्   
 मलयसुवासितभूषितगात्रं  
@@ -56,7 +56,7 @@ title = "गौराण्गाष्टकम् (सार्वभौम �
 मालाविराजितदेहसमस्ते  
      शुद्धकनक जय गौर नमस्ते ॥ ७॥  
   
-भोगविरक्तिकसंन्यासैवेश  
+भोगविरक्तिकसन्न्यासैवेश  
      शिखामोचनलोकप्रवेश ।  
 भक्तिविरक्तिप्रवर्तकचित्त  
      शुद्धकनक जय गौर नमस्ते ॥ ८॥  

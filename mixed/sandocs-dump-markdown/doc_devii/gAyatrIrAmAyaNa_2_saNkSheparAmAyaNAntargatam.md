@@ -1,23 +1,23 @@
-+++
-"Text title" = "gAyatrIrAmAyaNa by Vidyaranya as mentioned in rAmAyaNarahasya"
-"File name" = "gAyatrIrAmAyaNa2.itx"
-itxtitle = "gAyatrIrAmAyaNa 2 (saNkSheparAmAyaNAntargatam)"
-engtitle = "gAyatrIrAmAyaNa 2"
-Category = "raama, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Vidyaranya (Different than Swami Vidyaranya)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Venkata Subramanian venkatasubr at gmail.com"
-"Proofread by" = "Venkata Subramanian, Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "From Valmiki and Sankshepa Ramayanam"
-"Latest update" = "February 24, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीरामायण २ (सण्क्षेपरामायणान्तर्गतम्)"
+---
+Author: Vidyaranya (Different than Swami Vidyaranya)
+Category: raama, devii, devI
+Description/comments: From Valmiki and Sankshepa Ramayanam
+File name: gAyatrIrAmAyaNa2.itx
+Language: Sanskrit
+Latest update: February 24, 2018
+Location: doc_devii
+Proofread by: Venkata Subramanian, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrIrAmAyaNa by Vidyaranya as mentioned in rAmAyaNarahasya
+Transliterated by: Venkata Subramanian venkatasubr at gmail.com
+engtitle: gAyatrIrAmAyaNa 2
+itxtitle: gAyatrIrAmAyaNa 2 (saNkSheparAmAyaNAntargatam)
+title: गायत्रीरामायण २ (सण्क्षेपरामायणान्तर्गतम्)
 
-+++
+---
   
  गायत्रीरामायणम् २   
 (गायत्रीमन्त्र अक्षराणां(वर्णानां) श्रीमद् वाल्मीकिरामायणे सङ्क्शेपरामायणे प्रदर्शिताः)  

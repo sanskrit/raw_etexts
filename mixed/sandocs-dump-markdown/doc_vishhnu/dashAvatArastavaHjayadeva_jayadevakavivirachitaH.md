@@ -1,24 +1,24 @@
-+++
-"Text title" = "dashAvatArastavaHjayadeva"
-"File name" = "dashAvatArastavaHjayadeva.itx"
-itxtitle = "dashAvatArastavaHjayadeva (jayadevakavivirachitaH)"
-engtitle = "dashAvatArastavaHjayadeva"
-Category = "vishhnu, dashAvatAra, jayadeva"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतारस्तवःजयदेव (जयदेवकविविरचितः)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, dashAvatAra, jayadeva
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: dashAvatArastavaHjayadeva.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dashAvatArastavaHjayadeva
+engtitle: dashAvatArastavaHjayadeva
+itxtitle: dashAvatArastavaHjayadeva (jayadevakavivirachitaH)
+title: दशावतारस्तवःजयदेव (जयदेवकविविरचितः)
 
-+++
+---
   
  दशावतारस्तवःजयदेव   
   

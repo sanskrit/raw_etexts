@@ -1,23 +1,24 @@
-+++
-"Text title" = "Naradastotram from Skandapurana"
-"File name" = "nAradastotramskanda.itx"
-itxtitle = "nAradastotram (shrIkRIShNakRitaM skandapurANAntargatam)"
-engtitle = "Naradastotram from Skandapurana"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIskAnde mahApurANe prathame mAheshvarakhaNDe nArada mAhAtmyavarNane shrIkRiShNakRita"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारदस्तोत्रम् (श्रीकृईष्णकृइतं स्कन्दपुराणान्तर्गतम्)"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: deities_misc, gurudev
+Description/comments: shrIskAnde mahApurANe prathame mAheshvarakhaNDe nArada mAhAtmyavarNane
+  shrIkRiShNakRita
+File name: nAradastotramskanda.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Naradastotram from Skandapurana
+engtitle: Naradastotram from Skandapurana
+itxtitle: nAradastotram (shrIkRIShNakRitaM skandapurANAntargatam)
+title: नारदस्तोत्रम् (श्रीकृईष्णकृइतं स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीनारदस्तोत्रम्   
 उग्रसेन उवाच -  

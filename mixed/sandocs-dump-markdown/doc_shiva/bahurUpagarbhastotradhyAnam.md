@@ -1,22 +1,22 @@
-+++
-"Text title" = "Bahurupagarbha Stotradhyanam"
-"File name" = "bahurUpagarbhastotradhyAnam.itx"
-itxtitle = "bahurUpagarbhastotradhyAnam"
-engtitle = "bahurUpagarbhastotradhyAnam"
-Category = "shiva, dhyAnam"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "See the main bahurUpagarbhastotram"
-Indexextra = "(Scan)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बहुरूपगर्भस्तोत्रध्यानम्"
+---
+Category: shiva, dhyAnam
+Description/comments: See the main bahurUpagarbhastotram
+File name: bahurUpagarbhastotradhyAnam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Bahurupagarbha Stotradhyanam
+engtitle: bahurUpagarbhastotradhyAnam
+itxtitle: bahurUpagarbhastotradhyAnam
+title: बहुरूपगर्भस्तोत्रध्यानम्
 
-+++
+---
   
  बहुरूपगर्भस्तोत्रध्यानम्   
 ॐ त्रिपञ्चनयनं देवं जटामुकुटमण्डितम् ।  

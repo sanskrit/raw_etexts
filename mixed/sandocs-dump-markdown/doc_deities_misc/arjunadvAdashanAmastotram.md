@@ -1,22 +1,22 @@
-+++
-"Text title" = "arjunadvAdashanAmastotram"
-"File name" = "arjunadvAdashanAmastotram.itx"
-itxtitle = "arjunadvAdashanAmastotram"
-engtitle = "arjunadvAdashanAmastotram"
-Category = "deities_misc, rAmAnujasampradAya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अर्जुनद्वादशनामस्तोत्रम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: deities_misc, rAmAnujasampradAya
+File name: arjunadvAdashanAmastotram.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: arjunadvAdashanAmastotram
+engtitle: arjunadvAdashanAmastotram
+itxtitle: arjunadvAdashanAmastotram
+title: अर्जुनद्वादशनामस्तोत्रम्
 
-+++
+---
   
  अर्जुनद्वादशनामस्तोत्रम्   
   

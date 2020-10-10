@@ -1,22 +1,22 @@
-+++
-"Text title" = "dattasahasranAmastotram 3"
-"File name" = "dattasahasranAmastotram3.itx"
-itxtitle = "dattasahasranAmastotram 3"
-engtitle = "dattasahasranAmastotram 3"
-Category = "sahasranAma, deities_misc, dattatreya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD, Sunder Hattangadi, PSA Easwaran"
-Source = "From Dattakosha by P. N. Joshi"
-"Latest update" = "June 4, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तसहस्रनामस्तोत्रम् ३"
+---
+Category: sahasranAma, deities_misc, dattatreya
+File name: dattasahasranAmastotram3.itx
+Language: Sanskrit
+Latest update: June 4, 2016
+Location: doc_deities_misc
+Proofread by: DPD, Sunder Hattangadi, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: From Dattakosha by P. N. Joshi
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattasahasranAmastotram 3
+engtitle: dattasahasranAmastotram 3
+itxtitle: dattasahasranAmastotram 3
+title: दत्तसहस्रनामस्तोत्रम् ३
 
-+++
+---
   
  श्रीदत्तसहस्रनामस्तोत्रम् ३   
   
@@ -439,7 +439,7 @@ title = "दत्तसहस्रनामस्तोत्रम् ३"
 ध्रीमयो लुङ्ग्मयो गाङ्गो घम्मयो खम्मयो खगः ॥ १२१॥  
   
 खम्मयो ज्ञम्मयश्चाङ्गो बीजाङ्गो बीजजम्मयः ।  
-झंङ्करष्टङ्करःष्टङ्गो डङ्करी ठङ्करोऽणुकः ॥ १२२॥  
+झङ्ङ्करष्टङ्करःष्टङ्गो डङ्करी ठङ्करोऽणुकः ॥ १२२॥  
   
 तङ्क्ररस्थङ्करस्तुङ्गो द्राम्मुद्रारूपकः सुदः ।  
 दक्षो दण्डी दानवघ्नो अप्रतिद्वन्द्ववामदः ॥ १२३॥  

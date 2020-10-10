@@ -1,20 +1,20 @@
-+++
-"Text title" = "Shri Suryamala"
-"File name" = "sUryamAlA.itx"
-itxtitle = "sUryamAlA"
-engtitle = "sUryamAlA"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "सूर्यमाला"
+---
+Category: navagraha
+File name: sUryamAlA.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Shri Suryamala
+engtitle: sUryamAlA
+itxtitle: sUryamAlA
+title: सूर्यमाला
 
-+++
+---
   
  श्रीसूर्यमाला   
 आचम्य ॥  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "dattAtreyadhyAnam"
-"File name" = "dattAtreyadhyAnam.itx"
-itxtitle = "dattAtreyadhyAnam"
-engtitle = "dattAtreyadhyAnam"
-Category = "deities_misc, dattatreya, dhyAnam"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Dattatreya Stuti Manjari, Ed. S.V. Radhakrishnashastri"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "December 8, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयध्यानम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: deities_misc, dattatreya, dhyAnam
+Description/comments: Dattatreya Stuti Manjari, Ed. S.V. Radhakrishnashastri
+File name: dattAtreyadhyAnam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 8, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattAtreyadhyAnam
+engtitle: dattAtreyadhyAnam
+itxtitle: dattAtreyadhyAnam
+title: दत्तात्रेयध्यानम्
 
-+++
+---
   
  श्रीदत्तात्रेयध्यानम्   
 दत्तात्रेयं शिवं शान्तं सच्चिदानन्दमद्वयम् ।  

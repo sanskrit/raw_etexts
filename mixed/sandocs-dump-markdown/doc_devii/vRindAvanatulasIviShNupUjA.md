@@ -1,25 +1,25 @@
-+++
-"Text title" = "Vrindavana Tulasi Vishnupuja"
-"File name" = "vRRindavanatulasIviShNupUjA.itx"
-itxtitle = "vRindAvanatulasIviShNupUjA"
-engtitle = "vRRindAvanatulasIviShNupUjA"
-Category = "pUjA, devii, tulasI, devI, vishhnu"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar"
-Description-comments = "tulasI viShNu vRindAvana pUjA"
-Indexextra = "(TulasiPuja scanned)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "June 12, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वृइन्दावनतुलसीविष्णुपूजा"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: pUjA, devii, tulasI, devI, vishhnu
+Description-comments: tulasI viShNu vRindAvana pUjA
+File name: vRRindavanatulasIviShNupUjA.itx
+Indexextra: (TulasiPuja scanned)
+Language: Sanskrit
+Latest update: June 12, 2017
+Location: doc_devii
+Proofread by: Shree Devi Kumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vrindavana Tulasi Vishnupuja
+Transliterated by: Shree Devi Kumar
+engtitle: vRRindAvanatulasIviShNupUjA
+itxtitle: vRindAvanatulasIviShNupUjA
+title: वृइन्दावनतुलसीविष्णुपूजा
 
-+++
+---
   
  वृन्दावनपूजा अथवा तुलसीविष्णुपूजा   
   

@@ -1,23 +1,24 @@
-+++
-"Text title" = "yAjnyavalkyagItA mahAbhArate shantiparve adhyAya 310-318"
-"File name" = "yAjnyavalkyagItAmahAbhArataShantiparva.itx"
-itxtitle = "yAjnavalkyagItA (mahAbhAratAntargatA)"
-engtitle = "Yajnvalkya Gita From Mahabharat Shanti Parva Ch 310-318"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Tokunaga and converted for Devanagari display"
-"Translated by" = "https://archive.org/details/mahabharat05ramauoft"
-Description-comments = "Mahabharat Shantiparva Chapter 310-318"
-Indexextra = "(scanned Mahabharata Mokshadharma parva  of Shanti Parva - Adhyaaya 310 to 318 (Need to proofread, volunteer?))"
-"Latest update" = "June 10, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "याज्ञवल्क्यगीता (महाभारतान्तर्गता)"
+---
+Category: gItA, giitaa
+Description-comments: Mahabharat Shantiparva Chapter 310-318
+File name: yAjnyavalkyagItAmahAbhArataShantiparva.itx
+Indexextra: (scanned Mahabharata Mokshadharma parva  of Shanti Parva - Adhyaaya 310
+  to 318 (Need to proofread, volunteer?))
+Language: Sanskrit
+Latest update: June 10, 2013
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: yAjnyavalkyagItA mahAbhArate shantiparve adhyAya 310-318
+Translated by: https://archive.org/details/mahabharat05ramauoft
+Transliterated by: Tokunaga and converted for Devanagari display
+engtitle: Yajnvalkya Gita From Mahabharat Shanti Parva Ch 310-318
+itxtitle: yAjnavalkyagItA (mahAbhAratAntargatA)
+title: याज्ञवल्क्यगीता (महाभारतान्तर्गता)
 
-+++
+---
   
  याज्ञवल्क्यगीता महाभारते शान्तिपर्वे अध्याय ३१०-३१८   
   
@@ -331,7 +332,7 @@ title = "याज्ञवल्क्यगीता (महाभारता
 केलवेनेह पुण्येन गतिमूर्ध्वामवाप्नुयात् ।  
 पुण्यपापेनमानुष्यमधर्मेणाप्यधो गतिम् ॥ ४॥  
   
-द्वन्द्वमेषां त्रयाणां तु संनिपातं च तत्त्वतः ।  
+द्वन्द्वमेषां त्रयाणां तु सन्निपातं च तत्त्वतः ।  
 सत्त्वस्य रजसश्चैव तमसश्च शृणुष्व मे ॥ ५॥  
   
 सत्त्वस्य तु रजो दृष्टं रजसश्च तमस्तथा ।  
@@ -464,7 +465,7 @@ title = "याज्ञवल्क्यगीता (महाभारता
 तेनैव चाथ देहेन विचरन्ति दिशो दश ॥ ५॥  
   
 यावद्धि प्रलयस्तात सूक्ष्मेणास्त गुणेन वै ।  
-योगेन लोकान्विचरन्सुखं संन्यस्य चानघ ॥ ६॥  
+योगेन लोकान्विचरन्सुखं सन्न्यस्य चानघ ॥ ६॥  
   
 वेदेषु चास्त गुणितं योगमाहुर्मनीषिणः ।  
 सूक्ष्ममस्तगुणं प्राहुर्नेतरं नृपसत्तम ॥ ७॥  
@@ -521,7 +522,7 @@ title = "याज्ञवल्क्यगीता (महाभारता
 एवं युक्तस्य तु मुनेर्लक्षणान्युपधारयेत् ॥ २४॥  
   
 स युक्तः पश्यति ब्रह्म यत्तत्परममव्ययम् ।  
-महतस्तमसो मध्ये स्थितं ज्वलनसंनिभम् ॥ २५॥  
+महतस्तमसो मध्ये स्थितं ज्वलनसन्निभम् ॥ २५॥  
   
 एतेन केवलं याति त्यक्त्वा देहमसाक्षिकम् ।  
 कालेन महता राजञ्श्रुतिरेषा सनातनी ॥ २६॥  

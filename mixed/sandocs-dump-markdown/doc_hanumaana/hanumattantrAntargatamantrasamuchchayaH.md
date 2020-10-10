@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumattantrAntargatamantrasamuchchayaH"
-"File name" = "hanumattantrAntargatamantrasamuchchayaH.itx"
-itxtitle = "hanumattantrAntargatamantrasamuchchayaH"
-engtitle = "hanumattantrAntargatamantrasamuchchayaH"
-Category = "hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्तन्त्रान्तर्गतमन्त्रसमुच्चयः"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumattantrAntargatamantrasamuchchayaH.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumattantrAntargatamantrasamuchchayaH
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: hanumattantrAntargatamantrasamuchchayaH
+itxtitle: hanumattantrAntargatamantrasamuchchayaH
+title: हनुमत्तन्त्रान्तर्गतमन्त्रसमुच्चयः
 
-+++
+---
   
  श्रीहनुमत्तन्त्रान्तर्गतमन्त्रसमुच्चयः   
   

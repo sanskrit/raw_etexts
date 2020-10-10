@@ -1,22 +1,22 @@
-+++
-"Text title" = "skandastavam by vAmadeva"
-"File name" = "skandastavamvAmadeva.itx"
-itxtitle = "skandastavam (vAmadevaproktaM shivapurANAntargatam)"
-engtitle = "skandastavam by vAmadeva"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Description/comments" = "shivapurANam 6.11 verses 22-35"
-Source = "shivapurANam, saMhitA 6 (kailAsasaMhitA), adhyAyaH 11"
-"Latest update" = "May 12, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्कन्दस्तवम् (वामदेवप्रोक्तं शिवपुराणान्तर्गतम्)"
+---
+Category: subrahmanya
+Description/comments: shivapurANam 6.11 verses 22-35
+File name: skandastavamvAmadeva.itx
+Language: Sanskrit
+Latest update: May 12, 2018
+Location: doc_subrahmanya
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shivapurANam, saMhitA 6 (kailAsasaMhitA), adhyAyaH 11
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: skandastavam by vAmadeva
+engtitle: skandastavam by vAmadeva
+itxtitle: skandastavam (vAmadevaproktaM shivapurANAntargatam)
+title: स्कन्दस्तवम् (वामदेवप्रोक्तं शिवपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीस्कन्दस्तवम्   
 (शिवमहापुराणे)  
@@ -75,7 +75,7 @@ title = "स्कन्दस्तवम् (वामदेवप्रोक
 तमुवाच महासेनः प्रीतोऽस्मि तव पूजया ।  
 भक्त्या स्तुत्या च भद्रन्ते किमद्यकरवाण्यहम् ॥ ३९॥  
   
-मुने त्वं योगिनांमुख्यः परिपूर्णश्च निस्पृहः ।  
+मुने त्वं योगिनाम्मुख्यः परिपूर्णश्च निस्पृहः ।  
 भवादृशां हि लोकेस्मिप्रार्थनीयं न विद्यते ॥ ४०॥  
   
 तथापि धर्मरक्षायै लोकानुग्रहकाङ्क्षया ।  
@@ -127,7 +127,7 @@ title = "स्कन्दस्तवम् (वामदेवप्रोक
      गदितुमुपचक्राम श्रेयः श्रुतिष्वपि गोपितम् ॥ ५५॥  
   
 इति श्रीशिवमहापुराणे षष्ठ्यां कैलाससंहितायां  
-वामदेवब्रह्मवर्णनंनामैकादशोऽध्यायान्तर्गतम् स्कन्दस्तवं सम्पूर्णम् ॥  
+वामदेवब्रह्मवर्णनन्नामैकादशोऽध्यायान्तर्गतम् स्कन्दस्तवं सम्पूर्णम् ॥  
   
   
 shivapurANam, saMhitA 6 (kailAsasaMhitA), adhyAyaH 11  

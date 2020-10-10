@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivAnanda laharI"
-"File name" = "shivaananda.itx"
-itxtitle = "shivAnandalaharI (shaNkarAchAryavirachitA)"
-engtitle = "shivAnanda laharI"
-Category = "laharI, shiva, shankarAchArya"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "ShankarAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. P. Narayanaswami swami at math.mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at math.mun.ca"
-Indexextra = "(Meaning, Complete Works)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवानन्दलहरी (शण्कराचार्यविरचिता)"
+---
+Author: ShankarAchArya
+Category: laharI, shiva, shankarAchArya
+File name: shivaananda.itx
+Indexextra: (Meaning, Complete Works)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_shiva
+Proofread by: P. P. Narayanaswami swami at math.mun.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivAnanda laharI
+Transliterated by: P. P. Narayanaswami swami at math.mun.ca
+engtitle: shivAnanda laharI
+itxtitle: shivAnandalaharI (shaNkarAchAryavirachitA)
+title: शिवानन्दलहरी (शण्कराचार्यविरचिता)
 
-+++
+---
   
  श्रीशिवानन्दलहरी   
 कलाभ्यां चूडालङ्कृतशशिकलाभ्यां निजतपः-  
@@ -336,7 +336,7 @@ title = "शिवानन्दलहरी (शण्कराचार्य
 किञ्चिद्भक्षितमांसशेषकबलं नव्योपहारायते  
 भक्तिः किं न करोत्यहो वनचरो भक्तावतंसायते ॥ ६३॥  
   
-वक्षस्ताडनमन्तकस्य कठिनापस्मारसंमर्दनं  
+वक्षस्ताडनमन्तकस्य कठिनापस्मारसम्मर्दनं  
 भूभृत्पर्यटनं नमस्सुरशिरःकोटीरसङ्घर्षणम् ।  
 कर्मेदं मृदुलस्य तावकपदद्वन्द्वस्य गौरीपते  
 मच्चेतोमणिपादुकाविहरणं शम्भो सदाङ्गीकुरु ॥ ६४॥  
@@ -404,7 +404,7 @@ title = "शिवानन्दलहरी (शण्कराचार्य
 बुद्धिःस्थिरा भवितुमीश्वरपादपद्म-  
 सक्ता वधूर्विरहिणीव सदा स्मरन्ती ।  
 सद्भावनास्मरणदर्शनकीर्तनादि  
-संमोहितेव शिवमन्त्रजपेन विन्ते ॥ ७७॥  
+सम्मोहितेव शिवमन्त्रजपेन विन्ते ॥ ७७॥  
   
 सदुपचारविधिष्वनुबोधितां  
 सविनयां सहृदयं सदुपाश्रिताम् ।  

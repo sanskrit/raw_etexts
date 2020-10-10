@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIjvAlAmukhIsahasranAmastotram"
-"File name" = "jvAlAmukhIsahasranAmastotra.itx"
-itxtitle = "jvAlAmukhIsahasranAmastotram"
-engtitle = "jvAlAmukhIsahasranAmastotram"
-Category = "sahasranAma, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD, Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "See corresponding nAmAvalI"
-Source = "Bhagavati Stuti Manjari p 212"
-Indexextra = "(Scan)"
-"Latest update" = "October 11, 2014, July 15, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ज्वालामुखीसहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, devii, dashamahAvidyA, devI
+Description-comments: See corresponding nAmAvalI
+File name: jvAlAmukhIsahasranAmastotra.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: October 11, 2014, July 15, 2017
+Location: doc_devii
+Proofread by: DPD, Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Bhagavati Stuti Manjari p 212
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIjvAlAmukhIsahasranAmastotram
+Transliterated by: DPD
+engtitle: jvAlAmukhIsahasranAmastotram
+itxtitle: jvAlAmukhIsahasranAmastotram
+title: ज्वालामुखीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीज्वालामुखीसहस्रनामस्तोत्रम्   
   

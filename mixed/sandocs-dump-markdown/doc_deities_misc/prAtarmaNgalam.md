@@ -1,23 +1,23 @@
-+++
-"Text title" = "Pratah Mangalam"
-"File name" = "prAtarmangalam.itx"
-itxtitle = "prAtarmaNgalam"
-engtitle = "prAtarmangalam"
-Category = "deities_misc, ayyappa, sanskritgeet, suprabhAta"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "suprabhAta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manish Gavkar manishyg at gmail.com"
-"Proofread by" = "Manish Gavkar manishyg at gmail.com, NSA, PSA Easwaran"
-Indexextra = "(Video)"
-"Latest update" = "January 26, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रातर्मण्गलम्"
+---
+Category: deities_misc, ayyappa, sanskritgeet, suprabhAta
+File name: prAtarmangalam.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: January 26, 2020
+Location: doc_deities_misc
+Proofread by: Manish Gavkar manishyg at gmail.com, NSA, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: suprabhAta
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Pratah Mangalam
+Transliterated by: Manish Gavkar manishyg at gmail.com
+engtitle: prAtarmangalam
+itxtitle: prAtarmaNgalam
+title: प्रातर्मण्गलम्
 
-+++
+---
   
  प्रातर्मङ्गलम्   
 विगलविषयव्यन्धः साधुलोकं प्रखरनिषेवि समस्त भव्यदायिन् ।  

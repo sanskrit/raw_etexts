@@ -1,24 +1,24 @@
-+++
-"Text title" = "Bharatabhusha sanskrita Bhasha"
-"File name" = "bhAratabhUShAsaMskRRitabhAShA.itx"
-itxtitle = "bhAratabhUShA saMskRitabhAShA"
-engtitle = "bhAratabhUShAsaMskRRitabhAShA"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "janArdana hegaDe"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारतभूषा संस्कृइतभाषा"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: janArdana hegaDe
+Category: misc, sanskritgeet
+File name: bhAratabhUShAsaMskRRitabhAShA.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bharatabhusha sanskrita Bhasha
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: bhAratabhUShAsaMskRRitabhAShA
+itxtitle: bhAratabhUShA saMskRitabhAShA
+title: भारतभूषा संस्कृइतभाषा
 
-+++
+---
   
  भारतभूषा संस्कृतभाषा   
 भारतभूषा संस्कृतभाषा विलसतु हृदये हृदये ।  

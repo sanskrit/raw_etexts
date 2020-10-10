@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrii siddhi vinaayaka naamaavali"
-"File name" = "vinaayaka108-5.itx"
-itxtitle = "siddhivinAyakAShTottarashatanAmAvaliH athavA gaNeshAShTottarashatanAmAvalI"
-engtitle = "siddhi vinAyaka nAmAvali (108 names)"
-Category = "aShTottarashatanAmAvalI, ganesha, nAmAvalI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Proofread by" = "Avinash Sathaye sohum at ms.uky.edu"
-"Latest update" = "May 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धिविनायकाष्टोत्तरशतनामावलिः अथवा गणेशाष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, ganesha, nAmAvalI
+File name: vinaayaka108-5.itx
+Language: Sanskrit
+Latest update: May 6, 2018
+Location: doc_ganesha
+Proofread by: Avinash Sathaye sohum at ms.uky.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: ganesha
+Text title: shrii siddhi vinaayaka naamaavali
+Texttype: nAmAvalI
+engtitle: siddhi vinAyaka nAmAvali (108 names)
+itxtitle: siddhivinAyakAShTottarashatanAmAvaliH athavA gaNeshAShTottarashatanAmAvalI
+title: सिद्धिविनायकाष्टोत्तरशतनामावलिः अथवा गणेशाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीसिद्धिविनायकनामावली   
   

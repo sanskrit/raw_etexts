@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Hridayam  3"
-"File name" = "bAlAhRRidayam3.itx"
-itxtitle = "bAlAhRidayam 3 (AraktAM shashikhaNDamaNDitajaTAjUTAnubaddhasrajaM)"
-engtitle = "bAlAhRidayam 3"
-Category = "devii, dashamahAvidyA, devI, hRidaya, mAlAmantra"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाहृइदयम् ३ (आरक्तां शशिखण्डमण्डितजटाजूटानुबद्धस्रजं)"
+---
+Category: devii, dashamahAvidyA, devI, hRidaya, mAlAmantra
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAhRRidayam3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Hridayam  3
+engtitle: bAlAhRidayam 3
+itxtitle: bAlAhRidayam 3 (AraktAM shashikhaNDamaNDitajaTAjUTAnubaddhasrajaM)
+title: बालाहृइदयम् ३ (आरक्तां शशिखण्डमण्डितजटाजूटानुबद्धस्रजं)
 
-+++
+---
   
  श्रीबालाहृदयम् ३   
 अस्य श्रीबालात्रिपुरसुन्दरीमालामन्त्रस्य । दक्षिणामूर्तिः ऋषिः ।  

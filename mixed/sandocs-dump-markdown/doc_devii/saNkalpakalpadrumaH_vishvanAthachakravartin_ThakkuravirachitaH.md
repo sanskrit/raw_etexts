@@ -1,25 +1,26 @@
-+++
-"Text title" = "sankalpakalpadrumaH"
-"File name" = "sankalpakalpadrumaH.itx"
-itxtitle = "saNkalpakalpadrumaH (vishvanAthachakravartin ThakkuravirachitaH)"
-engtitle = "sankalpakalpadrumaH by vishvanAthachakravartin"
-Category = "devii, radha, vishvanAthachakravartin, stavAmRRitalaharI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सण्कल्पकल्पद्रुमः (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितः)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: devii, radha, vishvanAthachakravartin, stavAmRRitalaharI, devI
+File name: sankalpakalpadrumaH.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_devii
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sankalpakalpadrumaH
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: sankalpakalpadrumaH by vishvanAthachakravartin
+itxtitle: saNkalpakalpadrumaH (vishvanAthachakravartin ThakkuravirachitaH)
+title: सण्कल्पकल्पद्रुमः (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितः)
 
-+++
+---
   
  श्रीसङ्कल्पकल्पद्रुमः   
 श्रीश्रीराधामदनगोपालो विजयते  
@@ -71,7 +72,7 @@ title = "सण्कल्पकल्पद्रुमः (विश्वन
 त्वां स्रस्तवेषवसनाभरणां सकान्तां  
      वीक्ष्य प्रसाधनविधौ द्रुतमुद्यताभिः ।  
 श्रीरूपरङ्गतुलसीरतिमञ्जरीभि-  
-     र्दृष्टानयानि तव संमुखमेव तानि ॥ १०॥  
+     र्दृष्टानयानि तव सम्मुखमेव तानि ॥ १०॥  
   
 त्वामाशिखाचरणमूढविचित्रवेषां  
      स्प्रष्टुं पुनश्च धृततृष्णमवेक्ष्य कृष्णम् ।  
@@ -120,7 +121,7 @@ title = "सण्कल्पकल्पद्रुमः (विश्वन
   
 अन्ते निशस्तनुतरप्रसृतालकाल्या  
      ताडङ्कहारततिगन्धवहाग्रमुक्ताः ।  
-प्रेष्ठस्य ते तव च संग्रथिता निभाल्य  
+प्रेष्ठस्य ते तव च सङ्ग्रथिता निभाल्य  
      तत्रानयानि परमाप्तसखीः प्रबोध्य ॥ २०॥  
   
 ता दर्शयानि सुखसिन्धुषु मज्जयानि  
@@ -400,7 +401,7 @@ title = "सण्कल्पकल्पद्रुमः (विश्वन
   
 धूलिर्गवां दिशमरुद्ध हरेः सहाम्बा  
      रावेत्युदन्तमतुलं मधु पाययानि ।  
-तत्पानसंमदनिरस्तसमस्तकृत्यां  
+तत्पानसम्मदनिरस्तसमस्तकृत्यां  
      त्वामुत्थितां सहगणामभिसारयाणि ॥ ७६॥  
   
 तत्कृष्णवर्त्मनिकटस्थलमानयानि  
@@ -411,7 +412,7 @@ title = "सण्कल्पकल्पद्रुमः (विश्वन
 श्रीकृष्णदृङ्मधुलिहौ भवदास्यपद्मं  
      आघ्रापयाण्यतितृषन् तव दृक्चकोरीम् ।  
 तद्वक्त्रचन्द्रविकसत्स्मितधारयैव  
-     संजीवयानि मधुरिम्णि निमज्जयानि ॥ ७८॥  
+     सञ्जीवयानि मधुरिम्णि निमज्जयानि ॥ ७८॥  
   
 वैवश्यमस्य तव चाद्भुतमीक्षयाणि  
      त्वामानयानि सदनं ललितानिदेशात् ।  
@@ -440,7 +441,7 @@ title = "सण्कल्पकल्पद्रुमः (विश्वन
   
 स्नानाय पावनतडागजले निमग्नां  
      तीर्थान्तरे तु निजबन्धुवृतो जलस्थः ।  
-संमज्ज्य तत्र जलमध्यत एत्य स त्वां  
+सम्मज्ज्य तत्र जलमध्यत एत्य स त्वां  
      आलिङ्ग्य तत्र गत एव समुत्थितः स्यात् ॥ ८४॥  
   
 तन् नो विदुर्निकटगा अपि ते ननन्दृ  
@@ -469,7 +470,7 @@ title = "सण्कल्पकल्पद्रुमः (विश्वन
      तन्मे मनस्युदयमेति मनोरथोऽयम् ॥ ८९॥  
   
 क्वाहं परशतनिकृत्यनुबिद्धचेताः  
-     संकल्प एष सहसा क्व सुदुर्लभार्थे ।  
+     सङ्कल्प एष सहसा क्व सुदुर्लभार्थे ।  
 एका कृपैव तव मामजहत्युपाधि  
      शून्यैव मन्तुमदधत्यगतेर्गतिर्मे ॥ ९०॥  
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "kiraatashaastuH aShTottarashatanaamaavaliH"
-"File name" = "kiraata108avali.itx"
-itxtitle = "kirAtashAstuH aShTottarashatanAmAvalI"
-engtitle = "kirAtashAstuH aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, deities_misc, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 17, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "किरातशास्तुः अष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, deities_misc, nAmAvalI
+File name: kiraata108avali.itx
+Language: Sanskrit
+Latest update: April 17, 2006
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: kiraatashaastuH aShTottarashatanaamaavaliH
+Texttype: nAmAvalI
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: kirAtashAstuH aShTottarashatanAmAvalI
+itxtitle: kirAtashAstuH aShTottarashatanAmAvalI
+title: किरातशास्तुः अष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीकिरातशास्तुः अष्टोत्तरशतनामावली   
   

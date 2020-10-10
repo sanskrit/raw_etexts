@@ -1,21 +1,21 @@
-+++
-"Text title" = "Pashupata Astra Stotram"
-"File name" = "pAshupatAstrastotram.itx"
-itxtitle = "pAshupatAstrastotram (agnipurANAntargatam)"
-engtitle = "pAshupatAstrastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "Agnipurana, adhyAya 322"
-"Latest update" = "April 17, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पाशुपतास्त्रस्तोत्रम् (अग्निपुराणान्तर्गतम्)"
+---
+Category: shiva
+Description-comments: Agnipurana, adhyAya 322
+File name: pAshupatAstrastotram.itx
+Language: Sanskrit
+Latest update: April 17, 2020
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Pashupata Astra Stotram
+engtitle: pAshupatAstrastotram
+itxtitle: pAshupatAstrastotram (agnipurANAntargatam)
+title: पाशुपतास्त्रस्तोत्रम् (अग्निपुराणान्तर्गतम्)
 
-+++
+---
   
  पाशुपतास्त्रस्तोत्रं   
 ईश्वर उवाच -  

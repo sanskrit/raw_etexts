@@ -1,24 +1,24 @@
-+++
-"Text title" = "Sadashiva Stotram 2"
-"File name" = "sadAshivastotram2.itx"
-itxtitle = "sadAshivastotram 2 (rudrayAmalAntargatam)"
-engtitle = "sadAshivastotram 2"
-Category = "shiva"
-Location = "doc_shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सदाशिवस्तोत्रम् २ (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: shiva
+Description/comments: rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde
+File name: sadAshivastotram2.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+Subject: philosophy/hinduism/religion
+Text title: Sadashiva Stotram 2
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: sadAshivastotram 2
+itxtitle: sadAshivastotram 2 (rudrayAmalAntargatam)
+title: सदाशिवस्तोत्रम् २ (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  सदाशिवस्तोत्रम् २   
 ॐ नमः परमकल्याण नमस्ते विश्वभावन  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "lIlAshatanAmastotram"
-"File name" = "lIlAshatanAmastotram.itx"
-itxtitle = "lIlAshatanAmastotram (kRiShNasya lIlA shANDilyasaMhitAntargatam)"
-engtitle = "lIlAshatanAmastotram"
-Category = "aShTottarashatanAma, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, NA"
-Description-comments = "Shandilya Samhita BhaktiKhanda Part1, pages 118-121"
-Source = "Shandilyasamhita panchame bhaktikhaNDe"
-Indexextra = "(Samhita Parts 1, 2)"
-"Latest update" = "July 20, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लीलाशतनामस्तोत्रम् (कृइष्णस्य लीला शाण्डिल्यसंहितान्तर्गतम्)"
+---
+Category: aShTottarashatanAma, vishhnu, krishna, vishnu
+Description-comments: Shandilya Samhita BhaktiKhanda Part1, pages 118-121
+File name: lIlAshatanAmastotram.itx
+Indexextra: (Samhita Parts 1, 2)
+Language: Sanskrit
+Latest update: July 20, 2016
+Location: doc_vishhnu
+Proofread by: Gopal Upadhyay, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shandilyasamhita panchame bhaktikhaNDe
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: lIlAshatanAmastotram
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: lIlAshatanAmastotram
+itxtitle: lIlAshatanAmastotram (kRiShNasya lIlA shANDilyasaMhitAntargatam)
+title: लीलाशतनामस्तोत्रम् (कृइष्णस्य लीला शाण्डिल्यसंहितान्तर्गतम्)
 
-+++
+---
   
  लीलाशतनामस्तोत्रम्   
 कृष्णलीलाशतनामस्तोत्रम्  
@@ -32,7 +32,7 @@ title = "लीलाशतनामस्तोत्रम् (कृइष्
 ललितायै यथाप्रोक्तं सा मह्यं कृपया जगौ ॥ २॥  
   
 श्रुतिभिर्यत्पुरा प्रोक्तं मुनिभिर्यत्पुरोदितम् ।  
-तदहं वो वर्णयिष्ये श्रद्धालून् संमतान् शुचीन् ॥ ३॥  
+तदहं वो वर्णयिष्ये श्रद्धालून् सम्मतान् शुचीन् ॥ ३॥  
   
 लीलानामशतस्यास्य ऋषयोऽग्निसमुद्भवाः ।  
 देवता शीपतिर्नित्यलीलानुग्रहविग्रहः ॥ ४॥  

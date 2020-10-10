@@ -1,24 +1,24 @@
-+++
-"Text title" = "Amritanada Upanishad"
-"File name" = "amritanada.itx"
-itxtitle = "amRitanAdopaniShat"
-engtitle = "Amritanada Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "S."
-"Proofread by" = "S."
-Description-comments = "21/108; Krishna-Yajur-Veda, Yoga Upanishad"
-Indexextra = "(Translation)"
-"Latest update" = "October 12, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अमृइतनादोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 21/108; Krishna-Yajur-Veda, Yoga Upanishad
+File name: amritanada.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: October 12, 1999
+Location: doc_upanishhat
+Proofread by: S.
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Amritanada Upanishad
+Transliterated by: S.
+engtitle: Amritanada Upanishad
+itxtitle: amRitanAdopaniShat
+title: अमृइतनादोपनिषत्
 
-+++
+---
   
  अमृतनादोपनिषत् २१   
   
@@ -74,7 +74,7 @@ title = "अमृइतनादोपनिषत्"
 अन्धवत्पश्य रूपाणि शब्दं बधिरवत् शृणु ।  
 काष्ठवत्पश्य ते देहं प्रशान्तस्येति लक्षणम् ॥ १५॥  
   
-मनः सङ्कल्पकं ध्यात्वा संक्षिप्यात्मनि बुद्धिमान् ।  
+मनः सङ्कल्पकं ध्यात्वा सङ्क्षिप्यात्मनि बुद्धिमान् ।  
 धारयित्वा तथाऽऽत्मानं धारणा परिकीर्तिता ॥ १६॥  
   
 आगमस्याविरोधेन ऊहनं तर्क उच्यते ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "navamaNimAlA A Necklace of Nine Gems"
-"File name" = "navamaNimAlA.itx"
-itxtitle = "navamaNimAlA (sArtham sadAshivendravirachitam)"
-engtitle = "navamaNimAlAA Necklace of Nine Gems"
-Category = "major_works, sadAshivabrahmendra, gurudeva"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Sadashivendra Sarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Translated by" = "V Subrahmanian v.subrahmanian at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवमणिमाला (सार्थम् सदाशिवेन्द्रविरचितम्)"
+---
+Author: Sadashivendra Sarasvati
+Category: major_works, sadAshivabrahmendra, gurudeva
+File name: navamaNimAlA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 2, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: navamaNimAlA A Necklace of Nine Gems
+Translated by: V Subrahmanian v.subrahmanian at gmail.com
+engtitle: navamaNimAlAA Necklace of Nine Gems
+itxtitle: navamaNimAlA (sArtham sadAshivendravirachitam)
+title: नवमणिमाला (सार्थम् सदाशिवेन्द्रविरचितम्)
 
-+++
+---
   
  नवमणिमाला   
 विषयेषु निर्व्यपेक्षं विमलतरज्ञानसम्पदध्यक्षम् ।  

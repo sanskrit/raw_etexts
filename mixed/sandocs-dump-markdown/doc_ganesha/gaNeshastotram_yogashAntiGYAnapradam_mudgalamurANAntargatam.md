@@ -1,24 +1,24 @@
-+++
-"Text title" = "yogashAntiGYAnapradaM gaNeshastotram"
-"File name" = "yogashAntigaNesha.itx"
-itxtitle = "gaNeshastotram yogashAntiGYAnapradam (mudgalamurANAntargatam)"
-engtitle = "gaNeshastotram yogashAntiGYAnapradaM"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P (kardan5380 at yahoo.com) Amith K Nagaraj"
-"Proofread by" = "Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)"
-Description-comments = "mudgalapurANa"
-"Latest update" = "January 2, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तोत्रम् योगशान्तिज्ञानप्रदम् (मुद्गलमुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: mudgalapurANa
+File name: yogashAntigaNesha.itx
+Language: Sanskrit
+Latest update: January 2, 2004
+Location: doc_ganesha
+Proofread by: Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: yogashAntiGYAnapradaM gaNeshastotram
+Texttype: stotra
+Transliterated by: Karthik Chandan.P (kardan5380 at yahoo.com) Amith K Nagaraj
+engtitle: gaNeshastotram yogashAntiGYAnapradaM
+itxtitle: gaNeshastotram yogashAntiGYAnapradam (mudgalamurANAntargatam)
+title: गणेशस्तोत्रम् योगशान्तिज्ञानप्रदम् (मुद्गलमुराणान्तर्गतम्)
 
-+++
+---
   
  योगशान्तिज्ञानप्रदं गणेशस्तोत्रम्   
   
@@ -129,7 +129,7 @@ title = "गणेशस्तोत्रम् योगशान्तिज�
 मायामायिकरूपश्च को जानाति गतिं पराम् ॥ ३४॥  
   
 कथं स्तुमो गणाधीशं योगाकारमयं सदा ।  
-देवा न शंभुमुख्याश्च शक्ताः स्तोतुं कदाचन ॥ ३५॥  
+देवा न शम्भुमुख्याश्च शक्ताः स्तोतुं कदाचन ॥ ३५॥  
   
 वयं धन्या वयं धन्या येन प्रत्यक्षतां गतः ।  
 अस्माकं योगिनां ढुण्ढे कुलदेवस्त्वमञ्जसा ॥ ३६॥  

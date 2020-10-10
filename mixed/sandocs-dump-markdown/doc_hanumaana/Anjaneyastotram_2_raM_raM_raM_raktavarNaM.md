@@ -1,20 +1,20 @@
-+++
-"Text title" = "Anjaneya Stotram 2"
-"File name" = "Anjaneyastotram2.itx"
-itxtitle = "Anjaneyastotram 2 (raM raM raM raktavarNaM)"
-engtitle = "Anjaneyastotram 2"
-Category = "hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आञ्जनेयस्तोत्रम् २ (रं रं रं रक्तवर्णं)"
+---
+Category: hanumaana, hanuman
+File name: Anjaneyastotram2.itx
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: Anjaneya Stotram 2
+engtitle: Anjaneyastotram 2
+itxtitle: Anjaneyastotram 2 (raM raM raM raktavarNaM)
+title: आञ्जनेयस्तोत्रम् २ (रं रं रं रक्तवर्णं)
 
-+++
+---
   
  श्री आञ्जनेयस्तोत्रम्   
 रं रं रं रक्तवर्णं दिनकरवदनं तीक्ष्णदंष्ट्राकरालं  

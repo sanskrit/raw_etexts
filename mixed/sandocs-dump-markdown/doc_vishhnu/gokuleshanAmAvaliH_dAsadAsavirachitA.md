@@ -1,24 +1,24 @@
-+++
-"Text title" = "gokuleshanAmAvaliH"
-"File name" = "gokuleshanAmAvaliH.itx"
-itxtitle = "gokuleshanAmAvaliH (dAsadAsavirachitA)"
-engtitle = "gokuleshanAmAvaliH"
-Category = "vishhnu, krishna, puShTimArgIya, nAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "dAsadAsena"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोकुलेशनामावलिः (दासदासविरचिता)"
+---
+Author: dAsadAsena
+Category: vishhnu, krishna, puShTimArgIya, nAmAvalI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: gokuleshanAmAvaliH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gokuleshanAmAvaliH
+engtitle: gokuleshanAmAvaliH
+itxtitle: gokuleshanAmAvaliH (dAsadAsavirachitA)
+title: गोकुलेशनामावलिः (दासदासविरचिता)
 
-+++
+---
   
  श्रीगोकुलेशनामावलिः   
   

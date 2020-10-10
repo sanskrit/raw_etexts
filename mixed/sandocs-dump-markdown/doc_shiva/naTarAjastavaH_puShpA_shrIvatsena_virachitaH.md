@@ -1,24 +1,24 @@
-+++
-"Text title" = "naTarAjastavaH"
-"File name" = "naTarAjastavaH.itx"
-itxtitle = "naTarAjastavaH (puShpA shrIvatsena virachitaH)"
-engtitle = "naTarAjastavaH"
-Category = "shiva, puShpAshrIvatsan"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali 2017"
-"Latest update" = "September 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नटराजस्तवः (पुष्पा श्रीवत्सेन विरचितः)"
+---
+Author: Pushpa Srivatsan
+Category: shiva, puShpAshrIvatsan
+File name: naTarAjastavaH.itx
+Language: Sanskrit
+Latest update: September 25, 2017
+Location: doc_shiva
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali 2017
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: naTarAjastavaH
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: naTarAjastavaH
+itxtitle: naTarAjastavaH (puShpA shrIvatsena virachitaH)
+title: नटराजस्तवः (पुष्पा श्रीवत्सेन विरचितः)
 
-+++
+---
   
  श्रीनटराजस्तवः   
   

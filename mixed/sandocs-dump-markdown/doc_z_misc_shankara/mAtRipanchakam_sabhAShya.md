@@ -1,23 +1,26 @@
-+++
-"Text title" = "matrupanchakam"
-"File name" = "mAtripanchakam.itx"
-itxtitle = "mAtRipanchakam sabhAShya"
-engtitle = "Matripanchakam of Shankaracharya"
-Category = "panchaka, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Main text by Darshan Bhatt darshanbhatt at hotmail.com, detailed commentary by N. Balasubramanian bbalu at sify.com"
-"Proofread by" = "Darshan Bhatt darshanbhatt at hotmail.com, detailed commentary by N. Balasubramanian bbalu at sify.com"
-"Translated by" = "Darshan Bhatt darshanbhatt@hotmail.com, detailed commentary by N. Balasubramanian bbalu at sify.com"
-Indexextra = "(with commentary)"
-"Latest update" = "October 30, 2009, September 5, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातृइपञ्चकम् सभाष्य"
+---
+Category: panchaka, shankarAchArya
+File name: mAtripanchakam.itx
+Indexextra: (with commentary)
+Language: Sanskrit
+Latest update: October 30, 2009, September 5, 2011
+Location: doc_z_misc_shankara
+Proofread by: Darshan Bhatt darshanbhatt at hotmail.com, detailed commentary by N.
+  Balasubramanian bbalu at sify.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: matrupanchakam
+Translated by: Darshan Bhatt darshanbhatt@hotmail.com, detailed commentary by N. Balasubramanian
+  bbalu at sify.com
+Transliterated by: Main text by Darshan Bhatt darshanbhatt at hotmail.com, detailed
+  commentary by N. Balasubramanian bbalu at sify.com
+engtitle: Matripanchakam of Shankaracharya
+itxtitle: mAtRipanchakam sabhAShya
+title: मातृइपञ्चकम् सभाष्य
 
-+++
+---
   
  मातृपञ्चकम्   
   
@@ -58,7 +61,7 @@ failure to do the ᳚right᳚ deeds and doing the ᳚wrong᳚ deeds.
 अनिग्रहाच्चेन्द्रियाणां नरः पतनमृच्छति ॥   
 says Yagnavalkya Smriti. The deeds include  
 actions done by the body, words and also thoughts.    
-कायेन कुरुते पापं मनसा संप्रधार्य च ।  
+कायेन कुरुते पापं मनसा सम्प्रधार्य च ।  
 अनृतं जिह्वया चाह त्रिविधं कर्म पातकम् ॥ VR-II-109-21.   
   
 DHARMA:- The question, then is, how  
@@ -80,7 +83,7 @@ by doing deeds in the right way ( that is following the dharmic path )
 one can get all he wants  (happiness) here and in the life hereafter  
 also.   
 तेषु सम्यग्वर्तमानः गच्छत्यमरलोकताम् ।  
-यथा संकल्पितांश्चेह सर्वन्कामान्समश्नुते ॥    
+यथा सङ्कल्पितांश्चेह सर्वन्कामान्समश्नुते ॥    
 SOURCES TO KNOW ABOUT DHARMA:-Manu clarifies his statement and says that all  
 vedas are the basis to define dharma.  What the vedas say is further  
 elaborated by  texts like smritis written by scholars well versed in the vedas,  
@@ -125,7 +128,7 @@ for the good of the people. Purusha Suktam says this as: ऋचः समान�
 withdraws everything (including the vedas) into Himself at the time of  
 dissolution (pralayam) and releases them again at the time of creation.  
 अव्यक्ताद्व्यक्तयः सर्वाः प्रभवन्त्यहरागमे ।  
-रात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्त- संज्ञके ॥ BG(8-18).  
+रात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्त- सञ्ज्ञके ॥ BG(8-18).  
 Thus they are eternal. Since they were given out by Bhagavan they are known as  
 Bhagavata dharma (भागवत धर्माः।).   
   
@@ -221,7 +224,7 @@ home.and started serving his parents with devotion.
 यद् दैवतेभ्यः कर्तव्यं तदेताभ्यां करोम्यहम् ॥  
   
 त्रयस्त्रिंशद् यथा देवाः सर्वे शक्रपुरोगमाः ।  
-संपूज्याः सर्वलोकस्य तथा वृद्धाविमौ मम ॥  
+सम्पूज्याः सर्वलोकस्य तथा वृद्धाविमौ मम ॥  
   
 उपहारानाहरन्तो देवतानां यथा द्विजाः ।  
 कुर्वन्ति तद्वदेताभ्यां करोम्यहमतन्द्रितः ॥  
@@ -289,7 +292,7 @@ not obeying them. To neglect the parents, particularly in their old age,
 when they become weak and dependant and to cause anguish is a heinous  
 act for which there is no atonement available says Brahmanda Purana.  
 पातकानां किलान्येषां प्रायश्चित्तानि सन्त्यपि ।  
-मातृद्रुह्यमवेहि त्वं न किंचित् किल निष्कृतिः ॥  
+मातृद्रुह्यमवेहि त्वं न किञ्चित् किल निष्कृतिः ॥  
 Though the above verses talk of service to mother, we should take the word  
 to imply parents.  
   
@@ -300,7 +303,7 @@ be taken as the guideline and  followed by us also.
   
 Manu-the author of Manu Smriti - points out that people cannot requite in full  
 for the suffering undergone by the parents in giving birth and  bringing them up.    
-यं मातापितरौ क्लेशं सहेते संभवे नृणाम् ।  
+यं मातापितरौ क्लेशं सहेते सम्भवे नृणाम् ।  
 न तस्य निष्कृतिः सक्या कर्तुं वर्षशतैरपि ॥ (II-227).   
   
 RAMA AND KRISHNA:- It is said that Lord's human incarnations are intended to  
@@ -321,7 +324,7 @@ released them and repeated what Manu said above.  ᳚Even if one were
 to live for a hundred years, one cannot pay back his parents who gave  
 birth   and nourished his body in which he can realise all the four  
 goals of life.᳚   
-सर्वार्थ-संभवो देहो जनितः पोषितो यतः ।  
+सर्वार्थ-सम्भवो देहो जनितः पोषितो यतः ।  
 न तयोर्याति निर्वेशं पित्रोर्मर्त्यः शतायुषा ॥ Shrimad Bhagavatam (10-45-5).  
 The Ramayana has many instances where Rama talks about  
 this subject. One example is wherein he talks to sage Vashishta - his  
@@ -356,7 +359,7 @@ nurses him. In effect she is one's alter ego.
 नास्ति मातृसमो छाया नास्ति मातृ समा गतिः ।  
 नास्ति मातृसमं त्राणं नास्ति मातृसमा प्रिया ॥  
   
-कुक्षिसंधारणात् धात्री जननाज्जननी स्मृता ।  
+कुक्षिसन्धारणात् धात्री जननाज्जननी स्मृता ।  
 अङ्गानां वर्धनादम्बा वीरसूत्वेन वीरसू ॥  
   
 शिशोः शुश्रूषणाच्छ्श्रूर्माता देहमनन्तरम् ॥ MB (Shanti Parva)  
@@ -375,8 +378,8 @@ from  her food.Even after birth, the child is taken care of by her and
 spends more time with her. She is the one who introduces others, including  
 the  father, to the child She, in effect, becomes the first guru. Krishna  
 said this to his friend Kuchela when they met in Dwaraka.   
-स वै सत्कर्मणां साक्षाद् द्विजाते-रिह संभवः ।  
-आद्योंग यत्राश्रमिणां यथाहं ज्ञानदो गुरुः ॥ BH(10-80-32).  
+स वै सत्कर्मणां साक्षाद् द्विजाते-रिह सम्भवः ।  
+आद्योङ्ग यत्राश्रमिणां यथाहं ज्ञानदो गुरुः ॥ BH(10-80-32).  
 Thus the bondage with the mother is stronger than with others.   
   
 In view of this one finds that  
@@ -415,7 +418,7 @@ enough to convey the contents.
   
 Into your mouth, that said: ᳚You are the pearl of my eyes, my prince, may you  
 live long, son!᳚,  O Mother! I now offer only dry grains of rice. (1)   
-अंबेति तातेति शिवेति तस्मिन्  
+अम्बेति तातेति शिवेति तस्मिन्  
    प्रसूतिकाले यदवोच उच्चैः ।  
 कृष्णेति गोविन्द हरे मुकुन्द  
    इति जनन्यै अहो रचितोऽयमञ्जलिः ॥ २॥  

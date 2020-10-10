@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrIpadmAvatIstotram"
-"File name" = "padmAvatIstotram.itx"
-itxtitle = "padmAvatIstotram (vIrarAghavarachitam)"
-engtitle = "shrIpadmAvatIstotram"
-Category = "devii, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha KavyakalApa"
-Indexextra = "(book Venkatesha KavyakalApa)"
-"Latest update" = "June 10, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पद्मावतीस्तोत्रम् (वीरराघवरचितम्)"
+---
+Category: devii, stotra, devI
+File name: padmAvatIstotram.itx
+Indexextra: (book Venkatesha KavyakalApa)
+Language: Sanskrit
+Latest update: June 10, 2016
+Location: doc_devii
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha KavyakalApa
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIpadmAvatIstotram
+Texttype: stotra
+engtitle: shrIpadmAvatIstotram
+itxtitle: padmAvatIstotram (vIrarAghavarachitam)
+title: पद्मावतीस्तोत्रम् (वीरराघवरचितम्)
 
-+++
+---
   
  श्रीपद्मावतीस्तोत्रम्   
 % २७  

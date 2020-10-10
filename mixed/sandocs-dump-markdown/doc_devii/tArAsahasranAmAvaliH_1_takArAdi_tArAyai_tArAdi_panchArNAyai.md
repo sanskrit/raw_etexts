@@ -1,23 +1,23 @@
-+++
-"Text title" = "tArAsahasranAmAvalI 1 takArAdi"
-"File name" = "tArAsahasranAmAvalI1takArAdi.itx"
-itxtitle = "tArAsahasranAmAvaliH 1 takArAdi (tArAyai tArAdi panchArNAyai)"
-engtitle = "tArAsahasranAmAvalI 1 takArAdi"
-Category = "sahasranAmAvalI, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तारासहस्रनामावलिः १ तकारादि (तारायै तारादि पञ्चार्णायै)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAmAvalI, devii, devI
+File name: tArAsahasranAmAvalI1takArAdi.itx
+Indexextra: (stotramanjari 2)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tArAsahasranAmAvalI 1 takArAdi
+Transliterated by: Shree Devi Kumar
+engtitle: tArAsahasranAmAvalI 1 takArAdi
+itxtitle: tArAsahasranAmAvaliH 1 takArAdi (tArAyai tArAdi panchArNAyai)
+title: तारासहस्रनामावलिः १ तकारादि (तारायै तारादि पञ्चार्णायै)
 
-+++
+---
   
  श्रीतारासहस्रनामावली १ तकारादि   
  १. विश्वव्यापकवारिमध्यविलसच्छ्वेताम्बुजन्मस्थिताम् ।  

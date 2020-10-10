@@ -1,22 +1,22 @@
-+++
-"Text title" = "chaNDIdhvajastotra"
-"File name" = "chaNDIdhvajastotra.itx"
-itxtitle = "chaNDIdhvajastotram"
-engtitle = "chaNDIdhvajastotram"
-Category = "devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vivek Singh viveksview at gmail.com"
-"Latest update" = "February 22, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चण्डीध्वजस्तोत्रम्"
+---
+Category: devii, durgA, stotra, devI
+File name: chaNDIdhvajastotra.itx
+Language: Sanskrit
+Latest update: February 22, 2013
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: chaNDIdhvajastotra
+Texttype: stotra
+Transliterated by: Vivek Singh viveksview at gmail.com
+engtitle: chaNDIdhvajastotram
+itxtitle: chaNDIdhvajastotram
+title: चण्डीध्वजस्तोत्रम्
 
-+++
+---
   
  श्रीचण्डीध्वजस्तोत्रम्   
   

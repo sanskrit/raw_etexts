@@ -1,22 +1,22 @@
-+++
-"Text title" = "Chidambereshvarastotram"
-"File name" = "chidambereshvarastotram.itx"
-itxtitle = "chidambereshvarastotram"
-engtitle = "Chidambareshvara Stotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(Videos 1, 2, English, audio)"
-"Latest update" = "April 4, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चिदम्बेरेश्वरस्तोत्रम्"
+---
+Category: shiva
+File name: chidambereshvarastotram.itx
+Indexextra: (Videos 1, 2, English, audio)
+Language: Sanskrit
+Latest update: April 4, 2019
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Chidambereshvarastotram
+Transliterated by: NA
+engtitle: Chidambareshvara Stotram
+itxtitle: chidambereshvarastotram
+title: चिदम्बेरेश्वरस्तोत्रम्
 
-+++
+---
   
  श्रीचिदम्बरेश्वरस्तोत्रम्   
 ॐ कृपासमुद्रं सुमुखं त्रिनेत्रं जटाधरं पार्वतीवामभागम् ।  

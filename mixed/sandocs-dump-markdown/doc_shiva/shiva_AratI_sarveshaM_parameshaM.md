@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shiva Arati"
-"File name" = "shivAratI.itx"
-itxtitle = "shiva AratI (sarveshaM parameshaM)"
-engtitle = "shiva AratI"
-Category = "AratI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Shailendra Sharma"
-"Proofread by" = "Shailendra Sharma, Avinash Sathaye sohum at ms.uky.edu, Sunder Hattangadi"
-"Latest update" = "December 23, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिव आरती (सर्वेशं परमेशं)"
+---
+Category: AratI, shiva
+File name: shivAratI.itx
+Language: Sanskrit
+Latest update: December 23, 2007
+Location: doc_shiva
+Proofread by: Shailendra Sharma, Avinash Sathaye sohum at ms.uky.edu, Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: shiva
+Text title: Shiva Arati
+Transliterated by: Shailendra Sharma
+engtitle: shiva AratI
+itxtitle: shiva AratI (sarveshaM parameshaM)
+title: शिव आरती (सर्वेशं परमेशं)
 
-+++
+---
   
  श्रीशिव आरती   
   
 सर्वेशं परमेशं श्रीपार्वतीशं वन्देऽहं विश्वेशं श्रीपन्नगेशम् ।  
-श्रीसाम्बं शम्भुं शिवं त्रैलोक्यपूज्यं वन्देऽहं त्रैनेत्रं श्रीकंठमीशम् ॥ १॥  
+श्रीसाम्बं शम्भुं शिवं त्रैलोक्यपूज्यं वन्देऽहं त्रैनेत्रं श्रीकण्ठमीशम् ॥ १॥  
   
 भस्माम्बरधरमीशं सुरपारिजातं बिल्वार्चितपदयुगलं सोमं सोमेशम् ।  
 जगदालयपरिशोभितदेवं परमात्मं वन्देऽहं शिवशङ्करमीशं देवेशम् ॥ २॥  
@@ -28,22 +28,22 @@ title = "शिव आरती (सर्वेशं परमेशं)"
 कैलासप्रियवासं करुणाकरमीशं कात्यायनीविलसितप्रियवामभागम् ।  
 प्रणवार्चितमात्मार्चितं संसेवितरूपं वन्देऽहं शिवशङ्करमीशं देवेशम् ॥ ३॥  
   
-मन्मथनिजमददहनं दाक्षायनीशं निर्गुणगुणसंभरितं कैवल्यपुरुषम् ।  
+मन्मथनिजमददहनं दाक्षायनीशं निर्गुणगुणसम्भरितं कैवल्यपुरुषम् ।  
 भक्तानुग्रहविग्रहमानन्दजैकं वन्देऽहं शिवशङ्करमीशं देवेशम् ॥ ४॥  
   
-सुरगंगासम्प्लावितपावननिजशिखरं समभूषितशशिबिम्बं जटाधरं देवम् ।  
+सुरगङ्गासम्प्लावितपावननिजशिखरं समभूषितशशिबिम्बं जटाधरं देवम् ।  
 निरतोज्ज्वलदावानलनयनफालभागं वन्देऽहं शिवशङ्करमीशं देवेशम् ॥ ५॥  
   
-शशिसूर्यनेत्रद्वयमाराध्यपुरुषं सुरकिन्नरपन्नगमयमीशं संकाशम् ।  
+शशिसूर्यनेत्रद्वयमाराध्यपुरुषं सुरकिन्नरपन्नगमयमीशं सङ्काशम् ।  
 शरवणभवसम्पूजितनिजपादपद्मं वन्देऽहं शिवशङ्करमीशं देवेशम् ॥ ६॥  
   
 श्रीशैलपुरवासं ईशं मल्लीशं श्रीकालहस्तीशं स्वर्णमुखीवासम् ।  
 काञ्चीपुरमीशं श्रीकामाक्षीतेजं वन्देऽहं शिवशङ्करमीशं देवेशम् ॥ ७॥  
   
 त्रिपुरान्तकमीशं अरुणाचलेशं दक्षिणामूर्तिं गुरुं लोकपूज्यम् ।  
-चिदम्बरपुरवासं पञ्चलिंगमूर्तिं वन्देऽहं शिवशङ्करमीशं देवेशम् ॥ ८॥  
+चिदम्बरपुरवासं पञ्चलिङ्गमूर्तिं वन्देऽहं शिवशङ्करमीशं देवेशम् ॥ ८॥  
   
-ज्योतिर्मयशुभलिंगं सङ्ख्यात्रयनाट्यं त्रयीवेद्यमाद्यं पञ्चाननमीशम् ।  
+ज्योतिर्मयशुभलिङ्गं सङ्ख्यात्रयनाट्यं त्रयीवेद्यमाद्यं पञ्चाननमीशम् ।  
 वेदाद्भुतगात्रं वेदार्णवजनितं वेदाग्रं विश्वाग्रं श्रीविश्वनाथम् ॥ ९॥  
   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Surya  Ashtottarashatanamavali 108 names"
-"File name" = "sUryAShTottarashatanAmAvaliH.itx"
-itxtitle = "sUryAShTottarashatanAmAvaliH athavA sUryavaradanAmAvaliH (mahAbhAratAntargatam)"
-engtitle = "sUryAShTottarashatanAmAvaliH"
-Category = "aShTottarashatanAmAvalI, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "yudhiShThiradhaumyasa.nvAde.  See corresponding stotra"
-Source = "mahAbhArate AraNyakaparvaNi"
-"Latest update" = "June 15, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्याष्टोत्तरशतनामावलिः अथवा सूर्यवरदनामावलिः (महाभारतान्तर्गतम्)"
+---
+Category: aShTottarashatanAmAvalI, navagraha
+Description-comments: yudhiShThiradhaumyasa.nvAde.  See corresponding stotra
+File name: sUryAShTottarashatanAmAvaliH.itx
+Language: Sanskrit
+Latest update: June 15, 2020
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: mahAbhArate AraNyakaparvaNi
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Surya  Ashtottarashatanamavali 108 names
+Texttype: stotra
+engtitle: sUryAShTottarashatanAmAvaliH
+itxtitle: sUryAShTottarashatanAmAvaliH athavA sUryavaradanAmAvaliH (mahAbhAratAntargatam)
+title: सूर्याष्टोत्तरशतनामावलिः अथवा सूर्यवरदनामावलिः (महाभारतान्तर्गतम्)
 
-+++
+---
   
  श्रीसूर्याष्टोत्तरशतनामावलिः   
 श्रीगणेशाय नमः ।  

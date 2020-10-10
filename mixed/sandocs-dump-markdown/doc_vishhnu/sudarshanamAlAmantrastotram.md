@@ -1,23 +1,23 @@
-+++
-"Text title" = "sudarshanamAlAmantrastotram"
-"File name" = "sudarshanamAlAmantrastotram.itx"
-itxtitle = "sudarshanamAlAmantrastotram"
-engtitle = "sudarshanamAlAmantrastotram"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुदर्शनमालामन्त्रस्तोत्रम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: sudarshanamAlAmantrastotram.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sudarshanamAlAmantrastotram
+engtitle: sudarshanamAlAmantrastotram
+itxtitle: sudarshanamAlAmantrastotram
+title: सुदर्शनमालामन्त्रस्तोत्रम्
 
-+++
+---
   
  श्रीसुदर्शनमालामन्त्रस्तोत्रम्   
   
@@ -32,7 +32,7 @@ title = "सुदर्शनमालामन्त्रस्तोत्�
 कल्पान्तार्कप्रकाशं त्रिभुवनमखिलं तेजसा पूरयन्तं  
 रक्ताक्षं पिङ्गकेदां रिपुकुलभयदं वज्रदंष्ट्रादृहासम् ।  
 शङ्खं चक्रं कराग्रैः पृथुतरमुसलं चापपाशाङ्कुशादीन्  
-बिभ्राणं दोर्भिराद्यं मनसि मुररिपुं भावयेच्चक्रसंज्ञम् ॥  
+बिभ्राणं दोर्भिराद्यं मनसि मुररिपुं भावयेच्चक्रसञ्ज्ञम् ॥  
   
 ॐ श्रीं ह्रीं क्लीं सहस्रार हुं फट् स्वाहा ।  
 ॐ क्लीं कृष्णाय गोविन्दाय गोपीजनवल्लभाय पराय परमपुरुषाय  

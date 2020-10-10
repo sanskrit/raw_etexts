@@ -1,20 +1,20 @@
-+++
-"Text title" = "vIrabhadradaNDakam 1"
-"File name" = "vIrabhadradaNDakam1.itx"
-itxtitle = "vIrabhadradaNDakam 1"
-engtitle = "Virabhadra Dandakam 1"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(different)"
-"Latest update" = "July 22, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वीरभद्रदण्डकम् १"
+---
+Category: shiva
+File name: vIrabhadradaNDakam1.itx
+Indexextra: (different)
+Language: Sanskrit
+Latest update: July 22, 2017
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: vIrabhadradaNDakam 1
+engtitle: Virabhadra Dandakam 1
+itxtitle: vIrabhadradaNDakam 1
+title: वीरभद्रदण्डकम् १
 
-+++
+---
   
  श्रीवीरभद्रदण्डकम् १   
   

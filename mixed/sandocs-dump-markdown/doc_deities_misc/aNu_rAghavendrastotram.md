@@ -1,22 +1,22 @@
-+++
-"Text title" = "aNurAghavendrastotram"
-"File name" = "aNurAghavendrastotram.itx"
-itxtitle = "aNu rAghavendrastotram"
-engtitle = "aNurAghavendrastotram"
-Category = "deities_misc, stotra, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अणु राघवेन्द्रस्तोत्रम्"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: deities_misc, stotra, gurudev
+File name: aNurAghavendrastotram.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: aNurAghavendrastotram
+engtitle: aNurAghavendrastotram
+itxtitle: aNu rAghavendrastotram
+title: अणु राघवेन्द्रस्तोत्रम्
 
-+++
+---
   
  श्री अणु राघवेन्द्रस्तोत्रम्   
 पूज्याय राघवेन्द्राय सत्यधर्मरताय च ।  

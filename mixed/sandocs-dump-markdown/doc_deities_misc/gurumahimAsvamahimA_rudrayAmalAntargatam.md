@@ -1,26 +1,26 @@
-+++
-"Text title" = "Gurumahima Svamahima"
-"File name" = "gurumahimAsvamahimA.itx"
-itxtitle = "gurumahimAsvamahimA (rudrayAmalAntargatam)"
-engtitle = "gurumahimAsvamahimA"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुमहिमास्वमहिमा (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: deities_misc, gurudev
+Description/comments: rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde
+File name: gurumahimAsvamahimA.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Gurumahima Svamahima
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: gurumahimAsvamahimA
+itxtitle: gurumahimAsvamahimA (rudrayAmalAntargatam)
+title: गुरुमहिमास्वमहिमा (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  गुरुमहिमास्वमहिमा   
 गुरुर्मूलं हि मन्त्राणां गुरुर्मूलं परन्तपः ॥ १-१८८॥  
@@ -40,7 +40,7 @@ title = "गुरुमहिमास्वमहिमा (रुद्रय
 मय्युपासनमास्थाय उपविद्यां सदाभ्यसेत् ।  
 धनं धान्यं सुतं वित्तं राज्यं ब्राह्मणभोजनम् ॥ १-१९३॥  
   
-शुभार्थं संप्रयोक्तव्यं नान्यचिन्ता वृथाफलम् ।  
+शुभार्थं सम्प्रयोक्तव्यं नान्यचिन्ता वृथाफलम् ।  
 नित्यश्राद्धरतो मर्त्यो धर्मशीलो नरोत्तमः ॥ १-१९४॥  
   
 महीपालः प्रियाचारः पीठभ्रमणतत्परः ।  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Gauri Ashtottarashatanamavali 3"
-"File name" = "gauryaShTottarashatanAmAvaliH3.itx"
-itxtitle = "gauryaShTottarashatanAmAvaliH 3"
-engtitle = "Gauri 108 names"
-Category = "aShTottarashatanAmAvalI, devii, pArvatI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pAravatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easearan psaeaswaran at gmail.com"
-"Latest update" = "Julu 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गौर्यष्टोत्तरशतनामावलिः ३"
+---
+Category: aShTottarashatanAmAvalI, devii, pArvatI, nAmAvalI, devI
+File name: gauryaShTottarashatanAmAvaliH3.itx
+Language: Sanskrit
+Latest update: Julu 11, 2018
+Location: doc_devii
+Proofread by: PSA Easearan psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pAravatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gauri Ashtottarashatanamavali 3
+engtitle: Gauri 108 names
+itxtitle: gauryaShTottarashatanAmAvaliH 3
+title: गौर्यष्टोत्तरशतनामावलिः ३
 
-+++
+---
   
  श्रीगौर्यष्टोत्तरशतनामावलिः ३   
 ॐ शिवायै नमः ।  

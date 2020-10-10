@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAstRRi 1000 names starting with letter sha"
-"File name" = "shAstRRishavarNasahasranAmAvalI.itx"
-itxtitle = "shAstRRishavarNasahasranAmAvalI"
-engtitle = "shAstRRishavarNasahasranAmAvalI"
-Category = "deities_misc, ayyappa, sahasranAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "February 26, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शास्तृशवर्णसहस्रनामावली"
+---
+Category: deities_misc, ayyappa, sahasranAmAvalI
+File name: shAstRRishavarNasahasranAmAvalI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 26, 2019
+Location: doc_deities_misc
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shAstRRi 1000 names starting with letter sha
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: shAstRRishavarNasahasranAmAvalI
+itxtitle: shAstRRishavarNasahasranAmAvalI
+title: शास्तृशवर्णसहस्रनामावली
 
-+++
+---
   
  शास्तृशवर्णसहस्रनामावलिः   
          ॥ श्रीः ॥  
@@ -89,7 +89,7 @@ title = "शास्तृशवर्णसहस्रनामावली"
 ॐ शक्राणीविनुताय नमः ।  
 ॐ शक्लाय नमः ।  
 ॐ शक्रोत्सवसमातृकाय नमः ।  
-ॐ शक्वरध्वजसंप्राप्तबलैश्वर्यविराजिताय नमः ।  
+ॐ शक्वरध्वजसम्प्राप्तबलैश्वर्यविराजिताय नमः ।  
 ॐ शक्रोत्थानक्रियारम्भबलिपूजाप्रमोदिताय नमः । ५०  
 ॐ शङ्कवे नमः ।  
 ॐ शङ्काविरहिताय नमः ।  
@@ -626,7 +626,7 @@ title = "शास्तृशवर्णसहस्रनामावली"
 ॐ शिवाशयाय नमः ।  
 ॐ शिवनिष्ठाय नमः ।  
 ॐ शिवजपाय नमः ।  
-ॐ शिवसंज्ञाय नमः ।  
+ॐ शिवसञ्ज्ञाय नमः ।  
 ॐ शिवोर्जिताय नमः ।  
 ॐ शिवमानाय नमः ।  
 ॐ शिवस्थानाय नमः ।  

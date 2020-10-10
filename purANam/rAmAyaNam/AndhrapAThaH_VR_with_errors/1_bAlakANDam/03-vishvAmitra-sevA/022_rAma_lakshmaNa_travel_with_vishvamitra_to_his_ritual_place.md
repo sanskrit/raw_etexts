@@ -3,7 +3,6 @@ title: 022 रामलक्ष्मणनिष्क्रमणम्
 title_english: 022 rAma lakshmaNa travel with vishvamitra to his ritual place
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-022-Rama_Lakshmana_YorniShrakamanam.mp3"></div>
 
 तथा वसिष्ठे ब्रुवति राजा दशरथः सुतम्।  

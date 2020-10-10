@@ -1,21 +1,21 @@
-+++
-"Text title" = "baTukabhairavaprAtaHsmaraNam"
-"File name" = "baTukabhairavaprAtaHsmaraNam.itx"
-itxtitle = "baTukabhairavaprAtaHsmaraNam"
-engtitle = "baTukabhairavaprAtaHsmaraNam"
-Category = "suprabhAta, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com, NA"
-"Latest update" = "November 28, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बटुकभैरवप्रातःस्मरणम्"
+---
+Category: suprabhAta, shiva
+File name: baTukabhairavaprAtaHsmaraNam.itx
+Language: Sanskrit
+Latest update: November 28, 2016
+Location: doc_shiva
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: baTukabhairavaprAtaHsmaraNam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: baTukabhairavaprAtaHsmaraNam
+itxtitle: baTukabhairavaprAtaHsmaraNam
+title: बटुकभैरवप्रातःस्मरणम्
 
-+++
+---
   
  श्रीबटुकभैरवप्रातःस्मरणम्   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAdhAkRRiShNastutiH"
-"File name" = "rAdhAkRRiShNastutiH.itx"
-itxtitle = "rAdhAkRiShNastutiH"
-engtitle = "rAdhAkRRiShNastutiH"
-Category = "devii, krishna, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "krishna radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाकृइष्णस्तुतिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: devii, krishna, radha, devI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: rAdhAkRRiShNastutiH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAkRRiShNastutiH
+engtitle: rAdhAkRRiShNastutiH
+itxtitle: rAdhAkRiShNastutiH
+title: राधाकृइष्णस्तुतिः
 
-+++
+---
   
  श्रीराधाकृष्णस्तुतिः   
   

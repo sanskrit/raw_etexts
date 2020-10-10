@@ -1,23 +1,23 @@
-+++
-"Text title" = "veda mantra manjari - 2"
-"File name" = "vedamantramanjari2.itx"
-itxtitle = "vedamantramanjari - 2"
-engtitle = "vedamantramanjari - 2"
-Category = "sUkta, veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rekha Venkatesh"
-"Proofread by" = "Rekha Venkatesh"
-Description-comments = "Converted from BRH version"
-"Latest update" = "December 29, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदमन्त्रमञ्जरि - २"
+---
+Category: sUkta, veda, svara
+Description-comments: Converted from BRH version
+File name: vedamantramanjari2.itx
+Language: Sanskrit
+Latest update: December 29, 2014
+Location: doc_veda
+Proofread by: Rekha Venkatesh
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: veda mantra manjari - 2
+Texttype: svara
+Transliterated by: Rekha Venkatesh
+engtitle: vedamantramanjari - 2
+itxtitle: vedamantramanjari - 2
+title: वेदमन्त्रमञ्जरि - २
 
-+++
+---
   
  वेदमन्त्रमञ्जरि - २   
 हरिः ॐ  
@@ -326,7 +326,7 @@ title = "वेदमन्त्रमञ्जरि - २"
 आदि॑त्याय॒ नमः॑ ॥ १ ॥  
   
 ॐ आप्या॑यस्व॒ समे॑तु ते वि॒श्वत॑स्स्Oम॒ वृष्णि॑यम् । भवा॒ वाज॑स्य  
-संग॒थे ॥ अ॒प्सुमे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा । अ॒ग्निञ्च॑  
+सङ्ग॒थे ॥ अ॒प्सुमे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा । अ॒ग्निञ्च॑  
 वि॒श्वश॑म्भुव॒माप॑श्च वि॒श्वभे॑षजीः ॥ गौ॒री मि॑माय सलि॒लानि॒  
 तक्ष॒त्येक॑पदी द्वि॒पदी॒ सा चतु॑ष्पदी । अ॒ष्टाप॑दी॒ नव॑पदी बभू॒वुषी॑  
 स॒हस्रा᳚क्षरा पर॒मे व्यो॑मन् ॥ ॐ अधिदेवता प्रत्यधिदेवता सहिताय सोमा॑य॒  

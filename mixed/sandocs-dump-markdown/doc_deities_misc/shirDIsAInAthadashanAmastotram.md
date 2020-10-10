@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Shirdi Sainatha Dashanama Stotram 10 Names"
-"File name" = "shirDIsAInAthadashanAmastotram.itx"
-itxtitle = "shirDIsAInAthadashanAmastotram"
-engtitle = "shirDIsAInAthadashanAmastotram"
-Category = "deities_misc, gurudev, dashanAma"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "January 19, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिर्डीसाईनाथदशनामस्तोत्रम्"
+---
+Category: deities_misc, gurudev, dashanAma
+File name: shirDIsAInAthadashanAmastotram.itx
+Language: Sanskrit
+Latest update: January 19, 2020
+Location: doc_deities_misc
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Shirdi Sainatha Dashanama Stotram 10 Names
+engtitle: shirDIsAInAthadashanAmastotram
+itxtitle: shirDIsAInAthadashanAmastotram
+title: शिर्डीसाईनाथदशनामस्तोत्रम्
 
-+++
+---
   
  श्रीशिर्डीसाईनाथदशनामस्तोत्रम्   
 प्रथमं साईनाथेति द्वितीयं द्वारकामाई ।  

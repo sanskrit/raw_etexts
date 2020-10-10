@@ -1,22 +1,22 @@
-+++
-"Text title" = "vakratuNDagaNeshakavach"
-"File name" = "vakratuNDakavach.itx"
-itxtitle = "vakratuNDagaNeshakavacham"
-engtitle = "vakratuNDagaNeshakavacham"
-Category = "kavacha, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "bhRigu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "February 12, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वक्रतुण्डगणेशकवचम्"
+---
+Author: bhRigu
+Category: kavacha, ganesha
+File name: vakratuNDakavach.itx
+Language: Sanskrit
+Latest update: February 12, 2005
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: vakratuNDagaNeshakavach
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com)
+engtitle: vakratuNDagaNeshakavacham
+itxtitle: vakratuNDagaNeshakavacham
+title: वक्रतुण्डगणेशकवचम्
 
-+++
+---
   
  वक्रतुण्डगणेशकवचम्   
   

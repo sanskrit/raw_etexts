@@ -1,23 +1,23 @@
-+++
-"Text title" = "vANIsharaNAgatistotram"
-"File name" = "vANIsharaNAgatistotram.itx"
-itxtitle = "vANIsharaNAgatistotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "vANIsharaNAgatistotram"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाणीशरणागतिस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI
+File name: vANIsharaNAgatistotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vANIsharaNAgatistotram
+engtitle: vANIsharaNAgatistotram
+itxtitle: vANIsharaNAgatistotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: वाणीशरणागतिस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीवाणीशरणागतिस्तोत्रम्   
 वेणीं सितेतरसमीरणभोजितुल्यां  

@@ -1,28 +1,28 @@
-+++
-"Text title" = "vishvanAthAShTakam"
-"File name" = "vishvanaatha8.itx"
-itxtitle = "vishvanAthAShTakam"
-engtitle = "vishvanAthAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subramanian Ganesh sgesh at hotmail.com"
-"Proofread by" = "Subramanian Ganesh sgesh at hotmail.com"
-"Latest update" = "October 14, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वनाथाष्टकम्"
+---
+Author: Traditional
+Category: aShTaka, shiva
+File name: vishvanaatha8.itx
+Language: Sanskrit
+Latest update: October 14, 2000
+Location: doc_shiva
+Proofread by: Subramanian Ganesh sgesh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: vishvanAthAShTakam
+Transliterated by: Subramanian Ganesh sgesh at hotmail.com
+engtitle: vishvanAthAShTakam
+itxtitle: vishvanAthAShTakam
+title: विश्वनाथाष्टकम्
 
-+++
+---
   
  विश्वनाथाष्टकम्   
   
-गङ्गातरंगरमणीयजटाकलापं  
+गङ्गातरङ्गरमणीयजटाकलापं  
 गौरीनिरन्तरविभूषितवामभागम् ।  
-नारायणप्रियमनंगमदापहारं  
+नारायणप्रियमनङ्गमदापहारं  
 वाराणसीपुरपतिं भज विश्वनाथम् ॥  
   
 वाचामगोचरमनेकगुणस्वरूपं  
@@ -30,18 +30,18 @@ title = "विश्वनाथाष्टकम्"
 वामेनविग्रहवरेणकलत्रवन्तं  
 वाराणसीपुरपतिं भज विश्वनाथम् ॥  
   
-भूताधिपं भुजगभूषणभूषितांगं  
-व्याघ्राजिनांबरधरं जटिलं त्रिनेत्रम् ।  
-पाशांकुशाभयवरप्रदशूलपाणिं  
+भूताधिपं भुजगभूषणभूषिताङ्गं  
+व्याघ्राजिनाम्बरधरं जटिलं त्रिनेत्रम् ।  
+पाशाङ्कुशाभयवरप्रदशूलपाणिं  
 वाराणसीपुरपतिं भज विश्वनाथम् ।  
   
 शीतांशुशोभितकिरीटविराजमानं  
-भालेक्षणानलविशोषितपंचबाणम् ।  
+भालेक्षणानलविशोषितपञ्चबाणम् ।  
 नागाधिपारचितभासुरकर्णपूरं  
 वाराणसीपुरपतिं भज विश्वनाथम् ॥  
   
-पंचाननं दुरितमत्तमतङ्गजानां  
-नागान्तकं दनुजपुंगवपन्नगानाम् ।  
+पञ्चाननं दुरितमत्तमतङ्गजानां  
+नागान्तकं दनुजपुङ्गवपन्नगानाम् ।  
 दावानलं मरणशोकजराटवीनां  
 वाराणसीपुरपतिं भज विश्वनाथम् ॥  
   

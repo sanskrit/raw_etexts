@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrIrAmadurgastotram"
-"File name" = "shrIrAmadurgastotram.itx"
-itxtitle = "rAmadurgastotram"
-engtitle = "shrIrAmadurgastotram"
-Category = "kavacha, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-"Latest update" = "March 20, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामदुर्गस्तोत्रम्"
+---
+Author: Traditional
+Category: kavacha, raama
+File name: shrIrAmadurgastotram.itx
+Language: Sanskrit
+Latest update: March 20, 2016
+Location: doc_raama
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: shrIrAmadurgastotram
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: shrIrAmadurgastotram
+itxtitle: rAmadurgastotram
+title: रामदुर्गस्तोत्रम्
 
-+++
+---
   
  श्रीरामदुर्गस्तोत्रम्   
   

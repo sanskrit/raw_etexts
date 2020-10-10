@@ -1,25 +1,25 @@
-+++
-"Text title" = "premAmRitarasAyanastotram"
-"File name" = "premAmRRitarasAyanastotram.itx"
-itxtitle = "premAmRitarasAyanastotram (vallabhAchAryavirachitam)"
-engtitle = "premAmRitarasAyanastotram"
-Category = "vishhnu, krishna, vishnu, vallabhaachaarya, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Chaitanyamahaprabhu, vallabhAchArya attribution"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malika Das March 18, 2004"
-"Proofread by" = "Malika Das, Shankara shankara_2000 at yahoo.com"
-Indexextra = "(commentary, pushti margiya stotraratnAkara)"
-Acknowledge-Permission = "Premamrta-rasayanam, Jagat at http://granthamandira.net"
-"Latest update" = "January 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रेमामृइतरसायनस्तोत्रम् (वल्लभाचार्यविरचितम्)"
+---
+Acknowledge-Permission: Premamrta-rasayanam, Jagat at http://granthamandira.net
+Author: Chaitanyamahaprabhu, vallabhAchArya attribution
+Category: vishhnu, krishna, vishnu, vallabhaachaarya, puShTimArgIya
+File name: premAmRRitarasAyanastotram.itx
+Indexextra: (commentary, pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: January 28, 2017
+Location: doc_vishhnu
+Proofread by: Malika Das, Shankara shankara_2000 at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: premAmRitarasAyanastotram
+Transliterated by: Malika Das March 18, 2004
+engtitle: premAmRitarasAyanastotram
+itxtitle: premAmRitarasAyanastotram (vallabhAchAryavirachitam)
+title: प्रेमामृइतरसायनस्तोत्रम् (वल्लभाचार्यविरचितम्)
 
-+++
+---
   
  प्रेमामृतरसायनस्तोत्रम्   
 प्रेमावतारश्रीमन्महाप्रभुकृष्णचैतन्यदेव  

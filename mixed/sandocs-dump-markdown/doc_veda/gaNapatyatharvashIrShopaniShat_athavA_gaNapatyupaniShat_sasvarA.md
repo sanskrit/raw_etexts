@@ -1,25 +1,26 @@
-+++
-"Text title" = "Ganapati Atharvashirsha Upanishad with Vedic Accents"
-"File name" = "ganapatiaccent.itx"
-itxtitle = "gaNapatyatharvashIrShopaniShat athavA gaNapatyupaniShat (sasvarA)"
-engtitle = "gaNapatyatharvashIrShopaniShat"
-Category = "atharvashIrSha, upanishhat, svara, upanishad, ganesha, veda"
-Location = "doc_veda"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com) and Kirk Wortman kirkwort at hotmail.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-Description-comments = "89 / 108; Atharva Veda - Shaiva upanishad"
-Indexextra = "(without accents, Meanings 1, 2, 3, Marathi, sabhAShya, Hindi)"
-"Latest update" = "January 14, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपत्यथर्वशीर्षोपनिषत् अथवा गणपत्युपनिषत् (सस्वरा)"
+---
+Author: Vedic tradition
+Category: atharvashIrSha, upanishhat, svara, upanishad, ganesha, veda
+Description-comments: 89 / 108; Atharva Veda - Shaiva upanishad
+File name: ganapatiaccent.itx
+Indexextra: (without accents, Meanings 1, 2, 3, Marathi, sabhAShya, Hindi)
+Language: Sanskrit
+Latest update: January 14, 2020
+Location: doc_veda
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Ganapati Atharvashirsha Upanishad with Vedic Accents
+Texttype: svara
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com) and Kirk Wortman kirkwort
+  at hotmail.com
+engtitle: gaNapatyatharvashIrShopaniShat
+itxtitle: gaNapatyatharvashIrShopaniShat athavA gaNapatyupaniShat (sasvarA)
+title: गणपत्यथर्वशीर्षोपनिषत् अथवा गणपत्युपनिषत् (सस्वरा)
 
-+++
+---
   
  श्रीगणपत्यथर्वशीर्षोपनिषत् गणपत्युपनिषत् सस्वर   
   

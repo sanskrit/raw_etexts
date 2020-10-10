@@ -3,7 +3,6 @@ title: 021 Rama becomes angry at the ocean
 title_english: 021 Rama becomes angry at the ocean
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-021-Rama_becomes_angry_at_the_ocean.mp3"></div>
 
 ततः सागरवेलायाम् दर्भानास्तीर्य राघवः ।  

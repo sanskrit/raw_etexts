@@ -1,22 +1,22 @@
-+++
-"Text title" = "sItArAmAShTakam"
-"File name" = "siitaaraama8.itx"
-itxtitle = "sItArAmAShTakam"
-engtitle = "sItArAmAShTakam"
-Category = "aShTaka, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "achyutayati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.webdunia.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-"Latest update" = "January 13, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीतारामाष्टकम्"
+---
+Author: achyutayati
+Category: aShTaka, raama
+File name: siitaaraama8.itx
+Language: Sanskrit
+Latest update: January 13, 2002
+Location: doc_raama
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: sItArAmAShTakam
+Transliterated by: http://www.webdunia.com
+engtitle: sItArAmAShTakam
+itxtitle: sItArAmAShTakam
+title: सीतारामाष्टकम्
 
-+++
+---
   
  श्रीसीतारामाष्टकम्   
   

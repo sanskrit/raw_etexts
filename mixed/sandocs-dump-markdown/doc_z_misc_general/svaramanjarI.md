@@ -1,34 +1,35 @@
-+++
-"Text title" = "svaramaJNjarI"
-"File name" = "svaramanj.itx"
-itxtitle = "svaramanjarI"
-engtitle = "svaramanjarI text with trans. explaining Vedic accents"
-Category = "misc, sahitya, svara"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Subcategory = "sahitya"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Avinash Sathaye sohum at ms.uky.edu"
-"Proofread by" = "Avinash Sathaye sohum at ms.uky.edu"
-Indexextra = "(text + trans. on Vedic accents grammar rules related to accents (by Tryambak B. Abhyankar)  See also notes by Charles Wikner on Vedic Accents, PS)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वरमञ्जरी"
+---
+Category: misc, sahitya, svara
+File name: svaramanj.itx
+Indexextra: (text + trans. on Vedic accents grammar rules related to accents (by Tryambak
+  B. Abhyankar)  See also notes by Charles Wikner on Vedic Accents, PS)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_z_misc_general
+Proofread by: Avinash Sathaye sohum at ms.uky.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: svaramaJNjarI
+Texttype: svara
+Transliterated by: Avinash Sathaye sohum at ms.uky.edu
+engtitle: svaramanjarI text with trans. explaining Vedic accents
+itxtitle: svaramanjarI
+title: स्वरमञ्जरी
 
-+++
+---
   
  स्वरमञ्जरी   
   
 स्वरमञ्जरी अर्थात् अष्टविकृत्युपेता  
 ॥ संहिता-पदपाठविमर्शसहिता वैदिकस्वरपद्धतिः ॥   
-(लेखकः - वे । शा । सं । गीर्वाणभूषण त्र्यंबक बलवंत अभ्यंकर, बी । ए । [ संस्कृत आॅ।] पुणे।)  
+(लेखकः - वे । शा । सं । गीर्वाणभूषण त्र्यम्बक बलवन्त अभ्यङ्कर, बी । ए । [ संस्कृत आॅ।] पुणे।)  
 ॥ प्रथमगुच्छः - स्वरप्रक्रियात्मकः ॥   
 मङ्गलम् (Invocation:)    
-नानानामधरं लोके लोकानामभयंकरम् ।  
-सदाशिवस्वरूपं तं त्र्यंबकं प्रणमाम्यहम् ॥ १॥   
+नानानामधरं लोके लोकानामभयङ्करम् ।  
+सदाशिवस्वरूपं तं त्र्यम्बकं प्रणमाम्यहम् ॥ १॥   
 Translation :    
 I bow before the three-eyed God Shiva with auspicious features who has many different names and  
 protects the people of the worlds.  
@@ -42,10 +43,10 @@ Translation:
 Accents are the precious features of the Vedas, it is easy to know the meaning through the  
 accents, also the expert in the accents acquires the proper intonation of the Vedas through  
 their use.  
- ग्रंथप्रयोजनम्  (Purpose of this book.)  
+ ग्रन्थप्रयोजनम्  (Purpose of this book.)  
   
 स्वरज्ञानप्रवेशाय द्विजानां वेदपाठिनाम् ।  
-त्र्यंबकीयामिमां वक्ष्ये वैदिकस्वरपद्धतिम् ॥ ३॥  
+त्र्यम्बकीयामिमां वक्ष्ये वैदिकस्वरपद्धतिम् ॥ ३॥  
   
 भगवान् पाणिनिर्वेत्ति स्वरशास्त्रमहार्णवम् ।  
 उडुपं मत्कृतिर्भूयात् तरितुं तं सुदुस्तरम् ॥ ४॥  
@@ -55,7 +56,7 @@ their use.
   
   
 Translation:    
-I will describe my (त्र्यंबकीय) system of accents to introduce the Vedic students  
+I will describe my (त्र्यम्बकीय) system of accents to introduce the Vedic students  
 to the science of the accents . Lord Panini knows the whole ocean of this science, let my  
 work serve as a boat to cross this difficult ocean! (To date) no effort like this has been  
 made to make the technical discussion of this subtle subject accessible to a layman.  
@@ -97,7 +98,7 @@ AnudAtta, UdAtta, Svarita and Prachaya is the list of accents . All except UdAtt
 as Nihata (lowered at the end).  
  उदात्तमहत्त्वम्  (Importance of UdAtta)  
   
-उदात्तो ध्रुव एतेषामुदात्तालंबिनोऽपरे ।  
+उदात्तो ध्रुव एतेषामुदात्तालम्बिनोऽपरे ।  
 उदात्त एक एवास्ति निश्चितश्च पदे पदे ॥ ११॥  
   
   
@@ -157,7 +158,7 @@ Translation:
 The first AnudAtta after an UdAtta is a Svarita.  
 प्रचयः (Prachaya)  
   
-स्वरितोत्तरतः सर्वेऽनुदात्ताः प्रचयाः स्मृताः । - इमं मे गंगे यमुने ।  
+स्वरितोत्तरतः सर्वेऽनुदात्ताः प्रचयाः स्मृताः । - इमं मे गङ्गे यमुने ।  
   
 Translation:    
 All AnudAttas (in a string) following a Svarita are known as Prachaya  
@@ -202,7 +203,7 @@ hence is a Sannatara.
 स्वरसन्धयः (Vowel joins across Padas)  
   
 उच्चेन परभूतेन सन्धिर्नित्यमुदात्तकः ।  
-तथैव पूर्वभूतेन यदि जात्यो न संभवेत्  ॥  २२॥ - त्रीणि+एकः = त्रीण्येकः । नावा+इव=नावेव ।  
+तथैव पूर्वभूतेन यदि जात्यो न सम्भवेत्  ॥  २२॥ - त्रीणि+एकः = त्रीण्येकः । नावा+इव=नावेव ।  
   
 Translation:    
 If an UdAtta or AnudAtta syllable joines with the following UdAtta (vowel), then  
@@ -226,32 +227,32 @@ generally sounds UdAtta.
 जात्यभेदः (Classes of JAtya)  
   
 स जात्यस्वरितश्चास्ति भेद्योऽभेद्य इति द्विधा ।  
-अभेद्यः पदसंभूतो भेद्यश्च द्विपदोत्थितः ॥  २५॥ - राजन्यः । सोऽकामयत ।  
+अभेद्यः पदसम्भूतो भेद्यश्च द्विपदोत्थितः ॥  २५॥ - राजन्यः । सोऽकामयत ।  
   
 Translation:    
 This JAtya is called indivisible, if it arises within a Pada, while it is divisible if it  
 comes due to joining two Padas.  
 क्षैप्रः (Kshaipra)  
   
-उदात्तस्यानुदात्तस्य यदा संधिर्यणात्मकः ।  
-क्षैप्रनामा तदा जात्यस्वरितः सर्वदा भवेत् ॥  २६॥ - त्रि+अंबकम्=त्र्यम्बकम् ।  
+उदात्तस्यानुदात्तस्य यदा सन्धिर्यणात्मकः ।  
+क्षैप्रनामा तदा जात्यस्वरितः सर्वदा भवेत् ॥  २६॥ - त्रि+अम्बकम्=त्र्यम्बकम् ।  
   
 Translation:    
 If an UdAtta and AnudAtta join creats YaN (the consonants y, v, r, l), then the resulting  
 JAtya is known as Kshaipra.  
 प्रश्लिष्टः (PrashliShTa)  
   
-स संधिस्तु यदा भूयात् ह्रस्वेकारद्वयोत्थितः ।  
-प्रश्लिष्टसंज्ञको जात्यः शाकल्यमततो भवेत् ॥  २७॥ - दिवि+इव  = दिवीव ।  
+स सन्धिस्तु यदा भूयात् ह्रस्वेकारद्वयोत्थितः ।  
+प्रश्लिष्टसञ्ज्ञको जात्यः शाकल्यमततो भवेत् ॥  २७॥ - दिवि+इव  = दिवीव ।  
   
 Translation:    
 If the join comes from two short i, then according to ShAkalya, it is called PrashliShTa.  
 अभिनिहितः (Abhinihita)  
   
-ए-अ-स्वरात्मकः स्याच्चेत् संधिः सोऽवग्रहान्वितः ।  
+ए-अ-स्वरात्मकः स्याच्चेत् सन्धिः सोऽवग्रहान्वितः ।  
 तदाभिनिहितो नाम जात्यस्वरित उच्यते ॥  २८॥  
   
-                              - ये+अंतरिक्षे = येंऽतरिक्षे । यः+अस्मान्=योऽस्मान् ।  
+                              - ये+अन्तरिक्षे = येंऽतरिक्षे । यः+अस्मान्=योऽस्मान् ।  
   
 Translation:    
 If the join is a combination of e and a resulting in an Avagraha, then it is known as  
@@ -292,7 +293,7 @@ it becomes NIcha (AnudAtta) if it is further followed by an UdAtta.
 जात्यस्वरितः (Independent Svarita)  
   
 नीचात्परः पदादौ वा स्वरूपेणोभयात्मकः ।  
-स्वयं च स्वरितो जात्य उच्चतुल्यश्च कंपवान्  ॥  ३५॥ - राजन्यः । क्व ।  
+स्वयं च स्वरितो जात्य उच्चतुल्यश्च कम्पवान्  ॥  ३५॥ - राजन्यः । क्व ।  
   
 Translation:    
 The JAtya Svarita is naturally created (as described) in the beginning of a Pada or after  
@@ -325,9 +326,9 @@ be made too high or too low). The actual method must be learned from the Guru di
 मध्ये सहेतुकं हन्तचनेद्धिकुविदन्वितम् ॥  ३९॥  
   
 यस्मादामन्त्रितं वाक्ये नान्तर्भवितुमर्हति ।  
-उच्चं क्रियापदं वाक्यादिस्थसंबोधनात्परम् ॥  ४०॥ - अग्ने नय ।  
+उच्चं क्रियापदं वाक्यादिस्थसम्बोधनात्परम् ॥  ४०॥ - अग्ने नय ।  
 निरुदात्तमनादिस्थं मुख्यवाक्यक्रियापदम् ।  
-उपसर्गः पदं भिन्नं चोपसर्ग उदात्तकः ॥  ४१॥ त्र्यंबकं यजामहे । इदं विष्णुर्विचक्रमे ।  
+उपसर्गः पदं भिन्नं चोपसर्ग उदात्तकः ॥  ४१॥ त्र्यम्बकं यजामहे । इदं विष्णुर्विचक्रमे ।  
 उदात्तकं सदैवास्ते गौणवाक्यक्रियापदम् ।  
 क्रियापदपदाङ्गश्चेदुपसर्गोऽनुदात्तकः ॥  ४२॥ - य ईशे अस्य । यतो विष्णुर्विचक्रमे ।  
 यदि तौलनिकोक्तिश्चेदाद्यवाक्यक्रियापदम् ।  
@@ -341,11 +342,11 @@ be made too high or too low). The actual method must be learned from the Guru di
 विनाद्यामुच्चकाः शेषास्ताभ्यो वाक्यं नवं यतः ॥  ४४॥ तरणिरिज्जयति क्षेति पुष्यति ।  
   
 Translation:    
-संबोधनस्वराः:-  
-संबोधनमनादिस्थं निहतं चेदहेतुकम् ।  
+सम्बोधनस्वराः:-  
+सम्बोधनमनादिस्थं निहतं चेदहेतुकम् ।  
 वाक्यारम्भे च पादादौ त्वाद्यवर्ण उदात्तकम् ॥  ४५॥ - नमस्ते रुद्र  । प्रजापते न त्वदेतान्यन्यो ।  
-वाक्यारम्भस्थितानेकसंबुद्धय उदात्तकाः ।  
-प्रायोऽनुदात्तकं विद्यात् संबोधनविशेषणम् ॥  ४६॥ - द्रापेअन्धसस्पते दरिद्रत् । पृथिवि मातः ।  
+वाक्यारम्भस्थितानेकसम्बुद्धय उदात्तकाः ।  
+प्रायोऽनुदात्तकं विद्यात् सम्बोधनविशेषणम् ॥  ४६॥ - द्रापेअन्धसस्पते दरिद्रत् । पृथिवि मातः ।  
   
 Translation:    
 समासस्वराः:-  
@@ -360,7 +361,7 @@ Translation:
 Translation:    
 dव्यु दात्तकाः:-  
 प्रायेण देवताद्वन्द्वे पदद्वयमुदात्तकम् । - द्यावापृथिवी ।  
-परन्तु चाव्ययद्वन्द्वे पूर्वं पदमुदात्तकम् ॥  ५०॥ - सायंप्रातः ।  
+परन्तु चाव्ययद्वन्द्वे पूर्वं पदमुदात्तकम् ॥  ५०॥ - सायम्प्रातः ।  
 यदि षष्ठीविभक्त्यङ्गं समासप्रथमं पदम् ।  
 उदात्तकं तदा भूयात् तत्समासपदद्वयम् ॥  ५१॥- बृहस्पतिः । शुनः शेपः । ब्रह्मणस्पतिः ।  
 तवै-प्रत्ययुक्षब्दस्यादिश्चान्त उदात्तकः । - एतवै ।  
@@ -374,7 +375,7 @@ Translation:
   
 Translation:    
 सर्वदानुदात्तकाः:-  
-संबोधनं तथा नित्यं मुख्यवाक्यक्रियापदम् ।  
+सम्बोधनं तथा नित्यं मुख्यवाक्यक्रियापदम् ।  
 यदा न वाक्यपादादौ तदा तन्निरुदात्तकम्  ॥  ५४॥ - इमं मे गङ्गे यमुने । गणपतिं हवामहे ।  
 सर्वनाम्नां च रूपाणि यानि वैकल्पिकानि तु  ।  
 ईम्-सीम्-यथा च वाक्यान्ते निपाता निरुदात्तकाः  ॥  ५४ अ ॥ - या त इषुः । विशो यथा ।  
@@ -501,7 +502,7 @@ Translation:
 Translation:    
 तैत्तिरीयविशेषाः:-  
 विशेषाः पदपाठीयास्तैत्तिरीया अधस्तनाः ।  
-मुख्यक्रियोपसर्गाणां नेदिष्ट इतिशब्दभाग् ॥  ८४॥ - अभि । समिति । नमंतु ।  
+मुख्यक्रियोपसर्गाणां नेदिष्ट इतिशब्दभाग् ॥  ८४॥ - अभि । समिति । नमन्तु ।  
 यानि विग्रहयोग्यानि संहितायां पदानि च ।  
 अवग्रहान्वितस्तेषां विग्रहश्चेत्यनन्तरम् ॥  ८५॥ - महेन्द्र इति महाऽइन्द्रः । वर्मभिरिति वर्मऽभिः ।  
 अवग्रहात् परं शब्दं भिन्नं मत्वा स्वरं लिखेत् ।  
@@ -529,7 +530,7 @@ Translation:
 Translation:    
            ॥उपसंहारः ॥   
 :-  
-अभ्यंकरकुलोत्पन्नस्त्र्यंबको बालदेहजः ।  
+अभ्यङ्करकुलोत्पन्नस्त्र्यम्बको बालदेहजः ।  
 समीक्ष्य संहिताः सम्यक् कृतवान् स्वरमञ्जरीम् ॥  ९२॥  
   
 वेदार्थसुखबोधाय शास्त्रीयपठणाय च  ।  
@@ -543,8 +544,8 @@ Translation:
   
   
 Translation:    
-॥ इति श्री । बी । ए । इत्युपपदसमलंकृत-गीर्वाणभूषण-अभ्यंकरोपाह्व  
-त्र्यंबकशास्त्रिप्रणीतस्वरमञ्जरी समाप्ता ॥   
+॥ इति श्री । बी । ए । इत्युपपदसमलङ्कृत-गीर्वाणभूषण-अभ्यङ्करोपाह्व  
+त्र्यम्बकशास्त्रिप्रणीतस्वरमञ्जरी समाप्ता ॥   
   
 Encoded and proofread by Avinash Sathaye sohum at ms.uky.edu  
 Some portion is not translated yet, but the  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAmagItA"
-"File name" = "raamagitaa.itx"
-itxtitle = "rAmagItA 1 (adhyAtmarAmAyaNAntargatam)"
-engtitle = "rAmagItA"
-Category = "gItA, raama, giitaa, vedanta"
-Location = "doc_giitaa"
-Sublocation = "raama"
-Author = "veda vyaasa (traditionally ascribed)"
-Language = "Sanskrit"
-Subject = "philosophy/religion"
-"Transliterated by" = "Sunder Hattangadi"
-"Proofread by" = "Sunder Hattangadi"
-Description-comments = "vedaanta philosophy,@shruti-saara-sangraha@,in the form of"
-Indexextra = "(1, 2, Hindi 1, 2, 3)"
-"Latest update" = "Dec. 17, 1997"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामगीता १ (अध्यात्मरामायणान्तर्गतम्)"
+---
+Author: veda vyaasa (traditionally ascribed)
+Category: gItA, raama, giitaa, vedanta
+Description-comments: vedaanta philosophy,@shruti-saara-sangraha@,in the form of
+File name: raamagitaa.itx
+Indexextra: (1, 2, Hindi 1, 2, 3)
+Language: Sanskrit
+Latest update: Dec. 17, 1997
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion
+Sublocation: raama
+Text title: rAmagItA
+Transliterated by: Sunder Hattangadi
+engtitle: rAmagItA
+itxtitle: rAmagItA 1 (adhyAtmarAmAyaNAntargatam)
+title: रामगीता १ (अध्यात्मरामायणान्तर्गतम्)
 
-+++
+---
   
  श्रीरामगीता   
 श्रीमहादेव उवाच -  
@@ -68,7 +68,7 @@ title = "रामगीता १ (अध्यात्मरामायण�
 विद्यैव तन्नाशविधौ पटीयसी  
        न कर्म तज्जं सविरोधमीरितम् ॥ ९॥  
   
-नाज्ञानहानिर्न च रागसंक्षयो  
+नाज्ञानहानिर्न च रागसङ्क्षयो  
        भवेत्ततः कर्म सदोषमुद्भवेत् ।  
 ततः पुनः संसृतिरप्यवारिता  
        तस्माद्बुधो ज्ञानविचारवान्भवेत् ॥ १०॥  
@@ -264,7 +264,7 @@ title = "रामगीता १ (अध्यात्मरामायण�
 तदेव वाच्यं प्रणवो हि वाचको  
        विभाव्यतेऽज्ञानवशान्न बोधतः ॥ ४८॥  
   
-अकारसंज्ञः पुरुषो हि विश्वको  
+अकारसञ्ज्ञः पुरुषो हि विश्वको  
        ह्युकारकस्तैजस ईर्यते क्रमात् ।  
 प्राज्ञो मकारः परिपठ्यतेऽखिलैः  
        समाधिपूर्वं न तु तत्त्वतो भवेत् ॥ ४९॥  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Bhuvanamandale Navayugamudayatu"
-"File name" = "bhuvanamaNDalenavayugamudayatu.itx"
-itxtitle = "bhuvanamaNDale navayugamudayatu"
-engtitle = "bhuvanamaNDale navayugamudayatu"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनमण्डले नवयुगमुदयतु"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: bhuvanamaNDalenavayugamudayatu.itx
+Indexextra: (Wiki, Videos 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bhuvanamandale Navayugamudayatu
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: bhuvanamaNDale navayugamudayatu
+itxtitle: bhuvanamaNDale navayugamudayatu
+title: भुवनमण्डले नवयुगमुदयतु
 
-+++
+---
   
  भुवनमण्डले नवयुगमुदयतु   
 भुवनमण्डले नवयुगमुदयतु सदा विवेकानन्दमयम् ।  

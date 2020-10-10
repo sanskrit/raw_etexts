@@ -1,23 +1,23 @@
-+++
-"Text title" = "Purvadinacharya"
-"File name" = "pUrvadinacharyA.itx"
-itxtitle = "pUrvadinacharyA"
-engtitle = "pUrvadinacharyA"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Ramanuja Stotramala"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पूर्वदिनचर्या"
+---
+Category: deities_misc, gurudev
+Description/comments: Ramanuja Stotramala
+File name: pUrvadinacharyA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Purvadinacharya
+engtitle: pUrvadinacharyA
+itxtitle: pUrvadinacharyA
+title: पूर्वदिनचर्या
 
-+++
+---
   
  पूर्वदिनचर्या   
 श्रीदेवराजगुरुभिरनुगृहीता  

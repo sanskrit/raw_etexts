@@ -1,21 +1,21 @@
-+++
-"Text title" = "viShNukavachastotram"
-"File name" = "viShNukavachastotram.itx"
-itxtitle = "viShNukavachastotram"
-engtitle = "viShNukavachastotram"
-Category = "kavacha, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras"
-"Latest update" = "May 5, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुकवचस्तोत्रम्"
+---
+Category: kavacha, vishhnu, vishnu
+Description/comments: shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras
+File name: viShNukavachastotram.itx
+Language: Sanskrit
+Latest update: May 5, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNukavachastotram
+engtitle: viShNukavachastotram
+itxtitle: viShNukavachastotram
+title: विष्णुकवचस्तोत्रम्
 
-+++
+---
   
  श्रीविष्णुकवचस्तोत्रम्   
   

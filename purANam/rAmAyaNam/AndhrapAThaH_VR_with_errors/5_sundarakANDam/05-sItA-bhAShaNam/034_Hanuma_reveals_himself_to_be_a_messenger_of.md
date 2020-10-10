@@ -3,12 +3,11 @@ title: 034 Hanuma reveals himself to be a messenger of
 title_english: 034 Hanuma reveals himself to be a messenger of
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-034-Hanuma_reveals_himself_to_be_a_messenger_of.mp3"></div>
 
 तस्याः तत् वचनम् श्रुत्वा हनूमान् हरि यूथपः ।  
 दुह्खात् दुह्ख अभिभूतायाः सान्तम् उत्तरम् अब्रवीत् ॥ ५-३४-१  
-अहम् रामस्य संदेशात् देवि दूतः तव आगतः ।  
+अहम् रामस्य सन्देशात् देवि दूतः तव आगतः ।  
 वैदेहि कुशली रामः त्वाम् च कौशलम् अब्रवीत् ॥ ५-३४-२  
 यो ब्राह्मम् अस्त्रम् वेदान् च वेद वेदविदाम् वरः ।  
 स त्वाम् दाशरथी रामो देवि कौशलम् अब्रवीत् ॥ ५-३४-३  

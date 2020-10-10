@@ -3,7 +3,6 @@ title: 021 Surpanakha reports demons death to Khara
 title_english: 021 Surpanakha reports demons death to Khara
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-021-Kharamthike_Shoorpanakaa_Shokaha_.mp3"></div>
 
 स पुनः पतिताम् दृष्ट्वा क्रोधात् शूर्पणखाम् खरः ।  
@@ -48,6 +47,6 @@ title_english: 021 Surpanakha reports demons death to Khara
 स हि तेजः समायुक्तो रामो दशरथात्मजः ॥ ३-२१-२०  
 भ्राता च अस्य महा वीर्यो येन च अस्मि विरूपिता ।  
 एवम् विलाप्य बहुशो राक्ष्सी प्रदरोदरी ॥ ३-२१-२१  
-भ्रातुः समीपे शोक आर्ता नष्ट संज्ञा बभूव ह ।  
+भ्रातुः समीपे शोक आर्ता नष्ट सञ्ज्ञा बभूव ह ।  
 कराभ्याम् उदरम् हत्वा रुरोद भृश दुःखिता ॥ ३-२१-२२  
 इति वाल्मीकि रामायणे आदि काव्ये किष्किन्ध काण्डे एक विंशः सर्गः

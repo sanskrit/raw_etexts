@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivAstutiH"
-"File name" = "shivAstutiH.itx"
-itxtitle = "shivAstutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "shivAstutiH"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवास्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, pArvatI
+File name: shivAstutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shivAstutiH
+engtitle: shivAstutiH
+itxtitle: shivAstutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: शिवास्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीशिवास्तुतिः   
 (शिष्याशीर्वचनात्मकस्तवाः)  

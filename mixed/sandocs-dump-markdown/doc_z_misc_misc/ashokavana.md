@@ -1,20 +1,20 @@
-+++
-"Text title" = "ashokavana"
-"File name" = "ashoka.itx"
-itxtitle = "ashokavana"
-engtitle = "The Ashokavadana"
-Category = "misc"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "October 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अशोकवन"
+---
+Category: misc
+File name: ashoka.itx
+Language: Sanskrit
+Latest update: October 1, 2010
+Location: doc_z_misc_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: ashokavana
+Texttype: pramukha
+engtitle: The Ashokavadana
+itxtitle: ashokavana
+title: अशोकवन
 
-+++
+---
   
  अशोकवन   
   
@@ -22,7 +22,7 @@ title = "अशोकवन"
 यो असौ स्वमांसतनुभिर् यजनानि कृत्वा  
 अतप्यच्चिरं करुणाय जगतो हिताय ।  
 तस्य श्रमस्य सफलीकरणाय सन्तः  
-साऽवर्जितं शृणुत सांप्रतभाष्यमाणं ॥  
+साऽवर्जितं शृणुत साम्प्रतभाष्यमाणं ॥  
   
 एवं मया श्रुतं एकस्मिन् समये भगवान्  
 श्रावस्त्यां विहरति ।  
@@ -35,7 +35,7 @@ title = "अशोकवन"
 प्रज्ञाप्रदीपप्रोत्सारितकुशास्त्रदर्शनान्ध  
 काराणां  
 संसारतृष्णाछेदिप्रवरसद्धर्मपयःपान  
-शौण्डानां गुरूणां संनिधौ  
+शौण्डानां गुरूणां सन्निधौ  
 सर्वाववादकश्रेष्ठं  
 (शक्रब्रह्मईशानयमवरुणकुवेरवासवसोम  
 आदित्याऽदिभिर्-  
@@ -79,7 +79,7 @@ title = "अशोकवन"
 श्रेष्ठिणौ भविष्यतः ।  
 तौ  उरुमुण्डपर्वते विहारं प्रतिष्ठापयिष्यतः  
 ।  
-तस्य नटभटिका  इति संज्ञा भविष्यति ।  
+तस्य नटभटिका  इति सञ्ज्ञा भविष्यति ।  
 एतदग्रं मे आनन्द भविष्यति  
 शमथानुकूलानां शय्याऽसनानां यदिदं  
 नटभटिकारण्याऽयतनं ।  
@@ -160,7 +160,7 @@ title = "अशोकवन"
 पश्यत्यद्य  अपि न  उत्पद्यते ।  
 तेन यावदुपायेन गुप्तो गान्धिको भगवच्छासने  
 अभिप्रसादितः ।  
-स यदा  अभिप्रसन्नस्तदा स्थविरः संबहुलैर्-  
+स यदा  अभिप्रसन्नस्तदा स्थविरः सम्बहुलैर्-  
 भिक्षुभिः सार्धं एकदिवसं तस्य गृहं  
 प्रविष्टः ।  
 अपरस्मिन्नहनि  आत्मद्वितीयः ।  

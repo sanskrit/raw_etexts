@@ -1,22 +1,22 @@
-+++
-"Text title" = "muralInAdadhArAstotram"
-"File name" = "muralInAdadhArAstotram.itx"
-itxtitle = "muralInAdadhArAstotram"
-engtitle = "muralInAdadhArAstotram"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "January 3, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मुरलीनादधारास्तोत्रम्"
+---
+Category: vishhnu, krishna
+File name: muralInAdadhArAstotram.itx
+Language: Sanskrit
+Latest update: January 3, 2019
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: muralInAdadhArAstotram
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: muralInAdadhArAstotram
+itxtitle: muralInAdadhArAstotram
+title: मुरलीनादधारास्तोत्रम्
 
-+++
+---
   
  मुरलीनादधारास्तोत्रम्   
 सान्द्राम्भोधरनीलबालवपुषा गोगोपगोपीमनः-  
@@ -361,7 +361,7 @@ title = "मुरलीनादधारास्तोत्रम्"
      चानन्दं चेति वेदं निगमयितुमसौ वेणुनादं जुघोष ॥ ६८॥  
   
 राकाचन्द्राभिरम्यैर्निशि विपिनतटे वेणुमुच्चैर्विनाद्य  
-     सद्यस्संप्राप्तगोपीजननिवहवृतस्ताभिरीशस्तु रेमे ।  
+     सद्यस्सम्प्राप्तगोपीजननिवहवृतस्ताभिरीशस्तु रेमे ।  
 तास्त्यक्त्वान्तर्धिमाप प्रभुरिति महता शोकभारेण गोप्य-  
      स्ताम्यन्त्यस्तत्तु नादं मणिमुरलिभवं शुश्रुवुः श्रीधरस्य ॥ ६९॥  
   

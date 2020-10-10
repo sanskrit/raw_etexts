@@ -1,24 +1,24 @@
-+++
-"Text title" = "gAyatrI gItA"
-"File name" = "gaayatrii_giitaa.itx"
-itxtitle = "gAyatrIgItA"
-engtitle = "Gayatri Gita"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail dot com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail dot com"
-"Translated by" = "Pages 103-111 of English translation"
-Description-comments = "From the book Superscience of Gayatri"
-Indexextra = "(Translation 1, 2)"
-"Latest update" = "February 2, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीगीता"
+---
+Category: gItA, giitaa
+Description-comments: From the book Superscience of Gayatri
+File name: gaayatrii_giitaa.itx
+Indexextra: (Translation 1, 2)
+Language: Sanskrit
+Latest update: February 2, 2014
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunderh at hotmail dot com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: gAyatrI gItA
+Translated by: Pages 103-111 of English translation
+Transliterated by: Sunder Hattangadi sunderh at hotmail dot com
+engtitle: Gayatri Gita
+itxtitle: gAyatrIgItA
+title: गायत्रीगीता
 
-+++
+---
   
  गायत्री गीता   
   

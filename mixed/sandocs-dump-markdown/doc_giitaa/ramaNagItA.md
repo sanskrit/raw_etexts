@@ -1,24 +1,24 @@
-+++
-"Text title" = "ramaNagItA"
-"File name" = "ramaNagItA.itx"
-itxtitle = "ramaNagItA"
-engtitle = "Shri Ramanagita"
-Category = "gItA, giitaa, ramana, ramaNa-maharShi, gurudev"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-SubDeity = "ramana"
-Author = "ramaNAntevAsino vAsiShThasya gaNapaterupanibandhe"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion/advaita"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Indexextra = "(2col)"
-"Latest update" = "September 22, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रमणगीता"
+---
+Author: ramaNAntevAsino vAsiShThasya gaNapaterupanibandhe
+Category: gItA, giitaa, ramana, ramaNa-maharShi, gurudev
+File name: ramaNagItA.itx
+Indexextra: (2col)
+Language: Sanskrit
+Latest update: September 22, 2012
+Location: doc_giitaa
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ramana
+Subject: philosophy/hinduism/religion/advaita
+Sublocation: giitaa
+Text title: ramaNagItA
+Transliterated by: DPD
+engtitle: Shri Ramanagita
+itxtitle: ramaNagItA
+title: रमणगीता
 
-+++
+---
   
  श्रीरमणगीता   
   
@@ -35,7 +35,7 @@ title = "रमणगीता"
            १०.    सङ्धविद्या  
            ११.    ज्ञानसिद्धिसामरस्यकथनम्  
            १२.    शक्तिविचारः  
-           १३.    संन्यासे स्त्रीपुरुषयोस्तुल्याधिकारनिरूपणम्  
+           १३.    सन्न्यासे स्त्रीपुरुषयोस्तुल्याधिकारनिरूपणम्  
            १४.    जीवन्मुक्ति विचारः  
            १५.    श्रवणमनननिदिध्यासननिरूपणम्  
            १६.    भक्तिविचारः  
@@ -462,7 +462,7 @@ title = "रमणगीता"
 गतये लोककार्याणामादिशन्त्याश्रामक्रमम्  
 आश्रमत्रयधर्माणां न ज्ञानप्रतिकूलता ॥ ४॥  
   
-संन्यासो निर्मलं ज्ञानं न काषायो न मुण्डनम् ॥  
+सन्न्यासो निर्मलं ज्ञानं न काषायो न मुण्डनम् ॥  
   
 प्रतिबन्धकबाहुल्यवारणायाश्रमो मतः ॥ ५॥  
   
@@ -818,7 +818,7 @@ title = "रमणगीता"
   
   
   
-अथ त्रयोदशोऽध्यायः । (संन्यासे स्त्रीपुरुषयोस्तुल्याधिकारनिरूपणम्)  
+अथ त्रयोदशोऽध्यायः । (सन्न्यासे स्त्रीपुरुषयोस्तुल्याधिकारनिरूपणम्)  
   
 अत्रिणामन्वयज्योत्स्ना वसिष्ठानां कुलस्नुषा ।  
 महादेवस्य जननी धीरस्य ब्रह्मवेदिनः ॥ १॥  
@@ -854,7 +854,7 @@ title = "रमणगीता"
 अधिकृत्य ज्ञानवतीं रमणेन महर्षिणा ॥ ११॥  
   
 ॥ इति श्रीरमणगीतासु ब्रह्मविद्यायां योगशास्त्रे रमणान्तेवासिनो  
-वासिष्ठस्य गणपतेरुपनिबन्धे संन्यासे स्त्रीपुरुषयोस्तुल्याधिकारनिरूपणं  
+वासिष्ठस्य गणपतेरुपनिबन्धे सन्न्यासे स्त्रीपुरुषयोस्तुल्याधिकारनिरूपणं  
 नाम त्रयोदशोऽध्यायः ॥ १३  
   
   

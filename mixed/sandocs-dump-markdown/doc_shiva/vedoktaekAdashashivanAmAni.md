@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shiva's 11 Names from Veda"
-"File name" = "vedoktaekAdashashivanAmAni.itx"
-itxtitle = "vedoktaekAdashashivanAmAni"
-engtitle = "vedoktaekAdashashivanAmAni"
-Category = "shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "July 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदोक्तएकादशशिवनामानि"
+---
+Category: shiva, nAmAvalI
+File name: vedoktaekAdashashivanAmAni.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 17, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shiva's 11 Names from Veda
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: vedoktaekAdashashivanAmAni
+itxtitle: vedoktaekAdashashivanAmAni
+title: वेदोक्तएकादशशिवनामानि
 
-+++
+---
   
  वेदोक्तानि एकादश शिवनामानि   
 ॐ वामदेवाय नमः ।  

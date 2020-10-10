@@ -1,22 +1,22 @@
-+++
-"Text title" = "Pinda Upanishad"
-"File name" = "piNDopaniShat.itx"
-itxtitle = "piNDopaniShat (sAmAnyavedAnta)"
-engtitle = "piNDopaniShat"
-Category = "upanishhat, vedanta, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Atharva Veda upanishad"
-"Latest update" = "March 21, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पिण्डोपनिषत् (सामान्यवेदान्त)"
+---
+Category: upanishhat, vedanta, upanishad
+Description/comments: Atharva Veda upanishad
+File name: piNDopaniShat.itx
+Language: Sanskrit
+Latest update: March 21, 2015
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: Pinda Upanishad
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: piNDopaniShat
+itxtitle: piNDopaniShat (sAmAnyavedAnta)
+title: पिण्डोपनिषत् (सामान्यवेदान्त)
 
-+++
+---
   
  पिण्डोपनिषत्   
 पितॄणां हंसरूपाणां यन्ता श्रीमज्जनार्दन ।  

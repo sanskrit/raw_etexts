@@ -1,23 +1,23 @@
-+++
-"Text title" = "sarasavatIgItA"
-"File name" = "sarasavatIgiitaa.itx"
-itxtitle = "sarasvatIgItA"
-engtitle = "sarasvatIgItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunder at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunder at hotmail.com"
-Description-comments = "from Panchadasha Gita published by Khemraj 1896."
-Indexextra = "(scanned)"
-"Latest update" = "December 15, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीगीता"
+---
+Category: gItA, giitaa
+Description-comments: from Panchadasha Gita published by Khemraj 1896.
+File name: sarasavatIgiitaa.itx
+Indexextra: (scanned)
+Language: Sanskrit
+Latest update: December 15, 2012
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunder at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: sarasavatIgItA
+Transliterated by: Sunder Hattangadi sunder at hotmail.com
+engtitle: sarasvatIgItA
+itxtitle: sarasvatIgItA
+title: सरस्वतीगीता
 
-+++
+---
   
  श्रीसरस्वतीगीता   
   
@@ -29,10 +29,10 @@ title = "सरस्वतीगीता"
   
 तार्क्ष्य उवाच -  
 किनु श्रेयः पुरुषस्येह भद्रे कथं कुर्वन्न च्यवते स्वधर्मात् ।  
-आचक्ष्व मे चारुसर्वांगि कुर्यात्वयाशिष्टो न च्यवेयं स्वधर्मात् ॥ २॥  
+आचक्ष्व मे चारुसर्वाङ्गि कुर्यात्वयाशिष्टो न च्यवेयं स्वधर्मात् ॥ २॥  
   
 कथं वाग्निं जुहुयां पूजये वा कस्मिन्काले केन धर्मो न नश्येत् ।  
-एतत्सर्व सुभगे प्रब्रवीहि यथा लोकान् विरजाः संचरेयम् ॥ ३॥  
+एतत्सर्व सुभगे प्रब्रवीहि यथा लोकान् विरजाः सञ्चरेयम् ॥ ३॥  
   
 मार्कण्डेय उवाच -  
 एवं पृष्टा प्रीतियुक्तेन तेन शुश्रूमीक्ष्योत्तमबुद्धियुक्तम् ।  
@@ -46,7 +46,7 @@ title = "सरस्वतीगीता"
 अकर्दमामीनवत्यः सुतीर्था हिरण्मयैरावृताः पुण्डरीकैः ॥ ६॥  
   
 तासां तीरेष्वासते पुण्यभाजो महीयमानाः पृथगप्सरोभिः ।  
-सुपुण्यगन्धाभिरलंकृताभिर्हिरण्यवर्णाभिरतीव दृष्टाः ॥ ७॥  
+सुपुण्यगन्धाभिरलङ्कृताभिर्हिरण्यवर्णाभिरतीव दृष्टाः ॥ ७॥  
   
 परं लोकं गोप्रदास्त्वाप्नुवन्ति दत्वानडुहं सूर्यलोकं व्रजन्ति ।  
 वासो दत्वा चान्द्रमसं तु लोकं दत्वा हिरण्यममरत्वमेति ॥ ८॥  
@@ -63,10 +63,10 @@ title = "सरस्वतीगीता"
 यावन्ति रोमाणि भवन्ति धेन्वास्तावत्फलं भवति गोप्रदाने ।  
 पुत्रांश्च पौत्रांश्च कुलं च सर्वमासप्तमं तारयते परत्र ॥ १२॥  
   
-सदक्षिणां कांचनचारुशृङ्गीं कांस्योपदोहां द्रविणैरुत्तरीयैः ।  
+सदक्षिणां काञ्चनचारुशृङ्गीं कांस्योपदोहां द्रविणैरुत्तरीयैः ।  
 धेनुं तिलानां ददतो द्विजाय लोका वसूनां सुलभा भवन्ति ॥ १३॥  
   
-स्वकर्मभिर्दानवसंनिरुद्धे तीव्रान्धकारे नरके पतन्तम् ।  
+स्वकर्मभिर्दानवसन्निरुद्धे तीव्रान्धकारे नरके पतन्तम् ।  
 महार्णवे नौरिव वातयुक्ता दानं गवां तारयते परत्र ॥ १४॥  
   
 यो ब्राह्मदेयां तु ददाति कन्यां भूमिप्रदानं च करोति विप्रे ।  
@@ -83,7 +83,7 @@ title = "सरस्वतीगीता"
 न वाशुचिर्नाप्यनिर्णिक्य पाणिर्नाब्रह्मविज्जुहुयान्नाविपश्चित् ।  
 बुभुत्सवः शुचिकामा हि देवा नाश्रद्दधानाद्धिहविर्जुहन्ति ॥ १८॥  
   
-नाश्रोत्रियं देवहव्ये नियुंज्यान्मोघं पुरा सिंचति तादृशो हि ।  
+नाश्रोत्रियं देवहव्ये नियुञ्ज्यान्मोघं पुरा सिञ्चति तादृशो हि ।  
 अपूर्वमश्रोत्रियमाह तार्क्ष्य न वै तादृग्जुहुयादग्निहोत्रम् ॥ १९॥  
   
 कृशाश्च ये जुह्वति श्रद्दधानाः सत्यव्रता हुतशिष्टाशिनश्च ।  
@@ -111,7 +111,7 @@ title = "सरस्वतीगीता"
 तार्क्ष्य उवाच -  
 इदं श्रेयः परमं मन्यमाना व्यापृच्छन्ते मुनयः सम्प्रतीताः ।  
 आचक्ष्व मे तं परमं विशोकं मोक्षं परं यं प्रविशन्ति धीराः ।  
-सांख्यं योगाः परमं यं विदन्ति परं पुराणं तमहं न वेद्मि  ॥ २६॥  
+साङ्ख्यं योगाः परमं यं विदन्ति परं पुराणं तमहं न वेद्मि  ॥ २६॥  
   
 सरस्वत्युवाच -  
 तं वै परं वेदविदः प्रपन्नाः परं परेभ्यः प्रथितं पुराणम् ।  

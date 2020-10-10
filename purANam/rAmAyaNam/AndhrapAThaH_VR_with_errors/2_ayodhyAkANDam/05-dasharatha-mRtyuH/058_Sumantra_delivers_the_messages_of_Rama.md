@@ -3,7 +3,6 @@ title: 058 Sumantra delivers the messages of Rama
 title_english: 058 Sumantra delivers the messages of Rama
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-058-Rama_Sandesha_Nivedanam.mp3"></div>
 
 प्रत्याश्वस्तः यदा राजा मोहात् प्रत्यागतः पुनः ।  
@@ -75,7 +74,7 @@ title_english: 058 Sumantra delivers the messages of Rama
 जानकी तु महा राज निःश्वसन्ती तपस्विनी ।  
 भूत उपहत चित्ता इव विष्ठिता वृष्मृता स्थिता ॥ २-५८-३४  
 अदृष्ट पूर्व व्यसना राज पुत्री यशस्विनी ।  
-तेन दुह्खेन रुदती न एव माम् किंचित् अब्रवीत् ॥ २-५८-३५  
+तेन दुह्खेन रुदती न एव माम् किञ्चित् अब्रवीत् ॥ २-५८-३५  
 उद्वीक्षमाणा भर्तारम् मुखेन परिशुष्यता ।  
 मुमोच सहसा बाष्पम् माम् प्रयान्तम् उदीक्ष्य सा ॥ २-५८-३६  
 तथैव रामः अश्रु मुखः कृत अन्जलिः ।  

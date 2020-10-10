@@ -1,25 +1,26 @@
-+++
-"Text title" = "devIstotra 3 by Vishnu"
-"File name" = "devIstotramviShNu.itx"
-itxtitle = "devIstotram 3 viShNunAkRitaM (devIbhAgavatamahApurANAntargatam namo devyai prakRityai)"
-engtitle = "devIstotra 3 by Vishnu"
-Category = "devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran"
-Source = "Devi Bhagavat Mahapurana 3.4"
-Indexextra = "(Marathi)"
-Acknowledge-Permission = "Vishwas Bhide http://satsangdhara.net"
-"Latest update" = "June 14, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीस्तोत्रम् ३ विष्णुनाकृइतं (देवीभागवतमहापुराणान्तर्गतम् नमो देव्यै प्रकृइत्यै)"
+---
+Acknowledge-Permission: Vishwas Bhide http://satsangdhara.net
+Category: devii, otherforms, devI
+File name: devIstotramviShNu.itx
+Indexextra: (Marathi)
+Language: Sanskrit
+Latest update: June 14, 2017
+Location: doc_devii
+Proofread by: Vishwas Bhide, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Devi Bhagavat Mahapurana 3.4
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIstotra 3 by Vishnu
+Transliterated by: Vishwas Bhide
+engtitle: devIstotra 3 by Vishnu
+itxtitle: devIstotram 3 viShNunAkRitaM (devIbhAgavatamahApurANAntargatam namo devyai
+  prakRityai)
+title: देवीस्तोत्रम् ३ विष्णुनाकृइतं (देवीभागवतमहापुराणान्तर्गतम् नमो देव्यै प्रकृइत्यै)
 
-+++
+---
   
  देवीस्तोत्रं विष्णुनाकृतम्   
 श्रीभगवानुवाच -  
@@ -98,7 +99,7 @@ title = "देवीस्तोत्रम् ३ विष्णुनाक
      नित्या त्वमेव जननी प्रकृतिः पुराणा ॥ १६॥  
   
 त्वं चेद्भवानि दयसे पुरुषं पुराणं  
-     जानेऽहमद्य तव संनिधिगः सदैव ।  
+     जानेऽहमद्य तव सन्निधिगः सदैव ।  
 नोचेदहं विभुरनादिरनीह ईशो  
      विश्वात्मधीरिति तमःप्रकृतिः सदैव ॥ १७॥  
   

@@ -1,25 +1,25 @@
-+++
-"Text title" = "sItArAma stavaH"
-"File name" = "sItArAmastava.itx"
-itxtitle = "sItArAmastavaH (puShpA shrIvatsena virachitaH)"
-engtitle = "sItArAma stavaH"
-Category = "devii, puShpAshrIvatsan, sItA, raama, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sItA"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-"Latest update" = "December 5, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीतारामस्तवः (पुष्पा श्रीवत्सेन विरचितः)"
+---
+Author: Pushpa Srivatsan
+Category: devii, puShpAshrIvatsan, sItA, raama, devI
+File name: sItArAmastava.itx
+Language: Sanskrit
+Latest update: December 5, 2017
+Location: doc_devii
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+SubDeity: sItA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sItArAma stavaH
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: sItArAma stavaH
+itxtitle: sItArAmastavaH (puShpA shrIvatsena virachitaH)
+title: सीतारामस्तवः (पुष्पा श्रीवत्सेन विरचितः)
 
-+++
+---
   
  श्रीसीतारामस्तवः   
                  ॐ  

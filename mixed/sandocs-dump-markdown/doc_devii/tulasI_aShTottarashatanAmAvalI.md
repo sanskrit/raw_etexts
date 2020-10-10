@@ -1,23 +1,23 @@
-+++
-"Text title" = "tulasI aShTottara nAmAvali"
-"File name" = "tulasii108-5.itx"
-itxtitle = "tulasI aShTottarashatanAmAvalI"
-engtitle = "tulasI aShTottara nAmAvali (108 names)"
-Category = "aShTottarashatanAmAvalI, devii, tulasI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sowmya Ramkumar"
-"Proofread by" = "Sowmya Ramkumar"
-"Latest update" = "November 18, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलसी अष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, tulasI, nAmAvalI, devI
+File name: tulasii108-5.itx
+Language: Sanskrit
+Latest update: November 18, 1999
+Location: doc_devii
+Proofread by: Sowmya Ramkumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulasI aShTottara nAmAvali
+Texttype: nAmAvalI
+Transliterated by: Sowmya Ramkumar
+engtitle: tulasI aShTottara nAmAvali (108 names)
+itxtitle: tulasI aShTottarashatanAmAvalI
+title: तुलसी अष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीतुलसी अष्टोत्तरशतनामावली   
   
@@ -65,7 +65,7 @@ title = "तुलसी अष्टोत्तरशतनामावली"
 ॐ भवित्र्यै नमः ।  
 ॐ सावित्र्यै नमः ।  
 ॐ सरवेदविदाम्वरायै नमः ।  
-ॐ शंखिन्यै नमः ।  
+ॐ शङ्खिन्यै नमः ।  
 ॐ चक्रिण्यै नमः ।  
 ॐ चारिण्यै नमः ।  
 ॐ चपलेक्षणायै नमः ।  

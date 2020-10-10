@@ -1,24 +1,24 @@
-+++
-"Text title" = "achyutashatakam"
-"File name" = "achyutashatakam.itx"
-itxtitle = "achyutashatakam (vedAntadeshikavirachitaM)"
-engtitle = "achyutashatakam"
-Category = "vishhnu, shataka, vedAnta-deshika"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अच्युतशतकम् (वेदान्तदेशिकविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: vedAntadeshika
+Category: vishhnu, shataka, vedAnta-deshika
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: achyutashatakam.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: achyutashatakam
+engtitle: achyutashatakam
+itxtitle: achyutashatakam (vedAntadeshikavirachitaM)
+title: अच्युतशतकम् (वेदान्तदेशिकविरचितं)
 
-+++
+---
   
  अच्युतशतकम्   
   
@@ -65,7 +65,7 @@ title = "अच्युतशतकम् (वेदान्तदेशिक
 विषमगुणाङ्कुरप्रकरे जलमिव सामान्यकारणं तव केलिः ।  
 निजकर्मशक्तिनियता अच्युत ब्रह्मादि स्थावरान्तविशेषाः ॥ १३॥  
   
-पुरुषास्तव विभूतिः अच्युत लक्ष्म्याः स्त्रीसंज्ञाः ।  
+पुरुषास्तव विभूतिः अच्युत लक्ष्म्याः स्त्रीसञ्ज्ञाः ।  
 नास्ति परं युवयोः सापि श्रीर्भवति तव किं पुनरितरत् ॥ १४॥  
   
 न खलु तव सदृशाभ्यधिकाः नाथ त्वमेव सर्वलोकशरण्यः ।  

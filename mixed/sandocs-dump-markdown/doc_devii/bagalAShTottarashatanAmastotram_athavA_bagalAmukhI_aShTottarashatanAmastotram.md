@@ -1,25 +1,25 @@
-+++
-"Text title" = "bagalAShTottarashatanAmastotram"
-"File name" = "bagalAmukhI108.itx"
-itxtitle = "bagalAShTottarashatanAmastotram athavA bagalAmukhI aShTottarashatanAmastotram"
-engtitle = "bagalAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "viShNuyAmale nAradaviShNusa.nvAde"
-"Latest update" = "April 04, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बगलाष्टोत्तरशतनामस्तोत्रम् अथवा बगलामुखी अष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Traditional
+Category: aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI
+Description-comments: viShNuyAmale nAradaviShNusa.nvAde
+File name: bagalAmukhI108.itx
+Language: Sanskrit
+Latest update: April 04, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bagalAShTottarashatanAmastotram
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: bagalAShTottarashatanAmastotram
+itxtitle: bagalAShTottarashatanAmastotram athavA bagalAmukhI aShTottarashatanAmastotram
+title: बगलाष्टोत्तरशतनामस्तोत्रम् अथवा बगलामुखी अष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीबगलाष्टोत्तरशतनामस्तोत्रम्   
   

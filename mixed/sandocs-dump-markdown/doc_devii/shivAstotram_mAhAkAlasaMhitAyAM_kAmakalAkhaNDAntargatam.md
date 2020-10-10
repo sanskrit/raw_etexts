@@ -1,24 +1,24 @@
-+++
-"Text title" = "shivAstotram"
-"File name" = "shivAstotram.itx"
-itxtitle = "shivAstotram (mAhAkAlasaMhitAyAM kAmakalAkhaNDAntargatam)"
-engtitle = "shivAstotram"
-Category = "devii, pArvatI, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Source = "Mahakalasamhita Kamakalakhanda (uttara) Patal 4, Verses 111-118"
-Indexextra = "(Scan)"
-"Latest update" = "June 8, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवास्तोत्रम् (माहाकालसंहितायां कामकलाखण्डान्तर्गतम्)"
+---
+Category: devii, pArvatI, aShTaka, devI
+File name: shivAstotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 8, 2018
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Mahakalasamhita Kamakalakhanda (uttara) Patal 4, Verses 111-118
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shivAstotram
+Transliterated by: NA
+engtitle: shivAstotram
+itxtitle: shivAstotram (mAhAkAlasaMhitAyAM kAmakalAkhaNDAntargatam)
+title: शिवास्तोत्रम् (माहाकालसंहितायां कामकलाखण्डान्तर्गतम्)
 
-+++
+---
   
  शिवास्तोत्रम्   
 शिवारूपधरे देवि कामकालि नमोऽस्तु ते ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "nAsadIya sUkta (Rigveda)"
-"File name" = "naasadiiya.itx"
-itxtitle = "nAsadIya sUktam (RigvedIya sArtham)"
-engtitle = "nAsadIya sUkta (Rigveda)"
-Category = "sUkta, veda, rigveda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Avinash Sathaye sohum at ms.uky.edu"
-"Proofread by" = "Avinash Sathaye sohum at ms.uky.edu"
-"Translated by" = "A. L. Basham"
-"Latest update" = "November 1, 2010, December 26, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नासदीय सूक्तम् (ऋइग्वेदीय सार्थम्)"
+---
+Category: sUkta, veda, rigveda, svara
+File name: naasadiiya.itx
+Language: Sanskrit
+Latest update: November 1, 2010, December 26, 2018
+Location: doc_veda
+Proofread by: Avinash Sathaye sohum at ms.uky.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: nAsadIya sUkta (Rigveda)
+Texttype: svara
+Translated by: A. L. Basham
+Transliterated by: Avinash Sathaye sohum at ms.uky.edu
+engtitle: nAsadIya sUkta (Rigveda)
+itxtitle: nAsadIya sUktam (RigvedIya sArtham)
+title: नासदीय सूक्तम् (ऋइग्वेदीय सार्थम्)
 
-+++
+---
   
  नासदीय सूक्त (ऋग्वेद )   
 नास॑दासी॒न्नो सदा॑सीत्त॒दानीं॒ नासी॒द्रजो॒ नो व्यो॑मा प॒रो यत् ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Dinakrandakhya Shiva Kshamapanam"
-"File name" = "dInAkrandAkhyashivakShamApaNam.itx"
-itxtitle = "dInAkrandAkhyashivakShamApaNam (rAvaNakRitam)"
-engtitle = "dInAkrandAkhyashivakShamApaNam"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Ravana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दीनाक्रन्दाख्यशिवक्षमापणम् (रावणकृइतम्)"
+---
+Author: Ravana
+Category: shiva
+File name: dInAkrandAkhyashivakShamApaNam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Dinakrandakhya Shiva Kshamapanam
+engtitle: dInAkrandAkhyashivakShamApaNam
+itxtitle: dInAkrandAkhyashivakShamApaNam (rAvaNakRitam)
+title: दीनाक्रन्दाख्यशिवक्षमापणम् (रावणकृइतम्)
 
-+++
+---
   
  दीनाक्रन्दाख्य शिवक्षमापणम्   
 ॐ गौरीश्वराय भुवनत्रयकारणाय  

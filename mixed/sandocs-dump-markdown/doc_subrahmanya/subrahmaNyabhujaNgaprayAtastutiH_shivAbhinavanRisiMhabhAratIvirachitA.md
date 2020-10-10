@@ -1,22 +1,22 @@
-+++
-"Text title" = "subrahmaNyabhujangaprayAtastutiH"
-"File name" = "subrahmaNyabhujangaprayAtastutiH.itx"
-itxtitle = "subrahmaNyabhujaNgaprayAtastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "subrahmaNyabhujangaprayAtastutiH"
-Category = "subrahmanya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, bhujanga"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यभुजण्गप्रयातस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: subrahmanya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, bhujanga
+File name: subrahmaNyabhujangaprayAtastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyabhujangaprayAtastutiH
+engtitle: subrahmaNyabhujangaprayAtastutiH
+itxtitle: subrahmaNyabhujaNgaprayAtastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: सुब्रह्मण्यभुजण्गप्रयातस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीसुब्रह्मण्यभुजङ्गप्रयातस्तुतिः   
 श्रीकार्तिकेयक्षेत्रे - (तिरुच्चेन्दूरपरनामके)  
@@ -41,7 +41,7 @@ title = "सुब्रह्मण्यभुजण्गप्रयात�
 जनन्याः प्रसूतेः स्थलं वासभूमिः पितुश्चेति शैलं न जह्यां कदापि ।  
 इतीवानतालेः प्रबोधाय शैले वसन्तं सदा पार्वतीपुत्रमीडे ॥ ७॥  
   
-जनानां शयानं सदा हृद्बिले तं भुजङ्गं मनःसंज्ञमारान्निहन्तुम् ।  
+जनानां शयानं सदा हृद्बिले तं भुजङ्गं मनःसञ्ज्ञमारान्निहन्तुम् ।  
 मयूरं भुजगस्य भोक्तारमास्ते समारुह्य नित्यं भवाञ्छम्भुसूनो ॥ ८॥  
   
 नतानामभीष्टानि दातुं विचित्राण्यलं शक्तिरस्तीति सम्बोधनाय ।  

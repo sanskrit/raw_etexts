@@ -1,22 +1,22 @@
-+++
-"Text title" = "yogarAjopaniShat"
-"File name" = "yogarAjopaniShat.itx"
-itxtitle = "yogarAjopaniShat (yoga)"
-engtitle = "yogarAjopaniShat"
-Category = "upanishhat, yoga, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगराजोपनिषत् (योग)"
+---
+Category: upanishhat, yoga, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: yogarAjopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: yogarAjopaniShat
+engtitle: yogarAjopaniShat
+itxtitle: yogarAjopaniShat (yoga)
+title: योगराजोपनिषत् (योग)
 
-+++
+---
   
  योगराजोपनिषत्   
 योगराजं प्रवक्ष्यामि योगिनां योगसिद्धये ।  
@@ -29,7 +29,7 @@ title = "योगराजोपनिषत् (योग)"
 ब्रह्मीविष्णुशिवादीनां मन्त्रं जाप्यं विशारदैः ॥ ३॥  
   
 साध्यते मन्त्रयोगस्तु वत्सराजादिभिर्यथा ।  
-कृष्णद्वैपायनाद्यैस्तु साधितो लयसंज्ञितः ॥ ४॥  
+कृष्णद्वैपायनाद्यैस्तु साधितो लयसञ्ज्ञितः ॥ ४॥  
   
 नवस्वेव हि चक्रेषु लयं कृत्वा महात्मभिः ।  
 प्रथमं ब्रह्मचक्रं स्यात् त्रिरावृत्तं भगाकृति ॥ ५॥  

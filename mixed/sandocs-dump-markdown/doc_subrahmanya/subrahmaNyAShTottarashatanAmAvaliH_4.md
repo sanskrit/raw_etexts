@@ -1,23 +1,23 @@
-+++
-"Text title" = "subrahmaNyAShTottarashatanAmAvalI 4"
-"File name" = "subrahmaNyAShTottarashatanAmAvalI4.itx"
-itxtitle = "subrahmaNyAShTottarashatanAmAvaliH 4"
-engtitle = "subrahmaNyAShTottarashatanAmAvalI 4"
-Category = "aShTottarashatanAmAvalI, subrahmanya, nAmAvalI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "April 17, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्याष्टोत्तरशतनामावलिः ४"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, subrahmanya, nAmAvalI
+File name: subrahmaNyAShTottarashatanAmAvalI4.itx
+Language: Sanskrit
+Latest update: April 17, 2020
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyAShTottarashatanAmAvalI 4
+Texttype: nAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: subrahmaNyAShTottarashatanAmAvalI 4
+itxtitle: subrahmaNyAShTottarashatanAmAvaliH 4
+title: सुब्रह्मण्याष्टोत्तरशतनामावलिः ४
 
-+++
+---
   
  श्रीसुब्रह्मण्याष्टोत्तरशतनामावलिः   
 ॐ श्रीगणेशाय नमः ।  

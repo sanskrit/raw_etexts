@@ -1,22 +1,22 @@
-+++
-"Text title" = "puruShArthanirNayaH"
-"File name" = "puruShArthanirNayaH.itx"
-itxtitle = "puruShArthanirNayaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "puruShArthanirNayaH"
-Category = "misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पुरुषार्थनिर्णयः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: puruShArthanirNayaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: puruShArthanirNayaH
+engtitle: puruShArthanirNayaH
+itxtitle: puruShArthanirNayaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: पुरुषार्थनिर्णयः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  पुरुषार्थनिर्णयः   
 पुरुषार्थदानदक्षं पुरुहूतप्रमुखनिर्जराराध्यम् ।  

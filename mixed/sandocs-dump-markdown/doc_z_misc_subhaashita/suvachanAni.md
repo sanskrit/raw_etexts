@@ -1,20 +1,20 @@
-+++
-"Text title" = "suvachanaani"
-"File name" = "suvachanaani.itx"
-itxtitle = "suvachanAni"
-engtitle = "suvachanAni"
-Category = "subhAShita, subhaashita"
-Location = "doc_z_misc_subhaashita"
-Sublocation = "subhaashita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Latest update" = "December 23, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुवचनानि"
+---
+Category: subhAShita, subhaashita
+File name: suvachanaani.itx
+Language: Sanskrit
+Latest update: December 23, 1998
+Location: doc_z_misc_subhaashita
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subhaashita
+Text title: suvachanaani
+Transliterated by: NA
+engtitle: suvachanAni
+itxtitle: suvachanAni
+title: सुवचनानि
 
-+++
+---
   
  सुवचनानि   
   

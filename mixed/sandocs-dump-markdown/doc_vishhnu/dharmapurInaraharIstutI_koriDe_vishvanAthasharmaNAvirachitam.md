@@ -1,23 +1,23 @@
-+++
-"Text title" = "Dharmapuri Narahari Stuti"
-"File name" = "dharmapurInaraharIstutI.itx"
-itxtitle = "dharmapurInaraharIstutI (koriDe vishvanAthasharmaNAvirachitam)"
-engtitle = "dharmapurInaraharIstutI"
-Category = "vishhnu, koriDevishvanAthasharmA"
-Location = "doc_vishhnu"
-Author = "koriDe vishvanAthasharmA, dharmapurI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "koriDe vishvanAthasharmA"
-"Proofread by" = "koriDe vishvanAthasharmA"
-Indexextra = "(blog)"
-Acknowledge-Permission = "Koride Vishwanatha Sharma"
-"Latest update" = "February 19, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धर्मपुरीनरहरीस्तुती (कोरिडे विश्वनाथशर्मणाविरचितम्)"
+---
+Acknowledge-Permission: Koride Vishwanatha Sharma
+Author: koriDe vishvanAthasharmA, dharmapurI
+Category: vishhnu, koriDevishvanAthasharmA
+File name: dharmapurInaraharIstutI.itx
+Indexextra: (blog)
+Language: Sanskrit
+Latest update: February 19, 2018
+Location: doc_vishhnu
+Proofread by: koriDe vishvanAthasharmA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Text title: Dharmapuri Narahari Stuti
+Transliterated by: koriDe vishvanAthasharmA
+engtitle: dharmapurInaraharIstutI
+itxtitle: dharmapurInaraharIstutI (koriDe vishvanAthasharmaNAvirachitam)
+title: धर्मपुरीनरहरीस्तुती (कोरिडे विश्वनाथशर्मणाविरचितम्)
 
-+++
+---
   
  धर्मपुरीनरहरीस्तुतिः   
 ॐ गँ गणपतये नमः ।  

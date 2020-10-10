@@ -1,30 +1,30 @@
-+++
-"Text title" = "Aryapanchadashistotra"
-"File name" = "aaryaa15.itx"
-itxtitle = "AryApanchadashIstotram"
-engtitle = "AryApanchadashIstotram"
-Category = "devii, otherforms, stotra, tyAgarAja, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "stotra"
-Author = "Tyagaraja"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sridhar  Seshagiri seshagir at egr.msu.edu"
-"Proofread by" = "Sridhar  Seshagiri seshagir at egr.msu.edu"
-Description-comments = "Hymn of 15+1 verses in praise of Devi"
-"Latest update" = "September 22, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आर्यापञ्चदशीस्तोत्रम्"
+---
+Author: Tyagaraja
+Category: devii, otherforms, stotra, tyAgarAja, devI
+Description-comments: Hymn of 15+1 verses in praise of Devi
+File name: aaryaa15.itx
+Language: Sanskrit
+Latest update: September 22, 2001
+Location: doc_devii
+Proofread by: Sridhar  Seshagiri seshagir at egr.msu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: hinduism/religion
+Sublocation: devii
+Text title: Aryapanchadashistotra
+Texttype: stotra
+Transliterated by: Sridhar  Seshagiri seshagir at egr.msu.edu
+engtitle: AryApanchadashIstotram
+itxtitle: AryApanchadashIstotram
+title: आर्यापञ्चदशीस्तोत्रम्
 
-+++
+---
   
  आर्यापञ्चदशीस्तोत्रम्   
   
 करकलितचापबाणां कल्हाराङ्घ्रिं नमामि कल्याणीम् ।  
-कंदर्पदर्पजननीं कलुषहरां कामितार्थफलदात्रीम् ॥ १ ॥  
+कन्दर्पदर्पजननीं कलुषहरां कामितार्थफलदात्रीम् ॥ १ ॥  
   
 एषा स्तोतुम् वाणी नैव समर्था तवेशि महिमानम् ।  
 शेषोऽप्यब्दसहस्रैः शेषं कृतवान् महेशि तव चरितम् ॥ २ ॥  
@@ -35,7 +35,7 @@ title = "आर्यापञ्चदशीस्तोत्रम्"
 लसदरुणभानुकोटिद्युतिनिधिमम्बां सुरेन्द्रलक्ष्यपदाम् ।  
 ललितां नमामि बाले ललितशिवहृदयकमलकलहंसीम् ॥ ४ ॥  
   
-ह्रींकारबीजरूपे हिमगिरिकन्ये हरीन्द्रभववन्द्ये ।  
+ह्रीङ्कारबीजरूपे हिमगिरिकन्ये हरीन्द्रभववन्द्ये ।  
 हिमकरधवलच्छत्रे हिताय भव नः सदा महाराज्ञि ॥ ५ ॥  
   
 हर्षोत्करजनयित्री हसितज्योत्स्ना तवेयमनवद्ये ।  
@@ -53,10 +53,10 @@ title = "आर्यापञ्चदशीस्तोत्रम्"
 लक्ष्मीप्रदकरुणा या लक्ष्मीपतिमल्पमम्ब कर्तुमलम् ।  
 लक्ष्यम् कुरु मां तस्या लावण्यामृततरङ्गमाले त्वम् ॥ १० ॥  
   
-ह्रींकाररत्नगर्भे हेमाचलमन्दरस्तनोल्लसिते ।  
+ह्रीङ्काररत्नगर्भे हेमाचलमन्दरस्तनोल्लसिते ।  
 हेरम्बप्रियजननि हे वसुधे देहि मे क्षमां नित्यम् ॥ ११ ॥  
   
-सत्संप्रदायविदिते सकलागमनिगमसारतत्त्वमयि ।  
+सत्सम्प्रदायविदिते सकलागमनिगमसारतत्त्वमयि ।  
 सावित्र्यर्पय वदने सकलरसाश्रयसुवाक्सुधाधाराम् ॥ १२ ॥  
   
 करकङ्कणमणिदिनमणिकरविकसितचरणकमलमकरन्दम् ।  
@@ -65,14 +65,14 @@ title = "आर्यापञ्चदशीस्तोत्रम्"
 लसदिक्षुचापसुमशरलक्षितदोर्वल्लिवीर्यमभयेन ।  
 लक्षाधिकदैत्यकुलं लवुपटवासं कृतं कथं चित्रम् ॥ १४ ॥  
   
-ह्रींकारकेलिभवने हिमकरमौल्यङ्कमञ्जुपर्यङ्के ।  
+ह्रीङ्कारकेलिभवने हिमकरमौल्यङ्कमञ्जुपर्यङ्के ।  
 हृदयसरोजे मे वस हृदयानन्दप्रबोधपरहंसि ॥ १५ ॥  
   
 आर्यापञ्चदशीं तामार्यां यो भजति शुद्धधीर्नित्यम् ।  
 भार्ये लक्ष्मीवाण्यौ पर्यातात् तस्य सादरं भवतः ॥ १६ ॥  
   
 इत्यानन्दनाथपादपद्मोपजीविना काश्यपगोत्रोत्पन्नेनान्ध्रेण  
-त्यागराजनाम्ना विरचितमार्यापञ्चदशीस्तोत्रं संपूर्णम्  
+त्यागराजनाम्ना विरचितमार्यापञ्चदशीस्तोत्रं सम्पूर्णम्  
   
   
   

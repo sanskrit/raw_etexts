@@ -1,21 +1,21 @@
-+++
-"Text title" = "viThThalasahasranAmastotram"
-"File name" = "viThThalasahasranAamstotra.itx"
-itxtitle = "viThThalasahasranAmastotram"
-engtitle = "viThThalasahasranAmastotram"
-Category = "sahasranAma, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "January 31, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विठ्ठलसहस्रनामस्तोत्रम्"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: sahasranAma, vishhnu, vishnu
+File name: viThThalasahasranAamstotra.itx
+Language: Sanskrit
+Latest update: January 31, 2015
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viThThalasahasranAmastotram
+engtitle: viThThalasahasranAmastotram
+itxtitle: viThThalasahasranAmastotram
+title: विठ्ठलसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीविठ्ठसहस्रनामस्तोत्रम्   
   
@@ -542,7 +542,7 @@ title = "विठ्ठलसहस्रनामस्तोत्रम्"
   
 स्वात्मज्ञानं स्वात्मजातजगत्त्रयमयात्मकः ।  
   
-इति विठ्ठलसंज्ञस्य विष्णोर्नामसहस्रकम् ॥ १४८॥  
+इति विठ्ठलसञ्ज्ञस्य विष्णोर्नामसहस्रकम् ॥ १४८॥  
   
 त्रिकालमेककालं वा श्रद्धया प्रयतः पठेत् ।  
 स विष्णोर्नात्र सन्देहः किं बहूक्तेन शौनक ॥ १४९॥  

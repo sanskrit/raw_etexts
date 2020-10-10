@@ -1,24 +1,24 @@
-+++
-"Text title" = "nRisi.nhAShTottarashatanAmastotra.n 2"
-"File name" = "nRisinha108str-2.itx"
-itxtitle = "nRisi.nhAShTottarashatanAmastotram 2"
-engtitle = "nRisinhAShTottarashatanAmastotram 2"
-Category = "aShTottarashatanAma, vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-Description-comments = "brahmANDapurANe"
-"Latest update" = "July 13, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहाष्टोत्तरशतनामस्तोत्रम् २"
+---
+Category: aShTottarashatanAma, vishhnu, dashAvatAra, stotra, vishnu
+Description-comments: brahmANDapurANe
+File name: nRisinha108str-2.itx
+Language: Sanskrit
+Latest update: July 13, 2008
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nRisi.nhAShTottarashatanAmastotra.n 2
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: nRisinhAShTottarashatanAmastotram 2
+itxtitle: nRisi.nhAShTottarashatanAmastotram 2
+title: नृइसिंहाष्टोत्तरशतनामस्तोत्रम् २
 
-+++
+---
   
  श्रीनृसिंहाष्टोत्तरशतनामस्तोत्रम् २   
   
@@ -65,7 +65,7 @@ title = "नृइसिंहाष्टोत्तरशतनामस्�
 चित्राय चित्ररूपाय जगच्चित्रतराय च ॥ १३॥  
   
 सर्व-वेदान्त-सिद्धान्त-सारसत्तमयाय च ।  
-सर्व-मन्त्राधिदेवाय स्तम्भ-डिम्भाय शंभवे ॥ १४॥  
+सर्व-मन्त्राधिदेवाय स्तम्भ-डिम्भाय शम्भवे ॥ १४॥  
   
 नमोऽस्त्वनन्त-कल्याणगुण-रत्नाकराय च ।  
 भगवच्छब्द-वाच्याय वागतीताय ते नमः ॥ १५॥  
@@ -100,7 +100,7 @@ title = "नृइसिंहाष्टोत्तरशतनामस्�
 नाम्नामष्टोत्तरशतं श्रीनृसिंहस्य यः पटेत् ।  
 सर्वपाप-विनिर्मुक्तः सर्वेष्टार्थानवाप्नुयात् ॥ २५॥  
   
-॥ इति श्रीब्रह्माण्डपुराणे नृसिंहाष्टोत्तर-शतनाम-स्तोत्रं संपूर्णम् ॥  
+॥ इति श्रीब्रह्माण्डपुराणे नृसिंहाष्टोत्तर-शतनाम-स्तोत्रं सम्पूर्णम् ॥  
   
   
 Encoded and proofread by  

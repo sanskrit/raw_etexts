@@ -1,21 +1,21 @@
-+++
-"Text title" = "Bhadradri Ramasuprabhatam"
-"File name" = "bhadrAdrirAmasuprabhAtam.itx"
-itxtitle = "bhadrAdrirAmasuprabhAtam athavA bhadrAchalarAmasuprabhAtam"
-engtitle = "bhadrAdrirAmasuprabhAtam"
-Category = "raama, suprabhAta"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Videos 1, 2, 3, Info, Bhajans)"
-"Latest update" = "October 19, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भद्राद्रिरामसुप्रभातम् अथवा भद्राचलरामसुप्रभातम्"
+---
+Category: raama, suprabhAta
+File name: bhadrAdrirAmasuprabhAtam.itx
+Indexextra: (Videos 1, 2, 3, Info, Bhajans)
+Language: Sanskrit
+Latest update: October 19, 2019
+Location: doc_raama
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Bhadradri Ramasuprabhatam
+engtitle: bhadrAdrirAmasuprabhAtam
+itxtitle: bhadrAdrirAmasuprabhAtam athavA bhadrAchalarAmasuprabhAtam
+title: भद्राद्रिरामसुप्रभातम् अथवा भद्राचलरामसुप्रभातम्
 
-+++
+---
   
  श्रीभद्राद्रिरामसुप्रभातस्तोत्रम्   
 वामाङ्कस्थितजानकीपरिलसत्कोदण्डदण्डं करे  

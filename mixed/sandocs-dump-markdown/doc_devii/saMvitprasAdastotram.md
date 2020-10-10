@@ -1,22 +1,22 @@
-+++
-"Text title" = "saMvitprasAdastotram"
-"File name" = "saMvitprasAdastotram.itx"
-itxtitle = "saMvitprasAdastotram"
-engtitle = "saMvitprasAdastotram"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Shri Chitrapura Stuti Manjari,3rd ed. 2008"
-Acknowledge-Permission = "Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/"
-"Latest update" = "March 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संवित्प्रसादस्तोत्रम्"
+---
+Acknowledge-Permission: Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/
+Category: devii, devI
+File name: saMvitprasAdastotram.itx
+Language: Sanskrit
+Latest update: March 2, 2018
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri Chitrapura Stuti Manjari,3rd ed. 2008
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: saMvitprasAdastotram
+engtitle: saMvitprasAdastotram
+itxtitle: saMvitprasAdastotram
+title: संवित्प्रसादस्तोत्रम्
 
-+++
+---
   
  संवित्प्रसादस्तोत्रम्   
 सर्वार्थदा सर्वजगत्प्रसूतिः सर्वेश्वरी सर्वभयापहन्त्री ।  

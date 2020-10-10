@@ -1,24 +1,24 @@
-+++
-"Text title" = "lakShmIhayavadanaprapattiH"
-"File name" = "lakShmIhayavadanaprapattiH.itx"
-itxtitle = "lakShmIhayavadanaprapattiH"
-engtitle = "lakShmIhayavadanaprapattiH"
-Category = "devii, lakShmI, prapatti, vishhnu, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीहयवदनप्रपत्तिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: devii, lakShmI, prapatti, vishhnu, devI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: lakShmIhayavadanaprapattiH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmIhayavadanaprapattiH
+engtitle: lakShmIhayavadanaprapattiH
+itxtitle: lakShmIhayavadanaprapattiH
+title: लक्ष्मीहयवदनप्रपत्तिः
 
-+++
+---
   
  श्रीलक्ष्मीहयवदन प्रपत्तिः   
   

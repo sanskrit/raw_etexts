@@ -1,22 +1,22 @@
-+++
-"Text title" = "subrahmaNyashaktistutiH"
-"File name" = "subrahmaNyashaktistutiH.itx"
-itxtitle = "subrahmaNyashaktistutiH ((shaNkarAchAryavirachitA))"
-engtitle = "subrahmaNyashaktistutiH"
-Category = "subrahmanya, shankarAchArya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Latest update" = "March 6, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यशक्तिस्तुतिः ((शण्कराचार्यविरचिता))"
+---
+Author: Adi Shankaracharya
+Category: subrahmanya, shankarAchArya
+File name: subrahmaNyashaktistutiH.itx
+Language: Sanskrit
+Latest update: March 6, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyashaktistutiH
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: subrahmaNyashaktistutiH
+itxtitle: subrahmaNyashaktistutiH ((shaNkarAchAryavirachitA))
+title: सुब्रह्मण्यशक्तिस्तुतिः ((शण्कराचार्यविरचिता))
 
-+++
+---
   
  श्रीसुब्रह्मण्यशक्तिस्तुतिः   
 शक्ते भजे त्वां जगतो जनित्रीं  

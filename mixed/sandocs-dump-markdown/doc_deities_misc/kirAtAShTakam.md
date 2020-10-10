@@ -1,22 +1,22 @@
-+++
-"Text title" = "kiraaTaaShTakam"
-"File name" = "kiraataashtakam.itx"
-itxtitle = "kirAtAShTakam"
-engtitle = "kirAtAShTakam"
-Category = "aShTaka, deities_misc, ayyappa"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma, PSA Easwaran"
-"Latest update" = "April 23, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "किराताष्टकम्"
+---
+Category: aShTaka, deities_misc, ayyappa
+File name: kiraataashtakam.itx
+Language: Sanskrit
+Latest update: April 23, 2008
+Location: doc_deities_misc
+Proofread by: Antaratma, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: kiraaTaaShTakam
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: kirAtAShTakam
+itxtitle: kirAtAShTakam
+title: किराताष्टकम्
 
-+++
+---
   
  किराताष्टकं   
   

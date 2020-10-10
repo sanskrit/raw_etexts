@@ -1,22 +1,22 @@
-+++
-"Text title" = "svAnubhUtiprakAshikA"
-"File name" = "svAnubhUtiprakAshikA.itx"
-itxtitle = "svAnubhUtiprakAshikA (sadAshivendravirachitA)"
-engtitle = "svAnubhUtiprakAshikA"
-Category = "major_works, sadAshivabrahmendra"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Sadashivendra Sarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वानुभूतिप्रकाशिका (सदाशिवेन्द्रविरचिता)"
+---
+Author: Sadashivendra Sarasvati
+Category: major_works, sadAshivabrahmendra
+File name: svAnubhUtiprakAshikA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 2, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: svAnubhUtiprakAshikA
+engtitle: svAnubhUtiprakAshikA
+itxtitle: svAnubhUtiprakAshikA (sadAshivendravirachitA)
+title: स्वानुभूतिप्रकाशिका (सदाशिवेन्द्रविरचिता)
 
-+++
+---
   
  स्वानुभूतिप्रकाशिका   
 गौरीपतिपदभजनक्रकचविलूनैकविषयपाशोऽहम् ।  

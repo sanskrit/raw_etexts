@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNeshakavacham"
-"File name" = "ganeshakavach.itx"
-itxtitle = "gaNeshakavacham (gaNeshapurANAntargatam)"
-engtitle = "Sri Ganesha Kavacha"
-Category = "kavacha, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "shriigaNeshapuraaNe uttarakhaNDe baalakriiDaayaa.n shhaDashiititame.adhyaaye"
-"Latest update" = "December 11, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशकवचम् (गणेशपुराणान्तर्गतम्)"
+---
+Category: kavacha, ganesha
+Description-comments: shriigaNeshapuraaNe uttarakhaNDe baalakriiDaayaa.n shhaDashiititame.adhyaaye
+File name: ganeshakavach.itx
+Language: Sanskrit
+Latest update: December 11, 2003
+Location: doc_ganesha
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: ganesha
+Text title: gaNeshakavacham
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Sri Ganesha Kavacha
+itxtitle: gaNeshakavacham (gaNeshapurANAntargatam)
+title: गणेशकवचम् (गणेशपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीगणेशकवचम्   
   
@@ -48,7 +48,7 @@ title = "गणेशकवचम् (गणेशपुराणान्तर
 गणेशस्तु मुखं कण्ठं पातु देवो गणञ्जयः ॥ ७॥  
   
 स्कन्धौ पातु गजस्कन्धः स्तनौ विघ्नविनाशनः ।  
-हृदयं गणनाथस्तु हेरंबो जठरं महान् ॥ ८॥  
+हृदयं गणनाथस्तु हेरम्बो जठरं महान् ॥ ८॥  
   
 धराधरः पातु पार्श्वौ पृष्ठं विघ्नहरः शुभः ।  
 लिङ्गं गुह्यं सदा पातु वक्रतुण्डो महाबलः ॥ ९॥  

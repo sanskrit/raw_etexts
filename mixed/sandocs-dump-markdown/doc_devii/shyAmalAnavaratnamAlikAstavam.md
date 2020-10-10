@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shyamala Navaratnamalika Stavam"
-"File name" = "shyAmalAnavaratnamAlikAstavam.itx"
-itxtitle = "shyAmalAnavaratnamAlikAstavam"
-engtitle = "shyAmalAnavaratnamAlikAstavam"
-Category = "devii, nava, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्यामलानवरत्नमालिकास्तवम्"
+---
+Category: devii, nava, devI
+File name: shyAmalAnavaratnamAlikAstavam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shyamala Navaratnamalika Stavam
+Transliterated by: PSA Easwaran
+engtitle: shyAmalAnavaratnamAlikAstavam
+itxtitle: shyAmalAnavaratnamAlikAstavam
+title: श्यामलानवरत्नमालिकास्तवम्
 
-+++
+---
   
  श्यामलानवरत्नमालिकास्तवम्   
 ध्यानश्लोकौ -  

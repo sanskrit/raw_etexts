@@ -1,26 +1,26 @@
-+++
-"Text title" = "svAmIsamartha tAraka ma.ntra"
-"File name" = "tArakamantra.itx"
-itxtitle = "akkalakoTasvAmI samartha tArakamantram"
-engtitle = "akkalakoTasvAmI samartha tArakama.ntra"
-Category = "mantra, deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Marathi"
-"Transliterated by" = "walgude.sameer at mahindra.com"
-Description-comments = "http://saileelamrutha.blogspot.com/2010/12/swami-samarth-tarak-mantra.html"
-"Latest update" = "July 15, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अक्कलकोटस्वामी समर्थ तारकमन्त्रम्"
+---
+Category: mantra, deities_misc, gurudev
+Description-comments: http://saileelamrutha.blogspot.com/2010/12/swami-samarth-tarak-mantra.html
+File name: tArakamantra.itx
+Language: Marathi
+Latest update: July 15, 2005
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Sublocation: deities_misc
+Text title: svAmIsamartha tAraka ma.ntra
+Transliterated by: walgude.sameer at mahindra.com
+engtitle: akkalakoTasvAmI samartha tArakama.ntra
+itxtitle: akkalakoTasvAmI samartha tArakamantram
+title: अक्कलकोटस्वामी समर्थ तारकमन्त्रम्
 
-+++
+---
   
- अक्कलकोटस्वामी समर्थ तारकमंत्र   
+ अक्कलकोटस्वामी समर्थ तारकमन्त्र   
   
-निःशंक हो, निर्भय हो, मनारे  
-प्रचंड स्वामीबल पाठिशी रे  
+निःशङ्क हो, निर्भय हो, मनारे  
+प्रचण्ड स्वामीबल पाठिशी रे  
 अतर्क्य अवधूत हे स्मर्तु गामी  
 अशक्य ही शक्य करतील स्वामी  ॥ १ ॥  
   
@@ -32,15 +32,15 @@ title = "अक्कलकोटस्वामी समर्थ तारक
 उगाचि भीतोसि, भय हे पळू दे  
 जवळी उभी स्वामीशक्ती कळू दे  
 जगी जन्ममृत्यू असे खेळ ज्याचा  
-नको घाबरू तू असे बाल त्यांचा  ॥  ३  ॥  
+नको घाबरू तू असे बाल त्याञ्चा  ॥  ३  ॥  
   
 खरा होई जागा तू श्रद्धेसहीत  
 कसा होशी त्यावीण तू स्वामिभक्त  
-कितीदा दिला बोल त्यांनीच हात  
+कितीदा दिला बोल त्यान्नीच हात  
 नको डगमगू स्वामी देतील साथ  ॥ ४ ॥  
   
 विभूती नमन नाम ध्यानादि तीर्थ  
-स्वामीच या पंच प्राणामृतात  
+स्वामीच या पञ्च प्राणामृतात  
 हे तीर्थ घे, आठवी रे प्रचीती  
 न सोडी कदा स्वामी ज्या घेई हाती  ॥ ५ ॥  
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "baTukabhairavasahasranAmastotram 2"
-"File name" = "baTukabhairavasahasranAmastotram.itx"
-itxtitle = "baTukabhairavasahasranAmastotram 2 (rudrayAmAlAntargatam)"
-engtitle = "baTukabhairavasahasranAmastotram 2"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD, NA"
-Description-comments = "Edited by S. V. Radhakrishna Shastriji"
-Source = "Rudrayamalatantra"
-Indexextra = "(Scanned book)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "November 7, 2014, August 18, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बटुकभैरवसहस्रनामस्तोत्रम् २ (रुद्रयामालान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAma, shiva
+Description-comments: Edited by S. V. Radhakrishna Shastriji
+File name: baTukabhairavasahasranAmastotram.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: November 7, 2014, August 18, 2017
+Location: doc_shiva
+Proofread by: DPD, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalatantra
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: baTukabhairavasahasranAmastotram 2
+engtitle: baTukabhairavasahasranAmastotram 2
+itxtitle: baTukabhairavasahasranAmastotram 2 (rudrayAmAlAntargatam)
+title: बटुकभैरवसहस्रनामस्तोत्रम् २ (रुद्रयामालान्तर्गतम्)
 
-+++
+---
   
  श्रीबटुकभैरवसहस्रनामस्तोत्रम् २   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "pArvatIshrIkaNThastutiH"
-"File name" = "pArvatIshrIkaNThastutiH.itx"
-itxtitle = "pArvatIshrIkaNThastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "pArvatIshrIkaNThastutiH"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, shiva, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्वतीश्रीकण्ठस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, shiva, pArvatI
+File name: pArvatIshrIkaNThastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: pArvatIshrIkaNThastutiH
+engtitle: pArvatIshrIkaNThastutiH
+itxtitle: pArvatIshrIkaNThastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: पार्वतीश्रीकण्ठस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीपार्वतीश्रीकण्ठस्तुतिः   
 (श्रीगरलपुरप्रवेशकाले)  

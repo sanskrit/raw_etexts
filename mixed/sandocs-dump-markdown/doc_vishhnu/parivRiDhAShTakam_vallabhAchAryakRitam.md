@@ -1,24 +1,24 @@
-+++
-"Text title" = "parivRRiDhAShTakam"
-"File name" = "parivRRiDhAShTakam.itx"
-itxtitle = "parivRiDhAShTakam (vallabhAchAryakRitam)"
-engtitle = "parivRRiDhAShTakam"
-Category = "vishhnu, krishna, puShTimArgIya, aShTaka, vallabhaachaarya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परिवृइढाष्टकम् (वल्लभाचार्यकृइतम्)"
+---
+Author: vallabhAchArya
+Category: vishhnu, krishna, puShTimArgIya, aShTaka, vallabhaachaarya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: parivRRiDhAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: parivRRiDhAShTakam
+engtitle: parivRRiDhAShTakam
+itxtitle: parivRiDhAShTakam (vallabhAchAryakRitam)
+title: परिवृइढाष्टकम् (वल्लभाचार्यकृइतम्)
 
-+++
+---
   
  परिवृढाष्टकम्   
   

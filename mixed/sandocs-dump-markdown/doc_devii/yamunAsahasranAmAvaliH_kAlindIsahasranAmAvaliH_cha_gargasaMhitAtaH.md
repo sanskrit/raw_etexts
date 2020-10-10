@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrI yamunA aparanAma kAlindIsahasranAmAvalI"
-"File name" = "yamunAsahasranAmAvalI.itx"
-itxtitle = "yamunAsahasranAmAvaliH kAlindIsahasranAmAvaliH cha (gargasaMhitAtaH)"
-engtitle = "yamunAsahasranAmAvalI"
-Category = "sahasranAmAvalI, devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, help from Alex"
-"Proofread by" = "DPD, NA, PSAEaswaran"
-Source = "shrI bhagavatIstutimanjarI, Mahaperiaval Trust, GargasamhitA"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "January 1, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनासहस्रनामावलिः कालिन्दीसहस्रनामावलिः च (गर्गसंहितातः)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAmAvalI, devii, nadI, devI
+File name: yamunAsahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: January 1, 2016
+Location: doc_devii
+Proofread by: DPD, NA, PSAEaswaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrI bhagavatIstutimanjarI, Mahaperiaval Trust, GargasamhitA
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrI yamunA aparanAma kAlindIsahasranAmAvalI
+Transliterated by: DPD, help from Alex
+engtitle: yamunAsahasranAmAvalI
+itxtitle: yamunAsahasranAmAvaliH kAlindIsahasranAmAvaliH cha (gargasaMhitAtaH)
+title: यमुनासहस्रनामावलिः कालिन्दीसहस्रनामावलिः च (गर्गसंहितातः)
 
-+++
+---
   
  श्री यमुनासहस्रनामावलिः अपरनाम कालिन्दीसहस्रनामावलिः   
 गर्गसंहितातः   
@@ -404,11 +404,11 @@ title = "यमुनासहस्रनामावलिः कालिन�
 ॐ कोटिसूर्यप्रतीकाशायै नमः ।   
 ॐ सूर्यजायै नमः ।  (३८०)  
 ॐ सूर्यनन्दिन्यै नमः ।   
-ॐ संज्ञायै नमः ।   
-ॐ संज्ञासुतायै नमः ।   
+ॐ सञ्ज्ञायै नमः ।   
+ॐ सञ्ज्ञासुतायै नमः ।   
 ॐ स्वेच्छायै नमः ।   
-ॐ संज्ञामोदप्रदायिन्यै नमः ।५९   
-ॐ संज्ञापुत्र्यै नमः ।   
+ॐ सञ्ज्ञामोदप्रदायिन्यै नमः ।५९   
+ॐ सञ्ज्ञापुत्र्यै नमः ।   
 ॐ स्फुरच्छायायै नमः ।   
 ॐ तपन्त्यै नमः ।   
 ॐ तापकारिण्यै नमः ।   
@@ -658,7 +658,7 @@ title = "यमुनासहस्रनामावलिः कालिन�
 ॐ वायुवेगगायै नमः ।८८   
 ॐ यमानुजायै नमः ।   
 ॐ संयमन्यै नमः ।   
-ॐ संज्ञायै नमः ।   
+ॐ सञ्ज्ञायै नमः ।   
 ॐ छायायै नमः ।   
 ॐ स्फुरद्द्युत्यै नमः ।   
 ॐ रत्नदेव्यै नमः ।   

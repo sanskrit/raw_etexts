@@ -3,7 +3,6 @@ title: 004 Dasaratha s Premonition
 title_english: 004 Dasaratha s Premonition
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-004-Ramaya_Dasharatha_Syopadeshaha.mp3"></div>
 
 गतेष्वथ नृपो भूयः पौरेषु सह मन्त्रिभिः ।  
@@ -49,7 +48,7 @@ title_english: 004 Dasaratha s Premonition
 अद्य चन्द्रोभ्युपगतः पुष्यात्पूर्वं पुनर्वसू ।  
 श्वः पुष्ययोगं नियतं वक्ष्यन्ते दैवचिन्तकाः ॥ २-४-२१  
 ततः पुष्येऽभिषिञ्चस्व मनस्त्वरयतीव माम् ।  
-श्वस्त्वाहमभिषेक्ष्यामि यौवराज्ये परंतप ॥ २-४-२२  
+श्वस्त्वाहमभिषेक्ष्यामि यौवराज्ये परन्तप ॥ २-४-२२  
 तस्मात्त्वयादप्रभृति निशेयं नियतात्मना ।  
 सह वध्वोपवस्तव्या दर्भप्रस्तरशायिना ॥ २-४-२३  
 सुहृदश्चाप्रमत्तास्त्वां रक्षन्त्वद्य समन्ततः ।  

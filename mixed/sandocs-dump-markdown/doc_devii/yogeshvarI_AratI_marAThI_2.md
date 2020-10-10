@@ -1,27 +1,27 @@
-+++
-"Text title" = "Shri Yogeshwari Arati 2"
-"File name" = "yogeshvarIAratImarAThI2.itx"
-itxtitle = "yogeshvarI AratI marAThI 2"
-engtitle = "Yogeshwari Arati 2"
-Category = "devii, devI, AratI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Marathi"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(audio)"
-"Latest update" = "January 28, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगेश्वरी आरती मराठी २"
+---
+Category: devii, devI, AratI
+File name: yogeshvarIAratImarAThI2.itx
+Indexextra: (audio)
+Language: Marathi
+Latest update: January 28, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Yogeshwari Arati 2
+engtitle: Yogeshwari Arati 2
+itxtitle: yogeshvarI AratI marAThI 2
+title: योगेश्वरी आरती मराठी २
 
-+++
+---
   
  आरती योगेश्वरीची २   
 जयदेवी जयदेवी जय योगेश्वरी । महिमा न कळे तुझा वर्णिता थोरी ।  
                 जय देवी जय देवी ॥ ध्रु.॥  
   
-धन्य अंबापूर महिमा विचित्र । पार्वती अवतार योगिनी क्षेत्र ।  
-दंतासुर मर्दोनी केले चरित्र । सिद्धांचे स्थळ तें महापवित्र ।  
+धन्य अम्बापूर महिमा विचित्र । पार्वती अवतार योगिनी क्षेत्र ।  
+दन्तासुर मर्दोनी केले चरित्र । सिद्धाञ्चे स्थळ तें महापवित्र ।  
 जयदेवी जयदेवी जय योगेश्वरी । महिमा न कळे तुझा वर्णिता थोरी ।  
                 जय देवी जय देवी ॥ १॥  
   
@@ -30,18 +30,18 @@ title = "योगेश्वरी आरती मराठी २"
 जय देवी जय देवी जय योगेश्वरी। महिमा न काळे तुझा वर्णिता थोरी ।  
                 जय देवी जय देवी ॥ २॥  
   
-सिद्धलिंग स्थळ परम पावन । नृसिंहतीर्थ तेथे नृसिंहवंदन ।  
-मूळ पीठ रेणागिरी नांदे आपण । संताचे माहेर गोदेवी स्थान ।  
+सिद्धलिङ्ग स्थळ परम पावन । नृसिंहतीर्थ तेथे नृसिंहवन्दन ।  
+मूळ पीठ रेणागिरी नान्दे आपण । सन्ताचे माहेर गोदेवी स्थान ।  
 जय देवी जय देवी जय योगेश्वरी । महिमा न कळे तुझा वर्णिता थोरी ।  
                 जय देवी जय देवी ॥ ३॥  
   
 महारुद्र जेथे भैरव अवतार । काळभैरव त्याचा महिमा अपार ।  
-नागझरी तीर्थ तीर्थांचे सार । मार्जन करिता दोष होती संहार ।  
+नागझरी तीर्थ तीर्थाञ्चे सार । मार्जन करिता दोष होती संहार ।  
 जय देवी जय देवी जय योगेश्वरी । महिमा न कळे तुझा वर्णिता थोरी ।  
                 जय देवी जय देवी ॥ ४॥  
   
-अनंतरूप शक्ती तुज योग्य माते । योगेश्वरी नाम त्रिभुवन विख्याते ।  
-व्यापक सकळां देहीं अनंत गुण भरिते । निळकंठ ओवाळू कैवल्य माते ।  
+अनन्तरूप शक्ती तुज योग्य माते । योगेश्वरी नाम त्रिभुवन विख्याते ।  
+व्यापक सकळां देहीं अनन्त गुण भरिते । निळकण्ठ ओवाळू कैवल्य माते ।  
 जय देवी जय देवी जय योगेश्वरी । महिमा न कळे तुझा वर्णिता थोरी ।  
                 जय देवी जय देवी ॥ ५॥  
   

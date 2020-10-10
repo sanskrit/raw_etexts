@@ -1,25 +1,25 @@
-+++
-"Text title" = "ujjvalaveNkaTanAthastotram"
-"File name" = "ujjvalaveMkaTanAthastotram.itx"
-itxtitle = "ujjvalaveNkaTanAthastotram"
-engtitle = "Ujjvalavenkatanathastotram"
-Category = "vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "April 4, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उज्ज्वलवेण्कटनाथस्तोत्रम्"
+---
+Category: vishhnu, venkateshwara, stotra, vishnu
+File name: ujjvalaveMkaTanAthastotram.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: April 4, 2015
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ujjvalaveNkaTanAthastotram
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Ujjvalavenkatanathastotram
+itxtitle: ujjvalaveNkaTanAthastotram
+title: उज्ज्वलवेण्कटनाथस्तोत्रम्
 
-+++
+---
   
  उज्ज्वलवेङ्कटनाथस्तोत्रम्   
   
@@ -68,7 +68,7 @@ title = "उज्ज्वलवेण्कटनाथस्तोत्र�
 विदधते ते ते पदार्चनमितरथा गतिविरहिता इति  
 मतिमता तातायिते त्वयि शरणतां हृदि कलयता परि-  
 चरणया यायाऽऽयता तव फणिगणाधिपगुरुवरेण तु ।  
-विरचितां तांतां वनावलिमुपगते त्वयि विहरति द्रुम-  
+विरचितां तान्तां वनावलिमुपगते त्वयि विहरति द्रुम-  
 नहनगाङ्गां गामिव श्रियमरचयत्तव स गुरुरस्य च  
 तदनु तान्तां तां रमां परिजनगिरा द्रुतमवयतो निज-  
 शिशुदशाशाशालिनीमपि वितरतो वर वितर शं मम ॥ ८॥  
@@ -88,13 +88,13 @@ title = "उज्ज्वलवेण्कटनाथस्तोत्र�
 रिपुलयायायाहि पाहि न इदमरं मम कलय पावन ।  
 सुतरसासासारदृक्ततिरतिशुभा तव निपततान्मयि  
 सहरमो मोमोत्तु सन्ततमयि भवान्मयि वृषगिरावपि  
-प्रतिदिनं नंनम्यते मम मन उपेक्षिततदपरं त्वयि  
+प्रतिदिनं नन्नम्यते मम मन उपेक्षिततदपरं त्वयि  
 तदरिपापापासनं कुरु वृषगिरीश्वर सततमुज्ज्वल ॥ १०॥  
   
 उज्ज्वलवेङ्कटनाथस्तोत्रं पठतां ध्रुवाऽरिविजयश्रीः  
 श्रीरङ्गोक्तं लसति यदमृतं सारज्ञहृदयसारङ्गे ॥ ११॥  
   
-॥ इति उज्ज्वलवेङ्कटनाथस्तोत्रं संपूर्णम् ॥  
+॥ इति उज्ज्वलवेङ्कटनाथस्तोत्रं सम्पूर्णम् ॥  
   
   
 Encoded and proofread by Malleswara Rao Yellapragada  

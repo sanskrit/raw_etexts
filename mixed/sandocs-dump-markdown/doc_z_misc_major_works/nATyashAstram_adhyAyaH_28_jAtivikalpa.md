@@ -1,23 +1,23 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 28 jaativikalpa"
-"File name" = "natya28.itx"
-itxtitle = "nATyashAstram adhyAyaH 28 jAtivikalpa"
-engtitle = "Natya Shastra Chapter 28"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture/Dance/Drama"
-"Transliterated by" = "Haresh Bakshi hareshbakshi at hotmail.com"
-"Proofread by" = "Haresh Bakshi hareshbakshi at hotmail.com"
-"Latest update" = "December 10, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः २८ जातिविकल्प"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya28.itx
+Language: Sanskrit
+Latest update: December 10, 2006
+Location: doc_z_misc_major_works
+Proofread by: Haresh Bakshi hareshbakshi at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture/Dance/Drama
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 28 jaativikalpa
+Texttype: pramukha
+Transliterated by: Haresh Bakshi hareshbakshi at hotmail.com
+engtitle: Natya Shastra Chapter 28
+itxtitle: nATyashAstram adhyAyaH 28 jAtivikalpa
+title: नाट्यशास्त्रम् अध्यायः २८ जातिविकल्प
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः २८ जातिविकल्प   
   
@@ -68,7 +68,7 @@ title = "नाट्यशास्त्रम् अध्यायः २८
 दारव्यां समवायस्तु वीणायां समुदाहृतः ॥ १४॥  
   
 स्वरा ग्रामावलङ्कारा वर्णाः स्थानानि जातयः ।  
-साधारणे च शरीर्यां वीणायामेष संग्रहः ॥ १५॥  
+साधारणे च शरीर्यां वीणायामेष सङ्ग्रहः ॥ १५॥  
   
 व्यञ्जनानि स्वरा वर्णाः सन्धयोऽथ विभक्तयः ।  
 नामाख्यातोपसर्गाश्च निपातास्तद्धिताः कृतः ॥ १६॥  
@@ -83,7 +83,7 @@ title = "नाट्यशास्त्रम् अध्यायः २८
 गीतयोऽवयवा मार्गाः पादमार्गाः सपाणयः ॥ १९॥  
   
 इत्येकविंशतिविधं ज्ञेयं तालगतं बुधैः ।  
-गान्धर्वसंग्रहो ह्येष विस्तरं तु निबोधत ॥ २०॥  
+गान्धर्वसङ्ग्रहो ह्येष विस्तरं तु निबोधत ॥ २०॥  
   
 तत्र स्वराः -  
 षड्जश्च ऋषभश्चैव गान्धारो मध्यमस्तथा ।  
@@ -123,7 +123,7 @@ title = "नाट्यशास्त्रम् अध्यायः २८
 मध्यमग्रामजा ह्येता विज्ञेयाः सप्तमूर्च्छनाः ॥ ३१॥  
   
 अपि च -  
-क्रमयुक्ताः स्वराः सप्त मूर्च्छनेत्यभिसंज्ञिताः ।  
+क्रमयुक्ताः स्वराः सप्त मूर्च्छनेत्यभिसञ्ज्ञिताः ।  
 षट्पञ्चस्वरकास्तानाः षाडवौडुविताश्रयाः ॥ ३२॥  
   
 साधारणकृताश्चैव काकलीसमलङ्कृताः ।  
@@ -172,7 +172,7 @@ title = "नाट्यशास्त्रम् अध्यायः २८
 पुनरेवाशुद्धकृता भवन्त्यथैकादशान्यास्तु ॥ ४६॥  
   
 तासां यन्निर्वृत्ताः स्वरेष्वथांशेषु जातिषु च जातिः ।  
-तद्वक्ष्यामि यथावत्संक्षेपेण क्रमेणेह ॥ ४७॥  
+तद्वक्ष्यामि यथावत्सङ्क्षेपेण क्रमेणेह ॥ ४७॥  
   
 परस्परविनिष्पन्ना ज्ञेया ह्येवं तु जातयः ।  
 पृथग्लक्षणसंयुक्ता द्वैग्रामिकाः स्वराश्रयाः ॥ ४८॥  
@@ -241,7 +241,7 @@ title = "नाट्यशास्त्रम् अध्यायः २८
 यस्मिन् भवति रागश्च यस्माच्चैव प्रवर्तते ।  
 मन्द्रश्च तारमन्द्रश्च योऽत्यर्थं चोपलभ्यते ॥ ६८॥  
   
-ग्रहापन्यासविन्याससंन्यासन्यासगोचरः ।  
+ग्रहापन्यासविन्याससन्न्यासन्यासगोचरः ।  
 अनुवृत्तश्च यस्येह सोंऽशः स्याद्दशलक्षणः ॥ ६९॥  
   
 पञ्चस्वरपरा तारगतिर्यथा  
@@ -256,10 +256,10 @@ title = "नाट्यशास्त्रम् अध्यायः २८
 तद्वदपन्यासो ह्यङ्गमध्ये षट्पञ्चाशत्सङ्ख्यः ।  
 यथा -  
 न्यासोऽङ्गसमाप्तौ स चैकविंशतिसङ्ख्यस्तथा ।  
-१६ अक्षराणि षट्पञ्चाशत्संख्योऽपन्यासोऽङ्गमध्ये भवेत् ॥ ७२॥  
+१६ अक्षराणि षट्पञ्चाशत्सङ्ख्योऽपन्यासोऽङ्गमध्ये भवेत् ॥ ७२॥  
   
 तत्र प्रथमं विदारीमध्ये न्यासस्वरप्रयुक्तस्तु ।  
-विवदनशीलं मुक्त्वा संन्यासः सोऽभिधातव्यः ।  
+विवदनशीलं मुक्त्वा सन्न्यासः सोऽभिधातव्यः ।  
 कृत्वा पदावसाने विन्यासात्क्वापि विन्यासः ॥ ७३॥  
   
 तथा -  

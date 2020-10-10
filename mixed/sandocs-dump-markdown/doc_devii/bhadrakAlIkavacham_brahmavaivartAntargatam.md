@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhadrakAlIkavacham"
-"File name" = "bhadrakAlIkavacham.itx"
-itxtitle = "bhadrakAlIkavacham (brahmavaivartAntargatam)"
-engtitle = "bhadrakAlIkavacham"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kirk Wortman kirkwort at hotmail.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-Description-comments = "brahmavaivartamahApurANe gaNapatikhaNDe adhyAya 37"
-"Latest update" = "January 18, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भद्रकालीकवचम् (ब्रह्मवैवर्तान्तर्गतम्)"
+---
+Category: kavacha, devii, dashamahAvidyA, devI
+Description-comments: brahmavaivartamahApurANe gaNapatikhaNDe adhyAya 37
+File name: bhadrakAlIkavacham.itx
+Language: Sanskrit
+Latest update: January 18, 2017
+Location: doc_devii
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhadrakAlIkavacham
+Transliterated by: Kirk Wortman kirkwort at hotmail.com
+engtitle: bhadrakAlIkavacham
+itxtitle: bhadrakAlIkavacham (brahmavaivartAntargatam)
+title: भद्रकालीकवचम् (ब्रह्मवैवर्तान्तर्गतम्)
 
-+++
+---
   
  श्रीभद्रकालीकवचम्   
   

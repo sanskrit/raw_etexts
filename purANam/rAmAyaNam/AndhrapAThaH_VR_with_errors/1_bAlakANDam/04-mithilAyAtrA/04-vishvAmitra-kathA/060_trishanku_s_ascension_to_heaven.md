@@ -3,7 +3,6 @@ title: 060 त्रिशङ्कुस्वर्गप्राप्ति
 title_english: 060 trishanku s ascension to heaven
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-060-Thrishamkoh_Swarga_Prapthihi.mp3"></div>
 
 तपोबलहतान् कृत्वा वासिष्ठान् समहोदयान्।  

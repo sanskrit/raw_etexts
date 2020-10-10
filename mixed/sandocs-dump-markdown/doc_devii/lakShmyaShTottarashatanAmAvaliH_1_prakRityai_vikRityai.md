@@ -1,24 +1,24 @@
-+++
-"Text title" = "lakShmyaShTottarashata nAmAvaliH 1"
-"File name" = "lakshmi108.itx"
-itxtitle = "lakShmyaShTottarashatanAmAvaliH 1 (prakRityai vikRityai)"
-engtitle = "108 names of shrI lakShmi 1"
-Category = "aShTottarashatanAmAvalI, devii, lakShmI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar"
-"Proofread by" = "Shri Devi Kumar, Sunder Hattangadi, Easwaran, Tanvir  Chowdhury"
-Indexextra = "(stotra, meaning)"
-"Latest update" = "February 2, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्म्यष्टोत्तरशतनामावलिः १ (प्रकृइत्यै विकृइत्यै)"
+---
+Category: aShTottarashatanAmAvalI, devii, lakShmI, nAmAvalI, devI
+File name: lakshmi108.itx
+Indexextra: (stotra, meaning)
+Language: Sanskrit
+Latest update: February 2, 2014
+Location: doc_devii
+Proofread by: Shri Devi Kumar, Sunder Hattangadi, Easwaran, Tanvir  Chowdhury
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmyaShTottarashata nAmAvaliH 1
+Texttype: nAmAvalI
+Transliterated by: Shri Devi Kumar
+engtitle: 108 names of shrI lakShmi 1
+itxtitle: lakShmyaShTottarashatanAmAvaliH 1 (prakRityai vikRityai)
+title: लक्ष्म्यष्टोत्तरशतनामावलिः १ (प्रकृइत्यै विकृइत्यै)
 
-+++
+---
   
  श्रीलक्ष्म्यष्टोत्तरशतनामावली   
 वन्दे पद्मकरां प्रसन्नवदनां सौभज्ञदां भाज्ञदां  

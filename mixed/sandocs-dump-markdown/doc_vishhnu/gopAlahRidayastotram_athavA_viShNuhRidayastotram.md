@@ -1,23 +1,23 @@
-+++
-"Text title" = "gopAlahRidayastotram"
-"File name" = "gopaalahriday.itx"
-itxtitle = "gopAlahRidayastotram athavA viShNuhRidayastotram"
-engtitle = "gopAlahRidayastotram"
-Category = "hRidaya, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "January 11, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपालहृइदयस्तोत्रम् अथवा विष्णुहृइदयस्तोत्रम्"
+---
+Author: Traditional
+Category: hRidaya, vishhnu, krishna, vishnu
+File name: gopaalahriday.itx
+Language: Sanskrit
+Latest update: January 11, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopAlahRidayastotram
+Transliterated by: WebD
+engtitle: gopAlahRidayastotram
+itxtitle: gopAlahRidayastotram athavA viShNuhRidayastotram
+title: गोपालहृइदयस्तोत्रम् अथवा विष्णुहृइदयस्तोत्रम्
 
-+++
+---
   
  गोपालहृदयस्तोत्रम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Ganesha AshtottarashatanamavaliH (3) 108 Names"
-"File name" = "gaNeshAShTottarashatanAmAvaliH3.itx"
-itxtitle = "gaNeshAShTottarashatanAmAvaliH 3"
-engtitle = "gaNeshAShTottarashatanAmAvaliH 3"
-Category = "ganesha, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Pandit Shri Rama Ramanuja Acharya, srimatham.com"
-"Latest update" = "June 20, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशाष्टोत्तरशतनामावलिः ३"
+---
+Acknowledge-Permission: Pandit Shri Rama Ramanuja Acharya, srimatham.com
+Category: ganesha, aShTottarashatanAmAvalI, nAmAvalI
+File name: gaNeshAShTottarashatanAmAvaliH3.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: June 20, 2019
+Location: doc_ganesha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha AshtottarashatanamavaliH (3) 108 Names
+engtitle: gaNeshAShTottarashatanAmAvaliH 3
+itxtitle: gaNeshAShTottarashatanAmAvaliH 3
+title: गणेशाष्टोत्तरशतनामावलिः ३
 
-+++
+---
   
  श्रीगणेशाष्टोत्तरशतनामावलिः ३   
 ॐ गजाननाय नमः । गणाध्यक्षाय । विघ्नराजाय । विनायकाय ।  

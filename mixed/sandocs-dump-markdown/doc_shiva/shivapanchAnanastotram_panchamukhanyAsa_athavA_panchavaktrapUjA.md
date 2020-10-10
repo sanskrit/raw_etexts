@@ -1,21 +1,21 @@
-+++
-"Text title" = "shivapanchAnanastotram"
-"File name" = "shivapanchAnanastotram.itx"
-itxtitle = "shivapanchAnanastotram (panchamukhanyAsa athavA panchavaktrapUjA)"
-engtitle = "shivapanchAnanastotram Three versions"
-Category = "panchaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar, PSA Easwaran"
-"Latest update" = "November 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवपञ्चाननस्तोत्रम् (पञ्चमुखन्यास अथवा पञ्चवक्त्रपूजा)"
+---
+Category: panchaka, shiva
+File name: shivapanchAnanastotram.itx
+Language: Sanskrit
+Latest update: November 22, 2016
+Location: doc_shiva
+Proofread by: Shree Devi Kumar, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivapanchAnanastotram
+Transliterated by: Shree Devi Kumar
+engtitle: shivapanchAnanastotram Three versions
+itxtitle: shivapanchAnanastotram (panchamukhanyAsa athavA panchavaktrapUjA)
+title: शिवपञ्चाननस्तोत्रम् (पञ्चमुखन्यास अथवा पञ्चवक्त्रपूजा)
 
-+++
+---
   
  श्रीशिवपञ्चाननस्तोत्रम् पञ्चमुख शिव   
 Panchaanana, Panchavaktra or Panchamukhi Shiva is the  
@@ -122,7 +122,7 @@ All three versions are given below.
   
 संवर्ताग्नि-तटित्प्रदीप्त-कनकप्रस्पर्द्धि-तेजोऽरुणं  
 गम्भीरध्वनि-सामवेदजनकं ताम्राधरं सुन्दरम् ।  
-अर्द्धेन्दुद्युति-लोल-पिंगल जटा भार-प्रबोद्धोदकं  
+अर्द्धेन्दुद्युति-लोल-पिङ्गल जटा भार-प्रबोद्धोदकं  
 वन्दे सिद्धसुरासुरेन्द्र-नमितं पूर्वं मुखं शूलिनः ॥  
   
 ॐ नमो भगवते॑ रुद्रा॒य । पूर्वाङ्ग मुखाय नमः ॥ १ ॥  
@@ -163,7 +163,7 @@ All three versions are given below.
   
 व्यक्ताव्यक्तनिरूपितञ्च परमं षट्त्रिंशतत्वाधिकं  
 तस्मादुत्तर-तत्वमक्षरमिति ध्येयं सदा योगिभिः ।  
-ओंकारादि-समस्तमन्त्रजनकं सूक्ष्मातिसूक्ष्मं परं  
+ओङ्कारादि-समस्तमन्त्रजनकं सूक्ष्मातिसूक्ष्मं परं  
 वन्दे पञ्चममीश्वरस्य वदनं ख-व्यापि तेजोमयम् ॥  
   
 ॐ नमो भगवते॑ रुद्रा॒य । ऊर्द्ध्वाङ्ग मुखाय नमः ॥ ५ ॥  

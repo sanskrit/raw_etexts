@@ -1,21 +1,21 @@
-+++
-"Text title" = "padmAvatIstutiH"
-"File name" = "padmAvatIstutiH.itx"
-itxtitle = "padmAvatIstutiH"
-engtitle = "padmAvatIstutiH"
-Category = "devii, devI, jaina"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पद्मावतीस्तुतिः"
+---
+Category: devii, devI, jaina
+File name: padmAvatIstutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: padmAvatIstutiH
+engtitle: padmAvatIstutiH
+itxtitle: padmAvatIstutiH
+title: पद्मावतीस्तुतिः
 
-+++
+---
   
  श्रीपद्मावतीस्तुतिः   
 द्विपञ्चाशदक्षरगर्भिता सप्रभावा ।  

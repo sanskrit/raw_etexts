@@ -1,25 +1,25 @@
-+++
-"Text title" = "Gayatri Hridayam"
-"File name" = "gAyatrIhRidaya.itx"
-itxtitle = "gAyatrIhRidayam (devIbhAgavatAntargatam)"
-engtitle = "Gayatri Hridaya"
-Category = "hRidaya, devii, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Author = "Vyasa Rishi (by tradition)"
-Language = "Sanskrit"
-Subject = "philosophy/religion/theology"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "Devi Bhagavata Maha-Purana Book 12, Ch. 4"
-Indexextra = "(meanings and audio)"
-"Latest update" = "Sept. 3, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीहृइदयम् (देवीभागवतान्तर्गतम्)"
+---
+Author: Vyasa Rishi (by tradition)
+Category: hRidaya, devii, gAyatrI, devI
+Description-comments: Devi Bhagavata Maha-Purana Book 12, Ch. 4
+File name: gAyatrIhRidaya.itx
+Indexextra: (meanings and audio)
+Language: Sanskrit
+Latest update: Sept. 3, 2007
+Location: doc_devii
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/religion/theology
+Sublocation: devii
+Text title: Gayatri Hridayam
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Gayatri Hridaya
+itxtitle: gAyatrIhRidayam (devIbhAgavatAntargatam)
+title: गायत्रीहृइदयम् (देवीभागवतान्तर्गतम्)
 
-+++
+---
   
  गायत्रीहृदयम्   
   
@@ -84,7 +84,7 @@ title = "गायत्रीहृइदयम् (देवीभागवत
   
 सायमधीयानो दिवसकृतं पापं नाशयति ॥  
   
-सायंप्रातरधीयानः अपापो भवति ॥  
+सायम्प्रातरधीयानः अपापो भवति ॥  
   
 सर्वतीर्थेषु स्नातो भवति ॥  सर्वैर्देवैर्ज्ञातो भवति ॥  
   

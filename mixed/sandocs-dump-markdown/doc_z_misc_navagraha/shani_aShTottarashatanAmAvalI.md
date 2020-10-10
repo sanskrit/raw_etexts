@@ -1,25 +1,27 @@
-+++
-"Text title" = "shani aShTottarashatanaamavaliH"
-"File name" = "shani108.itx"
-itxtitle = "shani aShTottarashatanAmAvalI"
-engtitle = "shani aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, navagraha, nAmAvalI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com)"
-"Proofread by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler at gmx.net"
-Description-comments = "108 names for shani"
-Source = "Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal, Published by VIDVATH SABHA, Chennai - 600073"
-Indexextra = "(108 names)"
-"Latest update" = "Jan 25, 1998, June 3, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शनि अष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, navagraha, nAmAvalI
+Description-comments: 108 names for shani
+File name: shani108.itx
+Indexextra: (108 names)
+Language: Sanskrit
+Latest update: Jan 25, 1998, June 3, 2007
+Location: doc_z_misc_navagraha
+Proofread by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler
+  at gmx.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal,
+  Published by VIDVATH SABHA, Chennai - 600073
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shani aShTottarashatanaamavaliH
+Texttype: nAmAvalI
+Transliterated by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com)
+engtitle: shani aShTottarashatanAmAvalI
+itxtitle: shani aShTottarashatanAmAvalI
+title: शनि अष्टोत्तरशतनामावली
 
-+++
+---
   
  शनि अष्टोत्तरशतनामावली   
   
@@ -133,7 +135,7 @@ title = "शनि अष्टोत्तरशतनामावली"
 ॐ कलत्रपुत्रशत्रुत्वकारणाय नमः ।  
 ॐ परिपोषितभक्ताय नमः ।  
 ॐ परभीतिहराय नमः ।  
-ॐ भक्तसंघमनोऽभीष्टफलदाय नमः ।  
+ॐ भक्तसङ्घमनोऽभीष्टफलदाय नमः ।  
   
 ॥ इति शनि अष्टोत्तरशतनामावलिः सम्पूर्णम् ॥  
   

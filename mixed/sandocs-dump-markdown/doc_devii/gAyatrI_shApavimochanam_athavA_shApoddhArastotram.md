@@ -1,24 +1,24 @@
-+++
-"Text title" = "gaayatrii shaapavimochana"
-"File name" = "shapavimochana.itx"
-itxtitle = "gAyatrI shApavimochanam athavA shApoddhArastotram"
-engtitle = "gAyatrI shApa vimochanam"
-Category = "devii, gAyatrI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravisankar S. Mayavaram msr at comco.com"
-"Proofread by" = "Ravisankar S. Mayavaram, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "August 23, 2000, February 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्री शापविमोचनम् अथवा शापोद्धारस्तोत्रम्"
+---
+Author: Traditional
+Category: devii, gAyatrI, stotra, devI
+File name: shapavimochana.itx
+Language: Sanskrit
+Latest update: August 23, 2000, February 4, 2017
+Location: doc_devii
+Proofread by: Ravisankar S. Mayavaram, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gaayatrii shaapavimochana
+Texttype: stotra
+Transliterated by: Ravisankar S. Mayavaram msr at comco.com
+engtitle: gAyatrI shApa vimochanam
+itxtitle: gAyatrI shApavimochanam athavA shApoddhArastotram
+title: गायत्री शापविमोचनम् अथवा शापोद्धारस्तोत्रम्
 
-+++
+---
   
  श्रीगायत्रीशापविमोचनम् अथवा गायर्त्रीशापोद्धारस्तोत्रम्   
   

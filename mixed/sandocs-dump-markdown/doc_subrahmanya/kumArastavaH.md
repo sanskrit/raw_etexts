@@ -1,23 +1,23 @@
-+++
-"Text title" = "kumArastavaH"
-"File name" = "kumArastavaH.itx"
-itxtitle = "kumArastavaH"
-engtitle = "kumArastavaH"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-Description-comments = "Page 101 of scanned PDF of Stotrasamahara part 1"
-Indexextra = "(Scanned)"
-"Latest update" = "November 21, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमारस्तवः"
+---
+Category: subrahmanya
+Description-comments: Page 101 of scanned PDF of Stotrasamahara part 1
+File name: kumArastavaH.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 21, 2017
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: kumArastavaH
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: kumArastavaH
+itxtitle: kumArastavaH
+title: कुमारस्तवः
 
-+++
+---
   
  श्रीकुमारस्तवः   
 श्रीगणेशाय नमः ।  
@@ -148,7 +148,7 @@ title = "कुमारस्तवः"
   
 णान्तं वनं भवति मानसचत्वरं चेत्-  
 तस्मिन् सरस्तदुदरे कमलं तदन्तः ।  
-किंञ्चिन्महास्त्रनवषड्युगवक्त्रदृग्दो-  
+किञ्ञ्चिन्महास्त्रनवषड्युगवक्त्रदृग्दो-  
 स्तद्भेषजं भवरुजो भज गुह्यमेतत् ॥ २६॥  
   
 तत्कालतप्ततपनीयमयं किरीटं  

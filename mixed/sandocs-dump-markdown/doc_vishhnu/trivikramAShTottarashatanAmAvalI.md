@@ -1,23 +1,24 @@
-+++
-"Text title" = "trivikramAShTottarashatanAmAvalI"
-"File name" = "trivikramAShTottarashatanAmAvalI.itx"
-itxtitle = "trivikramAShTottarashatanAmAvalI"
-engtitle = "trivikramAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, vishhnu, nAmAvalI, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Krishnapremi Anna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-Description-comments = "recited at Shri Trivikrama temple KaazhicheeraamaVinnagaram in Sirkazhi, Tamil Nadu"
-"Latest update" = "December 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिविक्रमाष्टोत्तरशतनामावली"
+---
+Author: Krishnapremi Anna
+Category: aShTottarashatanAmAvalI, vishhnu, nAmAvalI, vishnu
+Description-comments: recited at Shri Trivikrama temple KaazhicheeraamaVinnagaram
+  in Sirkazhi, Tamil Nadu
+File name: trivikramAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: December 28, 2017
+Location: doc_vishhnu
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: trivikramAShTottarashatanAmAvalI
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: trivikramAShTottarashatanAmAvalI
+itxtitle: trivikramAShTottarashatanAmAvalI
+title: त्रिविक्रमाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीत्रिविक्रमाष्टोत्तरशतनामावलिः   
 ॐ श्रीगणेशायनमः ॥  

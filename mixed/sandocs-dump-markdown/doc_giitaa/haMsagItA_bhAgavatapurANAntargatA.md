@@ -1,22 +1,23 @@
-+++
-"Text title" = "haMsagItA bhAgavatAntargataM"
-"File name" = "hamsagiitaabhAgavata.itx"
-itxtitle = "haMsagItA (bhAgavatapurANAntargatA)"
-engtitle = "Hamsagita from Shrimad Bhagavata Purana Skandha 11"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Skandha 11 Adhyaya 13 Bhagavata Purana"
-Indexextra = "(bhAgavatapurANa skandha 11 adhyAya 13)"
-"Latest update" = "June 9, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हंसगीता (भागवतपुराणान्तर्गता)"
+---
+Category: gItA, giitaa
+Description-comments: Skandha 11 Adhyaya 13 Bhagavata Purana
+File name: hamsagiitaabhAgavata.itx
+Indexextra: (bhAgavatapurANa skandha 11 adhyAya 13)
+Language: Sanskrit
+Latest update: June 9, 2013
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunderh at hotmail.com, PSA Easwaran psaeaswaran at
+  gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: haMsagItA bhAgavatAntargataM
+engtitle: Hamsagita from Shrimad Bhagavata Purana Skandha 11
+itxtitle: haMsagItA (bhAgavatapurANAntargatA)
+title: हंसगीता (भागवतपुराणान्तर्गता)
 
-+++
+---
   
  हंसगीता भागवतपुराणे एकादशस्कन्धे   
   

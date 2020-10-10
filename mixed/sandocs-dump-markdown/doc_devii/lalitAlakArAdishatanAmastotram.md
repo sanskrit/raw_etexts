@@ -1,23 +1,23 @@
-+++
-"Text title" = "lalitAlakArAdishatanAmastotram"
-"File name" = "lalitAlakArAdishatanAmastotram.itx"
-itxtitle = "lalitAlakArAdishatanAmastotram"
-engtitle = "lalitAlakArAdishatanAmastotram"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, devI, lalitA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Girdhari Lal Koul glkoul.18 at gmail.com"
-"Proofread by" = "Girdhari Lal Koul glkoul.18 at gmail.com, NA"
-Indexextra = "(Hindi)"
-"Latest update" = "April 9, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितालकारादिशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, devii, dashamahAvidyA, devI, lalitA
+File name: lalitAlakArAdishatanAmastotram.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: April 9, 2019
+Location: doc_devii
+Proofread by: Girdhari Lal Koul glkoul.18 at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitAlakArAdishatanAmastotram
+Transliterated by: Girdhari Lal Koul glkoul.18 at gmail.com
+engtitle: lalitAlakArAdishatanAmastotram
+itxtitle: lalitAlakArAdishatanAmastotram
+title: ललितालकारादिशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीललितालकारादिशतनामस्तोत्रम्   
 श्रीललितात्रिपुरसुन्दर्यै नमः ।  

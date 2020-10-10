@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ganapatistotram 3"
-"File name" = "gaNapatistotramShankarAchArya.itx"
-itxtitle = "gaNapatistotram 3 (shaNkarAchAryavirachitam suvarNavarNasundaram)"
-engtitle = "Ganapatistotram 3"
-Category = "ganesha, stotra, shankarAchArya"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sumit"
-"Proofread by" = "Sumit, NA"
-"Latest update" = "June 1, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपतिस्तोत्रम् ३ (शण्कराचार्यविरचितम् सुवर्णवर्णसुन्दरम्)"
+---
+Author: Shankaracharya
+Category: ganesha, stotra, shankarAchArya
+File name: gaNapatistotramShankarAchArya.itx
+Language: Sanskrit
+Latest update: June 1, 2017
+Location: doc_ganesha
+Proofread by: Sumit, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganapatistotram 3
+Texttype: stotra
+Transliterated by: Sumit
+engtitle: Ganapatistotram 3
+itxtitle: gaNapatistotram 3 (shaNkarAchAryavirachitam suvarNavarNasundaram)
+title: गणपतिस्तोत्रम् ३ (शण्कराचार्यविरचितम् सुवर्णवर्णसुन्दरम्)
 
-+++
+---
   
  गणपतिस्तोत्रम्   
 सुवर्णवर्णसुन्दरं सितैकदन्तबन्धुरं  

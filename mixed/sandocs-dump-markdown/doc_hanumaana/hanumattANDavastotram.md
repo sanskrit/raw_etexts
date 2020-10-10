@@ -1,21 +1,21 @@
-+++
-"Text title" = "hanumattANDava stotram"
-"File name" = "hanumattANDavastotram.itx"
-itxtitle = "hanumattANDavastotram"
-engtitle = "hanumattANDava stotram"
-Category = "hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "July 27, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्ताण्डवस्तोत्रम्"
+---
+Author: Traditional
+Category: hanumaana, stotra, hanuman
+File name: hanumattANDavastotram.itx
+Language: Sanskrit
+Latest update: July 27, 2012
+Location: doc_hanumaana
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumattANDava stotram
+Texttype: stotra
+engtitle: hanumattANDava stotram
+itxtitle: hanumattANDavastotram
+title: हनुमत्ताण्डवस्तोत्रम्
 
-+++
+---
   
  श्रीहनुमत्ताण्डवस्तोत्रम्   
   
@@ -38,7 +38,7 @@ title = "हनुमत्ताण्डवस्तोत्रम्"
 विभीषणेन सख्यकृद्विदेह जातितापहृत्, सुकण्ठकार्यसाधकं, नमामि यातुधतकम् ॥ ५॥  
   
 नमामि पुष्पमौलिनं, सुवर्णवर्णधारिणं गदायुधेन भूषितं, किरीटकुण्डलान्वितम् ।  
-सुपुच्छगुच्छतुच्छलंकदाहकं सुनायकं विपक्षपक्षराक्षसेन्द्र-सर्ववंशनाशकम् ॥ ६॥  
+सुपुच्छगुच्छतुच्छलङ्कदाहकं सुनायकं विपक्षपक्षराक्षसेन्द्र-सर्ववंशनाशकम् ॥ ६॥  
   
 रघूत्तमस्य सेवकं नमामि लक्ष्मणप्रियं दिनेशवंशभूषणस्य मुद्रीकाप्रदर्शकम् ।  
 विदेहजातिशोकतापहारिणम् प्रहारिणम् सुसूक्ष्मरूपधारिणं नमामि दीर्घरूपिणम् ॥ ७॥  

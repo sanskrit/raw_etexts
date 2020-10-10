@@ -1,24 +1,24 @@
-+++
-"Text title" = "sarasvatyaShTottara shatanAma stotram"
-"File name" = "sarasvati108St.itx"
-itxtitle = "sarasvatyaShTottarashatanAmastotram"
-engtitle = "sarasvatyaShTottara shatanAma stotram"
-Category = "aShTottarashatanAma, devii, sarasvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "March 30, 2002, March 5, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वत्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Traditional
+Category: aShTottarashatanAma, devii, sarasvatI, stotra, devI
+File name: sarasvati108St.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 30, 2002, March 5, 2019
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatyaShTottara shatanAma stotram
+Texttype: stotra
+engtitle: sarasvatyaShTottara shatanAma stotram
+itxtitle: sarasvatyaShTottarashatanAmastotram
+title: सरस्वत्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीसरस्वत्यष्टोत्तरशतनामस्तोत्रम्   
 सरस्वती महाभद्रा महामाया वरप्रदा ।  
@@ -49,7 +49,7 @@ title = "सरस्वत्यष्टोत्तरशतनामस्�
 त्रयीमूर्तिः त्रिकालज्ञा त्रिगुणा शास्त्ररूपिणी ॥ ९॥  
   
 शुम्भासुरप्रमथिनी शुभदा च स्वरात्मिका ।  
-रक्तबीजनिहंत्री च चामुण्डा चाम्बिका तथा ॥ १०॥  
+रक्तबीजनिहन्त्री च चामुण्डा चाम्बिका तथा ॥ १०॥  
   
 मुण्डकायप्रहरणा धूम्रलोचनमर्दना ।  
 सर्वदेवस्तुता सौम्या सुरासुरनमस्कृता ॥ ११॥  

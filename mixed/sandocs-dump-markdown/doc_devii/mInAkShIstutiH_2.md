@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrii miinaaxii stuti 2"
-"File name" = "miinaaxii2.itx"
-itxtitle = "mInAkShIstutiH 2"
-engtitle = "mInAkShI stuti 2"
-Category = "devii, mInAkShI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "mInAkShI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravisankar S. Mayavaram msr at comco.com"
-"Proofread by" = "Ravisankar S. Mayavaram msr at comco.com"
-"Latest update" = "August 23, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मीनाक्षीस्तुतिः २"
+---
+Author: Traditional
+Category: devii, mInAkShI, stotra, devI
+File name: miinaaxii2.itx
+Language: Sanskrit
+Latest update: August 23, 2000
+Location: doc_devii
+Proofread by: Ravisankar S. Mayavaram msr at comco.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: mInAkShI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrii miinaaxii stuti 2
+Texttype: stotra
+Transliterated by: Ravisankar S. Mayavaram msr at comco.com
+engtitle: mInAkShI stuti 2
+itxtitle: mInAkShIstutiH 2
+title: मीनाक्षीस्तुतिः २
 
-+++
+---
   
  श्रीमीनाक्षीस्तुती २   
   

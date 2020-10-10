@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Brahmanyatirtha Pancharatnamalika Stotram"
-"File name" = "brahmaNyatIrthapancharatnamAlikAstotram.itx"
-itxtitle = "brahmaNyatIrthapancharatnamAlikAstotram (vyAsarAjavirachitam)"
-engtitle = "brahmaNyatIrthapancharatnamAlikAstotram"
-Category = "deities_misc, gurudev, pancharatna"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "vyAsarAja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-"Description/comments" = "PanchayatistutiH"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "C Narayanarao"
-"Latest update" = "June 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "ब्रह्मण्यतीर्थपञ्चरत्नमालिकास्तोत्रम् (व्यासराजविरचितम्)"
+---
+Acknowledge-Permission: C Narayanarao
+Author: vyAsarAja
+Category: deities_misc, gurudev, pancharatna
+Description/comments: PanchayatistutiH
+File name: brahmaNyatIrthapancharatnamAlikAstotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Brahmanyatirtha Pancharatnamalika Stotram
+Transliterated by: Krishnananda Achar
+engtitle: brahmaNyatIrthapancharatnamAlikAstotram
+itxtitle: brahmaNyatIrthapancharatnamAlikAstotram (vyAsarAjavirachitam)
+title: ब्रह्मण्यतीर्थपञ्चरत्नमालिकास्तोत्रम् (व्यासराजविरचितम्)
 
-+++
+---
   
  श्रीब्रह्मण्यतीर्थपञ्चरत्नमालिकास्तोत्रम्   
 वन्दे ब्रह्मण्यतीर्थं शुभतमचरितं सेवितश्रीसमेतम्  

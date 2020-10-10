@@ -1,27 +1,27 @@
-+++
-"Text title" = "lakShmInRRisiMhaprapattiH"
-"File name" = "lakShmInRRisiMhaprapattiH.itx"
-itxtitle = "lakShmInRRisiMhaprapattiH"
-engtitle = "lakShmInRRisiMhaprapattiH"
-Category = "vishhnu, krishna, rAmAnujasampradAya, prapatti, lakShmI, devii, devI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनृसिंहप्रपत्तिः"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: vishhnu, krishna, rAmAnujasampradAya, prapatti, lakShmI, devii, devI
+File name: lakShmInRRisiMhaprapattiH.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: lakShmInRRisiMhaprapattiH
+engtitle: lakShmInRRisiMhaprapattiH
+itxtitle: lakShmInRRisiMhaprapattiH
+title: लक्ष्मीनृसिंहप्रपत्तिः
 
-+++
+---
   
  श्रीलक्ष्मीनृसिंहप्रपत्तिः   
   
 श्री श्रीनिवासाह्वययोगिवर्यं नारायणं योगिवरं तथैव ।  
-श्रीयोगिवर्यं रघुवीरवेदकोटीरसंज्ञं गुरुमाश्रयामि ॥ १॥  
+श्रीयोगिवर्यं रघुवीरवेदकोटीरसञ्ज्ञं गुरुमाश्रयामि ॥ १॥  
   
 अहोबिले गारुडशैलमध्ये कृपावशात्कल्पितसन्निधानम् ।  
 लक्ष्म्या समालिङ्गितवामभागं लक्ष्मीनृसिंह शरणं प्रपद्ये ॥ २॥  

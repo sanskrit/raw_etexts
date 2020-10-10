@@ -1,22 +1,22 @@
-+++
-"Text title" = "BhAratiya Vayam"
-"File name" = "bhAratIyAvayam.itx"
-itxtitle = "bhAratIyA vayam (vidyAbhAratI vArShika saMskRita gIta)"
-engtitle = "bhAratIyA vayam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Description/comments" = "vidyAbhAratI 2019-2020 Sanskrit song"
-Indexextra = "(Videos 1, 2, 3, 4)"
-"Latest update" = "March 8, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारतीया वयम् (विद्याभारती वार्षिक संस्कृइत गीत)"
+---
+Category: misc, sanskritgeet
+Description/comments: vidyAbhAratI 2019-2020 Sanskrit song
+File name: bhAratIyAvayam.itx
+Indexextra: (Videos 1, 2, 3, 4)
+Language: Sanskrit
+Latest update: March 8, 2020
+Location: doc_z_misc_general
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: BhAratiya Vayam
+engtitle: bhAratIyA vayam
+itxtitle: bhAratIyA vayam (vidyAbhAratI vArShika saMskRita gIta)
+title: भारतीया वयम् (विद्याभारती वार्षिक संस्कृइत गीत)
 
-+++
+---
   
  भारतीया वयम्   
 भारतीया वयम् भारतीया वयम् ।  
@@ -38,7 +38,7 @@ title = "भारतीया वयम् (विद्याभारती �
 भावार्थ-  
 हम सभी भारतीय हैं, हम सब भारतीय हैं ।  
 मेरा प्रिय भारत सम्पूर्ण संसार में सुशोभित है ।  
-जिसके दिव्य यश का गीत प्रकांड विद्वानों  
+जिसके दिव्य यश का गीत प्रकाण्ड विद्वानों  
           के द्वारा गाया जाता (अलौकिक) है ।  
 भारत में जो मानवता का रूप दिखाई देता है वह सत्य संसार में कहीं  
 भी नहीं दिखाई देता है । मेरे भारत में भेदभाव की भावना नही है ।  

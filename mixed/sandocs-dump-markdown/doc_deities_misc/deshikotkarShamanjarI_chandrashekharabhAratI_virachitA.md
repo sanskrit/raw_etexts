@@ -1,25 +1,25 @@
-+++
-"Text title" = "Deshikotkarshamanjari"
-"File name" = "deshikotkarShamanjarI.itx"
-itxtitle = "deshikotkarShamanjarI (chandrashekharabhAratI virachitA)"
-engtitle = "deshikotkarShamanjarI"
-Category = "deities_misc, gurudev, chandrashekharabhAratI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "chandrashekharabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Sri Gururaja Sukti Malika"
-Indexextra = "(Translation)"
-"Latest update" = "January 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देशिकोत्कर्षमञ्जरी (चन्द्रशेखरभारती विरचिता)"
+---
+Author: chandrashekharabhAratI
+Category: deities_misc, gurudev, chandrashekharabhAratI
+Description/comments: Sri Gururaja Sukti Malika
+File name: deshikotkarShamanjarI.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: January 1, 2020
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Deshikotkarshamanjari
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: deshikotkarShamanjarI
+itxtitle: deshikotkarShamanjarI (chandrashekharabhAratI virachitA)
+title: देशिकोत्कर्षमञ्जरी (चन्द्रशेखरभारती विरचिता)
 
-+++
+---
   
  देशिकोत्कर्षमञ्जरी   
 यद्वक्त्राब्जनिरीक्षणादनुपमः पापी भवेद्धार्मिको  
@@ -33,7 +33,7 @@ title = "देशिकोत्कर्षमञ्जरी (चन्द्
      स स्वामी मम देशिकस्तदितरो नाम्नाऽपि नाम्नायते ॥ २॥  
   
 यः स्वानुग्रहकाङ्क्षया निजपदाम्भोजातयुग्मं मुदा  
-     संप्राप्तान्विविधार्तिपीडितजनान्प्रीत्याऽनुगृह्णन्स्थितः ।  
+     सम्प्राप्तान्विविधार्तिपीडितजनान्प्रीत्याऽनुगृह्णन्स्थितः ।  
 यद्वक्त्रं नतकष्टबोधसमये शुष्कं भवेदञ्जसा  
      स स्वामी मम देशिकस्तदितरो नाम्नाऽपि नाम्नायते ॥ ३॥  
   
@@ -68,7 +68,7 @@ title = "देशिकोत्कर्षमञ्जरी (चन्द्
      स स्वामी मम देशिकस्तदितरो नाम्नाऽपि नाम्नायते ॥ ९॥  
   
 उत्पद्यात्मविदग्रजन्मभवने गर्भाष्टमे संस्कृतो  
-     यः पूर्वाजितपुण्यपुञ्जविभवैः संप्राप्ततुर्याश्रमः ।  
+     यः पूर्वाजितपुण्यपुञ्जविभवैः सम्प्राप्ततुर्याश्रमः ।  
 वैराग्यादिभिरद्भुतैर्गुणगणैः श्रीशङ्करार्योऽपरः  
      स स्वामी मम देशिकस्तदितरो नाम्नाऽपि नाम्नायते ॥ १०॥  
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Hanumad Bhujanga Stotram"
-"File name" = "hanUmadbhujangastotram.itx"
-itxtitle = "hanUmadbhujaNgastotram"
-engtitle = "hanUmadbhujangastotram"
-Category = "hanumaana, bhujanga"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनूमद्भुजण्गस्तोत्रम्"
+---
+Category: hanumaana, bhujanga
+File name: hanUmadbhujangastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_hanumaana
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: Hanumad Bhujanga Stotram
+Transliterated by: PSA Easwaran
+engtitle: hanUmadbhujangastotram
+itxtitle: hanUmadbhujaNgastotram
+title: हनूमद्भुजण्गस्तोत्रम्
 
-+++
+---
   
  हनूमद्भुजङ्गस्तोत्रम्   
 उदरान्तरङ्गं सदारामभक्तं  

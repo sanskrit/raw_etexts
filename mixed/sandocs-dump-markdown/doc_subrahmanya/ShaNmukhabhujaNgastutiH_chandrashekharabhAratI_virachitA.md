@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Shanmukhabhujangastutih"
-"File name" = "ShaNmukhabhujangastutiH.itx"
-itxtitle = "ShaNmukhabhujaNgastutiH (chandrashekharabhAratI virachitA)"
-engtitle = "ShaNmukhabhujangastutiH"
-Category = "subrahmanya, chandrashekharabhAratI, bhujanga"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "chandrashekharabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Sri Gururaja Sukti Malika"
-Indexextra = "(Translation)"
-"Latest update" = "January 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षण्मुखभुजण्गस्तुतिः (चन्द्रशेखरभारती विरचिता)"
+---
+Author: chandrashekharabhAratI
+Category: subrahmanya, chandrashekharabhAratI, bhujanga
+Description/comments: Sri Gururaja Sukti Malika
+File name: ShaNmukhabhujangastutiH.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: January 1, 2020
+Location: doc_subrahmanya
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Shri Shanmukhabhujangastutih
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: ShaNmukhabhujangastutiH
+itxtitle: ShaNmukhabhujaNgastutiH (chandrashekharabhAratI virachitA)
+title: षण्मुखभुजण्गस्तुतिः (चन्द्रशेखरभारती विरचिता)
 
-+++
+---
   
  श्रीषण्मुखभुजङ्गस्तुतिः   
 श्रीजगद्गुरु शृङ्गेरी  

@@ -3,7 +3,6 @@ title: 060 Jambavan s wise guidelines
 title_english: 060 Jambavan s wise guidelines
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-060-Jambavan_s_wise_guidelines.mp3"></div>
 
 तस्य तत् वचनम् श्रुत्वा वालि सूनुः अभाषत ।  

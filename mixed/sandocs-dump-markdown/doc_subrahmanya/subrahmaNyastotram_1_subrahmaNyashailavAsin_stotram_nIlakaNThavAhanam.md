@@ -1,25 +1,25 @@
-+++
-"Text title" = "subrahmaNya stotram 1"
-"File name" = "subra_stotra.itx"
-itxtitle = "subrahmaNyastotram 1 subrahmaNyashailavAsin stotram (nIlakaNThavAhanam)"
-engtitle = "subrahmaNya stotram 1"
-Category = "subrahmanya, stotra, shankarAchArya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "stotra"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Raman Anantaraman (anantaraman at nscl.msu.edu)"
-"Proofread by" = "Raman Anantaraman (anantaraman at nscl.msu.edu)"
-"Translated by" = "A. Narayanaswami"
-Description-comments = "Hymn to Shri Subrahmanya"
-"Latest update" = "December 21, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यस्तोत्रम् १ सुब्रह्मण्यशैलवासिन् स्तोत्रम् (नीलकण्ठवाहनम्)"
+---
+Author: Adi Shankaracharya
+Category: subrahmanya, stotra, shankarAchArya
+Description-comments: Hymn to Shri Subrahmanya
+File name: subra_stotra.itx
+Language: Sanskrit
+Latest update: December 21, 2019
+Location: doc_subrahmanya
+Proofread by: Raman Anantaraman (anantaraman at nscl.msu.edu)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNya stotram 1
+Texttype: stotra
+Translated by: A. Narayanaswami
+Transliterated by: Raman Anantaraman (anantaraman at nscl.msu.edu)
+engtitle: subrahmaNya stotram 1
+itxtitle: subrahmaNyastotram 1 subrahmaNyashailavAsin stotram (nIlakaNThavAhanam)
+title: सुब्रह्मण्यस्तोत्रम् १ सुब्रह्मण्यशैलवासिन् स्तोत्रम् (नीलकण्ठवाहनम्)
 
-+++
+---
   
  श्रीसुब्रह्मण्यस्तोत्रम् सार्थ   
 सुब्रह्मण्यशैलवासिन् स्तोत्रम्   

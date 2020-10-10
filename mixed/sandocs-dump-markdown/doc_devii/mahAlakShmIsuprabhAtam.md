@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAlakShmIsuprabhAtam"
-"File name" = "mahAlakShmIsuprabhAtam.itx"
-itxtitle = "mahAlakShmIsuprabhAtam"
-engtitle = "Shri Mahalaxmi SuprabhAtam"
-Category = "suprabhAta, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, PSA Easwaran"
-Indexextra = "(Video1, 2, 3)"
-"Latest update" = "April 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालक्ष्मीसुप्रभातम्"
+---
+Category: suprabhAta, devii, lakShmI, devI
+File name: mahAlakShmIsuprabhAtam.itx
+Indexextra: (Video1, 2, 3)
+Language: Sanskrit
+Latest update: April 6, 2016
+Location: doc_devii
+Proofread by: NA, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAlakShmIsuprabhAtam
+Transliterated by: NA
+engtitle: Shri Mahalaxmi SuprabhAtam
+itxtitle: mahAlakShmIsuprabhAtam
+title: महालक्ष्मीसुप्रभातम्
 
-+++
+---
   
  श्रीमहालक्ष्मीसुप्रभातम्   
   

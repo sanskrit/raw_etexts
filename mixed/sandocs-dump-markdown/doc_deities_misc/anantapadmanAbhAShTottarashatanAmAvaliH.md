@@ -1,21 +1,21 @@
-+++
-"Text title" = "Ananta Padmanabha Ashtottara Shata Namavali (108 names)"
-"File name" = "anantapadmanAbhAShTottarashatanAmAvalI.itx"
-itxtitle = "anantapadmanAbhAShTottarashatanAmAvaliH"
-engtitle = "anantapadmanAbhAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Description/comments" = "See also nAgadevatAShTottarashatanAmAvaliH and nAgarAjAShTottarashatanAmAvalI"
-"Latest update" = "November 1, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अनन्तपद्मनाभाष्टोत्तरशतनामावलिः"
+---
+Category: aShTottarashatanAmAvalI, deities_misc
+Description/comments: See also nAgadevatAShTottarashatanAmAvaliH and nAgarAjAShTottarashatanAmAvalI
+File name: anantapadmanAbhAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: November 1, 2019
+Location: doc_deities_misc
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Ananta Padmanabha Ashtottara Shata Namavali (108 names)
+engtitle: anantapadmanAbhAShTottarashatanAmAvalI
+itxtitle: anantapadmanAbhAShTottarashatanAmAvaliH
+title: अनन्तपद्मनाभाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्री अनन्तपद्मनाभाष्टोत्तरशतनामावलिः   
 ध्यानम् -  

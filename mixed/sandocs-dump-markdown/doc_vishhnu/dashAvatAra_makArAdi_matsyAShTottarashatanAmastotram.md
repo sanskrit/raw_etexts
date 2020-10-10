@@ -1,24 +1,25 @@
-+++
-"Text title" = "makArAdi matsyAShTottarashatanAmastotram"
-"File name" = "makArAdimatsya108nAmastotram.itx"
-itxtitle = "dashAvatAra makArAdi matsyAShTottarashatanAmastotram"
-engtitle = "makArAdi matsyAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "paNDita shrI bellaMkoNDa rAmarAya kavIndra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA"
-"Latest update" = "January 24, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतार मकारादि मत्स्याष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: paNDita shrI bellaMkoNDa rAmarAya kavIndra
+Category: aShTottarashatanAma, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra,
+  vishnu
+File name: makArAdimatsya108nAmastotram.itx
+Language: Sanskrit
+Latest update: January 24, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: makArAdi matsyAShTottarashatanAmastotram
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: makArAdi matsyAShTottarashatanAmastotram
+itxtitle: dashAvatAra makArAdi matsyAShTottarashatanAmastotram
+title: दशावतार मकारादि मत्स्याष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  मकारादि श्रीमत्स्याष्टोत्तरशतनामस्तोत्रम्   
 श्री हयग्रीवाय नमः ।  
@@ -31,7 +32,7 @@ title = "दशावतार मकारादि मत्स्याष्
 मरालवाहव्यपनच्छेत्ता मथितसागरः ॥ २॥  
   
 महासत्वो महायादो गणभुङ्मधुराकृतिः ।  
-मदोल्लुंठनसङ्क्षुब्ध सिन्धुभङ्गहतोर्थ्वखः ॥ ३॥  
+मदोल्लुण्ठनसङ्क्षुब्ध सिन्धुभङ्गहतोर्थ्वखः ॥ ३॥  
   
 महाशयो महाधीरो महौषधिसमुद्धरः ।  
 महायशा महानन्दो महातेजा महावपुः ॥ ४॥  

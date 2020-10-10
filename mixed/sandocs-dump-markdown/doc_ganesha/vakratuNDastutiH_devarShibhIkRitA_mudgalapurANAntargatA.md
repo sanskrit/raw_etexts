@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vakratunda Stuti by Devarshi"
-"File name" = "vakratuNDastutiHdevarShibhIkRRitA.itx"
-itxtitle = "vakratuNDastutiH devarShibhIkRitA (mudgalapurANAntargatA)"
-engtitle = "vakratuNDastutiH devarShibhIkRitA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 32"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वक्रतुण्डस्तुतिः देवर्षिभीकृइता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 32
+File name: vakratuNDastutiHdevarShibhIkRRitA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Vakratunda Stuti by Devarshi
+Transliterated by: NA
+engtitle: vakratuNDastutiH devarShibhIkRitA
+itxtitle: vakratuNDastutiH devarShibhIkRitA (mudgalapurANAntargatA)
+title: वक्रतुण्डस्तुतिः देवर्षिभीकृइता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  वक्रतुण्डस्तुतिः देवर्षिभी कृता   
 श्रीगणेशाय नमः ।  

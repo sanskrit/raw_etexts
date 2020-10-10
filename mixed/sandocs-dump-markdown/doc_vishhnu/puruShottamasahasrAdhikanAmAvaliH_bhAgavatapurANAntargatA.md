@@ -1,23 +1,23 @@
-+++
-"Text title" = "puruShottamasahasrAdhikanAmAvaliH"
-"File name" = "puruShottamasahasrAdhikanAmAvaliH.itx"
-itxtitle = "puruShottamasahasrAdhikanAmAvaliH (bhAgavatapurANAntargatA)"
-engtitle = "puruShottamasahasrAdhikanAmAvaliH"
-Category = "vishhnu, sahasranAmAvalI, nAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3, preamble)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "June 9, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पुरुषोत्तमसहस्राधिकनामावलिः (भागवतपुराणान्तर्गता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, sahasranAmAvalI, nAmAvalI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: puruShottamasahasrAdhikanAmAvaliH.itx
+Indexextra: (VSM 3, preamble)
+Language: Sanskrit
+Latest update: June 9, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: puruShottamasahasrAdhikanAmAvaliH
+engtitle: puruShottamasahasrAdhikanAmAvaliH
+itxtitle: puruShottamasahasrAdhikanAmAvaliH (bhAgavatapurANAntargatA)
+title: पुरुषोत्तमसहस्राधिकनामावलिः (भागवतपुराणान्तर्गता)
 
-+++
+---
   
  पुरुषोत्तमसहस्राधिकनामावलिः   
   

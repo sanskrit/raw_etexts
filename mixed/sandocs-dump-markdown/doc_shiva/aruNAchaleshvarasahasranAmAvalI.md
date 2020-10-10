@@ -1,23 +1,23 @@
-+++
-"Text title" = "Arunachaleshvara SahasranamavaliH"
-"File name" = "aruNAchaleshvarasahasranAmAvali.itx"
-itxtitle = "aruNAchaleshvarasahasranAmAvalI"
-engtitle = "Arunachaleshvara Sahasra-Namavali"
-Category = "sahasranAmAvalI, shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "November 2, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अरुणाचलेश्वरसहस्रनामावली"
+---
+Author: Traditional
+Category: sahasranAmAvalI, shiva, nAmAvalI
+File name: aruNAchaleshvarasahasranAmAvali.itx
+Language: Sanskrit
+Latest update: November 2, 2014
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Arunachaleshvara SahasranamavaliH
+Texttype: nAmAvalI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Arunachaleshvara Sahasra-Namavali
+itxtitle: aruNAchaleshvarasahasranAmAvalI
+title: अरुणाचलेश्वरसहस्रनामावली
 
-+++
+---
   
  श्रीअरुणाचलेश्वरसहस्रनामावली   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "viThThaleshAShTakam"
-"File name" = "viThThaleshAShTakam.itx"
-itxtitle = "viThThaleshAShTakam (raghunAthavirachitaM)"
-engtitle = "viThThaleshAShTakam"
-Category = "vishhnu, aShTaka, raghunAthajI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "raghunAthajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विठ्ठलेशाष्टकम् (रघुनाथविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: raghunAthajI
+Category: vishhnu, aShTaka, raghunAthajI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viThThaleshAShTakam.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viThThaleshAShTakam
+engtitle: viThThaleshAShTakam
+itxtitle: viThThaleshAShTakam (raghunAthavirachitaM)
+title: विठ्ठलेशाष्टकम् (रघुनाथविरचितं)
 
-+++
+---
   
  श्रीविठ्ठलेशाष्टकम्   
   

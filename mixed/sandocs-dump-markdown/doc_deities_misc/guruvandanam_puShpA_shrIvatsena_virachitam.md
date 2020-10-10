@@ -1,25 +1,25 @@
-+++
-"Text title" = "guruvandanam"
-"File name" = "guruvandanam.itx"
-itxtitle = "guruvandanam (puShpA shrIvatsena virachitam)"
-engtitle = "guruvandanam"
-Category = "deities_misc, gurudev, puShpAshrIvatsan"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali 2017"
-"Latest update" = "November 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुवन्दनम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: deities_misc, gurudev, puShpAshrIvatsan
+File name: guruvandanam.itx
+Language: Sanskrit
+Latest update: November 25, 2017
+Location: doc_deities_misc
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali 2017
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: guruvandanam
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: guruvandanam
+itxtitle: guruvandanam (puShpA shrIvatsena virachitam)
+title: गुरुवन्दनम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  श्रीगुरुवन्दनम्   
   
@@ -39,7 +39,7 @@ title = "गुरुवन्दनम् (पुष्पा श्रीव�
 जप्ततारकसन्मन्त्रशतकोटिसुकीर्तये ।  
 श्रीरामभद्रसन्नामतारकानन्दमूर्तये ॥ ३॥  
   
-यागरक्षणसंदर्शनाह्लादहृष्टिरूपिणे ।  
+यागरक्षणसन्दर्शनाह्लादहृष्टिरूपिणे ।  
 गङ्गाप्रवाहवाग्वर्षसंसिक्तराममूर्तये ॥ ४॥  
   
 सुस्वरासारसत्कीर्तनानन्दबाष्पकण्ठिने ।  
@@ -51,7 +51,7 @@ title = "गुरुवन्दनम् (पुष्पा श्रीव�
 रागताललयालास्यकृतिवृन्दप्रसारिणे ।  
 रामभक्तिसुधाप्लावस्वानुभूतिप्रकाशिने ॥ ७॥  
   
-रागानुरागसज्ज्ञानसंक्षेपकृतिबोधिने ।  
+रागानुरागसज्ज्ञानसङ्क्षेपकृतिबोधिने ।  
 नामगानाधिराजाय सद्भक्तिरसगीतये ॥ ८॥  
   
 नादयोगसुनिष्ठाय ध्यानयोगसमाधये ।  

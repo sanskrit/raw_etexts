@@ -1,25 +1,25 @@
-+++
-"Text title" = "reNukAstotraM vinAyakashAstrirachitam"
-"File name" = "reNukAstotramvinAyakashAstri.itx"
-itxtitle = "reNukAstotram (vinAyakashAstrikRitam)"
-engtitle = "Renuka Stotram by Vinayaka shastri"
-Category = "devii, reNukA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Texttype = "stotra"
-Author = "Vinayaka Shastri Vetala"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-Indexextra = "(Vinayaka Shastri Vetala)"
-"Latest update" = "June 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकास्तोत्रम् (विनायकशास्त्रिकृइतम्)"
+---
+Author: Vinayaka Shastri Vetala
+Category: devii, reNukA, stotra, devI
+File name: reNukAstotramvinAyakashAstri.itx
+Indexextra: (Vinayaka Shastri Vetala)
+Language: Sanskrit
+Latest update: June 18, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAstotraM vinAyakashAstrirachitam
+Texttype: stotra
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Renuka Stotram by Vinayaka shastri
+itxtitle: reNukAstotram (vinAyakashAstrikRitam)
+title: रेणुकास्तोत्रम् (विनायकशास्त्रिकृइतम्)
 
-+++
+---
   
  रेणुकास्तोत्रं श्रीविनायकशास्त्रिकृतम्   
   

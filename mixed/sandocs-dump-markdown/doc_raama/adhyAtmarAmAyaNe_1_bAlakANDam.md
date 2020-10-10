@@ -1,24 +1,24 @@
-+++
-"Text title" = "adhyAtma rAmAyaNa"
-"File name" = "adhyaatmaRamBal.itx"
-itxtitle = "adhyAtmarAmAyaNe 1 bAlakANDam"
-engtitle = "adhyAtmarAmAyaNa bAlakANDa"
-Category = "adhyAtmarAmAyaNa, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "pramukha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nagaraj Balijepalli"
-"Proofread by" = "Nagaraj Balijepalli, Sunder Httangadi, PSA Easwaran, ahimsasoldier"
-Indexextra = "(Hindi)"
-"Latest update" = "july 22, 2006, April 4, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अध्यात्मरामायणे १ बालकाण्डम्"
+---
+Author: Traditional
+Category: adhyAtmarAmAyaNa, raama
+File name: adhyaatmaRamBal.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: july 22, 2006, April 4, 2015
+Location: doc_raama
+Proofread by: Nagaraj Balijepalli, Sunder Httangadi, PSA Easwaran, ahimsasoldier
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: adhyAtma rAmAyaNa
+Texttype: pramukha
+Transliterated by: Nagaraj Balijepalli
+engtitle: adhyAtmarAmAyaNa bAlakANDa
+itxtitle: adhyAtmarAmAyaNe 1 bAlakANDam
+title: अध्यात्मरामायणे १ बालकाण्डम्
 
-+++
+---
   
  अध्यात्मरामायणे बालकाण्डम्   
 ॥ प्रथमः सर्गः॥  
@@ -36,7 +36,7 @@ title = "अध्यात्मरामायणे १ बालकाण्
   
 पठन्ति ये नित्यमनन्यचेतसः  
           शृण्वन्ति चाध्यात्मिकसञ्ज्ञितं शुभम् ।  
-रामायणं सर्वपुराणसंमतं  
+रामायणं सर्वपुराणसम्मतं  
       निर्धूतपापा हरिमेव यान्ति ते ॥ ३॥  
   
 अध्यात्मरामायणमेव नित्यं  
@@ -662,7 +662,7 @@ title = "अध्यात्मरामायणे १ बालकाण्
 टङ्कारमकरोत्तेन शब्देनापूरयद्वनम् ॥ २८॥  
   
 तच्छ्रुत्वासहमाना सा ताटका घोररूपिणी ।  
-क्रोधसंमूर्च्छिता राममभिदुद्राव मेघवत् ॥ २९॥  
+क्रोधसम्मूर्च्छिता राममभिदुद्राव मेघवत् ॥ २९॥  
   
 तामेकेन शरेणाशु ताडयामास वक्षसि ।  
 पपात विपिने घोरा वमन्ती रुधिरं बहु ॥ ३०॥  
@@ -1157,7 +1157,7 @@ title = "अध्यात्मरामायणे १ बालकाण्
 पातिव्रत्यमुपालम्ब्य तिष्ठ वत्से यथा सुखम् ॥ ८१॥  
   
 प्रयाणकाले रघुनन्दनस्य भेरीमृदङ्गानकतूर्यघोषः ।  
-स्वर्वासिभेरीघनतूर्यशब्दैः संमूर्च्छितो भूतभयङ्करोऽभूत् ॥ ८२॥  
+स्वर्वासिभेरीघनतूर्यशब्दैः सम्मूर्च्छितो भूतभयङ्करोऽभूत् ॥ ८२॥  
   
 इति श्रीमदध्यात्मरामायणे उमामहेश्वरसंवादे  
    बालकाण्डे षष्ठः सर्गः ॥ ६॥  
@@ -1319,7 +1319,7 @@ title = "अध्यात्मरामायणे १ बालकाण्
 आलिङ्ग्यालिङ्ग्य हर्षेण नेत्राभ्यां जलमुत्सृजत् ॥ ५१॥  
   
 ततः प्रीतेन मनसा स्वस्थचित्तः पुरं ययौ ।  
-रामलक्ष्मणशत्रुघ्नभरता देवसंमिताः ॥ ५२॥  
+रामलक्ष्मणशत्रुघ्नभरता देवसम्मिताः ॥ ५२॥  
   
 स्वां स्वां भार्यामुपादाय रेमिरे स्वस्वमन्दिरे ।  
 मातापितृभ्यां संहृष्टो रामः सीतासमन्वितः ।  

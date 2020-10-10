@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shailesha Charana Sharana Ashtakam"
-"File name" = "shaileshacharaNasharaNAShTakam.itx"
-itxtitle = "shaileshacharaNasharaNAShTakam cha"
-engtitle = "shaileshacharaNasharaNAShTakam"
-Category = "shiva, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "mallikArjunAShTakam"
-Indexextra = "(Telugu)"
-"Latest update" = "July 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शैलेशचरणशरणाष्टकम् च"
+---
+Category: shiva, aShTaka
+Description/comments: mallikArjunAShTakam
+File name: shaileshacharaNasharaNAShTakam.itx
+Indexextra: (Telugu)
+Language: Sanskrit
+Latest update: July 7, 2019
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shailesha Charana Sharana Ashtakam
+engtitle: shaileshacharaNasharaNAShTakam
+itxtitle: shaileshacharaNasharaNAShTakam cha
+title: शैलेशचरणशरणाष्टकम् च
 
-+++
+---
   
  श्रीशैलेशचरणशरणाष्टकम्   
 गौरीमनोहर ! सुरासुरमौनिवृन्द  

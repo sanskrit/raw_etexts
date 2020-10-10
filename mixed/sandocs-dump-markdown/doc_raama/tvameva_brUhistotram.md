@@ -1,23 +1,23 @@
-+++
-"Text title" = "tvameva brUhi stotram"
-"File name" = "tvamevabruhi.itx"
-itxtitle = "tvameva brUhistotram"
-engtitle = "tvameva brUhi stotram"
-Category = "raama, stotra"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "rAjamaNisharma"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "January 07, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्वमेव ब्रूहिस्तोत्रम्"
+---
+Author: rAjamaNisharma
+Category: raama, stotra
+File name: tvamevabruhi.itx
+Language: Sanskrit
+Latest update: January 07, 2005
+Location: doc_raama
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: tvameva brUhi stotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: tvameva brUhi stotram
+itxtitle: tvameva brUhistotram
+title: त्वमेव ब्रूहिस्तोत्रम्
 
-+++
+---
   
  त्वमेव ब्रूहिस्तोत्रम्   
   

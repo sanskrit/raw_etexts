@@ -1,24 +1,24 @@
-+++
-"Text title" = "sUryAShTottarashatanAmastotra vishvakarmakRita narasimhapurANe"
-"File name" = "sUryAShTottarashatanAmavishvakarmaNP.itx"
-itxtitle = "sUryAShTottarashatanAmastotram (vishvakarmakRitam narasiMhapurANAntargatam)"
-engtitle = "Suryashtottarashatanamastotra by vishvakarma"
-Category = "aShTottarashatanAma, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 19"
-Indexextra = "(narasiMhapurANanarasiMhapurANa)"
-"Latest update" = "June 6, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्याष्टोत्तरशतनामस्तोत्रम् (विश्वकर्मकृइतम् नरसिंहपुराणान्तर्गतम्)"
+---
+Category: aShTottarashatanAma, navagraha, stotra
+Description-comments: Narasimhapurana adhyAya 19
+File name: sUryAShTottarashatanAmavishvakarmaNP.itx
+Indexextra: (narasiMhapurANanarasiMhapurANa)
+Language: Sanskrit
+Latest update: June 6, 2013
+Location: doc_z_misc_navagraha
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryAShTottarashatanAmastotra vishvakarmakRita narasimhapurANe
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: Suryashtottarashatanamastotra by vishvakarma
+itxtitle: sUryAShTottarashatanAmastotram (vishvakarmakRitam narasiMhapurANAntargatam)
+title: सूर्याष्टोत्तरशतनामस्तोत्रम् (विश्वकर्मकृइतम् नरसिंहपुराणान्तर्गतम्)
 
-+++
+---
   
  नरसिंहपुराणे सूर्याष्टोत्तरशतनामस्तोत्रं विश्वकर्मकृत   
   
@@ -48,7 +48,7 @@ title = "सूर्याष्टोत्तरशतनामस्तो�
 अमित्रहा शिवो हंसो नायकः प्रियदर्शनः ।  
 शुद्धो विरोचनः केशी सहस्रांशुः प्रतर्दनः ॥ ८॥  
   
-धर्मरश्मिः पतंगश्च विशालो विश्वसंस्तुतः ।  
+धर्मरश्मिः पतङ्गश्च विशालो विश्वसंस्तुतः ।  
 दुर्विज्ञेयगतिः शूरस्तेजोराशिर्महायशाः ॥ ९॥  
   
 भ्राजिष्णुर्ज्योतिषामीशो विजिष्णुर्विश्वभावनः ।  
@@ -75,7 +75,7 @@ title = "सूर्याष्टोत्तरशतनामस्तो�
 इत्युक्तो विश्वकर्मा च तथा स कृतवान् द्विज ।  
 शान्तोष्णः सविता तस्य दुहितुर्विश्वकर्मणः ॥ १७॥  
   
-संज्ञायाश्चाभवद्विप्र भानुस्त्वष्टारमब्रवीत् ।  
+सञ्ज्ञायाश्चाभवद्विप्र भानुस्त्वष्टारमब्रवीत् ।  
 त्वया यस्मात् स्तुतोऽहं वै नाम्नामष्टशतेन च ॥ १८॥  
   
 वरं वृणीष्व तस्मात् त्वं वरदोऽहं तवानघ ।  
@@ -88,7 +88,7 @@ title = "सूर्याष्टोत्तरशतनामस्तो�
   
 तेनैवमुक्तो दिनकृत् तथेति  
 त्वष्टारमुक्त्वा विरराम भास्करः ।  
-संज्ञां विशङ्कां रविमण्डलस्थितां  
+सञ्ज्ञां विशङ्कां रविमण्डलस्थितां  
 कृत्वा जगामाथ रविं प्रसाद्य ॥ २२॥  
   
 इति श्रीनरसिंहपुराणे एकोनविंशोऽध्यायः ॥ १९॥  

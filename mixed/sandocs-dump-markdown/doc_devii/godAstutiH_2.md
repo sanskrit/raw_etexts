@@ -1,22 +1,22 @@
-+++
-"Text title" = "godAstutiH 2"
-"File name" = "godAstutiH2.itx"
-itxtitle = "godAstutiH 2"
-engtitle = "godAstutiH 2"
-Category = "devii, nadI, rAmAnujasampradAya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोदास्तुतिः २"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: devii, nadI, rAmAnujasampradAya, devI
+File name: godAstutiH2.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: godAstutiH 2
+engtitle: godAstutiH 2
+itxtitle: godAstutiH 2
+title: गोदास्तुतिः २
 
-+++
+---
   
  श्री गोदास्तुतिः २   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "parashurAmAShTakam 3"
-"File name" = "parashurAmAShTakam3.itx"
-itxtitle = "parashurAmAShTakam 3"
-engtitle = "Shri Parasuramashtakam 3"
-Category = "aShTaka, vishhnu, dashAvatAra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "shrIpUsapATi raNganAyakAmAtya bhArgavarShi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada, PSA Easwaran"
-"Latest update" = "June 17, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परशुरामाष्टकम् ३"
+---
+Author: shrIpUsapATi raNganAyakAmAtya bhArgavarShi
+Category: aShTaka, vishhnu, dashAvatAra, vishnu
+File name: parashurAmAShTakam3.itx
+Language: Sanskrit
+Latest update: June 17, 2017
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: parashurAmAShTakam 3
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Shri Parasuramashtakam 3
+itxtitle: parashurAmAShTakam 3
+title: परशुरामाष्टकम् ३
 
-+++
+---
   
  श्रीपरशुरामाष्टकम् ३   
   

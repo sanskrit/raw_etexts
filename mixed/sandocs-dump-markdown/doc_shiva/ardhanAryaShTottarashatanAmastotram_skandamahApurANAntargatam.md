@@ -1,20 +1,20 @@
-+++
-"Text title" = "ardhanAryaShTottarashatanAmastotram"
-"File name" = "ardhanAryaShTottarashatanAmastotram.itx"
-itxtitle = "ardhanAryaShTottarashatanAmastotram (skandamahApurANAntargatam)"
-engtitle = "ardhanAryaShTottarashatanAmastotram"
-Category = "shiva, devii, aShTottarashatanAma, devI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "January 13, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अर्धनार्यष्टोत्तरशतनामस्तोत्रम् (स्कन्दमहापुराणान्तर्गतम्)"
+---
+Category: shiva, devii, aShTottarashatanAma, devI
+File name: ardhanAryaShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: January 13, 2019
+Location: doc_shiva
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: ardhanAryaShTottarashatanAmastotram
+engtitle: ardhanAryaShTottarashatanAmastotram
+itxtitle: ardhanAryaShTottarashatanAmastotram (skandamahApurANAntargatam)
+title: अर्धनार्यष्टोत्तरशतनामस्तोत्रम् (स्कन्दमहापुराणान्तर्गतम्)
 
-+++
+---
   
  अर्धनारीश्वर्यष्टोत्तरशतनामस्तोत्रम्   
 चामुण्डिकाम्बा श्रीकण्ठः पार्वती परमेश्वरः ।  

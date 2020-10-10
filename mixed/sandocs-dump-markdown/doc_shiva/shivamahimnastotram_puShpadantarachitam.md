@@ -1,25 +1,26 @@
-+++
-"Text title" = "shivamahimnastotra (text)"
-"File name" = "shivamahi.itx"
-itxtitle = "shivamahimnastotram (puShpadantarachitam)"
-engtitle = "shivamahimna stotra (puShpadanta)"
-Category = "shiva, stotra, puShpadanta"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Pushhpadanta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Devendraray V . Bhatt and S . V . Ganesan"
-"Proofread by" = "S . V . Ganesan"
-"Translated by" = "Translation in shivamahimean file"
-Indexextra = "(puShpadanta  (with trans. and intro) (Hindi-English, Hindi, Sanskrit-Gujarati, audio))"
-"Latest update" = "March 23, 2004, May 12, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवमहिम्नस्तोत्रम् (पुष्पदन्तरचितम्)"
+---
+Author: Pushhpadanta
+Category: shiva, stotra, puShpadanta
+File name: shivamahi.itx
+Indexextra: (puShpadanta  (with trans. and intro) (Hindi-English, Hindi, Sanskrit-Gujarati,
+  audio))
+Language: Sanskrit
+Latest update: March 23, 2004, May 12, 2018
+Location: doc_shiva
+Proofread by: S . V . Ganesan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: shiva
+Text title: shivamahimnastotra (text)
+Texttype: stotra
+Translated by: Translation in shivamahimean file
+Transliterated by: Devendraray V . Bhatt and S . V . Ganesan
+engtitle: shivamahimna stotra (puShpadanta)
+itxtitle: shivamahimnastotram (puShpadantarachitam)
+title: शिवमहिम्नस्तोत्रम् (पुष्पदन्तरचितम्)
 
-+++
+---
   
  श्रीशिवमहिम्नस्तोत्र ( पुष्पदन्त )   
       ॥ ॐ नमः शिवाय ॥  
@@ -31,7 +32,7 @@ title = "शिवमहिम्नस्तोत्रम् (पुष्प
 अथाऽवाच्यः सर्वः स्वमतिपरिणामावधि गृणन्  
 ममाप्येष स्तोत्रे हर निरपवादः परिकरः ॥ १॥  
   
-अतीतः पंथानं तव च महिमा वाङ्मनसयोः  
+अतीतः पन्थानं तव च महिमा वाङ्मनसयोः  
 अतद्व्यावृत्त्या यं चकितमभिधत्ते श्रुतिरपि ।  
 स कस्य स्तोतव्यः कतिविधगुणः कस्य विषयः  
 पदे त्वर्वाचीने पतति न मनः कस्य न वचः ॥ २॥  
@@ -46,7 +47,7 @@ title = "शिवमहिम्नस्तोत्रम् (पुष्प
 अभव्यानामस्मिन् वरद रमणीयामरमणीं  
 विहन्तुं व्याक्रोशीं विदधत इहैके जडधियः ॥ ४॥  
   
-किमीहः किंकायः स खलु किमुपायस्त्रिभुवनं  
+किमीहः किङ्कायः स खलु किमुपायस्त्रिभुवनं  
 किमाधारो धाता सृजति किमुपादान इति च ।  
 अतर्क्यैश्वर्ये त्वय्यनवसर दुःस्थो हतधियः  
 कुतर्कोऽयं कांश्चित् मुखरयति मोहाय जगतः ॥ ५॥  
@@ -83,7 +84,7 @@ title = "शिवमहिम्नस्तोत्रम् (पुष्प
   
 अमुष्य त्वत्सेवा-समधिगतसारं भुजवनं  
 बलात् कैलासेऽपि त्वदधिवसतौ विक्रमयतः ।  
-अलभ्यापातालेऽप्यलसचलितांगुष्ठशिरसि  
+अलभ्यापातालेऽप्यलसचलिताङ्गुष्ठशिरसि  
 प्रतिष्ठा त्वय्यासीद् ध्रुवमुपचितो मुह्यति खलः ॥ १२॥  
   
 यदृद्धिं सुत्राम्णो वरद परमोच्चैरपि सतीं  

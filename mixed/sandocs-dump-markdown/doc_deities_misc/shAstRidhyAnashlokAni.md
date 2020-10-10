@@ -1,24 +1,24 @@
-+++
-"Text title" = "shAstRidhyAnashlokAni"
-"File name" = "shAstRidhyAnashlokAni.itx"
-itxtitle = "shAstRidhyAnashlokAni"
-engtitle = "shAstRidhyAnashlokAni"
-Category = "deities_misc, ayyappa, dhyAnam"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शास्तृइध्यानश्लोकानि"
+---
+Category: deities_misc, ayyappa, dhyAnam
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: shAstRidhyAnashlokAni.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+SubDeity: ayyappa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shAstRidhyAnashlokAni
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: shAstRidhyAnashlokAni
+itxtitle: shAstRidhyAnashlokAni
+title: शास्तृइध्यानश्लोकानि
 
-+++
+---
   
  शास्तृध्यानश्लोकानि   
   

@@ -1,23 +1,24 @@
-+++
-"Text title" = "Mahasarasvati Stavam"
-"File name" = "mahAsarasvatIstavam.itx"
-itxtitle = "mahAsarasvatIstavam (mArkaNDeyapurANAntargatam)"
-engtitle = "mahAsarasvatIstavam"
-Category = "devii, stotra, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Lalitha Parameswari parameswari.lalitha at gmail.com, Venkata Sujatha Yellapragada, NA"
-"Description/comments" = "Markandeya Purana adhyAya 23, verses 30-47"
-"Latest update" = "November 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महासरस्वतीस्तवम् (मार्कण्डेयपुराणान्तर्गतम्)"
+---
+Category: devii, stotra, sarasvatI, devI
+Description/comments: Markandeya Purana adhyAya 23, verses 30-47
+File name: mahAsarasvatIstavam.itx
+Language: Sanskrit
+Latest update: November 11, 2018
+Location: doc_devii
+Proofread by: Lalitha Parameswari parameswari.lalitha at gmail.com, Venkata Sujatha
+  Yellapragada, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Mahasarasvati Stavam
+Transliterated by: NA
+engtitle: mahAsarasvatIstavam
+itxtitle: mahAsarasvatIstavam (mArkaNDeyapurANAntargatam)
+title: महासरस्वतीस्तवम् (मार्कण्डेयपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीमहासरस्वतीस्तवम्   
 अश्वतर उवाच -  
@@ -82,7 +83,7 @@ title = "महासरस्वतीस्तवम् (मार्कण्
   
 इति श्रीमार्कण्डेयपुराणे त्रयोविंशोऽध्यायान्तरगतं महासरस्वतीस्तवं सम्पूर्णम् ।  
   
-श्रीमार्कण्डेयपुराणे मदालसोपाख्याने कुवलयाश्वपातालगमनंनाम  
+श्रीमार्कण्डेयपुराणे मदालसोपाख्याने कुवलयाश्वपातालगमनन्नाम  
   
   
 Markandeya Purana adhyAya 23, verses 30-47  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "panchapanchAshadviShNunAmAni"
-"File name" = "panchapanchAshadviShNunAmAni.itx"
-itxtitle = "panchapanchAshadviShNunAmAni (agnipurANAntargatam)"
-engtitle = "panchapanchAshadviShNunAmAni"
-Category = "vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Agnipurana, adhyAya 304/305"
-"Latest update" = "January 16, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पञ्चपञ्चाशद्विष्णुनामानि (अग्निपुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: vishhnu, vishnu
+File name: panchapanchAshadviShNunAmAni.itx
+Language: Sanskrit
+Latest update: January 16, 2017
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Agnipurana, adhyAya 304/305
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: panchapanchAshadviShNunAmAni
+engtitle: panchapanchAshadviShNunAmAni
+itxtitle: panchapanchAshadviShNunAmAni (agnipurANAntargatam)
+title: पञ्चपञ्चाशद्विष्णुनामानि (अग्निपुराणान्तर्गतम्)
 
-+++
+---
   
  पञ्चपञ्चाशद्विष्णुनामानि   
   

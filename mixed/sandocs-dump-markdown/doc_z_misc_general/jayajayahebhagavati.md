@@ -1,24 +1,24 @@
-+++
-"Text title" = "jayajayahebhagavati"
-"File name" = "jayajayahebhagavati.itx"
-itxtitle = "jayajayahebhagavati"
-engtitle = "jayajayahebhagavati"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dr. Narayanabhatta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Text 1, 2, Videos 1, 2, 3, 4, 5)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयजयहेभगवति"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: Dr. Narayanabhatta
+Category: misc, sanskritgeet
+File name: jayajayahebhagavati.itx
+Indexextra: (Text 1, 2, Videos 1, 2, 3, 4, 5)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: jayajayahebhagavati
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: jayajayahebhagavati
+itxtitle: jayajayahebhagavati
+title: जयजयहेभगवति
 
-+++
+---
   
  जय जय हे भगवति   
 जय जय हे भगवति सुरभारति  

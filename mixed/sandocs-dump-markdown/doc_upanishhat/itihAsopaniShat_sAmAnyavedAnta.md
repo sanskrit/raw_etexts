@@ -1,22 +1,22 @@
-+++
-"Text title" = "itihAsopaniShat"
-"File name" = "itihAsopaniShat.itx"
-itxtitle = "itihAsopaniShat (sAmAnyavedAnta)"
-engtitle = "itihAsopaniShat"
-Category = "upanishhat, vedanta, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned book)"
-"Latest update" = "October 18, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "इतिहासोपनिषत् (सामान्यवेदान्त)"
+---
+Category: upanishhat, vedanta, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: itihAsopaniShat.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: October 18, 2017
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: itihAsopaniShat
+engtitle: itihAsopaniShat
+itxtitle: itihAsopaniShat (sAmAnyavedAnta)
+title: इतिहासोपनिषत् (सामान्यवेदान्त)
 
-+++
+---
   
  इतिहासोपनिषत्   
   

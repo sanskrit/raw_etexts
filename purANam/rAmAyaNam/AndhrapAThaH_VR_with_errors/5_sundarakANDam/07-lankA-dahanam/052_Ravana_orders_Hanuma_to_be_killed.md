@@ -3,7 +3,6 @@ title: 052 Ravana orders Hanuma to be killed
 title_english: 052 Ravana orders Hanuma to be killed
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-052-Ravana_orders_Hanuma_to_be_killed.mp3"></div>
 
 तस्य तत् वचनम् श्रुत्वा वानरस्य महात्मनः ।  
@@ -58,7 +57,7 @@ title_english: 052 Ravana orders Hanuma to be killed
 सुरासुराणामपि दुर्जयेन ।  
 त्वया प्रगल्भाः सुरदैत्यसम्घा ।  
 जिताश्च युद्धेष्वसकृन्नरेन्द्राः ॥ ५-५२-१८  
-न च अपि अस्य कपेः घाते कंचित् पश्यामि अहम् गुणम् ।  
+न च अपि अस्य कपेः घाते कञ्चित् पश्यामि अहम् गुणम् ।  
 तेष्व् अयम् पात्यताम् दण्डो यैः अयम् प्रेषितः कपिः ॥ ५-५२-१९  
 साधुः वा यदि वा असाधुः परैः एष समर्पितः ।  
 ब्रुवन् पर अर्थम् परवान् न दूतो वधम् अर्हति ॥ ५-५२-२०  

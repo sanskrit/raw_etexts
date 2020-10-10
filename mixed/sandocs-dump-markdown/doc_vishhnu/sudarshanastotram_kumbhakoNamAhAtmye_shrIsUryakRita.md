@@ -1,24 +1,24 @@
-+++
-"Text title" = "sudarshanastotram"
-"File name" = "sudarshanastotram.itx"
-itxtitle = "sudarshanastotram (kumbhakoNamAhAtmye shrIsUryakRita)"
-engtitle = "sudarshanastotram"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Musiri Janakiraman mnjraman at hotmail.com"
-"Proofread by" = "Musiri Janakiraman mnjraman at hotmail.com"
-"Description/comments" = "kumbhakoNamAhAtmya"
-Source = "page 924, Part II of Sri Jayamangala Stotram"
-Acknowledge-Permission = "Sri Anantarama Dikshithar Athishtanam Trust"
-"Latest update" = "April 15, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुदर्शनस्तोत्रम् (कुम्भकोणमाहात्म्ये श्रीसूर्यकृइत)"
+---
+Acknowledge-Permission: Sri Anantarama Dikshithar Athishtanam Trust
+Category: vishhnu
+Description/comments: kumbhakoNamAhAtmya
+File name: sudarshanastotram.itx
+Language: Sanskrit
+Latest update: April 15, 2017
+Location: doc_vishhnu
+Proofread by: Musiri Janakiraman mnjraman at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: page 924, Part II of Sri Jayamangala Stotram
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sudarshanastotram
+Transliterated by: Musiri Janakiraman mnjraman at hotmail.com
+engtitle: sudarshanastotram
+itxtitle: sudarshanastotram (kumbhakoNamAhAtmye shrIsUryakRita)
+title: सुदर्शनस्तोत्रम् (कुम्भकोणमाहात्म्ये श्रीसूर्यकृइत)
 
-+++
+---
   
  श्रीसुदर्शनस्तोत्रम्   
   

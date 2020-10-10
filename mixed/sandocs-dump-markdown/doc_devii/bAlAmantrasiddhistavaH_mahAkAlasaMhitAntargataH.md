@@ -1,23 +1,23 @@
-+++
-"Text title" = "bAlAmantrasiddhistavaH"
-"File name" = "bAlAmantrasiddhistavaH.itx"
-itxtitle = "bAlAmantrasiddhistavaH (mahAkAlasaMhitAntargataH)"
-engtitle = "bAlAmantrasiddhistavaH"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA"
-Indexextra = "(Scan)"
-"Latest update" = "April 8, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालामन्त्रसिद्धिस्तवः (महाकालसंहितान्तर्गतः)"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: bAlAsaparyA
+File name: bAlAmantrasiddhistavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 8, 2018
+Location: doc_devii
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAmantrasiddhistavaH
+engtitle: bAlAmantrasiddhistavaH
+itxtitle: bAlAmantrasiddhistavaH (mahAkAlasaMhitAntargataH)
+title: बालामन्त्रसिद्धिस्तवः (महाकालसंहितान्तर्गतः)
 
-+++
+---
   
  श्रीबालामन्त्रसिद्धिस्तवः   
 ब्राह्मीरूपधरे देवि ब्रह्मात्मा ब्रह्मपालिका ।  

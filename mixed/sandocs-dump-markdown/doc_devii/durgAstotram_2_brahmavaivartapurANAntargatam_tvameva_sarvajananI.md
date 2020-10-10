@@ -1,31 +1,31 @@
-+++
-"Text title" = "durgAstotram 2 from Bhavasihya Purana"
-"File name" = "durgAstotramBVP.itx"
-itxtitle = "durgAstotram 2 (brahmavaivartapurANAntargatam tvameva sarvajananI)"
-engtitle = "durgAstotram 2 from havasihya Purana"
-Category = "devii, durga, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durga"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Description/comments" = "Brahmavaivarta, Prakriti Khanda 2, Adhyaya 66"
-Indexextra = "(Scan)"
-"Latest update" = "March 12, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गास्तोत्रम् २ (ब्रह्मवैवर्तपुराणान्तर्गतम् त्वमेव सर्वजननी)"
+---
+Category: devii, durga, kavacha, devI
+Description/comments: Brahmavaivarta, Prakriti Khanda 2, Adhyaya 66
+File name: durgAstotramBVP.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 12, 2019
+Location: doc_devii
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durga
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAstotram 2 from Bhavasihya Purana
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: durgAstotram 2 from havasihya Purana
+itxtitle: durgAstotram 2 (brahmavaivartapurANAntargatam tvameva sarvajananI)
+title: दुर्गास्तोत्रम् २ (ब्रह्मवैवर्तपुराणान्तर्गतम् त्वमेव सर्वजननी)
 
-+++
+---
   
  दुर्गास्तोत्रम्   
 श्रीगणेशाय नमः । श्रीदुर्गायै नमः ।  
   
 नारायण उवाच ।  
 पुरा स्तुता सा गोलोके कृष्णेन परमात्मना ।  
-सम्पूज्य मधुमासे च संप्रीते रासमण्डले ॥ १॥  
+सम्पूज्य मधुमासे च सम्प्रीते रासमण्डले ॥ १॥  
   
 मधुकैटभयोर्युद्धे द्वितीये विष्णुना पुरा ।  
 तत्रैव काले सा दुर्गा ब्रह्मणा प्राणसङ्कटे ॥ २॥  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "murukAShTakam"
-"File name" = "murukAShTakam.itx"
-itxtitle = "murukAShTakam"
-engtitle = "murukAShTakam"
-Category = "aShTaka, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran, Sivakumar Thyagarajan"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "September 13, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मुरुकाष्टकम्"
+---
+Category: aShTaka, subrahmanya
+File name: murukAShTakam.itx
+Language: Sanskrit
+Latest update: September 13, 2015
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: murukAShTakam
+Transliterated by: PSA Easwaran, Sivakumar Thyagarajan
+engtitle: murukAShTakam
+itxtitle: murukAShTakam
+title: मुरुकाष्टकम्
 
-+++
+---
   
  मुरुकाष्टकम्   
   

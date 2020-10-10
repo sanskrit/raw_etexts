@@ -1,22 +1,22 @@
-+++
-"Text title" = "vidyAtArakopaniShat"
-"File name" = "vidyAtArakopaniShat.itx"
-itxtitle = "vidyAtArakopaniShat (shAkta)"
-engtitle = "vidyAtArakopaniShat"
-Category = "upanishhat, devii, devI, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विद्यातारकोपनिषत् (शाक्त)"
+---
+Category: upanishhat, devii, devI, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: vidyAtArakopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: vidyAtArakopaniShat
+engtitle: vidyAtArakopaniShat
+itxtitle: vidyAtArakopaniShat (shAkta)
+title: विद्यातारकोपनिषत् (शाक्त)
 
-+++
+---
   
  श्रीविद्यातारकोपनिषत्   
 शं नो मित्रः शं वरुणः - इति शान्तिः ॥  
@@ -58,7 +58,7 @@ title = "विद्यातारकोपनिषत् (शाक्त)"
 इति प्रथमः पादः ।  
   
 द्वितीयः पादः ।  
-स्वप्नस्थानेऽनन्तः संज्ञासप्ताङ्ग एकोनविंशतिमुखः  
+स्वप्नस्थानेऽनन्तः सञ्ज्ञासप्ताङ्ग एकोनविंशतिमुखः  
 प्रविभक्तोऽभूत् । तैजसात्मिकां जालन्धरपीठालयां  
 षष्ठीशनाथात्मिकां वज्रेश्वरीं विष्ण्वात्मिकां क्रियारूपां  
 स्वप्नावस्थानस्थितिरूपामिच्छाशक्तिस्वरूपिणीं द्वितीयकूटां मन्यन्ते ॥  

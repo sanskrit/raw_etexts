@@ -1,24 +1,25 @@
-+++
-"Text title" = "kanakadurgAnandalaharI"
-"File name" = "kanakadurgAnandalaharI.itx"
-itxtitle = "kanakadurgAnandalaharI (vidyAshaNkaravirachitam)"
-engtitle = "kanakadurgAnandalaharI"
-Category = "devii, durgA, laharI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Vidyashankara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada, PSA Easwaran, Chandra V Ramani"
-Description-comments = "The composition is addressed to the goddess Kanaka Durga at Vijayawada of Andhra Pradesh."
-Indexextra = "(Telugu, article)"
-"Latest update" = "December 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कनकदुर्गानन्दलहरी (विद्याशण्करविरचितम्)"
+---
+Author: Vidyashankara
+Category: devii, durgA, laharI, devI
+Description-comments: The composition is addressed to the goddess Kanaka Durga at
+  Vijayawada of Andhra Pradesh.
+File name: kanakadurgAnandalaharI.itx
+Indexextra: (Telugu, article)
+Language: Sanskrit
+Latest update: December 28, 2017
+Location: doc_devii
+Proofread by: Malleswara Rao Yellapragada, PSA Easwaran, Chandra V Ramani
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kanakadurgAnandalaharI
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: kanakadurgAnandalaharI
+itxtitle: kanakadurgAnandalaharI (vidyAshaNkaravirachitam)
+title: कनकदुर्गानन्दलहरी (विद्याशण्करविरचितम्)
 
-+++
+---
   
  श्रीकनकदुर्गाऽऽनन्दलहरी   
   

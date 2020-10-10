@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrIjayendrasarasvatI aShTottarashatanAmAvaliH"
-"File name" = "jayendra108.itx"
-itxtitle = "jayendrasarasvatyaShTottarashatanAmAvaliH"
-engtitle = "shrIjayendrasarasvatI aShTottarashatanAmAvaliH"
-Category = "aShTottarashatanAmAvalI, deities_misc, gurudev, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravi Venkatraman sri.sadguru.puja at gmail.com"
-"Proofread by" = "Ravi Venkatraman, Sunder Hattangadi, PSA Easwaran"
-Source = "https://drive.google.com/file/d/0B6uAhaK8f6enM3NZc0F6ajR0LVE/edit"
-"Latest update" = "August 3, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयेन्द्रसरस्वत्यष्टोत्तरशतनामावलिः"
+---
+Category: aShTottarashatanAmAvalI, deities_misc, gurudev, nAmAvalI
+File name: jayendra108.itx
+Language: Sanskrit
+Latest update: August 3, 2016
+Location: doc_deities_misc
+Proofread by: Ravi Venkatraman, Sunder Hattangadi, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: https://drive.google.com/file/d/0B6uAhaK8f6enM3NZc0F6ajR0LVE/edit
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shrIjayendrasarasvatI aShTottarashatanAmAvaliH
+Texttype: nAmAvalI
+Transliterated by: Ravi Venkatraman sri.sadguru.puja at gmail.com
+engtitle: shrIjayendrasarasvatI aShTottarashatanAmAvaliH
+itxtitle: jayendrasarasvatyaShTottarashatanAmAvaliH
+title: जयेन्द्रसरस्वत्यष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीजयेन्द्रसरस्वती अष्टोत्तरशतनामावलिः   
 ॥ श्रीगुरुनामावलिः ॥  

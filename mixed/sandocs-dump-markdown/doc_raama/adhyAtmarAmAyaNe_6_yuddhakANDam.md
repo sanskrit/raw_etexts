@@ -1,24 +1,24 @@
-+++
-"Text title" = "adhyAtma rAmAyaNa yuddha kANDa"
-"File name" = "adhyaatmaRamyuddha.itx"
-itxtitle = "adhyAtmarAmAyaNe 6 yuddhakANDam"
-engtitle = "adhyAtmarAmAyaNa yuddhakANDa"
-Category = "adhyAtmarAmAyaNa, raama, vyAsa"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "pramukha"
-Author = "Shri Veda Vyas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vishwas underscore bhide at yahoo.com"
-"Proofread by" = "Vishwas Bhide , PSA EASWARAN psaeaswaran at gmail.com"
-Indexextra = "(Hindi)"
-"Latest update" = "July 22, 2006, April 4, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अध्यात्मरामायणे ६ युद्धकाण्डम्"
+---
+Author: Shri Veda Vyas
+Category: adhyAtmarAmAyaNa, raama, vyAsa
+File name: adhyaatmaRamyuddha.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: July 22, 2006, April 4, 2015
+Location: doc_raama
+Proofread by: Vishwas Bhide , PSA EASWARAN psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: adhyAtma rAmAyaNa yuddha kANDa
+Texttype: pramukha
+Transliterated by: Vishwas Bhide vishwas underscore bhide at yahoo.com
+engtitle: adhyAtmarAmAyaNa yuddhakANDa
+itxtitle: adhyAtmarAmAyaNe 6 yuddhakANDam
+title: अध्यात्मरामायणे ६ युद्धकाण्डम्
 
-+++
+---
   
  अध्यात्मरामायणे युद्धकाण्डम्   
 ॥ प्रथमः सर्गः ॥  
@@ -3313,7 +3313,7 @@ title = "अध्यात्मरामायणे ६ युद्धका
 राघवस्याभिषेकार्थं वसिष्ठाय न्यवेदयत् ।  
 ततस्तु प्रयतो वृद्धो वसिष्ठो ब्राह्मणैः सह ॥ ३७॥  
   
-रामं रत्नमये पीठे ससीतं संन्यवेशयत् ।  
+रामं रत्नमये पीठे ससीतं सन्न्यवेशयत् ।  
 वसिष्ठो वामदेवश्च जाबालिर्गौतमस्तथा ॥ ३८॥  
   
 वाल्मीकिश्च तथा चक्रुः सर्वे रामाभिषेचनम् ।  

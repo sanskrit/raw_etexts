@@ -1,24 +1,24 @@
-+++
-"Text title" = "trimUrtistutiH"
-"File name" = "trimUrtistutiH.itx"
-itxtitle = "trimUrtistutiH"
-engtitle = "trimUrtistutiH"
-Category = "vishhnu, shiva, brahma"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिमूर्तिस्तुतिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, shiva, brahma
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: trimUrtistutiH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: shiva
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: trimUrtistutiH
+engtitle: trimUrtistutiH
+itxtitle: trimUrtistutiH
+title: त्रिमूर्तिस्तुतिः
 
-+++
+---
   
  त्रिमूर्तिस्तुतिः   
   

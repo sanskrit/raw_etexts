@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhadrakAlIstutiH"
-"File name" = "bhadrakAlIstutiH.itx"
-itxtitle = "bhadrakAlIstutiH (mahAbhAgavatapurANAntargatA brahmaviShNukRitA namAmi tvAM)"
-engtitle = "bhadrakAlIstutiH"
-Category = "devii, dashamahAvidyA, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "from devIstotraratnAkara"
-"Latest update" = "April 20, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भद्रकालीस्तुतिः (महाभागवतपुराणान्तर्गता ब्रह्मविष्णुकृइता नमामि त्वां)"
+---
+Category: devii, dashamahAvidyA, aShTaka, devI
+Description/comments: from devIstotraratnAkara
+File name: bhadrakAlIstutiH.itx
+Language: Sanskrit
+Latest update: April 20, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhadrakAlIstutiH
+engtitle: bhadrakAlIstutiH
+itxtitle: bhadrakAlIstutiH (mahAbhAgavatapurANAntargatA brahmaviShNukRitA namAmi tvAM)
+title: भद्रकालीस्तुतिः (महाभागवतपुराणान्तर्गता ब्रह्मविष्णुकृइता नमामि त्वां)
 
-+++
+---
   
  भद्रकालीस्तुतिः   
 ब्रह्मविष्णु ऊचतुः -  
@@ -55,7 +55,7 @@ title = "भद्रकालीस्तुतिः (महाभागवत
 श्वासो वायुर्बाहवो लोकपालाः  
       क्रीडा सृष्टिः संस्थितिः संहृतिस्ते ॥ ७॥  
   
-एवंभूतां देवि विश्वात्मिकां त्वां  
+एवम्भूतां देवि विश्वात्मिकां त्वां  
       कालीं वन्दे ब्रह्मविद्यास्वरूपाम् ।  
 मातः पूर्णे ब्रह्मविज्ञानगम्ये  
       दुर्गेऽपारे साररूपे प्रसीद ॥ ८॥   
@@ -71,8 +71,8 @@ title = "भद्रकालीस्तुतिः (महाभागवत
 पालन करती हैं । दिव्य स्थाननिवासिनी आप भगवती महाकालीको  
 हमारा प्रणाम है ॥ २॥   
 महामायास्वरूपा आप मायामयी तथा मायासे अतीत हैं, आप भीषण,  
-श्यामवर्णवाली, भयंकर नेत्रोंवाली परमेश्वरी हैं ।  
-आप सिद्धियों से सम्पन्न, विद्यास्वरूपा, समस्त प्राणियोंके  
+श्यामवर्णवाली, भयङ्कर नेत्रोंवाली परमेश्वरी हैं ।  
+आप सिद्धियों से सम्पन्न, विद्यास्वरूपा, समस्त प्राणियोङ्के  
 हृदयप्रदेशमें निवास करनेवाली तथा सृष्टिका संहार  
 करनेवाली हैं, आप महाकाली को हमारा नमस्कार है ॥ ३॥   
 महेश्वरी ! हम आपके रूप, शील, दिव्य धाम, ध्यान अथवा  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrImahAsvAmi aShTottarashatanAmAvaliH"
-"File name" = "chandrashekharendra108maTha.itx"
-itxtitle = "chandrashekharendrAShTottarashatanAmAvaliH (maTha pATha)"
-engtitle = "shrImahAsvAmi aShTottarashatanAmAvaliH (maTha pATha)"
-Category = "aShTottarashatanAmAvalI, deities_misc, gurudev, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravi Venkatraman sri.sadguru.puja at gmail.com"
-"Proofread by" = "Ravi Venkatraman, Sunder Hattangadi, PSA Easwaran"
-Source = "https://drive.google.com/file/d/0B6uAhaK8f6enM3NZc0F6ajR0LVE/edit"
-Indexextra = "(youtube,)"
-"Latest update" = "August 3, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्रशेखरेन्द्राष्टोत्तरशतनामावलिः (मठ पाठ)"
+---
+Category: aShTottarashatanAmAvalI, deities_misc, gurudev, nAmAvalI
+File name: chandrashekharendra108maTha.itx
+Indexextra: (youtube,)
+Language: Sanskrit
+Latest update: August 3, 2016
+Location: doc_deities_misc
+Proofread by: Ravi Venkatraman, Sunder Hattangadi, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: https://drive.google.com/file/d/0B6uAhaK8f6enM3NZc0F6ajR0LVE/edit
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shrImahAsvAmi aShTottarashatanAmAvaliH
+Texttype: nAmAvalI
+Transliterated by: Ravi Venkatraman sri.sadguru.puja at gmail.com
+engtitle: shrImahAsvAmi aShTottarashatanAmAvaliH (maTha pATha)
+itxtitle: chandrashekharendrAShTottarashatanAmAvaliH (maTha pATha)
+title: चन्द्रशेखरेन्द्राष्टोत्तरशतनामावलिः (मठ पाठ)
 
-+++
+---
   
  श्रीमहास्वामि अष्टोत्तरशतनामावलिः   
   

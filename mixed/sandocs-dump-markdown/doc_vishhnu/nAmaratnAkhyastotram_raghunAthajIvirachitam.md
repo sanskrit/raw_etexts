@@ -1,24 +1,24 @@
-+++
-"Text title" = "nAmaratnAkhyastotram"
-"File name" = "nAmaratnAkhyastotram.itx"
-itxtitle = "nAmaratnAkhyastotram (raghunAthajIvirachitam)"
-engtitle = "nAmaratnAkhyastotram"
-Category = "vishhnu, krishna, puShTimArgIya, raghunAthajI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "raghunAthajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नामरत्नाख्यस्तोत्रम् (रघुनाथजीविरचितम्)"
+---
+Author: raghunAthajI
+Category: vishhnu, krishna, puShTimArgIya, raghunAthajI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: nAmaratnAkhyastotram.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nAmaratnAkhyastotram
+engtitle: nAmaratnAkhyastotram
+itxtitle: nAmaratnAkhyastotram (raghunAthajIvirachitam)
+title: नामरत्नाख्यस्तोत्रम् (रघुनाथजीविरचितम्)
 
-+++
+---
   
  नामरत्नाख्यस्तोत्रम्   
   

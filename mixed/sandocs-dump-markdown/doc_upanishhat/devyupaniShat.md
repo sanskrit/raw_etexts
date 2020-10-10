@@ -1,25 +1,25 @@
-+++
-"Text title" = "Devi Upanishad"
-"File name" = "devi.itx"
-itxtitle = "devyupaniShat"
-engtitle = "Devi Upanishad"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "89/108; Atharva Veda, Shakta Upanishad"
-Indexextra = "(devIatharvashIrShaM)"
-"Latest update" = "September 19, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देव्युपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, svara, upanishad
+Description-comments: 89/108; Atharva Veda, Shakta Upanishad
+File name: devi.itx
+Indexextra: (devIatharvashIrShaM)
+Language: Sanskrit
+Latest update: September 19, 2003
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Devi Upanishad
+Texttype: svara
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Devi Upanishad
+itxtitle: devyupaniShat
+title: देव्युपनिषत्
 
-+++
+---
   
  देवी उपनिषत्   
   
@@ -125,9 +125,9 @@ title = "देव्युपनिषत्"
 ज्ञानानां चिन्मयातीता शून्यानां शून्यसाक्षिणी ॥ १७॥  
   
 यस्याः परतरं नास्ति सैषा दुर्गा प्रकीर्तिता ।  
-[दुर्गात्संत्रायते यस्माद्देवी दुर्गेति कथ्यते ॥ १८॥  
+[दुर्गात्सन्त्रायते यस्माद्देवी दुर्गेति कथ्यते ॥ १८॥  
   
-प्रपद्ये शरणं देवीं दुंदुर्गे दुरितं हर ॥]  
+प्रपद्ये शरणं देवीं दुन्दुर्गे दुरितं हर ॥]  
 तां दुर्गां दुर्गमां देवीं दुराचारविघातिनीम् ।  
 नमामि भवभीतोऽहं संसारार्णवतारिणीम् ॥ १९॥  
   
@@ -144,9 +144,9 @@ title = "देव्युपनिषत्"
 सायमधीयानो दिवसकृतं पापं नाशयति ।  
 तत्सायं प्रातः प्रयुञ्जानः पापोऽपापो भवति । निशीथे  
 तुरीयसन्ध्यायां जप्त्वा वाक्सिद्धिर्भवति ।  
-नूतनप्रतिमायां जप्त्वा देवतासांनिध्यं भवति ।  
+नूतनप्रतिमायां जप्त्वा देवतासान्निध्यं भवति ।  
 प्राणप्रतिष्ठायां जप्त्वा प्राणानां प्रतिष्ठा भवति ।  
-भौमाश्विन्यां महादेवी संनिधौ जप्त्वा महामृत्युं तरति  
+भौमाश्विन्यां महादेवी सन्निधौ जप्त्वा महामृत्युं तरति  
 । य एवं वेदेत्युपनिषत् ॥ २२॥  
   
 ॐ भद्रं कर्णेभिः शृणुयाम देवा  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "DashamahavidyAstotram"
-"File name" = "dashamahAvidyAstotra.itx"
-itxtitle = "dashamahAvidyAstotram athavA mahAvidyAstotram"
-engtitle = "DashamahavidyAstotram"
-Category = "devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, Avinash Sathaye sohum at ms.uky.edu"
-"Latest update" = "NOvember 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशमहाविद्यास्तोत्रम् अथवा महाविद्यास्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, stotra, devI
+File name: dashamahAvidyAstotra.itx
+Language: Sanskrit
+Latest update: NOvember 21, 2018
+Location: doc_devii
+Proofread by: NA, Avinash Sathaye sohum at ms.uky.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: DashamahavidyAstotram
+Texttype: stotra
+Transliterated by: NA
+engtitle: DashamahavidyAstotram
+itxtitle: dashamahAvidyAstotram athavA mahAvidyAstotram
+title: दशमहाविद्यास्तोत्रम् अथवा महाविद्यास्तोत्रम्
 
-+++
+---
   
  दशमहाविद्यास्तोत्रम्   
   
@@ -93,7 +93,7 @@ title = "दशमहाविद्यास्तोत्रम् अथव�
 कुजवारे चतुर्दश्याममायां जीववासरे ।  
 शुक्रे निशिगते स्तोत्रं पठित्वा मोक्षमाप्नुयात् ॥  
   
-त्रिपक्षे मन्त्रसिद्धिस्यात्स्तोत्रपाठाद्धि शंकरि ।  
+त्रिपक्षे मन्त्रसिद्धिस्यात्स्तोत्रपाठाद्धि शङ्करि ।  
 चतुर्दश्यां निशाभागे शनि भौम दिने तथा ॥  
   
 निशामुखे पठेत्स्तोत्रं मन्त्र सिद्धिमवाप्नुयात् ।  

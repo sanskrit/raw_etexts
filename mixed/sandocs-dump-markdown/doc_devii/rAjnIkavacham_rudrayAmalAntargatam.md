@@ -1,23 +1,23 @@
-+++
-"Text title" = "Rajni Kavacham"
-"File name" = "rAjnIkavacham.itx"
-itxtitle = "rAjnIkavacham (rudrayAmalAntargatam)"
-engtitle = "rAjnIkavacham"
-Category = "devii, kavacha, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale tantre dashavidyArahasye"
-Indexextra = "(Scan)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राज्ञीकवचम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: devii, kavacha, dashamahAvidyA, devI
+Description/comments: rudrayAmale tantre dashavidyArahasye
+File name: rAjnIkavacham.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Rajni Kavacham
+engtitle: rAjnIkavacham
+itxtitle: rAjnIkavacham (rudrayAmalAntargatam)
+title: राज्ञीकवचम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  राज्ञीकवचम्   
 ॐ श्रीभैरव उवाच -  

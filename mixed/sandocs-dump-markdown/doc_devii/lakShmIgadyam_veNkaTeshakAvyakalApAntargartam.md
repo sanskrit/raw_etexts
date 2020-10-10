@@ -1,25 +1,25 @@
-+++
-"Text title" = "lakShmIgadyam"
-"File name" = "lakShmIgadyam.itx"
-itxtitle = "lakShmIgadyam (veNkaTeshakAvyakalApAntargartam)"
-engtitle = "lakShmIgadyam"
-Category = "gadyam, devii, stotra, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha KavyakalApa"
-Indexextra = "(book Venkatesha KavyakalApa)"
-"Latest update" = "June 10, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीगद्यम् (वेण्कटेशकाव्यकलापान्तर्गर्तम्)"
+---
+Category: gadyam, devii, stotra, lakShmI, devI
+File name: lakShmIgadyam.itx
+Indexextra: (book Venkatesha KavyakalApa)
+Language: Sanskrit
+Latest update: June 10, 2016
+Location: doc_devii
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha KavyakalApa
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmIgadyam
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: lakShmIgadyam
+itxtitle: lakShmIgadyam (veNkaTeshakAvyakalApAntargartam)
+title: लक्ष्मीगद्यम् (वेण्कटेशकाव्यकलापान्तर्गर्तम्)
 
-+++
+---
   
  श्रीलक्ष्मीगद्यम्   
   

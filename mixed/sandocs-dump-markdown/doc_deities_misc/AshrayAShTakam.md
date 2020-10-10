@@ -1,21 +1,21 @@
-+++
-"Text title" = "AshrayAShTakam"
-"File name" = "aashrayaashtakam.itx"
-itxtitle = "AshrayAShTakam"
-engtitle = "ashrayAShTakam"
-Category = "aShTaka, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 23, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आश्रयाष्टकम्"
+---
+Category: aShTaka, deities_misc
+File name: aashrayaashtakam.itx
+Language: Sanskrit
+Latest update: April 23, 2008
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: AshrayAShTakam
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: ashrayAShTakam
+itxtitle: AshrayAShTakam
+title: आश्रयाष्टकम्
 
-+++
+---
   
  आश्रयाष्टकम्   
   
@@ -27,7 +27,7 @@ title = "आश्रयाष्टकम्"
 प्रणतमादिगुरुं सुरशिल्पकम् ।  
 प्रणवरञ्जित मञ्जुळतल्पकं  
 हरिहरात्मजमीश्वरमाश्रये ॥ २  
-अरिसरोरुहशंखगदाधरं  
+अरिसरोरुहशङ्खगदाधरं  
 परिघमुद्गरबाणधनुर्धरम् ।  
 क्षुरिक तोमर शक्तिलसत्करं  
 हरिहरात्मजमीश्वरमाश्रये ॥ ३  

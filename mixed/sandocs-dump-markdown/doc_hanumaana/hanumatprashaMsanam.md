@@ -1,24 +1,24 @@
-+++
-"Text title" = "hanumatprashaMsanam"
-"File name" = "hanumatprashaMsanam.itx"
-itxtitle = "hanumatprashaMsanam"
-engtitle = "hanumatprashaMsanam"
-Category = "hanumaana, stotra, Ananda-tIrtha, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Author = "madAnandatIrtha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "September 18, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्प्रशंसनम्"
+---
+Author: madAnandatIrtha
+Category: hanumaana, stotra, Ananda-tIrtha, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumatprashaMsanam.itx
+Language: Sanskrit
+Latest update: September 18, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatprashaMsanam
+Texttype: stotra
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: hanumatprashaMsanam
+itxtitle: hanumatprashaMsanam
+title: हनुमत्प्रशंसनम्
 
-+++
+---
   
  श्रीहनुमत्प्रशंसनम्   
   

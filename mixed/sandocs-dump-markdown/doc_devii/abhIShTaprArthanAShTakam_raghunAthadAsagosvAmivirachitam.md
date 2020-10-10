@@ -1,25 +1,26 @@
-+++
-"Text title" = "abhIShTaprArthanAShTakam"
-"File name" = "abhIShTaprArthanAShTakam.itx"
-itxtitle = "abhIShTaprArthanAShTakam (raghunAthadAsagosvAmivirachitam)"
-engtitle = "abhIShTaprArthanAShTakam"
-Category = "devii, radha, raghunAthadAsagosvAmin, stavAvalI, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अभीष्टप्रार्थनाष्टकम् (रघुनाथदासगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: devii, radha, raghunAthadAsagosvAmin, stavAvalI, aShTaka, devI
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: abhIShTaprArthanAShTakam.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: abhIShTaprArthanAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: abhIShTaprArthanAShTakam
+itxtitle: abhIShTaprArthanAShTakam (raghunAthadAsagosvAmivirachitam)
+title: अभीष्टप्रार्थनाष्टकम् (रघुनाथदासगोस्वामिविरचितम्)
 
-+++
+---
   
  अभीष्टप्रार्थनाष्टकम्   
 कदा गोष्ठे गोष्ठक्षितिपगृहदेव्या किल तया  

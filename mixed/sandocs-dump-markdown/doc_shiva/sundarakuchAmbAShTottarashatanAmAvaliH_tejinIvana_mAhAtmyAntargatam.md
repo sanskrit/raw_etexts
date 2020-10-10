@@ -1,23 +1,23 @@
-+++
-"Text title" = "sundarakuchAmbAShTottarashatanAmAvalI"
-"File name" = "sundarakuchAmbAShTottarashatanAmAvalI.itx"
-itxtitle = "sundarakuchAmbAShTottarashatanAmAvaliH (tejinIvana mAhAtmyAntargatam)"
-engtitle = "sundarakuchAmbAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24  at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Description/comments" = "Shri Tejinivana Mahatmyam"
-"Latest update" = "January 7, 2017, October 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुन्दरकुचाम्बाष्टोत्तरशतनामावलिः (तेजिनीवन माहात्म्यान्तर्गतम्)"
+---
+Category: aShTottarashatanAmAvalI, shiva, nAmAvalI
+Description/comments: Shri Tejinivana Mahatmyam
+File name: sundarakuchAmbAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: January 7, 2017, October 6, 2018
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: sundarakuchAmbAShTottarashatanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24  at gmail.com
+engtitle: sundarakuchAmbAShTottarashatanAmAvalI
+itxtitle: sundarakuchAmbAShTottarashatanAmAvaliH (tejinIvana mAhAtmyAntargatam)
+title: सुन्दरकुचाम्बाष्टोत्तरशतनामावलिः (तेजिनीवन माहात्म्यान्तर्गतम्)
 
-+++
+---
   
  श्रीसुन्दरकुचाम्बाष्टोत्तरशतनामावलिः   
   

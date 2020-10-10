@@ -1,24 +1,24 @@
-+++
-"Text title" = "mahAmAyAShTakam"
-"File name" = "mahAmAyA8.itx"
-itxtitle = "mahAmAyAShTakam"
-engtitle = "mahAmAyAShTakam"
-Category = "aShTaka, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Author = "paiNganADu gaNapatishAstri"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-"Proofread by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-Description-comments = "Hymn of 8 verses in praise of Devi as Mahamaya"
-"Latest update" = "February 2, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महामायाष्टकम्"
+---
+Author: paiNganADu gaNapatishAstri
+Category: aShTaka, devii, otherforms, devI
+Description-comments: Hymn of 8 verses in praise of Devi as Mahamaya
+File name: mahAmAyA8.itx
+Language: Sanskrit
+Latest update: February 2, 2002
+Location: doc_devii
+Proofread by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: hinduism/religion
+Sublocation: devii
+Text title: mahAmAyAShTakam
+Transliterated by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+engtitle: mahAmAyAShTakam
+itxtitle: mahAmAyAShTakam
+title: महामायाष्टकम्
 
-+++
+---
   
  महामायाष्टकम्   
   
@@ -35,7 +35,7 @@ title = "महामायाष्टकम्"
 मातः कातरतां निर्वाय नितरामानन्दितानातनु ॥ २॥  
   
 प्रत्यक्षेतरवैभवैः किमितरैर्देवव्रजैस्तादृशैः  
-निन्दायामपि च स्तुतावपि फलं किंचिन्न ये तन्वते ।  
+निन्दायामपि च स्तुतावपि फलं किञ्चिन्न ये तन्वते ।  
 या निन्दास्तवयोः फलं भगवती दत्सेऽनुरूपं क्षणान्  
 नूनं तादृशवैभवा विजयसे देवि त्वमेका भुवि ॥ ३॥  
   
@@ -45,7 +45,7 @@ title = "महामायाष्टकम्"
 नूनं वच्मि दयानिधेऽवतु जडानस्मान् भवत्यादरात् ॥ ४॥  
   
 रोदंरोदमुदीर्णबाष्पलहरीक्लिन्नानने ते शिशा-  
-वस्मिन् तप्यति किंचिदत्र करुणादृष्टिं विधत्से न चेत् ।  
+वस्मिन् तप्यति किञ्चिदत्र करुणादृष्टिं विधत्से न चेत् ।  
 पातुं स्फोटगदात् पटुत्वमिव ते कस्यास्ति मातर्वद  
 क्कायं गच्छतु कस्य पश्यतु मुखं का वा गतिर्लभ्यताम् ॥ ५॥  
   
@@ -69,7 +69,7 @@ title = "महामायाष्टकम्"
 ये मर्त्या स्तुतिमादराद् गणपतेर्वक्त्राम्बुजान्निःसृतां  
 विश्वासेन पठन्ति ते न दधते स्फोटव्यथां जातुचित् ॥ ९॥  
   
-इति श्रीमहामायाष्टकं संपूर्णम्  
+इति श्रीमहामायाष्टकं सम्पूर्णम्  
   
   
   

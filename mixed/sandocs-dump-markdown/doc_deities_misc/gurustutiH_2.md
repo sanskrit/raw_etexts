@@ -1,23 +1,23 @@
-+++
-"Text title" = "gurustutiH 2"
-"File name" = "gurustutiH2.itx"
-itxtitle = "gurustutiH 2"
-engtitle = "gurustutiH 2"
-Category = "deities_misc, gurudeva"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudeva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com, NA"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "December 25, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुस्तुतिः २"
+---
+Category: deities_misc, gurudeva
+File name: gurustutiH2.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: December 25, 2018
+Location: doc_deities_misc
+Proofread by: Ganesh Kandu kanduganesh at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudeva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurustutiH 2
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: gurustutiH 2
+itxtitle: gurustutiH 2
+title: गुरुस्तुतिः २
 
-+++
+---
   
  श्रीगुरुस्तुतिः   
 ॐ नमो गुरुवे ।  
@@ -36,7 +36,7 @@ title = "गुरुस्तुतिः २"
 तत्संहारेऽनलशततनुस्तामसीं रौद्रमूर्तिं  
      तं श्रीरामं त्रिभुवनगुरुं स्वात्मरूपं नमामि ॥ ३॥  
   
-संसाराब्धौ विषयमकरे दुस्तरे संप्रमग्ना-  
+संसाराब्धौ विषयमकरे दुस्तरे सम्प्रमग्ना-  
      नुद्धृत्यस्मात्परमकृपया भेददृष्टिं विभिद्य ।  
 शैवं स्थानमचलममलं प्रापिता येन भक्त्या  
      तं श्रीरामं त्रिभुवनगुरुं स्वात्मरूपं नमामि ॥ ४॥  

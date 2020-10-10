@@ -1,22 +1,22 @@
-+++
-"Text title" = "mAheshvarakavacham"
-"File name" = "mAheshvarakavacham.itx"
-itxtitle = "mAheshvarakavacham"
-engtitle = "mAheshvarakavacham"
-Category = "kavacha, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-"Latest update" = "March 20, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "माहेश्वरकवचम्"
+---
+Author: Traditional
+Category: kavacha, shiva
+File name: mAheshvarakavacham.itx
+Language: Sanskrit
+Latest update: March 20, 2016
+Location: doc_shiva
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mAheshvarakavacham
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: mAheshvarakavacham
+itxtitle: mAheshvarakavacham
+title: माहेश्वरकवचम्
 
-+++
+---
   
  माहेश्वरकवचम्   
   
@@ -24,14 +24,14 @@ title = "माहेश्वरकवचम्"
   
 ॐ नमोभगवते रुद्राय ।  
 राजोवाच ।  
-अङ्गन्यासं यदुक्तंभो महेशाक्षर संयुतम् ।  
+अङ्गन्यासं यदुक्तम्भो महेशाक्षर संयुतम् ।  
 विधानं कीदृशं तस्य कर्तव्यं केन हेतुना ॥ १॥  
   
 तद्वदस्व महाभाग विस्तरेण ममाग्रतः ।  
 भृगुरुवाच ।  
 कवचं महेश्वरं राजन् देवैरपि सुदुर्लभम् ॥ २॥  
   
-यः करोति स्वगात्रेषु पूतात्मा संभवेन्नरः ।  
+यः करोति स्वगात्रेषु पूतात्मा सम्भवेन्नरः ।  
 कृत्वा न्यासमिमं यस्तु सङ्ग्राम प्रविशेन्नरः ॥ ३॥  
   
 न शरास्तोमरास्तस्य खड्गशक्ति परश्वधाः ।  
@@ -48,7 +48,7 @@ title = "माहेश्वरकवचम्"
 ॐ ह्रौं ह्रां ह्रं मन्त्रेणानेन  
 वृषगोमयभस्मनाम् आमन्त्र्यललाटे तिलकमादाय पठेत् ॥  
   
-त्राहि मां देव दुष्प्रेक्ष्य शत्रूणांभयवर्धन ।  
+त्राहि मां देव दुष्प्रेक्ष्य शत्रूणाम्भयवर्धन ।  
 ॐ स्वच्छन्दभैरवः प्राच्यामाग्नेय्यां - शिखिलोचनः ॥ ७॥  
   
 भूतेशो दक्षिणे भागे नैऋत्यां भीमदर्शनः ।  
@@ -88,13 +88,13 @@ title = "माहेश्वरकवचम्"
 निवेद्य शिखिनेत्राय वारयेच्चोत्तरं मुखम् ॥ १९॥  
   
 ज्वरदाहपरिक्रान्तं तथान्यव्याधिसंयुतम् ।  
-कुशैःसंमार्ज्य समार्ज्यक्षिपेद्दीपशिखेज्वरम् ॥ २०॥  
+कुशैःसम्मार्ज्य समार्ज्यक्षिपेद्दीपशिखेज्वरम् ॥ २०॥  
   
 ऐकाहिकं द्व्याहिकं वा तृतीयकचतुर्थकम् ।  
 वातपित्तकफोद्भूतं सन्निपातोग्रतेजसम् ॥ २१॥  
   
 अन्यद्दुःखदुराधर्षं कर्म चाभिचारिकम् ।  
-धातुस्थं कफसंमिश्रं विषम कामसम्भवम् ॥ २२॥  
+धातुस्थं कफसम्मिश्रं विषम कामसम्भवम् ॥ २२॥  
   
 भूताभिषङ्गसगर्तं भूतचेष्टादिसस्थितम् ।  
 शिवाज्ञां घोरमन्त्रेण पूर्ववृत्तं स्वयं स्मर ॥ २३॥  
@@ -121,7 +121,7 @@ title = "माहेश्वरकवचम्"
 श्रोतव्यं सततं भक्त्या कवचं सर्वकामिकम् ।  
 लिखितं तिष्ठते यस्य गृहे सम्यगनुत्तमम् ॥ ३१॥  
   
-न तत्र कलहोद्वेगं नाकालमरणंभवेत् ।  
+न तत्र कलहोद्वेगं नाकालमरणम्भवेत् ।  
 नाल्पप्रजाः स्त्रियस्तत्र न दौर्भाग्यसमाश्रिताः ॥ ३२॥  
   
 तस्मान्माहेश्वरं नाम कवचं सुरगणार्चितम् ।  

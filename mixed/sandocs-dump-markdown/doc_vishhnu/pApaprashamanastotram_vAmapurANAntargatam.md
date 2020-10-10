@@ -1,22 +1,22 @@
-+++
-"Text title" = "Papa Prashamana Stotram"
-"File name" = "pApaprashamanastotram.itx"
-itxtitle = "pApaprashamanastotram (vAmapurANAntargatam)"
-engtitle = "Papa Prashamana Stotram"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Vamanamahapurana"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पापप्रशमनस्तोत्रम् (वामपुराणान्तर्गतम्)"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: vishhnu
+Description/comments: Vamanamahapurana
+File name: pApaprashamanastotram.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Papa Prashamana Stotram
+engtitle: Papa Prashamana Stotram
+itxtitle: pApaprashamanastotram (vAmapurANAntargatam)
+title: पापप्रशमनस्तोत्रम् (वामपुराणान्तर्गतम्)
 
-+++
+---
   
  पापप्रशमनस्तोत्रं   
 पुलस्त्य उवाच -  

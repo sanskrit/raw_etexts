@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmaShaTpadI"
-"File name" = "raama6padi.itx"
-itxtitle = "rAmaShaTpadI"
-engtitle = "rAmaShaTpadI"
-Category = "ShaTpadI, raama, stotra"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "mAlavIyashukla"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "January 07, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामषट्पदी"
+---
+Author: mAlavIyashukla
+Category: ShaTpadI, raama, stotra
+File name: raama6padi.itx
+Language: Sanskrit
+Latest update: January 07, 2005
+Location: doc_raama
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmaShaTpadI
+Texttype: stotra
+Transliterated by: WebD
+engtitle: rAmaShaTpadI
+itxtitle: rAmaShaTpadI
+title: रामषट्पदी
 
-+++
+---
   
  श्रीरामषट्पदी   
   
@@ -34,7 +34,7 @@ title = "रामषट्पदी"
 इन्दीवरदलसुन्दर वरदलसद्वामजानकीजाने ।  
 जाने त्वामखिलेशं लेशलसल्लोकलोकेशम् ॥ ४॥  
   
-शं कुरु शङ्करवल्लभ यल्लभतामाश्वयं त्वदंघ्रियुगे ।  
+शं कुरु शङ्करवल्लभ यल्लभतामाश्वयं त्वदङ्घ्रियुगे ।  
 अनुरक्तिदृढां भक्तिं चिरस्य चिन्ताब्धिभवभक्तिम् ॥ ५॥  
   
 वैराजराजराजोऽप्यभूत्सुसाकेतराजनरराजः ।  

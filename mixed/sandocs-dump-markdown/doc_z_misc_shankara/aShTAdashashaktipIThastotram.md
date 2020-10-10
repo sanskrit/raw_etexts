@@ -1,21 +1,21 @@
-+++
-"Text title" = "aShTAdashashaktipITha stotram"
-"File name" = "shaktipITha.itx"
-itxtitle = "aShTAdashashaktipIThastotram"
-engtitle = "aShTAdashashaktipITha stotram"
-Category = "stotra, shankarAchArya, shaktipITha, devii, devI"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "May 29, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अष्टादशशक्तिपीठस्तोत्रम्"
+---
+Author: Traditional
+Category: stotra, shankarAchArya, shaktipITha, devii, devI
+File name: shaktipITha.itx
+Language: Sanskrit
+Latest update: May 29, 2012
+Location: doc_z_misc_shankara
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: aShTAdashashaktipITha stotram
+Texttype: stotra
+engtitle: aShTAdashashaktipITha stotram
+itxtitle: aShTAdashashaktipIThastotram
+title: अष्टादशशक्तिपीठस्तोत्रम्
 
-+++
+---
   
  अष्टादशशक्तिपीठस्तोत्रम्   
   

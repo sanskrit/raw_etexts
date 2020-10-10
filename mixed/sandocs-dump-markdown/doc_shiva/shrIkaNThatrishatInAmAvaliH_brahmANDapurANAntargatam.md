@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shrikantha Trishati Namavali 300 Names"
-"File name" = "shrIkaNThatrishatInAmAvaliH.itx"
-itxtitle = "shrIkaNThatrishatInAmAvaliH (brahmANDapurANAntargatam)"
-engtitle = "shrIkaNThatrishatInAmAvaliH"
-Category = "shiva, shatInAmAvalI, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brahmandapurana"
-Indexextra = "(Scan)"
-"Latest update" = "July 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीकण्ठत्रिशतीनामावलिः (ब्रह्माण्डपुराणान्तर्गतम्)"
+---
+Category: shiva, shatInAmAvalI, nAmAvalI
+Description/comments: Brahmandapurana
+File name: shrIkaNThatrishatInAmAvaliH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 17, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shrikantha Trishati Namavali 300 Names
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: shrIkaNThatrishatInAmAvaliH
+itxtitle: shrIkaNThatrishatInAmAvaliH (brahmANDapurANAntargatam)
+title: श्रीकण्ठत्रिशतीनामावलिः (ब्रह्माण्डपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीकण्ठत्रिशतीनामावलिः   
 ऋषयः ऊचुः --  
@@ -26,7 +26,7 @@ title = "श्रीकण्ठत्रिशतीनामावलिः (
   
 श्रीसूत उवाच --  
 शृणुध्वं मुनयः सर्वे सावधानेन चेतसा ।  
-पुरा संप्रार्थिता गौरी कुमारेण महात्मना ॥ २॥  
+पुरा सम्प्रार्थिता गौरी कुमारेण महात्मना ॥ २॥  
   
 यद्रहस्यमुवाचैतत् पुत्रस्नेहेन संयुता ।  
 तदेवेदं महादेव्या नाम्नां त्रिशतमुत्तमम् ॥ ३॥  

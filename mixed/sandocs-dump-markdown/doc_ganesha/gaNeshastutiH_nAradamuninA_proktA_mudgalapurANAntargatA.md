@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ganesha Stuti by Naradamuni"
-"File name" = "gaNeshastutiHnAradamuninA.itx"
-itxtitle = "gaNeshastutiH nAradamuninA proktA (mudgalapurANAntargatA)"
-engtitle = "gaNeshastutiH nAradamuninA proktA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan"
-"Proofread by" = "Ajit Krishnan, PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 2, Adhyaya 3"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "गणेशस्तुतिः नारदमुनिना प्रोक्ता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 2, Adhyaya 3
+File name: gaNeshastutiHnAradamuninA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: Ajit Krishnan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha Stuti by Naradamuni
+Transliterated by: Ajit Krishnan
+engtitle: gaNeshastutiH nAradamuninA proktA
+itxtitle: gaNeshastutiH nAradamuninA proktA (mudgalapurANAntargatA)
+title: गणेशस्तुतिः नारदमुनिना प्रोक्ता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  गणेशस्तुतिः नारदमुनिना प्रोक्ता   
 नारद उवाच -  

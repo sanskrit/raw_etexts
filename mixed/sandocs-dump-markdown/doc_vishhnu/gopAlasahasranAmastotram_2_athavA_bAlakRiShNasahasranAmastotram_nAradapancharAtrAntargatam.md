@@ -1,24 +1,24 @@
-+++
-"Text title" = "gopAlasahasranAmastotram 2"
-"File name" = "gopAlasahasranAmastotra2.itx"
-itxtitle = "gopAlasahasranAmastotram 2 athavA bAlakRiShNasahasranAmastotram (nAradapancharAtrAntargatam)"
-engtitle = "gopAlasahasranAmastotram 2"
-Category = "sahasranAma, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, help from Alex"
-"Proofread by" = "DPD, NA"
-Description-comments = "jnAnAmRitasAre chaturtharAtre aShTamo.adhyAyaH"
-Indexextra = "(Naradapancharatra)"
-"Latest update" = "February 19. 2015, July 3, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपालसहस्रनामस्तोत्रम् २ अथवा बालकृइष्णसहस्रनामस्तोत्रम् (नारदपञ्चरात्रान्तर्गतम्)"
+---
+Category: sahasranAma, vishhnu, krishna, vishnu
+Description-comments: jnAnAmRitasAre chaturtharAtre aShTamo.adhyAyaH
+File name: gopAlasahasranAmastotra2.itx
+Indexextra: (Naradapancharatra)
+Language: Sanskrit
+Latest update: February 19. 2015, July 3, 2016
+Location: doc_vishhnu
+Proofread by: DPD, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopAlasahasranAmastotram 2
+Transliterated by: DPD, help from Alex
+engtitle: gopAlasahasranAmastotram 2
+itxtitle: gopAlasahasranAmastotram 2 athavA bAlakRiShNasahasranAmastotram (nAradapancharAtrAntargatam)
+title: गोपालसहस्रनामस्तोत्रम् २ अथवा बालकृइष्णसहस्रनामस्तोत्रम् (नारदपञ्चरात्रान्तर्गतम्)
 
-+++
+---
   
  श्रीगोपालसहस्रनामस्तोत्रम् २ अथवा बालकृष्णसहस्रनामस्तोत्रम्   
 नारदपञ्चरात्रे ज्ञानामृतसारे चतुर्थरात्रे अष्टमोऽध्यायः  
@@ -169,7 +169,7 @@ title = "गोपालसहस्रनामस्तोत्रम् २ 
 नदीनदविधाता च नदीनदाविहारकः ।  
 सिन्धुः सिन्धुप्रियोदान्तः शान्तः कान्तः कलानिधिः ॥ ४५॥  
   
-संन्यासकृत्सतां भर्ता साधूच्छिष्टकृताशनः ।  
+सन्न्यासकृत्सतां भर्ता साधूच्छिष्टकृताशनः ।  
 साधुप्रियः साधुगम्यो साध्वाचारनिषेवकः ॥ ४६॥  
   
 जन्मकर्मफलत्यागी योगी भोगी मृगीपतिः ।  

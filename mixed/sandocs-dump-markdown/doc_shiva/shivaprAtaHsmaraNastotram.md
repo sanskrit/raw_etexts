@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivapraataHsmaraNastotram"
-"File name" = "shivaprata.itx"
-itxtitle = "shivaprAtaHsmaraNastotram"
-engtitle = "shivaprAtaHsmaraNastotram"
-Category = "suprabhAta, shiva, shrIdhara-venkaTesha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sri Sridhara Venkatesa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dhrup Chand (dchand at concentric.net)"
-"Proofread by" = "Rama Swamy, CVS Rao rao.cvs at gmail.com, PSA Easwaran"
-"Latest update" = "July 2, 2011, December 31, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवप्रातःस्मरणस्तोत्रम्"
+---
+Author: Sri Sridhara Venkatesa
+Category: suprabhAta, shiva, shrIdhara-venkaTesha
+File name: shivaprata.itx
+Language: Sanskrit
+Latest update: July 2, 2011, December 31, 2016
+Location: doc_shiva
+Proofread by: Rama Swamy, CVS Rao rao.cvs at gmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivapraataHsmaraNastotram
+Transliterated by: Dhrup Chand (dchand at concentric.net)
+engtitle: shivaprAtaHsmaraNastotram
+itxtitle: shivaprAtaHsmaraNastotram
+title: शिवप्रातःस्मरणस्तोत्रम्
 
-+++
+---
   
  श्रीशिवप्रातःस्मरणस्तोत्रम्   
   

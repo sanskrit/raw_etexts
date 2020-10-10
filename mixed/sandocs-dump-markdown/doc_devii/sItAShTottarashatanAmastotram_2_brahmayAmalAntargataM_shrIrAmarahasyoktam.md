@@ -1,23 +1,23 @@
-+++
-"Text title" = "sItAShTottarashatanAmastotram 2"
-"File name" = "sItAShTottarashatanAmastotram2.itx"
-itxtitle = "sItAShTottarashatanAmastotram 2 (brahmayAmalAntargataM shrIrAmarahasyoktam)"
-engtitle = "sItAShTottarashatanAmastotram 2"
-Category = "devii, aShTottarashatanAma, sItA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sItA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "brahmayAmala shrIrAmarahasya"
-Indexextra = "(VSM 1, Scan)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीताष्टोत्तरशतनामस्तोत्रम् २ (ब्रह्मयामलान्तर्गतं श्रीरामरहस्योक्तम्)"
+---
+Category: devii, aShTottarashatanAma, sItA
+Description/comments: brahmayAmala shrIrAmarahasya
+File name: sItAShTottarashatanAmastotram2.itx
+Indexextra: (VSM 1, Scan)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sItA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sItAShTottarashatanAmastotram 2
+engtitle: sItAShTottarashatanAmastotram 2
+itxtitle: sItAShTottarashatanAmastotram 2 (brahmayAmalAntargataM shrIrAmarahasyoktam)
+title: सीताष्टोत्तरशतनामस्तोत्रम् २ (ब्रह्मयामलान्तर्गतं श्रीरामरहस्योक्तम्)
 
-+++
+---
   
  सीताष्टोत्तरशतनामस्तोत्रम् २   
 सीता सीरध्वजसुता सीमातीतगुणोज्ज्वला ।  

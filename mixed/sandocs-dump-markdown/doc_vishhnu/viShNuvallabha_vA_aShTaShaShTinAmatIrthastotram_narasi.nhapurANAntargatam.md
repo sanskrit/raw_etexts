@@ -1,25 +1,25 @@
-+++
-"Text title" = "Vishnuvallabhastotra or Sixtysix Vishnu Names and Sacred places"
-"File name" = "viShNuvallabhAShTaShaShTinAmatIrthastotra.itx"
-itxtitle = "viShNuvallabha vA aShTaShaShTinAmatIrthastotram (narasi.nhapurANAntargatam)"
-engtitle = "Vishnuvallabhastotra or Sixtysix Vishnu Names and Sacred places"
-Category = "vishhnu, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 65."
-Indexextra = "(narasi.nhapurANa)"
-"Latest update" = "June 29, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुवल्लभ वा अष्टषष्टिनामतीर्थस्तोत्रम् (नरसिंहपुराणान्तर्गतम्)"
+---
+Category: vishhnu, stotra, vishnu
+Description-comments: Narasimhapurana adhyAya 65.
+File name: viShNuvallabhAShTaShaShTinAmatIrthastotra.itx
+Indexextra: (narasi.nhapurANa)
+Language: Sanskrit
+Latest update: June 29, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Vishnuvallabhastotra or Sixtysix Vishnu Names and Sacred places
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: Vishnuvallabhastotra or Sixtysix Vishnu Names and Sacred places
+itxtitle: viShNuvallabha vA aShTaShaShTinAmatIrthastotram (narasi.nhapurANAntargatam)
+title: विष्णुवल्लभ वा अष्टषष्टिनामतीर्थस्तोत्रम् (नरसिंहपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णुवल्लभ अथवा अष्टषष्टिनामतीर्थस्तोत्रं नरसिंहपुराणे   
   

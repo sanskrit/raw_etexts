@@ -1,23 +1,23 @@
-+++
-"Text title" = "indra rachita mahAlakShmI kavacha"
-"File name" = "indramahaalaxmiikavach.itx"
-itxtitle = "mahAlakShmIkavacham"
-engtitle = "mahAlakShmI kavacham"
-Category = "kavacha, devii, lakShmI, vyAsa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "Indra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "June 13, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालक्ष्मीकवचम्"
+---
+Author: Indra
+Category: kavacha, devii, lakShmI, vyAsa, devI
+File name: indramahaalaxmiikavach.itx
+Language: Sanskrit
+Latest update: June 13, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: indra rachita mahAlakShmI kavacha
+Transliterated by: WebD
+engtitle: mahAlakShmI kavacham
+itxtitle: mahAlakShmIkavacham
+title: महालक्ष्मीकवचम्
 
-+++
+---
   
  श्रीमहालक्ष्मीकवचम्   
   
@@ -45,7 +45,7 @@ title = "महालक्ष्मीकवचम्"
 कटिं च पातु वाराही सक्थिनी देवदेवता ।  
 ऊरू नारायणी पातु जानुनी चन्द्रसोदरी ॥ ७॥  
   
-इन्दिरा पातु जंघे मे पादौ भक्तनमस्कृता ।  
+इन्दिरा पातु जङ्घे मे पादौ भक्तनमस्कृता ।  
 नखान् तेजस्विनी पातु सर्वाङ्गं करूणामयी ॥ ८॥  
   
 ब्रह्मणा लोकरक्षार्थं निर्मितं कवचं श्रियः ।  

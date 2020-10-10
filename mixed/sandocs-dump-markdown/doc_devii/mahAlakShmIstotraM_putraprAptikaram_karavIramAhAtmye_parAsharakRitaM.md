@@ -1,24 +1,24 @@
-+++
-"Text title" = "mahAlakShmIstotramputraprAptikaram"
-"File name" = "mahAlakShmIstotramputraprAptikaram.itx"
-itxtitle = "mahAlakShmIstotraM putraprAptikaram (karavIramAhAtmye parAsharakRitaM)"
-engtitle = "mahAlakShmIstotramputraprAptikaram"
-Category = "devii, lakShmI, parAshara, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "Parashara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Karaviramahtmya"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालक्ष्मीस्तोत्रं पुत्रप्राप्तिकरम् (करवीरमाहात्म्ये पराशरकृइतं)"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Author: Parashara
+Category: devii, lakShmI, parAshara, aShTaka, devI
+Description/comments: Karaviramahtmya
+File name: mahAlakShmIstotramputraprAptikaram.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAlakShmIstotramputraprAptikaram
+engtitle: mahAlakShmIstotramputraprAptikaram
+itxtitle: mahAlakShmIstotraM putraprAptikaram (karavIramAhAtmye parAsharakRitaM)
+title: महालक्ष्मीस्तोत्रं पुत्रप्राप्तिकरम् (करवीरमाहात्म्ये पराशरकृइतं)
 
-+++
+---
   
  पुत्रप्राप्तिकरं श्रीमहालक्ष्मीस्तोत्रम्   
 अनाद्यनन्तरूपां त्वां जननीं सर्वदेहिनाम् ।  

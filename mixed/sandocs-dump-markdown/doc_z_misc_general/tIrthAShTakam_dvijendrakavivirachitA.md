@@ -1,22 +1,22 @@
-+++
-"Text title" = "tIrthAShTakam"
-"File name" = "tIrthAShTakam.itx"
-itxtitle = "tIrthAShTakam (dvijendrakavivirachitA)"
-engtitle = "tIrthAShTakam"
-Category = "misc, aShTaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Kavi Dvijendra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तीर्थाष्टकम् (द्विजेन्द्रकविविरचिता)"
+---
+Author: Kavi Dvijendra
+Category: misc, aShTaka
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: tIrthAShTakam.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: tIrthAShTakam
+engtitle: tIrthAShTakam
+itxtitle: tIrthAShTakam (dvijendrakavivirachitA)
+title: तीर्थाष्टकम् (द्विजेन्द्रकविविरचिता)
 
-+++
+---
   
  तीर्थाष्टकम्   
 मातृतीर्थम्-- नास्ति मातृसमं तीर्थं पुत्राणां तारणाय च ।  

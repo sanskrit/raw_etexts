@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNeshastotram"
-"File name" = "gaNeshastotramsankalita.itx"
-itxtitle = "gaNeshastotram (saNkalita)"
-engtitle = "gaNeshastotram"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Description-comments = "Path Pustakam 1934 Srinagar Kashmir Mercantile Press"
-Indexextra = "(pustakam)"
-"Latest update" = "April 22, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तोत्रम् (सण्कलित)"
+---
+Category: ganesha
+Description-comments: Path Pustakam 1934 Srinagar Kashmir Mercantile Press
+File name: gaNeshastotramsankalita.itx
+Indexextra: (pustakam)
+Language: Sanskrit
+Latest update: April 22, 2018
+Location: doc_ganesha
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshastotram
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: gaNeshastotram
+itxtitle: gaNeshastotram (saNkalita)
+title: गणेशस्तोत्रम् (सण्कलित)
 
-+++
+---
   
  श्रीगणेशस्तोत्रम्   
 सङ्कलित  

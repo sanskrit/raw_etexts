@@ -1,22 +1,22 @@
-+++
-"Text title" = "chandrAShTottarashatanAmastotram"
-"File name" = "chandra108nAmastotra.itx"
-itxtitle = "chandrAShTottarashatanAmastotram"
-engtitle = "chandra aShTottarashatanAma stotram"
-Category = "aShTottarashatanAma, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manda Krishna Srikanth mandaksk at gmail.com"
-"Proofread by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca, PSA Easwaran"
-"Latest update" = "November 19, 2012,  May 26, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्राष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, navagraha, stotra
+File name: chandra108nAmastotra.itx
+Language: Sanskrit
+Latest update: November 19, 2012,  May 26, 2014
+Location: doc_z_misc_navagraha
+Proofread by: KSR Ramachandran ramachandran_ksr at yahoo.ca, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: chandrAShTottarashatanAmastotram
+Texttype: stotra
+Transliterated by: Manda Krishna Srikanth mandaksk at gmail.com
+engtitle: chandra aShTottarashatanAma stotram
+itxtitle: chandrAShTottarashatanAmastotram
+title: चन्द्राष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीचन्द्राष्टोत्तरशतनामस्तोत्रम्   
   
@@ -52,8 +52,8 @@ title = "चन्द्राष्टोत्तरशतनामस्त�
 सकलार्तिहरः सौम्यजनकः साधुवन्दितः ।  
 सर्वागमज्ञः सर्वज्ञो सनकादिमुनिस्तुतः ॥ १०॥  
   
-सितच्छत्रध्वजोपेतः सीतांगो सीतभूषणः ।  
-var  षीतांगो षीतभूषणः  var  पीतांगो पीतभूषणः  
+सितच्छत्रध्वजोपेतः सीताङ्गो सीतभूषणः ।  
+var  षीताङ्गो षीतभूषणः  var  पीताङ्गो पीतभूषणः  
 श्वेतमाल्याम्बरधरः श्वेतगन्धानुलेपनः ॥ ११॥  
   
 दशाश्वरथसंरूढो दण्डपाणिः धनुर्धरः ।  

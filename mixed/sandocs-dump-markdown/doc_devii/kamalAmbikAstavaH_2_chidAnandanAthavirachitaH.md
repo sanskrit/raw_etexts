@@ -1,25 +1,26 @@
-+++
-"Text title" = "kamalAmbikAstava 2"
-"File name" = "kamalAmbikAstava2.itx"
-itxtitle = "kamalAmbikAstavaH 2 (chidAnandanAthavirachitaH)"
-engtitle = "kamalAmbikAstavaH 2"
-Category = "devii, dashamahAvidyA, lalita, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalita"
-Author = "Swami Chidanandanatha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Chandra V Ramani chandravr at gmail.com"
-"Proofread by" = "Chandra V Ramani, PSA Easwaran"
-"Description/comments" = "Kamalaambika is no different from Kamakala, Bhuvaneswari, Chandika or Lalita tripurasundari"
-"Latest update" = "July 11, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कमलाम्बिकास्तवः २ (चिदानन्दनाथविरचितः)"
+---
+Author: Swami Chidanandanatha
+Category: devii, dashamahAvidyA, lalita, devI
+Description/comments: Kamalaambika is no different from Kamakala, Bhuvaneswari, Chandika
+  or Lalita tripurasundari
+File name: kamalAmbikAstava2.itx
+Language: Sanskrit
+Latest update: July 11, 2017
+Location: doc_devii
+Proofread by: Chandra V Ramani, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subcategory: lalita
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kamalAmbikAstava 2
+Transliterated by: Chandra V Ramani chandravr at gmail.com
+engtitle: kamalAmbikAstavaH 2
+itxtitle: kamalAmbikAstavaH 2 (chidAnandanAthavirachitaH)
+title: कमलाम्बिकास्तवः २ (चिदानन्दनाथविरचितः)
 
-+++
+---
   
  कमलाम्बिकास्तवः २   
   

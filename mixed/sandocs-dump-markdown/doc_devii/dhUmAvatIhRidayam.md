@@ -1,23 +1,23 @@
-+++
-"Text title" = "dhUmAvatIhRidayam"
-"File name" = "dhUmAvatIhRidayam.itx"
-itxtitle = "dhUmAvatIhRidayam"
-engtitle = "dhUmAvatIhRidayam"
-Category = "hRidaya, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-Description-comments = "In shAktapramoda and mantramahArNava madhyakhaNda"
-"Latest update" = "March 29, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धूमावतीहृइदयम्"
+---
+Category: hRidaya, devii, dashamahAvidyA, devI
+Description-comments: In shAktapramoda and mantramahArNava madhyakhaNda
+File name: dhUmAvatIhRidayam.itx
+Language: Sanskrit
+Latest update: March 29, 2017
+Location: doc_devii
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dhUmAvatIhRidayam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: dhUmAvatIhRidayam
+itxtitle: dhUmAvatIhRidayam
+title: धूमावतीहृइदयम्
 
-+++
+---
   
  श्रीधूमावतीहृदयम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Vasavi Kanyaka Parameshvari Ashtottara Shata Namavali (3) 108 names"
-"File name" = "vAsavIkanyakAparameshvaryaShTottarashatanAmAvalI3.itx"
-itxtitle = "vAsavIkanyakAparameshvaryaShTottarashatanAmAvaliH 3 (amalAyai)"
-engtitle = "vAsavIkanyakAparameshvaryaShTottarashatanAmAvalI 3"
-Category = "devii, aShTottarashatanAmAvalI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "page 37 Sri Vasavi Devi Divyakatha"
-Indexextra = "(Info 1, 2, 3)"
-"Latest update" = "May 31, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामावलिः ३ (अमलायै)"
+---
+Category: devii, aShTottarashatanAmAvalI, nAmAvalI, devI
+Description/comments: page 37 Sri Vasavi Devi Divyakatha
+File name: vAsavIkanyakAparameshvaryaShTottarashatanAmAvalI3.itx
+Indexextra: (Info 1, 2, 3)
+Language: Sanskrit
+Latest update: May 31, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vasavi Kanyaka Parameshvari Ashtottara Shata Namavali (3) 108 names
+engtitle: vAsavIkanyakAparameshvaryaShTottarashatanAmAvalI 3
+itxtitle: vAsavIkanyakAparameshvaryaShTottarashatanAmAvaliH 3 (amalAyai)
+title: वासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामावलिः ३ (अमलायै)
 
-+++
+---
   
  श्रीवासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामावलिः ३   
 ॐ अमलायै नमः ।  
@@ -34,7 +34,7 @@ title = "वासवीकन्यकापरमेश्वर्यष्�
 ॐ आश्रितवत्सलायै नमः ।  
 ॐ आश्रीतार्चितायै नमः ।  
 ॐ इहपरानन्ददायिन्यै नमः ।  
-ॐ ह्रींकाररूपिण्यै नमः ।  
+ॐ ह्रीङ्काररूपिण्यै नमः ।  
 ॐ ईतिबाधानिवारिण्यै नमः ।  
 ॐ ईश्वर्यै नमः ।  
 ॐ ऊरुजान्वयपोषणायै नमः ।  

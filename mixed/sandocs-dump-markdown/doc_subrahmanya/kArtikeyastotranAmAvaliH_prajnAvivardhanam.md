@@ -1,22 +1,22 @@
-+++
-"Text title" = "kArtikeyastotranamavali prajnAvivardhanam"
-"File name" = "prajnAvivardhanamkArtikeyanAmAvaliH.itx"
-itxtitle = "kArtikeyastotranAmAvaliH prajnAvivardhanam"
-engtitle = "kArtikeyastotranamavali prajnAvivardhanam"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "skanda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "rudrayAmala.  See corresponding stotra."
-Indexextra = "(meaning, stotram)"
-"Latest update" = "March 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कार्तिकेयस्तोत्रनामावलिः प्रज्ञाविवर्धनम्"
+---
+Author: skanda
+Category: subrahmanya
+Description-comments: rudrayAmala.  See corresponding stotra.
+File name: prajnAvivardhanamkArtikeyanAmAvaliH.itx
+Indexextra: (meaning, stotram)
+Language: Sanskrit
+Latest update: March 23, 2020
+Location: doc_subrahmanya
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: kArtikeyastotranamavali prajnAvivardhanam
+engtitle: kArtikeyastotranamavali prajnAvivardhanam
+itxtitle: kArtikeyastotranAmAvaliH prajnAvivardhanam
+title: कार्तिकेयस्तोत्रनामावलिः प्रज्ञाविवर्धनम्
 
-+++
+---
   
  प्रज्ञाविवर्धनं कार्तिकेयस्तोत्रनामावलिः   
 ॐ योगीश्वराय नमः । महासेनाय ।  

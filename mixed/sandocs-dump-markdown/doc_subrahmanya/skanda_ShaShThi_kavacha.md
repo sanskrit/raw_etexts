@@ -1,22 +1,23 @@
-+++
-"Text title" = "skanda ShaShThi kavacha"
-"File name" = "skanda-6-kavacha.itx"
-itxtitle = "skanda ShaShThi kavacha"
-engtitle = "skanda ShaShThi kavacha"
-Category = "kavacha, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Sivakumar Thyagarajan"
-"Proofread by" = "Sivakumar Thyagarajan"
-Description-comments = "Transliterated from Tamil for correct pronunciation for non-Tamil readers"
-"Latest update" = "October 17, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्कन्द षष्ठि कवच"
+---
+Category: kavacha, subrahmanya
+Description-comments: Transliterated from Tamil for correct pronunciation for non-Tamil
+  readers
+File name: skanda-6-kavacha.itx
+Language: Sanskrit
+Latest update: October 17, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: skanda ShaShThi kavacha
+Transliterated by: Sivakumar Thyagarajan
+engtitle: skanda ShaShThi kavacha
+itxtitle: skanda ShaShThi kavacha
+title: स्कन्द षष्ठि कवच
 
-+++
+---
   
  स्कन्द षष्ठि कवचम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "sUryamangalastotram"
-"File name" = "sUryamangalastotram.itx"
-itxtitle = "sUryamaNgalastotram"
-engtitle = "sUryamangalastotram"
-Category = "navagraha, mangala"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यमण्गलस्तोत्रम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: navagraha, mangala
+File name: sUryamangalastotram.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryamangalastotram
+engtitle: sUryamangalastotram
+itxtitle: sUryamaNgalastotram
+title: सूर्यमण्गलस्तोत्रम्
 
-+++
+---
   
  श्रीसूर्यमङ्गलस्तोत्रम्   
   

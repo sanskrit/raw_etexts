@@ -1,23 +1,23 @@
-+++
-"Text title" = "shiitalaaShTakam"
-"File name" = "shiitalaashtakam.itx"
-itxtitle = "shItalAShTakam"
-engtitle = "shItalAShTakam"
-Category = "aShTaka, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "puraaNa"
-"Transliterated by" = "Michael Magee ac70 at cityscape.co.uk"
-"Proofread by" = "Mike Magee ac70 at cityscape.co.uk, Karthik Raman karthik.raman at gmail.com"
-Description-comments = "ShiitalaaShTakam.h"
-"Latest update" = "Dec. 20, 1997, October 27, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शीतलाष्टकम्"
+---
+Category: aShTaka, devii, otherforms, devI
+Description-comments: ShiitalaaShTakam.h
+File name: shiitalaashtakam.itx
+Language: Sanskrit
+Latest update: Dec. 20, 1997, October 27, 2007
+Location: doc_devii
+Proofread by: Mike Magee ac70 at cityscape.co.uk, Karthik Raman karthik.raman at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: puraaNa
+Sublocation: devii
+Text title: shiitalaaShTakam
+Transliterated by: Michael Magee ac70 at cityscape.co.uk
+engtitle: shItalAShTakam
+itxtitle: shItalAShTakam
+title: शीतलाष्टकम्
 
-+++
+---
   
  शीतलाष्टकं   
   

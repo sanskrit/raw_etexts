@@ -1,22 +1,22 @@
-+++
-"Text title" = "suvarNamaalaa stutiH"
-"File name" = "suvarNamaalaa.itx"
-itxtitle = "suvarNamAlAstutiH"
-engtitle = "suvarNamAlAstutiH"
-Category = "varNamAlA, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subramanian Ganesh sgesh at hotmail.com, NA"
-"Proofread by" = "NA"
-"Latest update" = "March 15, 2001, March 6, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुवर्णमालास्तुतिः"
+---
+Author: Traditional
+Category: varNamAlA, shiva
+File name: suvarNamaalaa.itx
+Language: Sanskrit
+Latest update: March 15, 2001, March 6, 2014
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: suvarNamaalaa stutiH
+Transliterated by: Subramanian Ganesh sgesh at hotmail.com, NA
+engtitle: suvarNamAlAstutiH
+itxtitle: suvarNamAlAstutiH
+title: सुवर्णमालास्तुतिः
 
-+++
+---
   
  सुवर्णमालास्तुती   
   
@@ -29,9 +29,9 @@ title = "सुवर्णमालास्तुतिः"
 ऊरीकुरु मामज्ञमनाथं दूरीकुरु मे दुरितं भो । साम्ब० ॥ ६  
 ऋषिवरमानसहंस चराचरजननस्थितिलयकारण भो । साम्ब० ॥ ७  
 ॠक्षाधीशकिरीट महोक्षारूढ विधृतरुद्राक्ष विभो । साम्ब० ॥ ८  
-लृवर्णद्वन्द्वमवृंतसुकुसुममिवाङ्घ्रौ तवार्पयामि विभो । साम्ब० ॥ ९   
+लृवर्णद्वन्द्वमवृन्तसुकुसुममिवाङ्घ्रौ तवार्पयामि विभो । साम्ब० ॥ ९   
 एकं सदिति श्रुत्या त्वमेव सदसीत्युपास्महे मृड भो । साम्ब० ॥ १०  
-ऐक्यं निजभक्त्येभ्यो वितरसि विश्वंभरोऽत्र साक्षी भो । साम्ब० ॥ ११  
+ऐक्यं निजभक्त्येभ्यो वितरसि विश्वम्भरोऽत्र साक्षी भो । साम्ब० ॥ ११  
 ओमिति तव निर्देष्ट्री मायाऽस्माकं मृडोपकर्त्री भो । साम्ब० ॥ १२  
 औदास्यं स्फुटयति विषयेषु दिगम्बरता च तवैव विभो । साम्ब० ॥ १३  
 अन्तःकरणविशुद्धिं भक्तिं च त्वयि सतीं प्रदेहि विभो । साम्ब० ॥ १४  

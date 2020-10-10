@@ -1,21 +1,24 @@
-+++
-"Text title" = "jAyanteyagItA shrImadbhAgavatAntargatam"
-"File name" = "jAyanteyagiitaa.itx"
-itxtitle = "jAyanteyagItA (shrImadbhAgavatAntargatA)"
-engtitle = "Jyanteya Gita from Shrimad Bhagavata"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion  Conversation between nImI of videhas and navayogI (nine sons of RRishabha)  kavi, hari, antarikSha, prabuddha, pippalAyana, AvirhortA, drumila, chamasa  and karabhAjana. Available translation by P. Narayanaswami Iyer at Samskrita  Academy, Chennai."
-Description-comments = "Bhagavata Purana sknadha 11 adhyAya 2-5"
-Indexextra = "(Book 11 of Shrimad Bhagavatam, Chapters 2 to 5 (Needs proofreading))"
-"Latest update" = "February 15, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जायन्तेयगीता (श्रीमद्भागवतान्तर्गता)"
+---
+Category: gItA, giitaa
+Description-comments: Bhagavata Purana sknadha 11 adhyAya 2-5
+File name: jAyanteyagiitaa.itx
+Indexextra: (Book 11 of Shrimad Bhagavatam, Chapters 2 to 5 (Needs proofreading))
+Language: Sanskrit
+Latest update: February 15, 2013
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion  Conversation between nImI of videhas and navayogI
+  (nine sons of RRishabha)  kavi, hari, antarikSha, prabuddha, pippalAyana, AvirhortA,
+  drumila, chamasa  and karabhAjana. Available translation by P. Narayanaswami Iyer
+  at Samskrita  Academy, Chennai.
+Sublocation: giitaa
+Text title: jAyanteyagItA shrImadbhAgavatAntargatam
+engtitle: Jyanteya Gita from Shrimad Bhagavata
+itxtitle: jAyanteyagItA (shrImadbhAgavatAntargatA)
+title: जायन्तेयगीता (श्रीमद्भागवतान्तर्गता)
 
-+++
+---
   
  जायन्तेयगीता श्रीमद्भागवतान्तर्गतम्   
   
@@ -181,7 +184,7 @@ title = "जायन्तेयगीता (श्रीमद्भागव
 वासुदेवैकनिलयः स वै भागवतोत्तमः ॥ ११.२.५०॥  
   
 न यस्य जन्मकर्मभ्यां न वर्णाश्रमजातिभिः ।  
-सज्जतेऽस्मिन्नहंभावो देहे वै स हरेः प्रियः ॥ ११.२.५१॥  
+सज्जतेऽस्मिन्नहम्भावो देहे वै स हरेः प्रियः ॥ ११.२.५१॥  
   
 न यस्य स्वः पर इति वित्तेष्वात्मनि वा भिदा ।  
 सर्वभूतसमः शान्तः स वै भागवतोत्तमः ॥ ११.२.५२॥  
@@ -275,7 +278,7 @@ title = "जायन्तेयगीता (श्रीमद्भागव
 दयां मैत्रीं प्रश्रयं च भूतेष्वद्धा यथोचितम् ॥ ११.३.२३॥  
   
 शौचं तपस्तितिक्षां च मौनं स्वाध्यायमार्जवम् ।  
-ब्रह्मचर्यमहिंसां च समत्वं द्वन्द्वसंज्ञयोः ॥ ११.३.२४॥  
+ब्रह्मचर्यमहिंसां च समत्वं द्वन्द्वसञ्ज्ञयोः ॥ ११.३.२४॥  
   
 सर्वत्रात्मेश्वरान्वीक्षां कैवल्यमनिकेतताम् ।  
 विविक्तचीरवसनं सन्तोषं येन केनचित् ॥ ११.३.२५॥  

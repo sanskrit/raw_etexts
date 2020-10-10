@@ -1,24 +1,26 @@
-+++
-"Text title" = "shivasankalpopaniShat"
-"File name" = "shivasankalpopanishad.itx"
-itxtitle = "shivasaNkalpopaniShat"
-engtitle = "shivasaMkalpopaniShat"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sharad Chandarana kandarp12003 at yahoo.com"
-"Proofread by" = "Sharad Chandarana kandarp12003 at yahoo.com"
-Description-comments = "Shivsankalpa Upanishad consists of the first six mantras of Chapter 34 of  Shukla Yajurved (just as the Isahvasya Upanishad is the entire 40th chapter of Shukla Yajurved)."
-"Latest update" = "January 31, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसण्कल्पोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, svara, upanishad
+Description-comments: Shivsankalpa Upanishad consists of the first six mantras of
+  Chapter 34 of  Shukla Yajurved (just as the Isahvasya Upanishad is the entire 40th
+  chapter of Shukla Yajurved).
+File name: shivasankalpopanishad.itx
+Language: Sanskrit
+Latest update: January 31, 2005
+Location: doc_upanishhat
+Proofread by: Sharad Chandarana kandarp12003 at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: shivasankalpopaniShat
+Texttype: svara
+Transliterated by: Sharad Chandarana kandarp12003 at yahoo.com
+engtitle: shivasaMkalpopaniShat
+itxtitle: shivasaNkalpopaniShat
+title: शिवसण्कल्पोपनिषत्
 
-+++
+---
   
  श्रीशिवसङ्कल्पोपनिषत्   
 यज्जाग्र॑तो दू॒रमु॒दैति॒ दैवं॒ तदु॑ सु॒प्तस्य॒ तथै॒वैति॑  ।  
@@ -28,7 +30,7 @@ title = "शिवसण्कल्पोपनिषत्"
 यद॑पू॒र्वं य॒क्षम॒न्तः प्र॒जानां॒ तन्मे॒ मनः॑ शि॒वसं॑कल्पमस्तु ॥ २॥  
   
 यत्प्र॒ज्ञान॑मु॒त चेतो॒ धृति॑श्च॒ यज्ज्योति॑र॒न्तर॒मृतं॑ प्र॒जासु॑ ।  
-यस्मा॒न्न ऋ॒ते किंच॒ न कर्म॑ क्रि॒यते॒ तन्मे॒ मनः॑ शि॒वसं॑कल्पमस्तु ॥ ३॥  
+यस्मा॒न्न ऋ॒ते किञ्च॒ न कर्म॑ क्रि॒यते॒ तन्मे॒ मनः॑ शि॒वसं॑कल्पमस्तु ॥ ३॥  
   
 येने॒दं भू॒तं भुव॑नं भवि॒ष्यत् परि॑गृहीतम॒मृते॑न॒ सर्व॑म् ।  
 येन॑ य॒ज्ञस्ता॒यते॑ स॒प्तहो॑ता॒ तन्मे॒ मनः॑ शि॒वसं॑कल्पमस्तु ॥ ४॥  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "prahlAdakRitaM gaNeshastotra"
-"File name" = "prahlAdakRitagaNeshastotra.itx"
-itxtitle = "gaNeshastotram (prahlAdakRitam)"
-engtitle = "prahlAdakRitaM gaNeshastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Prahlad"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Available at webdunia.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "source mudgalapurANa"
-"Latest update" = "April 23, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तोत्रम् (प्रह्लादकृइतम्)"
+---
+Author: Prahlad
+Category: ganesha, stotra
+Description-comments: source mudgalapurANa
+File name: prahlAdakRitagaNeshastotra.itx
+Language: Sanskrit
+Latest update: April 23, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: ganesha
+Text title: prahlAdakRitaM gaNeshastotra
+Texttype: stotra
+Transliterated by: Available at webdunia.com
+engtitle: prahlAdakRitaM gaNeshastotram
+itxtitle: gaNeshastotram (prahlAdakRitam)
+title: गणेशस्तोत्रम् (प्रह्लादकृइतम्)
 
-+++
+---
   
  श्रीगणेशस्तोत्रं प्रह्लादकृतम्   
   
@@ -53,7 +53,7 @@ title = "गणेशस्तोत्रम् (प्रह्लादकृ
 एकाग्रमष्टधा चित्तं तदेवैकात्मधारकम् ।  
 सम्प्रज्ञात समाधिस्थम् जानीहि साधुसत्तम ॥ १०॥  
   
-निरोधसंज्ञितं चित्तं निवृत्तिरूपधारकम् ।  
+निरोधसञ्ज्ञितं चित्तं निवृत्तिरूपधारकम् ।  
 असम्प्रज्ञातयोगस्थं जानीहि योगसेवया ॥ ११॥  
   
 सिद्धिर्नानाविधा प्रोक्ता भ्रान्तिदा तत्र सम्मता ।  
@@ -63,7 +63,7 @@ title = "गणेशस्तोत्रम् (प्रह्लादकृ
 सिद्ध्यर्थं सर्वलोकाश्च भ्रमयुक्ता भवन्त्यतः ॥ १३॥  
   
 धर्मा-ऽर्थ-काम-मोक्षाणां सिद्धिर्भिन्ना प्रकीर्तिता ।  
-ब्रह्मभूतकरी सिद्धिस्त्यक्तव्या पंचधा सदा ॥ १४॥  
+ब्रह्मभूतकरी सिद्धिस्त्यक्तव्या पञ्चधा सदा ॥ १४॥  
   
 मोहदा सिद्धिरत्यन्तमोहधारकतां गता ।  
 बुद्धिश्चैव स सर्वत्र ताभ्यां खेलति विघ्नपः ॥ १५॥  
@@ -96,7 +96,7 @@ title = "गणेशस्तोत्रम् (प्रह्लादकृ
 शान्तिं प्राप्तो गणेशेनैकभावोऽभवतत्परः ॥ २४॥  
   
 शापश्चैव गणेशेन प्रह्लादस्य निराकृतः ।  
-न पुनर्दुष्टसंगेन भ्रान्तोऽभून्मयि मानद!॥ २५॥  
+न पुनर्दुष्टसङ्गेन भ्रान्तोऽभून्मयि मानद!॥ २५॥  
   
 एवं मदं परित्यज ह्येकदन्तसमाश्रयात् ।  
 असुरोऽपि महायोगी प्रह्लादः स बभूव ह ॥ २६॥  

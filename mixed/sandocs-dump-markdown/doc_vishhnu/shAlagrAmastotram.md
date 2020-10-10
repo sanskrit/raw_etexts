@@ -1,30 +1,30 @@
-+++
-"Text title" = "shAlagrAmastotram"
-"File name" = "shAlagrAmastotram.itx"
-itxtitle = "shAlagrAmastotram"
-engtitle = "Shalagrama Stotram"
-Category = "vishhnu, vishnu_misc, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, Nat Natarajan"
-Description-comments = "bhaviShyottarapurANa (mispronounced as shAligrAma)"
-"Latest update" = "December 22, 2004, July 5, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शालग्रामस्तोत्रम्"
+---
+Author: Traditional
+Category: vishhnu, vishnu_misc, stotra, vishnu
+Description-comments: bhaviShyottarapurANa (mispronounced as shAligrAma)
+File name: shAlagrAmastotram.itx
+Language: Sanskrit
+Latest update: December 22, 2004, July 5, 2018
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, Nat Natarajan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shAlagrAmastotram
+Texttype: stotra
+engtitle: Shalagrama Stotram
+itxtitle: shAlagrAmastotram
+title: शालग्रामस्तोत्रम्
 
-+++
+---
   
  शालग्रामस्तोत्रम्   
   
 श्रीरामं सह लक्ष्मणं सकरुणं सीतान्वितं सात्त्विकं  
     वैदेहीमुखपद्मलुब्धमधुपं पौलस्त्वसंहारिणम् ।  
-वन्दे वन्द्यपदांबुजं सुरवरं भक्तानुकंपाकरं  
+वन्दे वन्द्यपदाम्बुजं सुरवरं भक्तानुकम्पाकरं  
     शत्रुघेन हनूमता च भरतेनासेवितं राघवम् ॥ १॥  
   
 जयति जनकपुत्री लोकभर्त्री नितान्तं  

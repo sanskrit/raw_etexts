@@ -1,22 +1,22 @@
-+++
-"Text title" = "gAyatrIkavacham 3"
-"File name" = "gAyatrIkavacham3.itx"
-itxtitle = "gAyatrIkavacham 3 (rudrayAmalAntargatam)"
-engtitle = "gAyatrIkavacham 3"
-Category = "kavacha, devii, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "February 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीकवचम् ३ (रुद्रयामलान्तर्गतम्)"
+---
+Category: kavacha, devii, gAyatrI, devI
+File name: gAyatrIkavacham3.itx
+Language: Sanskrit
+Latest update: February 4, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrIkavacham 3
+Transliterated by: NA
+engtitle: gAyatrIkavacham 3
+itxtitle: gAyatrIkavacham 3 (rudrayAmalAntargatam)
+title: गायत्रीकवचम् ३ (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  गायत्रीकवचम् ३   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "gokuleshAShTakam"
-"File name" = "gokuleshAShTakam.itx"
-itxtitle = "gokuleshAShTakam (raghunAthaprabhuvirachitam)"
-engtitle = "gokuleshAShTakam"
-Category = "aShTaka, vishhnu, krishna, vishnu, puShTimArgIya, raghunAthajI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Raghunathaji"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "May 17, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोकुलेशाष्टकम् (रघुनाथप्रभुविरचितम्)"
+---
+Author: Raghunathaji
+Category: aShTaka, vishhnu, krishna, vishnu, puShTimArgIya, raghunAthajI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: gokuleshAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: May 17, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gokuleshAShTakam
+engtitle: gokuleshAShTakam
+itxtitle: gokuleshAShTakam (raghunAthaprabhuvirachitam)
+title: गोकुलेशाष्टकम् (रघुनाथप्रभुविरचितम्)
 
-+++
+---
   
  श्रीगोकुलेशाष्टकम्   
   

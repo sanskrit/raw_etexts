@@ -1,22 +1,22 @@
-+++
-"Text title" = "Vastupurusha Namavali 54 Names"
-"File name" = "vAstupuruShanAmAvaliH.itx"
-itxtitle = "vAstupuruShanAmAvaliH"
-engtitle = "vAstupuruShanAmAvaliH"
-Category = "deities_misc, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Pandit Shri Rama Ramanuja Acharya, srimatham.com"
-"Latest update" = "June 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वास्तुपुरुषनामावलिः"
+---
+Acknowledge-Permission: Pandit Shri Rama Ramanuja Acharya, srimatham.com
+Category: deities_misc, aShTottarashatanAmAvalI, nAmAvalI
+File name: vAstupuruShanAmAvaliH.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: June 22, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Vastupurusha Namavali 54 Names
+engtitle: vAstupuruShanAmAvaliH
+itxtitle: vAstupuruShanAmAvaliH
+title: वास्तुपुरुषनामावलिः
 
-+++
+---
   
  वास्तुपुरुषनामावलिः   
 ॐ वास्तु पुरुषाय नमः । महाकायाय । कृष्णाङ्गाय । अरुणाक्षाय ।  

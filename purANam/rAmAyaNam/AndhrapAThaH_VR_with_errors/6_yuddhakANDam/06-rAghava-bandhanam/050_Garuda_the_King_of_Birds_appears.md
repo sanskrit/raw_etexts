@@ -3,7 +3,6 @@ title: 050 Garuda the King of Birds appears
 title_english: 050 Garuda the King of Birds appears
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-050-Garuda_the_King_of_Birds_appears_0.mp3"></div>
 
 अथ उवाच महा तेजा हरि राजो महा बलः ।  

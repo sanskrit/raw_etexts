@@ -1,24 +1,25 @@
-+++
-"Text title" = "rAmadhAmastavaH"
-"File name" = "rAmadhAmastavaH.itx"
-itxtitle = "rAmadhAmastavaH (tArakabrahmAnandsarasvatIvirachitaH)"
-engtitle = "rAmadhAmastavaH"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "tArakabrahmAnandsarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.S.Venkata Subramanian venkatasubr at gmail.com"
-"Proofread by" = "N.S.Venkata Subramanian, Sunder Hattangadi sunderh at hotmail.com"
-Source = "Sri Rama Dhama Stava, ed. by P.V.Sivarama Dikshitar, Vighneshvara Venkateshvara trust, Madras 1985"
-"Latest update" = "February 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामधामस्तवः (तारकब्रह्मानन्द्सरस्वतीविरचितः)"
+---
+Author: tArakabrahmAnandsarasvatI
+Category: raama
+File name: rAmadhAmastavaH.itx
+Language: Sanskrit
+Latest update: February 9, 2018
+Location: doc_raama
+Proofread by: N.S.Venkata Subramanian, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sri Rama Dhama Stava, ed. by P.V.Sivarama Dikshitar, Vighneshvara Venkateshvara
+  trust, Madras 1985
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmadhAmastavaH
+Texttype: stotra
+Transliterated by: N.S.Venkata Subramanian venkatasubr at gmail.com
+engtitle: rAmadhAmastavaH
+itxtitle: rAmadhAmastavaH (tArakabrahmAnandsarasvatIvirachitaH)
+title: रामधामस्तवः (तारकब्रह्मानन्द्सरस्वतीविरचितः)
 
-+++
+---
   
  श्रीरामधामस्तवः   
   

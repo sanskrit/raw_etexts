@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivasahasranAmastotram shivarahasyAntargatam navamA.nshe adhyAya 2"
-"File name" = "shivasahasranAmastotramshivarahasya9p2.itx"
-itxtitle = "shivasahasranAmastotram (shivarahasyAntargatam navamAMshe adhyAya 2)"
-engtitle = "shivasahasranAmastotram shivarahasyAntargatam navamA.nshe adhyAya 24"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-Source = "Shivarahasya Navamanshe Chapter 2"
-"Latest update" = "May 19, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसहस्रनामस्तोत्रम् (शिवरहस्यान्तर्गतम् नवमांशे अध्याय २)"
+---
+Category: sahasranAma, shiva
+File name: shivasahasranAmastotramshivarahasya9p2.itx
+Language: Sanskrit
+Latest update: May 19, 2018
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shivarahasya Navamanshe Chapter 2
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivasahasranAmastotram shivarahasyAntargatam navamA.nshe adhyAya 2
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: shivasahasranAmastotram shivarahasyAntargatam navamA.nshe adhyAya 24
+itxtitle: shivasahasranAmastotram (shivarahasyAntargatam navamAMshe adhyAya 2)
+title: शिवसहस्रनामस्तोत्रम् (शिवरहस्यान्तर्गतम् नवमांशे अध्याय २)
 
-+++
+---
   
  श्रीशिवसहस्रनामस्तोत्रं शिवरहस्ये नवमांशे अध्याय २   
   

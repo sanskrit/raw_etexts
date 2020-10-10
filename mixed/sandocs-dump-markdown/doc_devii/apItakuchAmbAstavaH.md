@@ -1,34 +1,34 @@
-+++
-"Text title" = "apItakuchAmbAstavaH"
-"File name" = "apItakuchAmbAstava.itx"
-itxtitle = "apItakuchAmbAstavaH"
-engtitle = "apItakuchA.nbAstavaH"
-Category = "devii, otherforms, appayya-dIkShita, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Author = "Sri Appayya Dixitar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "June 28, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अपीतकुचाम्बास्तवः"
+---
+Author: Sri Appayya Dixitar
+Category: devii, otherforms, appayya-dIkShita, devI
+File name: apItakuchAmbAstava.itx
+Language: Sanskrit
+Latest update: June 28, 2004
+Location: doc_devii
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: apItakuchAmbAstavaH
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: apItakuchA.nbAstavaH
+itxtitle: apItakuchAmbAstavaH
+title: अपीतकुचाम्बास्तवः
 
-+++
+---
   
- अपीतकुचांबास्तवः   
+ अपीतकुचाम्बास्तवः   
   
 ॥ श्री अप्पय्यदीक्षितेन्द्रैः कृतः॥  
   
 आनन्दसिन्धुलहरीममृतांशुमौले-  
 रासेविनाममृत-निर्मित-वर्तिमक्ष्णोः ।  
 आनन्दवल्लिविततेरमृतार्द्रगुच्छं  
-अंब स्मराम्यहमपीतकुचे वपुस्ते ॥ १॥  
+अम्ब स्मराम्यहमपीतकुचे वपुस्ते ॥ १॥  
   
-निर्निद्र-कोकनद-कोमलकान्तमंब-  
+निर्निद्र-कोकनद-कोमलकान्तमम्ब-  
 नित्यं सुधानिकरवर्षि पदं त्वदीयम् ।  
 मूर्छाकरज्वररुजा मम तापितस्य  
 मूर्ध्नि क्षणं सकृदपीतकुचे निधेहि ॥ २॥  
@@ -36,10 +36,10 @@ title = "अपीतकुचाम्बास्तवः"
 शीतांशुकोटि सुषमाशिशिरैः कटाक्षैः  
 अव्याजभूतकरुणारसपूरपूर्णैः ।  
 कर्पूरधूलिमिव दिक्षु समाकिरद्भिः  
-अंब क्षणं स्नपय मामरुणाद्रिमान्ये ॥ ३॥  
+अम्ब क्षणं स्नपय मामरुणाद्रिमान्ये ॥ ३॥  
   
 आविर्भव क्षणमपीतकुचे पुरस्तात्  
-अंब ज्वरेण महता मम तापितस्य ।  
+अम्ब ज्वरेण महता मम तापितस्य ।  
 येन त्वदङ्घ्रिरुचिजाल-सुधाप्रवाहे  
 मग्नस्तदैव तनुतापममुं त्यजेयम् ॥ ४॥  
   
@@ -51,7 +51,7 @@ title = "अपीतकुचाम्बास्तवः"
 कण्ठे विषं विषमुचो भुजगाः कपर्दे  
 पार्श्वे च भूतपतयः प्रमथाश्च भीमाः ।  
 शोणीचलेशमुपसृत्य भजेत को वा  
-न स्यात्तवांब सविधे यदि सन्निधानम् ॥ ६ ॥  
+न स्यात्तवाम्ब सविधे यदि सन्निधानम् ॥ ६ ॥  
   
 शक्तिर्जगज्जननपालन-भञ्जनेषु  
 भोगेषु दिव्यमहिषी तरुणेन्दुमौलेः ।  
@@ -64,7 +64,7 @@ title = "अपीतकुचाम्बास्तवः"
 त्वां ब्रह्मसंविदमपीतकुचे नमामि ॥ ८॥  
   
 ॥ श्री अप्पय्यदीक्षितेन्द्रैः कृतः  
-अपीतकुचांबास्तवः संपूर्णः॥  
+अपीतकुचाम्बास्तवः सम्पूर्णः॥  
   
   
   

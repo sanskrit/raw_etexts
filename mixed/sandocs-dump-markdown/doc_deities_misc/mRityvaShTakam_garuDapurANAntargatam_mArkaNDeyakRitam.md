@@ -1,23 +1,23 @@
-+++
-"Text title" = "mRityvaShTakam"
-"File name" = "mRityvaShTakam.itx"
-itxtitle = "mRityvaShTakam (garuDapurANAntargatam mArkaNDeyakRitam)"
-engtitle = "mRityvaShTakam"
-Category = "aShTaka, deities_misc, vyAsa"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Vyasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "sansknet"
-Source = "shrIgAruDe mahApurANe adhyAya 233 mArkaNDeyakRitaM"
-Indexextra = "(Garuda Purana)"
-"Latest update" = "December 12, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मृइत्य्वष्टकम् (गरुडपुराणान्तर्गतम् मार्कण्डेयकृइतम्)"
+---
+Author: Vyasa
+Category: aShTaka, deities_misc, vyAsa
+File name: mRityvaShTakam.itx
+Indexextra: (Garuda Purana)
+Language: Sanskrit
+Latest update: December 12, 2015
+Location: doc_deities_misc
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrIgAruDe mahApurANe adhyAya 233 mArkaNDeyakRitaM
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: mRityvaShTakam
+Transliterated by: sansknet
+engtitle: mRityvaShTakam
+itxtitle: mRityvaShTakam (garuDapurANAntargatam mArkaNDeyakRitam)
+title: मृइत्य्वष्टकम् (गरुडपुराणान्तर्गतम् मार्कण्डेयकृइतम्)
 
-+++
+---
   
  मृत्य्वष्टकम्   
 गारुडपुराणान्तर्गतम्  

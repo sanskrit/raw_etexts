@@ -1,24 +1,25 @@
-+++
-"Text title" = "mArutistavaH"
-"File name" = "mArutistavaH.itx"
-itxtitle = "mArutistavaH (nityAnandashAstrirachitaH)"
-engtitle = "mArutistavaH"
-Category = "hanumaana"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "Nityananda Shastri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Proofread by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Description/comments" = "Each line of the composition starts from the rAmarakShA kavacha part (shiro me rAghavaH pAtu)"
-Indexextra = "(Scan with Sanskrit Commentary)"
-"Latest update" = "October 21, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मारुतिस्तवः (नित्यानन्दशास्त्रिरचितः)"
+---
+Author: Nityananda Shastri
+Category: hanumaana
+Description/comments: Each line of the composition starts from the rAmarakShA kavacha
+  part (shiro me rAghavaH pAtu)
+File name: mArutistavaH.itx
+Indexextra: (Scan with Sanskrit Commentary)
+Language: Sanskrit
+Latest update: October 21, 2019
+Location: doc_hanumaana
+Proofread by: Shree Devi Kumar shreeshrii at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: mArutistavaH
+Transliterated by: Shree Devi Kumar shreeshrii at gmail.com
+engtitle: mArutistavaH
+itxtitle: mArutistavaH (nityAnandashAstrirachitaH)
+title: मारुतिस्तवः (नित्यानन्दशास्त्रिरचितः)
 
-+++
+---
   
  श्रीमारुतिस्तवः   
 ॥ श्रीमत रामाय नमः ॥  
@@ -226,7 +227,7 @@ title = "मारुतिस्तवः (नित्यानन्दशा
   
 ऊरू प्रताडयत एव हि तस्य वाते  
      रूढप्रसादमवलोक्यत आननाब्जम् ।  
-रत्येति संप्रथित ऋक्षमुखैः सदा स  
+रत्येति सम्प्रथित ऋक्षमुखैः सदा स  
      घूतकृन्निशाटगणमेजयतां मुखेन्दुः ॥ ३३॥  
   
 तथ्यं भवेदजलजो यदि पद्म उद्यद्-  
@@ -274,7 +275,7 @@ title = "मारुतिस्तवः (नित्यानन्दशा
 षट्रपभ्दिरीश्वरपदाम्बुजयोर्यकः प्र-  
      णत्य स्थितोऽलिरिति चाशुगजश्व नागैः ।  
 श्रीमन्मृगारिभिरु केसरिपुत्र इत्यऽ-  
-     दः संप्रधार्य जगृहे स्वत एवमेभिः ॥ ४२॥  
+     दः सम्प्रधार्य जगृहे स्वत एवमेभिः ॥ ४२॥  
   
 पातात्स पावनिरपावनपापपातात्-  
      तुन्नस्वकानिह भवे परिधिन्वितुन्नः ।  

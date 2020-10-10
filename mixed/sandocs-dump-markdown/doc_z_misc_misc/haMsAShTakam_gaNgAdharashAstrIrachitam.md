@@ -1,24 +1,24 @@
-+++
-"Text title" = "haMsAShTakam"
-"File name" = "haMsAShTakam.itx"
-itxtitle = "haMsAShTakam (gaNgAdharashAstrIrachitam)"
-engtitle = "haMsAShTakam"
-Category = "misc, vedanta, ashtaka"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Author = "manavallI shrIgaNgAdharashAstrIrachitaM"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran, Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "From Gambhir Chintan edited by Akhandananda Saraswati"
-Indexextra = "(gambhIra chintana)"
-"Latest update" = "June 24, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हंसाष्टकम् (गण्गाधरशास्त्रीरचितम्)"
+---
+Author: manavallI shrIgaNgAdharashAstrIrachitaM
+Category: misc, vedanta, ashtaka
+Description/comments: From Gambhir Chintan edited by Akhandananda Saraswati
+File name: haMsAShTakam.itx
+Indexextra: (gambhIra chintana)
+Language: Sanskrit
+Latest update: June 24, 2018
+Location: doc_z_misc_misc
+Proofread by: PSA Easwaran, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: haMsAShTakam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: haMsAShTakam
+itxtitle: haMsAShTakam (gaNgAdharashAstrIrachitam)
+title: हंसाष्टकम् (गण्गाधरशास्त्रीरचितम्)
 
-+++
+---
   
  हंसाष्टकम्   
 ब्रह्माहं सत्स्वरूपं चितिसुखमविदन् माययाऽऽक्षिप्यमाणः,  

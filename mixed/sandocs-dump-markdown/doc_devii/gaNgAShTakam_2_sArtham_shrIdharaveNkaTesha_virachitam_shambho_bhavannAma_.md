@@ -1,26 +1,27 @@
-+++
-"Text title" = "ga.ngAShTakam 2"
-"File name" = "gangAShTakam2.itx"
-itxtitle = "gaNgAShTakam 2 (sArtham, shrIdharaveNkaTesha virachitam, shambho bhavannAma )"
-engtitle = "GangAShTakam 2"
-Category = "aShTaka, devii, nadI, shrIdhara-venkaTesha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Shridharavenkatesa of Tiruvisanallur or Ayyaval with respect"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-Indexextra = "(Works)"
-"Latest update" = "November 22, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाष्टकम् २ (सार्थम्, श्रीधरवेण्कटेश विरचितम्, शम्भो भवन्नाम )"
+---
+Author: Shridharavenkatesa of Tiruvisanallur or Ayyaval with respect
+Category: aShTaka, devii, nadI, shrIdhara-venkaTesha, devI
+File name: gangAShTakam2.itx
+Indexextra: (Works)
+Language: Sanskrit
+Latest update: November 22, 2006
+Location: doc_devii
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ga.ngAShTakam 2
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: GangAShTakam 2
+itxtitle: gaNgAShTakam 2 (sArtham, shrIdharaveNkaTesha virachitam, shambho bhavannAma
+  )
+title: गण्गाष्टकम् २ (सार्थम्, श्रीधरवेण्कटेश विरचितम्, शम्भो भवन्नाम )
 
-+++
+---
   
- गंगाष्टकम् २   
+ गङ्गाष्टकम् २   
   
 GANGASHTAKAM by Shri Shridharavenkatesa of  
 Tiruvisanallur respectfully called as Ayyaval.   
@@ -121,7 +122,7 @@ now and then so that she can have His darshan often. She said:
 The verses of Gangashtakam are given below. The translations of the  
 verses given here are not exact.    
   
-शंभो भवन्नाम निरन्तरानुसन्धान भाग्येन भवन्तमेव ।  
+शम्भो भवन्नाम निरन्तरानुसन्धान भाग्येन भवन्तमेव ।  
 यद्येव सर्वत्र तथाऽन्त्यजेऽद्य पश्यत्यहो कोऽत्र कृतोऽपराधः ॥ १॥  
 O Lord Shambhu! I am used to repeating Your name all the time. As  
 a result I am blessed to see You only every where. So, today I  
@@ -169,7 +170,7 @@ the house itself. I do not know any other holy river or waters.
 This being the case, how will I go in search of Ganga?  
   
 नाहं तपस्वी सगरन्ववायः जाने न जहह्नुः चरति क्ववेति ।  
-शंभो! जटाजूटमपावृणुष्वेत्यभ्यर्थने नालमयं वराकः ॥ ७॥  
+शम्भो! जटाजूटमपावृणुष्वेत्यभ्यर्थने नालमयं वराकः ॥ ७॥  
 I am not an ascetic like Bhagiratha nor do  
 I know the whereabouts of the sage Jahnu.  I am not qualified  
 even to pray to You to release Ganga from Your locks.  
@@ -250,7 +251,7 @@ by intense devotion one gets an understanding of the Lord's true
 nature and gets such a right vision. Gita (18-55).   
 भक्त्या मां अभिजानाति यावान्यश्चास्मि तत्त्वतः।   
 Thus a true devotee is able to see the Lord in every being.    
-विद्याविनय-संपन्ने ब्राह्मणे गवि हस्तिनि ।  
+विद्याविनय-सम्पन्ने ब्राह्मणे गवि हस्तिनि ।  
 शुनि चैव श्वपाके च पण्डिताः समदर्शिनः॥  Gita (5-18).  
 He says that a person endowed with wisdom sees the same  
 brahman in a brahmin endowed with wisdom and humility, in a cow, an  
@@ -282,7 +283,7 @@ reciting such stotras daily.  By repeated reading we will understand
 that God is not a Being residing in remote places like Vaikuntha or  
 Kailasa, but He is very intimately avilable in any thing we see or  
 hear about - including our bodies.  This is said in the Narayana Suktam   
-यच्च किंचिज्जगत्सर्वं दृश्यते श्रूयतेऽपि वा ।  
+यच्च किञ्चिज्जगत्सर्वं दृश्यते श्रूयतेऽपि वा ।  
 अन्तर्बहिश्च तत्सर्वं व्याप्य नारायण-स्थितः।   
 Understanding and accepting the facts stated above will cause a great  
 change in our personality and attitude. We will know that we are  
@@ -299,7 +300,7 @@ be calm and enjoyed happiness.  Thus Shridhara's experience teaches
 us an important lesson to be followed in life.  
   
   
-॥ गंगाष्टकम् २  
+॥ गङ्गाष्टकम् २  
 शम्भो भवन्नाम निरन्तरानुसन्धान भाग्येन भवन्तमेव ।  
 यद्येव सर्वत्र तथाऽन्त्यजेऽद्य पश्यत्यहो कोऽत्र कृतोऽपराधः ॥ १॥  
   

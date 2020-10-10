@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Suryadivyakavacha Stotram 5"
-"File name" = "sUryadivyakavachastotram5.itx"
-itxtitle = "sUryakavacham 5 sUryadivyakavachastotram (hiraNyagarbhasaMhitAyAm)"
-engtitle = "sUryakavacham 5 sUryadivyakavachastotram"
-Category = "navagraha, kavacha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "Hiranyagarbha Samhita"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "सूर्यकवचम् ५ सूर्यदिव्यकवचस्तोत्रम् (हिरण्यगर्भसंहितायाम्)"
+---
+Category: navagraha, kavacha
+Description/comments: Hiranyagarbha Samhita
+File name: sUryadivyakavachastotram5.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Shri Suryadivyakavacha Stotram 5
+engtitle: sUryakavacham 5 sUryadivyakavachastotram
+itxtitle: sUryakavacham 5 sUryadivyakavachastotram (hiraNyagarbhasaMhitAyAm)
+title: सूर्यकवचम् ५ सूर्यदिव्यकवचस्तोत्रम् (हिरण्यगर्भसंहितायाम्)
 
-+++
+---
   
  श्रीसूर्यदिव्यकवचस्तोत्रम् ५   
 ॐ अस्य श्रीसूर्यनारायणदिव्यकवचस्तोत्रमहामन्त्रस्य  

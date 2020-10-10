@@ -1,22 +1,22 @@
-+++
-"Text title" = "nRisi.nhAShTottarashatanAmAvalI 4"
-"File name" = "nRisinha108-4.itx"
-itxtitle = "nRisi.nhAShTottarashatanAmAvaliH 4"
-engtitle = "nRisi.nhAShTottarashatanAmAvalI 4"
-Category = "aShTottarashatanAmAvalI, vishhnu, dashAvatAra, nAmAvalI, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easearan psaeaswaran at gmail.com"
-"Latest update" = "July 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहाष्टोत्तरशतनामावलिः ४"
+---
+Category: aShTottarashatanAmAvalI, vishhnu, dashAvatAra, nAmAvalI, vishnu
+File name: nRisinha108-4.itx
+Language: Sanskrit
+Latest update: July 11, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easearan psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nRisi.nhAShTottarashatanAmAvalI 4
+Texttype: nAmAvalI
+engtitle: nRisi.nhAShTottarashatanAmAvalI 4
+itxtitle: nRisi.nhAShTottarashatanAmAvaliH 4
+title: नृइसिंहाष्टोत्तरशतनामावलिः ४
 
-+++
+---
   
  श्रीनृसिंहाष्टोत्तरशतनामावलिः ४   
 ॐ नारसिंहाय नमः ।  

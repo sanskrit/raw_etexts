@@ -1,23 +1,23 @@
-+++
-"Text title" = "kumArastavanAmAvalI"
-"File name" = "kumArastavanAmAvalI.itx"
-itxtitle = "kumArastavanAmAvalI"
-engtitle = "kumArastavanAmAvalI"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran"
-Description-comments = "44 names of Shri Subrahmanya"
-Indexextra = "(text)"
-"Latest update" = "Jult 7, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमारस्तवनामावली"
+---
+Category: subrahmanya
+Description-comments: 44 names of Shri Subrahmanya
+File name: kumArastavanAmAvalI.itx
+Indexextra: (text)
+Language: Sanskrit
+Latest update: Jult 7, 2017
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: kumArastavanAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: kumArastavanAmAvalI
+itxtitle: kumArastavanAmAvalI
+title: कुमारस्तवनामावली
 
-+++
+---
   
  श्रीकुमारस्तवनामावलिः   
   

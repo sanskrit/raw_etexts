@@ -1,24 +1,24 @@
-+++
-"Text title" = "sarveShTapradaM gajAnanastotram"
-"File name" = "sarveShTapradaMgajAnanastotram.itx"
-itxtitle = "gajAnanastotram sarveShTapradam (mudgalamurANAntargatam)"
-engtitle = "sarveShTapradaM gajAnanastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "mudgalapurANe"
-"Latest update" = "September 16, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गजाननस्तोत्रम् सर्वेष्टप्रदम् (मुद्गलमुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: mudgalapurANe
+File name: sarveShTapradaMgajAnanastotram.itx
+Language: Sanskrit
+Latest update: September 16, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: sarveShTapradaM gajAnanastotram
+Texttype: stotra
+Transliterated by: 'Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)'
+engtitle: sarveShTapradaM gajAnanastotram
+itxtitle: gajAnanastotram sarveShTapradam (mudgalamurANAntargatam)
+title: गजाननस्तोत्रम् सर्वेष्टप्रदम् (मुद्गलमुराणान्तर्गतम्)
 
-+++
+---
   
  सर्वेष्टप्रदं गजाननस्तोत्रम्   
   

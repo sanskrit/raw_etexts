@@ -1,21 +1,21 @@
-+++
-"Text title" = "bhagavatIstotram"
-"File name" = "bhagavatIstotram.itx"
-itxtitle = "bhagavatIstotram (yogaAnandavirachitam)"
-engtitle = "bhagavatIstotram"
-Category = "devii, yogAnanda, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Yogananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Latest update" = "December 27, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवतीस्तोत्रम् (योगआनन्दविरचितम्)"
+---
+Author: Yogananda
+Category: devii, yogAnanda, devI
+File name: bhagavatIstotram.itx
+Language: Sanskrit
+Latest update: December 27, 2016
+Location: doc_devii
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhagavatIstotram
+engtitle: bhagavatIstotram
+itxtitle: bhagavatIstotram (yogaAnandavirachitam)
+title: भगवतीस्तोत्रम् (योगआनन्दविरचितम्)
 
-+++
+---
   
  भगवतीस्तोत्रम्   
   

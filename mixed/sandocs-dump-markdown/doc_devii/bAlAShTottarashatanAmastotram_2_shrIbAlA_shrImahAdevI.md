@@ -1,24 +1,24 @@
-+++
-"Text title" = "bAlAShTottarashatanAmastotram 2"
-"File name" = "bAlAShTottarashatanAmastotram2.itx"
-itxtitle = "bAlAShTottarashatanAmastotram 2 (shrIbAlA shrImahAdevI)"
-engtitle = "bAlAShTottarashatanAmastotram 2"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmastotram"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Balasaparya"
-Indexextra = "(Scan)"
-"Latest update" = "August 23, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाष्टोत्तरशतनामस्तोत्रम् २ (श्रीबाला श्रीमहादेवी)"
+---
+Category: aShTottarashatanAma, devii, dashamahAvidyA, devI
+Description-comments: Balasaparya
+File name: bAlAShTottarashatanAmastotram2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 23, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAShTottarashatanAmastotram 2
+Texttype: nAmastotram
+engtitle: bAlAShTottarashatanAmastotram 2
+itxtitle: bAlAShTottarashatanAmastotram 2 (shrIbAlA shrImahAdevI)
+title: बालाष्टोत्तरशतनामस्तोत्रम् २ (श्रीबाला श्रीमहादेवी)
 
-+++
+---
   
  श्रीबालाष्टोत्तरशतनामस्तोत्रम् २   
 श्रीबाला श्रीमहादेवी श्रीमत्पञ्चासनेश्वरी ।  
@@ -54,7 +54,7 @@ title = "बालाष्टोत्तरशतनामस्तोत्�
 सर्वाभरणभूषाढ्या सर्वावयवसुन्दरी ।  
 ऐङ्काररूपा ऐङ्कारी ऐश्वर्यफलदायिनी ॥ ११॥  
   
-क्लींङ्काररूपा क्लीङ्कारी क्लृप्तब्रह्माण्डमण्डला ।  
+क्लीङ्ङ्काररूपा क्लीङ्कारी क्लृप्तब्रह्माण्डमण्डला ।  
 सौःकाररूपा सौः कारी सौन्दर्यगुणसंयुता ॥ १२॥  
   
 सचामररतीन्द्राणी सव्यदक्षिणसेविता ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Rajni Stotram 2"
-"File name" = "rAjnIstotram2.itx"
-itxtitle = "rAjnIstotram 2 (oNkArarUpe.akhilavedasAre)"
-engtitle = "rAjnIstotram 2"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राज्ञीस्तोत्रम् २ (ओण्काररूपेऽखिलवेदसारे)"
+---
+Category: devii, dashamahAvidyA, devI
+File name: rAjnIstotram2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Rajni Stotram 2
+engtitle: rAjnIstotram 2
+itxtitle: rAjnIstotram 2 (oNkArarUpe.akhilavedasAre)
+title: राज्ञीस्तोत्रम् २ (ओण्काररूपेऽखिलवेदसारे)
 
-+++
+---
   
  राज्ञीस्तोत्रम्   
 ओङ्काररूपेऽखिलवेदसारे वेदान्तविज्ञानचणैः प्रगीते ।  

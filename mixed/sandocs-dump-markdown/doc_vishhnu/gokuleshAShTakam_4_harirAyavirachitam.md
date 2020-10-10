@@ -1,24 +1,24 @@
-+++
-"Text title" = "gokuleshAShTakam 4"
-"File name" = "gokuleshAShTakam4.itx"
-itxtitle = "gokuleshAShTakam 4 (harirAyavirachitam)"
-engtitle = "gokuleshAShTakam 4"
-Category = "vishhnu, krishna, puShTimArgIya, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "harirAya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोकुलेशाष्टकम् ४ (हरिरायविरचितम्)"
+---
+Author: harirAya
+Category: vishhnu, krishna, puShTimArgIya, aShTaka
+Description/comments: puShTimArgIya stotraratnAkara
+File name: gokuleshAShTakam4.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gokuleshAShTakam 4
+engtitle: gokuleshAShTakam 4
+itxtitle: gokuleshAShTakam 4 (harirAyavirachitam)
+title: गोकुलेशाष्टकम् ४ (हरिरायविरचितम्)
 
-+++
+---
   
  श्रीगोकुलेशाष्टकम् ४   
   

@@ -1,32 +1,32 @@
-+++
-"Text title" = "bagalAmukhIstotram"
-"File name" = "bagalAmukhIstotram.itx"
-itxtitle = "bagalA(valgA)mukhIstotram"
-engtitle = "bagalA(valgA)mukhIstotram"
-Category = "devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale tantre"
-"Latest update" = "March 31, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बगला(वल्गा)मुखीस्तोत्रम्"
+---
+Author: Traditional
+Category: devii, dashamahAvidyA, stotra, devI
+Description-comments: rudrayAmale tantre
+File name: bagalAmukhIstotram.itx
+Language: Sanskrit
+Latest update: March 31, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bagalAmukhIstotram
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: bagalA(valgA)mukhIstotram
+itxtitle: bagalA(valgA)mukhIstotram
+title: बगला(वल्गा)मुखीस्तोत्रम्
 
-+++
+---
   
  श्रीबगला(वल्गा)मुखीस्तोत्रम्   
   
 श्रीगणेशाय नमः ।  
 चलत्कनककुण्डलोल्लसितचारुगण्डस्थलीं  
 लसत्कनकचम्पकद्युतिमदिन्दुबिम्बाननाम् ।  
-गदाहतविपक्षकां कलितलोलजिह्वांचलां  
+गदाहतविपक्षकां कलितलोलजिह्वाञ्चलां  
 स्मरामि बगलामुखीं विमुखवाङ्मनस्स्तम्भिनीम् ॥ १॥  
   
 पीयूषोदधिमध्यचारुविलद्रक्तोत्पले मण्डपे  
@@ -55,7 +55,7 @@ title = "बगला(वल्गा)मुखीस्तोत्रम्"
 मृत्योर्मारणमाविरस्तु पुरतो मातस्त्वदीयं वपुः ॥ ६॥  
   
 मातर्भञ्जय मद्विपक्षवदनं जिह्वां च सङ्कीलय  
-ब्राह्मीं मुद्रय दैत्यदेवधिषणामुग्रां गतिं स्तंभय ।  
+ब्राह्मीं मुद्रय दैत्यदेवधिषणामुग्रां गतिं स्तम्भय ।  
 शत्रूंश्चूर्णय देवि तीक्ष्णगदया गौराङ्गि पीताम्बरे  
 विघ्नौघं बगले हर प्रणमतां कारुण्यपूर्णेक्षणे ॥ ७॥  
   
@@ -69,7 +69,7 @@ title = "बगला(वल्गा)मुखीस्तोत्रम्"
 वश्ये वा स्तम्भने वा रिपुवधसमये निर्जने वा वने वा  
 गच्छंस्तिष्ठंस्त्रिकालं यदि पठति शिवं प्राप्नुयादाशु धीरः ॥ ९॥  
   
-त्वं विद्या परमा त्रिलोकजननी विघ्नौघसंछेदिनी  
+त्वं विद्या परमा त्रिलोकजननी विघ्नौघसञ्छेदिनी  
 योषित्कर्षणकारिणी जनमनःसम्मोहसन्दायिनी ।  
 स्तम्भोत्सारणकारिणी पशुमनःसम्मोहसन्दायिनी  
 जिह्वाकीलनभैरवी विजयते ब्रह्मादिमन्त्रो यथा ॥ १०॥  

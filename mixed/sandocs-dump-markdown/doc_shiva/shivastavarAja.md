@@ -1,21 +1,21 @@
-+++
-"Text title" = "shivastavarAja"
-"File name" = "shivastavarAja.itx"
-itxtitle = "shivastavarAja"
-engtitle = "shivastavarAja"
-Category = "shiva, stavarAja"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA, Pallasena Narayanaswami"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Latest update" = "December 27, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवस्तवराज"
+---
+Category: shiva, stavarAja
+File name: shivastavarAja.itx
+Language: Sanskrit
+Latest update: December 27, 2016
+Location: doc_shiva
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivastavarAja
+Transliterated by: NA, Pallasena Narayanaswami
+engtitle: shivastavarAja
+itxtitle: shivastavarAja
+title: शिवस्तवराज
 
-+++
+---
   
  शिवस्तवराजः   
   
@@ -28,7 +28,7 @@ title = "शिवस्तवराज"
 प्रणम्य शिरसा भूमौ कृताञ्जलिरभाषत ॥ २॥  
   
 नारद उवाच ।  
-ब्रह्मञ्जगत्पते तात नतोऽस्मि त्वत्पदांबुजम् ।  
+ब्रह्मञ्जगत्पते तात नतोऽस्मि त्वत्पदाम्बुजम् ।  
 कृपया परया देव यत्पृछामि तदुच्यताम् ॥ ३॥  
   
 श्रुतिशास्त्रपुराणानि त्वदास्यात्संश्रुतानि च ।  
@@ -96,7 +96,7 @@ title = "शिवस्तवराज"
 ब्रह्मणा गीयमानं च  विष्णुवन्द्यं मुनिस्तुतम् ॥ २४॥  
   
 ध्यानमेतन्मया ख्यातं सूत वेदान्तशेखरम् ।  
-सर्वपापक्षयकरं जयसंपत्तिवर्धनम् ॥ २५॥  
+सर्वपापक्षयकरं जयसम्पत्तिवर्धनम् ॥ २५॥  
   
 अनेन सदृशं तात नास्ति संसारतारकम्  ।  
 सर्वध्यानादिकं ध्यानं गोपनीयं सुत त्वया ॥ २६॥  
@@ -140,7 +140,7 @@ title = "शिवस्तवराज"
 कामघ्नं  कामदं कान्तं कालमृत्युनिवर्तकम् ।  
 कलावन्तं कलाधीशं  वन्देऽहं गिरिजापतिम् ॥ ३९॥  
   
-परेशं परमं देवं परंब्रह्म  परात्परम् ।  
+परेशं परमं देवं परम्ब्रह्म  परात्परम् ।  
 परपीडाहरं  नित्यं प्रणमामि वृषध्वजम् ॥ ४०॥  
   
 लोकेशं लोकवन्द्यं च लोककर्तारमीश्वरम् ।  
@@ -156,7 +156,7 @@ title = "शिवस्तवराज"
 फणिबद्धजटाजूटं  प्रणमामि सदाशिवम् ॥ ४४॥  
   
 नीलकण्ठं दशभुजं त्र्यक्षं धूम्रविलोचनम् ।  
-दिगंबरं दिशाधीशं नमामि विषभूषणम् ॥ ४५॥  
+दिगम्बरं दिशाधीशं नमामि विषभूषणम् ॥ ४५॥  
   
 मुक्तीशं मुक्तिदं मुक्तं मुक्तगम्यं सनातनम् ।  
 सत्पतिं निर्मलं शम्भुं नतोऽस्मि सकलार्थदम्  ॥ ४६॥  
@@ -231,7 +231,7 @@ title = "शिवस्तवराज"
 त्रिलोकनाथं ऋणबन्धनाशं भजस्व नित्यं प्रणतार्तिनाशम् ॥ ६९॥  
   
 आनन्दमूर्ति सुखकल्पवृक्षं कुमारनाथं विधृतप्रपञ्चम् ।  
-यज्ञादिनाथं परमप्रकाशं नमामि विश्वंभरमीशितारम् ॥ ७०॥  
+यज्ञादिनाथं परमप्रकाशं नमामि विश्वम्भरमीशितारम् ॥ ७०॥  
   
 इत्येवं स्तवमाख्यातं शिवस्य परमात्मनः ।  
 पापक्षयकरं पुत्र सायुज्यमुक्तिदायकम् ॥ ७१॥  
@@ -245,7 +245,7 @@ title = "शिवस्तवराज"
 गोहा स्त्रीबालविप्रादिहन्तान्यत्पापकृत्तथा ।  
 विश्वासधातचारी च खाद्यपेयादिदूषक्रः ॥ ७४॥  
   
-कोटिजन्मार्जितैः पापैरसंख्यातैश्च वेष्टितः ।  
+कोटिजन्मार्जितैः पापैरसङ्ख्यातैश्च वेष्टितः ।  
 अष्टोत्तरशतात्पाठात् शुद्धो भवति निश्चितम् ॥ ७५॥  
   
 महारोगयुतो वापि मृत्युग्रहयुतस्तथा ।  
@@ -262,7 +262,7 @@ title = "शिवस्तवराज"
 पञ्चास्यं फणिराजकङ्कणधरं गङ्गाधरं शूलिनं  
 त्र्यक्षं पापहरं नमामि सततं पद्मासनस्थं शिवम् ॥ ७९॥  
   
-इति श्रीपद्मपुराणे ब्रह्मनारदसंवादे शिवस्तवराजः संपूर्णः ॥  
+इति श्रीपद्मपुराणे ब्रह्मनारदसंवादे शिवस्तवराजः सम्पूर्णः ॥  
   
   
 Proofread by Pallasena Narayanaswami ppnswami at gmail.com  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "vAgdevIstavaH"
-"File name" = "vAgdevIstavaH.itx"
-itxtitle = "vAgdevIstavaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "vAgdevIstavaH"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाग्देवीस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI
+File name: vAgdevIstavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vAgdevIstavaH
+engtitle: vAgdevIstavaH
+itxtitle: vAgdevIstavaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: वाग्देवीस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीवाग्देवीस्तवः   
 वादे शक्तिप्रदात्री प्रणतजनततेः सन्ततं सत्सभायां  

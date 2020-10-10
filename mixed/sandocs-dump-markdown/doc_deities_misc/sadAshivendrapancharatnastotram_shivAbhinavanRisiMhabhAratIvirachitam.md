@@ -1,23 +1,23 @@
-+++
-"Text title" = "sadAshivendrapancharatnastotram"
-"File name" = "sadAshivendrapancharatnastotram.itx"
-itxtitle = "sadAshivendrapancharatnastotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "sadAshivendrapancharatnastotram"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, pancharatna"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudeva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सदाशिवेन्द्रपञ्चरत्नस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, pancharatna
+File name: sadAshivendrapancharatnastotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudeva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: sadAshivendrapancharatnastotram
+engtitle: sadAshivendrapancharatnastotram
+itxtitle: sadAshivendrapancharatnastotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: सदाशिवेन्द्रपञ्चरत्नस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीसदाशिवेन्द्रपञ्चरत्नस्तोत्रम्   
 यत्सदशनमात्राद्भक्तिर्जाताप्यविद्धकर्णस्य ।  

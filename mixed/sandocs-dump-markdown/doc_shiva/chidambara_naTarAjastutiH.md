@@ -1,22 +1,22 @@
-+++
-"Text title" = "chidambaram shrInaTarAjastuti"
-"File name" = "chidambaramnaTarAjastuti.itx"
-itxtitle = "chidambara naTarAjastutiH"
-engtitle = "Chidambara ShrINatarajastutih with Comments"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-"Latest update" = "August 17, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चिदम्बर नटराजस्तुतिः"
+---
+Category: shiva
+File name: chidambaramnaTarAjastuti.itx
+Language: Sanskrit
+Latest update: August 17, 2012
+Location: doc_shiva
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: chidambaram shrInaTarAjastuti
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: Chidambara ShrINatarajastutih with Comments
+itxtitle: chidambara naTarAjastutiH
+title: चिदम्बर नटराजस्तुतिः
 
-+++
+---
   
  चिदम्बरं श्रीनटराजस्तुती   
   
@@ -45,7 +45,7 @@ title = "चिदम्बर नटराजस्तुतिः"
         उच्चैर्घोषाय देवाय पत्तीनां पतये नमः ॥ ८॥  
   
         सत्वानां पतये तुभ्यं घनानां पतये नमः ।  
-        सहमानाय शान्ताय शंकराय नमो नमः ॥ ९॥  
+        सहमानाय शान्ताय शङ्कराय नमो नमः ॥ ९॥  
   
         आधीनां पतये तुभ्यं व्याधीनं पतये नमः ।  
         ककुभाय नमस्तुभ्यं नमस्तेऽस्तु निषङ्गिणे ॥ १०॥  
@@ -95,7 +95,7 @@ liberation. The following verse says that.
     सेतुर्वातपुरी चिदम्बरसभा गोकर्ण-पम्पापुरी  
     श्वेतारण्य-वटाटवी श्रुतिपुरी शोणाद्रि वृद्धाचलाः ।  
     काञ्ची श्रीगिरि कालहस्तिनगरी केदार-वाराणसी  
-    कैलासा इति शंकरस्य निलया ख्याताश्च मुक्तिप्रदाः ॥  
+    कैलासा इति शङ्करस्य निलया ख्याताश्च मुक्तिप्रदाः ॥  
   
   
 Maharshi Jaimini, in his Vedapadastava श्रीवेदपादस्तवः  says that  

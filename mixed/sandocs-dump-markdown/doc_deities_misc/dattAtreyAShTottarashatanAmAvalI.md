@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri DattAtreya aShTottarashatanAmAvalI"
-"File name" = "dattaatreya108.itx"
-itxtitle = "dattAtreyAShTottarashatanAmAvalI"
-engtitle = "Shri DattAtreya 108 names"
-Category = "aShTottarashatanAmAvalI, deities_misc, dattatreya, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "May 11, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयाष्टोत्तरशतनामावली"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, deities_misc, dattatreya, nAmAvalI
+File name: dattaatreya108.itx
+Language: Sanskrit
+Latest update: May 11, 2020
+Location: doc_deities_misc
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri DattAtreya aShTottarashatanAmAvalI
+Texttype: nAmAvalI
+engtitle: Shri DattAtreya 108 names
+itxtitle: dattAtreyAShTottarashatanAmAvalI
+title: दत्तात्रेयाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीदत्तात्रेयाष्टोत्तरशतनामावली   
 ॐ श्रीदत्ताय नमः ।  

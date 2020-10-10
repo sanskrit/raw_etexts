@@ -1,22 +1,22 @@
-+++
-"Text title" = "guruvAyupurAdhIshAShTottarashatanAmAvaliH"
-"File name" = "guruvAyupurAdhIshAShTottarashatanAmAvaliH.itx"
-itxtitle = "guruvAyupurAdhIsha athavA vAtapurAShTottarashatanAmAvaliH"
-engtitle = "guruvAyupurAdhIshAShTottarashatanAmAvaliH"
-Category = "vishhnu, krishna, aShTottarashatanAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Brahmasri Sengalipuram Anantharama Dikshitar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "December 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुवायुपुराधीश अथवा वातपुराष्टोत्तरशतनामावलिः"
+---
+Author: Brahmasri Sengalipuram Anantharama Dikshitar
+Category: vishhnu, krishna, aShTottarashatanAmAvalI
+File name: guruvAyupurAdhIshAShTottarashatanAmAvaliH.itx
+Language: Sanskrit
+Latest update: December 2, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: guruvAyupurAdhIshAShTottarashatanAmAvaliH
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: guruvAyupurAdhIshAShTottarashatanAmAvaliH
+itxtitle: guruvAyupurAdhIsha athavA vAtapurAShTottarashatanAmAvaliH
+title: गुरुवायुपुराधीश अथवा वातपुराष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीगुरुवायुपुराधीशाष्टोत्तरशतनामावलिः   
 ॐ श्रीकृष्णाय नमः ।  
@@ -74,7 +74,7 @@ title = "गुरुवायुपुराधीश अथवा वातप
 ॐ पुण्यशालिप्रपूजिताय नमः ।  
 ॐ तुलसीदामसन्तुष्टाय नमः ।  
 ॐ बिल्वमङ्गलपूजिताय नमः ।  
-ॐ पून्तानविप्रसंदृष्टदिव्यमङ्गलविग्रहाय नमः ।  
+ॐ पून्तानविप्रसन्दृष्टदिव्यमङ्गलविग्रहाय नमः ।  
 ॐ पावनाय नमः ।  
 ॐ परमाय नमः ।  
 ॐ धात्रे नमः ।  
@@ -103,7 +103,7 @@ title = "गुरुवायुपुराधीश अथवा वातप
 ॐ श्रीरुक्मिणीसत्यभामासंलालितपदाम्बुजाय नमः ।  
 ॐ कन्याषोडशसाहस्रकण्ठमाङ्गल्यसूत्रदाय नमः ।  
 ॐ अन्नप्राशनसम्प्राप्तबहुबालसुखप्रदाय नमः ।  
-ॐ गुरुवायुसुसंकॢप्तसप्रतिष्ठाय नमः ।  
+ॐ गुरुवायुसुसङ्कॢप्तसप्रतिष्ठाय नमः ।  
 ॐ सुरार्चिताय नमः ।  
 ॐ पायसान्नप्रियाय नमः ।  
 ॐ नित्यङ्गजराशिसमुज्ज्वलाय नमः ।  
@@ -129,7 +129,7 @@ title = "गुरुवायुपुराधीश अथवा वातप
 ॐ दीक्षितानन्तरामोक्तनामसुप्रीतमानसाय नमः । १०८  
 ॐ श्रीगुरुवायुपुराधीशाय नमः ।  
   
-इति ब्रह्मश्री सेंगलीपुरं अनन्तरामदीक्षितारविरचिता  
+इति ब्रह्मश्री सेङ्गलीपुरं अनन्तरामदीक्षितारविरचिता  
 श्रीगुरुवायुपुराधीश अथवा  
 वातपुराष्टोत्तरशतनामावलिः समाप्ता ॥  
   

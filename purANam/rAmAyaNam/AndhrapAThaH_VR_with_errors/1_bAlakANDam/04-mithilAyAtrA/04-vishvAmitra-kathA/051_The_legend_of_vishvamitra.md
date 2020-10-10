@@ -3,7 +3,6 @@ title: 051 विश्वामित्र-वंश-वर्णनम्
 title_english: 051 The legend of vishvamitra
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-051-Vishvamitra_Vamsha_Varnanam.mp3"></div>
 
 तस्य तद्वचनं श्रुत्वा विश्वामित्रस्य धीमतः।  

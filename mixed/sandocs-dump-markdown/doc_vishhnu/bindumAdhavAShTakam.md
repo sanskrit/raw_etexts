@@ -1,23 +1,23 @@
-+++
-"Text title" = "bindumAdhavAShTakam"
-"File name" = "bindumaadhava8.itx"
-itxtitle = "bindumAdhavAShTakam"
-engtitle = "bindumAdhavAShTakam"
-Category = "aShTaka, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "January 13, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बिन्दुमाधवाष्टकम्"
+---
+Author: Traditional
+Category: aShTaka, vishhnu, krishna, vishnu
+File name: bindumaadhava8.itx
+Language: Sanskrit
+Latest update: January 13, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: bindumAdhavAShTakam
+Transliterated by: WebD
+engtitle: bindumAdhavAShTakam
+itxtitle: bindumAdhavAShTakam
+title: बिन्दुमाधवाष्टकम्
 
-+++
+---
   
  बिन्दुमाधवाष्टकम्   
   
@@ -33,7 +33,7 @@ title = "बिन्दुमाधवाष्टकम्"
 जगत्पवित्रकीर्तिदं भजामि बिन्दुमाधवम् ॥ २॥  
   
 दिगीशमौलिनूत्नरत्ननिःसरत्प्रभावली-  
-विराजितांघ्रिपङ्कजं नवेन्दुशेखराब्जजम् ।  
+विराजिताङ्घ्रिपङ्कजं नवेन्दुशेखराब्जजम् ।  
 दयामरन्दतुन्दिलारविन्दपत्रलोचनं  
 विरोधियूथभेदनं भजामि बिन्दुमाधवम् ॥ ३॥  
   

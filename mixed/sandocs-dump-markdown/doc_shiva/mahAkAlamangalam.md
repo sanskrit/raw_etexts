@@ -1,21 +1,21 @@
-+++
-"Text title" = "Mahakala Mangalam Stotram"
-"File name" = "mahAkAlamangalam.itx"
-itxtitle = "mahAkAlamangalam"
-engtitle = "mahAkAlamangalastotram"
-Category = "shiva, mangala"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-"Latest update" = "December 28, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालमङ्गलम्"
+---
+Category: shiva, mangala
+File name: mahAkAlamangalam.itx
+Language: Sanskrit
+Latest update: December 28, 2019
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mahakala Mangalam Stotram
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 gmail.com
+engtitle: mahAkAlamangalastotram
+itxtitle: mahAkAlamangalam
+title: महाकालमङ्गलम्
 
-+++
+---
   
  श्रीमहाकालमङ्गलम्   
 ॐ श्रीगणेशाय नमः ।  

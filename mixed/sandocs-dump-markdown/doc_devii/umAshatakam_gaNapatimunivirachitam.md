@@ -1,26 +1,27 @@
-+++
-"Text title" = "umAshatakam 1"
-"File name" = "umAshatakam1.itx"
-itxtitle = "umAshatakam (gaNapatimunivirachitam)"
-engtitle = "umAshatakam"
-Category = "shataka, devii, pArvatI, stotra, gaNapati-muni, ramaNa-maharShi, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "Ganapati Muni with Ramana Maharshi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Description-comments = "From The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol 1"
-Indexextra = "(Collected Works)"
-"Latest update" = "November 24, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उमाशतकम् (गणपतिमुनिविरचितम्)"
+---
+Author: Ganapati Muni with Ramana Maharshi
+Category: shataka, devii, pArvatI, stotra, gaNapati-muni, ramaNa-maharShi, devI
+Description-comments: From The Collected Works of Vasishtha Kavyakantha Ganapati Muni
+  Vol 1
+File name: umAshatakam1.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: November 24, 2012
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: umAshatakam 1
+Texttype: stotra
+Transliterated by: DPD
+engtitle: umAshatakam
+itxtitle: umAshatakam (gaNapatimunivirachitam)
+title: उमाशतकम् (गणपतिमुनिविरचितम्)
 
-+++
+---
   
  उमाशतकम्   
   

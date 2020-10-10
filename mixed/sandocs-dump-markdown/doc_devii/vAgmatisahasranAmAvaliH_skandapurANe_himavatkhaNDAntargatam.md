@@ -1,23 +1,24 @@
-+++
-"Text title" = "Vagmati Sahasranamavali 1000 Names"
-"File name" = "vAgmatisahasranAmAvaliH.itx"
-itxtitle = "vAgmatisahasranAmAvaliH (skandapurANe himavatkhaNDAntargatam)"
-engtitle = "vAgmatisahasranAmAvaliH"
-Category = "devii, sahasranAmAvalI, stotra, devI, sarasvatI, nAmAvalI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "Skanda Purana, Himavat Khanda (Nepal based).  See corresponding stotram"
-Indexextra = "(Scan, stotra)"
-"Latest update" = "June 10, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाग्मतिसहस्रनामावलिः (स्कन्दपुराणे हिमवत्खण्डान्तर्गतम्)"
+---
+Category: devii, sahasranAmAvalI, stotra, devI, sarasvatI, nAmAvalI
+Description/comments: Skanda Purana, Himavat Khanda (Nepal based).  See corresponding
+  stotram
+File name: vAgmatisahasranAmAvaliH.itx
+Indexextra: (Scan, stotra)
+Language: Sanskrit
+Latest update: June 10, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vagmati Sahasranamavali 1000 Names
+engtitle: vAgmatisahasranAmAvaliH
+itxtitle: vAgmatisahasranAmAvaliH (skandapurANe himavatkhaNDAntargatam)
+title: वाग्मतिसहस्रनामावलिः (स्कन्दपुराणे हिमवत्खण्डान्तर्गतम्)
 
-+++
+---
   
  श्रीवाग्मतिसहस्रनामावलिः   
 ॐ श्रीवाग्मत्याः सहस्रनामस्तोत्रस्य गायत्रीच्छन्दः ।  
@@ -65,7 +66,7 @@ title = "वाग्मतिसहस्रनामावलिः (स्क
 ओङ्कारवक्त्रसम्भूतायै । ओङ्कारपूर्वजप्रियायै ।  
 और्द्धरेतोऽर्च्चितायै नमः । १२०  
   
-ॐ और्व्यै नमः । और्ध्वदेहफलप्रदायै । औत्तानपादसंप्रीतायै ।  
+ॐ और्व्यै नमः । और्ध्वदेहफलप्रदायै । औत्तानपादसम्प्रीतायै ।  
 और्वासमायै । ऊर्वशीप्रियायै । अम्बिकायै । अम्बालिकायै । अनन्तायै ।  
 अर्णवाध्वरशीर्षगायै । अङ्कुशधारिण्यै । अम्बायै । अन्नपूर्णायै ।  
 अन्नकारिण्यै । अः रुद्रवक्त्रसञ्जातायै । अरूपायै । शिववल्लभायै ।  
@@ -133,7 +134,7 @@ title = "वाग्मतिसहस्रनामावलिः (स्क
 जीवेश्वर्यै । जनैश्वर्यायै । जीवेशजनकारीण्यै । झङ्केश्वर्यै ।  
 झकारात्मने । झङ्कारस्वनवाहिन्यै । झर्झरानिपतन्त्यै ।  
 झङ्केशार्द्धाङ्गहारिण्यै । झषावतारसुप्रीतायै ।  
-झषवर्माप्रसेवितायै । झर्झररवसंक्षिप्तायै ।  
+झषवर्माप्रसेवितायै । झर्झररवसङ्क्षिप्तायै ।  
 झकाररूपतोषितायै । अट्टाट्टहासिन्यै । क्रोधात्कोटिकोटितरङ्गिण्यै ।  
 तटिन्यै । करहाटाढ्यायै नमः । ३४०  
   

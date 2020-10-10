@@ -1,23 +1,23 @@
-+++
-"Text title" = "Divya Mangala Dhyanam"
-"File name" = "divyamangalAdhyAnam.itx"
-itxtitle = "divyamaNgalAdhyAnam"
-engtitle = "Divya Mangala Dhyanam"
-Category = "devii, dhyAnam, otherforms, devI, mangala"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Adwaith Menon adwaithmenon at gmail.com"
-"Proofread by" = "Adwaith Menon, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "CHECK"
-"Latest update" = "December 9, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दिव्यमण्गलाध्यानम्"
+---
+Category: devii, dhyAnam, otherforms, devI, mangala
+Description-comments: CHECK
+File name: divyamangalAdhyAnam.itx
+Language: Sanskrit
+Latest update: December 9, 2017
+Location: doc_devii
+Proofread by: Adwaith Menon, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Divya Mangala Dhyanam
+Transliterated by: Adwaith Menon adwaithmenon at gmail.com
+engtitle: Divya Mangala Dhyanam
+itxtitle: divyamaNgalAdhyAnam
+title: दिव्यमण्गलाध्यानम्
 
-+++
+---
   
  श्रीदिव्यमङ्गलाध्यानम्   
 ॐ  
@@ -204,7 +204,7 @@ title = "दिव्यमण्गलाध्यानम्"
 ब्रह्माणीकोटिसहितैर्ब्रह्मकोटिभिरावृताम् ॥ ६२॥  
   
 नामपारायणोद्युक्तैर्ल्लक्ष्मीनारायणैः स्तुताम् ।  
-ज्वलन्मन्युभिरत्युग्रैः शतरुद्रीयसंज्ञितैः ॥ ६३॥  
+ज्वलन्मन्युभिरत्युग्रैः शतरुद्रीयसञ्ज्ञितैः ॥ ६३॥  
   
 रुद्राणीकोटिसहितै रुद्रकोटिभिरावृताम् ।  
 अनेकाघोरशरभैर्बडवानलभैरवैः ॥ ६४॥  

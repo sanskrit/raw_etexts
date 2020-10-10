@@ -1,21 +1,21 @@
-+++
-"Text title" = "Rudra Vibhuti Stotram"
-"File name" = "rudravibhUtistotram.itx"
-itxtitle = "rudravibhUtistotram"
-engtitle = "rudravibhUtistotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "mAnasataraNgiNI"
-Indexextra = "(Text)"
-"Latest update" = "July 21, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रविभूतिस्तोत्रम्"
+---
+Category: shiva
+File name: rudravibhUtistotram.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: July 21, 2019
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Rudra Vibhuti Stotram
+Transliterated by: mAnasataraNgiNI
+engtitle: rudravibhUtistotram
+itxtitle: rudravibhUtistotram
+title: रुद्रविभूतिस्तोत्रम्
 
-+++
+---
   
  रुद्रविभूतिस्तोत्रम्   
 नमः शिवाय रुद्राय कद्रुद्राय प्रचेतसे ।  

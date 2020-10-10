@@ -1,23 +1,23 @@
-+++
-"Text title" = "Hymn in praise of Goddess as varAhamukhI"
-"File name" = "varAhamukhIstava.itx"
-itxtitle = "varAhamukhIstavaH tathA vArAhyanugrahAShTakam"
-engtitle = "Hymn to Goddess varAhamukhI"
-Category = "devii, otherforms, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-"Proofread by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-"Latest update" = "November 26, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वराहमुखीस्तवः तथा वाराह्यनुग्रहाष्टकम्"
+---
+Category: devii, otherforms, stotra, devI
+File name: varAhamukhIstava.itx
+Language: Sanskrit
+Latest update: November 26, 2001
+Location: doc_devii
+Proofread by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: hinduism/religion
+Sublocation: devii
+Text title: Hymn in praise of Goddess as varAhamukhI
+Texttype: stotra
+Transliterated by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+engtitle: Hymn to Goddess varAhamukhI
+itxtitle: varAhamukhIstavaH tathA vArAhyanugrahAShTakam
+title: वराहमुखीस्तवः तथा वाराह्यनुग्रहाष्टकम्
 
-+++
+---
   
  वराहमुखीस्तवः तथा वाराह्यनुग्रहाष्टकम्   
   
@@ -57,9 +57,9 @@ title = "वराहमुखीस्तवः तथा वाराह्य
 तव तु कुटिले दंष्ट्राकोटी न चेदवलम्बनम् ॥ ७ ॥  
   
 तमसि बहुले शून्याटव्यां पिशाचनिशाचर-  
-प्रमथकलहे चोरव्याघ्रोरगद्विपसंकटे ।  
+प्रमथकलहे चोरव्याघ्रोरगद्विपसङ्कटे ।  
 क्षुभितमनसः क्षुद्रस्यैकाकिनोऽपि कुतो भयं  
-सकृदपि मुखे मातस्त्वन्नाम संनिहितं यदि ॥ ८ ॥  
+सकृदपि मुखे मातस्त्वन्नाम सन्निहितं यदि ॥ ८ ॥  
   
 विदितविभवं हृद्यैः पद्मैर्वराहमुखीस्तवं  
 सकलफलदं पूर्णं मन्त्राक्षरैरिममेव यः ।  

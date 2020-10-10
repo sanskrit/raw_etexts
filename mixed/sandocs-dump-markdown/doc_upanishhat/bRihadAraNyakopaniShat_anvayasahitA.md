@@ -1,24 +1,24 @@
-+++
-"Text title" = "bRihadAraNyakopaniShat anvayasahita"
-"File name" = "brinew-proofed.itx"
-itxtitle = "bRihadAraNyakopaniShat (anvayasahitA)"
-engtitle = "Brihadaranyaka Upanishad"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(1translation)"
-"Latest update" = "January 5, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बृइहदारण्यकोपनिषत् (अन्वयसहिता)"
+---
+Author: Vedic Tradition
+Category: upanishhat, svara, upanishad
+File name: brinew-proofed.itx
+Indexextra: (1translation)
+Language: Sanskrit
+Latest update: January 5, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: bRihadAraNyakopaniShat anvayasahita
+Texttype: svara
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Brihadaranyaka Upanishad
+itxtitle: bRihadAraNyakopaniShat (anvayasahitA)
+title: बृइहदारण्यकोपनिषत् (अन्वयसहिता)
 
-+++
+---
   
  बृहदारण्यकोपनिषत्   
   
@@ -133,7 +133,7 @@ C खिल काण्ड[उपासना काण्ड]
   
 मन्त्र १ [I.I.1]  
   
-नैवेह किंचनाग्र आसीन्  
+नैवेह किञ्चनाग्र आसीन्  
  SF न एव इह किम् चन अग्रे आसीत्  
 मृत्युनैवेदमावृतमासीदशनाययाऽशनाया हि मृत्युस्  
  SF मृत्युना एव इदम् आवृतम् आसीत् अशनायया अशनाया  
@@ -2425,7 +2425,7 @@ C खिल काण्ड[उपासना काण्ड]
  SF तम् पाणौ आदाय उत्तस्थौ  
 तौ ह पुरुषꣳ सुप्तमाजग्मतुस्  
  SF तौ ह पुरुषम् सुप्तम् आजग्मतुः  
-तमेतैर्नामभिरामन्त्रयांचक्रे  
+तमेतैर्नामभिरामन्त्रयाञ्चक्रे  
  SF तम् एतैस् नामभिस् आमन्त्रयाम् चक्रे  
 बृहन्पाण्डरवासः  
  SF बृहन् पाण्दरवासस्  
@@ -2433,7 +2433,7 @@ C खिल काण्ड[उपासना काण्ड]
  SF सोम राजन् इति  
 स नोत्तस्थौ ।  
  SF स न उत्तस्थौ  
-तं पाणिनाऽऽपेषं बोधयांचकार ।  
+तं पाणिनाऽऽपेषं बोधयाञ्चकार ।  
  SF तम् पाणिना आपेषम् बोधयाम् चकार  
 स होत्तस्थौ ॥ १५ ॥  
   
@@ -3440,9 +3440,9 @@ C खिल काण्ड[उपासना काण्ड]
  SF पुरस् पुरुषस् आविशत् इति  
 स वा अयं पुरुषः सर्वासु पूर्षु पुरिशयो  
  SF स वै अयम् पुरुषस् सर्वासु पूर्षु पुरिशयस्  
-नैनेन किंचनानावृतम्  
+नैनेन किञ्चनानावृतम्  
  SF न एनेन किम् चन अनावृतम्  
-नैनेन किंचनासंवृतम् ॥ १८ ॥  
+नैनेन किञ्चनासंवृतम् ॥ १८ ॥  
   
  SF न एनेन किम् चन असंवृतम्  
   
@@ -4536,7 +4536,7 @@ C खिल काण्ड[उपासना काण्ड]
  SF वायुना हि  
 गौतम  
  SF गौतम  
-सूत्रेण संदृब्धानि भवन्तीत्य्  
+सूत्रेण सन्दृब्धानि भवन्तीत्य्  
  SF सूत्रेण सम्दृब्धानि भवन्ति इति  
 एवमेवैतद्  
  SF एवम् एवk OM. एतद्  
@@ -7316,7 +7316,7 @@ SF यस् तेजः अन्तरः यमयति
  SF सस् अहम् भगवते सहस्रम् ददामि  
 अत ऊर्ध्वं विमोक्षायैव ब्रूहीत्य्  
  SF अतस् ऊर्ध्वम् विमोक्षाय एव ब्रूहि इति  
-अत्र ह याज्ञवल्क्यो बिभयांचकारः  
+अत्र ह याज्ञवल्क्यो बिभयाञ्चकारः  
  SF अत्र ह याज्ञवल्क्यस् बिभयाम् चकार  
 मेधावी राजा सर्वेभ्यो माऽन्तेभ्य उदरौत्सीदिति ॥ ३३ ॥  
   
@@ -10396,7 +10396,7 @@ add. mark 1  एष सर्वेश्वरस्
   
 मन्त्र २[VI.iv.2]  
   
-स ह प्रजापतिरीक्षांचक्रे  
+स ह प्रजापतिरीक्षाञ्चक्रे  
  SF स ह प्रजापतिस् ईक्षाम् चक्रे  
 हन्तास्मै प्रतिष्ठां कल्पयानीति  
  SF हन्त अस्मै प्रतिष्ठाम् कल्पयानि इति  

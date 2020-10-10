@@ -1,28 +1,28 @@
-+++
-"Text title" = "Gangastotram 2"
-"File name" = "gangAstotram2.itx"
-itxtitle = "gaNgAstotram 2 (brahmavaivartapurANAntargatam shivasaNgItasammugdha)"
-engtitle = "gaNgAstotram 2"
-Category = "devii, nadI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Proofread by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "October 26, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गास्तोत्रम् २ (ब्रह्मवैवर्तपुराणान्तर्गतम् शिवसण्गीतसम्मुग्ध)"
+---
+Category: devii, nadI, stotra, devI
+File name: gangAstotram2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: October 26, 2019
+Location: doc_devii
+Proofread by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangastotram 2
+Texttype: stotra
+Transliterated by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+engtitle: gaNgAstotram 2
+itxtitle: gaNgAstotram 2 (brahmavaivartapurANAntargatam shivasaNgItasammugdha)
+title: गण्गास्तोत्रम् २ (ब्रह्मवैवर्तपुराणान्तर्गतम् शिवसण्गीतसम्मुग्ध)
 
-+++
+---
   
  गङ्गास्तोत्रम्   
 विप्रा ऊचुः-  
-स्तोत्रे शृणु यथाप्रोक्ते खण्डे प्रकृतिसंज्ञके ।  
+स्तोत्रे शृणु यथाप्रोक्ते खण्डे प्रकृतिसञ्ज्ञके ।  
 शिवागमे च गङ्गायाः महापापप्रणाशने ॥ १॥  
   
 श्रीनारायण उवाच-  

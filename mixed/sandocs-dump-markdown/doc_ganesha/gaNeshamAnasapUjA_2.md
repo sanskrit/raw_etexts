@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNeshamAnasapUjA 2"
-"File name" = "gaNeshamAnasapUjA2.itx"
-itxtitle = "gaNeshamAnasapUjA 2"
-engtitle = "gaNeshamAnasapUjA 2"
-Category = "pUjA, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. Jayaraman vyshupjr at gmail.com"
-"Proofread by" = "P. Jayaraman vyshupjr at gmail.com, NA"
-"Latest update" = "March 1, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशमानसपूजा २"
+---
+Author: Traditional
+Category: pUjA, ganesha
+File name: gaNeshamAnasapUjA2.itx
+Language: Sanskrit
+Latest update: March 1, 2018
+Location: doc_ganesha
+Proofread by: P. Jayaraman vyshupjr at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshamAnasapUjA 2
+Transliterated by: P. Jayaraman vyshupjr at gmail.com
+engtitle: gaNeshamAnasapUjA 2
+itxtitle: gaNeshamAnasapUjA 2
+title: गणेशमानसपूजा २
 
-+++
+---
   
  श्रीगणेशमानसपूजा २    
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Names of Shrividya Lalita sorted by categories"
-"File name" = "shrIvidyAlalitAnAmAvalI.itx"
-itxtitle = "lalitAsahasranAmAvaliH athavA shrIvidyAlalitAnAmAvaliH (vargIkaraNa)"
-engtitle = "Names of Shrividya Lalita sorted by categories"
-Category = "devii, sahasranAmAvalI, nAmAvalI, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Lalitha Parameswari parameswari.lalitha at gmail.com"
-"Proofread by" = "Lalitha Parameswari parameswari.lalitha at gmail.com"
-"Description/comments" = "Sorted names from lalitAsahasranAmAvalI"
-Indexextra = "(Scan articles)"
-"Latest update" = "September 7, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितासहस्रनामावलिः अथवा श्रीविद्याललितानामावलिः (वर्गीकरण)"
+---
+Category: devii, sahasranAmAvalI, nAmAvalI, dashamahAvidyA, devI
+Description/comments: Sorted names from lalitAsahasranAmAvalI
+File name: shrIvidyAlalitAnAmAvalI.itx
+Indexextra: (Scan articles)
+Language: Sanskrit
+Latest update: September 7, 2018
+Location: doc_devii
+Proofread by: Lalitha Parameswari parameswari.lalitha at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Names of Shrividya Lalita sorted by categories
+Transliterated by: Lalitha Parameswari parameswari.lalitha at gmail.com
+engtitle: Names of Shrividya Lalita sorted by categories
+itxtitle: lalitAsahasranAmAvaliH athavA shrIvidyAlalitAnAmAvaliH (vargIkaraNa)
+title: ललितासहस्रनामावलिः अथवा श्रीविद्याललितानामावलिः (वर्गीकरण)
 
-+++
+---
   
  श्रीविद्या ललिता नामावली वर्गीकरण   
 चित्  

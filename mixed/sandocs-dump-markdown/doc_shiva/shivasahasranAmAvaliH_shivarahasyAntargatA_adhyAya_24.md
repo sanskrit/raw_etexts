@@ -1,23 +1,24 @@
-+++
-"Text title" = "Shiva Sahasranamavali from Shivarahasya adhyAya 24"
-"File name" = "shivasahasranAmAvaliHshivarahasya24.itx"
-itxtitle = "shivasahasranAmAvaliH (shivarahasyAntargatA adhyAya 24)"
-engtitle = "shivasahasranAmAvaliH shivarahasyAntargatam adhyAya 24"
-Category = "shiva, sahasranAmAvalI, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "There are only 937 names we could find in the corresponding original stotra"
-Source = "Shivarahasya Chapter 24"
-Indexextra = "(Scan, stotra)"
-"Latest update" = "May 9, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "शिवसहस्रनामावलिः (शिवरहस्यान्तर्गता अध्याय २४)"
+---
+Category: shiva, sahasranAmAvalI, nAmAvalI
+Description-comments: There are only 937 names we could find in the corresponding
+  original stotra
+File name: shivasahasranAmAvaliHshivarahasya24.itx
+Indexextra: (Scan, stotra)
+Language: Sanskrit
+Latest update: May 9, 2020
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Source: Shivarahasya Chapter 24
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shiva Sahasranamavali from Shivarahasya adhyAya 24
+engtitle: shivasahasranAmAvaliH shivarahasyAntargatam adhyAya 24
+itxtitle: shivasahasranAmAvaliH (shivarahasyAntargatA adhyAya 24)
+title: शिवसहस्रनामावलिः (शिवरहस्यान्तर्गता अध्याय २४)
 
-+++
+---
   
  श्रीशिवसहस्रनामावलिः शिवरहस्यान्तर्गतम् अध्याय २४   
 शिवरहस्ये चतुर्विंशोऽध्यायः ॥  

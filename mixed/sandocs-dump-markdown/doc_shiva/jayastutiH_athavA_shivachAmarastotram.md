@@ -1,21 +1,21 @@
-+++
-"Text title" = "Jaya Stuti"
-"File name" = "jayastutiH.itx"
-itxtitle = "jayastutiH athavA shivachAmarastotram"
-engtitle = "jayastutiH"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयस्तुतिः अथवा शिवचामरस्तोत्रम्"
+---
+Category: shiva
+File name: jayastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Jaya Stuti
+engtitle: jayastutiH
+itxtitle: jayastutiH athavA shivachAmarastotram
+title: जयस्तुतिः अथवा शिवचामरस्तोत्रम्
 
-+++
+---
   
  जयस्तुतिः अथवा शिवचामरस्तोत्रम्   
 जय सर्वजनाधीश जय गौरीपते शिव ।  

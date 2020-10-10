@@ -1,23 +1,23 @@
-+++
-"Text title" = "pAninIya shikShA"
-"File name" = "pANinIyashikShA.itx"
-itxtitle = "pANinIya shikShA"
-engtitle = "pANinIya shikShA"
-Category = "major_works, svara"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Pramod Kulkarni auddhav at gmail.com"
-"Proofread by" = "Pramod Kulkarni auddhav at gmail.com"
-Indexextra = "(Meaning 1, 2)"
-"Latest update" = "July 2, 2011, June 10, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पाणिनीय शिक्षा"
+---
+Category: major_works, svara
+File name: pANinIyashikShA.itx
+Indexextra: (Meaning 1, 2)
+Language: Sanskrit
+Latest update: July 2, 2011, June 10, 2017
+Location: doc_z_misc_major_works
+Proofread by: Pramod Kulkarni auddhav at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: major_works
+Text title: pAninIya shikShA
+Texttype: svara
+Transliterated by: Pramod Kulkarni auddhav at gmail.com
+engtitle: pANinIya shikShA
+itxtitle: pANinIya shikShA
+title: पाणिनीय शिक्षा
 
-+++
+---
   
  पाणिनीय शिक्षा   
   
@@ -28,7 +28,7 @@ title = "पाणिनीय शिक्षा"
 पुनर्व्यक्तीकरिष्यामि वाच उच्चारणे विधिम् ॥ २॥  
   
 त्रिषष्टिश्चतुःषटिर्वा वर्णा शम्भुमतेमताः ।  
-प्राकृते संस्कृते चापि स्वयं प्रोक्ताः स्वयंभुवा ॥ ३॥  
+प्राकृते संस्कृते चापि स्वयं प्रोक्ताः स्वयम्भुवा ॥ ३॥  
   
 स्वरा विंशतिरेकश्च स्पर्शानां पञ्चविंशतिः ।  
 यादयश्च स्मृता ह्यष्टौ चत्वारश्च यमाः स्मृताः ॥ ४॥  
@@ -127,7 +127,7 @@ title = "पाणिनीय शिक्षा"
 निष्पीडितं ग्रस्तपदाक्षरं च वदेन्न न दीनं न तु सानुनास्यम् ॥ ३५॥  
   
 प्रातः पठेन्नित्यमुरःस्थितेन स्वरेण शार्दूलरुतोपमेन ।  
-मध्यंदिने कण्ठगतेन चैव चक्राह्वसंकूजितसन्निभेन ॥ ३६॥  
+मध्यन्दिने कण्ठगतेन चैव चक्राह्वसङ्कूजितसन्निभेन ॥ ३६॥  
   
 तारं तु विद्यात्सवनं तृतीयं शिरोगतं तच्च सदा प्रयोज्यम् ।  
 मयूरहंसान्यमृतस्वराणां तुल्येन नादेन शिरःस्थितेन ॥ ३७॥  ॥७॥  

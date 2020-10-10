@@ -1,22 +1,22 @@
-+++
-"Text title" = "pavanajAShTakam"
-"File name" = "pavanajAShTakam.itx"
-itxtitle = "pavanajAShTakam"
-engtitle = "pavanajAShTakam"
-Category = "aShTaka, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-"Description/comments" = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "December 8, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पवनजाष्टकम्"
+---
+Category: aShTaka, hanumaana, hanuman
+Description/comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: pavanajAShTakam.itx
+Language: Sanskrit
+Latest update: December 8, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: pavanajAShTakam
+Transliterated by: Processed by Shree Devi Kumar
+engtitle: pavanajAShTakam
+itxtitle: pavanajAShTakam
+title: पवनजाष्टकम्
 
-+++
+---
   
  श्रीपवनजाष्टकम्   
   

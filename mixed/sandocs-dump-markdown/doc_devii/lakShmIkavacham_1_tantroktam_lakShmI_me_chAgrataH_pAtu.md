@@ -1,23 +1,23 @@
-+++
-"Text title" = "tantrokta lakShmIkavacham"
-"File name" = "tantroktalaxmiikavach.itx"
-itxtitle = "lakShmIkavacham 1 (tantroktam lakShmI me chAgrataH pAtu)"
-engtitle = "tantrokta lakShmIkavacham"
-Category = "kavacha, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "webD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "September 29, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीकवचम् १ (तन्त्रोक्तम् लक्ष्मी मे चाग्रतः पातु)"
+---
+Author: Traditional
+Category: kavacha, devii, lakShmI, devI
+File name: tantroktalaxmiikavach.itx
+Language: Sanskrit
+Latest update: September 29, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tantrokta lakShmIkavacham
+Transliterated by: webD
+engtitle: tantrokta lakShmIkavacham
+itxtitle: lakShmIkavacham 1 (tantroktam lakShmI me chAgrataH pAtu)
+title: लक्ष्मीकवचम् १ (तन्त्रोक्तम् लक्ष्मी मे चाग्रतः पातु)
 
-+++
+---
   
  श्रीलक्ष्मीकवचम् तन्त्रोक्त   
   

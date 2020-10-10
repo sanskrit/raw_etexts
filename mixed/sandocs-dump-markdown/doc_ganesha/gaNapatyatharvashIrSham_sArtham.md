@@ -1,22 +1,22 @@
-+++
-"Text title" = "saartha gaNapati atharvashiirSha"
-"File name" = "saarthaatharva.itx"
-itxtitle = "gaNapatyatharvashIrSham (sArtham)"
-engtitle = "gaNapatyatharvashIrSha (with trans.)"
-Category = "atharvashIrSha, ganesha, svara"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-Source = "(with Vedic accents, Meanings 1, 2, 3, Marathi, sabhAShya, Hindi)"
-"Latest update" = "July 1, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपत्यथर्वशीर्षम् (सार्थम्)"
+---
+Author: Vedic Tradition
+Category: atharvashIrSha, ganesha, svara
+File name: saarthaatharva.itx
+Language: Sanskrit
+Latest update: July 1, 2003
+Location: doc_ganesha
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: (with Vedic accents, Meanings 1, 2, 3, Marathi, sabhAShya, Hindi)
+Subject: philosophy/hinduism
+Sublocation: ganesha
+Text title: saartha gaNapati atharvashiirSha
+Texttype: svara
+engtitle: gaNapatyatharvashIrSha (with trans.)
+itxtitle: gaNapatyatharvashIrSham (sArtham)
+title: गणपत्यथर्वशीर्षम् (सार्थम्)
 
-+++
+---
   
  श्रीगणपत्यथर्वशीर्षोपनिशत् गणपत्युपनिषत् सार्था   
          ॥  श्री गणपत्यथर्वशीर्ष ॥  
@@ -34,7 +34,7 @@ Hymn in praise of gaNesha from the atharva veda.
 ॐ भद्रं कर्णेभिः शृणुयाम देवा ।  
 भद्रं पश्येमाक्षभिर्यजत्राः ॥  
   
-स्थिरैरंगैस्तुष्टुवांसस्तनूभिः ।  
+स्थिरैरङ्गैस्तुष्टुवांसस्तनूभिः ।  
 व्यशेम देवहितं यदायुः ॥  
   
   
@@ -47,7 +47,7 @@ Hymn in praise of gaNesha from the atharva veda.
 पश्येमाक्षभिः = May we see through the eyes;  
 यजत्राः = doing yAga or yagya or sacrifice?;  
 स्थिरैः = with firm or strong (limbs);  
-अंगैः = limbs, body parts;  
+अङ्गैः = limbs, body parts;  
 तुष्टुवांसः = May we enjoy;  
 तनूभिः = through the bodies (sharIra);  
 व्यशेम = offering praise ;  
@@ -85,11 +85,11 @@ with our strong bodies.
 May the gods Indra, PUsha, Garuda and Brihaspati bestow blessings on us  
 and protect us.  
   
-ॐ शांतिः ।  शांतिः ॥ शांतिः ॥  
+ॐ शान्तिः ।  शान्तिः ॥ शान्तिः ॥  
   
   
 ॐ = the OmkAra or Brahman himself;  
-शांतिः = Peace and inner contentment).  
+शान्तिः = Peace and inner contentment).  
 भावार्थ  
 May there be peace all around (both outside and inside us).  
   
@@ -164,7 +164,7 @@ I shall speak the scriptural truth and experiential truth only.
   
 अव चोर्ध्वात्तात् ॥ अवाधरात्तात् ॥  
   
-सर्वतो मां पाहि पाहि समंतात् ॥ ३॥  
+सर्वतो मां पाहि पाहि समन्तात् ॥ ३॥  
   
   
 अव = protect;  
@@ -197,7 +197,7 @@ I shall speak the scriptural truth and experiential truth only.
 मां = me;  
 पाहि = protect same as `ava' `rakSha';  
 पाहि = protect;  
-समंतात् = from all around.  
+समन्तात् = from all around.  
 भावार्थ  
 Please, protect me, the speaker, the hearer, the teacher and the taught,  
 and the giver . Please protect me from all sides and the directions(North,  
@@ -205,9 +205,9 @@ South, East and West).
   
 त्वं वाङ्मयस्त्वं चिन्मयः ॥  
   
-त्वमानंदमयस्त्वं ब्रह्ममयः ॥  
+त्वमानन्दमयस्त्वं ब्रह्ममयः ॥  
   
-त्वं सच्चिदानंदाद्वितीयोऽसि ॥  
+त्वं सच्चिदानन्दाद्वितीयोऽसि ॥  
   
 त्वं प्रत्यक्षं ब्रह्मासि ॥  
   
@@ -298,10 +298,10 @@ levels of speech).
   
 त्वं शक्तित्रयात्मकः ॥  
   
-त्वां योगिनो ध्यायंति नित्यं ॥  
+त्वां योगिनो ध्यायन्ति नित्यं ॥  
   
 त्वं ब्रह्मा त्वं विष्णुस्त्वं रुद्रस्त्वं  
-इन्द्रस्त्वं अग्निस्त्वं वायुस्त्वं सूर्यस्त्वं चंद्रमास्त्वं  
+इन्द्रस्त्वं अग्निस्त्वं वायुस्त्वं सूर्यस्त्वं चन्द्रमास्त्वं  
 ब्रह्मभूर्भुवःस्वरोम् ॥ ६॥  
   
   
@@ -334,7 +334,7 @@ levels of speech).
 आत्मकः = possessing or controlling;  
 त्वां = you;  
 योगिनः = the sages or the meditators;  
-ध्यायंति = meditate or think;  
+ध्यायन्ति = meditate or think;  
 नित्यं = ever;  
 त्वं = you;  
 ब्रह्मा = brahma the Creator God;  
@@ -345,7 +345,7 @@ levels of speech).
 अग्निः = the god of fire;  
 वायु = the god of Air;  
 सूर्य = the Sun God;  
-चंद्रमाः = the Moon god;  
+चन्द्रमाः = the Moon god;  
 ब्रह्मभुः = the earth;  
 भुवः = the upper world;  
 स्वः = the nether world(?);  
@@ -358,9 +358,9 @@ You are being meditated by the sages . You are the Creator Brahma, the
 Protector Vishnu and the destroyer Rudra .. You are the Indra, the Fire, the  
 Air, the Sun, the Moon and the three worlds.  
   
-         ॥ गणेश मंत्र ॥  
+         ॥ गणेश मन्त्र ॥  
   
-गणादिं पूर्वमुच्चार्य वर्णादिं तदनंतरं ॥  
+गणादिं पूर्वमुच्चार्य वर्णादिं तदनन्तरं ॥  
   
 अनुस्वारः परतरः ॥ अर्धेन्दुलसितं ॥ तारेण ऋद्धम् ॥  
   
@@ -368,11 +368,11 @@ Air, the Sun, the Moon and the three worlds.
   
 अकारो मध्यमरूपं ॥ अनुस्वारश्चान्त्यरूपं ॥  
   
-बिन्दुरुत्तररूपं ॥ नादः संधानं ॥  
+बिन्दुरुत्तररूपं ॥ नादः सन्धानं ॥  
   
-संहितासंधिः ॥ सैषा गणेशविद्या ॥  
+संहितासन्धिः ॥ सैषा गणेशविद्या ॥  
   
-गणकऋषिः ॥ निचृद्गायत्रीच्छंदः ॥  
+गणकऋषिः ॥ निचृद्गायत्रीच्छन्दः ॥  
   
 गणपतिर्देवता ॥ ॐ गं गणपतये नमः ॥ ७॥  
   
@@ -382,7 +382,7 @@ Air, the Sun, the Moon and the three worlds.
 पूर्वं = beforehand, in the beginning;  
 उच्चार्य = having uttered or pronounced;  
 वर्णादीं = the letter groups or caste groups;  
-तदनंतरं = later to that;  
+तदनन्तरं = later to that;  
 अनुस्वारः = the accompanying sound or letter ( the letter form `.n' `M'?);  
 परतरः = later;  
 अर्ध = half;  
@@ -404,12 +404,12 @@ Air, the Sun, the Moon and the three worlds.
 बिन्दुः = the dot;  
 उत्तररूपं = having it in the northern direction;  
 नादः = the sound;  
-संधानं = combination;  
-संहितासंधिः = sa.nhitA+sandhiH joined together?;  
+सन्धानं = combination;  
+संहितासन्धिः = sa.nhitA+sandhiH joined together?;  
 सैषा = sA+eShA, that feminine form;  
 गणेशविद्या = the knowledge of gaNeSha;  
 गणकऋषिः = the rishi of this stotra is gaNaka;  
-निचृद्गायत्रीच्छंदः = the prosody form is `nichRit gAyatrI';  
+निचृद्गायत्रीच्छन्दः = the prosody form is `nichRit gAyatrI';  
 गणपतिर्देवता = the god of this stotra;  
 ॐ = the OmkAra;  
 गं = the letter or sound `ga.n;  
@@ -429,17 +429,17 @@ gaꣳ and is called the gaNeshavidyA.
   
          ॥ गणेश गायत्री ॥  
   
-एकदंताय विद्महे । वक्रतुण्डाय धीमहि ॥  
+एकदन्ताय विद्महे । वक्रतुण्डाय धीमहि ॥  
   
-तन्नो दंतिः प्रचोदयात् ॥ ८॥  
+तन्नो दन्तिः प्रचोदयात् ॥ ८॥  
   
   
-एकदंताय = the one-tusked;  
+एकदन्ताय = the one-tusked;  
 विद्महे = May we know (understand);  
 वक्रतुण्डाय = to one who has crooked limb or part (crooked trunk).  
 धीमहि = we meditate on;  
 तन्नो = he to us;  
-दंतिः = the tusked one; dantI is its variant  
+दन्तिः = the tusked one; dantI is its variant  
 प्रचोदयात् = inspire.  
 भावार्थ  
 Praise be to the bearer of a single tusk which is twisted and crooked trunk.  
@@ -454,40 +454,40 @@ say ᳚tanno dantI prachodayAt᳚ - may he, dantI, invigorate us!
   
          ॥ गणेश रूप ॥  
   
-एकदंतं चतुर्हस्तं पाशमंकुशधारिणम् ॥  
+एकदन्तं चतुर्हस्तं पाशमङ्कुशधारिणम् ॥  
   
 रदं च वरदं हस्तैर्बिभ्राणं मूषकध्वजम् ॥  
   
-रक्तं लंबोदरं शूर्पकर्णकं रक्तवाससम् ॥  
+रक्तं लम्बोदरं शूर्पकर्णकं रक्तवाससम् ॥  
   
-रक्तगंधानुलिप्तांगं रक्तपुष्पैः सुपूजितम् ॥  
+रक्तगन्धानुलिप्ताङ्गं रक्तपुष्पैः सुपूजितम् ॥  
   
-    भक्तानुकंपिनं देवं जगत्कारणमच्युतम् ॥  
+    भक्तानुकम्पिनं देवं जगत्कारणमच्युतम् ॥  
   
     आविर्भूतं च सृष्ट्यादौ प्रकृतेः पुरुषात्परम् ॥  
   
     एवं ध्यायति यो नित्यं स योगी योगिनां वरः ॥ ९॥  
   
   
-एकदंतं = one who has a single tusk;  
+एकदन्तं = one who has a single tusk;  
 चतुर्हस्तं = who has four hands;  
 पाशं = having the weapon pAsha;  
-अंकुशधारिणम् = bearing the weapon `ankusha' with which the elephant is controlled;  
+अङ्कुशधारिणम् = bearing the weapon `ankusha' with which the elephant is controlled;  
 रदं = fearlessness;  
 च = and;  
 वरदं = that which gives boons;  
 हस्तैर्बिभ्राणं = bearing in the hands;  
 मूषकध्वजम् = having the mouse as the flag;  
 रक्तं = the red one (raktaM may mean blood also);  
-लंबोदरं = having a long stomach;  
+लम्बोदरं = having a long stomach;  
 शूर्पकर्णकं = having long ears;  
 रक्तवाससम् = hAving red dress;  
-रक्तगंध = red scent;  
+रक्तगन्ध = red scent;  
 अनुलिप्त = smeared;  
 अन्गं = body;  
 रक्तपुस्ष्पैः = with red flowers;  
 सुपूजितम् = well worshipped;  
-भक्तानुकंपिनां = compassionate to the devotees;  
+भक्तानुकम्पिनां = compassionate to the devotees;  
 देवं = god;  
 जगत् = world;  
 कारणं = the cause;  
@@ -521,7 +521,7 @@ beyond the primordial Nature.
          ॥ अष्ट नाम गणपति ॥  
   
 नमो व्रातपतये । नमो गणपतये । नमः प्रमथपतये ।  
-नमस्तेऽस्तु लंबोदरायैकदंताय ।  
+नमस्तेऽस्तु लम्बोदरायैकदन्ताय ।  
 विघ्ननाशिने शिवसुताय । श्रीवरदमूर्तये नमो नमः ॥ १०॥  
   
   
@@ -535,8 +535,8 @@ beyond the primordial Nature.
 नमः = salutation.  
 ते = to you.  
 अस्तु = let it be;  
-लंबोदराय = to the long-stomached;  
-एकदंताय = to the single-tusked;  
+लम्बोदराय = to the long-stomached;  
+एकदन्ताय = to the single-tusked;  
 विघ्ननाशिने = to the destroyer of all obstacles;  
 शिवसुताय = to the son of `shiva';  
 श्री = good.  
@@ -554,17 +554,17 @@ the remover of obstacles, to the son of Shiva and the boon-giver incarnate.
   
 स सर्वतः सुखमेधते ॥ स सर्व विघ्नैर्नबाध्यते ॥  
   
-     स पंचमहापापात्प्रमुच्यते ॥  
+     स पञ्चमहापापात्प्रमुच्यते ॥  
   
 सायमधीयानो दिवसकृतं पापं नाशयति ॥  
   
 प्रातरधीयानो रात्रिकृतं पापं नाशयति ॥  
   
-     सायंप्रातः प्रयुंजानो अपापो भवति ॥  
+     सायम्प्रातः प्रयुञ्जानो अपापो भवति ॥  
   
      सर्वत्राधीयानोऽपविघ्नो भवति ॥  
   
-     धर्मार्थकाममोक्षं च विंदति ॥  
+     धर्मार्थकाममोक्षं च विन्दति ॥  
   
      इदमथर्वशीर्षमशिष्याय न देयम् ॥  
   
@@ -601,8 +601,8 @@ the remover of obstacles, to the son of Shiva and the boon-giver incarnate.
 रात्रिकृतं = night-done;  
 पापं = sins;  
 नाशयति = destroys;  
-सायंप्रातः = both evening  morning;  
-प्रयुंजानो = combined;  
+सायम्प्रातः = both evening  morning;  
+प्रयुञ्जानो = combined;  
 अपापो = without sins;  
 भवति = becomes;  
 सर्वत्र = everywhere;  
@@ -614,7 +614,7 @@ the remover of obstacles, to the son of Shiva and the boon-giver incarnate.
 काम = desire;  
 मोक्ष = release from humanly bondage, bliss, death;  
 च = and;  
-विंदति = enjoys;  
+विन्दति = enjoys;  
 इदं = this;  
 atharvashIrShaM  
 अशिष्याय = to the unworthy disciple or student;  
@@ -645,7 +645,7 @@ not, however, teach this to the undeserving student, if done so through
 infatuation, the teacher will become a sinner, read 1000 times, one  
 achieves whatever is desired for.  
   
-अनेन गणपतिमभिषिंचति स वाग्मी भवति ॥  
+अनेन गणपतिमभिषिञ्चति स वाग्मी भवति ॥  
   
 चतुर्थ्यामनश्नन् जपति स विद्यावान् भवति ।  
 स यशोवान् भवति ॥ इत्यथर्वणवाक्यं ॥  
@@ -655,7 +655,7 @@ achieves whatever is desired for.
   
 अनेन = through;  
 गणपतिं = Ganesh;  
-अभिषिंचति = performs' pUja', by pouring water etc . on the idol;  
+अभिषिञ्चति = performs' pUja', by pouring water etc . on the idol;  
 स = he;  
 वाग्मी = master of speech;  
 भवति = becomes;  
@@ -677,7 +677,7 @@ achieves whatever is desired for.
 The devotee becomes a master of speech, if read on the 4th day from New  
 Moon/Full Moon, he becomes a great scholar and he knows no fear, never.  
   
-यो दूर्वांकुरैर्यजति स वैश्रवणोपमो भवति ॥  
+यो दूर्वाङ्कुरैर्यजति स वैश्रवणोपमो भवति ॥  
   
 यो लाजैर्यजति स यशोवान् भवति ॥  
   
@@ -691,7 +691,7 @@ Moon/Full Moon, he becomes a great scholar and he knows no fear, never.
   
   
 यो = who;  
-दूर्वांकुरैः = with the bud of `dUrva';  
+दूर्वाङ्कुरैः = with the bud of `dUrva';  
 यजति = does the worship or sacrifice;  
 स = he;  
 वैश्रवण = Kubera, the lord of wealth;  
@@ -733,8 +733,8 @@ everything, everything indeed.
 अष्टौ ब्राह्मणान् सम्यग्ग्राहयित्वा  
 सूर्यवर्चस्वी भवति ॥  
   
-सूर्यग्रहे महानद्यां प्रतिमासंनिधौ  
-वा जप्त्वा सिद्धमंत्रो भवति ॥  
+सूर्यग्रहे महानद्यां प्रतिमासन्निधौ  
+वा जप्त्वा सिद्धमन्त्रो भवति ॥  
   
 महाविघ्नात्प्रमुच्यते ॥ महादोषात्प्रमुच्यते ॥  
   
@@ -753,10 +753,10 @@ everything, everything indeed.
 सूर्यगृहे = in the home of sun(during the solar eclipse);  
 महानद्यां = in the great river;  
 प्रतिमा = god's image or idol;  
-संनिधौ = in the presence of, close;  
+सन्निधौ = in the presence of, close;  
 वा = or;  
 जप्त्वा = having chanted;  
-सिधमंत्रो = having got the effect of the mantra;  
+सिधमन्त्रो = having got the effect of the mantra;  
 भवति = becomes;  
 महाविघ्नात् = from the great obstacles;  
 प्रमुच्यते = is freed;  
@@ -780,7 +780,7 @@ solar eclipse, by standing in a great river, one gets the effect of the
 mantra, he is released from great obstacles, great defects/imperfections  
 and great sins.  
   
-         ॥ शान्ति मंत्र ॥  
+         ॥ शान्ति मन्त्र ॥  
   
 ॐ सहनाववतु ॥ सहनौभुनक्तु ॥  
   
@@ -810,7 +810,7 @@ us not hate or quarrel.
 ॐ भद्रं कर्णेभिः शृणुयाम देवा ।  
 भद्रं पश्येमाक्षभिर्यजत्राः ॥  
   
-स्थिरैरंगैस्तुष्टुवांसस्तनूभिः ।  
+स्थिरैरङ्गैस्तुष्टुवांसस्तनूभिः ।  
 व्यशेम देवहितं यदायुः ॥  
   
   
@@ -822,7 +822,7 @@ us not hate or quarrel.
 भद्रं = good, safety;  
 पश्येमाक्षभिर्यजत्राः = may we see with eyes?;  
 स्थिरैः = stable;  
-अंगैस्तुष्टुवांसस्तनूभिः = having satisfied with strong limbs?;  
+अङ्गैस्तुष्टुवांसस्तनूभिः = having satisfied with strong limbs?;  
 व्यशेम = offering praise;  
 देवहितं = the good for the gods;  
 यदायुः = that life-span.  
@@ -854,13 +854,13 @@ svastinastAshyo May Garuda  give us well-being
 May the gods Indra, PUsha, Garuda and Brihaspati bestow good things on us  
 and protect us.  
   
-ॐ शांतिः । शांतिः ॥ शांतिः ॥।  
+ॐ शान्तिः । शान्तिः ॥ शान्तिः ॥।  
   
 इति श्रीगणपत्यथर्वशीर्षं समाप्तम् ॥  
   
   
 ॐ = OmkAra or Brahman;  
-शांतिः = Peace;  
+शान्तिः = Peace;  
 इति = thus;  
 समाप्तम् = is complete or over.  
 भावार्थ  

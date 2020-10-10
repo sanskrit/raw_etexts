@@ -1,22 +1,22 @@
-+++
-"Text title" = "Manasa Devi Stotram"
-"File name" = "manasAdevIstotramBVP.itx"
-itxtitle = "manasAdevIstotram (brahmavaivartapurANAntargatam)"
-engtitle = "manasAdevIstotram"
-Category = "devii"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIbrahmavaivarte mahApurANe dvitIye prakRitikhaNDe manasopAkhyAne"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मनसादेवीस्तोत्रम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: devii
+Description/comments: shrIbrahmavaivarte mahApurANe dvitIye prakRitikhaNDe manasopAkhyAne
+File name: manasAdevIstotramBVP.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Manasa Devi Stotram
+engtitle: manasAdevIstotram
+itxtitle: manasAdevIstotram (brahmavaivartapurANAntargatam)
+title: मनसादेवीस्तोत्रम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  मनसादेवी स्तोत्रम्  
 महेन्द्र उवाच ।  

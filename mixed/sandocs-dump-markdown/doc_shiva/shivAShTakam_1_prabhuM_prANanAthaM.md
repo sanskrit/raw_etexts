@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivAShTakaM 1"
-"File name" = "shiva8_1.itx"
-itxtitle = "shivAShTakam 1 (prabhuM prANanAthaM)"
-engtitle = "shivAShTakam 1"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(version 1 prabhuM prANanAthaM (meaning))"
-"Latest update" = "January 23, 2010, November 2, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवाष्टकम् १ (प्रभुं प्राणनाथं)"
+---
+Category: aShTaka, shiva
+File name: shiva8_1.itx
+Indexextra: (version 1 prabhuM prANanAthaM (meaning))
+Language: Sanskrit
+Latest update: January 23, 2010, November 2, 2016
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivAShTakaM 1
+Transliterated by: NA
+engtitle: shivAShTakam 1
+itxtitle: shivAShTakam 1 (prabhuM prANanAthaM)
+title: शिवाष्टकम् १ (प्रभुं प्राणनाथं)
 
-+++
+---
   
  श्रीशिवाष्टकं १   
   
@@ -34,7 +34,7 @@ title = "शिवाष्टकम् १ (प्रभुं प्राण�
 वटाधोनिवासं महाट्टाट्टहासं महापापनाशं सदासुप्रकाशम् ।  
 गिरीशं गणेशं महेशं सुरेशं शिवं शङ्करं शम्भुमीशानमीडे ॥ ४॥  
   
-गिरिन्द्रात्मजासंग्रहीतार्धदेहं गिरौ संस्थितं सर्वदा सन्नगेहम् ।  
+गिरिन्द्रात्मजासङ्ग्रहीतार्धदेहं गिरौ संस्थितं सर्वदा सन्नगेहम् ।  
 परब्रह्मब्रह्मादिभिर्वन्ध्यमानं शिवं शङ्करं शम्भुमीशानमीडे ॥ ५॥  
   
 कपालं त्रिशूलं कराभ्यां दधानं पदाम्भोजनम्राय कामं ददानम् ।  

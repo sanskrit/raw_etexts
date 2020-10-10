@@ -1,22 +1,22 @@
-+++
-"Text title" = "vishvakarmAShTakam 2"
-"File name" = "vishvakarmAShTakam2.itx"
-itxtitle = "vishvakarmAShTakam 2"
-engtitle = "vishvakarmAShTakam 2"
-Category = "aShTaka, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com, PSA Easwaran"
-Indexextra = "(stotra)"
-Acknowledge-Permission = "jangidbrahminsamaj.com"
-"Latest update" = "July 8, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वकर्माष्टकम् २"
+---
+Acknowledge-Permission: jangidbrahminsamaj.com
+Category: aShTaka, deities_misc
+File name: vishvakarmAShTakam2.itx
+Indexextra: (stotra)
+Language: Sanskrit
+Latest update: July 8, 2017
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vishvakarmAShTakam 2
+engtitle: vishvakarmAShTakam 2
+itxtitle: vishvakarmAShTakam 2
+title: विश्वकर्माष्टकम् २
 
-+++
+---
   
  श्रीविश्वकर्माष्टकम् २   
   
@@ -27,7 +27,7 @@ title = "विश्वकर्माष्टकम् २"
 सर्वसिद्धिप्रदाता त्वं विश्वकर्मन्नमोनमः ॥ २॥  
   
 पुस्तकं ज्ञानसूत्रं च कम्बी सूत्रं कमण्डलुम् ।  
-धृत्वा संमोहनं देव विश्वकर्मन्नमोनमः ॥ ३॥  
+धृत्वा सम्मोहनं देव विश्वकर्मन्नमोनमः ॥ ३॥  
   
 विश्वात्मा भूतरूपेण नानाकष्टसंहारक ।  
 तारकानादिसंहाराद्विश्वकर्मन्नमोनमः ॥ ४॥  

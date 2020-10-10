@@ -1,23 +1,23 @@
-+++
-"Text title" = "dattalahari"
-"File name" = "dattalahari.itx"
-itxtitle = "dattalahari athavA dattAtreyajnAnalaharI"
-engtitle = "dattalahari"
-Category = "laharI, deities_misc, dattatreya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Madhavi Upadrasta mupadrasta at gmail.com"
-"Proofread by" = "Madhavi Upadrasta mupadrasta at gmail.com"
-Indexextra = "(scanned 1, 2)"
-"Latest update" = "May 25, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तलहरि अथवा दत्तात्रेयज्ञानलहरी"
+---
+Category: laharI, deities_misc, dattatreya
+File name: dattalahari.itx
+Indexextra: (scanned 1, 2)
+Language: Sanskrit
+Latest update: May 25, 2015
+Location: doc_deities_misc
+Proofread by: Madhavi Upadrasta mupadrasta at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattalahari
+Transliterated by: Madhavi Upadrasta mupadrasta at gmail.com
+engtitle: dattalahari
+itxtitle: dattalahari athavA dattAtreyajnAnalaharI
+title: दत्तलहरि अथवा दत्तात्रेयज्ञानलहरी
 
-+++
+---
   
  दत्तलहरी अथवा दत्तात्रेयज्ञानलहरी   
 श्रीगणेशाय नमः  
@@ -499,7 +499,7 @@ title = "दत्तलहरि अथवा दत्तात्रेयज
 सक्ताब्जाहीरुचिरमभिषिक्तः स्थित इव ॥ ९५॥  
   
 दुराचारो जारश्चपलमतिराजः परवशः   
-परद्रव्याकांक्षी बहुजनविरोधी च सततम् ।  
+परद्रव्याकाङ्क्षी बहुजनविरोधी च सततम् ।  
 तथा चाहं पूतस्तव पदयुगस्पर्शवशतो ह्ययः  
 खण्डः स्वर्णं भवति हि यदा सिद्धसुरतिः ॥ ९६॥  
   

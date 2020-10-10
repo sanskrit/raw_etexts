@@ -1,22 +1,22 @@
-+++
-"Text title" = "hanumatkavacham from nAradapurANa"
-"File name" = "hanumatkavachamnAradapurANa.itx"
-itxtitle = "hanumatkavacham (nAradapurANAntargatam)"
-engtitle = "hanumatkavacham from nAradapurANa"
-Category = "hanumaana, hanuman, kavacha"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA, Kirk Wortman"
-Source = "Naradapurana Purvabhag Adhyaya 78"
-Indexextra = "(Purana)"
-"Latest update" = "August 17, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्कवचम् (नारदपुराणान्तर्गतम्)"
+---
+Category: hanumaana, hanuman, kavacha
+File name: hanumatkavachamnAradapurANa.itx
+Indexextra: (Purana)
+Language: Sanskrit
+Latest update: August 17, 2017
+Location: doc_hanumaana
+Proofread by: NA, Kirk Wortman
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Naradapurana Purvabhag Adhyaya 78
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatkavacham from nAradapurANa
+engtitle: hanumatkavacham from nAradapurANa
+itxtitle: hanumatkavacham (nAradapurANAntargatam)
+title: हनुमत्कवचम् (नारदपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीहनुमत्कवचम्   
 सनत्कुमार उवाच ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Vishnusukta"
-"File name" = "vishnusukta.itx"
-itxtitle = "viShNusUktam"
-engtitle = "Vishnusukta"
-Category = "sUkta, veda, svara, vishhnu, vishnu"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-"Proofread by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-Indexextra = "(meaning)"
-"Latest update" = "June 14, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुसूक्तम्"
+---
+Author: Vedic Tradition
+Category: sUkta, veda, svara, vishhnu, vishnu
+File name: vishnusukta.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: June 14, 2000
+Location: doc_veda
+Proofread by: Rajagopal Iyer (rajsand at yahoo.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: veda
+Text title: Vishnusukta
+Texttype: svara
+Transliterated by: Rajagopal Iyer (rajsand at yahoo.com)
+engtitle: Vishnusukta
+itxtitle: viShNusUktam
+title: विष्णुसूक्तम्
 
-+++
+---
   
  श्रीविष्णुसूक्तम्   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "mahAlakShmIchaturviMshatinAmastotram"
-"File name" = "mahAlakShmIchaturviMshatinAmastotram.itx"
-itxtitle = "mahAlakShmIchaturviMshatinAmastotram"
-engtitle = "mahAlakShmIchaturviMshatinAmastotram"
-Category = "devii, lakShmI, devI, chaturviMshati"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subrahmanyam Yvs yvspmp at gmail.com"
-"Proofread by" = "Subrahmanyam Yvs, Malleswara Rao Yellapragada"
-Source = "Venkatesha KavyakalApa"
-Indexextra = "(book Venkatesha KavyakalApa)"
-"Latest update" = "July 21, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालक्ष्मीचतुर्विंशतिनामस्तोत्रम्"
+---
+Category: devii, lakShmI, devI, chaturviMshati
+File name: mahAlakShmIchaturviMshatinAmastotram.itx
+Indexextra: (book Venkatesha KavyakalApa)
+Language: Sanskrit
+Latest update: July 21, 2017
+Location: doc_devii
+Proofread by: Subrahmanyam Yvs, Malleswara Rao Yellapragada
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha KavyakalApa
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAlakShmIchaturviMshatinAmastotram
+Transliterated by: Subrahmanyam Yvs yvspmp at gmail.com
+engtitle: mahAlakShmIchaturviMshatinAmastotram
+itxtitle: mahAlakShmIchaturviMshatinAmastotram
+title: महालक्ष्मीचतुर्विंशतिनामस्तोत्रम्
 
-+++
+---
   
  महालक्ष्मीचतुर्विंशतिनामस्तोत्रम्   
   

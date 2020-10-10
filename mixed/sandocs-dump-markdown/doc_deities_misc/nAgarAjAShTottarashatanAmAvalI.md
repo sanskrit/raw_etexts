@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrImat nAgarAjAShTottarashatanAmAvalI"
-"File name" = "nAgarAjAShTottarashatanAmAvalI.itx"
-itxtitle = "nAgarAjAShTottarashatanAmAvalI"
-engtitle = "nAgarAjAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "See also nAgadevatAShTottarashatanAmAvaliH and anantapadmanAbhAShTottarashatanAmAvaliH"
-"Latest update" = "June 15, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नागराजाष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, deities_misc
+Description-comments: See also nAgadevatAShTottarashatanAmAvaliH and anantapadmanAbhAShTottarashatanAmAvaliH
+File name: nAgarAjAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: June 15, 2016
+Location: doc_deities_misc
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shrImat nAgarAjAShTottarashatanAmAvalI
+engtitle: nAgarAjAShTottarashatanAmAvalI
+itxtitle: nAgarAjAShTottarashatanAmAvalI
+title: नागराजाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीनागराजाष्टोत्तरशतनामावलिः   
 नमस्करोमि देवेश नागेन्द्र हरभूषण ।  

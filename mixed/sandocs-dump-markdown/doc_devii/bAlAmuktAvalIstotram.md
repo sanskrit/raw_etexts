@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Muktavali Stotram"
-"File name" = "bAlAmuktAvalIstotram.itx"
-itxtitle = "bAlAmuktAvalIstotram"
-engtitle = "bAlAmuktAvalIstotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालामुक्तावलीस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAmuktAvalIstotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Muktavali Stotram
+engtitle: bAlAmuktAvalIstotram
+itxtitle: bAlAmuktAvalIstotram
+title: बालामुक्तावलीस्तोत्रम्
 
-+++
+---
   
  श्रीबालामुक्तावलीस्तोत्रम्   
 बालार्ककोटिरुचिरां कोटिब्रह्माण्डभूषिताम् ।  

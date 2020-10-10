@@ -1,23 +1,23 @@
-+++
-"Text title" = "viShNustutiHkardama"
-"File name" = "viShNustutiHkardama.itx"
-itxtitle = "viShNustutiH (kardamakRitA bhAgavatAntargatA)"
-engtitle = "viShNustutiHkardama"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तुतिः (कर्दमकृइता भागवतान्तर्गता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viShNustutiHkardama.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNustutiHkardama
+engtitle: viShNustutiHkardama
+itxtitle: viShNustutiH (kardamakRitA bhAgavatAntargatA)
+title: विष्णुस्तुतिः (कर्दमकृइता भागवतान्तर्गता)
 
-+++
+---
   
  श्रीविष्णुस्तुतिः (कर्दमकृता)   
   

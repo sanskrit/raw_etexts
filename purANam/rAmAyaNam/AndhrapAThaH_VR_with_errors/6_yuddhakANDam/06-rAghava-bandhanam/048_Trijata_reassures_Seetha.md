@@ -3,7 +3,6 @@ title: 048 Trijata reassures Seetha
 title_english: 048 Trijata reassures Seetha
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-048-Trijata_reassures_Seetha_0.mp3"></div>
 
 भर्तारम् निहतम् दृष्ट्वा लक्ष्मणम् च महा बलम् ।  
@@ -79,6 +78,6 @@ title_english: 048 Trijata reassures Seetha
 ततस् त्रिजटया सार्धम् पुष्पकाद् अवरुह्य सा ।  
 अशोक वनिकाम् एव रक्षसीभिह् प्रवेशिता ॥ ६-४८-३६  
 प्रविश्य सीता बहु वृक्ष षण्डाम् ।  
-ताम् राक्षस इन्द्रस्य विहार भूमिम् ।सम्प्रेक्ष्य संचिन्त्य च राज पुत्रौ ।  
+ताम् राक्षस इन्द्रस्य विहार भूमिम् ।सम्प्रेक्ष्य सञ्चिन्त्य च राज पुत्रौ ।  
 परम् विषादम् समुपाजगाम ॥ ६-४८-३७  
 इत्यार्षे श्रीमद्रामायने आदिकाव्ये युद्धकाण्डे अष्टचत्वारिंशः सर्गः

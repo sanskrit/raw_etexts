@@ -1,24 +1,24 @@
-+++
-"Text title" = "reNukAsahasranAmastotra padmapurANe"
-"File name" = "reNukAsahasranAmastotra.itx"
-itxtitle = "reNukAsahasranAmastotram"
-engtitle = "reNukAsahasranAmastotram"
-Category = "sahasranAma, devii, reNukA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Singanallur Ganesan singanallur at gmail.com"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-Description-comments = "from shrIreNukAtantram, Pitambarapeeth, Datia"
-"Latest update" = "March 24, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकासहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, devii, reNukA, stotra, devI
+Description-comments: from shrIreNukAtantram, Pitambarapeeth, Datia
+File name: reNukAsahasranAmastotra.itx
+Language: Sanskrit
+Latest update: March 24, 2013
+Location: doc_devii
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAsahasranAmastotra padmapurANe
+Texttype: stotra
+Transliterated by: Singanallur Ganesan singanallur at gmail.com
+engtitle: reNukAsahasranAmastotram
+itxtitle: reNukAsahasranAmastotram
+title: रेणुकासहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीरेणुकासहस्रनामस्तोत्रम्   
   
@@ -226,7 +226,7 @@ title = "रेणुकासहस्रनामस्तोत्रम्"
 तिलोत्तमाप्सरोरूपा नवनागस्वरूपिणी ॥ ५८॥  
   
 निधिरूपा समाधिस्था खड्गरूपा शवस्थिता ।  
-महिषासुरदत्तांघ्रिः सिंहगा सिंहगामिनी ॥ ५९॥  
+महिषासुरदत्ताङ्घ्रिः सिंहगा सिंहगामिनी ॥ ५९॥  
   
 त्रिशूलधारिणी प्रौढा बाला मुग्धा सुधर्मिणी ।  
 शङ्खभृच्चक्रभृत्पाशा गदाभृत्पाशमण्डिता ॥ ६०॥  
@@ -273,7 +273,7 @@ title = "रेणुकासहस्रनामस्तोत्रम्"
 मधुकैटभहन्त्री च सर्वदेवशरीरभृत् ।  
 त्रिपुरा पुण्यकीर्तिश्च नृपवश्यप्रदायिनी ॥ ७४॥  
   
-सांख्यविद्या त्रयीविद्या योगविद्या रविस्थिता ।  
+साङ्ख्यविद्या त्रयीविद्या योगविद्या रविस्थिता ।  
 स्थावरा जङ्गमा क्षान्तिर्बलिशक्तिर्बलिप्रिया ॥ ७५॥  
   
 महिषासुरनिर्णाशी दैत्यसैन्यपरान्तकृत् ।  
@@ -435,7 +435,7 @@ title = "रेणुकासहस्रनामस्तोत्रम्"
 सावित्री भैरवीविघ्ना पीतापीताम्बरप्रभुः ।  
 दशवक्त्रानवद्याङ्गी त्रिंशल्लोचनभूषिता ॥ १२८॥  
   
-दशांघ्रिर्दशदोर्दण्डा स्फुरद्दंष्ट्रातिभीषणा ।  
+दशाङ्घ्रिर्दशदोर्दण्डा स्फुरद्दंष्ट्रातिभीषणा ।  
 कर्पूरकान्तिवदना नीलबाहुरनुत्तमा ॥ १२९॥  
   
 ब्रह्मगेया मुनिध्येया ह्रीङ्कारा कामविग्रहा ।  
@@ -499,7 +499,7 @@ title = "रेणुकासहस्रनामस्तोत्रम्"
 इन्द्राणी च महामारी सर्वतोऽक्षिशिरोमुखा ॥ १४९॥  
   
 सप्ताधिसंश्रया सत्ता सप्तद्वीपाब्धिमेखला ।  
-सूर्यदीप्तिर्वज्रपंक्तिः पानोन्मत्ता च पिङ्गला ॥ १५०॥  
+सूर्यदीप्तिर्वज्रपङ्क्तिः पानोन्मत्ता च पिङ्गला ॥ १५०॥  
   
 सर्वज्ञा विश्वमाता च भक्तानुग्रहकारिणी ।  
 विश्वप्रिया प्राणशक्तिरनन्तगुणनामधीः ॥ १५१॥  
@@ -536,7 +536,7 @@ title = "रेणुकासहस्रनामस्तोत्रम्"
 जगदम्बामयं पश्यन् सकलं दृष्टिगोचरम् ।  
 दीपिकाडमरूत्साहं भक्तैः सह निशां नयेत् ॥ १६१॥  
   
-अवर्षणे धराकम्पे संक्षोभे सागरस्य च ।  
+अवर्षणे धराकम्पे सङ्क्षोभे सागरस्य च ।  
 आवर्तनसहस्रेण निश्चिते जायते शुभम् ॥ १६२॥  
   
 दुष्टोत्पाते महाघोरे सङ्कटे दुरतिक्रमे ।  

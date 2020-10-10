@@ -1,24 +1,24 @@
-+++
-"Text title" = "mRityunjayasahasranAmastotram"
-"File name" = "mRityunjayasahasra.itx"
-itxtitle = "mRityunjayasahasranAmastotram"
-engtitle = "mRityunjayasahasranAmastotram"
-Category = "sahasranAma, shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale tantre devIrahasye"
-"Latest update" = "January 24, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मृइत्युञ्जयसहस्रनामस्तोत्रम्"
+---
+Author: Traditional
+Category: sahasranAma, shiva, stotra
+Description-comments: rudrayAmale tantre devIrahasye
+File name: mRityunjayasahasra.itx
+Language: Sanskrit
+Latest update: January 24, 2013
+Location: doc_shiva
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mRityunjayasahasranAmastotram
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: mRityunjayasahasranAmastotram
+itxtitle: mRityunjayasahasranAmastotram
+title: मृइत्युञ्जयसहस्रनामस्तोत्रम्
 
-+++
+---
   
  मृत्युञ्जयसहस्रनामस्तोत्रम्   
   
@@ -407,7 +407,7 @@ title = "मृइत्युञ्जयसहस्रनामस्तो�
 ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् ॥ १२३॥  
   
 उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात् ।  
-ॐहौंजुंसः ॐभूर्भुवः स्वः ॐजुंसः मृत्युञ्जयः ॥ १२४॥  
+ॐहौञ्जुंसः ॐभूर्भुवः स्वः ॐजुंसः मृत्युञ्जयः ॥ १२४॥  
   
 इदं नाम्नां सहस्रं तु रहस्यं परमाद्भुतम् ।  
 सर्वस्वं नाकिनां देवि जन्तूनां भुवि का कथा ॥ १२५॥  
@@ -430,7 +430,7 @@ title = "मृइत्युञ्जयसहस्रनामस्तो�
 चतुष्पथे चैकलिङ्गे मरुदेशे वनेऽजने ।  
 श्मशाने प्रान्तरे दुर्गे पाठात् सिद्धिर्न संशयः ॥ १३१॥  
   
-नौकायां चौरसङ्घे च सङ्कटे प्राणसंक्षये ।  
+नौकायां चौरसङ्घे च सङ्कटे प्राणसङ्क्षये ।  
 यत्र यत्र भये प्राप्ते विषवह्निभयादिषु ॥ १३२॥  
   
 पठेत् सहस्रनामाशु मुच्यते नात्र संशयः ।  

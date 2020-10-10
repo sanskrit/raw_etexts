@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhairavI Stavaraja"
-"File name" = "bhairavIstavarAja.itx"
-itxtitle = "bhairavIstavarAjaH"
-engtitle = "bhairavIstavarAjaH"
-Category = "stavarAja, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay"
-"Latest update" = "October 1, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भैरवीस्तवराजः"
+---
+Category: stavarAja, devii, dashamahAvidyA, devI
+File name: bhairavIstavarAja.itx
+Language: Sanskrit
+Latest update: October 1, 2016
+Location: doc_devii
+Proofread by: Gopal Upadhyay
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhairavI Stavaraja
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: bhairavIstavarAjaH
+itxtitle: bhairavIstavarAjaH
+title: भैरवीस्तवराजः
 
-+++
+---
   
  श्रीभैरवीस्तवराजः   
   

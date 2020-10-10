@@ -1,25 +1,25 @@
-+++
-"Text title" = "kIlakastotram from Durga Spatashati or Devi Mahatmya"
-"File name" = "kiilakastotra.itx"
-itxtitle = "kIlakastotram"
-engtitle = "kIlakastotram"
-Category = "devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Smt. K. Shankaran"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Verses for devi durga"
-"Latest update" = "April 21, 1998, July 4, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कीलकस्तोत्रम्"
+---
+Author: Traditional
+Category: devii, durgA, stotra, devI
+Description-comments: Verses for devi durga
+File name: kiilakastotra.itx
+Language: Sanskrit
+Latest update: April 21, 1998, July 4, 2008
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kIlakastotram from Durga Spatashati or Devi Mahatmya
+Texttype: stotra
+Transliterated by: Smt. K. Shankaran
+engtitle: kIlakastotram
+itxtitle: kIlakastotram
+title: कीलकस्तोत्रम्
 
-+++
+---
   
  कीलकस्तोत्रम्   
   

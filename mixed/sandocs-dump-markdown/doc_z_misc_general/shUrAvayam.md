@@ -1,23 +1,23 @@
-+++
-"Text title" = "shUrAvayam"
-"File name" = "shUrAvayam.itx"
-itxtitle = "shUrAvayam"
-engtitle = "shUrAvayam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Audio 1, 2, 3)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शूरावयम्"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: shUrAvayam.itx
+Indexextra: (Wiki, Audio 1, 2, 3)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: shUrAvayam
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: shUrAvayam
+itxtitle: shUrAvayam
+title: शूरावयम्
 
-+++
+---
   
  शूरा वयम्   
 शूरा वयं धीरा वयं वीरा वयं सुतरां  

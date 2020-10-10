@@ -1,22 +1,22 @@
-+++
-"Text title" = "gopikAvirahagItam"
-"File name" = "gopikAvirahagItam.itx"
-itxtitle = "gopikAvirahagItam"
-engtitle = "gopikAvirahagItam"
-Category = "devii, rAmAnujasampradAya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपिकाविरहगीतम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: devii, rAmAnujasampradAya, devI
+File name: gopikAvirahagItam.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gopikAvirahagItam
+engtitle: gopikAvirahagItam
+itxtitle: gopikAvirahagItam
+title: गोपिकाविरहगीतम्
 
-+++
+---
   
  श्रीगोपिकाविरहगीतम्   
   

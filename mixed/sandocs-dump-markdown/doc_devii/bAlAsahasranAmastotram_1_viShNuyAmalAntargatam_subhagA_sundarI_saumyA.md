@@ -1,25 +1,25 @@
-+++
-"Text title" = "bAlAsahasranAmastotram 1"
-"File name" = "bAlAsahasranAmastotram.itx"
-itxtitle = "bAlAsahasranAmastotram 1 (viShNuyAmalAntargatam subhagA sundarI saumyA)"
-engtitle = "bAlAsahasranAmastotram 1"
-Category = "sahasranAma, devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Vishnuyamala tantra, bAlAsaparyA"
-Indexextra = "(stotramanjari 1, Scan)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "June 29, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालासहस्रनामस्तोत्रम् १ (विष्णुयामलान्तर्गतम् सुभगा सुन्दरी सौम्या)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAma, devii, devI, dashamahAvidyA
+Description/comments: Vishnuyamala tantra, bAlAsaparyA
+File name: bAlAsahasranAmastotram.itx
+Indexextra: (stotramanjari 1, Scan)
+Language: Sanskrit
+Latest update: June 29, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAsahasranAmastotram 1
+Transliterated by: Shree Devi Kumar
+engtitle: bAlAsahasranAmastotram 1
+itxtitle: bAlAsahasranAmastotram 1 (viShNuyAmalAntargatam subhagA sundarI saumyA)
+title: बालासहस्रनामस्तोत्रम् १ (विष्णुयामलान्तर्गतम् सुभगा सुन्दरी सौम्या)
 
-+++
+---
   
  श्रीबालासहस्रनामस्तोत्रम् १   
 श्रीदेव्युवाच -  
@@ -47,7 +47,7 @@ title = "बालासहस्रनामस्तोत्रम् १ (�
 एवं हृदयादिन्यासः ।  
   
 ध्यानम् -  
-ऐंकारासनगर्भितानलशिखां सौः क्लीं कलां बिभ्रतीं  
+ऐङ्कारासनगर्भितानलशिखां सौः क्लीं कलां बिभ्रतीं  
 सौवर्णाम्बरधारिणीं वरसुधाधौतान्तरङ्गोज्ज्वलाम् ।  
 वन्दे पुस्तकपाशसाङ्कुशजपस्रग्भासुरोद्यत्करां  
 तां बालां त्रिपुरां भजे त्रिनयनां षट्चक्रसञ्चारिणीम् ॥ ४॥  
@@ -390,7 +390,7 @@ title = "बालासहस्रनामस्तोत्रम् १ (�
 जङ्घिनी स्फोटिनी रफूर्तिः स्तम्भिनी शोषिणी प्लुता ॥ ११६॥  
   
 ऐङ्काराख्या वामदेवी खण्डिनी चण्डदण्डिनी ।  
-क्लींकारी वत्सला हृष्टा सौःकारी मदहंसिका ॥ ११७॥  
+क्लीङ्कारी वत्सला हृष्टा सौःकारी मदहंसिका ॥ ११७॥  
   
 वज्रिणी द्राविणी जैत्री श्रीमती गोमती ध्रुवा ।  
 परतेजोमयी संवित्पूर्णपीठनिवासिनी ॥ ११८॥  

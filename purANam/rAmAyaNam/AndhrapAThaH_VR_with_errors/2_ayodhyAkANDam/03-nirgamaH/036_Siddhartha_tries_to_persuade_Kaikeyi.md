@@ -3,7 +3,6 @@ title: 036 Siddhartha tries to persuade Kaikeyi
 title_english: 036 Siddhartha tries to persuade Kaikeyi
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-036-Sidhdhardasya_Kaikeyyupadeshaha.mp3"></div>
 
 ततः सुमन्त्रम् ऐक्ष्वाकः पीडितः अत्र प्रतिज्ञया ।  
@@ -58,9 +57,9 @@ title_english: 036 Siddhartha tries to persuade Kaikeyi
 दिशः सर्वास्त्वनुचरन् स यथा पापकर्मकृत् ॥ २-३६-२५  
 इति एवम् अत्यजद् राजा सगरः वै सुधार्मिकः ।  
 रामः किम् अकरोत् पापम् येन एवम् उपरुध्यते ॥ २-३६-२६  
-न हि कंचन पश्यामो राघवस्यागुणम् वयम् ।  
+न हि कञ्चन पश्यामो राघवस्यागुणम् वयम् ।  
 दुर्लभो यस्य निरयः श्शाङ्कस्येव कल्मषम् ॥ २-३६-२७  
-अथवा देवि दोषम् त्वं कंचित्पश्यसि राघवे ।  
+अथवा देवि दोषम् त्वं कञ्चित्पश्यसि राघवे ।  
 तमद्य ब्रूहि तत्वैन तदा रोमो विवास्यताम् ॥ २-३६-२८  
 अदुष्टस्य हि सम्त्यागः सत्पथे निरतस्य च ।  
 निर्दहे दपि शक्रस्य द्युतिम् धर्मनिरोधनात् ॥ २-३६-२९  

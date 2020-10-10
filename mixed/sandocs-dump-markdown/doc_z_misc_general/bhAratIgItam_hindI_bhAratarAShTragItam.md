@@ -1,24 +1,25 @@
-+++
-"Text title" = "Bharati Gitam"
-"File name" = "bhAratIgItam.itx"
-itxtitle = "bhAratIgItam (hindI bhAratarAShTragItam)"
-engtitle = "bhAratIgItam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "sUryakAntatripAThI \"nirAlA\""
-Language = "Sanskrit, Hindi"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारतीगीतम् (हिन्दी भारतराष्ट्रगीतम्)"
+---
+Author: sUryakAntatripAThI "nirAlA"
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: bhAratIgItam.itx
+Indexextra: (Text)
+Language: Sanskrit, Hindi
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bharati Gitam
+Translated by: Mandar Mali
+engtitle: bhAratIgItam
+itxtitle: bhAratIgItam (hindI bhAratarAShTragItam)
+title: भारतीगीतम् (हिन्दी भारतराष्ट्रगीतम्)
 
-+++
+---
   
  भारतीगीतम्   
      भारती जय विजय करे  

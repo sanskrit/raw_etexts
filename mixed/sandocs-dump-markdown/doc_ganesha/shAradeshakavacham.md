@@ -1,22 +1,22 @@
-+++
-"Text title" = "shAradeshakavacham Out of print gaNapatI kavach"
-"File name" = "shAradeshakavacham.itx"
-itxtitle = "shAradeshakavacham"
-engtitle = "shAradeshakavacham"
-Category = "kavacha, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "shrIvinAyakatantre"
-"Latest update" = "Sept, 03, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदेशकवचम्"
+---
+Category: kavacha, ganesha
+Description-comments: shrIvinAyakatantre
+File name: shAradeshakavacham.itx
+Language: Sanskrit
+Latest update: Sept, 03, 2008
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: ganesha
+Text title: shAradeshakavacham Out of print gaNapatI kavach
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: shAradeshakavacham
+itxtitle: shAradeshakavacham
+title: शारदेशकवचम्
 
-+++
+---
   
  श्रीशारदेशकवच   
   

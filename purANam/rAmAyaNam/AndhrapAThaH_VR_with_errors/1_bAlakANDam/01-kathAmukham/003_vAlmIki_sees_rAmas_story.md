@@ -3,7 +3,6 @@ title: 003 सङ्क्षिप्तरामकथा
 title_english: 003 Valmiki sees rAma's story
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-003-Samkshipta_Rama_Katha.mp3"></div>
 
 श्रुत्वा वस्तु समग्रं तद्धर्मात्मा धर्मसंहितम्।  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "puruShottamasahasranAmastotra"
-"File name" = "puruShottamasahasranAmastotra.itx"
-itxtitle = "puruShottamasahasranAmastotram (vallabhAchAryavirachitam)"
-engtitle = "Shri Purushottamasahasranamastotra"
-Category = "sahasranAma, vishhnu, vishnu_misc, stotra, vallabhaachaarya, vishnu, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Texttype = "stotra"
-Author = "Vallabhacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunderh Hattangadi sunderh at hotmail.com"
-Description-comments = "http://www.parikhparivar.com"
-Indexextra = "(parikhparivar, pushti margiya stotraratnAkara, preamble)"
-"Latest update" = "March 5, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पुरुषोत्तमसहस्रनामस्तोत्रम् (वल्लभाचार्यविरचितम्)"
+---
+Author: Vallabhacharya
+Category: sahasranAma, vishhnu, vishnu_misc, stotra, vallabhaachaarya, vishnu, puShTimArgIya
+Description-comments: http://www.parikhparivar.com
+File name: puruShottamasahasranAmastotra.itx
+Indexextra: (parikhparivar, pushti margiya stotraratnAkara, preamble)
+Language: Sanskrit
+Latest update: March 5, 2013
+Location: doc_vishhnu
+Proofread by: Sunderh Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: puruShottamasahasranAmastotra
+Texttype: stotra
+engtitle: Shri Purushottamasahasranamastotra
+itxtitle: puruShottamasahasranAmastotram (vallabhAchAryavirachitam)
+title: पुरुषोत्तमसहस्रनामस्तोत्रम् (वल्लभाचार्यविरचितम्)
 
-+++
+---
   
  श्रीपुरुषोत्तमसहस्रनामस्तोत्रम्   
   

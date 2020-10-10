@@ -1,27 +1,27 @@
-+++
-"Text title" = "naaraayaNasuuktaM"
-"File name" = "narayanasukta.itx"
-itxtitle = "nArAyaNasUktam"
-engtitle = "Narayanasukta"
-Category = "sUkta, veda, narayana, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-SubDeity = "vishnu"
-Subcategory = "narayana"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-"Proofread by" = "Rajagopal Iyer, Swami Mahayogananda mahayogananda at vedanta.org"
-Description-comments = "10th prapAThaka, 13th anuvAka, 1 and 2"
-Indexextra = "(text, meaning)"
-"Latest update" = "July 28, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणसूक्तम्"
+---
+Author: Vedic Tradition
+Category: sUkta, veda, narayana, svara
+Description-comments: 10th prapAThaka, 13th anuvAka, 1 and 2
+File name: narayanasukta.itx
+Indexextra: (text, meaning)
+Language: Sanskrit
+Latest update: July 28, 2018
+Location: doc_veda
+Proofread by: Rajagopal Iyer, Swami Mahayogananda mahayogananda at vedanta.org
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: narayana
+Subject: philosophy/hinduism
+Sublocation: veda
+Text title: naaraayaNasuuktaM
+Texttype: svara
+Transliterated by: Rajagopal Iyer (rajsand at yahoo.com)
+engtitle: Narayanasukta
+itxtitle: nArAyaNasUktam
+title: नारायणसूक्तम्
 
-+++
+---
   
  नारायणसूक्तम्   
 तैत्तिरीयारण्यकम्, प्रपाठकः - १०  अनुवाकः - १३  

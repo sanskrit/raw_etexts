@@ -1,22 +1,22 @@
-+++
-"Text title" = "lalitAShTottarashatanAmAvalI 2"
-"File name" = "lalitAShTottarashatanAmAvalI2.itx"
-itxtitle = "lalitAShTottarashatanAmAvaliH 2 (bhUrUpasakalAdhArAyai)"
-engtitle = "lalitAShTottarashatanAmAvalI 2"
-Category = "aShTottarashatanAmAvalI, devii, lalitA, dashamahAvidyA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan ajit.krishnan at gmail.com"
-"Proofread by" = "Ajit Krishnan ajit.krishnan at gmail.com"
-"Latest update" = "May 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललिताष्टोत्तरशतनामावलिः २ (भूरूपसकलाधारायै)"
+---
+Category: aShTottarashatanAmAvalI, devii, lalitA, dashamahAvidyA, nAmAvalI, devI
+File name: lalitAShTottarashatanAmAvalI2.itx
+Language: Sanskrit
+Latest update: May 6, 2018
+Location: doc_devii
+Proofread by: Ajit Krishnan ajit.krishnan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitAShTottarashatanAmAvalI 2
+Transliterated by: Ajit Krishnan ajit.krishnan at gmail.com
+engtitle: lalitAShTottarashatanAmAvalI 2
+itxtitle: lalitAShTottarashatanAmAvaliH 2 (bhUrUpasakalAdhArAyai)
+title: ललिताष्टोत्तरशतनामावलिः २ (भूरूपसकलाधारायै)
 
-+++
+---
   
  श्रीललिताष्टोत्तरशतनामावलिः २   
   

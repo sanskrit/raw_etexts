@@ -1,24 +1,24 @@
-+++
-"Text title" = "navaratnastotram"
-"File name" = "navaratnastotram.itx"
-itxtitle = "navaratnastotram (vallabhAchAryavirachitam)"
-engtitle = "navaratnastotram"
-Category = "vishhnu, krishna, puShTimArgIya, nava, vallabhaachaarya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवरत्नस्तोत्रम् (वल्लभाचार्यविरचितम्)"
+---
+Author: vallabhAchArya
+Category: vishhnu, krishna, puShTimArgIya, nava, vallabhaachaarya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: navaratnastotram.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: navaratnastotram
+engtitle: navaratnastotram
+itxtitle: navaratnastotram (vallabhAchAryavirachitam)
+title: नवरत्नस्तोत्रम् (वल्लभाचार्यविरचितम्)
 
-+++
+---
   
  नवरत्नस्तोत्रम्   
   

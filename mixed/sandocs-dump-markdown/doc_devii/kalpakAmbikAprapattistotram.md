@@ -1,24 +1,24 @@
-+++
-"Text title" = "Kalpakambika Prapatti Stotram"
-"File name" = "kalpakAmbikAprapattistotram.itx"
-itxtitle = "kalpakAmbikAprapattistotram"
-engtitle = "kalpakAmbikAprapattistotram"
-Category = "prapatti, devii, devI, otherforms"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Author = "sheShashAyIsharmA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Tamil)"
-"Latest update" = "July 2, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कल्पकाम्बिकाप्रपत्तिस्तोत्रम्"
+---
+Author: sheShashAyIsharmA
+Category: prapatti, devii, devI, otherforms
+File name: kalpakAmbikAprapattistotram.itx
+Indexextra: (Tamil)
+Language: Sanskrit
+Latest update: July 2, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kalpakambika Prapatti Stotram
+Texttype: stotra
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: kalpakAmbikAprapattistotram
+itxtitle: kalpakAmbikAprapattistotram
+title: कल्पकाम्बिकाप्रपत्तिस्तोत्रम्
 
-+++
+---
   
  श्रीकल्पकाम्बिका प्रपत्तिस्तोत्रम्   
 वन्द्यामरेन्द्रमुनिवर्यनतिप्रसन्ने  
@@ -43,7 +43,7 @@ title = "कल्पकाम्बिकाप्रपत्तिस्त�
   
 कीर्त्तिः पर्वतराजकुमरर्याः कथनीया  
      भर्त्तारं तं मारजितं ते सञ्चक्रे ।  
-सत्याः पूर्वं देहलये या संप्राप्ता  
+सत्याः पूर्वं देहलये या सम्प्राप्ता  
      यस्यास्तस्याः कम्रपदाम्बुजमहमीडे ॥ ५॥  
   
 उद्यद्भास्कररश्मिसमानां ते कान्तिं  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "shAradAsahasranAmAvalI"
-"File name" = "shAradAsahasranAmAvalI.itx"
-itxtitle = "shAradAsahasranAmAvaliH (rudrayAmalAntargatam)"
-engtitle = "shAradAsahasranAmAvalI"
-Category = "sahasranAmAvalI, devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "See corresponding stotra"
-Source = "Rudrayamalatantra"
-Indexextra = "(Scan)"
-"Latest update" = "May 25, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदासहस्रनामावलिः (रुद्रयामलान्तर्गतम्)"
+---
+Category: sahasranAmAvalI, devii, sarasvatI, devI
+Description/comments: See corresponding stotra
+File name: shAradAsahasranAmAvalI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 25, 2017
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalatantra
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAsahasranAmAvalI
+Transliterated by: DPD
+engtitle: shAradAsahasranAmAvalI
+itxtitle: shAradAsahasranAmAvaliH (rudrayAmalAntargatam)
+title: शारदासहस्रनामावलिः (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीशारदासहस्रनामावलिः   
 श्रीशारदाशताधिकसहस्रनामावलिः ।  
@@ -756,7 +756,7 @@ title = "शारदासहस्रनामावलिः (रुद्र
 ॐ मघामोघायै नमः ।  
 ॐ इणाक्ष्यै नमः ।  
 ॐ ऐश्वर्यपददायिन्यै नमः ।  
-ॐ ऐंकार्यै नमः ।  
+ॐ ऐङ्कार्यै नमः ।  
 ॐ चन्द्रमुकुटायै नमः ।  
 ॐ पूर्वाफाल्गुनिकीश्वर्यै नमः ।  
 ॐ उत्तराफल्गुहस्तायै नमः । (६८०)  

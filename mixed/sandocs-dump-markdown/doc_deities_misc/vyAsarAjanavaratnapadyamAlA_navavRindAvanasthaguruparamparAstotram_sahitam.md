@@ -1,25 +1,25 @@
-+++
-"Text title" = "Vyasaraja Tirtha Navaratna Padya Mala"
-"File name" = "vyAsarAjanavaratnapadyamAlA.itx"
-itxtitle = "vyAsarAjanavaratnapadyamAlA navavRindAvanasthaguruparamparAstotram sahitam"
-engtitle = "vyAsarAjanavaratnapadyamAlA"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Venkataramanacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta at gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta at gmail.com"
-"Description/comments" = "Vyasaraja Tirtha of 13th century AD"
-Indexextra = "(Scan, Info 1, 2)"
-"Latest update" = "September 20, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "व्यासराजनवरत्नपद्यमाला नववृइन्दावनस्थगुरुपरम्परास्तोत्रम् सहितम्"
+---
+Author: Venkataramanacharya
+Category: deities_misc, gurudev
+Description/comments: Vyasaraja Tirtha of 13th century AD
+File name: vyAsarAjanavaratnapadyamAlA.itx
+Indexextra: (Scan, Info 1, 2)
+Language: Sanskrit
+Latest update: September 20, 2019
+Location: doc_deities_misc
+Proofread by: Mandar Mali aryavrutta at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Vyasaraja Tirtha Navaratna Padya Mala
+Transliterated by: Mandar Mali aryavrutta at gmail.com
+engtitle: vyAsarAjanavaratnapadyamAlA
+itxtitle: vyAsarAjanavaratnapadyamAlA navavRindAvanasthaguruparamparAstotram sahitam
+title: व्यासराजनवरत्नपद्यमाला नववृइन्दावनस्थगुरुपरम्परास्तोत्रम् सहितम्
 
-+++
+---
   
  श्रीव्यासराजनवरत्नपद्यमाला   
 श्रीनववृन्दावनस्थगुरुपरम्परास्तोत्रसहितम्  
@@ -107,7 +107,7 @@ title = "व्यासराजनवरत्नपद्यमाला न�
 अर्थिकल्पितकल्पोऽयं प्रत्यर्थिकरिकेसरी ।  
 व्यासतीर्थगुरुभूयादस्मदिष्टार्थसिद्धये ॥ श्रीः ॥  
   
-पद वाक्यप्रमाणज्ञान् संप्रदायार्थकोविदान् ।  
+पद वाक्यप्रमाणज्ञान् सम्प्रदायार्थकोविदान् ।  
 व्यासतीर्थमुनीन्वन्दे दुर्वादिफाणिपक्षिपान् ।  
   
 इति श्रीवेङ्कटरमणाचार्यविरचितं  

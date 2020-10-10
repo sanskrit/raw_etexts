@@ -1,29 +1,29 @@
-+++
-"Text title" = "shrii siva chaaliisaa"
-"File name" = "siva40.itx"
-itxtitle = "shiva chAlIsA"
-engtitle = "shri shiva chalisa"
-Category = "chAlisA, shiva"
-Location = "doc_z_otherlang_hindi"
-Sublocation = "shiva"
-Author = "Ayodhyadasa; Swami Sivananda"
-Language = "Hindi"
-Subject = "hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "Devotional hymn to Shiva, of 40 verses"
-"Latest update" = "March 13, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिव चालीसा"
+---
+Author: Ayodhyadasa; Swami Sivananda
+Category: chAlisA, shiva
+Description-comments: Devotional hymn to Shiva, of 40 verses
+File name: siva40.itx
+Language: Hindi
+Latest update: March 13, 2015
+Location: doc_z_otherlang_hindi
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: shiva
+Text title: shrii siva chaaliisaa
+Transliterated by: NA
+engtitle: shri shiva chalisa
+itxtitle: shiva chAlIsA
+title: शिव चालीसा
 
-+++
+---
   
  शिव चालीसा   
               ॐ नमः शिवाय  
   
 दोहा  
-        जय गणेश गिरिजासुवन मंगल मूल सुजान ।  
+        जय गणेश गिरिजासुवन मङ्गल मूल सुजान ।  
         कहत अयोध्यादास तुम देउ अभय वरदान ॥  
   
 Salutation to Girijaa’s son, Ganesha, who is the source of all well being as well as of wisdom. Ayodhyaadaasa entreats you to bless him with fearlessness.   
@@ -34,19 +34,19 @@ Salutation to Girijaa’s son, Ganesha, who is the source of all well being as w
   
 Glory to Girijaa’s consort Shiva, who is compassionate to the destitute who always provides protection to the saintly, the moon on whose forehead sheds its beautiful lustre and in whose ears are the pendants of the cobra hood.  
   
-अंग गौर शिर गंग बहाये । मुण्डमाल तन क्षार लगाये ॥  
+अङ्ग गौर शिर गङ्ग बहाये । मुण्डमाल तन क्षार लगाये ॥  
   
 वस्त्र खाल बाघम्बर सोहे । छवि को देखि नाग मन मोहे ॥  
   
 Of your complexion, O Lord, you are fair and wear a garland of skulls. From your locks streams the Ganga; your body, elegantly attired in tiger skin, is all smeared with ashes. Your loveliness enchanting to beholders charms even serpents and ascetics.  
   
-मैना मातु कि हवे दुलारी । वाम अंग सोहत छवि न्यारी ॥  
+मैना मातु कि हवे दुलारी । वाम अङ्ग सोहत छवि न्यारी ॥  
   
 कर त्रिशूल सोहत छवि भारी । करत सदा शत्रुन क्षयकारी ॥  
   
 The beloved daughter of Maina, Parvati, seated on your left, presents a sight of incomparable loveliness. The trident in your hand, which has always slaughtered its adversaries, looks exceedingly beautiful.  
   
-नंदी गणेश सोहैं तहं कैसे । सागर मध्य कमल हैं जैसे ॥  
+नन्दी गणेश सोहैं तहं कैसे । सागर मध्य कमल हैं जैसे ॥  
   
 कार्तिक श्याम और गणराऊ । या छवि कौ कहि जात न काऊ ॥  
   
@@ -60,7 +60,7 @@ Whenever, O Lord, the gods appealed to you came to their rescue and delivered th
   
 तुरत षडानन आप पठायौ । लव निमेष महं मारि गिरायौ ॥  
   
-आप जलंधर असुर संहारा । सुयश तुम्हार विदित संसारा ॥  
+आप जलन्धर असुर संहारा । सुयश तुम्हार विदित संसारा ॥  
   
 Shadaanana (Kaarttikeya), whom you dispatched at once, felled the foe in the twinkling of an eye. The whole world resounds with your unsullied fame and knows you as the slaughter of the demon Jalandhara.  
   
@@ -76,13 +76,13 @@ By waging a war against the demon, Tripura you had the kindness to save all, and
   
 Your devotees, who never tire of hymning your glories, declare that none among the beneficent equals you in generosity. Although the Vedas glorify your name, you are nonetheless inexpressible and eternal, so that none can fathom your mystery.  
   
-प्रकटे उदधि मंथन में ज्वाला । जरत सुरासुर भए विहाला ॥  
+प्रकटे उदधि मन्थन में ज्वाला । जरत सुरासुर भए विहाला ॥  
   
-कीन्ह दया तहं करी सहाई । नीलकंठ तब नाम कहाई ॥  
+कीन्ह दया तहं करी सहाई । नीलकण्ठ तब नाम कहाई ॥  
   
 Great flames of poisonous fire leapt from the ocean when it was churned the panic-stricken gods and demons that were engulfed in flames began to be burnt alive. Then, showing your gracious compassion, you came to their rescue (by gulping down the venom) and assumed the name of Nilkantha thereafter.  
   
-पूजन रामचंद्र जब कीन्हां । जीत के लंक विभीषण दीन्हा ॥  
+पूजन रामचन्द्र जब कीन्हां । जीत के लङ्क विभीषण दीन्हा ॥  
   
 सहस कमल में हो रहे धारी । कीन्ह परीक्षा तबहिं त्रिपुरारी ॥  
   
@@ -90,11 +90,11 @@ Pleased with Raama’s deep devotion you enabled him to conquer Lanka and crown 
   
 एक कमल प्रभु राखेउ जोई । कमल नयन पूजन चहं सोई ॥  
   
-कठिन भक्ति देखी प्रभु शंकर । भये प्रसन्न दिए इच्छित वर ॥  
+कठिन भक्ति देखी प्रभु शङ्कर । भये प्रसन्न दिए इच्छित वर ॥  
   
 You had, O Lord, concealed one of the oblatory lotuses, but, undeterred, Vishnu offered his own lotus-eye in place of the missing flower. Observing his unflinching devotion, you were exceedingly pleased and granted him the boon he desired most.  
   
-जय जय जय अनंत अविनाशी । करत कृपा सबके घट वासी ॥  
+जय जय जय अनन्त अविनाशी । करत कृपा सबके घट वासी ॥  
   
 दुष्ट सकल नित मोहि सतावैं । भ्रमत रहौं मोहे चैन न आवैं ॥  
   
@@ -102,23 +102,23 @@ Glory, glory, all glory to you, O infinite and eternal Lord! Compassionate to ev
   
 त्राहि त्राहि मैं नाथ पुकारो । यह अवसर मोहि आन उबारो ॥  
   
-ले त्रिशूल शत्रुन को मारो । संकट से मोहिं आन उबारो ॥  
+ले त्रिशूल शत्रुन को मारो । सङ्कट से मोहिं आन उबारो ॥  
   
 Hearken, my Lord, I call you for help save me! Make haste and be my protector. Bring your trident, slaughter my enemies and rescue me from my burning woe.  
   
-मात पिता भ्राता सब कोई । संकट में पूछत नहिं कोई ॥  
+मात पिता भ्राता सब कोई । सङ्कट में पूछत नहिं कोई ॥  
   
-स्वामी एक है आस तुम्हारी । आय हरहु मम संकट भारी ॥  
+स्वामी एक है आस तुम्हारी । आय हरहु मम सङ्कट भारी ॥  
   
 My parents, brother, and other kinsfolk have turned a blind eye to me in my distress. You are O Lord my only hope now, come at once and set me free from this crisis.  
   
-धन निर्धन को देत सदा ही । जो कोई जांचे सो फल पाहीं ॥  
+धन निर्धन को देत सदा ही । जो कोई जाञ्चे सो फल पाहीं ॥  
   
 अस्तुति केहि विधि करों तुम्हारी । क्षमहु नाथ अब चूक हमारी ॥  
   
 You always bestow wealth on the impecunious and let him have whatever he fentreats you for. I wonder how one should sing your praises and glorify you. Please, O Lord, forgive me my sins and transgressions.  
   
-शंकर हो संकट के नाशन । मंगल कारण विघ्न विनाशन ॥  
+शङ्कर हो सङ्कट के नाशन । मङ्गल कारण विघ्न विनाशन ॥  
   
 योगी यति मुनि ध्यान लगावैं । शारद नारद शीश नवावैं ॥  
   
@@ -142,7 +142,7 @@ Even he who is weighted with debt sheds his sin if he chants this hymn (those un
   
 He who invites a learned priest and with full concentration offers fire oblation, regularly observing the vow of trayodashi (The thirteenth day of a lunar fortnight) is completely rid of all afflictions.  
   
-धूप दीप नैवेद्य चढ़ावे । शंकर सम्मुख पाठ सुनावे ॥  
+धूप दीप नैवेद्य चढ़ावे । शङ्कर सम्मुख पाठ सुनावे ॥  
   
 जन्म जन्म के पाप नसावे । अन्त धाम शिवपुर में पावे ॥  
   
@@ -158,20 +158,20 @@ Says Ayodhyaadaasa: ᳚ You are now my only hope, O Lord; being omniscient, you 
   
             अथ त्रिगुण आरती शिवजी की   
   
-जय शिव ओंकारा हर जय शिव ओंकारा  
-ब्रह्मा विष्णु सदाशिव अर्धांगी धारा ॥ टेक॥  
+जय शिव ओङ्कारा हर जय शिव ओङ्कारा  
+ब्रह्मा विष्णु सदाशिव अर्धाङ्गी धारा ॥ टेक॥  
   
-एकानन चतुरानन पंचानन राजे  
+एकानन चतुरानन पञ्चानन राजे  
 हंसानन गरुडासन वृषवाहन साजे ॥ जय॥  
   
 दो भुज चार चतुर्भुज दस भुज अति सोहे  
 तीनों रूप निरखता त्रिभुवन जन मोहे ॥ जय॥  
   
 अक्षमाला बनमाला रुण्डमाला धारी  
-चंदन मृगमद सोहै भाले शशिधारी ॥ जय॥  
+चन्दन मृगमद सोहै भाले शशिधारी ॥ जय॥  
   
-श्वेतांबर पीतांबर बाघंबर अंगे  
-सनकादिक गरुडादिक भूतादिक संगे ॥ जय॥  
+श्वेताम्बर पीताम्बर बाघम्बर अङ्गे  
+सनकादिक गरुडादिक भूतादिक सङ्गे ॥ जय॥  
   
 कर मध्ये सुकमण्डल चक्र त्रिशूल धर्ता  
 जगकर्ता जगभर्ता जगसंहारकर्ता ॥ जय॥  
@@ -183,7 +183,7 @@ Says Ayodhyaadaasa: ᳚ You are now my only hope, O Lord; being omniscient, you 
 नित उठि भोग लगावत महिमा अति भारी ॥ जय॥  
   
 त्रिगुण स्वामी की आरती जो कोई नर गावे  
-कहत शिवानंद स्वामी मनवांछित फल पावे ॥ जय॥  
+कहत शिवानन्द स्वामी मनवाञ्छित फल पावे ॥ जय॥  
   
 ॥ इति॥  
   

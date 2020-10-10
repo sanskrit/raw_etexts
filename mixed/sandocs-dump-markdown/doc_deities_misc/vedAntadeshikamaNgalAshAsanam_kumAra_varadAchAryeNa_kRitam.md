@@ -1,23 +1,23 @@
-+++
-"Text title" = "vedAntadeshikamaNgalAshAsanam"
-"File name" = "vedAntadeshikamaNgalAshAsanam.itx"
-itxtitle = "vedAntadeshikamaNgalAshAsanam (kumAra varadAchAryeNa kRitam)"
-engtitle = "vedAntadeshikamaNgalAshAsanam"
-Category = "deities_misc, gurudev, vedanta"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "kumAra varadAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Source = "Stotras of Vedanta Desika"
-Indexextra = "(Text with comments)"
-"Latest update" = "October 2, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदान्तदेशिकमण्गलाशासनम् (कुमार वरदाचार्येण कृइतम्)"
+---
+Author: kumAra varadAchArya
+Category: deities_misc, gurudev, vedanta
+File name: vedAntadeshikamaNgalAshAsanam.itx
+Indexextra: (Text with comments)
+Language: Sanskrit
+Latest update: October 2, 2017
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotras of Vedanta Desika
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vedAntadeshikamaNgalAshAsanam
+engtitle: vedAntadeshikamaNgalAshAsanam
+itxtitle: vedAntadeshikamaNgalAshAsanam (kumAra varadAchAryeNa kRitam)
+title: वेदान्तदेशिकमण्गलाशासनम् (कुमार वरदाचार्येण कृइतम्)
 
-+++
+---
   
  श्रीमद् वेदान्तदेशिक मङ्गलाशासनम्   
 श्रीः  

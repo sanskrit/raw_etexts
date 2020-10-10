@@ -1,23 +1,23 @@
-+++
-"Text title" = "sarpasUktam"
-"File name" = "sarpasUktam.itx"
-itxtitle = "sarpasUktam"
-engtitle = "sarpasUktam"
-Category = "deities_misc, sUkta, svara"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "In the video chanting, the first verses are chanted in the end."
-Indexextra = "(Video chanting)"
-"Latest update" = "Juny 29, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सर्पसूक्तम्"
+---
+Category: deities_misc, sUkta, svara
+Description/comments: In the video chanting, the first verses are chanted in the end.
+File name: sarpasUktam.itx
+Indexextra: (Video chanting)
+Language: Sanskrit
+Latest update: Juny 29, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: sarpasUktam
+Texttype: svara
+engtitle: sarpasUktam
+itxtitle: sarpasUktam
+title: सर्पसूक्तम्
 
-+++
+---
   
  सर्पसूक्तम्   
 नमोऽस्तु सर्पेभ्यो ये के च पृथिविमनु ।  

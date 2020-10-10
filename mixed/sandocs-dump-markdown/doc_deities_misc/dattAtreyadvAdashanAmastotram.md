@@ -1,20 +1,20 @@
-+++
-"Text title" = "dattAtreyadvAdashanAmastotram"
-"File name" = "dattAtreyadvAdashanAmastotram.itx"
-itxtitle = "dattAtreyadvAdashanAmastotram"
-engtitle = "dattAtreyadvAdashanAmastotram"
-Category = "deities_misc, dattatreya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "July 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयद्वादशनामस्तोत्रम्"
+---
+Category: deities_misc, dattatreya
+File name: dattAtreyadvAdashanAmastotram.itx
+Language: Sanskrit
+Latest update: July 7, 2019
+Location: doc_deities_misc
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattAtreyadvAdashanAmastotram
+engtitle: dattAtreyadvAdashanAmastotram
+itxtitle: dattAtreyadvAdashanAmastotram
+title: दत्तात्रेयद्वादशनामस्तोत्रम्
 
-+++
+---
   
  श्रीदत्तात्रेयद्वादशनामस्तोत्रम्   
 श्री गणेशाय नमः ।  

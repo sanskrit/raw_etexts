@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shiva Sahasranama Stotram from Shivarahasya adhyAya 24"
-"File name" = "shivasahasranAmastotramshivarahasya24.itx"
-itxtitle = "shivasahasranAmastotram (shivarahasyAntargatam adhyAya 24)"
-engtitle = "shivasahasranAmastotram shivarahasyAntargatam adhyAya 24"
-Category = "shiva, sahasranAma"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, NA"
-Description-comments = "See corresponding nAmavalI."
-Source = "Shivarahasya Chapter 24"
-Indexextra = "(Scan, nAmAvalI)"
-"Latest update" = "May 9, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "शिवसहस्रनामस्तोत्रम् (शिवरहस्यान्तर्गतम् अध्याय २४)"
+---
+Category: shiva, sahasranAma
+Description-comments: See corresponding nAmavalI.
+File name: shivasahasranAmastotramshivarahasya24.itx
+Indexextra: (Scan, nAmAvalI)
+Language: Sanskrit
+Latest update: May 9, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Source: Shivarahasya Chapter 24
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shiva Sahasranama Stotram from Shivarahasya adhyAya 24
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: shivasahasranAmastotram shivarahasyAntargatam adhyAya 24
+itxtitle: shivasahasranAmastotram (shivarahasyAntargatam adhyAya 24)
+title: शिवसहस्रनामस्तोत्रम् (शिवरहस्यान्तर्गतम् अध्याय २४)
 
-+++
+---
   
  श्रीशिवसहस्रनामस्तोत्रम् शिवरहस्यान्तर्गतम् अध्याय २४   
 शिवरहस्ये चतुर्विंशोऽध्यायः ॥  

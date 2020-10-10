@@ -1,26 +1,26 @@
-+++
-"Text title" = "Yogini Stotrasaram"
-"File name" = "yoginIstotrasAram.itx"
-itxtitle = "yoginIstotrasAram (rudrayAmalAntargatam)"
-engtitle = "yoginIstotrasAram"
-Category = "devii, ShaTchakrashakti, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगिनीस्तोत्रसारम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: devii, ShaTchakrashakti, devI
+Description/comments: rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde
+File name: yoginIstotrasAram.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Yogini Stotrasaram
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: yoginIstotrasAram
+itxtitle: yoginIstotrasAram (rudrayAmalAntargatam)
+title: योगिनीस्तोत्रसारम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  योगिनीस्तोत्रसारम्   
 योगिनीस्तोत्रसारं च श्रवणाद्धारणाद् यतिः ।  

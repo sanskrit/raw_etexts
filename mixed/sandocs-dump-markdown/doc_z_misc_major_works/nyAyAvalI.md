@@ -1,22 +1,22 @@
-+++
-"Text title" = "nyaayaavalii  Sanskrit Maximums and Proverbs"
-"File name" = "nyaayaavalii.itx"
-itxtitle = "nyAyAvalI"
-engtitle = "Sanskrit Maxims and Proverbs"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Proofread by" = "NA"
-Indexextra = "(Sanskrit Maxims and Proverbs)"
-"Latest update" = "July 2, 2011, July 3, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "न्यायावली"
+---
+Category: major_works
+File name: nyaayaavalii.itx
+Indexextra: (Sanskrit Maxims and Proverbs)
+Language: Sanskrit
+Latest update: July 2, 2011, July 3, 2016
+Location: doc_z_misc_major_works
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: major_works
+Text title: nyaayaavalii  Sanskrit Maximums and Proverbs
+Texttype: pramukha
+engtitle: Sanskrit Maxims and Proverbs
+itxtitle: nyAyAvalI
+title: न्यायावली
 
-+++
+---
   
  न्यायावलिः   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "goShTheshvaraaShtakam"
-"File name" = "goShTheshvara8.itx"
-itxtitle = "goShTheshvarAShTakam"
-engtitle = "Hymn to kOTTai Ishvara"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-"Proofread by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-Description-comments = "Hymn on goShteshvara, kOTTai Ishvara"
-Indexextra = "(kOTTai Ishvarar)"
-"Latest update" = "February 13, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोष्ठेश्वराष्टकम्"
+---
+Category: aShTaka, shiva
+Description-comments: Hymn on goShteshvara, kOTTai Ishvara
+File name: goShTheshvara8.itx
+Indexextra: (kOTTai Ishvarar)
+Language: Sanskrit
+Latest update: February 13, 2002
+Location: doc_shiva
+Proofread by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: shiva
+Text title: goShTheshvaraaShtakam
+Transliterated by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+engtitle: Hymn to kOTTai Ishvara
+itxtitle: goShTheshvarAShTakam
+title: गोष्ठेश्वराष्टकम्
 
-+++
+---
   
  गोष्ठेश्वराष्टकम्   
   
@@ -53,7 +53,7 @@ title = "गोष्ठेश्वराष्टकम्"
   
 कल्पादिस्थलमध्यभागनिलये श्रीविश्वनाथाभिधे  
 लिङ्गे पिप्पिलकाननान्तरगतश्रीगोष्ठनाथाभिधः ।  
-श्रीशम्भुः करुणानिधिः प्रकुरुते सांनिध्यमन्यादृशं  
+श्रीशम्भुः करुणानिधिः प्रकुरुते सान्निध्यमन्यादृशं  
 तत्पत्नी च विराजतेऽत्र तु विशालाक्षीति नामाङ्किता ॥ ७॥  
   
 श्रीकाञ्चीतरुमूलपावनतलं भ्राजत्त्रिवेण्युद्भवं  

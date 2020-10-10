@@ -3,7 +3,6 @@ title: 016 Ravana refuses to hear the words of Vibhishana
 title_english: 016 Ravana refuses to hear the words of Vibhishana
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-016-Ravana_refuses_to_hear_the_words_of_Vibhishana.mp3"></div>
 
 सुनिविष्टम् हितम् वाक्यम् उक्तवन्तम् विभीषणम् ।  

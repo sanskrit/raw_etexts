@@ -1,22 +1,22 @@
-+++
-"Text title" = "raghunAthAShTakam"
-"File name" = "raghunaatha8.itx"
-itxtitle = "raghunAthAShTakam"
-engtitle = "raghunAthAShTakam"
-Category = "aShTaka, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "January 07, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रघुनाथाष्टकम्"
+---
+Author: Traditional
+Category: aShTaka, raama
+File name: raghunaatha8.itx
+Language: Sanskrit
+Latest update: January 07, 2005
+Location: doc_raama
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: raghunAthAShTakam
+Transliterated by: WebD
+engtitle: raghunAthAShTakam
+itxtitle: raghunAthAShTakam
+title: रघुनाथाष्टकम्
 
-+++
+---
   
  श्रीरघुनाथाष्टकम्   
   

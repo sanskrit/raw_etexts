@@ -1,23 +1,26 @@
-+++
-"Text title" = "hariharAShTottarashatanAmastotram"
-"File name" = "hariharAShTottarashatanAmastotram.itx"
-itxtitle = "hariharAShTottarashatanAmastotram athavA shrIhariharAtmakastotram hariharastotraratnamAlA (dharmarAjavirachitam)"
-engtitle = "hariharAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Dharmaraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-Source = "skandapurANe kAshIkhaNDe"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिहराष्टोत्तरशतनामस्तोत्रम् अथवा श्रीहरिहरात्मकस्तोत्रम् हरिहरस्तोत्ररत्नमाला (धर्मराजविरचितम्)"
+---
+Author: Dharmaraja
+Category: aShTottarashatanAma, shiva
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: hariharAShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: skandapurANe kAshIkhaNDe
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: hariharAShTottarashatanAmastotram
+engtitle: hariharAShTottarashatanAmastotram
+itxtitle: hariharAShTottarashatanAmastotram athavA shrIhariharAtmakastotram hariharastotraratnamAlA
+  (dharmarAjavirachitam)
+title: हरिहराष्टोत्तरशतनामस्तोत्रम् अथवा श्रीहरिहरात्मकस्तोत्रम् हरिहरस्तोत्ररत्नमाला
+  (धर्मराजविरचितम्)
 
-+++
+---
   
  हरिहराष्टोत्तरशतनामस्तोत्रम् अथवा श्रीहरिहरात्मकस्तोत्रम्   
 हरिहरस्तोत्ररत्नमाला च  

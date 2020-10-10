@@ -1,24 +1,24 @@
-+++
-"Text title" = "Gangastavah by Prayagadatta"
-"File name" = "gangAstavaHprayAgadatta.itx"
-itxtitle = "gaNgAstavaH (prayAgadattavirachitam)"
-engtitle = "gangAstavaH by prayAgadatta"
-Category = "devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Pragadatta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Proofread by" = "Shree Devi Kumar shreeshrii at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "November 3, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गास्तवः (प्रयागदत्तविरचितम्)"
+---
+Author: Pragadatta
+Category: devii, nadI, devI
+File name: gangAstavaHprayAgadatta.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 3, 2019
+Location: doc_devii
+Proofread by: Shree Devi Kumar shreeshrii at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangastavah by Prayagadatta
+Transliterated by: Shree Devi Kumar shreeshrii at gmail.com
+engtitle: gangAstavaH by prayAgadatta
+itxtitle: gaNgAstavaH (prayAgadattavirachitam)
+title: गण्गास्तवः (प्रयागदत्तविरचितम्)
 
-+++
+---
   
  गङ्गास्तवः   
 प्रयाताऽगात्तुङ्गाद्विधिभवनरङ्गालयतले  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shiva Sahasranama Stotram"
-"File name" = "shivasahasranAmastotramskanda.itx"
-itxtitle = "shivasahasranAmastotram (skandapurANAntargataM shrIshivaH shivado)"
-engtitle = "shivasahasranAmastotram"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay gmail.com"
-"Description/comments" = "See corresponding stotra"
-"Latest update" = "July 16, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसहस्रनामस्तोत्रम् (स्कन्दपुराणान्तर्गतं श्रीशिवः शिवदो)"
+---
+Category: sahasranAma, shiva
+Description/comments: See corresponding stotra
+File name: shivasahasranAmastotramskanda.itx
+Language: Sanskrit
+Latest update: July 16, 2019
+Location: doc_shiva
+Proofread by: Gopal Upadhyay gopal.j.upadhyay gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shiva Sahasranama Stotram
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay gmail.com
+engtitle: shivasahasranAmastotram
+itxtitle: shivasahasranAmastotram (skandapurANAntargataM shrIshivaH shivado)
+title: शिवसहस्रनामस्तोत्रम् (स्कन्दपुराणान्तर्गतं श्रीशिवः शिवदो)
 
-+++
+---
   
  श्रीशिवसहस्रनामस्तोत्रम् स्कन्दपुराणान्तर्गतम्   
 श्रीगणेशाय नमः ।  

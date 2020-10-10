@@ -1,24 +1,25 @@
-+++
-"Text title" = "yAdagiri lakShmInRisi.nha ma.ngalAshAsanam"
-"File name" = "yAdagirilaxminRisimhamangala.itx"
-itxtitle = "yAdagiri lakShmInRisi.nha maNgalashAsanam"
-engtitle = "yAdagiri laxmInRisi.nha maNgaLAshAsanam"
-Category = "vishhnu, dashAvatAra, stotra, vAngIpuram-narasinhAchArya, vishnu, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Author = "vA.ngIpuram narasi.nhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Venkata N Vangeepuram vangeepuram at rediffmail.com"
-"Proofread by" = "Venkata N Vangeepuram vangeepuram at rediffmail.com Great grandson of the composer"
-"Latest update" = "December 15, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यादगिरि लक्ष्मीनृइसिंह मण्गलशासनम्"
+---
+Author: vA.ngIpuram narasi.nhAchArya
+Category: vishhnu, dashAvatAra, stotra, vAngIpuram-narasinhAchArya, vishnu, mangala
+File name: yAdagirilaxminRisimhamangala.itx
+Language: Sanskrit
+Latest update: December 15, 2004
+Location: doc_vishhnu
+Proofread by: Venkata N Vangeepuram vangeepuram at rediffmail.com Great grandson of
+  the composer
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: yAdagiri lakShmInRisi.nha ma.ngalAshAsanam
+Texttype: stotra
+Transliterated by: Venkata N Vangeepuram vangeepuram at rediffmail.com
+engtitle: yAdagiri laxmInRisi.nha maNgaLAshAsanam
+itxtitle: yAdagiri lakShmInRisi.nha maNgalashAsanam
+title: यादगिरि लक्ष्मीनृइसिंह मण्गलशासनम्
 
-+++
+---
   
  श्रीयादगिरि लक्ष्मीनृसिंह मङ्गलाशासनम्   
   

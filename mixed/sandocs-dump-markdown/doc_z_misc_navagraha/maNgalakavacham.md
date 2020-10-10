@@ -1,23 +1,23 @@
-+++
-"Text title" = "maNgalakavacham"
-"File name" = "mangalakavach.itx"
-itxtitle = "maNgalakavacham"
-engtitle = "maNgalakavacham"
-Category = "kavacha, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "mArkaNDeyapurANa"
-"Latest update" = "February 22, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मण्गलकवचम्"
+---
+Author: Traditional
+Category: kavacha, navagraha
+Description-comments: mArkaNDeyapurANa
+File name: mangalakavach.itx
+Language: Sanskrit
+Latest update: February 22, 2005
+Location: doc_z_misc_navagraha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: maNgalakavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com)
+engtitle: maNgalakavacham
+itxtitle: maNgalakavacham
+title: मण्गलकवचम्
 
-+++
+---
   
  मङ्गलकवचम्   
 श्रीगणेशाय नमः ।  

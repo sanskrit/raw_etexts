@@ -1,23 +1,23 @@
-+++
-"Text title" = "Tarasara Upanishad"
-"File name" = "tarasara.itx"
-itxtitle = "tArasAropaniShat"
-engtitle = "Tarasara Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hiduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "91 / 108; Shukla Yajurveda - vaishnava upanishad"
-"Latest update" = "Apri  12, 2000  [Rama Navami], October 29, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तारसारोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 91 / 108; Shukla Yajurveda - vaishnava upanishad
+File name: tarasara.itx
+Language: Sanskrit
+Latest update: Apri  12, 2000  [Rama Navami], October 29, 2011
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hiduism
+Sublocation: upanishhat
+Text title: Tarasara Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Tarasara Upanishad
+itxtitle: tArasAropaniShat
+title: तारसारोपनिषत्
 
-+++
+---
   
  तारसारोपनिषत्   
   
@@ -49,7 +49,7 @@ title = "तारसारोपनिषत्"
 किं तारयतीति । स होवाच याज्ञवल्क्यः । ॐ नमो नारायणायेति  
 तारकं चिदात्मकमित्युपासितव्यम् । ओमित्येकाक्षरमात्मस्वरूपम् ।  
 नम इति द्व्यक्षरं प्रकृतिस्वरूपम् । नारायणायेति पञ्चाक्षरं  
-परंब्रह्मस्वरूपम् । इति य एवं वेद । सोऽमृतो भवति । ओमिति ब्रह्मा  
+परम्ब्रह्मस्वरूपम् । इति य एवं वेद । सोऽमृतो भवति । ओमिति ब्रह्मा  
 भवति । नकारो विष्णुर्भवति । मकारो रुद्रो भवति । नकार ईश्वरो भवति ।  
 रकारोऽण्डं विराड् भवति । यकारः पुरुषो भवति । णकारो भगवान्भवति ।  
 यकारः परमात्मा भवति । एतद्वै नारायणस्याष्टाक्षरं वेद  
@@ -71,16 +71,16 @@ title = "तारसारोपनिषत्"
   
 अत्रैते श्लोका भवन्ति ॥  
   
-अकारादभवद्ब्रह्मा जाम्बवानितिसंज्ञकः ।  
-उकाराक्षरसंभूत उपेन्द्रो हरिनायकः ॥ १॥  
+अकारादभवद्ब्रह्मा जाम्बवानितिसञ्ज्ञकः ।  
+उकाराक्षरसम्भूत उपेन्द्रो हरिनायकः ॥ १॥  
   
-मकाराक्षरसंभूतः शिवस्तु हनुमान्स्मृतः ।  
-बिन्दुरीश्वरसंज्ञस्तु शत्रुघ्नश्चक्रराट् स्वयम् ॥ २॥  
+मकाराक्षरसम्भूतः शिवस्तु हनुमान्स्मृतः ।  
+बिन्दुरीश्वरसञ्ज्ञस्तु शत्रुघ्नश्चक्रराट् स्वयम् ॥ २॥  
   
 नादो महाप्रभुर्ज्ञेयो भरतः शङ्खनामकः ।  
 कलायाः पुरुषः साक्षाल्लक्ष्मणो धरणीधरः ॥ ३॥  
   
-कलातीता भगवती स्वयं सीतेति संज्ञिता ।  
+कलातीता भगवती स्वयं सीतेति सञ्ज्ञिता ।  
 तत्परः परमात्मा च श्रीरामः पुरुषोत्तमः ॥ ४॥  
   
 (श्रीरामस्य सर्वात्मकत्वम्)  

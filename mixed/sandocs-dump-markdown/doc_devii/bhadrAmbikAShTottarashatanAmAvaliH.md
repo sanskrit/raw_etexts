@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhadrAmbikAShTottarashatanAmAvaliH"
-"File name" = "bhadrAmbikAShTottarashatanAmAvaliH.itx"
-itxtitle = "bhadrAmbikAShTottarashatanAmAvaliH"
-engtitle = "bhadrAmbikAShTottarashatanAmAvaliH"
-Category = "devii, aShTottarashatanAmAvalI, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-"Proofread by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "July 26, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भद्राम्बिकाष्टोत्तरशतनामावलिः"
+---
+Category: devii, aShTottarashatanAmAvalI, durgA, devI
+File name: bhadrAmbikAShTottarashatanAmAvaliH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: July 26, 2019
+Location: doc_devii
+Proofread by: lalitha parameswari parameswari.lalitha at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhadrAmbikAShTottarashatanAmAvaliH
+Transliterated by: lalitha parameswari parameswari.lalitha at gmail.com
+engtitle: bhadrAmbikAShTottarashatanAmAvaliH
+itxtitle: bhadrAmbikAShTottarashatanAmAvaliH
+title: भद्राम्बिकाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीभद्राम्बिकाष्टोत्तरशतनामावलिः   
 ॐ श्रीमहाभद्रकायै नमः । भद्राम्बिकायै । रौद्रिकालिकाम्बायै ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "sarasvatIgItiH"
-"File name" = "sarasvatigiti.itx"
-itxtitle = "sarasvatIgItiH"
-engtitle = "sarasvatIgItiH"
-Category = "devii, sarasvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "November 19, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीगीतिः"
+---
+Author: Traditional
+Category: devii, sarasvatI, stotra, devI
+File name: sarasvatigiti.itx
+Language: Sanskrit
+Latest update: November 19, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIgItiH
+Texttype: stotra
+Transliterated by: WebD
+engtitle: sarasvatIgItiH
+itxtitle: sarasvatIgItiH
+title: सरस्वतीगीतिः
 
-+++
+---
   
  श्रीसरस्वतीगीतिः   
   

@@ -1,25 +1,25 @@
-+++
-"Text title" = "vayamatrasanjAtAHsarve"
-"File name" = "vayamatrasanjAtahsarve.itx"
-itxtitle = "vayam atra sanjAtAH sarve asmAkaM puNyam"
-engtitle = "asmAkaM puNyam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, Shankara"
-Description-comments = "Tharangini charity show, Hong Kong on May 24, 2008"
-Indexextra = "(Video)"
-Acknowledge-Permission = "Jairam Parameswaran"
-"Latest update" = "January 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वयम् अत्र सञ्जाताः सर्वे अस्माकं पुण्यम्"
+---
+Acknowledge-Permission: Jairam Parameswaran
+Author: Traditional
+Category: misc, sanskritgeet
+Description-comments: Tharangini charity show, Hong Kong on May 24, 2008
+File name: vayamatrasanjAtahsarve.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: January 5, 2016
+Location: doc_z_misc_general
+Proofread by: NA, Shankara
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: vayamatrasanjAtAHsarve
+Transliterated by: NA
+engtitle: asmAkaM puNyam
+itxtitle: vayam atra sanjAtAH sarve asmAkaM puNyam
+title: वयम् अत्र सञ्जाताः सर्वे अस्माकं पुण्यम्
 
-+++
+---
   
  वयं अत्र सञ्जाताः सर्वे   
   

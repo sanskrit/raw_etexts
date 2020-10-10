@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhairavI Hridayam"
-"File name" = "bhairavIhRidaya.itx"
-itxtitle = "bhairavIhRidayam"
-engtitle = "bhairavIhRidayam"
-Category = "hRidaya, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay"
-"Latest update" = "October 1, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भैरवीहृइदयम्"
+---
+Category: hRidaya, devii, dashamahAvidyA, devI
+File name: bhairavIhRidaya.itx
+Language: Sanskrit
+Latest update: October 1, 2016
+Location: doc_devii
+Proofread by: Gopal Upadhyay
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhairavI Hridayam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: bhairavIhRidayam
+itxtitle: bhairavIhRidayam
+title: भैरवीहृइदयम्
 
-+++
+---
   
  श्रीभैरवीहृदयम्   
   

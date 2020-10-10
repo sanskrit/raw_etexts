@@ -1,22 +1,22 @@
-+++
-"Text title" = "gAyatrIstavarAjaH"
-"File name" = "gAyatrIstavarAjaH.itx"
-itxtitle = "gAyatrIstavarAjaH (vishvAmitrapraNItaH)"
-engtitle = "gAyatrIstavarAjaH"
-Category = "stavarAja, devii, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "February 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीस्तवराजः (विश्वामित्रप्रणीतः)"
+---
+Category: stavarAja, devii, gAyatrI, devI
+File name: gAyatrIstavarAjaH.itx
+Language: Sanskrit
+Latest update: February 4, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrIstavarAjaH
+Transliterated by: NA
+engtitle: gAyatrIstavarAjaH
+itxtitle: gAyatrIstavarAjaH (vishvAmitrapraNItaH)
+title: गायत्रीस्तवराजः (विश्वामित्रप्रणीतः)
 
-+++
+---
   
  गायत्रीस्तवराजः   
   

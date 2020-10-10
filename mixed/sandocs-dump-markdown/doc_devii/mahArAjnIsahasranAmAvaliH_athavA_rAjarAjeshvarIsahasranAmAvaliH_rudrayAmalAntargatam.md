@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrImahArAjnI rAjarAjeshvarI sahasranamavali 1000 names"
-"File name" = "mahArAjnIsahasranAmAvaliH.itx"
-itxtitle = "mahArAjnIsahasranAmAvaliH athavA rAjarAjeshvarIsahasranAmAvaliH (rudrayAmalAntargatam)"
-engtitle = "mahArAjnIsahasranAmAvali"
-Category = "sahasranAmAvalI, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "See corresponding sahasranAmastotram"
-Indexextra = "(Scan)"
-"Latest update" = "August 5, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाराज्ञीसहस्रनामावलिः अथवा राजराजेश्वरीसहस्रनामावलिः (रुद्रयामलान्तर्गतम्)"
+---
+Category: sahasranAmAvalI, devii, dashamahAvidyA, devI
+Description-comments: See corresponding sahasranAmastotram
+File name: mahArAjnIsahasranAmAvaliH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 5, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrImahArAjnI rAjarAjeshvarI sahasranamavali 1000 names
+engtitle: mahArAjnIsahasranAmAvali
+itxtitle: mahArAjnIsahasranAmAvaliH athavA rAjarAjeshvarIsahasranAmAvaliH (rudrayAmalAntargatam)
+title: महाराज्ञीसहस्रनामावलिः अथवा राजराजेश्वरीसहस्रनामावलिः (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीमहाराज्ञी श्रीराजराजेश्वरी सहस्रनामावलिः   
 पार्वत्युवाच -  
@@ -47,7 +47,7 @@ title = "महाराज्ञीसहस्रनामावलिः अ�
   
 ब्रह्मऋषये नमः शिरसि । गायत्रीच्छन्दसे नमः मुखे ।  
 श्रीभूतेश्वरीमह्राराज्ञीदेवतायै नमः हृदि ।  
-ह्रींबीजाय नमः नाभौ । सौः शक्तये नमः गुह्ये ।  
+ह्रीम्बीजाय नमः नाभौ । सौः शक्तये नमः गुह्ये ।  
 क्लीं कीलकाय नमः पादयोः । विनियोगाय नमः सर्वाङ्गेषु ।  
 ॐह्रामित्यादिना करषडङ्गन्यासं विधाय ध्यानं कुर्यात् ।  
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "dashAxaramantrastotram"
-"File name" = "dashAxaramantrastotram.itx"
-itxtitle = "dashAkSharamantrastotram"
-engtitle = "dashAxaramantrastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj"
-"Proofread by" = "Karthik Chandan.P : Amith K Nagaraj (amithkn at rediffmail.com)"
-"Latest update" = "January 5, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशाक्षरमन्त्रस्तोत्रम्"
+---
+Author: Traditional
+Category: ganesha, stotra
+File name: dashAxaramantrastotram.itx
+Language: Sanskrit
+Latest update: January 5, 2004
+Location: doc_ganesha
+Proofread by: 'Karthik Chandan.P : Amith K Nagaraj (amithkn at rediffmail.com)'
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: dashAxaramantrastotram
+Texttype: stotra
+Transliterated by: 'Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj'
+engtitle: dashAxaramantrastotram
+itxtitle: dashAkSharamantrastotram
+title: दशाक्षरमन्त्रस्तोत्रम्
 
-+++
+---
   
  दशाक्षरमन्त्रस्तोत्रम्   
   
@@ -29,7 +29,7 @@ title = "दशाक्षरमन्त्रस्तोत्रम्"
 संयोगे मायया युक्तो गणेशो ब्रह्मनायकः ।  
 अयोगे मायया हीनो भवति मुनिसत्तमा ॥ २॥  
   
-संयोगायोगयोर्योगे योगो गणेशसंज्ञितः ।  
+संयोगायोगयोर्योगे योगो गणेशसञ्ज्ञितः ।  
 शान्तिभ्यः शान्तिदः प्रोक्तो भजने भक्तिसंयुतः ॥ ३॥  
   
 एवमुक्त्वा गणेशस्य ददौ मन्त्रं स मुद्गलः ।  

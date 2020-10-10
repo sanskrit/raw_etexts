@@ -1,23 +1,23 @@
-+++
-"Text title" = "dhUmAvatI kavacham"
-"File name" = "dhUmAvatyuchchATanamantraH.itx"
-itxtitle = "dhUmAvatyuchchATanamantraH"
-engtitle = "dhUmAvatyuchchATanamantraH"
-Category = "devii, dashamahAvidyA, devI, dhyAnam"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravi S. Ramphal rramphal at gmail.com, NA"
-Description-comments = "In shAktapramoda and mantramahArNava"
-Indexextra = "(Mahavidya Chatushtayam)"
-"Latest update" = "June 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धूमावत्युच्चाटनमन्त्रः"
+---
+Category: devii, dashamahAvidyA, devI, dhyAnam
+Description-comments: In shAktapramoda and mantramahArNava
+File name: dhUmAvatyuchchATanamantraH.itx
+Indexextra: (Mahavidya Chatushtayam)
+Language: Sanskrit
+Latest update: June 10, 2018
+Location: doc_devii
+Proofread by: Ravi S. Ramphal rramphal at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dhUmAvatI kavacham
+engtitle: dhUmAvatyuchchATanamantraH
+itxtitle: dhUmAvatyuchchATanamantraH
+title: धूमावत्युच्चाटनमन्त्रः
 
-+++
+---
   
  श्रीधूमावत्युच्चाटन मन्त्रः   
   

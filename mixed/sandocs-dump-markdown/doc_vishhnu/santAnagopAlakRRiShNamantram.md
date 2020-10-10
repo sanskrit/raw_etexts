@@ -1,22 +1,22 @@
-+++
-"Text title" = "santAnagopAlakRRiShNamantram"
-"File name" = "santAnagopAlakRRiShNamantram.itx"
-itxtitle = "santAnagopAlakRRiShNamantram"
-engtitle = "santAnagopAlakRRiShNamantram"
-Category = "vishhnu, krishna, vishnu, mantra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras"
-"Latest update" = "June 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्तानगोपालकृष्णमन्त्रम्"
+---
+Category: vishhnu, krishna, vishnu, mantra
+Description/comments: shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras
+File name: santAnagopAlakRRiShNamantram.itx
+Language: Sanskrit
+Latest update: June 18, 2020
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: santAnagopAlakRRiShNamantram
+engtitle: santAnagopAlakRRiShNamantram
+itxtitle: santAnagopAlakRRiShNamantram
+title: सन्तानगोपालकृष्णमन्त्रम्
 
-+++
+---
   
  श्रीसन्तानगोपालकृष्णमन्त्रम्   
 सन्तानगोपालः - नीलवर्णः  

@@ -3,7 +3,6 @@ title: 115 Bharata expresses his desire to proceed to Nandigrama village
 title_english: 115 Bharata expresses his desire to proceed to Nandigrama village
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-115-Nandigrama_Nivasaha.mp3"></div>
 
 ततो निक्षिप्य मातृऋः स अयोध्यायाम् दृढ व्रतः ।  
@@ -59,8 +58,8 @@ title_english: 115 Bharata expresses his desire to proceed to Nandigrama village
 भरतः शासनम् सर्वम् पादुकाभ्याम् निवेदयन् ।  
 ततस्तु भरतः श्रीमानभिषिच्यार्यपादुके ॥ २-११५-२६  
 तदधीनस्तदा राज्यम् कारयामास सर्वदा ।  
-तदा हि यत्कार्यमुपैति किंचि ।  
+तदा हि यत्कार्यमुपैति किञ्चि ।  
 दुपायनम् चोपहृतम् महार्हम् ।  
 स पादुकाभ्याम् प्रथमम् निवेद्य ।  
 चकार पश्चाद्भरतो यथावत् ॥ २-११५-२७  
-इत्यार्षे श्रीमद्रामायणे आदिकाव्ये अयोध्याकाण्डे पंचदशोत्तरशततमः सर्गः
+इत्यार्षे श्रीमद्रामायणे आदिकाव्ये अयोध्याकाण्डे पञ्चदशोत्तरशततमः सर्गः

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Subrahmanya Shodashakshara Mantra"
-"File name" = "subrahmaNyaShoDashAkSharamantraH.itx"
-itxtitle = "subrahmaNyaShoDashAkSharamantraH"
-engtitle = "subrahmaNyaShoDashAkSharamantraH"
-Category = "subrahmanya, mantra, ShoDasha"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mahaperiaval trust"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-Description-comments = "Subramanya Sthuthi Manjari, Ed. S.V.Radhakrishna Sastri"
-Indexextra = "(Scan)"
-"Latest update" = "February 8, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यषोडशाक्षरमन्त्रः"
+---
+Category: subrahmanya, mantra, ShoDasha
+Description-comments: Subramanya Sthuthi Manjari, Ed. S.V.Radhakrishna Sastri
+File name: subrahmaNyaShoDashAkSharamantraH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 8, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Shri Subrahmanya Shodashakshara Mantra
+Transliterated by: Mahaperiaval trust
+engtitle: subrahmaNyaShoDashAkSharamantraH
+itxtitle: subrahmaNyaShoDashAkSharamantraH
+title: सुब्रह्मण्यषोडशाक्षरमन्त्रः
 
-+++
+---
   
  श्रीसुब्रह्मण्यषोडशाक्षरमन्त्रः   
 अस्य श्रीसुब्रह्मण्यषोडशाक्षरमहामन्त्रस्य,  

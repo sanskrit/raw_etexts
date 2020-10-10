@@ -1,24 +1,24 @@
-+++
-"Text title" = "ruchirAShTakam 2"
-"File name" = "ruchirAShTakam2.itx"
-itxtitle = "ruchirAShTakam 2 (haridAsanAthabhAIkRitam)"
-engtitle = "ruchirAShTakam 2"
-Category = "vishhnu, krishna, puShTimArgIya, aShTaka, haridAsa"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "haridAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुचिराष्टकम् २ (हरिदासनाथभाईकृइतम्)"
+---
+Author: haridAsa
+Category: vishhnu, krishna, puShTimArgIya, aShTaka, haridAsa
+Description/comments: puShTimArgIya stotraratnAkara
+File name: ruchirAShTakam2.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ruchirAShTakam 2
+engtitle: ruchirAShTakam 2
+itxtitle: ruchirAShTakam 2 (haridAsanAthabhAIkRitam)
+title: रुचिराष्टकम् २ (हरिदासनाथभाईकृइतम्)
 
-+++
+---
   
  श्रीरुचिराष्टकम् २   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "yantroddhArakamangalAShTakam"
-"File name" = "yantroddhArakamangalAShTakam.itx"
-itxtitle = "yantroddhArakamaNgalAShTakam (bhImasenavirachitam)"
-engtitle = "YantroddhAraka Mangalashtakam"
-Category = "aShTaka, hanumaana, hanuman, mangala"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-"Description/comments" = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "December 8, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यन्त्रोद्धारकमण्गलाष्टकम् (भीमसेनविरचितम्)"
+---
+Category: aShTaka, hanumaana, hanuman, mangala
+Description/comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: yantroddhArakamangalAShTakam.itx
+Language: Sanskrit
+Latest update: December 8, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: yantroddhArakamangalAShTakam
+Transliterated by: Processed by Shree Devi Kumar
+engtitle: YantroddhAraka Mangalashtakam
+itxtitle: yantroddhArakamaNgalAShTakam (bhImasenavirachitam)
+title: यन्त्रोद्धारकमण्गलाष्टकम् (भीमसेनविरचितम्)
 
-+++
+---
   
  श्रीयन्त्रोद्धारकमङ्गलाष्टकम्   
   

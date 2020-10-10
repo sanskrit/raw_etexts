@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNeshastavanam by vAlmIki"
-"File name" = "gaNeshastavanamvAlmIki.itx"
-itxtitle = "gaNeshastavanam athavA gaNeshAShTakam (vAlmIkikRitam chatuHShaShTikoTyAkhya))"
-engtitle = "Shri Ganeshastavanam or Ganeshashtakam by Valmiki"
-Category = "aShTaka, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener, NA"
-Description-comments = "gaNesharahasya ashok kumAr gauD"
-"Latest update" = "July 6, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तवनम् अथवा गणेशाष्टकम् (वाल्मीकिकृइतम् चतुःषष्टिकोट्याख्य))"
+---
+Category: aShTaka, ganesha
+Description-comments: gaNesharahasya ashok kumAr gauD
+File name: gaNeshastavanamvAlmIki.itx
+Language: Sanskrit
+Latest update: July 6, 2017
+Location: doc_ganesha
+Proofread by: Jonathan Wiener, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshastavanam by vAlmIki
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: Shri Ganeshastavanam or Ganeshashtakam by Valmiki
+itxtitle: gaNeshastavanam athavA gaNeshAShTakam (vAlmIkikRitam chatuHShaShTikoTyAkhya))
+title: गणेशस्तवनम् अथवा गणेशाष्टकम् (वाल्मीकिकृइतम् चतुःषष्टिकोट्याख्य))
 
-+++
+---
   
  वाल्मीकिकृतं श्रीगणेशस्तवनम् अथवा गणेशाष्टकम्   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Mahodara Stuti by Surarshi"
-"File name" = "mahodarastutiHsurarShibhiHkRRitA.itx"
-itxtitle = "mahodarastutiH surarShibhiH kRitA (mudgalapurANAntargatA)"
-engtitle = "mahodarastutiH surarShibhiH kRRitA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan"
-"Proofread by" = "Ajit Krishnan, PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 3, Adhyaya 11"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "महोदरस्तुतिः सुरर्षिभिः कृइता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 3, Adhyaya 11
+File name: mahodarastutiHsurarShibhiHkRRitA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: Ajit Krishnan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Mahodara Stuti by Surarshi
+Transliterated by: Ajit Krishnan
+engtitle: mahodarastutiH surarShibhiH kRRitA
+itxtitle: mahodarastutiH surarShibhiH kRitA (mudgalapurANAntargatA)
+title: महोदरस्तुतिः सुरर्षिभिः कृइता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  महोदरस्तुतिः सुरर्षिभिः कृता   
 रविरुवाच -  

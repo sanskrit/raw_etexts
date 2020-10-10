@@ -1,23 +1,23 @@
-+++
-"Text title" = "anugItA"
-"File name" = "anugiitaa.itx"
-itxtitle = "anugItA"
-engtitle = "anugItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-Description-comments = "Adhyaya numbers 16-19 in Ashvamedhika, Mahabharata"
-Indexextra = "(Adhyaya 16-19 Ashvamedhika, Mahabharata)"
-"Latest update" = "June 2, 1998 February 8, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अनुगीता"
+---
+Category: gItA, giitaa
+Description-comments: Adhyaya numbers 16-19 in Ashvamedhika, Mahabharata
+File name: anugiitaa.itx
+Indexextra: (Adhyaya 16-19 Ashvamedhika, Mahabharata)
+Language: Sanskrit
+Latest update: June 2, 1998 February 8, 2013
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: anugItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: anugItA
+itxtitle: anugItA
+title: अनुगीता
 
-+++
+---
   
  अनुगीता   
   
@@ -243,7 +243,7 @@ title = "अनुगीता"
 तैरेव न विजानाति प्राणमाहारसम्भवम् ॥ २३॥  
   
 तत्रैव कुरुते काये यः स जीवः सनातनः ।  
-तेषां यद्यद्भवेद्युक्तं संनिपाते क्व चित्क्व चित् ।  
+तेषां यद्यद्भवेद्युक्तं सन्निपाते क्व चित्क्व चित् ।  
 तत्तन्मर्म विजानीहि शास्त्रदृष्टं हि तत्तथा ॥ २४॥  
   
 तेषु मर्मसु भिन्नेषु ततः स समुदीरयन् ।  
@@ -279,7 +279,7 @@ title = "अनुगीता"
 तस्मात्सुदुर्लभो मोक्ष आत्मा रक्ष्यो भृशं ततः ॥ ३४॥  
   
 ऊर्ध्वं तु जन्तवो गत्वा येषु स्थानेष्ववस्थिताः ।  
-कीर्त्यमानानि तानीह तत्त्वतः संनिबोध मे ।  
+कीर्त्यमानानि तानीह तत्त्वतः सन्निबोध मे ।  
 तच्छ्रुत्वा नैष्ठिकीं बुद्धिं बुध्येथाः कर्म निश्चयात् ॥ ३५॥  
   
 तारा रूपाणि सर्वाणि यच्चैतच्चन्द्रमण्डलम् ।  
@@ -501,7 +501,7 @@ title = "अनुगीता"
 निर्वेदस्तु न गन्तव्यो युञ्जानेन कथं चन ।  
 योगमेकान्तशीलस्तु यथा युञ्जीत तच्छृणु ॥ ३०॥  
   
-दृष्टपूर्वा दिशं चिन्त्य यस्मिन्संनिवसेत्पुरे ।  
+दृष्टपूर्वा दिशं चिन्त्य यस्मिन्सन्निवसेत्पुरे ।  
 पुरस्याभ्यन्तरे तस्य मनश्चायं न बाह्यतः ॥ ३१॥  
   
 पुरस्याभ्यन्तरे तिष्ठन्यस्मिन्नावसथे वसेत् ।  
@@ -510,7 +510,7 @@ title = "अनुगीता"
 प्रचिन्त्यावसथं कृत्स्नं यस्मिन्कायेऽवतिष्ठते ।  
 तस्मिन्काये मनश्चार्यं न कथं चन बाह्यतः ॥ ३३॥  
   
-संनियम्येन्द्रियग्रामं निर्घोषे निर्जने वने ।  
+सन्नियम्येन्द्रियग्रामं निर्घोषे निर्जने वने ।  
 कायमभ्यन्तरं कृत्स्नमेकाग्रः परिचिन्तयेत् ॥ ३४॥  
   
 दन्तांस्तालु च जिह्वां च गलं ग्रीवां तथैव च ।  

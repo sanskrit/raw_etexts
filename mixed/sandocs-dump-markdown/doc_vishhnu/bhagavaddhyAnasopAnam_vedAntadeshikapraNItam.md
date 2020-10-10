@@ -1,23 +1,24 @@
-+++
-"Text title" = "bhagavaddhyAnasopAnam"
-"File name" = "bhagavaddhyAnasopAnam.itx"
-itxtitle = "bhagavaddhyAnasopAnam (vedAntadeshikapraNItam)"
-engtitle = "bhagavaddhyAnasopAnam"
-Category = "vishhnu, vishnu, dhyAnam, vedAnta-deshika"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-Indexextra = "(Stotras)"
-"Latest update" = "January 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवद्ध्यानसोपानम् (वेदान्तदेशिकप्रणीतम्)"
+---
+Author: vedAntadeshika
+Category: vishhnu, vishnu, dhyAnam, vedAnta-deshika
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: bhagavaddhyAnasopAnam.itx
+Indexextra: (Stotras)
+Language: Sanskrit
+Latest update: January 19, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: bhagavaddhyAnasopAnam
+engtitle: bhagavaddhyAnasopAnam
+itxtitle: bhagavaddhyAnasopAnam (vedAntadeshikapraNItam)
+title: भगवद्ध्यानसोपानम् (वेदान्तदेशिकप्रणीतम्)
 
-+++
+---
   
  भगवद्ध्यानसोपानम्   
 श्रीगणेशाय नमः ॥  

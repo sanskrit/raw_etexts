@@ -1,23 +1,23 @@
-+++
-"Text title" = "bAlAmbikAShTakam 2"
-"File name" = "bAlAmbikAShTakam2.itx"
-itxtitle = "bAlAmbikAShTakam 2"
-engtitle = "bAlAmbikAShTakam 2"
-Category = "aShTaka, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Proofread by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Translated by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Latest update" = "July 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाम्बिकाष्टकम् २"
+---
+Category: aShTaka, devii, otherforms, devI
+File name: bAlAmbikAShTakam2.itx
+Language: Sanskrit
+Latest update: July 13, 2018
+Location: doc_devii
+Proofread by: P. R. Kannan prkannanvashi at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAmbikAShTakam 2
+Translated by: P. R. Kannan prkannanvashi at yahoo.com
+Transliterated by: P. R. Kannan prkannanvashi at yahoo.com
+engtitle: bAlAmbikAShTakam 2
+itxtitle: bAlAmbikAShTakam 2
+title: बालाम्बिकाष्टकम् २
 
-+++
+---
   
  श्रीबालाम्बिकाष्टकम् २   
 Devi Balambika is the consort of Lord Vaidyanatha at  

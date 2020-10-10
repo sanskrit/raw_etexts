@@ -1,24 +1,24 @@
-+++
-"Text title" = "budhapanchaviMshatinAmastotram"
-"File name" = "budha25.itx"
-itxtitle = "budhapanchaviMshatinAmastotram"
-engtitle = "budhapanchaviMshatinAmastotram"
-Category = "navagraha, stotra, viMshati"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Padma PurANa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar, Kirk Wortman kirkwort at hotmail.com"
-Indexextra = "(25 names)"
-"Latest update" = "November 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बुधपञ्चविंशतिनामस्तोत्रम्"
+---
+Author: Padma PurANa
+Category: navagraha, stotra, viMshati
+File name: budha25.itx
+Indexextra: (25 names)
+Language: Sanskrit
+Latest update: November 11, 2018
+Location: doc_z_misc_navagraha
+Proofread by: Ravin Bhalekar, Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: budhapanchaviMshatinAmastotram
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: budhapanchaviMshatinAmastotram
+itxtitle: budhapanchaviMshatinAmastotram
+title: बुधपञ्चविंशतिनामस्तोत्रम्
 
-+++
+---
   
  बुधपञ्चविंशतिनामस्तोत्रम्   
 श्रीगणेशाय नमः ।  

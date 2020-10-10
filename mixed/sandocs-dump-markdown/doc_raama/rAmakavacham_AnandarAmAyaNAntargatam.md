@@ -1,23 +1,23 @@
-+++
-"Text title" = "raamakavacham.h"
-"File name" = "raamakavachaAnanda.itx"
-itxtitle = "rAmakavacham (AnandarAmAyaNAntargatam)"
-engtitle = "rAmakavacham"
-Category = "kavacha, raama, vAlmIki"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Valmiki"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-Description-comments = "from Anandaramayana"
-"Latest update" = "July 4, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामकवचम् (आनन्दरामायणान्तर्गतम्)"
+---
+Author: Valmiki
+Category: kavacha, raama, vAlmIki
+Description-comments: from Anandaramayana
+File name: raamakavachaAnanda.itx
+Language: Sanskrit
+Latest update: July 4, 2006
+Location: doc_raama
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: raama
+Text title: raamakavacham.h
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: rAmakavacham
+itxtitle: rAmakavacham (AnandarAmAyaNAntargatam)
+title: रामकवचम् (आनन्दरामायणान्तर्गतम्)
 
-+++
+---
   
  श्रीरामकवचम्   
   
@@ -126,7 +126,7 @@ title = "रामकवचम् (आनन्दरामायणान्त
 तानि सर्वाणि दग्ध्वाशु हरकोदण्डखण्डनः ॥ २४॥  
   
 पातु मां सर्वतो रामः शार्ङ्ग बाणधर: सदा ।  
-इति श्रीरामचन्द्रस्य कवचं वज्रसंमितम् ॥ २५॥  
+इति श्रीरामचन्द्रस्य कवचं वज्रसम्मितम् ॥ २५॥  
   
 गुह्यात् गुह्यतमं दिव्यं सुतीक्ष्ण मुनिसत्तमः ।  
 यः पठेत् श्रुणुयाद्वापि श्रावयेद् वा समाहितः ॥ २६॥  
@@ -137,7 +137,7 @@ title = "रामकवचम् (आनन्दरामायणान्त
 श्रीरमचन्द्र कवच पठनात् सुद्धि माप्नुयात् ।  
 ब्रह्महत्यादिभिः पापैः मुच्यते नात्र संशयः ॥ २८॥  
   
-इति श्री शतकोटिरामचरितांतर्गत श्रीमदानन्दरामायणे  
+इति श्री शतकोटिरामचरितान्तर्गत श्रीमदानन्दरामायणे  
 वाल्मिकीये मनोहरकाण्डे श्री रामकवचं सम्पूर्णम् ॥  
   
   

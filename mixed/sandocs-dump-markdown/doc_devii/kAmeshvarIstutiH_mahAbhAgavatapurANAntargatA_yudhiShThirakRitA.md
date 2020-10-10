@@ -1,22 +1,22 @@
-+++
-"Text title" = "kAmeshvarIstutiH"
-"File name" = "kAmeshvarIstutiH.itx"
-itxtitle = "kAmeshvarIstutiH (mahAbhAgavatapurANAntargatA yudhiShThirakRitA)"
-engtitle = "kAmeshvarIstutiH"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "from devIstotraratnAkara"
-"Latest update" = "April 20, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामेश्वरीस्तुतिः (महाभागवतपुराणान्तर्गता युधिष्ठिरकृइता)"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: from devIstotraratnAkara
+File name: kAmeshvarIstutiH.itx
+Language: Sanskrit
+Latest update: April 20, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAmeshvarIstutiH
+engtitle: kAmeshvarIstutiH
+itxtitle: kAmeshvarIstutiH (mahAbhAgavatapurANAntargatA yudhiShThirakRitA)
+title: कामेश्वरीस्तुतिः (महाभागवतपुराणान्तर्गता युधिष्ठिरकृइता)
 
-+++
+---
   
  कामेश्वरीस्तुतिः   
 युधिष्ठिर उवाच -  
@@ -59,14 +59,14 @@ title = "कामेश्वरीस्तुतिः (महाभागव
 ब्रह्मा आदि देवेश्वर भी नहीं जानते हैं; आप प्रसन्न हों, आपको  
 नमस्कार है । जगद्वन्द्ये ! आप अनादि, परमा, विद्या और देहधारियों  
 की देहको धारण करनेवाली हैं, कामेश्वरी ! आपको नमस्कार है । आप  
-सभी प्राणियोंकी बीजस्वरूपा हैं, आप ही बुद्धि, चेतना और धृति  
+सभी प्राणियोङ्की बीजस्वरूपा हैं, आप ही बुद्धि, चेतना और धृति  
 हैं, आप ही जागृति और निद्रा हैं । कामेश्वरी! आपको नमस्कार है ॥ १-४॥  
   
 आपकी आराधना करके परमात्मा शिव भी अपने-आपको कृतकृत्य  
 मानते हैं, कामेश्वरी  आपको नमस्कार है । दुराचारियों के दुराचरण  
 का संहार करनेवाली, पाप-पुण्य के फलको देनेवाली तथा सम्पूर्ण  
 लोकों के तापका नाश करनेवाली कामेश्वरी ! आपको नमस्कार है । आप ही  
-एकमात्र समस्त लोकोंकी सृष्टि, स्थिति और विनाश करनेवाली हैं ।  
+एकमात्र समस्त लोकोङ्की सृष्टि, स्थिति और विनाश करनेवाली हैं ।  
 विकराल मुखवाली काली कामेश्वरी! आपको नमस्कार है ॥ ५ -७॥  
   
 शरणागतों की पीडाका नाश करनेवाली, कमलके समान  

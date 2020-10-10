@@ -1,23 +1,23 @@
-+++
-"Text title" = "jayajayabhAratadesha"
-"File name" = "jayajayabhAratadesha.itx"
-itxtitle = "jayajayabhAratadesha"
-engtitle = "jayajayabhAratadesha"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयजयभारतदेश"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: jayajayabhAratadesha.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: jayajayabhAratadesha
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: jayajayabhAratadesha
+itxtitle: jayajayabhAratadesha
+title: जयजयभारतदेश
 
-+++
+---
   
  जय जय भारतदेश   
 जय जय भारतदेश जय त्वं जय जय भारतदेश ।  

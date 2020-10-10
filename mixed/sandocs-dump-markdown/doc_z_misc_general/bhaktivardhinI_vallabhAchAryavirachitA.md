@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhaktivardhinI"
-"File name" = "bhaktivardhinI.itx"
-itxtitle = "bhaktivardhinI (vallabhAchAryavirachitA)"
-engtitle = "bhaktivardhinI"
-Category = "misc, puShTimArgIya, vallabhaachaarya, advice"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भक्तिवर्धिनी (वल्लभाचार्यविरचिता)"
+---
+Author: vallabhAchArya
+Category: misc, puShTimArgIya, vallabhaachaarya, advice
+Description/comments: puShTimArgIya stotraratnAkara
+File name: bhaktivardhinI.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: bhaktivardhinI
+engtitle: bhaktivardhinI
+itxtitle: bhaktivardhinI (vallabhAchAryavirachitA)
+title: भक्तिवर्धिनी (वल्लभाचार्यविरचिता)
 
-+++
+---
   
  भक्तिवर्धिनी   
   

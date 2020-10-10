@@ -1,28 +1,28 @@
-+++
-"Text title" = "yaxaprashnaaH"
-"File name" = "yaxa.itx"
-itxtitle = "yakShaprashnAH (mahAbhAratAntargatam)"
-engtitle = "yaxaprashnAH"
-Category = "major_works, vyAsa"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Vyasa (author of Mahabharata)"
-Language = "Sanskrit"
-Subject = "philosophy"
-"Transliterated by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi, Priyamvada Nambrath priyamvada_none at hotmail.com"
-"Latest update" = "July 31, 1998, April 26, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यक्षप्रश्नाः (महाभारतान्तर्गतम्)"
+---
+Author: Vyasa (author of Mahabharata)
+Category: major_works, vyAsa
+File name: yaxa.itx
+Language: Sanskrit
+Latest update: July 31, 1998, April 26, 2020
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi, Priyamvada Nambrath priyamvada_none at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy
+Sublocation: major_works
+Text title: yaxaprashnaaH
+Texttype: pramukha
+Transliterated by: Sunder Hattangadi(sunderh at hotmail.com)
+engtitle: yaxaprashnAH
+itxtitle: yakShaprashnAH (mahAbhAratAntargatam)
+title: यक्षप्रश्नाः (महाभारतान्तर्गतम्)
 
-+++
+---
   
  यक्षप्रश्नाः   
 YakSha's Questions  
  अध्यायः ३१३  
- वैशंपायन उवाच ।  
+ वैशम्पायन उवाच ।  
 स ददर्श हतान्भ्रातॄँल्लोकपालानिव च्युतान् ।  
 युगान्ते समनुप्राप्ते शक्रप्रतिमगौरवान् ॥ १॥  
   
@@ -39,7 +39,7 @@ YakSha's Questions
 व्यर्थं तदद्य मे सर्वं त्वयि नीरे निपातिते ॥ ५॥  
   
 महात्मनि महाबाहो कुरूणां कीर्तिवर्धने ।  
-मनुष्यसंभवा वाचो विधर्मिण्यः प्रति श्रुताः ॥ ६॥  
+मनुष्यसम्भवा वाचो विधर्मिण्यः प्रति श्रुताः ॥ ६॥  
   
 भवतां दिव्यवाचस्तु ता भवन्तु कथं मृषा ।  
 देवाश्चापि यदाऽवोचन्सूतके त्वां धनञ्जय ॥ ७॥  
@@ -66,7 +66,7 @@ YakSha's Questions
 अकृत्वा सदृशं कर्म किं शेध्वं पुरुषर्षभाः ॥ १४॥  
   
 अविक्षतशरीराश्चाप्यप्रमृष्टशरासनाः ।  
-असंज्ञा भुवि सङ्गम्य किं शेध्वमपराजिताः ॥ १५॥  
+असञ्ज्ञा भुवि सङ्गम्य किं शेध्वमपराजिताः ॥ १५॥  
   
 सानूनिवाद्रेः संसुप्तान् दृष्ट्वा भ्रातॄन्महामतिः ।  
 सुखं प्रसुप्तां प्रस्विन्नः खिन्नः कष्टां दशां गतः ॥ १६॥  
@@ -136,7 +136,7 @@ YakSha's Questions
 यक्षोऽहमस्मि भद्रं ते नास्मि पक्षी जलेचरः ॥ ३६॥  
   
 मयैते निहताः सर्वे भ्रातरस्ते महौजसः ।  
- वैशंपायन उवाच ।  
+ वैशम्पायन उवाच ।  
 ततस्तामशिवां श्रुत्वा वाचं स परुषाक्षराम् ॥ ३७॥  
   
 यक्षस्य ब्रुवतो राजन्नुपक्रम्य तदा स्थितः ।  
@@ -145,7 +145,7 @@ YakSha's Questions
 ज्वलनार्कप्रतीकाशमधृष्यं पर्वतोपमम् ।  
 वृक्षमाश्रित्य तिष्ठन्तं ददर्श भरतर्षभः ॥ ३९॥  
   
-मेघगंभीरनादेन तर्जयन्तं महास्वनम् ।  
+मेघगम्भीरनादेन तर्जयन्तं महास्वनम् ।  
  यक्ष उवाच ।  
 इमे ते भ्रातरो राजन्वार्यमाणा मयाऽसकृत् ॥४०॥  
   
@@ -212,7 +212,7 @@ YakSha's Questions
   
  यक्ष उवाच ।  
 इन्द्रियार्थाननुभवन्बुद्धिमाँल्लोकपूजितः ।  
-संमतः सर्वभूतानामुच्छ्वसन्को न जीवति ॥ ५७॥  
+सम्मतः सर्वभूतानामुच्छ्वसन्को न जीवति ॥ ५७॥  
   
  युधिष्ठिर उवाच ।  
 देवतातिथिभृत्यानां पितॄणामात्मनश्च यः ।  
@@ -323,7 +323,7 @@ YakSha's Questions
 मृतमश्रोत्रियं श्राद्धं मृतो यज्ञस्त्वदक्षिणः ॥ ८४॥  
   
  यक्ष उवाच ।  
-का दिक्किमुदकं प्रोक्तं किमन्नं किंच वै विषम् ।  
+का दिक्किमुदकं प्रोक्तं किमन्नं किञ्च वै विषम् ।  
 श्राद्धस्य कालमाख्याहि ततः पिब हरस्व च ॥ ८५॥  
   
  युधिष्ठिर उवाच ।  
@@ -343,7 +343,7 @@ YakSha's Questions
 दया च का परा प्रोक्ता किञ्चार्जवमुदाहृतम् ॥ ८९॥  
   
  युधिष्ठिर उवाच ।  
-ज्ञानं तत्त्वार्थसंबोधः शमश्चित्तप्रशान्तता ।  
+ज्ञानं तत्त्वार्थसम्बोधः शमश्चित्तप्रशान्तता ।  
 दया सर्वसुखैषित्वमार्जवं समचित्तता ॥ ९०॥  
   
  यक्ष उवाच ।  
@@ -379,7 +379,7 @@ YakSha's Questions
 कामः संसारहेतुश्च हृत्तापो मत्सरः स्मृतः ॥ ९८॥  
   
  यक्ष उवाच ।  
-कोऽहङ्कार इति प्रोक्तः कश्च दंभः प्रकीर्तितः ।  
+कोऽहङ्कार इति प्रोक्तः कश्च दम्भः प्रकीर्तितः ।  
 किं तद्दैवं परं प्रोक्तं किं तत्पैशुन्यमुच्यते ॥ ९९॥  
   
  युधिष्ठिर उवाच ।  

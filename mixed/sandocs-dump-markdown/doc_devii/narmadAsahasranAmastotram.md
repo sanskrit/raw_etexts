@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrI narmadA sahasranAmastotra"
-"File name" = "narmadAsahasranAmastotra.itx"
-itxtitle = "narmadAsahasranAmastotram"
-engtitle = "narmadAsahasranAmastotram"
-Category = "sahasranAma, devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "June 13, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नर्मदासहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, devii, nadI, devI
+File name: narmadAsahasranAmastotra.itx
+Language: Sanskrit
+Latest update: June 13, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrI narmadA sahasranAmastotra
+engtitle: narmadAsahasranAmastotram
+itxtitle: narmadAsahasranAmastotram
+title: नर्मदासहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीनर्मदासहस्रनामस्तोत्रम्   
   

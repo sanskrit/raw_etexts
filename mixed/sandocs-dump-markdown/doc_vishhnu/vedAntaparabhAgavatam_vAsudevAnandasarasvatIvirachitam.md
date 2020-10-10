@@ -1,24 +1,24 @@
-+++
-"Text title" = "vedAntaparabhAgavatam"
-"File name" = "vedAntaparabhAgavatamVS.itx"
-itxtitle = "vedAntaparabhAgavatam (vAsudevAnandasarasvatIvirachitam)"
-engtitle = "vedAntaparabhAgavatam"
-Category = "vishhnu, vAsudevAnanda-sarasvatI, vedanta, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "vAsudevAnandasarasvatI TembesvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "From stotrAdisangraha"
-Indexextra = "(stotrAdisangraha, Author)"
-"Latest update" = "December 31, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदान्तपरभागवतम् (वासुदेवानन्दसरस्वतीविरचितम्)"
+---
+Author: vAsudevAnandasarasvatI TembesvAmi
+Category: vishhnu, vAsudevAnanda-sarasvatI, vedanta, krishna
+Description-comments: From stotrAdisangraha
+File name: vedAntaparabhAgavatamVS.itx
+Indexextra: (stotrAdisangraha, Author)
+Language: Sanskrit
+Latest update: December 31, 2018
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vedAntaparabhAgavatam
+engtitle: vedAntaparabhAgavatam
+itxtitle: vedAntaparabhAgavatam (vAsudevAnandasarasvatIvirachitam)
+title: वेदान्तपरभागवतम् (वासुदेवानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  वेदान्तपरभागवतं   
 वसुदेवः शुद्धसत्त्वं तद्वृत्तिर्देवकी मता ।  

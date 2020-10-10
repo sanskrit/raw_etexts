@@ -1,23 +1,23 @@
-+++
-"Text title" = "naivedyasamarpaNaprArthanA"
-"File name" = "naivedyasamarpaNaprArthanA.itx"
-itxtitle = "naivedyasamarpaNaprArthanA"
-engtitle = "naivedyasamarpaNaprArthanA"
-Category = "vishhnu, krishna, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नैवेद्यसमर्पणप्रार्थना"
+---
+Category: vishhnu, krishna, puShTimArgIya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: naivedyasamarpaNaprArthanA.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: naivedyasamarpaNaprArthanA
+engtitle: naivedyasamarpaNaprArthanA
+itxtitle: naivedyasamarpaNaprArthanA
+title: नैवेद्यसमर्पणप्रार्थना
 
-+++
+---
   
  नैवेद्यसमर्पणप्रार्थना   
   

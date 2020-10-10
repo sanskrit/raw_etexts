@@ -1,23 +1,23 @@
-+++
-"Text title" = "amRitasanjIvana dhanvantarI stotra"
-"File name" = "dhanvantaristotra.itx"
-itxtitle = "dhanvantaristotram 1 amRitasanjIvana (namo namo vishvavibhAvanAya)"
-engtitle = "Amritasanjivani Dhanvantari Stotra"
-Category = "vishhnu, stotra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Texttype = "stotra"
-Author = "Unknown"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Latest update" = "April 5, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धन्वन्तरिस्तोत्रम् १ अमृइतसञ्जीवन (नमो नमो विश्वविभावनाय)"
+---
+Author: Unknown
+Category: vishhnu, stotra
+File name: dhanvantaristotra.itx
+Language: Sanskrit
+Latest update: April 5, 2014
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: vishhnu
+Text title: amRitasanjIvana dhanvantarI stotra
+Texttype: stotra
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Amritasanjivani Dhanvantari Stotra
+itxtitle: dhanvantaristotram 1 amRitasanjIvana (namo namo vishvavibhAvanAya)
+title: धन्वन्तरिस्तोत्रम् १ अमृइतसञ्जीवन (नमो नमो विश्वविभावनाय)
 
-+++
+---
   
  अमृतसञ्जीवन धन्वन्तरिस्तोत्रम् १   
   
@@ -41,14 +41,14 @@ title = "धन्वन्तरिस्तोत्रम् १ अमृइ
 विश्वं संह्रियते तदेव निखिलं रुद्रस्वरूपेण ते  
        संसिच्यामृतशीकरैर्हर महारिष्टं चिरं जीवय ॥ ४॥  
   
-यो धन्वन्तरिसंज्ञया निगदितः क्षीराब्धितो निःसृतो  
+यो धन्वन्तरिसञ्ज्ञया निगदितः क्षीराब्धितो निःसृतो  
        हस्ताभ्यां जनजीवनाय कलशं पीयूषपूर्णं दधत् ।  
 आयुर्वेदमरीरचज्जनरुजां नाशाय स त्वं मुदा  
        संसिच्यामृतशीकरैर्हर महारिष्टं चिरं जीवय ॥ ५॥  
   
-स्त्रीरूपं वरभूषणाम्बरधरं त्रैलोक्यसंमोहनं  
+स्त्रीरूपं वरभूषणाम्बरधरं त्रैलोक्यसम्मोहनं  
        कृत्वा पाययति स्म यः सुरगणान्पीयूषमत्युत्तमम् ।  
-चक्रे दैत्यगणान् सुधाविरहितान् संमोह्य स त्वं मुदा  
+चक्रे दैत्यगणान् सुधाविरहितान् सम्मोह्य स त्वं मुदा  
        संसिच्यामृतशीकरैर्हर महारिष्टं चिरं जीवय ॥ ६॥  
   
 चाक्षुषोदधिसम्प्लाव भूवेदप झषाकृते ।  

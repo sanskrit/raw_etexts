@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAstuHdhyAnAShTakam"
-"File name" = "shAstuHdhyAnAShTakam.itx"
-itxtitle = "shAstuHdhyAnAShTakam"
-engtitle = "shAstuHdhyAnAShTakam"
-Category = "deities_misc, ayyappa, aShTaka, dhyAnam"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran, Sunder Hattangadi"
-"Description/comments" = "From Shastrarchana, Kannada publication"
-"Latest update" = "June 29, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शास्तुःध्यानाष्टकम्"
+---
+Category: deities_misc, ayyappa, aShTaka, dhyAnam
+Description/comments: From Shastrarchana, Kannada publication
+File name: shAstuHdhyAnAShTakam.itx
+Language: Sanskrit
+Latest update: June 29, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran, Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shAstuHdhyAnAShTakam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: shAstuHdhyAnAShTakam
+itxtitle: shAstuHdhyAnAShTakam
+title: शास्तुःध्यानाष्टकम्
 
-+++
+---
   
  शास्तुः ध्यानाष्टकं   
 श्रीगणेशाय नमः ।  

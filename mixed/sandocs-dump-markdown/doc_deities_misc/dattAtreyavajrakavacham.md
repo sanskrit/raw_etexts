@@ -1,25 +1,25 @@
-+++
-"Text title" = "dattAtreyavajrakavacham"
-"File name" = "dattAtreyavajrakavacham.itx"
-itxtitle = "dattAtreyavajrakavacham"
-engtitle = "dattAtreyavajrakavacham"
-Category = "kavacha, deities_misc, dattatreya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale himavatkhaNDeumAmaheshvara sa.nvAde"
-Indexextra = "(Marathi)"
-"Latest update" = "APril 25, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयवज्रकवचम्"
+---
+Author: Traditional
+Category: kavacha, deities_misc, dattatreya
+Description-comments: rudrayAmale himavatkhaNDeumAmaheshvara sa.nvAde
+File name: dattAtreyavajrakavacham.itx
+Indexextra: (Marathi)
+Language: Sanskrit
+Latest update: APril 25, 2010
+Location: doc_deities_misc
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattAtreyavajrakavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: dattAtreyavajrakavacham
+itxtitle: dattAtreyavajrakavacham
+title: दत्तात्रेयवज्रकवचम्
 
-+++
+---
   
  श्रीदत्तात्रेयवज्रकवचम्   
           श्रीगणेशाय नमः ।  
@@ -171,7 +171,7 @@ title = "दत्तात्रेयवज्रकवचम्"
 दिगम्बरं भस्मसुगन्धलेपनं चक्रं त्रिशूलं डमरुं गदायुधम् ।  
 पद्मासनं योगिमुनीन्द्रवन्दितं दत्तेति नामस्मरणेन नित्यम् ॥  
   
-(अथ पञ्चोपचारैः संपूज्य ॐ द्रां इति अष्टोत्तरशतवारं जपेत्)  
+(अथ पञ्चोपचारैः सम्पूज्य ॐ द्रां इति अष्टोत्तरशतवारं जपेत्)  
   
 ॐ द्रां ।  
 ॐ दत्तात्रेयः शिरः पातु सहस्राब्जेषु संस्थितः ।  
@@ -289,7 +289,7 @@ title = "दत्तात्रेयवज्रकवचम्"
 सर्वसन्तोषकरणं सर्वदुःखनिवारणम् ।  
 शत्रु संहारकं शीघ्रं यशःकीर्तिविवर्धनम् ॥ ६१॥  
   
-अष्टसंख्या महारोगाः सन्निपातास्त्रयोदश ।  
+अष्टसङ्ख्या महारोगाः सन्निपातास्त्रयोदश ।  
 षण्णवत्यक्षिरोगाश्च विंशतिर्मेहरोगकाः ॥ ६२॥  
   
 अष्टादश तु कुष्ठानि गुल्मान्यष्टविधान्यपि ।  

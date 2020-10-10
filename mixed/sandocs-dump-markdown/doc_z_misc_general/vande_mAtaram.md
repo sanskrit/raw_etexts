@@ -1,26 +1,26 @@
-+++
-"Text title" = "vande mAtaram with meaning"
-"File name" = "vande.itx"
-itxtitle = "vande mAtaram"
-engtitle = "vande mAtaram (ba.nkImachandra chaTTopAdhyAya)"
-Category = "misc, sahitya, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Subcategory = "sahitya"
-Author = "Bankimchandra Chattopadhyay"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Meanings by Aurobindo Ghosh, and Keshab Bhattarai,"
-Indexextra = "(info, Videos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, Books 1, 2, 3)"
-"Latest update" = "1999, March 26, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वन्दे मातरम्"
+---
+Author: Bankimchandra Chattopadhyay
+Category: misc, sahitya, sanskritgeet
+Description-comments: Meanings by Aurobindo Ghosh, and Keshab Bhattarai,
+File name: vande.itx
+Indexextra: (info, Videos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, Books 1, 2, 3)
+Language: Sanskrit
+Latest update: 1999, March 26, 2014
+Location: doc_z_misc_general
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: vande mAtaram with meaning
+engtitle: vande mAtaram (ba.nkImachandra chaTTopAdhyAya)
+itxtitle: vande mAtaram
+title: वन्दे मातरम्
 
-+++
+---
   
  वन्दे मातरम्   
-                 बंकिमचन्द्र चट्टोपाध्याय  
+                 बङ्किमचन्द्र चट्टोपाध्याय  
                    
                  वन्दे मातरम्  
                  सुजलां सुफलां मलयजशीतलाम्  
@@ -198,7 +198,7 @@ Shri Aurobindo's birthday was also on 15th of August.
           Oh Mother, you are strength in (our) arms,  
            हृदये तुमि मा भक्ति,   
           Oh Mother, you are devotion in (our) hearts,  
-           तोमारै प्रतिमा गडि मंदिरे मंदिरे ॥ वन्दे मातरम्   
+           तोमारै प्रतिमा गडि मन्दिरे मन्दिरे ॥ वन्दे मातरम्   
           Your (sacred) image is in every temple.  
           Salutations (to you), oh Mother!  
            त्वं हि दुर्गा दशप्रहरणधारिणी   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Atmabodha Upanishad"
-"File name" = "aatmabodha_upan.itx"
-itxtitle = "AtmabodhopaniShat"
-engtitle = "Atmabodha Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "42/108; RigVeda, Samanya Upanishad"
-"Latest update" = "September 25, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आत्मबोधोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 42/108; RigVeda, Samanya Upanishad
+File name: aatmabodha_upan.itx
+Language: Sanskrit
+Latest update: September 25, 1999
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Atmabodha Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Atmabodha Upanishad
+itxtitle: AtmabodhopaniShat
+title: आत्मबोधोपनिषत्
 
-+++
+---
   
  आत्मबोधोपनिषत्   
   

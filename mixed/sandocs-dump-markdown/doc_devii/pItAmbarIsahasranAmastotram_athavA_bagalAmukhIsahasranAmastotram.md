@@ -1,25 +1,28 @@
-+++
-"Text title" = "pItAmbarIsahasranAmastotra"
-"File name" = "pItAmbarIsahasranAmastotra.itx"
-itxtitle = "pItAmbarIsahasranAmastotram athavA bagalAmukhIsahasranAmastotram"
-engtitle = "Shripitambarisahasranamastotram"
-Category = "sahasranAma, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion  kumAryAdipaMchAyatanadevatAnAM tantraishcha samalaMkRitaH  From Muktabodha Indological Research Institute www.muktabodha.org  Data-entered by the staff of Muktabodha under the direction of Mark S. G.  Dyczkowski.  Reprint of edition published in 1892.  Revision 0 february 9, 2009"
-"Transliterated by" = "Muktabodha.org"
-"Proofread by" = "Muktabodha.org, DPD"
-Description-comments = "From Shaktapramoda kAlyAdidashamahAvidyAtantrAtmakaH"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "October 2, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पीताम्बरीसहस्रनामस्तोत्रम् अथवा बगलामुखीसहस्रनामस्तोत्रम्"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: sahasranAma, devii, dashamahAvidyA, stotra, devI
+Description-comments: From Shaktapramoda kAlyAdidashamahAvidyAtantrAtmakaH
+File name: pItAmbarIsahasranAmastotra.itx
+Language: Sanskrit
+Latest update: October 2, 2014
+Location: doc_devii
+Proofread by: Muktabodha.org, DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion  kumAryAdipaMchAyatanadevatAnAM tantraishcha
+  samalaMkRitaH  From Muktabodha Indological Research Institute www.muktabodha.org  Data-entered
+  by the staff of Muktabodha under the direction of Mark S. G.  Dyczkowski.  Reprint
+  of edition published in 1892.  Revision 0 february 9, 2009
+Sublocation: devii
+Text title: pItAmbarIsahasranAmastotra
+Texttype: stotra
+Transliterated by: Muktabodha.org
+engtitle: Shripitambarisahasranamastotram
+itxtitle: pItAmbarIsahasranAmastotram athavA bagalAmukhIsahasranAmastotram
+title: पीताम्बरीसहस्रनामस्तोत्रम् अथवा बगलामुखीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीपीताम्बरीसहस्रनामस्तोत्रम्   
   
@@ -399,20 +402,20 @@ title = "पीताम्बरीसहस्रनामस्तोत्�
 ओंवदवदवाणी च ओङ्काराक्षरमण्डिता ।  
 ऐन्द्री कुलिशहस्ता च ओंलोकपरवासिनी ॥ १२१॥  
   
-ओङ्कारमध्यबीजा च ओंनमोरूपधारिणी ।  
+ओङ्कारमध्यबीजा च ओन्नमोरूपधारिणी ।  
 प्रब्रह्मस्वरूपा च अंशुकांशुकवल्लभा ॥ १२२॥  
   
 ओङ्कारा अःफड्मन्त्रा च अक्षाक्षरविभूषिता ।  
 अमन्त्रा मन्त्ररूपा च पदशोभासमन्विता ॥ १२३॥  
   
 प्रणवोङ्काररूपा च प्रणवोच्चारभाक् पुनः ।  
-ह्रीङ्काररूपा ह्रींङ्कारी वाग्बीजाक्षरभूषणा ॥ १२४॥  
+ह्रीङ्काररूपा ह्रीङ्ङ्कारी वाग्बीजाक्षरभूषणा ॥ १२४॥  
   
 हृल्लेखा सिद्धि योगा च हृत्पद्मासनसंस्थिता ।  
 बीजाख्या नेत्रहृदया ह्रीम्बीजाभुवनेश्वरी ॥ १२५॥  
   
 क्लीङ्कामराजा क्लिन्ना च चतुर्वर्गफलप्रदा ।  
-क्लीङ्क्लीङ्क्लींरूपिका देवी क्रीङ्क्रीङ्क्रींनामधारिणी ॥ १२६॥  
+क्लीङ्क्लीङ्क्लींरूपिका देवी क्रीङ्क्रीङ्क्रीन्नामधारिणी ॥ १२६॥  
   
 कमलाशक्तिबीजा च पाशाङ्कुशविभूषिता ।  
 श्रींश्रीङ्कारा महाविद्या श्रद्धा श्रद्धावती तथा ॥ १२७॥  

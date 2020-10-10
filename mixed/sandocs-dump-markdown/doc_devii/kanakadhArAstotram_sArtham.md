@@ -1,25 +1,25 @@
-+++
-"Text title" = "Kanakadhara Stotra"
-"File name" = "kanaka-tr.itx"
-itxtitle = "kanakadhArAstotram (sArtham)"
-engtitle = "Shri Kanakadhara Stotra"
-Category = "devii, lakShmI, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Narayanaswamy"
-"Proofread by" = "S. [N. Anantharaman engl. tr. added.]"
-Description-comments = "Hymn to Goddess Laxmi, to confer prosperity on a poor woman"
-Indexextra = "(sha.nkarAchArya with meaning)"
-"Latest update" = "October, 25  2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कनकधारास्तोत्रम् (सार्थम्)"
+---
+Author: Adi Shankaracharya
+Category: devii, lakShmI, shankarAchArya, devI
+Description-comments: Hymn to Goddess Laxmi, to confer prosperity on a poor woman
+File name: kanaka-tr.itx
+Indexextra: (sha.nkarAchArya with meaning)
+Language: Sanskrit
+Latest update: October, 25  2000
+Location: doc_devii
+Proofread by: S. [N. Anantharaman engl. tr. added.]
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: hinduism/religion
+Sublocation: devii
+Text title: Kanakadhara Stotra
+Transliterated by: Narayanaswamy
+engtitle: Shri Kanakadhara Stotra
+itxtitle: kanakadhArAstotram (sArtham)
+title: कनकधारास्तोत्रम् (सार्थम्)
 
-+++
+---
   
  श्रीकनकधारास्तोत्रम्   
   

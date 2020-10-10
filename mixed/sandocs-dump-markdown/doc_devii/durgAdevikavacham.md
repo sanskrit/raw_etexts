@@ -1,23 +1,23 @@
-+++
-"Text title" = "durgAdevi kavacham"
-"File name" = "durgAkavach.itx"
-itxtitle = "durgAdevikavacham"
-engtitle = "durgAdevi kavacham"
-Category = "kavacha, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, Partha Pratim Gogoi"
-Description-comments = "kubjikAtantre"
-"Latest update" = "April 11, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गादेविकवचम्"
+---
+Author: Traditional
+Category: kavacha, devii, durgA, devI
+Description-comments: kubjikAtantre
+File name: durgAkavach.itx
+Language: Sanskrit
+Latest update: April 11, 2020
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, Partha Pratim Gogoi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAdevi kavacham
+engtitle: durgAdevi kavacham
+itxtitle: durgAdevikavacham
+title: दुर्गादेविकवचम्
 
-+++
+---
   
  श्रीदुर्गादेविकवचम्   
 श्रीगणेशाय नमः ।  

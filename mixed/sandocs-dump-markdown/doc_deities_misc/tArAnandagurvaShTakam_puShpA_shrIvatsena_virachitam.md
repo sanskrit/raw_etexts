@@ -1,26 +1,26 @@
-+++
-"Text title" = "tArAnandagurvaShTakam"
-"File name" = "tArAnandagurvaShTakam.itx"
-itxtitle = "tArAnandagurvaShTakam (puShpA shrIvatsena virachitam)"
-engtitle = "tArAnandagurvaShTakam"
-Category = "deities_misc, puShpAshrIvatsan, gurudev, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Dayananda Stotravali"
-Indexextra = "(Translation)"
-"Latest update" = "March 31, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तारानन्दगुर्वष्टकम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: deities_misc, puShpAshrIvatsan, gurudev, aShTaka
+File name: tArAnandagurvaShTakam.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: March 31, 2018
+Location: doc_deities_misc
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Dayananda Stotravali
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: tArAnandagurvaShTakam
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: tArAnandagurvaShTakam
+itxtitle: tArAnandagurvaShTakam (puShpA shrIvatsena virachitam)
+title: तारानन्दगुर्वष्टकम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  श्रीतारानन्दगुर्वष्टकम्   
                  ॐ  

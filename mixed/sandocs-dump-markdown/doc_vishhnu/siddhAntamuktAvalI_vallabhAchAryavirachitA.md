@@ -1,24 +1,24 @@
-+++
-"Text title" = "siddhAntamuktAvalI"
-"File name" = "siddhAntamuktAvalI.itx"
-itxtitle = "siddhAntamuktAvalI (vallabhAchAryavirachitA)"
-engtitle = "siddhAntamuktAvalI"
-Category = "vishhnu, krishna, puShTimArgIya, vallabhaachaarya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धान्तमुक्तावली (वल्लभाचार्यविरचिता)"
+---
+Author: vallabhAchArya
+Category: vishhnu, krishna, puShTimArgIya, vallabhaachaarya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: siddhAntamuktAvalI.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: siddhAntamuktAvalI
+engtitle: siddhAntamuktAvalI
+itxtitle: siddhAntamuktAvalI (vallabhAchAryavirachitA)
+title: सिद्धान्तमुक्तावली (वल्लभाचार्यविरचिता)
 
-+++
+---
   
  सिद्धान्तमुक्तावली   
   

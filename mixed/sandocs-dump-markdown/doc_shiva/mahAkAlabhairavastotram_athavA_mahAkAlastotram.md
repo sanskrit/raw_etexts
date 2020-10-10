@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAkAlabhairavastotram"
-"File name" = "mahAkAlabhairavastotram.itx"
-itxtitle = "mahAkAlabhairavastotram athavA mahAkAlastotram"
-engtitle = "mahAkAlabhairavastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pranav Tendulkar pranav.tendulkar at gmail.com"
-"Proofread by" = "Pranav Tendulkar pranav.tendulkar at gmail.com, NA"
-Description-comments = "Bhagavan Mahakal narrated this to Bhagavati Bhairavi"
-"Latest update" = "January 4, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालभैरवस्तोत्रम् अथवा महाकालस्तोत्रम्"
+---
+Author: Traditional
+Category: shiva
+Description-comments: Bhagavan Mahakal narrated this to Bhagavati Bhairavi
+File name: mahAkAlabhairavastotram.itx
+Language: Sanskrit
+Latest update: January 4, 2020
+Location: doc_shiva
+Proofread by: Pranav Tendulkar pranav.tendulkar at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mahAkAlabhairavastotram
+Transliterated by: Pranav Tendulkar pranav.tendulkar at gmail.com
+engtitle: mahAkAlabhairavastotram
+itxtitle: mahAkAlabhairavastotram athavA mahAkAlastotram
+title: महाकालभैरवस्तोत्रम् अथवा महाकालस्तोत्रम्
 
-+++
+---
   
  श्रीमहाकालभैरवस्तोत्रम् अथवा श्रीमहाकालस्तोत्रम्   
 ॐ महाकाल महाकाय महाकाल जगत्पते ।  

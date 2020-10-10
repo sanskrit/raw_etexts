@@ -1,23 +1,23 @@
-+++
-"Text title" = "viThThalasahasranAmAvaliH"
-"File name" = "viThThalasahasranAmAvaliH.itx"
-itxtitle = "viThThalasahasranAmAvaliH"
-engtitle = "viThThalasahasranAmAvaliH"
-Category = "vishhnu, sahasranAmAvalI, nAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विठ्ठलसहस्रनामावलिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, sahasranAmAvalI, nAmAvalI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viThThalasahasranAmAvaliH.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viThThalasahasranAmAvaliH
+engtitle: viThThalasahasranAmAvaliH
+itxtitle: viThThalasahasranAmAvaliH
+title: विठ्ठलसहस्रनामावलिः
 
-+++
+---
   
  श्रीविठ्ठलसहस्रनामावलिः   
   

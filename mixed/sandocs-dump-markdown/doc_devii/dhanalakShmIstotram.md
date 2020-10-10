@@ -1,23 +1,23 @@
-+++
-"Text title" = "dhanalakShmI stotram"
-"File name" = "dhanalaxmii.itx"
-itxtitle = "dhanalakShmIstotram"
-engtitle = "dhanalakShmI stotram"
-Category = "devii, lakShmI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sridhar Seshagiri, Usha Rani Sanka usharani.sanka at gmail.com"
-"Latest update" = "December 29, 2001, November 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धनलक्ष्मीस्तोत्रम्"
+---
+Author: Traditional
+Category: devii, lakShmI, stotra, devI
+File name: dhanalaxmii.itx
+Language: Sanskrit
+Latest update: December 29, 2001, November 28, 2017
+Location: doc_devii
+Proofread by: Sridhar Seshagiri, Usha Rani Sanka usharani.sanka at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dhanalakShmI stotram
+Texttype: stotra
+engtitle: dhanalakShmI stotram
+itxtitle: dhanalakShmIstotram
+title: धनलक्ष्मीस्तोत्रम्
 
-+++
+---
   
  श्रीधनलक्ष्मीस्तोत्रम्   
 श्रीधनदा उवाच-  

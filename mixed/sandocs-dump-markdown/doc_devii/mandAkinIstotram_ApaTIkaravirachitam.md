@@ -1,27 +1,28 @@
-+++
-"Text title" = "Mandakini Stotram"
-"File name" = "mandAkinIstotram.itx"
-itxtitle = "mandAkinIstotram (ApaTIkaravirachitam)"
-engtitle = "mandAkinIstotram"
-Category = "devii, ApaTIkara, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "ma. sa. ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मन्दाकिनीस्तोत्रम् (आपटीकरविरचितम्)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma. sa. ApaTIkara
+Category: devii, ApaTIkara, nadI, devI
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: mandAkinIstotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_devii
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Mandakini Stotram
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: mandAkinIstotram
+itxtitle: mandAkinIstotram (ApaTIkaravirachitam)
+title: मन्दाकिनीस्तोत्रम् (आपटीकरविरचितम्)
 
-+++
+---
   
  श्रीमन्दाकिनीस्तोत्रम्   
      (रागः मारवा)  

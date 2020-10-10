@@ -1,23 +1,23 @@
-+++
-"Text title" = "mAtA amRitAnandamayi aShTottarashatanAmAvali"
-"File name" = "amritanandamayi108.itx"
-itxtitle = "mAtA amRitAnandamayI aShTottarashatanAmAvalI"
-engtitle = "mAtA amRitAnandamayI aShTottara shata nAmAvali"
-Category = "aShTottarashatanAmAvalI, deities_misc, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Michele snehikkyam at gmail.com"
-"Proofread by" = "Michele snehikkyam at gmail.com, Sunder Hattangadi  sunderh at hotmail.com"
-Description-comments = "from The Archana Book"
-"Latest update" = "June 10, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "माता अमृइतानन्दमयी अष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, deities_misc, nAmAvalI
+Description-comments: from The Archana Book
+File name: amritanandamayi108.itx
+Language: Sanskrit
+Latest update: June 10, 2009
+Location: doc_deities_misc
+Proofread by: Michele snehikkyam at gmail.com, Sunder Hattangadi  sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: mAtA amRitAnandamayi aShTottarashatanAmAvali
+Texttype: nAmAvalI
+Transliterated by: Michele snehikkyam at gmail.com
+engtitle: mAtA amRitAnandamayI aShTottara shata nAmAvali
+itxtitle: mAtA amRitAnandamayI aShTottarashatanAmAvalI
+title: माता अमृइतानन्दमयी अष्टोत्तरशतनामावली
 
-+++
+---
   
  माता अमृतानन्दमयी अष्टोत्तरशतनामावली   
   
@@ -50,7 +50,7 @@ title = "माता अमृइतानन्दमयी अष्टोत
 ॐ त्यक्त-योग-सुषुप्तये नमः ।  
 ॐ केरलक्षमावतीर्णायै नमः । २० ।  
 ॐ मानुषस्त्री-वपुर्भृते नमः ।  
-ॐ धर्मिष्ठ-सुगुणानन्द-दमयन्ती-स्वयंभुवे नमः ।  
+ॐ धर्मिष्ठ-सुगुणानन्द-दमयन्ती-स्वयम्भुवे नमः ।  
 ॐ माता-पितृ-चिराचीर्ण-पुण्यपूर-फलात्मने नमः ।  
 ॐ निःशब्द-जननीगर्भ-निर्गमाद्भुत-कर्मणे नमः ।  
 ॐ काली-श्रीकृष्ण-सङ्काश-कोमल-श्यामल-त्विषे नमः ।  
@@ -75,7 +75,7 @@ title = "माता अमृइतानन्दमयी अष्टोत
 ॐ सुस्मेर-तन्-मुखालोक-विस्मेरोत्फुल्ल-दृष्टये नमः ।  
 ॐ तत्कान्ति-यमुना-स्पर्श-हृष्ट-रोमाङ्ग-यष्टये नमः ।  
 ॐ अप्रतीक्षित-सम्प्राप्त-देवी-रूपोपलब्धये नमः ।  
-ॐ पाणी-पद्म-स्वपद्वीण-शोभमानांबिका-दृशे नमः ।  
+ॐ पाणी-पद्म-स्वपद्वीण-शोभमानाम्बिका-दृशे नमः ।  
 ॐ देवी-सद्यः-तिरोधान-ताप-व्यथित-चेतसे नमः ।  
 ॐ दीन-रोदन-निर्घोष-दीर्ण-दिक्कर्ण-वर्त्मने नमः ।  
 ॐ त्यक्तान्न-पान-निद्रादि-सर्व-दैहिक-धर्मणे नमः । ५० ।  
@@ -99,7 +99,7 @@ title = "माता अमृइतानन्दमयी अष्टोत
 ॐ भक्त-लोकाखिलाभीष्ट-पूरण प्रीणनेच्छवे नमः ।  
 ॐ पीठारूढ-महादेवीभाव-भास्वर-मूर्तये नमः ।  
 ॐ भूषणाम्बर-वेशश्री-दीप्यमानाङ्ग-यष्टये नमः । ७० ।  
-ॐ सुप्रसन्न-मुखांभोज-वराभयद-पाणये नमः ।  
+ॐ सुप्रसन्न-मुखाम्भोज-वराभयद-पाणये नमः ।  
 ॐ किरीट-रशना-कर्णपूर-स्वर्णपटी-भृते नमः ।  
 ॐ जिह्व-लीढ-महारोगि-बीभत्स-व्रैणित-त्वचे नमः ।  
 ॐ त्वग्रोग-ध्वंस-निष्णात-गौराङ्गापर-मूर्तये नमः ।  
@@ -113,9 +113,9 @@ title = "माता अमृइतानन्दमयी अष्टोत
 ॐ दृप्त-दत्त-विरक्तायै नमः ।  
 ॐ नम्रार्पित-बुभुक्षवे नमः ।  
 ॐ उट्सृष्ट-भोगि-सङ्गायै नमः ।  
-ॐ योगि-संग-रिरंसवे नमः ।  
+ॐ योगि-सङ्ग-रिरंसवे नमः ।  
 ॐ अभिनन्दित-दानादि-शुभ-कर्माभिवृद्धये नमः ।  
-ॐ अभिवन्दित-निःशेष-स्थिर-जंगम-सृष्टये नमः ।  
+ॐ अभिवन्दित-निःशेष-स्थिर-जङ्गम-सृष्टये नमः ।  
 ॐ प्रोत्साहित-ब्रह्मविद्या-सम्प्रदाय-प्रवृत्तये नमः ।  
 ॐ पुनरासादित-श्रेष्ठ-तपोविपिन-वृत्तये नमः ।  
 ॐ भूयो-गुरुकुलावास-शिक्षणोत्सुक-मेधसे नमः । ९० ।  

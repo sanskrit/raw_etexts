@@ -1,26 +1,29 @@
-+++
-"Text title" = "gItArtha-sangrahaH of Sri yAmunAchArya"
-"File name" = "gitaarthasangraha.itx"
-itxtitle = "bhagavadgItArthasaNgrahaH"
-engtitle = "Essence of Bhagvad Gita by Shri Yamunacharya"
-Category = "gItA, giitaa, bhagavadgita"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Subcategory = "bhagavadgita"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion  The giitaartha-sangrahaH of Sri yaamunaachaarya (an  AchArya of the Sri Vaishnava tradition)  This is a 32 verse work which has covered the essence of the  Bhagavad Giitaa from the Sri Vaishnava point of view. Sri Raamaanuja has  followed it very closely in his giitaa bhaashya."
-"Transliterated by" = "http://www.srivaishnava.org/sva/alavan/gsangat.htm"
-"Proofread by" = "http://www.srivaishnava.org/sva/alavan/gsangat.htm"
-Indexextra = "(of Sri yAmunAchArya)"
-"Latest update" = "November 27, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवद्गीतार्थसण्ग्रहः"
+---
+Author: Traditional
+Category: gItA, giitaa, bhagavadgita
+File name: gitaarthasangraha.itx
+Indexextra: (of Sri yAmunAchArya)
+Language: Sanskrit
+Latest update: November 27, 2001
+Location: doc_giitaa
+Proofread by: http://www.srivaishnava.org/sva/alavan/gsangat.htm
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhagavadgita
+Subject: philosophy/hinduism/religion  The giitaartha-sangrahaH of Sri yaamunaachaarya
+  (an  AchArya of the Sri Vaishnava tradition)  This is a 32 verse work which has
+  covered the essence of the  Bhagavad Giitaa from the Sri Vaishnava point of view.
+  Sri Raamaanuja has  followed it very closely in his giitaa bhaashya.
+Sublocation: giitaa
+Text title: gItArtha-sangrahaH of Sri yAmunAchArya
+Transliterated by: http://www.srivaishnava.org/sva/alavan/gsangat.htm
+engtitle: Essence of Bhagvad Gita by Shri Yamunacharya
+itxtitle: bhagavadgItArthasaNgrahaH
+title: भगवद्गीतार्थसण्ग्रहः
 
-+++
+---
   
- गीतार्थ संग्रह   
+ गीतार्थ सङ्ग्रह   
   
 स्वधर्मज्ञानवैराग्यसाध्यभक्त्येकगोचरः ।  
 नारायणः परं ब्रह्म गीताशास्त्रे समीरितः ॥ १॥  

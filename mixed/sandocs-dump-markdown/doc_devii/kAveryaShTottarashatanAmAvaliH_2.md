@@ -1,22 +1,22 @@
-+++
-"Text title" = "kAveryaShTottarashatanAmAvalI 2"
-"File name" = "kAverI108naama2.itx"
-itxtitle = "kAveryaShTottarashatanAmAvaliH 2"
-engtitle = "kAveryaShTottarashatanAmAvalI 2"
-Category = "aShTottarashatanAmAvalI, devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Latest update" = "September 30, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कावेर्यष्टोत्तरशतनामावलिः २"
+---
+Category: aShTottarashatanAmAvalI, devii, nadI, devI
+File name: kAverI108naama2.itx
+Language: Sanskrit
+Latest update: September 30, 2016
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAveryaShTottarashatanAmAvalI 2
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: kAveryaShTottarashatanAmAvalI 2
+itxtitle: kAveryaShTottarashatanAmAvaliH 2
+title: कावेर्यष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  श्रीकावेर्यष्टोत्तरशतनामावलिः २   
   

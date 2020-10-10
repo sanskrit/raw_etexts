@@ -1,26 +1,26 @@
-+++
-"Text title" = "Atma-Vidya-Vilasa"
-"File name" = "AtmavidyAvilAsa.itx"
-itxtitle = "AtmavidyAvilAsaH (sadAshivendravirachitaH)"
-engtitle = "Atma-Vidya-Vilasa"
-Category = "major_works, sadAshivabrahmendra"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sadashivendra Sarasvati"
-Language = "Sanskrit"
-Subject = "philosophy"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi, kalyana krrit kalyanakrrit at gmail.com"
-Description-comments = "on advaitic life"
-Source = "Sivayogadipika of Sadasivayogisvara with Atmavidyavilasa (Anandashram)"
-Indexextra = "(Scanned)"
-"Latest update" = "August 25, 2007, October 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आत्मविद्याविलासः (सदाशिवेन्द्रविरचितः)"
+---
+Author: Sadashivendra Sarasvati
+Category: major_works, sadAshivabrahmendra
+Description-comments: on advaitic life
+File name: AtmavidyAvilAsa.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: August 25, 2007, October 6, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi, kalyana krrit kalyanakrrit at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sivayogadipika of Sadasivayogisvara with Atmavidyavilasa (Anandashram)
+Subject: philosophy
+Sublocation: major_works
+Text title: Atma-Vidya-Vilasa
+Texttype: pramukha
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Atma-Vidya-Vilasa
+itxtitle: AtmavidyAvilAsaH (sadAshivendravirachitaH)
+title: आत्मविद्याविलासः (सदाशिवेन्द्रविरचितः)
 
-+++
+---
   
  आत्मविद्याविलासः   
 श्रीसदाशिवेन्द्रसरस्वतीविरचितः  
@@ -85,7 +85,7 @@ title = "आत्मविद्याविलासः (सदाशिवे
 अज्ञानवैरिविजयी प्रज्ञामातङ्गमस्तकारूढः ।  
 विहरति संयमिराजः समरससुखधाम्नि सर्वतो रम्ये ॥ १९॥  
   
-शान्ताहंकृतिदोषः सुसमाहितमानसः कोऽपि ।  
+शान्ताहङ्कृतिदोषः सुसमाहितमानसः कोऽपि ।  
 पूर्णेन्दुशिशिरभावो राजत्यानन्दसत्यचिद्रसिकः ॥ २०॥  
   
 तिष्ठन्परत्र धाम्नि स्वीयसुखास्वादपरवशः कश्चित् ।  
@@ -106,7 +106,7 @@ title = "आत्मविद्याविलासः (सदाशिवे
 कुवलयविकासकारणमज्ञानध्वान्तकौमुदीप्रज्ञः ।  
 शुद्धो मुनीन्द्रचन्द्रः सुरसेव्ये लसति विष्णुपदे ॥ २६॥  
   
-स्वानन्दामृतसेकैरान्तरसंतापसंततिं शमयन् ।  
+स्वानन्दामृतसेकैरान्तरसन्तापसन्ततिं शमयन् ।  
 चित्रमचञ्चलवृत्तिश्चिद्व्योमनि भाति योगिवर्यघनः ॥ २७॥  
   
 सुमनःसौरभमञ्जुलसञ्चारनिवारिताखिलश्रान्तिः ।  

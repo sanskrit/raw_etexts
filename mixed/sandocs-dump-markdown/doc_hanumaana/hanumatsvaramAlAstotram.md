@@ -1,21 +1,21 @@
-+++
-"Text title" = "hanumatstotram svaramAlA"
-"File name" = "hanumatstotramsvaramAlA.itx"
-itxtitle = "hanumatsvaramAlAstotram"
-engtitle = "hanumatstotram svaramAlA"
-Category = "hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran, Shankara"
-"Latest update" = "September 27, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्स्वरमालास्तोत्रम्"
+---
+Category: hanumaana, hanuman
+File name: hanumatstotramsvaramAlA.itx
+Language: Sanskrit
+Latest update: September 27, 2017
+Location: doc_hanumaana
+Proofread by: PSA Easwaran, Shankara
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatstotram svaramAlA
+Transliterated by: PSA Easwaran
+engtitle: hanumatstotram svaramAlA
+itxtitle: hanumatsvaramAlAstotram
+title: हनुमत्स्वरमालास्तोत्रम्
 
-+++
+---
   
  श्रीहनुमत्स्वरमालास्तोत्रम्   
   

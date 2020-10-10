@@ -1,23 +1,23 @@
-+++
-"Text title" = "RigvedIya gaNapatisUkta"
-"File name" = "gaNapatisUkta.itx"
-itxtitle = "gaNapatisUktam (RigvedIyam)"
-engtitle = "Ganapati sUkta from Rigveda"
-Category = "sUkta, veda, svara, rigveda"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism, Literature of ancient India"
-Description-comments = "Extracted from Rigveda"
-Indexextra = "(discussion under Ganapati)"
-"Latest update" = "September 19, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपतिसूक्तम् (ऋइग्वेदीयम्)"
+---
+Author: Vedic Tradition
+Category: sUkta, veda, svara, rigveda
+Description-comments: Extracted from Rigveda
+File name: gaNapatisUkta.itx
+Indexextra: (discussion under Ganapati)
+Language: Sanskrit
+Latest update: September 19, 2018
+Location: doc_veda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism, Literature of ancient India
+Sublocation: veda
+Text title: RigvedIya gaNapatisUkta
+Texttype: svara
+engtitle: Ganapati sUkta from Rigveda
+itxtitle: gaNapatisUktam (RigvedIyam)
+title: गणपतिसूक्तम् (ऋइग्वेदीयम्)
 
-+++
+---
   
  ऋग्वेदीय गणपतिसूक्त   
   

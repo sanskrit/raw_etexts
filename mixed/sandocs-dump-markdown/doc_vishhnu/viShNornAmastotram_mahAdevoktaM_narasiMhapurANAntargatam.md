@@ -1,25 +1,25 @@
-+++
-"Text title" = "viShNurnAmastotrashivokta narasimhapurANe"
-"File name" = "viShNornAmastotramahAdevoktaNP.itx"
-itxtitle = "viShNornAmastotram (mahAdevoktaM narasiMhapurANAntargatam)"
-engtitle = "Vishnu stotra by Mahadeva in Narasimhapurana"
-Category = "vishhnu, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 40"
-Indexextra = "(narasiMhapurANa)"
-"Latest update" = "June 6, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णोर्नामस्तोत्रम् (महादेवोक्तं नरसिंहपुराणान्तर्गतम्)"
+---
+Category: vishhnu, stotra, vishnu
+Description-comments: Narasimhapurana adhyAya 40
+File name: viShNornAmastotramahAdevoktaNP.itx
+Indexextra: (narasiMhapurANa)
+Language: Sanskrit
+Latest update: June 6, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNurnAmastotrashivokta narasimhapurANe
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: Vishnu stotra by Mahadeva in Narasimhapurana
+itxtitle: viShNornAmastotram (mahAdevoktaM narasiMhapurANAntargatam)
+title: विष्णोर्नामस्तोत्रम् (महादेवोक्तं नरसिंहपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णोर्नामस्तोत्रम् महादेवोक्त नरसिंहपुराणे   
   
@@ -48,7 +48,7 @@ title = "विष्णोर्नामस्तोत्रम् (महा
 भक्तिप्रियोऽच्युतः सत्यः सत्यकीर्तिर्ध्रुवः शुचिः ।  
 कारुण्यः करुणो व्यासः पापहा शान्तिवर्धनः ॥ ८॥  
   
-संन्यासी शास्त्रतत्त्वज्ञो मन्दारगिरिकेतनः ।  
+सन्न्यासी शास्त्रतत्त्वज्ञो मन्दारगिरिकेतनः ।  
 बदरीनिलयः शान्तस्तपस्वी वैद्युतप्रभः ॥ ९॥  
   
 भूतावासो गुहावासः श्रीनिवासः श्रियः पतिः ।  
@@ -61,7 +61,7 @@ title = "विष्णोर्नामस्तोत्रम् (महा
 किरीटी कुण्डली हारी मेखली कवची ध्वजी ॥ १२॥  
   
 जिष्णुर्जेता महावीरः शत्रुघ्नः शत्रुतापनः ।  
-शान्तः शान्तिकरः शास्ता शङ्करः शंतनुस्तुतः ॥ १३॥  
+शान्तः शान्तिकरः शास्ता शङ्करः शन्तनुस्तुतः ॥ १३॥  
   
 सारथिः सात्त्विकः स्वामी सामवेदप्रियः समः ।  
 सावनः साहसी सत्त्वः सम्पूर्णांशः समृद्धिमान् ॥ १४॥  
@@ -70,7 +70,7 @@ title = "विष्णोर्नामस्तोत्रम् (महा
 मोक्षदः पुण्डरीकाक्षः क्षीराब्धिकृतकेतनः ॥ १५॥  
   
 स्तुतः सुरासुरैरीश प्रेरकः पापनाशनः ।  
-त्वं यज्ञस्त्वं वषट्कारस्त्वमोंकारस्त्वमग्नयः ॥ १६॥  
+त्वं यज्ञस्त्वं वषट्कारस्त्वमोङ्कारस्त्वमग्नयः ॥ १६॥  
   
 त्वं स्वाहा त्वं स्वधा देव त्वं सुधा पुरुषोत्तम ।  
 नमो देवादिदेवाय विष्णवे शाश्वताय च ॥ १७॥  
@@ -81,7 +81,7 @@ title = "विष्णोर्नामस्तोत्रम् (महा
 उवाच प्रकटीभूत्वा देवान् सर्वानिदं वचः ।  
 इति ।  
   
-नरसिंहपुराण अध्याय ४० स्तोत्रसंख्या ६१  
+नरसिंहपुराण अध्याय ४० स्तोत्रसङ्ख्या ६१  
 श्रीनरसिंहपुराणे विष्णोर्नामस्तोत्रं नाम चत्वारिंशोऽध्यायः ॥ ४०॥  
   
    

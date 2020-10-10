@@ -3,7 +3,6 @@ title: 103 Rama fainted away after hearing the news of his father s death
 title_english: 103 Rama fainted away after hearing the news of his father s death
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-103-Rama_Deenam_Shokaha.mp3"></div>
 
 ताम् श्रुत्वा करुणां वाचं पितुर्मरणसंहिताम् ।  
@@ -16,7 +15,7 @@ title_english: 103 Rama fainted away after hearing the news of his father s deat
 कूलघातपरिश्रान्तं पसुप्तमिव कुञ्जरम् ॥ २-१०३-४  
 भ्रातरस्ते महेष्वासं सर्वतः शोककर्शितम् ।  
 रुदन्तः सह वैदेह्या सिषिभुः सलिलेन वै ॥ २-१०३-५  
-स तु संज्ञां पुनर्लब्ध्वा नेत्राभ्यामस्रमुत्सृजन् ।  
+स तु सञ्ज्ञां पुनर्लब्ध्वा नेत्राभ्यामस्रमुत्सृजन् ।  
 उपाक्रामत काकुत्थ्सः कृपणं बहु भाषितुम् ॥ २-१०३-६  
 स रामः स्वर्गतं श्रुत्वा पितरम् पृथिवीपतिम् ।  
 उवाच भरतं वाक्यं धर्मात्मा धर्मसंहितम् ॥ २-१०३-७  
@@ -74,7 +73,7 @@ title_english: 103 Rama fainted away after hearing the news of his father s deat
 भ्रात्ऱ्^ऊ सह वैदेह्या सिंहानामिव नर्धताम् ॥ २-१०३-३३  
 महाबलानाम् रुदताअं कुर्वतामुदकं पितुः ।  
 विज्ञाय तुमुलं शब्दम् त्रस्ता भरतसैनिकाः ॥ २-१०३-३४  
-आब्रुवंश्चापि रामेण भरतस्संगतो ध्रुवम् ।  
+आब्रुवंश्चापि रामेण भरतस्सङ्गतो ध्रुवम् ।  
 तेषामेव महाशब्दः शोचतां पितरं मृतम् ॥ २-१०३-३५  
 अथ वासान्परित्यज्य तं सर्वेऽभिमुखाः स्वनम् ।  
 अ प्येकमनसो जग्मुर्यथास्थानम् प्रधाविताः ॥ २-१०३-३६  

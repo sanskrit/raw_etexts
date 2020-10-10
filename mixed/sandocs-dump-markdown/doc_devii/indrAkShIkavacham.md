@@ -1,23 +1,23 @@
-+++
-"Text title" = "Indrakshi Kavacham"
-"File name" = "indrAkShIkavacham.itx"
-itxtitle = "indrAkShIkavacham"
-engtitle = "indrAkShIkavacham"
-Category = "devii, otherforms, devI, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, Psa Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Manuscripts 12)"
-"Latest update" = "February 22, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "इन्द्राक्षीकवचम्"
+---
+Category: devii, otherforms, devI, kavacha
+File name: indrAkShIkavacham.itx
+Indexextra: (Manuscripts 12)
+Language: Sanskrit
+Latest update: February 22, 2020
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan Iyer, Psa Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Indrakshi Kavacham
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: indrAkShIkavacham
+itxtitle: indrAkShIkavacham
+title: इन्द्राक्षीकवचम्
 
-+++
+---
   
  श्री इन्द्राक्षीकवचम्   
 ॐ श्रीगणेशाय नमः ।  

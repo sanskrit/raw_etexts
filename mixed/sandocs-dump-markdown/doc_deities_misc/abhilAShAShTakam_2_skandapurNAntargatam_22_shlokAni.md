@@ -1,22 +1,23 @@
-+++
-"Text title" = "abhilAShAShTakam 2"
-"File name" = "abhilAShAShTakam.itx"
-itxtitle = "abhilAShAShTakam 2 (skandapurNAntargatam 22 shlokAni)"
-engtitle = "abhilAShAShTakam 2"
-Category = "aShTaka, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "From Durlabh Stotrani. 22 verses. 8 are translated in another file"
-Indexextra = "(Scan)"
-"Latest update" = "June 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अभिलाषाष्टकम् २ (स्कन्दपुर्णान्तर्गतम् २२ श्लोकानि)"
+---
+Category: aShTaka, deities_misc
+Description/comments: From Durlabh Stotrani. 22 verses. 8 are translated in another
+  file
+File name: abhilAShAShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 17, 2019
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: abhilAShAShTakam 2
+engtitle: abhilAShAShTakam 2
+itxtitle: abhilAShAShTakam 2 (skandapurNAntargatam 22 shlokAni)
+title: अभिलाषाष्टकम् २ (स्कन्दपुर्णान्तर्गतम् २२ श्लोकानि)
 
-+++
+---
   
  अभिलाषाष्टकम्   
 विश्वानर उवाच-  

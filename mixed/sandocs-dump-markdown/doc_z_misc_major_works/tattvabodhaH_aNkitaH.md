@@ -1,24 +1,24 @@
-+++
-"Text title" = "tattvabodha"
-"File name" = "tattvabodharearranged.itx"
-itxtitle = "tattvabodhaH aNkitaH"
-engtitle = "tattvabodhaH"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Upanishad Brahmendra (Ramachandrendra Sarasvati)(?)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "Renumbered and arranged"
-Indexextra = "(meaning 1, 2 rearranged)"
-"Latest update" = "Sept. 22, 2010, November 25, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तत्त्वबोधः अण्कितः"
+---
+Author: Upanishad Brahmendra (Ramachandrendra Sarasvati)(?)
+Category: major_works
+Description-comments: Renumbered and arranged
+File name: tattvabodharearranged.itx
+Indexextra: (meaning 1, 2 rearranged)
+Language: Sanskrit
+Latest update: Sept. 22, 2010, November 25, 2016
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: major_works
+Text title: tattvabodha
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: tattvabodhaH
+itxtitle: tattvabodhaH aNkitaH
+title: तत्त्वबोधः अण्कितः
 
-+++
+---
   
  तत्त्वबोधः अङ्कित   
   
@@ -261,12 +261,12 @@ title = "तत्त्वबोधः अण्कितः"
              मनोबुद्ध्यहङ्कार चित्तान्तःकरणानि सम्भूतानि ।  
 ९.३.१     सङ्कल्पविकल्पात्मकं मनः ।  
 ९.३.२     निश्चयात्मिका बुद्धिः ।  
-९.३.३     अहंकर्ता अहंकारः ।  
+९.३.३     अहङ्कर्ता अहङ्कारः ।  
 ९.३.४     चिन्तनकर्तृ चित्तम् ।  
 ९.४      अन्तःकरणदेवताः  
 ९.४.१  मनसो देवता चन्द्रमाः ।  
 ९.४.२  बुद्धेर्ब्रह्मा ।  
-९.४.३  अहंकारस्य रुद्रः ।  
+९.४.३  अहङ्कारस्य रुद्रः ।  
 ९.४.४  चित्तस्य वासुदेवः ।  
 ९.५       कर्मेन्द्रितसम्भूति  
             एतेषां पञ्चतत्त्वानां मध्ये  
@@ -303,13 +303,13 @@ title = "तत्त्वबोधः अण्कितः"
   
   
 ११.०    जीवेश्वरैक्य  
-           ननु साहंकारस्य किंचिदज्ञस्य जीवस्य निरहंकारस्य  
+           ननु साहङ्कारस्य किञ्चिदज्ञस्य जीवस्य निरहङ्कारस्य  
            सर्वज्ञस्य ईश्वरस्य तत्त्वमसीति महावाक्यात्  
            कथमभेदबुद्धिः स्यादुभयोः  
            विरुद्धधर्माक्रान्तत्वात् । इति चेन्न ।  
-११.१    स्थूलसूक्ष्मशरीराभिमानी त्वंपदवाच्यार्थः ।  
+११.१    स्थूलसूक्ष्मशरीराभिमानी त्वम्पदवाच्यार्थः ।  
            उपाधिविनिर्मुक्तं समाधिदशासम्पन्नं शुद्धं चैतन्यं  
-           त्वंपदलक्ष्यार्थः ।  
+           त्वम्पदलक्ष्यार्थः ।  
 ११.२   एवं सर्वज्ञत्वादिविशिष्ट ईश्वरः तत्पदवाच्यार्थः ।  
            उपाधिशून्यं शुद्धचैतन्यं तत्पदलक्ष्यार्थः ।  
 ११.३   एवं च जीवेश्वरयो चैतन्यरूपेणाभेदे बाधकाभावः ।  
@@ -322,7 +322,7 @@ title = "तत्त्वबोधः अण्कितः"
 १२.१    ननु जीवन्मुक्तः कः ?  
            यथा देहोऽहं पुरुषोऽहं ब्राह्मणोऽहं  शूद्रोऽहमस्मीति  
            दृढनिश्चयस्तथा नाहं ब्राह्मणः न  शूद्रः न पुरुषः  
-           किन्तु असंगः सच्चिदानन्दस्वरूपः  प्रकाशरूपः  
+           किन्तु असङ्गः सच्चिदानन्दस्वरूपः  प्रकाशरूपः  
            सर्वान्तर्यामी चिदाकाशरूपोऽस्मीति दृढनिश्चय  
            रूपोऽपरोक्षज्ञानवान् जीवन्मुक्तः ॥  
   
@@ -343,9 +343,9 @@ title = "तत्त्वबोधः अण्कितः"
               यत्कर्म तत्प्रारब्धं  
               भोगेन नष्टं भवति प्रारब्धकर्मणां भोगादेव क्षय इति ।  
 १३.२      सञ्चितं कर्म ब्रह्मैवाहमिति निश्चयात्मकज्ञानेन नश्यति ।  
-१३.३      आगामि कर्म अपि ज्ञानेन नश्यति किंच आगामि कर्मणां  
+१३.३      आगामि कर्म अपि ज्ञानेन नश्यति किञ्च आगामि कर्मणां  
               नलिनीदलगतजलवत् ज्ञानिनां सम्बन्धो नास्ति ।  
-१३.४      किंच ये ज्ञानिनं स्तुवन्ति भजन्ति अर्चयन्ति तान्प्रति  
+१३.४      किञ्च ये ज्ञानिनं स्तुवन्ति भजन्ति अर्चयन्ति तान्प्रति  
               ज्ञानिकृतं आगामि पुण्यं गच्छति ।  
 १३.५     ये ज्ञानिनं निन्दन्ति द्विषन्ति दुःखप्रदानं कुर्वन्ति तान्प्रति  
              ज्ञानिकृतं सर्वमागामि क्रियमाणं यदवाच्यं कर्म  

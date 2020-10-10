@@ -1,22 +1,22 @@
-+++
-"Text title" = "upadeshachaturviMshatiH"
-"File name" = "upadeshachaturviMshatiH.itx"
-itxtitle = "upadeshachaturviMshatiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "upadeshachaturviMshatiH"
-Category = "misc, vedanta, advice, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, chaturviMshati"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उपदेशचतुर्विंशतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: misc, vedanta, advice, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, chaturviMshati
+File name: upadeshachaturviMshatiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: upadeshachaturviMshatiH
+engtitle: upadeshachaturviMshatiH
+itxtitle: upadeshachaturviMshatiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: उपदेशचतुर्विंशतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  उपदेशचतुर्विंशतिः   
 करणं सर्वसिद्धीनां चित्तानुसरणं गुरोः ।  

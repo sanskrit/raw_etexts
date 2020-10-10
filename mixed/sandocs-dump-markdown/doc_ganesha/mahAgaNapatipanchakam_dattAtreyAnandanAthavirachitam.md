@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAgaNapatipanchakam"
-"File name" = "mahAgaNapatipanchakam.itx"
-itxtitle = "mahAgaNapatipanchakam (dattAtreyAnandanAthavirachitam)"
-engtitle = "mahAgaNapatipanchakam"
-Category = "ganesha, panchaka, suprabhAta"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Dattatreyanandanatha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vedha Nathan vnathan.lab at gmail.com"
-"Proofread by" = "Vedha Nathan vnathan.lab at gmail.com, NA"
-Indexextra = "(Scan)"
-"Latest update" = "January 25, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महागणपतिपञ्चकम् (दत्तात्रेयानन्दनाथविरचितम्)"
+---
+Author: Dattatreyanandanatha
+Category: ganesha, panchaka, suprabhAta
+File name: mahAgaNapatipanchakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 25, 2019
+Location: doc_ganesha
+Proofread by: Vedha Nathan vnathan.lab at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: mahAgaNapatipanchakam
+Transliterated by: Vedha Nathan vnathan.lab at gmail.com
+engtitle: mahAgaNapatipanchakam
+itxtitle: mahAgaNapatipanchakam (dattAtreyAnandanAthavirachitam)
+title: महागणपतिपञ्चकम् (दत्तात्रेयानन्दनाथविरचितम्)
 
-+++
+---
   
  श्रीमहागणपतिपञ्चकम्   
 प्रातः स्मरामि गणनाथमुखारविन्दं  

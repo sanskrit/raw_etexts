@@ -1,23 +1,23 @@
-+++
-"Text title" = "Avyakta Upanishad"
-"File name" = "avyakta.itx"
-itxtitle = "avyaktopaniShat"
-engtitle = "Avyakta Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "68 / 108; Sama Veda - Vaishnava upanishad"
-"Latest update" = "July 27, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अव्यक्तोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 68 / 108; Sama Veda - Vaishnava upanishad
+File name: avyakta.itx
+Language: Sanskrit
+Latest update: July 27, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion
+Sublocation: upanishhat
+Text title: Avyakta Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Avyakta Upanishad
+itxtitle: avyaktopaniShat
+title: अव्यक्तोपनिषत्
 
-+++
+---
   
  अव्यक्तोपनिषत्   
   

@@ -1,25 +1,27 @@
-+++
-"Text title" = "guru aShTottarashatanaamavaliH"
-"File name" = "guru108.itx"
-itxtitle = "guru (graha) aShTottarashatanAmAvaliH bRihaspatyaShTottarashatanAmAvaliH"
-engtitle = "guru aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, navagraha, nAmAvalI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com)"
-"Proofread by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler at gmx.net"
-Description-comments = "108 names for guru"
-Source = "Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal, Published by VIDVATH SABHA, Chennai - 600073"
-Indexextra = "(108 names)"
-"Latest update" = "Jan 25, 1998, June 3, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरु (ग्रह) अष्टोत्तरशतनामावलिः बृइहस्पत्यष्टोत्तरशतनामावलिः"
+---
+Category: aShTottarashatanAmAvalI, navagraha, nAmAvalI
+Description-comments: 108 names for guru
+File name: guru108.itx
+Indexextra: (108 names)
+Language: Sanskrit
+Latest update: Jan 25, 1998, June 3, 2007
+Location: doc_z_misc_navagraha
+Proofread by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler
+  at gmx.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal,
+  Published by VIDVATH SABHA, Chennai - 600073
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: guru aShTottarashatanaamavaliH
+Texttype: nAmAvalI
+Transliterated by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com)
+engtitle: guru aShTottarashatanAmAvalI
+itxtitle: guru (graha) aShTottarashatanAmAvaliH bRihaspatyaShTottarashatanAmAvaliH
+title: गुरु (ग्रह) अष्टोत्तरशतनामावलिः बृइहस्पत्यष्टोत्तरशतनामावलिः
 
-+++
+---
   
  गुरु अष्टोत्तरशतनामावली   
 बृहस्पत्यष्टोत्तरशतनामावलिः  
@@ -75,13 +77,13 @@ title = "गुरु (ग्रह) अष्टोत्तरशतनाम�
 ॐ दयाकराय नमः ।  
 ॐ दारिद्र्यनाशनाय नमः ।  
 ॐ धन्याय नमः ।  
-ॐ दक्षिणायनसंभवाय नमः ।  
+ॐ दक्षिणायनसम्भवाय नमः ।  
 ॐ धनुर्मीनाधिपाय नमः ।  
 ॐ देवाय नमः ।  
 ॐ धनुर्बाणधराय नमः ।  
 ॐ हरये नमः ।  
-ॐ अङ्गिरोवर्षसंजताय नमः ।  
-ॐ अङ्गिरःकुलसंभवाय नमः ।  
+ॐ अङ्गिरोवर्षसञ्जताय नमः ।  
+ॐ अङ्गिरःकुलसम्भवाय नमः ।  
 ॐ सिन्धुदेशाधिपाय नमः ।  
 ॐ धीमते नमः ।  
 ॐ स्वर्णकायाय नमः ।  
@@ -92,7 +94,7 @@ title = "गुरु (ग्रह) अष्टोत्तरशतनाम�
 ॐ पुष्यनाथाय नमः ।  
 ॐ पुष्यरागमणिमण्डलमण्डिताय नमः ।  
 ॐ काशपुष्पसमानाभाय नमः ।  
-ॐ इन्द्राद्यमरसंघपाय नमः ।  
+ॐ इन्द्राद्यमरसङ्घपाय नमः ।  
 ॐ असमानबलाय नमः ।  
 ॐ सत्त्वगुणसम्पद्विभावसवे नमः ।  
 ॐ भूसुराभीष्टदाय नमः ।  
@@ -109,8 +111,8 @@ title = "गुरु (ग्रह) अष्टोत्तरशतनाम�
 ॐ ऋग्वेदपारगाय नमः ।  
 ॐ ऋक्षराशिमार्गप्रचारवते नमः ।  
 ॐ सदानन्दाय नमः ।  
-ॐ सत्यसंधाय नमः ।  
-ॐ सत्यसंकल्पमानसाय नमः ।  
+ॐ सत्यसन्धाय नमः ।  
+ॐ सत्यसङ्कल्पमानसाय नमः ।  
 ॐ सर्वागमज्ञाय नमः ।  
 ॐ सर्वज्ञाय नमः ।  
 ॐ सर्ववेदान्तविदे नमः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhavasodaryaShTakam"
-"File name" = "bhavasodaryaShTakam.itx"
-itxtitle = "bhavasodaryaShTakam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "bhavasodaryaShTakam"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवसोदर्यष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI, aShTaka
+File name: bhavasodaryaShTakam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhavasodaryaShTakam
+engtitle: bhavasodaryaShTakam
+itxtitle: bhavasodaryaShTakam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: भवसोदर्यष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीभवसोदर्यष्टकम्   
 भजतां कल्पलतिका भवभीतिविभञ्जनी ।  

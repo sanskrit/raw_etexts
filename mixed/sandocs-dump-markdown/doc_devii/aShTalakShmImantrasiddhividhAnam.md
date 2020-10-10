@@ -1,22 +1,22 @@
-+++
-"Text title" = "aShTalakShmImantrasiddhividhAnam"
-"File name" = "aShTalakShmImantrasiddhividhAnam.itx"
-itxtitle = "aShTalakShmImantrasiddhividhAnam"
-engtitle = "aShTalakShmImantrasiddhividhAnam"
-Category = "devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras"
-"Latest update" = "May 5, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अष्टलक्ष्मीमन्त्रसिद्धिविधानम्"
+---
+Category: devii, lakShmI, devI
+Description/comments: shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras
+File name: aShTalakShmImantrasiddhividhAnam.itx
+Language: Sanskrit
+Latest update: May 5, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: aShTalakShmImantrasiddhividhAnam
+engtitle: aShTalakShmImantrasiddhividhAnam
+itxtitle: aShTalakShmImantrasiddhividhAnam
+title: अष्टलक्ष्मीमन्त्रसिद्धिविधानम्
 
-+++
+---
   
  श्रीअष्टलक्ष्मीमन्त्रसिद्धिविधानम्   
   

@@ -1,25 +1,26 @@
-+++
-"Text title" = "gaurAngastavakalpataruH"
-"File name" = "gaurAngastavakalpataruH.itx"
-itxtitle = "gaurANgastavakalpataruH (raghunAthadAsagosvAmivirachitA)"
-engtitle = "gaurAngastavakalpataruH"
-Category = "deities_misc, gurudev, raghunAthadAsagosvAmin, stavAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गौराण्गस्तवकल्पतरुः (रघुनाथदासगोस्वामिविरचिता)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: deities_misc, gurudev, raghunAthadAsagosvAmin, stavAvalI
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: gaurAngastavakalpataruH.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gaurAngastavakalpataruH
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: gaurAngastavakalpataruH
+itxtitle: gaurANgastavakalpataruH (raghunAthadAsagosvAmivirachitA)
+title: गौराण्गस्तवकल्पतरुः (रघुनाथदासगोस्वामिविरचिता)
 
-+++
+---
   
  श्रीगौराङ्गस्तवकल्पतरुः   
 गतिं दृष्ट्वा यस्य प्रमदगजवर्येऽखिलजना  

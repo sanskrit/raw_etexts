@@ -1,25 +1,26 @@
-+++
-"Text title" = "rAdhAkRRiShNojjvalakusumakeliH"
-"File name" = "rAdhAkRRiShNojjvalakusumakeliH.itx"
-itxtitle = "rAdhAkRiShNojjvalakusumakeliH (raghunAthadAsagosvAmivirachitA)"
-engtitle = "rAdhAkRRiShNojjvalakusumakeliH"
-Category = "devii, radha, raghunAthadAsagosvAmin, stavAvalI, krishna, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाकृइष्णोज्ज्वलकुसुमकेलिः (रघुनाथदासगोस्वामिविरचिता)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: devii, radha, raghunAthadAsagosvAmin, stavAvalI, krishna, devI
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: rAdhAkRRiShNojjvalakusumakeliH.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAkRRiShNojjvalakusumakeliH
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: rAdhAkRRiShNojjvalakusumakeliH
+itxtitle: rAdhAkRiShNojjvalakusumakeliH (raghunAthadAsagosvAmivirachitA)
+title: राधाकृइष्णोज्ज्वलकुसुमकेलिः (रघुनाथदासगोस्वामिविरचिता)
 
-+++
+---
   
  श्रीश्रीराधाकृष्णोज्ज्वलकुसुमकेलिः   
 सखीवृन्दैर्वृन्दार्चितमुदितवृन्दावनपदं  
@@ -218,7 +219,7 @@ title = "राधाकृइष्णोज्ज्वलकुसुमक�
 भ्रूभङ्ग्या तमाक्षिप्य गृहाय गच्छन्त्यां बलात्कृष्णेन व्याघोतितायां  
 राधायां तुङ्गविद्याब्रवी-  
 शठेन्द्र त्वं शश्वत्पदकमपि हर्तुं वदसि य-  
-     त्तदस्माभिः सोढं नृपसुततया संप्रति श्र्णु ।  
+     त्तदस्माभिः सोढं नृपसुततया सम्प्रति श्र्णु ।  
 समस्ताः सम्भूय ह्रियमिह विहाय प्रियतमां  
      ग्रहिष्यामोऽवश्यं वयमपि तवाच्छिद्य मुरलीम् ॥ ३४॥  
   

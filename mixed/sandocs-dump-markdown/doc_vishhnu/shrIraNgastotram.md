@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shrirangastotram"
-"File name" = "shrirangastotram.itx"
-itxtitle = "shrIraNgastotram"
-engtitle = "shrIraNgastotram"
-Category = "vishhnu, vishnu_misc, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Texttype = "stotra"
-Author = "unknown"
-Language = "Sanskrit"
-Subject = "hinduism/theology/hymn"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Latest update" = "Oct 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीरण्गस्तोत्रम्"
+---
+Author: unknown
+Category: vishhnu, vishnu_misc, stotra, vishnu
+File name: shrirangastotram.itx
+Language: Sanskrit
+Latest update: Oct 1, 2010
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: hinduism/theology/hymn
+Sublocation: vishhnu
+Text title: Shrirangastotram
+Texttype: stotra
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: shrIraNgastotram
+itxtitle: shrIraNgastotram
+title: श्रीरण्गस्तोत्रम्
 
-+++
+---
   
  श्रीरङ्गस्तोत्रम्   
   

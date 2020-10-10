@@ -1,30 +1,30 @@
-+++
-"Text title" = "Shri Veda Vyasa Karavalambana Stotram"
-"File name" = "vedavyAsakarAvalambanastotram.itx"
-itxtitle = "vedavyAsakarAvalambanastotram (yAdavAryavirachitam)"
-engtitle = "vedavyAsakarAvalambanastotram"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Yadavarya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वेदव्यासकरावलम्बनस्तोत्रम् (यादवार्यविरचितम्)"
+---
+Author: Yadavarya
+Category: deities_misc, gurudev
+File name: vedavyAsakarAvalambanastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Veda Vyasa Karavalambana Stotram
+Transliterated by: Krishnananda Achar
+engtitle: vedavyAsakarAvalambanastotram
+itxtitle: vedavyAsakarAvalambanastotram (yAdavAryavirachitam)
+title: वेदव्यासकरावलम्बनस्तोत्रम् (यादवार्यविरचितम्)
 
-+++
+---
   
  श्रीवेदव्यासकरावलम्बनस्तोत्रम्   
 त्रय्या विकासकमजं मुहुरन्तदेव  
      सञ्चिन्त्य मध्वगुरुपादयुगं गुरूंश्च ।  
 वेदेश पादजलजं हृदि साधुकृत्वा  
-     संप्रार्थये श्रुतिविकासक हस्तदानम् ॥ १॥  
+     सम्प्रार्थये श्रुतिविकासक हस्तदानम् ॥ १॥  
   
 पद्मासनादि सुरसत्तमभूसुरादि  
      सल्लोक बोधदहरे बदरी निवासिन् ।  

@@ -1,22 +1,23 @@
-+++
-"Text title" = "mohinIkavacham"
-"File name" = "mohinIkavacham.itx"
-itxtitle = "mohinIkavacham (bhaviShyottarapurANAntargatam)"
-engtitle = "mohinIkavacham"
-Category = "kavacha, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-Source = "bhaviShyottarapurANa"
-"Latest update" = "February 10, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मोहिनीकवचम् (भविष्योत्तरपुराणान्तर्गतम्)"
+---
+Category: kavacha, devii, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: mohinIkavacham.itx
+Language: Sanskrit
+Latest update: February 10, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: bhaviShyottarapurANa
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mohinIkavacham
+engtitle: mohinIkavacham
+itxtitle: mohinIkavacham (bhaviShyottarapurANAntargatam)
+title: मोहिनीकवचम् (भविष्योत्तरपुराणान्तर्गतम्)
 
-+++
+---
   
  मोहिनीकवचम्   
   

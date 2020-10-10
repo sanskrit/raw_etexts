@@ -1,24 +1,24 @@
-+++
-"Text title" = "achyutAShTakaM 1"
-"File name" = "achyuta8.itx"
-itxtitle = "achyutAShTakam 1 (shaNkarAchAryavirachitaM achyutaM keshavam)"
-engtitle = "achyutAShTakam 1"
-Category = "aShTaka, vishhnu, krishna, shankarAchArya, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Girish Beehary"
-"Proofread by" = "Girish Beehary, NA"
-Indexextra = "(Meaning)"
-"Latest update" = "Mar 29, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अच्युताष्टकम् १ (शण्कराचार्यविरचितं अच्युतं केशवम्)"
+---
+Author: Shankaracharya
+Category: aShTaka, vishhnu, krishna, shankarAchArya, vishnu
+File name: achyuta8.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: Mar 29, 2019
+Location: doc_vishhnu
+Proofread by: Girish Beehary, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: achyutAShTakaM 1
+Transliterated by: Girish Beehary
+engtitle: achyutAShTakam 1
+itxtitle: achyutAShTakam 1 (shaNkarAchAryavirachitaM achyutaM keshavam)
+title: अच्युताष्टकम् १ (शण्कराचार्यविरचितं अच्युतं केशवम्)
 
-+++
+---
   
  अच्युताष्टकम् १   
 अच्युतं केशवं रामनारायणं कृष्णदामोदरं वासुदेवं हरिम् ।  

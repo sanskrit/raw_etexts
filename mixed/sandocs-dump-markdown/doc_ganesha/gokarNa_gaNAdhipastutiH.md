@@ -1,23 +1,23 @@
-+++
-"Text title" = "gokarNagaNAdhipatistuti"
-"File name" = "gokarNagaNAdhipatistuti.itx"
-itxtitle = "gokarNa gaNAdhipastutiH"
-engtitle = "gokarNa gaNAdhipastutiH"
-Category = "ganesha, stotra, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Shri Sachchidananda Shivabhinava Nrisimha Bharati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Latest update" = "July 9, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोकर्ण गणाधिपस्तुतिः"
+---
+Author: Shri Sachchidananda Shivabhinava Nrisimha Bharati
+Category: ganesha, stotra, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: gokarNagaNAdhipatistuti.itx
+Language: Sanskrit
+Latest update: July 9, 2012
+Location: doc_ganesha
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gokarNagaNAdhipatistuti
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: gokarNa gaNAdhipastutiH
+itxtitle: gokarNa gaNAdhipastutiH
+title: गोकर्ण गणाधिपस्तुतिः
 
-+++
+---
   
  गोकर्ण गणाधिपस्तुती   
 श्रीमत्परमहंसेत्यादि समस्तबिरुदालङ्कृत श्रीजगद्गुरु  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Shivakamasundari Trishati Nama Stotram"
-"File name" = "shivakAmasundarItrishatanAmastotram.itx"
-itxtitle = "shivakAmasundarItrishatanAmastotram"
-engtitle = "shivakAmasundarItrishatanAmastotram"
-Category = "devii, trishatI, devI, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Latest update" = "May 11, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "शिवकामसुन्दरीत्रिशतनामस्तोत्रम्"
+---
+Category: devii, trishatI, devI, pArvatI
+File name: shivakAmasundarItrishatanAmastotram.itx
+Language: Sanskrit
+Latest update: May 11, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Shivakamasundari Trishati Nama Stotram
+Transliterated by: NA
+engtitle: shivakAmasundarItrishatanAmastotram
+itxtitle: shivakAmasundarItrishatanAmastotram
+title: शिवकामसुन्दरीत्रिशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीशिवकामसुन्दरीत्रिशतीनामस्तोत्रम्   
 पूर्वपीठिका  

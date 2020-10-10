@@ -1,37 +1,38 @@
-+++
-"Text title" = "nArAyaNasahasranAmastotra lakShmInArAyaNIyasaMhitA adyAya 2.240"
-"File name" = "nArAyaNasahasranAmastotraLNsaMhitA.itx"
-itxtitle = "nArAyaNasahasranAmastotram (lakShmInArAyaNIyasaMhitAyAntargatam)"
-engtitle = "Narayanasahasranamastotra from LakShminarayaniyasamhita"
-Category = "sahasranAma, vishhnu, narayana, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "narayana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sahana Sivakumar. Sivakumar Thyagarajan shivakumar24 at gmail.com, NA"
-Description-comments = "Second book Adhyaya 20.  This nArAyaNasahasranAma stotra is referenced in Purana Index for sahasranAmastotra."
-"Latest update" = "September 3, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणसहस्रनामस्तोत्रम् (लक्ष्मीनारायणीयसंहितायान्तर्गतम्)"
+---
+Category: sahasranAma, vishhnu, narayana, stotra, vishnu
+Description-comments: Second book Adhyaya 20.  This nArAyaNasahasranAma stotra is
+  referenced in Purana Index for sahasranAmastotra.
+File name: nArAyaNasahasranAmastotraLNsaMhitA.itx
+Language: Sanskrit
+Latest update: September 3, 2014
+Location: doc_vishhnu
+Proofread by: Sahana Sivakumar. Sivakumar Thyagarajan shivakumar24 at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: narayana
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: nArAyaNasahasranAmastotra lakShmInArAyaNIyasaMhitA adyAya 2.240
+Texttype: stotra
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: Narayanasahasranamastotra from LakShminarayaniyasamhita
+itxtitle: nArAyaNasahasranAmastotram (lakShmInArAyaNIyasaMhitAyAntargatam)
+title: नारायणसहस्रनामस्तोत्रम् (लक्ष्मीनारायणीयसंहितायान्तर्गतम्)
 
-+++
+---
   
  नारायणसहस्रनामस्तोत्रं श्रीलक्ष्मीनारायणीयसंहितायाम्   
   
 ॐ श्री गणेशाय नमः  
 श्रीकृष्ण उवाच  
 शृणु त्वं राधिके चान्यं चमत्कारं श्रियःपतेः ।  
-कुंकुमवापिकाक्षेत्रे जातं योगेश्वरं प्रति ॥ १॥  
+कुङ्कुमवापिकाक्षेत्रे जातं योगेश्वरं प्रति ॥ १॥  
   
 वीतिहोत्रो महोयोगी वने योगेश्वरोऽभवत् ।  
 हिमाचले बदर्यां स तपस्तेपेऽतिदारुणम् ॥ २॥  
   
-सर्वयोगकलाः प्राप यथा शंभुस्तथाऽभवत् ।  
+सर्वयोगकलाः प्राप यथा शम्भुस्तथाऽभवत् ।  
 तेन योगप्रतापेन दृष्टा वै दिव्यचक्षुषा ॥ ३॥  
   
 केतुमाले कृता यज्ञाः केनाटेऽपि कृता मखाः ।  
@@ -41,15 +42,15 @@ title = "नारायणसहस्रनामस्तोत्रम् (
 शारदापूजनाद्यं च ह्यन्नकूटमहोत्सवः ॥ ५॥  
   
 एतत्सर्वं दिव्यदृष्ट्या विज्ञाय परमेश्वरम् ।  
-कांभरेयं बालकृष्णं द्रष्टुं साक्षादुपाययौ ॥ ६॥  
+काम्भरेयं बालकृष्णं द्रष्टुं साक्षादुपाययौ ॥ ६॥  
   
-आययौ कुंकुमवापीक्षेत्रे कृष्णनारायणम् ।  
+आययौ कुङ्कुमवापीक्षेत्रे कृष्णनारायणम् ।  
 सहस्ररूपधर्ताऽसौ वीतिहोत्रः समाधिमान् ॥ ७॥  
   
 मार्गशीर्षतृतीयायामश्वपट्टसरस्तटे ।  
 सेतुमाश्रित्य च न्यग्रोधस्याऽधोऽधान्निजासनम् ॥ ८॥  
   
-सहस्ररूपधर्ताऽसौ संकल्प्य निषसाद ह ।  
+सहस्ररूपधर्ताऽसौ सङ्कल्प्य निषसाद ह ।  
 मम मूलस्वरूपं चागत्याऽऽश्लिष्येत् रमापतिः ॥ ९॥  
   
 ततः सहस्ररूपैश्चाऽऽश्लिष्येन्मां स प्रभुः पुनः ।  
@@ -119,7 +120,7 @@ title = "नारायणसहस्रनामस्तोत्रम् (
 गुरूणां यावतामग्र्यो नारायणगुरोर्गुरुः ॥ ३१॥  
   
 अनादि श्रीकृष्णनारायणः श्रीकृष्णवल्लभः ।  
-श्रीकृष्णवल्लभः स्वापी कांभरेयः परात्परः ॥ ३२॥  
+श्रीकृष्णवल्लभः स्वापी काम्भरेयः परात्परः ॥ ३२॥  
   
 श्रीमद्गोपालबालोऽयं स्वामी वै सर्वदेहिनाम् ।  
 मया लब्धः स मे पूर्णं करिष्यत्येव मानसम् ॥ ३३॥  
@@ -131,13 +132,13 @@ title = "नारायणसहस्रनामस्तोत्रम् (
 स्नातारोऽगुः परश्चर्यं कस्येमानि समानि वै ॥ ३५॥  
   
 रूपाणि, के चागता वै योगिनोऽत्र सहस्रशः ।  
-समवेषाः समदेहाः समांगाः सन्ति सदृशाः ॥ ३६॥  
+समवेषाः समदेहाः समाङ्गाः सन्ति सदृशाः ॥ ३६॥  
   
 समकेशाः समध्यानाः समानपरिमाणकाः ।  
 भ्रातरो वा भवन्त्येते धाममुक्ता भवन्ति वा ॥ ३७॥  
   
 बदरीवासिनो वाऽपि श्वेतमुक्ताः किमागताः ।  
-शंकरस्य गणाः किंवा देवास्तापसरूपिणः ॥ ३८॥  
+शङ्करस्य गणाः किंवा देवास्तापसरूपिणः ॥ ३८॥  
   
 साध्या वा देवता यद्वा मेरुवासा हि तापसाः ।  
 क एते तु भवेयुर्वै चन्द्रास्या भास्करप्रभाः ॥ ३९॥  
@@ -146,9 +147,9 @@ title = "नारायणसहस्रनामस्तोत्रम् (
 न वदन्ति न पश्यन्ति न प्राणान् चालयन्त्यपि ॥ ४०॥  
   
 स्थिरमौनाः स्थिरचिता ईश्वराः स्युश्च केन्विमे ।  
-इत्येवं तर्कयन्तो वै कुंकुमवापिकाजनाः ॥ ४१॥  
+इत्येवं तर्कयन्तो वै कुङ्कुमवापिकाजनाः ॥ ४१॥  
   
-संघशो वै समायान्ति द्रष्टुं कुतूहलान्विताः ।  
+सङ्घशो वै समायान्ति द्रष्टुं कुतूहलान्विताः ।  
 केचिन्नमन्ति दृष्ट्वैव प्रशंसन्ति वदन्ति च ॥ ४२॥  
   
 प्रतापोऽयं बालकृष्णकृपानाथस्य वर्तते ।  
@@ -182,7 +183,7 @@ title = "नारायणसहस्रनामस्तोत्रम् (
 अस्माभिर्दैवयोगेन पुण्यवद्भिः सुभाग्यकैः ॥ ५२॥  
   
 अवश्यमेषां विज्ञानं क्षणेऽत्रैव भविष्यति ।  
-इत्येवं ते वदन्तश्च प्रजाः संघश एव ह ॥ ५३॥  
+इत्येवं ते वदन्तश्च प्रजाः सङ्घश एव ह ॥ ५३॥  
   
 प्रपश्यन्ति सरस्तीरे सहस्रयोगिनस्तदा ।  
 अथ श्रीमद्बालकृष्णो नारायणगुरोर्गुरू ॥ ५४॥  
@@ -229,7 +230,7 @@ title = "नारायणसहस्रनामस्तोत्रम् (
 महाकालस्य हेतुस्त्वं महाविष्णोश्च कारणम् ।  
 सदाशिवस्य हेतुस्त्वं वैराजस्य च कारणम् ॥ ६८॥  
   
-भूमा त्वं पूरुषसंज्ञः पुरुषोत्तम इत्यपि ।  
+भूमा त्वं पूरुषसञ्ज्ञः पुरुषोत्तम इत्यपि ।  
 ब्रह्मविष्णुमहेशानां रुद्राणां सर्जको भवान् ॥ ६९॥  
   
 देवानां लोकपालानां पितॄणां सर्जको भवान् ।  
@@ -283,7 +284,7 @@ title = "नारायणसहस्रनामस्तोत्रम् (
 अहं त्वं वीतिहोत्रस्त्वं त्वं गुरूः ऋषभस्तथा ।  
 तवैवांऽशकलाऽऽवेशविभूतिसृष्टिजं त्विदम् ॥ ८६॥  
   
-यत् किंचिद् दृश्यते चापि भुज्यते लीयतेऽपि च ।  
+यत् किञ्चिद् दृश्यते चापि भुज्यते लीयतेऽपि च ।  
 यस्माद् यत्र च येनापि यदर्थं च त्वमेव सः ॥ ८७॥  
   
 तस्मै कृष्णाय नाथाय ब्रह्मणे परब्रह्मणे ।  
@@ -296,7 +297,7 @@ title = "नारायणसहस्रनामस्तोत्रम् (
 वीतिहोत्रश्चाऽथ कृष्णस्तमुत्थापयदूर्ध्वकम् ॥ ९०॥  
   
 समाश्र्लिष्य पुनर्हस्तौ दत्वा तस्य च मूर्धनि ।  
-न्ययुंक्त वरलाभार्थं वीतिहोत्रं हरिर्यदा ॥ ९१॥  
+न्ययुङ्क्त वरलाभार्थं वीतिहोत्रं हरिर्यदा ॥ ९१॥  
   
 वीतिहोत्रस्तदा प्राह स्थास्येऽत्र तवपादयोः ।  
 अन्ते मोक्षं गमिष्यस्यक्षरं धाम तव प्रभो ॥ ९२॥  

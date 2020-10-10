@@ -1,23 +1,23 @@
-+++
-"Text title" = "Suryamandalastotram or Suryamandalashtakam or Suryamandaladvadasha stotram"
-"File name" = "sUrya8.itx"
-itxtitle = "sUryamaNDalastotram athavA sUryamaNDalAShTakam athavA sUryamaNDaladvAdashastotram"
-engtitle = "sUryamaNDalastotram or sUryamaNDalAShTakam sUryamaNDaladvAdashastotram"
-Category = "navagraha, aShTaka, dvAdasha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Girish Beehary, Karthik Raman"
-"Proofread by" = "Girish Beehary, Karthik Raman"
-Description-comments = "The stotra was conveyed by Lord Krishna to Arjuna"
-Indexextra = "(1, 2)"
-"Latest update" = "April 12, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यमण्डलस्तोत्रम् अथवा सूर्यमण्डलाष्टकम् अथवा सूर्यमण्डलद्वादशस्तोत्रम्"
+---
+Category: navagraha, aShTaka, dvAdasha
+Description-comments: The stotra was conveyed by Lord Krishna to Arjuna
+File name: sUrya8.itx
+Indexextra: (1, 2)
+Language: Sanskrit
+Latest update: April 12, 2020
+Location: doc_z_misc_navagraha
+Proofread by: Girish Beehary, Karthik Raman
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Suryamandalastotram or Suryamandalashtakam or Suryamandaladvadasha stotram
+Transliterated by: Girish Beehary, Karthik Raman
+engtitle: sUryamaNDalastotram or sUryamaNDalAShTakam sUryamaNDaladvAdashastotram
+itxtitle: sUryamaNDalastotram athavA sUryamaNDalAShTakam athavA sUryamaNDaladvAdashastotram
+title: सूर्यमण्डलस्तोत्रम् अथवा सूर्यमण्डलाष्टकम् अथवा सूर्यमण्डलद्वादशस्तोत्रम्
 
-+++
+---
   
  सूर्यमण्डलस्तोत्रं अथवा सूर्यमण्डलाष्टकम्   
 नमः सवित्रे जगदेकचक्षुषे जगत्प्रसूती स्थितिनाशहेतवे ।  

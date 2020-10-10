@@ -1,24 +1,24 @@
-+++
-"Text title" = "ramaNasahasranAmastotram"
-"File name" = "ramaNasahasranAmastotram.itx"
-itxtitle = "ramaNamaharShisahasranAmastotram"
-engtitle = "Shri Ramana Sahasranama Stotra"
-Category = "sahasranAma, misc, jagadIsha-shAstrI, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "misc"
-Author = "Jagadisha Sastri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Ramanashram Publication www.sriramanamaharshi.org"
-Acknowledge-Permission = "Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org"
-"Latest update" = "January 9, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रमणमहर्षिसहस्रनामस्तोत्रम्"
+---
+Acknowledge-Permission: Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org
+Author: Jagadisha Sastri
+Category: sahasranAma, misc, jagadIsha-shAstrI, gurudev
+File name: ramaNasahasranAmastotram.itx
+Language: Sanskrit
+Latest update: January 9, 2015
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Ramanashram Publication www.sriramanamaharshi.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: ramaNasahasranAmastotram
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Shri Ramana Sahasranama Stotra
+itxtitle: ramaNamaharShisahasranAmastotram
+title: रमणमहर्षिसहस्रनामस्तोत्रम्
 
-+++
+---
   
  रमणसहस्रनामस्तोत्रम्   
              ॥ श्रीः ॥  
@@ -179,7 +179,7 @@ title = "रमणमहर्षिसहस्रनामस्तोत्�
 क्षेत्रज्ञः क्षेमदः क्षेमः क्षेमार्थिजनवन्दितः ।  
 क्षेत्राटनपरिश्रान्तभक्तक्षिप्रप्रसादनः ॥ २८॥  
   
-क्ष्म्रौंमन्त्रबीजतत्त्वज्ञः क्षेत्राजीवफलप्रदः ।  
+क्ष्म्रौम्मन्त्रबीजतत्त्वज्ञः क्षेत्राजीवफलप्रदः ।  
 गम्भीरो गर्वितोगर्वविहीनो गर्वनाशनः ॥ २९॥  
   
 गद्यपद्यप्रियोगम्यो गायत्रीमन्त्रबोधितः ।  
@@ -324,7 +324,7 @@ title = "रमणमहर्षिसहस्रनामस्तोत्�
 पराशरकुलोद्भूतः पण्डितः पण्डितप्रियः ॥ ७७॥  
   
 परमेष्ठी परेशानः परिपूर्णः परात्परः ।  
-परंज्योतिः परंधाम परमात्मा परायणम् ॥ ७८॥  
+परञ्ज्योतिः परन्धाम परमात्मा परायणम् ॥ ७८॥  
   
 पतिव्रताभीष्टदायी पर्यङ्कस्थः परार्थवित् ।  
 पवित्रपादः पापारिः परार्थैकप्रयोजनः ॥ ७९॥  

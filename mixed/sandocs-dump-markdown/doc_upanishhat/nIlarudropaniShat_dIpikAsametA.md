@@ -1,25 +1,25 @@
-+++
-"Text title" = "nIlarudropaniShat with commentary"
-"File name" = "nIlarudropaniShat.itx"
-itxtitle = "nIlarudropaniShat dIpikAsametA"
-engtitle = "nIlarudropaniShat with commentary"
-Category = "upanishhat, stotra, upanishad, shiva"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "stotra"
-Author = "nArAyaNavirachitadIpikA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Unpublished Upanishads, Adyar Library Atharva Veda - Shaiva upanishad"
-Indexextra = "(scanned book)"
-"Latest update" = "August 22, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नीलरुद्रोपनिषत् दीपिकासमेता"
+---
+Author: nArAyaNavirachitadIpikA
+Category: upanishhat, stotra, upanishad, shiva
+File name: nIlarudropaniShat.itx
+Indexextra: (scanned book)
+Language: Sanskrit
+Latest update: August 22, 2015
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Unpublished Upanishads, Adyar Library Atharva Veda - Shaiva upanishad
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: nIlarudropaniShat with commentary
+Texttype: stotra
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: nIlarudropaniShat with commentary
+itxtitle: nIlarudropaniShat dIpikAsametA
+title: नीलरुद्रोपनिषत् दीपिकासमेता
 
-+++
+---
   
  नीलरुद्रोपनिषत् दीपिकासमेता   
 ॐ तत्सद्ब्रह्मणे नमः ।  

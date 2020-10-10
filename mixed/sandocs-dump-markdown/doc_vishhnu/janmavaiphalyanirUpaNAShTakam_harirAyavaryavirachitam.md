@@ -1,23 +1,23 @@
-+++
-"Text title" = "janmavaiphalyanirUpaNAShTakam"
-"File name" = "janmavaiphalyanirUpaNAShTakam.itx"
-itxtitle = "janmavaiphalyanirUpaNAShTakam (harirAyavaryavirachitam)"
-engtitle = "janmavaiphalyanirUpaNAShTakam"
-Category = "aShTaka, vishhnu, krishna, vishnu, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "May 17, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जन्मवैफल्यनिरूपणाष्टकम् (हरिरायवर्यविरचितम्)"
+---
+Category: aShTaka, vishhnu, krishna, vishnu, puShTimArgIya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: janmavaiphalyanirUpaNAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: May 17, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: janmavaiphalyanirUpaNAShTakam
+engtitle: janmavaiphalyanirUpaNAShTakam
+itxtitle: janmavaiphalyanirUpaNAShTakam (harirAyavaryavirachitam)
+title: जन्मवैफल्यनिरूपणाष्टकम् (हरिरायवर्यविरचितम्)
 
-+++
+---
   
  जन्मवैफल्यनिरूपणाष्टकम्   
   

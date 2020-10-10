@@ -1,23 +1,24 @@
-+++
-"Text title" = "sarasvatIkavacham brahmavaivartapurANe"
-"File name" = "sarasvatIkavachaBVP.itx"
-itxtitle = "sarasvatIkavacham 1 (brahmavaivartAntargatam)"
-engtitle = "Sarasvatikavacha"
-Category = "kavacha, devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "brahmavaivartapurANa prakRitikhaNDam adhyAya 4"
-"Latest update" = "January 29, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीकवचम् १ (ब्रह्मवैवर्तान्तर्गतम्)"
+---
+Category: kavacha, devii, sarasvatI, devI
+Description-comments: brahmavaivartapurANa prakRitikhaNDam adhyAya 4
+File name: sarasvatIkavachaBVP.itx
+Language: Sanskrit
+Latest update: January 29, 2013
+Location: doc_devii
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIkavacham brahmavaivartapurANe
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: Sarasvatikavacha
+itxtitle: sarasvatIkavacham 1 (brahmavaivartAntargatam)
+title: सरस्वतीकवचम् १ (ब्रह्मवैवर्तान्तर्गतम्)
 
-+++
+---
   
  श्रीसरस्वतीकवचं ब्रह्मवैवर्तान्तर्गतम्   
   
@@ -35,7 +36,7 @@ title = "सरस्वतीकवचम् १ (ब्रह्मवैव�
 यद्धृत्वा भगवाञ्छुक्रः सर्वदैत्येषु पूजितः ॥ ६६॥  
   
 पठनाद्धारणाद्वाग्मी कवीन्द्रो वाल्मिको मुनिः ।  
-स्वायंभुवो मनुश्चैव यद्धृत्वा सार्वपूजितः ॥ ६७॥  
+स्वायम्भुवो मनुश्चैव यद्धृत्वा सार्वपूजितः ॥ ६७॥  
   
 कणादो गौतमः कण्वः पाणिनिः शाकटायनः ।  
 ग्रन्थं चकार यद्धृत्वा दक्षः कात्यायनः स्वयम् ॥ ६८॥  
@@ -100,7 +101,7 @@ title = "सरस्वतीकवचम् १ (ब्रह्मवैव�
 पुरा श्रुतं धर्मवक्त्रात्पर्वते गन्ध्मादने ।  
 तव स्नेहान्मयाऽऽख्यातं प्रवक्तव्यं न कस्यचित् ॥ ८८॥  
   
-गुरुमभ्यर्च्य विधिवद्वस्त्रालंकारचन्दनैः ।  
+गुरुमभ्यर्च्य विधिवद्वस्त्रालङ्कारचन्दनैः ।  
 प्रणम्य दण्डवद्भूमौ कवचं धारयेत्सुधीः  ॥ ८९॥  
   
 पञ्चलक्षजपेनैव सिद्धं तु कवचं भवेत् ।  

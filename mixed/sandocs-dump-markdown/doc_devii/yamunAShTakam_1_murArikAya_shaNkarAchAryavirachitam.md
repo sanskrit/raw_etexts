@@ -1,23 +1,23 @@
-+++
-"Text title" = "yamunaashhTakam 1"
-"File name" = "yamunaa81.itx"
-itxtitle = "yamunAShTakam 1 (murArikAya shaNkarAchAryavirachitam)"
-engtitle = "Yamunashtakam 1"
-Category = "aShTaka, devii, nadI, devI, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sridhar Seshagiri seshagir at engineering.sdsu.edu"
-"Proofread by" = "Sridhar Seshagiri seshagir at engineering.sdsu.edu"
-"Latest update" = "August 23, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनाष्टकम् १ (मुरारिकाय शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: aShTaka, devii, nadI, devI, shankarAchArya
+File name: yamunaa81.itx
+Language: Sanskrit
+Latest update: August 23, 2000
+Location: doc_devii
+Proofread by: Sridhar Seshagiri seshagir at engineering.sdsu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunaashhTakam 1
+Transliterated by: Sridhar Seshagiri seshagir at engineering.sdsu.edu
+engtitle: Yamunashtakam 1
+itxtitle: yamunAShTakam 1 (murArikAya shaNkarAchAryavirachitam)
+title: यमुनाष्टकम् १ (मुरारिकाय शण्कराचार्यविरचितम्)
 
-+++
+---
   
  यमुनाष्टकम् १   
         ॥ श्रीः ॥  
@@ -65,7 +65,7 @@ title = "यमुनाष्टकम् १ (मुरारिकाय श�
   
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-श्रीमच्छंकरभगवतः कृतौ  
+श्रीमच्छङ्करभगवतः कृतौ  
 यमुनाष्टकम् सम्पूर्णम्  ॥  
   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "gaNeshvarapramANikA"
-"File name" = "gaNeshvarapramANikA.itx"
-itxtitle = "gaNeshvarapramANikA (puShpA shrIvatsena virachitA)"
-engtitle = "gaNeshvarapramANikA"
-Category = "ganesha, puShpAshrIvatsan"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali 2017"
-"Latest update" = "September 30, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेश्वरप्रमाणिका (पुष्पा श्रीवत्सेन विरचिता)"
+---
+Author: Pushpa Srivatsan
+Category: ganesha, puShpAshrIvatsan
+File name: gaNeshvarapramANikA.itx
+Language: Sanskrit
+Latest update: September 30, 2017
+Location: doc_ganesha
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali 2017
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshvarapramANikA
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: gaNeshvarapramANikA
+itxtitle: gaNeshvarapramANikA (puShpA shrIvatsena virachitA)
+title: गणेश्वरप्रमाणिका (पुष्पा श्रीवत्सेन विरचिता)
 
-+++
+---
   
  श्रीगणेश्वरप्रमाणिका   
   
@@ -34,7 +34,7 @@ title = "गणेश्वरप्रमाणिका (पुष्पा �
 वरप्रसाददैविकं सुरासुरार्चितं वरम्  ॥ १॥  
   
 कुविघ्नवारणं गणं सुहासहस्तिवक्त्रकम्।  
-शिवाशिवस्य पुत्रकं शिवाकरं शिवंकरम्  ॥ २॥  
+शिवाशिवस्य पुत्रकं शिवाकरं शिवङ्करम्  ॥ २॥  
   
 सुकार्यसादरानुतं सुकाव्यपुष्पवर्षकम्।  
 सुभाषदं सुगानदं सुनामकीर्तनामुदम् ॥ ३॥  

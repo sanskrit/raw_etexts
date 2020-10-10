@@ -1,24 +1,24 @@
-+++
-"Text title" = "vallabhastotram"
-"File name" = "vallabhastotram.itx"
-itxtitle = "vallabhastotram (kalyANabhaTTavirachitam)"
-engtitle = "vallabhastotram"
-Category = "deities_misc, gurudev, puShTimArgIya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "kalyANabhaTTa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्लभस्तोत्रम् (कल्याणभट्टविरचितम्)"
+---
+Author: kalyANabhaTTa
+Category: deities_misc, gurudev, puShTimArgIya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: vallabhastotram.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vallabhastotram
+engtitle: vallabhastotram
+itxtitle: vallabhastotram (kalyANabhaTTavirachitam)
+title: वल्लभस्तोत्रम् (कल्याणभट्टविरचितम्)
 
-+++
+---
   
  श्रीवल्लभस्तोत्रम्   
   

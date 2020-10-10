@@ -1,24 +1,25 @@
-+++
-"Text title" = "Vijnanashataka (Pathak sequence)"
-"File name" = "vijnAnashatakamPathakSequence.itx"
-itxtitle = "vijnAnashatakam (bhartRiharikRitam pAThakenasaMshodhitam)"
-engtitle = "Vijnanashataka by Bhartrihari Sequence 2 Pathak"
-Category = "shataka, major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Bhartrihari"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion  with -  for 103 verses presented originally by K. B. Ghule(1896)"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "From a scanned copy of text by Pathak 101+38 extra"
-Indexextra = "(Pathak sequence)"
-"Latest update" = "August 23, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विज्ञानशतकम् (भर्तृइहरिकृइतम् पाठकेनसंशोधितम्)"
+---
+Author: Bhartrihari
+Category: shataka, major_works
+Description-comments: From a scanned copy of text by Pathak 101+38 extra
+File name: vijnAnashatakamPathakSequence.itx
+Indexextra: (Pathak sequence)
+Language: Sanskrit
+Latest update: August 23, 2013
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion  with -  for 103 verses presented originally
+  by K. B. Ghule(1896)
+Sublocation: major_works
+Text title: Vijnanashataka (Pathak sequence)
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Vijnanashataka by Bhartrihari Sequence 2 Pathak
+itxtitle: vijnAnashatakam (bhartRiharikRitam pAThakenasaMshodhitam)
+title: विज्ञानशतकम् (भर्तृइहरिकृइतम् पाठकेनसंशोधितम्)
 
-+++
+---
   
  विज्ञानशतकं पाठकस्य क्रम भर्तृहरिकृत   
   
@@ -92,7 +93,7 @@ title = "विज्ञानशतकम् (भर्तृइहरिकृ
        गम्भीरं सुतरां तरन्ति विविधव्याध्याधिवीचीमयम् ॥ १४-३०॥  
   
 धन्या एते पुमांसो यदयमहमिति त्यक्तचेतोविकल्पा  
-       निश्शङ्कं संचरन्तो विदधति मलिनं कर्म कामप्रयुक्ताः ।  
+       निश्शङ्कं सञ्चरन्तो विदधति मलिनं कर्म कामप्रयुक्ताः ।  
 जानन्तोऽप्यर्थहीनं जगदिदमखिलं भ्रान्तवद्द्वैतजालं  
        रागद्वेषादिमन्तो वयमयमिति हा न त्यजन्तेऽभिमानम्॥ १५-६२ ॥    
 न चेत्ते सामर्थ्यं भवनमरणातङ्कहरणे   
@@ -181,7 +182,7 @@ title = "विज्ञानशतकम् (भर्तृइहरिकृ
        तत्राद्वैतवने सदा विचरताच्चेतः कुरङ्गः सताम् ॥ ३१-१०२॥  
   
 तुल्यार्थेन त्वमैक्यं त्रिभुवनजनकस्तत्पदार्थःप्रपद्य  
-       प्रत्यक्षं मोहजन्म त्यजति भगवति त्वंपदार्थोऽपि जीवः ।  
+       प्रत्यक्षं मोहजन्म त्यजति भगवति त्वम्पदार्थोऽपि जीवः ।  
 श्रुत्याचार्यप्रसादान्निरुपमविलसद्ब्रह्मविद्यैस्तदैक्यं  
        प्राप्यानन्दप्रतिष्ठो भवति विगलितानाद्यविद्योपरीहः ॥ ३२-८६॥  
   
@@ -194,7 +195,7 @@ title = "विज्ञानशतकम् (भर्तृइहरिकृ
 ज्ञानानन्दं तुरीयं विगलितगुणकं देशकालाद्यतीतं  
        स्वात्मानं वीतनिद्रः सततमधिकृतश्चिन्तयेदद्वितीयम् ॥ ३४-८८॥  
   
-संन्यासो विहितस्य केशवपदद्वन्द्वे व्यधायि श्रुता  
+सन्न्यासो विहितस्य केशवपदद्वन्द्वे व्यधायि श्रुता  
        वेदान्ता निरवद्यनिष्कलपरानन्दाः सुनिष्ठाश्चिरम् ।  
 संसारे वधबन्धदुःखबहुले मायाविलासेऽव्ययं  
        ब्रह्मास्मीति विहाय नान्यदधुना कर्तव्यमास्ते क्वचित् ॥ ३५-८७॥  
@@ -269,7 +270,7 @@ title = "विज्ञानशतकम् (भर्तृइहरिकृ
        ल्लोभान्धस्य नरस्य नो खलु सतां दृष्टं हि लज्जाभयम् ॥ ४९-९६॥  
   
 नान्नं जीर्यति किञ्चिदौषधबलं नालं स्वकार्योदये  
-       शक्तिश्चंक्रमणे न हन्त जरया जीर्णीकृतायां तनौ ।  
+       शक्तिश्चङ्क्रमणे न हन्त जरया जीर्णीकृतायां तनौ ।  
 अस्माकं त्वधुना न लोचनबलं पुत्रेति चिन्ताकुलो  
        ग्लायत्यर्थपरायणोऽतिकृपणो मिथ्याभिमानो गृही ॥ ५०-९४॥  
   
@@ -280,7 +281,7 @@ title = "विज्ञानशतकम् (भर्तृइहरिकृ
   
 रे रे चित्त मदान्ध मोहबधिरा मिथ्याभिमानोद्धता  
        व्यर्थेयं भवतां धनावनरतिः संसारकारागृहे ।  
-बद्धानां निगडेन गात्रममतासंज्ञेन यत्कर्हिचि-  
+बद्धानां निगडेन गात्रममतासञ्ज्ञेन यत्कर्हिचि-  
        द्देवब्राह्मणभिक्षुकादिषु धनं स्वप्नेऽपि न व्येति वः ॥ ५२-३१॥  
   
 नाभ्यस्तो धातुवादो न च युवतीवशीकारकः कोप्युपायो  
@@ -452,7 +453,7 @@ title = "विज्ञानशतकम् (भर्तृइहरिकृ
        किमिति न भजतार्ता ब्रह्मलोकावतीर्णाम् ॥ ८८-४५॥  
   
 यत्तीरे वसतां सतामपि जलैर्मूलैः फलैर्जीवतां  
-       मुक्ताहंममभावशुद्धमनसामाचारविद्यावताम् ।  
+       मुक्ताहम्ममभावशुद्धमनसामाचारविद्यावताम् ।  
 कैवल्यं करबिल्वतुल्यममलं सम्पद्यते हेलया ।  
        स गङ्गा ह्यतुलामलोर्मिमपटला सद्भिः कुतो नेक्ष्यते ॥ ८९-६९॥  
   
@@ -577,7 +578,7 @@ parishiShTa given below and appears to be expanded.
 तुङ्गं वेश्म सुताः सतामभिमताः सङ्ख्यातिगाः सम्पदः  
 कल्याणी दयिता वयश्च नवमित्यज्ञानमूढो जनः ।  
 मत्वा विश्वमनश्वरं निविशते संसारकारागृहे  
-सन्दृश्यं क्षणभङ्गुरं तदखिलं धन्यस्तु संन्यस्यति ॥ ११॥  
+सन्दृश्यं क्षणभङ्गुरं तदखिलं धन्यस्तु सन्न्यस्यति ॥ ११॥  
   
 न भिक्षा दुष्प्रापा पथि मम महारामरचिते  
 फलैः सम्पूर्णा भूर्द्विपमृगसुचर्मापि वसनम् ।  
@@ -695,7 +696,7 @@ parishiShTa given below and appears to be expanded.
 दिक्कान्ताभिः पवनचमरैर्वीज्यमानः समन्ता-  
 द्भिक्षुः शेते नृप इव भुवि त्यक्तसर्वस्पृहोऽपि ॥ ३५॥  
   
-संमोहयन्ति मदयन्ति विडम्बयन्ति  
+सम्मोहयन्ति मदयन्ति विडम्बयन्ति  
 निर्भर्त्सयन्ति रमयन्ति विषादयन्ति ।  
 एताः प्रविश्य सदयं हृदयं नराणां  
 किं नाम वामनयना न समाचरन्ति ॥ ३६॥  

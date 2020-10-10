@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrIdevasenA aShTottarashatanAmAvaliH 2"
-"File name" = "devasenAShTottarashatanAmAvalI.itx"
-itxtitle = "devasenA.aShTottarashatanAmAvaliH 2"
-engtitle = "devasenA aShTottarashatanAmAvalI 2"
-Category = "aShTottarashatanAmAvalI, subrahmanya, nAmAvalI, devii, devI"
-Location = "doc_devii"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "August 27, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवसेनाऽष्टोत्तरशतनामावलिः २"
+---
+Category: aShTottarashatanAmAvalI, subrahmanya, nAmAvalI, devii, devI
+File name: devasenAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: August 27, 2006
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrIdevasenA aShTottarashatanAmAvaliH 2
+Texttype: nAmAvalI
+engtitle: devasenA aShTottarashatanAmAvalI 2
+itxtitle: devasenA.aShTottarashatanAmAvaliH 2
+title: देवसेनाऽष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  देवसेनाऽष्टोत्तरशतनामावलिः २   
 ॥ देवसेनाऽष्टोत्तरशतनामावलिः २ ॥  

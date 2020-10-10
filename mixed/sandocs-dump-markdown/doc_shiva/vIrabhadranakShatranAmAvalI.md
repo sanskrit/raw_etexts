@@ -1,21 +1,21 @@
-+++
-"Text title" = "vIrabhadranakShatranAmAvalI"
-"File name" = "vIrabhadranakShatranAmAvalI.itx"
-itxtitle = "vIrabhadranakShatranAmAvalI"
-engtitle = "vIrabhadranakShatranAmAvalI"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Latest update" = "October 9, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वीरभद्रनक्षत्रनामावली"
+---
+Category: shiva
+File name: vIrabhadranakShatranAmAvalI.itx
+Language: Sanskrit
+Latest update: October 9, 2016
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: vIrabhadranakShatranAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: vIrabhadranakShatranAmAvalI
+itxtitle: vIrabhadranakShatranAmAvalI
+title: वीरभद्रनक्षत्रनामावली
 
-+++
+---
   
  श्रीवीरभद्ररनक्षत्रनामावलिः   
   

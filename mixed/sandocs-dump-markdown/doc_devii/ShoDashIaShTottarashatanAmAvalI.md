@@ -1,26 +1,26 @@
-+++
-"Text title" = "ShoDashIaShTottarashatanAmAvalI"
-"File name" = "ShoDashIaShTottarashatanAmAvalI.itx"
-itxtitle = "ShoDashIaShTottarashatanAmAvalI"
-engtitle = "ShoDashIaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anand senartcon at gmail.com"
-"Proofread by" = "Anand senartcon at gmail.com"
-Description-comments = "Editor Ramadatta Shukla, Ritashila Sharma"
-Source = "dashamahAvidyA aShTottarashatanAmAvalI"
-Acknowledge-Permission = "Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga"
-"Latest update" = "September 13, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षोडशीअष्टोत्तरशतनामावली"
+---
+Acknowledge-Permission: Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI
+Description-comments: Editor Ramadatta Shukla, Ritashila Sharma
+File name: ShoDashIaShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: September 13, 2015
+Location: doc_devii
+Proofread by: Anand senartcon at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: dashamahAvidyA aShTottarashatanAmAvalI
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ShoDashIaShTottarashatanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Anand senartcon at gmail.com
+engtitle: ShoDashIaShTottarashatanAmAvalI
+itxtitle: ShoDashIaShTottarashatanAmAvalI
+title: षोडशीअष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीषोडशीअष्टोत्तरशतनामावली   
 श्रीत्रिपुरायै नमः ।  
@@ -77,7 +77,7 @@ title = "षोडशीअष्टोत्तरशतनामावली"
 श्रीकराल्यै नमः ।  
 श्रीकामेश्यै नमः ।  
 श्रीछायायै नमः ।  
-श्रीसंज्ञायै नमः ।  
+श्रीसञ्ज्ञायै नमः ।  
 श्रीअरुन्धत्यै नमः ।  
 श्रीनिर्विकल्पायै नमः ।  
 श्रीमहावेगायै नमः ।  

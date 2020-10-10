@@ -1,25 +1,26 @@
-+++
-"Text title" = "gopinAthadevAShTakam"
-"File name" = "gopinAthadevAShTakam.itx"
-itxtitle = "gopinAthadevAShTakam (vishvanAthachakravartin Thakkuravirachitam)"
-engtitle = "gopinAthadevAShTakam by vishvanAthachakravartin"
-Category = "vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपिनाथदेवाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI
+File name: gopinAthadevAShTakam.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_vishhnu
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopinAthadevAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: gopinAthadevAShTakam by vishvanAthachakravartin
+itxtitle: gopinAthadevAShTakam (vishvanAthachakravartin Thakkuravirachitam)
+title: गोपिनाथदेवाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)
 
-+++
+---
   
  श्रीगोपिनाथदेवाष्टकम्   
 आस्ये हास्यं तत्र माध्वीकमस्मिन्  

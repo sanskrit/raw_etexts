@@ -1,25 +1,27 @@
-+++
-"Text title" = "lalitAShTakam"
-"File name" = "lalitAShTakam.itx"
-itxtitle = "lalitAShTakam athavA shrIlalitApraNAmastotram (rUpagosvAmivirachitam)"
-engtitle = "lalitAShTakam"
-Category = "devii, krishna, rUpagosvAmin, stavamAlA, aShTaka, lalitA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lalitA"
-Author = "Rupagoswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional Prayers stavamAlA"
-Indexextra = "(Scan, Bengali, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललिताष्टकम् अथवा श्रीललिताप्रणामस्तोत्रम् (रूपगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Rupagoswami
+Category: devii, krishna, rUpagosvAmin, stavamAlA, aShTaka, lalitA, devI
+Description/comments: From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional
+  Prayers stavamAlA
+File name: lalitAShTakam.itx
+Indexextra: (Scan, Bengali, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: lalitAShTakam
+itxtitle: lalitAShTakam athavA shrIlalitApraNAmastotram (rUpagosvAmivirachitam)
+title: ललिताष्टकम् अथवा श्रीललिताप्रणामस्तोत्रम् (रूपगोस्वामिविरचितम्)
 
-+++
+---
   
  श्रीललिताष्टकम्   
 श्रीललिताप्रणामस्तोत्रम्  

@@ -1,24 +1,25 @@
-+++
-"Text title" = "rAma sahasranAmastotra from AnandarAmAyaNa but shorter"
-"File name" = "rama1000.itx"
-itxtitle = "rAmasahasranAmastotram 1 laghu (AnandarAmAyaNAntargatam rAmaH shrImAn)"
-engtitle = "rAma sahasranAmastotra"
-Category = "sahasranAma, raama, stotra"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sowmya Ramkumar"
-"Proofread by" = "Sowmya Ramkumar, PSA Easwaran, Kirk Wortman"
-Description-comments = "Sri Vishnu Sthuthi Manjari Volume 1 page 426.  This is same as one from AnandarAmAyaNa except end verses"
-Indexextra = "(Scan)"
-"Latest update" = "April 1, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामसहस्रनामस्तोत्रम् १ लघु (आनन्दरामायणान्तर्गतम् रामः श्रीमान्)"
+---
+Category: sahasranAma, raama, stotra
+Description-comments: Sri Vishnu Sthuthi Manjari Volume 1 page 426.  This is same
+  as one from AnandarAmAyaNa except end verses
+File name: rama1000.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 1, 2020
+Location: doc_raama
+Proofread by: Sowmya Ramkumar, PSA Easwaran, Kirk Wortman
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAma sahasranAmastotra from AnandarAmAyaNa but shorter
+Texttype: stotra
+Transliterated by: Sowmya Ramkumar
+engtitle: rAma sahasranAmastotra
+itxtitle: rAmasahasranAmastotram 1 laghu (AnandarAmAyaNAntargatam rAmaH shrImAn)
+title: रामसहस्रनामस्तोत्रम् १ लघु (आनन्दरामायणान्तर्गतम् रामः श्रीमान्)
 
-+++
+---
   
  श्रीरामसहस्रनामस्तोत्रम्   
 श्रीराघवं दशरथात्मजमप्रमेयं  
@@ -320,7 +321,7 @@ title = "रामसहस्रनामस्तोत्रम् १ लघ
 वेद्यो वैद्यो वियद्गोप्ता सर्वामरमुनीश्वरः ॥ ८३॥  
   
 सुरेन्द्रः करणं कर्म कर्मकृत्कर्म्यधोक्षजः ।  
-ध्येयो धुर्यो धराधीशः संकल्पः शर्वरीपतिः ॥ ८४॥  
+ध्येयो धुर्यो धराधीशः सङ्कल्पः शर्वरीपतिः ॥ ८४॥  
   
 परमार्थगुरुर्वृद्धः शुचिराश्रितवत्सलः ।  
 विष्णुर्जिष्णुर्विभुर्वन्द्यो यज्ञेशो यज्ञपालकः ॥ ८५॥  
@@ -347,7 +348,7 @@ title = "रामसहस्रनामस्तोत्रम् १ लघ
 भक्तप्रियोऽच्युतः सत्यः सत्यकीर्तिर्धृतिः स्मृतिः ॥ ९२॥  
   
 कारुण्यं करुणो व्यासः पापहा शान्तिवर्धनः ।  
-संन्यासी शास्त्रतत्त्वज्ञो मन्दराद्रिनिकेतनः ॥ ९३॥  
+सन्न्यासी शास्त्रतत्त्वज्ञो मन्दराद्रिनिकेतनः ॥ ९३॥  
   
 बदरीनिलयः शान्तस्तपस्वी वैद्युतप्रभः ।  
 भूतावासो गुहावासः श्रीनिवासः श्रियः पतिः ॥ ९४॥  

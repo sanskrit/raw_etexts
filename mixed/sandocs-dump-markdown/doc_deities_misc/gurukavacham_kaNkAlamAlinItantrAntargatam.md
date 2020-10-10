@@ -1,23 +1,23 @@
-+++
-"Text title" = "gurukavachaM kaNkAlamAlinItantre"
-"File name" = "gurukavachaMkankAlamAlinItantra.itx"
-itxtitle = "gurukavacham (kaNkAlamAlinItantrAntargatam)"
-engtitle = "Gurukavacham from KakalamAlinitantra"
-Category = "kavacha, deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://muktalib5.org"
-"Proofread by" = "http://muktalib5.org, DPD"
-Description-comments = "kaNkAlamAlinItantra"
-"Latest update" = "August 16, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुकवचम् (कण्कालमालिनीतन्त्रान्तर्गतम्)"
+---
+Category: kavacha, deities_misc, gurudev
+Description-comments: kaNkAlamAlinItantra
+File name: gurukavachaMkankAlamAlinItantra.itx
+Language: Sanskrit
+Latest update: August 16, 2013
+Location: doc_deities_misc
+Proofread by: http://muktalib5.org, DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurukavachaM kaNkAlamAlinItantre
+Transliterated by: http://muktalib5.org
+engtitle: Gurukavacham from KakalamAlinitantra
+itxtitle: gurukavacham (kaNkAlamAlinItantrAntargatam)
+title: गुरुकवचम् (कण्कालमालिनीतन्त्रान्तर्गतम्)
 
-+++
+---
   
  गुरुकवचं कङ्कालमालिनीतन्त्रे   
   

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Naga Devata Ashtottara Shata Namavali (108 names)"
-"File name" = "nAgadevatAShTottarashatanAmAvaliH.itx"
-itxtitle = "nAgadevatAShTottarashatanAmAvaliH"
-engtitle = "nAgadevatAShTottarashatanAmAvaliH"
-Category = "aShTottarashatanAmAvalI, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Description/comments" = "see also nAgarAjAShTottarashatanAmAvaliH and anantapadmanAbhAShTottarashatanAmAvaliH"
-"Latest update" = "June 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नागदेवताष्टोत्तरशतनामावलिः"
+---
+Category: aShTottarashatanAmAvalI, deities_misc
+Description/comments: see also nAgarAjAShTottarashatanAmAvaliH and anantapadmanAbhAShTottarashatanAmAvaliH
+File name: nAgadevatAShTottarashatanAmAvaliH.itx
+Language: Sanskrit
+Latest update: June 14, 2019
+Location: doc_deities_misc
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Naga Devata Ashtottara Shata Namavali (108 names)
+engtitle: nAgadevatAShTottarashatanAmAvaliH
+itxtitle: nAgadevatAShTottarashatanAmAvaliH
+title: नागदेवताष्टोत्तरशतनामावलिः
 
-+++
+---
   
  नागदेवताष्टोत्तरशतनामावलिः   
 ॐ अनन्ताय नमः ।  

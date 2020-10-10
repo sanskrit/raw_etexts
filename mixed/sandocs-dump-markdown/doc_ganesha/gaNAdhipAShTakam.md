@@ -1,22 +1,22 @@
-+++
-"Text title" = "Ganadhipa Ashtakam"
-"File name" = "gaNAdhipAShTakam.itx"
-itxtitle = "gaNAdhipAShTakam"
-engtitle = "gaNAdhipAShTakam"
-Category = "ganesha, aShTaka"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "March 14, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणाधिपाष्टकम्"
+---
+Category: ganesha, aShTaka
+File name: gaNAdhipAShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 14, 2020
+Location: doc_ganesha
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganadhipa Ashtakam
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: gaNAdhipAShTakam
+itxtitle: gaNAdhipAShTakam
+title: गणाधिपाष्टकम्
 
-+++
+---
   
  गणाधिपाष्टकम्   
 ॐ श्रीगणेशाय नमः ।  

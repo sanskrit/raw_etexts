@@ -1,19 +1,19 @@
-+++
-"Text title" = "yogavAsiShTha"
-"File name" = "yogavAsiShTha18.itx"
-itxtitle = "yogavAsiShThaH"
-engtitle = "Yogavasishtha"
-Category = "yoga"
-Location = "doc_yoga"
-Sublocation = "yoga"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Latest update" = "May 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगवासिष्ठः"
+---
+Category: yoga
+File name: yogavAsiShTha18.itx
+Language: Sanskrit
+Latest update: May 25, 2017
+Location: doc_yoga
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: yoga
+Text title: yogavAsiShTha
+engtitle: Yogavasishtha
+itxtitle: yogavAsiShThaH
+title: योगवासिष्ठः
 
-+++
+---
   
  योगवासिष्ठः   
 वैराग्यप्रकरणं प्रथमम् ।  
@@ -324,7 +324,7 @@ title = "योगवासिष्ठः"
 तदा कर्तुं विभोराज्ञामहं वक्तुं प्रवृत्तवान् ॥ २३॥  
   
 शृणु वत्स भरद्वाज यथापृष्टं वदामि ते ।  
-श्रुतेन येन संमोहमलं दूरे करिष्यसि ॥ २४॥  
+श्रुतेन येन सम्मोहमलं दूरे करिष्यसि ॥ २४॥  
   
 तथा व्यवहर प्राज्ञ यथा व्यवहृतः सुखी ।  
 सर्वासंसक्तया बुद्ध्या रामो राजीवलोचनः ॥ २५॥  
@@ -1341,7 +1341,7 @@ title = "योगवासिष्ठः"
 चलन्नीलोत्पलाव्यूहसमलोचनलोलताम् ।  
 ब्रूहि चेतःकृतां त्यक्वा हेतुना केन मुह्यसि ॥ ३४॥  
   
-किंनिष्ठाः के च ते केन कियन्तः कारणेन ते ।  
+किन्निष्ठाः के च ते केन कियन्तः कारणेन ते ।  
 आधयः प्रविलुम्पन्ति मनो गेहमिवाखवः ॥ ३५॥  
   
 मन्ये नानुचितानां त्वमाधीनां पदमुत्तमम् ।  
@@ -1385,7 +1385,7 @@ title = "योगवासिष्ठः"
 विवेकेन परीतात्मा तेनाहं तदनु स्वयम् ।  
 भोगनीरसया बुद्ध्या प्रविचारितवादिनम् ॥ ६॥  
   
-किंनामेदं बत सुखं येयं संसारसन्ततिः ।  
+किन्नामेदं बत सुखं येयं संसारसन्ततिः ।  
 जायते मृतये लोको म्रियते जननाय च । ॥ ७॥  
   
 अस्थिराः सर्व एवेमे सचराचरचेष्टिताः ।  
@@ -1675,7 +1675,7 @@ title = "योगवासिष्ठः"
 प्रमार्जिता भवन्त्येते सर्व एव दुराधयः ॥ १८॥  
   
 अहमित्यम्बुदे शान्ते शनैश्च शमशातिनी ।  
-मनोगगनसंमोहमिहिका क्वापि गच्छति ॥ १९॥  
+मनोगगनसम्मोहमिहिका क्वापि गच्छति ॥ १९॥  
   
 निरहङ्कारवृत्तेर्मे मौर्ख्याच्छोकेन सीदतः ।  
 यत्किञ्चिदुचितं ब्रह्मंस्तदाख्यातुमिहार्हसि ॥ २०॥  

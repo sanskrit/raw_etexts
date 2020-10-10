@@ -1,29 +1,29 @@
-+++
-"Text title" = "dattAtharvashIrSham"
-"File name" = "dattAtharvashIrSha.itx"
-itxtitle = "dattAtharvashIrSham"
-engtitle = "datta atharvashIrSham"
-Category = "atharvashIrSha, deities_misc, dattatreya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinkar Deshpande , sunderh at hotmail.com"
-"Proofread by" = "Dinkar Deshpande , sunderh at hotmail.com"
-"Latest update" = "April 25, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्ताथर्वशीर्षम्"
+---
+Category: atharvashIrSha, deities_misc, dattatreya
+File name: dattAtharvashIrSha.itx
+Language: Sanskrit
+Latest update: April 25, 2010
+Location: doc_deities_misc
+Proofread by: Dinkar Deshpande , sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattAtharvashIrSham
+Transliterated by: Dinkar Deshpande , sunderh at hotmail.com
+engtitle: datta atharvashIrSham
+itxtitle: dattAtharvashIrSham
+title: दत्ताथर्वशीर्षम्
 
-+++
+---
   
  श्रीदत्त अथर्वशीर्ष   
   
 ॥ हरिः ॐ ॥  
   
 ॐ नमो भगवते दत्तात्रेयाय अवधूताय  
-दिगंबरायविधिहरिहराय आदितत्त्वाय आदिशक्तये ॥ १॥  
+दिगम्बरायविधिहरिहराय आदितत्त्वाय आदिशक्तये ॥ १॥  
   
 त्वं चराचरात्मकः सर्वव्यापी सर्वसाक्षी  
 त्वं दिक्कालातीतः त्वं द्वन्द्वातीतः ॥ २॥  
@@ -41,7 +41,7 @@ title = "दत्ताथर्वशीर्षम्"
 दयाघनः भजनप्रियः त्वं पतितपावनः  
 करुणाकरः भवभयहरः ॥ ५॥  
   
-त्वं भक्तकारणसंभूतः अत्रिसुतः अनसूयात्मजः  
+त्वं भक्तकारणसम्भूतः अत्रिसुतः अनसूयात्मजः  
 त्वं श्रीपादश्रीवल्लभः त्वं गाणगग्रामनिवासी  
 श्रीमन्नृसिंहसरस्वती त्वं श्रीनृसिंहभानः  
 अक्कलकोटनिवासी श्रीस्वामीसमर्थः  
@@ -55,7 +55,7 @@ title = "दत्ताथर्वशीर्षम्"
 मामुद्धर, मामुद्धर, मामुद्धर इति प्रार्थयामि ।  
 ॐ द्रां दत्तात्रेयाय नमः ॥ ७॥  
   
-॥ ॐ दिगंबराय विद्महे अवधूताय धीमहि तन्नो दत्तः प्रचोदयात् ॥  
+॥ ॐ दिगम्बराय विद्महे अवधूताय धीमहि तन्नो दत्तः प्रचोदयात् ॥  
   
   
 Encoded and proofread by  

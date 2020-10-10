@@ -1,25 +1,25 @@
-+++
-"Text title" = "veNkaTeshAShTottarashatanAmAvaliH"
-"File name" = "venkat108ver2.itx"
-itxtitle = "veNkaTeshAShTottarashatanAmAvaliH 2"
-engtitle = "Venkateshvara's 108 Names 2"
-Category = "aShTottarashatanAmAvalI, vishhnu, venkateshwara, nAmAvalI, vyAsa, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "nAmAvalI"
-Author = "Vyasa by traditon"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Varaha Purana  Not clearly found in print"
-"Latest update" = "Jan. 23, 2003, March 24, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशाष्टोत्तरशतनामावलिः २"
+---
+Author: Vyasa by traditon
+Category: aShTottarashatanAmAvalI, vishhnu, venkateshwara, nAmAvalI, vyAsa, vishnu
+Description-comments: Varaha Purana  Not clearly found in print
+File name: venkat108ver2.itx
+Language: Sanskrit
+Latest update: Jan. 23, 2003, March 24, 2013
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: veNkaTeshAShTottarashatanAmAvaliH
+Texttype: nAmAvalI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Venkateshvara's 108 Names 2
+itxtitle: veNkaTeshAShTottarashatanAmAvaliH 2
+title: वेण्कटेशाष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  श्रीवेङ्कटेशाष्टोत्तरशतनामावली २   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Avahanam"
-"File name" = "bAlAAvAhanam.itx"
-itxtitle = "bAlAAvAhanam"
-engtitle = "bAlAAvAhanam"
-Category = "devii, dashamahAvidyA, devI, pUjA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाआवाहनम्"
+---
+Category: devii, dashamahAvidyA, devI, pUjA
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAAvAhanam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Avahanam
+engtitle: bAlAAvAhanam
+itxtitle: bAlAAvAhanam
+title: बालाआवाहनम्
 
-+++
+---
   
  श्रीबाला आवाहनम्   
 ऋषिच्छन्दो देवतान्यासादिकं मूलमन्त्रवत् ।  

@@ -1,25 +1,26 @@
-+++
-"Text title" = "shivamahimnastotra (with meaning)"
-"File name" = "shivamahimean.itx"
-itxtitle = "shivamahimnastotram (puShpadantarachitam sArtham)"
-engtitle = "shivamahimna stotra with meaning (puShpadanta)"
-Category = "shiva, stotra, puShpadanta"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Pushhpadanta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Devendraray V . Bhatt and S . V . Ganesan"
-"Proofread by" = "S . V . Ganesan"
-"Translated by" = "Devendraray V . Bhatt and S . V . Ganesan"
-Indexextra = "(puShpadanta  (with trans. and intro) (Hindi-English, Hindi, Sanskrit-Gujarati, audio))"
-"Latest update" = "March 23, 2004, May 12, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवमहिम्नस्तोत्रम् (पुष्पदन्तरचितम् सार्थम्)"
+---
+Author: Pushhpadanta
+Category: shiva, stotra, puShpadanta
+File name: shivamahimean.itx
+Indexextra: (puShpadanta  (with trans. and intro) (Hindi-English, Hindi, Sanskrit-Gujarati,
+  audio))
+Language: Sanskrit
+Latest update: March 23, 2004, May 12, 2018
+Location: doc_shiva
+Proofread by: S . V . Ganesan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: shiva
+Text title: shivamahimnastotra (with meaning)
+Texttype: stotra
+Translated by: Devendraray V . Bhatt and S . V . Ganesan
+Transliterated by: Devendraray V . Bhatt and S . V . Ganesan
+engtitle: shivamahimna stotra with meaning (puShpadanta)
+itxtitle: shivamahimnastotram (puShpadantarachitam sArtham)
+title: शिवमहिम्नस्तोत्रम् (पुष्पदन्तरचितम् सार्थम्)
 
-+++
+---
   
  श्रीशिवमहिम्नस्तोत्र ( पुष्पदन्त )   
   
@@ -88,7 +89,7 @@ very limited intellect ( and I am one of them ) try to offer you a prayer,
 their attempt deserve your special favour . If it is so, I should not be a  
 exception . Hence, (thinking like this ) I begin this prayer . (1)  
   
-अतीतः पंथानं तव च महिमा वाङ्मनसयोः  
+अतीतः पन्थानं तव च महिमा वाङ्मनसयोः  
 अतद्व्यावृत्त्या यं चकितमभिधत्ते श्रुतिरपि ।  
 स कस्य स्तोतव्यः कतिविधगुणः कस्य विषयः  
 पदे त्वर्वाचीने पतति न मनः कस्य न वचः ॥ २॥  
@@ -130,7 +131,7 @@ and Mahesha). Such is your greatness but certain stupid persons in this
 world are trying to destroy it by slander, which may be delightful to them  
 but is really undelightful .                              (4)  
   
-किमीहः किंकायः स खलु किमुपायस्त्रिभुवनं  
+किमीहः किङ्कायः स खलु किमुपायस्त्रिभुवनं  
 किमाधारो धाता सृजति किमुपादान इति च ।  
 अतर्क्यैश्वर्ये त्वय्यनवसर दुःस्थो हतधियः  
 कुतर्कोऽयं कांश्चित् मुखरयति मोहाय जगतः ॥ ५॥  
@@ -228,7 +229,7 @@ laid the lotus garland consisting of his 10 heads!              (11)
   
 अमुष्य त्वत्सेवा-समधिगतसारं भुजवनं  
 बलात् कैलासेऽपि त्वदधिवसतौ विक्रमयतः ।  
-अलभ्यापातालेऽप्यलसचलितांगुष्ठशिरसि  
+अलभ्यापातालेऽप्यलसचलिताङ्गुष्ठशिरसि  
 प्रतिष्ठा त्वय्यासीद् ध्रुवमुपचितो मुह्यति खलः ॥ १२॥  
   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Harimidestotram"
-"File name" = "harimIDestotra.itx"
-itxtitle = "harimIDestotram athavA haristutiH (shaNkarAchAryavirachitam)"
-engtitle = "Harimidestotram"
-Category = "vishhnu, vishnu, shankarAchArya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Swamini Tattvapriyananda tattvapriya3108 at gmail com"
-Indexextra = "(Hindi Anubhavananda, Gujarati)"
-"Latest update" = "June 27, 2015, July 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिमीडेस्तोत्रम् अथवा हरिस्तुतिः (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: vishhnu, vishnu, shankarAchArya
+File name: harimIDestotra.itx
+Indexextra: (Hindi Anubhavananda, Gujarati)
+Language: Sanskrit
+Latest update: June 27, 2015, July 11, 2018
+Location: doc_vishhnu
+Proofread by: Swamini Tattvapriyananda tattvapriya3108 at gmail com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Harimidestotram
+engtitle: Harimidestotram
+itxtitle: harimIDestotram athavA haristutiH (shaNkarAchAryavirachitam)
+title: हरिमीडेस्तोत्रम् अथवा हरिस्तुतिः (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  हरिमीडेस्तोत्रम् अथवा हरिस्तुतिः (शङ्कराचार्यविरचितम्)   
 स्तोष्ये भक्त्या विष्णुमनादिं जगदादिं यस्मिन्नेतत्संसृतिचक्रं भ्रमतीत्थम् ।  

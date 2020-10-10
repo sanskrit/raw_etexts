@@ -1,26 +1,26 @@
-+++
-"Text title" = "rAmabhujangaprayAta stotram"
-"File name" = "raamabhujanga.itx"
-itxtitle = "rAmabhujaNgastotram"
-engtitle = "rAmabhujanga stotra"
-Category = "raama, bhujanga, shankarAchArya"
-Location = "doc_raama"
-Sublocation = "raama"
-Subcategory = "bhujanga"
-Author = "shankarAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Raghavendra Hebbalalu"
-"Proofread by" = "Raghavendra Hebbalalu"
-Indexextra = "(with meanings)"
-"Latest update" = "March 15, 2001, August 29, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामभुजण्गस्तोत्रम्"
+---
+Author: shankarAchArya
+Category: raama, bhujanga, shankarAchArya
+File name: raamabhujanga.itx
+Indexextra: (with meanings)
+Language: Sanskrit
+Latest update: March 15, 2001, August 29, 2015
+Location: doc_raama
+Proofread by: Raghavendra Hebbalalu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhujanga
+Subject: philosophy/hinduism
+Sublocation: raama
+Text title: rAmabhujangaprayAta stotram
+Transliterated by: Raghavendra Hebbalalu
+engtitle: rAmabhujanga stotra
+itxtitle: rAmabhujaNgastotram
+title: रामभुजण्गस्तोत्रम्
 
-+++
+---
   
- श्रीरामभुजंगस्तोत्र   
+ श्रीरामभुजङ्गस्तोत्र   
   
 विशुद्धं परं सच्चिदानन्दरूपम्  
       गुणाधारमाधारहीनं वरेण्यम् ।  
@@ -181,7 +181,7 @@ language.
 क्वणद्रत्नमञ्जीरपादारविन्दम्  
       लसन्मेखलाचारुपीताम्बराढ्यम् ।  
 महारत्नहारोल्लसत्कौस्तुभाङ्गं  
-      नदच्चंचरीमंजरीलोलमालम् ॥ ५ ॥  
+      नदच्चञ्चरीमञ्जरीलोलमालम् ॥ ५ ॥  
   
 पादारविन्दम्  = the Lotus feet of the Lord,   
 क्वणद्-रत्न-मञ्जीर  = adorned by sweet jingling  
@@ -193,7 +193,7 @@ language.
                 gem-studded necklace,   
 कौस्तुभान्गम्  = with the most auspicious kaustubha  
  gem on His chest,   
-नदच्-चंचरी-मंजरी-लोलमालम्  = adorned with  
+नदच्-चञ्चरी-मञ्जरी-लोलमालम्  = adorned with  
                 flower garlands with bees buzzing  
                  around the flowers   
   
@@ -355,7 +355,7 @@ to shrI rAma during His exile in the daNDaka forest.
 The story of ajAmiLa in the shrImad-bhAgavata is  
 brought to mind by this shloka.   
   
-निजे मानसे मन्दिरे संनिधेहि  
+निजे मानसे मन्दिरे सन्निधेहि  
       प्रसीद प्रसीद प्रभो रामचन्द्र ।  
 ससौमित्रिणा कैकेयीनन्दनेन  
       स्वशक्त्यानुभक्त्या च संसेव्यमान ॥ ९ ॥  

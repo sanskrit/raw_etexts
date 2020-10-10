@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Vishnustavaraja from Narasimhapurana"
-"File name" = "viShNustavarAjanarasimhapurANa.itx"
-itxtitle = "viShNustavarAjaH (narasiMhapurANAntargataH)"
-engtitle = "Shri Vishnustavaraja from Narasimhapurana"
-Category = "stavarAja, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 16"
-Indexextra = "(narasiMhapurANa)"
-"Latest update" = "June 6, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तवराजः (नरसिंहपुराणान्तर्गतः)"
+---
+Category: stavarAja, vishhnu, vishnu
+Description-comments: Narasimhapurana adhyAya 16
+File name: viShNustavarAjanarasimhapurANa.itx
+Indexextra: (narasiMhapurANa)
+Language: Sanskrit
+Latest update: June 6, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Vishnustavaraja from Narasimhapurana
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: Shri Vishnustavaraja from Narasimhapurana
+itxtitle: viShNustavarAjaH (narasiMhapurANAntargataH)
+title: विष्णुस्तवराजः (नरसिंहपुराणान्तर्गतः)
 
-+++
+---
   
  श्रीविष्णुस्तवराजः नरसिंहपुराणे   
   

@@ -1,22 +1,23 @@
-+++
-"Text title" = "sUryastotram 5"
-"File name" = "sUryastotram5.itx"
-itxtitle = "sUryastotram 5 (yudhiShThiravirachitam)"
-engtitle = "sUryastotram 5"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-Source = "mahAbhArata"
-"Latest update" = "February 20, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यस्तोत्रम् ५ (युधिष्ठिरविरचितम्)"
+---
+Category: navagraha
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: sUryastotram5.itx
+Language: Sanskrit
+Latest update: February 20, 2017
+Location: doc_z_misc_navagraha
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: mahAbhArata
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryastotram 5
+engtitle: sUryastotram 5
+itxtitle: sUryastotram 5 (yudhiShThiravirachitam)
+title: सूर्यस्तोत्रम् ५ (युधिष्ठिरविरचितम्)
 
-+++
+---
   
  सूर्यस्तोत्रम् ५   
   

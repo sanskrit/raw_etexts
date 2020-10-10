@@ -1,25 +1,25 @@
-+++
-"Text title" = "Sita Upanishad"
-"File name" = "sita.itx"
-itxtitle = "sItopaniShat"
-engtitle = "Sita Upanishad"
-Category = "upanishhat, svara, devii, sItA, devI, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-SubDeity = "sItA"
-Texttype = "svara"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "45 / 108; Atharva Veda - Shakta upanishad"
-"Latest update" = "Mar. 8, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीतोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, svara, devii, sItA, devI, upanishad
+Description-comments: 45 / 108; Atharva Veda - Shakta upanishad
+File name: sita.itx
+Language: Sanskrit
+Latest update: Mar. 8, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sItA
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Sita Upanishad
+Texttype: svara
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Sita Upanishad
+itxtitle: sItopaniShat
+title: सीतोपनिषत्
 
-+++
+---
   
  सीतोपनिषत्   
   
@@ -48,7 +48,7 @@ title = "सीतोपनिषत्"
 तृतीया ईकाररूपिणी अव्यक्तस्वरूपा भवतीति सीता  
 इत्युदाहरन्ति । शौनकीये । श्रीरामसान्निध्यवशा-  
 ज्जगदानन्दकारिणी । उत्पत्तिस्थितिसंहारकारिणी सर्वदेहिनाम् ।  
-सीता भगवती ज्ञेया मूलप्रकृतिसंज्ञिता । प्रणवत्वा-  
+सीता भगवती ज्ञेया मूलप्रकृतिसञ्ज्ञिता । प्रणवत्वा-  
 त्प्रकृरिति वदन्ति ब्रह्मवादिन इति । अथातो ब्रह्मजिज्ञासेति च ।  
 सा सर्ववेदमयी सर्वदेवमयी सर्वलोकमयी सर्वकीर्तिमयी  
 सर्वधर्ममयी सर्वाधारकार्यकारणमयी महालक्ष्मी-  
@@ -77,7 +77,7 @@ title = "सीतोपनिषत्"
 शीतोष्णरूपा काष्ठेष्वन्तर्बहिश्च नित्यानित्यरूपा  
 भवति । श्रीदेवी त्रिविधं रूपं कृत्वा भगवत्सङ्कल्पानु-  
 गुण्येन लोकरक्षणार्थं रूपं धारयति । श्रीरिति लक्ष्मीरिति  
-लक्ष्यमाणा भवतीति विज्ञायते । भूदेवी ससागरांभः-  
+लक्ष्यमाणा भवतीति विज्ञायते । भूदेवी ससागराम्भः-  
 सप्तद्वीपा वसुन्धरा भूरादिचतुर्दशभुवनाना-  
 माधाराधेया प्रणवात्मिका भवति । नीला च मुख-  
 विद्युन्मालिनी सर्वौषधीनां सर्वप्राणिनां पोषणार्थं  
@@ -132,14 +132,14 @@ title = "सीतोपनिषत्"
 पद्मधरा किरीटाभरणयुता सर्वदेवैः परिवृता  
 कल्पतरुमूले चतुर्भिर्गजै रत्नघटैरमृतजलै-  
 रभिषिच्यमाना सर्वदैवतैर्ब्रह्मादिभिर्वन्द्यमाना  
-अणिमाद्यष्टैश्वर्ययुता संमुखे कामधेनुना  
+अणिमाद्यष्टैश्वर्ययुता सम्मुखे कामधेनुना  
 स्तूयमाना वेदशास्त्रादिभिः स्तूयमाना जयाद्यप्सर-  
 स्स्त्रीभिः परिचर्यमाणा आदित्यसोमाभ्यां दीपाभ्यां  
 प्रकाश्यमाना तुम्बुरुनारदादिभिर्गायमाना  
 राकासिनीवालीभ्यां छत्रेण ह्लादिनीमायाभ्यां चामरेण  
 स्वाहास्वधाभ्यां व्यजनेन भृगुपुणादिभिरभ्यर्च्यमाना  
 देवी दिव्यसिंहासने पद्मासनरूढा सकलकारणकार्यकरी  
-लक्ष्मीर्देवस्य पृथग्भवनकल्पना । अलंचकार स्थिरा  
+लक्ष्मीर्देवस्य पृथग्भवनकल्पना । अलञ्चकार स्थिरा  
 प्रसन्नलोचना सर्वदेवतैः पूज्यमाना वीरलक्ष्मीरिति  
 विज्ञायत इत्युपनिषत् ॥  
   

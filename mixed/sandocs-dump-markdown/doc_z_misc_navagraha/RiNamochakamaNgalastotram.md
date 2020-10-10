@@ -1,23 +1,23 @@
-+++
-"Text title" = "RiNamochakama.ngalastotra"
-"File name" = "mangalastotra.itx"
-itxtitle = "RiNamochakamaNgalastotram"
-engtitle = "RiNamochakamaNgalastotram"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/astrology/jyotish"
-"Transliterated by" = "Aneesh Chinubhai aconline at indiatimes.com"
-"Proofread by" = "Aneesh Chinubhai, Kirk Wortman kirkwort at hotmail.com"
-"Latest update" = "November 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ऋइणमोचकमण्गलस्तोत्रम्"
+---
+Author: traditional
+Category: navagraha, stotra
+File name: mangalastotra.itx
+Language: Sanskrit
+Latest update: November 11, 2018
+Location: doc_z_misc_navagraha
+Proofread by: Aneesh Chinubhai, Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/astrology/jyotish
+Sublocation: navagraha
+Text title: RiNamochakama.ngalastotra
+Texttype: stotra
+Transliterated by: Aneesh Chinubhai aconline at indiatimes.com
+engtitle: RiNamochakamaNgalastotram
+itxtitle: RiNamochakamaNgalastotram
+title: ऋइणमोचकमण्गलस्तोत्रम्
 
-+++
+---
   
  ऋणमोचकमङ्गलस्तोत्रम्   
   

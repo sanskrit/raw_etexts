@@ -3,7 +3,6 @@ title: 012 Hanuma s depression
 title_english: 012 Hanuma s depression
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-012-Hanuma_s_depression.mp3"></div>
 
 स तस्य मध्ये भवनस्य वानरो ।  
@@ -42,7 +41,7 @@ title_english: 012 Hanuma s depression
 आपान शाला विचिताः तथा पुष्प गृहाणि च ॥ ५-१२-१२  
 चित्र शालाः च विचिता भूयः क्रीडा गृहाणि च ।  
 निष्कुट अन्तर रथ्याः च विमानानि च सर्वशः ॥ ५-१२-१३  
-इति संचिन्त्य भूयो अपि विचेतुम् उपचक्रमे ।  
+इति सञ्चिन्त्य भूयो अपि विचेतुम् उपचक्रमे ।  
 भूमी गृहामः चैत्य गृहान् गृह अतिगृहकान् अपि ॥ ५-१२-१४  
 उत्पतन् निपतमः च अपि तिष्ठन् गच्चन् पुनः क्वचित् ।  
 अपावृण्वमः च द्वाराणि कपाटानि अवघट्टयन् ॥ ५-१२-१५  

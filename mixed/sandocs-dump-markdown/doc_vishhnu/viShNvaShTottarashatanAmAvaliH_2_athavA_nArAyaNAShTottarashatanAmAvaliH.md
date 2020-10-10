@@ -1,25 +1,25 @@
-+++
-"Text title" = "Vishnu's 108 Names 2"
-"File name" = "vishnu108ver2.itx"
-itxtitle = "viShNvaShTottarashatanAmAvaliH 2 athavA nArAyaNAShTottarashatanAmAvaliH"
-engtitle = "Vishnu's 108 Names 2"
-Category = "aShTottarashatanAmAvalI, vishhnu, nAmAvalI, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "nAmAvalI"
-Author = "Vyasa by tradition"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Mahabharata"
-"Latest update" = "Jan. 23, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्ण्वष्टोत्तरशतनामावलिः २ अथवा नारायणाष्टोत्तरशतनामावलिः"
+---
+Author: Vyasa by tradition
+Category: aShTottarashatanAmAvalI, vishhnu, nAmAvalI, vishnu
+Description-comments: Mahabharata
+File name: vishnu108ver2.itx
+Language: Sanskrit
+Latest update: Jan. 23, 2003
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: Vishnu's 108 Names 2
+Texttype: nAmAvalI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Vishnu's 108 Names 2
+itxtitle: viShNvaShTottarashatanAmAvaliH 2 athavA nArAyaNAShTottarashatanAmAvaliH
+title: विष्ण्वष्टोत्तरशतनामावलिः २ अथवा नारायणाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीविष्णु अष्टोत्तरशतनामावली २   
   

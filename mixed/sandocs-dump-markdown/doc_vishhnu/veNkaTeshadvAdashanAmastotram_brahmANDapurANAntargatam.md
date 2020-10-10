@@ -1,26 +1,26 @@
-+++
-"Text title" = "shrIveMkaTeshadvAdashanAmastotram"
-"File name" = "veMkaTeshadvAdashanAmastotram.itx"
-itxtitle = "veNkaTeshadvAdashanAmastotram (brahmANDapurANAntargatam)"
-engtitle = "shrIveMkaTeshadvAdashanAmastotram"
-Category = "vishhnu, venkateshwara, stotra, vishnu, dvAdasha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Description-comments = "brahmANDapurANa"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "June 10, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशद्वादशनामस्तोत्रम् (ब्रह्माण्डपुराणान्तर्गतम्)"
+---
+Category: vishhnu, venkateshwara, stotra, vishnu, dvAdasha
+Description-comments: brahmANDapurANa
+File name: veMkaTeshadvAdashanAmastotram.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: June 10, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIveMkaTeshadvAdashanAmastotram
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: shrIveMkaTeshadvAdashanAmastotram
+itxtitle: veNkaTeshadvAdashanAmastotram (brahmANDapurANAntargatam)
+title: वेण्कटेशद्वादशनामस्तोत्रम् (ब्रह्माण्डपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीवेङ्कटेशद्वादशनामस्तोत्रम्   
 ब्रह्माण्डपुराणान्तर्गतम्  

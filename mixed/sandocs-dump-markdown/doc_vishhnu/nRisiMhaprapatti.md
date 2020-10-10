@@ -1,23 +1,23 @@
-+++
-"Text title" = "Nrisimha Prapatti"
-"File name" = "nRRisiMhaprapatti.itx"
-itxtitle = "nRisiMhaprapatti"
-engtitle = "nRRisiMhaprapatti"
-Category = "vishhnu, dashAvatAra, prapatti"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Ahobila Matha Prarthana"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहप्रपत्ति"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: vishhnu, dashAvatAra, prapatti
+Description/comments: Ahobila Matha Prarthana
+File name: nRRisiMhaprapatti.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Nrisimha Prapatti
+engtitle: nRRisiMhaprapatti
+itxtitle: nRisiMhaprapatti
+title: नृइसिंहप्रपत्ति
 
-+++
+---
   
  श्रीनृसिंहप्रपत्ति   
 माता नृसिंहः पिता नृसिंहः ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "sarasvatistotram 2"
-"File name" = "sarasvatistotram2.itx"
-itxtitle = "sarasvatIstotram 2 (sArtham)"
-engtitle = "sarasvatI stotram 2"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at sify.com"
-"Proofread by" = "N.Balasubramanian bbalu at sify.com"
-"Translated by" = "Commentary N.Balasubramanian bbalu@sify.com"
-Indexextra = "(with commentary)"
-"Latest update" = "August 24. 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तोत्रम् २ (सार्थम्)"
+---
+Category: devii, sarasvatI, devI
+File name: sarasvatistotram2.itx
+Indexextra: (with commentary)
+Language: Sanskrit
+Latest update: August 24. 2013
+Location: doc_devii
+Proofread by: N.Balasubramanian bbalu at sify.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatistotram 2
+Translated by: Commentary N.Balasubramanian bbalu@sify.com
+Transliterated by: N.Balasubramanian bbalu at sify.com
+engtitle: sarasvatI stotram 2
+itxtitle: sarasvatIstotram 2 (sArtham)
+title: सरस्वतीस्तोत्रम् २ (सार्थम्)
 
-+++
+---
   
  श्रीसरस्वतीस्तोत्रम् २   
   
@@ -137,7 +137,7 @@ says this in BG(10-10,11).
 तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् ।  
 ददामि बुद्धियोगं तं येन मामुपयान्ति ते ॥  
   
-तेषामेवानुकंपार्तं अहमज्ञानजं तमः ।  
+तेषामेवानुकम्पार्तं अहमज्ञानजं तमः ।  
 नाशयाम्यात्मभावस्तो ज्ञानदीपेन भास्वता ॥  
 The vedas describe the Lord as having matted hair, three eyes and  
 crystal clear body. When He appeared as DakShinamurty to teach the  
@@ -252,7 +252,7 @@ acquiring and assimilating spiritual wisdom. The qualities that
 characterise a pure mind that qualifies for receiving spiritual  
 teachings from a guru are given in detail in chaptres 13 and 16 of  
 Gita.  Krishna calls these qualities as divine qualities or दैवी  
-संपत्.  She has विद्या a book, indicating the scriptural  
+सम्पत्.  She has विद्या a book, indicating the scriptural  
 knowledge. This is said as सर्वज्ञाननिदानपुस्तकधरा in  
 verse No.2 in the poem given in the beginning. She is ready to  
 give the vedic wisdom to one who worships her with devotion. This  
@@ -301,7 +301,7 @@ that represents essence of wisdom, a hook or goad and a noose then
 he will become a great poet. From his mouth will flow words in the  
 form of prose and poetry.   
 पाणिपद्मद्वयेनाक्षमलामपि स्फाटिकीं ज्ञानसारात्मकं पुस्तकं  
-चाङ्कुशं पाशमाबिभ्रती येन संचिन्त्यसे,  
+चाङ्कुशं पाशमाबिभ्रती येन सञ्चिन्त्यसे,  
 तस्य वक्त्रान्तराद्गद्यपद्यात्मिका भरती निःसरेत्॥  
   
 The Rig veda worships Her as Vak Devi.    

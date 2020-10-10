@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhikShu gItA"
-"File name" = "bhikshugiitaa.itx"
-itxtitle = "bhikShugItA"
-engtitle = "BhikShu Gita"
-Category = "gItam, giitaa, vyAsa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "Vyasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunderh Hattangadi"
-Description-comments = "adhyaaya 23 ska.ndha 11 of shriimadbhaagavatapuraaNa"
-Indexextra = "(meaning 1 Bhagavatam 11.23)"
-"Latest update" = "July 28, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भिक्षुगीता"
+---
+Author: Vyasa
+Category: gItam, giitaa, vyAsa
+Description-comments: adhyaaya 23 ska.ndha 11 of shriimadbhaagavatapuraaNa
+File name: bhikshugiitaa.itx
+Indexextra: (meaning 1 Bhagavatam 11.23)
+Language: Sanskrit
+Latest update: July 28, 2010
+Location: doc_giitaa
+Proofread by: Sunderh Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: bhikShu gItA
+engtitle: BhikShu Gita
+itxtitle: bhikShugItA
+title: भिक्षुगीता
 
-+++
+---
   
  भिक्षुगीता ११   
   
@@ -83,7 +83,7 @@ title = "भिक्षुगीता"
 य एतां भिक्षुणा गीतां ब्रह्मनिष्ठां समाहितः ।  
 धारयञ्छ्रावयञ्छृण्वन्द्वन्द्वैर्नैवाभिभूयते ॥ ६१॥  
   
-इति श्रीमद्भागवतपुराणान्तर्गतम् अध्याय २३ स्कंध ११ भिक्षुगीता ॥  
+इति श्रीमद्भागवतपुराणान्तर्गतम् अध्याय २३ स्कन्ध ११ भिक्षुगीता ॥  
   
   
 BhikShu Gita from Bhagavata Purana 11.23  

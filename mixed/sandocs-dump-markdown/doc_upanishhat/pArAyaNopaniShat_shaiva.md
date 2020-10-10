@@ -1,22 +1,22 @@
-+++
-"Text title" = "pArAyaNopaniShat"
-"File name" = "pArAyaNopaniShat.itx"
-itxtitle = "pArAyaNopaniShat (shaiva)"
-engtitle = "pArAyaNopaniShat"
-Category = "upanishhat, shiva, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पारायणोपनिषत् (शैव)"
+---
+Category: upanishhat, shiva, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: pArAyaNopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: pArAyaNopaniShat
+engtitle: pArAyaNopaniShat
+itxtitle: pArAyaNopaniShat (shaiva)
+title: पारायणोपनिषत् (शैव)
 
-+++
+---
   
  पारायणोपनिषत्   
 अथाह वै वेदानां वेदत्वमेतेन शाक्ते शक्तित्वमेति न  

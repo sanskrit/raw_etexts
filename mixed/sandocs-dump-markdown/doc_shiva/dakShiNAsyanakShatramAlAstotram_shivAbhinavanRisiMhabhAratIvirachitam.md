@@ -1,22 +1,22 @@
-+++
-"Text title" = "dakShiNAsyanakShatramAlAstotram"
-"File name" = "dakShiNAsyanakShatramAlAstotram.itx"
-itxtitle = "dakShiNAsyanakShatramAlAstotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "dakShiNAsyanakShatramAlAstotram"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणास्यनक्षत्रमालास्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: dakShiNAsyanakShatramAlAstotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: dakShiNAsyanakShatramAlAstotram
+engtitle: dakShiNAsyanakShatramAlAstotram
+itxtitle: dakShiNAsyanakShatramAlAstotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: दक्षिणास्यनक्षत्रमालास्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीदक्षिणास्यनक्षत्रमालास्तोत्रम्   
 श्रीकण्ठमिन्द्वर्भकभासिचूडं श्रीज्ञानदानव्रतबद्धदीक्षम् ।  

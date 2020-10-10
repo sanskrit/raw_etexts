@@ -1,22 +1,22 @@
-+++
-"Text title" = "yogalaxmInarasi.nha suprabhAtam"
-"File name" = "yogalakShmInarasimhasurabhAtam.itx"
-itxtitle = "yogalakShmInarasi.nha suprabhAtam"
-engtitle = "yogalaxmInarasi.nha suprabhAtam"
-Category = "suprabhAta, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "June 25, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगलक्ष्मीनरसिंह सुप्रभातम्"
+---
+Category: suprabhAta, devii, otherforms, devI
+File name: yogalakShmInarasimhasurabhAtam.itx
+Language: Sanskrit
+Latest update: June 25, 2012
+Location: doc_devii
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yogalaxmInarasi.nha suprabhAtam
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: yogalaxmInarasi.nha suprabhAtam
+itxtitle: yogalakShmInarasi.nha suprabhAtam
+title: योगलक्ष्मीनरसिंह सुप्रभातम्
 
-+++
+---
   
  श्रीयोगलक्ष्मीनरसिंह सुप्रभातम्   
   
@@ -69,7 +69,7 @@ title = "योगलक्ष्मीनरसिंह सुप्रभा�
   
 वाराणासी-प्रथित-विष्णुपदी-प्रयाग-  
      विख्यात-विश्वनत-सद्घ्टिकाचलेन्द्र!  
-संप्रार्थितार्थ-परिदान-कृतैकदीक्ष!  
+सम्प्रार्थितार्थ-परिदान-कृतैकदीक्ष!  
      श्रीमन्नृसिंह! विजयीभव सुप्रभातम् ॥ ११॥  
   
 पार्श्वद्वयस्थित- रमामहिशोभमान!  
@@ -114,7 +114,7 @@ that He is present every where and in everything and killed the demon
 king Hiranyakashipu He was about to wind up the act.  The sages who were  
 assembled there to witness the unique event were immensely moved by Lord's  
 grace and His wonderful form . The Bhagavata Purana describes the form as  
-most wonderful.अदृश्यत अत्यद्भुतरूपं उद्वहन् स्तंबे सभायां न  
+most wonderful.अदृश्यत अत्यद्भुतरूपं उद्वहन् स्तम्बे सभायां न  
 मृगं न मानुषम्। Please note the use of the word अत्यद्भुत रूपम्  
 ᳚most wonderful᳚ to describe the form of Narasimha.  The Purana does not use  
 such an adjective to describe any other of Lord's avatara includong that of  

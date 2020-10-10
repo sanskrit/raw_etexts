@@ -1,23 +1,23 @@
-+++
-"Text title" = "Chandra Ashtottarashata NamavaliH 2 108 names"
-"File name" = "chandrAShTottarashatanAmAvalI2.itx"
-itxtitle = "chandrAShTottarashatanAmAvaliH 2"
-engtitle = "chandra aShTottarashatanAmAvalI 2"
-Category = "aShTottarashatanAmAvalI, navagraha, nAmAvalI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay gmail.com"
-"Proofread by" = "Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "See corresponding stotra"
-"Latest update" = "June 22, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्राष्टोत्तरशतनामावलिः २"
+---
+Category: aShTottarashatanAmAvalI, navagraha, nAmAvalI
+Description-comments: See corresponding stotra
+File name: chandrAShTottarashatanAmAvalI2.itx
+Language: Sanskrit
+Latest update: June 22, 2019
+Location: doc_z_misc_navagraha
+Proofread by: Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Chandra Ashtottarashata NamavaliH 2 108 names
+Texttype: stotra
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay gmail.com
+engtitle: chandra aShTottarashatanAmAvalI 2
+itxtitle: chandrAShTottarashatanAmAvaliH 2
+title: चन्द्राष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  श्रीचन्द्राष्टोत्तरशतनामावलिः २   
 चन्द्राय नमः । अमृतमयाय । श्वेताय । विधवे । विमलरूपवते ।  

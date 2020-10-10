@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shanmukha Stotram Tiruchendur"
-"File name" = "ShaNmukhastotramtiruchendUr.itx"
-itxtitle = "ShaNmukhastotram athavA ShaNmukhAShTakam tiruchendUr.hsthita"
-engtitle = "ShaNmukhastotram tiruchendUr"
-Category = "subrahmanya, aShTaka"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "March 8, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षण्मुखस्तोत्रम् अथवा षण्मुखाष्टकम् तिरुचेन्दूर्।ह्स्थित"
+---
+Category: subrahmanya, aShTaka
+File name: ShaNmukhastotramtiruchendUr.itx
+Language: Sanskrit
+Latest update: March 8, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Shanmukha Stotram Tiruchendur
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: ShaNmukhastotram tiruchendUr
+itxtitle: ShaNmukhastotram athavA ShaNmukhAShTakam tiruchendUr.hsthita
+title: षण्मुखस्तोत्रम् अथवा षण्मुखाष्टकम् तिरुचेन्दूर्।ह्स्थित
 
-+++
+---
   
  तिरुचेन्दूर् षण्मुखस्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  

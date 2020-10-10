@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNeshastavaH"
-"File name" = "gaNeshastavaH.itx"
-itxtitle = "gaNeshastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "gaNeshastavaH"
-Category = "ganesha, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: ganesha, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: gaNeshastavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_ganesha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshastavaH
+engtitle: gaNeshastavaH
+itxtitle: gaNeshastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: गणेशस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीगणेशस्तवः   
 (श्रीमुव्वात्तुप्पुलाक्षेत्रे)  

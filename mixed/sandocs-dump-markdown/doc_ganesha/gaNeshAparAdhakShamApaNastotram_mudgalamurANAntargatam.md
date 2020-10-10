@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNeshaaparAdhaxamApanastotram"
-"File name" = "shrIgaNeshaaparAdhaxamApanastotram.itx"
-itxtitle = "gaNeshAparAdhakShamApaNastotram (mudgalamurANAntargatam)"
-engtitle = "gaNeshAparAdhaxamApanastotram"
-Category = "aparAdhakShamA, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "mudgalapurANe"
-"Latest update" = "September 17, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशापराधक्षमापणस्तोत्रम् (मुद्गलमुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: aparAdhakShamA, ganesha
+Description-comments: mudgalapurANe
+File name: shrIgaNeshaaparAdhaxamApanastotram.itx
+Language: Sanskrit
+Latest update: September 17, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshaaparAdhaxamApanastotram
+Transliterated by: 'Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)'
+engtitle: gaNeshAparAdhaxamApanastotram
+itxtitle: gaNeshAparAdhakShamApaNastotram (mudgalamurANAntargatam)
+title: गणेशापराधक्षमापणस्तोत्रम् (मुद्गलमुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीगणेशापराधक्षमापणस्तोत्रम्   
   

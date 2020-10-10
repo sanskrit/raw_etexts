@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Venkatesha Karavalamba Stotra"
-"File name" = "vnktshkarMean.itx"
-itxtitle = "veNkaTesha karAvalambastotram (sArtham)"
-engtitle = "Shri Venkatesha Karavalamba Stotra"
-Category = "vishhnu, venkateshwara, nRisiMhabhAratIsvAmi, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Author = "Shri Nrisinha Bharati of Shringeri Math"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Translated by" = "A. Narayanaswami"
-Description-comments = "Hymn to Shri Venkatesha"
-Indexextra = "(with Meaning 1)"
-"Latest update" = "April, 26, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेश करावलम्बस्तोत्रम् (सार्थम्)"
+---
+Author: Shri Nrisinha Bharati of Shringeri Math
+Category: vishhnu, venkateshwara, nRisiMhabhAratIsvAmi, vishnu
+Description-comments: Hymn to Shri Venkatesha
+File name: vnktshkarMean.itx
+Indexextra: (with Meaning 1)
+Language: Sanskrit
+Latest update: April, 26, 2000
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Venkatesha Karavalamba Stotra
+Translated by: A. Narayanaswami
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Shri Venkatesha Karavalamba Stotra
+itxtitle: veNkaTesha karAvalambastotram (sArtham)
+title: वेण्कटेश करावलम्बस्तोत्रम् (सार्थम्)
 
-+++
+---
   
  श्रीवेङ्कटेश करावलम्बस्तोत्रम्   
   
@@ -119,7 +119,7 @@ is the basis for the accumulation of spiritual
 merit, and give me the support of your hand. 9.   
      दिव्याङ्गरागपरिचर्चित कोमलाङ्ग  
         पीताम्बरावृततनो तरुणार्क भास  
-     सत्यांच नाभ परिधान सुपत्तु बन्ध  
+     सत्याञ्च नाभ परिधान सुपत्तु बन्ध  
         श्री वेङ्कटेश मम देहि करावलम्बम् ॥ १०॥  
  O Shri Venkatesha, whose handsome body is smeared  
 with a heavenly (coloring) powder and is covered with  

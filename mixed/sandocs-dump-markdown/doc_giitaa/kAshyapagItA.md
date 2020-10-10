@@ -1,22 +1,22 @@
-+++
-"Text title" = "kaashyapagItA"
-"File name" = "kaashyapagiitaa.itx"
-itxtitle = "kAshyapagItA"
-engtitle = "kAshyapagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunder at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunder at hotmail.com"
-Indexextra = "(scanned)"
-"Latest update" = "December 15, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "काश्यपगीता"
+---
+Category: gItA, giitaa
+File name: kaashyapagiitaa.itx
+Indexextra: (scanned)
+Language: Sanskrit
+Latest update: December 15, 2012
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunder at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: kaashyapagItA
+Transliterated by: Sunder Hattangadi sunder at hotmail.com
+engtitle: kAshyapagItA
+itxtitle: kAshyapagItA
+title: काश्यपगीता
 
-+++
+---
   
  काश्यपगीता   
   
@@ -57,7 +57,7 @@ title = "काश्यपगीता"
 कृष्णश्च देवकीपुत्रः क्षमां सम्पूजयिष्यति ॥ १२॥  
   
 आचार्यो विदुरः क्षत्ता शममेव वदिष्यतः ।  
-कृपश्च संजयश्चैव शममेव वदिष्यतः ॥ १३॥  
+कृपश्च सञ्जयश्चैव शममेव वदिष्यतः ॥ १३॥  
   
 सोमदत्तो युयुत्सुश्च द्रोणपुत्रस्तथैव च ।  
 पितामहश्च नो व्यासः शमं वदति नित्यशः ॥ १४॥  
@@ -66,7 +66,7 @@ title = "काश्यपगीता"
 अर्हस्तत्राहमित्येवं तस्मान्मां विन्दते क्षमा ॥ १५॥  
   
 एतदात्मवतां वृत्तमेष धर्मः सनातनः ।  
-क्षमाचैवानृशंस्यं च तत्कर्तास्म्यहमंजसा ॥ १६॥  
+क्षमाचैवानृशंस्यं च तत्कर्तास्म्यहमञ्जसा ॥ १६॥  
   
 परैस्ताडितस्यापितत्ताडनसमर्थस्य   
 चिते क्षोभानुत्पत्तिः क्षमा ॥ १७॥  

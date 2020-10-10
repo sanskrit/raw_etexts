@@ -1,21 +1,21 @@
-+++
-"Text title" = "Chandrashekharabharati Navaratnamalika"
-"File name" = "chandrashekharabhAratInavaratnamAlikA.itx"
-itxtitle = "chandrashekharabhAratInavaratnamAlikA (shrIbhAratItIrthamahAsvAmivirachitA)"
-engtitle = "Chandrashekharabharati Navaratnamalika"
-Category = "deities_misc, gurudev, nava"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "shrIbhAratItIrthamahAsvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "June 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्रशेखरभारतीनवरत्नमालिका (श्रीभारतीतीर्थमहास्वामिविरचिता)"
+---
+Author: shrIbhAratItIrthamahAsvAmi
+Category: deities_misc, gurudev, nava
+File name: chandrashekharabhAratInavaratnamAlikA.itx
+Language: Sanskrit
+Latest update: June 17, 2018
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Chandrashekharabharati Navaratnamalika
+engtitle: Chandrashekharabharati Navaratnamalika
+itxtitle: chandrashekharabhAratInavaratnamAlikA (shrIbhAratItIrthamahAsvAmivirachitA)
+title: चन्द्रशेखरभारतीनवरत्नमालिका (श्रीभारतीतीर्थमहास्वामिविरचिता)
 
-+++
+---
   
  श्रीचन्द्रशेखरभारतीनवरत्नमालिका   
 (शृङ्गेरीजगद्गुरुश्रीश्रीभारतीतीर्थमहास्वामिविरचिता)  

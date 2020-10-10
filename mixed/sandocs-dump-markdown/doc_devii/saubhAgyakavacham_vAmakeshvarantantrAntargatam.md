@@ -1,24 +1,24 @@
-+++
-"Text title" = "Saubhagyakavacham"
-"File name" = "saubhAgyakavacham.itx"
-itxtitle = "saubhAgyakavacham (vAmakeshvarantantrAntargatam)"
-engtitle = "saubhAgyakavacham"
-Category = "devii, kavacha, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rama Prakasha ramaprakashak at gmail.com"
-"Proofread by" = "Rama Prakasha ramaprakashak at gmail.com"
-"Description/comments" = "vAmakeshvarantantre nityAShoDashikArNave"
-Indexextra = "(Scan)"
-"Latest update" = "September 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सौभाग्यकवचम् (वामकेश्वरन्तन्त्रान्तर्गतम्)"
+---
+Category: devii, kavacha, dashamahAvidyA, devI
+Description/comments: vAmakeshvarantantre nityAShoDashikArNave
+File name: saubhAgyakavacham.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 9, 2018
+Location: doc_devii
+Proofread by: Rama Prakasha ramaprakashak at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Saubhagyakavacham
+Transliterated by: Rama Prakasha ramaprakashak at gmail.com
+engtitle: saubhAgyakavacham
+itxtitle: saubhAgyakavacham (vAmakeshvarantantrAntargatam)
+title: सौभाग्यकवचम् (वामकेश्वरन्तन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीसौभाग्यकवचस्तोत्रम्   
 ॥ पूर्वपीठिका ॥  

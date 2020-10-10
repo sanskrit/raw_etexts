@@ -1,24 +1,24 @@
-+++
-"Text title" = "paramArthasAra AdisheShakRita"
-"File name" = "paramArthasAraAdishesha.itx"
-itxtitle = "paramArthasAram (shrImadAdisheShapraNItam)"
-engtitle = "Paramarthasara by Adishesha"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "AdisheSha"
-Language = "Sanskrit"
-Subject = "Hinduism/philosophy/advaita"
-"Transliterated by" = "Suryansu Ray suryansuray at yahoo.com"
-"Proofread by" = "Suryansu Ray suryansuray at yahoo.com"
-Indexextra = "(Text and Comments DOC)"
-"Latest update" = "September 5, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परमार्थसारम् (श्रीमदादिशेषप्रणीतम्)"
+---
+Author: AdisheSha
+Category: major_works
+File name: paramArthasAraAdishesha.itx
+Indexextra: (Text and Comments DOC)
+Language: Sanskrit
+Latest update: September 5, 2007
+Location: doc_z_misc_major_works
+Proofread by: Suryansu Ray suryansuray at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/philosophy/advaita
+Sublocation: major_works
+Text title: paramArthasAra AdisheShakRita
+Texttype: pramukha
+Transliterated by: Suryansu Ray suryansuray at yahoo.com
+engtitle: Paramarthasara by Adishesha
+itxtitle: paramArthasAram (shrImadAdisheShapraNItam)
+title: परमार्थसारम् (श्रीमदादिशेषप्रणीतम्)
 
-+++
+---
   
   श्रीमदादिशेषप्रणीतम् परमार्थसारम्   
   

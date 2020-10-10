@@ -1,21 +1,21 @@
-+++
-"Text title" = "rAmastotram by Hanuman"
-"File name" = "rAmastotramhanumat.itx"
-itxtitle = "rAmastotram (hanumatkRitam shrImadbhAgavatAntargatam)"
-engtitle = "shrIrAmastotram by Hanuman"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "Bhagavata, Skandha 5, Adhya 19"
-Indexextra = "(Scan)"
-"Latest update" = "April 19, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामस्तोत्रम् (हनुमत्कृइतम् श्रीमद्भागवतान्तर्गतम्)"
+---
+Category: raama
+Description/comments: Bhagavata, Skandha 5, Adhya 19
+File name: rAmastotramhanumat.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 19, 2019
+Location: doc_raama
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmastotram by Hanuman
+engtitle: shrIrAmastotram by Hanuman
+itxtitle: rAmastotram (hanumatkRitam shrImadbhAgavatAntargatam)
+title: रामस्तोत्रम् (हनुमत्कृइतम् श्रीमद्भागवतान्तर्गतम्)
 
-+++
+---
   
  हनुमत्कृतश्रीरामस्तोत्रम्   
 श्रीशुक उवाच  

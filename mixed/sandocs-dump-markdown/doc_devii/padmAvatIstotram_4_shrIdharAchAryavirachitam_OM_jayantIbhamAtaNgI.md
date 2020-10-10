@@ -1,22 +1,22 @@
-+++
-"Text title" = "padmAvatIstotram 4"
-"File name" = "padmAvatIstotram4.itx"
-itxtitle = "padmAvatIstotram 4 (shrIdharAchAryavirachitam OM jayantIbhamAtaNgI)"
-engtitle = "padmAvatIstotram 4"
-Category = "devii, devI, jaina"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Shridharacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पद्मावतीस्तोत्रम् ४ (श्रीधराचार्यविरचितम् ॐ जयन्तीभमातण्गी)"
+---
+Author: Shridharacharya
+Category: devii, devI, jaina
+File name: padmAvatIstotram4.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: padmAvatIstotram 4
+engtitle: padmAvatIstotram 4
+itxtitle: padmAvatIstotram 4 (shrIdharAchAryavirachitam OM jayantIbhamAtaNgI)
+title: पद्मावतीस्तोत्रम् ४ (श्रीधराचार्यविरचितम् ॐ जयन्तीभमातण्गी)
 
-+++
+---
   
  श्रीपद्मावतीस्तोत्रम् ४   
 श्रीधराचार्यविरचितं  

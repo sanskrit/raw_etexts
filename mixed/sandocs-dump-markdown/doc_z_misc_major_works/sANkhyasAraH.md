@@ -1,23 +1,23 @@
-+++
-"Text title" = "sAMkhyasAra"
-"File name" = "sAMkhyasAra.itx"
-itxtitle = "sANkhyasAraH"
-engtitle = "sANkhyasAraH"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dhaval Patel drdhaval2785 at gmail.com"
-"Proofread by" = "Dhaval Patel drdhaval2785 at gmail.com"
-Source = "sAnkhyasaNgrahaH 1918"
-"Latest update" = "September 15, 2014, October 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "साण्ख्यसारः"
+---
+Category: major_works
+File name: sAMkhyasAra.itx
+Language: Sanskrit
+Latest update: September 15, 2014, October 6, 2018
+Location: doc_z_misc_major_works
+Proofread by: Dhaval Patel drdhaval2785 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: sAnkhyasaNgrahaH 1918
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: sAMkhyasAra
+Texttype: pramukha
+Transliterated by: Dhaval Patel drdhaval2785 at gmail.com
+engtitle: sANkhyasAraH
+itxtitle: sANkhyasAraH
+title: साण्ख्यसारः
 
-+++
+---
   
  साङ्ख्यसारः   
   
@@ -743,7 +743,7 @@ title = "साण्ख्यसारः"
 सोऽङ्गारे तु विवेकार्हो काष्ठदग्धृतया स्फुटम् ॥ २२॥  
   
 अतएव श्रुतौ स्वप्ने दृश्यवृत्तिविवेकतः ।  
-स्वयंज्योतिःस्वरूपेण तस्या द्रष्टा प्रदर्शितः ॥ २३॥  
+स्वयञ्ज्योतिःस्वरूपेण तस्या द्रष्टा प्रदर्शितः ॥ २३॥  
   
 साक्षात् प्रकाशो यो यस्य स तद्भिन्नो मतो बुधैः ।  
 घटादिभ्यो यथाऽऽलोक आलोकाच्चापि वृत्तयः ॥ २४॥  
@@ -966,7 +966,7 @@ title = "साण्ख्यसारः"
 तस्याध्यक्षं व्यापकं च न हेतुविधयाऽस्ति हि ।  
 असङ्ख्यात्मा नभोराशिरविभक्तैकरूपकः ॥ २६॥  
   
-सोऽतश्चिद्घनविज्ञानघनात्मघनसंज्ञकः ।  
+सोऽतश्चिद्घनविज्ञानघनात्मघनसञ्ज्ञकः ।  
 प्रकाशस्यानपेक्षत्वात् स्वस्य द्रष्टृतयाऽपि च ॥ २७॥  
   
 स्वप्रकाशः पुमानुक्त इतरे तद्विलक्षणाः ।  

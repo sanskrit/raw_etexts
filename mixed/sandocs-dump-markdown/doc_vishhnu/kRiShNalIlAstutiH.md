@@ -1,23 +1,23 @@
-+++
-"Text title" = "kRRiShNalIlAstutiH"
-"File name" = "kRRiShNalIlAstutiH.itx"
-itxtitle = "kRiShNalIlAstutiH"
-engtitle = "kRRiShNalIlAstutiH"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "BhaktivivekasAra"
-Indexextra = "(Scanned)"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णलीलास्तुतिः"
+---
+Category: vishhnu, krishna
+Description/comments: BhaktivivekasAra
+File name: kRRiShNalIlAstutiH.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNalIlAstutiH
+engtitle: kRRiShNalIlAstutiH
+itxtitle: kRiShNalIlAstutiH
+title: कृइष्णलीलास्तुतिः
 
-+++
+---
   
  श्रीकृष्णलीलास्तुतिः   
 निगमतरोः प्रतिशाखं मृगितं च मया परं ब्रह्म ।  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrii subrahmaNyastotramaalaamantraH"
-"File name" = "subramAlAmantra.itx"
-itxtitle = "subrahmaNyastotramAlAmantraH"
-engtitle = "subrahmaNyastotramAlAmantraH"
-Category = "mAlAmantra, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "March 15, 2006, Novemver 6, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यस्तोत्रमालामन्त्रः"
+---
+Category: mAlAmantra, subrahmanya
+File name: subramAlAmantra.itx
+Language: Sanskrit
+Latest update: March 15, 2006, Novemver 6, 2019
+Location: doc_subrahmanya
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrii subrahmaNyastotramaalaamantraH
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: subrahmaNyastotramAlAmantraH
+itxtitle: subrahmaNyastotramAlAmantraH
+title: सुब्रह्मण्यस्तोत्रमालामन्त्रः
 
-+++
+---
   
  श्रीसुब्रह्मण्यस्तोत्रमालामन्त्रः   
 ॐ अस्य श्रीसुब्रह्मण्यमालामहामन्त्रस्य, ब्रह्मा ऋषिः ।  
@@ -35,10 +35,10 @@ title = "सुब्रह्मण्यस्तोत्रमालाम�
 लमित्यादि पञ्चपूजा ।  
 ॐ श्रीम् ह्रीं क्लीं नमो भगवते  
 ॐ ह्रीं सां रुद्रकुमाराय अष्टाङ्गयोगनायकाय  
-महामणिभिरलंकृताय क्रौञ्चगिरिविदारणाय  
+महामणिभिरलङ्कृताय क्रौञ्चगिरिविदारणाय  
 तारकसंहारकारणाय  
 शक्तिशूलगदाखड्गखेटपाशाङ्कुशमुसलप्रासाद्यनेक  
-चित्रायुधालंकृताय द्वादशभुजाय हारनूपुरकेयूरकनक  
+चित्रायुधालङ्कृताय द्वादशभुजाय हारनूपुरकेयूरकनक  
 कुण्डलभूषिताय  सकलदेवसेनासमूह परिवृताय गाङ्गेयाय  
 शरवणभवाय देवलोकशरण्याय सर्वरोगान् हन हन दुष्टान्  
 त्रासय त्रासय, गणपतिसहोदराय  

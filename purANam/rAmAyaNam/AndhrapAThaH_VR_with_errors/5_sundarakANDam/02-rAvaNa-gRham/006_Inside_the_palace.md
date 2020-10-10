@@ -3,7 +3,6 @@ title: 006 Inside the palace
 title_english: 006 Inside the palace
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-006-Inside_the_palace.mp3"></div>
 
 स निकामम् विमानेषु विषण्णः काम रूपधृत् ।  

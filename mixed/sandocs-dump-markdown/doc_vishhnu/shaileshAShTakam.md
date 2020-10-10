@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Shaileshashtakam"
-"File name" = "shaileshAShTakam.itx"
-itxtitle = "shaileshAShTakam"
-engtitle = "shaileshAShTakam"
-Category = "vishhnu, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Ramanuja Stotramala"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शैलेशाष्टकम्"
+---
+Category: vishhnu, aShTaka
+Description/comments: Ramanuja Stotramala
+File name: shaileshAShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Shaileshashtakam
+engtitle: shaileshAShTakam
+itxtitle: shaileshAShTakam
+title: शैलेशाष्टकम्
 
-+++
+---
   
  श्रीशैलेशाष्टकम्   
 श्रीदेवराजगुरुभिरनुगृहीतं  
@@ -57,7 +57,7 @@ title = "शैलेशाष्टकम्"
   
 वेदादौ पूर्वमुक्त्वा हरिरिति सुजनो वक्ति पश्चाद्यथोमित्येवं  
      वक्तव्यमेतद्वकुलधरवचोऽनुश्रवारम्भकाले ।  
-श्रीशैलेशेति पद्यं प्रथममथ सतां संप्रदायैकनिष्ठैः  
+श्रीशैलेशेति पद्यं प्रथममथ सतां सम्प्रदायैकनिष्ठैः  
      लक्ष्मीनाथेति पद्यं स्वयमिति भगवानादिशद्रङ्गनाथः ॥ ७॥  
   
 यद्वद्वक्तुं न युक्तं प्रणवहरिपदाभ्यन्तरेऽन्यत्पदं तत्  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAghavendra_stotra.inf"
-"File name" = "rAghavendra_stotra.itx"
-itxtitle = "rAghavendrastotram"
-engtitle = "rAghavendrastotram"
-Category = "deities_misc, stotra, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "stotra"
-Author = "Sri Appannaacharya, Translation by P.N. Ramachandran mail.vsnl.net pnramchandran@vsnl.net"
-Language = "Sanskrit"
-Subject = "Sri Raghavendra Swami"
-"Transliterated by" = "Shrisha Rao   http://www.dvaita.net"
-"Proofread by" = "Shrisha Rao , Kesava Tadipatri"
-"Latest update" = "March 20, 1996, April 10, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com, shrao@dvaita.org, or info@dvaita.org"
-"Site access" = "https://sanskritdocuments.org"
-title = "राघवेन्द्रस्तोत्रम्"
+---
+Author: Sri Appannaacharya, Translation by P.N. Ramachandran mail.vsnl.net pnramchandran@vsnl.net
+Category: deities_misc, stotra, gurudev
+File name: rAghavendra_stotra.itx
+Language: Sanskrit
+Latest update: March 20, 1996, April 10, 2009
+Location: doc_deities_misc
+Proofread by: Shrisha Rao , Kesava Tadipatri
+Send corrections to: Sanskrit@cheerful.com, shrao@dvaita.org, or info@dvaita.org
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: Sri Raghavendra Swami
+Sublocation: deities_misc
+Text title: rAghavendra_stotra.inf
+Texttype: stotra
+Transliterated by: Shrisha Rao   http://www.dvaita.net
+engtitle: rAghavendrastotram
+itxtitle: rAghavendrastotram
+title: राघवेन्द्रस्तोत्रम्
 
-+++
+---
   
  श्रीराघवेन्द्रस्तोत्रम्   
   

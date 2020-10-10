@@ -1,22 +1,22 @@
-+++
-"Text title" = "vAgIshvaryaShTottarashatanAmAvalI"
-"File name" = "vAgIshvaryaShTottarashatanAmAvalI.itx"
-itxtitle = "vAgIshvaryaShTottarashatanAmAvalI"
-engtitle = "vAgIshvaryaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda"
-"Proofread by" = "R. Harshananda, PSA Easwaran psaeaswran at gmail.com"
-Indexextra = "(navadurgApUjA)"
-"Latest update" = "February 20, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वागीश्वर्यष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI
+File name: vAgIshvaryaShTottarashatanAmAvalI.itx
+Indexextra: (navadurgApUjA)
+Language: Sanskrit
+Latest update: February 20, 2018
+Location: doc_devii
+Proofread by: R. Harshananda, PSA Easwaran psaeaswran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vAgIshvaryaShTottarashatanAmAvalI
+Transliterated by: R. Harshananda
+engtitle: vAgIshvaryaShTottarashatanAmAvalI
+itxtitle: vAgIshvaryaShTottarashatanAmAvalI
+title: वागीश्वर्यष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीवागीश्वर्यष्टोत्तरशतनामावलिः अथवा वाग्वादिन्यष्टोत्तरशतनामावलिः   
 ॐ अस्यश्री वागीश्वरी महामन्त्रस्य कण्व ऋषिः विराट्  

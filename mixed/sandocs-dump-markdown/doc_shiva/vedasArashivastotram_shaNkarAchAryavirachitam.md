@@ -1,24 +1,24 @@
-+++
-"Text title" = "vedasaarashivastotram"
-"File name" = "vedasarast.itx"
-itxtitle = "vedasArashivastotram (shaNkarAchAryavirachitam)"
-engtitle = "vedasArashivastotram"
-Category = "shiva, stotra, shankarAchArya"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Dhrup Chand"
-"Proofread by" = "Sridhar - Seshagiri (seshagir at engineering.sdsu.edu)"
-Indexextra = "(meaning)"
-"Latest update" = "June 24, 2001, August 30, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदसारशिवस्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Author: Adi Shankaracharya
+Category: shiva, stotra, shankarAchArya
+File name: vedasarast.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: June 24, 2001, August 30, 2018
+Location: doc_shiva
+Proofread by: Sridhar - Seshagiri (seshagir at engineering.sdsu.edu)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: shiva
+Text title: vedasaarashivastotram
+Texttype: stotra
+Transliterated by: Dhrup Chand
+engtitle: vedasArashivastotram
+itxtitle: vedasArashivastotram (shaNkarAchAryavirachitam)
+title: वेदसारशिवस्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  वेदसारशिवस्तोत्रम्   
                ॥ श्रीः॥  
@@ -40,13 +40,13 @@ title = "वेदसारशिवस्तोत्रम् (शण्कर
 भवं भास्वरं भस्मना भूषिताङ्गं  
      भवानीकलत्रं भजे पञ्चवक्त्रम् ॥ ३॥  
   
-शिवाकान्त शंभो शशाङ्कार्धमौले  
+शिवाकान्त शम्भो शशाङ्कार्धमौले  
      महेशान शूलिञ्जटाजूटधारिन् ।  
 त्वमेको जगद्व्यापको विश्वरूपः  
      प्रसीद प्रसीद प्रभो पूर्णरूप ॥ ४॥  
   
 परात्मानमेकं जगद्बीजमाद्यं  
-     निरीहं निराकारमोंकारवेद्यम् ।  
+     निरीहं निराकारमोङ्कारवेद्यम् ।  
 यतो जायते पाल्यते येन विश्वं  
      तमीशं भजे लीयते यत्र विश्वम् ॥ ५॥  
   
@@ -66,11 +66,11 @@ title = "वेदसारशिवस्तोत्रम् (शण्कर
      नमस्ते नमस्ते श्रुतिज्ञानगम्य ॥ ८॥  
   
 प्रभो शूलपाणे विभो विश्वनाथ  
-     महादेव शंभो महेश त्रिनेत्र ।  
+     महादेव शम्भो महेश त्रिनेत्र ।  
 शिवाकान्त शान्त स्मरारे पुरारे  
      त्वदन्यो वरेण्यो न मान्यो न गण्यः ॥ ९॥  
   
-शंभो महेश करुणामय शूलपाणे  
+शम्भो महेश करुणामय शूलपाणे  
      गौरीपते पशुपते पशुपाशनाशिन् ।  
 काशीपते करुणया जगदेतदेक-  
      स्त्वंहंसि पासि विदधासि महेश्वरोऽसि ॥ १०॥  
@@ -82,7 +82,7 @@ title = "वेदसारशिवस्तोत्रम् (शण्कर
   
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-श्रीमच्छंकरभगवतः कृतौ  
+श्रीमच्छङ्करभगवतः कृतौ  
 वेदसारशिवस्तोत्रं सम्पूर्णम् ।  
   
 Encoded by Dhrup Chand  

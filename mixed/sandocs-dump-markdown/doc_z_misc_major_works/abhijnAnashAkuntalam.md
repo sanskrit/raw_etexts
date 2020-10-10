@@ -1,28 +1,28 @@
-+++
-"Text title" = "abhijnaana shaakuntala"
-"File name" = "shaakuntala.itx"
-itxtitle = "abhijnAnashAkuntalam"
-engtitle = "The AbhijnAnashAkuntalam of KAlidAsa"
-Category = "major_works, kAlidAsa"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Kalidas"
-Language = "Sanskrit"
-Subject = "hinduism/literature drama"
-"Transliterated by" = "Professor Muneo Tokunaga July 26, 1999"
-"Proofread by" = "Shrirang Nene snene at lds.com"
-Indexextra = "(translations 1, 2 , a play by Kalidas)"
-"Latest update" = "November 22, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अभिज्ञानशाकुन्तलम्"
+---
+Author: Kalidas
+Category: major_works, kAlidAsa
+File name: shaakuntala.itx
+Indexextra: (translations 1, 2 , a play by Kalidas)
+Language: Sanskrit
+Latest update: November 22, 2001
+Location: doc_z_misc_major_works
+Proofread by: Shrirang Nene snene at lds.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/literature drama
+Sublocation: major_works
+Text title: abhijnaana shaakuntala
+Texttype: pramukha
+Transliterated by: Professor Muneo Tokunaga July 26, 1999
+engtitle: The AbhijnAnashAkuntalam of KAlidAsa
+itxtitle: abhijnAnashAkuntalam
+title: अभिज्ञानशाकुन्तलम्
 
-+++
+---
   
  अभिज्ञानशाकुन्तलम्   
   
-अथ अभिज्ञानशाकुंतलम् ।  
+अथ अभिज्ञानशाकुन्तलम् ।  
   
 प्रथमोऽङ्कः ।  
   
@@ -37,7 +37,7 @@ title = "अभिज्ञानशाकुन्तलम्"
 ( प्रविश्य )  
 नटी - आर्यपुत्र इयमस्मि ।  
 सूत्रधारः -- आर्य अभिरूपभूयिष्ठा परिषदियम् । अद्य खलु  
-कालिदासग्रथितवस्तुना नवेनाभिज्ञानशकुंतलाख्येन  
+कालिदासग्रथितवस्तुना नवेनाभिज्ञानशकुन्तलाख्येन  
 नाटकेनोपस्थातव्यमस्माभिः । तत्प्रतिपात्रमाधीयतां यत्नः ।  
 नटी -- सुविहितप्रयोगतयायार्यस्य न किमपि परिहास्यते ।  
 सूत्रधारः -- आर्ये कथयामि ते भूतार्थम् ।  
@@ -59,7 +59,7 @@ title = "अभिज्ञानशाकुन्तलम्"
 सूत्रधारः -- आर्य साधु गीतम् । अहो  
 रागबद्धचित्तवृत्तिरालिखित इव सर्वतो रङ्गः ।  
 तदिदानीं कतमत्प्रकरणमाश्रित्यैनमाराधयामः ।  
-नटी -- नन्वार्यमिश्रैः प्रथममेवाज्ञप्तमभिज्ञानशकुंतलं  
+नटी -- नन्वार्यमिश्रैः प्रथममेवाज्ञप्तमभिज्ञानशकुन्तलं  
 नामापूर्वं नाटकं प्रयोगे अधिक्रियतामिति ।  
 सूत्रधारः -- आर्ये सम्यगनुबोधितोऽस्मि । अस्मिन्क्षणे विस्मृतं खलु  
 मया तत् । कुतः ।  
@@ -97,12 +97,12 @@ title = "अभिज्ञानशाकुन्तलम्"
 राजाः -- सत्यम् । अतीत्य हरितो हरींश्च वर्तन्ते वाजिनः । तथा  
 हि ।  
 यदालोके सूक्ष्मं व्रजति सहसा तद्विपुलतां  
-यदर्धे विछिन्नं भवति कृतसंधानमिव तत् ।  
+यदर्धे विछिन्नं भवति कृतसन्धानमिव तत् ।  
 प्रकृत्या यद्वक्त्रं तदपि समरेखं नयनयोर्न  
 मे दूरे किञ्चित्क्षणमपि न पार्श्वे रथज्जवात्॥९॥  
   
 सूत पश्यैनं व्यापद्यमानम् ।  
-( इति शरसंधानं नाटयति )  
+( इति शरसन्धानं नाटयति )  
 ( नेपथ्ये )  
 भो भो राजन् आश्रममृगोऽयं न हन्तव्यो न हन्तव्यः ।  
 सूतः -- ( आकर्ण्यावलोक्य च )  
@@ -115,12 +115,12 @@ title = "अभिज्ञानशाकुन्तलम्"
 (ततः प्रविशत्यात्मनातृतीयो वैखानसः )  
 वैखानसः -- ( हस्तमुद्यम्य )  
 राजन् आश्रममृगोऽयं न हन्तव्यो न हन्तव्यः ।  
-न खलु न खलु बाणः संनिपात्योऽयमस्मिन्मृदुनि  
+न खलु न खलु बाणः सन्निपात्योऽयमस्मिन्मृदुनि  
 मृगशरीरे पुष्पराशाविवाग्निः ।  
 क्व बत हरिणकानां जीवितं चातिलोलं क्व च  
 निशितनिपाता वज्रसाराः शरास्ते॥१०॥  
   
-तत्साधुकृतसंधानं प्रतिसंहर सायकम् ।  
+तत्साधुकृतसन्धानं प्रतिसंहर सायकम् ।  
 आर्तत्राणाय वः शस्त्रं न प्रहर्तुमनागसि॥११॥  
   
 राजाः -- एष प्रतिसम्हृतः ।  
@@ -139,8 +139,8 @@ title = "अभिज्ञानशाकुन्तलम्"
 रम्यास्तपोधनानां प्रतिहतविघ्नाः क्रियाः समवलोक्य ।  
 ज्ञास्यसि कियद्भुजो मे रक्षति मौर्वीकिणाङ्क इति॥१३॥  
   
-राजाः -- अपि संनिहितोऽत्र कुलपतिः ।  
-वैखानसः -- इदानीमेव दुहितरं शकुंतलामतिथिसत्काराय  
+राजाः -- अपि सन्निहितोऽत्र कुलपतिः ।  
+वैखानसः -- इदानीमेव दुहितरं शकुन्तलामतिथिसत्काराय  
 नियुज्य दैवं अस्याः प्रतिकूलं शमयितुं सोमतीर्थं गतः ।  
 राजाः -- भवतु । तामेव पश्यामि । सा खलु विदितभक्तिं मां  
 महर्षेः करिष्यति ।  

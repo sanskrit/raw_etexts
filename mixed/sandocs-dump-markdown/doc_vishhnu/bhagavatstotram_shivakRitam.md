@@ -1,21 +1,22 @@
-+++
-"Text title" = "bhagavatstotrashivakRitam"
-"File name" = "bhagavatstotrashivakRitam.itx"
-itxtitle = "bhagavatstotram (shivakRitam)"
-engtitle = "bhagavatstotrashivakRitam"
-Category = "vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "January 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवत्स्तोत्रम् (शिवकृइतम्)"
+---
+Category: vishhnu, vishnu
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: bhagavatstotrashivakRitam.itx
+Language: Sanskrit
+Latest update: January 19, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: bhagavatstotrashivakRitam
+engtitle: bhagavatstotrashivakRitam
+itxtitle: bhagavatstotram (shivakRitam)
+title: भगवत्स्तोत्रम् (शिवकृइतम्)
 
-+++
+---
   
  शिवकृतं भगवत्स्तोत्रम्   
   

@@ -1,24 +1,25 @@
-+++
-"Text title" = "shAradAstavanammantragarbhitam"
-"File name" = "shAradAstavanammantragarbhitam.itx"
-itxtitle = "shAradAstavanam sArasvatamantragarbhitaM (jinaprabhasUrivirachitam)"
-engtitle = "shAradAstavanammantragarbhitam"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "jinaprabhasUrivirachitaM"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "Parishishta 14 of Bhairava Padmavati Kalpa, Jain/Gujarati publication, 1993"
-"Latest update" = "April 14, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदास्तवनम् सारस्वतमन्त्रगर्भितं (जिनप्रभसूरिविरचितम्)"
+---
+Author: jinaprabhasUrivirachitaM
+Category: devii, sarasvatI, devI
+Description/comments: Parishishta 14 of Bhairava Padmavati Kalpa, Jain/Gujarati publication,
+  1993
+File name: shAradAstavanammantragarbhitam.itx
+Language: Sanskrit
+Latest update: April 14, 2018
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAstavanammantragarbhitam
+Transliterated by: DPD
+engtitle: shAradAstavanammantragarbhitam
+itxtitle: shAradAstavanam sArasvatamantragarbhitaM (jinaprabhasUrivirachitam)
+title: शारदास्तवनम् सारस्वतमन्त्रगर्भितं (जिनप्रभसूरिविरचितम्)
 
-+++
+---
   
  सारस्वतमन्त्रगर्भितं श्रीशारदास्तवनम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Ramalakshmana Stotram"
-"File name" = "rAmalakShmaNastotram.itx"
-itxtitle = "rAmalakShmaNastotram"
-engtitle = "rAmalakShmaNastotram"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामलक्ष्मणस्तोत्रम्"
+---
+Category: raama
+File name: rAmalakShmaNastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_raama
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Shri Ramalakshmana Stotram
+Transliterated by: PSA Easwaran
+engtitle: rAmalakShmaNastotram
+itxtitle: rAmalakShmaNastotram
+title: रामलक्ष्मणस्तोत्रम्
 
-+++
+---
   
  श्रीरामलक्ष्मणस्तोत्रम्   
 कमललोचनौ काञ्चनाम्बरौ कवचभूषणौ कार्मुकान्वितौ ।  

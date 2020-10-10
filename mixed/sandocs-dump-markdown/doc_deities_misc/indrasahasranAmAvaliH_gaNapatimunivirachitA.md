@@ -1,25 +1,26 @@
-+++
-"Text title" = "indrasahasranAmAvalI"
-"File name" = "indrasahasranAmAvalI.itx"
-itxtitle = "indrasahasranAmAvaliH (gaNapatimunivirachitA)"
-engtitle = "indrasahasranAmAvalI composed by Ganapti Muni"
-Category = "sahasranAmAvalI, deities_misc, nAmAvalI, gaNapati-muni"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "nAmAvalI"
-Author = "Ganapati Muni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Description-comments = "From The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol 3"
-Indexextra = "(Collected Works)"
-"Latest update" = "January 27, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "इन्द्रसहस्रनामावलिः (गणपतिमुनिविरचिता)"
+---
+Author: Ganapati Muni
+Category: sahasranAmAvalI, deities_misc, nAmAvalI, gaNapati-muni
+Description-comments: From The Collected Works of Vasishtha Kavyakantha Ganapati Muni
+  Vol 3
+File name: indrasahasranAmAvalI.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: January 27, 2013
+Location: doc_deities_misc
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: indrasahasranAmAvalI
+Texttype: nAmAvalI
+Transliterated by: DPD
+engtitle: indrasahasranAmAvalI composed by Ganapti Muni
+itxtitle: indrasahasranAmAvaliH (gaNapatimunivirachitA)
+title: इन्द्रसहस्रनामावलिः (गणपतिमुनिविरचिता)
 
-+++
+---
   
  इन्द्रसहस्रनामावली गणपतेः कृता   
 ॐ इन्द्राय नमः । देवतमाय । अनीलाय । सुपर्णाय । पूर्णबन्धुराय ।  
@@ -44,7 +45,7 @@ title = "इन्द्रसहस्रनामावलिः (गणपत
 चोदित्रे । ॐ कृत्रवे नमः । ॐ कृतब्रह्नणे नमः। धृतव्रताय ।  
 घृष्ण्वोजसे । धीनामवित्रे । धनानां सञ्जिते । अच्युताय । तमसो  
 विहन्त्रे । त्वष्ट्रे । तनूपे । तरुत्रे । तुराय । त्वेषनृम्णाय ।  
-त्वेषसंदृशे । तुरासाहे । अपराजिताय । तुग्य्रावृधाय ।  
+त्वेषसन्दृशे । तुरासाहे । अपराजिताय । तुग्य्रावृधाय ।  
 दस्मतमाय नमः । ८०  
   
 ॐ तुविकूर्मितमाय नमः । तुजाय । वृषप्रभर्मणे । ॐ विश्वानि  
@@ -243,7 +244,7 @@ title = "इन्द्रसहस्रनामावलिः (गणपत
 ॐ विश्वव्यचसे नमः । सङ्क्षञ्चकानाय । सुहार्दाय । दिवो जनित्रे ।  
 समन्तुनामम्ने । ॐ पुरुधप्रतीकाय नमः । ॐ बृहतः पत्ये नमः।  
 दीध्यानाय । दामनाय । दात्रे । दीर्घश्रवसाय । ऋभ्वसाय ।  
-दंसनावते । दिवः संम्राजे । देवजूताय । दिवावसवे । दशमाय ।  
+दंसनावते । दिवः सम्म्राजे । देवजूताय । दिवावसवे । दशमाय ।  
 देवतायै । दक्षाय । दुध्राय । द्युम्निने नमः । ८००  
   
 ॐ द्युमन्तमाय नमः । मंहिङ्क्षष्ठारातये । इत्थाधीये । दीद्यानाय ।  

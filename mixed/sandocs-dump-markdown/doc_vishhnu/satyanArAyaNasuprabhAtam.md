@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shrimad Annavara Satyanarayana Suprabhata Stotram"
-"File name" = "satyanArAyaNasuprabhAtam.itx"
-itxtitle = "satyanArAyaNasuprabhAtam"
-engtitle = "satyanArAyaNa suprabhAtam"
-Category = "vishhnu, suprabhAta"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "suprabhAta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "February 22, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सत्यनारायणसुप्रभातम्"
+---
+Category: vishhnu, suprabhAta
+File name: satyanArAyaNasuprabhAtam.itx
+Language: Sanskrit
+Latest update: February 22, 2020
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: suprabhAta
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shrimad Annavara Satyanarayana Suprabhata Stotram
+engtitle: satyanArAyaNa suprabhAtam
+itxtitle: satyanArAyaNasuprabhAtam
+title: सत्यनारायणसुप्रभातम्
 
-+++
+---
   
  श्रीमदन्नवरसत्यनारायणसुप्रभातस्तोत्रम्   
 श्रीरस्तु ।  

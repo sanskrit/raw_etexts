@@ -1,25 +1,25 @@
-+++
-"Text title" = "veNkaTeshavajrakavacha"
-"File name" = "venkateshavajrakavacha.itx"
-itxtitle = "veNkaTeshvara vajrakavacham stotram cha"
-engtitle = "ve.nkaTeshvara vajra kavacha stotram"
-Category = "kavacha, vishhnu, venkateshwara, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Latest update" = "July 16, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेश्वर वज्रकवचम् स्तोत्रम् च"
+---
+Author: Traditional
+Category: kavacha, vishhnu, venkateshwara, vishnu
+File name: venkateshavajrakavacha.itx
+Language: Sanskrit
+Latest update: July 16, 2012
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veNkaTeshavajrakavacha
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: ve.nkaTeshvara vajra kavacha stotram
+itxtitle: veNkaTeshvara vajrakavacham stotram cha
+title: वेण्कटेश्वर वज्रकवचम् स्तोत्रम् च
 
-+++
+---
   
- श्रीवेंकटेश्वर वज्रकवचम्स्तोत्रम्   
+ श्रीवेङ्कटेश्वर वज्रकवचम्स्तोत्रम्   
   
 मार्कण्डेय उवाच -  
 नारायणं परब्रह्म सर्वकारणकारकम् ।  
@@ -30,7 +30,7 @@ title = "वेण्कटेश्वर वज्रकवचम् स्त
 आकाशराट् सुतानाथ आत्मानं मे सदावतु ।  
 देवदेवोत्तमः पाया द्देहं मे वेङ्कटेश्वरः ॥ ३॥  
   
-सर्वत्र सर्वकालेषु मंगांबाजानिरीश्वरः ।  
+सर्वत्र सर्वकालेषु मङ्गाम्बाजानिरीश्वरः ।  
 पालयेन्मां कर्मसाफल्यं सः प्रयच्छ ॥ ४॥  
   
  var  पालयेन्मामका कर्मसफल्य नः प्रयच्छतु  

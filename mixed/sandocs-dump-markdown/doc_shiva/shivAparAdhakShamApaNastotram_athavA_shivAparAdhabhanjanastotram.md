@@ -1,24 +1,24 @@
-+++
-"Text title" = "shivAparAdha kShamApana stotra"
-"File name" = "shivaaparaadha.itx"
-itxtitle = "shivAparAdhakShamApaNastotram athavA shivAparAdhabhanjanastotram"
-engtitle = "shivAparAdha kShamApana stotra"
-Category = "shiva, stotra, shankarAchArya"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. P. Narayanaswami swami at math.mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at math.mun.ca"
-Indexextra = "(text, meaning, Video, Hindi)"
-"Latest update" = "November 1, 2010, December 21, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवापराधक्षमापणस्तोत्रम् अथवा शिवापराधभञ्जनस्तोत्रम्"
+---
+Author: Shankaracharya
+Category: shiva, stotra, shankarAchArya
+File name: shivaaparaadha.itx
+Indexextra: (text, meaning, Video, Hindi)
+Language: Sanskrit
+Latest update: November 1, 2010, December 21, 2019
+Location: doc_shiva
+Proofread by: P. P. Narayanaswami swami at math.mun.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivAparAdha kShamApana stotra
+Texttype: stotra
+Transliterated by: P. P. Narayanaswami swami at math.mun.ca
+engtitle: shivAparAdha kShamApana stotra
+itxtitle: shivAparAdhakShamApaNastotram athavA shivAparAdhabhanjanastotram
+title: शिवापराधक्षमापणस्तोत्रम् अथवा शिवापराधभञ्जनस्तोत्रम्
 
-+++
+---
   
  श्रीशिवापराधक्षमापणस्तोत्रम् अथवा शिवापराधभञ्जनस्तोत्रम्   
 आदौ कर्मप्रसङ्गात्कलयति कलुषं मातृकुक्षौ स्थितं मां  

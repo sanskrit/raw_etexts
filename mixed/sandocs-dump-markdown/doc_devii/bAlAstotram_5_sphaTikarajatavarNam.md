@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Stotram  5"
-"File name" = "bAlAstotram5.itx"
-itxtitle = "bAlAstotram 5 (sphaTikarajatavarNam)"
-engtitle = "bAlAstotram 5"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालास्तोत्रम् ५ (स्फटिकरजतवर्णम्)"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAstotram5.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Stotram  5
+engtitle: bAlAstotram 5
+itxtitle: bAlAstotram 5 (sphaTikarajatavarNam)
+title: बालास्तोत्रम् ५ (स्फटिकरजतवर्णम्)
 
-+++
+---
   
  श्रीबालास्तोत्रम् ५   
 स्फटिकरजतवर्णं मौक्तिकामाल्यभूषं  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "tulasIvivAhavidhiH"
-"File name" = "tulasIvivAhavidhi.itx"
-itxtitle = "tulasIvivAhavidhiH"
-engtitle = "tulasIvivAhavidhiH"
-Category = "devii, tulasI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar"
-Indexextra = "(TulasiPuja scanned)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "June 12, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलसीविवाहविधिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: devii, tulasI, devI
+File name: tulasIvivAhavidhi.itx
+Indexextra: (TulasiPuja scanned)
+Language: Sanskrit
+Latest update: June 12, 2017
+Location: doc_devii
+Proofread by: Shree Devi Kumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulasIvivAhavidhiH
+Transliterated by: Shree Devi Kumar
+engtitle: tulasIvivAhavidhiH
+itxtitle: tulasIvivAhavidhiH
+title: तुलसीविवाहविधिः
 
-+++
+---
   
  तुलसीविवाहविधिः   
   
@@ -50,7 +50,7 @@ title = "तुलसीविवाहविधिः"
 (त्रिरुक्त्वा)  
 अनादिमध्यनिधन त्रैलोक्य प्रतिपालक ।  
 इमां गृहाण तुलसीं विवाह विधिनेश्वर ।तुलसीविवाहविधि।इन्फ़्  
-पार्वती बीजसंभूतां बृन्दाभस्मनि संस्थिताम् ।  
+पार्वती बीजसम्भूतां बृन्दाभस्मनि संस्थिताम् ।  
 अनादिमध्यनिधनां वल्लभां ते ददाम्यहम् ॥  
   
 पयोघृतैश्च सेवाभिः कन्यावद्वर्धितां मया ।  

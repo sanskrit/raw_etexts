@@ -1,21 +1,21 @@
-+++
-"Text title" = "Let my inner mind develop"
-"File name" = "mAnasaMmamavikasitaMkuru.itx"
-itxtitle = "mAnasaM mama vikasitaM kuru"
-engtitle = "mAnasaM mama vikasitaM kuru"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "original in Bengali by Rabindranath Tagore"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Text, Translation, Tagore, Audio 1, Bengali Audio 1, 2)"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मानसं मम विकसितं कुरु"
+---
+Author: original in Bengali by Rabindranath Tagore
+Category: misc, sanskritgeet
+File name: mAnasaMmamavikasitaMkuru.itx
+Indexextra: (Text, Translation, Tagore, Audio 1, Bengali Audio 1, 2)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Let my inner mind develop
+engtitle: mAnasaM mama vikasitaM kuru
+itxtitle: mAnasaM mama vikasitaM kuru
+title: मानसं मम विकसितं कुरु
 
-+++
+---
   
  मानसं मम विकसितं कुरु   
 अस्माकं शरीरं रथवत् अस्ति । पञ्च अश्वाः एनं वहन्ति-चक्षुः,  

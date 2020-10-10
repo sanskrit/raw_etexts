@@ -1,24 +1,24 @@
-+++
-"Text title" = "Vinayakastuti from Devipurana with commentary"
-"File name" = "vinAyakastutidevIpurANa.itx"
-itxtitle = "vinAyakastutiH (devIpurANAntargatA saTIpa)"
-engtitle = "Vinayakastuti from Devipurana with commentary"
-Category = "ganesha, stuti, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Translated by" = "in an article \"The vinAyakastava in the devIpurANa\" by Saswati Sen"
-Description-comments = "pages 83-89 in: A Survey of Sanskrit Stotra Literature"
-Indexextra = "(Devi Purana, Devibhagavatam)"
-"Latest update" = "August 11, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विनायकस्तुतिः (देवीपुराणान्तर्गता सटीप)"
+---
+Category: ganesha, stuti, stotra
+Description-comments: 'pages 83-89 in: A Survey of Sanskrit Stotra Literature'
+File name: vinAyakastutidevIpurANa.itx
+Indexextra: (Devi Purana, Devibhagavatam)
+Language: Sanskrit
+Latest update: August 11, 2017
+Location: doc_ganesha
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Vinayakastuti from Devipurana with commentary
+Translated by: in an article "The vinAyakastava in the devIpurANa" by Saswati Sen
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: Vinayakastuti from Devipurana with commentary
+itxtitle: vinAyakastutiH (devIpurANAntargatA saTIpa)
+title: विनायकस्तुतिः (देवीपुराणान्तर्गता सटीप)
 
-+++
+---
   
  विनायकस्तुतिः   
 देवीपुराणान्तर्गतम् सटीप  

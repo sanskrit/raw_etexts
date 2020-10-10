@@ -1,24 +1,24 @@
-+++
-"Text title" = "nAmaratnamAlAvalistotram"
-"File name" = "nAmaratnamAlAvalistotram.itx"
-itxtitle = "nAmaratnamAlAvalistotram (kRiShNarAyavirachitam)"
-engtitle = "nAmaratnamAlAvalistotram"
-Category = "vishhnu, krishna, puShTimArgIya, nAmAvalI, kRiShNarAya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "kRRiShNarAya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नामरत्नमालावलिस्तोत्रम् (कृइष्णरायविरचितम्)"
+---
+Author: kRRiShNarAya
+Category: vishhnu, krishna, puShTimArgIya, nAmAvalI, kRiShNarAya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: nAmaratnamAlAvalistotram.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nAmaratnamAlAvalistotram
+engtitle: nAmaratnamAlAvalistotram
+itxtitle: nAmaratnamAlAvalistotram (kRiShNarAyavirachitam)
+title: नामरत्नमालावलिस्तोत्रम् (कृइष्णरायविरचितम्)
 
-+++
+---
   
  नामरत्नमालावलिस्तोत्रम्   
   

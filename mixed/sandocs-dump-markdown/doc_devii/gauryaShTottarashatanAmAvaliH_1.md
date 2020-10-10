@@ -1,23 +1,23 @@
-+++
-"Text title" = "gauryashhTottarashata naamaavaliH 1"
-"File name" = "gauri108nAma.itx"
-itxtitle = "gauryaShTottarashatanAmAvaliH 1"
-engtitle = "gaurI 108 names 1"
-Category = "aShTottarashatanAmAvalI, devii, pArvatI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "Religious"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "See corresponding aShTottarashatanAmastotram"
-"Latest update" = "November 25, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गौर्यष्टोत्तरशतनामावलिः १"
+---
+Category: aShTottarashatanAmAvalI, devii, pArvatI, nAmAvalI, devI
+Description-comments: See corresponding aShTottarashatanAmastotram
+File name: gauri108nAma.itx
+Language: Sanskrit
+Latest update: November 25, 2016
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: Religious
+Sublocation: devii
+Text title: gauryashhTottarashata naamaavaliH 1
+Texttype: nAmAvalI
+engtitle: gaurI 108 names 1
+itxtitle: gauryaShTottarashatanAmAvaliH 1
+title: गौर्यष्टोत्तरशतनामावलिः १
 
-+++
+---
   
  श्रीगौर्यष्टोत्तरशतनामावलिः १   
   

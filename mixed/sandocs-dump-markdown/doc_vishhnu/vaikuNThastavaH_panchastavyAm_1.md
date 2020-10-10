@@ -1,23 +1,24 @@
-+++
-"Text title" = "vaikuNThastavaH"
-"File name" = "vaikuNThastavaH.itx"
-itxtitle = "vaikuNThastavaH (panchastavyAm 1)"
-engtitle = "vaikuNThastavaH"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji. Also from Vaishnava Stotramala"
-Indexextra = "(VSm 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वैकुण्ठस्तवः (पञ्चस्तव्याम् १)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji. Also from Vaishnava
+  Stotramala
+File name: vaikuNThastavaH.itx
+Indexextra: (VSm 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vaikuNThastavaH
+engtitle: vaikuNThastavaH
+itxtitle: vaikuNThastavaH (panchastavyAm 1)
+title: वैकुण्ठस्तवः (पञ्चस्तव्याम् १)
 
-+++
+---
   
  श्रीवैकुण्ठस्तवः   
 पञ्चस्तव्यां १ श्रीवैकुण्ठस्तवः  

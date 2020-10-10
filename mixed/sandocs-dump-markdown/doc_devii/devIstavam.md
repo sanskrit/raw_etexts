@@ -1,24 +1,24 @@
-+++
-"Text title" = "devIstava harivaMshAnubandhanam"
-"File name" = "devIstavaharivaMsha.itx"
-itxtitle = "devIstavam"
-engtitle = "Devistava"
-Category = "devii, pArvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Indexextra = "(Harivamsha)"
-"Latest update" = "Octobet 2, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीस्तवम्"
+---
+Category: devii, pArvatI, stotra, devI
+File name: devIstavaharivaMsha.itx
+Indexextra: (Harivamsha)
+Language: Sanskrit
+Latest update: Octobet 2, 2014
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIstava harivaMshAnubandhanam
+Texttype: stotra
+Transliterated by: PSA Easwaran psaeaswaran at gmail
+engtitle: Devistava
+itxtitle: devIstavam
+title: देवीस्तवम्
 
-+++
+---
   
  देवीस्तवम्   
   

@@ -1,25 +1,28 @@
-+++
-"Text title" = "premasudhAsatram"
-"File name" = "premasudhAsatram.itx"
-itxtitle = "premasudhAsatram athavA vRindAvaneshvaryA evaM rAdhikAShTottarashatanAmastotraM (rUpagosvAmivirachitam)"
-engtitle = "premasudhAsatram"
-Category = "devii, krishna, rUpagosvAmin, stavamAlA, radha, aShTottarashatanAma, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "Rupagoswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "shrIrAdhikAShTottarashatanAmastotraM From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional Prayers stavamAlA"
-Indexextra = "(Scan, Bengali, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "February 23, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रेमसुधासत्रम् अथवा वृइन्दावनेश्वर्या एवं राधिकाष्टोत्तरशतनामस्तोत्रं (रूपगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Rupagoswami
+Category: devii, krishna, rUpagosvAmin, stavamAlA, radha, aShTottarashatanAma, devI
+Description/comments: shrIrAdhikAShTottarashatanAmastotraM From stavamAlA (rUpagosvAmivirachitA)
+  Garland of Devotional Prayers stavamAlA
+File name: premasudhAsatram.itx
+Indexextra: (Scan, Bengali, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: February 23, 2019
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: premasudhAsatram
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: premasudhAsatram
+itxtitle: premasudhAsatram athavA vRindAvaneshvaryA evaM rAdhikAShTottarashatanAmastotraM
+  (rUpagosvAmivirachitam)
+title: प्रेमसुधासत्रम् अथवा वृइन्दावनेश्वर्या एवं राधिकाष्टोत्तरशतनामस्तोत्रं (रूपगोस्वामिविरचितम्)
 
-+++
+---
   
  श्रीप्रेमसुधासत्रम्   
 श्रीवृन्दावनेश्वर्या अष्टोत्तरशतनामस्तोत्रं  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "kamalAsahasranAmAvaliH"
-"File name" = "kamalAsahasranAmAvaliH.itx"
-itxtitle = "kamalAsahasranAmAvaliH"
-engtitle = "kamalAsahasranAmAvaliH"
-Category = "sahasranAmAvalI, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कमलासहस्रनामावलिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAmAvalI, devii, devI
+File name: kamalAsahasranAmAvaliH.itx
+Indexextra: (stotramanjari 2)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kamalAsahasranAmAvaliH
+Transliterated by: Shree Devi Kumar
+engtitle: kamalAsahasranAmAvaliH
+itxtitle: kamalAsahasranAmAvaliH
+title: कमलासहस्रनामावलिः
 
-+++
+---
   
  श्रीकमलासहस्रनामावलिः   
   

@@ -3,7 +3,6 @@ title: 072 Ravana s grief over Atikaya s death
 title_english: 072 Ravana s grief over Atikaya s death
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-072-Ravana_s_grief_over_Atikaya_s_death_0.mp3"></div>
 
 अतिकायं हतं श्रुत्वा लक्ष्मणेन महात्मना ।  
@@ -38,9 +37,9 @@ title_english: 072 Ravana s grief over Atikaya s death
 द्विषतां बलमुद्युक्तमापतत्किं स्थितं तथा ॥ ६-७१-१५  
 ततस्ते राक्षसाह् सर्वे श्रुत्वा लङ्काधिपस्य तत् ।  
 वचनं सर्वमातिष्ठन् यथावत्तु महाबलाः ॥ ६-७१-१६  
-स तान् सर्वान् हि संदिश्य रावणो राक्षसाधिपः ।  
+स तान् सर्वान् हि सन्दिश्य रावणो राक्षसाधिपः ।  
 मन्युशल्यम् वहन् दीनः प्रविवेश स्वमालयम् ॥ ६-७१-१७  
-ततः स संदीपितकोपपह्नि ।  
+ततः स सन्दीपितकोपपह्नि ।  
 र्निशाचराणामधिपो महाबलः ।  
 तदेव पुत्रव्यसनम् विचिन्तयन् ।  
 मुहुर्मुहुश्चैव तदा व्यनिःश्वसत् ॥ ६-७१-१८  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Bagalamukhi Kavacham 2"
-"File name" = "bagalAmukhIkavacham2.itx"
-itxtitle = "bagalAmukhIkavacham 2 (vishvasAroddhAratantrAntargatam)"
-engtitle = "bagalAmukhI kavacham 2"
-Category = "devii, kavacha, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-"Description/comments" = "shAktapramodaH"
-"Latest update" = "July 29, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बगलामुखीकवचम् २ (विश्वसारोद्धारतन्त्रान्तर्गतम्)"
+---
+Category: devii, kavacha, dashamahAvidyA, devI
+Description/comments: shAktapramodaH
+File name: bagalAmukhIkavacham2.itx
+Language: Sanskrit
+Latest update: July 29, 2018
+Location: doc_devii
+Proofread by: lalitha parameswari parameswari.lalitha at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Bagalamukhi Kavacham 2
+engtitle: bagalAmukhI kavacham 2
+itxtitle: bagalAmukhIkavacham 2 (vishvasAroddhAratantrAntargatam)
+title: बगलामुखीकवचम् २ (विश्वसारोद्धारतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीबगलामुखीकवचम् २   
   

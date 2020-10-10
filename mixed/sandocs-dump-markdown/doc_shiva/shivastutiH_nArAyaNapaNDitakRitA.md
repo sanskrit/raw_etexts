@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivastutiH narAyaNapaNDitavirachitA"
-"File name" = "shivastutinArAyaNapaNDita.itx"
-itxtitle = "shivastutiH (nArAyaNapaNDitakRitA)"
-engtitle = "Shivastuti Narayanapanditakrita"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Latest update" = "April 17, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवस्तुतिः (नारायणपण्डितकृइता)"
+---
+Category: shiva, stotra
+File name: shivastutinArAyaNapaNDita.itx
+Language: Sanskrit
+Latest update: April 17, 2013
+Location: doc_shiva
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivastutiH narAyaNapaNDitavirachitA
+Texttype: stotra
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Shivastuti Narayanapanditakrita
+itxtitle: shivastutiH (nArAyaNapaNDitakRitA)
+title: शिवस्तुतिः (नारायणपण्डितकृइता)
 
-+++
+---
   
  श्रीशिवस्तुती नारायणपण्डितकृत   
   
@@ -40,7 +40,7 @@ title = "शिवस्तुतिः (नारायणपण्डितक
 रसाघनरसानलानिलवियद्विवस्वद्विधु-  
 प्रयष्टृषु निविष्टमित्यज भजामि मूर्त्यष्टकम् ।  
 प्रशान्तमुत भीषणं भुवनमोहनं चेत्यहो  
-वपूंषि गुणपूषितेऽहमहमात्मनोऽहंभिदे ॥ ४॥  
+वपूंषि गुणपूषितेऽहमहमात्मनोऽहम्भिदे ॥ ४॥  
   
 विमुक्तिपरमाध्वनां तव पडध्वनामास्पदं  
 पदं निगमवेदिनो जगति वामदेवादयः ।  

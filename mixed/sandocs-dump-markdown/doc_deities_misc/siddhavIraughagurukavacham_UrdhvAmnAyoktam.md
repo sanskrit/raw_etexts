@@ -1,23 +1,23 @@
-+++
-"Text title" = "vIraughagurukavacham"
-"File name" = "vIraughagurukavacham.itx"
-itxtitle = "siddhavIraughagurukavacham (UrdhvAmnAyoktam)"
-engtitle = "UrdhvAmnAyokta siddha vIraughagurukavacham"
-Category = "kavacha, deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Puneet Joshi puneetrph at yahoo"
-"Proofread by" = "Puneet Joshi puneetrph at yahoo, NA"
-Description-comments = "The kavacha is mentioend in the Vishvasara tantra"
-"Latest update" = "September 1, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धवीरौघगुरुकवचम् (ऊर्ध्वाम्नायोक्तम्)"
+---
+Category: kavacha, deities_misc, gurudev
+Description-comments: The kavacha is mentioend in the Vishvasara tantra
+File name: vIraughagurukavacham.itx
+Language: Sanskrit
+Latest update: September 1, 2014
+Location: doc_deities_misc
+Proofread by: Puneet Joshi puneetrph at yahoo, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vIraughagurukavacham
+Transliterated by: Puneet Joshi puneetrph at yahoo
+engtitle: UrdhvAmnAyokta siddha vIraughagurukavacham
+itxtitle: siddhavIraughagurukavacham (UrdhvAmnAyoktam)
+title: सिद्धवीरौघगुरुकवचम् (ऊर्ध्वाम्नायोक्तम्)
 
-+++
+---
   
  ऊर्ध्वाम्नायोक्त सिद्ध वीरौघगुरुकवचम्   
   

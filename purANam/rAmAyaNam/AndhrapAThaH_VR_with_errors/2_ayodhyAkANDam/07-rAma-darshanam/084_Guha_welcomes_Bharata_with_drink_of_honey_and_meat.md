@@ -3,7 +3,6 @@ title: 084 Guha welcomes Bharata with drink of honey and meat
 title_english: 084 Guha welcomes Bharata with drink of honey and meat
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-084-Guha_Bharatha_Samvadaha.mp3"></div>
 
 ततः निविष्टाम् ध्वजिनीम् गन्गाम् अन्वाश्रिताम् नदीम् ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Samskriteh Samvardhanam"
-"File name" = "saMskRRiteHsaMvardhanaM.itx"
-itxtitle = "saMskRiteH saMvardhanaM"
-engtitle = "saMskRiteH saMvardhanaM"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "manish gavkar manishyg at gmail.com"
-"Proofread by" = "manish gavkar manishyg at gmail.com, NA"
-"Description/comments" = "Second part in the video link"
-Indexextra = "(Video)"
-"Latest update" = "April 4, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृइतेः संवर्धनं"
+---
+Category: misc, sanskritgeet
+Description/comments: Second part in the video link
+File name: saMskRRiteHsaMvardhanaM.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: April 4, 2020
+Location: doc_z_misc_general
+Proofread by: manish gavkar manishyg at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Samskriteh Samvardhanam
+Transliterated by: manish gavkar manishyg at gmail.com
+engtitle: saMskRiteH saMvardhanaM
+itxtitle: saMskRiteH saMvardhanaM
+title: संस्कृइतेः संवर्धनं
 
-+++
+---
   
  संस्कृतेः संवर्धनं   
 संस्कृतेः संवर्धनं त्वत्तः  

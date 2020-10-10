@@ -1,22 +1,23 @@
-+++
-"Text title" = "shivAShTottaranAmashatakastotram2"
-"File name" = "shivAShTottaranAmashatakastotram2.itx"
-itxtitle = "shivAShTottaranAmashatakastotram2 (skandapurANAntargatam)"
-engtitle = "shivAShTottaranAmashatakastotram2"
-Category = "aShTottarashatanAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-Source = "skandapurANe sahyAdrikhaNDe"
-"Latest update" = "January 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवाष्टोत्तरनामशतकस्तोत्रम्२ (स्कन्दपुराणान्तर्गतम्)"
+---
+Category: aShTottarashatanAma, shiva
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: shivAShTottaranAmashatakastotram2.itx
+Language: Sanskrit
+Latest update: January 19, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: skandapurANe sahyAdrikhaNDe
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivAShTottaranAmashatakastotram2
+engtitle: shivAShTottaranAmashatakastotram2
+itxtitle: shivAShTottaranAmashatakastotram2 (skandapurANAntargatam)
+title: शिवाष्टोत्तरनामशतकस्तोत्रम्२ (स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  शिवाष्टोत्तरनामशतकस्तोत्रम् २   
   

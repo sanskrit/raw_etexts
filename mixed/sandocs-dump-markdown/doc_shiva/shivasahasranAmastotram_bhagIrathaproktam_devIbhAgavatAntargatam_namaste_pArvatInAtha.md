@@ -1,23 +1,24 @@
-+++
-"Text title" = "shivasahasranAmastotra from devIbhAgavata"
-"File name" = "shivasahasranAmastotradevIbhAgavata.itx"
-itxtitle = "shivasahasranAmastotram (bhagIrathaproktam devIbhAgavatAntargatam namaste pArvatInAtha)"
-engtitle = "shivasahasranAmastotram from devIbhAgavata"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD, Nithesh Bharadwaj Sivakumar"
-"Description/comments" = "bhagIrathakRitam  shrImahAdevIbhAgavata upapurANe"
-Indexextra = "(mahAdevIbhAgavata)"
-"Latest update" = "March 31, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसहस्रनामस्तोत्रम् (भगीरथप्रोक्तम् देवीभागवतान्तर्गतम् नमस्ते पार्वतीनाथ)"
+---
+Category: sahasranAma, shiva
+Description/comments: bhagIrathakRitam  shrImahAdevIbhAgavata upapurANe
+File name: shivasahasranAmastotradevIbhAgavata.itx
+Indexextra: (mahAdevIbhAgavata)
+Language: Sanskrit
+Latest update: March 31, 2018
+Location: doc_shiva
+Proofread by: DPD, Nithesh Bharadwaj Sivakumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivasahasranAmastotra from devIbhAgavata
+Transliterated by: DPD
+engtitle: shivasahasranAmastotram from devIbhAgavata
+itxtitle: shivasahasranAmastotram (bhagIrathaproktam devIbhAgavatAntargatam namaste
+  pArvatInAtha)
+title: शिवसहस्रनामस्तोत्रम् (भगीरथप्रोक्तम् देवीभागवतान्तर्गतम् नमस्ते पार्वतीनाथ)
 
-+++
+---
   
  श्रीशिवसहस्रनामस्तोत्रम् देवीभागवतान्तर्गतम्   
 भगीरथकृतं  श्रीमहादेवीभागवत उपपुराणे  
@@ -450,7 +451,7 @@ title = "शिवसहस्रनामस्तोत्रम् (भगी
 ततश्चान्तर्दधे देवः क्षणादेव महामते ।  
 राजा निर्वृत्तचेताः स बभूव मुनिसत्तम ॥ १३७॥  
   
-राज्ञा कृतमिदं स्तोत्रं सहस्रनामसंज्ञकम् ।  
+राज्ञा कृतमिदं स्तोत्रं सहस्रनामसञ्ज्ञकम् ।  
 यः पठेत्परया भक्त्या स कैवल्यमवाप्नुयात् ॥ १३८॥  
   
 न चेह दुःखं कुत्रापि जायते तस्य नारद ।  

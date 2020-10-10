@@ -1,23 +1,24 @@
-+++
-"Text title" = "subrahmaNya sahasranaamaavalI"
-"File name" = "subra1000naama.itx"
-itxtitle = "subrahmaNyasahasranAmAvalI"
-engtitle = "subrahmaNya sahasranAmAvalI"
-Category = "sahasranAmAvalI, subrahmanya, nAmAvalI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "KSR Ramachandran kalksr at gmail.com"
-"Proofread by" = "KSR Ramachandran kalksr at gmail.com, T N Ramakrishnan tnrk64 at gmail.com, Sivakumar"
-Description-comments = "From skaanda mahaapuraaNa, from sahasranAma stotra"
-"Latest update" = "June 13, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यसहस्रनामावली"
+---
+Category: sahasranAmAvalI, subrahmanya, nAmAvalI
+Description-comments: From skaanda mahaapuraaNa, from sahasranAma stotra
+File name: subra1000naama.itx
+Language: Sanskrit
+Latest update: June 13, 2010
+Location: doc_subrahmanya
+Proofread by: KSR Ramachandran kalksr at gmail.com, T N Ramakrishnan tnrk64 at gmail.com,
+  Sivakumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNya sahasranaamaavalI
+Texttype: nAmAvalI
+Transliterated by: KSR Ramachandran kalksr at gmail.com
+engtitle: subrahmaNya sahasranAmAvalI
+itxtitle: subrahmaNyasahasranAmAvalI
+title: सुब्रह्मण्यसहस्रनामावली
 
-+++
+---
   
  श्रीसुब्रह्मण्यसहस्रनामावली   
      ध्यानम् -  

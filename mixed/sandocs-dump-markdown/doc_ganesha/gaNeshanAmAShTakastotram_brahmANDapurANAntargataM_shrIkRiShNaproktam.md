@@ -1,21 +1,21 @@
-+++
-"Text title" = "gaNeshanAmAShTakastotram from Brahmanda Purana 2.42"
-"File name" = "gaNeshanAmAShTakastotram.itx"
-itxtitle = "gaNeshanAmAShTakastotram (brahmANDapurANAntargataM shrIkRiShNaproktam)"
-engtitle = "gaNeshanAmAShTakastotram from Brahmanda Purana 2.42"
-Category = "ganesha, aShTaka"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Description/comments" = "Brahmanda Purana Verses 2.42.28 through 2.42.44"
-"Latest update" = "August 24, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशनामाष्टकस्तोत्रम् (ब्रह्माण्डपुराणान्तर्गतं श्रीकृइष्णप्रोक्तम्)"
+---
+Category: ganesha, aShTaka
+Description/comments: Brahmanda Purana Verses 2.42.28 through 2.42.44
+File name: gaNeshanAmAShTakastotram.itx
+Language: Sanskrit
+Latest update: August 24, 2018
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshanAmAShTakastotram from Brahmanda Purana 2.42
+engtitle: gaNeshanAmAShTakastotram from Brahmanda Purana 2.42
+itxtitle: gaNeshanAmAShTakastotram (brahmANDapurANAntargataM shrIkRiShNaproktam)
+title: गणेशनामाष्टकस्तोत्रम् (ब्रह्माण्डपुराणान्तर्गतं श्रीकृइष्णप्रोक्तम्)
 
-+++
+---
   
  श्रीगणेशनामाष्टकस्तोत्रं   
 श्रीकृष्ण उवाच -  

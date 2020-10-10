@@ -1,24 +1,24 @@
-+++
-"Text title" = "trailokyamohanakaaliikavacham"
-"File name" = "trailokyamohanakaaliikavacham.itx"
-itxtitle = "trailokyamohanakAlIkavacham"
-engtitle = "trailokyamohanakAlIkavacham"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale deviishankarasa.nvAde"
-"Latest update" = "May, 01, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रैलोक्यमोहनकालीकवचम्"
+---
+Author: Traditional
+Category: kavacha, devii, dashamahAvidyA, devI
+Description-comments: rudrayAmale deviishankarasa.nvAde
+File name: trailokyamohanakaaliikavacham.itx
+Language: Sanskrit
+Latest update: May, 01, 2006
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: trailokyamohanakaaliikavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: trailokyamohanakAlIkavacham
+itxtitle: trailokyamohanakAlIkavacham
+title: त्रैलोक्यमोहनकालीकवचम्
 
-+++
+---
   
  त्रैलोक्यमोहनकालीकवचम्   
   
@@ -110,7 +110,7 @@ title = "त्रैलोक्यमोहनकालीकवचम्"
 मांसं पातु सदा ह्रीं ह्रीं रक्तं दक्षिणे कालिके ॥ २७॥  
   
 क्रीं क्रीं क्रीं पातु मे अस्थिमज्जां हूँ हूँ सदावतु ।  
-ह्रीं ह्रीं शुक्रं सदा पातु रंध्रं स्वाहा ममावतु ॥ २८॥  
+ह्रीं ह्रीं शुक्रं सदा पातु रन्ध्रं स्वाहा ममावतु ॥ २८॥  
   
 द्वाविंशत्यक्षरी विद्या सर्वलोकेषु दुर्लभा ।  
 महाविद्येश्वरी विद्या सर्वतन्त्रेषु गोपिता ॥ २९॥  

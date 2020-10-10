@@ -1,22 +1,23 @@
-+++
-"Text title" = "vibhiShaNagItA adhyAtmarAmayaNe"
-"File name" = "vibhIShaNagItAadhyAtmarAmayaNa.itx"
-itxtitle = "vibhIShaNagItA (adhyAtmarAmAyaNAntargatA)"
-engtitle = "Vibhishanagita from Adhyatmaramayana"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Vibhishanagita – from Adhyatmaramayana Yuddha Kanda – 3rd Sarga – Slokas 13 to 37"
-"Latest update" = "May 30, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विभीषणगीता (अध्यात्मरामायणान्तर्गता)"
+---
+Category: gItA, giitaa
+Description-comments: Vibhishanagita – from Adhyatmaramayana Yuddha Kanda – 3rd Sarga
+  – Slokas 13 to 37
+File name: vibhIShaNagItAadhyAtmarAmayaNa.itx
+Language: Sanskrit
+Latest update: May 30, 2013
+Location: doc_giitaa
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: vibhiShaNagItA adhyAtmarAmayaNe
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Vibhishanagita from Adhyatmaramayana
+itxtitle: vibhIShaNagItA (adhyAtmarAmAyaNAntargatA)
+title: विभीषणगीता (अध्यात्मरामायणान्तर्गता)
 
-+++
+---
   
  विभीषणगीता अध्यात्मरामायणे   
   
@@ -93,7 +94,7 @@ title = "विभीषणगीता (अध्यात्मरामाय
 कर्मबन्धविनाशाय त्वज्ज्ञानं भक्तिलक्षणम् ।  
 त्वद्ध्यानं परमार्थं च देहि मे रघुनन्दन ॥ ३६॥  
   
-न याचे राम राजेन्द्र सुखं विषयसंभवम् ।  
+न याचे राम राजेन्द्र सुखं विषयसम्भवम् ।  
 त्वत्पादकमले सक्ता भक्तिरेव सदास्तु मे ॥ ३७॥  
   
   

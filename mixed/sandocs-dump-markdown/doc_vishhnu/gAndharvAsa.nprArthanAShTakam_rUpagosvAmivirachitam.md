@@ -1,27 +1,29 @@
-+++
-"Text title" = "gAndharvAsa.nprArthanAShTakam"
-"File name" = "gAndharvAsa.nprArthanAShTakam.itx"
-itxtitle = "gAndharvAsa.nprArthanAShTakam (rUpagosvAmivirachitam)"
-engtitle = "gAndharvAsa.nprArthanAShTakam"
-Category = "vishhnu, krishna, rUpagosvAmin, stavamAlA, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Rupagoswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional Prayers stavamAlA"
-Indexextra = "(Scan, Bengali, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गान्धर्वासंप्रार्थनाष्टकम् (रूपगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Rupagoswami
+Category: vishhnu, krishna, rUpagosvAmin, stavamAlA, aShTaka
+Description/comments: From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional
+  Prayers stavamAlA
+File name: gAndharvAsa.nprArthanAShTakam.itx
+Indexextra: (Scan, Bengali, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gAndharvAsa.nprArthanAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: gAndharvAsa.nprArthanAShTakam
+itxtitle: gAndharvAsa.nprArthanAShTakam (rUpagosvAmivirachitam)
+title: गान्धर्वासंप्रार्थनाष्टकम् (रूपगोस्वामिविरचितम्)
 
-+++
+---
   
- श्रीगान्धर्वासंप्रार्थनाष्टकम्   
+ श्रीगान्धर्वासम्प्रार्थनाष्टकम्   
 श्रीश्रीगान्धर्विकायै नमः ।  
 वृन्दावने विहरतोरिह किलेकुञ्जे  
      मत्तद्विपप्रवरकौतुकविभ्रमेण ।  
@@ -64,12 +66,12 @@ title = "गान्धर्वासंप्रार्थनाष्ट�
      स्तोत्रां कदा नु भवतीमवलोकयिष्ये ॥ ८॥  
   
 यः कोऽपि सुष्ठु वृषभानुकुमारिकायाः  
-     संप्रार्थनाष्टकमिदं पठति प्रपन्नः ।  
+     सम्प्रार्थनाष्टकमिदं पठति प्रपन्नः ।  
 सा प्रेयसा सह समेत्य धृतप्रमोदा  
      तत्र प्रसादलहरीमुररीकरोति ॥ ९॥  
   
 इति श्रीरूपगोस्वामिविरचितस्तवमालायां  
-            श्रीगान्धर्वासंप्रार्थनाष्टकं सम्पूर्णम् ।  
+            श्रीगान्धर्वासम्प्रार्थनाष्टकं सम्पूर्णम् ।  
   
   
   

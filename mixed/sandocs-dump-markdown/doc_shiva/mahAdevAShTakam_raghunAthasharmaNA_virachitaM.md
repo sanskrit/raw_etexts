@@ -1,22 +1,23 @@
-+++
-"Text title" = "mahAdevAShTakam"
-"File name" = "mahAdevAShTakam.itx"
-itxtitle = "mahAdevAShTakam (raghunAthasharmaNA virachitaM)"
-engtitle = "mahAdevAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Raghunathasharma"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महादेवाष्टकम् (रघुनाथशर्मणा विरचितं)"
+---
+Author: Raghunathasharma
+Category: aShTaka, shiva
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: mahAdevAShTakam.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mahAdevAShTakam
+engtitle: mahAdevAShTakam
+itxtitle: mahAdevAShTakam (raghunAthasharmaNA virachitaM)
+title: महादेवाष्टकम् (रघुनाथशर्मणा विरचितं)
 
-+++
+---
   
  महादेवाष्टकम्   
   

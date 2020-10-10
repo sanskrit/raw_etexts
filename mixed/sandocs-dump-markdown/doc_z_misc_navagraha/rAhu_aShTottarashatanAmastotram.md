@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAhu aShTottarashatanAma stotraM"
-"File name" = "rAhu108nAmastotra.itx"
-itxtitle = "rAhu aShTottarashatanAmastotram"
-engtitle = "rAhu aShTottarashatanAma stotram"
-Category = "aShTottarashatanAma, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manda Krishna Srikanth mandaksk at gmail.com"
-"Proofread by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca, PSA Easwaran"
-"Latest update" = "November 19, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राहु अष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, navagraha, stotra
+File name: rAhu108nAmastotra.itx
+Language: Sanskrit
+Latest update: November 19, 2012
+Location: doc_z_misc_navagraha
+Proofread by: KSR Ramachandran ramachandran_ksr at yahoo.ca, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: rAhu aShTottarashatanAma stotraM
+Texttype: stotra
+Transliterated by: Manda Krishna Srikanth mandaksk at gmail.com
+engtitle: rAhu aShTottarashatanAma stotram
+itxtitle: rAhu aShTottarashatanAmastotram
+title: राहु अष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीराहु अष्टोत्तरशतनामस्तोत्रम्   
   

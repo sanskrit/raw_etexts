@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrimadbhAgavatAntargataM rudragIta"
-"File name" = "rudragIta.itx"
-itxtitle = "rudragItam (bhAgavatAntargatam)"
-engtitle = "Rudragita from Shrimadbhagavatam"
-Category = "gItam, giitaa, vyAsa, shiva"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "maharShi vyAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Bhagavatam skanda 4 adhyAya 24"
-Indexextra = "(meaning Bhagavatam 4.24)"
-"Latest update" = "November 10, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रगीतम् (भागवतान्तर्गतम्)"
+---
+Author: maharShi vyAsa
+Category: gItam, giitaa, vyAsa, shiva
+Description-comments: Bhagavatam skanda 4 adhyAya 24
+File name: rudragIta.itx
+Indexextra: (meaning Bhagavatam 4.24)
+Language: Sanskrit
+Latest update: November 10, 2012
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: shrimadbhAgavatAntargataM rudragIta
+engtitle: Rudragita from Shrimadbhagavatam
+itxtitle: rudragItam (bhAgavatAntargatam)
+title: रुद्रगीतम् (भागवतान्तर्गतम्)
 
-+++
+---
   
  श्रीमद्भागवतान्तर्गतम् रुद्रगीतम्   
   
@@ -25,9 +25,9 @@ title = "रुद्रगीतम् (भागवतान्तर्गत
 यवीयोभ्योऽददात्काष्ठा भ्रातृभ्यो भ्रातृवत्सलः ॥ ४.२४.०१॥  
   
 हर्यक्षायादिशत्प्राचीं धूम्रकेशाय दक्षिणाम् ।  
-प्रतीचीं वृकसंज्ञाय तुर्यां द्रविणसे विभुः ॥ ४.२४.०२॥  
+प्रतीचीं वृकसञ्ज्ञाय तुर्यां द्रविणसे विभुः ॥ ४.२४.०२॥  
   
-अन्तर्धानगतिं शक्राल्लब्ध्वान्तर्धानसंज्ञितः ।  
+अन्तर्धानगतिं शक्राल्लब्ध्वान्तर्धानसञ्ज्ञितः ।  
 अपत्यत्रयमाधत्त शिखण्डिन्यां सुसम्मतम् ॥ ४.२४.०३॥  
   
 पावकः पवमानश्च शुचिरित्यग्नयः पुरा ।  
@@ -106,7 +106,7 @@ title = "रुद्रगीतम् (भागवतान्तर्गत
 यूयं वेदिषदः पुत्रा विदितं वश्चिकीर्षितम् ।  
 अनुग्रहाय भद्रं व एवं मे दर्शनं कृतम् ॥ ४.२४.२७॥  
   
-यः परं रंहसः साक्षात्त्रिगुणाज्जीवसंज्ञितात् ।  
+यः परं रंहसः साक्षात्त्रिगुणाज्जीवसञ्ज्ञितात् ।  
 भगवन्तं वासुदेवं प्रपन्नः स प्रियो हि मे ॥ ४.२४.२८॥  
   
 स्वधर्मनिष्ठः शतजन्मभिः पुमान्विरिञ्चतामेति ततः परं हि माम् ।  

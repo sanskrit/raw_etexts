@@ -1,23 +1,23 @@
-+++
-"Text title" = "Paramashiva PancharatnastutiH"
-"File name" = "pancharatnastuti.itx"
-itxtitle = "pancharatnastutiH"
-engtitle = "pancharatnastutiH"
-Category = "pancharatna, shiva, appayya-dIkShita"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "appayya dIxita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-"Latest update" = "July 25,  2005 May 27, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पञ्चरत्नस्तुतिः"
+---
+Author: appayya dIxita
+Category: pancharatna, shiva, appayya-dIkShita
+File name: pancharatnastuti.itx
+Language: Sanskrit
+Latest update: July 25,  2005 May 27, 2007
+Location: doc_shiva
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Paramashiva PancharatnastutiH
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: pancharatnastutiH
+itxtitle: pancharatnastutiH
+title: पञ्चरत्नस्तुतिः
 
-+++
+---
   
  पञ्चरत्नस्तुती   
   
@@ -74,12 +74,12 @@ his liberal mind. He was, in fact, a true advaitin.
 वेदान्तेषु प्रथमभवनं वर्णितं यस्य याभ्यां  
 तद्वत्तस्य प्रसववचसा जन्म तत्ख्यापयित्वा ।  
 यस्यैकस्य स्फुटमजनिता निश्चिता कारणस्य  
-ध्यायामस्तं जनिविहतये शंभुमाकाशमध्ये ॥ ३॥  
+ध्यायामस्तं जनिविहतये शम्भुमाकाशमध्ये ॥ ३॥  
   
 यद्भ्रूभङ्गैकवश्या विधिहरिगिरिशख्यातिदाः शक्तिकोट्यो  
-यद्भृत्या देवदेवाः सकलभुवनगाः संनियच्छन्ति विश्वम् ।  
+यद्भृत्या देवदेवाः सकलभुवनगाः सन्नियच्छन्ति विश्वम् ।  
 यल्लिङ्गं सर्वदेवासुरमनुजमुखैरर्च्यते विश्वरूपं  
-तस्मै नित्यं नमस्यां प्रवितनुत परब्रह्मणे शंकराय ॥ ४॥  
+तस्मै नित्यं नमस्यां प्रवितनुत परब्रह्मणे शङ्कराय ॥ ४॥  
   
 आस्यं सूक्ष्मं लिङ्गरूपत्वलिङ्गं  
 स्याद्ब्रह्मेशानाख्ययैवाल्पमात्रम् ।  
@@ -87,7 +87,7 @@ his liberal mind. He was, in fact, a true advaitin.
 यं ब्रह्माख्यं तं प्रपद्ये महेशम् ॥ ५॥  
   
 इति श्रीमदप्पय्यदीक्षितसार्वभौमैः  
-विरचिता पञ्चरत्नस्तुतिः संपूर्णा ॥  
+विरचिता पञ्चरत्नस्तुतिः सम्पूर्णा ॥  
   
   
 Encoded, proofread, and comments by  

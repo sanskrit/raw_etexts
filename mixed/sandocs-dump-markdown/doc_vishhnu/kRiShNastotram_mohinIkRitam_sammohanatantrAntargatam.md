@@ -1,22 +1,22 @@
-+++
-"Text title" = "mohinI rachita stotra"
-"File name" = "mohinikrishnastotra.itx"
-itxtitle = "kRiShNastotram (mohinIkRitam sammohanatantrAntargatam)"
-engtitle = "mohinI rachita stotra"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, Aruna Narayanan"
-"Latest update" = "January 16, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (मोहिनीकृइतम् सम्मोहनतन्त्रान्तर्गतम्)"
+---
+Category: vishhnu, krishna, stotra, vishnu
+File name: mohinikrishnastotra.itx
+Language: Sanskrit
+Latest update: January 16, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, Aruna Narayanan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: mohinI rachita stotra
+Texttype: stotra
+engtitle: mohinI rachita stotra
+itxtitle: kRiShNastotram (mohinIkRitam sammohanatantrAntargatam)
+title: कृइष्णस्तोत्रम् (मोहिनीकृइतम् सम्मोहनतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीकृष्णस्तोत्रं मोहिनीरचितम्   
   

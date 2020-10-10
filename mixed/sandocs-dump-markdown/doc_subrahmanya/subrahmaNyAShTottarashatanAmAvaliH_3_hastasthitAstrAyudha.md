@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Surahmanya Ashtottarashatanamavali 3 Hastasthita AstrAyudha 108 Names"
-"File name" = "subrahmaNyahastasthitAstrAyudhAShTottarashatanAmAvaliH.itx"
-itxtitle = "subrahmaNyAShTottarashatanAmAvaliH 3 hastasthitAstrAyudha"
-engtitle = "subrahmaNyahastasthitAstrAyudhAShTottarashatanAmAvaliH"
-Category = "subrahmanya, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Raman karthik.raman at gmail.com"
-"Proofread by" = "Karthik Raman karthik.raman at gmail.com"
-Indexextra = "(audio)"
-"Latest update" = "May 26, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्याष्टोत्तरशतनामावलिः ३ हस्तस्थितास्त्रायुध"
+---
+Category: subrahmanya, aShTottarashatanAmAvalI, nAmAvalI
+File name: subrahmaNyahastasthitAstrAyudhAShTottarashatanAmAvaliH.itx
+Indexextra: (audio)
+Language: Sanskrit
+Latest update: May 26, 2019
+Location: doc_subrahmanya
+Proofread by: Karthik Raman karthik.raman at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Shri Surahmanya Ashtottarashatanamavali 3 Hastasthita AstrAyudha 108 Names
+Transliterated by: Karthik Raman karthik.raman at gmail.com
+engtitle: subrahmaNyahastasthitAstrAyudhAShTottarashatanAmAvaliH
+itxtitle: subrahmaNyAShTottarashatanAmAvaliH 3 hastasthitAstrAyudha
+title: सुब्रह्मण्याष्टोत्तरशतनामावलिः ३ हस्तस्थितास्त्रायुध
 
-+++
+---
   
  श्रीसुब्रह्मण्यस्य हस्तस्थितस्य अस्त्रायुध अष्टोत्तरशतनामावलिः   
 ॐ सुब्रह्मण्यहस्ताम्बुजास्त्राय नमः । गुहास्त्राय । ब्रह्मास्त्राय ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "viShNupanjara from vAmanapurANa"
-"File name" = "viShNupanjaravAmanapurANa.itx"
-itxtitle = "viShNupanjarastotram (vAmanapurANAntargatam)"
-engtitle = "Vishnupanjara from VamanapurAna"
-Category = "vishhnu, panjara"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Source = "Vamana Purana adhyAya 17 shloka 25-38"
-Indexextra = "(vAmanapurANa 1, 2 Hindi, 3 Translation)"
-"Latest update" = "April 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुपञ्जरस्तोत्रम् (वामनपुराणान्तर्गतम्)"
+---
+Category: vishhnu, panjara
+File name: viShNupanjaravAmanapurANa.itx
+Indexextra: (vAmanapurANa 1, 2 Hindi, 3 Translation)
+Language: Sanskrit
+Latest update: April 14, 2018
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Vamana Purana adhyAya 17 shloka 25-38
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNupanjara from vAmanapurANa
+engtitle: Vishnupanjara from VamanapurAna
+itxtitle: viShNupanjarastotram (vAmanapurANAntargatam)
+title: विष्णुपञ्जरस्तोत्रम् (वामनपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णुपञ्जरस्तोत्रं वामनपुराणे   
 पुलस्त्य उवाच --  
@@ -71,10 +71,10 @@ title = "विष्णुपञ्जरस्तोत्रम् (वाम
 Vamanapurana 17.25-17.38  
   
   
-हिंदी अनुवाद --  
+हिन्दी अनुवाद --  
   
 पुलस्त्यजी बोले --  
-नारद ! यहाँतक मैंने तुमसे सकाम व्रतोंका वर्णन किया है ।  
+नारद ! यहाँतक मैन्ने तुमसे सकाम व्रतोङ्का वर्णन किया है ।  
 अब मैं कल्याणकारी विष्णुपञ्जर स्तोत्रको कहूँगा । ( वह इस  
 प्रकार है - ) गोविन्द ! आपको नमस्कर है । आप सुदर्शनचक्र  
 लेकर मेरी पूर्व दिशामें रक्षा करें । विष्णो ! मैं आपकी शरणमें  
@@ -103,10 +103,10 @@ Vamanapurana 17.25-17.38
 ( जोडो ) आदिमें मेरी रक्षा करें । देव ! आपको नमस्कार है ॥३३ -  
 ३६॥ ९-१२  
   
-द्विजोत्तम ! प्राचीन कालमें भगवान् शंकरने कात्यायनी ( दुर्गा )  
+द्विजोत्तम ! प्राचीन कालमें भगवान् शङ्करने कात्यायनी ( दुर्गा )  
 - की रक्षाके लिये इस महान् विष्णुपञ्जरस्तोत्रको उस स्थानपर कहा  
-था, जहाँ उन्होंने महिषासुर, नमर, रक्तबीज एवं अन्यान्य देव -  
-शत्रुओंका नाश किया था ॥३७ - ३८॥ १३-१४  
+था, जहाँ उन्होन्ने महिषासुर, नमर, रक्तबीज एवं अन्यान्य देव -  
+शत्रुओङ्का नाश किया था ॥३७ - ३८॥ १३-१४  
   
   
 Pulastya said  

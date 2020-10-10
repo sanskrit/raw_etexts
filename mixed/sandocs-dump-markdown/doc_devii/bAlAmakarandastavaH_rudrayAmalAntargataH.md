@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Makaranda Stava"
-"File name" = "bAlAmakarandastavaH.itx"
-itxtitle = "bAlAmakarandastavaH (rudrayAmalAntargataH)"
-engtitle = "bAlAmakarandastavaH"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH, rudrayAmala"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालामकरन्दस्तवः (रुद्रयामलान्तर्गतः)"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH, rudrayAmala
+File name: bAlAmakarandastavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Makaranda Stava
+engtitle: bAlAmakarandastavaH
+itxtitle: bAlAmakarandastavaH (rudrayAmalAntargataH)
+title: बालामकरन्दस्तवः (रुद्रयामलान्तर्गतः)
 
-+++
+---
   
  श्रीबालामकरन्दस्तवः   
 श्रीरुद्र उवाच-  
@@ -25,7 +25,7 @@ title = "बालामकरन्दस्तवः (रुद्रयाम
 गोप्याद्गोप्यतरं गोप्यं महाकौतूहलं परम् ॥ १॥  
   
 बालायाः परमेशान्याः स्तोत्रचूडामणिः शिवे ।  
-मकरन्दस्य स्तोत्रस्य ऋषिर्नारदसंज्ञकः ॥ २॥  
+मकरन्दस्य स्तोत्रस्य ऋषिर्नारदसञ्ज्ञकः ॥ २॥  
   
 छन्दोऽनुष्टुपुदाख्यातं श्रीबाला देवता स्मृता ।  
 ऐं बीजं शक्तिः सौः प्रोक्तं कीलकं क्लीं तथैव च ॥ ३॥  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "ranganAthapanchakam"
-"File name" = "ranganAthapanchakam.itx"
-itxtitle = "raNganAthapanchakam"
-engtitle = "ranganAthapanchakam"
-Category = "vishhnu, panchaka, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "sarasa stotrasangrahaH (Lucknow, 1909)"
-Indexextra = "(Scanned)"
-"Latest update" = "November 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रण्गनाथपञ्चकम्"
+---
+Category: vishhnu, panchaka, vishnu
+Description-comments: sarasa stotrasangrahaH (Lucknow, 1909)
+File name: ranganAthapanchakam.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 4, 2017
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ranganAthapanchakam
+engtitle: ranganAthapanchakam
+itxtitle: raNganAthapanchakam
+title: रण्गनाथपञ्चकम्
 
-+++
+---
   
  श्रीरङ्गनाथपञ्चकं स्तोत्रम्   
 कदाहं कावेरीतटपरिसरे रङ्गनगरे  

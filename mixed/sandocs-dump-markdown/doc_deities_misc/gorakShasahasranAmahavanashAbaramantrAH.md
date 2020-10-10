@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrIgorakShasahasranAmahavanashAbaramantrAH"
-"File name" = "gorakShasahasranAmahavanashAbaramantrAH.itx"
-itxtitle = "gorakShasahasranAmahavanashAbaramantrAH"
-engtitle = "gorakShasahasranAmahavanashAbaramantrAH"
-Category = "sahasranAma, deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Hindi"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Description-comments = "shAbaramantrAH, havanamantrAH"
-"Latest update" = "July 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोरक्षसहस्रनामहवनशाबरमन्त्राः"
+---
+Category: sahasranAma, deities_misc, stotra
+Description-comments: shAbaramantrAH, havanamantrAH
+File name: gorakShasahasranAmahavanashAbaramantrAH.itx
+Language: Hindi
+Latest update: July 28, 2017
+Location: doc_deities_misc
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shrIgorakShasahasranAmahavanashAbaramantrAH
+Texttype: stotra
+Transliterated by: DPD
+engtitle: gorakShasahasranAmahavanashAbaramantrAH
+itxtitle: gorakShasahasranAmahavanashAbaramantrAH
+title: गोरक्षसहस्रनामहवनशाबरमन्त्राः
 
-+++
+---
   
  श्री गोरक्ष सहस्रनाम हवन शाबर मन्त्राः   
 ॐ गो सेवी नमो स्वाहा । ।  
@@ -1037,7 +1037,7 @@ title = "गोरक्षसहस्रनामहवनशाबरमन�
   
 पञ्च अग्निपाठ तथा हवन  
 हवन - गौघृत, साकल्य, पञ्चामृत, खीर इत्यादि हवनीय सामग्री  
-दिशा - अग्नेय, मुद्रा - शुकरी, सङ्ख्या - पांच बार या एकसोआठ बार  
+दिशा - अग्नेय, मुद्रा - शुकरी, सङ्ख्या - पाञ्च बार या एकसोआठ बार  
   
 सत नमो आदेश । गुरुजी को आदेश । ॐ गुरु जी । ॐ मूल अग्नि  
 को नमो आदेश । ॐ मूल अग्नि का रेचक नाम । सोखले रक्त पीत  

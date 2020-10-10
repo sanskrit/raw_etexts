@@ -1,21 +1,21 @@
-+++
-"Text title" = "shAradA prArthanA with Engilsh meaning"
-"File name" = "sharada.itx"
-itxtitle = "shAradAprArthanA athavA sarasvatIstutiH sArthA (shaNkarAchArya)"
-engtitle = "Prayer to Goddess ShAradA"
-Category = "devii, sarasvatI, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "August 20, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदाप्रार्थना अथवा सरस्वतीस्तुतिः सार्था (शण्कराचार्य)"
+---
+Author: Shankaracharya
+Category: devii, sarasvatI, shankarAchArya, devI
+File name: sharada.itx
+Language: Sanskrit
+Latest update: August 20, 1999
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradA prArthanA with Engilsh meaning
+engtitle: Prayer to Goddess ShAradA
+itxtitle: shAradAprArthanA athavA sarasvatIstutiH sArthA (shaNkarAchArya)
+title: शारदाप्रार्थना अथवा सरस्वतीस्तुतिः सार्था (शण्कराचार्य)
 
-+++
+---
   
  श्रीशारदाप्रार्थना अथवा सरस्वतीस्तुतिः   
   

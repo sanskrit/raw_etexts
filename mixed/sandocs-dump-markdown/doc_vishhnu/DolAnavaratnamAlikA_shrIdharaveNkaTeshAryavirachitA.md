@@ -1,24 +1,24 @@
-+++
-"Text title" = "DolAnavaratnamAlikA"
-"File name" = "DolAnavaratnamAlikA.itx"
-itxtitle = "DolAnavaratnamAlikA (shrIdharaveNkaTeshAryavirachitA)"
-engtitle = "DolAnavaratnamAlikA"
-Category = "vishhnu, nava, shrIdhara-venkaTesha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Shridharavenkatesa of Tiruvisanallur or Ayyaval with respect"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "डोलानवरत्नमालिका (श्रीधरवेण्कटेशार्यविरचिता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: Shridharavenkatesa of Tiruvisanallur or Ayyaval with respect
+Category: vishhnu, nava, shrIdhara-venkaTesha
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: DolAnavaratnamAlikA.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: DolAnavaratnamAlikA
+engtitle: DolAnavaratnamAlikA
+itxtitle: DolAnavaratnamAlikA (shrIdharaveNkaTeshAryavirachitA)
+title: डोलानवरत्नमालिका (श्रीधरवेण्कटेशार्यविरचिता)
 
-+++
+---
   
  डोलानवरत्नमालिका   
   

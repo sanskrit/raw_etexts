@@ -1,32 +1,32 @@
-+++
-"Text title" = "sudarshana chakrarAjamangalam"
-"File name" = "chakrarAjamangalam.itx"
-itxtitle = "chakrarAjamaNgalam"
-engtitle = "chakrarAja mangaLam"
-Category = "deities_misc, stotra, mangala"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Usha Iyer iyerku at gmail.com"
-"Proofread by" = "Usha Iyer iyerku at gmail.com"
-"Latest update" = "January 23, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चक्रराजमण्गलम्"
+---
+Category: deities_misc, stotra, mangala
+File name: chakrarAjamangalam.itx
+Language: Sanskrit
+Latest update: January 23, 2011
+Location: doc_deities_misc
+Proofread by: Usha Iyer iyerku at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: sudarshana chakrarAjamangalam
+Texttype: stotra
+Transliterated by: Usha Iyer iyerku at gmail.com
+engtitle: chakrarAja mangaLam
+itxtitle: chakrarAjamaNgalam
+title: चक्रराजमण्गलम्
 
-+++
+---
   
  श्रीचक्रराज मङ्गळम्   
   
 मङ्गळं चक्रराजाय महनीय गुणाब्धये   
-पद्मनाभ करांभोज परिष्काराय मङ्गळम् ॥ १॥  
+पद्मनाभ कराम्भोज परिष्काराय मङ्गळम् ॥ १॥  
   
 काशी विप्लोषकाराय कल्याणगुण शालिने ।  
 मालि प्रमथनायास्तु महाधीराय मङ्गळम् ॥ २॥  
   
-गजेंद्रार्ति हरायास्थु ग्राह द्वेधाद्वकारिणे ।  
+गजेन्द्रार्ति हरायास्थु ग्राह द्वेधाद्वकारिणे ।  
 दिनाधीश तिरोधान कर्त्रे दीप्ताय मङ्गळम् ॥ ३॥  
   
 चित्राकार स्वचाराय चित्त निर्वृति कारिणे ।  

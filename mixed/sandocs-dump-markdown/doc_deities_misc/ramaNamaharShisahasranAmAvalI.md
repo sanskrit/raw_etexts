@@ -1,26 +1,27 @@
-+++
-"Text title" = "Shri Ramana Sahasranamavali"
-"File name" = "ramaNasahasranAmAvalI.itx"
-itxtitle = "ramaNamaharShisahasranAmAvalI"
-engtitle = "Shri Ramanamaharshi Sahasranamavali"
-Category = "sahasranAmAvalI, deities_misc, ramana, nAmAvalI, jagadIsha-shAstrI, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "nAmAvalI"
-Author = "Jagadisha Sastri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Lingeshwara Rao (from original in Telugu) Sunder Hattangadi sunderh at hotmail.com"
-Source = "ISBN 81-85378-60-6"
-Acknowledge-Permission = "Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org"
-"Latest update" = "March 31, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रमणमहर्षिसहस्रनामावली"
+---
+Acknowledge-Permission: Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org
+Author: Jagadisha Sastri
+Category: sahasranAmAvalI, deities_misc, ramana, nAmAvalI, jagadIsha-shAstrI, gurudev
+File name: ramaNasahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: March 31, 2015
+Location: doc_deities_misc
+Proofread by: Lingeshwara Rao (from original in Telugu) Sunder Hattangadi sunderh
+  at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: ISBN 81-85378-60-6
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Ramana Sahasranamavali
+Texttype: nAmAvalI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Shri Ramanamaharshi Sahasranamavali
+itxtitle: ramaNamaharShisahasranAmAvalI
+title: रमणमहर्षिसहस्रनामावली
 
-+++
+---
   
  श्रीरमणमहर्षिसहस्रनामावलिः   
   
@@ -1112,7 +1113,7 @@ title = "रमणमहर्षिसहस्रनामावली"
 ॐ हृद्गुहाशयाय नमः ।  
 ॐ हार्दाकाशान्तर्गतबाह्याकाशादिवस्तुदृशे नमः ।  
 ॐ हृदयस्थानतत्त्वज्ञाय नमः ।  
-ॐ हृदहंनाश पण्डिताय नमः ॥ ९५०  
+ॐ हृदहन्नाश पण्डिताय नमः ॥ ९५०  
 ॐ हेयोपादेयरहिताय नमः ।  
 ॐ हेमन्तर्तुकृतोदयाय नमः ।  
 ॐ हरिब्रह्मेन्द्रदुष्प्रापस्वाराज्योर्जितशासनाय नमः ।  
@@ -1136,8 +1137,8 @@ title = "रमणमहर्षिसहस्रनामावली"
 ॐ प्रकाशाय नमः ॥  
   
 ॐ प्रथिताय नमः ।  
-ॐ स्वयंभानाय नमः ।  
-ॐ स्वयंप्रभवे नमः ।  
+ॐ स्वयम्भानाय नमः ।  
+ॐ स्वयम्प्रभवे नमः ।  
 ॐ सत्याय नमः ।  
 ॐ ज्ञानाय नमः ।  
 ॐ सुखाय नमः ।  

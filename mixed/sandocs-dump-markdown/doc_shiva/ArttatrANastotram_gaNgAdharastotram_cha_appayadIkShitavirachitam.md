@@ -1,24 +1,25 @@
-+++
-"Text title" = "ArttatrANastotram"
-"File name" = "ArttatrANastotram.itx"
-itxtitle = "ArttatrANastotram gaNgAdharastotram cha (appayadIkShitavirachitam)"
-engtitle = "ArttatrANastotram or Gangadharastotram"
-Category = "shiva, stotra, appayya-dIkShita"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Appayadixita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Swami Vedanishthananda Saraswati vedanishtha at gmail dotcom"
-"Proofread by" = "Swami Vedanishthananda Saraswati vedanishtha at gmail  dotcom Avinash Sathaye, PSA Easwaran"
-Description-comments = "Chanted regularly in Rishikesh Dayananda Ashram"
-"Latest update" = "January 14, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आर्त्तत्राणस्तोत्रम् गण्गाधरस्तोत्रम् च (अप्पयदीक्षितविरचितम्)"
+---
+Author: Appayadixita
+Category: shiva, stotra, appayya-dIkShita
+Description-comments: Chanted regularly in Rishikesh Dayananda Ashram
+File name: ArttatrANastotram.itx
+Language: Sanskrit
+Latest update: January 14, 2019
+Location: doc_shiva
+Proofread by: Swami Vedanishthananda Saraswati vedanishtha at gmail  dotcom Avinash
+  Sathaye, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: ArttatrANastotram
+Texttype: stotra
+Transliterated by: Swami Vedanishthananda Saraswati vedanishtha at gmail dotcom
+engtitle: ArttatrANastotram or Gangadharastotram
+itxtitle: ArttatrANastotram gaNgAdharastotram cha (appayadIkShitavirachitam)
+title: आर्त्तत्राणस्तोत्रम् गण्गाधरस्तोत्रम् च (अप्पयदीक्षितविरचितम्)
 
-+++
+---
   
  आर्तत्राणस्तोत्रम् गङ्गाधरस्तोत्रम् च   
 अप्पयदीक्षितविरचितम्  

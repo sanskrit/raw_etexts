@@ -1,21 +1,21 @@
-+++
-"Text title" = "gaNapatistotram 2"
-"File name" = "gaNapatistotram2.itx"
-itxtitle = "gaNapatistotram 2"
-engtitle = "gaNapatistotram 2"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपतिस्तोत्रम् २"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: ganesha
+File name: gaNapatistotram2.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_ganesha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNapatistotram 2
+engtitle: gaNapatistotram 2
+itxtitle: gaNapatistotram 2
+title: गणपतिस्तोत्रम् २
 
-+++
+---
   
  श्रीगणपतिस्तोत्रम् २   
 श्री गणेशाय नमः ।  

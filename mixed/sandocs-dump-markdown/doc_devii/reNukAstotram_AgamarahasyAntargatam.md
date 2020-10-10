@@ -1,23 +1,23 @@
-+++
-"Text title" = "reNukAstotraM Agamarahasye"
-"File name" = "reNukAstotramAgamarahasye.itx"
-itxtitle = "reNukAstotram (AgamarahasyAntargatam)"
-engtitle = "Renuka Stotram from Agam rahasya"
-Category = "devii, reNukA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Latest update" = "June 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकास्तोत्रम् (आगमरहस्यान्तर्गतम्)"
+---
+Category: devii, reNukA, stotra, devI
+File name: reNukAstotramAgamarahasye.itx
+Language: Sanskrit
+Latest update: June 18, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAstotraM Agamarahasye
+Texttype: stotra
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Renuka Stotram from Agam rahasya
+itxtitle: reNukAstotram (AgamarahasyAntargatam)
+title: रेणुकास्तोत्रम् (आगमरहस्यान्तर्गतम्)
 
-+++
+---
   
  आगमरहस्ये रेणुकास्तोत्रम्   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "veNkaTeshvarAShTottarashatanAmastotra brahmANDapurANe"
-"File name" = "venkaTeshvara108strbrahmANDa.itx"
-itxtitle = "veNkaTeshvarAShTottarashatanAmastotram"
-engtitle = "Shri Venkateshvarashtottara ShatanAmastotram"
-Category = "aShTottarashatanAma, vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Latest update" = "July 17, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेश्वराष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Traditional
+Category: aShTottarashatanAma, vishhnu, venkateshwara, stotra, vishnu
+File name: venkaTeshvara108strbrahmANDa.itx
+Language: Sanskrit
+Latest update: July 17, 2012
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veNkaTeshvarAShTottarashatanAmastotra brahmANDapurANe
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Shri Venkateshvarashtottara ShatanAmastotram
+itxtitle: veNkaTeshvarAShTottarashatanAmastotram
+title: वेण्कटेश्वराष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीवेङ्कटेश्वराष्टोत्तरशतनामस्तोत्रम्   
   

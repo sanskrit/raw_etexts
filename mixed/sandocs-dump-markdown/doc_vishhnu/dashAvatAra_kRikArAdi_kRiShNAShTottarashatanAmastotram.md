@@ -1,24 +1,25 @@
-+++
-"Text title" = "kRikArAdi kRiShNAShTottarashatanAmastotram"
-"File name" = "kRikArAdikRiShNa108nAmastotram.itx"
-itxtitle = "dashAvatAra kRikArAdi kRiShNAShTottarashatanAmastotram"
-engtitle = "kRikArAdi kRiShNAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "paNDita shrI bellaMkoNDa rAmarAya kavIndra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA"
-"Latest update" = "January 24, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतार कृइकारादि कृइष्णाष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: paNDita shrI bellaMkoNDa rAmarAya kavIndra
+Category: aShTottarashatanAma, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra,
+  vishnu
+File name: kRikArAdikRiShNa108nAmastotram.itx
+Language: Sanskrit
+Latest update: January 24, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRikArAdi kRiShNAShTottarashatanAmastotram
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: kRikArAdi kRiShNAShTottarashatanAmastotram
+itxtitle: dashAvatAra kRikArAdi kRiShNAShTottarashatanAmastotram
+title: दशावतार कृइकारादि कृइष्णाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  कृकारादि श्रीकृष्णाष्टोत्तरशतनामस्तोत्रम्   
 श्री हयग्रीवाय नमः ।  

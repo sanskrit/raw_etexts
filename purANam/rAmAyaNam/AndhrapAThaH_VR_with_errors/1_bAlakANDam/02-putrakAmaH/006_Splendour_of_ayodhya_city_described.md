@@ -3,7 +3,6 @@ title: 006 राजानुशासनम्
 title_english: 006 Splendour of ayodhya city described
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-006-Raajaanu_Shaasavam.mp3"></div>
 
   

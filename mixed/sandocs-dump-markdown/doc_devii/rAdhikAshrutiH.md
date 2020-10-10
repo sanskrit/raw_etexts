@@ -1,21 +1,21 @@
-+++
-"Text title" = "rAdhikAshrutiH"
-"File name" = "rAdhikAshrutiH.itx"
-itxtitle = "rAdhikAshrutiH"
-engtitle = "rAdhikAshrutiH"
-Category = "devii, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "sarasa stotrasangrahaH (Lucknow, 1909)"
-Indexextra = "(Scanned)"
-"Latest update" = "November 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधिकाश्रुतिः"
+---
+Category: devii, radha, devI
+Description-comments: sarasa stotrasangrahaH (Lucknow, 1909)
+File name: rAdhikAshrutiH.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 4, 2017
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhikAshrutiH
+engtitle: rAdhikAshrutiH
+itxtitle: rAdhikAshrutiH
+title: राधिकाश्रुतिः
 
-+++
+---
   
  श्रीसामवेदे श्रीराधिकाश्रुतिः   
 लीलीलामा मां श्रीराधिकैवाधिष्ठात्री  

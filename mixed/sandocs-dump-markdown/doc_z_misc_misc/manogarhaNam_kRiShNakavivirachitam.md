@@ -1,24 +1,24 @@
-+++
-"Text title" = "manogarhaNam by Krishnakavi"
-"File name" = "manogarhaNam.itx"
-itxtitle = "manogarhaNam (kRiShNakavivirachitam)"
-engtitle = "manogarhaNam by Krishnakavi"
-Category = "misc"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Author = "Krishnakavi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "from Malayamaruta 3 page 89"
-Indexextra = "(Scan)"
-"Latest update" = "August 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मनोगर्हणम् (कृइष्णकविविरचितम्)"
+---
+Author: Krishnakavi
+Category: misc
+Description/comments: from Malayamaruta 3 page 89
+File name: manogarhaNam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 18, 2018
+Location: doc_z_misc_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: manogarhaNam by Krishnakavi
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: manogarhaNam by Krishnakavi
+itxtitle: manogarhaNam (kRiShNakavivirachitam)
+title: मनोगर्हणम् (कृइष्णकविविरचितम्)
 
-+++
+---
   
  श्रीकृष्णकविविरचितं मनोगर्हणम्   
   

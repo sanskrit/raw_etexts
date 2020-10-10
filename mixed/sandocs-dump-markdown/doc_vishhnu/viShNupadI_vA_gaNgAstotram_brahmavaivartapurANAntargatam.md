@@ -1,24 +1,26 @@
-+++
-"Text title" = "viShNupadI or gangAstotram from brahmavaivartapurANa"
-"File name" = "viShNupadIgangAstotramBVP.itx"
-itxtitle = "viShNupadI vA gaNgAstotram (brahmavaivartapurANAntargatam)"
-engtitle = "Vishnupadi or Gangastotram"
-Category = "vishhnu, stotra, devii, devI, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "brahmavaivartapurANa prakRitikhaNDa adhyAya 10"
-"Latest update" = "January 31, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुपदी वा गण्गास्तोत्रम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: vishhnu, stotra, devii, devI, vishnu
+Description-comments: brahmavaivartapurANa prakRitikhaNDa adhyAya 10
+File name: viShNupadIgangAstotramBVP.itx
+Language: Sanskrit
+Latest update: January 31, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNupadI or gangAstotram from brahmavaivartapurANa
+Texttype: stotra
+Transliterated by: Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+engtitle: Vishnupadi or Gangastotram
+itxtitle: viShNupadI vA gaNgAstotram (brahmavaivartapurANAntargatam)
+title: विष्णुपदी वा गण्गास्तोत्रम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णुपदी अथवा गङ्गास्तोत्रम् ब्रह्मवैवर्तपुराणान्तर्गतम्   
 ॐ नमो गङ्गायै ।  
@@ -27,11 +29,11 @@ title = "विष्णुपदी वा गण्गास्तोत्र
 विष्णो विष्णुपदीस्तोत्रं पापघ्नं पुण्यकारणम् ॥ ११३॥  
   
 श्री नारायण उवाच ।  
-शिवसङ्गीतसंमुग्धश्रीकृष्णाङ्गद्रवोद्भवाम् ।  
+शिवसङ्गीतसम्मुग्धश्रीकृष्णाङ्गद्रवोद्भवाम् ।  
 राधाङ्गद्रवसम्भूतां तां गङ्गां प्रणमाम्यहम् ॥ ११४॥  
   
 या जन्मसृष्टेरादौ च गोलोके रासमण्डले ।  
-संनिधाने शंकरस्य तां गङ्गां प्रणमाम्यहम् ॥ ११५॥  
+सन्निधाने शङ्करस्य तां गङ्गां प्रणमाम्यहम् ॥ ११५॥  
   
 गोपैर्गोपीभिराकीर्णे शुभे राधामहोत्सवे ।  
 कार्तिकीपूर्णिमाजातां तां गङ्गां प्रणमाम्यहम् ॥ ११६॥  
@@ -78,7 +80,7 @@ title = "विष्णुपदी वा गण्गास्तोत्र
 क्रोशैकमात्रविस्तीर्णा ततः क्षीणा न कुत्रचित् ।  
 क्षितौ चालकनन्दा या तां गङ्गां प्रणमाम्यहम् ॥ १३०॥  
   
-सत्ये य क्षीरवर्णा च त्रेतायामिन्दुसंनिभा ।  
+सत्ये य क्षीरवर्णा च त्रेतायामिन्दुसन्निभा ।  
 द्वापरे चन्दनाभा च तां गङ्गां प्रणमाम्यहम् ॥ १३१॥  
   
 जलप्रभा कलौ या च नान्यत्र पृथिवीतले ।  

@@ -1,26 +1,26 @@
-+++
-"Text title" = "Navapadyasuratnamala"
-"File name" = "navapadyasuratnamAlA.itx"
-itxtitle = "navapadyasuratnamAlA (nidhiyativirachitA)"
-engtitle = "navapadyasuratnamAlA"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "shrInidhiyati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-"Description/comments" = "PanchayatistutiH"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "C Narayanarao"
-"Latest update" = "June 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "नवपद्यसुरत्नमाला (निधियतिविरचिता)"
+---
+Acknowledge-Permission: C Narayanarao
+Author: shrInidhiyati
+Category: deities_misc, gurudev
+Description/comments: PanchayatistutiH
+File name: navapadyasuratnamAlA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Navapadyasuratnamala
+Transliterated by: Krishnananda Achar
+engtitle: navapadyasuratnamAlA
+itxtitle: navapadyasuratnamAlA (nidhiyativirachitA)
+title: नवपद्यसुरत्नमाला (निधियतिविरचिता)
 
-+++
+---
   
  नवपद्यसुरत्नमाला   
 श्रीकान्ततीर्थ गुरुराज कराब्जजात  
@@ -50,7 +50,7 @@ title = "नवपद्यसुरत्नमाला (निधियति
   
 श्रीमद्यतीश रघुनाथ मुनेर्विमानात्  
      पुष्पे स्वमूर्द्निप्रतति प्रसमीक्ष्यचोक्ता ।  
-संप्रेरितोरु रघुनाथ मुनीश्चराय  
+सम्प्रेरितोरु रघुनाथ मुनीश्चराय  
      श्रीपादराज गुरवेस्तु नमश्शुभाय ॥ ६॥  
   
 शङ्खस्थितेन पयसा द्विजघातपापे  

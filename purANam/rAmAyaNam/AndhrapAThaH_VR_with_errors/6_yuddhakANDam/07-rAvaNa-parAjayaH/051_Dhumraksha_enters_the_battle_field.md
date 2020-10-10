@@ -3,7 +3,6 @@ title: 051 Dhumraksha enters the battle field
 title_english: 051 Dhumraksha enters the battle field
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-051-Dhumraksha_enters_the_battle_field_0.mp3"></div>
 
 तेषाम् सुतुमुलम् शब्दम् वानराणाम् तरस्विनाम् ।  
@@ -71,7 +70,7 @@ title_english: 051 Dhumraksha enters the battle field
 ध्वज अग्रे ग्रथिताश् चैव निपेतुह् कुणप अशनाः ।  
 रुधिर आर्द्रो महान् श्वेतह् कबन्धह् पतितो भुवि ॥ ६-५१-३२  
 विस्वरम् च उत्सृजन् नादम् धूम्र अक्षस्य समीपतः ।  
-ववर्ष रुधिरम् देवह् संचचाल च मेदिनी ॥ ६-५१-३३  
+ववर्ष रुधिरम् देवह् सञ्चचाल च मेदिनी ॥ ६-५१-३३  
 प्रतिलोमम् ववौ वायुर् निर्घात सम निस्वनः ।  
 तिमिर ओघ आवृतास् तत्र दिशश् च न चकाशिरे ॥ ६-५१-३४  
 स तु उत्पातांस् ततो दृष्ट्वा राक्षसानाम् भय आवहान् ।  

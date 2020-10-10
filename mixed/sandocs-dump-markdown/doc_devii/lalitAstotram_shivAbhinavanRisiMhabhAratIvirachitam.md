@@ -1,24 +1,25 @@
-+++
-"Text title" = "lalitAstotram"
-"File name" = "lalitAstotram.itx"
-itxtitle = "lalitAstotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "lalitAstotram"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, dashamahAvidyA, lalitA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितास्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, dashamahAvidyA,
+  lalitA
+File name: lalitAstotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitAstotram
+engtitle: lalitAstotram
+itxtitle: lalitAstotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: ललितास्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीललितास्तोत्रम्   
 कथनीयं किं वाञ्छितमम्ब पुरस्ते न सर्वज्ञा ।  

@@ -1,38 +1,38 @@
-+++
-"Text title" = "siitaakavacham"
-"File name" = "siitaakavachaAnanda.itx"
-itxtitle = "sItAkavacham (AnandarAmAyaNAntargatam)"
-engtitle = "sItAkavacham"
-Category = "kavacha, raama, vAlmIki"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Valmiki"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-Description-comments = "from Anandaramayana"
-"Latest update" = "July 4, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीताकवचम् (आनन्दरामायणान्तर्गतम्)"
+---
+Author: Valmiki
+Category: kavacha, raama, vAlmIki
+Description-comments: from Anandaramayana
+File name: siitaakavachaAnanda.itx
+Language: Sanskrit
+Latest update: July 4, 2006
+Location: doc_raama
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: raama
+Text title: siitaakavacham
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: sItAkavacham
+itxtitle: sItAkavacham (AnandarAmAyaNAntargatam)
+title: सीताकवचम् (आनन्दरामायणान्तर्गतम्)
 
-+++
+---
   
  सीताकवचम्   
   
              ॥ श्रीरस्तु ॥  
   
-॥ श्रीमदानन्दरामायणांतर्गत श्री सीता कवचम् ॥  
+॥ श्रीमदानन्दरामायणान्तर्गत श्री सीता कवचम् ॥  
   
 अगस्तिरुवाच-  
 सम्यक् पृष्टं त्वया वत्स सावधानमनाः श्रुणु ।  
 आदौ वक्ष्याम्यहं रम्यं सीतायाः कवचं शुभम् ॥ १॥  
   
-या सीतावनि संभवाथमिथिलापालेन संवर्धिता  
+या सीतावनि सम्भवाथमिथिलापालेन संवर्धिता  
 पद्माक्षनृपतेः सुता नलगता या मातुलिङ्गोत्भवा।  
 या रत्ने लयमागता जलनिधौ या वेद  वारं गता  
-लङ्कां सा मृगलोचना शशिमुखी मांपातु रामप्रिया ॥ २॥  
+लङ्कां सा मृगलोचना शशिमुखी माम्पातु रामप्रिया ॥ २॥  
   
 अथ न्यासः ॥  
   
@@ -90,7 +90,7 @@ title = "सीताकवचम् (आनन्दरामायणान्
 मातुलिङ्गोत्भवां देवीं पद्माक्षदुहितां शुभाम् ॥ ७॥  
   
 मैथिलीं रामदयितां दासीभिः परिवीजिताम् ।  
-एवं ध्यात्वा जनकजां हेमकुंभ पयोधरां  ॥ ८॥  
+एवं ध्यात्वा जनकजां हेमकुम्भ पयोधरां  ॥ ८॥  
   
 सीतायाः कवचं दिव्यं पठनीयं सुभावहं  ॥ ९॥  
   
@@ -119,7 +119,7 @@ title = "सीताकवचम् (आनन्दरामायणान्
 दिव्यप्रदा पातु नाभिं कटिं राक्षस मोहिनी ॥ ८॥  
   
 गुह्यं पातु रत्नगुप्ता लिङ्गं पातु हरिप्रिया ।  
-ऊरू रक्षतु रंभोरूः जानुनी प्रिय भाषिणी ॥ ९॥  
+ऊरू रक्षतु रम्भोरूः जानुनी प्रिय भाषिणी ॥ ९॥  
   
 जङ्घे पातु सदा सुभ्रूः गुल्फौ चामरवीजिता ।  
 पादौ लवसुता पातु पात्वङ्गानि कुशाम्बिका ॥ १०॥  
@@ -154,7 +154,7 @@ title = "सीताकवचम् (आनन्दरामायणान्
 ततः पटेच्च सीतायाः श्रीरामस्य ततः परम् ।  
 एवं सदा जपनीयं कवचानां चतुष्टयम् ॥ २०॥  
   
-इति श्री शतकोटिरामायणांतर्गत श्रीमदानन्दरामायणे  
+इति श्री शतकोटिरामायणान्तर्गत श्रीमदानन्दरामायणे  
 वाल्मिकीये मनोहरकाण्डे श्री सीताकवचं सम्पूर्णम् ॥  
   
   

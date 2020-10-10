@@ -1,23 +1,23 @@
-+++
-"Text title" = "tejinIvaneshvarAShTottarashatanAmAvalI"
-"File name" = "tejinIvaneshvarAShTottarashatanAmAvalI.itx"
-itxtitle = "tejinIvaneshvarAShTottarashatanAmAvalI"
-engtitle = "tejinIvaneshvarAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24  at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Description/comments" = "Shri Tejinivana Mahatmyam"
-"Latest update" = "January 7, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तेजिनीवनेश्वराष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, shiva, nAmAvalI
+Description/comments: Shri Tejinivana Mahatmyam
+File name: tejinIvaneshvarAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: January 7, 2017
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: tejinIvaneshvarAShTottarashatanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24  at gmail.com
+engtitle: tejinIvaneshvarAShTottarashatanAmAvalI
+itxtitle: tejinIvaneshvarAShTottarashatanAmAvalI
+title: तेजिनीवनेश्वराष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीतेजिनीवनेश्वराष्टोत्तरशतनामावलिः   
 (पञ्चाक्षरादिः)  

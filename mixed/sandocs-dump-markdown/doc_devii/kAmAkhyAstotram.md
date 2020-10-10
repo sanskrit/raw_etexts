@@ -1,28 +1,28 @@
-+++
-"Text title" = "kAmAkhyAstotram"
-"File name" = "kAmAkhyAstotra.itx"
-itxtitle = "kAmAkhyAstotram"
-engtitle = "kAmAkhyAstotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "KS Ramachandran, PSA Easwaran"
-Source = "Yoginitantra"
-Indexextra = "(Wiki)"
-"Latest update" = "May 29, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामाख्यास्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, devI
+File name: kAmAkhyAstotra.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: May 29, 2015
+Location: doc_devii
+Proofread by: KS Ramachandran, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Yoginitantra
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAmAkhyAstotram
+engtitle: kAmAkhyAstotram
+itxtitle: kAmAkhyAstotram
+title: कामाख्यास्तोत्रम्
 
-+++
+---
   
  कामाख्या ध्यानं स्तोत्रं च   
    
            कामाख्या ध्यानम्  
-रविशशियुतकर्णा कुंकुमापीतवर्णा  
+रविशशियुतकर्णा कुङ्कुमापीतवर्णा  
 मणिकनकविचित्रा लोलजिह्वा त्रिनेत्रा ।  
 अभयवरदहस्ता साक्षसूत्रप्रहस्ता  
 प्रणतसुरनरेशा सिद्धकामेश्वरी सा ॥ १॥  

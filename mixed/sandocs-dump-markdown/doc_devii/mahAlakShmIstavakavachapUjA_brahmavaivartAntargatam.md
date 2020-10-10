@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAlakShmIstavakavachapUjA"
-"File name" = "mahAlakShmIstavakavachapUjA.itx"
-itxtitle = "mahAlakShmIstavakavachapUjA (brahmavaivartAntargatam)"
-engtitle = "mahAlakShmIstavakavachapUjA"
-Category = "kavacha, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kirk Wortman kirkwort at hotmail.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-Description-comments = "brahmavaivartamahApurANe gaNapatikhaNDe adhyAya 22"
-"Latest update" = "January 18, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालक्ष्मीस्तवकवचपूजा (ब्रह्मवैवर्तान्तर्गतम्)"
+---
+Category: kavacha, devii, lakShmI, devI
+Description-comments: brahmavaivartamahApurANe gaNapatikhaNDe adhyAya 22
+File name: mahAlakShmIstavakavachapUjA.itx
+Language: Sanskrit
+Latest update: January 18, 2017
+Location: doc_devii
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAlakShmIstavakavachapUjA
+Transliterated by: Kirk Wortman kirkwort at hotmail.com
+engtitle: mahAlakShmIstavakavachapUjA
+itxtitle: mahAlakShmIstavakavachapUjA (brahmavaivartAntargatam)
+title: महालक्ष्मीस्तवकवचपूजा (ब्रह्मवैवर्तान्तर्गतम्)
 
-+++
+---
   
  श्रीमहालक्ष्मीस्तवकवचपूजा   
   

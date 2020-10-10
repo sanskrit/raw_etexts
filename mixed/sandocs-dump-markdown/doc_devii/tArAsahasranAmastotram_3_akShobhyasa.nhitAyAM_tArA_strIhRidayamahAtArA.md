@@ -1,25 +1,25 @@
-+++
-"Text title" = "tArAsahasranAmastotram 3 from akShobhya saMhitA"
-"File name" = "tArAsahasranAmastotramakShobhya.itx"
-itxtitle = "tArAsahasranAmastotram 3 (akShobhyasa.nhitAyAM tArA strIhRidayamahAtArA)"
-engtitle = "tArAsahasranamastotram 3 from akShobhyasaMhitA"
-Category = "sahasranAma, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar"
-"Proofread by" = "Ravin Bhalekar"
-Description-comments = "From Akshobhya Samhita"
-Indexextra = "(Manuscript)"
-"Latest update" = "May 30, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तारासहस्रनामस्तोत्रम् ३ (अक्षोभ्यसंहितायां तारा स्त्रीहृइदयमहातारा)"
+---
+Category: sahasranAma, devii, dashamahAvidyA, stotra, devI
+Description-comments: From Akshobhya Samhita
+File name: tArAsahasranAmastotramakShobhya.itx
+Indexextra: (Manuscript)
+Language: Sanskrit
+Latest update: May 30, 2020
+Location: doc_devii
+Proofread by: Ravin Bhalekar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tArAsahasranAmastotram 3 from akShobhya saMhitA
+Texttype: stotra
+Transliterated by: Ravin Bhalekar
+engtitle: tArAsahasranamastotram 3 from akShobhyasaMhitA
+itxtitle: tArAsahasranAmastotram 3 (akShobhyasa.nhitAyAM tArA strIhRidayamahAtArA)
+title: तारासहस्रनामस्तोत्रम् ३ (अक्षोभ्यसंहितायां तारा स्त्रीहृइदयमहातारा)
 
-+++
+---
   
  श्रीतारासहस्रनामस्तोत्रम् ३   
 श्रीगणेशाय नमः ।  
@@ -186,7 +186,7 @@ title = "तारासहस्रनामस्तोत्रम् ३ (�
 तुला च तुलातल्पा तुलजापूरवासिनी ।  
 तनाननास्वरूपा च तथैरूपप्रधारिणी ॥ ५२॥  
   
-तोतला तैलसंप्रीता तृप्यतिमार्गपरायणा ।  
+तोतला तैलसम्प्रीता तृप्यतिमार्गपरायणा ।  
 तृसिदा तृणरूपा च तार्तीयगुणभूषिता ॥ ५३॥  
   
 तार्तीयबीजरूपा च तार्तीयाक्षररूपिणी ।  
@@ -223,9 +223,9 @@ title = "तारासहस्रनामस्तोत्रम् ३ (�
 दाडीमिवाजदत्ता च दाडीरूपा दरस्थिता ॥ ६४॥  
   
 दीर्घाक्षी दीर्घनासा च दीक्षिता दीक्षितेश्वरी ।  
-दुर्गा दुर्गविहंत्रि च दुःखप्रणाशिनी दरी ॥ ६५॥  
+दुर्गा दुर्गविहन्त्रि च दुःखप्रणाशिनी दरी ॥ ६५॥  
   
-दौर्गासुरविहंत्रि च दुर्गदारणतत्परा ।  
+दौर्गासुरविहन्त्रि च दुर्गदारणतत्परा ।  
 दानदक्षा दानपूजा दानतुष्टा दयातति ॥ ६६॥  
   
 दासी दासीकुण्डरति दासीपुष्पपरायणा ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "sItAShTottarashatanAmAvalI 3"
-"File name" = "sItA108nAmAvalI.itx"
-itxtitle = "sItAShTottarashatanAmAvaliH 3 (janakanandinyai)"
-engtitle = "sItA aShTottarashatanAmAvalI 3"
-Category = "aShTottarashatanAmAvalI, raama, nAmAvalI, devii, sItA, devI"
-Location = "doc_raama"
-Sublocation = "raama"
-SubDeity = "sItA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "November 2,  2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीताष्टोत्तरशतनामावलिः ३ (जनकनन्दिन्यै)"
+---
+Category: aShTottarashatanAmAvalI, raama, nAmAvalI, devii, sItA, devI
+File name: sItA108nAmAvalI.itx
+Language: Sanskrit
+Latest update: November 2,  2008
+Location: doc_raama
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sItA
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: sItAShTottarashatanAmAvalI 3
+Texttype: nAmAvalI
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: sItA aShTottarashatanAmAvalI 3
+itxtitle: sItAShTottarashatanAmAvaliH 3 (janakanandinyai)
+title: सीताष्टोत्तरशतनामावलिः ३ (जनकनन्दिन्यै)
 
-+++
+---
   
  सीताष्टोत्तरशतनामावली   
 ॐ जनकनन्दिन्यै नमः ।  

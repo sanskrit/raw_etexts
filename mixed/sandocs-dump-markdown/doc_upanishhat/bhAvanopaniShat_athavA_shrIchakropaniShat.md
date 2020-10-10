@@ -1,25 +1,26 @@
-+++
-"Text title" = "Bhava (Bhavana) Upanishad"
-"File name" = "bhaava.itx"
-itxtitle = "bhAvanopaniShat athavA shrIchakropaniShat"
-engtitle = "bhAvanopaniShat"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Kannan Subramanian, NA"
-"Proofread by" = "P.P.Narayanaswami (swami at math.mun.ca), NA"
-Description-comments = "84/108; Atharva Veda, Shakta Upanishad, 87/108 in 108 Upanishads Vasudev Lakshman Pansikar"
-Indexextra = "(scanned, commentary)"
-"Latest update" = "April 22, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भावनोपनिषत् अथवा श्रीचक्रोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, svara, upanishad
+Description-comments: 84/108; Atharva Veda, Shakta Upanishad, 87/108 in 108 Upanishads
+  Vasudev Lakshman Pansikar
+File name: bhaava.itx
+Indexextra: (scanned, commentary)
+Language: Sanskrit
+Latest update: April 22, 2018
+Location: doc_upanishhat
+Proofread by: P.P.Narayanaswami (swami at math.mun.ca), NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Bhava (Bhavana) Upanishad
+Texttype: svara
+Transliterated by: Kannan Subramanian, NA
+engtitle: bhAvanopaniShat
+itxtitle: bhAvanopaniShat athavA shrIchakropaniShat
+title: भावनोपनिषत् अथवा श्रीचक्रोपनिषत्
 
-+++
+---
   
  भावनोपनिषत् अथवा श्रीचक्रोपनिषत्   
   
@@ -53,7 +54,7 @@ title = "भावनोपनिषत् अथवा श्रीचक्र
 भुद्धयोऽनङ्गकुसुमादिशक्तयोऽष्टौ । अलम्बुसा  
 कुहूर्विश्वोदरी वरुणा हस्तिजिह्वा यशस्वत्यश्विनी गान्धारी  
 पूषा शङ्खिनी सरस्वतीडा पिङ्गला सुषुम्ना चेति चतुर्दश  
-नाड्यः । सर्वसंक्षोभिण्यादिचतुर्दशारगा देवताः ।  
+नाड्यः । सर्वसङ्क्षोभिण्यादिचतुर्दशारगा देवताः ।  
 प्राणापानव्यानोदानसमाननागकूर्मकृकरदेवदत्तधनञ्जया इति  
 दश वायवः । सर्वसिद्धिप्रदा देव्यो बहिर्दशारगा देवताः ।  
 एतद्वायुदशकसंसर्गोपाधिभेधेन रेचकपूरकशोषकदाहप्लावका  
@@ -87,7 +88,7 @@ title = "भावनोपनिषत् अथवा श्रीचक्र
 भिन्नत्वेनेच्छाज्ञानक्रियात्मकब्रह्मग्रन्थिमद्रसतन्तुब्रह्मनाडी  
 ब्रह्मसूत्रम् । स्वव्यतिरिक्तवस्तुसङ्गरहितस्मरणां विभूषणम् ।  
 सच्चित्सुखपरिपूर्णतास्मरणं गन्धः । समस्तविषयाणां  
-मनसः स्थैर्येणानुसंधानं कुसुमम् । तेषामेव सर्वदा स्वीकरणं  
+मनसः स्थैर्येणानुसन्धानं कुसुमम् । तेषामेव सर्वदा स्वीकरणं  
 धूपः । पवनावच्छिन्नोत्ध्वज्वलनसच्चिदुल्काकाशदेहो दीपः ।  
 समस्तयातायातवर्ज्यं नैवेद्यम् । अवस्थात्रयाणामेकीकरणं ताम्बूलम् ।  
 मूलाधारादाब्रह्मरन्ध्रपर्यन्तं ब्रह्मरन्ध्रादामूलाधारपर्यन्तं  

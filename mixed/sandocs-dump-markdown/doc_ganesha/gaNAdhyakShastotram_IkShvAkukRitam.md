@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNAdhyakShastotram IkShvAkukRita narasiMhapurANe"
-"File name" = "gaNAdhyakShastotramIkShvAkuNP.itx"
-itxtitle = "gaNAdhyakShastotram (IkShvAkukRitam)"
-engtitle = "GanadhyakSha Stotram by IkShvAku"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 25  1-25"
-"Latest update" = "June 9, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणाध्यक्षस्तोत्रम् (ईक्ष्वाकुकृइतम्)"
+---
+Category: ganesha, stotra
+Description-comments: Narasimhapurana adhyAya 25  1-25
+File name: gaNAdhyakShastotramIkShvAkuNP.itx
+Language: Sanskrit
+Latest update: June 9, 2013
+Location: doc_ganesha
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNAdhyakShastotram IkShvAkukRita narasiMhapurANe
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: GanadhyakSha Stotram by IkShvAku
+itxtitle: gaNAdhyakShastotram (IkShvAkukRitam)
+title: गणाध्यक्षस्तोत्रम् (ईक्ष्वाकुकृइतम्)
 
-+++
+---
   
  श्रीगणाध्यक्षस्तोत्रं ईक्ष्वाकुकृत   
   
@@ -103,7 +103,7 @@ title = "गणाध्यक्षस्तोत्रम् (ईक्ष्
   
 इति ।  
   
-नरसिंहपुराण अध्याय २५ श्लोकसंख्या ७२  
+नरसिंहपुराण अध्याय २५ श्लोकसङ्ख्या ७२  
 श्रीनरसिंहपुराणे इक्ष्वाकुचरिते पञ्चविंशोऽध्यायः ॥ २५॥  
   
   

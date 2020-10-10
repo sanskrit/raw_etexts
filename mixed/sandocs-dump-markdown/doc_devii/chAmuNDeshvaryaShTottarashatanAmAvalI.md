@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrii chAmuNDeshvaryaaShTottarashatanaamavalii"
-"File name" = "chAmuNDeshvarI108nAmAvalI.itx"
-itxtitle = "chAmuNDeshvaryaShTottarashatanAmAvalI"
-engtitle = "chAmuNDeshvarI aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "May 15, 2007, November 15, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चामुण्डेश्वर्यष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI
+File name: chAmuNDeshvarI108nAmAvalI.itx
+Language: Sanskrit
+Latest update: May 15, 2007, November 15, 2012
+Location: doc_devii
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: Hinduism/religion/traditional
+Sublocation: devii
+Text title: shrii chAmuNDeshvaryaaShTottarashatanaamavalii
+Texttype: nAmAvalI
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: chAmuNDeshvarI aShTottarashatanAmAvalI
+itxtitle: chAmuNDeshvaryaShTottarashatanAmAvalI
+title: चामुण्डेश्वर्यष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीचामुण्डेश्वर्यष्टोत्तरशतनामावली   
   
@@ -38,7 +38,7 @@ title = "चामुण्डेश्वर्यष्टोत्तरश�
 ॐ मनोन्मण्यै नमः ।  
 ॐ सहस्रशीर्ष संयुक्तायै नमः ।  
 ॐ सहस्रकरमण्डितायै नमः ।  
-ॐ कौसुंभवसनोपेतायै नमः ।  
+ॐ कौसुम्भवसनोपेतायै नमः ।  
 ॐ रत्नकञ्चुकधारिण्यै नमः ।  
 ॐ गणेशस्कन्दजनन्यै नमः ।  
 ॐ जपाकुसुम भासुरायै नमः ।  
@@ -71,7 +71,7 @@ title = "चामुण्डेश्वर्यष्टोत्तरश�
 ॐ अन्नपूर्णायै नमः ।  
 ॐ ज्वलःजिह्वायै नमः ।  
 ॐ कालरात्रिस्वरूपिण्यै नमः ।  
-ॐ निशुंभ शुंभदमन्यै नमः ।  
+ॐ निशुम्भ शुम्भदमन्यै नमः ।  
 ॐ रक्तबीजनिषूदिन्यै नमः । ५०  
 ॐ ब्राह्म्यादिमातृकारूपायै नमः ।  
 ॐ शुभायै नमः ।  
@@ -82,7 +82,7 @@ title = "चामुण्डेश्वर्यष्टोत्तरश�
 ॐ परमेश्वर्यै नमः ।  
 ॐ बिन्दुपीठकृतावासायै नमः ।  
 ॐ चन्द्रमण्डलमध्यकायै नमः ।  
-ॐ चिदग्निकुण्डसंभूतायै नमः । ६०  
+ॐ चिदग्निकुण्डसम्भूतायै नमः । ६०  
 ॐ विन्ध्याचलनिवासिन्यै नमः ।  
 ॐ हयग्रीवागस्त्य पूज्यायै नमः ।  var  पूजितायै  
 ॐ सूर्यचन्द्राग्निलोचनायै नमः ।  

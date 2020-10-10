@@ -1,23 +1,23 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 2"
-"File name" = "natya02.itx"
-itxtitle = "nATyashAstram adhyAyaH 02"
-engtitle = "Natya Shastra Chapter 2"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture"
-"Transliterated by" = "dpadmakar at hotmail.com"
-"Proofread by" = "dpadmakar at hotmail.com"
-"Latest update" = "May 24, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः ०२"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya02.itx
+Language: Sanskrit
+Latest update: May 24, 2001
+Location: doc_z_misc_major_works
+Proofread by: dpadmakar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 2
+Texttype: pramukha
+Transliterated by: dpadmakar at hotmail.com
+engtitle: Natya Shastra Chapter 2
+itxtitle: nATyashAstram adhyAyaH 02
+title: नाट्यशास्त्रम् अध्यायः ०२
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः २   
   
@@ -194,7 +194,7 @@ title = "नाट्यशास्त्रम् अध्यायः ०२
 पूर्वोक्तब्राह्मणस्तम्भे शुक्लमाल्यानुलेपने ॥ ५०॥  
   
 निक्षिपेत्कनकं मूले कर्णाभरणसंश्रयम् ।  
-ताम्रं चाधः प्रदातव्यं स्तम्भे क्षत्रियसंज्ञके ॥ ५१॥  
+ताम्रं चाधः प्रदातव्यं स्तम्भे क्षत्रियसञ्ज्ञके ॥ ५१॥  
   
 वैश्यस्तम्भस्य मूले तु रजतं सम्प्रदापयेत् ।  
 शूद्रस्तम्भस्य मूले तु दद्यादायसमेव च ॥ ५२॥  

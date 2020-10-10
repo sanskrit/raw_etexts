@@ -1,24 +1,25 @@
-+++
-"Text title" = "Bhaja Bharatadesham"
-"File name" = "bhajabhAratadesham.itx"
-itxtitle = "bhaja bhAratadesham (bhAratarAShTragItam)"
-engtitle = "bhaja bhAratadesham"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "shrIdhara pAThaka"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भज भारतदेशम् (भारतराष्ट्रगीतम्)"
+---
+Author: shrIdhara pAThaka
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: bhajabhAratadesham.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bhaja Bharatadesham
+Translated by: Mandar Mali
+engtitle: bhaja bhAratadesham
+itxtitle: bhaja bhAratadesham (bhAratarAShTragItam)
+title: भज भारतदेशम् (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  भज भारतदेशम्   
 बालचर ! भज भारत देशं  

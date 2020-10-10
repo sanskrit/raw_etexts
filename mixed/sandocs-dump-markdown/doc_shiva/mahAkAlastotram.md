@@ -1,19 +1,19 @@
-+++
-"Text title" = "mahAkAlastotram"
-"File name" = "mahAkAlastotram.itx"
-itxtitle = "mahAkAlastotram"
-engtitle = "mahAkAlastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "April 27, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालस्तोत्रम्"
+---
+Category: shiva
+File name: mahAkAlastotram.itx
+Language: Sanskrit
+Latest update: April 27, 2019
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mahAkAlastotram
+engtitle: mahAkAlastotram
+itxtitle: mahAkAlastotram
+title: महाकालस्तोत्रम्
 
-+++
+---
   
  श्रीमहाकालस्तोत्रम्   
 दृष्ट्वा देवं महाकालं कालिकाङ्गं महाप्रभुम् ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "kAlikAkavacham 2"
-"File name" = "kAlikAkavacham2.itx"
-itxtitle = "kAlikAkavacham 2 (mahAnirvANatantrAntargatam)"
-engtitle = "kAlikAkavacham 2"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anu Sriram anu_sriramb at yahoo.com"
-"Proofread by" = "Anu Sriram, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "mahAnirvANatantre saptama ullAse 55\\-66 shloka"
-"Latest update" = "May 5, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालिकाकवचम् २ (महानिर्वाणतन्त्रान्तर्गतम्)"
+---
+Author: Traditional
+Category: kavacha, devii, dashamahAvidyA, devI
+Description-comments: mahAnirvANatantre saptama ullAse 55\-66 shloka
+File name: kAlikAkavacham2.itx
+Language: Sanskrit
+Latest update: May 5, 2017
+Location: doc_devii
+Proofread by: Anu Sriram, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAlikAkavacham 2
+Transliterated by: Anu Sriram anu_sriramb at yahoo.com
+engtitle: kAlikAkavacham 2
+itxtitle: kAlikAkavacham 2 (mahAnirvANatantrAntargatam)
+title: कालिकाकवचम् २ (महानिर्वाणतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीकालिकाकवचम् २   
 अथवा श्रीत्रैलोक्य विजय कवचम्   

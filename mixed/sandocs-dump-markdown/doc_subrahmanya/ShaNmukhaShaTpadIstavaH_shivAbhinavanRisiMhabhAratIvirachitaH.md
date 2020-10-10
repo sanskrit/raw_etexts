@@ -1,22 +1,22 @@
-+++
-"Text title" = "ShaNmukhaShaTpadIstavaH"
-"File name" = "ShaNmukhaShaTpadIstavaH.itx"
-itxtitle = "ShaNmukhaShaTpadIstavaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "ShaNmukhaShaTpadIstavaH"
-Category = "subrahmanya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, ShaTpadI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षण्मुखषट्पदीस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: subrahmanya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, ShaTpadI
+File name: ShaNmukhaShaTpadIstavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: ShaNmukhaShaTpadIstavaH
+engtitle: ShaNmukhaShaTpadIstavaH
+itxtitle: ShaNmukhaShaTpadIstavaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: षण्मुखषट्पदीस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीषण्मुखषट्पदीस्तवः   
 श्रीमयूराचलक्षेत्रे - (कुन्नक्कुड्यपरनामके)  

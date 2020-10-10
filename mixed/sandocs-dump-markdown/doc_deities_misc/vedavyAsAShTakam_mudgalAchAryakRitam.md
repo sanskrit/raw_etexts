@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Veda Vyasa Ashtakam"
-"File name" = "vedavyAsAShTakam.itx"
-itxtitle = "vedavyAsAShTakam (mudgalAchAryakRitam)"
-engtitle = "vedavyAsAShTakam"
-Category = "deities_misc, gurudev, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "mudgalAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वेदव्यासाष्टकम् (मुद्गलाचार्यकृइतम्)"
+---
+Author: mudgalAchArya
+Category: deities_misc, gurudev, aShTaka
+File name: vedavyAsAShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Veda Vyasa Ashtakam
+Transliterated by: Krishnananda Achar
+engtitle: vedavyAsAShTakam
+itxtitle: vedavyAsAShTakam (mudgalAchAryakRitam)
+title: वेदव्यासाष्टकम् (मुद्गलाचार्यकृइतम्)
 
-+++
+---
   
  श्रीवेदव्यासाष्टकम्   
 सुजने मतितो विलोपिते निखिले गौतम शापतोमरैः ।  

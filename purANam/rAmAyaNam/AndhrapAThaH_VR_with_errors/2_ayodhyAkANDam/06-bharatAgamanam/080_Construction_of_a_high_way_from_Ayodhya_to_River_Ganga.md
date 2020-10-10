@@ -3,7 +3,6 @@ title: 080 Construction of a high way from Ayodhya to River Ganga
 title_english: 080 Construction of a high way from Ayodhya to River Ganga
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-080-Marga_Nirmanam.mp3"></div>
 
 अथ भूमि प्रदेशज्ञाः सूत्र कर्म विशारदाः ।  
@@ -24,7 +23,7 @@ title_english: 080 Construction of a high way from Ayodhya to River Ganga
 विधमन्ति स्म दुर्गाणि स्थलानि च ततः ततः ॥ २-८०-८  
 अपरे अपूरयन् कूपान् पांसुभिः श्वभ्रम् आयतम् ।  
 निम्न भागांस् तथा केचित् समामः चक्रुः समन्ततः ॥ २-८०-९  
-बबन्धुर् बन्धनीयामः च क्षोद्यान् संचुक्षुदुस् तदा ।  
+बबन्धुर् बन्धनीयामः च क्षोद्यान् सञ्चुक्षुदुस् तदा ।  
 बिभिदुर् भेदनीयामः च तांस् तान् देशान् नराः तदा ॥ २-८०-१०  
 अचिरेण एव कालेन परिवाहान् बहु उदकान् ।  
 चक्रुर् बहु विध आकारान् सागर प्रतिमान् बहून् ॥ २-८०-११  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhagavachCharaNastotram"
-"File name" = "bhagavachCharaNastotram.itx"
-itxtitle = "bhagavachCharaNastotram"
-engtitle = "Bhagavat Sharanastotram"
-Category = "misc, stotra, vedanta"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "stotra"
-Author = "mauktikarAmodAsInashiShyabrahmAnanda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Hindi)"
-"Latest update" = "June 13, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवच्छरणस्तोत्रम्"
+---
+Author: mauktikarAmodAsInashiShyabrahmAnanda
+Category: misc, stotra, vedanta
+File name: bhagavachCharaNastotram.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: June 13, 2013
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: bhagavachCharaNastotram
+Texttype: stotra
+engtitle: Bhagavat Sharanastotram
+itxtitle: bhagavachCharaNastotram
+title: भगवच्छरणस्तोत्रम्
 
-+++
+---
   
  भगवच्छरणस्तोत्रम्   
   
@@ -47,7 +47,7 @@ title = "भगवच्छरणस्तोत्रम्"
 वाचा तथैव न वदेन्मम सौम्यवाणीं तस्मात्त्वमद्यशरणं मम दीनबन्धो ॥ ७॥  
   
 सत्त्वं न मे मनसि याति रजस्तमोभ्यां विद्धे तदा कथमहो शुभकर्मवार्ता ।  
-साक्षात्परंपरतया सुखसाधनं तत्तस्मात्त्वमद्यशरणं मम दीनबन्धो ॥ ८॥  
+साक्षात्परम्परतया सुखसाधनं तत्तस्मात्त्वमद्यशरणं मम दीनबन्धो ॥ ८॥  
   
 पूजा कृता न हि कदाऽपि मया त्वदीया मन्त्रं त्वदीयमपि मे न जपेद्रसज्ञा ।  
 चित्तं न मे स्मरति ते चरणौ ह्यवाप्य तस्मात्त्वमद्यशरणं मम दीनबन्धो ॥ ९॥  
@@ -55,7 +55,7 @@ title = "भगवच्छरणस्तोत्रम्"
 यज्ञो न मेऽस्ति हुतिदानदयादि युक्तो ज्ञानस्य साधनगणो न विवेकमुख्यः ।  
 ज्ञानं क्व साधनगणेन विना क्व मोक्षस्तस्मात्त्वमद्यशरणं मम दीनबन्धो ॥ १०॥  
   
-सत्संगतिर्हि विदिता तव भक्तिहेतुः साऽप्यद्य नास्ति बत पंडितमानिनो मे ।  
+सत्सङ्गतिर्हि विदिता तव भक्तिहेतुः साऽप्यद्य नास्ति बत पण्डितमानिनो मे ।  
 तामन्तरेण न हि सा क्व च बोधवार्ता तस्मात्त्वमद्यशरणं मम दीनबन्धो ॥ ११॥  
   
 दृष्टिर्न भूतविषया समताभिधाना वैषम्यमेव तदियं विषयीकरोति ।  
@@ -85,8 +85,8 @@ title = "भगवच्छरणस्तोत्रम्"
 वेदान्तशीलनमपि प्रमितिं करोति ब्रह्मात्मनः प्रमितिसाधनसंयुतस्य ।  
 नैवाऽस्ति साधनलवो मयि नाथ तस्यास्तस्मात्त्वमद्यशरणं मम दीनबन्धो ॥ २०॥  
   
-गोविन्द शंकर हरे गिरिजेश मेश शम्भो जनार्दन गिरीश मुकुन्द साम्ब ।  
-नान्या गतिर्मम कथंचन वां विहाय तस्मात्प्रभो मम गतिः कृपया विधेया ॥ २१॥  
+गोविन्द शङ्कर हरे गिरिजेश मेश शम्भो जनार्दन गिरीश मुकुन्द साम्ब ।  
+नान्या गतिर्मम कथञ्चन वां विहाय तस्मात्प्रभो मम गतिः कृपया विधेया ॥ २१॥  
   
 एतत्स्तवं भगवदाश्रयणाभिधानं ये मानवाः प्रतिदिनं प्रणताः पठन्ति ।  
 ते मानवा भवरतिं परिभूय शान्तिं गच्छन्ति किं च परमात्मनि भक्तिमद्धा ॥ २२॥  

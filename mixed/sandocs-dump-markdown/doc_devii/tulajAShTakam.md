@@ -1,23 +1,23 @@
-+++
-"Text title" = "tulajAShTakam"
-"File name" = "tulajAShTakam.itx"
-itxtitle = "tulajAShTakam"
-engtitle = "tulajAShTakam"
-Category = "aShTaka, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "mI_AryA"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(post)"
-"Latest update" = "November 21, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलजाष्टकम्"
+---
+Category: aShTaka, devii, otherforms, devI
+File name: tulajAShTakam.itx
+Indexextra: (post)
+Language: Sanskrit
+Latest update: November 21, 2015
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulajAShTakam
+Transliterated by: mI_AryA
+engtitle: tulajAShTakam
+itxtitle: tulajAShTakam
+title: तुलजाष्टकम्
 
-+++
+---
   
  तुलजाष्टकम्   
   

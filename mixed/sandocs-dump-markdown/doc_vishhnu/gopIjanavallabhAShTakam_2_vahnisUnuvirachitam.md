@@ -1,24 +1,24 @@
-+++
-"Text title" = "gopIjanavallabhAShTakam 2"
-"File name" = "gopIjanavallabhAShTakam2.itx"
-itxtitle = "gopIjanavallabhAShTakam 2 (vahnisUnuvirachitam)"
-engtitle = "gopIjanavallabhAShTakam 2"
-Category = "vishhnu, krishna, puShTimArgIya, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "vahnisUnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपीजनवल्लभाष्टकम् २ (वह्निसूनुविरचितम्)"
+---
+Author: vahnisUnu
+Category: vishhnu, krishna, puShTimArgIya, aShTaka
+Description/comments: puShTimArgIya stotraratnAkara
+File name: gopIjanavallabhAShTakam2.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopIjanavallabhAShTakam 2
+engtitle: gopIjanavallabhAShTakam 2
+itxtitle: gopIjanavallabhAShTakam 2 (vahnisUnuvirachitam)
+title: गोपीजनवल्लभाष्टकम् २ (वह्निसूनुविरचितम्)
 
-+++
+---
   
  श्रीगोपीजनवल्लभाष्टकम् २   
   

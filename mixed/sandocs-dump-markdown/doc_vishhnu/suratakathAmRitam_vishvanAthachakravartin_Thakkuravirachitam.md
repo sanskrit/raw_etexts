@@ -1,25 +1,26 @@
-+++
-"Text title" = "suratakathAmRRitam"
-"File name" = "suratakathAmRRitam.itx"
-itxtitle = "suratakathAmRitam (vishvanAthachakravartin Thakkuravirachitam)"
-engtitle = "suratakathAmRRitam by vishvanAthachakravartin"
-Category = "vishhnu, krishna, vishvanAthachakravartin, stavAmRRitalaharI, shataka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुरतकथामृइतम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: vishhnu, krishna, vishvanAthachakravartin, stavAmRRitalaharI, shataka
+File name: suratakathAmRRitam.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_vishhnu
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: suratakathAmRRitam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: suratakathAmRRitam by vishvanAthachakravartin
+itxtitle: suratakathAmRitam (vishvanAthachakravartin Thakkuravirachitam)
+title: सुरतकथामृइतम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)
 
-+++
+---
   
  सुरतकथामृतं अथवा आर्यशतकम्   
 मूलग्रन्थस्य केन्द्रीयश्लोकः-  

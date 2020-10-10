@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrI hayagrIva sahasranAmastotra"
-"File name" = "hayagrIvasahasranAmastotra.itx"
-itxtitle = "hayagrIvasahasranAmastotram"
-engtitle = "shrI hayagrIva sahasranAmastotra"
-Category = "sahasranAma, vishhnu, vishnu_misc, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD, NA"
-Source = "Stotraratnakaram I, Madras 1927, p 305-327"
-Indexextra = "(vaibhavam 1, lakShmIhayagrIva, article)"
-"Latest update" = "November 6, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हयग्रीवसहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, vishhnu, vishnu_misc, vishnu
+File name: hayagrIvasahasranAmastotra.itx
+Indexextra: (vaibhavam 1, lakShmIhayagrIva, article)
+Language: Sanskrit
+Latest update: November 6, 2015
+Location: doc_vishhnu
+Proofread by: DPD, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotraratnakaram I, Madras 1927, p 305-327
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrI hayagrIva sahasranAmastotra
+engtitle: shrI hayagrIva sahasranAmastotra
+itxtitle: hayagrIvasahasranAmastotram
+title: हयग्रीवसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीहयग्रीवसहस्रनामस्तोत्रम्   
           ॥ श्रीः ॥  
@@ -610,7 +610,7 @@ title = "हयग्रीवसहस्रनामस्तोत्रम�
 असङ्गोऽनन्यधीसङ्गविहङ्गोवैरिभङ्गदः ॥ १५५॥  
   
 स्वामी स्वं स्वेन सन्तुप्यन् शक्रस्सर्वाधिकस्यदः ।  
-स्वयंज्योतिस्स्वयंवैद्यश्शूरश्शूरकुलोद्भवः ॥ १५६॥  
+स्वयञ्ज्योतिस्स्वयंवैद्यश्शूरश्शूरकुलोद्भवः ॥ १५६॥  
   
 वासवो वसुरण्योग्निर्वासुदेवस्सुहृद्वसुः ।  
 भूतो भावी भवन्भव्यो विष्णुस्थानस्सनातनः ॥ १५७॥  

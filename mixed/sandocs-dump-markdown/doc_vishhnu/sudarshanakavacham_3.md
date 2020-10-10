@@ -1,22 +1,24 @@
-+++
-"Text title" = "sudarshanakavacham 3"
-"File name" = "sudarshanakavacha3.itx"
-itxtitle = "sudarshanakavacham 3"
-engtitle = "sudarshana kavacha 3"
-Category = "kavacha, vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Source = "https://archive.org/details/HindiBook-danikPrarthnastrotaKavach  printed pages 68-71"
-"Latest update" = "July 31, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुदर्शनकवचम् ३"
+---
+Category: kavacha, vishhnu
+File name: sudarshanakavacha3.itx
+Language: Sanskrit
+Latest update: July 31, 2013
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: https://archive.org/details/HindiBook-danikPrarthnastrotaKavach  printed pages
+  68-71
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sudarshanakavacham 3
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: sudarshana kavacha 3
+itxtitle: sudarshanakavacham 3
+title: सुदर्शनकवचम् ३
 
-+++
+---
   
  श्रीसुदर्शनकवचम् ३   
   
@@ -43,7 +45,7 @@ title = "सुदर्शनकवचम् ३"
 ॐ आं ह्रीं क्रों नमो भगवते  
 प्रलयकालमहाज्वालाघोर-वीर-सुदर्शन-नारसिंहाय ॐ महाचक्रराजाय  
 महाबलाय सहस्रकोटिसूर्यप्रकाशाय सहस्रशीर्षाय सहस्राक्षाय  
-सहस्रपादाय संकर्षणत्मने सहस्रदिव्यास्त्र-सहस्रहस्ताय  
+सहस्रपादाय सङ्कर्षणत्मने सहस्रदिव्यास्त्र-सहस्रहस्ताय  
 सर्वतोमुखज्वलनज्वालामालावृताय विस्फुलिङ्गस्फोटपरिस्फोटित  
 ब्रह्माण्ड भाण्डाय महापराक्रमाय महोग्रविग्रहाय महावीराय  
 महाविष्णुरूपिणे व्यतीतकालान्तकाय महाभद्ररुद्रावताराय   
@@ -104,7 +106,7 @@ title = "सुदर्शनकवचम् ३"
 मूकग्रह-मूर्खग्रह-बधिरग्रह-स्त्रीग्रह-पुरुषग्रह-  
 यक्षग्रह-राक्षसग्रह-प्रेतग्रह-किन्नरग्रह-साध्यचरग्रह-  
 सिद्धचरग्रह कामिनीग्रह-मोहिनीग्रह-पद्मिनीग्रह-यक्षिणीग्रह-  
-पक्षिणीग्रह-संध्याग्रह-मार्गग्रह-कलिङ्गदेवोग्रह-  
+पक्षिणीग्रह-सन्ध्याग्रह-मार्गग्रह-कलिङ्गदेवोग्रह-  
 भैरवग्रह-बेतालग्रह- गन्धर्वग्रह प्रमुखसकलदुष्टग्रह  
 रातान् आकर्षय आकर्षय आवेशय ड ड ठ ठ ह्यय वाचय  
 दह्य भस्मी कुरु उच्चाटय उच्चाटय ।  
@@ -128,22 +130,22 @@ title = "सुदर्शनकवचम् ३"
 तन्नश्चक्रः प्रचोदयात् ॥  
   
 एहि एहि सालवं संहारय शरभं   
-क्रंदया विद्रावय विद्रावय भैरव  
+क्रन्दया विद्रावय विद्रावय भैरव  
 भीषय भीषय प्रत्यगिरि मर्दय मर्दय   
 चिदम्बरं बन्धय बन्धय   
 विडम्बरं ग्रासय ग्रासय   
-शांभव्ं निवर्तय कालीं दह दह  
+शाम्भव्ं निवर्तय कालीं दह दह  
 महिषासुरीं छेदय छेदय   
 दुष्टशक्तीः निर्मूलय निर्मूलय   
 रूं रूं हूं हूं मुरु मुरु   
-परमंत्रपरयंत्र-परतंत्र कटुपरं वादुपर जपपर  
+परमन्त्रपरयन्त्र-परतन्त्र कटुपरं वादुपर जपपर  
 होमपर सहस्रदीपकोटिपूजां भेदय भेदय मारय मारय   
 खण्डय खण्डय   
 परकर्तृकं विषं निर्विषं कुरु कुरु   
-अग्निमुखप्रकाण्ड नानाविधि-कर्तृंमुख   
+अग्निमुखप्रकाण्ड नानाविधि-कर्तृम्मुख   
 वनमुखग्रहान् चूर्णय चूर्णय मारीं विदारय  
 कूष्माण्ड-वैनायक-मारीचगणान् भेदय भेदय   
-मन्त्रांपरस्मांकं विमोचय विमोचय   
+मन्त्राम्परस्माङ्कं विमोचय विमोचय   
 अक्षिशूल-कुक्षिशूल-गुल्मशूल-पार्शव-शूल-  
 सर्वाबान्धान् निवारय निवारय पाण्डुरोगं संहारय संहारय  
 विषमज्वरं त्रासय त्रासय   
@@ -159,8 +161,8 @@ title = "सुदर्शनकवचम् ३"
 विषं हन हन   
 खं खं घं घं पाशुपतं नाशय नाशय   
 शिखण्डिं खण्डय खण्डय ज्वालामालिनीं निवर्तय   
-सर्वेन्द्रियाणि स्तंभय स्तंभय खण्डय खण्डय  
-प्रमुखदुष्टतंत्रं स्फोटय स्फोटय भ्रामय भ्रामय  
+सर्वेन्द्रियाणि स्तम्भय स्तम्भय खण्डय खण्डय  
+प्रमुखदुष्टतन्त्रं स्फोटय स्फोटय भ्रामय भ्रामय  
 महानारायणास्त्राय पङ्चाशद्वर्णरूपाय लल लल   
 शरणागतरक्षणाय हुं हूं गं व गं व शं शं   
 अपृतमूर्तये तुभ्यं नमः ।   

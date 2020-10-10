@@ -1,23 +1,23 @@
-+++
-"Text title" = "shatashatakoTisharatparyantaM"
-"File name" = "shatashatakoTisharatparyantaM.itx"
-itxtitle = "shatashatakoTisharatparyantaM"
-engtitle = "shatashatakoTisharatparyantaM"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शतशतकोटिशरत्पर्यन्तं"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: shatashatakoTisharatparyantaM.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: shatashatakoTisharatparyantaM
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: shatashatakoTisharatparyantaM
+itxtitle: shatashatakoTisharatparyantaM
+title: शतशतकोटिशरत्पर्यन्तं
 
-+++
+---
   
  शतशतकोटिशरत्पर्यन्तं   
 शतशतकोटिशरत्पर्यन्तं  

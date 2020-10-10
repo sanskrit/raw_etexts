@@ -1,21 +1,22 @@
-+++
-"Text title" = "viShNvaShTakam"
-"File name" = "viShNvaShTakam.itx"
-itxtitle = "viShNvaShTakam"
-engtitle = "viShNvaShTakam"
-Category = "aShTaka, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "January 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्ण्वष्टकम्"
+---
+Category: aShTaka, vishhnu, vishnu
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: viShNvaShTakam.itx
+Language: Sanskrit
+Latest update: January 19, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNvaShTakam
+engtitle: viShNvaShTakam
+itxtitle: viShNvaShTakam
+title: विष्ण्वष्टकम्
 
-+++
+---
   
  विष्ण्वष्टकम्   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "annapUrNAShTottarashatanAmastotram"
-"File name" = "annapUrNAShTottarashatanAmastotram.itx"
-itxtitle = "annapUrNAShTottarashatanAmastotram"
-engtitle = "annapUrNAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, devii, pArvatI, annapUrNa, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, NA"
-Description-comments = "shrIbrahmottarakhaNDe AgamapryakhyAtishivarahasye"
-"Latest update" = "May 2, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अन्नपूर्णाष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Traditional
+Category: aShTottarashatanAma, devii, pArvatI, annapUrNa, stotra, devI
+Description-comments: shrIbrahmottarakhaNDe AgamapryakhyAtishivarahasye
+File name: annapUrNAShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: May 2, 2017
+Location: doc_devii
+Proofread by: Gopal Upadhyay, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: annapUrNAShTottarashatanAmastotram
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: annapUrNAShTottarashatanAmastotram
+itxtitle: annapUrNAShTottarashatanAmastotram
+title: अन्नपूर्णाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीअन्नपूर्णाष्टोत्तरशतनामस्तोत्रम्   
   

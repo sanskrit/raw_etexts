@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Yogeshwari Sahasranama Stotram"
-"File name" = "yogeshvarIsahasranAmastotram.itx"
-itxtitle = "yogeshvarIsahasranAmastotram"
-engtitle = "Yogeshwari Sahasranamastotram"
-Category = "sahasranAma, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Avinash Sathaye, NA, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "rudrayAmale uttarakhaNDe devIcharitre (unsure)"
-Source = "Also Indic Manuscript Collection at dla.library.upenn.edu"
-Acknowledge-Permission = "http://chitpavanfoundation.org/Chitpavans/"
-"Latest update" = "May 5, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगेश्वरीसहस्रनामस्तोत्रम्"
+---
+Acknowledge-Permission: http://chitpavanfoundation.org/Chitpavans/
+Category: sahasranAma, devii, devI
+Description/comments: rudrayAmale uttarakhaNDe devIcharitre (unsure)
+File name: yogeshvarIsahasranAmastotram.itx
+Language: Sanskrit
+Latest update: May 5, 2017
+Location: doc_devii
+Proofread by: Avinash Sathaye, NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Also Indic Manuscript Collection at dla.library.upenn.edu
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Yogeshwari Sahasranama Stotram
+engtitle: Yogeshwari Sahasranamastotram
+itxtitle: yogeshvarIsahasranAmastotram
+title: योगेश्वरीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीयोगेश्वरीसहस्रनामस्तोत्रम्   
   
@@ -511,7 +511,7 @@ title = "योगेश्वरीसहस्रनामस्तोत्�
 कमला केशिजा केशी कर्षा कर्पूरकालिजा ।  
 गिरिजा गर्वजा गोत्रा अकुला कुलजा तथा ॥ ११९॥  
   
-दिनजा दिनमाना च वेदजा वेदसम्भृता । वेदसंमता  
+दिनजा दिनमाना च वेदजा वेदसम्भृता । वेदसम्मता  
 क्रोधजा कुटजा धारा परमा बलगर्विता ॥ १२०॥  
   
 सर्वलोकोत्तराभावा सर्वकालोद्भवात्मिका ।  
@@ -580,7 +580,7 @@ title = "योगेश्वरीसहस्रनामस्तोत्�
 सहस्रनामसंस्तोत्रा सहस्राक्षबलापहा ॥ १४१॥  
   
 प्रकाशाख्या विमर्शाख्या प्रकाशकविमर्शका ।  
-निर्वाणचरणा देवी चतुश्चरणसंज्ञका ॥ १४२॥  
+निर्वाणचरणा देवी चतुश्चरणसञ्ज्ञका ॥ १४२॥  
   
 चतुर्विज्ञानशक्त्याढ्या सुभगा च क्रियायुता ।  
 स्मरेशा शान्तिदा इच्छा इच्छाशक्तिसमान्विता ॥ १४३॥  

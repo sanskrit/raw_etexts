@@ -1,21 +1,22 @@
-+++
-"Text title" = "shrIrAdhAgopAlakavacham"
-"File name" = "rAdhAgopAlakavacham.itx"
-itxtitle = "rAdhAgopAlakavacham"
-engtitle = "shrIrAdhAgopAlakavacham"
-Category = "vishhnu, vishnu, kavacha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधागोपालकवचम्"
+---
+Category: vishhnu, vishnu, kavacha
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: rAdhAgopAlakavacham.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIrAdhAgopAlakavacham
+engtitle: shrIrAdhAgopAlakavacham
+itxtitle: rAdhAgopAlakavacham
+title: राधागोपालकवचम्
 
-+++
+---
   
  श्रीराधागोपालकवचम्   
   

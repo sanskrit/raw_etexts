@@ -3,7 +3,6 @@ title: 021 Rama consoles angry Lakshmana
 title_english: 021 Rama consoles angry Lakshmana
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-021-Lakshmnasya_Viryokthihi.mp3"></div>
 
 तथा तु विलपन्तीम् ताम् कौसल्याम् राम मातरम् ।  
@@ -98,7 +97,7 @@ title_english: 021 Rama consoles angry Lakshmana
 शापिता असि मम प्राणैः कुरु स्वस्त्ययनानि मे ॥ २-२१-४५  
 तीर्ण प्रतिज्ञः च वनात् पुनर् एष्याम्य् अहम् पुरीम् ।  
 ययातिरिव राजर्षिः पुरा हित्वा पुनर्धिवम् ॥ २-२१-४६  
-शोकस्संधार्यताम् मातर्हृदये साधु मा शुचः ।  
+शोकस्सन्धार्यताम् मातर्हृदये साधु मा शुचः ।  
 वनवासादिहैष्यामि पुनः कृत्वा पितुर्वचः ॥ २-२१-४७  
 त्वया मया च वैदेह्या लक्ष्मणेन सुमित्रया ।  
 पितुर्नियोगे स्थातव्यमेष धर्मः सनाअनः ॥ २-२१-४८  

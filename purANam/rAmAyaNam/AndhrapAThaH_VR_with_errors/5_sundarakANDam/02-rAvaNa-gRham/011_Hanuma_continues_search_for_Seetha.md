@@ -3,7 +3,6 @@ title: 011 Hanuma continues search for Seetha
 title_english: 011 Hanuma continues search for Seetha
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-011-Hanuma_continues_search_for_Seetha.mp3"></div>
 
 अवधूय च ताम् बुद्धिम् बभूव अवस्थितः तदा ।  
@@ -86,7 +85,7 @@ title_english: 011 Hanuma continues search for Seetha
 तस्य प्रादुर् अभूच् चिन्ता पुनर् अन्या मनस्विनः ॥ ५-११-३९  
 निश्चित एक अन्त चित्तस्य कार्य निश्चय दर्शिनी ।  
 कामम् दृष्ट्वा मया सर्वा विश्वस्ता रावण स्त्रियः ॥ ५-११-४०  
-न तु मे मनसः किंचिद् वैकृत्यम् उपपद्यते ।  
+न तु मे मनसः किञ्चिद् वैकृत्यम् उपपद्यते ।  
 मनो हि हेतुः सर्वेषाम् इन्द्रियाणाम् प्रवर्तते ॥ ५-११-४१  
 शुभ अशुभास्व् अवस्थासु तच् च मे सुव्यवस्थितम् ।  
 न अन्यत्र हि मया शक्या वैदेही परिमार्गितुम् ॥ ५-११-४२  

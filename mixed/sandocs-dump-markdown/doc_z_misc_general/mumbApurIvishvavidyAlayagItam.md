@@ -1,22 +1,22 @@
-+++
-"Text title" = "mumbApurIvishvavidyAlayagItam"
-"File name" = "mumbApurIvishvavidyAlayagItam.itx"
-itxtitle = "mumbApurIvishvavidyAlayagItam"
-engtitle = "mumbApurIvishvavidyAlayagItam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com"
-Indexextra = "(audio, videos 1 , 2, 3, 3, 4)"
-"Latest update" = "December 25, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मुम्बापुरीविश्वविद्यालयगीतम्"
+---
+Category: misc, sanskritgeet
+File name: mumbApurIvishvavidyAlayagItam.itx
+Indexextra: (audio, videos 1 , 2, 3, 3, 4)
+Language: Sanskrit
+Latest update: December 25, 2018
+Location: doc_z_misc_general
+Proofread by: Ganesh Kandu kanduganesh at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: mumbApurIvishvavidyAlayagItam
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: mumbApurIvishvavidyAlayagItam
+itxtitle: mumbApurIvishvavidyAlayagItam
+title: मुम्बापुरीविश्वविद्यालयगीतम्
 
-+++
+---
   
  मुम्बापुरीविश्वविद्यालयगीतं   
 इदं सुन्दरं मन्दिरं शारदाया  

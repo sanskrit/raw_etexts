@@ -1,22 +1,22 @@
-+++
-"Text title" = "dhanvantarIsuprabhAtam"
-"File name" = "dhanvantarIsuprabhAtam.itx"
-itxtitle = "dhanvantarI suprabhAtam"
-engtitle = "dhanvantarI suprabhAtam"
-Category = "suprabhAta, vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Ottuur Unni Namboodripaadu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion/Ayurveda"
-"Transliterated by" = "Usha Iyer iyerku at gmail.com"
-"Proofread by" = "Usha Iyer iyerku at gmail.com"
-"Latest update" = "June 19, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धन्वन्तरी सुप्रभातम्"
+---
+Author: Ottuur Unni Namboodripaadu
+Category: suprabhAta, vishhnu
+File name: dhanvantarIsuprabhAtam.itx
+Language: Sanskrit
+Latest update: June 19, 2011
+Location: doc_vishhnu
+Proofread by: Usha Iyer iyerku at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion/Ayurveda
+Sublocation: vishhnu
+Text title: dhanvantarIsuprabhAtam
+Transliterated by: Usha Iyer iyerku at gmail.com
+engtitle: dhanvantarI suprabhAtam
+itxtitle: dhanvantarI suprabhAtam
+title: धन्वन्तरी सुप्रभातम्
 
-+++
+---
   
  धन्वन्तरी सुप्रभातम्   
   
@@ -33,7 +33,7 @@ title = "धन्वन्तरी सुप्रभातम्"
         धन्वन्तरे, मधुरिपो तव सुप्रभातम् ॥ २॥  
   
 उद्बिभ्रतो नवसुधाकलशं जलूकां,  
-शंखं रथाङ्गमपि पाणितलैश्चतुर्भिः ।  
+शङ्खं रथाङ्गमपि पाणितलैश्चतुर्भिः ।  
 चिह्नानि कौस्तुभमुखानि च तत्तद्ङ्गैर्  
 धन्वन्तरे, मुररिपो तव सुप्रभातम् ॥ ३॥  
   
@@ -67,14 +67,14 @@ title = "धन्वन्तरी सुप्रभातम्"
 रोगद्वय प्रशमनाय नृणां प्रदातुर्,  
 धन्वन्तरे, भवतु भो तव सुप्रभातम् ॥ ९॥  
   
-        अमृतघटजवूकं चक्रशंखांश्चतुर्भिः,  
+        अमृतघटजवूकं चक्रशङ्खांश्चतुर्भिः,  
         मसृणकरसरोजैर्बिभ्रते, विश्वगोप्त्रे ।  
-        उभयनरकहंत्रे, नाथ, धन्वन्तरे, ते,  
+        उभयनरकहन्त्रे, नाथ, धन्वन्तरे, ते,  
         भवतु शुभवराणां दाशुषे सुप्रभातम् ॥ १०॥  
   
 मेघश्यामललोभनीयवपुषे विध्युत् स्फुरद्वाससे,  
 श्रीमद्दीर्घ चतुर्भुजैः नवसुधाकुम्भम् जलूकामरिम् ।  
-शंखंचोद्वहते, कृपाप्लुतदृशे मन्दस्मितश्रीमुचे,  
+शङ्खञ्चोद्वहते, कृपाप्लुतदृशे मन्दस्मितश्रीमुचे,  
 भूयात् सन्तत सुप्रभातमयि भो धन्वन्तरे ते हरे ॥ ११॥  
   
         आयुर्वेदविधायिन स्तनुभृतामन्तर्बहिर्वासिनः,  
@@ -84,7 +84,7 @@ title = "धन्वन्तरी सुप्रभातम्"
   
 सर्वेषां सुखहेतवे, भव महापाथोनिधेस्सेतवे,  
 मुक्तिश्रीजयकेतवे, मृतिभयत्रस्तस्य जीवातवे ।  
-सक्तानां सुरधेनवे, विधिविमृग्यांघ्रिद्वयीरेणवे,  
+सक्तानां सुरधेनवे, विधिविमृग्याङ्घ्रिद्वयीरेणवे,  
 भूयादुज्ज्वल सुप्रभातमयि ते गोविन्द धन्वन्तरे ॥ १३॥  
   
         श्रीधन्वन्तरिमूर्तये सुरवरैरुद्गीतसत्कीर्तये,  
@@ -94,7 +94,7 @@ title = "धन्वन्तरी सुप्रभातम्"
   
 भक्तैर्निर्मथ्य मानान्नवविधभगवद्धर्मदुग्धाम्बुराशेः,  
 प्रादुर्भूताय भक्त्यात्मकवयुनसुधाकुम्भ हस्ताम्बुजाय,  
-संसारव्याधिहंत्रे, निरुपम परमानन्द सन्दोहदात्रे,  
+संसारव्याधिहन्त्रे, निरुपम परमानन्द सन्दोहदात्रे,  
 भो भूयात् सुप्रभातं मुरमथन, हरे कृष्ण धन्वन्तरे ते ॥ १५॥  
   
   

@@ -1,25 +1,25 @@
-+++
-"Text title" = "gurvashhTakam"
-"File name" = "gurvashtakam.itx"
-itxtitle = "gurvAShTakam 1 (sArtham)"
-engtitle = "gurvaShTakam"
-Category = "aShTaka, deities_misc, gurudev, shankarAchArya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Original encoding by Sorin Suciu aka SeSe at sorins at hotmail.com"
-"Proofread by" = "Sunder Hattangadi"
-Description-comments = "Hymn of 8 verses in praise of the Guru"
-Indexextra = "(with meaning)"
-"Latest update" = "july 6, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुर्वाष्टकम् १ (सार्थम्)"
+---
+Author: Adi Shankaracharya
+Category: aShTaka, deities_misc, gurudev, shankarAchArya
+Description-comments: Hymn of 8 verses in praise of the Guru
+File name: gurvashtakam.itx
+Indexextra: (with meaning)
+Language: Sanskrit
+Latest update: july 6, 2001
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: hinduism/religion
+Sublocation: deities_misc
+Text title: gurvashhTakam
+Transliterated by: Original encoding by Sorin Suciu aka SeSe at sorins at hotmail.com
+engtitle: gurvaShTakam
+itxtitle: gurvAShTakam 1 (sArtham)
+title: गुर्वाष्टकम् १ (सार्थम्)
 
-+++
+---
   
  गुर्वष्टकं   
   
@@ -107,7 +107,7 @@ lotus feet of the Guru, what then, what then, what then?
   
      गुरोरष्टकं यः पठेत्पुण्यदेही  
             यतिर्भूपतिर्ब्रह्मचारी च गेही ।  
-     लभेद्वाञ्छितार्थं पदं ब्रह्मसंज्ञं  
+     लभेद्वाञ्छितार्थं पदं ब्रह्मसञ्ज्ञं  
             गुरोरुक्तवाक्ये मनो यस्य लग्नम् ॥   
 Whoever, hallowed by holy merit, ponders the above octad extolling the  
 Guru, whose mind is centred upon the words of the Guru, whether such a  

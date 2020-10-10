@@ -1,22 +1,22 @@
-+++
-"Text title" = "vAsudevAShTakaM"
-"File name" = "vaasudev8.itx"
-itxtitle = "vAsudevAShTakam"
-engtitle = "vAsudevAShTakam"
-Category = "aShTaka, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. P. Narayanaswami swami at math.mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at math.mun.ca"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासुदेवाष्टकम्"
+---
+Category: aShTaka, vishhnu, krishna, vishnu
+File name: vaasudev8.itx
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_vishhnu
+Proofread by: P. P. Narayanaswami swami at math.mun.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vAsudevAShTakaM
+Transliterated by: P. P. Narayanaswami swami at math.mun.ca
+engtitle: vAsudevAShTakam
+itxtitle: vAsudevAShTakam
+title: वासुदेवाष्टकम्
 
-+++
+---
   
  वासुदेवाष्टकं   
   
@@ -31,7 +31,7 @@ title = "वासुदेवाष्टकम्"
 गोविन्द गोपसुत गोगणपाललोल गोपीजनाङ्गकमनीयनिजाङ्गसङ्ग  ।  
 गोदेविवल्लभ महेश्वरमुख्यवन्द्य श्रीभूपते हर हरे सकलामयं मे ॥ २॥  
   
-नीलाळिकेश परिभूषितबर्हिबर्ह काळांबुदद्युतिकळायकळेबराभ  ।  
+नीलाळिकेश परिभूषितबर्हिबर्ह काळाम्बुदद्युतिकळायकळेबराभ  ।  
 वीर स्वभक्तजनवत्सल नीरजाक्ष श्रीभूपते हर हरे सकलामयं मे ॥ ३॥  
   
 आनन्दरूप जनकानकपूर्वदुन्दुभ्यानन्दसागर सुधाकरसौकुमार्य  ।  

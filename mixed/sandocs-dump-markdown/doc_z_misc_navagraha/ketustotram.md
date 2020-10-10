@@ -1,23 +1,23 @@
-+++
-"Text title" = "ketustotram"
-"File name" = "ketustotram.itx"
-itxtitle = "ketustotram"
-engtitle = "ketustotram"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-"Proofread by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-Description-comments = "From Grantha/Tamil book Adityadi Navagraha Stotra"
-"Latest update" = "June 28, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "केतुस्तोत्रम्"
+---
+Category: navagraha, stotra
+Description-comments: From Grantha/Tamil book Adityadi Navagraha Stotra
+File name: ketustotram.itx
+Language: Sanskrit
+Latest update: June 28, 2012
+Location: doc_z_misc_navagraha
+Proofread by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: ketustotram
+Texttype: stotra
+Transliterated by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+engtitle: ketustotram
+itxtitle: ketustotram
+title: केतुस्तोत्रम्
 
-+++
+---
   
  केतुस्तोत्रम्   
   

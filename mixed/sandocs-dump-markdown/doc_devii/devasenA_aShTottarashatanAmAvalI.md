@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrii devasenaa aShTottarashatanaamaavaliH"
-"File name" = "devasena108.itx"
-itxtitle = "devasenA aShTottarashatanAmAvalI"
-engtitle = "devasenA aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, subrahmanya, nAmAvalI, devii, devI"
-Location = "doc_devii"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "March 15, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवसेना अष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, subrahmanya, nAmAvalI, devii, devI
+File name: devasena108.itx
+Language: Sanskrit
+Latest update: March 15, 2006
+Location: doc_devii
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrii devasenaa aShTottarashatanaamaavaliH
+Texttype: nAmAvalI
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: devasenA aShTottarashatanAmAvalI
+itxtitle: devasenA aShTottarashatanAmAvalI
+title: देवसेना अष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीदेवसेना अष्टोत्तरशतनामावली   
   

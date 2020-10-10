@@ -1,22 +1,22 @@
-+++
-"Text title" = "vaiShNavIdevIstutiH"
-"File name" = "vaiShNavIdevIstutiH.itx"
-itxtitle = "vaiShNavIdevIstutiH (dvijendrakavivirachitA)"
-engtitle = "vaiShNavIdevIstutiH"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Kavi Dvijendra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वैष्णवीदेवीस्तुतिः (द्विजेन्द्रकविविरचिता)"
+---
+Author: Kavi Dvijendra
+Category: devii, devI
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: vaiShNavIdevIstutiH.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vaiShNavIdevIstutiH
+engtitle: vaiShNavIdevIstutiH
+itxtitle: vaiShNavIdevIstutiH (dvijendrakavivirachitA)
+title: वैष्णवीदेवीस्तुतिः (द्विजेन्द्रकविविरचिता)
 
-+++
+---
   
  वैष्णवीदेवीस्तुतिः   
 वन्देऽहं युवतीं नित्यां कृष्णवर्णां चतुर्भुजाम् ।  

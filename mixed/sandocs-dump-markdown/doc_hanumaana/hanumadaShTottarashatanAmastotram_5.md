@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumadaShTottarashatanAmastutiH 5"
-"File name" = "hanumadaShTottarashatanAmastutiH5.itx"
-itxtitle = "hanumadaShTottarashatanAmastotram 5"
-engtitle = "hanumadaShTottarashatanAmastutiH 5"
-Category = "aShTottarashatanAma, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमदष्टोत्तरशतनामस्तोत्रम् ५"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: aShTottarashatanAma, hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumadaShTottarashatanAmastutiH5.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumadaShTottarashatanAmastutiH 5
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: hanumadaShTottarashatanAmastutiH 5
+itxtitle: hanumadaShTottarashatanAmastotram 5
+title: हनुमदष्टोत्तरशतनामस्तोत्रम् ५
 
-+++
+---
   
  हनुमदष्टोत्तरशतनामस्तुतिः ५   
 (कार्यकारस्वामिनाथार्यविरचिता रामनामाङ्किता)  

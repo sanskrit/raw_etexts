@@ -1,20 +1,20 @@
-+++
-"Text title" = "brahmANDavijaya shrIshivakavacham"
-"File name" = "brahmANDavijayashivakavachamBVP.itx"
-itxtitle = "shivakavacham brahmANDavijayam (brahmavaivartapurANAntargatam)"
-engtitle = "brahmANDavijaya shivakavacham"
-Category = "kavacha, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "BVP?"
-"Latest update" = "January 22, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवकवचम् ब्रह्माण्डविजयम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: kavacha, shiva
+File name: brahmANDavijayashivakavachamBVP.itx
+Language: Sanskrit
+Latest update: January 22, 2015
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: brahmANDavijaya shrIshivakavacham
+Transliterated by: BVP?
+engtitle: brahmANDavijaya shivakavacham
+itxtitle: shivakavacham brahmANDavijayam (brahmavaivartapurANAntargatam)
+title: शिवकवचम् ब्रह्माण्डविजयम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  ब्रह्माण्डविजय श्रीशिवकवचम्   
   

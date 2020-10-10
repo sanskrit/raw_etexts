@@ -3,7 +3,6 @@ title: 009 राज-सूत-संवादः
 title_english: 009 Legend of Sage Rishyasringa
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-009-Raajaa_-Sootha_Samvaadaha.mp3"></div>
 
   

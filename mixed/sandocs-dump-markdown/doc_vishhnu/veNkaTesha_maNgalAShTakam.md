@@ -1,22 +1,22 @@
-+++
-"Text title" = "veNkaTesha maNglAShTakam"
-"File name" = "venkaTeshamangalAShTakam.itx"
-itxtitle = "veNkaTesha maNgalAShTakam"
-engtitle = "Shri Venkatesha Mangalashtakam"
-Category = "aShTaka, vishhnu, venkateshwara, vishnu, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Latest update" = "August 22, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेश मण्गलाष्टकम्"
+---
+Category: aShTaka, vishhnu, venkateshwara, vishnu, mangala
+File name: venkaTeshamangalAShTakam.itx
+Language: Sanskrit
+Latest update: August 22, 2012
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veNkaTesha maNglAShTakam
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Shri Venkatesha Mangalashtakam
+itxtitle: veNkaTesha maNgalAShTakam
+title: वेण्कटेश मण्गलाष्टकम्
 
-+++
+---
   
  श्रीवेङ्कटेश मङ्गलाष्टकम्   
   

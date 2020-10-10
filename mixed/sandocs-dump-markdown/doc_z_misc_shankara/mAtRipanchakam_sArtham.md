@@ -1,22 +1,22 @@
-+++
-"Text title" = "mAtRipanchakaM"
-"File name" = "maatri5.itx"
-itxtitle = "mAtRipanchakam (sArtham)"
-engtitle = "mAtRipanchakam"
-Category = "panchaka, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Darshan Bhatt darshanbhatt at hotmail.com"
-Indexextra = "(with meaning)"
-"Latest update" = "December 25, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातृइपञ्चकम् (सार्थम्)"
+---
+Author: Shankaracharya
+Category: panchaka, shankarAchArya
+File name: maatri5.itx
+Indexextra: (with meaning)
+Language: Sanskrit
+Latest update: December 25, 2002
+Location: doc_z_misc_shankara
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: mAtRipanchakaM
+Transliterated by: Darshan Bhatt darshanbhatt at hotmail.com
+engtitle: mAtRipanchakam
+itxtitle: mAtRipanchakam (sArtham)
+title: मातृइपञ्चकम् (सार्थम्)
 
-+++
+---
   
  मातृपञ्चकम् सार्थम्   
   
@@ -26,7 +26,7 @@ title = "मातृइपञ्चकम् (सार्थम्)"
 इत्युक्तवत्यास्तव वाचि मातः  
    ददाम्यहं तण्डुलमेव शुष्कम् ॥ १॥  
   
-अंबेति तातेति शिवेति तस्मिन्  
+अम्बेति तातेति शिवेति तस्मिन्  
    प्रसूतिकाले यदवोच उच्चैः ।  
 कृष्णेति गोविन्द हरे मुकुन्द  
    इति जनन्यै अहो रचितोऽयमञ्जलिः ॥ २॥  
@@ -55,9 +55,9 @@ title = "मातृइपञ्चकम् (सार्थम्)"
 इत्युक्तवत्याः तव वाचि मातः ददामि अहं  
 तण्डुलम् एव शुष्कम् ॥ १॥  
   
-अंबा इति तात इति  शिव इति तस्मिन्  
+अम्बा इति तात इति  शिव इति तस्मिन्  
 प्रसूतिकाले यदवोच उच्चैः ।  
-कृष्णेति गोविन्द हरे मुकुंद इति जनन्यै  
+कृष्णेति गोविन्द हरे मुकुन्द इति जनन्यै  
 अहो रचितोऽयं अञ्जलिः ॥ २॥  
   
 आस्तं तावद् इयं प्रसूतिसमये दुर्वारशूलव्यथा  

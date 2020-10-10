@@ -1,23 +1,23 @@
-+++
-"Text title" = "Sarve Lokeshu Ramyam"
-"File name" = "sarvalokeShuramyam.itx"
-itxtitle = "sarvalokeShu ramyam (2 hindI sAre jahA.N se achChA)"
-engtitle = "sarva lokeShu ramyam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Hindi original poet Mohammad Iqbal, Sanskrit translation Ranjan Bezbaruha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(Videos 1, 2, 3, Audio)"
-"Latest update" = "January 26, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सर्वलोकेषु रम्यम् (२ हिन्दी सारे जहाँ से अच्छा)"
+---
+Author: Hindi original poet Mohammad Iqbal, Sanskrit translation Ranjan Bezbaruha
+Category: misc, sanskritgeet
+File name: sarvalokeShuramyam.itx
+Indexextra: (Videos 1, 2, 3, Audio)
+Language: Sanskrit
+Latest update: January 26, 2020
+Location: doc_z_misc_general
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Sarve Lokeshu Ramyam
+Transliterated by: NA
+engtitle: sarva lokeShu ramyam
+itxtitle: sarvalokeShu ramyam (2 hindI sAre jahA.N se achChA)
+title: सर्वलोकेषु रम्यम् (२ हिन्दी सारे जहाँ से अच्छा)
 
-+++
+---
   
  सर्वलोकेषु रम्यम्   
 सर्वलोकेषु रम्यं हि भारतमस्मदीयं, मदीयम् ।  

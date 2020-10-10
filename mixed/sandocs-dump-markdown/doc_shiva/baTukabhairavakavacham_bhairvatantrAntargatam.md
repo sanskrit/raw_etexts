@@ -1,23 +1,23 @@
-+++
-"Text title" = "Batukabhairavakavacham"
-"File name" = "baTukabhairavakavacham.itx"
-itxtitle = "baTukabhairavakavacham (bhairvatantrAntargatam)"
-engtitle = "baTukabhairavakavacham"
-Category = "shiva, kavacha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Madhura Bal madhurabal11 at gmail.com"
-"Proofread by" = "Madhura Bal madhurabal11 at gmail.com"
-"Description/comments" = "Bhairavatantra"
-Indexextra = "(Scan)"
-"Latest update" = "September 28, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बटुकभैरवकवचम् (भैर्वतन्त्रान्तर्गतम्)"
+---
+Category: shiva, kavacha
+Description/comments: Bhairavatantra
+File name: baTukabhairavakavacham.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 28, 2018
+Location: doc_shiva
+Proofread by: Madhura Bal madhurabal11 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Batukabhairavakavacham
+Transliterated by: Madhura Bal madhurabal11 at gmail.com
+engtitle: baTukabhairavakavacham
+itxtitle: baTukabhairavakavacham (bhairvatantrAntargatam)
+title: बटुकभैरवकवचम् (भैर्वतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीबटुकभैरवकवचम्   
 उक्तं च भैरवतन्त्रे ।  

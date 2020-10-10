@@ -1,23 +1,24 @@
-+++
-"Text title" = "parabrahma prAtaH smaraNa"
-"File name" = "parabrahprMean.itx"
-itxtitle = "parabrahma athavA vedAnta prAtaHsmaraNastotram (sArtham)"
-engtitle = "parabrahma prAtaHsmaraNastotram.h"
-Category = "suprabhAta, deities_misc, vedanta"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dhrup Chand"
-"Proofread by" = "Dhrup Chand, NA"
-Description-comments = "Vishnustutimanjari Vol 2 page 684, BSR 528, page 509, stotrasanchaya page 7"
-Indexextra = "(Scanned, stotrasanchaya Hindi)"
-"Latest update" = "1998, December 8, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परब्रह्म अथवा वेदान्त प्रातःस्मरणस्तोत्रम् (सार्थम्)"
+---
+Category: suprabhAta, deities_misc, vedanta
+Description-comments: Vishnustutimanjari Vol 2 page 684, BSR 528, page 509, stotrasanchaya
+  page 7
+File name: parabrahprMean.itx
+Indexextra: (Scanned, stotrasanchaya Hindi)
+Language: Sanskrit
+Latest update: 1998, December 8, 2017
+Location: doc_deities_misc
+Proofread by: Dhrup Chand, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: parabrahma prAtaH smaraNa
+Transliterated by: Dhrup Chand
+engtitle: parabrahma prAtaHsmaraNastotram.h
+itxtitle: parabrahma athavA vedAnta prAtaHsmaraNastotram (sArtham)
+title: परब्रह्म अथवा वेदान्त प्रातःस्मरणस्तोत्रम् (सार्थम्)
 
-+++
+---
   
  परब्रह्मप्रातःस्मरणस्तोत्रम् सार्थम्   
   

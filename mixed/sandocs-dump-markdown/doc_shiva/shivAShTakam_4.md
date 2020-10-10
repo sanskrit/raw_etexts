@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivAShTakam 4"
-"File name" = "shivAShTakam4.itx"
-itxtitle = "shivAShTakam 4"
-engtitle = "shivAShTakam 4"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवाष्टकम् ४"
+---
+Category: aShTaka, shiva
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: shivAShTakam4.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivAShTakam 4
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: shivAShTakam 4
+itxtitle: shivAShTakam 4
+title: शिवाष्टकम् ४
 
-+++
+---
   
  शिवाष्टकम् ४   
   

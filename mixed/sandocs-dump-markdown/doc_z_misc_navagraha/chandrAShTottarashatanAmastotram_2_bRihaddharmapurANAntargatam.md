@@ -1,23 +1,23 @@
-+++
-"Text title" = "chandrAShTottarashatanAmastotram 2"
-"File name" = "chandrAShTottarashatanAmastotram2.itx"
-itxtitle = "chandrAShTottarashatanAmastotram 2 (bRihaddharmapurANAntargatam)"
-engtitle = "chandra aShTottarashatanAma stotram 2"
-Category = "aShTottarashatanAma, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay gmail.com"
-Description-comments = "See corresponding nAmAvalI"
-"Latest update" = "June 3, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्राष्टोत्तरशतनामस्तोत्रम् २ (बृइहद्धर्मपुराणान्तर्गतम्)"
+---
+Category: aShTottarashatanAma, navagraha, stotra
+Description-comments: See corresponding nAmAvalI
+File name: chandrAShTottarashatanAmastotram2.itx
+Language: Sanskrit
+Latest update: June 3, 2019
+Location: doc_z_misc_navagraha
+Proofread by: Gopal Upadhyay gopal.j.upadhyay gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: chandrAShTottarashatanAmastotram 2
+Texttype: stotra
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay gmail.com
+engtitle: chandra aShTottarashatanAma stotram 2
+itxtitle: chandrAShTottarashatanAmastotram 2 (bRihaddharmapurANAntargatam)
+title: चन्द्राष्टोत्तरशतनामस्तोत्रम् २ (बृइहद्धर्मपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीचन्द्राष्टोत्तरशतनामस्तोत्रम् २   
 अथ श्रीचन्द्राष्टोत्तरशतनामस्तोत्रम् ।  

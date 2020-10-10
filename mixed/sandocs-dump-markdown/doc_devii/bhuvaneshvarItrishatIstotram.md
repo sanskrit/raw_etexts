@@ -1,24 +1,24 @@
-+++
-"Text title" = "Bhuvaneshvari Trishati Stotram"
-"File name" = "bhuvaneshvarItrishatIstotram.itx"
-itxtitle = "bhuvaneshvarItrishatIstotram"
-engtitle = "Bhuvaneshvari Trishati Stotram"
-Category = "devii, devI, trishatI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan"
-"Proofread by" = "Aruna Narayanan"
-"Description/comments" = "See corresponding Namavali"
-Indexextra = "(Tamil Scan, nAmAvalI)"
-"Latest update" = "June 23, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वरीत्रिशतीस्तोत्रम्"
+---
+Category: devii, devI, trishatI, dashamahAvidyA
+Description/comments: See corresponding Namavali
+File name: bhuvaneshvarItrishatIstotram.itx
+Indexextra: (Tamil Scan, nAmAvalI)
+Language: Sanskrit
+Latest update: June 23, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Bhuvaneshvari Trishati Stotram
+Transliterated by: Aruna Narayanan
+engtitle: Bhuvaneshvari Trishati Stotram
+itxtitle: bhuvaneshvarItrishatIstotram
+title: भुवनेश्वरीत्रिशतीस्तोत्रम्
 
-+++
+---
   
  श्रीभुवनेश्वरीत्रिशतीस्तोत्रं   
 अस्य श्रीभुवनेश्वरी त्रिशतीमालामहामन्त्रस्य सदाशिवऋषिः,  

@@ -1,24 +1,25 @@
-+++
-"Text title" = "tulasIstotram"
-"File name" = "tulasIstotram.itx"
-itxtitle = "tulasIstotram"
-engtitle = "tulasI stotram."
-Category = "devii, tulasI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Texttype = "stotra"
-Author = "Sri Pundarikaksha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.mypurohith.com"
-"Proofread by" = "Anuradha anuradha at cs.com and Dr. Varagur S.V.  Rajan sankrityaraja at shaw.ca"
-"Latest update" = "September 8, 2004, NOvember 25, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलसीस्तोत्रम्"
+---
+Author: Sri Pundarikaksha
+Category: devii, tulasI, stotra, devI
+File name: tulasIstotram.itx
+Language: Sanskrit
+Latest update: September 8, 2004, NOvember 25, 2018
+Location: doc_devii
+Proofread by: Anuradha anuradha at cs.com and Dr. Varagur S.V.  Rajan sankrityaraja
+  at shaw.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulasIstotram
+Texttype: stotra
+Transliterated by: http://www.mypurohith.com
+engtitle: tulasI stotram.
+itxtitle: tulasIstotram
+title: तुलसीस्तोत्रम्
 
-+++
+---
   
  श्रीतुलसीस्तोत्रम्   
 जगद्धात्रि! नमस्तुभ्यं विष्णोश्च प्रियवल्लभे ।  

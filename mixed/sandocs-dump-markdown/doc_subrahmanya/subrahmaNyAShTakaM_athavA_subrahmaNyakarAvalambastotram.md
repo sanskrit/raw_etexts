@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri SubrahmanyAshtakam or Subrahmanyakaravalmbastotram"
-"File name" = "subrahmaNyAShTakamkarAvalambastotra.itx"
-itxtitle = "subrahmaNyAShTakaM athavA subrahmaNyakarAvalambastotram"
-engtitle = "SubrahmanyAshtakam or Subrahmanyakaravalmbastotram"
-Category = "aShTaka, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran, Rajnarayanan C K krajnara gmail.com"
-Description-comments = "Brihatstotraratnakara 1927 Madras, page 88, SSM"
-"Latest update" = "November 2, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्याष्टकं अथवा सुब्रह्मण्यकरावलम्बस्तोत्रम्"
+---
+Category: aShTaka, subrahmanya
+Description-comments: Brihatstotraratnakara 1927 Madras, page 88, SSM
+File name: subrahmaNyAShTakamkarAvalambastotra.itx
+Language: Sanskrit
+Latest update: November 2, 2016
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran, Rajnarayanan C K krajnara gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Shri SubrahmanyAshtakam or Subrahmanyakaravalmbastotram
+engtitle: SubrahmanyAshtakam or Subrahmanyakaravalmbastotram
+itxtitle: subrahmaNyAShTakaM athavA subrahmaNyakarAvalambastotram
+title: सुब्रह्मण्याष्टकं अथवा सुब्रह्मण्यकरावलम्बस्तोत्रम्
 
-+++
+---
   
  श्रीसुब्रह्मण्याष्टकम् अथवा श्रीसुब्रह्मण्य करावलम्बस्तोत्रम्   
 हे स्वामिनाथ! करुणाकर दीनबन्धो  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "svapnoditam"
-"File name" = "svapnoditam.itx"
-itxtitle = "svapnoditam (sadAshivendravirachitam)"
-engtitle = "svapnoditam"
-Category = "major_works, sadAshivabrahmendra"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Sadashivendra Sarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वप्नोदितम् (सदाशिवेन्द्रविरचितम्)"
+---
+Author: Sadashivendra Sarasvati
+Category: major_works, sadAshivabrahmendra
+File name: svapnoditam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 2, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: svapnoditam
+engtitle: svapnoditam
+itxtitle: svapnoditam (sadAshivendravirachitam)
+title: स्वप्नोदितम् (सदाशिवेन्द्रविरचितम्)
 
-+++
+---
   
  स्वप्नोदितम्   
 देशिकानुग्रहोत्तुङ्गतरङ्गशिशिराशयः ।  

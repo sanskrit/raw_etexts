@@ -1,24 +1,24 @@
-+++
-"Text title" = "shivastavaH"
-"File name" = "shivastava.itx"
-itxtitle = "shivastavaH 2"
-engtitle = "shivastavaH 2"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-Description-comments = "Found in inscriptions in the Far East lands of Java and Cambodia"
-Indexextra = "(Java)"
-"Latest update" = "November 25, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवस्तवः २"
+---
+Category: shiva, stotra
+Description-comments: Found in inscriptions in the Far East lands of Java and Cambodia
+File name: shivastava.itx
+Indexextra: (Java)
+Language: Sanskrit
+Latest update: November 25, 2006
+Location: doc_shiva
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivastavaH
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: shivastavaH 2
+itxtitle: shivastavaH 2
+title: शिवस्तवः २
 
-+++
+---
   
  श्रीशिवस्तवः २   
   
@@ -50,7 +50,7 @@ near Java is given below along with some other verses on Shiva.
 वाक्ये हीनेऽतिरिक्ते वा मां क्षमस्व सुरोत्तम ॥ ६॥  
   
 नमस्ते देवदेवेश ईशान वरदाच्युत ।  
-मम सिद्धिं भूयश्च (सिद्धिः सदा भूयात्) सर्वकार्येषु शंकर ॥ ७॥  
+मम सिद्धिं भूयश्च (सिद्धिः सदा भूयात्) सर्वकार्येषु शङ्कर ॥ ७॥  
   
 ब्रह्मा विष्णुरीश्वरश्च महादेव नमोऽस्तु ते ।  
 सर्वकार्यं प्रसिध्यतां क्षमानुग्रहकारण ॥ ८॥  
@@ -71,9 +71,9 @@ Line one of this verse is missing
 यमान्तरं ज्योतिरुपासते बुधाः निरुत्तरं ब्रह्मपदं जिगीषवः ॥ १॥  
   
 तपश्श्रुतेज्याविधयो यदर्पणा(त्) भवन्त्यनिर्देश्यफलानुबन्धिनः ।  
-न केवलं तत्फलयोगसंगिनामसंगिनां कर्मफलत्यजामपि ॥ २॥  
+न केवलं तत्फलयोगसङ्गिनामसङ्गिनां कर्मफलत्यजामपि ॥ २॥  
   
-निसर्गसिद्धैरणिमादिभिर्गुणैरुपेतमंगीकृतशक्तिविस्तरईः (रम्)।  
+निसर्गसिद्धैरणिमादिभिर्गुणैरुपेतमङ्गीकृतशक्तिविस्तरईः (रम्)।  
 धियामतीतं वचसामगोचरमनास्पदं यस्य पदं विदुर्बुधाः ॥ ३॥  
   
                  ॥ ॐ तत्सत् ॥  

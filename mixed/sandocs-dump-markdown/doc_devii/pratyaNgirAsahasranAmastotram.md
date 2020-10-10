@@ -1,23 +1,24 @@
-+++
-"Text title" = "shrIpratyangirAsahasranAmastotram"
-"File name" = "pratyangirAsahasranAmastotra.itx"
-itxtitle = "pratyaNgirAsahasranAmastotram"
-engtitle = "shrIpratyangirAsahasranAmastotram"
-Category = "sahasranAma, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Source = "shrIrudrayAmale tantre dashavidyA rahasye"
-Indexextra = "(Scan)"
-"Latest update" = "July 18, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रत्यण्गिरासहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, devii, dashamahAvidyA, devI
+File name: pratyangirAsahasranAmastotra.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 18, 2019
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrIrudrayAmale tantre dashavidyA rahasye
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIpratyangirAsahasranAmastotram
+engtitle: shrIpratyangirAsahasranAmastotram
+itxtitle: pratyaNgirAsahasranAmastotram
+title: प्रत्यण्गिरासहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीप्रत्यङ्गिरासहस्रनामस्तोत्रम्   
 श्रीरुद्रयामलतन्त्रे दशविद्यारहस्ये  
@@ -148,7 +149,7 @@ title = "प्रत्यण्गिरासहस्रनामस्त�
 जवदा जववद्वाहा जमानी ज्वरहा ज्वरी ।  
 झञ्झा नीलमयी झञ्झाझणत्कारकराचला ॥ ३३॥  
   
-झिंटीशा झस्यकृत् झम्पा यमत्रासनिवारिणी ।  
+झिण्टीशा झस्यकृत् झम्पा यमत्रासनिवारिणी ।  
 टङ्कारस्था टङ्कधरा टङ्कारकारणा टसी ॥ ३४॥  var  टकारस्था  
 ठकुरा ठीकृतिश्चैव ठिण्ठीरवसनावृता ।  
 ठण्ठा नीलमयी ठण्ठा ठणत्कारकरा ठसा ॥ ३५॥  

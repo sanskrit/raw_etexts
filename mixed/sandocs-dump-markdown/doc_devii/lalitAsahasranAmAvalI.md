@@ -1,25 +1,25 @@
-+++
-"Text title" = "lalitA sahasranAmAvalI"
-"File name" = "lalitaa1000.itx"
-itxtitle = "lalitAsahasranAmAvalI"
-engtitle = "lalitA sahasranAmAvalI"
-Category = "sahasranAmAvalI, devii, dashamahAvidyA, lalitA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Anuradha, Sadashiv Chaitanya"
-Indexextra = "(meanings, a href=\"https://archive.org/details/LalitaSahasraNamaDattatreyanandNath/page/n63\">Scan)"
-"Latest update" = "September 1, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितासहस्रनामावली"
+---
+Author: Traditional
+Category: sahasranAmAvalI, devii, dashamahAvidyA, lalitA, nAmAvalI, devI
+File name: lalitaa1000.itx
+Indexextra: (meanings, a href="https://archive.org/details/LalitaSahasraNamaDattatreyanandNath/page/n63">Scan)
+Language: Sanskrit
+Latest update: September 1, 2019
+Location: doc_devii
+Proofread by: Anuradha, Sadashiv Chaitanya
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitA sahasranAmAvalI
+Texttype: nAmAvalI
+engtitle: lalitA sahasranAmAvalI
+itxtitle: lalitAsahasranAmAvalI
+title: ललितासहस्रनामावली
 
-+++
+---
   
  श्रीललितासहस्रनामावली   
   

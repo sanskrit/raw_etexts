@@ -1,22 +1,23 @@
-+++
-"Text title" = "dhanyAShTakaM"
-"File name" = "dhanyaa8.itx"
-itxtitle = "dhanyAShTakam (shaNkarAchAryavirachitam)"
-engtitle = "dhanyAShTakam"
-Category = "aShTaka, shankarAchArya, vedanta"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sorin Suciu aka SeSe at sorins at hotmail.com"
-"Proofread by" = "Sorin Suciu aka SeSe at sorins at hotmail.com Manda Krishna Srikanth, Peter Griffiths griffiths.peter at yahoo.fr, Sunder Hattangadi"
-Indexextra = "(meaning, Hindi)"
-"Latest update" = "March 19, 2011, September 17, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धन्याष्टकम् (शण्कराचार्यविरचितम्)"
+---
+Category: aShTaka, shankarAchArya, vedanta
+File name: dhanyaa8.itx
+Indexextra: (meaning, Hindi)
+Language: Sanskrit
+Latest update: March 19, 2011, September 17, 2013
+Location: doc_z_misc_shankara
+Proofread by: Sorin Suciu aka SeSe at sorins at hotmail.com Manda Krishna Srikanth,
+  Peter Griffiths griffiths.peter at yahoo.fr, Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: dhanyAShTakaM
+Transliterated by: Sorin Suciu aka SeSe at sorins at hotmail.com
+engtitle: dhanyAShTakam
+itxtitle: dhanyAShTakam (shaNkarAchAryavirachitam)
+title: धन्याष्टकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  धन्याष्टकं   
 (प्रहर्षणीवृत्तम् -)  
@@ -43,7 +44,7 @@ title = "धन्याष्टकम् (शण्कराचार्यव
   
 त्यक्त्वईषणात्रयमवेक्षितमोक्षमर्गा  
 भैक्षामृतेन परिकल्पितदेहयात्राः ।  
-ज्योतिः परात्परतरं परमात्मसंज्ञं  
+ज्योतिः परात्परतरं परमात्मसञ्ज्ञं  
 धन्या द्विजारहसि हृद्यवलोकयन्ति ॥ ५॥  
   
 नासन्न सन्न सदसन्न महसन्नचाणु  

@@ -1,23 +1,24 @@
-+++
-"Text title" = "navagraha dhyana and mantra from Sadhu sankuli tantra"
-"File name" = "navagrahadhyAnasadhusankuli.itx"
-itxtitle = "navagrahaM dhyAnamantrAH (sAdhusaNkulitantrAntargatam)"
-engtitle = "Navagraha dhyana mantra from Sadhu sankuli tantra"
-Category = "navagraha, stotra, dhyAnam"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sanjay Rath srath at vsnl.com, Sarbani Sarkar"
-"Proofread by" = "Sanjay Rath srath at vsnl.com, K. S. Ramachandran    are needed for devanaagarii output and formatting."
-"Latest update" = "April 21, 2003, June 25, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रहं ध्यानमन्त्राः (साधुसण्कुलितन्त्रान्तर्गतम्)"
+---
+Author: traditional
+Category: navagraha, stotra, dhyAnam
+File name: navagrahadhyAnasadhusankuli.itx
+Language: Sanskrit
+Latest update: April 21, 2003, June 25, 2012
+Location: doc_z_misc_navagraha
+Proofread by: Sanjay Rath srath at vsnl.com, K. S. Ramachandran    are needed for
+  devanaagarii output and formatting.
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: navagraha dhyana and mantra from Sadhu sankuli tantra
+Texttype: stotra
+Transliterated by: Sanjay Rath srath at vsnl.com, Sarbani Sarkar
+engtitle: Navagraha dhyana mantra from Sadhu sankuli tantra
+itxtitle: navagrahaM dhyAnamantrAH (sAdhusaNkulitantrAntargatam)
+title: नवग्रहं ध्यानमन्त्राः (साधुसण्कुलितन्त्रान्तर्गतम्)
 
-+++
+---
   
  नवग्रह ध्यान मन्त्राः साधुसङ्कुलि तन्त्रान्तर्गतम्   
   
@@ -79,7 +80,7 @@ title = "नवग्रहं ध्यानमन्त्राः (सा�
 ॐ क्लीं ॐ बुधाय स्वाहा ।  
   
 ॐ कनकरुचिरगौरं चारुमूर्तिं प्रसन्नं  
-द्विभुजमपि सरजौ संदधानं सुरेज्यं ।  
+द्विभुजमपि सरजौ सन्दधानं सुरेज्यं ।  
 वसनयुगदधानं पीतवस्त्रं सुभद्रं  
 सुरवरनरपुज्यमङ्गिरोगोत्रयुक्तम् ॥  
   

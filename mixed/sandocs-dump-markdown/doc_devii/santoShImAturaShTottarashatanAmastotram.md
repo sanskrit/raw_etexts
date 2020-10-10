@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Santoshimata Ashtottarashata Nama Stotram 108 Names"
-"File name" = "santoShImAturaShTottarashatanAmastotram.itx"
-itxtitle = "santoShImAturaShTottarashatanAmastotram"
-engtitle = "santoShImAturaShTottarashatanAmastotram"
-Category = "devii, aShTottarashatanAma, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA EASWARAN psaeaswaran at gmail.com"
-"Description/comments" = "See corresponding nAmAvalI"
-"Latest update" = "August 15, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्तोषीमातुरष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: devii, aShTottarashatanAma, otherforms, devI
+Description/comments: See corresponding nAmAvalI
+File name: santoShImAturaShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: August 15, 2019
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan Iyer, PSA EASWARAN psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Santoshimata Ashtottarashata Nama Stotram 108 Names
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: santoShImAturaShTottarashatanAmastotram
+itxtitle: santoShImAturaShTottarashatanAmastotram
+title: सन्तोषीमातुरष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीसन्तोषीमातुरष्टोत्तरशतनामस्तोत्रं   
 ॐ श्रीगणेशाय नमः ।  

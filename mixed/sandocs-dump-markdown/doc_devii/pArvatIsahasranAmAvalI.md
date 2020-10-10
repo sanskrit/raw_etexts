@@ -1,24 +1,24 @@
-+++
-"Text title" = "Paravati Sahasranamavali from kurmapuraaNa 1000 Names"
-"File name" = "pArvatIsahasranAmAvaliH.itx"
-itxtitle = "pArvatIsahasranAmAvalI"
-engtitle = "pArvatI sahasranAmavali"
-Category = "sahasranAmAvalI, devii, pArvatI, devI, nAmAvalI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "Kurmapurana"
-Indexextra = "(Scan, stotra)"
-"Latest update" = "April 16, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्वतीसहस्रनामावली"
+---
+Category: sahasranAmAvalI, devii, pArvatI, devI, nAmAvalI
+Description-comments: Kurmapurana
+File name: pArvatIsahasranAmAvaliH.itx
+Indexextra: (Scan, stotra)
+Language: Sanskrit
+Latest update: April 16, 2020
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: hinduism/religion
+Sublocation: devii
+Text title: Paravati Sahasranamavali from kurmapuraaNa 1000 Names
+Texttype: stotra
+engtitle: pArvatI sahasranAmavali
+itxtitle: pArvatIsahasranAmAvalI
+title: पार्वतीसहस्रनामावली
 
-+++
+---
   
  श्रीपार्वतीसहस्रनामावलिः   
 ॐ शिवायै नमः । उमायै । परमायै । शक्त्यै । अनन्तायै ।  
@@ -62,7 +62,7 @@ title = "पार्वतीसहस्रनामावली"
 पौरुष्यै । ध्रुवायै । व्यक्तायै । अव्यक्तात्मिकायै । कृष्णायै ।  
 रक्तायै । शुक्लायै । प्रसूतिकायै । अकार्यायै । कार्यजनन्यै नमः । १४०  
   
-ॐ नित्यंप्रसवधर्मिण्यै नमः । सर्गप्रलयनिर्मुक्तायै ।  
+ॐ नित्यम्प्रसवधर्मिण्यै नमः । सर्गप्रलयनिर्मुक्तायै ।  
 सृष्टिस्थित्यन्तधर्मिण्यै । ब्रह्मगर्भायै । चतुर्विंशायै ।  
 पद्मनाभायै । अच्युतात्मिकायै । वैद्युत्यै । शाश्वत्यै । योन्यै ।  
 जगन्मात्रे । ईश्वरप्रियायै । सर्वाधारायै । महारूपायै ।  
@@ -83,7 +83,7 @@ title = "पार्वतीसहस्रनामावली"
 महालक्ष्म्यै । अम्बिकायै । महेश्वरसमुत्पन्नायै नमः । २००  
   
 ॐ भुक्तिमुक्तिफलप्रदायै नमः । सर्वेश्वर्यै । सर्ववन्द्यायै ।  
-नित्यंमुदितमानसायै । ब्रह्मेन्द्रोपेन्द्रनमितायै ।  
+नित्यम्मुदितमानसायै । ब्रह्मेन्द्रोपेन्द्रनमितायै ।  
 शङ्करेच्छानुवर्तिन्यै । ईश्वरार्धासनगतायै ।  
 महेश्वरपतिव्रतायै । सकृद्विभावितायै । सर्वायै ।  
 समुद्रपरिशोषिण्यै । पार्वत्यै । हिमवत्पुत्र्यै । परमानन्ददायिन्यै ।  
@@ -310,7 +310,7 @@ title = "पार्वतीसहस्रनामावली"
 वरसहस्रदायै । श्रीफलायै । श्रीमत्यै । श्रीशायै ।  
 श्रीनिवासायै । शिवप्रियायै । श्रीधरायै । श्रीकर्यै । कल्यायै ।  
 श्रीधरार्धशरीरिण्यै । अनन्तदृष्ट्यै । अक्षुद्रायै । धात्रीशायै ।  
-धनदप्रियायै । दैत्यसङ्घानांनिहन्त्र्यै । सिंहिकायै नमः । ९२०  
+धनदप्रियायै । दैत्यसङ्घानान्निहन्त्र्यै । सिंहिकायै नमः । ९२०  
   
 ॐ सिंहवाहनायै नमः । सुषेणायै । चन्द्रनिलयायै । सुकीर्त्यै ।  
 छिन्नसंशयायै । रसज्ञायै । रसदायै । रामायै । लेलिहानायै ।  

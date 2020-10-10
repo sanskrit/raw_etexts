@@ -1,21 +1,21 @@
-+++
-"Text title" = "Bhutanathasuprabhatam"
-"File name" = "bhUtanAthasuprabhAtam.itx"
-itxtitle = "bhUtanAthasuprabhAtam ayyappAsuprabhAtam cha"
-engtitle = "bhUtanAthasuprabhAtam"
-Category = "deities_misc, ayyappa, suprabhAta"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "From Shastrarchana, Kannada publication"
-"Latest update" = "June 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भूतनाथसुप्रभातम् अय्यप्पासुप्रभातम् च"
+---
+Category: deities_misc, ayyappa, suprabhAta
+Description/comments: From Shastrarchana, Kannada publication
+File name: bhUtanAthasuprabhAtam.itx
+Language: Sanskrit
+Latest update: June 6, 2018
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Bhutanathasuprabhatam
+engtitle: bhUtanAthasuprabhAtam
+itxtitle: bhUtanAthasuprabhAtam ayyappAsuprabhAtam cha
+title: भूतनाथसुप्रभातम् अय्यप्पासुप्रभातम् च
 
-+++
+---
   
  श्रीभूतनाथ अथवा अय्यप्पस्वामिनः सुप्रभातम्   
 श्रीगणेशाय नमः ।  

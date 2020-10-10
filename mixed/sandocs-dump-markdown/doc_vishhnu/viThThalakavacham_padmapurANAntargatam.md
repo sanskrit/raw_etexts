@@ -1,23 +1,23 @@
-+++
-"Text title" = "viThThalakavacham"
-"File name" = "viThThalakavacham.itx"
-itxtitle = "viThThalakavacham (padmapurANAntargatam)"
-engtitle = "viThThalakavacham"
-Category = "vishhnu, kavacha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विठ्ठलकवचम् (पद्मपुराणान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, kavacha
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viThThalakavacham.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viThThalakavacham
+engtitle: viThThalakavacham
+itxtitle: viThThalakavacham (padmapurANAntargatam)
+title: विठ्ठलकवचम् (पद्मपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविठ्ठलकवचम्   
   

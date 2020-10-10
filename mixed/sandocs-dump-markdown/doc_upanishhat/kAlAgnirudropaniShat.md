@@ -1,20 +1,20 @@
-+++
-"Text title" = "kaalaagnirudropanishhat"
-"File name" = "kaalaagni.itx"
-itxtitle = "kAlAgnirudropaniShat"
-engtitle = "kAlAgnirudropaniShat"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "religious"
-"Transliterated by" = "Roopa and Shrirang Nene (roopashri at hotmail.com)"
-"Proofread by" = "roopashri at hotmail.com"
-"Latest update" = "September 26, 1999"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालाग्निरुद्रोपनिषत्"
+---
+Category: upanishhat, upanishad
+File name: kaalaagni.itx
+Language: Sanskrit
+Latest update: September 26, 1999
+Location: doc_upanishhat
+Proofread by: roopashri at hotmail.com
+Site access: https://sanskritdocuments.org
+Subject: religious
+Sublocation: upanishhat
+Text title: kaalaagnirudropanishhat
+Transliterated by: Roopa and Shrirang Nene (roopashri at hotmail.com)
+engtitle: kAlAgnirudropaniShat
+itxtitle: kAlAgnirudropaniShat
+title: कालाग्निरुद्रोपनिषत्
 
-+++
+---
   
  कालाग्निरुद्रोपनिषत् ३०   
 ब्रह्मज्ञानोपायतया यद्विभूतिः प्रकीर्तिता ।  
@@ -57,7 +57,7 @@ title = "कालाग्निरुद्रोपनिषत्"
 रजोभूर्लोकः स्वात्मा क्रियाशक्तिरृग्वेदः  
 प्रातःसवनं महेश्वरो देवतेति यास्य द्वितीया रेखा  
 सा दक्षिणाग्निरुकारः सत्वमन्तरिक्षमन्तरात्मा-  
-चेच्छाशक्तिर्यजुर्वेदो माध्यंदिनं सवनं  
+चेच्छाशक्तिर्यजुर्वेदो माध्यन्दिनं सवनं  
 सदाशिवो देवतेति यास्य तृतीया रेखा साहवनीयो मकारस्तमो  
 द्यौर्लोकः परमात्मा ज्ञानशक्तिः सामवेदस्तृतीयसवनं  
 महादेवो देवतेति एवं त्रिपुण्ड्रविधिं भस्मना करोति  

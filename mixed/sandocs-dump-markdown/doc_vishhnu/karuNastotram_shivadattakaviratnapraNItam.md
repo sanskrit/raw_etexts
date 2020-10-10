@@ -1,23 +1,23 @@
-+++
-"Text title" = "karuNastotram"
-"File name" = "karuNastotram.itx"
-itxtitle = "karuNastotram (shivadattakaviratnapraNItam)"
-engtitle = "karuNastotram"
-Category = "vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "shivadattakaviratna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-"Latest update" = "June 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "करुणस्तोत्रम् (शिवदत्तकविरत्नप्रणीतम्)"
+---
+Author: shivadattakaviratna
+Category: vishhnu, vishnu
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: karuNastotram.itx
+Language: Sanskrit
+Latest update: June 5, 2016
+Location: doc_vishhnu
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: karuNastotram
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: karuNastotram
+itxtitle: karuNastotram (shivadattakaviratnapraNItam)
+title: करुणस्तोत्रम् (शिवदत्तकविरत्नप्रणीतम्)
 
-+++
+---
   
  करुणस्तोत्रम्   
 श्रीगणेशाय नमः ।  

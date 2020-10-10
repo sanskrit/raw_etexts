@@ -3,7 +3,6 @@ title: 037 Vibhishana sends spies into Lanka
 title_english: 037 Vibhishana sends spies into Lanka
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-037-Vibhishana_sends_spies_into_Lanka_0.mp3"></div>
 
 नर वानर राजौ तौ स च वायु सुतः कपिः ।  

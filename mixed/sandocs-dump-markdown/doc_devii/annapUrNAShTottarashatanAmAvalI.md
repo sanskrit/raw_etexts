@@ -1,25 +1,25 @@
-+++
-"Text title" = "annapUrNAShTottarashatanAmAvaliH"
-"File name" = "anna108.itx"
-itxtitle = "annapUrNAShTottarashatanAmAvalI"
-engtitle = "annapUrNAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, pArvatI, nAmAvalI, annapUrNa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.mypurohith.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "shrIbrahmottarakhaNDe AgamapryakhyAtishivarahasye"
-"Latest update" = "January 26, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अन्नपूर्णाष्टोत्तरशतनामावली"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, devii, pArvatI, nAmAvalI, annapUrNa, devI
+Description-comments: shrIbrahmottarakhaNDe AgamapryakhyAtishivarahasye
+File name: anna108.itx
+Language: Sanskrit
+Latest update: January 26, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: annapUrNAShTottarashatanAmAvaliH
+Texttype: nAmAvalI
+Transliterated by: http://www.mypurohith.com
+engtitle: annapUrNAShTottarashatanAmAvalI
+itxtitle: annapUrNAShTottarashatanAmAvalI
+title: अन्नपूर्णाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीअन्नपूर्णाष्टोत्तरशतनामावली   
   

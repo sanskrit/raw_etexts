@@ -1,24 +1,24 @@
-+++
-"Text title" = "vRRitrachatuHshlokIkArikAH"
-"File name" = "vRRitrachatuHshlokIkArikAH.itx"
-itxtitle = "vRitrachatuHshlokIkArikAH (viThThaladIkShitavirachitAH)"
-engtitle = "vRRitrachatuHshlokIkArikAH"
-Category = "vishhnu, krishna, puShTimArgIya, chatuHshlokI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "viThThaladIkShita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara, commentary on vRitrachatuHshlokI"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वृइत्रचतुःश्लोकीकारिकाः (विठ्ठलदीक्षितविरचिताः)"
+---
+Author: viThThaladIkShita
+Category: vishhnu, krishna, puShTimArgIya, chatuHshlokI
+Description/comments: puShTimArgIya stotraratnAkara, commentary on vRitrachatuHshlokI
+File name: vRRitrachatuHshlokIkArikAH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vRRitrachatuHshlokIkArikAH
+engtitle: vRRitrachatuHshlokIkArikAH
+itxtitle: vRitrachatuHshlokIkArikAH (viThThaladIkShitavirachitAH)
+title: वृइत्रचतुःश्लोकीकारिकाः (विठ्ठलदीक्षितविरचिताः)
 
-+++
+---
   
  वृत्रचतुःश्लोकीकारिकाः   
   

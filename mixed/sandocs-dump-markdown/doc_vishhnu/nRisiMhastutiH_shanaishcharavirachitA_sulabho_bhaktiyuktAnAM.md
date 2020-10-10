@@ -1,23 +1,23 @@
-+++
-"Text title" = "nrisimhastuti shanaishcharachitam"
-"File name" = "nRRisimhastutishani.itx"
-itxtitle = "nRisiMhastutiH (shanaishcharavirachitA sulabho bhaktiyuktAnAM)"
-engtitle = "Nrisimhastuti by Shani"
-Category = "vishhnu, dashAvatAra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(Meaning)"
-"Latest update" = "May 14, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहस्तुतिः (शनैश्चरविरचिता सुलभो भक्तियुक्तानां)"
+---
+Category: vishhnu, dashAvatAra, vishnu
+File name: nRRisimhastutishani.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: May 14, 2017
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nrisimhastuti shanaishcharachitam
+Transliterated by: NA
+engtitle: Nrisimhastuti by Shani
+itxtitle: nRisiMhastutiH (shanaishcharavirachitA sulabho bhaktiyuktAnAM)
+title: नृइसिंहस्तुतिः (शनैश्चरविरचिता सुलभो भक्तियुक्तानां)
 
-+++
+---
   
  श्रीशनैश्चरकृता श्रीनृसिंहस्तुतिः   
 सुलभो भक्तियुक्तानां दुर्दर्शो दुष्टचेतसाम् ।  

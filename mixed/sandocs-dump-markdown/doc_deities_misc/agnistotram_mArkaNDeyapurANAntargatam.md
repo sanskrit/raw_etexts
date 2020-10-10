@@ -1,21 +1,21 @@
-+++
-"Text title" = "Agni Stotram"
-"File name" = "agnistotram.itx"
-itxtitle = "agnistotram (mArkaNDeyapurANAntargatam)"
-engtitle = "Agni Stotram"
-Category = "deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Lalitha Parameswari parameswari.lalitha at gmail.com, NA"
-"Description/comments" = "Markandeya Purana adhyAya 96, verses 27-72"
-"Latest update" = "November 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अग्निस्तोत्रम् (मार्कण्डेयपुराणान्तर्गतम्)"
+---
+Category: deities_misc, stotra
+Description/comments: Markandeya Purana adhyAya 96, verses 27-72
+File name: agnistotram.itx
+Language: Sanskrit
+Latest update: November 11, 2018
+Location: doc_deities_misc
+Proofread by: Lalitha Parameswari parameswari.lalitha at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Agni Stotram
+engtitle: Agni Stotram
+itxtitle: agnistotram (mArkaNDeyapurANAntargatam)
+title: अग्निस्तोत्रम् (मार्कण्डेयपुराणान्तर्गतम्)
 
-+++
+---
   
  अग्निस्तोत्रम्   
 ॐ नमः सर्वभूतानां साधनाय महात्मने ।  

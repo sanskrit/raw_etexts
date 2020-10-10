@@ -1,21 +1,21 @@
-+++
-"Text title" = "Narakottarana Stotram"
-"File name" = "narakottAraNastotram.itx"
-itxtitle = "narakottAraNastotram"
-engtitle = "narakottAraNastotram"
-Category = "deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नरकोत्तारणस्तोत्रम्"
+---
+Category: deities_misc
+File name: narakottAraNastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Narakottarana Stotram
+engtitle: narakottAraNastotram
+itxtitle: narakottAraNastotram
+title: नरकोत्तारणस्तोत्रम्
 
-+++
+---
   
  नरकोत्तारणस्तोत्रम्   
 ॐ नारायणं नमस्कृत्य नरं चैव नरोत्तमम् ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "siddhAntashikhopaniShat"
-"File name" = "siddhAntashikhopaniShat.itx"
-itxtitle = "siddhAntashikhopaniShat (shaiva)"
-engtitle = "siddhAntashikhopaniShat"
-Category = "upanishhat, shiva, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धान्तशिखोपनिषत् (शैव)"
+---
+Category: upanishhat, shiva, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: siddhAntashikhopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: siddhAntashikhopaniShat
+engtitle: siddhAntashikhopaniShat
+itxtitle: siddhAntashikhopaniShat (shaiva)
+title: सिद्धान्तशिखोपनिषत् (शैव)
 
-+++
+---
   
  सिद्धान्तशिखोपनिषत्   
 ॐ अथ भारद्वाजः कुमारं पप्रच्छ । कोऽयं भवादृशानां  
@@ -57,7 +57,7 @@ title = "सिद्धान्तशिखोपनिषत् (शैव)"
 भुञ्जन् मूत्राद्युत्सृजन् वा कदाचिन्न तत्रोच्छिष्टं भजते शुद्धदेही ॥  
   
 शीर्षे कण्ठे वक्षसि कक्षदेशे नाभौ हस्ते सर्वदा प्राणलिङ्गम् ।  
-धार्यं यथासंप्रदायं परस्ताद्गुरोर्विदित्वा हृदये मुख्यमुक्तम् ॥  
+धार्यं यथासम्प्रदायं परस्ताद्गुरोर्विदित्वा हृदये मुख्यमुक्तम् ॥  
   
 स्नानं कृत्त्वा शिवतीर्थे च देहं सर्वं भस्मोद्धूलनात् पावयित्वा ।  
 त्रिपुण्ड्रं धार्यं भर्त्सनात् पातकौघगिरेर्भस्म प्राहुरत्यर्थमेतत् ॥  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "bAlAmbikAShTakam"
-"File name" = "bAlAmbikAShTakam.itx"
-itxtitle = "bAlAmbikAShTakam"
-engtitle = "bAlAmbikAShTakam"
-Category = "aShTaka, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-Description-comments = "skAnde vaidyanAthamAhAtmye"
-"Latest update" = "November 26, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाम्बिकाष्टकम्"
+---
+Category: aShTaka, devii, otherforms, devI
+Description-comments: skAnde vaidyanAthamAhAtmye
+File name: bAlAmbikAShTakam.itx
+Language: Sanskrit
+Latest update: November 26, 2004
+Location: doc_devii
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAmbikAShTakam
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: bAlAmbikAShTakam
+itxtitle: bAlAmbikAShTakam
+title: बालाम्बिकाष्टकम्
 
-+++
+---
   
  श्रीबालाम्बिकाष्टकम्   
   
@@ -45,7 +45,7 @@ Purana.\
         मालाकिरीटमणिकुण्डल मण्डिताङ्गे  
         बालाम्बिके मयि निधेहि कृपाकटाक्षम् ॥ १॥  
   
-        कंजासनादि-मणिमञ्जु-किरीटकोटि-  
+        कञ्जासनादि-मणिमञ्जु-किरीटकोटि-  
         प्रत्युप्तरत्न-रुचिरञ्जित-पादपद्मे ।  
         मञ्जीरमञ्जुलविनिर्जितहंसनादे  
         बालाम्बिके मयि निधेहि कृपाकटाक्षम् ॥ २॥  
@@ -57,12 +57,12 @@ Purana.\
   
         जङ्घादिभिर्विजितचित्तजतूणिभागे  
         रम्भादिमार्दवकरीन्द्रकरोरुयुग्मे ।  
-        शंपाशताधिकसमुज्वलचेललीले  
+        शम्पाशताधिकसमुज्वलचेललीले  
         बालाम्बिके मयि निधेहि कृपाकटाक्षम् ॥ ४॥  
   
         माणिक्यमौक्तिकविनिर्मितमेखलाढ्ये  
         मायाविलग्नविलसन्मणि पट्टबन्धे ।  
-        लोलंबराजिविलसन्नवरोमजाले  
+        लोलम्बराजिविलसन्नवरोमजाले  
         बालाम्बिके मयि निधेहि कृपाकटाक्षम् ॥ ५॥  
   
         न्यग्रोधपल्लवतलोदरनिम्ननाभे  
@@ -93,7 +93,7 @@ Purana.\
         बालाम्बिके महाराज्ञी वैद्यनाथप्रियेश्वरी ।  
         पाहि मामम्ब कृपया त्वत्पादं शरणं गतः ॥ ११॥  
   
-॥ इति स्कान्दे वैद्यनाथमाहात्म्ये श्रीबालाम्बिकाष्टकस्तोत्रं संपूर्णम् ॥  
+॥ इति स्कान्दे वैद्यनाथमाहात्म्ये श्रीबालाम्बिकाष्टकस्तोत्रं सम्पूर्णम् ॥  
   
   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "gangAShTakam kAlidAsavirachitaM"
-"File name" = "gangAShTakamkAlidAsa.itx"
-itxtitle = "gaNgAShTakam (kAlidAsakRitam)"
-engtitle = "Gangashtakam by Kalidas"
-Category = "aShTaka, devii, nadI, kAlidAsa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Kalidas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Latest update" = "May 4, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाष्टकम् (कालिदासकृइतम्)"
+---
+Author: Kalidas
+Category: aShTaka, devii, nadI, kAlidAsa, devI
+File name: gangAShTakamkAlidAsa.itx
+Language: Sanskrit
+Latest update: May 4, 2013
+Location: doc_devii
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gangAShTakam kAlidAsavirachitaM
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: Gangashtakam by Kalidas
+itxtitle: gaNgAShTakam (kAlidAsakRitam)
+title: गण्गाष्टकम् (कालिदासकृइतम्)
 
-+++
+---
   
  गङ्गाष्टकं कालिदासकृतम्   
   

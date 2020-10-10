@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrii shaaradaambaa stavanam"
-"File name" = "shAradAstavanam.itx"
-itxtitle = "shAradAmbA stavanam"
-engtitle = "shAradAmbA stavanam"
-Category = "devii, sarasvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda harshanand_16 at rediffmail.com"
-"Latest update" = "April 17, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदाम्बा स्तवनम्"
+---
+Author: Traditional
+Category: devii, sarasvatI, stotra, devI
+File name: shAradAstavanam.itx
+Language: Sanskrit
+Latest update: April 17, 2002
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrii shaaradaambaa stavanam
+Texttype: stotra
+Transliterated by: R. Harshananda harshanand_16 at rediffmail.com
+engtitle: shAradAmbA stavanam
+itxtitle: shAradAmbA stavanam
+title: शारदाम्बा स्तवनम्
 
-+++
+---
   
  श्रीशारदाम्बा स्तवनम्   
   
@@ -41,7 +41,7 @@ title = "शारदाम्बा स्तवनम्"
 मातस्त्वां न विना परस्त्रिभुवने पोतो भवाम्भोनिधेः  
 त्रातव्योहमपारघोरदुरित व्राताब्धिमग्नश्चिरात् ॥ ४॥  
   
-विप्रास्ते वेदमन्त्रैः तवपदयुगपङ्केजलग्नांतरङ्गाः  
+विप्रास्ते वेदमन्त्रैः तवपदयुगपङ्केजलग्नान्तरङ्गाः  
 झङ्कारैर्विभ्रमन्तो नवसुममधुपानप्रमत्ताश्च भृङ्गाः ।  
 वृक्षेषूद्गीयमानैर्बहुविधनिनदैः कूजितैस्ते विहङ्गाः  
 घोषैर्वै सुप्रभातं तव जननि पठन्त्यत्र तुङ्गातरङ्गाः ॥ ५॥  

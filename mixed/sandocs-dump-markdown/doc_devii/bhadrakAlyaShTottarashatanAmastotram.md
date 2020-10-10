@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhadrakAlyaShTottarashatanAmastotram"
-"File name" = "bhadrakAlyaShTottarashatanAmastotram.itx"
-itxtitle = "bhadrakAlyaShTottarashatanAmastotram"
-engtitle = "bhadrakAlyaShTottarashatanAmastotram"
-Category = "devii, dashamahAvidyA, aShTottarashatanAma, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gowri Sanker Rupakula gowrishankerr at gmail.com"
-"Proofread by" = "Gowri Sanker Rupakula gowrishankerr at gmail.com, NA"
-"Latest update" = "December 20, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भद्रकाल्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, aShTottarashatanAma, devI
+File name: bhadrakAlyaShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: December 20, 2018
+Location: doc_devii
+Proofread by: Gowri Sanker Rupakula gowrishankerr at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhadrakAlyaShTottarashatanAmastotram
+Transliterated by: Gowri Sanker Rupakula gowrishankerr at gmail.com
+engtitle: bhadrakAlyaShTottarashatanAmastotram
+itxtitle: bhadrakAlyaShTottarashatanAmastotram
+title: भद्रकाल्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीभद्रकाल्यष्टोत्तरशतनामस्तोत्रम्   
 श्रीनन्दिकेश्वर उवाच -  

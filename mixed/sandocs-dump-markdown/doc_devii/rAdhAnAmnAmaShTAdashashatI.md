@@ -1,25 +1,25 @@
-+++
-"Text title" = "rAdhAnAmnAmaShTAdashashatI"
-"File name" = "rAdhAnAmnAmaShTAdashashatI.itx"
-itxtitle = "rAdhAnAmnAmaShTAdashashatI"
-engtitle = "rAdhAnAmnAmaShTAdashashatI"
-Category = "devii, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "1800 names for Radha from Krishnayamala mahAtantra"
-Source = "shrIkriShNayAmale mahAtantre chaturvisho.adhyAyaH"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "November 6, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधानाम्नामष्टादशशती"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: devii, radha, devI
+Description-comments: 1800 names for Radha from Krishnayamala mahAtantra
+File name: rAdhAnAmnAmaShTAdashashatI.itx
+Language: Sanskrit
+Latest update: November 6, 2014
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrIkriShNayAmale mahAtantre chaturvisho.adhyAyaH
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAnAmnAmaShTAdashashatI
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: rAdhAnAmnAmaShTAdashashatI
+itxtitle: rAdhAnAmnAmaShTAdashashatI
+title: राधानाम्नामष्टादशशती
 
-+++
+---
   
  श्रीमद्राधादेव्या नाम्नामष्टादशशती   
   
@@ -70,7 +70,7 @@ title = "राधानाम्नामष्टादशशती"
 तच्छ्रुत्वा त्रिपुरादेवी योगिनी त्रिपुरातनी ।  
 चकार कर्म तद्दिव्यं मन्त्रमुद्रासमन्वितम् ॥ १४॥  
   
-संक्षोभणं द्रावणं च वश्याकर्षणमादनम् ।  
+सङ्क्षोभणं द्रावणं च वश्याकर्षणमादनम् ।  
 त्रिखण्डाद्या मुद्रिकाश्च वश्यकर्मकुतूहलाः ॥ १५॥  
   
 याभिर्विरचिताभिश्च का स्त्री न स्याद्वशङ्गता ।  
@@ -619,7 +619,7 @@ title = "राधानाम्नामष्टादशशती"
 नृजनार्चनसन्तुष्टा नृसंहारकरी तथा ॥ १९५॥  
   
 नटिनी नटरूपा च नटनाटनकारिणी ।  
-नाट्यलीलाविनोदा च नाटिताखिलसंमृतिः ॥ १९६॥  
+नाट्यलीलाविनोदा च नाटिताखिलसम्मृतिः ॥ १९६॥  
   
 नीजजारुतकर्त्री च नीजजाधिपवाहना ।  
 नतचेतोऽम्बुजस्था च निन्दानन्दमयी तथा ॥ १९७॥  
@@ -753,7 +753,7 @@ title = "राधानाम्नामष्टादशशती"
 भापपदप्रदात्री च भवेन परिभाविता ॥ २४०॥  
   
 भाविनी भुवनप्रीता तथा भामा च पम्भामिनी ।  
-भीमवीर्यपोषणी च भूआंमभूंमगुणाबूता ॥ २४१॥  
+भीमवीर्यपोषणी च भूआम्मभूम्मगुणाबूता ॥ २४१॥  
   
 भौमस्थानप्रदात्री च भौमग्रहसुपूजिता ।  
 भयहीना भवोद्भ्रान्ता भारोत्तोलनकारिणी ॥ २४२॥  
@@ -833,7 +833,7 @@ title = "राधानाम्नामष्टादशशती"
 यशोदामोहिनी चैव योषाकुलशिरोमणिः ।  
 रुक्मिणी रागरसिका रुगपेता च रोगहृत् ॥ २६७॥  
   
-राघवी राघवप्रीता रंङ्कानुग्रहकारिणी ।  
+राघवी राघवप्रीता रङ्ङ्कानुग्रहकारिणी ।  
 रङ्गदा रिङ्गणकरी रोचिःसञ्चारकारिणी ॥ २६८॥  
   
 रुचिरा रौचिकी चैव राजलक्षणलक्षिता ।  

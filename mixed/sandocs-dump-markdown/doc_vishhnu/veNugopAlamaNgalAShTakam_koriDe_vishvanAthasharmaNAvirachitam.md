@@ -1,24 +1,24 @@
-+++
-"Text title" = "Venugopala Mangalashtakam"
-"File name" = "veNugopAlamaNgalAShTakam.itx"
-itxtitle = "veNugopAlamaNgalAShTakam (koriDe vishvanAthasharmaNAvirachitam)"
-engtitle = "veNugopAlamaNgalAShTakam"
-Category = "vishhnu, koriDevishvanAthasharmA, krishna, aShTaka"
-Location = "doc_vishhnu"
-Author = "koriDe vishvanAthasharmA, dharmapurI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "koriDe vishvanAthasharmA"
-"Proofread by" = "koriDe vishvanAthasharmA"
-"Description/comments" = "shrImaddharmapurIvAsinaH veNugopAla"
-Indexextra = "(blog)"
-Acknowledge-Permission = "Koride Vishwanatha Sharma"
-"Latest update" = "February 19, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेणुगोपालमण्गलाष्टकम् (कोरिडे विश्वनाथशर्मणाविरचितम्)"
+---
+Acknowledge-Permission: Koride Vishwanatha Sharma
+Author: koriDe vishvanAthasharmA, dharmapurI
+Category: vishhnu, koriDevishvanAthasharmA, krishna, aShTaka
+Description/comments: shrImaddharmapurIvAsinaH veNugopAla
+File name: veNugopAlamaNgalAShTakam.itx
+Indexextra: (blog)
+Language: Sanskrit
+Latest update: February 19, 2018
+Location: doc_vishhnu
+Proofread by: koriDe vishvanAthasharmA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Text title: Venugopala Mangalashtakam
+Transliterated by: koriDe vishvanAthasharmA
+engtitle: veNugopAlamaNgalAShTakam
+itxtitle: veNugopAlamaNgalAShTakam (koriDe vishvanAthasharmaNAvirachitam)
+title: वेणुगोपालमण्गलाष्टकम् (कोरिडे विश्वनाथशर्मणाविरचितम्)
 
-+++
+---
   
  श्रीवेणुगोपालस्वामिनः मङ्गलाष्टकम्   
 ॐ गं गणपतये नमः ।  

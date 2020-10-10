@@ -1,34 +1,34 @@
-+++
-"Text title" = "gopAlavi.nshatistotram"
-"File name" = "gopaala20.itx"
-itxtitle = "gopAlavi.nshatistotram (shrIvedAntadeshikakRitam)"
-engtitle = "gopAlavi.nshatistotram"
-Category = "viMshati, vishhnu, krishna, stotra, vedAnta-deshika, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Balaji"
-"Latest update" = "November 22, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपालविंशतिस्तोत्रम् (श्रीवेदान्तदेशिककृइतम्)"
+---
+Author: vedAntadeshika
+Category: viMshati, vishhnu, krishna, stotra, vedAnta-deshika, vishnu
+File name: gopaala20.itx
+Language: Sanskrit
+Latest update: November 22, 2001
+Location: doc_vishhnu
+Proofread by: Balaji
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopAlavi.nshatistotram
+Texttype: stotra
+engtitle: gopAlavi.nshatistotram
+itxtitle: gopAlavi.nshatistotram (shrIvedAntadeshikakRitam)
+title: गोपालविंशतिस्तोत्रम् (श्रीवेदान्तदेशिककृइतम्)
 
-+++
+---
   
  गोपालविंशतिस्तोत्रम्   
   
-श्रीमान् वेंकटनाथार्यः कवितार्किककेसरी ।  
+श्रीमान् वेङ्कटनाथार्यः कवितार्किककेसरी ।  
 वेदान्ताचार्यवर्यो मे सन्निधत्तां सदा हृदि ॥  
   
 वन्दे वृन्दावनचरं वलव्वीजनवल्लभम् ।  
 जयन्तीसम्भवं धाम वैजयन्तीविभूषणम् ॥ १॥  
   
 वाचं निजाङ्करसिकां प्रसमीक्षमाणो  
-   वक्त्रारविन्दविनिवेशितपांचजन्यः ।  
+   वक्त्रारविन्दविनिवेशितपाञ्चजन्यः ।  
 वर्णः त्रिकोणरूचिरे वरपुण्डरीके  
    बद्धासनो जयति वल्लवचक्रवर्ती ॥ २॥  
   
@@ -38,12 +38,12 @@ title = "गोपालविंशतिस्तोत्रम् (श्र
    प्राणस्तनन्धयमवैमि परं पुमांसम् ॥ ३॥  
   
 आविर्भवत्वनिभृताभरणं पुरस्तात्  
-   आकुंचितैकचरण निभृहितान्यपादम् ।  
+   आकुञ्चितैकचरण निभृहितान्यपादम् ।  
 दध्नानिबद्धमुखरेण निबद्धतालं  
    नाथस्य नन्दभवने नवनीतनाट्यम् ॥ ४॥  
   
 कुन्दप्रसूनविशदैर्दशनैश्चर्तुभिः  
-   संदश्य मातुरनिशं कुचचूचुकाग्रम् ।  
+   सन्दश्य मातुरनिशं कुचचूचुकाग्रम् ।  
 नन्दस्य वक्त्रमवलोकयतो मुरारेर्-  
    मन्दस्थितं मममनीषितमातनोतु ॥ ५॥  
   
@@ -104,7 +104,7 @@ title = "गोपालविंशतिस्तोत्रम् (श्र
   
 चित्राकल्पः श्रवसि कलयल्लाङ्गलीकर्णपूरं  
     बर्होत्तंसस्फुरितचिकुरो बन्धुजीवं दधानः ।  
-गुंजाबद्धामुरसि ललितां धारयन् हारयष्टिं  
+गुञ्जाबद्धामुरसि ललितां धारयन् हारयष्टिं  
     गोपस्त्रीणां जयति कितवः कोऽपि कौमारहारी ॥ १८॥  
   
 लीलायष्टिं करकिसलये दक्षिणे न्यस्त धन्या-  
@@ -123,7 +123,7 @@ title = "गोपालविंशतिस्तोत्रम् (श्र
     कामी कश्चित्करकमलयोरञ्जलिं याचमानः ॥ २१॥  
   
 इत्यनन्यमनसा विनिर्मितां  
-    वेंकटेशकविना स्तुतिं पठन् ।  
+    वेङ्कटेशकविना स्तुतिं पठन् ।  
 दिव्यवेणुरसिकं समीक्षते  
     दैवतं किमपि यौवतप्रियम् ॥ २२॥  
   

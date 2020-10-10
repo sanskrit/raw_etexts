@@ -1,25 +1,28 @@
-+++
-"Text title" = "Sarasvati Kavacham from Devi Bhagavata Mahapuran"
-"File name" = "sarasvatIkavachamdevIbhAgavatam.itx"
-itxtitle = "sarasvatIkavacham 3 shAradAmbAkavacham (devIbhAgavatAntargatam brahmavaivartamahApurANAntargataM cha)"
-engtitle = "sarasvatIkavachamdevIbhAgavatam"
-Category = "devii, kavacha, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "devIbhAgavatam navamaskandha and brahmavaivartamahApurANa Prakritikhanda both adhyAya 4"
-Indexextra = "(Devi Bhagavatam, Hindi)"
-Acknowledge-Permission = "http://satsangdhara.net"
-"Latest update" = "November 22, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीकवचम् ३ शारदाम्बाकवचम् (देवीभागवतान्तर्गतम् ब्रह्मवैवर्तमहापुराणान्तर्गतं च)"
+---
+Acknowledge-Permission: http://satsangdhara.net
+Category: devii, kavacha, sarasvatI, devI
+Description/comments: devIbhAgavatam navamaskandha and brahmavaivartamahApurANa Prakritikhanda
+  both adhyAya 4
+File name: sarasvatIkavachamdevIbhAgavatam.itx
+Indexextra: (Devi Bhagavatam, Hindi)
+Language: Sanskrit
+Latest update: November 22, 2018
+Location: doc_devii
+Proofread by: Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Sarasvati Kavacham from Devi Bhagavata Mahapuran
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com
+engtitle: sarasvatIkavachamdevIbhAgavatam
+itxtitle: sarasvatIkavacham 3 shAradAmbAkavacham (devIbhAgavatAntargatam brahmavaivartamahApurANAntargataM
+  cha)
+title: सरस्वतीकवचम् ३ शारदाम्बाकवचम् (देवीभागवतान्तर्गतम् ब्रह्मवैवर्तमहापुराणान्तर्गतं
+  च)
 
-+++
+---
   
  श्रीमद्सरस्वतीदेवीकवचम् ३   
 शारदाम्बाकवचम्  

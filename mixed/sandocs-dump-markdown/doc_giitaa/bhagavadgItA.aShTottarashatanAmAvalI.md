@@ -1,26 +1,26 @@
-+++
-"Text title" = "bhagavadgItA aShTottarashatanaamaavaliH"
-"File name" = "giitaa108.itx"
-itxtitle = "bhagavadgItA.aShTottarashatanAmAvalI"
-engtitle = "shrImadbhagavadgItA aShTottarashatanAmAvalih"
-Category = "aShTottarashatanAmAvalI, giitaa, bhagavadgita, nAmAvalI"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Subcategory = "bhagavadgita"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "From Shri Chitrapur Stutimanjari, 3rd revised edition 2008"
-Indexextra = "(chitrApura stutimanjari)"
-"Latest update" = "June 3, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवद्गीताऽष्टोत्तरशतनामावली"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, giitaa, bhagavadgita, nAmAvalI
+Description-comments: From Shri Chitrapur Stutimanjari, 3rd revised edition 2008
+File name: giitaa108.itx
+Indexextra: (chitrApura stutimanjari)
+Language: Sanskrit
+Latest update: June 3, 2013
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhagavadgita
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: bhagavadgItA aShTottarashatanaamaavaliH
+Texttype: nAmAvalI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: shrImadbhagavadgItA aShTottarashatanAmAvalih
+itxtitle: bhagavadgItA.aShTottarashatanAmAvalI
+title: भगवद्गीताऽष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीमद्भगवद्गीता अष्टोत्तरशतनामावली   
   
@@ -122,7 +122,7 @@ title = "भगवद्गीताऽष्टोत्तरशतनाम�
 ॐ दिव्यसम्पत्प्रसवे नमः ।  
 ॐ दुर्गायै नमः ।  
 ॐ दुराचारविघातिन्यै नमः ।  
-ॐ संन्यासरसिकायै नमः ।  
+ॐ सन्न्यासरसिकायै नमः ।  
 ॐ मुक्तायै नमः । १००  
 ॐ सर्वपापप्रमोचिन्यै नमः ।  
 ॐ श्रीशङ्करादृतायै नमः ।  

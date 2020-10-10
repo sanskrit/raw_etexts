@@ -3,7 +3,6 @@ title: 076 Advice of Vasishta to Bharata
 title_english: 076 Advice of Vasishta to Bharata
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-076-Dasharathasya_Auordhva_Dehikam_.mp3"></div>
 
 तम् एवम् शोक सम्तप्तम् भरतम् केकयी सुतम् ।  

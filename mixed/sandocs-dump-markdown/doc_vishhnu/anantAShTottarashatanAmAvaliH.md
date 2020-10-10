@@ -1,23 +1,23 @@
-+++
-"Text title" = "anantAShTottarashatanAmAvaliH"
-"File name" = "anantAShTottarashatanAmAvaliH.itx"
-itxtitle = "anantAShTottarashatanAmAvaliH"
-engtitle = "anantAShTottarashatanAmAvaliH"
-Category = "vishhnu, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अनन्ताष्टोत्तरशतनामावलिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, aShTottarashatanAmAvalI, nAmAvalI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: anantAShTottarashatanAmAvaliH.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: anantAShTottarashatanAmAvaliH
+engtitle: anantAShTottarashatanAmAvaliH
+itxtitle: anantAShTottarashatanAmAvaliH
+title: अनन्ताष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीअनन्ताष्टोत्तरशतनामावलिः   
   

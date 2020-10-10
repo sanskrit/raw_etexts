@@ -1,26 +1,26 @@
-+++
-"Text title" = "jayendrapancharatnam"
-"File name" = "jayendrapancharatnam.itx"
-itxtitle = "jayendrapancharatnam (devIprasAdavirachitam)"
-engtitle = "jayendrapancharatnam"
-Category = "deities_misc, gurudev, pancharatna"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Prof. N.V. Deviprasad"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Proofread by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Translated by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Description/comments" = "Hymn (five gems) to Jayendrasaraswati (Shankaracharya)"
-Acknowledge-Permission = "Samskritasri Magazine"
-"Latest update" = "May 12, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयेन्द्रपञ्चरत्नम् (देवीप्रसादविरचितम्)"
+---
+Acknowledge-Permission: Samskritasri Magazine
+Author: Prof. N.V. Deviprasad
+Category: deities_misc, gurudev, pancharatna
+Description/comments: Hymn (five gems) to Jayendrasaraswati (Shankaracharya)
+File name: jayendrapancharatnam.itx
+Language: Sanskrit
+Latest update: May 12, 2018
+Location: doc_deities_misc
+Proofread by: P. R. Kannan prkannanvashi at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: jayendrapancharatnam
+Translated by: P. R. Kannan prkannanvashi at yahoo.com
+Transliterated by: P. R. Kannan prkannanvashi at yahoo.com
+engtitle: jayendrapancharatnam
+itxtitle: jayendrapancharatnam (devIprasAdavirachitam)
+title: जयेन्द्रपञ्चरत्नम् (देवीप्रसादविरचितम्)
 
-+++
+---
   
  श्रीमत्जयेन्द्रपञ्चरत्नम्   
 Composed By Prof. N.V. Deviprasad Translation: P.R. Kannan  

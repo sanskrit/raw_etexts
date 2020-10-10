@@ -1,22 +1,22 @@
-+++
-"Text title" = "Ahnikastotram delivered by Balarama to Pradyumna"
-"File name" = "Ahnikastotram.itx"
-itxtitle = "Ahnikastotram (mahAbhArate khilabhAgAntargataM balarAmaproktam)"
-engtitle = "Ahnikastotram"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-Source = "mahAbhArate khilabhAge harivaMshe viShNuparvaNi"
-"Latest update" = "June 8, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आह्निकस्तोत्रम् (महाभारते खिलभागान्तर्गतं बलरामप्रोक्तम्)"
+---
+Category: vishhnu
+File name: Ahnikastotram.itx
+Language: Sanskrit
+Latest update: June 8, 2018
+Location: doc_vishhnu
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: mahAbhArate khilabhAge harivaMshe viShNuparvaNi
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Ahnikastotram delivered by Balarama to Pradyumna
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: Ahnikastotram
+itxtitle: Ahnikastotram (mahAbhArate khilabhAgAntargataM balarAmaproktam)
+title: आह्निकस्तोत्रम् (महाभारते खिलभागान्तर्गतं बलरामप्रोक्तम्)
 
-+++
+---
   
  आह्निकस्तोत्रम्   
 वैशम्पायन उवाच -  
@@ -201,7 +201,7 @@ title = "आह्निकस्तोत्रम् (महाभारते
 बहुपुत्राल्पपुत्राश्च द्विपुत्राः पुत्रमण्डिकाः ॥ ५९॥  
   
 मुखमण्डी बिडाली च पूतना गन्धपूतना ।  
-शीतवातोष्णवेताली रेवती ग्रहसंज्ञिताः ॥ ६०॥  
+शीतवातोष्णवेताली रेवती ग्रहसञ्ज्ञिताः ॥ ६०॥  
   
 प्रियहास्याः प्रियक्रोधाः प्रियवासाः प्रियंवदाः ।  
 सुखप्रदाश्चासुखदाः सदा द्विजजनप्रियाः ॥ ६१॥  

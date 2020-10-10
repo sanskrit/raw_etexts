@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrIsUktamahAtmyam"
-"File name" = "shrIsUktamahAtmyam.itx"
-itxtitle = "sUktamahAtmyam"
-engtitle = "The Greatness of Shrisuktam"
-Category = "sUkta, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-Indexextra = "(NONENONE)"
-"Latest update" = "May 14,  2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूक्तमहात्म्यम्"
+---
+Category: sUkta, devii, lakShmI, devI
+File name: shrIsUktamahAtmyam.itx
+Indexextra: (NONENONE)
+Language: Sanskrit
+Latest update: May 14,  2006
+Location: doc_devii
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIsUktamahAtmyam
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: The Greatness of Shrisuktam
+itxtitle: sUktamahAtmyam
+title: सूक्तमहात्म्यम्
 
-+++
+---
   
  श्रीसूक्तमहात्म्यम्   
   
@@ -94,7 +94,7 @@ stay in his house permanently.
 श्रद्दधानः समाप्नोति देवेन्द्रत्वमपि ध्रुवम् ॥ १२॥  
 If one performs homa for ten million times with lotus and bilva  
 leaves he is sure to attain the position of Indra.  
-संपूज्य देवीं वरदां यथावत् पद्मैस्सितैर्वा कुसुमैस्तथान्यैः ।  
+सम्पूज्य देवीं वरदां यथावत् पद्मैस्सितैर्वा कुसुमैस्तथान्यैः ।  
 क्षीरेण धूपैः परमान्नभक्ष्यैः लक्ष्मीमवाप्नोति विधानतश्च ॥ १३॥  
 Similarly one who worships Her with lotus, white flowers, milk,  
 incense and excellent food items as prescribed will receive great wealth.  

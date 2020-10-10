@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Shanti Stotram"
-"File name" = "bAlAshAntistotram.itx"
-itxtitle = "bAlAshAntistotram (chintAmaNitantrAntargatam)"
-engtitle = "bAlAshAntistotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH, chintAmaNitantre"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाशान्तिस्तोत्रम् (चिन्तामणितन्त्रान्तर्गतम्)"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH, chintAmaNitantre
+File name: bAlAshAntistotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Shanti Stotram
+engtitle: bAlAshAntistotram
+itxtitle: bAlAshAntistotram (chintAmaNitantrAntargatam)
+title: बालाशान्तिस्तोत्रम् (चिन्तामणितन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीबालाशान्तिस्तोत्रम्   
 श्रीभैरव उवाच-  

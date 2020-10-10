@@ -1,24 +1,24 @@
-+++
-"Text title" = "Sharabha Upanishad"
-"File name" = "sharabha.itx"
-itxtitle = "sharabhopaniShat"
-engtitle = "Sharabha Upanishad"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "50 / 108; Atharva Veda - shaiva upanishad"
-"Latest update" = "Mar. 19, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरभोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, svara, upanishad
+Description-comments: 50 / 108; Atharva Veda - shaiva upanishad
+File name: sharabha.itx
+Language: Sanskrit
+Latest update: Mar. 19, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Sharabha Upanishad
+Texttype: svara
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Sharabha Upanishad
+itxtitle: sharabhopaniShat
+title: शरभोपनिषत्
 
-+++
+---
   
  शरभोपनिषत्   
   
@@ -50,11 +50,11 @@ title = "शरभोपनिषत्"
      तं वै प्रभुं पितरं देवतानाम् ॥ २॥  
   
 ममापि विष्णोर्जनकं देवमीड्यं  
-     योऽन्तकाले सर्वलोकान्संजहार ॥ ३॥  
+     योऽन्तकाले सर्वलोकान्सञ्जहार ॥ ३॥  
   
 स एकः श्रेष्ठश्च सर्वशास्ता स एव वरिष्ठश्च ।  
 यो घोरं वेषमास्थाय शरभाख्यं महेश्वरः ।  
-नृसिंहं लोकहन्तारं संजघान महाबलः ॥ ४॥  
+नृसिंहं लोकहन्तारं सञ्जघान महाबलः ॥ ४॥  
   
 हरिं हरन्तं पादाभ्यामनुयान्ति सुरेश्वराः ।  
 मावधीः पुरुषं विष्णुं विक्रमस्व महानसि ॥ ५॥  
@@ -65,7 +65,7 @@ title = "शरभोपनिषत्"
 स एको रुद्रो ध्येयः सर्वेषां सर्वसिद्धये । यो ब्रह्मणः पञ्चवक्रहन्ता  
 तस्मै रुद्राय नमो अस्तु ॥ ७॥  
   
-यो विस्फुलिङ्गेन ललाटजेन सर्वं जगद्भस्मसात्संकरोति ।  
+यो विस्फुलिङ्गेन ललाटजेन सर्वं जगद्भस्मसात्सङ्करोति ।  
 पुनश्च सृष्ट्वा पुनरप्यरक्षदेवं स्वतन्त्रं प्रकटीकरोति ।  
 तस्मै रुद्राय नमो अस्तु ॥ ८॥  
   
@@ -125,7 +125,7 @@ title = "शरभोपनिषत्"
 तस्य पादाम्बुजध्यानाद्दुस्तरा सुतरा भवेत् ॥ २१॥  
   
 विष्णुर्विश्वजगद्योनिः स्वांशभूतैः स्वकैः सह ।  
-ममांशसंभवो भूत्वा पालयत्यखिलं जगत् ॥ २२॥  
+ममांशसम्भवो भूत्वा पालयत्यखिलं जगत् ॥ २२॥  
   
 विनाशं कालतो याति ततोऽन्यत्सकलं मृषा ।  
 ॐ तस्मै महाग्रासाय महादेवाय शूलिने ।  
@@ -158,7 +158,7 @@ title = "शरभोपनिषत्"
 पैप्पलादं महाशास्त्रं न देयं यस्य कस्यचित् ।  
 नास्तिकाय कृतघ्नाय दुर्वृत्ताय दुरात्मने ॥ ३२॥  
   
-दांभिकाय नृशंसाय शठायानृतभाषिणे ।  
+दाम्भिकाय नृशंसाय शठायानृतभाषिणे ।  
 सुव्रताय सुभक्ताय सुवृत्ताय सुशीलिने ॥ ३३॥  
   
 गुरुभक्ताय दान्ताय शान्ताय ऋजुचेतसे ।  

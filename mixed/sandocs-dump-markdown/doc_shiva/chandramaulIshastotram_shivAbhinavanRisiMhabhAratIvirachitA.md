@@ -1,23 +1,24 @@
-+++
-"Text title" = "chandramaulIshastotram"
-"File name" = "chandramaulIshastotram.itx"
-itxtitle = "chandramaulIshastotram  (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "chandramaulIshastotram"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 7, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्रमौलीशस्तोत्रम्  (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: chandramaulIshastotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 7, 2017
+Location: doc_shiva
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: chandramaulIshastotram
+engtitle: chandramaulIshastotram
+itxtitle: chandramaulIshastotram  (shivAbhinavanRisiMhabhAratIvirachitA)
+title: चन्द्रमौलीशस्तोत्रम्  (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  चन्द्रमौलीशस्तोत्रम्   
 श्रीगणेशाय नमः ।  

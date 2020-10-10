@@ -1,23 +1,23 @@
-+++
-"Text title" = "tripurasundarI aShTakaM"
-"File name" = "tripurasund8.itx"
-itxtitle = "tripurasundarI aShTakam"
-engtitle = "tripurasundarI aShTakam"
-Category = "aShTaka, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Madras Giridhar giridhar at chemeng.iisc.ernet.in"
-"Proofread by" = "Madras Giridhar giridhar at chemeng.iisc.ernet.in"
-Indexextra = "(sha.nkarAchArya)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरसुन्दरी अष्टकम्"
+---
+Category: aShTaka, devii, dashamahAvidyA, devI
+File name: tripurasund8.itx
+Indexextra: (sha.nkarAchArya)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_devii
+Proofread by: Madras Giridhar giridhar at chemeng.iisc.ernet.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tripurasundarI aShTakaM
+Transliterated by: Madras Giridhar giridhar at chemeng.iisc.ernet.in
+engtitle: tripurasundarI aShTakam
+itxtitle: tripurasundarI aShTakam
+title: त्रिपुरसुन्दरी अष्टकम्
 
-+++
+---
   
  त्रिपुरसुन्दरी अष्टकं   
   
@@ -102,30 +102,30 @@ forward corrections to mgiridhar at ucdavis.edu.
   
 कदम्बवनमध्यगां कनकमण्डलोपस्थितां  
 षडम्बुरुहवासिनीं सततसिद्धसौदामिनीम् ।  
-विडम्बितजपारुचिं विकचचंद्रचूडामणिं  
+विडम्बितजपारुचिं विकचचन्द्रचूडामणिं  
 त्रिलोचनकुटुम्बिनीं त्रिपुरसुन्दरीमाश्रये ॥ ४॥  
   
-कुचाञ्चितविपञ्चिकां कुटिलकुन्तलालंकृतां  
+कुचाञ्चितविपञ्चिकां कुटिलकुन्तलालङ्कृतां  
 कुशेशयनिवासिनीं कुटिलचित्तविद्वेषिणीम् ।  
-मदारुणविलोचनां मनसिजारिसंमोहिनीं  
+मदारुणविलोचनां मनसिजारिसम्मोहिनीं  
 मतङ्गमुनिकन्यकां मधुरभाषिणीमाश्रये ॥ ५॥  
   
 स्मरप्रथमपुष्पिणीं रुधिरबिन्दुनीलाम्बरां  
 गृहीतमधुपात्रिकां मदविघूर्णनेत्राञ्चलां ।  
 घनस्तनभरोन्नतां गलितचूलिकां श्यामलां  
-त्रिलोचनकुटुंबिनीं त्रिपुरसुन्दरीमाश्रये ॥ ६॥  
+त्रिलोचनकुटुम्बिनीं त्रिपुरसुन्दरीमाश्रये ॥ ६॥  
   
-सकुङ्कुमविलेपनामलकचुंबिकस्तूरिकां  
+सकुङ्कुमविलेपनामलकचुम्बिकस्तूरिकां  
 समन्दहसितेक्षणां सशरचापपाशाङ्कुशाम् ।  
 अशेषजनमोहिनीमरुणमाल्य भूषाम्बरां  
 जपाकुसुमभासुरां जपविधौ स्मराम्यम्बिकाम् ॥ ७॥  
   
-पुरंदरपुरंध्रिकां चिकुरबन्धसैरंध्रिकां  
+पुरन्दरपुरन्ध्रिकां चिकुरबन्धसैरन्ध्रिकां  
 पितामहपतिव्रतां पटपटीरचर्चारताम् ।  
-मुकुन्दरमणीमणीलसदलंक्रियाकारिणीं  
-भजामि भुवनांबिकां सुरवधूटिकाचेटिकाम् ॥ ८॥  
+मुकुन्दरमणीमणीलसदलङ्क्रियाकारिणीं  
+भजामि भुवनाम्बिकां सुरवधूटिकाचेटिकाम् ॥ ८॥  
   
-      ॥ इति श्रीमद् शंकराचार्यविरचितं  
+      ॥ इति श्रीमद् शङ्कराचार्यविरचितं  
 त्रिपुरसुन्दरीअष्टकं समाप्तं ॥  
   
   

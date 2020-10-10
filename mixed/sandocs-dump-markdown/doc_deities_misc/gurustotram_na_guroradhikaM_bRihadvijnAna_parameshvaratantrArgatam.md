@@ -1,23 +1,23 @@
-+++
-"Text title" = "gurustotra from parameshvaratantra"
-"File name" = "gurustotraparameshvaratantra.itx"
-itxtitle = "gurustotram (na guroradhikaM bRihadvijnAna parameshvaratantrArgatam)"
-engtitle = "gurustotra"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Source = "Brihadvijnana Parameshvaratantra"
-"Latest update" = "January 4, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुस्तोत्रम् (न गुरोरधिकं बृइहद्विज्ञान परमेश्वरतन्त्रार्गतम्)"
+---
+Author: Traditional
+Category: deities_misc, gurudev
+File name: gurustotraparameshvaratantra.itx
+Language: Sanskrit
+Latest update: January 4, 2015
+Location: doc_deities_misc
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Brihadvijnana Parameshvaratantra
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurustotra from parameshvaratantra
+engtitle: gurustotra
+itxtitle: gurustotram (na guroradhikaM bRihadvijnAna parameshvaratantrArgatam)
+title: गुरुस्तोत्रम् (न गुरोरधिकं बृइहद्विज्ञान परमेश्वरतन्त्रार्गतम्)
 
-+++
+---
   
  श्रीगुरुस्तोत्रम्   
 बृहद्विज्ञान परमेश्वरतन्त्रार्गतम्  

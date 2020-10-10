@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shishta Stotram"
-"File name" = "shiShTastotram.itx"
-itxtitle = "shiShTastotram"
-engtitle = "shiShTastotram"
-Category = "misc, vedanta"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "April 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "शिष्टस्तोत्रम्"
+---
+Category: misc, vedanta
+File name: shiShTastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 18, 2020
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Shishta Stotram
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: shiShTastotram
+itxtitle: shiShTastotram
+title: शिष्टस्तोत्रम्
 
-+++
+---
   
  शिष्टस्तोत्रम्   
 भज विश्रान्तिं त्यज रे भ्रान्तिं निश्चिनु शैवं निज रूपम् ।  

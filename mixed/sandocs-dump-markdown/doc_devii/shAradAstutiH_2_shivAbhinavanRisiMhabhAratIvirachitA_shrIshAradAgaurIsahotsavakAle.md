@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAradAstutiH 2"
-"File name" = "shAradAstutiH2.itx"
-itxtitle = "shAradAstutiH 2 (shivAbhinavanRisiMhabhAratIvirachitA shrIshAradAgaurIsahotsavakAle)"
-engtitle = "shAradAstutiH 2"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदास्तुतिः २ (शिवाभिनवनृइसिंहभारतीविरचिता श्रीशारदागौरीसहोत्सवकाले)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI
+File name: shAradAstutiH2.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAstutiH 2
+engtitle: shAradAstutiH 2
+itxtitle: shAradAstutiH 2 (shivAbhinavanRisiMhabhAratIvirachitA shrIshAradAgaurIsahotsavakAle)
+title: शारदास्तुतिः २ (शिवाभिनवनृइसिंहभारतीविरचिता श्रीशारदागौरीसहोत्सवकाले)
 
-+++
+---
   
  श्रीशारदास्तुतिः २   
 (श्रीशारदागौरीसहोत्सवकाले)  

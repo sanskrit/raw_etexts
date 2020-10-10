@@ -1,23 +1,23 @@
-+++
-"Text title" = "Mahakala Kavacham"
-"File name" = "mahAkAlakavacham.itx"
-itxtitle = "mahAkAlakavacham athavA vishvamaNgalakavacham (shrIrudrayAmale tantre)"
-engtitle = "mahAkAlakavacham"
-Category = "shiva, kavacha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at  gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-"Description/comments" = "Rudrayamala"
-Indexextra = "(Scan)"
-"Latest update" = "December 26, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालकवचम् अथवा विश्वमण्गलकवचम् (श्रीरुद्रयामले तन्त्रे)"
+---
+Category: shiva, kavacha
+Description/comments: Rudrayamala
+File name: mahAkAlakavacham.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 26, 2019
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mahakala Kavacham
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at  gmail.com
+engtitle: mahAkAlakavacham
+itxtitle: mahAkAlakavacham athavA vishvamaNgalakavacham (shrIrudrayAmale tantre)
+title: महाकालकवचम् अथवा विश्वमण्गलकवचम् (श्रीरुद्रयामले तन्त्रे)
 
-+++
+---
   
  श्री महाकालकवचम्   
 ॐ श्रीगणेशाय नमः ।  

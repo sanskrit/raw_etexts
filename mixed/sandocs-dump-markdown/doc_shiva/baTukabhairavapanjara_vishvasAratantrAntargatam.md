@@ -1,22 +1,22 @@
-+++
-"Text title" = "baTukabhairavapanjara"
-"File name" = "baTukabhairavapanjara.itx"
-itxtitle = "baTukabhairavapanjara (vishvasAratantrAntargatam)"
-engtitle = "baTukabhairavapanjara"
-Category = "shiva, panjara"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Description/comments" = "Vishvasaratantra"
-"Latest update" = "October 1, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बटुकभैरवपञ्जर (विश्वसारतन्त्रान्तर्गतम्)"
+---
+Category: shiva, panjara
+Description/comments: Vishvasaratantra
+File name: baTukabhairavapanjara.itx
+Language: Sanskrit
+Latest update: October 1, 2018
+Location: doc_shiva
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: baTukabhairavapanjara
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: baTukabhairavapanjara
+itxtitle: baTukabhairavapanjara (vishvasAratantrAntargatam)
+title: बटुकभैरवपञ्जर (विश्वसारतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्री विश्वसारोक्त बटुकभैरवपञ्जरस्तोत्रम्   
 श्रीगणेशाय नमः ।  

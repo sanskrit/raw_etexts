@@ -1,21 +1,22 @@
-+++
-"Text title" = "nArAyaNAShTottarashatanAmastotram"
-"File name" = "nArAyaNAShTottarashatanAmastotram.itx"
-itxtitle = "nArAyaNAShTottarashatanAmastotram"
-engtitle = "nArAyaNAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "January 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणाष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, vishhnu, vishnu
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: nArAyaNAShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: January 19, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nArAyaNAShTottarashatanAmastotram
+engtitle: nArAyaNAShTottarashatanAmastotram
+itxtitle: nArAyaNAShTottarashatanAmastotram
+title: नारायणाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  नारायणाष्टोत्तरशतनामस्तोत्रम्   
   

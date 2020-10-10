@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Mantragarbha Ashtakam"
-"File name" = "bAlAmantragarbhAShTakam.itx"
-itxtitle = "bAlAmantragarbhAShTakam"
-engtitle = "bAlAmantragarbhAShTakam"
-Category = "devii, dashamahAvidyA, devI, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालामन्त्रगर्भाष्टकम्"
+---
+Category: devii, dashamahAvidyA, devI, aShTaka
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAmantragarbhAShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Mantragarbha Ashtakam
+engtitle: bAlAmantragarbhAShTakam
+itxtitle: bAlAmantragarbhAShTakam
+title: बालामन्त्रगर्भाष्टकम्
 
-+++
+---
   
  श्रीबालामन्त्रगर्भाष्टकम्   
 ऐङ्काररूपिणीं सत्यां ऐङ्काराक्षरमालिनीम् ।  

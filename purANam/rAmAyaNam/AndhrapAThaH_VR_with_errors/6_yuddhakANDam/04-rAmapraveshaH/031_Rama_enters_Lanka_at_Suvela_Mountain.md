@@ -3,13 +3,12 @@ title: 031 Rama enters Lanka at Suvela Mountain
 title_english: 031 Rama enters Lanka at Suvela Mountain
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-031-Rama_enters_Lanka_at_Suvela_Mountain_0.mp3"></div>
 
 ततस्तमक्षोभ्यबलम् लङ्कायां नृपतेश्चराः ।  
 सुवेले राघवं शैले निविष्टं प्रत्यवेदयन् ॥ ६-३१-१  
 चाराणाम् रावणः श्रुत्वा प्राप्तम् रामम् महाबलम् ।  
-जातोद्वेगोऽभवत्किंचित्सचिवानिदमब्रवीत् ॥ ६-३१-२  
+जातोद्वेगोऽभवत्किञ्चित्सचिवानिदमब्रवीत् ॥ ६-३१-२  
 मन्त्रिणः शीघ्रमायान्तु सर्वे वै सु समाहिताः ।  
 अयम् नो मन्त्रकालो हि सम्प्रास्त इति राक्षसाः ॥ ६-३१-३  
 तस्य तच्चासनम् श्रुत्वा मन्त्रिणोऽभ्यागमन् द्रुतम् ।  

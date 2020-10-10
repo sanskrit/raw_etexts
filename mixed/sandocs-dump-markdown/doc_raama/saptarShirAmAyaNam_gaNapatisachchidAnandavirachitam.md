@@ -1,22 +1,22 @@
-+++
-"Text title" = "saptarShirAmAyaNa by"
-"File name" = "saptarShirAmAyaNa.itx"
-itxtitle = "saptarShirAmAyaNam (gaNapatisachchidAnandavirachitam)"
-engtitle = "saptarShirAmAyaNam"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Swami Ganapati Sacchidananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh@hotmail.com"
-"Description/comments" = "Hanumana who propitiated Saptarshis to narrate the Ramayana"
-"Latest update" = "March 10, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सप्तर्षिरामायणम् (गणपतिसच्चिदानन्दविरचितम्)"
+---
+Author: Swami Ganapati Sacchidananda
+Category: raama
+Description/comments: Hanumana who propitiated Saptarshis to narrate the Ramayana
+File name: saptarShirAmAyaNa.itx
+Language: Sanskrit
+Latest update: March 10, 2013
+Location: doc_raama
+Proofread by: Sunder Hattangadi sunderh@hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: saptarShirAmAyaNa by
+engtitle: saptarShirAmAyaNam
+itxtitle: saptarShirAmAyaNam (gaNapatisachchidAnandavirachitam)
+title: सप्तर्षिरामायणम् (गणपतिसच्चिदानन्दविरचितम्)
 
-+++
+---
   
  सप्तर्षिरामायणम्   
 काश्यपः - बालकाण्डम्  
@@ -33,7 +33,7 @@ title = "सप्तर्षिरामायणम् (गणपतिसच
   
 भरद्वाजः - आरण्यकाण्डम्  
       श्रीरामः पितृशासनाद्वनमगात् सौमित्रिसीतान्वितो  
-      गंगां प्राप्य जटां निबध्य सगुहः सच्चित्रकूटे वसन् ।  
+      गङ्गां प्राप्य जटां निबध्य सगुहः सच्चित्रकूटे वसन् ।  
       कृत्वा तत्र पितृक्रियां सभरतो दत्वाऽभयं दण्डके  
       प्राप्यागस्त्यमुनीश्वरं तदुदितं धृत्वा धनुश्चाक्षयम् ॥  
   
@@ -45,13 +45,13 @@ title = "सप्तर्षिरामायणम् (गणपतिसच
            
 गौतमः - सुन्दरकाण्डम्  
       दूतो दाशरथेः सलीलमुदधीं तीर्त्त्वा हनूमान् महान्  
-      दृष्ट्वाऽशोकवने स्थितां जनकजां दत्वांगुलेर्मुद्रिकाम् ।  
+      दृष्ट्वाऽशोकवने स्थितां जनकजां दत्वाङ्गुलेर्मुद्रिकाम् ।  
       अक्षादीनसुरान्निहत्य महतीं लङ्कां च दग्ध्वा पुनः  
       श्रीरामं च समेत्य देव जननी दृष्टा मयेत्यब्रवीत् ॥  
   
 जमदग्निः - युद्धकाण्डम्  
       रामो बद्धपयोनिधिः कपिवरैर्वीरैर्नलाद्यैर्वृतो  
-      लङ्कां प्राप्य सकुंभकर्णतनुजं हत्वा रणे रावणम् ।  
+      लङ्कां प्राप्य सकुम्भकर्णतनुजं हत्वा रणे रावणम् ।  
       त्सयाम् न्यस्य विभीषणं पुनरसौ सीतापतिः पुष्पका-  
       रूढः सन् पुरमागतः सभरतः सिंहासनस्थो बभौ ॥  
   

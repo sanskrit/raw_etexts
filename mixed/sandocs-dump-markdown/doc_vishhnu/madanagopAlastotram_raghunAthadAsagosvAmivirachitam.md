@@ -1,25 +1,26 @@
-+++
-"Text title" = "madanagopAlastotram"
-"File name" = "madanagopAlastotram.itx"
-itxtitle = "madanagopAlastotram (raghunAthadAsagosvAmivirachitam)"
-engtitle = "madanagopAlastotram"
-Category = "vishhnu, krishna, raghunAthadAsagosvAmin, stavAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मदनगोपालस्तोत्रम् (रघुनाथदासगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: vishhnu, krishna, raghunAthadAsagosvAmin, stavAvalI
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: madanagopAlastotram.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: madanagopAlastotram
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: madanagopAlastotram
+itxtitle: madanagopAlastotram (raghunAthadAsagosvAmivirachitam)
+title: मदनगोपालस्तोत्रम् (रघुनाथदासगोस्वामिविरचितम्)
 
-+++
+---
   
  श्रीमदनगोपालस्तोत्रम्   
 वनभुवि रविकन्यास्वच्छकच्छालिपालि  

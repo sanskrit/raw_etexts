@@ -1,25 +1,25 @@
-+++
-"Text title" = "mAtRRibhUteshvarAShTottarashatanAmAvalI"
-"File name" = "mAtRRibhUteshvarAShTottarashatanAmAvalI.itx"
-itxtitle = "mAtRibhUteshvarAShTottarashatanAmAvaliH (ramaNamaharShI mAtRi)"
-engtitle = "Ashtottarashatanamavali for mother of Shri Ramana Maharshi"
-Category = "aShTottarashatanAmAvalI, deities_misc, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "nAmAvalI"
-Author = "Shantananda Swami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi, PSA Easwaran"
-Description-comments = "Audio (Dr. Lingeshvara Rao) on Ramanashrama CD - Parayana"
-Acknowledge-Permission = "Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org"
-"Latest update" = "July 7, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातृइभूतेश्वराष्टोत्तरशतनामावलिः (रमणमहर्षी मातृइ)"
+---
+Acknowledge-Permission: Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org
+Author: Shantananda Swami
+Category: aShTottarashatanAmAvalI, deities_misc, nAmAvalI
+Description-comments: Audio (Dr. Lingeshvara Rao) on Ramanashrama CD - Parayana
+File name: mAtRRibhUteshvarAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: July 7, 2017
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: mAtRRibhUteshvarAShTottarashatanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Ashtottarashatanamavali for mother of Shri Ramana Maharshi
+itxtitle: mAtRibhUteshvarAShTottarashatanAmAvaliH (ramaNamaharShI mAtRi)
+title: मातृइभूतेश्वराष्टोत्तरशतनामावलिः (रमणमहर्षी मातृइ)
 
-+++
+---
   
  मातृभूतेश्वराष्टोत्तरशतनामावलिः   
   

@@ -1,21 +1,22 @@
-+++
-"Text title" = "Rama Saundarya Lahari"
-"File name" = "rAmasaundaryalaharI.itx"
-itxtitle = "rAmasaundaryalaharI"
-engtitle = "Rama Saundarya Lahari"
-Category = "raama, laharI"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Sarvabhauma.  Sanskrit commentary (in the scan) is by Chenna Bhatta in 14th century"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Commentary and Tamil translation)"
-"Latest update" = "July 4, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामसौन्दर्यलहरी"
+---
+Author: Sarvabhauma.  Sanskrit commentary (in the scan) is by Chenna Bhatta in 14th
+  century
+Category: raama, laharI
+File name: rAmasaundaryalaharI.itx
+Indexextra: (Commentary and Tamil translation)
+Language: Sanskrit
+Latest update: July 4, 2018
+Location: doc_raama
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Rama Saundarya Lahari
+engtitle: Rama Saundarya Lahari
+itxtitle: rAmasaundaryalaharI
+title: रामसौन्दर्यलहरी
 
-+++
+---
   
  श्रीरामसौन्दर्यलहरी   
 यद्दीनेषु धरासुतारमण ते नेत्रद्वयं जात्वपि  

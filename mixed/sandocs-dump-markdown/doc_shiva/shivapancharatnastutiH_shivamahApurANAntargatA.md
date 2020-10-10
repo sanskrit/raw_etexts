@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivapancharatnastutiH shivamahApurANe"
-"File name" = "shivapancharatnastuti.itx"
-itxtitle = "shivapancharatnastutiH (shivamahApurANAntargatA)"
-engtitle = "Shivapancharatnastuti"
-Category = "pancharatna, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "shrIshivamahApurANe chyutapurImAhAtmye shrIkRiShNa kRita"
-"Latest update" = "March 7, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवपञ्चरत्नस्तुतिः (शिवमहापुराणान्तर्गता)"
+---
+Category: pancharatna, shiva
+Description-comments: shrIshivamahApurANe chyutapurImAhAtmye shrIkRiShNa kRita
+File name: shivapancharatnastuti.itx
+Language: Sanskrit
+Latest update: March 7, 2014
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: shiva
+Text title: shivapancharatnastutiH shivamahApurANe
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Shivapancharatnastuti
+itxtitle: shivapancharatnastutiH (shivamahApurANAntargatA)
+title: शिवपञ्चरत्नस्तुतिः (शिवमहापुराणान्तर्गता)
 
-+++
+---
   
  श्रीशिवपञ्चरत्नस्तुती शिवमहापुराणे   
   

@@ -1,24 +1,25 @@
-+++
-"Text title" = "taittirIya svarA.nkita"
-"File name" = "taitaccent.itx"
-itxtitle = "taittirIyopaniShat sasvarA"
-engtitle = "taittirIyopanishad (with Vedic accents)"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Avinash Sathaye sohum at ms.uky.edu, Kartik kartik at Eng.Auburn.EDU"
-"Proofread by" = "Avinash Sathaye, Kartik, John Manetta, NA"
-Description-comments = "Mantrapushpam,  7/108; Krishna YajurVeda, Mukhya upanishad, with Vedic accents"
-Indexextra = "(Ch7-9 accented (1 2 3translations, blog))"
-"Latest update" = "November 1, 2010, August 9, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तैत्तिरीयोपनिषत् सस्वरा"
+---
+Category: upanishhat, svara, upanishad
+Description-comments: Mantrapushpam,  7/108; Krishna YajurVeda, Mukhya upanishad,
+  with Vedic accents
+File name: taitaccent.itx
+Indexextra: (Ch7-9 accented (1 2 3translations, blog))
+Language: Sanskrit
+Latest update: November 1, 2010, August 9, 2016
+Location: doc_upanishhat
+Proofread by: Avinash Sathaye, Kartik, John Manetta, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: taittirIya svarA.nkita
+Texttype: svara
+Transliterated by: Avinash Sathaye sohum at ms.uky.edu, Kartik kartik at Eng.Auburn.EDU
+engtitle: taittirIyopanishad (with Vedic accents)
+itxtitle: taittirIyopaniShat sasvarA
+title: तैत्तिरीयोपनिषत् सस्वरा
 
-+++
+---
   
  तैत्तिरीयोपनिषत् सस्वरा   
 प्रथमा शीक्षावल्ली  
@@ -197,10 +198,10 @@ title = "तैत्तिरीयोपनिषत् सस्वरा"
 भि॑या दे॒यम् । संवि॑दा दे॒यम् ।  
 अथ यदि ते कर्मविचिकित्सा वा वृत्तविचिकि॑त्सा वा॒ स्यात् ॥ ३॥  
   
-ये तत्र ब्राह्मणाः᳚ संम॒र्शिनः । युक्ता॑ आयु॒क्ताः ।  
+ये तत्र ब्राह्मणाः᳚ सम्म॒र्शिनः । युक्ता॑ आयु॒क्ताः ।  
 अलूक्षा॑ धर्म॑कामाः॒ स्युः । यथा ते॑ तत्र॑ वर्ते॒रन् ।  
 तथा तत्र॑ वर्ते॒थाः । अथाभ्या᳚ख्या॒तेषु ।  
-ये तत्र ब्राह्मणाः᳚ संम॒र्शिनः । युक्ता॑ आयु॒क्ताः ।  
+ये तत्र ब्राह्मणाः᳚ सम्म॒र्शिनः । युक्ता॑ आयु॒क्ताः ।  
 अलूक्षा॑ धर्म॑कामाः॒ स्युः । यथा ते॑ तेषु॑ वर्ते॒रन् ।  
 तथा तेषु॑ वर्ते॒थाः । एष॑ आदे॒शः । एष उ॑पदे॒शः ।  
 एषा वे॑दोप॒निषत् । एतद॑नुशा॒सनम् । एवमुपा॑सित॒व्यम् ।  

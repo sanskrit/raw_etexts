@@ -1,25 +1,25 @@
-+++
-"Text title" = "Gayatri Samhita"
-"File name" = "gAyatrI_saMhitA.itx"
-itxtitle = "gAyatrI saMhitA"
-engtitle = "Gayatri Samhita"
-Category = "devii, gAyatrI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Gayatri Mahavijnana -"
-"Latest update" = "Mar. 14, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्री संहिता"
+---
+Author: Traditional
+Category: devii, gAyatrI, stotra, devI
+File name: gAyatrI_saMhitA.itx
+Language: Sanskrit
+Latest update: Mar. 14, 2014
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Gayatri Mahavijnana -
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gayatri Samhita
+Texttype: stotra
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Gayatri Samhita
+itxtitle: gAyatrI saMhitA
+title: गायत्री संहिता
 
-+++
+---
   
  गायत्री संहिता   
   
@@ -69,7 +69,7 @@ title = "गायत्री संहिता"
 शीघ्रं विनाशतां यान्ति विविधा विघ्नराशयः ॥ १५॥  
   
 विनाशादुक्त शत्रूणामन्तः शक्तिर्विवर्धते ।  
-संकटानामनायासं पारं याति तया नरः ॥ १६॥  
+सङ्कटानामनायासं पारं याति तया नरः ॥ १६॥  
   
 गायत्र्युपासकस्वान्ते सत्कामा उद्भवन्ति हि ।  
 तत्पूर्तयेऽभिजायन्ते सहजं साधनान्यपि ॥ १७॥  
@@ -77,7 +77,7 @@ title = "गायत्री संहिता"
 त्रुटयः सर्वथा दोषा विघ्ना यान्ति यदान्तताम् ।  
 मानवो निर्भयं याति पूर्णोन्नति पथं तदा ॥ १८॥  
   
-बाह्यंचाभ्यन्तरं त्वस्य नित्यं सन्मार्गगामिनः ।  
+बाह्यञ्चाभ्यन्तरं त्वस्य नित्यं सन्मार्गगामिनः ।  
 उन्नतेरुभयं द्वारं यात्युन्मुक्तकपाटताम् ॥ १९॥  
   
 अतः स्वस्थेन चित्तेन श्रद्धया निष्ठया तथा ।  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "yugmatilakamantra"
-"File name" = "yugmatilakamantra.itx"
-itxtitle = "yugmatilakamantra"
-engtitle = "yugmatilakamantra"
-Category = "devii, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "sarasa stotrasangrahaH (Lucknow, 1909)"
-Indexextra = "(Scanned)"
-"Latest update" = "November 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "युग्मतिलकमन्त्र"
+---
+Category: devii, radha, devI
+Description-comments: sarasa stotrasangrahaH (Lucknow, 1909)
+File name: yugmatilakamantra.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 4, 2017
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yugmatilakamantra
+engtitle: yugmatilakamantra
+itxtitle: yugmatilakamantra
+title: युग्मतिलकमन्त्र
 
-+++
+---
   
  श्री निम्बादित्यप्रकाशितः श्रीयुग्म तिलकमन्त्रः   
 ॐ श्रीराधिकायै स्वाहा ॥  

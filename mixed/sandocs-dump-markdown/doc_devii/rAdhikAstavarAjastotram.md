@@ -1,21 +1,21 @@
-+++
-"Text title" = "rAdhikAstavarAjastotram"
-"File name" = "rAdhikAstavarAjastotram.itx"
-itxtitle = "rAdhikAstavarAjastotram"
-engtitle = "rAdhikAstavarAjastotram"
-Category = "devii, radha, stavarAja, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "sarasa stotrasangrahaH (Lucknow, 1909)"
-Indexextra = "(Scanned)"
-"Latest update" = "November 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधिकास्तवराजस्तोत्रम्"
+---
+Category: devii, radha, stavarAja, devI
+Description-comments: sarasa stotrasangrahaH (Lucknow, 1909)
+File name: rAdhikAstavarAjastotram.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 4, 2017
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhikAstavarAjastotram
+engtitle: rAdhikAstavarAjastotram
+itxtitle: rAdhikAstavarAjastotram
+title: राधिकास्तवराजस्तोत्रम्
 
-+++
+---
   
  श्रीराधिकास्तवराजस्तोत्रम्   
 श्रीमते रामानुजाय नमः ॥  

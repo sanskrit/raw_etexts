@@ -1,22 +1,22 @@
-+++
-"Text title" = "prAchInapApanAshakShetrastutiH"
-"File name" = "prAchInapApanAshakShetrastutiH.itx"
-itxtitle = "prAchInapApanAshakShetrastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "prAchInapApanAshakShetrastutiH"
-Category = "misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्राचीनपापनाशक्षेत्रस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: prAchInapApanAshakShetrastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: prAchInapApanAshakShetrastutiH
+engtitle: prAchInapApanAshakShetrastutiH
+itxtitle: prAchInapApanAshakShetrastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: प्राचीनपापनाशक्षेत्रस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीप्राचीनपापनाशक्षेत्रस्तुतिः   
 अधुनातनपापानामदृढत्वान्नाशनं भवत्येव ।  

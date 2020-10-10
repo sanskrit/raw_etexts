@@ -1,22 +1,22 @@
-+++
-"Text title" = "vishvabhAShAsaMskRRitam"
-"File name" = "vishvabhAShAsaMskRRitam.itx"
-itxtitle = "vishvabhAShAsaMskRRitam"
-engtitle = "vishvabhAShAsaMskRRitam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com"
-Indexextra = "(, audio, English)"
-"Latest update" = "December 25, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वभाषासंस्कृतम्"
+---
+Category: misc, sanskritgeet
+File name: vishvabhAShAsaMskRRitam.itx
+Indexextra: (, audio, English)
+Language: Sanskrit
+Latest update: December 25, 2018
+Location: doc_z_misc_general
+Proofread by: Ganesh Kandu kanduganesh at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: vishvabhAShAsaMskRRitam
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: vishvabhAShAsaMskRRitam
+itxtitle: vishvabhAShAsaMskRRitam
+title: विश्वभाषासंस्कृतम्
 
-+++
+---
   
  विश्वभाषा संस्कृतं   
 सरलभाषा संस्कृतं सरसभाषा संस्कृतम् ।  

@@ -3,7 +3,6 @@ title: 038 सगरकथा
 title_english: 038 Legend of emperor sagara
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-038-Sagaro_Pakhyanam_.mp3"></div>
 
 तां कथां कौशिको रामे निवेद्य कुशिकात्मजः।  
@@ -55,7 +54,7 @@ title_english: 038 Legend of emperor sagara
 अथ दीर्घेण कालेन रूपयौवनशालिनः।  
 षष्टिः पुत्रसहस्राणि सगरस्याभवंस्तदा ॥ 1.38.19 ॥   
 
-(स च ज्येष्ठो नरश्रेष्ठ सगरस्यात्मसंभवः ।)  
+(स च ज्येष्ठो नरश्रेष्ठ सगरस्यात्मसम्भवः ।)  
 बालान् गृहीत्वा तु जले सरय्वा रघुनन्दन।  
 प्रक्षिप्य प्रहसन्नित्यं मज्जतस्तान् समीक्ष्य वै ॥ 1.38.20 ॥   
 

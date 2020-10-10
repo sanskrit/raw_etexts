@@ -1,22 +1,22 @@
-+++
-"Text title" = "hATakeshvarastotram"
-"File name" = "hATakeshvarastotram.itx"
-itxtitle = "hATakeshvarastotram"
-engtitle = "hATakeshvarastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Scan Malayalam)"
-"Latest update" = "December 26, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हाटकेश्वरस्तोत्रम्"
+---
+Category: shiva
+File name: hATakeshvarastotram.itx
+Indexextra: (Scan Malayalam)
+Language: Sanskrit
+Latest update: December 26, 2019
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: hATakeshvarastotram
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: hATakeshvarastotram
+itxtitle: hATakeshvarastotram
+title: हाटकेश्वरस्तोत्रम्
 
-+++
+---
   
  हाटकेश्वरस्तोत्रम्   
 ॐ नमोऽस्तु शर्व! शम्भो! त्रिनेत्र! चारुगात्र! त्रैलोक्यनाथ!  

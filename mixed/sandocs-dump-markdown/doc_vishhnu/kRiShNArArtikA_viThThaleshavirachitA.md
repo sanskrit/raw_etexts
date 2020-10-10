@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRRiShNArArtikA"
-"File name" = "kRRiShNArArtikA.itx"
-itxtitle = "kRiShNArArtikA (viThThaleshavirachitA)"
-engtitle = "kRRiShNArArtikA"
-Category = "vishhnu, krishna, puShTimArgIya, AratI, viThThaleshvara"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "viThThalesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णारार्तिका (विठ्ठलेशविरचिता)"
+---
+Author: viThThalesha
+Category: vishhnu, krishna, puShTimArgIya, AratI, viThThaleshvara
+Description/comments: puShTimArgIya stotraratnAkara
+File name: kRRiShNArArtikA.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNArArtikA
+engtitle: kRRiShNArArtikA
+itxtitle: kRiShNArArtikA (viThThaleshavirachitA)
+title: कृइष्णारार्तिका (विठ्ठलेशविरचिता)
 
-+++
+---
   
  श्रीकृष्णारार्तिका   
   

@@ -3,7 +3,6 @@ title: 011 Ravana goes again to the assembly hall
 title_english: 011 Ravana goes again to the assembly hall
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-011-Ravana_goes_again_to_the_assembly_hall.mp3"></div>
 
 स बभुव कृशो राजा मैथिलीकाममोहितः ।  
@@ -32,7 +31,7 @@ title_english: 011 Ravana goes again to the assembly hall
 चामरव्यजने तस्य रेजतुः सव्यदक्षिणे ॥ ६-११-१२  
 ते कृताञ्जलयः सर्वे रथस्थम् पृथिवीस्थिताः ।  
 राक्ष्सा राक्षसश्रेष्ठम् शिरोभिस्तम् ववन्दिरे ॥ ६-११-१३  
-राक्षनैः स्तूयमानः सन् जयाशीर्भिररिंदमः ।  
+राक्षनैः स्तूयमानः सन् जयाशीर्भिररिन्दमः ।  
 अससाद महातेजाः सभाम् विरचिताम् तदा ॥ ६-११-१४  
 सुवर्णरजतास्तीर्णाम् विशुद्धस्फटिकान्तराम् ।  
 विराजमानो वपुषा रुक्मपट्टोत्तरच्चदाम् ॥ ६-११-१५  

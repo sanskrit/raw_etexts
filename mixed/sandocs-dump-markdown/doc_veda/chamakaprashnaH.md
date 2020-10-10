@@ -1,24 +1,25 @@
-+++
-"Text title" = "chamakaprashnaH"
-"File name" = "chamaka.itx"
-itxtitle = "chamakaprashnaH"
-engtitle = "chamakaprashna"
-Category = "veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-"Proofread by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-Indexextra = "(Meaning 1 2, 3 completevidhi pradosham, Roman, Skt Dvng, Malayalam, (without accents), translation)"
-"Latest update" = "June 14, 2000, November 19, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चमकप्रश्नः"
+---
+Author: Vedic Tradition
+Category: veda, svara
+File name: chamaka.itx
+Indexextra: (Meaning 1 2, 3 completevidhi pradosham, Roman, Skt Dvng, Malayalam, (without
+  accents), translation)
+Language: Sanskrit
+Latest update: June 14, 2000, November 19, 2011
+Location: doc_veda
+Proofread by: Rajagopal Iyer (rajsand at yahoo.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: veda
+Text title: chamakaprashnaH
+Texttype: svara
+Transliterated by: Rajagopal Iyer (rajsand at yahoo.com)
+engtitle: chamakaprashna
+itxtitle: chamakaprashnaH
+title: चमकप्रश्नः
 
-+++
+---
   
  चमकप्रश्नः   
   
@@ -69,7 +70,7 @@ title = "चमकप्रश्नः"
 मेऽक्षि॑तिश्च मे॒ कूय॑वाश्च॒ मेऽन्नं॑ च॒ मेऽक्षु॑च्च  
 मे व्री॒हिय॑श्च मे॒ यवा᳚श्च मे॒ माषा᳚श्च मे॒  
 तिला᳚श्च मे मु॒द्गाश्च॑ मे ख॒ल्वा᳚श्च मे  गो॒धूमा᳚श्च  
-मे म॒सुरा᳚श्च मे प्रि॒यंग॑वश्च॒ मेऽण॑वश्च मे  
+मे म॒सुरा᳚श्च मे प्रि॒यङ्ग॑वश्च॒ मेऽण॑वश्च मे  
 श्या॒मका᳚श्च मे  नी॒वारा᳚श्च मे ॥ ४॥  
   
 अश्मा॑ च मे॒ मृत्ति॑का च मे गि॒रय॑श्च मे॒ पर्व॑ताश्च  

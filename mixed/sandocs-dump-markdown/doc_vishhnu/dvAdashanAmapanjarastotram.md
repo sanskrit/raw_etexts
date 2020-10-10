@@ -1,21 +1,21 @@
-+++
-"Text title" = "dvAdashanAmapanjarastotram"
-"File name" = "dvAdashanAmapanjarastotram.itx"
-itxtitle = "dvAdashanAmapanjarastotram"
-engtitle = "dvAdashanAmapanjarastotram"
-Category = "vishhnu, panjara, dvAdasha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "December 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "द्वादशनामपञ्जरस्तोत्रम्"
+---
+Category: vishhnu, panjara, dvAdasha
+File name: dvAdashanAmapanjarastotram.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: December 24, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dvAdashanAmapanjarastotram
+engtitle: dvAdashanAmapanjarastotram
+itxtitle: dvAdashanAmapanjarastotram
+title: द्वादशनामपञ्जरस्तोत्रम्
 
-+++
+---
   
  श्रीद्वादशनामपञ्जरस्तोत्रम्   
   

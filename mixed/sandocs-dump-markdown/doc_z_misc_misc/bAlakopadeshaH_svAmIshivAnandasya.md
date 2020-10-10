@@ -1,21 +1,21 @@
-+++
-"Text title" = "svAmIshivAnandasya bAlakopadeshaH"
-"File name" = "advice.itx"
-itxtitle = "bAlakopadeshaH (svAmIshivAnandasya)"
-engtitle = "Advice to children"
-Category = "vedanta, misc"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Advice to children by Swami Shivananda)"
-"Latest update" = "October 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालकोपदेशः (स्वामीशिवानन्दस्य)"
+---
+Category: vedanta, misc
+File name: advice.itx
+Indexextra: (Advice to children by Swami Shivananda)
+Language: Sanskrit
+Latest update: October 1, 2010
+Location: doc_z_misc_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: svAmIshivAnandasya bAlakopadeshaH
+Texttype: pramukha
+engtitle: Advice to children
+itxtitle: bAlakopadeshaH (svAmIshivAnandasya)
+title: बालकोपदेशः (स्वामीशिवानन्दस्य)
 
-+++
+---
   
  स्वामीशिवानन्दस्य बालकोपदेशः   
   

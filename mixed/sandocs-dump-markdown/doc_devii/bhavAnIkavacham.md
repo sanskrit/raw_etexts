@@ -1,24 +1,24 @@
-+++
-"Text title" = "bhavAnIkavacham"
-"File name" = "bhavaaniikavach.itx"
-itxtitle = "bhavAnIkavacham"
-engtitle = "bhavAnIkavacham"
-Category = "kavacha, devii, pArvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rUdrayAmala_ta.ntra"
-"Latest update" = "October 31, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवानीकवचम्"
+---
+Author: Traditional
+Category: kavacha, devii, pArvatI, devI
+Description-comments: rUdrayAmala_ta.ntra
+File name: bhavaaniikavach.itx
+Language: Sanskrit
+Latest update: October 31, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhavAnIkavacham
+Transliterated by: WebD
+engtitle: bhavAnIkavacham
+itxtitle: bhavAnIkavacham
+title: भवानीकवचम्
 
-+++
+---
   
  श्रीभवानीकवचम्   
   

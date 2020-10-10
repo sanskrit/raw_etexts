@@ -1,22 +1,22 @@
-+++
-"Text title" = "Sharabhastotram by Shri Nrisimha from Lingapurana"
-"File name" = "sharabhastotram.itx"
-itxtitle = "sharabhastotram (liNgapurANoktaM shrInRisiMhakRita)"
-engtitle = "sharabhastotram by Shri Nrisimha from Lingapurana"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Text"
-"Latest update" = "February 22, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरभस्तोत्रम् (लिण्गपुराणोक्तं श्रीनृइसिंहकृइत)"
+---
+Category: shiva
+File name: sharabhastotram.itx
+Indexextra: (Text
+Language: Sanskrit
+Latest update: February 22, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Sharabhastotram by Shri Nrisimha from Lingapurana
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 gmail.com
+engtitle: sharabhastotram by Shri Nrisimha from Lingapurana
+itxtitle: sharabhastotram (liNgapurANoktaM shrInRisiMhakRita)
+title: शरभस्तोत्रम् (लिण्गपुराणोक्तं श्रीनृइसिंहकृइत)
 
-+++
+---
   
  लिङ्गपुराणोक्तं श्रीनृसिंहकृत शरभस्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  
@@ -84,7 +84,7 @@ title = "शरभस्तोत्रम् (लिण्गपुराणो
 यदा यदा ममाज्ञानमत्यहङ्कारदूषितम् ।  
 तदा तदाऽपनेतव्यं त्वयैव परमेश्वरः ॥ २०॥  
   
-एवं विज्ञापयन्प्रीतः शंङ्करं नरकेसरी ।  
+एवं विज्ञापयन्प्रीतः शङ्ङ्करं नरकेसरी ।  
 नन्वशक्तो भवान्विष्णो! जीवितान्तं पराजितः ॥ २१॥  
   
 तद्वक्त्रशेषमात्रान्तं कृत्वा शर्वस्य विग्रहम् ।  

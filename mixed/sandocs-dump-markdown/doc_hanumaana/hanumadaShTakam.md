@@ -1,21 +1,21 @@
-+++
-"Text title" = "hanumadaShTakam"
-"File name" = "hanumadaShTakam.itx"
-itxtitle = "hanumadaShTakam"
-engtitle = "hanumadaShTakam"
-Category = "hanumaana, hanuman, aShTaka"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमदष्टकम्"
+---
+Category: hanumaana, hanuman, aShTaka
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: hanumadaShTakam.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_hanumaana
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumadaShTakam
+engtitle: hanumadaShTakam
+itxtitle: hanumadaShTakam
+title: हनुमदष्टकम्
 
-+++
+---
   
  हनुमदष्टकम्   
 वीर! त्वमादिथ रविं तमसा त्रिलोकी  

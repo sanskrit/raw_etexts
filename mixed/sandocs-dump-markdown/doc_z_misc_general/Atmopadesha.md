@@ -1,22 +1,22 @@
-+++
-"Text title" = "Atmopadesha"
-"File name" = "Atmopadesha.itx"
-itxtitle = "Atmopadesha"
-engtitle = "Atmopadesha"
-Category = "misc, vedanta, advice, advice"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "April 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "आत्मोपदेश"
+---
+Category: misc, vedanta, advice, advice
+File name: Atmopadesha.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 18, 2020
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Atmopadesha
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: Atmopadesha
+itxtitle: Atmopadesha
+title: आत्मोपदेश
 
-+++
+---
   
  आत्मोपदेश   
      शास्त्रप्रतिष्ठा गुरुवाक्यनिष्ठा  

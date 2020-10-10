@@ -1,20 +1,20 @@
-+++
-"Text title" = "sarpasUktam 2"
-"File name" = "sarpasUktam2.itx"
-itxtitle = "sarpasUktam 2"
-engtitle = "sarpasUktam 2"
-Category = "deities_misc, sUkta"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "July 7, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सर्पसूक्तम् २"
+---
+Category: deities_misc, sUkta
+File name: sarpasUktam2.itx
+Language: Sanskrit
+Latest update: July 7, 2019
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: sarpasUktam 2
+engtitle: sarpasUktam 2
+itxtitle: sarpasUktam 2
+title: सर्पसूक्तम् २
 
-+++
+---
   
  सर्पसूक्तम् २   
 ब्रह्मलोकेषु ये सर्पाः शेषनाग परोगमाः ।  

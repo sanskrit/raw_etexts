@@ -1,22 +1,22 @@
-+++
-"Text title" = "pUrNAShTakam"
-"File name" = "pUrNAShTakam.itx"
-itxtitle = "pUrNAShTakam (anantAnandasarasvatIvirachitam)"
-engtitle = "pUrNAShTakam"
-Category = "devii, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Anantanandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पूर्णाष्टकम् (अनन्तानन्दसरस्वतीविरचितम्)"
+---
+Author: Anantanandasarasvati
+Category: devii, aShTaka, devI
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: pUrNAShTakam.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: pUrNAShTakam
+engtitle: pUrNAShTakam
+itxtitle: pUrNAShTakam (anantAnandasarasvatIvirachitam)
+title: पूर्णाष्टकम् (अनन्तानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  श्रीपूर्णाष्टकम्   
 भगवति भवबन्धच्छेदिनि ब्रह्मवन्द्ये  

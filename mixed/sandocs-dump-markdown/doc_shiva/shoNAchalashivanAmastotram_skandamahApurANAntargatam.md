@@ -1,21 +1,22 @@
-+++
-"Text title" = "shoNAchalashivanAmastotram"
-"File name" = "shoNAchalashivanAmastotram.itx"
-itxtitle = "shoNAchalashivanAmastotram (skandamahApurANAntargatam)"
-engtitle = "shoNAchalashivanAmastotram"
-Category = "shiva, aShTottarashatanAma"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Description/comments" = "skAndamahApurANa prathame mAheshvarakhaNDe tRitIyamarUNAchalamAhAtmyaM pUrvArdhaH navamo.adhyAyaH"
-"Latest update" = "December 29, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शोणाचलशिवनामस्तोत्रम् (स्कन्दमहापुराणान्तर्गतम्)"
+---
+Category: shiva, aShTottarashatanAma
+Description/comments: skAndamahApurANa prathame mAheshvarakhaNDe tRitIyamarUNAchalamAhAtmyaM
+  pUrvArdhaH navamo.adhyAyaH
+File name: shoNAchalashivanAmastotram.itx
+Language: Sanskrit
+Latest update: December 29, 2018
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shoNAchalashivanAmastotram
+engtitle: shoNAchalashivanAmastotram
+itxtitle: shoNAchalashivanAmastotram (skandamahApurANAntargatam)
+title: शोणाचलशिवनामस्तोत्रम् (स्कन्दमहापुराणान्तर्गतम्)
 
-+++
+---
   
  शोणाचलशिवनामस्तोत्रम्   
 गौतमाय श्रीशङ्करेणशिवमुख्यनाम्नाम्परिगणनपुरःसरं  

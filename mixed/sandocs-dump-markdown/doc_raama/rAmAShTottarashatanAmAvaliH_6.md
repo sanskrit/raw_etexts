@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmAShTottarashatanAmAvaliH 6"
-"File name" = "rAmAShTottarashatanAmAvaliH6.itx"
-itxtitle = "rAmAShTottarashatanAmAvaliH 6"
-engtitle = "rAmAShTottarashatanAmAvaliH 6"
-Category = "raama, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018, October 6, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टोत्तरशतनामावलिः ६"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: raama, aShTottarashatanAmAvalI, nAmAvalI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: rAmAShTottarashatanAmAvaliH6.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018, October 6, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmAShTottarashatanAmAvaliH 6
+engtitle: rAmAShTottarashatanAmAvaliH 6
+itxtitle: rAmAShTottarashatanAmAvaliH 6
+title: रामाष्टोत्तरशतनामावलिः ६
 
-+++
+---
   
  श्रीरामाष्टोत्तरशतनामावलिः ६   
   

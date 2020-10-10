@@ -1,22 +1,22 @@
-+++
-"Text title" = "vedAntadashashokI"
-"File name" = "vedAntadashashokI.itx"
-itxtitle = "vedAntadashashokI (nimbArkAchAryavirachitA)"
-engtitle = "vedAntadashashokI"
-Category = "misc, nimbArkAchArya, vishhnu, krishna"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "shrImatsudarshanachakrAvatArabhagavannimbArka"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ankur Nagpal ankurnagpal108@gmail.com"
-"Proofread by" = "Ankur Nagpal ankurnagpal108@gmail.com"
-"Latest update" = "September 25, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदान्तदशशोकी (निम्बार्काचार्यविरचिता)"
+---
+Author: shrImatsudarshanachakrAvatArabhagavannimbArka
+Category: misc, nimbArkAchArya, vishhnu, krishna
+File name: vedAntadashashokI.itx
+Language: Sanskrit
+Latest update: September 25, 2016
+Location: doc_z_misc_general
+Proofread by: Ankur Nagpal ankurnagpal108@gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: vedAntadashashokI
+Transliterated by: Ankur Nagpal ankurnagpal108@gmail.com
+engtitle: vedAntadashashokI
+itxtitle: vedAntadashashokI (nimbArkAchAryavirachitA)
+title: वेदान्तदशशोकी (निम्बार्काचार्यविरचिता)
 
-+++
+---
   
  वेदान्तदशश्लोकी   
   

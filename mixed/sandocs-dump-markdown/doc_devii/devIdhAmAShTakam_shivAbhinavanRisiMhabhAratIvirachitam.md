@@ -1,22 +1,22 @@
-+++
-"Text title" = "devIdhAmAShTakam"
-"File name" = "devIdhAmAShTakam.itx"
-itxtitle = "devIdhAmAShTakam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "devIdhAmAShTakam"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीधामाष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, aShTaka
+File name: devIdhAmAShTakam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIdhAmAShTakam
+engtitle: devIdhAmAShTakam
+itxtitle: devIdhAmAShTakam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: देवीधामाष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  देवीधामाष्टकम्   
 कस्मैचिदङ्घ्रिप्रणताखिलेष्टविश्राणनव्रीडितकौस्तुभाय ।  

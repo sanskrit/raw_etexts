@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrI shivakAmasundarI sahasranAmAvalI 2 from rudrayAmala"
-"File name" = "shivakAmasundarIsahasranAmAvalIrudrayAmala.itx"
-itxtitle = "shivakAmasundarIsahasranAmAvaliH 2 (rudrayAmalAntargatA)"
-engtitle = "shivakAmasundarIsahasranAmAvalI 2 from rudrayAmalatantra"
-Category = "sahasranAmAvalI, devii, nAmAvalI, devI, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD, Sneha Sudha snehasudha13 at gmail.com"
-Description-comments = "Mahaperiaval trust publication"
-Source = "Rudrayamalatantra"
-Indexextra = "(Scan)"
-"Latest update" = "May 1, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवकामसुन्दरीसहस्रनामावलिः २ (रुद्रयामलान्तर्गता)"
+---
+Category: sahasranAmAvalI, devii, nAmAvalI, devI, pArvatI
+Description-comments: Mahaperiaval trust publication
+File name: shivakAmasundarIsahasranAmAvalIrudrayAmala.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 1, 2019
+Location: doc_devii
+Proofread by: DPD, Sneha Sudha snehasudha13 at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalatantra
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrI shivakAmasundarI sahasranAmAvalI 2 from rudrayAmala
+engtitle: shivakAmasundarIsahasranAmAvalI 2 from rudrayAmalatantra
+itxtitle: shivakAmasundarIsahasranAmAvaliH 2 (rudrayAmalAntargatA)
+title: शिवकामसुन्दरीसहस्रनामावलिः २ (रुद्रयामलान्तर्गता)
 
-+++
+---
   
  श्रीशिवकामसुन्दरीसहस्रनामावलिः रुद्रयामलान्तर्गता   
 अस्य श्रीशिवकामसुन्दरीसहस्रनाम स्तोत्रमहामन्त्रस्य ।  
@@ -947,7 +947,7 @@ title = "शिवकामसुन्दरीसहस्रनामाव�
 ॐ श्रीमत्त्रिपुरसुन्दर्यै नमः ।  
 ॐ सर्वसाम्राज्यसुभगायै नमः ।  
 ॐ सर्वभाग्यप्रदेश्वर्यै नमः ।  
-ॐ संप्रदायेश्वर्यै नमः ।  
+ॐ सम्प्रदायेश्वर्यै नमः ।  
 ॐ सर्वसङ्क्षोभणकर्यै नमः ।  
 ॐ सर्वविद्रावण्यै नमः ।  
 ॐ सर्वाकर्षिण्यै नमः ।  

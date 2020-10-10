@@ -1,22 +1,22 @@
-+++
-"Text title" = "mAtanginIkavacham"
-"File name" = "mAtanginIkavacham.itx"
-itxtitle = "mAtaNginIkavacham tvaritaphaladAyinI (nandyAvartAntargatam)"
-engtitle = "mAtanginIkavacham"
-Category = "devii, kavacha, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-"Description/comments" = "shAktapramodaH"
-"Latest update" = "July 29, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातण्गिनीकवचम् त्वरितफलदायिनी (नन्द्यावर्तान्तर्गतम्)"
+---
+Category: devii, kavacha, dashamahAvidyA, devI
+Description/comments: shAktapramodaH
+File name: mAtanginIkavacham.itx
+Language: Sanskrit
+Latest update: July 29, 2018
+Location: doc_devii
+Proofread by: lalitha parameswari parameswari.lalitha at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mAtanginIkavacham
+engtitle: mAtanginIkavacham
+itxtitle: mAtaNginIkavacham tvaritaphaladAyinI (nandyAvartAntargatam)
+title: मातण्गिनीकवचम् त्वरितफलदायिनी (नन्द्यावर्तान्तर्गतम्)
 
-+++
+---
   
  मातङ्गिनीकवचं   
 श्रीदेव्युवाच  
@@ -46,7 +46,7 @@ title = "मातण्गिनीकवचम् त्वरितफलद�
 नेत्राभ्यां सुमुखी रक्षेद्देवी रक्षतु नासिकाम् ॥ ७॥  
   
 महापिशाचिनी पायान्मुखे रक्षतु सर्वदा ।  
-लज्जा रक्षतु मान्दन्ते चोष्ठौ संमार्जनीकरी ॥ ८॥  
+लज्जा रक्षतु मान्दन्ते चोष्ठौ सम्मार्जनीकरी ॥ ८॥  
   
 चिबुके कण्ठदेशे तु चकारत्रितयम्पुनः ।  
 सविसर्गं महादेवी हृदयम्पातु सर्वदा ॥ ९॥  

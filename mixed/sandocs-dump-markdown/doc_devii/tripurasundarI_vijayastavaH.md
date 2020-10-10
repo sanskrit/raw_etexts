@@ -1,23 +1,23 @@
-+++
-"Text title" = "ShrI Tripurasundari vijayastavah"
-"File name" = "tripurasundarIvijayastava.itx"
-itxtitle = "tripurasundarI vijayastavaH"
-engtitle = "tripurasundarI vijayastavaH"
-Category = "devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pankaj Dubey dr.pankaj.dubey at gmail.com"
-"Proofread by" = "Pankaj Dubey dr.pankaj.dubey at gmail.com"
-"Latest update" = "April 18, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरसुन्दरी विजयस्तवः"
+---
+Category: devii, dashamahAvidyA, stotra, devI
+File name: tripurasundarIvijayastava.itx
+Language: Sanskrit
+Latest update: April 18, 2015
+Location: doc_devii
+Proofread by: Pankaj Dubey dr.pankaj.dubey at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ShrI Tripurasundari vijayastavah
+Texttype: stotra
+Transliterated by: Pankaj Dubey dr.pankaj.dubey at gmail.com
+engtitle: tripurasundarI vijayastavaH
+itxtitle: tripurasundarI vijayastavaH
+title: त्रिपुरसुन्दरी विजयस्तवः
 
-+++
+---
   
  श्रीत्रिपुरसुन्दरी विजयस्तवः   
           ॥ क॥  
@@ -37,7 +37,7 @@ title = "त्रिपुरसुन्दरी विजयस्तवः"
           ॥ ई॥  
   
 ईषत्-फुल्ल-कदम्ब-कुण्डल-महा-लावण्य-गर्वापहा  
-स्निग्ध-स्वच्छ-सुदन्त-कान्ति-विलसन्मन्द-स्मिताऽलंकृता ।  
+स्निग्ध-स्वच्छ-सुदन्त-कान्ति-विलसन्मन्द-स्मिताऽलङ्कृता ।  
 ईशित्वाद्यखिलेष्ट-सिद्धि-फलदा भक्त्या नतानां सदा  
 श्रीचक्राधि-निवासिनी विजयते श्रीराज-राजेश्वरी ॥ ३॥  
   
@@ -50,14 +50,14 @@ title = "त्रिपुरसुन्दरी विजयस्तवः"
   
           ॥ ह्रीं॥  
   
-ह्रींङ्कारी सुर-वाहिनी जल-गभीरावर्तनाभिर्धन-  
+ह्रीङ्ङ्कारी सुर-वाहिनी जल-गभीरावर्तनाभिर्धन-  
 श्रोणी-मण्डल-भार-मन्द गमना-काञ्ची-कलापोज्ज्वला ।  
 शुण्डादण्ड-सुवर्ण-वर्ण-कदली-काण्डोपमोरु-द्वयी  
 श्रीचक्राधि-निवासिनी विजयते श्रीराज-राजेश्वरी ॥ ५॥  
   
           ॥ ह॥  
   
-हस्त-प्रोज्ज्वलदिक्षु-कार्मुक-लसत्-पुष्पेषु-पाशांकुशा  
+हस्त-प्रोज्ज्वलदिक्षु-कार्मुक-लसत्-पुष्पेषु-पाशाङ्कुशा  
 ह्याद्यर्णाङ्कित-मन्त्र-राज-निलया हारादिभिर्भूषिता ।  
 हस्त-प्रान्त-रणत्-सुवर्ण-वलया हर्यक्ष-सम्पूजिता  
 श्रीचक्राधि-निवासिनी विजयते श्रीराज-राजेश्वरी ॥ ६॥  
@@ -106,7 +106,7 @@ title = "त्रिपुरसुन्दरी विजयस्तवः"
   
           ॥ क॥  
   
-कन्या-रूप-धरा गलाब्ज-विलसन्मुक्ता-लताऽलंकृता  
+कन्या-रूप-धरा गलाब्ज-विलसन्मुक्ता-लताऽलङ्कृता  
 कादि-क्षान्तमनु-प्रविष्ट-हृदया कल्याण-शीलान्विता ।  
 कल्पान्तोद्भट-ताण्डव-प्रमुदिता श्रीकाम-जित्-साक्षिणी  
 श्रीचक्राधि-निवासिनी विजयते श्रीराज-राजेश्वरी ॥ १३॥  

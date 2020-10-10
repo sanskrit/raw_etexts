@@ -1,22 +1,22 @@
-+++
-"Text title" = "Atma-Vidya-Vilasa 2"
-"File name" = "AtmavidyAvilAsaH2.itx"
-itxtitle = "AtmavidyAvilAsaH 2 (sadAshivendravirachitaH)"
-engtitle = "AtmavidyAvilAsaH 2"
-Category = "major_works, sadAshivabrahmendra"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Sadashivendra Sarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आत्मविद्याविलासः २ (सदाशिवेन्द्रविरचितः)"
+---
+Author: Sadashivendra Sarasvati
+Category: major_works, sadAshivabrahmendra
+File name: AtmavidyAvilAsaH2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 2, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: Atma-Vidya-Vilasa 2
+engtitle: AtmavidyAvilAsaH 2
+itxtitle: AtmavidyAvilAsaH 2 (sadAshivendravirachitaH)
+title: आत्मविद्याविलासः २ (सदाशिवेन्द्रविरचितः)
 
-+++
+---
   
  आत्मविद्याविलासः २   
 यत्पादपद्ममकरन्दजुषां नराणां  

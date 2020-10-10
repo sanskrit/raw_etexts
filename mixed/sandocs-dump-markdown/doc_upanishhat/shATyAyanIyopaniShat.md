@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shatyayani Upanishad"
-"File name" = "shatyayani.itx"
-itxtitle = "shATyAyanIyopaniShat"
-engtitle = "Shatyayani Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "99 / 108; Shukla Yajurveda - Sanyasa upanishad"
-"Latest update" = "April, 18, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शाट्यायनीयोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 99 / 108; Shukla Yajurveda - Sanyasa upanishad
+File name: shatyayani.itx
+Language: Sanskrit
+Latest update: April, 18, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion
+Sublocation: upanishhat
+Text title: Shatyayani Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Shatyayani Upanishad
+itxtitle: shATyAyanIyopaniShat
+title: शाट्यायनीयोपनिषत्
 
-+++
+---
   
  शाट्यायनीयोपनिषत्   
   
@@ -79,7 +79,7 @@ title = "शाट्यायनीयोपनिषत्"
 पञ्चयज्ञा वेदशिरःप्रविष्टाः  
     क्रियावन्तोऽमी सङ्गता ब्रह्मविद्याम् ।  
 त्यक्त्वा वृक्षं वृक्षमूलं श्रितासः  
-    संन्यस्तपुष्पा रसमेवाश्नुवानाः ।  
+    सन्न्यस्तपुष्पा रसमेवाश्नुवानाः ।  
 विष्णुक्रीडा विष्णुरतयो विमुक्ता  
     विष्ण्वात्मका विष्णुमेवापियन्ति ॥ ११॥  
   
@@ -132,7 +132,7 @@ title = "शाट्यायनीयोपनिषत्"
      न चोद्विजेदुद्विजेद्यत्र कुत्र ॥ २१॥  
   
 आत्मानं चेद्विजानीयादयमस्मीति पूरुषः ।  
-किमिच्छन्कस्य कामाय शरीरमनुसंज्वरेत् ॥ २२॥  
+किमिच्छन्कस्य कामाय शरीरमनुसञ्ज्वरेत् ॥ २२॥  
   
 तमेव धीरो विज्ञाय प्रज्ञां कुर्वीत ब्राह्मणः ।  
 नानुध्यायाद्बहूञ्छब्दान्वाचो विग्लापनं हि तत् ॥ २३॥  
@@ -174,7 +174,7 @@ title = "शाट्यायनीयोपनिषत्"
 शतं कुलानां प्रथमं बभूव  
      तथा पराणां त्रिशतं समग्रम् ।  
 एते भवन्ति सुकृतस्य लोके  
-     येषं कुले संन्यसतीह विद्वान् ॥ ३०॥  
+     येषं कुले सन्न्यसतीह विद्वान् ॥ ३०॥  
   
 त्रिंशत्परास्त्रिंशदपरांस्त्रिंशच्च परतः परान् ।  
 उत्तरयति धर्मिष्ठः परिव्राडिति वै श्रुतिः ॥ ३१॥  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "siddhashAradAstutiH"
-"File name" = "siddhashAradAstutiH.itx"
-itxtitle = "siddhashAradAstutiH (dvijendrakavivirachitA)"
-engtitle = "siddhashAradAstutiH"
-Category = "devii, devI, sarasvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Kavi Dvijendra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धशारदास्तुतिः (द्विजेन्द्रकविविरचिता)"
+---
+Author: Kavi Dvijendra
+Category: devii, devI, sarasvatI
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: siddhashAradAstutiH.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: siddhashAradAstutiH
+engtitle: siddhashAradAstutiH
+itxtitle: siddhashAradAstutiH (dvijendrakavivirachitA)
+title: सिद्धशारदास्तुतिः (द्विजेन्द्रकविविरचिता)
 
-+++
+---
   
  सिद्धशारदास्तुतिः   
 सरस्वतीं शारदां च कौमारीं ब्रह्मचारिणीम् ।  

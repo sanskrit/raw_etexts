@@ -1,24 +1,24 @@
-+++
-"Text title" = "Twelve Names of Lord ShrI Gauranga Caitanya Mahaprabhu"
-"File name" = "kRRiShNachaitanyadvAdashanAmastotram.itx"
-itxtitle = "kRRiShNachaitanyadvAdashanAmastotram"
-engtitle = "kRRiShNachaitanyadvAdashanAmastotram"
-Category = "deities_misc, krishna, gurudev, dvAdasha, sArvabhaumabhaTTAchArya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Sarvabhauma Bhattacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Gauranga Chaitanya Mahaprabhu"
-Indexextra = "(Meaning)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृष्णचैतन्यद्वादशनामस्तोत्रम्"
+---
+Author: Sarvabhauma Bhattacharya
+Category: deities_misc, krishna, gurudev, dvAdasha, sArvabhaumabhaTTAchArya
+Description/comments: Gauranga Chaitanya Mahaprabhu
+File name: kRRiShNachaitanyadvAdashanAmastotram.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Twelve Names of Lord ShrI Gauranga Caitanya Mahaprabhu
+engtitle: kRRiShNachaitanyadvAdashanAmastotram
+itxtitle: kRRiShNachaitanyadvAdashanAmastotram
+title: कृष्णचैतन्यद्वादशनामस्तोत्रम्
 
-+++
+---
   
  कृष्णचैतन्यद्वादशनामस्तोत्रम्   
 चैतन्यः कृष्णचैतन्यो गौराङ्गो द्विजनायकः ।  

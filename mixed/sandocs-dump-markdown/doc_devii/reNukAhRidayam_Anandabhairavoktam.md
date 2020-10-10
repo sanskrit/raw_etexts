@@ -1,22 +1,22 @@
-+++
-"Text title" = "reNukAhridayam Anandabhairavokta"
-"File name" = "reNukAhridayam.itx"
-itxtitle = "reNukAhRidayam (Anandabhairavoktam)"
-engtitle = "AnandabhairavoktaM shrIreNukAhRidayam"
-Category = "hRidaya, devii, reNukA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Latest update" = "April 5, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकाहृइदयम् (आनन्दभैरवोक्तम्)"
+---
+Category: hRidaya, devii, reNukA, devI
+File name: reNukAhridayam.itx
+Language: Sanskrit
+Latest update: April 5, 2013
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAhridayam Anandabhairavokta
+Transliterated by: DPD
+engtitle: AnandabhairavoktaM shrIreNukAhRidayam
+itxtitle: reNukAhRidayam (Anandabhairavoktam)
+title: रेणुकाहृइदयम् (आनन्दभैरवोक्तम्)
 
-+++
+---
   
  आनन्दभैरवोक्तं श्रीरेणुकाहृदयम्   
   
@@ -50,8 +50,8 @@ title = "रेणुकाहृइदयम् (आनन्दभैरवो
 ॐ नमो रेणुकायै सर्वभूतिदायै सर्वकर्त्र्यै सर्वहर्त्र्यै सर्वपालिन्यै  
 सर्वर्थदात्र्यै सच्चिदानन्दरूपिण्यै एकलायै कामाक्ष्यै कामदायिन्यै  
 भर्गायै भर्गरूपिण्यै भगवत्यै सर्वेश्वर्यै एकवीरायै वीरवन्दितायै  
-वीरशक्त्यै वीरमोहिन्यै वीरसुवेश्यै ह्रींकारायै क्लींकारायै वाग्भवायै  
-ऐंकारायै ॐकारायै श्रींकारायै दशार्णायै द्वादशर्णायै षोडशार्णायै त्रिबीजकायै  
+वीरशक्त्यै वीरमोहिन्यै वीरसुवेश्यै ह्रीङ्कारायै क्लीङ्कारायै वाग्भवायै  
+ऐङ्कारायै ॐकारायै श्रीङ्कारायै दशार्णायै द्वादशर्णायै षोडशार्णायै त्रिबीजकायै  
 त्रिपुरायै त्रिपुरहरवल्लभायै कात्यायिन्यै योगिनीगणसेवितायै चामुण्डायै  
 मुण्डमालिन्यै भैरवसेवितायै भीतिहरायै भवहारिण्यै कल्याण्यै  
 कल्याणदायै नमस्ते नमस्ते ॥ ५॥  
@@ -146,7 +146,7 @@ title = "रेणुकाहृइदयम् (आनन्दभैरवो
 इत्येवं कथितं दिव्यं रेणुकाहृदयं परम्।  
 यः पठेत्सततं विद्वान् तस्य सिद्धिः पदे पदे॥ ३५॥  
   
-राजद्वारे श्मशाने च संकटे दुरतिक्रमे।  
+राजद्वारे श्मशाने च सङ्कटे दुरतिक्रमे।  
 स्मरणाद्धृदयस्यास्य सर्वसिद्धिः प्रजायते ॥ ३६॥  
   
 दुर्लभं त्रिषु लोकेषु तस्य प्राप्तिर्भवेद्ध्रुवम् ।  

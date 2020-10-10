@@ -1,24 +1,24 @@
-+++
-"Text title" = "bagalAmukhIathavApItAmbarIsahasranAmAvaliH"
-"File name" = "bagalAmukhIathavApItAmbarIsahasranAmAvaliH.itx"
-itxtitle = "bagalAmukhIathavApItAmbarIsahasranAmAvaliH"
-engtitle = "bagalAmukhIathavApItAmbarIsahasranAmAvaliH"
-Category = "sahasranAmAvalI, devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बगलामुखीअथवापीताम्बरीसहस्रनामावलिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAmAvalI, devii, devI, dashamahAvidyA
+File name: bagalAmukhIathavApItAmbarIsahasranAmAvaliH.itx
+Indexextra: (stotramanjari 2)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bagalAmukhIathavApItAmbarIsahasranAmAvaliH
+Transliterated by: Shree Devi Kumar
+engtitle: bagalAmukhIathavApItAmbarIsahasranAmAvaliH
+itxtitle: bagalAmukhIathavApItAmbarIsahasranAmAvaliH
+title: बगलामुखीअथवापीताम्बरीसहस्रनामावलिः
 
-+++
+---
   
  श्रीबगलामुखी अथवा पीताम्बरीसहस्रनामावलिः   
   
@@ -701,8 +701,8 @@ title = "बगलामुखीअथवापीताम्बरीसह�
 ॐ पदशोभासमन्वितायै नमः ।  
 ॐ प्रणवोङ्काररूपायै नमः ।  
 ॐ प्रणवोच्चारभाजे नमः ।  
-ॐ ह्रींकाररूपायै नमः ।  
-ॐ ह्रींकार्यै नमः । ६८०  
+ॐ ह्रीङ्काररूपायै नमः ।  
+ॐ ह्रीङ्कार्यै नमः । ६८०  
 ॐ वाग्बीजाक्षरभूषणायै नमः ।  
 ॐ हृल्लेखासिद्धियोगायै नमः ।  
 ॐ हृत्पद्मासनसंस्थितायै नमः ।  
@@ -717,14 +717,14 @@ title = "बगलामुखीअथवापीताम्बरीसह�
 ॐ क्रीङ्क्रीङ्क्रीन्नामधारिण्यै नमः ।  
 ॐ कमलाशक्तिबीजायै नमः ।  
 ॐ पाशाङ्कुशविभूषितायै नमः ।  
-ॐ श्रींश्रींकारायै नमः ।  
+ॐ श्रींश्रीङ्कारायै नमः ।  
 ॐ महाविद्यायै नमः ।  
 ॐ श्रद्धायै नमः ।  
 ॐ श्रद्धावत्यै नमः ।  
 ॐ ऐङ्क्लींह्रींश्रीम्परायै नमः ।  
 ॐ क्लीङ्कार्यै नमः । ७००  
 ॐ परमायै कलायै नमः ।  
-ॐ ह्रींक्लींश्रींकारस्वरूपायै नमः ।  
+ॐ ह्रीङ्क्लींश्रीङ्कारस्वरूपायै नमः ।  
 ॐ सर्वकर्मफलप्रदायै नमः ।  
 ॐ सर्वाढ्यायै नमः ।  
 ॐ सर्वदेव्यै नमः ।  

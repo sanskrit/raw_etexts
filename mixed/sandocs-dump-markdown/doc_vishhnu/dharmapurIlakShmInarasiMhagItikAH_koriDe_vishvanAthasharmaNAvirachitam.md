@@ -1,24 +1,24 @@
-+++
-"Text title" = "dharmapurIlakShmInarasiMhagItikAH"
-"File name" = "dharmapurIlakShmInarasiMhagItikAH.itx"
-itxtitle = "dharmapurIlakShmInarasiMhagItikAH (koriDe vishvanAthasharmaNAvirachitam)"
-engtitle = "dharmapurIlakShmInarasiMhagItikAH"
-Category = "vishhnu, koriDevishvanAthasharmA, suprabhAta, devii, devI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "koriDe vishvanAthasharmA, dharmapurI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "koriDe vishvanAthasharmA"
-"Proofread by" = "koriDe vishvanAthasharmA"
-Indexextra = "(blog)"
-Acknowledge-Permission = "Koride Vishwanatha Sharma"
-"Latest update" = "February 24, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धर्मपुरीलक्ष्मीनरसिंहगीतिकाः (कोरिडे विश्वनाथशर्मणाविरचितम्)"
+---
+Acknowledge-Permission: Koride Vishwanatha Sharma
+Author: koriDe vishvanAthasharmA, dharmapurI
+Category: vishhnu, koriDevishvanAthasharmA, suprabhAta, devii, devI
+File name: dharmapurIlakShmInarasiMhagItikAH.itx
+Indexextra: (blog)
+Language: Sanskrit
+Latest update: February 24, 2018
+Location: doc_vishhnu
+Proofread by: koriDe vishvanAthasharmA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dharmapurIlakShmInarasiMhagItikAH
+Transliterated by: koriDe vishvanAthasharmA
+engtitle: dharmapurIlakShmInarasiMhagItikAH
+itxtitle: dharmapurIlakShmInarasiMhagItikAH (koriDe vishvanAthasharmaNAvirachitam)
+title: धर्मपुरीलक्ष्मीनरसिंहगीतिकाः (कोरिडे विश्वनाथशर्मणाविरचितम्)
 
-+++
+---
   
  श्री धर्मपुरी लक्ष्मी नरसिंहगीतिकाः   
 ॐ गँ गणपतये नमः ॥  

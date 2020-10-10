@@ -1,23 +1,23 @@
-+++
-"Text title" = "Dattatreyastotra 4"
-"File name" = "dattastotra4.itx"
-itxtitle = "dattAtreyastotram 04 (anusUyAtrisambhUta vAsudevAnandasarasvatIvirachitam)"
-engtitle = "Dattatreya Stotra 4"
-Category = "deities_misc, dattatreya, vAsudevAnanda-sarasvatI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "vAsudevAnandasarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Prasad M myshopping.prasad at gmail.com"
-"Proofread by" = "Prasad M myshopping.prasad at gmail.com"
-"Latest update" = "October 10, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयस्तोत्रम् ०४ (अनुसूयात्रिसम्भूत वासुदेवानन्दसरस्वतीविरचितम्)"
+---
+Author: vAsudevAnandasarasvatI
+Category: deities_misc, dattatreya, vAsudevAnanda-sarasvatI
+File name: dattastotra4.itx
+Language: Sanskrit
+Latest update: October 10, 2016
+Location: doc_deities_misc
+Proofread by: Prasad M myshopping.prasad at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Dattatreyastotra 4
+Transliterated by: Prasad M myshopping.prasad at gmail.com
+engtitle: Dattatreya Stotra 4
+itxtitle: dattAtreyastotram 04 (anusUyAtrisambhUta vAsudevAnandasarasvatIvirachitam)
+title: दत्तात्रेयस्तोत्रम् ०४ (अनुसूयात्रिसम्भूत वासुदेवानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  श्रीदत्तात्रेयस्तोत्रम् ४   
 अनसूयात्रिसम्भूत दत्तात्रेय महामते ।  

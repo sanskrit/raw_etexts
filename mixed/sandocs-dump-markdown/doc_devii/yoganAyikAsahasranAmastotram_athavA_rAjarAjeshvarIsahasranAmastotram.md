@@ -1,27 +1,27 @@
-+++
-"Text title" = "yoganAyikAsahasranAmastotram"
-"File name" = "yoganAyikAsahasranAmastotram.itx"
-itxtitle = "yoganAyikAsahasranAmastotram athavA rAjarAjeshvarIsahasranAmastotram"
-engtitle = "yoganAyikAsahasranAmastotram"
-Category = "devii, devI, sahasranAma, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, help fro Alex"
-"Proofread by" = "DPD, Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com, PSA Easwaran"
-Description-comments = "rAkArAdirakArAntAdyAkSharaghaTitam"
-Source = "mahAkAlasaMhitA, Atmanatha Stuti Manjari, Ed. S. V. Radhakrishna Sastri"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "February 22, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगनायिकासहस्रनामस्तोत्रम् अथवा राजराजेश्वरीसहस्रनामस्तोत्रम्"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: devii, devI, sahasranAma, dashamahAvidyA
+Description-comments: rAkArAdirakArAntAdyAkSharaghaTitam
+File name: yoganAyikAsahasranAmastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 22, 2018
+Location: doc_devii
+Proofread by: DPD, Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: mahAkAlasaMhitA, Atmanatha Stuti Manjari, Ed. S. V. Radhakrishna Sastri
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yoganAyikAsahasranAmastotram
+Texttype: stotra
+Transliterated by: DPD, help fro Alex
+engtitle: yoganAyikAsahasranAmastotram
+itxtitle: yoganAyikAsahasranAmastotram athavA rAjarAjeshvarIsahasranAmastotram
+title: योगनायिकासहस्रनामस्तोत्रम् अथवा राजराजेश्वरीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्री श्रीयोगनायिका अथवा राजराजेश्वरी सहस्रनामस्तोत्रम्   
   
@@ -151,7 +151,7 @@ title = "योगनायिकासहस्रनामस्तोत्�
 वशिनी वल्लकी वर्णा वर्षाकालप्रपूजिता ॥ ४१॥  
   
 वल्ली वसुदलप्रान्तवृत्तकट्याश्रितादरा ।  
-वर्गा वरवृषारूढा वषण्मन्त्रसुसंज्ञका ॥ ४२॥  
+वर्गा वरवृषारूढा वषण्मन्त्रसुसञ्ज्ञका ॥ ४२॥  
   
 वलयाकारवैडूर्यवरकङ्कणभूषणा ।  
 वज्राञ्चितशिरोभूषा वज्रमाङ्गल्यभूषिता ॥ ४३॥  
@@ -321,7 +321,7 @@ title = "योगनायिकासहस्रनामस्तोत्�
 श्रीश्च श्रीधनसम्पन्ना श्रीकण्ठस्वकुटुम्बिनी ।  
 श्रीमाता श्रीफली श्रीला श्रीवृक्षा श्रीपतीडिता ॥ ९८॥  
   
-श्रीसंज्ञायुतताम्बूला श्रीमती श्रीधराश्रया ।  
+श्रीसञ्ज्ञायुतताम्बूला श्रीमती श्रीधराश्रया ।  
 श्रीबेरबद्धमालाढ्या श्रीफला श्रीशिवाङ्गना ॥ ९९॥  
   
 श्रुतिः श्रुतिपदन्यस्ता श्रुतिसंस्तुतवैभवा ।  

@@ -1,22 +1,23 @@
-+++
-"Text title" = "devI keshAdipAdavarNanam"
-"File name" = "devIkeshAdipAdavarNanam.itx"
-itxtitle = "devI keshAdipAdavarNanam athavA muktisthalaShoDashastotram (nArAyaNabhaTTatirivirachitam)"
-engtitle = "devI keshAdipAdavarNanam"
-Category = "devii, ShoDasha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi, PSA Easwaran psaeaswaran at gmail.com, T B Lakshman Rao"
-Indexextra = "(meaning)"
-"Latest update" = "May 15, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवी केशादिपादवर्णनम् अथवा मुक्तिस्थलषोडशस्तोत्रम् (नारायणभट्टतिरिविरचितम्)"
+---
+Category: devii, ShoDasha, devI
+File name: devIkeshAdipAdavarNanam.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: May 15, 2017
+Location: doc_devii
+Proofread by: Sunder Hattangadi, PSA Easwaran psaeaswaran at gmail.com, T B Lakshman
+  Rao
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devI keshAdipAdavarNanam
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: devI keshAdipAdavarNanam
+itxtitle: devI keshAdipAdavarNanam athavA muktisthalaShoDashastotram (nArAyaNabhaTTatirivirachitam)
+title: देवी केशादिपादवर्णनम् अथवा मुक्तिस्थलषोडशस्तोत्रम् (नारायणभट्टतिरिविरचितम्)
 
-+++
+---
   
  देवी केशादिपादवर्णनम्   
 सिन्दूरारुणमुज्ज्वलं नयनयोरानन्दसन्दोहनं  

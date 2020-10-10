@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vasavi Kanyaka Parameshvari Ashtottarashata Nama Stotra 108 names"
-"File name" = "vAsavIkanyakAparameshvaryaShTottarashatanAmastotram.itx"
-itxtitle = "vAsavIkanyakAparameshvaryaShTottarashatanAmastotram"
-engtitle = "vAsavIkanyakAparameshvaryaShTottarashatanAmastotram"
-Category = "devii, aShTottarashatanAma, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Bala Umamaheshwari from nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Bala Umamaheshwari, PSA Easwaan psaeaswaran at gmail.com"
-"Description/comments" = "See corresponding nAmAvalI"
-Indexextra = "(Info 1, 2, Audio)"
-"Latest update" = "June 1, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Bala Umamaheshwari from nAmAvalI
+Category: devii, aShTottarashatanAma, devI
+Description/comments: See corresponding nAmAvalI
+File name: vAsavIkanyakAparameshvaryaShTottarashatanAmastotram.itx
+Indexextra: (Info 1, 2, Audio)
+Language: Sanskrit
+Latest update: June 1, 2019
+Location: doc_devii
+Proofread by: Bala Umamaheshwari, PSA Easwaan psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vasavi Kanyaka Parameshvari Ashtottarashata Nama Stotra 108 names
+engtitle: vAsavIkanyakAparameshvaryaShTottarashatanAmastotram
+itxtitle: vAsavIkanyakAparameshvaryaShTottarashatanAmastotram
+title: वासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीवासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामस्तोत्रम्   
 शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।  

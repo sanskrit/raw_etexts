@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumatstuti"
-"File name" = "hanumatstuti.itx"
-itxtitle = "hanUmatstutiH"
-engtitle = "hanUmatstutiH"
-Category = "hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-Description-comments = "Ananda Ramayana, Manohara Kanda.13-8-11"
-"Latest update" = "April 12,  2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनूमत्स्तुतिः"
+---
+Category: hanumaana, hanuman
+Description-comments: Ananda Ramayana, Manohara Kanda.13-8-11
+File name: hanumatstuti.itx
+Language: Sanskrit
+Latest update: April 12,  2006
+Location: doc_hanumaana
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatstuti
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: hanUmatstutiH
+itxtitle: hanUmatstutiH
+title: हनूमत्स्तुतिः
 
-+++
+---
   
  श्रीहनूमत्स्तुती   
   

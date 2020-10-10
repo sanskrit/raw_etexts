@@ -1,21 +1,21 @@
-+++
-"Text title" = "priyaM bhAratam"
-"File name" = "priyaMbhAratam.itx"
-itxtitle = "priyaM bhAratam (chandrabhAnu tripAThI virachitam prakRityA suramyaM)"
-engtitle = "priyaM bhAratam"
-Category = "misc, sanskritgeet, panchaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "Sung and popularized by Gabriella Brunnel"
-Indexextra = "(Videos-Text-Translation 1, 2, 3)"
-"Latest update" = "April 20, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रियं भारतम् (चन्द्रभानु त्रिपाठी विरचितम् प्रकृइत्या सुरम्यं)"
+---
+Category: misc, sanskritgeet, panchaka
+Description/comments: Sung and popularized by Gabriella Brunnel
+File name: priyaMbhAratam.itx
+Indexextra: (Videos-Text-Translation 1, 2, 3)
+Language: Sanskrit
+Latest update: April 20, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: priyaM bhAratam
+engtitle: priyaM bhAratam
+itxtitle: priyaM bhAratam (chandrabhAnu tripAThI virachitam prakRityA suramyaM)
+title: प्रियं भारतम् (चन्द्रभानु त्रिपाठी विरचितम् प्रकृइत्या सुरम्यं)
 
-+++
+---
   
  प्रियं भारतम्   
 प्रकृत्या सुरम्यं विशालं प्रकामं  

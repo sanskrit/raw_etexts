@@ -1,23 +1,23 @@
-+++
-"Text title" = "Satya Sai Baba Sahasranamavali 1000 names offerings"
-"File name" = "satyasAIsahasranAmAvaliH.itx"
-itxtitle = "satyasAIsahasranAmAvaliH 1"
-engtitle = "satyasAIsahasranAmAvaliH 1"
-Category = "sahasranAmAvalI, deities_misc, nAmAvalI, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Info)"
-"Latest update" = "June 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सत्यसाईसहस्रनामावलिः १"
+---
+Category: sahasranAmAvalI, deities_misc, nAmAvalI, gurudev
+File name: satyasAIsahasranAmAvaliH.itx
+Indexextra: (Info)
+Language: Sanskrit
+Latest update: June 17, 2019
+Location: doc_deities_misc
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Satya Sai Baba Sahasranamavali 1000 names offerings
+Transliterated by: NA
+engtitle: satyasAIsahasranAmAvaliH 1
+itxtitle: satyasAIsahasranAmAvaliH 1
+title: सत्यसाईसहस्रनामावलिः १
 
-+++
+---
   
  श्रीसत्यसाईं सहस्रनामावलिः   
 अथ भगवान् श्रीसत्यसाईंसहस्रनामावलिः ।  
@@ -862,7 +862,7 @@ title = "सत्यसाईसहस्रनामावलिः १"
 ॐ श्री सत्य साईं शोभनाय नमः ।  
 ॐ श्री सत्य साईं श्यामसुन्दराय नमः ॥ ८४०  
 ॐ श्री सत्य साईं षण्मुखाय नमः ।  
-ॐ श्री सत्य साईं शिर्डी साईंमूर्तये नमः ।  
+ॐ श्री सत्य साईं शिर्डी साईम्मूर्तये नमः ।  
 ॐ श्री सत्य साईं शिर्डी साईं अभेदशक्ति अवताराय नमः ।  
 ॐ श्री सत्य साईं शिर्डीपुरनाथाय नमः ।  
 ॐ श्री सत्य साईं क्षमाधाराय नमः ।  
@@ -910,7 +910,7 @@ title = "सत्यसाईसहस्रनामावलिः १"
 ॐ श्री सत्य साईं सन्निवासाय नमः ।  
 ॐ श्री सत्य साईं सन्देहनिवारिणे नमः ।  
 ॐ श्री सत्य साईं सन्मुनिशरणाय नमः ।  
-ॐ श्री सत्य साईं संन्यासिने नमः ॥ ८९०  
+ॐ श्री सत्य साईं सन्न्यासिने नमः ॥ ८९०  
 ॐ श्री सत्य साईं सच्चिदात्मने नमः ।  
 ॐ श्री सत्य साईं सच्चिदानन्दाय नमः ।  
 ॐ श्री सत्य साईं समर्थाय नमः ।  
@@ -954,7 +954,7 @@ title = "सत्यसाईसहस्रनामावलिः १"
 ॐ श्री सत्य साईं सङ्कटहराय नमः ।  
 ॐ श्री सत्य साईं संवर्धकाय नमः ।  
 ॐ श्री सत्य साईं सङ्कीर्तनप्रियाय नमः ।  
-ॐ श्री सत्य साईं संतृप्ताय नमः ।  
+ॐ श्री सत्य साईं सन्तृप्ताय नमः ।  
 ॐ श्री सत्य साईं सम्पूर्णाय नमः ।  
 ॐ श्री सत्य साईं संसारदुःखक्षयकराय नमः ।  
 ॐ श्री सत्य साईं सङ्गीतसन्तृप्ताय नमः ।  
@@ -1028,7 +1028,7 @@ title = "सत्यसाईसहस्रनामावलिः १"
 ॐ श्री सत्य साईं ज्ञाननेत्रसम्भूताय नमः ।  
 ॐ श्री सत्य साईं ज्ञानेश्वराय नमः ।  
 ॐ श्री सत्य साईं ज्ञानविज्ञानशोभिताय नमः ।  
-ॐ श्री सत्य साईं सत्यसाईंबाबाय नमः ।  
+ॐ श्री सत्य साईं सत्यसाईम्बाबाय नमः ।  
   
 इति श्रीसत्यसाईं सहस्रनामावलिः समाप्ता ।  
 cहप्तेर्  

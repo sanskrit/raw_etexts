@@ -1,22 +1,22 @@
-+++
-"Text title" = "guru aShTottarashatanAma stotraM"
-"File name" = "guru108nAmastotra.itx"
-itxtitle = "gurvAShTottarashatanAmastotram"
-engtitle = "guru aShTottarashatanAma stotram"
-Category = "aShTottarashatanAma, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manda Krishna Srikanth mandaksk at gmail.com"
-"Proofread by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-"Latest update" = "November 19, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुर्वाष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, navagraha, stotra
+File name: guru108nAmastotra.itx
+Language: Sanskrit
+Latest update: November 19, 2012
+Location: doc_z_misc_navagraha
+Proofread by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: guru aShTottarashatanAma stotraM
+Texttype: stotra
+Transliterated by: Manda Krishna Srikanth mandaksk at gmail.com
+engtitle: guru aShTottarashatanAma stotram
+itxtitle: gurvAShTottarashatanAmastotram
+title: गुर्वाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीगुर्वाष्टोत्तरशतनामस्तोत्रम्   
   
@@ -32,7 +32,7 @@ title = "गुर्वाष्टोत्तरशतनामस्तो�
 चित्तशुद्धिकरः श्रीमान् चैत्रः चित्रशिखण्डिजः ॥ ३॥  
   
 बृहद्रथो बृहद्भानुर्बृहस्पतिरभीष्टदः ।  
-सुराचार्यः सुराराध्यः सुरकार्यहितंकरः ॥ ४॥  
+सुराचार्यः सुराराध्यः सुरकार्यहितङ्करः ॥ ४॥  
   
 गीर्वाणपोषको धन्यो गीष्पतिर्गिरिशोऽनघः ।  
 धीवरो धिषणो दिव्यभूषणो देवपूजितः ॥ ५॥  
@@ -58,7 +58,7 @@ title = "गुर्वाष्टोत्तरशतनामस्तो�
 सर्वपापप्रशमनः स्वमतानुगतामरः ॥ १२॥   
                             var  स्वमातानुगतामरः, स्वमातानुगतावरः  
 ऋग्वेदपारगो ऋक्षराशिमार्गप्रचारकः ।  
-सदानन्दः सत्यसन्धः सत्यसंकल्पमानसः ॥ १३॥  
+सदानन्दः सत्यसन्धः सत्यसङ्कल्पमानसः ॥ १३॥  
   
 सर्वागमज्ञः सर्वज्ञः सर्ववेदान्तविद्वरः ।  
 ब्रह्मपुत्रो ब्राह्मणेशो ब्रह्मविद्याविशारदः ॥ १४॥  

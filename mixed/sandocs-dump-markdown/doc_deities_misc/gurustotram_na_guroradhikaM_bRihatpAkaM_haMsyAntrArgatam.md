@@ -1,24 +1,24 @@
-+++
-"Text title" = "gurustotra from bRihatpAkaM haMsa saMhitA"
-"File name" = "gurustotrambRihatpAkamhaMsa.itx"
-itxtitle = "gurustotram (na guroradhikaM bRihatpAkaM haMsyAntrArgatam)"
-engtitle = "gurustotra"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Source = "bRihatpAkaM haMsya saMhitAntrArgatam"
-"Latest update" = "January 31, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुस्तोत्रम् (न गुरोरधिकं बृइहत्पाकं हंस्यान्त्रार्गतम्)"
+---
+Author: Traditional
+Category: deities_misc, gurudev
+File name: gurustotrambRihatpAkamhaMsa.itx
+Language: Sanskrit
+Latest update: January 31, 2016
+Location: doc_deities_misc
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: bRihatpAkaM haMsya saMhitAntrArgatam
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurustotra from bRihatpAkaM haMsa saMhitA
+Transliterated by: DPD
+engtitle: gurustotra
+itxtitle: gurustotram (na guroradhikaM bRihatpAkaM haMsyAntrArgatam)
+title: गुरुस्तोत्रम् (न गुरोरधिकं बृइहत्पाकं हंस्यान्त्रार्गतम्)
 
-+++
+---
   
  श्रीगुरुस्तोत्रम्   
 बृहत्पाकं हंस्यां संहितायां  
@@ -35,7 +35,7 @@ title = "गुरुस्तोत्रम् (न गुरोरधिक�
 विष्णो भक्तिः पूजन चरितं वैष्णवसेवा मातरि भक्तिम् ।  
 विष्णोरिव पितृसेवनयोगो न गुरोरधिकं न गुरोरधिकम् ॥ ४॥  
   
-प्रत्याहारं चेन्द्रियजपताप्राणायामंन्यानिर्विधानम् ।  
+प्रत्याहारं चेन्द्रियजपताप्राणायामन्न्यानिर्विधानम् ।  
 इष्टै पूजाजपतपभक्तिर्न गुरोरधिकं न गुरोरधिकम् ॥ ५॥  
   
 काली दुर्गा कमला भुवना त्रिपुरामीमां बगलापूर्णा ।  

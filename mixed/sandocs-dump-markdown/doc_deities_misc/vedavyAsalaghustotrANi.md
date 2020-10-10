@@ -1,24 +1,24 @@
-+++
-"Text title" = "Veda Vyasa Laghu Stotrani"
-"File name" = "vedavyAsalaghustotrANi.itx"
-itxtitle = "vedavyAsalaghustotrANi"
-engtitle = "vedavyAsalaghustotrANi"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Various"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वेदव्यासलघुस्तोत्राणि"
+---
+Author: Various
+Category: deities_misc, gurudev
+File name: vedavyAsalaghustotrANi.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Veda Vyasa Laghu Stotrani
+Transliterated by: Krishnananda Achar
+engtitle: vedavyAsalaghustotrANi
+itxtitle: vedavyAsalaghustotrANi
+title: वेदव्यासलघुस्तोत्राणि
 
-+++
+---
   
  वेदव्यासलघुस्तोत्राणि   
  १. श्रीहरिवंशे श्रीवेदव्यासस्तोत्रम्  
@@ -84,7 +84,7 @@ title = "वेदव्यासलघुस्तोत्राणि"
                                 (तत्त्व प्रकाशिका)  
   
 दुरन्त दुरितध्वान्त विध्वंसन पटीयसे ।  
-बादरायणसंज्ञाय परस्मै महसे नमः ॥ ३  
+बादरायणसञ्ज्ञाय परस्मै महसे नमः ॥ ३  
                                 (न्यायविवरण टीका)  
   
 गुणगणनिलयं पतिं रमाया  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "shAradAmahimnastavaH"
-"File name" = "shAradAmahimnastava.itx"
-itxtitle = "shAradAmahimnastavaH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "shAradAmahimnastavaH"
-Category = "devii, sarasvatI, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "shrIsachchidAnandashivAbhinavanRisiMhabhAratIsvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Satish"
-"Proofread by" = "Satish, NA"
-Indexextra = "(Bhakti Sudha Tarangini)"
-"Latest update" = "January 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदामहिम्नस्तवः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: shrIsachchidAnandashivAbhinavanRisiMhabhAratIsvAmi
+Category: devii, sarasvatI, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI
+File name: shAradAmahimnastava.itx
+Indexextra: (Bhakti Sudha Tarangini)
+Language: Sanskrit
+Latest update: January 28, 2017
+Location: doc_devii
+Proofread by: Satish, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAmahimnastavaH
+Transliterated by: Satish
+engtitle: shAradAmahimnastavaH
+itxtitle: shAradAmahimnastavaH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: शारदामहिम्नस्तवः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीशारदामहिम्नस्तवः   
   

@@ -1,25 +1,26 @@
-+++
-"Text title" = "svapnavilAsAmRRitAShTakam"
-"File name" = "svapnavilAsAmRRitAShTakam.itx"
-itxtitle = "svapnavilAsAmRitAShTakam (vishvanAthachakravartin Thakkuravirachitam)"
-engtitle = "svapnavilAsAmRRitAShTakam by vishvanAthachakravartin"
-Category = "devii, radha, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वप्नविलासामृइताष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: devii, radha, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI, devI
+File name: svapnavilAsAmRRitAShTakam.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_devii
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: svapnavilAsAmRRitAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: svapnavilAsAmRRitAShTakam by vishvanAthachakravartin
+itxtitle: svapnavilAsAmRitAShTakam (vishvanAthachakravartin Thakkuravirachitam)
+title: स्वप्नविलासामृइताष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)
 
-+++
+---
   
  श्रीस्वप्नविलासामृताष्टकम्   
 प्रिये ! स्वप्ने दृष्टा सरिदिनसुतेवात्र पुलिनं  

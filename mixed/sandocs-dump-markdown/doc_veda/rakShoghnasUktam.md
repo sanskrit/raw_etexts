@@ -1,22 +1,22 @@
-+++
-"Text title" = "rakShoghnasUktam svarita"
-"File name" = "rakShoghnasUkta.itx"
-itxtitle = "rakShoghnasUktam"
-engtitle = "rakShoghnasUktam"
-Category = "sUkta, veda, svara, rigveda"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "hinduism/Veda"
-Description-comments = "Rigveda Mandala 4.004 and 10.087"
-Indexextra = "(audio)"
-"Latest update" = "April 14, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रक्षोघ्नसूक्तम्"
+---
+Category: sUkta, veda, svara, rigveda
+Description-comments: Rigveda Mandala 4.004 and 10.087
+File name: rakShoghnasUkta.itx
+Indexextra: (audio)
+Language: Sanskrit
+Latest update: April 14, 2012
+Location: doc_veda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/Veda
+Sublocation: veda
+Text title: rakShoghnasUktam svarita
+Texttype: svara
+engtitle: rakShoghnasUktam
+itxtitle: rakShoghnasUktam
+title: रक्षोघ्नसूक्तम्
 
-+++
+---
   
  रक्षोघ्न सूक्त ऋग्वेदः मण्डलं ४ अथवा १०   
   

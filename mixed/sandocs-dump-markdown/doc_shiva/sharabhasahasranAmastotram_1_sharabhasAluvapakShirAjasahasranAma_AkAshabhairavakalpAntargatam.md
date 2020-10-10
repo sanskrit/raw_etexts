@@ -1,25 +1,25 @@
-+++
-"Text title" = "sharabheshvarasahasranAmastotram 1 sharabhasAluvapakShirAjasahasranAma"
-"File name" = "sharabhasahasra.itx"
-itxtitle = "sharabhasahasranAmastotram 1 sharabhasAluvapakShirAjasahasranAma (AkAshabhairavakalpAntargatam)"
-engtitle = "sharabhasahasranAmastotram 1"
-Category = "sahasranAma, shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "AkAshabhairavakalpa"
-Indexextra = "(MS 1)"
-"Latest update" = "Noember 26, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरभसहस्रनामस्तोत्रम् १ शरभसालुवपक्षिराजसहस्रनाम (आकाशभैरवकल्पान्तर्गतम्)"
+---
+Author: Traditional
+Category: sahasranAma, shiva, stotra
+Description-comments: AkAshabhairavakalpa
+File name: sharabhasahasra.itx
+Indexextra: (MS 1)
+Language: Sanskrit
+Latest update: Noember 26, 2019
+Location: doc_shiva
+Proofread by: Ravin Bhalekar, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: sharabheshvarasahasranAmastotram 1 sharabhasAluvapakShirAjasahasranAma
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: sharabhasahasranAmastotram 1
+itxtitle: sharabhasahasranAmastotram 1 sharabhasAluvapakShirAjasahasranAma (AkAshabhairavakalpAntargatam)
+title: शरभसहस्रनामस्तोत्रम् १ शरभसालुवपक्षिराजसहस्रनाम (आकाशभैरवकल्पान्तर्गतम्)
 
-+++
+---
   
  श्रीशरभसहस्रनामस्तोत्रम्   
         श्रीगणेशाय नमः ।  
@@ -172,7 +172,7 @@ title = "शरभसहस्रनामस्तोत्रम् १ शर
 तीक्ष्णनखं तीक्ष्णदण्ष्ट्रं तीक्ष्णरूपभयङ्करः (रम्) ॥ २९॥  
   
 तीव्रभक्तप्रतापोग्रं क्रैं ख्रौं (ख्रैं) स्वाहा स्वरूपकम् ।  
-सभाजितः सभामान्यः सभासंक्षोभकारकः ॥ ३०॥  
+सभाजितः सभामान्यः सभासङ्क्षोभकारकः ॥ ३०॥  
   
 क्ष्म्रौं ह्रौ (ह्रौं) क्ष्म्रौ (क्ष्म्रौं) ह्रौं  
          ह्सौं ख्रौं ख्रौं सिद्धि (द्ध)मन्त्रनिवेशितः ।  
@@ -428,7 +428,7 @@ title = "शरभसहस्रनामस्तोत्रम् १ शर
 पूजाकाले निशिथे च मध्याह्ने प्रपठेत्प्रिये ॥ ११३॥  
   
 प्रातःकाले च सन्ध्यायां स भवेत्सम्पदां पदम् ।  
-भौमावस्यां चतुर्दश्यां संक्रान्तौ  रविभौमयोः ॥ ११४॥  
+भौमावस्यां चतुर्दश्यां सङ्क्रान्तौ  रविभौमयोः ॥ ११४॥  
   
 यः पठेद्भक्तिसंयुक्तो तस्य सिद्धिर्नसंशयः ।  
 शनिमङ्गलवारे च उर्ध्वदृष्टिः पठेन्नरः ॥ ११५॥    

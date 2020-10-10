@@ -1,22 +1,22 @@
-+++
-"Text title" = "aShTalakShmImahAmantram"
-"File name" = "aShTalakShmImahAmantram.itx"
-itxtitle = "aShTalakShmImahAmantram"
-engtitle = "aShTalakShmImahAmantram"
-Category = "devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras"
-"Latest update" = "May 5, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अष्टलक्ष्मीमहामन्त्रम्"
+---
+Category: devii, lakShmI, devI
+Description/comments: shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras
+File name: aShTalakShmImahAmantram.itx
+Language: Sanskrit
+Latest update: May 5, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: aShTalakShmImahAmantram
+engtitle: aShTalakShmImahAmantram
+itxtitle: aShTalakShmImahAmantram
+title: अष्टलक्ष्मीमहामन्त्रम्
 
-+++
+---
   
  श्रीअष्टलक्ष्मीमहामन्त्रम्   
   
@@ -257,7 +257,7 @@ title = "अष्टलक्ष्मीमहामन्त्रम्"
 ॐ क्ष्रूं मध्यमाभ्यां नमः ।  
 ॐ क्ष्रैं अनामिकाभ्यां नमः ।  
 ॐ क्ष्रौं कनिष्ठिकाभ्यां नमः ।  
-ॐ क्ष्रः करतलकरपृष्ठाभ्यांनमः ॥  
+ॐ क्ष्रः करतलकरपृष्ठाभ्यान्नमः ॥  
   
 ॐ क्ष्रां हृदयाय नमः ।  
 ॐ क्ष्रीं शिरसे स्वाहा ।  

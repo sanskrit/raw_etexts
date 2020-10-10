@@ -1,21 +1,21 @@
-+++
-"Text title" = "mahAgaNapativajrapanjarakavacham"
-"File name" = "mahAgaNapativajrapanjarakavacham.itx"
-itxtitle = "mahAgaNapativajrapanjarakavacham (rudrayAmalAntargatam)"
-engtitle = "mahAgaNapativajrapanjarakavacham"
-Category = "ganesha, panjara, kavacha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "anonymous456an at gmail.com"
-"Proofread by" = "anonymous456an at gmail.com"
-"Latest update" = "June 16, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महागणपतिवज्रपञ्जरकवचम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: ganesha, panjara, kavacha
+File name: mahAgaNapativajrapanjarakavacham.itx
+Language: Sanskrit
+Latest update: June 16, 2017
+Location: doc_ganesha
+Proofread by: anonymous456an at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: mahAgaNapativajrapanjarakavacham
+Transliterated by: anonymous456an at gmail.com
+engtitle: mahAgaNapativajrapanjarakavacham
+itxtitle: mahAgaNapativajrapanjarakavacham (rudrayAmalAntargatam)
+title: महागणपतिवज्रपञ्जरकवचम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीमहागणपतिवज्रपञ्जरकवचम्   
   

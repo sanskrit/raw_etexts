@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrimadbhAgavatAntargataM karuNAgIta"
-"File name" = "karuNAgIta.itx"
-itxtitle = "karuNAgItam (bhAgavatAntargatam)"
-engtitle = "Karunagita from Shrimadbhagavatam"
-Category = "gItam, giitaa, vyAsa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "maharShi vyAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Bhagavatam skanda 10 adhyAya 39"
-Indexextra = "(Bhagavatam 10.39)"
-"Latest update" = "November 10, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "करुणागीतम् (भागवतान्तर्गतम्)"
+---
+Author: maharShi vyAsa
+Category: gItam, giitaa, vyAsa
+Description-comments: Bhagavatam skanda 10 adhyAya 39
+File name: karuNAgIta.itx
+Indexextra: (Bhagavatam 10.39)
+Language: Sanskrit
+Latest update: November 10, 2012
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: shrimadbhAgavatAntargataM karuNAgIta
+engtitle: Karunagita from Shrimadbhagavatam
+itxtitle: karuNAgItam (bhAgavatAntargatam)
+title: करुणागीतम् (भागवतान्तर्गतम्)
 
-+++
+---
   
  श्रीमद्भागवतान्तर्गतम् करुणागीतम्   
   

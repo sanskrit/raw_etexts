@@ -1,24 +1,24 @@
-+++
-"Text title" = "mAngalyastavaH"
-"File name" = "mAngalyastava.itx"
-itxtitle = "mANgalyastavaH"
-engtitle = "mANgalyastavaH"
-Category = "vishhnu, vishnu_misc, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-Description-comments = "viShNudharmottarAntargata"
-"Latest update" = "November 27, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "माण्गल्यस्तवः"
+---
+Category: vishhnu, vishnu_misc, vishnu
+Description-comments: viShNudharmottarAntargata
+File name: mAngalyastava.itx
+Language: Sanskrit
+Latest update: November 27, 2004
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: mAngalyastavaH
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: mANgalyastavaH
+itxtitle: mANgalyastavaH
+title: माण्गल्यस्तवः
 
-+++
+---
   
  माङ्गल्यस्तवः   
   
@@ -51,10 +51,10 @@ quoted from this stotram. This fact attests the greatness of the
 stotram and lends authrity to it. Devotees may, therefore include  
 this stotram along with other verses in their daily prayer.  
 दाल्भ्यः -  
-कार्यारंभेषु सर्वेषु दुःस्वप्नेषु च सत्तम ।  
+कार्यारम्भेषु सर्वेषु दुःस्वप्नेषु च सत्तम ।  
 अमाङ्गल्येषु दृष्टेषु यज्जप्तव्यं तदुच्यताम् ॥ १॥  
   
-येनारंभाश्च सिद्ध्यन्ति दुःस्वप्नश्चोपशाम्यति ।  
+येनारम्भाश्च सिद्ध्यन्ति दुःस्वप्नश्चोपशाम्यति ।  
 अमङ्गलानां दृष्टानां परिहारश्च जायते ॥ २॥  
   
 श्री पुलस्त्यः:-  
@@ -70,7 +70,7 @@ this stotram along with other verses in their daily prayer.
 व्योमाम्बुवाय्वग्निमहीस्वरूपैः विस्तारवान् योऽणुतरोऽणुभावात् ।  
 अस्थूलसूक्ष्मः सततं परेश्वरो ममास्तु माङ्गल्यविवृद्धये हरिः ॥ ६॥  
   
-यस्मात् परस्मात् पुरुषादनन्तात् अनादिमध्यादधिकं न किंचित् ।  
+यस्मात् परस्मात् पुरुषादनन्तात् अनादिमध्यादधिकं न किञ्चित् ।  
 स हेतुहेतुः परमेश्वरेश्वरः ममास्तु माङ्गल्यविवृद्धये हरिः ॥ ७॥  
   
 हिरण्यगर्भाच्युतरुद्ररूपी सृजत्यशेषं परिपाति हन्ति ।  
@@ -97,7 +97,7 @@ this stotram along with other verses in their daily prayer.
 समस्त यज्ञाङ्गमयं वपुः प्रभोः यस्याङ्गमीशेश्वरसंस्तुतस्य ।  
 वराहरूपी भगवान् स सर्वदा ममास्तु माङ्गल्यविवृद्धये हरिः ॥ १५॥  
   
-विक्षोभ्य सर्वोदधितोयसंभवं दधार धात्रीं जगतश्च यो भुवम् ।  
+विक्षोभ्य सर्वोदधितोयसम्भवं दधार धात्रीं जगतश्च यो भुवम् ।  
 यज्ञेश्वरो यज्ञपुमान् स सर्वदा ममास्तु माङ्गल्यविवृद्धये हरिः ॥ १६॥  
   
 पातालमूलेश्वरभोगिसंहतो विन्यस्य पादौ पृतिवीं च बिभ्रतः ।  
@@ -123,10 +123,10 @@ this stotram along with other verses in their daily prayer.
 दन्तान्तदीप्तद्युतिनिर्मलानि यः चकार सर्वाणि दिशां मुखानि ।  
 निनादवित्रासितदानवो ह्यसौ ममास्तु माङ्गल्यविवृद्धये हरिः ॥ २३॥  
   
-यन्नामसंकीर्तनतो महाभयात् विमोक्षमाप्नोति न संशयं नरः ।  
+यन्नामसङ्कीर्तनतो महाभयात् विमोक्षमाप्नोति न संशयं नरः ।  
 स सर्वलोकार्तिहरो नृकेसरी ममास्तु माङ्गल्यविवृद्धये हरिः ॥ २४॥  
   
-सटाकरालभ्रमणानिलाहताः स्फुटन्ति यस्यांबुधराः समन्ततः ।  
+सटाकरालभ्रमणानिलाहताः स्फुटन्ति यस्याम्बुधराः समन्ततः ।  
 स दिव्यसिंहः स्फुरितानलेक्षणो ममास्तु माङ्गल्यविवृद्धये हरिः ॥ २५॥  
   
 यदीक्षणज्योतिषि रश्मिमण्डलं प्रलीनमीषन्न रराज भास्वतः ।  
@@ -150,7 +150,7 @@ this stotram along with other verses in their daily prayer.
 महाद्भुते दैत्यपतेर्महाध्वरे यस्मिन् प्रविष्टे क्षुभितं महासुरैः ।  
 स वामनोऽन्तस्थितसप्तलोकधृङ् ममास्तु माङ्गल्यविवृद्धये हरिः ॥ ३२॥  
   
-संघैः सुराणां दिवि भूतलस्थितैः तथा मनुष्यैर्गगने च खेचरैः ।  
+सङ्घैः सुराणां दिवि भूतलस्थितैः तथा मनुष्यैर्गगने च खेचरैः ।  
 स्तुतः क्रमाद् यः प्रच्चार सर्वदा ममास्तु माङ्गल्यविवृद्धये हरिः ॥ ३३॥  
   
 क्रान्त्वा धरित्रीं गगनं तथा दिवं मरुत्पतेर्यः प्रददौ त्रिविष्टपम् ।  
@@ -200,10 +200,10 @@ this stotram along with other verses in their daily prayer.
 किं लोके तदिह परत्र चापि पुंसां  
 यद्विष्णुप्रवणधियां न दाल्भ्य! साध्यम् ॥ ४६॥  
   
-देवेन्द्रस्त्रिभुवनमर्थमेकपिंगः  
+देवेन्द्रस्त्रिभुवनमर्थमेकपिङ्गः  
 संसिद्धिं त्रिभुवनगां च कार्तवीर्यः ।  
 वैदेहः परमपदं प्रसाद्य विष्णुं  
-संप्राप्ताः सकलफलप्रदो हि विष्णुः ॥ ४७॥  
+सम्प्राप्ताः सकलफलप्रदो हि विष्णुः ॥ ४७॥  
   
 सर्वारम्भेषु दाल्भ्यैतद् दुःस्वप्नेषु च पण्डितः ।  
 जपेदेकमना विष्णौ तथाऽमङ्गल्यदर्शने ॥ ४८॥  
@@ -214,7 +214,7 @@ this stotram along with other verses in their daily prayer.
 हरिर्ददाति भद्राणि मङ्गल्यस्तुतिसंस्तुतः ।  
 करोत्यखिलरूपैस्तु रक्षामक्षतशक्तिभृत् ॥ ५०॥  
   
-॥ श्रीविष्णुधर्मोत्तरान्तर्गतः माङ्गल्यस्तवः संपूर्णः ॥  
+॥ श्रीविष्णुधर्मोत्तरान्तर्गतः माङ्गल्यस्तवः सम्पूर्णः ॥  
   
   
 Encoded and proofread by N. Balasubramanian bbalu at satyam.net.in  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "bAShkalpaniShat with Commentary"
-"File name" = "bAShkalpaniShat.itx"
-itxtitle = "bAShkalpaniShat savRittikA (sAmAnyavedAnta)"
-engtitle = "bAShkalpaniShat with Commentary"
-Category = "upanishhat, vedanta, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned book)"
-"Latest update" = "October 18, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बाष्कल्पनिषत् सवृइत्तिका (सामान्यवेदान्त)"
+---
+Category: upanishhat, vedanta, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: bAShkalpaniShat.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: October 18, 2017
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: bAShkalpaniShat with Commentary
+engtitle: bAShkalpaniShat with Commentary
+itxtitle: bAShkalpaniShat savRittikA (sAmAnyavedAnta)
+title: बाष्कल्पनिषत् सवृइत्तिका (सामान्यवेदान्त)
 
-+++
+---
   
  बाष्कलमन्त्रोपनिषत् सवृत्तिका   
   

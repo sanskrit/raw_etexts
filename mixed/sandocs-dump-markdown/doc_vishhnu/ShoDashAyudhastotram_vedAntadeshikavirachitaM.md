@@ -1,24 +1,24 @@
-+++
-"Text title" = "ShoDashAyudhastotram"
-"File name" = "ShoDashAyudhastotram.itx"
-itxtitle = "ShoDashAyudhastotram (vedAntadeshikavirachitaM)"
-engtitle = "ShoDashAyudhastotram"
-Category = "vishhnu, vedAnta-deshika"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षोडशायुधस्तोत्रम् (वेदान्तदेशिकविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: vedAntadeshika
+Category: vishhnu, vedAnta-deshika
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: ShoDashAyudhastotram.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ShoDashAyudhastotram
+engtitle: ShoDashAyudhastotram
+itxtitle: ShoDashAyudhastotram (vedAntadeshikavirachitaM)
+title: षोडशायुधस्तोत्रम् (वेदान्तदेशिकविरचितं)
 
-+++
+---
   
  षोडशायुधस्तोत्रम्   
   

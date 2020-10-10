@@ -1,22 +1,22 @@
-+++
-"Text title" = "vinAyakastutiH"
-"File name" = "vinAyakastutiH.itx"
-itxtitle = "vinAyakastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "vinAyakastutiH"
-Category = "ganesha, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विनायकस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: ganesha, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: vinAyakastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_ganesha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: vinAyakastutiH
+engtitle: vinAyakastutiH
+itxtitle: vinAyakastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: विनायकस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीविनायकस्तुतिः   
 (श्रीकालटिक्षेत्रे)  

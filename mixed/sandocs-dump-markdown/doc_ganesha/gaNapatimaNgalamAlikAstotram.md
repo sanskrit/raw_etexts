@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNapatimangalamAlikAstotram"
-"File name" = "gaNapatimangalamAlikAstotram.itx"
-itxtitle = "gaNapatimaNgalamAlikAstotram"
-engtitle = "gaNapatimangalamAlikAstotram"
-Category = "ganesha, mangala"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar, PSA Easwaran"
-Indexextra = "(Video, Translation)"
-"Latest update" = "August 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपतिमण्गलमालिकास्तोत्रम्"
+---
+Category: ganesha, mangala
+File name: gaNapatimangalamAlikAstotram.itx
+Indexextra: (Video, Translation)
+Language: Sanskrit
+Latest update: August 25, 2017
+Location: doc_ganesha
+Proofread by: Shree Devi Kumar, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNapatimangalamAlikAstotram
+Transliterated by: Shree Devi Kumar
+engtitle: gaNapatimangalamAlikAstotram
+itxtitle: gaNapatimaNgalamAlikAstotram
+title: गणपतिमण्गलमालिकास्तोत्रम्
 
-+++
+---
   
  श्रीगणपतिमङ्गलमालिकास्तोत्रम्   
   

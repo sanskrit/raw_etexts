@@ -1,22 +1,22 @@
-+++
-"Text title" = "pratyangirAShTottarashatanAmAvalI"
-"File name" = "pratyangirAShTottarashatanAmAvalI.itx"
-itxtitle = "pratyaNgirAShTottarashatanAmAvalI"
-engtitle = "pratyangirAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Latest update" = "March 28, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रत्यण्गिराष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, devI
+File name: pratyangirAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: March 28, 2016
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: pratyangirAShTottarashatanAmAvalI
+Transliterated by: NA
+engtitle: pratyangirAShTottarashatanAmAvalI
+itxtitle: pratyaNgirAShTottarashatanAmAvalI
+title: प्रत्यण्गिराष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीप्रत्यङ्गिराष्टोत्तरशतनामावली   
   
@@ -70,7 +70,7 @@ title = "प्रत्यण्गिराष्टोत्तरशतन�
 ॐ अट्टहासिन्यै नमः ।   
 ॐ करालवदनायै नमः ।   
 ॐ ललज्जिह्वायै नमः । ४०   
-ॐ ह्रींकारायै नमः ।   
+ॐ ह्रीङ्कारायै नमः ।   
 ॐ ह्रींविभूत्यै नमः ।   
 ॐ शत्रुनाशिन्यै नमः ।   
 ॐ भूतनाशिन्यै नमः ।   

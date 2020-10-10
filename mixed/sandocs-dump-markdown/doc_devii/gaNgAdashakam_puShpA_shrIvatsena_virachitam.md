@@ -1,26 +1,26 @@
-+++
-"Text title" = "gangAdashakam"
-"File name" = "gangAdashakam.itx"
-itxtitle = "gaNgAdashakam (puShpA shrIvatsena virachitam)"
-engtitle = "gangAdashakam"
-Category = "devii, puShpAshrIvatsan, nadI, devI, dashaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 17, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गादशकम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: devii, puShpAshrIvatsan, nadI, devI, dashaka
+File name: gangAdashakam.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 17, 2017
+Location: doc_devii
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gangAdashakam
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: gangAdashakam
+itxtitle: gaNgAdashakam (puShpA shrIvatsena virachitam)
+title: गण्गादशकम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  श्रीगङ्गादशकम्   
                  ॐ  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Panchabrahma Upanishad"
-"File name" = "panchabrahma.itx"
-itxtitle = "panchabrahmopaniShat"
-engtitle = "Panchabrahma Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "93 / 108; Krishna Yajurveda - shaiva upanishad"
-"Latest update" = "April, 14, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पञ्चब्रह्मोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 93 / 108; Krishna Yajurveda - shaiva upanishad
+File name: panchabrahma.itx
+Language: Sanskrit
+Latest update: April, 14, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: Panchabrahma Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Panchabrahma Upanishad
+itxtitle: panchabrahmopaniShat
+title: पञ्चब्रह्मोपनिषत्
 
-+++
+---
   
  पञ्चब्रह्मोपनिषत्   
   
@@ -75,7 +75,7 @@ title = "पञ्चब्रह्मोपनिषत्"
 वर्णं रक्तं कामदं च सर्वाधिव्याधिभेषजम् ।  
 सृष्टिस्थितिलयादीनां कारणं सर्वशक्तिधृक् ॥ १२॥  
   
-अवस्थात्रितयातीतं तुरीयं ब्रह्मसंज्ञितम् ।  
+अवस्थात्रितयातीतं तुरीयं ब्रह्मसञ्ज्ञितम् ।  
 ब्रह्मविष्ण्वादिभिः सेव्यं सर्वेषां जनकं परम् ॥ १३॥  
   
 ईशानं परमं विद्यात्प्रेरकं बुद्धिसाक्षिणम् ।  

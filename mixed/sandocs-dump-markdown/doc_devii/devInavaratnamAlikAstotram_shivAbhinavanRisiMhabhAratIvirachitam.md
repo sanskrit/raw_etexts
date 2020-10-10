@@ -1,22 +1,22 @@
-+++
-"Text title" = "devInavaratnamAlikAstotram"
-"File name" = "devInavaratnamAlikAstotram.itx"
-itxtitle = "devInavaratnamAlikAstotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "devInavaratnamAlikAstotram"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, nava"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीनवरत्नमालिकास्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, nava
+File name: devInavaratnamAlikAstotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devInavaratnamAlikAstotram
+engtitle: devInavaratnamAlikAstotram
+itxtitle: devInavaratnamAlikAstotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: देवीनवरत्नमालिकास्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीदेवीनवरत्नमालिकास्तोत्रम्   
 बालायाश्चरणद्वन्द्वमाश्रयेऽभीष्टसिद्धये ।  

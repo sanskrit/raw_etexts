@@ -3,7 +3,6 @@ title: 109 Rama refutes the atheistic arguments of Jabali
 title_english: 109 Rama refutes the atheistic arguments of Jabali
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-109-Jabali_Matha_Nirakaranam.mp3"></div>
 
 जाबालेः तु वचः श्रुत्वा रामः सत्य आत्मनाम् वरः ।  
@@ -40,7 +39,7 @@ title_english: 109 Rama refutes the atheistic arguments of Jabali
 सत्य प्रतिश्रवः सत्यम् सत्येन समयी कृतः ॥ २-१०९-१६  
 न एव लोभान् न मोहाद् वा न च अज्नानात् तमो अन्वितः ।  
 सेतुम् सत्यस्य भेत्स्यामि गुरोः सत्य प्रतिश्रवः ॥ २-१०९-१७  
-असत्य संधस्य सतः चलस्य अस्थिर चेतसः ।  
+असत्य सन्धस्य सतः चलस्य अस्थिर चेतसः ।  
 न एव देवा न पितरः प्रतीग्च्छन्ति इति नः श्रुतम् ॥ २-१०९-१८  
 प्रत्यग् आत्मम् इमम् धर्मम् सत्यम् पश्याम्य् अहम् स्वयम् ।  
 भारः सत् पुरुष आचीर्णः तद् अर्थम् अभिनन्द्यते ॥ २-१०९-१९  
@@ -97,7 +96,7 @@ title_english: 109 Rama refutes the atheistic arguments of Jabali
 उवाच पथ्यं पुनरास्तिकं च ।  
 सत्यं वचः सानुनयं च विप्रः ॥ २-१०९-३७  
 न नास्तिकानां वचनम् ब्रवीम्यहं ।  
-न नास्तिकोऽहं न च नास्ति किंचन ।  
+न नास्तिकोऽहं न च नास्ति किञ्चन ।  
 समीक्ष्य कालं पुनरास्तिकोऽभवं ।  
 भवेय काले पुनरेव नास्तिकः ॥ २-१०९-३८  
 स चापि कालोऽय मुपागतः शनैः ।  

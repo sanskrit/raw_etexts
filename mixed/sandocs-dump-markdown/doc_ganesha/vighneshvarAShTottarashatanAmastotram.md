@@ -1,23 +1,23 @@
-+++
-"Text title" = "vighneshvarAShTottara shatanAmastotram"
-"File name" = "vighneshvar108Str.itx"
-itxtitle = "vighneshvarAShTottarashatanAmastotram"
-engtitle = "vighneshvarAShTottara shatanAmastotram"
-Category = "aShTottarashatanAma, ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com. NA"
-Description-comments = "See corresponding nAmAvalI"
-"Latest update" = "March 30, 2002, November 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विघ्नेश्वराष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Traditional
+Category: aShTottarashatanAma, ganesha, stotra
+Description-comments: See corresponding nAmAvalI
+File name: vighneshvar108Str.itx
+Language: Sanskrit
+Latest update: March 30, 2002, November 27, 2018
+Location: doc_ganesha
+Proofread by: Sunder Hattangadi sunderh at hotmail.com. NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: vighneshvarAShTottara shatanAmastotram
+Texttype: stotra
+engtitle: vighneshvarAShTottara shatanAmastotram
+itxtitle: vighneshvarAShTottarashatanAmastotram
+title: विघ्नेश्वराष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीविघ्नेश्वराष्टोत्तरशतनामस्तोत्रम्   
 विनायको विघ्नराजो गौरीपुत्रो गणेश्वरः ।  

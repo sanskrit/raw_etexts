@@ -1,22 +1,22 @@
-+++
-"Text title" = "pArshvanAthavajrapanjarastotram"
-"File name" = "pArshvanAthavajrapanjarastotram.itx"
-itxtitle = "pArshvanAthavajrapanjarastotram"
-engtitle = "pArshvanAthavajrapanjarastotram"
-Category = "deities_misc, panjara, jaina"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "pArshva\\-padmAvatI mahApUjana vidhi"
-"Latest update" = "June 13, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्श्वनाथवज्रपञ्जरस्तोत्रम्"
+---
+Category: deities_misc, panjara, jaina
+Description/comments: pArshva\-padmAvatI mahApUjana vidhi
+File name: pArshvanAthavajrapanjarastotram.itx
+Language: Sanskrit
+Latest update: June 13, 2020
+Location: doc_deities_misc
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: pArshvanAthavajrapanjarastotram
+Transliterated by: DPD
+engtitle: pArshvanAthavajrapanjarastotram
+itxtitle: pArshvanAthavajrapanjarastotram
+title: पार्श्वनाथवज्रपञ्जरस्तोत्रम्
 
-+++
+---
   
  आत्मरक्षाकरं श्रीवज्रपञ्जरस्तोत्रम्   
   

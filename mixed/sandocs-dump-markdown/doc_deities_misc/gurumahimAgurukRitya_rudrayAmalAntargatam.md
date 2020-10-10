@@ -1,26 +1,26 @@
-+++
-"Text title" = "Gurumahima Gurukritya"
-"File name" = "gurumahimAgurukRRitya.itx"
-itxtitle = "gurumahimAgurukRitya (rudrayAmalAntargatam)"
-engtitle = "gurumahimAgurukRRitya"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुमहिमागुरुकृइत्य (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: deities_misc, gurudev
+Description/comments: rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde
+File name: gurumahimAgurukRRitya.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Gurumahima Gurukritya
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: gurumahimAgurukRRitya
+itxtitle: gurumahimAgurukRitya (rudrayAmalAntargatam)
+title: गुरुमहिमागुरुकृइत्य (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  गुरुमहिमागुरुकृत्य   
 अखण्डमण्डलाकारं व्याप्तं येन चराचरम् ।  

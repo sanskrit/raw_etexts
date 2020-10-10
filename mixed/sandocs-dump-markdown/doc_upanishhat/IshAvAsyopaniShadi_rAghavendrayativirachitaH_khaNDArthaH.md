@@ -1,23 +1,23 @@
-+++
-"Text title" = "yAjnIyamantropaniShad.h khaNDArtha"
-"File name" = "Ishaa_bhaashhya_Raghavendra.itx"
-itxtitle = "IshAvAsyopaniShadi (rAghavendrayativirachitaH khaNDArthaH)"
-engtitle = "Ishopanishad with Shri Raghavendra Swami commentary"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Sri Raghavendra Swami"
-Language = "Sanskrit"
-Subject = "A comm. on the IshAvAsya upanishhad.h"
-"Transliterated by" = "Shrisha Rao"
-"Proofread by" = "Meera Tadipatri"
-"Latest update" = "April 26, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ईशावास्योपनिषदि (राघवेन्द्रयतिविरचितः खण्डार्थः)"
+---
+Author: Sri Raghavendra Swami
+Category: upanishhat, svara, upanishad
+File name: Ishaa_bhaashhya_Raghavendra.itx
+Language: Sanskrit
+Latest update: April 26, 2001
+Location: doc_upanishhat
+Proofread by: Meera Tadipatri
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: A comm. on the IshAvAsya upanishhad.h
+Sublocation: upanishhat
+Text title: yAjnIyamantropaniShad.h khaNDArtha
+Texttype: svara
+Transliterated by: Shrisha Rao
+engtitle: Ishopanishad with Shri Raghavendra Swami commentary
+itxtitle: IshAvAsyopaniShadi (rAghavendrayativirachitaH khaNDArthaH)
+title: ईशावास्योपनिषदि (राघवेन्द्रयतिविरचितः खण्डार्थः)
 
-+++
+---
   
  ईशावास्योपनिषदि श्रीराघवेन्द्रयतिविरचितः खण्डार्थः   
   
@@ -273,7 +273,7 @@ lस्क़् ननु परमेश्वरस्य यत्कल्�
 जीवान्तर्गतस्य नित्यास्तित्वमुक्तं, तन्न युक्तम् ।  देहनाशस्य प्रत्यक्षादिसिद्धतया,  
 तदन्तर्गतस्य जीवस्येव मरणाद्यवश्यम्भावाद्rस्क़्, इत्याशङ्कां कैमुत्येन निराह -  
   
-    वायुरनिलममृतमथेदं भस्मांतꣳ शरीरम्  ॥ १८॥   
+    वायुरनिलममृतमथेदं भस्मान्तꣳ शरीरम्  ॥ १८॥   
 यद्यपि “ इदं” “ शरीरं” “ भस्मान्तं”, तथापि तदन्तर्गतस्य हरेः न  
 मरणादिदोषप्रसक्तिः ।  कुतः?  “ अनिलम्” - lस्क़् अः ब्रह्मैव निलं  
 निलयनं आश्रयो यस्य सोऽनिलःrस्क़् ।  lस्क़् परमेश्वराश्रितो वायुरपि  

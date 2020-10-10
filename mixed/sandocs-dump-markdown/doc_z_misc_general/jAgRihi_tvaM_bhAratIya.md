@@ -1,24 +1,24 @@
-+++
-"Text title" = "Jagrihi Tvam Bharatiya"
-"File name" = "jAgRRihitvaMbhAratIya.itx"
-itxtitle = "jAgRihi tvaM bhAratIya"
-engtitle = "jAgRihi tvaM bhAratIya"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "dorbalaprabhAkarasharmA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जागृइहि त्वं भारतीय"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: dorbalaprabhAkarasharmA
+Category: misc, sanskritgeet
+File name: jAgRRihitvaMbhAratIya.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Jagrihi Tvam Bharatiya
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: jAgRihi tvaM bhAratIya
+itxtitle: jAgRihi tvaM bhAratIya
+title: जागृइहि त्वं भारतीय
 
-+++
+---
   
  जागृहि त्वं भारतीय !   
 जागृहि त्वं भारतीय, प्रभातं समुपस्थितं  

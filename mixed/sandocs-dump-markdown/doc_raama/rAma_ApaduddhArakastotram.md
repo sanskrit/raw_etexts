@@ -1,20 +1,20 @@
-+++
-"Text title" = "Shri Rama ApaduddhAraka stotram"
-"File name" = "ApaduddhArakashrIrAma.itx"
-itxtitle = "rAma ApaduddhArakastotram"
-engtitle = "rAma ApaduddhArakastotram"
-Category = "stotra, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "KSR Ramachandran, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "August 20, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राम आपदुद्धारकस्तोत्रम्"
+---
+Category: stotra, raama
+File name: ApaduddhArakashrIrAma.itx
+Language: Sanskrit
+Latest update: August 20, 2018
+Location: doc_raama
+Proofread by: KSR Ramachandran, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Shri Rama ApaduddhAraka stotram
+engtitle: rAma ApaduddhArakastotram
+itxtitle: rAma ApaduddhArakastotram
+title: राम आपदुद्धारकस्तोत्रम्
 
-+++
+---
   
  श्रीराम आपदुद्धारकस्तोत्रम्   
   

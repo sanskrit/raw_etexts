@@ -1,24 +1,24 @@
-+++
-"Text title" = "Jayatu Janani"
-"File name" = "jayatujananI.itx"
-itxtitle = "jayatujananI"
-engtitle = "jayatujananI"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "harekRiShNameheraH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Video 1, 2, 3, 4)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयतुजननी"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: harekRiShNameheraH
+Category: misc, sanskritgeet
+File name: jayatujananI.itx
+Indexextra: (Wiki, Video 1, 2, 3, 4)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Jayatu Janani
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: jayatujananI
+itxtitle: jayatujananI
+title: जयतुजननी
 
-+++
+---
   
  जयतु जननी   
 जयतु जननी जन्मभूमिः पुण्यभुवनं भारतं  

@@ -1,25 +1,26 @@
-+++
-"Text title" = "anurAgavalliH"
-"File name" = "anurAgavalliH.itx"
-itxtitle = "anurAgavalliH (vishvanAthachakravartin ThakkuravirachitA)"
-engtitle = "anurAgavalliH by vishvanAthachakravartin"
-Category = "vishhnu, krishna, vishvanAthachakravartin, stavAmRRitalaharI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अनुरागवल्लिः (विश्वनाथचक्रवर्तिन् ठक्कुरविरचिता)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: vishhnu, krishna, vishvanAthachakravartin, stavAmRRitalaharI
+File name: anurAgavalliH.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_vishhnu
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: anurAgavalliH
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: anurAgavalliH by vishvanAthachakravartin
+itxtitle: anurAgavalliH (vishvanAthachakravartin ThakkuravirachitA)
+title: अनुरागवल्लिः (विश्वनाथचक्रवर्तिन् ठक्कुरविरचिता)
 
-+++
+---
   
  श्रीअनुरागवल्लिः   
 देहार्बुदानि भगवान्! युगपत्प्रयच्छ  

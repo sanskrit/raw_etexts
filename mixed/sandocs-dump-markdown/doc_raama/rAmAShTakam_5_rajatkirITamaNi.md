@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ramashtakam 5"
-"File name" = "rAmAShTakam5.itx"
-itxtitle = "rAmAShTakam 5 (rajatkirITamaNi)"
-engtitle = "Ramashtakam 5"
-Category = "raama, aShTaka"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Murari Gupta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "From the book Krishna Chaitanya Charita"
-Indexextra = "(Meaning)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टकम् ५ (रजत्किरीटमणि)"
+---
+Author: Murari Gupta
+Category: raama, aShTaka
+Description/comments: From the book Krishna Chaitanya Charita
+File name: rAmAShTakam5.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_raama
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Ramashtakam 5
+engtitle: Ramashtakam 5
+itxtitle: rAmAShTakam 5 (rajatkirITamaNi)
+title: रामाष्टकम् ५ (रजत्किरीटमणि)
 
-+++
+---
   
  रामाष्टकम् ५   
 राजत्किरीटमणिदीधितिदीपितांशं  

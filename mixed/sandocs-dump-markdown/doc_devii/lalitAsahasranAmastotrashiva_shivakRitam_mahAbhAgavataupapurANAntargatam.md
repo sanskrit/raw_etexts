@@ -1,26 +1,26 @@
-+++
-"Text title" = "lalitAsahasranAmastotrashiva"
-"File name" = "lalitAsahasranAmastotrashiva.itx"
-itxtitle = "lalitAsahasranAmastotrashiva (shivakRitam mahAbhAgavataupapurANAntargatam)"
-engtitle = "lalitAsahasranAmastotrashiva"
-Category = "sahasranAma, devii, dashamahAvidyA, lalitA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, help from Alex"
-"Proofread by" = "DPD, Narayanaswami Pallasena"
-Source = "mahAbhAgavata upapurANa Adhyaya 23"
-Indexextra = "(mahAbhAgavata)"
-"Latest update" = "June 13, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितासहस्रनामस्तोत्रशिव (शिवकृइतम् महाभागवतौपपुराणान्तर्गतम्)"
+---
+Category: sahasranAma, devii, dashamahAvidyA, lalitA, stotra, devI
+File name: lalitAsahasranAmastotrashiva.itx
+Indexextra: (mahAbhAgavata)
+Language: Sanskrit
+Latest update: June 13, 2020
+Location: doc_devii
+Proofread by: DPD, Narayanaswami Pallasena
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: mahAbhAgavata upapurANa Adhyaya 23
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitAsahasranAmastotrashiva
+Texttype: stotra
+Transliterated by: DPD, help from Alex
+engtitle: lalitAsahasranAmastotrashiva
+itxtitle: lalitAsahasranAmastotrashiva (shivakRitam mahAbhAgavataupapurANAntargatam)
+title: ललितासहस्रनामस्तोत्रशिव (शिवकृइतम् महाभागवतौपपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीललितासहस्रनामस्तोत्रम् शिवकृतम्   
   

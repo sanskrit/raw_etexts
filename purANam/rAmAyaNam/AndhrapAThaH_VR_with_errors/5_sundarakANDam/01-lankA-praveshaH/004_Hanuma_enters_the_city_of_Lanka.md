@@ -3,7 +3,6 @@ title: 004 Hanuma enters the city of Lanka
 title_english: 004 Hanuma enters the city of Lanka
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-004-Hanuma_enters_the_city_of_Lanka.mp3"></div>
 
 स निर्जत्य पुरीम् लण्का श्रेष्ठाम् ताम् कामरूपिणीम् ।  
@@ -11,7 +10,7 @@ title_english: 004 Hanuma enters the city of Lanka
 अद्वारेण मःआतेजा हौमान् कपिसत्तमः ।  
 प्रविश्य नगरीम् लङ्काम् कपिराजहितम्करः ॥ ५-४-२  
 चक्रेणाऽथ पदम् सव्यम् शत्रूणाम् स तु मूर्धनि ।  
-प्रविष्टः सत्त्वसंपन्नो विशायाम् मारुतात्मजः ॥ ५-४-३  
+प्रविष्टः सत्त्वसम्पन्नो विशायाम् मारुतात्मजः ॥ ५-४-३  
 स महापथमास्थाय मुक्तापुष्पविराजितम् ।  
 ततस्तु ताम् पुरीम् लङ्काम् रम्यामभिययौ कपिः ॥ ५-४-४  
 हसित उद्घुष्ट निनदैः तूर्य घोष पुरः सरैः ।  

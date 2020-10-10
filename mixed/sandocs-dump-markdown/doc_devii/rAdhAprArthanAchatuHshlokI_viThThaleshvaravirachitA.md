@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAdhAprArthanAchatuHshlokI"
-"File name" = "rAdhAprArthanAchatuHshlokI.itx"
-itxtitle = "rAdhAprArthanAchatuHshlokI (viThThaleshvaravirachitA)"
-engtitle = "rAdhAprArthanAchatuHshlokI"
-Category = "devii, puShTimArgIya, radha, viThThaleshvara, chatuHshlokI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "viThThaleshvara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाप्रार्थनाचतुःश्लोकी (विठ्ठलेश्वरविरचिता)"
+---
+Author: viThThaleshvara
+Category: devii, puShTimArgIya, radha, viThThaleshvara, chatuHshlokI, devI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: rAdhAprArthanAchatuHshlokI.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAprArthanAchatuHshlokI
+engtitle: rAdhAprArthanAchatuHshlokI
+itxtitle: rAdhAprArthanAchatuHshlokI (viThThaleshvaravirachitA)
+title: राधाप्रार्थनाचतुःश्लोकी (विठ्ठलेश्वरविरचिता)
 
-+++
+---
   
  राधाप्रार्थनाचतुःश्लोकी   
   

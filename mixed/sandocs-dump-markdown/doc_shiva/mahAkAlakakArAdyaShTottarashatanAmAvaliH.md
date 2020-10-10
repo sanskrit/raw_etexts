@@ -1,21 +1,21 @@
-+++
-"Text title" = "Mahakala Kakaradi Ashtottarashatanamavali 108 names"
-"File name" = "mahAkAlakakArAdyaShTottarashatanAmAvaliH.itx"
-itxtitle = "mahAkAlakakArAdyaShTottarashatanAmAvaliH"
-engtitle = "mahAkAlakakArAdyaShTottarashatanAmAvaliH"
-Category = "shiva, aShTottarashatanAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "See corresponding stotram. (Last two names are taken from Dhyanam)"
-"Latest update" = "September 28, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालककाराद्यष्टोत्तरशतनामावलिः"
+---
+Category: shiva, aShTottarashatanAmAvalI
+Description/comments: See corresponding stotram. (Last two names are taken from Dhyanam)
+File name: mahAkAlakakArAdyaShTottarashatanAmAvaliH.itx
+Language: Sanskrit
+Latest update: September 28, 2019
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mahakala Kakaradi Ashtottarashatanamavali 108 names
+engtitle: mahAkAlakakArAdyaShTottarashatanAmAvaliH
+itxtitle: mahAkAlakakArAdyaShTottarashatanAmAvaliH
+title: महाकालककाराद्यष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीमहाकालककाराद्यष्टोत्तरशतनामावलिः   
 मन्त्रः -  
@@ -66,7 +66,7 @@ title = "महाकालककाराद्यष्टोत्तरश�
 कपालपात्रसन्तुष्टाय । कपालार्घ्यपरायणाय । कदम्बपुष्पसम्पूज्याय ।  
 कदम्बपुष्पहोमदाय । कुलप्रियाय । कुलधराय । कुलाधाराय । कुलेश्वराय ।  
 कौलव्रतधराय । कर्मकामकेलिप्रियाय । क्रतवे ।  
-कलह ह्रींमन्त्रवर्णाय नमः । २०  
+कलह ह्रीम्मन्त्रवर्णाय नमः । २०  
   
 ॐ कलह ह्रींस्वरूपिणे नमः । कङ्कालभैरवदेवाय ।  
 कङ्कालभैरवेश्वराय । कादम्बरीपानरताय । कादम्बरीकलाय ।  

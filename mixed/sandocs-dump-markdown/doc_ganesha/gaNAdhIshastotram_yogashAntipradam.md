@@ -1,24 +1,24 @@
-+++
-"Text title" = "yogashantipradaM gaNAdhiishastotram"
-"File name" = "yogashAntipradaMgaNAdhiishastotram.itx"
-itxtitle = "gaNAdhIshastotram yogashAntipradam"
-engtitle = "yogashAntipradaM gaNAdhIshastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P : Amith K Nagaraj(amithkn at rediffmail.com)"
-"Proofread by" = "Proofread by Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "mudgalapurANa"
-"Latest update" = "May 17, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणाधीशस्तोत्रम् योगशान्तिप्रदम्"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: mudgalapurANa
+File name: yogashAntipradaMgaNAdhiishastotram.itx
+Language: Sanskrit
+Latest update: May 17, 2004
+Location: doc_ganesha
+Proofread by: Proofread by Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: yogashantipradaM gaNAdhiishastotram
+Texttype: stotra
+Transliterated by: 'Karthik Chandan.P : Amith K Nagaraj(amithkn at rediffmail.com)'
+engtitle: yogashAntipradaM gaNAdhIshastotram
+itxtitle: gaNAdhIshastotram yogashAntipradam
+title: गणाधीशस्तोत्रम् योगशान्तिप्रदम्
 
-+++
+---
   
  योगशान्तिप्रदं गणाधीशस्तोत्रम्   
   
@@ -32,7 +32,7 @@ title = "गणाधीशस्तोत्रम् योगशान्त�
 योगाकारस्वरूपं तं ब्रह्मेशं भज मानद ॥ २॥  
   
 सर्वादिः सर्वपूज्योऽयं सर्वाधारो महामुने ।  
-य आदिः प्रलयान्ते स तिष्ठति शास्त्रसंमतम् ॥ ३॥  
+य आदिः प्रलयान्ते स तिष्ठति शास्त्रसम्मतम् ॥ ३॥  
   
 ज्येष्ठराजं गणेशानं वेदेषु प्रवदन्ति तम् ।  
 गणाः समूहरूपाश्च तेषां स्वामी प्रकथ्यते ॥ ४॥  

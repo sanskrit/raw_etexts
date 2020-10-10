@@ -1,24 +1,24 @@
-+++
-"Text title" = "Dashavataravarnanam from Narasimhapurana . ."
-"File name" = "dashAvataravarNanamNP.itx"
-itxtitle = "dashAvatAravarNanam"
-engtitle = "Dashavataravarnanam from Narasimhapurana . ."
-Category = "vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 36 1-11"
-"Latest update" = "June 9, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतारवर्णनम्"
+---
+Category: vishhnu, dashAvatAra, stotra, vishnu
+Description-comments: Narasimhapurana adhyAya 36 1-11
+File name: dashAvataravarNanamNP.itx
+Language: Sanskrit
+Latest update: June 9, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Dashavataravarnanam from Narasimhapurana . .
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: Dashavataravarnanam from Narasimhapurana . .
+itxtitle: dashAvatAravarNanam
+title: दशावतारवर्णनम्
 
-+++
+---
   
  दशावतरवर्णनं   
   
@@ -58,7 +58,7 @@ title = "दशावतारवर्णनम्"
   
 इति ।  
   
-नरसिंहपुराण अध्याय ३६ श्लोकसंख्या ११  
+नरसिंहपुराण अध्याय ३६ श्लोकसङ्ख्या ११  
 श्रीनरसिंहपुराणे हरेः प्रादुर्भावानुक्रमणे षटत्रिंशोऽध्यायः ॥ ३६॥  
   
   

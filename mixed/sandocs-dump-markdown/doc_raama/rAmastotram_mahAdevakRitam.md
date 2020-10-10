@@ -1,24 +1,24 @@
-+++
-"Text title" = "mahAdevakRitaM rAmastotram"
-"File name" = "mahaadevaraamastotra.itx"
-itxtitle = "rAmastotram (mahAdevakRitam)"
-engtitle = "mahAdevakRitaM rAmastotram"
-Category = "raama, stotra"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "mahaadeva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "adhyAtmarAmAyaNa"
-"Latest update" = "January 05, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामस्तोत्रम् (महादेवकृइतम्)"
+---
+Author: mahaadeva
+Category: raama, stotra
+Description-comments: adhyAtmarAmAyaNa
+File name: mahaadevaraamastotra.itx
+Language: Sanskrit
+Latest update: January 05, 2005
+Location: doc_raama
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: mahAdevakRitaM rAmastotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: mahAdevakRitaM rAmastotram
+itxtitle: rAmastotram (mahAdevakRitam)
+title: रामस्तोत्रम् (महादेवकृइतम्)
 
-+++
+---
   
  श्रीरामस्तोत्रं श्रीमहादेवकृतम्   
   

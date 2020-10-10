@@ -1,20 +1,20 @@
-+++
-"Text title" = "viShNusahasranAmastotra from garuDapurANa"
-"File name" = "viShNusahasranAmastotragaruDapurANa.itx"
-itxtitle = "viShNusahasranAmastotram (garuDapurANAntargatam)"
-engtitle = "Vishnusahasranamastotram from Garudapurana"
-Category = "sahasranAma, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "November 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुसहस्रनामस्तोत्रम् (गरुडपुराणान्तर्गतम्)"
+---
+Category: sahasranAma, vishhnu, vishnu
+File name: viShNusahasranAmastotragaruDapurANa.itx
+Language: Sanskrit
+Latest update: November 24, 2016
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNusahasranAmastotra from garuDapurANa
+engtitle: Vishnusahasranamastotram from Garudapurana
+itxtitle: viShNusahasranAmastotram (garuDapurANAntargatam)
+title: विष्णुसहस्रनामस्तोत्रम् (गरुडपुराणान्तर्गतम्)
 
-+++
+---
   
  विष्णुसहस्रनामस्तोत्रम् गरुडपुराणान्तर्गतम्   
   

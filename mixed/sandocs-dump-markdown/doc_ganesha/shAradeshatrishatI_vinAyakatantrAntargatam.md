@@ -1,21 +1,21 @@
-+++
-"Text title" = "shAradeshatrishatI"
-"File name" = "shAradeshatrishatI.itx"
-itxtitle = "shAradeshatrishatI (vinAyakatantrAntargatam)"
-engtitle = "shAradeshatrishatI"
-Category = "trishatI, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Source = "Vinayakatantra"
-"Latest update" = "August 26, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदेशत्रिशती (विनायकतन्त्रान्तर्गतम्)"
+---
+Category: trishatI, ganesha
+File name: shAradeshatrishatI.itx
+Language: Sanskrit
+Latest update: August 26, 2017
+Location: doc_ganesha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Vinayakatantra
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: shAradeshatrishatI
+engtitle: shAradeshatrishatI
+itxtitle: shAradeshatrishatI (vinAyakatantrAntargatam)
+title: शारदेशत्रिशती (विनायकतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीशारदेशत्रिशतीस्तोत्रम्   
   
@@ -33,28 +33,28 @@ title = "शारदेशत्रिशती (विनायकतन्त
 ॐकारमात्राजनकः ॐकारपूर्णविग्रहः ॥ ३॥  
   
 ॐकारचक्रमध्यस्थ ॐकारशक्तिनायकः ।  
-श्रींकारश्श्रीधरश्श्रीदः श्रीपतिश्श्रीनिकेतनः ॥ ४॥  
+श्रीङ्कारश्श्रीधरश्श्रीदः श्रीपतिश्श्रीनिकेतनः ॥ ४॥  
   
-श्रीनिवासश्श्रीधरश्श्रीमान् श्रींकारदेवपूजितः ।  
-श्रींकारदेवपूर्वाङ्गः श्रींकारयुग्मसेवितः ॥ ५॥  
+श्रीनिवासश्श्रीधरश्श्रीमान् श्रीङ्कारदेवपूजितः ।  
+श्रीङ्कारदेवपूर्वाङ्गः श्रीङ्कारयुग्मसेवितः ॥ ५॥  
   
-ह्रींकारलक्ष्यः ह्रींकारशक्तीशः ह्रींमनुप्रियः ।  
-ह्रींकारमायाजनको ह्रींकारशक्तिपूजितः ॥ ६॥  
+ह्रीङ्कारलक्ष्यः ह्रीङ्कारशक्तीशः ह्रीम्मनुप्रियः ।  
+ह्रीङ्कारमायाजनको ह्रीङ्कारशक्तिपूजितः ॥ ६॥  
   
-ह्रींकारेशदक्षिणाङ्गो ह्रींकारमनुतोषितः ।  
-ह्रींकारजपसुप्रीतो ह्रींकारशक्तिलोकगः ॥ ७॥  
+ह्रीङ्कारेशदक्षिणाङ्गो ह्रीङ्कारमनुतोषितः ।  
+ह्रीङ्कारजपसुप्रीतो ह्रीङ्कारशक्तिलोकगः ॥ ७॥  
   
-ह्रींकारशक्तिमलजो ह्रींकारशक्तिनन्दनः ।  
-क्लींकारमनुसंवेद्यः क्लींकारमनुतोषितः ॥ ८॥  
+ह्रीङ्कारशक्तिमलजो ह्रीङ्कारशक्तिनन्दनः ।  
+क्लीङ्कारमनुसंवेद्यः क्लीङ्कारमनुतोषितः ॥ ८॥  
   
-क्लींकारेशपश्चिमाङ्गः क्लींकारदेवसेवितः ।  
-क्लींकारेण विश्वमोहकरः क्लींकारकारणम् ॥ ९॥  
+क्लीङ्कारेशपश्चिमाङ्गः क्लीङ्कारदेवसेवितः ।  
+क्लीङ्कारेण विश्वमोहकरः क्लीङ्कारकारणम् ॥ ९॥  
   
-क्लींकारेण वश्यदाता क्लींकारेश्वरपूजितः ।  
-क्लींकारशक्तिपतिदः क्लींकारशक्तिहर्षदः ॥ १०॥  
+क्लीङ्कारेण वश्यदाता क्लीङ्कारेश्वरपूजितः ।  
+क्लीङ्कारशक्तिपतिदः क्लीङ्कारशक्तिहर्षदः ॥ १०॥  
   
-क्लींकारेण विश्वस्रष्टा क्लींकारमयविश्वगः ।  
-क्लींकारेण विश्ववृद्धिकरः ऐङ्कारपीठगः ॥ ११॥  
+क्लीङ्कारेण विश्वस्रष्टा क्लीङ्कारमयविश्वगः ।  
+क्लीङ्कारेण विश्ववृद्धिकरः ऐङ्कारपीठगः ॥ ११॥  
   
 ऐङ्कारजपसुप्रीत ऐङ्कारदेववन्दितः ।  
 ऐङ्कारेश्वरवामाङ्गः ऐङ्कारशक्तिनायकः ॥ १२॥  

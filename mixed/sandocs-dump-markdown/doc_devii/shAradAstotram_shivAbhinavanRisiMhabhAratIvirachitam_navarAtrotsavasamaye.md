@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAradAstotram"
-"File name" = "shAradAstotram.itx"
-itxtitle = "shAradAstotram (shivAbhinavanRisiMhabhAratIvirachitam navarAtrotsavasamaye)"
-engtitle = "shAradAstotram"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदास्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम् नवरात्रोत्सवसमये)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI
+File name: shAradAstotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAstotram
+engtitle: shAradAstotram
+itxtitle: shAradAstotram (shivAbhinavanRisiMhabhAratIvirachitam navarAtrotsavasamaye)
+title: शारदास्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम् नवरात्रोत्सवसमये)
 
-+++
+---
   
  श्रीशारदास्तोत्रम्   
 (श्रीशृङ्गाद्रौ श्रीशारदानवरात्रोत्सवसमये)  

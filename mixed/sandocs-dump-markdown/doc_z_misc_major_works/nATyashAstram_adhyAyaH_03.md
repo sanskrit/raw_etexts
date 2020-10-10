@@ -1,23 +1,23 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 3"
-"File name" = "natya03.itx"
-itxtitle = "nATyashAstram adhyAyaH 03"
-engtitle = "Natya Shastra Chapter 3"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture"
-"Transliterated by" = "dpadmakar at hotmail.com"
-"Proofread by" = "dpadmakar at hotmail.com"
-"Latest update" = "May 24, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः ०३"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya03.itx
+Language: Sanskrit
+Latest update: May 24, 2001
+Location: doc_z_misc_major_works
+Proofread by: dpadmakar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 3
+Texttype: pramukha
+Transliterated by: dpadmakar at hotmail.com
+engtitle: Natya Shastra Chapter 3
+itxtitle: nATyashAstram adhyAyaH 03
+title: नाट्यशास्त्रम् अध्यायः ०३
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः ३   
   
@@ -26,7 +26,7 @@ title = "नाट्यशास्त्रम् अध्यायः ०३
 भरतमुनिप्रणीतं नाट्यशास्त्रम्  
   
 अथ तृतीयोध्यायः ।  
-सर्वलक्षणसंपन्ने कृते नाट्यगृहे शुभे ।  
+सर्वलक्षणसम्पन्ने कृते नाट्यगृहे शुभे ।  
 गावो वसेयुः सप्ताहं सह जप्यपरैर्द्विजैः ॥ १॥  
   
 ततोऽधिवासयेद्वेश्म रङ्गपीठं तथैव च ।  
@@ -113,14 +113,14 @@ title = "नाट्यशास्त्रम् अध्यायः ०३
 वायव्यायां दिशि तथा सप्त वायून्निवेशयेत् ।  
 तत्रैव विनिवेश्यस्तु गरुडः पक्षिभिः सह ॥ २९॥  
   
-उत्तरस्यां दिशि तथा धनदं संनिविएशयेत् ।  
+उत्तरस्यां दिशि तथा धनदं सन्निविएशयेत् ।  
 नाट्यस्य मातॄश्च तथा यक्षानथ सगुह्यकान् ॥ ३०॥  
   
 तथैवोत्तरपूर्वायां नन्द्याद्यांश्च गणेश्वरान् ।  
-ब्रह्मर्षिभूतसंघांश्च यथाभागं निवेशयत् ॥ ३१॥  
+ब्रह्मर्षिभूतसङ्घांश्च यथाभागं निवेशयत् ॥ ३१॥  
   
 स्तम्भे सनत्कुमारं तु दक्षिणे दक्षमेव च ।  
-ग्रामण्यमुत्तरे स्तम्भे पूजार्थं संनिविशयेत् ॥ ३२॥  
+ग्रामण्यमुत्तरे स्तम्भे पूजार्थं सन्निविशयेत् ॥ ३२॥  
   
 अनेनैअव विधानेन यथास्थानं यथाविधि ।  
 सुप्रसादानि सर्वाणि दैवतानि निवेशयत् ॥ ३३॥  
@@ -144,7 +144,7 @@ title = "नाट्यशास्त्रम् अध्यायः ०३
 पितॄन्पिशाचानुरगान् सर्पिःक्षीरेण तर्पयेत् ॥ ३९॥  
   
 पक्वानेन तु मांसेन सुरासीथुफलासवैः ।  
-अर्चयेद्भूतसंघांश्च चणकैः पललाप्लुतैः ॥ ४०॥  
+अर्चयेद्भूतसङ्घांश्च चणकैः पललाप्लुतैः ॥ ४०॥  
   
 अनेनैव विधानेन सम्पूज्या मत्तवारणी ।  
 पक्वामेन तु मांसेन सम्पूज्या रक्षसां गणाः ॥ ४१॥  
@@ -180,7 +180,7 @@ title = "नाट्यशास्त्रम् अध्यायः ०३
 बलिः प्रीतेन मनसा षण्मुख प्रतिगृह्यताम् ॥ ५१॥  
   
 (महादेव महायोगिन्देवदेव सुरोत्तम ।  
-संप्रगृह्य बलिं देव रक्ष विघ्नात्सदोत्थितात् ॥ )  
+सम्प्रगृह्य बलिं देव रक्ष विघ्नात्सदोत्थितात् ॥ )  
 देवि देवमहाभागे सरस्वति हरिप्रिये ।  
 प्रगृह्यतां बलिर्मातर्मया भक्त्या समर्पितः ॥ ५२॥  
   
@@ -297,7 +297,7 @@ title = "नाट्यशास्त्रम् अध्यायः ०३
 भिन्द्यात्कुम्भं ततश्चैव नाट्याचार्यः प्रयत्नतः ॥ ८८॥  
   
 अभिन्ने तु भवेत्कुम्भे स्वामिनः शत्रुतो भयम् ।  
-भिन्ने चैव तु विज्ञेयः स्वामिनः शत्रुसंक्षयः ॥ ८९॥  
+भिन्ने चैव तु विज्ञेयः स्वामिनः शत्रुसङ्क्षयः ॥ ८९॥  
   
 भिन्ने कुम्भे ततश्चैव नाट्यचार्यः प्रयत्नतः ।  
 प्रगृह्य दीपिकां दीप्तां सर्वं रङ्गं प्रदीपयेत् ॥ ९०॥  

@@ -1,27 +1,28 @@
-+++
-"Text title" = "bhajagovindam"
-"File name" = "bhajagovindam.itx"
-itxtitle = "bhajagovindam athavA mohamudgaraH athavA dvAdashamanjarikA charpaTapanjarikA cha (shaNkarAchAryavirachitam)"
-engtitle = "bhaja govindam"
-Category = "vedanta, vishhnu, krishna, stotra, shankarAchArya, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "M. Giridhar"
-"Proofread by" = "M. Giridhar, NA, PSA Easwaran"
-"Translated by" = "M. Giridhar"
-Description-comments = "combines charpaTapanjarikA and dvAdashapanjarikA, advice"
-Indexextra = "(Versions, mohamudgaraH, Hindi, Full Audio)"
-"Latest update" = "1995, September 28, 2014, March 1, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भजगोविन्दम् अथवा मोहमुद्गरः अथवा द्वादशमञ्जरिका चर्पटपञ्जरिका च (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: vedanta, vishhnu, krishna, stotra, shankarAchArya, vishnu
+Description-comments: combines charpaTapanjarikA and dvAdashapanjarikA, advice
+File name: bhajagovindam.itx
+Indexextra: (Versions, mohamudgaraH, Hindi, Full Audio)
+Language: Sanskrit
+Latest update: 1995, September 28, 2014, March 1, 2020
+Location: doc_vishhnu
+Proofread by: M. Giridhar, NA, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: bhajagovindam
+Texttype: stotra
+Translated by: M. Giridhar
+Transliterated by: M. Giridhar
+engtitle: bhaja govindam
+itxtitle: bhajagovindam athavA mohamudgaraH athavA dvAdashamanjarikA charpaTapanjarikA
+  cha (shaNkarAchAryavirachitam)
+title: भजगोविन्दम् अथवा मोहमुद्गरः अथवा द्वादशमञ्जरिका चर्पटपञ्जरिका च (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  भज गोविन्दं   
   
@@ -284,7 +285,7 @@ at the end of a hundred births.
   
 Stanza attributed to vArttikakAra (sureshvara).  
   
-सुरमंदिरतरुमूलनिवासः  
+सुरमन्दिरतरुमूलनिवासः  
 शय्या भूतलमजिनं वासः ।  
 सर्वपरिग्रहभोगत्यागः  
 कस्य सुखं न करोति विरागः ॥ १८॥   
@@ -668,7 +669,7 @@ as shankarabhagavat +charaNAH or pAdAH (plural for reverence)
 नियन्ता  = controller;  
 त्रिजगति  = in the three worlds;  
 सज्जन  = good people;  
-संगतिरेका  = sa.ngatiH+ekA, company+(only) one (way);  
+सङ्गतिरेका  = sa.ngatiH+ekA, company+(only) one (way);  
 भवति  = becomes;  
 भवार्णव  = bhava+arNava, birth and death+ocean;  
 तरणे  = in crossing;  
@@ -955,7 +956,7 @@ as oblation for the dead)
 अध्ययन  = study;  
 धुरिण  = awakened/aroused?;  
 श्रीमत्  = honourable prefix;  
-शंकर  = Shankara;  
+शङ्कर  = Shankara;  
 भगवत्  = God;  
 शिष्यैः  = disciples;  
 बोधित  = having been taught/enlightened;  

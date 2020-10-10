@@ -1,19 +1,19 @@
-+++
-"Text title" = "pashupatyAShTakaM"
-"File name" = "pashu8.itx"
-itxtitle = "pashupatyAShTakam"
-engtitle = "pashupatyAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पशुपत्याष्टकम्"
+---
+Category: aShTaka, shiva
+File name: pashu8.itx
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: pashupatyAShTakaM
+engtitle: pashupatyAShTakam
+itxtitle: pashupatyAShTakam
+title: पशुपत्याष्टकम्
 
-+++
+---
   
  पशुपत्याष्टकं   
   
@@ -52,7 +52,7 @@ title = "पशुपत्याष्टकम्"
   
 जगदुदीक्ष्य समीपभयाकुलं भजत रे मनुजा गिरिजापतिम् ॥ ७॥  
   
-हरिविरिञ्चिसुराधिंप  पूजितं यमजनेशधनेशनमस्कृतम् ॥  
+हरिविरिञ्चिसुराधिम्प  पूजितं यमजनेशधनेशनमस्कृतम् ॥  
   
 त्रिनयनं भुवन त्रितयाधिपं भजत रे मनुजा गिरिजापतिम् ॥ ८॥  
   

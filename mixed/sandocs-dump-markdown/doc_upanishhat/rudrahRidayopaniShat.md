@@ -1,23 +1,23 @@
-+++
-"Text title" = "Rudrahridaya Upanishad"
-"File name" = "rudrahridaya.itx"
-itxtitle = "rudrahRidayopaniShat"
-engtitle = "Rudrahridaya Upanishad"
-Category = "hRidaya, upanishhat, upanishad, shiva"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "85 / 108; Krishna Yajurveda - Shaiva upanishad"
-"Latest update" = "Mar. 29, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रहृइदयोपनिषत्"
+---
+Author: Vedic tradition
+Category: hRidaya, upanishhat, upanishad, shiva
+Description-comments: 85 / 108; Krishna Yajurveda - Shaiva upanishad
+File name: rudrahridaya.itx
+Language: Sanskrit
+Latest update: Mar. 29, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Rudrahridaya Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Rudrahridaya Upanishad
+itxtitle: rudrahRidayopaniShat
+title: रुद्रहृइदयोपनिषत्
 
-+++
+---
   
  रुद्रहृदयोपनिषत्   
   

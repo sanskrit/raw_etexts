@@ -3,7 +3,6 @@ title: 026 ताटकावधः
 title_english: 026 Elimination of demoness tATaka
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-026-Thaatakaavadhaha.mp3"></div>
 
 मुनेर्वचनमक्लीबं श्रुत्वा नरवरात्मजः।  

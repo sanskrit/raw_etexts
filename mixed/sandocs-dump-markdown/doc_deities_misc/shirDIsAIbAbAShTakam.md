@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Shirdi Saibaba Ashtakam"
-"File name" = "shirDIsAIbAbAShTakam.itx"
-itxtitle = "shirDIsAIbAbAShTakam"
-engtitle = "shirDIsAIbAbAShTakam"
-Category = "deities_misc, gurudev, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "January 19, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिर्डीसाईबाबाष्टकम्"
+---
+Category: deities_misc, gurudev, aShTaka
+File name: shirDIsAIbAbAShTakam.itx
+Language: Sanskrit
+Latest update: January 19, 2020
+Location: doc_deities_misc
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Shirdi Saibaba Ashtakam
+engtitle: shirDIsAIbAbAShTakam
+itxtitle: shirDIsAIbAbAShTakam
+title: शिर्डीसाईबाबाष्टकम्
 
-+++
+---
   
  श्रीशिर्डीसाईबाबाष्टकम्   
 पत्रग्रामसमुद्भूतं द्वारकामाई वासिनम् ।  

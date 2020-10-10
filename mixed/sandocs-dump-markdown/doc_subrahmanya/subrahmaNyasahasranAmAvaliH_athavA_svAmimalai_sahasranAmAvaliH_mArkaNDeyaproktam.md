@@ -1,23 +1,23 @@
-+++
-"Text title" = "subrahmaNyasahasranAmAvalI mArkaNDeyaproktam"
-"File name" = "subrahmaNyasahasranAmAvalImArkaNDeya.itx"
-itxtitle = "subrahmaNyasahasranAmAvaliH athavA svAmimalai sahasranAmAvaliH (mArkaNDeyaproktam)"
-engtitle = "subrahmaNyasahasranAmAvalI mArkaNDeyaproktam"
-Category = "sahasranAmAvalI, subrahmanya, nAmAvalI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-Source = "Subrahmanyastutimanjari p 214-226"
-"Latest update" = "November 16, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यसहस्रनामावलिः अथवा स्वामिमलै सहस्रनामावलिः (मार्कण्डेयप्रोक्तम्)"
+---
+Category: sahasranAmAvalI, subrahmanya, nAmAvalI
+File name: subrahmaNyasahasranAmAvalImArkaNDeya.itx
+Language: Sanskrit
+Latest update: November 16, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Subrahmanyastutimanjari p 214-226
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyasahasranAmAvalI mArkaNDeyaproktam
+Texttype: nAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: subrahmaNyasahasranAmAvalI mArkaNDeyaproktam
+itxtitle: subrahmaNyasahasranAmAvaliH athavA svAmimalai sahasranAmAvaliH (mArkaNDeyaproktam)
+title: सुब्रह्मण्यसहस्रनामावलिः अथवा स्वामिमलै सहस्रनामावलिः (मार्कण्डेयप्रोक्तम्)
 
-+++
+---
   
  श्रीसुब्रह्मण्यसहस्रनामावलिः मार्कण्डेयप्रोक्तम्   
   
@@ -746,7 +746,7 @@ title = "सुब्रह्मण्यसहस्रनामावलि�
 ॐ भाजनाय नमः ।  
 ॐ भोक्त्रे नमः ।  
 ॐ विश्वभोक्त्रे नमः ।  
-ॐ विशांपतये नमः ।  
+ॐ विशाम्पतये नमः ।  
 ॐ विश्वयोनये नमः ।  
 ॐ विशालाक्षाय नमः ।  
 ॐ विरागाय नमः ।  

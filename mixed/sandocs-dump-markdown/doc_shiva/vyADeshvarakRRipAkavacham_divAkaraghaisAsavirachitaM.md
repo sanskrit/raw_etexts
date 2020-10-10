@@ -1,23 +1,23 @@
-+++
-"Text title" = "VyAdeshvara Kripa Kavacham"
-"File name" = "vyADeshvarakRRipAkavacham.itx"
-itxtitle = "vyADeshvarakRRipAkavacham (divAkaraghaisAsavirachitaM)"
-engtitle = "vyADeshvarakRRipAkavacham"
-Category = "shiva, kavacha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Diwakar Anant Ghaisas guruji (Brihatstotraratnakara, Dhavale Prakashan)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(Info)"
-"Latest update" = "January 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "व्याडेश्वरकृपाकवचम् (दिवाकरघैसासविरचितं)"
+---
+Author: Diwakar Anant Ghaisas guruji (Brihatstotraratnakara, Dhavale Prakashan)
+Category: shiva, kavacha
+File name: vyADeshvarakRRipAkavacham.itx
+Indexextra: (Info)
+Language: Sanskrit
+Latest update: January 14, 2019
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: VyAdeshvara Kripa Kavacham
+Transliterated by: NA
+engtitle: vyADeshvarakRRipAkavacham
+itxtitle: vyADeshvarakRRipAkavacham (divAkaraghaisAsavirachitaM)
+title: व्याडेश्वरकृपाकवचम् (दिवाकरघैसासविरचितं)
 
-+++
+---
   
  श्रीव्याडेश्वरकृपाकवचम्   
 श्रीगणेशाय नमः ।  

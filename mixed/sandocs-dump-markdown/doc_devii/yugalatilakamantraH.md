@@ -1,21 +1,21 @@
-+++
-"Text title" = "yugalatilakamantraH"
-"File name" = "yugalatilakamantraH.itx"
-itxtitle = "yugalatilakamantraH"
-engtitle = "yugalatilakamantraH"
-Category = "devii, radha, krishna, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "sarasa stotrasangrahaH (Lucknow, 1909)"
-Indexextra = "(Scanned)"
-"Latest update" = "November 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "युगलतिलकमन्त्रः"
+---
+Category: devii, radha, krishna, devI
+Description-comments: sarasa stotrasangrahaH (Lucknow, 1909)
+File name: yugalatilakamantraH.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 4, 2017
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yugalatilakamantraH
+engtitle: yugalatilakamantraH
+itxtitle: yugalatilakamantraH
+title: युगलतिलकमन्त्रः
 
-+++
+---
   
  श्रीस्वधर्माबोधे श्रीयुगलतिलक मन्त्रःसङ्क्षेपतः   
 ॐ कं केशवाय कीर्त्यै नमो नमः । अङ्गुलचत्वारि ललाटे ॥ १॥  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "nArAyaNAShTakam"
-"File name" = "nArAyaNAShTaka.itx"
-itxtitle = "nArAyaNAShTakam"
-engtitle = "Narayana Ashtakam"
-Category = "aShTaka, vishhnu, narayana, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "narayana"
-Author = "Kuresha Swami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gayathri V vgayu at yahoo.com"
-"Proofread by" = "Gayathri V vgayu at yahoo.com"
-"Latest update" = "May 31, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणाष्टकम्"
+---
+Author: Kuresha Swami
+Category: aShTaka, vishhnu, narayana, vishnu
+File name: nArAyaNAShTaka.itx
+Language: Sanskrit
+Latest update: May 31, 2011
+Location: doc_vishhnu
+Proofread by: Gayathri V vgayu at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: narayana
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nArAyaNAShTakam
+Transliterated by: Gayathri V vgayu at yahoo.com
+engtitle: Narayana Ashtakam
+itxtitle: nArAyaNAShTakam
+title: नारायणाष्टकम्
 
-+++
+---
   
  नारायणाष्टकम्   
   
@@ -28,7 +28,7 @@ title = "नारायणाष्टकम्"
        प्रह्लादश्च विभीषणश्च करिराट् पाञ्चाल्यहल्याध्रुवः ॥ १॥  
   
 प्रह्लादास्ति यदीश्वरो वद हरिः सर्वत्र मे दर्शय  
-       स्तंभे चैवमिति ब्रुवन्तमसुरं तत्राविरासीद्धरिः ।  
+       स्तम्भे चैवमिति ब्रुवन्तमसुरं तत्राविरासीद्धरिः ।  
 वक्षस्तस्य विदारयन्निजनखैर्वात्सल्यमापादयन्-  
        नार्त्तत्राणपरायणः स भगवान्नारायणो मे गतिः ॥ २॥  
   
@@ -44,7 +44,7 @@ title = "नारायणाष्टकम्"
   
 भोः कृष्णाच्युतः भोः कृपालय हरे भोः पाण्डवानां सखे  
        क्वासि क्वासि सुयोधनाध्यपहृतां भो रक्ष मामातुराम् ।  
-इत्युक्त्तोऽक्षयवस्त्रसंभृततनुर्योऽपालयद्द्रौपदीम्-  
+इत्युक्त्तोऽक्षयवस्त्रसम्भृततनुर्योऽपालयद्द्रौपदीम्-  
        आर्त्तत्राणपरायणः स भगवान्नारायणो मे गतिः ॥ ५॥  
   
 यत्पादाब्जनखोदकं त्रिजगतां पापौघविध्वंसनं  
@@ -58,7 +58,7 @@ title = "नारायणाष्टकम्"
        ह्यार्त्तत्राणपरायणः  स भगवान्नारायणो मे गतिः ॥ ७॥  
   
 आर्त्ता विषण्णाः शिथिलाश्च भीता घोरेशु च व्याधिशु वर्तमानाः ।  
-संकीर्त्य नारायणशब्दमात्रं विमुक्तदुःखाः सुखिनो भवन्ति ॥ ८॥  
+सङ्कीर्त्य नारायणशब्दमात्रं विमुक्तदुःखाः सुखिनो भवन्ति ॥ ८॥  
   
 इति श्रीकूरेशस्वामिविरचितं नारायणाष्टकं सम्पूर्णम् ।  
   

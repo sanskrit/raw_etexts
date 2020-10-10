@@ -1,22 +1,22 @@
-+++
-"Text title" = "tArAprAtaHsmaraNam"
-"File name" = "tArAprAtaHsmaraNam.itx"
-itxtitle = "tArAprAtaHsmaraNam"
-engtitle = "tArAprAtaHsmaraNam"
-Category = "suprabhAta"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Indexextra = "(Translation)"
-"Latest update" = "August 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ताराप्रातःस्मरणम्"
+---
+Category: suprabhAta
+File name: tArAprAtaHsmaraNam.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: August 2, 2017
+Location: doc_devii
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tArAprAtaHsmaraNam
+engtitle: tArAprAtaHsmaraNam
+itxtitle: tArAprAtaHsmaraNam
+title: ताराप्रातःस्मरणम्
 
-+++
+---
   
  श्रीताराप्रातःस्मरणम्   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "nRisi.nhamaNgalam"
-"File name" = "nrisimhamangalam.itx"
-itxtitle = "nRisi.nhamaNgalam"
-engtitle = "nRisimhamangalam"
-Category = "vishhnu, dashAvatAra, stotra, vishnu, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "June 25, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहमण्गलम्"
+---
+Category: vishhnu, dashAvatAra, stotra, vishnu, mangala
+File name: nrisimhamangalam.itx
+Language: Sanskrit
+Latest update: June 25, 2012
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nRisi.nhamaNgalam
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: nRisimhamangalam
+itxtitle: nRisi.nhamaNgalam
+title: नृइसिंहमण्गलम्
 
-+++
+---
   
  श्रीनृसिंहमङ्गलम्   
   

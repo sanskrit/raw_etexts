@@ -1,25 +1,25 @@
-+++
-"Text title" = "Gayatri Manjari"
-"File name" = "gAyatrI_manjarI.itx"
-itxtitle = "gAyatrImanjarI"
-engtitle = "Gayatri Manjari"
-Category = "devii, gAyatrI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Gayatri Mahavijnana -Pandit"
-"Latest update" = "Mar. 14, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीमञ्जरी"
+---
+Author: Traditional
+Category: devii, gAyatrI, stotra, devI
+File name: gAyatrI_manjarI.itx
+Language: Sanskrit
+Latest update: Mar. 14, 2014
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Gayatri Mahavijnana -Pandit
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gayatri Manjari
+Texttype: stotra
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Gayatri Manjari
+itxtitle: gAyatrImanjarI
+title: गायत्रीमञ्जरी
 
-+++
+---
   
  गायत्री मञ्जरी   
   
@@ -51,7 +51,7 @@ title = "गायत्रीमञ्जरी"
 कृत्वा कृपां कृपालो त्वं किं रहस्यं तु मे वद ॥ ९॥  
   
 श्रुत्वा त्वेतन्महादेवः पार्वतीवचनं मृदु ।  
-तस्याः शंकामपाकुर्वन् प्रत्युवाच निजां प्रियाम् ॥ १०॥  
+तस्याः शङ्कामपाकुर्वन् प्रत्युवाच निजां प्रियाम् ॥ १०॥  
   
 गायत्र्यास्तु महाशक्तिर्विद्यते या हि भूतले ।  
 अनन्य भावतो ह्यस्मिन्नोतप्रोतोऽस्ति चात्मनि ॥ ११॥  
@@ -141,7 +141,7 @@ title = "गायत्रीमञ्जरी"
 उग्रं प्रचण्डमत्यन्तं वर्तते तन्त्र साधनम् ॥ ३९॥  
   
 अत एव तु तद्गुप्तं रक्षितं हि विचक्षणैः ।  
-स्याद्यतो दुरुपयोगो न कुपात्रैः कथंचन ॥ ४०॥  
+स्याद्यतो दुरुपयोगो न कुपात्रैः कथञ्चन ॥ ४०॥  
   
 गुरुणैव प्रिये विद्या तत्त्वं हृदि प्रकाश्यते ।  
 गुरुं विना तु सा विद्या सर्वथा निष्फला भवेत् ॥ ४१॥  

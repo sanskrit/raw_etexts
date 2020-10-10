@@ -1,22 +1,22 @@
-+++
-"File name" = "shrutigiitaa.itx"
-itxtitle = "shrutigItA"
-engtitle = "shrutigItA"
-Category = "gItA, giitaa, vyAsa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "Veda Vyasa"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Balaji Srinivasan"
-"Proofread by" = "Balaji Srinivasan"
-Description-comments = "This is from 10th skandha/canto, 87th adhyaaya verse 14-41"
-"Latest update" = "November 16, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रुतिगीता"
+---
+Author: Veda Vyasa
+Category: gItA, giitaa, vyAsa
+Description-comments: This is from 10th skandha/canto, 87th adhyaaya verse 14-41
+File name: shrutigiitaa.itx
+Language: Sanskrit
+Latest update: November 16, 2001
+Location: doc_giitaa
+Proofread by: Balaji Srinivasan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: giitaa
+Transliterated by: Balaji Srinivasan
+engtitle: shrutigItA
+itxtitle: shrutigItA
+title: श्रुतिगीता
 
-+++
+---
   
  श्रुतिगीता   
   

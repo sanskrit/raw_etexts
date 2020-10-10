@@ -1,23 +1,23 @@
-+++
-"Text title" = "herambopaniShat"
-"File name" = "herambopaniShat.itx"
-itxtitle = "herambopaniShat (shaiva)"
-engtitle = "herambopaniShat"
-Category = "upanishhat, ganesha, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH page 390"
-Indexextra = "(Scanned book)"
-"Latest update" = "December 18, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हेरम्बोपनिषत् (शैव)"
+---
+Category: upanishhat, ganesha, upanishad
+Description-comments: aprakAshitA upaniShadaH page 390
+File name: herambopaniShat.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: December 18, 2017
+Location: doc_upanishhat
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: herambopaniShat
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: herambopaniShat
+itxtitle: herambopaniShat (shaiva)
+title: हेरम्बोपनिषत् (शैव)
 
-+++
+---
   
  हेरम्बोपनिषत्   
   

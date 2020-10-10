@@ -1,23 +1,23 @@
-+++
-"Text title" = "Lakshmivemkateshvara Bhujanga Stotram"
-"File name" = "lakShmIveMkaTeshvarabhujangastotram.itx"
-itxtitle = "lakShmIveNkaTeshvarabhujaNgastotram"
-engtitle = "lakShmIveMkaTeshvarabhujangastotram"
-Category = "vishhnu, venkateshwara, bhujanga"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Author = "jagguru singarayyaNgara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "December 17, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीवेण्कटेश्वरभुजण्गस्तोत्रम्"
+---
+Author: jagguru singarayyaNgara
+Category: vishhnu, venkateshwara, bhujanga
+File name: lakShmIveMkaTeshvarabhujangastotram.itx
+Language: Sanskrit
+Latest update: December 17, 2018
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Lakshmivemkateshvara Bhujanga Stotram
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: lakShmIveMkaTeshvarabhujangastotram
+itxtitle: lakShmIveNkaTeshvarabhujaNgastotram
+title: लक्ष्मीवेण्कटेश्वरभुजण्गस्तोत्रम्
 
-+++
+---
   
   श्रीलक्ष्मीवेङ्कटेश्वरभुजङ्गस्तोत्रम्   
 भुजङ्गाचलाग्रस्थहेमालयान्त-  
@@ -70,7 +70,7 @@ title = "लक्ष्मीवेण्कटेश्वरभुजण्�
 नमो वेङ्कटाद्रिस्फुरत्कालमेघ  
      प्रपन्नार्तबन्धो नमस्तेऽस्तु नित्यम् ॥ १०॥  
   
-इति श्रीजग्गुरु सिंगरय्यङ्गरविरचितं  
+इति श्रीजग्गुरु सिङ्गरय्यङ्गरविरचितं  
        श्रीलक्ष्मीवेङ्कटेश्वरभुजङ्गस्तोत्रं सम्पूर्णम् ।  
   
 Encoded by Malleswara Rao Yellapragada malleswararaoy at yahoo.com  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "gajAnana stotra"
-"File name" = "gajAnanastotram.itx"
-itxtitle = "gajAnanastotram (jaya deva gajAnana)"
-engtitle = "gajAnana stotra"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakar"
-"Latest update" = "January 7, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गजाननस्तोत्रम् (जय देव गजानन)"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: Brihatstotraratnakar
+File name: gajAnanastotram.itx
+Language: Sanskrit
+Latest update: January 7, 2017
+Location: doc_ganesha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gajAnana stotra
+Texttype: stotra
+engtitle: gajAnana stotra
+itxtitle: gajAnanastotram (jaya deva gajAnana)
+title: गजाननस्तोत्रम् (जय देव गजानन)
 
-+++
+---
   
  श्रीगजाननस्तोत्रम्   
   

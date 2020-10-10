@@ -1,24 +1,25 @@
-+++
-"Text title" = "tavachintAsu Song from Sanskrit Movie Anurakthi"
-"File name" = "tavachintAsu.itx"
-itxtitle = "tavachintAsu (gItaM chalachchitra anurakti)"
-engtitle = "tavachintAsu Song from Sanskrit Movie Anurakthi"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Muraleedharan P"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vijith Nambiar kpvnambiar at gmail.com"
-"Proofread by" = "Vijith Nambiar kpvnambiar at gmail.com"
-"Description/comments" = "Movie : Anurakthi –Sanskrit feature film, Music : Kalamandalam Joy Cheruvathur"
-Indexextra = "(Song video, movie)"
-"Latest update" = "June 1, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तवचिन्तासु (गीतं चलच्चित्र अनुरक्ति)"
+---
+Author: Muraleedharan P
+Category: misc, sanskritgeet
+Description/comments: 'Movie : Anurakthi –Sanskrit feature film, Music : Kalamandalam
+  Joy Cheruvathur'
+File name: tavachintAsu.itx
+Indexextra: (Song video, movie)
+Language: Sanskrit
+Latest update: June 1, 2018
+Location: doc_z_misc_general
+Proofread by: Vijith Nambiar kpvnambiar at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: tavachintAsu Song from Sanskrit Movie Anurakthi
+Transliterated by: Vijith Nambiar kpvnambiar at gmail.com
+engtitle: tavachintAsu Song from Sanskrit Movie Anurakthi
+itxtitle: tavachintAsu (gItaM chalachchitra anurakti)
+title: तवचिन्तासु (गीतं चलच्चित्र अनुरक्ति)
 
-+++
+---
   
  तव चिन्तासु विलपति गीतं चलच्चित्र अनुरक्ति   
 तव चिन्तासु विलपति प्रणयो मे (Lost in your thoughts my love thrives)  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "veNkateshAShTakaM 2"
-"File name" = "venkaTeshAShTaka2.itx"
-itxtitle = "veNkaTeshAShTakam 2"
-engtitle = "ShrI Venkateshashtakam 2"
-Category = "aShTaka, vishhnu, venkateshwara, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Author = "vaTTepalle narakaNThIrava shAstri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com, Avinash Sathaye"
-"Latest update" = "August 8, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशाष्टकम् २"
+---
+Author: vaTTepalle narakaNThIrava shAstri
+Category: aShTaka, vishhnu, venkateshwara, vishnu
+File name: venkaTeshAShTaka2.itx
+Language: Sanskrit
+Latest update: August 8, 2012
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com, Avinash Sathaye
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veNkateshAShTakaM 2
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: ShrI Venkateshashtakam 2
+itxtitle: veNkaTeshAShTakam 2
+title: वेण्कटेशाष्टकम् २
 
-+++
+---
   
  श्रीवेङ्कटेशाष्टकम् २   
   

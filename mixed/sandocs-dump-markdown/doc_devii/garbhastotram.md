@@ -1,21 +1,21 @@
-+++
-"Text title" = "garbhastotram"
-"File name" = "garbhastotram.itx"
-itxtitle = "garbhastotram"
-engtitle = "garbhastotram"
-Category = "devii, devI, jaina"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गर्भस्तोत्रम्"
+---
+Category: devii, devI, jaina
+File name: garbhastotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: garbhastotram
+engtitle: garbhastotram
+itxtitle: garbhastotram
+title: गर्भस्तोत्रम्
 
-+++
+---
   
  श्रीगर्भस्तोत्रम्   
 ह्रीङ्कारोदरवाग्भवैकवसतिर्या कुण्डली कौलिनी  

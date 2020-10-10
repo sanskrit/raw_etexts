@@ -1,23 +1,23 @@
-+++
-"Text title" = "shukrastotram"
-"File name" = "shukrastotram.itx"
-itxtitle = "shukrastotram"
-engtitle = "shukrastotram"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-"Proofread by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-Description-comments = "From Grantha/Tamil book Adityadi Navagraha Stotra"
-"Latest update" = "June 28, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शुक्रस्तोत्रम्"
+---
+Category: navagraha, stotra
+Description-comments: From Grantha/Tamil book Adityadi Navagraha Stotra
+File name: shukrastotram.itx
+Language: Sanskrit
+Latest update: June 28, 2012
+Location: doc_z_misc_navagraha
+Proofread by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shukrastotram
+Texttype: stotra
+Transliterated by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+engtitle: shukrastotram
+itxtitle: shukrastotram
+title: शुक्रस्तोत्रम्
 
-+++
+---
   
  शुक्रस्तोत्रम्   
   

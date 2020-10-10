@@ -1,24 +1,24 @@
-+++
-"Text title" = "lalitaa paJNchakam.h"
-"File name" = "lalita5.itx"
-itxtitle = "lalitApanchakam lalitAprAtaHsmaraNaM cha"
-engtitle = "lalitApanchakam"
-Category = "panchaka, devii, dashamahAvidyA, lalitA, shankarAchArya, devI, suprabhAta"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Author = "shankarAchArya"
-Language = "Sanskrit"
-Subject = "Devotional"
-"Transliterated by" = "Kapila Shankaran"
-"Proofread by" = "Sowmya Ramkumar"
-"Latest update" = "Jan 30, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितापञ्चकम् ललिताप्रातःस्मरणं च"
+---
+Author: shankarAchArya
+Category: panchaka, devii, dashamahAvidyA, lalitA, shankarAchArya, devI, suprabhAta
+File name: lalita5.itx
+Language: Sanskrit
+Latest update: Jan 30, 1998
+Location: doc_devii
+Proofread by: Sowmya Ramkumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: Devotional
+Sublocation: devii
+Text title: lalitaa paJNchakam.h
+Transliterated by: Kapila Shankaran
+engtitle: lalitApanchakam
+itxtitle: lalitApanchakam lalitAprAtaHsmaraNaM cha
+title: ललितापञ्चकम् ललिताप्रातःस्मरणं च
 
-+++
+---
   
  श्रीललिता प्रातःस्तोत्रपञ्चकम्   
   

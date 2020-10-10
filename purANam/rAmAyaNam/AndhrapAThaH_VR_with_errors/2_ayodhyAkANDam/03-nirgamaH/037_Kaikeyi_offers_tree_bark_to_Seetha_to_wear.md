@@ -3,7 +3,6 @@ title: 037 Kaikeyi offers tree bark to Seetha to wear
 title_english: 037 Kaikeyi offers tree bark to Seetha to wear
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-037-Chira_Paridhanam.mp3"></div>
 
 महा मात्र वचः श्रुत्वा रामः दशरथम् तदा ।  
@@ -26,7 +25,7 @@ title_english: 037 Kaikeyi offers tree bark to Seetha to wear
 समीक्ष्य चीरम् सम्त्रस्ता पृषती वागुराम् इव ॥ २-३७-९  
 सा व्यपत्रपमाणा इव प्रतिगृह्य च दुर्मनाः ।  
 गन्धर्व राज प्रतिमम् भर्तारम् इदम् अब्रवीत् ॥ २-३७-१०  
-अश्रुसंपूर्ण्नेत्रा च धर्मज्ञा धर्मदर्शिनी ।  
+अश्रुसम्पूर्ण्नेत्रा च धर्मज्ञा धर्मदर्शिनी ।  
 गन्धर्वराजप्रतिमम् भर्तारमिदमब्रवीत् ॥ २-३७-११  
 कथम् नु चीरम् बध्नन्ति मुनयो वन वासिनः ।  
 इति ह्यकुशला सीता सामुमोह मुहुर्मुहुः ॥ २-३७-१२  

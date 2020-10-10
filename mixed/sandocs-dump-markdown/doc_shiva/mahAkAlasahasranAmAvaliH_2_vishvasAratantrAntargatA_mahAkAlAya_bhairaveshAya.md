@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Mahakala Sahasranamavali 2 1000 Names"
-"File name" = "mahAkAlasahasranAmAvaliH2.itx"
-itxtitle = "mahAkAlasahasranAmAvaliH 2 (vishvasAratantrAntargatA mahAkAlAya bhairaveshAya)"
-engtitle = "mahAkAlasahasranAmAvaliH 2"
-Category = "shiva, sahasranAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-Description-comments = "See corresponding stotra"
-Indexextra = "(Manuscript, stotra)"
-"Latest update" = "April 4, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालसहस्रनामावलिः २ (विश्वसारतन्त्रान्तर्गता महाकालाय भैरवेशाय)"
+---
+Category: shiva, sahasranAmAvalI
+Description-comments: See corresponding stotra
+File name: mahAkAlasahasranAmAvaliH2.itx
+Indexextra: (Manuscript, stotra)
+Language: Sanskrit
+Latest update: April 4, 2020
+Location: doc_shiva
+Proofread by: PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Mahakala Sahasranamavali 2 1000 Names
+engtitle: mahAkAlasahasranAmAvaliH 2
+itxtitle: mahAkAlasahasranAmAvaliH 2 (vishvasAratantrAntargatA mahAkAlAya bhairaveshAya)
+title: महाकालसहस्रनामावलिः २ (विश्वसारतन्त्रान्तर्गता महाकालाय भैरवेशाय)
 
-+++
+---
   
  श्रीमहाकालसहस्रनामावलिः   
 ॐ श्रीगणेशाय नमः ।  

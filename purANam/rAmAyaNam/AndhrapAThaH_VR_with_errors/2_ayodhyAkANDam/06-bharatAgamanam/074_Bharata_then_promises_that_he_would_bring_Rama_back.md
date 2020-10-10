@@ -3,7 +3,6 @@ title: 074 Bharata then promises that he would bring Rama back
 title_english: 074 Bharata then promises that he would bring Rama back
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-074-Kaikeyee_Garhanam.mp3"></div>
 
 ताम् तथा गर्हयित्वा तु मातरम् भरतः तदा ।  
@@ -50,7 +49,7 @@ title_english: 074 Bharata then promises that he would bring Rama back
 कुतः निमित्तः शोकः ते ब्रूहि सर्व हित एषिणि ॥ २-७४-२१  
 एवम् उक्ता तु सुरभिः सुर राजेन धीमता ।  
 पत्युवाच ततः धीरा वाक्यम् वाक्य विशारदा ॥ २-७४-२२  
-शान्तम् पातम् न वः किंचित् कुतश्चित् अमर अधिप ।  
+शान्तम् पातम् न वः किञ्चित् कुतश्चित् अमर अधिप ।  
 अहम् तु मग्नौ शोचामि स्व पुत्रौ विषमे स्थितौ ॥ २-७४-२३  
 एतौ दृष्ट्वा कृषौ दीनौ सूर्य रश्मि प्रतापिनौ ।  
 अर्ध्यमानौ बली वर्दौ कर्षकेण सुर अधिप ॥ २-७४-२४  

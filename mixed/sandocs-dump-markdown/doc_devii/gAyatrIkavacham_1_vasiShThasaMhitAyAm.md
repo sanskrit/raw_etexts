@@ -1,23 +1,23 @@
-+++
-"Text title" = "gAyatrI kavacham 1"
-"File name" = "gaayatriikavach.itx"
-itxtitle = "gAyatrIkavacham 1 (vasiShThasaMhitAyAm)"
-engtitle = "gAyatrI kavacham 1"
-Category = "kavacha, devii, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, PSA Easwaran"
-Description-comments = "vasiShTha saMhitA"
-"Latest update" = "August 17, 2004, April 7, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीकवचम् १ (वसिष्ठसंहितायाम्)"
+---
+Author: Traditional
+Category: kavacha, devii, gAyatrI, devI
+Description-comments: vasiShTha saMhitA
+File name: gaayatriikavach.itx
+Language: Sanskrit
+Latest update: August 17, 2004, April 7, 2017
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrI kavacham 1
+engtitle: gAyatrI kavacham 1
+itxtitle: gAyatrIkavacham 1 (vasiShThasaMhitAyAm)
+title: गायत्रीकवचम् १ (वसिष्ठसंहितायाम्)
 
-+++
+---
   
  श्रीगायत्रीकवचम् १   
   

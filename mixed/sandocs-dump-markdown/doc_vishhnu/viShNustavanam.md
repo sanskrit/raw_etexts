@@ -1,21 +1,21 @@
-+++
-"Text title" = "viShNustavanam"
-"File name" = "viShNustavanam.itx"
-itxtitle = "viShNustavanam"
-engtitle = "viShNustavanam"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तवनम्"
+---
+Category: vishhnu
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: viShNustavanam.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNustavanam
+engtitle: viShNustavanam
+itxtitle: viShNustavanam
+title: विष्णुस्तवनम्
 
-+++
+---
   
  श्रीविष्णुस्तवनम्   
 मेघश्यामं पीत-कौशेय-वासं  

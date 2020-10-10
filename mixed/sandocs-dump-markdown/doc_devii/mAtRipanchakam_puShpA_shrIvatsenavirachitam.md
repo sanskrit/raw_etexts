@@ -1,25 +1,25 @@
-+++
-"Text title" = "mAtRipanchakam"
-"File name" = "mAtRipanchakam.itx"
-itxtitle = "mAtRipanchakam (puShpA shrIvatsenavirachitam)"
-engtitle = "mAtRipanchakam"
-Category = "devii, puShpAshrIvatsan, panchaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातृइपञ्चकम् (पुष्पा श्रीवत्सेनविरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: devii, puShpAshrIvatsan, panchaka, devI
+File name: mAtRipanchakam.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 28, 2017
+Location: doc_devii
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mAtRipanchakam
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: mAtRipanchakam
+itxtitle: mAtRipanchakam (puShpA shrIvatsenavirachitam)
+title: मातृइपञ्चकम् (पुष्पा श्रीवत्सेनविरचितम्)
 
-+++
+---
   
  मातृपञ्चकम्   
                  ॐ  

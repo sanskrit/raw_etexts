@@ -1,25 +1,26 @@
-+++
-"Text title" = "abhIShTasUchanam"
-"File name" = "abhIShTasUchanam.itx"
-itxtitle = "abhIShTasUchanam (raghunAthadAsagosvAmivirachitam)"
-engtitle = "abhIShTasUchanam"
-Category = "devii, radha, raghunAthadAsagosvAmin, stavAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अभीष्टसूचनम् (रघुनाथदासगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: devii, radha, raghunAthadAsagosvAmin, stavAvalI, devI
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: abhIShTasUchanam.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: abhIShTasUchanam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: abhIShTasUchanam
+itxtitle: abhIShTasUchanam (raghunAthadAsagosvAmivirachitam)
+title: अभीष्टसूचनम् (रघुनाथदासगोस्वामिविरचितम्)
 
-+++
+---
   
  अभीष्टसूचनम्   
 आभीरपल्लीपतिपुत्रकान्ता-  

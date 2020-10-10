@@ -1,21 +1,22 @@
-+++
-"Text title" = "bhedabhangAbhidhAnastotram"
-"File name" = "bhedabhangAbhidhAnastotram.itx"
-itxtitle = "bhedabhaNgAbhidhAnastotram"
-engtitle = "bhedabhangAbhidhAnastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भेदभण्गाभिधानस्तोत्रम्"
+---
+Category: shiva
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: bhedabhangAbhidhAnastotram.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: bhedabhangAbhidhAnastotram
+engtitle: bhedabhangAbhidhAnastotram
+itxtitle: bhedabhaNgAbhidhAnastotram
+title: भेदभण्गाभिधानस्तोत्रम्
 
-+++
+---
   
  भेदभङ्गाभिधानस्तोत्रम्   
   
@@ -31,7 +32,7 @@ title = "भेदभण्गाभिधानस्तोत्रम्"
 जगद्भद्रहेतोर्धृतानेकरूपं शिवं व्याधिहर्तारमीशानमीडे ॥ ३॥  
   
 रमाजानकीरुक्मिणीजाम्बवत्याद्यनेकस्वशक्तिस्फुरद्वामभागम् ।  
-हृषीकेशरामाघशित्र्वादिसंज्ञं शिवं सर्वदातारमीशानमीडे ॥ ४॥  
+हृषीकेशरामाघशित्र्वादिसञ्ज्ञं शिवं सर्वदातारमीशानमीडे ॥ ४॥  
   
 धनाध्यक्षरूपेण ऋक्थान्यवन्तं कुबेरालकेशादिनामौघवन्तम् ।  
 पुलस्त्यान्वयोत्पत्तिभाजं विराजं शिवं द्रव्यदातारमीशानमीडे ॥ ५॥  

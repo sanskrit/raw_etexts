@@ -1,22 +1,22 @@
-+++
-"Text title" = "Five Names of Shiva"
-"File name" = "shivapanchanAmAni.itx"
-itxtitle = "shivapanchanAmAni"
-engtitle = "shivapanchanAmAni"
-Category = "shiva, nAmAvalI, pancha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "July 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवपञ्चनामानि"
+---
+Category: shiva, nAmAvalI, pancha
+File name: shivapanchanAmAni.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 17, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Five Names of Shiva
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: shivapanchanAmAni
+itxtitle: shivapanchanAmAni
+title: शिवपञ्चनामानि
 
-+++
+---
   
  शिवपञ्चनामानि   
 ॐ सद्योजाताय नमः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "shyAmAstutiH"
-"File name" = "shyAmAstutiH.itx"
-itxtitle = "shyAmAstutiH (rAjAnakavidyAdharavirachitA)"
-engtitle = "shyAmAstutiH"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Rajanaka Vidyadhar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Girdhari Lal Koul glkoul.18 at gmail.com"
-"Proofread by" = "Girdhari Lal Koul glkoul.18 at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 6, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्यामास्तुतिः (राजानकविद्याधरविरचिता)"
+---
+Author: Rajanaka Vidyadhar
+Category: devii, devI
+File name: shyAmAstutiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 6, 2019
+Location: doc_devii
+Proofread by: Girdhari Lal Koul glkoul.18 at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shyAmAstutiH
+Transliterated by: Girdhari Lal Koul glkoul.18 at gmail.com
+engtitle: shyAmAstutiH
+itxtitle: shyAmAstutiH (rAjAnakavidyAdharavirachitA)
+title: श्यामास्तुतिः (राजानकविद्याधरविरचिता)
 
-+++
+---
   
  श्रीश्यामास्तुतिः   
       श्री श्यामसुन्दर्यै नमः ।  
@@ -76,7 +76,7 @@ title = "श्यामास्तुतिः (राजानकविद्
 मोहान्धकारशमनी कालिका प्रीयतां मम ॥ १८॥  
   
 जयतु जयतु श्यामा कालमेघावभासा  
-     जयतु जयतु देवैः स्तूयमान पदांब्जा ।  
+     जयतु जयतु देवैः स्तूयमान पदाम्ब्जा ।  
 जयतु जयतु योगिहृत्कजान्तर्निर्विष्टा  
      जयतु जयतु माता कालिका कालहर्त्री ॥ १९॥  
   

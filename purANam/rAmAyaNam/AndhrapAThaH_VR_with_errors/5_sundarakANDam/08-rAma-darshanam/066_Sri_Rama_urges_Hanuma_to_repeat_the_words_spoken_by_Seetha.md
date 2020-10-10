@@ -3,7 +3,6 @@ title: 066 Sri Rama urges Hanuma to repeat the words spoken by Seetha
 title_english: 066 Sri Rama urges Hanuma to repeat the words spoken by Seetha
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-066-urges_Hanuma,_to_repeat_the_words_spoken_by_Seetha..mp3"></div>
 
 एवम् उक्तो हनुमता रामो दशरथ आत्मजः ।  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "Laghu Vakya Vritti"
-"File name" = "laghuvak.itx"
-itxtitle = "laghuvAkyavRittiH"
-engtitle = "Laghu-Vakya-Vritti"
-Category = "shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Texttype = "pramukha"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "vedanta/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail)"
-"Translated by" = "-"
-Description-comments = "Abridged version of Vakyavritti"
-"Latest update" = "Mar. 28, 2002 [Phalgun Pournima - 'Holi']"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लघुवाक्यवृइत्तिः"
+---
+Author: Adi Shankaracharya
+Category: shankarAchArya
+Description-comments: Abridged version of Vakyavritti
+File name: laghuvak.itx
+Language: Sanskrit
+Latest update: Mar. 28, 2002 [Phalgun Pournima - 'Holi']
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi (sunderh at hotmail)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: vedanta/hinduism/religion
+Sublocation: shankara
+Text title: Laghu Vakya Vritti
+Texttype: pramukha
+Translated by: '-'
+Transliterated by: Sunder Hattangadi (sunderh at hotmail)
+engtitle: Laghu-Vakya-Vritti
+itxtitle: laghuvAkyavRittiH
+title: लघुवाक्यवृइत्तिः
 
-+++
+---
   
  लघुवाक्यवृत्तिः   
   

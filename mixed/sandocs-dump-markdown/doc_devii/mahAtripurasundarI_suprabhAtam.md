@@ -1,22 +1,22 @@
-+++
-"Text title" = "mahaatripurasundarii suprabhaatam"
-"File name" = "tripurasupra.itx"
-itxtitle = "mahAtripurasundarI suprabhAtam"
-engtitle = "mahAtripurasundarI suprabhAtam"
-Category = "suprabhAta, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda harshanand_16 at rediffmail.com"
-"Latest update" = "April 15, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महात्रिपुरसुन्दरी सुप्रभातम्"
+---
+Author: Traditional
+Category: suprabhAta, devii, dashamahAvidyA, devI
+File name: tripurasupra.itx
+Language: Sanskrit
+Latest update: April 15, 2002
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahaatripurasundarii suprabhaatam
+Transliterated by: R. Harshananda harshanand_16 at rediffmail.com
+engtitle: mahAtripurasundarI suprabhAtam
+itxtitle: mahAtripurasundarI suprabhAtam
+title: महात्रिपुरसुन्दरी सुप्रभातम्
 
-+++
+---
   
  श्रीमहात्रिपुरसुन्दरी सुप्रभातम्   
   
@@ -35,7 +35,7 @@ title = "महात्रिपुरसुन्दरी सुप्रभ�
 निद्रा न ते त्रिजगदीश्वरि विष्णुमाये  
 सृष्टिस्थितिप्रलय केलिषु सऽंस्थितायाः ।  
 मन्मोहपाश निगडस्य विमोक्षणाय  
-सऽंप्रार्थ्यसे जननि मङ्गलसूक्तिभिस्त्वम् ॥  
+सऽम्प्रार्थ्यसे जननि मङ्गलसूक्तिभिस्त्वम् ॥  
   
 कल्याणशैलनिलये करुणार्णवे श्री  
 कामेश्वराङ्कनिहिते कलिदोषहन्त्री ।  

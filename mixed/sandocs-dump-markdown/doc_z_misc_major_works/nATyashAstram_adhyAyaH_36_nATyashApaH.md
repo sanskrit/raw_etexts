@@ -1,23 +1,24 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 36 naaTyashaapaH"
-"File name" = "natya36.itx"
-itxtitle = "nATyashAstram adhyAyaH 36 nATyashApaH"
-engtitle = "Natya Shastra Chapter 36"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture/Dance/Drama"
-"Transliterated by" = "Sowmya Krishnapur krsowmya at yahoo.com"
-"Proofread by" = "Sowmya Krishnapur krsowmya at yahoo.com    are needed for devanaagarii output and formatting."
-"Latest update" = "January 16, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः ३६ नाट्यशापः"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya36.itx
+Language: Sanskrit
+Latest update: January 16, 2007
+Location: doc_z_misc_major_works
+Proofread by: Sowmya Krishnapur krsowmya at yahoo.com    are needed for devanaagarii
+  output and formatting.
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture/Dance/Drama
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 36 naaTyashaapaH
+Texttype: pramukha
+Transliterated by: Sowmya Krishnapur krsowmya at yahoo.com
+engtitle: Natya Shastra Chapter 36
+itxtitle: nATyashAstram adhyAyaH 36 nATyashApaH
+title: नाट्यशास्त्रम् अध्यायः ३६ नाट्यशापः
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः ३६ नाट्यशापः   
   
@@ -64,7 +65,7 @@ title = "नाट्यशास्त्रम् अध्यायः ३६
 कस्माच्चैव पुनः शौचं सम्यक् चरति सूत्रदृक् ।  
 कथमुर्वीतले नाट्यं स्वर्गान्निपतितं विभो ॥ १३॥  
   
-कथं तवायं वंशश्च नटसंज्ञः प्रतिष्ठितः ।  
+कथं तवायं वंशश्च नटसञ्ज्ञः प्रतिष्ठितः ।  
 सर्वमेव यथातत्त्वं कथयस्व महामुने ॥ १४॥  
   
 तेषं तु वचनं श्रुत्वा मुनीनां भरतो मुनिः ।  

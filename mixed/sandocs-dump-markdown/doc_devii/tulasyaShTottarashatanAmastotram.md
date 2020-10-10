@@ -1,22 +1,22 @@
-+++
-"Text title" = "tulasyaShTottarashatanAmastotram"
-"File name" = "tulasyaShTottarashatanAmastotram.itx"
-itxtitle = "tulasyaShTottarashatanAmastotram"
-engtitle = "tulasyaShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar, PSA Easwaran"
-"Latest update" = "August 28, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलस्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, devii, otherforms, devI
+File name: tulasyaShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: August 28, 2017
+Location: doc_devii
+Proofread by: Shree Devi Kumar, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulasyaShTottarashatanAmastotram
+Transliterated by: Shree Devi Kumar
+engtitle: tulasyaShTottarashatanAmastotram
+itxtitle: tulasyaShTottarashatanAmastotram
+title: तुलस्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  तुलस्यष्टोत्तरशतनामस्तोत्रम्   
 ॥ तुलस्यष्टोत्तरशतनामस्तोत्रम् ॥  

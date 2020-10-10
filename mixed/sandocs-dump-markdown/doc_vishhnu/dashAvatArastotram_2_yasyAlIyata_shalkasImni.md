@@ -1,25 +1,25 @@
-+++
-"Text title" = "DashAvatArastotram 2"
-"File name" = "dashAvatArastotra2.itx"
-itxtitle = "dashAvatArastotram 2 (yasyAlIyata shalkasImni)"
-engtitle = "DashAvatArastotram 2"
-Category = "vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal, NA"
-Description-comments = "Brihatstotraratnak 464, p 534"
-Indexextra = "(yasyAlIyata)"
-"Latest update" = "January 3, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतारस्तोत्रम् २ (यस्यालीयत शल्कसीम्नि)"
+---
+Category: vishhnu, dashAvatAra, stotra, vishnu
+Description-comments: Brihatstotraratnak 464, p 534
+File name: dashAvatArastotra2.itx
+Indexextra: (yasyAlIyata)
+Language: Sanskrit
+Latest update: January 3, 2014
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: DashAvatArastotram 2
+Texttype: stotra
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: DashAvatArastotram 2
+itxtitle: dashAvatArastotram 2 (yasyAlIyata shalkasImni)
+title: दशावतारस्तोत्रम् २ (यस्यालीयत शल्कसीम्नि)
 
-+++
+---
   
  दशावतारस्तोत्रम् २   
 यस्यालीयत शल्कसीम्नि जलधिः पृष्ठे जगन्मण्डलं  

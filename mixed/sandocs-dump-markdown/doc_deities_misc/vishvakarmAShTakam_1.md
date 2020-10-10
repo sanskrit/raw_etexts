@@ -1,21 +1,21 @@
-+++
-"Text title" = "vishvakarmAShTakam 1"
-"File name" = "vishvakarmAShTakam1.itx"
-itxtitle = "vishvakarmAShTakam 1"
-engtitle = "vishvakarmAShTakam 1"
-Category = "aShTaka, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi, PSA Easwaran"
-Indexextra = "(stotra)"
-"Latest update" = "July 8, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वकर्माष्टकम् १"
+---
+Category: aShTaka, deities_misc
+File name: vishvakarmAShTakam1.itx
+Indexextra: (stotra)
+Language: Sanskrit
+Latest update: July 8, 2017
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vishvakarmAShTakam 1
+engtitle: vishvakarmAShTakam 1
+itxtitle: vishvakarmAShTakam 1
+title: विश्वकर्माष्टकम् १
 
-+++
+---
   
  विश्वकर्माष्टकम् १   
   

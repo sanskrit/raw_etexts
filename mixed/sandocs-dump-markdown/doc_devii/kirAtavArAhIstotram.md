@@ -1,20 +1,20 @@
-+++
-"Text title" = "Kirata Varahi Stotram"
-"File name" = "kirAtavArAhIstotram.itx"
-itxtitle = "kirAtavArAhIstotram"
-engtitle = "kirAtavArAhIstotram"
-Category = "devii, devI, otherforms"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Telugu)"
-"Latest update" = "July 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "किरातवाराहीस्तोत्रम्"
+---
+Category: devii, devI, otherforms
+File name: kirAtavArAhIstotram.itx
+Indexextra: (Telugu)
+Language: Sanskrit
+Latest update: July 7, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kirata Varahi Stotram
+engtitle: kirAtavArAhIstotram
+itxtitle: kirAtavArAhIstotram
+title: किरातवाराहीस्तोत्रम्
 
-+++
+---
   
  श्रीकिरातवाराहीस्तोत्रम्   
 अस्य श्रीकिरातवाराहीस्तोत्रमहामन्त्रस्य  
@@ -75,7 +75,7 @@ title = "किरातवाराहीस्तोत्रम्"
 शत्रुग्रामगृहान्देशान्राष्ट्रान्यपि च सर्वदा ॥ १७॥  
   
 उच्चाटयाशु वाराहि वृकवत्प्रमथाशु तान् ।  
-अमुकामुकसंज्ञांश्च शत्रूणां च परस्परम् ॥ १८॥  
+अमुकामुकसञ्ज्ञांश्च शत्रूणां च परस्परम् ॥ १८॥  
   
 विद्वेषय महादेवि कुर्वन्तं मे प्रयोजनम् ।  
 यथा नश्यन्ति रिपवस्तथा विद्वेषणं कुरु ॥ १९॥  

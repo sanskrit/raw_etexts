@@ -1,20 +1,20 @@
-+++
-"Text title" = "21 names of Mahaganapati"
-"File name" = "mahAgaNapatyekaviMshatinAmAvalI.itx"
-itxtitle = "mahAgaNapatyekaviMshatinAmAvalI"
-engtitle = "mahAgaNapatyekaviMshatinAmAvalI"
-Category = "ganesha, viMshati, nAmAvalI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Scan)"
-"Latest update" = "January 25, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महागणपत्येकविंशतिनामावली"
+---
+Category: ganesha, viMshati, nAmAvalI
+File name: mahAgaNapatyekaviMshatinAmAvalI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 25, 2019
+Location: doc_ganesha
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: 21 names of Mahaganapati
+engtitle: mahAgaNapatyekaviMshatinAmAvalI
+itxtitle: mahAgaNapatyekaviMshatinAmAvalI
+title: महागणपत्येकविंशतिनामावली
 
-+++
+---
   
  महागणपत्येकविंशतिनामावलिः   
 ॐ गणञ्जाय नमः ।  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "Gangamritastotram"
-"File name" = "gangAmRRitastotram.itx"
-itxtitle = "gaNgAmRitastotram (rAmachandrasharmabAlAjIvirachitam)"
-engtitle = "gangAmRRitastotram"
-Category = "devii, devI, nadI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Ramachandra Sharma Balaji"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Proofread by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Description/comments" = "Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty"
-Indexextra = "(Scan)"
-"Latest update" = "December 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गामृइतस्तोत्रम् (रामचन्द्रशर्मबालाजीविरचितम्)"
+---
+Author: Ramachandra Sharma Balaji
+Category: devii, devI, nadI
+Description/comments: Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty
+File name: gangAmRRitastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 7, 2019
+Location: doc_devii
+Proofread by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangamritastotram
+Transliterated by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+engtitle: gangAmRRitastotram
+itxtitle: gaNgAmRitastotram (rAmachandrasharmabAlAjIvirachitam)
+title: गण्गामृइतस्तोत्रम् (रामचन्द्रशर्मबालाजीविरचितम्)
 
-+++
+---
   
  गङ्गामृतस्तोत्रम्   
 श्रीगणेशाय नमः ।  

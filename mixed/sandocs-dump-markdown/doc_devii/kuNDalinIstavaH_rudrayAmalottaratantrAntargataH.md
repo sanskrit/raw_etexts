@@ -1,32 +1,32 @@
-+++
-"Text title" = "kuNDalinIstavaH rudrayAmalottaratantrArgatam"
-"File name" = "kuNDalinIstava.itx"
-itxtitle = "kuNDalinIstavaH (rudrayAmalottaratantrAntargataH)"
-engtitle = "Kundalinistava from Rudrayamala uttaratantra"
-Category = "devii, ShaTchakrashakti, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Description-comments = "RudrayAmala uttaratantra paTalaH 6"
-Indexextra = "(Marathi)"
-"Latest update" = "March 29, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुण्डलिनीस्तवः (रुद्रयामलोत्तरतन्त्रान्तर्गतः)"
+---
+Category: devii, ShaTchakrashakti, stotra, devI
+Description-comments: RudrayAmala uttaratantra paTalaH 6
+File name: kuNDalinIstava.itx
+Indexextra: (Marathi)
+Language: Sanskrit
+Latest update: March 29, 2013
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kuNDalinIstavaH rudrayAmalottaratantrArgatam
+Texttype: stotra
+Transliterated by: DPD
+engtitle: Kundalinistava from Rudrayamala uttaratantra
+itxtitle: kuNDalinIstavaH (rudrayAmalottaratantrAntargataH)
+title: कुण्डलिनीस्तवः (रुद्रयामलोत्तरतन्त्रान्तर्गतः)
 
-+++
+---
   
  कुण्डलिनीस्तवः रुद्रयामलोत्तरतन्त्रान्तर्गतम्   
 कुण्डलिनीस्तुतिस्तोत्रः  
   
 जन्मोद्धारनिरीक्षणीहतरुणी वेदादिबीजादिमा  
 नित्यं चेतसि भाव्यते भुवि कदा सद्वाक्यसञ्चारिणी ।  
-मां पातु प्रियदासभावकपदं संन्घातये श्रीधरा  
+मां पातु प्रियदासभावकपदं सन्न्घातये श्रीधरा  
 धात्रि त्वं स्वयमादिदेववनिता दीनातिदीनं पशुम् ॥ ६-२९॥  
   
 रक्ताभामृतचन्द्रिका लिपिमयी सर्पाकृतिर्निद्रिता  
@@ -42,7 +42,7 @@ title = "कुण्डलिनीस्तवः (रुद्रयामल
 वाय्वाकाशचतुर्दलेऽतिविमले वाञ्छाफलान्यालके  
 नित्यं सम्प्रति नित्यदेहघटिता शाङ्केतिताभाविता ।  
 विद्याकुण्डलमालिनी स्वजननी मायाक्रिया भाव्यते  
-यैस्तैः सिद्धकुलोद्भवैः प्रणतिभिः सत्स्तोत्रकैः शंभुभिः ॥ ६-३२॥  
+यैस्तैः सिद्धकुलोद्भवैः प्रणतिभिः सत्स्तोत्रकैः शम्भुभिः ॥ ६-३२॥  
   
 धाताशङ्कर मोहिनीत्रिभुवनच्छायापटोद्गामिनी  
 संसारादिमहासुखप्रहरणी तत्रस्थिता योगिनी ।  
@@ -51,8 +51,8 @@ title = "कुण्डलिनीस्तवः (रुद्रयामल
   
 वन्दे श्रीकुलकुण्डलीत्रिवलिभिः साङ्गैः स्वयम्भूं प्रियम्  
 प्रावेष्ट्याम्बरमार्गचित्तचपला बालाबलानिष्कला ।  
-या देवी परिभाति वेदवचना संभाविनी तापिनी  
-इष्टानां शिरसि स्वयम्भुवनितां संभावयामि क्रियाम् ॥ ६-३४॥  
+या देवी परिभाति वेदवचना सम्भाविनी तापिनी  
+इष्टानां शिरसि स्वयम्भुवनितां सम्भावयामि क्रियाम् ॥ ६-३४॥  
   
 वाणीकोटिमृदङ्गनादमदनानिश्रेणिकोटिध्वनिः  
 प्राणेशीरसराशिमूलकमलोल्लासैकपूर्णानना ।  

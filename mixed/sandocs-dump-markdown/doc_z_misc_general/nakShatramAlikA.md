@@ -1,22 +1,22 @@
-+++
-"Text title" = "Nakshatramalika"
-"File name" = "nakShatramAlikA.itx"
-itxtitle = "nakShatramAlikA"
-engtitle = "nakShatramAlikA"
-Category = "misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Ramanuja Stotramala"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नक्षत्रमालिका"
+---
+Category: misc
+Description/comments: Ramanuja Stotramala
+File name: nakShatramAlikA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Nakshatramalika
+engtitle: nakShatramAlikA
+itxtitle: nakShatramAlikA
+title: नक्षत्रमालिका
 
-+++
+---
   
  नक्षत्रमालिका   
 श्रीमदभिरामवरगुरुभिरनुगृहीता  

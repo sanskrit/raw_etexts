@@ -1,21 +1,21 @@
-+++
-"Text title" = "dhvanyaloka udyota 4"
-"File name" = "dhvanyaloka4.itx"
-itxtitle = "dhvanyAlokaH 4"
-engtitle = "dhvanyAlokaH 4"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Language = "Sanskrit"
-"Transliterated by" = "Rajani rajni_arjun at yahoo.com"
-"Proofread by" = "Rajani rajni_arjun at yahoo.com"
-"Latest update" = "January 4, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ध्वन्यालोकः ४"
+---
+Category: major_works
+File name: dhvanyaloka4.itx
+Language: Sanskrit
+Latest update: January 4, 2002
+Location: doc_z_misc_major_works
+Proofread by: Rajani rajni_arjun at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Sublocation: major_works
+Text title: dhvanyaloka udyota 4
+Texttype: pramukha
+Transliterated by: Rajani rajni_arjun at yahoo.com
+engtitle: dhvanyAlokaH 4
+itxtitle: dhvanyAlokaH 4
+title: ध्वन्यालोकः ४
 
-+++
+---
   
  ध्वन्यालोकः ४   
   
@@ -75,7 +75,7 @@ title = "ध्वन्यालोकः ४"
 बहुविस्तारोऽयं रसभावतदाभासतत्प्रशमलक्षणो मार्गो यथास्वं  
 विभावानुभावप्रभेदकलनया यथोक्तं प्राक् । स सर्व एवानया युक्त्यानु-  
 सर्तव्यः । यस्य रसादेराश्रयादयं काव्यमार्गः पुरातनैः कविभिः सहस्र-  
-संख्यैरसंख्यैर्वा बहुप्रकारं क्षुण्णत्वान्मितोऽप्यनन्ततामेति । रसभावा-  
+सङ्ख्यैरसङ्ख्यैर्वा बहुप्रकारं क्षुण्णत्वान्मितोऽप्यनन्ततामेति । रसभावा-  
 दीनां हि प्रत्येकं विभावानुभावव्यभिचारिसमाश्रयादपरिमितत्वम् ।  
 तेषां चैकैकप्रभेदापेक्षयापि तावज्जगद्वृत्तमुपनिबध्यमानं सुकविभिस्त-  
 दिच्छावशादन्यथा स्थितमप्यन्यथैव विवर्तते । प्रतिपादितं चैतच्चित्र-  

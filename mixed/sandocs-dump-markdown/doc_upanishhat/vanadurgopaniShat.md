@@ -1,22 +1,22 @@
-+++
-"Text title" = "vanadurgopaniShat"
-"File name" = "vanadurgopaniShat.itx"
-itxtitle = "vanadurgopaniShat"
-engtitle = "vanadurgopaniShat"
-Category = "upanishhat"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jayashree Sreeraman shrimajay at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned book)"
-"Latest update" = "October 6, 2017, October 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वनदुर्गोपनिषत्"
+---
+Category: upanishhat
+Description-comments: aprakAshitA upaniShadaH
+File name: vanadurgopaniShat.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: October 6, 2017, October 6, 2018
+Location: doc_upanishhat
+Proofread by: Jayashree Sreeraman shrimajay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: vanadurgopaniShat
+engtitle: vanadurgopaniShat
+itxtitle: vanadurgopaniShat
+title: वनदुर्गोपनिषत्
 
-+++
+---
   
  वनदुर्गोपनिषत्   
   

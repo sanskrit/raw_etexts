@@ -3,7 +3,6 @@ title: 029 सिद्धाश्रमगमनम्
 title_english: 029 Legend of siddha Ashrama
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-029-Sidhdha_Shrama_Gamanam.mp3"></div>
 
 अथ तस्याप्रमेयस्य तद्वनं परिपृच्छतः।  

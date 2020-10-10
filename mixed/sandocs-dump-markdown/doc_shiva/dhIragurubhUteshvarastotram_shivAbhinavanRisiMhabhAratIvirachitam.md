@@ -1,22 +1,22 @@
-+++
-"Text title" = "dhIragurubhUteshvarastotram"
-"File name" = "dhIragurubhUteshvarastotram.itx"
-itxtitle = "dhIragurubhUteshvarastotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "dhIragurubhUteshvarastotram"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धीरगुरुभूतेश्वरस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: dhIragurubhUteshvarastotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: dhIragurubhUteshvarastotram
+engtitle: dhIragurubhUteshvarastotram
+itxtitle: dhIragurubhUteshvarastotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: धीरगुरुभूतेश्वरस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीधीरगुरुभूतेश्वरस्तोत्रम्   
 माङ्गल्यदाननिरतप्रणमज्जनानां  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Gajanana Maharaj Ashtottarashata Namavali 1 108 names"
-"File name" = "gajAnanamahArAjAShTottarashatanAmAvaliH1.itx"
-itxtitle = "gajAnanamahArAjaaShTottarashatanAmAvali 1 (shegAMvanivAsI)"
-engtitle = "108 names (1) of Shri Gajanana Maharaj from Shegao, Maharashtra"
-Category = "aShTottarashatanAmAvali, deities_misc, nAmAvalI, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Indexextra = "(Video, Audio)"
-"Latest update" = "February 24, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गजाननमहाराजाष्टोत्तरशतनामावलि १ (शेगांवनिवासी)"
+---
+Category: aShTottarashatanAmAvali, deities_misc, nAmAvalI, gurudev
+File name: gajAnanamahArAjAShTottarashatanAmAvaliH1.itx
+Indexextra: (Video, Audio)
+Language: Sanskrit
+Latest update: February 24, 2019
+Location: doc_deities_misc
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Gajanana Maharaj Ashtottarashata Namavali 1 108 names
+engtitle: 108 names (1) of Shri Gajanana Maharaj from Shegao, Maharashtra
+itxtitle: gajAnanamahArAjaaShTottarashatanAmAvali 1 (shegAMvanivAsI)
+title: गजाननमहाराजाष्टोत्तरशतनामावलि १ (शेगांवनिवासी)
 
-+++
+---
   
  श्रीगजाननमहाराजाष्टोत्तरशतनामावलिः १   
 ॐ अक्षयसुखाय नमः ।  
@@ -78,7 +78,7 @@ title = "गजाननमहाराजाष्टोत्तरशतन�
 ॐ द्रां दत्तातेयाय नमः ।  
 ॐ दिव्याय नमः ।  
 ॐ दिगम्बराय नमः ।  
-ॐ दुःखभंजनाय नमः । ६०  
+ॐ दुःखभञ्जनाय नमः । ६०  
 ॐ देवाधिदेवाय नमः ।  
 ॐ धर्मरक्षकाय नमः ।  
 ॐ नग्नाऽवधूताय नमः ।  

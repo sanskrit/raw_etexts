@@ -1,21 +1,21 @@
-+++
-"Text title" = "parApraveshikAkShemarAja"
-"File name" = "parApraveshikAkShemarAja.itx"
-itxtitle = "parApraveshikA (kShemarAjavirachitA)"
-engtitle = "parApraveshikAkShemarAja"
-Category = "shiva, major_works"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Swamini Tattvapriyananda tattvapriya3108 at gmail.com"
-Indexextra = "(Scanned, English, Hindi 1, 2)"
-"Latest update" = "October 20, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पराप्रवेशिका (क्षेमराजविरचिता)"
+---
+Category: shiva, major_works
+File name: parApraveshikAkShemarAja.itx
+Indexextra: (Scanned, English, Hindi 1, 2)
+Language: Sanskrit
+Latest update: October 20, 2019
+Location: doc_shiva
+Proofread by: Swamini Tattvapriyananda tattvapriya3108 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: parApraveshikAkShemarAja
+engtitle: parApraveshikAkShemarAja
+itxtitle: parApraveshikA (kShemarAjavirachitA)
+title: पराप्रवेशिका (क्षेमराजविरचिता)
 
-+++
+---
   
  पराप्रवेशिका   
 ॐ नमः पराशक्त्यै ॥  
@@ -69,7 +69,7 @@ title = "पराप्रवेशिका (क्षेमराजविर
 स्वस्वरूपेषु भेदभावप्रथा माया ॥ ६॥  
   
 यदा तु परमेश्वरः पारमेश्वर्या मायाशक्त्या स्वरूपं गृहयित्वा  
-सङ्कुचितग्राहकतामश्नुते तदा पुरुषसंज्ञोऽयमेव मायामोहितः  
+सङ्कुचितग्राहकतामश्नुते तदा पुरुषसञ्ज्ञोऽयमेव मायामोहितः  
 कर्मबन्धनः संसारी परमेश्वरादभिन्नोऽप्यस्य मोहः परमेश्वरस्य  
 न भवेत् । इन्द्रजालमिव ऐन्द्रजालिकस्य स्वेच्छया सम्पादितभ्रान्तेः  
 भ्रान्त एव र्विद्याभिज्ञातेश्वर्यस्तु चिद्घनो मुक्तः परमशिवः ।  

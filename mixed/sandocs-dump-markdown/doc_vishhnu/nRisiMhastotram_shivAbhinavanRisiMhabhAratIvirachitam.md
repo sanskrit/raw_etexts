@@ -1,22 +1,22 @@
-+++
-"Text title" = "nRRisiMhastotram"
-"File name" = "nRRisiMhastotram.itx"
-itxtitle = "nRisiMhastotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "nRRisiMhastotram"
-Category = "vishhnu, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: vishhnu, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: nRRisiMhastotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nRRisiMhastotram
+engtitle: nRRisiMhastotram
+itxtitle: nRisiMhastotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: नृइसिंहस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीनृसिंहस्तोत्रम्   
 शैलाग्रावासलोलः प्रणतजनसुखापारवाराशिसोमः  

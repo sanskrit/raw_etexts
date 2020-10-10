@@ -1,24 +1,24 @@
-+++
-"Text title" = "Lakshmi Nrisimha Mangalam"
-"File name" = "lakShmInRRisiMhamangalam.itx"
-itxtitle = "lakShmInRRisiMhamaNgalam"
-engtitle = "Laxhmi Nrisimha Mangalam"
-Category = "vishhnu, dashAvatAra, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu, NA, PSA Easwaran"
-"Description/comments" = "shodhagangA thesis about Nrisimha cult Appendix 1"
-Indexextra = "(thesis)"
-"Latest update" = "July 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनृसिंहमण्गलम्"
+---
+Category: vishhnu, dashAvatAra, mangala
+Description/comments: shodhagangA thesis about Nrisimha cult Appendix 1
+File name: lakShmInRRisiMhamangalam.itx
+Indexextra: (thesis)
+Language: Sanskrit
+Latest update: July 13, 2018
+Location: doc_vishhnu
+Proofread by: Ganesh Kandu, NA, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Lakshmi Nrisimha Mangalam
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: Laxhmi Nrisimha Mangalam
+itxtitle: lakShmInRRisiMhamaNgalam
+title: लक्ष्मीनृसिंहमण्गलम्
 
-+++
+---
   
  श्रीलक्ष्मीनृसिंहमङ्गलम्   
 अपारकरुणासिन्धो निवारणपरानिमान् ।  

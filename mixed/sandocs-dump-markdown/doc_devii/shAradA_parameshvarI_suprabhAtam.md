@@ -1,26 +1,26 @@
-+++
-"Text title" = "shrii shaaradaa parameshvarii suprabhaatam"
-"File name" = "shAradAparameshvarisupr.itx"
-itxtitle = "shAradA parameshvarI suprabhAtam"
-engtitle = "shAradA parameshvarI suprabhAtam"
-Category = "suprabhAta, devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda harshanand_16 at rediffmail.com"
-"Latest update" = "April 17, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदा परमेश्वरी सुप्रभातम्"
+---
+Author: Traditional
+Category: suprabhAta, devii, sarasvatI, devI
+File name: shAradAparameshvarisupr.itx
+Language: Sanskrit
+Latest update: April 17, 2002
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrii shaaradaa parameshvarii suprabhaatam
+Transliterated by: R. Harshananda harshanand_16 at rediffmail.com
+engtitle: shAradA parameshvarI suprabhAtam
+itxtitle: shAradA parameshvarI suprabhAtam
+title: शारदा परमेश्वरी सुप्रभातम्
 
-+++
+---
   
  श्रीशारदा परमेश्वरी सुप्रभातम्   
   
-ॐ श्रीशारदे जगन्मातः पूर्वा संध्या प्रवर्तते ।  
+ॐ श्रीशारदे जगन्मातः पूर्वा सन्ध्या प्रवर्तते ।  
 उत्तिष्ठ करुणापाङ्गैः कर्तव्यं विश्वमङ्गलम् ॥  
   
 श्रीशृङ्गाद्रिपुरी रत्नसिंहासननिवासिनी ।  

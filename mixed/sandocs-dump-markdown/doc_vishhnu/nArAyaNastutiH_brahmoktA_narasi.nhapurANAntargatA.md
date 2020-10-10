@@ -1,26 +1,26 @@
-+++
-"Text title" = "nArAyaNastutiH brahmokta narasi.nhapurANe"
-"File name" = "nArAyaNastutibrahmoktaNP.itx"
-itxtitle = "nArAyaNastutiH (brahmoktA narasi.nhapurANAntargatA)"
-engtitle = "Narayanastuti by Brahma in Narasinhapurana"
-Category = "vishhnu, narayana, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "narayana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 64.  Stotra 59-96"
-Indexextra = "(narasi.nhapurANa)"
-"Latest update" = "June 29, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणस्तुतिः (ब्रह्मोक्ता नरसिंहपुराणान्तर्गता)"
+---
+Category: vishhnu, narayana, stotra, vishnu
+Description-comments: Narasimhapurana adhyAya 64.  Stotra 59-96
+File name: nArAyaNastutibrahmoktaNP.itx
+Indexextra: (narasi.nhapurANa)
+Language: Sanskrit
+Latest update: June 29, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: narayana
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nArAyaNastutiH brahmokta narasi.nhapurANe
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: Narayanastuti by Brahma in Narasinhapurana
+itxtitle: nArAyaNastutiH (brahmoktA narasi.nhapurANAntargatA)
+title: नारायणस्तुतिः (ब्रह्मोक्ता नरसिंहपुराणान्तर्गता)
 
-+++
+---
   
  नारायणस्तुती ब्रह्मोक्त नरसिंहपुराणे   
   
@@ -78,7 +78,7 @@ title = "नारायणस्तुतिः (ब्रह्मोक्त
 केचित्क्षेत्रज्ञमित्याहुः केचित्षड्विंशकं तथा ॥ ७५॥  
   
 अङ्गुष्ठमात्रं केचिच्च केचित्पद्मरजोपमम् ।  
-एते चान्ये च मुनिभिः संज्ञाभेदाः प्ऱृथग्विधाः ॥ ७६॥  
+एते चान्ये च मुनिभिः सञ्ज्ञाभेदाः प्ऱृथग्विधाः ॥ ७६॥  
   
 शास्त्रेषु कथिता विष्णोर्लोकव्यामोहकारकाः।  
 एकं यदि भवेच्छास्त्रं ज्ञानं निस्संशयं भवेत् ॥ ७७॥  
@@ -108,10 +108,10 @@ title = "नारायणस्तुतिः (ब्रह्मोक्त
 श्रवणात्पठनाच्चैव निदिध्यासनतत्परैः ॥ ८५॥  
   
 आराध्यः सर्वथा ब्रह्मन् पुरुषेण हितैषिणा ।  
-निः स्प्ऱृहा नित्यसंतुष्टा ज्ञानिनः संयतेन्द्रियाः ॥ ८६॥  
+निः स्प्ऱृहा नित्यसन्तुष्टा ज्ञानिनः संयतेन्द्रियाः ॥ ८६॥  
   
-निर्ममा निरहंकारा रागद्वेषविवर्जिताः ।  
-अपक्षपतिताः शान्ताः सर्वसंकल्पवर्जिताः ॥ ८७॥  
+निर्ममा निरहङ्कारा रागद्वेषविवर्जिताः ।  
+अपक्षपतिताः शान्ताः सर्वसङ्कल्पवर्जिताः ॥ ८७॥  
   
 ध्यानयोगपरा ब्रह्मन् ते पश्यन्ति जगत्पतिम् ।  
 त्यक्तत्रया महात्मानो वासुदेवं हरिं गुरुम् ॥ ८८॥  
@@ -142,7 +142,7 @@ title = "नारायणस्तुतिः (ब्रह्मोक्त
   
 इति ।  
   
-नरसिंहपुराणे अध्याय ६४ श्लोक ५९-९६, अध्याय श्लोक संख्या १२४  
+नरसिंहपुराणे अध्याय ६४ श्लोक ५९-९६, अध्याय श्लोक सङ्ख्या १२४  
   
 From Narasimhapurana adhyAya 64.  Selected verses.  
 https://archive.org/details/NarsimhaPuranGitapress  

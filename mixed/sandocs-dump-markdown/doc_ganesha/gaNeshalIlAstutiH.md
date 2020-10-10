@@ -1,21 +1,21 @@
-+++
-"Text title" = "Ganeshalila Stuti"
-"File name" = "gaNeshalIlAstutiH.itx"
-itxtitle = "gaNeshalIlAstutiH"
-engtitle = "gaNeshalIlAstutiH"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशलीलास्तुतिः"
+---
+Category: ganesha
+File name: gaNeshalIlAstutiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_ganesha
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganeshalila Stuti
+engtitle: gaNeshalIlAstutiH
+itxtitle: gaNeshalIlAstutiH
+title: गणेशलीलास्तुतिः
 
-+++
+---
   
  गणेशलीलास्तुतिः   
 अद्रिराजज्येष्ठपुत्र हे गणेश विघ्नहन्  

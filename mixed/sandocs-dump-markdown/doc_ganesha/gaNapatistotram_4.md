@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNapatistotram 4"
-"File name" = "gaNapatistotram4.itx"
-itxtitle = "gaNapatistotram 4"
-engtitle = "gaNapatistotram 4"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Yash Khasbage"
-"Proofread by" = "Yash Khasbage"
-Indexextra = "(Scan)"
-"Latest update" = "June 17, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपतिस्तोत्रम् ४"
+---
+Category: ganesha
+File name: gaNapatistotram4.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 17, 2020
+Location: doc_ganesha
+Proofread by: Yash Khasbage
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNapatistotram 4
+Transliterated by: Yash Khasbage
+engtitle: gaNapatistotram 4
+itxtitle: gaNapatistotram 4
+title: गणपतिस्तोत्रम् ४
 
-+++
+---
   
  गणपतिस्तोत्रम् ४   
 जेतुं यस्त्रिपुरं हरेण हरिणा व्याजाद्वलिं बध्नता  
@@ -57,7 +57,7 @@ title = "गणपतिस्तोत्रम् ४"
 गणेश हेरम्ब गजाननेति महोदर स्वानुभवप्रकाशिन् ।  
 वरिष्ठ सिद्धिप्रिय बुद्धिनाथ वदन्त एवं त्यजत प्रभीतीः ॥ १०॥  
   
-अनेकविघ्नान्तक वक्रतुण्ड स्वसंज्ञवासिंश्च चतुर्भुजेति ।  
+अनेकविघ्नान्तक वक्रतुण्ड स्वसञ्ज्ञवासिंश्च चतुर्भुजेति ।  
 कवीश देवान्तकनाशकारिन् वदन्त एवं त्यजत प्रभीतीः ॥ ११॥  
   
 अनन्तचिद्रूपमयं गणेशं ह्यभेदभेदादिविहीनमाद्यम् ।  

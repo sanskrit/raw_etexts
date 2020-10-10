@@ -1,23 +1,23 @@
-+++
-"Text title" = "Matribhakti Stuti"
-"File name" = "mAtRRibhaktistutiH.itx"
-itxtitle = "rAjarAjeshvarImAtRibhaktistutiH (keshavabhaTTavirachitA)"
-engtitle = "mAtRRibhaktistutiH"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "keshavabhaTTavirachitA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राजराजेश्वरीमातृइभक्तिस्तुतिः (केशवभट्टविरचिता)"
+---
+Author: keshavabhaTTavirachitA
+Category: devii, dashamahAvidyA, devI
+File name: mAtRRibhaktistutiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Matribhakti Stuti
+engtitle: mAtRRibhaktistutiH
+itxtitle: rAjarAjeshvarImAtRibhaktistutiH (keshavabhaTTavirachitA)
+title: राजराजेश्वरीमातृइभक्तिस्तुतिः (केशवभट्टविरचिता)
 
-+++
+---
   
  श्रीराजराजेश्वरीमातृभक्तिस्तुतिः   
 ॐ भूमौ धर्मविनाशमीक्ष्य दिविजैः सिद्धैश्चतुर्भिर्मुदा  
@@ -56,7 +56,7 @@ Footnote
        ८ पुरोक्तैः सनकादिभिः पुत्रीभूतैर्गार्हस्थ्यफलं  
                   पितृऋणमुक्तिं विधाय ।  
        ९ वानप्रस्थधर्मतः ।  
-       १० कुटीचकसंन्यासा क्रमेण गृहागतसज्जनसेवायां सक्ता ।  
+       १० कुटीचकसन्न्यासा क्रमेण गृहागतसज्जनसेवायां सक्ता ।  
        ११ तीर्थयात्रासु ।  
        १२ चातुर्मासादिव्रतानुष्ठानक्रमेषु च सक्ताऽभूदित्यर्थः ॥  
   

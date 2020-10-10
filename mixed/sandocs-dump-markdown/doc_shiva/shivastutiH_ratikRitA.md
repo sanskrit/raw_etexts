@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivastutiH by rati"
-"File name" = "shivastutiHrati.itx"
-itxtitle = "shivastutiH (ratikRitA)"
-engtitle = "shivastutiH by rati"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Indexextra = "(Scan)"
-"Latest update" = "December 31, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवस्तुतिः (रतिकृइता)"
+---
+Category: shiva
+File name: shivastutiHrati.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 31, 2018
+Location: doc_shiva
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivastutiH by rati
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: shivastutiH by rati
+itxtitle: shivastutiH (ratikRitA)
+title: शिवस्तुतिः (रतिकृइता)
 
-+++
+---
   
  रतिकृता शिवस्तुतिः   
 नमः शिवायास्तु निरामयाय नमो शिवायास्तु मनोमयाय ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAradAbhujangaprayAtastutiH"
-"File name" = "shAradAbhujangaprayAtastutiH.itx"
-itxtitle = "shAradAbhujaNgaprayAtastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "shAradAbhujangaprayAtastutiH"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI, bhujanga"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदाभुजण्गप्रयातस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI, bhujanga
+File name: shAradAbhujangaprayAtastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAbhujangaprayAtastutiH
+engtitle: shAradAbhujangaprayAtastutiH
+itxtitle: shAradAbhujaNgaprayAtastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: शारदाभुजण्गप्रयातस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीशारदाभुजङ्गप्रयातस्तुतिः   
 (कालटीक्षेत्रे)  

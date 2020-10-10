@@ -1,26 +1,26 @@
-+++
-"Text title" = "mahArthamanjarI"
-"File name" = "mahArthamanjarI.itx"
-itxtitle = "mahArthamanjarI (maheshvarAnandapraNItA parimalavyAkhyA sahitA)"
-engtitle = "mahArthamanjarI"
-Category = "yoga, major_works"
-Location = "doc_yoga"
-Sublocation = "yoga"
-Texttype = "pramukha"
-Author = "Maheshvarananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha under the supervision of Mark S. G. Dyczkowski"
-"Proofread by" = "staff of Muktabodha, DPD"
-Description-comments = "Publisher : Trivandrum Sanskrit Series.  With parimalavyAkhyA"
-Indexextra = "Text with translation (1, 2)"
-Acknowledge-Permission = "Muktabodha Indological Research Institute http://muktalib5.org"
-"Latest update" = "March 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महार्थमञ्जरी (महेश्वरानन्दप्रणीता परिमलव्याख्या सहिता)"
+---
+Acknowledge-Permission: Muktabodha Indological Research Institute http://muktalib5.org
+Author: Maheshvarananda
+Category: yoga, major_works
+Description-comments: 'Publisher : Trivandrum Sanskrit Series.  With parimalavyAkhyA'
+File name: mahArthamanjarI.itx
+Indexextra: Text with translation (1, 2)
+Language: Sanskrit
+Latest update: March 17, 2018
+Location: doc_yoga
+Proofread by: staff of Muktabodha, DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: yoga
+Text title: mahArthamanjarI
+Texttype: pramukha
+Transliterated by: staff of Muktabodha under the supervision of Mark S. G. Dyczkowski
+engtitle: mahArthamanjarI
+itxtitle: mahArthamanjarI (maheshvarAnandapraNItA parimalavyAkhyA sahitA)
+title: महार्थमञ्जरी (महेश्वरानन्दप्रणीता परिमलव्याख्या सहिता)
 
-+++
+---
   
  महेश्वरानन्दप्रणीता महार्थमञ्जरी   
   
@@ -77,7 +77,7 @@ title = "महार्थमञ्जरी (महेश्वरानन्
 ग्रथ्नाति महार्थमञ्जरीमिमां सुरभिं महेश्वरानन्दः ॥ १॥  
   
 वर्धतां महाप्रकाशो विमर्शविच्छुरितनिश्छलोद्योतः ।  
-संज्ञाविशेषनिर्णयमात्रप्रवृत्तानि यत्र शास्त्राणि ॥ २॥  
+सञ्ज्ञाविशेषनिर्णयमात्रप्रवृत्तानि यत्र शास्त्राणि ॥ २॥  
   
 आत्मा खलु विश्वमूलं तत्र प्रमाणं न कोऽप्यर्थयते ।  
 कस्य वा भवति पिपासा गङ्गास्रोतसि निमग्नस्य ॥ ३॥  

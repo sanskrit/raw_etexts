@@ -1,24 +1,24 @@
-+++
-"Text title" = "purushhasuukta"
-"File name" = "puruSukta.itx"
-itxtitle = "puruShasUktam"
-engtitle = "Purushasukta"
-Category = "sUkta, veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Rajagopal Iyer"
-"Proofread by" = "Rajagopal Iyer"
-Indexextra = "(Meaning 1, 2, Meaning 1, 2, 3, audio  1, 2,  versions)"
-"Latest update" = "May 20, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पुरुषसूक्तम्"
+---
+Author: Vedic Tradition
+Category: sUkta, veda, svara
+File name: puruSukta.itx
+Indexextra: (Meaning 1, 2, Meaning 1, 2, 3, audio  1, 2,  versions)
+Language: Sanskrit
+Latest update: May 20, 2001
+Location: doc_veda
+Proofread by: Rajagopal Iyer
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: veda
+Text title: purushhasuukta
+Texttype: svara
+Transliterated by: Rajagopal Iyer
+engtitle: Purushasukta
+itxtitle: puruShasUktam
+title: पुरुषसूक्तम्
 
-+++
+---
   
  पुरुषसूक्त   
   
@@ -45,7 +45,7 @@ title = "पुरुषसूक्तम्"
 दे॒वा यद्य॒ज्ञं त॑न्वा॒नाः । अब॑ध्न॒न्पु॑रुषं प॒शुम् । ७  
 तं य॒ज्ञं ब॒र्हिषि॒ प्रौक्षन्॑ । पुरु॑षं जा॒तम॑ग्र॒तः ।  
 तेन॑ दे॒वा अय॑जन्त । सा॒ध्या ऋष॑यश्च॒ ये । ८  
-तस्मा᳚द्य॒ज्ञात्स॑र्व॒हुतः॑ । संभृ॑तं पृषदा॒ज्यम् ।  
+तस्मा᳚द्य॒ज्ञात्स॑र्व॒हुतः॑ । सम्भृ॑तं पृषदा॒ज्यम् ।  
 प॒शूꣳस्ताꣳश्च॑क्रे वाय॒व्यान्॑ । आ॒र॒ण्यान्ग्रा॒म्याश्च॒ ये । ९  
 तस्मा᳚द्य॒ज्ञात्स॑र्व॒हुतः॑ । ऋचः॒ सामा॑नि जज्ञिरे ।  
 छन्दाꣳ॑सि जज्ञिरे॒ तस्मा᳚त् । यजु॒स्तस्मा॑दजायत । १०  
@@ -70,7 +70,7 @@ title = "पुरुषसूक्तम्"
   
 ॥ उत्तरनारायणम् ॥  
   
-अ॒द्भ्यः संभू॑तः पृथि॒व्यै रसा᳚च्च । वि॒श्वक॑र्मणः॒ सम॑वर्त॒ताधि॑ ।  
+अ॒द्भ्यः सम्भू॑तः पृथि॒व्यै रसा᳚च्च । वि॒श्वक॑र्मणः॒ सम॑वर्त॒ताधि॑ ।  
 तस्य॒ त्वष्टा॑ वि॒दध॑द्रू॒पमे॑ति । तत्पुरु॑षस्य॒ विश्व॒माजा॑न॒मग्रे᳚ । १  
 वेदा॒हमे॒तं पुरु॑षं म॒हान्तम्᳚ । आ॒दि॒त्यव॑र्णं॒ तम॑सः॒ पर॑स्तात् ।  
 तमे॒वं वि॒द्वान॒मृत॑ इ॒ह भ॑वति । नान्यः पन्था॑ विद्य॒तेय॑ऽनाय । २  

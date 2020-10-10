@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrii muukaambikaayaaH aShTottarashatanaamaavaliH"
-"File name" = "mUkAmbikA108.itx"
-itxtitle = "mUkAmbikAyAH aShTottarashatanAmAvalI"
-engtitle = "mUkAmbikAyAH aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, otherforms, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda harshanand_16 at rediffmail.com"
-Description-comments = "Mookambika ashtottara namavali"
-"Latest update" = "April 17, 2002, August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मूकाम्बिकायाः अष्टोत्तरशतनामावली"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, devii, otherforms, nAmAvalI, devI
+Description-comments: Mookambika ashtottara namavali
+File name: mUkAmbikA108.itx
+Language: Sanskrit
+Latest update: April 17, 2002, August 6, 2016
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrii muukaambikaayaaH aShTottarashatanaamaavaliH
+Texttype: nAmAvalI
+Transliterated by: R. Harshananda harshanand_16 at rediffmail.com
+engtitle: mUkAmbikAyAH aShTottarashatanAmAvalI
+itxtitle: mUkAmbikAyAH aShTottarashatanAmAvalI
+title: मूकाम्बिकायाः अष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीमूकाम्बिकायाः अष्टोत्तरशतनामावलिः   
   

@@ -1,21 +1,22 @@
-+++
-"Text title" = "Shri Markandeya Ashtottarashatanamavali"
-"File name" = "mArkaNDeyAShTottarashatanAmAvalI.itx"
-itxtitle = "mArkaNDeyAShTottarashatanAmAvalI"
-engtitle = "mArkaNDeyAShTottarashatanAmAvalI"
-Category = "deities_misc, aShTottarashatanAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "For chanting for ugrarathashAnti (celebrating 60+ years) or called ShaShTyabdapUrti ShaShTi pUrti"
-Indexextra = "(Scan)"
-"Latest update" = "October 24, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मार्कण्डेयाष्टोत्तरशतनामावली"
+---
+Category: deities_misc, aShTottarashatanAmAvalI
+Description/comments: For chanting for ugrarathashAnti (celebrating 60+ years) or
+  called ShaShTyabdapUrti ShaShTi pUrti
+File name: mArkaNDeyAShTottarashatanAmAvalI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: October 24, 2019
+Location: doc_deities_misc
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Markandeya Ashtottarashatanamavali
+engtitle: mArkaNDeyAShTottarashatanAmAvalI
+itxtitle: mArkaNDeyAShTottarashatanAmAvalI
+title: मार्कण्डेयाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीमार्कण्डेयाष्टोत्तरशतनामावलिः   
 अस्य श्रीमार्कण्डेयमन्त्रस्य जैमिनिरृषिः मार्कण्डेयो देवता ।  

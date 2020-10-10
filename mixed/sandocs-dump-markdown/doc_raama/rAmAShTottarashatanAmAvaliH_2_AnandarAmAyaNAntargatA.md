@@ -1,24 +1,25 @@
-+++
-"Text title" = "shriimadaanandaraamaayaNaantargata shrii raamaaSTottarashatanaamaavaliH"
-"File name" = "raama108nAmAvaliAnanda.itx"
-itxtitle = "rAmAShTottarashatanAmAvaliH 2 (AnandarAmAyaNAntargatA)"
-engtitle = "rAmAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, raama, nAmAvalI, vAlmIki"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "nAmAvalI"
-Author = "Valmiki"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net, PSA Easwaran psaeaswaran at gmail"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net, PSA Easwaran psaeaswaran at gmail"
-Description-comments = "from Anandaramayana"
-"Latest update" = "July 4, 2006, August 24, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टोत्तरशतनामावलिः २ (आनन्दरामायणान्तर्गता)"
+---
+Author: Valmiki
+Category: aShTottarashatanAmAvalI, raama, nAmAvalI, vAlmIki
+Description-comments: from Anandaramayana
+File name: raama108nAmAvaliAnanda.itx
+Language: Sanskrit
+Latest update: July 4, 2006, August 24, 2014
+Location: doc_raama
+Proofread by: Antaratma antaratma at Safe-mail.net, PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: raama
+Text title: shriimadaanandaraamaayaNaantargata shrii raamaaSTottarashatanaamaavaliH
+Texttype: nAmAvalI
+Transliterated by: Antaratma antaratma at Safe-mail.net, PSA Easwaran psaeaswaran
+  at gmail
+engtitle: rAmAShTottarashatanAmAvalI
+itxtitle: rAmAShTottarashatanAmAvaliH 2 (AnandarAmAyaNAntargatA)
+title: रामाष्टोत्तरशतनामावलिः २ (आनन्दरामायणान्तर्गता)
 
-+++
+---
   
  श्रीरामाष्टोत्तरशतनामावली   
   

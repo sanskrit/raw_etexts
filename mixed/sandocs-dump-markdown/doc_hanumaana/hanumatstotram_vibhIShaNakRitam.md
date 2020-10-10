@@ -1,22 +1,22 @@
-+++
-"Text title" = "vibhiiShaNakRitam hanumatstotram"
-"File name" = "hanumatstotramvibhishanam.itx"
-itxtitle = "hanumatstotram (vibhIShaNakRitam)"
-engtitle = "vibhIShaNakRitam hanumatstotram"
-Category = "hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Ravindra Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravindra Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "March 19, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्स्तोत्रम् (विभीषणकृइतम्)"
+---
+Category: hanumaana, stotra, hanuman
+File name: hanumatstotramvibhishanam.itx
+Language: Sanskrit
+Latest update: March 19, 2004
+Location: doc_hanumaana
+Proofread by: Ravindra Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: hanumaana
+Text title: vibhiiShaNakRitam hanumatstotram
+Texttype: stotra
+Transliterated by: Ravindra Bhalekar ravibhalekar at hotmail.com
+engtitle: vibhIShaNakRitam hanumatstotram
+itxtitle: hanumatstotram (vibhIShaNakRitam)
+title: हनुमत्स्तोत्रम् (विभीषणकृइतम्)
 
-+++
+---
   
  श्रीहनुमत्स्तोत्रं विभीषणकृतम्   
   

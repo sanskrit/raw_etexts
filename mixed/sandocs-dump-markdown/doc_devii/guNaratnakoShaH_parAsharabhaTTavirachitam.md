@@ -1,24 +1,24 @@
-+++
-"Text title" = "guNaratnakoShaH"
-"File name" = "guNaratnakoShaH.itx"
-itxtitle = "guNaratnakoShaH (parAsharabhaTTavirachitam)"
-engtitle = "guNaratnakoShaH, parAsharabhaTTa"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Parasharabhatta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Late P R Ramamurthy"
-"Proofread by" = "Late P R Ramamurthy, Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan, Translation)"
-Acknowledge-Permission = "Gleaning from Sanskrit Literature http://stotram.lalitaalaalitah.com"
-"Latest update" = "August 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुणरत्नकोषः (पराशरभट्टविरचितम्)"
+---
+Acknowledge-Permission: Gleaning from Sanskrit Literature http://stotram.lalitaalaalitah.com
+Author: Parasharabhatta
+Category: devii, devI
+File name: guNaratnakoShaH.itx
+Indexextra: (Scan, Translation)
+Language: Sanskrit
+Latest update: August 18, 2019
+Location: doc_devii
+Proofread by: Late P R Ramamurthy, Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: guNaratnakoShaH
+Transliterated by: Late P R Ramamurthy
+engtitle: guNaratnakoShaH, parAsharabhaTTa
+itxtitle: guNaratnakoShaH (parAsharabhaTTavirachitam)
+title: गुणरत्नकोषः (पराशरभट्टविरचितम्)
 
-+++
+---
   
  श्रीगुणरत्नकोशः   
 श्रीपराशर भट्टार्यः श्रीरङ्गेशपुरोहितः  

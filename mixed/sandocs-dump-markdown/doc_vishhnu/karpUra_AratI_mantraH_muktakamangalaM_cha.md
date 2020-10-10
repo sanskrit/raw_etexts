@@ -1,22 +1,22 @@
-+++
-"Text title" = "karpuuraarati as performed in Ramanujacharya Sampradaya"
-"File name" = "karpuuraarati.itx"
-itxtitle = "karpUra AratI mantraH muktakamangalaM cha"
-engtitle = "karpUra AratI mantraH"
-Category = "AratI, vishhnu, vishnu_misc, vishnu, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "N"
-"Proofread by" = "N"
-"Latest update" = "October 11, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कर्पूर आरती मन्त्रः मुक्तकमङ्गलं च"
+---
+Category: AratI, vishhnu, vishnu_misc, vishnu, mangala
+File name: karpuuraarati.itx
+Language: Sanskrit
+Latest update: October 11, 2001
+Location: doc_vishhnu
+Proofread by: N
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: karpuuraarati as performed in Ramanujacharya Sampradaya
+Transliterated by: N
+engtitle: karpUra AratI mantraH
+itxtitle: karpUra AratI mantraH muktakamangalaM cha
+title: कर्पूर आरती मन्त्रः मुक्तकमङ्गलं च
 
-+++
+---
   
  कर्पूर आरती मन्त्रः   
 श्रियः कान्ताय कल्याण निधये निधयेऽर्थिनां  

@@ -1,24 +1,26 @@
-+++
-"Text title" = "Durgastotram 1 by Parashurama"
-"File name" = "durgAstotramparashurAmaBVP.itx"
-itxtitle = "durgAstotram 1 (parashurAmakRitaM brahmavaivartapurANAntargatam shrIkRiShNasya cha goloke)"
-engtitle = "durgAstotram 1 by parashurAma"
-Category = "devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rashmi R. rashmirjois at gmail.com"
-"Proofread by" = "Rashmi R. rashmirjois at gmail.com, NA"
-Source = "brahmavaivartapurANa gaNapati khaNDa (3) adhyAya 45 18-76"
-Indexextra = "(Scan)"
-"Latest update" = "February 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गास्तोत्रम् १ (परशुरामकृइतं ब्रह्मवैवर्तपुराणान्तर्गतम् श्रीकृइष्णस्य च गोलोके)"
+---
+Category: devii, durgA, stotra, devI
+File name: durgAstotramparashurAmaBVP.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 16, 2019
+Location: doc_devii
+Proofread by: Rashmi R. rashmirjois at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: brahmavaivartapurANa gaNapati khaNDa (3) adhyAya 45 18-76
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Durgastotram 1 by Parashurama
+Transliterated by: Rashmi R. rashmirjois at gmail.com
+engtitle: durgAstotram 1 by parashurAma
+itxtitle: durgAstotram 1 (parashurAmakRitaM brahmavaivartapurANAntargatam shrIkRiShNasya
+  cha goloke)
+title: दुर्गास्तोत्रम् १ (परशुरामकृइतं ब्रह्मवैवर्तपुराणान्तर्गतम् श्रीकृइष्णस्य च
+  गोलोके)
 
-+++
+---
   
  श्रीपरशुरामकृतं दुर्गास्तोत्रम्   
 परशुराम उवाच -  

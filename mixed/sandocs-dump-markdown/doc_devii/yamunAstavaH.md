@@ -1,21 +1,21 @@
-+++
-"Text title" = "yamunAstavaH"
-"File name" = "yamunAstavaH.itx"
-itxtitle = "yamunAstavaH"
-engtitle = "yamunAstavaH"
-Category = "devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "January 15, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनास्तवः"
+---
+Category: devii, nadI, devI
+File name: yamunAstavaH.itx
+Language: Sanskrit
+Latest update: January 15, 2019
+Location: doc_devii
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunAstavaH
+engtitle: yamunAstavaH
+itxtitle: yamunAstavaH
+title: यमुनास्तवः
 
-+++
+---
   
  श्रीयमुनास्तवः   
 कलिन्दतनये देवि परमानन्दवर्धिनि ।  

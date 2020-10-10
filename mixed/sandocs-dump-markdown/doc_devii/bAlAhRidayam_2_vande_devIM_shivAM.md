@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Hridayam  2"
-"File name" = "bAlAhRRidayam2.itx"
-itxtitle = "bAlAhRidayam 2 (vande devIM shivAM)"
-engtitle = "bAlAhRidayam 2"
-Category = "devii, dashamahAvidyA, devI, hRidaya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाहृइदयम् २ (वन्दे देवीं शिवां)"
+---
+Category: devii, dashamahAvidyA, devI, hRidaya
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAhRRidayam2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Hridayam  2
+engtitle: bAlAhRidayam 2
+itxtitle: bAlAhRidayam 2 (vande devIM shivAM)
+title: बालाहृइदयम् २ (वन्दे देवीं शिवां)
 
-+++
+---
   
  श्रीबालाहृदयम् २   
 अस्य श्रीबालादेव्या हृदयमहामन्त्रस्य सदाशिवः ऋषिः ।  

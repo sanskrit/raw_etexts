@@ -1,24 +1,24 @@
-+++
-"Text title" = "rudrastotram kRiShNakRita"
-"File name" = "rudrastotramkRiShNa.itx"
-itxtitle = "rudrastotraM kRiShNakRitam (harivaMshapurANAntargatam)"
-engtitle = "rudrastotraM Shrikrishna"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Translated by" = "V. S. Agrawala"
-Description-comments = "harivaMshapurANa, viShNuparva adhyAya 74, shlokANi 22\\-34"
-"Latest update" = "September 3, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रस्तोत्रं कृइष्णकृइतम् (हरिवंशपुराणान्तर्गतम्)"
+---
+Author: krishna
+Category: shiva
+Description-comments: harivaMshapurANa, viShNuparva adhyAya 74, shlokANi 22\-34
+File name: rudrastotramkRiShNa.itx
+Language: Sanskrit
+Latest update: September 3, 2017
+Location: doc_shiva
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: rudrastotram kRiShNakRita
+Translated by: V. S. Agrawala
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: rudrastotraM Shrikrishna
+itxtitle: rudrastotraM kRiShNakRitam (harivaMshapurANAntargatam)
+title: रुद्रस्तोत्रं कृइष्णकृइतम् (हरिवंशपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीकृष्णकृतरुद्रस्तोत्रम्   
 (हरिवंशपुराण, विष्णुपर्व अध्याय ७४, श्लोकाणि २२-३४)  
@@ -170,7 +170,7 @@ with prANa, a truly Vedic metaphysical doctrine, e.g.
 Wherever there is a body constituted of the five gross elements  
 (bhUtas), there inheres within it the Life Principle called  
 prANa, or in its several functioning aspects as prANas. The One  
-Rudra becomes many Rudras (रुद्रा रुद्रांशसंभवाः, लिङ्गपुराण्  
+Rudra becomes many Rudras (रुद्रा रुद्रांशसम्भवाः, लिङ्गपुराण्  
 1. 82. 41). The harivaMsha repeats the epithet of rudana as  
 rorUyamANa, `crying day by day, or frequentatively', and also as  
 rAvaNa, i.e. the divine principle of prANa or rudra that makes  
@@ -387,7 +387,7 @@ as the Lord of tripura is the supreme controller of those three
 states of consciousness. He is therefore the son of Three  
 Mothers in his manifest form. Ambaka (अम्बक) also means an  
 `eye', for each birth is an eye that opens on one of the three  
-worlds (संबोधयितृ चक्षु). The Three Eyes of Rudra are  
+worlds (सम्बोधयितृ चक्षु). The Three Eyes of Rudra are  
 the Sun, Moon and Fire of the purANas, which the Vedas refer  
 to as the Eye of mitra, varuNa and agni (चक्षुर्मित्रस्य  
 वरुणस्याग्नेः). The Eye of agni is the जाग्रत्, the Eye of  

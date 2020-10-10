@@ -1,24 +1,25 @@
-+++
-"Text title" = "sundaramUrtyaShTottarashatanAmAvaliH"
-"File name" = "sundaramUrtyaShTottarashatanAmAvaliH.itx"
-itxtitle = "sundaramUrtyaShTottarashatanAmAvaliH"
-engtitle = "sundaramUrtyaShTottarashatanAmAvaliH"
-Category = "deities_misc, aShTottarashatanAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran psaeaswaran at gmail.com"
-Source = "Text provided by Dr. R. Thiagarajan, Head of the  P.G and Research Dept of Sanskrit, Presidency College, Chennai"
-Indexextra = "(Info)"
-"Latest update" = "February 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुन्दरमूर्त्यष्टोत्तरशतनामावलिः"
+---
+Category: deities_misc, aShTottarashatanAmAvalI
+File name: sundaramUrtyaShTottarashatanAmAvaliH.itx
+Indexextra: (Info)
+Language: Sanskrit
+Latest update: February 10, 2018
+Location: doc_deities_misc
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Text provided by Dr. R. Thiagarajan, Head of the  P.G and Research Dept of
+  Sanskrit, Presidency College, Chennai
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: sundaramUrtyaShTottarashatanAmAvaliH
+Texttype: stotra
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: sundaramUrtyaShTottarashatanAmAvaliH
+itxtitle: sundaramUrtyaShTottarashatanAmAvaliH
+title: सुन्दरमूर्त्यष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीसुन्दरमूर्त्यष्टोत्तरशतनामावलिः   
 (Sundaramoorthy Nayanar, a devotee of Lord Tyagaraja, Tiruvarur)  

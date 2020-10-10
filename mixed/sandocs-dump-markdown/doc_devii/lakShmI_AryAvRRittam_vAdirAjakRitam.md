@@ -1,22 +1,22 @@
-+++
-"Text title" = "lakShmI in AryAvRRittam"
-"File name" = "lakShmIAryAvRRittam.itx"
-itxtitle = "lakShmI AryAvRRittam ((vAdirAjakRitam)"
-engtitle = "lakShmI in AryAvRRittam"
-Category = "devii, lakShmI, vAdirAja, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Vadiraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मी आर्यावृत्तम् ((वादिराजकृइतम्)"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Author: Vadiraja
+Category: devii, lakShmI, vAdirAja, devI
+File name: lakShmIAryAvRRittam.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmI in AryAvRRittam
+engtitle: lakShmI in AryAvRRittam
+itxtitle: lakShmI AryAvRRittam ((vAdirAjakRitam)
+title: लक्ष्मी आर्यावृत्तम् ((वादिराजकृइतम्)
 
-+++
+---
   
  श्रीलक्ष्मी आर्यावृत्तम्   
 आर्यावृत्तविचित्र नार्यास्सा जगति सौभगत्वकरी ।  

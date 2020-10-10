@@ -1,20 +1,20 @@
-+++
-"Text title" = "21 names of Mahaganapati"
-"File name" = "mahAgaNapatyekaviMshatinAmastotram.itx"
-itxtitle = "mahAgaNapatyekaviMshatinAmastotram"
-engtitle = "mahAgaNapatyekaviMshatinAmastotram"
-Category = "ganesha, viMshati"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Scan)"
-"Latest update" = "January 25, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महागणपत्येकविंशतिनामस्तोत्रम्"
+---
+Category: ganesha, viMshati
+File name: mahAgaNapatyekaviMshatinAmastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 25, 2019
+Location: doc_ganesha
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: 21 names of Mahaganapati
+engtitle: mahAgaNapatyekaviMshatinAmastotram
+itxtitle: mahAgaNapatyekaviMshatinAmastotram
+title: महागणपत्येकविंशतिनामस्तोत्रम्
 
-+++
+---
   
  महागणपत्येकविंशतिनामस्तोत्रम्   
 ॐ गणञ्जयो गणपतिर्हेरम्बो धरणीधरः ।  

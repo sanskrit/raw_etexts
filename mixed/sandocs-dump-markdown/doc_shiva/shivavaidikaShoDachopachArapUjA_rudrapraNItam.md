@@ -1,20 +1,20 @@
-+++
-"Text title" = "shivavaidikaShoDachopachArapUjA"
-"File name" = "shivavaidikaShoDachopachArapUjA.itx"
-itxtitle = "shivavaidikaShoDachopachArapUjA (rudrapraNItam)"
-engtitle = "shivavaidikaShoDachopachArapUjA"
-Category = "shiva, svara, veda, pUjA"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "August 4, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिववैदिकषोडचोपचारपूजा (रुद्रप्रणीतम्)"
+---
+Category: shiva, svara, veda, pUjA
+File name: shivavaidikaShoDachopachArapUjA.itx
+Language: Sanskrit
+Latest update: August 4, 2019
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivavaidikaShoDachopachArapUjA
+Texttype: svara
+engtitle: shivavaidikaShoDachopachArapUjA
+itxtitle: shivavaidikaShoDachopachArapUjA (rudrapraNItam)
+title: शिववैदिकषोडचोपचारपूजा (रुद्रप्रणीतम्)
 
-+++
+---
   
  शिव पूजन वैदिक षोडशोपचार   
 १ ध्यानम् --  
@@ -31,7 +31,7 @@ title = "शिववैदिकषोडचोपचारपूजा (रु
 तया॑ नस्त॒नुवा॒ शन्त॑मया॒ गिरि॑शन्ता॒भिचा॑कशीहि॥  
   
 ३ पाद्यम् --  
-यामिषुं॑ गिरिशंत॒ हस्ते॒ बिभ॒र्ष्यस्त॑वे।  
+यामिषुं॑ गिरिशन्त॒ हस्ते॒ बिभ॒र्ष्यस्त॑वे।  
 शि॒वां गि॑रित्र॒ तां कु॑रु॒ मा हिꣳ॑सीः॒ पुरु॑षं॒ जग॑त् ॥  
   
 ४ अर्घ्यम् --  

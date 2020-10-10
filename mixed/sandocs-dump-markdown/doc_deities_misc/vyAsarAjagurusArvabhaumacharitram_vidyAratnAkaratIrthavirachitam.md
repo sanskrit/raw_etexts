@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Vyasarajagurusarvabhaumacharitram"
-"File name" = "vyAsarAjagurusArvabhaumacharitram.itx"
-itxtitle = "vyAsarAjagurusArvabhaumacharitram (vidyAratnAkaratIrthavirachitam)"
-engtitle = "vyAsarAjagurusArvabhaumacharitram"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "vidyAratnAkaratIrtha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-"Description/comments" = "PanchayatistutiH"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "C Narayanarao"
-"Latest update" = "June 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "व्यासराजगुरुसार्वभौमचरित्रम् (विद्यारत्नाकरतीर्थविरचितम्)"
+---
+Acknowledge-Permission: C Narayanarao
+Author: vidyAratnAkaratIrtha
+Category: deities_misc, gurudev
+Description/comments: PanchayatistutiH
+File name: vyAsarAjagurusArvabhaumacharitram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Vyasarajagurusarvabhaumacharitram
+Transliterated by: Krishnananda Achar
+engtitle: vyAsarAjagurusArvabhaumacharitram
+itxtitle: vyAsarAjagurusArvabhaumacharitram (vidyAratnAkaratIrthavirachitam)
+title: व्यासराजगुरुसार्वभौमचरित्रम् (विद्यारत्नाकरतीर्थविरचितम्)
 
-+++
+---
   
  श्रीव्यासराजगुरुसार्वभौमचरित्रम्   
 लक्ष्मीं वक्षसि बिभ्रतं नरहरिं देवं प्रणम्यामित  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "skandalakShmIdurgAsuprabhAtastutiH"
-"File name" = "skandalakShmIdurgAsuprabhAtastutiH.itx"
-itxtitle = "skandalakShmIdurgAsuprabhAtastutiH"
-engtitle = "skandalakShmIdurgAsuprabhAtastutiH"
-Category = "subrahmanya, suprabhAta, devii, durgA, lakShmI, devI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Tamil)"
-"Latest update" = "June 30, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्कन्दलक्ष्मीदुर्गासुप्रभातस्तुतिः"
+---
+Category: subrahmanya, suprabhAta, devii, durgA, lakShmI, devI
+File name: skandalakShmIdurgAsuprabhAtastutiH.itx
+Indexextra: (Tamil)
+Language: Sanskrit
+Latest update: June 30, 2019
+Location: doc_subrahmanya
+Proofread by: Aruna Narayanan, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: skandalakShmIdurgAsuprabhAtastutiH
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: skandalakShmIdurgAsuprabhAtastutiH
+itxtitle: skandalakShmIdurgAsuprabhAtastutiH
+title: स्कन्दलक्ष्मीदुर्गासुप्रभातस्तुतिः
 
-+++
+---
   
  श्रीस्कन्दलक्ष्मीदुर्गा सुप्रभातस्तुतिः   
 श्रीस्कन्दगुरु भुजङ्गस्तोत्रं च  shrIskandaguru bhuja~NgastotraM   
@@ -71,7 +71,7 @@ title = "स्कन्दलक्ष्मीदुर्गासुप्�
 मातस्त्वदीय पदपङ्कजभक्तिभाजां  
      कुर्वन्ति वज्रधरवायुमुखास्सुसेवाम् ।  
 वक्तुं प्रभावमखिलं तव कोनु शक्तः  
-     दुर्गे नमोऽस्तु तव संप्रति सुप्रभातम् ॥ १२॥  
+     दुर्गे नमोऽस्तु तव सम्प्रति सुप्रभातम् ॥ १२॥  
   
 तिष्ठत्यसौ च जनताश्रुपरीतनेत्राः  
      धृत्वा सुगन्धयुतबन्धुरपुष्पमालाः ।  

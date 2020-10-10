@@ -1,24 +1,24 @@
-+++
-"Text title" = "grAmenagaresamastarAShTre"
-"File name" = "grAmenagaresamastarAShTre.itx"
-itxtitle = "grAme nagare samastarAShTre"
-engtitle = "grAmenagaresamastarAShTre"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "gu. gaNapayyahoLLaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1, 2, 3)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ग्रामे नगरे समस्तराष्ट्रे"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: gu. gaNapayyahoLLaH
+Category: misc, sanskritgeet
+File name: grAmenagaresamastarAShTre.itx
+Indexextra: (Wiki, Videos 1, 2, 3)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: grAmenagaresamastarAShTre
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: grAmenagaresamastarAShTre
+itxtitle: grAme nagare samastarAShTre
+title: ग्रामे नगरे समस्तराष्ट्रे
 
-+++
+---
   
  ग्रामे नगरे समस्तराष्ट्रे   
 ग्रामे नगरे समस्तराष्ट्रे  

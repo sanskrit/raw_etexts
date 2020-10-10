@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vasudeva Upanishad"
-"File name" = "vasudeva.itx"
-itxtitle = "vAsudevopaniShat"
-engtitle = "Vasudeva Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "56 /108; Sama Veda - Vaishnava upanishad"
-"Latest update" = "Mar. 20, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासुदेवोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 56 /108; Sama Veda - Vaishnava upanishad
+File name: vasudeva.itx
+Language: Sanskrit
+Latest update: Mar. 20, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Vasudeva Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Vasudeva Upanishad
+itxtitle: vAsudevopaniShat
+title: वासुदेवोपनिषत्
 
-+++
+---
   
  वासुदेवोपनिषत्   
   

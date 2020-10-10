@@ -1,23 +1,23 @@
-+++
-"Text title" = "sarvopakAriNI sarvopakAriNI with TIkA"
-"File name" = "sarvopakAriNI.itx"
-itxtitle = "samAsasUtram sarvopakAriNI TIkA sahitam"
-engtitle = "samAsasUtra sarvopakAriNI with TIkA"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dhaval Patel drdhaval2785 at gmail.com"
-"Proofread by" = "Dhaval Patel drdhaval2785 at gmail.com"
-Source = "sAnkhyasaNgrahaH 1918"
-"Latest update" = "September 15, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "समाससूत्रम् सर्वोपकारिणी टीका सहितम्"
+---
+Category: major_works
+File name: sarvopakAriNI.itx
+Language: Sanskrit
+Latest update: September 15, 2014
+Location: doc_z_misc_major_works
+Proofread by: Dhaval Patel drdhaval2785 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: sAnkhyasaNgrahaH 1918
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: sarvopakAriNI sarvopakAriNI with TIkA
+Texttype: pramukha
+Transliterated by: Dhaval Patel drdhaval2785 at gmail.com
+engtitle: samAsasUtra sarvopakAriNI with TIkA
+itxtitle: samAsasUtram sarvopakAriNI TIkA sahitam
+title: समाससूत्रम् सर्वोपकारिणी टीका सहितम्
 
-+++
+---
   
  समाससूत्र सर्वोपकारिणी टीका   
   
@@ -33,14 +33,14 @@ title = "समाससूत्रम् सर्वोपकारिणी 
 परमकृपालुः स्वतःसिद्धतत्त्वज्ञानो महर्षिर्भगवान् कपिलो  
 द्वाविंशतिसूत्राण्युपादिक्षत् । सूचनात् सूत्रमिति हि व्युत्पत्तिः ।  
 तत एतैः समस्ततत्त्वानां सकलषष्टितन्त्रार्थानां च  
-सूचनं भवति । इतश्चेदं सकलसांख्यतीर्थमूलभूतं  
+सूचनं भवति । इतश्चेदं सकलसाङ्ख्यतीर्थमूलभूतं  
 तीर्थान्तराणि चैतत्प्रपञ्चभूतान्येव । सूत्रषडध्यायी तु  
 वैश्वानरावतारमहर्षिभगवत्कपिलप्रणीता इयं तु द्वाविंशतिसूत्री  
 तस्या अपि बीजभूता नारायणावतारमहर्षिभगवत्कपिलप्रणीतेति  
 वृद्धाः । तत्रादौ प्रथमसूत्रत्रयेण सकलप्रपञ्चमूलभूतानि  
 पञ्चविंशतितत्त्वानि सूचयति । अष्टौ प्रकृतयः ॥ १ ॥  
   
-षोडश विकाराः ॥ २ ॥ पुरुषः ॥ ३ ॥ अयमर्थः सांख्यसिद्धान्ते  
+षोडश विकाराः ॥ २ ॥ पुरुषः ॥ ३ ॥ अयमर्थः साङ्ख्यसिद्धान्ते  
 पञ्चविंशतिस्तत्त्वानि । तत्र मूलप्रकृतिः महत्तत्त्वम् अहङ्कारः  
 शब्दतन्मात्रा स्पर्शतन्मात्रा रूपतन्मात्रा रसतन्मात्रा गन्धतन्मात्रा  
 चेत्यष्टौ प्रकृतयः सन्ति । अत्र तत्त्वान्तरारम्भकत्वं  
@@ -103,7 +103,7 @@ title = "समाससूत्रम् सर्वोपकारिणी 
 अथ महदहङ्कारमनसामध्यवसायाभिमानसङ्कल्पा असाधारण्यो  
 वृत्तयः ताभिर्विनेन्द्रियद्वारा विषयग्रहासम्भवात् तैस्तद्ग्रहोक्त्या  
 तासां निरूपितप्रायत्वेन तत्साधारणी वृत्तिराह । पञ्च वायवः  
-॥ ११ ॥ पञ्चसंख्याकाः प्राणापानसमानोदानव्यानाख्याः वायवः  
+॥ ११ ॥ पञ्चसङ्ख्याकाः प्राणापानसमानोदानव्यानाख्याः वायवः  
 महदहङ्कारमनसां साधारणवृत्तयः जीवनसाधनानि ।  
 तत्र प्राणो नासाग्रहृन्नाभिपादाङ्गुष्ठवृत्तिः  
 अपानः कृकाटिकापृष्ठपायुपार्श्वोपस्थवृत्तिः समानो  
@@ -237,7 +237,7 @@ title = "समाससूत्रम् सर्वोपकारिणी 
 इत्येवं परिसूचयन् मतिमतां मोहापहं कापिलं  
 सूत्राणाममलं द्विकद्वयमिदं जीयाच्चिरं चेतसि ॥  
   
-इति सर्वोपकारिणी संक्षिप्तकापिलसूत्रवृत्तिः समाप्ता ॥  
+इति सर्वोपकारिणी सङ्क्षिप्तकापिलसूत्रवृत्तिः समाप्ता ॥  
   
   
 Encoded and proofread by Dhaval Patel drdhaval2785 at gmail.com  

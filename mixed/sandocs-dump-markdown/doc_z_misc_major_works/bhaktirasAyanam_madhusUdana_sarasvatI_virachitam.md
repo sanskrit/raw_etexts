@@ -1,25 +1,26 @@
-+++
-"Text title" = "Shri Bhagavad-Bhakti Rasayanam"
-"File name" = "bhaktirasaayana.itx"
-itxtitle = "bhaktirasAyanam (madhusUdana sarasvatI virachitam)"
-engtitle = "Shri Bhagavad-Bhakti Rasayanam by madhusUdana sarasvatI"
-Category = "major_works, madhusUdanasarasvatI"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "matparamahaMsa parivrAjakAcArya shrI madhusUdanasarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "D.V.N.Sarma dvnsarma at gmail.com Sunder Hattangadi"
-"Proofread by" = "D.V.N.Sarma, Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Perspective of Devotion by an advaitin philosopher"
-Source = "ShriBhagavadbhaktirasayanam - Achyutagranthamala Dvitiya Pushpam - 1st ed, Vikramabde 1984"
-"Latest update" = "June 16, 2007, April 6, 2012, April 25, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भक्तिरसायनम् (मधुसूदन सरस्वती विरचितम्)"
+---
+Author: matparamahaMsa parivrAjakAcArya shrI madhusUdanasarasvatI
+Category: major_works, madhusUdanasarasvatI
+Description/comments: Perspective of Devotion by an advaitin philosopher
+File name: bhaktirasaayana.itx
+Language: Sanskrit
+Latest update: June 16, 2007, April 6, 2012, April 25, 2015
+Location: doc_z_misc_major_works
+Proofread by: D.V.N.Sarma, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: ShriBhagavadbhaktirasayanam - Achyutagranthamala Dvitiya Pushpam - 1st ed,
+  Vikramabde 1984
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: Shri Bhagavad-Bhakti Rasayanam
+Texttype: pramukha
+Transliterated by: D.V.N.Sarma dvnsarma at gmail.com Sunder Hattangadi
+engtitle: Shri Bhagavad-Bhakti Rasayanam by madhusUdana sarasvatI
+itxtitle: bhaktirasAyanam (madhusUdana sarasvatI virachitam)
+title: भक्तिरसायनम् (मधुसूदन सरस्वती विरचितम्)
 
-+++
+---
   
  श्रीभगवद्भक्तिरसायनम्   
   परमहंसपरिव्राजकाचार्य-विश्वविख्यातवैदुषीक  

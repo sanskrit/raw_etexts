@@ -1,24 +1,24 @@
-+++
-"Text title" = "ChinamastAShTottarashatanAmastotram"
-"File name" = "chinnama.itx"
-itxtitle = "ChinnamastAShTottarashatanAmastotram"
-engtitle = "Shri Chinnamastashtottarashatanama stotram"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion/tantram"
-"Transliterated by" = "Michael Magee ac70 at cityscape.co.uk"
-"Proofread by" = "Michael Magee ac70 at cityscape.co.uk"
-"Latest update" = "Dec. 22, 1997, Sept, 15, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "छिन्नमस्ताष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Traditional
+Category: aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI
+File name: chinnama.itx
+Language: Sanskrit
+Latest update: Dec. 22, 1997, Sept, 15, 2014
+Location: doc_devii
+Proofread by: Michael Magee ac70 at cityscape.co.uk
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion/tantram
+Sublocation: devii
+Text title: ChinamastAShTottarashatanAmastotram
+Texttype: stotra
+Transliterated by: Michael Magee ac70 at cityscape.co.uk
+engtitle: Shri Chinnamastashtottarashatanama stotram
+itxtitle: ChinnamastAShTottarashatanAmastotram
+title: छिन्नमस्ताष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीछिन्नमस्ताष्टोत्तरशतनामस्तोत्रम्   
   

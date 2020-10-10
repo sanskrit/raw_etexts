@@ -1,23 +1,23 @@
-+++
-"Text title" = "antaHkaraNaprabodhaH"
-"File name" = "antaHkaraNaprabodhaH.itx"
-itxtitle = "antaHkaraNaprabodhaH (vallabhAchAryavirachitaH)"
-engtitle = "antaHkaraNaprabodhaH"
-Category = "misc, puShTimArgIya, vallabhaachaarya, advice"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अन्तःकरणप्रबोधः (वल्लभाचार्यविरचितः)"
+---
+Author: vallabhAchArya
+Category: misc, puShTimArgIya, vallabhaachaarya, advice
+Description/comments: puShTimArgIya stotraratnAkara
+File name: antaHkaraNaprabodhaH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: antaHkaraNaprabodhaH
+engtitle: antaHkaraNaprabodhaH
+itxtitle: antaHkaraNaprabodhaH (vallabhAchAryavirachitaH)
+title: अन्तःकरणप्रबोधः (वल्लभाचार्यविरचितः)
 
-+++
+---
   
  अन्तःकरणप्रबोधः   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Balatripurasundari Sahasranamavali 2"
-"File name" = "bAlAtripurasundarIsahasranAmAvalI2.itx"
-itxtitle = "bAlAtripurasundarIsahasranAmAvaliH 2 (rudrayAmalAntargatA)"
-engtitle = "bAlAtripurasundarIsahasranAmAvaliH 2"
-Category = "sahasranAmAvalI, devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH. RudrayAmAla"
-Indexextra = "(Scan)"
-"Latest update" = "August 19, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालात्रिपुरसुन्दरीसहस्रनामावलिः २ (रुद्रयामलान्तर्गता)"
+---
+Category: sahasranAmAvalI, devii, devI, dashamahAvidyA
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH. RudrayAmAla
+File name: bAlAtripurasundarIsahasranAmAvalI2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 19, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Balatripurasundari Sahasranamavali 2
+engtitle: bAlAtripurasundarIsahasranAmAvaliH 2
+itxtitle: bAlAtripurasundarIsahasranAmAvaliH 2 (rudrayAmalAntargatA)
+title: बालात्रिपुरसुन्दरीसहस्रनामावलिः २ (रुद्रयामलान्तर्गता)
 
-+++
+---
   
  श्रीबालात्रिपुरसुन्दरीसहस्रनामावलिः २   
   

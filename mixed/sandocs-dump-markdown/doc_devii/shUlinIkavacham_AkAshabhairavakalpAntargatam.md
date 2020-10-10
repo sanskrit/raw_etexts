@@ -1,23 +1,23 @@
-+++
-"Text title" = "shUlinIkavacham"
-"File name" = "shUlinIkavacham.itx"
-itxtitle = "shUlinIkavacham (AkAshabhairavakalpAntargatam)"
-engtitle = "shUlinIkavacham"
-Category = "devii, dashamahAvidyA, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Shulinikalpam, Tanjavur Saraswati Mahal Series No. 403"
-Indexextra = "(Scan)"
-"Latest update" = "December 9, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शूलिनीकवचम् (आकाशभैरवकल्पान्तर्गतम्)"
+---
+Category: devii, dashamahAvidyA, kavacha, devI
+Description/comments: Shulinikalpam, Tanjavur Saraswati Mahal Series No. 403
+File name: shUlinIkavacham.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 9, 2018
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shUlinIkavacham
+engtitle: shUlinIkavacham
+itxtitle: shUlinIkavacham (AkAshabhairavakalpAntargatam)
+title: शूलिनीकवचम् (आकाशभैरवकल्पान्तर्गतम्)
 
-+++
+---
   
  श्रीशूलिनीकवचम्   
 श्रीशिवः उवाच -  

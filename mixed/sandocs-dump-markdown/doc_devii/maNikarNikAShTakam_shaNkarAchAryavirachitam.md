@@ -1,23 +1,23 @@
-+++
-"Text title" = "maNikarNikaashhTakaM Hymn to River  Manikarnika"
-"File name" = "manikarnika8.itx"
-itxtitle = "maNikarNikAShTakam (shaNkarAchAryavirachitam)"
-engtitle = "Hymn to River Manikarnika"
-Category = "aShTaka, devii, nadI, devI, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Savithri D. savdev at hotmail.com"
-"Proofread by" = "Savithri D. savdev at hotmail.com"
-"Latest update" = "June 14, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मणिकर्णिकाष्टकम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: aShTaka, devii, nadI, devI, shankarAchArya
+File name: manikarnika8.itx
+Language: Sanskrit
+Latest update: June 14, 2000
+Location: doc_devii
+Proofread by: Savithri D. savdev at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism
+Sublocation: devii
+Text title: maNikarNikaashhTakaM Hymn to River  Manikarnika
+Transliterated by: Savithri D. savdev at hotmail.com
+engtitle: Hymn to River Manikarnika
+itxtitle: maNikarNikAShTakam (shaNkarAchAryavirachitam)
+title: मणिकर्णिकाष्टकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  मणिकर्णिकाष्टकम्   
   
@@ -31,8 +31,8 @@ title = "मणिकर्णिकाष्टकम् (शण्कराच
 ये मातर्मणिकर्णिके तव जले मज्जन्ति निष्कल्मषाः  
 सायुज्येऽपि किरीटकौस्तुभधरा नारायणाः स्युर्नराः ॥ २॥  
   
-काशी धन्यतमा विमुक्तनगरी सालंकृता गङ्गया  
-तत्रेयं मणिकर्णिका सुखकरी मुक्तिर्हि तत्किंकरी ।  
+काशी धन्यतमा विमुक्तनगरी सालङ्कृता गङ्गया  
+तत्रेयं मणिकर्णिका सुखकरी मुक्तिर्हि तत्किङ्करी ।  
 स्वर्लोकस्तुलितः सहैव विबुधैः काश्या समं ब्रह्मणा  
 काशी क्षोणितले स्थिता गुरुतरा स्वर्गो लघुत्वं गतः ॥ ३॥  
   
@@ -47,7 +47,7 @@ title = "मणिकर्णिकाष्टकम् (शण्कराच
 काशी मुक्तिपुरी सदा शिवकरी धर्मार्थमोक्षप्रदा ॥ ५॥  
   
 एको वेणुधरो धराधरधरः श्रीवत्सभूषाधरः  
-योऽप्येकः किल शंकरो विषधरो गङ्गाधरो माधवः ।  
+योऽप्येकः किल शङ्करो विषधरो गङ्गाधरो माधवः ।  
 ये मातर्मणिकर्णिके तव जले मज्जन्ति ते मानवाः  
 रुद्रा वा हरयो भवन्ति बहवस्तेषां बहुत्वं कथम् ॥ ६॥  
   
@@ -58,7 +58,7 @@ title = "मणिकर्णिकाष्टकम् (शण्कराच
   
 मध्याह्ने मणिकर्णिकास्नपनजं पुण्यं न वक्तुं क्षमः  
 स्वीयैरब्धशतैश्चतुर्मुखधरो वेदार्थदीक्षागुरुः ।  
-योगाभ्यासबलेन चन्द्रशिखरस्तत्पुण्यपारंगतः  
+योगाभ्यासबलेन चन्द्रशिखरस्तत्पुण्यपारङ्गतः  
 त्वत्तीरे प्रकरोति सुप्तपुरुषं नारायणं वा शिवम् ॥ ८॥  
   
 कृच्छैर्ः कोटिशतैः स्वपापनिधनं यच्चाश्वमेधैः फलं  
@@ -68,7 +68,7 @@ title = "मणिकर्णिकाष्टकम् (शण्कराच
   
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-श्रीमच्छंकरभगवतः कृतौ  
+श्रीमच्छङ्करभगवतः कृतौ  
 मणिकर्णिकाष्टकं सम्पूर्णम् ॥  
   
   

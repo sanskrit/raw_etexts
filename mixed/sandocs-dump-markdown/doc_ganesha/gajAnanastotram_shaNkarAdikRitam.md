@@ -1,30 +1,30 @@
-+++
-"Text title" = "sha.nkarAdikRitaM gajAnanastotram"
-"File name" = "shankarAdikRitaMgajAnanastotram.itx"
-itxtitle = "gajAnanastotram (shaNkarAdikRitam)"
-engtitle = "sha.nkarAdikRRitaM gajAnanastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.webdunia.com"
-"Proofread by" = "Karthik Chandan.P : Amith K Nagaraj(amithkn at rediffmail.com)"
-Description-comments = "mudgalapurANa"
-"Latest update" = "March 9, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गजाननस्तोत्रम् (शण्करादिकृइतम्)"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: mudgalapurANa
+File name: shankarAdikRitaMgajAnanastotram.itx
+Language: Sanskrit
+Latest update: March 9, 2004
+Location: doc_ganesha
+Proofread by: 'Karthik Chandan.P : Amith K Nagaraj(amithkn at rediffmail.com)'
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: sha.nkarAdikRitaM gajAnanastotram
+Texttype: stotra
+Transliterated by: http://www.webdunia.com
+engtitle: sha.nkarAdikRRitaM gajAnanastotram
+itxtitle: gajAnanastotram (shaNkarAdikRitam)
+title: गजाननस्तोत्रम् (शण्करादिकृइतम्)
 
-+++
+---
   
- गजाननस्तोत्रं शंकरादिकृतम्   
+ गजाननस्तोत्रं शङ्करादिकृतम्   
   
 श्री गणेशाय नमः ।  
 देवा ऊचुः ।  
-गजाननाय पूर्णाय सांख्यरूपमयाय ते ।  
+गजाननाय पूर्णाय साङ्ख्यरूपमयाय ते ।  
 विदेहेन च सर्वत्र संस्थिताय नमो नमः ॥ १॥  
   
 अमेयाय च हेरम्ब परशुधारकाय ते ।  
@@ -52,7 +52,7 @@ title = "गजाननस्तोत्रम् (शण्करादिक
 योगिनस्त्वां प्रजानन्ति तदाकारा भवन्ति ते ॥ ९॥  
   
 तेन त्वं गजवक्त्रश्च किं स्तुमस्तवां गजानन ।  
-वेदादयो विकुण्ठाश्च शंकराद्याश्च देवपाः ॥ १०॥  
+वेदादयो विकुण्ठाश्च शङ्कराद्याश्च देवपाः ॥ १०॥  
   
 शुक्रादयश्च शेषाद्याः स्तोतुं शक्ता भवन्ति नः ।  
 तथापि संस्तुतोऽसि त्वं स्फूर्त्या त्वद्दर्शनात्मना ॥ ११॥  

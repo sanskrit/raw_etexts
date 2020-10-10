@@ -1,23 +1,23 @@
-+++
-"Text title" = "nakShatrashAntistotram"
-"File name" = "nakShatrashAntistotram.itx"
-itxtitle = "nakShatrashAntistotram"
-engtitle = "nakShatrashAntistotram"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyayat gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyayat gmail.com"
-"Latest update" = "October 20, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नक्षत्रशान्तिस्तोत्रम्"
+---
+Author: Traditional
+Category: navagraha, stotra
+File name: nakShatrashAntistotram.itx
+Language: Sanskrit
+Latest update: October 20, 2018
+Location: doc_z_misc_navagraha
+Proofread by: Gopal Upadhyay gopal.j.upadhyayat gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: nakShatrashAntistotram
+Texttype: stotra
+Transliterated by: Gopal Upadhyay gopal.j.upadhyayat gmail.com
+engtitle: nakShatrashAntistotram
+itxtitle: nakShatrashAntistotram
+title: नक्षत्रशान्तिस्तोत्रम्
 
-+++
+---
   
  नक्षत्रशान्तिस्तोत्रम्   
 कृत्तिका परमा देवी रोहिणी रुचिरानना ॥ १॥  

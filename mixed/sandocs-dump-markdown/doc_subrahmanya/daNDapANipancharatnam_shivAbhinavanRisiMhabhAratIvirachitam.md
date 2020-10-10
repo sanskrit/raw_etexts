@@ -1,22 +1,22 @@
-+++
-"Text title" = "daNDapANipancharatnam"
-"File name" = "daNDapANipancharatnam.itx"
-itxtitle = "daNDapANipancharatnam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "daNDapANipancharatnam"
-Category = "subrahmanya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, pancharatna"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दण्डपाणिपञ्चरत्नम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: subrahmanya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, pancharatna
+File name: daNDapANipancharatnam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: daNDapANipancharatnam
+engtitle: daNDapANipancharatnam
+itxtitle: daNDapANipancharatnam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: दण्डपाणिपञ्चरत्नम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीदण्डपाणिपञ्चरत्नम्   
 चण्डपापहरपादसेवनं गण्डशोभिवरकुण्डलद्वयम् ।  

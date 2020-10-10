@@ -1,25 +1,25 @@
-+++
-"Text title" = "sarasvatIstotram by anubhUtisvarUpAchArya"
-"File name" = "sarasvatIstotramanubhUti.itx"
-itxtitle = "sarasvatIstotram (anubhUtisvarUpAchAryavirachitam)"
-engtitle = "sarasvatIstotram anubhUtisvarUpAchArya"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "anubhUtisvarUpAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "from Malayamaruta 4 pages 1-4"
-Indexextra = "(Scan)"
-"Latest update" = "August 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तोत्रम् (अनुभूतिस्वरूपाचार्यविरचितम्)"
+---
+Author: anubhUtisvarUpAchArya
+Category: devii, sarasvatI, devI
+Description/comments: from Malayamaruta 4 pages 1-4
+File name: sarasvatIstotramanubhUti.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 18, 2018
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIstotram by anubhUtisvarUpAchArya
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: sarasvatIstotram anubhUtisvarUpAchArya
+itxtitle: sarasvatIstotram (anubhUtisvarUpAchAryavirachitam)
+title: सरस्वतीस्तोत्रम् (अनुभूतिस्वरूपाचार्यविरचितम्)
 
-+++
+---
   
  अनुभूतिस्वरूपाचार्यकृतं सरस्वतीस्तोत्रम्   
 ॥ श्रीः ॥  

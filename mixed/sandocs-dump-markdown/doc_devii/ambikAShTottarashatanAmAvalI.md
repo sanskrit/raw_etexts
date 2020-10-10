@@ -1,22 +1,22 @@
-+++
-"Text title" = "ambikAShTottarashatanAmAvalI"
-"File name" = "ambikAShTottarashatanAmAvalI.itx"
-itxtitle = "ambikAShTottarashatanAmAvalI"
-engtitle = "ambikAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda"
-"Proofread by" = "R. Harshananda"
-Indexextra = "(navadurgApUjA)"
-"Latest update" = "February 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अम्बिकाष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI
+File name: ambikAShTottarashatanAmAvalI.itx
+Indexextra: (navadurgApUjA)
+Language: Sanskrit
+Latest update: February 17, 2018
+Location: doc_devii
+Proofread by: R. Harshananda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ambikAShTottarashatanAmAvalI
+Transliterated by: R. Harshananda
+engtitle: ambikAShTottarashatanAmAvalI
+itxtitle: ambikAShTottarashatanAmAvalI
+title: अम्बिकाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीअम्बिकाष्टोत्तरशतनामावली   
 ॐ अस्यश्री अम्बिकामहामन्त्रस्य मार्कण्डेय ऋषिः उष्णिक् छन्दः  
@@ -50,7 +50,7 @@ title = "अम्बिकाष्टोत्तरशतनामावल�
 ॐ भद्रकाल्यै नमः ।  
 ॐ अपराजितायै नमः ।  
 ॐ गायत्र्यै नमः ।  
-ॐ संकृत्यै नमः ।  
+ॐ सङ्कृत्यै नमः ।  
 ॐ सन्ध्यायै नमः ।  
 ॐ सावित्र्यै नमः । २०  
 ॐ त्रिपदाश्रयायै नमः ।  

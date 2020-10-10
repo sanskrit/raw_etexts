@@ -1,22 +1,22 @@
-+++
-"Text title" = "sAvitryupaniShat"
-"File name" = "savitri_u.itx"
-itxtitle = "sAvitryupaniShat"
-engtitle = "sAvitryupaniShat"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anshuman Pandey pandey at umich.edu"
-"Proofread by" = "Anshuman Pandey , Vijay Pai"
-Indexextra = "(sAmAnya vedAnta upaniShads)"
-"Latest update" = "December 31, 1996, July 20, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सावित्र्युपनिषत्"
+---
+Category: upanishhat, upanishad
+File name: savitri_u.itx
+Indexextra: (sAmAnya vedAnta upaniShads)
+Language: Sanskrit
+Latest update: December 31, 1996, July 20, 2015
+Location: doc_upanishhat
+Proofread by: Anshuman Pandey , Vijay Pai
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: sAvitryupaniShat
+Transliterated by: Anshuman Pandey pandey at umich.edu
+engtitle: sAvitryupaniShat
+itxtitle: sAvitryupaniShat
+title: सावित्र्युपनिषत्
 
-+++
+---
   
  सावित्र्युपनिषत्   
   
@@ -90,7 +90,7 @@ title = "सावित्र्युपनिषत्"
 गायत्री देवता ।  अकारोकारमकारा बीजाद्याः ।  
 क्षुधाऽऽदिनिरसने विनियोगः ।  क्लामित्यादिषडङ्गम् (षडङ्गन्यासः) ।  
 ध्यानम् ।  
-अमृतकरतलाग्रौ (तलार्द्रौ) सर्वसंजीवनाढ्या-  
+अमृतकरतलाग्रौ (तलार्द्रौ) सर्वसञ्जीवनाढ्या-  
 वघहरणसुदक्षौ वेदसारे मयूखे ।  
 प्रणवमयविकारौ भास्कराकारदेहौ  
 सततमनूभवेऽहं तौ बलातिबलान्तौ ॥ var बलाती  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "Gangashtakam 10"
-"File name" = "gangAShTakam10.itx"
-itxtitle = "gaNgAShTakam 10 (ravIndrakumArasiddhAntashAstrikRitam girirAjasutAM vitulAm)"
-engtitle = "gangAShTakam 10"
-Category = "devii, devI, nadI, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Ravindra Kumar Siddhanta Shastri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Proofread by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Description/comments" = "Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty"
-Indexextra = "(Scan)"
-"Latest update" = "December 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाष्टकम् १० (रवीन्द्रकुमारसिद्धान्तशास्त्रिकृइतम् गिरिराजसुतां वितुलाम्)"
+---
+Author: Ravindra Kumar Siddhanta Shastri
+Category: devii, devI, nadI, aShTaka
+Description/comments: Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty
+File name: gangAShTakam10.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 7, 2019
+Location: doc_devii
+Proofread by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangashtakam 10
+Transliterated by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+engtitle: gangAShTakam 10
+itxtitle: gaNgAShTakam 10 (ravIndrakumArasiddhAntashAstrikRitam girirAjasutAM vitulAm)
+title: गण्गाष्टकम् १० (रवीन्द्रकुमारसिद्धान्तशास्त्रिकृइतम् गिरिराजसुतां वितुलाम्)
 
-+++
+---
   
  गङ्गाष्टकम् १०   
 श्रीगणेशाय नमः ।  
@@ -45,7 +45,7 @@ title = "गण्गाष्टकम् १० (रवीन्द्रक�
 स्फटिकोपमितां स्तुतिगीतिमतां प्रणमाम्यजितामधिराजनताम् ॥ ७॥  
   
 सकलासुहितां सततावहितां कुणपैः पिहितां चिकुरावचिताम् ।  
-विहगध्वनितां विधिपात्रमतां प्रणमाम्यजितां श्रुतिसंप्रथिताम् ॥ ८॥  
+विहगध्वनितां विधिपात्रमतां प्रणमाम्यजितां श्रुतिसम्प्रथिताम् ॥ ८॥  
   
 इति रवीन्द्रकुमार सिद्धान्तशास्त्रि कृतं गङ्गाष्टकं सम्पूर्णम् ।  
   

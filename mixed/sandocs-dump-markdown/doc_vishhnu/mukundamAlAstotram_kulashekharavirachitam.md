@@ -1,30 +1,32 @@
-+++
-"Text title" = "mukundamAlAstotra kulashekhara"
-"File name" = "mukundamAlA.itx"
-itxtitle = "mukundamAlAstotram (kulashekharavirachitam)"
-engtitle = "MukundamAlAstotram by Kulashekhara Versions 1 and 2"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "kulashekhara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "GM original modified and proofread as per mukundamAlA by Ravindra Seth in  Hindi available at DLI."
-"Proofread by" = "Proofread by Madhavi U mupadrasta at gmail.com, KSR"
-Description-comments = "There are two variants to this stotra found in"
-Indexextra = "(Hindi1 | Telugu1 | Telugu2 | ISKCON Text/Meaning | Audio | Video | kAvyamAla1,p14, sangraha)"
-"Latest update" = "December 1, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मुकुन्दमालास्तोत्रम् (कुलशेखरविरचितम्)"
+---
+Author: kulashekhara
+Category: vishhnu, krishna, stotra, vishnu
+Description-comments: There are two variants to this stotra found in
+File name: mukundamAlA.itx
+Indexextra: (Hindi1 | Telugu1 | Telugu2 | ISKCON Text/Meaning | Audio | Video | kAvyamAla1,p14,
+  sangraha)
+Language: Sanskrit
+Latest update: December 1, 2012
+Location: doc_vishhnu
+Proofread by: Proofread by Madhavi U mupadrasta at gmail.com, KSR
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: mukundamAlAstotra kulashekhara
+Texttype: stotra
+Transliterated by: GM original modified and proofread as per mukundamAlA by Ravindra
+  Seth in  Hindi available at DLI.
+engtitle: MukundamAlAstotram by Kulashekhara Versions 1 and 2
+itxtitle: mukundamAlAstotram (kulashekharavirachitam)
+title: मुकुन्दमालास्तोत्रम् (कुलशेखरविरचितम्)
 
-+++
+---
   
  मुकुन्दमालास्तोत्रम् कुलशेखरविरचितम् संस्करण् १ अथवा २   
   
-संस्करण् - १ श्लोक संख्या ४०  
+संस्करण् - १ श्लोक सङ्ख्या ४०  
   
 श्रीवल्लभेति वरदेति दयापरेति  
 भक्तप्रियेति भवलुण्ठनकोविदेति ।  
@@ -180,14 +182,14 @@ title = "मुकुन्दमालास्तोत्रम् (कुल
 नामानि नारायणगोचराणि ॥ ३०॥॥ का २०॥  
   
 इदं शरीरं परिणामपेशलं    var  श्लथसन्धिजर्जरं    
-पतत्यवश्यं परिणामपेशलम् ।   var  पतत्यवश्यं श्लथसंधि जर्जरम् ।  
+पतत्यवश्यं परिणामपेशलम् ।   var  पतत्यवश्यं श्लथसन्धि जर्जरम् ।  
 किमौषधैः क्लिश्यसि मूढ दुर्मते  
 निरामयं कृष्णरसायनं पिब ॥ ३१॥॥ का २१॥  
   
 दारा वाराकरवरसुता ते तनूजो विरिञ्चिः    var  तेऽङ्गजोऽयं  
 स्तोता वेदस्तव सुरगणो भृत्यवर्गः प्रसादः ।  
 मुक्तिर्माया जगद् अविकलं तावकी देवकी ते    var  मुक्तिर्मध्ये  
-माता मित्रं बलरिपुसुतस्तत्त्वदन्यंन जाने ॥ ३२॥॥ का २५॥    var  बलरिपुसुतस्तत्त्वतोऽन्यन्न  
+माता मित्रं बलरिपुसुतस्तत्त्वदन्यन्न जाने ॥ ३२॥॥ का २५॥    var  बलरिपुसुतस्तत्त्वतोऽन्यन्न  
   
 कृष्णो रक्षतु नो जगत्त्रयगुरुः कृष्णं नमध्वं सदा  
 कृष्णेनाखिलशत्रवो विनिहताः कृष्णाय तस्मै नमः ।  
@@ -233,7 +235,7 @@ title = "मुकुन्दमालास्तोत्रम् (कुल
   
   
   
-संस्करण् - २ श्लोक संख्या ५४  
+संस्करण् - २ श्लोक सङ्ख्या ५४  
   
 वन्दे मुकुन्दमरविन्ददलायताक्षं  
 कुन्देन्दुशङ्खदशनं शिशुगोपवेषम् ।  
@@ -424,7 +426,7 @@ title = "मुकुन्दमालास्तोत्रम् (कुल
 देवेश देहि कृपणस्य करावलम्बम् ॥ ३७॥  
   
 इदं शरीरं परिणामपेशलं    var  श्लथसन्धिजर्जरं    
-पतत्यवश्यं परिणामपेशलम् ।   var  पतत्यवश्यं श्लथसंधि जर्जरम् ।  
+पतत्यवश्यं परिणामपेशलम् ।   var  पतत्यवश्यं श्लथसन्धि जर्जरम् ।  
 किमौषधैः क्लिश्यसि मूढ दुर्मते  
 निरामयं कृष्णरसायनं पिब ॥ ३८॥॥ का २१॥  
   
@@ -466,7 +468,7 @@ title = "मुकुन्दमालास्तोत्रम् (कुल
 दारा वाराकरवरसुता ते तनूजो विरिञ्चिः    var  तेऽङ्गजोऽयं  
 स्तोता वेदस्तव सुरगणो भृत्यवर्गः प्रसादः ।  
 मुक्तिर्माया जगद् अविकलं तावकी देवकी ते    var  मुक्तिर्मध्ये  
-माता मित्रं बलरिपुसुतस्तत्त्वदन्यंन जाने ॥ ४६॥॥ का २५॥    var  बलरिपुसुतस्तत्त्वतोऽन्यन्न  
+माता मित्रं बलरिपुसुतस्तत्त्वदन्यन्न जाने ॥ ४६॥॥ का २५॥    var  बलरिपुसुतस्तत्त्वतोऽन्यन्न  
   
 प्रणाममीशस्य शिरःफलं विदुः  
 तदर्चनं पाणिफलं दिवौकसः ।  

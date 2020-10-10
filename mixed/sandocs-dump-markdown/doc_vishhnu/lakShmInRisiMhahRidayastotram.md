@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Lakshmi Nrisimha Hridaya Stotra"
-"File name" = "lakShmInRRisimhahRRidayastotram.itx"
-itxtitle = "lakShmInRisiMhahRidayastotram"
-engtitle = "Shri Lakshmi Nrusimha Hridaya Stotra"
-Category = "vishhnu, hRidaya, lakShmI, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA, Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Meaning)"
-"Latest update" = "August 13, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनृइसिंहहृइदयस्तोत्रम्"
+---
+Category: vishhnu, hRidaya, lakShmI, dashAvatAra
+File name: lakShmInRRisimhahRRidayastotram.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: August 13, 2019
+Location: doc_vishhnu
+Proofread by: NA, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Lakshmi Nrisimha Hridaya Stotra
+engtitle: Shri Lakshmi Nrusimha Hridaya Stotra
+itxtitle: lakShmInRisiMhahRidayastotram
+title: लक्ष्मीनृइसिंहहृइदयस्तोत्रम्
 
-+++
+---
   
  श्रीलक्ष्मीनृसिंहहृदयस्तोत्रम्   
 अस्य श्रीलक्ष्मीनृसिंहहृदय महामन्त्रस्य प्रह्लाद ऋषिः ।  
@@ -180,7 +180,7 @@ title = "लक्ष्मीनृइसिंहहृइदयस्तो�
 नृसिंह तुष्टो भक्तोऽयं भुक्तिं मुक्तिं प्रयच्छति ॥ ४४॥  
   
 नृसिंहहृदयं यस्तु पठेन्नित्यं समाहितः ।  
-नृसिंहत्वं समाप्नोति नृसिंहः संप्रसीदति ॥ ४५॥  
+नृसिंहत्वं समाप्नोति नृसिंहः सम्प्रसीदति ॥ ४५॥  
   
 त्रिसन्ध्यं यः पठेन्नित्यं मन्दवारे विषेशतः ।  
 राजद्वारे सभास्थाने सर्वत्र विजयी भवेत् ॥ ४६॥  

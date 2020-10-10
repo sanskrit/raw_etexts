@@ -1,25 +1,25 @@
-+++
-"Text title" = "vedavyAsAShTottarashatanAmAvalI 2"
-"File name" = "vyAsa108_2.itx"
-itxtitle = "vedavyAsAShTottarashatanAmAvaliH 2"
-engtitle = "Veda Vyasa Ashtottara-shata Namavali 2"
-Category = "aShTottarashatanAmAvalI, deities_misc, nAmAvalI, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "nAmAvalI"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "[source- Chitrapur Stutimanjari 3rd edn. 2008]"
-"Latest update" = "July 31, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदव्यासाष्टोत्तरशतनामावलिः २"
+---
+Author: Vedic Tradition
+Category: aShTottarashatanAmAvalI, deities_misc, nAmAvalI, gurudev
+Description-comments: '[source- Chitrapur Stutimanjari 3rd edn. 2008]'
+File name: vyAsa108_2.itx
+Language: Sanskrit
+Latest update: July 31, 2012
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vedavyAsAShTottarashatanAmAvalI 2
+Texttype: nAmAvalI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Veda Vyasa Ashtottara-shata Namavali 2
+itxtitle: vedavyAsAShTottarashatanAmAvaliH 2
+title: वेदव्यासाष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  श्रीवेदव्यासाष्टोत्तरशतनामावली २   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Sri Krishna-jayanti-nirNaya"
-"File name" = "krishna_jayanti.itx"
-itxtitle = "kRiShNajayantI nirNayaH"
-engtitle = "kRiShNajayantI nirNayaH"
-Category = "vishhnu, krishna, stotra, Ananda-tIrtha, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Srimad Ananda Tiirtha, also known as Sri Madhva"
-Language = "Sanskrit"
-Subject = "Procedure for deciding and observing : Lord Krishna's birthday."
-"Transliterated by" = "Murthy Navarathna murthy at nstl.com"
-"Proofread by" = "Shrisha Rao shrao at dvaita.org"
-"Latest update" = "September 3, 1996"
-"Send corrections to" = "info@dvaita.org"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णजयन्ती निर्णयः"
+---
+Author: Srimad Ananda Tiirtha, also known as Sri Madhva
+Category: vishhnu, krishna, stotra, Ananda-tIrtha, vishnu
+File name: krishna_jayanti.itx
+Language: Sanskrit
+Latest update: September 3, 1996
+Location: doc_vishhnu
+Proofread by: Shrisha Rao shrao at dvaita.org
+Send corrections to: info@dvaita.org
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: 'Procedure for deciding and observing : Lord Krishna''s birthday.'
+Sublocation: vishhnu
+Text title: Sri Krishna-jayanti-nirNaya
+Texttype: stotra
+Transliterated by: Murthy Navarathna murthy at nstl.com
+engtitle: kRiShNajayantI nirNayaH
+itxtitle: kRiShNajayantI nirNayaH
+title: कृइष्णजयन्ती निर्णयः
 
-+++
+---
   
  श्रीकृष्णजयन्ती निर्णयः   
   
@@ -38,7 +38,7 @@ title = "कृइष्णजयन्ती निर्णयः"
 यो भुङ्क्ते तद्दिने मोहा(लोभा)त् पूयशोणितमत्ति सः ।  
 तस्मादुपवासेन्नित्य(पुण्य)ं तद्दिने(नं) श्रद्धयान्वितः ॥ ४॥  
   
-कृत्वा शौचं यथा न्यायं स्नानं कुर्यादतंद्रितः ।  
+कृत्वा शौचं यथा न्यायं स्नानं कुर्यादतन्द्रितः ।  
 प्रभात काले कुर्वीत यूगायेत्यादिमन्त्रतः ॥ ५॥  
   
 नित्याह्निकं प्रकुर्वीत भगवन्तमनुस्मरन् ।  

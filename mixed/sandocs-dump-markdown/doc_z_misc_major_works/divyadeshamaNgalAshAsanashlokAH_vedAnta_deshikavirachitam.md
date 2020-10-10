@@ -1,24 +1,24 @@
-+++
-"Text title" = "divyadeshamangalashasanashlokah"
-"File name" = "divyadeshamaNgalAshAsanashlokAH.itx"
-itxtitle = "divyadeshamaNgalAshAsanashlokAH (vedAnta deshikavirachitam)"
-engtitle = "divyadesha mangalAshAsana shlokAH"
-Category = "major_works, vedAnta-deshika, vedanta"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Source = "Stotras of Vedanta Desika"
-Indexextra = "(Text with comments)"
-"Latest update" = "October 2, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दिव्यदेशमण्गलाशासनश्लोकाः (वेदान्त देशिकविरचितम्)"
+---
+Author: vedAntadeshika
+Category: major_works, vedAnta-deshika, vedanta
+File name: divyadeshamaNgalAshAsanashlokAH.itx
+Indexextra: (Text with comments)
+Language: Sanskrit
+Latest update: October 2, 2017
+Location: doc_z_misc_major_works
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotras of Vedanta Desika
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: divyadeshamangalashasanashlokah
+Transliterated by: Pallasena Narayanaswami ppnswami at gmail.com
+engtitle: divyadesha mangalAshAsana shlokAH
+itxtitle: divyadeshamaNgalAshAsanashlokAH (vedAnta deshikavirachitam)
+title: दिव्यदेशमण्गलाशासनश्लोकाः (वेदान्त देशिकविरचितम्)
 
-+++
+---
   
  दिव्यदेशमङ्गलाशासनश्लोकाः   
   

@@ -1,26 +1,26 @@
-+++
-"Text title" = "Pranagnihotra Upanishad"
-"File name" = "pranagni.itx"
-itxtitle = "prANAgnihotropaniShat"
-engtitle = "Pranagnihotra Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Indexextra = "(Scan 1, 2)"
-"Latest update" = "March 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्राणाग्निहोत्रोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+File name: pranagni.itx
+Indexextra: (Scan 1, 2)
+Language: Sanskrit
+Latest update: March 23, 2020
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion
+Sublocation: upanishhat
+Text title: Pranagnihotra Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Pranagnihotra Upanishad
+itxtitle: prANAgnihotropaniShat
+title: प्राणाग्निहोत्रोपनिषत्
 
-+++
+---
   
  प्राणाग्निहोत्रोपनिषत्   
-शरीरयज्ञसंशुद्धचित्तसंजातबोधतः ।  
+शरीरयज्ञसंशुद्धचित्तसञ्जातबोधतः ।  
 मुनयो यत्पदं यान्ति तद्रामपदमाश्रये ॥  
   
 ॐ सह नाववतु ॥ सह नौ भुनक्तु ॥ सह वीर्यं  
@@ -30,7 +30,7 @@ title = "प्राणाग्निहोत्रोपनिषत्"
   
 हरिः ॐ ॥ अथातः सर्वोपनिषत्सारं संसारज्ञानातीत-  
 मन्त्रसूक्तं शारीरयज्ञं व्याख्यास्यामः । यस्मिन्नेव  
-पुरुषः शरीरे विनाप्यग्निहोत्रेण विनापि सांख्ययोगेन  
+पुरुषः शरीरे विनाप्यग्निहोत्रेण विनापि साङ्ख्ययोगेन  
 संसारविमुक्तिर्भवतीति । स्वेन विधिनान्नं भूमौ निक्षिप्य  
 या ओषधीः सोमराज्ञीरिति तिसृभिरन्नपत इति द्वाभ्या-  
 मनुमन्त्रयते । या ओषधयः सोमराज्ञीर्बह्वीः शतविचक्षणाः ।  
@@ -52,7 +52,7 @@ title = "प्राणाग्निहोत्रोपनिषत्"
   
 अन्तश्चरसि भूतेषु गुहायां विश्वतोमुखः ।  
 त्वं यज्ञस्त्वं ब्रह्मा त्वं रुद्रस्तवं विष्णुस्त्वं वषट्कार  
-आपो ज्योती रसोऽमृतं ब्रह्म भूर्भुवः सुवरोंनमः ।  
+आपो ज्योती रसोऽमृतं ब्रह्म भूर्भुवः सुवरोन्नमः ।  
 आपः पुनन्तु पृथिवीं पृथिवी पूता पुनातु माम् ।  
 पुनन्तु ब्रह्मणस्पतिर्ब्रह्मपूता पुनातु माम् ।  
 यदुच्छिष्टमभोज्यं यद्वा दुश्चरितं मम ।  
@@ -78,7 +78,7 @@ title = "प्राणाग्निहोत्रोपनिषत्"
 सोऽस्यान्ते अमृताय च । अनावित्येष बाह्यात्मा  
 ध्यायेताग्निहोत्रं जोहोमीति । सर्वेषामेव सूनुर्भवति ।  
 अस्य यज्ञपरिवृता आहुतीर्होमयति । स्वशरीरे यज्ञं  
-परिवर्तयामीति । चत्वारोऽग्नयस्ते किंभागधेयाः ।  
+परिवर्तयामीति । चत्वारोऽग्नयस्ते किम्भागधेयाः ।  
 तत्रसूर्योऽग्निर्नाम सूर्यमण्डलाकृतिः सहस्ररश्मि-  
 परिवृत एकऋषिर्भूत्वा मूर्धनि तिष्ठति । यस्मादुक्तो  
 दर्शनाग्निर्नाम चतुराकृतिराहवनीयो भूत्वा मुखे तिष्ठति ।  

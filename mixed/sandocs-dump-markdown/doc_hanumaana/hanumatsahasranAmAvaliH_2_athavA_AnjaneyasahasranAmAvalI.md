@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumatsahasranAmAvalI 2"
-"File name" = "hanumatsahasranAmAvalI2.itx"
-itxtitle = "hanumatsahasranAmAvaliH 2 athavA AnjaneyasahasranAmAvalI"
-engtitle = "hanumatsahasranAmAvalI 2 or Anjaneyasahasranamavali"
-Category = "sahasranAmAvalI, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्सहस्रनामावलिः २ अथवा आञ्जनेयसहस्रनामावली"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: sahasranAmAvalI, hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumatsahasranAmAvalI2.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatsahasranAmAvalI 2
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: hanumatsahasranAmAvalI 2 or Anjaneyasahasranamavali
+itxtitle: hanumatsahasranAmAvaliH 2 athavA AnjaneyasahasranAmAvalI
+title: हनुमत्सहस्रनामावलिः २ अथवा आञ्जनेयसहस्रनामावली
 
-+++
+---
   
  श्रीहनुमत्सहस्रनामावलिः २ अथवा आन्जनेयसहस्रनामावलिः   
   

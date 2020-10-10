@@ -1,25 +1,25 @@
-+++
-"Text title" = "praNavasahasranAmAvalI"
-"File name" = "praNavasahasranAmAvalI.itx"
-itxtitle = "praNavasahasranAmAvalI"
-engtitle = "praNavasahasranAmAvalI"
-Category = "sahasranAmAvalI, shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com,PSA Easwaran"
-Source = "Atmanatha Stuti Manjari"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "January 3, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रणवसहस्रनामावली"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: Traditional
+Category: sahasranAmAvalI, shiva, nAmAvalI
+File name: praNavasahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: January 3, 2017
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com,PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Atmanatha Stuti Manjari
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: praNavasahasranAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: praNavasahasranAmAvalI
+itxtitle: praNavasahasranAmAvalI
+title: प्रणवसहस्रनामावली
 
-+++
+---
   
  श्रीप्रणवसहस्रनामावलिः   
   
@@ -118,7 +118,7 @@ title = "प्रणवसहस्रनामावली"
 जगन्नाथाय । अधिवाचकाय । व्राताय नमः ॥ २६०  
   
 ॐ व्रातनाथाय नमः । व्रात्याय । व्रात्यादिदूरगाय । ब्रह्मदत्ताय ।  
-चेकितानाय । देवदत्ताय । अतिसंमताउअ । श्रमणाय । अश्रमणाय ।  
+चेकितानाय । देवदत्ताय । अतिसम्मताउअ । श्रमणाय । अश्रमणाय ।  
 पुण्याय । पुण्यफलाय । आश्रमणां फलप्रदाय । कालाय ।  
 कालयित्रे । कल्याय । कालकालाय । कलाधराय । धनुष्मते ।  
 इषुमते । धन्वाविने नमः ॥ २८०  

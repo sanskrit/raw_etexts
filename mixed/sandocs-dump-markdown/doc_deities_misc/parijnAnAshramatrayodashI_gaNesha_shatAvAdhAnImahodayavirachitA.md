@@ -1,23 +1,23 @@
-+++
-"Text title" = "parijnAnAshramatrayodashI"
-"File name" = "parijnAnAshramatrayodashI.itx"
-itxtitle = "parijnAnAshramatrayodashI (gaNesha shatAvAdhAnImahodayavirachitA)"
-engtitle = "parijnAnAshramatrayodashI"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Shri Ganesha Shatavadhani"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Source = "Shri Chitrapura Stuti Manjari,3rd ed. 2008"
-Acknowledge-Permission = "Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/"
-"Latest update" = "March 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परिज्ञानाश्रमत्रयोदशी (गणेश शतावाधानीमहोदयविरचिता)"
+---
+Acknowledge-Permission: Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/
+Author: Shri Ganesha Shatavadhani
+Category: deities_misc, gurudev
+File name: parijnAnAshramatrayodashI.itx
+Language: Sanskrit
+Latest update: March 2, 2018
+Location: doc_deities_misc
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri Chitrapura Stuti Manjari,3rd ed. 2008
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: parijnAnAshramatrayodashI
+engtitle: parijnAnAshramatrayodashI
+itxtitle: parijnAnAshramatrayodashI (gaNesha shatAvAdhAnImahodayavirachitA)
+title: परिज्ञानाश्रमत्रयोदशी (गणेश शतावाधानीमहोदयविरचिता)
 
-+++
+---
   
  श्रीपरिज्ञानाश्रमत्रयोदशी   
 आनन्दाश्रमशिष्याग्र्यं स्वानन्दाम्बुधिमज्जितम् ।  
@@ -50,7 +50,7 @@ title = "परिज्ञानाश्रमत्रयोदशी (गण
 निर्मिमे निर्ममेन्द्रो यः स्तवान् वेदान्तवासितान् ।  
 गीतासक्तं नुमस्तं श्रीपरिज्ञानाश्रमं गुरुम् ॥ १०॥  
   
-कैवल्यसंनिकर्षत्वे तथाहंग्रहचिन्तने ।  
+कैवल्यसन्निकर्षत्वे तथाहङ्ग्रहचिन्तने ।  
 यस्यासीद्हृदयं वन्दे परिज्ञानाश्रमं गुरुम् ॥ ११॥  
   
 भक्तचेतोरथाध्यक्षो रथयात्रां महेशितुः ।  

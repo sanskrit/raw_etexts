@@ -1,24 +1,24 @@
-+++
-"Text title" = "pitRistotram"
-"File name" = "pitRistotram.itx"
-itxtitle = "pitRistotram pitRistuti (garuDapurANAntargataM ruchikRitam)"
-engtitle = "pitRistotram"
-Category = "deities_misc, vyAsa"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Vyasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "sansknet"
-"Proofread by" = "NA"
-Source = "shrIgAruDe mahApurANe adhyAya 89 ruchikRitaM"
-Indexextra = "(Garuda Purana)"
-"Latest update" = "December 12, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पितृइस्तोत्रम् पितृइस्तुति (गरुडपुराणान्तर्गतं रुचिकृइतम्)"
+---
+Author: Vyasa
+Category: deities_misc, vyAsa
+File name: pitRistotram.itx
+Indexextra: (Garuda Purana)
+Language: Sanskrit
+Latest update: December 12, 2015
+Location: doc_deities_misc
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrIgAruDe mahApurANe adhyAya 89 ruchikRitaM
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: pitRistotram
+Transliterated by: sansknet
+engtitle: pitRistotram
+itxtitle: pitRistotram pitRistuti (garuDapurANAntargataM ruchikRitam)
+title: पितृइस्तोत्रम् पितृइस्तुति (गरुडपुराणान्तर्गतं रुचिकृइतम्)
 
-+++
+---
   
  पितृस्तोत्रं पितृस्तुतिः   
   

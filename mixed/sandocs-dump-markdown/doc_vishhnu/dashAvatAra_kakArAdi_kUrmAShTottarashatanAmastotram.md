@@ -1,24 +1,25 @@
-+++
-"Text title" = "kakArAdi kUrmAShTottarashatanAmastotram"
-"File name" = "kakArAdikUrma108nAmastotram.itx"
-itxtitle = "dashAvatAra kakArAdi kUrmAShTottarashatanAmastotram"
-engtitle = "kakArAdi kUrmAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "paNDita shrI bellaMkoNDa rAmarAya kavIndra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA"
-"Latest update" = "January 24, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतार ककारादि कूर्माष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: paNDita shrI bellaMkoNDa rAmarAya kavIndra
+Category: aShTottarashatanAma, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra,
+  vishnu
+File name: kakArAdikUrma108nAmastotram.itx
+Language: Sanskrit
+Latest update: January 24, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kakArAdi kUrmAShTottarashatanAmastotram
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: kakArAdi kUrmAShTottarashatanAmastotram
+itxtitle: dashAvatAra kakArAdi kUrmAShTottarashatanAmastotram
+title: दशावतार ककारादि कूर्माष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  ककारादि श्रीकूर्माष्टोत्तरशतनामस्तोत्रम्   
 श्री हयग्रीवाय नमः ।  
@@ -51,11 +52,11 @@ title = "दशावतार ककारादि कूर्माष्ट
 कमनीयः कविस्तुत्यः कनिधिः कमलापतिः ।  
 कमलासनकल्याणसन्धाता कलिनाशनः ॥ ९॥  
   
-कटाक्षक्षतदेवार्तिः केन्द्रादिविधृतांजलिः ।  
+कटाक्षक्षतदेवार्तिः केन्द्रादिविधृताञ्जलिः ।  
 कालीपतिप्रीतिपात्रं कामितार्थप्रदः कविः ॥ १०॥  
   
 कूटस्थः कूटकमठः कूटयोगिसुदुर्लभः ।  
-कामहीनः कामहेतुः कामभृत्कंजलोचनः ॥ ११॥  
+कामहीनः कामहेतुः कामभृत्कञ्जलोचनः ॥ ११॥  
   
 क्रतुभुग्दैन्यविध्वंसी क्रतुभुक्पालकः क्रतुः ।  
 क्रतुपूज्यः क्रतुनिधिः क्रतुत्राता क्रतूद्भवः ॥ १२॥  
@@ -69,7 +70,7 @@ title = "दशावतार ककारादि कूर्माष्ट
 कटुनिश्श्वासनिर्धूतरक्षस्तूलः कृताद्भुतः ।  
 कौमोदकीहतामित्रः कौतुकाकविताहवः ॥ १५॥  
   
-करालिकंटकोद्धर्ता कविताब्धिमणीसुमः ।  
+करालिकण्टकोद्धर्ता कविताब्धिमणीसुमः ।  
 कैवल्यवल्लरीकन्दः कन्दुकीकृतचन्दिरः ॥ १६॥  
   
 करपीतसमस्ताब्धिः कायान्तर्गतवाश्चरः ।  

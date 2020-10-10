@@ -1,24 +1,24 @@
-+++
-"Text title" = "gaNeshAvatArastotram"
-"File name" = "gaNeshAvatArastotram.itx"
-itxtitle = "gaNeshAvatArastotram (mudgalamurANAntargatam)"
-engtitle = "gaNeshAvatArastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "mudgalapurANe"
-"Latest update" = "September 15, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशावतारस्तोत्रम् (मुद्गलमुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: mudgalapurANe
+File name: gaNeshAvatArastotram.itx
+Language: Sanskrit
+Latest update: September 15, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshAvatArastotram
+Texttype: stotra
+Transliterated by: 'Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)'
+engtitle: gaNeshAvatArastotram
+itxtitle: gaNeshAvatArastotram (mudgalamurANAntargatam)
+title: गणेशावतारस्तोत्रम् (मुद्गलमुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीगणेशावतारस्तोत्रम्   
   
@@ -27,7 +27,7 @@ title = "गणेशावतारस्तोत्रम् (मुद्ग
 अनन्ता अवताराश्च गणेशस्य महात्मनः ।  
 न शक्यते कथां वक्तुं मया वर्षशतैरपि ॥ १॥  
   
-संक्षेपेण प्रवक्ष्यामि मुख्यानां मुख्यतां गतान् ।  
+सङ्क्षेपेण प्रवक्ष्यामि मुख्यानां मुख्यतां गतान् ।  
 अवतारांश्च तस्याष्टौ विख्यातान् ब्रह्मधारकान् ॥ २॥  
   
 वक्रतुण्डावतारश्च देहिनां ब्रह्मधारकः ।  
@@ -39,7 +39,7 @@ title = "गणेशावतारस्तोत्रम् (मुद्ग
 महोदर इति ख्यातो ज्ञानब्रह्मप्रकाशकः ।  
 मोहासुरस्य शत्रुर्वै आखुवाहनगः स्मृतः ॥ ५॥  
   
-गजाननः स विज्ञेयः सांख्येभ्यः सिद्धिदायकः ।  
+गजाननः स विज्ञेयः साङ्ख्येभ्यः सिद्धिदायकः ।  
 लोभासुरप्रहर्ता च मूषकगः प्रकीर्तितः ॥ ६॥  
   
 लम्बोदरावतारो वै क्रोधसुरनिबर्हणः ।  

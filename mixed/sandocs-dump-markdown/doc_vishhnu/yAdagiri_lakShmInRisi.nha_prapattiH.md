@@ -1,24 +1,25 @@
-+++
-"Text title" = "yAdagirI lakShmI narasi.nha prapattiH"
-"File name" = "yAdagirilaxmiprapatti.itx"
-itxtitle = "yAdagiri lakShmInRisi.nha prapattiH"
-engtitle = "yAdagiri laxmInRisi.nha prapattiH"
-Category = "vishhnu, vishnu_misc, stotra, vAngIpuram-narasinhAchArya, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Texttype = "stotra"
-Author = "va.ngIpuram narasi.nhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.mypurohith.com"
-"Proofread by" = "Venkata N Vangeepuram vangeepuram at rediffmail.com Grandson of the composer"
-"Latest update" = "December 15, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यादगिरि लक्ष्मीनृइसिंह प्रपत्तिः"
+---
+Author: va.ngIpuram narasi.nhAchArya
+Category: vishhnu, vishnu_misc, stotra, vAngIpuram-narasinhAchArya, vishnu
+File name: yAdagirilaxmiprapatti.itx
+Language: Sanskrit
+Latest update: December 15, 2004
+Location: doc_vishhnu
+Proofread by: Venkata N Vangeepuram vangeepuram at rediffmail.com Grandson of the
+  composer
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: yAdagirI lakShmI narasi.nha prapattiH
+Texttype: stotra
+Transliterated by: http://www.mypurohith.com
+engtitle: yAdagiri laxmInRisi.nha prapattiH
+itxtitle: yAdagiri lakShmInRisi.nha prapattiH
+title: यादगिरि लक्ष्मीनृइसिंह प्रपत्तिः
 
-+++
+---
   
  श्रीयादगिरि लक्ष्मीनृसिंह प्रपत्तिः   
   
@@ -27,7 +28,7 @@ title = "यादगिरि लक्ष्मीनृइसिंह प्
 लोकस्य मङ्गळकरीम् रमणीय रूपाम्  
 पद्मालयाम् भगवतीम् शरणम् प्रपद्ये ॥ १॥  
   
-श्रीयादनामकमुनींद्रतपोविशेषात्  
+श्रीयादनामकमुनीन्द्रतपोविशेषात्  
 श्रीयादशैलशिखरे सतत प्रकाशौ  
 भक्तानुरागभरितौ भवरोग वैद्यौ  
 लक्ष्मीनृसिंह चरणौ शरणम् प्रपद्ये ॥ २॥  
@@ -52,7 +53,7 @@ title = "यादगिरि लक्ष्मीनृइसिंह प्
 सद्भक्त मूलधनमित्युदित प्रभावौ  
 लक्ष्मीनृसिंह चरणौ शरणम् प्रपद्ये ॥ ६॥  
   
-॥ इति श्री वंगीपुरम् नरसिंहाचार्य विरचितं  
+॥ इति श्री वङ्गीपुरम् नरसिंहाचार्य विरचितं  
 श्री यादगिरि लक्ष्मीनृसिंह प्रपत्तिः समाप्तं ॥  
   
   

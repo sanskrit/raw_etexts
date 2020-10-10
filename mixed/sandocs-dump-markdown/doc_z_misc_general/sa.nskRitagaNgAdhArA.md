@@ -1,23 +1,23 @@
-+++
-"Text title" = "sanskritagangAdhArA"
-"File name" = "sanskritagangAdhArA.itx"
-itxtitle = "sa.nskRitagaNgAdhArA"
-engtitle = "Sanskrita Gangadhara"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Samartha Shree"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Srinivas Kommireddy srinivas.kommireddy at googlemail.com"
-"Proofread by" = "Srinivas Kommireddy"
-Source = "Sanskrit Jagat"
-"Latest update" = "December 6, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृइतगण्गाधारा"
+---
+Author: Samartha Shree
+Category: misc, sanskritgeet
+File name: sanskritagangAdhArA.itx
+Language: Sanskrit
+Latest update: December 6, 2015
+Location: doc_z_misc_general
+Proofread by: Srinivas Kommireddy
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sanskrit Jagat
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: sanskritagangAdhArA
+Transliterated by: Srinivas Kommireddy srinivas.kommireddy at googlemail.com
+engtitle: Sanskrita Gangadhara
+itxtitle: sa.nskRitagaNgAdhArA
+title: संस्कृइतगण्गाधारा
 
-+++
+---
   
  संस्कृतगङ्गाधारा   
   
@@ -27,7 +27,7 @@ title = "संस्कृइतगण्गाधारा"
 संस्कृतगङ्गा धारा ॥ १॥  
   
 श्रुतिमणियुक्ता, पुराणचित्ता, शास्त्रशोभिता, विद्यावित्ता ।  
-यंत्रज्ञाना, शुचिविज्ञाना, तन्त्रमन्त्र ह्यवतारा ॥  
+यन्त्रज्ञाना, शुचिविज्ञाना, तन्त्रमन्त्र ह्यवतारा ॥  
   
 संस्कृतगङ्गा धारा ॥ २॥  
   

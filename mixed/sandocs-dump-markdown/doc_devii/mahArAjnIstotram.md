@@ -1,22 +1,22 @@
-+++
-"Text title" = "Maharajni Stotram"
-"File name" = "mahArAjnIstotram.itx"
-itxtitle = "mahArAjnIstotram"
-engtitle = "mahArAjnIstotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाराज्ञीस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, devI
+File name: mahArAjnIstotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Maharajni Stotram
+engtitle: mahArAjnIstotram
+itxtitle: mahArAjnIstotram
+title: महाराज्ञीस्तोत्रम्
 
-+++
+---
   
  महाराज्ञीस्तोत्रम्   
 ॐ या द्वादशार्कपरिमण्डितमूर्तिरेकां  
@@ -57,7 +57,7 @@ title = "महाराज्ञीस्तोत्रम्"
 पत्तिर्द्युलोकपतिवैभवमाददाति  
      देवाधिपोऽपि ननु पत्त्यनुकारमेति ।  
 यत्प्रोल्लसन्नयनयोगवियोगभावाद्-  
-     राज्ञींमहोपपदरम्यतरां नमामि ॥ ८॥  
+     राज्ञीम्महोपपदरम्यतरां नमामि ॥ ८॥  
   
 रिक्तत्वमाप्य च धनेन यदीयभक्ति-  
      चिन्तामणिं विनिदधाति हृदब्जकोशे ।  

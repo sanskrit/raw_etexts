@@ -1,21 +1,21 @@
-+++
-"Text title" = "Ganesha Stuti Manjari"
-"File name" = "gaNeshastutimanjarI.itx"
-itxtitle = "gaNeshastutimanjarI (chandrashekharabhAratI virachitA)"
-engtitle = "gaNeshastutimanjarI"
-Category = "ganesha, chandrashekharabhAratI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "chandrashekharabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Latest update" = "November 15, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तुतिमञ्जरी (चन्द्रशेखरभारती विरचिता)"
+---
+Author: chandrashekharabhAratI
+Category: ganesha, chandrashekharabhAratI
+File name: gaNeshastutimanjarI.itx
+Language: Sanskrit
+Latest update: November 15, 2019
+Location: doc_ganesha
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha Stuti Manjari
+engtitle: gaNeshastutimanjarI
+itxtitle: gaNeshastutimanjarI (chandrashekharabhAratI virachitA)
+title: गणेशस्तुतिमञ्जरी (चन्द्रशेखरभारती विरचिता)
 
-+++
+---
   
  श्रीगणेशस्तुतिमञ्जरी   
 सद्गुरुगजास्यवाणीचरणयुगाम्भोरुहेषु मद्धृदयम् ।  
@@ -29,7 +29,7 @@ title = "गणेशस्तुतिमञ्जरी (चन्द्रश
 सिन्दूरबन्धुरमुखं सिन्धुरमाद्यं नमामि शिरसाऽहम् ।  
 वृन्दारकमुनिबृन्दक सं सेव्यं विघ्नशैलदम्भोलिम् ॥ ३॥  
   
-आधोरणा अंङ्कुशमेत्य हस्ते गजं विशिक्षन्त इति प्रथाऽस्ति ।  
+आधोरणा अङ्ङ्कुशमेत्य हस्ते गजं विशिक्षन्त इति प्रथाऽस्ति ।  
 पञ्चास्यसूनुर्गज एव हस्ते धृत्वाऽङ्कुशं भाति विचित्रमेतत् ॥ ४॥  
   
 लोके हस्ततले समेत्य हि सृणिं शिक्षन्त आधोरणाः  

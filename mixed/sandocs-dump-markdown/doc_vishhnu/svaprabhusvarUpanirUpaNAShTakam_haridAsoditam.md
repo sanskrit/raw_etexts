@@ -1,24 +1,24 @@
-+++
-"Text title" = "svaprabhusvarUpanirUpaNAShTakam"
-"File name" = "svaprabhusvarUpanirUpaNAShTakam.itx"
-itxtitle = "svaprabhusvarUpanirUpaNAShTakam (haridAsoditam)"
-engtitle = "svaprabhusvarUpanirUpaNAShTakam"
-Category = "vishhnu, krishna, puShTimArgIya, aShTaka, haridAsa"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "haridAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वप्रभुस्वरूपनिरूपणाष्टकम् (हरिदासोदितम्)"
+---
+Author: haridAsa
+Category: vishhnu, krishna, puShTimArgIya, aShTaka, haridAsa
+Description/comments: puShTimArgIya stotraratnAkara
+File name: svaprabhusvarUpanirUpaNAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: svaprabhusvarUpanirUpaNAShTakam
+engtitle: svaprabhusvarUpanirUpaNAShTakam
+itxtitle: svaprabhusvarUpanirUpaNAShTakam (haridAsoditam)
+title: स्वप्रभुस्वरूपनिरूपणाष्टकम् (हरिदासोदितम्)
 
-+++
+---
   
  स्वप्रभुस्वरूपनिरूपणाष्टकम्   
   

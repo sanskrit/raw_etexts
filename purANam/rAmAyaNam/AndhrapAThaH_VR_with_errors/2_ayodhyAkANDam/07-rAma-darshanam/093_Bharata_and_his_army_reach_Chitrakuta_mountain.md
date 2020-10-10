@@ -3,7 +3,6 @@ title: 093 Bharata and his army reach Chitrakuta mountain
 title_english: 093 Bharata and his army reach Chitrakuta mountain
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-093-Rama_Shrama_Darshanam.mp3"></div>
 
 तया महत्या यायिन्या ध्वजिन्या वन वासिनः ।  
@@ -13,7 +12,7 @@ title_english: 093 Bharata and his army reach Chitrakuta mountain
 स सम्प्रतस्थे धर्म आत्मा प्रीतो दशरथ आत्मजः ।  
 वृतो महत्या नादिन्या सेनया चतुर् अन्गया ॥ २-९३-३  
 सागर ओघ निभा सेना भरतस्य महात्मनः ।  
-महीम् संचादयाम् आस प्रावृषि द्याम् इव अम्बुदः ॥ २-९३-४  
+महीम् सञ्चादयाम् आस प्रावृषि द्याम् इव अम्बुदः ॥ २-९३-४  
 तुरम्ग ओघैर् अवतता वारणैः च महा जवैः ।  
 अनालक्ष्या चिरम् कालम् तस्मिन् काले बभूव भूः ॥ २-९३-५  
 स यात्वा दूरम् अध्वानम् सुपरिश्रान्त वाहनः ।  

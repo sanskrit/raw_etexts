@@ -1,24 +1,24 @@
-+++
-"Text title" = "ShaTpanchAshikA"
-"File name" = "ShaTpanchAshikAVS.itx"
-itxtitle = "ShaTpanchAshikA (vAsudevAnandasarasvatIvirachitA)"
-engtitle = "ShaTpanchAshikA"
-Category = "major_works, vAsudevAnanda-sarasvatI, vedanta"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "vAsudevAnandasarasvatI TembesvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "From stotrAdisangraha"
-Indexextra = "(stotrAdisangraha, Author)"
-"Latest update" = "December 31, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षट्पञ्चाशिका (वासुदेवानन्दसरस्वतीविरचिता)"
+---
+Author: vAsudevAnandasarasvatI TembesvAmi
+Category: major_works, vAsudevAnanda-sarasvatI, vedanta
+Description-comments: From stotrAdisangraha
+File name: ShaTpanchAshikAVS.itx
+Indexextra: (stotrAdisangraha, Author)
+Language: Sanskrit
+Latest update: December 31, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: ShaTpanchAshikA
+Texttype: pramukha
+engtitle: ShaTpanchAshikA
+itxtitle: ShaTpanchAshikA (vAsudevAnandasarasvatIvirachitA)
+title: षट्पञ्चाशिका (वासुदेवानन्दसरस्वतीविरचिता)
 
-+++
+---
   
  षट्पञ्चाशिका   
 त्र्यात्मा सच्चित्सुखो दत्तो रक्तोष्णाकाशदीपवत् ।  

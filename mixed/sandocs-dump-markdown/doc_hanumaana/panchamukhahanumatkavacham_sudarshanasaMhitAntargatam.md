@@ -1,24 +1,25 @@
-+++
-"Text title" = "pa.nchamukhahanumatkavacham"
-"File name" = "panchamukha.itx"
-itxtitle = "panchamukhahanumatkavacham (sudarshanasaMhitAntargatam)"
-engtitle = "pa.nchamukhahanumatkavacham"
-Category = "kavacha, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, Sunder Hattangadi, Gopal Upadhyay"
-Description-comments = "sudarshanasa.nhitA"
-"Latest update" = "February 06, 2006, March 13, 2012, February 3, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पञ्चमुखहनुमत्कवचम् (सुदर्शनसंहितान्तर्गतम्)"
+---
+Author: Traditional
+Category: kavacha, hanumaana, hanuman
+Description-comments: sudarshanasa.nhitA
+File name: panchamukha.itx
+Language: Sanskrit
+Latest update: February 06, 2006, March 13, 2012, February 3, 2018
+Location: doc_hanumaana
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, Sunder Hattangadi, Gopal
+  Upadhyay
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: pa.nchamukhahanumatkavacham
+engtitle: pa.nchamukhahanumatkavacham
+itxtitle: panchamukhahanumatkavacham (sudarshanasaMhitAntargatam)
+title: पञ्चमुखहनुमत्कवचम् (सुदर्शनसंहितान्तर्गतम्)
 
-+++
+---
   
- पंचमुखहनुमत्कवचम्   
+ पञ्चमुखहनुमत्कवचम्   
 ॥ श्रीगणेशाय नमः ॥  
   
 ॥ श्रीउमामहेश्वराभ्यां नमः ॥  
@@ -63,7 +64,7 @@ title = "पञ्चमुखहनुमत्कवचम् (सुदर्
 नृहरेः सामराजो हि कालिकाद्याः प्रियंवद ॥ १०॥  
   
 दशाविद्याविशेषेण षोडशीमन्त्रनायिकाः ।  
-दक्षिणामूर्तिसंज्ञोऽन्यो मन्त्रराजो धरापते ॥ ११॥  
+दक्षिणामूर्तिसञ्ज्ञोऽन्यो मन्त्रराजो धरापते ॥ ११॥  
   
 सहस्रार्जुनकस्यापि मन्त्रा येऽन्ये हनूमतः ।  
 ये ते ह्यदेया देवेश तेऽपि मह्यं समर्पिताः ॥ १२॥  
@@ -220,22 +221,22 @@ title = "पञ्चमुखहनुमत्कवचम् (सुदर्
 सञ्जीविनीसञ्जीविताङ्गदलक्ष्मणमहाकपिसैन्यप्राणदाय  
 दशकण्ठविध्वंसनाय रामेष्टाय महाफाल्गुनसखाय सीतासहित-  
 रामवरप्रदाय षट्प्रयोगागमपञ्चमुखवीरहनुमन्मन्त्रजपे विनियोगः ।  
-ॐ हरिमर्कटमर्कटाय बंबंबंबंबं वौषट् स्वाहा ।  
-ॐ हरिमर्कटमर्कटाय फंफंफंफंफं फट् स्वाहा ।  
-ॐ हरिमर्कटमर्कटाय खेंखेंखेंखेंखें मारणाय स्वाहा ।  
+ॐ हरिमर्कटमर्कटाय बम्बम्बम्बम्बं वौषट् स्वाहा ।  
+ॐ हरिमर्कटमर्कटाय फम्फम्फम्फम्फं फट् स्वाहा ।  
+ॐ हरिमर्कटमर्कटाय खेङ्खेङ्खेङ्खेङ्खें मारणाय स्वाहा ।  
 ॐ हरिमर्कटमर्कटाय लुंलुंलुंलुंलुं आकर्षितसकलसम्पत्कराय स्वाहा ।  
-ॐ हरिमर्कटमर्कटाय धंधंधंधंधं शत्रुस्तम्भनाय स्वाहा ।  
-ॐ टंटंटंटंटं कूर्ममूर्तये पञ्चमुखवीरहनुमते  
+ॐ हरिमर्कटमर्कटाय धन्धन्धन्धन्धं शत्रुस्तम्भनाय स्वाहा ।  
+ॐ टण्टण्टण्टण्टं कूर्ममूर्तये पञ्चमुखवीरहनुमते  
 परयन्त्रपरतन्त्रोच्चाटनाय स्वाहा ।  
-ॐ कंखंगंघंङं चंछंजंझंञं टंठंडंढंणं  
-तंथंदंधंनं पंफंबंभंमं यंरंलंवं शंषंसंहं  
+ॐ कङ्खङ्गङ्घङ्ङं चञ्छञ्जञ्झञ्ञं टण्ठण्डण्ढण्णं  
+तन्थन्दन्धन्नं पम्फम्बम्भम्मं यंरंलंवं शंषंसंहं  
 ळङ्क्षं स्वाहा ।  
 इति दिग्बन्धः ।  
-ॐ पूर्वकपिमुखाय पञ्चमुखहनुमते टंटंटंटंटं  
+ॐ पूर्वकपिमुखाय पञ्चमुखहनुमते टण्टण्टण्टण्टं  
 सकलशत्रुसंहरणाय स्वाहा ।  
 ॐ दक्षिणमुखाय पञ्चमुखहनुमते करालवदनाय नरसिंहाय  
 ॐ ह्रां ह्रीं ह्रूं ह्रैं ह्रौं ह्रः सकलभूतप्रेतदमनाय स्वाहा ।  
-ॐ पश्चिममुखाय गरुडाननाय पञ्चमुखहनुमते मंमंमंमंमं  
+ॐ पश्चिममुखाय गरुडाननाय पञ्चमुखहनुमते मम्मम्मम्मम्मं  
 सकलविषहराय स्वाहा ।  
 ॐ उत्तरमुखायादिवराहाय लंलंलंलंलं नृसिंहाय नीलकण्ठमूर्तये  
 पञ्चमुखहनुमते स्वाहा ।  
@@ -247,7 +248,7 @@ title = "पञ्चमुखहनुमत्कवचम् (सुदर्
 भूतप्रेतपिशाचब्रह्मराक्षसशाकिनीडाकिन्यन्तरिक्षग्रह-  
 परयन्त्रपरतन्त्रोच्चटनाय स्वाहा ।  
 सकलप्रयोजननिर्वाहकाय पञ्चमुखवीरहनुमते  
-श्रीरामचन्द्रवरप्रसादाय जंजंजंजंजं स्वाहा ।  
+श्रीरामचन्द्रवरप्रसादाय जञ्जञ्जञ्जञ्जं स्वाहा ।  
 इदं कवचं पठित्वा तु महाकवचं पठेन्नरः ।  
 एकवारं जपेत्स्तोत्रं सर्वशत्रुनिवारणम् ॥ १५॥  
   

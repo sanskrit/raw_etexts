@@ -1,25 +1,25 @@
-+++
-"Text title" = "rAdhAkalyANam"
-"File name" = "rAdhAkalyANam.itx"
-itxtitle = "rAdhAkalyANam"
-engtitle = "rAdhAkalyANam"
-Category = "devii, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "Datta Gopala Krishna, Pammal, Chennai 9442252443"
-Source = "kalyANamanjarI dvitIya bhAgaH rAdhAkalyaNam"
-Acknowledge-Permission = "Svarna Prakashanam"
-"Latest update" = "May 14, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाकल्याणम्"
+---
+Acknowledge-Permission: Svarna Prakashanam
+Category: devii, radha, devI
+Description/comments: Datta Gopala Krishna, Pammal, Chennai 9442252443
+File name: rAdhAkalyANam.itx
+Language: Sanskrit
+Latest update: May 14, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: kalyANamanjarI dvitIya bhAgaH rAdhAkalyaNam
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAkalyANam
+Transliterated by: NA
+engtitle: rAdhAkalyANam
+itxtitle: rAdhAkalyANam
+title: राधाकल्याणम्
 
-+++
+---
   
  राधाकल्याणम्   
   
@@ -97,7 +97,7 @@ title = "राधाकल्याणम्"
 स्थलपद्मप्रभामुष्टचरणं दधती मुदा ॥ १९॥  
   
 रत्नभूषणसंयुक्तं यावकद्रवसंयुतम् ।  
-मणीन्द्रशोभासंमुष्टसालक्तकपुनर्भवम् ॥ २०॥  
+मणीन्द्रशोभासम्मुष्टसालक्तकपुनर्भवम् ॥ २०॥  
   
 सद्रत्नसाररचितक्वणन्मञ्जरिरञ्जिता ।  
 रत्नकङ्कणकेयूरचारुशङ्खविभूषिता ॥ २१॥  

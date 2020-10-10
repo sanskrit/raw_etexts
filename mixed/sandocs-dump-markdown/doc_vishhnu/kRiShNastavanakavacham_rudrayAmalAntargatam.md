@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shrikrishna Stavana Kavacham"
-"File name" = "kRRiShNastavanakavacham.itx"
-itxtitle = "kRiShNastavanakavacham (rudrayAmalAntargatam)"
-engtitle = "kRRiShNastavanakavacham"
-Category = "vishhnu, kavacha, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तवनकवचम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: vishhnu, kavacha, krishna
+Description/comments: rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde
+File name: kRRiShNastavanakavacham.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shrikrishna Stavana Kavacham
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: kRRiShNastavanakavacham
+itxtitle: kRiShNastavanakavacham (rudrayAmalAntargatam)
+title: कृइष्णस्तवनकवचम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीकृष्णस्तवनकवचम्   
 अथैकोनचत्त्वारिंशः पटलः  

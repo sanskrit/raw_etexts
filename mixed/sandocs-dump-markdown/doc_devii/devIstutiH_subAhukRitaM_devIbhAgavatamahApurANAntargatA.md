@@ -1,25 +1,25 @@
-+++
-"Text title" = "devIstuti by Subahu"
-"File name" = "devIstutisubAhu.itx"
-itxtitle = "devIstutiH subAhukRitaM (devIbhAgavatamahApurANAntargatA)"
-engtitle = "devIstuti by Subahu"
-Category = "devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran"
-Source = "Devi Bhagavat Mahapurana 3.23"
-Indexextra = "(Marathi)"
-Acknowledge-Permission = "Vishwas Bhide http://satsangdhara.net"
-"Latest update" = "June 14, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीस्तुतिः सुबाहुकृइतं (देवीभागवतमहापुराणान्तर्गता)"
+---
+Acknowledge-Permission: Vishwas Bhide http://satsangdhara.net
+Category: devii, otherforms, devI
+File name: devIstutisubAhu.itx
+Indexextra: (Marathi)
+Language: Sanskrit
+Latest update: June 14, 2017
+Location: doc_devii
+Proofread by: Vishwas Bhide, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Devi Bhagavat Mahapurana 3.23
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIstuti by Subahu
+Transliterated by: Vishwas Bhide
+engtitle: devIstuti by Subahu
+itxtitle: devIstutiH subAhukRitaM (devIbhAgavatamahApurANAntargatA)
+title: देवीस्तुतिः सुबाहुकृइतं (देवीभागवतमहापुराणान्तर्गता)
 
-+++
+---
   
  सुबाहुकृता देवीस्तुतिः   
   

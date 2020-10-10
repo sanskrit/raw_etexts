@@ -1,23 +1,24 @@
-+++
-"Text title" = "shuklayajurvedIyasandhyA prAtaH-mAdhyAna-sAyaM"
-"File name" = "shuklayajurvedIyasandhyA.itx"
-itxtitle = "sandhyAvandanam (shuklayajurvedIya prAtaH, madhyAhnam,sAyam)"
-engtitle = "Shukla YajurvedIya SandhyA Morning-Noon-Evening"
-Category = "veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "\"Krunal Makwana\""
-"Proofread by" = "\"Krunal Makwana\""
-Indexextra = "(- sandhyAvandana kRiShNayajurvedIya  (sabhAShyam). See also other copies aupasana)"
-"Latest update" = "April 25, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्ध्यावन्दनम् (शुक्लयजुर्वेदीय प्रातः, मध्याह्नम्,सायम्)"
+---
+Category: veda, svara
+File name: shuklayajurvedIyasandhyA.itx
+Indexextra: (- sandhyAvandana kRiShNayajurvedIya  (sabhAShyam). See also other copies
+  aupasana)
+Language: Sanskrit
+Latest update: April 25, 2009
+Location: doc_veda
+Proofread by: '"Krunal Makwana"'
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: shuklayajurvedIyasandhyA prAtaH-mAdhyAna-sAyaM
+Texttype: svara
+Transliterated by: '"Krunal Makwana"'
+engtitle: Shukla YajurvedIya SandhyA Morning-Noon-Evening
+itxtitle: sandhyAvandanam (shuklayajurvedIya prAtaH, madhyAhnam,sAyam)
+title: सन्ध्यावन्दनम् (शुक्लयजुर्वेदीय प्रातः, मध्याह्नम्,सायम्)
 
-+++
+---
   
  शुक्लयजुर्वेदीयसन्ध्या प्रातः-मध्याह्न-सायं   
   
@@ -55,7 +56,7 @@ title = "सन्ध्यावन्दनम् (शुक्लयजुर
 ॐ त्रिविक्रमाय नमः । ॐ वामनाय नमः ।  
 ॐ श्रीधराय नमः। ॐ ऋषिकेशाय नमः ।  
 ॐ पद्मनाभाय नमः । ॐ दमोदकराय नमः ।  
-ॐ संकर्षणाय नमः । ॐ वासुदेवाय नमः।  
+ॐ सङ्कर्षणाय नमः । ॐ वासुदेवाय नमः।  
 ॐ प्रद्युम्नाय नमः। ॐ अनिरुद्धाय नमः  
 ॐ पुरुषोत्तमाय नमः । ॐ अधोक्षजाय नमः।  
 ॐ नृसिंहाय नमः । ॐ अच्युताय नमः।  
@@ -64,7 +65,7 @@ title = "सन्ध्यावन्दनम् (शुक्लयजुर
   
      ॥ विनियोगः ॥   
 ॐ प्रणवस्य परब्रह्म ऋषिः परमात्मा देवता दैवी गायत्री  
-छंदः प्राणायामे विनियोगः ॥  
+छन्दः प्राणायामे विनियोगः ॥  
   
      ॥प्राणायामः॥   
 ॐ भूः ॐ भुवः ॐ स्वः ॐ महः ॐ जनः ॐ तपः ॐ सत्यम्  

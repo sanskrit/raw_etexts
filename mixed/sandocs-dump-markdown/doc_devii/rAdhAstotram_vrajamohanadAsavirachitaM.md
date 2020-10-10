@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAdhAstotram"
-"File name" = "rAdhAstotram.itx"
-itxtitle = "rAdhAstotram (vrajamohanadAsavirachitaM)"
-engtitle = "rAdhAstotram"
-Category = "devii, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधास्तोत्रम् (व्रजमोहनदासविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: devii, radha, devI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: rAdhAstotram.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAstotram
+engtitle: rAdhAstotram
+itxtitle: rAdhAstotram (vrajamohanadAsavirachitaM)
+title: राधास्तोत्रम् (व्रजमोहनदासविरचितं)
 
-+++
+---
   
  श्रीराधास्तोत्रम्   
   

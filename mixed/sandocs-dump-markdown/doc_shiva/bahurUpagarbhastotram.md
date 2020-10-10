@@ -1,22 +1,22 @@
-+++
-"Text title" = "Bahurupagarbha Stotram"
-"File name" = "bahurUpagarbhastotram.itx"
-itxtitle = "bahurUpagarbhastotram"
-engtitle = "bahurUpagarbhastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "See dhyAnam in a separate file"
-Indexextra = "(Scans 1, 2 Hindi, 3)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बहुरूपगर्भस्तोत्रम्"
+---
+Category: shiva
+Description/comments: See dhyAnam in a separate file
+File name: bahurUpagarbhastotram.itx
+Indexextra: (Scans 1, 2 Hindi, 3)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Bahurupagarbha Stotram
+engtitle: bahurUpagarbhastotram
+itxtitle: bahurUpagarbhastotram
+title: बहुरूपगर्भस्तोत्रम्
 
-+++
+---
   
  बहुरूपगर्भस्तोत्रम्   
 (शिवपूजायाम्)  

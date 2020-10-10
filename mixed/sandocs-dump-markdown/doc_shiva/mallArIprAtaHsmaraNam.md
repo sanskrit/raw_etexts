@@ -1,23 +1,23 @@
-+++
-"Text title" = "mallArI mallhArI kavacham"
-"File name" = "mallArIprAtahsmaraNam.itx"
-itxtitle = "mallArIprAtaHsmaraNam"
-engtitle = "mallArIprAtahsmaraNam"
-Category = "shiva, suprabhAta"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Prakash Kelkar http://ioustotra.blogspot.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Malhari"
-Indexextra = "(Translation English Marathi)"
-"Latest update" = "August 20, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मल्लारीप्रातःस्मरणम्"
+---
+Category: shiva, suprabhAta
+Description/comments: Malhari
+File name: mallArIprAtahsmaraNam.itx
+Indexextra: (Translation English Marathi)
+Language: Sanskrit
+Latest update: August 20, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mallArI mallhArI kavacham
+Transliterated by: Prakash Kelkar http://ioustotra.blogspot.com
+engtitle: mallArIprAtahsmaraNam
+itxtitle: mallArIprAtaHsmaraNam
+title: मल्लारीप्रातःस्मरणम्
 
-+++
+---
   
  श्रीमल्हारि म्हाळसाकान्तप्रातःस्मरणम्   
 प्रातःस्मरामि भावभीतिहरं सुरेशं  

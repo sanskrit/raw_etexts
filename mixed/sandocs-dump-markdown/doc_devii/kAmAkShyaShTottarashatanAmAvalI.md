@@ -1,23 +1,23 @@
-+++
-"Text title" = "kAmakShyaSTottarashatanAmAvaliH"
-"File name" = "kamaxii108.itx"
-itxtitle = "kAmAkShyaShTottarashatanAmAvalI"
-engtitle = "kAmAkShyaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, kAmAkShI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "kAmAkShI"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "May 15, 2007, September 19, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामाक्ष्यष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, kAmAkShI, nAmAvalI, devI
+File name: kamaxii108.itx
+Language: Sanskrit
+Latest update: May 15, 2007, September 19, 2014
+Location: doc_devii
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: kAmAkShI
+Subject: Hinduism/religion/traditional
+Sublocation: devii
+Text title: kAmakShyaSTottarashatanAmAvaliH
+Texttype: nAmAvalI
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: kAmAkShyaShTottarashatanAmAvalI
+itxtitle: kAmAkShyaShTottarashatanAmAvalI
+title: कामाक्ष्यष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीकामाक्ष्यष्टोत्तरशतनामावली   
   

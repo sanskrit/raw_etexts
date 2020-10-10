@@ -1,23 +1,23 @@
-+++
-"Text title" = "DhuMDhiswarUpavarNanastotram"
-"File name" = "DhuMDhiswarUpavarNanastotram.itx"
-itxtitle = "DhuNDhiswarUpavarNanastotram"
-engtitle = "DhuNDhiswarUpavarNanastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj"
-"Proofread by" = "Karthik Chandan.P : Amith K Nagaraj (amithkn at rediffmail.com)"
-"Latest update" = "January 5, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ढुण्ढिस्वरूपवर्णनस्तोत्रम्"
+---
+Author: Traditional
+Category: ganesha, stotra
+File name: DhuMDhiswarUpavarNanastotram.itx
+Language: Sanskrit
+Latest update: January 5, 2004
+Location: doc_ganesha
+Proofread by: 'Karthik Chandan.P : Amith K Nagaraj (amithkn at rediffmail.com)'
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: DhuMDhiswarUpavarNanastotram
+Texttype: stotra
+Transliterated by: 'Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj'
+engtitle: DhuNDhiswarUpavarNanastotram
+itxtitle: DhuNDhiswarUpavarNanastotram
+title: ढुण्ढिस्वरूपवर्णनस्तोत्रम्
 
-+++
+---
   
  ढुण्ढिस्वरूपवर्णनस्तोत्रम्   
   
@@ -55,7 +55,7 @@ title = "ढुण्ढिस्वरूपवर्णनस्तोत्�
 भ्रान्तिधारकरूपा सा बुद्धिश्च दक्षिणाङ्गके ॥ १०॥  
   
 तयोः स्वामि गणेशश्च मायाभ्यां खेलते सदा ।  
-संभजस्व विधानेन तदा संलभसे नृप ॥ ११॥  
+सम्भजस्व विधानेन तदा संलभसे नृप ॥ ११॥  
   
 इति ढुण्ढिस्वरूपवर्णनस्तोत्रं समाप्तम् ।  
   

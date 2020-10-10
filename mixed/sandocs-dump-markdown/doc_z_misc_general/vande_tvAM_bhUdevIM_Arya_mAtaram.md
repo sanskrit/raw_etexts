@@ -1,20 +1,20 @@
-+++
-"Text title" = "Vande Tvam Bhudevim Arya Mataram"
-"File name" = "vandetvAMbhUdevIm.itx"
-itxtitle = "vande tvAM bhUdevIM Arya mAtaram"
-engtitle = "vande tvAM bhUdevImArya mAtaram"
-Category = "misc, sanskritgeet, devI, devii"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Videos 1, 2, 3, Audio and Text 1, 2, 3, Rashtravandana)"
-"Latest update" = "October 19, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वन्दे त्वां भूदेवीं आर्य मातरम्"
+---
+Category: misc, sanskritgeet, devI, devii
+File name: vandetvAMbhUdevIm.itx
+Indexextra: (Videos 1, 2, 3, Audio and Text 1, 2, 3, Rashtravandana)
+Language: Sanskrit
+Latest update: October 19, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Vande Tvam Bhudevim Arya Mataram
+engtitle: vande tvAM bhUdevImArya mAtaram
+itxtitle: vande tvAM bhUdevIM Arya mAtaram
+title: वन्दे त्वां भूदेवीं आर्य मातरम्
 
-+++
+---
   
  वन्दे त्वां भूदेवीमार्य मातरम्   
 वन्दे त्वां भूदेवीमार्य मातरं  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "AmnAyastotram"
-"File name" = "AmnAyastotram.itx"
-itxtitle = "AmnAyastotram (rudrayAmalataH shivavirachitam)"
-engtitle = "AmnAyastotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "rudrayAmalataH shivavirachitaM"
-Indexextra = "(Devistutimanjari, Devipujakalpa)"
-"Latest update" = "October 5, 2015, May 11, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आम्नायस्तोत्रम् (रुद्रयामलतः शिवविरचितम्)"
+---
+Category: devii, dashamahAvidyA, devI
+Description-comments: rudrayAmalataH shivavirachitaM
+File name: AmnAyastotram.itx
+Indexextra: (Devistutimanjari, Devipujakalpa)
+Language: Sanskrit
+Latest update: October 5, 2015, May 11, 2020
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy
+Sublocation: devii
+Text title: AmnAyastotram
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: AmnAyastotram
+itxtitle: AmnAyastotram (rudrayAmalataH shivavirachitam)
+title: आम्नायस्तोत्रम् (रुद्रयामलतः शिवविरचितम्)
 
-+++
+---
   
  आम्नायस्तोत्रम्   
 अथ रुद्रयामलतः शिवविरचितं आम्नायस्तोत्रम् ।  

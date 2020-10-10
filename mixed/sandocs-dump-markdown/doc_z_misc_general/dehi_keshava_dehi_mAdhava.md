@@ -1,24 +1,24 @@
-+++
-"Text title" = "Dehi Keshava Dehi Madhava"
-"File name" = "dehikeshava.itx"
-itxtitle = "dehi keshava dehi mAdhava"
-engtitle = "dehikeshava"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "do. prabhAkarasharmA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Video 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देहि केशव देहि माधव"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: do. prabhAkarasharmA
+Category: misc, sanskritgeet
+File name: dehikeshava.itx
+Indexextra: (Wiki, Video 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Dehi Keshava Dehi Madhava
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: dehikeshava
+itxtitle: dehi keshava dehi mAdhava
+title: देहि केशव देहि माधव
 
-+++
+---
   
  देहि केशव देहि माधव   
 देहि केशव देहि माधव  

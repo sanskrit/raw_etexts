@@ -1,23 +1,23 @@
-+++
-"Text title" = "tulasIkavacham 1"
-"File name" = "tulasIkavacham.itx"
-itxtitle = "tulasIkavacham 1 (brahmANDapurANAntargatam tulasI shrImahAdevi)"
-engtitle = "tulasIkavacham 1"
-Category = "kavacha, devii, tulasI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi, Nat Natarajan"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-"Latest update" = "Dec. 3, 2009, March 20, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलसीकवचम् १ (ब्रह्माण्डपुराणान्तर्गतम् तुलसी श्रीमहादेवि)"
+---
+Author: Traditional
+Category: kavacha, devii, tulasI, devI
+File name: tulasIkavacham.itx
+Language: Sanskrit
+Latest update: Dec. 3, 2009, March 20, 2016
+Location: doc_devii
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulasIkavacham 1
+Transliterated by: Sunder Hattangadi, Nat Natarajan
+engtitle: tulasIkavacham 1
+itxtitle: tulasIkavacham 1 (brahmANDapurANAntargatam tulasI shrImahAdevi)
+title: तुलसीकवचम् १ (ब्रह्माण्डपुराणान्तर्गतम् तुलसी श्रीमहादेवि)
 
-+++
+---
   
  तुलसीकवचम् १   
   

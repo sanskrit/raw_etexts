@@ -1,23 +1,23 @@
-+++
-"Text title" = "shreyaskarIstotram"
-"File name" = "shreyaskarIstotram.itx"
-itxtitle = "shreyaskarIstotram (kRiShNAnandasarasvatIvirachitaM)"
-engtitle = "shreyaskarIstotram"
-Category = "devii, otherforms, kRiShNAnandasarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Author = "kRiShNAnandasarasvatIvirachitaM"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-"Latest update" = "June 10, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रेयस्करीस्तोत्रम् (कृइष्णानन्दसरस्वतीविरचितं)"
+---
+Author: kRiShNAnandasarasvatIvirachitaM
+Category: devii, otherforms, kRiShNAnandasarasvatI, devI
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: shreyaskarIstotram.itx
+Language: Sanskrit
+Latest update: June 10, 2016
+Location: doc_devii
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shreyaskarIstotram
+engtitle: shreyaskarIstotram
+itxtitle: shreyaskarIstotram (kRiShNAnandasarasvatIvirachitaM)
+title: श्रेयस्करीस्तोत्रम् (कृइष्णानन्दसरस्वतीविरचितं)
 
-+++
+---
   
  श्रेयस्करीस्तोत्रम्   
 श्रीः ।  

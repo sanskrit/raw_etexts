@@ -1,24 +1,24 @@
-+++
-"Text title" = "chaturviMshatyavatArastotram 2"
-"File name" = "chaturviMshatyavatArastotram2.itx"
-itxtitle = "chaturviMshatyavatArastotram 2 (bhAgavatapurANAntargatam ska 1 a 3)"
-engtitle = "chaturviMshatyavatArastotram 2"
-Category = "vishhnu, dashAvatAra, stotra, vishnu, chaturviMshati"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Psa Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "prathamaskandhe naimiShIyopAkhyAne tRitIyo.adhyAyaH"
-Indexextra = "(1, 2, 3)"
-"Latest update" = "May 27, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चतुर्विंशत्यवतारस्तोत्रम् २ (भागवतपुराणान्तर्गतम् स्क १ अ ३)"
+---
+Category: vishhnu, dashAvatAra, stotra, vishnu, chaturviMshati
+Description/comments: prathamaskandhe naimiShIyopAkhyAne tRitIyo.adhyAyaH
+File name: chaturviMshatyavatArastotram2.itx
+Indexextra: (1, 2, 3)
+Language: Sanskrit
+Latest update: May 27, 2015
+Location: doc_vishhnu
+Proofread by: Psa Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: chaturviMshatyavatArastotram 2
+Texttype: stotra
+engtitle: chaturviMshatyavatArastotram 2
+itxtitle: chaturviMshatyavatArastotram 2 (bhAgavatapurANAntargatam ska 1 a 3)
+title: चतुर्विंशत्यवतारस्तोत्रम् २ (भागवतपुराणान्तर्गतम् स्क १ अ ३)
 
-+++
+---
   
  श्रीचतुर्विंशत्यवतारस्तोत्रम् २   
 भागवतपुराणान्तर्गतम् सर्ग १ अध्याय ३  

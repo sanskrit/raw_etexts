@@ -1,23 +1,23 @@
-+++
-"Text title" = "nakshatrasuuktaM"
-"File name" = "nakshatra.itx"
-itxtitle = "nakShatrasUktam"
-engtitle = "NakShatrasukta"
-Category = "sUkta, veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-"Proofread by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-"Latest update" = "June 14, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नक्षत्रसूक्तम्"
+---
+Author: Vedic Tradition
+Category: sUkta, veda, svara
+File name: nakshatra.itx
+Language: Sanskrit
+Latest update: June 14, 2000
+Location: doc_veda
+Proofread by: Rajagopal Iyer (rajsand at yahoo.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: veda
+Text title: nakshatrasuuktaM
+Texttype: svara
+Transliterated by: Rajagopal Iyer (rajsand at yahoo.com)
+engtitle: NakShatrasukta
+itxtitle: nakShatrasUktam
+title: नक्षत्रसूक्तम्
 
-+++
+---
   
  नक्षत्रसूक्तम्   
   
@@ -49,7 +49,7 @@ title = "नक्षत्रसूक्तम्"
 ए॒वा न दे॒व्यदि॑तिरन॒र्वा। विश्व॑स्य भ॒र्त्री जग॑तः प्रति॒ष्ठा।  
 पुन॑र्वसू ह॒विषा॑ व॒र्धय॑न्ती। प्रि॒यम् दे॒वाना॒मप्ये॑तु॒ पाथः॑ ॥ ५॥  
   
-बृह॒स्पतिः॑ प्रथ॒मं जाय॑मानः। ति॒ष्यं॑ नक्ष॑त्रम॒भि संब॑भूव।  
+बृह॒स्पतिः॑ प्रथ॒मं जाय॑मानः। ति॒ष्यं॑ नक्ष॑त्रम॒भि सम्ब॑भूव।  
 श्रेष्ठो॑ दे॒वानां॒ पृत॑नासुजि॒ष्णुः। दि॒शोऽनु॒ सर्वा॒ अभ॑यन्नो अस्तु।  
 ति॒ष्यः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॑। बृह॒स्पति॑र्नः॒ परि॑पातु प॒श्चात्।  
 बाधे॑ता॒न्द्वेषो॒ अभ॑यं कृणुताम्। सु॒वीर्य॑स्य॒ पत॑यस्याम ॥ ६ ॥  

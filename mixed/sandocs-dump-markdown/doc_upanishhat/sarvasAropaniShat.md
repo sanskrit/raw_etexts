@@ -1,23 +1,23 @@
-+++
-"Text title" = "Sarvasara Upanishad"
-"File name" = "sarvasara.itx"
-itxtitle = "sarvasAropaniShat"
-engtitle = "SarvasAra Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "33/108; Krishna Yajurveda - Samanya upanishad"
-"Latest update" = "Jan. 12, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सर्वसारोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 33/108; Krishna Yajurveda - Samanya upanishad
+File name: sarvasara.itx
+Language: Sanskrit
+Latest update: Jan. 12, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Sarvasara Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: SarvasAra Upanishad
+itxtitle: sarvasAropaniShat
+title: सर्वसारोपनिषत्
 
-+++
+---
   
  सर्वसारोपनिषत्   
   
@@ -48,7 +48,7 @@ title = "सर्वसारोपनिषत्"
 वासनामयाञ्छब्दादीन्यदोपलभते तदात्मनः स्वप्नम् ।  
 चतुर्दशकरणो परमाद्विशेषविज्ञानाभावाद्यदा  
 शब्दादीन्नोपलभते तदात्मनः सुषुप्तम् ।  
-अवस्थात्रयभावाभावसाक्षी स्वयंभावरहितं  
+अवस्थात्रयभावाभावसाक्षी स्वयम्भावरहितं  
 नैरन्तर्यं चैतन्यं यदा तदा तुरीयं चैतन्यमित्युच्यते ।  
 अन्नकार्याणां कोशानां समूहोऽन्नमयः कोश उच्यते ।  
 प्राणादिचतुर्दशवायुभेदा अन्नमयकोशे यदा वर्तन्ते  
@@ -72,7 +72,7 @@ title = "सर्वसारोपनिषत्"
 हृद्ग्रन्थिरित्युच्यते तत्र यत्प्रकाशते चैतन्यं स  
 क्षेत्रज्ञ इत्युच्यते । ज्ञातृज्ञानज्ञेयानामाविर्भाव-  
 तिरोभावज्ञाता स्वयमाविर्भावतिरोभावरहितः  
-स्वयंज्योतिः साक्षीत्युच्यते ।  
+स्वयञ्ज्योतिः साक्षीत्युच्यते ।  
 ब्रह्मादिपिपीलिकापर्यन्तं सर्वप्राणिबुद्धिष्ववशिष्टत-  
 योपलभ्यमानः सर्वप्राणिबुद्धिस्थो यदा तदा कूटस्थ  
 इत्युच्यते । कूटस्थोपहितभेदानां स्वरूपलाभहेतुर्भूत्वा  
@@ -89,7 +89,7 @@ title = "सर्वसारोपनिषत्"
 समुद्रोऽवशिष्टसुखस्वरूपश्चानन्द इत्युच्यते ।  
 एतद्वस्तुचतुष्टयं यस्य लक्षणं देशकाल-  
 वस्तुनिमित्तेश्वव्यभिचारी तत्पदार्थः परमात्मेत्युच्यते ।  
-त्वंपदार्थादौपाधिकात्तत्पदार्थादौपाधिक-  
+त्वम्पदार्थादौपाधिकात्तत्पदार्थादौपाधिक-  
 भेदाद्विलक्षणमाकाशवत्सूक्ष्मं केवलसत्ता-  
 मात्रस्वभावं परं ब्रह्मेत्युच्यते । माया नाम  
 अनादिरन्तवती प्रमाणाप्रमाणसाधारणा न सती  

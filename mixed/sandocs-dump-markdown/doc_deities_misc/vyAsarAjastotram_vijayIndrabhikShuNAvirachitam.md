@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Vyasaraja Stotram"
-"File name" = "vyAsarAjastotram.itx"
-itxtitle = "vyAsarAjastotram (vijayIndrabhikShuNAvirachitam)"
-engtitle = "vyAsarAjastotram"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "vijayIndrabhikShu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-"Description/comments" = "PanchayatistutiH"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "C Narayanarao"
-"Latest update" = "June 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "व्यासराजस्तोत्रम् (विजयीन्द्रभिक्षुणाविरचितम्)"
+---
+Acknowledge-Permission: C Narayanarao
+Author: vijayIndrabhikShu
+Category: deities_misc, gurudev
+Description/comments: PanchayatistutiH
+File name: vyAsarAjastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Vyasaraja Stotram
+Transliterated by: Krishnananda Achar
+engtitle: vyAsarAjastotram
+itxtitle: vyAsarAjastotram (vijayIndrabhikShuNAvirachitam)
+title: व्यासराजस्तोत्रम् (विजयीन्द्रभिक्षुणाविरचितम्)
 
-+++
+---
   
  श्रीव्यासराजस्तोत्रम्   
 वन्दे मुकुन्दमरविन्दभवादिवन्द्यं  
@@ -95,7 +95,7 @@ title = "व्यासराजस्तोत्रम् (विजयीन
 व्यासराजगुरो मह्यं त्वत्पादाम्बुजसेवनात् ।  
 दुरितानि विनश्शन्तु यच्छ शीघ्रं मनोरथान् ॥ २०॥  
   
-यो व्यासत्रयसंज्ञकान् दृढतरान्ग् मध्वार्यशास्त्रार्थकान्  
+यो व्यासत्रयसञ्ज्ञकान् दृढतरान्ग् मध्वार्यशास्त्रार्थकान्  
      रक्षद्वज्रशिलाकृतीन् बहुमतान्ग् कृत्वा परैर्दुस्तरान् ।  
 प्रायच्छन्निजपादपद्मसरसीजासक्त नॄणां मुदा  
      सोयं व्यासमुनीश्वरो भवतु मे तापत्रयक्षान्तये ॥ २१॥  

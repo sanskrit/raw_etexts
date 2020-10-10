@@ -1,21 +1,21 @@
-+++
-"Text title" = "ekashloki mahAbhAratam"
-"File name" = "ekashlokimahAbhAratam.itx"
-itxtitle = "ekashlokI mahAbhAratam"
-engtitle = "ekashloki mahAbhAratam"
-Category = "ekashlokI, misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "September 24, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकश्लोकी महाभारतम्"
+---
+Author: Traditional
+Category: ekashlokI, misc
+File name: ekashlokimahAbhAratam.itx
+Language: Sanskrit
+Latest update: September 24, 2017
+Location: doc_z_misc_general
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: ekashloki mahAbhAratam
+Texttype: stotra
+engtitle: ekashloki mahAbhAratam
+itxtitle: ekashlokI mahAbhAratam
+title: एकश्लोकी महाभारतम्
 
-+++
+---
   
  एकश्लोकि महाभारतं   
   

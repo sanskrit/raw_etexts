@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrii subrahmaNyadhyaanam"
-"File name" = "subradhyanam.itx"
-itxtitle = "subrahmaNya dhyAnam"
-engtitle = "subrahmaNya dhyAnam"
-Category = "subrahmanya, stotra"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "March 15, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्य ध्यानम्"
+---
+Category: subrahmanya, stotra
+File name: subradhyanam.itx
+Language: Sanskrit
+Latest update: March 15, 2006
+Location: doc_subrahmanya
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrii subrahmaNyadhyaanam
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: subrahmaNya dhyAnam
+itxtitle: subrahmaNya dhyAnam
+title: सुब्रह्मण्य ध्यानम्
 
-+++
+---
   
  श्रीसुब्रह्मण्य ध्यानम्   
   
@@ -57,7 +57,7 @@ title = "सुब्रह्मण्य ध्यानम्"
       रत्नप्रभाशोभितं  
 बालार्कद्युति षट्किरीटविलसत्-  
       केयूरहारानन्वितं  
-कर्णालंकृत कुण्डलप्रविलसत्  
+कर्णालङ्कृत कुण्डलप्रविलसत्  
       कण्ठस्थलैः शोभितं  
 काञ्ची कङ्कण किङ्किणीरवयुतं  
       शृङ्गार सारोदयम् ॥ ६॥  
@@ -69,7 +69,7 @@ title = "सुब्रह्मण्य ध्यानम्"
 वज्रंशक्तिमसिन्त्रिशूलमभयं  
       दोर्भिर्धृतं षण्मुखं  
 भास्वच्छत्रमयूरवाहसुभगं  
-      चित्राम्बरालंकृतम् ॥ ७॥  
+      चित्राम्बरालङ्कृतम् ॥ ७॥  
   
 गाङ्गेयं वह्निगर्भं शरवणजनितं  
       ज्ञानशक्तिं कुमारं  

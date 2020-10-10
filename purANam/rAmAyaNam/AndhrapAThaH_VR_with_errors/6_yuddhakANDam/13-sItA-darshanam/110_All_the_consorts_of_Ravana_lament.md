@@ -3,7 +3,6 @@ title: 110 All the consorts of Ravana lament
 title_english: 110 All the consorts of Ravana lament
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-110-All_the_consorts_of_Ravana_lament_0.mp3"></div>
 
 रावणम् निहतं दृष्ट्वा राघवेण महात्मना ।  
@@ -51,7 +50,7 @@ title_english: 110 All the consorts of Ravana lament
 वयं चाविधवाः सर्वाः सकामा न च शत्रवः ।  
 त्वया पुनर्नृशंसेन सीतां संरुन्धता बलात् ॥ ६-११०-२२  
 राक्षसा वयमात्मा च त्रयं तुल्यं निपातितम् ।  
-न कामकारः कामं वा तव राक्षसपुंगव।  
+न कामकारः कामं वा तव राक्षसपुङ्गव।  
 दैवं चेष्टयते सर्वं हतं दैवेन हन्यते ॥ ६-११०-२३  
 वानराणाम् विनाशोऽयं राक्षसानां च ते रणे ।  
 तव चैव महाबाहो दैवयोगादुपाग्तः ॥ ६-११०-२४  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "Bharatasya Vijayodghoshah"
-"File name" = "bhAratasyavijayodghoShaH.itx"
-itxtitle = "bhAratasya vijayodghoShaH (rAShTragItAnjaliH)"
-engtitle = "bhAratasya vijayodghoShaH"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Kapiladeva Dwivedi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Rashtragitanjali, Kapiladeva Dwivedi (Ed.)"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारतस्य विजयोद्घोषः (राष्ट्रगीताञ्जलिः)"
+---
+Acknowledge-Permission: Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi
+Author: Kapiladeva Dwivedi
+Category: misc, sanskritgeet
+Description/comments: Rashtragitanjali, Kapiladeva Dwivedi (Ed.)
+File name: bhAratasyavijayodghoShaH.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bharatasya Vijayodghoshah
+Translated by: Mandar Mali
+engtitle: bhAratasya vijayodghoShaH
+itxtitle: bhAratasya vijayodghoShaH (rAShTragItAnjaliH)
+title: भारतस्य विजयोद्घोषः (राष्ट्रगीताञ्जलिः)
 
-+++
+---
   
  भारतस्य विजयोद्घोषः   
 (उपजातिवृत्तम्)  
@@ -38,7 +38,7 @@ title = "भारतस्य विजयोद्घोषः (राष्�
 योधैस्तथा येन समग्रमेव  
      पाकस्थलं प्राप विनाशलीलाम् ॥  
   
-संप्रेक्ष्य वीरान् वर-भारतीयान्  
+सम्प्रेक्ष्य वीरान् वर-भारतीयान्  
      निराशया शनत्रुप्रवीर-योधाः ।  
 सन्त्यज्य शस्त्राणि गृहाणि युद्धं  
      भयाकुलाः स्वात्मसमर्पणं दधुः ॥  

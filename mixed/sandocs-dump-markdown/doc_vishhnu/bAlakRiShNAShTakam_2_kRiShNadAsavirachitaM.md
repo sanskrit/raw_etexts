@@ -1,24 +1,24 @@
-+++
-"Text title" = "bAlakRRiShNAShTakam 2"
-"File name" = "bAlakRRiShNAShTakam2.itx"
-itxtitle = "bAlakRiShNAShTakam 2 (kRiShNadAsavirachitaM)"
-engtitle = "bAlakRRiShNAShTakam 2"
-Category = "vishhnu, aShTaka, krishna, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालकृइष्णाष्टकम् २ (कृइष्णदासविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, aShTaka, krishna, puShTimArgIya
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: bAlakRRiShNAShTakam2.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: bAlakRRiShNAShTakam 2
+engtitle: bAlakRRiShNAShTakam 2
+itxtitle: bAlakRiShNAShTakam 2 (kRiShNadAsavirachitaM)
+title: बालकृइष्णाष्टकम् २ (कृइष्णदासविरचितं)
 
-+++
+---
   
  श्रीबालकृष्णाष्टकम् २   
   

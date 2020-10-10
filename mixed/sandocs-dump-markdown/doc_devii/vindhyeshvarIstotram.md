@@ -1,23 +1,23 @@
-+++
-"Text title" = "vindhyeshvarIstotram"
-"File name" = "vindhyeshvarIstotra.itx"
-itxtitle = "vindhyeshvarIstotram"
-engtitle = "vindhyeshvarIstotram"
-Category = "devii, pArvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "June 15, 2004, October 5, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विन्ध्येश्वरीस्तोत्रम्"
+---
+Author: Traditional
+Category: devii, pArvatI, stotra, devI
+File name: vindhyeshvarIstotra.itx
+Language: Sanskrit
+Latest update: June 15, 2004, October 5, 2018
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vindhyeshvarIstotram
+Texttype: stotra
+engtitle: vindhyeshvarIstotram
+itxtitle: vindhyeshvarIstotram
+title: विन्ध्येश्वरीस्तोत्रम्
 
-+++
+---
   
  विन्ध्येश्वरीस्तोत्रम्   
   

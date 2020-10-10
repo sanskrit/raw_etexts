@@ -1,22 +1,23 @@
-+++
-"Text title" = "gaNeshAShTakam viShNukRitam brahmavaivartapurANe"
-"File name" = "gaNeshAShTakamviShNuBVP.itx"
-itxtitle = "gaNeshAShTakam 5 gaNeshanAmAShTakam (viShNukRitaM brahmavaivartapurANAntargatam gaNeshamekadantancha)"
-engtitle = "gaNeshaShTakam brahmavaivartapurANa"
-Category = "aShTaka, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "Brahmavaivartapurana"
-"Latest update" = "May 27, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशाष्टकम् ५ गणेशनामाष्टकम् (विष्णुकृइतं ब्रह्मवैवर्तपुराणान्तर्गतम् गणेशमेकदन्तञ्च)"
+---
+Category: aShTaka, ganesha
+Description-comments: Brahmavaivartapurana
+File name: gaNeshAShTakamviShNuBVP.itx
+Language: Sanskrit
+Latest update: May 27, 2017
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshAShTakam viShNukRitam brahmavaivartapurANe
+Transliterated by: NA
+engtitle: gaNeshaShTakam brahmavaivartapurANa
+itxtitle: gaNeshAShTakam 5 gaNeshanAmAShTakam (viShNukRitaM brahmavaivartapurANAntargatam
+  gaNeshamekadantancha)
+title: गणेशाष्टकम् ५ गणेशनामाष्टकम् (विष्णुकृइतं ब्रह्मवैवर्तपुराणान्तर्गतम् गणेशमेकदन्तञ्च)
 
-+++
+---
   
  श्रीविष्णुकृतं श्रीगणेशाष्टकम्   
 गणेशनामाष्टकम्  

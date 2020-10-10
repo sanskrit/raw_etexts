@@ -3,7 +3,6 @@ title: 060 Sumantra was unable to console Kausalya
 title_english: 060 Sumantra was unable to console Kausalya
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-060-Sumanthra_Krutha_Kousalya_Santvanam.mp3"></div>
 
 ततः भूत उपसृष्टा इव वेपमाना पुनः पुनः ।  
@@ -20,7 +19,7 @@ title_english: 060 Sumantra was unable to console Kausalya
 आराधयति धर्मज्ञः पर लोकम् जित इन्द्रियः ॥ २-६०-६  
 विजने अपि वने सीता वासम् प्राप्य गृहेष्व् इव ।  
 विस्रम्भम् लभते अभीता रामे सम्न्यस्त मानसा ॥ २-६०-७  
-न अस्या दैन्यम् कृतम् किंचित् सुसूक्ष्मम् अपि लक्षये ।  
+न अस्या दैन्यम् कृतम् किञ्चित् सुसूक्ष्मम् अपि लक्षये ।  
 उचिता इव प्रवासानाम् वैदेही प्रतिभाति मा ॥ २-६०-८  
 नगर उपवनम् गत्वा यथा स्म रमते पुरा ।  
 तथैव रमते सीता निर्जनेषु वनेष्व् अपि ॥ २-६०-९  

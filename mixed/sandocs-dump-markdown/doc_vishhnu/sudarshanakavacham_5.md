@@ -1,23 +1,23 @@
-+++
-"Text title" = "sudarshanakavacham 5"
-"File name" = "sudarshanakavacham4.itx"
-itxtitle = "sudarshanakavacham 5"
-engtitle = "sudarshanakavacham 5"
-Category = "vishhnu, kavacha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुदर्शनकवचम् ५"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, kavacha
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: sudarshanakavacham4.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sudarshanakavacham 5
+engtitle: sudarshanakavacham 5
+itxtitle: sudarshanakavacham 5
+title: सुदर्शनकवचम् ५
 
-+++
+---
   
  श्रीसुदर्शनकवचम् ५   
   

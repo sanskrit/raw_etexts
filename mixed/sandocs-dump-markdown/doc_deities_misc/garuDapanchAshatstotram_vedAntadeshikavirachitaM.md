@@ -1,24 +1,24 @@
-+++
-"Text title" = "garuDapanchAshatstotram"
-"File name" = "garuDapanchAshatstotram.itx"
-itxtitle = "garuDapanchAshatstotram (vedAntadeshikavirachitaM)"
-engtitle = "garuDapanchAshatstotram"
-Category = "deities_misc, panchAshata, vedAnta-deshika, vishhnu"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गरुडपञ्चाशत्स्तोत्रम् (वेदान्तदेशिकविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: vedAntadeshika
+Category: deities_misc, panchAshata, vedAnta-deshika, vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: garuDapanchAshatstotram.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: garuDapanchAshatstotram
+engtitle: garuDapanchAshatstotram
+itxtitle: garuDapanchAshatstotram (vedAntadeshikavirachitaM)
+title: गरुडपञ्चाशत्स्तोत्रम् (वेदान्तदेशिकविरचितं)
 
-+++
+---
   
  गरुडपञ्चाशत्स्तोत्रम्   
   

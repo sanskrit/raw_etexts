@@ -1,22 +1,22 @@
-+++
-"Text title" = "amRRitavarShiNIsarasvatyaShTottarashatanAmAvalI 4"
-"File name" = "amRRitavarShiNIsarasvatyaShTottarashatanAmAvalI.itx"
-itxtitle = "sarasvatyaShTottarashatanAmAvaliH 4 amRitavarShiNI"
-engtitle = "Amritavarshini Sarasvati Ashtottarashatanamavali 4"
-Category = "devii, aShTottarashatanAmAvalI, nAmAvalI, jaina, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "pArshva\\-padmAvatI mahApUjana vidhi"
-"Latest update" = "April 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वत्यष्टोत्तरशतनामावलिः ४ अमृइतवर्षिणी"
+---
+Category: devii, aShTottarashatanAmAvalI, nAmAvalI, jaina, devI
+Description/comments: pArshva\-padmAvatI mahApUjana vidhi
+File name: amRRitavarShiNIsarasvatyaShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: April 14, 2018
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: amRRitavarShiNIsarasvatyaShTottarashatanAmAvalI 4
+Transliterated by: DPD
+engtitle: Amritavarshini Sarasvati Ashtottarashatanamavali 4
+itxtitle: sarasvatyaShTottarashatanAmAvaliH 4 amRitavarShiNI
+title: सरस्वत्यष्टोत्तरशतनामावलिः ४ अमृइतवर्षिणी
 
-+++
+---
   
  अमृतवर्षिणी सरस्वत्यष्टोत्तरशतनामावलिः   
   

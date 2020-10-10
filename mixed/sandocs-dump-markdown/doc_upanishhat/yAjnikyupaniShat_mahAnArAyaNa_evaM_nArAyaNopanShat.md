@@ -1,23 +1,24 @@
-+++
-"Text title" = "krishna-yajurvede taittiriya-aranyake yaajnikyupanishhad"
-"File name" = "yajniki.itx"
-itxtitle = "yAjnikyupaniShat (mahAnArAyaNa evaM nArAyaNopanShat)"
-engtitle = "Yajnikyupanishad"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Wim en Esther (wkl-evdk at knoware.nl) in addition by Sunder  Wim has added commentary/vivaraNaM in a separate file."
-Description-comments = "krishna-yajurvede taittiriya-aranyake"
-"Latest update" = "April 5, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "याज्ञिक्युपनिषत् (महानारायण एवं नारायणोपन्षत्)"
+---
+Category: upanishhat, svara, upanishad
+Description-comments: krishna-yajurvede taittiriya-aranyake
+File name: yajniki.itx
+Language: Sanskrit
+Latest update: April 5, 2004
+Location: doc_upanishhat
+Proofread by: Wim en Esther (wkl-evdk at knoware.nl) in addition by Sunder  Wim has
+  added commentary/vivaraNaM in a separate file.
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: krishna-yajurvede taittiriya-aranyake yaajnikyupanishhad
+Texttype: svara
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Yajnikyupanishad
+itxtitle: yAjnikyupaniShat (mahAnArAyaNa evaM nArAyaNopanShat)
+title: याज्ञिक्युपनिषत् (महानारायण एवं नारायणोपन्षत्)
 
-+++
+---
   
  याज्ञिक्युपनिषत्   
   
@@ -54,11 +55,11 @@ title = "याज्ञिक्युपनिषत् (महानारा
 स आपः प्रदुधे उभे इमे अन्तरिक्षं चापि सुवः ॥ 1.8, 1.9  
 नैनमूर्ध्वं न तिर्यञ्चं न मध्ये परिजग्रभत् ।  
 न तस्येशे कश्चन तस्य नाम महद्यशः  
-न संदृशे तिष्ठति रूपमस्य  
+न सन्दृशे तिष्ठति रूपमस्य  
 न चक्षुषा पश्यति कश्चनैनम् ।  
 हृदा मनीशा मनसाभिकॢप्तो  
 य एनं विदुरमृतास्ते भवन्ति ॥ 1.10, 1.11 /1  
-अद्भ्यः संभूतो हिरण्यगर्भ इत्यष्टौ ॥ 1.11 /2  
+अद्भ्यः सम्भूतो हिरण्यगर्भ इत्यष्टौ ॥ 1.11 /2  
 एष हि देवः प्रदिशोऽनु सर्वाः  
 पूर्वो हि जातः स उ गर्भे अन्तः ।  
 स विजायमानः स जनिष्यमाणः  
@@ -86,7 +87,7 @@ title = "याज्ञिक्युपनिषत् (महानारा
 तदपश्यत् तदभवत्प्रजासु ॥ 1.16, 1.17  
 परीत्य लोकान् परीत्य भूतानि  
 परीत्य सर्वाः प्रदिशो दिशश्च ।  
-प्रजापतिः प्रथमजा ऋतस्यात्मनात्मानमभिसंबभूव ॥ 1.18  
+प्रजापतिः प्रथमजा ऋतस्यात्मनात्मानमभिसम्बभूव ॥ 1.18  
 सदसस्पतिमद्भुतं प्रियमिन्द्रस्य काम्यम् ।  
 सनिं मेधामयासिषम् ॥ 1.19  
 उद्दीप्यस्व जातवेदोऽपघ्नन्निऋतिं मम ।  
@@ -143,7 +144,7 @@ title = "याज्ञिक्युपनिषत् (महानारा
 द्धोता वेदिषदतिथिर्दुरोणसत् ।  
 नृषद्वरसदृतसद्व्योमसदब्जा  
 गोजा ऋतजा अद्रिजा ऋतं बृहत् ॥  12.6  
-यमाज्जाता न परा नैव किंच-  
+यमाज्जाता न परा नैव किञ्च-  
 नास य आविवेश भुवनानि विश्वा ।  
 प्रजापतिः प्रजया संविदान्-  
 अस्त्रीणि ज्योतीꣳषि सचते स षोडशी ॥ 12.6Ka  
@@ -192,7 +193,7 @@ title = "याज्ञिक्युपनिषत् (महानारा
 परेण नाकं निहितं गुहायां  
 बिभ्राजते यद्यतयो विशन्ति ॥ 12.14  
 वेदान्तविज्ञानविनिश्चितार्थाः  
-संन्यासयोगाद्यतयः शुद्धसत्त्वाः ।  
+सन्न्यासयोगाद्यतयः शुद्धसत्त्वाः ।  
 ते ब्रह्मलोके तु परान्तकाले  
 परामृताः परिमुच्यन्ति सर्वे॥  
   
@@ -230,7 +231,7 @@ title = "याज्ञिक्युपनिषत् (महानारा
 यत् ।  
 सर्वो ह्येष रुद्रस्तस्मै रुद्राय नमो अस्तु ॥ 24  
 कद्रुद्राय प्रचेतसे मीढुष्टमाय तव्यसे । वोचेम  
-शंतमꣳ हृदे ।  
+शन्तमꣳ हृदे ।  
 सर्वो ह्येष रुद्रस्तस्मै रुद्राय नमो अस्तु ॥ 25  
 नमो हिरण्यबाहवे हिरण्यपतयेऽम्बिकापतय उमापतये  
 पशुपतये नमो नमः ॥ 22  

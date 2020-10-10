@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhairavastutiH"
-"File name" = "bhairavastuti.itx"
-itxtitle = "bhairavastutiH (devIkRitA gorakShasaMhitAyAM)"
-engtitle = "bhairavastuti"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "gorakShasaMhitAyAM prathamaH paTalAntargate"
-"Latest update" = "May 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भैरवस्तुतिः (देवीकृइता गोरक्षसंहितायां)"
+---
+Category: shiva
+Description/comments: gorakShasaMhitAyAM prathamaH paTalAntargate
+File name: bhairavastuti.itx
+Language: Sanskrit
+Latest update: May 6, 2018
+Location: doc_shiva
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: bhairavastutiH
+Transliterated by: DPD
+engtitle: bhairavastuti
+itxtitle: bhairavastutiH (devIkRitA gorakShasaMhitAyAM)
+title: भैरवस्तुतिः (देवीकृइता गोरक्षसंहितायां)
 
-+++
+---
   
  देवीकृता भैरवस्तुतिः   
 नित्यानन्दं परं शान्तं निष्कलं च निरामयम् ।  

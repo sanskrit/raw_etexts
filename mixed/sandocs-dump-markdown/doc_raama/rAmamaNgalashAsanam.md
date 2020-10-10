@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmamaNgalAshAsanam"
-"File name" = "rAmamangalAshAsanam.itx"
-itxtitle = "rAmamaNgalashAsanam"
-engtitle = "Shrirama mangalashasanam"
-Category = "raama, stotra, mangala"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "varavaramunisvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-"Proofread by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-"Latest update" = "September 28, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राममण्गलशासनम्"
+---
+Author: varavaramunisvAmi
+Category: raama, stotra, mangala
+File name: rAmamangalAshAsanam.itx
+Language: Sanskrit
+Latest update: September 28, 2013
+Location: doc_raama
+Proofread by: Ankur Nagpal ankurnagpal108 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmamaNgalAshAsanam
+Texttype: stotra
+Transliterated by: Ankur Nagpal ankurnagpal108 at gmail.com
+engtitle: Shrirama mangalashasanam
+itxtitle: rAmamaNgalashAsanam
+title: राममण्गलशासनम्
 
-+++
+---
   
  श्रीराममङ्गलशासनम्   
   

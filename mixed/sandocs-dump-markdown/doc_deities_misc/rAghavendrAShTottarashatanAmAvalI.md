@@ -1,22 +1,22 @@
-+++
-"Text title" = "Raghavendra Ashtottarashata Namavali 108 Names"
-"File name" = "rAghavendrAShTottarashatanAmAvalI.itx"
-itxtitle = "rAghavendrAShTottarashatanAmAvalI"
-engtitle = "rAghavendrAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "April 24, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राघवेन्द्राष्टोत्तरशतनामावली"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, deities_misc, gurudev
+File name: rAghavendrAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: April 24, 2020
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Raghavendra Ashtottarashata Namavali 108 Names
+engtitle: rAghavendrAShTottarashatanAmAvalI
+itxtitle: rAghavendrAShTottarashatanAmAvalI
+title: राघवेन्द्राष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीराघवेन्द्र अष्टोत्तरशतनामावलिः   
 ॥ अथ श्रीराघवेन्द्र अष्टोत्तरशतनामावलिः ॥  

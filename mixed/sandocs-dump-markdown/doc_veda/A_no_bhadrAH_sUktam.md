@@ -1,23 +1,23 @@
-+++
-"Text title" = "A no bhadrAH sUktam"
-"File name" = "AnobhadrA.itx"
-itxtitle = "A no bhadrAH sUktam"
-engtitle = "A no bhadrAH Suktam"
-Category = "sUkta, veda, svara, rigveda"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion/veda"
-"Transliterated by" = "Harissh Swaminathan hari.yajurveda at gmail.com"
-"Proofread by" = "Harissh Swaminathan hari.yajurveda at gmail.com"
-Description-comments = "Rigveda Mandala 1, Sukta 89"
-"Latest update" = "June 26, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आ नो भद्राः सूक्तम्"
+---
+Category: sUkta, veda, svara, rigveda
+Description-comments: Rigveda Mandala 1, Sukta 89
+File name: AnobhadrA.itx
+Language: Sanskrit
+Latest update: June 26, 2011
+Location: doc_veda
+Proofread by: Harissh Swaminathan hari.yajurveda at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion/veda
+Sublocation: veda
+Text title: A no bhadrAH sUktam
+Texttype: svara
+Transliterated by: Harissh Swaminathan hari.yajurveda at gmail.com
+engtitle: A no bhadrAH Suktam
+itxtitle: A no bhadrAH sUktam
+title: आ नो भद्राः सूक्तम्
 
-+++
+---
   
  आ नो भद्राः सूक्तम्   
   
@@ -29,7 +29,7 @@ title = "आ नो भद्राः सूक्तम्"
 अ॒र्य॒मणं॒ वरु॑णं॒ सोम॑म॒श्विना॒ सर॑स्वती नः सु॒भगा॒ मय॑स्करत् ॥ १.०८९.०३  
 तन्नो॒ वातो᳚ मयो॒भुवा᳚तु भेष॒जं तन्मा॒ता पृ॑थि॒वी तत्पि॒ता द्यौः ।  
 तद् ग्रावा᳚णः सोम॒सुतो᳚ मयो॒भुव॒स्तद॑श्विना शृणुतं धिष्ण्या यु॒वम् ॥ १.०८९.०४  
-तमीशा᳚नं॒ जग॑तस्त॒स्थुष॒स्पतिं᳚ धियंजि॒न्वमव॑से हूमहे व॒यम् ।  
+तमीशा᳚नं॒ जग॑तस्त॒स्थुष॒स्पतिं᳚ धियञ्जि॒न्वमव॑से हूमहे व॒यम् ।  
 पू॒षा नो॒ यथा॒ वेद॑सा॒मस॑द्वृ॒धे र॑क्षि॒ता पा॒युरद॑ब्धः स्व॒स्तये᳚ ॥ १.०८९.०५  
 स्व॒स्ति न॒ इन्द्रो᳚ वृ॒द्धश्र॑वाः स्व॒स्ति नः॑ पू॒षा वि॒श्ववे᳚दाः ।  
 स्व॒स्ति न॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु ॥ १.०८९.०६  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "PrabuddhAtman gAya gItam"
-"File name" = "prabuddhAtmangAyagItam.itx"
-itxtitle = "prabuddhAtman gAya gItam"
-engtitle = "prabuddhAtmangAyagItam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "janArdana hegaDe"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Video 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रबुद्धात्मन् गाय गीतम्"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: janArdana hegaDe
+Category: misc, sanskritgeet
+File name: prabuddhAtmangAyagItam.itx
+Indexextra: (Wiki, Video 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: PrabuddhAtman gAya gItam
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: prabuddhAtmangAyagItam
+itxtitle: prabuddhAtman gAya gItam
+title: प्रबुद्धात्मन् गाय गीतम्
 
-+++
+---
   
  प्रबुद्धात्मन् गाय गीतम्   
 प्रबुद्धात्मन् गाय गीतं राष्ट्रभक्तिनिबोधकं  

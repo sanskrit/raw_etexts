@@ -3,7 +3,6 @@ title: 045 Hanuma kills Prahasta s seven sons
 title_english: 045 Hanuma kills Prahasta s seven sons
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-045-Hanuma_kills_Prahasta_s_seven_sons.mp3"></div>
 
 ततः ते राक्षस इन्द्रेण चोदिता मन्त्रिणः सुताः ।  

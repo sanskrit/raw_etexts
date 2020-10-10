@@ -1,24 +1,25 @@
-+++
-"Text title" = "reNukAkavacham 2 shrIDAmareshvaratantre ShaShThitamo.adhyAyaH"
-"File name" = "reNukAkavacham2.itx"
-itxtitle = "reNukAkavacham 2 (DAmareshvaratantrAntargatam)"
-engtitle = "Renuka Kavacham 2 from Damareshvaratantra Adhyaya 6"
-Category = "kavacha, devii, reNukA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-Description-comments = "shrIDAmareshvaratantre ShaShThitamo.adhyAyaH from shrIreNukAtantram, Pitambarapeeth, Datia"
-Indexextra = "(DAmareshvaratantra)"
-"Latest update" = "May 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकाकवचम् २ (डामरेश्वरतन्त्रान्तर्गतम्)"
+---
+Category: kavacha, devii, reNukA, devI
+Description-comments: shrIDAmareshvaratantre ShaShThitamo.adhyAyaH from shrIreNukAtantram,
+  Pitambarapeeth, Datia
+File name: reNukAkavacham2.itx
+Indexextra: (DAmareshvaratantra)
+Language: Sanskrit
+Latest update: May 18, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAkavacham 2 shrIDAmareshvaratantre ShaShThitamo.adhyAyaH
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Renuka Kavacham 2 from Damareshvaratantra Adhyaya 6
+itxtitle: reNukAkavacham 2 (DAmareshvaratantrAntargatam)
+title: रेणुकाकवचम् २ (डामरेश्वरतन्त्रान्तर्गतम्)
 
-+++
+---
   
  रेणुकाकवचं डामरेश्वरतन्त्रे षष्ठितमोऽध्यायः   
   

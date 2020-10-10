@@ -1,21 +1,21 @@
-+++
-"Text title" = "Vasavi Kanyaka Parameshvari Shodasha Namavali 16 names"
-"File name" = "vAsavIkanyakAparameshvarIShoDashanAmAvalI.itx"
-itxtitle = "vAsavIkanyakAparameshvarIShoDashanAmAvalI"
-engtitle = "vAsavIkanyakAparameshvarIShoDashanAmAvalI"
-Category = "devii, ShoDasha, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Bala Umamaheshwari, PSA Easwaran"
-"Description/comments" = "See corresponding stotram"
-"Latest update" = "June 1, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकापरमेश्वरीषोडशनामावली"
+---
+Category: devii, ShoDasha, nAmAvalI, devI
+Description/comments: See corresponding stotram
+File name: vAsavIkanyakAparameshvarIShoDashanAmAvalI.itx
+Language: Sanskrit
+Latest update: June 1, 2019
+Location: doc_devii
+Proofread by: Bala Umamaheshwari, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vasavi Kanyaka Parameshvari Shodasha Namavali 16 names
+engtitle: vAsavIkanyakAparameshvarIShoDashanAmAvalI
+itxtitle: vAsavIkanyakAparameshvarIShoDashanAmAvalI
+title: वासवीकन्यकापरमेश्वरीषोडशनामावली
 
-+++
+---
   
  श्रीवासवीकन्यकापरमेश्वरी षोडशनामावलिः   
 श्रीगणेशाय नमः ।  

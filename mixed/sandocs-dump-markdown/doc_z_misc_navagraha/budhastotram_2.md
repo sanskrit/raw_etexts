@@ -1,22 +1,22 @@
-+++
-"Text title" = "budhastotram 2"
-"File name" = "budhastotram2.itx"
-itxtitle = "budhastotram 2"
-engtitle = "budhastotram 2"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "BhaktivivekasAra"
-Indexextra = "(Scanned)"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बुधस्तोत्रम् २"
+---
+Category: navagraha
+Description/comments: BhaktivivekasAra
+File name: budhastotram2.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: budhastotram 2
+engtitle: budhastotram 2
+itxtitle: budhastotram 2
+title: बुधस्तोत्रम् २
 
-+++
+---
   
  बुधस्तोत्रम् २   
 ॐ नमो बुधाय विज्ञाय सोमपुत्राय ते नमः ।  

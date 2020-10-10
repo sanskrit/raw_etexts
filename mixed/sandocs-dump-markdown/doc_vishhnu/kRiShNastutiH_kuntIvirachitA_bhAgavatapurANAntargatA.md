@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRRiShNastutiH kuntI"
-"File name" = "kRRiShNastutiHkuntI.itx"
-itxtitle = "kRiShNastutiH (kuntIvirachitA bhAgavatapurANAntargatA)"
-engtitle = "kRRiShNastutiH kuntI"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तुतिः (कुन्तीविरचिता भागवतपुराणान्तर्गता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, krishna
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: kRRiShNastutiHkuntI.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNastutiH kuntI
+engtitle: kRRiShNastutiH kuntI
+itxtitle: kRiShNastutiH (kuntIvirachitA bhAgavatapurANAntargatA)
+title: कृइष्णस्तुतिः (कुन्तीविरचिता भागवतपुराणान्तर्गता)
 
-+++
+---
   
  श्रीकृष्णस्तुतिःकुन्ती   
   

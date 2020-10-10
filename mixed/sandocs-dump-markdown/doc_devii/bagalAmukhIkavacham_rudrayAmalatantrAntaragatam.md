@@ -1,23 +1,23 @@
-+++
-"Text title" = "bagalAmukhIkavacham"
-"File name" = "bagalAmukhIkavacham.itx"
-itxtitle = "bagalAmukhIkavacham (rudrayAmalatantrAntaragatam)"
-engtitle = "bagalAmukhIkavacham"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-"Latest update" = "March 20, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बगलामुखीकवचम् (रुद्रयामलतन्त्रान्तरगतम्)"
+---
+Author: Traditional
+Category: kavacha, devii, dashamahAvidyA, devI
+File name: bagalAmukhIkavacham.itx
+Language: Sanskrit
+Latest update: March 20, 2016
+Location: doc_devii
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bagalAmukhIkavacham
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: bagalAmukhIkavacham
+itxtitle: bagalAmukhIkavacham (rudrayAmalatantrAntaragatam)
+title: बगलामुखीकवचम् (रुद्रयामलतन्त्रान्तरगतम्)
 
-+++
+---
   
  बगलामुखीकवचम्   
   

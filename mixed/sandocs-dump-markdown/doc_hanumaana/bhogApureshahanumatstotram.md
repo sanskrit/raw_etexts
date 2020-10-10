@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhogApureshahanumatstotram"
-"File name" = "bhogApureshahanumatstotram.itx"
-itxtitle = "bhogApureshahanumatstotram"
-engtitle = "bhogApureshahanumatstotram"
-Category = "hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-"Description/comments" = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "December 8, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भोगापुरेशहनुमत्स्तोत्रम्"
+---
+Category: hanumaana, hanuman
+Description/comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: bhogApureshahanumatstotram.itx
+Language: Sanskrit
+Latest update: December 8, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: bhogApureshahanumatstotram
+Transliterated by: Processed by Shree Devi Kumar
+engtitle: bhogApureshahanumatstotram
+itxtitle: bhogApureshahanumatstotram
+title: भोगापुरेशहनुमत्स्तोत्रम्
 
-+++
+---
   
  श्रीभोगापुरेशहनुमत्स्तोत्रम्   
   

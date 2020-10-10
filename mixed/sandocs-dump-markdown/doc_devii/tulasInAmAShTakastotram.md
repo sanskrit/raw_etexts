@@ -1,22 +1,22 @@
-+++
-"Text title" = "tulasInAmAShTakastotram"
-"File name" = "tulasInAmAShTakastotram.itx"
-itxtitle = "tulasInAmAShTakastotram"
-engtitle = "tulasInAmAShTakastotram"
-Category = "devii, tulasI, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar, PSA Easwaran"
-"Latest update" = "August 28, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलसीनामाष्टकस्तोत्रम्"
+---
+Category: devii, tulasI, aShTaka, devI
+File name: tulasInAmAShTakastotram.itx
+Language: Sanskrit
+Latest update: August 28, 2017
+Location: doc_devii
+Proofread by: Shree Devi Kumar, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulasInAmAShTakastotram
+Transliterated by: Shree Devi Kumar
+engtitle: tulasInAmAShTakastotram
+itxtitle: tulasInAmAShTakastotram
+title: तुलसीनामाष्टकस्तोत्रम्
 
-+++
+---
   
  श्रीतुलसीनामाष्टकस्तोत्रम् अष्टनामावलिश्च   
   

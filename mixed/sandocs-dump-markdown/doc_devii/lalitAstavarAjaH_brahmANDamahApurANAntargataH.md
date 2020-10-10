@@ -1,23 +1,23 @@
-+++
-"Text title" = "lalitAstavarAjaH brahmANDapurANe"
-"File name" = "lalitAstavarAjabrahmANDa.itx"
-itxtitle = "lalitAstavarAjaH (brahmANDamahApurANAntargataH)"
-engtitle = "lalitA stavarAjaH from brahmANDamahApurANa"
-Category = "stavarAja, devii, dashamahAvidyA, lalitA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "December 14, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितास्तवराजः (ब्रह्माण्डमहापुराणान्तर्गतः)"
+---
+Category: stavarAja, devii, dashamahAvidyA, lalitA, devI
+File name: lalitAstavarAjabrahmANDa.itx
+Language: Sanskrit
+Latest update: December 14, 2013
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitAstavarAjaH brahmANDapurANe
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: lalitA stavarAjaH from brahmANDamahApurANa
+itxtitle: lalitAstavarAjaH (brahmANDamahApurANAntargataH)
+title: ललितास्तवराजः (ब्रह्माण्डमहापुराणान्तर्गतः)
 
-+++
+---
   
  ललिता स्तवराजः ब्रह्माण्डमहापुराणे   
   

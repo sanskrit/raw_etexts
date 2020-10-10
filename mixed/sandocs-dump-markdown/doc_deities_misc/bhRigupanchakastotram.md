@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhRigupanchakastotram"
-"File name" = "bhRigupanchakastotram.itx"
-itxtitle = "bhRigupanchakastotram"
-engtitle = "Bhrigupanchakastotram"
-Category = "panchaka, deities_misc, samartha-rAmadAsa"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Samartha Shree"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Srinivas Kommireddy srinivas.kommireddy at googlemail.com"
-"Proofread by" = "Srinivas Kommireddy, PSA Easwaran"
-Source = "Sanskrit Jagat"
-"Latest update" = "December 11, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भृइगुपञ्चकस्तोत्रम्"
+---
+Author: Samartha Shree
+Category: panchaka, deities_misc, samartha-rAmadAsa
+File name: bhRigupanchakastotram.itx
+Language: Sanskrit
+Latest update: December 11, 2015
+Location: doc_deities_misc
+Proofread by: Srinivas Kommireddy, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sanskrit Jagat
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: bhRigupanchakastotram
+Transliterated by: Srinivas Kommireddy srinivas.kommireddy at googlemail.com
+engtitle: Bhrigupanchakastotram
+itxtitle: bhRigupanchakastotram
+title: भृइगुपञ्चकस्तोत्रम्
 
-+++
+---
   
  श्री भृगुपञ्चकस्तोत्रम्   
   

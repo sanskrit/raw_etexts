@@ -1,23 +1,23 @@
-+++
-"Text title" = "bAlakRitaM kRiShNastotram"
-"File name" = "baalakrishnastotra.itx"
-itxtitle = "kRiShNastotram (bAlakRitam)"
-engtitle = "bAlakRitaM kRiShNastotram athavA dAvAnala saMharaNa stotram"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Subrahmanyam Gorty subrahmanyam_gorty at yahoo.com"
-"Latest update" = "May 1, 2003, July 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (बालकृइतम्)"
+---
+Author: Traditional
+Category: vishhnu, krishna, stotra, vishnu
+File name: baalakrishnastotra.itx
+Language: Sanskrit
+Latest update: May 1, 2003, July 13, 2018
+Location: doc_vishhnu
+Proofread by: Subrahmanyam Gorty subrahmanyam_gorty at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: bAlakRitaM kRiShNastotram
+Texttype: stotra
+engtitle: bAlakRitaM kRiShNastotram athavA dAvAnala saMharaNa stotram
+itxtitle: kRiShNastotram (bAlakRitam)
+title: कृइष्णस्तोत्रम् (बालकृइतम्)
 
-+++
+---
   
  श्रीकृष्णस्तोत्रं बालकृतम् अथवा दावानल संहरण स्तोत्रम्   
   
@@ -37,7 +37,7 @@ title = "कृइष्णस्तोत्रम् (बालकृइतम
 ये ये चराऽचराश्चैव सर्वे तव विभूतयः ।  
 आविर्भावस्तिरोभावः सर्वेषां च तवेच्छया ॥ ५॥  
   
-अभयं देहि गोविंद वह्निसंहरणं कुरु ।  
+अभयं देहि गोविन्द वह्निसंहरणं कुरु ।  
 वयं त्वां शरणं यामो रक्ष नः शरणागतान् ॥ ६॥  
   
 इत्येवमुक्त्वा ते सर्वे तस्थुर्ध्यात्वा पदाम्बुजम् ।  
@@ -49,7 +49,7 @@ title = "कृइष्णस्तोत्रम् (बालकृइतम
 इदं स्तोत्रं महापुण्यं प्रातरूत्थाय यः पठेत् ।  
 वह्नितो न भवेत्तस्य भयं जन्मनि जन्मनि ॥ ९॥  
   
-शत्रुग्रस्ते च दावाग्नौ विपत्तौ प्राणसंकटे ।  
+शत्रुग्रस्ते च दावाग्नौ विपत्तौ प्राणसङ्कटे ।  
 स्तोत्रमेतत् पठित्वा तु मुच्यते नाऽत्र संशयः ॥ १०॥  
   
 शत्रुसैन्यं क्षयं याति सर्वत्र विजयी भवेत् ।  

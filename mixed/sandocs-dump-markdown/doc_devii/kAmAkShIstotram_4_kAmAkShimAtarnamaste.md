@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrIkAmAkShIstotram 4"
-"File name" = "kAmAkShIstotram4.itx"
-itxtitle = "kAmAkShIstotram 4 (kAmAkShimAtarnamaste)"
-engtitle = "Shri Kamakshi stotram 4"
-Category = "devii, kAmAkShI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "kAmAkShI"
-Texttype = "stotra"
-Author = "anantarAmadIkShita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. R. Ramamurthy"
-Indexextra = "(Video 1, 2, English)"
-"Latest update" = "May 10, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामाक्षीस्तोत्रम् ४ (कामाक्षिमातर्नमस्ते)"
+---
+Author: anantarAmadIkShita
+Category: devii, kAmAkShI, stotra, devI
+File name: kAmAkShIstotram4.itx
+Indexextra: (Video 1, 2, English)
+Language: Sanskrit
+Latest update: May 10, 2020
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: kAmAkShI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIkAmAkShIstotram 4
+Texttype: stotra
+Transliterated by: P. R. Ramamurthy
+engtitle: Shri Kamakshi stotram 4
+itxtitle: kAmAkShIstotram 4 (kAmAkShimAtarnamaste)
+title: कामाक्षीस्तोत्रम् ४ (कामाक्षिमातर्नमस्ते)
 
-+++
+---
   
  श्रीकामाक्षीस्तोत्रम्   
 कामाक्षिमातर्नमस्ते कामदानैकदक्षे स्थिते भक्तपक्षे ॥ ध्रु॥  

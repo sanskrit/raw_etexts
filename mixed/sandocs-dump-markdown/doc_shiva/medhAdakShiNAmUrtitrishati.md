@@ -1,22 +1,22 @@
-+++
-"Text title" = "Medha Dakshinamurti Trishati Namavali 300 Names"
-"File name" = "medhAdakShiNAmUrtitrishati.itx"
-itxtitle = "medhAdakShiNAmUrtitrishati"
-engtitle = "Medha Dakshinamurti Trishati Namavali"
-Category = "shatInAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sneha Sudha snehasudha13 at gmail.com"
-"Proofread by" = "Sneha Sudha snehasudha13 at gmail.com"
-Indexextra = "(Scan, Info)"
-"Latest update" = "July 14, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मेधादक्षिणामूर्तित्रिशति"
+---
+Category: shatInAmAvalI, shiva
+File name: medhAdakShiNAmUrtitrishati.itx
+Indexextra: (Scan, Info)
+Language: Sanskrit
+Latest update: July 14, 2019
+Location: doc_shiva
+Proofread by: Sneha Sudha snehasudha13 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Medha Dakshinamurti Trishati Namavali 300 Names
+Transliterated by: Sneha Sudha snehasudha13 at gmail.com
+engtitle: Medha Dakshinamurti Trishati Namavali
+itxtitle: medhAdakShiNAmUrtitrishati
+title: मेधादक्षिणामूर्तित्रिशति
 
-+++
+---
   
  श्रीमेधादक्षिणामूर्तित्रिशती   
 ॐ नमो भगवते दक्षिणामूर्तये मह्यं मेधां प्रज्ञां प्रयच्छ स्वाहा ।  

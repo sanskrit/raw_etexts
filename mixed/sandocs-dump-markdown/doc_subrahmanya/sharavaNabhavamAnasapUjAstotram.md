@@ -1,22 +1,22 @@
-+++
-"Text title" = "sharavaNabhavamAnasapUjAstotram"
-"File name" = "sharavaNabhavamAnasapUjAstotram.itx"
-itxtitle = "sharavaNabhavamAnasapUjAstotram"
-engtitle = "sharavaNabhavamAnasapUjAstotram"
-Category = "pUjA, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran, Aruna Narayanan"
-Indexextra = "(Translation)"
-"Latest update" = "December 17, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरवणभवमानसपूजास्तोत्रम्"
+---
+Category: pUjA, subrahmanya
+File name: sharavaNabhavamAnasapUjAstotram.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: December 17, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran, Aruna Narayanan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: sharavaNabhavamAnasapUjAstotram
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: sharavaNabhavamAnasapUjAstotram
+itxtitle: sharavaNabhavamAnasapUjAstotram
+title: शरवणभवमानसपूजास्तोत्रम्
 
-+++
+---
   
  श्रीशरवणभवमानसपूजास्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  

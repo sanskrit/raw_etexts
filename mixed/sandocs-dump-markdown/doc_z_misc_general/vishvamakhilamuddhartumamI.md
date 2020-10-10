@@ -1,23 +1,23 @@
-+++
-"Text title" = "vishvamakhilamuddhartumamI"
-"File name" = "vishvamakhilamuddhartumamI.itx"
-itxtitle = "vishvamakhilamuddhartumamI"
-engtitle = "vishvamakhilamuddhartumamI"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वमखिलमुद्धर्तुममी"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: vishvamakhilamuddhartumamI.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: vishvamakhilamuddhartumamI
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: vishvamakhilamuddhartumamI
+itxtitle: vishvamakhilamuddhartumamI
+title: विश्वमखिलमुद्धर्तुममी
 
-+++
+---
   
  विश्वमखिलमुद्धर्तुममी   
 विश्वमखिलमुद्धर्तुममी निर्मिता वयम् ।  

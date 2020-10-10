@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmakarNarasAyanam"
-"File name" = "rAmakarNarasAyanam.itx"
-itxtitle = "rAmakarNarasAyanam (rAmabhadradIkShitakRitam)"
-engtitle = "rAmakarNarasAyanam"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "rAmabhadradIkShita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Vishnustutimanjari volume 2 print pages 311-399 niShyandaH 1-2"
-Indexextra = "(Scanned)"
-"Latest update" = "November 27, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामकर्णरसायनम् (रामभद्रदीक्षितकृइतम्)"
+---
+Author: rAmabhadradIkShita
+Category: raama
+Description-comments: Vishnustutimanjari volume 2 print pages 311-399 niShyandaH 1-2
+File name: rAmakarNarasAyanam.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 27, 2017
+Location: doc_raama
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmakarNarasAyanam
+engtitle: rAmakarNarasAyanam
+itxtitle: rAmakarNarasAyanam (rAmabhadradIkShitakRitam)
+title: रामकर्णरसायनम् (रामभद्रदीक्षितकृइतम्)
 
-+++
+---
   
  रामकर्णरसायनम्   
   

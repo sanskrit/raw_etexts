@@ -1,23 +1,23 @@
-+++
-"Text title" = "Greatness of Sanskrit"
-"File name" = "saMskRRitamahattvam.itx"
-itxtitle = "saMskRRitamahattvam"
-engtitle = "saMskRRitamahattvam"
-Category = "article, misc, sahitya"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Subcategory = "sahitya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shankara shankara underscore 2000 at yahoo.com"
-"Proofread by" = "Shankara shankara underscore 2000 at yahoo.com"
-Description-comments = "vishvasaMskRitashatAbdigranthAntargatam lekhanam"
-"Latest update" = "May 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृतमहत्त्वम्"
+---
+Category: article, misc, sahitya
+Description-comments: vishvasaMskRitashatAbdigranthAntargatam lekhanam
+File name: saMskRRitamahattvam.itx
+Language: Sanskrit
+Latest update: May 28, 2017
+Location: doc_z_misc_general
+Proofread by: Shankara shankara underscore 2000 at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Greatness of Sanskrit
+Transliterated by: Shankara shankara underscore 2000 at yahoo.com
+engtitle: saMskRRitamahattvam
+itxtitle: saMskRRitamahattvam
+title: संस्कृतमहत्त्वम्
 
-+++
+---
   
  संस्कृतमहत्त्वम्   
   

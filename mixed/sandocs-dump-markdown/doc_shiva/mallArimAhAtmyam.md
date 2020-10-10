@@ -1,21 +1,21 @@
-+++
-"Text title" = "mallArimAhAtmyam"
-"File name" = "mallArimAhAtmyam.itx"
-itxtitle = "mallArimAhAtmyam"
-engtitle = "mallArimAhAtmyam"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "mailAra tantra"
-Indexextra = "(Info)"
-"Latest update" = "December 17, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मल्लारिमाहात्म्यम्"
+---
+Category: shiva
+Description/comments: mailAra tantra
+File name: mallArimAhAtmyam.itx
+Indexextra: (Info)
+Language: Sanskrit
+Latest update: December 17, 2018
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mallArimAhAtmyam
+engtitle: mallArimAhAtmyam
+itxtitle: mallArimAhAtmyam
+title: मल्लारिमाहात्म्यम्
 
-+++
+---
   
  श्रीमल्लारिमाहात्म्यम्   
 ध्यानम् -  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "gurvAShTakaM with meaning"
-"File name" = "guru8mean.itx"
-itxtitle = "gurvAShTakam 2 (sArtham)"
-engtitle = "gurvAShTakam with meaning"
-Category = "aShTaka, deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-Indexextra = "(with commentary and meaning)"
-"Latest update" = "February 4, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुर्वाष्टकम् २ (सार्थम्)"
+---
+Category: aShTaka, deities_misc, gurudev
+File name: guru8mean.itx
+Indexextra: (with commentary and meaning)
+Language: Sanskrit
+Latest update: February 4, 2005
+Location: doc_deities_misc
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurvAShTakaM with meaning
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: gurvAShTakam with meaning
+itxtitle: gurvAShTakam 2 (sArtham)
+title: गुर्वाष्टकम् २ (सार्थम्)
 
-+++
+---
   
  सार्थ गुर्वाष्टकम्   
   
@@ -156,7 +156,7 @@ mundane pleasures that they are unwilling to give this up and look
 beyond it. Such people are blinded by ignorance and come within his  
 grip repeatedly.  
   
-न सांपरायः प्रतिभाति बालं प्रमाद्यन्तं वित्तमोहेन मूढम् ।  
+न साम्परायः प्रतिभाति बालं प्रमाद्यन्तं वित्तमोहेन मूढम् ।  
 अयं लोको नास्ति पर इति मानी पुनः पुनर्वशमापद्यते मे ॥  KU(1-2-6)  
   
 The misplaced infatuation for wealth, health etc., is caused by  
@@ -201,7 +201,7 @@ these are Apara Vidya; Para is that through which the imperishable
 Brahma is known.'' Sri Sankaracharya in his commentary says:   
   
 अपरा हि अविद्या सा निराकर्तव्या ।  
-तद्विषये हि विदिते न किंचित्तत्त्वतो विदितं स्यादिति ।    
+तद्विषये हि विदिते न किञ्चित्तत्त्वतो विदितं स्यादिति ।    
   
 The Apara vidya constitutes only ignorance and so  
 is to be rejected. By knowing it the truth does not become known.  
@@ -230,7 +230,7 @@ The striver should approach a guru. Sri Sankaracharya in explaining
 this statement says that the implication is that even one proficient  
 in scriptural studies should not try to do the inquiry by himself:  
   
-शास्त्रज्ञोऽपि स्वातंत्र्येण ब्रह्मज्ञानान्वेषणं न कुर्यदित्येतत्  
+शास्त्रज्ञोऽपि स्वातन्त्र्येण ब्रह्मज्ञानान्वेषणं न कुर्यदित्येतत्  
 गुरुमेवेत्यवधारणफलम् ।  
   
 THE GURU. The next question that arises as a corollary is who is a  
@@ -338,7 +338,7 @@ before him.
 Sri Vedanta Desika similarly gives a detailed description of the  
 qualities of a guru in his Nyasa Vimsati. He says:  
   
-सिद्धं सत्संप्रदाये स्थिरधियमनघं श्रोत्रियं ब्रह्मनिष्ठं  
+सिद्धं सत्सम्प्रदाये स्थिरधियमनघं श्रोत्रियं ब्रह्मनिष्ठं  
        सत्त्वस्थं सत्यवाचं समयनियतया साधुवृत्त्या समेतम् ।  
 दम्भासूयादिमुक्तं जितविषयगणं दीर्गबन्धुं दयालुं  
        स्खालित्ये शासितारं स्व-पर-हितपरं देशिकं भूष्णुमीप्सेत् ॥  
@@ -498,7 +498,7 @@ disciple should always worship the teacher and serve him as a
 dedicated servant. The guru is won over by his humility and teaches  
 the supreme vidya. Sri Sankaracharya advises us to have devotion to  
 the guru and free ourselves from the grip of this world. (Bhaja  
-Govindam). (18). गुरुचरणांबुज-निर्भरभक्तः  
+Govindam). (18). गुरुचरणाम्बुज-निर्भरभक्तः  
 संसार-दचिराद्भव मुक्तः ।   
   
 One can also think of another reason for offering worship and service  
@@ -676,7 +676,7 @@ composition. सुपद्यं  well structured. करोति  = makes.
 Second line is same as in verse No. 1.  
 The vedas have six members.that help in the correct pronunciation and  
 interpretation of the text. They are:शिक्षा  = the science of  
-proper articulation and pronunciation;  छंदस्  = the science of  
+proper articulation and pronunciation;  छन्दस्  = the science of  
 prosody;  व्याकरणं  = grammar;  निरुक्तं  = etymological  
 explanation of difficult vedic words;  ज्योतिषं  =  astronomy  
 and; कल्पं  = ritual or ceremonial.  
@@ -742,7 +742,7 @@ the purification of the mind. Knowledge can be had only by enquiry
 under the guidance of the guru. Sri Sankaracharya says: VC(11)  
   
 चित्तस्य शुद्धये कर्म न वस्तूपलब्धये ।   
-वस्तुसिद्धिर्विचारेण न किंचित्कर्मकोटिभिः ॥  
+वस्तुसिद्धिर्विचारेण न किञ्चित्कर्मकोटिभिः ॥  
   
 Meaning of the verse. One may be respected in his own country as well  
 as in other countries. He may also be known to be a follower of  
@@ -845,14 +845,14 @@ and in due course accept and act on them (ie.) develop devotion to
 his guru. This devotion will, in due course bear fruit.  
   
 गुरोरष्टकं यः पठेत्पुण्यदेही यतिर्भूपतिर्ब्रह्मचारी च गेही ।  
-लभेद्वाञ्चितार्थं पदं ब्रह्मसंज्ञं गुरोरुक्तवाक्ये मनो यस्य लग्नम् ॥ ९॥  
+लभेद्वाञ्चितार्थं पदं ब्रह्मसञ्ज्ञं गुरोरुक्तवाक्ये मनो यस्य लग्नम् ॥ ९॥  
   
 गुरोः अष्टकं  = the composition consisting of eight verses on the  
 guru. पुण्यदेही  = one who has done meritotious deeds. यः  
 पठेत्  = if he reads. यतिः  be he a sanyasi (ascetic).  
 भूपतिः  = a king. ब्रह्मचारी  = a student studying under a  
 teacher. च गेही  = or a householder. He will लभेत्  =  
-get. वाञ्चितार्थं  = desired goal. ब्रह्मसंज्ञं पदं  =  
+get. वाञ्चितार्थं  = desired goal. ब्रह्मसञ्ज्ञं पदं  =  
 the status known as brahman. गुरुरुक्तवाक्ये  = in the teachings of  
 the guru. यस्य  = whose.मनः  = mind. लग्नं   = is  
 attached.  

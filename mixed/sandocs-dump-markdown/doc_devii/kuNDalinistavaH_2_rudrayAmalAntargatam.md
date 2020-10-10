@@ -1,26 +1,26 @@
-+++
-"Text title" = "Kundalinistavah 2"
-"File name" = "kuNDalinistavaH2.itx"
-itxtitle = "kuNDalinistavaH 2 (rudrayAmalAntargatam)"
-engtitle = "kuNDalinistavaH 2"
-Category = "devii, ShaTchakrashakti, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुण्डलिनिस्तवः २ (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: devii, ShaTchakrashakti, devI
+Description/comments: rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde
+File name: kuNDalinistavaH2.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kundalinistavah 2
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: kuNDalinistavaH 2
+itxtitle: kuNDalinistavaH 2 (rudrayAmalAntargatam)
+title: कुण्डलिनिस्तवः २ (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  कुण्डलिनिस्तवः २   
 आनन्दभैरव उवाच  
@@ -109,7 +109,7 @@ title = "कुण्डलिनिस्तवः २ (रुद्रया�
 नासाग्रद्वयगह्वरं भृगुतरा नेत्रत्रयं तारिणी  
 केशान् कुन्तलकालिका सुकपिला कैलासशैलासना ।  
 कङ्कालामलमालिका सुवसना दन्तावलीं दैत्यहा  
-बाह्यं मन्त्रमनन्तशास्त्रतरणी संज्ञावचःस्तम्भिनी ॥ २८-९१॥  
+बाह्यं मन्त्रमनन्तशास्त्रतरणी सञ्ज्ञावचःस्तम्भिनी ॥ २८-९१॥  
   
 हं हं हं नरहारघोररमणी सञ्चारिणी पातु मे  
 शत्रूणां दलनं करोतु नियतं मे चण्डमुण्डापहा ।  

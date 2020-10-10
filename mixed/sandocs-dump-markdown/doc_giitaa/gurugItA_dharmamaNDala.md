@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Guru Gita"
-"File name" = "shriigurugiitaadharmamandala.itx"
-itxtitle = "gurugItA (dharmamaNDala)"
-engtitle = "gurugItA (dharmamaNDala)"
-Category = "gItA, giitaa, gurudev"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "sunder hattangadi"
-"Proofread by" = "sunder hattangadi"
-Description-comments = "Dharmamandala print version"
-Indexextra = "(Dharma Mandala DLI version (scanned))"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुगीता (धर्ममण्डल)"
+---
+Category: gItA, giitaa, gurudev
+Description-comments: Dharmamandala print version
+File name: shriigurugiitaadharmamandala.itx
+Indexextra: (Dharma Mandala DLI version (scanned))
+Language: Sanskrit
+Location: doc_giitaa
+Proofread by: sunder hattangadi
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: Shri Guru Gita
+Transliterated by: sunder hattangadi
+engtitle: gurugItA (dharmamaNDala)
+itxtitle: gurugItA (dharmamaNDala)
+title: गुरुगीता (धर्ममण्डल)
 
-+++
+---
   
  श्रीगुरुगीता   
   
@@ -232,7 +232,7 @@ title = "गुरुगीता (धर्ममण्डल)"
 गुरोस्तु चक्षुर्विषये न यथेष्टाऽऽसनो भवेत् ।  
 चापल्यं प्रमदागाथामहङ्कारं च वर्जयेत् ॥ ६७॥  
   
-नाऽपृष्टो वचनं किंचिद्ब्रूयान्नाऽपि निषेधयेत् ।  
+नाऽपृष्टो वचनं किञ्चिद्ब्रूयान्नाऽपि निषेधयेत् ।  
 गुरुमूर्तिं स्मरेन्नित्यं गुरुनाम सदा जपेत् ॥ ६८॥  
   
 गुरोराज्ञां प्रकुर्वीत गुरोरन्यं न भावयेत् ।  
@@ -552,7 +552,7 @@ title = "गुरुगीता (धर्ममण्डल)"
 ऋषयः सर्वसिद्धाश्च गुरुसेवापराङ्मुखाः ॥ १७३॥  
   
 श्रुतिस्मृतिमविज्ञाय केवलं गुरुसेवया ।  
-ते वै संन्यासिनः प्रोक्ता इतरे वेषधारिणः ॥ १७४॥  
+ते वै सन्न्यासिनः प्रोक्ता इतरे वेषधारिणः ॥ १७४॥  
   
 गुरोः कृपाप्रसादेन आत्मारामो हि लभ्यते ।  
 अनेन गुरुमार्गेण आत्मज्ञानं प्रवर्तते ॥ १७५॥  
@@ -600,7 +600,7 @@ title = "गुरुगीता (धर्ममण्डल)"
 तत्पदं दर्शितं येन तस्मै श्रीगुरवे नमः ॥ १८९॥  
   
 नमोऽस्तु गुरवे तस्मै इष्टदेवस्वरूपिणे ।  
-यस्य वाक्याऽमृतं हन्ति विषं संसारसंज्ञितम् ॥ १९०॥  
+यस्य वाक्याऽमृतं हन्ति विषं संसारसञ्ज्ञितम् ॥ १९०॥  
   
 श्रीमहादेव्युवाच ।  
 मदेकहृदयाऽऽनन्द जगदात्मन् महेश्वर ।  

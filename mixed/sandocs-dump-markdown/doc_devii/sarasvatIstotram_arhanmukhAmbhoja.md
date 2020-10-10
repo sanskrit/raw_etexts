@@ -1,21 +1,21 @@
-+++
-"Text title" = "sarasvatIstotram starting arhanmukhAmbhoja"
-"File name" = "sarasvatIstotramarhanmukhAmbhoja.itx"
-itxtitle = "sarasvatIstotram (arhanmukhAmbhoja)"
-engtitle = "sarasvatIstotram starting arhanmukhAmbhoja"
-Category = "devii, sarasvatI, jaina, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Latest update" = "April 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तोत्रम् (अर्हन्मुखाम्भोज)"
+---
+Category: devii, sarasvatI, jaina, devI
+File name: sarasvatIstotramarhanmukhAmbhoja.itx
+Language: Sanskrit
+Latest update: April 14, 2018
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIstotram starting arhanmukhAmbhoja
+Transliterated by: DPD
+engtitle: sarasvatIstotram starting arhanmukhAmbhoja
+itxtitle: sarasvatIstotram (arhanmukhAmbhoja)
+title: सरस्वतीस्तोत्रम् (अर्हन्मुखाम्भोज)
 
-+++
+---
   
  श्रीसरस्वतीस्तोत्रम्   
 ॐ अर्हन्मुखाम्भोजवासिनीं पापनाशिनीम् ।  

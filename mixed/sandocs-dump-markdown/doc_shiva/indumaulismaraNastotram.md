@@ -1,21 +1,22 @@
-+++
-"Text title" = "indumaulismaraNastotram"
-"File name" = "indumaulismaraNastotram.itx"
-itxtitle = "indumaulismaraNastotram"
-engtitle = "indumaulismaraNastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "February 20, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "इन्दुमौलिस्मरणस्तोत्रम्"
+---
+Category: shiva
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: indumaulismaraNastotram.itx
+Language: Sanskrit
+Latest update: February 20, 2017
+Location: doc_shiva
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: indumaulismaraNastotram
+engtitle: indumaulismaraNastotram
+itxtitle: indumaulismaraNastotram
+title: इन्दुमौलिस्मरणस्तोत्रम्
 
-+++
+---
   
  इन्दुमौलिस्मरणस्तोत्रम्   
   

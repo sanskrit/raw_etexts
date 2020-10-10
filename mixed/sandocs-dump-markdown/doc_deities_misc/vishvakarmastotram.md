@@ -1,21 +1,21 @@
-+++
-"Text title" = "vishvakarmastotram"
-"File name" = "vishvakarmastotram.itx"
-itxtitle = "vishvakarmastotram"
-engtitle = "vishvakarmastotram"
-Category = "deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaram at gmail.com"
-Indexextra = "(stotra)"
-"Latest update" = "July 8, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वकर्मस्तोत्रम्"
+---
+Category: deities_misc
+File name: vishvakarmastotram.itx
+Indexextra: (stotra)
+Language: Sanskrit
+Latest update: July 8, 2017
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaram at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vishvakarmastotram
+engtitle: vishvakarmastotram
+itxtitle: vishvakarmastotram
+title: विश्वकर्मस्तोत्रम्
 
-+++
+---
   
  विश्वकर्मस्तोत्रम्   
   

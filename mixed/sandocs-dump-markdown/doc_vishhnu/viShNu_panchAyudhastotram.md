@@ -1,23 +1,23 @@
-+++
-"Text title" = "viShNu panchAyudha stotram"
-"File name" = "vishnupanchAyudh.itx"
-itxtitle = "viShNu panchAyudhastotram"
-engtitle = "viShNu panchAyudha stotram"
-Category = "vishhnu, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Arun Shantharam shantharam.arun at gmail.com"
-"Latest update" = "February 21, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णु पञ्चायुधस्तोत्रम्"
+---
+Author: Traditional
+Category: vishhnu, stotra, vishnu
+File name: vishnupanchAyudh.itx
+Language: Sanskrit
+Latest update: February 21, 2009
+Location: doc_vishhnu
+Proofread by: Arun Shantharam shantharam.arun at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNu panchAyudha stotram
+Texttype: stotra
+engtitle: viShNu panchAyudha stotram
+itxtitle: viShNu panchAyudhastotram
+title: विष्णु पञ्चायुधस्तोत्रम्
 
-+++
+---
   
  श्रीविष्णु पञ्चायुधस्तोत्रम्   
   

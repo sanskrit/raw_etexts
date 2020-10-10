@@ -1,22 +1,22 @@
-+++
-"Text title" = "advaitabhAvanopaniShat"
-"File name" = "advaitabhAvanopaniShat.itx"
-itxtitle = "advaitabhAvanopaniShat"
-engtitle = "advaitabhAvanopaniShat"
-Category = "upanishhat, sadAshivabrahmendra, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "sadAshiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vineet Menon mvineetmenon at gmail.com"
-"Proofread by" = "Vineet Menon, anonymous456an at gmail.com"
-"Latest update" = "June 16, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अद्वैतभावनोपनिषत्"
+---
+Author: sadAshiva
+Category: upanishhat, sadAshivabrahmendra, upanishad
+File name: advaitabhAvanopaniShat.itx
+Language: Sanskrit
+Latest update: June 16, 2017
+Location: doc_upanishhat
+Proofread by: Vineet Menon, anonymous456an at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: advaitabhAvanopaniShat
+Transliterated by: Vineet Menon mvineetmenon at gmail.com
+engtitle: advaitabhAvanopaniShat
+itxtitle: advaitabhAvanopaniShat
+title: अद्वैतभावनोपनिषत्
 
-+++
+---
   
  अद्वैतभावनोपनिषत्   
   

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shlokas to be Recited during Study of Shrimad Ramayanam"
-"File name" = "rAmAyaNapaThanopakramopasaMhArakramaH.itx"
-itxtitle = "rAmAyaNapaThanopakramopasaMhArakramaH"
-engtitle = "rAmAyaNapaThanopakramopasaMhArakramaH"
-Category = "raama, dhyAnam, mangala"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Latest update" = "November 20, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामायणपठनोपक्रमोपसंहारक्रमः"
+---
+Category: raama, dhyAnam, mangala
+File name: rAmAyaNapaThanopakramopasaMhArakramaH.itx
+Language: Sanskrit
+Latest update: November 20, 2018
+Location: doc_raama
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Shlokas to be Recited during Study of Shrimad Ramayanam
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: rAmAyaNapaThanopakramopasaMhArakramaH
+itxtitle: rAmAyaNapaThanopakramopasaMhArakramaH
+title: रामायणपठनोपक्रमोपसंहारक्रमः
 
-+++
+---
   
  श्रीमद्रामायणपठनोपक्रमोपसंहारक्रमः   
                 ॥ श्रीः॥  

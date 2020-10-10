@@ -1,23 +1,23 @@
-+++
-"Text title" = "nAradabhaktisUtra"
-"File name" = "nAradabhaktisUtra.itx"
-itxtitle = "nAradabhaktisUtrANi"
-engtitle = "Narada Bhakti Sutras"
-Category = "sUtra, major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Naradamuni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh  at  hotmail"
-"Proofread by" = "Sunder Hattangadi sunderh  at  hotmail"
-Description-comments = "Sage Narada@s Aphorism of Devotion"
-"Latest update" = "February 9, 1998,  March 15, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारदभक्तिसूत्राणि"
+---
+Author: Naradamuni
+Category: sUtra, major_works
+Description-comments: Sage Narada@s Aphorism of Devotion
+File name: nAradabhaktisUtra.itx
+Language: Sanskrit
+Latest update: February 9, 1998,  March 15, 2015
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh  at  hotmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: nAradabhaktisUtra
+Transliterated by: Sunder Hattangadi sunderh  at  hotmail
+engtitle: Narada Bhakti Sutras
+itxtitle: nAradabhaktisUtrANi
+title: नारदभक्तिसूत्राणि
 
-+++
+---
   
  नारदभक्तिसूत्राणि   
   
@@ -76,8 +76,8 @@ title = "नारदभक्तिसूत्राणि"
 तरङ्गायिता अपीमे सङ्गात् समुद्रायन्ते । ४५ - ३.१२  
 कस्तरति कस्तरति मायाम् यः सङ्गं त्यजति यो महानुभावं सेवते निर्ममो भवति । ४६ - ३.१३  
 यो विविक्तस्थानं सेवते यो लोकबन्धमुन्मूलयति निस्त्रैगुण्यो भवति योगक्षेमं त्यजति । ४७ - ३.१४  
-यः कर्मफलं त्यजति कर्माणि संन्यस्स्यति ततो निर्द्वन्द्वो भवति । ४८ - ३.१५  
-यो वेदानपि संन्यस्यति केवलमविच्छिन्नानुरागं लभते । ४९ - ३.१६  
+यः कर्मफलं त्यजति कर्माणि सन्न्यस्स्यति ततो निर्द्वन्द्वो भवति । ४८ - ३.१५  
+यो वेदानपि सन्न्यस्यति केवलमविच्छिन्नानुरागं लभते । ४९ - ३.१६  
 स तरति स तरति स लोकांस्तारयति । ५० - ३.१७  
   
           चतुर्थोऽध्यायः  

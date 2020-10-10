@@ -1,23 +1,23 @@
-+++
-"Text title" = "vedAntapararAmAyaNam"
-"File name" = "vedAntapararAmAyaNamVS.itx"
-itxtitle = "vedAntapararAmAyaNam (vAsudevAnandasarasvatIvirachitam)"
-engtitle = "vedAntapararAmAyaNam"
-Category = "raama, vAsudevAnanda-sarasvatI, vedanta"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "vAsudevAnandasarasvatI TembesvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "From stotrAdisangraha"
-Indexextra = "(stotrAdisangraha, Author)"
-"Latest update" = "December 31, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदान्तपररामायणम् (वासुदेवानन्दसरस्वतीविरचितम्)"
+---
+Author: vAsudevAnandasarasvatI TembesvAmi
+Category: raama, vAsudevAnanda-sarasvatI, vedanta
+Description-comments: From stotrAdisangraha
+File name: vedAntapararAmAyaNamVS.itx
+Indexextra: (stotrAdisangraha, Author)
+Language: Sanskrit
+Latest update: December 31, 2018
+Location: doc_raama
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: vedAntapararAmAyaNam
+engtitle: vedAntapararAmAyaNam
+itxtitle: vedAntapararAmAyaNam (vAsudevAnandasarasvatIvirachitam)
+title: वेदान्तपररामायणम् (वासुदेवानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  वेदान्तपररामायणं   
 दशेन्द्रियरथो देही राजा दशरथः स्मृतः ।  

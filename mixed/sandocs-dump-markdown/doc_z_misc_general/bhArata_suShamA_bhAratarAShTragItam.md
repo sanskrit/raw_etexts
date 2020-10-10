@@ -1,24 +1,25 @@
-+++
-"Text title" = "Bharata Sushama"
-"File name" = "bhAratasuShamA.itx"
-itxtitle = "bhArata suShamA (bhAratarAShTragItam)"
-engtitle = "bhArata suShamA"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "rAmanAthapAThaka \"praNayi\""
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारत सुषमा (भारतराष्ट्रगीतम्)"
+---
+Author: rAmanAthapAThaka "praNayi"
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: bhAratasuShamA.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bharata Sushama
+Translated by: Mandar Mali
+engtitle: bhArata suShamA
+itxtitle: bhArata suShamA (bhAratarAShTragItam)
+title: भारत सुषमा (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  भारत सुषमा   
 जयति भारतवर्षदेशः  

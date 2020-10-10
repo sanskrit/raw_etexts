@@ -1,23 +1,23 @@
-+++
-"Text title" = "ekashloki"
-"File name" = "ekashloki.itx"
-itxtitle = "ekashlokI"
-engtitle = "Ekashloki"
-Category = "ekashlokI, stotra, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Texttype = "stotra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Translated by" = "Saroja Ramanujam sarojram18 at yahoo.com"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकश्लोकी"
+---
+Author: Shankaracharya
+Category: ekashlokI, stotra, shankarAchArya
+File name: ekashloki.itx
+Language: Sanskrit
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: shankara
+Text title: ekashloki
+Texttype: stotra
+Translated by: Saroja Ramanujam sarojram18 at yahoo.com
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Ekashloki
+itxtitle: ekashlokI
+title: एकश्लोकी
 
-+++
+---
   
  एकश्लोकी   
   

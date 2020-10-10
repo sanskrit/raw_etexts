@@ -1,22 +1,22 @@
-+++
-"Text title" = "siddhAntasAropaniShat"
-"File name" = "siddhAntasAropaniShat.itx"
-itxtitle = "siddhAntasAropaniShat (shaiva)"
-engtitle = "siddhAntasAropaniShat"
-Category = "upanishhat, shiva, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धान्तसारोपनिषत् (शैव)"
+---
+Category: upanishhat, shiva, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: siddhAntasAropaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: siddhAntasAropaniShat
+engtitle: siddhAntasAropaniShat
+itxtitle: siddhAntasAropaniShat (shaiva)
+title: सिद्धान्तसारोपनिषत् (शैव)
 
-+++
+---
   
  सिद्धान्तसारोपनिषत्   
 भद्रं कर्णेभिः-इति शान्तिः  

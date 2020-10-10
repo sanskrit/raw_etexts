@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrii durgaa chaaliisaa"
-"File name" = "durga40.itx"
-itxtitle = "durgA chAlIsA"
-engtitle = "Shri Durga Chalisa"
-Category = "chAlisA, devii, durgA, devI"
-Location = "doc_z_otherlang_hindi"
-Sublocation = "devii"
-Author = "Devidasa"
-Language = "Hindi"
-Subject = "religion/hinduism"
-"Transliterated by" = "N./A."
-"Proofread by" = "N./A."
-Description-comments = "Devotional hymn to Durga Devi"
-"Latest update" = "July 4, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गा चालीसा"
+---
+Author: Devidasa
+Category: chAlisA, devii, durgA, devI
+Description-comments: Devotional hymn to Durga Devi
+File name: durga40.itx
+Language: Hindi
+Latest update: July 4, 2012
+Location: doc_z_otherlang_hindi
+Proofread by: N./A.
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion/hinduism
+Sublocation: devii
+Text title: shrii durgaa chaaliisaa
+Transliterated by: N./A.
+engtitle: Shri Durga Chalisa
+itxtitle: durgA chAlIsA
+title: दुर्गा चालीसा
 
-+++
+---
   
  श्रीदुर्गा चालीसा   
                
@@ -25,7 +25,7 @@ title = "दुर्गा चालीसा"
   
 I bow to you O Goddess Durga, the bestower of all happiness! I bow to you O Goddess Amba! Who ends all miseries.   
   
-निरंकार है ज्योति तुम्हारी। तिहूँ लोक फैली उजियारी॥२॥  
+निरङ्कार है ज्योति तुम्हारी। तिहूँ लोक फैली उजियारी॥२॥  
   
 The radiance of your light is limitless and pervading and all the three realms (Earth, Heaven and the Nether World) are enlightened by thee.  
   
@@ -45,7 +45,7 @@ All the powers of the world repose in thee and it is you who provide food and mo
   
 Like the feeding mother Annapurna you nurture the whole universe and you are the one who appear like the timeless Bala Sundari (young girl of extreme beauty).  
   
-प्रलयकाल सब नाशन हारी। तुम गौरी शिवशंकर प्यारी॥७॥  
+प्रलयकाल सब नाशन हारी। तुम गौरी शिवशङ्कर प्यारी॥७॥  
   
 At the time of Dissolution it is you, O Mother, who destroys everything. You are the beloved consort of Lord Shiva, Gauri (Parvathi)  
   
@@ -65,7 +65,7 @@ O Mother Amba, it was you who appeared in the form of Narismha, sundering the pi
   
 Thus, you saved Prahlaad and Hiranyakashyap also went to Heaven as he was killed by your hands.  
   
-लक्ष्मी रूप धरो जग माहीं। श्री नारायण अंग समाहीं॥१२॥  
+लक्ष्मी रूप धरो जग माहीं। श्री नारायण अङ्ग समाहीं॥१२॥  
   
 In the form of Goddess Lakshmi, O Mother, you appear in this world and repose by the side of Shree-Narayan.  
   
@@ -73,11 +73,11 @@ In the form of Goddess Lakshmi, O Mother, you appear in this world and repose by
   
 Dwelling on the Sea of milk, O Goddess,with Lord Vishnu, please fulfil my desires.  
   
-हिंगलाज में तुम्हीं भवानी। महिमा अमित न जात बखानी॥१४॥  
+हिङ्गलाज में तुम्हीं भवानी। महिमा अमित न जात बखानी॥१४॥  
   
 O Bhavani, the famous goddess of Hingalaja is no one else but you yourself. Illimitable is your glory, defying description.  
   
-मातंगी अरु धूमावति माता। भुवनेश्वरी बगला सुख दाता॥१५॥  
+मातङ्गी अरु धूमावति माता। भुवनेश्वरी बगला सुख दाता॥१५॥  
   
 You are yourself Matangi and Dhoomavati Mata. It is you who appear as Bhuvenshwari and Bagalamukhi Devi to bestow happiness to all.  
   
@@ -85,7 +85,7 @@ You are yourself Matangi and Dhoomavati Mata. It is you who appear as Bhuvenshwa
   
 It is you, who redeem the world, appearing in the form of Shree Bhairavi, Tradevi and Chhinamasta Devi, and end its sorrows.  
   
-केहरि वाहन सोह भवानी। लांगुर वीर चलत अगवानी॥१७॥  
+केहरि वाहन सोह भवानी। लाङ्गुर वीर चलत अगवानी॥१७॥  
   
 Reposing Gracefully upon your vehicle of Lion. O Goddess Bhavani, youa re welcomed by the brave Langur (Lord Hanuman).  
   
@@ -97,11 +97,11 @@ When you appear in the form of Goddess Kali with sword in one hand and a cupel i
   
 Beholding you well-armed, with a Trident in your hand, the enemy’s heart aches with the sting of fear.   
   
-नगरकोट में तुम्हीं विराजत। तिहुँलोक में डंका बाजत॥२०॥  
+नगरकोट में तुम्हीं विराजत। तिहुँलोक में डङ्का बाजत॥२०॥  
   
 You also repose in the form of the Devi at Nagarkot in Kangara. Thus all the three realms shudder in the might of your glory.   
   
-शुम्भ निशुम्भ दानव तुम मारे। रक्तबीज शंखन संहारे॥२१॥  
+शुम्भ निशुम्भ दानव तुम मारे। रक्तबीज शङ्खन संहारे॥२१॥  
   
 You slayed the demons like Shumbhu and Nishumbhu and masacred the thousand forms of the dreaded demon Raktabeeja.   
   
@@ -137,11 +137,11 @@ He who meditates upon your form with concentration goes beyond the cycle of birt
   
 All the Yogis, Gods and Sages openly declare that without your favour one can’t establish communication with God.   
   
-शंकर आचारज तप कीनो। काम अरु क्रोध जीति सब लीनो॥३०॥  
+शङ्कर आचारज तप कीनो। काम अरु क्रोध जीति सब लीनो॥३०॥  
   
 Shankaracharya had performed once a special penance caled Acharaj and by the virtue of which he had subdued his anger and desire.   
   
-निशिदिन ध्यान धरो शंकर को। काहु काल नहिं सुमिरो तुमको॥३१॥  
+निशिदिन ध्यान धरो शङ्कर को। काहु काल नहिं सुमिरो तुमको॥३१॥  
   
 He ever worshipped Lord Shankar and never for a moment concentrated his mind on you.   
   
@@ -190,7 +190,7 @@ Deeming ‘Devidas’ to have sought your shelter, O Mother of the world, Bhavan
   
 नमो नमो दुर्गे सुख करनी । नमो नमो अम्बे दुःख हरनी ॥  
   
-निरंकार है ज्योति तुम्हारी । तिहूं लोक फैली उजियारी ॥  
+निरङ्कार है ज्योति तुम्हारी । तिहूं लोक फैली उजियारी ॥  
   
 शशि लिलाट मुख महा विशाला । नेत्र लाल भृकुटी विकराला ॥  
   
@@ -200,7 +200,7 @@ Deeming ‘Devidas’ to have sought your shelter, O Mother of the world, Bhavan
   
 अन्नपूरना हुई जग पाला । तुम ही आदि सुन्दरी बाला ॥  
   
-प्र्लयकाल सब नाशन हारी । तुम गौरी शिव शंकर प्यारी ॥  
+प्र्लयकाल सब नाशन हारी । तुम गौरी शिव शङ्कर प्यारी ॥  
   
 शिव योगी तुमरे गुण गावें । ब्रह्मा विष्णु तुम्हें नित ध्यावें ॥  
   
@@ -210,25 +210,25 @@ Deeming ‘Devidas’ to have sought your shelter, O Mother of the world, Bhavan
   
 रक्षा करि प्रहलाद बचायो । हिरणाकुश को स्वर्ग पठायो ॥  
   
-लक्ष्मी रूप धरा जग माहीं । श्री नारायण अंग समाही ॥  
+लक्ष्मी रूप धरा जग माहीं । श्री नारायण अङ्ग समाही ॥  
   
-क्षीरसिंधु में करत विलासा । दया सिन्धु दीजै मन आसा ॥  
+क्षीरसिन्धु में करत विलासा । दया सिन्धु दीजै मन आसा ॥  
   
-हिंगलाज में तुम्हीं भवानी । महिमा अमित न जात बखानी ॥  
+हिङ्गलाज में तुम्हीं भवानी । महिमा अमित न जात बखानी ॥  
   
-मातंगी अरु धूमावति माता । भुवनेश्वरी बगला सुखदाता ॥  
+मातङ्गी अरु धूमावति माता । भुवनेश्वरी बगला सुखदाता ॥  
   
 श्री भैरव तारा जग तारिणि । छिन्न भाल भव दुःख निवारिणि ॥  
   
-केहरी वाहन सोह भवानी । लांगुर वीर चलत अगवानी ॥  
+केहरी वाहन सोह भवानी । लाङ्गुर वीर चलत अगवानी ॥  
   
 कर में खप्पर खड्ग विराजे । जाको देख काल डर भाजे ॥  
   
 सोहे अस्त्र और त्रिशूला । जाते उठत शत्रु हिय शूला ॥  
   
-नगर कोटि में तुम्हीं विराजत । तिहूं लोक में डंका बाजत ॥  
+नगर कोटि में तुम्हीं विराजत । तिहूं लोक में डङ्का बाजत ॥  
   
-शुम्भ निशुम्भ दानव तुम मारे । रक्त बीज शंखन संहारे ॥  
+शुम्भ निशुम्भ दानव तुम मारे । रक्त बीज शङ्खन संहारे ॥  
   
 महिषासुर नृप अति अभिमानी । जेहि अध भार मही अकुलानी ॥  
   
@@ -246,9 +246,9 @@ Deeming ‘Devidas’ to have sought your shelter, O Mother of the world, Bhavan
   
 जोगी सुर मुनि कहत पुकारी । योग न हो बिन शक्ति तुम्हारी ॥  
   
-शंकर आचारज तप कीनो । काम अरु क्रोध जीति सब लीनो ॥  
+शङ्कर आचारज तप कीनो । काम अरु क्रोध जीति सब लीनो ॥  
   
-निशिदिन ध्यान धरो शंकर को । काहु काल नहिं सुमिरो तुमको ॥  
+निशिदिन ध्यान धरो शङ्कर को । काहु काल नहिं सुमिरो तुमको ॥  
   
 शक्ति रूप को मरम न पायो । शक्ति गई तब मन पछतायो ॥  
   
@@ -303,7 +303,7 @@ Deeming ‘Devidas’ to have sought your shelter, O Mother of the world, Bhavan
 आगम निगम बखानी तुम शिव पटरानी, बोलो जय अम्बे गौरी ॥  
   
 चौंसठ योगिन गावत नृत्य करत भैरों, मैया नृत्य करत भैरों  
-बाजत ताल मृदंग और बाजत डमरू, बोलो जय अम्बे गौरी ॥  
+बाजत ताल मृदङ्ग और बाजत डमरू, बोलो जय अम्बे गौरी ॥  
   
 तुम हो जग की माता तुम ही हो भर्ता, मैया तुम ही हो भर्ता  
 भक्तन की दुख हर्ता सुख सम्पति कर्ता, बोलो जय अम्बे गौरी ॥  
@@ -311,7 +311,7 @@ Deeming ‘Devidas’ to have sought your shelter, O Mother of the world, Bhavan
 भुजा चार अति शोभित वर मुद्रा धारी, मैया वर मुद्रा धारी  
 मन वाँछित फल पावत देवता नर नारी, बोलो जय अम्बे गौरी ॥  
   
-कंचन थाल विराजत अगर कपूर बाती, मैया अगर कपूर बाती  
+कञ्चन थाल विराजत अगर कपूर बाती, मैया अगर कपूर बाती  
 माल केतु में राजत कोटि रतन ज्योती, बोलो जय अम्बे गौरी ॥  
   
 मां अम्बे की आरती जो कोई नर गावे, मैया जो कोई नर गावे  

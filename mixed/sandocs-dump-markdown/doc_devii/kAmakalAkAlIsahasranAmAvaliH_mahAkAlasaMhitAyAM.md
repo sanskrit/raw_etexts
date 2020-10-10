@@ -1,25 +1,25 @@
-+++
-"Text title" = "kAmakalAkAlIsahasranAmAvaliH 1000 names"
-"File name" = "kAmakalAkAlIsahasranAmAvaliH.itx"
-itxtitle = "kAmakalAkAlIsahasranAmAvaliH (mahAkAlasaMhitAyAM)"
-engtitle = "kAmakalAkAlIsahasranAmAvaliH"
-Category = "sahasranAmAvalI, devii, dashamahAvidyA, devI, nAmAvalI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "See corresponding stotra"
-Source = "mahAkAlasaMhitA kAmakalA khaNDa dvAdashapaTala"
-Indexextra = "(Book, text)"
-"Latest update" = "July 12, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामकलाकालीसहस्रनामावलिः (महाकालसंहितायां)"
+---
+Category: sahasranAmAvalI, devii, dashamahAvidyA, devI, nAmAvalI
+Description-comments: See corresponding stotra
+File name: kAmakalAkAlIsahasranAmAvaliH.itx
+Indexextra: (Book, text)
+Language: Sanskrit
+Latest update: July 12, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: mahAkAlasaMhitA kAmakalA khaNDa dvAdashapaTala
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAmakalAkAlIsahasranAmAvaliH 1000 names
+Texttype: stotra
+engtitle: kAmakalAkAlIsahasranAmAvaliH
+itxtitle: kAmakalAkAlIsahasranAmAvaliH (mahAkAlasaMhitAyAM)
+title: कामकलाकालीसहस्रनामावलिः (महाकालसंहितायां)
 
-+++
+---
   
  श्रीकामकलाकालीसहस्रनामावलिः   
 ॐ अस्य कामकलाकालीसहस्रनामस्तोत्रस्य श्रीत्रिपुरघ्नऋषिः ।  

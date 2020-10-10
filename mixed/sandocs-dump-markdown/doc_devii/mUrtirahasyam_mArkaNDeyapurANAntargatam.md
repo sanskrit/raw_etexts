@@ -1,22 +1,23 @@
-+++
-"Text title" = "mUrtirahasyam"
-"File name" = "mUrtirahasyam.itx"
-itxtitle = "mUrtirahasyam (mArkaNDeyapurANAntargatam)"
-engtitle = "mUrtirahasyam"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-Source = "mArkaNDeyapurANe khilAMshe"
-"Latest update" = "February 20, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मूर्तिरहस्यम् (मार्कण्डेयपुराणान्तर्गतम्)"
+---
+Category: devii, devI
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: mUrtirahasyam.itx
+Language: Sanskrit
+Latest update: February 20, 2017
+Location: doc_devii
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: mArkaNDeyapurANe khilAMshe
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mUrtirahasyam
+engtitle: mUrtirahasyam
+itxtitle: mUrtirahasyam (mArkaNDeyapurANAntargatam)
+title: मूर्तिरहस्यम् (मार्कण्डेयपुराणान्तर्गतम्)
 
-+++
+---
   
  मूर्तिरहस्यम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "shyAmopaniShat"
-"File name" = "shyAmopaniShat.itx"
-itxtitle = "shyAmopaniShat (shAkta)"
-engtitle = "shyAmopaniShat"
-Category = "upanishhat, devii, devI, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्यामोपनिषत् (शाक्त)"
+---
+Category: upanishhat, devii, devI, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: shyAmopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: shyAmopaniShat
+engtitle: shyAmopaniShat
+itxtitle: shyAmopaniShat (shAkta)
+title: श्यामोपनिषत् (शाक्त)
 
-+++
+---
   
  श्यामोपनिषत्   
 ॐ क्रीं अथ हैनां ब्रह्मरन्ध्रे ब्रह्मस्वरूपिणीमाप्नोति सुभगां  

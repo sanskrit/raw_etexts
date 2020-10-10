@@ -1,24 +1,25 @@
-+++
-"Text title" = "shivAShTottarashata nAmAvaliH"
-"File name" = "shiva108.itx"
-itxtitle = "shivAShTottarashatanAmAvalI"
-engtitle = "shiva nAmAvali (108 names)"
-Category = "aShTottarashatanAmAvalI, shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sowmya Ramkumar"
-"Proofread by" = "Varun Mandawara vmandawara at yahoo.com, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Commentary)"
-"Latest update" = "May 10, 2009, January 11, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवाष्टोत्तरशतनामावली"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, shiva, nAmAvalI
+File name: shiva108.itx
+Indexextra: (Commentary)
+Language: Sanskrit
+Latest update: May 10, 2009, January 11, 2017
+Location: doc_shiva
+Proofread by: Varun Mandawara vmandawara at yahoo.com, PSA Easwaran psaeaswaran at
+  gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivAShTottarashata nAmAvaliH
+Texttype: nAmAvalI
+Transliterated by: Sowmya Ramkumar
+engtitle: shiva nAmAvali (108 names)
+itxtitle: shivAShTottarashatanAmAvalI
+title: शिवाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीशिवाष्टोत्तरशतनामावलिः   
   

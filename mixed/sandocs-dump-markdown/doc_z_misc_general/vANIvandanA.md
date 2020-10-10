@@ -1,24 +1,24 @@
-+++
-"Text title" = "Vanivandana"
-"File name" = "vANIvandanA.itx"
-itxtitle = "vANIvandanA"
-engtitle = "vANIvandanA"
-Category = "misc, sanskritgeet, sarasvatI, devI, devii"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jagadananda Jha"
-"Proofread by" = "Jagadananda Jha"
-Indexextra = "(Video,  Audio)"
-Acknowledge-Permission = "https://sanskritbhasi.blogspot.com"
-"Latest update" = "January 26, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाणीवन्दना"
+---
+Acknowledge-Permission: https://sanskritbhasi.blogspot.com
+Category: misc, sanskritgeet, sarasvatI, devI, devii
+File name: vANIvandanA.itx
+Indexextra: (Video,  Audio)
+Language: Sanskrit
+Latest update: January 26, 2020
+Location: doc_z_misc_general
+Proofread by: Jagadananda Jha
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Vanivandana
+Transliterated by: Jagadananda Jha
+engtitle: vANIvandanA
+itxtitle: vANIvandanA
+title: वाणीवन्दना
 
-+++
+---
   
  वाणीवन्दना   
 वीणानिनादिनि देवि मातः शारदे शुभदे शुभे  

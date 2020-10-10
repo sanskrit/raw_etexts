@@ -1,23 +1,23 @@
-+++
-"Text title" = "chAmuNDAstutiH"
-"File name" = "chAmuNDAstutiH.itx"
-itxtitle = "chAmuNDAstutiH (padmapurANAntargatA))"
-engtitle = "chAmuNDAstutiH"
-Category = "devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Padmapurana Srishtikhanda"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चामुण्डास्तुतिः (पद्मपुराणान्तर्गता))"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: devii, durgA, devI
+Description/comments: Padmapurana Srishtikhanda
+File name: chAmuNDAstutiH.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: chAmuNDAstutiH
+engtitle: chAmuNDAstutiH
+itxtitle: chAmuNDAstutiH (padmapurANAntargatA))
+title: चामुण्डास्तुतिः (पद्मपुराणान्तर्गता))
 
-+++
+---
   
  श्रीचामुण्डा स्तुतिः   
 जयस्व देवि चामुण्डे जय भूताऽपहारिणि ।  

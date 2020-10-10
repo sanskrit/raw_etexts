@@ -1,23 +1,23 @@
-+++
-"Text title" = "garuDAShTottarashatanAmAvaliH"
-"File name" = "garuDAShTottarashatanAmAvaliH.itx"
-itxtitle = "garuDAShTottarashatanAmAvaliH (brahmANDapurANAntargatA)"
-engtitle = "garuDAShTottarashatanAmAvaliH"
-Category = "vishhnu, aShTottarashatanAmAvalI, nAmAvalI, deities_misc"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गरुडाष्टोत्तरशतनामावलिः (ब्रह्माण्डपुराणान्तर्गता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, aShTottarashatanAmAvalI, nAmAvalI, deities_misc
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: garuDAShTottarashatanAmAvaliH.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: garuDAShTottarashatanAmAvaliH
+engtitle: garuDAShTottarashatanAmAvaliH
+itxtitle: garuDAShTottarashatanAmAvaliH (brahmANDapurANAntargatA)
+title: गरुडाष्टोत्तरशतनामावलिः (ब्रह्माण्डपुराणान्तर्गता)
 
-+++
+---
   
  श्रीगरुडाष्टोत्तरशतनामावलिः   
   

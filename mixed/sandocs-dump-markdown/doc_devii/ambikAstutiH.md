@@ -1,21 +1,21 @@
-+++
-"Text title" = "ambikAstutiH"
-"File name" = "ambikAstutiH.itx"
-itxtitle = "ambikAstutiH"
-engtitle = "ambikAstutiH"
-Category = "devii, devI, jaina"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अम्बिकास्तुतिः"
+---
+Category: devii, devI, jaina
+File name: ambikAstutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ambikAstutiH
+engtitle: ambikAstutiH
+itxtitle: ambikAstutiH
+title: अम्बिकास्तुतिः
 
-+++
+---
   
  अम्बिकास्तुतिः   
 ॐ महातीर्थरैवतगिरिमण्डने !  जैनमार्गस्थिते !  विघ्नभीखण्डने !  ।  

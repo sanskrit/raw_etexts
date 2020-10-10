@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmarakShA padmapurANAntargatam"
-"File name" = "rAmarakShApadmapurANa.itx"
-itxtitle = "rAmarakShAstotram (padmamahApurANAntargatam)"
-engtitle = "Shri RamarakSha Stotram from Padmapurana"
-Category = "raksha, raama, stotra, kavacha"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Madhavi U mupadrasta at gmail.com"
-"Proofread by" = "Madhavi U mupadrasta at gmail.com"
-Description-comments = "padmapurANa adhyAya 73"
-"Latest update" = "February 2, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामरक्षास्तोत्रम् (पद्ममहापुराणान्तर्गतम्)"
+---
+Category: raksha, raama, stotra, kavacha
+Description-comments: padmapurANa adhyAya 73
+File name: rAmarakShApadmapurANa.itx
+Language: Sanskrit
+Latest update: February 2, 2012
+Location: doc_raama
+Proofread by: Madhavi U mupadrasta at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmarakShA padmapurANAntargatam
+Texttype: stotra
+Transliterated by: Madhavi U mupadrasta at gmail.com
+engtitle: Shri RamarakSha Stotram from Padmapurana
+itxtitle: rAmarakShAstotram (padmamahApurANAntargatam)
+title: रामरक्षास्तोत्रम् (पद्ममहापुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीरामरक्षास्तोत्रम् पद्ममहापुराणान्तर्गतम्   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Lakshminrisimha SuprabhAtam"
-"File name" = "lakShmInRRisiMhasuprabhAtam.itx"
-itxtitle = "lakShmInRRisiMhasuprabhAtam"
-engtitle = "Laxmi Nrisimha Suprabhatam"
-Category = "vishhnu, dashAvatAra, suprabhAta"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu, NA, PSA Easwaran"
-"Description/comments" = "shodhagangA thesis about Nrisimha cult Appendix 1"
-Indexextra = "(thesis)"
-"Latest update" = "July 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनृसिंहसुप्रभातम्"
+---
+Category: vishhnu, dashAvatAra, suprabhAta
+Description/comments: shodhagangA thesis about Nrisimha cult Appendix 1
+File name: lakShmInRRisiMhasuprabhAtam.itx
+Indexextra: (thesis)
+Language: Sanskrit
+Latest update: July 13, 2018
+Location: doc_vishhnu
+Proofread by: Ganesh Kandu, NA, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Lakshminrisimha SuprabhAtam
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: Laxmi Nrisimha Suprabhatam
+itxtitle: lakShmInRRisiMhasuprabhAtam
+title: लक्ष्मीनृसिंहसुप्रभातम्
 
-+++
+---
   
  श्रीलक्ष्मीनृसिंहसुप्रभातम्   
 श्रीलक्ष्मीनृसिंहगायत्री  ।  

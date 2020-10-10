@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivagurustotram"
-"File name" = "shivagurustotram.itx"
-itxtitle = "shivagurustotram"
-engtitle = "shivagurustotram"
-Category = "shiva, gurudev"
-Location = "doc_shiva"
-Sublocation = "shiva"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Shri Chitrapura Stuti Manjari,3rd ed. 2008"
-Acknowledge-Permission = "Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/"
-"Latest update" = "March 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवगुरुस्तोत्रम्"
+---
+Acknowledge-Permission: Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/
+Category: shiva, gurudev
+File name: shivagurustotram.itx
+Language: Sanskrit
+Latest update: March 2, 2018
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri Chitrapura Stuti Manjari,3rd ed. 2008
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivagurustotram
+engtitle: shivagurustotram
+itxtitle: shivagurustotram
+title: शिवगुरुस्तोत्रम्
 
-+++
+---
   
  श्रीशिवगुरुस्तोत्रम्   
 संविद्रूपाय शान्ताय शम्भवे सर्वसाक्षिणे ।  

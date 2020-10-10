@@ -1,23 +1,23 @@
-+++
-"Text title" = "gAyatrIvandanA"
-"File name" = "gAyatrIvandanA.itx"
-itxtitle = "gAyatrIvandanA"
-engtitle = "gAyatrIvandanA"
-Category = "devii, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ramgopal Bhimavarapu bhimavarapu2014 at gmail.com"
-"Proofread by" = "Ramgopal Bhimavarapu bhimavarapu2014 at gmail.com"
-Source = "Gayatri Mahavigyan"
-"Latest update" = "May 29, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीवन्दना"
+---
+Category: devii, gAyatrI, devI
+File name: gAyatrIvandanA.itx
+Language: Sanskrit
+Latest update: May 29, 2015
+Location: doc_devii
+Proofread by: Ramgopal Bhimavarapu bhimavarapu2014 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Gayatri Mahavigyan
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrIvandanA
+Transliterated by: Ramgopal Bhimavarapu bhimavarapu2014 at gmail.com
+engtitle: gAyatrIvandanA
+itxtitle: gAyatrIvandanA
+title: गायत्रीवन्दना
 
-+++
+---
   
  गायत्री वन्दना   
 ॐकाररूपा त्रिपदा त्रयी च त्रिदेववन्द्या त्रिदिवाधिदेवी ।  

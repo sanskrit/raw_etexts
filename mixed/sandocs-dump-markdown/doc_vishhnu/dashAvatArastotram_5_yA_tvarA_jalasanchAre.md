@@ -1,24 +1,24 @@
-+++
-"Text title" = "dashAvatArastotram 5"
-"File name" = "dashAvatArastotram5.itx"
-itxtitle = "dashAvatArastotram 5 (yA tvarA jalasanchAre)"
-engtitle = "dashAvatArastotram 5"
-Category = "vishhnu, dashAvatAra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतारस्तोत्रम् ५ (या त्वरा जलसञ्चारे)"
+---
+Category: vishhnu, dashAvatAra, vishnu
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: dashAvatArastotram5.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dashAvatArastotram 5
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: dashAvatArastotram 5
+itxtitle: dashAvatArastotram 5 (yA tvarA jalasanchAre)
+title: दशावतारस्तोत्रम् ५ (या त्वरा जलसञ्चारे)
 
-+++
+---
   
  दशावतारस्तोत्रम् ५   
 या त्वरा जलसञ्चारे या त्वरा वेदरक्षणे ।  

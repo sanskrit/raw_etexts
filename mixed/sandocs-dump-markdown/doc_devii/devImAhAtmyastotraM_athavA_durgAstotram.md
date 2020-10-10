@@ -1,24 +1,24 @@
-+++
-"Text title" = "devImAhAtmyastotram"
-"File name" = "devImAhAtmyastotram.itx"
-itxtitle = "devImAhAtmyastotraM athavA durgAstotram"
-engtitle = "devImAhAtmyastotram"
-Category = "devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Author = "fileauthor"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-"Proofread by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-"Latest update" = "December 7, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीमाहात्म्यस्तोत्रं अथवा दुर्गास्तोत्रम्"
+---
+Author: fileauthor
+Category: devii, durgA, stotra, devI
+File name: devImAhAtmyastotram.itx
+Language: Sanskrit
+Latest update: December 7, 2013
+Location: doc_devii
+Proofread by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devImAhAtmyastotram
+Texttype: stotra
+Transliterated by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+engtitle: devImAhAtmyastotram
+itxtitle: devImAhAtmyastotraM athavA durgAstotram
+title: देवीमाहात्म्यस्तोत्रं अथवा दुर्गास्तोत्रम्
 
-+++
+---
   
  देवीमाहात्म्यस्तोत्रम् अथवा दुर्गास्तोत्रम्   
   

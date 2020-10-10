@@ -1,21 +1,21 @@
-+++
-"Text title" = "Bhadrachala Rama Mangalam"
-"File name" = "rAmachandrAyajanaka.itx"
-itxtitle = "bhadrAchalarAmamaNgalam (bhadragirirAmadAsavirachitam rAmachandrAya janaka)"
-engtitle = "rAmachandrAyajanaka"
-Category = "raama, mangala, AratI"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Bhadragiri Ramadasu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Videos 1, 2, 3, 4, post)"
-"Latest update" = "April 3, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भद्राचलराममण्गलम् (भद्रगिरिरामदासविरचितम् रामचन्द्राय जनक)"
+---
+Author: Bhadragiri Ramadasu
+Category: raama, mangala, AratI
+File name: rAmachandrAyajanaka.itx
+Indexextra: (Videos 1, 2, 3, 4, post)
+Language: Sanskrit
+Latest update: April 3, 2020
+Location: doc_raama
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Bhadrachala Rama Mangalam
+engtitle: rAmachandrAyajanaka
+itxtitle: bhadrAchalarAmamaNgalam (bhadragirirAmadAsavirachitam rAmachandrAya janaka)
+title: भद्राचलराममण्गलम् (भद्रगिरिरामदासविरचितम् रामचन्द्राय जनक)
 
-+++
+---
   
  भद्राचलराममङ्गलम्   
 रामचन्द्राय जनकराजजा मनोहराय  
@@ -24,7 +24,7 @@ title = "भद्राचलराममण्गलम् (भद्रगि
 कोसलेन्द्राय मन्दहासदासपोषणाय  var  कोसलेशाय  
 वासवादि विनुत सर्वदाय मङ्गलम् ॥ १॥  var  सत्वरद सत्वराय  
   
-चारुकुंकुमोपेतचन्दनादिचर्चिताय  var  चारु मेघरूपाय  
+चारुकुङ्कुमोपेतचन्दनादिचर्चिताय  var  चारु मेघरूपाय  
 हारकटकशोभिताय भूरिमङ्गलम् ॥ २॥  var  भानकटक  
   
 ललितरत्नकुण्डलाय तुलसीवनमालिकाय  

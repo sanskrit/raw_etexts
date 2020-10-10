@@ -1,26 +1,27 @@
-+++
-"Text title" = "reNukAstotram from stotrasamuccaya Aithal 1969"
-"File name" = "reNukAstotram.itx"
-itxtitle = "reNukAstotram"
-engtitle = "Hymn to Goddess Renuka"
-Category = "devii, reNukA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Texttype = "stotra"
-Author = "Vishnudas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com, Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-Description-comments = "reNukAstotram from stotrasamuccaya Aithal 1969"
-Indexextra = "(Stotrasamuchchaya)"
-"Latest update" = "June 22, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकास्तोत्रम्"
+---
+Author: Vishnudas
+Category: devii, reNukA, stotra, devI
+Description-comments: reNukAstotram from stotrasamuccaya Aithal 1969
+File name: reNukAstotram.itx
+Indexextra: (Stotrasamuchchaya)
+Language: Sanskrit
+Latest update: June 22, 2013
+Location: doc_devii
+Proofread by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAstotram from stotrasamuccaya Aithal 1969
+Texttype: stotra
+Transliterated by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com, Kaushal S. Kaloo
+  kaushalskaloo at gmail.com
+engtitle: Hymn to Goddess Renuka
+itxtitle: reNukAstotram
+title: रेणुकास्तोत्रम्
 
-+++
+---
   
  रेणुकास्तोत्रम्   
   

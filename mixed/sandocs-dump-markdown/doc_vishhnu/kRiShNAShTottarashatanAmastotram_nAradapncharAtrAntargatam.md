@@ -1,25 +1,25 @@
-+++
-"Text title" = "kRiShNAShTottarashatanAmastotram"
-"File name" = "krishna108a.itx"
-itxtitle = "kRiShNAShTottarashatanAmastotram (nAradapncharAtrAntargatam)"
-engtitle = "kRiShNAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "nAradapa.ncharAtra.  Also same from Brahmandapurana."
-"Latest update" = "October 16, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णाष्टोत्तरशतनामस्तोत्रम् (नारदप्ञ्चरात्रान्तर्गतम्)"
+---
+Author: Traditional
+Category: aShTottarashatanAma, vishhnu, krishna, stotra, vishnu
+Description-comments: nAradapa.ncharAtra.  Also same from Brahmandapurana.
+File name: krishna108a.itx
+Language: Sanskrit
+Latest update: October 16, 2019
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRiShNAShTottarashatanAmastotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: kRiShNAShTottarashatanAmastotram
+itxtitle: kRiShNAShTottarashatanAmastotram (nAradapncharAtrAntargatam)
+title: कृइष्णाष्टोत्तरशतनामस्तोत्रम् (नारदप्ञ्चरात्रान्तर्गतम्)
 
-+++
+---
   
  श्रीकृष्णाष्टोत्तरशतनामस्तोत्रम्   
   
@@ -50,7 +50,7 @@ title = "कृइष्णाष्टोत्तरशतनामस्त�
 उत्तालतालभेत्ता च तमालश्यामलाकृतिः ॥ ७॥  
   
 गोपगोपीश्वरो योगी सूर्यकोटिसमप्रभः ।  
-इलापतिः परंज्योतिर्यादवेन्द्रो यदूद्वहः ॥ ८॥  
+इलापतिः परञ्ज्योतिर्यादवेन्द्रो यदूद्वहः ॥ ८॥  
   
 वनमाली पीतवासाः पारिजातापहारकः ।  
 गोवर्धनाचलोद्धर्ता गोपालः सर्वपालकः ॥ ९॥  

@@ -1,32 +1,32 @@
-+++
-"Text title" = "sa.nkaShTanAshanaM sa.nkaTAShTakastotram"
-"File name" = "sankaShTanAshanaMsankaTAShTakaM.itx"
-itxtitle = "saNkaShTanAshanaM saNkaTAShTakastotram"
-engtitle = "sa.nkaShTanAshanaM sa.nkaTAShTakastotram"
-Category = "aShTaka, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "padmapurANa"
-"Latest update" = "July 04, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सण्कष्टनाशनं सण्कटाष्टकस्तोत्रम्"
+---
+Author: Traditional
+Category: aShTaka, devii, otherforms, devI
+Description-comments: padmapurANa
+File name: sankaShTanAshanaMsankaTAShTakaM.itx
+Language: Sanskrit
+Latest update: July 04, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sa.nkaShTanAshanaM sa.nkaTAShTakastotram
+Transliterated by: WebD
+engtitle: sa.nkaShTanAshanaM sa.nkaTAShTakastotram
+itxtitle: saNkaShTanAshanaM saNkaTAShTakastotram
+title: सण्कष्टनाशनं सण्कटाष्टकस्तोत्रम्
 
-+++
+---
   
- सङ्कष्टनाशनं संकटाष्टकस्तोत्रम्   
+ सङ्कष्टनाशनं सङ्कटाष्टकस्तोत्रम्   
   
 श्रीगणेशाय नमः ।  
 ध्यानम्  
 ध्यायेऽहं परमेश्वरीं दशभुजां नेत्रत्रयोद्भूषितां  
 सद्यः सङ्कटतारिणीं गुणमयीमारक्तवर्णां शुभाम् ।  
-अक्ष-स्रग्-जलपूर्णकुम्भ-कमलं शंखं गदा बिभ्रतीं  
+अक्ष-स्रग्-जलपूर्णकुम्भ-कमलं शङ्खं गदा बिभ्रतीं  
 त्रैशूलं डमरूश्च खड्ग-विधृतां चक्राभयाढ्यां पराम् ॥  
   
 ॐ नारद उवाच  
@@ -50,7 +50,7 @@ title = "सण्कष्टनाशनं सण्कटाष्टकस�
   
 युधिष्ठिर उवाच  
 सङ्कष्टं मे महत्प्राप्तमेतादृग्वदनं ततः ।  
-एतन्निवारणोपायं किंचिद्ब्रूहि मुने मम ॥ ७॥  
+एतन्निवारणोपायं किञ्चिद्ब्रूहि मुने मम ॥ ७॥  
   
 मार्कण्डेय उवाच  
 आनन्दकानने देवी सङ्कटा नाम विश्रुता ।  

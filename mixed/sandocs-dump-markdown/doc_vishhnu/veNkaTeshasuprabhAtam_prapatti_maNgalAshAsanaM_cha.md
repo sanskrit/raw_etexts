@@ -1,24 +1,24 @@
-+++
-"Text title" = "veNkaTeshasuprabhAtam"
-"File name" = "venkatsp.itx"
-itxtitle = "veNkaTeshasuprabhAtam prapatti maNgalAshAsanaM cha"
-engtitle = "veNkaTesha suprabhAtam"
-Category = "suprabhAta, vishhnu, venkateshwara, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Srinivas Sunder sunder at crystal.cirrus.com"
-"Proofread by" = "Srinivas Sunder, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Includes suprabhAtam prapatti maNgalAshAsanaM stotram"
-Indexextra = "(Meaning 1, 2)"
-"Latest update" = "January 27, 1995, January 11, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशसुप्रभातम् प्रपत्ति मण्गलाशासनं च"
+---
+Category: suprabhAta, vishhnu, venkateshwara, vishnu
+Description-comments: Includes suprabhAtam prapatti maNgalAshAsanaM stotram
+File name: venkatsp.itx
+Indexextra: (Meaning 1, 2)
+Language: Sanskrit
+Latest update: January 27, 1995, January 11, 2017
+Location: doc_vishhnu
+Proofread by: Srinivas Sunder, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veNkaTeshasuprabhAtam
+Transliterated by: Srinivas Sunder sunder at crystal.cirrus.com
+engtitle: veNkaTesha suprabhAtam
+itxtitle: veNkaTeshasuprabhAtam prapatti maNgalAshAsanaM cha
+title: वेण्कटेशसुप्रभातम् प्रपत्ति मण्गलाशासनं च
 
-+++
+---
   
  श्रीवेङ्कटेशसुप्रभातम्   
 सुप्रभातम् प्रपत्ति मङ्गलाशासनं स्तोत्रम् सहितम्  

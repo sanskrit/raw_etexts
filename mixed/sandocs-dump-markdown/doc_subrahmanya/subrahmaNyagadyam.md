@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrii subrahmaNyagadyaM"
-"File name" = "subragadya.itx"
-itxtitle = "subrahmaNyagadyam"
-engtitle = "subrahmaNyagadyam"
-Category = "gadyam, subrahmanya, stotra"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "October 7, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यगद्यम्"
+---
+Category: gadyam, subrahmanya, stotra
+File name: subragadya.itx
+Language: Sanskrit
+Latest update: October 7, 2005
+Location: doc_subrahmanya
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrii subrahmaNyagadyaM
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: subrahmaNyagadyam
+itxtitle: subrahmaNyagadyam
+title: सुब्रह्मण्यगद्यम्
 
-+++
+---
   
  श्रीसुब्रह्मण्यगद्यं   
   
@@ -30,7 +30,7 @@ title = "सुब्रह्मण्यगद्यम्"
 गिरिविदारिसायक, महादेवभागधेय,  
 विनतशोकनिवारण, विविधलोककारण, सुरवैरिकाल  
 पुरवैरिबाल, भवबन्धनविमोचन,  
-दळदंबुजविलोचन, करुणामृतरससागर,  
+दळदम्बुजविलोचन, करुणामृतरससागर,  
 तरुणामृतकरशेखर, वल्लीमानहारवेष  
 मल्लीमालभारिकेश, परिपालितविबुधलोक,  
 परिकालितविनतशोक, मुखविजितचन्दिर,  
@@ -38,7 +38,7 @@ title = "सुब्रह्मण्यगद्यम्"
 वितृमनोहारिमन्दहास, रिपुशिरोदारिचन्द्रहास,  
 श्रुतिकलितमणिकुण्डलरुचिविजित रविमण्डल,  
 भुजवरविजितसाल भजनपरमनुजपाल, न  
-  ववीरसंसेवित रणधीर संभावितमनोहरशील  
+  ववीरसंसेवित रणधीर सम्भावितमनोहरशील  
 महेन्द्रारिकील, कुसुमविशदहास कलशिखरनिवास,  
 विजितकरणमुनिसेवित विगतमरणजनिभाषित,  
 स्कन्दपुरनिवास नन्दनकृतविलास, कमलासनविनत  
@@ -53,7 +53,7 @@ title = "सुब्रह्मण्यगद्यम्"
 श्रुतिगम्यप्रभाव, लीलाविशेषतोषितशङ्कर,  
 सुमसमरदन शशधरवदन विजयीभव! विजयीभव!  
   
-॥ इति सुब्रह्मण्यगद्यं संपूर्णम् ॥  
+॥ इति सुब्रह्मण्यगद्यं सम्पूर्णम् ॥  
   
   
 Encoded and proofread by  

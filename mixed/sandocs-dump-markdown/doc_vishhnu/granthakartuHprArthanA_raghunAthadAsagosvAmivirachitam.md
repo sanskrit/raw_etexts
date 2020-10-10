@@ -1,25 +1,26 @@
-+++
-"Text title" = "granthakartuHprArthanA"
-"File name" = "granthakartuHprArthanA.itx"
-itxtitle = "granthakartuHprArthanA (raghunAthadAsagosvAmivirachitam)"
-engtitle = "granthakartuHprArthanA"
-Category = "vishhnu, krishna, raghunAthadAsagosvAmin, stavAvalI, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ग्रन्थकर्तुःप्रार्थना (रघुनाथदासगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: vishhnu, krishna, raghunAthadAsagosvAmin, stavAvalI, aShTaka
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: granthakartuHprArthanA.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: granthakartuHprArthanA
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: granthakartuHprArthanA
+itxtitle: granthakartuHprArthanA (raghunAthadAsagosvAmivirachitam)
+title: ग्रन्थकर्तुःप्रार्थना (रघुनाथदासगोस्वामिविरचितम्)
 
-+++
+---
   
  श्रीश्रीग्रन्थकर्तुः प्रार्थना   
 सुबलसखाधरपल्लव  

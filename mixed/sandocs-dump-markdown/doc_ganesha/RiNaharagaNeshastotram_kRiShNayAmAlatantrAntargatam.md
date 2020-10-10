@@ -1,22 +1,22 @@
-+++
-"Text title" = "RiNaharagaNeshastotra"
-"File name" = "RiNaharagaNeshastotra.itx"
-itxtitle = "RiNaharagaNeshastotram (kRiShNayAmAlatantrAntargatam)"
-engtitle = "RiNaharagaNeshastotram"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at sify.com"
-"Proofread by" = "N.Balasubramanian bbalu at sify.com, KSR"
-Description-comments = "Krishnayamala"
-"Latest update" = "September 12, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ऋइणहरगणेशस्तोत्रम् (कृइष्णयामालतन्त्रान्तर्गतम्)"
+---
+Category: ganesha
+Description-comments: Krishnayamala
+File name: RiNaharagaNeshastotra.itx
+Language: Sanskrit
+Latest update: September 12, 2012
+Location: doc_ganesha
+Proofread by: N.Balasubramanian bbalu at sify.com, KSR
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: RiNaharagaNeshastotra
+Transliterated by: N.Balasubramanian bbalu at sify.com
+engtitle: RiNaharagaNeshastotram
+itxtitle: RiNaharagaNeshastotram (kRiShNayAmAlatantrAntargatam)
+title: ऋइणहरगणेशस्तोत्रम् (कृइष्णयामालतन्त्रान्तर्गतम्)
 
-+++
+---
   
  ऋणहरगणेशस्तोत्रम्   
   

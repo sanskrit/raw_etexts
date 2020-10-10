@@ -1,23 +1,23 @@
-+++
-"Text title" = "ShoDashI Hridayam"
-"File name" = "ShoDashIhRidaya.itx"
-itxtitle = "ShoDashIhRidayam athavA lalitAtripurasundarIhridayastotram"
-engtitle = "ShoDashIhRidayam"
-Category = "hRidaya, devii, dashamahAvidyA, devI, lalitA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay"
-Indexextra = "(Scan)"
-"Latest update" = "June 13, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षोडशीहृइदयम् अथवा ललितात्रिपुरसुन्दरीह्रिदयस्तोत्रम्"
+---
+Category: hRidaya, devii, dashamahAvidyA, devI, lalitA
+File name: ShoDashIhRidaya.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 13, 2020
+Location: doc_devii
+Proofread by: Gopal Upadhyay
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ShoDashI Hridayam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: ShoDashIhRidayam
+itxtitle: ShoDashIhRidayam athavA lalitAtripurasundarIhridayastotram
+title: षोडशीहृइदयम् अथवा ललितात्रिपुरसुन्दरीह्रिदयस्तोत्रम्
 
-+++
+---
   
  श्रीषोडशीहृदयम् अथवा श्रीललितात्रिपुरसुन्दरीह्रिदयस्तोत्रम्   
   

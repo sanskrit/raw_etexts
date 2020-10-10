@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrIhariprAtaHsmaraNam"
-"File name" = "shrIhariprAtaHsmaraNam.itx"
-itxtitle = "shrIhariprAtaHsmaraNam"
-engtitle = "Shrihari Pratahsmarana"
-Category = "suprabhAta, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail"
-"Latest update" = "April 2, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीहरिप्रातःस्मरणम्"
+---
+Category: suprabhAta, vishhnu, vishnu
+File name: shrIhariprAtaHsmaraNam.itx
+Language: Sanskrit
+Latest update: April 2, 2016
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi sunderh at hotmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIhariprAtaHsmaraNam
+Transliterated by: Sunder Hattangadi sunderh at hotmail
+engtitle: Shrihari Pratahsmarana
+itxtitle: shrIhariprAtaHsmaraNam
+title: श्रीहरिप्रातःस्मरणम्
 
-+++
+---
   
  श्रीहरिप्रातःस्मरणम्   
   

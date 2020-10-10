@@ -1,23 +1,23 @@
-+++
-"Text title" = "hariharaputraaSTottarashatanaama stotraM"
-"File name" = "hariharaputra108stotra.itx"
-itxtitle = "hariharaputrAShTottarashatanAmastotram"
-engtitle = "hariharaputrAShTottarashatanAma stotram"
-Category = "aShTottarashatanAma, deities_misc, ayyappa, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 17, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिहरपुत्राष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, deities_misc, ayyappa, stotra
+File name: hariharaputra108stotra.itx
+Language: Sanskrit
+Latest update: April 17, 2006
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: hariharaputraaSTottarashatanaama stotraM
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: hariharaputrAShTottarashatanAma stotram
+itxtitle: hariharaputrAShTottarashatanAmastotram
+title: हरिहरपुत्राष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीहरिहरपुत्राष्टोत्तरशतनामस्तोत्रम्   
   

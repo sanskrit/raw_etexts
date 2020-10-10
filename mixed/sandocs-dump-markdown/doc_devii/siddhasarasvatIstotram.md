@@ -1,23 +1,23 @@
-+++
-"Text title" = "siddhasarasvatIstotram"
-"File name" = "siddhasarasvatIstotram.itx"
-itxtitle = "siddhasarasvatIstotram"
-engtitle = "Siddhasarasvatistotram"
-Category = "devii, sarasvatI, maheshvarAnandasarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "svAmi shrImaheshvarAnanda sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sanjay Khandelwal ksanjay209 at yahoo.co.in"
-"Proofread by" = "Sanjay Khandelwal, NA"
-"Latest update" = "November 1, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धसरस्वतीस्तोत्रम्"
+---
+Author: svAmi shrImaheshvarAnanda sarasvatI
+Category: devii, sarasvatI, maheshvarAnandasarasvatI, devI
+File name: siddhasarasvatIstotram.itx
+Language: Sanskrit
+Latest update: November 1, 2016
+Location: doc_devii
+Proofread by: Sanjay Khandelwal, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: siddhasarasvatIstotram
+Transliterated by: Sanjay Khandelwal ksanjay209 at yahoo.co.in
+engtitle: Siddhasarasvatistotram
+itxtitle: siddhasarasvatIstotram
+title: सिद्धसरस्वतीस्तोत्रम्
 
-+++
+---
   
  सिद्धसरस्वतीस्तोत्रम्   
    
@@ -78,7 +78,7 @@ title = "सिद्धसरस्वतीस्तोत्रम्"
   
 काशीपीठाधीश्वरजगद्गुरु शङ्कराचार्य स्वामि  
 श्रीमहेश्वरानन्द सरस्वती विरचित यह सिद्धसरस्वतीस्तोत्र  
-अत्यन्त महत्वपूर्ण है । उन्होंने इस स्तोत्र के प्रत्येक श्लोक  
+अत्यन्त महत्वपूर्ण है । उन्होन्ने इस स्तोत्र के प्रत्येक श्लोक  
 में माता सरस्वती का वर्णन करते हुए उनकी महिमाओं का वर्णन  
 किया है । जो प्राणी मन्दिर में इस स्तोत्र का जप या पाठ करता  
 है उसे बुद्धि एवं वैभव की प्राप्ति होती है, सूर्यग्रहण के  

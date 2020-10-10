@@ -1,23 +1,23 @@
-+++
-"Text title" = "viShNusahasranAmAvaliH 2"
-"File name" = "viShNusahasranAmAvaliH2.itx"
-itxtitle = "viShNusahasranAmAvaliH 2 (padmapurANAntargatam)"
-engtitle = "viShNusahasranAmAvaliH 2"
-Category = "vishhnu, sahasranAmAvalI, nAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुसहस्रनामावलिः २ (पद्मपुराणान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, sahasranAmAvalI, nAmAvalI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viShNusahasranAmAvaliH2.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNusahasranAmAvaliH 2
+engtitle: viShNusahasranAmAvaliH 2
+itxtitle: viShNusahasranAmAvaliH 2 (padmapurANAntargatam)
+title: विष्णुसहस्रनामावलिः २ (पद्मपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णुसहस्रनामावलिः २   
   

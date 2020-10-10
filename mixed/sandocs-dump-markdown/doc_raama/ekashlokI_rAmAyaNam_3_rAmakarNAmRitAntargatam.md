@@ -1,22 +1,22 @@
-+++
-"Text title" = "ekashloki rAmAyaNam 3"
-"File name" = "ekashlokiraama3.itx"
-itxtitle = "ekashlokI rAmAyaNam 3 (rAmakarNAmRitAntargatam)"
-engtitle = "ekashloki rAmAyaNam 3"
-Category = "ekashlokI, raama, stotra"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Ramakrnamritam verse 54 of chaturtha AshvAsaH"
-"Latest update" = "October 5, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकश्लोकी रामायणम् ३ (रामकर्णामृइतान्तर्गतम्)"
+---
+Author: Traditional
+Category: ekashlokI, raama, stotra
+Description-comments: Ramakrnamritam verse 54 of chaturtha AshvAsaH
+File name: ekashlokiraama3.itx
+Language: Sanskrit
+Latest update: October 5, 2017
+Location: doc_raama
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: ekashloki rAmAyaNam 3
+Texttype: stotra
+engtitle: ekashloki rAmAyaNam 3
+itxtitle: ekashlokI rAmAyaNam 3 (rAmakarNAmRitAntargatam)
+title: एकश्लोकी रामायणम् ३ (रामकर्णामृइतान्तर्गतम्)
 
-+++
+---
   
  एकश्लोकि रामायणम् ३   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Subrahmanya Kavacham 3"
-"File name" = "subrahmaNyakavacham3.itx"
-itxtitle = "subrahmaNyakavacham 3 (skandapurANAntargatam)"
-engtitle = "subrahmaNyakavacham 3"
-Category = "subrahmanya, kavacha"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Sri Subrahmanya Stuti Manjari pages 114-124 (PDF pages 133-143)"
-Source = "Skandapurana"
-Indexextra = "(Scan)"
-"Latest update" = "February 15, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यकवचम् ३ (स्कन्दपुराणान्तर्गतम्)"
+---
+Category: subrahmanya, kavacha
+Description-comments: Sri Subrahmanya Stuti Manjari pages 114-124 (PDF pages 133-143)
+File name: subrahmaNyakavacham3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 15, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Skandapurana
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Shri Subrahmanya Kavacham 3
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: subrahmaNyakavacham 3
+itxtitle: subrahmaNyakavacham 3 (skandapurANAntargatam)
+title: सुब्रह्मण्यकवचम् ३ (स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीसुब्रह्मण्यकवचम् ३   
 ॐ श्रीगणेशाय नमः ।  
@@ -190,7 +190,7 @@ title = "सुब्रह्मण्यकवचम् ३ (स्कन्�
 ते सर्वे गुणसम्पन्नाः सन्तु सौम्यास्तदाज्ञया ।  
 ये पक्षिणो महाक्रूराः उरगाः क्रूरदृष्टयः ॥ ४५॥  
   
-उलूकाः काकसङ्घाश्च श्येनाः कङ्कादिसंज्ञकाः ।  
+उलूकाः काकसङ्घाश्च श्येनाः कङ्कादिसञ्ज्ञकाः ।  
 शुकाश्च सारिकाश्चैव गृध्राः कङ्का भयानकाः ॥ ४६॥  
   
 ते सर्वे स्कन्ददेवस्य खड्गजालेन खण्डिताः ।  
@@ -214,8 +214,8 @@ title = "सुब्रह्मण्यकवचम् ३ (स्कन्�
 अपस्मारग्रहा ये च रक्तमांसभुजो हि ये ।  
 गन्धर्वाप्सरसः सिद्धा ये च देवस्य योनयः ॥ ५३॥  
   
-ये च प्रेताः क्षेत्रपालाः ये विनायकसंज्ञकाः ।  
-महामेषा महाव्याघ्रा महातुरगसंज्ञकाः ॥ ५४॥  
+ये च प्रेताः क्षेत्रपालाः ये विनायकसञ्ज्ञकाः ।  
+महामेषा महाव्याघ्रा महातुरगसञ्ज्ञकाः ॥ ५४॥  
   
 महागोवृषसिंहाद्याः सैन्धवा ये महागजाः ।  
 वानराः शुनका ये च वराहा वनचारिणः ॥ ५५॥  

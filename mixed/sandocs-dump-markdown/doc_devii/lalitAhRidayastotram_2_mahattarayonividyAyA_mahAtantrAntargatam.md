@@ -1,24 +1,24 @@
-+++
-"Text title" = "lalitAhRRidayastotram 2"
-"File name" = "lalitAhRRidayastotram2.itx"
-itxtitle = "lalitAhRidayastotram 2 (mahattarayonividyAyA mahAtantrAntargatam)"
-engtitle = "lalitAhRRidayastotram 2"
-Category = "hRidaya, devii, dashamahAvidyA, lalitA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "RamaPrakasha ramaprakashak at gmail.com"
-"Proofread by" = "RamaPrakasha ramaprakashak at gmail.com"
-"Description/comments" = "Shri Vidya Stava Manjari - Kulbhushan Pandit Ramadutta Shukla"
-Indexextra = "(Scan)"
-"Latest update" = "December 26, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललिताहृइदयस्तोत्रम् २ (महत्तरयोनिविद्याया महातन्त्रान्तर्गतम्)"
+---
+Category: hRidaya, devii, dashamahAvidyA, lalitA, devI
+Description/comments: Shri Vidya Stava Manjari - Kulbhushan Pandit Ramadutta Shukla
+File name: lalitAhRRidayastotram2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 26, 2018
+Location: doc_devii
+Proofread by: RamaPrakasha ramaprakashak at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitAhRRidayastotram 2
+Transliterated by: RamaPrakasha ramaprakashak at gmail.com
+engtitle: lalitAhRRidayastotram 2
+itxtitle: lalitAhRidayastotram 2 (mahattarayonividyAyA mahAtantrAntargatam)
+title: ललिताहृइदयस्तोत्रम् २ (महत्तरयोनिविद्याया महातन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीललिताहृदयस्तोत्रम् २   
 ॥ पूर्व-पीठिका ॥  
@@ -42,7 +42,7 @@ title = "ललिताहृइदयस्तोत्रम् २ (मह�
 मूल-प्रकृति-व्यक्तादि-कला-शोधन-कारकम् ॥ ५॥  
   
 विमर्श-रूपकं चैव विद्या-शक्ति-षडङ्गकम् ।  
-षडध्व-मार्ग-पीठस्थं सौर-शाक्तादि-संज्ञकम् ॥ ६॥  
+षडध्व-मार्ग-पीठस्थं सौर-शाक्तादि-सञ्ज्ञकम् ॥ ६॥  
   
 अभेद-भेद-नाशं च सर्व-वाग्-वृत्ति-दायकम् ।  
 तत्त्व-चक्र-मयं तत्त्व-बिन्दु-नाद-कलान्वितम् ॥ ७॥  

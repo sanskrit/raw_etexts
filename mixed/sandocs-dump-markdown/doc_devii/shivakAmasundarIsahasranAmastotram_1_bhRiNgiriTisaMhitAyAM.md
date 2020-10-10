@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrI shivakAmasundarI sahasranAmastotra 1"
-"File name" = "shivakAmasundarIsahasranAmastotra.itx"
-itxtitle = "shivakAmasundarIsahasranAmastotram 1 (bhRiNgiriTisaMhitAyAM)"
-engtitle = "shivakAmasundarIsahasranAmastotra 1"
-Category = "sahasranAma, devii, stotra, devI, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Description-comments = "From bhRiNgiriTisaMhitAyAM"
-Indexextra = "(Scan)"
-"Latest update" = "August 23, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवकामसुन्दरीसहस्रनामस्तोत्रम् १ (भृइण्गिरिटिसंहितायां)"
+---
+Category: sahasranAma, devii, stotra, devI, pArvatI
+Description-comments: From bhRiNgiriTisaMhitAyAM
+File name: shivakAmasundarIsahasranAmastotra.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 23, 2015
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrI shivakAmasundarI sahasranAmastotra 1
+Texttype: stotra
+engtitle: shivakAmasundarIsahasranAmastotra 1
+itxtitle: shivakAmasundarIsahasranAmastotram 1 (bhRiNgiriTisaMhitAyAM)
+title: शिवकामसुन्दरीसहस्रनामस्तोत्रम् १ (भृइण्गिरिटिसंहितायां)
 
-+++
+---
   
  श्रीशिवकामसुन्दरीसहस्रनामस्तोत्रम्   
  ॥ पूर्वपीठिका ॥  

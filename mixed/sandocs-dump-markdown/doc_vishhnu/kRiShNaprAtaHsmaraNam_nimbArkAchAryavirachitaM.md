@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRRiShNaprAtaHsmaraNam"
-"File name" = "kRRiShNaprAtaHsmaraNam.itx"
-itxtitle = "kRiShNaprAtaHsmaraNam (nimbArkAchAryavirachitaM)"
-engtitle = "kRRiShNaprAtaHsmaraNam"
-Category = "vishhnu, krishna, suprabhAta"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णप्रातःस्मरणम् (निम्बार्काचार्यविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, krishna, suprabhAta
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: kRRiShNaprAtaHsmaraNam.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNaprAtaHsmaraNam
+engtitle: kRRiShNaprAtaHsmaraNam
+itxtitle: kRiShNaprAtaHsmaraNam (nimbArkAchAryavirachitaM)
+title: कृइष्णप्रातःस्मरणम् (निम्बार्काचार्यविरचितं)
 
-+++
+---
   
  श्रीकृष्णप्रातःस्मरणम्   
   

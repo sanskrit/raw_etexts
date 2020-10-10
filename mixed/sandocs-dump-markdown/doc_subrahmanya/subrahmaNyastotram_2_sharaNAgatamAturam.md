@@ -1,21 +1,22 @@
-+++
-"Text title" = "subrahmaNyastotram 2"
-"File name" = "subrahmaNyastotram2.itx"
-itxtitle = "subrahmaNyastotram 2 (sharaNAgatamAturam)"
-engtitle = "subrahmaNyastotram 2"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "February 20, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यस्तोत्रम् २ (शरणागतमातुरम्)"
+---
+Category: subrahmanya
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: subrahmaNyastotram2.itx
+Language: Sanskrit
+Latest update: February 20, 2017
+Location: doc_subrahmanya
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyastotram 2
+engtitle: subrahmaNyastotram 2
+itxtitle: subrahmaNyastotram 2 (sharaNAgatamAturam)
+title: सुब्रह्मण्यस्तोत्रम् २ (शरणागतमातुरम्)
 
-+++
+---
   
  सुब्रह्मण्यस्तोत्रम् २   
 ॥ सुब्रह्मण्यस्तोत्रम् २ ॥  

@@ -1,24 +1,25 @@
-+++
-"Text title" = "vasiShThagItA"
-"File name" = "vasishthagiitaa.itx"
-itxtitle = "vasiShThagItA"
-engtitle = "VasiShTha gItA"
-Category = "gItA, giitaa, vAlmIki"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "Valmiki Maharamayana Yoga Vasishtha"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Sunder Hattangadi"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com), PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Vasishtha@s dialogue with Rama"
-Indexextra = "(scanned (Yogavasishtha, Nirvana Prakarana, Uttarardha chapters 39-40))"
-"Latest update" = "March 9, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वसिष्ठगीता"
+---
+Author: Valmiki Maharamayana Yoga Vasishtha
+Category: gItA, giitaa, vAlmIki
+Description-comments: Vasishtha@s dialogue with Rama
+File name: vasishthagiitaa.itx
+Indexextra: (scanned (Yogavasishtha, Nirvana Prakarana, Uttarardha chapters 39-40))
+Language: Sanskrit
+Latest update: March 9, 2013
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com), PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: vasiShThagItA
+Transliterated by: Sunder Hattangadi
+engtitle: VasiShTha gItA
+itxtitle: vasiShThagItA
+title: वसिष्ठगीता
 
-+++
+---
   
  वसिष्ठ गीता   
   
@@ -77,7 +78,7 @@ title = "वसिष्ठगीता"
 भ्रान्तिस्त्वसन्मात्रमयी प्रेक्षिता चेन्न लभ्यते ।  
 शुक्तिरूप्यमिवासत्यं किल सम्प्राप्यते कथम् ॥ १७॥  
   
-यन्न लब्धं च तन्नास्ति तेन भ्रान्तेरसंभवः ।  
+यन्न लब्धं च तन्नास्ति तेन भ्रान्तेरसम्भवः ।  
 स्वभावादुपलम्भोऽन्यो नास्ति कस्य न कस्यचित् ॥ १८॥  
   
 स्वभाव एव सर्वस्मै स्वदते किल सर्वदा ।  
@@ -87,7 +88,7 @@ title = "वसिष्ठगीता"
 इति बुद्ध्या विचार्यान्तर्यदिष्टं तद्विधीयताम् ॥ २०॥  
   
 सूक्ष्मे बीजेऽस्त्यगः स्थूलो दृष्टमित्युपपद्यते ।  
-शिवे मूर्ते जगन्मूर्तमस्तीत्युत्तमसंकथा ॥ २१॥  
+शिवे मूर्ते जगन्मूर्तमस्तीत्युत्तमसङ्कथा ॥ २१॥  
   
 रूपालोकमनस्कारबुद्ध्यहन्तादयः परे ।  
 स्वरूपभूताः सलिले द्रवत्वमिव खात्मकाः ॥ २२॥  
@@ -126,10 +127,10 @@ title = "वसिष्ठगीता"
 न धनान्युपकुर्वन्ति न मित्राणि न च क्रियाः ॥ ३३॥  
   
 तैलबिन्दुर्भवत्युच्चैश्चक्रमप्पतितो यथा ।  
-तथाशु चेत्यसंकल्पे स्थिता भवति चिज्जगत् ॥ ३४॥  
+तथाशु चेत्यसङ्कल्पे स्थिता भवति चिज्जगत् ॥ ३४॥  
   
 जाग्रति स्वप्नवृत्तान्तस्थितिर्यादृग्रसा स्मृतौ ।  
-तादृग्रसाहंत्वजगज्जालसंस्था विवेकिनः ॥ ३५॥  
+तादृग्रसाहन्त्वजगज्जालसंस्था विवेकिनः ॥ ३५॥  
   
 तेनैवाभ्यासयोगेन याति तत्तनुतां तथा ।  
 यथा नाहं न संसारः शान्तमेवावशिष्यते ॥ ३६॥  
@@ -174,7 +175,7 @@ title = "वसिष्ठगीता"
 पश्यामि शान्तमेवाहं केवलं परमं नभः ॥ ७॥  
   
 ब्रह्मण्येव पराकाशे रूपालोकमनोमयाः ।  
-विभ्रमास्तव संजातकल्पाः स्पन्दा इवानिले ॥ ८॥  
+विभ्रमास्तव सञ्जातकल्पाः स्पन्दा इवानिले ॥ ८॥  
   
 ब्रह्मात्मा वेत्ति नो सर्गं सर्गात्मा ब्रह्म वेत्ति नो ।  
 सुषुप्तो वेत्ति नो स्वप्नं स्वप्नस्थो न सुषुप्तकम् ॥ ९॥  
@@ -185,8 +186,8 @@ title = "वसिष्ठगीता"
 यथाभूतमिदं सर्वं परिजानाति बोधवान् ।  
 संशाम्यति च शुद्धात्मा शरदीव पयोधरः ॥ ११॥  
   
-स्मृतिस्थः कल्पनस्थो वा यथाख्यातश्च संगरः ।  
-सदसद्भ्रान्ततामात्रस्तथाहंत्वजगद्भ्रमः ॥ १२॥  
+स्मृतिस्थः कल्पनस्थो वा यथाख्यातश्च सङ्गरः ।  
+सदसद्भ्रान्ततामात्रस्तथाहन्त्वजगद्भ्रमः ॥ १२॥  
   
 आत्मन्यपि नास्ति हि या  
        द्रष्टा यस्या न विद्यते कश्चित् ।  

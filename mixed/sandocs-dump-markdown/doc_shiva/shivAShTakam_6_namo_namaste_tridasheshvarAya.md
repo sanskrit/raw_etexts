@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shivashtakam 6"
-"File name" = "shivAShTakam6.itx"
-itxtitle = "shivAShTakam 6 (namo namaste tridasheshvarAya)"
-engtitle = "Shivashtakam 6"
-Category = "shiva, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Murari Gupta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "From the book Krishna Chaitanya Charita"
-Indexextra = "(Meaning)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवाष्टकम् ६ (नमो नमस्ते त्रिदशेश्वराय)"
+---
+Author: Murari Gupta
+Category: shiva, aShTaka
+Description/comments: From the book Krishna Chaitanya Charita
+File name: shivAShTakam6.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shivashtakam 6
+engtitle: Shivashtakam 6
+itxtitle: shivAShTakam 6 (namo namaste tridasheshvarAya)
+title: शिवाष्टकम् ६ (नमो नमस्ते त्रिदशेश्वराय)
 
-+++
+---
   
  शिवाष्टकम् ६   
 नमो नमस्ते त्रिदशेश्वराय  

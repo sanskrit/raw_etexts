@@ -1,24 +1,24 @@
-+++
-"Text title" = "Matangi Hridayam"
-"File name" = "mAtangIhRidayam.itx"
-itxtitle = "mAtaNgIhRidayam (dakShiNAmUrtisaMhitAyAM)"
-engtitle = "Matangi Hridayam"
-Category = "hRidaya, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, NA"
-Description-comments = "Mantramaharnava madhyakhanda Matangitantra Dvadashataanga"
-Source = "Dakshinamurtisamhita"
-"Latest update" = "August 4, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातण्गीहृइदयम् (दक्षिणामूर्तिसंहितायां)"
+---
+Category: hRidaya, devii, dashamahAvidyA, devI
+Description-comments: Mantramaharnava madhyakhanda Matangitantra Dvadashataanga
+File name: mAtangIhRidayam.itx
+Language: Sanskrit
+Latest update: August 4, 2016
+Location: doc_devii
+Proofread by: Gopal Upadhyay, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Dakshinamurtisamhita
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Matangi Hridayam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: Matangi Hridayam
+itxtitle: mAtaNgIhRidayam (dakShiNAmUrtisaMhitAyAM)
+title: मातण्गीहृइदयम् (दक्षिणामूर्तिसंहितायां)
 
-+++
+---
   
  श्रीमातङ्गीहृदयम्   
   
@@ -42,7 +42,7 @@ title = "मातण्गीहृइदयम् (दक्षिणामू
 कथयिष्यामि तत्सर्वं सुखसम्पत्करं शुभम् ॥ ४॥   
 पठतां शृण्वतां नित्यं सर्वसम्पत्तिदायकम् ।   
 विद्यैश्वर्यसुखावाप्तिमङ्गलप्रदमुत्तमम् ॥ ५॥   
-मातंग्या हृदयं स्तोत्र दुःखदारिद्र्यभञ्जनम् ।   
+मातङ्ग्या हृदयं स्तोत्र दुःखदारिद्र्यभञ्जनम् ।   
 मङ्गलं मङ्गलानां च ह्यस्ति सर्वसुखप्रदम् ॥ ६॥   
 ॥ विनियोगः ॥   
 ॐ अस्य श्रीमातङ्गीहृदयस्तोत्रमन्त्रस्य दक्षिणामूर्तिरृषिः ।  
@@ -77,20 +77,20 @@ title = "मातण्गीहृइदयम् (दक्षिणामू
 ॥ अथ ध्यानम् ॥  
   
 ॐ श्यामां शुभ्रांशुभालां त्रिकमलनयनां रत्नसिंहासनस्थां   
-भक्ताभीष्टप्रदात्रीं सुरनिकरकरासेव्यकञ्जांघ्रियुग्माम् ।   
+भक्ताभीष्टप्रदात्रीं सुरनिकरकरासेव्यकञ्जाङ्घ्रियुग्माम् ।   
 नीलाम्भोजांशुकान्तिं निशिचरनिकरारण्यदावाग्निरूपां  
 पाशं खड्गं चतुर्भिर्वरकमलकरैः खेटकं चाङ्कुशं च   
 (मातङ्गीमावहन्तीमभिमतफलदां मोदिनीं चिन्तयामि ) ॥ ७॥   
 ॥ इति ध्यानम् ॥  
   
-नमस्ते मातंग्यै मृदुमुदिततन्वै तनुमतां  
+नमस्ते मातङ्ग्यै मृदुमुदिततन्वै तनुमतां  
 परश्रेयोदायै कमलचरणध्यानमनसाम् ।   
 सदा संसेव्यायै सदसि विबुधैर्दिव्यधिषणै-  
 र्दयार्द्रायै देव्यै दुरितदलनोद्दण्डमनसे ॥ ८॥   
 परं मातस्ते यो जपति मनुमव्यग्रहृदयः  
 कवित्वं कल्पानां कलयति सुकल्पः प्रतिपदम् ।   
 अपि प्रायो रम्यामृतमयपदा तस्य ललिता  
-नटींमन्या वाणी नटति रसनायां चपलिता ॥ ९॥   
+नटीम्मन्या वाणी नटति रसनायां चपलिता ॥ ९॥   
 तव ध्यायन्तो ये वपुरनुजपन्ति प्रवलितं  
 सदा मन्त्रं मातर्नहि भवति तेषां परिभवः ।   
 कदम्बानां मालाः शिरसि तव युञ्जन्ति सदये  
@@ -108,7 +108,7 @@ title = "मातण्गीहृइदयम् (दक्षिणामू
 मुखाम्भोजं मातस्तव परिलुठद्भ्रूमधुकरं  
 रमा ये ध्यायन्ति त्यजति न हि तेषां सुभवनम् ॥ १३॥   
   
-परः श्रीमातंग्या जयति हृदयाख्यः सुमनसाम्-  
+परः श्रीमातङ्ग्या जयति हृदयाख्यः सुमनसाम्-  
 अयं सेव्यः सुद्योऽभिमतफलदश्वातिललितः ।   
 नरा ये शृण्वन्ति स्तवमपि पठन्तीममनिशं  
 न तेषां दुःप्राप्यं जगति यदलभ्यं दिविषदाम् ॥ १४॥   

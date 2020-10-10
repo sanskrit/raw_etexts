@@ -3,7 +3,6 @@ title: 036 उमामाहत्यम्
 title_english: 036 Legend of Uma and her curse
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-036-Uma_Mahathyam.mp3"></div>
 
 उक्तवाक्ये मुनौ तस्मिन्नुभौ राघवलक्ष्मणौ।  
@@ -21,7 +20,7 @@ title_english: 036 Legend of Uma and her curse
 
 पुरा राम कृतोद्वाहो नीलकण्ठो महातपाः।  
 दृष्ट्वा च स्पृहया देवीं मैथुनायोपचक्रमे ॥ 1.36.6 ॥   
-(तस्य संक्रीडमानस्य महादेवस्य धीमतः ।  
+(तस्य सङ्क्रीडमानस्य महादेवस्य धीमतः ।  
 शितिकण्ठस्य देवस्य दिव्यं वर्ष शतङ् गतम् ॥ १-३६-६)  
 [एवं मन्मथयुद्धे तु तयोर्नासीत्पराजयः ॥  
 न चापि तनयो राम तस्यामासीत्परन्तप ॥ 1.36.7 ॥]   

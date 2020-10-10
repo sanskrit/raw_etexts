@@ -1,6 +1,3 @@
-+++
-
-+++
 atharvrapAtifANyama9 athAto nyAyAdhyayanasya pArSadaM vartayiSyAmaH Dha
 padAnAM saMhitAM vidyAta9 Da padavidhiriti Tha dvirudAtt?M
 bqhaspatyA-da7nAma9 Ta ?rapatyaxcAM dvahu ?upottme kha ava5rmadhya AkAra

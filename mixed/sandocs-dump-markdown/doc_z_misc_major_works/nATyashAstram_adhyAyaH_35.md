@@ -1,23 +1,23 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 35"
-"File name" = "natya35.itx"
-itxtitle = "nATyashAstram adhyAyaH 35"
-engtitle = "Natya Shastra Chapter 35"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture/Dance/Drama"
-"Transliterated by" = "hareshbakshi at hotmail.com"
-"Proofread by" = "hareshbakshi at hotmail.com"
-"Latest update" = "March 4, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः ३५"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya35.itx
+Language: Sanskrit
+Latest update: March 4, 2003
+Location: doc_z_misc_major_works
+Proofread by: hareshbakshi at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture/Dance/Drama
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 35
+Texttype: pramukha
+Transliterated by: hareshbakshi at hotmail.com
+engtitle: Natya Shastra Chapter 35
+itxtitle: nATyashAstram adhyAyaH 35
+title: नाट्यशास्त्रम् अध्यायः ३५
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः ३५   
   

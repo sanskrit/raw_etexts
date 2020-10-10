@@ -1,22 +1,22 @@
-+++
-"Text title" = "kumAryaShTottarashatanAmAvalI"
-"File name" = "kumAryaShTottarashatanAmAvalI.itx"
-itxtitle = "kumAryaShTottarashatanAmAvalI"
-engtitle = "kumAryaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda"
-"Proofread by" = "R. Harshananda"
-Indexextra = "(navadurgApUjA)"
-"Latest update" = "February 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमार्यष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI
+File name: kumAryaShTottarashatanAmAvalI.itx
+Indexextra: (navadurgApUjA)
+Language: Sanskrit
+Latest update: February 17, 2018
+Location: doc_devii
+Proofread by: R. Harshananda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kumAryaShTottarashatanAmAvalI
+Transliterated by: R. Harshananda
+engtitle: kumAryaShTottarashatanAmAvalI
+itxtitle: kumAryaShTottarashatanAmAvalI
+title: कुमार्यष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीकुमार्यष्टोत्तरशतनामावली   
   
@@ -119,7 +119,7 @@ title = "कुमार्यष्टोत्तरशतनामावल�
 ॐ एकारायै नमः ।  
 ॐ हुङ्कारायै नमः ।  
 ॐ बीजरूपयै नमः ।  
-ॐ क्लींकारायै नमः ।  
+ॐ क्लीङ्कारायै नमः ।  
 ॐ अम्बरधारिण्यै नमः ।  
 ॐ सर्वाक्षरमयाशक्त्यै नमः ।  
 ॐ राक्षसार्णवमालिन्यै नमः । ९०  

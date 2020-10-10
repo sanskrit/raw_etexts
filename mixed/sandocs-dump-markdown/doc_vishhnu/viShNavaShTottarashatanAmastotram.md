@@ -1,21 +1,21 @@
-+++
-"Text title" = "viShNavaShTottarashatanAmastotram"
-"File name" = "viShNavaShTottarashatanAmastotram.itx"
-itxtitle = "viShNavaShTottarashatanAmastotram"
-engtitle = "viShNavaShTottarashatanAmastotram"
-Category = "vishhnu, aShTottarashatanAma"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णवष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: vishhnu, aShTottarashatanAma
+File name: viShNavaShTottarashatanAmastotram.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNavaShTottarashatanAmastotram
+engtitle: viShNavaShTottarashatanAmastotram
+itxtitle: viShNavaShTottarashatanAmastotram
+title: विष्णवष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीविष्णवष्टोत्तरशतनामस्तोत्रम्   
   

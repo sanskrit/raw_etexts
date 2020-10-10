@@ -1,23 +1,23 @@
-+++
-"Text title" = "pUrvAchAryavandanA"
-"File name" = "pUrvAchAryavandanA.itx"
-itxtitle = "pUrvAchAryavandanA"
-engtitle = "pUrvAchAryavandanA"
-Category = "deities_misc, gurudev, rAmAnujasampradAya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पूर्वाचार्यवन्दना"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: deities_misc, gurudev, rAmAnujasampradAya
+File name: pUrvAchAryavandanA.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: pUrvAchAryavandanA
+engtitle: pUrvAchAryavandanA
+itxtitle: pUrvAchAryavandanA
+title: पूर्वाचार्यवन्दना
 
-+++
+---
   
  पूर्वाचार्यवन्दना   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "bRRihaspatimangalastotram"
-"File name" = "bRRihaspatimangalastotram.itx"
-itxtitle = "bRihaspatimaNgalastotram"
-engtitle = "bRRihaspatimangalastotram"
-Category = "navagraha, mangala"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बृइहस्पतिमण्गलस्तोत्रम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: navagraha, mangala
+File name: bRRihaspatimangalastotram.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: bRRihaspatimangalastotram
+engtitle: bRRihaspatimangalastotram
+itxtitle: bRihaspatimaNgalastotram
+title: बृइहस्पतिमण्गलस्तोत्रम्
 
-+++
+---
   
  बृहस्पतिमङ्गलस्तोत्रम्   
   

@@ -1,26 +1,27 @@
-+++
-"Text title" = "Ganesha Ashtakam 6"
-"File name" = "gaNeshAShTakamApaTIkara.itx"
-itxtitle = "gaNeshAShTakam 6 (ApaTIkaravirachitA avidyAnihantre)"
-engtitle = "gaNeshAShTakam"
-Category = "ganesha, ApaTIkara"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "ma sa ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशाष्टकम् ६ (आपटीकरविरचिता अविद्यानिहन्त्रे)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma sa ApaTIkara
+Category: ganesha, ApaTIkara
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: gaNeshAShTakamApaTIkara.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_ganesha
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha Ashtakam 6
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: gaNeshAShTakam
+itxtitle: gaNeshAShTakam 6 (ApaTIkaravirachitA avidyAnihantre)
+title: गणेशाष्टकम् ६ (आपटीकरविरचिता अविद्यानिहन्त्रे)
 
-+++
+---
   
  श्रीगणेशाष्टकम्   
     (भुजङ्गप्रयातम्)  

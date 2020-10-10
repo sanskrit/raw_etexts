@@ -1,21 +1,21 @@
-+++
-"Text title" = "Vasavi Kanyaka Parameshvari Shodasha Nama Stotra 16 names"
-"File name" = "vAsavIkanyakAparameshvarIShoDashanAmastotram.itx"
-itxtitle = "vAsavIkanyakAparameshvarIShoDashanAmastotram"
-engtitle = "vAsavIkanyakAparameshvarIShoDashanAmastotram"
-Category = "devii, ShoDasha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Bala Umamaheshwari, PSA Easwaran"
-"Description/comments" = "See corresponding nAmAvaliH"
-"Latest update" = "June 1, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकापरमेश्वरीषोडशनामस्तोत्रम्"
+---
+Category: devii, ShoDasha, devI
+Description/comments: See corresponding nAmAvaliH
+File name: vAsavIkanyakAparameshvarIShoDashanAmastotram.itx
+Language: Sanskrit
+Latest update: June 1, 2019
+Location: doc_devii
+Proofread by: Bala Umamaheshwari, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vasavi Kanyaka Parameshvari Shodasha Nama Stotra 16 names
+engtitle: vAsavIkanyakAparameshvarIShoDashanAmastotram
+itxtitle: vAsavIkanyakAparameshvarIShoDashanAmastotram
+title: वासवीकन्यकापरमेश्वरीषोडशनामस्तोत्रम्
 
-+++
+---
   
  श्रीवासवीकन्यकापरमेश्वरी षोडशनामस्तोत्रम्   
 श्रीगणेशाय नमः ।  

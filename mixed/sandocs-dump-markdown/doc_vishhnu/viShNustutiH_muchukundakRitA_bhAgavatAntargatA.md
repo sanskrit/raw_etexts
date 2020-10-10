@@ -1,23 +1,23 @@
-+++
-"Text title" = "viShNustutiHmuchukunda"
-"File name" = "viShNustutiHmuchukunda.itx"
-itxtitle = "viShNustutiH (muchukundakRitA bhAgavatAntargatA)"
-engtitle = "viShNustutiHmuchukunda"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तुतिः (मुचुकुन्दकृइता भागवतान्तर्गता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viShNustutiHmuchukunda.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNustutiHmuchukunda
+engtitle: viShNustutiHmuchukunda
+itxtitle: viShNustutiH (muchukundakRitA bhAgavatAntargatA)
+title: विष्णुस्तुतिः (मुचुकुन्दकृइता भागवतान्तर्गता)
 
-+++
+---
   
  श्रीविष्णुस्तुतिः (मुचुकुन्दकृता)   
   
@@ -47,9 +47,9 @@ title = "विष्णुस्तुतिः (मुचुकुन्दक
      क्षुल्लेलिहानोऽहिरिवाखुमन्तकः ॥ ५॥  
   
 पुरा रथैर्हेमपरिष्कृतैश्चरन्  
-     मतङ्गजैर्वा नरदेवसंज्ञितः ।  
+     मतङ्गजैर्वा नरदेवसञ्ज्ञितः ।  
 स एव कालेन दुरत्ययेन ते  
-     कलेवरो विट्कृमिभस्मसंज्ञितः ॥ ६॥  
+     कलेवरो विट्कृमिभस्मसञ्ज्ञितः ॥ ६॥  
   
 निर्जित्य दिक्चक्रमभूतविग्रहो  
      वरासनस्थः समराजवन्दितः ।  

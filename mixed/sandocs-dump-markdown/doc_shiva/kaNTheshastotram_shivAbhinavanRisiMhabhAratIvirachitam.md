@@ -1,23 +1,24 @@
-+++
-"Text title" = "shrIkaNTheshastotram"
-"File name" = "kaNTheshastotram.itx"
-itxtitle = "kaNTheshastotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "shrIkaNTheshastotram"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 7, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कण्ठेशस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: kaNTheshastotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 7, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shrIkaNTheshastotram
+engtitle: shrIkaNTheshastotram
+itxtitle: kaNTheshastotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: कण्ठेशस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीकण्ठेशस्तोत्रम्   
 (श्रीगरलपुर आर्द्रोत्सवे)  

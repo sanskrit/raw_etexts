@@ -3,7 +3,6 @@ title: 061 शुनःशेफकथा
 title_english: 061 Legend of shunashshepa
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-061-Shunaha_Shesha_Katha.mp3"></div>
 
 विश्वामित्रो महात्माथ प्रस्थितान् प्रेक्ष्य तानृषीन्।  

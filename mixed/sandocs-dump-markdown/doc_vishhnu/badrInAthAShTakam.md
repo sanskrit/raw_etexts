@@ -1,22 +1,22 @@
-+++
-"Text title" = "badrInAthAShTakam"
-"File name" = "badrInAthAShTakam.itx"
-itxtitle = "badrInAthAShTakam"
-engtitle = "badrInAthAShTakam"
-Category = "vishhnu, krishna, rAmAnujasampradAya, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बद्रीनाथाष्टकम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: vishhnu, krishna, rAmAnujasampradAya, aShTaka
+File name: badrInAthAShTakam.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: badrInAthAShTakam
+engtitle: badrInAthAShTakam
+itxtitle: badrInAthAShTakam
+title: बद्रीनाथाष्टकम्
 
-+++
+---
   
  श्रीबद्रीनाथाष्टकम्   
   

@@ -3,7 +3,6 @@ title: 061 Monkeys took halt at Madhuvana
 title_english: 061 Monkeys took halt at Madhuvana
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-061-Monkeys_took_halt_at_Madhuvana.mp3"></div>
 
 ततो जाम्बवतो वाक्यम् अगृह्णन्त वन ओकसः ।  

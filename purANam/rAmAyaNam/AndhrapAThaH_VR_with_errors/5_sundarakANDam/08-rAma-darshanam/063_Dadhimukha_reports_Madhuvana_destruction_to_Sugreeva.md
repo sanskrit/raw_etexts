@@ -3,7 +3,6 @@ title: 063 Dadhimukha reports Madhuvana destruction to Sugreeva
 title_english: 063 Dadhimukha reports Madhuvana destruction to Sugreeva
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-063-Dadhimukha_reports_Madhuvana_destruction_to_Sugreeva.mp3"></div>
 
 ततो मूर्ध्ना निपतितम् वानरम् वानर ऋषभः ।  
@@ -39,7 +38,7 @@ title_english: 063 Dadhimukha reports Madhuvana destruction to Sugreeva
 आगतैश्च प्रमथितम् यथा मधुवनम् हि तैः ।  
 धर्षितं च वनम् कृत्स्नमुपयुक्तम् च वानरैः ॥ ५-६३-१६  
 वनम् यथा अभिपन्नम् तैः साधितम् कर्म वानरैः ।  
-दृष्टा देवी न संदेहो न च अन्येन हनूमता ॥ ५-६३-१७  
+दृष्टा देवी न सन्देहो न च अन्येन हनूमता ॥ ५-६३-१७  
 न हि अन्यः साधने हेतुः कर्मणो अस्य हनूमतः ।  
 कार्य सिद्धिः हनुमति मतिः च हरि पुम्गव ॥ ५-६३-१८  
 व्यवसायः च वीर्यम् च श्रुतम् च अपि प्रतिष्ठितम् ।  

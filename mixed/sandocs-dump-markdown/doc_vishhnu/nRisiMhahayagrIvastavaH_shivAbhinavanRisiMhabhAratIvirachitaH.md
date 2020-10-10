@@ -1,25 +1,25 @@
-+++
-"Text title" = "nRRisiMhahayagrIvastavaH"
-"File name" = "nRRisiMhahayagrIvastavaH.itx"
-itxtitle = "nRisiMhahayagrIvastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "nRRisiMhahayagrIvastavaH"
-Category = "vishhnu, dashAvatAra, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहहयग्रीवस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+Category: vishhnu, dashAvatAra, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: nRRisiMhahayagrIvastavaH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nRRisiMhahayagrIvastavaH
+engtitle: nRRisiMhahayagrIvastavaH
+itxtitle: nRisiMhahayagrIvastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: नृइसिंहहयग्रीवस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीनृसिंहहयग्रीवस्तवः   
   

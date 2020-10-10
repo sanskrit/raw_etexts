@@ -1,26 +1,26 @@
-+++
-"Text title" = "Indrarachitam sarasvatIstotram"
-"File name" = "sarasvatIstotraIndrarachitam.itx"
-itxtitle = "sarasvatIstotram (indrakRitam)"
-engtitle = "SarasvatI Stotram by Indra"
-Category = "devii, sarasvatI, stotra, vyAsa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "stotra"
-Author = "Indra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Usha Rani Sanka usharani.sanka at gmail.com"
-"Proofread by" = "Usha Rani Sanka usharani.sanka at gmail.com"
-Description-comments = "From a Telugu stotra book sarasvatIvaibhavam"
-Indexextra = "(Indra)"
-"Latest update" = "September 30, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तोत्रम् (इन्द्रकृइतम्)"
+---
+Author: Indra
+Category: devii, sarasvatI, stotra, vyAsa, devI
+Description-comments: From a Telugu stotra book sarasvatIvaibhavam
+File name: sarasvatIstotraIndrarachitam.itx
+Indexextra: (Indra)
+Language: Sanskrit
+Latest update: September 30, 2014
+Location: doc_devii
+Proofread by: Usha Rani Sanka usharani.sanka at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Indrarachitam sarasvatIstotram
+Texttype: stotra
+Transliterated by: Usha Rani Sanka usharani.sanka at gmail.com
+engtitle: SarasvatI Stotram by Indra
+itxtitle: sarasvatIstotram (indrakRitam)
+title: सरस्वतीस्तोत्रम् (इन्द्रकृइतम्)
 
-+++
+---
   
  श्रीसरस्वतीस्तोत्रं इन्द्रकृतम्   
   

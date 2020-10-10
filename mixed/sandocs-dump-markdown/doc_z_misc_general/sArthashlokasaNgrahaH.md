@@ -1,24 +1,26 @@
-+++
-"Text title" = "shloka sa.ngraha (commonly recited shlokas)"
-"File name" = "allshlokawmean.itx"
-itxtitle = "sArthashlokasaNgrahaH"
-engtitle = "Collection of Commonly Recited Shlokas with Meanings"
-Category = "misc, shloka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "shloka"
-Author = "Various"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Help by C. V. Mahalingam, Sowmya  Ramkumar, Himanshu Pota, Avinash Sathaye, Sunder Hattangadi, S. V. Ganesan"
-Description-comments = "Collection.  Send shlokas/prayers commonly recited"
-Indexextra = "(main set (well prepared booklets 1, 2, 3, 4, 5, 6, 7, 10) shloka collection in devanAgarI + meanings)"
-"Latest update" = "October 1, 2010, April 8, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सार्थश्लोकसण्ग्रहः"
+---
+Author: Various
+Category: misc, shloka
+Description-comments: Collection.  Send shlokas/prayers commonly recited
+File name: allshlokawmean.itx
+Indexextra: (main set (well prepared booklets 1, 2, 3, 4, 5, 6, 7, 10) shloka collection
+  in devanAgarI + meanings)
+Language: Sanskrit
+Latest update: October 1, 2010, April 8, 2016
+Location: doc_z_misc_general
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: shloka sa.ngraha (commonly recited shlokas)
+Texttype: shloka
+Transliterated by: Help by C. V. Mahalingam, Sowmya  Ramkumar, Himanshu Pota, Avinash
+  Sathaye, Sunder Hattangadi, S. V. Ganesan
+engtitle: Collection of Commonly Recited Shlokas with Meanings
+itxtitle: sArthashlokasaNgrahaH
+title: सार्थश्लोकसण्ग्रहः
 
-+++
+---
   
  सार्थश्लोकसङ्ग्रह   
   
@@ -154,7 +156,7 @@ Shloka 5 Ganesha
   
     
    गजाननं भूतगणादिसेवितं  
-   कपित्थजंबूफलसारभक्षितम् ।  
+   कपित्थजम्बूफलसारभक्षितम् ।  
    उमासुतं शोकविनाशकारणं  
    नमामि विघ्नेश्वरपादपङ्कजम् ॥ ॥   
   
@@ -172,7 +174,7 @@ lotus..
 भूतगणादि = by the group of ogres and the like who are the  
 attendants of Lord shiva;  
 सेवितं = the one who has been served worshipped;  
-कपित्थजंबू = wood-apple and `jAmun', rose apple, trees or fruits;  
+कपित्थजम्बू = wood-apple and `jAmun', rose apple, trees or fruits;  
 फलसार = the essence of the fruit;  
 भक्षितं = that which has been eaten;  
 उमासुतं = the son of Uma;  
@@ -184,11 +186,11 @@ attendants of Lord shiva;
 Shloka 6 Ganesha  
   
     
-   सुमुखश्चैकदंतश्च कपिलो गजकर्णकः ।  
+   सुमुखश्चैकदन्तश्च कपिलो गजकर्णकः ।  
    लम्बोदरश्च विकटो विघ्ननाशो गणाधिपः ।  
    धूम्रकेतुर्गणाध्यक्षो भालचन्द्रो गजाननः ।  
    द्वादशैतानि नामानि यः पठेच्छृणुयादपि ।  
-   विद्यारंभे विवाहे च प्रवेशे निर्गमे तथा ।  
+   विद्यारम्भे विवाहे च प्रवेशे निर्गमे तथा ।  
    सङ्ग्रामे सङ्कटे चैव विघ्नस्तस्य न जायते ॥ ॥   
   
  Meaning 6  
@@ -205,7 +207,7 @@ anything, during a battle or calamity..
    
 सुमुखः = the one with a nice face;  
 च = and;  
-एकदंतः = one who has one tooth or tusk;  
+एकदन्तः = one who has one tooth or tusk;  
 च = and;  
 कपिलो = a sage by that name;  
 गजकर्णकः = one who is having elephant-ears denotes 'Ganesh'  
@@ -222,7 +224,7 @@ one of 12 such famous names;
 नामानि = names;  
 यः = He who;  
 पठेच्छृणुयादपि = If one reads or even listens to;  
-विद्यारंभे = at the commencement of learning or schooling;  
+विद्यारम्भे = at the commencement of learning or schooling;  
 विवाहे = during marriage;  
 च = and;  
 प्रवेशे = while entering;  
@@ -358,8 +360,8 @@ the lord `Ganesh';
 Shloka 12 Ganesha  
   
     
-   एकदंतं महाकायं तप्तकाञ्चनसन्निभम् ।  
-   लंबोदरं विशालाक्षं वन्देऽहं गणनायकम् ॥ ॥   
+   एकदन्तं महाकायं तप्तकाञ्चनसन्निभम् ।  
+   लम्बोदरं विशालाक्षं वन्देऽहं गणनायकम् ॥ ॥   
   
  Meaning 12  
 I bow down to one tusked, huge-bodied, big-bellied, large-eyed Lord  
@@ -368,10 +370,10 @@ Ganesha whose complexion is like that of molten gold..
  %E12  Word Meanings 12;  
   
    
-एकदंतं = one who has one tooth tusk;  
+एकदन्तं = one who has one tooth tusk;  
 महाकायं = the big-bodied one;  
 तप्तकाञ्चनसन्निभं = resembling heated or melted gold;  
-लंबोदरं = ?? ;  
+लम्बोदरं = ?? ;  
 विशालाक्षं = the one with long eyes;  
 वन्देऽहं = I worship;  
 गणनायकं = the leader of the gaNa's groups; generally denotes  
@@ -466,8 +468,8 @@ or text;
 Shloka 16 Ganesh  
   
     
-   एकदंताय विद्महे । वक्रतुँडाय धीमहि ।  
-   तन्नो दंती प्रचोदयात् ॥ ॥   
+   एकदन्ताय विद्महे । वक्रतुँडाय धीमहि ।  
+   तन्नो दन्ती प्रचोदयात् ॥ ॥   
   
  Meaning 16  
 (This is a typical Vedic dialog where puzzles are posed and solved.  
@@ -481,12 +483,12 @@ us (to the ultimate truth).
  %E16  Word Meanings 16;  
   
    
-एकदंताय = to the one-tusked i.e. Ganesh;  
+एकदन्ताय = to the one-tusked i.e. Ganesh;  
 विद्महे = offering;  
 वक्रतुँडाय = to the one with curved broken part (tusk);  
 धीमहि = May meditate;  
 तन्नो = ?? ;  
-दंती = the tusked one i.e. the elephant;  
+दन्ती = the tusked one i.e. the elephant;  
 प्रचोदयात् = inspire; kindle; urge; induce;;    
 Shloka 17 Guru  
   
@@ -524,8 +526,8 @@ is fem.nom.; also an honourable prefix;
 Shloka 18 Guru  
   
     
-   ब्रह्मानंदं परमसुखदं केवलं ज्ञानमूर्तिं  
-   द्वंद्वातीतं गगनसदृशं तत्त्वमस्यादिलक्ष्यम् ।  
+   ब्रह्मानन्दं परमसुखदं केवलं ज्ञानमूर्तिं  
+   द्वन्द्वातीतं गगनसदृशं तत्त्वमस्यादिलक्ष्यम् ।  
    एकं नित्यं विमलमचलं सर्वधीसाक्षिभूतं  
    भावातीतं त्रिगुणरहितं सद्गुरुं तं नमामि ।  
    श्रीदत्तगुरुध्यानम् ॥ ॥   
@@ -543,12 +545,12 @@ nature..
  %E18  Word Meanings 18;  
   
    
-ब्रह्मानंदं = Beautitide; bliss; nirvANa;  
+ब्रह्मानन्दं = Beautitide; bliss; nirvANa;  
 परमसुखदं = the giver of great happiness, bliss;  
 केवलं = only;  
 ज्ञानमूर्तिं = knowledge personified or knowledge itself taking the  
 form of a man;  
-द्वंद्वातीतं = beyond the dual nature of things i.e. individual  
+द्वन्द्वातीतं = beyond the dual nature of things i.e. individual  
 soul and Universal soul being considered as two entities;  
 गगनसदृशं = one who is like the sky;  
 तत्त्वमस्यादिलक्ष्यं = the ultimate truth (tattvaM) is his principal;  
@@ -593,7 +595,7 @@ circle or universe;
 Shloka 20 Guru  
   
     
-   अज्ञानतिमिरान्धस्य ज्ञानांजनशलाकया ।  
+   अज्ञानतिमिरान्धस्य ज्ञानाञ्जनशलाकया ।  
    चक्षुरुन्मीलितं येन तस्मै श्रीगुरवे नमः ॥ ॥   
   
  Meaning 20  
@@ -608,7 +610,7 @@ of  those blind, due to ignorance, with the ointment of knowledge..
   
    
 अज्ञानतिमिरान्धस्य = of the person blinded by the darkness of ignorance;  
-ज्ञानांजनशलाकया = with a thin rod or needle having  
+ज्ञानाञ्जनशलाकया = with a thin rod or needle having  
 knowledge-collyrium;  
 चक्षुरुन्मीलितं = the opened eyes;  
 येन = by whom;  
@@ -670,7 +672,7 @@ Salutations to the sandals of VishNu, the husband of Laxmi..
 Shloka 23 Vishnu  
   
     
-   शांताकारं भुजगशयनं पद्मनाभं सुरेशम्  
+   शान्ताकारं भुजगशयनं पद्मनाभं सुरेशम्  
    विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् ।  
    लक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यम्  
    वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥ ॥   
@@ -702,7 +704,7 @@ world and the sole MASTER of all the universes..
  %E23  Word Meanings 23;  
   
    
-शांताकारं = the one having a peaceful or serene form;  
+शान्ताकारं = the one having a peaceful or serene form;  
 भुजगशयनं = one who is sleeping on a snake as the bed;  
 पद्मनाभं = the one having a lotus at the navel, Vishnu;  
 सुरेशं = the master of the gods;  
@@ -750,7 +752,7 @@ Shloka 25 Vishnu
   
     
    तदेव लग्नं सुदिनं तदेव  
-   ताराबलं चंद्रबलं तदेव ।  
+   ताराबलं चन्द्रबलं तदेव ।  
    विद्याबलं दैवबलं तदेव  
    लक्ष्मीपते तेङ्घ्रियुगं स्मरामि ॥ ॥   
   
@@ -768,7 +770,7 @@ Vishnu who is the spouse of Goddess LakShmi..
 सुदिनं = good day;  
 तदेव = tat and eva-that alone; that only;  
 ताराबलं = the power bestowed by the star;  
-चंद्रबलं = the strength of the moon;  
+चन्द्रबलं = the strength of the moon;  
 तदेव = tat and eva-that alone; that only;  
 विद्याबलं = the power of knowledge or learning;  
 दैवबलं = the power or might of the gods or given by the gods;  
@@ -902,7 +904,7 @@ adjective of the mind of the Yogis.);
 Shloka 30 Vishnu  
   
     
-   कायेन वाचा मनसेंद्रियैर्वा ।  
+   कायेन वाचा मनसेन्द्रियैर्वा ।  
    बुद्ध्यात्मना वा प्रकृतिस्वभावात् ।  
    करोमि यद्यत् सकलं परस्मै ।  
    नारायणायेति समर्पयामि ॥ ॥   
@@ -917,7 +919,7 @@ I dedicate it all to that Supreme Lord Narayana..
    
 कायेन = through or with the help of the body;  
 वाचा = through words or speech; text;  
-मनसेंद्रियैर्वा = by mind (manasA) or by limbs (indriyaiH vA);  
+मनसेन्द्रियैर्वा = by mind (manasA) or by limbs (indriyaiH vA);  
 बुद्धि = intellect;  
 आत्मना = by one's own self or efforts;  
 वा = or; also; like; either or;  
@@ -935,7 +937,7 @@ Shloka 31 Vishnu
    अच्युतं केशवं रामनारायणम् ।  
    कृष्णदामोदरं वासुदेवं हरिम् ।  
    श्रीधरं माधवं गोपिकावल्लभम् ।  
-   जानकीनायकं रामचंद्रं भजे ॥ ॥   
+   जानकीनायकं रामचन्द्रं भजे ॥ ॥   
   
  Meaning 31  
 I adore Achyuta, Keshava, Rama, Narayan, Krishna, Damodar, Vasudev, Hari,  
@@ -957,7 +959,7 @@ possesses glory, wealth[2];
 माधवं = Madhava[2];  
 गोपिकावल्लभं = the beloved of the cow-herd women[2]; refers to Krishna;  
 जानकीनायकं = husband of Janaki, Sita i.e Rama[2];  
-रामचंद्रं = the moon-like Rama[2];  
+रामचन्द्रं = the moon-like Rama[2];  
 भजे = I worship;    
 Shloka 32 Vishnu  
   
@@ -1731,8 +1733,8 @@ tainted by their defects. Thus He enjoys supreme bliss..
 Shloka 61 Krishna  
   
     
-   कृष्णाय वासुदेवाय देवकी नंदनाय च ।  
-   नंदगोपकुमाराय गोविंदाय नमो नमः ॥ ॥   
+   कृष्णाय वासुदेवाय देवकी नन्दनाय च ।  
+   नन्दगोपकुमाराय गोविन्दाय नमो नमः ॥ ॥   
   
  Meaning 61  
 Salutations to Lord Krishna, the son of Vasudeva and  
@@ -1744,17 +1746,17 @@ Devaki, raised by Nandagopa, and also known as Govinda..
 कृष्णाय = to Krishna;  
 वासुदेवाय = to Vasudeva;  
 देवकी = DevakI Krishna's mother;  
-नंदनाय = for the Nandana, the delighter;  
+नन्दनाय = for the Nandana, the delighter;  
 च = and;  
-नंदगोपकुमाराय = for the son of Nandagopa Krishna;  
-गोविंदाय = to govinda, the cowherd boy Krishna;  
+नन्दगोपकुमाराय = for the son of Nandagopa Krishna;  
+गोविन्दाय = to govinda, the cowherd boy Krishna;  
 नमो = bowing; salute;  
 नमः = bowing; salutation;    
 Shloka 62 Krishna  
   
     
    वसुदेव सुतं देवं कंस चाणूरमर्दनं ।  
-   देवकी परमानंदं कृष्णं वंदे जगद्गुरुं ॥ ॥   
+   देवकी परमानन्दं कृष्णं वन्दे जगद्गुरुं ॥ ॥   
   
  Meaning 62  
 Salutations to Lord Krishna, who is the teacher of the universe,  
@@ -1770,9 +1772,9 @@ supreme bliss of (mother) DevakI..
 कंस = at (M.nom.) the demon Kamsa;  
 चाणूरमर्दनं = the crusher or pounder of the demon chaNUra;  
 देवकी = DevakI Krishna's mother;  
-परमानंदं = great happiness; blisss;beautitude;  
+परमानन्दं = great happiness; blisss;beautitude;  
 कृष्णं = Krishna;  
-वंदे = I bow ; I worship;  
+वन्दे = I bow ; I worship;  
 जगद्गुरुं = the preceptor of the world;    
 Shloka 63 Krishna  
   
@@ -1802,7 +1804,7 @@ Shloka 64 Krishna
     
    आदौ देवकिदेविगर्भजननं गोपीगृहे वर्धनम्  
    मायापूतनजीवितापहरणं गोवर्धनोद्धारणम् ।  
-   कंसच्छेदनकौरवादिहननं कुंतीसुतां पालनम्  
+   कंसच्छेदनकौरवादिहननं कुन्तीसुतां पालनम्  
    एतद्भागवतं पुराणकथितं श्रीकृष्णलीलामृतम् ।  
    इति श्रीभागवतसूत्र ॥ ॥   
   
@@ -1832,7 +1834,7 @@ This is an aphorism on Srimad BhAgavataM..
 गोवर्धनोद्धारणं = the lifter of the mountain Govardhana Krishna;  
 कंसच्छेदनकौरवादिहननं = the cutting of Kamsa and the  
 killing of kauravas;  
-कुंतीसुतां = sons of Kunti;  
+कुन्तीसुतां = sons of Kunti;  
 पालनं = bringing up; rearing;  
 एतद्भागवतं = this one book or story relating to God;  
 पुराणकथितं = as told in the `purANa';  
@@ -1844,7 +1846,7 @@ Shloka 65 Krishna
   
     
    श्रीकेशवाय नमः । नारायणाय नमः । माधवाय नमः ।  
-   गोविंदाय नमः । विष्णवे नमः ।  मधुसूदनाय नमः ।  
+   गोविन्दाय नमः । विष्णवे नमः ।  मधुसूदनाय नमः ।  
    त्रिविक्रमाय नमः ।  वामनाय नमः । श्रीधराय नमः ।  
    हृषीकेशाय नमः । पद्मनाभाय नमः ।  दामोदराय नमः ।  
    सङ्कर्षणाय नमः ।  वासुदेवाय नमः । प्रद्युम्नाय नमः ।  
@@ -1889,7 +1891,7 @@ an epithet of Vishnu and Krishna;
 नमः = bowing; salutation;  
 नारायणाय = to Narayana;  
 माधवाय = to Madhava;  
-गोविंदाय = to govinda, the cowherd boy Krishna;  
+गोविन्दाय = to govinda, the cowherd boy Krishna;  
 विष्णवे = to Vishnu;  
 मधुसूदनाय = to madhusudana;  
 त्रिविक्रमाय = to Trivikrama, lord of three worlds, Vishnu;  
@@ -1974,7 +1976,7 @@ Shloka 68 Krishna
   
     
    नमो ब्रह्मण्यदेवाय गोब्राह्मणहिताय च ।  
-   जगद्धिताय कृष्णाय गोविंदाय नमो नमः ॥ ॥   
+   जगद्धिताय कृष्णाय गोविन्दाय नमो नमः ॥ ॥   
   
  Meaning 68  
 Salutations to Govinda, the dark complexioned one, the God of Brahmanas,  
@@ -1989,7 +1991,7 @@ protector of cattle and wellwisher of people..
 च = and;  
 जगद्धिताय = for the welfare of the world;  
 कृष्णाय = to Krishna;  
-गोविंदाय = to govinda, the cowherd boy Krishna;  
+गोविन्दाय = to govinda, the cowherd boy Krishna;  
 नमो = bowing; salute;  
 नमः = bowing; salutation;    
 Shloka 69 Krishna  
@@ -2048,7 +2050,7 @@ Shloka 71 Krishna
   
     
    सुखावसाने त्विदमेव सारं दुःखावसाने त्विदमेव गेयम् ।  
-   देहावसाने त्विदमेव जप्यं गोविंद दामोदर माधवेति ॥ ॥   
+   देहावसाने त्विदमेव जप्यं गोविन्द दामोदर माधवेति ॥ ॥   
   
  Meaning 71  
 This the essence and ultimate of happiness;  
@@ -2068,7 +2070,7 @@ this is what one would utter when departing from hither..
 देहावसाने = at the end of the body i.e. at the time of death;  
 त्विदमेव = this alone or this only;  
 जप्यं = to be uttered;  
-गोविंद = A name of kRiShNa, Govinda, the cowherd boy;  
+गोविन्द = A name of kRiShNa, Govinda, the cowherd boy;  
 दामोदर = at (literally a person with a string around his bellly)  
 One of the names of KriShNa;  
 माधवेति = ?? ;  
@@ -2078,7 +2080,7 @@ Shloka 72 Krishna
     
    कस्तूरीतिलकं ललाटफलके वक्षस्थले कौस्तुभं  
    नासाग्रे नवमौक्तिकं करतले वेणुं करे कङ्कणम् ।  
-   सर्वाङ्गे हरिचंदनं च कल्याण कण्ठेच मुक्तावलिन्  
+   सर्वाङ्गे हरिचन्दनं च कल्याण कण्ठेच मुक्तावलिन्  
    गोपस्त्री परिवेष्टितो विजयते गोपाल चूडामणि ॥ ॥   
   
  Meaning 72  
@@ -2104,7 +2106,7 @@ to be originated in Deer's navel;
 करे = in the hand;  
 कङ्कणं = a bracelet;  
 सर्वाङ्गे = in all parts of the body;  
-हरिचंदनं = sandalpaste;  
+हरिचन्दनं = sandalpaste;  
 च = and;  
 कल्याण = happy; beautiful; auspices; prosperous; good, etc.;  
 कण्ठ = throat;  
@@ -2149,7 +2151,7 @@ Shloka 74 Ram
   
     
    आदौ रामतपोवनादिगमनं हत्वा मृगं काञ्चनम्  
-   वैदेहीहरणं जटायुमरणम् सुग्रीवसंभाषणम् ।  
+   वैदेहीहरणं जटायुमरणम् सुग्रीवसम्भाषणम् ।  
    वालीनिर्दलनं समुद्रतरणं लङ्कापुरीदाहनम्  
    पश्चाद्रावणकुम्भकर्णहननं एतद्धिरामायणम् ।  
    इति श्रीरामायणसूत्र ॥ ॥   
@@ -2172,7 +2174,7 @@ that killing of RavaNa and KumbhakarNa - this is the story
 काञ्चनं = gold;  
 वैदेहीहरणं = the abduction of Vaidehi;  
 जटायुमरणं = the death of Jatayu;  
-सुग्रीवसंभाषणं = the conversation with Sugriva;  
+सुग्रीवसम्भाषणं = the conversation with Sugriva;  
 वालीनिर्दलनं = Rama, destroyer of Vali;  
 समुद्रतरणं = crossing of the ocean;  
 लङ्कापुरी = Lanka;  
@@ -2188,7 +2190,7 @@ Shloka 75 Ram
    ध्यायेदाजानुबाहुं धृतशरधनुषं बद्धपद्मासनस्थम् ।  
    पीतं वासो वसानं नवकमलदलस्पर्धिनेत्रं प्रसन्नम् ।  
    वामाङ्कारूढ सीतामुखकमलमिलल्लोचनं नीरदाभम् ।  
-   नानालङ्कारदीप्तं दधतमुरुजटामँडनं रामचंद्रम् ॥ ॥   
+   नानालङ्कारदीप्तं दधतमुरुजटामँडनं रामचन्द्रम् ॥ ॥   
   
  Meaning 75  
 Salutations to one with long arms, with weapons, sitting on  
@@ -2223,14 +2225,14 @@ lotus-like face of Sita;
 आभं = one resembling in light or appearance;  
 नानालङ्कारदीप्तं = one resplendent with many ornaments and decorations;  
 दधतमुरुजटामँडनं = bearing or holding great tufts or knotted hair as ornament;  
-रामचंद्रं = the moon-like Rama;    
+रामचन्द्रं = the moon-like Rama;    
 Shloka 76 Ram  
   
     
-   रामं लक्ष्मणपूर्वजं रघुवरं सीतापतिं सुंदरम् ।  
+   रामं लक्ष्मणपूर्वजं रघुवरं सीतापतिं सुन्दरम् ।  
    काकुत्स्थं करुणार्णवं गुणनिधिं विप्रप्रियं धार्मिकम् ।  
-   राजेंद्रं सत्यसंधं दशरथतनयं श्यामलं शांतमूर्तिम् ।  
-   वंदे लोकाभिरामं रघुकुलतिलकं राघवं रावणारिम् ॥ ॥   
+   राजेन्द्रं सत्यसन्धं दशरथतनयं श्यामलं शान्तमूर्तिम् ।  
+   वन्दे लोकाभिरामं रघुकुलतिलकं राघवं रावणारिम् ॥ ॥   
   
  Meaning 76  
 I salute that Rama who is handsome, the elder brother of Laxmana, the  
@@ -2248,18 +2250,18 @@ Ravana, the crown jewel of the Raghu dynaty and the cynosure of all eyes..
 लक्ष्मणपूर्वजं = ?? ;  
 रघुवरं = the best of the Raghu race;  
 सीतापतिं = the lord or husband of sita i.e. Rama;  
-सुंदरं = the beautiful one;  
+सुन्दरं = the beautiful one;  
 काकुत्स्थं = Rama literally one who is standing on the hump of a bull;  
 करुणार्णवं = ocean of mercy;  
 गुणनिधिं = the reservoir or repository of good qualities;  
 विप्रप्रियं = the dear Brahmin;  
 धार्मिकं = relating to Dharma, religion or good conduct;  
-राजेंद्रं = King of kings;  
-सत्यसंधं = the man who is bound to be truthful;  
+राजेन्द्रं = King of kings;  
+सत्यसन्धं = the man who is bound to be truthful;  
 दशरथतनयं = the son of Dasaratha;  
 श्यामलं = the dark complexioned one;  
-शांतमूर्तिं = peace or serenity personified ; embodiment of tranquility.;  
-वंदे = I bow ; I worship;  
+शान्तमूर्तिं = peace or serenity personified ; embodiment of tranquility.;  
+वन्दे = I bow ; I worship;  
 लोकाभिरामं = ?? ;  
 रघुकुलतिलकं = the mark on forehead or jewel of the Raghu dynasty;  
 राघवं = Raghava, Rama;  
@@ -2267,7 +2269,7 @@ Ravana, the crown jewel of the Raghu dynaty and the cynosure of all eyes..
 Shloka 77 Ram  
   
     
-   रामाय रामभद्राय रामचंद्राय वेधसे ।  
+   रामाय रामभद्राय रामचन्द्राय वेधसे ।  
    रघुनाथाय नाथाय सीतायाः पतये नमः ॥ ॥   
   
  Meaning 77  
@@ -2277,7 +2279,7 @@ and77  Word Meanings 77;
    
 रामाय = to Rama;  
 रामभद्राय = to Rama the auspicious;  
-रामचंद्राय = to the moonlike Rama;  
+रामचन्द्राय = to the moonlike Rama;  
 वेधसे = to Brahma;  
 रघुनाथाय = to the lord or leader of the Raghu's;  
 नाथाय = for the lord or husband;  
@@ -2287,10 +2289,10 @@ and77  Word Meanings 77;
 Shloka 78 Ram  
   
     
-   श्रीरामचंद्रचरणौ मनसा स्मरामि ।  
-   श्रीरामचंद्रचरणौ वचसा गृणामि ।  
-   श्रीरामचंद्रचरणौ शिरसा नमामि ।  
-   श्रीरामचंद्रचरणौ शरणं प्रपद्ये ॥ ॥   
+   श्रीरामचन्द्रचरणौ मनसा स्मरामि ।  
+   श्रीरामचन्द्रचरणौ वचसा गृणामि ।  
+   श्रीरामचन्द्रचरणौ शिरसा नमामि ।  
+   श्रीरामचन्द्रचरणौ शरणं प्रपद्ये ॥ ॥   
   
  Meaning 78  
 I  worship Rama's feet remembering him with mind, praising with  
@@ -2299,23 +2301,23 @@ speech, bowing with head, and completely surrendering unto him..
  %E78  Word Meanings 78;  
   
    
-श्रीरामचंद्रचरणौ = at the feet of the venerable Ramachandra;  
+श्रीरामचन्द्रचरणौ = at the feet of the venerable Ramachandra;  
 मनसा = through the mind;  
 स्मरामि = I remember;  
-श्रीरामचंद्रचरणौ = at the feet of the venerable Ramachandra;  
+श्रीरामचन्द्रचरणौ = at the feet of the venerable Ramachandra;  
 वचसा = through words;  
 गृणामि = ?? ;  
-श्रीरामचंद्रचरणौ = at the feet of the venerable Ramachandra;  
+श्रीरामचन्द्रचरणौ = at the feet of the venerable Ramachandra;  
 शिरसा = by the head;  
 नमामि = I bow; salute; pay my respects;  
-श्रीरामचंद्रचरणौ = at the feet of the venerable Ramachandra;  
+श्रीरामचन्द्रचरणौ = at the feet of the venerable Ramachandra;  
 शरणं = seeking refuge or surrender;  
 प्रपद्ये = I sing; worship;    
 Shloka 79 Ram  
   
     
    दक्षिणे लक्ष्मणो यस्य वामे तु जनकात्मजा ।  
-   पुरतो मारुतिर्यस्य तं वंदे रघुनंदनम् ॥ ॥   
+   पुरतो मारुतिर्यस्य तं वन्दे रघुनन्दनम् ॥ ॥   
   
  Meaning 79  
 I salute that Rama who is surrounded by Laxmana on the right, Sita on the  
@@ -2336,15 +2338,15 @@ whose daughter was Sita;
 मारुतिः = Lord Hanuman;  
 यस्य = whose;  
 तं = him;  
-वंदे = I bow ; I worship;  
-रघुनंदनं = the delighter of the Raghu race;    
+वन्दे = I bow ; I worship;  
+रघुनन्दनं = the delighter of the Raghu race;    
 Shloka 80 Ram  
   
     
    लोकाभिरामं रणरङ्गधीरम् ।  
    राजीवनेत्रं रघुवंशनाथम् ।  
    कारुण्यरूपं करुणाकरं तम् ।  
-   श्रीरामचंद्रम् शरणं प्रपद्ये ॥ ॥   
+   श्रीरामचन्द्रम् शरणं प्रपद्ये ॥ ॥   
   
  Meaning 80  
 I take refuge in that Rama who is quite pleasing to the sight, the master of  
@@ -2361,7 +2363,7 @@ personofied..
 कारुण्यरूपं = one who has taken the form of compassion or mercy;  
 करुणाकरं = bestower of mercy;  
 तं = him;  
-श्रीरामचंद्रं = Shri Ramachandra;  
+श्रीरामचन्द्रं = Shri Ramachandra;  
 शरणं = seeking refuge or surrender;  
 प्रपद्ये = I sing; worship;    
 Shloka 81 Ram  
@@ -2410,7 +2412,7 @@ one whose mind is absorbed in something;
 Shloka 82 Ram  
   
     
-   नीलांबुजश्यामलकोमलाङ्गं  
+   नीलाम्बुजश्यामलकोमलाङ्गं  
    सीतासमारोपितवामभागम् ।  
    पाणौ महासायकचारुचापं  
    नमामि रामं रघुवंशनाथम् ॥ ॥   
@@ -2424,7 +2426,7 @@ To that protector of Raghu dynasty I offer my salutations!.
  %E82  Word Meanings 82;  
   
    
-नीलांबुजश्यामलकोमलाङ्गं = the one having the body resembling blue black lotus;  
+नीलाम्बुजश्यामलकोमलाङ्गं = the one having the body resembling blue black lotus;  
 सीतासमारोपितवामभागं = the one with the left side on which SIta is seated i.e. Rama;  
 पाणौ = in the hand;  
 महासायकचारुचापं = he having great arrows and charming bow;  
@@ -2434,7 +2436,7 @@ To that protector of Raghu dynasty I offer my salutations!.
 Shloka 83 Ram  
   
     
-   शांतं शाश्वतमप्रमेयमनवं निर्वाणशान्तिप्रदं  
+   शान्तं शाश्वतमप्रमेयमनवं निर्वाणशान्तिप्रदं  
    ब्रह्माशम्भुफणीन्द्रसेव्यमनिशं वेदान्तवेद्यं विभुम् ।  
    रामाख्यं जगदीश्वरं सुरगुरुं मायामनुष्यं हरिं  
    वन्देऽहं करुणाकरं रघुवरं भूपालचूडामणिम् ॥ ॥   
@@ -2450,7 +2452,7 @@ sinless and all-pervading..
  %E83  Word Meanings 83;  
   
    
-शांतं = one who is complacent, equipoised or tranquil or at peace;  
+शान्तं = one who is complacent, equipoised or tranquil or at peace;  
 शाश्वतमप्रमेयमनवं = Permanent, immeasurable and ancient i.e not-new;  
 निर्वाणशान्तिप्रदं = ?? ;  
 ब्रह्माशम्भुफणीन्द्रसेव्यमनिशं = the Lord who has no night and  
@@ -2472,9 +2474,9 @@ Shloka 84 Ram
     
    वन्दे रामं सच्चिदानन्दं वन्दे रामं सच्चिदानन्दम् ।  
    शरणागत जनपालक शरणं विघ्नहरं सुखशान्तिः करणम् ।  
-   परं पदं मङ्गल अरविंदं वन्दे रामं सच्चिदानन्दम् ।  
+   परं पदं मङ्गल अरविन्दं वन्दे रामं सच्चिदानन्दम् ।  
    परं पावनं प्रियतं रूपं परमेशं शुभ शक्ति स्वरूपम् ।  
-   सर्वाधारं महा सुख कंदं वन्दे रामं सच्चिदानन्दम् ॥ ॥   
+   सर्वाधारं महा सुख कन्दं वन्दे रामं सच्चिदानन्दम् ॥ ॥   
   
  Meaning 84  
 I salute Ram -- the absolute Truth-Consiousness-Joy,  
@@ -2506,7 +2508,7 @@ I salute Ram -- the absolute Truth-Consiousness-Joy..
 परं = supreme; great; the ultimate;  
 पदं = step ; leg; word;  
 मङ्गल = at (N) auspiciousness; welfare; well-being; good things;  
-अरविंदं = lotus;  
+अरविन्दं = lotus;  
 वन्दे = I worship; bow;  
 रामं = Rama;  
 सच्चिदानन्दं = the triple quality of Brahman.;  
@@ -2521,7 +2523,7 @@ I salute Ram -- the absolute Truth-Consiousness-Joy..
 सर्वाधारं = the basis or support of all;  
 महा = big; large;  
 सुख = happyness;  
-कंदं = a bulb kind of root;  
+कन्दं = a bulb kind of root;  
 वन्दे = I worship; bow;  
 रामं = Rama;  
 सच्चिदानन्दं = the triple quality of Brahman.;    
@@ -2701,7 +2703,7 @@ Shloka 89 Ram
    दक्षिणाङ्गे दशरथं पुत्राप्येक्षेण तत्परम् ।  
    प्रष्टतो लक्षमणं देवं सछत्रं कनक प्रभम्  
    पार्श्वे भरत शत्रुघ्न चामर व्य्जनान्वितौ  
-   अग्रेत्यग्रौ हनूमन्तं रामानुग्रह कांक्षिणम् ॥ ॥   
+   अग्रेत्यग्रौ हनूमन्तं रामानुग्रह काङ्क्षिणम् ॥ ॥   
   
  Meaning 89  
 One with delicate body, large eyes, a gem, shining everywhere,  
@@ -3207,7 +3209,7 @@ the world or 4 `yuga's;
 Shloka 105 Shiva  
   
     
-   मङ्गलं भगवान् शंभुः मङ्गलं वृषभध्वजः ।  
+   मङ्गलं भगवान् शम्भुः मङ्गलं वृषभध्वजः ।  
    मङ्गलं पार्वतीनाथो मङ्गलायतनो हरः  ॥ ॥   
   
  Meaning 105  
@@ -3220,7 +3222,7 @@ auspicious is the consort of Parvati, an abode of auspiciousness is Hara..
 मङ्गलं = auspiciousness; welfare; well-being; good things;  
 भगवान् = God; or a respectable person one who possesses the  
 bhaga -a cluster of good things including wealth and happiness;  
-शंभुः = an epithet of Shiva;  
+शम्भुः = an epithet of Shiva;  
 मङ्गलं = auspiciousness; welfare; well-being; good things;  
 वृषभध्वजः = the one having the bull in his flag;  
 मङ्गलं = auspiciousness; welfare; well-being; good things;  
@@ -3275,7 +3277,7 @@ touch is most auspicious..
 Shloka 108 Shiva  
   
     
-   असितगिरिसमस्यात् कज्जलं सिंधूपात्रे  
+   असितगिरिसमस्यात् कज्जलं सिन्धूपात्रे  
    सुरतरुवरशाखा लेखनी पत्रमूर्वी ।  
    लिखति यदि गृहित्वा शारदा सर्वकालं  
    तदपि तव गुणानामीश पारं न याति ॥ ॥   
@@ -3294,7 +3296,7 @@ all of your Good Qualities, oh Isha!
    
 असितगिरिसमस्यात् = like (samaM) a black (asita) mountain (giri);  
 कज्जलं = eye ointment; collyrium or black ink;  
-सिंधुपात्रे = in the pot (pAtra) of ocean (si.ndhu) [7];  
+सिन्धुपात्रे = in the pot (pAtra) of ocean (si.ndhu) [7];  
 सुरतरुवर = the heavenly tree;  
 शाखा = a branch;;  
 लेखनी = writing instrument;  
@@ -3456,7 +3458,7 @@ Shloka 114 Sarasvati
     
    या कुन्देन्दु तुषार हार धवला या शुभ्रवस्त्रावृता ।  
    या वीणावरदँड मँडितकरा या श्वेतपद्मासना ।  
-   या ब्रह्माच्युतशङ्करप्रभृतिभिर्देवै सदा वंदिता ।  
+   या ब्रह्माच्युतशङ्करप्रभृतिभिर्देवै सदा वन्दिता ।  
    सा मां पातु सरस्वती भगवती निःशेषजाड्यापहा ॥ ॥   
   
  Meaning 114  
@@ -3498,7 +3500,7 @@ and sustain me..
 शङ्कर = Shiva;  
 प्रभ्रुतिभिर्देवै = ?? ;  
 सदा = always; ever;  
-वंदिता = one who has been worshipped;  
+वन्दिता = one who has been worshipped;  
 सा = she;  
 मां = me;  
 पातु = May protect me or us;  
@@ -3547,7 +3549,7 @@ Shloka 116 Sarasvati
   
     
    जय जय देवि चराचरसारे कुचयुगशोभित मुक्ताहारे ।  
-   वीणापुस्तकरंजितहस्ते भगवति भारति देवि नमस्ते ॥ ॥   
+   वीणापुस्तकरञ्जितहस्ते भगवति भारति देवि नमस्ते ॥ ॥   
   
  Meaning 116  
 Salutations to devi sarasvati, who is the essence of the universe, who is  
@@ -3563,7 +3565,7 @@ known as bhagavati and bhArati..
 चराचरसारे = Oh! the essence of the mobile and the immobile world!;  
 कुचयुगशोभित = ?? ;  
 मुक्ताहारे = Oh! the one having a pearl necklace!;  
-वीणापुस्तकरंजितहस्ते = Oh! the one with the hands adorned with  
+वीणापुस्तकरञ्जितहस्ते = Oh! the one with the hands adorned with  
 the Veena instrument and the book;  
 भगवति = Oh goddess!;  
 भारति = A name for goddess sarasvatI; one of the titles awarded to scholars;  
@@ -4182,9 +4184,9 @@ food, I beg you to feed me..
 Shloka 138 Devi  
   
     
-   अयि गिरिनंदिनि नंदितमेदिनि विश्वविनोदिनि नंदनुते  
-   गिरिवर विंध्य शिरोधिनिवासिनि विष्णुविलासिनि जिष्णुनुते ।  
-   भगवति हे शितिकण्ठकुटुंबिनि भूरि कुटुंबिनि भूरि कृते  
+   अयि गिरिनन्दिनि नन्दितमेदिनि विश्वविनोदिनि नन्दनुते  
+   गिरिवर विन्ध्य शिरोधिनिवासिनि विष्णुविलासिनि जिष्णुनुते ।  
+   भगवति हे शितिकण्ठकुटुम्बिनि भूरि कुटुम्बिनि भूरि कृते  
    जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ ॥   
   
  Meaning 138  
@@ -4201,20 +4203,20 @@ mountain and slayer of the demon mahishAsura..
   
    
 अयि = Oh goddess! or lady!;  
-गिरिनंदिनि = the delighter, daughter of the mountain; refers to Parvati;  
-नंदितमेदिनि = Oh! the one praised by the world;  
+गिरिनन्दिनि = the delighter, daughter of the mountain; refers to Parvati;  
+नन्दितमेदिनि = Oh! the one praised by the world;  
 विश्वविनोदिनि = Oh! the one who entertains the Universe;  
-नंदनुते = Oh! the one praised by Nanda;  
+नन्दनुते = Oh! the one praised by Nanda;  
 गिरिवर = the great mountain;  
-विंध्य = relating to the Vindhya mountain or region;  
+विन्ध्य = relating to the Vindhya mountain or region;  
 शिरोधिनिवासिनि = Oh! the one who lives in the head i.e controls the head;  
 विष्णुविलासिनि = Vishnu's entertainer;  
 जिष्णुनुते = Oh! the conquering one;  
 भगवति = Oh goddess!;  
 हे = vocative for addressing a male;  
-शितिकण्ठकुटुंबिनि = Oh! the mistress of the Shiva family;  
+शितिकण्ठकुटुम्बिनि = Oh! the mistress of the Shiva family;  
 भूरि = in good measure; excessive also refers to Vishnu and Shiva;  
-कुटुंबिनि = ?? ;  
+कुटुम्बिनि = ?? ;  
 भूरि = in good measure; excessive also refers to Vishnu and Shiva;  
 कृते = for the sake of;  
 जय = at (M.nom.) victory;  
@@ -4229,7 +4231,7 @@ Shloka 139 Devi
     
    चतुर्भुजे चन्द्रकलावतंसे  
    कुचोन्नते कुङ्कुमरागशोणे ।  
-   पुण्ड्रेक्षु पाषंङ्क्ष पुष्पबाण  
+   पुण्ड्रेक्षु पाषङ्ङ्क्ष पुष्पबाण  
    हस्ते नमस्ते जगदेकमातः ॥ ॥   
   
  Meaning 139  
@@ -4248,7 +4250,7 @@ moonlight (cha.ndrakalA);
 कुङ्कुमराग = color (rAga) of saffron (kumkuma);  
 शोण = red;  
 पुण्ड्रेक्षु = with eyes (Ixu) like lotus (puNDra);  
-पाषंङ्क्ष = ?? ;  
+पाषङ्ङ्क्ष = ?? ;  
 पुष्पबाण = at (M.nom.) one having flowers as arrows; generally refers to Cupid;  
 नमस्ते =  I salute (namaH) to you (te);  
 जगदेकमातः = unique mother (ekamAtaH) of the worlds (jagat);    
@@ -4422,8 +4424,8 @@ to you and plead with you to save and protect us from all fears..
 Shloka 146 Benediction  
   
     
-   सर्वे भवंतु सुखिनः सर्वे संतु निरामयाः ।  
-   सर्वे भद्राणि पश्यंतु मा कश्चिद् दुःखभाग्भवेत् ॥ ॥   
+   सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः ।  
+   सर्वे भद्राणि पश्यन्तु मा कश्चिद् दुःखभाग्भवेत् ॥ ॥   
   
  Meaning 146  
 May everybody be happy, may everybody be free from disease,  
@@ -4433,14 +4435,14 @@ may everybody see goodness, may none fall on evil days..
   
    
 सर्वे = all;  
-भवंतु = May them be so or let them be so or let them happen;  
+भवन्तु = May them be so or let them be so or let them happen;  
 सुखिनः = happy people;  
 सर्वे = all;  
-संतु = May them be so;  
+सन्तु = May them be so;  
 निरामयाः = without any illness or affliction or disease;  
 सर्वे = all;  
 भद्राणि = good or auspicious things; those which end in happiness or welfare;  
-पश्यंतु = let them see;  
+पश्यन्तु = let them see;  
 मा = do not;  
 कः = who;  
 चिद् = thought; intelligence; consciousness part of the mind;  
@@ -4451,7 +4453,7 @@ Shloka 147 Benediction
    ॐ सह नाववतु । सह नौभुनक्तु ।  
    सहवीर्यं करवावहै ।  
    तेजस्वि नावधीतमस्तु । मा विद्विषावहै ।  
-   ॐ शांतिः शांतिः शांतिः ॥ ॥   
+   ॐ शान्तिः शान्तिः शान्तिः ॥ ॥   
   
  Meaning 147  
 Om!  May the Lord protect us, may he cause us to enjoy,  
@@ -4477,15 +4479,15 @@ u and the consonant `m'; also written as `OM'; refers to Brahman;
 विद्विषावहै = quarrel; develop enmity;  
 ॐ = The `PraNava or Onkara mantra' consisting of the vowels a and  
 u and the consonant `m'; also written as `OM'; refers to Brahman;  
-शांतिः = Peace; tranquility;  
-शांतिः = Peace; tranquility;  
-शांतिः = Peace; tranquility;    
+शान्तिः = Peace; tranquility;  
+शान्तिः = Peace; tranquility;  
+शान्तिः = Peace; tranquility;    
 Shloka 148 Benediction  
   
     
    ॐ असतो मा सद्गमय । तमसो मा ज्योतिर्गमय ।  
    मृत्योर्मा अमृतं गमय ।  
-   ॐ शांतिः शांतिः शांतिः ॥ ॥   
+   ॐ शान्तिः शान्तिः शान्तिः ॥ ॥   
   
  Meaning 148  
 Om Lead us from untruth to truth, from darkness to light,  
@@ -4507,14 +4509,14 @@ u and the consonant `m'; also written as `OM'; refers to Brahman;
 गमय = lead me to;  
 ॐ = The `PraNava or Onkara mantra' consisting of the vowels a and  
 u and the consonant `m'; also written as `OM'; refers to Brahman;  
-शांतिः = Peace; tranquility;  
-शांतिः = Peace; tranquility;  
-शांतिः = Peace; tranquility;    
+शान्तिः = Peace; tranquility;  
+शान्तिः = Peace; tranquility;  
+शान्तिः = Peace; tranquility;    
 Shloka 149 Benediction  
   
     
    गणनाथसरस्वतीरविशुक्रबृहस्पतीन् ।  
-   पंचैतान् संस्मरेन्नित्यं वेदवाणीप्रवृत्तये ।   
+   पञ्चैतान् संस्मरेन्नित्यं वेदवाणीप्रवृत्तये ।   
   
  Meaning 149  
 One who thinks of Ganesha, Sarasvati, SUrya, Shukra and  
@@ -4526,7 +4528,7 @@ equal to the sayings of the vedas..
    
 गणनाथसरस्वतीरविशुक्रबृहस्पतीन् = the chief of `gaNA',  
 s, Sarasvathi, Sun, Venus and Jupiter;  
-पंचैतान् = these five;  
+पञ्चैतान् = these five;  
 संस्मरेन्नित्यं = May we remember ever;  
 वेदवाणीप्रवृत्तये = ?? ;    
 Shloka 150 Benediction  
@@ -4846,7 +4848,7 @@ Shloka 158 Benediction
    स्वस्ति प्रजाभ्यः परिपालयन्ताम् ।  
    न्यायेन मार्गेण महीं महीशाम् ।  
    गो ब्राह्मणेभ्यः शुभमस्तु नित्यं ।  
-   लोकाः समस्ताः सुखिनो भवंतु ॥ ॥   
+   लोकाः समस्ताः सुखिनो भवन्तु ॥ ॥   
   
  Meaning 158  
 Let the subjects be governed and nourished by the rulers, who  
@@ -4870,12 +4872,12 @@ people (brAhmana) have goodness and let all people be happy..
 लोकाः = the worlds; the people;  
 समस्ताः = all; the entire;  
 सुखिनो = happy people;  
-भवंतु = May them be so or let them be so or let them happen;    
+भवन्तु = May them be so or let them be so or let them happen;    
 Shloka 159 Benediction  
   
     
    काले वर्षन्तु पर्जन्यः पृथिवी शस्यशालिनी ।  
-   देशोयं क्षोभरहिताः ब्राह्मणाः संतु निर्भयः ॥ ॥   
+   देशोयं क्षोभरहिताः ब्राह्मणाः सन्तु निर्भयः ॥ ॥   
   
  Meaning 159  
 Let the rains shower in time, Let the earth brim with food grains,  
@@ -4894,7 +4896,7 @@ fear..
 देशोयं = this country;  
 क्षोभरहिताः = one free from affliction or agitation;  
 ब्राह्मणाः = the Brahmin community; certain specified portions of the Vedas;  
-संतु = May them be so;  
+सन्तु = May them be so;  
 निर्भयः = fearless;    
 Shloka 160 Benediction  
   
@@ -4998,7 +5000,7 @@ Shloka 164 Sun
   
     
    ॐ ध्येयः सदा सवितृमण्डल मध्यवर्ति ।  
-   नारायणः सरसिजासन्संनिविष्टः ।  
+   नारायणः सरसिजासन्सन्निविष्टः ।  
    केयूरवान मकरकुण्डलवान किरीटी ।  
    हारी हिरण्मयवपुर्धृतशङ्खचक्रः ॥ ॥   
   
@@ -5162,7 +5164,7 @@ Shloka 168 Ganga
   
     
    गङ्गेच यमुने चैव गोदावरी सरस्वती ।  
-   नर्मदा सिंधु कावेरी जलेऽस्मिन् सन्निधं कुरु ॥ ॥   
+   नर्मदा सिन्धु कावेरी जलेऽस्मिन् सन्निधं कुरु ॥ ॥   
   
  Meaning 168  
 Oh! (holy rivers) Ganga, Yamuna, Godavari, Sarasvati, Narmada, Sindhu,  
@@ -5177,7 +5179,7 @@ and Kaveri, please be present in this water..
 गोदावरी = river godavari (as goddess);  
 सरस्वती = goddess of knowledge known by this name (as goddess);  
 नर्मदा = river Narmada (as goddess);  
-सिंधु = of the sea;  
+सिन्धु = of the sea;  
 कावेरी = river kaveri (as goddess);  
 जलेऽस्मिन् = in this water;  
 सन्निधं = near, close or in the presence;  
@@ -5265,7 +5267,7 @@ Shloka 172 Morning
   
     
    अहल्या द्रौपदी सीता तारा मन्दोदरी तथा ।  
-   पंचकन्या स्मरेन्नित्यं महापातकनाशनम् ॥ ॥   
+   पञ्चकन्या स्मरेन्नित्यं महापातकनाशनम् ॥ ॥   
   
  Meaning 172  
 Let us remember the five ladies (daughters)  
@@ -5283,17 +5285,17 @@ dormant/inactive till Ram motivated her by his divine touch;
 तारा = wife of Vali, Devi (Tantric);  
 मन्दोदरी = wife of Ravana;  
 तथा = like that (cf. yathA tathA);  
-पंचकन्या = five girls;  
+पञ्चकन्या = five girls;  
 स्मरेत् = remember;  
 नित्यं = always, constant;  
 महापातकनाशनं = that which destroys great sins;    
 Shloka 173 Morning  
   
     
-   ब्रह्मामुरारिस्त्रिपुरांतकारी  
+   ब्रह्मामुरारिस्त्रिपुरान्तकारी  
    भानुशशी भूमिसुतो बुधश्च ।  
    गुरुश्च शुक्रश्च शनि राहु केतवः  
-   कुर्वंतु सर्वे मम सुप्रभातम् ॥ ॥   
+   कुर्वन्तु सर्वे मम सुप्रभातम् ॥ ॥   
   
  Meaning 173  
 Brahma, Murari, Shiva, Sun, Moon, Mangal , Budha, Guru, Shukra,  
@@ -5302,7 +5304,7 @@ Brahma, Murari, Shiva, Sun, Moon, Mangal , Budha, Guru, Shukra,
  %E173  Word Meanings 173;  
   
    
-ब्रह्मामुरारिस्त्रिपुरांतकारी = The Trinity of gods i.e. Brahma,  
+ब्रह्मामुरारिस्त्रिपुरान्तकारी = The Trinity of gods i.e. Brahma,  
 Mura's enemyi.e Vishnu and the destroyer of the three cities i.e. Shiva;  
 भानुशशी = the sun and the moon;  
 भूमिसुतो = same as bhUmisutaH i.e the son of the Earth;  
@@ -5316,14 +5318,14 @@ and Shukracharya, the demons' preceptor;
 शनि = Planet Saturn; one of the 9 Grahas; Saturday;  
 राहु = one of the Navagrahas `Rahu';  
 केतवः = Ketu, south Node;  
-कुर्वंतु = ?? ;  
+कुर्वन्तु = ?? ;  
 सर्वे = all;  
 मम = mine; mymy; mine;  
 सुप्रभातं = good morning;    
 Shloka 174 Morning  
   
     
-   उत्तिष्ठोत्तिष्ठ गोविंद उत्तिष्ठ गरुडध्वज ।  
+   उत्तिष्ठोत्तिष्ठ गोविन्द उत्तिष्ठ गरुडध्वज ।  
    उत्तिष्ठ कमलाकान्त त्रैलोक्यं मङ्गलं कुरु ॥ ॥   
   
  Meaning 174  
@@ -5334,7 +5336,7 @@ Awake the beloved of LakShmi, Bless for the welfare of the three worlds..
   
    
 उत्तिष्ठोत्तिष्ठ = Arise! Arise!;  
-गोविंद = A name of kRiShNa, Govinda, the cowherd boy;  
+गोविन्द = A name of kRiShNa, Govinda, the cowherd boy;  
 उत्तिष्ठ = Arise; rise or get up;  
 गरुडध्वज = Oh! the one having `GaruDa' eagle-like bird as the Flag Emblem;  
 उत्तिष्ठ = Arise; rise or get up;  
@@ -5489,7 +5491,7 @@ light destroy my sins, I salute the light of the Lamp..
 Shloka 180 Misc  
   
     
-   रामस्कंदं हनूमंतं वैनतेयं वृकोदरम् ।  
+   रामस्कन्दं हनूमन्तं वैनतेयं वृकोदरम् ।  
    शयने स्मरणे नित्यं दुःस्वप्नं तस्यनश्यति ॥ ॥   
   
  Meaning 180  
@@ -5500,10 +5502,10 @@ Garuda, and Bheema..
  %E180  Word Meanings 180;  
   
    
-रामस्कंदं = Rama and Skandaor the leaping Rama;  
+रामस्कन्दं = Rama and Skandaor the leaping Rama;  
 राम = Rama;  
-स्कंदम् = Muruga or SubramanyaM;  
-हनूमंतं = Hanuman;  
+स्कन्दम् = Muruga or SubramanyaM;  
+हनूमन्तं = Hanuman;  
 वैनतेयं = the eagle Garuda, the vehicle of Vishnu lit.:the son of VinatA;  
 वृकोदरं = the long-bellyed one, Bheema;  
 शयने = in the bed;  
@@ -5550,7 +5552,7 @@ Shloka 182 Misc
   
     
    त्वमेव माता च पिता त्वमेव ।  
-   त्वमेव बंधुश्च सखा त्वमेव ।  
+   त्वमेव बन्धुश्च सखा त्वमेव ।  
    त्वमेव विद्या द्रविणं त्वमेव ।  
    त्वमेव सर्वं मम देवदेव ॥ ॥   
   
@@ -5567,7 +5569,7 @@ friend, knowledge and wealth.  You are my everything..
 पिता = father;  
 त्वमेव = you alone; you only;  
 त्वमेव = you alone; you only;  
-बंधुः = a relative;  
+बन्धुः = a relative;  
 च = and;  
 सखा = friend;  
 त्वमेव = you alone; you only;  
@@ -5582,12 +5584,12 @@ friend, knowledge and wealth.  You are my everything..
 Shloka 183 Misc  
   
     
-   ॐ णमो अरिहंताणं  
+   ॐ णमो अरिहन्ताणं  
    ॐ णमो सिद्धाणं  
    ॐ णमो आयरियाणं  
    ॐ णमो उवज्झायाणं  
    ॐ णमो लोए सव्वसाहुणं  
-   एसो पंच णमोकारो  
+   एसो पञ्च णमोकारो  
    सव्व पावपणासणो  
    मङ्गलाणं च सव्वेसिं  
    पढमं हवई मङ्गलम् ॥ ॥   
@@ -5767,7 +5769,7 @@ Shloka 189 Misc
    इष्टदेवताभ्यो नमः । कुलदेवताभ्यो नमः ।  
    स्थानदेवताभ्यो नमः । वास्तुदेवताभ्यां नमः ।  
    सर्वेभ्यो देवेभ्यो नमो नमः । अविघ्नमस्तु ।  
-   देवतावंदनम् ॥ ॥   
+   देवतावन्दनम् ॥ ॥   
   
  Meaning 189  
 Salutations to Lors Ganesha.  
@@ -5806,7 +5808,7 @@ temple, etc. architecture;
 नमो = bowing; salute;  
 नमः = bowing; salutation;  
 अविघ्नमस्तु = let there be no obstacles or hurdles;  
-देवतावंदनं = bowing to or worship of the gods;    
+देवतावन्दनं = bowing to or worship of the gods;    
 Shloka 190 Misc  
   
     
@@ -5841,8 +5843,8 @@ Shloka 191 Misc
   
     
    योगेन चित्तस्य पदेन वाचः मलं शरीरस्य च वैद्यकेन ।  
-   योपाकरोत्तं प्रवरं मुनीनां पतंजलिं  
-   प्रांजलिरानतोऽस्मि ॥ ॥   
+   योपाकरोत्तं प्रवरं मुनीनां पतञ्जलिं  
+   प्राञ्जलिरानतोऽस्मि ॥ ॥   
   
  Meaning 191  
 With joined hands, I stay bowed to Patanjali-the pereminent among the  
@@ -5865,7 +5867,7 @@ impurities of the mind by (explaining) yoga, of the speech by
 योपाकरोत् = (yaH) who (apAkarot) removed; repelled;  
 प्रवर = the chief; the great; the preeminent;  
 मुनीनां = of the sages;  
-प्रांजलिः = with joined hands;  
+प्राञ्जलिः = with joined hands;  
 आनतोऽस्मि = am (asmi) bowed, prostrated (AnataH);    
 Shloka 192 Misc  
   
@@ -5893,7 +5895,7 @@ and Shiva;
 Shloka 193 Misc  
   
     
-   नारायणं नमस्कृत्य नरंचैव नरोत्तमम् ।  
+   नारायणं नमस्कृत्य नरञ्चैव नरोत्तमम् ।  
    देवीं सरस्वतिं व्यास ततो जय मुदीरयेत् ॥ ॥   
   
  Meaning 193  
@@ -6001,7 +6003,7 @@ Shloka 197 Misc
   
     
    हयग्रीव हयग्रीव हयग्रीवेति वादिनम् ।  
-   नरं मुंचन्ति पापानि दरिद्रमिव योषितः ॥ ॥   
+   नरं मुञ्चन्ति पापानि दरिद्रमिव योषितः ॥ ॥   
   
  Meaning 197  
 Keep repeating / chanting the name of HayagrIva. It frees men of their  
@@ -6015,7 +6017,7 @@ sins and removes their poverty..
 हयग्रीवेति = hayagrIva and iti;  
 वादिनं = speaker; disputant, plaintiff;  
 नरं = man;  
-मुंचन्ति = release; untie;  
+मुञ्चन्ति = release; untie;  
 पापानि = sins;  
 दरिद्रमिव = like a poor person;  
 योषितः = women;    
@@ -6521,7 +6523,7 @@ me!.
 Shloka 216 Shiva  
   
     
-   असितगिरिसमस्यात् कज्जलं सिंधूपात्रे  
+   असितगिरिसमस्यात् कज्जलं सिन्धूपात्रे  
    सुरतरुवरशाखा लेखनी पत्रमूर्वी ।  
    लिखति यदि गृहित्वा शारदा सर्वकालं  
    तदपि तव गुणानामीश पारं न याति ॥ ॥   
@@ -6540,7 +6542,7 @@ all of your Good Qualities, oh Isha!
    
 असितगिरिसमस्यात् = like (samaM) a black (asita) mountain (giri);  
 कज्जलं = eye ointment; collyrium or black ink;  
-सिंधुपात्रे = in the pot (pAtra) of ocean (si.ndhu) [7];  
+सिन्धुपात्रे = in the pot (pAtra) of ocean (si.ndhu) [7];  
 सुरतरुवर = the heavenly tree;  
 शाखा = a branch;;  
 लेखनी = writing instrument;  
@@ -6576,7 +6578,7 @@ Excelling the best, the auspicious Self Itself..
    
 शिवं = to the auspicious One;;  
 शिवकरं = to the One who provides auspiciousness;  
-शांतं = to the embodiment of Peace;  
+शान्तं = to the embodiment of Peace;  
 शिवात्मानं = to the One who is the auspicious Self Itself;  
 शिवोत्तमम् = to the One who is best of all auspicious beings;  
 शिवमार्ग = the auspicious approach;  
@@ -6630,7 +6632,7 @@ Even a moment of forgetfullness brings ...; true is my word..
 Shloka 9999 %  
   
     
-   ॐ शांतिः शांतिः शांतिः ।   
+   ॐ शान्तिः शान्तिः शान्तिः ।   
   
  Meaning 9999  
          OM Peace, Peace, Peace!.  
@@ -6640,9 +6642,9 @@ Shloka 9999 %
    
 ॐ = The `PraNava or Onkara mantra' consisting of the vowels a and  
 u and the consonant `m'; also written as `OM'; refers to Brahman;  
-शांतिः = Peace; tranquility;  
-शांतिः = Peace; tranquility;  
-शांतिः = Peace; tranquility;   
+शान्तिः = Peace; tranquility;  
+शान्तिः = Peace; tranquility;  
+शान्तिः = Peace; tranquility;   
   
   
   

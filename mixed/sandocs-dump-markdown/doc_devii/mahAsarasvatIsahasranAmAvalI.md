@@ -1,23 +1,24 @@
-+++
-"Text title" = "mahaasarasvatI sahasranAma stotram"
-"File name" = "sarasvati1000New1.itx"
-itxtitle = "mahAsarasvatIsahasranAmAvalI"
-engtitle = "1000 names of shrI mahAsarasvatI"
-Category = "sahasranAmAvalI, devii, sarasvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com, Karthik Raman karthik.raman at gmail.com"
-"Latest update" = "January 26, 2004, July 19, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महासरस्वतीसहस्रनामावली"
+---
+Author: Traditional
+Category: sahasranAmAvalI, devii, sarasvatI, stotra, devI
+File name: sarasvati1000New1.itx
+Language: Sanskrit
+Latest update: January 26, 2004, July 19, 2016
+Location: doc_devii
+Proofread by: Kirk Wortman kirkwort at hotmail.com, Karthik Raman karthik.raman at
+  gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahaasarasvatI sahasranAma stotram
+Texttype: stotra
+engtitle: 1000 names of shrI mahAsarasvatI
+itxtitle: mahAsarasvatIsahasranAmAvalI
+title: महासरस्वतीसहस्रनामावली
 
-+++
+---
   
  श्रीमहासरस्वतीसहस्रनामावली   
 ॐ वाचे नमः ।  
@@ -180,7 +181,7 @@ title = "महासरस्वतीसहस्रनामावली"
 ॐ शान्त्यै नमः ।  
 ॐ शान्तिकर्यै नमः ।  
 ॐ शान्तायै नमः ।  
-ॐ शान्ताचारप्रियंकर्यै नमः ।  
+ॐ शान्ताचारप्रियङ्कर्यै नमः ।  
 ॐ शीललभ्यायै नमः ।  
 ॐ शीलवत्यै नमः ।  
 ॐ श्रीमात्रे नमः ॥ १५०॥  

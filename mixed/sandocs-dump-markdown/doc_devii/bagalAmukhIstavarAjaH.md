@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Bagalamukhi Stavaraja"
-"File name" = "bagalAmukhIstavarAjaH.itx"
-itxtitle = "bagalAmukhIstavarAjaH"
-engtitle = "bagalAmukhIstavarAjaH"
-Category = "devii, dashamahAvidyA, stavarAja"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(text)"
-"Latest update" = "May 9, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "बगलामुखीस्तवराजः"
+---
+Category: devii, dashamahAvidyA, stavarAja
+File name: bagalAmukhIstavarAjaH.itx
+Indexextra: (text)
+Language: Sanskrit
+Latest update: May 9, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bagalamukhi Stavaraja
+engtitle: bagalAmukhIstavarAjaH
+itxtitle: bagalAmukhIstavarAjaH
+title: बगलामुखीस्तवराजः
 
-+++
+---
   
  श्रीबगलामुखीस्तवराजः   
 वन्दे सकलसन्देहदावपावकमीश्वरम् ।  
@@ -150,7 +150,7 @@ title = "बगलामुखीस्तवराजः"
      प्रणोदय विरोधय प्रविलय प्रबद्धारिणाम् ॥ ४०॥  
   
 पार्वति कृपालसन्मयि कटाक्षपातं मना-  
-     गनाकुलतया क्षणं क्षिप विपक्षसंक्षोभिणि ।  
+     गनाकुलतया क्षणं क्षिप विपक्षसङ्क्षोभिणि ।  
 यदीक्षणपथं गतः सकृदपि प्रभुः कश्चन  
      स्फुटं मम वशंवदो भवतु तेन पीताम्बरे ॥ ४१॥  
   

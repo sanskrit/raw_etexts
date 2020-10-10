@@ -1,23 +1,23 @@
-+++
-"Text title" = "ShrI Shankaracharyashtakam"
-"File name" = "shankarAchArya8shAntAnanda.itx"
-itxtitle = "shrIshaNkarAchAryAShTakam (shAntAnandasarasvativirachitam)"
-engtitle = "ShrI Shankaracharyashtakam"
-Category = "aShTaka, deities_misc, gurudev, shankarAchArya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Swami ShAntanandasaraswati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "July 14, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीशण्कराचार्याष्टकम् (शान्तानन्दसरस्वतिविरचितम्)"
+---
+Author: Swami ShAntanandasaraswati
+Category: aShTaka, deities_misc, gurudev, shankarAchArya
+File name: shankarAchArya8shAntAnanda.itx
+Language: Sanskrit
+Latest update: July 14, 2016
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: ShrI Shankaracharyashtakam
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: ShrI Shankaracharyashtakam
+itxtitle: shrIshaNkarAchAryAShTakam (shAntAnandasarasvativirachitam)
+title: श्रीशण्कराचार्याष्टकम् (शान्तानन्दसरस्वतिविरचितम्)
 
-+++
+---
   
  श्रीशङ्कराचार्याष्टकम्   
 श्रीगणेशाय नमः ।  

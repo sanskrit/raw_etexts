@@ -1,23 +1,23 @@
-+++
-"Text title" = "siddhagItA"
-"File name" = "siddhagiitaa.itx"
-itxtitle = "siddhagItA"
-engtitle = "Siddha Gita"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "vAsiShThamahArAmAyaNe mokShopAyeShUpashamaprakaraNe"
-Indexextra = "(yogavAiShTha upAsanA prakaraNa sarga 8 (scanned) (meaning))"
-"Latest update" = "March 2, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धगीता"
+---
+Category: gItA, giitaa
+Description-comments: vAsiShThamahArAmAyaNe mokShopAyeShUpashamaprakaraNe
+File name: siddhagiitaa.itx
+Indexextra: (yogavAiShTha upAsanA prakaraNa sarga 8 (scanned) (meaning))
+Language: Sanskrit
+Latest update: March 2, 2013
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: siddhagItA
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Siddha Gita
+itxtitle: siddhagItA
+title: सिद्धगीता
 
-+++
+---
   
  सिद्धगीता   
   

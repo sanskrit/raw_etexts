@@ -1,24 +1,24 @@
-+++
-"Text title" = "Gangashtapadi"
-"File name" = "gangAShTapadI.itx"
-itxtitle = "gaNgAShTapadI (jayadevakRitau)"
-engtitle = "gangAShTapadI"
-Category = "devii, nadI, devI, jayadeva, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Jayadeva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Proofread by" = "Shree Devi Kumar shreeshrii at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "November 3, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाष्टपदी (जयदेवकृइतौ)"
+---
+Author: Jayadeva
+Category: devii, nadI, devI, jayadeva, aShTaka
+File name: gangAShTapadI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 3, 2019
+Location: doc_devii
+Proofread by: Shree Devi Kumar shreeshrii at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangashtapadi
+Transliterated by: Shree Devi Kumar shreeshrii at gmail.com
+engtitle: gangAShTapadI
+itxtitle: gaNgAShTapadI (jayadevakRitau)
+title: गण्गाष्टपदी (जयदेवकृइतौ)
 
-+++
+---
   
  गङ्गाष्टपदी   
 ॥ श्रीगङ्गायै नमः ॥  

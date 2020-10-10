@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAjarAjeshvaryaShTottarashatanAmAvalI"
-"File name" = "rAjarAjeshvarI108nAma.itx"
-itxtitle = "rAjarAjeshvaryaShTottarashatanAmAvalI"
-engtitle = "rAjarAjeshvaryaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "August 16, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राजराजेश्वर्यष्टोत्तरशतनामावली"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, devI
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: rAjarAjeshvarI108nAma.itx
+Language: Sanskrit
+Latest update: August 16, 2014
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAjarAjeshvaryaShTottarashatanAmAvalI
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: rAjarAjeshvaryaShTottarashatanAmAvalI
+itxtitle: rAjarAjeshvaryaShTottarashatanAmAvalI
+title: राजराजेश्वर्यष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीराजराजेश्वर्यष्टोत्तरशतनामावलिः   
   
@@ -30,7 +30,7 @@ title = "राजराजेश्वर्यष्टोत्तरशत�
 ॐ बालात्रिपुरसुन्दर्यै नमः ।  
 ॐ सर्वेश्वर्यै नमः ।  
 ॐ कल्याणेश्वर्यै नमः ।  
-ॐ सर्वसंक्षोभिन्यै नमः ।  
+ॐ सर्वसङ्क्षोभिन्यै नमः ।  
 ॐ सर्वलोकशरीरिण्यै नमः ।  
 ॐ सौगन्धिकामिलद्वेष्ट्यै नमः । १०  
 ॐ मन्त्रिण्यै नमः ।  

@@ -1,42 +1,42 @@
-+++
-"Text title" = "navagrahastotra sArtha"
-"File name" = "navanew.itx"
-itxtitle = "navagrahastotram"
-engtitle = "navagrahastotra (with meanings)"
-Category = "nava, navagraha, stotra, vyAsa"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "vyAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Translated by" = "Vidhyanath Rao and Srinivas Kalyanaraman"
-Indexextra = "(with meanings, also booklet)"
-"Latest update" = "December 1, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रहस्तोत्रम्"
+---
+Author: vyAsa
+Category: nava, navagraha, stotra, vyAsa
+File name: navanew.itx
+Indexextra: (with meanings, also booklet)
+Language: Sanskrit
+Latest update: December 1, 2013
+Location: doc_z_misc_navagraha
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: navagrahastotra sArtha
+Texttype: stotra
+Translated by: Vidhyanath Rao and Srinivas Kalyanaraman
+Transliterated by: NA
+engtitle: navagrahastotra (with meanings)
+itxtitle: navagrahastotram
+title: नवग्रहस्तोत्रम्
 
-+++
+---
   
  नवग्रहस्तोत्र   
   
-जपाकुसुमसंकाशं काश्यपेयं महाद्युतिम् ।  
+जपाकुसुमसङ्काशं काश्यपेयं महाद्युतिम् ।  
 तमोऽरिं सर्वपापघ्नं प्रणतोऽस्मि दिवाकरम् ॥ १॥  
   
  I pray to the Sun, the day-maker, destroyer of  
 all sins, the enemy of darkness, of great  
 brilliance, the descendent of KAshyapa, the  
 one who shines like the japA flower .   
-दधिशङ्खतुषाराभं क्षीरोदार्णवसंभवम् ।  
+दधिशङ्खतुषाराभं क्षीरोदार्णवसम्भवम् ।  
 नमामि शशिनं सोमं शम्भोर्मुकुटभूषणम् ॥ २॥  
   
  I pray to the Moon who shines coolly like curds  
 or a white shell, who arose from the ocean  
 of milk, who has a hare on him, Soma, who  
 is the ornament of Shiva's hair .   
-धरणीगर्भसंभूतं विद्युत्कान्तिसमप्रभम् ।  
+धरणीगर्भसम्भूतं विद्युत्कान्तिसमप्रभम् ।  
 कुमारं शक्तिहस्तं तं मङ्गलं प्रणमाम्यहम् ॥ ३॥  
   
  I pray to Mars, born of Earth, who shines  
@@ -47,7 +47,7 @@ young man who carries a spear .
   
  I pray to Mercury, dark like the bud of millet,  
 of unequalled beauty, gentle and agreeable .   
-देवानां च ऋषीणां च गुरुं काञ्चनसंनिभम् ।  
+देवानां च ऋषीणां च गुरुं काञ्चनसन्निभम् ।  
 बुद्धिभूतं त्रिलोकेशं तं नमामि बृहस्पतिम् ॥ ५॥  
   
  I pray to Jupiter, the teacher of gods and  
@@ -59,20 +59,20 @@ three worlds .
  I pray to Venus, the utimate preceptor of  
 demons, promulgator of all learning, he who  
 shines like the fiber of snow-white jasmine .   
-नीलांजनसमाभासं रविपुत्रं यमाग्रजम् ।  
-छायामार्तण्डसंभूतं तं नमामि शनैश्चरम् ॥ ७॥  
+नीलाञ्जनसमाभासं रविपुत्रं यमाग्रजम् ।  
+छायामार्तण्डसम्भूतं तं नमामि शनैश्चरम् ॥ ७॥  
   
  I pray to Saturn, the slow moving, born of  
 Shade and Sun, the elder brother of Yama,  
 the offspring of Sun, he who has the  
 appearance of black collyrium .   
 अर्धकायं महावीर्यं चन्द्रादित्यविमर्दनम् ।  
-सिंहिकागर्भसंभूतं तं राहुं प्रणमाम्यहम् ॥ ८॥  
+सिंहिकागर्भसम्भूतं तं राहुं प्रणमाम्यहम् ॥ ८॥  
   
  I pray to Rahu, having half a body, of great  
 bravery, the eclipser of the Moon and the Sun,  
 born of SimhikA .   
-पलाशपुष्पसंकाशं तारकाग्रहमस्तकम् ।  
+पलाशपुष्पसङ्काशं तारकाग्रहमस्तकम् ।  
 रौद्रं रौद्रात्मकं घोरं तं केतुं प्रणमाम्यहम् ॥ ९॥  
   
  I pray to Ketu, who has the appearance of  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "gItA sUchI"
-"File name" = "allgita.itx"
-itxtitle = "gItA sUchI"
-engtitle = "A list of known Gita"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(a list of known gItA-s Old)"
-"Latest update" = "June 2, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गीता सूची"
+---
+Category: gItA, giitaa
+File name: allgita.itx
+Indexextra: (a list of known gItA-s Old)
+Language: Sanskrit
+Latest update: June 2, 2012
+Location: doc_giitaa
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: gItA sUchI
+Transliterated by: NA
+engtitle: A list of known Gita
+itxtitle: gItA sUchI
+title: गीता सूची
 
-+++
+---
   
  गीता सुची   
   
@@ -47,9 +47,9 @@ Close to Bhagavadgita format and contents.
   
 पराशरगीता:  From Mahabharata, mokShaparva as a part of shA.ntiparva.  
   
-पांडवगीता:  From Mahabharata.  
+पाण्डवगीता:  From Mahabharata.  
   
-पिंगलगीता:  From Mahabharata, mokShaparva as a part of shA.ntiparva.  
+पिङ्गलगीता:  From Mahabharata, mokShaparva as a part of shA.ntiparva.  
   
 भगवद्गीता:  From Mahabharata, adhyAya 25 through 42 of bhIShmaparva.  
   
@@ -65,7 +65,7 @@ portion sarga 173 through 181.
 भिक्षुगीता:  From adhyAya  
 twentythird  of ska.ndha 11 of shrImadbhAgavatapurANa.  
   
-मंकीगीता:  From Mahabharata, mokShaparva as a part of shA.ntiparva.  
+मङ्कीगीता:  From Mahabharata, mokShaparva as a part of shA.ntiparva.  
   
 यमगीता:  Three types: 1) in third a.nsha of vishNupurANa upto seventh chapter,  
 2) in the third khaNDa adhyAya 381 of agnipurANa, and 3) in eighth  
@@ -89,7 +89,7 @@ The rAmagItA has eighteen chapters in the second pAda of upAsanAkANDa.
   
 शिवगीता:  From pAtAlakhaNDa of padmapurANa.  
   
-शिवशंपाकगीता:  From Mahabharata, mokShaparva as a part of shA.ntiparva.  
+शिवशम्पाकगीता:  From Mahabharata, mokShaparva as a part of shA.ntiparva.  
   
 सूतगीता:  From ska.ndapurANa, thirteenth to twentieth adhyAya-s  
 onwards of yaGYavaibhavakhaNDa.  

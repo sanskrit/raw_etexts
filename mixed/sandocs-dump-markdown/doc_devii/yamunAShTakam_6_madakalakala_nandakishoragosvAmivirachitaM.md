@@ -1,22 +1,22 @@
-+++
-"Text title" = "yamunAShTakam 6"
-"File name" = "yamunAShTakam6.itx"
-itxtitle = "yamunAShTakam 6 (madakalakala nandakishoragosvAmivirachitaM)"
-engtitle = "yamunAShTakam 6"
-Category = "devii, nadI, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "nandakishoragosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "January 15, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनाष्टकम् ६ (मदकलकल नन्दकिशोरगोस्वामिविरचितं)"
+---
+Author: nandakishoragosvAmi
+Category: devii, nadI, aShTaka, devI
+File name: yamunAShTakam6.itx
+Language: Sanskrit
+Latest update: January 15, 2019
+Location: doc_devii
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunAShTakam 6
+engtitle: yamunAShTakam 6
+itxtitle: yamunAShTakam 6 (madakalakala nandakishoragosvAmivirachitaM)
+title: यमुनाष्टकम् ६ (मदकलकल नन्दकिशोरगोस्वामिविरचितं)
 
-+++
+---
   
  श्रीयमुनाष्टकम् ६   
 मद-कलकल-कलबिङ्क-कुलाकुल-कोक-कुतूहल-नीरे  

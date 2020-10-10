@@ -1,19 +1,19 @@
-+++
-"Text title" = "Ashta Bhairava Dhyana Stotram"
-"File name" = "aShTabhairavadhyAnastotram.itx"
-itxtitle = "aShTabhairavadhyAnastotram"
-engtitle = "aShTabhairavadhyAnastotram"
-Category = "shiva, dhyAnam"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "July 19, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अष्टभैरवध्यानस्तोत्रम्"
+---
+Category: shiva, dhyAnam
+File name: aShTabhairavadhyAnastotram.itx
+Language: Sanskrit
+Latest update: July 19, 2019
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Ashta Bhairava Dhyana Stotram
+engtitle: aShTabhairavadhyAnastotram
+itxtitle: aShTabhairavadhyAnastotram
+title: अष्टभैरवध्यानस्तोत्रम्
 
-+++
+---
   
  अष्टभैरव ध्यानस्तोत्रम्   
 भैरवः पूर्णरूपोहि शङ्करस्य परात्मनः ।  

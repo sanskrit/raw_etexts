@@ -1,23 +1,23 @@
-+++
-"Text title" = "viShNorakArAdyaShTottarashatanAmastotram"
-"File name" = "viShNorakArAdyaShTottarashatanAmastotram.itx"
-itxtitle = "viShNorakArAdyaShTottarashatanAmastotram"
-engtitle = "viShNorakArAdyaShTottarashatanAmastotram"
-Category = "vishhnu, aShTottarashatanAma"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णोरकाराद्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, aShTottarashatanAma
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viShNorakArAdyaShTottarashatanAmastotram.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNorakArAdyaShTottarashatanAmastotram
+engtitle: viShNorakArAdyaShTottarashatanAmastotram
+itxtitle: viShNorakArAdyaShTottarashatanAmastotram
+title: विष्णोरकाराद्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीविष्णोरकाराद्यष्टोत्तरशतनामस्तोत्रम्   
   

@@ -1,21 +1,21 @@
-+++
-"Text title" = "mahAgaNapatimUlamantrapadamAlAstotram"
-"File name" = "mahAgaNapatimUlamantrapadamAlAstotram.itx"
-itxtitle = "mahAgaNapatimUlamantrapadamAlAstotram"
-engtitle = "mahAgaNapatimUlamantrapadamAlAstotram"
-Category = "mAlAmantra, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "anonymous456an at gmail.com"
-"Proofread by" = "anonymous456an at gmail.com"
-"Latest update" = "June 16, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महागणपतिमूलमन्त्रपदमालास्तोत्रम्"
+---
+Category: mAlAmantra, ganesha
+File name: mahAgaNapatimUlamantrapadamAlAstotram.itx
+Language: Sanskrit
+Latest update: June 16, 2017
+Location: doc_ganesha
+Proofread by: anonymous456an at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: mahAgaNapatimUlamantrapadamAlAstotram
+Transliterated by: anonymous456an at gmail.com
+engtitle: mahAgaNapatimUlamantrapadamAlAstotram
+itxtitle: mahAgaNapatimUlamantrapadamAlAstotram
+title: महागणपतिमूलमन्त्रपदमालास्तोत्रम्
 
-+++
+---
   
  श्रीमहागणपतिमूलमन्त्रपदमालास्तोत्रम्   
   

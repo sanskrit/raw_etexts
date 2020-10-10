@@ -1,22 +1,22 @@
-+++
-"Text title" = "Kshamashodashistotram"
-"File name" = "kShamAShoDashistotram.itx"
-itxtitle = "kShamAShoDashistotram"
-engtitle = "kShamAShoDashistotram"
-Category = "misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Ramanuja Stotramala"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "क्षमाषोडशिस्तोत्रम्"
+---
+Category: misc
+Description/comments: Ramanuja Stotramala
+File name: kShamAShoDashistotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Kshamashodashistotram
+engtitle: kShamAShoDashistotram
+itxtitle: kShamAShoDashistotram
+title: क्षमाषोडशिस्तोत्रम्
 
-+++
+---
   
  क्षमाषोडशिस्तोत्रम्   
 श्रीवेदव्यासभट्टार्यपुत्ररत्नैः श्रीवेदाचार्यभट्टैरनुगृहीता  
@@ -103,7 +103,7 @@ title = "क्षमाषोडशिस्तोत्रम्"
      तत्ते त्वं क्षमया निरस्य कुरु मे त्वद्ध्यानयोग्यां दशाम् ॥ १५॥  
   
 अल्पं चेदनवेक्षणीयसरणावारोप्यतां मत्कृतं  
-     किञ्चिद्भूरि भवेदिदं यदि गुरून् संप्रेक्ष्य मे त्यज्यताम् ।  
+     किञ्चिद्भूरि भवेदिदं यदि गुरून् सम्प्रेक्ष्य मे त्यज्यताम् ।  
 यद्वाऽनन्तमनन्तवैभवजुषो रङ्गक्षमावल्लभ!  
      त्वत्क्षान्त्याः खलु लक्ष्यतामनुगुणा- मानीयतां तत्त्वया ॥ १६॥  
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "vishvakarmAShTottarashatanAmAvalI"
-"File name" = "vishvakarmAShTottarashatanAmAvalI.itx"
-itxtitle = "vishvakarmAShTottarashatanAmAvalI"
-engtitle = "vishvakarmAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com, PSA Easwaran"
-Indexextra = "(nAmAvalI)"
-Acknowledge-Permission = "vishwakarmasamaj.com"
-"Latest update" = "June 30, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वकर्माष्टोत्तरशतनामावली"
+---
+Acknowledge-Permission: vishwakarmasamaj.com
+Category: aShTottarashatanAmAvalI, deities_misc
+File name: vishvakarmAShTottarashatanAmAvalI.itx
+Indexextra: (nAmAvalI)
+Language: Sanskrit
+Latest update: June 30, 2017
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vishvakarmAShTottarashatanAmAvalI
+engtitle: vishvakarmAShTottarashatanAmAvalI
+itxtitle: vishvakarmAShTottarashatanAmAvalI
+title: विश्वकर्माष्टोत्तरशतनामावली
 
-+++
+---
   
  विश्वकर्माष्टोत्तरशतनामावलिः   
   

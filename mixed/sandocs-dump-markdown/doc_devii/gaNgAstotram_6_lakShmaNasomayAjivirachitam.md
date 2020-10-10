@@ -1,25 +1,25 @@
-+++
-"Text title" = "Gangastotram 6"
-"File name" = "gangAstotraM6.itx"
-itxtitle = "gaNgAstotram 6 (lakShmaNasomayAjivirachitam)"
-engtitle = "gangAstotraM 6"
-Category = "devii, devI, nadI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Lakshmana Somaya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Proofread by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Description/comments" = "Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty"
-Indexextra = "(Scan)"
-"Latest update" = "December 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गास्तोत्रम् ६ (लक्ष्मणसोमयाजिविरचितम्)"
+---
+Author: Lakshmana Somaya
+Category: devii, devI, nadI
+Description/comments: Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty
+File name: gangAstotraM6.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 7, 2019
+Location: doc_devii
+Proofread by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangastotram 6
+Transliterated by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+engtitle: gangAstotraM 6
+itxtitle: gaNgAstotram 6 (lakShmaNasomayAjivirachitam)
+title: गण्गास्तोत्रम् ६ (लक्ष्मणसोमयाजिविरचितम्)
 
-+++
+---
   
  गङ्गास्तोत्रं ६   
 श्रीगणेशाय नमः ।  
@@ -49,7 +49,7 @@ title = "गण्गास्तोत्रम् ६ (लक्ष्मण�
      साष्टाङ्गं प्रणमामि तारय परं मां देवि दुःखार्णवात् ॥ ५॥  
   
 गङ्गे मङ्गलदायिभव्यचरिते रिङ्गत्तरङ्गोज्ज्वले  
-     सांङ्गो मेऽस्तु मनोरथस्त्वयि सदा स्नानेन पानेन च ।  
+     साङ्ङ्गो मेऽस्तु मनोरथस्त्वयि सदा स्नानेन पानेन च ।  
 एतावत्तु वृतं मया तव पुनस्तीरे सदा सात्त्विकै  
      वेदान्तार्थविचारतत्परतरो नेष्ये चिरं वासरान् ॥ ६॥  
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "brAhmIvidyA 2"
-"File name" = "brAhmIvidyA2.itx"
-itxtitle = "brAhmIvidyA 2"
-engtitle = "brAhmIvidyA 2"
-Category = "misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "BhaktivivekasAra"
-Indexextra = "(Scanned)"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्राह्मीविद्या २"
+---
+Category: misc
+Description/comments: BhaktivivekasAra
+File name: brAhmIvidyA2.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: brAhmIvidyA 2
+engtitle: brAhmIvidyA 2
+itxtitle: brAhmIvidyA 2
+title: ब्राह्मीविद्या २
 
-+++
+---
   
  ब्राह्मी विद्या २   
 अथोच्यते ब्रह्मविद्या सद्यः प्रत्ययकारिणीम् ।  

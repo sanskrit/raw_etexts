@@ -1,21 +1,21 @@
-+++
-"Text title" = "paramaha.nsopaniShat"
-"File name" = "paramahamsa_upan.itx"
-itxtitle = "paramahaMsopaniShat"
-engtitle = "Paramahansopanishat"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Anshuman Pandey pandey at umich.edu"
-"Proofread by" = "Anshuman Pandey pandey at umich.edu"
-"Latest update" = "April 16, 1996"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परमहंसोपनिषत्"
+---
+Category: upanishhat, upanishad
+File name: paramahamsa_upan.itx
+Language: Sanskrit
+Latest update: April 16, 1996
+Location: doc_upanishhat
+Proofread by: Anshuman Pandey pandey at umich.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: upanishhat
+Text title: paramaha.nsopaniShat
+Transliterated by: Anshuman Pandey pandey at umich.edu
+engtitle: Paramahansopanishat
+itxtitle: paramahaMsopaniShat
+title: परमहंसोपनिषत्
 
-+++
+---
   
  परमहंसोपनिषत्   
   
@@ -34,14 +34,14 @@ title = "परमहंसोपनिषत्"
 तत्सर्वदा मय्येवावतिष्टते तस्मादहं च तस्मिन्नेवावस्थीयते ।  
 असौ स्वपुत्रमित्रकलत्रबन्व्वादीञ्शिखायज्ञोपवीते  
 स्वाध्यायं च सर्वकर्माणि  
-संन्यस्यायं ब्रह्माण्डं च हित्वा कौपीनं दण्डमाच्छादनं च  
+सन्न्यस्यायं ब्रह्माण्डं च हित्वा कौपीनं दण्डमाच्छादनं च  
 स्वशरीरोपभोगार्थाय च लोकस्योपकारार्थाय च परिग्रहेत्तच्च न  
 मुख्योऽस्ति कोऽयं मुख्य इति चेदयं मुख्यः ॥ १॥  
   
 न दण्डं न शिखं न यज्ञोपवीतं न चाच्छादनं चरति परमहंसः ।  
 न शितं न चोष्णं न सुखं न दुःखं न मानावमाने च षडूर्मिवर्जं  
 निन्दागर्वमत्सरदम्मदर्पेच्छाद्वेषसुखदुःखकामकोधलोभमोहहर्षसु  
-उयाहंकारादींश्च हित्वा स्ववपुः कुणपमिव दृष्यते  
+उयाहङ्कारादींश्च हित्वा स्ववपुः कुणपमिव दृष्यते  
 यतस्तद्वपुरपध्वस्तं संशयविपरीतमिथ्याज्ञानानां यो हेतुस्तेन  
 नित्यनिवृत्तस्तन्नित्यबोधस्तत्स्वयमेवावस्थितिस्तं  
 शन्तमचलमद्वयानन्दविज्ञानघन एवास्मि ।  

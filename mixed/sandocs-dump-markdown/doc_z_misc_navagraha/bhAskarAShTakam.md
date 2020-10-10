@@ -1,20 +1,20 @@
-+++
-"Text title" = "Shri Bhaskarashtakam"
-"File name" = "bhAskarAShTakam.itx"
-itxtitle = "bhAskarAShTakam"
-engtitle = "bhAskarAShTakam"
-Category = "navagraha, aShTaka"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "भास्कराष्टकम्"
+---
+Category: navagraha, aShTaka
+File name: bhAskarAShTakam.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Shri Bhaskarashtakam
+engtitle: bhAskarAShTakam
+itxtitle: bhAskarAShTakam
+title: भास्कराष्टकम्
 
-+++
+---
   
  श्रीभास्कराष्टकम्   
 श्रीपद्मिनीशमरुणोज्ज्वलकान्तिमन्तं  

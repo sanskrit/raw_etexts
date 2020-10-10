@@ -1,21 +1,21 @@
-+++
-"Text title" = "English meaning of horaashaastra chapters 34-45"
-"File name" = "horaashaastraEng34-45.itx"
-itxtitle = "bRihat pArAshara horA shAstra 34-45"
-engtitle = "Brihat Parashara Hora Shastra Chapters 34-45"
-Category = "jyotisha, sociology_astrology"
-Location = "doc_z_misc_sociology_astrology"
-Sublocation = "sociology_astrology"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ahto Jarve"
-Indexextra = "(English meaning of chapters 34-45)"
-"Latest update" = "July 4, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बृइहत् पाराशर होरा शास्त्र ३४-४५"
+---
+Category: jyotisha, sociology_astrology
+File name: horaashaastraEng34-45.itx
+Indexextra: (English meaning of chapters 34-45)
+Language: Sanskrit
+Latest update: July 4, 2011
+Location: doc_z_misc_sociology_astrology
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: sociology_astrology
+Text title: English meaning of horaashaastra chapters 34-45
+Transliterated by: Ahto Jarve
+engtitle: Brihat Parashara Hora Shastra Chapters 34-45
+itxtitle: bRihat pArAshara horA shAstra 34-45
+title: बृइहत् पाराशर होरा शास्त्र ३४-४५
 
-+++
+---
   
  बृहत् पाराशर होरा शास्त्र ३४-४५  
   

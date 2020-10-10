@@ -1,22 +1,23 @@
-+++
-"Text title" = "shivastotramviShNu"
-"File name" = "shivastotramviShNu.itx"
-itxtitle = "shivastotram (viShNukRitam bhAgavatAntargatam)"
-engtitle = "shivastotram by Vishnu"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-Source = "Bhagavatam"
-"Latest update" = "February 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवस्तोत्रम् (विष्णुकृइतम् भागवतान्तर्गतम्)"
+---
+Category: shiva
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: shivastotramviShNu.itx
+Language: Sanskrit
+Latest update: February 28, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Bhagavatam
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivastotramviShNu
+engtitle: shivastotram by Vishnu
+itxtitle: shivastotram (viShNukRitam bhAgavatAntargatam)
+title: शिवस्तोत्रम् (विष्णुकृइतम् भागवतान्तर्गतम्)
 
-+++
+---
   
  विष्णुकृतं शिवस्तोत्रम्   
 श्रीगणेशाय नमः ॥  

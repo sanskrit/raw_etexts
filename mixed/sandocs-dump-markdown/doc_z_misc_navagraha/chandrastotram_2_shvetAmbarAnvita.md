@@ -1,22 +1,22 @@
-+++
-"Text title" = "Chandrastotram 2"
-"File name" = "chandrastotram2.itx"
-itxtitle = "chandrastotram 2 (shvetAmbarAnvita)"
-engtitle = "chandrastotram 2"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्रस्तोत्रम् २ (श्वेताम्बरान्वित)"
+---
+Category: navagraha
+File name: chandrastotram2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Chandrastotram 2
+Transliterated by: PSA Easwaran
+engtitle: chandrastotram 2
+itxtitle: chandrastotram 2 (shvetAmbarAnvita)
+title: चन्द्रस्तोत्रम् २ (श्वेताम्बरान्वित)
 
-+++
+---
   
  चन्द्रस्तोत्रम् २   
 ध्यानं  

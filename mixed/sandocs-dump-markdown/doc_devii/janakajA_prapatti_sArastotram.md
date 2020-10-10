@@ -1,21 +1,21 @@
-+++
-"Text title" = "janakajA prapatti sArastotram"
-"File name" = "janakajAprapattisArastotram.itx"
-itxtitle = "janakajA prapatti sArastotram"
-engtitle = "janakajA prapatti sArastotram"
-Category = "devii, otherforms, prapatti, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(booklet)"
-"Latest update" = "September 22, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जनकजा प्रपत्ति सारस्तोत्रम्"
+---
+Category: devii, otherforms, prapatti, devI
+File name: janakajAprapattisArastotram.itx
+Indexextra: (booklet)
+Language: Sanskrit
+Latest update: September 22, 2017
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: janakajA prapatti sArastotram
+engtitle: janakajA prapatti sArastotram
+itxtitle: janakajA prapatti sArastotram
+title: जनकजा प्रपत्ति सारस्तोत्रम्
 
-+++
+---
   
  श्रीजनकजा प्रपत्ति सारस्तोत्रम्   
   

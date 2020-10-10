@@ -1,20 +1,20 @@
-+++
-"Text title" = "gaNapatigakArAShTottarashatanAmAvalI 108 Ganesha names starting with ga"
-"File name" = "gaNapatigakArAShTottarashatanAmAvalI.itx"
-itxtitle = "gaNapatigakArAShTottarashatanAmAvalI"
-engtitle = "gaNapatigakArAShTottarashatanAmAvalI"
-Category = "ganesha, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपतिगकाराष्टोत्तरशतनामावली"
+---
+Category: ganesha, aShTottarashatanAmAvalI, nAmAvalI
+File name: gaNapatigakArAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNapatigakArAShTottarashatanAmAvalI 108 Ganesha names starting with ga
+engtitle: gaNapatigakArAShTottarashatanAmAvalI
+itxtitle: gaNapatigakArAShTottarashatanAmAvalI
+title: गणपतिगकाराष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीगणपतिगकाराष्टोत्तरशतनामावली   
 ॐ गकाररूपाय नमः ।  

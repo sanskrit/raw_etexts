@@ -1,22 +1,23 @@
-+++
-"Text title" = "shoNAchalashivanAmAvalI"
-"File name" = "shoNAchalashivanAmAvalI.itx"
-itxtitle = "shoNAchalashivanAmAvaliH (skandamahApurANAntargatam)"
-engtitle = "shoNAchalashivanAmAvalI"
-Category = "shiva, aShTottarashatanAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "skAndamahApurANa prathame mAheshvarakhaNDe tRitIyamarUNAchalamAhAtmyaM pUrvArdhaH navamo.adhyAyaH"
-"Latest update" = "December 29, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शोणाचलशिवनामावलिः (स्कन्दमहापुराणान्तर्गतम्)"
+---
+Category: shiva, aShTottarashatanAmAvalI
+Description/comments: skAndamahApurANa prathame mAheshvarakhaNDe tRitIyamarUNAchalamAhAtmyaM
+  pUrvArdhaH navamo.adhyAyaH
+File name: shoNAchalashivanAmAvalI.itx
+Language: Sanskrit
+Latest update: December 29, 2018
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shoNAchalashivanAmAvalI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: shoNAchalashivanAmAvalI
+itxtitle: shoNAchalashivanAmAvaliH (skandamahApurANAntargatam)
+title: शोणाचलशिवनामावलिः (स्कन्दमहापुराणान्तर्गतम्)
 
-+++
+---
   
  शोणाचलशिवनामावलिः   
 ॐ शोणाद्रीशाय नमः ।  
@@ -29,7 +30,7 @@ title = "शोणाचलशिवनामावलिः (स्कन्द
 ॐ सेवकवर्धकाय नमः ।  
 ॐ अक्षिपेयामृताय नमः ।  
 ॐ ईशानाय नमः ।  
-ॐ स्त्रीपुंभावप्रदायकाय नमः ।  
+ॐ स्त्रीपुम्भावप्रदायकाय नमः ।  
 ॐ भक्तविज्ञप्तिसन्धात्रे नमः ।  
 ॐ दीनबन्दिविमोचकाय नमः ।  
 ॐ मुखराङ्घ्रिपतये नमः ।  

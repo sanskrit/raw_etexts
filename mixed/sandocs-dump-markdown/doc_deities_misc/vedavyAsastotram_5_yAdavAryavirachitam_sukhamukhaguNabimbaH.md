@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Veda Vyasa Stotram 5"
-"File name" = "vedavyAsastotram5.itx"
-itxtitle = "vedavyAsastotram 5 (yAdavAryavirachitam sukhamukhaguNabimbaH)"
-engtitle = "vedavyAsastotram 5"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Yadavarya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वेदव्यासस्तोत्रम् ५ (यादवार्यविरचितम् सुखमुखगुणबिम्बः)"
+---
+Author: Yadavarya
+Category: deities_misc, gurudev
+File name: vedavyAsastotram5.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Veda Vyasa Stotram 5
+Transliterated by: Krishnananda Achar
+engtitle: vedavyAsastotram 5
+itxtitle: vedavyAsastotram 5 (yAdavAryavirachitam sukhamukhaguNabimbaH)
+title: वेदव्यासस्तोत्रम् ५ (यादवार्यविरचितम् सुखमुखगुणबिम्बः)
 
-+++
+---
   
  श्रीवेदव्यासस्तोत्रम् ५   
 सुखमुखगुणबिम्बः साधुमार्गावलम्बः  

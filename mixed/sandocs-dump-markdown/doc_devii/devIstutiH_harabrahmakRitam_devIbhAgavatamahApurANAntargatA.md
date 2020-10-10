@@ -1,25 +1,25 @@
-+++
-"Text title" = "devIstuti by Shiva and Brahma"
-"File name" = "devIstutiharabrahma.itx"
-itxtitle = "devIstutiH harabrahmakRitam (devIbhAgavatamahApurANAntargatA)"
-engtitle = "devIstuti by Shiva and Brahma"
-Category = "devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran"
-Source = "Devi Bhagavat Mahapurana 3.5"
-Indexextra = "(Marathi)"
-Acknowledge-Permission = "Vishwas Bhide http://satsangdhara.net"
-"Latest update" = "June 14, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीस्तुतिः हरब्रह्मकृइतम् (देवीभागवतमहापुराणान्तर्गता)"
+---
+Acknowledge-Permission: Vishwas Bhide http://satsangdhara.net
+Category: devii, otherforms, devI
+File name: devIstutiharabrahma.itx
+Indexextra: (Marathi)
+Language: Sanskrit
+Latest update: June 14, 2017
+Location: doc_devii
+Proofread by: Vishwas Bhide, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Devi Bhagavat Mahapurana 3.5
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIstuti by Shiva and Brahma
+Transliterated by: Vishwas Bhide
+engtitle: devIstuti by Shiva and Brahma
+itxtitle: devIstutiH harabrahmakRitam (devIbhAgavatamahApurANAntargatA)
+title: देवीस्तुतिः हरब्रह्मकृइतम् (देवीभागवतमहापुराणान्तर्गता)
 
-+++
+---
   
  हरब्रह्मकृतदेवीस्तुतिः   
   

@@ -1,25 +1,25 @@
-+++
-"Text title" = "maThAmnAyamahAnushAsanam"
-"File name" = "maThAmnAyamahAnushAsanam.itx"
-itxtitle = "maThAmnAyamahAnushAsanam"
-engtitle = "maThAmnAyamahAnushAsanam"
-Category = "shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Texttype = "pramukha"
-Author = "Adyashankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-"Proofread by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-Description-comments = "(importance of and rules for maThas)"
-Indexextra = "(Scan)"
-"Latest update" = "March 9, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मठाम्नायमहानुशासनम्"
+---
+Author: Adyashankaracharya
+Category: shankarAchArya
+Description-comments: (importance of and rules for maThas)
+File name: maThAmnAyamahAnushAsanam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 9, 2013
+Location: doc_z_misc_shankara
+Proofread by: Ankur Nagpal ankurnagpal108 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: maThAmnAyamahAnushAsanam
+Texttype: pramukha
+Transliterated by: Ankur Nagpal ankurnagpal108 at gmail.com
+engtitle: maThAmnAyamahAnushAsanam
+itxtitle: maThAmnAyamahAnushAsanam
+title: मठाम्नायमहानुशासनम्
 
-+++
+---
   
  मठाम्नायमहानुशासनम्   
   
@@ -53,7 +53,7 @@ title = "मठाम्नायमहानुशासनम्"
 पूर्वाम्नायो द्वितीयः स्याद् गोवर्धनमठः स्मृतः ।  
 भोगवारः सम्प्रदायो वनारण्ये पदे स्मृते ॥ १०॥  
   
-पुरुषोत्तमं तु क्षेत्रं स्यांज्जगन्नाथोऽस्य देवता ।  
+पुरुषोत्तमं तु क्षेत्रं स्याञ्ज्जगन्नाथोऽस्य देवता ।  
 विमलाख्याहि देवी स्यादाचार्यः पद्मपादकः ॥ ११॥  
   
 तीर्थं महोदधिः प्रोक्तं ब्रह्मचारी प्रकाशकः ।  
@@ -89,11 +89,11 @@ title = "मठाम्नायमहानुशासनम्"
 अयमात्मा ब्रह्म चेति महावाक्यमुदाहृतम् ॥ २१॥  
   
 अथर्ववेदवक्ता च भृग्वाख्यं गोत्रमुच्यते ।  
-कुरुकाश्मीरकाम्बोजपांचालादिविभागतः ।   
+कुरुकाश्मीरकाम्बोजपाञ्चालादिविभागतः ।   
 ज्योतिर्मठवशा देशा उदीचीदिगवस्थिताः ॥ २२॥  
   
 वासो गिरिवने नित्यं गीताध्ययनतत्परः ।  
-गंभीराचलबुद्धिश्च गिरिनामा स उच्यते ॥ २३॥  
+गम्भीराचलबुद्धिश्च गिरिनामा स उच्यते ॥ २३॥  
   
 वसन् पर्वतमूलेषु प्रौढं ज्ञानं विभर्ति यः ।  
 सारासारं विजानाति पर्वतः परिकीर्त्यते ॥ २४॥  
@@ -230,7 +230,7 @@ title = "मठाम्नायमहानुशासनम्"
 देवी माया तथाचार्य ईश्वरोऽस्य प्रकीर्तितः ॥ ६७॥  
   
 तीर्थ तु मानसं प्रोक्तं ब्रह्मतत्त्वावगाहि तत् ।  
-तत्र संयोगमात्रेण संन्यासं समुपाश्रयेत् ॥ ६८॥  
+तत्र संयोगमात्रेण सन्न्यासं समुपाश्रयेत् ॥ ६८॥  
   
 सूक्ष्मवेदस्य वक्ता च तत्र धर्मं समाचरेत् ।  
 षष्ठ स्वात्माख्य आम्नायः परमात्मा मठो महान् ॥ ६९॥  
@@ -241,7 +241,7 @@ title = "मठाम्नायमहानुशासनम्"
 देवी स्यान्मानसी माया आचार्यश्चेतनाह्वयः ।  
 त्रिपुटीतीर्थमुत्कृष्टं सर्वपुण्यप्रदायकम् ॥ ७१॥  
   
-भव-पाशविनाशाय संन्यासं तत्र चाश्रयेत् ।  
+भव-पाशविनाशाय सन्न्यासं तत्र चाश्रयेत् ।  
 वेदान्तवाक्यवक्ता च तत्र धर्मं समाचरेत् ॥ ७२॥  
   
 सप्तमो निष्कलाम्नायः सहस्रार्कद्युतिर्मठः ।  
@@ -251,7 +251,7 @@ title = "मठाम्नायमहानुशासनम्"
 देवी चिच्छक्तिनाम्नी हि आचार्यः सद्गुरुः स्मृतः ॥ ७४॥  
   
 सच्छास्त्रश्रवणं तीर्थं जरामृत्युविनाशकम् ।  
-पूर्णनन्दप्रसादेन संन्यासं तत्र चाश्रयेत् ॥ ७५॥  
+पूर्णनन्दप्रसादेन सन्न्यासं तत्र चाश्रयेत् ॥ ७५॥  
   
 ॥ इति श्रीमद्भगवत्पादस्वामि आद्यशङ्कराचार्यकृतः  
 श्रीमन्मठाम्नायमहानुशासनम् सम्पूर्णम् ॥  

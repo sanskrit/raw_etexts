@@ -1,22 +1,23 @@
-+++
-"Text title" = "Shiva Manasa Puja or Atmapuja Stotram"
-"File name" = "shivamAnasapUjA.itx"
-itxtitle = "shivamAnasapUjA athavA AtmapUjAstotram (kRiShNAnandasarasvatIvirachitA)"
-engtitle = "shivamAnasapUjA"
-Category = "shiva, kRiShNAnandasarasvatI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Krishnanandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवमानसपूजा अथवा आत्मपूजास्तोत्रम् (कृइष्णानन्दसरस्वतीविरचिता)"
+---
+Author: Krishnanandasarasvati
+Category: shiva, kRiShNAnandasarasvatI
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: shivamAnasapUjA.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shiva Manasa Puja or Atmapuja Stotram
+engtitle: shivamAnasapUjA
+itxtitle: shivamAnasapUjA athavA AtmapUjAstotram (kRiShNAnandasarasvatIvirachitA)
+title: शिवमानसपूजा अथवा आत्मपूजास्तोत्रम् (कृइष्णानन्दसरस्वतीविरचिता)
 
-+++
+---
   
  शिवमानसपूजा अथवा आत्मपूजास्तोत्रम्   
 श्रीगणेशाय नमः ॥  

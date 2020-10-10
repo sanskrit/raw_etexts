@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRRiShNastutirmangalam"
-"File name" = "kRRiShNastutirmangalam.itx"
-itxtitle = "kRiShNastutirmaNgalam"
-engtitle = "kRRiShNastutirmangalam"
-Category = "vishhnu, krishna, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तुतिर्मण्गलम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, krishna, mangala
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: kRRiShNastutirmangalam.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNastutirmangalam
+engtitle: kRRiShNastutirmangalam
+itxtitle: kRiShNastutirmaNgalam
+title: कृइष्णस्तुतिर्मण्गलम्
 
-+++
+---
   
  श्रीकृष्णस्तुतिर्मङ्गलम्   
   

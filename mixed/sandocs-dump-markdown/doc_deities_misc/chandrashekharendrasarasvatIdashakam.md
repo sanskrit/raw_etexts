@@ -1,22 +1,22 @@
-+++
-"Text title" = "Chandrashekharendrasarasvati Dashakam"
-"File name" = "chandrashekharendra10.itx"
-itxtitle = "chandrashekharendrasarasvatIdashakam"
-engtitle = "Kanchi Periyava Dashaka Stotram"
-Category = "dashaka, deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree, Reconstructed by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "August 12, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्रशेखरेन्द्रसरस्वतीदशकम्"
+---
+Category: dashaka, deities_misc, gurudev
+File name: chandrashekharendra10.itx
+Language: Sanskrit
+Latest update: August 12, 2016
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Chandrashekharendrasarasvati Dashakam
+Transliterated by: Shree, Reconstructed by PSA Easwaran
+engtitle: Kanchi Periyava Dashaka Stotram
+itxtitle: chandrashekharendrasarasvatIdashakam
+title: चन्द्रशेखरेन्द्रसरस्वतीदशकम्
 
-+++
+---
   
  श्रीचन्द्रशेखरेन्द्रसरस्वतीदशकम्   
   

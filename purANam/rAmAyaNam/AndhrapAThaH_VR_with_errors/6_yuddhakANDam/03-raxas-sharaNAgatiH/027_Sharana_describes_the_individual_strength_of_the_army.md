@@ -3,7 +3,6 @@ title: 027 Sharana describes the individual strength of the army
 title_english: 027 Sharana describes the individual strength of the army
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-027-Sharana_describes_the_individual_strength_of_the_army_0.mp3"></div>
 
 तांस्तु ते सम्प्रक्ष्यामि प्रेक्षमाणस्य यूथपान् ।  
@@ -72,7 +71,7 @@ title_english: 027 Sharana describes the individual strength of the army
 एते असित मुखा घोरा गो लान्गूला महाबलाः ॥ ६-२७-३२  
 शतम् शत सहस्राणि दृष्ट्वा वै सेतु बन्धनम् ।  
 गो लान्गूलम् महावेगम् गव अक्षम् नाम यूथपम् ॥ ६-२७-३३  
-परिवार्य अभिवर्तन्ते लंकाम् मर्दितुम् ओजसा ।  
+परिवार्य अभिवर्तन्ते लङ्काम् मर्दितुम् ओजसा ।  
 भ्रमर आचरिता यत्र सर्व काम फल द्रुमाः ॥ ६-२७-३४  
 यम् सूर्य तुल्य वर्ण आभम् अनुपर्येति पर्वतम् ।  
 यस्य भासा सदा भान्ति तद् वर्णा मृग पक्षिणः ॥ ६-२७-३५  
@@ -94,7 +93,7 @@ title_english: 027 Sharana describes the individual strength of the army
 एष चैषामधिपतिर्मध्ये तिष्ठति वीर्यवान् ॥ ६-२७-४३  
 जयार्थी नित्यमादित्यमुपतिष्ठति बुद्धिमान् ।  
 नाम्ना पृथिव्याम् विख्यातो राजन् शत बली इति यः ॥ ६-२७-४४  
-एष एव आशंसते लंकाम् स्वेन अनीकेन मर्दितुम् ।  
+एष एव आशंसते लङ्काम् स्वेन अनीकेन मर्दितुम् ।  
 विक्रान्तो बलवान् शूरः पौरुषे स्वे व्यवस्थितः ॥ ६-२७-४५  
 रामप्रियार्थम् प्राणानाम् दयाम् न कुरुते हरिः ।  
 गजो गव अक्षो गवयो नलो नीलः च वानरः ।  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "bhagavad gItA shabdArtha"
-"File name" = "bgwords.itx"
-itxtitle = "bhagavad_gItA shabdArthaH"
-engtitle = "Bhagavadgita words and meanings"
-Category = "gItA, giitaa, bhagavadgita"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Subcategory = "bhagavadgita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(One column(Critical Word index) word by word meaning)"
-"Latest update" = "May 14, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवद्_गीता शब्दार्थः"
+---
+Category: gItA, giitaa, bhagavadgita
+File name: bgwords.itx
+Indexextra: (One column(Critical Word index) word by word meaning)
+Language: Sanskrit
+Latest update: May 14, 2012
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhagavadgita
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: bhagavad gItA shabdArtha
+engtitle: Bhagavadgita words and meanings
+itxtitle: bhagavad_gItA shabdArthaH
+title: भगवद्_गीता शब्दार्थः
 
-+++
+---
   
  भगवद्गीता शब्दार्थ   
   
@@ -100,7 +100,7 @@ title = "भगवद्_गीता शब्दार्थः"
  नायकाः  = captains  
  मम  = my  
  सैन्यस्य  = of the soldiers  
- संज्ञार्थं  = for information  
+ सञ्ज्ञार्थं  = for information  
  तान्  = them  
  ब्रवीमि  = I am speaking  
  ते  = to you.  
@@ -197,7 +197,7 @@ title = "भगवद्_गीता शब्दार्थः"
  हृषीकेशः  = Hrsikesa (KRiShNa, the Lord who directs the senses of the devotees)  
  देवदत्तं  = the conchshell named Devadatta  
  धनञ्जयः  = Dhananjaya (Arjuna, the winner of wealth)  
- पौंड्रं  = the conch named Paundra  
+ पौण्ड्रं  = the conch named Paundra  
  दध्मौ  = blew  
  महाशङ्खं  = the terrific conchshell  
  भीमकर्मा  = one who performs herculean tasks  
@@ -648,7 +648,7 @@ End of 1.46
  दौर्बल्यं  = weakness  
  त्यक्त्वा  = giving up  
  उत्तिष्ठ  = get up  
- परंतप  = O chastiser of the enemies.  
+ परन्तप  = O chastiser of the enemies.  
  अर्जुन उवाच  = Arjuna said  
  कथं  = how  
  भीष्मं  = Bhishma  
@@ -1111,7 +1111,7 @@ End of 1.46
  त्वं  = you  
  इमं  = this  
  धर्म्यं  = as a religious duty  
- संग्रामं  = fighting  
+ सङ्ग्रामं  = fighting  
  न  = do not  
  करिष्यसि  = perform  
  ततः  = then  
@@ -1659,7 +1659,7 @@ End of 2.72
  अश्नुते  = achieves  
  न  = nor  
  च  = also  
- संन्यासनात्  = by renunciation  
+ सन्न्यासनात्  = by renunciation  
  एव  = simply  
  सिद्धिं  = success  
  समधिगच्छति  = attains.  
@@ -1875,7 +1875,7 @@ End of 2.72
  संसिद्धिं  = in perfection  
  आस्थिताः  = situated  
  जनकादयाः  = Janaka and other kings  
- लोकसंग्रहं  = the people in general  
+ लोकसङ्ग्रहं  = the people in general  
  एवापि  = also  
  सम्पश्यन्  = considering  
  कर्तुं  = to act  
@@ -1950,7 +1950,7 @@ End of 2.72
  तथा  = thus  
  असक्तः  = without attachment  
  चिकीर्षुः  = desiring to lead  
- लोकसंग्रहं  = the people in general.  
+ लोकसङ्ग्रहं  = the people in general.  
  न  = not  
  बुद्धिभेदं  = disruption of intelligence  
  जनयेत्  = he should cause  
@@ -1999,7 +1999,7 @@ End of 2.72
  मयि  = unto Me  
  सर्वाणि  = all sorts of  
  कर्माणि  = activities  
- संन्यस्य  = giving up completely  
+ सन्न्यस्य  = giving up completely  
  अध्यात्म  = with full knowledge of the self  
  चेतसा  = by consciousness  
  निराशीः  = without desire for profit  
@@ -2715,7 +2715,7 @@ End of 3.43
  संशय  = doubtful  
  आत्मनः  = of the person.  
  योग  = by devotional service in karma-yoga  
- संन्यस्त  = one who has renounced  
+ सन्न्यस्त  = one who has renounced  
  कर्माणं  = the fruits of actions  
  ज्ञान  = by knowledge  
  सञ्छिन्न  = cut  
@@ -2743,7 +2743,7 @@ End of 4.42
   
   
  अर्जुन उवाच  = Arjuna said  
- संन्यासं  = renunciation  
+ सन्न्यासं  = renunciation  
  कर्मणां  = of all activities  
  कृष्ण  = O KRiShNa  
  पुनः  = again  
@@ -2759,20 +2759,20 @@ End of 4.42
  ब्रूहि  = please tell  
  सुनिश्चितं  = definitely.  
  श्रीभगवानुवाच  = the Personality of Godhead said  
- संन्यासः  = renunciation of work  
+ सन्न्यासः  = renunciation of work  
  कर्मयोगः  = work in devotion  
  च  = also  
  निःश्रेयसकरौ  = leading to the path of liberation  
  उभौ  = both  
  तयोः  = of the two  
  तु  = but  
- कर्मसंन्यासात्  = in comparison to the renunciation of fruitive work  
+ कर्मसन्न्यासात्  = in comparison to the renunciation of fruitive work  
  कर्मयोगः  = work in devotion  
  विशिष्यते  = is better.  
  ज्ञेयः  = should be known  
  सः  = he  
  नित्य  = always  
- संन्यासी  = renouncer  
+ सन्न्यासी  = renouncer  
  यः  = who  
  न  = never  
  द्वेष्टि  = abhors  
@@ -2815,7 +2815,7 @@ End of 4.42
  पश्यति  = sees  
  सः  = he  
  पश्यति  = actually sees.  
- संन्यासः  = the renounced order of life  
+ सन्न्यासः  = the renounced order of life  
  तु  = but  
  महाबाहो  = O mighty-armed one  
  दुःखं  = distress  
@@ -2903,7 +2903,7 @@ End of 4.42
  सर्व  = all  
  कर्माणि  = activities  
  मनसा  = by the mind  
- संन्यस्य  = giving up  
+ सन्न्यस्य  = giving up  
  आस्ते  = remains  
  सुखं  = in happiness  
  वशी  = one who is controlled  
@@ -3137,7 +3137,7 @@ End of 5.29
  करोति  = performs  
  यः  = one who  
  सः  = he  
- संन्यासी  = in the renounced order  
+ सन्न्यासी  = in the renounced order  
  च  = also  
  योगी  = mystic  
  च  = also  
@@ -3148,7 +3148,7 @@ End of 5.29
  च  = also  
  अक्रियाः  = without duty.  
  यं  = what  
- संन्यासं  = renunciation  
+ सन्न्यासं  = renunciation  
  इति  = thus  
  प्राहुः  = they say  
  योगं  = linking with the Supreme  
@@ -3157,7 +3157,7 @@ End of 5.29
  पाण्डव  = O son of Pandu  
  न  = never  
  हि  = certainly  
- असंन्यस्त  = without giving up  
+ असन्न्यस्त  = without giving up  
  सङ्कल्पः  = desire for self-satisfaction  
  योगी  = a mystic transcendentalist  
  भवति  = becomes  
@@ -3183,7 +3183,7 @@ End of 5.29
  कर्मसु  = in fruitive activities  
  अनुषज्जते  = one necessarily engages  
  सर्वसङ्कल्प  = of all material desires  
- संन्यासी  = renouncer  
+ सन्न्यासी  = renouncer  
  योगारूढः  = elevated in yoga  
  तदा  = at that time  
  उच्यते  = is said to be.  
@@ -3434,7 +3434,7 @@ End of 5.29
  विद्यात्  = you must know  
  दुःखसंयोग  = of the miseries of material contact  
  वियोगं  = extermination  
- योगसंज्ञितं  = called trance in yoga.  
+ योगसञ्ज्ञितं  = called trance in yoga.  
  सः  = that  
  निश्चयेन  = with firm determination  
  योक्तव्यः  = must be practiced  
@@ -4222,7 +4222,7 @@ End of 7.30
  भूतभावोद्भवकरः  = producing the material bodies of the living entities  
  विसर्गः  = creation  
  कर्म  = fruitive activities  
- संज्ञितः  = is called.  
+ सञ्ज्ञितः  = is called.  
  अधिभूतं  = the physical manifestation  
  क्षरः  = constantly changing  
  भावः  = nature  
@@ -4340,7 +4340,7 @@ End of 7.30
  तत्  = that  
  ते  = unto you  
  पदं  = situation  
- संग्रहेण  = in summary  
+ सङ्ग्रहेण  = in summary  
  प्रवक्ष्ये  = I shall explain.  
  सर्वद्वाराणि  = all the doors of the body  
  संयम्य  = controlling  
@@ -4430,7 +4430,7 @@ End of 7.30
  तत्र  = into that  
  एव  = certainly  
  अव्यक्त  = the unmanifest  
- संज्ञके  = which is called.  
+ सञ्ज्ञके  = which is called.  
  भूतग्रामः  = the aggregate of all living entities  
  सः  = these  
  एव  = certainly  
@@ -4944,7 +4944,7 @@ End of 8.28
  मोक्ष्यसे  = you will become free  
  कर्म  = of work  
  बन्धनैः  = from the bondage  
- संन्यास  = of renunciation  
+ सन्न्यास  = of renunciation  
  योग  = the yoga  
  युक्तात्म  = having the mind firmly set on  
  विमुक्तः  = liberated  
@@ -5528,7 +5528,7 @@ End of 9.34
  कवीनां  = of all great thinkers  
  उशना  = Usana  
  कविः  = the thinker.  
- दंडः  = punishment  
+ दण्डः  = punishment  
  दमयतां  = of all means of suppression  
  अस्मि  = I am  
  नीतिः  = morality  
@@ -5613,7 +5613,7 @@ End of 10.41
  परमं  = supreme  
  गुह्यं  = confidential subject  
  अध्यात्म  = spiritual  
- संज्ञितं  = in the matter of  
+ सञ्ज्ञितं  = in the matter of  
  यत्  = what  
  त्वया  = by You  
  उक्तं  = said  
@@ -6506,7 +6506,7 @@ End of 10.41
  मत्कर्मकृत्  = engaged in doing My work  
  मत्परमः  = considering Me the Supreme  
  मद्भक्तः  = engaged in My devotional service  
- संगवर्जितः  = freed from the contamination of fruitive activities and mental speculation  
+ सङ्गवर्जितः  = freed from the contamination of fruitive activities and mental speculation  
  निर्वैरः  = without an enemy  
  सर्वभूतेषु  = among all living entities  
  यः  = one who  
@@ -6589,7 +6589,7 @@ End of 11.55
  सर्वाणि  = all  
  कर्माणि  = activities  
  मयि  = unto Me  
- संन्यस्य  = giving up  
+ सन्न्यस्य  = giving up  
  मत्पराः  = being attached to Me  
  अनन्येन  = without division  
  एव  = certainly  
@@ -7703,7 +7703,7 @@ End of 14.27
  द्वन्द्वैः  = from the dualities  
  विमुक्तः  = liberated  
  सुखदुःख  = happiness and distress  
- संज्ञैः  = named  
+ सञ्ज्ञैः  = named  
  गच्छन्ति  = attain  
  अमूढाः  = unbewildered  
  पदं  = situation  
@@ -8638,7 +8638,7 @@ End of 17.28
   
   
  अर्जुन उवाच  = Arjuna said  
- संन्यासस्य  = of renunciation  
+ सन्न्यासस्य  = of renunciation  
  महाबाहो  = O mighty-armed one  
  तत्त्वं  = the truth  
  इच्छामि  = I wish  
@@ -8652,7 +8652,7 @@ End of 17.28
  काम्यानां  = with desire  
  कर्मणां  = of activities  
  न्यासं  = renunciation  
- संन्यासं  = the renounced order of life  
+ सन्न्यासं  = the renounced order of life  
  कवयः  = the learned  
  विदुः  = know  
  सर्व  = of all  
@@ -8722,7 +8722,7 @@ End of 17.28
  उत्तमं  = the best.  
  नियतस्य  = prescribed  
  तु  = but  
- संन्यासः  = renunciation  
+ सन्न्यासः  = renunciation  
  कर्मणः  = of activities  
  न  = never  
  उपपद्यते  = is deserved  
@@ -8807,7 +8807,7 @@ End of 17.28
  प्रेत्य  = after death  
  न  = not  
  तु  = but  
- संन्यासीनां  = for the renounced order  
+ सन्न्यासीनां  = for the renounced order  
  क्वचित्  = at any time.  
  पञ्च  = five  
  एतानि  = these  
@@ -8894,7 +8894,7 @@ End of 17.28
  इति  = thus  
  त्रिविधः  = of three kinds  
  कर्म  = of work  
- संग्रहः  = the accumulation.  
+ सङ्ग्रहः  = the accumulation.  
  ज्ञानं  = knowledge  
  कर्म  = work  
  च  = also  
@@ -8904,7 +8904,7 @@ End of 17.28
  एव  = certainly  
  गुणभेदतः  = in terms of different modes of material nature  
  प्रोच्यते  = are said  
- गुणसंख्याने  = in terms of different modes  
+ गुणसङ्ख्याने  = in terms of different modes  
  यथावत्  = as they are  
  शृणु  = hear  
  तानि  = all of them  
@@ -9298,7 +9298,7 @@ End of 17.28
  विगतस्पृहः  = without material desires  
  नैष्कर्म्यसिद्धिं  = the perfection of nonreaction  
  परमां  = supreme  
- संन्यासेन  = by the renounced order of life  
+ सन्न्यासेन  = by the renounced order of life  
  अधिगच्छति  = one attains.  
  सिद्धिं  = perfection  
  प्राप्तः  = achieving  
@@ -9388,7 +9388,7 @@ End of 17.28
  चेतसा  = by intelligence  
  सर्वकर्माणि  = all kinds of activities  
  मयि  = unto Me  
- संन्यस्य  = giving up  
+ सन्न्यस्य  = giving up  
  मत्परः  = under My protection  
  बुद्धियोगं  = devotional activities  
  उपाश्रित्य  = taking shelter of  

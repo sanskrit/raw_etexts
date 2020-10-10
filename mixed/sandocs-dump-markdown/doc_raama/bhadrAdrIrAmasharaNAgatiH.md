@@ -1,20 +1,20 @@
-+++
-"Text title" = "Shri Bhadradri Rama Sharanagati"
-"File name" = "bhadrAdrIrAmasharaNAgatiH.itx"
-itxtitle = "bhadrAdrIrAmasharaNAgatiH"
-engtitle = "bhadrAdrIrAmasharaNAgatiH"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Telugu)"
-"Latest update" = "April 28, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "भद्राद्रीरामशरणागतिः"
+---
+Category: raama
+File name: bhadrAdrIrAmasharaNAgatiH.itx
+Indexextra: (Telugu)
+Language: Sanskrit
+Latest update: April 28, 2019
+Location: doc_raama
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Shri Bhadradri Rama Sharanagati
+engtitle: bhadrAdrIrAmasharaNAgatiH
+itxtitle: bhadrAdrIrAmasharaNAgatiH
+title: भद्राद्रीरामशरणागतिः
 
-+++
+---
   
  श्री भद्राद्रीराम शरणागतिः   
 श्रीमत्पयोरुहसुधाकलशातपत्र  
@@ -64,7 +64,7 @@ title = "भद्राद्रीरामशरणागतिः"
   
 भेदोऽस्ति नैव खलु दारुशिलादिकानां  
      आलोच्य चैव मखिलाकरचूर्णभाजौ ।  
-संक्षालितौ सुमनसा तरिजीविना ते  
+सङ्क्षालितौ सुमनसा तरिजीविना ते  
      भद्राद्रिरामचरणौ शरणं प्रपद्ये ॥ १०॥  
   
 ध्यानैकनिघ्नमुनिमानसवासकाले  

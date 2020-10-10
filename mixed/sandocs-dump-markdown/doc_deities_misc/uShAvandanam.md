@@ -1,27 +1,28 @@
-+++
-"Text title" = "Salutation of the Dawn  uushhaava.ndana"
-"File name" = "salutedawn.itx"
-itxtitle = "uShAvandanam"
-engtitle = "Salutation of the Dawn"
-Category = "vedanta, deities_misc, sahitya, advice"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Subcategory = "sahitya"
-Texttype = "advice"
-Author = "????"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion  Ramachandra Rao mrraoh at vsnl.com and Professor NVP Unithiri unithiri at sify.com"
-"Transliterated by" = "Sunder Hattangadi"
-Description-comments = "Sanskrit translation by Madhvapati"
-Indexextra = "(Salutation of the Dawn: Look to this Day)"
-"Latest update" = "July 31, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उषावन्दनम्"
+---
+Author: ????
+Category: vedanta, deities_misc, sahitya, advice
+Description-comments: Sanskrit translation by Madhvapati
+File name: salutedawn.itx
+Indexextra: '(Salutation of the Dawn: Look to this Day)'
+Language: Sanskrit
+Latest update: July 31, 2013
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: philosophy/hinduism/religion  Ramachandra Rao mrraoh at vsnl.com and Professor
+  NVP Unithiri unithiri at sify.com
+Sublocation: deities_misc
+Text title: Salutation of the Dawn  uushhaava.ndana
+Texttype: advice
+Transliterated by: Sunder Hattangadi
+engtitle: Salutation of the Dawn
+itxtitle: uShAvandanam
+title: उषावन्दनम्
 
-+++
+---
   
- उषावंदन   
+ उषावन्दन   
   
   
 Listen to the Exhortation of the Dawn!  
@@ -83,7 +84,7 @@ Professor NVP Unithiri unithiri at sify.com
 तदिदं वासरं पश्य सैवोषःस्तुतिरादृता ॥ ५॥  
   
   
-  उषावंदनम्  
+  उषावन्दनम्  
    Salutation of the Dawn  
   
 अद्य भावय सुदिनम्!  

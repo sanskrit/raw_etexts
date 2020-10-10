@@ -1,21 +1,21 @@
-+++
-"Text title" = "ekashlokInavagrahastotram"
-"File name" = "ekashlokInavagrahastotram.itx"
-itxtitle = "ekashlokInavagrahastotram"
-engtitle = "ekashlokInavagrahastotram"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकश्लोकीनवग्रहस्तोत्रम्"
+---
+Category: navagraha
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: ekashlokInavagrahastotram.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_z_misc_navagraha
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: ekashlokInavagrahastotram
+engtitle: ekashlokInavagrahastotram
+itxtitle: ekashlokInavagrahastotram
+title: एकश्लोकीनवग्रहस्तोत्रम्
 
-+++
+---
   
  एकश्लोकीनवग्रहस्तोत्रम् २   
 ब्रह्मा मुरारिस्त्रिपुरान्तकारी भानुः शशी भूमिसुतो बुधश्च ।  

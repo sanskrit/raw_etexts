@@ -1,24 +1,25 @@
-+++
-"Text title" = "vaakyavritti"
-"File name" = "vaakyavritti.itx"
-itxtitle = "vAkyavRittiH"
-engtitle = "vAkyavRRittiH"
-Category = "vedanta, advice, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Texttype = "advice"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com, Br. Pranipata Chaitanya pranipatachaitanya at yahoo.co.in, David Lyttle dhlyttle at hotmail.com"
-Indexextra = "(Meaning)"
-"Latest update" = "Deceember 15, 1997, July 23, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाक्यवृइत्तिः"
+---
+Author: Adi Shankaracharya
+Category: vedanta, advice, shankarAchArya
+File name: vaakyavritti.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: Deceember 15, 1997, July 23, 2017
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi sunderh at hotmail.com, Br. Pranipata Chaitanya pranipatachaitanya
+  at yahoo.co.in, David Lyttle dhlyttle at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: vaakyavritti
+Texttype: advice
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: vAkyavRRittiH
+itxtitle: vAkyavRittiH
+title: वाक्यवृइत्तिः
 
-+++
+---
   
  वाक्यवृत्तिः   
   
@@ -28,13 +29,13 @@ title = "वाक्यवृइत्तिः"
 निर्मुक्तबन्धनमपारसुखाम्बुराशिं श्रीवल्लभं विमलबोधघनं नमामि ॥ १॥  
   
 यस्य प्रसादादहमेव विष्णुर्मय्येव सर्वं परिकल्पितं च ।  
-इत्थं विजानामि सदात्मरूपं तस्यांघ्रिपद्मं प्रणतोऽस्मि नित्यम् ॥ २॥  
+इत्थं विजानामि सदात्मरूपं तस्याङ्घ्रिपद्मं प्रणतोऽस्मि नित्यम् ॥ २॥  
   
-तापत्रयार्कसंतप्तः कश्चिदुद्विग्नमानसः ।  
+तापत्रयार्कसन्तप्तः कश्चिदुद्विग्नमानसः ।  
 शमादिसाधनैर्युक्तः सद्गुरुं परिपृच्छति ॥ ३॥  
   
 अनायासेन येनास्मान्मुच्च्येयं भवबन्धनात् ।  
-तन्मे संक्षिप्य भगवन्केवलं कृपया वद ॥ ४॥  
+तन्मे सङ्क्षिप्य भगवन्केवलं कृपया वद ॥ ४॥  
   
 गुरुरुवाच ।  
 साध्वीते वचनव्यक्तिः प्रतिभाति वदामि ते ।  
@@ -77,7 +78,7 @@ title = "वाक्यवृइत्तिः"
 एवमिन्द्रियदृङ्नाहमिन्द्रियाणीति निश्चिनु ।  
 मनोबुद्धिस्तथा प्राणो नाहमित्यवधारय ॥ १६॥  
   
-संघातोऽपि तथा नाहमिति दृश्यविलक्षणम् ।  
+सङ्घातोऽपि तथा नाहमिति दृश्यविलक्षणम् ।  
 द्रष्टारमनुमानेन निपुणं सम्प्रधारय ॥ १७॥  
   
 देहेन्द्रियादयो भावा हानादिव्यापृतिक्षमाः ।  
@@ -104,11 +105,11 @@ title = "वाक्यवृइत्तिः"
 परप्रेमास्पदतया मा न भूवमहं सदा ।  
 भूयासमिति यो द्रष्टा सोऽहमित्यवधारय ॥ २५॥  
   
-यः साक्षिलक्षणो बोधस्त्वंपदार्थः स उच्यते ।  
+यः साक्षिलक्षणो बोधस्त्वम्पदार्थः स उच्यते ।  
 साक्षित्वमपि बोद्धृत्वमविकारितयात्मनः ॥ २६॥  
   
 देहेन्द्रियमनःप्राणाहङ्कृतिभ्यो विलक्षणः ।  
-प्रोज्झिताशेशषड्भावविकारस्त्वंपदाभिधः ॥ २७॥  
+प्रोज्झिताशेशषड्भावविकारस्त्वम्पदाभिधः ॥ २७॥  
   
 त्वमर्थमेवं निश्चित्य तदर्थं चिन्तयेत्पुनः ।  
 अतद्व्यावृत्तिरूपेण साक्षाद्विधिमुखेन च ॥ २८॥  
@@ -137,7 +138,7 @@ title = "वाक्यवृइत्तिः"
 कर्मणां फलदातृत्वं यस्यैव श्रूयते श्रुतौ ।  
 जीवानां हेतुकर्तृत्वं तद्ब्रह्मेत्यवधारय ॥ ३६॥  
   
-तत्त्वंपदार्थौ निर्णीतौ वाक्यार्थश्चिन्त्यतेऽधुना ।  
+तत्त्वम्पदार्थौ निर्णीतौ वाक्यार्थश्चिन्त्यतेऽधुना ।  
 तादात्म्यमत्र वाक्यार्थस्तयोरेव पदार्थयोः ॥ ३७॥  
   
 संसर्गो वा विशिष्टो वा वाक्यार्थो नात्र सम्मतः ।  
@@ -153,13 +154,13 @@ title = "वाक्यवृइत्तिः"
 पूर्णानन्दैकरूपेण प्रत्यग्बोधोवतिष्ठते ॥ ४१॥  
   
 तत्त्वमस्यादिवाक्यं च तादात्म्यप्रतिपादने ।  
-लक्ष्यौ तत्त्वंपदार्थौ द्वावुपादाय प्रवर्तते ॥ ४२॥  
+लक्ष्यौ तत्त्वम्पदार्थौ द्वावुपादाय प्रवर्तते ॥ ४२॥  
   
 हित्वा द्वौ शबलौ वाच्यौ वाक्यं वाक्यार्थबोधने ।  
 यथा प्रवर्ततेऽस्माभिस्तथा व्याख्यातमादरात् ॥ ४३॥  
   
 आलम्बनतयाभाति योऽस्मत्प्रत्ययशब्दयोः ।  
-अन्तःकरणसंभिन्नबोधः स त्वंपदाभिधः ॥ ४४॥  
+अन्तःकरणसम्भिन्नबोधः स त्वम्पदाभिधः ॥ ४४॥  
   
 मायोपाधिर्जगद्योनिः सर्वज्ञत्वादिलक्षणः ।  
 परोक्ष्यशबलः सत्याद्यात्मकस्तत्पदाभिधः ॥ ४५॥  
@@ -183,7 +184,7 @@ title = "वाक्यवृइत्तिः"
 विमुक्तकर्मनिगडः सद्य एव विमुच्यते ॥ ५१॥  
   
 प्रारब्धकर्मवेगेन जीवन्मुक्तो यदा भवेत् ।  
-किञ्चित्कालमनारब्धकर्मबन्धस्य संक्षये ॥ ५२॥  
+किञ्चित्कालमनारब्धकर्मबन्धस्य सङ्क्षये ॥ ५२॥  
   
 निरस्तातिशयानन्दं वैष्णवं परमं पदम् ।  
 पुनरावृत्तिरहितं कैवल्यं प्रतिपद्यते ॥ ५३॥  

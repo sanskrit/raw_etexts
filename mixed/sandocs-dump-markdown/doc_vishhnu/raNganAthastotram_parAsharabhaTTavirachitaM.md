@@ -1,24 +1,24 @@
-+++
-"Text title" = "ranganAthastotram"
-"File name" = "ranganAthastotram.itx"
-itxtitle = "raNganAthastotram (parAsharabhaTTavirachitaM)"
-engtitle = "ranganAthastotram"
-Category = "vishhnu, parAsharabhaTTa"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "parAsharabhaTTa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रण्गनाथस्तोत्रम् (पराशरभट्टविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: parAsharabhaTTa
+Category: vishhnu, parAsharabhaTTa
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: ranganAthastotram.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ranganAthastotram
+engtitle: ranganAthastotram
+itxtitle: raNganAthastotram (parAsharabhaTTavirachitaM)
+title: रण्गनाथस्तोत्रम् (पराशरभट्टविरचितं)
 
-+++
+---
   
  श्रीरङ्गनाथस्तोत्रम्   
   

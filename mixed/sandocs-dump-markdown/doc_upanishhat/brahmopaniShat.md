@@ -1,23 +1,23 @@
-+++
-"Text title" = "brahma upanishhat"
-"File name" = "brahma_upan.itx"
-itxtitle = "brahmopaniShat"
-engtitle = "Brahma Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anshuman Pandey pandey at umich.edu"
-"Proofread by" = "Anshuman Pandey pandey at umich.edu"
-Description-comments = "saMnyAsa upanishad"
-Indexextra = "(Scanned 1, English)"
-"Latest update" = "16 April 1996, August 19, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मोपनिषत्"
+---
+Category: upanishhat, upanishad
+Description-comments: saMnyAsa upanishad
+File name: brahma_upan.itx
+Indexextra: (Scanned 1, English)
+Language: Sanskrit
+Latest update: 16 April 1996, August 19, 2018
+Location: doc_upanishhat
+Proofread by: Anshuman Pandey pandey at umich.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: brahma upanishhat
+Transliterated by: Anshuman Pandey pandey at umich.edu
+engtitle: Brahma Upanishad
+itxtitle: brahmopaniShat
+title: ब्रह्मोपनिषत्
 
-+++
+---
   
  ब्रह्मोपनिषत्   
   
@@ -39,9 +39,9 @@ title = "ब्रह्मोपनिषत्"
 आनन्दमुपयाति तथैवैष देवदत्तः स्वप्न आनन्दमभियाति ।  
 वेद एव परं ज्योतिः ज्योतिष्कामो ज्योतिरानन्दयते ।  
 भूयस्तेनैव स्वप्नाय गच्छति जलौकावत् । यथा  
-जलौकाऽग्रमग्रं नयत्यात्मानं नयति परं संधय ।  
+जलौकाऽग्रमग्रं नयत्यात्मानं नयति परं सन्धय ।  
 यत्परं नापरं त्यजति स जाग्रदभिधियते । यथैवैष  
-कपालाष्टकं संनयति । तमेव स्तन इव लम्बते  
+कपालाष्टकं सन्नयति । तमेव स्तन इव लम्बते  
 वेददेवयोनः । यत्र जाग्रति शुभाशुभं निरुक्तमस्य  
 देवस्य स सम्प्रसारोऽन्थर्यामी खगः कर्कटकः पुष्करः  
 पुरुषः ग्राणो हिंसा परापरं ब्रह्म आत्मा देवता वेदयति ।  
@@ -60,7 +60,7 @@ title = "ब्रह्मोपनिषत्"
 श्रमणः पशवो न पशवस्तापसो न तापस इत्येकमेव  
 परं ब्रह्म विभाति । हृद्याकाशे तद्विज्ञानमाकाशं  
 तत्सुषिरमाकाशं तद्वेद्यं हृद्याकाशं यस्मिन्निदं  
-संचरति वचरति यस्मिन्निदं सर्वमोतं प्रोतं । सं  
+सञ्चरति वचरति यस्मिन्निदं सर्वमोतं प्रोतं । सं  
 विभोः प्रजा ज्ञायेरन् । न तत्र देवा ऋषयः पितर रिशते  
 प्रतिबुद्धः सर्वविदिति ॥ २॥  
   
@@ -95,7 +95,7 @@ title = "ब्रह्मोपनिषत्"
 स शिखीत्युच्यते विद्वानितरे केशधारिणः ॥ ३॥  
   
 कर्मण्यधिकृता ये तु वैदिके ब्राह्मणादयः ।  
-तैः संधार्यमिद सूत्रं क्रियाङ्गं तद्धि वै स्मृतम् ॥  
+तैः सन्धार्यमिद सूत्रं क्रियाङ्गं तद्धि वै स्मृतम् ॥  
   
 शिखा ज्ञानमयी यस्य उपवीतं च तन्मयम् ।  
 ब्राह्मण्यं सकलं तस्य इति ब्रह्मविदो विदुः ॥  
@@ -124,11 +124,11 @@ title = "ब्रह्मोपनिषत्"
 नेत्रस्थं जाग्रतं विद्यात्कण्ठे स्वप्नं विनिर्दिषेत् ।  
 सुषुप्तं हृदयस्थं तु तुरीयं मूर्ध्नि संस्थितम् ॥  
   
-यदात्मा प्रज्ञयाऽऽत्मानं संधत्ते परमात्मनि ।  
-तेन संध्या ध्यानमेव तस्मात्सन्ध्याभिवन्दनम् ॥  
+यदात्मा प्रज्ञयाऽऽत्मानं सन्धत्ते परमात्मनि ।  
+तेन सन्ध्या ध्यानमेव तस्मात्सन्ध्याभिवन्दनम् ॥  
   
-निरोदकाध्यानसंध्या वाक्कायक्लेशवर्जिता ।  
-संधिनी सर्वभूतानां सा संध्या ह्येकदण्डिनाम् ॥  
+निरोदकाध्यानसन्ध्या वाक्कायक्लेशवर्जिता ।  
+सन्धिनी सर्वभूतानां सा सन्ध्या ह्येकदण्डिनाम् ॥  
   
 यतो वाचो निवर्तन्ते अप्राप्य मनसा सह ।  
 आन्नन्दमेतज्जीवस्य यं ज्ञात्वा मुच्यते बुधः ॥  

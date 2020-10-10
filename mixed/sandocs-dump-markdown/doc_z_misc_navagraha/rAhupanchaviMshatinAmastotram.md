@@ -1,25 +1,25 @@
-+++
-"Text title" = "rAhustotram pa.nchavi.nshatinAma"
-"File name" = "raahu25.itx"
-itxtitle = "rAhupanchaviMshatinAmastotram"
-engtitle = "rAhupanchaviMshatinAmastotram"
-Category = "navagraha, stotra, viMshati"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "skandapurANa"
-Indexextra = "(25 names)"
-"Latest update" = "February 19, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राहुपञ्चविंशतिनामस्तोत्रम्"
+---
+Author: Traditional
+Category: navagraha, stotra, viMshati
+Description-comments: skandapurANa
+File name: raahu25.itx
+Indexextra: (25 names)
+Language: Sanskrit
+Latest update: February 19, 2005
+Location: doc_z_misc_navagraha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: rAhustotram pa.nchavi.nshatinAma
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com)
+engtitle: rAhupanchaviMshatinAmastotram
+itxtitle: rAhupanchaviMshatinAmastotram
+title: राहुपञ्चविंशतिनामस्तोत्रम्
 
-+++
+---
   
  राहुपञ्चविंशतिनामस्तोत्रम्   
   

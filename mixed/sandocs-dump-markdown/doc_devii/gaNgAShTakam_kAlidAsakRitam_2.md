@@ -1,23 +1,23 @@
-+++
-"Text title" = "gangAShTakam kAlidAsavirachitaM"
-"File name" = "gangAShTakamkAlidAsa2.itx"
-itxtitle = "gaNgAShTakam (kAlidAsakRitam 2)"
-engtitle = "gaNgAShTakam by Kalidasa"
-Category = "aShTaka, devii, nadI, kAlidAsa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Kalidas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Latest update" = "May 4, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाष्टकम् (कालिदासकृइतम् २)"
+---
+Author: Kalidas
+Category: aShTaka, devii, nadI, kAlidAsa, devI
+File name: gangAShTakamkAlidAsa2.itx
+Language: Sanskrit
+Latest update: May 4, 2013
+Location: doc_devii
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gangAShTakam kAlidAsavirachitaM
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: gaNgAShTakam by Kalidasa
+itxtitle: gaNgAShTakam (kAlidAsakRitam 2)
+title: गण्गाष्टकम् (कालिदासकृइतम् २)
 
-+++
+---
   
  गङ्गाष्टकम् २ कालिदासकृतम्   
   
@@ -42,7 +42,7 @@ title = "गण्गाष्टकम् (कालिदासकृइतम
 गङ्गातीरमुपेत्य शीतलशिलामालम्ब्य हेमाचलीं  
 यैराकर्णि कुतूहलाकुलतया कल्लोलकोलाहलः ।  
 ते शृण्वन्ति सुपर्वपर्वतशिलासिंहासनाध्यासनाः  
-सङ्गीतागमशुद्धसिद्धरमणीमंजीरधीरध्वनिम् ॥ ४॥  
+सङ्गीतागमशुद्धसिद्धरमणीमञ्जीरधीरध्वनिम् ॥ ४॥  
   
 दूरं गच्छ सकच्छगं च भवतो नालोकयामो  
 मुखं रे पाराक वराक साकमितरैर्नाकप्रदैर्गम्यताम् ।  

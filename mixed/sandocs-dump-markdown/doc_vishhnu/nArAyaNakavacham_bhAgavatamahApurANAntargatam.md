@@ -1,24 +1,25 @@
-+++
-"Text title" = "nArAyaNa kavachaM"
-"File name" = "narayana-kavacha.itx"
-itxtitle = "nArAyaNakavacham (bhAgavatamahApurANAntargatam)"
-engtitle = "nArAyana kavacham"
-Category = "kavacha, vishhnu, narayana, vyAsa, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "narayana"
-Author = "Maharshi Vyas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion  shhashhThaskandhe naaraayaNavarmakathana.n naamaashhTamo.adhyaayaH"
-Description-comments = "bhAgavatamahApurANa paaramaha.nsyaa.n sa.nhitaayaa.n"
-Indexextra = "(Video montage and with with text)"
-"Latest update" = "January 19, 1999, April 15, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणकवचम् (भागवतमहापुराणान्तर्गतम्)"
+---
+Author: Maharshi Vyas
+Category: kavacha, vishhnu, narayana, vyAsa, vishnu
+Description-comments: bhAgavatamahApurANa paaramaha.nsyaa.n sa.nhitaayaa.n
+File name: narayana-kavacha.itx
+Indexextra: (Video montage and with with text)
+Language: Sanskrit
+Latest update: January 19, 1999, April 15, 2020
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: narayana
+Subject: philosophy/hinduism/religion  shhashhThaskandhe naaraayaNavarmakathana.n
+  naamaashhTamo.adhyaayaH
+Sublocation: vishhnu
+Text title: nArAyaNa kavachaM
+engtitle: nArAyana kavacham
+itxtitle: nArAyaNakavacham (bhAgavatamahApurANAntargatam)
+title: नारायणकवचम् (भागवतमहापुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीनारायणकवचम्   
   
@@ -44,10 +45,10 @@ title = "नारायणकवचम् (भागवतमहापुरा
 ॐ वं नमः वामानामिकायाम् ।  
 ॐ तें नमः वाममध्यमायाम् ।  
 ॐ वां नमः वामतर्जन्याम् ।  
-ॐ सुं नमः दक्षिणांगुष्ठोर्ध्वपर्वणि ।  
-ॐ दें नमः दक्षिणांगुष्ठाय पर्वणि ।  
-ॐ वां नमः वामांगुष्ठोर्ध्वपर्वणि ।  
-ॐ यं नमः वामांगुष्ठाय पर्वणि ॥  
+ॐ सुं नमः दक्षिणाङ्गुष्ठोर्ध्वपर्वणि ।  
+ॐ दें नमः दक्षिणाङ्गुष्ठाय पर्वणि ।  
+ॐ वां नमः वामाङ्गुष्ठोर्ध्वपर्वणि ।  
+ॐ यं नमः वामाङ्गुष्ठाय पर्वणि ॥  
   
 विष्णुषडक्षरन्यासः   
 ॐ ॐ नमः हृदये ।  
@@ -87,7 +88,7 @@ title = "नारायणकवचम् (भागवतमहापुरा
 नारायणमयं वर्म सन्नह्येद्भय आगते ।  
 पादयोर्जानुनोरूर्वोरुदरे हृद्यथोरसि ॥ ५॥  
   
-मुखे शिरस्यानुपूर्व्यादोंकारादीनि विन्यसेत् ।  
+मुखे शिरस्यानुपूर्व्यादोङ्कारादीनि विन्यसेत् ।  
 ॐ नमो नारायणायेति विपर्ययमथापि वा ॥ ६॥  
   
 करन्यासं ततः कुर्याद्द्वादशाक्षरविद्यया ।  
@@ -184,7 +185,7 @@ title = "नारायणकवचम् (भागवतमहापुरा
 सरीसृपेभ्यो दंष्ट्रिभ्यो भूतेभ्योंऽहोभ्य एव च ॥ २७॥  
   
 सर्वाण्येतानि भगवन्नामरूपास्त्रकीर्तनात् ।  
-प्रयान्तु संक्षयं सद्यो ये नः श्रेयःप्रतीपकाः ॥ २८॥  
+प्रयान्तु सङ्क्षयं सद्यो ये नः श्रेयःप्रतीपकाः ॥ २८॥  
   
 गरुडो भगवान् स्तोत्रस्तोभश्छन्दोमयः प्रभुः ।  
 रक्षत्वशेषकृच्छ्रेभ्यो विष्वक्सेनः स्वनामभिः ॥ २९ ॥  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAmAShTakam 2"
-"File name" = "raamaashhTaka2.itx"
-itxtitle = "rAmAShTakam 2 (kRitArtadevavandanam)"
-engtitle = "rAmAShTakam 2"
-Category = "aShTaka, raama, brahmAnanda"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "brahmAnanda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.webdunia.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-"Latest update" = "January 13, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टकम् २ (कृइतार्तदेववन्दनम्)"
+---
+Author: brahmAnanda
+Category: aShTaka, raama, brahmAnanda
+File name: raamaashhTaka2.itx
+Language: Sanskrit
+Latest update: January 13, 2002
+Location: doc_raama
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmAShTakam 2
+Transliterated by: http://www.webdunia.com
+engtitle: rAmAShTakam 2
+itxtitle: rAmAShTakam 2 (kRitArtadevavandanam)
+title: रामाष्टकम् २ (कृइतार्तदेववन्दनम्)
 
-+++
+---
   
  श्रीरामाष्टकम् २   
   

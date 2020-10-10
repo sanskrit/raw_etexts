@@ -1,25 +1,25 @@
-+++
-"Text title" = "tulasIpUjA 3"
-"File name" = "tulasIpUjA3.itx"
-itxtitle = "tulasIpUjA 3"
-engtitle = "tulasIpUjA 3"
-Category = "pUjA, devii, tulasI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar"
-Description-comments = "laghupUjA"
-Indexextra = "(TulasiPuja scanned)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "June 12, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलसीपूजा ३"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: pUjA, devii, tulasI, devI
+Description-comments: laghupUjA
+File name: tulasIpUjA3.itx
+Indexextra: (TulasiPuja scanned)
+Language: Sanskrit
+Latest update: June 12, 2017
+Location: doc_devii
+Proofread by: Shree Devi Kumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulasIpUjA 3
+Transliterated by: Shree Devi Kumar
+engtitle: tulasIpUjA 3
+itxtitle: tulasIpUjA 3
+title: तुलसीपूजा ३
 
-+++
+---
   
  तुलसीपूजा ३  
   

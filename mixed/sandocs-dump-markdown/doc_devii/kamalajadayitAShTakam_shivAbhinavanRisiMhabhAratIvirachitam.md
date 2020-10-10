@@ -1,24 +1,24 @@
-+++
-"Text title" = "kamalajadayitAShTakam"
-"File name" = "kamalajadayitAShTakam.itx"
-itxtitle = "kamalajadayitAShTakam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "kamalajadayitAShTakam"
-Category = "aShTaka, devii, sarasvatI, devI, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. R. Ramamurthy"
-"Proofread by" = "P. R. Ramamurthy"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कमलजदयिताष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: aShTaka, devii, sarasvatI, devI, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: kamalajadayitAShTakam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: P. R. Ramamurthy
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kamalajadayitAShTakam
+Transliterated by: P. R. Ramamurthy
+engtitle: kamalajadayitAShTakam
+itxtitle: kamalajadayitAShTakam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: कमलजदयिताष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीकमलजदयिताष्टकम्   
 शृङ्गक्ष्माभृन्निवासे शुकमुखमुनिभिः सेव्यमानाङ्घ्रिपद्मे  

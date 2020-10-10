@@ -1,22 +1,23 @@
-+++
-"Text title" = "kumArastutiH"
-"File name" = "kumArastutiH.itx"
-itxtitle = "kumArastutiH (shivapurANAntargatA)"
-engtitle = "kumArastutiH"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Description/comments" = "shivapurANam 2.4.6 verses 4-22"
-Source = "shivapurANam, saMhitA 2 (rudrasaMhitA), khaNDaH 4 (kumArakhaNDaH) adhyAyaH 06"
-"Latest update" = "May 12, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमारस्तुतिः (शिवपुराणान्तर्गता)"
+---
+Category: subrahmanya
+Description/comments: shivapurANam 2.4.6 verses 4-22
+File name: kumArastutiH.itx
+Language: Sanskrit
+Latest update: May 12, 2018
+Location: doc_subrahmanya
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shivapurANam, saMhitA 2 (rudrasaMhitA), khaNDaH 4 (kumArakhaNDaH) adhyAyaH
+  06
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: kumArastutiH
+engtitle: kumArastutiH
+itxtitle: kumArastutiH (shivapurANAntargatA)
+title: कुमारस्तुतिः (शिवपुराणान्तर्गता)
 
-+++
+---
   
  श्रीकुमारस्तुतिः   
 विप्र उवाच -  
@@ -81,7 +82,7 @@ title = "कुमारस्तुतिः (शिवपुराणान्
 सर्वत्राता स्कन्द हि त्वं सर्वज्ञाता त्वमेव हि ।  
 सर्वेश्वरस्त्वमीशानो निवेशसकलाऽवनः ॥ १७॥  
   
-संगीतज्ञस्त्वमेवासि वेदविज्ञः परः प्रभुः ।  
+सङ्गीतज्ञस्त्वमेवासि वेदविज्ञः परः प्रभुः ।  
 सर्वस्थाता विधाता त्वं देवदेवस्सतां गतिः ॥ १८॥  
   
 भवानीनन्दनश्शम्भुतनयो वयुनः स्वराट् ।  

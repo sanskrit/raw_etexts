@@ -1,25 +1,25 @@
-+++
-"Text title" = "Sadguru Sri Tyagabrahma Prapatti Stutih"
-"File name" = "tyAgabrahmaprapattistutiH.itx"
-itxtitle = "tyAgabrahmaprapattistutiH (puShpA shrIvatsena virachitA)"
-engtitle = "tyAgabrahmaprapattistutiH"
-Category = "deities_misc, gurudev, puShpAshrIvatsan"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "svara"
-Author = "Pushpa Shrivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan  nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan  nvvathsan at gmail.com"
-Indexextra = "(Collection, Paramarthananda)"
-"Latest update" = "June 7, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्यागब्रह्मप्रपत्तिस्तुतिः (पुष्पा श्रीवत्सेन विरचिता)"
+---
+Author: Pushpa Shrivatsan
+Category: deities_misc, gurudev, puShpAshrIvatsan
+File name: tyAgabrahmaprapattistutiH.itx
+Indexextra: (Collection, Paramarthananda)
+Language: Sanskrit
+Latest update: June 7, 2020
+Location: doc_deities_misc
+Proofread by: N V Vathsan  nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Sadguru Sri Tyagabrahma Prapatti Stutih
+Texttype: svara
+Transliterated by: N V Vathsan  nvvathsan at gmail.com
+engtitle: tyAgabrahmaprapattistutiH
+itxtitle: tyAgabrahmaprapattistutiH (puShpA shrIvatsena virachitA)
+title: त्यागब्रह्मप्रपत्तिस्तुतिः (पुष्पा श्रीवत्सेन विरचिता)
 
-+++
+---
   
  सद्गुरुश्रीत्यागब्रह्मप्रपत्तिस्तुतिः   
                 ॐ  
@@ -57,14 +57,14 @@ title = "त्यागब्रह्मप्रपत्तिस्तु�
 स्वरसुसूक्ष्मप्रकाशन  वरसुगान्धर्वगायन  
      शरणमाचार्यदैवत शरणमाचार्यदैवत ॥ ५॥  
   
-विमलसच्चित्ततेजस विबुधसंतोषगारस  
+विमलसच्चित्ततेजस विबुधसन्तोषगारस  
      पवनजस्तोत्रपात्रग वनजनेत्रस्वभावग ।  
 अवनिजाजानिगायन नवनवामिष्टकीर्तन  
      शरणमाचार्यदैवत शरणमाचार्यदैवत ॥ ६॥  
   
 सुमुखतेजोजितार्कच 4 नयनदीप्तिस्फुरज्ज्वल  
      रसननामस्वराङ्कित गललयामञ्जुतुम्बर ।  
-करसुमानादझल्लक सुपदमञ्जीरझंझण  
+करसुमानादझल्लक सुपदमञ्जीरझञ्झण  
      शरणमाचार्यदैवत शरणमाचार्यदैवत ॥ ७॥  
   
 भजनसङ्गीतहर्षण भजनसन्मार्गदर्शन  
@@ -193,7 +193,7 @@ title = "त्यागब्रह्मप्रपत्तिस्तु�
      शरणमाचार्यदैवत शरणमाचार्यदैवत ॥ ३२॥  
   
 जननसंसाररोगह मरणभीत्याद्यपोहन  
-     चरणसंध्यातृसस्थिर शरणमागन्तुधारण ।  
+     चरणसन्ध्यातृसस्थिर शरणमागन्तुधारण ।  
 स्मरणसाध्यानपोषण भजकसात्मीकरावन  
      शरणमाचार्यदैवत शरणमाचार्यदैवत ॥ ३३॥  
   

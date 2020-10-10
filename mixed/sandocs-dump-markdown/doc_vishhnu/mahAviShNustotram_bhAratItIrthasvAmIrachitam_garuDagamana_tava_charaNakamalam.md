@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAviShNustotram by BharatiTirtha Swamiji of Shringeri Math"
-"File name" = "mahAviShNustotra.itx"
-itxtitle = "mahAviShNustotram (bhAratItIrthasvAmIrachitam garuDagamana tava charaNakamalam)"
-engtitle = "mahAviShNustotram by BharatiTirtha Swamiji"
-Category = "vishhnu, bhAratItIrtha, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Jagadguru Bharatitirtha Swamiji of Shringeri Math"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Translated by" = "P.R.Ramachander"
-Description-comments = "Vishnustutimanjari 3"
-Indexextra = "(audio)"
-"Latest update" = "July 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाविष्णुस्तोत्रम् (भारतीतीर्थस्वामीरचितम् गरुडगमन तव चरणकमलम्)"
+---
+Author: Jagadguru Bharatitirtha Swamiji of Shringeri Math
+Category: vishhnu, bhAratItIrtha, vishnu
+Description-comments: Vishnustutimanjari 3
+File name: mahAviShNustotra.itx
+Indexextra: (audio)
+Language: Sanskrit
+Latest update: July 4, 2017
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: mahAviShNustotram by BharatiTirtha Swamiji of Shringeri Math
+Translated by: P.R.Ramachander
+engtitle: mahAviShNustotram by BharatiTirtha Swamiji
+itxtitle: mahAviShNustotram (bhAratItIrthasvAmIrachitam garuDagamana tava charaNakamalam)
+title: महाविष्णुस्तोत्रम् (भारतीतीर्थस्वामीरचितम् गरुडगमन तव चरणकमलम्)
 
-+++
+---
   
  महाविष्णुस्तोत्रम्   
   

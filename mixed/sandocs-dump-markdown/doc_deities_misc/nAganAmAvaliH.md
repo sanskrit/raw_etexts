@@ -1,22 +1,22 @@
-+++
-"Text title" = "Naga Namavali 78 Names"
-"File name" = "nAganAmAvaliH.itx"
-itxtitle = "nAganAmAvaliH"
-engtitle = "nAganAmAvaliH"
-Category = "deities_misc, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Pandit Shri Rama Ramanuja Acharya, srimatham.com"
-"Latest update" = "June 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नागनामावलिः"
+---
+Acknowledge-Permission: Pandit Shri Rama Ramanuja Acharya, srimatham.com
+Category: deities_misc, nAmAvalI
+File name: nAganAmAvaliH.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: June 22, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Naga Namavali 78 Names
+engtitle: nAganAmAvaliH
+itxtitle: nAganAmAvaliH
+title: नागनामावलिः
 
-+++
+---
   
  नागनामावलिः   
 ॐ शेषाय नमः । वासुक्यै । ऐरावताय । तक्षकाय । कर्कोटकाय ।  

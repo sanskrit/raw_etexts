@@ -1,21 +1,21 @@
-+++
-"Text title" = "paurANaprayogadarpaNaH"
-"File name" = "paurANaprayogadarpaNaH.itx"
-itxtitle = "paurANaprayogadarpaNaH"
-engtitle = "paurANaprayogadarpaNaH"
-Category = "misc, pUjA"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Parameshwar Puttanmane poornapathi at gmail.com"
-"Proofread by" = "Parameshwar Puttanmane poornapathi at gmail.com"
-"Latest update" = "October 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पौराणप्रयोगदर्पणः"
+---
+Category: misc, pUjA
+File name: paurANaprayogadarpaNaH.itx
+Language: Sanskrit
+Latest update: October 6, 2018
+Location: doc_z_misc_general
+Proofread by: Parameshwar Puttanmane poornapathi at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: paurANaprayogadarpaNaH
+Transliterated by: Parameshwar Puttanmane poornapathi at gmail.com
+engtitle: paurANaprayogadarpaNaH
+itxtitle: paurANaprayogadarpaNaH
+title: पौराणप्रयोगदर्पणः
 
-+++
+---
   
  पौराण प्रयोग दर्पणः   
   

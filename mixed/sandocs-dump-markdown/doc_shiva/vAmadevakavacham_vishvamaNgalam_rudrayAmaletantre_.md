@@ -1,22 +1,22 @@
-+++
-"Text title" = "vAmadevakavacham"
-"File name" = "vAmadevakavacham.itx"
-itxtitle = "vAmadevakavacham vishvamaNgalam (rudrayAmaletantre )"
-engtitle = "vAmadevakavacham"
-Category = "shiva, kavacha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Manuscipt, Info)"
-"Latest update" = "March 8, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वामदेवकवचम् विश्वमण्गलम् (रुद्रयामलेतन्त्रे )"
+---
+Category: shiva, kavacha
+File name: vAmadevakavacham.itx
+Indexextra: (Manuscipt, Info)
+Language: Sanskrit
+Latest update: March 8, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: vAmadevakavacham
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: vAmadevakavacham
+itxtitle: vAmadevakavacham vishvamaNgalam (rudrayAmaletantre )
+title: वामदेवकवचम् विश्वमण्गलम् (रुद्रयामलेतन्त्रे )
 
-+++
+---
   
  श्रीविश्वमङ्गलं श्रीवामदेवकवचम्   
 ॐ श्रीगणेशाय नमः ।  

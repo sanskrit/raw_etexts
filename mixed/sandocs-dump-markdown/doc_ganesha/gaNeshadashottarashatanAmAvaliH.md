@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNeshadashottarashatanAmAvaliH"
-"File name" = "gaNeshadashottarashatanAmAvaliH.itx"
-itxtitle = "gaNeshadashottarashatanAmAvaliH"
-engtitle = "gaNeshadashottarashatanAmAvaliH"
-Category = "ganesha, aShTottarashatanAma"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशदशोत्तरशतनामावलिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: ganesha, aShTottarashatanAma
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: gaNeshadashottarashatanAmAvaliH.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_ganesha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshadashottarashatanAmAvaliH
+engtitle: gaNeshadashottarashatanAmAvaliH
+itxtitle: gaNeshadashottarashatanAmAvaliH
+title: गणेशदशोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीगणेशदशोत्तरशतनामावलिः   
   

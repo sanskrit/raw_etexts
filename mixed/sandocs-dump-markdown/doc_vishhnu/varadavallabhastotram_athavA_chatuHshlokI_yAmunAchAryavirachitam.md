@@ -1,21 +1,21 @@
-+++
-"Text title" = "varadavallabhastotram"
-"File name" = "varadavallabhastotram.itx"
-itxtitle = "varadavallabhastotram athavA chatuHshlokI (yAmunAchAryavirachitam)"
-engtitle = "varadavallabhastotram"
-Category = "vishhnu, vishnu, yAmunAchArya, krishna, chatuHshlokI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "yAmunAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "February 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वरदवल्लभस्तोत्रम् अथवा चतुःश्लोकी (यामुनाचार्यविरचितम्)"
+---
+Author: yAmunAchArya
+Category: vishhnu, vishnu, yAmunAchArya, krishna, chatuHshlokI
+File name: varadavallabhastotram.itx
+Language: Sanskrit
+Latest update: February 21, 2018
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: varadavallabhastotram
+engtitle: varadavallabhastotram
+itxtitle: varadavallabhastotram athavA chatuHshlokI (yAmunAchAryavirachitam)
+title: वरदवल्लभस्तोत्रम् अथवा चतुःश्लोकी (यामुनाचार्यविरचितम्)
 
-+++
+---
   
  वरदवल्लभसतोत्रम् अथवा चतुःश्लोकी   
 यत्पदाम्भोरुहध्यानविध्वस्ताशेषकल्मषः ।  

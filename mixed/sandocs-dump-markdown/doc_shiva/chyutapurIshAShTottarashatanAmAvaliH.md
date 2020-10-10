@@ -1,24 +1,24 @@
-+++
-"Text title" = "chyutapurIshAShTottarashatanAmAvalI"
-"File name" = "chyutapurIshAShTottarashatanAmAvalI.itx"
-itxtitle = "chyutapurIshAShTottarashatanAmAvaliH"
-engtitle = "chyutapurIshAShTottarashatanAmAvaliH"
-Category = "aShTottarashatanAmAvalI, shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Shivakumar Thyagarajan, PSA Easwaran"
-Source = "Sri Niyama Kshetra Mahatmyam"
-Acknowledge-Permission = "Matangi Publications, http://svradhakrishnasastri.in"
-"Latest update" = "May 19, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "च्युतपुरीशाष्टोत्तरशतनामावलिः"
+---
+Acknowledge-Permission: Matangi Publications, http://svradhakrishnasastri.in
+Category: aShTottarashatanAmAvalI, shiva, nAmAvalI
+File name: chyutapurIshAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: May 19, 2016
+Location: doc_shiva
+Proofread by: Shivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sri Niyama Kshetra Mahatmyam
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: chyutapurIshAShTottarashatanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Shivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: chyutapurIshAShTottarashatanAmAvaliH
+itxtitle: chyutapurIshAShTottarashatanAmAvaliH
+title: च्युतपुरीशाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीच्युतपुरीशाष्टोत्तरशतनामावलिः   
   

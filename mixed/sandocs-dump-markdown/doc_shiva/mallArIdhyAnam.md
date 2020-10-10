@@ -1,19 +1,19 @@
-+++
-"Text title" = "mallArIdhyAnam"
-"File name" = "mallArIdhyAnam.itx"
-itxtitle = "mallArIdhyAnam"
-engtitle = "mallArIdhyAnam"
-Category = "shiva, dhyAnam"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "December 15, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मल्लारीध्यानम्"
+---
+Category: shiva, dhyAnam
+File name: mallArIdhyAnam.itx
+Language: Sanskrit
+Latest update: December 15, 2018
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mallArIdhyAnam
+engtitle: mallArIdhyAnam
+itxtitle: mallArIdhyAnam
+title: मल्लारीध्यानम्
 
-+++
+---
   
  श्रीमल्लारीध्यानम्   
 ध्यायेन्मल्लारिदेवं कनकगिरिनिभं म्हाळसा भूषिताङ्कं  

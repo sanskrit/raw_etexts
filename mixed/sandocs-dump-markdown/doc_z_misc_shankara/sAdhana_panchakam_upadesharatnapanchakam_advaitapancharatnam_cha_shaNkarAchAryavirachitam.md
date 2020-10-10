@@ -1,24 +1,24 @@
-+++
-"Text title" = "sAdhana pa.nchakam"
-"File name" = "saadhana-panchakam.itx"
-itxtitle = "sAdhana panchakam upadesharatnapanchakam advaitapancharatnam cha (shaNkarAchAryavirachitam)"
-engtitle = "sAdhana panchakam"
-Category = "panchaka, shankarAchArya, vedanta"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "40 items constituting @@ Vedaantic Saadhanaa @@."
-Indexextra = "(Hindi, Meaning, Sanskrit)"
-"Latest update" = "Dec. 16,1997, February 28, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "साधन पञ्चकम् उपदेशरत्नपञ्चकम् अद्वैतपञ्चरत्नम् च (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: panchaka, shankarAchArya, vedanta
+Description-comments: 40 items constituting @@ Vedaantic Saadhanaa @@.
+File name: saadhana-panchakam.itx
+Indexextra: (Hindi, Meaning, Sanskrit)
+Language: Sanskrit
+Latest update: Dec. 16,1997, February 28, 2011
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: sAdhana pa.nchakam
+Transliterated by: Sunder Hattangadi
+engtitle: sAdhana panchakam
+itxtitle: sAdhana panchakam upadesharatnapanchakam advaitapancharatnam cha (shaNkarAchAryavirachitam)
+title: साधन पञ्चकम् उपदेशरत्नपञ्चकम् अद्वैतपञ्चरत्नम् च (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  साधन पञ्चकं   
 अद्वैतपङ्चरत्नम् च  

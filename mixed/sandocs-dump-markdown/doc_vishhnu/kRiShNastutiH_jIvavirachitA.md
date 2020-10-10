@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRRiShNastutiH jIva"
-"File name" = "kRRiShNastutiHjIva.itx"
-itxtitle = "kRiShNastutiH (jIvavirachitA)"
-engtitle = "kRRiShNastutiH jIva"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तुतिः (जीवविरचिता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, krishna
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: kRRiShNastutiHjIva.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNastutiH jIva
+engtitle: kRRiShNastutiH jIva
+itxtitle: kRiShNastutiH (jIvavirachitA)
+title: कृइष्णस्तुतिः (जीवविरचिता)
 
-+++
+---
   
  कृष्णस्तुतिःजीव   
   

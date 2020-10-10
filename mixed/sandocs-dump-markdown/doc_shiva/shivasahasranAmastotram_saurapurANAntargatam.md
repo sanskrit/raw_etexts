@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivasahasranAmastotra from Saurapurana"
-"File name" = "shivasahasranAmastotrasaura.itx"
-itxtitle = "shivasahasranAmastotram (saurapurANAntargatam)"
-engtitle = "shivasahasranAmastotram from Saurapurana"
-Category = "shiva, sahasranAma"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD, Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Description/comments" = "shrIbrahmapurANopapurANe shrIsaure sUtashaunakasaMvAde"
-"Latest update" = "December 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसहस्रनामस्तोत्रम् (सौरपुराणान्तर्गतम्)"
+---
+Category: shiva, sahasranAma
+Description/comments: shrIbrahmapurANopapurANe shrIsaure sUtashaunakasaMvAde
+File name: shivasahasranAmastotrasaura.itx
+Language: Sanskrit
+Latest update: December 28, 2017
+Location: doc_shiva
+Proofread by: DPD, Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivasahasranAmastotra from Saurapurana
+Transliterated by: DPD
+engtitle: shivasahasranAmastotram from Saurapurana
+itxtitle: shivasahasranAmastotram (saurapurANAntargatam)
+title: शिवसहस्रनामस्तोत्रम् (सौरपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीशिवसहस्रनामस्तोत्रं श्रीसौरपुराणान्तर्गतम्   
   

@@ -1,22 +1,23 @@
-+++
-"Text title" = "kumArasambhavam sarga 1-8"
-"File name" = "kumArasambhavam8.itx"
-itxtitle = "kumArasambhavam sargaH 1-8"
-engtitle = "kumArasambhavam sargaH 1-8"
-Category = "major_works, kAlidAsa"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "kAlidAsa"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Encoded by Utz Podzeit for Gretil collection Ulrich Stiehl helped converting the REE format to Itrans notation."
-Indexextra = "(sarga 1-8) audio)"
-"Latest update" = "January 28, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमारसम्भवम् सर्गः १-८"
+---
+Author: kAlidAsa
+Category: major_works, kAlidAsa
+File name: kumArasambhavam8.itx
+Indexextra: (sarga 1-8) audio)
+Language: Sanskrit
+Latest update: January 28, 2008
+Location: doc_z_misc_major_works
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: major_works
+Text title: kumArasambhavam sarga 1-8
+Transliterated by: Encoded by Utz Podzeit for Gretil collection Ulrich Stiehl helped
+  converting the REE format to Itrans notation.
+engtitle: kumArasambhavam sargaH 1-8
+itxtitle: kumArasambhavam sargaH 1-8
+title: कुमारसम्भवम् सर्गः १-८
 
-+++
+---
   
  कुमारसम्भवम् सर्गः १-८   
   
@@ -521,7 +522,7 @@ title = "कुमारसम्भवम् सर्गः १-८"
 आत्मेश्वराणां न हि जातु विघ्नाः समाधिभेदप्रभवो भवन्ति ॥ ३।४०॥  
   
 लतागृहद्वारगतो ऽथ नन्दी वामप्रकोष्ठार्पितहेमवेत्रः ।  
-मुखार्पितैकाङ्गुलिसंज्ञयैव मा चापलायेति गणान्व्यनैषीत् ॥ ३।४१॥  
+मुखार्पितैकाङ्गुलिसञ्ज्ञयैव मा चापलायेति गणान्व्यनैषीत् ॥ ३।४१॥  
   
 निष्कम्पवृक्षं निभृतद्विरेफं मूकाण्डजं शान्तमृगप्रचारम् ।  
 तच्छासनात्काननमेव सर्वं चित्रार्पितारम्भमिवावतस्थे ॥ ३।४२॥  
@@ -572,7 +573,7 @@ title = "कुमारसम्भवम् सर्गः १-८"
 जितेन्द्रिये शूलिनि पुष्पचापः स्वकार्यसिद्धिं पुनराशशंसे ॥ ३।५७॥  
   
 भविष्यतः पत्युरुमा च शम्भोः समाससाद प्रतिहारभूमिम् ।  
-योगात्स चान्तः परमात्मसंज्ञं दृष्ट्वा परं ज्योतिरुपारराम ॥ ३।५८॥  
+योगात्स चान्तः परमात्मसञ्ज्ञं दृष्ट्वा परं ज्योतिरुपारराम ॥ ३।५८॥  
   
 ततो भुजङ्गाधिपतेः फणाग्रैरधः कथं चिद्धृतभूमिभागः ।  
 शनैः कृतप्राणविमुक्तिरीशः पर्यङ्कबन्धं निबिडं बिभेद ॥ ३।५९॥  
@@ -1164,7 +1165,7 @@ title = "कुमारसम्भवम् सर्गः १-८"
 अनभिज्ञास्तमिस्राणां दुर्दिनेष्वभिसारिकाः ॥ ६।४३॥  
   
 यौवनान्तं वयो यस्मिन्नातङ्कः कुसुमायुधः ।  
-रतिखेदसमुत्पन्ना निद्रा संज्ञाविपर्ययः ॥ ६।४४॥  
+रतिखेदसमुत्पन्ना निद्रा सञ्ज्ञाविपर्ययः ॥ ६।४४॥  
   
 भ्रूभेदिभिः सकम्पोष्ठैर्ललिताङ्गुलितर्जनैः ।  
 यत्र कोपैः कृताः स्त्रीणामाप्रसादार्थिनः प्रियाः ॥ ६।४५॥  
@@ -1454,7 +1455,7 @@ title = "कुमारसम्भवम् सर्गः १-८"
 विष्णोर्हरस्तस्य हरिः कदाचिद्वेधास्तयोस्तावपि धातुराद्यौ ॥ ७।४४॥  
   
 तं लोकपालाः पुरुहूतमुख्याः श्रीलक्षणोत्सर्गविनीतवेषाः ।  
-दृष्टिप्रदाने कृतनन्दिसंज्ञास्तद्दर्शिताः प्राञ्जलयः प्रणेमुः ॥ ७।४५॥  
+दृष्टिप्रदाने कृतनन्दिसञ्ज्ञास्तद्दर्शिताः प्राञ्जलयः प्रणेमुः ॥ ७।४५॥  
   
 कम्पेन मूर्ध्नः शतपत्रयोनिं वाचा हरिं वृत्रहणं स्मितेन ।  
 आलोकमात्रेण सुरानशेषान्सम्भावयामास यथाप्रधानम् ॥ ७।४६॥  

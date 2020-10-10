@@ -1,22 +1,22 @@
-+++
-"Text title" = "kAlabhairavapancharatnastutiH"
-"File name" = "kAlabhairavapancharatnastutiH.itx"
-itxtitle = "kAlabhairavapancharatnastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "kAlabhairavapancharatnastutiH"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, pancharatna"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालभैरवपञ्चरत्नस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, pancharatna
+File name: kAlabhairavapancharatnastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: kAlabhairavapancharatnastutiH
+engtitle: kAlabhairavapancharatnastutiH
+itxtitle: kAlabhairavapancharatnastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: कालभैरवपञ्चरत्नस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीकालभैरवपञ्चरत्नस्तुतिः   
 खङ्गं कपालं डमरुं त्रिशूलं हस्ताम्बुजे सन्दधतं त्रिणेत्रम् ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "kAlabhairava sahasranAma stotram"
-"File name" = "kAlabhairavasahasra.itx"
-itxtitle = "kAlabhairavasahasranAmastotram"
-engtitle = "kAlabhairava sahasranAma stotram"
-Category = "sahasranAma, shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin bhalekar ravibhalekar at hotmail.com"
-Description-comments = "uDDAmaretantre umAmaheshvarasa.vAde"
-"Latest update" = "November 26, 2006, December 25, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालभैरवसहस्रनामस्तोत्रम्"
+---
+Author: Traditional
+Category: sahasranAma, shiva, stotra
+Description-comments: uDDAmaretantre umAmaheshvarasa.vAde
+File name: kAlabhairavasahasra.itx
+Language: Sanskrit
+Latest update: November 26, 2006, December 25, 2019
+Location: doc_shiva
+Proofread by: Ravin bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: kAlabhairava sahasranAma stotram
+Texttype: stotra
+Transliterated by: Ravin bhalekar ravibhalekar at hotmail.com
+engtitle: kAlabhairava sahasranAma stotram
+itxtitle: kAlabhairavasahasranAmastotram
+title: कालभैरवसहस्रनामस्तोत्रम्
 
-+++
+---
   
  कालभैरवसहस्रनामस्तोत्रम्   
   
@@ -207,7 +207,7 @@ title = "कालभैरवसहस्रनामस्तोत्रम�
 कल्याणः प्रकृतिः कल्पः कल्पादिः कमलेक्षणः ।  
 कमण्ड्लुधरः केतुः कालयोगीत्वकल्मषः ॥ ६०॥  
   
-करणं कारणंकर्ता कैलासपतिरीश्वरः ।  
+करणं कारणङ्कर्ता कैलासपतिरीश्वरः ।  
 कामारिः कश्यपोनादि किरीटी कौशिकस्तथा ॥ ६१॥  
   
 कपिलः कुशलः कर्ताकुमारः कल्पवृक्षकः ।  

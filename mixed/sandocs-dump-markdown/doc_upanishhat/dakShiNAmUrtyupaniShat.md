@@ -1,23 +1,23 @@
-+++
-"Text title" = "DakShinamurti Upanishad"
-"File name" = "dakshina_upan.itx"
-itxtitle = "dakShiNAmUrtyupaniShat"
-engtitle = "DakShinamurti Upanishad"
-Category = "upanishhat, upanishad, shiva"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "49 / 108; Krishna Yajurveda - Shaiva upanishad"
-"Latest update" = "Mar. 19, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्त्युपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad, shiva
+Description-comments: 49 / 108; Krishna Yajurveda - Shaiva upanishad
+File name: dakshina_upan.itx
+Language: Sanskrit
+Latest update: Mar. 19, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: DakShinamurti Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: DakShinamurti Upanishad
+itxtitle: dakShiNAmUrtyupaniShat
+title: दक्षिणामूर्त्युपनिषत्
 
-+++
+---
   
  दक्षिणामूर्त्युपनिषत्   
   
@@ -66,7 +66,7 @@ title = "दक्षिणामूर्त्युपनिषत्"
     दद्यादाद्यः शुकाद्यैर्मुनिभिरभिवृतो भावशुद्धिं भवो नः ॥ ५॥  
   
 मन्त्रेण न्यासः ब्रह्मर्षिन्यासः -  
-तारं ब्रूंनम उच्चार्य मायां वाग्भवमेव च ।  
+तारं ब्रून्नम उच्चार्य मायां वाग्भवमेव च ।  
 दक्षिणापदमुच्चार्य ततः स्यान्मूर्तये पदम् ॥ ६॥  
   
 ज्ञानं देहि पदं पश्चाद्वह्निजायां ततो न्यसेत् ।  
@@ -78,7 +78,7 @@ title = "दक्षिणामूर्त्युपनिषत्"
      सव्यालः कृत्तिवासाः सततमवतु नो दक्षिणामूर्तिरीशः ॥ ८॥  
   
 मन्त्रेण न्यासः । [ब्रह्मर्षिन्यासः ।]  
-तारं परं रमाबीजं वदेत्सांबशिवाय च ।  
+तारं परं रमाबीजं वदेत्साम्बशिवाय च ।  
 तुभ्यं चानलजायां मनुर्द्वादशवर्णकः ॥ ९॥  
   
 वीणां करैः पुस्तकमक्षमालां  
@@ -119,7 +119,7 @@ title = "दक्षिणामूर्त्युपनिषत्"
 वैराग्यमरणिं कृत्वा ज्ञानं कृत्वोत्तरारणिम् ॥ १६॥  
   
 गाढतामिस्रसंशान्त्यै गूढमर्थं निवेदयेत् ।  
-मोहभानुजसंक्रान्तं विवेकाख्यं मृकण्डुजम् ॥ १७॥  
+मोहभानुजसङ्क्रान्तं विवेकाख्यं मृकण्डुजम् ॥ १७॥  
   
 तत्त्वाविचारपाशेन बद्धं द्वैतभयातुरम् ।  
 उज्जीवयन्निजानन्दे स्वस्वरूपेण संस्थितः ॥ १८॥  

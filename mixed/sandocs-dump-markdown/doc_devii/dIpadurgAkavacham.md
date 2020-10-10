@@ -1,20 +1,20 @@
-+++
-"Text title" = "dIpadurgAkavacham"
-"File name" = "dIpadurgAkavacham.itx"
-itxtitle = "dIpadurgAkavacham"
-engtitle = "dIpadurgAkavacham"
-Category = "devii, kavacha, durgA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "April 11, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "दीपदुर्गाकवचम्"
+---
+Category: devii, kavacha, durgA
+File name: dIpadurgAkavacham.itx
+Language: Sanskrit
+Latest update: April 11, 2020
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dIpadurgAkavacham
+engtitle: dIpadurgAkavacham
+itxtitle: dIpadurgAkavacham
+title: दीपदुर्गाकवचम्
 
-+++
+---
   
  श्रीदीपदुर्गा कवचम्   
 श्रीभैरव उवाच ।  

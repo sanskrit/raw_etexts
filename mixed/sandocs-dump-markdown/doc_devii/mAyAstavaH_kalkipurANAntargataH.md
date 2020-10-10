@@ -1,21 +1,21 @@
-+++
-"Text title" = "mAyAstava"
-"File name" = "mAyAstavakalkipurANa.itx"
-itxtitle = "mAyAstavaH (kalkipurANAntargataH)"
-engtitle = "mAyAstavaH"
-Category = "devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "anonymous456an"
-"Latest update" = "June 16, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मायास्तवः (कल्किपुराणान्तर्गतः)"
+---
+Category: devii, otherforms, devI
+File name: mAyAstavakalkipurANa.itx
+Language: Sanskrit
+Latest update: June 16, 2017
+Location: doc_devii
+Proofread by: anonymous456an
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mAyAstava
+engtitle: mAyAstavaH
+itxtitle: mAyAstavaH (kalkipurANAntargataH)
+title: मायास्तवः (कल्किपुराणान्तर्गतः)
 
-+++
+---
   
  मायास्तवम्   
   
@@ -37,7 +37,7 @@ title = "मायास्तवः (कल्किपुराणान्त
 आत्मसंसारमोक्षाय मायास्तवमलं जगौ ॥ ४॥  
   
 शशिध्वज उवाच ।  
-ॐ ह्रींकारां सत्त्वसारां विशुद्धां  
+ॐ ह्रीङ्कारां सत्त्वसारां विशुद्धां  
      ब्रह्मादीनां मातरं वेदबोध्याम् ।  
 तन्वीं स्वाहां भूततन्मात्रकक्षां  
      वन्दे वन्द्यां देवगन्धर्वसिद्धैः ॥ ५॥  

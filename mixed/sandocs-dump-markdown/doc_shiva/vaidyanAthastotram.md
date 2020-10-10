@@ -1,21 +1,21 @@
-+++
-"Text title" = "vaidyanAthastotram"
-"File name" = "vaidyanAthastotram.itx"
-itxtitle = "vaidyanAthastotram"
-engtitle = "vaidyanAthastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वैद्यनाथस्तोत्रम्"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: shiva
+File name: vaidyanAthastotram.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: vaidyanAthastotram
+engtitle: vaidyanAthastotram
+itxtitle: vaidyanAthastotram
+title: वैद्यनाथस्तोत्रम्
 
-+++
+---
   
  श्रीवैद्यनाथस्तोत्रम्   
 अचिकित्सचिकित्साय आद्यन्तरहिताय च ।  

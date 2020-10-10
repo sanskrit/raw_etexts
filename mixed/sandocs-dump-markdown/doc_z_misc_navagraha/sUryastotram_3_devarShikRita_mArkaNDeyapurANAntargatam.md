@@ -1,22 +1,22 @@
-+++
-"Text title" = "sUryastotradevarShikRita"
-"File name" = "sUryastotradevarShikRita.itx"
-itxtitle = "sUryastotram 3 (devarShikRita mArkaNDeyapurANAntargatam)"
-engtitle = "sUryastotradevarShikRita"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Translated by" = "NA"
-Source = "Markandeya Purana Adhyaya 78"
-"Latest update" = "April 29, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यस्तोत्रम् ३ (देवर्षिकृइत मार्कण्डेयपुराणान्तर्गतम्)"
+---
+Category: navagraha, stotra
+File name: sUryastotradevarShikRita.itx
+Language: Sanskrit
+Latest update: April 29, 2016
+Location: doc_z_misc_navagraha
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Markandeya Purana Adhyaya 78
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryastotradevarShikRita
+Texttype: stotra
+Translated by: NA
+engtitle: sUryastotradevarShikRita
+itxtitle: sUryastotram 3 (devarShikRita mArkaNDeyapurANAntargatam)
+title: सूर्यस्तोत्रम् ३ (देवर्षिकृइत मार्कण्डेयपुराणान्तर्गतम्)
 
-+++
+---
   
  सूर्यस्तोत्रम् ३   
 देवा ऊचुः  

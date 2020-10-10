@@ -1,22 +1,22 @@
-+++
-"Text title" = "jagadambAstutiH 1"
-"File name" = "jagadambAstutiH.itx"
-itxtitle = "jagadambAstutiH 1"
-engtitle = "jagadambAstutiH 1"
-Category = "aShTaka, devii, devI, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Indexextra = "(Translation)"
-"Latest update" = "August 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जगदम्बास्तुतिः १"
+---
+Category: aShTaka, devii, devI, pArvatI
+File name: jagadambAstutiH.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: August 2, 2017
+Location: doc_devii
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvati
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jagadambAstutiH 1
+engtitle: jagadambAstutiH 1
+itxtitle: jagadambAstutiH 1
+title: जगदम्बास्तुतिः १
 
-+++
+---
   
  श्रीजगदम्बा स्तुतिः   
   

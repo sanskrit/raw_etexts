@@ -1,20 +1,20 @@
-+++
-"Text title" = "shivarakshAstotram"
-"File name" = "shivaraksha.itx"
-itxtitle = "shivarakShAstotram"
-engtitle = "shivaraxAstotram"
-Category = "raksha, shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Latest update" = "November 24, 2006, June 13 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवरक्षास्तोत्रम्"
+---
+Category: raksha, shiva, stotra
+File name: shivaraksha.itx
+Language: Sanskrit
+Latest update: November 24, 2006, June 13 2007
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: shiva
+Text title: shivarakshAstotram
+Texttype: stotra
+engtitle: shivaraxAstotram
+itxtitle: shivarakShAstotram
+title: शिवरक्षास्तोत्रम्
 
-+++
+---
   
  श्रीशिवरक्षास्तोत्रम्   
   
@@ -32,16 +32,16 @@ title = "शिवरक्षास्तोत्रम्"
 गौरीविनायकोपेतं पञ्चवक्त्रं त्रिनेत्रकम् ।  
 शिवं ध्यात्वा दशभुजं शिवरक्षां पठेन्नरः ॥ २॥  
   
-गंगाधरः शिरः पातु भालं अर्धेन्दुशेखरः ।  
+गङ्गाधरः शिरः पातु भालं अर्धेन्दुशेखरः ।  
 नयने मदनध्वंसी कर्णो सर्पविभूषण ॥ ३॥  
   
 घ्राणं पातु पुरारातिः मुखं पातु जगत्पतिः ।  
-जिह्वां वागीश्वरः पातु कंधरां शितिकंधरः ॥ ४॥  
+जिह्वां वागीश्वरः पातु कन्धरां शितिकन्धरः ॥ ४॥  
   
 श्रीकण्ठः पातु मे कण्ठं स्कन्धौ विश्वधुरन्धरः ।  
 भुजौ भूभारसंहर्ता करौ पातु पिनाकधृक् ॥ ५॥  
   
-हृदयं शंकरः पातु जठरं गिरिजापतिः ।  
+हृदयं शङ्करः पातु जठरं गिरिजापतिः ।  
 नाभिं मृत्युञ्जयः पातु कटी व्याघ्राजिनाम्बरः ॥ ६॥  
   
 सक्थिनी पातु दीनार्तशरणागतवत्सलः ॥  
@@ -50,7 +50,7 @@ title = "शिवरक्षास्तोत्रम्"
   
 जङ्घे पातु जगत्कर्ता गुल्फौ पातु गणाधिपः ॥  
   
-चरणौ करुणासिंधुः सर्वाङ्गानि सदाशिवः ॥ ८॥  
+चरणौ करुणासिन्धुः सर्वाङ्गानि सदाशिवः ॥ ८॥  
   
 एतां शिवबलोपेतां रक्षां यः सुकृती पठेत् ।  
 स भुक्त्वा सकलान्कामान् शिवसायुज्यमाप्नुयात् ॥ ९॥  

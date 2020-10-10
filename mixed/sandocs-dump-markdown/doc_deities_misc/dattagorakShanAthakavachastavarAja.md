@@ -1,22 +1,22 @@
-+++
-"Text title" = "dattagorakShanAthakavachastavarAja"
-"File name" = "dattagorakShanAthakavachastavarAja.itx"
-itxtitle = "dattagorakShanAthakavachastavarAja"
-engtitle = "dattagorakShanAthakavachastavarAja"
-Category = "deities_misc, gurudev, kavacha, stavarAja"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener, NA, PSA Easwaran"
-"Latest update" = "July 30, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तगोरक्षनाथकवचस्तवराज"
+---
+Category: deities_misc, gurudev, kavacha, stavarAja
+File name: dattagorakShanAthakavachastavarAja.itx
+Language: Sanskrit
+Latest update: July 30, 2017
+Location: doc_deities_misc
+Proofread by: Jonathan Wiener, NA, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattagorakShanAthakavachastavarAja
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: dattagorakShanAthakavachastavarAja
+itxtitle: dattagorakShanAthakavachastavarAja
+title: दत्तगोरक्षनाथकवचस्तवराज
 
-+++
+---
   
  श्रीदत्तगोरक्षनाथकवचस्तवराजः   
   

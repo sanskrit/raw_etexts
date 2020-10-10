@@ -1,24 +1,24 @@
-+++
-"Text title" = "shaninAmastutI"
-"File name" = "shaninAmastuti.itx"
-itxtitle = "shaninAmastutiH (bhaviShyapurANAntargatA)"
-engtitle = "shaninAmastutiH"
-Category = "navagraha, shani, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-SubDeity = "shani"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vineet Menon mvineetmenon at gmail.com"
-"Proofread by" = "Vineet Menon, anonymous456an at gmail.com"
-Description-comments = "bhaviShyapurANa"
-"Latest update" = "June 16, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शनिनामस्तुतिः (भविष्यपुराणान्तर्गता)"
+---
+Category: navagraha, shani, stotra
+Description-comments: bhaviShyapurANa
+File name: shaninAmastuti.itx
+Language: Sanskrit
+Latest update: June 16, 2017
+Location: doc_z_misc_navagraha
+Proofread by: Vineet Menon, anonymous456an at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: shani
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shaninAmastutI
+Texttype: stotra
+Transliterated by: Vineet Menon mvineetmenon at gmail.com
+engtitle: shaninAmastutiH
+itxtitle: shaninAmastutiH (bhaviShyapurANAntargatA)
+title: शनिनामस्तुतिः (भविष्यपुराणान्तर्गता)
 
-+++
+---
   
  श्रीशनिनामस्तुतिः   
   

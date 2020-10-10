@@ -1,22 +1,23 @@
-+++
-"Text title" = "shrItrivikramastotram"
-"File name" = "trivikramastotram.itx"
-itxtitle = "trivikramastotram (vAdirAjakRitam)"
-engtitle = "shrItrivikramastotram"
-Category = "vishhnu, vAdirAja, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Vadiraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिविक्रमस्तोत्रम् (वादिराजकृइतम्)"
+---
+Author: Vadiraja
+Category: vishhnu, vAdirAja, vishnu
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: trivikramastotram.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrItrivikramastotram
+engtitle: shrItrivikramastotram
+itxtitle: trivikramastotram (vAdirAjakRitam)
+title: त्रिविक्रमस्तोत्रम् (वादिराजकृइतम्)
 
-+++
+---
   
  श्रीत्रिविक्रमस्तोत्रम्   
   

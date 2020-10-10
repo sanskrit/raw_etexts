@@ -1,23 +1,23 @@
-+++
-"Text title" = "gururAjastavaH"
-"File name" = "gururAjastavaH.itx"
-itxtitle = "gururAjastavaH (kRiShNAnandasarasvatIkRitaH)"
-engtitle = "gururAjastavaH"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Krishnanandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुराजस्तवः (कृइष्णानन्दसरस्वतीकृइतः)"
+---
+Author: Krishnanandasarasvati
+Category: deities_misc, gurudev
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: gururAjastavaH.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gururAjastavaH
+engtitle: gururAjastavaH
+itxtitle: gururAjastavaH (kRiShNAnandasarasvatIkRitaH)
+title: गुरुराजस्तवः (कृइष्णानन्दसरस्वतीकृइतः)
 
-+++
+---
   
  गुरुराजस्तवः   
 सद्गुरुं भज सद्गुरुं भज सदगुरु भज बुद्धिमन्  

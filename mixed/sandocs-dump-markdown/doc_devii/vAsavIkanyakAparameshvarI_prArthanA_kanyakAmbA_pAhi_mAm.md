@@ -1,22 +1,22 @@
-+++
-"Text title" = "Vasavi Kanyaka Parameshvari Prarthana"
-"File name" = "vAsavIkanyakAparameshvarIprArthanA.itx"
-itxtitle = "vAsavIkanyakAparameshvarI prArthanA (kanyakAmbA pAhi mAm)"
-engtitle = "vAsavIkanyakAparameshvarI prArthanA"
-Category = "devii, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "page 45 Sri Vasavi Devi Divyakatha"
-Indexextra = "(Info 1, 2, 3)"
-"Latest update" = "May 31, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकापरमेश्वरी प्रार्थना (कन्यकाम्बा पाहि माम्)"
+---
+Category: devii, aShTaka, devI
+Description/comments: page 45 Sri Vasavi Devi Divyakatha
+File name: vAsavIkanyakAparameshvarIprArthanA.itx
+Indexextra: (Info 1, 2, 3)
+Language: Sanskrit
+Latest update: May 31, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vasavi Kanyaka Parameshvari Prarthana
+engtitle: vAsavIkanyakAparameshvarI prArthanA
+itxtitle: vAsavIkanyakAparameshvarI prArthanA (kanyakAmbA pAhi mAm)
+title: वासवीकन्यकापरमेश्वरी प्रार्थना (कन्यकाम्बा पाहि माम्)
 
-+++
+---
   
  श्रीवासवीकन्यकापरमेश्वरी अम्मवारी प्रार्थना   
 कन्यकाम्बा कन्यकाम्बा कन्यकाम्बा पाहि माम् ।  

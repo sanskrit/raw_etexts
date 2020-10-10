@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanUmatsmaraNam"
-"File name" = "hanUmatsmaraNam.itx"
-itxtitle = "hanUmatsmaraNam"
-engtitle = "Shrihanumatsmaranam"
-Category = "hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "September 18, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनूमत्स्मरणम्"
+---
+Category: hanumaana, stotra, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanUmatsmaraNam.itx
+Language: Sanskrit
+Latest update: September 18, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanUmatsmaraNam
+Texttype: stotra
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: Shrihanumatsmaranam
+itxtitle: hanUmatsmaraNam
+title: हनूमत्स्मरणम्
 
-+++
+---
   
  श्रीहनूमत्स्मरणम्   
   

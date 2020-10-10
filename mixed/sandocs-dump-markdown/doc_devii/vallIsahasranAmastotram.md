@@ -1,24 +1,24 @@
-+++
-"Text title" = "vallIsahasranAmastotram"
-"File name" = "vallIsahasranAmastotra.itx"
-itxtitle = "vallIsahasranAmastotram"
-engtitle = "Shri Valli Sahasranama Stotra"
-Category = "sahasranAma, subrahmanya, stotra, vyAsa"
-Location = "doc_devii"
-Sublocation = "subrahmanya"
-Texttype = "stotra"
-Author = "Vyasa (Skanda Purana - Shankara Samhita)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh  at  hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh  at  hotmail.com"
-Source = "Bhagavati Stutimanjari (Mahaperiyaval Trust)"
-"Latest update" = "October 19, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्लीसहस्रनामस्तोत्रम्"
+---
+Author: Vyasa (Skanda Purana - Shankara Samhita)
+Category: sahasranAma, subrahmanya, stotra, vyAsa
+File name: vallIsahasranAmastotra.itx
+Language: Sanskrit
+Latest update: October 19, 2014
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh  at  hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Bhagavati Stutimanjari (Mahaperiyaval Trust)
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: vallIsahasranAmastotram
+Texttype: stotra
+Transliterated by: Sunder Hattangadi sunderh  at  hotmail.com
+engtitle: Shri Valli Sahasranama Stotra
+itxtitle: vallIsahasranAmastotram
+title: वल्लीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीवल्लीसहस्रनामस्तोत्रम्   
   

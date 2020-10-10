@@ -1,23 +1,23 @@
-+++
-"Text title" = "lakShmIsuprabhAtam"
-"File name" = "lakShmIsuprabhAtam.itx"
-itxtitle = "lakShmIsuprabhAtam"
-engtitle = "Shri Laxmi SuprabhAtam"
-Category = "devii, devI, suprabhAta, lakShmI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, PSA Easwaran"
-Indexextra = "(Video 1, 2, 3)"
-"Latest update" = "July 26, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीसुप्रभातम्"
+---
+Category: devii, devI, suprabhAta, lakShmI
+File name: lakShmIsuprabhAtam.itx
+Indexextra: (Video 1, 2, 3)
+Language: Sanskrit
+Latest update: July 26, 2019
+Location: doc_devii
+Proofread by: NA, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmIsuprabhAtam
+Transliterated by: NA
+engtitle: Shri Laxmi SuprabhAtam
+itxtitle: lakShmIsuprabhAtam
+title: लक्ष्मीसुप्रभातम्
 
-+++
+---
   
  श्रीलक्ष्मीसुप्रभातम्   
 मातः प्रसन्नवदनाम्बुजनिर्जिताग्रे?  
@@ -96,7 +96,7 @@ title = "लक्ष्मीसुप्रभातम्"
 श्रीदेवि लक्ष्मि भवतात् तव सुप्रभातम् ॥ १५॥  
   
 त्वन्निर्मलेषु हृदयेषु सदैव रूढा  
-तत्संपदं च सततं द्विगुणां करोषि ।  
+तत्सम्पदं च सततं द्विगुणां करोषि ।  
 सम्पन्नता त्वमसि मङ्गलदेवि मातः  
 श्रीदेवि लक्ष्मि भवतात् तव सुप्रभातम् ॥ १६॥  
   

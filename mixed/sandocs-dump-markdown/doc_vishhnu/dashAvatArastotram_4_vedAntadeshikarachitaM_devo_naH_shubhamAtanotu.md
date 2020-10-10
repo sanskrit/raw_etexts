@@ -1,23 +1,23 @@
-+++
-"Text title" = "dashAvatArastotram 4"
-"File name" = "dashAvatArastotram4.itx"
-itxtitle = "dashAvatArastotram 4 (vedAntadeshikarachitaM devo naH shubhamAtanotu)"
-engtitle = "dashAvatArastotram 4"
-Category = "vishhnu, dashAvatAra, vishnu, vedAnta-deshika"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "TR Chari"
-"Proofread by" = "TR Chari, NA"
-Description-comments = "Brihatstotraratnavali 1 p. 136"
-"Latest update" = "June 12, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतारस्तोत्रम् ४ (वेदान्तदेशिकरचितं देवो नः शुभमातनोतु)"
+---
+Category: vishhnu, dashAvatAra, vishnu, vedAnta-deshika
+Description-comments: Brihatstotraratnavali 1 p. 136
+File name: dashAvatArastotram4.itx
+Language: Sanskrit
+Latest update: June 12, 2016
+Location: doc_vishhnu
+Proofread by: TR Chari, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dashAvatArastotram 4
+Transliterated by: TR Chari
+engtitle: dashAvatArastotram 4
+itxtitle: dashAvatArastotram 4 (vedAntadeshikarachitaM devo naH shubhamAtanotu)
+title: दशावतारस्तोत्रम् ४ (वेदान्तदेशिकरचितं देवो नः शुभमातनोतु)
 
-+++
+---
   
  दशावतारस्तोत्रम् ४   
 श्रीमते निगमान्तमहादेशिकाय नमः ।  

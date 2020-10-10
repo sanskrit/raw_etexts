@@ -1,21 +1,21 @@
-+++
-"Text title" = "Chamundeshvari Mangalam"
-"File name" = "chAmuNDeshvarImangalam.itx"
-itxtitle = "chAmuNDeshvarImaNgalam"
-engtitle = "chAmuNDeshvarImangalam"
-Category = "devii, mangala, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "January 4, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चामुण्डेश्वरीमण्गलम्"
+---
+Category: devii, mangala, durgA, devI
+File name: chAmuNDeshvarImangalam.itx
+Language: Sanskrit
+Latest update: January 4, 2019
+Location: doc_devii
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Chamundeshvari Mangalam
+engtitle: chAmuNDeshvarImangalam
+itxtitle: chAmuNDeshvarImaNgalam
+title: चामुण्डेश्वरीमण्गलम्
 
-+++
+---
   
  श्रीचामुण्डेश्वरीमङ्गलम्   
 श्रीशैलराजतनये चण्डमुण्डनिषूदिनी ।  
@@ -97,7 +97,7 @@ title = "चामुण्डेश्वरीमण्गलम्"
 शक्तियुक्तकरे तुभ्यं चामुण्डायै सुमङ्गलम् ॥ २६॥  
   
 पक्षिराजसमारूढे शङ्खचक्रलसत्करे ।  
-वैष्णवीसंज्ञिके तुभ्यं चामुण्डायै सुमङ्गलम् ॥ २७॥  
+वैष्णवीसञ्ज्ञिके तुभ्यं चामुण्डायै सुमङ्गलम् ॥ २७॥  
   
 वाराही महिषारूढे घोररूपसमन्विते ।  
 दंष्ट्रायुधधरे तुभ्यं चामुण्डायै सुमङ्गलम् ॥ २८॥  

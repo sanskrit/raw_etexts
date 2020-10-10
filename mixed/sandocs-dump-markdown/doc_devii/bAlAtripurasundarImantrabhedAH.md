@@ -1,23 +1,23 @@
-+++
-"Text title" = "bAlAtripurasundarImantrabhedAH"
-"File name" = "bAlAtripurasundarImantrabhedAH.itx"
-itxtitle = "bAlAtripurasundarImantrabhedAH"
-engtitle = "bAlAtripurasundarImantrabhedAH"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालात्रिपुरसुन्दरीमन्त्रभेदाः"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAtripurasundarImantrabhedAH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAtripurasundarImantrabhedAH
+engtitle: bAlAtripurasundarImantrabhedAH
+itxtitle: bAlAtripurasundarImantrabhedAH
+title: बालात्रिपुरसुन्दरीमन्त्रभेदाः
 
-+++
+---
   
  श्रीबालात्रिपुरसुन्दरी मन्त्रभेदाः   
 ऐं क्लीं सौः (त्र्यक्षरी मूलविद्या)  

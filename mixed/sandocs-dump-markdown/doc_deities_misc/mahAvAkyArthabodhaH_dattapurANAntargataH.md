@@ -1,23 +1,24 @@
-+++
-"Text title" = "mahAvAkyArthabodhaH"
-"File name" = "mahAvAkyArthabodhaH.itx"
-itxtitle = "mahAvAkyArthabodhaH (dattapurANAntargataH)"
-engtitle = "mahAvAkyArthabodhaH"
-Category = "deities_misc, dattatreya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-Source = "Dattapurana"
-"Latest update" = "March 24, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महावाक्यार्थबोधः (दत्तपुराणान्तर्गतः)"
+---
+Category: deities_misc, dattatreya
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: mahAvAkyArthabodhaH.itx
+Language: Sanskrit
+Latest update: March 24, 2017
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Dattapurana
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: mahAvAkyArthabodhaH
+engtitle: mahAvAkyArthabodhaH
+itxtitle: mahAvAkyArthabodhaH (dattapurANAntargataH)
+title: महावाक्यार्थबोधः (दत्तपुराणान्तर्गतः)
 
-+++
+---
   
  श्रीमहावाक्यार्थबोधः   
   

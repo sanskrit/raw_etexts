@@ -1,22 +1,22 @@
-+++
-"Text title" = "sudarshanaaShTakam"
-"File name" = "sudarshan8.itx"
-itxtitle = "sudarshanAShTakam (shrIvedAntadeshikakRitaM pratibhaTashreNi)"
-engtitle = "sudarshanAShTakam"
-Category = "aShTaka, vishhnu, vedAnta-deshika"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Swami Desikan"
-Language = "Sanskrit"
-Subject = "kaavya/religion"
-"Transliterated by" = "V. Sadagopan"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "October 2, 1995"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुदर्शनाष्टकम् (श्रीवेदान्तदेशिककृइतं प्रतिभटश्रेणि)"
+---
+Author: Swami Desikan
+Category: aShTaka, vishhnu, vedAnta-deshika
+File name: sudarshan8.itx
+Language: Sanskrit
+Latest update: October 2, 1995
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: kaavya/religion
+Sublocation: vishhnu
+Text title: sudarshanaaShTakam
+Transliterated by: V. Sadagopan
+engtitle: sudarshanAShTakam
+itxtitle: sudarshanAShTakam (shrIvedAntadeshikakRitaM pratibhaTashreNi)
+title: सुदर्शनाष्टकम् (श्रीवेदान्तदेशिककृइतं प्रतिभटश्रेणि)
 
-+++
+---
   
  सुदर्शनाष्टकम्   
   

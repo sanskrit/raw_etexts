@@ -1,21 +1,21 @@
-+++
-"Text title" = "subrahmanyapajncharatnam"
-"File name" = "subrahmanya5.itx"
-itxtitle = "subrahmaNyapancharatnam 2 (ShaDAnanam)"
-engtitle = "Shri Subrahmanya Pancharatna Stotra"
-Category = "pancharatna, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Sunder Hattangadi(sunderh at hotmail)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail)"
-"Latest update" = "Octobe 27, 1998"
-"Send corrections to" = "Sunder Hattangadi(sunderh at hotmail)"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यपञ्चरत्नम् २ (षडाननम्)"
+---
+Category: pancharatna, subrahmanya
+File name: subrahmanya5.itx
+Language: Sanskrit
+Latest update: Octobe 27, 1998
+Location: doc_subrahmanya
+Proofread by: Sunder Hattangadi(sunderh at hotmail)
+Send corrections to: Sunder Hattangadi(sunderh at hotmail)
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: subrahmanya
+Text title: subrahmanyapajncharatnam
+Transliterated by: Sunder Hattangadi(sunderh at hotmail)
+engtitle: Shri Subrahmanya Pancharatna Stotra
+itxtitle: subrahmaNyapancharatnam 2 (ShaDAnanam)
+title: सुब्रह्मण्यपञ्चरत्नम् २ (षडाननम्)
 
-+++
+---
   
  श्रीसुब्रह्मण्यपञ्चरत्नम् २   
   

@@ -1,22 +1,23 @@
-+++
-"Text title" = "Shri Skanda Ashtottarashata Namavali 108 Names"
-"File name" = "skandAShTottarashatanAmAvaliH.itx"
-itxtitle = "skandAShTottarashatanAmAvaliH (mahAbhAratavanaparvAntargatA)"
-engtitle = "skandAShTottarashatanAmAvaliH"
-Category = "subrahmanya, aShottarashatanAmAvalI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Portion is termed as skanda panchAshata nAma stotram.  See corresponding stotra"
-Indexextra = "(Tamil, stotra)"
-"Latest update" = "April 12, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्कन्दाष्टोत्तरशतनामावलिः (महाभारतवनपर्वान्तर्गता)"
+---
+Category: subrahmanya, aShottarashatanAmAvalI
+Description-comments: Portion is termed as skanda panchAshata nAma stotram.  See corresponding
+  stotra
+File name: skandAShTottarashatanAmAvaliH.itx
+Indexextra: (Tamil, stotra)
+Language: Sanskrit
+Latest update: April 12, 2020
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Shri Skanda Ashtottarashata Namavali 108 Names
+engtitle: skandAShTottarashatanAmAvaliH
+itxtitle: skandAShTottarashatanAmAvaliH (mahAbhAratavanaparvAntargatA)
+title: स्कन्दाष्टोत्तरशतनामावलिः (महाभारतवनपर्वान्तर्गता)
 
-+++
+---
   
  श्रीस्कन्दाष्टोत्तरशतनामावलिः   
 ॐ आग्नेयाय नमः । स्कन्दाय । दीप्तकीर्तये । मयूरकेतवे । धर्मात्मने ।  

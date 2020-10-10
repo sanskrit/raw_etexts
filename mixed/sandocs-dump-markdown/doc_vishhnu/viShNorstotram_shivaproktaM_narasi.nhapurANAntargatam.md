@@ -1,25 +1,25 @@
-+++
-"Text title" = "viShNornAmastotra shivaprokta narasi.nhapurANe"
-"File name" = "viShNornAmastotrashivaproktaNP.itx"
-itxtitle = "viShNorstotram (shivaproktaM narasi.nhapurANAntargatam)"
-engtitle = "Shri Vishnustotra by Mahadeva from Narasimhapurana"
-Category = "vishhnu, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 40.  Stotra 36-52"
-Indexextra = "(narasi.nhapurANa)"
-"Latest update" = "June 29, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णोर्स्तोत्रम् (शिवप्रोक्तं नरसिंहपुराणान्तर्गतम्)"
+---
+Category: vishhnu, stotra, vishnu
+Description-comments: Narasimhapurana adhyAya 40.  Stotra 36-52
+File name: viShNornAmastotrashivaproktaNP.itx
+Indexextra: (narasi.nhapurANa)
+Language: Sanskrit
+Latest update: June 29, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNornAmastotra shivaprokta narasi.nhapurANe
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: Shri Vishnustotra by Mahadeva from Narasimhapurana
+itxtitle: viShNorstotram (shivaproktaM narasi.nhapurANAntargatam)
+title: विष्णोर्स्तोत्रम् (शिवप्रोक्तं नरसिंहपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णोर्स्तोत्रं शिवप्रोक्तं नरसिंहपुराणे   
   
@@ -30,7 +30,7 @@ title = "विष्णोर्स्तोत्रम् (शिवप्र
 दितेः पुत्रो महानासीद्धिरण्यकशिपुः पुरा ।  
 तपस्तेपे निराहारो बहुवर्षसहस्रकम् ॥ २॥  
   
-तपतस्तस्य संतुष्टो ब्रह्मा तं प्राह दानवम् ।  
+तपतस्तस्य सन्तुष्टो ब्रह्मा तं प्राह दानवम् ।  
 वरं वरय दैत्येन्द्र यस्ते मनसि वर्तते ॥ ३॥  
   
 इत्युक्तो ब्रह्मणा दैत्यो हिरण्यकशिपुः पुरा ।  
@@ -40,13 +40,13 @@ title = "विष्णोर्स्तोत्रम् (शिवप्र
 यदि त्वं वरदानाय प्रवृत्तो भगवन्मम ।  
 यद्यदवृणोम्यहं ब्रह्मंस्तत्तन्मे दातुमर्हसि ॥ ५॥  
   
-न शुष्केण न चाद्रेंण न जलेन न वह्निना ।  
+न शुष्केण न चाद्रेण्ण न जलेन न वह्निना ।  
 न काष्ठेन न कीटेन पाषाणेन न वायुना ॥ ६॥  
   
 नायुधेन न शूलेन न शैलेन न मानुषैः ।  
 न सुरैरसुरैर्वापि न गन्धर्वैर्न राक्षसैः ॥ ७॥  
   
-न किंनरैर्न यक्षैस्तु विद्याधरभुजंगमैः ।  
+न किन्नरैर्न यक्षैस्तु विद्याधरभुजङ्गमैः ।  
 न वानरैर्मृगैर्वापि नैव मातृगणैरपि ॥ ८॥  
   
 नाभ्यन्तरे न बाह्ये तु नान्यैर्मरणहेतुभिः ।  
@@ -159,7 +159,7 @@ title = "विष्णोर्स्तोत्रम् (शिवप्र
 भक्तिप्रियोऽच्युतः सत्यः सत्यकीर्तिर्ध्रुवः शुचिः ।  
 कारुण्यः करुणो व्यासः पापहा शान्तिवर्धनः ॥ ४३॥  
   
-संन्यासी शास्त्रतत्त्वज्ञो मन्दारगिरिकेतनः ।  
+सन्न्यासी शास्त्रतत्त्वज्ञो मन्दारगिरिकेतनः ।  
 बदरीनिलयः शान्तततपस्वी वैद्युतप्रभः ॥ ४४॥  var  शान्ततत्त्वज्ञो  
 भूतावासो गुहावासः श्रीनिवासः श्रियः पतिः ।  
 तपोवासो दमो वासः सत्यवासः सनातनः ॥ ४५॥  
@@ -171,7 +171,7 @@ title = "विष्णोर्स्तोत्रम् (शिवप्र
 किरीटी कुण्डली हारी मेखली कवची ध्वजी ॥ ४७॥  
   
 जिष्णुर्जेता महावीरः शत्रुघ्नः शत्रुतापनः ।  
-शान्तः शान्तिकरः शास्ता शङ्करः शंतनुस्तुतः ॥ ४८॥  
+शान्तः शान्तिकरः शास्ता शङ्करः शन्तनुस्तुतः ॥ ४८॥  
   
 सारथिः सात्त्विकः स्वामी सामवेदप्रियः समः ।  
 सावनः साहसी सत्त्वः सम्पूर्णांशः समृद्धिमान् ॥ ४९॥  
@@ -180,7 +180,7 @@ title = "विष्णोर्स्तोत्रम् (शिवप्र
 मोक्षदः पुण्डरीकाक्षः क्षीराब्धिकृतकेतनः ॥ ५०॥  
   
 स्तुतः सुरासुरैरीश प्रेरकः पापनाशनः ।  
-त्वं यज्ञस्त्वं वषट्कारस्त्वमोंकारस्त्वमग्नयः ॥ ५१॥  
+त्वं यज्ञस्त्वं वषट्कारस्त्वमोङ्कारस्त्वमग्नयः ॥ ५१॥  
   
 त्वं स्वाहा त्वं स्वधा देव त्वं सुधा पुरुषोत्तम ।  
 नमो देवादिदेवाय विष्णवे शाश्वताय च ॥ ५२॥  
@@ -212,7 +212,7 @@ title = "विष्णोर्स्तोत्रम् (शिवप्र
 प्रीतोऽहं गच्छ देव त्वं कैलासशिखरं शुभम् ।  
 त्वया स्तुतो हनिष्यामि हिरण्यकशिपुं भव ॥ ५९॥  
   
-गच्छध्वमधुना देवाः कालं कंचित् प्रतीक्षताम् ।  
+गच्छध्वमधुना देवाः कालं कञ्चित् प्रतीक्षताम् ।  
 यदास्य तनयो धीमान् प्रह्लादो नाम वैष्णवः ॥ ६०॥  
   
 तस्य द्रोहं यदा दैत्यः करिष्यति सुरांस्तदा ।  

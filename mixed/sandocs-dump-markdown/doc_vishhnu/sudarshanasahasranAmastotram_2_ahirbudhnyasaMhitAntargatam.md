@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Sudarshana SahasranAma stotram 2"
-"File name" = "sudarshanasahasranAmastotram.itx"
-itxtitle = "sudarshanasahasranAmastotram 2 (ahirbudhnyasaMhitAntargatam)"
-engtitle = "Shri Sudarshana SahasranAma stotram 2"
-Category = "sahasranAma, vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "From http://muktalib5.org with permission, DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "ahirbudhnyasaMhitAyAM tantrarahasye"
-Acknowledge-Permission = "Marjorie Woollacott, Digital Library Coordinator muktabodha.org"
-"Latest update" = "November 2, 2014, July 17, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुदर्शनसहस्रनामस्तोत्रम् २ (अहिर्बुध्न्यसंहितान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Digital Library Coordinator muktabodha.org
+Category: sahasranAma, vishhnu
+Description/comments: ahirbudhnyasaMhitAyAM tantrarahasye
+File name: sudarshanasahasranAmastotram.itx
+Language: Sanskrit
+Latest update: November 2, 2014, July 17, 2016
+Location: doc_vishhnu
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Sudarshana SahasranAma stotram 2
+Transliterated by: From http://muktalib5.org with permission, DPD
+engtitle: Shri Sudarshana SahasranAma stotram 2
+itxtitle: sudarshanasahasranAmastotram 2 (ahirbudhnyasaMhitAntargatam)
+title: सुदर्शनसहस्रनामस्तोत्रम् २ (अहिर्बुध्न्यसंहितान्तर्गतम्)
 
-+++
+---
   
  श्रीसुदर्शनसहस्रनामस्तोत्रम् २   
 अहिर्बुध्न्यसंहितापरिशिष्टतः  

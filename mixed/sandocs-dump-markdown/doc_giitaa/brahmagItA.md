@@ -1,23 +1,23 @@
-+++
-"Text title" = "brahmagItA"
-"File name" = "brahmagiitaa.itx"
-itxtitle = "brahmagItA"
-engtitle = "brahmagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-Description-comments = "Adhyaya number 20 in Ashvamedhika, Mahabharata"
-Indexextra = "(scanned)"
-"Latest update" = "June 2, 1998, February 8, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मगीता"
+---
+Category: gItA, giitaa
+Description-comments: Adhyaya number 20 in Ashvamedhika, Mahabharata
+File name: brahmagiitaa.itx
+Indexextra: (scanned)
+Language: Sanskrit
+Latest update: June 2, 1998, February 8, 2013
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: brahmagItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: brahmagItA
+itxtitle: brahmagItA
+title: ब्रह्मगीता
 
-+++
+---
   
  ब्रह्मगीता   
   

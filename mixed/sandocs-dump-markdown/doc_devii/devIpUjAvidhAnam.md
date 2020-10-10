@@ -1,25 +1,25 @@
-+++
-"Text title" = "devIpUjAvidhAnam"
-"File name" = "devIpUjAvidhAnam.itx"
-itxtitle = "devIpUjAvidhAnam"
-engtitle = "devIpUjAvidhAnam"
-Category = "devii, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "Datta Gopala Krishna, Pammal, Chennai 9442252443"
-Source = "kalyANamanjarI dvitIya bhAgaH rAdhAkalyaNam"
-Acknowledge-Permission = "Svarna Prakashanam"
-"Latest update" = "May 14, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीपूजाविधानम्"
+---
+Acknowledge-Permission: Svarna Prakashanam
+Category: devii, radha, devI
+Description/comments: Datta Gopala Krishna, Pammal, Chennai 9442252443
+File name: devIpUjAvidhAnam.itx
+Language: Sanskrit
+Latest update: May 14, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: kalyANamanjarI dvitIya bhAgaH rAdhAkalyaNam
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIpUjAvidhAnam
+Transliterated by: NA
+engtitle: devIpUjAvidhAnam
+itxtitle: devIpUjAvidhAnam
+title: देवीपूजाविधानम्
 
-+++
+---
   
  श्रीदेवीपूजाविधानम्   
   

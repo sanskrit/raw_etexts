@@ -1,23 +1,23 @@
-+++
-"Text title" = "subrahmaNya aShTottara shatanAmAvali 1"
-"File name" = "subra108.itx"
-itxtitle = "subrahmaNyAShTottarashatanAmAvaliH 1 skandAShTottarashatanAmAvaliH (skandAya)"
-engtitle = "subrahmaNya aShTottara shatanAmAvali 1"
-Category = "aShTottarashatanAmAvalI, subrahmanya, nAmAvalI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.mypurohith.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com, Sivakumar Thyagarajan"
-"Latest update" = "May 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्याष्टोत्तरशतनामावलिः १ स्कन्दाष्टोत्तरशतनामावलिः (स्कन्दाय)"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, subrahmanya, nAmAvalI
+File name: subra108.itx
+Language: Sanskrit
+Latest update: May 6, 2018
+Location: doc_subrahmanya
+Proofread by: Sunder Hattangadi sunderh at hotmail.com, Sivakumar Thyagarajan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNya aShTottara shatanAmAvali 1
+Texttype: nAmAvalI
+Transliterated by: http://www.mypurohith.com
+engtitle: subrahmaNya aShTottara shatanAmAvali 1
+itxtitle: subrahmaNyAShTottarashatanAmAvaliH 1 skandAShTottarashatanAmAvaliH (skandAya)
+title: सुब्रह्मण्याष्टोत्तरशतनामावलिः १ स्कन्दाष्टोत्तरशतनामावलिः (स्कन्दाय)
 
-+++
+---
   
  श्रीसुब्रह्मण्याष्टोत्तरशतनामावली   
   

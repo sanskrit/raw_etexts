@@ -1,25 +1,26 @@
-+++
-"Text title" = "umAkSharamAlA by Ganapati Muni"
-"File name" = "umAkSharamAlA.itx"
-itxtitle = "umA.akSharamAlAstotram (gaNapatimunivirachitam)"
-engtitle = "umA akSharamAlAstotram by Ganapati Muni"
-Category = "mAlAmantra, devii, pArvatI, gaNapati-muni, ramaNa-maharShi, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "Ganapati Muni with Ramana Maharshi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Description-comments = "From The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol 1"
-Indexextra = "(Collected Works)"
-"Latest update" = "November 24, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उमाऽक्षरमालास्तोत्रम् (गणपतिमुनिविरचितम्)"
+---
+Author: Ganapati Muni with Ramana Maharshi
+Category: mAlAmantra, devii, pArvatI, gaNapati-muni, ramaNa-maharShi, devI
+Description-comments: From The Collected Works of Vasishtha Kavyakantha Ganapati Muni
+  Vol 1
+File name: umAkSharamAlA.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: November 24, 2012
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: umAkSharamAlA by Ganapati Muni
+Transliterated by: DPD
+engtitle: umA akSharamAlAstotram by Ganapati Muni
+itxtitle: umA.akSharamAlAstotram (gaNapatimunivirachitam)
+title: उमाऽक्षरमालास्तोत्रम् (गणपतिमुनिविरचितम्)
 
-+++
+---
   
  उमाऽक्षरमालास्तोत्रम्   
   
@@ -101,7 +102,7 @@ title = "उमाऽक्षरमालास्तोत्रम् (गण
      शैलशक्रपुत्रिका धुनोतु सा मम भ्रमम् ॥ २५॥  
   
 ञमङणनाः सम्प्रोक्त्ता चपकटताख्येषु गौरि वर्गेषु ।  
-उत्तमसंज्ञाः प्राज्ञैः नरवर्गे तु त्वदङ्ध्रिरताः ॥ २६॥  
+उत्तमसञ्ज्ञाः प्राज्ञैः नरवर्गे तु त्वदङ्ध्रिरताः ॥ २६॥  
   
 टङ्कृतिमुखरितदिक्कं सज्यं बाणासनं करे दधती ।  
 ध्येया माया शबरी शत्रुभयं तर्तुकामेन ॥ २७॥  

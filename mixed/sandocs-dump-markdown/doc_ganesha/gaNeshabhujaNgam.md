@@ -1,21 +1,21 @@
-+++
-"Text title" = "gaNeshabhujaNgam"
-"File name" = "ganbhuj.itx"
-itxtitle = "gaNeshabhujaNgam"
-engtitle = "gaNeshabhuja.ngam"
-Category = "ganesha, bhujanga, shankarAchArya"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Subcategory = "bhujanga"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "November 29, 1998, May 26, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशभुजण्गम्"
+---
+Author: Shankaracharya
+Category: ganesha, bhujanga, shankarAchArya
+File name: ganbhuj.itx
+Language: Sanskrit
+Latest update: November 29, 1998, May 26, 2017
+Location: doc_ganesha
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhujanga
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshabhujaNgam
+engtitle: gaNeshabhuja.ngam
+itxtitle: gaNeshabhujaNgam
+title: गणेशभुजण्गम्
 
-+++
+---
   
  श्रीगणेशभुजङ्गम्   
   

@@ -1,22 +1,24 @@
-+++
-"Text title" = "sudarshanakavacham 2"
-"File name" = "sudarshanakavacha2.itx"
-itxtitle = "sudarshanakavacham 2"
-engtitle = "sudarshana kavacha 2"
-Category = "kavacha, vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Source = "https://archive.org/details/HindiBook-danikPrarthnastrotaKavach  printed pages 66-67"
-"Latest update" = "July 31, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुदर्शनकवचम् २"
+---
+Category: kavacha, vishhnu
+File name: sudarshanakavacha2.itx
+Language: Sanskrit
+Latest update: July 31, 2013
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: https://archive.org/details/HindiBook-danikPrarthnastrotaKavach  printed pages
+  66-67
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sudarshanakavacham 2
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: sudarshana kavacha 2
+itxtitle: sudarshanakavacham 2
+title: सुदर्शनकवचम् २
 
-+++
+---
   
  श्रीसुदर्शनकवचम् २   
   

@@ -1,25 +1,25 @@
-+++
-"Text title" = "sArtha shrIshaNkarAchArya aShTottarashatanAmAvaliH"
-"File name" = "shankara108m.itx"
-itxtitle = "shaNkarAchAryAShTottarashata nAmAvaliH (sArthA)"
-engtitle = "sha.nkarAchArya aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, nAmAvalI, shankarAchArya, gurudev"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-SubDeity = "gurudev"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravi Mayavaram and Saraswathy"
-"Proofread by" = "Ravi Mayavaram and Saraswathy, Shriramana Sharma jamadagni at gmail.com"
-"Translated by" = "Ravi Mayavaram and Saraswathy"
-Indexextra = "(with meaning)"
-"Latest update" = "January 19, 1999, May 9, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शण्कराचार्याष्टोत्तरशत नामावलिः (सार्था)"
+---
+Category: aShTottarashatanAmAvalI, nAmAvalI, shankarAchArya, gurudev
+File name: shankara108m.itx
+Indexextra: (with meaning)
+Language: Sanskrit
+Latest update: January 19, 1999, May 9, 2019
+Location: doc_z_misc_shankara
+Proofread by: Ravi Mayavaram and Saraswathy, Shriramana Sharma jamadagni at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: sArtha shrIshaNkarAchArya aShTottarashatanAmAvaliH
+Texttype: nAmAvalI
+Translated by: Ravi Mayavaram and Saraswathy
+Transliterated by: Ravi Mayavaram and Saraswathy
+engtitle: sha.nkarAchArya aShTottarashatanAmAvalI
+itxtitle: shaNkarAchAryAShTottarashata nAmAvaliH (sArthA)
+title: शण्कराचार्याष्टोत्तरशत नामावलिः (सार्था)
 
-+++
+---
   
  श्रीशङ्कराचार्याष्टोत्तरशत सार्थनामावलिः   
  VERSE 1   
@@ -85,7 +85,7 @@ also means one who gives (ra) the bliss (mud) of jnAna.
 trouble the hearts of his disciples. He destroys that heat by  
 bestowing cool nectar like AtmajnAnam. We chant shAnti thrice to  
 overcome the tApatraya (AdhyAtmika, Adhibautika and Adhidaivika). shrI  
-lalita sahasranAmam praises shrI mAtA as ᳚तापत्रयाग्नि संतप्त  
+lalita sahasranAmam praises shrI mAtA as ᳚तापत्रयाग्नि सन्तप्त  
 साम्ह्लादन चन्द्रिका᳚, Like HER, shrI shankara destroys the tApa by  
 bestowing the cool nectar of AtmajnAnam.  
    
@@ -398,10 +398,10 @@ brought back from the trip are still being worshipped at the maTham-s
 established by shrI shankara.  
    
  VERSE 16   
-कांच्यां श्रीचक्रराजाख्ययन्त्रस्थापनदीक्षितः ।  
+काञ्च्यां श्रीचक्रराजाख्ययन्त्रस्थापनदीक्षितः ।  
 श्रीचक्रात्मक ताटङ्क तोषिताम्बा मनोरथः ॥ १६॥  
   
-८०) ॐ कांच्यां श्रीचक्रराजाख्ययन्त्रस्थापनदीक्षिताय नमः  
+८०) ॐ काञ्च्यां श्रीचक्रराजाख्ययन्त्रस्थापनदीक्षिताय नमः  
  I bow to shrI shankara who established the famous shrIchakra yantra  
 at the kAnchi temple. Among the many yantra-s shrI chakra is the most  
 powerful and it is considered as the king of all yantra-s.  
@@ -471,7 +471,7 @@ and evil influences.
    
  VERSE 19   
 ज्ञानत्मकैकदण्डाढ्यः कमण्डलुलसत्करः ।  
-गुरुभूमण्डलाचार्योभगवत्पादसंज्ञकः ॥ १९॥  
+गुरुभूमण्डलाचार्योभगवत्पादसञ्ज्ञकः ॥ १९॥  
   
 ८९) ॐ ज्ञानत्मकैकदण्डाढ्याय नमः  
  I bow to shrI shankara who bears a single daNDa (stick) to  
@@ -492,14 +492,14 @@ who dispels it.
  I bow to shrI shankara who is a world teacher. bhUmaNDalam means  
 Earth, it also indicates the Universe. He is guides them through his  
 teachings. This word is synonymous to jagadguru.  
-९३) ॐ भगवत्पादसंज्ञकाय नमः  
+९३) ॐ भगवत्पादसञ्ज्ञकाय नमः  
  I bow to shrI shankara who is known as bhagavatpAda.  
    
  VERSE 20   
-व्याससंदर्शनप्रीतः ऋष्यशृङ्गपुरेश्वरः ।  
+व्याससन्दर्शनप्रीतः ऋष्यशृङ्गपुरेश्वरः ।  
 सौन्दर्यलहरी मुख्य बहुस्तोत्र विधायकः ॥ २०॥  
   
-९४) ॐ व्याससंदर्शनप्रीताय नमः  
+९४) ॐ व्याससन्दर्शनप्रीताय नमः  
  I bow to shrI shankara who was pleased by the vision of sage shrI  
 vyAsa. bhagavan vedavyAsa came disguised as a old man and invited shrI  
 shankara for a debate on shrI shankara's brahma sUtra bhAshya. The  
@@ -553,10 +553,10 @@ maNDana mishra and others.
 hastAmalaka.  
    
  VERSE 23   
-सुरेश्वराख्य सच्छिष्य संन्यासाश्रम दायकः ।  
+सुरेश्वराख्य सच्छिष्य सन्न्यासाश्रम दायकः ।  
 नृसिंहभक्तस्सद्रत्नगर्भहेरम्बपूजकः ॥ २३॥  
   
-१०३) ॐ सुरेश्वराख्य सच्छिष्यसंन्यासाश्रमदायकाय नमः (पाठभेद सुरेश्वरादिषट्शिष्य)  
+१०३) ॐ सुरेश्वराख्य सच्छिष्यसन्न्यासाश्रमदायकाय नमः (पाठभेद सुरेश्वरादिषट्शिष्य)  
  I bow to shrI shankara who has ordained sureshvara and others into  
 the sannyAsAshrama (monkhood).  
 १०४) ॐ नृसिंहभक्ताय नमः  
@@ -668,7 +668,7 @@ will realize all the desires.
 ॐ वागीशाय नमः ।  
 ॐ सर्वलोकहितोत्सुकाय नमः ।  
 ॐ कैलासयात्रासम्प्राप्तचन्द्रमौलिप्रपूजकाय नमः ।  
-ॐ कांच्यां श्रीचक्रराजाख्ययन्त्रस्थापनदीक्षिताय नमः । ८०  
+ॐ काञ्च्यां श्रीचक्रराजाख्ययन्त्रस्थापनदीक्षिताय नमः । ८०  
 ॐ श्रीचक्रात्मक ताटङ्क तोषिताम्बा मनोरथाय नमः ।  
 ॐ ब्रह्मसूत्रोपनिषद्भाष्यादिग्रन्थकल्पकाय नमः ।  
 ॐ चतुर्दिक्चतुराम्नायप्रतिष्ठात्रे नमः ।  
@@ -681,8 +681,8 @@ will realize all the desires.
 ॐ कमण्डलुलसत्कराय नमः । ९०  
 ॐ गुरवे नमः ।  
 ॐ भूमण्डलाचार्याय नमः ।  
-ॐ भगवत्पादसंज्ञकाय नमः ।  
-ॐ व्याससंदर्शनप्रीताय नमः ।  
+ॐ भगवत्पादसञ्ज्ञकाय नमः ।  
+ॐ व्याससन्दर्शनप्रीताय नमः ।  
 ॐ ऋष्यशृङ्गपुरेश्वराय नमः ।  
 ॐ सौन्दर्यलहरीमुख्यबहुस्तोत्रविधायकाय नमः ।  
 ॐ चतुष्षष्टिकलाभिज्ञाय नमः ।  
@@ -691,7 +691,7 @@ will realize all the desires.
 ॐ तोटकाचार्यसम्पूज्याय नमः । १००  
 ॐ पद्मपादर्चिताङ्घ्रिकाय नमः ।  
 ॐ हस्तामलयोगिन्द्र ब्रह्मज्ञानप्रदायकाय नमः ।  
-ॐ सुरेश्वराख्य सच्छिष्यसंन्यासाश्रमदायकाय नमः । (पाठभेद सुरेश्वरादिषट्शिष्य)  
+ॐ सुरेश्वराख्य सच्छिष्यसन्न्यासाश्रमदायकाय नमः । (पाठभेद सुरेश्वरादिषट्शिष्य)  
 ॐ नृसिंहभक्ताय नमः ।  
 ॐ सद्रत्नगर्भहेरम्बपूजकाय नमः ।  
 ॐ व्याख्यासिंहासनाधीशाय नमः ।  
@@ -785,7 +785,7 @@ which is given as
 ॐ विशालकीर्तये नमः ।  
 ॐ वागीशाय नमः ।  
 ॐ सर्वलोकहितोत्सुकाय नमः ।  
-ॐ कैलासयात्रासंप्राप्तचन्द्रमौलिप्रपूजकाय नमः । ८०  
+ॐ कैलासयात्रासम्प्राप्तचन्द्रमौलिप्रपूजकाय नमः । ८०  
 ॐ काञ्च्यां श्रीचक्रराजाख्ययन्त्रस्थापनदीक्षिताय नमः ।  
 ॐ श्रीचक्रात्मकताटङ्कपोषिताम्बामनोरथाय नमः ।  
 ॐ श्रीब्रह्मसूत्रोपनिषद्भाष्यादिग्रन्थकल्पकाय नमः ।  
@@ -798,7 +798,7 @@ which is given as
 ॐ ज्ञानात्मकैकदण्डाढ्याय नमः । ९०  
 ॐ कमण्डलुलसत्कराय नमः ।  
 ॐ व्याससन्दर्शनप्रीताय नमः ।  
-ॐ भगवत्पादसंज्ञकाय नमः ।  
+ॐ भगवत्पादसञ्ज्ञकाय नमः ।  
 ॐ चतुष्षष्टिकलाभिज्ञाय नमः ।  
 ॐ ब्रह्मराक्षसमोक्षदाय नमः ।  
 ॐ सौन्दर्यलहरीमुख्यबहुस्तोत्रविधायकाय नमः ।  
@@ -806,7 +806,7 @@ which is given as
 ॐ तोटकाचार्यसम्पूज्याय नमः ।  
 ॐ पद्मपादार्चिताङ्घ्रिकाय नमः ।  
 ॐ हस्तामलकयोगीन्द्रब्रह्मज्ञानप्रदायकाय नमः । १००  
-ॐ सुरेश्वरादिषट्शिष्यसंन्यासआश्रमदायकाय नमः ।  
+ॐ सुरेश्वरादिषट्शिष्यसन्न्यासआश्रमदायकाय नमः ।  
 ॐ निर्व्याजकरुणामूर्तये नमः ।  
 ॐ जगत्पूज्याय नमः ।  
 ॐ जगद्गुरवे नमः ।  

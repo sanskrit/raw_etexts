@@ -1,22 +1,22 @@
-+++
-"Text title" = "RiShabhagItA"
-"File name" = "Rishhabhagiitaa.itx"
-itxtitle = "RiShabhagItA"
-engtitle = "RiShabhagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-Indexextra = "(mahAbhArata shAntiparva)"
-"Latest update" = "June 2, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ऋइषभगीता"
+---
+Category: gItA, giitaa
+File name: Rishhabhagiitaa.itx
+Indexextra: (mahAbhArata shAntiparva)
+Language: Sanskrit
+Latest update: June 2, 1998
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: RiShabhagItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: RiShabhagItA
+itxtitle: RiShabhagItA
+title: ऋइषभगीता
 
-+++
+---
   
  ऋषभगीता   
   
@@ -318,7 +318,7 @@ title = "ऋइषभगीता"
   
 पदातिर्बद्धनिस्त्रिंशो धन्वी बाणी नरेश्वर ।  
 एतदिच्छाम विज्ञातुं कुतः प्राप्तोऽसि मानद ।  
-कस्मिन्कुले हि जातस्त्वं किंनामासि ब्रवीहि नः ॥ २३॥  
+कस्मिन्कुले हि जातस्त्वं किन्नामासि ब्रवीहि नः ॥ २३॥  
   
 ततः स राजा सर्वेभ्यो द्विजेभ्यः पुरुषर्षभ ।  
 आचख्यौ तद्यथान्यायं परिचर्यां च भारत ॥ २४॥  

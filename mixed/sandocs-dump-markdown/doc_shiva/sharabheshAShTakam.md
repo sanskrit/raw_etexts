@@ -1,22 +1,22 @@
-+++
-"Text title" = "sharabheshAShTakam"
-"File name" = "sharabheshAShTakam.itx"
-itxtitle = "sharabheshAShTakam"
-engtitle = "sharabheshAShTakam"
-Category = "shiva, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Venkata Subramanian, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "(shlokAni 25\\-34 sharabhashAntistotram)"
-Indexextra = "(Text)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरभेशाष्टकम्"
+---
+Category: shiva, aShTaka
+Description-comments: (shlokAni 25\-34 sharabhashAntistotram)
+File name: sharabheshAShTakam.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_shiva
+Proofread by: Venkata Subramanian, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: sharabheshAShTakam
+engtitle: sharabheshAShTakam
+itxtitle: sharabheshAShTakam
+title: शरभेशाष्टकम्
 
-+++
+---
   
  शरभेशाष्टकम्   
   

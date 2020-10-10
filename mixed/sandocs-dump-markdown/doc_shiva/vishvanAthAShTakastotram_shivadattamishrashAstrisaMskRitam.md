@@ -1,21 +1,21 @@
-+++
-"Text title" = "vishvanAthAShTakastotram"
-"File name" = "vishvanAthAShTakastotram.itx"
-itxtitle = "vishvanAthAShTakastotram (shivadattamishrashAstrisaMskRitam)"
-engtitle = "vishvanAthAShTakastotram"
-Category = "shiva, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वनाथाष्टकस्तोत्रम् (शिवदत्तमिश्रशास्त्रिसंस्कृइतम्)"
+---
+Category: shiva, aShTaka
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: vishvanAthAShTakastotram.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: vishvanAthAShTakastotram
+engtitle: vishvanAthAShTakastotram
+itxtitle: vishvanAthAShTakastotram (shivadattamishrashAstrisaMskRitam)
+title: विश्वनाथाष्टकस्तोत्रम् (शिवदत्तमिश्रशास्त्रिसंस्कृइतम्)
 
-+++
+---
   
  विश्वनाथाष्टकस्तोत्रम्   
 आदिशम्भु-स्वरूप-मुनिवर-चन्द्रशीश-जटाधरं  

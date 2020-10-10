@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Vyasa Namavali Stotram"
-"File name" = "vyAsanAmAvalIstotram.itx"
-itxtitle = "vyAsanAmAvalIstotram (shrIbidarahaLi shrInivAsatIrthakRitam)"
-engtitle = "vyAsanAmAvalIstotram"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "व्यासनामावलीस्तोत्रम् (श्रीबिदरहळि श्रीनिवासतीर्थकृइतम्)"
+---
+Category: deities_misc, gurudev
+File name: vyAsanAmAvalIstotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Vyasa Namavali Stotram
+Transliterated by: Krishnananda Achar
+engtitle: vyAsanAmAvalIstotram
+itxtitle: vyAsanAmAvalIstotram (shrIbidarahaLi shrInivAsatIrthakRitam)
+title: व्यासनामावलीस्तोत्रम् (श्रीबिदरहळि श्रीनिवासतीर्थकृइतम्)
 
-+++
+---
   
  श्रीव्यासनामावलीस्तोत्रम्   
 ईशिता श्रुतिभर्ताच भुवन प्रभुरेव च ।  
@@ -93,7 +93,7 @@ title = "व्यासनामावलीस्तोत्रम् (श्
 उग्ररूपः शान्तरूपोचिन्त्यशक्तिः परात्परः ।  
 पाण्डवानां दुःखहन्ता तथापरिमितान्तरः ॥ २४॥  
   
-हिडिम्बासङ्ग्रहार्ताय भीमाज्ञा संप्रदायकः ।  
+हिडिम्बासङ्ग्रहार्ताय भीमाज्ञा सम्प्रदायकः ।  
 शाक्तः कानीन इन्द्रश्च शास्त्रकृद्धरिरेव च ॥ २५॥  
   
 द्विषामज्ञानपापानामतिसङ्क्रामकस्तथा ।  

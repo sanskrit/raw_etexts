@@ -1,23 +1,23 @@
-+++
-"Text title" = "dhruvasUktam Rigvede"
-"File name" = "dhruvasUktam.itx"
-itxtitle = "dhruvasUktam"
-engtitle = "Dhruvasuktam Rigveda"
-Category = "sUkta, veda, svara, rigveda"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "Rigveda Mandala 10, sUkta 173-174 OR Ashtaka 8, Adhyaya 8, 31-32"
-"Latest update" = "August 24, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ध्रुवसूक्तम्"
+---
+Author: Vedic Tradition
+Category: sUkta, veda, svara, rigveda
+Description-comments: Rigveda Mandala 10, sUkta 173-174 OR Ashtaka 8, Adhyaya 8, 31-32
+File name: dhruvasUktam.itx
+Language: Sanskrit
+Latest update: August 24, 2012
+Location: doc_veda
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: dhruvasUktam Rigvede
+Texttype: svara
+engtitle: Dhruvasuktam Rigveda
+itxtitle: dhruvasUktam
+title: ध्रुवसूक्तम्
 
-+++
+---
   
  ध्रुवसूक्तम्   
   

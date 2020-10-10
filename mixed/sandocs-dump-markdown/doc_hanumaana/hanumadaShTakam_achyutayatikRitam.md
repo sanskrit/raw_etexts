@@ -1,22 +1,22 @@
-+++
-"Text title" = "hanumadaShTakaM"
-"File name" = "hanumadaShTakaM.itx"
-itxtitle = "hanumadaShTakam (achyutayatikRitam)"
-engtitle = "hanumadaShTakam"
-Category = "aShTaka, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "September 19, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमदष्टकम् (अच्युतयतिकृइतम्)"
+---
+Category: aShTaka, hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumadaShTakaM.itx
+Language: Sanskrit
+Latest update: September 19, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumadaShTakaM
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: hanumadaShTakam
+itxtitle: hanumadaShTakam (achyutayatikRitam)
+title: हनुमदष्टकम् (अच्युतयतिकृइतम्)
 
-+++
+---
   
  श्रीहनुमदष्टकं   
   

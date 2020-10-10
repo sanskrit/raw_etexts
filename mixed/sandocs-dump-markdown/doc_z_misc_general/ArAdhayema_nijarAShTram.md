@@ -1,22 +1,22 @@
-+++
-"Text title" = "ArAdhayema nijarAShTram"
-"File name" = "ArAdhayemanijarAShTram.itx"
-itxtitle = "ArAdhayema nijarAShTram"
-engtitle = "ArAdhayemanijarAShTram"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Jaishankar Prasad (Hindi original hama kare rAShTra ArAdhana)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Translated by" = "Sanskrit by Shastri Shri Sureshchandra T. Vyas"
-Indexextra = "(Videos 1, 2, Hindi 1, 2)"
-"Latest update" = "October 2, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आराधयेम निजराष्ट्रम्"
+---
+Author: Jaishankar Prasad (Hindi original hama kare rAShTra ArAdhana)
+Category: misc, sanskritgeet
+File name: ArAdhayemanijarAShTram.itx
+Indexextra: (Videos 1, 2, Hindi 1, 2)
+Language: Sanskrit
+Latest update: October 2, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: ArAdhayema nijarAShTram
+Translated by: Sanskrit by Shastri Shri Sureshchandra T. Vyas
+engtitle: ArAdhayemanijarAShTram
+itxtitle: ArAdhayema nijarAShTram
+title: आराधयेम निजराष्ट्रम्
 
-+++
+---
   
  आराधयेम निजराष्ट्रम्   
 आराधयेम निज राष्ट्रं आराधयेम निज राष्ट्रम् ॥ ध्रु॥  

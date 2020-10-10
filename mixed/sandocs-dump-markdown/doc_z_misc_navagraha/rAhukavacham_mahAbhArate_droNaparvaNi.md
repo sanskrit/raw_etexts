@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAhukavacham"
-"File name" = "rAhukavach.itx"
-itxtitle = "rAhukavacham (mahAbhArate droNaparvaNi)"
-engtitle = "rAhukavacham"
-Category = "kavacha, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "shrImahAbhArate dhRitarAShTrasanjayasa.nvAde droNaparvaNi"
-"Latest update" = "February 26, 2005, November 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राहुकवचम् (महाभारते द्रोणपर्वणि)"
+---
+Author: Traditional
+Category: kavacha, navagraha
+Description-comments: shrImahAbhArate dhRitarAShTrasanjayasa.nvAde droNaparvaNi
+File name: rAhukavach.itx
+Language: Sanskrit
+Latest update: February 26, 2005, November 11, 2018
+Location: doc_z_misc_navagraha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: rAhukavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com)
+engtitle: rAhukavacham
+itxtitle: rAhukavacham (mahAbhArate droNaparvaNi)
+title: राहुकवचम् (महाभारते द्रोणपर्वणि)
 
-+++
+---
   
  राहुकवचम्   
   

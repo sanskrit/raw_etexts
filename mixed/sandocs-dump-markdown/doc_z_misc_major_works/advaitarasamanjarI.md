@@ -1,24 +1,24 @@
-+++
-"Text title" = "advaitarasamanjari"
-"File name" = "advaitarasamanjari.itx"
-itxtitle = "advaitarasamanjarI"
-engtitle = "Advaita-rasa-manjari"
-Category = "major_works, sadAshivabrahmendra"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "shriimatparamaha.nsa parivraajaka sadaashiva brahmendra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Indexextra = "(NONENONE)"
-"Latest update" = "Dec. 3, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अद्वैतरसमञ्जरी"
+---
+Author: shriimatparamaha.nsa parivraajaka sadaashiva brahmendra
+Category: major_works, sadAshivabrahmendra
+File name: advaitarasamanjari.itx
+Indexextra: (NONENONE)
+Language: Sanskrit
+Latest update: Dec. 3, 2009
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: major_works
+Text title: advaitarasamanjari
+Texttype: pramukha
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Advaita-rasa-manjari
+itxtitle: advaitarasamanjarI
+title: अद्वैतरसमञ्जरी
 
-+++
+---
   
  अद्वैतरसमञ्जरी   
   
@@ -116,7 +116,7 @@ title = "अद्वैतरसमञ्जरी"
 अद्यास्तमेतु वपुराशितारमास्तां  
        कस्तावतापि मम चिद्वपुषो विशेषः ।  
 कुम्भेऽपि नश्यति चिरं समवस्थिते वा  
-       कुम्भांबरस्य नहि कोऽपि विशेषलेशः ॥ १४॥  
+       कुम्भाम्बरस्य नहि कोऽपि विशेषलेशः ॥ १४॥  
   
 सङ्कल्पमात्रसविकल्पितमूर्तिविश्वं  
        विश्वं च सत्यमिति मूर्च्छितमन्दबुद्धिः ।  
@@ -155,7 +155,7 @@ title = "अद्वैतरसमञ्जरी"
   
 माया स्वकीयवियदादिविकारजालै-  
        र्नात्मानमन्यथयितुं प्रभवत्यसङ्गम् ।  
-आधारपुष्करपलाशकमंबुधारा  
+आधारपुष्करपलाशकमम्बुधारा  
        स्वीयैः किमार्द्रयितुमर्हति शीकरौघैः ॥ २२॥  
   
 आभासमात्रतनवो जगतीविकल्पा  
@@ -181,7 +181,7 @@ title = "अद्वैतरसमञ्जरी"
 कर्तेति कायिकविचेष्टितदर्शिनो मां  
        गृह्णन्ति चेत् किमु यथैव तथा भवामि ।  
 पारिप्लवोऽयमिति पामरधीगृहीत-  
-       श्चन्द्रस्तथा नहि चलांबुदसन्निकृष्टः ॥ २७॥  
+       श्चन्द्रस्तथा नहि चलाम्बुदसन्निकृष्टः ॥ २७॥  
   
 मिथ्या समुल्लसतु नाम जगद्विचित्र-  
        मेतावता विमलतत्वविदो न हानिः ।  

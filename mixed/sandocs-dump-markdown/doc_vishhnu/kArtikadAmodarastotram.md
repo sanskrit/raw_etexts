@@ -1,24 +1,25 @@
-+++
-"Text title" = "Kartika Damodara Stotram"
-"File name" = "kArtikadAmodarastotram.itx"
-itxtitle = "kArtikadAmodarastotram"
-engtitle = "kArtikadAmodarastotram"
-Category = "vishhnu, dashAvatAra, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar, NA"
-"Description/comments" = "The stotra is recited in month of Kartik, being most auspicious monthe, hence the title."
-Indexextra = "(Scan, Video)"
-"Latest update" = "May 10, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "कार्तिकदामोदरस्तोत्रम्"
+---
+Category: vishhnu, dashAvatAra, krishna
+Description/comments: The stotra is recited in month of Kartik, being most auspicious
+  monthe, hence the title.
+File name: kArtikadAmodarastotram.itx
+Indexextra: (Scan, Video)
+Language: Sanskrit
+Latest update: May 10, 2020
+Location: doc_vishhnu
+Proofread by: Krishnananda Achar, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Kartika Damodara Stotram
+Transliterated by: Krishnananda Achar
+engtitle: kArtikadAmodarastotram
+itxtitle: kArtikadAmodarastotram
+title: कार्तिकदामोदरस्तोत्रम्
 
-+++
+---
   
  कार्तिक दामोदर स्तोत्रम्   
 । मत्स्यावतार, कूर्मावतार, वराहावतार ।  

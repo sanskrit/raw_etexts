@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Vishnu Bhujangaprayata Stotra"
-"File name" = "vishnubhujanga.itx"
-itxtitle = "viShNubhujaNgaprayAtastotram"
-engtitle = "Shri Vishnu Bhujangaprayata Stotra"
-Category = "vishhnu, bhujanga, shankarAchArya, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "bhujanga"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Translated by" = "-"
-Description-comments = "Hymn of 8 verses in praise of the Vishnu"
-"Latest update" = "August 24, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुभुजण्गप्रयातस्तोत्रम्"
+---
+Author: Adi Shankaracharya
+Category: vishhnu, bhujanga, shankarAchArya, vishnu
+Description-comments: Hymn of 8 verses in praise of the Vishnu
+File name: vishnubhujanga.itx
+Language: Sanskrit
+Latest update: August 24, 2002
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: bhujanga
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Vishnu Bhujangaprayata Stotra
+Translated by: '-'
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Shri Vishnu Bhujangaprayata Stotra
+itxtitle: viShNubhujaNgaprayAtastotram
+title: विष्णुभुजण्गप्रयातस्तोत्रम्
 
-+++
+---
   
  श्रीविष्णुभुजङ्गप्रयातस्तोत्रम्   
   
@@ -55,12 +55,12 @@ title = "विष्णुभुजण्गप्रयातस्तोत�
      महोरस्फुरत्कौस्तुभोदारहारम् ॥ ६॥  
   
 सुरत्नाङ्गदैरन्वितं बाहुदण्डै-  
-     श्चतुर्भिश्चलत्कङ्कणालंकृताग्रैः ।  
-उदारोदरालंकृतं पीतवस्त्रं  
+     श्चतुर्भिश्चलत्कङ्कणालङ्कृताग्रैः ।  
+उदारोदरालङ्कृतं पीतवस्त्रं  
      पदद्वन्द्वनिर्धूतपद्माभिरामम् ॥ ७॥  
   
 स्वभक्तेषु सन्दर्शिताकारमेवं  
-     सदा भावयन्संनिरुद्धेन्द्रियाश्वः ।  
+     सदा भावयन्सन्निरुद्धेन्द्रियाश्वः ।  
 दुरापं नरो याति संसारपारं  
      परस्मै परेभ्योऽपि तस्मै नमस्ते ॥ ८॥  
   

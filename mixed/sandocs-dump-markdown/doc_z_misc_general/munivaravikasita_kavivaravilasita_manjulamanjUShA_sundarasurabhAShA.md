@@ -1,24 +1,24 @@
-+++
-"Text title" = "Munivara Vikasita"
-"File name" = "munivaravikasita.itx"
-itxtitle = "munivaravikasita kavivaravilasita manjulamanjUShA sundarasurabhAShA"
-engtitle = "munivaravikasita"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "nArAyaNabhaTTaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1, 2, 3, 4)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मुनिवरविकसित कविवरविलसित मञ्जुलमञ्जूषा सुन्दरसुरभाषा"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: nArAyaNabhaTTaH
+Category: misc, sanskritgeet
+File name: munivaravikasita.itx
+Indexextra: (Wiki, Videos 1, 2, 3, 4)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Munivara Vikasita
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: munivaravikasita
+itxtitle: munivaravikasita kavivaravilasita manjulamanjUShA sundarasurabhAShA
+title: मुनिवरविकसित कविवरविलसित मञ्जुलमञ्जूषा सुन्दरसुरभाषा
 
-+++
+---
   
  मुनिवरविकसित   
 मुनिवरविकसितकविवरविलसित  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivachAmarastutiH"
-"File name" = "shivachAmarastutiH.itx"
-itxtitle = "shivachAmarastutiH athavA bhairavastutiH (abhinavaguptavirachitA)"
-engtitle = "shivachAmarastutiH"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Abhinava Gupta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan gmail.com, NA"
-"Translated by" = "Masterji Zinda Kaul"
-"Latest update" = "June 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवचामरस्तुतिः अथवा भैरवस्तुतिः (अभिनवगुप्तविरचिता)"
+---
+Author: Abhinava Gupta
+Category: shiva
+File name: shivachAmarastutiH.itx
+Language: Sanskrit
+Latest update: June 17, 2018
+Location: doc_shiva
+Proofread by: Nat Natarajan nat.natarajan gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivachAmarastutiH
+Translated by: Masterji Zinda Kaul
+Transliterated by: Nat Natarajan nat.natarajan gmail.com
+engtitle: shivachAmarastutiH
+itxtitle: shivachAmarastutiH athavA bhairavastutiH (abhinavaguptavirachitA)
+title: शिवचामरस्तुतिः अथवा भैरवस्तुतिः (अभिनवगुप्तविरचिता)
 
-+++
+---
   
  शिवचामरस्तुतिः   
 ॐ व्याप्तचराऽचर भाव विशेषं, चिन्मयमेकमऽनन्तमनादिम् ।  

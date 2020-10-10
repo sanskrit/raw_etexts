@@ -1,24 +1,24 @@
-+++
-"Text title" = "shatrusaMhaarakamekadantastotram or Gajavaktrastuti"
-"File name" = "shatrusaMhaarakamekadantastotram.itx"
-itxtitle = "shatrusaMhArakamekadantastotram athavA gajavaktrastutiH (mudgalapurANAntargatam)"
-engtitle = "shatrusaMhArakamekadantastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "mudgalapurANa"
-"Latest update" = "September 17, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शत्रुसंहारकमेकदन्तस्तोत्रम् अथवा गजवक्त्रस्तुतिः (मुद्गलपुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: mudgalapurANa
+File name: shatrusaMhaarakamekadantastotram.itx
+Language: Sanskrit
+Latest update: September 17, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: shatrusaMhaarakamekadantastotram or Gajavaktrastuti
+Texttype: stotra
+Transliterated by: 'Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)'
+engtitle: shatrusaMhArakamekadantastotram
+itxtitle: shatrusaMhArakamekadantastotram athavA gajavaktrastutiH (mudgalapurANAntargatam)
+title: शत्रुसंहारकमेकदन्तस्तोत्रम् अथवा गजवक्त्रस्तुतिः (मुद्गलपुराणान्तर्गतम्)
 
-+++
+---
   
  शत्रुसंहारकमेकदन्तस्तोत्रम् अथवा गजवक्त्रस्तुतिः   
   

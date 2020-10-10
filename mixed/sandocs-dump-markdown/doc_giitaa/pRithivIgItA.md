@@ -1,22 +1,22 @@
-+++
-"Text title" = "pRithivIgItA"
-"File name" = "pRithivIgItA.itx"
-itxtitle = "pRithivIgItA"
-engtitle = "pRithivIgItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Bengali)"
-"Latest update" = "May 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पृइथिवीगीता"
+---
+Category: gItA, giitaa
+File name: pRithivIgItA.itx
+Indexextra: (Bengali)
+Language: Sanskrit
+Latest update: May 18, 2013
+Location: doc_giitaa
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: pRithivIgItA
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: pRithivIgItA
+itxtitle: pRithivIgItA
+title: पृइथिवीगीता
 
-+++
+---
   
  पृथिवीगीता   
   

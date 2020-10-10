@@ -1,23 +1,23 @@
-+++
-"Text title" = "Bhuvaneshwari Hridayam"
-"File name" = "bhuvaneshvarIhRidayam.itx"
-itxtitle = "bhuvaneshvarIhRidayam"
-engtitle = "Bhuvaneshvari Hridayam"
-Category = "hRidaya, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, PSA Easwaran"
-Description-comments = "Mantramaharnava nIlasarasvatItantre bhuvaneshvarIpaTale"
-"Latest update" = "August 12, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वरीहृइदयम्"
+---
+Category: hRidaya, devii, dashamahAvidyA, devI
+Description-comments: Mantramaharnava nIlasarasvatItantre bhuvaneshvarIpaTale
+File name: bhuvaneshvarIhRidayam.itx
+Language: Sanskrit
+Latest update: August 12, 2016
+Location: doc_devii
+Proofread by: Gopal Upadhyay, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Bhuvaneshwari Hridayam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: Bhuvaneshvari Hridayam
+itxtitle: bhuvaneshvarIhRidayam
+title: भुवनेश्वरीहृइदयम्
 
-+++
+---
   
  श्रीभुवनेश्वरीहृदयम्   
   

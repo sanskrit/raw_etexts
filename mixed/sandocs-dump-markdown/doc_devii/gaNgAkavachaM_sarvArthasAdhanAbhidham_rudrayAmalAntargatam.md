@@ -1,24 +1,24 @@
-+++
-"Text title" = "Sarvarthasadhanabhidham Ganga Kavacham"
-"File name" = "gangAkavachaMsarvArthasAdhanAbhidhaM.itx"
-itxtitle = "gaNgAkavachaM sarvArthasAdhanAbhidham (rudrayAmalAntargatam)"
-engtitle = "gangAkavachaM sarvArthasAdhanAbhidhaM"
-Category = "devii, nadI, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Proofread by" = "Shree Devi Kumar shreeshrii at gmail.com"
-Description-comments = "Rudrayamala"
-Indexextra = "(Scan)"
-"Latest update" = "November 3, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाकवचं सर्वार्थसाधनाभिधम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: devii, nadI, kavacha, devI
+Description-comments: Rudrayamala
+File name: gangAkavachaMsarvArthasAdhanAbhidhaM.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 3, 2019
+Location: doc_devii
+Proofread by: Shree Devi Kumar shreeshrii at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Sarvarthasadhanabhidham Ganga Kavacham
+Transliterated by: Shree Devi Kumar shreeshrii at gmail.com
+engtitle: gangAkavachaM sarvArthasAdhanAbhidhaM
+itxtitle: gaNgAkavachaM sarvArthasAdhanAbhidham (rudrayAmalAntargatam)
+title: गण्गाकवचं सर्वार्थसाधनाभिधम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  सर्वार्थसाधनाभिधं गङ्गा कवचं   
 ॐ श्री गणेशाय नमः ।  

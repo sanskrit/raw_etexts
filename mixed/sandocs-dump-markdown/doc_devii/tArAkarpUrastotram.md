@@ -1,23 +1,23 @@
-+++
-"Text title" = "tArAkarpUrastotram"
-"File name" = "tArAkarpUrastotram.itx"
-itxtitle = "tArAkarpUrastotram"
-engtitle = "Tara Karpura Stotram"
-Category = "devii, devI, dashamahAvidyA, AratI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Yash Khasbage"
-"Proofread by" = "Yash Khasbage, NA"
-Indexextra = "(Scan)"
-"Latest update" = "June 19, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ताराकर्पूरस्तोत्रम्"
+---
+Category: devii, devI, dashamahAvidyA, AratI
+File name: tArAkarpUrastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 19, 2020
+Location: doc_devii
+Proofread by: Yash Khasbage, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tArAkarpUrastotram
+Transliterated by: Yash Khasbage
+engtitle: Tara Karpura Stotram
+itxtitle: tArAkarpUrastotram
+title: ताराकर्पूरस्तोत्रम्
 
-+++
+---
   
  ताराकर्पूरस्तोत्रम्   
      ॐ नमस्तारिण्यै ।  

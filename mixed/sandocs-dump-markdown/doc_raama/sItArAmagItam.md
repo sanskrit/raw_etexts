@@ -1,25 +1,25 @@
-+++
-"Text title" = "sItArAma gItam"
-"File name" = "sitaramagiitam.itx"
-itxtitle = "sItArAmagItam"
-engtitle = "Shri Sita Rama Gitam"
-Category = "gItam, raama, stotra, sItA, devii, devI"
-Location = "doc_raama"
-Sublocation = "raama"
-SubDeity = "sItA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "October 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीतारामगीतम्"
+---
+Category: gItam, raama, stotra, sItA, devii, devI
+File name: sitaramagiitam.itx
+Language: Sanskrit
+Latest update: October 1, 2010
+Location: doc_raama
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sItA
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: sItArAma gItam
+Texttype: stotra
+engtitle: Shri Sita Rama Gitam
+itxtitle: sItArAmagItam
+title: सीतारामगीतम्
 
-+++
+---
   
  श्रीसीताराम गीतम्   
   
- कमल लोचनौ राम कांचनाम्बरौ  
+ कमल लोचनौ राम काञ्चनाम्बरौ  
  कवचभूषणौ राम कार्मुकान्वितौ  ।  
  कलुषसंहारौ राम कामितप्रदौ  
  रहसि नौमि तौ सीतारामलक्ष्मणौ  ॥  १  ॥  
@@ -44,7 +44,7 @@ title = "सीतारामगीतम्"
  परमसात्विकौ राम भक्तवत्सलौ  
  रहसि नौमि तौ सीतारामलक्ष्मणौ  ॥  ५  ॥  
   
- वनविहारिणौ राम वल्कलांबरौ  
+ वनविहारिणौ राम वल्कलाम्बरौ  
  वनफलाशिनौ राम वासवार्चितौ  ।  
  वरगुणाकरौ राम वालिमर्दनौ  
  रहसि नौमि तौ सीतारामलक्ष्मणौ  ॥  ६  ॥  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "bhartRiharikRita nItishatakam"
-"File name" = "niiti.itx"
-itxtitle = "nItishatakam (bhartRiharikRitam)"
-engtitle = "Nitishatak by Bhartrihari"
-Category = "shataka, major_works, bhartihari"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion/literature"
-"Transliterated by" = "Atul Narkhade"
-"Proofread by" = "Atul Narkhade, Kaushal Kaloo"
-Description-comments = "Available at archive.org"
-Indexextra = "(meaning 1, 2, 3 Sunderji, 4)"
-"Latest update" = "September 28, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नीतिशतकम् (भर्तृइहरिकृइतम्)"
+---
+Category: shataka, major_works, bhartihari
+Description-comments: Available at archive.org
+File name: niiti.itx
+Indexextra: (meaning 1, 2, 3 Sunderji, 4)
+Language: Sanskrit
+Latest update: September 28, 2019
+Location: doc_z_misc_major_works
+Proofread by: Atul Narkhade, Kaushal Kaloo
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion/literature
+Sublocation: major_works
+Text title: bhartRiharikRita nItishatakam
+Texttype: pramukha
+Transliterated by: Atul Narkhade
+engtitle: Nitishatak by Bhartrihari
+itxtitle: nItishatakam (bhartRiharikRitam)
+title: नीतिशतकम् (भर्तृइहरिकृइतम्)
 
-+++
+---
   
  नीतिशतकं भर्तृहरिकृत   
 दिक्कालाद्यनवच्छिन्नानन्तचिन्मात्रमूर्तये ।  

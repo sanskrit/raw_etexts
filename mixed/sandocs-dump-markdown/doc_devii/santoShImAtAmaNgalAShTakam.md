@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri SantoShi Mata Mangala Ashtakam"
-"File name" = "santoShImAtAmangalAShTakam.itx"
-itxtitle = "santoShImAtAmaNgalAShTakam"
-engtitle = "santoShImAtAmangalAShTakam"
-Category = "devii, aShTaka, mangala, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-"Latest update" = "January 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्तोषीमातामण्गलाष्टकम्"
+---
+Category: devii, aShTaka, mangala, otherforms, devI
+File name: santoShImAtAmangalAShTakam.itx
+Language: Sanskrit
+Latest update: January 1, 2020
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri SantoShi Mata Mangala Ashtakam
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: santoShImAtAmangalAShTakam
+itxtitle: santoShImAtAmaNgalAShTakam
+title: सन्तोषीमातामण्गलाष्टकम्
 
-+++
+---
   
  श्रीसन्तोषीमाता मङ्गलाष्टकम्   
 ॐ श्रीगणेशाय नमः ।  

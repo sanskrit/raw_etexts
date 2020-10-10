@@ -1,23 +1,23 @@
-+++
-"Text title" = "kAveryaShTakam"
-"File name" = "kAveryaShTakam.itx"
-itxtitle = "kAveryaShTakam"
-engtitle = "kAveryaShTakam"
-Category = "aShTaka, devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Suresh Pitre suresh.pitre at gmail.com"
-"Proofread by" = "Suresh Pitre, PR Kannan"
-Description-comments = "Kaveri Rahasyam"
-"Latest update" = "December 31, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कावेर्यष्टकम्"
+---
+Category: aShTaka, devii, nadI, devI
+Description-comments: Kaveri Rahasyam
+File name: kAveryaShTakam.itx
+Language: Sanskrit
+Latest update: December 31, 2016
+Location: doc_devii
+Proofread by: Suresh Pitre, PR Kannan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAveryaShTakam
+Transliterated by: Suresh Pitre suresh.pitre at gmail.com
+engtitle: kAveryaShTakam
+itxtitle: kAveryaShTakam
+title: कावेर्यष्टकम्
 
-+++
+---
   
  कावेर्यष्टकम्   
   

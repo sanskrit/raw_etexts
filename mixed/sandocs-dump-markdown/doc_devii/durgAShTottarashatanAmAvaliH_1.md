@@ -1,24 +1,24 @@
-+++
-"Text title" = "durgAShTottarashatanAmAvalI 1"
-"File name" = "durgaa108-5.itx"
-itxtitle = "durgAShTottarashatanAmAvaliH 1"
-engtitle = "Durga Ashtottarashatanamavali 108 names 1"
-Category = "aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sowmya Ramkumar"
-"Proofread by" = "Sowmya Ramkumar"
-Indexextra = "(108 names of Goddess Durga)"
-"Latest update" = "October 6, 1997, September 15, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गाष्टोत्तरशतनामावलिः १"
+---
+Category: aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI
+File name: durgaa108-5.itx
+Indexextra: (108 names of Goddess Durga)
+Language: Sanskrit
+Latest update: October 6, 1997, September 15, 2014
+Location: doc_devii
+Proofread by: Sowmya Ramkumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAShTottarashatanAmAvalI 1
+Texttype: nAmAvalI
+Transliterated by: Sowmya Ramkumar
+engtitle: Durga Ashtottarashatanamavali 108 names 1
+itxtitle: durgAShTottarashatanAmAvaliH 1
+title: दुर्गाष्टोत्तरशतनामावलिः १
 
-+++
+---
   
  श्रीदुर्गाष्टोत्तरशतनामावली   
   
@@ -38,10 +38,10 @@ title = "दुर्गाष्टोत्तरशतनामावलि�
 ॐ सरस्वत्यै नमः ।  
 ॐ कमलायै नमः ।  
 ॐ मायायै नमः ।  
-ॐ मातंग्यै नमः ।  
+ॐ मातङ्ग्यै नमः ।  
 ॐ अपरायै नमः ।  
 ॐ अजायै नमः ।  
-ॐ शांकभर्यै नमः ।  
+ॐ शाङ्कभर्यै नमः ।  
 ॐ शिवायै नमः ।  
   
 ॐ चण्डयै नमः ।  
@@ -107,7 +107,7 @@ title = "दुर्गाष्टोत्तरशतनामावलि�
 ॐ निर्गुणायै नमः ।  
 ॐ सत्यायै नमः ।  
 ॐ निर्विकल्पायै नमः ।  
-ॐ निरंजिन्यै नमः ।  
+ॐ निरञ्जिन्यै नमः ।  
 ॐ ज्वालिन्यै नमः ।  
   
 ॐ मालिन्यै नमः ।  
@@ -126,7 +126,7 @@ title = "दुर्गाष्टोत्तरशतनामावलि�
 ॐ मदनसुन्दर्यै नमः ।  
 ॐ वागीश्वर्यै नमः ।  
 ॐ विशालाक्ष्यै नमः ।  
-ॐ सुमंगल्यै नमः ।  
+ॐ सुमङ्गल्यै नमः ।  
 ॐ काल्यै नमः ।  
 ॐ महेश्वर्यै नमः ।  
 ॐ चण्ड्यै नमः ।  

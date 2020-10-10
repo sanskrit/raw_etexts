@@ -1,20 +1,20 @@
-+++
-"Text title" = "Shrimad Satyanarayana Mangalashasanam"
-"File name" = "satyanArAyaNamangalAshAsanam.itx"
-itxtitle = "satyanArAyaNamaNgalAshAsanam"
-engtitle = "satyanArAyaNa mangalAshAsanam"
-Category = "vishhnu, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "February 22, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सत्यनारायणमण्गलाशासनम्"
+---
+Category: vishhnu, mangala
+File name: satyanArAyaNamangalAshAsanam.itx
+Language: Sanskrit
+Latest update: February 22, 2020
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shrimad Satyanarayana Mangalashasanam
+engtitle: satyanArAyaNa mangalAshAsanam
+itxtitle: satyanArAyaNamaNgalAshAsanam
+title: सत्यनारायणमण्गलाशासनम्
 
-+++
+---
   
  सत्यनारायण मङ्गलाशासनम्   
 सत्यावताररूपाय मङ्गलाभरणाङ्घ्रये ।  

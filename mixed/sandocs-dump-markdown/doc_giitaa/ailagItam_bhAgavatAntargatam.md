@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrimadbhAgavatAntargataM ailagIta"
-"File name" = "ailagIta.itx"
-itxtitle = "ailagItam (bhAgavatAntargatam)"
-engtitle = "Ailagita from Shrimadbhagavatam"
-Category = "gItam, giitaa, vyAsa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "maharShi vyAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Bhagavatam skanda 11 adhyAya 26"
-Indexextra = "(Bhagavatam 11.26)"
-"Latest update" = "November 10, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ऐलगीतम् (भागवतान्तर्गतम्)"
+---
+Author: maharShi vyAsa
+Category: gItam, giitaa, vyAsa
+Description-comments: Bhagavatam skanda 11 adhyAya 26
+File name: ailagIta.itx
+Indexextra: (Bhagavatam 11.26)
+Language: Sanskrit
+Latest update: November 10, 2012
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: shrimadbhAgavatAntargataM ailagIta
+engtitle: Ailagita from Shrimadbhagavatam
+itxtitle: ailagItam (bhAgavatAntargatam)
+title: ऐलगीतम् (भागवतान्तर्गतम्)
 
-+++
+---
   
  श्रीमद्भागवतान्तर्गतम् ऐलगीत   
   

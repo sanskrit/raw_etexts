@@ -1,20 +1,20 @@
-+++
-"Text title" = "guruvAyupureshvarAShTottarashatanAmAvalI"
-"File name" = "guruvAyupureshvarAShTottarashatanAmAvalI.itx"
-itxtitle = "guruvAyupureshvarAShTottarashatanAmAvalI"
-engtitle = "guruvAyupureshvarAShTottarashatanAmAvalI"
-Category = "vishhnu, aShTottarashatanAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com, PSA Easwaran"
-"Latest update" = "November 29, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुवायुपुरेश्वराष्टोत्तरशतनामावली"
+---
+Category: vishhnu, aShTottarashatanAmAvalI
+File name: guruvAyupureshvarAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: November 29, 2018
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: guruvAyupureshvarAShTottarashatanAmAvalI
+engtitle: guruvAyupureshvarAShTottarashatanAmAvalI
+itxtitle: guruvAyupureshvarAShTottarashatanAmAvalI
+title: गुरुवायुपुरेश्वराष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीगुरुवायुपुरेश्वराष्टोत्तरशतनामावलिः   
  ॥ श्रीः ॥  
@@ -127,7 +127,7 @@ title = "गुरुवायुपुरेश्वराष्टोत्�
 ॐ श्रीं ह्रीं क्लीं स्मरतूणाभलक्ष्मीकजङ्घाद्वयविराजिताय नमः ॐ ।  
 ॐ श्रीं ह्रीं क्लीं मांसलगुल्फलक्ष्मीकाय नमः ॐ ।   (१००)  
 ॐ श्रीं ह्रीं क्लीं महासौभाग्यसंयुताय नमः ॐ ।  
-ॐ श्रीं ह्रीं क्लीं ह्रींङ्कारतत्त्वसम्बोधिनूपुरद्वयराजिताय नमः ॐ ।  
+ॐ श्रीं ह्रीं क्लीं ह्रीङ्ङ्कारतत्त्वसम्बोधिनूपुरद्वयराजिताय नमः ॐ ।  
 ॐ श्रीं ह्रीं क्लीं आदिकूर्मावतारश्रीजयिष्णुप्रपदान्विताय नमः ॐ ।  
 ॐ श्रीं ह्रीं क्लीं नमज्जनतमोवृन्दविध्वंसकपदद्वयाय नमः ॐ ।  
 ॐ श्रीं ह्रीं क्लीं नखज्योत्स्नालिशैशिर्यपरविद्याप्रकाशकाय नमः ॐ ।  

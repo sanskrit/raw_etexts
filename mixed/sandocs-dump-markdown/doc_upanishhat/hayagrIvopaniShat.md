@@ -1,25 +1,25 @@
-+++
-"Text title" = "Hayagriva Upanishad"
-"File name" = "hayagriva_upan.itx"
-itxtitle = "hayagrIvopaniShat"
-engtitle = "Hayagriva Upanishad"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "100 / 108; Atharva Veda - Vaishnava upanishad"
-Indexextra = "(Scan)"
-"Latest update" = "April, 19, 2000, July 3, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हयग्रीवोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, svara, upanishad
+Description-comments: 100 / 108; Atharva Veda - Vaishnava upanishad
+File name: hayagriva_upan.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April, 19, 2000, July 3, 2019
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion
+Sublocation: upanishhat
+Text title: Hayagriva Upanishad
+Texttype: svara
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Hayagriva Upanishad
+itxtitle: hayagrIvopaniShat
+title: हयग्रीवोपनिषत्
 
-+++
+---
   
  हयग्रीवोपनिषत्   
 स्वज्ञोऽपि यत्प्रसादेन ज्ञानं तत्फलमाप्नुयात् ।  
@@ -54,7 +54,7 @@ title = "हयग्रीवोपनिषत्"
 सोऽहमिति शक्तिः । ह्लू(ह्सौ)मिति कीलकम् । भोगमोक्षयोर्विनियोगः ।  
 अकारोकारमकारैरङ्गन्यासः । ध्यानम् ।  
 शङ्खचक्रमहामुद्रापुस्तकाढ्यं चतुर्भुजम् ।  
-सम्पूर्णचन्द्रसंकाशं हयग्रीवमुपास्महे ॥  
+सम्पूर्णचन्द्रसङ्काशं हयग्रीवमुपास्महे ॥  
   
 ॐ श्रीमिति द्वे अक्षरे । ह्लौ(ह्सौ)मित्येकाक्षरम् । ॐ नमो  
 भगवत इति सप्ताक्षराणि । हयग्रीवायेति पञ्चाक्षराणि ।  
@@ -71,7 +71,7 @@ title = "हयग्रीवोपनिषत्"
    इति हयग्रीवोपनिषत्सु प्रथमोपनिषत् ॥ १ ॥  
   
 हयग्रीवैकाक्षरेण ब्रह्मविद्यां प्रवक्ष्यामि । ब्रह्मा  
-महेश्वराय महेश्वरः संकर्षणाय संकर्षणो नारदाय  
+महेश्वराय महेश्वरः सङ्कर्षणाय सङ्कर्षणो नारदाय  
 नारदो व्यासाय व्यासो लोकेभ्यः प्रायच्छदिति  
 हकारोंसकारोमकारों त्रयमेकस्वरूपं भवति । ह्लौं(ह्सौं)  
 बीजाक्षरं भवति । बीजाक्षरेण ह्लौं(ह्सौं) रूपेण तज्जापकानां  

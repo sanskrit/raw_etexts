@@ -1,24 +1,24 @@
-+++
-"Text title" = "mAtangIdhyAnam"
-"File name" = "mAtangIdhyAnam.itx"
-itxtitle = "mAtaNgIdhyAnam"
-engtitle = "mAtangIdhyAnam"
-Category = "dhyAnam, devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 1)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातण्गीध्यानम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: dhyAnam, devii, devI, dashamahAvidyA
+File name: mAtangIdhyAnam.itx
+Indexextra: (stotramanjari 1)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mAtangIdhyAnam
+Transliterated by: Shree Devi Kumar
+engtitle: mAtangIdhyAnam
+itxtitle: mAtaNgIdhyAnam
+title: मातण्गीध्यानम्
 
-+++
+---
   
  श्रीमातङ्गीध्यानम्   
   

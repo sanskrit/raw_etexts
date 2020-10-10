@@ -1,23 +1,23 @@
-+++
-"Text title" = "gAyatrIstutiH"
-"File name" = "gAyatrIstutiH.itx"
-itxtitle = "gAyatrIstutiH (varAhamahApurANAntargatA maheshvarakRitA jayasva devi)"
-engtitle = "gAyatrIstutiH"
-Category = "devii, gAyatrI, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "from devIstotraratnAkara"
-"Latest update" = "April 20, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीस्तुतिः (वराहमहापुराणान्तर्गता महेश्वरकृइता जयस्व देवि)"
+---
+Category: devii, gAyatrI, aShTaka, devI
+Description/comments: from devIstotraratnAkara
+File name: gAyatrIstutiH.itx
+Language: Sanskrit
+Latest update: April 20, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrIstutiH
+Texttype: svara
+engtitle: gAyatrIstutiH
+itxtitle: gAyatrIstutiH (varAhamahApurANAntargatA maheshvarakRitA jayasva devi)
+title: गायत्रीस्तुतिः (वराहमहापुराणान्तर्गता महेश्वरकृइता जयस्व देवि)
 
-+++
+---
   
  गायत्रीस्तुतिः   
 महेश्वर उवाच -  
@@ -51,10 +51,10 @@ title = "गायत्रीस्तुतिः (वराहमहापु
 हिन्दी भावार्थ -  
 भगवान् महेश्वर बोले -महामाये ! महाप्रभे! गायत्रीदेवि! आपकी  
 जय हो! महाभागे ! आपके सौभाग्य, बल, आनन्द--सभी असीम हैं ।  
-दिव्य गन्ध एवं अनुलेपन आपके श्रीअंगोकी शोभा बढाते हैं ।  
+दिव्य गन्ध एवं अनुलेपन आपके श्रीअङ्गोकी शोभा बढाते हैं ।  
 परमानन्दमयी देवि! दिव्य मालाएँ एवं गन्ध आपके श्रीविग्रहकी  
 छवि बढाती हैं । महेश्वरि! आप वेदों की माता हैं । आप ही  
-वर्णोंकी मातृका हैं । आप तीनों लोकों मे व्याप्त हैं । तीनों  
+वर्णोङ्की मातृका हैं । आप तीनों लोकों मे व्याप्त हैं । तीनों  
 अग्नियों मे जो शक्ति है, वह आपका ही तेज है । त्रिशूल धारण  
 करनेवाली देवि! आपको मेरा नमस्कार है । देवि ! आप त्रिनेत्रा,  
 भीमवक्त्रा, भीमनेत्रा और भयानका आदि अर्थानुरूप नामों से  
@@ -71,7 +71,7 @@ title = "गायत्रीस्तुतिः (वराहमहापु
 देवि ! विशिष्ट बुद्धिका आपसे ही उदय होता हे । आप समयानुसार  
 लघु एवं बृहत् शरीर भी धारण कर लेती हैं । महामाये! आप  
 नीति, सरस्वती, पृथ्वी एवं अक्षरस्वरूपा हैं । देवि! आप श्री,  
-धी तथा ओंकारस्वरूपा हैं । परमेश्वरि! तत्त्वमें विराजमान  
+धी तथा ओङ्कारस्वरूपा हैं । परमेश्वरि! तत्त्वमें विराजमान  
 होकर आप अखिल प्राणियों का हित करती हैं । आपको मेरा बार  
 -बार नमस्कार है ॥ ५ -७॥  
   

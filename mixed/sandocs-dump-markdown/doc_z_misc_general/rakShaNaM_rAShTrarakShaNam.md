@@ -1,23 +1,23 @@
-+++
-"Text title" = "Rakshanam Rakshanam Rashtrarakshanam"
-"File name" = "rakShaNaMrAShTrarakShaNam.itx"
-itxtitle = "rakShaNaM rAShTrarakShaNam"
-engtitle = "rakShaNaM rAShTrarakShaNam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "narapata kaviyA, saMskRitAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Volunteers at Bharat Vikas Parishad https://bvpindia.com"
-Indexextra = "(Text, BVP Intro)"
-Acknowledge-Permission = "Bharat Vikas Parishad https://bvpindia.com Atam Dev"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रक्षणं राष्ट्ररक्षणम्"
+---
+Acknowledge-Permission: Bharat Vikas Parishad https://bvpindia.com Atam Dev
+Author: narapata kaviyA, saMskRitAchArya
+Category: misc, sanskritgeet
+File name: rakShaNaMrAShTrarakShaNam.itx
+Indexextra: (Text, BVP Intro)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Rakshanam Rakshanam Rashtrarakshanam
+Transliterated by: Volunteers at Bharat Vikas Parishad https://bvpindia.com
+engtitle: rakShaNaM rAShTrarakShaNam
+itxtitle: rakShaNaM rAShTrarakShaNam
+title: रक्षणं राष्ट्ररक्षणम्
 
-+++
+---
   
  रक्षणं-रक्षणं राष्ट्ररक्षणम्   
 रक्षणं-रक्षणं राष्ट्ररक्षणम् ।  

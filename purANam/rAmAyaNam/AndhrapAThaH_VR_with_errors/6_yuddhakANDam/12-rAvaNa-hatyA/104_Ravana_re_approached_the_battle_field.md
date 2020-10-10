@@ -3,7 +3,6 @@ title: 104 Ravana re approached the battle field
 title_english: 104 Ravana re approached the battle field
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-104-Ravana_re-approached_the_battle-field_0.mp3"></div>
 
 स तु मोहात्सुसङ्क्रुद्धः कृतान्तबलचोदितः ।  

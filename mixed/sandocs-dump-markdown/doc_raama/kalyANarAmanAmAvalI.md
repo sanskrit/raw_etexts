@@ -1,23 +1,23 @@
-+++
-"Text title" = "kalyANarAmanAmAvalI"
-"File name" = "kalyANarAmanAmAvalI.itx"
-itxtitle = "kalyANarAmanAmAvalI"
-engtitle = "kalyANarAmanAmAvalI"
-Category = "raama, nAmAvalI"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gowri Sanker Rupakula gowrishankerr at gmail.com"
-"Proofread by" = "Gowri Sanker Rupakula, Lalitha Parameswari parameswari.lalitha at gmail.com"
-"Description/comments" = "From Telugu book Shri Rama Navaratrotsava Kalpa"
-Source = "(Scan Telugu)"
-"Latest update" = "January 4, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कल्याणरामनामावली"
+---
+Category: raama, nAmAvalI
+Description/comments: From Telugu book Shri Rama Navaratrotsava Kalpa
+File name: kalyANarAmanAmAvalI.itx
+Language: Sanskrit
+Latest update: January 4, 2019
+Location: doc_raama
+Proofread by: Gowri Sanker Rupakula, Lalitha Parameswari parameswari.lalitha at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: (Scan Telugu)
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: kalyANarAmanAmAvalI
+Transliterated by: Gowri Sanker Rupakula gowrishankerr at gmail.com
+engtitle: kalyANarAmanAmAvalI
+itxtitle: kalyANarAmanAmAvalI
+title: कल्याणरामनामावली
 
-+++
+---
   
  कल्याणरामनामावलिः   
 ॐ कल्याणोत्सवानन्दाय नमः ।  

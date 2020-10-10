@@ -1,26 +1,26 @@
-+++
-"Text title" = "shrii shaaradaa bhujaNgam"
-"File name" = "shAradAbhujangamchandra.itx"
-itxtitle = "shAradAbhujaNgam"
-engtitle = "shAradAbhujangam by Chandrashekhara Bharathi"
-Category = "devii, sarasvatI, bhujanga, chandrashekharabhAratI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Subcategory = "bhujanga"
-Author = "Shri Chandrashekhara Bharathi Swami of Shringeri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanain bbalu at sify.com"
-"Proofread by" = "N.Balasubramanain bbalu at sify.com"
-"Translated by" = "N.Balasubramanain bbalu at sify.com"
-Indexextra = "(Chandrashekhara Bharati)"
-"Latest update" = "March 9, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदाभुजण्गम्"
+---
+Author: Shri Chandrashekhara Bharathi Swami of Shringeri
+Category: devii, sarasvatI, bhujanga, chandrashekharabhAratI, devI
+File name: shAradAbhujangamchandra.itx
+Indexextra: (Chandrashekhara Bharati)
+Language: Sanskrit
+Latest update: March 9, 2007
+Location: doc_devii
+Proofread by: N.Balasubramanain bbalu at sify.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subcategory: bhujanga
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrii shaaradaa bhujaNgam
+Translated by: N.Balasubramanain bbalu at sify.com
+Transliterated by: N.Balasubramanain bbalu at sify.com
+engtitle: shAradAbhujangam by Chandrashekhara Bharathi
+itxtitle: shAradAbhujaNgam
+title: शारदाभुजण्गम्
 
-+++
+---
   
  श्रीशारदाभुजङ्गम्   
   
@@ -61,7 +61,7 @@ Mookapanchasati (500 verses in praise of KamakShi) in the Arya Shatakam
 (40).  
   
 वदनारविन्द-वक्षो-वामाङ्कतटी-वशंवदीभूता ।  
-पुरुषत्रितये त्रेधा पुरंध्रिरूपा त्वमेव कामाक्षि ॥   
+पुरुषत्रितये त्रेधा पुरन्ध्रिरूपा त्वमेव कामाक्षि ॥   
   
  This verse  
 states that KamakShi alone is there as the wife of Brahma resident  
@@ -73,7 +73,7 @@ as the wife of Brahma, and also has the names Katyayani, Kali,
 Kamakoti Kala, Bharati, Bhairavi, Bhadhra, Shakini, Shambhavi, Shiva.  
   
 विद्ये विधातृविषये कात्यायिनि कालि कामकोटि कले ।  
- भारति भैरवि भद्रे शाकिनि शांभवि शिवे स्तुवे भवतीम् ॥   
+ भारति भैरवि भद्रे शाकिनि शाम्भवि शिवे स्तुवे भवतीम् ॥   
   
 Lord Krishna says that He (the Supreme Being) alone appears as all  
 deities. Any worship offered to any form and name goes to Him alone  
@@ -116,7 +116,7 @@ resplendent and radiates kindness should be present in his mind.
   
  पुरानेक-जन्मार्जितागण्यपुण्यैः  
      यदाप्तं मया शारदाभिख्यभाग्यम् ।  
-दयार्द्रं गुरूत्तंससंकॢप्तचक्र-  
+दयार्द्रं गुरूत्तंससङ्कॢप्तचक्र-  
      स्थितं तत्सदा मन्मन्स्याविरस्तु ॥ १॥  
   
  Meaning:- May the great fortune that shines by the name Sharada,  
@@ -144,7 +144,7 @@ the antaryami or the godhead available as the divinity within us.
 and turn it to the God residing in our hearts. Yama, the Lord of  
 death says this.  
   
-पराञ्चि खानि व्यतृणत् स्वयंभूः  
+पराञ्चि खानि व्यतृणत् स्वयम्भूः  
    तस्मात् पराङ्पश्यति नान्तरात्मन् ।  
 कश्चिद्धीरः प्रत्यगात्मानमैक्षत्  
    आवृत्तचक्षुरमृतत्वमिच्छन् ॥  KU (2-1-1).  
@@ -284,7 +284,7 @@ education and practices. He is showing us the way to pray.
   
  न मन्त्रं न यन्त्रं न वा स्तोत्ररीतिं  
      विजानेऽम्ब वक्तुं च मद्दुःखरीतिम् ।  
-त्वदंग्रिप्रणम्रो न पात्रं शुचः स्या-  
+त्वदङ्ग्रिप्रणम्रो न पात्रं शुचः स्या-  
      दिति त्वां प्रपद्ये तवैव प्रसादात् ॥ २॥  
   
  Meaning:-I do not know mantam or yantram or how to say something  
@@ -292,8 +292,8 @@ in  praise of You. I do not know how to express my grief also. As
 someone who has prostrated at Your feet will not be affected by sorrow  
 any more, I am surrendering to You by Your grace only.  
  Note:-  
-Mantram मंत्रम्  is a formula or prayer sacred to a deity:    
-(e.g.) Om namah Shivaya ॐ नमः शिवाय । Yantram यंत्रम्  
+Mantram मन्त्रम्  is a formula or prayer sacred to a deity:    
+(e.g.) Om namah Shivaya ॐ नमः शिवाय । Yantram यन्त्रम्  
 is an amulet, a mystical diagram used as an amulet. One can get Her  
 grace by worshipping Her by mantras or yantras or by chanting hymns  
 that state Her glories. Or else one should be able to express one's  
@@ -329,7 +329,7 @@ mind cleansed of the impurities will be able to receive God's grace.
  भवाम्भोदि-मग्नं भवाद्यैः सुदूरं  
      विसृष्टं महापाप-गेहायमानम् ।  
 विवेकादि-हीनं दयानीरधे ते  
-     ममात्मान-मम्बांघ्रियुग्मेऽर्पयामि ॥ ३॥  
+     ममात्मान-मम्बाङ्घ्रियुग्मेऽर्पयामि ॥ ३॥  
   
  Meaning:- I am fallen in the ocean of samsara (cyclic existence). I  
 am distanced by Siva and others.  I am verily the repository of great  
@@ -427,11 +427,11 @@ or does not have a calm mind or if his senses are not under control.
   
  The scriptures state that the qualities said by Yama are got  
 by acquiring the four basic qualifications known as साधन  
-चतुष्टय संपत्तिः ।. These are to be acquired by one who  
+चतुष्टय सम्पत्तिः ।. These are to be acquired by one who  
 wants to take to the spiritual path. They are described in detail  
 in texts like Viveka Chudamani. The text Tattvabodha defines them  
 as follows.  साधनचतुष्टयं किम्? नित्यानित्यवस्तुविवेकः ।  
-इहामुत्रार्थफलभोगविरागः ।शमादिषट्कसंपत्तिः । मुमुक्षुत्वं  
+इहामुत्रार्थफलभोगविरागः ।शमादिषट्कसम्पत्तिः । मुमुक्षुत्वं  
 चेति । The capacity to discriminate between the permanent and  
 the impermanent, dispassion to the enjoyment of the fruits of one's  
 actions here in this world and hereafter (in the higher worlds like  
@@ -504,7 +504,7 @@ the life. So the wise one should not waste time but use his body and
 try for liberation in this life itself. Krishna gives this advice to  
 His friend Uddhava.  
   
-लब्ध्वा सुदुर्लभमिदं बहुसंभवान्ते  
+लब्ध्वा सुदुर्लभमिदं बहुसम्भवान्ते  
      मानुष्यमर्थदमनित्यमपीह धीरः  
 तूर्णं यतेत न पतेदनुमृत्यु याव-  
      न्निःश्रेयसाय विषयः खलु सर्वतः स्यात् ॥  BH(11-9-29).  
@@ -536,8 +536,8 @@ Bhaja Govindam (7) of Shri Shankaracharya.
 play. The youth is lost in his sweetheart's charms. The old man broods  
 over his anxieties. Thus, there is none who thinks of the Lord.  
   
-मया बालभाव-स्थितेनांबिके त्वत्-  
-     पदांभोजयुग्मं स्मृतं नैव जातु ।  
+मया बालभाव-स्थितेनाम्बिके त्वत्-  
+     पदाम्भोजयुग्मं स्मृतं नैव जातु ।  
 क्षमस्वापराधं दया-वारिराशे  
      त्वदन्यच्छरण्यं न मे शारदेऽस्ति ॥ ६॥  
   
@@ -556,7 +556,7 @@ begs the Lord to pardon his mistake. SX(2).
 बाल्ये दुःखातिरेकात् मल-लुलित-वपुः स्तन्यपाने पिपासुः  
    नो शक्तश्चेन्द्रियेभ्यो भव! मल-जनिता जन्तवो मां तुदन्ति ।  
 नाना-रोगातिदुःखात् रुदित-परवशः शङ्करं न स्मरामि  
-   क्षन्तव्यो मेऽपराधः शिव शिव शिव भोः श्रीमहादेव शंभो! ॥   
+   क्षन्तव्यो मेऽपराधः शिव शिव शिव भोः श्रीमहादेव शम्भो! ॥   
   
  Note:- Next, the poet talks about his youthhood.  
   
@@ -580,7 +580,7 @@ So, he begs the Lord to pardon his mistake. SX (3).
  प्रौढोऽहं यौवनस्थो विषय-विषधरं पञ्चभिर्मर्म-सन्धौ  
      दष्टो नष्टो विवेकः सुत-धन-युवति-स्वाद-सौख्ये निषण्णः ।  
 शैवे चिन्ता-विहीनं मम हृदयं अहो मान-गर्वाधिरूढं  
-     क्षन्तव्यो मेऽपराधः शिव शिव शिव भोः श्रीमहादेव शंभो! ॥   
+     क्षन्तव्यो मेऽपराधः शिव शिव शिव भोः श्रीमहादेव शम्भो! ॥   
   
  The poet says that ᳚a mother will not ignore a child᳚ -  न पुत्रे  
 मनागप्युपेक्षा जनन्याः । and overlook the mistakes committed. The  
@@ -598,7 +598,7 @@ to pardon them saying there may be a vile son, but never a bad mother.
  Now, the poet explains as to why he could not even think of Devi  
 in his old age.  
   
-जरारोग-संपीडिताङ्गो जरायां  
+जरारोग-सम्पीडिताङ्गो जरायां  
    कथं वा स्मरेयं पदं शारदाम्ब् ।  
 क्षमस्वापराधं समस्तं मदीयं  
    क्षमाधूत-सर्वं सहाखर्व-गर्वे ॥ ८॥  
@@ -613,7 +613,7 @@ who excel the mother earth in forbearance should overlook my failings.
 वार्दक्ये चेन्द्रियाणां विकल-गतिमतश्चाधिदैवादि-तापैः  
    प्राप्तै रोगैर्वियोगै-व्यसन-कृशतनोर्ज्ञप्ति-हीनं च दीनम् ।  
 मिथ्या-मोहाभिलाषै-र्भवति मम मनो धूर्जटैर्ज्ञान-शून्यं  
-   क्षन्तव्यो मेऽपराधः शिव शिव शिव भोः श्रीमहादेव शंभो! ॥   
+   क्षन्तव्यो मेऽपराधः शिव शिव शिव भोः श्रीमहादेव शम्भो! ॥   
   
  Note:-One can understand that in the three stages mentioned above  
 one may not be able to exercise control over himself: in his childhood  
@@ -739,7 +739,7 @@ to gain the wisdom. The Lord had said that He will, out of compassion,
 remove the ignorance of His devotees and by granting them the supreme  
 wisdom. BG(10-11).  
   
-तेषामेवानुकंपार्थमहमज्ञानजं तमः ।  
+तेषामेवानुकम्पार्थमहमज्ञानजं तमः ।  
 नाशयाम्यात्मभावस्थो ज्ञान-दीपेन भास्वता ॥   
   
  May be the ignorance is not removed in this birth as the poet has  
@@ -815,7 +815,7 @@ mind. They could only be inferred from the results like the impressions
 of the previous births.  
   
 तस्य संवृतमन्त्रस्य गूढाकारेङ्गितस्य च ।  
-फलानुमेयाः प्रारंभाः संस्काराः प्राक्तना इव ॥   
+फलानुमेयाः प्रारम्भाः संस्काराः प्राक्तना इव ॥   
   
  The past deeds leave their impressions on the mind of the individual. They  
 continue to exert their influence in the current life also by making  
@@ -847,9 +847,9 @@ the poet describes in the next four verses, the remarkable changes
 that devotion to Her brings about in a person and also the benefits  
 of devotion.  
   
- शरीरे स्वके-ऽहंत्वमस्तं प्रयाया-@@  
+ शरीरे स्वके-ऽहन्त्वमस्तं प्रयाया-@@  
      दिति त्वां प्रपन्नाः जनाः शारदाम्ब ।  
-समस्तेषु वस्तुष्वहंतां भजन्ते  
+समस्तेषु वस्तुष्वहन्तां भजन्ते  
      किमेतद्विचित्रं चिदानन्द-रूपे ॥ १५॥  
   
  Meaning:- Those who worship You with the desire to give up the  
@@ -881,7 +881,7 @@ will see no differences between seemingly opposites like friend and
 foe, or home and forest and so on.  
   
 शिव शिव पश्यन्ति समं श्रीकामाक्षीकटाक्षिताः पुरुषाः ।  
- विपिनं भवनममित्रं मित्रं लोष्ठं च युवतिबिंबोष्ठम् ॥   
+ विपिनं भवनममित्रं मित्रं लोष्ठं च युवतिबिम्बोष्ठम् ॥   
   
  (Arya shatakam -48).\@@ The  
 reason is that Devi's grace will make them see every thing as one's own  
@@ -972,9 +972,9 @@ like a ball of fire. A devotee is drawn close to Her and imbibes Her
 qualities and gets a beautiful form.  Next, the poet describes in  
 the next four verses the state of mind of those who worship Devi.  
   
- कदा वा सुधाकुंभ-पुस्ताक्षमाला-@@  
+ कदा वा सुधाकुम्भ-पुस्ताक्षमाला-@@  
       विबोधाख्यमुद्राः कराब्जै-र्दधानाम् ।  
-मुखश्री-पराभूत-पूर्णेन्दु-बिंबां  
+मुखश्री-पराभूत-पूर्णेन्दु-बिम्बां  
      सदा त्वां स्मरन्वीत-शोको भवेयम् ॥ १९॥  
   
  Meaning:- When will I be able to think of You, bearing in Your four  
@@ -1011,7 +1011,7 @@ keep loudly repeating the Lord Siva's names and pray for His mercy.
   
 कदा वारणस्याममरतटिनीरोधसि वस-  
    न्वसानः कौपीनं शिरसि निदधानोऽन्ञ्जलिपुटम् ।  
-अये गौरीनाथ त्रिपुरहर शंभो त्रिनयन  
+अये गौरीनाथ त्रिपुरहर शम्भो त्रिनयन  
    प्रसीदेति क्रोशन्निमिषमिव नेष्यामि दिवसान् ॥   Vairagayashatakam (87).  
   
  Next, the poet talks about the fruit of meditating on the glorious  
@@ -1043,7 +1043,7 @@ On whatever object a person concentrates his mind intensely, either
 through love or hate or fear, he attains the form of that very object.  
   
 कीटः पेशस्कृतं ध्यायन्कुड्यां तेन प्रवेशितः ।  
- याति तत्सात्मतां राजन् पूर्वरूपमस्ंत्यजन् ॥   
+ याति तत्सात्मतां राजन् पूर्वरूपमस्न्त्यजन् ॥   
   
  The worm cofined to  
 its nest by the wasp keeps thinking of it till it attains a form  

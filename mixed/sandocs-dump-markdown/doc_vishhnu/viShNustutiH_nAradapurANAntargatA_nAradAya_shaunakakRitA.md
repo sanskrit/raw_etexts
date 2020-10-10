@@ -1,22 +1,22 @@
-+++
-"Text title" = "viShNustuti by nArada and shaunaka from nAradapurANa"
-"File name" = "viShNustutinAradakRitanAradapurANa.itx"
-itxtitle = "viShNustutiH (nAradapurANAntargatA nAradAya shaunakakRitA)"
-engtitle = "viShNustuti by nArada and shaunaka from nAradapurANa"
-Category = "vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Source = "Naradapurana Purvabhag Adhyaya 2"
-Indexextra = "(Purana text 1, 2)"
-"Latest update" = "January 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तुतिः (नारदपुराणान्तर्गता नारदाय शौनककृइता)"
+---
+Category: vishhnu, vishnu
+File name: viShNustutinAradakRitanAradapurANa.itx
+Indexextra: (Purana text 1, 2)
+Language: Sanskrit
+Latest update: January 4, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Naradapurana Purvabhag Adhyaya 2
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNustuti by nArada and shaunaka from nAradapurANa
+engtitle: viShNustuti by nArada and shaunaka from nAradapurANa
+itxtitle: viShNustutiH (nAradapurANAntargatA nAradAya shaunakakRitA)
+title: विष्णुस्तुतिः (नारदपुराणान्तर्गता नारदाय शौनककृइता)
 
-+++
+---
   
  नारदाय शौनककृतविष्णुस्तुतिः   
 ऋषय ऊचुः ॥  
@@ -93,7 +93,7 @@ title = "विष्णुस्तुतिः (नारदपुराणा
 नमः पराय देवाय परस्मात्परमाय च ।  
 परावरनिवासाय सगुणायागुणाय च ॥ २१॥  
   
-अमायायाऽऽत्मसंज्ञाय मायिने विश्वरूपिणे ।  
+अमायायाऽऽत्मसञ्ज्ञाय मायिने विश्वरूपिणे ।  
 योगीश्वराय योगाय योगगम्याय विष्णवे ॥ २२॥  
   
 ज्ञानाय ज्ञानगम्याय सर्वज्ञानैकहेतवे ।  
@@ -120,7 +120,7 @@ title = "विष्णुस्तुतिः (नारदपुराणा
 लेभेऽवतीर्योग्रनृसिंहरूपी यो दैत्यवक्षः कठिनं शिलावत् ।  
 विदार्य संरक्षितवान्स्वभक्तं प्रह्लादमीशं तमजं नमामि ॥ ३०॥  
   
-व्योमादिभिर्मूषितमात्मसंज्ञं निरञ्जनं नित्यममेयतत्त्वम् ।  
+व्योमादिभिर्मूषितमात्मसञ्ज्ञं निरञ्जनं नित्यममेयतत्त्वम् ।  
 जगद्विधातारमकर्मकं च परं पुराणं पुरुषं नतोऽस्मि ॥ ३१॥  
   
 ब्रह्मेन्द्ररुद्रानिलवायुमर्त्यगन्धर्वयक्षासुरदेवसङ्घैः ।  
@@ -135,7 +135,7 @@ title = "विष्णुस्तुतिः (नारदपुराणा
 हृदि स्थितोऽपि यो देवो मायया मोहितात्मनाम् ।  
 न ज्ञायते परः शुद्धस्तमस्मि शरणं गतः ॥ ३५॥  
   
-सर्वसंगनिवृत्तानां ध्यानयोगरतात्मनाम् ।  
+सर्वसङ्गनिवृत्तानां ध्यानयोगरतात्मनाम् ।  
 सर्वत्र भाति ज्ञानात्मा तमस्मि शरणं गतः ॥ ३६॥  
   
 दधार मन्दरं पृष्ठे नीरोदेऽमृतमन्थने ।  

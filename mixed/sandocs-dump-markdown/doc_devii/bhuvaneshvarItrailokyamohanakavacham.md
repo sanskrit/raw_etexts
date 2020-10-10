@@ -1,22 +1,22 @@
-+++
-"Text title" = "Bhuvaneshvari Trailokya Mohana Kavacham"
-"File name" = "bhuvaneshvarItrailokyamohanakavacham.itx"
-itxtitle = "bhuvaneshvarItrailokyamohanakavacham"
-engtitle = "bhuvaneshvarItrailokyamohanakavacham"
-Category = "devii, devI, dashamahAvidyA, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com, NA"
-Indexextra = "(Scan)"
-"Latest update" = "February 2, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वरीत्रैलोक्यमोहनकवचम्"
+---
+Category: devii, devI, dashamahAvidyA, kavacha
+File name: bhuvaneshvarItrailokyamohanakavacham.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 2, 2019
+Location: doc_devii
+Proofread by: Ganesh Kandu kanduganesh at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Bhuvaneshvari Trailokya Mohana Kavacham
+engtitle: bhuvaneshvarItrailokyamohanakavacham
+itxtitle: bhuvaneshvarItrailokyamohanakavacham
+title: भुवनेश्वरीत्रैलोक्यमोहनकवचम्
 
-+++
+---
   
  श्रीभुवनेश्वरी त्रैलोक्यमोहनकवचम्   
 श्रीदेव्युवाच-  

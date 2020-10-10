@@ -1,21 +1,21 @@
-+++
-"Text title" = "kArtavIryakavacham from nAradapurANa"
-"File name" = "kArtavIryakavachamnAradapurANa.itx"
-itxtitle = "kArtavIryakavacham (nAradapurANAntargatam)"
-engtitle = "kArtavIryakavacham from nAradapurANa"
-Category = "deities_misc, kavacha"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Source = "Naradapurana Purvabhag Adhyaya 77"
-Indexextra = "(Purana)"
-"Latest update" = "June 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कार्तवीर्यकवचम् (नारदपुराणान्तर्गतम्)"
+---
+Category: deities_misc, kavacha
+File name: kArtavIryakavachamnAradapurANa.itx
+Indexextra: (Purana)
+Language: Sanskrit
+Latest update: June 5, 2016
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Naradapurana Purvabhag Adhyaya 77
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: kArtavIryakavacham from nAradapurANa
+engtitle: kArtavIryakavacham from nAradapurANa
+itxtitle: kArtavIryakavacham (nAradapurANAntargatam)
+title: कार्तवीर्यकवचम् (नारदपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीकार्तवीर्यकवचम्   
 नारद उवाच ।  
@@ -131,7 +131,7 @@ title = "कार्तवीर्यकवचम् (नारदपुरा
 कुक्षिं रक्षतु मे विद्वान् वक्षः परपुरञ्जयः ।  
 करौ सर्वार्थदः पातु कराग्राणि जगत्प्रियः ॥ ३७॥  
   
-रेवाम्बुलीलासंदृप्तो जठरं परिरक्षतु ।  
+रेवाम्बुलीलासन्दृप्तो जठरं परिरक्षतु ।  
 वीरशूरस्तु मे नाभिं पार्श्वौ मे सर्वदुष्टहा ॥ ३८॥  
   
 सहस्रभुजभृत्पृष्टं सप्तद्वीपाधिपः कटिम् ।  
@@ -253,7 +253,7 @@ title = "कार्तवीर्यकवचम् (नारदपुरा
 सहस्रधा प्रणश्यन्तु भग्नसत्त्वबलोद्यमाः ।  
 ये सर्पा ये महानागा महागिरिबिलेशयाः ॥ ७८॥  
   
-कालव्याला महादंष्ट्रा महाजगरसंज्ञकाः ।  
+कालव्याला महादंष्ट्रा महाजगरसञ्ज्ञकाः ।  
 अनन्तशूलिकाद्याश्च दंष्ट्राविषमहाभयाः ॥ ७९॥  
   
 अनेकशतशीर्षाश्च खण्डपुच्छाश्च दारुणाः ।  
@@ -266,7 +266,7 @@ title = "कार्तवीर्यकवचम् (नारदपुरा
 जलजाः स्थलजाश्चैव कृत्रिमाश्च महाविषाः ॥ ८२॥  
   
 गुप्तरूपा गुप्तविषा मूषिका गृहगोधिकाः ।  
-नानाविषाश्च ये घोरा महोपविषसंज्ञकाः ॥ ८३॥  
+नानाविषाश्च ये घोरा महोपविषसञ्ज्ञकाः ॥ ८३॥  
   
 येऽस्मान्बाधितुमिच्छन्ति शरीरप्राणनाशकाः ।  
 ते सर्वे कार्तवीर्यस्य खड्गसाहस्रदारिताः ॥ ८४॥  

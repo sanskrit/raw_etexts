@@ -1,22 +1,22 @@
-+++
-"Text title" = "sUryAShTakam"
-"File name" = "sUryAShTakam.itx"
-itxtitle = "sUryAShTakam"
-engtitle = "sUryAShTakam"
-Category = "aShTaka, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(Translations 1, 2, 3)"
-"Latest update" = "November 25, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्याष्टकम्"
+---
+Category: aShTaka, navagraha
+File name: sUryAShTakam.itx
+Indexextra: (Translations 1, 2, 3)
+Language: Sanskrit
+Latest update: November 25, 2006
+Location: doc_z_misc_navagraha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: navagraha
+Text title: sUryAShTakam
+Transliterated by: NA
+engtitle: sUryAShTakam
+itxtitle: sUryAShTakam
+title: सूर्याष्टकम्
 
-+++
+---
   
  सूर्याष्टकम्   
 ॥ श्री गणेशाय नमः ॥  

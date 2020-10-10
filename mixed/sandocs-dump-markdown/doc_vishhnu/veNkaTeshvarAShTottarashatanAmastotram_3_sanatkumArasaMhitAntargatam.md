@@ -1,23 +1,23 @@
-+++
-"Text title" = "veNkaTeshvarAShTottarashatanAmastotram"
-"File name" = "venkatesha3.itx"
-itxtitle = "veNkaTeshvarAShTottarashatanAmastotram 3 (sanatkumArasaMhitAntargatam)"
-engtitle = "veNkaTeshvarAShTottarashatanAmastotram 3"
-Category = "vishhnu, venkateshwara, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-Description-comments = "Vishnustutimanjari 1"
-"Latest update" = "May 3, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेश्वराष्टोत्तरशतनामस्तोत्रम् ३ (सनत्कुमारसंहितान्तर्गतम्)"
+---
+Category: vishhnu, venkateshwara, vishnu
+Description-comments: Vishnustutimanjari 1
+File name: venkatesha3.itx
+Language: Sanskrit
+Latest update: May 3, 2008
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veNkaTeshvarAShTottarashatanAmastotram
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: veNkaTeshvarAShTottarashatanAmastotram 3
+itxtitle: veNkaTeshvarAShTottarashatanAmastotram 3 (sanatkumArasaMhitAntargatam)
+title: वेण्कटेश्वराष्टोत्तरशतनामस्तोत्रम् ३ (सनत्कुमारसंहितान्तर्गतम्)
 
-+++
+---
   
  श्रीवेङ्कटेश्वराष्टोत्तरशतनामस्तोत्रम् ३   
   

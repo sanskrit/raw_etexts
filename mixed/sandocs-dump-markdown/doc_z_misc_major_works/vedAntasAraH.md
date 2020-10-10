@@ -1,25 +1,26 @@
-+++
-"Text title" = "Vedantasara"
-"File name" = "vedantasara.itx"
-itxtitle = "vedAntasAraH"
-engtitle = "VedantasaraH"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sadananda Yogindra (circa 15th cent.)"
-Language = "Sanskrit"
-Subject = "hinduism/philosophy"
-"Transliterated by" = "Sunder Hattangadi, sunderh at hotmail.com"
-"Proofread by" = "sunder Hattangadi sunderh at hotmail.com, Pranipata Chaitanya pranipatachaitanya at yahoo.co.in"
-"Translated by" = "-"
-Description-comments = "Basics of Vedanta Philosophy"
-"Latest update" = "May 11, 2003, September 30, 2012, February 7, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदान्तसारः"
+---
+Author: Sadananda Yogindra (circa 15th cent.)
+Category: major_works
+Description-comments: Basics of Vedanta Philosophy
+File name: vedantasara.itx
+Language: Sanskrit
+Latest update: May 11, 2003, September 30, 2012, February 7, 2013
+Location: doc_z_misc_major_works
+Proofread by: sunder Hattangadi sunderh at hotmail.com, Pranipata Chaitanya pranipatachaitanya
+  at yahoo.co.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/philosophy
+Sublocation: major_works
+Text title: Vedantasara
+Texttype: pramukha
+Translated by: '-'
+Transliterated by: Sunder Hattangadi, sunderh at hotmail.com
+engtitle: VedantasaraH
+itxtitle: vedAntasAraH
+title: वेदान्तसारः
 
-+++
+---
   
  वेदान्तसार   
   

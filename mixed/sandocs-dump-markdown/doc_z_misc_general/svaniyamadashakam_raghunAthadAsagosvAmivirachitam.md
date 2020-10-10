@@ -1,24 +1,25 @@
-+++
-"Text title" = "svaniyamadashakam"
-"File name" = "svaniyamadashakam.itx"
-itxtitle = "svaniyamadashakam (raghunAthadAsagosvAmivirachitam)"
-engtitle = "svaniyamadashakam"
-Category = "misc, raghunAthadAsagosvAmin, stavAvalI, advice, dashaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वनियमदशकम् (रघुनाथदासगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: misc, raghunAthadAsagosvAmin, stavAvalI, advice, dashaka
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: svaniyamadashakam.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_z_misc_general
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: svaniyamadashakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: svaniyamadashakam
+itxtitle: svaniyamadashakam (raghunAthadAsagosvAmivirachitam)
+title: स्वनियमदशकम् (रघुनाथदासगोस्वामिविरचितम्)
 
-+++
+---
   
  स्वनियमदशकम्   
 गुरौ मन्त्रे नाम्नि प्रभुवरशचीगर्भजपदे  

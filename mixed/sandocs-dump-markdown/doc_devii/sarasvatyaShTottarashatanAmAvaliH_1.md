@@ -1,23 +1,23 @@
-+++
-"Text title" = "sarasvati aShTottarashata nAmAvaliH 1"
-"File name" = "sarasvatii108-5.itx"
-itxtitle = "sarasvatyaShTottarashatanAmAvaliH 1"
-engtitle = "sarasvatI aShTottaranAmAvali 1"
-Category = "aShTottarashatanAmAvalI, devii, sarasvatI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Varun Mandawara vmandawara at yahoo.com"
-"Latest update" = "May 10, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वत्यष्टोत्तरशतनामावलिः १"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, devii, sarasvatI, nAmAvalI, devI
+File name: sarasvatii108-5.itx
+Language: Sanskrit
+Latest update: May 10, 2009
+Location: doc_devii
+Proofread by: Varun Mandawara vmandawara at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvati aShTottarashata nAmAvaliH 1
+Texttype: nAmAvalI
+engtitle: sarasvatI aShTottaranAmAvali 1
+itxtitle: sarasvatyaShTottarashatanAmAvaliH 1
+title: सरस्वत्यष्टोत्तरशतनामावलिः १
 
-+++
+---
   
  श्रीसरस्वती अष्टोत्तरनामावली   
 ॐ सरस्वत्यै नमः ।  

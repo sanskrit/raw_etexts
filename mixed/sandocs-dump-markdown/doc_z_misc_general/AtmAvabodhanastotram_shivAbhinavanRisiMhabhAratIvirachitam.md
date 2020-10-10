@@ -1,22 +1,22 @@
-+++
-"Text title" = "AtmAvabodhanastotram"
-"File name" = "AtmAvabodhanastotram.itx"
-itxtitle = "AtmAvabodhanastotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "AtmAvabodhanastotram"
-Category = "misc, vedanta, advice, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आत्मावबोधनस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: misc, vedanta, advice, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: AtmAvabodhanastotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: AtmAvabodhanastotram
+engtitle: AtmAvabodhanastotram
+itxtitle: AtmAvabodhanastotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: आत्मावबोधनस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  आत्मावबोधनस्तोत्रम्   
 जाग्रत्स्वप्नसुषुप्तिषु शैशवकौमारवार्धकेष्वपि च ।  

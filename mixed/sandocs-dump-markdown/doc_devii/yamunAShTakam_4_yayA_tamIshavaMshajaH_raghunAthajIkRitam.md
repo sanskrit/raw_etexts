@@ -1,24 +1,24 @@
-+++
-"Text title" = "yamunAShTakam 4"
-"File name" = "yamunAShTakam1.itx"
-itxtitle = "yamunAShTakam 4 (yayA tamIshavaMshajaH raghunAthajIkRitam)"
-engtitle = "yamunAShTakam 4"
-Category = "devii, nadI, puShTimArgIya, aShTaka, raghunAthajI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "raghunAthajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनाष्टकम् ४ (यया तमीशवंशजः रघुनाथजीकृइतम्)"
+---
+Author: raghunAthajI
+Category: devii, nadI, puShTimArgIya, aShTaka, raghunAthajI, devI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: yamunAShTakam1.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunAShTakam 4
+engtitle: yamunAShTakam 4
+itxtitle: yamunAShTakam 4 (yayA tamIshavaMshajaH raghunAthajIkRitam)
+title: यमुनाष्टकम् ४ (यया तमीशवंशजः रघुनाथजीकृइतम्)
 
-+++
+---
   
  श्रीयमुनाष्टकम् ४   
 यया तमीशवंशजः समापितो बृहद्धनं  

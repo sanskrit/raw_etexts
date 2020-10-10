@@ -1,26 +1,26 @@
-+++
-"Text title" = "viShNusahasranaama stotra from Mahabharat"
-"File name" = "vsahasranew.itx"
-itxtitle = "viShNusahasranAmastotram (mahAbhAratAntargatam)"
-engtitle = "viShNusahasranAmastotram"
-Category = "sahasranAma, vishhnu, stotra, vyAsa, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Author = "Maharshi Vyasa"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, Kirk Wortman kirkwort at hotmail.com"
-Description-comments = "mahAbhArate anushAsanaparvaM"
-Indexextra = "(Meaning 1, 2, 3, Marathi, Namollasa)"
-"Latest update" = "March 17, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुसहस्रनामस्तोत्रम् (महाभारतान्तर्गतम्)"
+---
+Author: Maharshi Vyasa
+Category: sahasranAma, vishhnu, stotra, vyAsa, vishnu
+Description-comments: mahAbhArate anushAsanaparvaM
+File name: vsahasranew.itx
+Indexextra: (Meaning 1, 2, 3, Marathi, Namollasa)
+Language: Sanskrit
+Latest update: March 17, 2020
+Location: doc_vishhnu
+Proofread by: NA, Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: viShNusahasranaama stotra from Mahabharat
+Texttype: stotra
+Transliterated by: NA
+engtitle: viShNusahasranAmastotram
+itxtitle: viShNusahasranAmastotram (mahAbhAratAntargatam)
+title: विष्णुसहस्रनामस्तोत्रम् (महाभारतान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णुसहस्रनामस्तोत्रम्   
   
@@ -180,7 +180,7 @@ title = "विष्णुसहस्रनामस्तोत्रम् (
 नमामि विष्णुं शिरसा चतुर्भुजम् ॥ ६॥  
   
 छायायां पारिजातस्य हेमसिंहासनोपरि  
-आसीनमम्बुदश्याममायताक्षमलंकृतम् ।  
+आसीनमम्बुदश्याममायताक्षमलङ्कृतम् ।  
 चन्द्राननं चतुर्बाहुं श्रीवत्साङ्कित वक्षसं  
 रुक्मिणी सत्यभामाभ्यां सहितं कृष्णमाश्रये ॥ ७॥  
   
@@ -291,7 +291,7 @@ title = "विष्णुसहस्रनामस्तोत्रम् (
 क्रोधहा क्रोधकृत्कर्ता विश्वबाहुर्महीधरः ॥ ३४॥  
   
 अच्युतः प्रथितः प्राणः प्राणदो वासवानुजः ।  
-अपांनिधिरधिष्ठानमप्रमत्तः प्रतिष्ठितः ॥ ३५॥  
+अपान्निधिरधिष्ठानमप्रमत्तः प्रतिष्ठितः ॥ ३५॥  
   
 स्कन्दः स्कन्दधरो धुर्यो वरदो वायुवाहनः ।  
 वासुदेवो बृहद्भानुरादिदेवः पुरन्दरः ॥ ३६॥  
@@ -371,7 +371,7 @@ title = "विष्णुसहस्रनामस्तोत्रम् (
 सुधन्वा खण्डपरशुर्दारुणो द्रविणप्रदः ।  
 दिवस्पृक् सर्वदृग्व्यासो वाचस्पतिरयोनिजः ॥ ६१॥  var  दिविस्पृक्  
 त्रिसामा सामगः साम निर्वाणं भेषजं भिषक् ।  
-संन्यासकृच्छमः शान्तो निष्ठा शान्तिः परायणम् ॥ ६२॥  
+सन्न्यासकृच्छमः शान्तो निष्ठा शान्तिः परायणम् ॥ ६२॥  
   
 शुभाङ्गः शान्तिदः स्रष्टा कुमुदः कुवलेशयः ।  
 गोहितो गोपतिर्गोप्ता वृषभाक्षो वृषप्रियः ॥ ६३॥  

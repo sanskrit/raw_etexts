@@ -1,21 +1,21 @@
-+++
-"Text title" = "viShNupanjarastotram from Garudapurana"
-"File name" = "viShNupanjaragaruDapurANa.itx"
-itxtitle = "viShNupanjarastotram (garuDapurANAntargatam)"
-engtitle = "viShNupanjarastotram from Garudapurana"
-Category = "vishhnu, panjara, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Garudapurana 1.13.1-14"
-"Latest update" = "January 8, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुपञ्जरस्तोत्रम् (गरुडपुराणान्तर्गतम्)"
+---
+Category: vishhnu, panjara, vishnu
+Description-comments: Garudapurana 1.13.1-14
+File name: viShNupanjaragaruDapurANa.itx
+Language: Sanskrit
+Latest update: January 8, 2018
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNupanjarastotram from Garudapurana
+engtitle: viShNupanjarastotram from Garudapurana
+itxtitle: viShNupanjarastotram (garuDapurANAntargatam)
+title: विष्णुपञ्जरस्तोत्रम् (गरुडपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णुपञ्जरस्तोत्रम्   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Gayatri Rahasya Upanishad"
-"File name" = "gaayatriirahasyopanishhat.itx"
-itxtitle = "gAyatrIrahasyopaniShat"
-engtitle = "Gayatri-rahasya Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Rishi ??"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "from Adyar Library Unpublished Upanishads"
-"Latest update" = "Jan. 7, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीरहस्योपनिषत्"
+---
+Author: Vedic Rishi ??
+Category: upanishhat, upanishad
+Description-comments: from Adyar Library Unpublished Upanishads
+File name: gaayatriirahasyopanishhat.itx
+Language: Sanskrit
+Latest update: Jan. 7, 2010
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Gayatri Rahasya Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Gayatri-rahasya Upanishad
+itxtitle: gAyatrIrahasyopaniShat
+title: गायत्रीरहस्योपनिषत्
 
-+++
+---
   
  गायत्रीरहस्योपनिषत्   
   
@@ -25,12 +25,12 @@ title = "गायत्रीरहस्योपनिषत्"
   
 ॐ स्वस्ति सिद्धम् । ॐ नमो ब्रह्मणे ।  
 ॐ नमस्कृत्य याज्ञवल्क्य ऋषिः  
-स्वयंभुवं परिपृच्छति ।  
+स्वयम्भुवं परिपृच्छति ।  
 हे ब्रह्मन् गायत्र्या उत्पत्तिः श्रोतुमिच्छामि ।  
-अथातो वसिष्ठः स्वयंभुवं परिपृच्छति ।  
+अथातो वसिष्ठः स्वयम्भुवं परिपृच्छति ।  
 यो ब्रह्मा स ब्रह्मोवाच ।  
 ब्रह्मज्ञानोत्पत्तेः प्रकृतिं व्याख्यास्यामः ।  
-को नाम स्वयंभू पुरुष इति ।  
+को नाम स्वयम्भू पुरुष इति ।  
 तेनाङ्गुलीमथ्यमानात् सलिलमभवत् ।  
 सलिलात् फेनमभवत् । फेनाद्बुद्बुदमभवत् ।  
 बुद्बुदादण्डमभवत् । अण्डाद्ब्रह्माभवत् ।  
@@ -57,7 +57,7 @@ title = "गायत्रीरहस्योपनिषत्"
 प्रचोदयादिति प्रचोदित काम इमान् लोकान्  
 प्रत्याश्रयते यः परो धर्म इत्येषा गायत्री ।  
 सा च किं गोत्रा कत्यक्षरा कतिपादा । कति कुक्षयः ।  
-कानि शीर्षाणि । सांख्यायनगोत्रा स चतुर्विंशत्यक्षरा  
+कानि शीर्षाणि । साङ्ख्यायनगोत्रा स चतुर्विंशत्यक्षरा  
 गायत्री त्रिपादा चतुष्पादा । पुनस्तस्याश्चत्वारः पादाः  
 षट् कुक्षिकाः पञ्च शीर्षाणि भवन्ति ।  
 के च पादाः काश्च कुक्षयः कानि शीर्षाणि ।  

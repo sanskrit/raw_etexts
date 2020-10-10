@@ -1,23 +1,23 @@
-+++
-"Text title" = "dvAdashajyotirlinga stotra"
-"File name" = "dvAdashaJyotistotra.itx"
-itxtitle = "dvAdashajyotirliNgastotram (shaNkarAchAryavirachitam)"
-engtitle = "dvAdasha jyotirlinga stotram"
-Category = "shiva, stotra, dvAdasha, shankarAchArya"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subramanian Ganesh sgesh at hotmail.com"
-"Proofread by" = "Subramanian Ganesh sgesh at hotmail.com"
-"Latest update" = "August 23, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "द्वादशज्योतिर्लिण्गस्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: shiva, stotra, dvAdasha, shankarAchArya
+File name: dvAdashaJyotistotra.itx
+Language: Sanskrit
+Latest update: August 23, 2000
+Location: doc_shiva
+Proofread by: Subramanian Ganesh sgesh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: dvAdashajyotirlinga stotra
+Texttype: stotra
+Transliterated by: Subramanian Ganesh sgesh at hotmail.com
+engtitle: dvAdasha jyotirlinga stotram
+itxtitle: dvAdashajyotirliNgastotram (shaNkarAchAryavirachitam)
+title: द्वादशज्योतिर्लिण्गस्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  द्वादशज्योतिर्लिङ्गस्तोत्रम्   
   
@@ -45,7 +45,7 @@ title = "द्वादशज्योतिर्लिण्गस्तो�
 सह्याद्रिशीर्षे विमले वसन्तं गोदावरितीरपवित्रदेशे ।  
 यद्धर्शनात्पातकमाशु नाशं प्रयाति तं त्र्यम्बकमीशमीडे ॥ ८॥  
   
-सुताम्रपर्णीजलराशियोगे निबध्य सेतुं विशिखैरसंख्यैः ।  
+सुताम्रपर्णीजलराशियोगे निबध्य सेतुं विशिखैरसङ्ख्यैः ।  
 श्रीरामचन्द्रेण समर्पितं तं रामेश्वराख्यं नियतं नमामि ॥ ९॥  
   
 यं डाकिनिशाकिनिकासमाजे निषेव्यमाणं पिशिताशनैश्च ।  

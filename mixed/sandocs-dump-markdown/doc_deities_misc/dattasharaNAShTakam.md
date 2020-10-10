@@ -1,24 +1,24 @@
-+++
-"Text title" = "dattasharaNAShTakam"
-"File name" = "dattasharaNAShTakam.itx"
-itxtitle = "dattasharaNAShTakam"
-engtitle = "dattasharaNAShTakam"
-Category = "deities_misc, dattatreya, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Dattatreya Stuti Manjari, Ed. S.V. Radhakrishnashastri"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "December 8, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तशरणाष्टकम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: deities_misc, dattatreya, aShTaka
+Description/comments: Dattatreya Stuti Manjari, Ed. S.V. Radhakrishnashastri
+File name: dattasharaNAShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 8, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattasharaNAShTakam
+engtitle: dattasharaNAShTakam
+itxtitle: dattasharaNAShTakam
+title: दत्तशरणाष्टकम्
 
-+++
+---
   
  श्रीदत्तशरणाष्टकम्   
 दत्तात्रेय भव शरणम् । दत्तनाथ भव शरणम् ।  

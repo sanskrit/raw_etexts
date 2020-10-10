@@ -1,22 +1,22 @@
-+++
-"Text title" = "ramApatyaShTakam"
-"File name" = "ramApatyaShTakam.itx"
-itxtitle = "ramApatyaShTakam"
-engtitle = "ramApatyashtakam"
-Category = "aShTaka, vishhnu, vishnu_misc, brahmAnanda, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Author = "Swami Barhmananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "June 13, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रमापत्यष्टकम्"
+---
+Author: Swami Barhmananda
+Category: aShTaka, vishhnu, vishnu_misc, brahmAnanda, vishnu
+File name: ramApatyaShTakam.itx
+Language: Sanskrit
+Latest update: June 13, 2013
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ramApatyaShTakam
+engtitle: ramApatyashtakam
+itxtitle: ramApatyaShTakam
+title: रमापत्यष्टकम्
 
-+++
+---
   
  रमापत्यष्टकम्   
   

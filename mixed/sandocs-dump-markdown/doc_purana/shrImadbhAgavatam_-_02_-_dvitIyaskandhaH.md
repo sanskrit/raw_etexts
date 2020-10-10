@@ -1,19 +1,19 @@
-+++
-"Text title" = "shrImadbhAgavatam - 02 - dvitIyaskandhaH"
-"File name" = "bhagpur-02.itx"
-itxtitle = "shrImadbhAgavatam - 02 - dvitIyaskandhaH"
-engtitle = "Shrimad Bhagavata Purana"
-Category = "purana, shrimadbhagavatam, vyAsa, krishna"
-Location = "doc_purana"
-Sublocation = "purana"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Latest update" = "October 5, 2018, July 16, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीमद्भागवतम् - ०२ - द्वितीयस्कन्धः"
+---
+Category: purana, shrimadbhagavatam, vyAsa, krishna
+File name: bhagpur-02.itx
+Language: Sanskrit
+Latest update: October 5, 2018, July 16, 2010
+Location: doc_purana
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: purana
+Text title: shrImadbhAgavatam - 02 - dvitIyaskandhaH
+engtitle: Shrimad Bhagavata Purana
+itxtitle: shrImadbhAgavatam - 02 - dvitIyaskandhaH
+title: श्रीमद्भागवतम् - ०२ - द्वितीयस्कन्धः
 
-+++
+---
   
  श्रीमद्भागवतम् - द्वितीयस्कन्धः   
  ॥ ॐ नमो भगवते वासुदेवाय ॥  

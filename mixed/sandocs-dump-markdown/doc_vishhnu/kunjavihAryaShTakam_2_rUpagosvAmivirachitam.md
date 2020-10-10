@@ -1,26 +1,27 @@
-+++
-"Text title" = "Kunjavihari Ashtaka 2"
-"File name" = "kunjavihAryaShTakam2.itx"
-itxtitle = "kunjavihAryaShTakam 2 (rUpagosvAmivirachitam)"
-engtitle = "Kunjavihari Ashtaka 2"
-Category = "aShTaka, vishhnu, krishna, vishnu, rUpagosvAmin, stavamAlA"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Rupagoswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional Prayers stavamAlA"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-Indexextra = "(Scan, Bengali, Meaning 1, 2, Info)"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुञ्जविहार्यष्टकम् २ (रूपगोस्वामिविरचितम्)"
+---
+Author: Rupagoswami
+Category: aShTaka, vishhnu, krishna, vishnu, rUpagosvAmin, stavamAlA
+Description-comments: From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional
+  Prayers stavamAlA
+File name: kunjavihAryaShTakam2.itx
+Indexextra: (Scan, Bengali, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Kunjavihari Ashtaka 2
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Kunjavihari Ashtaka 2
+itxtitle: kunjavihAryaShTakam 2 (rUpagosvAmivirachitam)
+title: कुञ्जविहार्यष्टकम् २ (रूपगोस्वामिविरचितम्)
 
-+++
+---
   
  कुञ्जविहार्यष्टकम् २   
 द्वितीयं श्रीकुञ्जविहार्यष्टकं  
@@ -37,7 +38,7 @@ title = "कुञ्जविहार्यष्टकम् २ (रूप�
   
 शिखिनिगलितषड्जेकोकिले पञ्चमाढ्ये  
      स्वयमपि नववंश्योद्दामयन् ग्राममुख्यम् ।  
-धृतमृगमदगन्धः सुष्ठुगान्धारसंज्ञं  
+धृतमृगमदगन्धः सुष्ठुगान्धारसञ्ज्ञं  
      त्रिभुवनधृतिहारिर्भाति कुञ्जे विहारी ॥ ३॥  
   
 अनुपमकरशाखोपात्तराधाङ्गुलीको  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "nRisi.nhastotram shrIrAmachandra praNItam"
-"File name" = "nrisimhastotraramachandra.itx"
-itxtitle = "nRisi.nhastotram (shrIrAmachandrapraNItam)"
-engtitle = "nRisiMhastotram"
-Category = "vishhnu, dashAvatAra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "rAmachandra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "December 24, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहस्तोत्रम् (श्रीरामचन्द्रप्रणीतम्)"
+---
+Author: rAmachandra
+Category: vishhnu, dashAvatAra, vishnu
+File name: nrisimhastotraramachandra.itx
+Language: Sanskrit
+Latest update: December 24, 2007
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nRisi.nhastotram shrIrAmachandra praNItam
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: nRisiMhastotram
+itxtitle: nRisi.nhastotram (shrIrAmachandrapraNItam)
+title: नृइसिंहस्तोत्रम् (श्रीरामचन्द्रप्रणीतम्)
 
-+++
+---
   
  श्रीनृसिंहस्तोत्रम् श्रीरामचन्द्र प्रणीतम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "sAmbakRitadvAdashAryAsUryastutiH"
-"File name" = "sAmbakRRitadvAdashAryAsUryastuti.itx"
-itxtitle = "sUryastutiH dvAdashAryA (sAmbakRitA)"
-engtitle = "Sambakrita Dvadasharyasuryastuti"
-Category = "navagraha, stotra, dvAdasha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Usha Rani Sanka usharani dot sanka at gmail.com"
-"Proofread by" = "Usha Rani Sanka usharani dot sanka at gmail.com"
-"Latest update" = "August 16, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यस्तुतिः द्वादशार्या (साम्बकृइता)"
+---
+Category: navagraha, stotra, dvAdasha
+File name: sAmbakRRitadvAdashAryAsUryastuti.itx
+Language: Sanskrit
+Latest update: August 16, 2014
+Location: doc_z_misc_navagraha
+Proofread by: Usha Rani Sanka usharani dot sanka at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sAmbakRitadvAdashAryAsUryastutiH
+Texttype: stotra
+Transliterated by: Usha Rani Sanka usharani dot sanka at gmail.com
+engtitle: Sambakrita Dvadasharyasuryastuti
+itxtitle: sUryastutiH dvAdashAryA (sAmbakRitA)
+title: सूर्यस्तुतिः द्वादशार्या (साम्बकृइता)
 
-+++
+---
   
  सूर्यस्तुती द्वादशार्या साम्बकृत   
   

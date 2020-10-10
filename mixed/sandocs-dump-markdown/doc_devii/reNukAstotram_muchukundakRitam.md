@@ -1,25 +1,25 @@
-+++
-"Text title" = "reNukAstotraM muchukundakRitam skandapurANe reNukAkhaNDe"
-"File name" = "reNukAstotrammuchukubdaskanda.itx"
-itxtitle = "reNukAstotram (muchukundakRitam)"
-engtitle = "Renuka Stotram Muchukunda kritam"
-Category = "devii, reNukA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Author = "Vinayaka Shastri Vetala"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-Description-comments = "Skandapurana Runukakhanda"
-Indexextra = "(Skandapurana)"
-"Latest update" = "June 13, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकास्तोत्रम् (मुचुकुन्दकृइतम्)"
+---
+Author: Vinayaka Shastri Vetala
+Category: devii, reNukA, devI
+Description-comments: Skandapurana Runukakhanda
+File name: reNukAstotrammuchukubdaskanda.itx
+Indexextra: (Skandapurana)
+Language: Sanskrit
+Latest update: June 13, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAstotraM muchukundakRitam skandapurANe reNukAkhaNDe
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Renuka Stotram Muchukunda kritam
+itxtitle: reNukAstotram (muchukundakRitam)
+title: रेणुकास्तोत्रम् (मुचुकुन्दकृइतम्)
 
-+++
+---
   
  रेणुकास्तोत्रं मुचुकुन्दकृतम्   
   

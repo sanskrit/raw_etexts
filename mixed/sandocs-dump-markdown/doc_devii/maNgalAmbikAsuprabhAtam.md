@@ -1,24 +1,24 @@
-+++
-"Text title" = "Mangalambika Suprabhatam"
-"File name" = "mangalAmbikAsuprabhAtam.itx"
-itxtitle = "maNgalAmbikAsuprabhAtam"
-engtitle = "Mangalambika Suprabhatam"
-Category = "suprabhAta, devii, otherforms, stotra, devI, mangala"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Proofread by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Translated by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Latest update" = "September 30, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मण्गलाम्बिकासुप्रभातम्"
+---
+Category: suprabhAta, devii, otherforms, stotra, devI, mangala
+File name: mangalAmbikAsuprabhAtam.itx
+Language: Sanskrit
+Latest update: September 30, 2016
+Location: doc_devii
+Proofread by: P. R. Kannan prkannanvashi at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Mangalambika Suprabhatam
+Texttype: stotra
+Translated by: P. R. Kannan prkannanvashi at yahoo.com
+Transliterated by: P. R. Kannan prkannanvashi at yahoo.com
+engtitle: Mangalambika Suprabhatam
+itxtitle: maNgalAmbikAsuprabhAtam
+title: मण्गलाम्बिकासुप्रभातम्
 
-+++
+---
   
  श्रीमङ्गलाम्बिकासुप्रभातम्   
   
@@ -45,7 +45,7 @@ daily duties await you. 1
 उत्तिष्ठोतिष्ठ मातङ्गि  
 उत्तिष्ठ वृषभध्वजे ।  
 उत्तिष्ठ कमलापूज्ये  
-त्रैलोक्यंमङ्गलं कुरु ॥ २॥   
+त्रैलोक्यम्मङ्गलं कुरु ॥ २॥   
 O Matangi! get up, get up. O Devi with banner of bull! Devi  
 worshipped by Lakshmi! Get up. Render the three worlds  
 auspicious. 2  

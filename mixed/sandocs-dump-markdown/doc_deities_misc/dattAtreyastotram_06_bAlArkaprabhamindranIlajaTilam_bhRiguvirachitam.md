@@ -1,25 +1,25 @@
-+++
-"Text title" = "Dattatreya Stotram 6"
-"File name" = "dattastotram6.itx"
-itxtitle = "dattAtreyastotram 06 (bAlArkaprabhamindranIlajaTilam bhRiguvirachitam)"
-engtitle = "dattatreya stotram 6"
-Category = "deities_misc, dattatreya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "Bhrigu Rishi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Dattatreya Stuti Manjari, Ed. S.V. Radhakrishnashastri"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "December 8, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयस्तोत्रम् ०६ (बालार्कप्रभमिन्द्रनीलजटिलम् भृइगुविरचितम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: Bhrigu Rishi
+Category: deities_misc, dattatreya
+Description/comments: Dattatreya Stuti Manjari, Ed. S.V. Radhakrishnashastri
+File name: dattastotram6.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 8, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Dattatreya Stotram 6
+engtitle: dattatreya stotram 6
+itxtitle: dattAtreyastotram 06 (bAlArkaprabhamindranIlajaTilam bhRiguvirachitam)
+title: दत्तात्रेयस्तोत्रम् ०६ (बालार्कप्रभमिन्द्रनीलजटिलम् भृइगुविरचितम्)
 
-+++
+---
   
  श्रीदत्तस्तोत्रम् ६   
 बालार्कप्रभमिन्द्रनीलजटिलं भस्माङ्गरागोज्वलं  

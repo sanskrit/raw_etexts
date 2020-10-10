@@ -1,25 +1,26 @@
-+++
-"Text title" = "gangAnArAyaNadevAShTakam"
-"File name" = "gangAnArAyaNadevAShTakam.itx"
-itxtitle = "gaNgAnArAyaNadevAShTakam (vishvanAthachakravartin Thakkuravirachitam)"
-engtitle = "gangAnArAyaNadevAShTakam by vishvanAthachakravartin"
-Category = "vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गानारायणदेवाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI
+File name: gangAnArAyaNadevAShTakam.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_vishhnu
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gangAnArAyaNadevAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: gangAnArAyaNadevAShTakam by vishvanAthachakravartin
+itxtitle: gaNgAnArAyaNadevAShTakam (vishvanAthachakravartin Thakkuravirachitam)
+title: गण्गानारायणदेवाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)
 
-+++
+---
   
  श्रीगङ्गानारायणदेवाष्टकम्   
 कुलस्थितान् कर्मिण उद्दिधीर्षु-  

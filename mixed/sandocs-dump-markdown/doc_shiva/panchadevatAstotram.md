@@ -1,23 +1,23 @@
-+++
-"Text title" = "panchadevatAstotram"
-"File name" = "panchadevatAstotram.itx"
-itxtitle = "panchadevatAstotram"
-engtitle = "panchadevatAstotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-"Latest update" = "June 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पञ्चदेवतास्तोत्रम्"
+---
+Author: Traditional
+Category: shiva
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: panchadevatAstotram.itx
+Language: Sanskrit
+Latest update: June 5, 2016
+Location: doc_shiva
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: panchadevatAstotram
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: panchadevatAstotram
+itxtitle: panchadevatAstotram
+title: पञ्चदेवतास्तोत्रम्
 
-+++
+---
   
  पञ्चदेवतास्तोत्रम्   
 श्रीगणेशाय नमः ।  
@@ -48,7 +48,7 @@ title = "पञ्चदेवतास्तोत्रम्"
 हरौ हरे तीक्ष्णकरे गणेशे शक्तौ न भेदो जगदादिहितेषु ।  
 अधः पतन्त्येषु भिदां दधाना भाषान्त एवं यततोऽच्य्ताश्रमाः ॥ ९॥  
   
-इति श्रीमदच्युताश्रमविरचितं पञ्चदेवतास्तोत्रम् संपूर्णम् ॥  
+इति श्रीमदच्युताश्रमविरचितं पञ्चदेवतास्तोत्रम् सम्पूर्णम् ॥  
   
   
 Proofread by Nat Natarajan, NA  

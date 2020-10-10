@@ -1,26 +1,26 @@
-+++
-"Text title" = "Tattvabodha"
-"File name" = "tattvabodha.itx"
-itxtitle = "tattvabodhaH (shaNkarAchAryavirachitaH)"
-engtitle = "tattva bodha"
-Category = "major_works, shankarAchArya"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "Philosophy (advaita vedanta)"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Translated by" = "-"
-Description-comments = "Prakarana granths (elementary text)"
-Indexextra = "(meaning 1, 2, Dutch)"
-"Latest update" = "June 19, 2003, September 9, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तत्त्वबोधः (शण्कराचार्यविरचितः)"
+---
+Author: Adi Shankaracharya
+Category: major_works, shankarAchArya
+Description-comments: Prakarana granths (elementary text)
+File name: tattvabodha.itx
+Indexextra: (meaning 1, 2, Dutch)
+Language: Sanskrit
+Latest update: June 19, 2003, September 9, 2019
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Philosophy (advaita vedanta)
+Sublocation: major_works
+Text title: Tattvabodha
+Texttype: pramukha
+Translated by: '-'
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: tattva bodha
+itxtitle: tattvabodhaH (shaNkarAchAryavirachitaH)
+title: तत्त्वबोधः (शण्कराचार्यविरचितः)
 
-+++
+---
   
  तत्त्वबोधः   
 श्रीशङ्करभगवत्पादाचार्यप्रणीतः  
@@ -206,11 +206,11 @@ INVOCATION
 मनोबुद्ध्यहङ्कार चित्तान्तःकरणानि सम्भूतानि ।  
 सङ्कल्पविकल्पात्मकं मनः ।  
 निश्चयात्मिका बुद्धिः ।  
-अहंकर्ता अहंकारः ।  
+अहङ्कर्ता अहङ्कारः ।  
 चिन्तनकर्तृ चित्तम् ।  
 मनसो देवता चन्द्रमाः ।  
 बुद्धे ब्रह्मा ।  
-अहंकारस्य रुद्रः ।  
+अहङ्कारस्य रुद्रः ।  
 चित्तस्य वासुदेवः ।  
 ७.३.३  EVOLUTION OF THE RAJAS ASPECT  
 एतेषां पञ्चतत्त्वानां मध्ये   
@@ -241,12 +241,12 @@ INVOCATION
 तावत्पर्यन्तं जन्ममरणादिरूपसंसारो न निवर्तते ।  
 तस्मात्कारणान्न जीवेश्वरयोर्भेदबुद्धिः स्वीकार्या ।  
 १०  TAT TWAMASI (That Thou Art)  
-ननु साहंकारस्य किंचिज्ज्ञस्य जीवस्य निरहंकारस्य सर्वज्ञस्य  
+ननु साहङ्कारस्य किञ्चिज्ज्ञस्य जीवस्य निरहङ्कारस्य सर्वज्ञस्य  
 ईश्वरस्य तत्त्वमसीति महावाक्यात् कथमभेदबुद्धिः स्यादुभयोः   
 विरुद्धधर्माक्रान्तत्वात् ।  
-इति चेन्न । स्थूलसूक्ष्मशरीराभिमानी त्वंपदवाच्यार्थः ।  
+इति चेन्न । स्थूलसूक्ष्मशरीराभिमानी त्वम्पदवाच्यार्थः ।  
 उपाधिविनिर्मुक्तं समाधिदशासम्पन्नं शुद्धं चैतन्यं   
-त्वंपदलक्ष्यार्थः ।  
+त्वम्पदलक्ष्यार्थः ।  
 एवं सर्वज्ञत्वादिविशिष्ट ईश्वरः तत्पदवाच्यार्थः ।  
 उपाधिशून्यं शुद्धचैतन्यं तत्पदलक्ष्यार्थः ।  
 एवं च जीवेश्वरयो चैतन्यरूपेणाऽभेदे बाधकाभावः ।  
@@ -257,7 +257,7 @@ INVOCATION
 ननु जीवन्मुक्तः कः ?  
 यथा देहोऽहं पुरुषोऽहं ब्राह्मणोऽहं शूद्रोऽहमस्मीति   
 दृढनिश्चयस्तथा नाहं ब्राह्मणः न शूद्रः न पुरुषः   
-किन्तु असंगः सच्चिदानन्द स्वरूपः प्रकाशरूपः सर्वान्तर्यामी  
+किन्तु असङ्गः सच्चिदानन्द स्वरूपः प्रकाशरूपः सर्वान्तर्यामी  
 चिदाकाशरूपोऽस्मीति दृढनिश्चय   
 रूपोऽपरोक्षज्ञानवान् जीवन्मुक्तः ॥  
   
@@ -283,9 +283,9 @@ INVOCATION
 १२      KARMA  
 १३      FREEDOM FROM BONDAGE  
 सञ्चितं कर्म ब्रह्मैवाहमिति निश्चयात्मकज्ञानेन नश्यति ।  
-आगामि कर्म अपि ज्ञानेन नश्यति किंच आगामि कर्मणां  
+आगामि कर्म अपि ज्ञानेन नश्यति किञ्च आगामि कर्मणां  
 नलिनीदलगतजलवत् ज्ञानिनां सम्बन्धो नास्ति ।  
-किंच ये ज्ञानिनं स्तुवन्ति भजन्ति अर्चयन्ति तान्प्रति   
+किञ्च ये ज्ञानिनं स्तुवन्ति भजन्ति अर्चयन्ति तान्प्रति   
 ज्ञानिकृतं आगामि पुण्यं गच्छति ।  
 ये ज्ञानिनं निन्दन्ति द्विषन्ति दुःखप्रदानं कुर्वन्ति तान्प्रति  
 ज्ञानिकृतं सर्वमागामि क्रियमाणं यदवाच्यं कर्म  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "vedavyAsAShTottarashatanAmAvalI 1"
-"File name" = "vyaasa108.itx"
-itxtitle = "vedavyAsAShTottarashatanAmAvaliH 1"
-engtitle = "Veda Vyasa Ashtottara-shata Namavali"
-Category = "aShTottarashatanAmAvalI, deities_misc, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "nAmAvalI"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "August 1, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदव्यासाष्टोत्तरशतनामावलिः १"
+---
+Author: Vedic Tradition
+Category: aShTottarashatanAmAvalI, deities_misc, nAmAvalI
+File name: vyaasa108.itx
+Language: Sanskrit
+Latest update: August 1, 2012
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vedavyAsAShTottarashatanAmAvalI 1
+Texttype: nAmAvalI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Veda Vyasa Ashtottara-shata Namavali
+itxtitle: vedavyAsAShTottarashatanAmAvaliH 1
+title: वेदव्यासाष्टोत्तरशतनामावलिः १
 
-+++
+---
   
  वेदव्यासाष्टोत्तरशतनामावली   
   

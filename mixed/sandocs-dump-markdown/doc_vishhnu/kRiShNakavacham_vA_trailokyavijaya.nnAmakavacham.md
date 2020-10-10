@@ -1,22 +1,22 @@
-+++
-"Text title" = "kRishNa kavacham evam trailokyavijaya.n nAma kavacham"
-"File name" = "krishnakavacham.itx"
-itxtitle = "kRiShNakavacham vA trailokyavijaya.nnAmakavacham"
-engtitle = "Krishna Kavacham or Trailokyavijayam Kavacham"
-Category = "kavacha, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "May 5, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णकवचम् वा त्रैलोक्यविजयंनामकवचम्"
+---
+Category: kavacha, vishhnu, krishna, vishnu
+File name: krishnakavacham.itx
+Language: Sanskrit
+Latest update: May 5, 2008
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRishNa kavacham evam trailokyavijaya.n nAma kavacham
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: Krishna Kavacham or Trailokyavijayam Kavacham
+itxtitle: kRiShNakavacham vA trailokyavijaya.nnAmakavacham
+title: कृइष्णकवचम् वा त्रैलोक्यविजयंनामकवचम्
 
-+++
+---
   
  श्रीकृष्ण अथवा त्रैलोक्यविजयं नामकवचम्   
   
@@ -37,7 +37,7 @@ title = "कृइष्णकवचम् वा त्रैलोक्यव
 मन्त्रं कल्पतरुं नाम सर्वकाम-फलप्रदम् ।  
 ददौ परशुरामाय रत्नपर्वत-सन्निधौ ॥ ५॥  
   
-स्वयंप्रभा-नदीतीरे पारिजात-वनान्तरे ।  
+स्वयम्प्रभा-नदीतीरे पारिजात-वनान्तरे ।  
 आश्रमे लोकदेवस्य माधवस्य च सन्निधौ ॥ ६॥  
   
 महादेव उवाच ॥   
@@ -54,7 +54,7 @@ title = "कृइष्णकवचम् वा त्रैलोक्यव
 पुण्यात्पुण्यतरं चैव परं स्नेहाद्वदामि ते ॥ १०॥  
   
 यद्धृत्वा पठनाद्देवी मूलप्रकृतिरीश्वरी ।  
-शुंभं निशुंभं महिषं रक्तबीजं जघान ह ॥ ११॥  
+शुम्भं निशुम्भं महिषं रक्तबीजं जघान ह ॥ ११॥  
   
 यद्धृत्वाऽहं च जगतां संहर्ता सर्वतत्ववित् ।  
 अवध्यं त्रिपुरं पूर्वं दुरन्तमपि लीलया ॥ १२॥  
@@ -72,7 +72,7 @@ title = "कृइष्णकवचम् वा त्रैलोक्यव
 यद्धृत्वा पठनाच्चन्द्रो महाबल-पराक्रमः ॥ १६॥  
   
 अगस्त्यः सागरान्सप्त यद्धृत्वा पठनात्पपौ ।  
-चकार तेजसा जीर्णं दैत्यं वातापिसंज्ञकम् ॥ १७॥  
+चकार तेजसा जीर्णं दैत्यं वातापिसञ्ज्ञकम् ॥ १७॥  
   
 यद्धृत्वा पठनाद्देवी सर्वाधारा वसुन्धरा ।  
 यद्धृत्वा पठनात्पूता गङ्गा भुवनपावनी ॥ १८॥  
@@ -189,10 +189,10 @@ title = "कृइष्णकवचम् वा त्रैलोक्यव
 कोटिकल्पं प्रजप्तोऽपि न मन्त्रः सिद्धि-दायकः ॥ ५५॥  
   
 गृहीत्वा कवचं वत्स महीं निःक्षत्रियं कुरु ।  
-त्रिस्सप्तकृत्वो निश्शंकः सदानन्दो हि लीलया ॥ ५६॥  
+त्रिस्सप्तकृत्वो निश्शङ्कः सदानन्दो हि लीलया ॥ ५६॥  
   
 राज्यं देयं शिरो देयं प्रणा देयाश्च पुत्रक ।  
-एवंभूतं च कवचं न देयं प्राणसंकटे ॥ ५७॥  
+एवम्भूतं च कवचं न देयं प्राणसङ्कटे ॥ ५७॥  
   
  ॥ इति श्रीब्रह्मवैवर्ते महापुराणे तृतीये गणपतिखण्डे\  
 नारद-नारायणसंवादे परशुरामाय श्रीकृष्णकवच-\  

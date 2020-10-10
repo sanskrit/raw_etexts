@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrii akkalakoTasvaamiisamartha bhajan"
-"File name" = "akkalakoTasvAmIbhajan.itx"
-itxtitle = "akkalakoTa svAmI samartha bhajana"
-engtitle = "akkalakoTa svAmI samartha bhajan"
-Category = "bhajana, deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Mukund Hanumante"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Proofread by" = "Anjali Leley leley98 at hotmail.com"
-"Latest update" = "October 25, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अक्कलकोट स्वामी समर्थ भजन"
+---
+Author: Mukund Hanumante
+Category: bhajana, deities_misc, gurudev
+File name: akkalakoTasvAmIbhajan.itx
+Language: Sanskrit
+Latest update: October 25, 2004
+Location: doc_deities_misc
+Proofread by: Anjali Leley leley98 at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: hinduism
+Sublocation: deities_misc
+Text title: shrii akkalakoTasvaamiisamartha bhajan
+engtitle: akkalakoTa svAmI samartha bhajan
+itxtitle: akkalakoTa svAmI samartha bhajana
+title: अक्कलकोट स्वामी समर्थ भजन
 
-+++
+---
   
  श्रीअक्कलकोट स्वामी समर्थ भजन   
   

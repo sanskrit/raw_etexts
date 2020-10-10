@@ -1,22 +1,22 @@
-+++
-"Text title" = "Tripurasundari Pratah Shloka Panchakam"
-"File name" = "tripurasundarIprAtaHshlokapanchakam.itx"
-itxtitle = "tripurasundarI prAtaHshlokapanchakam"
-engtitle = "Tripurasundari Pratah Shloka Panchakam"
-Category = "devii, suprabhAta, devI, dashamahAvidyA, panchaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ramaprakasha ramaprakashak at gmail.com, Nidhish Aaryan nidhish.184@gmail.com"
-"Proofread by" = "Ramaprakasha ramaprakashak at gmail.com , NA"
-"Latest update" = "December 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरसुन्दरी प्रातःश्लोकपञ्चकम्"
+---
+Category: devii, suprabhAta, devI, dashamahAvidyA, panchaka
+File name: tripurasundarIprAtaHshlokapanchakam.itx
+Language: Sanskrit
+Latest update: December 24, 2018
+Location: doc_devii
+Proofread by: Ramaprakasha ramaprakashak at gmail.com , NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Tripurasundari Pratah Shloka Panchakam
+Transliterated by: Ramaprakasha ramaprakashak at gmail.com, Nidhish Aaryan nidhish.184@gmail.com
+engtitle: Tripurasundari Pratah Shloka Panchakam
+itxtitle: tripurasundarI prAtaHshlokapanchakam
+title: त्रिपुरसुन्दरी प्रातःश्लोकपञ्चकम्
 
-+++
+---
   
  श्रीत्रिपुरसुन्दरी प्रातःश्लोकपञ्चकम्   
 प्रातर्नमामि जगतां जनन्याश्चरणाम्बुजम् ।  

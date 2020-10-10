@@ -1,23 +1,23 @@
-+++
-"Text title" = "kAshIvishvanAthastotram"
-"File name" = "kAshIvishvanAthastotram.itx"
-itxtitle = "kAshIvishvanAthastotram (shaNkarAchAryavirachitam)"
-engtitle = "kAshIvishvanAthastotram"
-Category = "shiva, shankarAchArya"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Shamkaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Source = "stutisanchayaH"
-"Latest update" = "June 13, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "काशीविश्वनाथस्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shamkaracharya
+Category: shiva, shankarAchArya
+File name: kAshIvishvanAthastotram.itx
+Language: Sanskrit
+Latest update: June 13, 2010
+Location: doc_shiva
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: stutisanchayaH
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: kAshIvishvanAthastotram
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: kAshIvishvanAthastotram
+itxtitle: kAshIvishvanAthastotram (shaNkarAchAryavirachitam)
+title: काशीविश्वनाथस्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  श्रीकाशीविश्वनाथस्तोत्रम्   
   
@@ -90,10 +90,10 @@ title = "काशीविश्वनाथस्तोत्रम् (शण
 गङ्गाकेशववामनाख्यतदनु श्वेतो हरिः केशवः  
 प्रह्लादादिसमस्तकेशवगणो देयात्सदा मङ्गलम् ॥ १४॥  
   
-लोलार्को विमलार्कमायुखरविः संवर्तसंज्ञो रवि-  
+लोलार्को विमलार्कमायुखरविः संवर्तसञ्ज्ञो रवि-  
 र्विख्यातो द्रुपदुःखखोल्कमरुणः प्रोक्तोत्तरार्को रविः ।  
 गङ्गार्कस्त्वथ वृद्धवृद्धिविबुधा काशीपुरीसंस्थिताः  
-सूर्या द्वादशसंज्ञकाः प्रतिदिनं देयात्सदा मङ्गलम् ॥ १५॥  
+सूर्या द्वादशसञ्ज्ञकाः प्रतिदिनं देयात्सदा मङ्गलम् ॥ १५॥  
   
 आद्यो ढुण्ढिविनायको गणपतिश्चिन्तामणिः सिद्धिदः  
 सेनाविघ्नपतिस्तु वक्त्रवदनः श्रीपाशपाणिः प्रभुः ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrIvidyAkavacham"
-"File name" = "shriividyaakavach.itx"
-itxtitle = "vidyAkavacham athavA ShoDashIvidyAkavacham (siddhayAmalatantrArgatam)"
-engtitle = "shrIvidyAkavacham"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar, lalitha parameswari parameswari.lalitha at gmail.com"
-Description-comments = "siddhayAmala"
-"Latest update" = "March 02, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विद्याकवचम् अथवा षोडशीविद्याकवचम् (सिद्धयामलतन्त्रार्गतम्)"
+---
+Author: Traditional
+Category: kavacha, devii, dashamahAvidyA, devI
+Description-comments: siddhayAmala
+File name: shriividyaakavach.itx
+Language: Sanskrit
+Latest update: March 02, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar, lalitha parameswari parameswari.lalitha at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIvidyAkavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: shrIvidyAkavacham
+itxtitle: vidyAkavacham athavA ShoDashIvidyAkavacham (siddhayAmalatantrArgatam)
+title: विद्याकवचम् अथवा षोडशीविद्याकवचम् (सिद्धयामलतन्त्रार्गतम्)
 
-+++
+---
   
  श्रीविद्याकवचम् अथवा श्रीषोडशीविद्याकवचम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "antaryAmI mama bhagavAn"
-"File name" = "antaryAmImamabhagavAnWarnekar.itx"
-itxtitle = "antaryAmI mama bhagavAn"
-engtitle = "God within"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dr. Shridhar Bhaskar Warnekar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Srinivas Kommireddy srinivas.kommireddy at googlemail.com"
-"Proofread by" = "Srinivas Kommireddy"
-"Latest update" = "December 6, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अन्तर्यामी मम भगवान्"
+---
+Author: Dr. Shridhar Bhaskar Warnekar
+Category: misc, sanskritgeet
+File name: antaryAmImamabhagavAnWarnekar.itx
+Language: Sanskrit
+Latest update: December 6, 2015
+Location: doc_z_misc_general
+Proofread by: Srinivas Kommireddy
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: antaryAmI mama bhagavAn
+Transliterated by: Srinivas Kommireddy srinivas.kommireddy at googlemail.com
+engtitle: God within
+itxtitle: antaryAmI mama bhagavAn
+title: अन्तर्यामी मम भगवान्
 
-+++
+---
   
  अन्तर्यामी मम भगवान्   
   

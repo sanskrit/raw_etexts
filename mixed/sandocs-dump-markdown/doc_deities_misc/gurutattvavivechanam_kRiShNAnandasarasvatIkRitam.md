@@ -1,23 +1,23 @@
-+++
-"Text title" = "gurutattvavivechanam"
-"File name" = "gurutattvavivechanam.itx"
-itxtitle = "gurutattvavivechanam (kRiShNAnandasarasvatIkRitam)"
-engtitle = "gurutattvavivechanam"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Krishnanandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुतत्त्वविवेचनम् (कृइष्णानन्दसरस्वतीकृइतम्)"
+---
+Author: Krishnanandasarasvati
+Category: deities_misc, gurudev
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: gurutattvavivechanam.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurutattvavivechanam
+engtitle: gurutattvavivechanam
+itxtitle: gurutattvavivechanam (kRiShNAnandasarasvatIkRitam)
+title: गुरुतत्त्वविवेचनम् (कृइष्णानन्दसरस्वतीकृइतम्)
 
-+++
+---
   
  गुरुतत्त्वविवेचनम्   
 अन्धेनाऽन्धीकृतं विश्वं सचक्षुस्तु सचक्षुषम् ।  

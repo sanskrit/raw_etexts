@@ -1,21 +1,21 @@
-+++
-"Text title" = "bhikshukopanishhat"
-"File name" = "bhikshuk.itx"
-itxtitle = "bhikShukopaniShat"
-engtitle = "bhikShukopaniShat.h || 63 ||"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "religious, philosophy"
-"Transliterated by" = "Roopa and Shrirang Nene (roopashri at hotmail.com)"
-"Proofread by" = "Roopa and Shrirang Nene (roopashri at hotmail.com)"
-"Latest update" = "October 18, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भिक्षुकोपनिषत्"
+---
+Category: upanishhat, upanishad
+File name: bhikshuk.itx
+Language: Sanskrit
+Latest update: October 18, 1999
+Location: doc_upanishhat
+Proofread by: Roopa and Shrirang Nene (roopashri at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religious, philosophy
+Sublocation: upanishhat
+Text title: bhikshukopanishhat
+Transliterated by: Roopa and Shrirang Nene (roopashri at hotmail.com)
+engtitle: bhikShukopaniShat.h || 63 ||
+itxtitle: bhikShukopaniShat
+title: भिक्षुकोपनिषत्
 
-+++
+---
   
  भिक्षुकोपनिषत् ६३   
   
@@ -53,12 +53,12 @@ title = "भिक्षुकोपनिषत्"
 शुद्धाशुद्धौ द्वैतवर्जिता समलोष्टाश्मकाञ्चनाः  
 सर्ववर्णेषु भैक्षाचरणं कृत्वा सर्वत्रात्मैवेति पश्यन्ति ।  
 अथ जातरूपधरा निर्द्वन्द्वा निष्परिग्रहाः  
-शुक्लध्यानपरायणा आत्मनिष्टाः प्राणसंधारणार्थे  
+शुक्लध्यानपरायणा आत्मनिष्टाः प्राणसन्धारणार्थे  
 यथोक्तकाले भैक्षमाचरन्तः शून्यागारदेवगृह -  
 तृणकूटवल्मीकवृक्षमूलकुलालशालाग्निहोत्रशालानदीपुलिन -  
 गिरिकन्दरकुहरकोटरनिर्झरस्थण्डिले तत्र ब्रह्ममार्गे  
 सम्यक्सम्पन्नाः शुद्धमानसाः परमहंसाचरणेन  
-संन्यासेन देहत्यागं कुर्वन्ति ते परमहंसा नामेत्युपनिषत् ॥  
+सन्न्यासेन देहत्यागं कुर्वन्ति ते परमहंसा नामेत्युपनिषत् ॥  
   
 ॐ पूर्णमदः पूर्णमिदं  
 पूर्णात् पूर्णमुदच्यते ।  

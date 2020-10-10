@@ -1,23 +1,23 @@
-+++
-"Text title" = "mRitasanjIvana stotram"
-"File name" = "mrtyusanjiivana.itx"
-itxtitle = "mRitasanjIvanastotram kavacham cha"
-engtitle = "mRitasanjIvana stotram"
-Category = "kavacha, shiva, stotra, gaNapati-muni"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "vasiShThamunI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subramanian Ganesh sgesh at hotmail.com"
-"Proofread by" = "Subramanian Ganesh sgesh at hotmail.com NA"
-"Latest update" = "March 15, 2001, January 20, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मृइतसञ्जीवनस्तोत्रम् कवचम् च"
+---
+Author: vasiShThamunI
+Category: kavacha, shiva, stotra, gaNapati-muni
+File name: mrtyusanjiivana.itx
+Language: Sanskrit
+Latest update: March 15, 2001, January 20, 2009
+Location: doc_shiva
+Proofread by: Subramanian Ganesh sgesh at hotmail.com NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mRitasanjIvana stotram
+Texttype: stotra
+Transliterated by: Subramanian Ganesh sgesh at hotmail.com
+engtitle: mRitasanjIvana stotram
+itxtitle: mRitasanjIvanastotram kavacham cha
+title: मृइतसञ्जीवनस्तोत्रम् कवचम् च
 
-+++
+---
   
  मृतसञ्जीवनस्तोत्रम्   
   

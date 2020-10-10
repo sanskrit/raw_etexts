@@ -1,26 +1,26 @@
-+++
-"Text title" = "sArtha nArAyaNa kavacha"
-"File name" = "narayana-kavacha_meaning.itx"
-itxtitle = "nArAyaNakavacham (sArtham)"
-engtitle = "nArAyaNa kavacham"
-Category = "kavacha, vishhnu, narayana, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "narayana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-Description-comments = "From shrImad-BhAgavatam, entitled The NArAyaNa-kavacha Shield."
-Indexextra = "(text with detailed meaning)"
-"Latest update" = "April 2,  2009, October 21, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणकवचम् (सार्थम्)"
+---
+Category: kavacha, vishhnu, narayana, vishnu
+Description-comments: From shrImad-BhAgavatam, entitled The NArAyaNa-kavacha Shield.
+File name: narayana-kavacha_meaning.itx
+Indexextra: (text with detailed meaning)
+Language: Sanskrit
+Latest update: April 2,  2009, October 21, 2016
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: narayana
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sArtha nArAyaNa kavacha
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: nArAyaNa kavacham
+itxtitle: nArAyaNakavacham (sArtham)
+title: नारायणकवचम् (सार्थम्)
 
-+++
+---
   
  नारायणकवचं सार्थ   
   
@@ -46,10 +46,10 @@ title = "नारायणकवचम् (सार्थम्)"
 ॐ वं नमः वामानामिकायाम् ।  
 ॐ तें नमः वाममध्यमायाम् ।  
 ॐ वां नमः वामतर्जन्याम् ।  
-ॐ सुं नमः दक्षिणांगुष्ठोर्ध्वपर्वणि ।  
-ॐ दें नमः दक्षिणांगुष्ठाय पर्वणि ।  
-ॐ वां नमः वामांगुष्ठोर्ध्वपर्वणि ।  
-ॐ यं नमः वामांगुष्ठाय पर्वणि ॥  
+ॐ सुं नमः दक्षिणाङ्गुष्ठोर्ध्वपर्वणि ।  
+ॐ दें नमः दक्षिणाङ्गुष्ठाय पर्वणि ।  
+ॐ वां नमः वामाङ्गुष्ठोर्ध्वपर्वणि ।  
+ॐ यं नमः वामाङ्गुष्ठाय पर्वणि ॥  
   
 विष्णुषडक्षरन्यासः  
 ॐ ॐ नमः हृदये ।  
@@ -168,7 +168,7 @@ great attention.
 सन्नह्येद् भय आगते पादयोर्जानुनोरूर्वोः ॥ ५॥  
   
 उदरे हृद्यथोरसि मुखे शिरस्यानुपूर्व्याद्  
-ओंकारादीनि विन्यसेत् ओं नमो नारायणायेति विपर्ययम् अथापि वा ॥ ६॥  
+ओङ्कारादीनि विन्यसेत् ओं नमो नारायणायेति विपर्ययम् अथापि वा ॥ ६॥  
   
 श्री-विश्वरूपः उवाच  
  shrI VishvarUpa said;  धौत  having completely washed;   
@@ -186,7 +186,7 @@ being purified;  नारायण-परम्  fully intent on Lord NArAyaNa;
 the two knees;  ऊर्वोः  on the two thighs;  उदरे  on the abdomen;  
  हृदि  on the heart;  अथ  thus;  उरसि  on the chest;   
 मुखे  on the mouth;  शिरसि  on the head;  आनुपूर्व्यात्  one  
-after another;  ओंकार-आदीनि  beginning with oMkAra;  विन्यसेत्  
+after another;  ओङ्कार-आदीनि  beginning with oMkAra;  विन्यसेत्  
  one should place;  ओं  the praNava;  नमः  obeisances;   
 नारायणाय  unto NArAyaNa, the Supreme Personality of Godhead;  
  इति  thus;  विपर्ययम्  the reverse;  अथ अपि  moreover;  
@@ -234,7 +234,7 @@ on the joints of the thumbs.
   
    
 न्यसेद्  
-धृदय ओंकारं वि-कारम् अनु मूर्धनि  
+धृदय ओङ्कारं वि-कारम् अनु मूर्धनि  
 ष-कारं तु भ्रुवोर्मध्ये ण-कारं शिखया न्यसेत् ॥ ८॥  
   
 वे-कारं नेत्रयोर्युञ्ज्यान्न-कारं सर्व-सन्धिषु  
@@ -244,7 +244,7 @@ on the joints of the thumbs.
 ओं विष्णवे नम इति ॥ १० ॥  
   
 न्यसेत्  should place;  हृदये  on the heart;  
- ओंकारम्  the praNava, oMkAra;  वि-कारम्  the syllable  
+ ओङ्कारम्  the praNava, oMkAra;  वि-कारम्  the syllable  
 vi of viShNave;  अनु  thereafter;  मूर्धनि  on the top of  
 the head;  ष-कारम्  the syllable sa;  तु  and;  भ्रुवोः  
 मध्ये  between the two eyebrows;  ण-कारम्  the syllable Na;  

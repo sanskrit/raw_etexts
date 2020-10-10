@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shiva Pratahsmaranam2"
-"File name" = "shivaprAtaHsmaraNam.itx"
-itxtitle = "shivaprAtaHsmaraNam 2 (prakAshAnandapurIvirachitam)"
-engtitle = "shivaprAtaHsmaraNam2"
-Category = "shiva, suprabhAta"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Madhura Bal madhurabal11 gmail.com"
-"Proofread by" = "Madhura Bal madhurabal11 gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "August 12, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवप्रातःस्मरणम् २ (प्रकाशानन्दपुरीविरचितम्)"
+---
+Category: shiva, suprabhAta
+File name: shivaprAtaHsmaraNam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 12, 2018
+Location: doc_shiva
+Proofread by: Madhura Bal madhurabal11 gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shiva Pratahsmaranam2
+Transliterated by: Madhura Bal madhurabal11 gmail.com
+engtitle: shivaprAtaHsmaraNam2
+itxtitle: shivaprAtaHsmaraNam 2 (prakAshAnandapurIvirachitam)
+title: शिवप्रातःस्मरणम् २ (प्रकाशानन्दपुरीविरचितम्)
 
-+++
+---
   
  श्रीशिवप्रातःस्मरणस्तोत्रम् २   
 श्रीगणेशाय नमः ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Mukambika Pancharatna stotra"
-"File name" = "mUkAmbikA5.itx"
-itxtitle = "mUkAmbikA pancharatnastotram (shaNkarAchAryavirachitam)"
-engtitle = "mUkAmbikA pancharatna stotram"
-Category = "pancharatna, devii, otherforms, devI, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Shree"
-Description-comments = "Mookambika Pancharatna Stotram"
-Indexextra = "(youtube), (Bombay Sisters)"
-"Latest update" = "August 4, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मूकाम्बिका पञ्चरत्नस्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: pancharatna, devii, otherforms, devI, shankarAchArya
+Description-comments: Mookambika Pancharatna Stotram
+File name: mUkAmbikA5.itx
+Indexextra: (youtube), (Bombay Sisters)
+Language: Sanskrit
+Latest update: August 4, 2016
+Location: doc_devii
+Proofread by: Shree
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Mukambika Pancharatna stotra
+engtitle: mUkAmbikA pancharatna stotram
+itxtitle: mUkAmbikA pancharatnastotram (shaNkarAchAryavirachitam)
+title: मूकाम्बिका पञ्चरत्नस्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  श्रीमूकाम्बिका पञ्चरत्न स्तोत्रम्   
   
@@ -48,7 +48,7 @@ title = "मूकाम्बिका पञ्चरत्नस्तोत�
 तां बालां त्रिपुरां शिवेनसहितां ध्यायामि मूकाम्बिकाम् ॥ ५॥  
   
 मन्दार कुन्द कुमुदोत्पल मल्लिकाब्जैः  
-      शृंगार वेष सुर पूजित वन्दिताग्रीम् ।  
+      शृङ्गार वेष सुर पूजित वन्दिताग्रीम् ।  
 मन्दार कुन्द कुमुदोत्पल सुन्दराङ्गी  
       मूकाम्बिके मयि नि देहि कृपा कटाक्षम् ॥  
   

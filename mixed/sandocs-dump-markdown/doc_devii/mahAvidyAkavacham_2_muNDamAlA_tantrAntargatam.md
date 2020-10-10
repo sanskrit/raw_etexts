@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAvidyAkavacham 2"
-"File name" = "mahAvidyAkavacham2.itx"
-itxtitle = "mahAvidyAkavacham 2 (muNDamAlA tantrAntargatam)"
-engtitle = "mahAvidyAkavacham 2"
-Category = "devii, dashamahAvidyA, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "From Durlabh Stotrani. muNDamAlA tantra"
-Indexextra = "(Scan)"
-"Latest update" = "June 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाविद्याकवचम् २ (मुण्डमाला तन्त्रान्तर्गतम्)"
+---
+Category: devii, dashamahAvidyA, kavacha, devI
+Description/comments: From Durlabh Stotrani. muNDamAlA tantra
+File name: mahAvidyAkavacham2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 17, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAvidyAkavacham 2
+engtitle: mahAvidyAkavacham 2
+itxtitle: mahAvidyAkavacham 2 (muNDamAlA tantrAntargatam)
+title: महाविद्याकवचम् २ (मुण्डमाला तन्त्रान्तर्गतम्)
 
-+++
+---
   
  महाविद्या कवचम् २   
 सदाशिव ऋषि देवि उष्णिक्छन्दः उदीरितम् ।  

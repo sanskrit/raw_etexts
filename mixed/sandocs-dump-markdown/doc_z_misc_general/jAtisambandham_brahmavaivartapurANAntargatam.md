@@ -1,24 +1,24 @@
-+++
-"Text title" = "jAtisambandha brahmavaivartapurANe"
-"File name" = "jAtisambandhaBVP.itx"
-itxtitle = "jAtisambandham (brahmavaivartapurANAntargatam)"
-engtitle = "Relations brahmavaivartapurANa"
-Category = "purana"
-Location = "doc_z_misc_general"
-Sublocation = "purana"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "pranav.tendulkar at gmail dotcom"
-"Proofread by" = "vrushaliagarkar at gmail dotcom"
-Description-comments = "brahmakhaNDe adhyAya 10"
-Indexextra = "(brahmavaivartapurANa)"
-"Latest update" = "January 28, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जातिसम्बन्धम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: purana
+Description-comments: brahmakhaNDe adhyAya 10
+File name: jAtisambandhaBVP.itx
+Indexextra: (brahmavaivartapurANa)
+Language: Sanskrit
+Latest update: January 28, 2013
+Location: doc_z_misc_general
+Proofread by: vrushaliagarkar at gmail dotcom
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: purana
+Text title: jAtisambandha brahmavaivartapurANe
+Texttype: pramukha
+Transliterated by: pranav.tendulkar at gmail dotcom
+engtitle: Relations brahmavaivartapurANa
+itxtitle: jAtisambandham (brahmavaivartapurANAntargatam)
+title: जातिसम्बन्धम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  जातिसम्बन्धं ब्रह्मवैवर्तपुराणान्तर्गतं   
   
@@ -85,7 +85,7 @@ title = "जातिसम्बन्धम् (ब्रह्मवैवर
 पुत्रस्य च गुरुर्भ्राता पोष्यः सुस्निग्धबान्धवः ॥ १५९  ॥  
   
 पुत्रस्य श्वशुरो भ्राता बन्धुर्वैवाहिकः स्मृतः ।  
-कन्यायाः श्वशुरे चैव तत्संबन्धः प्रकीर्तितः ॥ १६०  ॥  
+कन्यायाः श्वशुरे चैव तत्सम्बन्धः प्रकीर्तितः ॥ १६०  ॥  
   
 गुरुश्च कन्यकायाश्च भ्राता सुस्निग्धबान्धवाः ।  
 गुरुश्वशुरभ्रातृणां गुरुतुल्यः प्रकीर्तितः ॥ १६१  ॥  
@@ -93,22 +93,22 @@ title = "जातिसम्बन्धम् (ब्रह्मवैवर
 बन्धुता येन सार्धं च तन्मित्रं परिकीर्तितम् ।  
 मित्रं सुखप्रदं ज्ञेयं दुःखदो रिपुरुच्यते ॥ १६२  ॥  
   
-बान्धवो दुःखदो दैवान्निःसंबन्धोऽसुखप्रदः ।  
-संबन्धास्त्रिविधाः पुंसां विप्रेन्द्र जगतीतले ॥ १६३  ॥  
+बान्धवो दुःखदो दैवान्निःसम्बन्धोऽसुखप्रदः ।  
+सम्बन्धास्त्रिविधाः पुंसां विप्रेन्द्र जगतीतले ॥ १६३  ॥  
   
 विद्याजो योनिजश्चैव प्रीतिजश्च प्रकीर्तितः ।  
-मित्रं तु प्रीतिजं ज्ञेयं स संबन्धः सुदुर्लभः ॥ १६४  ॥  
+मित्रं तु प्रीतिजं ज्ञेयं स सम्बन्धः सुदुर्लभः ॥ १६४  ॥  
   
 मित्रमाता मित्रभार्या मातृतुल्या न संशयः ।  
 मित्रभ्राता मित्रपिता भ्रातृतातसमौ नृणाम् ॥ १६५  ॥  
   
-चतुर्थं नामसंबन्धमित्याह कमलोद्भवः ।  
-जारश्चोपपतिर्बन्धुर्दुष्टसंभोगकर्तरि ॥ १६६  ॥  
+चतुर्थं नामसम्बन्धमित्याह कमलोद्भवः ।  
+जारश्चोपपतिर्बन्धुर्दुष्टसम्भोगकर्तरि ॥ १६६  ॥  
   
 उपपत्न्यां नवज्ञा च प्रेयसि चित्तहारिणी ।  
 स्वामितुल्यश्च जारश्च नवज्ञा गृहिणीसमा ॥ १६७  ॥  
   
-संबन्धो देशभेदे च सर्वदेशे विगर्हितः ।  
+सम्बन्धो देशभेदे च सर्वदेशे विगर्हितः ।  
 अवैदिको निन्दतस्तु विश्वमित्रेण निर्मितः ॥ १६८ ॥   
 दुस्त्यजश्च महद्भिस्तु देशभेदे विधीयते ।  
 अकीर्तिजनकः पुंसां योषितां च विशेषतः ॥ १६९  ॥  
@@ -116,7 +116,7 @@ title = "जातिसम्बन्धम् (ब्रह्मवैवर
 तेजीयसां न दोषाय विद्यमाने युगे युगे ॥ १७०  ॥  
   
 इति श्रीब्रह्मवैवर्ते महापुराणे सौतिशौनकसंवादे ब्रह्मखण्डे  
-जातिसंबन्धनिर्णयो नाम् दशमोऽध्यायः ॥ १०॥  
+जातिसम्बन्धनिर्णयो नाम् दशमोऽध्यायः ॥ १०॥  
   
   
 Encoded and proofread by   

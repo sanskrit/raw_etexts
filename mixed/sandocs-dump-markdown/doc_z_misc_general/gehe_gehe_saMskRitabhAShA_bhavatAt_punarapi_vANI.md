@@ -1,23 +1,23 @@
-+++
-"Text title" = "Gehe Gehe Samskritabhasha Bhavatat Punarapi Vani"
-"File name" = "gehegehesaMskRRitabhAShAbhavatAtpunarapivANI.itx"
-itxtitle = "gehe gehe saMskRitabhAShA bhavatAt punarapi vANI"
-engtitle = "gehegehesaMskRRitabhAShAbhavatAtpunarapivANI"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "AchArya rAdhAkRiShNa manoDI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Volunteers at Bharat Vikas Parishad https://bvpindia.com"
-Indexextra = "(Text, Video, BVP Intro)"
-Acknowledge-Permission = "Bharat Vikas Parishad https://bvpindia.com Atam Dev"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गेहे गेहे संस्कृइतभाषा भवतात् पुनरपि वाणी"
+---
+Acknowledge-Permission: Bharat Vikas Parishad https://bvpindia.com Atam Dev
+Author: AchArya rAdhAkRiShNa manoDI
+Category: misc, sanskritgeet
+File name: gehegehesaMskRRitabhAShAbhavatAtpunarapivANI.itx
+Indexextra: (Text, Video, BVP Intro)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Gehe Gehe Samskritabhasha Bhavatat Punarapi Vani
+Transliterated by: Volunteers at Bharat Vikas Parishad https://bvpindia.com
+engtitle: gehegehesaMskRRitabhAShAbhavatAtpunarapivANI
+itxtitle: gehe gehe saMskRitabhAShA bhavatAt punarapi vANI
+title: गेहे गेहे संस्कृइतभाषा भवतात् पुनरपि वाणी
 
-+++
+---
   
  गेहे गेहे संस्कृतभाषा भवतात् पुनरपि वाणी   
 गेहे गेहे संस्कृतभाषा भवतात् पुनरपि वाणी ।  

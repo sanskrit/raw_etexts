@@ -3,7 +3,6 @@ title: 013 Hanuma starts to search in Ashoka garden
 title_english: 013 Hanuma starts to search in Ashoka garden
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-013-Hanuma_starts_to_search_in_Ashoka_garden.mp3"></div>
 
 विमानात् तु सुसम्क्रम्य प्राकारम् हरि यूथपः ।  
@@ -61,7 +60,7 @@ title_english: 013 Hanuma starts to search in Ashoka garden
 भरतम् च मृतम् दृष्ट्वा शत्रुघ्नो न भविष्यति ।  
 पुत्रान् मृतान् समीक्ष्य अथ न भविष्यन्ति मातरः ॥ ५-१३-२७  
 कौसल्या च सुमित्रा च कैकेयी च न संशयः ।  
-कृतज्ञः सत्य संधः च सुग्रीवः प्लवग अधिपः ॥ ५-१३-२८  
+कृतज्ञः सत्य सन्धः च सुग्रीवः प्लवग अधिपः ॥ ५-१३-२८  
 रामम् तथा गतम् दृष्ट्वा ततः त्यक्ष्यन्ति जीवितम् ।  
 दुर्मना व्यथिता दीना निरानन्दा तपस्विनी ॥ ५-१३-२९  
 पीडिता भर्तृ शोकेन रुमा त्यक्ष्यति जीवितम् ।  

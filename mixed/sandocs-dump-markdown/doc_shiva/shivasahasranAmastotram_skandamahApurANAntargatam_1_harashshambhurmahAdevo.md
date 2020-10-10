@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivasahasranAmastotra from Skandamahapurana"
-"File name" = "shivasahasranAmastotraskanda.itx"
-itxtitle = "shivasahasranAmastotram (skandamahApurANAntargatam 1 harashshambhurmahAdevo)"
-engtitle = "shivasahasranAmastotram from skandamahApurANa"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, Sivakumar"
-"Proofread by" = "DPD, Sivakumar"
-"Description/comments" = "skandamahApurANe shaNkarasaMhitAyAM shivarahasyakhaNDe upadeshakANDe"
-"Latest update" = "December 30, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसहस्रनामस्तोत्रम् (स्कन्दमहापुराणान्तर्गतम् १ हरश्शम्भुर्महादेवो)"
+---
+Category: sahasranAma, shiva
+Description/comments: skandamahApurANe shaNkarasaMhitAyAM shivarahasyakhaNDe upadeshakANDe
+File name: shivasahasranAmastotraskanda.itx
+Language: Sanskrit
+Latest update: December 30, 2017
+Location: doc_shiva
+Proofread by: DPD, Sivakumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivasahasranAmastotra from Skandamahapurana
+Transliterated by: DPD, Sivakumar
+engtitle: shivasahasranAmastotram from skandamahApurANa
+itxtitle: shivasahasranAmastotram (skandamahApurANAntargatam 1 harashshambhurmahAdevo)
+title: शिवसहस्रनामस्तोत्रम् (स्कन्दमहापुराणान्तर्गतम् १ हरश्शम्भुर्महादेवो)
 
-+++
+---
   
  श्रीशिवसहस्रनामस्तोत्रम् स्कन्दमहापुराणान्तर्गतम्   
 (श्रीस्कन्दमहापुराणे शङ्करसंहितायां शिवरहस्यखण्डे उपदेशकाण्डे)  

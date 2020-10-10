@@ -1,26 +1,26 @@
-+++
-"Text title" = "bhiishhmastuti"
-"File name" = "bhiishhmastuti.itx"
-itxtitle = "bhIShmastutiH"
-engtitle = "bhIShma stuti"
-Category = "purana, stotra, vyAsa"
-Location = "doc_purana"
-Sublocation = "purana"
-Texttype = "stotra"
-Author = "Vyasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vijayaraghavan Bashyam"
-"Proofread by" = "Vijayaraghavan Bashyam"
-Description-comments = "Bhishma@s prayer before his last breath."
-Source = "Bhagavata Purana"
-Indexextra = "(bhAgAvta purANa 1-25)"
-"Latest update" = "May 1, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भीष्मस्तुतिः"
+---
+Author: Vyasa
+Category: purana, stotra, vyAsa
+Description-comments: Bhishma@s prayer before his last breath.
+File name: bhiishhmastuti.itx
+Indexextra: (bhAgAvta purANa 1-25)
+Language: Sanskrit
+Latest update: May 1, 2001
+Location: doc_purana
+Proofread by: Vijayaraghavan Bashyam
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Bhagavata Purana
+Subject: philosophy/hinduism/religion
+Sublocation: purana
+Text title: bhiishhmastuti
+Texttype: stotra
+Transliterated by: Vijayaraghavan Bashyam
+engtitle: bhIShma stuti
+itxtitle: bhIShmastutiH
+title: भीष्मस्तुतिः
 
-+++
+---
   
  भीष्मस्तुती   
   
@@ -33,7 +33,7 @@ title = "भीष्मस्तुतिः"
 त्रिभुवनकमनं तमालवर्णं रविकरगौरवराम्बरं दधाने ।  
 वपुरलककुलावृताननाब्जं विजयसखे रतिरस्तु मेऽनवद्या ॥ ३३॥  
   
-युधि तुरगरजोविधूम्रविष्वक्कचलुलितश्रमवार्यलंकृतास्ये ।  
+युधि तुरगरजोविधूम्रविष्वक्कचलुलितश्रमवार्यलङ्कृतास्ये ।  
 मम निशितशरैर्विभिद्यमानत्वचि विलसत्कवचेऽस्तु कृष्ण आत्मा ॥ ३४॥  
   
 सपदि सखिवचो निशम्य मध्ये निजपरयोर्बलयो रथं निवेश्य ।  
@@ -54,7 +54,7 @@ title = "भीष्मस्तुतिः"
 ललित गति विलास वल्गुहास प्रणय निरीक्षण कल्पितोरुमानाः ।  
 कृतमनुकृतवत्य उन्मदान्धाः प्रकृतिमगन् किल यस्य गोपवध्वः ॥ ४०॥  
   
-मुनिगणनृपवर्यसंकुलेऽन्तः सदसि युधिष्ठिरराजसूय एषाम् ।  
+मुनिगणनृपवर्यसङ्कुलेऽन्तः सदसि युधिष्ठिरराजसूय एषाम् ।  
 अर्हणमुपपेद ईक्षणीयो मम दृशि गोचर एष आविरात्मा ॥ ४१॥  
   
 तमिममहमजं शरीरभाजां हृदिहृदि  

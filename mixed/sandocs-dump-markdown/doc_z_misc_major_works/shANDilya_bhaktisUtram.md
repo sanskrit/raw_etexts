@@ -1,22 +1,22 @@
-+++
-"Text title" = "shANDilya bhaktisUtram"
-"File name" = "shandilya-bs.itx"
-itxtitle = "shANDilya bhaktisUtram"
-engtitle = "shANDilya bhakti sUtram"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Anshuman Pandey pandey at umich.edu"
-"Proofread by" = "Anshuman Pandey pandey at umich.edu"
-"Latest update" = "August 14, 1996"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शाण्डिल्य भक्तिसूत्रम्"
+---
+Category: major_works
+File name: shandilya-bs.itx
+Language: Sanskrit
+Latest update: August 14, 1996
+Location: doc_z_misc_major_works
+Proofread by: Anshuman Pandey pandey at umich.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: major_works
+Text title: shANDilya bhaktisUtram
+Texttype: pramukha
+Transliterated by: Anshuman Pandey pandey at umich.edu
+engtitle: shANDilya bhakti sUtram
+itxtitle: shANDilya bhaktisUtram
+title: शाण्डिल्य भक्तिसूत्रम्
 
-+++
+---
   
  शाण्डिल्य भक्ति सूत्रम्   
   

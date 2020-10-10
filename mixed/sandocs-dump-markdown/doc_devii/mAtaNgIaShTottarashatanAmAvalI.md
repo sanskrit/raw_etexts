@@ -1,26 +1,26 @@
-+++
-"Text title" = "mAtangIaShTottarashatanAmAvalI"
-"File name" = "mAtangIaShTottarashatanAmAvalI.itx"
-itxtitle = "mAtaNgIaShTottarashatanAmAvalI"
-engtitle = "mAtangIaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anand senartcon at gmail.com"
-"Proofread by" = "Anand senartcon at gmail.com"
-Description-comments = "Editor Ramadatta Shukla, Ritashila Sharma"
-Source = "dashamahAvidyA aShTottarashatanAmAvalI"
-Acknowledge-Permission = "Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga"
-"Latest update" = "September 13, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातण्गीअष्टोत्तरशतनामावली"
+---
+Acknowledge-Permission: Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI
+Description-comments: Editor Ramadatta Shukla, Ritashila Sharma
+File name: mAtangIaShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: September 13, 2015
+Location: doc_devii
+Proofread by: Anand senartcon at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: dashamahAvidyA aShTottarashatanAmAvalI
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mAtangIaShTottarashatanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Anand senartcon at gmail.com
+engtitle: mAtangIaShTottarashatanAmAvalI
+itxtitle: mAtaNgIaShTottarashatanAmAvalI
+title: मातण्गीअष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीमातङ्गीअष्टोत्तरशतनामावली   
 श्रीमहामत्तमातङ्गिन्यै नमः ।  
@@ -104,7 +104,7 @@ title = "मातण्गीअष्टोत्तरशतनामाव�
 श्रीमहाशेषयज्ञोपवीतप्रियायै नमः ।  
 श्रीजयन्तीजयाजाग्रतीयोग्यरूपायै नमः । ८०  
 श्रीजयाङ्गायै नमः ।  
-श्रीजपध्यानसन्तुष्टसंज्ञायै नमः ।  
+श्रीजपध्यानसन्तुष्टसञ्ज्ञायै नमः ।  
 श्रीजयप्राणरूपायै नमः ।  
 श्रीजयस्वर्णदेहायै नमः ।  
 श्रीजयज्वालिन्यै नमः ।  

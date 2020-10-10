@@ -1,22 +1,22 @@
-+++
-"Text title" = "devasenAsahasranAmastotram"
-"File name" = "devasenAsahasranAmastotram.itx"
-itxtitle = "devasenAsahasranAmastotram"
-engtitle = "devasenAsahasranAmastotram"
-Category = "sahasranAma, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-Description-comments = "skAnde shaNkarasaMhitAtaH"
-"Latest update" = "June 30, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवसेनासहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, subrahmanya
+Description-comments: skAnde shaNkarasaMhitAtaH
+File name: devasenAsahasranAmastotram.itx
+Language: Sanskrit
+Latest update: June 30, 2017
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: devasenAsahasranAmastotram
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: devasenAsahasranAmastotram
+itxtitle: devasenAsahasranAmastotram
+title: देवसेनासहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीदेवसेनासहस्रनामस्तोत्रम्   
 दकारादिथकारान्तवर्णादिनामानि  

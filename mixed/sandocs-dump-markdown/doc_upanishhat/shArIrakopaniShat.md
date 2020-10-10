@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shariraka Upanishad"
-"File name" = "shaariiraka.itx"
-itxtitle = "shArIrakopaniShat"
-engtitle = "Shariraka Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "62/108; Krishna-Yajurveda; Samanya Upanishad"
-"Latest update" = "October 20, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारीरकोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 62/108; Krishna-Yajurveda; Samanya Upanishad
+File name: shaariiraka.itx
+Language: Sanskrit
+Latest update: October 20, 1999
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Shariraka Upanishad
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Shariraka Upanishad
+itxtitle: shArIrakopaniShat
+title: शारीरकोपनिषत्
 
-+++
+---
   
  शारीरकोपनिषत्   
   
@@ -30,7 +30,7 @@ title = "शारीरकोपनिषत्"
 ॐ   शान्तिः   शान्तिः   शान्तिः ॥  
   
 ॐ अथातः पृथिव्यादिमहाभूतानां समवायं शरीरम् ।  
-यत्कठिनं सा पृथिवी यद्द्रवं तदापो यदुष्णं तत्तेजो यत्संचरति  
+यत्कठिनं सा पृथिवी यद्द्रवं तदापो यदुष्णं तत्तेजो यत्सञ्चरति  
 स वायुर्यत्सुषिअरं तदाकाशम्  
 श्रोत्रादीनि ज्ञानेन्द्रियाणि । श्रोत्रमाकाशे वायौ त्वगग्नौ चक्षुरप्सु  
 जिह्वा पृथिव्यां घ्राणमिति ।  

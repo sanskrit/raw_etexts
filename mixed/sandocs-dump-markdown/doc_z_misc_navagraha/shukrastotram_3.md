@@ -1,22 +1,22 @@
-+++
-"Text title" = "shukrastotram 3"
-"File name" = "shukrastotram3.itx"
-itxtitle = "shukrastotram 3"
-engtitle = "shukrastotram 3"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "BhaktivivekasAra"
-Indexextra = "(Scanned)"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शुक्रस्तोत्रम् ३"
+---
+Category: navagraha
+Description/comments: BhaktivivekasAra
+File name: shukrastotram3.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shukrastotram 3
+engtitle: shukrastotram 3
+itxtitle: shukrastotram 3
+title: शुक्रस्तोत्रम् ३
 
-+++
+---
   
  शुक्रस्तोत्रम् ३   
 ॐ कवीश्वर नमस्तुभ्यं हव्यकव्यविदां वर ।  

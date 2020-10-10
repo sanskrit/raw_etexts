@@ -1,22 +1,22 @@
-+++
-"Text title" = "Anamayastotra"
-"File name" = "anAmayastotram.itx"
-itxtitle = "anAmayastotram (daNDivirachitam)"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Dandin"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Stutisanchaya"
-"Latest update" = "August 22, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अनामयस्तोत्रम् (दण्डिविरचितम्)"
+---
+Author: Dandin
+Category: shiva
+File name: anAmayastotram.itx
+Language: Sanskrit
+Latest update: August 22, 2015
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stutisanchaya
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Anamayastotra
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+itxtitle: anAmayastotram (daNDivirachitam)
+title: अनामयस्तोत्रम् (दण्डिविरचितम्)
 
-+++
+---
   
  अनामयस्तोत्रम्   
 तृष्णातन्त्रे मनसि तमसा दुर्दिने बन्धुवर्ती  

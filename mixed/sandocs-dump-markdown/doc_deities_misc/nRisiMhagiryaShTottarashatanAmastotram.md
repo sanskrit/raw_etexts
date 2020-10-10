@@ -1,22 +1,22 @@
-+++
-"Text title" = "nRisimhagiriaShTottarashatanAmastotra"
-"File name" = "nRisimhagiriaShTottara.itx"
-itxtitle = "nRisiMhagiryaShTottarashatanAmastotram"
-engtitle = "nRisimhagiriaShTottarashatanAmastotra"
-Category = "aShTottarashatanAma, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Latest update" = "January 4, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहगिर्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Traditional
+Category: aShTottarashatanAma, deities_misc
+File name: nRisimhagiriaShTottara.itx
+Language: Sanskrit
+Latest update: January 4, 2015
+Location: doc_deities_misc
+Proofread by: Nat Natarajan nat.natarajan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: nRisimhagiriaShTottarashatanAmastotra
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: nRisimhagiriaShTottarashatanAmastotra
+itxtitle: nRisiMhagiryaShTottarashatanAmastotram
+title: नृइसिंहगिर्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीनृसिंहगिरिमहामण्डलेश्वराष्टोत्तरशतनामस्तोत्रम्   
   
@@ -88,7 +88,7 @@ title = "नृइसिंहगिर्यष्टोत्तरशतन�
 तत्त्वमस्यादिवाक्योत्थदिव्यज्ञानप्रदायकः ॥ २२॥  
   
 गिरीशानन्दसम्प्राप्तपरमहंसपरम्परा  
-जनार्दनगिरिब्रह्यसंन्यासाश्रमदीक्षितः ॥ २३॥  
+जनार्दनगिरिब्रह्यसन्न्यासाश्रमदीक्षितः ॥ २३॥  
   
 मण्डलेशकुलश्रेष्ठजयेन्द्रपुरीसंस्तुतः ।  
 रामानन्दगिरिस्थानस्थापितो मण्डलेश्वरः ॥ २४॥  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shanmukha Manasa Puja 2"
-"File name" = "ShaNmukhamAnasapUjA2.itx"
-itxtitle = "ShaNmukhamAnasapUjA 2 (ANDavanpichchaiammAL kRitA)"
-engtitle = "ShaNmukhamAnasapUjA 2"
-Category = "subrahmanya, pUjA"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Latest update" = "March 6, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षण्मुखमानसपूजा २ (आण्डवन्पिच्चैअम्माळ् कृइता)"
+---
+Category: subrahmanya, pUjA
+File name: ShaNmukhamAnasapUjA2.itx
+Language: Sanskrit
+Latest update: March 6, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Shanmukha Manasa Puja 2
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: ShaNmukhamAnasapUjA 2
+itxtitle: ShaNmukhamAnasapUjA 2 (ANDavanpichchaiammAL kRitA)
+title: षण्मुखमानसपूजा २ (आण्डवन्पिच्चैअम्माळ् कृइता)
 
-+++
+---
   
  श्रीषण्मुखमानसपूजा २   
 ॐ श्रीगणेशाय नमः ।  

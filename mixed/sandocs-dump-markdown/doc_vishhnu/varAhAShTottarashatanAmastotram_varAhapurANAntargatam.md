@@ -1,23 +1,23 @@
-+++
-"Text title" = "varAhAShTottarashatanAmastotram"
-"File name" = "varAhAShTottarashatanAmastotram.itx"
-itxtitle = "varAhAShTottarashatanAmastotram (varAhapurANAntargatam)"
-engtitle = "varAhAShTottarashatanAmastotram"
-Category = "vishhnu, aShTottarashatanAma, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Source = "varAhapurANe shrImuShNamAhAtmye"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वराहाष्टोत्तरशतनामस्तोत्रम् (वराहपुराणान्तर्गतम्)"
+---
+Category: vishhnu, aShTottarashatanAma, dashAvatAra
+File name: varAhAShTottarashatanAmastotram.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: varAhapurANe shrImuShNamAhAtmye
+SubDeity: dashAvatara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: varAhAShTottarashatanAmastotram
+engtitle: varAhAShTottarashatanAmastotram
+itxtitle: varAhAShTottarashatanAmastotram (varAhapurANAntargatam)
+title: वराहाष्टोत्तरशतनामस्तोत्रम् (वराहपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीवराहाष्टोत्तरशतनामस्तोत्रम्   
   

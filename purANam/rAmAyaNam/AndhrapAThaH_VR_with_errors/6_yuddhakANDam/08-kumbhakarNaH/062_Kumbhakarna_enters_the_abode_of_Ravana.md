@@ -3,7 +3,6 @@ title: 062 Kumbhakarna enters the abode of Ravana
 title_english: 062 Kumbhakarna enters the abode of Ravana
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-062-Kumbhakarna_enters_the_abode_of_Ravana_0.mp3"></div>
 
 स तु राक्षसशार्दूलो निद्रामदसमाकुलः ।  
@@ -15,7 +14,7 @@ title_english: 062 Kumbhakarna enters the abode of Ravana
 स तत्तदा सूर्य इवाभ्रजालम् ।  
 प्रविश्य रक्षोधिपतेर्निवेशनम् ।  
 ददर्श दूरेऽग्रजमासनस्थम् ।  
-स्वयंभुवम् शक्र इवासनस्थम् ॥ ६-६२-४  
+स्वयम्भुवम् शक्र इवासनस्थम् ॥ ६-६२-४  
 भ्रातुः स भवनं गच्छन् रक्षोगणसमन्वितः ।  
 कुम्भकर्णः पदन्यासैरकम्पयत् मेदिनीम् ॥ ६-६२-५  
 सोऽभिगम्य गृहम् भ्रातुः कक्ष्यामभिविगाह्य च ।  
@@ -40,7 +39,7 @@ title_english: 062 Kumbhakarna enters the abode of Ravana
 हन्त पश्यस्व लङ्कया वनान्युपवनानि च ॥ ६-६२-१५  
 सेतुना सुखमागत्य वानरैकार्णवम् कृतम् ।  
 ये राक्षसा मुख्यतमा हतास्ते वानरैर्युधि ॥ ६-६२-१६  
-वानराणाम् क्षयम् युधे न पश्यामि कथंचन ।  
+वानराणाम् क्षयम् युधे न पश्यामि कथञ्चन ।  
 न चापि वानरा युद्धे जितपूर्वाः कदाचन ॥ ६-६२-१७  
 तदेतद्भयमुत्पन्नम् त्रायस्वेह महाबल ।  
 नाशय त्वमिमानद्य तदर्थम् बोधितो भवान् ॥ ६-६२-१८  

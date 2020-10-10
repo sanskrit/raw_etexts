@@ -1,20 +1,20 @@
-+++
-"Text title" = "Varahi Dvadasha Nama Stotram"
-"File name" = "vArAhIdvAdashanAmastotram.itx"
-itxtitle = "vArAhIdvAdashanAmastotram"
-engtitle = "vArAhIdvAdashanAmastotram"
-Category = "devii, devI, otherforms, dvAdasha"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Meaning)"
-"Latest update" = "July 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाराहीद्वादशनामस्तोत्रम्"
+---
+Category: devii, devI, otherforms, dvAdasha
+File name: vArAhIdvAdashanAmastotram.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: July 7, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Varahi Dvadasha Nama Stotram
+engtitle: vArAhIdvAdashanAmastotram
+itxtitle: vArAhIdvAdashanAmastotram
+title: वाराहीद्वादशनामस्तोत्रम्
 
-+++
+---
   
  श्रीवाराहीद्वादशनामस्तोत्रम्   
 अस्य श्रीवाराही द्वादशनामस्तोत्रस्य अश्वानन ऋषिः ।  

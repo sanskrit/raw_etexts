@@ -1,25 +1,25 @@
-+++
-"Text title" = "kAkinI aShTottarasahasranAmastotra"
-"File name" = "kAkinIshvarasahasra.itx"
-itxtitle = "kAkinyaShTottarasahasranAmastotram"
-engtitle = "kAkinI aShTottarasahasranAmastotra"
-Category = "sahasranAma, devii, ShaTchakrashakti, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mark S.G. Dyczkowski muktAbodha"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale uttaratantre bhairava bhairavI sa.nvAde"
-"Latest update" = "May 25, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "काकिन्यष्टोत्तरसहस्रनामस्तोत्रम्"
+---
+Author: Traditional
+Category: sahasranAma, devii, ShaTchakrashakti, stotra, devI
+Description-comments: rudrayAmale uttaratantre bhairava bhairavI sa.nvAde
+File name: kAkinIshvarasahasra.itx
+Language: Sanskrit
+Latest update: May 25, 2009
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAkinI aShTottarasahasranAmastotra
+Texttype: stotra
+Transliterated by: Mark S.G. Dyczkowski muktAbodha
+engtitle: kAkinI aShTottarasahasranAmastotra
+itxtitle: kAkinyaShTottarasahasranAmastotram
+title: काकिन्यष्टोत्तरसहस्रनामस्तोत्रम्
 
-+++
+---
   
  काकिन्यष्टोत्तरसहस्रनामस्तोत्र   
   
@@ -666,7 +666,7 @@ title = "काकिन्यष्टोत्तरसहस्रनाम�
 क्षपाकरललाटधृक् स्वसुखमार्गसन्दायिनी ॥ २१० ॥  
   
 श्मशानतटनिष्पट प्रचटहासकालङ्कृता  
-हठत्शठमनस्तटे सुरकपाटसंछेदकः ।  
+हठत्शठमनस्तटे सुरकपाटसञ्छेदकः ।  
 स्मराननविवर्धनः प्रियवसन्तसम्बायवी  
 विराजितमुखाम्बुजः कमलमञ्जसिंहासना ॥ २११ ॥  
   

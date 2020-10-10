@@ -1,22 +1,23 @@
-+++
-"Text title" = "tripurasundarImAnasapUjanastotram"
-"File name" = "tripurasundarImAnasapUjanastotram.itx"
-itxtitle = "tripurasundarImAnasapUjanastotram (sAmarAjadIkShitavirachitam)"
-engtitle = "tripurasundarImAnasapUjanastotram"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "sAmarAjadIkShita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "March 23, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरसुन्दरीमानसपूजनस्तोत्रम् (सामराजदीक्षितविरचितम्)"
+---
+Author: sAmarAjadIkShita
+Category: devii, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: tripurasundarImAnasapUjanastotram.itx
+Language: Sanskrit
+Latest update: March 23, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tripurasundarImAnasapUjanastotram
+engtitle: tripurasundarImAnasapUjanastotram
+itxtitle: tripurasundarImAnasapUjanastotram (sAmarAjadIkShitavirachitam)
+title: त्रिपुरसुन्दरीमानसपूजनस्तोत्रम् (सामराजदीक्षितविरचितम्)
 
-+++
+---
   
  त्रिपुरसुन्दरीमानसपूजनस्तोत्रम्   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "kAlIshatanAmastotram"
-"File name" = "kAlIshatanAmastotram.itx"
-itxtitle = "kAlIshatanAmastotram"
-engtitle = "kAlIshatanAmastotram"
-Category = "aShTottarashatanAma, devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 1)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालीशतनामस्तोत्रम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: aShTottarashatanAma, devii, devI, dashamahAvidyA
+File name: kAlIshatanAmastotram.itx
+Indexextra: (stotramanjari 1)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAlIshatanAmastotram
+Transliterated by: Shree Devi Kumar
+engtitle: kAlIshatanAmastotram
+itxtitle: kAlIshatanAmastotram
+title: कालीशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीकालीशतनामस्तोत्रम्   
   

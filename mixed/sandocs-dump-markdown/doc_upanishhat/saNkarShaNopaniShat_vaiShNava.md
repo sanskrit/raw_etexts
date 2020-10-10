@@ -1,34 +1,34 @@
-+++
-"Text title" = "sankarShaNopaniShat"
-"File name" = "sankarShaNopaniShat.itx"
-itxtitle = "saNkarShaNopaniShat (vaiShNava)"
-engtitle = "sankarShaNopaniShat"
-Category = "upanishhat, vishhnu, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सण्कर्षणोपनिषत् (वैष्णव)"
+---
+Category: upanishhat, vishhnu, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: sankarShaNopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: sankarShaNopaniShat
+engtitle: sankarShaNopaniShat
+itxtitle: saNkarShaNopaniShat (vaiShNava)
+title: सण्कर्षणोपनिषत् (वैष्णव)
 
-+++
+---
   
  सङ्कर्षणोपनिषत्   
 अथ तद्विष्णोः इति शान्तिः । अथ सङ्कर्षणोपनिषदुच्यते । शेषो ह  
 वै वासुदेवात्सङ्कर्षणो नाम जात आसीत् । सोऽकामयत प्रजाः सृजेयेति ।  
-ततः प्रद्युम्नसंज्ञं मन आसीत् । तस्मादहङ्कारनामाऽनिरुद्धः ।  
+ततः प्रद्युम्नसञ्ज्ञं मन आसीत् । तस्मादहङ्कारनामाऽनिरुद्धः ।  
 ततो हिरण्यगर्भोऽजायत । तस्माद्दश प्रजापतयो मरीच्यादयः  
 स्थाणुदक्षकर्दमप्रियव्रतोत्तानपादादयोऽप्यजायन्त । तेभ्यः  
 सर्वाणि भूतानि च । तस्माच्छेषादेव सर्वाणि समुत्पद्यन्ते ।  
 तस्मिन्नेव प्रलीयन्ते । स एव बहुधा जायमानः सर्वान् परिपाति ।  
 स एव काद्रवेयो व्याकरणज्यौतिषादिशास्त्राणि निर्मिमाणो  
 बहुभिर्मुमुक्षुभिरुपास्यमानोऽखिलां भुवमेकस्मिन् शीर्ष्णि  
-सिद्धार्थवद्धार- यमाणस्सर्वैर्मुनिभिः संप्रार्थ्यमानः  
+सिद्धार्थवद्धार- यमाणस्सर्वैर्मुनिभिः सम्प्रार्थ्यमानः  
 सहस्रशिखरमेरोश्शिरोभिर्वारयमाणो महावायोरहङ्कारं निराचकार ।  
 स भगवान् युगसन्धिकाले स्वेन रूपेण युगे युगे तेनैव जायमानः  
 स्वयमेव सौमित्रिरैक्ष्वाके (वंशे जा)यमा(नो) रक्षांसि सर्वाणि  

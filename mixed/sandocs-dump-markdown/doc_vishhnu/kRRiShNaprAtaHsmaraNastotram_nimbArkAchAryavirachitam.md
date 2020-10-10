@@ -1,21 +1,21 @@
-+++
-"Text title" = "kRRiShNaprAtaHsmaraNastotram"
-"File name" = "kRRiShNaprAtaHsmaraNastotram.itx"
-itxtitle = "kRRiShNaprAtaHsmaraNastotram (nimbArkAchAryavirachitam)"
-engtitle = "kRRiShNaprAtaHsmaraNastotram"
-Category = "vishhnu, suprabhAta, krishna, nimbArkAchArya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Nimbarkacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "January 12, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृष्णप्रातःस्मरणस्तोत्रम् (निम्बार्काचार्यविरचितम्)"
+---
+Author: Nimbarkacharya
+Category: vishhnu, suprabhAta, krishna, nimbArkAchArya
+File name: kRRiShNaprAtaHsmaraNastotram.itx
+Language: Sanskrit
+Latest update: January 12, 2019
+Location: doc_vishhnu
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNaprAtaHsmaraNastotram
+engtitle: kRRiShNaprAtaHsmaraNastotram
+itxtitle: kRRiShNaprAtaHsmaraNastotram (nimbArkAchAryavirachitam)
+title: कृष्णप्रातःस्मरणस्तोत्रम् (निम्बार्काचार्यविरचितम्)
 
-+++
+---
   
  श्रीकृष्णप्रातःस्मरणस्तोत्रम्   
 प्रातः स्मरामि युगकेलिरसाभिषिक्तं  

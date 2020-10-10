@@ -1,22 +1,22 @@
-+++
-"Text title" = "chaturviMshatimUrtistotram"
-"File name" = "chaturviMshatimUrtistotram.itx"
-itxtitle = "chaturviMshatimUrtistotram (agnipurANAntargatam)"
-engtitle = "chaturviMshatimUrtistotram"
-Category = "vishhnu, vishnu, chaturviMshati"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Agnipurana, adhyAya 48"
-"Latest update" = "January 16, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चतुर्विंशतिमूर्तिस्तोत्रम् (अग्निपुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: vishhnu, vishnu, chaturviMshati
+File name: chaturviMshatimUrtistotram.itx
+Language: Sanskrit
+Latest update: January 16, 2017
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Agnipurana, adhyAya 48
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: chaturviMshatimUrtistotram
+engtitle: chaturviMshatimUrtistotram
+itxtitle: chaturviMshatimUrtistotram (agnipurANAntargatam)
+title: चतुर्विंशतिमूर्तिस्तोत्रम् (अग्निपुराणान्तर्गतम्)
 
-+++
+---
   
  चतुर्विंशतिमूर्तिस्तोत्रम्   
 श्रीभगवानुवाच -  

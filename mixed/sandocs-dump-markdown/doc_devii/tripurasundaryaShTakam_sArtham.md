@@ -1,25 +1,26 @@
-+++
-"Text title" = "tripurasundari aShTakaM"
-"File name" = "tripurasun8mean.itx"
-itxtitle = "tripurasundaryaShTakam (sArtham)"
-engtitle = "Tripurasundari Ashtakam with meaning"
-Category = "aShTaka, devii, dashamahAvidyA, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "M. Giridhar giridhar at chemeng.iisc.ernet.in and Trasnlation by Narayanaswami (swami at math.mun.ca)"
-"Proofread by" = "Giridhar and Narayanaswami"
-Description-comments = "A Hymn of worship to Goddess Tripurasundari"
-Indexextra = "(with translation)"
-"Latest update" = "July 10, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरसुन्दर्यष्टकम् (सार्थम्)"
+---
+Author: Adi Shankaracharya
+Category: aShTaka, devii, dashamahAvidyA, shankarAchArya, devI
+Description-comments: A Hymn of worship to Goddess Tripurasundari
+File name: tripurasun8mean.itx
+Indexextra: (with translation)
+Language: Sanskrit
+Latest update: July 10, 2000
+Location: doc_devii
+Proofread by: Giridhar and Narayanaswami
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: hinduism/religion
+Sublocation: devii
+Text title: tripurasundari aShTakaM
+Transliterated by: M. Giridhar giridhar at chemeng.iisc.ernet.in and Trasnlation by
+  Narayanaswami (swami at math.mun.ca)
+engtitle: Tripurasundari Ashtakam with meaning
+itxtitle: tripurasundaryaShTakam (sArtham)
+title: त्रिपुरसुन्दर्यष्टकम् (सार्थम्)
 
-+++
+---
   
  सार्थ त्रिपुरसुन्दरि अष्टकं   
   
@@ -88,8 +89,8 @@ spiritual thirst of the munis (sages).
 जित भूधरां : conquering (excelling) the mountains  
 (whose hip excels the mountain);  
 सुर नितम्बिनी सेवितां :  who is served by celestial damsels;  
-नवांबुरुह लोचनां : whoes eyes resemble fresh lotus;  
-अभिनवांबुद श्यामलां : who is swarthy like the newly formed  
+नवाम्बुरुह लोचनां : whoes eyes resemble fresh lotus;  
+अभिनवाम्बुद श्यामलां : who is swarthy like the newly formed  
 nimbus.  
 त्रिलोचनकुटुम्बिनीं : who belongs to the family of the three-eyed  
 one (Lord shiva);  
@@ -154,9 +155,9 @@ crest jewel;
 त्रिलोचन कुटुम्बिनीं : (as in shlokam  1).  
   
   
-कुचाञ्चितविपञ्चिकां कुटिलकुन्तलालंकृतां  
+कुचाञ्चितविपञ्चिकां कुटिलकुन्तलालङ्कृतां  
 कुशेशयनिवासिनीं कुटिलचित्तविद्वेषिणीम् ।  
-मदारुणविलोचनां मनसिजारिसंमोहिनीं  
+मदारुणविलोचनां मनसिजारिसम्मोहिनीं  
 मतङ्गमुनिकन्यकां मधुरभाषिणीमाश्रये ॥ ५॥  
   
   
@@ -164,7 +165,7 @@ Meaning:\
 (आहं) : I;  
 आश्रये :  seek shelter in  (Her, who is);  
 कुचाञ्चित विपञ्चिकां : with a Vina gracing her bosom;  
-कुटिल कुन्थलालंकृतां :  adorned with curly tresses of hair;  
+कुटिल कुन्थलालङ्कृतां :  adorned with curly tresses of hair;  
 कुशेसय निवासिनीं :  residing in lotus;  
 कुटिल चित्त विद्वेषिणीं : scorning the evil-minded ones;  
 मदाऱुण विलोचनां : reddish eyed from nectar;  
@@ -218,22 +219,22 @@ is included  in the ᳚dhyANa shlokaM᳚ segment of both lalitA
 sahasranAmaM, as well as  lalitA trishati.  
   
   
- पुरन्दरपुरंध्रिकां चिकुरबन्धसैरंध्रिकां  
+ पुरन्दरपुरन्ध्रिकां चिकुरबन्धसैरन्ध्रिकां  
  पितामहपतिव्रतां पटपटीरचर्चारताम् ।  
  मुकुन्दरमणीमणीं लसदलङ्क्रियाकारिणीं  
- भजामि भुवनांबिकां सुरवधूटिकाचेटिकाम् ॥ ८॥  
+ भजामि भुवनाम्बिकां सुरवधूटिकाचेटिकाम् ॥ ८॥  
   
   
 Meaning:\  
 (अहं) : I;  
 भुवनाम्बिकां :  mother of the entire world (dvitIya vibhakti);  
 भजामि : worship (salute) The remaining words qualify the noun ᳚ambikAM᳚;  
-पुरन्दर पुरंध्रिकां :   ruling over the entire srI puraM;  
+पुरन्दर पुरन्ध्रिकां :   ruling over the entire srI puraM;  
 चिकुर बन्ध सैरन्ध्रिकां : who has the celestial queen for plaiting tresses;  
 पितामह पतिव्रतां : consort of Lord brahma;  
 पट पटीर चर्चा रतां :  skilful for anointing sandal paste;  
 मुकुन्द रमणी मनीं : gem of vishNu's spouse;  
-लसद् अलंकृया कारिणीं : adorning with lustrous  gems;  
+लसद् अलङ्कृया कारिणीं : adorning with lustrous  gems;  
 सुरवधूटिका चेटिकां : having heavenly damsels for servant maids.  
   
   

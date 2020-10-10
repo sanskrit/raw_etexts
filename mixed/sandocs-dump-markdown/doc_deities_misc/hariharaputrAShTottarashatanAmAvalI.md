@@ -1,23 +1,23 @@
-+++
-"Text title" = "hariharaputraaShTottarashatanaamaavaliH"
-"File name" = "hariharaputra108avali.itx"
-itxtitle = "hariharaputrAShTottarashatanAmAvalI"
-engtitle = "hariharaputrAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, deities_misc, ayyappa, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "May 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिहरपुत्राष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, deities_misc, ayyappa, nAmAvalI
+File name: hariharaputra108avali.itx
+Language: Sanskrit
+Latest update: May 6, 2018
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: hariharaputraaShTottarashatanaamaavaliH
+Texttype: nAmAvalI
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: hariharaputrAShTottarashatanAmAvalI
+itxtitle: hariharaputrAShTottarashatanAmAvalI
+title: हरिहरपुत्राष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीहरिहरपुत्राष्टोत्तरशतनामावली   
   

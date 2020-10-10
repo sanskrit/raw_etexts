@@ -1,22 +1,22 @@
-+++
-"Text title" = "tvAM namAmi shivanRRipAla"
-"File name" = "tvAMnamAmishivanRRipAla.itx"
-itxtitle = "tvAM namAmi shivanRipAla arthAta shivarAja gItam"
-engtitle = "tvAM namAmi shivanRRipAla"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(Videos 1, 2, 3)"
-"Latest update" = "October 19, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्वां नमामि शिवनृइपाल अर्थात शिवराज गीतम्"
+---
+Category: misc, sanskritgeet
+File name: tvAMnamAmishivanRRipAla.itx
+Indexextra: (Videos 1, 2, 3)
+Language: Sanskrit
+Latest update: October 19, 2019
+Location: doc_z_misc_general
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: tvAM namAmi shivanRRipAla
+Transliterated by: NA
+engtitle: tvAM namAmi shivanRRipAla
+itxtitle: tvAM namAmi shivanRipAla arthAta shivarAja gItam
+title: त्वां नमामि शिवनृइपाल अर्थात शिवराज गीतम्
 
-+++
+---
   
  त्वां नमामि शिवनृपाल   
 त्वां नमामि शिवनृपाल सन्ततं स्मरामि ते ।  

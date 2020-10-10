@@ -1,23 +1,24 @@
-+++
-"Text title" = "achyutAShTakam"
-"File name" = "achyuta81.itx"
-itxtitle = "achyutAShTakam 2 athavA achyutAkhyAShTakam (shrIdharaveNkaTesharachitam abhilapananisargAd)"
-engtitle = "achyutAShTakam"
-Category = "aShTaka, vishhnu, krishna, shrIdhara-venkaTesha, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Sri Sridhara Venkatesa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "August 10, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अच्युताष्टकम् २ अथवा अच्युताख्याष्टकम् (श्रीधरवेण्कटेशरचितम् अभिलपननिसर्गाद्)"
+---
+Author: Sri Sridhara Venkatesa
+Category: aShTaka, vishhnu, krishna, shrIdhara-venkaTesha, vishnu
+File name: achyuta81.itx
+Language: Sanskrit
+Latest update: August 10, 2003
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: achyutAShTakam
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: achyutAShTakam
+itxtitle: achyutAShTakam 2 athavA achyutAkhyAShTakam (shrIdharaveNkaTesharachitam
+  abhilapananisargAd)
+title: अच्युताष्टकम् २ अथवा अच्युताख्याष्टकम् (श्रीधरवेण्कटेशरचितम् अभिलपननिसर्गाद्)
 
-+++
+---
   
  अच्युताष्टकं २   
   
@@ -48,8 +49,8 @@ that it was the Lord's name that worked these wonders.
   
 अभिलपननिसर्गादच्युताख्ये भजे त्वां  
 हरसि मदघबृन्दं त्वद्भुबुक्षावशात् त्वम् ।  
-अघहृदिति तवांब प्रत्युत ख्यातिदोऽहं  
-त्वयि मम वद का वा संगतिर्दैन्यवाचाम् ॥ १॥  
+अघहृदिति तवाम्ब प्रत्युत ख्यातिदोऽहं  
+त्वयि मम वद का वा सङ्गतिर्दैन्यवाचाम् ॥ १॥  
   
 चिरातीता सान्दीपनितनुभुवः कालभवन-  
 प्रपत्तिस्तं पित्रोः पुनरगमयत् सन्निधिमिति ।  
@@ -57,13 +58,13 @@ that it was the Lord's name that worked these wonders.
 यदि श्रीकृष्णाख्ये भजति स तादनीं मुनिसुतः ॥ २॥  
   
 हरेर्यच्चोरत्वं यदपि च तथा जारचरितं  
-तदेतत् सर्वांहस्ततिकृते संकथनतः ।  
+तदेतत् सर्वांहस्ततिकृते सङ्कथनतः ।  
 इतीदं माहात्म्यं मधुमथन ते दीपितमिदं  
 वदन्त्याः कृष्णाख्ये तवहि विचरन्त्या विलसितम् ॥ ३॥  
   
 सभायां द्रौपत्याऽंशुकसृतिभिया तद्रसनया  
 धृता तस्याश्चेलं प्रतनु तदवस्थं विदधती ।  
-व्यतानीश्शैलाभं वसनविसरं चांब हरता-  
+व्यतानीश्शैलाभं वसनविसरं चाम्ब हरता-  
 मियान् गोविन्दाख्ये वद वसनराशिस्तव कुतः ॥ ४॥  
   
 अधिरसनमयि त्वामच्युताख्ये दधानं  
@@ -82,11 +83,11 @@ that it was the Lord's name that worked these wonders.
 वद जननि विना त्वां केन वा किं तदाभूत् ॥ ७॥  
   
 यदेष स्तौमि त्वां त्रियुगचरणत्रायिणि ततो  
-महिम्नः का हानिस्तवतु मम संपन्निरवधिः ।  
+महिम्नः का हानिस्तवतु मम सम्पन्निरवधिः ।  
 शुना लीलाकामं भवति सुरसिन्धुर्भगवती  
-तदेषा किंभूता सतु सपदि सन्तापभरितः ॥ ८॥  
+तदेषा किम्भूता सतु सपदि सन्तापभरितः ॥ ८॥  
   
-इति श्रीश्रीधरवेंकटेशार्यकृतौ अच्युताष्टकं संपूर्णम् ॥  
+इति श्रीश्रीधरवेङ्कटेशार्यकृतौ अच्युताष्टकं सम्पूर्णम् ॥  
   
   
 Encoded and proofread by N. Balasubramanian bbalu at satyam.net.in  

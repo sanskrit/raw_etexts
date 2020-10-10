@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAdhAdAmodaradhyAnam"
-"File name" = "rAdhAdAmodaradhyAnam.itx"
-itxtitle = "rAdhAdAmodaradhyAnam (vrajakishoravirachitam)"
-engtitle = "rAdhAdAmodaradhyAnam"
-Category = "devii, dhyAnam, radha, vishhnu, krishna, devI, vrajakishora"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "Vrajakishora Tripathi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vrajakishora Tripathi"
-"Proofread by" = "Vrajakishora Tripathi"
-"Latest update" = "December 14, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधादामोदरध्यानम् (व्रजकिशोरविरचितम्)"
+---
+Author: Vrajakishora Tripathi
+Category: devii, dhyAnam, radha, vishhnu, krishna, devI, vrajakishora
+File name: rAdhAdAmodaradhyAnam.itx
+Language: Sanskrit
+Latest update: December 14, 2018
+Location: doc_devii
+Proofread by: Vrajakishora Tripathi
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAdAmodaradhyAnam
+Transliterated by: Vrajakishora Tripathi
+engtitle: rAdhAdAmodaradhyAnam
+itxtitle: rAdhAdAmodaradhyAnam (vrajakishoravirachitam)
+title: राधादामोदरध्यानम् (व्रजकिशोरविरचितम्)
 
-+++
+---
   
  श्रीराधादामोदरध्यानम्   
 विश्वब्रह्माण्डकान्तौ सुरमुनिविनुतौ  पापतापादिनिघ्नौ  

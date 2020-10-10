@@ -1,23 +1,24 @@
-+++
-"Text title" = "Rashtra Suktam"
-"File name" = "rAShTrasUktam.itx"
-itxtitle = "rAShTrasUktam (bhAratarAShTragItam)"
-engtitle = "rAShTrasUktam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.) shuklayajurvedaH 22, 22"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राष्ट्रसूक्तम् (भारतराष्ट्रगीतम्)"
+---
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.) shuklayajurvedaH 22, 22
+File name: rAShTrasUktam.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Rashtra Suktam
+Translated by: Mandar Mali
+engtitle: rAShTrasUktam
+itxtitle: rAShTrasUktam (bhAratarAShTragItam)
+title: राष्ट्रसूक्तम् (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  राष्ट्रसूक्तम्   
 ॐ आ ब्रह्मन् ब्राह्मणो ब्रह्मवर्चसी जायतामाराष्ट्रे राजन्यः शूर  

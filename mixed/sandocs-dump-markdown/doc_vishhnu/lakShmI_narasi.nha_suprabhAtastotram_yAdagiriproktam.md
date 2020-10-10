@@ -1,33 +1,34 @@
-+++
-"Text title" = "lakShmI narasi.nha suprabhAta stotram yAdagiri"
-"File name" = "laxminrisimhaSup.itx"
-itxtitle = "lakShmI narasi.nha suprabhAtastotram (yAdagiriproktam)"
-engtitle = "lakShmI narasi.nha suprabhAta stotram (yAdagiri)"
-Category = "vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.mypurohith.com"
-"Proofread by" = "Venkata N Vangeepuram vangeepuram at rediffmail.com Great grandson of the composer"
-"Latest update" = "December 15, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मी नरसिंह सुप्रभातस्तोत्रम् (यादगिरिप्रोक्तम्)"
+---
+Author: Traditional
+Category: vishhnu, dashAvatAra, stotra, vishnu
+File name: laxminrisimhaSup.itx
+Language: Sanskrit
+Latest update: December 15, 2003
+Location: doc_vishhnu
+Proofread by: Venkata N Vangeepuram vangeepuram at rediffmail.com Great grandson of
+  the composer
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: lakShmI narasi.nha suprabhAta stotram yAdagiri
+Texttype: stotra
+Transliterated by: http://www.mypurohith.com
+engtitle: lakShmI narasi.nha suprabhAta stotram (yAdagiri)
+itxtitle: lakShmI narasi.nha suprabhAtastotram (yAdagiriproktam)
+title: लक्ष्मी नरसिंह सुप्रभातस्तोत्रम् (यादगिरिप्रोक्तम्)
 
-+++
+---
   
  श्रीलक्ष्मी नरसिंह सुप्रभातस्तोत्रम् (यादगिरि)   
   
 । श्री यादगिरि लक्ष्मीनृसिंह सुप्रभातम्  
 श्री वङ्गीपुरम् नरसिंहाचार्यरचित ।  
-कौसल्या सुप्रजा राम पूर्वा संध्या प्रवर्तते ।  
+कौसल्या सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते ।  
 उत्तिष्ठ नरशार्दूल! कर्तव्यं दैवमाह्निकम् ॥ १॥  
   
-उत्तिष्ठोत्तिष्ठ गोविंद उत्तिष्ठ गरुडध्वज ।  
+उत्तिष्ठोत्तिष्ठ गोविन्द उत्तिष्ठ गरुडध्वज ।  
 उत्तिष्ठ कमलाकान्त त्रैलोक्यं मङ्गळं कुरु ॥ २॥  
   
 यादाद्रिनाथशुभमन्दिरकल्पवल्लि  
@@ -90,7 +91,7 @@ title = "लक्ष्मी नरसिंह सुप्रभातस्
 विश्वप्रभातकरणाय कृतावतार  
 यादाद्रिनाथ नृहरे! तव सुप्रभातम् ॥ १४॥  
   
-त्वन्नाममन्त्र पठनंकिलसुप्रभातं  
+त्वन्नाममन्त्र पठनङ्किलसुप्रभातं  
 अस्माकमस्तु तवचास्तु च सुप्रभातम् ।  
 अस्मत्समुद्धरणमेव विचित्रगाध  
 यादाद्रिनाथ नृहरे! तव सुप्रभातम् ॥ १५॥  
@@ -121,7 +122,7 @@ title = "लक्ष्मी नरसिंह सुप्रभातस्
 यादाद्रिनाथ नृहरे! तव सुप्रभातम् ॥ २०॥  
   
 पक्षिस्वनाश्चपरितःपरिसम्पतन्ति  
-कूजन्तिकोकिलगणाःकलकंठरावैः ।  
+कूजन्तिकोकिलगणाःकलकण्ठरावैः ।  
 वाचा विशुद्धकलयानुवदन्तिकीराः  
 यादाद्रिनाथ नृहरे! तव सुप्रभातम् ॥ २१॥  
   
@@ -130,7 +131,7 @@ title = "लक्ष्मी नरसिंह सुप्रभातस्
 गोपालबाल इव भक्तहृदम्बुजेषु  
 यादाद्रिनाथ नृहरे! तव सुप्रभातम् ॥ २२॥  
   
-गाढांधकारपटलम् गगनंजहाति  
+गाढान्धकारपटलम् गगनञ्जहाति  
 मोहान्धकार इव सन्मनुजम् समस्तम् ।  
 रागोविराग इव संविशति प्रकामं  
 यादाद्रिनाथ नृहरे! तव सुप्रभातम् ॥ २३॥  

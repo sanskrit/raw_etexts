@@ -1,24 +1,24 @@
-+++
-"Text title" = "108 Names for Patanjali Muni"
-"File name" = "patanjaliaShTottaranAmAvali.itx"
-itxtitle = "patanjalyaShTottarashatanAmAvaliH"
-engtitle = "108 Names praising Patanjali Muni"
-Category = "aShTottarashatanAmAvalI, deities_misc, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "sunder hattangadi sunderh at hotmail dot com"
-"Proofread by" = "sunder hattangadi sunderh at hotmail dot com"
-Indexextra = "(Translation, PDF)"
-"Latest update" = "April 14, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पतञ्जल्यष्टोत्तरशतनामावलिः"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, deities_misc, nAmAvalI
+File name: patanjaliaShTottaranAmAvali.itx
+Indexextra: (Translation, PDF)
+Language: Sanskrit
+Latest update: April 14, 2014
+Location: doc_deities_misc
+Proofread by: sunder hattangadi sunderh at hotmail dot com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: 108 Names for Patanjali Muni
+Texttype: nAmAvalI
+Transliterated by: sunder hattangadi sunderh at hotmail dot com
+engtitle: 108 Names praising Patanjali Muni
+itxtitle: patanjalyaShTottarashatanAmAvaliH
+title: पतञ्जल्यष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीमत्पतञ्जल्यष्टोत्तरशतनामावलिः   
                  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "parA pUjA"
-"File name" = "parApUjA.itx"
-itxtitle = "parApUjA (shaNkarAchAryavirachitA ?)"
-engtitle = "parA pUjA"
-Category = "pUjA, misc, stotra, shankarAchArya, vedanta"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "stotra"
-Author = "Possible incorrect attribution to Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, Sunder Hattangadi"
-"Proofread by" = "DPD, Sunder Hattangadi"
-Description-comments = "with variants from different sources."
-Indexextra = "(Hindi)"
-"Latest update" = "October 28, 2009, May 9, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परापूजा (शण्कराचार्यविरचिता ?)"
+---
+Author: Possible incorrect attribution to Shankaracharya
+Category: pUjA, misc, stotra, shankarAchArya, vedanta
+Description-comments: with variants from different sources.
+File name: parApUjA.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: October 28, 2009, May 9, 2015
+Location: doc_z_misc_general
+Proofread by: DPD, Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: parA pUjA
+Texttype: stotra
+Transliterated by: DPD, Sunder Hattangadi
+engtitle: parA pUjA
+itxtitle: parApUjA (shaNkarAchAryavirachitA ?)
+title: परापूजा (शण्कराचार्यविरचिता ?)
 
-+++
+---
   
  परा पूजा   
 अखण्डे सच्चिदानन्दे निर्विकल्पैकरूपिणि ।  
@@ -44,8 +44,8 @@ var
 नित्यतृप्तस्य नैवेद्यं निष्कामस्य फलं कुतः ।  
 ताम्बूलं च विभोः कुत्र नित्यानन्दस्य दक्षिणा ॥ ५॥  
   
-विश्वानन्दयितुस्तस्य किं तांबूलं प्रकल्पते।  
-स्वयंप्रकाशचिद्रूपो योऽसावर्कादिभासकः ॥ ६॥  
+विश्वानन्दयितुस्तस्य किं ताम्बूलं प्रकल्पते।  
+स्वयम्प्रकाशचिद्रूपो योऽसावर्कादिभासकः ॥ ६॥  
   
 var  
 स्वयं प्रकाशमानस्य कुतो नीराजनविधिः ।  
@@ -59,17 +59,17 @@ var 1
 वेदवाक्यैरवेद्यस्य कुतः स्तोत्रं विधीयते ॥ ७॥  
   
 var 2  
-स्वयंप्रकाशमानस्य कुतो नीराजनं विधिः ।  
+स्वयम्प्रकाशमानस्य कुतो नीराजनं विधिः ।  
 इयमेव परा पूजा शम्भोः सत्यस्वरूपिणः ॥ ७॥  
   
-स्वयंप्रकाशमानस्य कुतो नीराजनं विभोः ।  
+स्वयम्प्रकाशमानस्य कुतो नीराजनं विभोः ।  
 अन्तर्बहिः संस्थितस्योद्वासनविधिः कुतः ॥ ८॥  
   
 var 1 अन्तर्बहिश्च पूर्णस्य कथमुद्वासनं भवेत् ॥ ८॥  
   
 var 2  
 देवो देवालयप्रोक्तो जीवो देवः सदाशिवः ।  
-त्यजेदज्ञाननिर्माल्यं सोहंभावेन पूजयेत् ॥ ८॥  
+त्यजेदज्ञाननिर्माल्यं सोहम्भावेन पूजयेत् ॥ ८॥  
   
 एवमेव परा पूजा सर्वावस्थासु सर्वदा ।  
 एकबुद्ध्या तु देवेश विधेया ब्रह्मवित्तमैः ॥ ९॥  

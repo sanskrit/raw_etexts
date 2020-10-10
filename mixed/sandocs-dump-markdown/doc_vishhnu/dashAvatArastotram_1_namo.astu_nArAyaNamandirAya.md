@@ -1,24 +1,24 @@
-+++
-"Text title" = "dashAvatArastotram"
-"File name" = "dashAvatArastotra.itx"
-itxtitle = "dashAvatArastotram 1 (namo.astu nArAyaNamandirAya)"
-engtitle = "dashAvatArastotram"
-Category = "vishhnu, dashAvatAra, stotra, vAdirAja, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Author = "vAdirAja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "June 5, 2006, January 2, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतारस्तोत्रम् १ (नमोऽस्तु नारायणमन्दिराय)"
+---
+Author: vAdirAja
+Category: vishhnu, dashAvatAra, stotra, vAdirAja, vishnu
+File name: dashAvatArastotra.itx
+Language: Sanskrit
+Latest update: June 5, 2006, January 2, 2012
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dashAvatArastotram
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: dashAvatArastotram
+itxtitle: dashAvatArastotram 1 (namo.astu nArAyaNamandirAya)
+title: दशावतारस्तोत्रम् १ (नमोऽस्तु नारायणमन्दिराय)
 
-+++
+---
   
  दशावतारस्तोत्रम्   
 नमोऽस्तु नारायणमन्दिराय नमोऽस्तु हारायणकन्धराय ।  
@@ -37,14 +37,14 @@ title = "दशावतारस्तोत्रम् १ (नमोऽस�
 रमासमाकार-चतुष्टयेन क्रमाच्चतुर्दिक्षु निषेविताय ।  
 नमोऽस्तु पार्श्वद्वयग-द्विरूपश्रियाभिषिक्ताय हयाननाय ॥ ६॥  
   
-किरीट-पट्टाङ्गद-हार-काञ्ची-सुरत्नपीतांबर-नूपुराद्यैः ।  
+किरीट-पट्टाङ्गद-हार-काञ्ची-सुरत्नपीताम्बर-नूपुराद्यैः ।  
 विराजिताङ्गाय नमोऽस्तु तुभ्यं सुरैः परीताय हयाननाय ॥ ७॥  
   
 विदोष-कोटीन्दु-निभप्रभाय विशेषतो मध्व-मुनि-प्रियाय।  
 विमुक्तवन्द्याय नमोऽस्तु विश्वग्विधूत-विघ्नाय हयाननाय ॥८॥  
   
 नमोऽस्तु शिष्टेष्टद वादिराजकृताष्टकाभिष्टुत-चेष्टिताय ।  
-दसावतारै-स्त्रिदसार्थदाय निशेश-बिंबस्थ हयाननाय ॥ ९॥  
+दसावतारै-स्त्रिदसार्थदाय निशेश-बिम्बस्थ हयाननाय ॥ ९॥  
   
 नमोऽस्तु पारायणचर्चिताय नमोऽस्तु नारायण् तेऽर्चिताय ॥ १॥  
   

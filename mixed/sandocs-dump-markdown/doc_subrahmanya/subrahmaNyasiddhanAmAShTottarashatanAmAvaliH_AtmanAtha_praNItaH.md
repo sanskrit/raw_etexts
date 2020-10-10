@@ -1,25 +1,25 @@
-+++
-"Text title" = "subrahmaNyasiddhanAmAShTottarashatanAmAvalI"
-"File name" = "subrahmaNyasiddhanAmAShTottarashatanAmAvalI.itx"
-itxtitle = "subrahmaNyasiddhanAmAShTottarashatanAmAvaliH (AtmanAtha praNItaH)"
-engtitle = "subrahmaNyasiddhanAmAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, subrahmanya, nAmAvalI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-Source = "Subrahmanyastutimanjari p 176-178"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "November 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यसिद्धनामाष्टोत्तरशतनामावलिः (आत्मनाथ प्रणीतः)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: Traditional
+Category: aShTottarashatanAmAvalI, subrahmanya, nAmAvalI
+File name: subrahmaNyasiddhanAmAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: November 22, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Subrahmanyastutimanjari p 176-178
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyasiddhanAmAShTottarashatanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: subrahmaNyasiddhanAmAShTottarashatanAmAvalI
+itxtitle: subrahmaNyasiddhanAmAShTottarashatanAmAvaliH (AtmanAtha praNItaH)
+title: सुब्रह्मण्यसिद्धनामाष्टोत्तरशतनामावलिः (आत्मनाथ प्रणीतः)
 
-+++
+---
   
  श्रीसुब्रह्मण्यसिद्धनामाष्टोत्तरशतनामावलिः   
   

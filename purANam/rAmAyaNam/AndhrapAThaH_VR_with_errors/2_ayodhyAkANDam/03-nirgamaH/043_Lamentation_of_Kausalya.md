@@ -3,7 +3,6 @@ title: 043 Lamentation of Kausalya
 title_english: 043 Lamentation of Kausalya
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-043-Kousalya_Kroshaha.mp3"></div>
 
 ततः समीक्ष्य शयने सन्नम् शोकेन पार्थिवम् ।  
@@ -44,7 +43,7 @@ title_english: 043 Lamentation of Kausalya
 कैकेय्या पुरुष व्याघ्र बाल वत्सा इव गौर् बलात् ॥ २-४३-१८  
 न हि तावद् गुणैः जुष्टम् सर्व शास्त्र विशारदम् ।  
 एक पुत्रा विना पुत्रम् अहम् जीवितुम् उत्सहे ॥ २-४३-१९  
-न हि मे जीविते किंचित् सामर्थम् इह कल्प्यते ।  
+न हि मे जीविते किञ्चित् सामर्थम् इह कल्प्यते ।  
 अपश्यन्त्याः प्रियम् पुत्रम् महा बाहुम् महा बलम् ॥ २-४३-२०  
 अयम् हि माम् दीपयते समुत्थितः ।  
 तनूज शोक प्रभवो हुत अशनः ।  

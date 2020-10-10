@@ -1,23 +1,23 @@
-+++
-"Text title" = "mRityunjayastotram 1 narasiMhapurANe"
-"File name" = "mRityunjayastotram1NP.itx"
-itxtitle = "mRityunjayastotram 1 viShNumRityunjayastotram (mArkaNDeyaproktam, narasiMhapurANAntargatam)"
-engtitle = "Mrityunjaya stotra 1 from Narasimhapurana"
-Category = "shiva, stotra, vishhnu"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 7 63-75"
-"Latest update" = "August 25, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मृइत्युञ्जयस्तोत्रम् १ विष्णुमृइत्युञ्जयस्तोत्रम् (मार्कण्डेयप्रोक्तम्, नरसिंहपुराणान्तर्गतम्)"
+---
+Category: shiva, stotra, vishhnu
+Description-comments: Narasimhapurana adhyAya 7 63-75
+File name: mRityunjayastotram1NP.itx
+Language: Sanskrit
+Latest update: August 25, 2018
+Location: doc_shiva
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mRityunjayastotram 1 narasiMhapurANe
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: Mrityunjaya stotra 1 from Narasimhapurana
+itxtitle: mRityunjayastotram 1 viShNumRityunjayastotram (mArkaNDeyaproktam, narasiMhapurANAntargatam)
+title: मृइत्युञ्जयस्तोत्रम् १ विष्णुमृइत्युञ्जयस्तोत्रम् (मार्कण्डेयप्रोक्तम्, नरसिंहपुराणान्तर्गतम्)
 
-+++
+---
   
  मृत्युञ्जयस्तोत्र १ मार्कण्डेयप्रोक्तं नरसिंहपुराणे   
 विष्णुमृत्युञ्जयस्तोत्रम् ।  
@@ -72,7 +72,7 @@ title = "मृइत्युञ्जयस्तोत्रम् १ वि
   
 इति ।  
   
-नरसिंहपुराण अध्याय ७ श्लोकसंख्या ७५  
+नरसिंहपुराण अध्याय ७ श्लोकसङ्ख्या ७५  
 इति श्रीनरसिंहपुराणे मार्कण्डेयमृत्युञ्जयो नाम सप्तमोऽध्यायः ॥ ७॥  
   
   

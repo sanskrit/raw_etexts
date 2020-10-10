@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrI naTarAjakunchitapAda sahasranAmastotram"
-"File name" = "naTarAjakunchitapAdasahasranAmastotra.itx"
-itxtitle = "naTarAjakunchitapAdasahasranAmastotram"
-engtitle = "naTarAjakunchitapAdasahasranAmastotram"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Description-comments = "Mahaperiaval trust publication"
-Indexextra = "(Scan)"
-"Latest update" = "August 23, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नटराजकुञ्चितपादसहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, shiva
+Description-comments: Mahaperiaval trust publication
+File name: naTarAjakunchitapAdasahasranAmastotra.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 23, 2015
+Location: doc_shiva
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shrI naTarAjakunchitapAda sahasranAmastotram
+engtitle: naTarAjakunchitapAdasahasranAmastotram
+itxtitle: naTarAjakunchitapAdasahasranAmastotram
+title: नटराजकुञ्चितपादसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीनटराजकुञ्चितपादसहस्रनामस्तोत्रम्   
 ॥ श्रीगुरुभ्यो नमः ॥  

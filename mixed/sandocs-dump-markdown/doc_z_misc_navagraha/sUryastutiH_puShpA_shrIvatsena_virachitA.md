@@ -1,25 +1,25 @@
-+++
-"Text title" = "sUryastutiH"
-"File name" = "sUryastutI.itx"
-itxtitle = "sUryastutiH (puShpA shrIvatsena virachitA)"
-engtitle = "sUryastutiH"
-Category = "navagraha, puShpAshrIvatsan"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 17, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यस्तुतिः (पुष्पा श्रीवत्सेन विरचिता)"
+---
+Author: Pushpa Srivatsan
+Category: navagraha, puShpAshrIvatsan
+File name: sUryastutI.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 17, 2017
+Location: doc_z_misc_navagraha
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryastutiH
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: sUryastutiH
+itxtitle: sUryastutiH (puShpA shrIvatsena virachitA)
+title: सूर्यस्तुतिः (पुष्पा श्रीवत्सेन विरचिता)
 
-+++
+---
   
  सूर्यस्तुतिः   
                  ॐ  

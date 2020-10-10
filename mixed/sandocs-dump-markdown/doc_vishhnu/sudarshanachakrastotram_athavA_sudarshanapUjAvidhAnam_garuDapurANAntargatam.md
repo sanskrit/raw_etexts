@@ -1,21 +1,21 @@
-+++
-"Text title" = "sudarshanachakrastotram"
-"File name" = "sudarshanachakrastotram.itx"
-itxtitle = "sudarshanachakrastotram athavA sudarshanapUjAvidhAnam (garuDapurANAntargatam)"
-engtitle = "Sudarshanachakra Stotram"
-Category = "vishhnu, stotra, pUjA"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Garudapurana, karmakANDAkhyaH pUrvakhaNDaH 1, adhyAya 33"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुदर्शनचक्रस्तोत्रम् अथवा सुदर्शनपूजाविधानम् (गरुडपुराणान्तर्गतम्)"
+---
+Category: vishhnu, stotra, pUjA
+Description/comments: Garudapurana, karmakANDAkhyaH pUrvakhaNDaH 1, adhyAya 33
+File name: sudarshanachakrastotram.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sudarshanachakrastotram
+engtitle: Sudarshanachakra Stotram
+itxtitle: sudarshanachakrastotram athavA sudarshanapUjAvidhAnam (garuDapurANAntargatam)
+title: सुदर्शनचक्रस्तोत्रम् अथवा सुदर्शनपूजाविधानम् (गरुडपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीसुदर्शनचक्रस्तोत्रम् अथवा सुदर्शनपूजाविधिः   
 रुद्र उवाच ।  

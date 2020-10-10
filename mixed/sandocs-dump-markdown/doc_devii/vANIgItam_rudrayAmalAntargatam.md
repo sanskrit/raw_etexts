@@ -1,25 +1,25 @@
-+++
-"Text title" = "Vani Gitam"
-"File name" = "vANIgItam.itx"
-itxtitle = "vANIgItam (rudrayAmalAntargatam)"
-engtitle = "vANIgItam"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाणीगीतम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: devii, sarasvatI, devI
+Description/comments: rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde
+File name: vANIgItam.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vani Gitam
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: vANIgItam
+itxtitle: vANIgItam (rudrayAmalAntargatam)
+title: वाणीगीतम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  वाणीगीतम्   
 अथ त्रिसप्ततितमः पटलः  
@@ -29,10 +29,10 @@ title = "वाणीगीतम् (रुद्रयामलान्तर
 ध्वनिरन्तर्गतं ज्योतिर्ज्योतिरन्तर्गतं मनः ।  
 तन्मनो विलयं याति ध्वनिषु ज्ञानकोटिषु ॥ ७३-२॥  
   
-तद् ध्वनिज्ञानसंज्ञानं शृण्वन्ति योगिनो जनाः ॥ ७३-३॥  
+तद् ध्वनिज्ञानसञ्ज्ञानं शृण्वन्ति योगिनो जनाः ॥ ७३-३॥  
   
 परमगुणगभीरे धीरनीरे शरीरे  
-     भवनवभवकान्तौ संप्रशात्मा नितान्तम् ।  
+     भवनवभवकान्तौ सम्प्रशात्मा नितान्तम् ।  
 विमलमधुरवाक्यालङ्कृतज्ञानसिन्धौ  
      सकलवचनरत्नं स्थापयामास वाणी ॥ ७३-४॥  
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "navanAganAmastotram"
-"File name" = "navanAganAmastotram.itx"
-itxtitle = "navanAganAmastotram"
-engtitle = "navanAganAmastotram"
-Category = "deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "May 02, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवनागनामस्तोत्रम्"
+---
+Author: Traditional
+Category: deities_misc, stotra
+File name: navanAganAmastotram.itx
+Language: Sanskrit
+Latest update: May 02, 2005
+Location: doc_deities_misc
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: navanAganAmastotram
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: navanAganAmastotram
+itxtitle: navanAganAmastotram
+title: नवनागनामस्तोत्रम्
 
-+++
+---
   
  नवनागनामस्तोत्रम्   
   

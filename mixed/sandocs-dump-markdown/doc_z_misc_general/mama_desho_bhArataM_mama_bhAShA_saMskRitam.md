@@ -1,23 +1,23 @@
-+++
-"Text title" = "Bharat is My Country and Samskritam My Language"
-"File name" = "mamadeshaHbhAratam.itx"
-itxtitle = "mama desho bhArataM mama bhAShA saMskRitam"
-engtitle = "mamadeshaH bhAratam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manish Gavkar manishyg at gmail.com"
-"Proofread by" = "Manish Gavkar manishyg at gmail.com"
-"Description/comments" = "Raag Pahadi"
-Indexextra = "(Video)"
-"Latest update" = "January 26, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मम देशो भारतं मम भाषा संस्कृइतम्"
+---
+Category: misc, sanskritgeet
+Description/comments: Raag Pahadi
+File name: mamadeshaHbhAratam.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: January 26, 2020
+Location: doc_z_misc_general
+Proofread by: Manish Gavkar manishyg at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bharat is My Country and Samskritam My Language
+Transliterated by: Manish Gavkar manishyg at gmail.com
+engtitle: mamadeshaH bhAratam
+itxtitle: mama desho bhArataM mama bhAShA saMskRitam
+title: मम देशो भारतं मम भाषा संस्कृइतम्
 
-+++
+---
   
  मम देशो भारतं मम भाषा संस्कृतम्   
 मम देशो भारतं मम भाषा संस्कृतम् ।  

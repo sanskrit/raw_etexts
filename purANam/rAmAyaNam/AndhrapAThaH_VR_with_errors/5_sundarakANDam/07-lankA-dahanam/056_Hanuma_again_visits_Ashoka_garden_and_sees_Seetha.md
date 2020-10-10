@@ -3,7 +3,6 @@ title: 056 Hanuma again visits Ashoka garden and sees Seetha
 title_english: 056 Hanuma again visits Ashoka garden and sees Seetha
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-056-Hanuma_again_visits_Ashoka_garden_and_sees_Seetha.mp3"></div>
 
 ततः तु शिंशपा मूले जानकीम् पर्यवस्थिताम् ।  
@@ -22,7 +21,7 @@ title_english: 056 Hanuma again visits Ashoka garden and sees Seetha
 यः ते युधि विजित्य अरीन् शोकम् व्यपनयिष्यति ॥ ५-५६-७  
 एवम् आश्वास्य वैदेहीम् हनूमान् मारुत् आत्मजः ।  
 गमनाय मतिम् कृत्वा वैदेहीम् अभ्यवादयत् ॥ ५-५६-८  
-ततः स कपि शार्दूलः स्वामि संदर्शन उत्सुकः ।  
+ततः स कपि शार्दूलः स्वामि सन्दर्शन उत्सुकः ।  
 आरुरोह गिरि श्रेष्ठम् अरिष्टम् अरि मर्दनः ॥ ५-५६-९  
 तुन्ग पद्मक जुष्टाभिः नीलाभिः वन राजिभिः ।  
 सोत्तरीयमिवाम्भोदैः शृम्गान्तरविलम्बिभिः ॥ ५-५६-१०  
@@ -42,7 +41,7 @@ title_english: 056 Hanuma again visits Ashoka garden and sees Seetha
 साल ताल अश्व कर्णैः च वंशैः च बहुभिः वृतम् ॥ ५-५६-१७  
 लतावितानैर्विततैः प्ष्पवद्भिरलम्कृतम् ।  
 नानामृगगणाकीर्णम् धातुनिष्यन्दभूषितम् ॥ ५-५६-१८  
-बहुप्रस्रवणोपेतम् शिलासंचयसम्कटम् ।  
+बहुप्रस्रवणोपेतम् शिलासञ्चयसम्कटम् ।  
 महर्षियक्षगन्धर्वकिन्नरोरगसेवितम् ॥ ५-५६-१९  
 लतापादपसम्घातम् सिम्हाध्युषितकन्दरम् ।  
 व्याग्रसम्घसमाकीर्णम् स्वादुमूलफलद्रुमम् ॥ ५-५६-२०  

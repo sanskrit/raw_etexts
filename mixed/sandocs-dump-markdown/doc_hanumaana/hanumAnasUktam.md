@@ -1,22 +1,22 @@
-+++
-"Text title" = "HanumAna Suktam"
-"File name" = "hanumAnsUkta.itx"
-itxtitle = "hanumAnasUktam"
-engtitle = "HanumAna Suktam"
-Category = "sUkta, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com"
-Source = "ParAsharasamhita Hanumachcharitra Vol 1 pages 235-236"
-"Latest update" = "September 30, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमानसूक्तम्"
+---
+Category: sUkta, hanumaana, hanuman
+File name: hanumAnsUkta.itx
+Language: Sanskrit
+Latest update: September 30, 2016
+Location: doc_hanumaana
+Proofread by: Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: ParAsharasamhita Hanumachcharitra Vol 1 pages 235-236
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: HanumAna Suktam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: HanumAna Suktam
+itxtitle: hanumAnasUktam
+title: हनुमानसूक्तम्
 
-+++
+---
   
  श्रीहनुमत्सूक्तम्   
 श्रीमन्तो सर्वलक्षणसम्पन्नो जयप्रदः  

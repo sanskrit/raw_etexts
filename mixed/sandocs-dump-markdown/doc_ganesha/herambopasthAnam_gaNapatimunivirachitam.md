@@ -1,25 +1,26 @@
-+++
-"Text title" = "herambopasthAnam"
-"File name" = "herambopasthAnam.itx"
-itxtitle = "herambopasthAnam (gaNapatimunivirachitam)"
-engtitle = "herambopasthAnam"
-Category = "ganesha, stotra, gaNapati-muni, ramaNa-maharShi"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Ganapati Muni with Ramana Maharshi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Description-comments = "From The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol 1"
-Indexextra = "(Collected Works)"
-"Latest update" = "November 24, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हेरम्बोपस्थानम् (गणपतिमुनिविरचितम्)"
+---
+Author: Ganapati Muni with Ramana Maharshi
+Category: ganesha, stotra, gaNapati-muni, ramaNa-maharShi
+Description-comments: From The Collected Works of Vasishtha Kavyakantha Ganapati Muni
+  Vol 1
+File name: herambopasthAnam.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: November 24, 2012
+Location: doc_ganesha
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: herambopasthAnam
+Texttype: stotra
+Transliterated by: DPD
+engtitle: herambopasthAnam
+itxtitle: herambopasthAnam (gaNapatimunivirachitam)
+title: हेरम्बोपस्थानम् (गणपतिमुनिविरचितम्)
 
-+++
+---
   
  हेरम्बोपस्थानम्   
   

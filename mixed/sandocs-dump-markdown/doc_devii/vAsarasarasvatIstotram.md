@@ -1,22 +1,22 @@
-+++
-"Text title" = "vAsarasarasvatIstotram"
-"File name" = "vAsarasarasvatIstotram.itx"
-itxtitle = "vAsarasarasvatIstotram"
-engtitle = "vAsarasarasvatIstotram"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada, PSA Easwaran"
-"Latest update" = "July 1, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासरसरस्वतीस्तोत्रम्"
+---
+Category: devii, sarasvatI, devI
+File name: vAsarasarasvatIstotram.itx
+Language: Sanskrit
+Latest update: July 1, 2017
+Location: doc_devii
+Proofread by: Malleswara Rao Yellapragada, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vAsarasarasvatIstotram
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: vAsarasarasvatIstotram
+itxtitle: vAsarasarasvatIstotram
+title: वासरसरस्वतीस्तोत्रम्
 
-+++
+---
   
  श्रीवासरसरस्वतीस्तोत्रम्   
   

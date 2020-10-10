@@ -1,21 +1,21 @@
-+++
-"Text title" = "devyaShTakam"
-"File name" = "devyaShTakam.itx"
-itxtitle = "devyaShTakam (yogaAnandavirachitam)"
-engtitle = "devyaShTakam"
-Category = "aShTaka, devii, yogAnanda, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Yogananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Latest update" = "December 27, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देव्यष्टकम् (योगआनन्दविरचितम्)"
+---
+Author: Yogananda
+Category: aShTaka, devii, yogAnanda, devI
+File name: devyaShTakam.itx
+Language: Sanskrit
+Latest update: December 27, 2016
+Location: doc_devii
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devyaShTakam
+engtitle: devyaShTakam
+itxtitle: devyaShTakam (yogaAnandavirachitam)
+title: देव्यष्टकम् (योगआनन्दविरचितम्)
 
-+++
+---
   
  देव्यष्टकम्   
   

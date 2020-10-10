@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAmAShTottarashatanAmAvalI 8"
-"File name" = "rAmAShTottarashatanAmAvalI8.itx"
-itxtitle = "rAmAShTottarashatanAmAvaliH 8 (rAmarahasyAntargatA)"
-engtitle = "rAmAShTottarashatanAmAvalI 8"
-Category = "raama, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-Indexextra = "(Scan, Scan Telugu)"
-"Latest update" = "April 20, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टोत्तरशतनामावलिः ८ (रामरहस्यान्तर्गता)"
+---
+Category: raama, aShTottarashatanAmAvalI, nAmAvalI
+File name: rAmAShTottarashatanAmAvalI8.itx
+Indexextra: (Scan, Scan Telugu)
+Language: Sanskrit
+Latest update: April 20, 2019
+Location: doc_raama
+Proofread by: lalitha parameswari parameswari.lalitha at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmAShTottarashatanAmAvalI 8
+Transliterated by: NA
+engtitle: rAmAShTottarashatanAmAvalI 8
+itxtitle: rAmAShTottarashatanAmAvaliH 8 (rAmarahasyAntargatA)
+title: रामाष्टोत्तरशतनामावलिः ८ (रामरहस्यान्तर्गता)
 
-+++
+---
   
  श्रीरामरहस्योक्त श्रीरामाष्टोत्तरशतनामावलिः   
 ॐ रामाय नमः ।  
@@ -25,7 +25,7 @@ title = "रामाष्टोत्तरशतनामावलिः ८ 
 ॐ दशरथात्मजाय नमः ।  
 ॐ लक्ष्मणार्चितपादाब्जाय नमः ।  
 ॐ सर्वलोकप्रियङ्कराय नमः ।  
-ॐ साकेतवासिनेत्राब्जसंप्रीणनदिवाकराय नमः ।  
+ॐ साकेतवासिनेत्राब्जसम्प्रीणनदिवाकराय नमः ।  
 ॐ विश्वामित्रप्रियाय नमः ।  
 ॐ शान्ताय नमः ।  
 ॐ ताटकाध्वान्तभास्कराय नमः । १०  

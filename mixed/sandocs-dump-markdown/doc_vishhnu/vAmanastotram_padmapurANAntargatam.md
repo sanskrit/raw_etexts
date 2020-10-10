@@ -1,23 +1,23 @@
-+++
-"Text title" = "vAmanastotram padmapurANAntargatam"
-"File name" = "vAmanastotrampadmapurANa.itx"
-itxtitle = "vAmanastotram (padmapurANAntargatam)"
-engtitle = "vAmanastotram from Padmapurana"
-Category = "vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, NA"
-Description-comments = "From PadmapurANa"
-"Latest update" = "July 12, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वामनस्तोत्रम् (पद्मपुराणान्तर्गतम्)"
+---
+Category: vishhnu, dashAvatAra, stotra, vishnu
+Description-comments: From PadmapurANa
+File name: vAmanastotrampadmapurANa.itx
+Language: Sanskrit
+Latest update: July 12, 2012
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vAmanastotram padmapurANAntargatam
+Texttype: stotra
+engtitle: vAmanastotram from Padmapurana
+itxtitle: vAmanastotram (padmapurANAntargatam)
+title: वामनस्तोत्रम् (पद्मपुराणान्तर्गतम्)
 
-+++
+---
   
  वामनस्तोत्रम् पद्मपुराणान्तर्गतम्   
   

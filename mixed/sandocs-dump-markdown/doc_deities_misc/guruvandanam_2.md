@@ -1,22 +1,22 @@
-+++
-"Text title" = "guruvandanam 2"
-"File name" = "guruvandanam2.itx"
-itxtitle = "guruvandanam 2"
-engtitle = "Prayer to Guru 2"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pedro Kupfer pedrokupfer at gmail.com"
-"Proofread by" = "Pedro Kupfer pedrokupfer at gmail.com"
-"Latest update" = "January 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुवन्दनम् २"
+---
+Category: deities_misc, gurudev
+File name: guruvandanam2.itx
+Language: Sanskrit
+Latest update: January 4, 2017
+Location: doc_deities_misc
+Proofread by: Pedro Kupfer pedrokupfer at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: guruvandanam 2
+Transliterated by: Pedro Kupfer pedrokupfer at gmail.com
+engtitle: Prayer to Guru 2
+itxtitle: guruvandanam 2
+title: गुरुवन्दनम् २
 
-+++
+---
   
  श्रीगुरुवन्दनम् २   
   

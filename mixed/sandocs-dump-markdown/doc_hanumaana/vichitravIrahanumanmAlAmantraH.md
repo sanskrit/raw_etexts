@@ -1,22 +1,22 @@
-+++
-"Text title" = "vichitravIrahanumanmAlAmantraH"
-"File name" = "vichitraviiramaalaamantra.itx"
-itxtitle = "vichitravIrahanumanmAlAmantraH"
-engtitle = "vichitravIrahanumanmAlAmantraH"
-Category = "mAlAmantra, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "May 03, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विचित्रवीरहनुमन्मालामन्त्रः"
+---
+Author: Traditional
+Category: mAlAmantra, hanumaana, hanuman
+File name: vichitraviiramaalaamantra.itx
+Language: Sanskrit
+Latest update: May 03, 2006
+Location: doc_hanumaana
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: vichitravIrahanumanmAlAmantraH
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: vichitravIrahanumanmAlAmantraH
+itxtitle: vichitravIrahanumanmAlAmantraH
+title: विचित्रवीरहनुमन्मालामन्त्रः
 
-+++
+---
   
  श्रीविचित्रवीरहनुमन्मालामन्त्रः   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivastutiHparashurAmaBVP"
-"File name" = "shivastutiHparashurAmaBVP.itx"
-itxtitle = "shivastutiH (parashurAmakRitA brahmavaivartapurANAntargatA)"
-engtitle = "shivastutiH by parashurAma in Brahmavaivartamahapurana"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Parashurama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Brahmavaivartamahapurana, gaNapati khaNDa"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवस्तुतिः (परशुरामकृइता ब्रह्मवैवर्तपुराणान्तर्गता)"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Author: Parashurama
+Category: shiva
+Description/comments: Brahmavaivartamahapurana, gaNapati khaNDa
+File name: shivastutiHparashurAmaBVP.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivastutiHparashurAmaBVP
+engtitle: shivastutiH by parashurAma in Brahmavaivartamahapurana
+itxtitle: shivastutiH (parashurAmakRitA brahmavaivartapurANAntargatA)
+title: शिवस्तुतिः (परशुरामकृइता ब्रह्मवैवर्तपुराणान्तर्गता)
 
-+++
+---
   
  श्रीशिव स्तुतिः   
 श्रीपरशुराम उवाच -  

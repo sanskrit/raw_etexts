@@ -1,23 +1,23 @@
-+++
-"Text title" = "lalitApuShpAnjalistotram"
-"File name" = "lalitApuShpAnjalistotram.itx"
-itxtitle = "lalitApuShpAnjalistotram"
-engtitle = "Shri Lalita Pushpanjalistotram"
-Category = "devii, dashamahAvidyA, lalitA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sanjay Khandelwal ksanjay209 at yahoo.co.in"
-"Proofread by" = "Sanjay Khandelwal, NA, PSA Easwaran"
-"Latest update" = "February 13, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितापुष्पाञ्जलिस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, lalitA, devI
+File name: lalitApuShpAnjalistotram.itx
+Language: Sanskrit
+Latest update: February 13, 2017
+Location: doc_devii
+Proofread by: Sanjay Khandelwal, NA, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitApuShpAnjalistotram
+Transliterated by: Sanjay Khandelwal ksanjay209 at yahoo.co.in
+engtitle: Shri Lalita Pushpanjalistotram
+itxtitle: lalitApuShpAnjalistotram
+title: ललितापुष्पाञ्जलिस्तोत्रम्
 
-+++
+---
   
  श्रीललितापुष्पाञ्जलिस्तोत्रम्   
   

@@ -1,25 +1,25 @@
-+++
-"Text title" = "vidura niiti"
-"File name" = "viduraniti.itx"
-itxtitle = "viduranItI"
-engtitle = "vidura nItI"
-Category = "major_works, vyAsa"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Maharshi Vyasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Adhyaya 33 prajaagaraparva (udyogaparva) of Mahaabhaarata"
-Indexextra = "(meaning from mahAbhArata)"
-"Latest update" = "December 18, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विदुरनीती"
+---
+Author: Maharshi Vyasa
+Category: major_works, vyAsa
+Description-comments: Adhyaya 33 prajaagaraparva (udyogaparva) of Mahaabhaarata
+File name: viduraniti.itx
+Indexextra: (meaning from mahAbhArata)
+Language: Sanskrit
+Latest update: December 18, 1999
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: vidura niiti
+Texttype: pramukha
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: vidura nItI
+itxtitle: viduranItI
+title: विदुरनीती
 
-+++
+---
   
  विदुर नीति   
   
@@ -345,7 +345,7 @@ Vidura Niti has been extracted from प्रजागरपर्व
 राजा विवदमानेषु नित्यं मूर्खेषु पण्डिताः ॥ ७२॥  
   
 षडिमानि विनश्यन्ति मुहूर्तमनवेक्षणात् ।  
-गावः सेवा कृषिर्भार्या विद्या वृषलसंगतिः ॥- ॥  
+गावः सेवा कृषिर्भार्या विद्या वृषलसङ्गतिः ॥- ॥  
   
 षडेते ह्यवमन्यन्ते नित्यं पूर्वोपकारिणम् ।  
 आचार्यं शिक्षिता शिष्याः कृतदारश्च मातरम् ॥- ॥  
@@ -412,7 +412,7 @@ Vidura Niti has been extracted from प्रजागरपर्व
 जानाति मात्रां च तथा क्षमां च  
 तं तादृशं श्रीर्जुषते समग्रा ॥ ८६॥  
   
-सुदुर्बलं नावजानाति कंचिद्-  
+सुदुर्बलं नावजानाति कञ्चिद्-  
 युक्तो रिपुं सेवते बुद्धिपूर्वम् ।  
 न विग्रहं रोचयते बलस्थैः  
 काले च यो विक्रमते स धीरः ॥ ८७॥  

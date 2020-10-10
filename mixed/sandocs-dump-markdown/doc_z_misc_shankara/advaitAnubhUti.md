@@ -1,24 +1,24 @@
-+++
-"Text title" = "Advaitanubhuti"
-"File name" = "advaitanubhuti.itx"
-itxtitle = "advaitAnubhUti"
-engtitle = "advaitanubhuti"
-Category = "vedanta, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Texttype = "pramukha"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "In 84 verses"
-"Latest update" = "Nov. 3, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अद्वैतानुभूति"
+---
+Author: Adi Shankaracharya
+Category: vedanta, shankarAchArya
+Description-comments: In 84 verses
+File name: advaitanubhuti.itx
+Language: Sanskrit
+Latest update: Nov. 3, 2009
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: shankara
+Text title: Advaitanubhuti
+Texttype: pramukha
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: advaitanubhuti
+itxtitle: advaitAnubhUti
+title: अद्वैतानुभूति
 
-+++
+---
   
  अद्वैतानुभूति   
   
@@ -38,7 +38,7 @@ title = "अद्वैतानुभूति"
 द्वित्वं भात्यक्षिदोषेण चन्द्रे स्वे मायया जगत्।  
 द्वित्वं मृषा यथा चन्द्रे मृषा द्वैतं तथात्मनि॥४॥  
   
-आत्मनः कार्यमाकाशो विनात्मानं न संभवेत्।  
+आत्मनः कार्यमाकाशो विनात्मानं न सम्भवेत्।  
 कार्यस्य पूर्णता सिद्धा किं पुनः पूर्णतात्मनः॥५॥  
   
 कार्यभूतो यथाकाश एक एव न हि द्विधा।  
@@ -72,7 +72,7 @@ title = "अद्वैतानुभूति"
 तथा प्रपञ्चनाशेन नाशः स्यादात्मनो न हि॥१५॥  
   
 अहिनिर्ल्वयनीजातः शुच्यादिर्नाहिमाप्नुयात्।  
-तथा स्थूलादिसंभूतः शुच्यादिर्नाप्नुयादिमम्॥१६॥  
+तथा स्थूलादिसम्भूतः शुच्यादिर्नाप्नुयादिमम्॥१६॥  
   
 त्यक्तां त्वचमहिर्यद्वदात्मत्वेन न मन्यते।  
 आत्मत्वेन सदा ज्ञानी त्यक्तदेहत्रयं तथा॥१७॥  
@@ -138,9 +138,9 @@ title = "अद्वैतानुभूति"
 देहेन्द्रियादिकं नाहं विनाशित्वाद्घटादिवत्॥३७॥  
   
 देहेन्द्रियप्राणमनोबुद्ध्यज्ञानानि भासयन्।  
-अहंकारं तथा भामि चैतेषामभिमानिनम्॥३८॥  
+अहङ्कारं तथा भामि चैतेषामभिमानिनम्॥३८॥  
   
-सर्वं जगदिदं नाहं विषयत्वादिदंधियः।  
+सर्वं जगदिदं नाहं विषयत्वादिदन्धियः।  
 अहं नाहं सुषुप्त्यादौ अहमः साक्षितः सदा॥३९॥  
   
 सुप्तौ यथा निर्विकारस्तथावस्थाद्वयेऽपि च।  
@@ -276,11 +276,11 @@ title = "अद्वैतानुभूति"
 स एव परमात्माहं विश्वादिकविलक्षणः॥८३॥  
   
 विराडादित्रयं भाति यस्मिन्साक्षिणि सत्यवत्।  
-स एव सच्चिदानन्दलक्षणोऽहं स्वयंप्रभः॥८४॥  
+स एव सच्चिदानन्दलक्षणोऽहं स्वयम्प्रभः॥८४॥  
   
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-श्रीमच्छंकरभगवतः कृतौ  
+श्रीमच्छङ्करभगवतः कृतौ  
 अद्वैतानुभूतिः सम्पूर्णा॥  
   
   

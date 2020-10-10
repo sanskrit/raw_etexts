@@ -1,24 +1,24 @@
-+++
-"Text title" = "parashurAmasahasranAmastotra"
-"File name" = "parashurAmasahasranAmastotra.itx"
-itxtitle = "parashurAmasahasranAmastotram"
-engtitle = "Parashurama sahasranAmastotra"
-Category = "sahasranAma, vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Proofread by" = "DPD, NA"
-Source = "bhagavAn parashurAma by vIrAchArya shAstrI, reNukAtantram"
-Indexextra = "(agnipurANa)"
-"Latest update" = "March 8, 2013, May 27, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परशुरामसहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, vishhnu, dashAvatAra, stotra, vishnu
+File name: parashurAmasahasranAmastotra.itx
+Indexextra: (agnipurANa)
+Language: Sanskrit
+Latest update: March 8, 2013, May 27, 2016
+Location: doc_vishhnu
+Proofread by: DPD, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: bhagavAn parashurAma by vIrAchArya shAstrI, reNukAtantram
+SubDeity: dashAvatAra
+Subject: hinduism
+Sublocation: vishhnu
+Text title: parashurAmasahasranAmastotra
+Texttype: stotra
+engtitle: Parashurama sahasranAmastotra
+itxtitle: parashurAmasahasranAmastotram
+title: परशुरामसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीपरशुरामसहस्रनामस्तोत्रम्   
   
@@ -406,7 +406,7 @@ title = "परशुरामसहस्रनामस्तोत्रम�
 निराकारो विशुद्धश्च व्याधिहर्ता निरामयः ।  
 अमोघोऽनिष्टमथनो मुकुन्दो विगतज्वरः ॥ ९७॥  
   
-स्वयंज्योतिर्गुरुतमः सुप्रसादोऽचलस्तथा ।  
+स्वयञ्ज्योतिर्गुरुतमः सुप्रसादोऽचलस्तथा ।  
 चन्द्रः सूर्यः शनिः केतुर्भूमिजः सोमनन्दनः ॥ ९८॥  
   
 भृगुर्महातपा दीर्घतपाः सिद्धो महागुरुः ।  

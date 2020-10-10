@@ -1,25 +1,27 @@
-+++
-"Text title" = "shukra aShTottarashatanaamavaliH"
-"File name" = "shukra108.itx"
-itxtitle = "shukrAShTottarashatanAmAvaliH"
-engtitle = "shukra aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, navagraha, nAmAvalI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com)"
-"Proofread by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler at gmx.net"
-Description-comments = "108 names for shukra"
-Source = "Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal, Published by VIDVATH SABHA, Chennai - 600073"
-Indexextra = "(108 names)"
-"Latest update" = "Jan 25, 1998, June 3, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शुक्राष्टोत्तरशतनामावलिः"
+---
+Category: aShTottarashatanAmAvalI, navagraha, nAmAvalI
+Description-comments: 108 names for shukra
+File name: shukra108.itx
+Indexextra: (108 names)
+Language: Sanskrit
+Latest update: Jan 25, 1998, June 3, 2007
+Location: doc_z_misc_navagraha
+Proofread by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler
+  at gmx.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal,
+  Published by VIDVATH SABHA, Chennai - 600073
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shukra aShTottarashatanaamavaliH
+Texttype: nAmAvalI
+Transliterated by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com)
+engtitle: shukra aShTottarashatanAmAvalI
+itxtitle: shukrAShTottarashatanAmAvaliH
+title: शुक्राष्टोत्तरशतनामावलिः
 
-+++
+---
   
  शुक्राष्टोत्तरशतनामावली   
 शुक्र बीज मन्त्र -  
@@ -52,7 +54,7 @@ title = "शुक्राष्टोत्तरशतनामावलि�
 ॐ चारुचन्द्रनिभाननाय नमः ।  
 ॐ निधये नमः ।  
 ॐ निखिलशास्त्रज्ञाय नमः ।  
-ॐ नीतिविद्याधुरंधराय नमः ।  
+ॐ नीतिविद्याधुरन्धराय नमः ।  
 ॐ सर्वलक्षणसम्पन्नाय नमः ।  
 ॐ सर्वापद्गुणवर्जिताय नमः । ३०  
 ॐ समानाधिकनिर्मुक्ताय नमः ।  
@@ -83,7 +85,7 @@ title = "शुक्राष्टोत्तरशतनामावलि�
 ॐ अक्षमालाधराय नमः ।  
 ॐ अचिन्त्याय नमः ।  
 ॐ अक्षीणगुणभासुराय नमः ।  
-ॐ नक्षत्रगणसंचाराय नमः ।  
+ॐ नक्षत्रगणसञ्चाराय नमः ।  
 ॐ नयदाय नमः । ६०  
 ॐ नीतिमार्गदाय नमः ।  
 ॐ वर्षप्रदाय नमः ।  
@@ -111,7 +113,7 @@ title = "शुक्राष्टोत्तरशतनामावलि�
 ॐ रत्नसिंहासनारूढाय नमः ।  
 ॐ रथस्थाय नमः ।  
 ॐ रजतप्रभाय नमः ।  
-ॐ सूर्यप्राग्देशसंचाराय नमः ।  
+ॐ सूर्यप्राग्देशसञ्चाराय नमः ।  
 ॐ सुरशत्रुसुहृदे नमः ।  
 ॐ कवये नमः ।  
 ॐ तुलावृषभराशीशाय नमः । ९०  
@@ -124,7 +126,7 @@ title = "शुक्राष्टोत्तरशतनामावलि�
 ॐ गोप्त्रे नमः ।  
 ॐ गुणिने नमः ।  
 ॐ गुणविभूषणाय नमः ।  
-ॐ ज्येष्ठानक्षत्रसंभूताय नमः । १००  
+ॐ ज्येष्ठानक्षत्रसम्भूताय नमः । १००  
 ॐ ज्येष्ठाय नमः ।  
 ॐ श्रेष्ठाय नमः ।  
 ॐ शुचिस्मिताय नमः ।  

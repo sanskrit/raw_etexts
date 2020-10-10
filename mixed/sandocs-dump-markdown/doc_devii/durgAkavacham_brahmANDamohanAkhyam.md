@@ -1,24 +1,24 @@
-+++
-"Text title" = "brahmANDamohanAkhyaM durgAkavacham"
-"File name" = "durgaakavach2.itx"
-itxtitle = "durgAkavacham brahmANDamohanAkhyam"
-engtitle = "brahmANDamohanAkhyaM durgAkavacham"
-Category = "kavacha, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "krRiShNa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "brahmavaivartapurANa"
-"Latest update" = "March 27, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गाकवचम् ब्रह्माण्डमोहनाख्यम्"
+---
+Author: krRiShNa
+Category: kavacha, devii, durgA, devI
+Description-comments: brahmavaivartapurANa
+File name: durgaakavach2.itx
+Language: Sanskrit
+Latest update: March 27, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: brahmANDamohanAkhyaM durgAkavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: brahmANDamohanAkhyaM durgAkavacham
+itxtitle: durgAkavacham brahmANDamohanAkhyam
+title: दुर्गाकवचम् ब्रह्माण्डमोहनाख्यम्
 
-+++
+---
   
  ब्रह्माण्डमोहनाख्यं दुर्गाकवचम्   
   
@@ -43,7 +43,7 @@ title = "दुर्गाकवचम् ब्रह्माण्डमो�
 यद्धृत्वा  च महायोद्धा बाणः शत्रुभयङ्करः ।  
 यद्धृत्वा शिवतुल्यश्च दुर्वासा ज्ञानिनां वरः ॥ ६॥  
   
-ॐ दुर्गेति चतुर्थ्यंतः स्वाहान्तो मे शिरोऽवतु ।  
+ॐ दुर्गेति चतुर्थ्यन्तः स्वाहान्तो मे शिरोऽवतु ।  
 मन्त्रः षडक्षरोऽयं च भक्तानां कल्पपादपः ॥ ७॥  
   
 विचारो नास्ति वेदे च ग्रहणेऽस्य मनोर्मुने ।  

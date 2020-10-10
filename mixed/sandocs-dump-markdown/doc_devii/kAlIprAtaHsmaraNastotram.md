@@ -1,21 +1,21 @@
-+++
-"Text title" = "kAlIprAtaHsmaraNastotram"
-"File name" = "kAlIprAtaHsmaraNastotram.itx"
-itxtitle = "kAlIprAtaHsmaraNastotram"
-engtitle = "kAlIprAtaHsmaraNastotram"
-Category = "devii, suprabhAta, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com, NA"
-"Latest update" = "December 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालीप्रातःस्मरणस्तोत्रम्"
+---
+Category: devii, suprabhAta, devI
+File name: kAlIprAtaHsmaraNastotram.itx
+Language: Sanskrit
+Latest update: December 24, 2018
+Location: doc_devii
+Proofread by: Ganesh Kandu kanduganesh at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAlIprAtaHsmaraNastotram
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: kAlIprAtaHsmaraNastotram
+itxtitle: kAlIprAtaHsmaraNastotram
+title: कालीप्रातःस्मरणस्तोत्रम्
 
-+++
+---
   
  श्रीकालीप्रातःस्मरणस्तोत्रम्   
 ॐ प्रातर्नमामि मनसा त्रिजगद्-विधात्रीं कल्याणदात्रीं कमलायताक्षीम् ।  
@@ -36,7 +36,7 @@ title = "कालीप्रातःस्मरणस्तोत्रम�
 माभूत् कदाचिदपि मे पशुभिश्च गोष्ठी दिवानिशं स्यात् कुल-मार्ग-सेवा ॥ ३॥  
   
 हे महेशि ! अच्छे-बुरे कर्मों के फल से अनेक जन्मों में घूमता हुआ  
-मैं कभी भी पशुओं (अज्ञानियों) का संग न प्राप्त करूं और हमेशा  
+मैं कभी भी पशुओं (अज्ञानियों) का सङ्ग न प्राप्त करूं और हमेशा  
 मैं कुल-क्रम से ही तुम्हारी सेवा करता रहूँ ॥ ३॥  
   
 वामे प्रिया शाम्भव-मार्ग-निष्ठा पात्रं करे स्तोत्रमये मुखाब्जे ।  

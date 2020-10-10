@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrii vallyaShTottarashatanAmAvaliH"
-"File name" = "subra108valli.itx"
-itxtitle = "vallyaShTottarashatanAmAvalI"
-engtitle = "vallyaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, subrahmanya, nAmAvalI, devii, devI"
-Location = "doc_devii"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "March 15, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्ल्यष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, subrahmanya, nAmAvalI, devii, devI
+File name: subra108valli.itx
+Language: Sanskrit
+Latest update: March 15, 2006
+Location: doc_devii
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrii vallyaShTottarashatanAmAvaliH
+Texttype: nAmAvalI
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: vallyaShTottarashatanAmAvalI
+itxtitle: vallyaShTottarashatanAmAvalI
+title: वल्ल्यष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीवल्ल्यष्टोत्तरशतनामावली   
   
@@ -45,7 +45,7 @@ title = "वल्ल्यष्टोत्तरशतनामावली"
 ॐ नाशहीनायै नमः ।  
 ॐ नागनुतायै नमः ।  
 ॐ नारदस्तुतवैभवायै नमः ।  
-ॐ लवलीकुञ्जसंभूतायै नमः ।  
+ॐ लवलीकुञ्जसम्भूतायै नमः ।  
 ॐ ललितायै नमः ।  
 ॐ ललनोत्तमायै नमः ।  
 ॐ शान्तदोषायै नमः ।  
@@ -57,7 +57,7 @@ title = "वल्ल्यष्टोत्तरशतनामावली"
 ॐ परायै नमः ।  
 ॐ पूर्णरूपायै नमः ।  
 ॐ पुण्यशीलायै नमः ।  
-ॐ प्रियंगुवनपालिन्यै नमः ।  
+ॐ प्रियङ्गुवनपालिन्यै नमः ।  
 ॐ सुन्दर्यै नमः ।  
 ॐ सुरसंस्तुतायै नमः ।  
 ॐ सुब्रह्मण्यकुटुम्बिन्यै नमः ।  

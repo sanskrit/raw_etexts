@@ -1,24 +1,24 @@
-+++
-"Text title" = "bhairaviikavacham"
-"File name" = "bhairaviikavacham.itx"
-itxtitle = "bhairavIkavacham athavA trailokyavijaya bhairavI kavacha"
-engtitle = "bhairavIkavacham"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale devIshvarasa.nvAde"
-"Latest update" = "May, 15, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भैरवीकवचम् अथवा त्रैलोक्यविजय भैरवी कवच"
+---
+Author: Traditional
+Category: kavacha, devii, dashamahAvidyA, devI
+Description-comments: rudrayAmale devIshvarasa.nvAde
+File name: bhairaviikavacham.itx
+Language: Sanskrit
+Latest update: May, 15, 2006
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhairaviikavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: bhairavIkavacham
+itxtitle: bhairavIkavacham athavA trailokyavijaya bhairavI kavacha
+title: भैरवीकवचम् अथवा त्रैलोक्यविजय भैरवी कवच
 
-+++
+---
   
  भैरवीकवचम् अथवा त्रैलोक्यविजय भैरवी कवचम्   
   

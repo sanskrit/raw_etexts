@@ -1,24 +1,24 @@
-+++
-"Text title" = "Durga Stotram 5 Hymn to Durga by Sri Aurobindo"
-"File name" = "durgAstotramAurobindo.itx"
-itxtitle = "durgAstotram 5 (shrI aravindakRitam mAtardurge, siMhavAhini)"
-engtitle = "durgAstotram 5 Aurobindo"
-Category = "devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "Sri Aurobindo"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sampadananda Mishra, PSA Easwaran"
-"Description/comments" = "Durga Stotra by Sri Aurobindo originally in Bengali 1909"
-Indexextra = "(Bengali and English, Videos 1, 2)"
-"Latest update" = "May 10, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "दुर्गास्तोत्रम् ५ (श्री अरविन्दकृइतम् मातर्दुर्गे, सिंहवाहिनि)"
+---
+Author: Sri Aurobindo
+Category: devii, durgA, devI
+Description/comments: Durga Stotra by Sri Aurobindo originally in Bengali 1909
+File name: durgAstotramAurobindo.itx
+Indexextra: (Bengali and English, Videos 1, 2)
+Language: Sanskrit
+Latest update: May 10, 2020
+Location: doc_devii
+Proofread by: Sampadananda Mishra, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Durga Stotram 5 Hymn to Durga by Sri Aurobindo
+engtitle: durgAstotram 5 Aurobindo
+itxtitle: durgAstotram 5 (shrI aravindakRitam mAtardurge, siMhavAhini)
+title: दुर्गास्तोत्रम् ५ (श्री अरविन्दकृइतम् मातर्दुर्गे, सिंहवाहिनि)
 
-+++
+---
   
  श्रीअरविन्दकृतं दुर्गास्तोत्रम्   
 ॐ मातर्दुर्गे! सिंहवाहिनि सर्वशक्तिप्रदायिनि मातः शिवप्रिये तव  

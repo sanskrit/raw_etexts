@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAradAstavaH 2"
-"File name" = "shAradAstavaH2.itx"
-itxtitle = "shAradAstavaH 2 (shivAbhinavanRisiMhabhAratIvirachitaH shiShyAshIrvachanAtmakastavAH)"
-engtitle = "shAradAstavaH 2"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदास्तवः २ (शिवाभिनवनृइसिंहभारतीविरचितः शिष्याशीर्वचनात्मकस्तवाः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI
+File name: shAradAstavaH2.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAstavaH 2
+engtitle: shAradAstavaH 2
+itxtitle: shAradAstavaH 2 (shivAbhinavanRisiMhabhAratIvirachitaH shiShyAshIrvachanAtmakastavAH)
+title: शारदास्तवः २ (शिवाभिनवनृइसिंहभारतीविरचितः शिष्याशीर्वचनात्मकस्तवाः)
 
-+++
+---
   
  श्रीशारदास्तवः २   
 (शिष्याशीर्वचनात्मकस्तवाः)  

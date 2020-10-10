@@ -1,22 +1,22 @@
-+++
-"Text title" = "lakShmI laharI"
-"File name" = "laxmiilaharii.itx"
-itxtitle = "lakShmIlaharI (paNDitarAjashrIjagannAthavirachitA)"
-engtitle = "lakShmIlaharI"
-Category = "laharI, devii, lakShmI, jagannAthapaNDita, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "Jagannathapandita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "July 20, 2004, June 17, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीलहरी (पण्डितराजश्रीजगन्नाथविरचिता)"
+---
+Author: Jagannathapandita
+Category: laharI, devii, lakShmI, jagannAthapaNDita, devI
+File name: laxmiilaharii.itx
+Language: Sanskrit
+Latest update: July 20, 2004, June 17, 2012
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmI laharI
+engtitle: lakShmIlaharI
+itxtitle: lakShmIlaharI (paNDitarAjashrIjagannAthavirachitA)
+title: लक्ष्मीलहरी (पण्डितराजश्रीजगन्नाथविरचिता)
 
-+++
+---
   
  श्रीलक्ष्मीलहरी   
   
@@ -147,7 +147,7 @@ title = "लक्ष्मीलहरी (पण्डितराजश्र
 गुणोत्कर्षाधानं प्रथितमुपमानं समजनि ॥ २५॥  
   
 अनल्पं जल्पन्तु प्रतिहतधियः पल्लवतुलां   
-रसज्ञामज्ञानां क इव कमले मंथरयतु ।  
+रसज्ञामज्ञानां क इव कमले मन्थरयतु ।  
 त्रपन्तु श्रीभिक्षावितरणवशीभूतजगतां   
 कराणां सौभाग्यं तव तुलयितुं तुङ्गरसनाः ॥ २६॥  
   
@@ -173,7 +173,7 @@ title = "लक्ष्मीलहरी (पण्डितराजश्र
   
 मुखाम्भोजे मन्दस्मितमधुरकान्त्या विकसतां   
 द्विजानां ते हीरावलिविहितनीराजनरुचाम् ।  
-इयं ज्योत्स्ना कापि स्रवदमृतसंदोहसरसा  
+इयं ज्योत्स्ना कापि स्रवदमृतसन्दोहसरसा  
 ममोद्यद्दारिद्र्यज्वरतरुणतापं तिरयतु ॥ ३१॥  
   
 कुलैः कस्तूरीणां भृशमनिशमाशास्यमपि   

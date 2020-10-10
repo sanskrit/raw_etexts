@@ -1,23 +1,23 @@
-+++
-"Text title" = "budhakavacham"
-"File name" = "budhakavach.itx"
-itxtitle = "budhakavacham (brahmavaivartapurANAntargatam)"
-engtitle = "budhakavacham"
-Category = "kavacha, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com)"
-"Proofread by" = "Ravin Bhalekar, Kirk Wortman kirkwort at hotmail.com"
-Description-comments = "brahmavaivartapurANa"
-"Latest update" = "November 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बुधकवचम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: kavacha, navagraha
+Description-comments: brahmavaivartapurANa
+File name: budhakavach.itx
+Language: Sanskrit
+Latest update: November 11, 2018
+Location: doc_z_misc_navagraha
+Proofread by: Ravin Bhalekar, Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: budhakavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com)
+engtitle: budhakavacham
+itxtitle: budhakavacham (brahmavaivartapurANAntargatam)
+title: बुधकवचम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  बुधकवचम्   
 श्रीगणेशाय नमः ।  

@@ -3,7 +3,6 @@ title: 094 Rama shows the captivating scenery of Chitrakuta to Seetha
 title_english: 094 Rama shows the captivating scenery of Chitrakuta to Seetha
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-094-Chitra_Kute_Rama_Sita_Samvadaha.mp3"></div>
 
 दीर्घ काल उषितः तस्मिन् गिरौ गिरि वन प्रियः ।  
@@ -27,7 +26,7 @@ title_english: 094 Rama shows the captivating scenery of Chitrakuta to Seetha
 पुष्पवद्भिः फल उपेतैः चायावद्भिर् मनो रमैः ।  
 एवम् आदिभिर् आकीर्णः श्रियम् पुष्यत्य् अयम् गिरिः ॥ २-९४-१०  
 शैल प्रस्थेषु रम्येषु पश्य इमान् काम हर्षणान् ।  
-किन्नरान् द्वंद्वशो भद्रे रममाणान् मनस्विनः ॥ २-९४-११  
+किन्नरान् द्वन्द्वशो भद्रे रममाणान् मनस्विनः ॥ २-९४-११  
 शाखा अवसक्तान् खड्गामः च प्रवराण्य् अम्बराणि च ।  
 पश्य विद्याधर स्त्रीणाम् क्रीडेद् देशान् मनो रमान् ॥ २-९४-१२  
 जल प्रपातैर् उद्भेदैर् निष्यन्दैः च क्वचित् क्वचित् ।  

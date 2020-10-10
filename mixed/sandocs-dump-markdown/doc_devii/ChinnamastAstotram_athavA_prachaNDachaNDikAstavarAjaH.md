@@ -1,24 +1,24 @@
-+++
-"Text title" = "shriichhinnamastaastotram"
-"File name" = "chhinnamastaastotram.itx"
-itxtitle = "ChinnamastAstotram athavA prachaNDachaNDikAstavarAjaH"
-engtitle = "ChinnamastAstotram"
-Category = "devii, dashamahAvidyA, stotra, devI, stavarAja, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "shankarAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "August 28, 2006, July 27, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "छिन्नमस्तास्तोत्रम् अथवा प्रचण्डचण्डिकास्तवराजः"
+---
+Author: shankarAchArya
+Category: devii, dashamahAvidyA, stotra, devI, stavarAja, shankarAchArya
+File name: chhinnamastaastotram.itx
+Language: Sanskrit
+Latest update: August 28, 2006, July 27, 2008
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shriichhinnamastaastotram
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: ChinnamastAstotram
+itxtitle: ChinnamastAstotram athavA prachaNDachaNDikAstavarAjaH
+title: छिन्नमस्तास्तोत्रम् अथवा प्रचण्डचण्डिकास्तवराजः
 
-+++
+---
   
  श्रीछिन्नमस्तास्तोत्रम् अथवा प्रचण्डचण्डिकास्तवराजः   
   

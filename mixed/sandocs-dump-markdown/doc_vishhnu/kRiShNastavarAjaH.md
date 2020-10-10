@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRiShNastavarAja"
-"File name" = "krishnastavaraaja.itx"
-itxtitle = "kRiShNastavarAjaH"
-engtitle = "kRiShNastavarAja"
-Category = "stavarAja, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "nAradapa.ncharAtra"
-"Latest update" = "January 19, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तवराजः"
+---
+Author: Traditional
+Category: stavarAja, vishhnu, krishna, vishnu
+Description-comments: nAradapa.ncharAtra
+File name: krishnastavaraaja.itx
+Language: Sanskrit
+Latest update: January 19, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRiShNastavarAja
+Transliterated by: WebD
+engtitle: kRiShNastavarAja
+itxtitle: kRiShNastavarAjaH
+title: कृइष्णस्तवराजः
 
-+++
+---
   
  श्रीकृष्णस्तवराज   
   
@@ -32,7 +32,7 @@ title = "कृइष्णस्तवराजः"
   
 श्रीनारद उवाच ।  
 प्रसीद भगवन्मह्यमज्ञानात्कुण्ठितात्मने ।  
-तवांघ्रिपङ्कजरजोरागिणीं भक्तिमुत्तमाम् ॥ ३॥  
+तवाङ्घ्रिपङ्कजरजोरागिणीं भक्तिमुत्तमाम् ॥ ३॥  
   
 अज प्रसीद भगवन्नमितद्युतिपञ्जर ।  
 अप्रमेयं प्रसीदास्मद्दुःखहन्पुरुषोत्तम ॥ ४॥  

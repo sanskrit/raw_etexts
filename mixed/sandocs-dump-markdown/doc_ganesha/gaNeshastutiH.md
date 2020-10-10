@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNeshastutiH"
-"File name" = "gaNeshastuti.itx"
-itxtitle = "gaNeshastutiH"
-engtitle = "gaNeshastuti"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalun at dataone.in"
-"Proofread by" = "N.Balasubramanian bbalun at dataone.in"
-"Latest update" = "March 29, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तुतिः"
+---
+Category: ganesha, stotra
+File name: gaNeshastuti.itx
+Language: Sanskrit
+Latest update: March 29, 2009
+Location: doc_ganesha
+Proofread by: N.Balasubramanian bbalun at dataone.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshastutiH
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalun at dataone.in
+engtitle: gaNeshastuti
+itxtitle: gaNeshastutiH
+title: गणेशस्तुतिः
 
-+++
+---
   
  श्रीगणेशस्तुती   
   
@@ -38,7 +38,7 @@ title = "गणेशस्तुतिः"
   
 विघ्नध्वान्तनिवारणैकतरणिर्विघ्नाटवीहव्यवाट्  
 विघ्नव्यालकुलप्रमत्तगरुडो विघ्नेभपञ्चाननः ।  
-विघ्नोत्तुङ्गगिरिप्रभेदनपविर्विघ्नाब्धिकुंभोद्भवः  
+विघ्नोत्तुङ्गगिरिप्रभेदनपविर्विघ्नाब्धिकुम्भोद्भवः  
 विघ्नाघौघघनप्रचण्डपवनो विघ्नेश्वरः पातु नः ॥ ५॥  
   
   

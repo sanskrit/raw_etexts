@@ -1,23 +1,23 @@
-+++
-"Text title" = "Verses praising Sacred Dharmapuri in Telangana"
-"File name" = "dharmapurIvarNanam.itx"
-itxtitle = "dharmapurIvarNanam (koriDe vishvanAthasharmaNAvirachitam)"
-engtitle = "dharmapurIvarNanam"
-Category = "vishhnu, koriDevishvanAthasharmA"
-Location = "doc_vishhnu"
-Author = "koriDe vishvanAthasharmA, dharmapurI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "koriDe vishvanAthasharmA"
-"Proofread by" = "koriDe vishvanAthasharmA"
-Indexextra = "(blog)"
-Acknowledge-Permission = "Koride Vishwanatha Sharma"
-"Latest update" = "February 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धर्मपुरीवर्णनम् (कोरिडे विश्वनाथशर्मणाविरचितम्)"
+---
+Acknowledge-Permission: Koride Vishwanatha Sharma
+Author: koriDe vishvanAthasharmA, dharmapurI
+Category: vishhnu, koriDevishvanAthasharmA
+File name: dharmapurIvarNanam.itx
+Indexextra: (blog)
+Language: Sanskrit
+Latest update: February 18, 2018
+Location: doc_vishhnu
+Proofread by: koriDe vishvanAthasharmA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Text title: Verses praising Sacred Dharmapuri in Telangana
+Transliterated by: koriDe vishvanAthasharmA
+engtitle: dharmapurIvarNanam
+itxtitle: dharmapurIvarNanam (koriDe vishvanAthasharmaNAvirachitam)
+title: धर्मपुरीवर्णनम् (कोरिडे विश्वनाथशर्मणाविरचितम्)
 
-+++
+---
   
  धर्मपुरी वर्णनम्   
 मङ्गल श्लोकाः-  

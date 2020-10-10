@@ -1,22 +1,22 @@
-+++
-"Text title" = "pArvatyaShTakam"
-"File name" = "pArvatyaShTakam.itx"
-itxtitle = "pArvatyaShTakam"
-engtitle = "pArvatyaShTakam"
-Category = "devii, pArvatI, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan and PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "March 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्वत्यष्टकम्"
+---
+Category: devii, pArvatI, aShTaka, devI
+File name: pArvatyaShTakam.itx
+Language: Sanskrit
+Latest update: March 21, 2018
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan and PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: pArvatyaShTakam
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: pArvatyaShTakam
+itxtitle: pArvatyaShTakam
+title: पार्वत्यष्टकम्
 
-+++
+---
   
  श्रीपार्वत्यष्टकम्   
   

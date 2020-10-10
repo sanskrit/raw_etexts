@@ -1,25 +1,25 @@
-+++
-"Text title" = "ShoDashIshatanAmastotram"
-"File name" = "ShoDashIshatanAmastotram.itx"
-itxtitle = "ShoDashIshatanAmastotram (brahmayAmalAntargatam)"
-engtitle = "ShoDashIshatanAmastotram"
-Category = "aShTottarashatanAma, devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "brahmayAmale pUrvakhaNDe"
-Indexextra = "(stotramanjari 1)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षोडशीशतनामस्तोत्रम् (ब्रह्मयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: aShTottarashatanAma, devii, devI, dashamahAvidyA
+Description/comments: brahmayAmale pUrvakhaNDe
+File name: ShoDashIshatanAmastotram.itx
+Indexextra: (stotramanjari 1)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ShoDashIshatanAmastotram
+Transliterated by: Shree Devi Kumar
+engtitle: ShoDashIshatanAmastotram
+itxtitle: ShoDashIshatanAmastotram (brahmayAmalAntargatam)
+title: षोडशीशतनामस्तोत्रम् (ब्रह्मयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीषोडशीशतनामस्तोत्रम्   
   
@@ -56,7 +56,7 @@ title = "षोडशीशतनामस्तोत्रम् (ब्रह
 अकाराकाररहिता कालमृत्युजरापहा ।  
 तन्वी तत्त्वेश्वरी तारा त्रिवर्षा ज्ञानरूपिणी ॥ ९॥  
   
-काली कराली कामेशी छाया संज्ञाप्यरुन्धती ।  
+काली कराली कामेशी छाया सञ्ज्ञाप्यरुन्धती ।  
 निर्विकल्पा महावेगा महोत्साहा महोदरी ॥ १०॥  
   
 मेघा बलाका विमला विमलज्ञानदायिनी ।  

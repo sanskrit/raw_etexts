@@ -1,24 +1,25 @@
-+++
-"Text title" = "Himalayavandana"
-"File name" = "himAlayavandanA.itx"
-itxtitle = "himAlayavandanA (bhAratarAShTragItam)"
-engtitle = "himAlayavandanA"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "vAsudeva dvivedI shAstrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हिमालयवन्दना (भारतराष्ट्रगीतम्)"
+---
+Author: vAsudeva dvivedI shAstrI
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: himAlayavandanA.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Himalayavandana
+Translated by: Mandar Mali
+engtitle: himAlayavandanA
+itxtitle: himAlayavandanA (bhAratarAShTragItam)
+title: हिमालयवन्दना (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  हिमालयवन्दना   
 जय जय वीर हिमालय ! वन्दे  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "kanaka dhArA stotra"
-"File name" = "kanaka.itx"
-itxtitle = "kanakadhArAstotram (shaNkarAchAryavirachitam)"
-engtitle = "Kanaka Dhara Stotra"
-Category = "devii, lakShmI, stotra, devI, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. P. Narayanaswami swami at math.mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at math.mun.ca, Kirk Wortman"
-Description-comments = "Hymn to Goddess Laxmi, to confer prosperity on a poor woman"
-"Latest update" = "November 1, 2010, August 17, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कनकधारास्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Category: devii, lakShmI, stotra, devI, shankarAchArya
+Description-comments: Hymn to Goddess Laxmi, to confer prosperity on a poor woman
+File name: kanaka.itx
+Language: Sanskrit
+Latest update: November 1, 2010, August 17, 2017
+Location: doc_devii
+Proofread by: P. P. Narayanaswami swami at math.mun.ca, Kirk Wortman
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kanaka dhArA stotra
+Texttype: stotra
+Transliterated by: P. P. Narayanaswami swami at math.mun.ca
+engtitle: Kanaka Dhara Stotra
+itxtitle: kanakadhArAstotram (shaNkarAchAryavirachitam)
+title: कनकधारास्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  कनकधारास्तोत्रम्   
 वन्दे वन्दारुमन्दारमिन्दिरानन्दकन्दलम् ।  

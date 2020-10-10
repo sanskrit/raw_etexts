@@ -1,29 +1,29 @@
-+++
-"Text title" = "dharmashaastaaShTottarashatanaamaavaliH"
-"File name" = "dharmashaastaa108avali.itx"
-itxtitle = "dharmashAstAShTottarashatanAmAvalI"
-engtitle = "dharmashAstAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, deities_misc, ayyappa, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 17, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धर्मशास्ताष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, deities_misc, ayyappa, nAmAvalI
+File name: dharmashaastaa108avali.itx
+Language: Sanskrit
+Latest update: April 17, 2006
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: dharmashaastaaShTottarashatanaamaavaliH
+Texttype: nAmAvalI
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: dharmashAstAShTottarashatanAmAvalI
+itxtitle: dharmashAstAShTottarashatanAmAvalI
+title: धर्मशास्ताष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीधर्मशास्ताष्टोत्तरशतनामावली   
   
 ध्यानम् ॥  
   
-कल्हारोज्वल नीलकुन्तलभरं कालांबुद श्यामलं  
+कल्हारोज्वल नीलकुन्तलभरं कालाम्बुद श्यामलं  
 कर्पूराकलिताभिराम वपुषं कान्तेन्दुबिम्बाननम् ।  
 श्री दण्डाङ्कुश-पाश-शूल विलसत्पाणिं मदान्त-  
 द्विपारूढं शत्रुविमर्दनं हृदि महा शास्तारं आद्यं भजे ॥  
@@ -128,11 +128,11 @@ title = "धर्मशास्ताष्टोत्तरशतनाम�
 ॐ पापभञ्जनाय नमः  ।  
 ॐ पुष्कलापूर्णासंयुक्ताय नमः ।  
 ॐ परमात्मने नमः । १००  
-ॐ सतांगतये नमः ।  
+ॐ सताङ्गतये नमः ।  
 ॐ अनन्तादित्यसङ्काशाय नमः ।  
 ॐ सुब्रह्मण्यानुजाय नमः ।  
 ॐ बलिने नमः ।  
-ॐ भक्तानुकंपिने नमः ।  
+ॐ भक्तानुकम्पिने नमः ।  
 ॐ देवेशाय नमः ।  
 ॐ भगवते नमः ।  
 ॐ भक्तवत्सलाय नमः  ॥ १०८  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Chanakya Niti Sutra"
-"File name" = "chANakyasUtra.itx"
-itxtitle = "chANakyAni vA kauTilIyAni nItisUtrANi"
-engtitle = "Chanakya (Kautilya) Niti Sutra"
-Category = "sUtra, major_works, chANakya"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Chanakya (aka Kautilya)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Indexextra = "(text with commentary)"
-"Latest update" = "April, 24, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चाणक्यानि वा कौटिलीयानि नीतिसूत्राणि"
+---
+Author: Chanakya (aka Kautilya)
+Category: sUtra, major_works, chANakya
+File name: chANakyasUtra.itx
+Indexextra: (text with commentary)
+Language: Sanskrit
+Latest update: April, 24, 2010
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: major_works
+Text title: Chanakya Niti Sutra
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Chanakya (Kautilya) Niti Sutra
+itxtitle: chANakyAni vA kauTilIyAni nItisUtrANi
+title: चाणक्यानि वा कौटिलीयानि नीतिसूत्राणि
 
-+++
+---
   
  चाणक्यानि अथवा कौटिलीयानि नीतिसूत्राणि   
   
@@ -94,7 +94,7 @@ title = "चाणक्यानि वा कौटिलीयानि न�
   
 आपत्सु स्नेहयुक्तं मित्रम् ॥ ३५॥  
   
-मित्रसंग्रहणे बलं सम्पद्यते ॥ ३६॥  
+मित्रसङ्ग्रहणे बलं सम्पद्यते ॥ ३६॥  
   
 बलवान् अलब्धलाभे प्रयतेत ॥ ३७॥  
   
@@ -675,7 +675,7 @@ title = "चाणक्यानि वा कौटिलीयानि न�
   
 विषादप्यमृतं ग्राह्यम् ॥ १३॥  
   
-अवस्थया पुरुषः संमान्यते ॥ १४॥  
+अवस्थया पुरुषः सम्मान्यते ॥ १४॥  
   
 स्थान एव नराः पूज्यन्ते ॥ १५॥  
   
@@ -778,7 +778,7 @@ title = "चाणक्यानि वा कौटिलीयानि न�
   
 अप्रमत्तो दारान् निरीक्षेत ॥ ६५॥  
   
-स्त्रीषु किंचिदपि न विश्वसेत् ॥ ६६॥  
+स्त्रीषु किञ्चिदपि न विश्वसेत् ॥ ६६॥  
   
 न समाधिः स्त्रीषु लोकज्ञता च ॥ ६७॥  
   
@@ -892,7 +892,7 @@ title = "चाणक्यानि वा कौटिलीयानि न�
   
 न वेदबाह्यो धर्मः ॥ ४५॥  
   
-कथंचिदपि धर्मं निषेवेत ॥ ४६॥  
+कथञ्चिदपि धर्मं निषेवेत ॥ ४६॥  
   
 स्वर्गं नयति सूनृतम् ॥ ४७॥  
   

@@ -1,21 +1,22 @@
-+++
-"Text title" = "laghusaptashatIstotram"
-"File name" = "laghusaptashatIstotram.itx"
-itxtitle = "laghusaptashatIstotram"
-engtitle = "laghusaptashatIstotram"
-Category = "devii, devI, saptashatI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "February 20, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लघुसप्तशतीस्तोत्रम्"
+---
+Category: devii, devI, saptashatI
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: laghusaptashatIstotram.itx
+Language: Sanskrit
+Latest update: February 20, 2017
+Location: doc_devii
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: laghusaptashatIstotram
+engtitle: laghusaptashatIstotram
+itxtitle: laghusaptashatIstotram
+title: लघुसप्तशतीस्तोत्रम्
 
-+++
+---
   
  लघुसप्तशतीस्तोत्रम्   
   
@@ -63,7 +64,7 @@ title = "लघुसप्तशतीस्तोत्रम्"
   
 आश्चर्यमेतदखिलं यदभूः सुरारि-  
      त्रैलोक्यवैभवविलुण्ठनजुष्टपाणी ।  
-शस्त्रैर्निहत्य भुवि शुम्भनिशुम्भसंज्ञौ  
+शस्त्रैर्निहत्य भुवि शुम्भनिशुम्भसञ्ज्ञौ  
      नीतौ त्वया जननि तावपि नाकलोकम् ॥ ९॥  
   
 त्वत्तेजसि प्रलयकालहुताशनेऽस्मिन्-  

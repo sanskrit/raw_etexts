@@ -3,7 +3,6 @@ title: 025 Seetha bursts into a wail
 title_english: 025 Seetha bursts into a wail
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-025-Seetha_bursts_into_a_wail.mp3"></div>
 
 अथ तासां वदन्तीनां परुषं दारुणं बहु ।  

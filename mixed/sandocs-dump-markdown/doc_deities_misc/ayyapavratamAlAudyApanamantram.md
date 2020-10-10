@@ -1,22 +1,22 @@
-+++
-"Text title" = "ayyapavratamAlAudyApanamantram"
-"File name" = "ayyapavratamAlAudyApanamantram.itx"
-itxtitle = "ayyapavratamAlAudyApanamantram"
-engtitle = "ayyapavratamAlAudyApanamantram"
-Category = "deities_misc, ayyappa"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "November 25, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अय्यपव्रतमालाउद्यापनमन्त्रम्"
+---
+Category: deities_misc, ayyappa
+File name: ayyapavratamAlAudyApanamantram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 25, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: ayyapavratamAlAudyApanamantram
+engtitle: ayyapavratamAlAudyApanamantram
+itxtitle: ayyapavratamAlAudyApanamantram
+title: अय्यपव्रतमालाउद्यापनमन्त्रम्
 
-+++
+---
   
  अय्यपव्रतमाला उद्यापनमन्त्रम्   
 अपूर्वमचलारोह दिव्यदर्शनकारण ।  

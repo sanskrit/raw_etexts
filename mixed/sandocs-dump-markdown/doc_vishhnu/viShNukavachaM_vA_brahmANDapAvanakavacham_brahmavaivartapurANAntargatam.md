@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vishnukavacha from Brahmavaivarta Purana"
-"File name" = "viShNukavachaBVP.itx"
-itxtitle = "viShNukavachaM vA brahmANDapAvanakavacham (brahmavaivartapurANAntargatam)"
-engtitle = "Vishnukavacha from Brahmavaivarta Purana"
-Category = "kavacha, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "brahmavaivartapurANa brahmakhaNDaM adhyAya 19 shloka 39-54"
-"Latest update" = "January 25, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुकवचं वा ब्रह्माण्डपावनकवचम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: kavacha, vishhnu, vishnu
+Description-comments: brahmavaivartapurANa brahmakhaNDaM adhyAya 19 shloka 39-54
+File name: viShNukavachaBVP.itx
+Language: Sanskrit
+Latest update: January 25, 2013
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Vishnukavacha from Brahmavaivarta Purana
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Vishnukavacha from Brahmavaivarta Purana
+itxtitle: viShNukavachaM vA brahmANDapAvanakavacham (brahmavaivartapurANAntargatam)
+title: विष्णुकवचं वा ब्रह्माण्डपावनकवचम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णुकवचं अथवा ब्रह्माण्डपावनकवचं ब्रह्मवैवर्त पुराणान्तर्गतम्   
   
@@ -89,7 +89,7 @@ title = "विष्णुकवचं वा ब्रह्माण्डप
 ह्रीं कृष्णाय नमो वक्त्रं क्लीं पूर्वश्च भुजद्वयम् ॥ २८॥  
   
 नमो गोपाङ्गनेशाय स्कन्धावष्टाक्षरोऽवतु ।  
-दन्तपंक्तिमोष्ठयुग्मं नमो गोपीश्वराय च ॥ २९॥  
+दन्तपङ्क्तिमोष्ठयुग्मं नमो गोपीश्वराय च ॥ २९॥  
   
 ओं नमो भगवते रासमण्डलेशाय स्वाहा ।  
 स्वयं वक्षस्थलं पातु मन्त्रोऽयं षोडशाक्षरः ॥ ३०॥  

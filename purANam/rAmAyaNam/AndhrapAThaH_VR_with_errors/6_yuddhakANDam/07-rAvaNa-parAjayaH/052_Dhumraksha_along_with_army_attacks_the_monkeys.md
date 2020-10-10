@@ -3,7 +3,6 @@ title: 052 Dhumraksha along with army attacks the monkeys
 title_english: 052 Dhumraksha along with army attacks the monkeys
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-052-Dhumraksha_along_with_army_attacks_the_monkeys_0.mp3"></div>
 
 धूम्र अक्षम् प्रेक्ष्य निर्यान्तम् राक्षसम् भीम निस्वनम् ।  

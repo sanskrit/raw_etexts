@@ -1,24 +1,24 @@
-+++
-"Text title" = "Indrakshi Sahasranama Stotram"
-"File name" = "indrAkShIsahasranAmastotram.itx"
-itxtitle = "indrAkShIsahasranAmastotram (rudrayAmAlAntargatam)"
-engtitle = "indrAkShIsahasranAmastotram"
-Category = "devii, otherforms, devI, sahasranAma"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Description-comments = "Rudrayamala, See corresponding nAmAvalI"
-Indexextra = "(Manuscript)"
-"Latest update" = "March 6, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "इन्द्राक्षीसहस्रनामस्तोत्रम् (रुद्रयामालान्तर्गतम्)"
+---
+Category: devii, otherforms, devI, sahasranAma
+Description-comments: Rudrayamala, See corresponding nAmAvalI
+File name: indrAkShIsahasranAmastotram.itx
+Indexextra: (Manuscript)
+Language: Sanskrit
+Latest update: March 6, 2020
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Indrakshi Sahasranama Stotram
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: indrAkShIsahasranAmastotram
+itxtitle: indrAkShIsahasranAmastotram (rudrayAmAlAntargatam)
+title: इन्द्राक्षीसहस्रनामस्तोत्रम् (रुद्रयामालान्तर्गतम्)
 
-+++
+---
   
  श्रीइन्द्राक्षीसहस्रनामस्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  

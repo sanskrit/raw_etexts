@@ -1,22 +1,22 @@
-+++
-"Text title" = "Mrityunjaya 64 Names"
-"File name" = "mRityunjayachatuHShaShTinAmAvaliH.itx"
-itxtitle = "mRityunjayachatuHShaShTinAmAvaliH"
-engtitle = "mRityunjayachatuHShaShTinAmAvaliH"
-Category = "shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "July 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मृइत्युञ्जयचतुःषष्टिनामावलिः"
+---
+Category: shiva, nAmAvalI
+File name: mRityunjayachatuHShaShTinAmAvaliH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 17, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mrityunjaya 64 Names
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: mRityunjayachatuHShaShTinAmAvaliH
+itxtitle: mRityunjayachatuHShaShTinAmAvaliH
+title: मृइत्युञ्जयचतुःषष्टिनामावलिः
 
-+++
+---
   
  मृत्युञ्जय चतुःषष्टिनामावलिः   
 ॐ मृत्युञ्जयाय नमः । नीलकण्ठाय । महादेवाय । शङ्कराय ।  

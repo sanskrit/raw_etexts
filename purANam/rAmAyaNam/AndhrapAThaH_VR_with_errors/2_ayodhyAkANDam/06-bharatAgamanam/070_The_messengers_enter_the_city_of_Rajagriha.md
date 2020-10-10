@@ -3,7 +3,6 @@ title: 070 The messengers enter the city of Rajagriha
 title_english: 070 The messengers enter the city of Rajagriha
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-070-Bharathasya_Nishakramanam.mp3"></div>
 
 भरते ब्रुवति स्वप्नम् दूताः ते क्लान्त वाहनाः ।  
@@ -33,7 +32,7 @@ title_english: 070 The messengers enter the city of Rajagriha
 भरतः च अपि तान् दूतान् एवम् उक्तः अभ्यभाषत ।  
 आपृच्चे अहम् महा राजम् दूताः सम्त्वरयन्ति माम् ॥ २-७०-१३  
 एवम् उक्त्वा तु तान् दूतान् भरतः पार्थिव आत्मजः ।  
-दूतैः संचोदितः वाक्यम् मातामहम् उवाच ह ॥ २-७०-१४  
+दूतैः सञ्चोदितः वाक्यम् मातामहम् उवाच ह ॥ २-७०-१४  
 राजन् पितुर् गमिष्यामि सकाशम् दूत चोदितः ।  
 पुनर् अपि अहम् एष्यामि यदा मे त्वम् स्मरिष्यसि ॥ २-७०-१५  
 भरतेन एवम् उक्तः तु नृपो मातामहः तदा ।  

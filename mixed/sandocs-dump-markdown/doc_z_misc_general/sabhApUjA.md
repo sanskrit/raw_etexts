@@ -1,21 +1,21 @@
-+++
-"Text title" = "sabhApUjA"
-"File name" = "sabhApUjA.itx"
-itxtitle = "sabhApUjA"
-engtitle = "sabhApUjA"
-Category = "misc, pUjA"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Parameshwar Puttanmane poornapathi at gmail.com"
-"Proofread by" = "Parameshwar Puttanmane poornapathi at gmail.com"
-"Latest update" = "October 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सभापूजा"
+---
+Category: misc, pUjA
+File name: sabhApUjA.itx
+Language: Sanskrit
+Latest update: October 6, 2018
+Location: doc_z_misc_general
+Proofread by: Parameshwar Puttanmane poornapathi at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: sabhApUjA
+Transliterated by: Parameshwar Puttanmane poornapathi at gmail.com
+engtitle: sabhApUjA
+itxtitle: sabhApUjA
+title: सभापूजा
 
-+++
+---
   
  सभापूजा   
 ब्राह्मणेभ्यो महद्भ्यश्च वेदविद्भ्यो विशेषतः ।  

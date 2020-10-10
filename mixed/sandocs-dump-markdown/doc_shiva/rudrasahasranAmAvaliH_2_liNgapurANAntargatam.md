@@ -1,22 +1,23 @@
-+++
-"Text title" = "Rudra Sahasranamavali from LingapurAna 1000 Names"
-"File name" = "rudrasahasranAmAvalIlingapurANa.itx"
-itxtitle = "rudrasahasranAmAvaliH 2 (liNgapurANAntargatam)"
-engtitle = "rudrasahasranAmavali from lingapurANa"
-Category = "shiva, sahasranAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Lingapuranam - pUrvabhAgaH/adhyAyaH 65.  Purana available at sa.wikisource.org"
-Indexextra = "(stotra)"
-"Latest update" = "March 26, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रसहस्रनामावलिः २ (लिण्गपुराणान्तर्गतम्)"
+---
+Category: shiva, sahasranAmAvalI
+Description/comments: Lingapuranam - pUrvabhAgaH/adhyAyaH 65.  Purana available at
+  sa.wikisource.org
+File name: rudrasahasranAmAvalIlingapurANa.itx
+Indexextra: (stotra)
+Language: Sanskrit
+Latest update: March 26, 2020
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Rudra Sahasranamavali from LingapurAna 1000 Names
+engtitle: rudrasahasranAmavali from lingapurANa
+itxtitle: rudrasahasranAmAvaliH 2 (liNgapurANAntargatam)
+title: रुद्रसहस्रनामावलिः २ (लिण्गपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीरुद्रसहस्रनामावलिः २   
 लिङ्गपुराणतः अध्याय ६५  

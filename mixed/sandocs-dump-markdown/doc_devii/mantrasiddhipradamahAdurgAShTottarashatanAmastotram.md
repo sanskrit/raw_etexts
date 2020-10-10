@@ -1,21 +1,21 @@
-+++
-"Text title" = "mantrasiddhipradamahAdurgAShTottarashatanAmastotram"
-"File name" = "mantrasiddhipradamahAdurgAShTottarashatanAmastotram.itx"
-itxtitle = "mantrasiddhipradamahAdurgAShTottarashatanAmastotram"
-engtitle = "mantrasiddhipradamahAdurgAShTottarashatanAmastotram"
-Category = "devii, aShTottarashatanAma, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "December 23, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मन्त्रसिद्धिप्रदमहादुर्गाष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: devii, aShTottarashatanAma, durgA, devI
+File name: mantrasiddhipradamahAdurgAShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: December 23, 2018
+Location: doc_devii
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mantrasiddhipradamahAdurgAShTottarashatanAmastotram
+engtitle: mantrasiddhipradamahAdurgAShTottarashatanAmastotram
+itxtitle: mantrasiddhipradamahAdurgAShTottarashatanAmastotram
+title: मन्त्रसिद्धिप्रदमहादुर्गाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  मन्त्रसिद्धिप्रदमहादुर्गाष्टोत्तरशतनामस्तोत्रम्   
 ॐ दुर्गा भवानी देवेशी विश्वनाथप्रिया शिवा ।  

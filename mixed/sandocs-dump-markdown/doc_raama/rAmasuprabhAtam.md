@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAmasuprabhAtam"
-"File name" = "rAmasuprabhAtam.itx"
-itxtitle = "rAmasuprabhAtam"
-engtitle = "rAmasuprabhAtam"
-Category = "raama, suprabhAta, panchaka"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rashmi R rashmirjois at gmail.com"
-"Proofread by" = "Rashmi R rashmirjois at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "April 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामसुप्रभातम्"
+---
+Category: raama, suprabhAta, panchaka
+File name: rAmasuprabhAtam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 16, 2019
+Location: doc_raama
+Proofread by: Rashmi R rashmirjois at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmasuprabhAtam
+Transliterated by: Rashmi R rashmirjois at gmail.com
+engtitle: rAmasuprabhAtam
+itxtitle: rAmasuprabhAtam
+title: रामसुप्रभातम्
 
-+++
+---
   
  श्रीरामसुप्रभातम्   
 श्रीराम कोसलसुताजठरामृताब्धि-  

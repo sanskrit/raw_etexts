@@ -1,24 +1,24 @@
-+++
-"Text title" = "gangAstuti 1"
-"File name" = "gangAstuti.itx"
-itxtitle = "gaNgAstutiH 1 gaNgAdashaharAstotram (chaturbhujAM trinetrAM)"
-engtitle = "Gangastuti 1"
-Category = "devii, nadI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "October 25, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गास्तुतिः १ गण्गादशहरास्तोत्रम् (चतुर्भुजां त्रिनेत्रां)"
+---
+Category: devii, nadI, stotra, devI
+File name: gangAstuti.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: October 25, 2019
+Location: doc_devii
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gangAstuti 1
+Texttype: stotra
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: Gangastuti 1
+itxtitle: gaNgAstutiH 1 gaNgAdashaharAstotram (chaturbhujAM trinetrAM)
+title: गण्गास्तुतिः १ गण्गादशहरास्तोत्रम् (चतुर्भुजां त्रिनेत्रां)
 
-+++
+---
   
  गङ्गास्तुती गङ्गादशहरास्तोत्रम् च   
 श्रीगणेशायनमः ।  
@@ -42,7 +42,7 @@ title = "गण्गास्तुतिः १ गण्गादशहरा
               गङ्गे मां पावय पावय स्वाहा ।  
 अनेन मन्त्रेण आगमोक्तेन पञ्चपुष्पाञ्जलिं श्रीगङ्गायै निवेदयेत् ।  
 मया हतानि पुष्पाणि पूजार्थं प्रतिगृह्यताम् ।  
-दशांगं गुग्गुलं धूपं सुगन्धं च मनोहरम् ॥ ६॥  
+दशाङ्गं गुग्गुलं धूपं सुगन्धं च मनोहरम् ॥ ६॥  
   
 गृहाण मङ्गलं दीपं घृतवर्तिसमन्वितम् ।  
 चतुर्विधं च नैवेद्यं रसैः षड्भिः समन्वितम् ।  
@@ -128,7 +128,7 @@ title = "गण्गास्तुतिः १ गण्गादशहरा
 यः पठेद्दशकृत्वस्तु दरिद्रो वापि चाक्षमः  ॥ २३॥  
   
 सोऽपि तत्फलमाप्नोति गङ्गां सम्पूज्य यत्नतः ।  
-पूर्वोक्तेन विधानेन यत्फलं संप्रकीर्तितम् ॥ २४॥  
+पूर्वोक्तेन विधानेन यत्फलं सम्प्रकीर्तितम् ॥ २४॥  
   
 यथा गौरी तथा गङ्गा तस्माद्गौर्यास्तु पूजने ।  
 विधिर्यो विहितः सम्यक् सोऽपि गङ्गाप्रपूजने ॥२५॥  
@@ -154,7 +154,7 @@ title = "गण्गास्तुतिः १ गण्गादशहरा
 दशपापहरा यस्मात्तस्माद्दशहरा स्मृता ।  
 एतैदर्शविधैः पापैः कोटिजन्मसमुद्भवैः ॥ ३२॥  
   
-मुंच्यते नात्र सन्देहो ब्रह्मणो वचनं यथा ।  
+मुञ्च्यते नात्र सन्देहो ब्रह्मणो वचनं यथा ।  
 दशत्रिंशच्छ्र्तान्सर्वान् पितॄनथ पितामहान्  ॥ ३३॥  
   
 उद्धरत्येव संसारान्मन्त्रेणानेन पूजिता  ।  

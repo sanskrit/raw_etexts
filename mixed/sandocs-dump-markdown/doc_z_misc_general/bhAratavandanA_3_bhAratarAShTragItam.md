@@ -1,24 +1,25 @@
-+++
-"Text title" = "Bharatavandana 3"
-"File name" = "bhAratavandanA3.itx"
-itxtitle = "bhAratavandanA 3 (bhAratarAShTragItam)"
-engtitle = "bhAratavandanA 3"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "vAsudeva dvivedI shAstrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारतवन्दना ३ (भारतराष्ट्रगीतम्)"
+---
+Author: vAsudeva dvivedI shAstrI
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: bhAratavandanA3.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bharatavandana 3
+Translated by: Mandar Mali
+engtitle: bhAratavandanA 3
+itxtitle: bhAratavandanA 3 (bhAratarAShTragItam)
+title: भारतवन्दना ३ (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  भारतवन्दना ३   
 भारत दक्षिण उत्तर वन्दे  

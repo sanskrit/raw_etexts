@@ -1,23 +1,23 @@
-+++
-"Text title" = "Durga Nirajana Panchakam"
-"File name" = "durgAnIrAjanapanchakam.itx"
-itxtitle = "(vrajakishoravirachitam)"
-engtitle = "durgAnIrAjanapanchakam"
-Category = "devii, panchaka, vrajakishora, durgA, AratI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "Vrajakishora Tripathi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vrajakishora Tripathi"
-"Proofread by" = "Vrajakishora Tripathi"
-"Latest update" = "March 14, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "(व्रजकिशोरविरचितम्)"
+---
+Author: Vrajakishora Tripathi
+Category: devii, panchaka, vrajakishora, durgA, AratI
+File name: durgAnIrAjanapanchakam.itx
+Language: Sanskrit
+Latest update: March 14, 2020
+Location: doc_devii
+Proofread by: Vrajakishora Tripathi
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Durga Nirajana Panchakam
+Transliterated by: Vrajakishora Tripathi
+engtitle: durgAnIrAjanapanchakam
+itxtitle: (vrajakishoravirachitam)
+title: (व्रजकिशोरविरचितम्)
 
-+++
+---
   
  श्रीदुर्गानीराजनपञ्चकं   
 कर्पूरेण वरेण पावकशिखा शाखायते तेजसा  

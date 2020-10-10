@@ -1,24 +1,24 @@
-+++
-"Text title" = "sItASTottarashatanAmAvaliH 108 Names from AnandarAmAyaNa"
-"File name" = "siitaa108nAmAvaliAnanda.itx"
-itxtitle = "sItAShTottarashatanAmAvaliH 1 (AnandarAmAyaNAntargatA)"
-engtitle = "sItAShTottarashatanAmAvalI 1"
-Category = "aShTottarashatanAmAvalI, raama, nAmAvalI, vAlmIki"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "nAmAvalI"
-Author = "Valmiki"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-Description-comments = "from Anandaramayana"
-"Latest update" = "July 4, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीताष्टोत्तरशतनामावलिः १ (आनन्दरामायणान्तर्गता)"
+---
+Author: Valmiki
+Category: aShTottarashatanAmAvalI, raama, nAmAvalI, vAlmIki
+Description-comments: from Anandaramayana
+File name: siitaa108nAmAvaliAnanda.itx
+Language: Sanskrit
+Latest update: July 4, 2006
+Location: doc_raama
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: raama
+Text title: sItASTottarashatanAmAvaliH 108 Names from AnandarAmAyaNa
+Texttype: nAmAvalI
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: sItAShTottarashatanAmAvalI 1
+itxtitle: sItAShTottarashatanAmAvaliH 1 (AnandarAmAyaNAntargatA)
+title: सीताष्टोत्तरशतनामावलिः १ (आनन्दरामायणान्तर्गता)
 
-+++
+---
   
  श्रीसीताष्टोत्तरशतनामावली   
 अथ श्रीमदानन्दरामायणान्तर्गत श्री सीताष्टोत्तरशतनामावलिः ॥  

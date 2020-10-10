@@ -1,24 +1,24 @@
-+++
-"Text title" = "reNukA khaDgamAlAmantraH"
-"File name" = "reNukAkhaDgamAlAmantra.itx"
-itxtitle = "reNukA khaDgamAlA mantraH"
-engtitle = "Shri Renuka khadgamala mantra"
-Category = "mAlAmantra, devii, reNukA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com, NA"
-Description-comments = "from shrIreNukAtantram, Pitambarapeeth, Datia"
-Indexextra = "(Renukatantra)"
-"Latest update" = "May 11, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुका खड्गमाला मन्त्रः"
+---
+Category: mAlAmantra, devii, reNukA, devI
+Description-comments: from shrIreNukAtantram, Pitambarapeeth, Datia
+File name: reNukAkhaDgamAlAmantra.itx
+Indexextra: (Renukatantra)
+Language: Sanskrit
+Latest update: May 11, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukA khaDgamAlAmantraH
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Shri Renuka khadgamala mantra
+itxtitle: reNukA khaDgamAlA mantraH
+title: रेणुका खड्गमाला मन्त्रः
 
-+++
+---
   
  श्रीरेणुका खड्गमाला मन्त्रः   
   

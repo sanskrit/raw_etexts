@@ -3,7 +3,6 @@ title: 057 Sumantra drives back to Ayodhya
 title_english: 057 Sumantra drives back to Ayodhya
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-057-Sumantrasya_Yodhya_Gamanam.mp3"></div>
 
 कथयित्वा सुदुह्ख आर्तः सुमन्त्रेण चिरम् सह ।  

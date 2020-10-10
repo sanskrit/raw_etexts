@@ -1,23 +1,23 @@
-+++
-"Text title" = "dhAtupATha  index with pronunciation marks"
-"File name" = "dhatupatha_index_svara.itx"
-itxtitle = "pANinIyadhAtupAThasya sUchiH sasvarA"
-engtitle = "Alphabetical Index of Panini's Dhatupatha with pronunciation marks"
-Category = "sUchI, major_works, pANinI"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "pANinI"
-Language = "Sanskrit"
-Subject = "linguistics/grammar/morphology_and_phonetics"
-"Transliterated by" = "Mihas Bayaryn bayaryn at mail.ru"
-"Proofread by" = "Mihas Bayaryn bayaryn at mail.ru"
-"Latest update" = "February 1, 2005, December 23, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पाणिनीयधातुपाठस्य सूचिः सस्वरा"
+---
+Author: pANinI
+Category: sUchI, major_works, pANinI
+File name: dhatupatha_index_svara.itx
+Language: Sanskrit
+Latest update: February 1, 2005, December 23, 2018
+Location: doc_z_misc_major_works
+Proofread by: Mihas Bayaryn bayaryn at mail.ru
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: linguistics/grammar/morphology_and_phonetics
+Sublocation: major_works
+Text title: dhAtupATha  index with pronunciation marks
+Texttype: pramukha
+Transliterated by: Mihas Bayaryn bayaryn at mail.ru
+engtitle: Alphabetical Index of Panini's Dhatupatha with pronunciation marks
+itxtitle: pANinIyadhAtupAThasya sUchiH sasvarA
+title: पाणिनीयधातुपाठस्य सूचिः सस्वरा
 
-+++
+---
   
  पाणिनीयधातुपाठस्य सूचिः सस्वरा   
   

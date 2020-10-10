@@ -1,23 +1,23 @@
-+++
-"Text title" = "kalki kRitam shivastotra"
-"File name" = "shivastotrakalki.itx"
-itxtitle = "shivastotram (kalkikRitam)"
-engtitle = "kalkikRRitaM shivastotram"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Indexextra = "(kalki)"
-"Latest update" = "Narch 4, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवस्तोत्रम् (कल्किकृइतम्)"
+---
+Category: shiva, stotra
+File name: shivastotrakalki.itx
+Indexextra: (kalki)
+Language: Sanskrit
+Latest update: Narch 4, 2004
+Location: doc_shiva
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: shiva
+Text title: kalki kRitam shivastotra
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: kalkikRRitaM shivastotram
+itxtitle: shivastotram (kalkikRitam)
+title: शिवस्तोत्रम् (कल्किकृइतम्)
 
-+++
+---
   
  श्रीशिवस्तोत्रं कल्किकृतम्   
   
@@ -38,7 +38,7 @@ title = "शिवस्तोत्रम् (कल्किकृइतम्
 ब्रह्माद्यंशे योऽभिमानी गुणात्मा शब्दाद्यङ्गैस्तं परेशं नमामि ॥ ५॥  
   
 यस्याज्ञया वायवो वान्ति लोके ज्वलत्यग्निः सविता याति तप्यन् ।  
-शीतांशुः खे तारकासंग्रहश्च प्रवर्तन्ते तं परेशं प्रपद्ये ॥ ६॥  
+शीतांशुः खे तारकासङ्ग्रहश्च प्रवर्तन्ते तं परेशं प्रपद्ये ॥ ६॥  
   
 यस्य श्वासात्सर्वधात्री धरित्री देवो वर्षत्यम्बुकालः प्रमाता ।  
 मेरुर्मध्ये भूवनानां च भर्ता तमीशानं विश्वरूपं नमामि ॥ ७॥  

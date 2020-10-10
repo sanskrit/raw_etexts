@@ -1,20 +1,20 @@
-+++
-"Text title" = "Namamo Vayam Matribhuh PunyabhustvAm"
-"File name" = "rAShTrasevikAsamitiprArthanA.itx"
-itxtitle = "prArthanA rAShTrasevikAsamiti"
-engtitle = "prArthanA rAShTrasevikAsamiti"
-Category = "deities_misc, stotra, sanskritgeet"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Videos 1, 2, 3, Meaning)"
-"Latest update" = "October 20, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रार्थना राष्ट्रसेविकासमिति"
+---
+Category: deities_misc, stotra, sanskritgeet
+File name: rAShTrasevikAsamitiprArthanA.itx
+Indexextra: (Videos 1, 2, 3, Meaning)
+Language: Sanskrit
+Latest update: October 20, 2019
+Location: doc_deities_misc
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Namamo Vayam Matribhuh PunyabhustvAm
+engtitle: prArthanA rAShTrasevikAsamiti
+itxtitle: prArthanA rAShTrasevikAsamiti
+title: प्रार्थना राष्ट्रसेविकासमिति
 
-+++
+---
   
  नमामो वयं मातृभूः पुण्यभूस्त्वां   
 नमामो वयं मातृभूः पुण्यभूस्त्वां  

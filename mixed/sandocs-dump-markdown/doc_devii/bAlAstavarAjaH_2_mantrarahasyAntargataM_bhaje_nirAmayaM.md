@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Stavaraja  2"
-"File name" = "bAlAstavarAjaH2.itx"
-itxtitle = "bAlAstavarAjaH 2 (mantrarahasyAntargataM bhaje nirAmayaM)"
-engtitle = "bAlAstavarAjaH 2"
-Category = "devii, dashamahAvidyA, devI, stavarAja"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH, mantrarahasya"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालास्तवराजः २ (मन्त्ररहस्यान्तर्गतं भजे निरामयं)"
+---
+Category: devii, dashamahAvidyA, devI, stavarAja
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH, mantrarahasya
+File name: bAlAstavarAjaH2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Stavaraja  2
+engtitle: bAlAstavarAjaH 2
+itxtitle: bAlAstavarAjaH 2 (mantrarahasyAntargataM bhaje nirAmayaM)
+title: बालास्तवराजः २ (मन्त्ररहस्यान्तर्गतं भजे निरामयं)
 
-+++
+---
   
  श्रीबालास्तवराजः २   
 भजे निरामयं वस्तु जगत्त्रयविमोहनम् ।  

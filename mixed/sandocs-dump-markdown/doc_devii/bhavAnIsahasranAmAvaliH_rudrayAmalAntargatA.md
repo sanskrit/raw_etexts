@@ -1,23 +1,24 @@
-+++
-"Text title" = "Bhavani Sahasra Namavali"
-"File name" = "bhavAnIsahasranAmAvalI.itx"
-itxtitle = "bhavAnIsahasranAmAvaliH (rudrayAmalAntargatA)"
-engtitle = "bhavAnI sahasranAmAvalI"
-Category = "sahasranAmAvalI, devii, pArvatI, devI, nAmAvalI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, PSA Easearan psawaswaran at gmail.com"
-"Description/comments" = "rudrayAmala"
-Indexextra = "(Scanned)"
-"Latest update" = "August 19, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवानीसहस्रनामावलिः (रुद्रयामलान्तर्गता)"
+---
+Category: sahasranAmAvalI, devii, pArvatI, devI, nAmAvalI
+Description/comments: rudrayAmala
+File name: bhavAnIsahasranAmAvalI.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: August 19, 2018
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, PSA Easearan psawaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Bhavani Sahasra Namavali
+engtitle: bhavAnI sahasranAmAvalI
+itxtitle: bhavAnIsahasranAmAvaliH (rudrayAmalAntargatA)
+title: भवानीसहस्रनामावलिः (रुद्रयामलान्तर्गता)
 
-+++
+---
   
  श्रीभवानीसहस्रनामावलिः   
   
@@ -205,7 +206,7 @@ title = "भवानीसहस्रनामावलिः (रुद्र
 ॐ श्रेणये नमः ।  
 ॐ पताकायै नमः ।  
 ॐ सुव्यूहायै नमः ।  
-ॐ युद्धकांक्षिण्यै नमः ।  
+ॐ युद्धकाङ्क्षिण्यै नमः ।  
 ॐ पताकिन्यै नमः ।  
 ॐ दयारम्भायै नमः ।  
 ॐ विपञ्चीपञ्चमप्रियायै नमः ।  var  विपञ्च्यै, पञ्चमप्रियायै  
@@ -684,7 +685,7 @@ title = "भवानीसहस्रनामावलिः (रुद्र
 ॐ द्युतये नमः ।  
 ॐ साक्षिण्यै नमः ।  
 ॐ क्षणदायै नमः ।  
-ॐ कांक्षायै नमः ।  var  दक्षायै  
+ॐ काङ्क्षायै नमः ।  var  दक्षायै  
 ॐ दक्षजायै नमः ।  
 ॐ कूटरूपिण्यै नमः ।  
 ॐ क्रतवे नमः ।  var  ऋतवे  

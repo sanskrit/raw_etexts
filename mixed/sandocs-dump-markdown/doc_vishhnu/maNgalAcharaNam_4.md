@@ -1,22 +1,22 @@
-+++
-"Text title" = "mangalAcharaNam 4"
-"File name" = "mangalAcharaNam4.itx"
-itxtitle = "maNgalAcharaNam 4"
-engtitle = "mangalAcharaNam 4"
-Category = "vishhnu, krishna, rAmAnujasampradAya, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मण्गलाचरणम् ४"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: vishhnu, krishna, rAmAnujasampradAya, mangala
+File name: mangalAcharaNam4.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: mangalAcharaNam 4
+engtitle: mangalAcharaNam 4
+itxtitle: maNgalAcharaNam 4
+title: मण्गलाचरणम् ४
 
-+++
+---
   
  मङ्गलाचरणम् ४   
   

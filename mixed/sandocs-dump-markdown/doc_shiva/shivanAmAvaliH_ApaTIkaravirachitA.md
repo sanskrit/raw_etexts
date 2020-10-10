@@ -1,26 +1,27 @@
-+++
-"Text title" = "Shiva Namavali"
-"File name" = "shivanAmAvalI.itx"
-itxtitle = "shivanAmAvaliH (ApaTIkaravirachitA)"
-engtitle = "shivanAmAvalI"
-Category = "shiva, ApaTIkara, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "ma. sa. ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "June 13, 2010"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवनामावलिः (आपटीकरविरचिता)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma. sa. ApaTIkara
+Category: shiva, ApaTIkara, nAmAvalI
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: shivanAmAvalI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 13, 2010
+Location: doc_shiva
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shiva Namavali
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: shivanAmAvalI
+itxtitle: shivanAmAvaliH (ApaTIkaravirachitA)
+title: शिवनामावलिः (आपटीकरविरचिता)
 
-+++
+---
   
  श्रीशिवनामावली   
       (पञ्चचामरम्)  

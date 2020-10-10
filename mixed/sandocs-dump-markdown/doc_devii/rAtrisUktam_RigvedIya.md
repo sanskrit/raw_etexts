@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAtrisUkta (Rigveda)"
-"File name" = "raatrisuukta.itx"
-itxtitle = "rAtrisUktam (RigvedIya)"
-engtitle = "rAtrisUkta (Rigveda)"
-Category = "sUkta, devii, otherforms, svara, rigveda, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dhruba Chakroborty dhruba at nfinity.nfinity.com"
-"Proofread by" = "Dhruba Chakroborty dhruba at nfinity.nfinity.com"
-Indexextra = "(Rigveda)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रात्रिसूक्तम् (ऋइग्वेदीय)"
+---
+Category: sUkta, devii, otherforms, svara, rigveda, devI
+File name: raatrisuukta.itx
+Indexextra: (Rigveda)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_devii
+Proofread by: Dhruba Chakroborty dhruba at nfinity.nfinity.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAtrisUkta (Rigveda)
+Texttype: svara
+Transliterated by: Dhruba Chakroborty dhruba at nfinity.nfinity.com
+engtitle: rAtrisUkta (Rigveda)
+itxtitle: rAtrisUktam (RigvedIya)
+title: रात्रिसूक्तम् (ऋइग्वेदीय)
 
-+++
+---
   
  रात्रिसूक्त (ऋग्वेद)   
                               ऋग्वेद १०-१०-१२७  

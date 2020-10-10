@@ -1,23 +1,23 @@
-+++
-"Text title" = "Indira Ashtottarashatanamavali 108 Names"
-"File name" = "indirAShTottarashatanAmAvaliH.itx"
-itxtitle = "indirAShTottarashatanAmAvaliH"
-engtitle = "indirAShTottarashatanAmAvaliH"
-Category = "devii, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "See corresponding stotra"
-Indexextra = "(Scan, stotra)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "इन्दिराष्टोत्तरशतनामावलिः"
+---
+Category: devii, aShTottarashatanAmAvalI, nAmAvalI
+Description/comments: See corresponding stotra
+File name: indirAShTottarashatanAmAvaliH.itx
+Indexextra: (Scan, stotra)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Indira Ashtottarashatanamavali 108 Names
+Transliterated by: PSA Easwaran
+engtitle: indirAShTottarashatanAmAvaliH
+itxtitle: indirAShTottarashatanAmAvaliH
+title: इन्दिराष्टोत्तरशतनामावलिः
 
-+++
+---
   
  इन्दिराष्टोत्तरशतनामावलिः   
 ॐ इन्दिरायै नमः । विष्णहृदयमन्दिरायै । पद्मसुन्दरायै ।  

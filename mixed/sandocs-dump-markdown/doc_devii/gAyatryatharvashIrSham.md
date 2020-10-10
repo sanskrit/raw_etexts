@@ -1,22 +1,23 @@
-+++
-"Text title" = "gAyatryatharvashIrSham"
-"File name" = "gAyatryatharvashIrSham.itx"
-itxtitle = "gAyatryatharvashIrSham"
-engtitle = "gAyatryatharvashIrSham"
-Category = "atharvashIrSha, devii, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "March 24, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्र्यथर्वशीर्षम्"
+---
+Category: atharvashIrSha, devii, gAyatrI, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: gAyatryatharvashIrSham.itx
+Language: Sanskrit
+Latest update: March 24, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatryatharvashIrSham
+engtitle: gAyatryatharvashIrSham
+itxtitle: gAyatryatharvashIrSham
+title: गायत्र्यथर्वशीर्षम्
 
-+++
+---
   
  गायत्र्यथर्वशीर्षम्   
   
@@ -126,7 +127,7 @@ title = "गायत्र्यथर्वशीर्षम्"
 धृतिश्चातिधृतिश्चैव प्रकृतिः कृतिराकृतिः ॥ २२॥  
   
 विकृतिः सङ्कृतिश्चैव तथातिकृतिरुत्कृतिः ।  
-इत्येताश्छन्दसां संज्ञाः क्रमशो वच्मि साम्प्रतम् ॥ २३॥  
+इत्येताश्छन्दसां सञ्ज्ञाः क्रमशो वच्मि साम्प्रतम् ॥ २३॥  
   
 भूरिति छेन्दो भुव इति छन्दः स्वरिति छन्दो  
 भूर्भुवःस्वरोमिति देवी गायत्री इत्येतानि छन्दांसि प्रथममाग्नेयं  

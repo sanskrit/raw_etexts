@@ -1,29 +1,29 @@
-+++
-"Text title" = "nallUr kAlikAshrutisudhA"
-"File name" = "kAlikAshrutisudhA.itx"
-itxtitle = "nallUr shrIkAlikA shrutisudhA"
-engtitle = "nallUr shrIkAlikA shrutisudhA"
-Category = "devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "April 25, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नल्लूर् श्रीकालिका श्रुतिसुधा"
+---
+Category: devii, dashamahAvidyA, stotra, devI
+File name: kAlikAshrutisudhA.itx
+Language: Sanskrit
+Latest update: April 25, 2008
+Location: doc_devii
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: nallUr kAlikAshrutisudhA
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: nallUr shrIkAlikA shrutisudhA
+itxtitle: nallUr shrIkAlikA shrutisudhA
+title: नल्लूर् श्रीकालिका श्रुतिसुधा
 
-+++
+---
   
  नल्लूर् श्रीकालिका श्रुतिसुधा   
   
 श्रीमत्सुन्दरपूर्विहाररसिकां कारुण्य-सिन्धुं शिवां  
      डक्का-शूल-कपाल-वह्नि-छुरिका-घण्टाऽर्धखेटोज्ज्वलाम् ।  
-किंचित्कुञ्चित-दक्षपाद-कमलां भूस्पृष्ट-वामाङ्घ्रिकां  
+किञ्चित्कुञ्चित-दक्षपाद-कमलां भूस्पृष्ट-वामाङ्घ्रिकां  
      आसीनां कुलदेवतां हृदि भजे श्रीकालिकामातरम् ॥ १॥  
   
 कावेरीकृत-सस्यवृद्धिमहिते ग्रामे द्विजैराधिते  
@@ -32,7 +32,7 @@ title = "नल्लूर् श्रीकालिका श्रुति
      नारीकेल-वनावृतां हृदि भजे श्रीकालिकामम्बिकाम् ॥ २॥  
   
 सा त्वं दक्षिण-कर्णभूषणमहो कृत्वाऽसुरं भीषणं  
-     शूलेनाऽसुरमन्यमुग्रमवनौ संच्छेद्य क्रुद्धाऽप्यलम् ।  
+     शूलेनाऽसुरमन्यमुग्रमवनौ सञ्च्छेद्य क्रुद्धाऽप्यलम् ।  
 श्रीमातः कुलदेवते तव शिशोर्मे सुप्रसन्नाऽभयं  
      दत्वा सर्वमभीप्सितं च दयया नित्यन्नु संरक्षसि ॥ ३॥  
   

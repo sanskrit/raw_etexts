@@ -1,22 +1,22 @@
-+++
-"Text title" = "Skanda Panchashata Nama Stotram"
-"File name" = "skandapanchAshatanAmastotram.itx"
-itxtitle = "skandapanchAshatanAmastotram (mahAbhAratavanaparvAntargatam)"
-engtitle = "skandapanchAshatanAmastotram"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Description-comments = "This portion is from skandastotram from Mahabharata vanaparva"
-"Latest update" = "March 6, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्कन्दपञ्चाशतनामस्तोत्रम् (महाभारतवनपर्वान्तर्गतम्)"
+---
+Category: subrahmanya
+Description-comments: This portion is from skandastotram from Mahabharata vanaparva
+File name: skandapanchAshatanAmastotram.itx
+Language: Sanskrit
+Latest update: March 6, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Skanda Panchashata Nama Stotram
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: skandapanchAshatanAmastotram
+itxtitle: skandapanchAshatanAmastotram (mahAbhAratavanaparvAntargatam)
+title: स्कन्दपञ्चाशतनामस्तोत्रम् (महाभारतवनपर्वान्तर्गतम्)
 
-+++
+---
   
  श्रीस्कन्दपञ्चाशतनामस्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  

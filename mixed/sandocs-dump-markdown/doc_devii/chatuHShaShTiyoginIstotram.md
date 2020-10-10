@@ -1,21 +1,21 @@
-+++
-"Text title" = "chatuHShaShTiyoginIstotram"
-"File name" = "chatuHShaShTiyoginIstotram.itx"
-itxtitle = "chatuHShaShTiyoginIstotram"
-engtitle = "chatuHShaShTiyoginIstotram"
-Category = "devii, devI, jaina"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चतुःषष्टियोगिनीस्तोत्रम्"
+---
+Category: devii, devI, jaina
+File name: chatuHShaShTiyoginIstotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: chatuHShaShTiyoginIstotram
+engtitle: chatuHShaShTiyoginIstotram
+itxtitle: chatuHShaShTiyoginIstotram
+title: चतुःषष्टियोगिनीस्तोत्रम्
 
-+++
+---
   
  श्रीचतुःषष्टियोगिनीस्तोत्रम्   
 अं ह्रीं दिव्ययोगी (१) महायोगी (२) सिद्धयोगी (३) गणेश्वरी(४)।  

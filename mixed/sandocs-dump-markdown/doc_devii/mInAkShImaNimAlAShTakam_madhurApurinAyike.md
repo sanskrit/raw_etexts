@@ -1,21 +1,21 @@
-+++
-"Text title" = "mInAkShImaNimAlAShTakam"
-"File name" = "mInAkShImaNimAlAShTakam.itx"
-itxtitle = "mInAkShImaNimAlAShTakam (madhurApurinAyike)"
-engtitle = "mInAkShImaNimAlAShTakam"
-Category = "aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Indexextra = "(Translation)"
-"Latest update" = "August 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मीनाक्षीमणिमालाष्टकम् (मधुरापुरिनायिके)"
+---
+Category: aShTaka
+File name: mInAkShImaNimAlAShTakam.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: August 2, 2017
+Location: doc_devii
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mInAkShImaNimAlAShTakam
+engtitle: mInAkShImaNimAlAShTakam
+itxtitle: mInAkShImaNimAlAShTakam (madhurApurinAyike)
+title: मीनाक्षीमणिमालाष्टकम् (मधुरापुरिनायिके)
 
-+++
+---
   
  श्रीमीनाक्षीमणिमालाष्टकम्   
   

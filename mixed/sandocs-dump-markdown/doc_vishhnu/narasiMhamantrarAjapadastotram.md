@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Narasimha Mantrarajapada Stotram"
-"File name" = "narasiMhamantrarAjastotram.itx"
-itxtitle = "narasiMhamantrarAjapadastotram"
-engtitle = "Shri Narasimha Mantrarajapada Stotram"
-Category = "vishhnu, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नरसिंहमन्त्रराजपदस्तोत्रम्"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: vishhnu, dashAvatAra
+File name: narasiMhamantrarAjastotram.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Narasimha Mantrarajapada Stotram
+engtitle: Shri Narasimha Mantrarajapada Stotram
+itxtitle: narasiMhamantrarAjapadastotram
+title: नरसिंहमन्त्रराजपदस्तोत्रम्
 
-+++
+---
   
  श्रीनरसिंहमन्त्रराजपदस्तोत्रम्   
 वृत्तोत्फुल्लविशालाक्षं विपक्षक्षयदीक्षितम् ।  

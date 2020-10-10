@@ -1,24 +1,24 @@
-+++
-"Text title" = "AdhyAtmika vichAra"
-"File name" = "adhyatma.itx"
-itxtitle = "AdhyAtmika vichAraH"
-engtitle = "AdhyAtmika vichAraH"
-Category = "vedanta, yoga, sahitya"
-Location = "doc_yoga"
-Sublocation = "yoga"
-Subcategory = "sahitya"
-Author = "M. Giridhar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "M. Giridhar"
-"Proofread by" = "M. Giridhar"
-Indexextra = "(+ English meaning 1.8.22)"
-"Latest update" = "October 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आध्यात्मिक विचारः"
+---
+Author: M. Giridhar
+Category: vedanta, yoga, sahitya
+File name: adhyatma.itx
+Indexextra: (+ English meaning 1.8.22)
+Language: Sanskrit
+Latest update: October 1, 2010
+Location: doc_yoga
+Proofread by: M. Giridhar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: philosophy/hinduism/religion
+Sublocation: yoga
+Text title: AdhyAtmika vichAra
+Transliterated by: M. Giridhar
+engtitle: AdhyAtmika vichAraH
+itxtitle: AdhyAtmika vichAraH
+title: आध्यात्मिक विचारः
 
-+++
+---
   
  आध्यात्मिक विचार   
   

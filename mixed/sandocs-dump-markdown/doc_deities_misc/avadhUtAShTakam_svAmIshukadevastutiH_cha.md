@@ -1,21 +1,21 @@
-+++
-"Text title" = "avadhUtAShTakam"
-"File name" = "avadhUtAShTakam.itx"
-itxtitle = "avadhUtAShTakam svAmIshukadevastutiH cha"
-engtitle = "avadhUtAShTakam"
-Category = "aShTaka, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subrahmanyam Yvs yvspmp at gmail.com"
-"Proofread by" = "Subrahmanyam Yvs yvspmp at gmail.com, NA"
-"Latest update" = "May 23, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अवधूताष्टकम् स्वामीशुकदेवस्तुतिः च"
+---
+Category: aShTaka, deities_misc
+File name: avadhUtAShTakam.itx
+Language: Sanskrit
+Latest update: May 23, 2015
+Location: doc_deities_misc
+Proofread by: Subrahmanyam Yvs yvspmp at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: avadhUtAShTakam
+Transliterated by: Subrahmanyam Yvs yvspmp at gmail.com
+engtitle: avadhUtAShTakam
+itxtitle: avadhUtAShTakam svAmIshukadevastutiH cha
+title: अवधूताष्टकम् स्वामीशुकदेवस्तुतिः च
 
-+++
+---
   
  अवधूताष्टकं स्वामीशुकदेवस्तुतिः च   
 श्री परमात्मने नमः ॥  

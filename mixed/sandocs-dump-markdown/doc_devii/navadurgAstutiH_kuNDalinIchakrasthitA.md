@@ -1,22 +1,22 @@
-+++
-"Text title" = "navadurgAstutikuNDalinI"
-"File name" = "navadurgAstutikuNDalinI.itx"
-itxtitle = "navadurgAstutiH (kuNDalinIchakrasthitA)"
-engtitle = "navadurgAstutiH based on Kundalini chakra"
-Category = "devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(images, Information)"
-"Latest update" = "September 29, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवदुर्गास्तुतिः (कुण्डलिनीचक्रस्थिता)"
+---
+Category: devii, durgA, devI
+File name: navadurgAstutikuNDalinI.itx
+Indexextra: (images, Information)
+Language: Sanskrit
+Latest update: September 29, 2017
+Location: doc_devii
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: navadurgAstutikuNDalinI
+engtitle: navadurgAstutiH based on Kundalini chakra
+itxtitle: navadurgAstutiH (kuNDalinIchakrasthitA)
+title: नवदुर्गास्तुतिः (कुण्डलिनीचक्रस्थिता)
 
-+++
+---
   
  नवदुर्गा स्तुतिः   
 एmAmingtitle.. navadurgA stutiH ..  

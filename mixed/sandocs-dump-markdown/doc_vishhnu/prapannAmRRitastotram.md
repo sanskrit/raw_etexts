@@ -1,23 +1,23 @@
-+++
-"Text title" = "prapannAmRRitastotram"
-"File name" = "prapannAmRRitastotram.itx"
-itxtitle = "prapannAmRRitastotram"
-engtitle = "prapannAmRRitastotram"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Swamini Tattvapriyananda tattvapriya3108 at gmail.com"
-"Description/comments" = "Stotra Sringeri"
-Indexextra = "(Scan)"
-"Latest update" = "November 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रपन्नामृतस्तोत्रम्"
+---
+Category: vishhnu
+Description/comments: Stotra Sringeri
+File name: prapannAmRRitastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 17, 2018
+Location: doc_vishhnu
+Proofread by: Swamini Tattvapriyananda tattvapriya3108 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: prapannAmRRitastotram
+Transliterated by: NA
+engtitle: prapannAmRRitastotram
+itxtitle: prapannAmRRitastotram
+title: प्रपन्नामृतस्तोत्रम्
 
-+++
+---
   
  प्रपन्नामृतस्तोत्रम्   
 कलयतु कल्याणगुणं कमलाकुचकुङ्कुमाङ्कितोरस्कम् ।  

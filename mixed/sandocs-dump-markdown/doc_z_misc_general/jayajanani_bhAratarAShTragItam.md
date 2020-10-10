@@ -1,24 +1,25 @@
-+++
-"Text title" = "Jaya Janani"
-"File name" = "jayajanani.itx"
-itxtitle = "jayajanani (bhAratarAShTragItam)"
-engtitle = "jayajanani"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "N Gopala Pillai"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयजननि (भारतराष्ट्रगीतम्)"
+---
+Author: N Gopala Pillai
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: jayajanani.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Jaya Janani
+Translated by: Mandar Mali
+engtitle: jayajanani
+itxtitle: jayajanani (bhAratarAShTragItam)
+title: जयजननि (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  जय जननि   
 जय जननि भरत - वसुधे विबुध - सेविते  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "kAverI pUjA from vratachUDAmaNi"
-"File name" = "kAverIpUjAvratachUDAmaNi.itx"
-itxtitle = "kAverIpUjA (vratachUDAmaNi)"
-engtitle = "kAverI pUjA from vratachUDAmaNi"
-Category = "devii, pUjA, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nidhish Aaryan nidhish.184 at gmail.com"
-"Proofread by" = "Nidhish Aaryan nidhish.184 at gmail.com"
-"Description/comments" = "From Vratachudamani"
-Indexextra = "(Vrata Chudamani Telugu)"
-"Latest update" = "October 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कावेरीपूजा (व्रतचूडामणि)"
+---
+Category: devii, pUjA, nadI, devI
+Description/comments: From Vratachudamani
+File name: kAverIpUjAvratachUDAmaNi.itx
+Indexextra: (Vrata Chudamani Telugu)
+Language: Sanskrit
+Latest update: October 6, 2018
+Location: doc_devii
+Proofread by: Nidhish Aaryan nidhish.184 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAverI pUjA from vratachUDAmaNi
+Transliterated by: Nidhish Aaryan nidhish.184 at gmail.com
+engtitle: kAverI pUjA from vratachUDAmaNi
+itxtitle: kAverIpUjA (vratachUDAmaNi)
+title: कावेरीपूजा (व्रतचूडामणि)
 
-+++
+---
   
  कावेरीपूजा   
 ॥ श्री गणेशाय नमः ॥ श्री गुरुभ्यो नमः ॥  

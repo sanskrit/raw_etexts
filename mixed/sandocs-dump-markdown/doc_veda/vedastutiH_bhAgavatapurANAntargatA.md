@@ -1,22 +1,22 @@
-+++
-"Text title" = "vedastuti shrImad bhAgavata purANAntargatam"
-"File name" = "vedastutibhAgavatam.itx"
-itxtitle = "vedastutiH (bhAgavatapurANAntargatA)"
-engtitle = "Praise of Vedas from Shrimad Bhagavata Purana Skandha 10 Adhyaya 87"
-Category = "veda, stotra"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Shankara shankara_2000 at yahoo.com, PSA Easwaran Sunder Hattangadi"
-Description-comments = "Bhagavatam dashama skandha adhyAya 87"
-"Latest update" = "September 12, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदस्तुतिः (भागवतपुराणान्तर्गता)"
+---
+Category: veda, stotra
+Description-comments: Bhagavatam dashama skandha adhyAya 87
+File name: vedastutibhAgavatam.itx
+Language: Sanskrit
+Latest update: September 12, 2013
+Location: doc_veda
+Proofread by: Shankara shankara_2000 at yahoo.com, PSA Easwaran Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: vedastuti shrImad bhAgavata purANAntargatam
+Texttype: stotra
+engtitle: Praise of Vedas from Shrimad Bhagavata Purana Skandha 10 Adhyaya 87
+itxtitle: vedastutiH (bhAgavatapurANAntargatA)
+title: वेदस्तुतिः (भागवतपुराणान्तर्गता)
 
-+++
+---
   
  वेदस्तुती श्रीमद् भागवत पुराणान्तर्गतम् १०८७   
   
@@ -59,7 +59,7 @@ title = "वेदस्तुतिः (भागवतपुराणान्
   
 श्रीसनन्दन उवाच  
 स्वसृष्टमिदमापीय शयानं सह शक्तिभिः ।  
-तदन्ते बोधयांचक्रुस्तल्लिङ्गैः श्रुतयः परम् ॥ १०.८७.१२॥  
+तदन्ते बोधयाञ्चक्रुस्तल्लिङ्गैः श्रुतयः परम् ॥ १०.८७.१२॥  
   
 यथा शयानं सम्राजं वन्दिनस्तत्पराक्रमैः ।  
 प्रत्यूषेऽभेत्य सुश्लोकैर्बोधयन्त्यनुजीविनः ॥ १०.८७.१३॥  

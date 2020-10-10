@@ -1,30 +1,30 @@
-+++
-"Text title" = "medhaasuuktaM"
-"File name" = "medhasukta.itx"
-itxtitle = "medhAsUktam"
-engtitle = "Medhasukta"
-Category = "sUkta, veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-"Proofread by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-Indexextra = "(Yajurveda 7.4.1, 10:41,42,43,10:44)"
-"Latest update" = "June 14, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मेधासूक्तम्"
+---
+Author: Vedic Tradition
+Category: sUkta, veda, svara
+File name: medhasukta.itx
+Indexextra: (Yajurveda 7.4.1, 10:41,42,43,10:44)
+Language: Sanskrit
+Latest update: June 14, 2000
+Location: doc_veda
+Proofread by: Rajagopal Iyer (rajsand at yahoo.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: veda
+Text title: medhaasuuktaM
+Texttype: svara
+Transliterated by: Rajagopal Iyer (rajsand at yahoo.com)
+engtitle: Medhasukta
+itxtitle: medhAsUktam
+title: मेधासूक्तम्
 
-+++
+---
   
  मेधासूक्तं   
   
 तैत्तिरीयारण्यकम् - ४ प्रपाठकः १० - अनुवाकः ४१-४४  
   
-ॐ यश्छन्द॑सामृष॒भो वि॒श्वरू॑पः। छन्दो॒भ्योऽध्य॒मृता᳚थ्संब॒भूव॑।  
+ॐ यश्छन्द॑सामृष॒भो वि॒श्वरू॑पः। छन्दो॒भ्योऽध्य॒मृता᳚थ्सम्ब॒भूव॑।  
 स मेन्द्रो॑ मे॒धया᳚ स्पृणोतु। अ॒मृत॑स्य देव॒धार॑णो भूयासम्।  
 शरी॑रं मे॒ विच॑र्षणम्। जि॒ह्वा मे॒ मधु॑मत्तमा।  
 कर्णा᳚भ्यां॒ भूरि॒विश्रु॑वम्। ब्रह्म॑णः को॒शो॑ऽसि मे॒धया पि॑हितः।  

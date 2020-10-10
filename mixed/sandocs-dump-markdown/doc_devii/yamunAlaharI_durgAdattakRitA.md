@@ -1,24 +1,24 @@
-+++
-"Text title" = "Yamuna Lahari"
-"File name" = "yamunAlaharI.itx"
-itxtitle = "yamunAlaharI (durgAdattakRitA)"
-engtitle = "yamunAlaharI"
-Category = "devii, devI, laharI, nadI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Durgadatta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta at  gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta at  gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "March 8, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनालहरी (दुर्गादत्तकृइता)"
+---
+Author: Durgadatta
+Category: devii, devI, laharI, nadI
+File name: yamunAlaharI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 8, 2020
+Location: doc_devii
+Proofread by: Mandar Mali aryavrutta at  gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Yamuna Lahari
+Transliterated by: Mandar Mali aryavrutta at  gmail.com
+engtitle: yamunAlaharI
+itxtitle: yamunAlaharI (durgAdattakRitA)
+title: यमुनालहरी (दुर्गादत्तकृइता)
 
-+++
+---
   
  श्रीयमुनालहरी   
 वरौवर्तिश्यामा तरणितनया दीनशरणा  
@@ -276,7 +276,7 @@ title = "यमुनालहरी (दुर्गादत्तकृइत
 भयं नैक प्राधिषदपि हरिचक्राऽविततनु-  
      र्ह्यतः को वा न स्यात्ततवसलिलपानाऽर्पितमनाः ॥ ५१॥  
   
-कृतान्तस्त्वांङ्गाता तवदपकृतालम्बनजनान्  
+कृतान्तस्त्वाङ्ङ्गाता तवदपकृतालम्बनजनान्  
      समर्चन्नानन्दं भजति च पयःपाननिरतान् ।  
 कथं वा नो कुर्याद्यदुचितमिदं धर्मपथगः  
      स्वसुपुन्नान् यस्माद्यजतिविभवैर्मातुलगणः ॥ ५२॥  

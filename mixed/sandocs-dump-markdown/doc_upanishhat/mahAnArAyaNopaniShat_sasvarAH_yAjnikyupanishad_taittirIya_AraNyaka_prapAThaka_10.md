@@ -1,27 +1,29 @@
-+++
-"Text title" = "Mahanarayana Upanishad with Vedic Accent"
-"File name" = "mahAnArAyaNopaniShatsasvarA.itx"
-itxtitle = "mahAnArAyaNopaniShat sasvarAH (yAjnikyupanishad, taittirIya AraNyaka prapAThaka 10)"
-engtitle = "Mahanarayana Upanishad with vedic Accent svara"
-Category = "upanishhat, narayana, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-SubDeity = "vishnu"
-Subcategory = "narayana"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com, Mandar Mali"
-"Proofread by" = "Sunder Hattangadi, Mandar Mali aryavrutta at gmail.com"
-Description-comments = "18/108; Krishna YajurVeda, Vaishnava Upanishad, Taittiriya Aranyaka.  Strictly not in 108 mentioned in Muktika upanishad."
-Indexextra = "(sasvara and English, Ch10 TA accented, Scans 1, 2, 3)"
-"Latest update" = "April 5, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महानारायणोपनिषत् सस्वराः (याज्ञिक्युपनिशद्, तैत्तिरीय आरण्यक प्रपाठक १०)"
+---
+Author: Vedic Tradition
+Category: upanishhat, narayana, svara, upanishad
+Description-comments: 18/108; Krishna YajurVeda, Vaishnava Upanishad, Taittiriya Aranyaka.  Strictly
+  not in 108 mentioned in Muktika upanishad.
+File name: mahAnArAyaNopaniShatsasvarA.itx
+Indexextra: (sasvara and English, Ch10 TA accented, Scans 1, 2, 3)
+Language: Sanskrit
+Latest update: April 5, 2020
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi, Mandar Mali aryavrutta at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: narayana
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Mahanarayana Upanishad with Vedic Accent
+Texttype: svara
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com, Mandar Mali
+engtitle: Mahanarayana Upanishad with vedic Accent svara
+itxtitle: mahAnArAyaNopaniShat sasvarAH (yAjnikyupanishad, taittirIya AraNyaka prapAThaka
+  10)
+title: महानारायणोपनिषत् सस्वराः (याज्ञिक्युपनिशद्, तैत्तिरीय आरण्यक प्रपाठक १०)
 
-+++
+---
   
  महानारायणोपनिषत् सस्वराः   
 शान्तिपाठः ।  
@@ -455,7 +457,7 @@ title = "महानारायणोपनिषत् सस्वराः 
 न कर्म॑णा न प्र॒जया॒ धने॑न॒ त्यागे॑नैके अमृत॒त्वमा॑न॒शुः ।  
 परे॑ण॒ नाकं॒ निहि॑तं॒ गुहा॑यां बिभ्राज॑ते यद्यत॑यो वि॒शन्ति॑ ॥ १४॥  
   
-वे॒दा॒न्त॒वि॒ज्ञान॒विनि॑श्चिता॒र्थाः संन्या॑सयो॒गाद्यत॑यः शुद्ध॒सत्त्वाः᳚ ।  
+वे॒दा॒न्त॒वि॒ज्ञान॒विनि॑श्चिता॒र्थाः सन्न्या॑सयो॒गाद्यत॑यः शुद्ध॒सत्त्वाः᳚ ।  
 ते ब्र॑ह्मलो॒के तु॒ परा᳚न्तकाले॒ परा॑मृताः॒(त्) परि॑मुच्यन्ति॒ सर्वे᳚ ॥ १५॥  
   
 द॒ह्रं॒ वि॒पा॒पं व॒रवे᳚श्मभूतं॒ यत् पु॑ण्डरी॒कं पु॒रम॑ध्यस॒ꣳस्थम् ।  
@@ -656,7 +658,7 @@ title = "महानारायणोपनिषत् सस्वराः 
   
 चतुस्त्रिंशोऽनुवाकः ।  
   
-आया॑तु॒ वर॑दा दे॒वी॒ अ॒क्षरं॑ ब्रह्म॒ संमि॑तम् ।  
+आया॑तु॒ वर॑दा दे॒वी॒ अ॒क्षरं॑ ब्रह्म॒ सम्मि॑तम् ।  
 गा॒य॒त्री᳚ छन्द॑सां मा॒ते॒दं ब्र॑ह्म जु॒षस्व॑ नः ॥ १॥  
   
 यदह्ना᳚त्कुरु॑ते पा॒पं॒ तदह्ना᳚त्प्रति॒मुच्य॑ते ।  

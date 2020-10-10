@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhavAnIshankarasuprabhAtam"
-"File name" = "bhavAnIshankarasuprabhAtam.itx"
-itxtitle = "bhavAnIshaNkarasuprabhAtam"
-engtitle = "bhavAnIshankarasuprabhAtam"
-Category = "shiva, suprabhAta"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Vaidakas of Shri Chitrapur Math"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Shri Chitrapura Stuti Manjari,3rd ed. 2008"
-Acknowledge-Permission = "Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/"
-"Latest update" = "March 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवानीशण्करसुप्रभातम्"
+---
+Acknowledge-Permission: Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/
+Author: Vaidakas of Shri Chitrapur Math
+Category: shiva, suprabhAta
+File name: bhavAnIshankarasuprabhAtam.itx
+Language: Sanskrit
+Latest update: March 2, 2018
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri Chitrapura Stuti Manjari,3rd ed. 2008
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: bhavAnIshankarasuprabhAtam
+engtitle: bhavAnIshankarasuprabhAtam
+itxtitle: bhavAnIshaNkarasuprabhAtam
+title: भवानीशण्करसुप्रभातम्
 
-+++
+---
   
  श्रीभवानीशङ्करसुप्रभातम्   
 वागर्थाविव सम्पृक्तौ वागर्थप्रतिपत्तये ।  

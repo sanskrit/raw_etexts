@@ -1,23 +1,23 @@
-+++
-"Text title" = "nRRisiMhaShaTchakropaniShat"
-"File name" = "nRRisiMhaShaTchakropaniShat.itx"
-itxtitle = "nRisiMhaShaTchakropaniShat (vaiShNava)"
-engtitle = "nRRisiMhaShaTchakropaniShat"
-Category = "upanishhat, vishhnu, upanishad, dashAvatAra"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहषट्चक्रोपनिषत् (वैष्णव)"
+---
+Category: upanishhat, vishhnu, upanishad, dashAvatAra
+Description-comments: aprakAshitA upaniShadaH
+File name: nRRisiMhaShaTchakropaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: nRRisiMhaShaTchakropaniShat
+engtitle: nRRisiMhaShaTchakropaniShat
+itxtitle: nRisiMhaShaTchakropaniShat (vaiShNava)
+title: नृइसिंहषट्चक्रोपनिषत् (वैष्णव)
 
-+++
+---
   
  नृसिंहषट्चक्रोपनिषत्   
 ॐ देवा ह वै सत्यं लोकमायंस्तं प्रजापतिमपृच्छन्नारसिंहचक्रन्नो  

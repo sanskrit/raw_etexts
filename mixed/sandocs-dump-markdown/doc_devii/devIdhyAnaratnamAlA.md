@@ -1,22 +1,22 @@
-+++
-"Text title" = "Devi Dhyana Ratnamala"
-"File name" = "devIdhyAnaratnamAlA.itx"
-itxtitle = "devIdhyAnaratnamAlA"
-engtitle = "devIdhyAnaratnamAlA"
-Category = "devii, dhyAna, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan"
-Indexextra = "(Scan)"
-"Latest update" = "May 24, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "देवीध्यानरत्नमाला"
+---
+Category: devii, dhyAna, devI
+File name: devIdhyAnaratnamAlA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 24, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Devi Dhyana Ratnamala
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: devIdhyAnaratnamAlA
+itxtitle: devIdhyAnaratnamAlA
+title: देवीध्यानरत्नमाला
 
-+++
+---
   
  श्री देवीध्यानरत्नमाला   
 ॐ नमो भवान्यै ॥  

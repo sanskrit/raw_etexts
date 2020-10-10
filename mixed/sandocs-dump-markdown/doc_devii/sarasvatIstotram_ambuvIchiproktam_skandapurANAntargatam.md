@@ -1,24 +1,24 @@
-+++
-"Text title" = "sarasvatIstotram by ambuvIchi"
-"File name" = "sarasvatIstotramambuvIchi.itx"
-itxtitle = "sarasvatIstotram (ambuvIchiproktam skandapurANAntargatam)"
-engtitle = "sarasvatIstotramambuvIchi"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Description/comments" = "(skandapurANa, nAgarakhaNDa, gra0 46, shlo0 22\\-33)"
-Indexextra = "(Scan)"
-"Latest update" = "December 31, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तोत्रम् (अम्बुवीचिप्रोक्तम् स्कन्दपुराणान्तर्गतम्)"
+---
+Category: devii, sarasvatI, devI
+Description/comments: (skandapurANa, nAgarakhaNDa, gra0 46, shlo0 22\-33)
+File name: sarasvatIstotramambuvIchi.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 31, 2018
+Location: doc_devii
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIstotram by ambuvIchi
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: sarasvatIstotramambuvIchi
+itxtitle: sarasvatIstotram (ambuvIchiproktam skandapurANAntargatam)
+title: सरस्वतीस्तोत्रम् (अम्बुवीचिप्रोक्तम् स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  अम्बुवीचिकृतं सरस्वतीस्तोत्रम्   
 सदसद् देवि यत्किञ्चिद् बन्धमोक्षात्मकं पदम् ।   

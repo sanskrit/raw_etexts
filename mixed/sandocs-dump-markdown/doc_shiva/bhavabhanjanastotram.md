@@ -1,21 +1,22 @@
-+++
-"Text title" = "bhavabhanjanastotram"
-"File name" = "bhavabhanjanastotram.itx"
-itxtitle = "bhavabhanjanastotram"
-engtitle = "bhavabhanjanastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "February 20, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवभञ्जनस्तोत्रम्"
+---
+Category: shiva
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: bhavabhanjanastotram.itx
+Language: Sanskrit
+Latest update: February 20, 2017
+Location: doc_shiva
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: bhavabhanjanastotram
+engtitle: bhavabhanjanastotram
+itxtitle: bhavabhanjanastotram
+title: भवभञ्जनस्तोत्रम्
 
-+++
+---
   
  भवभञ्जनस्तोत्रम्   
   

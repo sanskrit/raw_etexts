@@ -1,24 +1,25 @@
-+++
-"Text title" = "dashashlokI nirvANadashakastotraM cha"
-"File name" = "dashashl.itx"
-itxtitle = "dashashlokI nirvANadashakastotraM kevalo.ahaM cha (sArtham) (shaNkarAchAryavirachitA)"
-engtitle = "dashashlokI or nirvANadashakastotraM or kevaloham (with introduction and translation)"
-Category = "stotra, shankarAchArya, vedanta"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Texttype = "stotra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "M. Giridhar (giridhar at chemeng.iisc.ernet.in)"
-"Proofread by" = "M. Giridhar, Sunder Hattagadi sunderh at hotmail.com"
-"Translated by" = "\"Vaidya N. Sundaram\" (sundaram@ECN.PURDUE.EDU)"
-"Latest update" = "November 1, 2010, June 29, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशश्लोकी निर्वाणदशकस्तोत्रं केवलोऽहं च (सार्थम्) (शण्कराचार्यविरचिता)"
+---
+Author: Shankaracharya
+Category: stotra, shankarAchArya, vedanta
+File name: dashashl.itx
+Language: Sanskrit
+Latest update: November 1, 2010, June 29, 2017
+Location: doc_z_misc_shankara
+Proofread by: M. Giridhar, Sunder Hattagadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: dashashlokI nirvANadashakastotraM cha
+Texttype: stotra
+Translated by: '"Vaidya N. Sundaram" (sundaram@ECN.PURDUE.EDU)'
+Transliterated by: M. Giridhar (giridhar at chemeng.iisc.ernet.in)
+engtitle: dashashlokI or nirvANadashakastotraM or kevaloham (with introduction and
+  translation)
+itxtitle: dashashlokI nirvANadashakastotraM kevalo.ahaM cha (sArtham) (shaNkarAchAryavirachitA)
+title: दशश्लोकी निर्वाणदशकस्तोत्रं केवलोऽहं च (सार्थम्) (शण्कराचार्यविरचिता)
 
-+++
+---
   
  दशश्लोकी निर्वाणदशकं च   
   
@@ -82,7 +83,7 @@ One, the Residue, the Auspicious, the Only One, am I.᳚
   
 न वर्णा न वर्णाश्रमाचारधर्मा  
     न मे धारणाध्यानयोगादयोऽपि ।  
-अनात्माश्रयाहंममाध्यासहानात्  
+अनात्माश्रयाहम्ममाध्यासहानात्  
     तदेकोऽवशिष्टः शिवः केवलोऽहम् ॥ २॥  
   
   
@@ -190,7 +191,7 @@ not-aloneness. It is neither a void nor a non-void. When it does
 not admit of a second entity, in what manner can I speak about  
 it though it is established by all the Upanishads.?᳚  
   
-॥ इति श्रीमद् शंकराचार्यविरचितं दशश्लोकी अथवा  
+॥ इति श्रीमद् शङ्कराचार्यविरचितं दशश्लोकी अथवा  
                     निर्वाणदशकस्तोत्रं समाप्तं ॥  
   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Paingal Upanishad"
-"File name" = "paingala.itx"
-itxtitle = "paiNgalopaniShat"
-engtitle = "paiNgalopaniShat.h"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "59/108; Shukla Yajur Veda, Samanya Upanishad"
-"Latest update" = "July 16, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पैण्गलोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 59/108; Shukla Yajur Veda, Samanya Upanishad
+File name: paingala.itx
+Language: Sanskrit
+Latest update: July 16, 1999
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Paingal Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: paiNgalopaniShat.h
+itxtitle: paiNgalopaniShat
+title: पैण्गलोपनिषत्
 
-+++
+---
   
  पैङ्गलोपनिषत्   
   
@@ -189,7 +189,7 @@ title = "पैण्गलोपनिषत्"
 सर्वज्ञत्वादिलक्षणो मायोपाधिः सच्चिदानन्दलक्षणो  
 जगद्योनिस्तत्पदवाच्यो भवति । स  
 एवान्तःकरणसम्भिन्नबोधोऽस्मत्प्रत्ययावलम्बनस्त्वम्पदवाच्यो  
-भवति । परजीवोपाधिमायाविद्ये विहाय तत्त्वंपदलक्ष्यं  
+भवति । परजीवोपाधिमायाविद्ये विहाय तत्त्वम्पदलक्ष्यं  
 प्रत्यगभिन्नं ब्रह्म । तत्त्वमसीत्यहं ब्रह्मास्मीति  
 वाक्यार्थविचारः श्रवणं भवति । एकान्तेन  
 श्रवणार्थानुसन्धानं मननं भवति ।  
@@ -221,7 +221,7 @@ title = "पैण्गलोपनिषत्"
 कूटस्थे प्रत्यगात्मनि विलीयते । विश्वतैजसप्राज्ञाः  
 स्वस्वोपाधिलयात्प्रत्यगात्मनि लीयन्ते । अण्डं ज्ञानाग्निना  
 दग्धं कारणैः सह परमात्मनि लीनं भवति । ततो ब्राह्मणः  
-समाहितो भूत्वा तत्त्वंपदैक्यमेव सदा कुर्यात् । ततो  
+समाहितो भूत्वा तत्त्वम्पदैक्यमेव सदा कुर्यात् । ततो  
 मेघापायेंऽशुमानिवात्माविर्भवति । ध्यात्वा  
 मध्यस्थमात्मानं कलशान्तरदीपवत् ।  
 अङ्गुष्ठमात्रमात्मानमधूमज्योतिरूपकम् ॥ १॥  

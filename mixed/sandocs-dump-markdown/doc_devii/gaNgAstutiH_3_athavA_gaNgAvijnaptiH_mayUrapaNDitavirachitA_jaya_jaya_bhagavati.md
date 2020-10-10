@@ -1,24 +1,24 @@
-+++
-"Text title" = "Gangastutih 3 or Gangavijnaptih"
-"File name" = "gangAstutiHgangAvijnaptiH.itx"
-itxtitle = "gaNgAstutiH 3 athavA gaNgAvijnaptiH (mayUrapaNDitavirachitA jaya jaya bhagavati)"
-engtitle = "gangAstutiH 3 or gangAvijnaptiH"
-Category = "devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Mayurapandita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Proofread by" = "Shree Devi Kumar shreeshrii at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "November 3, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गास्तुतिः ३ अथवा गण्गाविज्ञप्तिः (मयूरपण्डितविरचिता जय जय भगवति)"
+---
+Author: Mayurapandita
+Category: devii, nadI, devI
+File name: gangAstutiHgangAvijnaptiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 3, 2019
+Location: doc_devii
+Proofread by: Shree Devi Kumar shreeshrii at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangastutih 3 or Gangavijnaptih
+Transliterated by: Shree Devi Kumar shreeshrii at gmail.com
+engtitle: gangAstutiH 3 or gangAvijnaptiH
+itxtitle: gaNgAstutiH 3 athavA gaNgAvijnaptiH (mayUrapaNDitavirachitA jaya jaya bhagavati)
+title: गण्गास्तुतिः ३ अथवा गण्गाविज्ञप्तिः (मयूरपण्डितविरचिता जय जय भगवति)
 
-+++
+---
   
  गङ्गास्तुतिः गङ्गाविज्ञप्तिः   
   

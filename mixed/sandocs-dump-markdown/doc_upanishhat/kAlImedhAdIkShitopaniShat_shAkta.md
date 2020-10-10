@@ -1,23 +1,23 @@
-+++
-"Text title" = "kAlImedhAdIkShitopaniShat"
-"File name" = "kAlImedhAdIkShitopaniShat.itx"
-itxtitle = "kAlImedhAdIkShitopaniShat (shAkta)"
-engtitle = "kAlImedhAdIkShitopaniShat"
-Category = "upanishhat, devii, devI, upanishad, dashamahAvidyA"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालीमेधादीक्षितोपनिषत् (शाक्त)"
+---
+Category: upanishhat, devii, devI, upanishad, dashamahAvidyA
+Description-comments: aprakAshitA upaniShadaH
+File name: kAlImedhAdIkShitopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: kAlImedhAdIkShitopaniShat
+engtitle: kAlImedhAdIkShitopaniShat
+itxtitle: kAlImedhAdIkShitopaniShat (shAkta)
+title: कालीमेधादीक्षितोपनिषत् (शाक्त)
 
-+++
+---
   
  कालीमेधादीक्षितोपनिषत्   
 अथाह वै देवानां पत्नीं भजते । तस्योपासकोऽन्यां गच्छन् ॐ  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "abhilAShAShTakaM 2"
-"File name" = "abhilaashha8-2.itx"
-itxtitle = "abhilAShAShTakam 2"
-engtitle = "abhilAShAShTakam 2"
-Category = "aShTaka, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu at satyam.net.in only 8 verses"
-Description-comments = "Skanda Purana - Kasi Kanda"
-"Latest update" = "November 22, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अभिलाषाष्टकम् २"
+---
+Category: aShTaka, deities_misc
+Description-comments: Skanda Purana - Kasi Kanda
+File name: abhilaashha8-2.itx
+Language: Sanskrit
+Latest update: November 22, 2006
+Location: doc_deities_misc
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: abhilAShAShTakaM 2
+Translated by: N.Balasubramanian bbalu at satyam.net.in only 8 verses
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: abhilAShAShTakam 2
+itxtitle: abhilAShAShTakam 2
+title: अभिलाषाष्टकम् २
 
-+++
+---
   
  अभिलाषाष्टकं २   
   
@@ -36,14 +36,14 @@ also be worshipped as one with form. Here the Supreme Being known by
 the name of Brahman is also addressed as Rudra in the first verse and  
 later in the last verse identified as the Lord of Gowri.    
 एकं ब्रह्मैवऽऽद्वितीयं समस्तं  
-      सत्यं सत्यं नेह नानास्ति किंचित् ।  
+      सत्यं सत्यं नेह नानास्ति किञ्चित् ।  
 एको रुद्रो न द्वितीयाय तस्थे  
       तस्मादेकं त्वां प्रपद्ये सदाहम् ॥ १॥ var  प्रपद्ये महेशम्   
 It is the one brahman which is without a second and is in the form of  
 everything.  There are no different things. This is really the truth.  
 And that brahman is Rudra.  In view of this, I always surrrender to  
 You who is the One without a second.   
-एकः कर्ता त्वं हि सर्वस्य शंभो  
+एकः कर्ता त्वं हि सर्वस्य शम्भो  
       नाना रूपेषु एकरूपोसि अरूपः ।  
 यद्वत् प्रत्यप्सु अर्कः एकोपि अनेकः  
       तस्मात् नान्यं त्वां विनेशं प्रपद्ये ॥ २॥  
@@ -63,12 +63,12 @@ only. I surrender to You the Lord.
 तोये शैत्यं दाहकत्वं च वन्हौ  
       तापो भानौ शीत भानौ प्रसादः ।  
 पुष्पे गण्धः दुग्ध मध्येऽपि सर्पिः  
-      यत्तत् शंभो त्वं ततः त्वां प्रपद्ये ॥ ४॥  
+      यत्तत् शम्भो त्वं ततः त्वां प्रपद्ये ॥ ४॥  
 The coldness in the water, the intense heat in the fire, the heat in the sun,  
 the joy in the moon, the fragrance in the flower and the ghee in the  
 curd are all aspects of You. Therefore I surrender to You.  
 शब्दं गृण्हासि अश्रवाः त्वं हि जिघ्रेः  
-      अग्राणः त्वं व्यंघ्रिः आयासि दूरात् ।  
+      अग्राणः त्वं व्यङ्घ्रिः आयासि दूरात् ।  
 व्यक्षः पश्येः त्वं रसज्ञोऽपि अजिह्वः  
       कः त्वां सम्यक् वेत्ति अतः त्वां प्रपद्ये ॥ ५॥  
 You hear but are without ears, You smell but are without nose,  

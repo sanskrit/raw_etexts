@@ -1,24 +1,24 @@
-+++
-"Text title" = "uchChiShTamahAgaNapatidhyAnam"
-"File name" = "uchChiShTamahAgaNapatidhyAnam.itx"
-itxtitle = "uchChiShTamahAgaNapati dhyAnam"
-engtitle = "uchChiShTamahAgaNapati dhyAnam"
-Category = "ganesha, stotra, dhyAnam"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Sri Harsha Ramamurthy (Harshananda?)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Description-comments = "http://www.kamakotimandali.com/stotra/stotra_index.html"
-"Latest update" = "July 12, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उच्छिष्टमहागणपति ध्यानम्"
+---
+Author: Sri Harsha Ramamurthy (Harshananda?)
+Category: ganesha, stotra, dhyAnam
+Description-comments: http://www.kamakotimandali.com/stotra/stotra_index.html
+File name: uchChiShTamahAgaNapatidhyAnam.itx
+Language: Sanskrit
+Latest update: July 12, 2012
+Location: doc_ganesha
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: uchChiShTamahAgaNapatidhyAnam
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: uchChiShTamahAgaNapati dhyAnam
+itxtitle: uchChiShTamahAgaNapati dhyAnam
+title: उच्छिष्टमहागणपति ध्यानम्
 
-+++
+---
   
  श्रीउच्छिष्टमहागणपति ध्यानम्   
   

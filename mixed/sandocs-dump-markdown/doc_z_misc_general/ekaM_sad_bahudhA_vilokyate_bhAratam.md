@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ekam Sad Bahudha Vilokyate Bharatam"
-"File name" = "ekaMsadbahudhAvilokyatebhAratam.itx"
-itxtitle = "ekaM sad bahudhA vilokyate bhAratam"
-engtitle = "ekaM sad bahudhA vilokyate bhAratam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dr. ramAkAnta shukla"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Volunteers at Bharat Vikas Parishad https://bvpindia.com"
-Indexextra = "(Text, BVP Intro)"
-Acknowledge-Permission = "Bharat Vikas Parishad https://bvpindia.com Atam Dev"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकं सद् बहुधा विलोक्यते भारतम्"
+---
+Acknowledge-Permission: Bharat Vikas Parishad https://bvpindia.com Atam Dev
+Author: Dr. ramAkAnta shukla
+Category: misc, sanskritgeet
+File name: ekaMsadbahudhAvilokyatebhAratam.itx
+Indexextra: (Text, BVP Intro)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Ekam Sad Bahudha Vilokyate Bharatam
+Transliterated by: Volunteers at Bharat Vikas Parishad https://bvpindia.com
+engtitle: ekaM sad bahudhA vilokyate bhAratam
+itxtitle: ekaM sad bahudhA vilokyate bhAratam
+title: एकं सद् बहुधा विलोक्यते भारतम्
 
-+++
+---
   
  एकं सद् बहुधा विलोक्यते भारतम्   
 एकं सद् बहुधा विलोक्यते भारतम् ।  

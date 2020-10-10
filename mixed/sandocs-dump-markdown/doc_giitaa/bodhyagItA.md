@@ -1,22 +1,25 @@
-+++
-"Text title" = "bodhyagItA"
-"File name" = "bodhyagiitaa.itx"
-itxtitle = "bodhyagItA"
-engtitle = "bodhyagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com, PSA Easwaranpsaeaswaran at gmail.com"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com), PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(mahAbhArata shAntiparva Mokshadharma, chapter 178, slokas 57-68 scanned copy (need to encode, volunteer?))"
-"Latest update" = "June 2, 1998 , December 26, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बोध्यगीता"
+---
+Category: gItA, giitaa
+File name: bodhyagiitaa.itx
+Indexextra: (mahAbhArata shAntiparva Mokshadharma, chapter 178, slokas 57-68 scanned
+  copy (need to encode, volunteer?))
+Language: Sanskrit
+Latest update: June 2, 1998 , December 26, 2013
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com), PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: bodhyagItA
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com, PSA Easwaranpsaeaswaran
+  at gmail.com
+engtitle: bodhyagItA
+itxtitle: bodhyagItA
+title: बोध्यगीता
 
-+++
+---
   
  बोध्यगीता   
   
@@ -59,8 +62,8 @@ title = "बोध्यगीता"
 इषुकारो नरः कश्चिदिषावासक्तमानसः ।  
 समीपेनापि गच्छन्तं राजानं नावबुद्धवान् ॥ १२॥  
   
-बहूनां कलहो नित्यं द्वयोः संकथनं भवेत् ।  
-एकाकी विचरिष्यामि कुमारीशंखको यथा ॥ १३ ॥  
+बहूनां कलहो नित्यं द्वयोः सङ्कथनं भवेत् ।  
+एकाकी विचरिष्यामि कुमारीशङ्खको यथा ॥ १३ ॥  
   
         इति बोद्ध्यगीता समाप्ता ॥  
   

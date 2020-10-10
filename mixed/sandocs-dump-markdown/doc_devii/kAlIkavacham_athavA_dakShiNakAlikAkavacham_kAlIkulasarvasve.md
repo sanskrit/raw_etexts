@@ -1,24 +1,24 @@
-+++
-"Text title" = "kAlIkavacham"
-"File name" = "kAlIkavacham.itx"
-itxtitle = "kAlIkavacham athavA dakShiNakAlikAkavacham (kAlIkulasarvasve)"
-engtitle = "kAlIkavacham.h"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Kunal Mukherjee kunal at neo.tamu.edu"
-"Proofread by" = "Kunal Mukherjee kunal at neo.tamu.edu"
-Description-comments = "kAlIkulasarvvasva.  It is meant for daxiNAkAlI."
-Indexextra = "(scan)"
-"Latest update" = "May 5, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालीकवचम् अथवा दक्षिणकालिकाकवचम् (कालीकुलसर्वस्वे)"
+---
+Category: kavacha, devii, dashamahAvidyA, devI
+Description-comments: kAlIkulasarvvasva.  It is meant for daxiNAkAlI.
+File name: kAlIkavacham.itx
+Indexextra: (scan)
+Language: Sanskrit
+Latest update: May 5, 2006
+Location: doc_devii
+Proofread by: Kunal Mukherjee kunal at neo.tamu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: Hinduism/religion/traditional
+Sublocation: devii
+Text title: kAlIkavacham
+Transliterated by: Kunal Mukherjee kunal at neo.tamu.edu
+engtitle: kAlIkavacham.h
+itxtitle: kAlIkavacham athavA dakShiNakAlikAkavacham (kAlIkulasarvasve)
+title: कालीकवचम् अथवा दक्षिणकालिकाकवचम् (कालीकुलसर्वस्वे)
 
-+++
+---
   
  कालीकवचम्   
 श्रीमद्दक्षिणकालिकाकवचम्  

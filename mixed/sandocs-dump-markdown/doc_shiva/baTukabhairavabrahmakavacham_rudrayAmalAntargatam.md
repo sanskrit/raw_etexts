@@ -1,21 +1,21 @@
-+++
-"Text title" = "Batukabhairava Brahmakavacha"
-"File name" = "baTukabhairavabrahmakavacham.itx"
-itxtitle = "baTukabhairavabrahmakavacham (rudrayAmalAntargatam)"
-engtitle = "Batukabhairava Brahmakavacham"
-Category = "kavacha, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, Psa Easwaran psaeaswaran at gmail.com"
-"Latest update" = "October 15, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बटुकभैरवब्रह्मकवचम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: kavacha, shiva
+File name: baTukabhairavabrahmakavacham.itx
+Language: Sanskrit
+Latest update: October 15, 2016
+Location: doc_shiva
+Proofread by: Gopal Upadhyay, Psa Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Batukabhairava Brahmakavacha
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: Batukabhairava Brahmakavacham
+itxtitle: baTukabhairavabrahmakavacham (rudrayAmalAntargatam)
+title: बटुकभैरवब्रह्मकवचम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीबटुकभैरवब्रह्मकवचम्   
 ॥ श्रीगणेशाय नमः ॥  

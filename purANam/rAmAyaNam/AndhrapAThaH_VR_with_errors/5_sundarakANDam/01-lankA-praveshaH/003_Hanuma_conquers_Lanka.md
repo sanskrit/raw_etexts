@@ -3,7 +3,6 @@ title: 003 Hanuma conquers Lanka
 title_english: 003 Hanuma conquers Lanka
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-003-Hanuma_conquers_Lanka.mp3"></div>
 
 स लम्ब शिखरे लम्बे लम्ब तोयद सम्निभे ।  
@@ -103,7 +102,7 @@ title_english: 003 Hanuma conquers Lanka
 तदा त्वया हि विज्ञेयम् रक्षसाम् भयामागतम् ।  
 स हि म् समयः सौम्य प्राप्तोऽय तव द्र्शनात् ॥ ५-३-४८  
 स्वयम्भूविहितः सत्यो न तस्यास्ति व्यतिक्रमः ।  
-सीतानिमित्तंम् राज्ञस्तु रावणस्य दुरात्मनः ॥ ५-३-४९  
+सीतानिमित्तम्म् राज्ञस्तु रावणस्य दुरात्मनः ॥ ५-३-४९  
 विधत्स्व सर्वकार्याणि यानि यानिह वाञ्चसि ।  
 तत्प्रविश्य हरिश्रेष्ठम् पुरीम् रावणपालिताम् ॥ ५-३-५०  
 विधत्स्व सर्वकार्याण् यानि यानीह वाञ्चसि ।  

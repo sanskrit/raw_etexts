@@ -1,23 +1,23 @@
-+++
-"Text title" = "AdityadvAdashanAmastotram"
-"File name" = "AdityadvAdashanAmastotram.itx"
-itxtitle = "AdityadvAdashanAmastotram"
-engtitle = "AdityadvAdashanAmastotram"
-Category = "navagraha, dvAdasha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आदित्यद्वादशनामस्तोत्रम्"
+---
+Category: navagraha, dvAdasha
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: AdityadvAdashanAmastotram.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: AdityadvAdashanAmastotram
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: AdityadvAdashanAmastotram
+itxtitle: AdityadvAdashanAmastotram
+title: आदित्यद्वादशनामस्तोत्रम्
 
-+++
+---
   
  आदित्यद्वादशनामस्तोत्रम्   
   

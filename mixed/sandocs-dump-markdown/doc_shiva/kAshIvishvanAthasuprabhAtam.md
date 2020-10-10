@@ -1,21 +1,21 @@
-+++
-"Text title" = "kAshivishvanAthasuprabhAtam"
-"File name" = "kAshivishvanAthasuprabhAtam.itx"
-itxtitle = "kAshIvishvanAthasuprabhAtam"
-engtitle = "kAshIvishvanAthasuprabhAtam"
-Category = "suprabhAta, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "October 29, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "काशीविश्वनाथसुप्रभातम्"
+---
+Category: suprabhAta, shiva
+File name: kAshivishvanAthasuprabhAtam.itx
+Language: Sanskrit
+Latest update: October 29, 2008
+Location: doc_shiva
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: kAshivishvanAthasuprabhAtam
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: kAshIvishvanAthasuprabhAtam
+itxtitle: kAshIvishvanAthasuprabhAtam
+title: काशीविश्वनाथसुप्रभातम्
 
-+++
+---
   
  श्रीकाशीविश्वनाथसुप्रभातम्   
   
@@ -25,7 +25,7 @@ title = "काशीविश्वनाथसुप्रभातम्"
 वन्दे काशीं गुहां गङ्गां भवानीं मणिकर्णिकाम् ॥ १॥  
   
 उत्तिष्ठ काशि भगवान् प्रभुविश्वनाथो  
-     गङ्गोर्मि-संगति-शुभैः परिभूषितोऽब्जैः ।  
+     गङ्गोर्मि-सङ्गति-शुभैः परिभूषितोऽब्जैः ।  
 श्रीधुण्डि-भैरव-मुखैः सहिताऽऽन्नपूर्णा  
      माता च वाञ्छति मुदा तव सुप्रभातम् ॥ २॥  
   
@@ -40,11 +40,11 @@ title = "काशीविश्वनाथसुप्रभातम्"
      नित्यं समस्त-जगतः कुरु सुप्रभातम् ॥ ४॥  
   
 ब्रह्मद्रवोपमित-गाङ्ग-पयः-प्रवाहैः  
-     पुण्यैः सदैव परिचुंबित-पादपद्मे ।  
+     पुण्यैः सदैव परिचुम्बित-पादपद्मे ।  
 मध्ये-ऽखिलामरगणैः परिसेव्यमाने  
      श्रीकाशिके कुरु सदा भुवि सुप्रभातम् ॥ ५॥  
   
-प्रत्नैरसंख्य-मठ-मन्दिर-तीर्थ-कुण्ड-  
+प्रत्नैरसङ्ख्य-मठ-मन्दिर-तीर्थ-कुण्ड-  
      प्रासाद-घट्ट-निवहैः विदुषां वरैश्च  
 आवर्जयस्यखिल-विश्व-मनांसि नित्यं  
      श्रीकाशिके कुरु सदा भुवि सुप्रभातम् ॥ ६॥।  
@@ -56,12 +56,12 @@ title = "काशीविश्वनाथसुप्रभातम्"
   
 या देवैरसुरैर्मुनीन्द्रतनयैर्गन्धर्व-यक्षोरगैः  
      नागैर्भूतलवासिभिर्द्विजवरैस्संसेविता सिद्धये ।  
-या गङ्गोत्तरवाहिनी-परिसरे तीर्थैरसंख्यैर्वृता  
+या गङ्गोत्तरवाहिनी-परिसरे तीर्थैरसङ्ख्यैर्वृता  
      सा काशी त्रिपुरारिराज-नगरी देयात् सदा मङ्गलम् ॥ ८॥  
   
 तीर्थानां प्रवरा मनोरथकरी संसार-पारापरा  
      नन्दा-नन्दि-गणेश्वरैरुपहिता देवैरशेषैः-स्तुता ।  
-या शंभोर्मणि-कुण्डलैक-कणिका विष्णोस्तपो-दीर्घिका  
+या शम्भोर्मणि-कुण्डलैक-कणिका विष्णोस्तपो-दीर्घिका  
      सेयं श्रीमणिकर्णिका भगवती देयात् सदा मङ्गलम् ॥ ९॥  
   
 अभिनव-बिस-वल्ली पाद-पद्मस्य विष्णोः  
@@ -72,7 +72,7 @@ title = "काशीविश्वनाथसुप्रभातम्"
 गाङ्गं वारि मनोहारि मुरारि-चरणच्युतम् ।  
 त्रिपुरारि-शिरश्चारि पापहारि पुनातु माम् ॥ ११॥  
   
-विघ्नावास-निवासकारण-महागण्डस्थलालंबितः  
+विघ्नावास-निवासकारण-महागण्डस्थलालम्बितः  
 सिन्दूरारुण-पुञ्ज-चन्द्रकिरण-प्रच्छादि-नागच्छविः ।  
 श्रीविघ्नेश्वर-वल्लभो गिरिजया सानन्दमानन्दितः (पाठभेद विश्वेश्वर)  
 स्मेरास्यस्तव धुण्डिराज-मुदितो देयात् सदा मङ्गलम् ॥ १२॥  
@@ -83,7 +83,7 @@ title = "काशीविश्वनाथसुप्रभातम्"
 काशी-मन्दिर-संस्थितोऽखिलगुरुः देयात् सदा मङ्गलम् ॥ १३॥  
   
 श्रीविश्वनाथ करुणामृत-पूर्ण-सिन्धो  
-     शीतांशु-खण्ड-समलंकृत-भव्यचूड ।  
+     शीतांशु-खण्ड-समलङ्कृत-भव्यचूड ।  
 उत्तिष्ठ विश्वजन-मङ्गल-साधनाय  
      नित्यं सर्वजगतः कुरु सुप्रभातम् ॥ १४॥  
   

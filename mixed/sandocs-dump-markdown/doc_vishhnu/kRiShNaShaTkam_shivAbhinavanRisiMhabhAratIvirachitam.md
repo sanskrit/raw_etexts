@@ -1,23 +1,23 @@
-+++
-"Text title" = "kRRiShNaShaTkam"
-"File name" = "kRRiShNaShaTkam.itx"
-itxtitle = "kRiShNaShaTkam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "kRRiShNaShaTkam"
-Category = "vishhnu, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, krishna, ShaTkam"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णषट्कम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: vishhnu, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, krishna, ShaTkam
+File name: kRRiShNaShaTkam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNaShaTkam
+engtitle: kRRiShNaShaTkam
+itxtitle: kRiShNaShaTkam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: कृइष्णषट्कम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीकृष्णषट्कम्   
 (श्रीकालटिक्षेत्रे)  

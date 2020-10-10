@@ -1,21 +1,22 @@
-+++
-"Text title" = "ardhanArIshvarastotram 2"
-"File name" = "ardhanArIshvarastotram.itx"
-itxtitle = "ardhanArIshvarastotram 2"
-engtitle = "ardhanArIshvarastotram 2"
-Category = "shiva, devii, devI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अर्धनारीश्वरस्तोत्रम् २"
+---
+Category: shiva, devii, devI
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: ardhanArIshvarastotram.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: ardhanArIshvarastotram 2
+engtitle: ardhanArIshvarastotram 2
+itxtitle: ardhanArIshvarastotram 2
+title: अर्धनारीश्वरस्तोत्रम् २
 
-+++
+---
   
  अर्धनारीश्वरस्तोत्रम्   
   
@@ -34,7 +35,7 @@ title = "अर्धनारीश्वरस्तोत्रम् २"
   
 स्वेदार्द्रवामकुचमण्डनपत्रभङ्ग-  
      संशोषिदक्षिणकराङ्गुलिभस्मरेणुः ।  
-स्त्रीपुंनपुंसकपदव्यतिलङ्घिनी वः  
+स्त्रीपुन्नपुंसकपदव्यतिलङ्घिनी वः  
      शम्भोस्तनुः सुखयतु प्रकृतिश्चतुर्थी ॥ ४॥  
   
 इत्यर्धनारीश्वरस्तोत्रं सम्पूर्णम् ।  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Maddrakshapurivasa Bhimeshvarasuprabhatam"
-"File name" = "drAkShApurIvAsabhImeshvarasuprabhAtam.itx"
-itxtitle = "drAkShApurIvAsabhImeshvarasuprabhAtam"
-engtitle = "drAkShApurIvAsabhImeshvarasuprabhAtam"
-Category = "shiva, suprabhAta"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Video)"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "द्राक्षापुरीवासभीमेश्वरसुप्रभातम्"
+---
+Category: shiva, suprabhAta
+File name: drAkShApurIvAsabhImeshvarasuprabhAtam.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_shiva
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Maddrakshapurivasa Bhimeshvarasuprabhatam
+engtitle: drAkShApurIvAsabhImeshvarasuprabhAtam
+itxtitle: drAkShApurIvAsabhImeshvarasuprabhAtam
+title: द्राक्षापुरीवासभीमेश्वरसुप्रभातम्
 
-+++
+---
   
  श्रीमद्द्राक्षापुरीवास भीमेश्वरसुप्रभातम्   
 श्रीमद्दक्षपुरीवास भीमेश्वर महाप्रभो ।  

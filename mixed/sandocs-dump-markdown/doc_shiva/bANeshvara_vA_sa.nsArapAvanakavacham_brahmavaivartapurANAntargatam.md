@@ -1,22 +1,22 @@
-+++
-"Text title" = "bANeshvara evaM sa.nsArapAvana kavachaM brahmavaivarta purANAntargatam"
-"File name" = "bANeshvarakavachaBVP.itx"
-itxtitle = "bANeshvara vA sa.nsArapAvanakavacham (brahmavaivartapurANAntargatam)"
-engtitle = "Baneshvara or Sansarapavana kavacha from Brahmavaivarta Purana"
-Category = "kavacha, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "brahmavaivartapurANa brahmakhaNDaM adhyAya 19 shloka 39-54"
-"Latest update" = "January 25, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बाणेश्वर वा संसारपावनकवचम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: kavacha, shiva
+Description-comments: brahmavaivartapurANa brahmakhaNDaM adhyAya 19 shloka 39-54
+File name: bANeshvarakavachaBVP.itx
+Language: Sanskrit
+Latest update: January 25, 2013
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: bANeshvara evaM sa.nsArapAvana kavachaM brahmavaivarta purANAntargatam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Baneshvara or Sansarapavana kavacha from Brahmavaivarta Purana
+itxtitle: bANeshvara vA sa.nsArapAvanakavacham (brahmavaivartapurANAntargatam)
+title: बाणेश्वर वा संसारपावनकवचम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  बाणेश्वर अथवा संसारपावनकवचं ब्रह्मवैवर्त पुराणान्तर्गतम्   
   
@@ -56,7 +56,7 @@ title = "बाणेश्वर वा संसारपावनकवचम
 तेजसा सिद्धियोगेन तपसा विक्रमेण च ॥ ४८॥  
   
 शम्भुर्मे मस्तकं पातु मुखं पातु महेश्वरः ।  
-दन्तपंक्तिं नीलकण्ठोऽप्यधरोष्ठं हरः स्वयम् ॥ ४९॥  
+दन्तपङ्क्तिं नीलकण्ठोऽप्यधरोष्ठं हरः स्वयम् ॥ ४९॥  
   
 कण्ठं पातु चन्द्रचूडः स्कन्धौ वृषभवाहनः ।  
 वक्षःस्थलं नीलकण्ठः पातु पृष्ठं दिगम्बरः ॥ ५०॥  

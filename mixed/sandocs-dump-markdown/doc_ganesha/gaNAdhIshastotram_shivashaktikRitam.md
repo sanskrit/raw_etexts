@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivashaktikRitaM gaNAdhIshastotram"
-"File name" = "shivashaktikRitaMgaNAdhIshastotram.itx"
-itxtitle = "gaNAdhIshastotram (shivashaktikRitam)"
-engtitle = "shivashaktikRRitaM gaNAdhIshastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)"
-"Proofread by" = "Karthik Chandan.P : Amith K Nagaraj(amithkn at rediffmail.com)"
-"Latest update" = "March 9, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणाधीशस्तोत्रम् (शिवशक्तिकृइतम्)"
+---
+Author: Traditional
+Category: ganesha, stotra
+File name: shivashaktikRitaMgaNAdhIshastotram.itx
+Language: Sanskrit
+Latest update: March 9, 2004
+Location: doc_ganesha
+Proofread by: 'Karthik Chandan.P : Amith K Nagaraj(amithkn at rediffmail.com)'
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: shivashaktikRitaM gaNAdhIshastotram
+Texttype: stotra
+Transliterated by: 'Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)'
+engtitle: shivashaktikRRitaM gaNAdhIshastotram
+itxtitle: gaNAdhIshastotram (shivashaktikRitam)
+title: गणाधीशस्तोत्रम् (शिवशक्तिकृइतम्)
 
-+++
+---
   
  श्रीगणाधीशस्तोत्रं शिवशक्तिकृतम्   
   

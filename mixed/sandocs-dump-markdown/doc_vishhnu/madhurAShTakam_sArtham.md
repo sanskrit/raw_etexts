@@ -1,25 +1,25 @@
-+++
-"Text title" = "madhurAShTakaM"
-"File name" = "madhunew.itx"
-itxtitle = "madhurAShTakam (sArtham)"
-engtitle = "madhurAShTakam with meanings"
-Category = "aShTaka, vishhnu, krishna, vallabhaachaarya, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "shriimadvallabhaachaarya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Translated by" = "S. V. Ganesan and Avinash Sathaye (sohum@ms.uky.edu)"
-Indexextra = "(with meanings)"
-"Latest update" = "August 19, 2004, January 23, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मधुराष्टकम् (सार्थम्)"
+---
+Author: shriimadvallabhaachaarya
+Category: aShTaka, vishhnu, krishna, vallabhaachaarya, vishnu
+File name: madhunew.itx
+Indexextra: (with meanings)
+Language: Sanskrit
+Latest update: August 19, 2004, January 23, 2016
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: madhurAShTakaM
+Translated by: S. V. Ganesan and Avinash Sathaye (sohum@ms.uky.edu)
+Transliterated by: NA
+engtitle: madhurAShTakam with meanings
+itxtitle: madhurAShTakam (sArtham)
+title: मधुराष्टकम् (सार्थम्)
 
-+++
+---
   
  सार्थमधुराष्टकं   
   

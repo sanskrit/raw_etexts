@@ -1,31 +1,31 @@
-+++
-"Text title" = "bhagavatIstuti sudyumna"
-"File name" = "bhagavatIstutisudyumnailA.itx"
-itxtitle = "bhagavatIstutiH (sudyumna evaM ilAkRitaM devIbhAgavatamahApurANAntargatA)"
-engtitle = "devIbhagavatIstutiH by sdyumna ilA"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran"
-Source = "Devi Bhagavat Mahapurana 1.12 Verses 41-53"
-Indexextra = "(Marathi)"
-Acknowledge-Permission = "Vishwas Bhide http://satsangdhara.net"
-"Latest update" = "June 14, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवतीस्तुतिः (सुद्युम्न एवं इलाकृइतं देवीभागवतमहापुराणान्तर्गता)"
+---
+Acknowledge-Permission: Vishwas Bhide http://satsangdhara.net
+Category: devii, devI
+File name: bhagavatIstutisudyumnailA.itx
+Indexextra: (Marathi)
+Language: Sanskrit
+Latest update: June 14, 2017
+Location: doc_devii
+Proofread by: Vishwas Bhide, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Devi Bhagavat Mahapurana 1.12 Verses 41-53
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhagavatIstuti sudyumna
+Transliterated by: Vishwas Bhide
+engtitle: devIbhagavatIstutiH by sdyumna ilA
+itxtitle: bhagavatIstutiH (sudyumna evaM ilAkRitaM devIbhAgavatamahApurANAntargatA)
+title: भगवतीस्तुतिः (सुद्युम्न एवं इलाकृइतं देवीभागवतमहापुराणान्तर्गता)
 
-+++
+---
   
  देवीभगवतीस्तुतिः   
   
 इलोवाच -  
 दिव्यं च ते भगवति प्रथितं स्वरूपं  
      दृष्टं मया सकललोकहितानुरूपम् ।  
-वन्दे त्वदंघ्रिकमलं सुरसङ्घसेव्यं  
+वन्दे त्वदङ्घ्रिकमलं सुरसङ्घसेव्यं  
      कामप्रदं जननि चापि विमुक्तिदं च ॥ १॥  
   
 को वेत्ति तेऽम्ब भुवि मर्त्यतनुर्निकामं  

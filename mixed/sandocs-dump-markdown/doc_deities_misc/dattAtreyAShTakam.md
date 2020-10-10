@@ -1,23 +1,23 @@
-+++
-"Text title" = "dattAtreyAShTakam"
-"File name" = "dattAtreyAShTakam.itx"
-itxtitle = "dattAtreyAShTakam"
-engtitle = "dattAtreyAShTakam"
-Category = "deities_misc, dattatreya, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Marathi, English)"
-"Latest update" = "August 12, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयाष्टकम्"
+---
+Category: deities_misc, dattatreya, aShTaka
+File name: dattAtreyAShTakam.itx
+Indexextra: (Marathi, English)
+Language: Sanskrit
+Latest update: August 12, 2018
+Location: doc_deities_misc
+Proofread by: NA, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattAtreyAShTakam
+Transliterated by: NA
+engtitle: dattAtreyAShTakam
+itxtitle: dattAtreyAShTakam
+title: दत्तात्रेयाष्टकम्
 
-+++
+---
   
  श्रीदत्तात्रेयाष्टकम्   
 श्रीदत्तात्रेयाय नमः ।  

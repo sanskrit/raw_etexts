@@ -1,32 +1,32 @@
-+++
-"Text title" = "mRitasanjIvinI mantraH"
-"File name" = "mRitasanjIvinImantra.itx"
-itxtitle = "mRitasanjIvinI mantraH"
-engtitle = "mRitasa.njIvinI mantraH"
-Category = "mantra, misc"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "September 1, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मृइतसञ्जीविनी मन्त्रः"
+---
+Category: mantra, misc
+File name: mRitasanjIvinImantra.itx
+Language: Sanskrit
+Latest update: September 1, 2007
+Location: doc_z_misc_misc
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: mRitasanjIvinI mantraH
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: mRitasa.njIvinI mantraH
+itxtitle: mRitasanjIvinI mantraH
+title: मृइतसञ्जीविनी मन्त्रः
 
-+++
+---
   
- मृतसंजीविनी मन्त्रः   
+ मृतसञ्जीविनी मन्त्रः   
   
-। अथ मृतसंजीविनी मन्त्रः ।  
-शुक्र ऋषिः, गायत्री छन्दः, मृतसंजीवनी देवी देवता ।  
+। अथ मृतसञ्जीविनी मन्त्रः ।  
+शुक्र ऋषिः, गायत्री छन्दः, मृतसञ्जीवनी देवी देवता ।  
 ह्रीं बीजं, स्वाहा शक्तिः, हंसः कीलकं, न्यासं मूलेन ।  
 विनियोगः समाख्यात स्त्रिचतुश्चैककं पुनः ।  
-षट् चतु द्विककेनैव षडंगानि समाचरेत् ।  
-१ ह्रीं हंसः, २ संजीविनि, ३ जूं, ४ जीवंप्राणग्रन्थिं,  
+षट् चतु द्विककेनैव षडङ्गानि समाचरेत् ।  
+१ ह्रीं हंसः, २ सञ्जीविनि, ३ जूं, ४ जीवम्प्राणग्रन्थिं,  
 ५ कुरु स्वाहा ।  
-ह्रीं हंसः, संजीविनि, जूं हंसः कुरु कुरु, कुरु सौः सौः, स्वाहा ।  
+ह्रीं हंसः, सञ्जीविनि, जूं हंसः कुरु कुरु, कुरु सौः सौः, स्वाहा ।  
   
   
   

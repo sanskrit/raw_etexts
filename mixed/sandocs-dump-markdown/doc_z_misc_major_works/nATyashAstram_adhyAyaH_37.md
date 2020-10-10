@@ -1,23 +1,23 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 37"
-"File name" = "natya37.itx"
-itxtitle = "nATyashAstram adhyAyaH 37"
-engtitle = "Natya Shastra Chapter 37"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture/Dance/Drama"
-"Transliterated by" = "hareshbakshi at hotmail.com"
-"Proofread by" = "hareshbakshi at hotmail.com"
-"Latest update" = "february 20, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः ३७"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya37.itx
+Language: Sanskrit
+Latest update: february 20, 2003
+Location: doc_z_misc_major_works
+Proofread by: hareshbakshi at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture/Dance/Drama
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 37
+Texttype: pramukha
+Transliterated by: hareshbakshi at hotmail.com
+engtitle: Natya Shastra Chapter 37
+itxtitle: nATyashAstram adhyAyaH 37
+title: नाट्यशास्त्रम् अध्यायः ३७
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः ३७   
   
@@ -74,7 +74,7 @@ title = "नाट्यशास्त्रम् अध्यायः ३७
 न शक्यं चान्यथा कर्तुं वचनं पार्थिवस्य हि ॥ १६ ॥  
   
 अस्माकं चैव सर्वेषां नहुषस्य महात्मनः ।  
-आत्मोपदेशसिद्धं हि नाट्यं प्रोक्तं स्वयंभुवा ॥ १७ ॥  
+आत्मोपदेशसिद्धं हि नाट्यं प्रोक्तं स्वयम्भुवा ॥ १७ ॥  
   
 शेषमुत्तरतन्त्रेण कोहलस्तु करिष्यति ।  
 प्रयोगः कारिकाश्चैव निरुक्तानि तथैव च ॥ १८ ॥  

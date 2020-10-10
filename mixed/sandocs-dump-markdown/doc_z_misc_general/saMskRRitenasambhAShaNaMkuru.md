@@ -1,24 +1,24 @@
-+++
-"Text title" = "Samskritena Sambhashanam Kuru"
-"File name" = "saMskRRitenasambhAShaNaMkuru.itx"
-itxtitle = "saMskRRitenasambhAShaNaMkuru"
-engtitle = "saMskRRitenasambhAShaNaMkuru"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "shrI veNkaTaramaNamuchchinnAyaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1, 2)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृतेनसम्भाषणंकुरु"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: shrI veNkaTaramaNamuchchinnAyaH
+Category: misc, sanskritgeet
+File name: saMskRRitenasambhAShaNaMkuru.itx
+Indexextra: (Wiki, Videos 1, 2)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Samskritena Sambhashanam Kuru
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: saMskRRitenasambhAShaNaMkuru
+itxtitle: saMskRRitenasambhAShaNaMkuru
+title: संस्कृतेनसम्भाषणंकुरु
 
-+++
+---
   
  संस्कृतेन सम्भाषणं कुरु   
 संस्कृतेन सम्भाषणं कुरु, जीवनस्य परिवर्तनं कुरु  

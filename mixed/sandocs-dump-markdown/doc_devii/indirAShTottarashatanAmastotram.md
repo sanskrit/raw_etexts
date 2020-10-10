@@ -1,23 +1,23 @@
-+++
-"Text title" = "Indira Ashtottarashatanama Stotram"
-"File name" = "indirAShTottarashatanAmastotram.itx"
-itxtitle = "indirAShTottarashatanAmastotram"
-engtitle = "indirAShTottarashatanAmastotram"
-Category = "devii, aShTottarashatanAma, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "See corresponding Namavali"
-Indexextra = "(Scan, , nAmAvalI)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "इन्दिराष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: devii, aShTottarashatanAma, devI
+Description/comments: See corresponding Namavali
+File name: indirAShTottarashatanAmastotram.itx
+Indexextra: (Scan, , nAmAvalI)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Indira Ashtottarashatanama Stotram
+Transliterated by: PSA Easwaran
+engtitle: indirAShTottarashatanAmastotram
+itxtitle: indirAShTottarashatanAmastotram
+title: इन्दिराष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  इन्दिराष्टोत्तरशतनामस्तोत्रम्   
 इन्दिरा विष्णहृदयमन्दिरा पद्मसुन्दरा ।  

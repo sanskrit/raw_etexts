@@ -1,25 +1,25 @@
-+++
-"Text title" = "saMkaShTamochanastotram 2"
-"File name" = "saMkaShTamochanastotram2.itx"
-itxtitle = "saNkaShTamochanastotram 2"
-engtitle = "Shrisankashtamochanastotram 2"
-Category = "hanumaana, stotra, maheshvarAnandasarasvatI, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Author = "maheshvarAnandasarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Indexextra = "(maheshvarAnandasarasvatI)"
-"Latest update" = "September 19, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सण्कष्टमोचनस्तोत्रम् २"
+---
+Author: maheshvarAnandasarasvatI
+Category: hanumaana, stotra, maheshvarAnandasarasvatI, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: saMkaShTamochanastotram2.itx
+Indexextra: (maheshvarAnandasarasvatI)
+Language: Sanskrit
+Latest update: September 19, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: saMkaShTamochanastotram 2
+Texttype: stotra
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: Shrisankashtamochanastotram 2
+itxtitle: saNkaShTamochanastotram 2
+title: सण्कष्टमोचनस्तोत्रम् २
 
-+++
+---
   
  श्रीसङ्कष्टमोचनस्तोत्रम् २   
   
@@ -43,7 +43,7 @@ title = "सण्कष्टमोचनस्तोत्रम् २"
   
 नूनं स्मृतोऽपि ददते भजतां कपीन्द्रः  
      सम्पूजितो दिशति वाञ्छित-सिद्धिवृद्धिम् ।  
-संमोदकप्रिय उपैति परं प्रहर्षं  
+सम्मोदकप्रिय उपैति परं प्रहर्षं  
      रामायणश्रवणतः पठतां शरण्यः ॥ ४॥  
   
 श्रीभारतप्रवरयुद्धरथोद्धतश्रीः  
@@ -64,7 +64,7 @@ title = "सण्कष्टमोचनस्तोत्रम् २"
 उद्यद्भानुसहस्रसन्निभतनुः पीताम्बरालङ्कृतः  
 प्रोज्ज्वालानलदीप्यमाननयनो निष्पिष्टरक्षोगणः ।  
 संवर्तोद्यतवारिदोद्धतरवःप्रोच्चैर्गदाविभ्रमः  
-श्रीमान् मारुतनंदनः प्रतिदिनं ध्येयो विपद्भञ्जनः ॥ ८॥  
+श्रीमान् मारुतनन्दनः प्रतिदिनं ध्येयो विपद्भञ्जनः ॥ ८॥  
   
 रक्षःपिशाचभयनाशनमामयाधि  
      प्रोच्चैर्ज्वरापहरणं हननं रिपूणाम् ।  

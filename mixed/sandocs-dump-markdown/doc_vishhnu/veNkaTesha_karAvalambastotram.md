@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Venkatesha Karavalamba Stotra"
-"File name" = "vnktshkar.itx"
-itxtitle = "veNkaTesha karAvalambastotram"
-engtitle = "Shri Venkatesha Karavalamba Stotra"
-Category = "vishhnu, venkateshwara, stotra, nRisiMhabhAratIsvAmi, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Author = "Shri Nrisinha Bharati of Shringeri Math"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "Hymn to Shri Venkatesha"
-Indexextra = "(Meaning 2)"
-"Latest update" = "April, 26, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेश करावलम्बस्तोत्रम्"
+---
+Author: Shri Nrisinha Bharati of Shringeri Math
+Category: vishhnu, venkateshwara, stotra, nRisiMhabhAratIsvAmi, vishnu
+Description-comments: Hymn to Shri Venkatesha
+File name: vnktshkar.itx
+Indexextra: (Meaning 2)
+Language: Sanskrit
+Latest update: April, 26, 2000
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Venkatesha Karavalamba Stotra
+Texttype: stotra
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Shri Venkatesha Karavalamba Stotra
+itxtitle: veNkaTesha karAvalambastotram
+title: वेण्कटेश करावलम्बस्तोत्रम्
 
-+++
+---
   
  श्रीवेङ्कटेश करावलम्बस्तोत्रम्   
   
@@ -71,7 +71,7 @@ title = "वेण्कटेश करावलम्बस्तोत्र�
   
 दिव्याङ्गरागपरिचर्चित कोमलाङ्ग  
        पीताम्बरावृततनो तरुणार्क भास  
-सत्यांच नाभ परिधान सुपत्तु बन्ध  
+सत्याञ्च नाभ परिधान सुपत्तु बन्ध  
        श्री वेङ्कटेश मम देहि करावलम्बम् ॥ १०॥  
   
 रत्नाढ्यदाम सुनिबद्ध-कटि-प्रदेश  

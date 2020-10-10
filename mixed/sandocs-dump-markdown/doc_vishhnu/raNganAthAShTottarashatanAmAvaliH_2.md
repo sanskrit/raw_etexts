@@ -1,25 +1,25 @@
-+++
-"Text title" = "ranganAthAShTottarashatanAmAvaliH 2"
-"File name" = "ranganAthAShTottarashatanAmAvaliH2.itx"
-itxtitle = "raNganAthAShTottarashatanAmAvaliH 2"
-engtitle = "ranganAthAShTottarashatanAmAvaliH 2"
-Category = "vishhnu, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Text, Info)"
-Acknowledge-Permission = "Pandit Shri Rama Ramanuja Acharya, srimatham.com"
-"Latest update" = "June 20, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रण्गनाथाष्टोत्तरशतनामावलिः २"
+---
+Acknowledge-Permission: Pandit Shri Rama Ramanuja Acharya, srimatham.com
+Category: vishhnu, aShTottarashatanAmAvalI, nAmAvalI
+File name: ranganAthAShTottarashatanAmAvaliH2.itx
+Indexextra: (Text, Info)
+Language: Sanskrit
+Latest update: June 20, 2019
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ranganAthAShTottarashatanAmAvaliH 2
+engtitle: ranganAthAShTottarashatanAmAvaliH 2
+itxtitle: raNganAthAShTottarashatanAmAvaliH 2
+title: रण्गनाथाष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  श्रीरङ्गनाथाष्टोत्तरशतनामावलिः २   
-ॐ श्रीरङ्गनाथाय नमः । देवेशाय । श्रीरङ्गब्रह्मसंज्ञकाय ।  
+ॐ श्रीरङ्गनाथाय नमः । देवेशाय । श्रीरङ्गब्रह्मसञ्ज्ञकाय ।  
 शेषपर्यङ्कशयनाय । श्रीनिवासभुजान्तराय । इन्द्रनीलोत्पलश्यामाय ।  
 पुण्डरीकनिभेक्षणाय । श्रीवत्सलाञ्छिताय । हारिणे । वनमालिने ।  
 हलायुधाय । पीताम्बरधराय । देवाय । नराय । नारायणाय । हरये ।  

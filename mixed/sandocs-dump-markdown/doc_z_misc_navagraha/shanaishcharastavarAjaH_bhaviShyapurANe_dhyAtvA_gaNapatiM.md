@@ -1,23 +1,23 @@
-+++
-"Text title" = "shnaishcharastavarAjaH also aShtottarashatanaama stotra see verse 19"
-"File name" = "shanaishcharastava.itx"
-itxtitle = "shanaishcharastavarAjaH (bhaviShyapurANe, dhyAtvA gaNapatiM)"
-engtitle = "shanaishcharastavarAjaH"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA, Kirk Wortman kirkwort at hotmail.com"
-Description-comments = "bhaviShyapurANa"
-"Latest update" = "November 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शनैश्चरस्तवराजः (भविष्यपुराणे, ध्यात्वा गणपतिं)"
+---
+Author: Traditional
+Category: navagraha, stotra
+Description-comments: bhaviShyapurANa
+File name: shanaishcharastava.itx
+Language: Sanskrit
+Latest update: November 11, 2018
+Location: doc_z_misc_navagraha
+Proofread by: NA, Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shnaishcharastavarAjaH also aShtottarashatanaama stotra see verse 19
+Texttype: stotra
+engtitle: shanaishcharastavarAjaH
+itxtitle: shanaishcharastavarAjaH (bhaviShyapurANe, dhyAtvA gaNapatiM)
+title: शनैश्चरस्तवराजः (भविष्यपुराणे, ध्यात्वा गणपतिं)
 
-+++
+---
   
  शनैश्चरस्तवराजः   
 श्री गणेशाय नमः ॥  
@@ -49,7 +49,7 @@ title = "शनैश्चरस्तवराजः (भविष्यपु
 दीर्घो निर्मांसगात्रस्तु शुष्को घोरो भयानकः ॥ ८॥  
   
 नीलांशुः क्रोधनो रौद्रो दीर्घश्मश्रुर्जटाधरः ।  
-मन्दो मन्दगतिः खंजो तृप्तः संवर्तको यमः ॥ ९॥orअतृप्तः  
+मन्दो मन्दगतिः खञ्जो तृप्तः संवर्तको यमः ॥ ९॥orअतृप्तः  
 ग्रहराजः कराली च सूर्यपुत्रो रविः शशी ।  
 कुजो बुधो गुरुः काव्यो भानुजः सिंहिकासुतः ॥ १०॥  
   

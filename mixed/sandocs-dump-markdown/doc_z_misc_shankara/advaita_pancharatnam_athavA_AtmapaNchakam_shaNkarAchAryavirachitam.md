@@ -1,25 +1,25 @@
-+++
-"Text title" = "Advaita Pancharatnam or Atma Panchakam"
-"File name" = "advaita5.itx"
-itxtitle = "advaita pancharatnam athavA AtmapaNchakam (shaNkarAchAryavirachitam)"
-engtitle = "Advaita Pancharatnam"
-Category = "pancharatna, shankarAchArya, vedanta"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Lakshmi Muthuswamy"
-"Proofread by" = "Lakshmi Muthuswamy and S. Hattangadi"
-"Translated by" = "-"
-Description-comments = "A hymn on Advaita Vedanta"
-Indexextra = "(Hindi)"
-"Latest update" = "Feb. 28 , 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अद्वैत पञ्चरत्नम् अथवा आत्मपण्चकम् (शण्कराचार्यविरचितम्)"
+---
+Author: Adi Shankaracharya
+Category: pancharatna, shankarAchArya, vedanta
+Description-comments: A hymn on Advaita Vedanta
+File name: advaita5.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: Feb. 28 , 2009
+Location: doc_z_misc_shankara
+Proofread by: Lakshmi Muthuswamy and S. Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: Advaita Pancharatnam or Atma Panchakam
+Translated by: '-'
+Transliterated by: Lakshmi Muthuswamy
+engtitle: Advaita Pancharatnam
+itxtitle: advaita pancharatnam athavA AtmapaNchakam (shaNkarAchAryavirachitam)
+title: अद्वैत पञ्चरत्नम् अथवा आत्मपण्चकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  अद्वैत पञ्चरत्नं अथ्वा आत्मपङ्चकम्   
   

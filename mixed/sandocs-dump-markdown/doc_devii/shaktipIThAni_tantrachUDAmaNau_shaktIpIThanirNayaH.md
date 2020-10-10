@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shakti pIthas listed in Tantrachudamani"
-"File name" = "shaktipIThAni.itx"
-itxtitle = "shaktipIThAni (tantrachUDAmaNau shaktIpIThanirNayaH)"
-engtitle = "shaktipIThAni"
-Category = "devii, shaktipITha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "Tantrachudamani"
-Indexextra = "(shaktipIThas, English 1, 2 Info, Hindi 1, 2, 3, 4)"
-"Latest update" = "January 27, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शक्तिपीठानि (तन्त्रचूडामणौ शक्तीपीठनिर्णयः)"
+---
+Category: devii, shaktipITha, devI
+Description/comments: Tantrachudamani
+File name: shaktipIThAni.itx
+Indexextra: (shaktipIThas, English 1, 2 Info, Hindi 1, 2, 3, 4)
+Language: Sanskrit
+Latest update: January 27, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shakti pIthas listed in Tantrachudamani
+engtitle: shaktipIThAni
+itxtitle: shaktipIThAni (tantrachUDAmaNau shaktIpIThanirNayaH)
+title: शक्तिपीठानि (तन्त्रचूडामणौ शक्तीपीठनिर्णयः)
 
-+++
+---
   
  तन्त्रचूडामणौ पीठनिर्णयः अथवा शक्तिपीठानि   
 ईश्वर उवाच ।  

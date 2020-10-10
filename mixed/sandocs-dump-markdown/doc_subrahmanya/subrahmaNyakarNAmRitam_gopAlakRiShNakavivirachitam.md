@@ -1,24 +1,24 @@
-+++
-"Text title" = "Subrahmanya Karnamritam"
-"File name" = "subrahmaNyakarNAmRRitam.itx"
-itxtitle = "subrahmaNyakarNAmRitam (gopAlakRiShNakavivirachitam)"
-engtitle = "subrahmaNyakarNAmRRitam"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "Gopalakrishnakavi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mahaperiaval trust"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com, PSA Easwaran"
-Description-comments = "Subramanya Sthuthi Manjari"
-Indexextra = "(Scan)"
-"Latest update" = "December 21, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यकर्णामृइतम् (गोपालकृइष्णकविविरचितम्)"
+---
+Author: Gopalakrishnakavi
+Category: subrahmanya
+Description-comments: Subramanya Sthuthi Manjari
+File name: subrahmaNyakarNAmRRitam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 21, 2019
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Subrahmanya Karnamritam
+Transliterated by: Mahaperiaval trust
+engtitle: subrahmaNyakarNAmRRitam
+itxtitle: subrahmaNyakarNAmRitam (gopAlakRiShNakavivirachitam)
+title: सुब्रह्मण्यकर्णामृइतम् (गोपालकृइष्णकविविरचितम्)
 
-+++
+---
   
  श्रीसुब्रह्मण्यकर्णामृतम्   
 शिवं नश्शर्वाणीस्तनजनितमन्दोष्णमधुरं  
@@ -288,7 +288,7 @@ title = "सुब्रह्मण्यकर्णामृइतम् (ग
   
 प्राज्ये राज्ये कलितहृदयाः केऽपि केऽप्यध्वराज्ये  
      योगैश्वर्ये कतिचन निजावाप्तिसौख्येऽपि केऽपि ।  
-संप्राप्तेष्टास्सपदि सकला यत्कृपापाङ्गसङ्गात्  
+सम्प्राप्तेष्टास्सपदि सकला यत्कृपापाङ्गसङ्गात्  
      प्रेमासारः परमशिवयोः सोऽस्तु नस्तापशान्त्यै ॥ ६२॥  
   
 तारं तारं भवजलनिधेर्यन्मनोरग्रभागे  

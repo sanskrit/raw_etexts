@@ -1,24 +1,24 @@
-+++
-"Text title" = "sarasvatIkRitaM shrIkRiShNastotra brahmavaivartapurANe"
-"File name" = "krishnastotrasarasvatIBVP.itx"
-itxtitle = "kRiShNastotram (sarasvatIkRitam, brahmavaivartapurANAntargatam)"
-engtitle = "Krishna stotra by Saraswati from brahmavaivartapurANa"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-Description-comments = "brahmavaivartapurANa brahmakhaNDam adhyAya 3 shloka 60-64"
-"Latest update" = "January 19, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (सरस्वतीकृइतम्, ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: vishhnu, krishna, stotra, vishnu
+Description-comments: brahmavaivartapurANa brahmakhaNDam adhyAya 3 shloka 60-64
+File name: krishnastotrasarasvatIBVP.itx
+Language: Sanskrit
+Latest update: January 19, 2013
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sarasvatIkRitaM shrIkRiShNastotra brahmavaivartapurANe
+Texttype: stotra
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: Krishna stotra by Saraswati from brahmavaivartapurANa
+itxtitle: kRiShNastotram (sarasvatIkRitam, brahmavaivartapurANAntargatam)
+title: कृइष्णस्तोत्रम् (सरस्वतीकृइतम्, ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीकृष्णस्तोत्रं ब्रह्मवैवर्तपुराणे सरस्वतीकृतम्   
   

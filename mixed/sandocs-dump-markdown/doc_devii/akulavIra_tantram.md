@@ -1,21 +1,21 @@
-+++
-"Text title" = "akulviiratantra"
-"File name" = "akulviiratantra.itx"
-itxtitle = "akulavIra tantram"
-engtitle = "akulavIra tantram"
-Category = "tantra, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "tantram"
-"Transliterated by" = "Michael Magee  1997 -  http://www.shivashakti.com/"
-"Proofread by" = "Mike Magee"
-"Latest update" = "January 5,2005"
-"Send corrections to" = "Mike Magee Description-comments  : akulviiratantra"
-"Site access" = "https://sanskritdocuments.org"
-title = "अकुलवीर तन्त्रम्"
+---
+Category: tantra, devii, devI
+File name: akulviiratantra.itx
+Language: Sanskrit
+Latest update: January 5,2005
+Location: doc_devii
+Proofread by: Mike Magee
+Send corrections to: 'Mike Magee Description-comments  : akulviiratantra'
+Site access: https://sanskritdocuments.org
+Subject: tantram
+Sublocation: devii
+Text title: akulviiratantra
+Transliterated by: Michael Magee  1997 -  http://www.shivashakti.com/
+engtitle: akulavIra tantram
+itxtitle: akulavIra tantram
+title: अकुलवीर तन्त्रम्
 
-+++
+---
   
  अकुलवीर तन्त्रम्   
   

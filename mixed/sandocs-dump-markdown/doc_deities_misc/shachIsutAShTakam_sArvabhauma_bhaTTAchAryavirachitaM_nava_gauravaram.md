@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shachisutashtakam"
-"File name" = "shachIsutAShTakam.itx"
-itxtitle = "shachIsutAShTakam (sArvabhauma bhaTTAchAryavirachitaM nava gauravaram)"
-engtitle = "Shachisutashtakam"
-Category = "deities_misc, aShTaka, krishna, gurudev, sArvabhaumabhaTTAchArya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Sarvabhauma Bhattacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Nitai or Nityananda"
-Indexextra = "(Meaning)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शचीसुताष्टकम् (सार्वभौम भट्टाचार्यविरचितं नव गौरवरम्)"
+---
+Author: Sarvabhauma Bhattacharya
+Category: deities_misc, aShTaka, krishna, gurudev, sArvabhaumabhaTTAchArya
+Description/comments: Nitai or Nityananda
+File name: shachIsutAShTakam.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shachisutashtakam
+engtitle: Shachisutashtakam
+itxtitle: shachIsutAShTakam (sArvabhauma bhaTTAchAryavirachitaM nava gauravaram)
+title: शचीसुताष्टकम् (सार्वभौम भट्टाचार्यविरचितं नव गौरवरम्)
 
-+++
+---
   
  शचीसुताष्टकम्   
 नवगौरवरं नवपुष्पशरं  

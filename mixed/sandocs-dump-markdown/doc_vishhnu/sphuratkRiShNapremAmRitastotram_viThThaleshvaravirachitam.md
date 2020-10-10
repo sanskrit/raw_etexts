@@ -1,24 +1,24 @@
-+++
-"Text title" = "sphuratkRRiShNapremAmRRitastotram"
-"File name" = "sphuratkRRiShNapremAmRRitastotram.itx"
-itxtitle = "sphuratkRiShNapremAmRitastotram (viThThaleshvaravirachitam)"
-engtitle = "sphuratkRRiShNapremAmRRitastotram"
-Category = "vishhnu, krishna, puShTimArgIya, viThThaleshvara"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "viThThaleshvara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्फुरत्कृइष्णप्रेमामृइतस्तोत्रम् (विठ्ठलेश्वरविरचितम्)"
+---
+Author: viThThaleshvara
+Category: vishhnu, krishna, puShTimArgIya, viThThaleshvara
+Description/comments: puShTimArgIya stotraratnAkara
+File name: sphuratkRRiShNapremAmRRitastotram.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sphuratkRRiShNapremAmRRitastotram
+engtitle: sphuratkRRiShNapremAmRRitastotram
+itxtitle: sphuratkRiShNapremAmRitastotram (viThThaleshvaravirachitam)
+title: स्फुरत्कृइष्णप्रेमामृइतस्तोत्रम् (विठ्ठलेश्वरविरचितम्)
 
-+++
+---
   
  स्फुरत्कृष्णप्रेमामृतस्तोत्रम्   
   

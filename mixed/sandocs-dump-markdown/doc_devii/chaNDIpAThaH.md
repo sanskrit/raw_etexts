@@ -1,29 +1,29 @@
-+++
-"Text title" = "chaNDIpATha"
-"File name" = "chandi.itx"
-itxtitle = "chaNDIpAThaH"
-engtitle = "chaNDIpAThaH"
-Category = "devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dhruba Chakroborty dhruba at nfinity.nfinity.com"
-"Proofread by" = "Dhruba Chakroborty dhruba at nfinity.nfinity.com"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चण्डीपाठः"
+---
+Category: devii, durgA, stotra, devI
+File name: chandi.itx
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_devii
+Proofread by: Dhruba Chakroborty dhruba at nfinity.nfinity.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: chaNDIpATha
+Texttype: stotra
+Transliterated by: Dhruba Chakroborty dhruba at nfinity.nfinity.com
+engtitle: chaNDIpAThaH
+itxtitle: chaNDIpAThaH
+title: चण्डीपाठः
 
-+++
+---
   
  श्रीचण्डीपाठः   
   
               ॥ ॐ श्री देवैः नमः ॥  
   
-              ॥ अथ चंडीपाठः ॥  
+              ॥ अथ चण्डीपाठः ॥  
   
 या देवी सर्वभूतेषु विष्णुमायेति शब्दिता ।  
 नमस्तस्यै १४ नमस्तस्यै १५ नमस्तस्यै नमो नमः ॥ ५-१६॥  
@@ -94,7 +94,7 @@ title = "चण्डीपाठः"
 चितिरूपेण या कृत्स्नमेतद् व्याप्य स्थिता जगत् ।  
 नमस्तस्यै ७८ नमस्तस्यै ७९ नमस्तस्यै नमो नमः ॥ ५-८०॥  
   
-               ॥ इति चंडीपाठः ॥  
+               ॥ इति चण्डीपाठः ॥  
   
   
   

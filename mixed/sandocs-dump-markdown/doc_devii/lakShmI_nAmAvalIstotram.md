@@ -1,24 +1,24 @@
-+++
-"Text title" = "lakShmInAmAvalIstotraM lakShmInarAyaNasaMhitAyAM"
-"File name" = "lakShmInAmAvalIstotra.itx"
-itxtitle = "lakShmI nAmAvalIstotram"
-engtitle = "Shri LakShminamavalistotram"
-Category = "devii, lakShmI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "pranav.tendulkar and vrushali"
-"Proofread by" = "pranav.tendulkar and vrushaliagarkar at gmail dotcom"
-Description-comments = "lakShmInarAyaNasaMhitA"
-"Latest update" = "May 5, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मी नामावलीस्तोत्रम्"
+---
+Category: devii, lakShmI, stotra, devI
+Description-comments: lakShmInarAyaNasaMhitA
+File name: lakShmInAmAvalIstotra.itx
+Language: Sanskrit
+Latest update: May 5, 2013
+Location: doc_devii
+Proofread by: pranav.tendulkar and vrushaliagarkar at gmail dotcom
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmInAmAvalIstotraM lakShmInarAyaNasaMhitAyAM
+Texttype: stotra
+Transliterated by: pranav.tendulkar and vrushali
+engtitle: Shri LakShminamavalistotram
+itxtitle: lakShmI nAmAvalIstotram
+title: लक्ष्मी नामावलीस्तोत्रम्
 
-+++
+---
   
  श्रीलक्ष्मीनामावलीस्तोत्रम्   
   

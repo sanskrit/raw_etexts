@@ -1,22 +1,22 @@
-+++
-"Text title" = "Kashivishveshvara Stotram or Dinakrandanam"
-"File name" = "kAshIvishveshvarastotramdInAkrandanam.itx"
-itxtitle = "kAshIvishveshvarastotram athavA dInAkrandanam"
-engtitle = "kAshivishveshvarastotramdInAkrandanam"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Tamil 1, 2)"
-"Latest update" = "March 24, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "काशीविश्वेश्वरस्तोत्रम् अथवा दीनाक्रन्दनम्"
+---
+Category: shiva
+File name: kAshIvishveshvarastotramdInAkrandanam.itx
+Indexextra: (Tamil 1, 2)
+Language: Sanskrit
+Latest update: March 24, 2020
+Location: doc_shiva
+Proofread by: PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Kashivishveshvara Stotram or Dinakrandanam
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: kAshivishveshvarastotramdInAkrandanam
+itxtitle: kAshIvishveshvarastotram athavA dInAkrandanam
+title: काशीविश्वेश्वरस्तोत्रम् अथवा दीनाक्रन्दनम्
 
-+++
+---
   
  श्रीकाशीविश्वेस्वरस्तोत्रं अथवा श्रीदीनाक्रन्दनम्   
 ॐ श्रीगणेशाय नमः ।  

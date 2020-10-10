@@ -1,25 +1,26 @@
-+++
-"Text title" = "madanagopAlAShTakam"
-"File name" = "madanagopAlAShTakam.itx"
-itxtitle = "madanagopAlAShTakam (vishvanAthachakravartin Thakkuravirachitam)"
-engtitle = "madanagopAlAShTakam by vishvanAthachakravartin"
-Category = "vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मदनगोपालाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI
+File name: madanagopAlAShTakam.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_vishhnu
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: madanagopAlAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: madanagopAlAShTakam by vishvanAthachakravartin
+itxtitle: madanagopAlAShTakam (vishvanAthachakravartin Thakkuravirachitam)
+title: मदनगोपालाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)
 
-+++
+---
   
  श्रीमदनगोपालाष्टकम्   
 मृदुतलारुण्यजितरुचिरदरदप्रभं  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Raghavendrasuprabhata Stotram"
-"File name" = "rAghavendrasuprabhAtastotram.itx"
-itxtitle = "rAghavendrasuprabhAtastotram"
-engtitle = "rAghavendrasuprabhAtastotram"
-Category = "deities_misc, suprabhAta, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "राघवेन्द्रसुप्रभातस्तोत्रम्"
+---
+Category: deities_misc, suprabhAta, gurudev
+File name: rAghavendrasuprabhAtastotram.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_deities_misc
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Raghavendrasuprabhata Stotram
+engtitle: rAghavendrasuprabhAtastotram
+itxtitle: rAghavendrasuprabhAtastotram
+title: राघवेन्द्रसुप्रभातस्तोत्रम्
 
-+++
+---
   
  श्रीराघवेन्द्रसुप्रभातस्तोत्रम्   
 श्रीमते राघवेन्द्राय सर्वाभीष्टप्रदायिने ।  
@@ -102,7 +102,7 @@ title = "राघवेन्द्रसुप्रभातस्तोत�
      श्रीमूलराम भवतात्तव सुप्रभातम् ॥ १७॥  
   
 श्रीमत्सुधीन्द्रवरयोगिसरस्वतीभ्यां  
-     संप्रेरितो यतिरभूर्बहुना श्रमेण ।  
+     सम्प्रेरितो यतिरभूर्बहुना श्रमेण ।  
 मन्त्रान् वहस्यनुदिनं स्वगतीन् पुनासि  
      श्रीमूलराम भवतात्तव सुप्रभातम् ॥ १८॥  
   

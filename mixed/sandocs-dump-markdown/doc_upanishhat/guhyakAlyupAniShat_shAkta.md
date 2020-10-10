@@ -1,23 +1,23 @@
-+++
-"Text title" = "guhyakAlyupAniShat"
-"File name" = "guhyakAlyupAniShat.itx"
-itxtitle = "guhyakAlyupAniShat (shAkta)"
-engtitle = "guhyakAlyupAniShat"
-Category = "upanishhat, devii, devI, upanishad, dashamahAvidyA"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुह्यकाल्युपानिषत् (शाक्त)"
+---
+Category: upanishhat, devii, devI, upanishad, dashamahAvidyA
+Description-comments: aprakAshitA upaniShadaH
+File name: guhyakAlyupAniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: guhyakAlyupAniShat
+engtitle: guhyakAlyupAniShat
+itxtitle: guhyakAlyupAniShat (shAkta)
+title: गुह्यकाल्युपानिषत् (शाक्त)
 
-+++
+---
   
  गुह्यकाल्युपानिषत्   
 अथर्ववेदमध्ये तु शाखा मुख्यतमा हि षट् ।  
@@ -71,7 +71,7 @@ title = "गुह्यकाल्युपानिषत् (शाक्त
 ब्रह्मलोको गलः प्रोक्तो वायव प्राणरूपिणः ।  
 वनस्पतय ओषध्यो लोमानि परिचक्षते ॥ १७॥  
   
-विद्युद्दृष्टिरहोरात्रं निमेषोन्मेषसंज्ञकम् ।  
+विद्युद्दृष्टिरहोरात्रं निमेषोन्मेषसञ्ज्ञकम् ।  
 विश्वं तु हृदयं प्रोक्तं पृथिवी पाद उच्यते ॥ १८॥  
   
 तलं तलातलं चैव पातालं सुतलं तथा ।  
@@ -90,7 +90,7 @@ title = "गुह्यकाल्युपानिषत् (शाक्त
 प्रलयो भोजने कालस्तृप्तिस्तेन च नासिका ॥ २३॥  
   
 ज्ञेयः पार्श्वपरीवर्तो महाकल्पान्तरोद्भवः ।  
-विराड्रूपवोस्य ते ध्यानमिति संक्षेपतोऽर्पितम् ॥ २४॥  
+विराड्रूपवोस्य ते ध्यानमिति सङ्क्षेपतोऽर्पितम् ॥ २४॥  
   
 तस्याः स्वरूपविज्ञानं सपर्या परिकीर्तिता ।  
 तदेव हि श्रुतिप्रोक्तमवधारय पार्वति ॥ २५॥  

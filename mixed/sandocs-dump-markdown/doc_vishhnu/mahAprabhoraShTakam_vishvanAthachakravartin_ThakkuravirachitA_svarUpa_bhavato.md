@@ -1,24 +1,27 @@
-+++
-"Text title" = "Mahaprabhu Ashtakam"
-"File name" = "mahAprabhoraShTakam.itx"
-itxtitle = "mahAprabhoraShTakam ((vishvanAthachakravartin ThakkuravirachitA svarUpa bhavato)"
-engtitle = "mahAprabhoraShTakam"
-Category = "vishhnu, aShTaka, krishna, vishvanAthachakravartin"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Riksaraja Prabhu popularized this song in his 1978 Golden Avatar album “Reservoir of Pleasure.” It was rendered in Raga Madhyamad Saranga in Bhajani Tala"
-Indexextra = "(Meaning, Spanish)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाप्रभोरष्टकम् ((विश्वनाथचक्रवर्तिन् ठक्कुरविरचिता स्वरूप भवतो)"
+---
+Author: Vishwanatha Chakravarti
+Category: vishhnu, aShTaka, krishna, vishvanAthachakravartin
+Description/comments: Riksaraja Prabhu popularized this song in his 1978 Golden Avatar
+  album “Reservoir of Pleasure.” It was rendered in Raga Madhyamad Saranga in Bhajani
+  Tala
+File name: mahAprabhoraShTakam.itx
+Indexextra: (Meaning, Spanish)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Mahaprabhu Ashtakam
+engtitle: mahAprabhoraShTakam
+itxtitle: mahAprabhoraShTakam ((vishvanAthachakravartin ThakkuravirachitA svarUpa
+  bhavato)
+title: महाप्रभोरष्टकम् ((विश्वनाथचक्रवर्तिन् ठक्कुरविरचिता स्वरूप भवतो)
 
-+++
+---
   
  महाप्रभोराष्टकम्   
 स्वरूप भवतो भवत्वयमिति स्मितस्निग्धया  

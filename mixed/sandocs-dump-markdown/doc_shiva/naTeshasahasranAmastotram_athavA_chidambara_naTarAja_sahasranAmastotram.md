@@ -1,21 +1,21 @@
-+++
-"Text title" = "naTeshasahasranAmastotram"
-"File name" = "naTeshasahasranAmastotra.itx"
-itxtitle = "naTeshasahasranAmastotram athavA chidambara naTarAja sahasranAmastotram"
-engtitle = "naTeshasahasranAmastotram"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(uttarapIThikA, Audio)"
-"Latest update" = "July 19, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नटेशसहस्रनामस्तोत्रम् अथवा चिदम्बर नटराज सहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, shiva
+File name: naTeshasahasranAmastotra.itx
+Indexextra: (uttarapIThikA, Audio)
+Language: Sanskrit
+Latest update: July 19, 2015
+Location: doc_shiva
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: naTeshasahasranAmastotram
+engtitle: naTeshasahasranAmastotram
+itxtitle: naTeshasahasranAmastotram athavA chidambara naTarAja sahasranAmastotram
+title: नटेशसहस्रनामस्तोत्रम् अथवा चिदम्बर नटराज सहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीनटेशसहस्रनामस्तोत्रम्   
   
@@ -32,7 +32,7 @@ title = "नटेशसहस्रनामस्तोत्रम् अथ�
 त्वत्तः श्रुतं मया देव सर्वं नामसहस्रकम् ।  
 नटेशस्य तु नामानि न श्रुतानि मया प्रभो ॥ ३॥  
   
-असंकृत्प्रार्थितोऽपि त्वं न तत्कथितवानसि ।  
+असङ्कृत्प्रार्थितोऽपि त्वं न तत्कथितवानसि ।  
 इदानीं कृपया शम्भो वद वाञ्छाभिपूर्तये ॥ ४॥  
   
 श्री शिव उवाच  

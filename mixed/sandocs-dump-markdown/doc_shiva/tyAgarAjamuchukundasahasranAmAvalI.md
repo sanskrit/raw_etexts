@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrI tyAgarAjamuchukundasahasranAmAvalI"
-"File name" = "tyAgarAjamuchukundasahasranAmAvalI.itx"
-itxtitle = "tyAgarAjamuchukundasahasranAmAvalI"
-engtitle = "tyAgarAjamuchukundasahasranAmAvalI"
-Category = "sahasranAmAvalI, shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Raswaran psaeaswaran at gmail.com"
-"Latest update" = "January 13, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्यागराजमुचुकुन्दसहस्रनामावली"
+---
+Category: sahasranAmAvalI, shiva, nAmAvalI
+File name: tyAgarAjamuchukundasahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: January 13, 2017
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Raswaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shrI tyAgarAjamuchukundasahasranAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: tyAgarAjamuchukundasahasranAmAvalI
+itxtitle: tyAgarAjamuchukundasahasranAmAvalI
+title: त्यागराजमुचुकुन्दसहस्रनामावली
 
-+++
+---
   
  श्रीत्यागराजमुचुकुन्दसहस्रनामावलिः   
   
@@ -462,7 +462,7 @@ note  प्रसिद्धां कामपि त्यागेशसु
 व्याघ्रचर्मभृते ।  
 सप्तसागरवेलाढ्यस्वात्मवस्त्रपरिच्छदाप ।  
 स्वच्छवस्त्रपरीधानसर्वाभरणभूषिताय ।  
-वर्णन्यग्रोधमूलस्थदक्षिणामूर्तिसंज्ञिताय ।  
+वर्णन्यग्रोधमूलस्थदक्षिणामूर्तिसञ्ज्ञिताय ।  
 शिवज्ञानामृतनिधये ।  
 मुनिवृन्दनिषेविताय ।  
 विश्वन्यग्रोधमूलस्थविश्वव्यापारशक्तिमते ।  

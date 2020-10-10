@@ -1,20 +1,20 @@
-+++
-"Text title" = "Vishvabandhuta Chiram Vijayata"
-"File name" = "vishvabandhutAchiramvijayatA.itx"
-itxtitle = "vishvabandhutA chiraM vijayatA"
-engtitle = "Vishvabandhuta Chiram Vijayata"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Text, Audio)"
-"Latest update" = "February 5, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वबन्धुता चिरं विजयता"
+---
+Category: misc, sanskritgeet
+File name: vishvabandhutAchiramvijayatA.itx
+Indexextra: (Text, Audio)
+Language: Sanskrit
+Latest update: February 5, 2020
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Vishvabandhuta Chiram Vijayata
+engtitle: Vishvabandhuta Chiram Vijayata
+itxtitle: vishvabandhutA chiraM vijayatA
+title: विश्वबन्धुता चिरं विजयता
 
-+++
+---
   
  विश्वबन्धुता चिरं विजयता   
 विश्वबन्धुता चिरं विजयता  

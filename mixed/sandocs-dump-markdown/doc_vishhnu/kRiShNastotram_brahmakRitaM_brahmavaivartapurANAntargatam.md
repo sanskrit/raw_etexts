@@ -1,24 +1,24 @@
-+++
-"Text title" = "brahmakRitaM shrIkRiShNastotra brahmavaivartapurANe"
-"File name" = "krishnastotrabrahmaBVP.itx"
-itxtitle = "kRiShNastotram (brahmakRitaM brahmavaivartapurANAntargatam)"
-engtitle = "Krishna stotra by Brahma from brahmavaivartapurANa"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-Description-comments = "brahmavaivartapurANa brahmakhaNDam adhyAya 3 shloka 35-40"
-"Latest update" = "January 19, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (ब्रह्मकृइतं ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: vishhnu, krishna, stotra, vishnu
+Description-comments: brahmavaivartapurANa brahmakhaNDam adhyAya 3 shloka 35-40
+File name: krishnastotrabrahmaBVP.itx
+Language: Sanskrit
+Latest update: January 19, 2013
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: brahmakRitaM shrIkRiShNastotra brahmavaivartapurANe
+Texttype: stotra
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: Krishna stotra by Brahma from brahmavaivartapurANa
+itxtitle: kRiShNastotram (brahmakRitaM brahmavaivartapurANAntargatam)
+title: कृइष्णस्तोत्रम् (ब्रह्मकृइतं ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीकृष्णस्तोत्रं ब्रह्मवैवर्तपुराणे ब्रह्मकृतम्   
   
@@ -34,7 +34,7 @@ title = "कृइष्णस्तोत्रम् (ब्रह्मकृ
 रासेश्वरं रासवासं रासोल्लाससमुत्सुकम् ॥ ३॥  
   
 इत्येवमुक्त्वा तं नत्वा रत्नसिंहासने वरे ।  
-नारायणेशौ संभाष्य स उवास तदाज्ञया ॥ ४॥  
+नारायणेशौ सम्भाष्य स उवास तदाज्ञया ॥ ४॥  
   
 इति ब्रह्माकृतं स्तोत्रं प्रातरुत्थाय यः पठेत् ।  
 पापानि तस्य नश्यन्ति दुःस्वप्नः सुस्वप्नो भवेत् ॥ ५॥  

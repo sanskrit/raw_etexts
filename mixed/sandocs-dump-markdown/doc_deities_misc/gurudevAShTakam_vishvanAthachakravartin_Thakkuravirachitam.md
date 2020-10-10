@@ -1,25 +1,26 @@
-+++
-"Text title" = "gurudevAShTakam"
-"File name" = "gurudevAShTakam.itx"
-itxtitle = "gurudevAShTakam (vishvanAthachakravartin Thakkuravirachitam)"
-engtitle = "gurudevAShTakam by vishvanAthachakravartin"
-Category = "deities_misc, gurudev, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुदेवाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: deities_misc, gurudev, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI
+File name: gurudevAShTakam.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_deities_misc
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurudevAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: gurudevAShTakam by vishvanAthachakravartin
+itxtitle: gurudevAShTakam (vishvanAthachakravartin Thakkuravirachitam)
+title: गुरुदेवाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)
 
-+++
+---
   
  श्रीगुरुदेवाष्टकम्   
 संसारदावानललीढलोक  

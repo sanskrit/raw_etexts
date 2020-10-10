@@ -1,24 +1,24 @@
-+++
-"Text title" = "jaganmohanAShTakam"
-"File name" = "jaganmohanAShTakam.itx"
-itxtitle = "jaganmohanAShTakam (vishvanAthachakravartiThakuravirachitaM)"
-engtitle = "jaganmohanAShTakam"
-Category = "vishhnu, aShTaka, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जगन्मोहनाष्टकम् (विश्वनाथचक्रवर्तिठकुरविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, aShTaka, krishna
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: jaganmohanAShTakam.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: jaganmohanAShTakam
+engtitle: jaganmohanAShTakam
+itxtitle: jaganmohanAShTakam (vishvanAthachakravartiThakuravirachitaM)
+title: जगन्मोहनाष्टकम् (विश्वनाथचक्रवर्तिठकुरविरचितं)
 
-+++
+---
   
  श्रीजगन्मोहनाष्टकम्   
   

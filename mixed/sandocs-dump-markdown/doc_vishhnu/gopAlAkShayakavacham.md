@@ -1,24 +1,24 @@
-+++
-"Text title" = "gopAlAkShaya kavacham"
-"File name" = "gopaalaakshayakavacha.itx"
-itxtitle = "gopAlAkShayakavacham"
-engtitle = "gopAlAkShaya kavacham"
-Category = "kavacha, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "brahmasa.nhitaa"
-"Latest update" = "January 16, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपालाक्षयकवचम्"
+---
+Author: Traditional
+Category: kavacha, vishhnu, krishna, vishnu
+Description-comments: brahmasa.nhitaa
+File name: gopaalaakshayakavacha.itx
+Language: Sanskrit
+Latest update: January 16, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopAlAkShaya kavacham
+Transliterated by: WebD
+engtitle: gopAlAkShaya kavacham
+itxtitle: gopAlAkShayakavacham
+title: गोपालाक्षयकवचम्
 
-+++
+---
   
  गोपालाक्षयकवचम्   
   

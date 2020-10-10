@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri DakShinamurti Navaratnamalika Stotra"
-"File name" = "daksh9.itx"
-itxtitle = "dakShiNAmUrti navaratnamAlikAstotram"
-engtitle = "Shri DakShinamurti Navaratnamalika Stotra"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Not known"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Translated by" = "-"
-Description-comments = "Hymn of 9 verses in praise of Dakshinamurti"
-Indexextra = "(info)"
-"Latest update" = "March 6, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्ति नवरत्नमालिकास्तोत्रम्"
+---
+Author: Not known
+Category: shiva, stotra
+Description-comments: Hymn of 9 verses in praise of Dakshinamurti
+File name: daksh9.itx
+Indexextra: (info)
+Language: Sanskrit
+Latest update: March 6, 2003
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: shiva
+Text title: Shri DakShinamurti Navaratnamalika Stotra
+Texttype: stotra
+Translated by: '-'
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Shri DakShinamurti Navaratnamalika Stotra
+itxtitle: dakShiNAmUrti navaratnamAlikAstotram
+title: दक्षिणामूर्ति नवरत्नमालिकास्तोत्रम्
 
-+++
+---
   
  श्रीदक्षिणामूर्ति नवरत्नमालिकास्तोत्रम्   
   
@@ -33,7 +33,7 @@ title = "दक्षिणामूर्ति नवरत्नमालि�
   
 शान्तं शारदचन्द्रकान्तिधवळं चन्द्राभिरमाननं  
    चन्द्रार्कोपमकान्तिकुण्डलधरं चन्द्रावदातांशुकम् ।  
-वीणापुस्तकमक्षसूत्रवलयं व्याख्यानमुद्रांकरै-  
+वीणापुस्तकमक्षसूत्रवलयं व्याख्यानमुद्राङ्करै-  
    र्बिभ्राणं कलये हृदा मम सदा  
 शास्तारमिष्टार्थदम् ॥ २॥  
   
@@ -64,9 +64,9 @@ title = "दक्षिणामूर्ति नवरत्नमालि�
 चतुर्भुजं ज्ञानदमक्षसूत्र-  
    पुस्ताग्निहस्तं हृदि भावयेच्छिवम् ॥ ७॥  
   
-वामोरूपरिसंस्थितां गिरिसुतामन्योन्यमालिंगितां  
-   श्यामामुत्पलधारिणी शशिनिभांचालोकयन्तं शिवम् ।  
-आश्लिष्टेन करेण पुस्तकमधो कुंभं सुधापूरितं  
+वामोरूपरिसंस्थितां गिरिसुतामन्योन्यमालिङ्गितां  
+   श्यामामुत्पलधारिणी शशिनिभाञ्चालोकयन्तं शिवम् ।  
+आश्लिष्टेन करेण पुस्तकमधो कुम्भं सुधापूरितं  
    मुद्रां ज्ञानमयीं दधानमपरैर्मुक्ताक्षमालां भजे  
 ॥ ८॥  
   

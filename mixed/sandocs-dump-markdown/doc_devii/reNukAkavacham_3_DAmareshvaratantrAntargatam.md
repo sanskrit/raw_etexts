@@ -1,24 +1,25 @@
-+++
-"Text title" = "reNukAkavacham 3 shrIDAmareshvaratantre IshvarapArvatIsaMvAde"
-"File name" = "reNukAkavacham3.itx"
-itxtitle = "reNukAkavacham 3 (DAmareshvaratantrAntargatam)"
-engtitle = "Renuka Kavacham 3 DAmareshvaratantra Ishvaraparvati"
-Category = "kavacha, devii, reNukA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-Description-comments = "shrIDAmareshvaratantre IshvarapArvatIsaMvAde from shrIreNukAtantram, Pitambarapeeth, Datia"
-Indexextra = "(DAmareshvaratantra)"
-"Latest update" = "May 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकाकवचम् ३ (डामरेश्वरतन्त्रान्तर्गतम्)"
+---
+Category: kavacha, devii, reNukA, devI
+Description-comments: shrIDAmareshvaratantre IshvarapArvatIsaMvAde from shrIreNukAtantram,
+  Pitambarapeeth, Datia
+File name: reNukAkavacham3.itx
+Indexextra: (DAmareshvaratantra)
+Language: Sanskrit
+Latest update: May 18, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAkavacham 3 shrIDAmareshvaratantre IshvarapArvatIsaMvAde
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Renuka Kavacham 3 DAmareshvaratantra Ishvaraparvati
+itxtitle: reNukAkavacham 3 (DAmareshvaratantrAntargatam)
+title: रेणुकाकवचम् ३ (डामरेश्वरतन्त्रान्तर्गतम्)
 
-+++
+---
   
  रेणुकाकवचम् ३ डामरेश्वरतन्त्रे ईश्वरपार्वतीसंवादे   
   

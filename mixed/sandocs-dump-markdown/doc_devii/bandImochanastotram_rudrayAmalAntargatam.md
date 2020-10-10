@@ -1,22 +1,22 @@
-+++
-"Text title" = "bandImochanastotram"
-"File name" = "bandImochanastotram.itx"
-itxtitle = "bandImochanastotram (rudrayAmalAntargatam)"
-engtitle = "bandImochanastotram"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-Source = "Rudrayamala"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बन्दीमोचनस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: devii, devI
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: bandImochanastotram.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamala
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bandImochanastotram
+engtitle: bandImochanastotram
+itxtitle: bandImochanastotram (rudrayAmalAntargatam)
+title: बन्दीमोचनस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  बन्दीमोचनस्तोत्रम्   
 ॐ अस्य श्रीबन्दीमोचनमन्त्रस्य कण्वऋषिः त्रिष्टुप्-छन्दः, ह्रीं  

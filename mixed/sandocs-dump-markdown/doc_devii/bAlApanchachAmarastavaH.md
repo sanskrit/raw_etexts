@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Panchachamara Stava"
-"File name" = "bAlApanchachAmarastavaH.itx"
-itxtitle = "bAlApanchachAmarastavaH"
-engtitle = "bAlApanchachAmarastavaH"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालापञ्चचामरस्तवः"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlApanchachAmarastavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Panchachamara Stava
+engtitle: bAlApanchachAmarastavaH
+itxtitle: bAlApanchachAmarastavaH
+title: बालापञ्चचामरस्तवः
 
-+++
+---
   
  श्रीबालापञ्चचामरस्तवः   
 गिरीन्द्रराजबालिकां दिनेशतुल्यरूपिकाम् ।  
@@ -44,7 +44,7 @@ title = "बालापञ्चचामरस्तवः"
 सहस्रमार्गपालिका परापरात्मभव्यका ।  
 सुचारुचारुवक्त्रका शिवं ददातु भद्रिका ॥ ८॥  
   
-इत्येतत्परमं गुह्यं पञ्चचामरसंज्ञकम् ।  
+इत्येतत्परमं गुह्यं पञ्चचामरसञ्ज्ञकम् ।  
 बालाग्रे यः पठति च तस्य सिद्धिर्भवेद्ध्रुवम् ॥ ९॥  
   
 यं यं चिन्तयते कामं तं तं प्राप्नोति साधकः ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Lakshminrisimha Ashtottarashatanama Stotram"
-"File name" = "lakShmInRRisiMhAShTottarashatanAmastotram.itx"
-itxtitle = "lakShmInR&isiMhAShTottarashatanAmastotram (brahmANDapurANantargatam)"
-engtitle = "Lakshminrisimha Ashtottarashatanama Stotram"
-Category = "vishhnu, aShTottarashatAnAma, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Yash Khasbage"
-"Proofread by" = "Yash Khasbage, NA"
-"Description/comments" = "Brahmandapurana"
-Indexextra = "(Scan)"
-"Latest update" = "June 12, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनृ&इसिंहाष्टोत्तरशतनामस्तोत्रम् (ब्रह्माण्डपुराणन्तर्गतम्)"
+---
+Category: vishhnu, aShTottarashatAnAma, dashAvatAra
+Description/comments: Brahmandapurana
+File name: lakShmInRRisiMhAShTottarashatanAmastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 12, 2020
+Location: doc_vishhnu
+Proofread by: Yash Khasbage, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Lakshminrisimha Ashtottarashatanama Stotram
+Transliterated by: Yash Khasbage
+engtitle: Lakshminrisimha Ashtottarashatanama Stotram
+itxtitle: lakShmInR&isiMhAShTottarashatanAmastotram (brahmANDapurANantargatam)
+title: लक्ष्मीनृ&इसिंहाष्टोत्तरशतनामस्तोत्रम् (ब्रह्माण्डपुराणन्तर्गतम्)
 
-+++
+---
   
  श्रीलक्ष्मीनृसिंहाष्टोत्तरशतनामस्तोत्रम्   
 अस्य श्रीलक्ष्मीनृसिंहाष्टोत्तरशतदिव्यनामस्तोत्रमन्त्रस्य  
@@ -53,7 +53,7 @@ title = "लक्ष्मीनृ&इसिंहाष्टोत्तर�
 हिरण्यकशिपोरग्रे सभास्तम्भसमुद्भवः ।  
 उग्रोग्निज्वालमाली च सुतीक्ष्णो भीमदर्शनः ॥ ९॥  
   
-दग्धाखिलजगज्जंन्तुकारणं जगतामपि ।  
+दग्धाखिलजगज्जन्न्तुकारणं जगतामपि ।  
 आधारः सर्वभूतानां ईश्वरः सर्वहाटकः ॥ १०॥  
   
 विष्णुर्जिष्णुर्जगत्धामबहिरन्तः प्रकाशकः ।  

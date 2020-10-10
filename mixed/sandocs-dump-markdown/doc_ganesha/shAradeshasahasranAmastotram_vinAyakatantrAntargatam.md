@@ -1,22 +1,22 @@
-+++
-"Text title" = "shAradeshasahasranAma"
-"File name" = "shAradeshasahasranaama.itx"
-itxtitle = "shAradeshasahasranAmastotram (vinAyakatantrAntargatam)"
-engtitle = "shAradeshasahasranAma"
-Category = "sahasranAma, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar, PSA Easwaran"
-Source = "Vinayakatantra"
-"Latest update" = "August 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदेशसहस्रनामस्तोत्रम् (विनायकतन्त्रान्तर्गतम्)"
+---
+Category: sahasranAma, ganesha
+File name: shAradeshasahasranaama.itx
+Language: Sanskrit
+Latest update: August 25, 2017
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Vinayakatantra
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: shAradeshasahasranAma
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: shAradeshasahasranAma
+itxtitle: shAradeshasahasranAmastotram (vinAyakatantrAntargatam)
+title: शारदेशसहस्रनामस्तोत्रम् (विनायकतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीशारदेशसहस्रनामस्तोत्रम्   
   
@@ -545,14 +545,14 @@ title = "शारदेशसहस्रनामस्तोत्रम् (
 यमीधामा यमीगोप्ता यमीगणनिषेवितः ।  
 सृणिहस्तस्सृणिधरः सृणीशानस्सृणिप्रियः ॥ १७४॥  
   
-संज्ञापतिसमाराध्यस्संज्ञापतिस्तुतिप्रियः ।  
-संज्ञापतिगणेशानस्संज्ञापतिस्वरूपधृक् ॥ १७५॥  
+सञ्ज्ञापतिसमाराध्यस्सञ्ज्ञापतिस्तुतिप्रियः ।  
+सञ्ज्ञापतिगणेशानस्सञ्ज्ञापतिस्वरूपधृक् ॥ १७५॥  
   
-संज्ञापतिवन्द्यपादस्संज्ञेशगीतसद्गुणः ।  
-संज्ञेशगर्वसञ्छेत्ता संज्ञेशवरदर्पहा ॥ १७६॥  
+सञ्ज्ञापतिवन्द्यपादस्सञ्ज्ञेशगीतसद्गुणः ।  
+सञ्ज्ञेशगर्वसञ्छेत्ता सञ्ज्ञेशवरदर्पहा ॥ १७६॥  
   
-संज्ञेशप्रवणस्वान्तस्संज्ञेशगणसंस्तुतः ।  
-संज्ञेशार्चितपादाब्जो संज्ञेशभयहारकः ॥ १७७॥  
+सञ्ज्ञेशप्रवणस्वान्तस्सञ्ज्ञेशगणसंस्तुतः ।  
+सञ्ज्ञेशार्चितपादाब्जो सञ्ज्ञेशभयहारकः ॥ १७७॥  
   
 योगिगेयगुणो योगिचरितो योगतत्त्ववित् ।  
 योगीन्द्रत्रासहा योगग्रन्थतत्त्वविवेचकः ॥ १७८॥  

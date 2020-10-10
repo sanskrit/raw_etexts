@@ -1,25 +1,26 @@
-+++
-"Text title" = "indrANIsaptashatI"
-"File name" = "indrANIsaptashatI.itx"
-itxtitle = "indrANIsaptashatI (gaNapatimunivirachitA)"
-engtitle = "indrANIsaptashatI"
-Category = "shatI, devii, otherforms, devI, saptashatI, gaNapati-muni"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "pramukha"
-Author = "Ganapati Muni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Description-comments = "The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol 02-14"
-Indexextra = "(Collected Works)"
-"Latest update" = "September 7, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "इन्द्राणीसप्तशती (गणपतिमुनिविरचिता)"
+---
+Author: Ganapati Muni
+Category: shatI, devii, otherforms, devI, saptashatI, gaNapati-muni
+Description-comments: The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol
+  02-14
+File name: indrANIsaptashatI.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: September 7, 2013
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: indrANIsaptashatI
+Texttype: pramukha
+engtitle: indrANIsaptashatI
+itxtitle: indrANIsaptashatI (gaNapatimunivirachitA)
+title: इन्द्राणीसप्तशती (गणपतिमुनिविरचिता)
 
-+++
+---
   
  इन्द्राणीसप्तशती   
   
@@ -218,7 +219,7 @@ title = "इन्द्राणीसप्तशती (गणपतिमु
 ज्वाला पावकवद्भाषा भेदकृता ॥ ६२॥  
   
 सर्वं दृश्यमिदं भुञ्जाने परमे ।  
-पुंनामस्तुतयो युज्यन्ते खलु ते ॥ ६३॥  
+पुन्नामस्तुतयो युज्यन्ते खलु ते ॥ ६३॥  
   
 कुर्वाणेम्बसतस्सन्तोषं सततम् ।  
 स्त्रीनामस्तुतयः शोभां ते दधते ॥ ६४॥  
@@ -244,7 +245,7 @@ title = "इन्द्राणीसप्तशती (गणपतिमु
 त्वां पूर्णामदितिं शक्तिं देवि शचीम् ।  
 नित्यं शब्दवतीं गौरीं प्रब्रुवते ॥ ७१॥  
   
-पुंनामा भवतु स्त्रीनामास्त्वथवा ।  
+पुन्नामा भवतु स्त्रीनामास्त्वथवा ।  
 व्यक्तिर्व्योमतनुर्लोकं पात्यखिलम् ॥ ७२॥  
   
 नाके सा किल भात्यैन्द्री राज्यरमा ।  
@@ -1397,7 +1398,7 @@ title = "इन्द्राणीसप्तशती (गणपतिमु
 न भवतीं विना तपोजगत्पृथगशेषनाथनायिके ॥ ४३७॥  
   
 सकलदृश्यमूलकारणं तव च संश्रयो निराश्रयः ।  
-जननि सत्यलोक संज्ञया परमपूरुषोऽभिधीयते ॥ ४३८॥  
+जननि सत्यलोक सञ्ज्ञया परमपूरुषोऽभिधीयते ॥ ४३८॥  
   
 अयि पुरातनर्षिभाषया गगनमेतदाप ईरिताः ।  
 अथ यदासुवीर्यमुज्झितं भगवतस्त्वमेव तत्परे ॥ ४३९॥  
@@ -1530,7 +1531,7 @@ title = "इन्द्राणीसप्तशती (गणपतिमु
 रमणीयतया मिलिता ते शचि भीकरता चपलायाः ॥ ४८०॥  
   
 चपले शचि विस्फुरसीन्द्रं घनजालपतिं मदयन्ती ।  
-दितिजातमवग्रहसंज्ञं जनदुःखकरं दमयन्ती ॥ ४८१॥  
+दितिजातमवग्रहसञ्ज्ञं जनदुःखकरं दमयन्ती ॥ ४८१॥  
   
 प्रभुमभ्रपतिं रमयन्ती दुरितं नमतां शमयन्ती ।  
 हरितां तिमिराणि हरन्ती पवमानपथे विलसन्ती ॥ ४८२॥  
@@ -1566,7 +1567,7 @@ title = "इन्द्राणीसप्तशती (गणपतिमु
 द्रवतीन्दुरनारतमेतद्वपुरात्ममयं विदधानः ॥ ४९२॥  
   
 मदकृद्बहुलामृतधारापरिपूतमिदं मम कायम् ।  
-विदधासि भजन्मनुजाप्ते कुलकुण्डधनंजयदीप्ते ॥ ४९३॥  
+विदधासि भजन्मनुजाप्ते कुलकुण्डधनञ्जयदीप्ते ॥ ४९३॥  
   
 शिरसीह सतः सितभानोरमृतेन वपुर्मदमेति ।  
 हृदि भात इनस्य च भासा मतिमेतु परां शचि चेतः ॥ ४९४॥  

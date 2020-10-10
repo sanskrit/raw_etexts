@@ -1,22 +1,22 @@
-+++
-"Text title" = "jnAneshvarastotramAThavale"
-"File name" = "jnAneshvarastotramAThavale.itx"
-itxtitle = "jnAneshvarastotram (anantarAva AThavalevirachitam)"
-engtitle = "jnAneshvarastotramAThavale"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Anantarav Athavale"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Shashank Purandare"
-"Latest update" = "September 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ज्ञानेश्वरस्तोत्रम् (अनन्तराव आठवलेविरचितम्)"
+---
+Author: Anantarav Athavale
+Category: deities_misc, gurudev
+File name: jnAneshvarastotramAThavale.itx
+Language: Sanskrit
+Latest update: September 19, 2017
+Location: doc_deities_misc
+Proofread by: Shashank Purandare
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: jnAneshvarastotramAThavale
+engtitle: jnAneshvarastotramAThavale
+itxtitle: jnAneshvarastotram (anantarAva AThavalevirachitam)
+title: ज्ञानेश्वरस्तोत्रम् (अनन्तराव आठवलेविरचितम्)
 
-+++
+---
   
  श्रीज्ञानेश्वरस्तोत्रम्   
   
@@ -42,7 +42,7 @@ title = "ज्ञानेश्वरस्तोत्रम् (अनन्
 तमद्वैतपरं वन्दे ज्ञानदेवं पुनः पुनः ॥ ७॥  
   
 दृष्टिः कृपावती यस्य नित्यं पीयूषवर्षिणी ।  
-नताश्रयांघ्रिं तं वन्दे ज्ञानदेवं पुनः पुनः ॥ ८॥  
+नताश्रयाङ्घ्रिं तं वन्दे ज्ञानदेवं पुनः पुनः ॥ ८॥  
   
 सुधाविजयिनी तापशमनी लोकपावनी ।  
 भारती यस्य तं वन्दे ज्ञानदेवं पुनः पुनः ॥ ९॥  

@@ -1,33 +1,33 @@
-+++
-"Text title" = "Narayana Sukta"
-"File name" = "narayana-sukta.itx"
-itxtitle = "nArAyaNasUktam (sArtham)"
-engtitle = "Narayana Sukta"
-Category = "sUkta, vishhnu, narayana, svara, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "narayana"
-Texttype = "svara"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "religion/hinduism"
-"Transliterated by" = "Alaknanda"
-"Proofread by" = "Alaknanda; translated by Sri Swami Krishnanda"
-Description-comments = "Taittiriya Aranyaka; prapathaka 10; anuvak 13."
-Indexextra = "((Meaning))"
-"Latest update" = "Mar. 12, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणसूक्तम् (सार्थम्)"
+---
+Author: Vedic tradition
+Category: sUkta, vishhnu, narayana, svara, vishnu
+Description-comments: Taittiriya Aranyaka; prapathaka 10; anuvak 13.
+File name: narayana-sukta.itx
+Indexextra: ((Meaning))
+Language: Sanskrit
+Latest update: Mar. 12, 2000
+Location: doc_vishhnu
+Proofread by: Alaknanda; translated by Sri Swami Krishnanda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: narayana
+Subject: religion/hinduism
+Sublocation: vishhnu
+Text title: Narayana Sukta
+Texttype: svara
+Transliterated by: Alaknanda
+engtitle: Narayana Sukta
+itxtitle: nArAyaNasUktam (sArtham)
+title: नारायणसूक्तम् (सार्थम्)
 
-+++
+---
   
  नारायणसूक्तम् सार्थ   
   
 HYMN ON LORD NARAYANA  
  (TRANSLATION BY SRI SWAMI KRISHNANANDA)  
-सहस्र शीर्षं देवं विश्वाक्षं विश्वशंभुवम् ।  
+सहस्र शीर्षं देवं विश्वाक्षं विश्वशम्भुवम् ।  
 विश्वै नारायणं देवं अक्षरं परमं पदम् ॥  
   
  This universe is the Eternal Being (Narayana), the imperishable,  
@@ -54,12 +54,12 @@ unfailing (is He).
  the Supreme Reality; Narayana is the Supreme Light; Narayana  
 is the Supreme Self; Narayana is the Supreme Meditator; Narayana  
 is the Supreme Meditation.   
-यच्च किंचित् जगत् सर्वं दृश्यते श्रूयतेऽपि वा ।  
-अंतर्बहिश्च तत्सर्वं व्याप्य नारायणः स्थितः ॥  
+यच्च किञ्चित् जगत् सर्वं दृश्यते श्रूयतेऽपि वा ।  
+अन्तर्बहिश्च तत्सर्वं व्याप्य नारायणः स्थितः ॥  
   
  Whatever all this universe is, -seen or heard of, -pervading all this from  
 inside and outside alike, stands supreme the Eternal Divine Being (Narayana).   
-अनन्तं अव्ययं कविं समुद्रेन्तं विश्वशंभुवम् ।  
+अनन्तं अव्ययं कविं समुद्रेन्तं विश्वशम्भुवम् ।  
 पद्म कोश प्रतीकाशं हृदयं च अपि अधोमुखम् ॥  
   
  He is the Limitless, Imperishable, Omniscient, residing in the ocean  
@@ -81,7 +81,7 @@ the lotus-bud of the heart in an inverted position. It is in a subtle space
 (a narrow aperture, the Sushumna-Nadi), and therein is to be found the  
 Substratum of all things.   
 तस्य मध्ये महानग्निः विश्वार्चिः विश्वतो मुखः ।  
-सोऽग्रविभजंतिष्ठन् आहारं अजरः कविः ॥  
+सोऽग्रविभजन्तिष्ठन् आहारं अजरः कविः ॥  
   
  In that space within the heart resides the Great Flaming Fire,  
 undecaying, all-knowing, with tongues spread out in all directions,  
@@ -124,7 +124,7 @@ Power, the All-Seeing One.
   
  We commune ourselves with Narayana, and meditate on Vasudeva,  
 may that Vishnu direct us (to the Great Goal).   
-ॐ शांति शांति शांतिः ॥  
+ॐ शान्ति शान्ति शान्तिः ॥  
   
  Om. May there be Peace, Peace, Peace    
 (Edited by: अलकनन्दा)  

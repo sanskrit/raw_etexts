@@ -1,23 +1,24 @@
-+++
-"Text title" = "subrahmaNyasahasranAmastotram"
-"File name" = "subrahmaNyasahasranAmastotra.itx"
-itxtitle = "subrahmaNyasahasranAmastotram (mArkaNDeyaproktam)"
-engtitle = "Shri Subrahmanya Sahasranamastotram"
-Category = "sahasranAma, subrahmanya, stotra"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion  Mahaperiyavaal Trust.  We are thankful for the quality religious publications by the trust   and providing for everyone''s use."
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-Description-comments = "From shrIsubrahamNyastutimanjarI published by Shri"
-"Latest update" = "August 24, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यसहस्रनामस्तोत्रम् (मार्कण्डेयप्रोक्तम्)"
+---
+Category: sahasranAma, subrahmanya, stotra
+Description-comments: From shrIsubrahamNyastutimanjarI published by Shri
+File name: subrahmaNyasahasranAmastotra.itx
+Language: Sanskrit
+Latest update: August 24, 2014
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion  Mahaperiyavaal Trust.  We are thankful for the quality
+  religious publications by the trust   and providing for everyone''s use.
+Sublocation: subrahmanya
+Text title: subrahmaNyasahasranAmastotram
+Texttype: stotra
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: Shri Subrahmanya Sahasranamastotram
+itxtitle: subrahmaNyasahasranAmastotram (mArkaNDeyaproktam)
+title: सुब्रह्मण्यसहस्रनामस्तोत्रम् (मार्कण्डेयप्रोक्तम्)
 
-+++
+---
   
  श्रीसुब्रह्मण्यसहस्रनामस्तोत्रम् मार्कण्डेयप्रोक्तम्   
   

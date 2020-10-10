@@ -1,23 +1,23 @@
-+++
-"Text title" = "sUryastotram 1"
-"File name" = "sUryastotram.itx"
-itxtitle = "sUryastotram 1"
-engtitle = "sUryastotram 1"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-"Proofread by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-Description-comments = "From Grantha/Tamil book Adityadi Navagraha Stotra"
-"Latest update" = "June 25, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यस्तोत्रम् १"
+---
+Category: navagraha, stotra
+Description-comments: From Grantha/Tamil book Adityadi Navagraha Stotra
+File name: sUryastotram.itx
+Language: Sanskrit
+Latest update: June 25, 2012
+Location: doc_z_misc_navagraha
+Proofread by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryastotram 1
+Texttype: stotra
+Transliterated by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+engtitle: sUryastotram 1
+itxtitle: sUryastotram 1
+title: सूर्यस्तोत्रम् १
 
-+++
+---
   
  सूर्यस्तोत्रम् १   
 आचम्य ॥  

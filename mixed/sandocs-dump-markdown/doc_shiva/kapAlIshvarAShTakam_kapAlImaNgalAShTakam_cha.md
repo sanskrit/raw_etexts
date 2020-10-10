@@ -1,21 +1,21 @@
-+++
-"Text title" = "kapAlIshvarAShTakam"
-"File name" = "kapAlIshvarAShTakam.itx"
-itxtitle = "kapAlIshvarAShTakam kapAlImaNgalAShTakam cha"
-engtitle = "kapAlIshvarAShTakam"
-Category = "aShTaka, shiva, mangala"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian nbalubn at gmail.com"
-"Proofread by" = "N.Balasubramanian nbalubn at gmail.com"
-"Latest update" = "May 25, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कपालीश्वराष्टकम् कपालीमण्गलाष्टकम् च"
+---
+Category: aShTaka, shiva, mangala
+File name: kapAlIshvarAShTakam.itx
+Language: Sanskrit
+Latest update: May 25, 2020
+Location: doc_shiva
+Proofread by: N.Balasubramanian nbalubn at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: kapAlIshvarAShTakam
+Transliterated by: N.Balasubramanian nbalubn at gmail.com
+engtitle: kapAlIshvarAShTakam
+itxtitle: kapAlIshvarAShTakam kapAlImaNgalAShTakam cha
+title: कपालीश्वराष्टकम् कपालीमण्गलाष्टकम् च
 
-+++
+---
   
  श्रीकपालीश्वराष्टकम्   
 श्रीकपालीमङ्गलाष्टकम्  
@@ -158,7 +158,7 @@ triad of gods. One of the names of Shiva is
 अविद्यातिरोहित-जडप्रपञ्चस्य गमकत्वं प्रकाशात्मकस्य चैतन्यस्य,  
 तद्रूपी परमेश्वरः इत्यर्थः। तदुक्तं स्कान्दे -  
 सूतः:-  
-अथातः संप्रवक्ष्यामि शिवलिङ्गं समासतः ।  
+अथातः सम्प्रवक्ष्यामि शिवलिङ्गं समासतः ।  
 यस्य विज्ञानमात्रेण विमुक्तो मानवो भवेत् ॥  
   
 शिव एव स्वयं लिङ्गं गमकमेव हि ।  
@@ -198,11 +198,11 @@ of Lord Shiva as also all gods. Some verses from Shiva Puranam that talk
 about the glory of pradosham are given below. Rough translations of the  
 verses are also given.  
   
-शंभुरेव तदा पूज्यो नान्ये विष्ण्वादयस्सुराः ।  
+शम्भुरेव तदा पूज्यो नान्ये विष्ण्वादयस्सुराः ।  
 यत्तत्र सर्वेऽपि सुरास्तिष्ठन्ति शिवसन्निधौ ॥  
   
 अतस्तस्यार्चनं पूजा कथागुणगणस्तवम् ।  
-तन्मन्त्रस्य जपश्चैव कर्तव्यो मोक्षकांक्षिभिः ॥  
+तन्मन्त्रस्य जपश्चैव कर्तव्यो मोक्षकाङ्क्षिभिः ॥  
   
 दारिद्र्यदुःखतान्धानां एतद्दिव्याञ्जनं स्मृतम् ।  
 ऋणार्णवनिमग्नानां उडुपोऽयं सुतारकः ॥  
@@ -224,7 +224,7 @@ will serve as a boat that will help those who are immersed in ocean of debts.
 पञ्चकृत्वा नमस्कुर्यात् साष्टाङ्गं भक्तिपूर्वकम् ।  
 पांसूनां अङ्गलग्नानां एकैकस्य नमस्कृतौ ॥  
   
-दिव्यवर्षसहस्रंतु शिवलोके महीयते।  
+दिव्यवर्षसहस्रन्तु शिवलोके महीयते।  
   
 During pradosha time Lord Shiva dances along with Parvathi Devi. Sarasvati Devi  
 plays on veena. Vishnu plays on mridangam. Laxmi Devi sings and Brahma plays  
@@ -261,7 +261,7 @@ Narasimha is Shiva only and not different from Him. The following quote from
 Nrisimhapurvatapani upanishad states this clearly.  
   
 ॐ ऋतं सत्यं परं ब्रह्म पुरुषं नृकेसरि विग्रहम् ।  
-कृष्णपिंगल-मूर्ध्वरेतं विरूपाक्षं शंकरं नीललोहितं  
+कृष्णपिङ्गल-मूर्ध्वरेतं विरूपाक्षं शङ्करं नीललोहितं  
 उमापतिं पशुपतिं पिनाकिनं ह्यमितद्युति-मीशानः--- ॥  
   
 SHIVARATRI.  
@@ -286,7 +286,7 @@ means mountain. Shiva in this place is known as Arunachaleshvara.
 भोगावहं इदं लिङ्गं भुक्तिमुक्त्येक साधनम् ।  
 दर्शन-स्पर्शन-ध्यानाज्जन्तूनां जन्म मोचनम् ॥  
   
-अनलाचल-संकाशं यदिदं लिङ्गमुत्थितम् ।  
+अनलाचल-सङ्काशं यदिदं लिङ्गमुत्थितम् ।  
 अरुणाचलमित्येव तदिदं ख्यातमेष्यति ॥  
 This have occured in Tiruvannamali where the lingam in the temple is known  
 as tejolingam (तेजोलिङ्गम्।).  The event is celebrated as an annual  
@@ -613,7 +613,7 @@ cहप्तेर्
 अगेन्द्रजा समन्वितं मृगेन्द्र विक्रमान्वितं  
      खगेन्द्र-वाहन-प्रियं सुखस्वरूपमव्ययम् ॥ ८॥  
   
-सुकल्पकाम्बिका-पति-प्रियंत्विदं मनोहरं  
+सुकल्पकाम्बिका-पति-प्रियन्त्विदं मनोहरं  
      सुगूडकाञ्चिरामकृष्ण योगिशिष्य संस्तुतम् ।  
 महाप्रदोष पुण्यकाल कीर्तनात्शुभप्रदं  
      भजामहे सदामुदा कपालि मङ्गलाष्टकम् ॥ ९॥  

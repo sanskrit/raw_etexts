@@ -1,21 +1,21 @@
-+++
-"Text title" = "durgAstotram 3 from rudrayAmala"
-"File name" = "durgAstotramrudrayAmala.itx"
-itxtitle = "durgAstotram 3 (rudrayAmalAntargatam bhairavaproktam dUrvAnibhAM trinayanAM)"
-engtitle = "durgAstotram 3 from rudrayAmala"
-Category = "devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "December 9, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गास्तोत्रम् ३ (रुद्रयामलान्तर्गतम् भैरवप्रोक्तम् दूर्वानिभां त्रिनयनां)"
+---
+Category: devii, durgA, devI
+File name: durgAstotramrudrayAmala.itx
+Language: Sanskrit
+Latest update: December 9, 2016
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAstotram 3 from rudrayAmala
+engtitle: durgAstotram 3 from rudrayAmala
+itxtitle: durgAstotram 3 (rudrayAmalAntargatam bhairavaproktam dUrvAnibhAM trinayanAM)
+title: दुर्गास्तोत्रम् ३ (रुद्रयामलान्तर्गतम् भैरवप्रोक्तम् दूर्वानिभां त्रिनयनां)
 
-+++
+---
   
  श्रीदुर्गास्तोत्रम् रुद्रयामलान्तर्गतम्   
   

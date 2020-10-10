@@ -1,25 +1,25 @@
-+++
-"Text title" = "dharmasaMvardhanIstotram"
-"File name" = "dharmasaMvardhanIstotram.itx"
-itxtitle = "dharmasaMvardhanIstotram (puShpA shrIvatsenavirachitam)"
-engtitle = "dharmasaMvardhanIstotram"
-Category = "devii, puShpAshrIvatsan, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "January 1, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धर्मसंवर्धनीस्तोत्रम् (पुष्पा श्रीवत्सेनविरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: devii, puShpAshrIvatsan, devI
+File name: dharmasaMvardhanIstotram.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: January 1, 2018
+Location: doc_devii
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dharmasaMvardhanIstotram
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: dharmasaMvardhanIstotram
+itxtitle: dharmasaMvardhanIstotram (puShpA shrIvatsenavirachitam)
+title: धर्मसंवर्धनीस्तोत्रम् (पुष्पा श्रीवत्सेनविरचितम्)
 
-+++
+---
   
  श्रीधर्मसंवर्धनीस्तोत्रम्   
                  ॐ  

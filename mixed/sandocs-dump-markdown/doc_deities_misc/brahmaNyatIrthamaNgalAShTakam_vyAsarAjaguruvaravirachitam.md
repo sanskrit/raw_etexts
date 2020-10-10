@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Brahmanyatirtha Mangala Ashtakam"
-"File name" = "brahmaNyatIrthamangalAShTakam.itx"
-itxtitle = "brahmaNyatIrthamaNgalAShTakam (vyAsarAjaguruvaravirachitam)"
-engtitle = "brahmaNyatIrthamangalAShTakam"
-Category = "deities_misc, gurudev, aShTaka, mangala"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Vyasaraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-"Description/comments" = "PanchayatistutiH"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "C Narayanarao"
-"Latest update" = "June 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "ब्रह्मण्यतीर्थमण्गलाष्टकम् (व्यासराजगुरुवरविरचितम्)"
+---
+Acknowledge-Permission: C Narayanarao
+Author: Vyasaraja
+Category: deities_misc, gurudev, aShTaka, mangala
+Description/comments: PanchayatistutiH
+File name: brahmaNyatIrthamangalAShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Brahmanyatirtha Mangala Ashtakam
+Transliterated by: Krishnananda Achar
+engtitle: brahmaNyatIrthamangalAShTakam
+itxtitle: brahmaNyatIrthamaNgalAShTakam (vyAsarAjaguruvaravirachitam)
+title: ब्रह्मण्यतीर्थमण्गलाष्टकम् (व्यासराजगुरुवरविरचितम्)
 
-+++
+---
   
  श्रीब्रह्मण्यतीर्थमङ्गलाष्टकम्   
 श्रीमानत्र दिवाकरः करुणया ब्रह्मौघवाञ्छाकृते  

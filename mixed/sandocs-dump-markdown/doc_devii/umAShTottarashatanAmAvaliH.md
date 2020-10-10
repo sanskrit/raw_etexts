@@ -1,23 +1,23 @@
-+++
-"Text title" = "Uma Ashtottarashata Namavali 108 names"
-"File name" = "umAShTottarashatanAmAvaliH.itx"
-itxtitle = "umAShTottarashatanAmAvaliH"
-engtitle = "umAShTottarashatanAmAvali"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, devI, nAmAvalI, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "See corresponding stotra"
-Indexextra = "(Scan)"
-"Latest update" = "August 25, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उमाष्टोत्तरशतनामावलिः"
+---
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, devI, nAmAvalI, pArvatI
+Description-comments: See corresponding stotra
+File name: umAShTottarashatanAmAvaliH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 25, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Uma Ashtottarashata Namavali 108 names
+engtitle: umAShTottarashatanAmAvali
+itxtitle: umAShTottarashatanAmAvaliH
+title: उमाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  उमाऽष्टोत्तरशतनामावलिः   
 श्रीगणेशाय नमः ।  

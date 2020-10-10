@@ -1,21 +1,21 @@
-+++
-"Text title" = "OMkAra"
-"File name" = "om1.itx"
-itxtitle = "OMkAram"
-engtitle = "OMkAra(information)"
-Category = "misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ॐकारम्"
+---
+Category: misc
+File name: om1.itx
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_z_misc_general
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: OMkAra
+Transliterated by: NA
+engtitle: OMkAra(information)
+itxtitle: OMkAram
+title: ॐकारम्
 
-+++
+---
   
  ॐकार   
   
@@ -105,8 +105,8 @@ the last aspect of godhead being all inclusive and ultimately real.
           Exposition:    
   
 ॐ इत्येतदक्षरं इदं सर्वं, तस्योऽपव्याख्यानं, भूतं भवद्  
-भविश्यद् इति सर्वं ओंकार एव, यच् चान्यत् त्रिकालातीतं  
-तदप्योंकारमेव ।  
+भविश्यद् इति सर्वं ओङ्कार एव, यच् चान्यत् त्रिकालातीतं  
+तदप्योङ्कारमेव ।  
   
           Translation:    
 OM, this syllable is all this . An explanation of that (is the  
@@ -122,7 +122,7 @@ idea that OM represents, not its aural effect.
  1- कठोपनिषद् : [I.I . 15]  
   
 सर्वे वेल्दयतामनन्ति, तपाम्सि सर्वाणि च यद् वदन्ति,  
-यद् इच्चन्तो ब्रह्मचर्यम् चरन्ति, तत् ते पदं संग्रहेन  
+यद् इच्चन्तो ब्रह्मचर्यम् चरन्ति, तत् ते पदं सङ्ग्रहेन  
 ब्रवीमि । ॐ इत्येतत् ।  
   
 (Yama says to Nachiketa) That word which all vedas declare, which all the  
@@ -139,7 +139,7 @@ becomes blessed in the world of brahma.
  3- प्रश्नोपनिषद् : [V.2]  
   
 तस्मै स होवाच, एतद् वै, सत्य काम, परं चापरं च ब्रह्म यद्  
-ओंकारः तस्माद् विद्वान् एतेनैवायतनेनैकतरं अन्वेति ।  
+ओङ्कारः तस्माद् विद्वान् एतेनैवायतनेनैकतरं अन्वेति ।  
   
 (PippalAda says to SatyakAma) That which is the sound OM, O satyakAma,  
 is verily the higher (Parabrahman) and the lower (Aparabrahman) Brahman.  
@@ -149,7 +149,7 @@ the other.
   
 ॐ इति ब्रह्म, ॐ इतीदं सर्वं, ॐ इत्येतद् अनुकृतिः ह स्म वा  
 अप्योश्रावयेत्याश्रावयन्ति, ॐ इति सामानि गायन्ति, ॐ शोमिति  
-शस्त्राणि शम्शंथि, ॐ इति अध्वर्युः, प्रतिगारं प्रतिगृणाति,  
+शस्त्राणि शम्शन्थि, ॐ इति अध्वर्युः, प्रतिगारं प्रतिगृणाति,  
 ॐ इति ब्रह्म प्रसौति, ॐ इत्यग्निहोत्रं अनुजानाति, ॐ इति ब्राह्मणः  
 प्रवक्ष्यन्न् आह, ब्रह्मोपाप्नवानीति, ब्रह्मैवोवाप्नोति ।  
   
@@ -745,7 +745,7 @@ pure consciousness.
   ज्ञानेश्वरी (Marathi)  
   
 अकार चरण युगुल ।  उकार उदर विशाल ।  
-मकार महामंडल । मस्तकाकारे ॥  
+मकार महामण्डल । मस्तकाकारे ॥  
   
 हे तिन्ही एकवटले ।  तेथ शब्दब्रह्म प्रकटले ।  
   

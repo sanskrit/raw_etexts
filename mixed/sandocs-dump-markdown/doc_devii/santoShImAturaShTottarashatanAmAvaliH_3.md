@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Santoshimata Ashtottarashata Namavali 3 108 Names"
-"File name" = "santoShImAturaShTottarashatanAmAvaliH3.itx"
-itxtitle = "santoShImAturaShTottarashatanAmAvaliH 3"
-engtitle = "santoShImAturaShTottarashatanAmAvaliH 3"
-Category = "devii, aShTottarashatanAmAvalI, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA EASWARAN psaeaswaran at gmail.com"
-Indexextra = "(Text)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्तोषीमातुरष्टोत्तरशतनामावलिः ३"
+---
+Category: devii, aShTottarashatanAmAvalI, otherforms, devI
+File name: santoShImAturaShTottarashatanAmAvaliH3.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan Iyer, PSA EASWARAN psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Santoshimata Ashtottarashata Namavali 3 108 Names
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: santoShImAturaShTottarashatanAmAvaliH 3
+itxtitle: santoShImAturaShTottarashatanAmAvaliH 3
+title: सन्तोषीमातुरष्टोत्तरशतनामावलिः ३
 
-+++
+---
   
  श्रीसन्तोषीमातुरष्टोत्तरशतनामावलिः ३   
 ॐ श्रीदेव्यै नमः । श्रीपदाराध्यायै । शिवमङ्गलरूपिण्यै ।  
@@ -34,10 +34,10 @@ title = "सन्तोषीमातुरष्टोत्तरशतन�
 प्राणदात्र्यै । पाराशर्यादिवन्दितायै । महादेव्यै । महापूज्यायै ।  
 महाभक्तसुपूजितायै नमः । ४०  
   
-ॐ महामहादिसंपूज्यायै नमः । महाप्राभवशालिन्यै । महितायै ।  
+ॐ महामहादिसम्पूज्यायै नमः । महाप्राभवशालिन्यै । महितायै ।  
 महिमान्तस्थायै । महासाम्राज्यदायिन्यै । महामायायै । महासत्वायै ।  
 महापातकनाशिन्यै । राजप्रियायै । राजपूज्यायै । रमणायै ।  
-रमणलम्पटायै । लोकप्रियङ्कर्यै । लोलायै । लक्ष्मिवाणीसंपूजितायै ।  
+रमणलम्पटायै । लोकप्रियङ्कर्यै । लोलायै । लक्ष्मिवाणीसम्पूजितायै ।  
 ललितायै । लाभदायै । लकारार्धायै । लसत्प्रियायै । वरदायै नमः । ६०  
   
 ॐ वररूपाराध्यायै नमः । वर्षिण्यै । वर्षरूपिण्यै । आनन्दरूपिण्यै  

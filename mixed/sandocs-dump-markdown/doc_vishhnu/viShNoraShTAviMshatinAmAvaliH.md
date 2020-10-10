@@ -1,21 +1,21 @@
-+++
-"Text title" = "viShNoraShTAviMshatinAmAvaliH"
-"File name" = "viShNoraShTAviMshatinAmAvaliH.itx"
-itxtitle = "viShNoraShTAviMshatinAmAvaliH"
-engtitle = "viShNoraShTAviMshatinAmAvaliH"
-Category = "vishhnu, viMshati"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णोरष्टाविंशतिनामावलिः"
+---
+Category: vishhnu, viMshati
+File name: viShNoraShTAviMshatinAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNoraShTAviMshatinAmAvaliH
+engtitle: viShNoraShTAviMshatinAmAvaliH
+itxtitle: viShNoraShTAviMshatinAmAvaliH
+title: विष्णोरष्टाविंशतिनामावलिः
 
-+++
+---
   
  श्रीविष्णोरष्टाविंशतिनामावलिः   
   

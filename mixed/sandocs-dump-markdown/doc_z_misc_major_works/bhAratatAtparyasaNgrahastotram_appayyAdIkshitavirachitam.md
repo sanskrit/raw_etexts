@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Bharata Tatparya Sangraha Stotram"
-"File name" = "bhAratatAtparyasangrahastotram.itx"
-itxtitle = "bhAratatAtparyasaNgrahastotram (appayyAdIkshitavirachitam)"
-engtitle = "bhAratatAtparyasangrahastotram"
-Category = "major_works, appayya-dIkShita"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Appayya Dixit"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rama Prakasha ramaprakashak at gmail.com"
-"Proofread by" = "Rama Prakasha ramaprakashak at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "October 12, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारततात्पर्यसण्ग्रहस्तोत्रम् (अप्पय्यादीक्षितविरचितम्)"
+---
+Author: Appayya Dixit
+Category: major_works, appayya-dIkShita
+File name: bhAratatAtparyasangrahastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: October 12, 2019
+Location: doc_z_misc_major_works
+Proofread by: Rama Prakasha ramaprakashak at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: Shri Bharata Tatparya Sangraha Stotram
+Texttype: pramukha
+Transliterated by: Rama Prakasha ramaprakashak at gmail.com
+engtitle: bhAratatAtparyasangrahastotram
+itxtitle: bhAratatAtparyasaNgrahastotram (appayyAdIkshitavirachitam)
+title: भारततात्पर्यसण्ग्रहस्तोत्रम् (अप्पय्यादीक्षितविरचितम्)
 
-+++
+---
   
  श्री भारत-तात्पर्य-सङ्ग्रहस्तोत्रम्   
 श्रीबादरायणमुनिः स्वयमेव विष्णुः  

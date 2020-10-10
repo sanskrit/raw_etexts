@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivasahasranAmastotra from shivapurANa"
-"File name" = "shivasahasranAmastotrashivapurANa.itx"
-itxtitle = "shivasahasranAmastotram (shivapurANAntargatam)"
-engtitle = "Shivasahasranamastotra from Shivapurana"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Srihari teluguinternet at gmail.com"
-"Proofread by" = "Srihari, Usha Rani Sanka usharani.sanka at  gmail.com"
-Description-comments = "Chapter 35 of ShivapurAna Kotirudrasamhita"
-Source = "shivapurANe chaturthyAM koTirudrasaMhitAyAM panchatriMsho.adyAyaH"
-"Latest update" = "May 23, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसहस्रनामस्तोत्रम् (शिवपुराणान्तर्गतम्)"
+---
+Category: sahasranAma, shiva
+Description-comments: Chapter 35 of ShivapurAna Kotirudrasamhita
+File name: shivasahasranAmastotrashivapurANa.itx
+Language: Sanskrit
+Latest update: May 23, 2015
+Location: doc_shiva
+Proofread by: Srihari, Usha Rani Sanka usharani.sanka at  gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shivapurANe chaturthyAM koTirudrasaMhitAyAM panchatriMsho.adyAyaH
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivasahasranAmastotra from shivapurANa
+Transliterated by: Srihari teluguinternet at gmail.com
+engtitle: Shivasahasranamastotra from Shivapurana
+itxtitle: shivasahasranAmastotram (shivapurANAntargatam)
+title: शिवसहस्रनामस्तोत्रम् (शिवपुराणान्तर्गतम्)
 
-+++
+---
   
  शिवसहस्रनामस्तोत्रं शिवपुराणान्तर्गतम्   
 सूत उवाच ।  
@@ -328,7 +328,7 @@ title = "शिवसहस्रनामस्तोत्रम् (शिव
 तुम्बवीणो महाकायो विशोकः शोकनाशनः ॥ १०७॥  
   
 त्रिलोकपस्त्रिलोकेशः सर्वशुद्धिरधोक्षजः ।  
-अव्यक्तलक्षणो देवो व्यक्तोऽव्यक्तो विशांपतिः ॥ १०८॥  
+अव्यक्तलक्षणो देवो व्यक्तोऽव्यक्तो विशाम्पतिः ॥ १०८॥  
   
 परः शिवो वसुर्नासासारो मानधरो यमः ।  
 ब्रह्मा विष्णुः प्रजापालो हंसो हंसगतिर्वयः ॥ १०९॥  

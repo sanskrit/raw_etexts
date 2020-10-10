@@ -1,22 +1,22 @@
-+++
-"Text title" = "kalyANasundarapanchAkSharasahasranAmAvalI"
-"File name" = "kalyANasundarapancAkSharasahasranAmAvalI.itx"
-itxtitle = "kalyANasundarapanchAkSharasahasranAmAvaliH (tejinIvana mAhAtmyAntargatam)"
-engtitle = "kalyANasundarapanchAkSharasahasranAmAvalI"
-Category = "sahasranAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24  at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Description/comments" = "Shri Tejinivana Mahatmyam"
-"Latest update" = "January 7, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कल्याणसुन्दरपञ्चाक्षरसहस्रनामावलिः (तेजिनीवन माहात्म्यान्तर्गतम्)"
+---
+Category: sahasranAmAvalI, shiva
+Description/comments: Shri Tejinivana Mahatmyam
+File name: kalyANasundarapancAkSharasahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: January 7, 2017
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: kalyANasundarapanchAkSharasahasranAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24  at gmail.com
+engtitle: kalyANasundarapanchAkSharasahasranAmAvalI
+itxtitle: kalyANasundarapanchAkSharasahasranAmAvaliH (tejinIvana mAhAtmyAntargatam)
+title: कल्याणसुन्दरपञ्चाक्षरसहस्रनामावलिः (तेजिनीवन माहात्म्यान्तर्गतम्)
 
-+++
+---
   
  श्रीकल्याणसुन्दरपञ्चाक्षरसहस्रनामावलिः   
 श्रीसुन्दरकुचाम्बिकासमेत श्रीतेजिनीवननाथसहस्रनामावलिः  

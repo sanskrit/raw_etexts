@@ -1,25 +1,25 @@
-+++
-"Text title" = "Hutatman"
-"File name" = "hutAtmAn.itx"
-itxtitle = "hutAtmAn (rAShTragItAnjaliH)"
-engtitle = "hutAtmAn"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Kapiladeva Dwivedi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Rashtragitanjali, Kapiladeva Dwivedi (Ed.)"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हुतात्मान् (राष्ट्रगीताञ्जलिः)"
+---
+Acknowledge-Permission: Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi
+Author: Kapiladeva Dwivedi
+Category: misc, sanskritgeet
+Description/comments: Rashtragitanjali, Kapiladeva Dwivedi (Ed.)
+File name: hutAtmAn.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Hutatman
+Translated by: Mandar Mali
+engtitle: hutAtmAn
+itxtitle: hutAtmAn (rAShTragItAnjaliH)
+title: हुतात्मान् (राष्ट्रगीताञ्जलिः)
 
-+++
+---
   
  हुतात्मान्   
 (उपजातिवृत्तम्)  

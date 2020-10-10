@@ -1,24 +1,25 @@
-+++
-"Text title" = "paThitasiddhasArasvatastava"
-"File name" = "paThitasiddhasArasvatastava.itx"
-itxtitle = "paThitasiddhasArasvatastavaH (sAdhvIshivAryAvirachitaH)"
-engtitle = "paThitasiddhasArasvatastava"
-Category = "devii, sarasvatI, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "sAdhvIshivAryA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "Parishishta 13 of Bhairava Padmavati Kalpa, Jain/Gujarati publication, 1993"
-"Latest update" = "April 14, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पठितसिद्धसारस्वतस्तवः (साध्वीशिवार्याविरचितः)"
+---
+Author: sAdhvIshivAryA
+Category: devii, sarasvatI, aShTaka, devI
+Description/comments: Parishishta 13 of Bhairava Padmavati Kalpa, Jain/Gujarati publication,
+  1993
+File name: paThitasiddhasArasvatastava.itx
+Language: Sanskrit
+Latest update: April 14, 2018
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: paThitasiddhasArasvatastava
+Transliterated by: DPD
+engtitle: paThitasiddhasArasvatastava
+itxtitle: paThitasiddhasArasvatastavaH (sAdhvIshivAryAvirachitaH)
+title: पठितसिद्धसारस्वतस्तवः (साध्वीशिवार्याविरचितः)
 
-+++
+---
   
  पठितसिद्धसारस्वतस्तवः   
   

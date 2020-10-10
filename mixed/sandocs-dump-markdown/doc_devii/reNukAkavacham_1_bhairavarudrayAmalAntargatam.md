@@ -1,24 +1,25 @@
-+++
-"Text title" = "reNukAkavacham 1 bhairavarudrayAmAle"
-"File name" = "reNukAkavacham1.itx"
-itxtitle = "reNukAkavacham 1 (bhairavarudrayAmalAntargatam)"
-engtitle = "Renuka Kavacham 1 from bhairavarudrayAmAlatantra"
-Category = "kavacha, devii, reNukA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-Description-comments = "bhairavarudrayAmAle mAtRisaMsthAne panchamaM paTalaM from shrIreNukAtantram, Pitambarapeeth, Datia"
-Indexextra = "(bhairavarudrayAmAla)"
-"Latest update" = "May 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकाकवचम् १ (भैरवरुद्रयामलान्तर्गतम्)"
+---
+Category: kavacha, devii, reNukA, devI
+Description-comments: bhairavarudrayAmAle mAtRisaMsthAne panchamaM paTalaM from shrIreNukAtantram,
+  Pitambarapeeth, Datia
+File name: reNukAkavacham1.itx
+Indexextra: (bhairavarudrayAmAla)
+Language: Sanskrit
+Latest update: May 18, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAkavacham 1 bhairavarudrayAmAle
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Renuka Kavacham 1 from bhairavarudrayAmAlatantra
+itxtitle: reNukAkavacham 1 (bhairavarudrayAmalAntargatam)
+title: रेणुकाकवचम् १ (भैरवरुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  रेणुकाकवचं भैरवरुद्रयामाले   
   
@@ -137,7 +138,7 @@ title = "रेणुकाकवचम् १ (भैरवरुद्रय�
 सर्वाङ्गं मे सदा पातु रेणुका वरदायिनी ।  
 रां रां रां रेणुके मातर्भार्गवोद्धारकारिणी ॥  
   
-राजराजकुलोद्भूते संग्रामे शत्रुसङ्कटे ।  
+राजराजकुलोद्भूते सङ्ग्रामे शत्रुसङ्कटे ।  
 जलाप्नाव्ये व्याघ्रभये तथा राजभयेऽपि च ।  
 श्मशाने सङ्कटे घोरे पाहि मां परमेश्वरि ॥  
   

@@ -1,25 +1,25 @@
-+++
-"Text title" = "garbhastutiH"
-"File name" = "garbhastuti.itx"
-itxtitle = "garbhastutiH"
-engtitle = "garbhastutiH"
-Category = "vishhnu, vishnu_misc, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Texttype = "stotra"
-Author = "deva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "brahmaavarta"
-"Latest update" = "January 16, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गर्भस्तुतिः"
+---
+Author: deva
+Category: vishhnu, vishnu_misc, stotra, vishnu
+Description-comments: brahmaavarta
+File name: garbhastuti.itx
+Language: Sanskrit
+Latest update: January 16, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: garbhastutiH
+Texttype: stotra
+Transliterated by: WebD
+engtitle: garbhastutiH
+itxtitle: garbhastutiH
+title: गर्भस्तुतिः
 
-+++
+---
   
  गर्भस्तुती   
   

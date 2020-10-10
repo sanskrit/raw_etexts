@@ -1,24 +1,24 @@
-+++
-"Text title" = "kumAropaniShat"
-"File name" = "kumAropaniShat.itx"
-itxtitle = "kumAropaniShat (sArthA)"
-engtitle = "kumAropaniShat"
-Category = "subrahmanya, upanishhat, upanishad"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "mixed"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-"Translated by" = "P.R.Kannan"
-Indexextra = "(Audio)"
-"Latest update" = "November 16, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमारोपनिषत् (सार्था)"
+---
+Category: subrahmanya, upanishhat, upanishad
+File name: kumAropaniShat.itx
+Indexextra: (Audio)
+Language: Sanskrit
+Latest update: November 16, 2019
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: kumAropaniShat
+Texttype: mixed
+Translated by: P.R.Kannan
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: kumAropaniShat
+itxtitle: kumAropaniShat (sArthA)
+title: कुमारोपनिषत् (सार्था)
 
-+++
+---
   
  कुमारोपनिषद्   
        Translation and commentary by P.R.Kannan  
@@ -94,7 +94,7 @@ Kumara blesses Jiva by giving him the boon; the boon is given by uttering the so
 Jiva goes into latent state after Mahapralaya; Kumara gives Jiva a chance for redemption by bestowing the form on him during creation.  
   
 वीराजपत्रस्थ कुमारभूतिं यो भक्तहस्तेन संस्वीकरोति ।  
-ससर्वसंपत् समवाप्तिपूर्णः भवेद्धि संयाति तं दीर्घमायुः ॥  
+ससर्वसम्पत् समवाप्तिपूर्णः भवेद्धि संयाति तं दीर्घमायुः ॥  
 One, who respectfully receives and wears the Vibhuti (sacred ash) of Kumara placed on the fragrant leaf (called Panneer in Tamil) (at the Tiruchendur Temple) from the hands of the devotee of Kumara (the Pujari in the temple), attains all wealth and fullness of blessings; long life comes to him.  
   
 एतादृशानुग्रहभासिताय साकल्यकोलाय वै षण्मुखाय  

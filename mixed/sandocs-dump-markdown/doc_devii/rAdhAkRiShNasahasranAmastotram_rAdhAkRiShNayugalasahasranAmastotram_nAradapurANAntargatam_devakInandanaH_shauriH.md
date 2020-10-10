@@ -1,25 +1,28 @@
-+++
-"Text title" = "Radhakrishnasahasranamastotra from nAradapurANa"
-"File name" = "rAdhAkRishNasahasra.itx"
-itxtitle = "rAdhAkRiShNasahasranAmastotram rAdhAkRiShNayugalasahasranAmastotram (nAradapurANAntargatam devakInandanaH shauriH)"
-engtitle = "rAdhAkRiShNa or rAdhAkRiShNayugalasahasranAma stotram"
-Category = "sahasranAma, devii, radha, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Kirk Wortman kirkwort at hotmail.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com, Singanallur Ganesan"
-Description-comments = "Naradapurana pUrvArdhe adhyAya 82, Vishnu Stuti Manjari Volume 1 p. 558"
-Indexextra = "(Scan VSM 1)"
-"Latest update" = "December 6, 2002, July 9, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाकृइष्णसहस्रनामस्तोत्रम् राधाकृइष्णयुगलसहस्रनामस्तोत्रम् (नारदपुराणान्तर्गतम् देवकीनन्दनः शौरिः)"
+---
+Category: sahasranAma, devii, radha, stotra, devI
+Description-comments: Naradapurana pUrvArdhe adhyAya 82, Vishnu Stuti Manjari Volume
+  1 p. 558
+File name: rAdhAkRishNasahasra.itx
+Indexextra: (Scan VSM 1)
+Language: Sanskrit
+Latest update: December 6, 2002, July 9, 2017
+Location: doc_devii
+Proofread by: Kirk Wortman kirkwort at hotmail.com, Singanallur Ganesan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: hinduism/religion
+Sublocation: devii
+Text title: Radhakrishnasahasranamastotra from nAradapurANa
+Texttype: stotra
+Transliterated by: Kirk Wortman kirkwort at hotmail.com
+engtitle: rAdhAkRiShNa or rAdhAkRiShNayugalasahasranAma stotram
+itxtitle: rAdhAkRiShNasahasranAmastotram rAdhAkRiShNayugalasahasranAmastotram (nAradapurANAntargatam
+  devakInandanaH shauriH)
+title: राधाकृइष्णसहस्रनामस्तोत्रम् राधाकृइष्णयुगलसहस्रनामस्तोत्रम् (नारदपुराणान्तर्गतम्
+  देवकीनन्दनः शौरिः)
 
-+++
+---
   
  श्रीराधाकृष्णयुगलसहस्रनामस्तोत्रम्   
 सनत्कुमार उवाच -  
@@ -247,7 +250,7 @@ title = "राधाकृइष्णसहस्रनामस्तोत�
 गोपिकाहृदयालम्बी गोपीवहनतत्परः ।  
 गोपिकामदहारी च गोपिकापरमार्जितः ॥ ७३॥  
   
-गोपिकाकृतसंनीलो गोपिकासंस्मृतप्रियः ।  
+गोपिकाकृतसन्नीलो गोपिकासंस्मृतप्रियः ।  
 गोपिकावन्दितपदो गोपिकावशवर्तनः ॥ ७४॥  
   
 राधापराजितः श्रीमान्निकुञ्जेसुविहारवान् ।  
@@ -290,7 +293,7 @@ title = "राधाकृइष्णसहस्रनामस्तोत�
 वैकुण्ठवासी कंसारिः सर्वदुष्टनिषूदनः ॥ ८७॥  
   
 देवदुन्दुभिनिर्घोषी पितृशोकनिवारणः ।  
-यादवेन्द्रः सतांनाथो यादवारिप्रमर्द्दनः ॥ ८८॥  
+यादवेन्द्रः सतान्नाथो यादवारिप्रमर्द्दनः ॥ ८८॥  
   
 शौरिशोकविनाशी च देवकीतापनाशनः ।  
 उग्रसेनपरित्राता उग्रसेनाभिपूजितः ॥ ८९॥  

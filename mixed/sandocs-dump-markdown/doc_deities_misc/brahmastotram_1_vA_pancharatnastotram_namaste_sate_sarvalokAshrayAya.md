@@ -1,23 +1,23 @@
-+++
-"Text title" = "brahmastotraM 1 evaM pancharatnastotraM"
-"File name" = "brahmastotram.itx"
-itxtitle = "brahmastotram 1 vA pancharatnastotram (namaste sate sarvalokAshrayAya)"
-engtitle = "Brahmastotram 1 Pancharatnastotram"
-Category = "deities_misc, stotra, pancharatna"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "mahaanirvaaNa ta.ntra"
-"Latest update" = "March 20, 2006, August 13, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मस्तोत्रम् १ वा पञ्चरत्नस्तोत्रम् (नमस्ते सते सर्वलोकाश्रयाय)"
+---
+Category: deities_misc, stotra, pancharatna
+Description-comments: mahaanirvaaNa ta.ntra
+File name: brahmastotram.itx
+Language: Sanskrit
+Latest update: March 20, 2006, August 13, 2013
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: brahmastotraM 1 evaM pancharatnastotraM
+Texttype: stotra
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Brahmastotram 1 Pancharatnastotram
+itxtitle: brahmastotram 1 vA pancharatnastotram (namaste sate sarvalokAshrayAya)
+title: ब्रह्मस्तोत्रम् १ वा पञ्चरत्नस्तोत्रम् (नमस्ते सते सर्वलोकाश्रयाय)
 
-+++
+---
   
  ब्रह्मस्तोत्रम् अथवा पञ्चरत्नस्तोत्रम्   
 ॐ नमस्ते सते सर्वलोकाश्रयाय  
@@ -45,7 +45,7 @@ title = "ब्रह्मस्तोत्रम् १ वा पञ्च�
 सदेकं निधानं निरालम्बमीशं  
       भवाम्भोधिपोतं शरण्यं व्रजामः ॥ ५॥  
   
- ॥ इति महानिर्वाणतंत्रे ब्रह्मस्तोत्रं एवं पञ्चरत्नस्तोत्रं समाप्तम् ॥  
+ ॥ इति महानिर्वाणतन्त्रे ब्रह्मस्तोत्रं एवं पञ्चरत्नस्तोत्रं समाप्तम् ॥  
   
   
 Encoded and proofread by Sunder Hattangadi sunderh@hotmail.com  

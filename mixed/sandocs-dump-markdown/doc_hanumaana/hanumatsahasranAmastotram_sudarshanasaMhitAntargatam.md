@@ -1,24 +1,25 @@
-+++
-"Text title" = "hanumatsahasranAmastotram"
-"File name" = "hanumatsahasranAmastotram.itx"
-itxtitle = "hanumatsahasranAmastotram (sudarshanasaMhitAntargatam)"
-engtitle = "hanumatsahasranAmastotram"
-Category = "hanumaana, sahasranAma"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "K. Muralidharan kmurali_sg at yahoo.com"
-"Proofread by" = "K. Muralidharan kmurali_sg at yahoo.com, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "from Sudarshana Samhita (book not available)"
-Indexextra = "(Manuscript Scan 1, 2)"
-Acknowledge-Permission = "http://indianmanuscripts.com"
-"Latest update" = "May 26, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्सहस्रनामस्तोत्रम् (सुदर्शनसंहितान्तर्गतम्)"
+---
+Acknowledge-Permission: http://indianmanuscripts.com
+Category: hanumaana, sahasranAma
+Description/comments: from Sudarshana Samhita (book not available)
+File name: hanumatsahasranAmastotram.itx
+Indexextra: (Manuscript Scan 1, 2)
+Language: Sanskrit
+Latest update: May 26, 2019
+Location: doc_hanumaana
+Proofread by: K. Muralidharan kmurali_sg at yahoo.com, PSA Easwaran psaeaswaran at
+  gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatsahasranAmastotram
+Transliterated by: K. Muralidharan kmurali_sg at yahoo.com
+engtitle: hanumatsahasranAmastotram
+itxtitle: hanumatsahasranAmastotram (sudarshanasaMhitAntargatam)
+title: हनुमत्सहस्रनामस्तोत्रम् (सुदर्शनसंहितान्तर्गतम्)
 
-+++
+---
   
  हनुमत्सहस्रनामस्तोत्रम्   
 अस्य श्रीहनुमद्दिव्यसहस्रनामस्तोत्रमन्त्रस्य अनुष्टुप्छन्दः ।  
@@ -46,7 +47,7 @@ title = "हनुमत्सहस्रनामस्तोत्रम् (
 ॐ हनुमानञ्जनीसूनुर्वायुपुत्रो महाबलः ।  
 केसरीनन्दनः श्रीमान्विश्वकर्माऽर्चितध्वजः ॥ १॥  
   
-ईश्वरांशः स्वयंज्ञातः पार्वतीगर्भसम्भवः ।  
+ईश्वरांशः स्वयञ्ज्ञातः पार्वतीगर्भसम्भवः ।  
 सुचिरं मातृगर्भस्थो गर्भवैष्णवसंस्कृतः ॥ २॥  
   
 ब्रह्मचारीन्द्रभजितः सर्वविद्याविशारदः ।  
@@ -77,7 +78,7 @@ title = "हनुमत्सहस्रनामस्तोत्रम् (
 विष्णोरागमनोपायः कारणः पुनरुछ्रितः ॥ ११॥  
   
 नक्तञ्चराहितोर्द्धर्ता सर्वेन्द्रियजितः शुचिः ।  
-स्वबलाबलसंज्ञातः कामरूपी महोन्नतः ॥ १२॥  
+स्वबलाबलसञ्ज्ञातः कामरूपी महोन्नतः ॥ १२॥  
   
 पिङ्गलाक्षो महाबुद्धिः सर्वस्त्रीमातृदर्शकः ।  
 वनेचरो वायुवेगी सुग्रीवराज्यकारणः ॥ १३॥  
@@ -158,7 +159,7 @@ title = "हनुमत्सहस्रनामस्तोत्रम् (
 सर्वशक्तिर्निरालम्बः कूर्मपृष्ठविदारणः ।  
 ध्वंसरूपः सदापूज्यो भीमप्राणाभिरक्षकः ॥ ३८॥  
   
-पाण्डवेशः परंब्रह्म परमात्मा परन्तपः ।  
+पाण्डवेशः परम्ब्रह्म परमात्मा परन्तपः ।  
 पञ्चवक्त्रो हयग्रीवः पक्षिराजो परःशिवः ॥ ३९॥  
   
 नारसिंहः परञ्ज्योतिर्वराहः प्लवगेश्वरः ।  
@@ -168,10 +169,10 @@ title = "हनुमत्सहस्रनामस्तोत्रम् (
 नानायुधधरः शूली धनुर्वेदपरायणः ॥ ४१॥  
   
 आक्ष्याह्वयशिरोहारी कवची दिव्यबाणभृत् ।  
-ताडकासुतसंहारी स्वयंमूर्तिरलाम्बलः ॥ ४२॥ ?  
+ताडकासुतसंहारी स्वयम्मूर्तिरलाम्बलः ॥ ४२॥ ?  
   
 ब्रह्मात्मा ब्रह्मकृद्ब्रह्म ब्रह्मलोकप्रकाङ्क्षणः ।  
-श्रीकण्ठः शङ्करः स्थाणुः परंधाम परा गतिः ॥ ४३॥  
+श्रीकण्ठः शङ्करः स्थाणुः परन्धाम परा गतिः ॥ ४३॥  
   
 पीताम्बरधरश्चक्री व्योमकेशः सदाशिवः ।  
 त्रिमूर्त्यात्मा त्रिलोकेशस्त्रिगणस्त्रिदिवेश्वरः ॥ ४४॥  
@@ -198,7 +199,7 @@ title = "हनुमत्सहस्रनामस्तोत्रम् (
 वेदान्तवेद्यः सर्वार्थी नित्यानन्दो महाहविः ॥ ५१॥  
   
 सर्वेश्वरो महाविष्णुर्नित्ययुक्तः सनातनः ।  
-षड्विम्शको योगपतिर्योगगम्यः स्वयंप्रभुः ॥ ५२॥  
+षड्विम्शको योगपतिर्योगगम्यः स्वयम्प्रभुः ॥ ५२॥  
   
 मायापतिर्भवोऽनर्थः भवबन्धैकमोचकः ।  
 पुराणः पुरुषः सत्यो तापत्रयविवर्जितः ॥ ५३॥  
@@ -364,7 +365,7 @@ title = "हनुमत्सहस्रनामस्तोत्रम् (
 विध्वस्तमोहनोऽध्यात्मा कामधेनुः सुदर्शनः ।  
 चिन्तामणिः कृपाचार्यो ब्रह्मराट् कल्पपादपः ॥ १०६॥  
   
-दिनं पक्षो वसन्तर्तुर्वत्सरः कल्पसंज्ञकः ।  
+दिनं पक्षो वसन्तर्तुर्वत्सरः कल्पसञ्ज्ञकः ।  
 आत्मतत्त्वाधिपो वीरः सत्यः सत्यप्रवर्तकः ॥ १०७॥  
   
 अध्यात्मविद्या ॐकारः सगुणोऽक्षरोत्तमः ।  

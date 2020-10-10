@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Ayyapa Trishati Namavalih 300 Names"
-"File name" = "ayyappatrishatinamAvaliH.itx"
-itxtitle = "ayyappatrishatinAmAvaliH dharmashAstAtrishatinAmAvaliH (haridAsavirachitam)"
-engtitle = "ayyappatrishatinAmAvaliH"
-Category = "deities_misc, ayyappa, shatInAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyapa"
-Author = "Haridas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-Indexextra = "(Scans 1, 2, 3)"
-"Latest update" = "January 1, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अय्यप्पत्रिशतिनामावलिः धर्मशास्तात्रिशतिनामावलिः (हरिदासविरचितम्)"
+---
+Author: Haridas
+Category: deities_misc, ayyappa, shatInAmAvalI
+File name: ayyappatrishatinamAvaliH.itx
+Indexextra: (Scans 1, 2, 3)
+Language: Sanskrit
+Latest update: January 1, 2019
+Location: doc_deities_misc
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyapa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Ayyapa Trishati Namavalih 300 Names
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: ayyappatrishatinAmAvaliH
+itxtitle: ayyappatrishatinAmAvaliH dharmashAstAtrishatinAmAvaliH (haridAsavirachitam)
+title: अय्यप्पत्रिशतिनामावलिः धर्मशास्तात्रिशतिनामावलिः (हरिदासविरचितम्)
 
-+++
+---
   
  श्रीअय्यप्प अथवा धर्मशास्ता त्रिशति नामावलिः   
 श्रीगणेशाय नमः ।  
@@ -56,7 +56,7 @@ title = "अय्यप्पत्रिशतिनामावलिः ध�
 सुखभोगपरित्याजिताय । देषरहिताय । वृषनाशनाय नमः । ८०  
   
 ॐ तत्त्वमसि तत्त्वप्रबोधिताय नमः । रागरहिताय । रागनाशनाय ।  
-अहंभावनाशनाय । ब्रह्मचार्यै । ब्राह्मणेश्वराय ।  
+अहम्भावनाशनाय । ब्रह्मचार्यै । ब्राह्मणेश्वराय ।  
 गात्रक्षेत्रनिवासिताय । बाणनिपुणाय । अपराजिताय ।  
 दुष्टमहिषीनिग्रहकर्त्रे । भूतनाथाय । भूतहितकराय ।  
 कीर्तनश्रवणतत्पराय । राजीवलोचनाय । वीराय । दिव्यात्मने ।  

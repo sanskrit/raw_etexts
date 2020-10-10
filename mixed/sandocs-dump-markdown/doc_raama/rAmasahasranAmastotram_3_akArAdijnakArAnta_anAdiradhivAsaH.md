@@ -1,21 +1,21 @@
-+++
-"Text title" = "rAmasahasranAmastotram 3"
-"File name" = "rAmasahasranAmastotram3.itx"
-itxtitle = "rAmasahasranAmastotram 3 (akArAdijnakArAnta anAdiradhivAsaH)"
-engtitle = "rAmasahasranAmastotram 3"
-Category = "raama, sahasranAma"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(VSM 2, rAmapUjApaddhati scan)"
-"Latest update" = "June 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामसहस्रनामस्तोत्रम् ३ (अकारादिज्ञकारान्त अनादिरधिवासः)"
+---
+Category: raama, sahasranAma
+File name: rAmasahasranAmastotram3.itx
+Indexextra: (VSM 2, rAmapUjApaddhati scan)
+Language: Sanskrit
+Latest update: June 21, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmasahasranAmastotram 3
+engtitle: rAmasahasranAmastotram 3
+itxtitle: rAmasahasranAmastotram 3 (akArAdijnakArAnta anAdiradhivAsaH)
+title: रामसहस्रनामस्तोत्रम् ३ (अकारादिज्ञकारान्त अनादिरधिवासः)
 
-+++
+---
   
  श्रीरामसहस्रनामस्तोत्रम्   
 (अकारादिज्ञकारान्त)  

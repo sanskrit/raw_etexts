@@ -1,21 +1,21 @@
-+++
-"Text title" = "Sharabha Shanti Stotram"
-"File name" = "sharabhashAntistotram.itx"
-itxtitle = "sharabhashAntistotram"
-engtitle = "sharabha shAntistotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Venkata Subramanian, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Text)"
-"Latest update" = "February 22, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरभशान्तिस्तोत्रम्"
+---
+Category: shiva
+File name: sharabhashAntistotram.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: February 22, 2020
+Location: doc_shiva
+Proofread by: Venkata Subramanian, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Sharabha Shanti Stotram
+engtitle: sharabha shAntistotram
+itxtitle: sharabhashAntistotram
+title: शरभशान्तिस्तोत्रम्
 
-+++
+---
   
  शरभशान्तिस्तोत्रम्   
 रुद्रः शङ्कर ईश्वरः पशुपतिः स्थाणुः कपर्दी शिवो  

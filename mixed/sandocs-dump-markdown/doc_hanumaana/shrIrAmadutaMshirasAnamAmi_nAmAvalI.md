@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shriramadutam Shirasa Namami"
-"File name" = "shrIrAmadutaMshirasAnamAmi.itx"
-itxtitle = "shrIrAmadutaMshirasAnamAmi nAmAvalI"
-engtitle = "shrIrAmadutaMshirasAnamAmi"
-Category = "hanumaana, stotra, hanuman, nAmAvalI"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Indexextra = "(vedio)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीरामदुतंशिरसानमामि नामावली"
+---
+Category: hanumaana, stotra, hanuman, nAmAvalI
+File name: shrIrAmadutaMshirasAnamAmi.itx
+Indexextra: (vedio)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: Shriramadutam Shirasa Namami
+Texttype: stotra
+engtitle: shrIrAmadutaMshirasAnamAmi
+itxtitle: shrIrAmadutaMshirasAnamAmi nAmAvalI
+title: श्रीरामदुतंशिरसानमामि नामावली
 
-+++
+---
   
  श्रीरामदूतं शिरसा नमामि   
 आञ्जनेयमतिपाटलाननं काञ्चनाद्रिकमनीयविग्रहं ।  
@@ -76,7 +76,7 @@ shirasA namAmi twice, in the middle and in the end
 सञ्जीवाद्रिगमनसन्तोषस्वान्तं - कालनेमिकृतघनमायायुक्तं  
 मकरबन्धीकृतमहितपदाब्जं - धान्यमालिनीशापधर्षितरूपं  
 कालनेमिदनुजखण्डितधीरं - दिकृताद्य्रधीशतीव्रप्रकोपं  
-गन्धर्वसैन्यसंक्षोभप्रतापं - स्तबकीकृतधृतसञ्जीवनाद्रिम् ॥  
+गन्धर्वसैन्यसङ्क्षोभप्रतापं - स्तबकीकृतधृतसञ्जीवनाद्रिम् ॥  
   
 भरतसम्बोधितप्रशमितबाणं - माल्यवदादि महोदथधिहरणं  
 लक्ष्मणप्राणसंरक्षणनिलयं - सौमित्रिसम्मोहजलदसमीरं  

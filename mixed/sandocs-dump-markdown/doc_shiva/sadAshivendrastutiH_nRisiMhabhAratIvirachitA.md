@@ -1,22 +1,23 @@
-+++
-"Text title" = "sadAshivendrastutiH"
-"File name" = "sadAshivendrastutiH.itx"
-itxtitle = "sadAshivendrastutiH (nRisiMhabhAratIvirachitA)"
-engtitle = "sadAshivendrastutiH"
-Category = "shiva, nRisiMhabhAratIsvAmi"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "nRisiMhabhAratIsvAmibhirvirachitA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "January 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सदाशिवेन्द्रस्तुतिः (नृइसिंहभारतीविरचिता)"
+---
+Author: nRisiMhabhAratIsvAmibhirvirachitA
+Category: shiva, nRisiMhabhAratIsvAmi
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: sadAshivendrastutiH.itx
+Language: Sanskrit
+Latest update: January 19, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: sadAshivendrastutiH
+engtitle: sadAshivendrastutiH
+itxtitle: sadAshivendrastutiH (nRisiMhabhAratIvirachitA)
+title: सदाशिवेन्द्रस्तुतिः (नृइसिंहभारतीविरचिता)
 
-+++
+---
   
  सदाशिवेन्द्रस्तुतिः   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "lakShmIhayagrIvapancharatnam"
-"File name" = "lakShmIhayagrIvapancharatnam.itx"
-itxtitle = "lakShmIhayagrIvapancharatnam"
-engtitle = "lakShmIhayagrIvapancharatnam"
-Category = "vishhnu, vishnu, lakShmI, pancharatna, devii, devI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rujuta rujuta5879 at gmail.com"
-"Proofread by" = "Rujuta rujuta5879 at gmail.com"
-Indexextra = "(StotraSringeri)"
-"Latest update" = "March 15, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीहयग्रीवपञ्चरत्नम्"
+---
+Category: vishhnu, vishnu, lakShmI, pancharatna, devii, devI
+File name: lakShmIhayagrIvapancharatnam.itx
+Indexextra: (StotraSringeri)
+Language: Sanskrit
+Latest update: March 15, 2018
+Location: doc_vishhnu
+Proofread by: Rujuta rujuta5879 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: lakShmIhayagrIvapancharatnam
+Transliterated by: Rujuta rujuta5879 at gmail.com
+engtitle: lakShmIhayagrIvapancharatnam
+itxtitle: lakShmIhayagrIvapancharatnam
+title: लक्ष्मीहयग्रीवपञ्चरत्नम्
 
-+++
+---
   
  श्रीलक्ष्मीहयग्रीवपञ्चरत्नम्   
   

@@ -1,22 +1,23 @@
-+++
-"Text title" = "niruktopaniShat"
-"File name" = "niruktopaniShat.itx"
-itxtitle = "niruktopaniShat (sAmAnyavedAnta)"
-engtitle = "niruktopaniShat"
-Category = "upanishhat, vedanta, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com, Radim Navyan radimnavyan at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned book)"
-"Latest update" = "October 20, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "निरुक्तोपनिषत् (सामान्यवेदान्त)"
+---
+Category: upanishhat, vedanta, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: niruktopaniShat.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: October 20, 2017
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com, Radim Navyan radimnavyan at
+  gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: niruktopaniShat
+engtitle: niruktopaniShat
+itxtitle: niruktopaniShat (sAmAnyavedAnta)
+title: निरुक्तोपनिषत् (सामान्यवेदान्त)
 
-+++
+---
   
  निरुक्तोपनिषत्   
   
@@ -62,7 +63,7 @@ title = "निरुक्तोपनिषत् (सामान्यवे
 हर्षविषादेर्ष्यासूयात्मकैर्द्वन्द्वैरभिभूयमानः  
 सोऽस्मादार्जवं जवीभावनान्तं निर्मुच्यते । सोऽस्मादान्तं महाभूमिकावत्  
 शरीरान्निमेषमात्रैः प्रक्रम्य प्रकृतिभिरभिपरीत्य तैजसं  
-शरीरं कृत्वा कर्मणानुरूपं फलमनुभूय तस्य संक्षये पुनरिमं  
+शरीरं कृत्वा कर्मणानुरूपं फलमनुभूय तस्य सङ्क्षये पुनरिमं  
 लोकं प्रतिपद्यते ॥  
   
 इति निरुक्तोपनिषदि एकविंशोऽध्यायः ॥  

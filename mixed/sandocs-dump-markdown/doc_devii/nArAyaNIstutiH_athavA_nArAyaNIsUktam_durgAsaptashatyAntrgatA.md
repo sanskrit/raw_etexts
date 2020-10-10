@@ -1,25 +1,27 @@
-+++
-"Text title" = "Narayanastiti durgA saptashatI"
-"File name" = "nArAyaNIstutiH.itx"
-itxtitle = "nArAyaNIstutiH athavA nArAyaNIsUktam (durgAsaptashatyAntrgatA)"
-engtitle = "nArAyaNIstutiH"
-Category = "devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu ek879 at cleveland.freenet.edu"
-"Proofread by" = "Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu ek879 at cleveland.freenet.edu"
-Description-comments = "from durgA saptashatI adhyAya 11"
-Indexextra = "(Only Narayanistuti)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणीस्तुतिः अथवा नारायणीसूक्तम् (दुर्गासप्तशत्यान्त्र्गता)"
+---
+Category: devii, durgA, stotra, devI
+Description-comments: from durgA saptashatI adhyAya 11
+File name: nArAyaNIstutiH.itx
+Indexextra: (Only Narayanistuti)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_devii
+Proofread by: Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu ek879
+  at cleveland.freenet.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Narayanastiti durgA saptashatI
+Texttype: stotra
+Transliterated by: Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu
+  ek879 at cleveland.freenet.edu
+engtitle: nArAyaNIstutiH
+itxtitle: nArAyaNIstutiH athavA nArAyaNIsUktam (durgAsaptashatyAntrgatA)
+title: नारायणीस्तुतिः अथवा नारायणीसूक्तम् (दुर्गासप्तशत्यान्त्र्गता)
 
-+++
+---
   
  नारायणीस्तुतिः अथवा नारायणीसूक्तम्   
   
@@ -199,13 +201,13 @@ title = "नारायणीस्तुतिः अथवा नाराय
 भीमादेवीति विख्यातं तन्मे नाम भविष्यति ।  
 यदारुणाख्यस्त्रैलोक्ये महाबाधां करिष्यति ॥ ५२॥  
   
-तदाहं भ्रामरं रूपं कृत्वासंख्येयषट्पदम् ।  
+तदाहं भ्रामरं रूपं कृत्वासङ्ख्येयषट्पदम् ।  
 त्रैलोक्यस्य हितार्थाय वधिष्यामि महासुरम् ॥ ५३॥  
   
 भ्रामरीति च मां लोकास्तदा स्तोष्यन्ति सर्वतः ।  
 इत्थं यदा यदा बाधा दानवोत्था भविष्यति ॥ ५४॥  
   
-तदा तदावतीर्याहं करिष्याम्यरिसंक्षयम् ॥ ५५॥  
+तदा तदावतीर्याहं करिष्याम्यरिसङ्क्षयम् ॥ ५५॥  
   
 ॥ स्वस्ति श्रीमार्कण्डेयपुराणे सावर्णिके मन्वन्तरे देवीमाहात्म्ये  
 नारायणीस्तुतिः सम्पूर्णा ॥ ११॥  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Sarasvati Dvadasha Namavali"
-"File name" = "sarasvatIdvAdashanAmAvaliH.itx"
-itxtitle = "sarasvatIdvAdashanAmAvaliH"
-engtitle = "sarasvatI dvAdasha nAmAvaliH"
-Category = "devii, sarasvatI, dvAdasha, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(Scan)"
-"Latest update" = "January 28, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीद्वादशनामावलिः"
+---
+Category: devii, sarasvatI, dvAdasha, nAmAvalI, devI
+File name: sarasvatIdvAdashanAmAvaliH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 28, 2020
+Location: doc_devii
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Sarasvati Dvadasha Namavali
+Transliterated by: NA
+engtitle: sarasvatI dvAdasha nAmAvaliH
+itxtitle: sarasvatIdvAdashanAmAvaliH
+title: सरस्वतीद्वादशनामावलिः
 
-+++
+---
   
  सरस्वतीद्वादशनामावलिः   
 ॐ ऐं भारत्यै नमः ।  

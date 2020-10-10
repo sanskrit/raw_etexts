@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhogApureshAShTakam"
-"File name" = "bhogApureshAShTakam.itx"
-itxtitle = "bhogApureshAShTakam"
-engtitle = "bhogApureshAShTakam"
-Category = "aShTaka, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-"Description/comments" = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "December 8, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भोगापुरेशाष्टकम्"
+---
+Category: aShTaka, hanumaana, hanuman
+Description/comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: bhogApureshAShTakam.itx
+Language: Sanskrit
+Latest update: December 8, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: bhogApureshAShTakam
+Transliterated by: Processed by Shree Devi Kumar
+engtitle: bhogApureshAShTakam
+itxtitle: bhogApureshAShTakam
+title: भोगापुरेशाष्टकम्
 
-+++
+---
   
  श्रीभोगापुरेशाष्टकम्   
   

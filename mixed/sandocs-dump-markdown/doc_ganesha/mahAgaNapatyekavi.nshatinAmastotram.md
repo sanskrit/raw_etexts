@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAgaNapatyekavi.nshatinAma"
-"File name" = "mahAgaNapatyekavinshatinAma.itx"
-itxtitle = "mahAgaNapatyekavi.nshatinAmastotram"
-engtitle = "mahAgaNapatyekavi.nshatinAma stotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kirk Wortman kirkwort at hotmail.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-"Translated by" = "shriigaNeshapurANe upAsanAkhaNDe iishvaragaNeshasa.nvAde"
-"Latest update" = "June 21, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महागणपत्येकविंशतिनामस्तोत्रम्"
+---
+Category: ganesha, stotra
+File name: mahAgaNapatyekavinshatinAma.itx
+Language: Sanskrit
+Latest update: June 21, 2011
+Location: doc_ganesha
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: mahAgaNapatyekavi.nshatinAma
+Texttype: stotra
+Translated by: shriigaNeshapurANe upAsanAkhaNDe iishvaragaNeshasa.nvAde
+Transliterated by: Kirk Wortman kirkwort at hotmail.com
+engtitle: mahAgaNapatyekavi.nshatinAma stotram
+itxtitle: mahAgaNapatyekavi.nshatinAmastotram
+title: महागणपत्येकविंशतिनामस्तोत्रम्
 
-+++
+---
   
  श्रीमहागणपत्येकविंशतिनामस्तोत्रम्   
   

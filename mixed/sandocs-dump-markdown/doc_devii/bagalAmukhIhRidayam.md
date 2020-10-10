@@ -1,23 +1,23 @@
-+++
-"Text title" = "bagalAmukhI Hridayam"
-"File name" = "bagalAmukhIhRidayam.itx"
-itxtitle = "bagalAmukhIhRidayam"
-engtitle = "bagalAmukhIhRidayam"
-Category = "hRidaya, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-Description-comments = "mAlAmantra"
-"Latest update" = "November 28, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बगलामुखीहृइदयम्"
+---
+Category: hRidaya, devii, dashamahAvidyA, devI
+Description-comments: mAlAmantra
+File name: bagalAmukhIhRidayam.itx
+Language: Sanskrit
+Latest update: November 28, 2016
+Location: doc_devii
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bagalAmukhI Hridayam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: bagalAmukhIhRidayam
+itxtitle: bagalAmukhIhRidayam
+title: बगलामुखीहृइदयम्
 
-+++
+---
   
  श्रीबगलामुखीहृदयम्   
   

@@ -1,25 +1,25 @@
-+++
-"Text title" = "ve.nkaTeshvara sahasranAma stotram"
-"File name" = "venkat1000.itx"
-itxtitle = "veNkaTeshvarasahasranAmAvalI"
-engtitle = "veNkaTeshvara sahasranAmAvalI"
-Category = "sahasranAmAvalI, vishhnu, venkateshwara, nAmAvalI, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "anuradha r.s  at anuraadha_rs2yahoo.co.in"
-Description-comments = "Vishnustutimanjari 1"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "September 19, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेश्वरसहस्रनामावली"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: Traditional
+Category: sahasranAmAvalI, vishhnu, venkateshwara, nAmAvalI, vishnu
+Description-comments: Vishnustutimanjari 1
+File name: venkat1000.itx
+Language: Sanskrit
+Latest update: September 19, 2003
+Location: doc_vishhnu
+Proofread by: anuradha r.s  at anuraadha_rs2yahoo.co.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ve.nkaTeshvara sahasranAma stotram
+Texttype: nAmAvalI
+engtitle: veNkaTeshvara sahasranAmAvalI
+itxtitle: veNkaTeshvarasahasranAmAvalI
+title: वेण्कटेश्वरसहस्रनामावली
 
-+++
+---
   
  श्रीवेङ्कटेश्वरसहस्रनामावली   
   

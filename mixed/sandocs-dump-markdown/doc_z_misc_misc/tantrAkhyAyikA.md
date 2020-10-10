@@ -1,24 +1,24 @@
-+++
-"Text title" = "ta.ntrAkhyAyikA"
-"File name" = "tantraakhyayikaa.itx"
-itxtitle = "tantrAkhyAyikA"
-engtitle = "ta.ntrAkhyAyikA"
-Category = "misc"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Lars Martin Fosse lmfosse at online.no"
-"Proofread by" = "Lars Martin Fosse lmfosse at online.no"
-"Latest update" = "13 Dec 1996, November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तन्त्राख्यायिका"
+---
+Category: misc
+File name: tantraakhyayikaa.itx
+Language: Sanskrit
+Latest update: 13 Dec 1996, November 1, 2010
+Location: doc_z_misc_misc
+Proofread by: Lars Martin Fosse lmfosse at online.no
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: ta.ntrAkhyAyikA
+Texttype: pramukha
+Transliterated by: Lars Martin Fosse lmfosse at online.no
+engtitle: ta.ntrAkhyAyikA
+itxtitle: tantrAkhyAyikA
+title: तन्त्राख्यायिका
 
-+++
+---
   
- तंत्राख्यायिका   
+ तन्त्राख्यायिका   
   
   
 1, 2 : Affe und Keil  
@@ -55,7 +55,7 @@ title = "तन्त्राख्यायिका"
 इतः परिभ्रमन्नुभयसैनस्यायोधनभूमिं  
 अपश्यत् ।  
 तत्र च महान्तं शब्दं अशृणोत् ।  
-तद्भयसंक्षुभितहृदयः किं इदं ! विनष्टो  
+तद्भयसङ्क्षुभितहृदयः किं इदं ! विनष्टो  
 अस्मि ! कस्यायं  
 शब्दः ! क्व वा कीदृशो वाएष शब्द इति !  
 चिन्तयता दृष्टा  
@@ -66,7 +66,7 @@ title = "तन्त्राख्यायिका"
 अथ सा यदा वायुप्रेरितैर् वृक्षाग्रैस्स्पृश्यते !  
 तदा शब्दं करोति !  
 अन्यदा न ! इति तूष्णीं आस्ते ।  
-स तु तस्यास्सारासारतां ज्ञातुं संनिकर्षं  
+स तु तस्यास्सारासारतां ज्ञातुं सन्निकर्षं  
 उपश्लिष्टः ।  
 स्वयं च कौतुकादुभयोर् मुखयोर् अताडयत् !  
 अचिन्तयच्च।  

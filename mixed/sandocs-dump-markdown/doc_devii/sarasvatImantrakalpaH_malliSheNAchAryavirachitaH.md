@@ -1,24 +1,25 @@
-+++
-"Text title" = "sarasvatImantrakalpa"
-"File name" = "sarasvatImantrakalpa.itx"
-itxtitle = "sarasvatImantrakalpaH (malliSheNAchAryavirachitaH)"
-engtitle = "sarasvatImantrakalpa"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "malliSheNAchArya"
-Language = "Hindi"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "Parishishta 11 of Bhairava Padmavati Kalpa, Jain/Gujarati publication, 1993"
-"Latest update" = "April 2, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीमन्त्रकल्पः (मल्लिषेणाचार्यविरचितः)"
+---
+Author: malliSheNAchArya
+Category: devii, sarasvatI, devI
+Description/comments: Parishishta 11 of Bhairava Padmavati Kalpa, Jain/Gujarati publication,
+  1993
+File name: sarasvatImantrakalpa.itx
+Language: Hindi
+Latest update: April 2, 2018
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatImantrakalpa
+Transliterated by: DPD
+engtitle: sarasvatImantrakalpa
+itxtitle: sarasvatImantrakalpaH (malliSheNAchAryavirachitaH)
+title: सरस्वतीमन्त्रकल्पः (मल्लिषेणाचार्यविरचितः)
 
-+++
+---
   
  सरस्वतीमन्त्रकल्पः   
   

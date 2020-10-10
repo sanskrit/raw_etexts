@@ -1,24 +1,24 @@
-+++
-"Text title" = "Laxmi Nrisimha Mangalashasanam"
-"File name" = "lakShmInRRisiMhamanglAshAsanam.itx"
-itxtitle = "lakShmInRisiMhamaNgalAshAsanam"
-engtitle = "Laxmi Nrisimha Mangalashasanam"
-Category = "vishhnu, dashAvatAra, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu, NA, PSA Easwaran"
-"Description/comments" = "shodhagangA thesis about Nrisimha cult Appendix 1"
-Indexextra = "(thesis)"
-"Latest update" = "July 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनृइसिंहमण्गलाशासनम्"
+---
+Category: vishhnu, dashAvatAra, mangala
+Description/comments: shodhagangA thesis about Nrisimha cult Appendix 1
+File name: lakShmInRRisiMhamanglAshAsanam.itx
+Indexextra: (thesis)
+Language: Sanskrit
+Latest update: July 13, 2018
+Location: doc_vishhnu
+Proofread by: Ganesh Kandu, NA, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Laxmi Nrisimha Mangalashasanam
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: Laxmi Nrisimha Mangalashasanam
+itxtitle: lakShmInRisiMhamaNgalAshAsanam
+title: लक्ष्मीनृइसिंहमण्गलाशासनम्
 
-+++
+---
   
  श्रीलक्ष्मीनृसिंह मङ्ग्लाशासनम्   
 श्रीपराङ्कुशयोगीन्द्रशठारिप्रमुखान् गुरून् ।  

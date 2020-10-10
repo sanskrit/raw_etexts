@@ -1,22 +1,22 @@
-+++
-"Text title" = "lakShmIchandralambA 108 names"
-"File name" = "lakShmIchandralAmbA108str.itx"
-itxtitle = "lakShmIchandralambAShTottarashatanAmastotram"
-engtitle = "lakShmIchandralambAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-"Latest update" = "July 18, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीचन्द्रलम्बाष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, devii, lakShmI, devI
+File name: lakShmIchandralAmbA108str.itx
+Language: Sanskrit
+Latest update: July 18, 2017
+Location: doc_devii
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmIchandralambA 108 names
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: lakShmIchandralambAShTottarashatanAmastotram
+itxtitle: lakShmIchandralambAShTottarashatanAmastotram
+title: लक्ष्मीचन्द्रलम्बाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीलक्ष्मीचन्द्रलाम्बाष्टोत्तरशतनामस्तोत्रम्   
   

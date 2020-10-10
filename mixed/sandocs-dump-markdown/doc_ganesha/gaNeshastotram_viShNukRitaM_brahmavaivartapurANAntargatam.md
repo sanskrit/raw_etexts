@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNeshastotram viShNukRitam brahmavaivartapurANe"
-"File name" = "gaNeshastotramviShNukRitamBVP.itx"
-itxtitle = "gaNeshastotram (viShNukRitaM brahmavaivartapurANAntargatam)"
-engtitle = "gaNeshastotram brahmavaivartapurANa"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "gaNeshakhaNDe 3 adhyAya 13 shloka 40-58"
-Indexextra = "(meaning)"
-"Latest update" = "April 2, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तोत्रम् (विष्णुकृइतं ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: ganesha, stotra
+Description-comments: gaNeshakhaNDe 3 adhyAya 13 shloka 40-58
+File name: gaNeshastotramviShNukRitamBVP.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: April 2, 2016
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshastotram viShNukRitam brahmavaivartapurANe
+Texttype: stotra
+engtitle: gaNeshastotram brahmavaivartapurANa
+itxtitle: gaNeshastotram (viShNukRitaM brahmavaivartapurANAntargatam)
+title: गणेशस्तोत्रम् (विष्णुकृइतं ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णुकृतं गणेशस्तोत्रम्   
   
@@ -44,7 +44,7 @@ title = "गणेशस्तोत्रम् (विष्णुकृइत
 धर्मस्वरूपं धर्मज्ञं धर्माधर्मफलप्रदम् ॥ ६॥  
   
 बीजं संसारवृक्षाणामङकुरं च तदाश्रयम् ।  
-स्त्रीपुंनपुंसकानां च रूपमेतदतीन्द्रियम् ॥ ७॥  
+स्त्रीपुन्नपुंसकानां च रूपमेतदतीन्द्रियम् ॥ ७॥  
   
 सर्वाद्यमग्रपूज्यं च सर्वपूज्यं गुणार्णवम् ।  
 स्वेच्छया सगुणं ब्रह्म निर्गुणं स्वेच्छया पुनः ॥ ८॥  

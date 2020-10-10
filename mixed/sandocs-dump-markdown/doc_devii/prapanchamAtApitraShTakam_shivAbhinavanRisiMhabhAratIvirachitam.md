@@ -1,22 +1,22 @@
-+++
-"Text title" = "prapanchamAtApitraShTakam"
-"File name" = "prapanchamAtApitraShTakam.itx"
-itxtitle = "prapanchamAtApitraShTakam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "prapanchamAtApitraShTakam"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, shiva, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रपञ्चमातापित्रष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, shiva, aShTaka
+File name: prapanchamAtApitraShTakam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: prapanchamAtApitraShTakam
+engtitle: prapanchamAtApitraShTakam
+itxtitle: prapanchamAtApitraShTakam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: प्रपञ्चमातापित्रष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीप्रपञ्चमातापित्रष्टकम्   
 (श्रीशृङ्गगिरौ - श्रीभवानीमलहानिकरेश्वरकल्याणोत्सवे)  

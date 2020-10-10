@@ -1,24 +1,24 @@
-+++
-"Text title" = "Pathata Samskritam"
-"File name" = "paThatasaMskRRitam.itx"
-itxtitle = "paThata saMskRRitam"
-engtitle = "paThata saMskRRitam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "manjunAthasharmA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1, 2, 3, 4, 5)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पठत संस्कृतम्"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: manjunAthasharmA
+Category: misc, sanskritgeet
+File name: paThatasaMskRRitam.itx
+Indexextra: (Wiki, Videos 1, 2, 3, 4, 5)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Pathata Samskritam
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: paThata saMskRRitam
+itxtitle: paThata saMskRRitam
+title: पठत संस्कृतम्
 
-+++
+---
   
  पठत संस्कृतम्   
 पठत संस्कृतम्, वदत संस्कृतं  

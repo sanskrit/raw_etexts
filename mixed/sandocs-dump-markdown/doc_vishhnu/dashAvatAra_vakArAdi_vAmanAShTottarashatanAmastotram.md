@@ -1,24 +1,25 @@
-+++
-"Text title" = "vakArAdi vAmanAShTottarashatanAmastotram"
-"File name" = "vakArAdivAmana108nAmastotram.itx"
-itxtitle = "dashAvatAra vakArAdi vAmanAShTottarashatanAmastotram"
-engtitle = "vakArAdi vAmanAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "paNDita shrI bellaMkoNDa rAmarAya kavIndra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA"
-"Latest update" = "January 24, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतार वकारादि वामनाष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: paNDita shrI bellaMkoNDa rAmarAya kavIndra
+Category: aShTottarashatanAma, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra,
+  vishnu
+File name: vakArAdivAmana108nAmastotram.itx
+Language: Sanskrit
+Latest update: January 24, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vakArAdi vAmanAShTottarashatanAmastotram
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: vakArAdi vAmanAShTottarashatanAmastotram
+itxtitle: dashAvatAra vakArAdi vAmanAShTottarashatanAmastotram
+title: दशावतार वकारादि वामनाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  वकारादि श्रीवामनाष्टोत्तरशतनामस्तोत्रम्   
 श्री हयग्रीवाय नमः ।  
@@ -58,7 +59,7 @@ title = "दशावतार वकारादि वामनाष्टो
 वियत्पतितमन्दारो विन्ध्यावलिकृतोत्सवः ॥ ११॥  
   
 वैषम्यनैर्घृण्यहीनो वैरोचनिकृतप्रियः ।  
-विदारितैककाव्याक्षो वांछिताज्ङ्घ्रित्रयक्षितिः ॥ १२॥  
+विदारितैककाव्याक्षो वाञ्छिताज्ङ्घ्रित्रयक्षितिः ॥ १२॥  
   
 वैरोचनिमहाभाग्य परिणामो विषादहृत् ।  
 वियद्दुन्दुभिनिर्घृष्टबलिवाक्यप्रहर्षितः ॥ १३॥  

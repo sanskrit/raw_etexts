@@ -1,23 +1,23 @@
-+++
-"Text title" = "kRiShNAShTottarashatanAmAvalI 1"
-"File name" = "kRiShNAShTottarashatanAmAvalI1.itx"
-itxtitle = "kRiShNAShTottarashatanAmAvaliH 1"
-engtitle = "kRiShNAShTottarashatanAmAvalI 1"
-Category = "aShTottarashatanAmAvalI, vishhnu, krishna, vishnu, nAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at sify.com"
-"Proofread by" = "N.Balasubramanian, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "November 1, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णाष्टोत्तरशतनामावलिः १"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, vishhnu, krishna, vishnu, nAmAvalI
+File name: kRiShNAShTottarashatanAmAvalI1.itx
+Language: Sanskrit
+Latest update: November 1, 2019
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRiShNAShTottarashatanAmAvalI 1
+Transliterated by: N.Balasubramanian bbalu at sify.com
+engtitle: kRiShNAShTottarashatanAmAvalI 1
+itxtitle: kRiShNAShTottarashatanAmAvaliH 1
+title: कृइष्णाष्टोत्तरशतनामावलिः १
 
-+++
+---
   
  श्रीकृष्णाष्टोत्तरशतनामावलिः १   
 ॥ अथ श्रीकृष्णाष्टोत्तरशतनामावलिः ॥  

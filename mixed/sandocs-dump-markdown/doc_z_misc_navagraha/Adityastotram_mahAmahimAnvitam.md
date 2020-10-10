@@ -1,23 +1,23 @@
-+++
-"Text title" = "Adityastotrams hrImadappayyadIkShitavirachitaM mahAmahimAnvitaM"
-"File name" = "AdityastotraAppayaDixit.itx"
-itxtitle = "Adityastotram (mahAmahimAnvitam)"
-engtitle = "Adityastotram (mahAmahimAnvitam)"
-Category = "navagraha, stotra, appayya-dIkShita"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Appaya Dixit"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Usha Rani Sanka usharani dot sanka at gmail.com"
-"Proofread by" = "Usha Rani Sanka usharani dot sanka at gmail.com"
-"Latest update" = "August 16, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आदित्यस्तोत्रम् (महामहिमान्वितम्)"
+---
+Author: Appaya Dixit
+Category: navagraha, stotra, appayya-dIkShita
+File name: AdityastotraAppayaDixit.itx
+Language: Sanskrit
+Latest update: August 16, 2014
+Location: doc_z_misc_navagraha
+Proofread by: Usha Rani Sanka usharani dot sanka at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Adityastotrams hrImadappayyadIkShitavirachitaM mahAmahimAnvitaM
+Texttype: stotra
+Transliterated by: Usha Rani Sanka usharani dot sanka at gmail.com
+engtitle: Adityastotram (mahAmahimAnvitam)
+itxtitle: Adityastotram (mahAmahimAnvitam)
+title: आदित्यस्तोत्रम् (महामहिमान्वितम्)
 
-+++
+---
   
  महामहिमान्वितं आदित्यस्तोत्रम्   
   

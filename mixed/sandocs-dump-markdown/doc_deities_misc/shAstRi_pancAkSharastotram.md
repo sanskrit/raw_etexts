@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAstApancaaxarastotram"
-"File name" = "shaastaapancaaxarastotram.itx"
-itxtitle = "shAstRi pancAkSharastotram"
-engtitle = "shAstRRi pancAxarastotram"
-Category = "deities_misc, ayyappa, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 23, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शास्तृइ पञ्चाक्षरस्तोत्रम्"
+---
+Category: deities_misc, ayyappa, stotra
+File name: shaastaapancaaxarastotram.itx
+Language: Sanskrit
+Latest update: April 23, 2008
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: shAstApancaaxarastotram
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: shAstRRi pancAxarastotram
+itxtitle: shAstRi pancAkSharastotram
+title: शास्तृइ पञ्चाक्षरस्तोत्रम्
 
-+++
+---
   
  शास्तृ पञ्चाक्षरस्तोत्रम्   
   
@@ -34,7 +34,7 @@ title = "शास्तृइ पञ्चाक्षरस्तोत्र�
        शार्दूलदुग्धहर्तारं शास्तारं प्रणतोस्म्यहं ॥ ४  
   
 वा - वारणेन्द्र समारूढं विश्वत्राण परायणं ।  
-        वेत्रोद्भासिकरांभोजं शास्तारं प्रणतोस्म्यहं ॥ ५  
+        वेत्रोद्भासिकराम्भोजं शास्तारं प्रणतोस्म्यहं ॥ ५  
   
 य - यक्षिण्यभिमतं पूर्णापुष्कला परिसेवितं ।  
       क्षिप्रप्रसादकं नित्यं शास्तारं प्रणतोस्म्यहं ॥ ६  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "indrAkShyaShTottarashatanAmAvalI"
-"File name" = "indrAkShI108nAma.itx"
-itxtitle = "indrAkShyaShTottarashatanAmAvalI"
-engtitle = "indrAkShyaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, NA"
-Indexextra = "(Scan)"
-"Latest update" = "September 30, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-title = "इन्द्राक्ष्यष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, otherforms, devI
+File name: indrAkShI108nAma.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 30, 2016
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan, NA
+Send corrections to: Sanskrit@cheerful.com
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: indrAkShyaShTottarashatanAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: indrAkShyaShTottarashatanAmAvalI
+itxtitle: indrAkShyaShTottarashatanAmAvalI
+title: इन्द्राक्ष्यष्टोत्तरशतनामावली
 
-+++
+---
   
  श्री इन्द्राक्षी अष्टोत्तरशतनामावलिः   
 ॐ श्री गणेशाय नमः ।  

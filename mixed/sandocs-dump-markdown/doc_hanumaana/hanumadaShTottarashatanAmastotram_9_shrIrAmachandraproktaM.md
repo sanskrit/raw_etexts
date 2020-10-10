@@ -1,22 +1,22 @@
-+++
-"Text title" = "hanumadaShTottarashatanAmastotram 9"
-"File name" = "hanumadaShTottarashatanAmastotram9.itx"
-itxtitle = "hanumadaShTottarashatanAmastotram 9 (shrIrAmachandraproktaM)"
-engtitle = "hanumadaShTottarashatanAmastotram 9"
-Category = "aShTottarashatanAma, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com"
-Source = "ParAsharasamhita Hanumachcharitra Vol 2 pages 130-132"
-"Latest update" = "September 30, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमदष्टोत्तरशतनामस्तोत्रम् ९ (श्रीरामचन्द्रप्रोक्तं)"
+---
+Category: aShTottarashatanAma, hanumaana, hanuman
+File name: hanumadaShTottarashatanAmastotram9.itx
+Language: Sanskrit
+Latest update: September 30, 2016
+Location: doc_hanumaana
+Proofread by: Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: ParAsharasamhita Hanumachcharitra Vol 2 pages 130-132
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumadaShTottarashatanAmastotram 9
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: hanumadaShTottarashatanAmastotram 9
+itxtitle: hanumadaShTottarashatanAmastotram 9 (shrIrAmachandraproktaM)
+title: हनुमदष्टोत्तरशतनामस्तोत्रम् ९ (श्रीरामचन्द्रप्रोक्तं)
 
-+++
+---
   
  श्रीहनुमदष्टोत्तरशतनामस्तोत्रनामावलिः  ९   
   

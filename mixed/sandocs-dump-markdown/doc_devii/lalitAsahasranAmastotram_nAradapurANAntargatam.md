@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrI Lalita sahasranAmastotra from nAradapurANa"
-"File name" = "lalitAsahasranAmastotramnAradapurANa.itx"
-itxtitle = "lalitAsahasranAmastotram (nAradapurANAntargatam)"
-engtitle = "lalitAsahasranAmastotram"
-Category = "sahasranAma, devii, dashamahAvidyA, lalitA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Radhe Shyam Tiware"
-"Proofread by" = "Rashmi Sharma, PSA Easwaran psaeaswaran at gmail.com"
-Source = "bRihannAradIyapurANa pUrvabhAge adhyAya 89"
-"Latest update" = "May 29, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितासहस्रनामस्तोत्रम् (नारदपुराणान्तर्गतम्)"
+---
+Category: sahasranAma, devii, dashamahAvidyA, lalitA, devI
+File name: lalitAsahasranAmastotramnAradapurANa.itx
+Language: Sanskrit
+Latest update: May 29, 2015
+Location: doc_devii
+Proofread by: Rashmi Sharma, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: bRihannAradIyapurANa pUrvabhAge adhyAya 89
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrI Lalita sahasranAmastotra from nAradapurANa
+Transliterated by: Radhe Shyam Tiware
+engtitle: lalitAsahasranAmastotram
+itxtitle: lalitAsahasranAmastotram (nAradapurANAntargatam)
+title: ललितासहस्रनामस्तोत्रम् (नारदपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीललितासहस्रनामस्तोत्रम् नारदपुराणान्तर्गतम्   
 ॥ नारदपुराणान्तर्गते सकवच श्रीललितासहस्रनामस्तोत्रम् ॥  
@@ -204,7 +204,7 @@ or together ?? अथासामावृतिस्थानां as  अथ
 जयिनी विमला चाथ कामेशी वज्रिणी भगा ॥ ५९॥  
   
 त्रैलोक्यमोहना स्थाना सर्वाशापरिपूरणी ।  
-सर्वसंक्षोभणगता सौभाग्यप्रदसंस्थिता ॥ ६०॥  
+सर्वसङ्क्षोभणगता सौभाग्यप्रदसंस्थिता ॥ ६०॥  
   
 सवार्थसाधकागारा सर्वरोगहरास्थिता ।  
 सर्वरक्षाकरास्थाना सर्वसिद्धिप्रदस्थिता ॥ ६१॥  

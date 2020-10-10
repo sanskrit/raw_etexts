@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrimadbhAgavatAntargataM bhramaragIta"
-"File name" = "bhramaragIta.itx"
-itxtitle = "bhramaragItam (bhAgavatAntargatam)"
-engtitle = "Bhramaragita from Shrimadbhagavatam"
-Category = "gItam, giitaa, vyAsa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "maharShi vyAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Bhagavatam skanda 10 adhyAya 47"
-Indexextra = "(meaning 1, audio Bhagavatam 10.47, Hindi)"
-"Latest update" = "November 10, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भ्रमरगीतम् (भागवतान्तर्गतम्)"
+---
+Author: maharShi vyAsa
+Category: gItam, giitaa, vyAsa
+Description-comments: Bhagavatam skanda 10 adhyAya 47
+File name: bhramaragIta.itx
+Indexextra: (meaning 1, audio Bhagavatam 10.47, Hindi)
+Language: Sanskrit
+Latest update: November 10, 2012
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: shrimadbhAgavatAntargataM bhramaragIta
+engtitle: Bhramaragita from Shrimadbhagavatam
+itxtitle: bhramaragItam (bhAgavatAntargatam)
+title: भ्रमरगीतम् (भागवतान्तर्गतम्)
 
-+++
+---
   
  श्रीमद्भागवतान्तर्गतम् भ्रमरगीतम्   
   

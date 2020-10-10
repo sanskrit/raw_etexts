@@ -1,26 +1,26 @@
-+++
-"Text title" = "muchukundastutiH from Gargasamhita"
-"File name" = "muchukundastutiHgargasamhitA.itx"
-itxtitle = "muchukundastutiH (gargasaMhitAntargatA)"
-engtitle = "muchukundastutiH from Gargasamhita"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "gargasamhitA"
-Indexextra = "(satsangdhArA)"
-Acknowledge-Permission = "Vishwas Bhide http://satsangdhara.net/"
-"Latest update" = "February 3, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मुचुकुन्दस्तुतिः (गर्गसंहितान्तर्गता)"
+---
+Acknowledge-Permission: Vishwas Bhide http://satsangdhara.net/
+Category: vishhnu, krishna, stotra, vishnu
+Description-comments: gargasamhitA
+File name: muchukundastutiHgargasamhitA.itx
+Indexextra: (satsangdhArA)
+Language: Sanskrit
+Latest update: February 3, 2016
+Location: doc_vishhnu
+Proofread by: Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: muchukundastutiH from Gargasamhita
+Texttype: stotra
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com
+engtitle: muchukundastutiH from Gargasamhita
+itxtitle: muchukundastutiH (gargasaMhitAntargatA)
+title: मुचुकुन्दस्तुतिः (गर्गसंहितान्तर्गता)
 
-+++
+---
   
  मुचुकुन्दस्तुतिः   
   

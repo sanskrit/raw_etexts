@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Raghavendra Kavacham"
-"File name" = "rAghavendrakavacham.itx"
-itxtitle = "rAghavendrakavacham (appaNAchAryavirachitam)"
-engtitle = "rAghavendrakavacham"
-Category = "deities_misc, gurudev, kavacha"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "appaNAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "राघवेन्द्रकवचम् (अप्पणाचार्यविरचितम्)"
+---
+Author: appaNAchArya
+Category: deities_misc, gurudev, kavacha
+File name: rAghavendrakavacham.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_deities_misc
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Raghavendra Kavacham
+engtitle: rAghavendrakavacham
+itxtitle: rAghavendrakavacham (appaNAchAryavirachitam)
+title: राघवेन्द्रकवचम् (अप्पणाचार्यविरचितम्)
 
-+++
+---
   
  श्रीराघवेन्द्रकवचम्   
 (श्रीअप्पण्णाचार्य कृत)  
@@ -171,7 +171,7 @@ title = "राघवेन्द्रकवचम् (अप्पणाचा
 जपेद्यः स धनं पुत्रान् भार्यां च सुमनोरमाम् ॥ ५०॥  
   
 ज्ञानं भक्तिं च वैराग्यं भुक्तिं मुक्तिं च शाश्वतीम् ।  
-संप्राप्य मोदते नित्यं गुरुवर्यप्रसादतः ॥ ५१॥  
+सम्प्राप्य मोदते नित्यं गुरुवर्यप्रसादतः ॥ ५१॥  
   
 इति श्रीमदप्पणाचार्यविरचितं श्रीराघवेन्द्रकवचं सम्पूर्णम् ।  
   

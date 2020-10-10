@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAlakShmI akSharamAlikA nAmAvaliH"
-"File name" = "mahAlakShmyakSharamAlikA.itx"
-itxtitle = "mahAlakShmI akSharamAlikA nAmAvalI"
-engtitle = "Shri MahalakShmi AkSharamalika Namavali"
-Category = "akSharamAlA, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Shri Mahalakshmi Puja Paddhati by Dr. Yogesh Mishra"
-"Latest update" = "October 20, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालक्ष्मी अक्षरमालिका नामावली"
+---
+Category: akSharamAlA, devii, lakShmI, devI
+Description-comments: Shri Mahalakshmi Puja Paddhati by Dr. Yogesh Mishra
+File name: mahAlakShmyakSharamAlikA.itx
+Language: Sanskrit
+Latest update: October 20, 2014
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAlakShmI akSharamAlikA nAmAvaliH
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Shri MahalakShmi AkSharamalika Namavali
+itxtitle: mahAlakShmI akSharamAlikA nAmAvalI
+title: महालक्ष्मी अक्षरमालिका नामावली
 
-+++
+---
   
  श्रीमहालक्ष्मी अक्षरमालिकानामावली   
   

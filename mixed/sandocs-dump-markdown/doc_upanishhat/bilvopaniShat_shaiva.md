@@ -1,22 +1,22 @@
-+++
-"Text title" = "bilvopaniShat"
-"File name" = "bilvopaniShat.itx"
-itxtitle = "bilvopaniShat (shaiva)"
-engtitle = "bilvopaniShat"
-Category = "upanishhat, shiva, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बिल्वोपनिषत् (शैव)"
+---
+Category: upanishhat, shiva, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: bilvopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: bilvopaniShat
+engtitle: bilvopaniShat
+itxtitle: bilvopaniShat (shaiva)
+title: बिल्वोपनिषत् (शैव)
 
-+++
+---
   
  बिल्वोपनिषत्   
 अथ वामदेवः परमेश्वरं सृष्टिस्थितिलयकारणमुमासहितं स्वशिरसा  

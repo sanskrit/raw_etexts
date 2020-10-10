@@ -1,25 +1,25 @@
-+++
-"Text title" = "sUryanamaskAramantrAH"
-"File name" = "suryanamaskArmantra.itx"
-itxtitle = "sUryanamaskAra mantrAH"
-engtitle = "Surya Namaskar Mantra"
-Category = "mantra, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यनमस्कार मन्त्राः"
+---
+Category: mantra, deities_misc
+File name: suryanamaskArmantra.itx
+Language: Sanskrit
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: sUryanamaskAramantrAH
+engtitle: Surya Namaskar Mantra
+itxtitle: sUryanamaskAra mantrAH
+title: सूर्यनमस्कार मन्त्राः
 
-+++
+---
   
  सूर्यनमस्कार मन्त्राः   
   
      ॐ ध्येयः सदा सवितृमण्डल मध्यवर्ति ।  
      नारायणः सरसिजासन्संइविष्टः ।  
      केयूरवान मकरकुण्डलवान किरीटी ।  
-     हारी हिरण्मयवपुधृतशंखचक्रः ॥  
+     हारी हिरण्मयवपुधृतशङ्खचक्रः ॥  
   
           ॐ ह्रां मित्राय नमः ।  
           ॐ ह्रीं रवये नमः ।  
@@ -42,7 +42,7 @@ title = "सूर्यनमस्कार मन्त्राः"
      सूर्यपादोदकं तीर्थं जठरे धारयाम्यहम् ॥  
   
      योगेन चित्तस्य पदेन वाचा मलं शरीरस्य च वैद्यकेन ।  
-     योपाकरोत्तं प्रवरं मुनीनां पतंजलिं प्रांजलिरानतोऽस्मि ॥  
+     योपाकरोत्तं प्रवरं मुनीनां पतञ्जलिं प्राञ्जलिरानतोऽस्मि ॥  
   
   
   

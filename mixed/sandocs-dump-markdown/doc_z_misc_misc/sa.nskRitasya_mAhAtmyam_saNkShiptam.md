@@ -1,24 +1,24 @@
-+++
-"Text title" = "Importance of Sanskrit, Short essay by Shri Vishva Bandhu"
-"File name" = "sanskritimportanceshort.itx"
-itxtitle = "sa.nskRitasya mAhAtmyam saNkShiptam"
-engtitle = "Importance of Sanskrit, Short essay by Shri Vishva Bandhu"
-Category = "article, misc"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Author = "Vishva Bandhu"
-Language = "English"
-Subject = "Language/Indology"
-"Transliterated by" = "Dinesh Agarwal dinesh.garghouse at gmail"
-"Proofread by" = "Dinesh Agarwal dinesh.garghouse at gmail"
-Description-comments = "An Anthology of The Vedas and Sastras, Volume 1"
-Indexextra = "(importance)"
-"Latest update" = "August 2, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृइतस्य माहात्म्यम् सण्क्षिप्तम्"
+---
+Author: Vishva Bandhu
+Category: article, misc
+Description-comments: An Anthology of The Vedas and Sastras, Volume 1
+File name: sanskritimportanceshort.itx
+Indexextra: (importance)
+Language: English
+Latest update: August 2, 2012
+Location: doc_z_misc_misc
+Proofread by: Dinesh Agarwal dinesh.garghouse at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Language/Indology
+Sublocation: misc
+Text title: Importance of Sanskrit, Short essay by Shri Vishva Bandhu
+Transliterated by: Dinesh Agarwal dinesh.garghouse at gmail
+engtitle: Importance of Sanskrit, Short essay by Shri Vishva Bandhu
+itxtitle: sa.nskRitasya mAhAtmyam saNkShiptam
+title: संस्कृइतस्य माहात्म्यम् सण्क्षिप्तम्
 
-+++
+---
   
  संस्कृतस्य माहात्म्यम्, सङ्क्षिप्त, विश्वबन्धूलिखित   
   

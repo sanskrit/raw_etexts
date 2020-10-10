@@ -1,24 +1,24 @@
-+++
-"Text title" = "uddhavakRita rAdhAprArthanaa"
-"File name" = "rAdhAuddhava.itx"
-itxtitle = "rAdhAprArthanA (uddhavakRitA)"
-engtitle = "uddhavakRitA  shrIrAdhAprArthanA"
-Category = "devii, radha, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Daniel Mohanpersad danielmohanpersad98 at msn.com"
-"Proofread by" = "Daniel Mohanpersad danielmohanpersad98 at msn.com"
-"Translated by" = "-"
-"Latest update" = "June 24, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाप्रार्थना (उद्धवकृइता)"
+---
+Category: devii, radha, stotra, devI
+File name: rAdhAuddhava.itx
+Language: Sanskrit
+Latest update: June 24, 2002
+Location: doc_devii
+Proofread by: Daniel Mohanpersad danielmohanpersad98 at msn.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: hinduism/religion
+Sublocation: devii
+Text title: uddhavakRita rAdhAprArthanaa
+Texttype: stotra
+Translated by: '-'
+Transliterated by: Daniel Mohanpersad danielmohanpersad98 at msn.com
+engtitle: uddhavakRitA  shrIrAdhAprArthanA
+itxtitle: rAdhAprArthanA (uddhavakRitA)
+title: राधाप्रार्थना (उद्धवकृइता)
 
-+++
+---
   
  श्रीराधाप्रार्थना उद्धवकृता   
   
@@ -30,7 +30,7 @@ title = "राधाप्रार्थना (उद्धवकृइता
 सुपवित्रं त्वद्वदनं पुण्यवत्यश्च गोपिकाः ॥ २॥  
   
 लोकास्त्वामेव गायन्ति गीतैर्मङ्गलसंस्तवैः ।  
-त्वत्सुकीर्तिं च वेदाश्च सनकाद्याश्च संततम् ॥ ३॥  
+त्वत्सुकीर्तिं च वेदाश्च सनकाद्याश्च सन्ततम् ॥ ३॥  
   
 कृतपापहरां पुण्यां तीर्थपुजां च निर्मलाम् ।  
 हरिभक्तिप्रदां भद्रां सर्वविघ्नविनाशिनीम् ॥ ४॥  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "pRRithvIdhararAjaputryaShTakam"
-"File name" = "pRRithvIdhararAjaputryaShTakam.itx"
-itxtitle = "pRithvIdhararAjaputryaShTakam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "pRRithvIdhararAjaputryaShTakam"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पृइथ्वीधरराजपुत्र्यष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, aShTaka
+File name: pRRithvIdhararAjaputryaShTakam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: pRRithvIdhararAjaputryaShTakam
+engtitle: pRRithvIdhararAjaputryaShTakam
+itxtitle: pRithvIdhararAjaputryaShTakam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: पृइथ्वीधरराजपुत्र्यष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  पृथ्वीधरराजपुत्र्यष्टकम्   
 ज्ञात्वापि दोषान्विषयेषु शब्दरसादिमेष्वप्रतिबद्धतर्षम् ।  

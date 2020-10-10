@@ -1,22 +1,22 @@
-+++
-"Text title" = "ShaNmukhadhyAnam"
-"File name" = "ShaNmukhadhyAnam.itx"
-itxtitle = "ShaNmukhadhyAnam"
-engtitle = "ShaNmukhadhyAnam"
-Category = "subrahmanya, dhyAnam"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Description-comments = "To be used for ShaNmukhasahasranAmAvalI"
-"Latest update" = "January 7, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षण्मुखध्यानम्"
+---
+Category: subrahmanya, dhyAnam
+Description-comments: To be used for ShaNmukhasahasranAmAvalI
+File name: ShaNmukhadhyAnam.itx
+Language: Sanskrit
+Latest update: January 7, 2017
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: ShaNmukhadhyAnam
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: ShaNmukhadhyAnam
+itxtitle: ShaNmukhadhyAnam
+title: षण्मुखध्यानम्
 
-+++
+---
   
  श्रीषण्मुखध्यानम्   
   

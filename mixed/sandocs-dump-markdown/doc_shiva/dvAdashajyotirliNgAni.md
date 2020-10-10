@@ -1,23 +1,25 @@
-+++
-"Text title" = "dvAdasha jyotirliNgAni"
-"File name" = "jyotirling.itx"
-itxtitle = "dvAdashajyotirliNgAni"
-engtitle = "Twelve JyotirlingAs"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subramanian Ganesh sgesh at hotmail.com and Ashish Chandra ashish_chandr70 at hotmail.com"
-"Proofread by" = "Subramanian Ganesh sgesh at hotmail.com and Ashish Chandra ashish_chandr70 at hotmail.com"
-"Latest update" = "November 20, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "द्वादशज्योतिर्लिण्गानि"
+---
+Author: Traditional
+Category: shiva, stotra
+File name: jyotirling.itx
+Language: Sanskrit
+Latest update: November 20, 2000
+Location: doc_shiva
+Proofread by: Subramanian Ganesh sgesh at hotmail.com and Ashish Chandra ashish_chandr70
+  at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: dvAdasha jyotirliNgAni
+Texttype: stotra
+Transliterated by: Subramanian Ganesh sgesh at hotmail.com and Ashish Chandra ashish_chandr70
+  at hotmail.com
+engtitle: Twelve JyotirlingAs
+itxtitle: dvAdashajyotirliNgAni
+title: द्वादशज्योतिर्लिण्गानि
 
-+++
+---
   
  द्वादश ज्योतिर्लिङ्गानि   
   

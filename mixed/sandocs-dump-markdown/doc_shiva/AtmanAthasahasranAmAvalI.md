@@ -1,23 +1,23 @@
-+++
-"Text title" = "AtmanAthasahasranAmAvalI"
-"File name" = "AtmanAthasahasranAmAvalI.itx"
-itxtitle = "AtmanAthasahasranAmAvalI"
-engtitle = "AtmanAthasahasranAmAvalI"
-Category = "sahasranAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Description-comments = "Sri Atmanatha Stuti Manjari"
-Acknowledge-Permission = "Sri Mahaperiyaval Trust"
-"Latest update" = "February 11, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आत्मनाथसहस्रनामावली"
+---
+Acknowledge-Permission: Sri Mahaperiyaval Trust
+Category: sahasranAmAvalI, shiva
+Description-comments: Sri Atmanatha Stuti Manjari
+File name: AtmanAthasahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: February 11, 2017
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: AtmanAthasahasranAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: AtmanAthasahasranAmAvalI
+itxtitle: AtmanAthasahasranAmAvalI
+title: आत्मनाथसहस्रनामावली
 
-+++
+---
   
  श्रीआत्मनाथसहस्रनामावलिः अथवा ब्रह्मानन्दसहस्रनामावलिः   
 ॐ श्रीगणेशाय नमः ।  
@@ -402,8 +402,8 @@ title = "आत्मनाथसहस्रनामावली"
 सर्वानुभवरुपाय नमः ॥ १०००॥  
   
 ॐ सर्वानुभवसाक्षिणे नमः । समग्राग्रगुणाधारसत्यलीलाय ।  
-सर्वसङ्कल्परहिताय । सर्वसङ्कल्पसाक्षिणे । सर्वसंज्ञाविहीनाय ।  
-सर्वसंज्ञाति(ज्ञप्ति)साक्षिणे । साङ्ख्यवित्पूर्णाय ।  
+सर्वसङ्कल्परहिताय । सर्वसङ्कल्पसाक्षिणे । सर्वसञ्ज्ञाविहीनाय ।  
+सर्वसञ्ज्ञाति(ज्ञप्ति)साक्षिणे । साङ्ख्यवित्पूर्णाय ।  
 सर्वशक्त्युपबृंहिताय । सुरवासनाय । स्वयम्ब्रह्मणे ।  
 सर्वपापशमाय । संशान्तदुःखाय । सिद्धान्तरहस्याय ।  
 सर्वगोचराय । सर्वसङ्कल्पजालशून्याय । सुखात्सुखाय ।  

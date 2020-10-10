@@ -1,23 +1,23 @@
-+++
-"Text title" = "lAngUlopaniShat"
-"File name" = "lAngUlopaniShat.itx"
-itxtitle = "lANgUlopaniShat"
-engtitle = "lAngUlopaniShat"
-Category = "upanishhat, hanumaana, upanishad, hanuman"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "atharvaNarahasye, hanumaana"
-"Latest update" = "April 11, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लाण्गूलोपनिषत्"
+---
+Author: Traditional
+Category: upanishhat, hanumaana, upanishad, hanuman
+Description-comments: atharvaNarahasye, hanumaana
+File name: lAngUlopaniShat.itx
+Language: Sanskrit
+Latest update: April 11, 2006
+Location: doc_upanishhat
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: lAngUlopaniShat
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: lAngUlopaniShat
+itxtitle: lANgUlopaniShat
+title: लाण्गूलोपनिषत्
 
-+++
+---
   
  लान्गूलोपनिषत्   
   

@@ -1,30 +1,30 @@
-+++
-"Text title" = "Radha Krishna Kavacham"
-"File name" = "rAdhAkRRiShNakavacham.itx"
-itxtitle = "rAdhAkRiShNakavacham (vishvanAthasAroddhAre mahAtantre)"
-engtitle = "rAdhAkRiShNakavacham"
-Category = "devii, devI, radha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Description-comments = "vishvanAthasAroddhAre mahAtantre"
-Indexextra = "(Scan)"
-"Latest update" = "March 14, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाकृइष्णकवचम् (विश्वनाथसारोद्धारे महातन्त्रे)"
+---
+Category: devii, devI, radha
+Description-comments: vishvanAthasAroddhAre mahAtantre
+File name: rAdhAkRRiShNakavacham.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 14, 2020
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Radha Krishna Kavacham
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: rAdhAkRiShNakavacham
+itxtitle: rAdhAkRiShNakavacham (vishvanAthasAroddhAre mahAtantre)
+title: राधाकृइष्णकवचम् (विश्वनाथसारोद्धारे महातन्त्रे)
 
-+++
+---
   
  श्रीराधाकृष्णकवचम्   
 ॐ श्रीगणेशाय नमः ।  
 श्रीभैरव उवाच ।  
 अधुना कथयिष्यामि राधकृष्णस्य भैरवि ।  
-कवचं मन्त्रगर्भं तु वज्रपञ्जरसंज्ञकम् ॥ १॥  
+कवचं मन्त्रगर्भं तु वज्रपञ्जरसञ्ज्ञकम् ॥ १॥  
   
 रहस्यं सर्वदेवानां मर्त्यानां च विशेषतः ।  
 अस्यैव धारणाच्चाहं सर्वज्ञोऽस्मि महेश्वरि ॥ २॥  

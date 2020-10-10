@@ -1,23 +1,23 @@
-+++
-"Text title" = "ekAkSharagaNapatikavacham"
-"File name" = "ekAkSharagaNapatikavacham.itx"
-itxtitle = "ekAkSharagaNapatikavacham"
-engtitle = "ekAkSharagaNapatikavacham"
-Category = "kavacha, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale"
-"Latest update" = "August 27, 2006, July 27, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकाक्षरगणपतिकवचम्"
+---
+Author: Traditional
+Category: kavacha, ganesha
+Description-comments: rudrayAmale
+File name: ekAkSharagaNapatikavacham.itx
+Language: Sanskrit
+Latest update: August 27, 2006, July 27, 2008
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: ekAkSharagaNapatikavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: ekAkSharagaNapatikavacham
+itxtitle: ekAkSharagaNapatikavacham
+title: एकाक्षरगणपतिकवचम्
 
-+++
+---
   
  एकाक्षरगणपतिकवचम्   
 त्रैलोक्यमोहनकवचम् ।  

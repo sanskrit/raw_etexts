@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhAratavijayastotram"
-"File name" = "bhAratavijayastotram.itx"
-itxtitle = "bhAratavijayastotram (maheshvarAnandasarasvatIvirachitam)"
-engtitle = "bhAratavijayastotram"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Maheshvaranandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारतविजयस्तोत्रम् (महेश्वरानन्दसरस्वतीविरचितम्)"
+---
+Author: Maheshvaranandasarasvati
+Category: devii, devI
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: bhAratavijayastotram.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhAratavijayastotram
+engtitle: bhAratavijayastotram
+itxtitle: bhAratavijayastotram (maheshvarAnandasarasvatIvirachitam)
+title: भारतविजयस्तोत्रम् (महेश्वरानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  भारतविजयस्तोत्रम्   
 मङ्गल्योल्लासलीलः करट-मदनदी-स्नान-पानप्रमत्त-  

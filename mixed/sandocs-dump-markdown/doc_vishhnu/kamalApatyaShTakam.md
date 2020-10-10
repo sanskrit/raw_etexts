@@ -1,22 +1,22 @@
-+++
-"Text title" = "kamalApatyaShTakam"
-"File name" = "kamalApatyaShTakam.itx"
-itxtitle = "kamalApatyaShTakam"
-engtitle = "KamalApatyashtakam"
-Category = "aShTaka, vishhnu, vishnu_misc, brahmAnanda, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Author = "Swami Barhmananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "June 13, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कमलापत्यष्टकम्"
+---
+Author: Swami Barhmananda
+Category: aShTaka, vishhnu, vishnu_misc, brahmAnanda, vishnu
+File name: kamalApatyaShTakam.itx
+Language: Sanskrit
+Latest update: June 13, 2013
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kamalApatyaShTakam
+engtitle: KamalApatyashtakam
+itxtitle: kamalApatyaShTakam
+title: कमलापत्यष्टकम्
 
-+++
+---
   
  कमलापत्यष्टकम्   
   
@@ -27,10 +27,10 @@ title = "कमलापत्यष्टकम्"
 जलधिजाश्रितवामकलेवरं भजत रे मनुजाः कमलापतिम् ॥ २॥  
   
 किमु जपैश्च तपोभिरुताध्वरैरपि किमुत्तमतीर्थनिषेवणैः ।  
-किमुत शास्त्रकदंबविलोकनैः भजत रे मनुजाः कमलापतिम् ॥ ३॥  
+किमुत शास्त्रकदम्बविलोकनैः भजत रे मनुजाः कमलापतिम् ॥ ३॥  
   
 मनुजदेहमिमं भुवि दुर्लभं समधिगम्य सुरैरपि वाञ्छितम् ।  
-विषयलंपटतामपहाय वै भजत रे मनुजाः कमलापतिम् ॥ ४॥  
+विषयलम्पटतामपहाय वै भजत रे मनुजाः कमलापतिम् ॥ ४॥  
   
 न वनिता न सुतो न सहोदरो न हि पिता जननी न च बान्धवाः ।  
 व्रजति साकमनेन जनेन वै भजत रे मनुजाः कमलापतिम् ॥ ५॥  

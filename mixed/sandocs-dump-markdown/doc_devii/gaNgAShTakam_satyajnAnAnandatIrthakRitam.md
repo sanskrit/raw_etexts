@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNgAShTakam satyajnAnAnandatIrthakRita"
-"File name" = "gangAShTakamsatya.itx"
-itxtitle = "gaNgAShTakam (satyajnAnAnandatIrthakRitam)"
-engtitle = "Gangashtakam by Satyajnananandatirtha"
-Category = "aShTaka, devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Satyajnananandatirtha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal, Proofread by PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "May 21, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाष्टकम् (सत्यज्ञानानन्दतीर्थकृइतम्)"
+---
+Author: Satyajnananandatirtha
+Category: aShTaka, devii, nadI, devI
+File name: gangAShTakamsatya.itx
+Language: Sanskrit
+Latest update: May 21, 2013
+Location: doc_devii
+Proofread by: Dinesh Agarwal, Proofread by PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gaNgAShTakam satyajnAnAnandatIrthakRita
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: Gangashtakam by Satyajnananandatirtha
+itxtitle: gaNgAShTakam (satyajnAnAnandatIrthakRitam)
+title: गण्गाष्टकम् (सत्यज्ञानानन्दतीर्थकृइतम्)
 
-+++
+---
   
  गङ्गाष्टकं सत्यज्ञानानन्दतीर्थकृत   
 श्रीगणेशाय नमः ॥  

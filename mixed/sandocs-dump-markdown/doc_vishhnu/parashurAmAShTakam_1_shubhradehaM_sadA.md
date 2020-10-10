@@ -1,24 +1,24 @@
-+++
-"Text title" = "parashurAmAShTakam 1"
-"File name" = "parashurAmAShTakam.itx"
-itxtitle = "parashurAmAShTakam 1 (shubhradehaM sadA)"
-engtitle = "Shri Parasuramashtakam 1"
-Category = "aShTaka, vishhnu, dashAvatAra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com, NA"
-Description-comments = "From @@Bhagvan Parashuram@@ by Dr. Viracharya Shastri"
-Indexextra = "(video)"
-"Latest update" = "August 24, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परशुरामाष्टकम् १ (शुभ्रदेहं सदा)"
+---
+Category: aShTaka, vishhnu, dashAvatAra, vishnu
+Description-comments: From @@Bhagvan Parashuram@@ by Dr. Viracharya Shastri
+File name: parashurAmAShTakam.itx
+Indexextra: (video)
+Language: Sanskrit
+Latest update: August 24, 2014
+Location: doc_vishhnu
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: parashurAmAShTakam 1
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: Shri Parasuramashtakam 1
+itxtitle: parashurAmAShTakam 1 (shubhradehaM sadA)
+title: परशुरामाष्टकम् १ (शुभ्रदेहं सदा)
 
-+++
+---
   
  श्रीपरशुरामाष्टकम्   
   
@@ -66,7 +66,7 @@ title = "परशुरामाष्टकम् १ (शुभ्रदे�
   
 दीनत्राता प्रभो पाहि माम् पालक!  
 रक्ष संसाररक्षाविधौ दक्षक!  
-देहि संमोहनी भाविनी पावनी  
+देहि सम्मोहनी भाविनी पावनी  
 स्वीय पादारविन्दस्य सेवा परा  
 पूर्णमारुण्यरूपं परं मञ्जुलम्  
 रेणुकानन्दनं जामदग्न्यं भजे ॥ ७॥  

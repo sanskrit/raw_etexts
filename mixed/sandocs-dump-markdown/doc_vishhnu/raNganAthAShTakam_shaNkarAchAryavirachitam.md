@@ -1,20 +1,20 @@
-+++
-"Text title" = "ranganAthAShTakam"
-"File name" = "ranganAthAShTakam.itx"
-itxtitle = "raNganAthAShTakam (shaNkarAchAryavirachitam)"
-engtitle = "ranganAthAShTakam"
-Category = "vishhnu, aShTaka, shankarAchArya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "June 29, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रण्गनाथाष्टकम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: vishhnu, aShTaka, shankarAchArya
+File name: ranganAthAShTakam.itx
+Language: Sanskrit
+Latest update: June 29, 2018
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ranganAthAShTakam
+engtitle: ranganAthAShTakam
+itxtitle: raNganAthAShTakam (shaNkarAchAryavirachitam)
+title: रण्गनाथाष्टकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  रङ्गनाथाष्टकम्   
 आनन्दरूपे निजबोधरूपे ब्रह्मस्वरूपे श्रुतिमूर्तिरूपे ।  

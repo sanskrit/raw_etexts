@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Shripadaraja Ashtakam 1"
-"File name" = "shrIpAdarAjAShTakam1.itx"
-itxtitle = "shrIpAdarAjAShTakam 1 (vijayIndrayativirachitam)"
-engtitle = "shrIpAdarAjAShTakam 1"
-Category = "deities_misc, gurudev, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "vijayIndrayati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-"Description/comments" = "PanchayatistutiH"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "C Narayanarao"
-"Latest update" = "June 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "श्रीपादराजाष्टकम् १ (विजयीन्द्रयतिविरचितम्)"
+---
+Acknowledge-Permission: C Narayanarao
+Author: vijayIndrayati
+Category: deities_misc, gurudev, aShTaka
+Description/comments: PanchayatistutiH
+File name: shrIpAdarAjAShTakam1.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Shripadaraja Ashtakam 1
+Transliterated by: Krishnananda Achar
+engtitle: shrIpAdarAjAShTakam 1
+itxtitle: shrIpAdarAjAShTakam 1 (vijayIndrayativirachitam)
+title: श्रीपादराजाष्टकम् १ (विजयीन्द्रयतिविरचितम्)
 
-+++
+---
   
  श्रीश्रीपादराजाष्टकम् १   
 श्रीमद्वीरनृसिंहनामनृपतेर्भूदेव हत्या व्यथां  

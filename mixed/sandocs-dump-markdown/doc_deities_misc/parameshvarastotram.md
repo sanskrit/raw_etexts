@@ -1,22 +1,23 @@
-+++
-"Text title" = "parameshvarastotram"
-"File name" = "parameshvarastotram.itx"
-itxtitle = "parameshvarastotram"
-engtitle = "parameshvarastotram"
-Category = "stotra, shiva, vishhnu, deities_misc, vishnu"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-"Description/comments" = "In some stanzas it addresses Shiva and in others Vishnu but what it aims is to address God who is beyond such limited descriptions."
-Indexextra = "(Translation)"
-"Latest update" = "August 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परमेश्वरस्तोत्रम्"
+---
+Category: stotra, shiva, vishhnu, deities_misc, vishnu
+Description/comments: In some stanzas it addresses Shiva and in others Vishnu but
+  what it aims is to address God who is beyond such limited descriptions.
+File name: parameshvarastotram.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: August 2, 2017
+Location: doc_deities_misc
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: parameshvarastotram
+engtitle: parameshvarastotram
+itxtitle: parameshvarastotram
+title: परमेश्वरस्तोत्रम्
 
-+++
+---
   
  परमेश्वरस्तोत्रम्   
   

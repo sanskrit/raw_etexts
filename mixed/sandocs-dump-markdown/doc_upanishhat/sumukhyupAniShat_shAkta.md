@@ -1,22 +1,22 @@
-+++
-"Text title" = "sumukhyupAniShat"
-"File name" = "sumukhyupAniShat.itx"
-itxtitle = "sumukhyupAniShat (shAkta)"
-engtitle = "sumukhyupAniShat"
-Category = "upanishhat, devii, devI, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुमुख्युपानिषत् (शाक्त)"
+---
+Category: upanishhat, devii, devI, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: sumukhyupAniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: sumukhyupAniShat
+engtitle: sumukhyupAniShat
+itxtitle: sumukhyupAniShat (shAkta)
+title: सुमुख्युपानिषत् (शाक्त)
 
-+++
+---
   
  सुमुख्युपानिषत्   
 अथैनामावाहयाम्यनवद्यां शवाधिरूढां रक्तवस्त्रालङ्कारयुक्तां  

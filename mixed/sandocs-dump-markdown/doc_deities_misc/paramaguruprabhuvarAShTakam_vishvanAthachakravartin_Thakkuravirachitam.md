@@ -1,25 +1,26 @@
-+++
-"Text title" = "paramaguruprabhuvarAShTakam"
-"File name" = "paramaguruprabhuvarAShTakam.itx"
-itxtitle = "paramaguruprabhuvarAShTakam (vishvanAthachakravartin Thakkuravirachitam)"
-engtitle = "paramaguruprabhuvarAShTakam by vishvanAthachakravartin"
-Category = "deities_misc, gurudev, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परमगुरुप्रभुवराष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: deities_misc, gurudev, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI
+File name: paramaguruprabhuvarAShTakam.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_deities_misc
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: paramaguruprabhuvarAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: paramaguruprabhuvarAShTakam by vishvanAthachakravartin
+itxtitle: paramaguruprabhuvarAShTakam (vishvanAthachakravartin Thakkuravirachitam)
+title: परमगुरुप्रभुवराष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)
 
-+++
+---
   
  श्रीपरमगुरुप्रभुवराष्टकम्   
 प्रपन्नजननीवृति ज्वलति संसृतिर्ज्वालया  

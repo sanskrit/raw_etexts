@@ -1,22 +1,22 @@
-+++
-"Text title" = "devyAArAtrikam"
-"File name" = "devyAArAtrikam.itx"
-itxtitle = "devyAArAtrikam"
-engtitle = "devyAArAtrikam"
-Category = "AratI, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "anonymous456an at gmail.com"
-"Proofread by" = "anonymous456an at gmail.com"
-"Description/comments" = "Sanskrit Arati"
-"Latest update" = "June 16, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देव्याआरात्रिकम्"
+---
+Category: AratI, devii, devI
+Description/comments: Sanskrit Arati
+File name: devyAArAtrikam.itx
+Language: Sanskrit
+Latest update: June 16, 2017
+Location: doc_devii
+Proofread by: anonymous456an at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devyAArAtrikam
+Transliterated by: anonymous456an at gmail.com
+engtitle: devyAArAtrikam
+itxtitle: devyAArAtrikam
+title: देव्याआरात्रिकम्
 
-+++
+---
   
  देव्या आरात्रिकम्   
   

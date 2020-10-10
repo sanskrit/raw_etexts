@@ -1,23 +1,23 @@
-+++
-"Text title" = "Gangaasahasranama 2 from Brihaddharmapurana"
-"File name" = "gangAsahasranAmastotrambrihaddharma.itx"
-itxtitle = "gaNgAsahasranAmastotram 2 (bRihaddharmapurANAntargatam)"
-engtitle = "Ganga Sahasranama Stotram 2 from Brihaddharmapurana"
-Category = "sahasranAma, devii, nadI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Proofread by" = "NA"
-Source = "Brihaddharmapurana, Madhyakhanda, Adhyaya 50"
-"Latest update" = "June 18, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गासहस्रनामस्तोत्रम् २ (बृइहद्धर्मपुराणान्तर्गतम्)"
+---
+Category: sahasranAma, devii, nadI, stotra, devI
+File name: gangAsahasranAmastotrambrihaddharma.itx
+Language: Sanskrit
+Latest update: June 18, 2016
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Brihaddharmapurana, Madhyakhanda, Adhyaya 50
+SubDeity: nadI
+Subject: hinduism/religion
+Sublocation: devii
+Text title: Gangaasahasranama 2 from Brihaddharmapurana
+Texttype: stotra
+engtitle: Ganga Sahasranama Stotram 2 from Brihaddharmapurana
+itxtitle: gaNgAsahasranAmastotram 2 (bRihaddharmapurANAntargatam)
+title: गण्गासहस्रनामस्तोत्रम् २ (बृइहद्धर्मपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीगङ्गासहस्रनामस्तोत्रम् २   
 श्रीबृहद्धर्मपुराणान्तर्गतम् पङ्चाशत्तमोऽध्यायः  

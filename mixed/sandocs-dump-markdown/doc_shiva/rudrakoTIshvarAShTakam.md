@@ -1,28 +1,28 @@
-+++
-"Text title" = "rudrakoTIshvarAShTakam"
-"File name" = "rudrakoTIshvarAShTakam.itx"
-itxtitle = "rudrakoTIshvarAShTakam"
-engtitle = "rudrakoTIshvarAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran"
-Description-comments = "Subrahmanya Stuti Manjari, Mahaperiaval Trust"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "December 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रकोटीश्वराष्टकम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: aShTaka, shiva
+Description-comments: Subrahmanya Stuti Manjari, Mahaperiaval Trust
+File name: rudrakoTIshvarAShTakam.itx
+Language: Sanskrit
+Latest update: December 22, 2016
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: rudrakoTIshvarAShTakam
+engtitle: rudrakoTIshvarAShTakam
+itxtitle: rudrakoTIshvarAShTakam
+title: रुद्रकोटीश्वराष्टकम्
 
-+++
+---
   
  श्रीरुद्रकोटीश्वराष्टकम्   
   
 ॐ श्रीगणेशाय नमः ।  
   
-क्षेत्रम् - तिरुकषुगुकुंड्रं  Tirukazhugukundram, TN  
+क्षेत्रम् - तिरुकषुगुकुण्ड्रं  Tirukazhugukundram, TN  
   
 व्योमानिलानलजलाचलचन्द्रसूर्य-  
 चैतन्यकल्पितशरीरविराजिताय  

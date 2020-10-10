@@ -1,23 +1,23 @@
-+++
-"Text title" = "bAlAmAnasapUjA"
-"File name" = "bAlAmAnasapUjA.itx"
-itxtitle = "bAlAmAnasapUjA (udyadbhAnusahasrakAntimaruNakShaumAmbarAlaNkRitAM)"
-engtitle = "bAlAmAnasapUjA"
-Category = "devii, dashamahAvidyA, devI, pUjA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालामानसपूजा (उद्यद्भानुसहस्रकान्तिमरुणक्षौमाम्बरालण्कृइतां)"
+---
+Category: devii, dashamahAvidyA, devI, pUjA
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAmAnasapUjA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAmAnasapUjA
+engtitle: bAlAmAnasapUjA
+itxtitle: bAlAmAnasapUjA (udyadbhAnusahasrakAntimaruNakShaumAmbarAlaNkRitAM)
+title: बालामानसपूजा (उद्यद्भानुसहस्रकान्तिमरुणक्षौमाम्बरालण्कृइतां)
 
-+++
+---
   
  श्रीबालामानसपूजा   
 उद्यद्भानुसहस्रकान्तिमरुणक्षौमाम्बरालङ्कृतां  

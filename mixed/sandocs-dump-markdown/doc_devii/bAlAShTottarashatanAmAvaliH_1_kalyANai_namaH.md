@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Ashtottarashata Namavali  1"
-"File name" = "bAlAShTottarashatanAmAvaliH1.itx"
-itxtitle = "bAlAShTottarashatanAmAvaliH 1 (kalyANai namaH)"
-engtitle = "bAlAShTottarashatanAmAvaliH 1"
-Category = "devii, dashamahAvidyA, devI, aShTottarashatanAmAvalI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाष्टोत्तरशतनामावलिः १ (कल्याणै नमः)"
+---
+Category: devii, dashamahAvidyA, devI, aShTottarashatanAmAvalI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAShTottarashatanAmAvaliH1.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Ashtottarashata Namavali  1
+engtitle: bAlAShTottarashatanAmAvaliH 1
+itxtitle: bAlAShTottarashatanAmAvaliH 1 (kalyANai namaH)
+title: बालाष्टोत्तरशतनामावलिः १ (कल्याणै नमः)
 
-+++
+---
   
  श्रीबालाष्टोत्तरशतनामावलिः १   
 ॐ ऐं ह्रीं श्रीं कल्याणै नमः । त्रिपुरायै नमः । बालायै  

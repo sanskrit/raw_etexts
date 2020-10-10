@@ -1,21 +1,21 @@
-+++
-"Text title" = "dakShiNAmUrtyaShTakam"
-"File name" = "dakShiNAmUrtyaShTakam.itx"
-itxtitle = "dakShiNAmUrtyaShTakam"
-engtitle = "dakShiNAmUrtyaShTakam"
-Category = "shiva, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्त्यष्टकम्"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: shiva, aShTaka
+File name: dakShiNAmUrtyaShTakam.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: dakShiNAmUrtyaShTakam
+engtitle: dakShiNAmUrtyaShTakam
+itxtitle: dakShiNAmUrtyaShTakam
+title: दक्षिणामूर्त्यष्टकम्
 
-+++
+---
   
  श्रीदक्षिणामूर्त्यष्टकं   
 अगणितगुणगणमप्रमेमाद्यं  

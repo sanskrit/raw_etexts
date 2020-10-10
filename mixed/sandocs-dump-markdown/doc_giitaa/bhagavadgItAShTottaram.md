@@ -1,26 +1,27 @@
-+++
-"Text title" = "madbhagavadgItAShTottaram"
-"File name" = "gItAShTottaramTejomayananda.itx"
-itxtitle = "bhagavadgItAShTottaram"
-engtitle = "shrImadbhagavadgItAShTottaram by Svami Tejomayananda"
-Category = "aShTottarashatanAma, giitaa, bhagavadgita, stotra"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Subcategory = "bhagavadgita"
-Texttype = "stotra"
-Author = "H. H. Swami Tejomayananda, Chinmaya Mission"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/bhagvadgItA"
-"Transliterated by" = "NM Sundar nm53sundar at gmail.com"
-"Proofread by" = "Arundhati arujayu at gmail.com"
-Description-comments = "Holy Gita Ready Reference, Chinmaya International Foundation Adi Sankara Nilayam, Veliyanad, Kerala Publisher website: www.chinfo.org"
-Indexextra = "(Tejomayananda)"
-"Latest update" = "June 22, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवद्गीताष्टोत्तरम्"
+---
+Author: H. H. Swami Tejomayananda, Chinmaya Mission
+Category: aShTottarashatanAma, giitaa, bhagavadgita, stotra
+Description-comments: 'Holy Gita Ready Reference, Chinmaya International Foundation
+  Adi Sankara Nilayam, Veliyanad, Kerala Publisher website: www.chinfo.org'
+File name: gItAShTottaramTejomayananda.itx
+Indexextra: (Tejomayananda)
+Language: Sanskrit
+Latest update: June 22, 2012
+Location: doc_giitaa
+Proofread by: Arundhati arujayu at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhagavadgita
+Subject: philosophy/hinduism/bhagvadgItA
+Sublocation: giitaa
+Text title: madbhagavadgItAShTottaram
+Texttype: stotra
+Transliterated by: NM Sundar nm53sundar at gmail.com
+engtitle: shrImadbhagavadgItAShTottaram by Svami Tejomayananda
+itxtitle: bhagavadgItAShTottaram
+title: भगवद्गीताष्टोत्तरम्
 
-+++
+---
   
  श्रीमद्भगवद्गीताष्टोत्तरम्   
   
@@ -116,7 +117,7 @@ title = "भगवद्गीताष्टोत्तरम्"
 ॐ अश्वत्थवृक्षवर्णनकारिण्यै नमः । ९०।  
 ॐ संसारवृक्षच्छेदनोपायबोधिन्यै नमः ।  
 ॐ त्रिविधश्रद्धास्वरूपप्रकाशिकायै नमः ।  
-ॐ त्यागसंन्यासतत्त्वदर्शिकायै नमः९३।  
+ॐ त्यागसन्न्यासतत्त्वदर्शिकायै नमः९३।  
 ॐ यज्ञदानतपःस्वरूपबोधिन्यै नमः ।  
 ॐ ज्ञानकर्मकर्तृस्वरूपबोधिकायै नमः ।  
 ॐ शरणागतिरहस्यप्रदर्शिकायै नमः ।  

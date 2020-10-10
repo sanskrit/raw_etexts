@@ -1,25 +1,25 @@
-+++
-"Text title" = "bhUmiriyaM balidAnasya"
-"File name" = "bhUmiriyaMbalidAnasya.itx"
-itxtitle = "bhUmiriyaM balidAnasya"
-engtitle = "bhUmiriyaM balidAnasya"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "paM\\. digambara ananta paNDharapure\\, ghoDanadI\\, puNe"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "From Sharada Magazine, Pune, January 1967,"
-Indexextra = "(Video, Scan, Kannada, Hindi Video)"
-"Latest update" = "May 19, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भूमिरियं बलिदानस्य"
+---
+Author: paM\. digambara ananta paNDharapure\, ghoDanadI\, puNe
+Category: misc, sanskritgeet
+Description/comments: From Sharada Magazine, Pune, January 1967,
+File name: bhUmiriyaMbalidAnasya.itx
+Indexextra: (Video, Scan, Kannada, Hindi Video)
+Language: Sanskrit
+Latest update: May 19, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: bhUmiriyaM balidAnasya
+engtitle: bhUmiriyaM balidAnasya
+itxtitle: bhUmiriyaM balidAnasya
+title: भूमिरियं बलिदानस्य
 
-+++
+---
   
  भूमिरियं बलिदानस्य   
-इहिन्दी ``आओ बच्चो तुम्हें दिखाए झाँकी हिंदुस्थानकी'' संस्कृतानुवाद  
+इहिन्दी ``आओ बच्चो तुम्हें दिखाए झाँकी हिन्दुस्थानकी'' संस्कृतानुवाद  
 एत बालकाः दर्शयामि वस्तेजो हिन्दुस्थानस्य,  
 तेजो भारतवर्षस्य  
 अस्य मृत्तिका शिरसा वन्द्या भूमिरियं बलिदानस्य  

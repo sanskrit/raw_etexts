@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivastutiH shukrakRitA"
-"File name" = "shivastutishukra.itx"
-itxtitle = "shivastutiH (matsyapurANAntargataM shukrakRitA namo.astushitikaNThAya)"
-engtitle = "shivastutiH"
-Category = "shiva, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-SubDeity = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subrahmanyam Yvs yvspmp at gmail.com"
-"Proofread by" = "Subrahmanyam Yvs, Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "matsyapurANa adhyAya 47 sholkAH 128-168"
-"Latest update" = "July 21, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवस्तुतिः (मत्स्यपुराणान्तर्गतं शुक्रकृइता नमोऽस्तुशितिकण्ठाय)"
+---
+Category: shiva, shiva
+File name: shivastutishukra.itx
+Language: Sanskrit
+Latest update: July 21, 2017
+Location: doc_shiva
+Proofread by: Subrahmanyam Yvs, Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: matsyapurANa adhyAya 47 sholkAH 128-168
+SubDeity: shiva
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivastutiH shukrakRitA
+Transliterated by: Subrahmanyam Yvs yvspmp at gmail.com
+engtitle: shivastutiH
+itxtitle: shivastutiH (matsyapurANAntargataM shukrakRitA namo.astushitikaNThAya)
+title: शिवस्तुतिः (मत्स्यपुराणान्तर्गतं शुक्रकृइता नमोऽस्तुशितिकण्ठाय)
 
-+++
+---
   
  शुक्रकृता शिवस्तुतिः   
   

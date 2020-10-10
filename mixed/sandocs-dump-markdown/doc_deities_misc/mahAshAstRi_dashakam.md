@@ -1,22 +1,22 @@
-+++
-"Text title" = "shaastridashakam"
-"File name" = "shaastridashakam.itx"
-itxtitle = "mahAshAstRi dashakam"
-engtitle = "mahAshAstRRi dashakam"
-Category = "deities_misc, stotra, dashaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 23, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाशास्तृइ दशकम्"
+---
+Category: deities_misc, stotra, dashaka
+File name: shaastridashakam.itx
+Language: Sanskrit
+Latest update: April 23, 2008
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: shaastridashakam
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: mahAshAstRRi dashakam
+itxtitle: mahAshAstRi dashakam
+title: महाशास्तृइ दशकम्
 
-+++
+---
   
  श्रीमहाशास्तृ दशकं   
   
@@ -25,7 +25,7 @@ title = "महाशास्तृइ दशकम्"
 पूर्णचन्द्रतुण्ड वेत्रदण्डवीर्यवारिधे  
 पूर्णपुष्कलासमेत भूतनाथ पाहि मां ॥ १  
   
-आदिशङ्कराच्युत प्रियात्मसंभवप्रभो  
+आदिशङ्कराच्युत प्रियात्मसम्भवप्रभो  
 आदिभूतनाथ साधु भक्तचिन्तितप्रद  
 भूतिभूष वेदघोष पारितोष शास्वत  
 पूर्णपुष्कलासमेत भूतनाथ पाहि मां ॥ २  

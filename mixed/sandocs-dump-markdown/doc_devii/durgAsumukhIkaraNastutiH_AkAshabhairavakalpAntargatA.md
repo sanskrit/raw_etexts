@@ -1,23 +1,23 @@
-+++
-"Text title" = "durgAsumukhIkaraNastutiH"
-"File name" = "durgAsumukhIkaraNastutiH.itx"
-itxtitle = "durgAsumukhIkaraNastutiH (AkAshabhairavakalpAntargatA)"
-engtitle = "durgAsumukhIkaraNastutiH"
-Category = "devii, dashamahAvidyA, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Shulinikalpam, Tanjavur Saraswati Mahal Series No. 403"
-Indexextra = "(Scan)"
-"Latest update" = "December 9, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गासुमुखीकरणस्तुतिः (आकाशभैरवकल्पान्तर्गता)"
+---
+Category: devii, dashamahAvidyA, durgA, devI
+Description/comments: Shulinikalpam, Tanjavur Saraswati Mahal Series No. 403
+File name: durgAsumukhIkaraNastutiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 9, 2018
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAsumukhIkaraNastutiH
+engtitle: durgAsumukhIkaraNastutiH
+itxtitle: durgAsumukhIkaraNastutiH (AkAshabhairavakalpAntargatA)
+title: दुर्गासुमुखीकरणस्तुतिः (आकाशभैरवकल्पान्तर्गता)
 
-+++
+---
   
  श्रीदुर्गासुमुखीकरणस्तुतिः   
 श्रीशिव उवाच -  

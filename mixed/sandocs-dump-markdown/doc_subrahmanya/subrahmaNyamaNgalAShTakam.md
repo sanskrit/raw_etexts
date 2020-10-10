@@ -1,26 +1,26 @@
-+++
-"Text title" = "shrii subrahmaNyamaNgaLaaShTakaM"
-"File name" = "subramangala8.itx"
-itxtitle = "subrahmaNyamaNgalAShTakam"
-engtitle = "subrahmaNyamaNgaLAShTakam"
-Category = "aShTaka, subrahmanya, mangala"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "September 29, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यमण्गलाष्टकम्"
+---
+Category: aShTaka, subrahmanya, mangala
+File name: subramangala8.itx
+Language: Sanskrit
+Latest update: September 29, 2005
+Location: doc_subrahmanya
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrii subrahmaNyamaNgaLaaShTakaM
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: subrahmaNyamaNgaLAShTakam
+itxtitle: subrahmaNyamaNgalAShTakam
+title: सुब्रह्मण्यमण्गलाष्टकम्
 
-+++
+---
   
  श्रीसुब्रह्मण्यमङ्गळाष्टकं   
   
 शिवयोसूनुजायास्तु श्रितमन्दार शाखिने ।  
-शिखिवर्यातुरंगाय सुब्रह्मण्याय मङ्गळं ॥  
+शिखिवर्यातुरङ्गाय सुब्रह्मण्याय मङ्गळं ॥  
   
 भक्ताभीष्टप्रदायास्तु भवमोग विनाशिने ।  
 राजराजादिवन्द्याय रणधीराय मङ्गळं ॥  
@@ -37,13 +37,13 @@ title = "सुब्रह्मण्यमण्गलाष्टकम्"
 मुक्ताहारलसत् कुण्ड राजये मुक्तिदायिने ।  
 देवसेनासमेताय दैवतायास्तु मङ्गळं ॥  
   
-कनकांबरसंशोभि कटये कलिहारिणे ।  
+कनकाम्बरसंशोभि कटये कलिहारिणे ।  
 कमलापति वन्द्याय कार्तिकेयाय मङ्गळं ॥  
   
 शरकाननजाताय शूराय शुभदायिने ।  
 शीतभानुसमास्याय शरण्यायास्तु मङ्गळं ॥  
   
-मंगळाष्टकमेतन्ये महासेनस्यमानवाः ।  
+मङ्गळाष्टकमेतन्ये महासेनस्यमानवाः ।  
 पठन्ती प्रत्यहं भक्त्याप्राप्नुयुस्तेपरां श्रियं ॥  
   
 ॥ इति सुब्रह्मण्य मङ्गळाष्टकं सम्पूर्णं ॥  

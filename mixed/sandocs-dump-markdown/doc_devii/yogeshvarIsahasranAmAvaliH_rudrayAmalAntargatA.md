@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Yogeshwari Sahasranamavali"
-"File name" = "yogeshvarIsahasranAmAvalI.itx"
-itxtitle = "yogeshvarIsahasranAmAvaliH (rudrayAmalAntargatA)"
-engtitle = "Yogeshwari Sahasranamavali"
-Category = "sahasranAmAvalI, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "rudrayAmale uttarakhaNDe devIcharitre (unsure)"
-Source = "Also Indic Manuscript Collection at dla.library.upenn.edu"
-Acknowledge-Permission = "http://chitpavanfoundation.org/Chitpavans/"
-"Latest update" = "June 5, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगेश्वरीसहस्रनामावलिः (रुद्रयामलान्तर्गता)"
+---
+Acknowledge-Permission: http://chitpavanfoundation.org/Chitpavans/
+Category: sahasranAmAvalI, devii, devI
+Description/comments: rudrayAmale uttarakhaNDe devIcharitre (unsure)
+File name: yogeshvarIsahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: June 5, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Also Indic Manuscript Collection at dla.library.upenn.edu
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Yogeshwari Sahasranamavali
+engtitle: Yogeshwari Sahasranamavali
+itxtitle: yogeshvarIsahasranAmAvaliH (rudrayAmalAntargatA)
+title: योगेश्वरीसहस्रनामावलिः (रुद्रयामलान्तर्गता)
 
-+++
+---
   
  श्रीयोगेश्वरीसहस्रनामावलिः   
 अस्य श्रीयोगेश्वरीसहस्रनामस्तोत्रमन्त्रस्य  
@@ -1036,7 +1036,7 @@ title = "योगेश्वरीसहस्रनामावलिः (र
 ॐ विमर्शाख्यायै नमः ।  
 ॐ प्रकाशकविमर्शकायै नमः ।  
 ॐ निर्वाणचरणदेव्यै नमः ।  
-ॐ चतुश्चरणसंज्ञकायै नमः ।  
+ॐ चतुश्चरणसञ्ज्ञकायै नमः ।  
 ॐ चतुर्विज्ञानशक्त्याढ्यायै नमः ।  
 ॐ सुभगायै नमः । ९७०  
 ॐ क्रियायुतायै नमः ।  
@@ -1397,7 +1397,7 @@ For printing
   
 ॐ सहस्रफणिभूषणायै नमः । सहस्रनामसंस्तोत्रायै ।  
 सहस्राक्षबलापहायै । प्रकाशाख्यायै । विमर्शाख्यायै ।  
-प्रकाशकविमर्शकायै । निर्वाणचरणदेव्यै । चतुश्चरणसंज्ञकायै ।  
+प्रकाशकविमर्शकायै । निर्वाणचरणदेव्यै । चतुश्चरणसञ्ज्ञकायै ।  
 चतुर्विज्ञानशक्त्याढ्यायै । सुभगायै । क्रियायुतायै । स्मरेशायै ।  
 शान्तिदायै । इच्छायै । इच्छाशक्तिसमान्वितायै । निशाम्बरायै ।  
 राजन्यपूजितायै । निशाचर्यै । सुन्दर्यै । ऊर्ध्वकेश्यै नमः ॥ ९८०॥  

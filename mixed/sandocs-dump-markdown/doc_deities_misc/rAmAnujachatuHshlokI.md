@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Ramanujachatuhshloki"
-"File name" = "rAmAnujachatuHshlokI.itx"
-itxtitle = "rAmAnujachatuHshlokI"
-engtitle = "rAmAnujachatuHshlokI"
-Category = "deities_misc, gurudev, chatuHshlokI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Ramanuja Stotramala"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामानुजचतुःश्लोकी"
+---
+Category: deities_misc, gurudev, chatuHshlokI
+Description/comments: Ramanuja Stotramala
+File name: rAmAnujachatuHshlokI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Ramanujachatuhshloki
+engtitle: rAmAnujachatuHshlokI
+itxtitle: rAmAnujachatuHshlokI
+title: रामानुजचतुःश्लोकी
 
-+++
+---
   
  श्रीरामानुजचतुःश्लोकी   
 श्रीरस्तु ।  

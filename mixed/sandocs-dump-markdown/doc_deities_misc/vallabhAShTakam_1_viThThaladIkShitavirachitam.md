@@ -1,24 +1,24 @@
-+++
-"Text title" = "vallabhAShTakam 1"
-"File name" = "vallabhAShTakam1.itx"
-itxtitle = "vallabhAShTakam 1 (viThThaladIkShitavirachitam)"
-engtitle = "vallabhAShTakam 1"
-Category = "deities_misc, gurudev, puShTimArgIya, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "viThThaladIkShita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्लभाष्टकम् १ (विठ्ठलदीक्षितविरचितम्)"
+---
+Author: viThThaladIkShita
+Category: deities_misc, gurudev, puShTimArgIya, aShTaka
+Description/comments: puShTimArgIya stotraratnAkara
+File name: vallabhAShTakam1.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vallabhAShTakam 1
+engtitle: vallabhAShTakam 1
+itxtitle: vallabhAShTakam 1 (viThThaladIkShitavirachitam)
+title: वल्लभाष्टकम् १ (विठ्ठलदीक्षितविरचितम्)
 
-+++
+---
   
  श्रीवल्लभाष्टकम् १   
   

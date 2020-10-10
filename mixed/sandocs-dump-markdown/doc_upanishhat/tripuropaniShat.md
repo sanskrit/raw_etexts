@@ -1,23 +1,23 @@
-+++
-"Text title" = "Tripura Upanishad"
-"File name" = "tripura-upan.itx"
-itxtitle = "tripuropaniShat"
-engtitle = "Tripura Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Kannan Subramanian"
-"Proofread by" = "P.P.Narayanaswami (swami at math.mun.ca)"
-Description-comments = "82/108; Rig-Veda, Shakta Upanishad"
-"Latest update" = "September 28, 1999, July 2, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 82/108; Rig-Veda, Shakta Upanishad
+File name: tripura-upan.itx
+Language: Sanskrit
+Latest update: September 28, 1999, July 2, 2011
+Location: doc_upanishhat
+Proofread by: P.P.Narayanaswami (swami at math.mun.ca)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Tripura Upanishad
+Transliterated by: Kannan Subramanian
+engtitle: Tripura Upanishad
+itxtitle: tripuropaniShat
+title: त्रिपुरोपनिषत्
 
-+++
+---
   
  त्रिपुरोपनिषत्   
   
@@ -26,7 +26,7 @@ title = "त्रिपुरोपनिषत्"
   
 ॐ वाङ्मे मनसि प्रतिष्ठिता । मनो मे वाचि प्रतिष्ठितम् ।  
 आविरावीर्म एधि । वेदस्य म आणीस्थः । श्रुतं मे मा प्रहासीः ।  
-अनेनाधीतेनाहोरात्रान् संदधामि । ऋतं वदिष्यामि ।  
+अनेनाधीतेनाहोरात्रान् सन्दधामि । ऋतं वदिष्यामि ।  
 सत्यं वदिष्यामि । तन्मामवतु । तद्वक्तारमवतु । अवतु माम् ।  
 अवतु वक्तारम् । अवतु वक्तारम् ।  
 ॐ शान्तिः शान्तिः शान्तिः ॥  
@@ -49,7 +49,7 @@ title = "त्रिपुरोपनिषत्"
 एतत्पुरं [ एतत्त्रयं ] पूरकं पूरकाणामत्र [  
 पूरकाणां मन्त्री ] प्रथते मदनो मदन्या ॥ ५॥  
   
-मदन्तिका मानिनी मंगला च सुभगा च सा सुन्दरी सिद्धिमत्ता ।  
+मदन्तिका मानिनी मङ्गला च सुभगा च सा सुन्दरी सिद्धिमत्ता ।  
 लज्जा मतिस्तुष्टिरिष्टा च पुष्टा लक्ष्मीरुमा ललिता लालपन्ती ॥ ६॥  
   
 इमां विज्ञाय सुधया मदन्ती परिसृता तर्पयन्तः स्वपीठम् ।  
@@ -66,7 +66,7 @@ title = "त्रिपुरोपनिषत्"
 [ पुरं हन्त्रीमुखं विश्वमातू रवे रेखा स्वरमध्यं तदेषा । ]  
 बृहत्तिथिर्दशा पञ्चादि नित्या सा षोडशी पुरमध्यं बिभर्ति ॥ १०॥  
   
-यद्वा मण्डलाद्वा स्तनबिंबमेकं मुखं चाधस्त्रीणि गुहा सदनानि ।  
+यद्वा मण्डलाद्वा स्तनबिम्बमेकं मुखं चाधस्त्रीणि गुहा सदनानि ।  
 कामी कलां काम्यरूपां विदित्वा [ चिकित्वा ] नरो जायते  
 कामरूपश्च काम्यः [ कामः ] ॥ ११॥  
   
@@ -90,7 +90,7 @@ title = "त्रिपुरोपनिषत्"
   
 ॐ वाङ्मे मनसि प्रतिष्ठिता । मनो मे वाचि प्रतिष्ठितम् ।  
 आविरावीर्म एधि । वेदस्य म आणीस्थः । श्रुतं मे मा प्रहासीः ।  
-अनेनाधीतेनाहोरात्रान् संदधामि । ऋतं वदिष्यामि ।  
+अनेनाधीतेनाहोरात्रान् सन्दधामि । ऋतं वदिष्यामि ।  
 सत्यं वदिष्यामि । तन्मामवतु । तद्वक्तारमवतु । अवतु माम् ।  
 अवतु वक्तारम् । अवतु वक्तारम् ।  
 ॐ शान्तिः शान्तिः शान्तिः ॥  

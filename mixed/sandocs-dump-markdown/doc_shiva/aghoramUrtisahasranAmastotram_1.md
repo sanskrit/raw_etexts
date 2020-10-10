@@ -1,22 +1,22 @@
-+++
-"Text title" = "aghoramUrtisahasranAmastotram 1"
-"File name" = "aghoramUrtisahasranAmastotram.itx"
-itxtitle = "aghoramUrtisahasranAmastotram 1"
-engtitle = "aghoramUrtisahasranAmastotram 1"
-Category = "shiva, sahasranAma"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 5, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अघोरमूर्तिसहस्रनामस्तोत्रम् १"
+---
+Category: shiva, sahasranAma
+File name: aghoramUrtisahasranAmastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 5, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: aghoramUrtisahasranAmastotram 1
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: aghoramUrtisahasranAmastotram 1
+itxtitle: aghoramUrtisahasranAmastotram 1
+title: अघोरमूर्तिसहस्रनामस्तोत्रम् १
 
-+++
+---
   
  अघोरमूर्तिसहस्रनामस्तोत्रम्   
 अथ अघोरमूर्तिसहस्रनाम लिख्यते -  
@@ -38,7 +38,7 @@ title = "अघोरमूर्तिसहस्रनामस्तोत�
 यदद्य मनसाभीष्टं तद्याचस्व ददाम्यहम् ॥ ४॥  
   
 श्रीदेवी उवाच -  
-श्रीशिवः परमात्मा च भैरवोऽघोरसंज्ञकः ।  
+श्रीशिवः परमात्मा च भैरवोऽघोरसञ्ज्ञकः ।  
 त्रिगुणात्मा महारुद्रस्त्रैलोक्योद्धरणक्षमः ॥ ५॥  
   
 तस्य नामसहस्रं मे वद शीघ्रं कृपानिधे ।  

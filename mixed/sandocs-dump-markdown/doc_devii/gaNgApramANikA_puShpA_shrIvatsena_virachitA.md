@@ -1,25 +1,25 @@
-+++
-"Text title" = "gangApramANikA"
-"File name" = "gangApramANikA.itx"
-itxtitle = "gaNgApramANikA (puShpA shrIvatsena virachitA)"
-engtitle = "gangApramANikA"
-Category = "devii, puShpAshrIvatsan, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 17, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाप्रमाणिका (पुष्पा श्रीवत्सेन विरचिता)"
+---
+Author: Pushpa Srivatsan
+Category: devii, puShpAshrIvatsan, nadI, devI
+File name: gangApramANikA.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 17, 2017
+Location: doc_devii
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gangApramANikA
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: gangApramANikA
+itxtitle: gaNgApramANikA (puShpA shrIvatsena virachitA)
+title: गण्गाप्रमाणिका (पुष्पा श्रीवत्सेन विरचिता)
 
-+++
+---
   
  श्रीगङ्गाप्रमाणिकास्तुतिः   
                  ॐ  
@@ -60,7 +60,7 @@ title = "गण्गाप्रमाणिका (पुष्पा श्�
 सुवासिनीसुपूजिता सुकौशला सुमङ्गला ॥ १०॥  
   
 गुरुप्रसादकीर्तिता गुरुप्रमोदगीतिका ।  
-गुरुप्रचोदनार्चिता गुरुस्वयंकृतार्चना ॥ ११॥  
+गुरुप्रचोदनार्चिता गुरुस्वयङ्कृतार्चना ॥ ११॥  
   
 सुमङ्गलं सुगङ्गिके प्रमाणिकास्तुतिस्फुरे ।  
 सुरागताललास्यके सुवाणि ते सुमङ्गलम् ॥ १२॥  

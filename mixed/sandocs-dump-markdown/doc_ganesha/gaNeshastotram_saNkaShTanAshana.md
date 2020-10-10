@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNeshastotra"
-"File name" = "ganesha8.itx"
-itxtitle = "gaNeshastotram (saNkaShTanAshana)"
-engtitle = "gaNeshastotra (with translation)"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Source = "nAradapurANa"
-Indexextra = "(with meaning)"
-"Latest update" = "February 23, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तोत्रम् (सण्कष्टनाशन)"
+---
+Category: ganesha, stotra
+File name: ganesha8.itx
+Indexextra: (with meaning)
+Language: Sanskrit
+Latest update: February 23, 2015
+Location: doc_ganesha
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: nAradapurANa
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshastotra
+Texttype: stotra
+engtitle: gaNeshastotra (with translation)
+itxtitle: gaNeshastotram (saNkaShTanAshana)
+title: गणेशस्तोत्रम् (सण्कष्टनाशन)
 
-+++
+---
   
  श्रीगणेशस्तोत्र   
   
@@ -45,7 +45,7 @@ title = "गणेशस्तोत्रम् (सण्कष्टनाश
          अष्टभ्यो ब्राह्मणेभ्यश्च लिखित्वा यः समर्पयेत् ।  
          तस्य विद्या भवेत्सर्वा गणेशस्य प्रसादतः ॥ ८॥  
   
-॥ इति श्रीनारदपुराणे संकटनाशनं गणेशस्तोत्रं सम्पूर्णम् ॥  
+॥ इति श्रीनारदपुराणे सङ्कटनाशनं गणेशस्तोत्रं सम्पूर्णम् ॥  
   
   
 Salutations to Lord Ganesha.  

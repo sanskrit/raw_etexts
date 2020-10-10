@@ -1,22 +1,22 @@
-+++
-"Text title" = "Dandapani Ashtakam"
-"File name" = "daNDapANyaShTakam.itx"
-itxtitle = "daNDapANyaShTakam athavA yakSharAjAShTakam"
-engtitle = "daNDapANyaShTakam"
-Category = "deities_misc, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(English, Info 1, 2)"
-"Latest update" = "May 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दण्डपाण्यष्टकम् अथवा यक्षराजाष्टकम्"
+---
+Category: deities_misc, aShTaka
+File name: daNDapANyaShTakam.itx
+Indexextra: (English, Info 1, 2)
+Language: Sanskrit
+Latest update: May 18, 2019
+Location: doc_deities_misc
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Dandapani Ashtakam
+Transliterated by: NA
+engtitle: daNDapANyaShTakam
+itxtitle: daNDapANyaShTakam athavA yakSharAjAShTakam
+title: दण्डपाण्यष्टकम् अथवा यक्षराजाष्टकम्
 
-+++
+---
   
  श्रीदण्डपाण्यष्टकम् अथवा श्रीयक्षराजाष्टकम्   
 रत्नगर्भाङ्गजोद्भूत पूर्णभद्रसुशोत्तम ।  

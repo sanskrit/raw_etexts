@@ -1,24 +1,24 @@
-+++
-"Text title" = "mAnasollasa stuti"
-"File name" = "mAnasollasa.itx"
-itxtitle = "mAnasollAsastutiH (appayyadIkShitendraiH virachitA)"
-engtitle = "mAnasollAsastutiH by Appayya Dixit"
-Category = "misc, sahitya, appayya-dIkShita"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Subcategory = "sahitya"
-Author = "Shri Appaya Dikshitar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-Indexextra = "(appayyA dIxita)"
-"Latest update" = "July 14, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मानसोल्लासस्तुतिः (अप्पय्यदीक्षितेन्द्रैः विरचिता)"
+---
+Author: Shri Appaya Dikshitar
+Category: misc, sahitya, appayya-dIkShita
+File name: mAnasollasa.itx
+Indexextra: (appayyA dIxita)
+Language: Sanskrit
+Latest update: July 14, 2006
+Location: doc_z_misc_general
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: mAnasollasa stuti
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: mAnasollAsastutiH by Appayya Dixit
+itxtitle: mAnasollAsastutiH (appayyadIkShitendraiH virachitA)
+title: मानसोल्लासस्तुतिः (अप्पय्यदीक्षितेन्द्रैः विरचिता)
 
-+++
+---
   
  मानसोल्लसस्तुतिः श्रीमदप्पय्यादीक्षितेन्द्रैः विरचिता   
   
@@ -56,7 +56,7 @@ Some examples are given here.
    (2)Smara varam chetah smara Nanda Kumaram.  
    (स्मर वारं चेतः स्मर नन्दकुमारम् ।)  
    (3)Bruhi Mukundeti Rasane (ब्रूहि मुकुन्देति रसने ।)  
-   (4)Manasa sancharare (मानस संचर रे)  
+   (4)Manasa sancharare (मानस सञ्चर रे)  
    (5)Bhaja re Yadhunatham (भज रे यदुनाथम् ।).  
 5) The saint Kulasekhara also addresses the organs in his  
    Mukundamala. One of his popular poems is given here.  
@@ -74,30 +74,30 @@ Now let us go to the poem proper.
       त्वायैकेन श्वासप्रशमसमये किन्नु सुकरम् ॥ १॥  
   
 अतिस्थेमस्फीतानपि शिखरिणः पश्य चलितान्  
-      कियंतं वा कालं किसलयमृदु स्थास्यति वपुः ।  
-असारेऽस्मिन्पूजांअयि हृदय शंभोर्न कुरुषे  
-      कदेदृक् ते लभ्यं कथय जड तंत्रोपकरणम् ॥ २॥  
+      कियन्तं वा कालं किसलयमृदु स्थास्यति वपुः ।  
+असारेऽस्मिन्पूजांअयि हृदय शम्भोर्न कुरुषे  
+      कदेदृक् ते लभ्यं कथय जड तन्त्रोपकरणम् ॥ २॥  
   
 इदानीमत्यल्पेष्वयि हृदय कार्येष्वति महान्  
-      इयान् व्यासंगस्ते न कलयसि येन स्मररिपुम् ॥  
+      इयान् व्यासङ्गस्ते न कलयसि येन स्मररिपुम् ॥  
   
-अतिक्रंदद्बंधुव्यसनजलधावर्ति समये  
-      कियानागंता ते शिव शिव हतोस्म्येव भवता ॥ ३॥  
+अतिक्रन्दद्बन्धुव्यसनजलधावर्ति समये  
+      कियानागन्ता ते शिव शिव हतोस्म्येव भवता ॥ ३॥  
   
 अये चेतश्शास्त्राण्यधिकमवगूढान्न्यपि  
-      मुधा न यद्यासज्जेथाः पशुपतिपदांभोजभजने ।  
+      मुधा न यद्यासज्जेथाः पशुपतिपदाम्भोजभजने ।  
 तदित्थं भोक्तव्यं खलु पुनरपि प्रेत्य भुवने  
       महद्दुःखं वर्णग्रहणसमयोपक्रममिदम् ॥ ४॥  
   
-कियंतो ना भूवन् हृदयपरमप्रेमविषयाः  
+कियन्तो ना भूवन् हृदयपरमप्रेमविषयाः  
       पुराजन्मस्वद्य क्व गतमिति जानासि किमु तान् ।  
-वृधा मोहं ब्ंधुष्वहितपरिणामं त्यज सखे  
+वृधा मोहं ब्न्धुष्वहितपरिणामं त्यज सखे  
       यदासेवादोषात् स्मरसि न कदाऽपि स्मररिपुम् ॥ ५॥  
   
 अमी चेत् पुत्राद्या-स्तव भृशतरं प्रेमविषयाः  
       भविष्यन्तो न स्युः किमु जड तथा भाविजनने ।  
 सदेव त्वय्येवं समुपजनिताक्षत्रयहते  
-     कदा शंभोश्चिन्ता भवति भवभीतिप्रशमनी ॥ ६॥  
+     कदा शम्भोश्चिन्ता भवति भवभीतिप्रशमनी ॥ ६॥  
   
 अनापृच्छ्य ज्ञाती-नवश रुदितोच्छून-नयनान्  
       गतिःका न-स्तातेत्यति-करुणमग्रे विलुटितान् ।  
@@ -105,7 +105,7 @@ Now let us go to the poem proper.
       दद्यैव स्नेहं त्यज हृदय तेष्वर्च्च गिरिशम् ॥ ७॥  
   
 इदं सज्जीभूतं कृतमिद-मिदं कार्यमधुने-  
-      त्ययं व्यर्थारंभस्तव बतमनश्-शाम्यतु कदा ।  
+      त्ययं व्यर्थारम्भस्तव बतमनश्-शाम्यतु कदा ।  
   सखल्वागन्ता ते शिवभजनहीनस्य समयस्-  
       समुद्यन्निर्घोषज्वलदशनिपात प्रतिभयः ॥ ८॥  
   
@@ -119,7 +119,7 @@ Now let us go to the poem proper.
 अमुष्मादश्रान्त-प्रवितत भवव्याधिजननात्  
       महेशे वैमुख्यात् किमिति न भयं किञ्चिदपि ॥ १०॥  
   
-इयंतंकालं ते नियतसहवासेन जनिता किं-  
+इयन्तङ्कालं ते नियतसहवासेन जनिता किं-  
       ईषन्नास्त्यन्तःकरण मयि सौहार्दकणिका ।  
 यथेच्छं भ्रान्त त्वं विहरविषयारण्य-कुहरे  
       भज श्रीपादाब्जं सकृदपि पुरारेरनुदिनम् ॥ ११॥  
@@ -131,11 +131,11 @@ Now let us go to the poem proper.
   
 अलभ्येवप्यर्थेष्वधिक चपला-नक्षपृथुकान्  
       अतॄप्तानत्यर्थे सुचिरमनुवृत्तानपि तथा ।  
-अशक्यं ते शंभोर्भजन-मनुरुध्यैव-मशुचीन्  
+अशक्यं ते शम्भोर्भजन-मनुरुध्यैव-मशुचीन्  
       उपेक्षैवोपायस्तव हृदय तेषामुपशमे ॥ १३॥  
   
 उपायं ते चेतः परमुपदिशामि स्मररिपोः  
-      पदांभोजद्वंद्वे परवशतया रज्यसि यतः ।  
+      पदाम्भोजद्वन्द्वे परवशतया रज्यसि यतः ।  
 अवश्यं भोक्तव्य-मनुदिन-मतर्क्योपगमनां  
       दशा-मन्त्यां-मन्तस्सपदि गणयोपस्थिततराम् ॥ १४॥  
   
@@ -147,7 +147,7 @@ Now let us go to the poem proper.
 बहिस्त्वं वैय्यग्र्यं प्रकटय परं लौकिककृति-  
       ष्ववर्ज्यासु स्थैर्यं भज पशुपतेः पादभजने ।  
 विटेषु स्निह्यन्तीमिव बहिरसारै-रभिनयैः  
-      धने बद्धासंगां गणय धिषणे वारवनिताम् ॥ १६॥  
+      धने बद्धासङ्गां गणय धिषणे वारवनिताम् ॥ १६॥  
   
 महादेवध्यानान्ममशरणमन्यन्न कलये  
       भवग्रहग्रासोल्लसितभववेगादधिभुवि ।  

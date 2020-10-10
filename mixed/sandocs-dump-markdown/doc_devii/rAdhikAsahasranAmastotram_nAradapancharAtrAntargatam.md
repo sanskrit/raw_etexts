@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAdhikAsahasranAmastotram"
-"File name" = "rAdhikAsahasranAmastotra.itx"
-itxtitle = "rAdhikAsahasranAmastotram (nAradapancharAtrAntargatam))"
-engtitle = "rAdhikAsahasranAmastotram"
-Category = "sahasranAma, devii, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Description-comments = "From Vishnustutimanjari, Mahaperiaval Publication"
-Source = "nAradapancharAtre jnAnAmRitasArataH"
-Indexextra = "(translation)"
-"Latest update" = "October 18, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधिकासहस्रनामस्तोत्रम् (नारदपञ्चरात्रान्तर्गतम्))"
+---
+Category: sahasranAma, devii, radha, devI
+Description-comments: From Vishnustutimanjari, Mahaperiaval Publication
+File name: rAdhikAsahasranAmastotra.itx
+Indexextra: (translation)
+Language: Sanskrit
+Latest update: October 18, 2014
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: nAradapancharAtre jnAnAmRitasArataH
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhikAsahasranAmastotram
+engtitle: rAdhikAsahasranAmastotram
+itxtitle: rAdhikAsahasranAmastotram (nAradapancharAtrAntargatam))
+title: राधिकासहस्रनामस्तोत्रम् (नारदपञ्चरात्रान्तर्गतम्))
 
-+++
+---
   
  श्रीराधिकासहस्रनामस्तोत्रम्   
   
@@ -432,7 +432,7 @@ title = "राधिकासहस्रनामस्तोत्रम् (
 निर्वाणदात्री नैर्वाणी हेतुयुक्ता गयोत्तरा ॥ १३४॥  
   
 पर्वताधिनिवासा च निवासकुशला तथा ।  
-संन्यासधर्मकुशला संन्यासेशी शरन्मुखी ॥ १३५॥  
+सन्न्यासधर्मकुशला सन्न्यासेशी शरन्मुखी ॥ १३५॥  
   
 शरच्चन्द्रमुखी श्यामहारा क्षेत्रनिवासिनी ।  
 वसन्तरागसंरागा वसन्तवसनाकृतिः ॥ १३६॥  

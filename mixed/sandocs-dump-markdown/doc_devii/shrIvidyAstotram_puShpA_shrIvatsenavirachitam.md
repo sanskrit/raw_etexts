@@ -1,26 +1,26 @@
-+++
-"Text title" = "shrIvidyAstotram"
-"File name" = "shrIvidyAstotramPS.itx"
-itxtitle = "shrIvidyAstotram (puShpA shrIvatsenavirachitam)"
-engtitle = "shrIvidyAstotram"
-Category = "devii, puShpAshrIvatsan, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीविद्यास्तोत्रम् (पुष्पा श्रीवत्सेनविरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: devii, puShpAshrIvatsan, dashamahAvidyA, devI
+File name: shrIvidyAstotramPS.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 28, 2017
+Location: doc_devii
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIvidyAstotram
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: shrIvidyAstotram
+itxtitle: shrIvidyAstotram (puShpA shrIvatsenavirachitam)
+title: श्रीविद्यास्तोत्रम् (पुष्पा श्रीवत्सेनविरचितम्)
 
-+++
+---
   
  श्रीश्रीविद्यास्तोत्रम्   
                  ॐ  
@@ -30,7 +30,7 @@ title = "श्रीविद्यास्तोत्रम् (पुष्
 ॐ श्रीविद्यायै च विद्महे । नादबीजाय धीमहि ।  
 तन्नः शक्तिः प्रचोदयात् ॥  
   
-ह्रींबीजपूजिते देवि महामेरुनिवासिनि ।  
+ह्रीम्बीजपूजिते देवि महामेरुनिवासिनि ।  
 श्रीषोडशाक्षरीविद्ये सुवासिनि नमोस्तु ते ॥ १॥  
   
 षोडशीपूजिते देवि षोडशीमन्त्ररूपिणि ।  

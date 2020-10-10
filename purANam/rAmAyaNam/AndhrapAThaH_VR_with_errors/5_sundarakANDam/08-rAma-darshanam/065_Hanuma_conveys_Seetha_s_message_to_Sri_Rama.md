@@ -3,7 +3,6 @@ title: 065 Hanuma conveys Seetha s message to Sri Rama
 title_english: 065 Hanuma conveys Seetha s message to Sri Rama
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-065-Hanuma_conveys_Seetha_s_message_to_.mp3"></div>
 
 ततः प्रस्रवणम् शैलम् ते गत्वा चित्र काननम् ।  
@@ -34,7 +33,7 @@ title_english: 065 Hanuma conveys Seetha s message to Sri Rama
 एक वेणी धरा दीना त्वयि चिन्ता परायणा ॥ ५-६५-१३  
 अधः शय्या विवर्ण अन्गी पद्मिनी इव हिम आगमे ।  
 रावणात् विनिवृत्त अर्था मर्तव्य कृत निश्चया ॥ ५-६५-१४  
-देवी कथंचित् काकुत्स्थ त्वन् मना मार्गिता मया ।  
+देवी कथञ्चित् काकुत्स्थ त्वन् मना मार्गिता मया ।  
 इक्ष्वाकु वंश विख्यातिम् शनैः कीर्तयत अनघ ॥ ५-६५-१५  
 स मया नर शार्दूल विश्वासम् उपपादिता ।  
 ततः सम्भाषिता देवी सर्वम् अर्थम् च दर्शिता ॥ ५-६५-१६  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "stotraratnam athavA AlavandArastotram"
-"File name" = "stotraratnaAlavandAra.itx"
-itxtitle = "stotraratnaM athavA AlavandArastotram (yAmunamunivirachitam)"
-engtitle = "Stotraratnam or Alavandarastotram"
-Category = "vishhnu, krishna, vishnu, yAmunAchArya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "yAmunachArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rajnarayanan C K krajnara at gmail.com"
-"Proofread by" = "Rajnarayanan C K krajnara at gmail.com, PSA Easwaran"
-Indexextra = "(English)"
-"Latest update" = "February 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्तोत्ररत्नं अथवा आलवन्दारस्तोत्रम् (यामुनमुनिविरचितम्)"
+---
+Author: yAmunachArya
+Category: vishhnu, krishna, vishnu, yAmunAchArya
+File name: stotraratnaAlavandAra.itx
+Indexextra: (English)
+Language: Sanskrit
+Latest update: February 21, 2018
+Location: doc_vishhnu
+Proofread by: Rajnarayanan C K krajnara at gmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: stotraratnam athavA AlavandArastotram
+Transliterated by: Rajnarayanan C K krajnara at gmail.com
+engtitle: Stotraratnam or Alavandarastotram
+itxtitle: stotraratnaM athavA AlavandArastotram (yAmunamunivirachitam)
+title: स्तोत्ररत्नं अथवा आलवन्दारस्तोत्रम् (यामुनमुनिविरचितम्)
 
-+++
+---
   
  स्तोत्ररत्नं अथवा आलवन्दारस्तोत्रम्   
   

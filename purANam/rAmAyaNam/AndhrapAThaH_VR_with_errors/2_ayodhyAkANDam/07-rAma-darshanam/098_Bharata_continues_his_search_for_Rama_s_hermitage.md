@@ -3,7 +3,6 @@ title: 098 Bharata continues his search for Rama s hermitage
 title_english: 098 Bharata continues his search for Rama s hermitage
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-098-Rama_Shrama_Gamanam.mp3"></div>
 
 निवेश्य सेनाम् तु विभुः पद्भ्याम् पादवताम् वरः ।  

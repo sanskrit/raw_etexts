@@ -3,7 +3,6 @@ title: 042 Female demons enquires Seetha about Hanuma
 title_english: 042 Female demons enquires Seetha about Hanuma
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-042-Female-demons_enquires_Seetha_about_Hanuma.mp3"></div>
 
 ततः पक्षि निनादेन वृक्ष भन्ग स्वनेन च ।  
@@ -79,8 +78,8 @@ title_english: 042 Female demons enquires Seetha about Hanuma
 अर्दयित्वा पुरीम् लङ्कामभिवाद्य च मैथिलीम् ।  
 समृद्धार्थो गमिष्यामि मिषताम् सर्वरक्षसाम् ॥ ५-४२-३६  
 तस्य सन्नाद शब्देन ते अभवन् भय शन्किताः ।  
-ददृशुः च हनूमन्तम् संध्या मेघम् इव उन्नतम् ॥ ५-४२-३७  
-स्वामि संदेश निह्शन्काः ततः ते राक्षसाः कपिम् ।  
+ददृशुः च हनूमन्तम् सन्ध्या मेघम् इव उन्नतम् ॥ ५-४२-३७  
+स्वामि सन्देश निह्शन्काः ततः ते राक्षसाः कपिम् ।  
 चित्रैः प्रहरणैः भीमैः अभिपेतुः ततः ततः ॥ ५-४२-३८  
 स तैः परिवृतः शूरैः सर्वतः स महाबलः ।  
 आससाद आयसम् भीमम् परिघम् तोरण आश्रितम् ॥ ५-४२-३९  

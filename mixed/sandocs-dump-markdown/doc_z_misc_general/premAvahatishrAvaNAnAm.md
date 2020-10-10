@@ -1,24 +1,24 @@
-+++
-"Text title" = "premAvahatishrAvaNAnAm"
-"File name" = "premAvahatishrAvaNAnAma.itx"
-itxtitle = "premAvahatishrAvaNAnAm"
-engtitle = "premAvahatishrAvaNAnAm"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Original Asamese Bhupen Hazarika, Sanskrit Ranjan Bezbaruah"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Ranjan Bezbaruah ranjanbaruah at gmail.com"
-Description-comments = "snehei aamaar(Assamese)"
-Indexextra = "(Dance Video)"
-"Latest update" = "February 23, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रेमावहतिश्रावणानाम्"
+---
+Author: Original Asamese Bhupen Hazarika, Sanskrit Ranjan Bezbaruah
+Category: misc, sanskritgeet
+Description-comments: snehei aamaar(Assamese)
+File name: premAvahatishrAvaNAnAma.itx
+Indexextra: (Dance Video)
+Language: Sanskrit
+Latest update: February 23, 2016
+Location: doc_z_misc_general
+Proofread by: Ranjan Bezbaruah ranjanbaruah at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: premAvahatishrAvaNAnAm
+Transliterated by: NA
+engtitle: premAvahatishrAvaNAnAm
+itxtitle: premAvahatishrAvaNAnAm
+title: प्रेमावहतिश्रावणानाम्
 
-+++
+---
   
  प्रेमावहति मे श्रावणानाम्   
 प्रेमावहति मे श्रावणानां  
@@ -28,7 +28,7 @@ title = "प्रेमावहतिश्रावणानाम्"
   
 निर्जनस्तब्धतमोऽभिभूय  
 उच्छलामानयति जीवनधाराम् ।  
-अपूर्ववर्षायास्तरंगराशिः  
+अपूर्ववर्षायास्तरङ्गराशिः  
 नृत्यति सृष्टेर्रागेण ॥  
   
 विद्युत्क्षिप्रे तव नयने  

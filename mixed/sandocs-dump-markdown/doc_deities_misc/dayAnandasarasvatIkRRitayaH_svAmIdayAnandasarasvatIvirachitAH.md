@@ -1,21 +1,21 @@
-+++
-"Text title" = "Kritis for various deities by Swami Dayanandasarasvati"
-"File name" = "dayAnandakRRitayaH.itx"
-itxtitle = "dayAnandasarasvatIkRRitayaH (svAmIdayAnandasarasvatIvirachitAH)"
-engtitle = "Kritis of Swami Dayanandasarasvati"
-Category = "deities_misc, kRitI, misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Swamini Tattvapriyananda tattvapriya3108 at gmail.com"
-"Proofread by" = "Swamini Tattvapriyananda tattvapriya3108 at gmail.com"
-"Latest update" = "November 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दयानन्दसरस्वतीकृतयः (स्वामीदयानन्दसरस्वतीविरचिताः)"
+---
+Category: deities_misc, kRitI, misc
+File name: dayAnandakRRitayaH.itx
+Language: Sanskrit
+Latest update: November 17, 2018
+Location: doc_deities_misc
+Proofread by: Swamini Tattvapriyananda tattvapriya3108 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Kritis for various deities by Swami Dayanandasarasvati
+Transliterated by: Swamini Tattvapriyananda tattvapriya3108 at gmail.com
+engtitle: Kritis of Swami Dayanandasarasvati
+itxtitle: dayAnandasarasvatIkRRitayaH (svAmIdayAnandasarasvatIvirachitAH)
+title: दयानन्दसरस्वतीकृतयः (स्वामीदयानन्दसरस्वतीविरचिताः)
 
-+++
+---
   
  श्रीस्वामिदयानन्दकृत-कृतयः   
   

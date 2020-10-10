@@ -3,7 +3,6 @@ title: 023 बलातिबलप्राप्तिः
 title_english: 023 Their sojourn at the confluence of the rivers ganga and sarayu
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-023-Balaathi_balaa_Prapthihi.mp3"></div>
 
 प्रभातायां तु शर्वर्यां विश्वामित्रो महामुनिः।  

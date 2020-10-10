@@ -1,22 +1,22 @@
-+++
-"Text title" = "mahAgaNapati navArNa vedapAdastavaH"
-"File name" = "mahAgaNapatinavArNavedapAdastava.itx"
-itxtitle = "mahAgaNapati navArNa vedapAdastavaH athavA shrIgaNeshanavaratnamAlA"
-engtitle = "mahAgaNapati navArNa vedapAdastavaH"
-Category = "ganesha, stotra, nava"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "May 16, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महागणपति नवार्ण वेदपादस्तवः अथवा श्रीगणेशनवरत्नमाला"
+---
+Category: ganesha, stotra, nava
+File name: mahAgaNapatinavArNavedapAdastava.itx
+Language: Sanskrit
+Latest update: May 16, 2011
+Location: doc_ganesha
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: mahAgaNapati navArNa vedapAdastavaH
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: mahAgaNapati navArNa vedapAdastavaH
+itxtitle: mahAgaNapati navArNa vedapAdastavaH athavA shrIgaNeshanavaratnamAlA
+title: महागणपति नवार्ण वेदपादस्तवः अथवा श्रीगणेशनवरत्नमाला
 
-+++
+---
   
  श्रीमहागणपति नवार्ण वेदपादस्तवः   
 श्रीगणेशनवरत्नमाला च  
@@ -56,7 +56,7 @@ from the Vedas.
 महा-पातक-सङ्घात-तम-हारण-भयापह ।  
 त्वदीय-कृपया देव सर्वानव यजामहे ॥ ९॥  
   
-नवार्ण-रत्न-निगम-पाद-संपुटितां स्तुतिम् ।  
+नवार्ण-रत्न-निगम-पाद-सम्पुटितां स्तुतिम् ।  
 भक्त्या पठन्ति ये तेषां तुष्टो भव गणाधिप ॥ १०॥  
   
 ॥ इति श्रीमहागणपति-नवार्ण-वेदपाद-स्तवः समप्तः॥  

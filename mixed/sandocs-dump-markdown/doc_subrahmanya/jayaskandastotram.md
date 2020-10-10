@@ -1,22 +1,22 @@
-+++
-"Text title" = "jayaskandastotram"
-"File name" = "jayaskandastotram.itx"
-itxtitle = "jayaskandastotram"
-engtitle = "jayaskandastotram"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com, PSA Easwaran"
-Description-comments = "Subrahmanya Stuti Manjari, Mahaperiaval Trust"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "January 3, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयस्कन्दस्तोत्रम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: subrahmanya
+Description-comments: Subrahmanya Stuti Manjari, Mahaperiaval Trust
+File name: jayaskandastotram.itx
+Language: Sanskrit
+Latest update: January 3, 2017
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: jayaskandastotram
+engtitle: jayaskandastotram
+itxtitle: jayaskandastotram
+title: जयस्कन्दस्तोत्रम्
 
-+++
+---
   
  श्रीजयस्कन्दस्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  

@@ -1,30 +1,30 @@
-+++
-"Text title" = "hanumadaShTottarashatanAmAvaliH 8"
-"File name" = "hanumadaShTottarashatanAmAvaliH8.itx"
-itxtitle = "hanumadaShTottarashatanAmAvaliH 8"
-engtitle = "hanumadaShTottarashatanAmAvaliH 8"
-Category = "aShTottarashatanAmAvalI, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "V. Krishnamurthy profvk at yahoo.com"
-"Proofread by" = "V. Krishnamurthy profvk at yahoo.com"
-Description-comments = "See corresponding hanumadaShTottarashatanAmastotram"
-Indexextra = "(Text, stotra Scan)"
-Acknowledge-Permission = "V. Krishnamurthy profvk.com"
-"Latest update" = "April 20, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमदष्टोत्तरशतनामावलिः ८"
+---
+Acknowledge-Permission: V. Krishnamurthy profvk.com
+Category: aShTottarashatanAmAvalI, hanumaana, hanuman
+Description-comments: See corresponding hanumadaShTottarashatanAmastotram
+File name: hanumadaShTottarashatanAmAvaliH8.itx
+Indexextra: (Text, stotra Scan)
+Language: Sanskrit
+Latest update: April 20, 2019
+Location: doc_hanumaana
+Proofread by: V. Krishnamurthy profvk at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumadaShTottarashatanAmAvaliH 8
+Transliterated by: V. Krishnamurthy profvk at yahoo.com
+engtitle: hanumadaShTottarashatanAmAvaliH 8
+itxtitle: hanumadaShTottarashatanAmAvaliH 8
+title: हनुमदष्टोत्तरशतनामावलिः ८
 
-+++
+---
   
  श्रीहनुमदष्टोत्तरशतनामावलिः   
 ॐ श्री हनूमते नमः ।  
 ॐ अभूत-पूर्व डिम्भश्रिये नमः ।  
 ॐ अञ्जना-गर्भ-सम्भवाय नमः ।  
-ॐ नभस्वद्-वर-संप्राप्ताय नमः ।  
+ॐ नभस्वद्-वर-सम्प्राप्ताय नमः ।  
 ॐ दीप्त-कालाग्नि-सन्निभाय नमः ।  
 ॐ भून-भोत्तर-भिन्नाद-स्फुरद्-गिरि-गुहामुखाय नमः ।  
 ॐ भानु-बिम्ब-फलोत्साहाय नमः ।  

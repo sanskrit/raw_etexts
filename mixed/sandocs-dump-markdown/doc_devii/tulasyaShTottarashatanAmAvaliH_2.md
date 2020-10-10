@@ -1,22 +1,22 @@
-+++
-"Text title" = "tulasyaShTottarashatanAmAvalI 2"
-"File name" = "tulasyaShTottarashatanAmAvalI.itx"
-itxtitle = "tulasyaShTottarashatanAmAvaliH 2"
-engtitle = "tulasyaShTottarashatanAmAvalI 2"
-Category = "aShTottarashatanAmAvalI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar, PSA Easwaran"
-"Latest update" = "August 28, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलस्यष्टोत्तरशतनामावलिः २"
+---
+Category: aShTottarashatanAmAvalI
+File name: tulasyaShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: August 28, 2017
+Location: doc_devii
+Proofread by: Shree Devi Kumar, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulasyaShTottarashatanAmAvalI 2
+Transliterated by: Shree Devi Kumar
+engtitle: tulasyaShTottarashatanAmAvalI 2
+itxtitle: tulasyaShTottarashatanAmAvaliH 2
+title: तुलस्यष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  श्रीतुलस्यष्टोत्तरशतनामावलिः २   
   

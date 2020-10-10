@@ -1,25 +1,26 @@
-+++
-"Text title" = "Shankaracharya Shatakam by Shivadatta Sharma Chaturveda"
-"File name" = "shankarAchAryashatakam.itx"
-itxtitle = "shaNkarAchAryashatakam (shivadattasharmAchaturvedavirachitam)"
-engtitle = "shankarAchArya shatakam"
-Category = "shankarAchArya, gurudev"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-SubDeity = "gurudev"
-Author = "shrIshivadattasharmAchaturvedaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta at gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta at gmail.com"
-"Description/comments" = "Sarawati Sushma 1986, 87 Shankaracharya 12th Birth Centennary Issue Sampurnanada University"
-Indexextra = "(Scan)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "शण्कराचार्यशतकम् (शिवदत्तशर्माचतुर्वेदविरचितम्)"
+---
+Author: shrIshivadattasharmAchaturvedaH
+Category: shankarAchArya, gurudev
+Description/comments: Sarawati Sushma 1986, 87 Shankaracharya 12th Birth Centennary
+  Issue Sampurnanada University
+File name: shankarAchAryashatakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_z_misc_shankara
+Proofread by: Mandar Mali aryavrutta at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: Shankaracharya Shatakam by Shivadatta Sharma Chaturveda
+Transliterated by: Mandar Mali aryavrutta at gmail.com
+engtitle: shankarAchArya shatakam
+itxtitle: shaNkarAchAryashatakam (shivadattasharmAchaturvedavirachitam)
+title: शण्कराचार्यशतकम् (शिवदत्तशर्माचतुर्वेदविरचितम्)
 
-+++
+---
   
  श्रीशङ्कराचार्यशतकम्   
 श्रीशिवदत्तशर्माचतुर्वेदः  
@@ -78,7 +79,7 @@ title = "शण्कराचार्यशतकम् (शिवदत्त
 मानवजीवनमध्ये समुन्नतं यत् प्रकाम्यं वा ॥ १७॥  
   
 तत्र च गीता दिव्या श्रीकृष्णेनार्जुनाय सन्दिष्टा ।  
-शङ्करभगवत्पादव्याख्यानं संप्रतीक्षमाणाऽऽसीत् ॥ १८॥  
+शङ्करभगवत्पादव्याख्यानं सम्प्रतीक्षमाणाऽऽसीत् ॥ १८॥  
   
 तदुपरि भाष्यविरचना कृता समासीत्तु शङ्कराचार्यैः ।  
 तदवधि गीता गीता जाता सर्वासु जनतासु ॥ १९॥  
@@ -195,7 +196,7 @@ title = "शण्कराचार्यशतकम् (शिवदत्त
 तेषां पराजयानामितिहासे लेखनं चक्रे ॥ ५६॥  
   
 मीमांसकान् विवादे सम्यक् सच्छिष्यतां नीत्वा ।  
-नानाशास्त्रार्थानां जनतायां संप्रवर्तनं चक्रे ॥ ५७॥  
+नानाशास्त्रार्थानां जनतायां सम्प्रवर्तनं चक्रे ॥ ५७॥  
   
 आसेतुराहिमाचलमथाटकात् कटकपर्यन्तम् ।  
 पदभ्यां विचरन् नित्यं जनजनसन्दर्शनं चक्रे ॥ ५८॥  
@@ -212,10 +213,10 @@ title = "शण्कराचार्यशतकम् (शिवदत्त
 स्तोत्राणां या काचिद्दिव्या रचनावलिर्जयति ।  
 तस्या उद्भवसंस्था आचार्यस्तोत्रमालेयम् ॥ ६२॥  
   
-जीवेश्वरयोर्मिलने बिन्दुत्वं संप्रयातानि ।  
+जीवेश्वरयोर्मिलने बिन्दुत्वं सम्प्रयातानि ।  
 स्तोत्राक्षराणि शाश्वतभावैर्नित्यं प्रपूर्णानि ॥ ६३॥  
   
-यत्राऽस्माकं श्रद्धाधाराऽसौ संप्रवहन्नास्ते ।  
+यत्राऽस्माकं श्रद्धाधाराऽसौ सम्प्रवहन्नास्ते ।  
 तत्रैव स्तुतिकाले चेतो नित्यं निबद्धत्तां याति ॥ ६४॥  
   
 अद्वैतदर्शनस्याऽऽविर्भावे यन्मनोलग्नम् ।  
@@ -267,9 +268,9 @@ title = "शण्कराचार्यशतकम् (शिवदत्त
 शान्तिः काऽप्यवतीर्णा समृद्धिमयता समायाता ॥ ८०॥  
   
 वैराग्याविष्कारे नूनं तैर्यन्मनो दत्तम् ।  
-संन्यासआश्रमधारा नवावतारा स्थितिं प्राप ॥ ८१॥  
+सन्न्यासआश्रमधारा नवावतारा स्थितिं प्राप ॥ ८१॥  
   
-दशनाम्नां संन्यासआश्रमनिष्ठानां विभूतिरूपाणाम् ।  
+दशनाम्नां सन्न्यासआश्रमनिष्ठानां विभूतिरूपाणाम् ।  
 आविर्भावे जाते लोको वैराग्यमापेदे ॥ ८२॥  
   
 वैराग्यमयी धारा नतमां साधारणी काचित् ।  
@@ -311,8 +312,8 @@ title = "शण्कराचार्यशतकम् (शिवदत्त
 खण्डनमण्डनसरणिः काऽपि समायोज्यतां नाम ।  
 शङ्करभगवत्पादा नो विस्मरणीयतां यान्ति ॥ ९५॥  
   
-संन्यासैमण्डलानां सर्वस्वं शङ्कराचार्याः ।  
-संन्यासैनां समाजे श्रेष्ठत्वं सर्वसम्मतं चाऽस्ते ॥ ९६॥  
+सन्न्यासैमण्डलानां सर्वस्वं शङ्कराचार्याः ।  
+सन्न्यासैनां समाजे श्रेष्ठत्वं सर्वसम्मतं चाऽस्ते ॥ ९६॥  
   
 ग्रन्थाऽगारे तावद् विलोक्यते ग्रन्थनिचयेषु ।  
 शाङ्करसिद्धान्तानां ग्रन्थानां सा महीयसी सङ्ख्या ९७॥  

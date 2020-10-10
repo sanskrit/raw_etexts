@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shiva Stava by Brahma and Vishnu"
-"File name" = "shivastavaHbrahmaviShNukRRitaH.itx"
-itxtitle = "shivastavaH brahmaviShNukRitaH (mudgalapurANAntargataH)"
-engtitle = "shivastavaH brahmaviShNukRitaH"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 13"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "शिवस्तवः ब्रह्मविष्णुकृइतः (मुद्गलपुराणान्तर्गतः)"
+---
+Category: shiva
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 13
+File name: shivastavaHbrahmaviShNukRRitaH.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shiva Stava by Brahma and Vishnu
+Transliterated by: NA
+engtitle: shivastavaH brahmaviShNukRitaH
+itxtitle: shivastavaH brahmaviShNukRitaH (mudgalapurANAntargataH)
+title: शिवस्तवः ब्रह्मविष्णुकृइतः (मुद्गलपुराणान्तर्गतः)
 
-+++
+---
   
  शिवस्तवः ब्रह्मविष्णुकृतः   
 श्रीगणेशाय नमः ।  

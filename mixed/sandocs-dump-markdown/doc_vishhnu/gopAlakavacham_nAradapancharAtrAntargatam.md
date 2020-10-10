@@ -1,22 +1,23 @@
-+++
-"Text title" = "shrIgopAlakavacham"
-"File name" = "gopAlakavacham.itx"
-itxtitle = "gopAlakavacham (nAradapancharAtrAntargatam)"
-engtitle = "shrIgopAlakavacham"
-Category = "kavacha, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-Source = "nAradapancharAtre jnAnAmRitasAre chaturtharAtre"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपालकवचम् (नारदपञ्चरात्रान्तर्गतम्)"
+---
+Category: kavacha, vishhnu, vishnu
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: gopAlakavacham.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: nAradapancharAtre jnAnAmRitasAre chaturtharAtre
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIgopAlakavacham
+engtitle: shrIgopAlakavacham
+itxtitle: gopAlakavacham (nAradapancharAtrAntargatam)
+title: गोपालकवचम् (नारदपञ्चरात्रान्तर्गतम्)
 
-+++
+---
   
  श्रीगोपालकवचम्   
   

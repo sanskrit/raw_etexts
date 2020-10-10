@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanUmatkRita sItArAmastotra"
-"File name" = "sItArAmastotra.itx"
-itxtitle = "sItArAmastotram"
-engtitle = "sItArAmastotra"
-Category = "raama, stotra, devii, sItA, devI"
-Location = "doc_raama"
-Sublocation = "raama"
-SubDeity = "sItA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "November 14, 2008, August 30, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीतारामस्तोत्रम्"
+---
+Category: raama, stotra, devii, sItA, devI
+File name: sItArAmastotra.itx
+Language: Sanskrit
+Latest update: November 14, 2008, August 30, 2014
+Location: doc_raama
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sItA
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: hanUmatkRita sItArAmastotra
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: sItArAmastotra
+itxtitle: sItArAmastotram
+title: सीतारामस्तोत्रम्
 
-+++
+---
   
  सीतारामस्तोत्र   
   

@@ -3,7 +3,6 @@ title: 032 Seetha sees the illusory head and bow
 title_english: 032 Seetha sees the illusory head and bow
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-032-Seetha_sees_the_illusory_head_and_bow_0.mp3"></div>
 
 सा सीता तच्चिरो दृष्ट्वा तच् च कार्मुकम् उत्तमम् । ।  
@@ -79,7 +78,7 @@ title_english: 032 Seetha sees the illusory head and bow
 अमात्यैः स हितः सर्वैः प्रहस्तस्त्वामुपस्थितः ।  
 तेन दर्शनकामेन अहम् प्रस्थापितः प्रभो ॥ ६-३२-३६  
 मानमस्ति महारा ज राजभावात् क्षमान्वित ।  
-किंचिद् आत्ययिकम् कार्यम् तेषाम् त्वम् दर्शनम् कुरु ॥ ६-३२-३७  
+किञ्चिद् आत्ययिकम् कार्यम् तेषाम् त्वम् दर्शनम् कुरु ॥ ६-३२-३७  
 एतत् श्रुत्वा दशग्रीवो राक्षस प्रतिवेदितम् ।  
 अशोक वनिकाम् त्यक्त्वा मन्त्रिणाम् दर्शनम् ययौ ॥ ६-३२-३८  
 स तु सर्वम् समर्थ्य एव मन्त्रिभिः क्ऱ्त्यम् आत्मनः ।  

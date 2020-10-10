@@ -1,24 +1,24 @@
-+++
-"Text title" = "chatuHshlokI 1"
-"File name" = "chatuHshlokI1.itx"
-itxtitle = "chatuHshlokI 1 (vallabhAchAryavirachitA)"
-engtitle = "chatuHshlokI 1"
-Category = "vishhnu, krishna, puShTimArgIya, vallabhaachaarya, chatuHshlokI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चतुःश्लोकी १ (वल्लभाचार्यविरचिता)"
+---
+Author: vallabhAchArya
+Category: vishhnu, krishna, puShTimArgIya, vallabhaachaarya, chatuHshlokI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: chatuHshlokI1.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: chatuHshlokI 1
+engtitle: chatuHshlokI 1
+itxtitle: chatuHshlokI 1 (vallabhAchAryavirachitA)
+title: चतुःश्लोकी १ (वल्लभाचार्यविरचिता)
 
-+++
+---
   
  चतुःश्लोकी १   
   

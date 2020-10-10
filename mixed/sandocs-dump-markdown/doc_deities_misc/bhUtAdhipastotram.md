@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhUtAdhipastotram"
-"File name" = "bhuutaadhipastotram.itx"
-itxtitle = "bhUtAdhipastotram"
-engtitle = "bhUtAdhipastotram"
-Category = "deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 23, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भूताधिपस्तोत्रम्"
+---
+Category: deities_misc, stotra
+File name: bhuutaadhipastotram.itx
+Language: Sanskrit
+Latest update: April 23, 2008
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: bhUtAdhipastotram
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: bhUtAdhipastotram
+itxtitle: bhUtAdhipastotram
+title: भूताधिपस्तोत्रम्
 
-+++
+---
   
  भूताधिपस्तोत्रम्   
   

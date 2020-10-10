@@ -1,24 +1,25 @@
-+++
-"Text title" = "shrIrAmasahasranAmAvalI 1 shrImadAnandarAmAyaNe"
-"File name" = "rama1000nAmAvalIAnanda.itx"
-itxtitle = "rAmasahasranAmAvaliH 1 (AnandarAmAyaNAntargatam rAmAya shrImate)"
-engtitle = "Ramasahasranamanamavali 1 from Anandaramayana"
-Category = "sahasranAmAvalI, raama, vAlmIki"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Valmiki"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-"Description/comments" = "Derived from stotra in AnandarAmAyaNa rAjyakANDe pUrvArdhe prathamaH sargaH"
-Indexextra = "(book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामसहस्रनामावलिः १ (आनन्दरामायणान्तर्गतम् रामाय श्रीमते)"
+---
+Author: Valmiki
+Category: sahasranAmAvalI, raama, vAlmIki
+Description/comments: Derived from stotra in AnandarAmAyaNa rAjyakANDe pUrvArdhe prathamaH
+  sargaH
+File name: rama1000nAmAvalIAnanda.itx
+Indexextra: (book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_raama
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: shrIrAmasahasranAmAvalI 1 shrImadAnandarAmAyaNe
+Transliterated by: PSA Easwaran psaeaswaran at gmail
+engtitle: Ramasahasranamanamavali 1 from Anandaramayana
+itxtitle: rAmasahasranAmAvaliH 1 (AnandarAmAyaNAntargatam rAmAya shrImate)
+title: रामसहस्रनामावलिः १ (आनन्दरामायणान्तर्गतम् रामाय श्रीमते)
 
-+++
+---
   
  श्रीरामसहस्रनामावलिः श्रीमदानन्दरामायणे   
 ॐ अस्य श्रीरामसहस्रनाममालामन्त्रस्य ।  
@@ -847,7 +848,7 @@ title = "रामसहस्रनामावलिः १ (आनन्द�
 ॐ त्रिलोकेशाय नमः ।  
 ॐ ब्रह्मेशाय नमः ।  
 ॐ प्रीतिवर्धनाय नमः ।  
-ॐ संन्यासिने नमः ।  
+ॐ सन्न्यासिने नमः ।  
 ॐ शास्त्रतत्त्वज्ञाय नमः ।  
 ॐ मन्दिराय नमः ।  
 ॐ गिरिशाय नमः ।  

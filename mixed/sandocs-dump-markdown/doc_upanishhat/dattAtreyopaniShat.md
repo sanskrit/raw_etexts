@@ -1,26 +1,26 @@
-+++
-"Text title" = "Dattatreya Upanishad"
-"File name" = "dattatreya.itx"
-itxtitle = "dattAtreyopaniShat"
-engtitle = "Dattatreya Upanishad"
-Category = "upanishhat, svara, upanishad, dattatreya"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-SubDeity = "dattatreya"
-Texttype = "svara"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "101 / 108; Atharva Veda - Vaishnava upanishad"
-Indexextra = "(NONENONE)"
-"Latest update" = "April,  19, 2000, August 11, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, svara, upanishad, dattatreya
+Description-comments: 101 / 108; Atharva Veda - Vaishnava upanishad
+File name: dattatreya.itx
+Indexextra: (NONENONE)
+Language: Sanskrit
+Latest update: April,  19, 2000, August 11, 2013
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Dattatreya Upanishad
+Texttype: svara
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Dattatreya Upanishad
+itxtitle: dattAtreyopaniShat
+title: दत्तात्रेयोपनिषत्
 
-+++
+---
   
  श्रीदत्तात्रेयोपनिषत्   
 दत्तात्रेयीब्रह्मविद्यासंवेद्यानन्दविग्रहम् ।  

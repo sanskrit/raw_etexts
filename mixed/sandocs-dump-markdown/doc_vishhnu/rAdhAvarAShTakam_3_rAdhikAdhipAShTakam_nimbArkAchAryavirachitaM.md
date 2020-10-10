@@ -1,22 +1,22 @@
-+++
-"Text title" = "Radhavara Ashtakam 3"
-"File name" = "rAdhAvarAShTakam.itx"
-itxtitle = "rAdhAvarAShTakam 3 rAdhikAdhipAShTakam (nimbArkAchAryavirachitaM)"
-engtitle = "rAdhAvarAShTakam 3"
-Category = "vishhnu, aShTaka, radha, nimbArkAchArya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "radha"
-Author = "Nimbarkacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Text)"
-"Latest update" = "January 13, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधावराष्टकम् ३ राधिकाधिपाष्टकम् (निम्बार्काचार्यविरचितं)"
+---
+Author: Nimbarkacharya
+Category: vishhnu, aShTaka, radha, nimbArkAchArya
+File name: rAdhAvarAShTakam.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: January 13, 2019
+Location: doc_vishhnu
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Radhavara Ashtakam 3
+engtitle: rAdhAvarAShTakam 3
+itxtitle: rAdhAvarAShTakam 3 rAdhikAdhipAShTakam (nimbArkAchAryavirachitaM)
+title: राधावराष्टकम् ३ राधिकाधिपाष्टकम् (निम्बार्काचार्यविरचितं)
 
-+++
+---
   
  श्रीराधावराष्टकं   
 चतुर्मुखादिसंस्तुतं समस्तसात्वतानुतम् ।  

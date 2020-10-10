@@ -1,7 +1,8 @@
-+++
-title = "कर्मनिर्णयः"
-unicode_script = "devanagari"
-+++
+---
+title: कर्मनिर्णयः
+unicode_script: devanagari
+
+---
 
 
 ।।श्रीः।।

@@ -1,24 +1,24 @@
-+++
-"Text title" = "adhyAtma rAmAyaNa sundara kANDa"
-"File name" = "adhyaatmaRamsundara.itx"
-itxtitle = "adhyAtmarAmAyaNe 5 sundarakANDam"
-engtitle = "adhyAtmarAmAyaNa sundarakANDa"
-Category = "adhyAtmarAmAyaNa, raama, vyAsa"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "pramukha"
-Author = "Shri Veda Vyas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vishwas underscore bhide at yahoo.com"
-"Proofread by" = "Vishwas Bhide , PSA EASWARAN psaeaswaran at gmail.com"
-Indexextra = "(Hindi)"
-"Latest update" = "July 22, 2006, April 15, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अध्यात्मरामायणे ५ सुन्दरकाण्डम्"
+---
+Author: Shri Veda Vyas
+Category: adhyAtmarAmAyaNa, raama, vyAsa
+File name: adhyaatmaRamsundara.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: July 22, 2006, April 15, 2018
+Location: doc_raama
+Proofread by: Vishwas Bhide , PSA EASWARAN psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: adhyAtma rAmAyaNa sundara kANDa
+Texttype: pramukha
+Transliterated by: Vishwas Bhide vishwas underscore bhide at yahoo.com
+engtitle: adhyAtmarAmAyaNa sundarakANDa
+itxtitle: adhyAtmarAmAyaNe 5 sundarakANDam
+title: अध्यात्मरामायणे ५ सुन्दरकाण्डम्
 
-+++
+---
   
  अध्यात्मरामायणे सुन्दरकाण्डम्   
 ॥ प्रथमः सर्गः ॥  
@@ -691,7 +691,7 @@ title = "अध्यात्मरामायणे ५ सुन्दरक
 निनाय निकटं राज्ञो रावणस्य महाबलः ॥ ९८॥  
   
 यस्य नाम सततं जपन्ति ये-  
-       ऽज्ञानकर्मकृतबंधनं क्षणात् ।  
+       ऽज्ञानकर्मकृतबन्धनं क्षणात् ।  
 सद्य एव परिमुच्य तत्पदं  
        यान्ति कोटिरविभासुरं शिवम् ॥ ९९॥  
   
@@ -981,7 +981,7 @@ title = "अध्यात्मरामायणे ५ सुन्दरक
 हनूमता समेतास्ते जग्मुः प्रस्रवणं गिरिम् ॥ १७॥  
   
 गच्छन्तो ददृशुर्वीरा वनं सुग्रीवरक्षितम् ।  
-मधुसंज्ञं तदा प्राहुरङ्गदं वानरर्षभाः ॥ १८॥  
+मधुसञ्ज्ञं तदा प्राहुरङ्गदं वानरर्षभाः ॥ १८॥  
   
 क्षुधिताः स्मो वयं वीर देह्यनुज्ञां महामते ।  
 भक्षयामः फलान्यद्य पिबामोऽमृतवन्मधु ॥ १९॥  

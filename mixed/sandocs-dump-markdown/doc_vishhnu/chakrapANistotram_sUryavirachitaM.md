@@ -1,23 +1,23 @@
-+++
-"Text title" = "chakrapANistotram"
-"File name" = "chakrapANistotram.itx"
-itxtitle = "chakrapANistotram (sUryavirachitaM)"
-engtitle = "chakrapANistotram"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चक्रपाणिस्तोत्रम् (सूर्यविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: chakrapANistotram.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: chakrapANistotram
+engtitle: chakrapANistotram
+itxtitle: chakrapANistotram (sUryavirachitaM)
+title: चक्रपाणिस्तोत्रम् (सूर्यविरचितं)
 
-+++
+---
   
  श्रीचक्रपाणिस्तोत्रम्   
   

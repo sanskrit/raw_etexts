@@ -1,24 +1,24 @@
-+++
-"Text title" = "sundarakANDarAmAyaNanirNaya"
-"File name" = "sundarakANDarAmAyaNanirNaya.itx"
-itxtitle = "sundarakANDarAmAyaNanirNayaH (madhvACharyavirachitam)"
-engtitle = "Sundarakandaramayananirnaya"
-Category = "hanumaana, stotra, Ananda-tIrtha, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Author = "AnandatIrtha, Madhvacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "September 18, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुन्दरकाण्डरामायणनिर्णयः (मध्वाछर्यविरचितम्)"
+---
+Author: AnandatIrtha, Madhvacharya
+Category: hanumaana, stotra, Ananda-tIrtha, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: sundarakANDarAmAyaNanirNaya.itx
+Language: Sanskrit
+Latest update: September 18, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: sundarakANDarAmAyaNanirNaya
+Texttype: stotra
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: Sundarakandaramayananirnaya
+itxtitle: sundarakANDarAmAyaNanirNayaH (madhvACharyavirachitam)
+title: सुन्दरकाण्डरामायणनिर्णयः (मध्वाछर्यविरचितम्)
 
-+++
+---
   
  सुन्दरकाण्डरामायणनिर्णयः   
 रामाय शाश्वतसुविस्तृतषड्गुणाय  
@@ -89,7 +89,7 @@ title = "सुन्दरकाण्डरामायणनिर्णय�
   
 अथ वनमखिलं तद्रावणस्यावलम्ब्य  
 क्षितिरुहमिममेकं वर्जयित्वाऽऽशु वीरः ।  
-रजनिचरविनाशं कांक्षमाणोऽतिवेलं  
+रजनिचरविनाशं काङ्क्षमाणोऽतिवेलं  
 मुहुरतिरवनादी तोरणं चारुरोह ॥ १७॥  
   
 अथाशृणोद्दशाननः कपीन्द्रचेष्टितं परम् ।  

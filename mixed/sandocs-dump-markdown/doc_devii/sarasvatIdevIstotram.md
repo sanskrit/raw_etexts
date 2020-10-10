@@ -1,23 +1,24 @@
-+++
-"Text title" = "sarasvatIdevIstotram"
-"File name" = "sarasvatIdevIstotram.itx"
-itxtitle = "sarasvatIdevIstotram"
-engtitle = "sarasvatIdevIstotram"
-Category = "devii, sarasvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "Parishishta 15 of Bhairava Padmavati Kalpa, Jain/Gujarati publication, 1993"
-"Latest update" = "April 14, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीदेवीस्तोत्रम्"
+---
+Category: devii, sarasvatI
+Description/comments: Parishishta 15 of Bhairava Padmavati Kalpa, Jain/Gujarati publication,
+  1993
+File name: sarasvatIdevIstotram.itx
+Language: Sanskrit
+Latest update: April 14, 2018
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIdevIstotram
+Transliterated by: DPD
+engtitle: sarasvatIdevIstotram
+itxtitle: sarasvatIdevIstotram
+title: सरस्वतीदेवीस्तोत्रम्
 
-+++
+---
   
  देवीस्तोत्रम्   
   

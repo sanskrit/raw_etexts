@@ -1,24 +1,24 @@
-+++
-"Text title" = "sarasvatIstotram"
-"File name" = "sarasvasto.itx"
-itxtitle = "sarasvatIstotram"
-engtitle = "sarasvatIstotram"
-Category = "devii, sarasvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dhrup Chand"
-"Proofread by" = "Dhrup Chand"
-Description-comments = "General"
-"Latest update" = "1996, January 21, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तोत्रम्"
+---
+Category: devii, sarasvatI, stotra, devI
+Description-comments: General
+File name: sarasvasto.itx
+Language: Sanskrit
+Latest update: 1996, January 21, 2017
+Location: doc_devii
+Proofread by: Dhrup Chand
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIstotram
+Texttype: stotra
+Transliterated by: Dhrup Chand
+engtitle: sarasvatIstotram
+itxtitle: sarasvatIstotram
+title: सरस्वतीस्तोत्रम्
 
-+++
+---
   
  श्रीसरस्वतीस्तोत्रम्   
   

@@ -1,20 +1,20 @@
-+++
-"Text title" = "maargabandhu stotra"
-"File name" = "maargabandhu.itx"
-itxtitle = "mArgabandhustotram sArtha (appayyadIkShitendraiH viracitam)"
-engtitle = "mArgabandhustotram by Appaya Dixita"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-"Latest update" = "May 8, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मार्गबन्धुस्तोत्रम् सार्थ (अप्पय्यदीक्षितेन्द्रैः विरचितम्)"
+---
+Category: shiva
+File name: maargabandhu.itx
+Language: Sanskrit
+Latest update: May 8, 2004
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: maargabandhu stotra
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+engtitle: mArgabandhustotram by Appaya Dixita
+itxtitle: mArgabandhustotram sArtha (appayyadIkShitendraiH viracitam)
+title: मार्गबन्धुस्तोत्रम् सार्थ (अप्पय्यदीक्षितेन्द्रैः विरचितम्)
 
-+++
+---
   
  मार्गबन्धुस्तोत्रम् अप्पय्यदीक्षितेन्द्रैः विरचितम्   
   
@@ -88,7 +88,7 @@ brother), a great scholar and poet in his own right.
 मार्गः = a way, road, path; बन्धुः = relative or any one  
 associated, well wisher. So the word मार्गबन्धुः means one who  
 comes along with you giving company and protection स्तोत्रम् Stotram  
-is a hymn praising the Lord गुणसंकीर्तनात्मकं  
+is a hymn praising the Lord गुणसङ्कीर्तनात्मकं  
 स्तोत्रम् (VS681) It talks about His qualities.  
   
 Stotram: At this point it is relevant to say a few words about stotram. Our  
@@ -179,9 +179,9 @@ verses confessing the feelings of inadequacy even in the compositions
 of great acharyas like Shri Shankara and Shri Vedanta Desika .  
   
 Now let us go to the Margabhandhu Stotram proper .  
-      शंभो महादेव देव शिव  
-      शंभो महादेव देवीश शंभो -  
-      शंभो महादेव देव ॥   
+      शम्भो महादेव देव शिव  
+      शम्भो महादेव देवीश शम्भो -  
+      शम्भो महादेव देव ॥   
 The stotram begins with the recitation of the holy names of the Lord.  
 The recitation of the Lord's names purifies the mind,  
 makes it calm and fit for any serious undertaking. So they are  
@@ -205,7 +205,7 @@ this case the composing of the hymn. Happily these
 names may be taken to apply to both to Shiva and Vishnu. They may be  
 seen in the sahasranamams of both Shiva and Vishnu.  
   
-SHAMBHU शम्भुः । शं सुख़ं भावयतीति शंभुः (SS-74:    
+SHAMBHU शम्भुः । शं सुख़ं भावयतीति शम्भुः (SS-74:    
 VS-38) He blesses his devotees with happiness and prosperity शं  
 = happiness, prosperity. All being go through the repeated cycle of  
 birth and death. They experience varities of sufferings during each  
@@ -238,7 +238,7 @@ called samsara महादेव महादेव महादेवेत्
 संसारसर्प-दष्टानां दिव्यौषधमनुत्तमम्।   
   
 DEVA देवः - स्वामिपर्यायो देवशब्दः, नरदेव इतिवत्।  
-अकुंचितस्वामित्वं च शिवस्यैव The word deva indicates  
+अकुञ्चितस्वामित्वं च शिवस्यैव The word deva indicates  
 lordship. His lordship is unrestricted दिव्यतेर्देवः (SA93)  
 He is effulgent. Krishna says '' I am the splendour of those who  
 possess splendour,'' तेजस्तेजस्विनामहम् BG(10-36)  
@@ -290,13 +290,13 @@ from these is pure. Patanjali sums up all this in his Yogadarsana
 स्मृतिमात्रेण पावयन् शिवः He removes the sins of those who  
 just think of His name. DakShayani says this to her father  
 DakSha यद्व्यक्षरं नाम गिरेरितं नृणां सकृत्  
-प्रसंगादघमाशु हन्ति The celebrated two syllables SIVA  
+प्रसङ्गादघमाशु हन्ति The celebrated two syllables SIVA  
 uttered with the tongue even once and that too casually, immediately  
 wipes off the sins of those (who utter them).(BH 4.4.13)  
 Shivarahasya says this about the sanctity of Lord Shiva's names:    
   
 सर्वाणि शिवनामानि मोक्षदान्येव सर्वदा  ।  
-तेष्वप्यत्युत्तमं नाम शिवेति ब्रह्मसंज्ञितम्। All the  
+तेष्वप्यत्युत्तमं नाम शिवेति ब्रह्मसञ्ज्ञितम्। All the  
 names of Shiva give mokSha no doubt. But amongst them the name  
 Shiva is the best and denominates brahman. The  
 name Shiva is considered as the best among the Lord's names .  
@@ -337,7 +337,7 @@ brahman whose nature is existence, wisdom and bliss .
       १. फालावनम्रत्किरीटं फालनेत्रार्चिषा दग्धपञ्चेषुकीटम्  ।  
       शूलाहतारातिकूटं, शुद्धमर्धेन्दुचूडं भजे मार्गबन्धुम्॥  
   
-      शंभो ...  
+      शम्भो ...  
 फालः - forehead; अवनम्र - descended or come down;  
 किरीटं - crown: indicates that Lord Shiva wears a crown on the  
 head किरीटी - किरीटमस्यास्तीति किरीटी (SS782). The crown implies  
@@ -374,12 +374,12 @@ worm, insect पञ्चेषुः is the name  Manmatha, the god of
 love, because he has five arrows: they are अरविन्दं, अशोकं,  
 चूतं, नवमल्लिका and नीलोत्पलम्(lotus, ashoka, mango,  
 jasmine and blue lotus). The five arrows are also said to be  
-संमोहनः , उन्मादनः, शोषणः, तापनः and   
+सम्मोहनः , उन्मादनः, शोषणः, तापनः and   
 स्तम्भनः They are fascination, intoxication or extravagance of  
 love, emaciation, suffering pain and benumbing or stupifying  
 respectively. Kalidasa vividly narrates the story connected with Shiva  
 destroying the god of love in his mastepiece Kumarasambhavam.  
-Manmatha shot his arrow संमोहनं at Shiva who was deep in  
+Manmatha shot his arrow सम्मोहनं at Shiva who was deep in  
 meditation. He wanted to seduce Shiva's mind and make Him fall in love  
 with Parvati who was attending on Him, but failed in his attempt.  
 Shiva could sense that something was amiss and looked about. He saw  
@@ -557,7 +557,7 @@ three gunas (traits). Shiva holding it in His hand shows He is in
 contol of maya of which they are the constituents.  
   
 शुद्धं = कालत्रयेऽपि परमार्थतः मायाऽविद्यादि  
-संबन्धरहितः शुद्धः । शुद्धमपापविद्धं इति  
+सम्बन्धरहितः शुद्धः । शुद्धमपापविद्धं इति  
 श्रुतिः (SS310) Forever He is free from maya (the illusion by which  
 one considers the unreal universe as really existent and as distinct  
 from the Supreme Spirit) and spiritual ignorance. This is made  
@@ -577,7 +577,7 @@ cover the moon. This implies that Shiva's lordship
 over the universe - His omnipotence - does not veil His wisdom. The  
 shining moon announces to the world that one who  
 yearns for knowledge should come to Him. Shankaracharya says in his  
-Prasnottara ratnamalika को हि जगद्गुरुरुरुक्तः? शंभुः,  
+Prasnottara ratnamalika को हि जगद्गुरुरुरुक्तः? शम्भुः,  
 ज्ञानं कुतः? शिवादेव। Who is the universal teacher? Shambu.  
 From where  can one get wisdom? From Shiva only. So we have the saying  
 ज्ञानमिच्छेत् महेश्वरात् '' One should pray to Maheswara  
@@ -592,11 +592,11 @@ wears the moon on His head as an onament.
   
       २. अङ्गे विराजद्भुजङ्गं  
       अभ्रगङ्गातरङ्गाभिरामोत्तमाङ्गं  
-      ओंकारवाटीकुरङ्गं सिद्धसंसेविताङ्घ्रिं  
-      भजे मार्गबन्धुम् । शंभो ...  
+      ओङ्कारवाटीकुरङ्गं सिद्धसंसेविताङ्घ्रिं  
+      भजे मार्गबन्धुम् । शम्भो ...  
 अङ्गे विराजद्भुजङ्गं   -  
-अंगं = limb; may mean hand, or leg; विराजत् = shining or  
-appearing prominently; भुजंगः = serpent, snake;  
+अङ्गं = limb; may mean hand, or leg; विराजत् = shining or  
+appearing prominently; भुजङ्गः = serpent, snake;  
 Lord Shiva is decked with snakes सर्पभूषः - सर्पाः भुजगाः  
 भूषाः भूषणानि यस्य सः सर्पभूषः (SS43) His other names  
 are सर्पहारः: सर्पाः नागाः, ते हाराः यस्य सः (SS494)  
@@ -642,7 +642,7 @@ subject to destruction or anything that causes destruction.
 अमृत्युः । मृत्युर्विनाशः तद्धेतुर्वास्य न विद्यते इति  
 अमृत्युः VS(198). In fact it is He - the seer and all knowing  who had created the gods (including Yama) and assigned to them their  
 duties says Isavasyopanishad.  
-कविर्मनीषी परिभूः स्वयंभूः  
+कविर्मनीषी परिभूः स्वयम्भूः  
 यथातथ्यतोऽर्थान्व्यदधाच्छाश्वतीभ्यः समाभ्यः   
 So the snakes, representing kala or death, cannot harm Him but He  
 wears them implying He uses Death for His services.  
@@ -659,9 +659,9 @@ Markandeya. The name also indicates that He is the supreme Lord who
 withdraws everything , the entire creation, including the god of  
 death into Himself at the time of dissoluton  
 and releases them again at the beginning of the next cycle of  
-creation. His other names are मृत्युंजयः - मृत्युः मरणं  
+creation. His other names are मृत्युञ्जयः - मृत्युः मरणं  
 स्वभक्तानां मृत्युं जयति, स्वोपासनादिना परिहरति इति  
-मृत्युंजयः SS(123), SA(71). He removes or avoids the death of  
+मृत्युञ्जयः SS(123), SA(71). He removes or avoids the death of  
 His devotees. The sage Markandeya confidently sings  
 चन्द्रशेखरमाश्रये मम किं करिष्यति वै यमः ``I  
 take refuge in Lord Shiva . What harm can Yama do to me?'' This is  
@@ -753,7 +753,7 @@ The problem, according to our shastras is, that everyone of us had
 taken countless number of births, done karmas in these  
 births and accumulated vast amounts of the karmas. This accumulated  
 store waiting to bear fruit  
-is called संचितं कर्मा sanchitam karma.  
+is called सञ्चितं कर्मा sanchitam karma.  
 In addition we continue to do karma in this life  
 also and add to the stock of sanchitam karma thus necessi tating more and more births. Out of this vast stock a chunk begins to  
 yield the results. This chunk is called प्रारब्धम् prarabdham.  
@@ -763,7 +763,7 @@ and the mode of death even as one is born आयुः कर्म च वि�
 च विद्या निधनमेव च। पञ्चैतानि विविच्यन्ते जायमानस्य  
 देहिनः । We have to infer the impressions of the past deeds only  
 when we are confronted with the results. Kalidasa says this  in  
-Raghuvamsa (1.20) फलानुमेयाः प्रारंभाः संस्काराः  
+Raghuvamsa (1.20) फलानुमेयाः प्रारम्भाः संस्काराः  
 प्राक्तना इव   
   
 2 - What is wrong with rebirth or why rebirth is to be avoided?  
@@ -794,7 +794,7 @@ is impermanent. This includes our bodies, our relations, friends and
 possessions. The question then is how can one feel happy when thrown  
 into such a situation? Time is constantly gnawing at our life  
 quietly. Bhartruhari says life is oozing away like water leaking from  
-a pot with a crack आयुः परिस्रवति भिन्नघटादिवांभः   
+a pot with a crack आयुः परिस्रवति भिन्नघटादिवाम्भः   
 Death is imminent and can strike anyone at any time. This being the  
 case, Krishna asks ``how can one find pleasure in wealth or  
 enjoyment? It cannot please him, who like an animal, is being dragged  
@@ -863,13 +863,13 @@ like Gita, Upanishads and puranas like Shri Bhagavatam and is
 beyond the scope of this essay and so is not attempted. One has to  
 learn it from a qualified teacher.  
   
-अभ्रगंगातरंगाभिरामोत्तमांङ्गं   -   
-अभ्रं = sky; गंगा = the river Ganges. So the word  
-अभ्रगंंगा means the heavenly river Ganges; तरंगः = wave;  
+अभ्रगङ्गातरङ्गाभिरामोत्तमाङ्ङ्गं   -   
+अभ्रं = sky; गङ्गा = the river Ganges. So the word  
+अभ्रगंङ्गा means the heavenly river Ganges; तरङ्गः = wave;  
 अभिरामः = pleasing, charming; उत्तम = best; The  
-word उत्तमांगं indicates the best limb in the body viz. the  
+word उत्तमाङ्गं indicates the best limb in the body viz. the  
 head; This says that Shiva looks charming with the waves of the divine  
-river Ganges on His head गंगाधरः - धरतीति धरः ।  
+river Ganges on His head गङ्गाधरः - धरतीति धरः ।  
 गङ्गायाः धरः इति गङ्गाधरः (SS146) and SA(27). Also  
 धूर्जटिः - धूः गङ्गा जटासु यस्य सः धूर्जटिः । नमः  
 कपर्दिने इति श्रुतिः (SS286)जटार्द्रः - जटसु  
@@ -882,7 +882,7 @@ all. When He lifted up His foot to measure the heavens,
 Brahma the creator, seized the rare opportunity and washed the holy  
 foot of the Lord that has come his way with water from  
 his water pot. The waters became the holy river Ganga.   
-धातुः कमंडलुजलं तदुरुक्रमस्य पादावनेजन-पवित्रतया नरेन्द्र ।  
+धातुः कमण्डलुजलं तदुरुक्रमस्य पादावनेजन-पवित्रतया नरेन्द्र ।  
 स्वर्धुन्यभून्नभसि सा पतती निमार्ष्टि लोकत्रयं भगवतो  
 विशदेव कीर्तिः । BH(8.21.4)  
 The story of the descent of Ganga to earth is also familiar. It is  
@@ -936,7 +936,7 @@ powers of Brahma, Vishnu and Shiva is stated symbolically in the story
 of Ganga.    
 आदावादिपितामहस्य नियमव्यापारपात्रे जलं,  
 पश्चात् पत्रगशायिनो भगवतः पादोदकं पावनम् ।  
-भूयः शंभु जटा विभूषणमणिर्जह्नोर्महर्षेरियं,  
+भूयः शम्भु जटा विभूषणमणिर्जह्नोर्महर्षेरियं,  
 कन्या कल्मषनाशिनी भगवती भागीरथी भूतले।   
 This says that ``you Ganga started as water in the water pot of  
 Brahma, then came into contact with the foot of Vishnu and  
@@ -1043,11 +1043,11 @@ The Ganga was named after him as Bhagirathi. This
 was the case with Dhruva, who wanted to be a king but he got that and  
 also a permanent place in the heavens.  
   
-ओंकारवाटीकुरङ्गं -   
-ओंकार = the holy syllable OM; वाटी = garden, park;   
-कुरंगः = deer; Shiva is likened to a deer in the garden of the  
+ओङ्कारवाटीकुरङ्गं -   
+ओङ्कार = the holy syllable OM; वाटी = garden, park;   
+कुरङ्गः = deer; Shiva is likened to a deer in the garden of the  
 holy syllable - meaning He is represented by OM also known as pranava.  
-ओंकाररूपः - ओंकारः रूपं स्वरूपं यस्य सः  
+ओङ्काररूपः - ओङ्कारः रूपं स्वरूपं यस्य सः  
 तथा(SS138)  Shri Krishna says in His Gita (10-25) ``I am OM  
 among the words.'' गिरामस्म्येकमक्षरम् Manu, the famous  
 law giver, says that the letter OM by itself represents the ultimate  
@@ -1057,14 +1057,14 @@ and so the syllable Om is the essence of the vedas
 अकारं चाप्युकारं च मकारं च प्रजापतिः ।  
 वेदत्रयान्निरदुहद् भूर्भुवः स्वरितीति च   
 A similar reference is seen in Chandogyopanishad (2.23.3)   
-तान्यभ्यतपत्तेभ्योऽभितप्तेभ्य ॐकारः संप्रास्रवत्त्द्यथा  
+तान्यभ्यतपत्तेभ्योऽभितप्तेभ्य ॐकारः सम्प्रास्रवत्त्द्यथा  
 Shri Bhagavatam says that sound OM was acquired spontaneously by  
 Brahma - the first born when he was in deep meditation. BH(12.6.44 and 39) . It says that the origin of the sound  
 consisting of three parts is unmanifest. It flashes by itself and it  
 reveals the nature of the  almighty and supreme spirit.   
 समाहितात्मनो ब्रह्मन् ब्रह्मणः परमेष्ठिनः  ।  
 हृद्याकाशादभून्नादो वृत्तिरोधाद् विभाव्यते। ।  
-ततोऽभूत् त्रिवृदोंकारो योऽव्यक्तप्रभवः स्वराट्  ।  
+ततोऽभूत् त्रिवृदोङ्कारो योऽव्यक्तप्रभवः स्वराट्  ।  
 यत् तल्लिङ्गं भगवतो ब्रह्मणः परमात्मनः ।   
   
 Manu says further that a student (during his gurukula days when he  
@@ -1106,7 +1106,7 @@ letters is pronounced and constitutes the ``sound'' part.
 The upanishad says that the brief interlude that preceeds and  
 succeeds this ``sound'' part forms the ``silent'' component - the fourth letter  
 अमात्रश्चतुर्थो ऽव्यवहार्यः प्रपञ्चोपशमः शिवो ऽद्वैत  
-एवमोंकार आत्मैव संविशत्यात्मानं, य एवं वेद, य  
+एवमोङ्कार आत्मैव संविशत्यात्मानं, य एवं वेद, य  
 एवं वेद(Mandukya 12)  
 They represent the two aspects of God (viz.) with form and without  
 form respectively. The ``sound'' part signifies the saguna  
@@ -1116,7 +1116,7 @@ about whom we do not have firsthand knowledge but learnt
 from scriptures or  from some other source in the idol or some other  
 form of representation and worship. The representa tion is known as pratikam प्रतीकम्. Meditating on the fourth or  
 the silent part as ``I the Self'' is known as  
-Ahamgrahadhyanam अहंग्रहध्यानम् One who meditates like  
+Ahamgrahadhyanam अहङ्ग्रहध्यानम् One who meditates like  
 this is called a muni मननात् मुनिरुच्यते In this type of  
 meditation there is no difference between the meditator and Iswara or  
 the object of meditation. As a result of this meditation the muni is  
@@ -1143,9 +1143,9 @@ quietly watching it. Here one of the birds represents the Jivatma.
 Eating the fruits is enjoying the results of the past karma and  
 the other bird which looks on is the Paramatma as He is not attached  
 to the fruits of action. Similarly Devi is described as  
-ओंकारपञ्जरशुकी a female parrot in the cage called OM in  
+ओङ्कारपञ्जरशुकी a female parrot in the cage called OM in  
 the Devi Navaratnamala. The saint composer Thiagaraja of Tiruvaiyaru  
-addresses Rama as ओंकारपञ्जरकीर a parrot in the cage  
+addresses Rama as ओङ्कारपञ्जरकीर a parrot in the cage  
 called OM in his famous song beginning Jagadanandakaraka. Similarly  
 the saint composer SadasivaBrahmam talks of Krishna as  
 प्रणवपयोरुहगर्भकपाली one who is hidden inside the lotus of pranava (in his song kridathi  
@@ -1154,7 +1154,7 @@ vanamali क्रीडति वनमाली )
 सिद्धसंसेविताङ्घ्रिं   -   
 सिद्धः = a superhuman being of great purity and holiness  
 possessing eight supernatural powers called siddhis. Can also be  
-taken to mean a great sage संसेवित = worshipped; अंघ्रि = foot  
+taken to mean a great sage संसेवित = worshipped; अङ्घ्रि = foot  
 He is worshipped by great sages and other semidivine beings  
 endowed with supernatural powers महर्षिवन्दितः - महर्षिभिः  
 वामदेवादिभिः हरभक्तादिभिश्च ज्ञानार्तं वन्दितः ।  
@@ -1195,7 +1195,7 @@ Sankaracharya says this in his Shiva mAnasa puja
 आत्मा त्वं गिरिजा मतिः सहचराः प्राणाः शरीरं गृहं  
 पूजा ते विषयोपभोगरचना निद्रा समाधिस्थ्तितिः  ।  
 सञ्चारः पदयोः प्रदक्षिणविधिः स्तोत्राणि सर्वा गिरः  
-यद्यत्कर्म करोमि तत्तदकिलं शंभो तवाराधनम्।   
+यद्यत्कर्म करोमि तत्तदकिलं शम्भो तवाराधनम्।   
   
 Since the siddha has identified with Ishwara he is detached from his  
 body. He knows that he got his body because of prarabdham and it will continue to hang on as appendage as long as the the  
@@ -1228,7 +1228,7 @@ whose feet are served by siddhas (great seers).
       ३. नित्यम् चिदानन्दरूपं   
       निह्नुताशेषलोकेशवैरिप्रतापं   
       कार्तस्वरागेन्द्रचापं कृत्तिवासं   
-      भजे दिव्यसन्मार्गबन्धुम्। शंभो   
+      भजे दिव्यसन्मार्गबन्धुम्। शम्भो   
 This verse is the third among the five verses that make up the  
 stotram. Thus it forms the centre-piece and is loaded with precious  
 vedantic truths. It was said earlier that a stotram  will describe the  
@@ -1291,7 +1291,7 @@ He says that God is of the form of eternal consciousness unlimited by
 spatial direction, time etc दिशः   
 प्राच्यादिदिक्प्रदेशाः,  
 काला  भूतभविष्यद्वर्तमानरूपा,   
-आदिशब्दसंगृहीतानि  
+आदिशब्दसङ्गृहीतानि  
 वस्तूनि तथा च दिक्काला आदयो येषां तानि दिक्कालानि।   
 तैरनवच्छिन्नापरिकॣप्ता। विभुत्वान्नित्यत्वादेकत्वाच्च  
 देशतः कालतो  
@@ -1336,13 +1336,13 @@ limited. The Brihadaranyopanishad says that any ananda experienced by
 any being is just a droplet derived from the bliss that is Brahman  
 एतस्यैवानन्दस्य अन्यानि भूतानि मात्रामुपजीवन्ति(4.3.32)  
 Incidentally this is one of the names of Shri Lalita. (LS365)  
-स्वात्मानन्दलवीभूत ब्रह्माद्यानन्दसंततिः । The commentator  
+स्वात्मानन्दलवीभूत ब्रह्माद्यानन्दसन्ततिः । The commentator  
 Bhaskararaya explains this name referring to these quotations  
 only. He says स्वस्या आत्मरूपो य   
 आनन्दस्य लवीभूता इन्द्राद्यानन्दबिन्दुपर्यालोचनया सागरायमाणत्वेनालवा  
-अपि  देव्यानन्दसागरस्य लवाः संपद्यमानाः ब्रह्मादीनां  
+अपि  देव्यानन्दसागरस्य लवाः सम्पद्यमानाः ब्रह्मादीनां  
 सृष्टिकर्तृत्वादिधर्मविशिष्टानां ब्रह्मविष्णुरुद्राणामानन्दानां  
-संततयः संयक्समूहा यस्याः सा। ᳚ एतस्यैवानन्दस्यान्यानिभूतानि   
+सन्ततयः संयक्समूहा यस्याः सा। ᳚ एतस्यैवानन्दस्यान्यानिभूतानि   
 मात्रामुपजीवन्ती᳚ ति श्रुतेः । तैत्तिरीये मानुषानन्दमारभ्य  
 उत्तरोत्तराधिक्येनवर्ण्यमानानामानन्दानां  मध्ये परिगणितानां   
 प्रजापत्याद्यानन्दानानामपि परिच्छिन्नत्वेन   
@@ -1435,11 +1435,11 @@ them and destroyed the three cities just with a smile. When the asuras
 repented Shiva forgave them and took them into His service. This deed of  
 Shiva is often referred to in hymns क्षोणी यस्य रथो रथाङ्गयुगळं  
 चन्द्रार्क-बिम्बद्वयं  
-कोदंडः कनकाचलो हरिरभूत् बाणो  
+कोदण्डः कनकाचलो हरिरभूत् बाणो  
 विधिः सारथिः ।  
 तूणीरो जलधि-र्हयाः श्रुतिचयो मौर्वी  
 भुजङ्गाधिपः  
-तस्मिन् मे हृदयं सुखेन रमतां शांभे  
+तस्मिन् मे हृदयं सुखेन रमतां शाम्भे  
 परब्रह्मणि।   
   
 So He gets the following names पुरन्दरः । सुरशत्रूणां पुराणां  
@@ -1469,7 +1469,7 @@ enemies of the gods पुरत्रयविघाती। पुरत्�
 उक्तं च शिवरहस्ये- रथः क्षोणी  
 यन्ता शतधृतिरगेन्द्रो धनुरथो  
 रथाङ्गेचन्द्रार्कौ रथचरणपाणिः शर इति ।  
-दिधक्षोस्ते कोऽयं त्रिपुरतृणमाडंबरविधि-  
+दिधक्षोस्ते कोऽयं त्रिपुरतृणमाडम्बरविधि-  
 र्विधेयैः क्रीडन्तो न खलु परतन्त्राः प्रभुधियः ॥  
   
 इति   
@@ -1636,7 +1636,7 @@ nature as atma.
 Shiva's names relating to Tripura are त्रिपुरान्तकः । त्रीणि पुराणि  
 त्रिपुराणि, त्रिपुराणां  
 अन्तकः त्रिपुरान्तकः ।त्रीणि पुराणि  
-शरीराणि,  ᳚पुरसंज्ञे   
+शरीराणि,  ᳚पुरसञ्ज्ञे   
 शरीरेऽस्मिञ्शयनात्पुरोषो हरिः᳚  
 इति विष्णुपुराणवचनात्।तानि च स्थूल-सूक्ष्म-कारणात्मकानि-  
 स्थूलं भौतिकमेव, सूक्ष्मं लिङ्गशरीरं, कारणं   
@@ -1715,7 +1715,7 @@ the following names.  व्याघ्रचर्माम्बरः । �
 आजगाम नखायुधः । तेषामृषीणां  
 मर्मस्थः कोपोऽयं निर्गतो यथा॥   
 तं    चादाय  
-त्वचं भित्वा तदा चर्मांबरोऽभवत्। शुशुभे चर्मणा  
+त्वचं भित्वा तदा चर्माम्बरोऽभवत्। शुशुभे चर्मणा  
 तेन  
 नानावर्णयुतेन च᳚  इति ।  
 अथवा काश्यां  
@@ -1787,7 +1787,7 @@ around the corner when this drops. So one should not get attached to
 it but be ready to leave it without regret when the prescribed hour  
 comes. Instead, one should  use one's lifetime to gain discrimination  
 and not chase the shadows. The avadhuta sage tells this to king Yadu  
-लब्ध्वा सुदुर्लभमिदं बहुसंभ्वान्ते मानुष्यमर्थदमनित्यमपीह  
+लब्ध्वा सुदुर्लभमिदं बहुसम्भ्वान्ते मानुष्यमर्थदमनित्यमपीह  
 धीरः ।  
 तूर्णं यतेत न पतेदनुमृत्यु यावन्निःश्रेयसाय  
 विषयः खलु सर्वतः स्यात्। BH(11-9-290).  The human body is  
@@ -1833,7 +1833,7 @@ they might have lived. So Shiva has the following names भेषजम्-
 तारः ।गर्भजन्मजरामृत्युलक्षणाद् भयात्तारयतीति तारः ।   
 VS(338)तारः । गर्भजन्मजरामरणसंसारमहाभयात्तारयतीति  
 तारः ।᳚नमस्ताराय   
-नमः शंभवे चे᳚ति श्रुतिः । SS(76)  
+नमः शम्भवे चे᳚ति श्रुतिः । SS(76)  
 भजे दिव्यसन्मार्गबन्धुम्।  दिव्य = divine सन्मार्गबन्धुम् = a  
 companion to one who treads the righteous path भजे = I  
 worship; means I worship the lord who is a companion to one who takes  
@@ -1957,9 +1957,9 @@ spiritual path leading to liberation.
       ४. कन्दर्पदर्पघ्नमीशं   
       कालकण्ठं महेशं महाव्योमकेशं   
       कुन्दाभदन्तं सुरेशं कोटिसूर्यप्रकाशं   
-      भजे मार्गबन्धुम्। शंभो . . .    
+      भजे मार्गबन्धुम्। शम्भो . . .    
       कन्दर्पदर्पघ्नम् -  
-कंदर्पः = Manmatha, the god of love दर्पः = arrogance,  
+कन्दर्पः = Manmatha, the god of love दर्पः = arrogance,  
 pride, vanity घ्न = used at the end of a word means destroying,  
 removing or curing.  So दर्पघ्नं means one who removed or cured  
 the pride.  Shiva cured or removed the pride of Manmatha, the god of  
@@ -1989,7 +1989,7 @@ beautiful than anyone else
 Saints and devotees have lost themselves in singing about the beauty  
 of the lord. Let us savour some samples.  
 This description of Shiva is from Navaratnamala by the saint Shri  
-Sadasivabrahmendra कंदर्पकोटिशतगुणसुन्दरदिव्याकृतिं  
+Sadasivabrahmendra कन्दर्पकोटिशतगुणसुन्दरदिव्याकृतिं  
 शिवं वन्दे Shiva's divine form is millions of times more  
 beautiful than that of Manmatha.  
 Likewise the saint Shri Narayana Tirta in his Krishna Leelatarangini  
@@ -2106,8 +2106,8 @@ The following names of Shiva are based on this incident.
 समुद्रमथनं, तदानीं वासुकिमुखात्कालविषोत्पादनं, तेन  
 ग्लानिः, तदनु तैर्विषनिग्रहार्तं शिवं प्रति प्रार्थना,  
 तदनु शिवप्रेरीतेन---नाम्ना हस्तेन विषमाहृत्य च  
-शिवहस्ते जंबूफलवत्समर्पणं, तदनु- ᳚गृहीत्वा  
-भुक्तवाञ्छंभुः कण्ठे नीलोऽभवत्तदा।  
+शिवहस्ते जम्बूफलवत्समर्पणं, तदनु- ᳚गृहीत्वा  
+भुक्तवाञ्छम्भुः कण्ठे नीलोऽभवत्तदा।  
 तदाप्रभृति तत्स्थानं हालाशनमिति स्मृतम्।  
 शिवोऽभूत्कालभुङ्नाम्ना कालक्ण्ठाख्यकोऽभवदि᳚ति।   
 SS(203).  
@@ -2115,7 +2115,7 @@ The story of churning of the ocean is mentioned in the puranas. It
 appears in 8th book of Shrimad Bhagavatam. Some verses from this are  
 given for reference   
 निर्मथ्यमानादुदधेरभूद् विषं महोल्बणं  
-हालाहलाह्वमग्रतः ।संभ्रान्तमीनोन्मकराहिकच्छपात्  
+हालाहलाह्वमग्रतः ।सम्भ्रान्तमीनोन्मकराहिकच्छपात्  
 तिमिद्विपग्राहतिमिङ्गिलाकुलात्।  
 तमुग्रवेगं दिशि दिश्युपर्यधो विसर्पदुत्सर्पदसह्यमप्रति।  
 भीताः प्रजा दुद्रुवुरङ्ग सेश्वरा अरक्ष्यमाणाः शरणं  
@@ -2147,7 +2147,7 @@ the churning of the ocean of milk.''
 concerned about their lives. To protect the afflicted is the main  
 concern of the great (who is endowed with power).'' Saying this  
 Shiva swallowed the poison He had gathered in His hand   
-निशम्य कर्म तच्छंभोः देवदेवस्य मीढुषः । प्रजा दक्षायणी  
+निशम्य कर्म तच्छम्भोः देवदेवस्य मीढुषः । प्रजा दक्षायणी  
 ब्रह्मा वैकुण्ठश्च शशंसिरे।   
 Observing the benevolent act of Lord Shiva those who approached Him,  
 Sati, Brahma and Lord Vishnu praised it.  
@@ -2167,12 +2167,12 @@ great ईशः is synonymous with ईश्वरः and means lord or
 master महेशः is the name of Shiva महांश्चासावीशश्च  
 महेशः । ᳚यः परः स महेश्वरः᳚ इति  
 श्रुतिः । SS(26)महेश्वरः -  
-स्वर्गादियत्किंचिदीशितृत्वयोगादीश्वरत्वं हि  
+स्वर्गादियत्किञ्चिदीशितृत्वयोगादीश्वरत्वं हि  
 इन्द्रादीनमप्यस्ति; यदादाय षड्विंशब्राह्मणे उत्पातशान्ति  
 प्रकरणे इन्द्रयमादिषु ᳚ईश्वराय स्वाहा᳚ इति मन्त्रः  
 प्रवृत्तः; शिवस्तु महेश्वरः तेषामपीश्वरत्वात्,  
-᳚ध्येयः सर्वैश्वर्यसंपन्नः सर्वेश्वरः  
-शंभुराकाशमध्ये᳚ इति श्रुतेः; ᳚सेन्द्रादिषु च  
+᳚ध्येयः सर्वैश्वर्यसम्पन्नः सर्वेश्वरः  
+शम्भुराकाशमध्ये᳚ इति श्रुतेः; ᳚सेन्द्रादिषु च  
 देवेषु तस्य त्वैश्वर्यमुच्यते᳚ इति भारतवचनाच्च।  
 एतदभिप्रायमेव च  
 ᳚महेश्वरश्च भूतानां महतामीश्वरश्च सः᳚ इति  
@@ -2231,7 +2231,7 @@ our body. Briefly stated this says that there is a small space within
 the heart in the body in which one can visualise brahman and get all  
 his desires fulfilled. The upanishad says that this is because the  
 space that is inside the heart encompasses all that is there outside.  
-कुन्दाभदन्तम् - कुंदम् = jasmine flower आभः = likeness,  
+कुन्दाभदन्तम् - कुन्दम् = jasmine flower आभः = likeness,  
 resemblance दन्तः  tooth. Shiva's teeth are white and  
 have the luster or the soft glow like the jasmine flower. They are  
 uniform and packed closely like the petals of a jasmine flower. They  
@@ -2267,7 +2267,7 @@ given here. Shri Narayana Theertha addresses Krishna as
 कुन्दरदन and कुन्दसुन्दररदन in his Krishna Leela  
 Tarangini. (रदः = tooth.) This description of Devi's teeth is  
 in Shyamala Dandakam.  
-कुन्दपुष्पद्युतिस्निग्धदन्तावलीनिर्मलालोलकल्लोलसंमेलनस्मेरशोणाधरे!  
+कुन्दपुष्पद्युतिस्निग्धदन्तावलीनिर्मलालोलकल्लोलसम्मेलनस्मेरशोणाधरे!  
 सुरेशं - सुरः = god or deity. Shiva is the lord of gods like  
 Indra, Brahma. He could ward off Yama also. Thus all the gods could  
 not assess and understand His greatness and glory.  That is why they  
@@ -2296,7 +2296,7 @@ depending on anyone else. So He has these names
 सुदीप्तः । ᳚दीप्ताय दीप्तरूपिण᳚ इति श्रुतिः ।   
 SS(633)  
 महाद्युतिः - महती द्युतिर्बाह्याभ्यन्तरा च अस्येति महाद्युतिः;  
-᳚स्वयंज्योतिः᳚ (बृ-उ-४-३-९), ᳚ज्योतिषां  
+᳚स्वयञ्ज्योतिः᳚ (बृ-उ-४-३-९), ᳚ज्योतिषां  
 ज्योतिः᳚ (बृ- उ- ४-४-१६) इत्यादि श्रुतेः । VS (176)  
 मरीचिः - तेजस्विनामपि तेजस्त्वात् मरीचिः,  
 ᳚तेजस्तेजस्विनामहम्᳚, (गीता १०-३६) इति  
@@ -2314,7 +2314,7 @@ Lord of the gods and who shines like millions of suns.
   
       ५. मन्दारभूतेरुदारं मन्दरागेन्द्रसारं महागौर्यदूरं   
       सिन्दूरदूरप्रचारं सिन्धुरजातिधीरं भजे मार्गबन्धुम् ।  
-      शंभो ..   
+      शम्भो ..   
 This is the fifth and the last verse in the stotram to be followed by  
 the  
 फलश्रुतिः , a verse that states the benefit of reciting the  
@@ -2363,7 +2363,7 @@ Saint Sadasiva Brahmendra calls Him as नतमन्दार       -
 wishing tree of heaven'' in his song भज रे गोपालम् - Bhaja  
 re Gopalam. Again he calls Him as सेवकजनमन्दिरमन्दार -  
 ``the Mandara tree planted in the residential quarters of His  
-devotees'' in the song मानस संचर रे - Manasa sanchara  
+devotees'' in the song मानस सञ्चर रे - Manasa sanchara  
 re.  
 We find the mantra नमो वृक्षेभ्यो हरिकेशेभ्यः in the eighth  
 anuvaka of Shri Rudram. The explanation states that Rudra, who can  
@@ -2467,7 +2467,7 @@ VS(172)
 श्रीशैलारुणाचलादिपर्वतरूपत्वादद्रिः । श्रीशैलशिखरं  
 दृष्ट्वा पुनर्जन्म न विद्यते इति, काश्यां तु मरणान्मुक्तिः,  
 स्मरणादरुणाचलमिति च स्मरणात् ॥ ᳚वनानि  
-शंभुर्गिरयश्च शंभु᳚रिति स्कान्दे । ᳚सर्वो ह्येष  
+शम्भुर्गिरयश्च शम्भु᳚रिति स्कान्दे । ᳚सर्वो ह्येष  
 रुद्र᳚ इति श्रुतिः ॥ SS(856).  
 महीधरः- महीं गिरिरूपेण धरतीति महीधरः, ᳚वनानि  
 विष्णुर्गिरयो दिशश्च᳚ (विष्णु-२-१२-३८) इति  
@@ -2480,7 +2480,7 @@ The fact that He is mightier than the mightiest and has compassion
 makes Him the ideal protector.  Shri Vedanta Desika has expressed this  
 idea beautifully in his works   
 अभीति हेतोरनुवर्तनीयं नाथ त्वदन्यं न विभावयामि ।   
-भयं कुतः स्यात् त्वयि सानुकंपे रक्षा कुतः स्यात् त्वयि जातरोषे ॥   
+भयं कुतः स्यात् त्वयि सानुकम्पे रक्षा कुतः स्यात् त्वयि जातरोषे ॥   
 (Ashtabhujashtakam - 5)  
 त्वयि रक्षति रक्षकैः किमन्यैः त्वयि चारक्षति रक्षकैः किमन्यैः ।   
 इति निश्चित धीः श्रयामि नित्यं नृहरे वेगवती तटाश्रयं त्वाम् ॥   
@@ -2498,7 +2498,7 @@ learnt that he had incurred Rama's wrath and is being hunted by
 Rama's arrow. Finally, feeling helpless, he surrendered to Rama  
 Himself who forgave him readily. This incident was mentioned by Sita  
 to Hanuman. She said   
-त्रीन् लोकान् संपरिक्रम्य तमेव शरणं गतः ।   
+त्रीन् लोकान् सम्परिक्रम्य तमेव शरणं गतः ।   
 स तं निपतितं भूमौ शरण्यः शरणागतम् ।   
 वधार्हमपि काकुत्स्थः कृपयापर्यपालयत् ॥   
 (Ramayana. Sundara Kanda. 38-32,3).   
@@ -2521,7 +2521,7 @@ from the jaws of death and mentioned that one of His names is
 how the Lord Mrityunjaya saves His devotees from death. He puts it in  
 a unique way in his work Sat-darsanam. He says   
 मृत्युञ्जयं मृत्युभियाश्रिताना-   
-महंमतिर्मृत्युमुपैति पूर्वम् ।   
+महम्मतिर्मृत्युमुपैति पूर्वम् ।   
 अथ स्वभावादमृतेषु तेषु   
 कथं पुनर्मृत्युधियोऽवकाशः ॥   
 The Maharshi says that when a devotee seeks the protection of the  
@@ -2570,7 +2570,7 @@ BG(9-17).
 fruits of action and the grandsire.'' That He is both the father  
 and the mother is symbolised by the Ardhanari form. Kalidasa says  
 this in the invocatory verse to his great poem Raghuvamsam   
-वागर्थाविव संपृक्तौ वागर्थप्रतिपत्तये ।   
+वागर्थाविव सम्पृक्तौ वागर्थप्रतिपत्तये ।   
 जगतः पितरौ वन्दे पार्वतीपरमेश्वरौ ॥   
 ``I salute Parvati and Parameswara who are the parents of the  
 universe and who are inseparably united like the speech and the  
@@ -2632,9 +2632,9 @@ has no influence on Him. So He is known as
 सत्वादि-गुण-सामान्यरूप-प्रकृतिविवर्जित इत्यर्तः ।   
 ᳚अतमस्कममायमि᳚ति श्रुतिः ॥ SS(41). and   
 निर्मायः - मायाया निर्गतः निर्मायः । यद्यपि ᳚मायां तु  
-प्रकृतिं विद्यान्मायिनं तु महेश्वरं᳚ इति मायासंबन्दः  
+प्रकृतिं विद्यान्मायिनं तु महेश्वरं᳚ इति मायासम्बन्दः  
 श्रुतिषु दृश्यते, तथापि मायायाः कल्पितत्वेन  
-वास्तवसंबन्धाभावात् कल्पितसंबन्धपरेयं श्रुतिः । अत  
+वास्तवसम्बन्धाभावात् कल्पितसम्बन्धपरेयं श्रुतिः । अत  
 एव,  
 व्यक्तात्पुरुषः परः, अक्षरात्परतरः, अविद्याकार्यहीनः ।  
 ᳚अतमस्कम्मायमि᳚ति श्रुतिः ॥ SS(693).  
@@ -2791,9 +2791,9 @@ abundance of enjoyable things or he has none, the sage, who has set
 his heart upon the Lord, neither overflows nor shrinks, like the  
 ocean on account of the waters of the rivers.  
 These verses say that a jnani's mind is clear. He is mature and  
-गंभीरः deep or profound. Describing the qualities of Rama,  
+गम्भीरः deep or profound. Describing the qualities of Rama,  
 Narada tells the sage Valmiki that Rama was profound like the  
-ocean समुद्र इव गांभीर्ये । (Balakanda-1-17).  
+ocean समुद्र इव गाम्भीर्ये । (Balakanda-1-17).  
 The sage will appear to be simple, but his depth of knowledge and  
 maturity cannot be  measured:  दुर्विगाह्यः . Because of his immense  
 wisdom he cannot be overcome or overpowered. He is firm. He is beyond  
@@ -2841,8 +2841,8 @@ not become proud.
 It emerges then, that in the case of a man of wisdom real possessions  
 are not material possessions and adversity is not poverty. Prosperity  
 for him is remembrance of the Lord and calamity is forgetting Him   
-संपदो नैव संपदः विपदो नैव विपदः ।   
-विपद् विस्मरणं विष्णोः संपद् संस्मरणं हरेः ॥   
+सम्पदो नैव सम्पदः विपदो नैव विपदः ।   
+विपद् विस्मरणं विष्णोः सम्पद् संस्मरणं हरेः ॥   
 It is possible that in adversity one's weakness shows up and all  
 thoughts of Lord recede into the background. But this does not happen  
 in the case of a true devotee. He is not daunted by reverses. In fact  
@@ -2866,7 +2866,7 @@ one tries to use similies while talking about God who is not finite
 but infinite they fail. The desired effect cannot be produced. One  
 cannot find something equal to or greater than Him. Shri DikShita says  
 this in his poem Varadarajastavam   
-यस्मिञ्जहात्यतिशयोक्तिरलंक्रितित्वं   
+यस्मिञ्जहात्यतिशयोक्तिरलङ्क्रितित्वं   
 न्यूनोपमात्वमुपमा समुपैति सर्वा   
 सूक्ष्मस्वभावकलनापि च न प्रतर्क्या   
 तद्वर्णयामि भवतः कथमाभिरूप्यम् ॥   
@@ -2891,7 +2891,7 @@ and who is more profound than the mighty ocean.
   
       ६. अप्पय्ययज्ज्वेन्द्र गीतं स्तोत्रराजं पठेद्यस्तु भक्त्या प्रयाणे  
       तस्यार्थसिद्धिं विधत्ते मार्गमध्येऽभयं चाशुतोषो महेशः ।  
-      शंभो ...  
+      शम्भो ...  
 अप्पय्य = the name of the author यज्वन् = performer of  
 sacrifices गीतं = sung स्तोत्रराजं great poem पठेत्  
 = reads यः = whoever भक्त्या = with devotion   
@@ -2929,7 +2929,7 @@ just offering a leaf, a flower, a fruit or water
 Shiva is known as: करवीरप्रियः - करवीरप्रियत्वं शिवस्य  
 पुराणादिषु प्रसिद्धम् ।  
 ᳚एकेन करवीरेण सितेनाप्यसितेन वा । हरिं हरं वा  
-संपूज्य ब्रह्मभूयाय कल्पते᳚ इति ।  
+सम्पूज्य ब्रह्मभूयाय कल्पते᳚ इति ।  
 अनेन शिवपूजस्यां सौलभ्यमुक्तम् । शिवः पूजनीय इति च ॥   
 SS(326).  
 भक्तानां सुलभः - शिवपूजादिपराणां सुलभः,  
@@ -3099,7 +3099,7 @@ blesses them. He has the name: स्तवप्रियः VS(680). This does
 mean that He loves adulation. He has no need for it. It is we who  
 benefit by singing His glories.  
 It was said पठेद्यस्तु भक्त्या प्रयाणे तस्य अर्थसिद्धिं  
-विधत्ते मार्गमध्येऽभयंच आशुतोषो महेशः ।   
+विधत्ते मार्गमध्येऽभयञ्च आशुतोषो महेशः ।   
 (i.e.) whoever reads this with devotion during a journey, the Lord  
 will ensure that the mission is completed successfully. In addition  
 he will feel secure as he will be protected by the Lord on the way.  
@@ -3531,7 +3531,7 @@ Then the preparatory steps that one is expected to go through to
 become a qualified student for taking up the study of vedanta can be  
 daunting. They too can put off one from taking serious interest in  
 the subject. Because the steps known as साधन  
-चतुष्टयसंपत्तिः or the four fold qualifications include  
+चतुष्टयसम्पत्तिः or the four fold qualifications include  
 things such as control of the mind to curb its wandering tendencies  
 so that it becomes focussed on a subject, control of the sense organs  
 so that they become disciplined, detachment to the pleasures of the  
@@ -3555,7 +3555,7 @@ this subject even when young. He says शैशवेऽभ्यस्तवि
 liberation can be called education.  
 सा विद्या या विमुक्तये । Shri Sankaracharya also defines education  
 as आत्मनो बोधः while commenting on the popular verse beginning  
-विद्या विनयसंपन्ने ब्राह्मणे गवि हस्तिनि ।  BG(5-18). It is  
+विद्या विनयसम्पन्ने ब्राह्मणे गवि हस्तिनि ।  BG(5-18). It is  
 knowing about Self. Thus Devi (LakShmi, Lalita) is called Vidya  
 विद्या । The commentator's explanation is:    
 मोक्षप्रदज्ञानस्वरूपत्वाद्विद्या । (Lalita Sahasranamam. No 549).  
@@ -3573,7 +3573,7 @@ through which one can gain the worldly and otherworldly enjoyments is
 the inferior one and is called Apara Vidya. Para or the superior one  
 is that through which the imperishable brahman is known.  
 Yama also tells this to his student Nachiketa:   
-श्रेयश्च प्रेयश्च मनुष्यमेतस्तौ संपरीत्य विविनक्ति  
+श्रेयश्च प्रेयश्च मनुष्यमेतस्तौ सम्परीत्य विविनक्ति  
 धीरः । KU(1-2-2). He says that two paths present themselves before  
 every one. One is called sreyas  i.e., the one that offers release  
 from all miseries for ever and the other is called preyas i.e., the  
@@ -3664,7 +3664,7 @@ ParikShit had one full week to get freedom. So Shri Suka advises him
 to shed fear first as there was ample time.  
 Then it was said that the one who reads the stotram with devotion  
 will feel secure as he will be protected by the Lord on the way.  
-मार्गमध्येऽभयंच आशुतोषो महेशः ।   
+मार्गमध्येऽभयञ्च आशुतोषो महेशः ।   
 It was stated earlier that our journey has already started and so we  
 are on the way. The question, now, is how can reading the stotram with  
 devotion confer security on the way? This becomes more relevant as  
@@ -3756,7 +3756,7 @@ not feel insecure on the way. The ``way'' or मार्गः may
 be viewed allegorically also. Our scriptures talk of many ways to  
 worship Him. These are meant for people with differing tastes based  
 on their temperaments. The Shiva-Mahimna Stotram says this:   
-त्रयी सांख्यं योगः पशुपतिमतं वैष्णवमिति  
+त्रयी साङ्ख्यं योगः पशुपतिमतं वैष्णवमिति  
 प्रभिन्ने प्रस्थाने परमिदमदः पथ्यमिति च ।  
 रुचीनां वैचित्र्यादृजु-कुटिल-नानापथजुषां  
 नृणामेको गम्यस्त्वमसि पयसामर्णवमिव ॥ (7).  

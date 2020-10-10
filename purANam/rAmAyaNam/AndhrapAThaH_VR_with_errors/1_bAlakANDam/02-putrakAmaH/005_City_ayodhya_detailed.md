@@ -3,7 +3,6 @@ title: 005 अयोध्यावर्णनम्
 title_english: 005 City ayodhya detailed
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-005-Ayodhya_Varnavam.mp3"></div>
 
 सर्वापूर्वमियं येषामासीत्कृत्स्ना वसुन्धरा।  

@@ -1,29 +1,29 @@
-+++
-"Text title" = "Shri Ramayana Tatparya Sangraha Stotram"
-"File name" = "rAmAyaNatAtparyasangrahastotram.itx"
-itxtitle = "rAmAyaNatAtparyasaNgrahastotram (appayyAdIkshitavirachitam)"
-engtitle = "rAmayaNatAtparyasangrahastotram"
-Category = "major_works, appayya-dIkShita, raama"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-SubDeity = "raama"
-Texttype = "pramukha"
-Author = "Appayya Dixit"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rama Prakasha ramaprakashak at gmail.com"
-"Proofread by" = "Rama Prakasha ramaprakashak at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "October 12, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामायणतात्पर्यसण्ग्रहस्तोत्रम् (अप्पय्यादीक्षितविरचितम्)"
+---
+Author: Appayya Dixit
+Category: major_works, appayya-dIkShita, raama
+File name: rAmAyaNatAtparyasangrahastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: October 12, 2019
+Location: doc_z_misc_major_works
+Proofread by: Rama Prakasha ramaprakashak at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: raama
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: Shri Ramayana Tatparya Sangraha Stotram
+Texttype: pramukha
+Transliterated by: Rama Prakasha ramaprakashak at gmail.com
+engtitle: rAmayaNatAtparyasangrahastotram
+itxtitle: rAmAyaNatAtparyasaNgrahastotram (appayyAdIkshitavirachitam)
+title: रामायणतात्पर्यसण्ग्रहस्तोत्रम् (अप्पय्यादीक्षितविरचितम्)
 
-+++
+---
   
  श्रीरामायणतात्पर्यसङ्ग्रहस्तोत्रम्   
 वाल्मीकिरादिकविराट् अखिलार्थदर्शी  
-     साक्षाद्विरिञ्च इव संप्रतिपन्नभावः ।  
+     साक्षाद्विरिञ्च इव सम्प्रतिपन्नभावः ।  
 विश्वेश विष्णुमधिकृत्य कृते प्रबन्धे  
      व्यक्त्या तवैव निबबन्ध परं परत्वम् ॥ १॥  
   

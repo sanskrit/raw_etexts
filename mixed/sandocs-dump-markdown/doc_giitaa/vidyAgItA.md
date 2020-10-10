@@ -1,24 +1,24 @@
-+++
-"Text title" = "Vidya Gita"
-"File name" = "vidyaagiitaa.itx"
-itxtitle = "vidyAgItA"
-engtitle = "vidyAgItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "sunder hattangadi"
-"Proofread by" = "sunder hattangadi"
-Description-comments = "Tripura Rahasya, Jnana Khanda, Ch. 20"
-Indexextra = "(vidyAgItA tripurArahasya, jnAnakhaNDa adhyAya 20 scanned, Hindi)"
-"Latest update" = "November 7, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विद्यागीता"
+---
+Author: Traditional
+Category: gItA, giitaa
+Description-comments: Tripura Rahasya, Jnana Khanda, Ch. 20
+File name: vidyaagiitaa.itx
+Indexextra: (vidyAgItA tripurArahasya, jnAnakhaNDa adhyAya 20 scanned, Hindi)
+Language: Sanskrit
+Latest update: November 7, 2017
+Location: doc_giitaa
+Proofread by: sunder hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: Vidya Gita
+Transliterated by: sunder hattangadi
+engtitle: vidyAgItA
+itxtitle: vidyAgItA
+title: विद्यागीता
 
-+++
+---
   
  विद्यागीता   
   
@@ -184,7 +184,7 @@ title = "विद्यागीता"
 अद्वैतविज्ञानमेव परविज्ञानमीरितम् ॥ ५३॥  
   
 मामनाराध्य परमां चिरं विद्यां तु श्रीमतीम् ।  
-कथं प्राप्येत परमां विद्यामद्वैतसंज्ञिकाम् ॥ ५४॥  
+कथं प्राप्येत परमां विद्यामद्वैतसञ्ज्ञिकाम् ॥ ५४॥  
   
 तदेवाद्वैतविज्ञानं केवला या परा चितिः ।  
 तस्याः शुद्धदशामर्शो द्वैतामर्शाभिभावकः ॥ ५५॥  
@@ -367,7 +367,7 @@ title = "विद्यागीता"
 इयमात्मज्ञानसिद्धिर्विविधाभ्यासभेदतः ॥ ११४॥  
   
 बुद्धिनैर्मल्यभेदाच्च परिपाकविभेदतः ।  
-संक्षेपतस्तु त्रिविधा चोत्तमा मध्यमाऽधमा ॥ ११५॥  
+सङ्क्षेपतस्तु त्रिविधा चोत्तमा मध्यमाऽधमा ॥ ११५॥  
   
 लोके द्विजानामृषयः पठितश्रुतिसम्मिता ।  
 मेधया च महाभ्यासाद् व्यापारशतसङ्कुला ॥ ११६॥  

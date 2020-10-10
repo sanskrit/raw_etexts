@@ -1,25 +1,25 @@
-+++
-"Text title" = "kAmakalAkAliistotram"
-"File name" = "kAmakalAkAliistotram.itx"
-itxtitle = "kAmakalAkAlIstotram"
-engtitle = "kAmakalAkAlIstotram"
-Category = "devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin bhalekar ravibhalekar at hotmail.com"
-Description-comments = "mahAvAmakeshvaratantre kAlakeyahiraNyapuravijaye rAvaNakRitam"
-"Latest update" = "November 26, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामकलाकालीस्तोत्रम्"
+---
+Author: Traditional
+Category: devii, dashamahAvidyA, stotra, devI
+Description-comments: mahAvAmakeshvaratantre kAlakeyahiraNyapuravijaye rAvaNakRitam
+File name: kAmakalAkAliistotram.itx
+Language: Sanskrit
+Latest update: November 26, 2006
+Location: doc_devii
+Proofread by: Ravin bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAmakalAkAliistotram
+Texttype: stotra
+Transliterated by: Ravin bhalekar ravibhalekar at hotmail.com
+engtitle: kAmakalAkAlIstotram
+itxtitle: kAmakalAkAlIstotram
+title: कामकलाकालीस्तोत्रम्
 
-+++
+---
   
  कामकलाकालीस्तोत्रम्   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Anjaneya Bhujangaprayata stotram"
-"File name" = "Anjaneyabhujangam.itx"
-itxtitle = "AnjaneyabhujaNgaprayAtastotram (puShpA shrIvatsena virachitam)"
-engtitle = "Anjaneya Bhujangaprayata stotram"
-Category = "hanumaana, puShpAshrIvatsan, bhujanga, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-"Latest update" = "September 5, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आञ्जनेयभुजण्गप्रयातस्तोत्रम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: hanumaana, puShpAshrIvatsan, bhujanga, hanuman
+File name: Anjaneyabhujangam.itx
+Language: Sanskrit
+Latest update: September 5, 2019
+Location: doc_hanumaana
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: Anjaneya Bhujangaprayata stotram
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: Anjaneya Bhujangaprayata stotram
+itxtitle: AnjaneyabhujaNgaprayAtastotram (puShpA shrIvatsena virachitam)
+title: आञ्जनेयभुजण्गप्रयातस्तोत्रम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  श्रीमदाञ्जनेयभुजङ्गप्रयातस्तोत्रम्   
                  ॐ  

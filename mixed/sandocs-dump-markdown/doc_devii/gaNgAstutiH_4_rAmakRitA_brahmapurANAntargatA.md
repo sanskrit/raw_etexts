@@ -1,23 +1,24 @@
-+++
-"Text title" = "gangAstutiH 4 by rAma from brahmapurANa"
-"File name" = "gangAstutiHrAmakRitabrahmapurANa.itx"
-itxtitle = "gaNgAstutiH 4 (rAmakRitA brahmapurANAntargatA)"
-engtitle = "gangAstutiH 4 by rAma from brahmapurANa"
-Category = "devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadU"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Brahmapurana, tIrtha mAhAtmya, gautamI mAhAtmya, adhyAya 157, shlokAni 9-14"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गास्तुतिः ४ (रामकृइता ब्रह्मपुराणान्तर्गता)"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: devii, nadI, devI
+Description/comments: Brahmapurana, tIrtha mAhAtmya, gautamI mAhAtmya, adhyAya 157,
+  shlokAni 9-14
+File name: gangAstutiHrAmakRitabrahmapurANa.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadU
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gangAstutiH 4 by rAma from brahmapurANa
+engtitle: gangAstutiH 4 by rAma from brahmapurANa
+itxtitle: gaNgAstutiH 4 (rAmakRitA brahmapurANAntargatA)
+title: गण्गास्तुतिः ४ (रामकृइता ब्रह्मपुराणान्तर्गता)
 
-+++
+---
   
  श्रीगङ्गास्तुतिः   
 श्रीराम उवाच -  

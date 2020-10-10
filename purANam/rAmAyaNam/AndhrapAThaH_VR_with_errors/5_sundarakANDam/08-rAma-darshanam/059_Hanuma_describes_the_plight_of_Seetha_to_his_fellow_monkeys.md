@@ -3,7 +3,6 @@ title: 059 Hanuma describes the plight of Seetha to his fellow monkeys
 title_english: 059 Hanuma describes the plight of Seetha to his fellow monkeys
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-059-Hanuma_describes_the_plight_of_Seetha_to_his_fellow_monkeys.mp3"></div>
 
 एतत् आख्यानम् तत् सर्वम् हनूमान् मारुत आत्मजः ।  
@@ -69,7 +68,7 @@ title_english: 059 Hanuma describes the plight of Seetha to his fellow monkeys
 एक वेणी धरा दीना भर्तृ चिन्ता परायणा ।  
 अधः शय्या विवर्ण अन्गी पद्मिनी इव हिम आगमे ।  
 रावणात् विनिवृत्त अर्था मर्तव्य कृत निश्चया ॥ ५-५९-३१  
-कथंचिन् मृग शाव अक्षी विश्वासम् उपपादिता ॥ ५-५९-३२  
+कथञ्चिन् मृग शाव अक्षी विश्वासम् उपपादिता ॥ ५-५९-३२  
 ततः सम्भाषिता चैव सर्वम् अर्थम् च दर्शिता ।  
 राम सुग्रीव सख्यम् च श्रुत्वा प्रीतिम् उपागता ॥ ५-५९-३३  
 नियतः समुदाचारो भक्तिः भर्तरि च उत्तमा ।  

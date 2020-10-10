@@ -1,26 +1,26 @@
-+++
-"Text title" = "hanumannamaskAraH"
-"File name" = "hanunamaskaar.itx"
-itxtitle = "hanumannamaskAraH"
-engtitle = "hanumannamaskAraH"
-Category = "hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Raman Anantaraman (anantaraman at nscl.msu.edu)"
-"Proofread by" = "Raman Anantaraman (anantaraman at nscl.msu.edu)"
-"Translated by" = "A. Narayanaswami"
-Description-comments = "Obeisance to Shri Hanuman"
-Indexextra = "(with meAning)"
-"Latest update" = "May 20, 2001, December 27, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमन्नमस्कारः"
+---
+Author: Traditional
+Category: hanumaana, stotra, hanuman
+Description-comments: Obeisance to Shri Hanuman
+File name: hanunamaskaar.itx
+Indexextra: (with meAning)
+Language: Sanskrit
+Latest update: May 20, 2001, December 27, 2013
+Location: doc_hanumaana
+Proofread by: Raman Anantaraman (anantaraman at nscl.msu.edu)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: hanumaana
+Text title: hanumannamaskAraH
+Texttype: stotra
+Translated by: A. Narayanaswami
+Transliterated by: Raman Anantaraman (anantaraman at nscl.msu.edu)
+engtitle: hanumannamaskAraH
+itxtitle: hanumannamaskAraH
+title: हनुमन्नमस्कारः
 
-+++
+---
   
  श्रीहनुमन्नमस्कारः   
   

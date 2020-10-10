@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAdhikAsahasranAmAvaliH"
-"File name" = "rAdhikAsahasranAmAvaliH.itx"
-itxtitle = "rAdhikAsahasranAmAvaliH"
-engtitle = "rAdhikAsahasranAmAvaliH"
-Category = "devii, sahasranAmAvalI, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधिकासहस्रनामावलिः"
+---
+Category: devii, sahasranAmAvalI, radha, devI
+File name: rAdhikAsahasranAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhikAsahasranAmAvaliH
+engtitle: rAdhikAsahasranAmAvaliH
+itxtitle: rAdhikAsahasranAmAvaliH
+title: राधिकासहस्रनामावलिः
 
-+++
+---
   
  श्रीराधिकासहस्रनामावलिः   
   

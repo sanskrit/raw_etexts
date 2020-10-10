@@ -1,24 +1,24 @@
-+++
-"Text title" = "saMskRRitabhAShA saralA madhurA"
-"File name" = "saMskRRitabhAShAsaralAmadhurA.itx"
-itxtitle = "saMskRitabhAShA saralA madhurA"
-engtitle = "saMskRRitabhAShA saralA madhurA"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dr. Prabhakara Sharma"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Video 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृइतभाषा सरला मधुरा"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: Dr. Prabhakara Sharma
+Category: misc, sanskritgeet
+File name: saMskRRitabhAShAsaralAmadhurA.itx
+Indexextra: (Wiki, Video 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: saMskRRitabhAShA saralA madhurA
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: saMskRRitabhAShA saralA madhurA
+itxtitle: saMskRitabhAShA saralA madhurA
+title: संस्कृइतभाषा सरला मधुरा
 
-+++
+---
   
  संस्कृतभाषा सरला मधुरा   
 संस्कृतभाषा सरला मधुरा  

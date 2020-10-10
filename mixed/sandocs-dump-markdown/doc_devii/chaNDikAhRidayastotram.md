@@ -1,23 +1,23 @@
-+++
-"Text title" = "chaNDikA hRidayaM stotra"
-"File name" = "chandikahridayam.itx"
-itxtitle = "chaNDikAhRidayastotram"
-engtitle = "chaNDikA hRidaya stotram"
-Category = "hRidaya, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Adwaith Menon adwaithmenon at gmail.com"
-"Proofread by" = "Adwaith Menon adwaithmenon at gmail.com"
-"Latest update" = "December 3, 2005, February 3, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चण्डिकाहृइदयस्तोत्रम्"
+---
+Author: Traditional
+Category: hRidaya, devii, durgA, devI
+File name: chandikahridayam.itx
+Language: Sanskrit
+Latest update: December 3, 2005, February 3, 2014
+Location: doc_devii
+Proofread by: Adwaith Menon adwaithmenon at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: chaNDikA hRidayaM stotra
+Transliterated by: Adwaith Menon adwaithmenon at gmail.com
+engtitle: chaNDikA hRidaya stotram
+itxtitle: chaNDikAhRidayastotram
+title: चण्डिकाहृइदयस्तोत्रम्
 
-+++
+---
   
  चण्डिकाहृदयस्तोत्रम्   
   
@@ -25,36 +25,36 @@ title = "चण्डिकाहृइदयस्तोत्रम्"
 मार्क्कण्डेय ऋषिः, अनुष्टुप्च्छन्दः, श्री चण्डिका देवता ।  
 ह्रां बीजं, ह्रीं शक्तिः, ह्रूं कीलकं,  
 अस्य श्री चण्डिका प्रसाद सिद्ध्यर्थे जपे विनियोगः ।  
-ह्रां इत्यादि षडंग न्यासः ।  
+ह्रां इत्यादि षडङ्ग न्यासः ।  
   
 ध्यानं ।  
-सर्वमंगळ मांगल्ये शिवे सर्वार्त्थ साधिके ।  
+सर्वमङ्गळ माङ्गल्ये शिवे सर्वार्त्थ साधिके ।  
 शरण्ये त्र्यम्बके गौरी नारायणी नमोस्तुते ॥  
   
 ब्रह्मोवाच ।  
 अथातस्सं प्रवक्ष्यामि विस्तरेण यथातथं ।  
 चण्डिका हृदयं गुह्यं शृणुष्वैकाग्रमानसः । ।  
 ॐ ऐं ह्रीं क्ळीं, ह्रां, ह्रीं, ह्रूं जय जय चामुण्डे,  
-चण्डिके, त्रिदश, मणिमकुटकोटीर संघट्टित चरणारविन्दे,  
+चण्डिके, त्रिदश, मणिमकुटकोटीर सङ्घट्टित चरणारविन्दे,  
 गायत्री, सावित्री, सरस्वति, महाहिकृताभरणे, भैरवरूप  
 धारिणी, प्रकटित दंष्ट्रोग्रवदने,घोरे, घोराननेज्वल  
 ज्वलज्ज्वाला सहस्रपरिवृते, महाट्टहास बधरीकृत दिगन्तरे,  
 सर्वायुध परिपूर्ण्णे, कपालहस्ते, गजाजिनोत्तरीये,  
 भूतवेताळबृन्दपरिवृते, प्रकन्पित धराधरे,   
 मधुकैटमहिषासुर, धूम्रलोचन चण्डमुण्डरक्तबीज   
-शुंभनिशुंभादि दैत्यनिष्कण्ढके, काळरात्रि,   
+शुम्भनिशुम्भादि दैत्यनिष्कण्ढके, काळरात्रि,   
 महामाये, शिवे, नित्ये, इन्द्राग्नियमनिरृति वरुणवायु   
 सोमेशान प्रधान शक्ति भूते, ब्रह्माविष्णु शिवस्तुते,   
-त्रिभुवनाधाराधारे, वामे, ज्येष्ठे, रौद्र्यंबिके,   
-ब्राह्मी, माहेश्वरि, कौमारि, वैष्णवी शंखिनी वाराहीन्द्राणी  
+त्रिभुवनाधाराधारे, वामे, ज्येष्ठे, रौद्र्यम्बिके,   
+ब्राह्मी, माहेश्वरि, कौमारि, वैष्णवी शङ्खिनी वाराहीन्द्राणी  
 चामुण्डा शिवदूति महाकाळि महालक्ष्मी, महासरस्वतीतिस्थिते,   
 नादमध्यस्थिते, महोग्रविषोरगफणामणिघटित   
-मकुटकटकादिरत्न महाज्वालामय पादबाहुदण्डोत्तमांगे,   
+मकुटकटकादिरत्न महाज्वालामय पादबाहुदण्डोत्तमाङ्गे,   
 महामहिषोपरि गन्धर्व विद्याधराराधिते,  
 नवरत्ननिधिकोशे तत्त्वस्वरूपे वाक्पाणिपादपायूपस्थात्मिके,  
 शब्दस्पर्शरूपरसगन्धादि स्वरूपे,  
 त्वक्चक्षुः श्रोत्रजिह्वाघ्राणमहाबुद्धिस्थिते,   
-ॐ ऐंकार ह्रीं कार क्ळीं कारहस्ते आं क्रों आग्नेयनयनपात्रे प्रवेशय,   
+ॐ ऐङ्कार ह्रीं कार क्ळीं कारहस्ते आं क्रों आग्नेयनयनपात्रे प्रवेशय,   
 द्रां शोषय शोषय, द्रीं सुकुमारय सुकुमारय,   
 श्रीं सर्वं प्रवेशय प्रवेशय, त्रैलोक्यवर वर्ण्णिनि   
 समस्त चित्तं वशीकरु वशीकरु मम शत्रून्,  

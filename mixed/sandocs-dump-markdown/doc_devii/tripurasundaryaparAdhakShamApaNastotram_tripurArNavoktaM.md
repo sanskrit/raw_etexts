@@ -1,22 +1,22 @@
-+++
-"Text title" = "Tripurasundari Aparadhakshamapanastotram"
-"File name" = "tripurasundarIaparAdhakShamApaNastotram.itx"
-itxtitle = "tripurasundaryaparAdhakShamApaNastotram (tripurArNavoktaM)"
-engtitle = "tripurasundarIaparAdhakShamApaNastotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "Tattvachintamani ekonaviMshaH tripurArNavoktaM"
-Indexextra = "(Scan 1, 2)"
-"Latest update" = "January 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरसुन्दर्यपराधक्षमापणस्तोत्रम् (त्रिपुरार्णवोक्तं)"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: Tattvachintamani ekonaviMshaH tripurArNavoktaM
+File name: tripurasundarIaparAdhakShamApaNastotram.itx
+Indexextra: (Scan 1, 2)
+Language: Sanskrit
+Latest update: January 7, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Tripurasundari Aparadhakshamapanastotram
+engtitle: tripurasundarIaparAdhakShamApaNastotram
+itxtitle: tripurasundaryaparAdhakShamApaNastotram (tripurArNavoktaM)
+title: त्रिपुरसुन्दर्यपराधक्षमापणस्तोत्रम् (त्रिपुरार्णवोक्तं)
 
-+++
+---
   
  श्रीत्रिपुरसुन्दर्यपराधक्षमापणस्तोत्रम्   
 अथ स्तोत्रं प्रवक्ष्यामि त्रिपुरार्णव ईरितम् ।  

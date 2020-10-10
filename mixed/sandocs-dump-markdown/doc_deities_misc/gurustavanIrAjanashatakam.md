@@ -1,23 +1,23 @@
-+++
-"Text title" = "Guru Stava Nirajana ShatakaM 100 Songs for Guru"
-"File name" = "gurustavanIrAjanashatakam.itx"
-itxtitle = "gurustavanIrAjanashatakam"
-engtitle = "gurustavanIrAjanashatakam"
-Category = "deities_misc, gurudev, shataka, kRitI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Smt. Rajeshwari Govindaraj"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Smt. Rajeshwari Govindaraj"
-"Proofread by" = "Smt. Rajeshwari Govindaraj"
-"Latest update" = "September 24, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुस्तवनीराजनशतकम्"
+---
+Author: Smt. Rajeshwari Govindaraj
+Category: deities_misc, gurudev, shataka, kRitI
+File name: gurustavanIrAjanashatakam.itx
+Language: Sanskrit
+Latest update: September 24, 2019
+Location: doc_deities_misc
+Proofread by: Smt. Rajeshwari Govindaraj
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Guru Stava Nirajana ShatakaM 100 Songs for Guru
+Transliterated by: Smt. Rajeshwari Govindaraj
+engtitle: gurustavanIrAjanashatakam
+itxtitle: gurustavanIrAjanashatakam
+title: गुरुस्तवनीराजनशतकम्
 
-+++
+---
   
  गुरुस्तवनीराजनशतकं   
 १ गुरुरेव सद्गुरुः गुरुरेव जगद्गुरुः  
@@ -29,7 +29,7 @@ title = "गुरुस्तवनीराजनशतकम्"
 अपरविद्यातटदर्शकः  
 अक्षरविद्याप्रदायकः ॥ १॥  
   
-आर्षसंप्रदाय रक्षकः  
+आर्षसम्प्रदाय रक्षकः  
 आत्मश्रद्धासंवर्धकः  
 अन्तःकरणवैकल्यनाशकः  
 आत्मतृप्तः गीतसुधास्वादकः ॥ २॥  
@@ -83,7 +83,7 @@ title = "गुरुस्तवनीराजनशतकम्"
 साधकसंस्तुत ज्ञानवैभव  
 स्वाधीनकृत प्राणवैभव  
 सहज मधुर हितकरस्वभाव  
-संतृप्तिसदन सदा मामव ॥ १॥  
+सन्तृप्तिसदन सदा मामव ॥ १॥  
   
 स्वलाभ योजन दर्शन दूर  
 स्वजन व्यामोहभ्रान्तिहर  
@@ -143,7 +143,7 @@ title = "गुरुस्तवनीराजनशतकम्"
   
 नूतन समाज सत्यनिर्मापक  
 नव नव यौगिक विधाननिर्देशक ।  
-परम्परासंप्राप्त ज्ञानरक्षकः  
+परम्परासम्प्राप्त ज्ञानरक्षकः  
 परस्परं भावयितुं शिक्षकः ॥ २॥  
   
 १० गुरोरङ्घ्रि वारिजद्वये  
@@ -374,7 +374,7 @@ title = "गुरुस्तवनीराजनशतकम्"
 गुरु तव ध्यानं सर्वकलुषहरं  
 गुरुगुण गानं मधुरातिमधुरम् ॥ पल्लवि॥  
   
-ऋषिसंप्रदाय परम्परावन  
+ऋषिसम्प्रदाय परम्परावन  
 ऋषिवेषनाटकदूर निर्गुण  
 निर्भय निर्भव करुणान्तरङ्ग  
 निर्मम निरञ्जन हे मुक्तसङ्ग ॥ १॥  
@@ -398,8 +398,8 @@ title = "गुरुस्तवनीराजनशतकम्"
 महाशक्त हे महाविरक्त  
 महाभक्त गीतसुधारक्त ॥ २॥  
   
-२८ गुरुदेव त्वया कथं संप्राप्तम्  
-गुरुदेव त्वया कथं संप्राप्तं  
+२८ गुरुदेव त्वया कथं सम्प्राप्तम्  
+गुरुदेव त्वया कथं सम्प्राप्तं  
 गहनतम चिद्रूपं परतत्त्वम् ॥ पल्लवि॥  
   
 जन्मजन्मान्तरे परिपक्वोऽसि  
@@ -461,7 +461,7 @@ title = "गुरुस्तवनीराजनशतकम्"
 शतशतानुभव कटुविषयवलये  
 साधनोल्लासं प्राप्तं गुरुकृपालये  
 सुदुष्कर मनो निग्रहमर्मं  
-संप्रीत गुरुणा बोधितमनुक्षणम् ॥ १॥  
+सम्प्रीत गुरुणा बोधितमनुक्षणम् ॥ १॥  
   
 प्रारब्ध कर्माणी आवर्तिनीव  
 तिर्यग्गमने तु मम श्वासबन्धः  
@@ -1197,7 +1197,7 @@ title = "गुरुस्तवनीराजनशतकम्"
 गुरुगुणगानं मधुरातिमधुरं  
 गुरुशक्तिध्यानं सर्वदौर्बल्यहरम् ॥ पल्लवि॥  
   
-ऋषि संप्रदाय परम्परावनः  
+ऋषि सम्प्रदाय परम्परावनः  
 ऋषि वेष रहितोऽपि परमहंसः  
 प्रणवनादानुसन्धान निरतः  
 प्रमाणादि पञ्चवृत्तिरहितः ॥ १॥  

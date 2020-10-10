@@ -1,27 +1,27 @@
-+++
-"Text title" = "gAyatrI suprabhAtam"
-"File name" = "gAyatrIsuprabhAtaM.itx"
-itxtitle = "gAyatrI suprabhAtam"
-engtitle = "gAyatrI suprabhAtam"
-Category = "suprabhAta, devii, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Author = "Shri Paturi Sitaramanjaneyulu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "MyP"
-"Proofread by" = "Desiraju H. Rao"
-"Latest update" = "June 9, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्री सुप्रभातम्"
+---
+Author: Shri Paturi Sitaramanjaneyulu
+Category: suprabhAta, devii, gAyatrI, devI
+File name: gAyatrIsuprabhAtaM.itx
+Language: Sanskrit
+Latest update: June 9, 2004
+Location: doc_devii
+Proofread by: Desiraju H. Rao
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrI suprabhAtam
+Transliterated by: MyP
+engtitle: gAyatrI suprabhAtam
+itxtitle: gAyatrI suprabhAtam
+title: गायत्री सुप्रभातम्
 
-+++
+---
   
  श्रीगायत्री सुप्रभातम्   
   
-श्री पातूरि सीतारामांजनेयुलु कृत  
+श्री पातूरि सीतारामाञ्जनेयुलु कृत  
         ॥ श्रीरस्तु ॥  
   
 श्री जानिरद्रितनयापतिरब्जगर्भः  
@@ -29,12 +29,12 @@ title = "गायत्री सुप्रभातम्"
 एते भूतनिचयाः समुदीरयन्ति  
 गायत्रि - लोकविनुते तव सुप्रभातम् ॥ १॥  
   
-पुष्पोच्चयप्रविलसत्करकंजयुग्माम्  
-गंगादिदिव्यतटिनीवरतीरदेशे- ।  
+पुष्पोच्चयप्रविलसत्करकञ्जयुग्माम्  
+गङ्गादिदिव्यतटिनीवरतीरदेशे- ।  
 ष्वर्घ्यम् समर्पयितुमत्रजनास्तवैते  
 गायत्रि - लोकविनुते - तव सुप्रभातम् ॥ २॥  
   
-कर्णेऽमृतम् विकिरता स्वरसंचयेन  
+कर्णेऽमृतम् विकिरता स्वरसञ्चयेन  
 सर्वे द्विजाः श्रुतिगणम् समुदीरयन्ति ।  
 पश्याश्रमासथ वृक्षतलेषु देवि  
 गायति -लोकविनुते -तव सुप्रभातम् ॥ ४॥  
@@ -75,7 +75,7 @@ title = "गायत्री सुप्रभातम्"
 गायत्रि - लोकविनुते - तव सुपभातम् ॥ १०॥  
   
 पापाटवी दहन जागृत मानसा त्वम्  
-भक्तौघ पालन निरंतर दीक्षिताऽसि ।  
+भक्तौघ पालन निरन्तर दीक्षिताऽसि ।  
 त्वय्येव विश्वमखिलम् स्थिरतामुपैति  
 गायत्रि - लोकविनुते - तव सुप्रभातम् ॥ ११॥  
   
@@ -111,7 +111,7 @@ title = "गायत्री सुप्रभातम्"
   
 तेजोमयि - त्रिभुवनावनसक्तचित्ते -  
 सन्धात्मिके - सकल काल कला स्वरूपे -  
-मृत्युंजये - जयिनि - नित्यनिरंतरात्मन् -  
+मृत्युञ्जये - जयिनि - नित्यनिरन्तरात्मन् -  
 गायत्रि -  लोकविनुते -  तव सुप्रभातम् ॥ १८॥  
   
 त्वामेव देवि - परितो निखिलानि तन्त्रा-  
@@ -144,7 +144,7 @@ title = "गायत्री सुप्रभातम्"
 सर्वार्थदा प्रणत भक्त जनस्य शश्वत्  
 गायत्रि - लोकविनुतो - तव सुप्रभातम् ॥ २४॥  
   
-संकल्प्य लोकमखिलम् मनसैव सूषे  
+सङ्कल्प्य लोकमखिलम् मनसैव सूषे  
 कारुण्यभाव कलिताऽवसि लोकमाता ।  
 कोपान्विता तमखिलम् कुरुषे प्रलीनम्  
 गायत्रि - लोकविनुते - तव सुप्रभातम् ॥ २५॥  

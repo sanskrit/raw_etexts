@@ -1,21 +1,21 @@
-+++
-"Text title" = "kRiShNastutiH shuka"
-"File name" = "kRiShNastutiHshuka.itx"
-itxtitle = "kRiShNastutiH (shukamuniproktam shrImadbhAgavatAntargatA)"
-engtitle = "kRiShNastutiH shuka"
-Category = "vishhnu, krishna, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "Bhagavatam, dvitIyaskandha, chaturtho.adhyAya, verses 12-20"
-"Latest update" = "July 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तुतिः (शुकमुनिप्रोक्तम् श्रीमद्भागवतान्तर्गता)"
+---
+Category: vishhnu, krishna, aShTaka
+Description/comments: Bhagavatam, dvitIyaskandha, chaturtho.adhyAya, verses 12-20
+File name: kRiShNastutiHshuka.itx
+Language: Sanskrit
+Latest update: July 13, 2018
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRiShNastutiH shuka
+engtitle: kRiShNastutiH shuka
+itxtitle: kRiShNastutiH (shukamuniproktam shrImadbhAgavatAntargatA)
+title: कृइष्णस्तुतिः (शुकमुनिप्रोक्तम् श्रीमद्भागवतान्तर्गता)
 
-+++
+---
   
  श्रीशुकप्रोक्ता श्रीकृष्णस्तुतिः   
 श्रीशुक उवाच -  

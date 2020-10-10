@@ -1,22 +1,22 @@
-+++
-"Text title" = "gurvaShTakam"
-"File name" = "gurvaShTakam.itx"
-itxtitle = "gurvaShTakam"
-engtitle = "gurvaShTakam"
-Category = "deities_misc, gurudev, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुर्वष्टकम्"
+---
+Category: deities_misc, gurudev, aShTaka
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: gurvaShTakam.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurvaShTakam
+engtitle: gurvaShTakam
+itxtitle: gurvaShTakam
+title: गुर्वष्टकम्
 
-+++
+---
   
  गुर्वष्टकम्   
 वन्देऽहं सच्चिदानन्दं भेदातीतं जगद्गुरुम् ।  
@@ -37,7 +37,7 @@ title = "गुर्वष्टकम्"
 चैतन्यं शाश्वतं शान्तं व्योमातीतं निरञ्जनम् ।  
 विन्दु-नाद-कलातीतं तस्मै श्रीगुरवे नमः ॥ ६॥  
   
-अनेक-जन्म -संप्राप्त -कर्मबन्ध -विदाहिने ।  
+अनेक-जन्म -सम्प्राप्त -कर्मबन्ध -विदाहिने ।  
 आज्ञज्ञान-प्रदानेन तस्मै श्रीगुरवे नमः ॥ ७॥  
   
 शिष्याणां मोक्षदानाय लीलया देहधारिणे ।  

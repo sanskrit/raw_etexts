@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAmasahasranAmAvaliH 2"
-"File name" = "rAmasahasranAmAvaliH2.itx"
-itxtitle = "rAmasahasranAmAvaliH 2 (divAkaraghaisAsavirachitA AryashreShThAya)"
-engtitle = "rAmasahasranAmAvaliH 2"
-Category = "raama, sahasranAmAvalI, nAmAvalI"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Pandit Divakar Anant Ghaisas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामसहस्रनामावलिः २ (दिवाकरघैसासविरचिता आर्यश्रेष्ठाय)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: Pandit Divakar Anant Ghaisas
+Category: raama, sahasranAmAvalI, nAmAvalI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: rAmasahasranAmAvaliH2.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmasahasranAmAvaliH 2
+engtitle: rAmasahasranAmAvaliH 2
+itxtitle: rAmasahasranAmAvaliH 2 (divAkaraghaisAsavirachitA AryashreShThAya)
+title: रामसहस्रनामावलिः २ (दिवाकरघैसासविरचिता आर्यश्रेष्ठाय)
 
-+++
+---
   
  श्रीरामसहस्रनामावलिः २   
 ॐ आर्यश्रेष्ठाय नमः । धरापालाय । साकेतपुरपालकाय ।  
@@ -28,7 +28,7 @@ title = "रामसहस्रनामावलिः २ (दिवाक�
 सीतासौन्दर्यवर्धनाय । अहल्योद्धारकाय । शास्त्रे । कुलदीपाय नमः ॥ २०  
   
 ॐ प्रभाकराय नमः । आपद्विनाशिने । गुह्यज्ञाय ।  
-सीताविरहव्याकुलाय । अन्तर्ज्ञानिने । महाज्ञानिने । शुद्धसंज्ञाय ।  
+सीताविरहव्याकुलाय । अन्तर्ज्ञानिने । महाज्ञानिने । शुद्धसञ्ज्ञाय ।  
 अनुजप्रियाय । असाध्यसाधकाय । भीमाय । मितभाषिणे ।  
 विदांवराय । अवतीर्णाय । समुत्ताराय । दशस्यन्दनमानदाय ।  
 आत्मारामाय । विमानार्हाय । हर्षामर्षसुसङ्गताय । अभिगम्याय ।  

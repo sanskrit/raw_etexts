@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Rama Pratah-smarana"
-"File name" = "ramapratahsmarana.itx"
-itxtitle = "rAmaprAtaHsmaraNam athavA rAmapanchakam (rAmakarNAmRitAntargatam)"
-engtitle = "Rama Pratah-smarana"
-Category = "suprabhAta, raama, panchaka"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "Ramakarnamritam verses 68-73 in chaturtha AshvAsaH"
-"Latest update" = "Apr. 27, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामप्रातःस्मरणम् अथवा रामपञ्चकम् (रामकर्णामृइतान्तर्गतम्)"
+---
+Author: Traditional
+Category: suprabhAta, raama, panchaka
+Description-comments: Ramakarnamritam verses 68-73 in chaturtha AshvAsaH
+File name: ramapratahsmarana.itx
+Language: Sanskrit
+Latest update: Apr. 27, 2010
+Location: doc_raama
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism
+Sublocation: raama
+Text title: Shri Rama Pratah-smarana
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Rama Pratah-smarana
+itxtitle: rAmaprAtaHsmaraNam athavA rAmapanchakam (rAmakarNAmRitAntargatam)
+title: रामप्रातःस्मरणम् अथवा रामपञ्चकम् (रामकर्णामृइतान्तर्गतम्)
 
-+++
+---
   
  श्रीरामप्रातःस्मरणम् श्रीरामपञ्चकम्   
   

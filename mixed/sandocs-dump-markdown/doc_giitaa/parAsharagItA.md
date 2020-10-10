@@ -1,22 +1,22 @@
-+++
-"Text title" = "parAasharagItA"
-"File name" = "parAsharagiitaa.itx"
-itxtitle = "parAsharagItA"
-engtitle = "parAsharagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-Indexextra = "(mahAbhArata shAntiparva Mokshadharma, Chapters 291-298)"
-"Latest update" = "June 2, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पराशरगीता"
+---
+Category: gItA, giitaa
+File name: parAsharagiitaa.itx
+Indexextra: (mahAbhArata shAntiparva Mokshadharma, Chapters 291-298)
+Language: Sanskrit
+Latest update: June 2, 1998
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: parAasharagItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: parAsharagItA
+itxtitle: parAsharagItA
+title: पराशरगीता
 
-+++
+---
   
  पराशरगीता   
   
@@ -116,7 +116,7 @@ title = "पराशरगीता"
 आयुर्नसुलभं लब्ध्वा नावकर्षेद्विशां पते ।  
 उत्कर्षार्थं प्रयतते नरः पुण्येन कर्मणा ॥ ३॥  
   
-वर्णेभ्योऽपि परिभ्रष्टः स वै संमानमर्हति ।  
+वर्णेभ्योऽपि परिभ्रष्टः स वै सम्मानमर्हति ।  
 न तु यः सत्क्रियां प्राप्य राजसं कर्म सेवते ॥ ४॥  
   
 वर्णोत्कर्षमवाप्नोति नरः पुण्येन कर्मणा ।  
@@ -162,7 +162,7 @@ title = "पराशरगीता"
 सञ्चिन्त्य मनसा राजन्विदित्वा शक्तिमात्मनः ।  
 करोति यः शुभं कर्म स वै भद्राणि पश्यति ॥ १८॥  
   
-नवे कपाले सलिलं संन्यस्तं हीयते यथा ।  
+नवे कपाले सलिलं सन्न्यस्तं हीयते यथा ।  
 नवेतरे तथा भावं प्राप्नोति सुखभावितम् ॥ १९॥  
   
 सतोयेऽन्यत्तु यत्तोयं तस्मिन्नेव प्रसिच्यते ।  
@@ -269,8 +269,8 @@ title = "पराशरगीता"
 सद्भिस्तु सह संसर्गः शोभते धर्मदर्शिभिः ।  
 नित्यं सर्वास्ववस्थासु नासद्भिरिति मे मतिः ॥ ३॥  
   
-यथोदय गिरौ द्रव्यं संनिकर्षेण दीप्यते ।  
-तथा सत्संनिकर्षेण हीनवर्णोऽपि दीप्यते ॥ ४॥  
+यथोदय गिरौ द्रव्यं सन्निकर्षेण दीप्यते ।  
+तथा सत्सन्निकर्षेण हीनवर्णोऽपि दीप्यते ॥ ४॥  
   
 यादृशेन हि वर्णेन भाव्यते शुक्लमम्बरम् ।  
 तादृशं कुरुते रूपमेतदेवमवैहि मे ॥ ५॥  
@@ -665,7 +665,7 @@ title = "पराशरगीता"
 शृणु मेऽत्र महाराज यन्मां त्वं परिपृच्छसि ।  
 यानि कर्माण्यहिंस्राणि नरं त्रायन्ति सर्वदा ॥ ३६॥  
   
-संन्यस्याग्नीनुपासीनाः पश्यन्ति विगतज्वराः ।  
+सन्न्यस्याग्नीनुपासीनाः पश्यन्ति विगतज्वराः ।  
 नैःश्रेयसं धर्मपथं समारुह्य यथाक्रमम् ॥ ३७॥  
   
 प्रश्रिता विनयोपेता दमनित्याः सुसंशिताः ।  
@@ -782,7 +782,7 @@ title = "पराशरगीता"
 प्रज्ञाशरेणोन्मथितः परैति ॥ २९॥  
   
 अधीत्य वेदांस्तपसा ब्रह्मचारी  
-यज्ञाञ्शक्त्या संनिसृज्येह पञ्च ।  
+यज्ञाञ्शक्त्या सन्निसृज्येह पञ्च ।  
 वनं गच्छेत्पुरुषो धर्मकामः  
 श्रेयश्चित्वा स्थापयित्वा स्ववंशम् ॥ ३०॥  
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "bAlAdhyAnaMAvaraNadevatAsahita"
-"File name" = "bAlAdhyAnaMAvaraNadevatAsahita.itx"
-itxtitle = "bAlAdhyAnaMAvaraNadevatAsahita"
-engtitle = "bAlAdhyAnaMAvaraNadevatAsahita"
-Category = "devii, dashamahAvidyA, devI, dhyAnam"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाध्यानंआवरणदेवतासहित"
+---
+Category: devii, dashamahAvidyA, devI, dhyAnam
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAdhyAnaMAvaraNadevatAsahita.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAdhyAnaMAvaraNadevatAsahita
+engtitle: bAlAdhyAnaMAvaraNadevatAsahita
+itxtitle: bAlAdhyAnaMAvaraNadevatAsahita
+title: बालाध्यानंआवरणदेवतासहित
 
-+++
+---
   
  आवरणदेवतासहित श्रीबालाध्यानम्   
 ॐ ऐं ह्रीं श्रीं ऐं क्लीं सौः नमो भगवति बाले  

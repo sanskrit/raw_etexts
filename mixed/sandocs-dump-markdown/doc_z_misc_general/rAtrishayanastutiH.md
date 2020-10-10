@@ -1,21 +1,21 @@
-+++
-"Text title" = "rAtrishayanastutiH"
-"File name" = "rAtrishayanastutiH.itx"
-itxtitle = "rAtrishayanastutiH"
-engtitle = "rAtrishayanastutiH"
-Category = "misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रात्रिशयनस्तुतिः"
+---
+Category: misc
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: rAtrishayanastutiH.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: rAtrishayanastutiH
+engtitle: rAtrishayanastutiH
+itxtitle: rAtrishayanastutiH
+title: रात्रिशयनस्तुतिः
 
-+++
+---
   
  रात्रिशयनस्तुतिः   
 जले रक्षतु वाराहः स्थले रक्षतु वामनः ।  

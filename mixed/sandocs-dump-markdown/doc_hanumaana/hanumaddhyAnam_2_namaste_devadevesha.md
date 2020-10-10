@@ -1,21 +1,21 @@
-+++
-"Text title" = "hanumaddhyAnam 2"
-"File name" = "hanumaddhyAnam2.itx"
-itxtitle = "hanumaddhyAnam 2 (namaste devadevesha)"
-engtitle = "hanumaddhyAnam 2"
-Category = "hanumaana, stotra, hanuman, dhyAnam"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमद्ध्यानम् २ (नमस्ते देवदेवेश)"
+---
+Category: hanumaana, stotra, hanuman, dhyAnam
+File name: hanumaddhyAnam2.itx
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumaddhyAnam 2
+Texttype: stotra
+engtitle: hanumaddhyAnam 2
+itxtitle: hanumaddhyAnam 2 (namaste devadevesha)
+title: हनुमद्ध्यानम् २ (नमस्ते देवदेवेश)
 
-+++
+---
   
  हनुमद्ध्यानम् २   
 नमस्ते देवदेवेश नमस्ते राक्षसान्तक ।  

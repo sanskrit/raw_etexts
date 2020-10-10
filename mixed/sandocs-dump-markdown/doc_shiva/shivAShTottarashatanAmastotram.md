@@ -1,24 +1,26 @@
-+++
-"Text title" = "shivAShTottara shatanAma stotram"
-"File name" = "shiva108Str.itx"
-itxtitle = "shivAShTottarashatanAmastotram"
-engtitle = "shivAShTottara shatanAma stotram"
-Category = "aShTottarashatanAma, shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunderh Hattangadi sunderh at hotmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Shiva Rahasya Khanda of Sankara Samhita of Skanda Puranam (Gauri-Narayana Samvada)."
-Indexextra = "(Commentary)"
-"Latest update" = "March 30, 2002, December 10, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवाष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Traditional
+Category: aShTottarashatanAma, shiva, stotra
+Description-comments: Shiva Rahasya Khanda of Sankara Samhita of Skanda Puranam (Gauri-Narayana
+  Samvada).
+File name: shiva108Str.itx
+Indexextra: (Commentary)
+Language: Sanskrit
+Latest update: March 30, 2002, December 10, 2016
+Location: doc_shiva
+Proofread by: Sunderh Hattangadi sunderh at hotmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivAShTottara shatanAma stotram
+Texttype: stotra
+engtitle: shivAShTottara shatanAma stotram
+itxtitle: shivAShTottarashatanAmastotram
+title: शिवाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीशिवाष्टोत्तरशतनामस्तोत्रम्   
 नारायण उवाच ।  
@@ -75,7 +77,7 @@ title = "शिवाष्टोत्तरशतनामस्तोत्�
 अपवर्गप्रदोऽनन्तस्तारकः परमेश्वरः ॥ १३॥  
   
 फलश्रुतिः ।  
-एतदष्टोत्तरं नाम्नां शतमाम्नायसंमितं ।  
+एतदष्टोत्तरं नाम्नां शतमाम्नायसम्मितं ।  
 शङ्करस्य प्रिया गौरी जप्त्वा शम्भुप्रसाददम् ॥ १॥  
   
 त्रैकाल्यमन्वहं देवी वर्षमेकं प्रयत्नतः ।  

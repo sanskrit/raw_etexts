@@ -1,23 +1,23 @@
-+++
-"Text title" = "Sharabha Mala Mantra"
-"File name" = "sharabhamAlAmantraH.itx"
-itxtitle = "sharabhamAlAmantraH"
-engtitle = "sharabhamAlAmantraH"
-Category = "shiva, mAlAmantra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Akashabhairavakalpa page 60"
-Indexextra = "(Text)"
-"Latest update" = "February 22, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरभमालामन्त्रः"
+---
+Category: shiva, mAlAmantra
+Description/comments: Akashabhairavakalpa page 60
+File name: sharabhamAlAmantraH.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: February 22, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Sharabha Mala Mantra
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 gmail.com
+engtitle: sharabhamAlAmantraH
+itxtitle: sharabhamAlAmantraH
+title: शरभमालामन्त्रः
 
-+++
+---
   
  श्री शरभमालामन्त्रः   
 ॐ श्रीगणेशाय नमः ।  

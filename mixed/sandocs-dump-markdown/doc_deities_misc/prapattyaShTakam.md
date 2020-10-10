@@ -1,25 +1,30 @@
-+++
-"Text title" = "prapattyaShTakam Eight Verses of Surrender"
-"File name" = "prapattyaShTakam.itx"
-itxtitle = "prapattyaShTakam"
-engtitle = "Prapattyashtakam Eight Verses of Surrender"
-Category = "aShTaka, deities_misc, jagadIsha-shAstrI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Jagadisha Shastri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion  composed in praise of Ramana Maharshi, just at the eleventh hour when  Jagadisha Shastri had been diagnosed with terminal stomach cancer.  It is said that Maharshi was so moved that he saved him then to live  for a further 38 years.   The Sanskrit works, published by Sri Ramanasramam  have been approved to be posted on Sanskritdocuments.org  by permission of Sri V.S. Ramanan, President, Sri Ramanasramam."
-"Transliterated by" = "Anil Sharma anilandvijaya at gmail.com"
-"Proofread by" = "Anil Sharma, Sunder Hattangadi sunderh  at hotmail.com"
-Description-comments = "Prapattyashtakam, Eight Verses of Surrender was"
-Indexextra = "(Eight Verses of Surrender)"
-Acknowledge-Permission = "Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org"
-"Latest update" = "October 1, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रपत्त्यष्टकम्"
+---
+Acknowledge-Permission: Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org
+Author: Jagadisha Shastri
+Category: aShTaka, deities_misc, jagadIsha-shAstrI
+Description-comments: Prapattyashtakam, Eight Verses of Surrender was
+File name: prapattyaShTakam.itx
+Indexextra: (Eight Verses of Surrender)
+Language: Sanskrit
+Latest update: October 1, 2014
+Location: doc_deities_misc
+Proofread by: Anil Sharma, Sunder Hattangadi sunderh  at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion  composed in praise of Ramana Maharshi, just
+  at the eleventh hour when  Jagadisha Shastri had been diagnosed with terminal stomach
+  cancer.  It is said that Maharshi was so moved that he saved him then to live  for
+  a further 38 years.   The Sanskrit works, published by Sri Ramanasramam  have been
+  approved to be posted on Sanskritdocuments.org  by permission of Sri V.S. Ramanan,
+  President, Sri Ramanasramam.
+Sublocation: deities_misc
+Text title: prapattyaShTakam Eight Verses of Surrender
+Transliterated by: Anil Sharma anilandvijaya at gmail.com
+engtitle: Prapattyashtakam Eight Verses of Surrender
+itxtitle: prapattyaShTakam
+title: प्रपत्त्यष्टकम्
 
-+++
+---
   
  प्रपत्त्यष्टकम्   
   

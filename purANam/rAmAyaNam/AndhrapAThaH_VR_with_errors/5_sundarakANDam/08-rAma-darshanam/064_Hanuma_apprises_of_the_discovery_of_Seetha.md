@@ -3,7 +3,6 @@ title: 064 Hanuma apprises of the discovery of Seetha
 title_english: 064 Hanuma apprises of the discovery of Seetha
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-064-Hanuma_apprises_of_the_discovery_of_Seetha.mp3"></div>
 
 सुग्रीवेण एवम् उक्तः तु हृष्टो दधि मुखः कपिः ।  
@@ -61,7 +60,7 @@ title_english: 064 Hanuma apprises of the discovery of Seetha
 पितृ पैतामहम् च एतत् पूर्वकैः अभिरक्षितम् ।  
 न मे मधु वनम् हन्यात् अहृष्टः प्लवग ईश्वरः ॥ ५-६४-२७  
 कौसल्या सुप्रजा राम समाश्वसिहि सुव्रत ।  
-दृष्टा देवी न संदेहो न च अन्येन हनूमता ॥ ५-६४-२८  
+दृष्टा देवी न सन्देहो न च अन्येन हनूमता ॥ ५-६४-२८  
 न हि अन्यः कर्मणः हेतुः साधने तत् विधो भवेत् ।  
 हनूमति हि सिद्धिः च मतिः च मति सत्तम ॥ ५-६४-२९  
 व्यवसायः च वीर्यम् च सूर्ये तेज इव ध्रुवम् ।  

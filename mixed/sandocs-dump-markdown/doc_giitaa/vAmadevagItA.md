@@ -1,22 +1,22 @@
-+++
-"Text title" = "vAamadevagItA"
-"File name" = "vaamadevagiitaa.itx"
-itxtitle = "vAmadevagItA"
-engtitle = "vAmadevagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-Indexextra = "(mahAbhArata shAntiparva Rajadharma chapters 92-94)"
-"Latest update" = "June 2, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वामदेवगीता"
+---
+Category: gItA, giitaa
+File name: vaamadevagiitaa.itx
+Indexextra: (mahAbhArata shAntiparva Rajadharma chapters 92-94)
+Language: Sanskrit
+Latest update: June 2, 1998
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: vAamadevagItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: vAmadevagItA
+itxtitle: vAmadevagItA
+title: वामदेवगीता
 
-+++
+---
   
  वामदेवगीता   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Devarajamangalam"
-"File name" = "devarAjamangalam.itx"
-itxtitle = "devarAjamaNgalam"
-engtitle = "devarAjamangalam"
-Category = "vishhnu, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Ramanuja Stotramala"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवराजमण्गलम्"
+---
+Category: vishhnu, mangala
+Description/comments: Ramanuja Stotramala
+File name: devarAjamangalam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Devarajamangalam
+engtitle: devarAjamangalam
+itxtitle: devarAjamaNgalam
+title: देवराजमण्गलम्
 
-+++
+---
   
  देवराजमङ्गलम्   
 श्रीवरवरमुनिभिरनुगृहीतं  

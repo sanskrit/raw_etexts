@@ -1,23 +1,23 @@
-+++
-"Text title" = "ashvatthastotram.inf"
-"File name" = "ashvatthastotram.itx"
-itxtitle = "ashvatthastotram"
-engtitle = "ashvattha stotram"
-Category = "deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Author = "traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion ??"
-"Transliterated by" = "Anuradha Anuraadha at cs.com"
-"Proofread by" = "Anuradha Anuraadha at cs.com"
-"Latest update" = "February 6, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अश्वत्थस्तोत्रम्"
+---
+Author: traditional
+Category: deities_misc, stotra
+File name: ashvatthastotram.itx
+Language: Sanskrit
+Latest update: February 6, 2003
+Location: doc_deities_misc
+Proofread by: Anuradha Anuraadha at cs.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion ??
+Sublocation: deities_misc
+Text title: ashvatthastotram.inf
+Texttype: stotra
+Transliterated by: Anuradha Anuraadha at cs.com
+engtitle: ashvattha stotram
+itxtitle: ashvatthastotram
+title: अश्वत्थस्तोत्रम्
 
-+++
+---
   
  अश्वत्थस्तोत्रम्   
   

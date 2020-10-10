@@ -1,24 +1,24 @@
-+++
-"Text title" = "tIvrachaNDikAstotra"
-"File name" = "tIvrachaNDikAstotra.itx"
-itxtitle = "tIvrachaNDikAstotram (mArkaNDeyapurANAntargatam)"
-engtitle = "tIvrachaNDikAstotra"
-Category = "devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD, T K Subbaramana, Malleswara Rao Yellapragada"
-Description-comments = "http://mysiddhashram.blogspot.com/ , https://archive.org/details/ChandikaStotra"
-Source = "mArkaNDeyapurANa"
-"Latest update" = "September 5, 2013, August 13, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तीव्रचण्डिकास्तोत्रम् (मार्कण्डेयपुराणान्तर्गतम्)"
+---
+Category: devii, durgA, stotra, devI
+Description-comments: http://mysiddhashram.blogspot.com/ , https://archive.org/details/ChandikaStotra
+File name: tIvrachaNDikAstotra.itx
+Language: Sanskrit
+Latest update: September 5, 2013, August 13, 2017
+Location: doc_devii
+Proofread by: DPD, T K Subbaramana, Malleswara Rao Yellapragada
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: mArkaNDeyapurANa
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tIvrachaNDikAstotra
+Texttype: stotra
+engtitle: tIvrachaNDikAstotra
+itxtitle: tIvrachaNDikAstotram (mArkaNDeyapurANAntargatam)
+title: तीव्रचण्डिकास्तोत्रम् (मार्कण्डेयपुराणान्तर्गतम्)
 
-+++
+---
   
  तीव्रचण्डिकास्तोत्रम्   
 अथवा श्रीमार्कण्डेयपुराणोक्त चण्डिकास्तोत्रम् ।  

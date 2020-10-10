@@ -1,22 +1,22 @@
-+++
-"Text title" = "rameshastotram"
-"File name" = "rameshastotram.itx"
-itxtitle = "ramesha prAtaHsmaraNastotram (pancharAtrAgame pUjAkANDe, vAdirAjaproktam)"
-engtitle = "rameshastotram"
-Category = "vishhnu, vAdirAja, suprabhAta"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Vadiraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रमेश प्रातःस्मरणस्तोत्रम् (पञ्चरात्रागमे पूजाकाण्डे, वादिराजप्रोक्तम्)"
+---
+Author: Vadiraja
+Category: vishhnu, vAdirAja, suprabhAta
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: rameshastotram.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: rameshastotram
+engtitle: rameshastotram
+itxtitle: ramesha prAtaHsmaraNastotram (pancharAtrAgame pUjAkANDe, vAdirAjaproktam)
+title: रमेश प्रातःस्मरणस्तोत्रम् (पञ्चरात्रागमे पूजाकाण्डे, वादिराजप्रोक्तम्)
 
-+++
+---
   
  रमेश प्रातःस्मरणस्तोत्रम्   
 प्रातः स्मरामि वरकुण्डलशोभिगण्डं  

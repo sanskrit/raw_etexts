@@ -1,31 +1,31 @@
-+++
-"Text title" = "Lambodara Stuti by Krodhasura"
-"File name" = "lambodarastutiHkrodhAsureNaproktA.itx"
-itxtitle = "lambodarastutiH krodhAsureNa proktA (mudgalapurANAntargatA)"
-engtitle = "lambodarastutiH krodhAsureNa proktA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan"
-"Proofread by" = "Ajit Krishnan, PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 5, Adhyaya 8"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "लम्बोदरस्तुतिः क्रोधासुरेण प्रोक्ता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 5, Adhyaya 8
+File name: lambodarastutiHkrodhAsureNaproktA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: Ajit Krishnan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Lambodara Stuti by Krodhasura
+Transliterated by: Ajit Krishnan
+engtitle: lambodarastutiH krodhAsureNa proktA
+itxtitle: lambodarastutiH krodhAsureNa proktA (mudgalapurANAntargatA)
+title: लम्बोदरस्तुतिः क्रोधासुरेण प्रोक्ता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  लम्बोदरस्तुतिः क्रोधासुरेण प्रोक्ता   
 क्रोधासुर उवाच -  
 लम्बोदर! नमस्तुभ्यं शान्तियोगस्वरूपिणे ।  
 सर्वशान्तिप्रदात्रे ते विघ्नेशाय नमो नमः ॥ ३३॥  
   
-असंप्रज्ञातरूपेयं शुण्डा ते नात्र संशयः ।  
-संप्रज्ञातमयो देहो देहधारिन्! नमो नमः ॥ ३४॥  
+असम्प्रज्ञातरूपेयं शुण्डा ते नात्र संशयः ।  
+सम्प्रज्ञातमयो देहो देहधारिन्! नमो नमः ॥ ३४॥  
   
 स्वानन्दे योगिभिर्नित्यं दृष्टस्त्वं ब्रह्मनायकः ।  
 तेन स्वानन्दवासी त्वं नमः संयोगधारिणे ॥ ३५॥  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "RiShyaShTottarashatanAmAni"
-"File name" = "Rishi108naama.itx"
-itxtitle = "RiShyaShTottarashatanAmAni"
-engtitle = "RiShyaShTottarashatanAmAni"
-Category = "aShTottarashatanAmAvalI, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at sify.com"
-"Proofread by" = "N.Balasubramanian bbalu at sify.com"
-"Latest update" = "October 30, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ऋइष्यष्टोत्तरशतनामानि"
+---
+Category: aShTottarashatanAmAvalI, deities_misc
+File name: Rishi108naama.itx
+Language: Sanskrit
+Latest update: October 30, 2008
+Location: doc_deities_misc
+Proofread by: N.Balasubramanian bbalu at sify.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: RiShyaShTottarashatanAmAni
+Transliterated by: N.Balasubramanian bbalu at sify.com
+engtitle: RiShyaShTottarashatanAmAni
+itxtitle: RiShyaShTottarashatanAmAni
+title: ऋइष्यष्टोत्तरशतनामानि
 
-+++
+---
   
  ऋष्यष्टोत्तरशतनामानि   
   
@@ -59,7 +59,7 @@ title = "ऋइष्यष्टोत्तरशतनामानि"
 ॐ उद्गातृभ्यो नमः ।  
 ॐ धर्मप्रवर्तकेभ्यो नमः ।  
 ॐ आचारप्रवर्तकेभ्यो नमः ।  
-ॐ संप्रदायप्रवर्तकेभ्यो नमः ।  
+ॐ सम्प्रदायप्रवर्तकेभ्यो नमः ।  
 ॐ अनुशासितृभ्यो नमः । ४०।  
 ॐ वेदवेदान्तपारगेभ्यो नमः ।  
 ॐ वेदाङ्गप्रचारकेभ्यो नमः ।  

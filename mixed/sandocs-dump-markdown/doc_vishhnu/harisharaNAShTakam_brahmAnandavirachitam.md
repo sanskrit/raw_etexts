@@ -1,25 +1,25 @@
-+++
-"Text title" = "harisharaNAShTakam"
-"File name" = "harisharaNAShTakam.itx"
-itxtitle = "harisharaNAShTakam (brahmAnandavirachitam)"
-engtitle = "harisharaNAShTakam"
-Category = "aShTaka, vishhnu, hari, brahmAnanda, vishnu, vedanta"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "hari"
-Author = "Swami Brahmananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, NA"
-Indexextra = "(Hindi)"
-"Latest update" = "July 22, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिशरणाष्टकम् (ब्रह्मानन्दविरचितम्)"
+---
+Author: Swami Brahmananda
+Category: aShTaka, vishhnu, hari, brahmAnanda, vishnu, vedanta
+File name: harisharaNAShTakam.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: July 22, 2012
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: hari
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: harisharaNAShTakam
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: harisharaNAShTakam
+itxtitle: harisharaNAShTakam (brahmAnandavirachitam)
+title: हरिशरणाष्टकम् (ब्रह्मानन्दविरचितम्)
 
-+++
+---
   
  श्रीहरिशरणाष्टकम्   
 श्रीगणेशाय नमः ॥  
@@ -32,7 +32,7 @@ title = "हरिशरणाष्टकम् (ब्रह्मानन्
   
 नो सोदरो न जनको जननी न जाया  
 नैवात्मजो न च कुलं विपुलं बलं वा ।   
-संदृष्यते न किल कोऽपि सहायको मे  
+सन्दृष्यते न किल कोऽपि सहायको मे  
 तस्मात्त्वमेव शरणं मम शङ्खपाणे ॥ २॥  
   
 नोपासिता मदमपास्य मया महान्तस्-  

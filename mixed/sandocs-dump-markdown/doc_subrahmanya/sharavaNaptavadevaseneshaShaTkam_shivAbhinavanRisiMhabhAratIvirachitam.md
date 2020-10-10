@@ -1,22 +1,22 @@
-+++
-"Text title" = "sharavaNaptavadevaseneshaShaTkam"
-"File name" = "sharavaNaptavadevaseneshaShaTkam.itx"
-itxtitle = "sharavaNaptavadevaseneshaShaTkam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "sharavaNaptavadevaseneshaShaTkam"
-Category = "subrahmanya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, ShaTkam"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरवणप्तवदेवसेनेशषट्कम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: subrahmanya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, ShaTkam
+File name: sharavaNaptavadevaseneshaShaTkam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: sharavaNaptavadevaseneshaShaTkam
+engtitle: sharavaNaptavadevaseneshaShaTkam
+itxtitle: sharavaNaptavadevaseneshaShaTkam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: शरवणप्तवदेवसेनेशषट्कम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीशरवणप्तवदेवसेनेशषट्कम्   
 करतलराजच्छक्त स्वरदपराभूतकुन्दसुमगर्व ।  

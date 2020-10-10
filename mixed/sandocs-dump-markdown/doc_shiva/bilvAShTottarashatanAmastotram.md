@@ -1,23 +1,23 @@
-+++
-"Text title" = "Bilva-108-Namavali"
-"File name" = "bilva108.itx"
-itxtitle = "bilvAShTottarashatanAmastotram"
-engtitle = "Bilva 108Namastotram"
-Category = "aShTottarashatanAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Unknown"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Durga Prasad S. P. N."
-"Proofread by" = "Sunder Hattangadi, PS Easwaran psaeaswaran at gmail.com"
-Description-comments = "108 names of Shiva chanted with offering of bilva leaves"
-"Latest update" = "Mar. 15, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बिल्वाष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Unknown
+Category: aShTottarashatanAma, shiva
+Description-comments: 108 names of Shiva chanted with offering of bilva leaves
+File name: bilva108.itx
+Language: Sanskrit
+Latest update: Mar. 15, 2001
+Location: doc_shiva
+Proofread by: Sunder Hattangadi, PS Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: shiva
+Text title: Bilva-108-Namavali
+Transliterated by: Durga Prasad S. P. N.
+engtitle: Bilva 108Namastotram
+itxtitle: bilvAShTottarashatanAmastotram
+title: बिल्वाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  बिल्वाष्टोत्तरशतनामस्तोत्रम्   
   

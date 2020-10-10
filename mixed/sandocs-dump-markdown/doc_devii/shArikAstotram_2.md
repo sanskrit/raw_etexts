@@ -1,23 +1,23 @@
-+++
-"Text title" = "shArikAstotram 2"
-"File name" = "shArikAstotram2.itx"
-itxtitle = "shArikAstotram 2"
-engtitle = "shArikAstotram 2"
-Category = "devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "BhaktivivekasAra"
-Indexextra = "(Scanned)"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारिकास्तोत्रम् २"
+---
+Category: devii, devI, dashamahAvidyA
+Description/comments: BhaktivivekasAra
+File name: shArikAstotram2.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shArikAstotram 2
+engtitle: shArikAstotram 2
+itxtitle: shArikAstotram 2
+title: शारिकास्तोत्रम् २
 
-+++
+---
   
  शारिकास्तोत्रम् २   
 बीजैः सप्तभिरुज्ज्वलाकृतिरसौ या सप्तसप्तिद्युतिः  

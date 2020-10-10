@@ -1,20 +1,20 @@
-+++
-"Text title" = "Nrisimhamantrah"
-"File name" = "nRRisimhamantraH.itx"
-itxtitle = "nRisiMhamantraH (prahlAdakRitaH)"
-engtitle = "nRRisimhamantraH"
-Category = "vishhnu, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "January 27, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहमन्त्रः (प्रह्लादकृइतः)"
+---
+Category: vishhnu, dashAvatAra
+File name: nRRisimhamantraH.itx
+Language: Sanskrit
+Latest update: January 27, 2019
+Location: doc_vishhnu
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Nrisimhamantrah
+engtitle: nRRisimhamantraH
+itxtitle: nRisiMhamantraH (prahlAdakRitaH)
+title: नृइसिंहमन्त्रः (प्रह्लादकृइतः)
 
-+++
+---
   
  प्रह्लादकृत श्रीनृसिंहमन्त्रः   
 ॐ अस्य श्रीअभयनरसिंहमन्त्रस्य शुकऋषिः,  

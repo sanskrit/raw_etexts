@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shiva Stuti by Matsarasura"
-"File name" = "shivastutiHmatsarAsurakRRitA.itx"
-itxtitle = "shivastutiH matsarAsurakRitA (mudgalapurANAntargatA)"
-engtitle = "shivastutiH matsarAsurakRitA"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 24"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "शिवस्तुतिः मत्सरासुरकृइता (मुद्गलपुराणान्तर्गता)"
+---
+Category: shiva
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 24
+File name: shivastutiHmatsarAsurakRRitA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shiva Stuti by Matsarasura
+Transliterated by: NA
+engtitle: shivastutiH matsarAsurakRitA
+itxtitle: shivastutiH matsarAsurakRitA (mudgalapurANAntargatA)
+title: शिवस्तुतिः मत्सरासुरकृइता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  शिवस्तुतिः मत्सरासुरकृता   
 श्रीगणेशाय नमः ।  

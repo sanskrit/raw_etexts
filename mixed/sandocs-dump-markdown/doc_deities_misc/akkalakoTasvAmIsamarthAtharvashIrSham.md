@@ -1,22 +1,22 @@
-+++
-"Text title" = "akkalakoTa svAmI samartha atharvashIrSham"
-"File name" = "svAmIsamarthAtharvashIrSham.itx"
-itxtitle = "akkalakoTasvAmIsamarthAtharvashIrSham"
-engtitle = "Akkalakota Swami Samartha Atharvashirsham"
-Category = "deities_misc, gurudev, atharvashIrSha"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Latest update" = "May 12, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अक्कलकोटस्वामीसमर्थाथर्वशीर्षम्"
+---
+Category: deities_misc, gurudev, atharvashIrSha
+File name: svAmIsamarthAtharvashIrSham.itx
+Language: Sanskrit
+Latest update: May 12, 2019
+Location: doc_deities_misc
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: akkalakoTa svAmI samartha atharvashIrSham
+Transliterated by: NA
+engtitle: Akkalakota Swami Samartha Atharvashirsham
+itxtitle: akkalakoTasvAmIsamarthAtharvashIrSham
+title: अक्कलकोटस्वामीसमर्थाथर्वशीर्षम्
 
-+++
+---
   
  श्रीसमर्थाथर्वशीर्षम्   
 अथ श्री अक्कलकोटीस्वामीसमर्थाथर्वशीर्षम् ।  

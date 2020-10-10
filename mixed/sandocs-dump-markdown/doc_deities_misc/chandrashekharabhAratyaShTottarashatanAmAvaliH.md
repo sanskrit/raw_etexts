@@ -1,23 +1,23 @@
-+++
-"Text title" = "Chandrashekharabharati Ashtottarashatanamavali"
-"File name" = "chandrashekharabhAratyashtottarashatanAmAvalI.itx"
-itxtitle = "chandrashekharabhAratyaShTottarashatanAmAvaliH"
-engtitle = "Chandrashekharabharati Ashtottarashatanamavali"
-Category = "aShTottarashatanAmAvalI, deities_misc, gurudev, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vasanth Sa gsathyaarumugam at gmail.com"
-"Proofread by" = "Vasanth Sa gsathyaarumugam at gmail.com"
-"Latest update" = "January 4, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्रशेखरभारत्यष्टोत्तरशतनामावलिः"
+---
+Category: aShTottarashatanAmAvalI, deities_misc, gurudev, nAmAvalI
+File name: chandrashekharabhAratyashtottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: January 4, 2019
+Location: doc_deities_misc
+Proofread by: Vasanth Sa gsathyaarumugam at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Chandrashekharabharati Ashtottarashatanamavali
+Texttype: nAmAvalI
+Transliterated by: Vasanth Sa gsathyaarumugam at gmail.com
+engtitle: Chandrashekharabharati Ashtottarashatanamavali
+itxtitle: chandrashekharabhAratyaShTottarashatanAmAvaliH
+title: चन्द्रशेखरभारत्यष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीचन्द्रशेखरभारत्यष्टोत्तरशतनामावलिः   
 सदात्मध्याननिरतं विषयेभ्यः पराङ्मुखम् ।  

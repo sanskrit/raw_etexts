@@ -1,24 +1,24 @@
-+++
-"Text title" = "domakoNDAchAmuNDEshvarIsuprabhAtam"
-"File name" = "domakoNDAchAmuNDEshvarIsuprabhAtam.itx"
-itxtitle = "domakoNDAchAmuNDeshvarIsuprabhAtam (koriDe vishvanAthasharmaNAvirachitam)"
-engtitle = "domakoNDAchAmuNDEshvarIsuprabhAtam"
-Category = "devii, koriDevishvanAthasharmA, suprabhAta, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "koriDe vishvanAthasharmA, dharmapurI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "koriDe vishvanAthasharmA"
-"Proofread by" = "koriDe vishvanAthasharmA"
-Indexextra = "(blog)"
-Acknowledge-Permission = "Koride Vishwanatha Sharma"
-"Latest update" = "February 24, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दोमकोण्डाचामुण्डेश्वरीसुप्रभातम् (कोरिडे विश्वनाथशर्मणाविरचितम्)"
+---
+Acknowledge-Permission: Koride Vishwanatha Sharma
+Author: koriDe vishvanAthasharmA, dharmapurI
+Category: devii, koriDevishvanAthasharmA, suprabhAta, devI
+File name: domakoNDAchAmuNDEshvarIsuprabhAtam.itx
+Indexextra: (blog)
+Language: Sanskrit
+Latest update: February 24, 2018
+Location: doc_devii
+Proofread by: koriDe vishvanAthasharmA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: domakoNDAchAmuNDEshvarIsuprabhAtam
+Transliterated by: koriDe vishvanAthasharmA
+engtitle: domakoNDAchAmuNDEshvarIsuprabhAtam
+itxtitle: domakoNDAchAmuNDeshvarIsuprabhAtam (koriDe vishvanAthasharmaNAvirachitam)
+title: दोमकोण्डाचामुण्डेश्वरीसुप्रभातम् (कोरिडे विश्वनाथशर्मणाविरचितम्)
 
-+++
+---
   
  श्री दोमकोण्ड चामुण्डेश्वरी सुप्रभातम्   
   

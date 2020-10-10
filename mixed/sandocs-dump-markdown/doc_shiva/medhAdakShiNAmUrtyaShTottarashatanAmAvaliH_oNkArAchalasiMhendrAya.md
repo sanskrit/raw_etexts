@@ -1,22 +1,22 @@
-+++
-"Text title" = "Medha Dakshinamurti Ashtottarashata Namavali 108 Names"
-"File name" = "medhAdakShiNAmUrtyaShTottarashatanAmAvaliH.itx"
-itxtitle = "medhAdakShiNAmUrtyaShTottarashatanAmAvaliH (oNkArAchalasiMhendrAya)"
-engtitle = "Medha Dakshinamurti Ashtottarashata Namavali"
-Category = "aShTottarashatanAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna gmail.com"
-Indexextra = "(Scan, Info)"
-"Latest update" = "July 6, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मेधादक्षिणामूर्त्यष्टोत्तरशतनामावलिः (ओण्काराचलसिंहेन्द्राय)"
+---
+Category: aShTottarashatanAmAvalI, shiva
+File name: medhAdakShiNAmUrtyaShTottarashatanAmAvaliH.itx
+Indexextra: (Scan, Info)
+Language: Sanskrit
+Latest update: July 6, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Medha Dakshinamurti Ashtottarashata Namavali 108 Names
+Transliterated by: Aruna Narayanan narayanan.aruna gmail.com
+engtitle: Medha Dakshinamurti Ashtottarashata Namavali
+itxtitle: medhAdakShiNAmUrtyaShTottarashatanAmAvaliH (oNkArAchalasiMhendrAya)
+title: मेधादक्षिणामूर्त्यष्टोत्तरशतनामावलिः (ओण्काराचलसिंहेन्द्राय)
 
-+++
+---
   
  श्री मेधादक्षिणामूर्त्यष्टोत्तरशतनामावलिः   
 ॐ नमो भगवते दक्षिणामूर्तये मह्यं मेधां प्रज्ञां प्रयच्छ स्वाहा ।  

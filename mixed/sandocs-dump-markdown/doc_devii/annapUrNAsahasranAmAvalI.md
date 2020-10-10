@@ -1,25 +1,25 @@
-+++
-"Text title" = "annapUrNA sahasranAmAvali"
-"File name" = "anna1000.itx"
-itxtitle = "annapUrNAsahasranAmAvalI"
-engtitle = "annapUrNA sahasranAmAvalI"
-Category = "sahasranAmAvalI, devii, pArvatI, nAmAvalI, annapUrNa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.mypurohith.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale uttarakhaNDe bhavAnIshvarasaMvAde"
-"Latest update" = "January 25, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अन्नपूर्णासहस्रनामावली"
+---
+Author: Traditional
+Category: sahasranAmAvalI, devii, pArvatI, nAmAvalI, annapUrNa, devI
+Description-comments: rudrayAmale uttarakhaNDe bhavAnIshvarasaMvAde
+File name: anna1000.itx
+Language: Sanskrit
+Latest update: January 25, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: annapUrNA sahasranAmAvali
+Texttype: nAmAvalI
+Transliterated by: http://www.mypurohith.com
+engtitle: annapUrNA sahasranAmAvalI
+itxtitle: annapUrNAsahasranAmAvalI
+title: अन्नपूर्णासहस्रनामावली
 
-+++
+---
   
  श्रीअन्नपूर्णासहस्रनामावली   
   
@@ -261,7 +261,7 @@ title = "अन्नपूर्णासहस्रनामावली"
 ॐ कञ्जनेत्रायै नमः  
 ॐ कचोद्भवायै नमः  
 ॐ कामरूपायै नमः  
-ॐ ह्रींकार्यै नमः  
+ॐ ह्रीङ्कार्यै नमः  
 ॐ कश्यपान्वयवर्धिन्यै नमः  
 ॐ खर्वायै नमः  
 ॐ खञ्जनद्वन्द्वलोचनायै नमः  

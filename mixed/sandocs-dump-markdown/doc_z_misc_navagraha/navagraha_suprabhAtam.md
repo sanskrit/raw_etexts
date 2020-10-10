@@ -1,21 +1,21 @@
-+++
-"Text title" = "navagrahasuprabhAtam"
-"File name" = "navagrahasuprabhAtam.itx"
-itxtitle = "navagraha suprabhAtam"
-engtitle = "Navagraha Suprabhatam"
-Category = "suprabhAta, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Lakshmi R.S. lakish at gmail.com, NA, PSAEaswaran"
-"Proofread by" = "PSAEaswaran. (KSR, Avinash Sathaye were involved in the discussion.)"
-"Latest update" = "September 17, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रह सुप्रभातम्"
+---
+Category: suprabhAta, navagraha
+File name: navagrahasuprabhAtam.itx
+Language: Sanskrit
+Latest update: September 17, 2013
+Location: doc_z_misc_navagraha
+Proofread by: PSAEaswaran. (KSR, Avinash Sathaye were involved in the discussion.)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: navagrahasuprabhAtam
+Transliterated by: Lakshmi R.S. lakish at gmail.com, NA, PSAEaswaran
+engtitle: Navagraha Suprabhatam
+itxtitle: navagraha suprabhAtam
+title: नवग्रह सुप्रभातम्
 
-+++
+---
   
  नवग्रह सुप्रभातम्   
   

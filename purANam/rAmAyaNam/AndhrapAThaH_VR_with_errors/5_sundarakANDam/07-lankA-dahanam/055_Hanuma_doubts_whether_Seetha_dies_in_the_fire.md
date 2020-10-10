@@ -3,10 +3,9 @@ title: 055 Hanuma doubts whether Seetha dies in the fire
 title_english: 055 Hanuma doubts whether Seetha dies in the fire
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-055-Hanuma_doubts_whether_Seetha_dies_in_the_fire.mp3"></div>
 
-संदीप्यमानाम् विध्वस्ताम् त्रस्त रक्षो गणाम् पुरीम् ।  
+सन्दीप्यमानाम् विध्वस्ताम् त्रस्त रक्षो गणाम् पुरीम् ।  
 अवेक्ष्य हानुमाम्ल् लन्काम् चिन्तयामास वानरः ॥ ५-५५-१  
 तस्य अभूत् सुमहान् त्रासः कुत्सा च आत्मनि अजायत ।  
 लन्काम् प्रदहता कर्म किंस्वित् कृतम् इदम् मया ॥ ५-५५-२  

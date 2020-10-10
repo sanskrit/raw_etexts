@@ -1,22 +1,23 @@
-+++
-"Text title" = "prAdhAnikarahasyam"
-"File name" = "prAdhAnikarahasyam.itx"
-itxtitle = "prAdhAnikarahasyam (mArkaNDeyapurANAntargatam)"
-engtitle = "prAdhAnikarahasyam"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-Source = "mArkaNDeyapurANa"
-"Latest update" = "February 20, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्राधानिकरहस्यम् (मार्कण्डेयपुराणान्तर्गतम्)"
+---
+Category: devii, devI
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: prAdhAnikarahasyam.itx
+Language: Sanskrit
+Latest update: February 20, 2017
+Location: doc_devii
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: mArkaNDeyapurANa
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: prAdhAnikarahasyam
+engtitle: prAdhAnikarahasyam
+itxtitle: prAdhAnikarahasyam (mArkaNDeyapurANAntargatam)
+title: प्राधानिकरहस्यम् (मार्कण्डेयपुराणान्तर्गतम्)
 
-+++
+---
   
  प्राधानिकरहस्यम्   
   

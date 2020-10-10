@@ -1,22 +1,23 @@
-+++
-"Text title" = "vaikRitikarahasyam"
-"File name" = "vaikRitikarahasyam.itx"
-itxtitle = "vaikRitikarahasyam (mArkaNDeyapurANAntargatam)"
-engtitle = "vaikRitikarahasyam"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-Source = "mArkaNDeyapurANa"
-"Latest update" = "March 22, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वैकृइतिकरहस्यम् (मार्कण्डेयपुराणान्तर्गतम्)"
+---
+Category: devii, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: vaikRitikarahasyam.itx
+Language: Sanskrit
+Latest update: March 22, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: mArkaNDeyapurANa
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vaikRitikarahasyam
+engtitle: vaikRitikarahasyam
+itxtitle: vaikRitikarahasyam (mArkaNDeyapurANAntargatam)
+title: वैकृइतिकरहस्यम् (मार्कण्डेयपुराणान्तर्गतम्)
 
-+++
+---
   
  वैकृतिकं रहस्यम्   
   

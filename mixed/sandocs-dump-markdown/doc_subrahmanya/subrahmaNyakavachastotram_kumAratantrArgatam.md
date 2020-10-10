@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrii subrahmaNyakavachastotraM"
-"File name" = "subrakavacha.itx"
-itxtitle = "subrahmaNyakavachastotram (kumAratantrArgatam)"
-engtitle = "subrahmaNyakavachastotram"
-Category = "kavacha, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-Description-comments = "kumaaratantre kaushikaprashne mahaa saMhitaayaam"
-"Latest update" = "March 15, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यकवचस्तोत्रम् (कुमारतन्त्रार्गतम्)"
+---
+Category: kavacha, subrahmanya
+Description-comments: kumaaratantre kaushikaprashne mahaa saMhitaayaam
+File name: subrakavacha.itx
+Language: Sanskrit
+Latest update: March 15, 2006
+Location: doc_subrahmanya
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrii subrahmaNyakavachastotraM
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: subrahmaNyakavachastotram
+itxtitle: subrahmaNyakavachastotram (kumAratantrArgatam)
+title: सुब्रह्मण्यकवचस्तोत्रम् (कुमारतन्त्रार्गतम्)
 
-+++
+---
   
  श्रीसुब्रह्मण्यकवचस्तोत्रम्   
   
@@ -27,7 +27,7 @@ title = "सुब्रह्मण्यकवचस्तोत्रम् (
   
 करन्यासः ॥  
   
-सां अंगुष्ठाभ्यां नमः  
+सां अङ्गुष्ठाभ्यां नमः  
 सीं तर्जनीभ्यां नमः  
 सूं मध्यमाभ्यां नमः  
 सैं अनामिकाभ्यां नमः  
@@ -48,7 +48,7 @@ title = "सुब्रह्मण्यकवचस्तोत्रम् (
   
 सिन्दूरारुणमिन्दुकान्तिवदनं केयूरहारादिभिः  
 दिव्यैराभरणेर्विभूषिततनुं स्वर्गादिसौख्यप्रदम् ।  
-अंभोजाभयशक्तिकुक्कुटधरं रक्तांगरागोज्वलं  
+अम्भोजाभयशक्तिकुक्कुटधरं रक्ताङ्गरागोज्वलं  
 सुब्रह्मण्यमुपास्महे प्रणमतां भीतिप्रणाशोद्यतम् ॥  
   
 सुब्रह्मण्योग्रतः पातु सेनानीः पातु पृष्ठतः ।  
@@ -68,7 +68,7 @@ title = "सुब्रह्मण्यकवचस्तोत्रम् (
 हस्तौ शक्तिधरः पातु वक्षः पातु शरोद्भवः ।  
 हृदयं वह्निभूः पातु कुक्षिं पात्वम्बिकासुतः ॥ ५॥  
   
-नाभिं शंभुसुतः पातु कटिं पातु हरात्मजः ।  
+नाभिं शम्भुसुतः पातु कटिं पातु हरात्मजः ।  
 ऊरु पातु गजारूढो जानू मे जाह्नवीसुतः ॥ ६॥  
   
 जङ्घे विशाखो मे पातु पादौ मे शिखिवाहनः ।  
@@ -95,7 +95,7 @@ title = "सुब्रह्मण्यकवचस्तोत्रम् (
 पूजाप्रतिष्ठाकाले च जपकाले पठेदिदम् ॥ १३॥  
   
 तेषामेवफलावाप्तिः महापातकनाशनम् ।  
-यः पठेच्छृणुयाद्भक्त्या नित्यंदेवस्य सन्निधौ ॥ १४॥  
+यः पठेच्छृणुयाद्भक्त्या नित्यन्देवस्य सन्निधौ ॥ १४॥  
   
 ॥ इति कुमारतन्त्रे कौशिकप्रश्ने महा संहितायां  
 सुब्रह्मण्यकवचं समाप्तः ॥  

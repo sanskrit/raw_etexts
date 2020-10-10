@@ -1,23 +1,23 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 12 gatiprachAra"
-"File name" = "natya12.itx"
-itxtitle = "nATyashAstram adhyAyaH 12 gatiprachAraH"
-engtitle = "Natya Shastra Chapter 12 gatiprachAraH"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture/Dance/Drama"
-"Transliterated by" = "Sowmya Krishnapur krsowmya at yahoo.com"
-"Proofread by" = "Sowmya Krishnapur krsowmya at yahoo.com"
-"Latest update" = "May 22, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः १२ गतिप्रचारः"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya12.itx
+Language: Sanskrit
+Latest update: May 22, 2007
+Location: doc_z_misc_major_works
+Proofread by: Sowmya Krishnapur krsowmya at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture/Dance/Drama
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 12 gatiprachAra
+Texttype: pramukha
+Transliterated by: Sowmya Krishnapur krsowmya at yahoo.com
+engtitle: Natya Shastra Chapter 12 gatiprachAraH
+itxtitle: nATyashAstram adhyAyaH 12 gatiprachAraH
+title: नाट्यशास्त्रम् अध्यायः १२ गतिप्रचारः
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः १२ गतिप्रचार   
   
@@ -112,7 +112,7 @@ title = "नाट्यशास्त्रम् अध्यायः १२
 एवं देवानुकरणे दोषो ह्यत्र न विद्यते ॥ २८॥  
   
 अयं विधिस्तु कर्तव्यः स्वच्छन्दगमनं प्रति ।  
-संभ्रमोत्पातरोषेषु प्रमाणं न विधीयते ॥ २९॥  
+सम्भ्रमोत्पातरोषेषु प्रमाणं न विधीयते ॥ २९॥  
   
 सर्वासां प्रकृतीनां तु अवस्थान्तरसंश्रया ।  
 उत्तमाधममध्यानां गतिः कार्या प्रयोक्तृभिः ॥ ३०॥  
@@ -151,7 +151,7 @@ title = "नाट्यशास्त्रम् अध्यायः १२
 सूचया चाप्यभिनयं कुर्यादर्थसमाश्रयम् ॥ ४१॥  
   
 हृद्यैर्गन्धैस्तथा वस्त्रैरलङ्कारैश्च भूषितः ।  
-नानापुष्पसुगन्धाभिर्मालाभिः समलंकृतः ॥ ४२॥  
+नानापुष्पसुगन्धाभिर्मालाभिः समलङ्कृतः ॥ ४२॥  
   
 गच्छेत् सललितैः पादैरतिक्रान्तस्थितैस्तथा ।  
 तथा सौष्ठवसंयुक्तैर्लयतालवशानुगैः ॥ ४३॥  
@@ -166,9 +166,9 @@ title = "नाट्यशास्त्रम् अध्यायः १२
 वेलासदृशवस्त्रश्च सह दूत्या शनैस्तथा ॥ ४६॥  
   
 व्रजेत् प्रच्छन्नकामस्तु पादैर्निश्शब्दमन्दगैः ।  
-शब्दशंक्युत्सुकश्च स्यादवलोकनतत्परः ॥ ४७॥  
+शब्दशङ्क्युत्सुकश्च स्यादवलोकनतत्परः ॥ ४७॥  
   
-वेपमानशरीरश्च शंकितः प्रस्खलन् मुहुः ।  
+वेपमानशरीरश्च शङ्कितः प्रस्खलन् मुहुः ।  
 रसे रौद्रे तु वक्ष्यामि दैत्यरक्षोगणान् प्रति ॥ ४८॥  
   
 एक एव रसस्तेषां स्थायी रौद्रो द्विजोत्तमाः ।  
@@ -343,7 +343,7 @@ title = "नाट्यशास्त्रम् अध्यायः १२
 एतदेवावतरणं सरित्स्वपि नियोजयेत् ॥ १०५॥  
   
 अनेनैव विधानेन कर्तव्यं गतिचेष्टितम् ।  
-संज्ञामात्रेण कर्तव्यान्येतानि विधिपूर्वकम् ॥ १०६॥  
+सञ्ज्ञामात्रेण कर्तव्यान्येतानि विधिपूर्वकम् ॥ १०६॥  
   
 कस्मान्मृत इति प्रोक्ते किं कर्तव्यं प्रयोक्तृभिः ।  
 अङ्कुशग्रहणान्नागं खलीनग्रहणाद्धयम् ॥ १०७॥  
@@ -352,7 +352,7 @@ title = "नाट्यशास्त्रम् अध्यायः १२
 अश्वयाने गतिः कार्या वैशाखस्थानकेन तु ॥ १०८॥  
   
 यथा चूर्णपदैश्चित्रैरुपर्युपरि पातितैः ।  
-पन्नगानां गतिः कार्या पादैः स्वस्तिकसंज्ञितैः ॥ १०९॥  
+पन्नगानां गतिः कार्या पादैः स्वस्तिकसञ्ज्ञितैः ॥ १०९॥  
   
 पार्श्वक्रान्तं पदं कुर्यात् स्वस्तिकं रेचयेदिह ।  
 विटस्यापि तु कर्तव्या गतिर्ललितविक्रमा ॥ ११०॥  
@@ -447,7 +447,7 @@ title = "नाट्यशास्त्रम् अध्यायः १२
 यदा तु बकवद्गच्छेदुल्लोकितविलोकितैः ।  
 अन्यायतपदत्वाच्च अङ्गहास्यो भवेत्स तु ॥ १४०॥  
   
-कार्यहास्यं तु विज्ञेयमसंबद्धप्रभाषणात् ।  
+कार्यहास्यं तु विज्ञेयमसम्बद्धप्रभाषणात् ।  
 अनर्थकैर्विकारैश्च तथा चाश्लीलभाषितैः ॥ १४१॥  
   
 चीरचर्ममशीभस्मगैरिकाद्यैस्तु मण्डितः ।  
@@ -539,7 +539,7 @@ title = "नाट्यशास्त्रम् अध्यायः १२
 स्त्रीणामेतत् स्मृतं स्थानं संलापे तु स्वभावजे ॥ १७०॥  
   
 निश्चये परितोषे च वितर्के चिन्तने तथा ।  
-विलासलीलाविब्वोकशृंगारात्मनिरूपणे ॥ १७१॥  
+विलासलीलाविब्वोकशृङ्गारात्मनिरूपणे ॥ १७१॥  
   
 स्थानमेतत्प्रयोक्तव्यं भर्तुर्मार्गविलोकने ।  
 पादः समस्थितश्चैक एकश्चाग्रतलाञ्चितः ॥ १७२॥  

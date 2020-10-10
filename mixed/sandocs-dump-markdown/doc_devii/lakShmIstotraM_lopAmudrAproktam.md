@@ -1,24 +1,24 @@
-+++
-"Text title" = "lakShmIstotralopAmudrAkRita lakShmInarAyaNasaMhitAyAM"
-"File name" = "lakShmIstotralopAmudrA.itx"
-itxtitle = "lakShmIstotraM lopAmudrAproktam"
-engtitle = "Shri LakShmistotra by LopAmudra"
-Category = "devii, lakShmI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "pranav.tendulkar and vrushali"
-"Proofread by" = "pranav.tendulkar and vrushaliagarkar at gmail dotcom"
-Description-comments = "lakShmInarAyaNasaMhitA"
-"Latest update" = "May 5, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीस्तोत्रं लोपामुद्राप्रोक्तम्"
+---
+Category: devii, lakShmI, stotra, devI
+Description-comments: lakShmInarAyaNasaMhitA
+File name: lakShmIstotralopAmudrA.itx
+Language: Sanskrit
+Latest update: May 5, 2013
+Location: doc_devii
+Proofread by: pranav.tendulkar and vrushaliagarkar at gmail dotcom
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmIstotralopAmudrAkRita lakShmInarAyaNasaMhitAyAM
+Texttype: stotra
+Transliterated by: pranav.tendulkar and vrushali
+engtitle: Shri LakShmistotra by LopAmudra
+itxtitle: lakShmIstotraM lopAmudrAproktam
+title: लक्ष्मीस्तोत्रं लोपामुद्राप्रोक्तम्
 
-+++
+---
   
  श्रीलक्ष्मीस्तोत्रं लोपामुद्रा   
   

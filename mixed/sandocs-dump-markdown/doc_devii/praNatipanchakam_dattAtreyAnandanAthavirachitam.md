@@ -1,24 +1,24 @@
-+++
-"Text title" = "Pranati Panchakam"
-"File name" = "praNatipanchakam.itx"
-itxtitle = "praNatipanchakam (dattAtreyAnandanAthavirachitam)"
-engtitle = "praNatipanchakam"
-Category = "devii, panchaka, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "dattAtreyAnandanAtha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Text)"
-"Latest update" = "September 26, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रणतिपञ्चकम् (दत्तात्रेयानन्दनाथविरचितम्)"
+---
+Author: dattAtreyAnandanAtha
+Category: devii, panchaka, dashamahAvidyA, devI
+File name: praNatipanchakam.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: September 26, 2018
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Pranati Panchakam
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: praNatipanchakam
+itxtitle: praNatipanchakam (dattAtreyAnandanAthavirachitam)
+title: प्रणतिपञ्चकम् (दत्तात्रेयानन्दनाथविरचितम्)
 
-+++
+---
   
  प्रणतिपञ्चकम्   
 भुवन-केलिकला-रसिके शिवे  

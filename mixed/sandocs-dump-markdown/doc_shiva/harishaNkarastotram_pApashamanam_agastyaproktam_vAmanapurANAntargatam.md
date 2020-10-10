@@ -1,23 +1,23 @@
-+++
-"Text title" = "harishaNkarastotram pApashamana by sage agastya"
-"File name" = "harishaNkarastotrampApashamanaagastya.itx"
-itxtitle = "harishaNkarastotram pApashamanam (agastyaproktam vAmanapurANAntargatam)"
-engtitle = "harishaNkarastotrampApashamanaagastya"
-Category = "shiva, vishhnu"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-"Description/comments" = "vAmanapurANa, adhyAya 88, shlokas 2-28"
-Indexextra = "(Scan)"
-"Latest update" = "December 31, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिशण्करस्तोत्रम् पापशमनम् (अगस्त्यप्रोक्तम् वामनपुराणान्तर्गतम्)"
+---
+Category: shiva, vishhnu
+Description/comments: vAmanapurANa, adhyAya 88, shlokas 2-28
+File name: harishaNkarastotrampApashamanaagastya.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 31, 2018
+Location: doc_shiva
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: harishaNkarastotram pApashamana by sage agastya
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: harishaNkarastotrampApashamanaagastya
+itxtitle: harishaNkarastotram pApashamanam (agastyaproktam vAmanapurANAntargatam)
+title: हरिशण्करस्तोत्रम् पापशमनम् (अगस्त्यप्रोक्तम् वामनपुराणान्तर्गतम्)
 
-+++
+---
   
  अगस्त्यप्रोक्तं पापशमनं नाम हरिशङ्करस्तोत्रम्   
 मत्स्यं नमस्ये देवेशं कूर्मं देवेशमेव च ।   
@@ -82,7 +82,7 @@ title = "हरिशण्करस्तोत्रम् पापशमन�
 एतत् पवित्रं परमं पुराण  
       प्रोक्त त्वगस्त्येन महर्षणा च ।  
 धन्यं यशस्यं बहुपापनाशनं  
-      संङ्कीर्तनात् स्मरणात् स्पर्शनाच्च ॥ २८॥ २७॥  
+      सङ्ङ्कीर्तनात् स्मरणात् स्पर्शनाच्च ॥ २८॥ २७॥  
   
 इति वामनपुराणे अगस्त्यप्रोक्तं पापशमनं नाम हरिशङ्करस्तोत्रं सम्पूर्णम् ।  
   

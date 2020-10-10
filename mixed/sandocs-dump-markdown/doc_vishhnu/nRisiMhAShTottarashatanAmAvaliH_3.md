@@ -1,24 +1,24 @@
-+++
-"Text title" = "narasiMhAShTottarashatanAmAvali"
-"File name" = "narasimha108-5.itx"
-itxtitle = "nRisiMhAShTottarashatanAmAvaliH 3"
-engtitle = "Shri Nrisinha Ashtottarashata Namavali"
-Category = "aShTottarashatanAmAvalI, vishhnu, dashAvatAra, nAmAvalI, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sowmya Ramkumar"
-"Proofread by" = "Sowmya Ramkumar"
-Description-comments = "108 names of shrii narasiMha"
-"Latest update" = "November 18, 1997"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहाष्टोत्तरशतनामावलिः ३"
+---
+Category: aShTottarashatanAmAvalI, vishhnu, dashAvatAra, nAmAvalI, vishnu
+Description-comments: 108 names of shrii narasiMha
+File name: narasimha108-5.itx
+Language: Sanskrit
+Latest update: November 18, 1997
+Location: doc_vishhnu
+Proofread by: Sowmya Ramkumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: narasiMhAShTottarashatanAmAvali
+Texttype: nAmAvalI
+Transliterated by: Sowmya Ramkumar
+engtitle: Shri Nrisinha Ashtottarashata Namavali
+itxtitle: nRisiMhAShTottarashatanAmAvaliH 3
+title: नृइसिंहाष्टोत्तरशतनामावलिः ३
 
-+++
+---
   
  श्रीनृसिंहाष्टोत्तरशतनामावली   
   
@@ -109,7 +109,7 @@ title = "नृइसिंहाष्टोत्तरशतनामाव�
 ॐ अनादिनिधनाय नमः ।  
 ॐ नित्याय नमः ।  
 ॐ परब्रह्माभिदयकाय नमः ।  
-ॐ शन्खचक्रगदाशर्ंगविरजित चतुर्भुजाय नमः ।  
+ॐ शन्खचक्रगदाशर्ङ्गविरजित चतुर्भुजाय नमः ।  
 ॐ पीताम्बरधराय नमः ।  
 ॐ ध्यासितवक्षसे नमः ।  
 ॐ शान्ताय नमः । ९०  

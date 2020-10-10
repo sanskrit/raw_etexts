@@ -1,22 +1,22 @@
-+++
-"Text title" = "vichakhnugItA"
-"File name" = "vichakhnugiitaa.itx"
-itxtitle = "vichakhnugItA"
-engtitle = "vichakhnugItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-Indexextra = "(mahAbhArata shAntiparva Mokshadharma, Chapters 279-280)"
-"Latest update" = "June 2, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विचख्नुगीता"
+---
+Category: gItA, giitaa
+File name: vichakhnugiitaa.itx
+Indexextra: (mahAbhArata shAntiparva Mokshadharma, Chapters 279-280)
+Language: Sanskrit
+Latest update: June 2, 1998
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: vichakhnugItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: vichakhnugItA
+itxtitle: vichakhnugItA
+title: विचख्नुगीता
 
-+++
+---
   
  विचख्नुगीता   
   

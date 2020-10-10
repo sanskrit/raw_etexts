@@ -1,23 +1,23 @@
-+++
-"Text title" = "annapurnaastotram 2"
-"File name" = "annapUrNAstotramannadAkalpa.itx"
-itxtitle = "annapUrNAstotram 2 (sAdhanAni annadAkalpAntargatam)"
-engtitle = "annapUrNAstotram 2 from Annadakapla"
-Category = "devii, pArvatI, annapUrNa, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/"
-"Transliterated by" = "Pranav Tendulkar pranav.tendulkar at gmail.com"
-"Proofread by" = "Pranav Tendulkar, NA, anonymous456an at gmail.com"
-Source = "Annadakalpatantra"
-"Latest update" = "June 16, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अन्नपूर्णास्तोत्रम् २ (साधनानि अन्नदाकल्पान्तर्गतम्)"
+---
+Category: devii, pArvatI, annapUrNa, stotra, devI
+File name: annapUrNAstotramannadAkalpa.itx
+Language: Sanskrit
+Latest update: June 16, 2017
+Location: doc_devii
+Proofread by: Pranav Tendulkar, NA, anonymous456an at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Annadakalpatantra
+SubDeity: pArvatI
+Subject: philosophy/hinduism/
+Sublocation: devii
+Text title: annapurnaastotram 2
+Transliterated by: Pranav Tendulkar pranav.tendulkar at gmail.com
+engtitle: annapUrNAstotram 2 from Annadakapla
+itxtitle: annapUrNAstotram 2 (sAdhanAni annadAkalpAntargatam)
+title: अन्नपूर्णास्तोत्रम् २ (साधनानि अन्नदाकल्पान्तर्गतम्)
 
-+++
+---
   
  अन्नपूर्णास्तोत्रम् २   
 श्रीब्रह्मभैरव उवाच -  
@@ -28,12 +28,12 @@ title = "अन्नपूर्णास्तोत्रम् २ (सा�
 कथयामि तव स्नेहात् स्तोत्राणि कवचानि च ।  
 अन्नपूर्णाप्रीतिदानि सावधानोऽवधारय ॥ २॥  
   
-ह्रींकारं प्रथमं नमो भगवति स्वाहावसानां ध्रुवं  
+ह्रीङ्कारं प्रथमं नमो भगवति स्वाहावसानां ध्रुवं  
      मन्त्रं सप्तदशाक्षरं जपति ते माहेश्वरि प्रोक्षितम् ।  
 ध्यायेऽम्बे तरुणारुणं तव वपुर्नित्यान्नपूर्णे शिवे  
      गेहे तस्य विराजते सरभसं दिव्यान्नराशिर्ध्रुवम् ॥ ३॥  
   
-ह्रींकारमुर्तिं कमनीयवक्त्रां चन्द्राङ्करेखान्वितभालभागाम् ।  
+ह्रीङ्कारमुर्तिं कमनीयवक्त्रां चन्द्राङ्करेखान्वितभालभागाम् ।  
 ईशान्कान्तां प्रणमामि नित्यां लक्ष्मीविलासास्पदपादपीठाम् ॥ ४॥  
   
 नमोऽस्तु तुभ्यं गिरिराजकन्ये नमोऽस्तु कामान्तकवल्लभायै ।  

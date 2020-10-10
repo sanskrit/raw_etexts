@@ -1,21 +1,22 @@
-+++
-"Text title" = "vIrabhadrasahasranAmAvalI"
-"File name" = "vIrabhadrasahasranAmAvalI.itx"
-itxtitle = "vIrabhadrasahasranAmAvaliH"
-engtitle = "vIrabhadrasahasranAmAvalI"
-Category = "sahasranAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com, lalitha parameswari,"
-"Proofread by" = "Sivakumar Thyagarajan, Shri Pisipati Anjaneyulu, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "January 8, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वीरभद्रसहस्रनामावलिः"
+---
+Category: sahasranAmAvalI, shiva
+File name: vIrabhadrasahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: January 8, 2019
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, Shri Pisipati Anjaneyulu, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: vIrabhadrasahasranAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com, lalitha parameswari,
+engtitle: vIrabhadrasahasranAmAvalI
+itxtitle: vIrabhadrasahasranAmAvaliH
+title: वीरभद्रसहस्रनामावलिः
 
-+++
+---
   
  श्रीवीरभद्रसहस्रनामावलिः   
 श्रीशिवाय गुरवे   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "UrdhvapuNDropaniShat"
-"File name" = "UrdhvapuNDropaniShat.itx"
-itxtitle = "UrdhvapuNDropaniShat (vaiShNava)"
-engtitle = "UrdhvapuNDropaniShat"
-Category = "upanishhat, vishhnu, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ऊर्ध्वपुण्ड्रोपनिषत् (वैष्णव)"
+---
+Category: upanishhat, vishhnu, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: UrdhvapuNDropaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: UrdhvapuNDropaniShat
+engtitle: UrdhvapuNDropaniShat
+itxtitle: UrdhvapuNDropaniShat (vaiShNava)
+title: ऊर्ध्वपुण्ड्रोपनिषत् (वैष्णव)
 
-+++
+---
   
  ऊर्ध्वपुण्ड्रोपनिषत्   
 अथ श्रीवराहरूपिणं भगवन्तं प्रणम्य सनत्कुमारः पप्रच्छ ।  
@@ -50,7 +50,7 @@ title = "ऊर्ध्वपुण्ड्रोपनिषत् (वैष
 दक्षिणबाहौ सप्तमं तदूर्ध्वस्कन्धे अष्टमं नाभ्युत्तरे नवमं  
 वामबाहौ दशमं तदूर्ध्वस्कन्धे एकादशं पृष्ठोर्ध्वतः द्वादशं  
 कण्ठपृष्ठे मोक्षं देहि शिरसि । नारायणे मय्यचला भक्तिस्तु  
-वर्धते । संज्ञेन फलं लब्ध्वा तद्विष्णोः परमं पदमवाप्नोति ।  
+वर्धते । सञ्ज्ञेन फलं लब्ध्वा तद्विष्णोः परमं पदमवाप्नोति ।  
 केशवादिद्वादशनामभिः ब्रह्मचारी गृहस्थो यतिश्च सर्वेभ्यो  
 दुःखेभ्यो मुक्तो भवति । सर्वेषु तीर्थेषु स्नातो भवति । सर्वैर्देवैः  
 ज्ञातो भवति । अश्रोत्रियः श्रोत्रियो भवति । अनुपनीतोऽप्युपनीतो  

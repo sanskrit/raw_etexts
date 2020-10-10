@@ -1,24 +1,24 @@
-+++
-"Text title" = "yogakalpadruma"
-"File name" = "yogakalpadruma.itx"
-itxtitle = "yogakalpadruma"
-engtitle = "yogakalpadruma"
-Category = "yoga"
-Location = "doc_yoga"
-Sublocation = "yoga"
-Author = "Swami Brahmananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ameya Sakhare amaybsakhare at gmail.com"
-"Proofread by" = "Ameya Sakhare amaybsakhare at gmail.com, NA"
-"Description/comments" = "See elaborate Hindi commentary on each verse in the link"
-Indexextra = "(Scan and Hindi)"
-"Latest update" = "June 1, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगकल्पद्रुम"
+---
+Author: Swami Brahmananda
+Category: yoga
+Description/comments: See elaborate Hindi commentary on each verse in the link
+File name: yogakalpadruma.itx
+Indexextra: (Scan and Hindi)
+Language: Sanskrit
+Latest update: June 1, 2019
+Location: doc_yoga
+Proofread by: Ameya Sakhare amaybsakhare at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: yoga
+Text title: yogakalpadruma
+Transliterated by: Ameya Sakhare amaybsakhare at gmail.com
+engtitle: yogakalpadruma
+itxtitle: yogakalpadruma
+title: योगकल्पद्रुम
 
-+++
+---
   
  श्रीयोगकल्पद्रुम   
 ॐ गं गणपतये नमः ।  
@@ -61,14 +61,14 @@ title = "योगकल्पद्रुम"
 तस्मात्तदर्थं हि यतेत साधकः ॥ ६॥  
   
 (वंशस्थ वृत्तम्)  
-हठो लयो मान्त्रिकराज संज्ञितौ  
+हठो लयो मान्त्रिकराज सञ्ज्ञितौ  
 चतुर्विधं योगमबालिशाविदुः ।  
 त्रयोपि राजोपगता भवन्त्यत-  
 स्तदर्थमेवेह यतेत कोविदः ॥ ७॥  
   
 (वंशस्थं वृत्तम्)  
 जगुस्तदङ्गाष्टकमुत्तमाशया  
-यमादिसंज्ञं यमिवर्यसेवितम् ।  
+यमादिसञ्ज्ञं यमिवर्यसेवितम् ।  
 समासतस्तस्यफलं च लक्षणं  
 वदामि वृद्धर्षिमतानुरोधतः ॥ ८॥  
   
@@ -104,7 +104,7 @@ title = "योगकल्पद्रुम"
   
 (वंशस्थं वृत्तम्)  
 ततोऽनिलायामचतुष्कमभ्यसे-  
-दहर्निशं रेचकमुख्यसंज्ञकम् ।  
+दहर्निशं रेचकमुख्यसञ्ज्ञकम् ।  
 क्रियाभिराशुद्धतनुर्मितक्रियः  
 शनैश्शनैर्देशिकवाक्यचोदितः ॥ १४॥  
   
@@ -122,7 +122,7 @@ title = "योगकल्पद्रुम"
   
 (वंशस्थं वृत्तम्)  
 सुरप्रसादो मनसः प्रसन्नता  
-तपःप्रवृद्धिस्त्वपि दैन्यसंक्षयः ।  
+तपःप्रवृद्धिस्त्वपि दैन्यसङ्क्षयः ।  
 द्रुतं प्रवेशश्च तथैव संयमे  
 जितेन्द्रियस्येह किलोपजायते ॥ १७॥  
   
@@ -153,7 +153,7 @@ title = "योगकल्पद्रुम"
 (इन्द्रवंशा वृत्तम्)  
 वैराग्यमाश्रित्य परं तथेश्वरा  
 ध्यानेन विघ्नानखिलाञ्जयेद्यमी ।  
-संक्षिप्य चेतःपरमात्मसद्मनि  
+सङ्क्षिप्य चेतःपरमात्मसद्मनि  
 सञ्चिन्तयेदेकमथोत्तमाक्षरम् ॥ २२॥  
   
 (इन्द्रवंशा वृत्तम्)  

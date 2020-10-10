@@ -1,24 +1,24 @@
-+++
-"Text title" = "kAmAsikAShTakam"
-"File name" = "kAmAsikAShTakam.itx"
-itxtitle = "kAmAsikAShTakam (vedAntadeshikavirachitaM)"
-engtitle = "kAmAsikAShTakam"
-Category = "vishhnu, aShTaka, vedAnta-deshika"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामासिकाष्टकम् (वेदान्तदेशिकविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: vedAntadeshika
+Category: vishhnu, aShTaka, vedAnta-deshika
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: kAmAsikAShTakam.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kAmAsikAShTakam
+engtitle: kAmAsikAShTakam
+itxtitle: kAmAsikAShTakam (vedAntadeshikavirachitaM)
+title: कामासिकाष्टकम् (वेदान्तदेशिकविरचितं)
 
-+++
+---
   
  कामासिकाष्टकम्   
   

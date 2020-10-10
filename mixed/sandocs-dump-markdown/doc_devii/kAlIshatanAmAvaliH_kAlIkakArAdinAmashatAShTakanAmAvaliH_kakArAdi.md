@@ -1,26 +1,26 @@
-+++
-"Text title" = "kAlIkakArAdinAmashatAShTakanAmAvalI"
-"File name" = "kAlIkakArAdinAmashatAShTakanAmAvalI.itx"
-itxtitle = "kAlIshatanAmAvaliH kAlIkakArAdinAmashatAShTakanAmAvaliH (kakArAdi)"
-engtitle = "kAlIkakArAdinAmashatAShTakanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anand senartcon at gmail.com"
-"Proofread by" = "Anand senartcon at gmail.com"
-Description-comments = "Editor Ramadatta Shukla, Ritashila Sharma"
-Source = "dashamahAvidyA aShTottarashatanAmAvalI"
-Acknowledge-Permission = "Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga"
-"Latest update" = "September 13, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालीशतनामावलिः कालीककारादिनामशताष्टकनामावलिः (ककारादि)"
+---
+Acknowledge-Permission: Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI
+Description-comments: Editor Ramadatta Shukla, Ritashila Sharma
+File name: kAlIkakArAdinAmashatAShTakanAmAvalI.itx
+Language: Sanskrit
+Latest update: September 13, 2015
+Location: doc_devii
+Proofread by: Anand senartcon at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: dashamahAvidyA aShTottarashatanAmAvalI
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAlIkakArAdinAmashatAShTakanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Anand senartcon at gmail.com
+engtitle: kAlIkakArAdinAmashatAShTakanAmAvalI
+itxtitle: kAlIshatanAmAvaliH kAlIkakArAdinAmashatAShTakanAmAvaliH (kakArAdi)
+title: कालीशतनामावलिः कालीककारादिनामशताष्टकनामावलिः (ककारादि)
 
-+++
+---
   
  श्रीकालीशतनामावलिः अथवा श्रीकालीककारादिनामशताष्टकनामावली   
 श्रीकाल्यै नमः ।  

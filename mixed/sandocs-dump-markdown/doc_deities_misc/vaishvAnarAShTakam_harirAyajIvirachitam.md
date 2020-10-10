@@ -1,23 +1,23 @@
-+++
-"Text title" = "vaishvAnarAShTakam"
-"File name" = "vaishvAnarAShTakam.itx"
-itxtitle = "vaishvAnarAShTakam (harirAyajIvirachitam)"
-engtitle = "vaishvAnarAShTakam"
-Category = "deities_misc, puShTimArgIya, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "harirAyajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वैश्वानराष्टकम् (हरिरायजीविरचितम्)"
+---
+Author: harirAyajI
+Category: deities_misc, puShTimArgIya, aShTaka
+Description/comments: puShTimArgIya stotraratnAkara
+File name: vaishvAnarAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vaishvAnarAShTakam
+engtitle: vaishvAnarAShTakam
+itxtitle: vaishvAnarAShTakam (harirAyajIvirachitam)
+title: वैश्वानराष्टकम् (हरिरायजीविरचितम्)
 
-+++
+---
   
  श्रीवैश्वानराष्टकम्   
   

@@ -1,25 +1,26 @@
-+++
-"Text title" = "gokulanandagovindadevAShTakam"
-"File name" = "gokulanandagovindadevAShTakam.itx"
-itxtitle = "gokulanandagovindadevAShTakam (vishvanAthachakravartin Thakkuravirachitam)"
-engtitle = "gokulanandagovindadevAShTakam by vishvanAthachakravartin"
-Category = "vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोकुलनन्दगोविन्ददेवाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI
+File name: gokulanandagovindadevAShTakam.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_vishhnu
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gokulanandagovindadevAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: gokulanandagovindadevAShTakam by vishvanAthachakravartin
+itxtitle: gokulanandagovindadevAShTakam (vishvanAthachakravartin Thakkuravirachitam)
+title: गोकुलनन्दगोविन्ददेवाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)
 
-+++
+---
   
  श्रीगोकुलनन्दगोविन्ददेवाष्टकम्   
 कोटिकन्दर्पसन्दर्पविध्वंसन  

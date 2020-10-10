@@ -1,25 +1,25 @@
-+++
-"Text title" = "gurustutipramANikA"
-"File name" = "gurustutipramANikA.itx"
-itxtitle = "gurustutipramANikA (puShpA shrIvatsena virachitA)"
-engtitle = "gurustutipramANikA"
-Category = "deities_misc, gurudev, puShpAshrIvatsan"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali 2017"
-"Latest update" = "September 30, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुस्तुतिप्रमाणिका (पुष्पा श्रीवत्सेन विरचिता)"
+---
+Author: Pushpa Srivatsan
+Category: deities_misc, gurudev, puShpAshrIvatsan
+File name: gurustutipramANikA.itx
+Language: Sanskrit
+Latest update: September 30, 2017
+Location: doc_deities_misc
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali 2017
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurustutipramANikA
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: gurustutipramANikA
+itxtitle: gurustutipramANikA (puShpA shrIvatsena virachitA)
+title: गुरुस्तुतिप्रमाणिका (पुष्पा श्रीवत्सेन विरचिता)
 
-+++
+---
   
  गुरुस्तुतिप्रमाणिका   
                 ॐ  

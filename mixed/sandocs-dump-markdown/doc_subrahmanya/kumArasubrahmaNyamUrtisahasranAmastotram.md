@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrI kumArasubrahmaNyamUrtisahasranAmastotram"
-"File name" = "kumArasubrahmaNyamUrtisahasranAmastotra.itx"
-itxtitle = "kumArasubrahmaNyamUrtisahasranAmastotram"
-engtitle = "kumArasubrahmaNyamUrtisahasranAmastotram"
-Category = "sahasranAma, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran, Sivakumar Thyagarajan"
-"Proofread by" = "PSA Easwaran, Sivakumar Thyagarajan"
-"Latest update" = "October 9, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमारसुब्रह्मण्यमूर्तिसहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, subrahmanya
+File name: kumArasubrahmaNyamUrtisahasranAmastotra.itx
+Language: Sanskrit
+Latest update: October 9, 2016
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran, Sivakumar Thyagarajan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: shrI kumArasubrahmaNyamUrtisahasranAmastotram
+Transliterated by: PSA Easwaran, Sivakumar Thyagarajan
+engtitle: kumArasubrahmaNyamUrtisahasranAmastotram
+itxtitle: kumArasubrahmaNyamUrtisahasranAmastotram
+title: कुमारसुब्रह्मण्यमूर्तिसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीमुत्तुक्कुमारसुब्रह्मण्यमूर्तिसहस्रनामस्तोत्रम्   
   

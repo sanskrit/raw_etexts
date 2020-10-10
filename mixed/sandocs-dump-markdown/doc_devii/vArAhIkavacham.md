@@ -1,20 +1,20 @@
-+++
-"Text title" = "Varahi Kavacham"
-"File name" = "vArAhIkavacham.itx"
-itxtitle = "vArAhIkavacham"
-engtitle = "vArAhIkavacham"
-Category = "devii, devI, otherforms, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Telugu)"
-"Latest update" = "July 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाराहीकवचम्"
+---
+Category: devii, devI, otherforms, kavacha
+File name: vArAhIkavacham.itx
+Indexextra: (Telugu)
+Language: Sanskrit
+Latest update: July 7, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Varahi Kavacham
+engtitle: vArAhIkavacham
+itxtitle: vArAhIkavacham
+title: वाराहीकवचम्
 
-+++
+---
   
  श्रीवाराहीकवचम्   
 अस्य श्रीवाराहीकवचस्य त्रिलोचन ऋषीः । अनुष्टुप्छन्दः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Agni SahastranAmastotram"
-"File name" = "agnisahasranAmastotram.itx"
-itxtitle = "agnisahasranAmastotram (sAmbadIkShitena saNkalitam)"
-engtitle = "agnisahasranAmastotram"
-Category = "sahasranAma, deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Sambadikshita from Gokarna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "Shri Kamakoti Kosha Sthanam, Madras, 1973"
-"Latest update" = "June 3, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अग्निसहस्रनामस्तोत्रम् (साम्बदीक्षितेन सण्कलितम्)"
+---
+Acknowledge-Permission: Shri Kamakoti Kosha Sthanam, Madras, 1973
+Author: Sambadikshita from Gokarna
+Category: sahasranAma, deities_misc, stotra
+File name: agnisahasranAmastotram.itx
+Language: Sanskrit
+Latest update: June 3, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Agni SahastranAmastotram
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: agnisahasranAmastotram
+itxtitle: agnisahasranAmastotram (sAmbadIkShitena saNkalitam)
+title: अग्निसहस्रनामस्तोत्रम् (साम्बदीक्षितेन सण्कलितम्)
 
-+++
+---
   
  अग्निसहस्रनामस्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  
@@ -145,7 +145,7 @@ title = "अग्निसहस्रनामस्तोत्रम् (स
 पायुर्मर्तेषु मित्रोऽर्यः श्रुष्टिः साधुरहिरृभुः ॥ १९॥  
   
 भद्रोऽजुर्यो हव्यदातिश्चिकित्वान्विश्वशुक्पृणन् ।  
-शंसः संज्ञातरूपोऽपाङ्गर्भस्तुविश्रवस्तमः ॥ २०॥  
+शंसः सञ्ज्ञातरूपोऽपाङ्गर्भस्तुविश्रवस्तमः ॥ २०॥  
   
 गृध्नुःः शूरः सुचन्द्रोऽश्वोऽदब्धो वेधस्तमः शिशुः ।  
 वाजश्रवा हर्यमाण ईशानो विश्वचर्षणिः ॥ २१॥  

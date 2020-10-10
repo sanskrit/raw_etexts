@@ -1,26 +1,26 @@
-+++
-"Text title" = "1008 names of Gayatri Devi"
-"File name" = "gayatri1008.itx"
-itxtitle = "gAyatrIsahasranAmAvaliH 3"
-engtitle = "1008  names  of  Gayatri"
-Category = "sahasranAmAvalI, devii, gAyatrI, nAmAvalI, vyAsa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Texttype = "nAmAvalI"
-Author = "Veda Vyas"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "Chapter 6, Book 12, of Devi Bhagavata"
-Indexextra = "(1008 names)"
-"Latest update" = "October  2, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीसहस्रनामावलिः ३"
+---
+Author: Veda Vyas
+Category: sahasranAmAvalI, devii, gAyatrI, nAmAvalI, vyAsa, devI
+Description-comments: Chapter 6, Book 12, of Devi Bhagavata
+File name: gayatri1008.itx
+Indexextra: (1008 names)
+Language: Sanskrit
+Latest update: October  2, 2000
+Location: doc_devii
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: hinduism/religion
+Sublocation: devii
+Text title: 1008 names of Gayatri Devi
+Texttype: nAmAvalI
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: 1008  names  of  Gayatri
+itxtitle: gAyatrIsahasranAmAvaliH 3
+title: गायत्रीसहस्रनामावलिः ३
 
-+++
+---
   
  गायत्रीसहस्रनामावली   
   
@@ -439,7 +439,7 @@ title = "गायत्रीसहस्रनामावलिः ३"
 ४१३   ॐ तिलहोमप्रियायै नमः ।  
 ४१४   ॐ तीर्थायै नमः ।  
 ४१५   ॐ तमालकुसुमाकृत्यै नमः ।  
-४१६   ॐ तप्तकाञ्चनसंकाशायै नमः ।  
+४१६   ॐ तप्तकाञ्चनसङ्काशायै नमः ।  
 ४१७   ॐ तारकायै नमः ।  
 ४१८   ॐ त्रियुतायै नमः ।  
 ४१९   ॐ तन्व्यै नमः ।  
@@ -885,7 +885,7 @@ title = "गायत्रीसहस्रनामावलिः ३"
 ८५९   ॐ रक्तमाल्याम्बरधरायै नमः ।  
 ८६०   ॐ रक्तगन्धानुलेपनायै नमः ।  
 ८६१   ॐ राजहंससमारूढायै नमः ।  
-८६२   ॐ रंभायै नमः ।  
+८६२   ॐ रम्भायै नमः ।  
 ८६३   ॐ रक्तवलिप्रियायै नमः ।  
 ८६४   ॐ रमणीययुगाधारायै नमः ।  
 ८६५   ॐ राजिताखिलभूतलायै नमः ।  

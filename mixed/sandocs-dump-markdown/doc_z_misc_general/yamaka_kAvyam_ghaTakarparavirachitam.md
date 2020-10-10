@@ -1,23 +1,23 @@
-+++
-"Text title" = "yamaka kAvyaM (ghaTakarpara)"
-"File name" = "yamaka.itx"
-itxtitle = "yamaka kAvyam (ghaTakarparavirachitam)"
-engtitle = "yamaka kAvyaM (ghaTakarpara)"
-Category = "kAvya, misc, sahitya"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Subcategory = "sahitya"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. P. Narayanaswami swami at math.mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at math.mun.ca"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमक काव्यम् (घटकर्परविरचितम्)"
+---
+Category: kAvya, misc, sahitya
+File name: yamaka.itx
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_z_misc_general
+Proofread by: P. P. Narayanaswami swami at math.mun.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: yamaka kAvyaM (ghaTakarpara)
+Texttype: pramukha
+Transliterated by: P. P. Narayanaswami swami at math.mun.ca
+engtitle: yamaka kAvyaM (ghaTakarpara)
+itxtitle: yamaka kAvyam (ghaTakarparavirachitam)
+title: यमक काव्यम् (घटकर्परविरचितम्)
 
-+++
+---
   
  यमक काव्यं (घटकर्पर)   
   

@@ -1,25 +1,25 @@
-+++
-"Text title" = "siitaaShTottarashatanaama stotraM 1"
-"File name" = "siitaa108stAnanda.itx"
-itxtitle = "sItAShTottarashatanAmastotram 1 (AnandarAmAyaNAntargatam)"
-engtitle = "sItAShTottarashatanAma stotram 1"
-Category = "aShTottarashatanAma, raama, stotra, vAlmIki"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "Valmiki"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-Description-comments = "from Anandaramayana"
-Indexextra = "(Ananda Ramayana)"
-"Latest update" = "July 4, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीताष्टोत्तरशतनामस्तोत्रम् १ (आनन्दरामायणान्तर्गतम्)"
+---
+Author: Valmiki
+Category: aShTottarashatanAma, raama, stotra, vAlmIki
+Description-comments: from Anandaramayana
+File name: siitaa108stAnanda.itx
+Indexextra: (Ananda Ramayana)
+Language: Sanskrit
+Latest update: July 4, 2006
+Location: doc_raama
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: raama
+Text title: siitaaShTottarashatanaama stotraM 1
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: sItAShTottarashatanAma stotram 1
+itxtitle: sItAShTottarashatanAmastotram 1 (AnandarAmAyaNAntargatam)
+title: सीताष्टोत्तरशतनामस्तोत्रम् १ (आनन्दरामायणान्तर्गतम्)
 
-+++
+---
   
  सीताष्टोत्तरशतनामस्तोत्रम्   
 अथ श्रीमदानन्दरामायणान्तर्गत श्री  

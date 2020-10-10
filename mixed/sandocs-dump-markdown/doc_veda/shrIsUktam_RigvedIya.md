@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIsUkta (Rigveda)"
-"File name" = "s-sukta.itx"
-itxtitle = "shrIsUktam (RigvedIya)"
-engtitle = "shrIsUkta (Rigveda)"
-Category = "sUkta, veda, lakShmI, svara, rigveda"
-Location = "doc_veda"
-Sublocation = "veda"
-SubDeity = "lakShmI"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "various"
-Description-comments = "mantarpuShpaM and others"
-Source = "Rigveda 10th Mandala 9th Sukta"
-Indexextra = "(meaning 1, sampuTitaMeaning 2 3 Rigveda Khilani 22.6, versions))"
-"Latest update" = "October 26, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीसूक्तम् (ऋइग्वेदीय)"
+---
+Category: sUkta, veda, lakShmI, svara, rigveda
+Description-comments: mantarpuShpaM and others
+File name: s-sukta.itx
+Indexextra: (meaning 1, sampuTitaMeaning 2 3 Rigveda Khilani 22.6, versions))
+Language: Sanskrit
+Latest update: October 26, 2011
+Location: doc_veda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rigveda 10th Mandala 9th Sukta
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: shrIsUkta (Rigveda)
+Texttype: svara
+Transliterated by: various
+engtitle: shrIsUkta (Rigveda)
+itxtitle: shrIsUktam (RigvedIya)
+title: श्रीसूक्तम् (ऋइग्वेदीय)
 
-+++
+---
   
  श्रीसूक्त (ऋग्वेद)   
   
@@ -47,7 +47,7 @@ title = "श्रीसूक्तम् (ऋइग्वेदीय)"
 क्षुत्पिपासामलां ज्येष्ठामलक्ष्मीं नाशयाम्यहम् ।  
 अभूतिमसमृद्धिं च सर्वां निर्णुद मे गृहात् ॥ ८॥  
   
-गंधद्वारां दुराधर्षां नित्यपुष्टां करीषिणीम् ।  
+गन्धद्वारां दुराधर्षां नित्यपुष्टां करीषिणीम् ।  
 ईश्वरीꣳ सर्वभूतानां तामिहोपह्वये श्रियम् ॥ ९॥  
   
 मनसः काममाकूतिं वाचः सत्यमशीमहि ।  
@@ -102,15 +102,15 @@ title = "श्रीसूक्तम् (ऋइग्वेदीय)"
 लक्ष्मीर्दिव्यैर्गजेन्द्रैर्मणिगण खचितैस्स्नापिता हेमकुम्भैः ।  
 नित्यं सा पद्महस्ता मम वसतु गृहे सर्वमाङ्गल्ययुक्ता ॥  
   
-लक्ष्मीं क्षीरसमुद्र राजतनयां श्रीरंगधामेश्वरीम् ।  
-दासीभूतसमस्त देव वनितां लोकैक दीपांकुराम् ।  
+लक्ष्मीं क्षीरसमुद्र राजतनयां श्रीरङ्गधामेश्वरीम् ।  
+दासीभूतसमस्त देव वनितां लोकैक दीपाङ्कुराम् ।  
 श्रीमन्मन्दकटाक्षलब्ध विभव ब्रह्मेन्द्रगङ्गाधरां ।  
 त्वां त्रैलोक्य कुटुम्बिनीं सरसिजां वन्दे मुकुन्दप्रियाम् ॥  
   
 सिद्धलक्ष्मीर्मोक्षलक्ष्मीर्जयलक्ष्मीस्सरस्वती ।  
 श्रीलक्ष्मीर्वरलक्ष्मीश्च प्रसन्ना मम सर्वदा ॥  
   
-वरांकुशौ पाशमभीतिमुद्रां करैर्वहन्तीं कमलासनस्थाम् ।  
+वराङ्कुशौ पाशमभीतिमुद्रां करैर्वहन्तीं कमलासनस्थाम् ।  
 बालार्क कोटि प्रतिभां त्रिणेत्रां भजेहमाद्यां जगदीश्वरीं ताम् ॥  
   
 सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थ साधिके ।  
@@ -120,7 +120,7 @@ title = "श्रीसूक्तम् (ऋइग्वेदीय)"
 भगवति हरिवल्लभे मनोज्ञे त्रिभुवनभूतिकरिप्रसीद मह्यम् ॥  
   
 विष्णुपत्नीं क्षमां देवीं माधवीं माधवप्रियाम् ।  
-विष्णोः प्रियसखींम् देवीं नमाम्यच्युतवल्लभाम् ॥  
+विष्णोः प्रियसखीम्म् देवीं नमाम्यच्युतवल्लभाम् ॥  
   
 महालक्ष्मी च विद्महे विष्णुपत्नी च धीमही ।   
 तन्नो लक्ष्मीः प्रचोदयात् ॥  
@@ -137,7 +137,7 @@ title = "श्रीसूक्तम् (ऋइग्वेदीय)"
 भयशोकमनस्तापा नश्यन्तु मम सर्वदा ॥  
   
 श्रिये जात श्रिय आनिर्याय श्रियं वयो जनितृभ्यो दधातु ।  
-श्रियं वसाना अमृतत्वमायन् भजंति सद्यः सविता विदध्यून् ॥  
+श्रियं वसाना अमृतत्वमायन् भजन्ति सद्यः सविता विदध्यून् ॥  
   
 श्रिय एवैनं तच्छ्रियामादधाति । सन्ततमृचा वषट्कृत्यं  
 सन्धत्तं सन्धीयते प्रजया पशुभिः । य एवं वेद ।  

@@ -3,7 +3,6 @@ title: 119 Lord Shiva informs Rama about his father
 title_english: 119 Lord Shiva informs Rama about his father
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-119-Lord_Shiva_informs_Rama_about_his_father_0.mp3"></div>
 
 एतच्छ्रुत्वा शुभं वाक्यं राघवेण सुभाषितम् ।  
@@ -30,9 +29,9 @@ title_english: 119 Lord Shiva informs Rama about his father
 प्राणैः प्रियतरं दृष्ट्वा पुत्रं दशरथस्तदा ॥ ६-११९-११  
 आरोप्याङ्कं महाबाहुर्वरासनगतः प्रभुः ।  
 बाहुभ्यां सम्परिष्वज्य ततो वाक्यं समाददे ॥ ६-११९-१२  
-न मे स्वर्गो बहुमतः संमानश्च सुरर्षिभिः ।  
+न मे स्वर्गो बहुमतः सम्मानश्च सुरर्षिभिः ।  
 त्वया राम विहीनस्य सत्यं प्रतिशृणोमि ते ॥ ६-११९-१३  
-अद्य त्वां निहतामित्रं दृष्ट्वा संपूर्णमानसम् ।  
+अद्य त्वां निहतामित्रं दृष्ट्वा सम्पूर्णमानसम् ।  
 निस्तीर्णवनवासं च प्रीतिरासीत्परा मम। ६-११९-१४  
 कैकेय्या यानि चोक्तानि वाक्यानि वदतां वर ।  
 तव प्रव्राजनार्थानि स्थितानि हृदये मम ॥ ६-११९-१५  

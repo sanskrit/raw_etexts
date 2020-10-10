@@ -1,24 +1,24 @@
-+++
-"Text title" = "medhAM dehi sarasvatimAtaH"
-"File name" = "medhAMdehisarasvatimAtaH.itx"
-itxtitle = "medhAM dehi sarasvatimAtaH"
-engtitle = "medhAMdehisarasvatimAtaH"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "gu. gaNapayyahoLLaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मेधां देहि सरस्वतिमातः"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: gu. gaNapayyahoLLaH
+Category: misc, sanskritgeet
+File name: medhAMdehisarasvatimAtaH.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: medhAM dehi sarasvatimAtaH
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: medhAMdehisarasvatimAtaH
+itxtitle: medhAM dehi sarasvatimAtaH
+title: मेधां देहि सरस्वतिमातः
 
-+++
+---
   
  मेधां देहि सरस्वति मातः   
 मेधां देहि सरस्वति मातः  

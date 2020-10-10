@@ -1,24 +1,24 @@
-+++
-"Text title" = "gAyatrIstotram 3"
-"File name" = "gAyatrIstotram3.itx"
-itxtitle = "gAyatrIstotram 3 (kRiShNAnandasarasvatIvirachitam yasmindRiShTe)"
-engtitle = "gAyatrIstotram 3"
-Category = "devii, gAyatrI, kRiShNAnandasarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Author = "Krishnanandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-"Latest update" = "June 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीस्तोत्रम् ३ (कृइष्णानन्दसरस्वतीविरचितम् यस्मिन्दृइष्टे)"
+---
+Author: Krishnanandasarasvati
+Category: devii, gAyatrI, kRiShNAnandasarasvatI, devI
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: gAyatrIstotram3.itx
+Language: Sanskrit
+Latest update: June 5, 2016
+Location: doc_devii
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrIstotram 3
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: gAyatrIstotram 3
+itxtitle: gAyatrIstotram 3 (kRiShNAnandasarasvatIvirachitam yasmindRiShTe)
+title: गायत्रीस्तोत्रम् ३ (कृइष्णानन्दसरस्वतीविरचितम् यस्मिन्दृइष्टे)
 
-+++
+---
   
  गायत्रीस्तोत्रम् ३   
 श्रीः ।  

@@ -1,30 +1,30 @@
-+++
-"Text title" = "lakShmaNagItA rAmacharitamAnasase"
-"File name" = "lakShmanagItARamacharitamanas.itx"
-itxtitle = "lakShmaNagItA rAmacharitamAnasa se"
-engtitle = "LakShmanagita from Shri Ramacharitamanas"
-Category = "gItA, giitaa, tulasIdAsa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "Sant Tulasidas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Translated by" = "http://www.gitapress.org/hindi/Download_Eng_pdf.htm"
-Description-comments = "From ayodhyA kAnda dohA 89-93+, Ramacharitamanas.  http://www.gitapress.org"
-Indexextra = "(Ramacharitamanas)"
-"Latest update" = "May 30, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मणगीता रामचरितमानस से"
+---
+Author: Sant Tulasidas
+Category: gItA, giitaa, tulasIdAsa
+Description-comments: From ayodhyA kAnda dohA 89-93+, Ramacharitamanas.  http://www.gitapress.org
+File name: lakShmanagItARamacharitamanas.itx
+Indexextra: (Ramacharitamanas)
+Language: Sanskrit
+Latest update: May 30, 2013
+Location: doc_giitaa
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: lakShmaNagItA rAmacharitamAnasase
+Translated by: http://www.gitapress.org/hindi/Download_Eng_pdf.htm
+engtitle: LakShmanagita from Shri Ramacharitamanas
+itxtitle: lakShmaNagItA rAmacharitamAnasa se
+title: लक्ष्मणगीता रामचरितमानस से
 
-+++
+---
   
  श्रीलक्ष्मणगीता रामचरितमानससे   
   
 दोहा  
   
-सिय सुमंत्र भ्राता सहित कंद मूल फल खाइ ।  
+सिय सुमन्त्र भ्राता सहित कन्द मूल फल खाइ ।  
 सयन कीन्ह रघुबंसमनि पाय पलोटत भाइ । ८९ ।  
   
 Having partaken of the bulbs, roots and fruits alongwith Sita, Sumantra and His  
@@ -57,8 +57,8 @@ though the god of love has constructed them with his own hands.' (1-4)
   
 दोहा  
   
-सुचि सुबिचित्र सुभोगमय सुमन सुगंध सुबास ।  
-पलँग ग मंजु मनिदीप जहँ सब बिधि सकल सुपास । ९० ।  
+सुचि सुबिचित्र सुभोगमय सुमन सुगन्ध सुबास ।  
+पलँग ग मञ्जु मनिदीप जहँ सब बिधि सकल सुपास । ९० ।  
   
 `Free from impurities, exceedingly marvellous of design, abounding in exquisite  
 luxuries and scented with the fragrance of flowers, they are furnished with  
@@ -73,7 +73,7 @@ description.' (90)
 मातु पिता परिजन पुरबासी । सखा सुसील दास अरु दासी । २ ।  
 जोगवहिं जिन्हहि प्रान की नाईं । महि सोवत तेइ राम गोसाईं ।  
 पिता जनक जग बिदित प्रभाऊ । ससुर सुरेस सखा रघुराऊ । ३ ।  
-रामचंदु पति सो बैदेही । सोवत महि बिधि बाम न केही ।  
+रामचन्दु पति सो बैदेही । सोवत महि बिधि बाम न केही ।  
 सिय रघुबीर कि कानन जोगू । करम प्रधान सत्य कह लोगू । ४ ।  
   
 Again they are equipped with coverlets and sheets, pillows and cushions of  
@@ -92,8 +92,8 @@ rightly say: `Fate is supreme.' (1-4)
   
 दोहा  
   
-कैकयनंदिनि मंदमति कठिन कुटिलपनु कीन्ह ।  
-जेहिं रघुनंदन जानकिहि सुख अवसर दुखु दीन्ह । ९१ ।  
+कैकयनन्दिनि मन्दमति कठिन कुटिलपनु कीन्ह ।  
+जेहिं रघुनन्दन जानकिहि सुख अवसर दुखु दीन्ह । ९१ ।  
   
 `The foolish daughter of Kekaya has wrought a cruel mischief in that she has  
 brought trouble on Sita and the Delighter of Raghu's race at a time of  
@@ -105,7 +105,7 @@ enjoyment.' (91)
 भयउ बिषादु निषादहि भारी । राम सीय महि सयन निहारी । १ ।  
 बोले लखन मधुर मृदु बानी । ग्यान बिराग भगति रस सानी ।  
 काहु न कोउ सुख दुख कर दाता । निज कृत करम भोग सबु भ्राता । २ ।  
-जोग बियोग भोग भल मंदा । हित अनहित मध्यम भ्रम फंदा ।  
+जोग बियोग भोग भल मन्दा । हित अनहित मध्यम भ्रम फन्दा ।  
 जनमु मरनु जहँ लगि जग जालू । सम्पति बिपति करमु अरु कालू । ३ ।  
 धरनि धामु धनु पुर परिवारू । सरगु नरकु जहं लगि ब्यवहारू ।  
 देखिअ सुनिअ गुनिअ मन माही । मोह मूल परमारथु नाही । ४ ।  
@@ -124,8 +124,8 @@ has its root in ignorance: nothing exists in reality.' (1-4)
   
 दोहा  
   
-सपनें होइ भिखारि नृपु रंकु नाकपति होइ ।  
-जागें लाभु न हानि कछु तिमि प्रपंच जियँ जोइ । ९२ ।  
+सपनें होइ भिखारि नृपु रङ्कु नाकपति होइ ।  
+जागें लाभु न हानि कछु तिमि प्रपञ्च जियँ जोइ । ९२ ।  
   
 `Suppose in a dream a king becomes a pauper and apauper becomes lord of  
 paradise; on waking, the one does not gain nor does the other lose  
@@ -135,7 +135,7 @@ anything. So must you look upon this world.' (92)
   
 अस बिचारि नहिं कीजिअ रोसू । काहुहि बादि न देइअ दोसू ।  
 मोह निसाँ सबु सोवनिहारा । देखिअ सपन अनेक प्रकारा । १ ।  
-एहिं जग जामिनि जागहिं जोगी । परमारथी प्रपंच बियोगी ।  
+एहिं जग जामिनि जागहिं जोगी । परमारथी प्रपञ्च बियोगी ।  
 जानिअ तबहिं जीव जग जागा । जब सब बिषय बिलास बिरागा । २ ।  
 होइ बिबेकु मोह भ्रम भागा । तब रघुनाथ चरन अनुरागा ।  
 सखा परम परमारथु एहू । मन क्रम बचन राम पद नेहू । ३ ।  
@@ -169,7 +169,7 @@ of the world are broken asunder.' (93)
 चौपाई  
   
 सखा समुझि अस परिहरि मोहू । सिय रघुबीर चरन रत होहू ।  
-कहत राम गुन भा भिनुसारा । जागे जग मंगल सुखदारा । १ ।  
+कहत राम गुन भा भिनुसारा । जागे जग मङ्गल सुखदारा । १ ।  
   
   
 `Realizing this, O friend, shed all infatuation and be devoted to  

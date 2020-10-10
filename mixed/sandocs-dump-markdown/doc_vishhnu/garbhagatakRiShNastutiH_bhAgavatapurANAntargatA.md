@@ -1,24 +1,24 @@
-+++
-"Text title" = "garbhagatakRRiShNastutiH"
-"File name" = "garbhagatakRRiShNastutiH.itx"
-itxtitle = "garbhagatakRiShNastutiH (bhAgavatapurANAntargatA)"
-engtitle = "garbhagatakRRiShNastutiH"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गर्भगतकृइष्णस्तुतिः (भागवतपुराणान्तर्गता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, krishna
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: garbhagatakRRiShNastutiH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: garbhagatakRRiShNastutiH
+engtitle: garbhagatakRRiShNastutiH
+itxtitle: garbhagatakRiShNastutiH (bhAgavatapurANAntargatA)
+title: गर्भगतकृइष्णस्तुतिः (भागवतपुराणान्तर्गता)
 
-+++
+---
   
  गर्भगतकृष्णस्तुतिः   
   

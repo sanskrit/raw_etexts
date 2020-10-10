@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrii gaNaadhipati pancharatna stotram"
-"File name" = "gaNAdhipati5.itx"
-itxtitle = "gaNAdhipatipancharatnastotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "gaNAdhipati pancharatna stotram"
-Category = "pancharatna, ganesha, stotra, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda harshanand_16 at rediffmail.com"
-"Latest update" = "April 17, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणाधिपतिपञ्चरत्नस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+Category: pancharatna, ganesha, stotra, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: gaNAdhipati5.itx
+Language: Sanskrit
+Latest update: April 17, 2002
+Location: doc_ganesha
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: shrii gaNaadhipati pancharatna stotram
+Transliterated by: R. Harshananda harshanand_16 at rediffmail.com
+engtitle: gaNAdhipati pancharatna stotram
+itxtitle: gaNAdhipatipancharatnastotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: गणाधिपतिपञ्चरत्नस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीगणाधिपति पञ्चरत्नस्तोत्रम्   
 ॐ सरागिलोकदुर्लभं विरागिलोकपूजितं  

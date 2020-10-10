@@ -1,23 +1,23 @@
-+++
-"Text title" = "prapannamakarandastotram"
-"File name" = "prapannamakarandastotram.itx"
-itxtitle = "prapannamakarandastotram"
-engtitle = "prapannamakarandastotram"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Swamini Tattvapriyananda tattvapriya3108 at gmail.com"
-"Description/comments" = "Stotra Sringeri"
-Indexextra = "(Scan)"
-"Latest update" = "November 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रपन्नमकरन्दस्तोत्रम्"
+---
+Category: vishhnu
+Description/comments: Stotra Sringeri
+File name: prapannamakarandastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 17, 2018
+Location: doc_vishhnu
+Proofread by: Swamini Tattvapriyananda tattvapriya3108 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: prapannamakarandastotram
+Transliterated by: NA
+engtitle: prapannamakarandastotram
+itxtitle: prapannamakarandastotram
+title: प्रपन्नमकरन्दस्तोत्रम्
 
-+++
+---
   
  प्रपन्नमकरन्दस्तोत्रम्   
 कलयतु कुशलानि कालमेघद्युतिमदधूननधीरदिव्यकान्ति ।  
@@ -76,7 +76,7 @@ title = "प्रपन्नमकरन्दस्तोत्रम्"
 सुमशरजयकाहळायमानस्फुटतरजङ्घमहं भजामि देवम् ॥ १८॥  
   
 शरणगजनचित्तभक्तिपूरहृदकमलाद्वितयं तदङ्घ्रियुग्मम् ।  
-मृदुलशुभतरांङ्गुळीमनोज्ञं रुचिरनखं परिचुम्बतान्मनो मे ॥ १९॥  
+मृदुलशुभतराङ्ङ्गुळीमनोज्ञं रुचिरनखं परिचुम्बतान्मनो मे ॥ १९॥  
   
 रघुकुलमणिदिव्यसौधदीपं सुरुचिररूपविधूतपुष्पचापम् ।  
 घनतरमदताटकास्वरूपज्वलनशिखाजलदं भजेऽभिरूपम् ॥ २०॥  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "Matripanchakam"
-"File name" = "mAtripanchakamSachidananda.itx"
-itxtitle = "mAtRipanchakam (sachchidAnandatIrthavirachitam)"
-engtitle = "matripanchakam"
-Category = "panchaka, general"
-Location = "doc_z_misc_general"
-Sublocation = "general"
-Author = "Sw. Sachidananda Tirtha (Bhashya Swami)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Five verses on Motherforms"
-Source = "http://www.angelfire.com/ultra/matrupanchakam"
-Indexextra = "(text)"
-"Latest update" = "May 10, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातृइपञ्चकम् (सच्चिदानन्दतीर्थविरचितम्)"
+---
+Author: Sw. Sachidananda Tirtha (Bhashya Swami)
+Category: panchaka, general
+Description/comments: Five verses on Motherforms
+File name: mAtripanchakamSachidananda.itx
+Indexextra: (text)
+Language: Sanskrit
+Latest update: May 10, 2015
+Location: doc_z_misc_general
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: http://www.angelfire.com/ultra/matrupanchakam
+Subject: philosophy/hinduism/religion
+Sublocation: general
+Text title: Matripanchakam
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: matripanchakam
+itxtitle: mAtRipanchakam (sachchidAnandatIrthavirachitam)
+title: मातृइपञ्चकम् (सच्चिदानन्दतीर्थविरचितम्)
 
-+++
+---
   
  मातृपञ्चकम्   
 सच्चिदानन्दतीर्थविरचितम्  

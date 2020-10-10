@@ -1,22 +1,22 @@
-+++
-"Text title" = "matrupanchakam 2"
-"File name" = "mAtripanchakam2.itx"
-itxtitle = "mAtRipanchakam 2"
-engtitle = "Matripanchakam 2"
-Category = "deities_misc, panchaka, devii"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi"
-"Proofread by" = "Sunder Hattangadi, Shankara"
-Indexextra = "(Scan)"
-"Latest update" = "February 14, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातृइपञ्चकम् २"
+---
+Category: deities_misc, panchaka, devii
+File name: mAtripanchakam2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 14, 2020
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi, Shankara
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: matrupanchakam 2
+Transliterated by: Sunder Hattangadi
+engtitle: Matripanchakam 2
+itxtitle: mAtRipanchakam 2
+title: मातृइपञ्चकम् २
 
-+++
+---
   
  श्रीमातृपञ्चकम् २   
      श्रीमातृदेवताचरणेभ्यो नमः ।  

@@ -1,22 +1,23 @@
-+++
-"Text title" = "shrIviShNustutiH"
-"File name" = "viShNustutiH.itx"
-itxtitle = "viShNustutiH (vAdirAjakRitA)"
-engtitle = "shrIviShNustutiH"
-Category = "vishhnu, vAdirAja, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Vadiraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तुतिः (वादिराजकृइता)"
+---
+Author: Vadiraja
+Category: vishhnu, vAdirAja, vishnu
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: viShNustutiH.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIviShNustutiH
+engtitle: shrIviShNustutiH
+itxtitle: viShNustutiH (vAdirAjakRitA)
+title: विष्णुस्तुतिः (वादिराजकृइता)
 
-+++
+---
   
  श्रीविष्णुस्तुतिः   
   

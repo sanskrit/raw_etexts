@@ -1,24 +1,25 @@
-+++
-"Text title" = "hanumatkavacham"
-"File name" = "hanumatkavacham.itx"
-itxtitle = "hanumat kavacham (sudarshanasaMhitAntargatam)"
-engtitle = "hanumat kavacham"
-Category = "hanumaana, kavacha"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "K. Muralidharan kmurali_sg at yahoo.com"
-"Proofread by" = "K. Muralidharan kmurali_sg at yahoo.com, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "from Sudarshana Samhita (book not available)"
-Indexextra = "(Manuscript Scan 1, 2)"
-Acknowledge-Permission = "http://indianmanuscripts.com"
-"Latest update" = "May 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत् कवचम् (सुदर्शनसंहितान्तर्गतम्)"
+---
+Acknowledge-Permission: http://indianmanuscripts.com
+Category: hanumaana, kavacha
+Description/comments: from Sudarshana Samhita (book not available)
+File name: hanumatkavacham.itx
+Indexextra: (Manuscript Scan 1, 2)
+Language: Sanskrit
+Latest update: May 14, 2019
+Location: doc_hanumaana
+Proofread by: K. Muralidharan kmurali_sg at yahoo.com, PSA Easwaran psaeaswaran at
+  gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatkavacham
+Transliterated by: K. Muralidharan kmurali_sg at yahoo.com
+engtitle: hanumat kavacham
+itxtitle: hanumat kavacham (sudarshanasaMhitAntargatam)
+title: हनुमत् कवचम् (सुदर्शनसंहितान्तर्गतम्)
 
-+++
+---
   
  हनुमत्कवचं   
 ॥ हनुमत्कवचं ॥   
@@ -107,7 +108,7 @@ title = "हनुमत् कवचम् (सुदर्शनसंहि�
 भुजौ भुजायुधः पातु स्कन्धौ मे सन्धिकारकः ॥ १८॥  
   
 अङ्गुलीः पातु रामस्य वर्णाङ्गुलियधारकः ।  
-नखान्नखायुधः पातु स्कंकिनीभञ्जतस्तनौ ॥ १९॥ ?  
+नखान्नखायुधः पातु स्कङ्किनीभञ्जतस्तनौ ॥ १९॥ ?  
   
 वक्षः पात्वश्मवक्षःघ्नो महोदरहरोदरम् ।  
 केसरीनन्दनो मध्यं पातु पूर्वं प्रयत्नतः ॥ २०॥  

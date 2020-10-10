@@ -1,26 +1,26 @@
-+++
-"Text title" = "shiva sahasranaama stotra from Linga purana."
-"File name" = "shivasahasralinga.itx"
-itxtitle = "shivasahasranAmastotram (liNgapurANAntargatam)"
-engtitle = "shiva sahasranAma stotram from Lingapurana"
-Category = "sahasranAma, shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Kirk Wortman kirkwort at hotmail.com"
-"Proofread by" = "Kirk Wortman, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "lingapuraaNa Chapter 98 from Part 1"
-Indexextra = "(li.ngapurANa (thesis))"
-"Latest update" = "April 18, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसहस्रनामस्तोत्रम् (लिण्गपुराणान्तर्गतम्)"
+---
+Category: sahasranAma, shiva, stotra
+Description-comments: lingapuraaNa Chapter 98 from Part 1
+File name: shivasahasralinga.itx
+Indexextra: (li.ngapurANa (thesis))
+Language: Sanskrit
+Latest update: April 18, 2020
+Location: doc_shiva
+Proofread by: Kirk Wortman, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: shiva
+Text title: shiva sahasranaama stotra from Linga purana.
+Texttype: stotra
+Transliterated by: Kirk Wortman kirkwort at hotmail.com
+engtitle: shiva sahasranAma stotram from Lingapurana
+itxtitle: shivasahasranAmastotram (liNgapurANAntargatam)
+title: शिवसहस्रनामस्तोत्रम् (लिण्गपुराणान्तर्गतम्)
 
-+++
+---
   
- श्रीशिवसहस्रनामस्तोत्रम् लिंगपुराणान्तर्गत   
+ श्रीशिवसहस्रनामस्तोत्रम् लिङ्गपुराणान्तर्गत   
 अथ लिङ्गपुराणान्तर्गत- श्रीशिवसहस्रनामस्तोत्रमन्त्रैः  
 अभिषेकः ।  
 ॐ ।  

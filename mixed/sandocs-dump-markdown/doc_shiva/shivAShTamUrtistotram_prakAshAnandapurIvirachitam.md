@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivAShTamUrtistotram"
-"File name" = "shivAShTamUrtistotram.itx"
-itxtitle = "shivAShTamUrtistotram (prakAshAnandapurIvirachitam)"
-engtitle = "shivAShTamUrtistotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Madhura Bal madhurabal11 gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "August 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवाष्टमूर्तिस्तोत्रम् (प्रकाशानन्दपुरीविरचितम्)"
+---
+Category: shiva
+File name: shivAShTamUrtistotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 27, 2018
+Location: doc_shiva
+Proofread by: Madhura Bal madhurabal11 gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivAShTamUrtistotram
+Transliterated by: NA
+engtitle: shivAShTamUrtistotram
+itxtitle: shivAShTamUrtistotram (prakAshAnandapurIvirachitam)
+title: शिवाष्टमूर्तिस्तोत्रम् (प्रकाशानन्दपुरीविरचितम्)
 
-+++
+---
   
  श्रीशिवाष्टमूर्तिस्तोत्रम्   
 ॐ तत्सदित्यमलधीभिरधीयमान-  

@@ -1,34 +1,34 @@
-+++
-"Text title" = "pANDurangAShTakam"
-"File name" = "panduranga8.itx"
-itxtitle = "pANDuraNgAShTakam (shaNkarAchAryavirachitam)"
-engtitle = "Pandurangashtakam"
-Category = "aShTaka, vishhnu, krishna, vishnu, shankarAchArya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "NA"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(meaning)"
-"Latest update" = "April 4, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पाण्डुरण्गाष्टकम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: aShTaka, vishhnu, krishna, vishnu, shankarAchArya
+File name: panduranga8.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: April 4, 2020
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: Hinduism/religion/traditional
+Sublocation: vishhnu
+Text title: pANDurangAShTakam
+Transliterated by: NA
+engtitle: Pandurangashtakam
+itxtitle: pANDuraNgAShTakam (shaNkarAchAryavirachitam)
+title: पाण्डुरण्गाष्टकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  पाण्डुरङ्गाष्टकं   
   
 महायोगपीठे तटे भीमरथ्या  
 वरं पुण्डरीकाय दातुं मुनीन्द्रैः ।  
-समागत्य तिष्ठन्तमानंदकंदं  
+समागत्य तिष्ठन्तमानन्दकन्दं  
 परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ १॥  
   
 तटिद्वाससं नीलमेघावभासं  
-रमामंदिरं सुंदरं चित्प्रकाशम् ।  
+रमामन्दिरं सुन्दरं चित्प्रकाशम् ।  
 वरं त्विष्टकायां समन्यस्तपादं  
 परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ २॥  
   
@@ -39,20 +39,20 @@ title = "पाण्डुरण्गाष्टकम् (शण्करा
   
 स्फुरत्कौस्तुभालङ्कृतं कण्ठदेशे  
 श्रिया जुष्टकेयूरकं श्रीनिवासम् ।  
-शिवं शांतमीड्यं वरं लोकपालं  
+शिवं शान्तमीड्यं वरं लोकपालं  
 परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ ४॥  
   
-शरच्चंद्रबिंबाननं चारुहासं  
-लसत्कुण्डलाक्रांतगण्डस्थलांतम् ।  
-जपारागबिंबाधरं कञ्जनेत्रं  
+शरच्चन्द्रबिम्बाननं चारुहासं  
+लसत्कुण्डलाक्रान्तगण्डस्थलान्तम् ।  
+जपारागबिम्बाधरं कञ्जनेत्रं  
 परब्रह्मलिङ्गं भजे पाण्डुरङ्गम्॥ ५॥  
   
-किरीटोज्वलत्सर्वदिक्प्रांतभागं  
+किरीटोज्वलत्सर्वदिक्प्रान्तभागं  
 सुरैरर्चितं दिव्यरत्नैरनर्घैः ।  
 त्रिभङ्गाकृतिं बर्हमाल्यावतंसं  
 परब्रह्मलिङ्गं भजे पाण्डुरङ्गम्॥ ६॥  
   
-विभुं वेणुनादं चरंतं दुरंतं  
+विभुं वेणुनादं चरन्तं दुरन्तं  
 स्वयं लीलया गोपवेषं दधानम् ।  
 गवां बृन्दकानन्ददं चारुहासं  
 परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ ७॥  
@@ -62,9 +62,9 @@ title = "पाण्डुरण्गाष्टकम् (शण्करा
 प्रसन्नं प्रपन्नार्तिहं देवदेवं  
 परब्रह्मलिङ्गं भजे पाण्डुरङ्गम् ॥ ८॥  
   
-स्तवं पाण्डुरंगस्य वै पुण्यदं ये  
+स्तवं पाण्डुरङ्गस्य वै पुण्यदं ये  
 पठन्त्येकचित्तेन भक्त्या च नित्यम् ।  
-भवांभोनिधिं ते वितीर्त्वान्तकाले  
+भवाम्भोनिधिं ते वितीर्त्वान्तकाले  
 हरेरालयं शाश्वतं प्राप्नुवन्ति ॥  
   
 ॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  

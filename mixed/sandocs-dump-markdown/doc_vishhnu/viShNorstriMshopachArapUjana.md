@@ -1,21 +1,21 @@
-+++
-"Text title" = "Vishnu Puja with 30 parts"
-"File name" = "viShNorstriMshopachArapUjana.itx"
-itxtitle = "viShNorstriMshopachArapUjana"
-engtitle = "viShNorstriMshopachArapUjana"
-Category = "vishhnu, pUjA"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "August 5, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णोर्स्त्रिंशोपचारपूजन"
+---
+Category: vishhnu, pUjA
+File name: viShNorstriMshopachArapUjana.itx
+Language: Sanskrit
+Latest update: August 5, 2019
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Vishnu Puja with 30 parts
+Texttype: svara
+engtitle: viShNorstriMshopachArapUjana
+itxtitle: viShNorstriMshopachArapUjana
+title: विष्णोर्स्त्रिंशोपचारपूजन
 
-+++
+---
   
  विष्णोस्त्रिंशोपचार पूजनम्   
 १ ध्यानम् --  
@@ -57,7 +57,7 @@ title = "विष्णोर्स्त्रिंशोपचारपू�
 ९ दधि स्नानम् --  
 शुचिपयः समुद्भूतमुतप्रदं   
      व्रजनिवासिभिः स्वादितं शुभम् ।  
-रजतसंनिभं शीततामयं   
+रजतसन्निभं शीततामयं   
      जनपगृह्यतामर्पितन्दधिम् ॥  
   
 १० घृतस्नानम्  --  

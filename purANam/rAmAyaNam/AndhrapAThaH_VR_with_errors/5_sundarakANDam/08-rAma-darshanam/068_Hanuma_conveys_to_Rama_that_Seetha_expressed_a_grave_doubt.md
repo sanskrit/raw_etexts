@@ -3,7 +3,6 @@ title: 068 Hanuma conveys to Rama that Seetha expressed a grave doubt
 title_english: 068 Hanuma conveys to Rama that Seetha expressed a grave doubt
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-068-Seetha_expressed_her_grave_doubt.mp3"></div>
 
 अथ अहम् उत्तरम् देव्या पुनः उक्तः ससम्भ्रमम् ।  
@@ -15,10 +14,10 @@ title_english: 068 Hanuma conveys to Rama that Seetha expressed a grave doubt
 मम च अपि अल्प भाग्यायाः साम्निध्यात् तव वानर ।  
 अस्य शोक विपाकस्य मुहूर्तम् स्यात् विमोक्षणम् ॥ ५-६८-४  
 गते हि त्वयि विक्रान्ते पुनः आगमनाय वै ।  
-प्राणानाम् अपि संदेहो मम स्यान् न अत्र संशयः ॥ ५-६८-५  
+प्राणानाम् अपि सन्देहो मम स्यान् न अत्र संशयः ॥ ५-६८-५  
 तव अदर्शनजः शोको भूयो माम् परितापयेत् ।  
 दुह्खात् दुह्ख पराभूताम् दुर्गताम् दुह्ख भागिनीम् ॥ ५-६८-६  
-अयम् तु वीर संदेहः तिष्ठति इव मम अग्रतः ।  
+अयम् तु वीर सन्देहः तिष्ठति इव मम अग्रतः ।  
 सुमहान् त्वत् सहायेषु हरि ऋक्षेषु असंशयः ॥ ५-६८-७  
 कथम् नु खलु दुष्पारम् तरिष्यन्ति महाउदधिम् ।  
 तानि हरि ऋक्ष सैन्यानि तौ वा नर वर आत्मजौ ॥ ५-६८-८  

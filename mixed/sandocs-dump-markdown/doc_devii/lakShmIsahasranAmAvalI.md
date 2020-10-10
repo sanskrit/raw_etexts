@@ -1,25 +1,25 @@
-+++
-"Text title" = "lakShmI sahasranAmaavalii"
-"File name" = "laxmi1000.itx"
-itxtitle = "lakShmIsahasranAmAvalI"
-engtitle = "shri lakShmisahasranAmAvalI"
-Category = "sahasranAmAvalI, devii, lakShmI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pradip Sagdeo pradipsagdeo at chartermi.net"
-"Proofread by" = "Pradip Sagdeo pradipsagdeo at chartermi.net"
-Indexextra = "(stotra)"
-"Latest update" = "November 20, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीसहस्रनामावली"
+---
+Author: Traditional
+Category: sahasranAmAvalI, devii, lakShmI, nAmAvalI, devI
+File name: laxmi1000.itx
+Indexextra: (stotra)
+Language: Sanskrit
+Latest update: November 20, 2011
+Location: doc_devii
+Proofread by: Pradip Sagdeo pradipsagdeo at chartermi.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmI sahasranAmaavalii
+Texttype: nAmAvalI
+Transliterated by: Pradip Sagdeo pradipsagdeo at chartermi.net
+engtitle: shri lakShmisahasranAmAvalI
+itxtitle: lakShmIsahasranAmAvalI
+title: लक्ष्मीसहस्रनामावली
 
-+++
+---
   
  श्रीलक्ष्मीसहस्रनामावलिः   
   
@@ -110,7 +110,7 @@ title = "लक्ष्मीसहस्रनामावली"
 ॐ वेदगर्भायै नमः ।  
 ॐ अम्बिकायै नमः ।  
 ॐ धृतये नमः ।  
-ॐ संख्यायै नमः ।  
+ॐ सङ्ख्यायै नमः ।  
 ॐ जातयै नमः ।  
 ॐ क्रियाशक्त्यै नमः ।  
 ॐ प्रकृत्यै नमः ।  
@@ -343,7 +343,7 @@ title = "लक्ष्मीसहस्रनामावली"
 ॐ ग्रहनक्षत्ररूपिण्यै नमः ।  
 ॐ बिन्दुनादकलातीत-  
       बिन्दुनादकलात्मिकायै नमः ॥ ३१०  
-ॐ दशवायुजयोंकारायै नमः ।  
+ॐ दशवायुजयोङ्कारायै नमः ।  
 ॐ कलाषोडशसंयुतायै नमः ।  
 ॐ काश्यप्यै नमः ।  
 ॐ कमलायै नमः ।  
@@ -367,7 +367,7 @@ title = "लक्ष्मीसहस्रनामावली"
 ॐ श्रुतये नमः ।  
 ॐ ब्रह्ममुखावासायै नमः ।  
 ॐ सर्वसम्पत्तिरूपिण्यै नमः ।  
-ॐ मृतसंजीविन्यै नमः ।  
+ॐ मृतसञ्जीविन्यै नमः ।  
 ॐ मैत्र्यै नमः ।  
 ॐ कामिन्यै नमः ।  
 ॐ कामवर्जितायै नमः ।  
@@ -522,7 +522,7 @@ title = "लक्ष्मीसहस्रनामावली"
 ॐ महाद्रिगायै नमः ।  
 ॐ अकारादिक्षकारान्तसर्वविद्याधि-  
                 देवतायै नमः ।  
-ॐ मंत्रव्याख्याननिपुणायै नमः ।  
+ॐ मन्त्रव्याख्याननिपुणायै नमः ।  
 ॐ ज्योतिशास्त्रैकलोचनायै नमः ।  
 ॐ इडापिङ्गलिकायै नमः ।  
 ॐ मध्यसुषुम्नायै नमः ।  
@@ -607,7 +607,7 @@ title = "लक्ष्मीसहस्रनामावली"
 ॐ महादेव्यै नमः ।  
 ॐ सर्वतत्वप्रवर्तिन्यै नमः ।  
 ॐ हिरण्यवर्णरूपायै नमः ।  
-ॐ हिरण्यपदसंभवायै नमः ।  
+ॐ हिरण्यपदसम्भवायै नमः ।  
 ॐ कैवल्यपदव्यै नमः ।  
 ॐ पुण्यायै नमः ॥ ५७०  
 ॐ कैवल्यज्ञानलक्षितायै नमः ।  
@@ -724,7 +724,7 @@ title = "लक्ष्मीसहस्रनामावली"
 ॐ कीलकृते नमः ।  
 ॐ मन्त्रकीलिकायै नमः ॥ ६८०  
 ॐ शक्तिबीजात्मिकायै नमः ।  
-ॐ सर्वमंत्रेष्टायै नमः ।  
+ॐ सर्वमन्त्रेष्टायै नमः ।  
 ॐ अक्षयकामनायै नमः ।  
 ॐ आग्नेयायै नमः ।  
 ॐ पार्थिवायै नमः ।  
@@ -772,7 +772,7 @@ title = "लक्ष्मीसहस्रनामावली"
 ॐ हिरण्यकेशिन्यै नमः ।  
 ॐ हेम्ने नमः ।  
 ॐ ब्रह्मसूत्रविचक्षणायै नमः ।  
-ॐ असंख्येयपरार्धान्त-  
+ॐ असङ्ख्येयपरार्धान्त-  
         स्वरव्यञ्जनवैखर्यै नमः ।  
 ॐ मधुजिह्वायै नमः ।  
 ॐ मधुमत्यै नमः ॥ ७३०  
@@ -1019,8 +1019,8 @@ title = "लक्ष्मीसहस्रनामावली"
 ॐ भार्गव्यै नमः ।  
 ॐ स्वतन्त्रेच्छायै नमः ।  
 ॐ वशीकृतजगत्पतये नमः ।  
-ॐ मङ्गलानांमङ्गलायै नमः ।  
-ॐ देवतानांदेवतायै नमः ।  
+ॐ मङ्गलानाम्मङ्गलायै नमः ।  
+ॐ देवतानान्देवतायै नमः ।  
 ॐ उत्तमानामुत्तमायै नमः ।  
 ॐ श्रेयसे नमः ।  
 ॐ परमामृतये नमः ।  

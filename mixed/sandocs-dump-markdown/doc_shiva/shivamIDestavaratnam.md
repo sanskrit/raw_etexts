@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivamIDestavaratnam"
-"File name" = "shivamIDestava.itx"
-itxtitle = "shivamIDestavaratnam"
-engtitle = "shivamIDestavaratnam"
-Category = "shiva, stotra, tyAgarAja"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "tyAgarAja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sridhar Seshagiri seshagir at engineering.sdsu.edu"
-"Proofread by" = "Sridhar Seshagiri seshagir at engineering.sdsu.edu"
-"Latest update" = "June 20, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवमीडेस्तवरत्नम्"
+---
+Author: tyAgarAja
+Category: shiva, stotra, tyAgarAja
+File name: shivamIDestava.itx
+Language: Sanskrit
+Latest update: June 20, 2002
+Location: doc_shiva
+Proofread by: Sridhar Seshagiri seshagir at engineering.sdsu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivamIDestavaratnam
+Texttype: stotra
+Transliterated by: Sridhar Seshagiri seshagir at engineering.sdsu.edu
+engtitle: shivamIDestavaratnam
+itxtitle: shivamIDestavaratnam
+title: शिवमीडेस्तवरत्नम्
 
-+++
+---
   
  श्रीशिवमीडेस्तवरत्नम्   
   
@@ -45,7 +45,7 @@ title = "शिवमीडेस्तवरत्नम्"
 तं सर्वाघध्वंसकमाद्यं शिवमीडे ॥ ५॥  
   
 कर्माध्यक्षः कामिजनानां फलदाता  
-कर्तृत्वाहंकारविमुक्तो निरपेक्षः ।  
+कर्तृत्वाहङ्कारविमुक्तो निरपेक्षः ।  
 देहातीतो दृश्यविविक्तो जगदीशः  
 तं सर्वाघध्वंसकमाद्यं शिवमीडे ॥ ६॥  
   
@@ -110,7 +110,7 @@ title = "शिवमीडेस्तवरत्नम्"
 तं सर्वाघध्वंसकमाद्यं शिवमीडे ॥ १८॥  
   
 प्राणायामैः पूतधियो यं प्रणवान्तं  
-संधायात्मन्यव्यपदेश्यं निजबोधम् ।  
+सन्धायात्मन्यव्यपदेश्यं निजबोधम् ।  
 जीवन्मुक्ताः सन्ति दिशासु प्रचरन्तः  
 तं सर्वाघध्वंसकमाद्यं शिवमीडे ॥ १९॥  
   
@@ -155,7 +155,7 @@ title = "शिवमीडेस्तवरत्नम्"
 सर्वान् कामान् स्वं लभतां स प्रियरूपम् ॥ २७॥  
   
 इत्यानन्दनाथपादपपद्मोपजीविना काश्यपगोत्रोत्पन्नेनान्ध्रेण  
-त्यागराजनाम्ना विरचितं शिवमीडेस्तवरत्नं संपूर्णम् ॥  
+त्यागराजनाम्ना विरचितं शिवमीडेस्तवरत्नं सम्पूर्णम् ॥  
   
   
 Encoded by Sridhar Seshagiri seshagir at engineering.sdsu.edu  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Vedavyasa Ashtottaranamavali 4 by Yoganandasarasvati"
-"File name" = "vedavyAsAShTottaranAmastotram4.itx"
-itxtitle = "vedavyAsAShTottaranAmastotram 4 (yogAnandasarasvatIvirachitam)"
-engtitle = "vedavyAsAShTottaranAmastotram 4"
-Category = "aShTottarashatanAma, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "September 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदव्यासाष्टोत्तरनामस्तोत्रम् ४ (योगानन्दसरस्वतीविरचितम्)"
+---
+Category: aShTottarashatanAma, deities_misc
+File name: vedavyAsAShTottaranAmastotram4.itx
+Language: Sanskrit
+Latest update: September 18, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Vedavyasa Ashtottaranamavali 4 by Yoganandasarasvati
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: vedavyAsAShTottaranAmastotram 4
+itxtitle: vedavyAsAShTottaranAmastotram 4 (yogAnandasarasvatIvirachitam)
+title: वेदव्यासाष्टोत्तरनामस्तोत्रम् ४ (योगानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  श्रीवेदव्यासाष्टोत्तरनामस्तोत्रम् ४   
 यं वेदशास्त्रपरिनिष्ठितशुद्धबुद्धिं  
@@ -29,7 +29,7 @@ title = "वेदव्यासाष्टोत्तरनामस्त�
 ॐ वेदव्यासो विष्णुरूपः पाराशर्यस्तपोनिधिः ।  
 सत्यसन्धः प्रशान्तात्मा वाग्मी सत्यवतीसुतः ॥ १ ॥  
   
-कृष्णद्वैपायनो दान्तो बादरायणसंज्ञितः ।  
+कृष्णद्वैपायनो दान्तो बादरायणसञ्ज्ञितः ।  
 ब्रह्मसूत्रग्रथितवान् भगवाञ्ज्ञानभास्करः ॥ २ ॥  
   
 सर्ववेदान्ततत्त्वज्ञः सर्वज्ञो वेदमूर्तिमान् ।  

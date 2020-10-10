@@ -1,23 +1,23 @@
-+++
-"Text title" = "vishvalochanachakrapUjA"
-"File name" = "vishvalochanachakrapUjA.itx"
-itxtitle = "vishvalochanachakrapUjA"
-engtitle = "vishvalochanachakrapUjA"
-Category = "pUjA, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वलोचनचक्रपूजा"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: pUjA, hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: vishvalochanachakrapUjA.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: vishvalochanachakrapUjA
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: vishvalochanachakrapUjA
+itxtitle: vishvalochanachakrapUjA
+title: विश्वलोचनचक्रपूजा
 
-+++
+---
   
  विश्वलोचनचक्रपूजा   
 ॐ नमो भगवते हनुमते रुद्रावताराय महाबलाय आञ्जनेयाय  

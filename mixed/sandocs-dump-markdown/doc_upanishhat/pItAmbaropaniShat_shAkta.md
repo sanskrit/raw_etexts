@@ -1,22 +1,22 @@
-+++
-"Text title" = "pItAmbaropaniShat"
-"File name" = "pItAmbaropaniShat.itx"
-itxtitle = "pItAmbaropaniShat (shAkta)"
-engtitle = "pItAmbaropaniShat"
-Category = "upanishhat, devii, devI, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पीताम्बरोपनिषत् (शाक्त)"
+---
+Category: upanishhat, devii, devI, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: pItAmbaropaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: pItAmbaropaniShat
+engtitle: pItAmbaropaniShat
+itxtitle: pItAmbaropaniShat (shAkta)
+title: पीताम्बरोपनिषत् (शाक्त)
 
-+++
+---
   
  पीताम्बरोपनिषत्   
 ॐअथ हैनां ब्रह्मरन्ध्रे सुभगां ब्रह्मास्त्रत्वरूपिणीमाप्नोति ।  
@@ -50,7 +50,7 @@ title = "पीताम्बरोपनिषत् (शाक्त)"
 भवति । य एनां ध्यायति स वाग्मी भवति । सोऽमृरतमश्नुते ।  
 सर्वसिद्धिकर्ता भवति । सृष्टिस्थितिसंहारकर्ता भवति ।  
 स सर्वेश्वरो भवति । स तु ऋद्धीश्वरो भवति । स शाक्तः स  
-वैष्णवः स गणपः स शैवः । स जीवन्मुक्तो भवति । स संन्यासई  
+वैष्णवः स गणपः स शैवः । स जीवन्मुक्तो भवति । स सन्न्यासई  
 भवति । न्यसनं न्यासः । सम्यङ्न्यासः सन्न्यासः । न तु मुण्डितमुण्डः ।  
 षट्त्रिंशदस्त्रेश्वरो भवेत् सौभाग्यार्चनेनेति प्रोतं वेद ।  
 ॐ शिवम् ॥  

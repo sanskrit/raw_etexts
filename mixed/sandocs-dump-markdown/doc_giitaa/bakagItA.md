@@ -1,23 +1,23 @@
-+++
-"Text title" = "bakagItA evam baka shakra saMvAda"
-"File name" = "bakagiitaa.itx"
-itxtitle = "bakagItA"
-engtitle = "bakagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunder at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunder at hotmail.com"
-Description-comments = "Ch. 193 of Vana Parva, Mahabharata, in Kinjavadekar edition."
-Indexextra = "(scanned)"
-"Latest update" = "February 10, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बकगीता"
+---
+Category: gItA, giitaa
+Description-comments: Ch. 193 of Vana Parva, Mahabharata, in Kinjavadekar edition.
+File name: bakagiitaa.itx
+Indexextra: (scanned)
+Language: Sanskrit
+Latest update: February 10, 2013
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunder at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: bakagItA evam baka shakra saMvAda
+Transliterated by: Sunder Hattangadi sunder at hotmail.com
+engtitle: bakagItA
+itxtitle: bakagItA
+title: बकगीता
 
-+++
+---
   
  बकगीता   
   
@@ -33,13 +33,13 @@ title = "बकगीता"
 मार्कण्डेयं पर्यपृच्छद्धर्मराजो युधिष्ठिरः ॥ ३॥  
   
 बकदाल्भ्यौ महात्मानौ श्रूयेते चिरजीविनौ ।  
-सखायौ देवराजस्य तावृषी लोकसंमितौ ॥ ४॥  
+सखायौ देवराजस्य तावृषी लोकसम्मितौ ॥ ४॥  
   
 एतदिच्छामि भगवन् बकशक्रसमागमम् ।  
 सुखदुःखसमायुक्तं तत्त्वेन कथयस्व मे ॥ ५॥  
   
 मार्कण्डेय उवाच  -  
-वृत्ते देवासुरे राजन्संग्रामे लोमहर्षणे ।  
+वृत्ते देवासुरे राजन्सङ्ग्रामे लोमहर्षणे ।  
 त्रयाणामपि लोकानामिन्द्रो लोकाधिपो भवत् ॥ ६॥  
   
 सम्यग्वर्षति पर्जन्ये सुखसम्पद उत्तमाः ।  
@@ -80,9 +80,9 @@ title = "बकगीता"
 असद्भिः सम्प्रयोगश्च तद्दुःखं चिर्जीविनाम् ॥ १८॥  
   
 पुत्रदारविनाशोत्र ज्ञातीनां सुहृदामपि ।  
-परेष्वापतते कृछ्रं किंनु दुःखतरं ततः ॥ १९॥  
+परेष्वापतते कृछ्रं किन्नु दुःखतरं ततः ॥ १९॥  
   
-नान्यद्दुःखतरं किंचिल्लोकेषु प्रतिभाति मे ।  
+नान्यद्दुःखतरं किञ्चिल्लोकेषु प्रतिभाति मे ।  
 अर्थैर्विहीनः पुरुषः परैः सम्परिभूयते ॥ २०॥  
   
 अकुलानां कुले भावं कुलीनानां कुलक्षयम् ।  
@@ -92,10 +92,10 @@ title = "बकगीता"
 अकुलानां समृद्धानां कथं कुलविपर्ययः ॥ २२॥  
   
 देवदानवगन्धर्वमनुष्योरगराक्षसाः ।  
-प्राप्नुवन्ति विपर्यासं किंनु दुःखतरं ततः ॥ २३॥  
+प्राप्नुवन्ति विपर्यासं किन्नु दुःखतरं ततः ॥ २३॥  
   
 कुले जाताश्च क्लिश्यन्ते दौष्कुले यवशानुगाः ।  
-आढ्यैर्दरिद्रावमताः किंनु दुःखतरं ततः ॥ २४॥  
+आढ्यैर्दरिद्रावमताः किन्नु दुःखतरं ततः ॥ २४॥  
   
 लोके वैधर्म्यमेतत्तु दृश्यते बहुविस्तरम् ।  
 हीनज्ञानाश्च दृश्यन्ते क्लिश्यन्ते प्राज्ञकोविदाः ॥ २५॥  
@@ -111,7 +111,7 @@ title = "बकगीता"
 कुमित्राण्यनपाश्रित्य किं वै सुखतरं ततः ।  
 यत्राहानि न गण्यन्ते नैनमाहुर्महाशनम् ॥ २८॥  
   
-अपि शाकंपचानस्य सुखं वै मघवन् गृहे ।  
+अपि शाकम्पचानस्य सुखं वै मघवन् गृहे ।  
 अर्जितं स्वेन वीर्येण नाप्यपाश्रित्य कञ्चन ॥ २९॥  
   
 फलशाकमपि श्रेयो भोक्तुं ह्यकृपणे गृहे ।  
@@ -127,13 +127,13 @@ title = "बकगीता"
 अतो मृष्टतरं नान्यत्पूतं किञ्चिच्छ्तक्रतो ॥ ३३॥  
   
 दत्वा यस्त्वतिथिभ्यो वै भुङ्क्ते तेनैव नित्यशः ।  
-यावतोह्यंधसः पिण्डानश्नाति सततं द्विजः ॥ ३४॥  
+यावतोह्यन्धसः पिण्डानश्नाति सततं द्विजः ॥ ३४॥  
   
 तावतां गोसहस्राणां फलं प्राप्नोति दायकः ।  
 यदेनो यौवनकृतं तत्सर्व नश्यते ध्रुवम् ॥ ३५॥  
   
 सदक्षिणस्य भुक्तस्य द्विजस्य तु करे गतम् ।  
-यद्वारि वारिणा सिंचेत्तद्ध्येनस्तरते क्षणात् ॥ ३६॥  
+यद्वारि वारिणा सिञ्चेत्तद्ध्येनस्तरते क्षणात् ॥ ३६॥  
   
 एतश्चान्याश्चवै बह्वीः कथयित्वा कथाः शुभाः ।  
 बकेन सह देवेन्द्र आपृच्छ्य त्रिदिवं गतः ॥ ३७॥  

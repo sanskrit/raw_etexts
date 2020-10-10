@@ -1,24 +1,24 @@
-+++
-"Text title" = "panchapadyAni"
-"File name" = "panchapadyAni.itx"
-itxtitle = "panchapadyAni (vallabhAchAryavirachitAni)"
-engtitle = "panchapadyAni"
-Category = "vishhnu, krishna, puShTimArgIya, panchaka, vallabhaachaarya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पञ्चपद्यानि (वल्लभाचार्यविरचितानि)"
+---
+Author: vallabhAchArya
+Category: vishhnu, krishna, puShTimArgIya, panchaka, vallabhaachaarya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: panchapadyAni.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: panchapadyAni
+engtitle: panchapadyAni
+itxtitle: panchapadyAni (vallabhAchAryavirachitAni)
+title: पञ्चपद्यानि (वल्लभाचार्यविरचितानि)
 
-+++
+---
   
  पञ्चपद्यानि   
   

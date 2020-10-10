@@ -1,23 +1,23 @@
-+++
-"Text title" = "ShaTpanchashikA"
-"File name" = "satpancasika.itx"
-itxtitle = "ShaTpanchAshikA"
-engtitle = "ShaTpanchAshikA"
-Category = "jyotisha, sociology_astrology"
-Location = "doc_z_misc_sociology_astrology"
-Sublocation = "sociology_astrology"
-Author = "Prithuyashas"
-Language = "Sanskrit"
-Subject = "Jyotish"
-"Transliterated by" = "Radu Canahai clradu at yahoo.com"
-"Proofread by" = "Radu Canahai clradu at yahoo.com"
-Indexextra = "(proofreading pending)"
-"Latest update" = "February 04, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षट्पञ्चाशिका"
+---
+Author: Prithuyashas
+Category: jyotisha, sociology_astrology
+File name: satpancasika.itx
+Indexextra: (proofreading pending)
+Language: Sanskrit
+Latest update: February 04, 2005
+Location: doc_z_misc_sociology_astrology
+Proofread by: Radu Canahai clradu at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Jyotish
+Sublocation: sociology_astrology
+Text title: ShaTpanchashikA
+Transliterated by: Radu Canahai clradu at yahoo.com
+engtitle: ShaTpanchAshikA
+itxtitle: ShaTpanchAshikA
+title: षट्पञ्चाशिका
 
-+++
+---
   
  षत्पञ्चाशिका   
   
@@ -46,14 +46,14 @@ title = "षट्पञ्चाशिका"
 सौम्ये विलग्रे यदि वास्य वर्गे शीर्षोदये सिद्धिमुपैति कार्यम् ।  
 अतो विपर्यस्तमसिद्धिहेतुः कृच्छ्नेण संसिद्धिकरं विमिश्रम् ॥ ४॥  
   
-होरास्थितः पूर्ण्यतनुः शशांको जीवेन दृष्तो यदि वा सितेन ।  
+होरास्थितः पूर्ण्यतनुः शशाङ्को जीवेन दृष्तो यदि वा सितेन ।  
 धिप्रं प्रनष्टस्य करोति लब्धिं लाभोपय तो बलवाञ्छुभश्च ॥ ५॥  
   
-स्वांशे विलग्ने यदि वा त्रिकोणे स्वां शे स्थितः पश्यति धातुचिंताम् ।  
+स्वांशे विलग्ने यदि वा त्रिकोणे स्वां शे स्थितः पश्यति धातुचिन्ताम् ।  
 परांशकस्थश्च करोति जीवं मूलं परांशोपगतः परंशम् ॥ ६॥  
   
 धातुं मूलं जीवं त्रयो जराशौ युग्मे विन्ध्यादेतदेव प्रतीपम् ।  
-लग्ने योंशस्तत्क्रमाक्षगय एव संधेपोऽयं विस्तरातत्प्रभेदः ॥ ७ ॥  
+लग्ने योंशस्तत्क्रमाक्षगय एव सन्धेपोऽयं विस्तरातत्प्रभेदः ॥ ७ ॥  
   
 इति श्रीवराहमिहिरात्मजपृथुयशोविरचितायां षत्पञ्चाशिकायां  
 होराध्यायः प्रथमः  
@@ -70,7 +70,7 @@ title = "षट्पञ्चाशिका"
 सुतशत्रुगतैः पापैः शत्रुमार्गार्न्निवर्तते ।  
 चतुर्थगैरपि प्राप्तः शत्रुर्भग्नो निवर्तते ॥ ३॥  
   
-भ्रष्टालिकुंभकर्कटा रसातले यदा स्थितः ।  
+भ्रष्टालिकुम्भकर्कटा रसातले यदा स्थितः ।  
 रिपोः पराजयस्तदाचतुष्पदैः पलायनम् ॥ ४॥  
   
 चरोदये शुभः स्थितः शुभं करोति यायिनाम् ।  
@@ -101,7 +101,7 @@ title = "षट्पञ्चाशिका"
 उदये रविर्गुरुर्वा चरराशौ स्यात्तदागमनम् ॥ १३॥  
   
 ग्रहः सर्वोत्तमबलो लग्नद्यस्मिन् गृहे स्थितः ।  
-मासैस्तत्तुल्यसंख्याकैर्निवृत्तिं यातुरादिशेत् ॥ १४॥  
+मासैस्तत्तुल्यसङ्ख्याकैर्निवृत्तिं यातुरादिशेत् ॥ १४॥  
   
 चरांशस्थे ग्रहे तस्मिन् कालमेवा विनिर्दिशेत् ।  
 द्विगुणं स्थिरभागस्थे त्रिगुणं ह्यात्मकांशके ॥ १५॥  
@@ -189,7 +189,7 @@ title = "षट्पञ्चाशिका"
 पूर्णः शशी लग्नगतः शुभो वा शीर्षोदये सौम्यनिरीधितश्च ।  
 तष्टस्य लाभ कुरुते तदाशु लाभोदयातो बलवाञ्छ्यभश्च ॥ ३॥  
   
-दिग्वाच्या केन्द्रगतैरसंभवे वा वदेद्विलग्नर्धात् ।  
+दिग्वाच्या केन्द्रगतैरसम्भवे वा वदेद्विलग्नर्धात् ।  
 मध्याच्च्युतैर्विलग्नान्नवांशैकर्योजना वाच्या ॥ ४॥  
   
 अंशकाज्ज्ञायते द्रव्यं द्रेष्काणैस्तस्कराः स्मृताः ।  
@@ -213,7 +213,7 @@ title = "षट्पञ्चाशिका"
 सौम्या जलराशिस्थास्तृतीयधनकेन्द्रगाः सिते पधे ।  
 चन्द्रे वाप्युदयगते जलराशिस्थे वदेद्वर्षम् ॥ ४॥  
   
-पुंवर्गे लग्नगते पुंग्रहदृष्टे बलन्विते पुरुषः ।  
+पुंवर्गे लग्नगते पुङ्ग्रहदृष्टे बलन्विते पुरुषः ।  
 युग्मे स्त्रीग्रहदृष्टे स्त्रीबुधयुक्ते तु गर्भयुता ॥ ५॥  
   
 कुमारिकां बालशशी बुधश्च वृद्धां शनीः सूर्यगुरू प्रसूताम् ।  

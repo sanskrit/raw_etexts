@@ -1,25 +1,25 @@
-+++
-"Text title" = "tArAshatanAmastotram bRRihannIlatantrAntargatam"
-"File name" = "tArAshatanAmastotrambRRihannIla.itx"
-itxtitle = "tArAshatanAmastotram (bRihannIlatantrArgatam)"
-engtitle = "Tarashatanamastotra from Brihannilatantra"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "muktabodha.org"
-"Proofread by" = "DPD"
-Description-comments = "Brihannilatantra"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "March 8, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ताराशतनामस्तोत्रम् (बृइहन्नीलतन्त्रार्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI
+Description-comments: Brihannilatantra
+File name: tArAshatanAmastotrambRRihannIla.itx
+Language: Sanskrit
+Latest update: March 8, 2013
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tArAshatanAmastotram bRRihannIlatantrAntargatam
+Texttype: stotra
+Transliterated by: muktabodha.org
+engtitle: Tarashatanamastotra from Brihannilatantra
+itxtitle: tArAshatanAmastotram (bRihannIlatantrArgatam)
+title: ताराशतनामस्तोत्रम् (बृइहन्नीलतन्त्रार्गतम्)
 
-+++
+---
   
  ताराशतनामस्तोत्रम् बृहन्नीलतन्त्रार्गतम्   
   
@@ -39,7 +39,7 @@ title = "ताराशतनामस्तोत्रम् (बृइहन
 कृतार्थास्ते हि विस्तीर्णा यान्ति देवीपुरे स्वयम् ।  
 नाम्नां शतं प्रवक्ष्यामि जपात् स(अ)र्वज्ञदायकम् ॥ २०-४॥  
   
-नाम्नां सहस्रं संत्यज्य नाम्नां शतं पठेत् सुधीः ।  
+नाम्नां सहस्रं सन्त्यज्य नाम्नां शतं पठेत् सुधीः ।  
 कलौ नास्ति महेशानि कलौ नान्या गतिर्भवेत् ॥ २०-५॥  
   
 शृणु साध्वि वरारोहे शतं नाम्नां पुरातनम् ।  
@@ -108,7 +108,7 @@ title = "ताराशतनामस्तोत्रम् (बृइहन
 इति सत्यं पुनः सत्यं सत्यं सत्यं महेश्वरि ।  
 अस्मात् परतरं नास्ति स्तोत्रमध्ये न संशयः ॥ २०-२७॥  
   
-नाम्नां शतं पठेद् मन्त्रं संजप्य भक्तिभावतः ।  
+नाम्नां शतं पठेद् मन्त्रं सञ्जप्य भक्तिभावतः ।  
 प्रत्यहं प्रपठेद् देवि यदीच्छेत् शुभमात्मनः ॥ २०-२८॥  
   
 इदानीं कथयिष्यामि विद्योत्पत्तिं वरानने ।  

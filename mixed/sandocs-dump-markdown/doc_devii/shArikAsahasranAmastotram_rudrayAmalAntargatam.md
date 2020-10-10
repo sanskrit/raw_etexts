@@ -1,22 +1,22 @@
-+++
-"Text title" = "ShArika SahasranAma Stotra"
-"File name" = "shArikAsahasranAmastotra.itx"
-itxtitle = "shArikAsahasranAmastotram (rudrayAmalAntargatam)"
-engtitle = "ShArika SahasranAma Stotra"
-Category = "sahasranAma, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD with help from Alex"
-"Proofread by" = "DPD, NA"
-"Latest update" = "October 16, 2014, July 31, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारिकासहस्रनामस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: sahasranAma, devii, dashamahAvidyA, devI
+File name: shArikAsahasranAmastotra.itx
+Language: Sanskrit
+Latest update: October 16, 2014, July 31, 2016
+Location: doc_devii
+Proofread by: DPD, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ShArika SahasranAma Stotra
+Transliterated by: DPD with help from Alex
+engtitle: ShArika SahasranAma Stotra
+itxtitle: shArikAsahasranAmastotram (rudrayAmalAntargatam)
+title: शारिकासहस्रनामस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीशारिकासहस्रनामस्तोत्रम्   
 ॥ श्रीशारिकासहस्रनामस्तोत्रम् ॥  
@@ -115,7 +115,7 @@ title = "शारिकासहस्रनामस्तोत्रम् (
 स्फुरद्रत्नांशुखचिता रत्नमण्डलविग्रहा ॥ ५॥  
   
 रक्ताम्बरधरा देवी रत्नमालाविभूषणा ।  
-रत्नसंमूर्छितात्मा च दीप्ता दीप्तशिखा दया ॥ ६॥  
+रत्नसम्मूर्छितात्मा च दीप्ता दीप्तशिखा दया ॥ ६॥  
   
 दयावती कल्पलता कल्पान्तदहनोपमा ।  
 भैरवी भीमनादा च भयानकमुखी भगा ॥ ७॥  

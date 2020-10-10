@@ -1,23 +1,23 @@
-+++
-"Text title" = "Niralamba Upanishad"
-"File name" = "niralamba.itx"
-itxtitle = "nirAlambopaniShat"
-engtitle = "Niralamba Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradiotion"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "34/108; Shukla Yajurveda Samanya upanishad."
-"Latest update" = "Jan. 13, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "निरालम्बोपनिषत्"
+---
+Author: Vedic tradiotion
+Category: upanishhat, upanishad
+Description-comments: 34/108; Shukla Yajurveda Samanya upanishad.
+File name: niralamba.itx
+Language: Sanskrit
+Latest update: Jan. 13, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Niralamba Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Niralamba Upanishad
+itxtitle: nirAlambopaniShat
+title: निरालम्बोपनिषत्
 
-+++
+---
   
  निरालम्बोपनिषत्   
   
@@ -33,7 +33,7 @@ title = "निरालम्बोपनिषत्"
 निष्प्रपञ्चाय शान्ताय निरालम्बाय तेजसे ॥  
   
 निरालम्बं समाश्रित्य सालम्बं विजहाति यः ।  
-स संन्यासी च योगी च कैवल्यं पदमश्नुते ।  
+स सन्न्यासी च योगी च कैवल्यं पदमश्नुते ।  
 एषमज्ञानजन्तूनां समस्तारिष्टशान्तये ।  
 यद्यद्बोद्धव्यमखिलं तदाशङ्क्य ब्रवीम्यहम् ॥  
   
@@ -47,7 +47,7 @@ title = "निरालम्बोपनिषत्"
 कः स्वर्गः । को नरकः । को बन्धः । को मोक्षः ।  
 क उपास्यः । कः शिष्यः । को विद्वान् । को मूढः ।  
 किमासुरम् । किं तपः । किं परमं पदम् ।  
-किं ग्राह्यम् । किमग्राह्यम् । कः संन्यासीत्याहशङ्क्याह  
+किं ग्राह्यम् । किमग्राह्यम् । कः सन्न्यासीत्याहशङ्क्याह  
 ब्रह्मेति । स होवाच महदहङ्कारपृथिव्यप्तेजोवाय्वाकाशत्वेन  
 बृहद्रूपेणाण्डकोशेन कर्मज्ञानार्थरूपतया  
 भासमानमद्वितीयमखिलोपाधिविनिर्मुक्तं  
@@ -96,7 +96,7 @@ title = "निरालम्बोपनिषत्"
 बन्धः । वर्णाश्रमधर्मकर्मसङ्कल्पो बन्धः ।  
 आज्ञाभयसंशयात्मगुणसङ्कल्पो बन्धः । यागव्रत-  
 तपोदानविधिविधानज्ञानसम्भवो बन्धः । केवलमोक्षा-  
-पेक्षासङ्कल्पो बन्धः । सङ्कल्पमात्रसंभवो बन्धः ।  
+पेक्षासङ्कल्पो बन्धः । सङ्कल्पमात्रसम्भवो बन्धः ।  
 मोक्ष इति च नित्यानित्यवस्तुविचारादनित्यसंसारसुख-  
 दुःखविषयसमस्तक्षेत्रममताबन्धक्षयो मोक्षः ।  
 उपास्य इति च सर्वशरीरस्थचैतन्यब्रह्मप्रापको गुरुरुपास्यः ।  
@@ -116,12 +116,12 @@ title = "निरालम्बोपनिषत्"
 परिच्छेदराहित्यचिन्मात्रस्वरूपं ग्राह्यम् ।  
 अग्राह्यमिति च स्वस्वरूपव्यतिरिक्तमायामय-  
 बुद्धीन्द्रियगोचरजगत्सत्यत्वचिन्तनमग्राह्यम् ।  
-संन्यासीति च सर्वधर्मान्परित्यज्य निर्ममो  
+सन्न्यासीति च सर्वधर्मान्परित्यज्य निर्ममो  
 निरहङ्कारो भूत्वा ब्रह्मेष्टं शरणमुपगम्य  
 तत्त्वमसि अहं ब्रह्मास्मि सर्वं खल्विदं ब्रह्म  
 नेह नानास्ति किञ्चनेत्यादिमहावाक्यार्था-  
 नुभवज्ञानाद्ब्रह्मैवाहमस्मीति निश्चित्य  
-निर्विकल्पसमाधिना स्वतन्त्रो यतिश्चरति स संन्यासी  
+निर्विकल्पसमाधिना स्वतन्त्रो यतिश्चरति स सन्न्यासी  
 स मुक्तः स पूज्यः स योगी स परमहंसः सोऽवधूतः  
 स ब्राह्मण इति । इदं निरालम्बोपनिषदं योऽधीते  
 गुर्वनुग्रहतः सोऽग्निपूतो भवति स वायुपूतो भवति  

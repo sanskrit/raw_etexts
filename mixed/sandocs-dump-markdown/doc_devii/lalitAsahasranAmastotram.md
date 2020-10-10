@@ -1,25 +1,29 @@
-+++
-"Text title" = "lalitaasahasranaama stotra"
-"File name" = "lalita.itx"
-itxtitle = "lalitAsahasranAmastotram"
-engtitle = "lalitA sahasra nAma stotram with introduction"
-Category = "sahasranAma, devii, dashamahAvidyA, lalitA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "M. Giridhar giridharmadras at gmail.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com, Sunder Hattangadi, Manda Krishna Srikanth  1) Book \"Mantra Pushpam\"; published by Ramakrishna Math, Khar, Mumbai  2) Book \"Sri Lalita Sahasranama\"; published by Sri Ramakrishna Math  Mylapore, Madras; with text, transliteration and translation  edited by Swami Tapasyananda  3) Videotape -- of Vedic Pandits, recorded from the Maharishi Channel"
-Indexextra = "(verses + commentary  2 (meanings, insight, 1, 2))"
-"Latest update" = "August 2, 2002, December 24, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितासहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, devii, dashamahAvidyA, lalitA, stotra, devI
+File name: lalita.itx
+Indexextra: (verses + commentary  2 (meanings, insight, 1, 2))
+Language: Sanskrit
+Latest update: August 2, 2002, December 24, 2013
+Location: doc_devii
+Proofread by: Kirk Wortman kirkwort at hotmail.com, Sunder Hattangadi, Manda Krishna
+  Srikanth  1) Book "Mantra Pushpam"; published by Ramakrishna Math, Khar, Mumbai  2)
+  Book "Sri Lalita Sahasranama"; published by Sri Ramakrishna Math  Mylapore, Madras;
+  with text, transliteration and translation  edited by Swami Tapasyananda  3) Videotape
+  -- of Vedic Pandits, recorded from the Maharishi Channel
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: hinduism/religion
+Sublocation: devii
+Text title: lalitaasahasranaama stotra
+Texttype: stotra
+Transliterated by: M. Giridhar giridharmadras at gmail.com
+engtitle: lalitA sahasra nAma stotram with introduction
+itxtitle: lalitAsahasranAmastotram
+title: ललितासहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीललितासहस्रनामस्तोत्रम्   
   
@@ -149,7 +153,7 @@ and is red and tender like the japa flower.
 इन्द्रगोप-परिक्षिप्त-स्मरतूणाभ-जङ्घिका ।  
 गूढगुल्फा कूर्मपृष्ठ-जयिष्णु-प्रपदान्विता ॥ १८॥  
   
-नख-दीधिति-संछन्न-नमज्जन-तमोगुणा ।  
+नख-दीधिति-सञ्छन्न-नमज्जन-तमोगुणा ।  
 पदद्वय-प्रभाजाल-पराकृत-सरोरुहा ॥ १९॥  
   
 सिञ्जान-मणिमञ्जीर-मण्डित-श्री-पदाम्बुजा । or शिञ्जान  
@@ -164,7 +168,7 @@ and is red and tender like the japa flower.
 महापद्माटवी-संस्था कदम्बवन-वासिनी ।  
 सुधासागर-मध्यस्था कामाक्षी कामदायिनी ॥ २३॥  
   
-देवर्षि-गण-संघात-स्तूयमानात्म-वैभवा ।  
+देवर्षि-गण-सङ्घात-स्तूयमानात्म-वैभवा ।  
 भण्डासुर-वधोद्युक्त-शक्तिसेना-समन्विता ॥ २४॥  
   
 सम्पत्करी-समारूढ-सिन्धुर-व्रज-सेविता ।  
@@ -194,14 +198,14 @@ and is red and tender like the japa flower.
 कामेश्वरास्त्र-निर्दग्ध-सभण्डासुर-शून्यका ।  
 ब्रह्मोपेन्द्र-महेन्द्रादि-देव-संस्तुत-वैभवा ॥ ३३॥  
   
-हर-नेत्राग्नि-संदग्ध-काम-सञ्जीवनौषधिः ।  
+हर-नेत्राग्नि-सन्दग्ध-काम-सञ्जीवनौषधिः ।  
 श्रीमद्वाग्भव-कूटैक-स्वरूप-मुख-पङ्कजा ॥ ३४॥  
   
 कण्ठाधः-कटि-पर्यन्त-मध्यकूट-स्वरूपिणी ।  
 शक्ति-कूटैकतापन्न-कट्यधोभाग-धारिणी ॥ ३५॥  
   
 मूल-मन्त्रात्मिका मूलकूटत्रय-कलेबरा ।  
-कुलामृतैक-रसिका कुलसंकेत-पालिनी ॥ ३६॥  
+कुलामृतैक-रसिका कुलसङ्केत-पालिनी ॥ ३६॥  
   
 कुलाङ्गना कुलान्तस्था कौलिनी कुलयोगिनी ।  
 अकुला समयान्तस्था समयाचार-तत्परा ॥ ३७॥  
@@ -233,7 +237,7 @@ and is red and tender like the japa flower.
 निष्कारणा निष्कलङ्का निरुपाधिर् निरीश्वरा ।  
 नीरागा रागमथनी निर्मदा मदनाशिनी ॥ ४६॥  
   
-निश्चिन्ता निरहंकारा निर्मोहा मोहनाशिनी ।  
+निश्चिन्ता निरहङ्कारा निर्मोहा मोहनाशिनी ।  
 निर्ममा ममताहन्त्री निष्पापा पापनाशिनी ॥ ४७॥  
   
 निष्क्रोधा क्रोधशमनी निर्लोभा लोभनाशिनी ।  
@@ -303,7 +307,7 @@ and is red and tender like the japa flower.
 अम्बिकाऽनादि-निधना हरिब्रह्मेन्द्र-सेविता ॥ ६९॥  
   
 नारायणी नादरूपा नामरूप-विवर्जिता ।  
-ह्रींकारी ह्रीमती हृद्या हेयोपादेय-वर्जिता ॥ ७०॥  
+ह्रीङ्कारी ह्रीमती हृद्या हेयोपादेय-वर्जिता ॥ ७०॥  
   
 राजराजार्चिता राज्ञी रम्या राजीवलोचना ।  
 रञ्जनी रमणी रस्या रणत्किङ्किणि-मेखला ॥ ७१॥  
@@ -467,7 +471,7 @@ and is red and tender like the japa flower.
 आदिशक्तिर् अमेयाऽऽत्मा परमा पावनाकृतिः ।  
 अनेककोटि-ब्रह्माण्ड-जननी दिव्यविग्रहा ॥ १२४॥  
   
-क्लींकारी केवला गुह्या कैवल्य-पददायिनी ।  
+क्लीङ्कारी केवला गुह्या कैवल्य-पददायिनी ।  
 त्रिपुरा त्रिजगद्वन्द्या त्रिमूर्तिस् त्रिदशेश्वरी ॥ १२५॥  
   
 त्र्यक्षरी दिव्य-गन्धाढ्या सिन्दूर-तिलकाञ्चिता ।  
@@ -551,7 +555,7 @@ and is red and tender like the japa flower.
 कलानिधिः काव्यकला रसज्ञा रसशेवधिः ।  
 पुष्टा पुरातना पूज्या पुष्करा पुष्करेक्षणा ॥ १५२॥  
   
-परंज्योतिः परंधाम परमाणुः परात्परा ।  
+परञ्ज्योतिः परन्धाम परमाणुः परात्परा ।  
 पाशहस्ता पाशहन्त्री परमन्त्र-विभेदिनी ॥ १५३॥  
   
 मूर्ताऽमूर्ताऽनित्यतृप्ता मुनिमानस-हंसिका ।  
@@ -617,7 +621,7 @@ and is red and tender like the japa flower.
 व्योमकेशी विमानस्था वज्रिणी वामकेश्वरी ।  
 पञ्चयज्ञ-प्रिया पञ्च-प्रेत-मञ्चाधिशायिनी ॥ १७४॥  
   
-पञ्चमी पञ्चभूतेशी पञ्च-संख्योपचारिणी ।  
+पञ्चमी पञ्चभूतेशी पञ्च-सङ्ख्योपचारिणी ।  
 शाश्वती शाश्वतैश्वर्या शर्मदा शम्भुमोहिनी ॥ १७५॥  
   
 धरा धरसुता धन्या धर्मिणी धर्मवर्धिनी ।  

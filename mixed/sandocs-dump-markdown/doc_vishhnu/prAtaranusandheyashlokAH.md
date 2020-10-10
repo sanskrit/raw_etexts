@@ -1,22 +1,22 @@
-+++
-"Text title" = "Prataranusandheyashlokah"
-"File name" = "prAtaranusandheyashlokAH.itx"
-itxtitle = "prAtaranusandheyashlokAH"
-engtitle = "prAtaranusandheyashlokAH"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Ramanuja Stotramala"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रातरनुसन्धेयश्लोकाः"
+---
+Category: vishhnu
+Description/comments: Ramanuja Stotramala
+File name: prAtaranusandheyashlokAH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Prataranusandheyashlokah
+engtitle: prAtaranusandheyashlokAH
+itxtitle: prAtaranusandheyashlokAH
+title: प्रातरनुसन्धेयश्लोकाः
 
-+++
+---
   
  प्रातरनुसन्धेयश्लोकाः   
 श्रीरस्तु ।  

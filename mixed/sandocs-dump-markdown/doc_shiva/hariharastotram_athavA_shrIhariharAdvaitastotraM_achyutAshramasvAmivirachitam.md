@@ -1,22 +1,23 @@
-+++
-"Text title" = "hariharastotram"
-"File name" = "hariharastotram.itx"
-itxtitle = "hariharastotram athavA shrIhariharAdvaitastotraM (achyutAshramasvAmivirachitam)"
-engtitle = "hariharastotram"
-Category = "shataka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Achyutashramasvami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिहरस्तोत्रम् अथवा श्रीहरिहराद्वैतस्तोत्रं (अच्युताश्रमस्वामिविरचितम्)"
+---
+Author: Achyutashramasvami
+Category: shataka, shiva
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: hariharastotram.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: hariharastotram
+engtitle: hariharastotram
+itxtitle: hariharastotram athavA shrIhariharAdvaitastotraM (achyutAshramasvAmivirachitam)
+title: हरिहरस्तोत्रम् अथवा श्रीहरिहराद्वैतस्तोत्रं (अच्युताश्रमस्वामिविरचितम्)
 
-+++
+---
   
  हरिहरस्तोत्रम्   
   

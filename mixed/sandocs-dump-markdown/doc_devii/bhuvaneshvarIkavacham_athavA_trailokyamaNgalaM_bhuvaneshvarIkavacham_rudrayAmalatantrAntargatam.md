@@ -1,24 +1,24 @@
-+++
-"Text title" = "trailokyamohanakAlIkavacham"
-"File name" = "bhuvaneshvariikavacham.itx"
-itxtitle = "bhuvaneshvarIkavacham athavA trailokyamaNgalaM bhuvaneshvarIkavacham (rudrayAmalatantrAntargatam)"
-engtitle = "bhuvaneshvarIkavacham"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale deviishankarasa.nvAde"
-"Latest update" = "May, 01, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वरीकवचम् अथवा त्रैलोक्यमण्गलं भुवनेश्वरीकवचम् (रुद्रयामलतन्त्रान्तर्गतम्)"
+---
+Author: Traditional
+Category: kavacha, devii, dashamahAvidyA, devI
+Description-comments: rudrayAmale deviishankarasa.nvAde
+File name: bhuvaneshvariikavacham.itx
+Language: Sanskrit
+Latest update: May, 01, 2006
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: trailokyamohanakAlIkavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: bhuvaneshvarIkavacham
+itxtitle: bhuvaneshvarIkavacham athavA trailokyamaNgalaM bhuvaneshvarIkavacham (rudrayAmalatantrAntargatam)
+title: भुवनेश्वरीकवचम् अथवा त्रैलोक्यमण्गलं भुवनेश्वरीकवचम् (रुद्रयामलतन्त्रान्तर्गतम्)
 
-+++
+---
   
  भुवनेश्वरीकवचम् त्रैलोक्यमङ्गलम्   
   

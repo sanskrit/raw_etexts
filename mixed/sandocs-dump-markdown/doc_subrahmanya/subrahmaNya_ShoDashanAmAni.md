@@ -1,22 +1,22 @@
-+++
-"Text title" = "subrahmaNyaShoDashanAma"
-"File name" = "subrahmaNyaShoDashanAma.itx"
-itxtitle = "subrahmaNya ShoDashanAmAni"
-engtitle = "16 names of Lord SubrahmaNya"
-Category = "subrahmanya, ShoDasha, ShoDasha"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-"Latest update" = "June 13, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्य षोडशनामानि"
+---
+Category: subrahmanya, ShoDasha, ShoDasha
+File name: subrahmaNyaShoDashanAma.itx
+Language: Sanskrit
+Latest update: June 13, 2012
+Location: doc_subrahmanya
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyaShoDashanAma
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: 16 names of Lord SubrahmaNya
+itxtitle: subrahmaNya ShoDashanAmAni
+title: सुब्रह्मण्य षोडशनामानि
 
-+++
+---
   
  श्रीसुब्रह्मण्य षोडशनामानि   
   
@@ -175,7 +175,7 @@ universe and so is the Supreme Being. The name Subrahmanya may be split
 as su (सु) and brahmanya (ब्रह्मण्य). Brahmanya means protector  
 of dharma. The name appears in the Vishnu and Siva sahasranamas. The  
 commentators Shankaracharya define the word as follows.ब्रह्मण्यः -  
-“ तपो वेदाश्च विप्राश्च ज्ञानं च ब्रह्मसंज्ञितम् ।”  
+“ तपो वेदाश्च विप्राश्च ज्ञानं च ब्रह्मसञ्ज्ञितम् ।”  
 तेभ्यो हितत्वात् ब्रह्मण्यः। VS (661). Tapas or austerities, the vedas,  
 those who study and abide by the vedic injunctions and have got the  
 knowledge of the Self, and the spiritual wisdom are known as brahma  
@@ -192,7 +192,7 @@ verses that are quite popular. (4-7 and 8).
 अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥ ७॥  
   
 परित्राणाय साधूनां विनाशाय च दुष्कृताम् ।  
-धर्म-संस्थापनार्थाय संभवामि युगे युगे ॥ ८॥  
+धर्म-संस्थापनार्थाय सम्भवामि युगे युगे ॥ ८॥  
 But we should notice one difference with Lord Subrahmanya's fighting the  
 asuras like Shura and Taraka. According to the puranas, He no doubt fought  
 with them, but did not kill them (unlike in other avatars). He subdued  

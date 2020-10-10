@@ -1,23 +1,23 @@
-+++
-"Text title" = "Jabali  Upanishad"
-"File name" = "jabali.itx"
-itxtitle = "jAbAlyupaniShat"
-engtitle = "Jabali Upanishad"
-Category = "upanishhat, upanishad, shiva"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "104 / 108; Sama Veda - Shaiva upanishad"
-"Latest update" = "April, 19, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जाबाल्युपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad, shiva
+Description-comments: 104 / 108; Sama Veda - Shaiva upanishad
+File name: jabali.itx
+Language: Sanskrit
+Latest update: April, 19, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion
+Sublocation: upanishhat
+Text title: Jabali  Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Jabali Upanishad
+itxtitle: jAbAlyupaniShat
+title: जाबाल्युपनिषत्
 
-+++
+---
   
  जाबाल्युपनिषत्   
   
@@ -52,7 +52,7 @@ title = "जाबाल्युपनिषत्"
 यथा तत्स्वामिन इव सर्वज्ञ ईशः पशुपतिः । तज्ज्ञानं  
 केनोपायेन जायते । पुनः स तमुवाच विभूतिधारणादेव ।  
 तत्प्रकारः कथमिति । कुत्रकुत्र धार्यम् । पुनः स तमुवाच  
-सद्योजातादिपञ्चब्रह्ममन्त्रैर्भस्म संगृह्याग्निरिति  
+सद्योजातादिपञ्चब्रह्ममन्त्रैर्भस्म सङ्गृह्याग्निरिति  
 भस्मेत्यनेनाभिमन्त्र्य मानस्तोक इति समुद्धृत्य जलेन  
 संसृज्य त्र्यायुपमिति शिरोललाटवक्षःस्कन्धेष्विति  
 तिसृभिस्त्र्यायुपैस्त्रियम्बकैस्तिस्रो रेखाः प्रकुर्वीत ।  

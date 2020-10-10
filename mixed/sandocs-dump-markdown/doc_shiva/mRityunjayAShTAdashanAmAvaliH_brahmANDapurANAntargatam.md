@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shrikantha Trishati Namavali 300 Names"
-"File name" = "mRityunjayAShTAdashanAmAvaliH.itx"
-itxtitle = "mRityunjayAShTAdashanAmAvaliH (brahmANDapurANAntargatam)"
-engtitle = "mRityunjayAShTAdashanAmAvaliH"
-Category = "shiva, nAmAvalI, aShTAdasha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "July 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मृइत्युञ्जयाष्टादशनामावलिः (ब्रह्माण्डपुराणान्तर्गतम्)"
+---
+Category: shiva, nAmAvalI, aShTAdasha
+File name: mRityunjayAShTAdashanAmAvaliH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 17, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shrikantha Trishati Namavali 300 Names
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: mRityunjayAShTAdashanAmAvaliH
+itxtitle: mRityunjayAShTAdashanAmAvaliH (brahmANDapurANAntargatam)
+title: मृइत्युञ्जयाष्टादशनामावलिः (ब्रह्माण्डपुराणान्तर्गतम्)
 
-+++
+---
   
  मृत्युञ्जयाष्टादशनामावलिः   
 ॐ महेश्वराय नमः ।  

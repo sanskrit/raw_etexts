@@ -1,25 +1,25 @@
-+++
-"Text title" = "Bhuvaneshvari Sahasranama Stotra"
-"File name" = "bhuvaneshvarIsahasranAmastotra.itx"
-itxtitle = "bhuvaneshvarIsahasranAmastotram (rudrayAmalatantrAntargatam)"
-engtitle = "bhuvaneshvarIsahasranAmastotram"
-Category = "sahasranAma, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, Alex"
-"Proofread by" = "DPD, NA"
-Description-comments = "Rudrayamalatantra"
-Source = "Bhuvaneshwari Stava Manjari, Ramdatt Shukla, and BhuvaneshvarI varivasyA"
-Indexextra = "(mahAstotram 1, 2)"
-"Latest update" = "October 11, 2014, July 29, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वरीसहस्रनामस्तोत्रम् (रुद्रयामलतन्त्रान्तर्गतम्)"
+---
+Category: sahasranAma, devii, dashamahAvidyA, devI
+Description-comments: Rudrayamalatantra
+File name: bhuvaneshvarIsahasranAmastotra.itx
+Indexextra: (mahAstotram 1, 2)
+Language: Sanskrit
+Latest update: October 11, 2014, July 29, 2018
+Location: doc_devii
+Proofread by: DPD, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Bhuvaneshwari Stava Manjari, Ramdatt Shukla, and BhuvaneshvarI varivasyA
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Bhuvaneshvari Sahasranama Stotra
+Transliterated by: DPD, Alex
+engtitle: bhuvaneshvarIsahasranAmastotram
+itxtitle: bhuvaneshvarIsahasranAmastotram (rudrayAmalatantrAntargatam)
+title: भुवनेश्वरीसहस्रनामस्तोत्रम् (रुद्रयामलतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीभुवनेश्वरीसहस्रनामस्तोत्रम्   
   
@@ -197,7 +197,7 @@ var  आद्या कमला वाणी माया श्रीभु�
 नारसिंही हयग्रीवा हिरण्याक्षविनाशिनी ॥ ५०॥  
   
 वैष्णवी विष्णुभक्ता च शालग्रामनिवासिनी ।  
-चतुर्भुजा चाष्टभुजा सहस्रभुजसंज्ञिता ॥ ५१॥  
+चतुर्भुजा चाष्टभुजा सहस्रभुजसञ्ज्ञिता ॥ ५१॥  
   
 आद्या कात्यायनी नित्या सर्वाद्या सर्वदायिनी ।  
 सर्वचन्द्रमयी देवी सर्ववेदमयी शुभा ॥ ५२॥  
@@ -238,7 +238,7 @@ var  आद्या कमला वाणी माया श्रीभु�
 कार्यसिद्धिकरी देवी सर्वकार्यनिवासिनी ।  
 कार्यकार्यकरी रौद्री महाप्रलयकारिणी ॥ ६४॥  
   
-स्त्रीपुंभेदाह्यभेद्या च भेदिनी भेदनाशिनी ।  
+स्त्रीपुम्भेदाह्यभेद्या च भेदिनी भेदनाशिनी ।  
 सर्वरूपा सर्वमयी अद्वैतानन्दरूपिणी ॥ ६५॥  
   
 प्रचण्डा चण्डिका चण्डा चण्डासुरविनाशिनी ।  

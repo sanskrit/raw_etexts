@@ -1,28 +1,28 @@
-+++
-"Text title" = "Jabala Upanishad"
-"File name" = "jabala.itx"
-itxtitle = "jAbAlopaniShat"
-engtitle = "Jabala Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "13/108; Shukla YajurVeda, Sanyasa Upanishad"
-Indexextra = "(120 Upanishads, Meaning 1, 2)"
-"Latest update" = "August 20, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जाबालोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 13/108; Shukla YajurVeda, Sanyasa Upanishad
+File name: jabala.itx
+Indexextra: (120 Upanishads, Meaning 1, 2)
+Language: Sanskrit
+Latest update: August 20, 1999
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Jabala Upanishad
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Jabala Upanishad
+itxtitle: jAbAlopaniShat
+title: जाबालोपनिषत्
 
-+++
+---
   
  जाबालोपनिषत्   
   
-जाबालोपनिषत्ख्यातं संन्यासज्ञानगोचरम् ।  
+जाबालोपनिषत्ख्यातं सन्न्यासज्ञानगोचरम् ।  
 वस्तुतस्त्रैपदं ब्रह्म स्वमात्रमवशिष्यते ॥  
   
 ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते ।  
@@ -70,7 +70,7 @@ title = "जाबालोपनिषत्"
 एतैर्ह वा अमृतो भवतीति एवमेवैतद्याज्ञवल्क्यः ॥ ३॥  
   
 अथ हैनं जनको वैदेहो याज्ञवल्क्यमुपसमेत्योवाच  
-भगवन्संन्यासं ब्रूहीति । स होवाच याज्ञवल्क्यः ।  
+भगवन्सन्न्यासं ब्रूहीति । स होवाच याज्ञवल्क्यः ।  
 ब्रह्मचर्यं परिसमाप्य गृही भवेत् । गृही भूत्वा वनी  
 भवेत् । वनी भूत्वा प्रव्रजेत् । यदि वेतरथा  
 ब्रह्मचर्यादेव प्रव्रजेद्गृहाद्वा वनाद्वा ॥  
@@ -107,8 +107,8 @@ title = "जाबालोपनिषत्"
 अनाशके वा अपां प्रवेशे वा अग्निप्रवेशे वा महाप्रस्थाने वा  
 । अथ परिव्राड्विवर्णवासा मुण्डोऽपरिग्रहः शुचिरद्रोही  
 भैक्षणो ब्रह्मभूयाय भवतीति । यद्यातुरः स्यान्मनसा  
-वाचा संन्यसेत् । एष पन्था ब्रह्मणा हानुवित्तस्तेनैति  
-संन्यासी ब्रह्मविदित्येवमेवैष भगवन्याज्ञवल्क्य ॥ ५॥  
+वाचा सन्न्यसेत् । एष पन्था ब्रह्मणा हानुवित्तस्तेनैति  
+सन्न्यासी ब्रह्मविदित्येवमेवैष भगवन्याज्ञवल्क्य ॥ ५॥  
   
 तत्र  
 परमहंसानामसंवर्तकारुणिश्वेतकेतुदुर्वासऋभुनिदाघजड  
@@ -126,7 +126,7 @@ title = "जाबालोपनिषत्"
 निहोत्रगृहनदीपुलिनगिरिकुहरकन्दरकोटरनिर्झरस्थण्डिलेषु  
 तेष्वनिकेतवास्य प्रयत्नो निर्ममः  
 शुक्लध्यानपरायणोऽध्यात्मनिष्ठोऽशुभकर्म-  
-निर्मूलनपरः संन्यासेन देहत्यागं करोति स परमहंसो  
+निर्मूलनपरः सन्न्यासेन देहत्यागं करोति स परमहंसो  
 नाम परमहंसो नामेति ॥ ६॥  
   
 ॐ पूर्णमद इति शातिः ॥  

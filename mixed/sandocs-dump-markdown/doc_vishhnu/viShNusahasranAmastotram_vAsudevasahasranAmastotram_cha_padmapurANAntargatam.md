@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrIviShNu or vAsudevasahasranAmastotram"
-"File name" = "viShNusahasranAmastotrapadmapurana.itx"
-itxtitle = "viShNusahasranAmastotram vAsudevasahasranAmastotram cha (padmapurANAntargatam)"
-engtitle = "shrIviShNu or vAsudevasahasranAmastotram"
-Category = "sahasranAma, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, help from Alex"
-"Proofread by" = "DPD, PSA Easwaran"
-Source = "padmapuraNe uttarakhande evaM nAradapancharAtre"
-Indexextra = "(Kannada)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "January 29, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुसहस्रनामस्तोत्रम् वासुदेवसहस्रनामस्तोत्रम् च (पद्मपुराणान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAma, vishhnu, vishnu
+File name: viShNusahasranAmastotrapadmapurana.itx
+Indexextra: (Kannada)
+Language: Sanskrit
+Latest update: January 29, 2016
+Location: doc_vishhnu
+Proofread by: DPD, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: padmapuraNe uttarakhande evaM nAradapancharAtre
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIviShNu or vAsudevasahasranAmastotram
+Transliterated by: DPD, help from Alex
+engtitle: shrIviShNu or vAsudevasahasranAmastotram
+itxtitle: viShNusahasranAmastotram vAsudevasahasranAmastotram cha (padmapurANAntargatam)
+title: विष्णुसहस्रनामस्तोत्रम् वासुदेवसहस्रनामस्तोत्रम् च (पद्मपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णु अपरनाम वासुदेवसहस्रनामस्तोत्रम्   
 पद्मपुराणे उत्तरखण्डे - वासुदेवसहस्रनामस्तोत्रं  

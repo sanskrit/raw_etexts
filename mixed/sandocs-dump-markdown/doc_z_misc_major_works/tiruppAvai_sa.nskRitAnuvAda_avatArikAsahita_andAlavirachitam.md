@@ -1,25 +1,25 @@
-+++
-"Text title" = "tiruppAvai"
-"File name" = "tiruppAvai.itx"
-itxtitle = "tiruppAvai sa.nskRitAnuvAda avatArikAsahita (andAlavirachitam)"
-engtitle = "tiruppAvai"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Shri Andal (Sanskit translation by S. N. Sriramadesikan)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "B Sreenivas bsmaachu at yahoo.com"
-"Proofread by" = "B Sreenivas bsmaachu at yahoo.com"
-Description-comments = "Sanskit translation by S. N. Sriramadesikan, Shiromani"
-Indexextra = "(Scan)"
-"Latest update" = "January 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तिरुप्पावै संस्कृइतानुवाद अवतारिकासहित (अन्दालविरचितम्)"
+---
+Author: Shri Andal (Sanskit translation by S. N. Sriramadesikan)
+Category: major_works
+Description-comments: Sanskit translation by S. N. Sriramadesikan, Shiromani
+File name: tiruppAvai.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 13, 2018
+Location: doc_z_misc_major_works
+Proofread by: B Sreenivas bsmaachu at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: tiruppAvai
+Texttype: pramukha
+Transliterated by: B Sreenivas bsmaachu at yahoo.com
+engtitle: tiruppAvai
+itxtitle: tiruppAvai sa.nskRitAnuvAda avatArikAsahita (andAlavirachitam)
+title: तिरुप्पावै संस्कृइतानुवाद अवतारिकासहित (अन्दालविरचितम्)
 
-+++
+---
   
  तिरुप्पावै श्लोकाः अवतारिकासहिताः   
   

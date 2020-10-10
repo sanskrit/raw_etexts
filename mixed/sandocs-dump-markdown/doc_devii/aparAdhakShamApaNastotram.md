@@ -1,24 +1,24 @@
-+++
-"Text title" = "aparAdhakShamApanA from Durga Spatashati or Devi Mahatmya"
-"File name" = "aparaadhakshamaa.itx"
-itxtitle = "aparAdhakShamApaNastotram"
-engtitle = "aparAdhakShamApaNastotram"
-Category = "aparAdhakShamA, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Smt. K. Shankaran (achintya at ican.net)"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Verses for devi durga"
-"Latest update" = "June 20, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अपराधक्षमापणस्तोत्रम्"
+---
+Author: Traditional
+Category: aparAdhakShamA, devii, durgA, devI
+Description-comments: Verses for devi durga
+File name: aparaadhakshamaa.itx
+Language: Sanskrit
+Latest update: June 20, 2019
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: aparAdhakShamApanA from Durga Spatashati or Devi Mahatmya
+Transliterated by: Smt. K. Shankaran (achintya at ican.net)
+engtitle: aparAdhakShamApaNastotram
+itxtitle: aparAdhakShamApaNastotram
+title: अपराधक्षमापणस्तोत्रम्
 
-+++
+---
   
  अपराधक्षमापणस्तोत्रम्   
   

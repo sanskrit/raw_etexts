@@ -1,24 +1,24 @@
-+++
-"Text title" = "sarasvatyaShTakam 2"
-"File name" = "sarasvatyaShTakam2.itx"
-itxtitle = "sarasvatyaShTakam 2"
-engtitle = "sarasvatyaShTakam 2"
-Category = "aShTaka, devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वत्यष्टकम् २"
+---
+Category: aShTaka, devii, sarasvatI, devI
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: sarasvatyaShTakam2.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatyaShTakam 2
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: sarasvatyaShTakam 2
+itxtitle: sarasvatyaShTakam 2
+title: सरस्वत्यष्टकम् २
 
-+++
+---
   
  श्रीसरस्वत्यष्टकम्   
   

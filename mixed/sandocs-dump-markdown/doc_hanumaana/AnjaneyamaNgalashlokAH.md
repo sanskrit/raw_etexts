@@ -1,22 +1,22 @@
-+++
-"Text title" = "AnjaneyamangalashlokAH"
-"File name" = "AnjaneyamangalashlokAH.itx"
-itxtitle = "AnjaneyamaNgalashlokAH"
-engtitle = "Anjaneya Mangala Shloka"
-Category = "hanumaana, hanuman, mangala"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com"
-Source = "ParAsharasamhita Hanumachcharitra Vol 1 page 282"
-"Latest update" = "September 30, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आञ्जनेयमण्गलश्लोकाः"
+---
+Category: hanumaana, hanuman, mangala
+File name: AnjaneyamangalashlokAH.itx
+Language: Sanskrit
+Latest update: September 30, 2016
+Location: doc_hanumaana
+Proofread by: Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: ParAsharasamhita Hanumachcharitra Vol 1 page 282
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: AnjaneyamangalashlokAH
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: Anjaneya Mangala Shloka
+itxtitle: AnjaneyamaNgalashlokAH
+title: आञ्जनेयमण्गलश्लोकाः
 
-+++
+---
   
  आञ्जनेय मङ्गलश्लोकाः   
 वैशाखे मासि कृष्णाया दशम्यां मन्दवासरे ।   

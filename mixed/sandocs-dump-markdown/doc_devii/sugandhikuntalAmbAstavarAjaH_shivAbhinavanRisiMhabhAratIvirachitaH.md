@@ -1,22 +1,22 @@
-+++
-"Text title" = "sugandhikuntalAmbAstavarAjaH"
-"File name" = "sugandhikuntalAmbAstavarAjaH.itx"
-itxtitle = "sugandhikuntalAmbAstavarAjaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "sugandhikuntalAmbAstavarAjaH"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, stavarAja"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुगन्धिकुन्तलाम्बास्तवराजः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, stavarAja
+File name: sugandhikuntalAmbAstavarAjaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sugandhikuntalAmbAstavarAjaH
+engtitle: sugandhikuntalAmbAstavarAjaH
+itxtitle: sugandhikuntalAmbAstavarAjaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: सुगन्धिकुन्तलाम्बास्तवराजः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीसुगन्धिकुन्तलाम्बास्तवराजः   
 सुखप्रदे नमत्ततेः सुबुद्धिलोकभाविते  

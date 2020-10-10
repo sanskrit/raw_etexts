@@ -3,7 +3,6 @@ title: 025 Kausalya bids farewell to Rama
 title_english: 025 Kausalya bids farewell to Rama
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-025-Kousalya_Ashirvachanam.mp3"></div>
 
 सा अपनीय तम् आयासम् उपस्पृश्य जलम् शुचि ।  
@@ -89,7 +88,7 @@ title_english: 025 Kausalya bids farewell to Rama
 अवदत् पुत्र सिद्ध अर्थो गच्च राम यथा सुखम् ।  
 अरोगम् सर्व सिद्ध अर्थम् अयोध्याम् पुनर् आगतम् ॥ २-२५-४१  
 पश्यामि त्वाम् सुखम् वत्स सुस्थितम् राज वेश्मनि ।  
-प्रणष्ठदुःखसंकल्पा हर्षविद्योतितानना ॥ २-२५-४२  
+प्रणष्ठदुःखसङ्कल्पा हर्षविद्योतितानना ॥ २-२५-४२  
 द्रक्ष्यामि त्वाम् वनात्र्पाप्तम् पूर्णचन्द्रमिवोदितम् ।  
 भद्रासनगतम् राम वनवासादिहागतम् ॥ २-२५-४३  
 द्रक्षामि च पुनस्त्वाम् तु तीर्णवन्तम् पितुर्वचः ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "anAditvapariShkAraH"
-"File name" = "anAditvapariShkAraH.itx"
-itxtitle = "anAditvapariShkAraH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "anAditvapariShkAraH"
-Category = "misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अनादित्वपरिष्कारः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: anAditvapariShkAraH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: anAditvapariShkAraH
+engtitle: anAditvapariShkAraH
+itxtitle: anAditvapariShkAraH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: अनादित्वपरिष्कारः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  अनादित्वपरिष्कारः   
 अनाद्यविद्यासचिवः करोति य इदं जगत् ।  

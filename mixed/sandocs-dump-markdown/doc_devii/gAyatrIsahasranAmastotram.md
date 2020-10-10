@@ -1,24 +1,24 @@
-+++
-"Text title" = "gAyatrI sahasranAma stotram"
-"File name" = "gAyatrisahasra.itx"
-itxtitle = "gAyatrIsahasranAmastotram"
-engtitle = "gAyatrI sahasranAma stotram"
-Category = "sahasranAma, devii, gAyatrI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.mypurohith.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "February 01, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीसहस्रनामस्तोत्रम्"
+---
+Author: Traditional
+Category: sahasranAma, devii, gAyatrI, stotra, devI
+File name: gAyatrisahasra.itx
+Language: Sanskrit
+Latest update: February 01, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrI sahasranAma stotram
+Texttype: stotra
+Transliterated by: http://www.mypurohith.com
+engtitle: gAyatrI sahasranAma stotram
+itxtitle: gAyatrIsahasranAmastotram
+title: गायत्रीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीगायत्रीसहस्रनामस्तोत्रम्   
   
@@ -371,7 +371,7 @@ title = "गायत्रीसहस्रनामस्तोत्रम�
 हिकाररूपा हृद्या च हितकार्यप्रवर्धिनी ।  
 हेयोपाधिविनिर्मुक्ता हीनलोकविनाशिनी ॥ ११४॥  
   
-ह्रींकारी ह्रीमती हृद्या ह्रीं देवी ह्रीं स्वभाविनी ।  
+ह्रीङ्कारी ह्रीमती हृद्या ह्रीं देवी ह्रीं स्वभाविनी ।  
 ह्रीं मन्दिरा हितकरा हृष्टा च ह्रीं कुलोद्भवा ॥ ११५॥  
   
 हितप्रज्ञा हितप्रीता हितकारुण्यवर्धिनी ।  
@@ -410,7 +410,7 @@ title = "गायत्रीसहस्रनामस्तोत्रम�
 नकाररूपा नादेशी नामपारायणप्रिया ।  
 नवसिद्धिसमाराध्या नारायणमनोहरी ॥ १२७॥  
   
-नारायणी नवाधारा नवब्रह्मार्चितांघ्रिका ।  
+नारायणी नवाधारा नवब्रह्मार्चिताङ्घ्रिका ।  
 नगेन्द्रतनयाराध्या नामरूपविवर्जिता ॥ १२८॥  
   
 नरसिंहार्चितपदा नवबन्धविमोचनी ।  

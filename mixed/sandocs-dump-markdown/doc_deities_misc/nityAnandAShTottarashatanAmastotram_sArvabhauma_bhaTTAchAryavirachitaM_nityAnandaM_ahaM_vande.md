@@ -1,24 +1,26 @@
-+++
-"Text title" = "108 Names of Nitai or Nityananda"
-"File name" = "nityAnandAShTottarashatanAmastotram.itx"
-itxtitle = "nityAnandAShTottarashatanAmastotram (sArvabhauma bhaTTAchAryavirachitaM nityAnandaM ahaM vande)"
-engtitle = "nityAnandAShTottarashatanAmastotram"
-Category = "deities_misc, krishna, gurudev, aShTottarashatanAma, sArvabhaumabhaTTAchArya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Sarvabhauma Bhattacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Nitai or Nityananda"
-Indexextra = "(Meaning)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नित्यानन्दाष्टोत्तरशतनामस्तोत्रम् (सार्वभौम भट्टाचार्यविरचितं नित्यानन्दं अहं वन्दे)"
+---
+Author: Sarvabhauma Bhattacharya
+Category: deities_misc, krishna, gurudev, aShTottarashatanAma, sArvabhaumabhaTTAchArya
+Description/comments: Nitai or Nityananda
+File name: nityAnandAShTottarashatanAmastotram.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: 108 Names of Nitai or Nityananda
+engtitle: nityAnandAShTottarashatanAmastotram
+itxtitle: nityAnandAShTottarashatanAmastotram (sArvabhauma bhaTTAchAryavirachitaM
+  nityAnandaM ahaM vande)
+title: नित्यानन्दाष्टोत्तरशतनामस्तोत्रम् (सार्वभौम भट्टाचार्यविरचितं नित्यानन्दं अहं
+  वन्दे)
 
-+++
+---
   
  नित्यानन्दाष्टोत्तरशतनामस्तोत्रम्   
 श्रीमान्नित्यानन्दचन्द्राय नमः ।  

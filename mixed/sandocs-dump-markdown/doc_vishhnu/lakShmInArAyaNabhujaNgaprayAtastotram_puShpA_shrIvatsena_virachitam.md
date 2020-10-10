@@ -1,25 +1,25 @@
-+++
-"Text title" = "lakShmInArAyaNabhujangaprayAtastotram"
-"File name" = "lakShmInArAyaNabhujangaprayAtastotram.itx"
-itxtitle = "lakShmInArAyaNabhujaNgaprayAtastotram (puShpA shrIvatsena virachitam)"
-engtitle = "lakShmInArAyaNabhujangaprayAtastotram"
-Category = "vishhnu, bhujanga, puShpAshrIvatsan, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "January 1, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनारायणभुजण्गप्रयातस्तोत्रम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: vishhnu, bhujanga, puShpAshrIvatsan, vishnu
+File name: lakShmInArAyaNabhujangaprayAtastotram.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: January 1, 2018
+Location: doc_vishhnu
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: lakShmInArAyaNabhujangaprayAtastotram
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: lakShmInArAyaNabhujangaprayAtastotram
+itxtitle: lakShmInArAyaNabhujaNgaprayAtastotram (puShpA shrIvatsena virachitam)
+title: लक्ष्मीनारायणभुजण्गप्रयातस्तोत्रम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  श्रीलक्ष्मीनारायणभुजङ्गप्रयातस्तोत्रम्   
                  ॐ  

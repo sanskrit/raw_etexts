@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrInivAsastotram by Thondaman"
-"File name" = "shrInivAsastotramThondaman.itx"
-itxtitle = "shrInivAsastotram (toNDamanavirachitaM darshanAt tava govinda)"
-engtitle = "shrInivAsastotram by Thondaman"
-Category = "vishhnu, venkateshwara, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Author = "King Thondaman"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(audio)"
-"Latest update" = "May 15, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीनिवासस्तोत्रम् (तोण्डमनविरचितं दर्शनात् तव गोविन्द)"
+---
+Author: King Thondaman
+Category: vishhnu, venkateshwara, vishnu
+File name: shrInivAsastotramThondaman.itx
+Indexextra: (audio)
+Language: Sanskrit
+Latest update: May 15, 2017
+Location: doc_vishhnu
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrInivAsastotram by Thondaman
+Transliterated by: NA
+engtitle: shrInivAsastotram by Thondaman
+itxtitle: shrInivAsastotram (toNDamanavirachitaM darshanAt tava govinda)
+title: श्रीनिवासस्तोत्रम् (तोण्डमनविरचितं दर्शनात् तव गोविन्द)
 
-+++
+---
   
  श्रीनिवासस्तोत्रम्   
   

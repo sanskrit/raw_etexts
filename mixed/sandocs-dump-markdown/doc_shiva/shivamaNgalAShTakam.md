@@ -1,20 +1,20 @@
-+++
-"Text title" = "shivamangalAShTakam"
-"File name" = "shivamangalAShTaka.itx"
-itxtitle = "shivamaNgalAShTakam"
-engtitle = "shivamangalAShTakam"
-Category = "aShTaka, shiva, mangala"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. R. Ramamurthy"
-Description-comments = "http://stotram.lalitaalaalitah.com/2011/03/hymns-to-shiva-shivamangalashtaka.html"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवमण्गलाष्टकम्"
+---
+Category: aShTaka, shiva, mangala
+Description-comments: http://stotram.lalitaalaalitah.com/2011/03/hymns-to-shiva-shivamangalashtaka.html
+File name: shivamangalAShTaka.itx
+Language: Sanskrit
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivamangalAShTakam
+Transliterated by: P. R. Ramamurthy
+engtitle: shivamangalAShTakam
+itxtitle: shivamaNgalAShTakam
+title: शिवमण्गलाष्टकम्
 
-+++
+---
   
  श्रीशिवमङ्गलाष्टकम्   
   
@@ -30,10 +30,10 @@ title = "शिवमण्गलाष्टकम्"
 सूर्यचन्द्राग्निनेत्राय नमः कैलासवासिने ।  
 सच्चिदानन्दरूपाय प्रमथेशाय मङ्गलम् ॥ ४ ॥  
   
-मृत्युंजयाय सांबाय सृष्टिस्थित्यन्तकारिणे ।  
-त्र्यंबकाय सुशान्ताय त्रिलोकेशाय मङ्गलम् ॥ ५ ॥  
+मृत्युञ्जयाय साम्बाय सृष्टिस्थित्यन्तकारिणे ।  
+त्र्यम्बकाय सुशान्ताय त्रिलोकेशाय मङ्गलम् ॥ ५ ॥  
   
-गंगाधराय सोमाय नमो हरिहरात्मने ।  
+गङ्गाधराय सोमाय नमो हरिहरात्मने ।  
 उग्राय त्रिपुरघ्नाय वामदेवाय मङ्गलम् ॥ ६ ॥  
   
 सद्योजाताय शर्वाय दिव्यज्ञानप्रदायिने ।  
@@ -42,7 +42,7 @@ title = "शिवमण्गलाष्टकम्"
 सदाशिवस्वरूपाय नमस्तत्पुरुषाय च ।  
 अघोरायच घोराय महादेवाय मङ्गलम् ॥ ८ ॥  
   
-मङ्गलाष्टकमेतद्वै शंभोर्यः कीर्तयेद्दिने ।  
+मङ्गलाष्टकमेतद्वै शम्भोर्यः कीर्तयेद्दिने ।  
 तस्य मृत्युभयं नास्ति रोगपीडाभयं तथा ॥ ९ ॥   
   
 Encoded by P R Ramamurthy  

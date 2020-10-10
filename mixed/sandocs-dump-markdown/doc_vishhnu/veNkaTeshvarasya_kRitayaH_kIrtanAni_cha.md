@@ -1,24 +1,24 @@
-+++
-"Text title" = "ve.nkaTeshvarasya sa.nskRite kRiti evaM kIrtanAni"
-"File name" = "venkaTeshvarakritis.itx"
-itxtitle = "veNkaTeshvarasya kRitayaH kIrtanAni cha"
-engtitle = "Sanskrit Kirtan and Kritis on Lord Venkateshwara"
-Category = "kRitI, vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Latest update" = "August 6, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेश्वरस्य कृइतयः कीर्तनानि च"
+---
+Author: Traditional
+Category: kRitI, vishhnu, venkateshwara, stotra, vishnu
+File name: venkaTeshvarakritis.itx
+Language: Sanskrit
+Latest update: August 6, 2012
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ve.nkaTeshvarasya sa.nskRite kRiti evaM kIrtanAni
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Sanskrit Kirtan and Kritis on Lord Venkateshwara
+itxtitle: veNkaTeshvarasya kRitayaH kIrtanAni cha
+title: वेण्कटेश्वरस्य कृइतयः कीर्तनानि च
 
-+++
+---
   
  श्रीवेङ्कटेश्वरस्य संस्कृते कृतयः अथवा कीर्तनानि   
   
@@ -92,7 +92,7 @@ published by the Tirumala Tirupathi Devasthanam.
   
                    पङ्केरुह चरणं पद्मावति रमणं  
                    शङ्कतापहरणं सदा भक्ताभरणं  
-                   कुंकुम पङ्किल गात्रं पङ्कज विशाल नेत्रं  
+                   कुङ्कुम पङ्किल गात्रं पङ्कज विशाल नेत्रं  
                    शङ्कर सन्नुति पात्रं वेङ्कट वरद क्षेत्रं ॥  
   
                गजेन्द्र संरक्षणं  

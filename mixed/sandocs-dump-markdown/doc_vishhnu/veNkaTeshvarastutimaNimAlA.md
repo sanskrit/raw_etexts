@@ -1,24 +1,24 @@
-+++
-"Text title" = "Venkateshvara Stuti Mani Mala"
-"File name" = "venkaTeshvarastutimaNimAlA.itx"
-itxtitle = "veNkaTeshvarastutimaNimAlA"
-engtitle = "venkaTeshvarastutimaNimAlA"
-Category = "vishhnu, venkateshwara"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Author = "Pu. Ma. JoshI from Sangali"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta at gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेश्वरस्तुतिमणिमाला"
+---
+Author: Pu. Ma. JoshI from Sangali
+Category: vishhnu, venkateshwara
+File name: venkaTeshvarastutimaNimAlA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_vishhnu
+Proofread by: Mandar Mali aryavrutta at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Venkateshvara Stuti Mani Mala
+Transliterated by: Mandar Mali aryavrutta at gmail.com
+engtitle: venkaTeshvarastutimaNimAlA
+itxtitle: veNkaTeshvarastutimaNimAlA
+title: वेण्कटेश्वरस्तुतिमणिमाला
 
-+++
+---
   
  श्रीवेङ्कटेश्वरस्तुतिमणिमाला   
 विश्वं सर्वमिदं चराचरमयं यः स्वेच्छया निर्ममे  
@@ -78,7 +78,7 @@ title = "वेण्कटेश्वरस्तुतिमणिमाल�
   
 इति श्रीवेङ्कटेश्वरस्तुतिमणिमाला समाप्ता ।  
   
-रचनाकारः पं. पु. म. जोशी (सांगली)  
+रचनाकारः पं. पु. म. जोशी (साङ्गली)  
   
 Composed by Pandit Pu. Ma. JoshI from Sangali  
   

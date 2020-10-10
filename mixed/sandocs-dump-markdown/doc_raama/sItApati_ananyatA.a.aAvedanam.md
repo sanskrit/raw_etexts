@@ -1,20 +1,20 @@
-+++
-"Text title" = "ananyatAAvedanam"
-"File name" = "ananyatAAvedanam.itx"
-itxtitle = "sItApati ananyatA.a.aAvedanam"
-engtitle = "ananyatAAvedanam"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(booklet)"
-"Latest update" = "September 22, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीतापति अनन्यताऽऽआवेदनम्"
+---
+Category: raama
+File name: ananyatAAvedanam.itx
+Indexextra: (booklet)
+Language: Sanskrit
+Latest update: September 22, 2017
+Location: doc_raama
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: ananyatAAvedanam
+engtitle: ananyatAAvedanam
+itxtitle: sItApati ananyatA.a.aAvedanam
+title: सीतापति अनन्यताऽऽआवेदनम्
 
-+++
+---
   
  सीतापति अनन्यताऽऽवेदनम्   
   

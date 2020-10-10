@@ -1,21 +1,21 @@
-+++
-"Text title" = "naTesha pancharatnam"
-"File name" = "naTeshapancharatnam.itx"
-itxtitle = "naTesha pancharatnastotram"
-engtitle = "naTesha pancharatna stotra"
-Category = "pancharatna, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Arun Shantharam shantharam.arun  at  gmail.com"
-"Proofread by" = "Arun Shantharam shantharam.arun  at  gmail.com"
-"Latest update" = "April 6, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नटेश पञ्चरत्नस्तोत्रम्"
+---
+Category: pancharatna, shiva
+File name: naTeshapancharatnam.itx
+Language: Sanskrit
+Latest update: April 6, 2009
+Location: doc_shiva
+Proofread by: Arun Shantharam shantharam.arun  at  gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: naTesha pancharatnam
+Transliterated by: Arun Shantharam shantharam.arun  at  gmail.com
+engtitle: naTesha pancharatna stotra
+itxtitle: naTesha pancharatnastotram
+title: नटेश पञ्चरत्नस्तोत्रम्
 
-+++
+---
   
  श्रीनटेश पञ्चरत्नस्तोत्र   
   
@@ -36,7 +36,7 @@ title = "नटेश पञ्चरत्नस्तोत्रम्"
   
 डक्काविभूशितकरात् विषनीलकण्टात् ।  
 फुल्लारविन्दनयनात् फणिराजवन्द्यात् ।  
-व्याघ्रांघ्रि पूज्यचरणात् शिवकुञ्चिताङ्घ्रेः  
+व्याघ्राङ्घ्रि पूज्यचरणात् शिवकुञ्चिताङ्घ्रेः  
 शम्भोः परं किमपि तत्त्वमहं न जाने ॥ २॥  
   
 श्रीनाथमृग्यचरणात् विधिमृग्यचूडात्  

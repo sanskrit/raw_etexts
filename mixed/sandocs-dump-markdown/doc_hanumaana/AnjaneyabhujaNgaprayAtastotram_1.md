@@ -1,22 +1,22 @@
-+++
-"Text title" = "Anjaneya evam hanUmatbhuja.ngaprayAtastotram"
-"File name" = "hanUmatbhujangaprayAtastotra.itx"
-itxtitle = "AnjaneyabhujaNgaprayAtastotram 1"
-engtitle = "madAnjaneya bhujangaprayAta stotram  Version 1"
-Category = "hanumaana, bhujanga, shankarAchArya, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Subcategory = "bhujanga"
-Author = "Adi Shankaracharya ??"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kiran Kumar, Sunder Hattangadi, NA"
-"Latest update" = "June 6, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आञ्जनेयभुजण्गप्रयातस्तोत्रम् १"
+---
+Author: Adi Shankaracharya ??
+Category: hanumaana, bhujanga, shankarAchArya, hanuman
+File name: hanUmatbhujangaprayAtastotra.itx
+Language: Sanskrit
+Latest update: June 6, 2012
+Location: doc_hanumaana
+Proofread by: Kiran Kumar, Sunder Hattangadi, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhujanga
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: Anjaneya evam hanUmatbhuja.ngaprayAtastotram
+engtitle: madAnjaneya bhujangaprayAta stotram  Version 1
+itxtitle: AnjaneyabhujaNgaprayAtastotram 1
+title: आञ्जनेयभुजण्गप्रयातस्तोत्रम् १
 
-+++
+---
   
  श्रीमदाञ्जनेय भुजङ्गप्रयातस्तोत्रम् १   
 अथ ध्यानम् ।  

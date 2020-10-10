@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAmastutijaTAyuproktam adhyAtmarAmayaNe"
-"File name" = "rAmastutijaTAyuproktamAdhyatmaRamayana.itx"
-itxtitle = "rAmastutiH (jaTAyuproktA adhyAtmarAmAyaNAntargatA)"
-engtitle = "Praise of Rama by Jatayu from Adhyatma Ramayana"
-Category = "raama, stotra"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "July 10, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामस्तुतिः (जटायुप्रोक्ता अध्यात्मरामायणान्तर्गता)"
+---
+Category: raama, stotra
+File name: rAmastutijaTAyuproktamAdhyatmaRamayana.itx
+Language: Sanskrit
+Latest update: July 10, 2013
+Location: doc_raama
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmastutijaTAyuproktam adhyAtmarAmayaNe
+Texttype: stotra
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Praise of Rama by Jatayu from Adhyatma Ramayana
+itxtitle: rAmastutiH (jaTAyuproktA adhyAtmarAmAyaNAntargatA)
+title: रामस्तुतिः (जटायुप्रोक्ता अध्यात्मरामायणान्तर्गता)
 
-+++
+---
   
  श्रीरामस्तुती जटायुप्रोक्तं अध्यात्मरामायणे   
   
@@ -28,7 +28,7 @@ title = "रामस्तुतिः (जटायुप्रोक्ता
 महितकटाक्षविक्षेपितामरशुचं  
 रहितावधिसुखमिन्दिरामनोहरम् ।  
 श्यामलं जटामकुटोज्ज्वलं चापशर-  
-कोमलकरांबुजं प्रणतोऽस्म्यहं रामम् ॥ २॥  
+कोमलकराम्बुजं प्रणतोऽस्म्यहं रामम् ॥ २॥  
   
 भुवनकमनीयरूपमीडितं शत-  
 रविभासुरमभीष्टप्रदं शरणदम् ।  
@@ -42,10 +42,10 @@ title = "रामस्तुतिः (जटायुप्रोक्ता
   
 भवभावनाहरं भगवत्स्वरूपिणं  
 भवभीविरहितं मुनिसेवितं परम् ।  
-भवसागरतरणांघ्रिपोतकं नित्यं  
+भवसागरतरणाङ्घ्रिपोतकं नित्यं  
 भवनाशायानिशं प्रणतोऽस्म्यहं रामम् ॥ ५॥  
   
-गिरिशगिरिसुताहृदयांबुजावासं   
+गिरिशगिरिसुताहृदयाम्बुजावासं   
 गिरिनायकधरं गिरिपक्षारिसेव्यम् ।  
 सुरसञ्चयदनुजेन्द्रसेवितपादं  
 सुरपमणिनिभं प्रणतोऽस्म्यहं रामम् ॥ ६॥  
@@ -55,8 +55,8 @@ title = "रामस्तुतिः (जटायुप्रोक्ता
 परलोकैकहितनिरतात्मनां सेव्यं  
 परमानन्दमयं प्रणतोऽस्म्यहं रामम् ॥ ७॥  
   
-स्मितसुन्दरविकसितवक्त्रांभोरुहं  
-स्मृतिगोचरमसितांबुदकलेबरम् ।  
+स्मितसुन्दरविकसितवक्त्राम्भोरुहं  
+स्मृतिगोचरमसिताम्बुदकलेबरम् ।  
 सितपङ्कजचारुनयनं रघुवरं  
 क्षितिनन्दिनीवरं प्रणतोऽस्म्यहं रामम् ॥ ८॥  
   

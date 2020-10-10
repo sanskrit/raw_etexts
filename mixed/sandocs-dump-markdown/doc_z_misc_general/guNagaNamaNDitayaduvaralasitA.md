@@ -1,24 +1,24 @@
-+++
-"Text title" = "guNagaNamaNDitayaduvaralasitA"
-"File name" = "guNagaNamaNDitayaduvaralasitA.itx"
-itxtitle = "guNagaNamaNDitayaduvaralasitA"
-engtitle = "guNagaNamaNDitayaduvaralasitA"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "shrI sItArAmAchAryaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Video 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुणगणमण्डितयदुवरलसिता"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: shrI sItArAmAchAryaH
+Category: misc, sanskritgeet
+File name: guNagaNamaNDitayaduvaralasitA.itx
+Indexextra: (Wiki, Video 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: guNagaNamaNDitayaduvaralasitA
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: guNagaNamaNDitayaduvaralasitA
+itxtitle: guNagaNamaNDitayaduvaralasitA
+title: गुणगणमण्डितयदुवरलसिता
 
-+++
+---
   
  गुणगणमण्डित यदुवरलसिता   
 देशगीतिका  

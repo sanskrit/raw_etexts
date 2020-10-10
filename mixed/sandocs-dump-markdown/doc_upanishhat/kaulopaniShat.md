@@ -1,23 +1,23 @@
-+++
-"Text title" = "kaulopaniShat.h"
-"File name" = "kaula.itx"
-itxtitle = "kaulopaniShat"
-engtitle = "kaula upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Michael Magee"
-"Proofread by" = "Mike Magee"
-Description-comments = "kaulopaniShat.h"
-Source = "http://www.hubcom.com/tantric/"
-"Latest update" = "Dec. 27, 1997"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कौलोपनिषत्"
+---
+Category: upanishhat, upanishad
+Description-comments: kaulopaniShat.h
+File name: kaula.itx
+Language: Sanskrit
+Latest update: Dec. 27, 1997
+Location: doc_upanishhat
+Proofread by: Mike Magee
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: http://www.hubcom.com/tantric/
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: kaulopaniShat.h
+Transliterated by: Michael Magee
+engtitle: kaula upanishad
+itxtitle: kaulopaniShat
+title: कौलोपनिषत्
 
-+++
+---
   
  कौलोपनिषत्   
   

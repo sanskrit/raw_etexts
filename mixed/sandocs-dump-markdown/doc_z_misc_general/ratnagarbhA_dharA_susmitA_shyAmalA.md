@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ratnagarbha Dhara Susmita Shyamala"
-"File name" = "ratnagarbhAdharAsusmitAshyAmalA.itx"
-itxtitle = "ratnagarbhA dharA susmitA shyAmalA"
-engtitle = "ratnagarbhAdharAsusmitAshyAmalA"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "AchArya rAdhAkRiShNa manoDI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Volunteers at Bharat Vikas Parishad https://bvpindia.com"
-Indexextra = "(Text, BVP Intro, Video)"
-Acknowledge-Permission = "Bharat Vikas Parishad https://bvpindia.com Atam Dev"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रत्नगर्भा धरा सुस्मिता श्यामला"
+---
+Acknowledge-Permission: Bharat Vikas Parishad https://bvpindia.com Atam Dev
+Author: AchArya rAdhAkRiShNa manoDI
+Category: misc, sanskritgeet
+File name: ratnagarbhAdharAsusmitAshyAmalA.itx
+Indexextra: (Text, BVP Intro, Video)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Ratnagarbha Dhara Susmita Shyamala
+Transliterated by: Volunteers at Bharat Vikas Parishad https://bvpindia.com
+engtitle: ratnagarbhAdharAsusmitAshyAmalA
+itxtitle: ratnagarbhA dharA susmitA shyAmalA
+title: रत्नगर्भा धरा सुस्मिता श्यामला
 
-+++
+---
   
  रत्नगर्भा धरा सुस्मिता श्यामला   
 रत्नगर्भा धरा सुस्मिता श्यामला  

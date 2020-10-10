@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shukashtakam"
-"File name" = "shukAShTakam.itx"
-itxtitle = "shukAShTakam"
-engtitle = "shukAShTakam"
-Category = "misc, vedanta, aShTaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "April 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "शुकाष्टकम्"
+---
+Category: misc, vedanta, aShTaka
+File name: shukAShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 18, 2020
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Shukashtakam
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: shukAShTakam
+itxtitle: shukAShTakam
+title: शुकाष्टकम्
 
-+++
+---
   
  शुकाष्टकम्   
 (मन्दाक्रान्ता छन्द ।)  

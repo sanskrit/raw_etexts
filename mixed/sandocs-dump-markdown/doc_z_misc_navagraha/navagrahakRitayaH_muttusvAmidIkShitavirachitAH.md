@@ -1,26 +1,26 @@
-+++
-"Text title" = "navagrahakRiti dikShita sArtha"
-"File name" = "navagrahakIrtanadikShitAra.itx"
-itxtitle = "navagrahakRitayaH (muttusvAmidIkShitavirachitAH)"
-engtitle = "NavagrahakRitis by MuttusvAmi DikShita"
-Category = "kRitI, navagraha, stotra, muttusvAmI-dIkShitAra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Muttusvami Dikshitar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "KSR Ramachandran"
-"Proofread by" = "KSR Ramachandran"
-"Translated by" = "KSR Ramachandran"
-Description-comments = "Collection"
-Indexextra = "(Scan)"
-"Latest update" = "September 2, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रहकृइतयः (मुत्तुस्वामिदीक्षितविरचिताः)"
+---
+Author: Muttusvami Dikshitar
+Category: kRitI, navagraha, stotra, muttusvAmI-dIkShitAra
+Description-comments: Collection
+File name: navagrahakIrtanadikShitAra.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 2, 2012
+Location: doc_z_misc_navagraha
+Proofread by: KSR Ramachandran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: navagrahakRiti dikShita sArtha
+Texttype: stotra
+Translated by: KSR Ramachandran
+Transliterated by: KSR Ramachandran
+engtitle: NavagrahakRitis by MuttusvAmi DikShita
+itxtitle: navagrahakRitayaH (muttusvAmidIkShitavirachitAH)
+title: नवग्रहकृइतयः (मुत्तुस्वामिदीक्षितविरचिताः)
 
-+++
+---
   
  नवग्रहकृतयः मुत्तुस्वामिदीक्षितविरचित   
   
@@ -109,7 +109,7 @@ title = "नवग्रहकृइतयः (मुत्तुस्वाम
   
 सुराचार्य-वर्य वज्रधर शुभलक्षण जगत्-त्रय-गुरो  
 जरादि-वर्जित अक्रोध कच-जनक आश्रित-जन-कल्पतरो  
-पुरारि-गुरुगुह-संमोदित पुत्र-कारक दीन-बन्धो  
+पुरारि-गुरुगुह-सम्मोदित पुत्र-कारक दीन-बन्धो  
 परादि-चत्वारि-वाक्-स्वरूप-प्रकाशक दया-सिन्धो  
 निरामयाय नीतिकर्त्रे निरङ्कुशाय विश्व-भर्त्रे  
 निरञ्जनाय भुवन-भोक्त्रे निरंशाय महा-प्रदात्रे ॥  
@@ -136,11 +136,11 @@ title = "नवग्रहकृइतयः (मुत्तुस्वाम
   
   
            ७  शनैश्चरः  
-राग- यदुकुलकांभोधि     ताल- मिश्रजाति एक  
+राग- यदुकुलकाम्भोधि     ताल- मिश्रजाति एक  
   
 दिवाकर-तनूजं शनैश्चरं धीरतरं सन्ततं  चिन्तयेऽहम् ।  
   
-भवाम्बु-निधौ निमग्न-जनानां भयंकरं अति-क्रूर-फलदं  
+भवाम्बु-निधौ निमग्न-जनानां भयङ्करं अति-क्रूर-फलदं  
 भवानीश-कटाक्ष-पात्र-भूत-भक्तिमतां अतिशय-शुभ-फलदम् ।  
   
 कालाञ्जन-कान्ति-युक्त-देहं काल-सहोदरं काक-वाहं  
@@ -481,7 +481,7 @@ positively helpful.
   
 सुराचार्यवर्य वज्रधर शुभलक्षण जगत्-त्रय-गुरो  
 जरादि-वर्जित अक्रोध कच-जनक आश्रित-जन-कल्पतरो  
-पुरारि-गुरुगुह-संमोदित पुत्र-कारक दीन-बन्धो  
+पुरारि-गुरुगुह-सम्मोदित पुत्र-कारक दीन-बन्धो  
 परादि-चत्वारि-वाक्-स्वरूप-प्रकाशक दया-सिन्धो  
 निरामयाय नीतिकर्त्रे निरङ्कुशाय विश्व-भर्त्रे  
 निरञ्जनाय भुवन-भोक्त्रे निरंशाय महा-प्रदात्रे ॥  
@@ -508,7 +508,7 @@ positively helpful.
 कच जनक   -  you are the father of Kacha  
 आश्रित जन कल्पतरो   -  you are verily the kalpaka tree for all who  
           approach you  
-पुरारि गुरुगुह संमोदित   -   you have been appreciated by Shiva  
+पुरारि गुरुगुह सम्मोदित   -   you have been appreciated by Shiva  
           and Guruguha  
 पुत्रकारक   -  you promote good offspring  
 दीन बन्धो   -   you are a friend for all poor people  
@@ -658,11 +658,11 @@ the person will be King owning a vast army....''
   
 %७   शनैश्चर  
            ७  शनैश्चरः  
-राग- यदुकुलकांबोधि     ताल- मिश्रजाति एक  
+राग- यदुकुलकाम्बोधि     ताल- मिश्रजाति एक  
   
 दिवाकर-तनूजं शनैश्चरं धीरतरं सन्ततं  चिन्तयेऽहम् ।  
   
-भवाम्बु-निधौ निमग्न-जनानां भयंकरं अति-क्रूर-फलदं  
+भवाम्बु-निधौ निमग्न-जनानां भयङ्करं अति-क्रूर-फलदं  
 भवानीश-कटाक्ष-पात्र-भूत-भक्तिमतां अतिशय-शुभ-फलदम् ।  
   
 कालाञ्जन-कान्ति-युक्त-देहं काल-सहोदरं काक-वाहं  
@@ -813,7 +813,7 @@ to Indra, it has been adopted for Ketu in later centuries.
 गुण दोष जित आभरणं   -  he is very good to people who had risen above  
      the sense of good and bad  
 ग्रहणदि कार्य कारणं  -  his actions include causing eclipses  
-ग्रहापसव्य संचारिणम्   - he moves in a retrograde direction among the  
+ग्रहापसव्य सञ्चारिणम्   - he moves in a retrograde direction among the  
      planets  
   
 Notes:    

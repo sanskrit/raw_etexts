@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAradAstutiH 3"
-"File name" = "shAradAstutiH3.itx"
-itxtitle = "shAradAstutiH 3 (shivAbhinavanRisiMhabhAratIvirachitA shRiNgagiripraveshakAle)"
-engtitle = "shAradAstutiH 3"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदास्तुतिः ३ (शिवाभिनवनृइसिंहभारतीविरचिता शृइण्गगिरिप्रवेशकाले)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI
+File name: shAradAstutiH3.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAstutiH 3
+engtitle: shAradAstutiH 3
+itxtitle: shAradAstutiH 3 (shivAbhinavanRisiMhabhAratIvirachitA shRiNgagiripraveshakAle)
+title: शारदास्तुतिः ३ (शिवाभिनवनृइसिंहभारतीविरचिता शृइण्गगिरिप्रवेशकाले)
 
-+++
+---
   
  श्रीशारदास्तुतिः ३   
 (जैत्रयात्रां निर्वर्त्य श्रीशृङ्गगिरिप्रवेशकाले)  

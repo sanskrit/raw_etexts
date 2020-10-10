@@ -1,24 +1,24 @@
-+++
-"Text title" = "Twelve Names of Nitai or Nityananda"
-"File name" = "nityAnandadvAdashanAmastotram.itx"
-itxtitle = "nityAnandadvAdashanAmastotram (sArvabhauma bhaTTAchAryavirachitam)"
-engtitle = "nityAnandadvAdashanAmastotram"
-Category = "deities_misc, krishna, gurudev, dvAdasha, sArvabhaumabhaTTAchArya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Sarvabhauma Bhattacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "NItai or Nityananda"
-Indexextra = "(Meaning)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नित्यानन्दद्वादशनामस्तोत्रम् (सार्वभौम भट्टाचार्यविरचितम्)"
+---
+Author: Sarvabhauma Bhattacharya
+Category: deities_misc, krishna, gurudev, dvAdasha, sArvabhaumabhaTTAchArya
+Description/comments: NItai or Nityananda
+File name: nityAnandadvAdashanAmastotram.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Twelve Names of Nitai or Nityananda
+engtitle: nityAnandadvAdashanAmastotram
+itxtitle: nityAnandadvAdashanAmastotram (sArvabhauma bhaTTAchAryavirachitam)
+title: नित्यानन्दद्वादशनामस्तोत्रम् (सार्वभौम भट्टाचार्यविरचितम्)
 
-+++
+---
   
  श्रीनित्यानन्दद्वादशनामस्तोत्रम्   
 नित्यानन्दोऽवधूतेन्दुर्वसुधाप्राणवल्लभः ।  

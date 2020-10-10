@@ -1,23 +1,24 @@
-+++
-"Text title" = "shriiyogiishvara-yaaGYavalkya-maNgalaashaasanam"
-"File name" = "yAGYavalkyamangala.itx"
-itxtitle = "yAjnavalkyamaMgalashAsanam"
-engtitle = "yogIshvarayAGYavalkya-mangalAshAsanam"
-Category = "deities_misc, stotra, mangala"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "K Kalyanaraman srimatha12 at gmail.com"
-"Proofread by" = "K Kalyanaraman srimatha12 at gmail.com"
-Description-comments = "12 Mangala Slokas and one Phala Sruti Sloka singing the praise of Sage Sri Yagnavalkya"
-"Latest update" = "November 29, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "याज्ञवल्क्यमंगलशासनम्"
+---
+Category: deities_misc, stotra, mangala
+Description-comments: 12 Mangala Slokas and one Phala Sruti Sloka singing the praise
+  of Sage Sri Yagnavalkya
+File name: yAGYavalkyamangala.itx
+Language: Sanskrit
+Latest update: November 29, 2008
+Location: doc_deities_misc
+Proofread by: K Kalyanaraman srimatha12 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shriiyogiishvara-yaaGYavalkya-maNgalaashaasanam
+Texttype: stotra
+Transliterated by: K Kalyanaraman srimatha12 at gmail.com
+engtitle: yogIshvarayAGYavalkya-mangalAshAsanam
+itxtitle: yAjnavalkyamaMgalashAsanam
+title: याज्ञवल्क्यमंगलशासनम्
 
-+++
+---
   
  श्रीयोगीश्वरयाज्ञवल्क्यमङ्गलशासनम्   
   

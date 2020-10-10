@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Veda Vyasa Stotram 3"
-"File name" = "vedavyAsastotram3.itx"
-itxtitle = "vedavyAsastotram 3 (nArAyaNapaNDitAchAryavirachitam agaNeya guNArNavomalaH)"
-engtitle = "vedavyAsastotram 3"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "nArAyaNapaNDitAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वेदव्यासस्तोत्रम् ३ (नारायणपण्डिताचार्यविरचितम् अगणेय गुणार्णवोमलः)"
+---
+Author: nArAyaNapaNDitAchArya
+Category: deities_misc, gurudev
+File name: vedavyAsastotram3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Veda Vyasa Stotram 3
+Transliterated by: Krishnananda Achar
+engtitle: vedavyAsastotram 3
+itxtitle: vedavyAsastotram 3 (nArAyaNapaNDitAchAryavirachitam agaNeya guNArNavomalaH)
+title: वेदव्यासस्तोत्रम् ३ (नारायणपण्डिताचार्यविरचितम् अगणेय गुणार्णवोमलः)
 
-+++
+---
   
  श्रीवेदव्यासस्तोत्रम् ३   
    (श्रीसुमध्वविजय - सप्तम सर्गः)  

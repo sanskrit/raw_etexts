@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanUmannavaratnapadyamAlA"
-"File name" = "hanUmannavaratnapadyamAlA.itx"
-itxtitle = "hanUmannavaratnapadyamAlA"
-engtitle = "hanUmannavaratnapadyamAlA"
-Category = "hanumaana, nava, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "aShTAshrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-"Description/comments" = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "December 8, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनूमन्नवरत्नपद्यमाला"
+---
+Author: aShTAshrI
+Category: hanumaana, nava, hanuman
+Description/comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanUmannavaratnapadyamAlA.itx
+Language: Sanskrit
+Latest update: December 8, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanUmannavaratnapadyamAlA
+Transliterated by: Processed by Shree Devi Kumar
+engtitle: hanUmannavaratnapadyamAlA
+itxtitle: hanUmannavaratnapadyamAlA
+title: हनूमन्नवरत्नपद्यमाला
 
-+++
+---
   
  श्रीहनूमन्नवरत्नपद्यमाला   
   

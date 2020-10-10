@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivakavacham also known as amoghashivakavacham"
-"File name" = "amoghashivakavach.itx"
-itxtitle = "shivakavacham amoghashivakavachaM cha (skandapurANAntargatam)"
-engtitle = "shivakacham amoghashivakavacham"
-Category = "kavacha, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Surin Usgaonkar usgaonkar at hotmail.com"
-"Proofread by" = "various, final NA"
-Description-comments = "shrIskaande mahaapuraaNe ekaashItisaahasrayaa.n tRitIye brahmottarakhaNDe"
-"Latest update" = "October 14, 2005, June 19, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवकवचम् अमोघशिवकवचं च (स्कन्दपुराणान्तर्गतम्)"
+---
+Category: kavacha, shiva
+Description-comments: shrIskaande mahaapuraaNe ekaashItisaahasrayaa.n tRitIye brahmottarakhaNDe
+File name: amoghashivakavach.itx
+Language: Sanskrit
+Latest update: October 14, 2005, June 19, 2016
+Location: doc_shiva
+Proofread by: various, final NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: shiva
+Text title: shivakavacham also known as amoghashivakavacham
+Transliterated by: Surin Usgaonkar usgaonkar at hotmail.com
+engtitle: shivakacham amoghashivakavacham
+itxtitle: shivakavacham amoghashivakavachaM cha (skandapurANAntargatam)
+title: शिवकवचम् अमोघशिवकवचं च (स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  शिवकवचं अमोघशिवकवचं च   
 श्रीसाम्बासदाशिवकवचस्तोत्रम्  
@@ -89,7 +89,7 @@ title = "शिवकवचम् अमोघशिवकवचं च (स्�
 शुचौ देशे समासीनो यथावत्कल्पितासनः ।  
 जितेन्द्रियो जितप्राणश्चिन्तयेच्छिवमव्यम् ॥ २॥  
   
-हृत्पुण्डरीकान्तरसंनिविष्टं स्वतेजसा व्याप्तनभोऽवकाशम् ।  
+हृत्पुण्डरीकान्तरसन्निविष्टं स्वतेजसा व्याप्तनभोऽवकाशम् ।  
 अतीन्द्रियं सूक्ष्ममनन्तमाद्यं ध्यायेत्परानन्दमयं महेशम् ॥ ३॥  
   
 ध्यानावधूताखिलकर्मबन्धश्चिरं चिदान्दनिमग्नचेताः ।  
@@ -224,7 +224,7 @@ var  भिन्दि
 इत्युक्त्वा ऋषभो योगी तस्मै पार्थिवसूनवे ।  
 ददौ शङ्खं महारावं खड्गं चारिनिषूदनम् ॥ ३४॥  
   
-पुनश्च भस्म संमन्त्र्य तदङ्गं सर्वतोऽस्पृशत् ।  
+पुनश्च भस्म सम्मन्त्र्य तदङ्गं सर्वतोऽस्पृशत् ।  
 गजानां षट्सहस्रस्य द्विगुणं च बलं ददौ ॥ ८॥  
   
 भस्मप्रभावात्सम्प्राप्य बलैश्वर्यधृतिस्मृतीः ।  

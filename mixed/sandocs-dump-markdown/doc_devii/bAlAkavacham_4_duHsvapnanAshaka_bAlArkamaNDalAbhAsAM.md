@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Duhsvapnanashaka Kavacham  4"
-"File name" = "bAlAduHsvapnanAshakakavacham4.itx"
-itxtitle = "bAlAkavacham 4 duHsvapnanAshaka (bAlArkamaNDalAbhAsAM)"
-engtitle = "bAlAduHsvapnanAshakakavacham 4"
-Category = "devii, dashamahAvidyA, devI, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाकवचम् ४ दुःस्वप्ननाशक (बालार्कमण्डलाभासां)"
+---
+Category: devii, dashamahAvidyA, devI, kavacha
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAduHsvapnanAshakakavacham4.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Duhsvapnanashaka Kavacham  4
+engtitle: bAlAduHsvapnanAshakakavacham 4
+itxtitle: bAlAkavacham 4 duHsvapnanAshaka (bAlArkamaNDalAbhAsAM)
+title: बालाकवचम् ४ दुःस्वप्ननाशक (बालार्कमण्डलाभासां)
 
-+++
+---
   
  श्रीबाला दुःस्वप्ननाशककवचम् ४   
 बालार्कमण्डलाभासां चतुर्बाहुं त्रिलोचनाम् ।  

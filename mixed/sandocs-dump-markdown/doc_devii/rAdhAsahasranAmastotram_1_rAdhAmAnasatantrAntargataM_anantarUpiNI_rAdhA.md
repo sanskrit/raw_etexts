@@ -1,24 +1,24 @@
-+++
-"Text title" = "Radhasahasranamastotram 1 from Radha Manasa Tantra"
-"File name" = "rAdhAsahasranAmastotram1.itx"
-itxtitle = "rAdhAsahasranAmastotram 1 (rAdhAmAnasatantrAntargataM anantarUpiNI rAdhA)"
-engtitle = "Radha Sahasranama Stotram 1"
-Category = "sahasranAma, devii, radha, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "Radha Manasa Tantra"
-"Latest update" = "May 29, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधासहस्रनामस्तोत्रम् १ (राधामानसतन्त्रान्तर्गतं अनन्तरूपिणी राधा)"
+---
+Category: sahasranAma, devii, radha, stotra, devI
+Description-comments: Radha Manasa Tantra
+File name: rAdhAsahasranAmastotram1.itx
+Language: Sanskrit
+Latest update: May 29, 2020
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: hinduism/religion
+Sublocation: devii
+Text title: Radhasahasranamastotram 1 from Radha Manasa Tantra
+Texttype: stotra
+Transliterated by: NA
+engtitle: Radha Sahasranama Stotram 1
+itxtitle: rAdhAsahasranAmastotram 1 (rAdhAmAnasatantrAntargataM anantarUpiNI rAdhA)
+title: राधासहस्रनामस्तोत्रम् १ (राधामानसतन्त्रान्तर्गतं अनन्तरूपिणी राधा)
 
-+++
+---
   
  राधासहस्रनामस्तोत्रम् १ अकारादि क्षकारान्तानि   
 वन्दे वृन्दावनानन्दा राधिका परमेश्वरी ।  

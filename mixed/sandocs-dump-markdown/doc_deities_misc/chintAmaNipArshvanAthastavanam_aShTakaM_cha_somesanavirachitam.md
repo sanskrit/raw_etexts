@@ -1,23 +1,23 @@
-+++
-"Text title" = "chintAmaNipArshvanAthastavanam"
-"File name" = "chintAmaNipArshvanAthastavanam.itx"
-itxtitle = "chintAmaNipArshvanAthastavanam aShTakaM cha (somesanavirachitam)"
-engtitle = "chintAmaNipArshvanAthastavanam"
-Category = "deities_misc, jaina, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Somasena"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Madhu V madhu.v100 at gmail.com"
-"Proofread by" = "madhu V, NA"
-Indexextra = "(Scan)"
-"Latest update" = "July 7, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चिन्तामणिपार्श्वनाथस्तवनम् अष्टकं च (सोमेसनविरचितम्)"
+---
+Author: Somasena
+Category: deities_misc, jaina, aShTaka
+File name: chintAmaNipArshvanAthastavanam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 7, 2018
+Location: doc_deities_misc
+Proofread by: madhu V, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: chintAmaNipArshvanAthastavanam
+Transliterated by: Madhu V madhu.v100 at gmail.com
+engtitle: chintAmaNipArshvanAthastavanam
+itxtitle: chintAmaNipArshvanAthastavanam aShTakaM cha (somesanavirachitam)
+title: चिन्तामणिपार्श्वनाथस्तवनम् अष्टकं च (सोमेसनविरचितम्)
 
-+++
+---
   
  चिन्तामणिपार्श्वनाथस्तवनम्   
 श्रीशारदाऽऽधारमुखारविन्दं सदाऽनवद्यं नतमौलिपादम् ।  

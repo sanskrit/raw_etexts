@@ -1,22 +1,22 @@
-+++
-"Text title" = "lakShmIvisheShamantrAH"
-"File name" = "lakShmIvisheShamantrAH.itx"
-itxtitle = "lakShmIvisheShamantrAH"
-engtitle = "lakShmIvisheShamantrAH"
-Category = "devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras"
-"Latest update" = "May 5, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीविशेषमन्त्राः"
+---
+Category: devii, lakShmI, devI
+Description/comments: shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras
+File name: lakShmIvisheShamantrAH.itx
+Language: Sanskrit
+Latest update: May 5, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmIvisheShamantrAH
+engtitle: lakShmIvisheShamantrAH
+itxtitle: lakShmIvisheShamantrAH
+title: लक्ष्मीविशेषमन्त्राः
 
-+++
+---
   
  श्रीलक्ष्मी विशेषमन्त्राः   
   
@@ -65,7 +65,7 @@ title = "लक्ष्मीविशेषमन्त्राः"
 ॐ श्रूं मध्यमाभ्यां नमः ।  
 ॐ श्रैं अनामिकाभ्यां नमः ।  
 ॐ श्रौं कनिष्ठिकाभ्यां नमः ।  
-ॐ श्रः करतलकरपृष्ठाभ्यांनमः ।  
+ॐ श्रः करतलकरपृष्ठाभ्यान्नमः ।  
 हृदयादिन्यासः  
 ॐ श्रां ज्ञानाय हृदयाय नमः ।  
 ॐ श्रीं ऐश्वर्याय शिरसे स्वाहा ।  
@@ -123,7 +123,7 @@ title = "लक्ष्मीविशेषमन्त्राः"
 (ततः स्वर्णादि निर्मितं यन्त्रं अग्नि उद्धारणपूर्वकं  
 श्रीं कमलासनायै नमः इति मन्त्रेण पुष्पाद्यासनं दत्वा  
 पीठमध्ये संस्थाप्य, प्राणप्रतिष्ठां कृत्वा मूलेन मूर्तिं  
-प्रकल्प्य, आवाहनादि उपचारैः संपूज्य देव्याज्ञां गृहीत्वा  
+प्रकल्प्य, आवाहनादि उपचारैः सम्पूज्य देव्याज्ञां गृहीत्वा  
 आवरणपूजां कुर्यात् ।)  
 प्रथमावरणपूजा - षट्कोणकेसरेषु  
 अग्निकोणे - ॐ श्रां हृदयाय नमः ।  

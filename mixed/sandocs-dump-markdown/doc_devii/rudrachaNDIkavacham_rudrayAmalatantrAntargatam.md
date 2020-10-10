@@ -1,22 +1,22 @@
-+++
-"Text title" = "rudrachaNDIkavacham"
-"File name" = "rudrachaNDIkavacham.itx"
-itxtitle = "rudrachaNDIkavacham (rudrayAmalatantrAntargatam)"
-engtitle = "rudrachaNDIkavacham"
-Category = "devii, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-"Proofread by" = "lalitha parameswari, NA"
-"Description/comments" = "Rudrayamala tantra"
-"Latest update" = "May 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रचण्डीकवचम् (रुद्रयामलतन्त्रान्तर्गतम्)"
+---
+Category: devii, kavacha, devI
+Description/comments: Rudrayamala tantra
+File name: rudrachaNDIkavacham.itx
+Language: Sanskrit
+Latest update: May 11, 2018
+Location: doc_devii
+Proofread by: lalitha parameswari, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rudrachaNDIkavacham
+Transliterated by: lalitha parameswari parameswari.lalitha at gmail.com
+engtitle: rudrachaNDIkavacham
+itxtitle: rudrachaNDIkavacham (rudrayAmalatantrAntargatam)
+title: रुद्रचण्डीकवचम् (रुद्रयामलतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीरुद्रचण्डी कवचम्   
            पूर्वपीठिका -  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Sharada Samstavanam"
-"File name" = "shAradAsaMstavanam.itx"
-itxtitle = "shAradAsaMstavanam"
-engtitle = "Sharada Samstavanam"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "rAmasvarupashAstrI amaraH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta at gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta at gmail.com, NA"
-Indexextra = "(Scan"
-title = "शारदासंस्तवनम्"
+---
+Author: rAmasvarupashAstrI amaraH
+Category: devii, sarasvatI, devI
+File name: shAradAsaMstavanam.itx
+Indexextra: (Scan
+Language: Sanskrit
+Location: doc_devii
+Proofread by: Mandar Mali aryavrutta at gmail.com, NA
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Sharada Samstavanam
+Transliterated by: Mandar Mali aryavrutta at gmail.com
+engtitle: Sharada Samstavanam
+itxtitle: shAradAsaMstavanam
+title: शारदासंस्तवनम्
 
-+++
+---
   
  श्रीशारदासंस्तवनम्   
 सर्वदा सर्व-दा शारदा सार-दा  

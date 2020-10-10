@@ -1,26 +1,26 @@
-+++
-"Text title" = "khagangAbhujangaprayAtam"
-"File name" = "khagangAbhujangaprayAtam.itx"
-itxtitle = "khagaNgAbhujaNgaprayAtastotram (puShpA shrIvatsena virachitam)"
-engtitle = "khagangAbhujangaprayAtam"
-Category = "devii, puShpAshrIvatsan, bhujanga, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 17, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "खगण्गाभुजण्गप्रयातस्तोत्रम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: devii, puShpAshrIvatsan, bhujanga, nadI, devI
+File name: khagangAbhujangaprayAtam.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 17, 2017
+Location: doc_devii
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: khagangAbhujangaprayAtam
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: khagangAbhujangaprayAtam
+itxtitle: khagaNgAbhujaNgaprayAtastotram (puShpA shrIvatsena virachitam)
+title: खगण्गाभुजण्गप्रयातस्तोत्रम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  खगङ्गाभुजङ्गप्रयातम्   
                  ॐ  
@@ -37,7 +37,7 @@ title = "खगण्गाभुजण्गप्रयातस्तोत�
   
 सदादर्शनास्फोटकाव्याभिनव्यां  
 स्वसौन्दर्यसंस्फूर्तिशैलीगभीराम् ।  
-सतालस्वरोंकारसानन्दलास्यां  
+सतालस्वरोङ्कारसानन्दलास्यां  
 भजे नादगङ्गां स्वरामोददर्शाम् ॥ २॥  
   
 खगङ्गां गगङ्गां मुमुक्षुत्वधेयां  

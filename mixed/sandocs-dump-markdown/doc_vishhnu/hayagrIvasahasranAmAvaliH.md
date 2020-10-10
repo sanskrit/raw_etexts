@@ -1,21 +1,21 @@
-+++
-"Text title" = "hayagrIvasahasranAmAvaliH"
-"File name" = "hayagrIvasahasranAmAvaliH.itx"
-itxtitle = "hayagrIvasahasranAmAvaliH"
-engtitle = "hayagrIvasahasranAmAvaliH"
-Category = "vishhnu, sahasranAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हयग्रीवसहस्रनामावलिः"
+---
+Category: vishhnu, sahasranAmAvalI
+File name: hayagrIvasahasranAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: hayagrIvasahasranAmAvaliH
+engtitle: hayagrIvasahasranAmAvaliH
+itxtitle: hayagrIvasahasranAmAvaliH
+title: हयग्रीवसहस्रनामावलिः
 
-+++
+---
   
  श्रीहयग्रीवसहस्रनामावलिः   
   

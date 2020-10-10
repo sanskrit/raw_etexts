@@ -1,24 +1,24 @@
-+++
-"Text title" = "gopAla sahasranAma stotra"
-"File name" = "gopaalasahasra.itx"
-itxtitle = "gopAlasahasranAmastotram"
-engtitle = "gopAla sahasranAma stotra"
-Category = "sahasranAma, vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Proofread by PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Scan, meaning)"
-"Latest update" = "NOvember 20, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपालसहस्रनामस्तोत्रम्"
+---
+Author: Traditional
+Category: sahasranAma, vishhnu, krishna, stotra, vishnu
+File name: gopaalasahasra.itx
+Indexextra: (Scan, meaning)
+Language: Sanskrit
+Latest update: NOvember 20, 2018
+Location: doc_vishhnu
+Proofread by: Proofread by PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopAla sahasranAma stotra
+Texttype: stotra
+engtitle: gopAla sahasranAma stotra
+itxtitle: gopAlasahasranAmastotram
+title: गोपालसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीगोपालसहस्रनामस्तोत्रम्   
   
@@ -614,14 +614,14 @@ title = "गोपालसहस्रनामस्तोत्रम्"
 धारणात् सर्वमाप्नोति वैष्णवो नात्र संशयः ॥ १४॥  
   
 वंशीवटे चान्यवटे तथा पिप्पलकेऽथ वा ।  
-कदम्बपादपतले गोपालमूर्तिसंनिधौ ॥ १५।  
+कदम्बपादपतले गोपालमूर्तिसन्निधौ ॥ १५।  
 यः पठेद्वैष्णवो नित्यं स याति हरिमन्दिरम् ।  
 कृष्णेनोक्तं राधिकायै मया प्रोक्तं तथा शिवे ॥ १६॥  
   
 नारदाय मया प्रोक्तं नारदेन प्रकाशितम् ।  
 मया तुभ्यं वरारोहे प्रोक्तमेतत्सुदुर्लभम् ॥ १७॥  
   
-गोपनीयं प्रयत्नेन न प्रकाश्यं कथंचन ।  
+गोपनीयं प्रयत्नेन न प्रकाश्यं कथञ्चन ।  
 शठाय पापिने चैव लम्पटाय विशेषतः ॥ १८॥  
   
 न दातव्यं न दातव्यं न दातव्यं कदाचन ।  

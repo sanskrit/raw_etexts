@@ -1,24 +1,25 @@
-+++
-"Text title" = "Samskrita Bahula Bhasha Padanibaddhani Gitani"
-"File name" = "saMskRRitabahulabhAShApadanibaddhAnigItAni.itx"
-itxtitle = "saMskRita bahulabhAShA padanibaddhAni gItAni (bhAratarAShTragItam)"
-engtitle = "saMskRRita bahulabhAShA padanibaddhAni gItAni"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "ravIndranAtha ThAkura"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृइत बहुलभाषा पदनिबद्धानि गीतानि (भारतराष्ट्रगीतम्)"
+---
+Author: ravIndranAtha ThAkura
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: saMskRRitabahulabhAShApadanibaddhAnigItAni.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Samskrita Bahula Bhasha Padanibaddhani Gitani
+Translated by: Mandar Mali
+engtitle: saMskRRita bahulabhAShA padanibaddhAni gItAni
+itxtitle: saMskRita bahulabhAShA padanibaddhAni gItAni (bhAratarAShTragItam)
+title: संस्कृइत बहुलभाषा पदनिबद्धानि गीतानि (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  संस्कृत बहुलभाषा पदनिबद्धानि गीतानि   
 भारतभूमि-वर्णनं  

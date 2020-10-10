@@ -1,21 +1,21 @@
-+++
-"Text title" = "Ganapatistotram 1 Mahalaxmi"
-"File name" = "gaNapatistotrammahAlakShmI.itx"
-itxtitle = "gaNapatistotram 1 (mahAlakShmIkRitam)"
-engtitle = "gaNapatistotram 1 by mahAlakShmI"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "June 13, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपतिस्तोत्रम् १ (महालक्ष्मीकृइतम्)"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: ganesha
+File name: gaNapatistotrammahAlakShmI.itx
+Language: Sanskrit
+Latest update: June 13, 2010
+Location: doc_ganesha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganapatistotram 1 Mahalaxmi
+engtitle: gaNapatistotram 1 by mahAlakShmI
+itxtitle: gaNapatistotram 1 (mahAlakShmIkRitam)
+title: गणपतिस्तोत्रम् १ (महालक्ष्मीकृइतम्)
 
-+++
+---
   
  श्रीमहालक्ष्मिकृतम् गणपतिस्तोत्रम्   
 नमो महाधरायैव नानालीलाधराय ते ।  

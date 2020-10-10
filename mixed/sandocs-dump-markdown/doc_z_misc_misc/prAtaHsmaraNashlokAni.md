@@ -1,20 +1,20 @@
-+++
-"Text title" = "Pratahsmarana Shlokas"
-"File name" = "prAtaHsmaraNashlokAni.itx"
-itxtitle = "prAtaHsmaraNashlokAni"
-engtitle = "prAtaHsmaraNa shlokAni"
-Category = "misc, suprabhAta, suprabhAta"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "प्रातःस्मरणश्लोकानि"
+---
+Category: misc, suprabhAta, suprabhAta
+File name: prAtaHsmaraNashlokAni.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_z_misc_misc
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Pratahsmarana Shlokas
+engtitle: prAtaHsmaraNa shlokAni
+itxtitle: prAtaHsmaraNashlokAni
+title: प्रातःस्मरणश्लोकानि
 
-+++
+---
   
  प्रातःस्मरणश्लोकानि   
 कराग्रे वसते लक्ष्मीः करमध्ये सरस्वती ।  

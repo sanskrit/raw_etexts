@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhairavatANDavastotram"
-"File name" = "bhairavatANDavastotram.itx"
-itxtitle = "bhairavatANDavastotram"
-engtitle = "bhairavatANDavastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.coM"
-"Proofread by" = "Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "January 15, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भैरवताण्डवस्तोत्रम्"
+---
+Category: shiva
+File name: bhairavatANDavastotram.itx
+Language: Sanskrit
+Latest update: January 15, 2018
+Location: doc_shiva
+Proofread by: Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: bhairavatANDavastotram
+Texttype: stotra
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.coM
+engtitle: bhairavatANDavastotram
+itxtitle: bhairavatANDavastotram
+title: भैरवताण्डवस्तोत्रम्
 
-+++
+---
   
  श्रीभैरवताण्डवस्तोत्रम्   
 श्रीगणेशाय नमः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "amRRitasanjIvanastotram"
-"File name" = "amRRitasanjIvanastotram.itx"
-itxtitle = "amRitasanjIvanastotram (sudarshanasaMhitAntargataM)"
-engtitle = "amRRitasanjIvanastotram"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अमृइतसञ्जीवनस्तोत्रम् (सुदर्शनसंहितान्तर्गतं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: amRRitasanjIvanastotram.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: amRRitasanjIvanastotram
+engtitle: amRRitasanjIvanastotram
+itxtitle: amRitasanjIvanastotram (sudarshanasaMhitAntargataM)
+title: अमृइतसञ्जीवनस्तोत्रम् (सुदर्शनसंहितान्तर्गतं)
 
-+++
+---
   
  अमृतसञ्जीवनस्तोत्रम्   
   
@@ -80,7 +80,7 @@ title = "अमृइतसञ्जीवनस्तोत्रम् (सु
 विश्वं संह्रियते तदेव निखिलं रुद्रस्वरूपेण ते  
 संसिच्यामृतशीकरैर्हर महारिष्टं चिरं जीवय ॥ १९॥  
   
-यो धन्वन्तरिसंज्ञया निगदितः क्षीराब्धितो निःसृतो  
+यो धन्वन्तरिसञ्ज्ञया निगदितः क्षीराब्धितो निःसृतो  
 हस्ताभ्यां जनजीवनाय कलशं पीयूषपूर्णं दधत् ।  
 आयुर्वेदमरीरचन्द्ररतरुजां नाशाय स त्वं मुदा  
 संसिच्यामृतशीकरैर्हर महारिष्टं चिरं जीवय ॥ २०॥  

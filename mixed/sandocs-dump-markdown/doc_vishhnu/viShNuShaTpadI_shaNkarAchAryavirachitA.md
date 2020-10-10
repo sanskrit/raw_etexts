@@ -1,25 +1,25 @@
-+++
-"Text title" = "viShNuShaTpadI"
-"File name" = "vishnu6padi.itx"
-itxtitle = "viShNuShaTpadI (shaNkarAchAryavirachitA)"
-engtitle = "viShNuShaTpadI"
-Category = "ShaTpadI, vishhnu, stotra, vishnu, shankarAchArya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sorin Suciu aka SeSe at sorins at hotmail.com"
-"Proofread by" = "Sorin Suciu aka SeSe at sorins at hotmail.com"
-Indexextra = "(Meaning and commentary 4Mb, Sanskrit)"
-"Latest update" = "August 28, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुषट्पदी (शण्कराचार्यविरचिता)"
+---
+Author: Shankaracharya
+Category: ShaTpadI, vishhnu, stotra, vishnu, shankarAchArya
+File name: vishnu6padi.itx
+Indexextra: (Meaning and commentary 4Mb, Sanskrit)
+Language: Sanskrit
+Latest update: August 28, 2010
+Location: doc_vishhnu
+Proofread by: Sorin Suciu aka SeSe at sorins at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNuShaTpadI
+Texttype: stotra
+Transliterated by: Sorin Suciu aka SeSe at sorins at hotmail.com
+engtitle: viShNuShaTpadI
+itxtitle: viShNuShaTpadI (shaNkarAchAryavirachitA)
+title: विष्णुषट्पदी (शण्कराचार्यविरचिता)
 
-+++
+---
   
  श्रीविष्णुषट्पदी   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "haMsaShoDhopaniShat"
-"File name" = "haMsaShoDhopaniShat.itx"
-itxtitle = "haMsaShoDhopaniShat (shAkta)"
-engtitle = "haMsaShoDhopaniShat"
-Category = "upanishhat, devii, devI, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हंसषोढोपनिषत् (शाक्त)"
+---
+Category: upanishhat, devii, devI, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: haMsaShoDhopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: haMsaShoDhopaniShat
+engtitle: haMsaShoDhopaniShat
+itxtitle: haMsaShoDhopaniShat (shAkta)
+title: हंसषोढोपनिषत् (शाक्त)
 
-+++
+---
   
  हंसषोढोपनिषत्   
 अथाह वै हंसषोढान्यासी शिवो भवेत् । सर्वसिद्धीश्वरो भवेत् ।  

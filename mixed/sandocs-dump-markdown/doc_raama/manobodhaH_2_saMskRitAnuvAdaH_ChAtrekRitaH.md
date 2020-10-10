@@ -1,25 +1,25 @@
-+++
-"Text title" = "manobodhaH 2 marAThI manAche shlokasya saMskRitAnuvAda"
-"File name" = "manobodha-skt2.itx"
-itxtitle = "manobodhaH 2 (saMskRitAnuvAdaH ChAtrekRitaH)"
-engtitle = "Manobodha 2"
-Category = "raama, samartha-rAmadAsa"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "pramukha"
-Author = "Swami Ramdas, translator Vishvanath Keshava Chatre"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "in Sanskrit by Chatre, verses for mind"
-Indexextra = "(marathi-skt-engl, shloka Excel)"
-"Latest update" = "June 20, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मनोबोधः २ (संस्कृइतानुवादः छात्रेकृइतः)"
+---
+Author: Swami Ramdas, translator Vishvanath Keshava Chatre
+Category: raama, samartha-rAmadAsa
+Description/comments: in Sanskrit by Chatre, verses for mind
+File name: manobodha-skt2.itx
+Indexextra: (marathi-skt-engl, shloka Excel)
+Language: Sanskrit
+Latest update: June 20, 2015
+Location: doc_raama
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: manobodhaH 2 marAThI manAche shlokasya saMskRitAnuvAda
+Texttype: pramukha
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Manobodha 2
+itxtitle: manobodhaH 2 (saMskRitAnuvAdaH ChAtrekRitaH)
+title: मनोबोधः २ (संस्कृइतानुवादः छात्रेकृइतः)
 
-+++
+---
   
  मनोबोधः २   
 मनोबोधः श्रीसमर्थरामदासस्वामिविरचितः  

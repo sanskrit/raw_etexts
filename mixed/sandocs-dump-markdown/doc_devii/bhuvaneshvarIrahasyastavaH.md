@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhuvaneshvarIrahasyastavaH"
-"File name" = "bhuvaneshvarIrahasyastavaH.itx"
-itxtitle = "bhuvaneshvarIrahasyastavaH"
-engtitle = "bhuvaneshvarIrahasyastavaH"
-Category = "devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com, NA"
-Indexextra = "(Scan)"
-"Latest update" = "June 13, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वरीरहस्यस्तवः"
+---
+Category: devii, devI, dashamahAvidyA
+File name: bhuvaneshvarIrahasyastavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 13, 2020
+Location: doc_devii
+Proofread by: Ganesh Kandu kanduganesh at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhuvaneshvarIrahasyastavaH
+engtitle: bhuvaneshvarIrahasyastavaH
+itxtitle: bhuvaneshvarIrahasyastavaH
+title: भुवनेश्वरीरहस्यस्तवः
 
-+++
+---
   
  श्रीभुवनेश्वरीरहस्यस्तवः   
 पूर्वपीठिका-  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "garbharakShAmbikAstotram"
-"File name" = "garbharakShAmbikAstotram.itx"
-itxtitle = "garbharakShAmbikAstotram"
-engtitle = "Garbha Raksha Ambika Stotram"
-Category = "devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Translation-Audio)"
-"Latest update" = "February 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गर्भरक्षाम्बिकास्तोत्रम्"
+---
+Category: devii, otherforms, devI
+File name: garbharakShAmbikAstotram.itx
+Indexextra: (Translation-Audio)
+Language: Sanskrit
+Latest update: February 10, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: garbharakShAmbikAstotram
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Garbha Raksha Ambika Stotram
+itxtitle: garbharakShAmbikAstotram
+title: गर्भरक्षाम्बिकास्तोत्रम्
 
-+++
+---
   
  गर्भरक्षाम्बिकास्तोत्रम्   
   

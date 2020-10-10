@@ -1,23 +1,23 @@
-+++
-"Text title" = "dharmashAstAkeshAdipadAntavarNanastotram"
-"File name" = "shaastaakeshaadipaadaantavarNanastotram.itx"
-itxtitle = "shAstAkeshAdipAdanta varNanastotram"
-engtitle = "shAstAkeshAdipAdanta varNana stotram"
-Category = "deities_misc, ayyappa, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 23, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शास्ताकेशादिपादन्त वर्णनस्तोत्रम्"
+---
+Category: deities_misc, ayyappa, stotra
+File name: shaastaakeshaadipaadaantavarNanastotram.itx
+Language: Sanskrit
+Latest update: April 23, 2008
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: dharmashAstAkeshAdipadAntavarNanastotram
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: shAstAkeshAdipAdanta varNana stotram
+itxtitle: shAstAkeshAdipAdanta varNanastotram
+title: शास्ताकेशादिपादन्त वर्णनस्तोत्रम्
 
-+++
+---
   
  श्रीशास्ताकेशादिपादन्त वर्णनस्तोत्रम्   
   
@@ -31,9 +31,9 @@ title = "शास्ताकेशादिपादन्त वर्णन�
 चन्द्रावतं सहरिनन्दनमाश्रयामि ॥ २  
 आलोलनीलललिताळुक हाररम्य-  
 माकम्रनासमरुणाधरमायताक्षम् ।  
-आलंबनं त्रिजगतां प्रमथाधिनाथं  
+आलम्बनं त्रिजगतां प्रमथाधिनाथं  
 मानम्रलोक हरिनन्दनमाश्रयामि ॥ ३  
-कर्णावलंबिमणिकुण्डल भासमान  
+कर्णावलम्बिमणिकुण्डल भासमान  
 गण्डस्थलं समुदितानन पुण्डरीकम् ।  
 अर्णोजनाभहरयोरिव मूर्तिमन्तं  
 पुण्यातिरेकमिव भूतपतिं नमामि ॥ ४  
@@ -58,7 +58,7 @@ title = "शास्ताकेशादिपादन्त वर्णन�
 पायाद्भवान् प्रणतमेनमपारघोर-  
 संसारभीतमिह मामखिलामयेभ्यः ॥ ९  
 हे भूतनाथ भगवन्, भवदीय चारु-  
-पादांभुजे भवतु भक्तिरचञ्चला मे ।  
+पादाम्भुजे भवतु भक्तिरचञ्चला मे ।  
 नाथाय सर्वजगतां भजतां भवाब्धि-  
 पोताय नित्यमखिलाङ्गभुवे नमस्ते ॥ १०  
 इति श्री शास्ताकेशादिपादन्त वर्णन स्तोत्रं सम्पूर्णम् ॥  

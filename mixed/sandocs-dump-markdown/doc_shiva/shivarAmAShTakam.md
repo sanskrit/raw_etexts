@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivarAmAShTakam"
-"File name" = "shivarAmAShTakam.itx"
-itxtitle = "shivarAmAShTakam"
-engtitle = "shivarAmAShTakam"
-Category = "shiva, raama, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-"Latest update" = "June 10, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवरामाष्टकम्"
+---
+Author: Traditional
+Category: shiva, raama, aShTaka
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: shivarAmAShTakam.itx
+Language: Sanskrit
+Latest update: June 10, 2016
+Location: doc_shiva
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivarAmAShTakam
+engtitle: shivarAmAShTakam
+itxtitle: shivarAmAShTakam
+title: शिवरामाष्टकम्
 
-+++
+---
   
  शिवरामाष्टकम्   
 श्रीगणेशाय नमः ।  

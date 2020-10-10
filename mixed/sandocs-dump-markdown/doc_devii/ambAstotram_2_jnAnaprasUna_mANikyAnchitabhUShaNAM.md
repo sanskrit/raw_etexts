@@ -1,24 +1,24 @@
-+++
-"Text title" = "jnAnaprasUnAmbAstotram"
-"File name" = "jnAnaprasUnAmbAstotram.itx"
-itxtitle = "ambAstotram 2 (jnAnaprasUna mANikyAnchitabhUShaNAM)"
-engtitle = "jnAnaprasUnAmbAstotram"
-Category = "devii, pArvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अम्बास्तोत्रम् २ (ज्ञानप्रसून माणिक्याञ्चितभूषणां)"
+---
+Category: devii, pArvatI, devI
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: jnAnaprasUnAmbAstotram.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jnAnaprasUnAmbAstotram
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: jnAnaprasUnAmbAstotram
+itxtitle: ambAstotram 2 (jnAnaprasUna mANikyAnchitabhUShaNAM)
+title: अम्बास्तोत्रम् २ (ज्ञानप्रसून माणिक्याञ्चितभूषणां)
 
-+++
+---
   
  ज्ञानप्रसूनाम्बास्तोत्रम्   
 माणिक्याञ्चितभूषणां मणिवरां माहेन्द्रनीलोज्ज्वलां  

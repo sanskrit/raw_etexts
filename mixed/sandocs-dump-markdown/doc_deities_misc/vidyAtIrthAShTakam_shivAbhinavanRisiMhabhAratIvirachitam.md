@@ -1,23 +1,23 @@
-+++
-"Text title" = "vidyAtIrthAShTakam"
-"File name" = "vidyAtIrthAShTakam.itx"
-itxtitle = "vidyAtIrthAShTakam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "vidyAtIrthAShTakam"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudeva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विद्यातीर्थाष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, aShTaka
+File name: vidyAtIrthAShTakam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudeva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vidyAtIrthAShTakam
+engtitle: vidyAtIrthAShTakam
+itxtitle: vidyAtIrthAShTakam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: विद्यातीर्थाष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीविद्यातीर्थाष्टकम्   
 वर्णचतुष्टयमेतद्विद्यातीर्थेति यस्य जिह्वाग्रे ।  

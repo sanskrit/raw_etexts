@@ -1,23 +1,23 @@
-+++
-"Text title" = "chandrAShTAviMshatinAmastotram"
-"File name" = "chandra28.itx"
-itxtitle = "chandrAShTAviMshatinAmastotram"
-engtitle = "chandrAShTAviMshatinAmastotram"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar, Kirk Wortman kirkwort at hotmail.com"
-"Latest update" = "November 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्राष्टाविंशतिनामस्तोत्रम्"
+---
+Author: Traditional
+Category: navagraha, stotra
+File name: chandra28.itx
+Language: Sanskrit
+Latest update: November 11, 2018
+Location: doc_z_misc_navagraha
+Proofread by: Ravin Bhalekar, Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: chandrAShTAviMshatinAmastotram
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: chandrAShTAviMshatinAmastotram
+itxtitle: chandrAShTAviMshatinAmastotram
+title: चन्द्राष्टाविंशतिनामस्तोत्रम्
 
-+++
+---
   
  चन्द्राष्टाविंशतिनामस्तोत्रम्   
 श्रीगणेशाय नमः ।  

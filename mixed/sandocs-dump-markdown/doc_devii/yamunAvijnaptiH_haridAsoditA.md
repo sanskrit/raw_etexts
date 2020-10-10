@@ -1,24 +1,24 @@
-+++
-"Text title" = "yamunAvijnaptiH"
-"File name" = "yamunAvijnaptiH.itx"
-itxtitle = "yamunAvijnaptiH (haridAsoditA)"
-engtitle = "yamunAvijnaptiH"
-Category = "devii, nadI, puShTimArgIya, haridAsa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "haridAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनाविज्ञप्तिः (हरिदासोदिता)"
+---
+Author: haridAsa
+Category: devii, nadI, puShTimArgIya, haridAsa, devI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: yamunAvijnaptiH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunAvijnaptiH
+engtitle: yamunAvijnaptiH
+itxtitle: yamunAvijnaptiH (haridAsoditA)
+title: यमुनाविज्ञप्तिः (हरिदासोदिता)
 
-+++
+---
   
  श्रीयमुनाविज्ञप्तिः   
   

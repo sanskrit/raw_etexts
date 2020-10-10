@@ -1,20 +1,20 @@
-+++
-"Text title" = "rudradvAdashanAmastotram"
-"File name" = "rudradvAdashanAmastotram.itx"
-itxtitle = "rudradvAdashanAmastotram"
-engtitle = "rudradvAdashanAmastotram"
-Category = "shiva, dvAdasha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "January 11, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रद्वादशनामस्तोत्रम्"
+---
+Category: shiva, dvAdasha
+File name: rudradvAdashanAmastotram.itx
+Language: Sanskrit
+Latest update: January 11, 2019
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: rudradvAdashanAmastotram
+engtitle: rudradvAdashanAmastotram
+itxtitle: rudradvAdashanAmastotram
+title: रुद्रद्वादशनामस्तोत्रम्
 
-+++
+---
   
  श्रीरुद्रद्वादशनामस्तोत्रं   
 प्रथमं तु महादेवं द्वितीयं तु महेश्वरं ।  

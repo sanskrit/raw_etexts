@@ -1,28 +1,28 @@
-+++
-"Text title" = "Nrisimhakavacham ApamrityuharaM"
-"File name" = "nRRisiMhakavachamapamRRityuharam.itx"
-itxtitle = "nRisiMhakavacham apamRityuharaM"
-engtitle = "nRRisiMhakavacham apamrityuharaM"
-Category = "vishhnu, kavacha, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu, NA"
-"Description/comments" = "sUryAruNasaMvAde"
-Indexextra = "(Scan)"
-"Latest update" = "August 12, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहकवचम् अपमृइत्युहरं"
+---
+Category: vishhnu, kavacha, dashAvatAra
+Description/comments: sUryAruNasaMvAde
+File name: nRRisiMhakavachamapamRRityuharam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 12, 2018
+Location: doc_vishhnu
+Proofread by: Ganesh Kandu, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Nrisimhakavacham ApamrityuharaM
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: nRRisiMhakavacham apamrityuharaM
+itxtitle: nRisiMhakavacham apamRityuharaM
+title: नृइसिंहकवचम् अपमृइत्युहरं
 
-+++
+---
   
  अपमृत्युहरं श्रीनृसिंहकवचम्   
 श्रीगणेशायनमः ।  
-अथापरं प्रवक्ष्यामि ह्यल्पमृत्यु हरंपरम् ।  
+अथापरं प्रवक्ष्यामि ह्यल्पमृत्यु हरम्परम् ।  
 उपायं यत्कृतेनाङ्ग शीघ्रं मृत्युर्निवर्तते ॥ १॥  
   
 नृसिंहकवचं नाम स्तोत्रं परमदुर्लभम् ।  

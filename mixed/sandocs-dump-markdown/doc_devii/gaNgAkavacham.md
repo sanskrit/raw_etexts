@@ -1,23 +1,23 @@
-+++
-"Text title" = "Gangakavacha"
-"File name" = "gangAkavacham.itx"
-itxtitle = "gaNgAkavacham"
-engtitle = "gaNgAkavacham"
-Category = "devii, nadI, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Proofread by" = "Shree Devi Kumar shreeshrii at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "October 26, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाकवचम्"
+---
+Category: devii, nadI, kavacha, devI
+File name: gangAkavacham.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: October 26, 2019
+Location: doc_devii
+Proofread by: Shree Devi Kumar shreeshrii at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangakavacha
+Transliterated by: Shree Devi Kumar shreeshrii at gmail.com
+engtitle: gaNgAkavacham
+itxtitle: gaNgAkavacham
+title: गण्गाकवचम्
 
-+++
+---
   
  गङ्गाकवचम्   
 नारद उवाच -  

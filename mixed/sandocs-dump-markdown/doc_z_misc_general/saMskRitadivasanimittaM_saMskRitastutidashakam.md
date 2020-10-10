@@ -1,22 +1,22 @@
-+++
-"Text title" = "saMskRRitadivasanimittam"
-"File name" = "saMskRRitadivasanimittam.itx"
-itxtitle = "saMskRitadivasanimittaM saMskRitastutidashakam"
-engtitle = "saMskRRitadivasanimittam"
-Category = "misc, sahitya, dashaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Vrajakishora Tripathi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vrajakishora Tripathi"
-"Proofread by" = "Vrajakishora Tripathi"
-"Latest update" = "December 26, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृइतदिवसनिमित्तं संस्कृइतस्तुतिदशकम्"
+---
+Author: Vrajakishora Tripathi
+Category: misc, sahitya, dashaka
+File name: saMskRRitadivasanimittam.itx
+Language: Sanskrit
+Latest update: December 26, 2018
+Location: doc_z_misc_general
+Proofread by: Vrajakishora Tripathi
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: saMskRRitadivasanimittam
+Transliterated by: Vrajakishora Tripathi
+engtitle: saMskRRitadivasanimittam
+itxtitle: saMskRitadivasanimittaM saMskRitastutidashakam
+title: संस्कृइतदिवसनिमित्तं संस्कृइतस्तुतिदशकम्
 
-+++
+---
   
  संस्कृतदिवसनिमित्तं संस्कृतस्तुतिदशकम्   
 यत् संस्कृतं देवपुरस्य भाषा  

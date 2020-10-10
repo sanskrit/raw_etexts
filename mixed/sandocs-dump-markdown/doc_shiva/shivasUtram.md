@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivasUtra"
-"File name" = "shivasuutra.itx"
-itxtitle = "shivasUtram"
-engtitle = "shivasUtra (with trans.)"
-Category = "sUtra, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subhash Kak kak at ee.lsu.edu"
-"Proofread by" = "Subhash Kak kak at ee.lsu.edu"
-Indexextra = "(with trans. (1, 2))"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसूत्रम्"
+---
+Category: sUtra, shiva
+File name: shivasuutra.itx
+Indexextra: (with trans. (1, 2))
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_shiva
+Proofread by: Subhash Kak kak at ee.lsu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivasUtra
+Transliterated by: Subhash Kak kak at ee.lsu.edu
+engtitle: shivasUtra (with trans.)
+itxtitle: shivasUtram
+title: शिवसूत्रम्
 
-+++
+---
   
  श्रीशिवसूत्र   
   
@@ -287,7 +287,7 @@ shivasUtra
 ज्ञानाधिष्ठानं मातृका । १-४।  
 उद्यमो भैरवः । १-५।  
 शक्तिचक्रसन्धाने विश्वसंहारः । १-६।  
-जाग्रत्स्वप्नसुषुप्तभेदे तुर्याभोगसंभवः । १-७।  
+जाग्रत्स्वप्नसुषुप्तभेदे तुर्याभोगसम्भवः । १-७।  
 ज्ञानं जाग्रत् । १-८।  
 स्वप्नो विकल्पाः । १-९।  
 अविवेको मायासौषुप्तम् । १-१०।  
@@ -295,12 +295,12 @@ shivasUtra
 विस्मयो योगभूमिकाः । १-१२।  
 इच्छा शक्तिरुमा कुमारी । १-१३।  
 दृश्यं शरीरम् । १-१४।  
-हृदये चित्तसंघट्टाद् दृश्यस्वापदर्शनम् । १-१५।  
+हृदये चित्तसङ्घट्टाद् दृश्यस्वापदर्शनम् । १-१५।  
 शुद्धतत्त्वसन्धानाद् वा अपशुशक्तिः । १-१६।  
 वितर्क आत्मज्ञानम् । १-१७।  
 लोकानन्दः समाधिसुखम् । १-१८।  
 शक्तिसन्धाने शरीरोत्पत्तिः । १-१९।  
-भूतसन्धान भूतपृथक्त्व विश्वसंघट्टाः । १-२०।  
+भूतसन्धान भूतपृथक्त्व विश्वसङ्घट्टाः । १-२०।  
 शुद्धविद्योदयाच्चक्रेशत्व सिद्धिः । १-२१।  
 महाह्रदानुसन्धानान्मन्त्रवीर्यानुभवः । १-२२।  
   
@@ -360,9 +360,9 @@ shivasUtra
 त्रिपदाद्यनुप्राणनम् । ३-३९।  
 चित्तस्थितिवत् शरीर करण बाह्येषु । ३-४०।  
 अभिलाषाद्बहिर्गतिः संवाह्यस्य । ३-४१।  
-तदारूढप्रमितेस्तत्क्षयाज्जीवसंक्षयः । ३-४२।  
+तदारूढप्रमितेस्तत्क्षयाज्जीवसङ्क्षयः । ३-४२।  
 भूतकञ्चुकी तदा विमुक्तो भूयः पतिसमः परः । ३-४३।  
-नैसर्गिकः प्राणसंबन्धः । ३-४४।  
+नैसर्गिकः प्राणसम्बन्धः । ३-४४।  
 नासिकान्तर्मध्य संयमात् किमत्र सव्यापसव्य सौषुम्नेषु । ३-४५।  
 भूयः स्यात् प्रतिमीलनम् । ३-४६।  
           ॐ तत् सत्  

@@ -3,7 +3,6 @@ title: 111 Vashishta urges Rama to grant the prayer of Bharata
 title_english: 111 Vashishta urges Rama to grant the prayer of Bharata
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-111-Rama_Bharatha_Samvadaha.mp3"></div>
 
 वसिष्ठः तु तदा रामम् उक्त्वा राज पुरोहितः ।  
@@ -65,7 +64,7 @@ title_english: 111 Vashishta urges Rama to grant the prayer of Bharata
 उपधिर् न मया कार्यो वन वासे जुगुप्सितः ।  
 युक्तम् उक्तम् च कैकेय्या पित्रा मे सुकृतम् कृतम् ॥ २-१११-२९  
 जानामि भरतम् क्षान्तम् गुरु सत्कार कारिणम् ।  
-सर्वम् एव अत्र कल्याणम् सत्य संधे महात्मनि ॥ २-१११-३०  
+सर्वम् एव अत्र कल्याणम् सत्य सन्धे महात्मनि ॥ २-१११-३०  
 अनेन धर्म शीलेन वनात् प्रत्यागतः पुनः ।  
 भ्रात्रा सह भविष्यामि पृथिव्याः पतिर् उत्तमः ॥ २-१११-३१  
 वृतो राजा हि कैकेय्या मया तद् वचनम् कृतम् ।  

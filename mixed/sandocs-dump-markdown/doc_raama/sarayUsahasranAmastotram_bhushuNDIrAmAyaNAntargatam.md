@@ -1,23 +1,23 @@
-+++
-"Text title" = "sarayUsahasranAmastotram from bhushuNDIrAmAyaNa"
-"File name" = "sarayUsahasranAmastotrambhushuNDIrAmAyaNa.itx"
-itxtitle = "sarayUsahasranAmastotram (bhushuNDIrAmAyaNAntargatam)"
-engtitle = "sarayUsahasranAmastotram from bhushuNDIrAmAyaNa"
-Category = "raama, sahasranAma, nadI, devii, devI"
-Location = "doc_raama"
-Sublocation = "raama"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Source = "Bhushundi Ramayanam pashchima-uttara khaNDa, adhyAYa 36"
-Indexextra = "(Book 3)"
-"Latest update" = "July 15, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरयूसहस्रनामस्तोत्रम् (भुशुण्डीरामायणान्तर्गतम्)"
+---
+Category: raama, sahasranAma, nadI, devii, devI
+File name: sarayUsahasranAmastotrambhushuNDIrAmAyaNa.itx
+Indexextra: (Book 3)
+Language: Sanskrit
+Latest update: July 15, 2017
+Location: doc_raama
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Bhushundi Ramayanam pashchima-uttara khaNDa, adhyAYa 36
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: sarayUsahasranAmastotram from bhushuNDIrAmAyaNa
+engtitle: sarayUsahasranAmastotram from bhushuNDIrAmAyaNa
+itxtitle: sarayUsahasranAmastotram (bhushuNDIrAmAyaNAntargatam)
+title: सरयूसहस्रनामस्तोत्रम् (भुशुण्डीरामायणान्तर्गतम्)
 
-+++
+---
   
  सरयूनामसहस्रनामस्तोत्रम्  भुषुण्डिरामायणान्तर्गतम्   
   
@@ -277,16 +277,16 @@ title = "सरयूसहस्रनामस्तोत्रम् (भु
 झिल्लीनिनादमुदिता झल्लरीनादतोषिणी ।  
 झरी झर्झरिकारूपा झाङ्काररवकारिणी ॥ ८५॥  
   
-टांकारिणी टंकहस्ता टापिनो टापगामिनी ।  
-टंटंनिनादमुदिता ठंठंशब्दप्रबोधिनी ॥ ८६॥  
+टाङ्कारिणी टङ्कहस्ता टापिनो टापगामिनी ।  
+टण्टन्निनादमुदिता ठण्ठंशब्दप्रबोधिनी ॥ ८६॥  
   
-ठकुरा ठक्कुराज्ञा च ठंठंनिनदकारिणी ।  
-डमरूवादनपरा डक्काडांकारकारिणी ॥ ८७॥  
+ठकुरा ठक्कुराज्ञा च ठण्ठन्निनदकारिणी ।  
+डमरूवादनपरा डक्काडाङ्कारकारिणी ॥ ८७॥  
   
 डाकिनी डामराचार्या डमडुमरवोत्कटा ।  
-ढक्का ढक्कारवाढ्या च ढंढाढुंढरवासिनी ॥ ८८॥  
+ढक्का ढक्कारवाढ्या च ढण्ढाढुण्ढरवासिनी ॥ ८८॥  
   
-ढुंढिपूरणदक्षा च ढुंढिराजप्रपूजिता ।  
+ढुण्ढिपूरणदक्षा च ढुण्ढिराजप्रपूजिता ।  
 तत्तातता महाताता तेजिनी तेजसान्विता ॥ ८२॥  
   
 तोयान्विता तोयकरी तटपातनकारिणो ।  
@@ -295,7 +295,7 @@ title = "सरयूसहस्रनामस्तोत्रम् (भु
 तुलसीसौरभाढ्या च तुलारहितरूपिणी ।  
 तन्वी तवममाकारा तपस्या तपसि स्थिता ॥ ९१॥  
   
-थेईथेईशब्दरता थंथुशब्दसुखावहा ।  
+थेईथेईशब्दरता थन्थुशब्दसुखावहा ।  
 दयावती दुःखहरा द्राविणी द्रवदेवता ॥ ९२॥  
   
 दीनदारिद्रथहरिणी दमिनी दमकारिणी ।  
@@ -478,7 +478,7 @@ title = "सरयूसहस्रनामस्तोत्रम् (भु
 एषा एषितवेदार्था एवमेवार्थरूपदा ।  
 एवकारार्थगम्या च एतच्छब्दार्थरूपिणी ॥ १५२॥  
   
-एता ऐता ऐकृतिश्च ऐन्द्री ऐंकाररूपिणी ।  
+एता ऐता ऐकृतिश्च ऐन्द्री ऐङ्काररूपिणी ।  
 ओता ओकाररूपा च औषधीशप्रपूजिता ॥ १५३॥  
   
 औन्नत्यकारिणी अम्बा अम्बिका अङ्कवर्जिता ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "vedAntakArikA"
-"File name" = "vedAntakArikA.itx"
-itxtitle = "vedAntakArikA"
-engtitle = "vedAntakArikA"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "buchchiveNkaTAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-"Proofread by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-Description-comments = "Primer on Ramanuja's Vedantic Philosophy."
-Indexextra = "(DLI scanned)"
-"Latest update" = "March 12, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदान्तकारिका"
+---
+Author: buchchiveNkaTAchArya
+Category: major_works
+Description-comments: Primer on Ramanuja's Vedantic Philosophy.
+File name: vedAntakArikA.itx
+Indexextra: (DLI scanned)
+Language: Sanskrit
+Latest update: March 12, 2017
+Location: doc_z_misc_major_works
+Proofread by: Ankur Nagpal ankurnagpal108 at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: vedAntakArikA
+Transliterated by: Ankur Nagpal ankurnagpal108 at gmail.com
+engtitle: vedAntakArikA
+itxtitle: vedAntakArikA
+title: वेदान्तकारिका
 
-+++
+---
   
  श्रीबुच्चिवेङ्कटाचार्यकृता वेदान्तकारिकावली   
   

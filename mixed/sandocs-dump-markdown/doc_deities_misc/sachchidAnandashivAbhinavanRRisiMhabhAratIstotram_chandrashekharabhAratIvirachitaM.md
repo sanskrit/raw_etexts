@@ -1,23 +1,23 @@
-+++
-"Text title" = "sachchidAnandashivAbhinavanRRisiMhabhAratIstotram"
-"File name" = "sachchidAnandashivAbhinavanRRisiMhabhAratIstotram.itx"
-itxtitle = "sachchidAnandashivAbhinavanRRisiMhabhAratIstotram (chandrashekharabhAratIvirachitaM)"
-engtitle = "sachchidAnandashivAbhinavanRRisiMhabhAratIstotram"
-Category = "deities_misc, chandrashekharabhAratI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Sri Chandrashekhara Bharati, the 34th Acharya of Sringeri Sharada Peetham"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "G Vasanth gsathyaarumugam at gmail.com"
-"Proofread by" = "G Vasanth gsathyaarumugam at gmail.com"
-"Latest update" = "January 25, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सच्चिदानन्दशिवाभिनवनृसिंहभारतीस्तोत्रम् (चन्द्रशेखरभारतीविरचितं)"
+---
+Author: Sri Chandrashekhara Bharati, the 34th Acharya of Sringeri Sharada Peetham
+Category: deities_misc, chandrashekharabhAratI
+File name: sachchidAnandashivAbhinavanRRisiMhabhAratIstotram.itx
+Language: Sanskrit
+Latest update: January 25, 2019
+Location: doc_deities_misc
+Proofread by: G Vasanth gsathyaarumugam at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: sachchidAnandashivAbhinavanRRisiMhabhAratIstotram
+Transliterated by: G Vasanth gsathyaarumugam at gmail.com
+engtitle: sachchidAnandashivAbhinavanRRisiMhabhAratIstotram
+itxtitle: sachchidAnandashivAbhinavanRRisiMhabhAratIstotram (chandrashekharabhAratIvirachitaM)
+title: सच्चिदानन्दशिवाभिनवनृसिंहभारतीस्तोत्रम् (चन्द्रशेखरभारतीविरचितं)
 
-+++
+---
   
  श्रीसच्चिदानन्दशिवाभिनवनृसिंहभारतीस्तोत्रम्   
 पाषण्डादि समस्त दुर्मत गज प्रोद्दण्ड कण्ठीरवान्  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ramayanarahasya by Vidyaranya"
-"File name" = "rAmAyaNarahasyamvidyAraNya.itx"
-itxtitle = "rAmAyaNarahasyamvidyAraNya (bAlakANda vidyAraNyavirachitam)"
-engtitle = "rAmAyaNarahasyamvidyAraNya"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Vidyaranya (Different than Swami Vidyaranya), Comments by Venkata Subramanian"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Venkata Subramanian venkatasubr at gmail.com"
-"Proofread by" = "Venkata Subramanian, Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Scholarly tratment of Gayatrimantra rahasya"
-"Latest update" = "February 24, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामायणरहस्यम्विद्यारण्य (बालकाण्द विद्यारण्यविरचितम्)"
+---
+Author: Vidyaranya (Different than Swami Vidyaranya), Comments by Venkata Subramanian
+Category: raama
+Description/comments: Scholarly tratment of Gayatrimantra rahasya
+File name: rAmAyaNarahasyamvidyAraNya.itx
+Language: Sanskrit
+Latest update: February 24, 2018
+Location: doc_raama
+Proofread by: Venkata Subramanian, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Ramayanarahasya by Vidyaranya
+Transliterated by: Venkata Subramanian venkatasubr at gmail.com
+engtitle: rAmAyaNarahasyamvidyAraNya
+itxtitle: rAmAyaNarahasyamvidyAraNya (bAlakANda vidyAraNyavirachitam)
+title: रामायणरहस्यम्विद्यारण्य (बालकाण्द विद्यारण्यविरचितम्)
 
-+++
+---
   
  रामायणरहस्यं विद्यारण्यकृतम्   
 श्रीः ॥  
@@ -385,14 +385,14 @@ of Gayatri mantra. In verses 1 to 4, the brahma gunas
 २)कारणत्वं ३)शरण्यत्वं ४)प्रकाशता ५)प्रकाशित्वं  
 ६) ध्येयता  and in last 4 letters नियन्तृता  
 . These qualities are described in the verses of 1st  
-sarga of Balakanda, known as संक्षेपरामायणं  
+sarga of Balakanda, known as सङ्क्षेपरामायणं  
 or, बालरामायणं or, मूलरामायणं or  
 नारदवाक्यं.These qualities of gayatri are brought  
 out in verses 1 to 18 of 1st sarga of Balakanda and in  
 verses 1 to 18 of Ramayanarahasya.  
   
 2) १)गुणाढ्यत्वं - is explained with reference  
-to संक्षेपरामायणं. The verses 2 to 18  
+to सङ्क्षेपरामायणं. The verses 2 to 18  
 of 1st sarga explain in detail the quality of)  
 गुणाढ्यत्वं.Similarly the other qualities are  
 explained in verses 12,15 etc.  
@@ -406,7 +406,7 @@ below
 त(तत्)       सत्यज्ञानादि (सत्यं ज्ञानं अनन्तं-स्वरूपलक्षणं )  
 स         सत्यप्रतिज्ञत्वं  
 वि         पराभिभूतिसामर्थ्यं  
-तु         श्रीविष्णोः चक्राद्यायुधसंग्रहः  
+तु         श्रीविष्णोः चक्राद्यायुधसङ्ग्रहः  
 व         श्रीभगवत अभयदायिता  
 रे         श्रीभगवतः भक्तनिषेव्यता (भक्तसेव्यता)  
 ण         ब्रह्मणः दीनानाथशरण्यता  
@@ -431,7 +431,7 @@ below
 स्मृति प्रमाणम् by SRI VIDYARANYA  
   
 In verses 48 to 62 ,the occurrence of all these 24 letters  
-of Gayatri Mantra in संक्षेपरामयणम् is explained.  
+of Gayatri Mantra in सङ्क्षेपरामयणम् is explained.  
 The letter sa is in verse in the first half of verse  
 23 स जगाम वनं वीरः प्रतिज्ञामानुपालयन् ।.  
 Similarly the presence of other letters in other verses  

@@ -1,24 +1,28 @@
-+++
-"Text title" = "sarasvatIstotra evaM vANIstavanaM yAjnavalkyokta"
-"File name" = "sarasvatIstotrayAjnavalkyaBVP.itx"
-itxtitle = "sarasvatIstotraM vANIstavanaM cha (yAjnavalkyoktam, brahmavaivarte evaM devIbhAgavate)"
-engtitle = "SarasvatIstotra by Yajnyavalkya"
-Category = "devii, sarasvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "brahmavaivartapurANa prakRitikhaNDa and devIbhAgavatam navamaskandha both adhyAya 5"
-"Latest update" = "January 31, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तोत्रं वाणीस्तवनं च (याज्ञवल्क्योक्तम्, ब्रह्मवैवर्ते एवं देवीभागवते)"
+---
+Category: devii, sarasvatI, stotra, devI
+Description-comments: brahmavaivartapurANa prakRitikhaNDa and devIbhAgavatam navamaskandha
+  both adhyAya 5
+File name: sarasvatIstotrayAjnavalkyaBVP.itx
+Language: Sanskrit
+Latest update: January 31, 2013
+Location: doc_devii
+Proofread by: Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIstotra evaM vANIstavanaM yAjnavalkyokta
+Texttype: stotra
+Transliterated by: Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+engtitle: SarasvatIstotra by Yajnyavalkya
+itxtitle: sarasvatIstotraM vANIstavanaM cha (yAjnavalkyoktam, brahmavaivarte evaM
+  devIbhAgavate)
+title: सरस्वतीस्तोत्रं वाणीस्तवनं च (याज्ञवल्क्योक्तम्, ब्रह्मवैवर्ते एवं देवीभागवते)
 
-+++
+---
   
  श्रीसरस्वतीस्तोत्रं अथवा वाणीस्तवनं याज्ञ्यवल्क्योक्त   
   
@@ -61,14 +65,14 @@ title = "सरस्वतीस्तोत्रं वाणीस्तव�
 यया विना जगत्सर्वं मूकमुन्मत्तवत्सदा ।  
 वागधिष्ठातृदेवी या तस्यै वाण्यै नमो नमः ॥ १२॥  
   
-हिमचन्दनकुन्देन्दुकुमुदाम्भोजसंनिभा ।  
+हिमचन्दनकुन्देन्दुकुमुदाम्भोजसन्निभा ।  
 वर्णाधिदेवी या तस्यै चाक्षरायै नमो नमः ॥ १३॥  
   
 विसर्ग बिन्दुमात्राणां यदधिष्ठानमेव च ।  
 इत्थं त्वं गीयसे सद्भिर्भारत्यै ते नमो नमः ॥ १४॥  
   
-यया विनाऽत्र संख्याकृत्संख्यां कर्तुं न शक्नुते ।  
-काल संख्यास्वरूपा या तस्यै देव्यै नमो नमः ॥ १५॥  
+यया विनाऽत्र सङ्ख्याकृत्सङ्ख्यां कर्तुं न शक्नुते ।  
+काल सङ्ख्यास्वरूपा या तस्यै देव्यै नमो नमः ॥ १५॥  
   
 व्याख्यास्वरूपा या देवी व्याख्याधिष्ठातृदेवता ।  
 भ्रमसिद्धान्तरूपा या तस्यै देव्यै नमो नमः ॥ १६॥  

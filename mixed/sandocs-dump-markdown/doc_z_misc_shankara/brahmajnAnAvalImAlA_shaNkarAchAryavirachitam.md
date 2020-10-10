@@ -1,24 +1,24 @@
-+++
-"Text title" = "Brahmajnanavalimala"
-"File name" = "brahmajna.itx"
-itxtitle = "brahmajnAnAvalImAlA (shaNkarAchAryavirachitam)"
-engtitle = "Brahmajnanavalimala"
-Category = "vedanta, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "vedanta/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Translated by" = "-"
-Indexextra = "(meaning 1, 2, Hindi)"
-"Latest update" = "Mar. 27, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मज्ञानावलीमाला (शण्कराचार्यविरचितम्)"
+---
+Author: Adi Shankaracharya
+Category: vedanta, shankarAchArya
+File name: brahmajna.itx
+Indexextra: (meaning 1, 2, Hindi)
+Language: Sanskrit
+Latest update: Mar. 27, 2002
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: vedanta/hinduism/religion
+Sublocation: shankara
+Text title: Brahmajnanavalimala
+Translated by: '-'
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Brahmajnanavalimala
+itxtitle: brahmajnAnAvalImAlA (shaNkarAchAryavirachitam)
+title: ब्रह्मज्ञानावलीमाला (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  ब्रह्मज्ञानावलीमाला   
   
@@ -41,7 +41,7 @@ title = "ब्रह्मज्ञानावलीमाला (शण्क
 शाश्वतानन्दरूपोऽहमहमेवाहमव्ययः ॥ ६॥  
   
 तत्त्वातीतः परात्माहं मध्यातीतः परः शिवः ।  
-मायातीतः परंज्योतिरहमेवाहमव्ययः ॥ ७॥  
+मायातीतः परञ्ज्योतिरहमेवाहमव्ययः ॥ ७॥  
   
 नानारूपव्यतीतोऽहं चिदाकारोऽहमच्युतः ।  
 सुखरूपस्वरूपोऽहमहमेवाहमव्ययः ॥ ८॥  
@@ -83,7 +83,7 @@ title = "ब्रह्मज्ञानावलीमाला (शण्क
 अनेन वेद्यं सच्छास्त्रमिति वेदान्तडिण्डिमः ॥ २०॥  
   
 अन्तर्ज्योतिर्बहिर्ज्योतिः प्रत्यग्ज्योतिः परात्परः ।  
-ज्योतिर्ज्योतिः स्वयंज्योतिरात्मज्योतिः शिवोऽस्म्यहम् ॥ २१॥  
+ज्योतिर्ज्योतिः स्वयञ्ज्योतिरात्मज्योतिः शिवोऽस्म्यहम् ॥ २१॥  
   
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  

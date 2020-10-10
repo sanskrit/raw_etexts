@@ -1,24 +1,24 @@
-+++
-"Text title" = "Panchagangashtakam"
-"File name" = "panchagangAShTakam.itx"
-itxtitle = "panchagaNgAShTakam"
-engtitle = "panchagangAShTakam"
-Category = "devii, devI, nadI, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Proofread by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Description/comments" = "Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty"
-Indexextra = "(Scan)"
-"Latest update" = "June 13, 2010"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पञ्चगण्गाष्टकम्"
+---
+Category: devii, devI, nadI, aShTaka
+Description/comments: Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty
+File name: panchagangAShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 13, 2010
+Location: doc_devii
+Proofread by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Panchagangashtakam
+Transliterated by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+engtitle: panchagangAShTakam
+itxtitle: panchagaNgAShTakam
+title: पञ्चगण्गाष्टकम्
 
-+++
+---
   
  पञ्चगङ्गाष्टकम्   
 श्रीगणेशाय नमः ।  
@@ -37,7 +37,7 @@ title = "पञ्चगण्गाष्टकम्"
 ध्यायन्ति यां शुभकरीं कलिकल्मषघ्नीं  
      सेयं सदा विजयते वरपञ्चगङ्गा ॥ ३॥  
   
-संप्राप्य ते सुकृतिनः शिवराजधानीं  
+सम्प्राप्य ते सुकृतिनः शिवराजधानीं  
      काशीं  भजन्ति मुदिता वरपञ्चगङ्गाम् ।  
 ते दुस्तरां गुणमयीं प्रतरन्ति मायां  
      लोकं पुनन्ति सकलं शिवभक्तियुक्ताः ॥ ४॥  

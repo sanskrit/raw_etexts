@@ -1,24 +1,24 @@
-+++
-"Text title" = "indra rachita lakShmIstotram"
-"File name" = "indralaxmistotra.itx"
-itxtitle = "lakShmIstotram sampadAkalShmIstotram cha (indrarachitam)"
-engtitle = "indra rachita lakShmIstotram"
-Category = "devii, lakShmI, stotra, vyAsa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Author = "Indra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekr at hotmail.com.com"
-"Latest update" = "December 3, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीस्तोत्रम् सम्पदाकल्ष्मीस्तोत्रम् च (इन्द्ररचितम्)"
+---
+Author: Indra
+Category: devii, lakShmI, stotra, vyAsa, devI
+File name: indralaxmistotra.itx
+Language: Sanskrit
+Latest update: December 3, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekr at hotmail.com.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: indra rachita lakShmIstotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: indra rachita lakShmIstotram
+itxtitle: lakShmIstotram sampadAkalShmIstotram cha (indrarachitam)
+title: लक्ष्मीस्तोत्रम् सम्पदाकल्ष्मीस्तोत्रम् च (इन्द्ररचितम्)
 
-+++
+---
   
  श्रीलक्ष्मीस्तोत्रं इन्द्ररचितम्   
   

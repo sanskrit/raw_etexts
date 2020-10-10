@@ -3,13 +3,12 @@ title: 049 Rama crossed three rivers
 title_english: 049 Rama crossed three rivers
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-049-Gomathyadi_Naditharanam.mp3"></div>
 
 रामः अपि रात्रि शेषेण तेन एव महद् अन्तरम् ।  
 जगाम पुरुष व्याघ्रः पितुर् आज्ञाम् अनुस्मरन् ॥ २-४९-१  
 तथैव गच्चतः तस्य व्यपायात् रजनी शिवा ।  
-उपास्य स शिवाम् संध्याम् विषय अन्तम् व्यगाहत ॥ २-४९-२  
+उपास्य स शिवाम् सन्ध्याम् विषय अन्तम् व्यगाहत ॥ २-४९-२  
 ग्रामान् विकृष्ट सीमान् तान् पुष्पितानि वनानि च ।  
 पश्यन्न् अतिययौ शीघ्रम् शरैः इव हय उत्तमैः ॥ २-४९-३  
 शृण्वन् वाचो मनुष्याणाम् ग्राम सम्वास वासिनाम् ।  

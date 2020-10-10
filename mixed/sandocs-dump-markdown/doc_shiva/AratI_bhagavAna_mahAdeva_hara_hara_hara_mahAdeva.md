@@ -1,22 +1,22 @@
-+++
-"Text title" = "Arati Bhagavana mahadeva"
-"File name" = "AratIbhagavAnamahAdeva.itx"
-itxtitle = "AratI bhagavAna mahAdeva (hara hara hara mahAdeva)"
-engtitle = "Arati Bhagavana mahadeva"
-Category = "shiva, AratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Hindi"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Description/comments" = "From Shivastotraratnakara, Gita press"
-Indexextra = "(Scan)"
-"Latest update" = "October 1, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आरती भगवान महादेव (हर हर हर महादेव)"
+---
+Category: shiva, AratI
+Description/comments: From Shivastotraratnakara, Gita press
+File name: AratIbhagavAnamahAdeva.itx
+Indexextra: (Scan)
+Language: Hindi
+Latest update: October 1, 2018
+Location: doc_shiva
+Proofread by: Ganesh Kandu kanduganesh at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Arati Bhagavana mahadeva
+engtitle: Arati Bhagavana mahadeva
+itxtitle: AratI bhagavAna mahAdeva (hara hara hara mahAdeva)
+title: आरती भगवान महादेव (हर हर हर महादेव)
 
-+++
+---
   
  आरती भगवान महादेव   
 हर हर हर महादेव ॥  

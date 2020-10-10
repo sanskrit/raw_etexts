@@ -1,23 +1,23 @@
-+++
-"Text title" = "majjagadgurusha.nkarAchAryabhuja.ngaprayAtastotra"
-"File name" = "shankarAchAryabhujangaprayAtastotra.itx"
-itxtitle = "shaNkarAchAryabhujaNgaprayAtastotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "shankarAchAryabhujangaprayAta stotram"
-Category = "deities_misc, bhujanga, shankarAchArya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Subcategory = "bhujanga"
-Author = "sachchidAnanda-shivAbhinava-nRisiMhabhAratI mahAsvAmibhiH"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Transliterated by" = "Ramakrishna Upadrasta uramakrishna at gmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com Ramakrishna Upadrasta"
-"Latest update" = "May 21, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शण्कराचार्यभुजण्गप्रयातस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: sachchidAnanda-shivAbhinava-nRisiMhabhAratI mahAsvAmibhiH
+Category: deities_misc, bhujanga, shankarAchArya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: shankarAchAryabhujangaprayAtastotra.itx
+Language: Sanskrit
+Latest update: May 21, 2012
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com Ramakrishna Upadrasta
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhujanga
+Subject: hinduism
+Sublocation: deities_misc
+Text title: majjagadgurusha.nkarAchAryabhuja.ngaprayAtastotra
+Transliterated by: Ramakrishna Upadrasta uramakrishna at gmail.com
+engtitle: shankarAchAryabhujangaprayAta stotram
+itxtitle: shaNkarAchAryabhujaNgaprayAtastotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: शण्कराचार्यभुजण्गप्रयातस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीशङ्कराचार्यभुजङ्गप्रयातस्तोत्रम्   
   

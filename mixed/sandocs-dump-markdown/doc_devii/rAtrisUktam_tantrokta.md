@@ -1,26 +1,26 @@
-+++
-"Text title" = "raatrisuuktam.h"
-"File name" = "raatrisuukta2.itx"
-itxtitle = "rAtrisUktam tantrokta"
-engtitle = "rAtrisUktam"
-Category = "sUkta, devii, otherforms, svara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "svara"
-Author = "Vedic Rishi"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "A prayer to the Goddess for joyful sleep."
-Indexextra = "(popular)"
-"Latest update" = "Nov. 17, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रात्रिसूक्तम् तन्त्रोक्त"
+---
+Author: Vedic Rishi
+Category: sUkta, devii, otherforms, svara, devI
+Description-comments: A prayer to the Goddess for joyful sleep.
+File name: raatrisuukta2.itx
+Indexextra: (popular)
+Language: Sanskrit
+Latest update: Nov. 17, 1998
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: hinduism
+Sublocation: devii
+Text title: raatrisuuktam.h
+Texttype: svara
+Transliterated by: NA
+engtitle: rAtrisUktam
+itxtitle: rAtrisUktam tantrokta
+title: रात्रिसूक्तम् तन्त्रोक्त
 
-+++
+---
   
  तन्त्रोक्त रात्रिसूक्तम्   
 विश्वेश्वरी जगद्धात्रीं स्थितिसंहारकारिणीम् ।  
@@ -31,13 +31,13 @@ title = "रात्रिसूक्तम् तन्त्रोक्त"
 सुधा त्वमक्षरे नित्ये त्रिधा मात्रात्मिका स्थिता ॥ २॥  
   
 अर्धमात्रा स्थिता नित्या यानुच्चार्या विशेषतः ।  
-त्वमेव संध्या सावित्री त्वं देवी जननी परा ॥ ३॥  
+त्वमेव सन्ध्या सावित्री त्वं देवी जननी परा ॥ ३॥  
   
 त्वयैतद्धार्यते विश्वं त्वयैतत्सृज्यते जगत् ।  
 त्वयैतत्पाल्यते देवि त्वमत्स्यन्तेच सर्वदा ॥ ४॥  
   
 विसृष्टौ सृष्टिरूपात्वम् स्थितिरूपाच पालने ।  
-तथा संहतिरूपांते जगतोऽस्य जगन्मये ॥ ५॥  
+तथा संहतिरूपान्ते जगतोऽस्य जगन्मये ॥ ५॥  
   
 महाविद्या महामाया महामेधामहास्मृतिः ।  
 महामोहा च भवती महादेवी महासुरी ॥ ६॥  
@@ -46,15 +46,15 @@ title = "रात्रिसूक्तम् तन्त्रोक्त"
 कालरात्रिर्महारात्रिर्मोहरात्रिश्च दारुणा ॥ ७॥  
   
 त्वं श्रीस्त्वमीश्वरी त्वं ऱ्हीस्त्वं बुद्धिर्बोधलक्षणा ।  
-लज्जा पुष्टिस्तथा तुष्टिस्त्वं शांतिः क्षांतिरेवच ॥ ८॥  
+लज्जा पुष्टिस्तथा तुष्टिस्त्वं शान्तिः क्षान्तिरेवच ॥ ८॥  
   
 खङ्गिनी शृलिनी घोरा गदिनी चक्रिणी तथा ।  
-शंखिनी चापिनी बाणभुशुंडीपरिधायुधा ॥ ९॥  
+शङ्खिनी चापिनी बाणभुशुण्डीपरिधायुधा ॥ ९॥  
   
-सौम्या सौम्यतराशेषसौम्येभ्यस्त्वतिसुंदरी ।  
+सौम्या सौम्यतराशेषसौम्येभ्यस्त्वतिसुन्दरी ।  
 परापराणां परमा त्वमेव परमेश्वरी ॥ १०॥  
   
-यच्च किंचित क्वचिद्वस्तु सदसद्धाखिलात्मिके ।  
+यच्च किञ्चित क्वचिद्वस्तु सदसद्धाखिलात्मिके ।  
 तत्त्व सर्वस्य या शक्तिः सात्वं किं स्तूयसे सदा ॥ ११॥  
   
 यया त्वया जगस्रष्टा जगत्पात्यतियो जगत् ।  

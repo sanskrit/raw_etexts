@@ -1,21 +1,21 @@
-+++
-"Text title" = "mahAkAlabhairavAShTakam"
-"File name" = "mahAkAlabhairavAShTakam.itx"
-itxtitle = "mahAkAlabhairavAShTakam vA tIkShNada.nShTrakAlabhairavAShTakam bhairavataNDavastotram"
-engtitle = "mahAkAlabhairavAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangari sunderh at hotmail.com, Ruma Dewan"
-Indexextra = "(Text, Videos 1, 2, 3)"
-"Latest update" = "June 19, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालभैरवाष्टकम् वा तीक्ष्णदंष्ट्रकालभैरवाष्टकम् भैरवतण्डवस्तोत्रम्"
+---
+Category: aShTaka, shiva
+File name: mahAkAlabhairavAShTakam.itx
+Indexextra: (Text, Videos 1, 2, 3)
+Language: Sanskrit
+Latest update: June 19, 2020
+Location: doc_shiva
+Proofread by: Sunder Hattangari sunderh at hotmail.com, Ruma Dewan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mahAkAlabhairavAShTakam
+engtitle: mahAkAlabhairavAShTakam
+itxtitle: mahAkAlabhairavAShTakam vA tIkShNada.nShTrakAlabhairavAShTakam bhairavataNDavastotram
+title: महाकालभैरवाष्टकम् वा तीक्ष्णदंष्ट्रकालभैरवाष्टकम् भैरवतण्डवस्तोत्रम्
 
-+++
+---
   
  महाकालभैरवाष्टकम् अथवा तीक्ष्णदंष्ट्रकालभैरवाष्टकम्   
               ॐ  
@@ -46,7 +46,7 @@ title = "महाकालभैरवाष्टकम् वा तीक्
   
 खं खं खं खड्गभेदं विषममृतमयं कालकालं करालं  
     क्षं क्षं क्षं क्षिप्रवेगं दहदहदहनं तप्तसन्दीप्यमानम् ।  
-हौं हौं हौंकारनादं प्रकटितगहनं गर्जितैर्भूमिकम्पं ( var  हं हं हङ्कारनादम्)  
+हौं हौं हौङ्कारनादं प्रकटितगहनं गर्जितैर्भूमिकम्पं ( var  हं हं हङ्कारनादम्)  
     बं बं बं बाललीलं प्रणमत सततं भैरवं क्षेत्रपालम् ॥ ६॥  
   
 सं सं सं सिद्धियोगं सकलगुणमखं देवदेवं प्रसन्नं (? सिद्धयोगं)  
@@ -56,7 +56,7 @@ title = "महाकालभैरवाष्टकम् वा तीक्
   
 हं हं हं हंसयानं हसितकलहकं मुक्तयोगाट्टहासं  
     धं धं धं नेत्ररूपं शिरमुकुटजटाबन्धबन्धाग्रहस्तम् ।  
-टं टं टंकारनादं त्रिदशलटलटं कामगर्वापहारं  
+टं टं टङ्कारनादं त्रिदशलटलटं कामगर्वापहारं  
 ( var  हं हं हङ्कारनानदम् त्रिदशलटलटं कामदर्पापहारं)  
     भ्रुं भ्रुं भ्रुं भूतनाथं प्रणमत सततं भैरवं क्षेत्रपालम् ॥ ८॥   
   

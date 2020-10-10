@@ -3,7 +3,6 @@ title: 107 Rama tells Bharata about Dasaratha s promise of kingdom
 title_english: 107 Rama tells Bharata about Dasaratha s promise of kingdom
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-107-Ramasya_Pitragnaa_Palana_Kathanam.mp3"></div>
 
 पुनर् एवम् ब्रुवाणम् तु भरतम् लक्ष्मण अग्रजः ।  

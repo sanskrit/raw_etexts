@@ -1,22 +1,22 @@
-+++
-"Text title" = "ketustotram 2"
-"File name" = "ketustotram2.itx"
-itxtitle = "ketustotram 2"
-engtitle = "ketustotram 2"
-Category = "navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "BhaktivivekasAra"
-Indexextra = "(Scanned)"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "केतुस्तोत्रम् २"
+---
+Category: navagraha
+Description/comments: BhaktivivekasAra
+File name: ketustotram2.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: ketustotram 2
+engtitle: ketustotram 2
+itxtitle: ketustotram 2
+title: केतुस्तोत्रम् २
 
-+++
+---
   
  केतुस्तोत्रम् २   
 ॐ धूम्रा द्विबाहवः सर्वे गोदानो विकृताननाः ।  

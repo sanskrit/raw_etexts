@@ -1,25 +1,27 @@
-+++
-"Text title" = "upadeshasAram Essence of Advice"
-"File name" = "upadeshasAram1.itx"
-itxtitle = "upadeshasAram sArtha (ramaNamaharShIkRitam)"
-engtitle = "upadeshasAram Engilsh translation, Essence of Advice"
-Category = "major_works, ramaNa-maharShi"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Shri Ramanamaharshi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rodrigo Gomes Ferreira rodrigo at vedanta.pro.br"
-"Proofread by" = "Gloria Arieira; Paula Ornelas at www.vidyamandir.org.br; Rodrigo Gomes Ferreira www.vedanta.pro.br"
-"Translated by" = "B. V. Narasimhaswami supplied M. Giridhar Formatting help Ravi Nistala nvvnravi at gmail.com"
-Indexextra = "(audio San/Maly/Telugu, meaning by Ramana maharshi)"
-"Latest update" = "June 25, 2008, July 2, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उपदेशसारम् सार्थ (रमणमहर्षीकृइतम्)"
+---
+Author: Shri Ramanamaharshi
+Category: major_works, ramaNa-maharShi
+File name: upadeshasAram1.itx
+Indexextra: (audio San/Maly/Telugu, meaning by Ramana maharshi)
+Language: Sanskrit
+Latest update: June 25, 2008, July 2, 2011
+Location: doc_z_misc_major_works
+Proofread by: Gloria Arieira; Paula Ornelas at www.vidyamandir.org.br; Rodrigo Gomes
+  Ferreira www.vedanta.pro.br
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: upadeshasAram Essence of Advice
+Texttype: pramukha
+Translated by: B. V. Narasimhaswami supplied M. Giridhar Formatting help Ravi Nistala
+  nvvnravi at gmail.com
+Transliterated by: Rodrigo Gomes Ferreira rodrigo at vedanta.pro.br
+engtitle: upadeshasAram Engilsh translation, Essence of Advice
+itxtitle: upadeshasAram sArtha (ramaNamaharShIkRitam)
+title: उपदेशसारम् सार्थ (रमणमहर्षीकृइतम्)
 
-+++
+---
   
  सार्थ उपदेशसारम्   
    Original Tamil upadesha undiyar of  
@@ -327,7 +329,7 @@ The search, itself, the quest of Wisdom is.
   
   
   
-अहमि नाशभाज्यहमहंतया ।  
+अहमि नाशभाज्यहमहन्तया ।  
 स्फुरति हृत्स्वयं परमपूर्णसत् ॥ २०॥  
   
   
@@ -458,7 +460,7 @@ Rapt in perpetual service of the Lord.
   
   
 अहमपेतकं निजविभानकम् ।  
-महदिदंतपो रमनवागियम् ॥ ३०॥  
+महदिदन्तपो रमनवागियम् ॥ ३०॥  
   
   
   
@@ -470,7 +472,7 @@ So teaches Bhagavan Sri Ramana,
 Who is the SELF of everything that is.  
   
   
-॥ इति रमणमहर्षीकृतम् उपदेशसारम् संपूर्णम् ॥  
+॥ इति रमणमहर्षीकृतम् उपदेशसारम् सम्पूर्णम् ॥  
   
  upadeshasAram Essence of Advice   
 ॥ उपदेशसारम् ॥  
@@ -532,7 +534,7 @@ Who is the SELF of everything that is.
 अहमयं कुतो भवति चिन्वतः ।  
 अयि पतत्यहं निजविचारणम् ॥ १९॥  
   
-अहमि नाशभाज्यहमहंतया ।  
+अहमि नाशभाज्यहमहन्तया ।  
 स्फुरति हृत्स्वयं परमपूर्णसत् ॥ २०॥  
   
 इदमहं पदाऽभिख्यमन्वहम् ।  
@@ -563,9 +565,9 @@ Who is the SELF of everything that is.
 विन्दतीह जीवस्तु दैविकः ॥ २९॥  
   
 अहमपेतकं निजविभानकम् ।  
-महदिदंतपो रमनवागियम् ॥ ३०॥  
+महदिदन्तपो रमनवागियम् ॥ ३०॥  
   
-॥ इति रमणमहर्षीकृतम् उपदेशसारम् संपूर्णम् ॥  
+॥ इति रमणमहर्षीकृतम् उपदेशसारम् सम्पूर्णम् ॥  
   
   
 Encoded and proofread by  

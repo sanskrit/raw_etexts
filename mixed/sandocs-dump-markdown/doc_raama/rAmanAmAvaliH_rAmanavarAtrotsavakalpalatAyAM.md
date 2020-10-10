@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAmanAmAvalI from rAmotsavakalpalatA"
-"File name" = "rAmanAmAvalIrAmotsavakalpalatA.itx"
-itxtitle = "rAmanAmAvaliH (rAmanavarAtrotsavakalpalatAyAM)"
-engtitle = "rAmanAmAvalI from rAmotsavakalpalatA"
-Category = "raama, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-"Proofread by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "October 5, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामनामावलिः (रामनवरात्रोत्सवकल्पलतायां)"
+---
+Category: raama, aShTottarashatanAmAvalI, nAmAvalI
+File name: rAmanAmAvalIrAmotsavakalpalatA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: October 5, 2018
+Location: doc_raama
+Proofread by: lalitha parameswari parameswari.lalitha at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmanAmAvalI from rAmotsavakalpalatA
+Transliterated by: lalitha parameswari parameswari.lalitha at gmail.com
+engtitle: rAmanAmAvalI from rAmotsavakalpalatA
+itxtitle: rAmanAmAvaliH (rAmanavarAtrotsavakalpalatAyAM)
+title: रामनामावलिः (रामनवरात्रोत्सवकल्पलतायां)
 
-+++
+---
   
  श्रीरामोत्सवकल्पलतोद्धृता श्रीरामनामावलिः   
   

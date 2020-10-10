@@ -1,23 +1,23 @@
-+++
-"Text title" = "dInabandhvaShTakam"
-"File name" = "dInabandhvaShTakam.itx"
-itxtitle = "dInabandhvaShTakam"
-engtitle = "dInabandhvaShTakam"
-Category = "aShTaka, vishhnu, vishnu_misc, brahmAnanda, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Author = "Swami Barhmananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(brahmAnanda)"
-"Latest update" = "June 13, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दीनबन्ध्वष्टकम्"
+---
+Author: Swami Barhmananda
+Category: aShTaka, vishhnu, vishnu_misc, brahmAnanda, vishnu
+File name: dInabandhvaShTakam.itx
+Indexextra: (brahmAnanda)
+Language: Sanskrit
+Latest update: June 13, 2013
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dInabandhvaShTakam
+engtitle: dInabandhvaShTakam
+itxtitle: dInabandhvaShTakam
+title: दीनबन्ध्वष्टकम्
 
-+++
+---
   
  श्रीदीनबन्ध्वष्टकम्   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Arunachala Pancharatnam with Varttika"
-"File name" = "aruNAchalapancharatnavArttikam.itx"
-itxtitle = "aruNAchalapancharatnavArttikam"
-engtitle = "Arunachala Pancharatna Varttikam"
-Category = "pancharatna, shiva, ramaNa-maharShi"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Shri Ramana Maharshi; varttikam by K.Lakshmana Sharma('WHO')"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Hymn of 5 verses, with commentary. Ramanashrama publication"
-Acknowledge-Permission = "Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org"
-"Latest update" = "November 7, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अरुणाचलपञ्चरत्नवार्त्तिकम्"
+---
+Acknowledge-Permission: Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org
+Author: Shri Ramana Maharshi; varttikam by K.Lakshmana Sharma('WHO')
+Category: pancharatna, shiva, ramaNa-maharShi
+Description-comments: Hymn of 5 verses, with commentary. Ramanashrama publication
+File name: aruNAchalapancharatnavArttikam.itx
+Language: Sanskrit
+Latest update: November 7, 2014
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Arunachala Pancharatnam with Varttika
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Arunachala Pancharatna Varttikam
+itxtitle: aruNAchalapancharatnavArttikam
+title: अरुणाचलपञ्चरत्नवार्त्तिकम्
 
-+++
+---
   
  अरुणाचलपञ्चरत्नवार्त्तिकम्   
   

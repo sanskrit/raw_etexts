@@ -1,25 +1,26 @@
-+++
-"Text title" = "govardhanavAsaprArthanAdashakam"
-"File name" = "govardhanavAsaprArthanAdashakam.itx"
-itxtitle = "govardhanavAsaprArthanAdashakam (raghunAthadAsagosvAmivirachitam)"
-engtitle = "govardhanavAsaprArthanAdashakam"
-Category = "vishhnu, krishna, raghunAthadAsagosvAmin, stavAvalI, dashaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोवर्धनवासप्रार्थनादशकम् (रघुनाथदासगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: vishhnu, krishna, raghunAthadAsagosvAmin, stavAvalI, dashaka
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: govardhanavAsaprArthanAdashakam.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: govardhanavAsaprArthanAdashakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: govardhanavAsaprArthanAdashakam
+itxtitle: govardhanavAsaprArthanAdashakam (raghunAthadAsagosvAmivirachitam)
+title: गोवर्धनवासप्रार्थनादशकम् (रघुनाथदासगोस्वामिविरचितम्)
 
-+++
+---
   
  गोवर्धनवासप्रार्थनादशकम्   
 निजपतिभुजदण्डच्छत्रभावं प्रपद्य  

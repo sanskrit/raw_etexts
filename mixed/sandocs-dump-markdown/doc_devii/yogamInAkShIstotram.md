@@ -1,23 +1,23 @@
-+++
-"Text title" = "yogamInAkShi stotra"
-"File name" = "yogamInAkShI.itx"
-itxtitle = "yogamInAkShIstotram"
-engtitle = "yogamInAkShI stotram"
-Category = "devii, mInAkShI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "mInAkShI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at sify.com"
-"Proofread by" = "N.Balasubramanian, K Kalyanaraman srimatha12 at gmail.com"
-"Latest update" = "June 25, 2012, October 26, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगमीनाक्षीस्तोत्रम्"
+---
+Category: devii, mInAkShI, stotra, devI
+File name: yogamInAkShI.itx
+Language: Sanskrit
+Latest update: June 25, 2012, October 26, 2016
+Location: doc_devii
+Proofread by: N.Balasubramanian, K Kalyanaraman srimatha12 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: mInAkShI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yogamInAkShi stotra
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalu at sify.com
+engtitle: yogamInAkShI stotram
+itxtitle: yogamInAkShIstotram
+title: योगमीनाक्षीस्तोत्रम्
 
-+++
+---
   
  श्रीयोगमीनाक्षीस्तोत्रम्   
   

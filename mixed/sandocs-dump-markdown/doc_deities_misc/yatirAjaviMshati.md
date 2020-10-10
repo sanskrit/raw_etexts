@@ -1,21 +1,21 @@
-+++
-"Text title" = "yatirAjaviMshati"
-"File name" = "yatirAjaviMshati.itx"
-itxtitle = "yatirAjaviMshati"
-engtitle = "yatirAjaviMshati"
-Category = "viMshati, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-"Proofread by" = "Ankur Nagpal ankurnagpal108 at gmail.com, NA"
-"Latest update" = "June 11, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यतिराजविंशति"
+---
+Category: viMshati, deities_misc
+File name: yatirAjaviMshati.itx
+Language: Sanskrit
+Latest update: June 11, 2016
+Location: doc_deities_misc
+Proofread by: Ankur Nagpal ankurnagpal108 at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: yatirAjaviMshati
+Transliterated by: Ankur Nagpal ankurnagpal108 at gmail.com
+engtitle: yatirAjaviMshati
+itxtitle: yatirAjaviMshati
+title: यतिराजविंशति
 
-+++
+---
   
  श्रीयतिराजविंशतिः   
   

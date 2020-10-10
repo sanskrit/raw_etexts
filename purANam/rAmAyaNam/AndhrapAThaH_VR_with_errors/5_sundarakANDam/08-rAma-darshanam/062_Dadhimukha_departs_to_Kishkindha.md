@@ -3,7 +3,6 @@ title: 062 Dadhimukha departs to Kishkindha
 title_english: 062 Dadhimukha departs to Kishkindha
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-062-Dadhimukha_departs_to_Kishkindha.mp3"></div>
 
 तान् उवाच हरि श्रेष्ठो हनूमान् वानर ऋषभः ।  
@@ -64,7 +63,7 @@ title_english: 062 Dadhimukha departs to Kishkindha
 मुमोह सहसा वीरो मुहूर्तम् कपि कुन्जरः ॥ ५-६२-२८  
 स समाश्वस्य सहसा सम्क्रुद्धो राजमातुलः ।  
 वानरान्वारयामास दण्डेन मधुमोहितान् ॥ ५-६२-२९  
-स कथंचित् विमुक्तः तैः वानरैः वानर ऋषभः ।  
+स कथञ्चित् विमुक्तः तैः वानरैः वानर ऋषभः ।  
 उवाच एक अन्तम् आगम्य भृत्यान् तान् समुपागतान् ॥ ५-६२-३०  
 एते तिष्ठन्तु गच्छामो भर्ता नो यत्र वानरः ।  
 सुग्रीवो विपुल ग्रीवः सह रामेण तिष्ठति ॥ ५-६२-३१  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "devatAhvAnaprakAraH"
-"File name" = "devatAhvAnaprakAraH.itx"
-itxtitle = "devatAhvAnaprakAraH (vAdirAjavirachitaH gadyaH)"
-engtitle = "Devata AhvanaprakaraH (prose)"
-Category = "vishhnu, venkateshwara, vAdirAja, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Author = "Vadiraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Indexextra = "(Scan)"
-"Latest update" = "January 1, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवताह्वानप्रकारः (वादिराजविरचितः गद्यः)"
+---
+Author: Vadiraja
+Category: vishhnu, venkateshwara, vAdirAja, vishnu
+File name: devatAhvAnaprakAraH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 1, 2018
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: devatAhvAnaprakAraH
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Devata AhvanaprakaraH (prose)
+itxtitle: devatAhvAnaprakAraH (vAdirAjavirachitaH gadyaH)
+title: देवताह्वानप्रकारः (वादिराजविरचितः गद्यः)
 
-+++
+---
   
  देवताह्वानप्रकारः (गद्यम्)   
   

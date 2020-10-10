@@ -1,21 +1,21 @@
-+++
-"Text title" = "prAtaHsmaraNamangalastotram"
-"File name" = "prAtaHsmaraNamangalastotram.itx"
-itxtitle = "prAtaHsmaraNamaNgalastotram"
-engtitle = "prAtaHsmaraNamangalastotram"
-Category = "vishhnu, mangala, suprabhAta"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रातःस्मरणमण्गलस्तोत्रम्"
+---
+Category: vishhnu, mangala, suprabhAta
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: prAtaHsmaraNamangalastotram.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: prAtaHsmaraNamangalastotram
+engtitle: prAtaHsmaraNamangalastotram
+itxtitle: prAtaHsmaraNamaNgalastotram
+title: प्रातःस्मरणमण्गलस्तोत्रम्
 
-+++
+---
   
  प्रातःस्मरणमङ्गलस्तोत्रम्   
 उत्तिष्ठोत्तिष्ठ गोविन्द उत्तिष्ठ गरुडध्वज ।  

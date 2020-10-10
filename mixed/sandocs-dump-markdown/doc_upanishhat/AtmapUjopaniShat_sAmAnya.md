@@ -1,24 +1,26 @@
-+++
-"Text title" = "AtmapujA Upanishad"
-"File name" = "atmapujopanishad.itx"
-itxtitle = "AtmapUjopaniShat (sAmAnya)"
-engtitle = "AtmapUjopaniShat"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sharad Chandarana kandarp12003 at yahoo.com"
-"Proofread by" = "Sharad Chandarana kandarp12003 at yahoo.com"
-Description-comments = "Atmapujopanishad from the book @@108 Upanishad@@ compiled Pandit ShriRam Sharma Acharya. The book has Sanskrit text and Hindi translation, and is published by BrahmaVarchas in Haridwar (UP), India (published in samvat 2055)."
-Indexextra = "(Osho)"
-"Latest update" = "January 31, 2005, November 7, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आत्मपूजोपनिषत् (सामान्य)"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: Atmapujopanishad from the book @@108 Upanishad@@ compiled Pandit
+  ShriRam Sharma Acharya. The book has Sanskrit text and Hindi translation, and is
+  published by BrahmaVarchas in Haridwar (UP), India (published in samvat 2055).
+File name: atmapujopanishad.itx
+Indexextra: (Osho)
+Language: Sanskrit
+Latest update: January 31, 2005, November 7, 2015
+Location: doc_upanishhat
+Proofread by: Sharad Chandarana kandarp12003 at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: AtmapujA Upanishad
+Transliterated by: Sharad Chandarana kandarp12003 at yahoo.com
+engtitle: AtmapUjopaniShat
+itxtitle: AtmapUjopaniShat (sAmAnya)
+title: आत्मपूजोपनिषत् (सामान्य)
 
-+++
+---
   
  आत्मपूजोपनिषत्   
   
@@ -36,7 +38,7 @@ title = "आत्मपूजोपनिषत् (सामान्य)"
 सूर्यात्मकत्वं दीपः ।  var  चिदादित्यस्वरूपं दीपः  
 परिपूर्णचन्द्रामृतरसैकीकरणं नैवेद्यम् ।  
 निश्चलत्वं प्रदक्षिणम् ।  
-सोऽहंभावो नमस्कारः ।  
+सोऽहम्भावो नमस्कारः ।  
 परमेश्वरस्तुतिर्मौनम् ।  
 सदासन्तोषो विसर्जनम् ।  
 एवं परिपूर्णराजयोगिनः सर्वात्मकपूजोपचारः स्यात् ।  

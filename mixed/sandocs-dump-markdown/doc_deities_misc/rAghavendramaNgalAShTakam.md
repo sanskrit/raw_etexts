@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAghavendramangalAShTakam"
-"File name" = "rAghavendramangalAShTakam.itx"
-itxtitle = "rAghavendramaNgalAShTakam"
-engtitle = "rAghavendramangalAShTakam"
-Category = "deities_misc, stotra, gurudev, mangala, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राघवेन्द्रमण्गलाष्टकम्"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: deities_misc, stotra, gurudev, mangala, aShTaka
+File name: rAghavendramangalAShTakam.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: rAghavendramangalAShTakam
+engtitle: rAghavendramangalAShTakam
+itxtitle: rAghavendramaNgalAShTakam
+title: राघवेन्द्रमण्गलाष्टकम्
 
-+++
+---
   
  श्री राघवेन्द्र मङ्गलाष्टकम्   
 श्रीमद्रामपादारविन्दमधुपः श्रीमध्ववंशाधिपः  

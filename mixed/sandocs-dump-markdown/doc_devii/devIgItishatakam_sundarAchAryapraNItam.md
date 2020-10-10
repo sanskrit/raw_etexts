@@ -1,22 +1,23 @@
-+++
-"Text title" = "devIgItishatakam"
-"File name" = "devIgItishatakam.itx"
-itxtitle = "devIgItishatakam (sundarAchAryapraNItam)"
-engtitle = "devIgItishatakam"
-Category = "shataka, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Sundaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "March 23, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीगीतिशतकम् (सुन्दराचार्यप्रणीतम्)"
+---
+Author: Sundaracharya
+Category: shataka, devii, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: devIgItishatakam.itx
+Language: Sanskrit
+Latest update: March 23, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIgItishatakam
+engtitle: devIgItishatakam
+itxtitle: devIgItishatakam (sundarAchAryapraNItam)
+title: देवीगीतिशतकम् (सुन्दराचार्यप्रणीतम्)
 
-+++
+---
   
  देवीगीतिशतकम्   
   

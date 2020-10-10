@@ -1,24 +1,24 @@
-+++
-"Text title" = "In Praise of Vishnu in His Ten Incarnations"
-"File name" = "dashavatarastuti.itx"
-itxtitle = "dashAvatArastutiH"
-engtitle = "In Praise of Vishnu in His Ten Incarnations"
-Category = "vishhnu, dashAvatAra, stotra, vAdirAja, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Author = "Sri Vadiraja Tiirtha"
-Language = "Sanskrit"
-Subject = "tattvavaada"
-"Transliterated by" = "Anand Ravipati"
-"Proofread by" = "Meera Tadipatri , Shrisha Rao"
-"Latest update" = "July 14, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com,info@dvaita.net,aravipati@dvaita.net"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतारस्तुतिः"
+---
+Author: Sri Vadiraja Tiirtha
+Category: vishhnu, dashAvatAra, stotra, vAdirAja, vishnu
+File name: dashavatarastuti.itx
+Language: Sanskrit
+Latest update: July 14, 2000
+Location: doc_vishhnu
+Proofread by: Meera Tadipatri , Shrisha Rao
+Send corrections to: Sanskrit@cheerful.com,info@dvaita.net,aravipati@dvaita.net
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: tattvavaada
+Sublocation: vishhnu
+Text title: In Praise of Vishnu in His Ten Incarnations
+Texttype: stotra
+Transliterated by: Anand Ravipati
+engtitle: In Praise of Vishnu in His Ten Incarnations
+itxtitle: dashAvatArastutiH
+title: दशावतारस्तुतिः
 
-+++
+---
   
  दशावतारस्तुती   
   
@@ -59,8 +59,8 @@ title = "दशावतारस्तुतिः"
   
 दम्भोलितीक्ष्णनख सम्भेदितेन्द्ररिपु कुम्भीन्द्र पाहि कृपया  ।  
 स्तम्भार्भ कासहनडिम्भाय दत्तवर गम्भीरनाद नृहरे  ।  
-अंभोधिजानुसरणांभोजभूपवनकुम्भीनसेशखगराट्  ।  
-कुम्भीन्द्रकृत्तिधर जम्भारिषण्मुखमुखांभोरुहाभिनुत माम्  ॥ ८॥  
+अम्भोधिजानुसरणाम्भोजभूपवनकुम्भीनसेशखगराट्  ।  
+कुम्भीन्द्रकृत्तिधर जम्भारिषण्मुखमुखाम्भोरुहाभिनुत माम्  ॥ ८॥  
   
 पिङ्गाक्ष विक्रम तुरङ्गादि सैन्य चतुरङ्गा वलिप्त दनुजा-  
 साङ्गाध्वरस्थ बलि साङ्गावपात हृषिताङ्गा मरालिनुत ते  ।  
@@ -102,7 +102,7 @@ title = "दशावतारस्तुतिः"
 यान्तं भवारतिभयान्तं ममाशु भगवन्तं भरेण भजतात्  ।  
 स्वान्तं सवारिदनुजान्तं धराधरनिशान्तं स तापसवरम्  ॥ १६॥  
   
-शम्पाभचापलवकंपास्तशत्रुबलसम्पादितामितयशाः  ।  
+शम्पाभचापलवकम्पास्तशत्रुबलसम्पादितामितयशाः  ।  
 शं पादतामरससम्पातिनोऽलमनुकम्पारसेन दिश मे  ।  
 सम्पातिपक्षिसहजं पापिरावणहतं पावनं यदकृथाः  ।  
 त्वं पापकूपपतितं पाहि मां तदपि पम्पासरस्तटचर  ॥ १७॥  

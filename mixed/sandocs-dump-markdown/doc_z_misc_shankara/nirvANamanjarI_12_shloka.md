@@ -1,25 +1,25 @@
-+++
-"Text title" = "Nirvanamanjari"
-"File name" = "nirvanamanjari.itx"
-itxtitle = "nirvANamanjarI (12 shloka)"
-engtitle = "Nirvanamanjari"
-Category = "vedanta, advice, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Texttype = "advice"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "vedanta/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Translated by" = "-"
-Description-comments = "12 verses on atman-brahman identity"
-"Latest update" = "April 02, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "निर्वाणमञ्जरी (१२ श्लोक)"
+---
+Author: Adi Shankaracharya
+Category: vedanta, advice, shankarAchArya
+Description-comments: 12 verses on atman-brahman identity
+File name: nirvanamanjari.itx
+Language: Sanskrit
+Latest update: April 02, 2002
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: vedanta/hinduism/religion
+Sublocation: shankara
+Text title: Nirvanamanjari
+Texttype: advice
+Translated by: '-'
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Nirvanamanjari
+itxtitle: nirvANamanjarI (12 shloka)
+title: निर्वाणमञ्जरी (१२ श्लोक)
 
-+++
+---
   
  निर्वाणमञ्जरी   
   
@@ -30,7 +30,7 @@ title = "निर्वाणमञ्जरी (१२ श्लोक)"
   
 अहं नैव बालो युवा नैव वृद्धो  
    न वर्णी न च ब्रह्मचारी गृहस्थः ।  
-वनस्थोऽपि नाहं न संन्यस्तधर्मा  
+वनस्थोऽपि नाहं न सन्न्यस्तधर्मा  
    जगज्जन्मनाशैकहेतुः शिवोऽहम् ॥ ३॥  
   
 अहं नैव मेयस्तिरोभूतमाया  

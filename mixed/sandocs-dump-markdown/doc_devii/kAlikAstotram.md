@@ -1,22 +1,23 @@
-+++
-"Text title" = "kAlikAstotram"
-"File name" = "kAlikAstotram.itx"
-itxtitle = "kAlikAstotram"
-engtitle = "kAlikAstotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "February 10, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालिकास्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: kAlikAstotram.itx
+Language: Sanskrit
+Latest update: February 10, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAlikAstotram
+engtitle: kAlikAstotram
+itxtitle: kAlikAstotram
+title: कालिकास्तोत्रम्
 
-+++
+---
   
  कालिकास्तोत्रम्   
   

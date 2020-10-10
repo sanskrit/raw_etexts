@@ -1,26 +1,26 @@
-+++
-"Text title" = "bAlAtripurasundarIaShTottarashatanAmAvalI 3"
-"File name" = "bAlAtripurasundarIaShTottarashatanAmAvalI.itx"
-itxtitle = "bAlAtripurasundarIaShTottarashatanAmAvaliH 3"
-engtitle = "bAlAtripurasundarIaShTottarashatanAmAvalI 3"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anand senartcon at gmail.com"
-"Proofread by" = "Anand senartcon at gmail.com"
-Description-comments = "Editor Ramadatta Shukla, Ritashila Sharma"
-Source = "dashamahAvidyA aShTottarashatanAmAvalI"
-Acknowledge-Permission = "Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga"
-"Latest update" = "September 13, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालात्रिपुरसुन्दरीअष्टोत्तरशतनामावलिः ३"
+---
+Acknowledge-Permission: Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI
+Description-comments: Editor Ramadatta Shukla, Ritashila Sharma
+File name: bAlAtripurasundarIaShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: September 13, 2015
+Location: doc_devii
+Proofread by: Anand senartcon at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: dashamahAvidyA aShTottarashatanAmAvalI
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAtripurasundarIaShTottarashatanAmAvalI 3
+Texttype: nAmAvalI
+Transliterated by: Anand senartcon at gmail.com
+engtitle: bAlAtripurasundarIaShTottarashatanAmAvalI 3
+itxtitle: bAlAtripurasundarIaShTottarashatanAmAvaliH 3
+title: बालात्रिपुरसुन्दरीअष्टोत्तरशतनामावलिः ३
 
-+++
+---
   
  श्रीबालात्रिपुरसुन्दरीअष्टोत्तरशतनामावली ३   
 ओं ऐं ह्रीं श्रीं   
@@ -56,7 +56,7 @@ title = "बालात्रिपुरसुन्दरीअष्टो�
 श्रीउपस्थितिस्वरूपायै नमः । ३०  
 श्रीप्रलयायै नमः ।  
 श्रीलयकारिण्यै नमः ।  
-श्रीहिंगुलायै नमः ।  
+श्रीहिङ्गुलायै नमः ।  
 श्रीत्वरितायै नमः ।  
 श्रीचण्ड्यै नमः ।  
 श्रीचामुण्डायै नमः ।  
@@ -121,9 +121,9 @@ title = "बालात्रिपुरसुन्दरीअष्टो�
 श्रीज्योत्यै नमः ।  
 श्रीविजयायै नमः ।  
 श्रीभुवनेश्वर्यै नमः ।  
-श्रीऐंकारिण्यै नमः ।  
+श्रीऐङ्कारिण्यै नमः ।  
 श्रीभयङ्कर्यै नमः ।  
-श्रीक्लींकार्यै नमः । १००  
+श्रीक्लीङ्कार्यै नमः । १००  
 श्रीकमलप्रियायै नमः ।  
 श्रीसौङ्कार्यै नमः ।  
 श्रीशिवपत्न्यै नमः ।  

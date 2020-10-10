@@ -1,23 +1,23 @@
-+++
-"Text title" = "prashnottararatnamAlikA"
-"File name" = "prashnottara.itx"
-itxtitle = "prashnottararatnamAlikA"
-engtitle = "prashnottararatnamAlikA"
-Category = "vedanta, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sorin Suciu aka SeSe at sorins at hotmail.com"
-"Proofread by" = "Sorin Suciu aka SeSe at sorins at hotmail.com"
-Indexextra = "(Hindi)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रश्नोत्तररत्नमालिका"
+---
+Category: vedanta, shankarAchArya
+File name: prashnottara.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_z_misc_shankara
+Proofread by: Sorin Suciu aka SeSe at sorins at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: prashnottararatnamAlikA
+Texttype: pramukha
+Transliterated by: Sorin Suciu aka SeSe at sorins at hotmail.com
+engtitle: prashnottararatnamAlikA
+itxtitle: prashnottararatnamAlikA
+title: प्रश्नोत्तररत्नमालिका
 
-+++
+---
   
  प्रश्नोत्तररत्नमालिका   
   
@@ -171,7 +171,7 @@ title = "प्रश्नोत्तररत्नमालिका"
 कस्य क्रिया हि सफला यः पुनराचारवां शिष्टः ।  
 कः शिष्टो यो वेदप्रमाणवां को हतः क्रियाभ्रष्टः ॥ ५०॥  
   
-को धन्यः संन्यासी को मान्यः पण्डितः साधुः ।  
+को धन्यः सन्न्यासी को मान्यः पण्डितः साधुः ।  
 कः सेव्यो यो दाता को दाता योऽर्थितृप्तिमातनुते ॥ ५१॥  
   
 किं भाग्यं देहवतामारोग्यं कः फली कृषिकृत् ।  

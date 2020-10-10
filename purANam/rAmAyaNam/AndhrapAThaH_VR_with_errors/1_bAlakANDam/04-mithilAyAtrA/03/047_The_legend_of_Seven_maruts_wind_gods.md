@@ -3,7 +3,6 @@ title: 047 मरुदुत्पत्तिः
 title_english: 047 The legend of Seven maruts wind gods
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-047-Marudut_Paththihi.mp3"></div>
 
 सप्तधा तु कृते गर्भे दितिः परमदुःखिता।  

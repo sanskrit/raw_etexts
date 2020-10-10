@@ -1,66 +1,66 @@
-+++
-"Text title" = "mInAxI sundareshvara stotram"
-"File name" = "minsundereshvara.itx"
-itxtitle = "mInAkShI sundareshvarastotram"
-engtitle = "mInAxI sundareshvara stotram"
-Category = "devii, mInAkShI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "mInAkShI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subramanian Ganesh sgesh at hotmail.com"
-"Proofread by" = "Subramanian Ganesh sgesh at hotmail.com"
-"Latest update" = "March 15, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मीनाक्षी सुन्दरेश्वरस्तोत्रम्"
+---
+Author: Traditional
+Category: devii, mInAkShI, stotra, devI
+File name: minsundereshvara.itx
+Language: Sanskrit
+Latest update: March 15, 2001
+Location: doc_devii
+Proofread by: Subramanian Ganesh sgesh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: mInAkShI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mInAxI sundareshvara stotram
+Texttype: stotra
+Transliterated by: Subramanian Ganesh sgesh at hotmail.com
+engtitle: mInAxI sundareshvara stotram
+itxtitle: mInAkShI sundareshvarastotram
+title: मीनाक्षी सुन्दरेश्वरस्तोत्रम्
 
-+++
+---
   
  श्रीमीनाक्षी सुन्दरेश्वरस्तोत्रम्   
   
 सुवर्णपद्मिनीतटान्तदिव्यहर्म्यवासिने  
 सुपर्णवाहनप्रियाय सूर्यकोटितेजसे ।  
 अपर्णया विहारिणे फणाधरेन्द्रधारिणे  
-सदा नमश्शिवाय ते सदाशिवाय शंभवे ॥ १ ॥  
+सदा नमश्शिवाय ते सदाशिवाय शम्भवे ॥ १ ॥  
   
 सुतुङ्गभङ्गजान्हुजासुधांशुखण्डमौलये  
 पतङ्गपङ्कजासुहृत्कृपीटयोनिचक्षुषे ।  
 भुजङ्गराजकुण्डलाय पुण्यशालिबन्धवे  
-सदा नमश्शिवाय ते सदाशिवाय शंभवे ॥ २ ॥  
+सदा नमश्शिवाय ते सदाशिवाय शम्भवे ॥ २ ॥  
   
 चतुर्मुखाननारविन्दवेदगीतमूर्तये  
 चतुर्भुजानुजाशरीरशोभमानमूर्तये ।  
 चतुर्विधार्थदानशौण्डताण्डवस्वरूपिने  
-सदा नमश्शिवाय ते सदाशिवाय शंभवे ॥ ३ ॥  
+सदा नमश्शिवाय ते सदाशिवाय शम्भवे ॥ ३ ॥  
   
 शरन्निशाकरप्रकाशमन्दहासमञ्जुला-  
 धरप्रवालभासमानवक्त्रमण्डलश्रिये ।  
 करस्फुरत्कपालमुक्तविष्णुरक्तपायिने  
-सदा नमश्शिवाय ते सदाशिवाय शंभवे ॥ ४ ॥  
+सदा नमश्शिवाय ते सदाशिवाय शम्भवे ॥ ४ ॥  
   
 सहस्रपुण्डरीकपूजनैकशून्यदर्शना  
 सहस्वनेत्रकल्पितार्चनाच्युताय भक्तितः ।  
 सहस्रभानुमण्डलप्रकाशचक्रदायिने  
-सदा नमश्शिवाय ते सदाशिवाय शंभवे ॥ ५ ॥  
+सदा नमश्शिवाय ते सदाशिवाय शम्भवे ॥ ५ ॥  
   
 रसारथाय रम्यपत्रभृद्रथाङ्गपाणये  
 रसाधरेन्द्रचापशिञ्जिनीकृतानिलाशिने ।  
 स्वसारथीकृताजनुन्नवेदरूपवाजिने  
-सदा नमश्शिवाय ते सदाशिवाय शंभवे ॥ ६ ॥  
+सदा नमश्शिवाय ते सदाशिवाय शम्भवे ॥ ६ ॥  
   
 अतिप्रगल्भवीरभद्रसिंहनादगर्जित  
 श्रुतिप्रभीतदक्षयागभोगिनाकसद्मनाम् ।  
 गतिप्रदाय गर्जिताखिलप्रपञ्चसाक्षिणे  
-सदा नमश्शिवाय ते सदा शिवाय शंभवे ॥ ७ ॥  
+सदा नमश्शिवाय ते सदा शिवाय शम्भवे ॥ ७ ॥  
   
 मृकण्डुसूनुरक्षणावधूतदण्डपाणये  
 सुगण्डमण्डलस्फुरत्प्रभाजितामृतांशवे ।  
 अखण्डभोगसम्पदर्थिलोकभावितात्मने  
-सदा नमश्शिवाय ते सदा शिवाय शंभवे ॥ ८ ॥  
+सदा नमश्शिवाय ते सदा शिवाय शम्भवे ॥ ८ ॥  
   
 मधुरिपुविधिशक्रमुख्यदेवैरपि नियमार्चितपादपङ्कजाय ।  
 कनकगिरिशरासनाय तुभ्यं रजतसभापतये नमः शिवाय ॥ ९ ॥  

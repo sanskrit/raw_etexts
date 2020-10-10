@@ -1,23 +1,24 @@
-+++
-"Text title" = "rangarAjastavam"
-"File name" = "rangarAjastavam.itx"
-itxtitle = "raNgarAjastavam"
-engtitle = "rangarAjastavam (parAsharabhaTTavirachitam)"
-Category = "vishhnu, shataka, parAsharabhaTTa, dvishatI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Parasharabhatta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "pUrva and uttara shatakas"
-Indexextra = "(stotramAlA, Tamil, samIkShA)"
-"Latest update" = "March 20, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रण्गराजस्तवम्"
+---
+Author: Parasharabhatta
+Category: vishhnu, shataka, parAsharabhaTTa, dvishatI
+Description-comments: pUrva and uttara shatakas
+File name: rangarAjastavam.itx
+Indexextra: (stotramAlA, Tamil, samIkShA)
+Language: Sanskrit
+Latest update: March 20, 2018
+Location: doc_vishhnu
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, PSA Easwaran psaeaswaran at
+  gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: rangarAjastavam
+engtitle: rangarAjastavam (parAsharabhaTTavirachitam)
+itxtitle: raNgarAjastavam
+title: रण्गराजस्तवम्
 
-+++
+---
   
  श्रीरङ्गराजस्तवम्   
   

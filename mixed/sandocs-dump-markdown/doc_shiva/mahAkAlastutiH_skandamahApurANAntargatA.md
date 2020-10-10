@@ -1,22 +1,22 @@
-+++
-"Text title" = "mahAkAlastutiH"
-"File name" = "mahAkAlastutiH.itx"
-itxtitle = "mahAkAlastutiH (skandamahApurANAntargatA)"
-engtitle = "mahAkAlastutiH"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Description/comments" = "From Shivastotraratnakara, Gita press. Skandamahapurana Brahmakhanda"
-Indexextra = "(Scan)"
-"Latest update" = "October 1, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालस्तुतिः (स्कन्दमहापुराणान्तर्गता)"
+---
+Category: shiva
+Description/comments: From Shivastotraratnakara, Gita press. Skandamahapurana Brahmakhanda
+File name: mahAkAlastutiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: October 1, 2018
+Location: doc_shiva
+Proofread by: Ganesh Kandu kanduganesh at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mahAkAlastutiH
+engtitle: mahAkAlastutiH
+itxtitle: mahAkAlastutiH (skandamahApurANAntargatA)
+title: महाकालस्तुतिः (स्कन्दमहापुराणान्तर्गता)
 
-+++
+---
   
  महाकालस्तुतिः   
 ब्रह्मोवाच -  
@@ -47,7 +47,7 @@ title = "महाकालस्तुतिः (स्कन्दमहाप
   
 जो कालसे परे, कालस्वरूप, स्वेच्छासे पुरुषरूप धारण  
 करनेवाले, त्रिगुणस्वरूप तथा प्रकृतिरूप हैं, उन भगवान  
-शंकरको नमस्कार है ॥ ४॥  
+शङ्करको नमस्कार है ॥ ४॥  
   
 विष्णवे सत्त्वरूपाय रजोरूपाय वेधसे ।  
 तमोरूपाय रुद्राय स्थितिसर्गान्तकारिणे ॥ ५॥  
@@ -59,8 +59,8 @@ title = "महाकालस्तुतिः (स्कन्दमहाप
 नमो नमः स्वरूपाय पञ्चबुद्धीन्द्रियात्मने ।  
 क्षित्यादिपञ्चरूपाय नमस्ते विषयात्मने ॥ ६॥  
   
-बुद्धि, इन्द्रियरूप तथा पृथ्वी आदि पंचभूत और शब्द-  
-स्पर्शादि पंच विषयस्वरूप! आपको बार-बार नमस्कार है ॥ ६॥  
+बुद्धि, इन्द्रियरूप तथा पृथ्वी आदि पञ्चभूत और शब्द-  
+स्पर्शादि पञ्च विषयस्वरूप! आपको बार-बार नमस्कार है ॥ ६॥  
   
 नमो ब्रह्माण्डरूपाय तदन्तर्व्तिने नमः ।  
 अर्वाचीनपराचीनविश्वरूपाय ते नमः ॥ ७॥  
@@ -73,7 +73,7 @@ title = "महाकालस्तुतिः (स्कन्दमहाप
 नमस्ते भक्तकृपया स्वेच्छाविष्कृतविग्रह ॥ ८॥  
   
 अचिन्त्य और नित्य स्वरूपवाले तथा सत्-असत्के स्वामिन्!  
-आपको नमस्कार है । हे भक्तोंके ऊपर कृपा करनेके लिये स्वेच्छासे  
+आपको नमस्कार है । हे भक्तोङ्के ऊपर कृपा करनेके लिये स्वेच्छासे  
 सगुण स्वरूप धारण करनेवाले! आपको नमस्कार है ॥ ८॥  
   
 तव निःश्वसितं वेदास्तव वेदोऽखिलं जगत् ।  
@@ -96,19 +96,19 @@ title = "महाकालस्तुतिः (स्कन्दमहाप
 नमोऽस्तु भूयोऽपि नमो नमस्ते ॥ ११॥  
   
 हे देव! आप ही सब कुछ हैं, आपमें ही सबकी स्थिति है ।  
-इस लोकमें सब प्रकारको स्तुतियोंके द्वारा स्तवन करनेयोग्य  
-आप ही हैं । हे ईश्वर! आपके द्वारा यह सम्पूर्ण विश्वप्रपंच व्याप्त  
+इस लोकमें सब प्रकारको स्तुतियोङ्के द्वारा स्तवन करनेयोग्य  
+आप ही हैं । हे ईश्वर! आपके द्वारा यह सम्पूर्ण विश्वप्रपञ्च व्याप्त  
 है, आपको पुनः-पुनः नमस्कार है ॥ ११॥  
   
 ॥ इति श्रीस्कन्दमहापुराणे ब्रह्मखण्डे महाकालस्तुतिः सम्पूर्णा ॥  
   
 ॥ इस प्रकार श्रीस्कन्दमहापुराणके ब्रह्मखण्डमें महाकालस्तुति सम्पूर्ण हुई ॥  
   
-आदि अनादि अनंत अखंड अभेद अखेद सुबेद बतावैं ।  
+आदि अनादि अनन्त अखण्ड अभेद अखेद सुबेद बतावैं ।  
 अलख अगोचर रूप महेस कौ जोगि जती-मुनि ध्यान न पावैं ॥  
   
 आगम-निगम-पुरान सबै इतिहास सदा जिनके गुन गावैं ।  
-बड़्भागी नर-नारिं सोई जो सांब-सदासिव कौं नित ध्यावैं ॥  
+बड़्भागी नर-नारिं सोई जो साम्ब-सदासिव कौं नित ध्यावैं ॥  
   
   
 Proofread by Ganesh Kandu kanduganesh at gmail.com  

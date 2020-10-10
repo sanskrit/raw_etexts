@@ -3,14 +3,13 @@ title: 050 Hanuma declares himself to be a messenger of
 title_english: 050 Hanuma declares himself to be a messenger of
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-050-Hanuma_declares_himself_to_be_a_messenger_of.mp3"></div>
 
 तम् उद्वीक्ष्य महाबाहुः पिन्ग अक्षम् पुरतः स्थितम् ।  
 रोषेण महता आविष्टो रावणो लोक रावणः ॥ ५-५०-१  
 स राजा रोष ताम्र अक्षः प्रहस्तम् मन्त्रि सत्तमम् ।  
 किमेष भगवान्नन्दी भवेत्साक्षादिहागतः ॥ ५-५०-२  
-येन शप्तोऽस्मि कैलासे मया संचालिते पुरा ।  
+येन शप्तोऽस्मि कैलासे मया सञ्चालिते पुरा ।  
 सोऽयम् वानरमूर्तिः स्यात्किंस्विद्बाणो महासुरः ॥ ५-५०-३  
 स राजा रोषताम्राक्षः प्रहस्तम् मन्त्रिसत्तमम् ।  
 काल युक्तम् उवाच इदम् वचो विपुलम् अर्थवत् ॥ ५-५०-४  

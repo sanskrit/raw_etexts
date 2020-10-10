@@ -1,24 +1,24 @@
-+++
-"Text title" = "shirDIsAyI aShTottara shatanAmAvalI"
-"File name" = "shirdisai108.itx"
-itxtitle = "shirDIsA.nI aShTottarashatanAmAvalI"
-engtitle = "Shri Shirdi Sai Baba aShTottara shatanAmAvali"
-Category = "aShTottarashatanAmAvalI, deities_misc, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "N. Krishnaswamy kswamy at subisu.net.np"
-Description-comments = "From the book published by All India Sai samaj, Chennai."
-Indexextra = "(Hindi)"
-"Latest update" = "September 2, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिर्डीसांई अष्टोत्तरशतनामावली"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, deities_misc, nAmAvalI
+Description-comments: From the book published by All India Sai samaj, Chennai.
+File name: shirdisai108.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: September 2, 2012
+Location: doc_deities_misc
+Proofread by: N. Krishnaswamy kswamy at subisu.net.np
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shirDIsAyI aShTottara shatanAmAvalI
+Texttype: nAmAvalI
+engtitle: Shri Shirdi Sai Baba aShTottara shatanAmAvali
+itxtitle: shirDIsA.nI aShTottarashatanAmAvalI
+title: शिर्डीसांई अष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीशिर्डीसांई अष्टोत्तरशतनामावली   
 ॐ ऐं ह्रीं श्रीं क्लीं साईनाथाय नमः ।  
@@ -65,7 +65,7 @@ title = "शिर्डीसांई अष्टोत्तरशतना�
 ॐ ज्ञानस्वरूपिणे नमः ।  
 ॐ जगतःपित्रे नमः ॥ ४०॥  
   
-ॐ भक्तानांमातृदातृपितामहाय नमः ।  
+ॐ भक्तानाम्मातृदातृपितामहाय नमः ।  
 ॐ भक्ताभयप्रदाय नमः ।  
 ॐ भक्तपराधीनाय नमः ।  
 ॐ भक्तानुग्रहकातराय नमः ।  
@@ -107,7 +107,7 @@ title = "शिर्डीसांई अष्टोत्तरशतना�
 ॐ पुण्यश्रवणकीर्तनाय नमः ।  
 ॐ तीर्थाय नमः ।  
 ॐ वासुदेवाय नमः ।  
-ॐ सतांगतये नमः ।  
+ॐ सताङ्गतये नमः ।  
 ॐ सत्परायणाय नमः ॥ ८०॥  
   
 ॐ लोकनाथाय नमः ।  

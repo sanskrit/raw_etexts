@@ -1,21 +1,21 @@
-+++
-"Text title" = "kodaNDapANisuprabhAtam"
-"File name" = "kodaNDapANisuprabhAtam.itx"
-itxtitle = "kodaNDapANisuprabhAtam"
-engtitle = "kodaNDapANisuprabhAtam"
-Category = "raama, suprabhAta"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "December 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कोदण्डपाणिसुप्रभातम्"
+---
+Category: raama, suprabhAta
+File name: kodaNDapANisuprabhAtam.itx
+Language: Sanskrit
+Latest update: December 22, 2019
+Location: doc_raama
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: kodaNDapANisuprabhAtam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: kodaNDapANisuprabhAtam
+itxtitle: kodaNDapANisuprabhAtam
+title: कोदण्डपाणिसुप्रभातम्
 
-+++
+---
   
  श्रीकोदण्डपाणिसुप्रभातम्   
 वन्दे वेङ्कटशेषार्यवत्सवंशशिरोमणिम् ।  

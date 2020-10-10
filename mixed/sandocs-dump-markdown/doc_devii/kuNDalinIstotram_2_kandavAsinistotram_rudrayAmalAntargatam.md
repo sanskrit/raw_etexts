@@ -1,26 +1,26 @@
-+++
-"Text title" = "Kundalini Stotram 2 Kandavasini Stotram"
-"File name" = "kuNDalinIstotram2.itx"
-itxtitle = "kuNDalinIstotram 2 kandavAsinistotram (rudrayAmalAntargatam)"
-engtitle = "kuNDalinIstotram 2"
-Category = "devii, ShaTchakrashakti, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुण्डलिनीस्तोत्रम् २ कन्दवासिनिस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: devii, ShaTchakrashakti, devI
+Description/comments: rudrayAmale uttaratantre 1 bhairava bhairavI sa.nvAde
+File name: kuNDalinIstotram2.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 1 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kundalini Stotram 2 Kandavasini Stotram
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: kuNDalinIstotram 2
+itxtitle: kuNDalinIstotram 2 kandavAsinistotram (rudrayAmalAntargatam)
+title: कुण्डलिनीस्तोत्रम् २ कन्दवासिनिस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  कुण्डलिनीस्तोत्रम् २ कन्दवासिनीस्तोत्रम्   
 श्रीआनन्दभैरवी उवाच  
@@ -137,7 +137,7 @@ title = "कुण्डलिनीस्तोत्रम् २ कन्द
 या कुण्डोद्भवसारपाननिरता मोहादिदोषापहा ।  
 सा नेत्रत्रयमम्बिका सुवलिका श्रीकालिका कौलिका ॥ ३२-३७॥  
   
-काकस्था द्विकचञ्चुपारणकरी संज्ञाकरी सुन्दरी ।  
+काकस्था द्विकचञ्चुपारणकरी सञ्ज्ञाकरी सुन्दरी ।  
 मे पातु प्रियया तया विशदया सच्छायया छादिता ॥ ३२-३८॥  
   
 श्रीकुण्डे रणचण्डिका सुरतिका कङ्कालिका बालिका ।  

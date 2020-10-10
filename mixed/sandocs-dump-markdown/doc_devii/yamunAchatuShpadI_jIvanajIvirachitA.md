@@ -1,24 +1,24 @@
-+++
-"Text title" = "yamunAchatuShpadI"
-"File name" = "yamunAchatuShpadI.itx"
-itxtitle = "yamunAchatuShpadI (jIvanajIvirachitA)"
-engtitle = "yamunAchatuShpadI"
-Category = "devii, nadI, puShTimArgIya, chatuHshlokI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "jIvanajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनाचतुष्पदी (जीवनजीविरचिता)"
+---
+Author: jIvanajI
+Category: devii, nadI, puShTimArgIya, chatuHshlokI, devI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: yamunAchatuShpadI.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunAchatuShpadI
+engtitle: yamunAchatuShpadI
+itxtitle: yamunAchatuShpadI (jIvanajIvirachitA)
+title: यमुनाचतुष्पदी (जीवनजीविरचिता)
 
-+++
+---
   
  यमुनाचतुष्पदी   
   

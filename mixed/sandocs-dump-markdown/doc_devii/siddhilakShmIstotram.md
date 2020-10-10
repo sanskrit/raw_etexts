@@ -1,25 +1,25 @@
-+++
-"Text title" = "siddhi lakShmI stotra"
-"File name" = "siddhilakShmIstotram.itx"
-itxtitle = "siddhilakShmIstotram"
-engtitle = "siddhilakShmIstotram"
-Category = "devii, lakShmI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "shrIbrahmANDapurANe_IshvaraviShNusaMvAda"
-"Latest update" = "June 29, 2004, May 1, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धिलक्ष्मीस्तोत्रम्"
+---
+Author: Traditional
+Category: devii, lakShmI, stotra, devI
+Description-comments: shrIbrahmANDapurANe_IshvaraviShNusaMvAda
+File name: siddhilakShmIstotram.itx
+Language: Sanskrit
+Latest update: June 29, 2004, May 1, 2020
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: siddhi lakShmI stotra
+Texttype: stotra
+Transliterated by: WebD
+engtitle: siddhilakShmIstotram
+itxtitle: siddhilakShmIstotram
+title: सिद्धिलक्ष्मीस्तोत्रम्
 
-+++
+---
   
  सिद्धिलक्ष्मीस्तोत्रम्   
   
@@ -51,7 +51,7 @@ title = "सिद्धिलक्ष्मीस्तोत्रम्"
 तेजःपुञ्जधरां श्रेष्ठां ध्यायेद्बालकुमारिकाम् ॥ २॥  
   
 ॐकारलक्ष्मीरूपेण विष्णोर्हृदयमव्ययम् ।  
-विष्णुमानन्दमध्यस्थं ह्रींकारबीजरूपिणी ॥ ३॥  
+विष्णुमानन्दमध्यस्थं ह्रीङ्कारबीजरूपिणी ॥ ३॥  
   
 ॐ क्लीं अमृतानन्दभद्रे सद्य आनन्ददायिनी ।  
 ॐ श्रीं दैत्यभक्षरदां शक्तिमालिनी शत्रुमर्दिनी ॥ ४॥  

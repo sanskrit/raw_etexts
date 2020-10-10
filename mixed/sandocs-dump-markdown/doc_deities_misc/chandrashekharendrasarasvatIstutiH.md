@@ -1,24 +1,24 @@
-+++
-"Text title" = "chandrashekharendrasarasvatistuti"
-"File name" = "chandrashekharendrasarasvatistuti.itx"
-itxtitle = "chandrashekharendrasarasvatIstutiH"
-engtitle = "chandrashekharendrasarasvatI stuti"
-Category = "deities_misc, gurudev, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "stotra"
-Author = "Shri Vijayendra Sarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manda Krishna Srikanth http://krishnasrikanth.in/"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "May 13, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्रशेखरेन्द्रसरस्वतीस्तुतिः"
+---
+Author: Shri Vijayendra Sarasvati
+Category: deities_misc, gurudev, stotra
+File name: chandrashekharendrasarasvatistuti.itx
+Language: Sanskrit
+Latest update: May 13, 2012
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: chandrashekharendrasarasvatistuti
+Texttype: stotra
+Transliterated by: Manda Krishna Srikanth http://krishnasrikanth.in/
+engtitle: chandrashekharendrasarasvatI stuti
+itxtitle: chandrashekharendrasarasvatIstutiH
+title: चन्द्रशेखरेन्द्रसरस्वतीस्तुतिः
 
-+++
+---
   
  श्रीचन्द्रशेखरेन्द्रसरस्वतीस्तुती   
   
@@ -44,7 +44,7 @@ title = "चन्द्रशेखरेन्द्रसरस्वती�
 गुरुर्यस्य महादेवः तं वन्दे चन्द्रशेखरम् ॥ ७॥  
   
 मणिवाचकगोदादि भक्तिवागमृतैर्भृशम् ।  
-बालानां भगवद्भक्तिं वर्धयंतं गुरुं भजे ॥ ८॥  
+बालानां भगवद्भक्तिं वर्धयन्तं गुरुं भजे ॥ ८॥  
   
 लघूपदेशैर्नास्तिक्यभावमर्दन कोविदम् ।  
 शिवं स्मितमुखं शान्तं प्रणतोऽस्मि जगद्गुरुम् ॥ ९॥  

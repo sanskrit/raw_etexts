@@ -1,23 +1,24 @@
-+++
-"Text title" = "kAmeshvarastotram"
-"File name" = "kAmeshvarastotram.itx"
-itxtitle = "kAmeshvarastotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "kAmeshvarastotram"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामेश्वरस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: kAmeshvarastotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: kAmeshvarastotram
+engtitle: kAmeshvarastotram
+itxtitle: kAmeshvarastotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: कामेश्वरस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीकामेश्वरस्तोत्रम्   
 श्रीगणेशाय नमः ॥  

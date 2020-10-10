@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Ganesha Panchashat Nama Stotram Ganesha's 50 Names"
-"File name" = "gaNeshapanchAshatnAmastotram.itx"
-itxtitle = "gaNeshapanchAshannAmastotram"
-engtitle = "gaNeshapanchAshannAmastotram"
-Category = "ganesha, panchAshat"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Description/comments" = "See corresponding namavali"
-"Latest update" = "May 24, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशपञ्चाशन्नामस्तोत्रम्"
+---
+Category: ganesha, panchAshat
+Description/comments: See corresponding namavali
+File name: gaNeshapanchAshatnAmastotram.itx
+Language: Sanskrit
+Latest update: May 24, 2019
+Location: doc_ganesha
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Shri Ganesha Panchashat Nama Stotram Ganesha's 50 Names
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: gaNeshapanchAshannAmastotram
+itxtitle: gaNeshapanchAshannAmastotram
+title: गणेशपञ्चाशन्नामस्तोत्रम्
 
-+++
+---
   
  श्रीगणेशपञ्चाशन्नामस्तोत्रम्   
 श्री गणेशाय नमः ।  

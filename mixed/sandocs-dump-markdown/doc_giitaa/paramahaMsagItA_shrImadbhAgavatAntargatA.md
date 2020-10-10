@@ -1,21 +1,21 @@
-+++
-"Text title" = "paramahamsagItA"
-"File name" = "paramahamsagItA.itx"
-itxtitle = "paramahaMsagItA (shrImadbhAgavatAntargatA)"
-engtitle = "paramahamsagItA"
-Category = "giitaa, vishhnu"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "Bhagavatam, skandha 5, adhyAya 10-14.  Gita press Gita sangraha"
-Indexextra = "(Hindi)"
-"Latest update" = "September 15, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परमहंसगीता (श्रीमद्भागवतान्तर्गता)"
+---
+Category: giitaa, vishhnu
+Description/comments: Bhagavatam, skandha 5, adhyAya 10-14.  Gita press Gita sangraha
+File name: paramahamsagItA.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: September 15, 2018
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: paramahamsagItA
+engtitle: paramahamsagItA
+itxtitle: paramahaMsagItA (shrImadbhAgavatAntargatA)
+title: परमहंसगीता (श्रीमद्भागवतान्तर्गता)
 
-+++
+---
   
  परमहंस गीता   
 ॐ नमो भगवते वासुदेवाय ।  
@@ -57,7 +57,7 @@ title = "परमहंसगीता (श्रीमद्भागवता
 नो एवापर एते सङ्घट्टिन इति बहु विप्रलब्धो-  
 ऽप्यविद्यया रचितद्रव्यगुणकर्माशयस्व-  
 चरमकलेवरेऽवस्तुनि संस्थानविशेषे-  
-ऽहंममेत्यनध्यारोपितमिथ्याप्रत्ययो   
+ऽहम्ममेत्यनध्यारोपितमिथ्याप्रत्ययो   
 ब्रह्मभूतस्तूष्णीं शिबिकां पूर्ववदुवाह ॥ ६॥  
   
 अथ पुनः स्वशिबिकायां विषमगतायां   
@@ -231,7 +231,7 @@ title = "परमहंसगीता (श्रीमद्भागवता
 शुद्धो विचष्टे ह्यविशुद्धकर्तुः ॥ १२॥  
   
 क्षेत्रज्ञ आत्मा पुरुषः पुराणः   
-साक्षात्स्वयंज्योतिरजः परेशः ।  
+साक्षात्स्वयञ्ज्योतिरजः परेशः ।  
 नारायणो भगवान्वासुदेवः   
 स्वमाययाऽऽत्मन्यवधीयमानः ॥ १३॥  
   
@@ -314,7 +314,7 @@ title = "परमहंसगीता (श्रीमद्भागवता
   
 ज्ञानं विशुद्धं परमार्थमेक-  
 मनन्तरं त्वबहिर्ब्रह्म सत्यम् ।  
-प्रत्यक्प्रशान्तं भगवच्छब्दसंज्ञं   
+प्रत्यक्प्रशान्तं भगवच्छब्दसञ्ज्ञं   
 यद्वासुदेवं कवयो वदन्ति ॥ ११॥  
   
 रहूगणैतत्तपसा न याति   

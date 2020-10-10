@@ -1,24 +1,24 @@
-+++
-"Text title" = "kavikaNThAbharaNam by Krishnakavi"
-"File name" = "kavikaNThAbharaNam.itx"
-itxtitle = "kavikaNThAbharaNam (kRiShNakavivirachitam)"
-engtitle = "kavikaNThAbharaNam by Krishnakavi"
-Category = "misc"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Author = "Krishnakavi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "from Malayamaruta 3 page 86-88"
-Indexextra = "(Scan)"
-"Latest update" = "August 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कविकण्ठाभरणम् (कृइष्णकविविरचितम्)"
+---
+Author: Krishnakavi
+Category: misc
+Description/comments: from Malayamaruta 3 page 86-88
+File name: kavikaNThAbharaNam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 18, 2018
+Location: doc_z_misc_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: kavikaNThAbharaNam by Krishnakavi
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: kavikaNThAbharaNam by Krishnakavi
+itxtitle: kavikaNThAbharaNam (kRiShNakavivirachitam)
+title: कविकण्ठाभरणम् (कृइष्णकविविरचितम्)
 
-+++
+---
   
  कविकण्ठाभरणम्   
   

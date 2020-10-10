@@ -1,22 +1,23 @@
-+++
-"Text title" = "rAmanAthAShTakam 2"
-"File name" = "rAmanAthAShTakam2.itx"
-itxtitle = "rAmanAthAShTakam 2"
-engtitle = "rAmanAthAShTakam 2"
-Category = "shiva, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Bhadragiri Achyuth Das Ji"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "Shri Kuladevata Bhakti Sudha | Shri Shankar Shanbhogue, Kuladevata Temple is at Ramnathi, Ponda, Goa.  Sung by Shankar Shanbhogue"
-Indexextra = "(Audio)"
-"Latest update" = "January 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामनाथाष्टकम् २"
+---
+Author: Bhadragiri Achyuth Das Ji
+Category: shiva, aShTaka
+Description/comments: Shri Kuladevata Bhakti Sudha | Shri Shankar Shanbhogue, Kuladevata
+  Temple is at Ramnathi, Ponda, Goa.  Sung by Shankar Shanbhogue
+File name: rAmanAthAShTakam2.itx
+Indexextra: (Audio)
+Language: Sanskrit
+Latest update: January 29, 2019
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: rAmanAthAShTakam 2
+engtitle: rAmanAthAShTakam 2
+itxtitle: rAmanAthAShTakam 2
+title: रामनाथाष्टकम् २
 
-+++
+---
   
  रामनाथाष्टकम् २   
 रामनाथ नमोऽस्तुते जय सुन्दराङ्ग नमोऽस्तुते ।  

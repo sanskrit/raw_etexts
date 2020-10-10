@@ -1,20 +1,20 @@
-+++
-"Text title" = "Mallikarjuna Prapatti"
-"File name" = "mallikArjunaprapattiH.itx"
-itxtitle = "mallikArjunaprapattiH"
-engtitle = "mallikArjunaprapattiH"
-Category = "shiva, prapatti"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Telugu, audio)"
-"Latest update" = "July 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मल्लिकार्जुनप्रपत्तिः"
+---
+Category: shiva, prapatti
+File name: mallikArjunaprapattiH.itx
+Indexextra: (Telugu, audio)
+Language: Sanskrit
+Latest update: July 7, 2019
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mallikarjuna Prapatti
+engtitle: mallikArjunaprapattiH
+itxtitle: mallikArjunaprapattiH
+title: मल्लिकार्जुनप्रपत्तिः
 
-+++
+---
   
  श्रीमल्लिकार्जुन प्रपत्तिः   
 जय जय जय शम्भो ! जम्भभित्पूर्वदेव  

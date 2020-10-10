@@ -1,26 +1,28 @@
-+++
-"Text title" = "Importance of Sanskrit sa.nskRita mAhAtmyam"
-"File name" = "importanceofSanskrit.itx"
-itxtitle = "sa.nskRitasya mAhAtmyam"
-engtitle = "The Importance of Sanskrit by Shri K. Kunjunni Raja"
-Category = "article, misc, sahitya"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Subcategory = "sahitya"
-Author = "K. Kunjunni Raja"
-Language = "Sanskrit"
-Subject = "Language/Indology"
-"Transliterated by" = "Lakshmi lakish at gmail.com"
-"Proofread by" = "Lakshmi lakish at gmail.com"
-"Translated by" = "K. Kunjunni Raja"
-Description-comments = "From The Importance of Sanskrit composed and translated by K. Kunjunni Raja, Editor, The Adyar Library Bulletin  titled brahmavidyA, Volume 63, 1999 p. 1-16."
-Indexextra = "(Importance of Sanskrit by Kunjunni Raja)"
-"Latest update" = "April 29, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृइतस्य माहात्म्यम्"
+---
+Author: K. Kunjunni Raja
+Category: article, misc, sahitya
+Description-comments: From The Importance of Sanskrit composed and translated by K.
+  Kunjunni Raja, Editor, The Adyar Library Bulletin  titled brahmavidyA, Volume 63,
+  1999 p. 1-16.
+File name: importanceofSanskrit.itx
+Indexextra: (Importance of Sanskrit by Kunjunni Raja)
+Language: Sanskrit
+Latest update: April 29, 2017
+Location: doc_z_misc_general
+Proofread by: Lakshmi lakish at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: Language/Indology
+Sublocation: misc
+Text title: Importance of Sanskrit sa.nskRita mAhAtmyam
+Translated by: K. Kunjunni Raja
+Transliterated by: Lakshmi lakish at gmail.com
+engtitle: The Importance of Sanskrit by Shri K. Kunjunni Raja
+itxtitle: sa.nskRitasya mAhAtmyam
+title: संस्कृइतस्य माहात्म्यम्
 
-+++
+---
   
  संस्कृतस्य माहात्म्यम्   
           भाषासु मुख्या मधुरा प्राचीना विश्वतोमुखी ।  
@@ -47,14 +49,14 @@ title = "संस्कृइतस्य माहात्म्यम्"
           आर्याणां मातृभाषेयमार्यावर्तनिवासिनाम् ।  
           आसीत् पुरा पाणिनीये भाषाशब्देन वर्णिता ॥ ८॥  
   
-          मृतभाषेति जल्पन्तु मृतसंजीविनीमिमाम् ।  
+          मृतभाषेति जल्पन्तु मृतसञ्जीविनीमिमाम् ।  
           पामराः पण्डितम्मन्याः परमार्थपराङ्मुखाः ॥ ९॥  
   
           पूर्णापि स्वीचकारैषा भाषान्तरपदान्यपि ।  
           सरिद्भ्यो नीरमादत्ते सम्पूर्णोऽप्यम्भसां निधिः ॥ १०॥  
   
           देशभाषाविकासार्थं तत्तद् भाषासु पण्डिताः ।  
-          स्वीकृर्वन्ति यथाकामं संस्कृतात् पदसंचयम् ॥ ११॥  
+          स्वीकृर्वन्ति यथाकामं संस्कृतात् पदसञ्चयम् ॥ ११॥  
   
           ``सम्परिभ्यां करोतौ सुट्” भूषणार्थे विधीयते ।  
           तेन भूषितभाषेति विख्याता पाणिनेर्मते ॥ १२॥  
@@ -105,7 +107,7 @@ title = "संस्कृइतस्य माहात्म्यम्"
                                 -- नैषध १०.३४  
                                   
           काश्मीरे जन्मभाषावत् संस्कृतं प्राकृतं तथा ।  
-          स्त्रीणामपि मुंखेष्वासीदित्येवं बिल्हणोऽब्रवीत् ॥ २६॥  
+          स्त्रीणामपि मुङ्खेष्वासीदित्येवं बिल्हणोऽब्रवीत् ॥ २६॥  
   
           ब्रूमः सारस्वतजनिभुवः किं निधेः कौतुकानाम्  
                यस्यानेकाद्भुतगुणकथाकीर्णकर्णामृतस्य ।  

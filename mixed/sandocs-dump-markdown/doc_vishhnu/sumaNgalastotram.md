@@ -1,24 +1,24 @@
-+++
-"Text title" = "suma.ngala stotra of Ramanuja sampradaaya"
-"File name" = "sumangala.itx"
-itxtitle = "sumaNgalastotram"
-engtitle = "suma.ngala stotra"
-Category = "vishhnu, vishnu_misc, stotra, vishnu, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Texttype = "stotra"
-Author = "??"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "N"
-"Proofread by" = "N"
-"Latest update" = "October 11, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुमण्गलस्तोत्रम्"
+---
+Author: ??
+Category: vishhnu, vishnu_misc, stotra, vishnu, mangala
+File name: sumangala.itx
+Language: Sanskrit
+Latest update: October 11, 2001
+Location: doc_vishhnu
+Proofread by: N
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: religion
+Sublocation: vishhnu
+Text title: suma.ngala stotra of Ramanuja sampradaaya
+Texttype: stotra
+Transliterated by: N
+engtitle: suma.ngala stotra
+itxtitle: sumaNgalastotram
+title: सुमण्गलस्तोत्रम्
 
-+++
+---
   
  सुमङ्गलस्तोत्र   
   

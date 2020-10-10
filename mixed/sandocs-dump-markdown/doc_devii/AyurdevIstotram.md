@@ -1,21 +1,21 @@
-+++
-"Text title" = "AyurdevIstotram"
-"File name" = "AyurdevIstotram.itx"
-itxtitle = "AyurdevIstotram"
-engtitle = "AyurdevIstotram"
-Category = "devii"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आयुर्देवीस्तोत्रम्"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: devii
+File name: AyurdevIstotram.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: AyurdevIstotram
+engtitle: AyurdevIstotram
+itxtitle: AyurdevIstotram
+title: आयुर्देवीस्तोत्रम्
 
-+++
+---
   
  आयुर्देवी स्तोत्रम्   
 ध्यायेद्धेमाम्बुजारूढां वरदाभयपाणिकाम् ।  

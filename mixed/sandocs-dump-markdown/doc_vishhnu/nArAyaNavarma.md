@@ -1,26 +1,26 @@
-+++
-"Text title" = "nArAyaNavarma"
-"File name" = "naaraayanavarma.itx"
-itxtitle = "nArAyaNavarma"
-engtitle = "nArAyaNavarma"
-Category = "vishhnu, narayana, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "narayana"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "bhAgavate_ShaShThaskandha"
-"Latest update" = "December 31, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणवर्म"
+---
+Author: Traditional
+Category: vishhnu, narayana, stotra, vishnu
+Description-comments: bhAgavate_ShaShThaskandha
+File name: naaraayanavarma.itx
+Language: Sanskrit
+Latest update: December 31, 2004
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: narayana
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nArAyaNavarma
+Texttype: stotra
+Transliterated by: WebD
+engtitle: nArAyaNavarma
+itxtitle: nArAyaNavarma
+title: नारायणवर्म
 
-+++
+---
   
  नारायणवर्म   
   
@@ -37,7 +37,7 @@ title = "नारायणवर्म"
 नारायणाख्यं वर्माह तदिहैकमनाः शृणु ॥ ३॥  
   
 श्रीविश्वरूप उवाच ।  
-धौतांघ्रिपाणिराचम्य सपवित्र उदङ्मुखः ।  
+धौताङ्घ्रिपाणिराचम्य सपवित्र उदङ्मुखः ।  
 कृतस्वाङ्गकरन्यासो मन्त्राभ्यां वाग्यतः शुचिः ॥ ४॥  
   
 नारायणमयं वर्म सन्नह्येद्भय आगते ।  
@@ -53,7 +53,7 @@ title = "नारायणवर्म"
 न्यसेद्धृदय ॐकारं विकारमनुमूर्धनि ॥ ८॥  
   
 षकारं तु भ्रुवोर्मध्ये णकारं शिखया न्यसेत् ।  
-वेकारं नेत्रयोर्युंज्यान्नकारं सर्वसन्धिषु ॥ ९॥  
+वेकारं नेत्रयोर्युञ्ज्यान्नकारं सर्वसन्धिषु ॥ ९॥  
   
 मकारमस्त्रुमुद्दिश्य मन्त्रमूर्तिर्भवेद्बुधः ।  
 सर्विसर्गं फडन्तं तत्सर्वदिक्षु विनिर्दिशेत् ॥ १०॥  
@@ -62,7 +62,7 @@ title = "नारायणवर्म"
 इत्यात्मानं परं ध्यायेद्ध्येयं षट्शक्तिभिर्युतम् ।  
 विद्यातेजस्तपोर्मूतिमिमं मन्त्रमुदाहरेत् ॥ ११॥  
   
-ॐ हरिर्विदध्यान्मम सर्वरक्षां न्यस्तांघ्रिपद्मः पतगेन्द्रपृष्ठे ।  
+ॐ हरिर्विदध्यान्मम सर्वरक्षां न्यस्ताङ्घ्रिपद्मः पतगेन्द्रपृष्ठे ।  
 दरारिचर्मासिगदेषुचापपाशान्दधानोऽष्टगुणोऽष्टबाहुः ॥ १२॥  
   
 जलेषु मां रक्षतु मत्स्यमूर्तिर्यादोगणेभ्यो वरुणस्य पाशात् ।  
@@ -111,7 +111,7 @@ title = "नारायणवर्म"
 सरीसृपेभ्यो दंष्ट्रिभ्य भूतेभ्योऽघेभ्य एव च ॥ २७॥  
   
 सर्वाण्येतानि भगवन्नामरूपास्रकीर्तनात् ।  
-प्रयांतु संक्षयं सद्यो येऽन्ये श्रेयःप्रतीपकाः ॥ २८॥  
+प्रयान्तु सङ्क्षयं सद्यो येऽन्ये श्रेयःप्रतीपकाः ॥ २८॥  
   
 गरुडो भगवांस्तोत्रस्तोमश्छन्दोमयः प्रभुः ।  
 रक्षत्वशेषकृच्छ्रेभ्यो विष्वक्सेनः स्वनामभिः ॥ २९॥  

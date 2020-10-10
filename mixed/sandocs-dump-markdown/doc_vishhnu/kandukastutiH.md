@@ -1,23 +1,23 @@
-+++
-"Text title" = "kandukastuti"
-"File name" = "kandukastuti.itx"
-itxtitle = "kandukastutiH"
-engtitle = "kandukastutiH"
-Category = "vishhnu, vishnu_misc, Ananda-tIrtha, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Author = "madAnandatIrtha-bhagavatpAdAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at sify.com"
-"Proofread by" = "N.Balasubramanian bbalu at sify.com"
-"Latest update" = "August 10, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कन्दुकस्तुतिः"
+---
+Author: madAnandatIrtha-bhagavatpAdAchArya
+Category: vishhnu, vishnu_misc, Ananda-tIrtha, vishnu
+File name: kandukastuti.itx
+Language: Sanskrit
+Latest update: August 10, 2007
+Location: doc_vishhnu
+Proofread by: N.Balasubramanian bbalu at sify.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kandukastuti
+Transliterated by: N.Balasubramanian bbalu at sify.com
+engtitle: kandukastutiH
+itxtitle: kandukastutiH
+title: कन्दुकस्तुतिः
 
-+++
+---
   
  कन्दुकस्तुती   
   
@@ -28,13 +28,13 @@ cleverly so that one can find a rhythm while reading it. It sounds
 like a ball is being tapped on the ground.  It boUnces back, only  
 to be hit again. It bounces back and this is repeated.  
   
-अंबरगंगा-चुंबित-पादः पदतल-विदलित-गुरुतर-शकटः ।  
+अम्बरगङ्गा-चुम्बित-पादः पदतल-विदलित-गुरुतर-शकटः ।  
 कालियनाग-क्ष्वेल-निहन्ता  सरसिज-नवदल-विकसित-नयनः ॥१॥  
   
-अंबरगंगा-चुंबित-पादः ।  
-अंबरं = sky. So, अंबरगंगा will mean the river Ganga flowing  
+अम्बरगङ्गा-चुम्बित-पादः ।  
+अम्बरं = sky. So, अम्बरगङ्गा will mean the river Ganga flowing  
 in the sky or heavens.   
-चुंबित = kissed or gently touched or caressed.  
+चुम्बित = kissed or gently touched or caressed.  
 पदः = foot.  
 The Lord's feet are caressed by the waters of thr river Ganges that flows  
 in the heavens.  The Ganges took its birth from the feet of the Lord.  
@@ -97,7 +97,7 @@ Sri Leelasukha says the same thing in his Krishnakarnamritam.
       त्वय्यप्रसन्ने किमिहापरै-र्नः ॥  
   
 कालघनाली-कर्बुर-कायः शरशत-शकलित-रिपुशत-निवहः ।  
-संतत-मस्मान् पातु मुरारिः सततग-समजव-खगपति-निरतः ॥२॥  
+सन्तत-मस्मान् पातु मुरारिः सततग-समजव-खगपति-निरतः ॥२॥  
   
 कालघनाली-कर्बुर-कायः ।  
 काल = of black or dark blue colour, घन = cloud, अलिः = a black  
@@ -138,13 +138,13 @@ of enemies to nothing with His arrows. One of His names to be seen
 in the Sahasranama is  
 धनुर्धरः -  श्रीमान् रामो महद्धनुर्धारयामासेति धनुर्धरः ॥  
   
-संतत-मस्मान् पातु मुरारिः ।  
+सन्तत-मस्मान् पातु मुरारिः ।  
 मुरारिः = Lord , the enemy of the demon Mura, अस्मान् = us,  
-संततं = always, पातु = let Him protect.  
+सन्ततं = always, पातु = let Him protect.  
 Let such a Lord Vishnu, who rides Garuda, the king of birds and who is  
 as fast as the wind and the vanquisher of the demon Mura protect us.  
   
-॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्य विरचिता कन्दुकस्तुतिः संपूर्णा ॥  
+॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्य विरचिता कन्दुकस्तुतिः सम्पूर्णा ॥  
   
   
 Encoded and proofread by N.Balasubramanian bbalu@satyam.net.in  

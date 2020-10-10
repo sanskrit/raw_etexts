@@ -3,7 +3,6 @@ title: 040 Hanuma consoles Seetha and travels northward
 title_english: 040 Hanuma consoles Seetha and travels northward
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-040-Hanuma_consoles_Seetha_and_travels_northward.mp3"></div>
 
 श्रुत्वा तु वचनम् तस्य वायु सूनोः महात्मनः ।  
@@ -32,7 +31,7 @@ title_english: 040 Hanuma consoles Seetha and travels northward
 अथ अब्रवीन् महातेजा हनुमान् मारुत आत्मजः ॥ ५-४०-१२  
 त्वत् शोक विमुखो रामो देवि सत्येन ते शपे ।  
 रामे शोक अभिभूते तु लक्ष्मणः परितप्यते ॥ ५-४०-१३  
-कथंचित् भवती दृष्टा न कालः परिशोचितुम् ।  
+कथञ्चित् भवती दृष्टा न कालः परिशोचितुम् ।  
 इमम् मुहूर्तम् दुह्खानाम् अन्तम् द्रक्ष्यसि भामिनि ॥ ५-४०-१४  
 ताव् उभौ पुरुष व्याघ्रौ राज पुत्राव् अनिन्दितौ ।  
 त्वत् दर्शन कृत उत्साहौ लन्काम् भस्मी करिष्यतः ॥ ५-४०-१५  

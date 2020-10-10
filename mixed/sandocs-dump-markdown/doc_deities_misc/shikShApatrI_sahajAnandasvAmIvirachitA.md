@@ -1,23 +1,23 @@
-+++
-"Text title" = "shikShApatrI sahajAnandasvAmIvirachitA"
-"File name" = "shikShApatrIsahajAnanda.itx"
-itxtitle = "shikShApatrI (sahajAnandasvAmIvirachitA)"
-engtitle = "shikShApatrI by Sahajanandaswami"
-Category = "deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "sahajAnandasvAmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Description-comments = "Shree Swaminarayan Sampradaya"
-Indexextra = "(scriptures)"
-"Latest update" = "August 23, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिक्षापत्री (सहजानन्दस्वामीविरचिता)"
+---
+Author: sahajAnandasvAmI
+Category: deities_misc
+Description-comments: Shree Swaminarayan Sampradaya
+File name: shikShApatrIsahajAnanda.itx
+Indexextra: (scriptures)
+Language: Sanskrit
+Latest update: August 23, 2015
+Location: doc_deities_misc
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shikShApatrI sahajAnandasvAmIvirachitA
+engtitle: shikShApatrI by Sahajanandaswami
+itxtitle: shikShApatrI (sahajAnandasvAmIvirachitA)
+title: शिक्षापत्री (सहजानन्दस्वामीविरचिता)
 
-+++
+---
   
  शिक्षापत्री सहजानन्दस्वामीविरचिता   
  ॥ ध्यानश्लोकाः ॥  

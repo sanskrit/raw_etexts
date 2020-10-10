@@ -1,22 +1,22 @@
-+++
-"Text title" = "Sita Ashtottarashata Namavali 4 108 Names"
-"File name" = "sItAShTottarashatanAmAvaliH4.itx"
-itxtitle = "sItAShTottarashatanAmAvaliH 4 (shrIsItAyai pativratAyai)"
-engtitle = "sItAShTottarashatanAmAvaliH 4"
-Category = "devii, aShTottarashatanAmAvalI, raama, sItA, nAmAvalI, devI"
-Location = "doc_raama"
-Sublocation = "raama"
-SubDeity = "sItA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Raman M mraman.m at gmail.com"
-"Proofread by" = "Raman M mraman.m at gmail.com"
-"Latest update" = "December 27, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीताष्टोत्तरशतनामावलिः ४ (श्रीसीतायै पतिव्रतायै)"
+---
+Category: devii, aShTottarashatanAmAvalI, raama, sItA, nAmAvalI, devI
+File name: sItAShTottarashatanAmAvaliH4.itx
+Language: Sanskrit
+Latest update: December 27, 2019
+Location: doc_raama
+Proofread by: Raman M mraman.m at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sItA
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Sita Ashtottarashata Namavali 4 108 Names
+Transliterated by: Raman M mraman.m at gmail.com
+engtitle: sItAShTottarashatanAmAvaliH 4
+itxtitle: sItAShTottarashatanAmAvaliH 4 (shrIsItAyai pativratAyai)
+title: सीताष्टोत्तरशतनामावलिः ४ (श्रीसीतायै पतिव्रतायै)
 
-+++
+---
   
  श्रीसीताष्टोत्तरशतनामावलिः   
 ॐ श्रीसीतायै नमः । पतिव्रतायै । देव्यै । मैथिल्यै ।  

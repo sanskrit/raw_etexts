@@ -1,29 +1,29 @@
-+++
-"Text title" = "jivanamuktigItA"
-"File name" = "jivanmuktigiitaa.itx"
-itxtitle = "jIvanmuktigItA"
-engtitle = "jIvanmukti gItA"
-Category = "gItA, giitaa, dattAtreyAnandanAtha, Natha-Sampradaya"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "Dattatreya / Natha Sampradaya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sovarel Vlad vlad.sovarel at yahoo.com"
-"Proofread by" = "Sovarel Vlad vlad.sovarel at yahoo.com"
-Indexextra = "(Dattatreya)"
-"Latest update" = "May 20, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जीवन्मुक्तिगीता"
+---
+Author: Dattatreya / Natha Sampradaya
+Category: gItA, giitaa, dattAtreyAnandanAtha, Natha-Sampradaya
+File name: jivanmuktigiitaa.itx
+Indexextra: (Dattatreya)
+Language: Sanskrit
+Latest update: May 20, 2001
+Location: doc_giitaa
+Proofread by: Sovarel Vlad vlad.sovarel at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: giitaa
+Text title: jivanamuktigItA
+Transliterated by: Sovarel Vlad vlad.sovarel at yahoo.com
+engtitle: jIvanmukti gItA
+itxtitle: jIvanmuktigItA
+title: जीवन्मुक्तिगीता
 
-+++
+---
   
  जीवन्मुक्ति गीता   
   
 असतो मा सद्गमय ।  
 तमसो मा ज्योतिर्गमय ।  
-मृत्योर्मा अमृतंगमय ॥  
+मृत्योर्मा अमृतङ्गमय ॥  
   
 सर्वभूतान्तरस्थ्याय नित्यमुक्तचिदात्मने ।  
 प्रत्यच्चैतन्यरूपाय मह्यमेव नमो नमः ॥  
@@ -85,7 +85,7 @@ title = "जीवन्मुक्तिगीता"
 शारीरपरिरक्षणायैव । एवं तेन शुभाशुभादिकं  
 परित्यक्तं भवति । स जीवन्मुक्त उच्यते ॥  
   
-कर्मसर्वत्र आदिष्टं न जानामि च किंचन ।  
+कर्मसर्वत्र आदिष्टं न जानामि च किञ्चन ।  
 कर्म ब्रह्म विजानाति जीवन्मुक्तः स उच्यते ॥ ९॥  
   
 यः आदिष्टं विध्युक्तम् कर्म न जानाति कर्तृत्वारोपेण कर्मन  
@@ -171,12 +171,12 @@ title = "जीवन्मुक्तिगीता"
 जीवन्मुक्त इत्युच्यते ॥  
   
 मन एव मनुष्याणां भेदाभेदस्य कारणम् ।  
-विकल्पनैव संकल्पं फ़्ootnoteसंकल्पो - ख जीवन्मुक्तः स उच्यते ॥ २१॥  
+विकल्पनैव सङ्कल्पं फ़्ootnoteसङ्कल्पो - ख जीवन्मुक्तः स उच्यते ॥ २१॥  
   
-विकल्पना इदमित्थमेवेत्यादि तत्त्वविरुद्धा कल्पना स एव संकल्प इति  
+विकल्पना इदमित्थमेवेत्यादि तत्त्वविरुद्धा कल्पना स एव सङ्कल्प इति  
 प्रसिद्धः । तदेव मनोरूपं सन्मनुष्यानामहं ममेत्यादि  
 भेदाभेदव्यवहारकारणम् । एवं यो जानाति ज्ञानफलं च  
-संकल्पराहित्यं तथा च यः सर्वथा संकल्परहितः ।  
+सङ्कल्पराहित्यं तथा च यः सर्वथा सङ्कल्परहितः ।  
 सः जीवन्मुक्त इत्युच्यते ॥  
   
 मन एव विदुः प्राज्ञाः सिद्धसिद्धान्त फ़्ootnoteविदुःप्राज्ञासिद्धसिद्धान्त - ख एव च ।  
@@ -190,7 +190,7 @@ title = "जीवन्मुक्तिगीता"
 अन्तस्त्यागी बहिस्त्यागी जीवन्मुक्तः स उच्यते ॥ २३॥  
   
 यो यो योगाभ्यासी योगमभ्यसति स सो मनः श्रेष्ठः मनसा श्रेष्ठः ।  
-एवं विधोऽयमन्तस्त्यागी अन्तस्थं सर्वमपि मायासंभूतं  
+एवं विधोऽयमन्तस्त्यागी अन्तस्थं सर्वमपि मायासम्भूतं  
 त्यजतीत्यन्तस्त्यागी । अत एव सः बहिः जडवदाचरति । एवं च  
 सोऽन्तस्त्यागी बहिस्त्यागी च । स एव जीवन्मुक्त इत्युच्यते ॥  
   

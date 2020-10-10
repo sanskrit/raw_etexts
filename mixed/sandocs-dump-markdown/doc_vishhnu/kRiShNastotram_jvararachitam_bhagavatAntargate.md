@@ -1,24 +1,25 @@
-+++
-"Text title" = "jvara rachita kRiShNastotra"
-"File name" = "jvarakrishnastotra.itx"
-itxtitle = "kRiShNastotram (jvararachitam bhagavatAntargate)"
-engtitle = "jvara rachita kRiShNastotra"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com, Sudha Ram tellsudha at yahoo.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, Sudha Ram tellsudha at yahoo.com"
-Description-comments = "Bhagavata Mahapurana skandha 10, adhyAya 63, shloka 22-20"
-"Latest update" = "January 16, 2005, April 2, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (ज्वररचितम् भगवतान्तर्गते)"
+---
+Category: vishhnu, krishna, stotra, vishnu
+Description-comments: Bhagavata Mahapurana skandha 10, adhyAya 63, shloka 22-20
+File name: jvarakrishnastotra.itx
+Language: Sanskrit
+Latest update: January 16, 2005, April 2, 2016
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, Sudha Ram tellsudha at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: jvara rachita kRiShNastotra
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com, Sudha Ram tellsudha
+  at yahoo.com
+engtitle: jvara rachita kRiShNastotra
+itxtitle: kRiShNastotram (jvararachitam bhagavatAntargate)
+title: कृइष्णस्तोत्रम् (ज्वररचितम् भगवतान्तर्गते)
 
-+++
+---
   
  ज्वरकृतकृष्णस्तोत्रम्   
 श्रीगणेशाय नमः ॥  
@@ -57,7 +58,7 @@ title = "कृइष्णस्तोत्रम् (ज्वररचित
   
 इति श्रीमद्भागवते महापुराणे पारमहंस्यां संहितायां  
 दशमस्कन्धे उत्तरर्धे त्रिषष्टितमोअध्याये  
-श्रीज्वरकृतकृष्णस्तोत्र संपूर्णम् ।  
+श्रीज्वरकृतकृष्णस्तोत्र सम्पूर्णम् ।  
   
   
 Bahagavata Purana skandha 10, adhyAya 63, shlok 22-30  

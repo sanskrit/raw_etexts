@@ -1,21 +1,21 @@
-+++
-"Text title" = "Vasavi Kanyaka Parameshvari Ashtottara Shata Namavali 2 108 names"
-"File name" = "vAsavIkanyakAparameshvaryaShTottarashatanAmAvalI2.itx"
-itxtitle = "vAsavIkanyakAparameshvaryaShTottarashatanAmAvaliH 2 (shrIvAsavAmbAyai)"
-engtitle = "vAsavIkanyakAparameshvaryaShTottarashatanAmAvalI 2"
-Category = "devii, aShTottarashatanAmAvalI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Info 1, 2, 3)"
-"Latest update" = "May 31, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामावलिः २ (श्रीवासवाम्बायै)"
+---
+Category: devii, aShTottarashatanAmAvalI, nAmAvalI, devI
+File name: vAsavIkanyakAparameshvaryaShTottarashatanAmAvalI2.itx
+Indexextra: (Info 1, 2, 3)
+Language: Sanskrit
+Latest update: May 31, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vasavi Kanyaka Parameshvari Ashtottara Shata Namavali 2 108 names
+engtitle: vAsavIkanyakAparameshvaryaShTottarashatanAmAvalI 2
+itxtitle: vAsavIkanyakAparameshvaryaShTottarashatanAmAvaliH 2 (shrIvAsavAmbAyai)
+title: वासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामावलिः २ (श्रीवासवाम्बायै)
 
-+++
+---
   
  श्रीवासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामावलिः २   
 ॐ श्रीवासवाम्बायै नमः ।  
@@ -63,7 +63,7 @@ title = "वासवीकन्यकापरमेश्वर्यष्�
 ॐ लीलामानुषविग्रहायै नमः ।  
 ॐ विष्णुवर्धनसम्हारिकायै नमः ।  
 ॐ सुगुणरत्नायै नमः ।  
-ॐ सहसौंदर्यसम्पन्नायै नमः ।  
+ॐ सहसौन्दर्यसम्पन्नायै नमः ।  
 ॐ सच्चिदानन्दस्वरूपायै नमः ।  
 ॐ विश्वरूपप्रदर्शिन्यै नमः ।  
 ॐ निगमवेद्यायै नमः ।  

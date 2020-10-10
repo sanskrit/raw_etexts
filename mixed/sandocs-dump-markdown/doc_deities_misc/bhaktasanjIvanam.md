@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhakta sanjiivanaM"
-"File name" = "bhaktasanjivanam.itx"
-itxtitle = "bhaktasanjIvanam"
-engtitle = "bhakta sanjIvanam"
-Category = "deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 17, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भक्तसञ्जीवनम्"
+---
+Category: deities_misc, stotra
+File name: bhaktasanjivanam.itx
+Language: Sanskrit
+Latest update: April 17, 2007
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: bhakta sanjiivanaM
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: bhakta sanjIvanam
+itxtitle: bhaktasanjIvanam
+title: भक्तसञ्जीवनम्
 
-+++
+---
   
  भक्त सञ्जीवनं   
   

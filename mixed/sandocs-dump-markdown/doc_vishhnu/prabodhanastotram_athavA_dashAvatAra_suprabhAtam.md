@@ -1,24 +1,24 @@
-+++
-"Text title" = "prabodhanastotram"
-"File name" = "prabodhanastotram.itx"
-itxtitle = "prabodhanastotram athavA dashAvatAra suprabhAtam"
-engtitle = "prabodhanastotram"
-Category = "suprabhAta, vishhnu, dashAvatAra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar"
-Indexextra = "(TulasiPuja scanned)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "June 12, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रबोधनस्तोत्रम् अथवा दशावतार सुप्रभातम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: suprabhAta, vishhnu, dashAvatAra, vishnu
+File name: prabodhanastotram.itx
+Indexextra: (TulasiPuja scanned)
+Language: Sanskrit
+Latest update: June 12, 2017
+Location: doc_vishhnu
+Proofread by: Shree Devi Kumar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: prabodhanastotram
+Transliterated by: Shree Devi Kumar
+engtitle: prabodhanastotram
+itxtitle: prabodhanastotram athavA dashAvatAra suprabhAtam
+title: प्रबोधनस्तोत्रम् अथवा दशावतार सुप्रभातम्
 
-+++
+---
   
  प्रबोधनस्तोत्रम् अथवा दशावतार सुप्रभातम्   
   

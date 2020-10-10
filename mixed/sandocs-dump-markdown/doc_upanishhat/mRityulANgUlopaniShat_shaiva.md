@@ -1,22 +1,22 @@
-+++
-"Text title" = "mRRityulAngUlopaniShat"
-"File name" = "mRRityulAngUlopaniShat.itx"
-itxtitle = "mRityulANgUlopaniShat (shaiva)"
-engtitle = "mRRityulAngUlopaniShat"
-Category = "upanishhat, shiva, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "May 13, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मृइत्युलाण्गूलोपनिषत् (शैव)"
+---
+Category: upanishhat, shiva, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: mRRityulAngUlopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: May 13, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: mRRityulAngUlopaniShat
+engtitle: mRRityulAngUlopaniShat
+itxtitle: mRityulANgUlopaniShat (shaiva)
+title: मृइत्युलाण्गूलोपनिषत् (शैव)
 
-+++
+---
   
  मृत्युलाङ्गूलोपनिषत्   
 अथ मृत्युलाङ्गूलं व्याख्यास्यामः । अस्य मृत्युलाङ्गूलमन्त्रस्य  

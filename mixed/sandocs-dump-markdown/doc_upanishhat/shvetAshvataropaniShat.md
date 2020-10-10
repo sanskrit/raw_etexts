@@ -1,25 +1,25 @@
-+++
-"Text title" = "shvetaashvataropaniShat"
-"File name" = "shveta.itx"
-itxtitle = "shvetAshvataropaniShat"
-engtitle = "Shvetashvatara Upanishad"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Rishis"
-Language = "Sanskrit"
-Subject = "Philosophy"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "John Manetta"
-Description-comments = "14/108; Krishna YajurVeda, Samanya upanishad"
-Indexextra = "(translations 1 2 3)"
-"Latest update" = "July 20, 1999, February 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्वेताश्वतरोपनिषत्"
+---
+Author: Vedic Rishis
+Category: upanishhat, svara, upanishad
+Description-comments: 14/108; Krishna YajurVeda, Samanya upanishad
+File name: shveta.itx
+Indexextra: (translations 1 2 3)
+Language: Sanskrit
+Latest update: July 20, 1999, February 21, 2018
+Location: doc_upanishhat
+Proofread by: John Manetta
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Philosophy
+Sublocation: upanishhat
+Text title: shvetaashvataropaniShat
+Texttype: svara
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Shvetashvatara Upanishad
+itxtitle: shvetAshvataropaniShat
+title: श्वेताश्वतरोपनिषत्
 
-+++
+---
   
  श्वेताश्वतरोपनिषत्   
   
@@ -518,7 +518,7 @@ title = "श्वेताश्वतरोपनिषत्"
                तस्य भासा सर्वमिदं विभाति ॥ १४॥  
   
 एको हंसः भुवनस्यास्य मध्ये  
-               स एवाग्निः सलिले संनिविष्टः ।  
+               स एवाग्निः सलिले सन्निविष्टः ।  
 तमेव विदित्वा अतिमृत्युमेति  
                नान्यः पन्था विद्यतेऽयनाय ॥ १५॥  
   

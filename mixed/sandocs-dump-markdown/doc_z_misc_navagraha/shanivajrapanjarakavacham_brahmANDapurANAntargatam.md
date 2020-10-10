@@ -1,24 +1,24 @@
-+++
-"Text title" = "shanivajrapa.njarakavacham"
-"File name" = "shanaivajrakavach.itx"
-itxtitle = "shanivajrapanjarakavacham (brahmANDapurANAntargatam)"
-engtitle = "shanivajrapa.njarakavacham"
-Category = "kavacha, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA, Kirk Wortman kirkwort at hotmail.com"
-Description-comments = "brahmANDapurANa"
-"Latest update" = "February 23, 2003, November 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शनिवज्रपञ्जरकवचम् (ब्रह्माण्डपुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: kavacha, navagraha
+Description-comments: brahmANDapurANa
+File name: shanaivajrakavach.itx
+Language: Sanskrit
+Latest update: February 23, 2003, November 11, 2018
+Location: doc_z_misc_navagraha
+Proofread by: NA, Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shanivajrapa.njarakavacham
+engtitle: shanivajrapa.njarakavacham
+itxtitle: shanivajrapanjarakavacham (brahmANDapurANAntargatam)
+title: शनिवज्रपञ्जरकवचम् (ब्रह्माण्डपुराणान्तर्गतम्)
 
-+++
+---
   
- श्रीशनिवज्रपंजरकवचम्   
+ श्रीशनिवज्रपञ्जरकवचम्   
 श्री गणेशाय नमः ॥  
   
 विनियोगः ।  
@@ -41,7 +41,7 @@ title = "शनिवज्रपञ्जरकवचम् (ब्रह्म
 शृणुध्वमृषयः सर्वे शनिपीडाहरं महत् ।  
 कवचं शनिराजस्य सौरेरिदमनुत्तमम् ॥ २॥  
   
-कवचं देवतावासं वज्रपंजरसंज्ञकम् ।  
+कवचं देवतावासं वज्रपञ्जरसञ्ज्ञकम् ।  
 शनैश्चरप्रीतिकरं सर्वसौभाग्यदायकम् ॥ ३॥  
   
 ॐ श्रीशनैश्चरः पातु भालं मे सूर्यनन्दनः ।  
@@ -56,8 +56,8 @@ title = "शनिवज्रपञ्जरकवचम् (ब्रह्म
 नाभिं ग्रहपतिः पातु मन्दः पातु कटिं तथा ।  
 ऊरू ममान्तकः पातु यमो जानुयुगं तथा ॥ ७॥  
   
-पादौ मन्दगतिः पातु सर्वांगं पातु पिप्पलः ।  
-अंगोपांगानि सर्वाणि रक्षेन् मे सूर्यनन्दनः ॥ ८॥  
+पादौ मन्दगतिः पातु सर्वाङ्गं पातु पिप्पलः ।  
+अङ्गोपाङ्गानि सर्वाणि रक्षेन् मे सूर्यनन्दनः ॥ ८॥  
   
 इत्येतत् कवचं दिव्यं पठेत् सूर्यसुतस्य यः ।  
 न तस्य जायते पीडा प्रीतो भवति सूर्यजः ॥ ९॥  
@@ -73,7 +73,7 @@ title = "शनिवज्रपञ्जरकवचम् (ब्रह्म
 जन्मलग्नस्थितान् दोषान् सर्वान्नाशयते प्रभुः ॥ १२॥  
   
 ॥ इति श्रीब्रह्माण्डपुराणे ब्रह्म-नारदसंवादे  
-शनिवज्रपंजरकवचं सम्पूर्णम् ॥  
+शनिवज्रपञ्जरकवचं सम्पूर्णम् ॥  
   
   
   

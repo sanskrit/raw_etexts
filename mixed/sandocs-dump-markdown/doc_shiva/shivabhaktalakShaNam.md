@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shivabhakta Lakshanam"
-"File name" = "shivabhaktalakShaNam.itx"
-itxtitle = "shivabhaktalakShaNam"
-engtitle = "shivabhaktalakShaNam"
-Category = "shiva, shrIdhara-venkaTesha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Shridharavenkatesa of Tiruvisanallur or Ayyaval with respect"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Works)"
-"Latest update" = "November 16, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवभक्तलक्षणम्"
+---
+Author: Shridharavenkatesa of Tiruvisanallur or Ayyaval with respect
+Category: shiva, shrIdhara-venkaTesha
+File name: shivabhaktalakShaNam.itx
+Indexextra: (Works)
+Language: Sanskrit
+Latest update: November 16, 2019
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shivabhakta Lakshanam
+engtitle: shivabhaktalakShaNam
+itxtitle: shivabhaktalakShaNam
+title: शिवभक्तलक्षणम्
 
-+++
+---
   
  श्री श्रीधरवेङ्कटार्यकृतौ शिवभक्तलक्षणम्   
 शिवाभ्यां नमः ।  

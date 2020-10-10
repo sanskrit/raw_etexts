@@ -1,24 +1,24 @@
-+++
-"Text title" = "Tejobindu Upanishad"
-"File name" = "tejobindu.itx"
-itxtitle = "tejobindUpaniShat"
-engtitle = "Tejobindu Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "37/108; Krishna Yajurveda- Yoga upanishad"
-Indexextra = "(120 Upanishads, Meaning 1, 2))"
-"Latest update" = "Feb. 3, 2000, October 7, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तेजोबिन्दूपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 37/108; Krishna Yajurveda- Yoga upanishad
+File name: tejobindu.itx
+Indexextra: (120 Upanishads, Meaning 1, 2))
+Language: Sanskrit
+Latest update: Feb. 3, 2000, October 7, 2016
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Tejobindu Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Tejobindu Upanishad
+itxtitle: tejobindUpaniShat
+title: तेजोबिन्दूपनिषत्
 
-+++
+---
   
  तेजोबिन्दूपनिषत्   
   
@@ -94,7 +94,7 @@ title = "तेजोबिन्दूपनिषत्"
 वाचो यस्मान्निवर्तन्ते तद्वक्तुं केन शक्यते ।  
 प्रपञ्चो यदि वक्तव्यः सोऽपि शब्दविवर्जितः ॥ २१॥  
   
-इति वा तद्भवेन्मौनं सर्वं सहजसंज्ञितम् ।  
+इति वा तद्भवेन्मौनं सर्वं सहजसञ्ज्ञितम् ।  
 गिरां मौनं तु बालानामयुक्तं ब्रह्मवादिनाम् ॥ २२॥  
   
 आदावन्ते च मध्ये च जनो यस्मिन्न विद्यते ।  

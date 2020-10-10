@@ -1,22 +1,22 @@
-+++
-"Text title" = "pItAmbarAShTakam"
-"File name" = "pItAmbarAShTakam.itx"
-itxtitle = "pItAmbarAShTakam"
-engtitle = "pItAmbarAShTakam"
-Category = "devii, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-"Proofread by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "August 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पीताम्बराष्टकम्"
+---
+Category: devii, aShTaka, devI
+File name: pItAmbarAShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 10, 2018
+Location: doc_devii
+Proofread by: lalitha parameswari parameswari.lalitha at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: pItAmbarAShTakam
+Transliterated by: lalitha parameswari parameswari.lalitha at gmail.com
+engtitle: pItAmbarAShTakam
+itxtitle: pItAmbarAShTakam
+title: पीताम्बराष्टकम्
 
-+++
+---
   
  श्रीपीताम्बराष्टकम्   
   

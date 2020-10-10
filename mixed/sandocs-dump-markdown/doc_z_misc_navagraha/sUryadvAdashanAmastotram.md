@@ -1,22 +1,22 @@
-+++
-"Text title" = "sUryadvAdashanAmastotram"
-"File name" = "sUryadvAdashanAmastotra.itx"
-itxtitle = "sUryadvAdashanAmastotram"
-engtitle = "Suryadvadashanamastotra"
-Category = "navagraha, stotra, dvAdasha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, Avinash Sathaye"
-"Latest update" = "August 10, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यद्वादशनामस्तोत्रम्"
+---
+Category: navagraha, stotra, dvAdasha
+File name: sUryadvAdashanAmastotra.itx
+Language: Sanskrit
+Latest update: August 10, 2014
+Location: doc_z_misc_navagraha
+Proofread by: NA, Avinash Sathaye
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryadvAdashanAmastotram
+Texttype: stotra
+Transliterated by: NA
+engtitle: Suryadvadashanamastotra
+itxtitle: sUryadvAdashanAmastotram
+title: सूर्यद्वादशनामस्तोत्रम्
 
-+++
+---
   
  सूर्यद्वादशनामस्तोत्र   
   

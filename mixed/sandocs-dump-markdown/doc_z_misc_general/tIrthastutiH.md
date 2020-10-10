@@ -1,22 +1,22 @@
-+++
-"Text title" = "tIrthastutiH"
-"File name" = "tIrthastutiH.itx"
-itxtitle = "tIrthastutiH"
-engtitle = "tIrthastutiH"
-Category = "misc, nadI"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तीर्थस्तुतिः"
+---
+Category: misc, nadI
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: tIrthastutiH.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: tIrthastutiH
+engtitle: tIrthastutiH
+itxtitle: tIrthastutiH
+title: तीर्थस्तुतिः
 
-+++
+---
   
  तीर्थस्तुतिः   
 गङ्गे च यमुने चैव गोदावरि सरस्वति ।  

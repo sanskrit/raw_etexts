@@ -1,21 +1,21 @@
-+++
-"Text title" = "Dakshinamurti Ashtottarashatanama Stotram"
-"File name" = "dakShiNAmUrtyaShTottarashatanAmastotram.itx"
-itxtitle = "dakShiNAmUrtyaShTottarashatanAmastotram (medhAdakShiNAmUrti)"
-engtitle = "dakShiNAmUrtyaShTottarashatanAmastotram"
-Category = "shiva, aShTottarashatanAma"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Description/comments" = "See corresponding namavali"
-"Latest update" = "June 27, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्त्यष्टोत्तरशतनामस्तोत्रम् (मेधादक्षिणामूर्ति)"
+---
+Category: shiva, aShTottarashatanAma
+Description/comments: See corresponding namavali
+File name: dakShiNAmUrtyaShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: June 27, 2019
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Dakshinamurti Ashtottarashatanama Stotram
+engtitle: dakShiNAmUrtyaShTottarashatanAmastotram
+itxtitle: dakShiNAmUrtyaShTottarashatanAmastotram (medhAdakShiNAmUrti)
+title: दक्षिणामूर्त्यष्टोत्तरशतनामस्तोत्रम् (मेधादक्षिणामूर्ति)
 
-+++
+---
   
  श्रीदक्षिणामूर्त्यष्टोत्तरशतनामस्तोत्रम्   
 श्रीमेधादक्षिणामूर्त्यष्टोत्तरशतनामस्तोत्रम्  

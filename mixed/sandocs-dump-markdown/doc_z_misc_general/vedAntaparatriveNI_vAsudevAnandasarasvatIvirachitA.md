@@ -1,23 +1,23 @@
-+++
-"Text title" = "vedAntaparatriveNI"
-"File name" = "vedAntaparatriveNIVS.itx"
-itxtitle = "vedAntaparatriveNI (vAsudevAnandasarasvatIvirachitA)"
-engtitle = "vedAntaparatriveNI"
-Category = "misc, vAsudevAnanda-sarasvatI, vedanta"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "vAsudevAnandasarasvatI TembesvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "From stotrAdisangraha"
-Indexextra = "(stotrAdisangraha, Author)"
-"Latest update" = "December 31, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदान्तपरत्रिवेणी (वासुदेवानन्दसरस्वतीविरचिता)"
+---
+Author: vAsudevAnandasarasvatI TembesvAmi
+Category: misc, vAsudevAnanda-sarasvatI, vedanta
+Description-comments: From stotrAdisangraha
+File name: vedAntaparatriveNIVS.itx
+Indexextra: (stotrAdisangraha, Author)
+Language: Sanskrit
+Latest update: December 31, 2018
+Location: doc_z_misc_general
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: vedAntaparatriveNI
+engtitle: vedAntaparatriveNI
+itxtitle: vedAntaparatriveNI (vAsudevAnandasarasvatIvirachitA)
+title: वेदान्तपरत्रिवेणी (वासुदेवानन्दसरस्वतीविरचिता)
 
-+++
+---
   
  वेदान्तपरत्रिवेणी   
 इन्द्रियाणां जडानां च विषयाणां च तादृशाम् ।  

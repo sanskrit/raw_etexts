@@ -1,22 +1,22 @@
-+++
-"Text title" = "sAvitrIpanjarastotram"
-"File name" = "sAvitrIpanjarastotram.itx"
-itxtitle = "sAvitrIpanjarastotram (vasiShThasaMhitAyAm)"
-engtitle = "sAvitrIpanjarastotram"
-Category = "devii, gAyatrI, panjara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "March 24, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सावित्रीपञ्जरस्तोत्रम् (वसिष्ठसंहितायाम्)"
+---
+Category: devii, gAyatrI, panjara, devI
+File name: sAvitrIpanjarastotram.itx
+Language: Sanskrit
+Latest update: March 24, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sAvitrIpanjarastotram
+Transliterated by: NA
+engtitle: sAvitrIpanjarastotram
+itxtitle: sAvitrIpanjarastotram (vasiShThasaMhitAyAm)
+title: सावित्रीपञ्जरस्तोत्रम् (वसिष्ठसंहितायाम्)
 
-+++
+---
   
  सावित्रीपञ्जरस्तोत्रम्   
   
@@ -97,7 +97,7 @@ title = "सावित्रीपञ्जरस्तोत्रम् (व
 जगतः प्रसवित्रीं तां सवितुः सृष्टिकारिणीम् ।  
 वरेण्यमित्यन्नमयीं पुरुषार्थफलप्रदाम् ॥ २४॥  
   
-अविद्यावर्णवर्ज्यां च तेजोवद्गर्भसंज्ञिकाम् ।  
+अविद्यावर्णवर्ज्यां च तेजोवद्गर्भसञ्ज्ञिकाम् ।  
 देवस्य सच्चिदानन्दपरब्रह्मरसात्मिकाम् ॥ २५॥  
   
 धीमह्यहं स वै तद्वद्ब्रह्माद्वैतस्वरूपिणीम् ।  
@@ -106,7 +106,7 @@ title = "सावित्रीपञ्जरस्तोत्रम् (व
 परोऽसौ सविता साक्षादेनोनिर्हरणाय च ।  
 परो रजस इत्यादि परं ब्रह्म सनातनम् ॥ २७॥  
   
-आपो ज्योतिरिति द्वाभ्यां पाञ्चभौतिकसंज्ञकम् ।  
+आपो ज्योतिरिति द्वाभ्यां पाञ्चभौतिकसञ्ज्ञकम् ।  
 रसोऽमृतं ब्रह्मपदैस्तां नित्यां तपिनीं पराम् ॥ २८॥  
   
 भूर्भुवःसुवरित्येतैर्निगमत्वप्रकाशिकाम् ।  
@@ -125,15 +125,15 @@ title = "सावित्रीपञ्जरस्तोत्रम् (व
 पर्जन्यहृदयासक्तवसुसुस्तनमण्डलाम् ॥ ३३॥  
   
 आकाशोदरवित्रस्तनाभ्यवान्तरदेशकाम् ।  
-प्रजापत्याख्यजघनां कटीन्द्राणीति संज्ञिकाम् ॥ ३४॥  
+प्रजापत्याख्यजघनां कटीन्द्राणीति सञ्ज्ञिकाम् ॥ ३४॥  
   
 ऊरू मलयमेरुभ्यां शोभमानासुरद्विषम् ।  
 जानुनी जह्नुकुशिकवैश्वदेवसदाभुजाम् ॥ ३५॥  
   
-अयनद्वयजङ्घाद्यखुराद्यपितृसंज्ञिकाम् ।  
+अयनद्वयजङ्घाद्यखुराद्यपितृसञ्ज्ञिकाम् ।  
 पदाङ्घ्रिनखरोमाद्यभूतलद्रुमलाञ्छिताम् ॥ ३६॥  
   
-ग्रहराश्यृक्षदेवर्षिमूर्तिं च परसंज्ञिकाम् ।  
+ग्रहराश्यृक्षदेवर्षिमूर्तिं च परसञ्ज्ञिकाम् ।  
 तिथिमासर्तुवर्षाख्यसुकेतुनिमिषात्मिकाम् ॥ ३७॥  
   
 अहोरात्रार्धमासाख्यां सूर्याचन्द्रमसात्मिकाम् ।  
@@ -181,7 +181,7 @@ title = "सावित्रीपञ्जरस्तोत्रम् (व
 आदित्यपथगामिन्यां स्मरेद्ब्रह्मस्वरूपिणीम् ।  
 विचित्रमन्त्रजनर्नीं स्मरेद्विद्यां सरस्वतीम् ॥ ५२॥  
   
-त्रिपदा ऋह्मयी पूर्वामुखी ब्रह्मास्त्रसंज्ञिका ।  
+त्रिपदा ऋह्मयी पूर्वामुखी ब्रह्मास्त्रसञ्ज्ञिका ।  
 चतुर्विंशतितत्त्वाख्या पातु प्राचीं दिशं मम ॥ ५३॥  
   
 चतुष्पादयजुर्ब्रह्मदण्डाख्या पातु दक्षिणाम् ।  
@@ -196,7 +196,7 @@ title = "सावित्रीपञ्जरस्तोत्रम् (व
 पञ्चाशत्तत्त्वरचिता भवपादा शताक्षरी ।  
 व्योमाख्या पातु मे चोर्ध्वां दिशं वेदाङ्गसंस्थिता ॥ ५७॥  
   
-विद्युन्निभा ब्रह्मसंज्ञा मृगारूढा चतुर्भुजा ।  
+विद्युन्निभा ब्रह्मसञ्ज्ञा मृगारूढा चतुर्भुजा ।  
 चापेषुचर्मासिधरा पातु मे पावकीं दिशम् ॥ ५८॥  
   
 ब्राह्मी कुमारी गायत्री रक्ताङ्गी हंसवाहिनी ।  

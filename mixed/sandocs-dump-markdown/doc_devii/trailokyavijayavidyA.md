@@ -1,22 +1,22 @@
-+++
-"Text title" = "trailokyavijayavidyA"
-"File name" = "trailokyavijayavidyA.itx"
-itxtitle = "trailokyavijayavidyA"
-engtitle = "trailokyavijayavidyA"
-Category = "kavacha, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-"Latest update" = "March 20, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रैलोक्यविजयविद्या"
+---
+Author: Traditional
+Category: kavacha, devii, devI
+File name: trailokyavijayavidyA.itx
+Language: Sanskrit
+Latest update: March 20, 2016
+Location: doc_devii
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: trailokyavijayavidyA
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: trailokyavijayavidyA
+itxtitle: trailokyavijayavidyA
+title: त्रैलोक्यविजयविद्या
 
-+++
+---
   
  त्रैलोक्यविजयविद्या   
   

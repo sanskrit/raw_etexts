@@ -1,22 +1,22 @@
-+++
-"Text title" = "subrahmaNyamUlamantrastavaH"
-"File name" = "subrahmaNyamUlamantrastavaH.itx"
-itxtitle = "subrahmaNyamUlamantrastavaH"
-engtitle = "subrahmaNyamUlamantrastavaH"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran"
-Description-comments = "Subrahmanya Stuti Manjari, Mahaperiaval Trust"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "December 23, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यमूलमन्त्रस्तवः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: subrahmanya
+Description-comments: Subrahmanya Stuti Manjari, Mahaperiaval Trust
+File name: subrahmaNyamUlamantrastavaH.itx
+Language: Sanskrit
+Latest update: December 23, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyamUlamantrastavaH
+engtitle: subrahmaNyamUlamantrastavaH
+itxtitle: subrahmaNyamUlamantrastavaH
+title: सुब्रह्मण्यमूलमन्त्रस्तवः
 
-+++
+---
   
  श्रीसुब्रह्मण्यमूलमन्त्रस्तवः   
   

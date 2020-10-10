@@ -1,20 +1,21 @@
-+++
-"Text title" = "kAmagItA"
-"File name" = "kAmagItA.itx"
-itxtitle = "kAmagItA"
-engtitle = "kAmagItA"
-Category = "giitaa, gItA"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(mahAbhArate ashvamedhaparvaNi kRiShNadharmarAjasaMvAde trayodasho.adhya 14.13.1-14.13.21, Hindi)"
-"Latest update" = "December 23, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामगीता"
+---
+Category: giitaa, gItA
+File name: kAmagItA.itx
+Indexextra: (mahAbhArate ashvamedhaparvaNi kRiShNadharmarAjasaMvAde trayodasho.adhya
+  14.13.1-14.13.21, Hindi)
+Language: Sanskrit
+Latest update: December 23, 2018
+Location: doc_giitaa
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: kAmagItA
+engtitle: kAmagItA
+itxtitle: kAmagItA
+title: कामगीता
 
-+++
+---
   
  कामगीता   
 Mahabharata - Ashvamedhika Parva 14.13   

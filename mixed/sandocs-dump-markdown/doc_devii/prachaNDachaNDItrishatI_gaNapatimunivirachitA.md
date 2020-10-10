@@ -1,24 +1,25 @@
-+++
-"Text title" = "prachaNDachaNDItrishatI"
-"File name" = "prachaNDachaNDItrishatI.itx"
-itxtitle = "prachaNDachaNDItrishatI (gaNapatimunivirachitA)"
-engtitle = "prachaNDachaNDItrishatI"
-Category = "shatI, devii, otherforms, gaNapati-muni, devI, trishatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Author = "Shri Vasishtha Ganapati Muni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-Description-comments = "The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol 2.15"
-Indexextra = "(Collected Works)"
-"Latest update" = "July 3, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रचण्डचण्डीत्रिशती (गणपतिमुनिविरचिता)"
+---
+Author: Shri Vasishtha Ganapati Muni
+Category: shatI, devii, otherforms, gaNapati-muni, devI, trishatI
+Description-comments: The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol
+  2.15
+File name: prachaNDachaNDItrishatI.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: July 3, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: prachaNDachaNDItrishatI
+engtitle: prachaNDachaNDItrishatI
+itxtitle: prachaNDachaNDItrishatI (gaNapatimunivirachitA)
+title: प्रचण्डचण्डीत्रिशती (गणपतिमुनिविरचिता)
 
-+++
+---
   
  प्रचण्डचण्डीत्रिशती   
   
@@ -470,7 +471,7 @@ title = "प्रचण्डचण्डीत्रिशती (गणपत
 केवलं न सहसा महनीये तेजसा च वरदेऽवतर त्वम् ।  
 अत्र सिद्धिमपि केवलवीर्योल्लासिनीं जननि योजय भासा ॥ १४३॥  
   
-छिन्नमुज्ज्वलतटित्प्रभनेत्रं कण्ठरक्त्जलसींग्रहपात्रम् ।  
+छिन्नमुज्ज्वलतटित्प्रभनेत्रं कण्ठरक्त्जलसीङ्ग्रहपात्रम् ।  
 मस्तकं तव सहेश्वरि धन्यं मस्तकं मम करोतु विशून्यम् ॥ १४४॥  
   
 मोचिताश्रितगुहान्तरबन्धः प्राणवांस्तव सवित्रि कबन्धः ।  

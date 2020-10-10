@@ -1,24 +1,24 @@
-+++
-"Text title" = "Kalpakambika Suprabhatam"
-"File name" = "kalpakAmbikAsharaNapadyAni.itx"
-itxtitle = "kalpakAmbikAsharaNapadyAni"
-engtitle = "kalpakAmbikAsharaNapadyAni"
-Category = "devii, devI, otherforms"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Author = "sheShashAyIsharmA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Tamil)"
-"Latest update" = "July 2, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कल्पकाम्बिकाशरणपद्यानि"
+---
+Author: sheShashAyIsharmA
+Category: devii, devI, otherforms
+File name: kalpakAmbikAsharaNapadyAni.itx
+Indexextra: (Tamil)
+Language: Sanskrit
+Latest update: July 2, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kalpakambika Suprabhatam
+Texttype: stotra
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: kalpakAmbikAsharaNapadyAni
+itxtitle: kalpakAmbikAsharaNapadyAni
+title: कल्पकाम्बिकाशरणपद्यानि
 
-+++
+---
   
  श्रीकल्पकाम्बिकाशरणपद्यानि   
 अव्याजकारुण्यरसप्रवाहां  

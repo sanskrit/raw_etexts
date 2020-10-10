@@ -1,26 +1,27 @@
-+++
-"Text title" = "Umamaheshvara Stotra"
-"File name" = "umamaheshvara.itx"
-itxtitle = "umAmaheshvarastotram mallikArjunastotram shrIshaileshabhramarAmbAstutiH cha (shaNkarAchAryavirachitam)"
-engtitle = "Uma-Maheshvara Stotra"
-Category = "shiva, pArvatI, stotra, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "shiva"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "Sri Sankararacharya"
-Language = "Sanskrit"
-Subject = "religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "Hymn in praise of Parvati and Shiva"
-Indexextra = "(meaning)"
-"Latest update" = "Nov. 1,, 1999, August 30, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उमामहेश्वरस्तोत्रम् मल्लिकार्जुनस्तोत्रम् श्रीशैलेशभ्रमराम्बास्तुतिः च (शण्कराचार्यविरचितम्)"
+---
+Author: Sri Sankararacharya
+Category: shiva, pArvatI, stotra, shankarAchArya
+Description-comments: Hymn in praise of Parvati and Shiva
+File name: umamaheshvara.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: Nov. 1,, 1999, August 30, 2018
+Location: doc_devii
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: religion/hinduism
+Sublocation: shiva
+Text title: Umamaheshvara Stotra
+Texttype: stotra
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Uma-Maheshvara Stotra
+itxtitle: umAmaheshvarastotram mallikArjunastotram shrIshaileshabhramarAmbAstutiH
+  cha (shaNkarAchAryavirachitam)
+title: उमामहेश्वरस्तोत्रम् मल्लिकार्जुनस्तोत्रम् श्रीशैलेशभ्रमराम्बास्तुतिः च (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  उमामहेश्वरस्तोत्रम्   
 नमः शिवाभ्यां नवयौवनाभ्याम्   

@@ -1,24 +1,26 @@
-+++
-"Text title" = "adhyardhashataka Hymn of One Hundred-fifty Verses"
-"File name" = "adhyardhashataka.itx"
-itxtitle = "001 adhyardhashatakaM athavA prasAdapratibhodhava athavA shatapanchAshatakam (mAtRicheTa virachitam)"
-engtitle = "adhyardhashataka"
-Category = "major_works, buddha, bauddhastotrasangraha"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "mAtRicheTa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jens-Uwe Hartmann posted on GRETIL"
-"Description/comments" = "The edition of D. R. Shackleton Bailey, The Śatapañcāśatka of Mātṛceṭa, Cambridge 1951, also Bauddha stotra Samgrahah"
-Indexextra = "(Scan, Reference, Text, 108 stotras)"
-"Latest update" = "July 13, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "००१ अध्यर्धशतकं अथवा प्रसादप्रतिभोधव अथवा शतपञ्चाशतकम् (मातृइचेट विरचितम्)"
+---
+Author: mAtRicheTa
+Category: major_works, buddha, bauddhastotrasangraha
+Description/comments: The edition of D. R. Shackleton Bailey, The Śatapañcāśatka of
+  Mātṛceṭa, Cambridge 1951, also Bauddha stotra Samgrahah
+File name: adhyardhashataka.itx
+Indexextra: (Scan, Reference, Text, 108 stotras)
+Language: Sanskrit
+Latest update: July 13, 2019
+Location: doc_z_misc_major_works
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: adhyardhashataka Hymn of One Hundred-fifty Verses
+Texttype: pramukha
+Transliterated by: Jens-Uwe Hartmann posted on GRETIL
+engtitle: adhyardhashataka
+itxtitle: 001 adhyardhashatakaM athavA prasAdapratibhodhava athavA shatapanchAshatakam
+  (mAtRicheTa virachitam)
+title: ००१ अध्यर्धशतकं अथवा प्रसादप्रतिभोधव अथवा शतपञ्चाशतकम् (मातृइचेट विरचितम्)
 
-+++
+---
   
  अध्यर्धशतकम्   
 प्रसादप्रतिभोधव (शतपञ्चाशतकनामस्तोत्रम्) मातृचेटविरचितम् ।  
@@ -496,7 +498,7 @@ title = "००१ अध्यर्धशतकं अथवा प्रस�
 देवदत्तमुपादाय सर्वत्र स्युर्निवेशिताः ॥ १४०॥  
   
 अत एव जगन्नाथ नेहान्योऽन्यस्य कारकः ।  
-इति त्वमुक्तवान्भूतं जगत् संज्ञपयन्न् इव ॥ १४१॥  
+इति त्वमुक्तवान्भूतं जगत् सञ्ज्ञपयन्न् इव ॥ १४१॥  
   
 चिराय भुवि सद्धर्मं प्रेर्य लोकानुकम्पया ।  
 बहूनुत्पाद्य सच्छिष्यांस्त्रैलोक्यानुग्रहक्षमान् ॥ १४२॥  

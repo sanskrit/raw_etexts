@@ -1,24 +1,24 @@
-+++
-"Text title" = "kalkistavaH 2"
-"File name" = "kalkistavaH2.itx"
-itxtitle = "kalkistavaH 2"
-engtitle = "kalkistavaH 2"
-Category = "vishhnu, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कल्किस्तवः २"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, dashAvatAra
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: kalkistavaH2.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kalkistavaH 2
+engtitle: kalkistavaH 2
+itxtitle: kalkistavaH 2
+title: कल्किस्तवः २
 
-+++
+---
   
  कल्किस्तवः २   
   

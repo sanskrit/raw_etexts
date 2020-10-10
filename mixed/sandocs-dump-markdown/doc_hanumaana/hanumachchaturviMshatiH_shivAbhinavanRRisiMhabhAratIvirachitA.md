@@ -1,24 +1,25 @@
-+++
-"Text title" = "hanumachchaturviMshatiH"
-"File name" = "hanumachchaturviMshatiH.itx"
-itxtitle = "hanumachchaturviMshatiH (shivAbhinavanRRisiMhabhAratIvirachitA)"
-engtitle = "hanumachchaturviMshatiH"
-Category = "chaturviMshati, hanumaana, stotra, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Author = "shrIsachchidAnanda shivAbhinavanRisiMha bhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-"Description/comments" = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "December 8, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमच्चतुर्विंशतिः (शिवाभिनवनृसिंहभारतीविरचिता)"
+---
+Author: shrIsachchidAnanda shivAbhinavanRisiMha bhAratI
+Category: chaturviMshati, hanumaana, stotra, sachchidAnanda-shivAbhinava-nRisiMhabhAratI,
+  hanuman
+Description/comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumachchaturviMshatiH.itx
+Language: Sanskrit
+Latest update: December 8, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumachchaturviMshatiH
+Texttype: stotra
+Transliterated by: Processed by Shree Devi Kumar
+engtitle: hanumachchaturviMshatiH
+itxtitle: hanumachchaturviMshatiH (shivAbhinavanRRisiMhabhAratIvirachitA)
+title: हनुमच्चतुर्विंशतिः (शिवाभिनवनृसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीहनुमच्चतुर्विंशतिः   
 यो बाल्येऽपि दिनेशं प्रोद्यन्तं पक्वदिव्यफलबुद्ध्या ।  
@@ -33,7 +34,7 @@ title = "हनुमच्चतुर्विंशतिः (शिवाभ
 लङ्कापुराधिदैवतगर्वं वेगाच्चपेटिकादानात् ।  
 निर्मूलं यश्चक्रे वन्दे तं वायुसूनुममितबलम् ॥ ४॥  
   
-गोष्पदवत्सरितांनिधिमुल्लङ्घ्याशोकविपिनगां सीताम् ।  
+गोष्पदवत्सरितान्निधिमुल्लङ्घ्याशोकविपिनगां सीताम् ।  
 अद्राक्षीद्भयरहितो यस्तं प्रणमामि शिंशुपामूले ॥ ५॥  
   
 रामादेशश्रवणानन्दादुद्धूतशोकगन्धां यः ।  
@@ -48,7 +49,7 @@ title = "हनुमच्चतुर्विंशतिः (शिवाभ
 सीताप्रोदितवचनान्यशेषतो यो निवेद्य रघुवीरम् ।  
 चक्रे चिन्तारहितं वन्दे तं चिन्तितार्थदं नमताम् ॥ ९॥  
   
-समरे वक्षसि येन प्रहतः संमूर्छितः ससंज्ञोऽथ ।  
+समरे वक्षसि येन प्रहतः सम्मूर्छितः ससञ्ज्ञोऽथ ।  
 प्रशशंस रावणो यं तमतिबलानन्दवर्धनं नौमि ॥ १०॥  
   
 ओषधिगिरिमतिवेगान्नत्वाऽऽनीय प्रवृद्धदिव्यतनुः ।  

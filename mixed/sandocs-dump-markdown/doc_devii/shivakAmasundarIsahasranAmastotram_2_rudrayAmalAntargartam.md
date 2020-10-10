@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrI shivakAmasundarI sahasranAmastotra 2 rudrayAmalAntargartam"
-"File name" = "shivakAmasundarIsahasranAmastotrarudrayAmala.itx"
-itxtitle = "shivakAmasundarIsahasranAmastotram 2 (rudrayAmalAntargartam)"
-engtitle = "shivakAmasundarIsahasranAmastotra 2 from rudrayAmalatantra"
-Category = "sahasranAma, devii, stotra, devI, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Description-comments = "Mahaperiaval trust publication"
-Source = "Rudrayamalatantra"
-Indexextra = "(Scan)"
-"Latest update" = "May 1, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवकामसुन्दरीसहस्रनामस्तोत्रम् २ (रुद्रयामलान्तर्गर्तम्)"
+---
+Category: sahasranAma, devii, stotra, devI, pArvatI
+Description-comments: Mahaperiaval trust publication
+File name: shivakAmasundarIsahasranAmastotrarudrayAmala.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 1, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalatantra
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrI shivakAmasundarI sahasranAmastotra 2 rudrayAmalAntargartam
+Texttype: stotra
+engtitle: shivakAmasundarIsahasranAmastotra 2 from rudrayAmalatantra
+itxtitle: shivakAmasundarIsahasranAmastotram 2 (rudrayAmalAntargartam)
+title: शिवकामसुन्दरीसहस्रनामस्तोत्रम् २ (रुद्रयामलान्तर्गर्तम्)
 
-+++
+---
   
  श्रीशिवकामसुन्दरीसहस्रनामस्तोत्रम् रुद्रयामलान्तर्गतम्   
   

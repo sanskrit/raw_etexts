@@ -1,24 +1,25 @@
-+++
-"Text title" = "shriishanaishcharastotram"
-"File name" = "shani.itx"
-itxtitle = "shanaishcharastotram (brahmANDapurANAntargatam dasharathaproktam koNo.antako raudrayamo)"
-engtitle = "shanaishcharastotram"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "puraaNam"
-"Transliterated by" = "Michael Magee"
-"Proofread by" = "Mike Magee  and NA"
-Description-comments = "shriishanaishcharastotram.h"
-Indexextra = "(Meaning)"
-"Latest update" = "March 9, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शनैश्चरस्तोत्रम् (ब्रह्माण्डपुराणान्तर्गतम् दशरथप्रोक्तम् कोणोऽन्तको रौद्रयमो)"
+---
+Category: navagraha, stotra
+Description-comments: shriishanaishcharastotram.h
+File name: shani.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: March 9, 2005
+Location: doc_z_misc_navagraha
+Proofread by: Mike Magee  and NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: puraaNam
+Sublocation: navagraha
+Text title: shriishanaishcharastotram
+Texttype: stotra
+Transliterated by: Michael Magee
+engtitle: shanaishcharastotram
+itxtitle: shanaishcharastotram (brahmANDapurANAntargatam dasharathaproktam koNo.antako
+  raudrayamo)
+title: शनैश्चरस्तोत्रम् (ब्रह्माण्डपुराणान्तर्गतम् दशरथप्रोक्तम् कोणोऽन्तको रौद्रयमो)
 
-+++
+---
   
  शनैश्चरस्तोत्रम्   
 श्रीगणेशाय नमः ॥  
@@ -29,13 +30,13 @@ title = "शनैश्चरस्तोत्रम् (ब्रह्मा
 शनैश्चरप्रीत्यर्थ जपे विनियोगः ।  
 दशरथ उवाच ॥  
   
-कोणोऽन्तको रौद्रयमोऽथ बभ्रुः कृष्णः शनिः पिंगलमन्दसौरिः ।  
+कोणोऽन्तको रौद्रयमोऽथ बभ्रुः कृष्णः शनिः पिङ्गलमन्दसौरिः ।  
 नित्यं स्मृतो यो हरते च पीडां तस्मै नमः श्रीरविनन्दनाय ॥ १॥  
   
-सुरासुराः किंपुरुषोरगेन्द्रा गन्धर्वविद्याधरपन्नगाश्च ।  
+सुरासुराः किम्पुरुषोरगेन्द्रा गन्धर्वविद्याधरपन्नगाश्च ।  
 पीड्यन्ति सर्वे विषमस्थितेन तस्मै नमः श्रीरविनन्दनाय ॥ २॥  
   
-नरा नरेन्द्राः पशवो मृगेन्द्रा वन्याश्च ये कीटपतंगभृङ्गाः ।  
+नरा नरेन्द्राः पशवो मृगेन्द्रा वन्याश्च ये कीटपतङ्गभृङ्गाः ।  
 पीड्यन्ति सर्वे विषमस्थितेन तस्मै नमः श्रीरविनन्दनाय ॥ ३॥  
   
 देशाश्च दुर्गाणि वनानि यत्र सेनानिवेशाः पुरपत्तनानि ।  
@@ -50,7 +51,7 @@ title = "शनैश्चरस्तोत्रम् (ब्रह्मा
 अन्यप्रदेशात्स्वगृहं प्रविष्टस्तदीयवारे स नरः सुखी स्यात् ।  
 गृहाद् गतो यो न पुनः प्रयाति तस्मै नमः श्रीरविनन्दनाय ॥ ७॥  
   
-स्रष्टा स्वयंभूर्भुवनत्रयस्य त्राता हरीशो हरते पिनाकी ।  
+स्रष्टा स्वयम्भूर्भुवनत्रयस्य त्राता हरीशो हरते पिनाकी ।  
 एकस्त्रिधा ऋग्यजुःसाममूर्तिस्तस्मै नमः श्रीरविनन्दनाय ॥ ८॥  
   
 शन्यष्टकं यः प्रयतः प्रभाते नित्यं सुपुत्रैः पशुबान्धवैश्च ।  

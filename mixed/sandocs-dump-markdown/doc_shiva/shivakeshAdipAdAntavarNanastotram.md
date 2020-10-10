@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivakeshAdipAdAntavarNanastotram"
-"File name" = "shivakeshAdipAdAntavarNanastotram.itx"
-itxtitle = "shivakeshAdipAdAntavarNanastotram"
-engtitle = "shivakeshAdipAdAntavarNanastotram"
-Category = "shiva, shankarAchArya"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rajnarayanan C K krajnara at gmail.com"
-"Proofread by" = "Rajnarayanan C K, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara"
-"Latest update" = "January 16, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवकेशादिपादान्तवर्णनस्तोत्रम्"
+---
+Author: Shankaracharya
+Category: shiva, shankarAchArya
+Description-comments: Brihatstotraratnakara
+File name: shivakeshAdipAdAntavarNanastotram.itx
+Language: Sanskrit
+Latest update: January 16, 2017
+Location: doc_shiva
+Proofread by: Rajnarayanan C K, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivakeshAdipAdAntavarNanastotram
+Transliterated by: Rajnarayanan C K krajnara at gmail.com
+engtitle: shivakeshAdipAdAntavarNanastotram
+itxtitle: shivakeshAdipAdAntavarNanastotram
+title: शिवकेशादिपादान्तवर्णनस्तोत्रम्
 
-+++
+---
   
  श्रीशिवकेशादिपादान्तवर्णनस्तोत्रम्   
   
@@ -83,7 +83,7 @@ title = "शिवकेशादिपादान्तवर्णनस्�
   
 सद्योजाताख्यमाप्यं यदुविमलमुदग्वर्ति यद्वामदेवं  
 नाम्ना हेम्ना सदृक्षं जलदनिभमघोराह्वयं दक्षिणं यत् ।  
-यद्बालार्कप्रभं तत्पुरुषनिगदितं पूर्वमीशानसंज्ञं  
+यद्बालार्कप्रभं तत्पुरुषनिगदितं पूर्वमीशानसञ्ज्ञं  
 यद्दिव्यं तानि शम्भोर्भवदभिलषितं पञ्च दद्युर्मुखानि ॥ १३॥  
   
 आत्मप्रेम्णो भवान्या स्वयमिव रचिताः सादरं सांवनन्या  

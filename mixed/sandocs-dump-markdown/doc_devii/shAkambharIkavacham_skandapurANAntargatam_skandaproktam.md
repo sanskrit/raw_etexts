@@ -1,25 +1,25 @@
-+++
-"Text title" = "shAkambharIkavacham"
-"File name" = "shAkambharIkavacham.itx"
-itxtitle = "shAkambharIkavacham (skandapurANAntargatam skandaproktam)"
-engtitle = "shAkambharIkavacham"
-Category = "devii, dashamahAvidyA, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Prakash Ketkar"
-"Proofread by" = "Prakash Ketkar, NA"
-"Description/comments" = "skandapurANa"
-Indexextra = "(Audio-Video)"
-Acknowledge-Permission = "http://ioustotra.blogspot.com"
-"Latest update" = "August 5, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शाकम्भरीकवचम् (स्कन्दपुराणान्तर्गतम् स्कन्दप्रोक्तम्)"
+---
+Acknowledge-Permission: http://ioustotra.blogspot.com
+Category: devii, dashamahAvidyA, kavacha, devI
+Description/comments: skandapurANa
+File name: shAkambharIkavacham.itx
+Indexextra: (Audio-Video)
+Language: Sanskrit
+Latest update: August 5, 2018
+Location: doc_devii
+Proofread by: Prakash Ketkar, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAkambharIkavacham
+Transliterated by: Prakash Ketkar
+engtitle: shAkambharIkavacham
+itxtitle: shAkambharIkavacham (skandapurANAntargatam skandaproktam)
+title: शाकम्भरीकवचम् (स्कन्दपुराणान्तर्गतम् स्कन्दप्रोक्तम्)
 
-+++
+---
   
  श्रीशाकम्भरी कवचम्   
 शक्र उवाच -  

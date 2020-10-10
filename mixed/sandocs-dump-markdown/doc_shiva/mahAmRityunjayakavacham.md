@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAmRityuMjaya kavacha"
-"File name" = "mahaamRikavacha.itx"
-itxtitle = "mahAmRityunjayakavacham"
-engtitle = "mahAmRityu.njaya kavacha"
-Category = "kavacha, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rUdrayAmala_tantra"
-"Latest update" = "January 02, 2005, January 13, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महामृइत्युञ्जयकवचम्"
+---
+Author: Traditional
+Category: kavacha, shiva
+Description-comments: rUdrayAmala_tantra
+File name: mahaamRikavacha.itx
+Language: Sanskrit
+Latest update: January 02, 2005, January 13, 2008
+Location: doc_shiva
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mahAmRityuMjaya kavacha
+Transliterated by: WebD
+engtitle: mahAmRityu.njaya kavacha
+itxtitle: mahAmRityunjayakavacham
+title: महामृइत्युञ्जयकवचम्
 
-+++
+---
   
  महामृत्युञ्जयकवचम्   
   

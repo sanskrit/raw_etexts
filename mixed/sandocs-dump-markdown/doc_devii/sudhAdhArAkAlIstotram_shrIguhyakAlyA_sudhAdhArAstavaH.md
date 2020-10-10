@@ -1,23 +1,23 @@
-+++
-"Text title" = "sudhAdhArAkAlIstotram"
-"File name" = "sudhAdhArAkAlIstotram.itx"
-itxtitle = "sudhAdhArAkAlIstotram shrIguhyakAlyA sudhAdhArAstavaH"
-engtitle = "sudhAdhArAkAlIstotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "mahAkAlasaMhitAyAM shrIguhyakAlyA"
-Indexextra = "(Hindi, audio)"
-"Latest update" = "January 7, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुधाधाराकालीस्तोत्रम् श्रीगुह्यकाल्या सुधाधारास्तवः"
+---
+Category: devii, dashamahAvidyA, devI
+Description-comments: mahAkAlasaMhitAyAM shrIguhyakAlyA
+File name: sudhAdhArAkAlIstotram.itx
+Indexextra: (Hindi, audio)
+Language: Sanskrit
+Latest update: January 7, 2017
+Location: doc_devii
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sudhAdhArAkAlIstotram
+engtitle: sudhAdhArAkAlIstotram
+itxtitle: sudhAdhArAkAlIstotram shrIguhyakAlyA sudhAdhArAstavaH
+title: सुधाधाराकालीस्तोत्रम् श्रीगुह्यकाल्या सुधाधारास्तवः
 
-+++
+---
   
  सुधाधाराकाली स्तोत्रम्   
 अचिन्त्यामिताकारशक्तिस्वरूपा  

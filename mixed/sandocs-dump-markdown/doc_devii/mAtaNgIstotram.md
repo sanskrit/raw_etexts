@@ -1,23 +1,23 @@
-+++
-"Text title" = "Matangi Stotra"
-"File name" = "mAtangIstotram.itx"
-itxtitle = "mAtaNgIstotram"
-engtitle = "Matangi Stotra"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Lalitha Parameswari parameswari.lalitha at gmail.com"
-"Proofread by" = "Lalitha Parameswari, NA"
-Indexextra = "(Mahavidya Chatushtayam)"
-"Latest update" = "June 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातण्गीस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, devI
+File name: mAtangIstotram.itx
+Indexextra: (Mahavidya Chatushtayam)
+Language: Sanskrit
+Latest update: June 2, 2018
+Location: doc_devii
+Proofread by: Lalitha Parameswari, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Matangi Stotra
+Transliterated by: Lalitha Parameswari parameswari.lalitha at gmail.com
+engtitle: Matangi Stotra
+itxtitle: mAtaNgIstotram
+title: मातण्गीस्तोत्रम्
 
-+++
+---
   
  श्रीमातङ्गीस्तोत्रम्   
 मातङ्गीं मधुपानमत्तनयनां मातङ्ग सञ्चारिणीं  

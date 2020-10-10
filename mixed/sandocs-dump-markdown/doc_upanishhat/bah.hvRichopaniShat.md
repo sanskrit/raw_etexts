@@ -1,23 +1,23 @@
-+++
-"Text title" = "Bahvricha Upanishad"
-"File name" = "bahvricha.itx"
-itxtitle = "bah.hvRichopaniShat"
-engtitle = "Bahvrucha Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Kannan Subramanian"
-"Proofread by" = "P.P.Narayanaswami(swami at math.mun.ca"
-Description-comments = "107/108; Rig-Veda, Shakta Upanishad"
-"Latest update" = "July, 3, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बह्।ह्वृइचोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 107/108; Rig-Veda, Shakta Upanishad
+File name: bahvricha.itx
+Language: Sanskrit
+Latest update: July, 3, 1999
+Location: doc_upanishhat
+Proofread by: P.P.Narayanaswami(swami at math.mun.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Bahvricha Upanishad
+Transliterated by: Kannan Subramanian
+engtitle: Bahvrucha Upanishad
+itxtitle: bah.hvRichopaniShat
+title: बह्।ह्वृइचोपनिषत्
 
-+++
+---
   
  बह्वृचोपनिषत्   
   
@@ -36,21 +36,21 @@ title = "बह्।ह्वृइचोपनिषत्"
 हरिः ॐ ॥  
   
 देवी ह्येकाग्र एवासीत् । सैव जगदण्डमसृजत् ।  
-कामकलेति विज्ञायते । शृंगारकलेति विज्ञायते ॥ १॥  
+कामकलेति विज्ञायते । शृङ्गारकलेति विज्ञायते ॥ १॥  
   
 तस्या एव ब्रह्मा अजीजनत् । विष्णुरजीजनत् ।  
 रुद्रोऽजीजनत् । सर्वे मरुद्गणा अजीजनत् ।  
 गन्धर्वाप्सरसः किन्नरा वादित्रवादिनः समन्तादजीजनत् ।  
 भोग्यमजीजनत्। सर्वमजीजनत् । सर्वं शाक्तमजीजनत् ।  
-अण्डजं स्वेदजमुद्भिज्जं जरायुजम् यत्किंचैतत् प्राणि  
-स्थावरजंगमं मनुष्यमजीजनत् ॥ २॥  
+अण्डजं स्वेदजमुद्भिज्जं जरायुजम् यत्किञ्चैतत् प्राणि  
+स्थावरजङ्गमं मनुष्यमजीजनत् ॥ २॥  
   
-सैषा परा शक्तिः । सैषा शांभवीविद्या  
+सैषा परा शक्तिः । सैषा शाम्भवीविद्या  
 कादिविद्येति वा हादिविद्येति वा सादिविद्येति वा ।  
 रहस्यमोमों वाचि प्रतिष्ठा ॥ ३॥  
   
 सैव पुरत्रयं शरीरत्रयं व्याप्य बहिरन्तरवभासयन्ती  
-देशकालवस्त्वन्तरसंगान्महात्रिपुरसुन्दरी वै प्रत्यक्चितिः ॥  
+देशकालवस्त्वन्तरसङ्गान्महात्रिपुरसुन्दरी वै प्रत्यक्चितिः ॥  
   
 ४॥  
   
@@ -68,15 +68,15 @@ title = "बह्।ह्वृइचोपनिषत्"
 अधिष्ठानं परं तत्त्वमेकं सच्छिष्यते महत् ॥ इति ॥ ६॥  
   
 प्रज्ञानं ब्रह्मेति वा अहं ब्रह्मास्मीति वा भाष्यते ।  
-तत्त्वमसीत्येव संभाष्यते ।  
+तत्त्वमसीत्येव सम्भाष्यते ।  
 अयमात्मा ब्रह्मेति वा ब्रह्मैवाहमस्मीति वा ॥ ७॥  
   
 योऽहमस्मीति वा सोहमस्मीति वा योऽसौ सोऽहमस्मीति वा  
 या भाव्यते सैषा षोडशी श्रीविद्या पञ्चदशाक्षरी  
-श्रीमहात्रिपुरसुन्दरी बालांबिकेति बगलेति वा मातंगीति  
+श्रीमहात्रिपुरसुन्दरी बालाम्बिकेति बगलेति वा मातङ्गीति  
 स्वयंवरकल्याणीति भुवनेश्वरीति चामुण्डेति चण्डेति  
-वाराहीति तिरस्करिणीति राजमातंगीति वा शुकश्यामलेति वा  
-लघुश्यामलेति वा अश्वारूढेति वा प्रत्यंगिरा धूमावती  
+वाराहीति तिरस्करिणीति राजमातङ्गीति वा शुकश्यामलेति वा  
+लघुश्यामलेति वा अश्वारूढेति वा प्रत्यङ्गिरा धूमावती  
 सावित्री गायत्री सरस्वती ब्रह्मानन्दकलेति ॥ ८॥  
   
 ऋचो अक्षरे परमे व्योमन् । यस्मिन् देवा अधि विश्वे निषेदुः ।  
@@ -85,7 +85,7 @@ title = "बह्।ह्वृइचोपनिषत्"
   
 ॐ वाङ्मे मनसि प्रतिष्ठिता । मनो मे वाचि प्रतिष्ठितम् ।  
 आविरावीर्म एधि । वेदस्य म आणीस्थः । श्रुतं मे मा प्रहासीः ।  
-अनेनाधीतेनाहोरात्रान् संदधामि । ऋतं वदिष्यामि ।  
+अनेनाधीतेनाहोरात्रान् सन्दधामि । ऋतं वदिष्यामि ।  
 सत्यं वदिष्यामि । तन्मामवतु । तद्वक्तारमवतु । अवतु माम् ।  
 अवतु वक्तारम् । अवतु वक्तारम् ।  
 ॐ शान्तिः शान्तिः शान्तिः ॥  

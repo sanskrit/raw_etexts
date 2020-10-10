@@ -1,23 +1,23 @@
-+++
-"Text title" = "tripurabhairavIsahasranAmAvaliH"
-"File name" = "tripurabhairavIsahasranAmAvaliH.itx"
-itxtitle = "tripurabhairavIsahasranAmAvaliH"
-engtitle = "tripurabhairavIsahasranAmAvaliH"
-Category = "sahasranAmAvalI, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरभैरवीसहस्रनामावलिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAmAvalI, devii, devI
+File name: tripurabhairavIsahasranAmAvaliH.itx
+Indexextra: (stotramanjari 2)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tripurabhairavIsahasranAmAvaliH
+Transliterated by: Shree Devi Kumar
+engtitle: tripurabhairavIsahasranAmAvaliH
+itxtitle: tripurabhairavIsahasranAmAvaliH
+title: त्रिपुरभैरवीसहस्रनामावलिः
 
-+++
+---
   
  श्रीत्रिपुरभैरवीसहस्रनामावलिः   
   
@@ -520,7 +520,7 @@ title = "त्रिपुरभैरवीसहस्रनामावल�
 ॐ वह्निमण्डलसंस्थायै नमः ।  
 ॐ वह्निमण्डलमध्यगायै नमः ।  
 ॐ वह्निमण्डलरूपायै नमः ।  
-ॐ वह्निमण्डलसंज्ञकायै नमः ।  
+ॐ वह्निमण्डलसञ्ज्ञकायै नमः ।  
 ॐ वह्नितेजसे नमः ।  
 ॐ वह्निरागायै नमः ।  
 ॐ वह्निदायै नमः ।  

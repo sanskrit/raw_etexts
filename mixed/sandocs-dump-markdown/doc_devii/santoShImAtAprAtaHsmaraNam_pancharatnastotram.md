@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Santoshi Mata Pratahsmarana Pancharatnam"
-"File name" = "santoShImAtAprAtaHsmaraNam.itx"
-itxtitle = "santoShImAtAprAtaHsmaraNam pancharatnastotram"
-engtitle = "santoShImAtAprAtaHsmaraNam"
-Category = "devii, pancha, suprabhAta, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA EASWARAN psaeaswaran at gmail.com"
-"Latest update" = "August 15, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्तोषीमाताप्रातःस्मरणम् पञ्चरत्नस्तोत्रम्"
+---
+Category: devii, pancha, suprabhAta, otherforms, devI
+File name: santoShImAtAprAtaHsmaraNam.itx
+Language: Sanskrit
+Latest update: August 15, 2019
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan Iyer, PSA EASWARAN psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Santoshi Mata Pratahsmarana Pancharatnam
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: santoShImAtAprAtaHsmaraNam
+itxtitle: santoShImAtAprAtaHsmaraNam pancharatnastotram
+title: सन्तोषीमाताप्रातःस्मरणम् पञ्चरत्नस्तोत्रम्
 
-+++
+---
   
  श्रीसन्तोषीमातु प्रातःस्मरण पञ्चरत्नम्   
 ॐ श्रीगणेशाय नमः ।  

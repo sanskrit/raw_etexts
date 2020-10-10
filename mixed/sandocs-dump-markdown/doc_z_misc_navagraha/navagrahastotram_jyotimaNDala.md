@@ -1,22 +1,22 @@
-+++
-"Text title" = "navagrahastotra (jyotima.nDala)"
-"File name" = "navagrahamjyoti.itx"
-itxtitle = "navagrahastotram (jyotimaNDala)"
-engtitle = "navagrahastotram"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "May 5, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रहस्तोत्रम् (ज्योतिमण्डल)"
+---
+Category: navagraha, stotra
+File name: navagrahamjyoti.itx
+Language: Sanskrit
+Latest update: May 5, 2008
+Location: doc_z_misc_navagraha
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: navagrahastotra (jyotima.nDala)
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: navagrahastotram
+itxtitle: navagrahastotram (jyotimaNDala)
+title: नवग्रहस्तोत्रम् (ज्योतिमण्डल)
 
-+++
+---
   
  श्रीनवग्रहस्तोत्रम्   
   
@@ -36,7 +36,7 @@ title = "नवग्रहस्तोत्रम् (ज्योतिमण
      नित्यं वृश्चिकमेषराशिपतिमर्केन्दुप्रियं भावये ॥ ३॥  
   
 सौम्यं सिंहरथं बुधं कुजरिपुं श्रीचन्द्र-तारासुतं  
-     कन्योच्चं मगधोद्भवं सुरनुतं पीतांबरं राज्यदम् ।  
+     कन्योच्चं मगधोद्भवं सुरनुतं पीताम्बरं राज्यदम् ।  
 कन्यायुग्म-पतिं कवित्व-फलदं मुद्गप्रियं बुद्धिदं  
      वन्दे तं गदिनं च पुस्तककरं विद्याप्रदं सर्वदा ॥ ४॥  
   
@@ -45,7 +45,7 @@ title = "नवग्रहस्तोत्रम् (ज्योतिमण
 स्वर्णाङ्गं धनुमीनपं कटकगेहोच्चं तनूजप्रदं  
      वन्दे दैत्यरिपुं च भौमसुहृदं ज्ञानस्वरूपं गुरुम् ॥ ५॥  
   
-शुभ्राङ्गं नयशास्त्रकर्तृजयिनं संपत्प्रदं भोगदं  
+शुभ्राङ्गं नयशास्त्रकर्तृजयिनं सम्पत्प्रदं भोगदं  
      मीनोच्चं गरुडस्थितं वृष-तुलानाथं कलत्रप्रदम् ।  
 केन्द्रे मङ्गलकारिणं शुभगुणं लक्ष्मी-सपर्याप्रियं  
      दैत्यार्च्यं भृगुनन्दनं कविवरं शुक्रं भजेऽहं सदा ॥ ६॥  
@@ -72,10 +72,10 @@ title = "नवग्रहस्तोत्रम् (ज्योतिमण
   
 नित्यं नवग्रह-स्तुतिमिमां देवालये वा गृहे  
      श्रद्धा-भक्ति-समन्वितः पठति चेत् प्राप्नोति नूनं जनः ।  
-दीर्घं चायुररोगतां शुभमतिं कीर्तिं च संपच्चयं  
+दीर्घं चायुररोगतां शुभमतिं कीर्तिं च सम्पच्चयं  
      सत्सन्तानमभीष्ट-सौख्यनिवहं सर्व-ग्रहानुग्रहात् ॥ ११॥  
   
-      ॥ इति श्रीनवग्रहस्तोत्रं संपूर्णम्॥  
+      ॥ इति श्रीनवग्रहस्तोत्रं सम्पूर्णम्॥  
   
   
 Encoded and proofread by  

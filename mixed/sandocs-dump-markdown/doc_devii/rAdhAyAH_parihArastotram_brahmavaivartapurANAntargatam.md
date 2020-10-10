@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrI rAdhAyAH parihArastotram"
-"File name" = "rAdhAparIhAra.itx"
-itxtitle = "rAdhAyAH parihArastotram (brahmavaivartapurANAntargatam)"
-engtitle = "rAdhAyAH parihArastotram"
-Category = "devii, radha, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Texttype = "stotra"
-Author = "uddhava"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Daniel Mohanpersad (danielmohanpersad98 at msn.com)"
-"Proofread by" = "Daniel Mohanpersad (danielmohanpersad98 at msn.com)"
-Description-comments = "brahmavaivarta purANa"
-"Latest update" = "August 13 2017, June 26, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधायाः परिहारस्तोत्रम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Author: uddhava
+Category: devii, radha, stotra, devI
+Description-comments: brahmavaivarta purANa
+File name: rAdhAparIhAra.itx
+Language: Sanskrit
+Latest update: August 13 2017, June 26, 2002
+Location: doc_devii
+Proofread by: Daniel Mohanpersad (danielmohanpersad98 at msn.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: hinduism/religion
+Sublocation: devii
+Text title: shrI rAdhAyAH parihArastotram
+Texttype: stotra
+Transliterated by: Daniel Mohanpersad (danielmohanpersad98 at msn.com)
+engtitle: rAdhAyAH parihArastotram
+itxtitle: rAdhAyAH parihArastotram (brahmavaivartapurANAntargatam)
+title: राधायाः परिहारस्तोत्रम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  राधायाः परिहारस्तोत्रम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)   
 त्वं देवी जगतां माता विष्णुमाया सनातनी ।  
@@ -35,7 +35,7 @@ title = "राधायाः परिहारस्तोत्रम् (�
 रासे रासेश्वरीरूपा वृन्दा वृन्दावने वने ॥ ४॥  
   
 कृष्णप्रिया च गोलोके तुलसी कानने तुया ।  
-चम्पावती कृष्णसंगे क्रीडा चम्पककानने ॥ ५॥  
+चम्पावती कृष्णसङ्गे क्रीडा चम्पककानने ॥ ५॥  
   
 चन्द्राक्ली चन्द्रवने शतश्रिङ्गे सतीति च ।  
 विरजादर्पहन्त्रि च विरजातटकानने ॥ ६॥  
@@ -47,7 +47,7 @@ title = "राधायाः परिहारस्तोत्रम् (�
 क्षीरोदे सिन्धुकन्या च मर्त्ये लक्ष्मीर्हरिप्रिया ॥ ८॥  
   
 सर्वस्वर्गे स्वर्गलक्ष्मीर्देवदुःखविनाशिनी ।  
-सनातनी विष्णुमाया दुर्गा शंकरवक्षसि ॥ ९॥  
+सनातनी विष्णुमाया दुर्गा शङ्करवक्षसि ॥ ९॥  
   
 सावित्री वे! दमाता च कलया ब्रह्मवक्षसि ।  
 कलया धर्मपत्नी त्वं नरनारायणप्रसूः ॥ १०॥  

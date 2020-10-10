@@ -1,23 +1,23 @@
-+++
-"Text title" = "navagrahamantraH"
-"File name" = "navagrahamantraH.itx"
-itxtitle = "navagrahamantraH"
-engtitle = "navagrahamantraH"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "August 12, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रहमन्त्रः"
+---
+Author: Traditional
+Category: navagraha, stotra
+File name: navagrahamantraH.itx
+Language: Sanskrit
+Latest update: August 12, 2006
+Location: doc_z_misc_navagraha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: navagrahamantraH
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: navagrahamantraH
+itxtitle: navagrahamantraH
+title: नवग्रहमन्त्रः
 
-+++
+---
   
  नवग्रहमन्त्रः   
   
@@ -37,7 +37,7 @@ title = "नवग्रहमन्त्रः"
   
 अथ जीवस्य मन्त्रः - त्रिपुरातिलके  
 ॐ ह्रीं श्रीं ख्रीं ऐं ग्लौं ग्रहाधिपतये  
-बृहस्पतये ब्रींठः ऐंठः श्रींठः स्वाहा ॥  
+बृहस्पतये ब्रीण्ठः ऐण्ठः श्रीण्ठः स्वाहा ॥  
   
 अथ शुक्रस्य मन्त्रः - आगमशिरोमणौ  
 ॐ ऐं जं गं ग्रहेश्वराय शुक्राय नमः ॥  

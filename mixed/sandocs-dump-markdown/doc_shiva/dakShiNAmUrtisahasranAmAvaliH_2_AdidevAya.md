@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrIdakShiNAmUrtisahasranAmAvaliH (2) 1000 names"
-"File name" = "dakShiNAmUrtisahasranAmAmAvalI2.itx"
-itxtitle = "dakShiNAmUrtisahasranAmAvaliH 2 (AdidevAya)"
-engtitle = "Shri DakshinamurtisahasranAmAvaliH 2"
-Category = "sahasranAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Sneha Sudha snehasudha13 at gmail.com"
-Description-comments = "See corresponding sahasranAmastotra"
-Source = "Shri AtmanAtha Stuti Manjari, Mahaperiaval Trust"
-Indexextra = "(Scan)"
-"Latest update" = "July 14, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्तिसहस्रनामावलिः २ (आदिदेवाय)"
+---
+Category: sahasranAmAvalI, shiva
+Description-comments: See corresponding sahasranAmastotra
+File name: dakShiNAmUrtisahasranAmAmAvalI2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 14, 2019
+Location: doc_shiva
+Proofread by: Sneha Sudha snehasudha13 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri AtmanAtha Stuti Manjari, Mahaperiaval Trust
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shrIdakShiNAmUrtisahasranAmAvaliH (2) 1000 names
+Transliterated by: NA
+engtitle: Shri DakshinamurtisahasranAmAvaliH 2
+itxtitle: dakShiNAmUrtisahasranAmAvaliH 2 (AdidevAya)
+title: दक्षिणामूर्तिसहस्रनामावलिः २ (आदिदेवाय)
 
-+++
+---
   
  श्रीदक्षिणामूर्तिसहस्रनामावलिः २   
 ॐ आदिदेवाय नमः । दयासिन्धवे । अखिलागमदेशिकाय ।  
@@ -223,7 +223,7 @@ title = "दक्षिणामूर्तिसहस्रनामाव�
 सहयाचलगुहावासिने । साक्षान्मोक्षरसाकृतये नमः । ५८०  
   
 दक्षाध्वरसमुच्छेत्त्रे नमः । पक्षपातविवर्जिताय । ओङ्कारवाचकाय ।  
-शंभवे । शङ्कराय । शशिशीतलाय । पङ्कजासनसंसेव्याय ।  
+शम्भवे । शङ्कराय । शशिशीतलाय । पङ्कजासनसंसेव्याय ।  
 किङ्करामरवत्सलाय । नतदौर्भाग्यतूलाग्नये । कृतकौतुकविभ्रमाय ।  
 त्रिलोकमोहनाय । श्रीमते । त्रिपुण्ड्राङ्कितमस्तकाय । क्रौञ्चारिजनकाय ।  
 श्रीमद्गणनाथसुतान्विताय । अद्भुताय । अनन्तवरदाय ।  

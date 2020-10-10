@@ -1,23 +1,23 @@
-+++
-"Text title" = "balarAmastotram"
-"File name" = "balarAmastotram.itx"
-itxtitle = "balarAmastotram"
-engtitle = "balarAmastotram"
-Category = "deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-"Latest update" = "June 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बलरामस्तोत्रम्"
+---
+Author: Traditional
+Category: deities_misc
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: balarAmastotram.itx
+Language: Sanskrit
+Latest update: June 5, 2016
+Location: doc_deities_misc
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: balarAmastotram
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: balarAmastotram
+itxtitle: balarAmastotram
+title: बलरामस्तोत्रम्
 
-+++
+---
   
  श्रीबलरामस्तोत्रम्   
 श्रीगणेशाय नमः ।  

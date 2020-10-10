@@ -1,23 +1,23 @@
-+++
-"Text title" = "vedAntadeshikamangalAnushAsanam"
-"File name" = "vedAntadeshikamangalAnushAsanam.itx"
-itxtitle = "vedAntadeshikamaNgalAnushAsanam"
-engtitle = "vedAntadeshikamangalAnushAsanam"
-Category = "deities_misc, gurudev, rAmAnujasampradAya, mangala"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदान्तदेशिकमण्गलानुशासनम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: deities_misc, gurudev, rAmAnujasampradAya, mangala
+File name: vedAntadeshikamangalAnushAsanam.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vedAntadeshikamangalAnushAsanam
+engtitle: vedAntadeshikamangalAnushAsanam
+itxtitle: vedAntadeshikamaNgalAnushAsanam
+title: वेदान्तदेशिकमण्गलानुशासनम्
 
-+++
+---
   
  श्रीवेदान्तदेशिकमङ्गलानुशासनम्   
   

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Aditya Kavacham"
-"File name" = "Adityakavacham.itx"
-itxtitle = "Adityakavacham (skAndapurANe gaurIkhaNDe)"
-engtitle = "Adityakavacham"
-Category = "navagraha, kavacha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "Skanda Purana Gauri Khanda"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "आदित्यकवचम् (स्कान्दपुराणे गौरीखण्डे)"
+---
+Category: navagraha, kavacha
+Description/comments: Skanda Purana Gauri Khanda
+File name: Adityakavacham.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Aditya Kavacham
+engtitle: Adityakavacham
+itxtitle: Adityakavacham (skAndapurANe gaurIkhaNDe)
+title: आदित्यकवचम् (स्कान्दपुराणे गौरीखण्डे)
 
-+++
+---
   
  आदित्यकवचम्   
 ॐ अस्य श्रीमदादित्यकवचस्तोत्रमहामन्त्रस्य याज्ञवल्क्यो महर्षिः ।  

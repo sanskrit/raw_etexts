@@ -3,7 +3,6 @@ title: 048 Rama s departure for the forest
 title_english: 048 Rama s departure for the forest
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-048-Shokamagnaa_Ayodhya.mp3"></div>
 
 तेषामेवम् विष्ण्णानाम्पीडितानामतीव च ।  
@@ -62,7 +61,7 @@ title_english: 048 Rama s departure for the forest
 राघवम् वा अनुगच्चध्वम् अश्रुतिम् वा अपि गच्चत ॥ २-४८-२७  
 मिथ्या प्रव्राजितः रामः सभार्यः सह लक्ष्मणः ।  
 भरते सम्निषृष्टाः स्मः सौनिके पशवो यथा ॥ २-४८-२८  
-पूर्णचन्द्राननः श्यामो गूढजत्रुररिंदमः ।  
+पूर्णचन्द्राननः श्यामो गूढजत्रुररिन्दमः ।  
 आजानुबाहुः पद्माक्षो रामो लक्ष्मनपूर्वजः ॥ २-४८-२९  
 पूर्वाभिभाषी मधुरः सत्यवादी महाबलः ।  
 सौम्यः सर्वस्य लोकस्य चन्द्रवत्प्रियदर्शनः ॥ २-४८-३०  

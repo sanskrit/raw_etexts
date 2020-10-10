@@ -1,22 +1,22 @@
-+++
-"Text title" = "lingopaniShat"
-"File name" = "lingopaniShat.itx"
-itxtitle = "liNgopaniShat (shaiva)"
-engtitle = "lingopaniShat"
-Category = "upanishhat, shiva, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लिण्गोपनिषत् (शैव)"
+---
+Category: upanishhat, shiva, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: lingopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: lingopaniShat
+engtitle: lingopaniShat
+itxtitle: liNgopaniShat (shaiva)
+title: लिण्गोपनिषत् (शैव)
 
-+++
+---
   
  लिङ्गोपनिषत्   
 ॐ धर्मजिज्ञासा । ज्ञानं बुद्धिश्च । ज्ञानान्मोक्षकारणम् ।  
@@ -35,7 +35,7 @@ title = "लिण्गोपनिषत् (शैव)"
 बद्धं कृतमेनो अस्मत् । सोमापूषणा जनना रयीणां जनना दिवो जनना  
 पृथिव्याः । जातौ विश्वस्य भुवनस्य गोपौ देवा अकृण्वन्नमृतस्य  
 नाभिम् ।'' इति प्राकट्यं कुर्यात् । न कुर्यात्पशुभाषणम् ।  
-श्रौतानामुपनयनकाले धारणम् । चतुर्थाश्रमः संन्यासाः ।  
+श्रौतानामुपनयनकाले धारणम् । चतुर्थाश्रमः सन्न्यासाः ।  
 पञ्चमो लिङ्गधारणम् । अत्याश्रमाणां मध्ये लिङ्गधारी  
 श्रेष्ठो भवति । शिरसि महादेवस्तिष्ठतु इति धारयेत् ।  
 अन्यायो न्यायः । पृथिव्यापस्तेजो वायुराकाश इति पञ्चस्वरूपं  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "gAyatrIsahasranAmAvaliH"
-"File name" = "gaayatri1000.itx"
-itxtitle = "gAyatrIsahasranAmAvaliH 2"
-engtitle = "gAyatrIsahasranAmAvalI"
-Category = "sahasranAmAvalI, devii, gAyatrI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "MyP"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "March 08, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीसहस्रनामावलिः २"
+---
+Author: Traditional
+Category: sahasranAmAvalI, devii, gAyatrI, nAmAvalI, devI
+File name: gaayatri1000.itx
+Language: Sanskrit
+Latest update: March 08, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrIsahasranAmAvaliH
+Texttype: nAmAvalI
+Transliterated by: MyP
+engtitle: gAyatrIsahasranAmAvalI
+itxtitle: gAyatrIsahasranAmAvaliH 2
+title: गायत्रीसहस्रनामावलिः २
 
-+++
+---
   
  श्रीगायत्रीसहस्रनामावली   
   
@@ -805,21 +805,21 @@ title = "गायत्रीसहस्रनामावलिः २"
 ॐ मन्त्रढ्यायै नमः ॥ ७१०॥  
   
 ॐ महामङ्गलदेवतायै नमः  
-ॐ ह्रींकाररूपायै नमः  
+ॐ ह्रीङ्काररूपायै नमः  
 ॐ हृद्यायै नमः  
 ॐ हितकार्यप्रवर्धिन्यै नमः  
 ॐ हेयोपाधिविनिर्मुक्तायै नमः  
 ॐ हीनलोकविनाशिन्यै नमः  
-ॐ ह्रींकार्यै नमः  
-ॐ ह्रींमत्यै नमः  
+ॐ ह्रीङ्कार्यै नमः  
+ॐ ह्रीम्मत्यै नमः  
 ॐ हृद्यायै नमः  
-ॐ ह्रींदेव्यै नमः ॥ ७२०॥  
+ॐ ह्रीन्देव्यै नमः ॥ ७२०॥  
   
 ॐ ह्रींस्वभाविन्यै नमः  
-ॐ ह्रींमन्दिरायै नमः  
+ॐ ह्रीम्मन्दिरायै नमः  
 ॐ हितकरायै नमः  
 ॐ हृष्टायै नमः  
-ॐ ह्रींकुलोद्भवायै नमः  
+ॐ ह्रीङ्कुलोद्भवायै नमः  
 ॐ हितप्रज्ञायै नमः  
 ॐ हितप्रीतायै नमः  
 ॐ हितकारुण्यवर्धिन्यै नमः  

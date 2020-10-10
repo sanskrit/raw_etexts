@@ -1,23 +1,23 @@
-+++
-"Text title" = "subrahmaNyapancharatnam 3"
-"File name" = "subrahmaNyapancharatnam3.itx"
-itxtitle = "subrahmaNyapancharatnam 3 (shrutishatanutaratnaM shrIdharaveNkaTeshavirachitam)"
-engtitle = "Subrahmanyapancharatnam 3"
-Category = "pancharatna, subrahmanya, shrIdhara-venkaTesha"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "shrIdharArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran"
-Description-comments = "Subrahmanya Stuti Manjari, Mahaperiaval Trust"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "December 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यपञ्चरत्नम् ३ (श्रुतिशतनुतरत्नं श्रीधरवेण्कटेशविरचितम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: shrIdharArya
+Category: pancharatna, subrahmanya, shrIdhara-venkaTesha
+Description-comments: Subrahmanya Stuti Manjari, Mahaperiaval Trust
+File name: subrahmaNyapancharatnam3.itx
+Language: Sanskrit
+Latest update: December 22, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyapancharatnam 3
+engtitle: Subrahmanyapancharatnam 3
+itxtitle: subrahmaNyapancharatnam 3 (shrutishatanutaratnaM shrIdharaveNkaTeshavirachitam)
+title: सुब्रह्मण्यपञ्चरत्नम् ३ (श्रुतिशतनुतरत्नं श्रीधरवेण्कटेशविरचितम्)
 
-+++
+---
   
  श्रीसुब्रह्मण्यपञ्चरत्नम् ३   
 ॐ श्रीगणेशाय नमः ।  

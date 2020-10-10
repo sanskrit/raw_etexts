@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Khadgamala Stotram"
-"File name" = "bAlAkhaDgamAlAstotram.itx"
-itxtitle = "bAlAkhaDgamAlAstotram"
-engtitle = "bAlAkhaDgamAlAstotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाखड्गमालास्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAkhaDgamAlAstotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Khadgamala Stotram
+engtitle: bAlAkhaDgamAlAstotram
+itxtitle: bAlAkhaDgamAlAstotram
+title: बालाखड्गमालास्तोत्रम्
 
-+++
+---
   
  श्रीबालाखड्गमालास्तोत्रम्   
 ॐ ऐं ह्रीं श्रीं ऐं क्लीं सौः नमः बालात्रिपुरसुन्दर्यै  

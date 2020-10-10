@@ -1,23 +1,24 @@
-+++
-"Text title" = "aghoramUrtisahasranAmAvaliH 2"
-"File name" = "aghoramUrtisahasranAmAvalI.itx"
-itxtitle = "aghoramUrtisahasranAmAvaliH 2"
-engtitle = "aghoramUrtisahasranAmAvaliH 2"
-Category = "sahasranAmAvalI, shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Comments : Book \"Sri vIrabhadrar\" by Swarnapuri Shridhar and other sources."
-"Latest update" = "May 17, 2016, November 11, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अघोरमूर्तिसहस्रनामावलिः २"
+---
+Category: sahasranAmAvalI, shiva, nAmAvalI
+Description-comments: 'Comments : Book "Sri vIrabhadrar" by Swarnapuri Shridhar and
+  other sources.'
+File name: aghoramUrtisahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: May 17, 2016, November 11, 2016
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: aghoramUrtisahasranAmAvaliH 2
+Texttype: nAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: aghoramUrtisahasranAmAvaliH 2
+itxtitle: aghoramUrtisahasranAmAvaliH 2
+title: अघोरमूर्तिसहस्रनामावलिः २
 
-+++
+---
   
  श्रीअघोरमूर्तिसहस्रनामावलिः २   
 ॐ श्रीगणेशाय नमः ।  

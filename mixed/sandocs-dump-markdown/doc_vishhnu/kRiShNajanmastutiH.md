@@ -1,30 +1,30 @@
-+++
-"Text title" = "kRRiShNajanmastutiH"
-"File name" = "kRRiShNajanmastutiH.itx"
-itxtitle = "kRiShNajanmastutiH"
-engtitle = "kRRiShNajanmastutiH"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "BhaktivivekasAra"
-Indexextra = "(Scanned)"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णजन्मस्तुतिः"
+---
+Category: vishhnu, krishna
+Description/comments: BhaktivivekasAra
+File name: kRRiShNajanmastutiH.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNajanmastutiH
+engtitle: kRRiShNajanmastutiH
+itxtitle: kRiShNajanmastutiH
+title: कृइष्णजन्मस्तुतिः
 
-+++
+---
   
  कृष्णजन्मस्तुतिः   
 रूपं यत्तत्प्राहुरव्यक्तमाद्यं ब्रह्मज्योतिर्निर्गुणं निर्विकारम् ।  
 सत्तामात्रं निर्विशेषं निरीहं स त्वं साक्षाद्विष्णुरध्यात्मदीपः ॥ १॥  
   
 नष्टे लोके द्विपरार्धावसाने महाभूतेष्वादिभूतं गतेषु ।  
-व्यक्तेऽव्यक्तं कालवेगेन याते भवानेकः शिष्यते शेषसंज्ञः ॥ २॥  
+व्यक्तेऽव्यक्तं कालवेगेन याते भवानेकः शिष्यते शेषसञ्ज्ञः ॥ २॥  
   
 योऽयं कालस्तस्य तेऽव्यक्तबन्धोश्चेष्टामाहुश्चेष्टते येन विश्वम् ।  
 निमेषादिर्वत्सरान्तो महीयांस्तं त्वीशानं क्षेमधाम प्रपद्ये ॥ ३॥  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "dattadigambaraiShTadaivatam"
-"File name" = "dattadigambaraiShTadaivatam.itx"
-itxtitle = "dattadigambara iShTadaivatam"
-engtitle = "dattadigambaraiShTadaivatam"
-Category = "deities_misc, sanskritgeet, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Dhananjay Joshi, for Geet Dattatrayam at Bharat Natya Mandir, Pune.in 2009"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "manish gavkar manishyg at gmail.com"
-"Proofread by" = "manish gavkar manishyg at gmail.com, NA"
-Indexextra = "(Video)"
-"Latest update" = "April 4, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तदिगम्बर इष्टदैवतम्"
+---
+Author: Dhananjay Joshi, for Geet Dattatrayam at Bharat Natya Mandir, Pune.in 2009
+Category: deities_misc, sanskritgeet, gurudev
+File name: dattadigambaraiShTadaivatam.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: April 4, 2020
+Location: doc_deities_misc
+Proofread by: manish gavkar manishyg at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattadigambaraiShTadaivatam
+Transliterated by: manish gavkar manishyg at gmail.com
+engtitle: dattadigambaraiShTadaivatam
+itxtitle: dattadigambara iShTadaivatam
+title: दत्तदिगम्बर इष्टदैवतम्
 
-+++
+---
   
  श्रीदत्तदिगम्बर इष्टदैवतम्   
 दत्तदिगम्बर इष्टदैवतम् ।  

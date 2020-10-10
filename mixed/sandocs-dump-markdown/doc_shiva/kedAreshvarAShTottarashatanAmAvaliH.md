@@ -1,20 +1,20 @@
-+++
-"Text title" = "Shri Kedareshvara Ashtottarashata Namavali 108 Names"
-"File name" = "kedAreshvarAShTottarashatanAmAvaliH.itx"
-itxtitle = "kedAreshvarAShTottarashatanAmAvaliH"
-engtitle = "kedAreshvarAShTottarashatanAmAvaliH"
-Category = "shiva, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "केदारेश्वराष्टोत्तरशतनामावलिः"
+---
+Category: shiva, aShTottarashatanAmAvalI, nAmAvalI
+File name: kedAreshvarAShTottarashatanAmAvaliH.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_shiva
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Kedareshvara Ashtottarashata Namavali 108 Names
+engtitle: kedAreshvarAShTottarashatanAmAvaliH
+itxtitle: kedAreshvarAShTottarashatanAmAvaliH
+title: केदारेश्वराष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीकेदारेश्वराष्टोत्तरशतनामावलिः   
 ॐ शिवाय नमः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "shaantipaatha from diff upanishads"
-"File name" = "shaantipaatha.itx"
-itxtitle = "shAntipAThaH (shAntayaH sasvarAH nisshvarAH cha)"
-engtitle = "shAntipAThaH"
-Category = "veda"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "Religion"
-"Transliterated by" = "Rajagopala Iyer, Sunder Hattangadi"
-"Proofread by" = "Rajagopala Iyer, Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Scan, Hindi, English 1, 2, Audio, ghoShashAnti audio, ghoShA)"
-"Latest update" = "December 27, 1997, March 22, 2019"
-"Send corrections to" = "sunderh at hotmail"
-"Site access" = "https://sanskritdocuments.org"
-title = "शान्तिपाठः (शान्तयः सस्वराः निस्श्वराः च)"
+---
+Category: veda
+File name: shaantipaatha.itx
+Indexextra: (Scan, Hindi, English 1, 2, Audio, ghoShashAnti audio, ghoShA)
+Language: Sanskrit
+Latest update: December 27, 1997, March 22, 2019
+Location: doc_veda
+Proofread by: Rajagopala Iyer, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sunderh at hotmail
+Site access: https://sanskritdocuments.org
+Subject: Religion
+Sublocation: veda
+Text title: shaantipaatha from diff upanishads
+Texttype: svara
+Transliterated by: Rajagopala Iyer, Sunder Hattangadi
+engtitle: shAntipAThaH
+itxtitle: shAntipAThaH (shAntayaH sasvarAH nisshvarAH cha)
+title: शान्तिपाठः (शान्तयः सस्वराः निस्श्वराः च)
 
-+++
+---
   
  शान्तिपाठः   
 सस्वराः शान्तयः  

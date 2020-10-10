@@ -1,22 +1,22 @@
-+++
-"Text title" = "indrasahasranAmastotram Thousand Names for Lord Indra"
-"File name" = "indrasahasranAmastotram.itx"
-itxtitle = "indrasahasranAmastotram sArtham (gaNapatimunivirachitam)"
-engtitle = "indrasahasranAmastotram composed by Ganapti Muni"
-Category = "sahasranAma, deities_misc, stotra, gaNapati-muni"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Translated by" = "Dr. Jayanthi Manohar"
-Indexextra = "(text, nAmAvalI, Ganapati Muni Bio, Indra)"
-"Latest update" = "September 11, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "इन्द्रसहस्रनामस्तोत्रम् सार्थम् (गणपतिमुनिविरचितम्)"
+---
+Category: sahasranAma, deities_misc, stotra, gaNapati-muni
+File name: indrasahasranAmastotram.itx
+Indexextra: (text, nAmAvalI, Ganapati Muni Bio, Indra)
+Language: Sanskrit
+Latest update: September 11, 2019
+Location: doc_deities_misc
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: indrasahasranAmastotram Thousand Names for Lord Indra
+Texttype: svara
+Translated by: Dr. Jayanthi Manohar
+engtitle: indrasahasranAmastotram composed by Ganapti Muni
+itxtitle: indrasahasranAmastotram sArtham (gaNapatimunivirachitam)
+title: इन्द्रसहस्रनामस्तोत्रम् सार्थम् (गणपतिमुनिविरचितम्)
 
-+++
+---
   
  इन्द्रसहस्रनामस्तोत्रं   
   
@@ -126,7 +126,7 @@ Here, the Seer of the Mantra, Rishi Babhru tells the aspirants, that `` I have s
 Ganapati Muni recognises, Kundalini shakti as an aspect of the power of Indra.  He was blessed with the Mantra shakti by his practice of Vedic life and tapas by which he could heal the wounds.  It is recorded in his biography that a broken bone of his son in a bus accident healed quickly when he invoked Indra (meditated upon) this Mantra (8.1.12).  
   
 य ऋ॒ते चि॑दभि॒श्रिषः॑ पु॒रा ज॒त्रुभ्य॑ आ॒तृदः॑ ।  
-संधा॑ता सं॒धिं म॒घवा॑ पुरू॒वसु॒रिष्क॑र्ता॒ विह्रु॑तं॒ पुनः॑ ॥ ऋ. ८.१.१२  
+सन्धा॑ता सं॒धिं म॒घवा॑ पुरू॒वसु॒रिष्क॑र्ता॒ विह्रु॑तं॒ पुनः॑ ॥ ऋ. ८.१.१२  
 ``The magnificent Indra restores again the bleeding from broken neck by joining the broken neck with the body to original condition even in the absence of healing materials''.  
   
 Devas in Veda Mantras appear tangible to aspirants and enigmatic at the same time.  A Mantra in 6th Mandala (6.47.18) says, ``To every form, Indra has remained the counter-form, that is his form for us to face and see.  By his maya powers, he moves on endowed with many forms, with his thousand steeds''.  
@@ -209,7 +209,7 @@ Refer: Mantra 3.32.12 - Yajna becomes your protector in the killing of Ahi by va
 9.  Indra's vigor is spontaneous.  He supports people endowed with great mental power (dhee), collects wealth, stands erect (immovable like mountain).  Created all forms in the Universe, Twashta (Indra) disperses the all-pervading forces of ignorance.  Indra is the guardian.  He ferries, protects with rapid force.  
   
   
-              त्वेषनृम्णस्त्वेष्संदृक् तुराषाडपराजितः ।  
+              त्वेषनृम्णस्त्वेष्सन्दृक् तुराषाडपराजितः ।  
               तुग्य्रावृधोदस्मतमः तुविकूर्मितमस्तुजः ॥ १०॥  
 10.  Indra who has radiating might crushes the foes swiftly.  He is the supreme, performs many great deeds (tasks) and remains undefeated.  Protects being firm in strong currents of water.  
   
@@ -258,7 +258,7 @@ Refer: Mantra 6.47.18: To every form, Indra has remained the counter-form, that 
   
   
               पुरुनृम्णः पर्वतेष्ठाः प्राचामन्युः पुरोहितः ।  
-              पुरांभिन्दुरनाधृष्यः पुराजाः पप्रथिन्तमः ॥ १९॥  
+              पुराम्भिन्दुरनाधृष्यः पुराजाः पप्रथिन्तमः ॥ १९॥  
 19.  Indra is the warrior with variegated strength, dwells in the summits (of consciousness), his wrath moves upward, stationed in front He is the destroyer of cities.  He is firm, invincible, shows the right path (to aspirants).  
   
   
@@ -627,7 +627,7 @@ Ketu means ray - knowledge in the spiritual sense, it signifies the vision or th
 87.  Indra has the name grasped well, performs many great deeds, guardian of the lofty, shining, bestower, gives easily, has inspired knowledge afar (motivates aspirants living far away).  He is sacred.  
   
   
-              दंसनावान्दिवः संम्राड्देतवजूतो दिवावसुः ।  
+              दंसनावान्दिवः सम्म्राड्देतवजूतो दिवावसुः ।  
               दशमो देवता दक्षो दुध्रोद्युम्नी द्युमन्तमः ॥ ८८॥  
 88.  Indra is dynamic/skilled, lord of great heavens, Rishi sent by gods, ruler of heavens, destroyer of demons, divine force.  He has understanding mind, irresistible, luminous, made full of light/sparkling.  
               ॥ इत्यष्टमं नामशतकम् ॥  

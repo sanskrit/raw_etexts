@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNesha gAyatrI"
-"File name" = "ganeshagaayatri.itx"
-itxtitle = "gaNeshagAyatrI"
-engtitle = "gaNesha gAyatrI"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.webdunia.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "May 6, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशगायत्री"
+---
+Author: Traditional
+Category: ganesha, stotra
+File name: ganeshagaayatri.itx
+Language: Sanskrit
+Latest update: May 6, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNesha gAyatrI
+Texttype: stotra
+Transliterated by: http://www.webdunia.com
+engtitle: gaNesha gAyatrI
+itxtitle: gaNeshagAyatrI
+title: गणेशगायत्री
 
-+++
+---
   
  श्रीगणेश गायत्री   
   

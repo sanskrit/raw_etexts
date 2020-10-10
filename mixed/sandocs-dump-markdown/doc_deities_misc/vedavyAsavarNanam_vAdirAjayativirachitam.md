@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Veda Vyasa Varnanam"
-"File name" = "vedavyAsavarNanam.itx"
-itxtitle = "vedavyAsavarNanam (vAdirAjayativirachitam)"
-engtitle = "vedavyAsavarNanam"
-Category = "deities_misc, gurudev, vAdirAja"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Vadiraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वेदव्यासवर्णनम् (वादिराजयतिविरचितम्)"
+---
+Author: Vadiraja
+Category: deities_misc, gurudev, vAdirAja
+File name: vedavyAsavarNanam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Veda Vyasa Varnanam
+Transliterated by: Krishnananda Achar
+engtitle: vedavyAsavarNanam
+itxtitle: vedavyAsavarNanam (vAdirAjayativirachitam)
+title: वेदव्यासवर्णनम् (वादिराजयतिविरचितम्)
 
-+++
+---
   
  श्रीवेदव्यासवर्णनम्   
 व्यासायाप्रतिमेतिहासरचनोल्लासाय दुर्वादिनां  

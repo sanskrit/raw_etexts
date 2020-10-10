@@ -1,25 +1,25 @@
-+++
-"Text title" = "indra rachita kRiShNastotra"
-"File name" = "indrakrishnastotra.itx"
-itxtitle = "kRiShNastotram (indrarachitam)"
-engtitle = "indra rachita kRiShNastotra"
-Category = "vishhnu, krishna, stotra, vyAsa, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Indra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "brahmavaivarta"
-"Latest update" = "January 19, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (इन्द्ररचितम्)"
+---
+Author: Indra
+Category: vishhnu, krishna, stotra, vyAsa, vishnu
+Description-comments: brahmavaivarta
+File name: indrakrishnastotra.itx
+Language: Sanskrit
+Latest update: January 19, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: indra rachita kRiShNastotra
+Texttype: stotra
+Transliterated by: WebD
+engtitle: indra rachita kRiShNastotra
+itxtitle: kRiShNastotram (indrarachitam)
+title: कृइष्णस्तोत्रम् (इन्द्ररचितम्)
 
-+++
+---
   
  श्रीकृष्णस्तोत्रं इन्द्ररचितम्   
   

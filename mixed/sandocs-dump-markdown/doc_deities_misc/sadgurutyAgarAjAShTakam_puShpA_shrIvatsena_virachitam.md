@@ -1,26 +1,26 @@
-+++
-"Text title" = "Sadguru Sri Tyagaraja Ashtakam"
-"File name" = "sadgurutyAgarAjAShTakam.itx"
-itxtitle = "sadgurutyAgarAjAShTakam (puShpA shrIvatsena virachitam)"
-engtitle = "Sadguru Sri Tyagaraja Ashtakam"
-Category = "deities_misc, puShpAshrIvatsan, gurudev, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Himalaya Gadyam"
-Indexextra = "(Translation)"
-"Latest update" = "April 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सद्गुरुत्यागराजाष्टकम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: deities_misc, puShpAshrIvatsan, gurudev, aShTaka
+File name: sadgurutyAgarAjAShTakam.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: April 14, 2018
+Location: doc_deities_misc
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Himalaya Gadyam
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Sadguru Sri Tyagaraja Ashtakam
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: Sadguru Sri Tyagaraja Ashtakam
+itxtitle: sadgurutyAgarAjAShTakam (puShpA shrIvatsena virachitam)
+title: सद्गुरुत्यागराजाष्टकम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  सद्गुरुश्रीत्यागराजाष्टकम्   
              ॐ  

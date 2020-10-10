@@ -1,26 +1,26 @@
-+++
-"Text title" = "navaratnamaalikaa stotram.h"
-"File name" = "devii_navaratna.itx"
-itxtitle = "navaratnamAlikA (shaNkarAchAryavirachitam)"
-engtitle = "navaratnamAlikA"
-Category = "devii, dashamahAvidyA, stotra, nava, devI, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Kapila Shankaran(achintya at ican.net) and Aravind"
-"Proofread by" = "Sridhar - Seshagiri sridhar.seshagiri at gmail.com"
-Description-comments = "There are variations"
-Indexextra = "(Scan"
-"Latest update" = "September 3, 2002, March 24, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवरत्नमालिका (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: devii, dashamahAvidyA, stotra, nava, devI, shankarAchArya
+Description-comments: There are variations
+File name: devii_navaratna.itx
+Indexextra: (Scan
+Language: Sanskrit
+Latest update: September 3, 2002, March 24, 2020
+Location: doc_devii
+Proofread by: Sridhar - Seshagiri sridhar.seshagiri at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: hinduism/religion
+Sublocation: devii
+Text title: navaratnamaalikaa stotram.h
+Texttype: stotra
+Transliterated by: Kapila Shankaran(achintya at ican.net) and Aravind
+engtitle: navaratnamAlikA
+itxtitle: navaratnamAlikA (shaNkarAchAryavirachitam)
+title: नवरत्नमालिका (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  नवरत्नमालिका   
 नामरत्ननवरत्नमालिका  
@@ -72,12 +72,12 @@ title = "नवरत्नमालिका (शण्कराचार्य
   
 नित्यमेव नियमेन जल्पतां  
      भुक्तिमुक्तिफलदामभीष्टदाम् ।  
-शंकरेण रचितां सदा जपे-  
+शङ्करेण रचितां सदा जपे-  
      न्नामरत्ननवरत्नमालिकाम् ॥ १०॥ (११)  
   
 इति श्रीमत्परमहंसपरिव्रजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-श्रीमच्छंकरभगवतः कृतौ नवरत्नमालिका संपूर्णा ॥  
+श्रीमच्छङ्करभगवतः कृतौ नवरत्नमालिका सम्पूर्णा ॥  
   
  Another variation follows with difference in sequence  
    marked () above and some additional verses added  
@@ -143,12 +143,12 @@ title = "नवरत्नमालिका (शण्कराचार्य
   
 नित्यमेव नियमेन जल्पतां  
      भुक्तिमुक्तिफलदामभीष्टदाम् ।  
-शंकरेण रचितां सदा जपे-  
+शङ्करेण रचितां सदा जपे-  
      न्नामरत्ननवरत्नमालिकाम् ॥ ११॥  
   
 इति श्रीमत्परमहंसपरिव्रजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-श्रीमच्छंकरभगवतः कृतौ नवरत्नमालिका संपूर्णा ॥  
+श्रीमच्छङ्करभगवतः कृतौ नवरत्नमालिका सम्पूर्णा ॥  
   
   
 Encoded by Kapila Shankaran and Aravind.  

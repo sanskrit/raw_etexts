@@ -1,24 +1,24 @@
-+++
-"Text title" = "tulasI sahasra nAmAvali"
-"File name" = "tulasii1000.itx"
-itxtitle = "tulasI sahasrashatanAmAvalI"
-engtitle = "tulasI sahasra nAmAvali"
-Category = "sahasranAmAvalI, devii, tulasI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vaidya S.V. Radhakrishna Sastri"
-"Proofread by" = "Shree, Sunder Hattangadi"
-Source = "Tulasi Pooja book"
-"Latest update" = "May 23, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलसी सहस्रशतनामावली"
+---
+Category: sahasranAmAvalI, devii, tulasI, nAmAvalI, devI
+File name: tulasii1000.itx
+Language: Sanskrit
+Latest update: May 23, 2017
+Location: doc_devii
+Proofread by: Shree, Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Tulasi Pooja book
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tulasI sahasra nAmAvali
+Texttype: nAmAvalI
+Transliterated by: Vaidya S.V. Radhakrishna Sastri
+engtitle: tulasI sahasra nAmAvali
+itxtitle: tulasI sahasrashatanAmAvalI
+title: तुलसी सहस्रशतनामावली
 
-+++
+---
   
  श्रीतुलसीसहस्रनामावलिः   
 ॐ तुलस्यै नमः ।  
@@ -385,7 +385,7 @@ title = "तुलसी सहस्रशतनामावली"
 ॐ शुभातिथ्यायै नमः ।  
 ॐ पण्डितकायै नमः ।  
 ॐ सदानन्दायै नमः ।  
-ॐ प्रपंचिकायै नमः ।  
+ॐ प्रपञ्चिकायै नमः ।  
 ॐ वाममल्लस्वरूपायै नमः ।  
 ॐ (॥॥) नमः । ?  
 ॐ सद्योजातायै नमः ।  
@@ -452,7 +452,7 @@ title = "तुलसी सहस्रशतनामावली"
 ॐ धवलाम्बरायै नमः ।  
 ॐ शुभ्रद्विजायै नमः ।  
 ॐ भासुराक्ष्यै नमः ।  
-ॐ दिव्यकंचुकभूषितायै नमः ।  
+ॐ दिव्यकञ्चुकभूषितायै नमः ।  
 ॐ नूपुराढ्यायै नमः ।  
 ॐ झणझणच्छिञ्जानमणिभूषितायै नमः ।  
 ॐ शचीमध्यायै नमः ।  
@@ -590,7 +590,7 @@ title = "तुलसी सहस्रशतनामावली"
 ॐ वैजयन्त्यै नमः ।  
 ॐ मरालिकायै नमः ।  
 ॐ क्षीराब्धितनयायै नमः ।  
-ॐ चन्द्रसौंदर्यै नमः ।  
+ॐ चन्द्रसौन्दर्यै नमः ।  
 ॐ अमृतसेविन्यै नमः ।  
 ॐ ज्योत्स्नानामधिकायै नमः ।  
 ॐ गुर्व्यै नमः ।  
@@ -713,7 +713,7 @@ title = "तुलसी सहस्रशतनामावली"
 ॐ कल्याण्यै नमः ।  
 ॐ कल्पनायै नमः ।  
 ॐ कृत्यै नमः ।  
-ॐ पंचस्तम्भात्मिकायै नमः ।  
+ॐ पञ्चस्तम्भात्मिकायै नमः ।  
 ॐ क्षौमवस्रायै नमः ।  
 ॐ पञ्चाग्निमध्यगायै नमः ।  
 ॐ आदिदेव्यै नमः ।  

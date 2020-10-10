@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivabhuja.ngam"
-"File name" = "shivabhujangam.itx"
-itxtitle = "shivabhujaNgam (shaNkarAchAryavirachitam)"
-engtitle = "Shivabhujangam"
-Category = "shiva, bhujanga, shankarAchArya, vedanta"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Subcategory = "bhujanga"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kamakshi kAmAkShi7 at gmail.com"
-"Proofread by" = "Kamakshi kAmAkShi7 at gmail.com"
-"Latest update" = "July 12, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवभुजण्गम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: shiva, bhujanga, shankarAchArya, vedanta
+File name: shivabhujangam.itx
+Language: Sanskrit
+Latest update: July 12, 2015
+Location: doc_shiva
+Proofread by: Kamakshi kAmAkShi7 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhujanga
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivabhuja.ngam
+Transliterated by: Kamakshi kAmAkShi7 at gmail.com
+engtitle: Shivabhujangam
+itxtitle: shivabhujaNgam (shaNkarAchAryavirachitam)
+title: शिवभुजण्गम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  श्रीशिवभुजङ्गम् अथवा शिवस्तुतिः   
   
@@ -69,7 +69,7 @@ title = "शिवभुजण्गम् (शण्कराचार्यव
 त्वदन्यः शरण्यः प्रपन्नस्य नेति  
 प्रसीद स्मरन्नेव हन्यास्तु दैन्यम् ।  
 न चेत्ते भवेद्भक्तवात्सल्यहानि-  
-स्ततो मे दयालो सदा संनिधेहि ॥ १०॥  
+स्ततो मे दयालो सदा सन्निधेहि ॥ १०॥  
   
 अयं दानकालस्त्वहं दानपात्रं  
 भवानेव दाता त्वदन्यं न याचे ।  
@@ -141,7 +141,7 @@ title = "शिवभुजण्गम् (शण्कराचार्यव
 तदा भूतिभूषं भुजङ्गावनद्धं  
 पुरारे भवन्तं स्फुटं भावयेयम् ॥ २४॥  
   
-यदा यातनादेहसंदेहवाही  
+यदा यातनादेहसन्देहवाही  
 भवेदात्मदेहे न मोहो महान्मे ।  
 तदा काशशीतांशुसङ्काशमीश  
 स्मरारे वपुस्ते नमस्ते स्मराणि ॥ २५॥  
@@ -162,7 +162,7 @@ title = "शिवभुजण्गम् (शण्कराचार्यव
 न पश्यामि पातारमेतादृशं मे ॥ २८॥  
   
 इदानीमिदानीं मृतिर्मे भवित्री-  
-त्यहो संततं चिन्तया पीडितोऽस्मि ।  
+त्यहो सन्ततं चिन्तया पीडितोऽस्मि ।  
 कथं नाम मा भून्मृतौ भीतिरेषा  
 नमस्ते गतीनां गते नीलकण्ठ ॥ २९॥  
   

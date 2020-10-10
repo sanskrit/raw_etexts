@@ -1,26 +1,26 @@
-+++
-"Text title" = "mahAsvAmipAdoShTottarashatanAmAvaliH"
-"File name" = "chandrashekharendra108.itx"
-itxtitle = "chandrashekharendrasarasvatyaShTottarashatanAmAvaliH mahAsvAmipAdoShTottarashatanAmAvaliH"
-engtitle = "Kanchi Periyava aShTottarashata nAmAvaliH - Simple"
-Category = "aShTottarashatanAmAvalI, deities_misc, gurudev, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree"
-"Proofread by" = "NA"
-Description-comments = "Amritha Varshini, Supplement to Sept 2012 issue"
-Source = "https://docs.google.com/file/d/0B6uAhaK8f6ena2NMZER5WkxSVGs/edit"
-Indexextra = "(youtube, Sri Kanchi Maha Periyava Ashtothram)"
-"Latest update" = "August 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्रशेखरेन्द्रसरस्वत्यष्टोत्तरशतनामावलिः महास्वामिपादोष्टोत्तरशतनामावलिः"
+---
+Category: aShTottarashatanAmAvalI, deities_misc, gurudev, nAmAvalI
+Description-comments: Amritha Varshini, Supplement to Sept 2012 issue
+File name: chandrashekharendra108.itx
+Indexextra: (youtube, Sri Kanchi Maha Periyava Ashtothram)
+Language: Sanskrit
+Latest update: August 5, 2016
+Location: doc_deities_misc
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: https://docs.google.com/file/d/0B6uAhaK8f6ena2NMZER5WkxSVGs/edit
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: mahAsvAmipAdoShTottarashatanAmAvaliH
+Texttype: nAmAvalI
+Transliterated by: Shree
+engtitle: Kanchi Periyava aShTottarashata nAmAvaliH - Simple
+itxtitle: chandrashekharendrasarasvatyaShTottarashatanAmAvaliH mahAsvAmipAdoShTottarashatanAmAvaliH
+title: चन्द्रशेखरेन्द्रसरस्वत्यष्टोत्तरशतनामावलिः महास्वामिपादोष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीचन्द्रशेखरेन्द्रसरस्वत्यष्टोत्तरशतनामावलिः   
   
@@ -31,7 +31,7 @@ title = "चन्द्रशेखरेन्द्रसरस्वत्�
   
 ॐ श्रीकाञ्चीकामकोटिपीठाधीश्वराय नमः ।  
 ॐ श्रीचन्द्रशेखरेन्द्रसरस्वतीगुरुभ्यो नमः ।  
-ॐ संन्यासाश्रमशिखराय नमः ।  
+ॐ सन्न्यासाश्रमशिखराय नमः ।  
 ॐ काषायदण्डधारिणे नमः ।  
 ॐ सर्वपीडापहारिणे नमः ।  
 ॐ स्वामिनाथगुरवे नमः ।  
@@ -102,7 +102,7 @@ title = "चन्द्रशेखरेन्द्रसरस्वत्�
 ॐ पादयात्राप्रियाय नमः ।  
 ॐ नानाविधमतपण्डिताय नमः ।  
 ॐ श्रुतिस्मृतिपुराणज्ञाय नमः ।  
-ॐ देवयक्षकिन्नरकिंपुरुषपूज्याय नमः ।  
+ॐ देवयक्षकिन्नरकिम्पुरुषपूज्याय नमः ।  
 ॐ श्रवणानन्दकरकीर्तये नमः ।  
 ॐ दर्शनानन्दाय नमः ।  
 ॐ अद्वैतानन्दभरिताय नमः ।  

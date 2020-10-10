@@ -1,22 +1,22 @@
-+++
-"Text title" = "paJNchAkSharamantra stotra"
-"File name" = "panch.itx"
-itxtitle = "shivapanchAkSharamantrastotraM (shaNkarAchAryavirachitam)"
-engtitle = "panchAkSharamantra stotra"
-Category = "panchaka, shiva, shankarAchArya"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "shankarAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anand Hudli ahudli at silver.ucs.indiana.edu"
-"Proofread by" = "Anand Hudli ahudli at silver.ucs.indiana.edu"
-"Latest update" = "February 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवपञ्चाक्षरमन्त्रस्तोत्रं (शण्कराचार्यविरचितम्)"
+---
+Author: shankarAchArya
+Category: panchaka, shiva, shankarAchArya
+File name: panch.itx
+Language: Sanskrit
+Latest update: February 14, 2018
+Location: doc_shiva
+Proofread by: Anand Hudli ahudli at silver.ucs.indiana.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: paJNchAkSharamantra stotra
+Transliterated by: Anand Hudli ahudli at silver.ucs.indiana.edu
+engtitle: panchAkSharamantra stotra
+itxtitle: shivapanchAkSharamantrastotraM (shaNkarAchAryavirachitam)
+title: शिवपञ्चाक्षरमन्त्रस्तोत्रं (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  शिवपञ्चाक्षरमन्त्रस्तोत्र   
   
@@ -48,7 +48,7 @@ The following is the ShivapanchAkShara stotra composed by
 Adi SankarAchArya . One may worship the Shiva linga by  
 reciting this stotra and offering bilva leaves.  
   
-          शिवपंचाक्षरस्तोत्र  
+          शिवपञ्चाक्षरस्तोत्र  
 नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय ।  
 नित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नमः शिवाय ॥ १॥  
   
@@ -99,7 +99,7 @@ in His hand, the Primeval Lord, the brilliant God,
 who is digambara (naked), and who is represented by the  
 syllable  ``ya. ''  
   
-पंचाक्षरमिदं पुण्यं यः पठेच्छिवसन्निधौ ।  
+पञ्चाक्षरमिदं पुण्यं यः पठेच्छिवसन्निधौ ।  
 शिवलोकमवाप्नोति शिवेन सह मोदते ॥  
   
   
@@ -107,9 +107,9 @@ Anyone who recites this sacred five-syllabled mantra,
 (namaH shivAya) near the Shiva (linga), attains the abode  
 of Shiva and rejoices there with Shiva.  
   
-  ॥ इति श्रीमच्छंकराचार्यविरचित शिवपञ्चाक्षर स्तोत्रं समाप्तं ॥  
+  ॥ इति श्रीमच्छङ्कराचार्यविरचित शिवपञ्चाक्षर स्तोत्रं समाप्तं ॥  
   
-          शिवपंचाक्षरस्तोत्र  
+          शिवपञ्चाक्षरस्तोत्र  
 नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय ।  
 नित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नमः शिवाय ॥ १॥  
   
@@ -125,7 +125,7 @@ of Shiva and rejoices there with Shiva.
 यक्षस्वरूपाय जटाधराय पिनाकहस्ताय सनातनाय ।  
 दिव्याय देवाय दिगम्बराय तस्मै यकाराय नमः शिवाय ॥ ५॥  
   
-पंचाक्षरमिदं पुण्यं यः पठेच्छिवसन्निधौ ।  
+पञ्चाक्षरमिदं पुण्यं यः पठेच्छिवसन्निधौ ।  
 शिवलोकमवाप्नोति शिवेन सह मोदते ॥  
   
   

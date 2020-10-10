@@ -3,7 +3,6 @@ title: 020 Ravana sends Shuka to Sugreeva as an ambassador
 title_english: 020 Ravana sends Shuka to Sugreeva as an ambassador
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-020-Ravana_sends_Shuka_to_Sugreeva_as_an_ambassador.mp3"></div>
 
 ततो निविष्टाम् ध्वजिनीम् सुग्रीवेणाभिपालिताम् ।  
@@ -24,7 +23,7 @@ title_english: 020 Ravana sends Shuka to Sugreeva as an ambassador
 उवाच सहसा व्यग्रः सम्प्रधार्यार्थमात्मनः ॥ ६-२०-८  
 शुकम् नाम तदा रक्षो वाक्यमर्थविदाम् वरम् ।  
 सुग्रीवम् ब्रूहि गत्वाशु राजानम् वचनान्मनु ॥ ६-२०-९  
-यथासंदेशमक्लीबम् शल्क्स्णया परया गिरा ।  
+यथासन्देशमक्लीबम् शल्क्स्णया परया गिरा ।  
 त्वम् वै महारज कुलप्रसूतो ।  
 महाबलश्चर्क्षरजःसुतश्च ।  
 न कश्चनार्थस्तव वास्त्यनर्थ ।  
@@ -33,7 +32,7 @@ title_english: 020 Ravana sends Shuka to Sugreeva as an ambassador
 किम् तत्र तव सुग्रीव किश्किन्धाम् प्रति गम्यताम् ॥ ६-२०-११  
 न हीयम् हरिभिर्लङ्का प्राप्तुम् शक्या कथम् चन ।  
 देवैरपि सगन्धर्वैः किम् पुनर्नरवानरैः ॥ ६-२०-१२  
-स तदा राक्षसेन्द्रेण संदिष्टो रजनीचरः ।  
+स तदा राक्षसेन्द्रेण सन्दिष्टो रजनीचरः ।  
 शुको विहम्गमो भूत्वा तूर्णमाप्लुत्य चाम्बरम् ॥ ६-२०-१३  
 स गत्वा दूरमध्वानमुपर्युपरि सागरम् ।  
 संस्थितो ह्यम्बरे वाक्यम् सुग्रीव मदिमब्रवीत् ॥ ६-२०-१४  

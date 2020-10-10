@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Jvalamukhi SahasranamavaliH 1000 names"
-"File name" = "jvAlAmukhIsahasranAmAvaliH.itx"
-itxtitle = "jvAlAmukhIsahasranAmAvaliH (rudrayAmalAntargatA)"
-engtitle = "jvAlAmukhIsahasranAmAvaliH"
-Category = "sahasranAmAvalI, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Description-comments = "See corresponding stotra"
-Source = "Bhagavati Stuti Manjari p 223"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ज्वालामुखीसहस्रनामावलिः (रुद्रयामलान्तर्गता)"
+---
+Category: sahasranAmAvalI, devii, dashamahAvidyA, devI
+Description-comments: See corresponding stotra
+File name: jvAlAmukhIsahasranAmAvaliH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Bhagavati Stuti Manjari p 223
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Jvalamukhi SahasranamavaliH 1000 names
+engtitle: jvAlAmukhIsahasranAmAvaliH
+itxtitle: jvAlAmukhIsahasranAmAvaliH (rudrayAmalAntargatA)
+title: ज्वालामुखीसहस्रनामावलिः (रुद्रयामलान्तर्गता)
 
-+++
+---
   
  श्रीज्वालामुखीसहस्रनामावलिः   
   
@@ -147,7 +147,7 @@ title = "ज्वालामुखीसहस्रनामावलिः (
   
 ॐ कामिन्यै नमः । कुटिलालकायै । कुशब्दायै । कुगतये ।  
 मेधायै । मध्यमाङ्कायै । काश्यप्यै । दक्षिणायै कालिकायै ।  
-काल्यै । कालभैरवपूजितायै । क्लींकार्यै । कुमतये । वाण्यै ।  
+काल्यै । कालभैरवपूजितायै । क्लीङ्कार्यै । कुमतये । वाण्यै ।  
 बाणासुरनिषूदिन्यै । निर्ममायै । निर्ममेष्टायै । निरयो(र्यो)नये ।  
 निराश्रयायै (निरर्योनिर्निराश्रयायै) । निर्विकारायै । निरीहायै नमः । ३८०  
   

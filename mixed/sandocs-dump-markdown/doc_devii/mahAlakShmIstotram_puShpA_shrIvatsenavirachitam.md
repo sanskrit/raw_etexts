@@ -1,26 +1,26 @@
-+++
-"Text title" = "mahalakshmIstotramPS"
-"File name" = "mahalakshmIstotramPS.itx"
-itxtitle = "mahAlakShmIstotram (puShpA shrIvatsenavirachitam)"
-engtitle = "mahalakshmIstotramPS"
-Category = "devii, puShpAshrIvatsan, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालक्ष्मीस्तोत्रम् (पुष्पा श्रीवत्सेनविरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: devii, puShpAshrIvatsan, lakShmI, devI
+File name: mahalakshmIstotramPS.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 28, 2017
+Location: doc_devii
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahalakshmIstotramPS
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: mahalakshmIstotramPS
+itxtitle: mahAlakShmIstotram (puShpA shrIvatsenavirachitam)
+title: महालक्ष्मीस्तोत्रम् (पुष्पा श्रीवत्सेनविरचितम्)
 
-+++
+---
   
  श्रीमहालक्ष्मीस्तोत्रम्   
                  ॐ  
@@ -30,7 +30,7 @@ title = "महालक्ष्मीस्तोत्रम् (पुष्
 ॐ श्रीरूपायै च विद्महे । शुभदायै च धीमहि ।  
 तन्नो लक्ष्मीः प्रचोदयात् ॥  
   
-श्रींबीजपूजिते देवि हरिवक्षस्थलालये ।  
+श्रीम्बीजपूजिते देवि हरिवक्षस्थलालये ।  
 सर्वसौमङ्गलाधात्रि महालक्ष्मि नमोस्तु ते ॥ १॥  
   
 विद्यालक्ष्मि सुधासारे ज्ञानलक्ष्मि वसुप्रदे ।  

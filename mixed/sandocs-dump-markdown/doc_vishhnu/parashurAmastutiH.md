@@ -1,24 +1,24 @@
-+++
-"Text title" = "parashurAmastutiH"
-"File name" = "parashustuti.itx"
-itxtitle = "parashurAmastutiH"
-engtitle = "parashurAmastutiH"
-Category = "vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "January 10, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परशुरामस्तुतिः"
+---
+Author: Traditional
+Category: vishhnu, dashAvatAra, stotra, vishnu
+File name: parashustuti.itx
+Language: Sanskrit
+Latest update: January 10, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: parashurAmastutiH
+Texttype: stotra
+Transliterated by: WebD
+engtitle: parashurAmastutiH
+itxtitle: parashurAmastutiH
+title: परशुरामस्तुतिः
 
-+++
+---
   
  परशुरामस्तुती   
   
@@ -28,7 +28,7 @@ title = "परशुरामस्तुतिः"
   
 नाशिष्यः किमभूद्भवः किपभवन्नापुत्रिणी रेणुका  
 नाभूद्विश्वमकार्मुकं किमिति यः प्रीणातु रामत्रपा ।  
-विप्राणां प्रतिमन्दिरं मणिगणोन्मिश्राणि दण्डाहतेर्नांब्धीनो  
+विप्राणां प्रतिमन्दिरं मणिगणोन्मिश्राणि दण्डाहतेर्नाम्ब्धीनो  
 स मया यमोऽर्पि महिषेणाम्भांसि नोद्वाहितः ॥ २॥  
   
 पायाद्वो यमदग्निवंशतिलको वीरव्रतालङ्कृतो  

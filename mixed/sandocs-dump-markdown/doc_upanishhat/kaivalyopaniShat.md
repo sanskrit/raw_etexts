@@ -1,24 +1,24 @@
-+++
-"Text title" = "Kaivalya Upanishad"
-"File name" = "kaivalya.itx"
-itxtitle = "kaivalyopaniShat"
-engtitle = "Kaivalya Upanishad"
-Category = "upanishhat, upanishad, shiva"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "traditional"
-Language = "Sanskrit"
-Subject = "hinduism/philosophy"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Translated by" = "-"
-Description-comments = "Krishna-Yajur-veda - Shaiva upanishad -   12"
-"Latest update" = "May 3, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कैवल्योपनिषत्"
+---
+Author: traditional
+Category: upanishhat, upanishad, shiva
+Description-comments: Krishna-Yajur-veda - Shaiva upanishad -   12
+File name: kaivalya.itx
+Language: Sanskrit
+Latest update: May 3, 2003
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/philosophy
+Sublocation: upanishhat
+Text title: Kaivalya Upanishad
+Translated by: '-'
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Kaivalya Upanishad
+itxtitle: kaivalyopaniShat
+title: कैवल्योपनिषत्
 
-+++
+---
   
  कैवल्योपनिषत्   
   
@@ -39,7 +39,7 @@ title = "कैवल्योपनिषत्"
 न कर्मणा न प्रजया धनेन त्यागेनैके अमृतत्वमानशुः ।  
 परेण नाकं निहितं गुहायां विभ्राजते यद्यतयो विशन्ति ॥ ३॥  
   
-वेदान्तविज्ञानसुनिश्र्चितार्थाः संन्यासयोगाद्यतयः शुद्धसत्त्वाः ।  
+वेदान्तविज्ञानसुनिश्र्चितार्थाः सन्न्यासयोगाद्यतयः शुद्धसत्त्वाः ।  
 ते ब्रह्मलोकेषु परान्तकाले परामृताः परिमुच्यन्ति सर्वे ॥ ४॥  
   
 विविक्तदेशे च सुखासनस्थः शुचिः समग्रीवशिरःशरीरः ।  

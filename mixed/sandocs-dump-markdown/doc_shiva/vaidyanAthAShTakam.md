@@ -1,70 +1,70 @@
-+++
-"Text title" = "vaidyanAthAShTakam"
-"File name" = "vaidyanaatha8.itx"
-itxtitle = "vaidyanAthAShTakam"
-engtitle = "vaidyanAthAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subramanian Ganesh sgesh at hotmail.com"
-"Proofread by" = "Subramanian Ganesh sgesh at hotmail.com"
-"Latest update" = "November 21, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वैद्यनाथाष्टकम्"
+---
+Author: Traditional
+Category: aShTaka, shiva
+File name: vaidyanaatha8.itx
+Language: Sanskrit
+Latest update: November 21, 2000
+Location: doc_shiva
+Proofread by: Subramanian Ganesh sgesh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: vaidyanAthAShTakam
+Transliterated by: Subramanian Ganesh sgesh at hotmail.com
+engtitle: vaidyanAthAShTakam
+itxtitle: vaidyanAthAShTakam
+title: वैद्यनाथाष्टकम्
 
-+++
+---
   
  वैद्यनाथाष्टकम्   
   
 श्रीरामसौमित्रिजटायुवेद षडाननादित्य कुजार्चिताय ।  
 श्रीनीलकण्ठाय दयामयाय श्रीवैद्यनाथाय नमःशिवाय ॥ १॥  
   
-शंभो महादेव शंभो महादेव शंभो महादेव शंभो महादेव ।  
-शंभो महादेव शंभो महादेव शंभो महादेव शंभो महादेव ॥  
+शम्भो महादेव शम्भो महादेव शम्भो महादेव शम्भो महादेव ।  
+शम्भो महादेव शम्भो महादेव शम्भो महादेव शम्भो महादेव ॥  
   
 गङ्गाप्रवाहेन्दु जटाधराय त्रिलोचनाय स्मर कालहन्त्रे ।  
 समस्त देवैरभिपूजिताय श्रीवैद्यनाथाय  नमः शिवाय ॥ २॥  
   
-शंभो महादेव ....  
+शम्भो महादेव ....  
   
 भक्तःप्रियाय त्रिपुरान्तकाय पिनाकिने दुष्टहराय नित्यम् ।  
 प्रत्यक्षलीलाय मनुष्यलोके श्रीवैद्यनाथाय नमः शिवाय ॥ ३॥  
   
-शंभो महादेव ....  
+शम्भो महादेव ....  
   
 प्रभूतवातादि समस्तरोग प्रनाशकर्त्रे मुनिवन्दिताय ।  
 प्रभाकरेन्द्वग्नि विलोचनाय श्रीवैद्यनाथाय नमः शिवाय ॥ ४॥  
   
-शंभो महादेव ....  
+शम्भो महादेव ....  
   
-वाक् श्रोत्र नेत्राङ्घ्रि विहीनजन्तोः वाक्श्रोत्रनेत्रांघ्रिसुखप्रदाय ।  
+वाक् श्रोत्र नेत्राङ्घ्रि विहीनजन्तोः वाक्श्रोत्रनेत्राङ्घ्रिसुखप्रदाय ।  
 कुष्ठादिसर्वोन्नतरोगहन्त्रे श्रीवैद्यनाथाय नमः शिवाय ॥ ५॥  
   
-शंभो महादेव ....  
+शम्भो महादेव ....  
   
 वेदान्तवेद्याय जगन्मयाय योगीश्वरद्येय पदाम्बुजाय ।  
 त्रिमूर्तिरूपाय सहस्रनाम्ने श्रीवैद्यनाथाय नमः शिवाय ॥ ६॥  
   
-शंभो महादेव ....  
+शम्भो महादेव ....  
   
 स्वतीर्थमृद्भस्मभृताङ्गभाजां पिशाचदुःखार्तिभयापहाय ।  
 आत्मस्वरूपाय शरीरभाजां श्रीवैद्यनाथाय नमः शिवाय ॥ ७॥  
   
-शंभो महादेव ....  
+शम्भो महादेव ....  
   
 श्रीनीलकण्ठाय वृषध्वजाय स्रक्गन्ध भस्माद्यभिशोभिताय ।  
 सुपुत्रदारादि सुभाग्यदाय श्रीवैद्यनाथाय नमः शिवाय ॥ ८॥  
   
-शंभो महादेव ....  
+शम्भो महादेव ....  
   
 वालाम्बिकेश वैद्येश भवरोगहरेति च ।  
 जपेन्नामत्रयं नित्यं महारोगनिवारणम् ॥ ९॥  
   
-शंभो महादेव ....  
+शम्भो महादेव ....  
   
    ॥ इति श्री वैद्यनाथाष्टकम् ॥  
   

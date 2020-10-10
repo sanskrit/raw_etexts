@@ -1,24 +1,24 @@
-+++
-"Text title" = "bhagavatikavacham"
-"File name" = "bhagavatikavacham.itx"
-itxtitle = "bhagavatIkavacham (agnipurANAntargatam)"
-engtitle = "bhagavatikavacham"
-Category = "kavacha, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "Shribrihatkavachasangraha"
-Source = "agnipurANa"
-"Latest update" = "December 21, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवतीकवचम् (अग्निपुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: kavacha, devii, devI
+Description-comments: Shribrihatkavachasangraha
+File name: bhagavatikavacham.itx
+Language: Sanskrit
+Latest update: December 21, 2015
+Location: doc_devii
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: agnipurANa
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhagavatikavacham
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: bhagavatikavacham
+itxtitle: bhagavatIkavacham (agnipurANAntargatam)
+title: भगवतीकवचम् (अग्निपुराणान्तर्गतम्)
 
-+++
+---
   
  भगवतीकवचम्   
   

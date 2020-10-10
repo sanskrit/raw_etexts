@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Mattapalli Nrisimha Mangalashtakam"
-"File name" = "maTTapallinRRisimhamangalAShTakam.itx"
-itxtitle = "maTTapallinRisimhamaNgalAShTakam"
-engtitle = "Shri Mattapalli Nrisimha Mangalashtakam"
-Category = "vishhnu, dashAvatAra, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मट्टपल्लिनृइसिम्हमण्गलाष्टकम्"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: vishhnu, dashAvatAra, aShTaka
+File name: maTTapallinRRisimhamangalAShTakam.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Mattapalli Nrisimha Mangalashtakam
+engtitle: Shri Mattapalli Nrisimha Mangalashtakam
+itxtitle: maTTapallinRisimhamaNgalAShTakam
+title: मट्टपल्लिनृइसिम्हमण्गलाष्टकम्
 
-+++
+---
   
  श्रीमट्टपल्लिनृसिंहमङ्गलाष्टकम्   
 मट्टपल्लिनिवासाय मथुरानन्दरूपिणे ।  

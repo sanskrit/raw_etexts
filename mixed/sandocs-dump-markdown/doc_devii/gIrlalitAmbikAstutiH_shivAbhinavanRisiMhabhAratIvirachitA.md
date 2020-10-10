@@ -1,24 +1,25 @@
-+++
-"Text title" = "gIrlalitAmbikAstutiH"
-"File name" = "gIrlalitAmbikAstutiH.itx"
-itxtitle = "gIrlalitAmbikAstutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "gIrlalitAmbikAstutiH"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI, dashamahAvidyA, lalitA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गीर्ललिताम्बिकास्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI, dashamahAvidyA,
+  lalitA
+File name: gIrlalitAmbikAstutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gIrlalitAmbikAstutiH
+engtitle: gIrlalitAmbikAstutiH
+itxtitle: gIrlalitAmbikAstutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: गीर्ललिताम्बिकास्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  गीर्ललिताम्बिकास्तुतिः   
 (श्रीशारदागौरीसहोत्सवकाले)  

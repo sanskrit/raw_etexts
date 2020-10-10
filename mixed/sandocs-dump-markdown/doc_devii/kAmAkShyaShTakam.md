@@ -1,21 +1,21 @@
-+++
-"Text title" = "kAmAkShyaShTakam"
-"File name" = "kAmAkShyaShTakam.itx"
-itxtitle = "kAmAkShyaShTakam"
-engtitle = "kAmAkShyaShTakam"
-Category = "aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Indexextra = "(Translation)"
-"Latest update" = "August 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामाक्ष्यष्टकम्"
+---
+Category: aShTaka
+File name: kAmAkShyaShTakam.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: August 2, 2017
+Location: doc_devii
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAmAkShyaShTakam
+engtitle: kAmAkShyaShTakam
+itxtitle: kAmAkShyaShTakam
+title: कामाक्ष्यष्टकम्
 
-+++
+---
   
  कामाक्ष्यष्टकम्   
   

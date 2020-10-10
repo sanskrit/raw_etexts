@@ -1,23 +1,23 @@
-+++
-"Text title" = "sharabhasahasranAmastotram 3"
-"File name" = "sharabhasahasranAmastotra3.itx"
-itxtitle = "sharabhasahasranAmastotram 3"
-engtitle = "sharabhasahasranAmastotram 3"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar"
-"Proofread by" = "Ravin Bhalekar, Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Shivanamamanjari 1 Edited by S.V.Radhakrishnanji"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "August 27, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरभसहस्रनामस्तोत्रम् ३"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAma, shiva
+Description-comments: Shivanamamanjari 1 Edited by S.V.Radhakrishnanji
+File name: sharabhasahasranAmastotra3.itx
+Language: Sanskrit
+Latest update: August 27, 2017
+Location: doc_shiva
+Proofread by: Ravin Bhalekar, Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: sharabhasahasranAmastotram 3
+Transliterated by: Ravin Bhalekar
+engtitle: sharabhasahasranAmastotram 3
+itxtitle: sharabhasahasranAmastotram 3
+title: शरभसहस्रनामस्तोत्रम् ३
 
-+++
+---
   
  श्रीशरभसहस्रनामस्तोत्रम् ३   
   
@@ -367,7 +367,7 @@ title = "शरभसहस्रनामस्तोत्रम् ३"
 शक्तिरूपाय शम्भवे ।  
 अप्रेमयाय देवाय वषट् स्वाहा स्वधात्मने'' ।  
 द्युमूर्धा दशदिग्बाहुश्चन्द्रसूर्याग्निलोचनः ।  
-पातालाङ्घ्रिरिलाकुक्षिः खंमुखो गगनोदरः ॥ १०१॥  
+पातालाङ्घ्रिरिलाकुक्षिः खम्मुखो गगनोदरः ॥ १०१॥  
   
 कलानादः कलाबिन्दुः कलाज्योतिः सनातनः ।  
 अलौकिककनोदारः कैवल्यपददायकः ॥ १०२॥  
@@ -536,7 +536,7 @@ title = "शरभसहस्रनामस्तोत्रम् ३"
 त्रिविक्रमस्त्रिकालज्ञस्त्रिमूर्तिस्त्रिपुरान्तकः ॥ १५६॥  
   
 ब्रह्मचारी व्रतप्रीतो गृहस्थो गृहवासकः ।  
-परम्धाम परंब्रह्म परमात्मा परात्परः ॥ १५७॥  
+परम्धाम परम्ब्रह्म परमात्मा परात्परः ॥ १५७॥  
   
 सर्वेश्वरः सर्वमयः सर्वसाक्षी विलक्षणः ।  
 मणिद्वीपो द्वीपनाथो द्वीपान्तो द्वीपलक्षणः ॥ १५८॥  

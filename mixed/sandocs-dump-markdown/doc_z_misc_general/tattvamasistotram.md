@@ -1,22 +1,22 @@
-+++
-"Text title" = "Tattvamasi Stotram"
-"File name" = "tattvamasistotram.itx"
-itxtitle = "tattvamasistotram"
-engtitle = "tattvamasistotram"
-Category = "misc, vedanta, advice"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "April 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "तत्त्वमसिस्तोत्रम्"
+---
+Category: misc, vedanta, advice
+File name: tattvamasistotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 18, 2020
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Tattvamasi Stotram
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: tattvamasistotram
+itxtitle: tattvamasistotram
+title: तत्त्वमसिस्तोत्रम्
 
-+++
+---
   
  तत्त्वमसि स्तोत्रम्   
      मनः कल्पितमेवेदं जगज्जीवेशकल्पनम् ।  

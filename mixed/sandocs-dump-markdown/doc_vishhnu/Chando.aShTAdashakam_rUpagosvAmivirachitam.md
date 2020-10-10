@@ -1,25 +1,27 @@
-+++
-"Text title" = "Chando.aShTAdashakam"
-"File name" = "Chando.aShTAdashakam.itx"
-itxtitle = "Chando.aShTAdashakam (rUpagosvAmivirachitam)"
-engtitle = "Chando.aShTAdashakam"
-Category = "vishhnu, krishna, rUpagosvAmin, stavamAlA, aShTAdasha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Rupagoswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional Prayers stavamAlA"
-Indexextra = "(Scan, Bengali, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "छन्दोऽष्टादशकम् (रूपगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Rupagoswami
+Category: vishhnu, krishna, rUpagosvAmin, stavamAlA, aShTAdasha
+Description/comments: From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional
+  Prayers stavamAlA
+File name: Chando.aShTAdashakam.itx
+Indexextra: (Scan, Bengali, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Chando.aShTAdashakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: Chando.aShTAdashakam
+itxtitle: Chando.aShTAdashakam (rUpagosvAmivirachitam)
+title: छन्दोऽष्टादशकम् (रूपगोस्वामिविरचितम्)
 
-+++
+---
   
  छन्दोऽष्टादशकम्   
   
@@ -196,7 +198,7 @@ title = "छन्दोऽष्टादशकम् (रूपगोस्व
 मेघभागतानवस्य सर्परूपदानवस्य  
 वीक्षयातिविस्मितेन तस्य कुक्षिमाश्रितेन  
 वत्सपालमण्डलेन नीतखेदमुच्चलेन  
-तत्र मङ्क्षु संप्रविष्टमुद्धूतस्वभक्तरिष्ट  
+तत्र मङ्क्षु सम्प्रविष्टमुद्धूतस्वभक्तरिष्ट  
 मेधिताङ्गरुद्धवातमर्दिताहिजन्मजातं  
 ईक्षयाभीजीवितेन डिम्भसञ्चयेन तेन  
 सार्धमेत्य सत्तडागतीरमाप्तभुक्तिरागं  
@@ -256,7 +258,7 @@ title = "छन्दोऽष्टादशकम् (रूपगोस्व
 फलशब्दरुष्टखररूपदुष्टहरकामपालकृतहर्षमाल  
 तुरगारिकाल खरचक्रवालतृणवीतिहोत्र रमितात्मगोत्र  
 हतधेनुकाद्य विबुधाभिवाद्य तृणराजभङ्गभरजातरङ्ग  
-रिपुवर्गभीद मयि संप्रसीद ॥ ६॥  
+रिपुवर्गभीद मयि सम्प्रसीद ॥ ६॥  
   
 कलगीतनामेदं छन्दः ।  
 पीनापीनभरोद्गतैरनुदिनं याः क्षीरपूरैर्बलाद्  
@@ -647,7 +649,7 @@ title = "छन्दोऽष्टादशकम् (रूपगोस्व
 १६  
 अथ गोपिकागीतं  
 निर्यासः श्यामलिम्नां परिणतिरमलप्रेमलक्ष्मीभराणां  
-     साक्षात्कारः कृपाणामखिलमधुरतासम्पदां संप्रदायः ।  
+     साक्षात्कारः कृपाणामखिलमधुरतासम्पदां सम्प्रदायः ।  
 गाम्भीर्यं बिभ्रमाणामुपचितिरमितश्चातुरीणां चिरं वो  
      भूयादाभीरनारीकुचकलसतटालङ्कृतिर्मङ्गलाय ॥ ३५॥  
   

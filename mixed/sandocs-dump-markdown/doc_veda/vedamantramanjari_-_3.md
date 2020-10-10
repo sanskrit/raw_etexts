@@ -1,23 +1,23 @@
-+++
-"Text title" = "veda mantra manjari - 3"
-"File name" = "vedamantramanjari3.itx"
-itxtitle = "vedamantramanjari - 3"
-engtitle = "vedamantramanjari - 3"
-Category = "sUkta, veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rekha Venkatesh"
-"Proofread by" = "Rekha Venkatesh"
-Description-comments = "Converted from BRH version"
-"Latest update" = "December 29, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदमन्त्रमञ्जरि - ३"
+---
+Category: sUkta, veda, svara
+Description-comments: Converted from BRH version
+File name: vedamantramanjari3.itx
+Language: Sanskrit
+Latest update: December 29, 2014
+Location: doc_veda
+Proofread by: Rekha Venkatesh
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: veda mantra manjari - 3
+Texttype: svara
+Transliterated by: Rekha Venkatesh
+engtitle: vedamantramanjari - 3
+itxtitle: vedamantramanjari - 3
+title: वेदमन्त्रमञ्जरि - ३
 
-+++
+---
   
  वेदमन्त्रमञ्जरि - ३   
 ॥ श्रीगणेशसूक्तम् ॥  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "pArshvanAthastavanam"
-"File name" = "pArshvanAthastavanam.itx"
-itxtitle = "pArshvanAthastavanam"
-engtitle = "pArshvanAthastavanam"
-Category = "deities_misc, jaina"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 31, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्श्वनाथस्तवनम्"
+---
+Category: deities_misc, jaina
+File name: pArshvanAthastavanam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 31, 2019
+Location: doc_deities_misc
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: pArshvanAthastavanam
+engtitle: pArshvanAthastavanam
+itxtitle: pArshvanAthastavanam
+title: पार्श्वनाथस्तवनम्
 
-+++
+---
   
  श्रीपार्श्वनाथस्तवनम्   
 अथ श्रीपार्श्वनाथस्तवनम् ।  
@@ -36,10 +36,10 @@ title = "पार्श्वनाथस्तवनम्"
   
 पूजनविधिः ।  
   
-ह्रींह्रींङ्कारबीजं भूरिरूपतेजं गुणाधिकराज्यं सुराधिपपूज्यम् ।  
+ह्रींह्रीङ्ङ्कारबीजं भूरिरूपतेजं गुणाधिकराज्यं सुराधिपपूज्यम् ।  
 क्षीराब्धिसुवारिभिः काश्मीरयुक्तैर्भवकल्मषहारैर्जिनमर्चयामि ॥  
   
-ॐ ह्रीं सकलमन्त्रवीजाय ह्रींङ्काराय विश्वविध्नहरणाय ॥ जलम् ॥ १॥  
+ॐ ह्रीं सकलमन्त्रवीजाय ह्रीङ्ङ्काराय विश्वविध्नहरणाय ॥ जलम् ॥ १॥  
   
 हुं ह्रोङ्कारनाम्नी परं स्फोटयापं जनानां सुखदायकं विघ्नहारम् ।  
 देवरण्यश्रीखण्डकुङ्कुमयुक्तैर्वपुस्तापहारैजिनं पूजयामि ॥ गन्धम् ॥ २॥  

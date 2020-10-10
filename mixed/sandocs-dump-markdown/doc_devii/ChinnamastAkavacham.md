@@ -1,24 +1,25 @@
-+++
-"Text title" = "shriichhinnamastaakavacham"
-"File name" = "chhinnamastaakavach.itx"
-itxtitle = "ChinnamastAkavacham"
-engtitle = "ChinnamastAkavacham"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "shrIbhairavatantre bhairavabhairavIsa.nvAde trailokyavijayaM nAma"
-"Latest update" = "August 21, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "छिन्नमस्ताकवचम्"
+---
+Author: Traditional
+Category: kavacha, devii, dashamahAvidyA, devI
+Description-comments: shrIbhairavatantre bhairavabhairavIsa.nvAde trailokyavijayaM
+  nAma
+File name: chhinnamastaakavach.itx
+Language: Sanskrit
+Latest update: August 21, 2008
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shriichhinnamastaakavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: ChinnamastAkavacham
+itxtitle: ChinnamastAkavacham
+title: छिन्नमस्ताकवचम्
 
-+++
+---
   
  श्रीछिन्नमस्ताकवचम्   
 श्रीगणेशाय नमः ।  
@@ -46,7 +47,7 @@ title = "छिन्नमस्ताकवचम्"
 ऋषिस्तु स्याद्विराट् छन्दो देवता च्छिन्नमस्तका ॥ ७॥  
   
 त्रैलोक्यविजये मुक्तौ विनियोगः प्रकीर्तितः ।  
-हुंकारो मे शिरः पातु छिन्नमस्ता बलप्रदा ॥ ८॥  
+हुङ्कारो मे शिरः पातु छिन्नमस्ता बलप्रदा ॥ ८॥  
   
 ह्रां ह्रूं ऐं त्र्यक्षरी पातु भालं वक्त्रं दिगम्बरा ।  
 श्रीं ह्रीं ह्रूं ऐं दृशौ पातु मुण्डं कर्त्रिधरापि सा ॥ ९॥  
@@ -75,7 +76,7 @@ title = "छिन्नमस्ताकवचम्"
 वाग्बीजपुटिता चैषा मध्यं पातु सशक्तिका ।  
 ईश्वरी कूर्चवाग्बीजैर्वज्रवैरोचनीयह्रूं ॥ १७॥  
   
-हूंफट् स्वाहा महाविद्या कोटिसूर्य्यसमप्रभा ।  
+हूम्फट् स्वाहा महाविद्या कोटिसूर्य्यसमप्रभा ।  
 छिन्नमस्ता सदा पायादुरुयुग्मं सशक्तिका ॥ १८॥  
   
 ह्रीं ह्रूं वर्णिनी जानुं श्रीं ह्रीं च डाकिनी पदम् ।  
@@ -110,7 +111,7 @@ title = "छिन्नमस्ताकवचम्"
 यस्याज्ञया मधुमती याति सा साधकालयम् ॥ २८॥  
   
 भूतिन्याद्याश्च डाकिन्यो यक्षिण्याद्याश्च खेचराः ।  
-आज्ञां गृह्णंति तास्तस्य कवचस्य प्रसादतः ॥ २९॥  
+आज्ञां गृह्णन्ति तास्तस्य कवचस्य प्रसादतः ॥ २९॥  
   
 एतदेवं परं ब्रह्मकवचं मन्मुखोदितम् ।  
 देवीमभ्यर्च गन्धाद्यैर्मूलेनैव पठेत्सकृत् ॥ ३०॥  

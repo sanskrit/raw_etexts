@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIyamunA kavachaM from Gargasamhita"
-"File name" = "yamunAkavachaMgargasamhitA.itx"
-itxtitle = "yamunA kavachaM (gargasaMhitAntargatam)"
-engtitle = "shrIyamunA kavachaM from Gargasamhita"
-Category = "kavacha, devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "gargasamhitA"
-Indexextra = "(satsangdhArA)"
-Acknowledge-Permission = "Vishwas Bhide http://satsangdhara.net/"
-"Latest update" = "February 3, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुना कवचं (गर्गसंहितान्तर्गतम्)"
+---
+Acknowledge-Permission: Vishwas Bhide http://satsangdhara.net/
+Category: kavacha, devii, nadI, devI
+Description-comments: gargasamhitA
+File name: yamunAkavachaMgargasamhitA.itx
+Indexextra: (satsangdhArA)
+Language: Sanskrit
+Latest update: February 3, 2016
+Location: doc_devii
+Proofread by: Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIyamunA kavachaM from Gargasamhita
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com
+engtitle: shrIyamunA kavachaM from Gargasamhita
+itxtitle: yamunA kavachaM (gargasaMhitAntargatam)
+title: यमुना कवचं (गर्गसंहितान्तर्गतम्)
 
-+++
+---
   
  श्रीयमुना कवचम्   
 गर्गसंहितान्तर्गतं  

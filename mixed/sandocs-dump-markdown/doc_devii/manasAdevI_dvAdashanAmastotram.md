@@ -1,19 +1,19 @@
-+++
-"Text title" = "Manasa Devi Dvadasha Nama Stotram"
-"File name" = "manasAdvAdashanAmastotram.itx"
-itxtitle = "manasAdevI dvAdashanAmastotram"
-engtitle = "manasAdevI dvAdashanAmastotram"
-Category = "devii"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "June 4, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मनसादेवी द्वादशनामस्तोत्रम्"
+---
+Category: devii
+File name: manasAdvAdashanAmastotram.itx
+Language: Sanskrit
+Latest update: June 4, 2020
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Manasa Devi Dvadasha Nama Stotram
+engtitle: manasAdevI dvAdashanAmastotram
+itxtitle: manasAdevI dvAdashanAmastotram
+title: मनसादेवी द्वादशनामस्तोत्रम्
 
-+++
+---
   
  मनसादेवी द्वादशनामस्तोत्रम्   
 ॐ नमो मनसायै ।  

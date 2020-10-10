@@ -1,24 +1,24 @@
-+++
-"Text title" = "shriidevii taaNDava stotraM"
-"File name" = "shrIdevItaaNDavastotraM.itx"
-itxtitle = "devI tANDavastotram"
-engtitle = "devI tANDava stotram"
-Category = "devii, pArvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Adwaith Menon adwaithmenon at gmail.com"
-"Proofread by" = "Adwaith Menon adwaithmenon at gmail.com"
-"Latest update" = "June 15, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवी ताण्डवस्तोत्रम्"
+---
+Author: Traditional
+Category: devii, pArvatI, stotra, devI
+File name: shrIdevItaaNDavastotraM.itx
+Language: Sanskrit
+Latest update: June 15, 2005
+Location: doc_devii
+Proofread by: Adwaith Menon adwaithmenon at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shriidevii taaNDava stotraM
+Texttype: stotra
+Transliterated by: Adwaith Menon adwaithmenon at gmail.com
+engtitle: devI tANDava stotram
+itxtitle: devI tANDavastotram
+title: देवी ताण्डवस्तोत्रम्
 
-+++
+---
   
  श्रीदेवी ताण्डवस्तोत्रम्   
   
@@ -61,7 +61,7 @@ title = "देवी ताण्डवस्तोत्रम्"
 तत्वमस्यादि महावाक्यजन्यज्ञानज्ञेय  स्वरूपतया  
 शुद्धस्वयं प्रकाशे ज्योतिस्वरूपे ।  
 परब्रह्मणी ।  
-दीनवृत्तीनां अर्थपुत्रमित्रकलत्रसदनादिसंबन्धैः संसारैः  
+दीनवृत्तीनां अर्थपुत्रमित्रकलत्रसदनादिसम्बन्धैः संसारैः  
 कामक्रोधलोभमोहमदमात्सर्यरागद्वेशादिभिर्मेघैर्निमुक्ते  
 दहराकाशेतिशुचौ दशादि पञ्चदशकलाभिस्सकलरूपत्वेन ।  
 श्री सदाख्याभिधानया कलया निश्कलस्वरूपत्वेन ।  
@@ -79,13 +79,13 @@ title = "देवी ताण्डवस्तोत्रम्"
 शाक्तानुगतसकलशास्त्राणां ।  
 पूर्वापरपक्षाणां ।  
 एकीभूताधारेय लक्ष्यस्वरूपतया ।  
-ह्रीइंकारस्वरूपतया ।  
+ह्रीइङ्कारस्वरूपतया ।  
 च अथवा परमरहस्याकारायां श्रीपञ्चदशाक्षर्यां  
 आत्मविद्यामतिशूच्यां हरिहरविरिञ्चादिभिरभ्यर्च्चमानियां ।  
 तस्योपासकानां ।  
 ईकारसहितश्रीकार रेफबिन्दुस्वरूपतया विराजमाने ।  
 उत्कृष्टकर्मोपासना योगैश्वर्यादिशुविनुर्मुक्त  
-चित्तानां शुद्धोपनिशत् संभृत वेदान्त वाक्यार्थवेदीनां  
+चित्तानां शुद्धोपनिशत् सम्भृत वेदान्त वाक्यार्थवेदीनां  
 परमहंसानांवरिष्ठवृतीनामति वर्णाश्रम प्रवृत्तानां  
 तत्वविदां नादरूपरहितानन्दाकार विश्वतैजस प्राज्ञानामपि विराट्  
 हिरण्यगर्भान्तर्यामिणाञ्च प्रजापत्य चिज्वलित शान्तानां मूलाधार  

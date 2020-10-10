@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAdhAShTottarashatanAmastotram"
-"File name" = "rAdhAShTottarashatanAmastotram.itx"
-itxtitle = "rAdhAShTottarashatanAmastotram"
-engtitle = "rAdhAShTottarashatanAmastotram"
-Category = "devii, rAmAnujasampradAya, aShTottarashatanAma, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाष्टोत्तरशतनामस्तोत्रम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: devii, rAmAnujasampradAya, aShTottarashatanAma, radha, devI
+File name: rAdhAShTottarashatanAmastotram.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAShTottarashatanAmastotram
+engtitle: rAdhAShTottarashatanAmastotram
+itxtitle: rAdhAShTottarashatanAmastotram
+title: राधाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीराधाष्टोत्तरशतनामस्तोत्रम्   
   

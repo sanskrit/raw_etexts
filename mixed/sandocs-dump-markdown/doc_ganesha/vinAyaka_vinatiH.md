@@ -1,23 +1,23 @@
-+++
-"Text title" = "vinAyaka vinatiH"
-"File name" = "vinaayakavinati.itx"
-itxtitle = "vinAyaka vinatiH"
-engtitle = "vinAyaka vinatiH"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "shivaprasAdadvivedi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "September 02, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विनायक विनतिः"
+---
+Author: shivaprasAdadvivedi
+Category: ganesha, stotra
+File name: vinaayakavinati.itx
+Language: Sanskrit
+Latest update: September 02, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: vinAyaka vinatiH
+Texttype: stotra
+Transliterated by: WebD
+engtitle: vinAyaka vinatiH
+itxtitle: vinAyaka vinatiH
+title: विनायक विनतिः
 
-+++
+---
   
  श्रीविनायकविनतिः   
   
@@ -37,7 +37,7 @@ title = "विनायक विनतिः"
   
 गभीर-नाभि-तुन्दिलं सुपीत-पाट-धौतकं  
 प्रतप्त-हाटकोपवीत-शोभिताङ्ग-सङ्ग्रहम् ।  
-सुरा-ऽसुरार्चितांघ्रिकं शुभक्रिया सहायकं  
+सुरा-ऽसुरार्चिताङ्घ्रिकं शुभक्रिया सहायकं  
 महेशचित्त-चायकं विनायकं नमाम्यहम् ॥ ४॥  
   
 गजाननं गणेश्वरं गिरीशजा-कुमारकं  

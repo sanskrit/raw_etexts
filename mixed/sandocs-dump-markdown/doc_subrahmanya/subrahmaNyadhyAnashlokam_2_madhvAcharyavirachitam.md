@@ -1,21 +1,21 @@
-+++
-"Text title" = "Subrahmanya Dhyana Shlokam 2"
-"File name" = "subrahmaNyadhyAnashlokam2.itx"
-itxtitle = "subrahmaNyadhyAnashlokam 2 (madhvAcharyavirachitam)"
-engtitle = "subrahmaNyadhyAnashlokam 2"
-Category = "subrahmanya, dhyAnam"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Latest update" = "March 6, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यध्यानश्लोकम् २ (मध्वाचर्यविरचितम्)"
+---
+Category: subrahmanya, dhyAnam
+File name: subrahmaNyadhyAnashlokam2.itx
+Language: Sanskrit
+Latest update: March 6, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Subrahmanya Dhyana Shlokam 2
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: subrahmaNyadhyAnashlokam 2
+itxtitle: subrahmaNyadhyAnashlokam 2 (madhvAcharyavirachitam)
+title: सुब्रह्मण्यध्यानश्लोकम् २ (मध्वाचर्यविरचितम्)
 
-+++
+---
   
  श्रीसुब्रह्मण्यध्यानश्लोकम्   
 ॐ श्रीगणेशाय नमः । ।  

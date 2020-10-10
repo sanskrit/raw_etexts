@@ -1,22 +1,22 @@
-+++
-"Text title" = "Bahuleya Stavah by Nilakanthatirtha Swami"
-"File name" = "bAhuleyastavaHnIlakaNThatIrthasvAmi.itx"
-itxtitle = "bAhuleyastavaH (nIlakaNThatIrthasvAmivirachitaH)"
-engtitle = "bAhuleyastavaH by nIlakaNThatIrthasvAmi"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "May 23, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "बाहुलेयस्तवः (नीलकण्ठतीर्थस्वामिविरचितः)"
+---
+Category: subrahmanya
+File name: bAhuleyastavaHnIlakaNThatIrthasvAmi.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 23, 2020
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Bahuleya Stavah by Nilakanthatirtha Swami
+Transliterated by: PSA Easwaran
+engtitle: bAhuleyastavaH by nIlakaNThatIrthasvAmi
+itxtitle: bAhuleyastavaH (nIlakaNThatIrthasvAmivirachitaH)
+title: बाहुलेयस्तवः (नीलकण्ठतीर्थस्वामिविरचितः)
 
-+++
+---
   
  श्रीनीलकण्ठतीर्थस्वामिविरचितः श्रीबाहुलेयस्तवः   
 ऐश्वर्यमप्रतिममत्रभवान्कुमारः  

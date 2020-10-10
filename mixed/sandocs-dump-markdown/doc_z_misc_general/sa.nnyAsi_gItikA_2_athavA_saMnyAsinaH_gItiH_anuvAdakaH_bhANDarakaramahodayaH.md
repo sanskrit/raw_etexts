@@ -1,29 +1,30 @@
-+++
-"Text title" = "sanyAsigItikA"
-"File name" = "sanyAsigItikA2.itx"
-itxtitle = "sa.nnyAsi gItikA 2 athavA saMnyAsinaH gItiH (anuvAdakaH bhANDarakaramahodayaH)"
-engtitle = "Song of the Sannyasin (composed by Vivekananda)"
-Category = "vedanta, misc, sahitya, advice, vivekAnanda"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Subcategory = "sahitya"
-Texttype = "advice"
-Author = "Engilsh poem Song of the Sannyasin by Swami Vivekananda, Sanskrit translation by Tryambak Bhandarkar"
-Language = "Sanskrit"
-Subject = "hinduism/Vedanta"
-"Transliterated by" = "sunderh at hotmail.com"
-"Proofread by" = "sunderh at hotmail.com"
-"Translated by" = "http://www.ramakrishnavivekananda.info/vivekananda/volume_4/writings_poems/the_song_of_the_sannyasin.htm"
-Description-comments = "meter - Shardulavikridita"
-Indexextra = "(Yugacharya Vivekananda, English Original)"
-"Latest update" = "January 21, 2018, October 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संन्यासि गीतिका २ अथवा संन्यासिनः गीतिः (अनुवादकः भाण्डरकरमहोदयः)"
+---
+Author: Engilsh poem Song of the Sannyasin by Swami Vivekananda, Sanskrit translation
+  by Tryambak Bhandarkar
+Category: vedanta, misc, sahitya, advice, vivekAnanda
+Description-comments: meter - Shardulavikridita
+File name: sanyAsigItikA2.itx
+Indexextra: (Yugacharya Vivekananda, English Original)
+Language: Sanskrit
+Latest update: January 21, 2018, October 6, 2018
+Location: doc_z_misc_general
+Proofread by: sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: hinduism/Vedanta
+Sublocation: misc
+Text title: sanyAsigItikA
+Texttype: advice
+Translated by: http://www.ramakrishnavivekananda.info/vivekananda/volume_4/writings_poems/the_song_of_the_sannyasin.htm
+Transliterated by: sunderh at hotmail.com
+engtitle: Song of the Sannyasin (composed by Vivekananda)
+itxtitle: sa.nnyAsi gItikA 2 athavA saMnyAsinaH gItiH (anuvAdakaH bhANDarakaramahodayaH)
+title: संन्यासि गीतिका २ अथवा संन्यासिनः गीतिः (अनुवादकः भाण्डरकरमहोदयः)
 
-+++
+---
   
- संन्यासिनः गीतिः २   
+ सन्न्यासिनः गीतिः २   
   
 दूरादैहिकरूपशून्यगिरितः प्रोत्थं घनारण्यतो  
 शान्तं यद्धनकामकीर्तिभिरपि व्याहन्यतेऽद्यापिनो ।  

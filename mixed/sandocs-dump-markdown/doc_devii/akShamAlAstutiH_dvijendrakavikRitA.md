@@ -1,23 +1,23 @@
-+++
-"Text title" = "akShamAlAstutiH"
-"File name" = "akShamAlAstutiH.itx"
-itxtitle = "akShamAlAstutiH (dvijendrakavikRitA)"
-engtitle = "akShamAlAstutiH"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Kavi Dvijendra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अक्षमालास्तुतिः (द्विजेन्द्रकविकृइता)"
+---
+Author: Kavi Dvijendra
+Category: devii, sarasvatI, devI
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: akShamAlAstutiH.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: akShamAlAstutiH
+engtitle: akShamAlAstutiH
+itxtitle: akShamAlAstutiH (dvijendrakavikRitA)
+title: अक्षमालास्तुतिः (द्विजेन्द्रकविकृइता)
 
-+++
+---
   
  अक्षमालास्तुतिः   
 श्रीगायत्रीं त्रयीं विद्यां प्रणम्य परमेश्वरीम् ।  

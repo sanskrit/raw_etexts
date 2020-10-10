@@ -1,22 +1,22 @@
-+++
-"Text title" = "gajendramokShaH"
-"File name" = "gajendramokShaH.itx"
-itxtitle = "gajendramokShaH (shrImadbhAgavatAntargataH)"
-engtitle = "gajendramokShaH"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गजेन्द्रमोक्षः (श्रीमद्भागवतान्तर्गतः)"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: vishhnu, krishna
+File name: gajendramokShaH.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gajendramokShaH
+engtitle: gajendramokShaH
+itxtitle: gajendramokShaH (shrImadbhAgavatAntargataH)
+title: गजेन्द्रमोक्षः (श्रीमद्भागवतान्तर्गतः)
 
-+++
+---
   
  श्रीगजेन्द्रमोक्षः   
   

@@ -1,21 +1,22 @@
-+++
-"Text title" = "mohinyargalAstotram"
-"File name" = "mohinyargalAstotram.itx"
-itxtitle = "mohinyargalAstotram"
-engtitle = "mohinyargalAstotram"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "February 10, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मोहिन्यर्गलास्तोत्रम्"
+---
+Category: devii, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: mohinyargalAstotram.itx
+Language: Sanskrit
+Latest update: February 10, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mohinyargalAstotram
+engtitle: mohinyargalAstotram
+itxtitle: mohinyargalAstotram
+title: मोहिन्यर्गलास्तोत्रम्
 
-+++
+---
   
  मोहिन्यर्गलास्तोत्रम्   
   

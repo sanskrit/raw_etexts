@@ -1,23 +1,23 @@
-+++
-"Text title" = "nityAkavachamtantrarAja"
-"File name" = "nityAkavachamtantrarAja.itx"
-itxtitle = "nityAkavachaM (tantrarAjAntargatam)"
-engtitle = "nityAkavacham from tantrarAja"
-Category = "devii, dashamahAvidyA, devI, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(tantrarAja tantra)"
-"Latest update" = "May 6, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नित्याकवचं (तन्त्रराजान्तर्गतम्)"
+---
+Category: devii, dashamahAvidyA, devI, kavacha
+File name: nityAkavachamtantrarAja.itx
+Indexextra: (tantrarAja tantra)
+Language: Sanskrit
+Latest update: May 6, 2017
+Location: doc_devii
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: nityAkavachamtantrarAja
+Transliterated by: NA
+engtitle: nityAkavacham from tantrarAja
+itxtitle: nityAkavachaM (tantrarAjAntargatam)
+title: नित्याकवचं (तन्त्रराजान्तर्गतम्)
 
-+++
+---
   
  नित्याकवचम्   
 तन्त्रराजतन्त्रे अष्टाविंशं पटलान्तर्गतम् ।  
@@ -77,7 +77,7 @@ title = "नित्याकवचं (तन्त्रराजान्त
 द्रावयन्तु स्वशक्तीनां भीषणैरायुधैर्मम ॥ १८॥  
   
 गजाश्वद्वीपिपञ्चास्यतार्क्ष्यरूढाखिलायुधाः ।  
-असंख्याः शक्तयो देव्याः पान्तु मां सर्वतः सदा ॥ १९॥  
+असङ्ख्याः शक्तयो देव्याः पान्तु मां सर्वतः सदा ॥ १९॥  
   
 सायं प्रातर्जपन्नित्याकवचं सर्वरक्षकम् ।  
 कदाचिन्नाशुभं पश्येन्न शृणोति च मत्समः ॥ २०॥  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Dashavatara Stotram 7"
-"File name" = "dashAvatArastotram7.itx"
-itxtitle = "dashAvatArastotram 7 (vedoddhAravichAramate)"
-engtitle = "dashAvatArastotram 7"
-Category = "vishhnu, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतारस्तोत्रम् ७ (वेदोद्धारविचारमते)"
+---
+Category: vishhnu, dashAvatAra
+File name: dashAvatArastotram7.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_vishhnu
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Dashavatara Stotram 7
+Transliterated by: PSA Easwaran
+engtitle: dashAvatArastotram 7
+itxtitle: dashAvatArastotram 7 (vedoddhAravichAramate)
+title: दशावतारस्तोत्रम् ७ (वेदोद्धारविचारमते)
 
-+++
+---
   
  दशावतारस्तोत्रम् ७   
 वेदोद्धारविचारमते सोमकदानवसंहरणे ।  

@@ -1,24 +1,25 @@
-+++
-"Text title" = "Bharatavandana 2"
-"File name" = "bhAratavandanA2.itx"
-itxtitle = "bhAratavandanA 2 (bhAratarAShTragItam)"
-engtitle = "bhAratavandanA 2"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "shrIdhara pAThaka"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारतवन्दना २ (भारतराष्ट्रगीतम्)"
+---
+Author: shrIdhara pAThaka
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: bhAratavandanA2.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bharatavandana 2
+Translated by: Mandar Mali
+engtitle: bhAratavandanA 2
+itxtitle: bhAratavandanA 2 (bhAratarAShTragItam)
+title: भारतवन्दना २ (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  भारतवन्दना २   
 भजे भारतं चारु - शोभाऽभिरामं ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrImat hanumadAShTottarashatanAmAvalI 6"
-"File name" = "hanumadAShTottarashatanAmAvalI.itx"
-itxtitle = "hanumadaShTottarashatanAmAvaliH 6"
-engtitle = "hanumadaShTottarashatanAmAvalI 6"
-Category = "aShTottarashatanAmAvalI, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Srinivas Kommireddy srinivas.kommireddy at googlemail.com"
-"Proofread by" = "Srinivas Kommireddy, PSA Easwaran"
-Source = "Sanskrit Jagat March 2012, Kalyana Hanuman special"
-"Latest update" = "December 6, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमदष्टोत्तरशतनामावलिः ६"
+---
+Category: aShTottarashatanAmAvalI, hanumaana, hanuman
+File name: hanumadAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: December 6, 2015
+Location: doc_hanumaana
+Proofread by: Srinivas Kommireddy, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sanskrit Jagat March 2012, Kalyana Hanuman special
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: shrImat hanumadAShTottarashatanAmAvalI 6
+Transliterated by: Srinivas Kommireddy srinivas.kommireddy at googlemail.com
+engtitle: hanumadaShTottarashatanAmAvalI 6
+itxtitle: hanumadaShTottarashatanAmAvaliH 6
+title: हनुमदष्टोत्तरशतनामावलिः ६
 
-+++
+---
   
  श्रीहनुमदाष्टोत्तरशतनामावली   
 ॐ अञ्जनीगर्भसम्भूताय नमः ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "venkaTeshastutiH"
-"File name" = "venkaTeshastutiH.itx"
-itxtitle = "veNkaTeshastutiH (vAdirAjavirachitA)"
-engtitle = "Venkatesha Stuti"
-Category = "vishhnu, venkateshwara, vAdirAja, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Author = "Vadiraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Indexextra = "(Scan)"
-"Latest update" = "January 1, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशस्तुतिः (वादिराजविरचिता)"
+---
+Author: Vadiraja
+Category: vishhnu, venkateshwara, vAdirAja, vishnu
+File name: venkaTeshastutiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 1, 2018
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: venkaTeshastutiH
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Venkatesha Stuti
+itxtitle: veNkaTeshastutiH (vAdirAjavirachitA)
+title: वेण्कटेशस्तुतिः (वादिराजविरचिता)
 
-+++
+---
   
  श्रीवेङ्कटेशस्तुतिः   
   

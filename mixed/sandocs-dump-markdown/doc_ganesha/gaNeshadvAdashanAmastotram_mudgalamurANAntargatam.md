@@ -1,24 +1,24 @@
-+++
-"Text title" = "gaNeshadvAdashanAmastotram"
-"File name" = "gaNeshdvAdashanAmastotram.itx"
-itxtitle = "gaNeshadvAdashanAmastotram (mudgalamurANAntargatam)"
-engtitle = "gaNeshadvAdashanAmastotram"
-Category = "ganesha, stotra, dvAdasha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P kardan5380 at yahoo.com, Amith K Nagaraj"
-"Proofread by" = "Karthik Chandan.P,  Amith K Nagaraj amithkn at rediffmail.com"
-Description-comments = "mudgalapurANA"
-"Latest update" = "September 20, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशद्वादशनामस्तोत्रम् (मुद्गलमुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: ganesha, stotra, dvAdasha
+Description-comments: mudgalapurANA
+File name: gaNeshdvAdashanAmastotram.itx
+Language: Sanskrit
+Latest update: September 20, 2019
+Location: doc_ganesha
+Proofread by: Karthik Chandan.P,  Amith K Nagaraj amithkn at rediffmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshadvAdashanAmastotram
+Texttype: stotra
+Transliterated by: Karthik Chandan.P kardan5380 at yahoo.com, Amith K Nagaraj
+engtitle: gaNeshadvAdashanAmastotram
+itxtitle: gaNeshadvAdashanAmastotram (mudgalamurANAntargatam)
+title: गणेशद्वादशनामस्तोत्रम् (मुद्गलमुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीगणेश्द्वादशनामस्तोत्रम्   
        श्रीगणेशाय नमः ॥  
@@ -41,7 +41,7 @@ title = "गणेशद्वादशनामस्तोत्रम् (म
 विद्यार्थी लभते विद्यां धनार्थि विपुलं धनम् ।  
 इष्टकामं तु कामार्थी धर्मार्थी मोक्षमक्षयम् ॥ ६॥  
   
-विद्यारंभे विवाहे च प्रवेशे निर्गमे तथा ।  
+विद्यारम्भे विवाहे च प्रवेशे निर्गमे तथा ।  
 सङ्ग्रामे सङ्कटे चैव विघ्नस्तस्य न जायते ॥ ७॥  
   
 इति मुद्गलपुराणोक्तं श्रीगणेशद्वादशनामस्तोत्रं सम्पूर्णम् ।  

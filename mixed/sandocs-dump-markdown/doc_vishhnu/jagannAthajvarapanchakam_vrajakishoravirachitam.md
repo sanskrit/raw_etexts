@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Jagannatha JvarapanchakaM"
-"File name" = "jagannAthajvarapanchakam.itx"
-itxtitle = "jagannAthajvarapanchakam (vrajakishoravirachitam)"
-engtitle = "jagannAthajvarapanchakam"
-Category = "vishhnu, panchaka, vrajakishora"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Vrajakishora Tripathi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vrajakishora Tripathi"
-"Proofread by" = "Vrajakishora Tripathi"
-"Latest update" = "August 3, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जगन्नाथज्वरपञ्चकम् (व्रजकिशोरविरचितम्)"
+---
+Author: Vrajakishora Tripathi
+Category: vishhnu, panchaka, vrajakishora
+File name: jagannAthajvarapanchakam.itx
+Language: Sanskrit
+Latest update: August 3, 2019
+Location: doc_vishhnu
+Proofread by: Vrajakishora Tripathi
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Shri Jagannatha JvarapanchakaM
+Transliterated by: Vrajakishora Tripathi
+engtitle: jagannAthajvarapanchakam
+itxtitle: jagannAthajvarapanchakam (vrajakishoravirachitam)
+title: जगन्नाथज्वरपञ्चकम् (व्रजकिशोरविरचितम्)
 
-+++
+---
   
  श्रीजगन्नाथस्य ज्वरपञ्चकं   
 स्नानाधिक्यान्मनुसुततनौ जायते हि ज्वरादि-  

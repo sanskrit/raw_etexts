@@ -1,24 +1,24 @@
-+++
-"Text title" = "narasiMhastutiHprahlAda 2"
-"File name" = "narasiMhastutiHprahlAda2.itx"
-itxtitle = "narasiMhastutiHprahlAda 2 (prahlAdavirachitA)"
-engtitle = "narasiMhastutiHprahlAda 2"
-Category = "vishhnu, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नरसिंहस्तुतिःप्रह्लाद २ (प्रह्लादविरचिता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, dashAvatAra
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: narasiMhastutiHprahlAda2.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: narasiMhastutiHprahlAda 2
+engtitle: narasiMhastutiHprahlAda 2
+itxtitle: narasiMhastutiHprahlAda 2 (prahlAdavirachitA)
+title: नरसिंहस्तुतिःप्रह्लाद २ (प्रह्लादविरचिता)
 
-+++
+---
   
  श्रीनरसिंहस्तुतिःप्रह्लाद २   
   
@@ -88,7 +88,7 @@ title = "नरसिंहस्तुतिःप्रह्लाद २ (�
 मत्तः सर्वमहं सर्वं मयि सर्वं सनातने ॥ २१॥  
   
 अहमेवाक्षयो नित्यः परमात्माऽऽत्मसंश्रयः ।  
-ब्रह्मसंज्ञोऽहमेवाग्रे तथाऽन्ते च परः पुमान् ॥ २२॥  
+ब्रह्मसञ्ज्ञोऽहमेवाग्रे तथाऽन्ते च परः पुमान् ॥ २२॥  
   
 प्रह्लाद उवाच -  
 देव प्रपन्नार्तिहर प्रसादं कुरु केशव ।  

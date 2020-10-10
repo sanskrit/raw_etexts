@@ -1,22 +1,23 @@
-+++
-"Text title" = "gopAlAShTakam"
-"File name" = "gopAlAShTakam.itx"
-itxtitle = "gopAlAShTakam"
-engtitle = "gopAlAShTakam"
-Category = "aShTaka, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Singanallur Ganesan singanallur at gmail.com"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "May 30, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपालाष्टकम्"
+---
+Category: aShTaka, vishhnu, krishna, vishnu
+File name: gopAlAShTakam.itx
+Language: Sanskrit
+Latest update: May 30, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopAlAShTakam
+Transliterated by: Singanallur Ganesan singanallur at gmail.com
+engtitle: gopAlAShTakam
+itxtitle: gopAlAShTakam
+title: गोपालाष्टकम्
 
-+++
+---
   
  श्रीगोपालाष्टकम्   
   

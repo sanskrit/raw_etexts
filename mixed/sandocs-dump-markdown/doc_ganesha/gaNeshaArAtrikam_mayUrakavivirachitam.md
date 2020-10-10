@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNeshaArAtrikam"
-"File name" = "gaNeshaArAtrikam.itx"
-itxtitle = "gaNeshaArAtrikam (mayUrakavivirachitam)"
-engtitle = "gaNeshaArAtrikam"
-Category = "ganesha, AratI, mayUrakavi"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Mayurakavi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "V. Kumaran vkumaran at hotmail.com"
-"Proofread by" = "V. Kumaran vkumaran at hotmail.com"
-"Description/comments" = "samskRitamArAtrikam"
-"Latest update" = "March 4, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशआरात्रिकम् (मयूरकविविरचितम्)"
+---
+Author: Mayurakavi
+Category: ganesha, AratI, mayUrakavi
+Description/comments: samskRitamArAtrikam
+File name: gaNeshaArAtrikam.itx
+Language: Sanskrit
+Latest update: March 4, 2018
+Location: doc_ganesha
+Proofread by: V. Kumaran vkumaran at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshaArAtrikam
+Transliterated by: V. Kumaran vkumaran at hotmail.com
+engtitle: gaNeshaArAtrikam
+itxtitle: gaNeshaArAtrikam (mayUrakavivirachitam)
+title: गणेशआरात्रिकम् (मयूरकविविरचितम्)
 
-+++
+---
   
  श्रीगणेश संस्कृतमारात्रिकम्   
 जयदेव जयदेव गजमुख सुखहेतो ।  

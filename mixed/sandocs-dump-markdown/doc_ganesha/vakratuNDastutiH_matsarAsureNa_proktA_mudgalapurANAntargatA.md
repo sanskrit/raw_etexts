@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vakratunda Stuti by Matsarasura"
-"File name" = "vakratuNDastutiHmatsarAsureNa.itx"
-itxtitle = "vakratuNDastutiH matsarAsureNa proktA (mudgalapurANAntargatA)"
-engtitle = "vakratuNDastutiH matsarAsureNa proktA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan"
-"Proofread by" = "Ajit Krishnan, PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 38"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वक्रतुण्डस्तुतिः मत्सरासुरेण प्रोक्ता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 38
+File name: vakratuNDastutiHmatsarAsureNa.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: Ajit Krishnan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Vakratunda Stuti by Matsarasura
+Transliterated by: Ajit Krishnan
+engtitle: vakratuNDastutiH matsarAsureNa proktA
+itxtitle: vakratuNDastutiH matsarAsureNa proktA (mudgalapurANAntargatA)
+title: वक्रतुण्डस्तुतिः मत्सरासुरेण प्रोक्ता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  वक्रतुण्डस्तुतिः मत्सरासुरेण   
 मत्सरासुर उवाच -  

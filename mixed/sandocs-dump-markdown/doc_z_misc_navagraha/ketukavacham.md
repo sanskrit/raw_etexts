@@ -1,23 +1,23 @@
-+++
-"Text title" = "ketukavacham"
-"File name" = "ketukavach.itx"
-itxtitle = "ketukavacham"
-engtitle = "ketukavacham"
-Category = "kavacha, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "brahmANDapurANa"
-"Latest update" = "February 26, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "केतुकवचम्"
+---
+Author: Traditional
+Category: kavacha, navagraha
+Description-comments: brahmANDapurANa
+File name: ketukavach.itx
+Language: Sanskrit
+Latest update: February 26, 2005
+Location: doc_z_misc_navagraha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: ketukavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com)
+engtitle: ketukavacham
+itxtitle: ketukavacham
+title: केतुकवचम्
 
-+++
+---
   
  केतुकवचम्   
   

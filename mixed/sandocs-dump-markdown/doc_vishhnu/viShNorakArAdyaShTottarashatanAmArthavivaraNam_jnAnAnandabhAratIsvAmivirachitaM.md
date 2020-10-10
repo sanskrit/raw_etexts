@@ -1,23 +1,23 @@
-+++
-"Text title" = "viShNorakArAdyaShTottarashatanAmArthavivaraNam"
-"File name" = "viShNorakArAdyaShTottarashatanAmArthavivaraNam.itx"
-itxtitle = "viShNorakArAdyaShTottarashatanAmArthavivaraNam (jnAnAnandabhAratIsvAmivirachitaM)"
-engtitle = "viShNorakArAdyaShTottarashatanAmArthavivaraNam"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णोरकाराद्यष्टोत्तरशतनामार्थविवरणम् (ज्ञानानन्दभारतीस्वामिविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viShNorakArAdyaShTottarashatanAmArthavivaraNam.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNorakArAdyaShTottarashatanAmArthavivaraNam
+engtitle: viShNorakArAdyaShTottarashatanAmArthavivaraNam
+itxtitle: viShNorakArAdyaShTottarashatanAmArthavivaraNam (jnAnAnandabhAratIsvAmivirachitaM)
+title: विष्णोरकाराद्यष्टोत्तरशतनामार्थविवरणम् (ज्ञानानन्दभारतीस्वामिविरचितं)
 
-+++
+---
   
  श्रीविष्णोरकाराद्यष्टोत्तरशतनामार्थविवरणम्   
   

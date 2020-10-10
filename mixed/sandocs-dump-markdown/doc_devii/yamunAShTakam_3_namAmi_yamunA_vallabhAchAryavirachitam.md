@@ -1,24 +1,24 @@
-+++
-"Text title" = "yamunaashhTakam 3"
-"File name" = "yamunaa83.itx"
-itxtitle = "yamunAShTakam 3 (namAmi yamunA vallabhAchAryavirachitam)"
-engtitle = "Yamunashtakam 3"
-Category = "aShTaka, devii, nadI, vallabhaachaarya, devI, puShTimArgIya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Vallabhacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-Description-comments = "puShTImArga"
-"Latest update" = "February 24, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनाष्टकम् ३ (नमामि यमुना वल्लभाचार्यविरचितम्)"
+---
+Author: Vallabhacharya
+Category: aShTaka, devii, nadI, vallabhaachaarya, devI, puShTimArgIya
+Description-comments: puShTImArga
+File name: yamunaa83.itx
+Language: Sanskrit
+Latest update: February 24, 2017
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunaashhTakam 3
+Transliterated by: DPD
+engtitle: Yamunashtakam 3
+itxtitle: yamunAShTakam 3 (namAmi yamunA vallabhAchAryavirachitam)
+title: यमुनाष्टकम् ३ (नमामि यमुना वल्लभाचार्यविरचितम्)
 
-+++
+---
   
  यमुनाष्टकम् ३   
         ॥ श्रीगोपीजनवल्लभाय नमः॥  

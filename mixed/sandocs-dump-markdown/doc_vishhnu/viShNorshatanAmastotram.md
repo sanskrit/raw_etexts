@@ -1,25 +1,25 @@
-+++
-"Text title" = "viShNoH shatanAmastotram"
-"File name" = "vishhnu100.itx"
-itxtitle = "viShNorshatanAmastotram"
-engtitle = "viShNu shatanAmastotram"
-Category = "aShTottarashatanAma, vishhnu, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "viShNupurANa"
-"Latest update" = "December 29, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णोर्शतनामस्तोत्रम्"
+---
+Author: Traditional
+Category: aShTottarashatanAma, vishhnu, stotra, vishnu
+Description-comments: viShNupurANa
+File name: vishhnu100.itx
+Language: Sanskrit
+Latest update: December 29, 2004
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNoH shatanAmastotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: viShNu shatanAmastotram
+itxtitle: viShNorshatanAmastotram
+title: विष्णोर्शतनामस्तोत्रम्
 
-+++
+---
   
  श्रीविष्णोः शतनामस्तोत्रम्   
   

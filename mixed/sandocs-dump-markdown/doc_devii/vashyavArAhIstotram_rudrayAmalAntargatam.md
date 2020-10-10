@@ -1,23 +1,23 @@
-+++
-"Text title" = "vashyavArAhIstotram"
-"File name" = "vashyavArAhIstotram.itx"
-itxtitle = "vashyavArAhIstotram (rudrayAmalAntargatam)"
-engtitle = "vashyavArAhIstotram"
-Category = "devii, dashamahAvidyA, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "From Durlabh Stotrani."
-Indexextra = "(Scan)"
-"Latest update" = "June 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वश्यवाराहीस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: devii, dashamahAvidyA, kavacha, devI
+Description/comments: From Durlabh Stotrani.
+File name: vashyavArAhIstotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 17, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vashyavArAhIstotram
+engtitle: vashyavArAhIstotram
+itxtitle: vashyavArAhIstotram (rudrayAmalAntargatam)
+title: वश्यवाराहीस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  वश्यवाराही स्तोत्रम्   
 अस्य श्री सर्व वशीकरण स्तोत्र मन्त्रस्य नारद ऋषिः अनुष्टुप्  
@@ -66,7 +66,7 @@ title = "वश्यवाराहीस्तोत्रम् (रुद्
 यथा मामेवं स्मरति तथा वश्यं वशं कुरु ॥ ४॥  
   
 चामरं दोलिकां छत्रं राज चिह्नानि यच्छति ।  
-अभीष्ठं संप्रदोराज्यं यथा देवि वशं कुरु ॥ ५॥  
+अभीष्ठं सम्प्रदोराज्यं यथा देवि वशं कुरु ॥ ५॥  
   
 मन्मथस्मरणाद्रामा रतिर्यातु मयासह ।  
 स्त्री रत्नेषु महत्प्रेम तथा जनयकामदे ॥ ६॥  

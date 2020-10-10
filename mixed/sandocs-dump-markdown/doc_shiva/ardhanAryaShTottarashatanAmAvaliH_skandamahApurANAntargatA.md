@@ -1,21 +1,21 @@
-+++
-"Text title" = "ardhanAryaShTottarashatanAmAvalI"
-"File name" = "ardhanAryaShTottarashatanAmAvalI.itx"
-itxtitle = "ardhanAryaShTottarashatanAmAvaliH (skandamahApurANAntargatA)"
-engtitle = "ardhanAryaShTottarashatanAmAvalI"
-Category = "shiva, devii, aShTottarashatanAmAvalI, devI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Skandapurana"
-"Latest update" = "January 13, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अर्धनार्यष्टोत्तरशतनामावलिः (स्कन्दमहापुराणान्तर्गता)"
+---
+Category: shiva, devii, aShTottarashatanAmAvalI, devI
+Description/comments: Skandapurana
+File name: ardhanAryaShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: January 13, 2019
+Location: doc_shiva
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: ardhanAryaShTottarashatanAmAvalI
+engtitle: ardhanAryaShTottarashatanAmAvalI
+itxtitle: ardhanAryaShTottarashatanAmAvaliH (skandamahApurANAntargatA)
+title: अर्धनार्यष्टोत्तरशतनामावलिः (स्कन्दमहापुराणान्तर्गता)
 
-+++
+---
   
  अर्धनारीश्वर्यष्टोत्तरशतनामावलिः    
 ॐ चामुण्डिकाम्बायै नमः श्रीकण्ठाय नमः ।  

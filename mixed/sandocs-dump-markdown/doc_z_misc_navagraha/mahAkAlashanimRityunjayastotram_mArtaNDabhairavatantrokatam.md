@@ -1,21 +1,21 @@
-+++
-"Text title" = "mahAkAlashanimRityunjayastotram"
-"File name" = "mahAkAlashanimRityunjayastotra.itx"
-itxtitle = "mahAkAlashanimRityunjayastotram (mArtaNDabhairavatantrokatam)"
-engtitle = "mahAkAlashanimRityunjayastotram"
-Category = "navagraha, shataka"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Source = "Martandabhairavatantra"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "August 25, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालशनिमृइत्युञ्जयस्तोत्रम् (मार्तण्डभैरवतन्त्रोकतम्)"
+---
+Category: navagraha, shataka
+File name: mahAkAlashanimRityunjayastotra.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: August 25, 2018
+Location: doc_z_misc_navagraha
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Martandabhairavatantra
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: mahAkAlashanimRityunjayastotram
+engtitle: mahAkAlashanimRityunjayastotram
+itxtitle: mahAkAlashanimRityunjayastotram (mArtaNDabhairavatantrokatam)
+title: महाकालशनिमृइत्युञ्जयस्तोत्रम् (मार्तण्डभैरवतन्त्रोकतम्)
 
-+++
+---
   
  श्रीमहाकालशनिमृत्युञ्जयस्तोत्रम्   
 अथ शनैश्चरमृत्युञ्जयस्तोत्रम् ।  

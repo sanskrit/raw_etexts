@@ -1,25 +1,26 @@
-+++
-"Text title" = "gaNapatistavaH"
-"File name" = "gaNapatistavaH.itx"
-itxtitle = "gaNapatistavaH"
-engtitle = "gaNapatistavaH (gaNeshapurANAntargataH)"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "webD"
-"Proofread by" = "Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K  Nagaraj NA"
-"Translated by" = "Amith K Nagaraj amith at alcatel-lucent.com"
-Description-comments = "Avinash Sathaye gaNesha  purANa (upAsanA khaNDa a. 13), Ajit Krishnan"
-"Latest update" = "April 13, 2007, January 20, 2009, July 13, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपतिस्तवः"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: Avinash Sathaye gaNesha  purANa (upAsanA khaNDa a. 13), Ajit
+  Krishnan
+File name: gaNapatistavaH.itx
+Language: Sanskrit
+Latest update: April 13, 2007, January 20, 2009, July 13, 2012
+Location: doc_ganesha
+Proofread by: 'Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K  Nagaraj NA'
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNapatistavaH
+Texttype: stotra
+Translated by: Amith K Nagaraj amith at alcatel-lucent.com
+Transliterated by: webD
+engtitle: gaNapatistavaH (gaNeshapurANAntargataH)
+itxtitle: gaNapatistavaH
+title: गणपतिस्तवः
 
-+++
+---
   
  श्रीगणपतिस्तवः   
   

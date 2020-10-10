@@ -1,26 +1,26 @@
-+++
-"Text title" = "rAsakrIDA 1 from Gargasamhita"
-"File name" = "rAsakrIDA1gargasamhitA.itx"
-itxtitle = "rAsakrIDA 1 (gargasaMhitAntargatam)"
-engtitle = "rAsakrIDA 1 from Gargasamhita"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "gargasamhitA"
-Indexextra = "(satsangdhArA)"
-Acknowledge-Permission = "Vishwas Bhide http://satsangdhara.net/"
-"Latest update" = "February 3, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रासक्रीडा १ (गर्गसंहितान्तर्गतम्)"
+---
+Acknowledge-Permission: Vishwas Bhide http://satsangdhara.net/
+Category: vishhnu, krishna, stotra, vishnu
+Description-comments: gargasamhitA
+File name: rAsakrIDA1gargasamhitA.itx
+Indexextra: (satsangdhArA)
+Language: Sanskrit
+Latest update: February 3, 2016
+Location: doc_vishhnu
+Proofread by: Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: rAsakrIDA 1 from Gargasamhita
+Texttype: stotra
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com
+engtitle: rAsakrIDA 1 from Gargasamhita
+itxtitle: rAsakrIDA 1 (gargasaMhitAntargatam)
+title: रासक्रीडा १ (गर्गसंहितान्तर्गतम्)
 
-+++
+---
   
  रासक्रीडा १   
   
@@ -77,7 +77,7 @@ title = "रासक्रीडा १ (गर्गसंहितान्�
 श्रीमल्लिकामृतलतामधुमाधवीभिः  
      संराजितं स्मर नृपेन्द्र व्रजस्य मध्ये ॥ १२॥  
   
-वंशीवटं च कलकण्ठविहंङ्गमैश्च  
+वंशीवटं च कलकण्ठविहङ्ङ्गमैश्च  
      कृष्णातटे च पुलिनं किल बालुकाढ्यम् ।  
 श्रीपाटलैर्मधुककिंशुकसत्प्रियालै-  
      रौदुम्बरैः क्रमुकद्राक्षकपित्थयुक्तम् ॥ १३॥  

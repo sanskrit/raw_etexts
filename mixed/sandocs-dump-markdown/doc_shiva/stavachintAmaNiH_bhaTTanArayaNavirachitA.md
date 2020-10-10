@@ -1,22 +1,22 @@
-+++
-"Text title" = "stavachintAmaNI by Bhatta Narayana"
-"File name" = "stavachintAmaNI.itx"
-itxtitle = "stavachintAmaNiH (bhaTTanArayaNavirachitA)"
-engtitle = "Stavachintamani by Bhatta Narayana"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "advaitaparaka stavana of paramashiva, Kashmir Shaivism"
-Indexextra = "(Text with Sanskrit commentary 1, 2, 3)"
-"Latest update" = "March 19, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्तवचिन्तामणिः (भट्टनारयणविरचिता)"
+---
+Category: shiva
+Description/comments: advaitaparaka stavana of paramashiva, Kashmir Shaivism
+File name: stavachintAmaNI.itx
+Indexextra: (Text with Sanskrit commentary 1, 2, 3)
+Language: Sanskrit
+Latest update: March 19, 2020
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: stavachintAmaNI by Bhatta Narayana
+engtitle: Stavachintamani by Bhatta Narayana
+itxtitle: stavachintAmaNiH (bhaTTanArayaNavirachitA)
+title: स्तवचिन्तामणिः (भट्टनारयणविरचिता)
 
-+++
+---
   
  भट्टनारायणविरचिता स्तवचिन्तामणिः   
   

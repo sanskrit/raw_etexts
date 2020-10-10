@@ -1,24 +1,24 @@
-+++
-"Text title" = "panchamukhihanumatkavacham (From Suradshanasamhita)"
-"File name" = "panchamukhihanumatkavacham.itx"
-itxtitle = "panchamukhihanumatkavacham (sudarshanasaMhitAntargatam)"
-engtitle = "panchamukhihanumatkavacham"
-Category = "kavacha, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Source = "Suradshanasamhita"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "October 21, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पञ्चमुखिहनुमत्कवचम् (सुदर्शनसंहितान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: kavacha, hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: panchamukhihanumatkavacham.itx
+Language: Sanskrit
+Latest update: October 21, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Suradshanasamhita
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: panchamukhihanumatkavacham (From Suradshanasamhita)
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: panchamukhihanumatkavacham
+itxtitle: panchamukhihanumatkavacham (sudarshanasaMhitAntargatam)
+title: पञ्चमुखिहनुमत्कवचम् (सुदर्शनसंहितान्तर्गतम्)
 
-+++
+---
   
  पञ्चमुखिहनुमत्कवचम्   
 (सुदर्शनसंहितातः)  

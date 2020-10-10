@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrii subrahmaNyabhujaNgaprayaatastotraM 3"
-"File name" = "subrabhujanga3.itx"
-itxtitle = "subrahmaNyabhujaNgastotram 3 (gaNeshaM namaskRitya)"
-engtitle = "subrahmaNyabhujaNgastotraM 3"
-Category = "subrahmanya, bhujanga"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Subcategory = "bhujanga"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Proofread by" = "PSA Easwaran"
-Description-comments = "Subrahmanyastutimanjari, Mahaperiaval Trust"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "December 18, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यभुजण्गस्तोत्रम् ३ (गणेशं नमस्कृइत्य)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: subrahmanya, bhujanga
+Description-comments: Subrahmanyastutimanjari, Mahaperiaval Trust
+File name: subrabhujanga3.itx
+Language: Sanskrit
+Latest update: December 18, 2016
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhujanga
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrii subrahmaNyabhujaNgaprayaatastotraM 3
+engtitle: subrahmaNyabhujaNgastotraM 3
+itxtitle: subrahmaNyabhujaNgastotram 3 (gaNeshaM namaskRitya)
+title: सुब्रह्मण्यभुजण्गस्तोत्रम् ३ (गणेशं नमस्कृइत्य)
 
-+++
+---
   
  श्रीसुब्रह्मण्यभुजङ्गस्तोत्रम् ३   
   

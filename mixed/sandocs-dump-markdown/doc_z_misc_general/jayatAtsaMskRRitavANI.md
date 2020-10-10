@@ -1,24 +1,24 @@
-+++
-"Text title" = "jayatAtsaMskRRitavANI"
-"File name" = "jayatAtsaMskRRitavANI.itx"
-itxtitle = "jayatAtsaMskRRitavANI"
-engtitle = "jayatAtsaMskRRitavANI"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "gu. gaNapayyahoLLaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयतात्संस्कृतवाणी"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: gu. gaNapayyahoLLaH
+Category: misc, sanskritgeet
+File name: jayatAtsaMskRRitavANI.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: jayatAtsaMskRRitavANI
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: jayatAtsaMskRRitavANI
+itxtitle: jayatAtsaMskRRitavANI
+title: जयतात्संस्कृतवाणी
 
-+++
+---
   
  जयतात् संस्कृतवाणी   
 जयतात् संस्कृतवाणी मधुरा  

@@ -1,25 +1,26 @@
-+++
-"Text title" = "rAdhikAyAHpremapUrAbhidhastotram"
-"File name" = "rAdhikAyAHpremapUrAbhidhastotram.itx"
-itxtitle = "rAdhikAyAHpremapUrAbhidhastotram (raghunAthadAsagosvAmivirachitam)"
-engtitle = "rAdhikAyAHpremapUrAbhidhastotram"
-Category = "devii, radha, raghunAthadAsagosvAmin, stavAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(Text, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधिकायाःप्रेमपूराभिधस्तोत्रम् (रघुनाथदासगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: RaghunathadAsagosvAmi
+Category: devii, radha, raghunAthadAsagosvAmin, stavAvalI, devI
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: rAdhikAyAHpremapUrAbhidhastotram.itx
+Indexextra: (Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhikAyAHpremapUrAbhidhastotram
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: rAdhikAyAHpremapUrAbhidhastotram
+itxtitle: rAdhikAyAHpremapUrAbhidhastotram (raghunAthadAsagosvAmivirachitam)
+title: राधिकायाःप्रेमपूराभिधस्तोत्रम् (रघुनाथदासगोस्वामिविरचितम्)
 
-+++
+---
   
  श्रीराधिकायाः प्रेमपूराभिधस्तोत्रम्   
 मधुमधुरनिशायां ज्योतिरुद्भासितायां  

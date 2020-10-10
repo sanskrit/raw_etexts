@@ -1,25 +1,25 @@
-+++
-"Text title" = "narasimha kavachaM"
-"File name" = "narasimhakavach.itx"
-itxtitle = "narasiMhakavacham (brahmANDApurANAntargatam)"
-engtitle = "narasiMha kavacha"
-Category = "kavacha, vishhnu, dashAvatAra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "Prahlaada Mahaaraaja"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Vijay Pai"
-"Proofread by" = "NA"
-Description-comments = "BrahmaaNDa PuraaNa"
-Indexextra = "(Translation 1, 2, 3)"
-"Latest update" = "January 31, 2005, August 24, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नरसिंहकवचम् (ब्रह्माण्डापुराणान्तर्गतम्)"
+---
+Author: Prahlaada Mahaaraaja
+Category: kavacha, vishhnu, dashAvatAra, vishnu
+Description-comments: BrahmaaNDa PuraaNa
+File name: narasimhakavach.itx
+Indexextra: (Translation 1, 2, 3)
+Language: Sanskrit
+Latest update: January 31, 2005, August 24, 2014
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/religion/hinduism
+Sublocation: vishhnu
+Text title: narasimha kavachaM
+Transliterated by: Vijay Pai
+engtitle: narasiMha kavacha
+itxtitle: narasiMhakavacham (brahmANDApurANAntargatam)
+title: नरसिंहकवचम् (ब्रह्माण्डापुराणान्तर्गतम्)
 
-+++
+---
   
  नरसिंहकवचम्   
   
@@ -47,7 +47,7 @@ The Lord has four arms, and His limbs are very soft . He is
 decorated with golden earrings . His chest is resplendent like the  
 lotus flower, and His arms are decorated with jewel-studded  
 ornaments .   
-तप्तकाञ्चनसंकाशं पीतनिर्मलवाससम् ।  
+तप्तकाञ्चनसङ्काशं पीतनिर्मलवाससम् ।  
 इन्द्रादिसुरमौलिस्थस्फुरन्माणिक्यदीप्तिभिः ॥ ५॥  
 He is dressed in a spotless yellow garment, which exactly resembles  
 molten gold . He is the original cause of existence, beyond the mundane  

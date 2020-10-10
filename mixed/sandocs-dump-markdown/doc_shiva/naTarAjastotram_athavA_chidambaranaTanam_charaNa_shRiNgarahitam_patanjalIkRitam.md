@@ -1,23 +1,23 @@
-+++
-"Text title" = "naTarAjastotra, charaNa shRi.nga rahita (patanjali)"
-"File name" = "nataraj.itx"
-itxtitle = "naTarAjastotram athavA chidambaranaTanam (charaNa shRiNgarahitam, patanjalIkRitam)"
-engtitle = "naTarAjastotra ,charaNa shRi.nga rahita (patanjali)"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. P. Narayanaswami swami at math.mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at math.mun.ca"
-Indexextra = "(Video)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नटराजस्तोत्रम् अथवा चिदम्बरनटनम् (चरण शृइण्गरहितम्, पतञ्जलीकृइतम्)"
+---
+Category: shiva, stotra
+File name: nataraj.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_shiva
+Proofread by: P. P. Narayanaswami swami at math.mun.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: naTarAjastotra, charaNa shRi.nga rahita (patanjali)
+Texttype: stotra
+Transliterated by: P. P. Narayanaswami swami at math.mun.ca
+engtitle: naTarAjastotra ,charaNa shRi.nga rahita (patanjali)
+itxtitle: naTarAjastotram athavA chidambaranaTanam (charaNa shRiNgarahitam, patanjalIkRitam)
+title: नटराजस्तोत्रम् अथवा चिदम्बरनटनम् (चरण शृइण्गरहितम्, पतञ्जलीकृइतम्)
 
-+++
+---
   
  नटराजस्तोत्रम् , चरण शृङ्ग रहित (पतञ्जलि)   
 चिदम्बरनटननं च  
@@ -189,7 +189,7 @@ quickly destroyed the cities of demon tripura.
 अनङ्गपरिपन्थिनमजं क्षिति धुरन्धरमलं करुणयन्तमखिलं  
 ज्वलन्तमनलं दधतमन्तकरिपुं सततमिन्द्रमुखवन्दितपदम् ।  
 उदञ्चदरविन्दकुल बन्धुशत बिम्बरुचि संहति सुगन्धि वपुषं  
-पतञ्जलिनुतं प्रणवपञ्चर शुकंपर चिदम्बर नटं हृदि भज ॥ ९॥  
+पतञ्जलिनुतं प्रणवपञ्चर शुकम्पर चिदम्बर नटं हृदि भज ॥ ९॥  
   
   
 Heartily resort to the great dancer, Lord Shiva, who resides in the  

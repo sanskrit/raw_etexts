@@ -1,23 +1,23 @@
-+++
-"Text title" = "komalAmbAsametashArngapANistutiH"
-"File name" = "komalAmbAsametashArngapANistutiH.itx"
-itxtitle = "komalAmbAsametashArNgapANistutiH"
-engtitle = "komalAmbAsametashArngapANistutiH"
-Category = "vishhnu, devii, devI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कोमलाम्बासमेतशार्ण्गपाणिस्तुतिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, devii, devI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: komalAmbAsametashArngapANistutiH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: komalAmbAsametashArngapANistutiH
+engtitle: komalAmbAsametashArngapANistutiH
+itxtitle: komalAmbAsametashArNgapANistutiH
+title: कोमलाम्बासमेतशार्ण्गपाणिस्तुतिः
 
-+++
+---
   
  श्रीकोमलाम्बासमेत शार्ङ्गपाणिस्तुतिः   
   

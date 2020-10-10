@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIraadhaastotraM shrIkRiShNakRitam"
-"File name" = "raadhaakrishnakrit.itx"
-itxtitle = "rAdhAstotram (kRiShNakRitam)"
-engtitle = "ShrI Krishnakritam Radhastotram Shrikrishnakritam"
-Category = "devii, radha, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Daniel Mohanpersad (danielmohanpersad98 at msn.com)"
-"Proofread by" = "Daniel Mohanpersad (danielmohanpersad98 at msn.com)"
-"Translated by" = "-"
-Indexextra = "(needs proofreading)"
-"Latest update" = "July 1, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधास्तोत्रम् (कृइष्णकृइतम्)"
+---
+Category: devii, radha, stotra, devI
+File name: raadhaakrishnakrit.itx
+Indexextra: (needs proofreading)
+Language: Sanskrit
+Latest update: July 1, 2002
+Location: doc_devii
+Proofread by: Daniel Mohanpersad (danielmohanpersad98 at msn.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: hinduism/religion
+Sublocation: devii
+Text title: shrIraadhaastotraM shrIkRiShNakRitam
+Texttype: stotra
+Translated by: '-'
+Transliterated by: Daniel Mohanpersad (danielmohanpersad98 at msn.com)
+engtitle: ShrI Krishnakritam Radhastotram Shrikrishnakritam
+itxtitle: rAdhAstotram (kRiShNakRitam)
+title: राधास्तोत्रम् (कृइष्णकृइतम्)
 
-+++
+---
   
  श्रीराधास्तोत्रं श्रीकृष्णकृतम्   
   
@@ -27,7 +27,7 @@ title = "राधास्तोत्रम् (कृइष्णकृइत
 एवमेव प्रियोऽहं ते प्रमोदश्चैव ते मयि ।  
 सुव्यक्तमद्य कापट्यवचनं ते वरानने ॥ १॥  
   
-हे कृष्ण त्वं मम प्राणा जीवात्मेति च संततम् ।  
+हे कृष्ण त्वं मम प्राणा जीवात्मेति च सन्ततम् ।  
 ब्रूषे नित्यं तु यत् प्रेम्णा साम्प्रतं तद् गतं द्रुतम् ॥ २॥  
   
 अस्माकं वचनं सत्यं यद् व्रवीमिती तद् ध्रुवम् ।  

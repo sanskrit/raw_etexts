@@ -1,28 +1,28 @@
-+++
-"Text title" = "kAtyAyanyaShTakam"
-"File name" = "kaatyaani8.itx"
-itxtitle = "kAtyAyanyaShTakam"
-engtitle = "kAtyAyanyaShTakam"
-Category = "aShTaka, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "July 22, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कात्यायन्यष्टकम्"
+---
+Author: Traditional
+Category: aShTaka, devii, otherforms, devI
+File name: kaatyaani8.itx
+Language: Sanskrit
+Latest update: July 22, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAtyAyanyaShTakam
+Transliterated by: WebD
+engtitle: kAtyAyanyaShTakam
+itxtitle: kAtyAyanyaShTakam
+title: कात्यायन्यष्टकम्
 
-+++
+---
   
  कात्यायन्यष्टकम्   
   
 श्रीगणेशाय नमः ।  
-अवर्षिसंज्ञं पुरमस्ति लोके कात्यायनी तत्र विराजते या ।  
+अवर्षिसञ्ज्ञं पुरमस्ति लोके कात्यायनी तत्र विराजते या ।  
 प्रसाददा या प्रतिभा तदीया सा छत्रपुर्यां जयतीह गेया ॥ १॥  
   
 त्वमस्य भिन्नैव विभासि तस्यास्तेजस्विनी दीपजदीपकल्पा ।  

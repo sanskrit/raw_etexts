@@ -1,22 +1,22 @@
-+++
-"Text title" = "hanumadaShTottarashatanAmastotram 6"
-"File name" = "hanumadaShTottarashatanAmastotram6.itx"
-itxtitle = "hanumadaShTottarashatanAmastotram 6"
-engtitle = "hanumadaShTottarashatanAmastotram 6"
-Category = "aShTottarashatanAma, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay,  Mahesh M. Jani, PSA Easwaran psaeaswaran at gmail.com"
-Source = "ParAsharasamhita Hanumachcharitra Vol 2 pages 10-12"
-"Latest update" = "July 8, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमदष्टोत्तरशतनामस्तोत्रम् ६"
+---
+Category: aShTottarashatanAma, hanumaana, hanuman
+File name: hanumadaShTottarashatanAmastotram6.itx
+Language: Sanskrit
+Latest update: July 8, 2016
+Location: doc_hanumaana
+Proofread by: Gopal Upadhyay,  Mahesh M. Jani, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: ParAsharasamhita Hanumachcharitra Vol 2 pages 10-12
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumadaShTottarashatanAmastotram 6
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: hanumadaShTottarashatanAmastotram 6
+itxtitle: hanumadaShTottarashatanAmastotram 6
+title: हनुमदष्टोत्तरशतनामस्तोत्रम् ६
 
-+++
+---
   
  श्रीहनुमदष्टोत्तरशतनामस्तोत्रम् ६   
 ॥ श्रीगणेशाय नमः ॥  
@@ -24,7 +24,7 @@ title = "हनुमदष्टोत्तरशतनामस्तोत�
 ॥ श्रीसीतारामचन्द्राभ्यां नमः ॥  
   
 श्रीपराशर उवाच -  
-शृणु मैत्रेय! मन्त्रज्ञ अष्टोत्तरशतसंज्ञिकः ।  
+शृणु मैत्रेय! मन्त्रज्ञ अष्टोत्तरशतसञ्ज्ञिकः ।  
 नाम्नां हनूमतश्चैव स्तोत्राणां शोकनाशनम् ॥  
   
 पूर्वं शिवेन पार्वत्याः कथितं पापनाशनम् ।  

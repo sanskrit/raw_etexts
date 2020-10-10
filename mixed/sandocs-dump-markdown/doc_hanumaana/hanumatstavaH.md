@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumatstava"
-"File name" = "hanumatstava.itx"
-itxtitle = "hanumatstavaH"
-engtitle = "hanumatstavaH"
-Category = "hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "September 19, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्स्तवः"
+---
+Category: hanumaana, stotra, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumatstava.itx
+Language: Sanskrit
+Latest update: September 19, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatstava
+Texttype: stotra
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: hanumatstavaH
+itxtitle: hanumatstavaH
+title: हनुमत्स्तवः
 
-+++
+---
   
  श्रीहनुमत्स्तवः   
   

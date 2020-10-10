@@ -1,31 +1,31 @@
-+++
-"Text title" = "vighnahartre gaNeshastotram"
-"File name" = "gaNeshastotramvighnahartre.itx"
-itxtitle = "gaNeshastotram vighnahartre (aprameyaguNaM nityaM)"
-engtitle = "gaNeshastotram remover of obstacles"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener, NA, PSA Easwaran"
-Description-comments = "Path Pustakam 1934 Srinagar Kashmir Mercantile Press"
-Source = "Adityapurana"
-Indexextra = "(pustakam)"
-"Latest update" = "April 22, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तोत्रम् विघ्नहर्त्रे (अप्रमेयगुणं नित्यं)"
+---
+Category: ganesha
+Description-comments: Path Pustakam 1934 Srinagar Kashmir Mercantile Press
+File name: gaNeshastotramvighnahartre.itx
+Indexextra: (pustakam)
+Language: Sanskrit
+Latest update: April 22, 2018
+Location: doc_ganesha
+Proofread by: Jonathan Wiener, NA, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Adityapurana
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: vighnahartre gaNeshastotram
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: gaNeshastotram remover of obstacles
+itxtitle: gaNeshastotram vighnahartre (aprameyaguNaM nityaM)
+title: गणेशस्तोत्रम् विघ्नहर्त्रे (अप्रमेयगुणं नित्यं)
 
-+++
+---
   
  श्रीगणेशस्तोत्रम्   
 ॐ नमो विघ्नहर्त्रे ।  
 ॐ अप्रमेयगुणं नित्यं गणेशममरोत्तमम् ।  
 वेदान्तवेद्यं सर्वज्ञं पूजितममरेश्वरैः ॥ १॥  
   
-ओङ्कारं परमंब्रह्म अक्षरं शिवमव्ययम् ।  
+ओङ्कारं परमम्ब्रह्म अक्षरं शिवमव्ययम् ।  
 पार्वतीप्रियपुत्रं तं प्रणमामि गणेश्वरम् ॥ २॥  
   
 ब्रह्मद्वयानवच्छेद्यं शिवाद्वयविबोधितम् ।  

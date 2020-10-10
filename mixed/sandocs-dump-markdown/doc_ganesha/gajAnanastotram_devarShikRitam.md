@@ -1,24 +1,24 @@
-+++
-"Text title" = "devarShikRitaMgajAnanastotram"
-"File name" = "devarShikRitaMgajAnanastotram.itx"
-itxtitle = "gajAnanastotram (devarShikRitam)"
-engtitle = "devarShikRitaM gajAnanastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.webdunia.com"
-"Proofread by" = "Karthik Chandan.P : Amith K Nagaraj (amithkn at rediffmail.com)"
-Description-comments = "mudgalapurANA"
-"Latest update" = "March 9, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गजाननस्तोत्रम् (देवर्षिकृइतम्)"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: mudgalapurANA
+File name: devarShikRitaMgajAnanastotram.itx
+Language: Sanskrit
+Latest update: March 9, 2004
+Location: doc_ganesha
+Proofread by: 'Karthik Chandan.P : Amith K Nagaraj (amithkn at rediffmail.com)'
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: devarShikRitaMgajAnanastotram
+Texttype: stotra
+Transliterated by: http://www.webdunia.com
+engtitle: devarShikRitaM gajAnanastotram
+itxtitle: gajAnanastotram (devarShikRitam)
+title: गजाननस्तोत्रम् (देवर्षिकृइतम्)
 
-+++
+---
   
  गजाननस्तोत्रं देवर्षिकृतम्   
   
@@ -34,10 +34,10 @@ title = "गजाननस्तोत्रम् (देवर्षिकृ
 (सुरर्षय ऊचुः -)  
 देवर्षय ऊचुः ।  
 विदेहरूपं भवबन्धहारं सदा स्वनिष्ठं स्वसुखप्रदम् तम् ।  
-अमेयसांख्येन च लक्ष्मीशं गजाननं भक्तियुतं भजामः ॥ १॥  
+अमेयसाङ्ख्येन च लक्ष्मीशं गजाननं भक्तियुतं भजामः ॥ १॥  
   
 मुनीन्द्रवन्द्यं विधिबोधहीनं सुबुद्धिदं बुद्धिधरं प्रशान्तम् ।  
-विकारहीनं सकलांमकं वै गजाननं भक्तियुतं भजामः ॥ २॥  
+विकारहीनं सकलाम्मकं वै गजाननं भक्तियुतं भजामः ॥ २॥  
   
 अमेय रूपं हृदि संस्थितं तं ब्रह्माऽहमेकं भ्रमनाशकारम् ।  
 अनादि-मध्यान्तमपाररूपं गजाननं भक्तियुतं भजामः ॥ ३॥  
@@ -46,7 +46,7 @@ title = "गजाननस्तोत्रम् (देवर्षिकृ
 अनात्मनां मोहप्रदं पुराणं गजाननं भक्तियुतं भजामः ॥ ४॥  
   
 न पृथ्विरूपं न जलप्रकाशनं न तेजसंस्थं न समीरसंस्थम् ।  
-न खे गतं पंचविभूतिहीनं गजाननं भक्तियुतं भजामः ॥ ५॥  
+न खे गतं पञ्चविभूतिहीनं गजाननं भक्तियुतं भजामः ॥ ५॥  
   
 न विश्वगं तैजसगं न प्राज्ञं समष्टि-व्यष्टिस्थ-मनन्तगं तम् ।  
 गुणैर्विहीनं परमार्थभूतं गजाननं भक्तियुतं भजामः ॥ ६॥  
@@ -57,7 +57,7 @@ title = "गजाननस्तोत्रम् (देवर्षिकृ
 अनागतं ग्रैवगतं गणेशं कथं तदाकारमयं वदामः ।  
 तथापि सर्वं प्रतिदेहसंस्थं गजाननं भक्तियुतं भजामः ॥ ८॥  
   
-यदि त्वया नाथ! घृतं न किंचित्तदा कथं सर्वमिदं भजामि ।  
+यदि त्वया नाथ! घृतं न किञ्चित्तदा कथं सर्वमिदं भजामि ।  
 अतो महात्मानमचिन्त्यमेवं गजानन भक्तियुतं भजामः ॥ ९॥  
   
 सुसिद्धिदं भक्तजनस्य देवं सकामिकानामिह सौख्यदं तम् ।  
@@ -104,7 +104,7 @@ title = "गजाननस्तोत्रम् (देवर्षिकृ
 गजानन उवाच ॥  
   
 वरं ब्रूत महाभागा देवाः सर्षिगणाः परम् ।  
-स्तोत्रेण प्रीतिसंयुक्तो दास्यामि वांछितं परम् ॥ २३॥  
+स्तोत्रेण प्रीतिसंयुक्तो दास्यामि वाञ्छितं परम् ॥ २३॥  
   
 गजाननवचः श्रुत्वा हर्षयुक्ता सुरर्षयः ।  
 जगुस्तं भक्तिभावेन साश्रुनेत्रा प्रजापते ॥ २४॥  
@@ -124,14 +124,14 @@ title = "गजाननस्तोत्रम् (देवर्षिकृ
 अतः परं वरं ढुण्ढे याचमानः किमप्यहो!॥ २८॥  
   
 यदा ते स्मरणं नाथ करिष्यामो वयं प्रभो ।  
-तदा संकटहीनान् वै कुरू त्वं नो गजानन!॥ २९॥  
+तदा सङ्कटहीनान् वै कुरू त्वं नो गजानन!॥ २९॥  
   
 एवमुक्त्वा प्रणेमुस्तं गजाननमनामयम् ।  
 तानुवाच सप्रीत्यात्मा भक्ताधीनः स्वभावतः ॥ ३०॥  
   
 गजानन उवाच ॥  
   
-यद्यच्च प्रार्थितं देवा मुनयः सर्वमंजसा ।  
+यद्यच्च प्रार्थितं देवा मुनयः सर्वमञ्जसा ।  
 भविष्यति न सन्देहो मत्स्मृत्या सर्वदा हि वः ॥ ३१॥  
   
 भवत्कृतमदीयं वै स्तोत्रं सर्वत्र सिद्धिदम् ।  
@@ -143,7 +143,7 @@ title = "गजाननस्तोत्रम् (देवर्षिकृ
 मारणोच्चाटनादीनि नश्यन्ति स्तोत्रपाठतः ।  
 परकृत्यं च विप्रेन्द्रा अशुभं नैव बाधते ॥ ३४॥  
   
-संग्रामे जयदं चैव यात्राकाले फलप्रदम् ।  
+सङ्ग्रामे जयदं चैव यात्राकाले फलप्रदम् ।  
 शत्रूच्चाटनादिषु च प्रशस्तं तद् भविष्यति ॥ ३५॥  
   
 कारागृहगतस्यैव बन्धनाशकरं भवेत् ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "ShaNmukhabhujangastutiH"
-"File name" = "ShaNmukhabhujangastuti.itx"
-itxtitle = "ShaNmukhabhujaNgastutiH"
-engtitle = "ShaNmukhabhujangastutiH"
-Category = "subrahmanya, bhujanga"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Subcategory = "bhujanga"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Latest update" = "December 17, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षण्मुखभुजण्गस्तुतिः"
+---
+Category: subrahmanya, bhujanga
+File name: ShaNmukhabhujangastuti.itx
+Language: Sanskrit
+Latest update: December 17, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhujanga
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: ShaNmukhabhujangastutiH
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: ShaNmukhabhujangastutiH
+itxtitle: ShaNmukhabhujaNgastutiH
+title: षण्मुखभुजण्गस्तुतिः
 
-+++
+---
   
  श्रीषण्मुखभुजङ्गस्तुतिः   
   

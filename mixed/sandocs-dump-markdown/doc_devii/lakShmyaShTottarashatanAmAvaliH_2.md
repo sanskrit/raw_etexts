@@ -1,22 +1,22 @@
-+++
-"Text title" = "lakShmyaShTottarashatanAmAvaliH 2"
-"File name" = "lakShmyaShTottarashatanAmAvaliH.itx"
-itxtitle = "lakShmyaShTottarashatanAmAvaliH 2"
-engtitle = "lakShmyaShTottarashatanAmAvaliH 2"
-Category = "devii, aShTottarashatanAmAvalI, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्म्यष्टोत्तरशतनामावलिः २"
+---
+Category: devii, aShTottarashatanAmAvalI, lakShmI, devI
+File name: lakShmyaShTottarashatanAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmyaShTottarashatanAmAvaliH 2
+engtitle: lakShmyaShTottarashatanAmAvaliH 2
+itxtitle: lakShmyaShTottarashatanAmAvaliH 2
+title: लक्ष्म्यष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  श्रीलक्ष्म्यष्टोत्तरशतनामावलिः   
 एषा नामावलिः महालक्ष्म्यै नमः इत्यारब्धायाः सहस्रनामावल्या  

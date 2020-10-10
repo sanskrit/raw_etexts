@@ -1,22 +1,22 @@
-+++
-"Text title" = "kArtikeyastotrakadambam"
-"File name" = "kArtikeyastotrakadambam.itx"
-itxtitle = "kArtikeyastotrakadambam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "kArtikeyastotrakadambam"
-Category = "subrahmanya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कार्तिकेयस्तोत्रकदम्बम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: subrahmanya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: kArtikeyastotrakadambam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: kArtikeyastotrakadambam
+engtitle: kArtikeyastotrakadambam
+itxtitle: kArtikeyastotrakadambam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: कार्तिकेयस्तोत्रकदम्बम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीकार्तिकेयस्तोत्रकदम्बम्   
 श्रीमयूराचलक्षेत्रे - (कुन्नक्कुड्यपरनामके)  

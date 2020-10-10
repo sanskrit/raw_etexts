@@ -3,7 +3,6 @@ title: 067 शिवधनुर्भङ्गः
 title_english: 067 rAma breaks shiva s bow
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-067-Shiva_Dhanur_Bhamgaha.mp3"></div>
 
 जनकस्य वचः श्रुत्वा विश्वामित्रो महामुनिः।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrIpadmAvatInavaratramAlikAstutiH"
-"File name" = "padmAvatInavaratnamAlikAstutI.itx"
-itxtitle = "padmAvatInavaratramAlikAstutiH"
-engtitle = "shrIpadmAvatInavaratramAlikAstutiH"
-Category = "devii, stotra, nava, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha KavyakalApa"
-Indexextra = "(book Venkatesha KavyakalApa)"
-"Latest update" = "June 10, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पद्मावतीनवरत्रमालिकास्तुतिः"
+---
+Category: devii, stotra, nava, devI
+File name: padmAvatInavaratnamAlikAstutI.itx
+Indexextra: (book Venkatesha KavyakalApa)
+Language: Sanskrit
+Latest update: June 10, 2016
+Location: doc_devii
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha KavyakalApa
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIpadmAvatInavaratramAlikAstutiH
+Texttype: stotra
+engtitle: shrIpadmAvatInavaratramAlikAstutiH
+itxtitle: padmAvatInavaratramAlikAstutiH
+title: पद्मावतीनवरत्रमालिकास्तुतिः
 
-+++
+---
   
  श्रीपद्मावतीनवरत्नमालिकास्तुतिः   
 % १४  
@@ -59,7 +59,7 @@ title = "पद्मावतीनवरत्रमालिकास्त�
 बालश्रीलप्रवालप्रियसखचरणद्वन्द्वरम्यां भजेऽहम् ॥ ७॥  
   
 यां देवीं मौनिवर्याः श्रयदमरवधूमौलिमाल्यार्चिन्ताङ्घ्रिं  
-संसारासारवारांनिधितरतरणेतरणतरिं सर्वदा भावयन्ते ।  
+संसारासारवारान्निधितरतरणेतरणतरिं सर्वदा भावयन्ते ।  
 श्रीकारोत्तुङ्गरत्नप्रचुरितकनकस्निग्धशुद्धान्तलीलां  
 तां शश्वत्पादपद्मश्रयदखिलहृदाह्लादिनीं ह्लादयेऽहम् ॥ ८॥  
   

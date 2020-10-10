@@ -1,23 +1,23 @@
-+++
-"Text title" = "madAnjaneyAShTottarashatanAmastotram"
-"File name" = "hanuman108str.itx"
-itxtitle = "AnjaneyAShTottarashatanAmastotram (kAlikArahasyataH)"
-engtitle = "Shrimad Anjaneya AshtottarashatanAmastotra"
-Category = "aShTottarashatanAma, hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "From Hanumatstavamanjari"
-Description-comments = "108 names of Hanuman. From kAlikArahasya"
-"Latest update" = "September 14, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आञ्जनेयाष्टोत्तरशतनामस्तोत्रम् (कालिकारहस्यतः)"
+---
+Author: Traditional
+Category: aShTottarashatanAma, hanumaana, stotra, hanuman
+Description-comments: 108 names of Hanuman. From kAlikArahasya
+File name: hanuman108str.itx
+Language: Sanskrit
+Latest update: September 14, 2014
+Location: doc_hanumaana
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: madAnjaneyAShTottarashatanAmastotram
+Texttype: stotra
+Transliterated by: From Hanumatstavamanjari
+engtitle: Shrimad Anjaneya AshtottarashatanAmastotra
+itxtitle: AnjaneyAShTottarashatanAmastotram (kAlikArahasyataH)
+title: आञ्जनेयाष्टोत्तरशतनामस्तोत्रम् (कालिकारहस्यतः)
 
-+++
+---
   
  श्रीमदाञ्जनेयाष्टोत्तरशतनामस्तोत्रम् कालिकारहस्यतः   
   

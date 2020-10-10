@@ -1,22 +1,22 @@
-+++
-"Text title" = "AtmastavaH"
-"File name" = "AtmastavaH.itx"
-itxtitle = "AtmastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "AtmastavaH"
-Category = "misc, vedanta, advice, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आत्मस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: misc, vedanta, advice, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: AtmastavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: AtmastavaH
+engtitle: AtmastavaH
+itxtitle: AtmastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: आत्मस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  आत्मस्तवः   
 शमदमसाधनयुक्तैर्वेत्तुं योग्ये गुरुप्रसादेन ।  
@@ -52,7 +52,7 @@ title = "आत्मस्तवः (शिवाभिनवनृइसिं
 सुतगेहधनकलत्राद्यासक्तानां सुदूरतरे ।  
 अयमात्मनि रमतां किं वत्स श्रीकण्ठ सत्यचिद्रूपे ॥ ११॥  
   
-संन्यस्तसर्वकर्मभिरावेद्येऽत्यन्तसूक्ष्मशेमुषिभिः ।  
+सन्न्यस्तसर्वकर्मभिरावेद्येऽत्यन्तसूक्ष्मशेमुषिभिः ।  
 अयमात्मनि रमतां किं वत्स श्रीकण्ठ सत्यचिद्रूपे ॥ १२॥  
   
 तृणतोऽप्यतिलघुतरमिदमखिलं विश्वं विलोकयन्योगात् ।  

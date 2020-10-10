@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrii subrahmaNyaShoDashanaamastotram"
-"File name" = "subra16naamastotra.itx"
-itxtitle = "subrahmaNyaShoDashanAmastotram"
-engtitle = "subrahmaNyaShoDashanAmastotram"
-Category = "subrahmanya, stotra, ShoDasha"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-Description-comments = "shaNkarasaMhitaayaaM shivarahasyakhaNDe"
-"Latest update" = "March 15, 2006, March 26, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यषोडशनामस्तोत्रम्"
+---
+Category: subrahmanya, stotra, ShoDasha
+Description-comments: shaNkarasaMhitaayaaM shivarahasyakhaNDe
+File name: subra16naamastotra.itx
+Language: Sanskrit
+Latest update: March 15, 2006, March 26, 2017
+Location: doc_subrahmanya
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrii subrahmaNyaShoDashanaamastotram
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: subrahmaNyaShoDashanAmastotram
+itxtitle: subrahmaNyaShoDashanAmastotram
+title: सुब्रह्मण्यषोडशनामस्तोत्रम्
 
-+++
+---
   
  श्रीसुब्रह्मण्यषोडशनामं   
   
@@ -27,7 +27,7 @@ title = "सुब्रह्मण्यषोडशनामस्तोत�
 प्रथमोज्ञानशक्त्यात्मा द्वितीयो स्कन्द एवच ।  
 अग्निभूश्चतृतीयस्यात् बाहुळेयश्चतुर्थकः ॥ २॥  
   
-गांगेयः पञ्चमोविद्यात् षष्ठः शरवणोत्भवः ।  
+गाङ्गेयः पञ्चमोविद्यात् षष्ठः शरवणोत्भवः ।  
 सप्तमः कार्तिकेयःस्यात् कुमारस्यादथाष्टकः ॥ ३॥  
   
 नवमःषण्मुखश्चैव दशमःकुक्कुटद्वजः ।  

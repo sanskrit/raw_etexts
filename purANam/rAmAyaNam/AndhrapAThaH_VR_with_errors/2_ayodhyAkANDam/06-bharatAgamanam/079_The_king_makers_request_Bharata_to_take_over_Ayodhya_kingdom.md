@@ -3,7 +3,6 @@ title: 079 The king makers request Bharata to take over Ayodhya kingdom
 title_english: 079 The king makers request Bharata to take over Ayodhya kingdom
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-079-Bharatham_Prathi_Mantri_Mantrana.mp3"></div>
 
 ततः प्रभात समये दिवसे अथ चतुर्दशे ।  

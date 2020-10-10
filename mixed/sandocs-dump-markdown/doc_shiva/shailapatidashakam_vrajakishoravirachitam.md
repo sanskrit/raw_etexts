@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shailapati Dashakam"
-"File name" = "shailapatidashakam.itx"
-itxtitle = "shailapatidashakam (vrajakishoravirachitam)"
-engtitle = "shailapati dashakam"
-Category = "shiva, dashaka, vrajakishora"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Vrajakishora Tripathi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vrajakishora Tripathi"
-"Proofread by" = "Vrajakishora Tripathi"
-"Latest update" = "February 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शैलपतिदशकम् (व्रजकिशोरविरचितम्)"
+---
+Author: Vrajakishora Tripathi
+Category: shiva, dashaka, vrajakishora
+File name: shailapatidashakam.itx
+Language: Sanskrit
+Latest update: February 21, 2020
+Location: doc_shiva
+Proofread by: Vrajakishora Tripathi
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shailapati Dashakam
+Transliterated by: Vrajakishora Tripathi
+engtitle: shailapati dashakam
+itxtitle: shailapatidashakam (vrajakishoravirachitam)
+title: शैलपतिदशकम् (व्रजकिशोरविरचितम्)
 
-+++
+---
   
  श्रीशैलपतिदशकम्   
 जय भस्मविभूषणविग्रह हे  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Mudgala Upanishad"
-"File name" = "mudgala.itx"
-itxtitle = "mudgalopaniShat"
-engtitle = "MudgalaUpanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "57 / 108; Rig Veda - Samanya upanishad"
-"Latest update" = "Mar. 21, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मुद्गलोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 57 / 108; Rig Veda - Samanya upanishad
+File name: mudgala.itx
+Language: Sanskrit
+Latest update: Mar. 21, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Mudgala Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: MudgalaUpanishad
+itxtitle: mudgalopaniShat
+title: मुद्गलोपनिषत्
 
-+++
+---
   
  मुद्गलोपनिषत्   
   
@@ -33,7 +33,7 @@ title = "मुद्गलोपनिषत्"
 तन्मामवतु तद्वक्तारमवतु अवतु मामवतु वक्तारमवतु वक्तारम् ॥  
   
 ॐ पुरुषसूक्तार्थनिर्णयं व्याख्यास्यामः  
-पुरुषसंहितायां पुरुषसूक्तार्थः संग्रहेण प्रोच्यते ।  
+पुरुषसंहितायां पुरुषसूक्तार्थः सङ्ग्रहेण प्रोच्यते ।  
 सहस्रशीर्षेत्यत्र सशब्दोऽनन्तवाचकः ।  
 अनन्तयोजनं प्राह दशाङ्गुलवचस्तथा ॥ १॥  
   
@@ -67,7 +67,7 @@ title = "मुद्गलोपनिषत्"
 पुरुषसूक्ताभ्यां खण्डद्वयाभ्यामुपादिशत् ।  
 द्वौ खण्डावुच्येते । योऽय मुक्तः स पुरुषो  
 नामरूपज्ञानागोचरं संसारिणामतिदुर्ज्ञेयं  
-विषयं विहाय क्लेशादिभिः संक्लिष्टदेवादिजिहीर्षया  
+विषयं विहाय क्लेशादिभिः सङ्क्लिष्टदेवादिजिहीर्षया  
 सहस्रकलावयवकल्याणं दृष्टमात्रेण मोक्षदं  
 वेषमाददे । तेन वेषेण भूम्यादिलोकं व्याप्यानन्त-  
 योजनमत्यतिष्ठत् । पुरुषो नारायणो भूतं भव्यं  
@@ -96,7 +96,7 @@ title = "मुद्गलोपनिषत्"
 ऊर्गिति देवाः । रयिरिति मनुष्याः । मायेत्यसुराः ।  
 स्वधेति पितरः । देवजन इति देवजनविदः । रूपमिति गन्धर्वाः ।  
 गन्धर्व इति अप्सरसः । तं यथायथोपासते तथैव भवति ।  
-तस्माद्ब्राह्मणः पुरुषरूपं परंब्रह्मैवाहमिति  
+तस्माद्ब्राह्मणः पुरुषरूपं परम्ब्रह्मैवाहमिति  
 भावयेत् । तद्रूपो भवति । य एवं वेद ॥ ३॥  
   
 तद्ब्रह्म तापत्रयातीतं षट्कोशविनिर्मुक्तं षडूर्मिवर्जितं  

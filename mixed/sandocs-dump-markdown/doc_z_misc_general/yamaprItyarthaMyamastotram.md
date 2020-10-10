@@ -1,22 +1,22 @@
-+++
-"Text title" = "yamaprItyarthaMyamastotram"
-"File name" = "yamaprItyarthaMyamastotram.itx"
-itxtitle = "yamaprItyarthaMyamastotram"
-engtitle = "yamaprItyarthaMyamastotram"
-Category = "misc, stotra"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमप्रीत्यर्थंयमस्तोत्रम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: misc, stotra
+File name: yamaprItyarthaMyamastotram.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: yamaprItyarthaMyamastotram
+engtitle: yamaprItyarthaMyamastotram
+itxtitle: yamaprItyarthaMyamastotram
+title: यमप्रीत्यर्थंयमस्तोत्रम्
 
-+++
+---
   
  यमप्रीत्यर्थं यमस्तोत्रम्   
   

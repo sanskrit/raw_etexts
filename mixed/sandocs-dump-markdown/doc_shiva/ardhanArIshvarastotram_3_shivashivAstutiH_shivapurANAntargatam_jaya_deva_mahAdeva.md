@@ -1,23 +1,25 @@
-+++
-"Text title" = "ardhanArIshvarastotram 3"
-"File name" = "ardhanArIshvarastotram3.itx"
-itxtitle = "ardhanArIshvarastotram 3 shivashivAstutiH (shivapurANAntargatam jaya deva mahAdeva)"
-engtitle = "ardhanArIshvarastotram 3"
-Category = "shiva, devii, pArvatI, devI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "Shivamahapurana VayaviyasamhitA pUrvabhAga shivashivAstutivarNanaM adhyAya 15"
-Indexextra = "(shivamahApurANa)"
-"Latest update" = "August 26, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अर्धनारीश्वरस्तोत्रम् ३ शिवशिवास्तुतिः (शिवपुराणान्तर्गतम् जय देव महादेव)"
+---
+Category: shiva, devii, pArvatI, devI
+Description-comments: Shivamahapurana VayaviyasamhitA pUrvabhAga shivashivAstutivarNanaM
+  adhyAya 15
+File name: ardhanArIshvarastotram3.itx
+Indexextra: (shivamahApurANa)
+Language: Sanskrit
+Latest update: August 26, 2017
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: ardhanArIshvarastotram 3
+engtitle: ardhanArIshvarastotram 3
+itxtitle: ardhanArIshvarastotram 3 shivashivAstutiH (shivapurANAntargatam jaya deva
+  mahAdeva)
+title: अर्धनारीश्वरस्तोत्रम् ३ शिवशिवास्तुतिः (शिवपुराणान्तर्गतम् जय देव महादेव)
 
-+++
+---
   
  अर्धनारीश्वरस्तोत्रम् ३  
   

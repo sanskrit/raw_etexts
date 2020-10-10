@@ -1,24 +1,24 @@
-+++
-"Text title" = "Gangastutih 5"
-"File name" = "gangAstutiH5.itx"
-itxtitle = "gaNgAstutiH 5 (shailendrAdavatAriNI)"
-engtitle = "gangAstutiH 5"
-Category = "devii, devI, nadI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Proofread by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Description/comments" = "Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty"
-Indexextra = "(Scan)"
-"Latest update" = "December 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गास्तुतिः ५ (शैलेन्द्रादवतारिणी)"
+---
+Category: devii, devI, nadI
+Description/comments: Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty
+File name: gangAstutiH5.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 7, 2019
+Location: doc_devii
+Proofread by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangastutih 5
+Transliterated by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+engtitle: gangAstutiH 5
+itxtitle: gaNgAstutiH 5 (shailendrAdavatAriNI)
+title: गण्गास्तुतिः ५ (शैलेन्द्रादवतारिणी)
 
-+++
+---
   
  गङ्गास्तुतिः ५   
 श्रीगणेशाय नमः ।  

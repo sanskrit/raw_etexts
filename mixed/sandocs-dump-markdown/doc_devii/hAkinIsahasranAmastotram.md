@@ -1,25 +1,25 @@
-+++
-"Text title" = "hAkinIsahasra"
-"File name" = "hAkinIsahasra.itx"
-itxtitle = "hAkinIsahasranAmastotram"
-engtitle = "hAkinIsahasranAmastotra"
-Category = "sahasranAma, devii, ShaTchakrashakti, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mark S.G. Dyczkowski muktAbodha"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmale uttaratantre bhairava bhairavI sa.nvAde"
-"Latest update" = "May 25, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हाकिनीसहस्रनामस्तोत्रम्"
+---
+Author: Traditional
+Category: sahasranAma, devii, ShaTchakrashakti, stotra, devI
+Description-comments: rudrayAmale uttaratantre bhairava bhairavI sa.nvAde
+File name: hAkinIsahasra.itx
+Language: Sanskrit
+Latest update: May 25, 2009
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: hAkinIsahasra
+Texttype: stotra
+Transliterated by: Mark S.G. Dyczkowski muktAbodha
+engtitle: hAkinIsahasranAmastotra
+itxtitle: hAkinIsahasranAmastotram
+title: हाकिनीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  हाकिनीसहस्रनामस्तोत्र   
   
@@ -53,9 +53,9 @@ title = "हाकिनीसहस्रनामस्तोत्रम्"
 परदेशगता नाथा परमाह्लादवर्धिनी ॥ ६ ॥  
   
 पार्वती परकुलाख्या पराञ्जनसुलोचना ।  
-परंब्रह्मप्रिया माया परंब्रह्मप्रकाशिनी ॥ ७ ॥  
+परम्ब्रह्मप्रिया माया परम्ब्रह्मप्रकाशिनी ॥ ७ ॥  
   
-परंब्रह्मज्ञानगम्या परंब्रह्मेश्वरप्रिमया ।  
+परम्ब्रह्मज्ञानगम्या परम्ब्रह्मेश्वरप्रिमया ।  
 पूर्वातीता परातीता अपारमहिमस्थिता ॥ ८ ॥  
   
 अपारसागरोद्धारा अपारदुस्तरोद्धरा ।  
@@ -263,7 +263,7 @@ title = "हाकिनीसहस्रनामस्तोत्रम्"
 हरणस्था हाकिनी च होमकर्मप्रकाशिनी ॥ ७६ ॥  
   
 हरिद्रा हरिपूज्या च हरमाला हरेश्वरी ।  
-हरातीता हरसिद्धा ह्रींकारी हंसमालिनी ॥ ७७ ॥  
+हरातीता हरसिद्धा ह्रीङ्कारी हंसमालिनी ॥ ७७ ॥  
   
 हंसमन्त्रस्वरूपा च हंसमण्डलभेदिनी ।  
 हंसः सोऽहं मणिकरा हंसराजोपरिस्थिता ॥ ७८ ॥  
@@ -274,7 +274,7 @@ title = "हाकिनीसहस्रनामस्तोत्रम्"
 हरधरप्रियानन्दा हलीशानी हरोदया ।  
 हरपत्नी हररता संहारविग्रहोज्ज्वला ॥ ८० ॥  
   
-संहारनिलया हाला ह्लींबीजप्रणवप्रिया ।  
+संहारनिलया हाला ह्लीम्बीजप्रणवप्रिया ।  
 हलक्षा हक्षवर्णस्था हाकिनी हरमोहिनी ॥ ८१ ॥  
   
 हाहाहूहूप्रियानन्दगायनप्रेमसुप्रिया ।  
@@ -502,7 +502,7 @@ title = "हाकिनीसहस्रनामस्तोत्रम्"
 माधवी मदिरामध्या मधुमांसनिषेविता ।  
 मीनमुद्राभक्षिणी च मीनमुद्रापतर्पिणी ॥ १५६ ॥  
   
-मुद्रामैथुनसंतृप्ता मैथुनानन्दवर्धिनी ।  
+मुद्रामैथुनसन्तृप्ता मैथुनानन्दवर्धिनी ।  
 मैथुनज्ञानमोक्षस्था महामहिषमर्दिनी ॥ १५७ ॥  
   
 यज्ञश्रद्धा योगसिद्धा यत्नी यत्नप्रकाशिनी ।  
@@ -550,7 +550,7 @@ title = "हाकिनीसहस्रनामस्तोत्रम्"
 हाकिनी लाकिनीमाता हाकिनी राकिणीप्रिया ।  
 हाकिनी डाकिनीमाता हरा कुण्डलिनी हया ॥ १७२ ॥  
   
-हयस्था हयतेजःस्था ह्सौंबीजप्रकाशिनी ।  
+हयस्था हयतेजःस्था ह्सौम्बीजप्रकाशिनी ।  
 लवणाम्बुस्थिता लक्षग्रन्थिभेदनकारिणी ॥ १७३ ॥  
   
 लक्षकोटिभास्कराभा लक्षब्रह्माण्डकारिणी ।  
@@ -571,7 +571,7 @@ title = "हाकिनीसहस्रनामस्तोत्रम्"
 अस्य स्मरणमात्रेण वीरो योगेश्वरो भवेत् ।  
 अस्यापि च फलं वक्तुं कोटिवर्षशतैरपि ॥ १७९ ॥  
   
-शक्यते नापि सहसा संक्षेपात् शृणु सत्फलम् ।  
+शक्यते नापि सहसा सङ्क्षेपात् शृणु सत्फलम् ।  
 आयुरारोग्यमाप्नोति विश्वासं श्रीगुरोः पदैः ॥ १८० ॥  
   
 सारसिद्धिकरं पुण्यं पवित्रं पापनाशनम् ।  
@@ -643,7 +643,7 @@ title = "हाकिनीसहस्रनामस्तोत्रम्"
 स भवेन्मम पुत्रो हि सर्वकामफलं लभेत् ।  
 सर्वयज्ञफलं ज्ञानसिद्धिमाप्नोति योगिराट् ॥ २०३ ॥  
   
-भूतले भूभृतांनाथो महासिद्धो महाकविः ।  
+भूतले भूभृतान्नाथो महासिद्धो महाकविः ।  
 कण्ठे शीर्षे दक्षभुजे पुरुषो धारयेद्यदि ॥ २०४ ॥  
   
 योषिद्वामभुजे धृत्वा सर्वसिद्धिमवाप्नुयात् ।  

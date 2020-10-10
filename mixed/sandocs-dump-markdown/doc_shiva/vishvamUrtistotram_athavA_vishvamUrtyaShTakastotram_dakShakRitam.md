@@ -1,21 +1,22 @@
-+++
-"Text title" = "vishvamUrtistotram"
-"File name" = "vishvamUrtistotram.itx"
-itxtitle = "vishvamUrtistotram athavA vishvamUrtyaShTakastotram (dakShakRitam)"
-engtitle = "vishvamUrtistotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "February 20, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वमूर्तिस्तोत्रम् अथवा विश्वमूर्त्यष्टकस्तोत्रम् (दक्षकृइतम्)"
+---
+Category: shiva
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: vishvamUrtistotram.itx
+Language: Sanskrit
+Latest update: February 20, 2017
+Location: doc_shiva
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: vishvamUrtistotram
+engtitle: vishvamUrtistotram
+itxtitle: vishvamUrtistotram athavA vishvamUrtyaShTakastotram (dakShakRitam)
+title: विश्वमूर्तिस्तोत्रम् अथवा विश्वमूर्त्यष्टकस्तोत्रम् (दक्षकृइतम्)
 
-+++
+---
   
  विश्वमूर्तिस्तोत्रम् अथवा विश्वमूर्त्यष्टकस्तोत्रम्   
   

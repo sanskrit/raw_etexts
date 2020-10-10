@@ -1,24 +1,24 @@
-+++
-"Text title" = "Vasavi Kanyaka Parameshvari Sahasranama Stotra"
-"File name" = "vAsavIkanyakAparameshvarIsahasranAmastotram.itx"
-itxtitle = "vAsavIkanyakAparameshvarIsahasranAmastotram"
-engtitle = "vAsavIkanyakAparameshvarIsahasranAmastotram"
-Category = "devii, sahasranAma, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Bala Umamaheshwari from nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Bala Umamaheshwari"
-"Description/comments" = "See corresponding nAmAvalI"
-Indexextra = "(1, 2, Audio)"
-"Latest update" = "May 26, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकापरमेश्वरीसहस्रनामस्तोत्रम्"
+---
+Author: Bala Umamaheshwari from nAmAvalI
+Category: devii, sahasranAma, devI
+Description/comments: See corresponding nAmAvalI
+File name: vAsavIkanyakAparameshvarIsahasranAmastotram.itx
+Indexextra: (1, 2, Audio)
+Language: Sanskrit
+Latest update: May 26, 2019
+Location: doc_devii
+Proofread by: Bala Umamaheshwari
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vasavi Kanyaka Parameshvari Sahasranama Stotra
+Transliterated by: NA
+engtitle: vAsavIkanyakAparameshvarIsahasranAmastotram
+itxtitle: vAsavIkanyakAparameshvarIsahasranAmastotram
+title: वासवीकन्यकापरमेश्वरीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीवासवीकन्यकापरमेश्वरीसहस्रनामस्तोत्रम्   
 शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।  

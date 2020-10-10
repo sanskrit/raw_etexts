@@ -1,23 +1,23 @@
-+++
-"Text title" = "gurustotram kubjikAtantre"
-"File name" = "gurustotramkubjikAtantra.itx"
-itxtitle = "gurustotram (kubjikAtantroktam)"
-engtitle = "gurustotram kubjikAtantrokta"
-Category = "deities_misc, gurudev, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Puneet Joshi puneetrph at yahoo"
-"Proofread by" = "Puneet Joshi puneetrph at yahoo, NA"
-"Latest update" = "August 24, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुस्तोत्रम् (कुब्जिकातन्त्रोक्तम्)"
+---
+Category: deities_misc, gurudev, stotra
+File name: gurustotramkubjikAtantra.itx
+Language: Sanskrit
+Latest update: August 24, 2014
+Location: doc_deities_misc
+Proofread by: Puneet Joshi puneetrph at yahoo, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurustotram kubjikAtantre
+Texttype: stotra
+Transliterated by: Puneet Joshi puneetrph at yahoo
+engtitle: gurustotram kubjikAtantrokta
+itxtitle: gurustotram (kubjikAtantroktam)
+title: गुरुस्तोत्रम् (कुब्जिकातन्त्रोक्तम्)
 
-+++
+---
   
  श्रीगुरुस्तोत्रम् कुब्जिकातन्त्रोक्त   
   

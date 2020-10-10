@@ -3,7 +3,6 @@ title: 062 अम्बरीशयज्ञः
 title_english: 062 Legend of shunashshepa contd
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-062-Ambareesha_Yagnaha.mp3"></div>
 
 शुनःशेपं नरश्रेष्ठगृहीत्वा तु महायशाः।  

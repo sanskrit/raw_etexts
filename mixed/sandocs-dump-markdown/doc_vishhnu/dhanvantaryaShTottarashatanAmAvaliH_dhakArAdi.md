@@ -1,21 +1,21 @@
-+++
-"Text title" = "dhakArAdishrIdhanvantaryaShTottarashatanAmAvaliH"
-"File name" = "dhakArAdishrIdhanvantaryaShTottarashatanAmAvaliH.itx"
-itxtitle = "dhanvantaryaShTottarashatanAmAvaliH dhakArAdi"
-engtitle = "dhanvantaryaShTottarashatanAmAvaliH dhakArAdi"
-Category = "vishhnu, aShTottarashatanAmAvalI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धन्वन्तर्यष्टोत्तरशतनामावलिः धकारादि"
+---
+Category: vishhnu, aShTottarashatanAmAvalI
+File name: dhakArAdishrIdhanvantaryaShTottarashatanAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dhakArAdishrIdhanvantaryaShTottarashatanAmAvaliH
+engtitle: dhanvantaryaShTottarashatanAmAvaliH dhakArAdi
+itxtitle: dhanvantaryaShTottarashatanAmAvaliH dhakArAdi
+title: धन्वन्तर्यष्टोत्तरशतनामावलिः धकारादि
 
-+++
+---
   
  धकारादि श्रीधन्वन्तर्यष्टोत्तरशतनामावलिः   
   

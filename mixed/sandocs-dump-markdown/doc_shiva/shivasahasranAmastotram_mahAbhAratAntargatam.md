@@ -1,25 +1,25 @@
-+++
-"Text title" = "shivasahasranAma stotra from Mahabharat"
-"File name" = "shivasahasMaha.itx"
-itxtitle = "shivasahasranAmastotram (mahAbhAratAntargatam)"
-engtitle = "shiva sahasranAma stotram"
-Category = "sahasranAma, shiva, stotra, vyAsa"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Vyas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com, NA"
-Description-comments = "with pUrva and uttarapIThikA from Anushasanaparva"
-Source = "mahAbhArata 13 anushAsanaparva adhyAya 48"
-Indexextra = "(mahAbhArata (Hindi Translation, thesis))"
-"Latest update" = "November 1, 2010, August 31, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसहस्रनामस्तोत्रम् (महाभारतान्तर्गतम्)"
+---
+Author: Vyas
+Category: sahasranAma, shiva, stotra, vyAsa
+Description-comments: with pUrva and uttarapIThikA from Anushasanaparva
+File name: shivasahasMaha.itx
+Indexextra: (mahAbhArata (Hindi Translation, thesis))
+Language: Sanskrit
+Latest update: November 1, 2010, August 31, 2017
+Location: doc_shiva
+Proofread by: Kirk Wortman kirkwort at hotmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: mahAbhArata 13 anushAsanaparva adhyAya 48
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivasahasranAma stotra from Mahabharat
+Texttype: stotra
+engtitle: shiva sahasranAma stotram
+itxtitle: shivasahasranAmastotram (mahAbhAratAntargatam)
+title: शिवसहस्रनामस्तोत्रम् (महाभारतान्तर्गतम्)
 
-+++
+---
   
  श्रीशिवसहस्रनामस्तोत्रम्   
 महाभारतान्तर्गतम्  
@@ -566,7 +566,7 @@ title = "शिवसहस्रनामस्तोत्रम् (महा
 मार्कण्डेयान्मया प्राप्तो नियमेन जनार्दन ।  
 तवाप्यहममित्रघ्न स्तवं दद्यां ह्यविश्रुतम् ॥ १८०॥  
   
-स्वर्ग्यमारोग्यमायुष्यं धन्यं वेदेन संमितम् ।  
+स्वर्ग्यमारोग्यमायुष्यं धन्यं वेदेन सम्मितम् ।  
 नास्य विघ्नं विकुर्वन्ति दानवा यक्षराक्षसाः ॥ १८१॥  
   
 पिशाचा यातुधाना वा गुह्यका भुजगा अपि ।  

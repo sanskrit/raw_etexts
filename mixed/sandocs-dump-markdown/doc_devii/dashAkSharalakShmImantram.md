@@ -1,22 +1,22 @@
-+++
-"Text title" = "dashAkSharalakShmImantram"
-"File name" = "dashAkSharalakShmImantram.itx"
-itxtitle = "dashAkSharalakShmImantram"
-engtitle = "dashAkSharalakShmImantram"
-Category = "devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras"
-"Latest update" = "January 3, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशाक्षरलक्ष्मीमन्त्रम्"
+---
+Category: devii, lakShmI, devI
+Description/comments: shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras
+File name: dashAkSharalakShmImantram.itx
+Language: Sanskrit
+Latest update: January 3, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dashAkSharalakShmImantram
+engtitle: dashAkSharalakShmImantram
+itxtitle: dashAkSharalakShmImantram
+title: दशाक्षरलक्ष्मीमन्त्रम्
 
-+++
+---
   
  दशाक्षरलक्ष्मीमन्त्रम्   
 अस्य श्रीदशाक्षरीमहामन्त्रस्य -  

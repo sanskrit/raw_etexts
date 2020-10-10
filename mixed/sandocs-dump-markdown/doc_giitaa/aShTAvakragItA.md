@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ashtavakra Gita"
-"File name" = "ashtgita.itx"
-itxtitle = "aShTAvakragItA"
-engtitle = "aShTAvakra gItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion"
-"Transliterated by" = "John Richards jhr at universalist.worldonline.co.uk"
-"Proofread by" = "John Richards, Raj Acharya kingteacher at hotmail"
-Indexextra = "(English 1, 2, 3, Hindi 1, 2, 3, 4, Gujarati, Gujarati Translation, Telugu)"
-"Latest update" = "October 6, 2005, December 13, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अष्टावक्रगीता"
+---
+Author: Vedic tradition
+Category: gItA, giitaa
+File name: ashtgita.itx
+Indexextra: (English 1, 2, 3, Hindi 1, 2, 3, 4, Gujarati, Gujarati Translation, Telugu)
+Language: Sanskrit
+Latest update: October 6, 2005, December 13, 2019
+Location: doc_giitaa
+Proofread by: John Richards, Raj Acharya kingteacher at hotmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion
+Sublocation: giitaa
+Text title: Ashtavakra Gita
+Transliterated by: John Richards jhr at universalist.worldonline.co.uk
+engtitle: aShTAvakra gItA
+itxtitle: aShTAvakragItA
+title: अष्टावक्रगीता
 
-+++
+---
   
  अष्टावक्रगीता   
                       ॥ श्री ॥  
@@ -50,7 +50,7 @@ title = "अष्टावक्रगीता"
 एको द्रष्टासि सर्वस्य मुक्तप्रायोऽसि सर्वदा ।  
 अयमेव हि ते बन्धो द्रष्टारं पश्यसीतरम् ॥ १-७॥  
   
-अहं कर्तेत्यहंमानमहाकृष्णाहिदंशितः ।  
+अहं कर्तेत्यहम्मानमहाकृष्णाहिदंशितः ।  
 नाहं कर्तेति विश्वासामृतं पीत्वा सुखी भव ॥ १-८॥  
   
 एको विशुद्धबोधोऽहमिति निश्चयवह्निना ।  
@@ -603,7 +603,7 @@ title = "अष्टावक्रगीता"
 निर्ममो निरहङ्कारो न किञ्चिदिति निश्चितः ।  
 अन्तर्गलितसर्वाशः कुर्वन्नपि करोति न ॥ १७-१९॥  
   
-मनःप्रकाशसंमोहस्वप्नजाड्यविवर्जितः ।  
+मनःप्रकाशसम्मोहस्वप्नजाड्यविवर्जितः ।  
 दशां कामपि सम्प्राप्तो भवेद् गलितमानसः ॥ १७-२०॥  
   
 १८  
@@ -736,7 +736,7 @@ title = "अष्टावक्रगीता"
 उभयाभावकः कश्चिद् एवमेव निराकुलः ॥ १८-४२॥  
   
 शुद्धमद्वयमात्मानं भावयन्ति कुबुद्धयः ।  
-न तु जानन्ति संमोहाद्यावज्जीवमनिर्वृताः ॥ १८-४३॥  
+न तु जानन्ति सम्मोहाद्यावज्जीवमनिर्वृताः ॥ १८-४३॥  
   
 मुमुक्षोर्बुद्धिरालम्बमन्तरेण न विद्यते ।  
 निरालम्बैव निष्कामा बुद्धिर्मुक्तस्य सर्वदा ॥ १८-४४॥  
@@ -807,7 +807,7 @@ title = "अष्टावक्रगीता"
 क्व संसारः क्व चाभासः क्व साध्यं क्व च साधनम् ।  
 आकाशस्येव धीरस्य निर्विकल्पस्य सर्वदा ॥ १८-६६॥  
   
-स जयत्यर्थसंन्यासी पूर्णस्वरसविग्रहः ।  
+स जयत्यर्थसन्न्यासी पूर्णस्वरसविग्रहः ।  
 अकृत्रिमोऽनवच्छिन्ने समाधिर्यस्य वर्तते ॥ १८-६७॥  
   
 बहुनात्र किमुक्तेन ज्ञाततत्त्वो महाशयः ।  

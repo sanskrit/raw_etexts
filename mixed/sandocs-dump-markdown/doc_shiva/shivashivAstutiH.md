@@ -1,21 +1,21 @@
-+++
-"Text title" = "shivashivAstutiH"
-"File name" = "shivashivAstutiH.itx"
-itxtitle = "shivashivAstutiH"
-engtitle = "shivashivAstutiH"
-Category = "shiva, devii, devI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवशिवास्तुतिः"
+---
+Category: shiva, devii, devI
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: shivashivAstutiH.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivashivAstutiH
+engtitle: shivashivAstutiH
+itxtitle: shivashivAstutiH
+title: शिवशिवास्तुतिः
 
-+++
+---
   
  शिवशिवास्तुतिः   
 ॐ नमः शिवाय शान्ताय पञ्चवक्त्राय शूलिने ।  

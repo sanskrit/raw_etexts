@@ -1,24 +1,24 @@
-+++
-"Text title" = "adhyAtmarAmAyaNamAhAtmyam brahmANDapurANe"
-"File name" = "adhyAtmarAmAyaNamAhAtmyam.itx"
-itxtitle = "adhyAtmarAmAyaNamAhAtmyam (brahmANDapurANAntargatam)"
-engtitle = "Adhyatmaramayanamahatmyam"
-Category = "adhyAtmarAmAyaNa, raama, vyAsa"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "pramukha"
-Author = "Shri Veda Vyas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "shrIbrahmANDapurANe uttarakhaNDe"
-"Latest update" = "June 8, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अध्यात्मरामायणमाहात्म्यम् (ब्रह्माण्डपुराणान्तर्गतम्)"
+---
+Author: Shri Veda Vyas
+Category: adhyAtmarAmAyaNa, raama, vyAsa
+Description-comments: shrIbrahmANDapurANe uttarakhaNDe
+File name: adhyAtmarAmAyaNamAhAtmyam.itx
+Language: Sanskrit
+Latest update: June 8, 2013
+Location: doc_raama
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: adhyAtmarAmAyaNamAhAtmyam brahmANDapurANe
+Texttype: pramukha
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Adhyatmaramayanamahatmyam
+itxtitle: adhyAtmarAmAyaNamAhAtmyam (brahmANDapurANAntargatam)
+title: अध्यात्मरामायणमाहात्म्यम् (ब्रह्माण्डपुराणान्तर्गतम्)
 
-+++
+---
   
  अध्यात्मरामायणमाहात्म्यम् ब्रह्माण्डपुराणे   
   

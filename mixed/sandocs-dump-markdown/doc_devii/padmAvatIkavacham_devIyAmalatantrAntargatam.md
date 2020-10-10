@@ -1,22 +1,22 @@
-+++
-"Text title" = "padmAvatIkavacham"
-"File name" = "padmAvatIkavacham.itx"
-itxtitle = "padmAvatIkavacham (devIyAmalatantrAntargatam)"
-engtitle = "padmAvatIkavacham"
-Category = "devii, kavacha, otherforms , devI"
-Location = "doc_devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "devIyAmalatantra"
-"Latest update" = "December 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पद्मावतीकवचम् (देवीयामलतन्त्रान्तर्गतम्)"
+---
+Category: devii, kavacha, otherforms , devI
+Description-comments: devIyAmalatantra
+File name: padmAvatIkavacham.itx
+Language: Sanskrit
+Latest update: December 19, 2017
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Text title: padmAvatIkavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: padmAvatIkavacham
+itxtitle: padmAvatIkavacham (devIyAmalatantrAntargatam)
+title: पद्मावतीकवचम् (देवीयामलतन्त्रान्तर्गतम्)
 
-+++
+---
   
  पद्मावतीकवचम्   
 श्रीगणेशाय नमः ।  

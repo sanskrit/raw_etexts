@@ -1,23 +1,23 @@
-+++
-"Text title" = "pradoShastotrAShTakam"
-"File name" = "pradosha8.itx"
-itxtitle = "pradoShastotrAShTakam"
-engtitle = "pradoShastotrAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "skandapurANa"
-"Latest update" = "January 01, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रदोषस्तोत्राष्टकम्"
+---
+Author: Traditional
+Category: aShTaka, shiva
+Description-comments: skandapurANa
+File name: pradosha8.itx
+Language: Sanskrit
+Latest update: January 01, 2005
+Location: doc_shiva
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: pradoShastotrAShTakam
+Transliterated by: WebD
+engtitle: pradoShastotrAShTakam
+itxtitle: pradoShastotrAShTakam
+title: प्रदोषस्तोत्राष्टकम्
 
-+++
+---
   
  प्रदोषस्तोत्राष्टकम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "veNugopAlastotram"
-"File name" = "veNugopAlastotram.itx"
-itxtitle = "veNugopAlastotram"
-engtitle = "veNugopAlastotram"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "January 3, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेणुगोपालस्तोत्रम्"
+---
+Category: vishhnu, krishna
+File name: veNugopAlastotram.itx
+Language: Sanskrit
+Latest update: January 3, 2019
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veNugopAlastotram
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: veNugopAlastotram
+itxtitle: veNugopAlastotram
+title: वेणुगोपालस्तोत्रम्
 
-+++
+---
   
  वेणुगोपालस्तोत्रम्   
 कारुण्यादेव देव प्रवरयदुकुलाम्भोधिभास्वच्छशाङ्क-  

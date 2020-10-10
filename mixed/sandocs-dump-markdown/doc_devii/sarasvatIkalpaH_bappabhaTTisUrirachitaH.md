@@ -1,24 +1,25 @@
-+++
-"Text title" = "sarasvatIkalpaH"
-"File name" = "sarasvatIkalpaH.itx"
-itxtitle = "sarasvatIkalpaH (bappabhaTTisUrirachitaH)"
-engtitle = "sarasvatIkalpaH"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "sAdhvIshivAryA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "Parishishta 12 of Bhairava Padmavati Kalpa, Jain/Gujarati publication, 1993"
-"Latest update" = "April 14, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीकल्पः (बप्पभट्टिसूरिरचितः)"
+---
+Author: sAdhvIshivAryA
+Category: devii, sarasvatI, devI
+Description/comments: Parishishta 12 of Bhairava Padmavati Kalpa, Jain/Gujarati publication,
+  1993
+File name: sarasvatIkalpaH.itx
+Language: Sanskrit
+Latest update: April 14, 2018
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIkalpaH
+Transliterated by: DPD
+engtitle: sarasvatIkalpaH
+itxtitle: sarasvatIkalpaH (bappabhaTTisUrirachitaH)
+title: सरस्वतीकल्पः (बप्पभट्टिसूरिरचितः)
 
-+++
+---
   
  श्रीबप्पभट्टिसूरिकृतं श्रीसरस्वतीकल्पः   
   
@@ -177,7 +178,7 @@ title = "सरस्वतीकल्पः (बप्पभट्टिसू
 ऐं क्लीँ ह्सौँ  वद वद वाग्वादिनि !  ह्रीं नमः । मूलमन्त्रः ॥  
   
 वाग्भवं प्रथमं बीजं द्वितीयं कुसुमायुधम् ।  
-तृतीयं जीवसंज्ञं तु सिद्धसारस्वतं पुनः ॥  
+तृतीयं जीवसञ्ज्ञं तु सिद्धसारस्वतं पुनः ॥  
   
 वाग्बीजं स्मरबीजवेष्टितमतो ज्योतिःकला तद्बहि-  
 रष्टद्वादशषोडशद्विगुणितद्वयष्टाब्जपत्रान्वितम् ।  
@@ -342,9 +343,9 @@ title = "सरस्वतीकल्पः (बप्पभट्टिसू
 ॥ इति श्रीबप्पभट्टिसारस्वतकल्पः ॥  
   
 वाग्भवं प्रथमं बीजं १ द्वितीयं कुसुमायुधम् २।  
-तृतीयं जीवसंज्ञं च सिद्धसारस्वतं स्मृतम् ॥  
+तृतीयं जीवसञ्ज्ञं च सिद्धसारस्वतं स्मृतम् ॥  
   
-जीवसंज्ञं स्मरेद् गुह्ये वक्षसि (वक्षःस्थले) कुसुमायुधम् ।  
+जीवसञ्ज्ञं स्मरेद् गुह्ये वक्षसि (वक्षःस्थले) कुसुमायुधम् ।  
 शिरसि वाग्भवं बीजं शुक्लवर्णं स्मरेत् त्रयम् ॥  
   
 त्रयम्-बीजत्रयमित्यर्थः ।  

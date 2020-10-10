@@ -1,23 +1,23 @@
-+++
-"Text title" = "yamAShTakam narasiMhapurANe"
-"File name" = "yamAShTakamNP.itx"
-itxtitle = "yamAShTakam (narasiMhapurANAntargatam)"
-engtitle = "Yamashtakam from Narasimhapurana"
-Category = "aShTaka, purana, stotra"
-Location = "doc_z_misc_general"
-Sublocation = "purana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 9"
-"Latest update" = "June 6, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमाष्टकम् (नरसिंहपुराणान्तर्गतम्)"
+---
+Category: aShTaka, purana, stotra
+Description-comments: Narasimhapurana adhyAya 9
+File name: yamAShTakamNP.itx
+Language: Sanskrit
+Latest update: June 6, 2013
+Location: doc_z_misc_general
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: purana
+Text title: yamAShTakam narasiMhapurANe
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: Yamashtakam from Narasimhapurana
+itxtitle: yamAShTakam (narasiMhapurANAntargatam)
+title: यमाष्टकम् (नरसिंहपुराणान्तर्गतम्)
 
-+++
+---
   
  यमाष्टकं नरसिंहपुराणे   
   

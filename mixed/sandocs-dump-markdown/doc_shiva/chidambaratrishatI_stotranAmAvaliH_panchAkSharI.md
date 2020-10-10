@@ -1,22 +1,22 @@
-+++
-"Text title" = "Chidambara Trishati Stotra Namavali 300 Names"
-"File name" = "chidambaratrishatIstotranamAvaliH.itx"
-itxtitle = "chidambaratrishatI stotranAmAvaliH panchAkSharI"
-engtitle = "chidambaratrishatIstotranamavaliH"
-Category = "shiva, shatInAmAvalI, shatI, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran, NA"
-Indexextra = "(Scan)"
-"Latest update" = "April 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "चिदम्बरत्रिशती स्तोत्रनामावलिः पञ्चाक्षरी"
+---
+Category: shiva, shatInAmAvalI, shatI, nAmAvalI
+File name: chidambaratrishatIstotranamAvaliH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 18, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Chidambara Trishati Stotra Namavali 300 Names
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: chidambaratrishatIstotranamavaliH
+itxtitle: chidambaratrishatI stotranAmAvaliH panchAkSharI
+title: चिदम्बरत्रिशती स्तोत्रनामावलिः पञ्चाक्षरी
 
-+++
+---
   
  श्रीचिदम्बर पञ्चाक्षरी त्रिशती स्तोत्रनामावलिः   
 श्रीगणेशाय नमः ।  
@@ -190,7 +190,7 @@ title = "चिदम्बरत्रिशती स्तोत्रना�
 यादःकोलगजारातिखर्वकच्छपगर्वघ्ने ।  
 यक्षराक्षसभेतालभूताऽपस्मारभञ्जनाय ।  
 योषासङ्क्रान्तवामाङ्गाय । योषिकृतरमाधवाय ।  
-योषानायकसंप्रीताय । योषिन्मण्डलताण्डवाय ।  
+योषानायकसम्प्रीताय । योषिन्मण्डलताण्डवाय ।  
 यन्त्रोल्लिखितचिन्मूर्तये । यायजूकसमर्चिताय ।  
 यज्ञवाटसभाध्यक्षाय । यामिनीलास्यनिश्चलाय ।  
 याथात्म्यतत्त्वचिन्मात्राय । याथार्ध्यप्रतिभास्वराय नमः । ३००  

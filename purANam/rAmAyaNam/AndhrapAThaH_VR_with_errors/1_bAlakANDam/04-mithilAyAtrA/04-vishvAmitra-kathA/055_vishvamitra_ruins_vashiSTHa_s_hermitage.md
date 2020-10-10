@@ -3,7 +3,6 @@ title: 055 विश्वामित्रास्त्रमोक्षण
 title_english: 055 vishvamitra ruins vashiSTHa s hermitage
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-055-Vishra_Mithrena_Stramokshnam.mp3"></div>
 
 ततस्तानाकुलान् दृष्ट्वा विश्वामित्रास्त्रमोहितान्।  
@@ -18,7 +17,7 @@ title_english: 055 vishvamitra ruins vashiSTHa s hermitage
 दृष्ट्वा निषूदितं सैन्यम् वसिष्ठेन महात्मना ।  
 
 विश्वामित्रसुतानां तु शतं नानाविधायुधम्।  
-अभ्यधावत्सुसंक्रुद्धं वसिष्ठं जपतां वरम् ॥ 1.55.5 ॥   
+अभ्यधावत्सुसङ्क्रुद्धं वसिष्ठं जपतां वरम् ॥ 1.55.5 ॥   
 हुङ्कारेणैव तान् सर्वान् ददाह भगवानृषिः ॥ 1.55.6 ॥   
 ते साश्वरथपादाता वसिष्ठेन महात्मना।  
 भस्मीकृता मुहूर्तेन विश्वामित्रसुतास्तदा ॥ 1.55.7 ॥   

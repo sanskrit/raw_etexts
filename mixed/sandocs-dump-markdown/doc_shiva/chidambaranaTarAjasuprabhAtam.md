@@ -1,21 +1,21 @@
-+++
-"Text title" = "chidambaranaTarAjasuprabhAtam"
-"File name" = "chidambaranaTarAjasuprabhAtam.itx"
-itxtitle = "chidambaranaTarAjasuprabhAtam"
-engtitle = "chidambaranaTarAjasuprabhAtam"
-Category = "shiva, suprabhAta"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "January 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चिदम्बरनटराजसुप्रभातम्"
+---
+Category: shiva, suprabhAta
+File name: chidambaranaTarAjasuprabhAtam.itx
+Language: Sanskrit
+Latest update: January 13, 2018
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: chidambaranaTarAjasuprabhAtam
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: chidambaranaTarAjasuprabhAtam
+itxtitle: chidambaranaTarAjasuprabhAtam
+title: चिदम्बरनटराजसुप्रभातम्
 
-+++
+---
   
  श्रीचिदम्बरनटराजराजसुप्रभातस्तोत्रम्   
   

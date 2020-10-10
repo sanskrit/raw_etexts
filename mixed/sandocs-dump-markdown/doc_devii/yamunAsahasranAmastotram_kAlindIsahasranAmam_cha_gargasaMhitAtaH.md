@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrI yamunA aparanAma kAlindIsahasranAmastotra"
-"File name" = "yamunAsahasranAmastotra.itx"
-itxtitle = "yamunAsahasranAmastotram kAlindIsahasranAmam cha (gargasaMhitAtaH)"
-engtitle = "yamunAsahasranAmastotram"
-Category = "sahasranAma, devii, nadI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, help from Alex"
-"Proofread by" = "DPD, NA, PSAEaswaran"
-Source = "shrI bhagavatIstutimanjarI, Mahaperiaval Trust, Gargasamhita"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "January 1, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनासहस्रनामस्तोत्रम् कालिन्दीसहस्रनामम् च (गर्गसंहितातः)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAma, devii, nadI, stotra, devI
+File name: yamunAsahasranAmastotra.itx
+Language: Sanskrit
+Latest update: January 1, 2016
+Location: doc_devii
+Proofread by: DPD, NA, PSAEaswaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrI bhagavatIstutimanjarI, Mahaperiaval Trust, Gargasamhita
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrI yamunA aparanAma kAlindIsahasranAmastotra
+Texttype: stotra
+Transliterated by: DPD, help from Alex
+engtitle: yamunAsahasranAmastotram
+itxtitle: yamunAsahasranAmastotram kAlindIsahasranAmam cha (gargasaMhitAtaH)
+title: यमुनासहस्रनामस्तोत्रम् कालिन्दीसहस्रनामम् च (गर्गसंहितातः)
 
-+++
+---
   
  श्री यमुना अपरनाम कालिन्दीसहस्रनामस्तोत्रम्   
 गर्गसंहितातः  
@@ -212,9 +212,9 @@ title = "यमुनासहस्रनामस्तोत्रम् क�
 सूर्यकोटिप्रभा सूर्यकन्या सूर्यसमुद्भवा ॥ ५८॥  
   
 कोटिसूर्यप्रतीकाशा सूर्यजा सूर्यनन्दिनी ।  
-संज्ञा संज्ञासुता स्वेच्छा संज्ञामोदप्रदायिनी ॥ ५९॥  
+सञ्ज्ञा सञ्ज्ञासुता स्वेच्छा सञ्ज्ञामोदप्रदायिनी ॥ ५९॥  
   
-संज्ञापुत्री स्फुरच्छाया तपन्ती तापकारिणी ।  
+सञ्ज्ञापुत्री स्फुरच्छाया तपन्ती तापकारिणी ।  
 सावर्ण्यानुभवा वेदी वडवा सौख्यप्रदायिनी ॥ ६०॥  
   
 शनैश्चरानुजा कीला चन्द्रवंशविवर्धिनी ।  
@@ -298,7 +298,7 @@ title = "यमुनासहस्रनामस्तोत्रम् क�
 पुलोमजा शचीन्द्राणी वेदी देववरार्पिता ।  
 वयुनाधारिणी धन्या वायवी वायुवेगगा ॥ ८८॥  
   
-यमानुजा संयमनी संज्ञा छाया स्फुरद्द्युतिः ।  
+यमानुजा संयमनी सञ्ज्ञा छाया स्फुरद्द्युतिः ।  
 रत्नदेवी रत्नवृन्दा तारा तरणिमण्डला ॥ ८९॥  
   
 रुचिः शान्तिः क्षमा शोभा दया दक्षा द्युतिस्त्रपा ।  

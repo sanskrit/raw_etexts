@@ -1,25 +1,25 @@
-+++
-"Text title" = "nArAyaNopaniShat evaM nArAyaNa atharvashIrSha"
-"File name" = "nArAyaNopaniShat.itx"
-itxtitle = "nArAyaNopaniShat vA nArAyaNAtharvashIrSham"
-engtitle = "Narayanopanishat or NarAyana Atharvashirsha"
-Category = "atharvashIrSha, upanishhat, narayana, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-SubDeity = "vishnu"
-Subcategory = "narayana"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail com)"
-Indexextra = "(audio)"
-"Latest update" = "October 21, 2013, August 17, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नारायणोपनिषत् वा नारायणाथर्वशीर्षम्"
+---
+Category: atharvashIrSha, upanishhat, narayana, svara, upanishad
+File name: nArAyaNopaniShat.itx
+Indexextra: (audio)
+Language: Sanskrit
+Latest update: October 21, 2013, August 17, 2019
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: narayana
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: nArAyaNopaniShat evaM nArAyaNa atharvashIrSha
+Texttype: svara
+Transliterated by: Sunder Hattangadi (sunderh at hotmail com)
+engtitle: Narayanopanishat or NarAyana Atharvashirsha
+itxtitle: nArAyaNopaniShat vA nArAyaNAtharvashIrSham
+title: नारायणोपनिषत् वा नारायणाथर्वशीर्षम्
 
-+++
+---
   
  नारायणोपनिषत् अथवा नारायण अथर्वशीर्ष   
   

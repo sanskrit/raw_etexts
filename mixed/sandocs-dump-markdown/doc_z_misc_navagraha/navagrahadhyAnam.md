@@ -1,23 +1,23 @@
-+++
-"Text title" = "navagrahadhyaanam"
-"File name" = "navagrahadhyaanam.itx"
-itxtitle = "navagrahadhyAnam"
-engtitle = "navagrahadhyAnam"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "October 12, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रहध्यानम्"
+---
+Author: Traditional
+Category: navagraha, stotra
+File name: navagrahadhyaanam.itx
+Language: Sanskrit
+Latest update: October 12, 2005
+Location: doc_z_misc_navagraha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: navagrahadhyaanam
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: navagrahadhyAnam
+itxtitle: navagrahadhyAnam
+title: नवग्रहध्यानम्
 
-+++
+---
   
  नवग्रहध्यानम्   
   
@@ -54,7 +54,7 @@ title = "नवग्रहध्यानम्"
   
 अथ सैंहिकेयस्य ध्यानं - वामकेश्वर तन्त्रे  
 शीतांशुमित्रान्तकमीड्यरूपं घोरं च वैडुर्यनिभं विबाहुम् ।  
-त्रैलोक्यरक्षाप्रदंमिष्टदं च राहुं ग्रहेन्द्रं हृदये स्मरामि ॥  
+त्रैलोक्यरक्षाप्रदम्मिष्टदं च राहुं ग्रहेन्द्रं हृदये स्मरामि ॥  
   
 अथ केतोश्च ध्यानं - तन्त्रसागरे  
 लाङ्गुलयुक्तं भयदं जनानां कृष्णाम्बुभृत्सन्निभमेकवीरम् ।  

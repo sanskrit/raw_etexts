@@ -1,25 +1,25 @@
-+++
-"Text title" = "sItAlakShmI stotra"
-"File name" = "sItAlakShmIstotram.itx"
-itxtitle = "sItAlakShmIstotram (puShpA shrIvatsena virachitam)"
-engtitle = "Sita Lakshmi stotra"
-Category = "devii, puShpAshrIvatsan, lakShmI, sItA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sItA"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali, 2016"
-"Latest update" = "December 5, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सीतालक्ष्मीस्तोत्रम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: devii, puShpAshrIvatsan, lakShmI, sItA, devI
+File name: sItAlakShmIstotram.itx
+Language: Sanskrit
+Latest update: December 5, 2017
+Location: doc_devii
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali, 2016
+SubDeity: sItA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sItAlakShmI stotra
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: Sita Lakshmi stotra
+itxtitle: sItAlakShmIstotram (puShpA shrIvatsena virachitam)
+title: सीतालक्ष्मीस्तोत्रम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  श्रीसीतालक्ष्मीस्तोत्रम्   
                  ॐ  

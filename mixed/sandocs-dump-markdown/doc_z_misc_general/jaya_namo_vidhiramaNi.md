@@ -1,23 +1,23 @@
-+++
-"Text title" = "Jaya Namo Vidhiramani"
-"File name" = "jayanamovidhiramaNi.itx"
-itxtitle = "jaya namo vidhiramaNi"
-engtitle = "jaya namo vidhiramaNi"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जय नमो विधिरमणि"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: jayanamovidhiramaNi.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Jaya Namo Vidhiramani
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: jaya namo vidhiramaNi
+itxtitle: jaya namo vidhiramaNi
+title: जय नमो विधिरमणि
 
-+++
+---
   
  जय नमो विधिरमणि   
 जया नमो विधिरमणि भुवनमोहिनि वाणि  

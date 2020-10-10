@@ -1,22 +1,22 @@
-+++
-"Text title" = "vAgvAdinIsahasranAmastotoram"
-"File name" = "vAgvAdinIsahasranAmastotoram.itx"
-itxtitle = "vAgvAdinIsahasranAmastotoram (bhaviShyottarapurANAntargatam)"
-engtitle = "Vagvadini Sahasranama stotoram"
-Category = "sahasranAma, devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "January 30, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाग्वादिनीसहस्रनामस्तोतोरम् (भविष्योत्तरपुराणान्तर्गतम्)"
+---
+Category: sahasranAma, devii, sarasvatI, devI
+File name: vAgvAdinIsahasranAmastotoram.itx
+Language: Sanskrit
+Latest update: January 30, 2018
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vAgvAdinIsahasranAmastotoram
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: Vagvadini Sahasranama stotoram
+itxtitle: vAgvAdinIsahasranAmastotoram (bhaviShyottarapurANAntargatam)
+title: वाग्वादिनीसहस्रनामस्तोतोरम् (भविष्योत्तरपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीवाग्वादिनिसहस्रनामस्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  

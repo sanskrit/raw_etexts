@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivashankarastotra"
-"File name" = "shivashankarastotra.itx"
-itxtitle = "shivashaNkarastotraM vA yamabhayanivAraNastotram"
-engtitle = "shivashankara or yamabhaya nivAraNa stotram"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 31, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवशण्करस्तोत्रं वा यमभयनिवारणस्तोत्रम्"
+---
+Category: shiva, stotra
+File name: shivashankarastotra.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 31, 2019
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivashankarastotra
+Texttype: stotra
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: shivashankara or yamabhaya nivAraNa stotram
+itxtitle: shivashaNkarastotraM vA yamabhayanivAraNastotram
+title: शिवशण्करस्तोत्रं वा यमभयनिवारणस्तोत्रम्
 
-+++
+---
   
  श्रीशिवशङ्कर अथवा यमभय निवारणस्तोत्रम्   
 अतिभीषणकटुभाषणयमकिङ्किरपटली  

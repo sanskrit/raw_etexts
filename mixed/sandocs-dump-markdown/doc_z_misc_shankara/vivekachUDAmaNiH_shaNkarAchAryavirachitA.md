@@ -1,24 +1,24 @@
-+++
-"Text title" = "vivekachUDAmaNiH"
-"File name" = "viveknew.itx"
-itxtitle = "vivekachUDAmaNiH (shaNkarAchAryavirachitA)"
-engtitle = "vivekachUDAmaNiH"
-Category = "shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, Kalyana Krrit kalyanakrrit at gmail.com, PSA Easwaran"
-Description-comments = "Vivekashudamani, Advaita Ashram, (Swami Madhavananda)"
-Indexextra = "(translation 1 2 3, 4, bhAShya, video class, Hindi)"
-"Latest update" = "February 11, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विवेकचूडामणिः (शण्कराचार्यविरचिता)"
+---
+Author: Shankaracharya
+Category: shankarAchArya
+Description-comments: Vivekashudamani, Advaita Ashram, (Swami Madhavananda)
+File name: viveknew.itx
+Indexextra: (translation 1 2 3, 4, bhAShya, video class, Hindi)
+Language: Sanskrit
+Latest update: February 11, 2017
+Location: doc_z_misc_shankara
+Proofread by: NA, Kalyana Krrit kalyanakrrit at gmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: vivekachUDAmaNiH
+Transliterated by: NA
+engtitle: vivekachUDAmaNiH
+itxtitle: vivekachUDAmaNiH (shaNkarAchAryavirachitA)
+title: विवेकचूडामणिः (शण्कराचार्यविरचिता)
 
-+++
+---
   
  विवेकचूडामणिः   
   
@@ -376,7 +376,7 @@ title = "विवेकचूडामणिः (शण्कराचार्
 बुद्ध्याद्यविद्यापि च कामकर्मणी  
     पुर्यष्टकं सूक्ष्मशरीरमाहुः ॥ ९६॥  
   
-इदं शरीरं शृणु सूक्ष्मसंज्ञितं  
+इदं शरीरं शृणु सूक्ष्मसञ्ज्ञितं  
     लिङ्गं त्वपञ्चीकृतभूतसम्भवम् ।  
 सवासनं कर्मफलानुभावकं  
     स्वाज्ञानतोऽनादिरुपाधिरात्मनः ॥ ९७॥  
@@ -685,7 +685,7 @@ title = "विवेकचूडामणिः (शण्कराचार्
   
 ज्ञानेन्द्रियाणि च मनश्च मनोमयः स्यात्  
     कोशो ममाहमिति वस्तुविकल्पहेतुः ।  
-संज्ञादिभेदकलनाकलितो बलीयां-  
+सञ्ज्ञादिभेदकलनाकलितो बलीयां-  
     स्तत्पूर्वकोशमभिपूर्य विजृम्भते यः ॥ १६७॥ अनुपूर्य  
 पञ्चेन्द्रियैः पञ्चभिरेव होतृभिः  
     प्रचीयमानो विषयाज्यधारया ।  
@@ -762,7 +762,7 @@ title = "विवेकचूडामणिः (शण्कराचार्
 विज्ञानमयकोशः स्यात्पुंसः संसारकारणम् ॥ १८४॥  
   
 अनुव्रजच्चित्प्रतिबिम्बशक्तिः  
-    विज्ञानसंज्ञः प्रकृतेर्विकारः ।  
+    विज्ञानसञ्ज्ञः प्रकृतेर्विकारः ।  
 ज्ञानक्रियावानहमित्यजस्रं  
     देहेन्द्रियादिष्वभिमन्यते भृशम् ॥ १८५॥  
   

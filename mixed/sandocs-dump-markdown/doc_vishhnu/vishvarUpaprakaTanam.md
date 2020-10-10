@@ -1,22 +1,22 @@
-+++
-"Text title" = "vishvarUpaprakaTanam"
-"File name" = "vishvarUpaprakaTanam.itx"
-itxtitle = "vishvarUpaprakaTanam"
-engtitle = "vishvarUpaprakaTanam"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "January 3, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वरूपप्रकटनम्"
+---
+Category: vishhnu, krishna
+File name: vishvarUpaprakaTanam.itx
+Language: Sanskrit
+Latest update: January 3, 2019
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vishvarUpaprakaTanam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: vishvarUpaprakaTanam
+itxtitle: vishvarUpaprakaTanam
+title: विश्वरूपप्रकटनम्
 
-+++
+---
   
  विश्वरूपप्रकटनम्   
 सम्पूर्णाकारबोधस्तव खलु गमितो मोक्ष इत्यात्मविद्भिः  

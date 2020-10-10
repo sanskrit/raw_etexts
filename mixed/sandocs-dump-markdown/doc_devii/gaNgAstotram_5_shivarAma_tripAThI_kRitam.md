@@ -1,25 +1,25 @@
-+++
-"Text title" = "Gangastotram 5"
-"File name" = "gangAstotram5.itx"
-itxtitle = "gaNgAstotram 5 (shivarAma tripAThI kRitam)"
-engtitle = "gangAstotram 5"
-Category = "devii, devI, nadI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Shivarama Tripathi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Proofread by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Description/comments" = "Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty"
-Indexextra = "(Scan)"
-"Latest update" = "December 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गास्तोत्रम् ५ (शिवराम त्रिपाठी कृइतम्)"
+---
+Author: Shivarama Tripathi
+Category: devii, devI, nadI
+Description/comments: Ganga Jnana Mahodadhi compiled by Acharya Ramapada Chakravarty
+File name: gangAstotram5.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 7, 2019
+Location: doc_devii
+Proofread by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangastotram 5
+Transliterated by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+engtitle: gangAstotram 5
+itxtitle: gaNgAstotram 5 (shivarAma tripAThI kRitam)
+title: गण्गास्तोत्रम् ५ (शिवराम त्रिपाठी कृइतम्)
 
-+++
+---
   
  गङ्गास्तोत्रम् ५   
 श्रीगणेशाय नमः ।  

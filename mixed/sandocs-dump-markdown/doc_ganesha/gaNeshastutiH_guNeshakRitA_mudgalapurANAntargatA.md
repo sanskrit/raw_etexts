@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ganesha Stuti by Gunesha"
-"File name" = "gaNeshastutiHguNeshakRRitA.itx"
-itxtitle = "gaNeshastutiH guNeshakRitA (mudgalapurANAntargatA)"
-engtitle = "gaNeshastutiH guNeshakRitA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 8"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "गणेशस्तुतिः गुणेशकृइता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 8
+File name: gaNeshastutiHguNeshakRRitA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha Stuti by Gunesha
+Transliterated by: NA
+engtitle: gaNeshastutiH guNeshakRitA
+itxtitle: gaNeshastutiH guNeshakRitA (mudgalapurANAntargatA)
+title: गणेशस्तुतिः गुणेशकृइता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  गणेशस्तुतिः गुणेशकृता   
 श्रीगणेशाय नमः ।  
@@ -68,7 +68,7 @@ title = "गणेशस्तुतिः गुणेशकृइता (म�
 अपारवेशं स्वसुखावभासं सुशान्तयोगेश्वरमानतोऽस्मि ॥ ५६॥  
   
 पदार्थरूपं विविधप्रभेदं विकारयुक्तं परमप्रमेयम् ।  
-बोधात्मकं त्वंपदरूपमेव सुशान्तयोगेश्वरमानतोऽस्मि ॥ ५७॥  
+बोधात्मकं त्वम्पदरूपमेव सुशान्तयोगेश्वरमानतोऽस्मि ॥ ५७॥  
   
 अखण्डमेकात्मकविश्वरूपं विकारहीनं महदप्रमेयम् ।  
 गणेशमेकं हृदि तत्पदस्थं सुशान्तयोगेश्वरमानतोऽस्मि ॥ ५८॥  

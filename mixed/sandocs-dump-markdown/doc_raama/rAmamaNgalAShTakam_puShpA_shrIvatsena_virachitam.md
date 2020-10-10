@@ -1,26 +1,26 @@
-+++
-"Text title" = "rAmamangalAShTakam"
-"File name" = "rAmamangalAShTakam.itx"
-itxtitle = "rAmamaNgalAShTakam (puShpA shrIvatsena virachitam)"
-engtitle = "rAmamangalAShTakam"
-Category = "raama, puShpAshrIvatsan, aShTaka, mangala"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "SriTyagaramaPushpavali 2005/2017"
-Indexextra = "(Tamil-English Translation)"
-Acknowledge-Permission = "Copyright Pushpa Srivatsan"
-"Latest update" = "November 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राममण्गलाष्टकम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Acknowledge-Permission: Copyright Pushpa Srivatsan
+Author: Pushpa Srivatsan
+Category: raama, puShpAshrIvatsan, aShTaka, mangala
+File name: rAmamangalAShTakam.itx
+Indexextra: (Tamil-English Translation)
+Language: Sanskrit
+Latest update: November 25, 2017
+Location: doc_raama
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: SriTyagaramaPushpavali 2005/2017
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmamangalAShTakam
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: rAmamangalAShTakam
+itxtitle: rAmamaNgalAShTakam (puShpA shrIvatsena virachitam)
+title: राममण्गलाष्टकम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  श्रीराममङ्गलाष्टकम्   
                   ॐ  

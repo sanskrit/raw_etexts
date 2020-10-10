@@ -1,23 +1,24 @@
-+++
-"Text title" = "shrIshivanavaratnamAlAstavaH"
-"File name" = "shivanavaratnamAlAstavaH.itx"
-itxtitle = "shivanavaratnamAlAstavaH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "shrIshivanavaratnamAlAstavaH"
-Category = "shiva, nava, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 7, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवनवरत्नमालास्तवः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+Category: shiva, nava, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: shivanavaratnamAlAstavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 7, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shrIshivanavaratnamAlAstavaH
+engtitle: shrIshivanavaratnamAlAstavaH
+itxtitle: shivanavaratnamAlAstavaH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: शिवनवरत्नमालास्तवः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीशिवनवरत्नमालास्तवः   
   

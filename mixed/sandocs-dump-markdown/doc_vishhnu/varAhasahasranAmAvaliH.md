@@ -1,22 +1,22 @@
-+++
-"Text title" = "varAhasahasranAmAvaliH"
-"File name" = "varAhasahasranAmAvaliH.itx"
-itxtitle = "varAhasahasranAmAvaliH"
-engtitle = "varAhasahasranAmAvaliH"
-Category = "vishhnu, sahasranAmAvalI, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वराहसहस्रनामावलिः"
+---
+Category: vishhnu, sahasranAmAvalI, dashAvatAra
+File name: varAhasahasranAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: varAhasahasranAmAvaliH
+engtitle: varAhasahasranAmAvaliH
+itxtitle: varAhasahasranAmAvaliH
+title: वराहसहस्रनामावलिः
 
-+++
+---
   
  श्रीवराहसहस्रनामावलिः   
   

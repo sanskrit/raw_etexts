@@ -1,24 +1,24 @@
-+++
-"Text title" = "parashurAmAShTAvi.nshatinAmastotram"
-"File name" = "parashuraama28.itx"
-itxtitle = "parashurAmAShTAvi.nshatinAmastotram"
-engtitle = "parashurAmAShTAvi.nshatinAmastotram"
-Category = "vishhnu, dashAvatAra, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "January 10, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परशुरामाष्टाविंशतिनामस्तोत्रम्"
+---
+Author: Traditional
+Category: vishhnu, dashAvatAra, stotra, vishnu
+File name: parashuraama28.itx
+Language: Sanskrit
+Latest update: January 10, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: parashurAmAShTAvi.nshatinAmastotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: parashurAmAShTAvi.nshatinAmastotram
+itxtitle: parashurAmAShTAvi.nshatinAmastotram
+title: परशुरामाष्टाविंशतिनामस्तोत्रम्
 
-+++
+---
   
  परशुरामाष्टाविंशतिनामस्तोत्रम्   
   

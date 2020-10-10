@@ -1,22 +1,22 @@
-+++
-"Text title" = "gomatyambAShTakam"
-"File name" = "gomatyambAShTakam.itx"
-itxtitle = "gomatyambAShTakam"
-engtitle = "gomatyambAShTakam"
-Category = "aShTaka, devii, pArvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "January 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोमत्यम्बाष्टकम्"
+---
+Category: aShTaka, devii, pArvatI, devI
+File name: gomatyambAShTakam.itx
+Language: Sanskrit
+Latest update: January 21, 2018
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gomatyambAShTakam
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: gomatyambAShTakam
+itxtitle: gomatyambAShTakam
+title: गोमत्यम्बाष्टकम्
 
-+++
+---
   
  श्रीगोमत्यम्बाष्टकम्   
   

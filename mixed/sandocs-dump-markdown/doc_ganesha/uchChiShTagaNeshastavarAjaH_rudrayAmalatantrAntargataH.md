@@ -1,24 +1,24 @@
-+++
-"Text title" = "uchchhiShTagaNeshastavarAjaH"
-"File name" = "uchchhiShTagaNeshastavarAjaH.itx"
-itxtitle = "uchChiShTagaNeshastavarAjaH (rudrayAmalatantrAntargataH)"
-engtitle = "uchChiShTagaNeshastavarAjaH"
-Category = "stavarAja, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, NA"
-Description-comments = "rudrayaamaletantre haragauriisa.nvaade"
-Indexextra = "(Scan)"
-"Latest update" = "September 06, 2005, May 2, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उच्छिष्टगणेशस्तवराजः (रुद्रयामलतन्त्रान्तर्गतः)"
+---
+Author: Traditional
+Category: stavarAja, ganesha
+Description-comments: rudrayaamaletantre haragauriisa.nvaade
+File name: uchchhiShTagaNeshastavarAjaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 06, 2005, May 2, 2019
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: uchchhiShTagaNeshastavarAjaH
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: uchChiShTagaNeshastavarAjaH
+itxtitle: uchChiShTagaNeshastavarAjaH (rudrayAmalatantrAntargataH)
+title: उच्छिष्टगणेशस्तवराजः (रुद्रयामलतन्त्रान्तर्गतः)
 
-+++
+---
   
  उच्छिष्टगणेशस्तवराजः   
 श्री गणेशाय नमः ।  

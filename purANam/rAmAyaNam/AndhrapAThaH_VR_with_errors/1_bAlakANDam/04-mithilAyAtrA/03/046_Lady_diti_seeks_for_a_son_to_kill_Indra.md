@@ -3,7 +3,6 @@ title: 046 दितिकथा
 title_english: 046 Lady diti seeks for a son to kill Indra
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-046-Dithi_Katha.mp3"></div>
 
 हतेषु तेषु पुत्रेषु दितिः परमदुःखिता।  

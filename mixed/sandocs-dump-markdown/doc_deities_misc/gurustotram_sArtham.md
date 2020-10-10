@@ -1,24 +1,24 @@
-+++
-"Text title" = "gurustotra"
-"File name" = "guru_1.itx"
-itxtitle = "gurustotram (sArtham)"
-engtitle = "gurustotra (with meaning)"
-Category = "deities_misc, gurudev, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mantralaura Weygandt MANTRALAURA at delphi.com)"
-"Proofread by" = "Mantralaura Weygandt MANTRALAURA at delphi.com)"
-Indexextra = "(with English meaning)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुस्तोत्रम् (सार्थम्)"
+---
+Category: deities_misc, gurudev, stotra
+File name: guru_1.itx
+Indexextra: (with English meaning)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_deities_misc
+Proofread by: Mantralaura Weygandt MANTRALAURA at delphi.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurustotra
+Texttype: stotra
+Transliterated by: Mantralaura Weygandt MANTRALAURA at delphi.com)
+engtitle: gurustotra (with meaning)
+itxtitle: gurustotram (sArtham)
+title: गुरुस्तोत्रम् (सार्थम्)
 
-+++
+---
   
  गुरुस्तोत्र सार्थ   
   

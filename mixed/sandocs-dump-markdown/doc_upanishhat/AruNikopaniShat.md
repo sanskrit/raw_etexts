@@ -1,28 +1,28 @@
-+++
-"Text title" = "Arunika Upanishad"
-"File name" = "aruni.itx"
-itxtitle = "AruNikopaniShat"
-engtitle = "Arunika Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "S."
-"Proofread by" = "S."
-Description-comments = "16/108; Sama Veda, Sannyasa Upanishad"
-"Latest update" = "Sept. 24, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आरुणिकोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 16/108; Sama Veda, Sannyasa Upanishad
+File name: aruni.itx
+Language: Sanskrit
+Latest update: Sept. 24, 1999
+Location: doc_upanishhat
+Proofread by: S.
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Arunika Upanishad
+Transliterated by: S.
+engtitle: Arunika Upanishad
+itxtitle: AruNikopaniShat
+title: आरुणिकोपनिषत्
 
-+++
+---
   
  आरुणिकोपनिषत्   
   
 ॥ आरुणिकोपनिषत् ॥  16  
-आरुणिकाख्योपनिषत्ख्यातसंन्यासिनोऽमलाः ।  
+आरुणिकाख्योपनिषत्ख्यातसन्न्यासिनोऽमलाः ।  
 यत्प्रबोधाद्यान्ति मुक्तिं तद्रामब्रह्म मे गतिः ॥  
   
 ॐ आप्यायन्त्विति शान्तिः ॥  
@@ -40,7 +40,7 @@ title = "आरुणिकोपनिषत्"
 गृहस्थो ब्रह्मचारी वा वानप्रस्थो वा उपवीतं भूमावप्सु  
 वा विसृजेत् । लौकिकाग्नीनुदराग्नौ समारोपयेत् ।  
 गायत्रीं च स्ववाचाग्नौ समारोपयेत् । कुटीचरो  
-ब्रह्मचारी कुटुंबं विसृजेत् । पात्रं विसृजेत् ।  
+ब्रह्मचारी कुटुम्बं विसृजेत् । पात्रं विसृजेत् ।  
 पवित्रं विसृजेत् । दण्डाॅंलोकांश्च विसृजेदिति होवाच  
 । अत उर्ध्वममन्त्रवदाचरेत् । ऊर्ध्वगमनं विसृजेत् ।  
 औषधवदशनमाचरेत् । त्रिसन्ध्यादौ स्नानमाचरेत् ।  
@@ -49,8 +49,8 @@ title = "आरुणिकोपनिषत्"
 एदिति ॥ २॥  
   
 खल्वहं ब्रह्मसूचनात्सूत्रं ब्रह्मसूत्रमहमेव  
-विद्वान्त्रिवृत्सूत्रं त्यजेद्विद्वान्य एवं वेद संन्यस्तं मया  
-संन्यस्तं मया संन्यस्तं मयेति त्रिरुक्त्वाभयं  
+विद्वान्त्रिवृत्सूत्रं त्यजेद्विद्वान्य एवं वेद सन्न्यस्तं मया  
+सन्न्यस्तं मया सन्न्यस्तं मयेति त्रिरुक्त्वाभयं  
 सर्वभूतेभ्यो मत्तः सर्वं प्रवर्तते । सखामागोपायोजः  
 सखायोऽसीन्द्रस्य वज्रोऽसि वार्त्रघ्नः शर्म मे भव  
 यत्पापं तन्निवारयेति । अनेन मन्त्रेण कृतं वाइणवं  

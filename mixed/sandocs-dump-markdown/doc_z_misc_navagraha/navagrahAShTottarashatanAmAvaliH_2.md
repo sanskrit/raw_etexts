@@ -1,22 +1,22 @@
-+++
-"Text title" = "Navagraha Ashtottarashatanamavalih (2) 108 Names"
-"File name" = "navagrahAShTottarashatanAmAvaliH2.itx"
-itxtitle = "navagrahAShTottarashatanAmAvaliH 2"
-engtitle = "navagrahAShTottarashatanAmAvaliH 2"
-Category = "navagraha, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Pandit Shri Rama Ramanuja Acharya, srimatham.com"
-"Latest update" = "June 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रहाष्टोत्तरशतनामावलिः २"
+---
+Acknowledge-Permission: Pandit Shri Rama Ramanuja Acharya, srimatham.com
+Category: navagraha, aShTottarashatanAmAvalI, nAmAvalI
+File name: navagrahAShTottarashatanAmAvaliH2.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: June 22, 2019
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Navagraha Ashtottarashatanamavalih (2) 108 Names
+engtitle: navagrahAShTottarashatanAmAvaliH 2
+itxtitle: navagrahAShTottarashatanAmAvaliH 2
+title: नवग्रहाष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  नवग्रहाष्टोत्तरशतनामावलिः २   
 ॐ भानवे नमः । हंसाय । भास्कराय । सुर्याय । सूराय । तमोहराय ।  

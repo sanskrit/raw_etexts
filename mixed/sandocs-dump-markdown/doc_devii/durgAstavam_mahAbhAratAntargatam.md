@@ -1,23 +1,24 @@
-+++
-"Text title" = "durgAstavam mahAbharatAntargatam"
-"File name" = "durgAstutimahAbhArata.itx"
-itxtitle = "durgAstavam (mahAbhAratAntargatam)"
-engtitle = "durgAstavam from Mahabharata"
-Category = "devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ramakrishnan Balasubramanian"
-"Proofread by" = "Ramakrishnan Balasubramanian, N. Balasubramanian bbalu at sify.com, Shankara"
-Indexextra = "(Mahabharata)"
-"Latest update" = "January 22, 2011, June 3, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गास्तवम् (महाभारतान्तर्गतम्)"
+---
+Category: devii, durgA, devI
+File name: durgAstutimahAbhArata.itx
+Indexextra: (Mahabharata)
+Language: Sanskrit
+Latest update: January 22, 2011, June 3, 2018
+Location: doc_devii
+Proofread by: Ramakrishnan Balasubramanian, N. Balasubramanian bbalu at sify.com,
+  Shankara
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAstavam mahAbharatAntargatam
+Transliterated by: Ramakrishnan Balasubramanian
+engtitle: durgAstavam from Mahabharata
+itxtitle: durgAstavam (mahAbhAratAntargatam)
+title: दुर्गास्तवम् (महाभारतान्तर्गतम्)
 
-+++
+---
   
  दुर्गास्तवम् महाभारतान्तर्गतम्   
 विनियोग -  

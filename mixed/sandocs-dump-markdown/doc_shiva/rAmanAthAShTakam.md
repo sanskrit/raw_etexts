@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAmanAthAShTakam"
-"File name" = "rAmanAthAShTakam.itx"
-itxtitle = "rAmanAthAShTakam"
-engtitle = "rAmanAthAShTakam"
-Category = "shiva, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "January 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामनाथाष्टकम्"
+---
+Category: shiva, aShTaka
+File name: rAmanAthAShTakam.itx
+Language: Sanskrit
+Latest update: January 13, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: rAmanAthAShTakam
+Texttype: stotra
+Transliterated by: NA
+engtitle: rAmanAthAShTakam
+itxtitle: rAmanAthAShTakam
+title: रामनाथाष्टकम्
 
-+++
+---
   
  रामनाथाष्टकम्   
   

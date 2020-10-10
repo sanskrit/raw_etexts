@@ -1,24 +1,24 @@
-+++
-"Text title" = "viShNustavarAjaH"
-"File name" = "vishhnustavaaraja.itx"
-itxtitle = "viShNustavarAjaH"
-engtitle = "viShNustavarAjaH"
-Category = "stavarAja, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "kalkipurANa, bhAgavata, bhaviShya puraaNa"
-"Latest update" = "December 28, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तवराजः"
+---
+Author: Traditional
+Category: stavarAja, vishhnu, vishnu
+Description-comments: kalkipurANa, bhAgavata, bhaviShya puraaNa
+File name: vishhnustavaaraja.itx
+Language: Sanskrit
+Latest update: December 28, 2004
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNustavarAjaH
+Transliterated by: WebD
+engtitle: viShNustavarAjaH
+itxtitle: viShNustavarAjaH
+title: विष्णुस्तवराजः
 
-+++
+---
   
  श्रीविष्णुस्तवराजः   
   
@@ -30,7 +30,7 @@ title = "विष्णुस्तवराजः"
 गुम्फन्मणिप्रचयघट्टितराजहंससिञ्जत्सुनूपुरयुतं पदपद्मवृन्दम् ।  
 पीताम्बराञ्चलविलोलचलत्पताकं स्वर्णत्रिवक्रवलयं च हरेः स्मरामि ॥ २॥  
   
-जंघे सुर्पणगलनीलमणिप्रवृद्धशोभास्पदारुणमणिद्युतिचञ्चुमध्ये ।  
+जङ्घे सुर्पणगलनीलमणिप्रवृद्धशोभास्पदारुणमणिद्युतिचञ्चुमध्ये ।  
 आरक्तपादतललम्बनशोभमाने लोकेक्षणोत्सवकरे च हरेः स्मरामि ॥ ३॥  
   
 ते जानुनी मखपतेर्भुजमूलसङ्गरङ्गोत्सवावृततडिद्वसने विचित्रे ।  

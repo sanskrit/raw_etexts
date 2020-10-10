@@ -1,22 +1,22 @@
-+++
-"Text title" = "Halasyeshashtakam"
-"File name" = "hAlAsyeshAShTakam.itx"
-itxtitle = "hAlAsyeshAShTakam"
-engtitle = "hAlAsyeshAShTakam"
-Category = "shiva, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Scan Malayalam)"
-"Latest update" = "December 26, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हालास्येशाष्टकम्"
+---
+Category: shiva, aShTaka
+File name: hAlAsyeshAShTakam.itx
+Indexextra: (Scan Malayalam)
+Language: Sanskrit
+Latest update: December 26, 2019
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Halasyeshashtakam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: hAlAsyeshAShTakam
+itxtitle: hAlAsyeshAShTakam
+title: हालास्येशाष्टकम्
 
-+++
+---
   
  हालास्येशाष्टकम्   
 शैलाधीशसुतासहाय सकलाम्नायान्तवेद्य प्रभो!  

@@ -1,27 +1,27 @@
-+++
-"Text title" = "lalitA chatuHShaShTyupachArasaMgrahaH"
-"File name" = "lalitAchatuHShaShTyupachArasaMgraha.itx"
-itxtitle = "lalitA chatuHShaShTyupachArasaNgrahaH"
-engtitle = "Lalita chatuHShaShTyupachArasaMgrahaH"
-Category = "pUjA, devii, dashamahAvidyA, lalitA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Texttype = "stotra"
-Author = "Brahmasri K. P. Narayana Shastrigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Harsha Ramamurthy harsha_ramamurthy at yahoo.com"
-"Proofread by" = "Harsha Ramamurthy harsha_ramamurthy at yahoo.com"
-"Latest update" = "July 7, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललिता चतुःषष्ट्युपचारसण्ग्रहः"
+---
+Author: Brahmasri K. P. Narayana Shastrigal
+Category: pUjA, devii, dashamahAvidyA, lalitA, stotra, devI
+File name: lalitAchatuHShaShTyupachArasaMgraha.itx
+Language: Sanskrit
+Latest update: July 7, 2004
+Location: doc_devii
+Proofread by: Harsha Ramamurthy harsha_ramamurthy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitA chatuHShaShTyupachArasaMgrahaH
+Texttype: stotra
+Transliterated by: Harsha Ramamurthy harsha_ramamurthy at yahoo.com
+engtitle: Lalita chatuHShaShTyupachArasaMgrahaH
+itxtitle: lalitA chatuHShaShTyupachArasaNgrahaH
+title: ललिता चतुःषष्ट्युपचारसण्ग्रहः
 
-+++
+---
   
- श्रीललिता चतुःषष्ट्युपचारसंग्रहः   
+ श्रीललिता चतुःषष्ट्युपचारसङ्ग्रहः   
   
   
  Five, ten, sixteen and twenty-four Upacharas are generally offered  
@@ -118,7 +118,7 @@ supremely beautiful hymn by at least mentioning his name.
 अर्पयामि जगन्मातः पादयोश्चाङ्गुलीयकम् ।  
 पाशं वामोर्ध्वहस्ते ते दक्षहस्ते तथाङ्कुशम् ॥ १५॥  
   
-अन्यस्मिन्वामहस्ते च तथा पुंड्रेक्षुचापकम् ।  
+अन्यस्मिन्वामहस्ते च तथा पुण्ड्रेक्षुचापकम् ।  
 पुष्पबाणांश्च दक्षाधः पाणौ धारय सुन्दरि ॥ १६॥  
   
 अर्पयामि च माणिक्यपादुके पादयोः शिवे ।  
@@ -135,7 +135,7 @@ supremely beautiful hymn by at least mentioning his name.
   
 भक्तिमत्कल्पलितिकां कृतीस्यां त्वां स्मरन् कदा ।  
 मङ्गलारार्तिकं छत्रं चामरं दर्पणं तथा ।  
-ताळवृंतं गन्धपुष्पधूपदीपांश्च तेऽर्पये ॥ २१॥  
+ताळवृन्तं गन्धपुष्पधूपदीपांश्च तेऽर्पये ॥ २१॥  
   
 श्रीकामेश्वरि तप्तहाटककृतैः स्थालीसहस्रैर्भृतम्  
 दिव्यान्नं घृतसूपशाकभरितं चित्रान्नभेदैर्युतम् ।  

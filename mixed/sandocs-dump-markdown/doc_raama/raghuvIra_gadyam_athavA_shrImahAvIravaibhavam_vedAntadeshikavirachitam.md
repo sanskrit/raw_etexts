@@ -1,25 +1,25 @@
-+++
-"Text title" = "raghuviira gadyaM"
-"File name" = "traghuvira.itx"
-itxtitle = "raghuvIra gadyam athavA shrImahAvIravaibhavam (vedAntadeshikavirachitam)"
-engtitle = "raghuvIra gadyam"
-Category = "raama, vedAnta-deshika"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "pramukha"
-Author = "Shri vedAnta deshika"
-Language = "Sanskrit"
-Subject = "kavya"
-"Transliterated by" = "T. R. Chari trchari at hotmail.com"
-"Latest update" = "September 13, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रघुवीर गद्यम् अथवा श्रीमहावीरवैभवम् (वेदान्तदेशिकविरचितम्)"
+---
+Author: Shri vedAnta deshika
+Category: raama, vedAnta-deshika
+File name: traghuvira.itx
+Language: Sanskrit
+Latest update: September 13, 2019
+Location: doc_raama
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: kavya
+Sublocation: raama
+Text title: raghuviira gadyaM
+Texttype: pramukha
+Transliterated by: T. R. Chari trchari at hotmail.com
+engtitle: raghuvIra gadyam
+itxtitle: raghuvIra gadyam athavA shrImahAvIravaibhavam (vedAntadeshikavirachitam)
+title: रघुवीर गद्यम् अथवा श्रीमहावीरवैभवम् (वेदान्तदेशिकविरचितम्)
 
-+++
+---
   
  रघुवीर गद्यं अथवा श्रीमहावीरवैभवम्   
-जयत्याश्रित संत्रास ध्वान्त विध्वंसनोदयः ।  
+जयत्याश्रित सन्त्रास ध्वान्त विध्वंसनोदयः ।  
 प्रभावान् सीतया देव्या परम-व्योम भास्करः ॥  
   
 जय जय महावीर !  
@@ -66,7 +66,7 @@ title = "रघुवीर गद्यम् अथवा श्रीमह�
 दण्डका तपोवन जङ्गम पारिजात !  
 विराध हरिण शार्दूल !  
 विलुलित बहुफल मख कलम रजनि-चर मृग मृगयानम्भ  
-संभृतचीरभृदनुरोध !  
+सम्भृतचीरभृदनुरोध !  
 त्रिशिरः शिरस्त्रितय तिमिर निरास वासर-कर !  
 दूषण जलनिधि शोशाण तोषित ऋषि-गण घोषित विजय घोषण !  
 खरतर खर तरु खण्डन चण्ड पवन !  

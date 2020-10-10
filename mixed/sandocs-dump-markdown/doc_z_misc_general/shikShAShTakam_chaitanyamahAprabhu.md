@@ -1,23 +1,23 @@
-+++
-"Text title" = "shikshaashhTakaM"
-"File name" = "shiksha.itx"
-itxtitle = "shikShAShTakam (chaitanyamahAprabhu)"
-engtitle = "shikShAShTakam (chaitanyamahAprabhu)"
-Category = "aShTaka, misc, advice"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "advice"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ram Gopalaswamy tg at etsd.ml.com"
-"Proofread by" = "Ram Gopalaswamy tg at etsd.ml.com"
-"Translated by" = "A.C.Bhaktivedanta Swami Prabhupada"
-"Latest update" = "January 29, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिक्षाष्टकम् (चैतन्यमहाप्रभु)"
+---
+Category: aShTaka, misc, advice
+File name: shiksha.itx
+Language: Sanskrit
+Latest update: January 29, 1998
+Location: doc_z_misc_general
+Proofread by: Ram Gopalaswamy tg at etsd.ml.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: shikshaashhTakaM
+Texttype: advice
+Translated by: A.C.Bhaktivedanta Swami Prabhupada
+Transliterated by: Ram Gopalaswamy tg at etsd.ml.com
+engtitle: shikShAShTakam (chaitanyamahAprabhu)
+itxtitle: shikShAShTakam (chaitanyamahAprabhu)
+title: शिक्षाष्टकम् (चैतन्यमहाप्रभु)
 
-+++
+---
   
  शिक्षाष्टक (चैतन्यमहाप्रभु)   
   
@@ -45,7 +45,7 @@ translated herein.
    चेतो-दर्पण-मार्जनं भव-महा-दावाग्नि-निर्वापणं  
       श्रेयः-कैरव-चन्द्रिका-वितरणं विद्या-वधू-जीवनम् ।  
    आनन्द-अम्बुधि-वर्धनं प्रति-पदं पूर्णामृतास्वादनं  
-      सर्वात्मस्नपनं परं विजयते श्रीकृष्ण संकीर्तनम् ॥ १॥  
+      सर्वात्मस्नपनं परं विजयते श्रीकृष्ण सङ्कीर्तनम् ॥ १॥  
   
   
   
@@ -99,10 +99,10 @@ beautiful women, nor do I want any number of followers. I only want Your
 causeless devotional service birth after birth.  
   
   
-                अयि नन्द-तनूज किंकरम्  
+                अयि नन्द-तनूज किङ्करम्  
                   पतितं मां विषमे-भव-अम्बुधौ ।  
-                कृपया तव पाद-पंकज-  
-                  स्थित धूलि-सदृशं विचिंतय ॥ ५॥  
+                कृपया तव पाद-पङ्कज-  
+                  स्थित धूलि-सदृशं विचिन्तय ॥ ५॥  
   
   
   

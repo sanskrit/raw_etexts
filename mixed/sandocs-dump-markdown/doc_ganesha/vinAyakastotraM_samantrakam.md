@@ -1,34 +1,35 @@
-+++
-"Text title" = "Vinayaka Stotram samantrakam"
-"File name" = "vinAyakastotramsamantrakam.itx"
-itxtitle = "vinAyakastotraM samantrakam"
-engtitle = "vinAyakastotram samantrakam"
-Category = "ganesha, stotra, vAsudevAnanda-sarasvatI"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Vasudevananda Saraswati Tembe Swami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sumit"
-"Proofread by" = "Sumit"
-Description-comments = "The author-stotra names, and datta-ekadanta-shiva gAyatris are stringed in vertical manner"
-"Latest update" = "June 1, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विनायकस्तोत्रं समन्त्रकम्"
+---
+Author: Vasudevananda Saraswati Tembe Swami
+Category: ganesha, stotra, vAsudevAnanda-sarasvatI
+Description-comments: The author-stotra names, and datta-ekadanta-shiva gAyatris are
+  stringed in vertical manner
+File name: vinAyakastotramsamantrakam.itx
+Language: Sanskrit
+Latest update: June 1, 2017
+Location: doc_ganesha
+Proofread by: Sumit
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Vinayaka Stotram samantrakam
+Texttype: stotra
+Transliterated by: Sumit
+engtitle: vinAyakastotram samantrakam
+itxtitle: vinAyakastotraM samantrakam
+title: विनायकस्तोत्रं समन्त्रकम्
 
-+++
+---
   
  विनायकस्तोत्रम् समन्त्रकम्   
 वा रणास्यो         द रघ्नोर्थ्य         ए कदं         त श्शिवात्मकः  
 सु शर्मकृ         त्ता रकोर्च्यः     क विस्त     त्पु रुषप्रियः   
 दे वः पवि         त्रे क्षणोर्द्यो         दं ती चा     रु स्त्रिलोचना  
 वा ग्मीशो मा     या तीतात्मा     ता पशो     षा ख्य आखुगः   
-न दीवंद्यो         य मीशानो         य शस्वी    य शआस्पदः  
+न दीवन्द्यो         य मीशानो         य शस्वी    य शआस्पदः  
 द र्शनीयो         वि घ्नराजो         वि घ्नहा     वि घ्नकृद्विराट्स  
 भ्यो हृतप्         द्म निलयो          द्म रस         द्म विहापकः  
-र क्तङ्गोर्को         हे ममाली         हे रम्बो     हे मंदष्ट्रक  
+र क्तङ्गोर्को         हे ममाली         हे रम्बो     हे मन्दष्ट्रक  
 स्व राट्प्रभा         अ जोऽनन्तो     व रेण्यो     म तिमान् गुणी  
 ती र्थकीर्तिर्     व रकरः            क्र त्वीशो     हा पितासुरः  
 कृ पाकरो         धू म्रकेतुस्        तुं दिलो        दे ववल्लभः  

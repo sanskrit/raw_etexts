@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Kalabhairava Ashtottarashata Namavali"
-"File name" = "kAlabhairavAShTottarashatanAmAvaliH.itx"
-itxtitle = "kAlabhairavAShTottarashatanAmAvaliH"
-engtitle = "kAlabhairavAShTottarashatanAmAvaliH"
-Category = "shiva, aShTottarashatanAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, Psa Easwaran psaeaswaran at gmail.com"
-"Latest update" = "February 22, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालभैरवाष्टोत्तरशतनामावलिः"
+---
+Category: shiva, aShTottarashatanAmAvalI
+File name: kAlabhairavAShTottarashatanAmAvaliH.itx
+Language: Sanskrit
+Latest update: February 22, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan Iyer, Psa Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Kalabhairava Ashtottarashata Namavali
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: kAlabhairavAShTottarashatanAmAvaliH
+itxtitle: kAlabhairavAShTottarashatanAmAvaliH
+title: कालभैरवाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीकालभैरवाष्टोत्तरशतनामावलिः   
 ॐ श्रीगणेशाय नमः ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Lalita Kavacham from nAradapurANa"
-"File name" = "lalitAkavachamnAradapurANa.itx"
-itxtitle = "lalitAkavacham (nAradapurANAntargatam)"
-engtitle = "lalitAkavacham"
-Category = "kavacha, devii, dashamahAvidyA, lalitA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Radhe Shyam Tiware"
-"Proofread by" = "Rashmi Sharma, PSA Easwaran psaeaswaran at gmail.com"
-Source = "bRihannAradIyapurANa pUrvabhAge adhyAya 89 v. 23-38"
-"Latest update" = "May 29, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललिताकवचम् (नारदपुराणान्तर्गतम्)"
+---
+Category: kavacha, devii, dashamahAvidyA, lalitA, devI
+File name: lalitAkavachamnAradapurANa.itx
+Language: Sanskrit
+Latest update: May 29, 2015
+Location: doc_devii
+Proofread by: Rashmi Sharma, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: bRihannAradIyapurANa pUrvabhAge adhyAya 89 v. 23-38
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Lalita Kavacham from nAradapurANa
+Transliterated by: Radhe Shyam Tiware
+engtitle: lalitAkavacham
+itxtitle: lalitAkavacham (nAradapurANAntargatam)
+title: ललिताकवचम् (नारदपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीललिताकवचम्   
 । नारदपुराणान्तर्गते ।  

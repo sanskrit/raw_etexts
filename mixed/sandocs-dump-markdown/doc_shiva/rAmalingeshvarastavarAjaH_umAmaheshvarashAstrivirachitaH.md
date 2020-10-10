@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Ramalingeshvara Stavaraja"
-"File name" = "rAmalingeshvarastavarAjaH.itx"
-itxtitle = "rAmalingeshvarastavarAjaH (umAmaheshvarashAstrivirachitaH)"
-engtitle = "rAmalingeshvarastavarAjaH"
-Category = "shiva, stavarAja"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "March 17, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामलिङ्गेश्वरस्तवराजः (उमामहेश्वरशास्त्रिविरचितः)"
+---
+Category: shiva, stavarAja
+File name: rAmalingeshvarastavarAjaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 17, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Ramalingeshvara Stavaraja
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: rAmalingeshvarastavarAjaH
+itxtitle: rAmalingeshvarastavarAjaH (umAmaheshvarashAstrivirachitaH)
+title: रामलिङ्गेश्वरस्तवराजः (उमामहेश्वरशास्त्रिविरचितः)
 
-+++
+---
   
  श्रीरामलिङ्गेश्वरस्तवराजः   
 विद्वत्कविसार्वभौमपुल्यौमामहेश्वरशास्त्रिविरचितः ।  
@@ -89,7 +89,7 @@ title = "रामलिङ्गेश्वरस्तवराजः (उम
 पार्वत्यासहितोनिजार्धवपुषासूर्यादिभिस्स्वैःपरी-  
      वारैर्देवगणैर्धृतेतरनिजाभिख्यस्स्वयन्नोऽवतात् ॥ १४॥  
   
-शैवक्षेत्रवरेषुपञ्चसुपवित्रारामसंज्ञेषुय-  
+शैवक्षेत्रवरेषुपञ्चसुपवित्रारामसञ्ज्ञेषुय-  
      न्मूर्धन्यङ्कथितंशिवस्स्वयमवातारीज्जटाजूटधृत् ।  
 लिङ्गाकारतयासितेनवपुषास्वीयेनसाक्षाज्जग-  
      द्रक्षायैनिजपार्वतीदयितयागोदाऽऽख्यगङ्गान्तिके ॥ १५॥  
@@ -518,7 +518,7 @@ title = "रामलिङ्गेश्वरस्तवराजः (उम
 आनन्दस्सहजस्फुरेद्धृदि न तं लिम्पेत्तु बाह्यं सुखं  
      दुःखं वा विषयागतं बधिरजात्यन्धादिवच्छङ्कर ॥ १००॥  
   
-विद्या सद्गुरुसंप्रसादसमनुप्राप्ता विवेकं दिशे-  
+विद्या सद्गुरुसम्प्रसादसमनुप्राप्ता विवेकं दिशे-  
      द्धर्मो निष्फलकामनस्सुविहितस्तं वर्धयेच्चेतसः ।  
 शुद्धिं संविदधच्छमाद्युपहितामन्तर्बहिः कल्मषे  
      निर्णुद्येश्वर निर्मलां त्वयि दृढां भक्तिं दिशेत्तारिकाम् ॥ १०१॥  
@@ -650,7 +650,7 @@ title = "रामलिङ्गेश्वरस्तवराजः (उम
 ते त्वामत्र च जन्मनीश्वर भवत्पादारविन्दाश्रयाः  
      प्राग्जन्मानुगतात्मसंस्कृतिबलादाराध्नुवन्ति प्रभो! ।  
 धन्या भुक्तिमिहाप्यमुत्र विविधामासाद्य मुक्तिं जना  
-     अन्ते प्राप्नुयुरीश भक्तिबलसंप्राप्तात्मबोधोदयात् ॥ १२७॥  
+     अन्ते प्राप्नुयुरीश भक्तिबलसम्प्राप्तात्मबोधोदयात् ॥ १२७॥  
   
 ये च त्वत्पदपद्मभक्तिविमुखास्संसारसेवारता  
      धर्मे मुक्तिपथं विहाय गिरिजानाथार्थकामाश्रयाः ।  

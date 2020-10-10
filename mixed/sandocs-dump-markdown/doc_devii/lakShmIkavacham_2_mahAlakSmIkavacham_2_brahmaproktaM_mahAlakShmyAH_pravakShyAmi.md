@@ -1,24 +1,24 @@
-+++
-"Text title" = "laxmI kavacham 2 brahmastotram"
-"File name" = "laxmikavacham2.itx"
-itxtitle = "lakShmIkavacham 2 mahAlakSmIkavacham 2 (brahmaproktaM mahAlakShmyAH pravakShyAmi)"
-engtitle = "ShrI Laxmi Kavacham 2"
-Category = "kavacha, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "shukaM prati brahmovaacha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "K S Ramachndran"
-"Proofread by" = "K S Ramachndran"
-Description-comments = "Encoded from DevIstotraratnAkaram in Telugu script"
-"Latest update" = "July 10, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीकवचम् २ महालक्ष्मीकवचम् २ (ब्रह्मप्रोक्तं महालक्ष्म्याः प्रवक्ष्यामि)"
+---
+Author: shukaM prati brahmovaacha
+Category: kavacha, devii, lakShmI, devI
+Description-comments: Encoded from DevIstotraratnAkaram in Telugu script
+File name: laxmikavacham2.itx
+Language: Sanskrit
+Latest update: July 10, 2009
+Location: doc_devii
+Proofread by: K S Ramachndran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: laxmI kavacham 2 brahmastotram
+Transliterated by: K S Ramachndran
+engtitle: ShrI Laxmi Kavacham 2
+itxtitle: lakShmIkavacham 2 mahAlakSmIkavacham 2 (brahmaproktaM mahAlakShmyAH pravakShyAmi)
+title: लक्ष्मीकवचम् २ महालक्ष्मीकवचम् २ (ब्रह्मप्रोक्तं महालक्ष्म्याः प्रवक्ष्यामि)
 
-+++
+---
   
  श्रीलक्ष्मीकवचम् २   
 शुकं प्रति ब्रह्मोवाच  
@@ -60,10 +60,10 @@ Head-to-Toe description of Shri Laxmi
 कमले च सुपत्राढ्ये ह्यभयं दधतीं वरम् ।  
 रोमराजिकलाचारुभुग्ननाभितलोदरीम् ॥ १२॥  
   
-पत्तवस्त्रसमुद्भासिसुनितंबादिलक्षणाम् ।  
+पत्तवस्त्रसमुद्भासिसुनितम्बादिलक्षणाम् ।  
 काञ्चनस्तम्भविभ्राजद्वरजानूरुशोभिताम् ॥ १३॥  
   
-स्मरकाह्लिकागर्वहारिजंभां हरिप्रियाम् ।  
+स्मरकाह्लिकागर्वहारिजम्भां हरिप्रियाम् ।  
 कमठीपृष्ठसदृशपादाब्जां चन्द्रसन्निभाम् ॥ १४॥  
   
 पङ्कजोदरलावण्यसुन्दराङ्घ्रितलां श्रियम् ।  
@@ -73,20 +73,20 @@ Head-to-Toe description of Shri Laxmi
 नित्यं कारुण्यललितां कस्तूरीलेपिताङ्गिकाम् ॥ १६॥  
   
 सर्वमन्त्रमयां लक्ष्मीं श्रुतिशास्त्रस्वरूपिणीम् ।  
-परब्रह्ममयां देवीं पद्मनाभकुटुंबिनीम् ।  
+परब्रह्ममयां देवीं पद्मनाभकुटुम्बिनीम् ।  
 एवं ध्यात्वा महालक्ष्मीं पठेत् तत्कवचं परम् ॥ १७॥  
   
 ध्यानम् ।  
-एकं न्यंच्यनतिक्षमं ममपरं चाकुंच्यपदांबुजं  
+एकं न्यञ्च्यनतिक्षमं ममपरं चाकुञ्च्यपदाम्बुजं  
 मध्ये विष्टरपुण्डरीकमभयं विन्यस्तहस्ताम्बुजम् ।  
-त्वां पश्येम निषेदुषीमनुकलंकारुण्यकूलंकष-  
+त्वां पश्येम निषेदुषीमनुकलङ्कारुण्यकूलङ्कष-  
 स्फारापाङ्गतरङ्गमम्ब मधुरं मुग्धं मुखं बिभ्रतीम् ॥ १८॥  
   
 अथ कवचम् ।  
 महालक्ष्मीः शिरः पातु ललाटं मम पङ्कजा ।  
 कर्णे रक्षेद्रमा पातु नयने नलिनालया ॥ १९॥  
   
-नासिकामवतादंबा वाचं वाग्रूपिणी मम ।  
+नासिकामवतादम्बा वाचं वाग्रूपिणी मम ।  
 दन्तानवतु जिह्वां श्रीरधरोष्ठं हरिप्रिया ॥ २०॥  
   
 चुबुकं पातु वरदा गलं गन्धर्वसेविता ।  
@@ -118,7 +118,7 @@ Head-to-Toe description of Shri Laxmi
 तद्गृहे न भवेद्ब्रह्मन् दारिद्र्यदुरितादिकम् ॥ २९॥  
   
 नाग्निना दह्यते गेहं न चोराद्यैश्च पीड्यते ।  
-भूतप्रेतपिशाचाद्याः संत्रस्ता यान्ति दूरतः ॥ ३०॥  
+भूतप्रेतपिशाचाद्याः सन्त्रस्ता यान्ति दूरतः ॥ ३०॥  
   
 लिखित्वा स्थापयेद्यत्र तत्र सिद्धिर्भवेत् ध्रुवम् ।  
 नापमृत्युमवाप्नोति देहान्ते मुक्तिभाग्भवेत् ॥ ३१॥  

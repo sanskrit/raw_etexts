@@ -1,24 +1,25 @@
-+++
-"Text title" = "ambAShTakam"
-"File name" = "ambAShTakam.itx"
-itxtitle = "ambAShTakam athavA navaratnamanjarI (shaNkarAchAryavirachitam, kAlidAsavirachitam)"
-engtitle = "ambAShTakam"
-Category = "devii, shankarAchArya, pArvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Usha Rani Sanka usharani.sanka at gmail.coM, Sunder Hattangadi"
-"Proofread by" = "Usha Rani Sanka, Sunder Hattangadi, PSA Easwaran"
-"Description/comments" = "This is also attributed to Kalidasa or Vivekananda by some. It is difficult to prove the authorship."
-Indexextra = "(Telugu)"
-"Latest update" = "December 23, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अम्बाष्टकम् अथवा नवरत्नमञ्जरी (शण्कराचार्यविरचितम्, कालिदासविरचितम्)"
+---
+Category: devii, shankarAchArya, pArvatI, devI
+Description/comments: This is also attributed to Kalidasa or Vivekananda by some.
+  It is difficult to prove the authorship.
+File name: ambAShTakam.itx
+Indexextra: (Telugu)
+Language: Sanskrit
+Latest update: December 23, 2018
+Location: doc_devii
+Proofread by: Usha Rani Sanka, Sunder Hattangadi, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ambAShTakam
+Transliterated by: Usha Rani Sanka usharani.sanka at gmail.coM, Sunder Hattangadi
+engtitle: ambAShTakam
+itxtitle: ambAShTakam athavA navaratnamanjarI (shaNkarAchAryavirachitam, kAlidAsavirachitam)
+title: अम्बाष्टकम् अथवा नवरत्नमञ्जरी (शण्कराचार्यविरचितम्, कालिदासविरचितम्)
 
-+++
+---
   
  अम्बाष्टकम् अथवा नवरत्नमञ्जरी   
 चेटीभवन्निखिलखेटीकदम्बतरुवाटीषु नाकपटली-  var  वनवाटीषु  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 5"
-"File name" = "natya05.itx"
-itxtitle = "nATyashAstram adhyAyaH 05"
-engtitle = "Natya Shastra Chapter 5"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture"
-"Transliterated by" = "dpadmakar at hotmail.com"
-"Proofread by" = "dpadmakar at hotmail.com"
-"Latest update" = "May 24, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः ०५"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya05.itx
+Language: Sanskrit
+Latest update: May 24, 2001
+Location: doc_z_misc_major_works
+Proofread by: dpadmakar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 5
+Texttype: pramukha
+Transliterated by: dpadmakar at hotmail.com
+engtitle: Natya Shastra Chapter 5
+itxtitle: nATyashAstram adhyAyaH 05
+title: नाट्यशास्त्रम् अध्यायः ०५
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः ५   
   
@@ -83,7 +83,7 @@ title = "नाट्यशास्त्रम् अध्यायः ०५
 वाद्यवृत्तिविभागार्थं वक्त्रपाणिर्विधीयते ।  
 तन्त्र्योजःकरणार्थं तु भवेच्च परिघट्टना ॥ १९॥  
   
-तथा पाणिविभागार्थं भवेत्संघोटनाविधिः ।  
+तथा पाणिविभागार्थं भवेत्सङ्घोटनाविधिः ।  
 तन्त्रीभाण्डसमायोगान्मार्गासारितमिष्यते ॥ २०॥  
   
 कलापातविभागार्थं भवेदासारितक्रिया ।  
@@ -97,7 +97,7 @@ title = "नाट्यशास्त्रम् अध्यायः ०५
 वन्दनानि प्रकुर्वन्ति तस्माच्च परिवर्तनम् ॥ २३॥  
   
 आशीर्वचनसंयुक्ता नित्यं यस्मात्प्रयुज्यते ।  
-देवद्विजनृपादीनां तस्मान्नान्दीति संज्ञिता ॥ २४॥  
+देवद्विजनृपादीनां तस्मान्नान्दीति सञ्ज्ञिता ॥ २४॥  
   
 अत्र शुष्काक्षरैरेव ह्यवकृष्टा ध्रुवा यतः ।  
 तस्माच्छुष्कावकृष्टेयं जर्जरश्लोकदर्शिता ॥ २५॥  
@@ -452,7 +452,7 @@ title = "नाट्यशास्त्रम् अध्यायः ०५
 चतुरश्रो द्विजश्रेष्ठास्त्र्यश्रं चापि निबोधत ॥ १३७॥  
   
 अयमेव प्रयोगः स्यादङ्गान्येतानि चैव हि ।  
-तालप्रमाणं संक्षिप्तं केवलं तु विशेषकृत् ॥ १३८॥  
+तालप्रमाणं सङ्क्षिप्तं केवलं तु विशेषकृत् ॥ १३८॥  
   
 शम्या तु द्विकला कार्या तालो ह्येककलस्तथा  ।  
 पुनश्चैककला शम्या सन्निपातः कलाद्वयम् ॥ १३९॥  
@@ -464,10 +464,10 @@ title = "नाट्यशास्त्रम् अध्यायः ०५
 यस्यास्तु जागते पादे सा त्र्यश्रोत्थापिनी ध्रुवा ॥ १४१॥  
   
 वाद्यं गतिप्रचारश्च ध्रुवा तालस्तथैव च ।  
-संक्षिप्तान्येव कार्याणि त्र्यश्रे नृत्तप्रवेदिभिः ॥ १४२॥  
+सङ्क्षिप्तान्येव कार्याणि त्र्यश्रे नृत्तप्रवेदिभिः ॥ १४२॥  
   
 वाद्यगीतप्रमाणेन कुर्यादङ्गविचेष्टितम् ।  
-विस्तीर्णमथ संक्षिप्तं द्विप्रमाणविनिर्मितम् ॥ १४३॥  
+विस्तीर्णमथ सङ्क्षिप्तं द्विप्रमाणविनिर्मितम् ॥ १४३॥  
   
 हस्तपादप्रचारस्तु द्विकलः परिकीर्तितः ।  
 चतुरश्रे परिक्रान्ते पाताः स्युः षोडशैव तु ॥ १४४॥  

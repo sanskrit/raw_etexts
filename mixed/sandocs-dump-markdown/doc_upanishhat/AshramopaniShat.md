@@ -1,22 +1,22 @@
-+++
-"Text title" = "Ashrama Upanishad"
-"File name" = "AshramopaniShat.itx"
-itxtitle = "AshramopaniShat"
-engtitle = "AshramopaniShat"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Atharva Veda upanishad"
-"Latest update" = "March 21, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आश्रमोपनिषत्"
+---
+Category: upanishhat, upanishad
+Description/comments: Atharva Veda upanishad
+File name: AshramopaniShat.itx
+Language: Sanskrit
+Latest update: March 21, 2015
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: Ashrama Upanishad
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: AshramopaniShat
+itxtitle: AshramopaniShat
+title: आश्रमोपनिषत्
 
-+++
+---
   
  आश्रमोपनिषत्   
 सर्वाश्रमाः समभवन् यस्मात्सोऽयं जनार्दनः ।  

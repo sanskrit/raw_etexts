@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrii mantra raaja pada stotram"
-"File name" = "padastotram.itx"
-itxtitle = "mantrarAjapadastotram"
-engtitle = "mantrarAjapada stotram"
-Category = "vishhnu, vishnu_misc, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vijayaraghavan Bashyam"
-"Proofread by" = "Vijayaraghavan Bashyam"
-"Latest update" = "January 21, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मन्त्रराजपदस्तोत्रम्"
+---
+Author: Traditional
+Category: vishhnu, vishnu_misc, stotra, vishnu
+File name: padastotram.itx
+Language: Sanskrit
+Latest update: January 21, 2005
+Location: doc_vishhnu
+Proofread by: Vijayaraghavan Bashyam
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrii mantra raaja pada stotram
+Texttype: stotra
+Transliterated by: Vijayaraghavan Bashyam
+engtitle: mantrarAjapada stotram
+itxtitle: mantrarAjapadastotram
+title: मन्त्रराजपदस्तोत्रम्
 
-+++
+---
   
  श्रीमन्त्रराजपदस्तोत्रम्   
   

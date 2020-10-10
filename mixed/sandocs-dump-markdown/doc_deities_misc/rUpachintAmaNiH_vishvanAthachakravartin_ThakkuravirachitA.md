@@ -1,25 +1,26 @@
-+++
-"Text title" = "rUpachintAmaNiH"
-"File name" = "rUpachintAmaNiH.itx"
-itxtitle = "rUpachintAmaNiH (vishvanAthachakravartin ThakkuravirachitA)"
-engtitle = "rUpachintAmaNiH by vishvanAthachakravartin"
-Category = "deities_misc, gurudeva, vishvanAthachakravartin, stavAmRRitalaharI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रूपचिन्तामणिः (विश्वनाथचक्रवर्तिन् ठक्कुरविरचिता)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: deities_misc, gurudeva, vishvanAthachakravartin, stavAmRRitalaharI
+File name: rUpachintAmaNiH.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_deities_misc
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: rUpachintAmaNiH
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: rUpachintAmaNiH by vishvanAthachakravartin
+itxtitle: rUpachintAmaNiH (vishvanAthachakravartin ThakkuravirachitA)
+title: रूपचिन्तामणिः (विश्वनाथचक्रवर्तिन् ठक्कुरविरचिता)
 
-+++
+---
   
  श्रीरूपचिन्तामणिः   
 छत्रं शक्तियवाङ्कुशं पविचतुर्जम्बूफलं कुण्डलं  

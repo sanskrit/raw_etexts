@@ -1,26 +1,26 @@
-+++
-"Text title" = "kaupIna pa.nchakaM (sha.nkarAchArya)"
-"File name" = "kaupiina5.itx"
-itxtitle = "kaupInapanchakam athavA yatipaNchakam (sArtham, shaNkarAchAryakRitam)"
-engtitle = "kaupIna pa.nchakam (sha.nkarAchArya)"
-Category = "panchaka, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. P. Narayanaswami swami at math.mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at math.mun.ca"
-Indexextra = "(Hindi)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कौपीनपञ्चकम् अथवा यतिपण्चकम् (सार्थम्, शण्कराचार्यकृइतम्)"
+---
+Category: panchaka, shankarAchArya
+File name: kaupiina5.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_z_misc_shankara
+Proofread by: P. P. Narayanaswami swami at math.mun.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: kaupIna pa.nchakaM (sha.nkarAchArya)
+Transliterated by: P. P. Narayanaswami swami at math.mun.ca
+engtitle: kaupIna pa.nchakam (sha.nkarAchArya)
+itxtitle: kaupInapanchakam athavA yatipaNchakam (sArtham, shaNkarAchAryakRitam)
+title: कौपीनपञ्चकम् अथवा यतिपण्चकम् (सार्थम्, शण्कराचार्यकृइतम्)
 
-+++
+---
   
  कौपीनपञ्चकं अथवा यतिपञ्चकम् सार्थम्   
   
-          कौपीन पंचकम्  
+          कौपीन पञ्चकम्  
           Five Stanzas on the wearer of loin-cloth  
   
 वेदान्तवाक्येषु सदा रमन्तो  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRRiShNastotramdAnava"
-"File name" = "kRRiShNastotramdAnava.itx"
-itxtitle = "kRiShNastotram (dAnavavirachitaM)"
-engtitle = "kRRiShNastotramdAnava"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (दानवविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, krishna
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: kRRiShNastotramdAnava.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNastotramdAnava
+engtitle: kRRiShNastotramdAnava
+itxtitle: kRiShNastotram (dAnavavirachitaM)
+title: कृइष्णस्तोत्रम् (दानवविरचितं)
 
-+++
+---
   
  कृष्णस्तोत्रम्दानव   
   

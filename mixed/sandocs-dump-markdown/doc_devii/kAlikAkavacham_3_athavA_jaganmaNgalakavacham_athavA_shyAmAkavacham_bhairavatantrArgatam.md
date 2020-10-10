@@ -1,22 +1,22 @@
-+++
-"Text title" = "Kalika Kavacham 3"
-"File name" = "kAlikAkavacham3.itx"
-itxtitle = "kAlikAkavacham 3 athavA jaganmaNgalakavacham athavA shyAmAkavacham (bhairavatantrArgatam)"
-engtitle = "Kalika Kavacham 3"
-Category = "devii, kavacha, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-"Description/comments" = "shAktapramodaH. bhairavatantra"
-"Latest update" = "July 29, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालिकाकवचम् ३ अथवा जगन्मण्गलकवचम् अथवा श्यामाकवचम् (भैरवतन्त्रार्गतम्)"
+---
+Category: devii, kavacha, dashamahAvidyA, devI
+Description/comments: shAktapramodaH. bhairavatantra
+File name: kAlikAkavacham3.itx
+Language: Sanskrit
+Latest update: July 29, 2018
+Location: doc_devii
+Proofread by: lalitha parameswari parameswari.lalitha at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kalika Kavacham 3
+engtitle: Kalika Kavacham 3
+itxtitle: kAlikAkavacham 3 athavA jaganmaNgalakavacham athavA shyAmAkavacham (bhairavatantrArgatam)
+title: कालिकाकवचम् ३ अथवा जगन्मण्गलकवचम् अथवा श्यामाकवचम् (भैरवतन्त्रार्गतम्)
 
-+++
+---
   
  कालीकवचम् ३   
 श्री जगन्मङ्गलकवचम् अथवा श्यामाकवचम्  

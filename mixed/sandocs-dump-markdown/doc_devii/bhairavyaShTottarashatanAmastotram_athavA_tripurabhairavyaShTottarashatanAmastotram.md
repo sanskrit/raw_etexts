@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhairavI AshTottarasharanamastotra"
-"File name" = "bhairavyaShTottarashatanAmastotra.itx"
-itxtitle = "bhairavyaShTottarashatanAmastotram athavA tripurabhairavyaShTottarashatanAmastotram"
-engtitle = "bhairavyaShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay"
-"Latest update" = "October 15, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भैरव्यष्टोत्तरशतनामस्तोत्रम् अथवा त्रिपुरभैरव्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, devii, dashamahAvidyA, devI
+File name: bhairavyaShTottarashatanAmastotra.itx
+Language: Sanskrit
+Latest update: October 15, 2016
+Location: doc_devii
+Proofread by: Gopal Upadhyay
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhairavI AshTottarasharanamastotra
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: bhairavyaShTottarashatanAmastotram
+itxtitle: bhairavyaShTottarashatanAmastotram athavA tripurabhairavyaShTottarashatanAmastotram
+title: भैरव्यष्टोत्तरशतनामस्तोत्रम् अथवा त्रिपुरभैरव्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीभैरव्यष्टोत्तरशतनामस्तोत्रम्   
   
@@ -26,7 +26,7 @@ title = "भैरव्यष्टोत्तरशतनामस्तो�
   
 ॥ श्रीउमामहेश्वराभ्यां नमः ॥  
   
-॥ अथ भैरव्यष्टोत्तरशतनामस्तोत्रप्रारंभः ॥  
+॥ अथ भैरव्यष्टोत्तरशतनामस्तोत्रप्रारम्भः ॥  
   
 श्रीदेव्युवाच ।   
   
@@ -96,7 +96,7 @@ title = "भैरव्यष्टोत्तरशतनामस्तो�
 देवीं ध्यात्वा सुरां पीत्वा मकारपञ्चकैः प्रिये ।   
 पूजयेत्सततं भक्त्या पठेत्स्तोत्रमिदं शुभम् ॥ २१॥   
   
-षण्मासाभ्यंतरे सोऽपि गणनाथसमो भवेत् ।   
+षण्मासाभ्यन्तरे सोऽपि गणनाथसमो भवेत् ।   
 किमत्र बहुनोक्तेन त्वदग्रे प्राणवल्लभे ॥ २२ ॥   
   
 सर्वं जानासि सर्वज्ञे पुनर्मां परिपृच्छसि ।   

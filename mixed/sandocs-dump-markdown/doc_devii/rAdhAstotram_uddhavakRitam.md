@@ -1,26 +1,26 @@
-+++
-"Text title" = "uddhava kritaM shriiraadhaastotram"
-"File name" = "rAdhAuddhavaStr.itx"
-itxtitle = "rAdhAstotram (uddhavakRitam)"
-engtitle = "uddhava kritaM shrIrAdhAstotram"
-Category = "devii, radha, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Texttype = "stotra"
-Author = "uddhava"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Daniel Mohanpersad (danielmohanpersad98 at msn.com)"
-"Proofread by" = "Daniel Mohanpersad (danielmohanpersad98 at msn.com)"
-Description-comments = "brahmavaivarta purANa"
-Indexextra = "(needs proofreading)"
-"Latest update" = "August 15 , 2002, July 2, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधास्तोत्रम् (उद्धवकृइतम्)"
+---
+Author: uddhava
+Category: devii, radha, stotra, devI
+Description-comments: brahmavaivarta purANa
+File name: rAdhAuddhavaStr.itx
+Indexextra: (needs proofreading)
+Language: Sanskrit
+Latest update: August 15 , 2002, July 2, 2011
+Location: doc_devii
+Proofread by: Daniel Mohanpersad (danielmohanpersad98 at msn.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: hinduism/religion
+Sublocation: devii
+Text title: uddhava kritaM shriiraadhaastotram
+Texttype: stotra
+Transliterated by: Daniel Mohanpersad (danielmohanpersad98 at msn.com)
+engtitle: uddhava kritaM shrIrAdhAstotram
+itxtitle: rAdhAstotram (uddhavakRitam)
+title: राधास्तोत्रम् (उद्धवकृइतम्)
 
-+++
+---
   
  श्रीराधास्तोत्रं उद्धवकृतम्   
   

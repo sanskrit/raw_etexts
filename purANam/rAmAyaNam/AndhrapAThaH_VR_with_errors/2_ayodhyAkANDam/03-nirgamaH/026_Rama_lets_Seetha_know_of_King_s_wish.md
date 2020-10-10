@@ -3,7 +3,6 @@ title: 026 Rama lets Seetha know of King s wish
 title_english: 026 Rama lets Seetha know of King s wish
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-026-Sita_Rama_Samvadaha.mp3"></div>
 
 अभिवाद्य तु कौसल्याम् रामः सम्प्रस्थितः वनम् ।  
@@ -15,7 +14,7 @@ title_english: 026 Rama lets Seetha know of King s wish
 देव कार्यम् स्म सा कृत्वा कृतज्ञा हृष्ट चेतना ।  
 अभिज्ञा राज धर्मानाम् राज पुत्रम् प्रतीक्षते ॥ २-२६-४  
 प्रविवेश अथ रामः तु स्व वेश्म सुविभूषितम् ।  
-प्रहृष्ट जन सम्पूर्णम् ह्रिया किंचित् अवान् मुखः ॥ २-२६-५  
+प्रहृष्ट जन सम्पूर्णम् ह्रिया किञ्चित् अवान् मुखः ॥ २-२६-५  
 अथ सीता समुत्पत्य वेपमाना च तम् पतिम् ।  
 अपश्यत् शोक सम्तप्तम् चिन्ता व्याकुलिल इन्द्रियम् ॥ २-२६-६  
 ताम् दृष्ट्वा स हि धर्मात्मा न शशाक मनोगतम् ।  

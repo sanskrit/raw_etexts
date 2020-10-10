@@ -1,24 +1,24 @@
-+++
-"Text title" = "dakShiNAmUrti (excerpts)"
-"File name" = "dakshinopan.itx"
-itxtitle = "dakShiNAmUrti upaniShat (saNkShiptam)"
-engtitle = "dakShiNAmUrti (excerpts)"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ramakrishnan Balasubramanian rbalasub at ecn.purdue.edu"
-"Proofread by" = "Ramakrishnan Balasubramanian rbalasub at ecn.purdue.edu"
-Indexextra = "(excerpts)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्ति उपनिषत् (सण्क्षिप्तम्)"
+---
+Category: upanishhat, upanishad
+File name: dakshinopan.itx
+Indexextra: (excerpts)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_upanishhat
+Proofread by: Ramakrishnan Balasubramanian rbalasub at ecn.purdue.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: dakShiNAmUrti (excerpts)
+Transliterated by: Ramakrishnan Balasubramanian rbalasub at ecn.purdue.edu
+engtitle: dakShiNAmUrti (excerpts)
+itxtitle: dakShiNAmUrti upaniShat (saNkShiptam)
+title: दक्षिणामूर्ति उपनिषत् (सण्क्षिप्तम्)
 
-+++
+---
   
- दक्षिणामूर्ति उपनिषत् संक्षिप्त   
+ दक्षिणामूर्ति उपनिषत् सङ्क्षिप्त   
   
   
            Excerpts from dakShiNAmUrti upaniShad  
@@ -27,7 +27,7 @@ Rama Balasubramanian
 सोऽहमिति यावदास्थितिः सा निष्ठा भवति ।  
 तदभेदेन मन्वाम्रेडनं ज्ञानसाधनम् ।  
 चित्ते तदेकतानता परिकरः ।  
-अंगचेष्टार्पणं बलिः ।  
+अङ्गचेष्टार्पणं बलिः ।  
 त्रीणि धामानि कालः ।  
 द्वादशान्तपदं स्थानमिति ।  
   
@@ -53,7 +53,7 @@ manifestation? What is His form? And who is His worshiper?
 मोहान्धकारनिस्सारे उदेति स्वयमेव हि ।  
 वैराग्यमरणिं कृत्वा ज्ञानं कृत्वोत्तरारणिम् ।  
 गाढताम्रिस्रंसशान्त्यै गूढमर्थं निवेदयेत् ।  
-मोहभानुजसंक्रान्तं विवेकाख्यं मृकुन्डुजम् ।  
+मोहभानुजसङ्क्रान्तं विवेकाख्यं मृकुन्डुजम् ।  
 तत्वाविचारपाशेन बद्धं द्वैतभयातुरम् ।  
 उज्जीवयन्निजानन्दे स्वस्वरूपेण संस्थितः ।  
 शेमुषी दक्षिणा प्रोक्ता सा यस्याभीक्षणे मुकम् ।  

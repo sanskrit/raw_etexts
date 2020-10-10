@@ -1,24 +1,24 @@
-+++
-"Text title" = "jayendrasarasvatIshlokamAlikA"
-"File name" = "jayendrasarasvatIshlokamAlikA.itx"
-itxtitle = "jayendrasarasvatIshlokamAlikA sArthA (shaNkarajayendrasarasvatIvirachitA)"
-engtitle = "jayendrasarasvatIshlokamAlikA"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Shri Shankarajayendra SarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Proofread by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Translated by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Latest update" = "April 3, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयेन्द्रसरस्वतीश्लोकमालिका सार्था (शण्करजयेन्द्रसरस्वतीविरचिता)"
+---
+Author: Shri Shankarajayendra SarasvatI
+Category: deities_misc, gurudev
+File name: jayendrasarasvatIshlokamAlikA.itx
+Language: Sanskrit
+Latest update: April 3, 2018
+Location: doc_deities_misc
+Proofread by: P. R. Kannan prkannanvashi at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: jayendrasarasvatIshlokamAlikA
+Translated by: P. R. Kannan prkannanvashi at yahoo.com
+Transliterated by: P. R. Kannan prkannanvashi at yahoo.com
+engtitle: jayendrasarasvatIshlokamAlikA
+itxtitle: jayendrasarasvatIshlokamAlikA sArthA (shaNkarajayendrasarasvatIvirachitA)
+title: जयेन्द्रसरस्वतीश्लोकमालिका सार्था (शण्करजयेन्द्रसरस्वतीविरचिता)
 
-+++
+---
   
  श्री जयेन्द्रसरस्वती श्लोकमालिका   
   

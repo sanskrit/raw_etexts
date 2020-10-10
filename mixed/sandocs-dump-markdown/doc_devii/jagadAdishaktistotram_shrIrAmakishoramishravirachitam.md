@@ -1,23 +1,23 @@
-+++
-"Text title" = "Jagadadi Shakti Stotram"
-"File name" = "jagadAdishaktistotram.itx"
-itxtitle = "jagadAdishaktistotram (shrIrAmakishoramishravirachitam)"
-engtitle = "jagadAdishaktistotram"
-Category = "devii"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Acharya Pandit ShriRam Kishor Mishra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manjeet Gupta"
-"Proofread by" = "Manjeet Gupta, PSA Easwaran"
-Indexextra = "(Audio)"
-"Latest update" = "May 24, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जगदादिशक्तिस्तोत्रम् (श्रीरामकिशोरमिश्रविरचितम्)"
+---
+Author: Acharya Pandit ShriRam Kishor Mishra
+Category: devii
+File name: jagadAdishaktistotram.itx
+Indexextra: (Audio)
+Language: Sanskrit
+Latest update: May 24, 2020
+Location: doc_devii
+Proofread by: Manjeet Gupta, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Jagadadi Shakti Stotram
+Transliterated by: Manjeet Gupta
+engtitle: jagadAdishaktistotram
+itxtitle: jagadAdishaktistotram (shrIrAmakishoramishravirachitam)
+title: जगदादिशक्तिस्तोत्रम् (श्रीरामकिशोरमिश्रविरचितम्)
 
-+++
+---
   
  जगदादिशक्तिस्तोत्रम्   
 देवीं नमामि शिरसा जगदादिशक्तिं  

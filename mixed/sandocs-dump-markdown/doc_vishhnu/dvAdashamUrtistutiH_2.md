@@ -1,21 +1,21 @@
-+++
-"Text title" = "dvAdashamUrtistutiH 2"
-"File name" = "dvAdashamUrtistutiH2.itx"
-itxtitle = "dvAdashamUrtistutiH 2"
-engtitle = "dvAdashamUrtistutiH 2"
-Category = "vishhnu, krishna, dvAdasha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "द्वादशमूर्तिस्तुतिः २"
+---
+Category: vishhnu, krishna, dvAdasha
+File name: dvAdashamUrtistutiH2.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dvAdashamUrtistutiH 2
+engtitle: dvAdashamUrtistutiH 2
+itxtitle: dvAdashamUrtistutiH 2
+title: द्वादशमूर्तिस्तुतिः २
 
-+++
+---
   
  द्वादशमूर्तिस्तुतिः २   
   

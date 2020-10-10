@@ -1,24 +1,24 @@
-+++
-"Text title" = "jagadambAstutiH 3"
-"File name" = "jagadambAstutiH3.itx"
-itxtitle = "jagadambAstutiH 3 (rAjAnakavidyAdharavirachitA)"
-engtitle = "jagadambAstutiH 3"
-Category = "devii, pArvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvati"
-Author = "Rajanaka Vidyadhar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Girdhari Lal Koul glkoul.18 at gmail.com"
-"Proofread by" = "Girdhari Lal Koul glkoul.18 at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "December 6, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जगदम्बास्तुतिः ३ (राजानकविद्याधरविरचिता)"
+---
+Author: Rajanaka Vidyadhar
+Category: devii, pArvatI, devI
+File name: jagadambAstutiH3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 6, 2019
+Location: doc_devii
+Proofread by: Girdhari Lal Koul glkoul.18 at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvati
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jagadambAstutiH 3
+Transliterated by: Girdhari Lal Koul glkoul.18 at gmail.com
+engtitle: jagadambAstutiH 3
+itxtitle: jagadambAstutiH 3 (rAjAnakavidyAdharavirachitA)
+title: जगदम्बास्तुतिः ३ (राजानकविद्याधरविरचिता)
 
-+++
+---
   
  श्रीजगदम्बास्तुतिः   
      ॐ नमः श्रीजगदम्बायै ।  
@@ -47,7 +47,7 @@ title = "जगदम्बास्तुतिः ३ (राजानकव�
 आविर्भवत्यविरतं चिदचित्स्वभावं  
      राज्ञी सदा भगवती भवतु प्रसन्ना ॥ ५॥  
   
-यत्पाद पंङ्कजरजः कणज प्रसादात्  
+यत्पाद पङ्ङ्कजरजः कणज प्रसादात्  
      योगीश्वरैर्विगत कल्मषमानसैस्तत् ।  
 प्राप्त पदं जनिविनाशहरं परं सा  
      राज्ञी सदा भगवती भवतु प्रसन्ना ॥ ६॥  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "aShTashlokI"
-"File name" = "aShTashlokI.itx"
-itxtitle = "aShTashlokI"
-engtitle = "aShTashlokI"
-Category = "vishhnu, krishna, rAmAnujasampradAya, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अष्टश्लोकी"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: vishhnu, krishna, rAmAnujasampradAya, aShTaka
+File name: aShTashlokI.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: aShTashlokI
+engtitle: aShTashlokI
+itxtitle: aShTashlokI
+title: अष्टश्लोकी
 
-+++
+---
   
  अष्टश्लोकी   
   

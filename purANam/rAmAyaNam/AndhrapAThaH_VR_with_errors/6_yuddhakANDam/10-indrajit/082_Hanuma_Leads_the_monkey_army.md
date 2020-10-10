@@ -3,7 +3,6 @@ title: 082 Hanuma Leads the monkey army
 title_english: 082 Hanuma Leads the monkey army
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-082-Hanuma_Leads_the_monkey_army_0.mp3"></div>
 
 श्रुत्वा तं भीमनिर्ह्रादं शक्राशनिसमस्वनम् ।  
@@ -46,7 +45,7 @@ title_english: 082 Hanuma Leads the monkey army
 सस्कन्धविटपैः सालैः शिलाभिश्च महाबलैः ॥ ६-८२-१९  
 हनूमान्कदनं चक्रे रक्षसां भीमकर्मणाम् ।  
 स निवार्य परानीकमब्रवीत्तान्वनौकसः ॥ ६-८२-२०  
-हनूमान्संनिवर्तध्वं न नः साध्यमिदं बलम् ।  
+हनूमान्सन्निवर्तध्वं न नः साध्यमिदं बलम् ।  
 त्यक्त्वा प्राणान्विचेष्टन्तो राम प्रियचिकीर्षवः ॥ ६-८२-२१  
 यन्निमित्तं हि युध्यामो हता सा जनकात्मजा ।  
 इममर्थं हि विज्ञाप्य रामं सुग्रीवमेव च ॥ ६-८२-२२  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "dhanyaH sahyagirijAtaH"
-"File name" = "dhanyaHsahyagirijAtaH.itx"
-itxtitle = "dhanyaH sahyagirijAtaH"
-engtitle = "dhanyaHsahyagirijAtaH"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dhananjay Joshi, for Geet Dattatrayam at Bharat Natya Mandir, Pune.in 2009"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "manish gavkar manishyg at gmail.com"
-"Proofread by" = "manish gavkar manishyg at gmail.com, NA"
-Indexextra = "(Video)"
-"Latest update" = "April 4, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धन्यः सह्यगिरिजातः"
+---
+Author: Dhananjay Joshi, for Geet Dattatrayam at Bharat Natya Mandir, Pune.in 2009
+Category: misc, sanskritgeet
+File name: dhanyaHsahyagirijAtaH.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: April 4, 2020
+Location: doc_z_misc_general
+Proofread by: manish gavkar manishyg at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: dhanyaH sahyagirijAtaH
+Transliterated by: manish gavkar manishyg at gmail.com
+engtitle: dhanyaHsahyagirijAtaH
+itxtitle: dhanyaH sahyagirijAtaH
+title: धन्यः सह्यगिरिजातः
 
-+++
+---
   
  धन्यः सह्यगिरिजातः   
 धन्यः सह्यगिरिजातः ।  

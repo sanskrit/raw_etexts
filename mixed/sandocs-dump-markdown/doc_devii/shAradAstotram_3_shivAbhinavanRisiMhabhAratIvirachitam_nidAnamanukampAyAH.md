@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAradAstotram 3"
-"File name" = "shAradAstotram3.itx"
-itxtitle = "shAradAstotram 3 (shivAbhinavanRisiMhabhAratIvirachitam nidAnamanukampAyAH)"
-engtitle = "shAradAstotram 3"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदास्तोत्रम् ३ (शिवाभिनवनृइसिंहभारतीविरचितम् निदानमनुकम्पायाः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI
+File name: shAradAstotram3.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAstotram 3
+engtitle: shAradAstotram 3
+itxtitle: shAradAstotram 3 (shivAbhinavanRisiMhabhAratIvirachitam nidAnamanukampAyAH)
+title: शारदास्तोत्रम् ३ (शिवाभिनवनृइसिंहभारतीविरचितम् निदानमनुकम्पायाः)
 
-+++
+---
   
  श्रीशारदास्तोत्रम् ३   
 निदानमनुकम्पायाः पदाधःकृतपङ्कजाम् ।  

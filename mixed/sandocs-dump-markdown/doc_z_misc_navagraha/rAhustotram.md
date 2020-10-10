@@ -1,23 +1,23 @@
-+++
-"Text title" = "rahustotram"
-"File name" = "rahustotram.itx"
-itxtitle = "rAhustotram"
-engtitle = "rAhustotram"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-"Proofread by" = "KSR Ramachandran ramachandran_ksr at yahoo.ca"
-Description-comments = "From Grantha/Tamil book Adityadi Navagraha Stotra"
-"Latest update" = "June 28, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राहुस्तोत्रम्"
+---
+Category: navagraha, stotra
+Description-comments: From Grantha/Tamil book Adityadi Navagraha Stotra
+File name: rahustotram.itx
+Language: Sanskrit
+Latest update: June 28, 2012
+Location: doc_z_misc_navagraha
+Proofread by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: rahustotram
+Texttype: stotra
+Transliterated by: KSR Ramachandran ramachandran_ksr at yahoo.ca
+engtitle: rAhustotram
+itxtitle: rAhustotram
+title: राहुस्तोत्रम्
 
-+++
+---
   
  राहुस्तोत्रम्   
   

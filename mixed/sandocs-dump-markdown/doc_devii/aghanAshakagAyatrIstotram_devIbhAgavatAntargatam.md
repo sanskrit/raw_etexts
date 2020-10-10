@@ -1,27 +1,27 @@
-+++
-"Text title" = "aghanAshakagAyatrIstotra"
-"File name" = "aghanaashakagaayatrii.itx"
-itxtitle = "aghanAshakagAyatrIstotram (devIbhAgavatAntargatam)"
-engtitle = "aghanAshakagAyatrIstotra"
-Category = "devii, gAyatrI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.webdunia.com"
-"Proofread by" = "http://www.webdunia.com"
-Description-comments = "skandha 12, adhyAya 5"
-Source = "Devi Bhagavata Mahapurana"
-Indexextra = "(text)"
-"Latest update" = "November 22, 2001, April 19. 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अघनाशकगायत्रीस्तोत्रम् (देवीभागवतान्तर्गतम्)"
+---
+Author: Traditional
+Category: devii, gAyatrI, stotra, devI
+Description-comments: skandha 12, adhyAya 5
+File name: aghanaashakagaayatrii.itx
+Indexextra: (text)
+Language: Sanskrit
+Latest update: November 22, 2001, April 19. 2018
+Location: doc_devii
+Proofread by: http://www.webdunia.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Devi Bhagavata Mahapurana
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: aghanAshakagAyatrIstotra
+Texttype: stotra
+Transliterated by: http://www.webdunia.com
+engtitle: aghanAshakagAyatrIstotra
+itxtitle: aghanAshakagAyatrIstotram (devIbhAgavatAntargatam)
+title: अघनाशकगायत्रीस्तोत्रम् (देवीभागवतान्तर्गतम्)
 
-+++
+---
   
  अघनाशकगायत्रीस्तोत्रम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Bhuvaneshvari Panjarastotram"
-"File name" = "bhuvaneshvarIpanjarastotram.itx"
-itxtitle = "bhuvaneshvarIpanjarastotram"
-engtitle = "bhuvaneshvarIpanjarastotram"
-Category = "devii, devI, dashamahAvidyA, panjara"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com, NA"
-Indexextra = "(Scan)"
-"Latest update" = "February 2, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वरीपञ्जरस्तोत्रम्"
+---
+Category: devii, devI, dashamahAvidyA, panjara
+File name: bhuvaneshvarIpanjarastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 2, 2019
+Location: doc_devii
+Proofread by: Ganesh Kandu kanduganesh at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Bhuvaneshvari Panjarastotram
+engtitle: bhuvaneshvarIpanjarastotram
+itxtitle: bhuvaneshvarIpanjarastotram
+title: भुवनेश्वरीपञ्जरस्तोत्रम्
 
-+++
+---
   
  श्रीभुवनेश्वरी पञ्जर स्तोत्रम्   
 ``पञ्जर'' का अर्थ है पिञ्जरा । जिस प्रकार कोई पक्षी  
@@ -33,7 +33,7 @@ title = "भुवनेश्वरीपञ्जरस्तोत्रम�
 करनेवाले को कृत्या, रोग, पिशाच, भूतप्रेत कोई भी बाधा  
 नहीं पहुँचा सकता ।  
   
-प्रातःकाल, मध्याह्न, सायंकाल तथा अर्धरात्रि में भगवती  
+प्रातःकाल, मध्याह्न, सायङ्काल तथा अर्धरात्रि में भगवती  
 भुवनेश्वरी की पूजा कर जो इसका पाठ करता है, वह साधक  
 मृत्यु को भी जीत लेता है । ब्रह्मास्त्र आदि कोई भी शस्त्र  
 उसके शरीर पर नहीं चल सकता तथा इसका पाठ करनेवाला  

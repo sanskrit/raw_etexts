@@ -1,21 +1,21 @@
-+++
-"Text title" = "uDupikRishNasuprabhAtam"
-"File name" = "uDupikRishNasupra.itx"
-itxtitle = "uDupikRiShNasuprabhAtam"
-engtitle = "uDupi shrI kRiShNa suprabhAtam"
-Category = "suprabhAta, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/religion madhva"
-"Proofread by" = "Ambarish Srivastava (j_ambarish at yahoo.chom)"
-"Latest update" = "January 15, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उडुपिकृइष्णसुप्रभातम्"
+---
+Category: suprabhAta, vishhnu, krishna, vishnu
+File name: uDupikRishNasupra.itx
+Language: Sanskrit
+Latest update: January 15, 2004
+Location: doc_vishhnu
+Proofread by: Ambarish Srivastava (j_ambarish at yahoo.chom)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/religion madhva
+Sublocation: vishhnu
+Text title: uDupikRishNasuprabhAtam
+engtitle: uDupi shrI kRiShNa suprabhAtam
+itxtitle: uDupikRiShNasuprabhAtam
+title: उडुपिकृइष्णसुप्रभातम्
 
-+++
+---
   
  उडुपि श्रीकृष्ण सुप्रभातम्   
   
@@ -132,7 +132,7 @@ title = "उडुपिकृइष्णसुप्रभातम्"
 विश्वं निमज्जयति गानसुधारसाब्धौ ।  
 मध्वेश कृष्ण भगवन् तव सुप्रभातम् ॥ २२॥  
   
-देवर्षिरंबर तलादवनीं प्रपन्नः ।  
+देवर्षिरम्बर तलादवनीं प्रपन्नः ।  
 त्वत्सन्निधौ मधुरवादित चारु वीणा ।  
 नामानिगायति नत स्फुरितोत्तमाङ्गो ।  
 मध्वेश कृष्ण भगवन् तव सुप्रभातम् ॥ २३॥  
@@ -148,7 +148,7 @@ title = "उडुपिकृइष्णसुप्रभातम्"
 मध्वेश कृष्ण भगवन् तव सुप्रभातम् ॥ २५॥  
   
 मध्वाभिदे सरसि पुण्यजले प्रभाते ।  
-गङ्गेंभ सर्वमघमाशु हरेति जप्त्वा ।  
+गङ्गेम्भ सर्वमघमाशु हरेति जप्त्वा ।  
 मज्जन्ति वैदिक शिखामणयो यथावन् ।  
 मध्वेश कृष्ण भगवन् तव सुप्रभातम् ॥ २६॥  
   
@@ -158,7 +158,7 @@ title = "उडुपिकृइष्णसुप्रभातम्"
 मध्वेश कृष्ण भगवन् तव सुप्रभातम् ॥ २७॥  
   
 श्री मध्वयोगि वरवन्दित पादपद्म ।  
-भैष्मी मुखांभोरुह भास्कर विश्ववन्द्य ।  
+भैष्मी मुखाम्भोरुह भास्कर विश्ववन्द्य ।  
 दासाग्रगण्य कनकादिनुत प्रभाव ।  
 मध्वेश कृष्ण भगवन् तव सुप्रभातम् ॥ २८॥  
   
@@ -168,7 +168,7 @@ title = "उडुपिकृइष्णसुप्रभातम्"
 मध्वेश कृष्ण भगवन् तव सुप्रभातम् ॥ २९॥  
   
 श्रीमन्ननन्त शयनोडुपिवास शौरे ।  
-पूर्णप्रबोध हृदयांबर शीत रश्मे ।  
+पूर्णप्रबोध हृदयाम्बर शीत रश्मे ।  
 लक्ष्मीनिवास पुरुषोत्तम पूर्णकाम ।  
 मध्वेश कृष्ण भगवन् तव सुप्रभातम् ॥ ३०॥  
   
@@ -178,8 +178,8 @@ title = "उडुपिकृइष्णसुप्रभातम्"
 मध्वेश कृष्ण भगवन् तव सुप्रभातम् ॥ ३१॥  
   
 आनन्दतुन्दिल पुरन्दर पूर्वदास ।  
-वृन्दाभिवन्दित पदांबुजनन्द सूनो ।  
-गोविन्द मन्दरगिरीन्द्र धरांबुदाभ ।  
+वृन्दाभिवन्दित पदाम्बुजनन्द सूनो ।  
+गोविन्द मन्दरगिरीन्द्र धराम्बुदाभ ।  
 मध्वेश कृष्ण भगवन् तव सुप्रभातम् ॥ ३२॥  
   
 मीनाकृते कमठरूप वराहमूर्ते ।  

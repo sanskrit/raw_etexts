@@ -1,22 +1,22 @@
-+++
-"Text title" = "sAmaveda saMhitA kauthuma shAkhA"
-"File name" = "sv-kauthuma.itx"
-itxtitle = "sAmaveda saMhitA kauthuma shAkhA"
-engtitle = "Samaveda Samhita Kauthuma ShAkha"
-Category = "veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anshuman Pandey pandey at umich.edu"
-"Proofread by" = "Anshuman Pandey pandey at umich.edu"
-"Latest update" = "March 8, 1998, September 10, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सामवेद संहिता कौथुम शाखा"
+---
+Category: veda, svara
+File name: sv-kauthuma.itx
+Language: Sanskrit
+Latest update: March 8, 1998, September 10, 2014
+Location: doc_veda
+Proofread by: Anshuman Pandey pandey at umich.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: sAmaveda saMhitA kauthuma shAkhA
+Texttype: svara
+Transliterated by: Anshuman Pandey pandey at umich.edu
+engtitle: Samaveda Samhita Kauthuma ShAkha
+itxtitle: sAmaveda saMhitA kauthuma shAkhA
+title: सामवेद संहिता कौथुम शाखा
 
-+++
+---
   
  सामवेद संहिता कौथुम शाखा   
   
@@ -286,7 +286,7 @@ title = "सामवेद संहिता कौथुम शाखा"
    १ २ १ ०३०७c  चक्राण ओपशं दिवि ॥ १२१  
    १ २ १ ०३०८a  यदिन्द्राहं तथा त्वमीशीय वस्व एक इत् ।  
    १ २ १ ०३०८c  स्तोता मे गोसखा स्यात् ॥ १२२  
-   १ २ १ ०३०९a  पन्यंपन्यमित्सोतार आ धावत मद्याय ।  
+   १ २ १ ०३०९a  पन्यम्पन्यमित्सोतार आ धावत मद्याय ।  
    १ २ १ ०३०९c  सोमं वीराय शूराय ॥ १२३  
    १ २ १ ०३१०a  इदं वसो सुतमन्धः पिबा सुपूर्णमुदरम् ।  
    १ २ १ ०३१०c  अनाभयिन्ररिमा ते ॥ १२४  
@@ -1391,7 +1391,7 @@ title = "सामवेद संहिता कौथुम शाखा"
    ३ ० ० ०००७c  स नः स्वर्षदति द्विषः स नः स्वर्षदति द्विषः ॥ ६४७  
    ३ ० ० ०००८a  पूर्वस्य यत्ते अद्रिवोँऽशुर्मदाय ।  
    ३ ० ० ०००८c  सुम्न आ धेहि नो वसो पूर्तिः शविष्ठ शस्यते ।  
-   ३ ० ० ०००८e  वशी हि शक्रो नूनं तन्नव्यँ संन्यसे ॥ ६४८  
+   ३ ० ० ०००८e  वशी हि शक्रो नूनं तन्नव्यँ सन्न्यसे ॥ ६४८  
    ३ ० ० ०००९a  प्रभो जनस्य वृत्रहन्त्समर्येषु ब्रवावहै ।  
    ३ ० ० ०००९c  शूरो यो गोषु गच्छति सखा सुशेवो अद्वयुः ॥ ६४९  
      अथ पञ्च पुरीषपदानि  
@@ -2172,7 +2172,7 @@ title = "सामवेद संहिता कौथुम शाखा"
    ४ ३ २ ०४ ०७a  क्रीडुर्मखो न मँहयुः पवित्रँ सोम गच्छसि ।  
    ४ ३ २ ०४ ०७c  दधत्स्तोत्रे सुवीर्यम् ॥ ९७४  
   
-   ४ ३ २ ०५ ०१a  यवंयवं नो अन्धसा पुष्टंपुष्टं परि स्रव ।  
+   ४ ३ २ ०५ ०१a  यवंयवं नो अन्धसा पुष्टम्पुष्टं परि स्रव ।  
    ४ ३ २ ०५ ०१c  विश्वा च सोम सौभगा ॥ ९७५  
    ४ ३ २ ०५ ०२a  इन्दो यथा तव स्तवो यथा ते जातमन्धसः ।  
    ४ ३ २ ०५ ०२c  नि बर्हिषि प्रिये सदः ॥ ९७६  
@@ -3339,7 +3339,7 @@ title = "सामवेद संहिता कौथुम शाखा"
    ४ ७ १ ०१०१a  अभि प्र गोपतिं गिरेन्द्रमर्च यथा विदे ।  
    ४ ७ १ ०१०१c  मूनुँ सत्यस्य सत्पतिम् ॥ १४८९  
    ४ ७ १ ०१०२a  आ हरयः ससृज्रिरेऽरुषीरधि बर्हिषि ।  
-   ४ ७ १ ०१०२c  यत्राभि संनवामहे ॥ १४९०  
+   ४ ७ १ ०१०२c  यत्राभि सन्नवामहे ॥ १४९०  
    ४ ७ १ ०१०३a  इन्द्राय गाव आशिरं दुदुह्रे वज्रिणे मधु ।  
    ४ ७ १ ०१०३c  यत्सीमुपह्वरे विदत् ॥ १४९१  
   
@@ -3743,7 +3743,7 @@ title = "सामवेद संहिता कौथुम शाखा"
    ४ ८ १ १४०३c  शृङ्गेभिर्दशभिर्दिशन् ॥ १६५६  
   
       आष्टम प्रपाठकः ।  द्वितीयोऽर्धः  
-   ४ ८ २ ०१०१a  पन्यंपन्यमित्सोतार आ धावत मद्याय ।  
+   ४ ८ २ ०१०१a  पन्यम्पन्यमित्सोतार आ धावत मद्याय ।  
    ४ ८ २ ०१०१c  सोमं वीराय शूराय ॥ १६५७  
    ४ ८ २ ०१०२a  एह हरी ब्रह्मयुजा शग्मा वक्षतः सखायम् ।  
    ४ ८ २ ०१०२c  इन्द्रं गीर्भिर्गिर्वणसम् ॥ १६५८  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "muNDakopaniShat"
-"File name" = "mundaka.itx"
-itxtitle = "muNDakopaniShat"
-engtitle = "Mundaka Upanishad"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Rishis"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kim Paulsen"
-"Proofread by" = "Avinash Sathaye, P.P.Narayanaswami. John Manetta"
-Description-comments = "5/108; Atharva Veda, Mukhya upanishad"
-Indexextra = "(1, 2 3, 4 translations)"
-"Latest update" = "July 20,1999, Nov 1,10, June 24, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मुण्डकोपनिषत्"
+---
+Author: Vedic Rishis
+Category: upanishhat, svara, upanishad
+Description-comments: 5/108; Atharva Veda, Mukhya upanishad
+File name: mundaka.itx
+Indexextra: (1, 2 3, 4 translations)
+Language: Sanskrit
+Latest update: July 20,1999, Nov 1,10, June 24, 2018
+Location: doc_upanishhat
+Proofread by: Avinash Sathaye, P.P.Narayanaswami. John Manetta
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: muNDakopaniShat
+Texttype: svara
+Transliterated by: Kim Paulsen
+engtitle: Mundaka Upanishad
+itxtitle: muNDakopaniShat
+title: मुण्डकोपनिषत्
 
-+++
+---
   
  मुण्डकोपनिषत्   
   
@@ -194,7 +194,7 @@ title = "मुण्डकोपनिषत्"
   
 ॥ द्वितीय मुण्डके द्वितीयः खण्डः ॥  
   
-आविः संनिहितं गुहाचरं नाम  
+आविः सन्निहितं गुहाचरं नाम  
 महत्पदमत्रैतत् समर्पितम् ।  
 एजत्प्राणन्निमिषच्च यदेतज्जानथ  
 सदसद्वरेण्यं परं विज्ञानाद्यद्वरिष्ठं प्रजानाम् ॥ १॥  
@@ -326,7 +326,7 @@ title = "मुण्डकोपनिषत्"
 युक्तात्मानः सर्वमेवाविशन्ति ॥ ५॥  
   
 वेदान्तविज्ञानसुनिश्चितार्थाः  
-संन्यासयोगाद् यतयः शुद्धसत्त्वाः ।  
+सन्न्यासयोगाद् यतयः शुद्धसत्त्वाः ।  
 ते ब्रह्मलोकेषु परान्तकाले  
 परामृताः परिमुच्यन्ति सर्वे ॥ ६॥  
   

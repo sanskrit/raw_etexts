@@ -1,24 +1,24 @@
-+++
-"Text title" = "kurudhvamadyasajjatAm"
-"File name" = "kurudhvamadyasajjatAm.itx"
-itxtitle = "kurudhvamadyasajjatAm"
-engtitle = "kurudhvamadyasajjatAm"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "ShrikAnt Bahulakara, Vamanarav Abhyankar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुरुध्वमद्यसज्जताम्"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: ShrikAnt Bahulakara, Vamanarav Abhyankar
+Category: misc, sanskritgeet
+File name: kurudhvamadyasajjatAm.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: kurudhvamadyasajjatAm
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: kurudhvamadyasajjatAm
+itxtitle: kurudhvamadyasajjatAm
+title: कुरुध्वमद्यसज्जताम्
 
-+++
+---
   
  कुरुध्वमद्य सज्जताम्   
 कुरुध्वमद्य सज्जतां रणाय भोः सशस्त्रतां  

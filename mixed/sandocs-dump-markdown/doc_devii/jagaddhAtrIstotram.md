@@ -1,22 +1,22 @@
-+++
-"Text title" = "jagaddhAtrIstotram"
-"File name" = "jagaddhAtrIstotram.itx"
-itxtitle = "jagaddhAtrIstotram"
-engtitle = "jagaddhAtrIstotram"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Shri Chitrapura Stuti Manjari,3rd ed. 2008"
-Acknowledge-Permission = "Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/"
-"Latest update" = "March 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जगद्धात्रीस्तोत्रम्"
+---
+Acknowledge-Permission: Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/
+Category: devii, devI
+File name: jagaddhAtrIstotram.itx
+Language: Sanskrit
+Latest update: March 2, 2018
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri Chitrapura Stuti Manjari,3rd ed. 2008
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jagaddhAtrIstotram
+engtitle: jagaddhAtrIstotram
+itxtitle: jagaddhAtrIstotram
+title: जगद्धात्रीस्तोत्रम्
 
-+++
+---
   
  श्रीजगद्धात्रीस्तोत्रम्   
 आधाररूपे चाधेये धृतिरूपे धुरन्धरे ।  

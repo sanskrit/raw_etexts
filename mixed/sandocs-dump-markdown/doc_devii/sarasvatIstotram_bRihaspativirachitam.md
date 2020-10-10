@@ -1,26 +1,26 @@
-+++
-"Text title" = "sarasvatIstotram"
-"File name" = "sarasvatistotrabrihaspati.itx"
-itxtitle = "sarasvatIstotram (bRihaspativirachitam)"
-engtitle = "sarasvatIstotram bRihaspativirachitam"
-Category = "devii, sarasvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "stotra"
-Author = "Brihaspati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rUdrayAmala"
-Indexextra = "(bRihaspati)"
-"Latest update" = "June 30, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तोत्रम् (बृइहस्पतिविरचितम्)"
+---
+Author: Brihaspati
+Category: devii, sarasvatI, stotra, devI
+Description-comments: rUdrayAmala
+File name: sarasvatistotrabrihaspati.itx
+Indexextra: (bRihaspati)
+Language: Sanskrit
+Latest update: June 30, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIstotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: sarasvatIstotram bRihaspativirachitam
+itxtitle: sarasvatIstotram (bRihaspativirachitam)
+title: सरस्वतीस्तोत्रम् (बृइहस्पतिविरचितम्)
 
-+++
+---
   
  श्रीसरस्वतीस्तोत्रं बृहस्पतिविरचितम्   
   

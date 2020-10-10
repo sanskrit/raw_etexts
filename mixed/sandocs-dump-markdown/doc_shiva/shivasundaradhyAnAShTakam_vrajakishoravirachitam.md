@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivasundaradhyAnAShTakam"
-"File name" = "shivasundaradhyAnAShTakam.itx"
-itxtitle = "shivasundaradhyAnAShTakam (vrajakishoravirachitam)"
-engtitle = "shivasundaradhyAnAShTakam"
-Category = "shiva, aShTaka, dhyAnam, vrajakishora"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Vrajakishora Tripathi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vrajakishora Tripathi"
-"Proofread by" = "Vrajakishora Tripathi"
-"Latest update" = "November 29, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसुन्दरध्यानाष्टकम् (व्रजकिशोरविरचितम्)"
+---
+Author: Vrajakishora Tripathi
+Category: shiva, aShTaka, dhyAnam, vrajakishora
+File name: shivasundaradhyAnAShTakam.itx
+Language: Sanskrit
+Latest update: November 29, 2018
+Location: doc_shiva
+Proofread by: Vrajakishora Tripathi
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivasundaradhyAnAShTakam
+Transliterated by: Vrajakishora Tripathi
+engtitle: shivasundaradhyAnAShTakam
+itxtitle: shivasundaradhyAnAShTakam (vrajakishoravirachitam)
+title: शिवसुन्दरध्यानाष्टकम् (व्रजकिशोरविरचितम्)
 
-+++
+---
   
  श्रीशिवसुन्दरध्यानाष्टकम्   
 वन्दे फेननिभं तुषारधवलं वन्दे सुधास्तोमभं  

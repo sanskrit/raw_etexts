@@ -1,25 +1,25 @@
-+++
-"Text title" = "shivakRitaM durgAstotram 4"
-"File name" = "durgastotram.itx"
-itxtitle = "durgAstotram 4 (shivakRitam )"
-engtitle = "durgAstotram 4 by Shiva"
-Category = "devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "shivakRita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-Indexextra = "(with commentary)"
-"Latest update" = "May 16, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गास्तोत्रम् ४ (शिवकृइतम् )"
+---
+Author: shivakRita
+Category: devii, durgA, devI
+File name: durgastotram.itx
+Indexextra: (with commentary)
+Language: Sanskrit
+Latest update: May 16, 2011
+Location: doc_devii
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shivakRitaM durgAstotram 4
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: durgAstotram 4 by Shiva
+itxtitle: durgAstotram 4 (shivakRitam )
+title: दुर्गास्तोत्रम् ४ (शिवकृइतम् )
 
-+++
+---
   
  दुर्गास्तोत्रं श्रीशिवकृतम्   
 रक्ष रक्ष महादेवि दुर्गे दुर्गतिनाशिनि ।  

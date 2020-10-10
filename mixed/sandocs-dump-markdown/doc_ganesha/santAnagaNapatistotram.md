@@ -1,23 +1,23 @@
-+++
-"Text title" = "SantanaGanapatistotram"
-"File name" = "santAnagaNapatistotram.itx"
-itxtitle = "santAnagaNapatistotram"
-engtitle = "Santana Ganapatistotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sumit"
-"Proofread by" = "Sumit, NA"
-"Latest update" = "June 1, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्तानगणपतिस्तोत्रम्"
+---
+Author: Traditional
+Category: ganesha, stotra
+File name: santAnagaNapatistotram.itx
+Language: Sanskrit
+Latest update: June 1, 2017
+Location: doc_ganesha
+Proofread by: Sumit, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: SantanaGanapatistotram
+Texttype: stotra
+Transliterated by: Sumit
+engtitle: Santana Ganapatistotram
+itxtitle: santAnagaNapatistotram
+title: सन्तानगणपतिस्तोत्रम्
 
-+++
+---
   
  सन्तानगणपतिस्तोत्रम्   
 श्रीगणेशाय नमः ।  

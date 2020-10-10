@@ -1,23 +1,23 @@
-+++
-"Text title" = "sarasvatIstotramvAsudevAnanda"
-"File name" = "sarasvatIstotramvAsudevAnanda2.itx"
-itxtitle = "sarasvatIstotram (vAsudevAnandasarasvatI virachitam vAnChAdhi)"
-engtitle = "sarasvatIstotram bv vAsudevAnanda"
-Category = "devii, sarasvatI, vAsudevAnanda-sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Vasudevanand Saraswati (Tembe) Swami Maharaj (1854-1914)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sumit"
-"Proofread by" = "Sumit, NA"
-"Latest update" = "May 14, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तोत्रम् (वासुदेवानन्दसरस्वती विरचितम् वाञ्छाधि)"
+---
+Author: Vasudevanand Saraswati (Tembe) Swami Maharaj (1854-1914)
+Category: devii, sarasvatI, vAsudevAnanda-sarasvatI, devI
+File name: sarasvatIstotramvAsudevAnanda2.itx
+Language: Sanskrit
+Latest update: May 14, 2017
+Location: doc_devii
+Proofread by: Sumit, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIstotramvAsudevAnanda
+Transliterated by: Sumit
+engtitle: sarasvatIstotram bv vAsudevAnanda
+itxtitle: sarasvatIstotram (vAsudevAnandasarasvatI virachitam vAnChAdhi)
+title: सरस्वतीस्तोत्रम् (वासुदेवानन्दसरस्वती विरचितम् वाञ्छाधि)
 
-+++
+---
   
  श्रीसरस्वतीस्तोत्रम्   
 वाञ्छाधिकेष्टफलदाननिबध्ददीक्षा  

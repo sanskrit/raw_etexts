@@ -1,26 +1,26 @@
-+++
-"Text title" = "argalAstotra from Durga Spatashati or Devi Mahatmya"
-"File name" = "argalaastotra.itx"
-itxtitle = "argalAstotram"
-engtitle = "argalAstotram"
-Category = "devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Smt. K. Shankaran (kapilasankaran at yahoo.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Verses for devi durga"
-Indexextra = "(Video)"
-"Latest update" = "April 21, 1998, July 13, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अर्गलास्तोत्रम्"
+---
+Author: Traditional
+Category: devii, durgA, stotra, devI
+Description-comments: Verses for devi durga
+File name: argalaastotra.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: April 21, 1998, July 13, 2008
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: argalAstotra from Durga Spatashati or Devi Mahatmya
+Texttype: stotra
+Transliterated by: Smt. K. Shankaran (kapilasankaran at yahoo.com
+engtitle: argalAstotram
+itxtitle: argalAstotram
+title: अर्गलास्तोत्रम्
 
-+++
+---
   
  अर्गलास्तोत्रम्   
   

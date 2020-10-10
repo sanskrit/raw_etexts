@@ -1,25 +1,25 @@
-+++
-"Text title" = "dvAdashastotrANi"
-"File name" = "dvAdasha_stotra.itx"
-itxtitle = "dvAdashastotram (madhvakRitam)"
-engtitle = "dvAdashastotram (Shri Madhva)"
-Category = "vishhnu, vishnu_misc, stotra, Ananda-tIrtha, vishnu, dvAdasha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Texttype = "stotra"
-Author = "Srimad Ananda Tiirtha, also known as Sri Madhva"
-Language = "Sanskrit"
-Subject = "Vishnu"
-"Transliterated by" = "Shrisha Rao"
-"Proofread by" = "\"Meera Tadipatri\""
-Indexextra = "(Meaning)"
-"Latest update" = "June 18, 2000 (First encoded May 22, 1996)"
-"Send corrections to" = "Sanskrit@cheerful.com,shrao@dvaita.org,or info@dvaita.org"
-"Site access" = "https://sanskritdocuments.org"
-title = "द्वादशस्तोत्रम् (मध्वकृइतम्)"
+---
+Author: Srimad Ananda Tiirtha, also known as Sri Madhva
+Category: vishhnu, vishnu_misc, stotra, Ananda-tIrtha, vishnu, dvAdasha
+File name: dvAdasha_stotra.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: June 18, 2000 (First encoded May 22, 1996)
+Location: doc_vishhnu
+Proofread by: '"Meera Tadipatri"'
+Send corrections to: Sanskrit@cheerful.com,shrao@dvaita.org,or info@dvaita.org
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: Vishnu
+Sublocation: vishhnu
+Text title: dvAdashastotrANi
+Texttype: stotra
+Transliterated by: Shrisha Rao
+engtitle: dvAdashastotram (Shri Madhva)
+itxtitle: dvAdashastotram (madhvakRitam)
+title: द्वादशस्तोत्रम् (मध्वकृइतम्)
 
-+++
+---
   
  द्वादशस्तोत्राणि श्रीमध्वकृत   
   
@@ -177,7 +177,7 @@ title = "द्वादशस्तोत्रम् (मध्वकृइत
 मधुसूदन दानवसादन वन्दे दैवतमोदन (दैवतमोदित) वेदित पाद ।  
 त्रिविक्रम निष्क्रम विक्रम वन्दे सुक्रम सङ्क्रमहुङ्कृतवक्त्र ॥ ५॥  var  सङ्क्रम सुक्रम हुङ्कृतवक्त्र  
 वामन वामन भामन वन्दे सामन सीमन सामन सानो ।  
-श्रीधर श्रीधर शंधर वन्दे भूधर वार्धर कन्धरधारिन् ॥ ६॥  
+श्रीधर श्रीधर शन्धर वन्दे भूधर वार्धर कन्धरधारिन् ॥ ६॥  
   
 हृषीकेश सुकेश परेश विवन्दे शरणेश कलेश बलेश सुखेश ।  
 पद्मनाभ शुभोद्भव वन्दे सम्भृतलोकभराभर भूरे ।  
@@ -249,7 +249,7 @@ title = "द्वादशस्तोत्रम् (मध्वकृइत
 विष्णोर्वाह  
 आश्रित्य शक्रमुखदेवगणैः अचिन्त्यं श्रीः यत्कटाक्ष बलवति अजितं नमामि ॥ ८॥  
   
-आनन्दतीर्थमुनिसन्मुखपंकजोत्थं साक्षाद्रमाहरिमनः प्रियं उत्तमार्थम् ।  
+आनन्दतीर्थमुनिसन्मुखपङ्कजोत्थं साक्षाद्रमाहरिमनः प्रियं उत्तमार्थम् ।  
 भक्त्या पठति अजितमात्मनि सन्निधाय यः स्तोत्रमेतभियाति तयोरभीष्टम् ॥ ९॥  
   
 इति श्रीमदानन्दतीर्थभगवत्पादाचार्य विरचितं  

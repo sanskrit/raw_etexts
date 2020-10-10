@@ -1,22 +1,22 @@
-+++
-"Text title" = "vaTukopaniShat"
-"File name" = "vaTukopaniShat.itx"
-itxtitle = "vaTukopaniShat (shaiva)"
-engtitle = "vaTukopaniShat"
-Category = "upanishhat, shiva, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वटुकोपनिषत् (शैव)"
+---
+Category: upanishhat, shiva, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: vaTukopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: vaTukopaniShat
+engtitle: vaTukopaniShat
+itxtitle: vaTukopaniShat (shaiva)
+title: वटुकोपनिषत् (शैव)
 
-+++
+---
   
  वटुकोपनिषत्   
 अथ वटुकोपनिषदं व्याख्यास्यामः ।  

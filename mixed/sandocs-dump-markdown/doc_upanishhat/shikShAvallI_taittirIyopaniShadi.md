@@ -1,24 +1,24 @@
-+++
-"Text title" = "shIkShAvallI taittirIyopaniShade"
-"File name" = "shikshaavalii.itx"
-itxtitle = "shikShAvallI taittirIyopaniShadi"
-engtitle = "ShikShavalli from Taittiriyopanishad"
-Category = "upanishhat, advice, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "advice"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "taittirIyopaniShad prathamAdhyAye ekAdasho.anuvAkaH"
-Indexextra = "(excerpts)"
-"Latest update" = "Jan 29, 1998, May 4, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिक्षावल्ली तैत्तिरीयोपनिषदि"
+---
+Category: upanishhat, advice, upanishad
+Description-comments: taittirIyopaniShad prathamAdhyAye ekAdasho.anuvAkaH
+File name: shikshaavalii.itx
+Indexextra: (excerpts)
+Language: Sanskrit
+Latest update: Jan 29, 1998, May 4, 2014
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: shIkShAvallI taittirIyopaniShade
+Texttype: advice
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: ShikShavalli from Taittiriyopanishad
+itxtitle: shikShAvallI taittirIyopaniShadi
+title: शिक्षावल्ली तैत्तिरीयोपनिषदि
 
-+++
+---
   
  शीक्षावल्ली तैत्तिरीयोपनिषदि   
   
@@ -60,14 +60,14 @@ the Teacher instructs the Pupil.
  अथ यदि ते कर्मविचिकित्सा वा  Then if there is any doubt regarding any Deeds,  
  वृत्तविचिकित्सा वा स्यात् ॥ ३॥  or doubt concerning Conduct,  
    
- ये तत्र ब्राह्मणाः संमर्शिनः ।  As the Brahmins who are competent to judge,  
+ ये तत्र ब्राह्मणाः सम्मर्शिनः ।  As the Brahmins who are competent to judge,  
  युक्ता आयुक्ताः ।  adept in Duty, not led by others,  
  अलूक्षा धर्मकामाः स्युः ।  not harsh, not led by passion,  
  यथा ते तत्र वर्तेरन् ।  in the manner they would behave  
  तथा तत्र वर्तेथाः ।  thus should you behave . I:11:Ii  
    
  अथाभ्याख्यातेषु ।  Then as to the persons accused of guilt  
- ये तत्र ब्राह्मणाः संमर्शिनः ।  like the Brahmins who are adept at deliberation  
+ ये तत्र ब्राह्मणाः सम्मर्शिनः ।  like the Brahmins who are adept at deliberation  
  युक्ता आयुक्ताः ।  who are competent to judge, not directed by others  
  अलूक्षा धर्मकामाः स्युः ।  not harsh, not moved by passion,  
  यथा ते तेषु वर्तेरन् ।  as they would behave in such cases  

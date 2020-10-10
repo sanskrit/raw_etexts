@@ -1,25 +1,26 @@
-+++
-"Text title" = "dayAnandAkSharamAlIyAShTottaranAmAvalI"
-"File name" = "dayAnandAkSharamAlIyAShTottaranAmAvalI.itx"
-itxtitle = "dayAnandAkSharamAlIyAShTottaranAmAvaliH (svAtmavidyAnandavirachitam sArthA)"
-engtitle = "The Alphabet-Garland of 108 Names of Pujya Sri Swami Dayananda"
-Category = "deities_misc, gurudev, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Swami Swatmavidyananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar, Sunder Hattangadi sunderh at hotmail.com"
-"Translated by" = "Swami Svatmavidyananda"
-Indexextra = "(Book)"
-Acknowledge-Permission = "A Light of Vedanta Publication, Eugene, OR, USA via N. Avinashilingam http://arshaavinash.in"
-"Latest update" = "March 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दयानन्दाक्षरमालीयाष्टोत्तरनामावलिः (स्वात्मविद्यानन्दविरचितम् सार्था)"
+---
+Acknowledge-Permission: A Light of Vedanta Publication, Eugene, OR, USA via N. Avinashilingam
+  http://arshaavinash.in
+Author: Swami Swatmavidyananda
+Category: deities_misc, gurudev, aShTottarashatanAmAvalI, nAmAvalI
+File name: dayAnandAkSharamAlIyAShTottaranAmAvalI.itx
+Indexextra: (Book)
+Language: Sanskrit
+Latest update: March 9, 2018
+Location: doc_deities_misc
+Proofread by: Shree Devi Kumar, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dayAnandAkSharamAlIyAShTottaranAmAvalI
+Translated by: Swami Svatmavidyananda
+Transliterated by: Shree Devi Kumar
+engtitle: The Alphabet-Garland of 108 Names of Pujya Sri Swami Dayananda
+itxtitle: dayAnandAkSharamAlIyAShTottaranAmAvaliH (svAtmavidyAnandavirachitam sArthA)
+title: दयानन्दाक्षरमालीयाष्टोत्तरनामावलिः (स्वात्मविद्यानन्दविरचितम् सार्था)
 
-+++
+---
   
  सार्था श्रीमद्भगवद्दयानन्दस्वाम्यक्षरमालीयाष्टोत्तरनामावलिः   
  The Alphabet-Garland of 108 Names of  
@@ -34,7 +35,7 @@ I worship the great bodied one of great intelligence, the
 giver of the boon of great success, the delight of Lord  
 Mahadeva, the consumer of great obstacles.    
 वेदान्ताम्बुजभास्वरं परगुरुं शिष्यांसुभिर्मालितम्  
-    येनाहं विनिबोधितासुवचसा शास्त्राब्धिसंमन्थनात् ।  
+    येनाहं विनिबोधितासुवचसा शास्त्राब्धिसम्मन्थनात् ।  
 तं ज्ञानाम्बरवेष्टितं यतिवरं भूतिज्वरघ्नौषधम्  
     शास्तारं कलये हृदा मम सदा स्वानन्दभद्रोदधिम् ॥   
 I always contemplate with the heart on my teacher, the  

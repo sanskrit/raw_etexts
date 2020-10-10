@@ -1,23 +1,23 @@
-+++
-"Text title" = "yatipanchakam"
-"File name" = "yati5.itx"
-itxtitle = "yatipanchakam athavA kapInapanchakam (shaNkarAchAryavirachitam)"
-engtitle = "Yatipanchakam"
-Category = "panchaka, shankarAchArya, vedanta"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "vedanta/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail)"
-Indexextra = "(Hindi)"
-"Latest update" = "March 26, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यतिपञ्चकम् अथवा कपीनपञ्चकम् (शण्कराचार्यविरचितम्)"
+---
+Author: Adi Shankaracharya
+Category: panchaka, shankarAchArya, vedanta
+File name: yati5.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: March 26, 2002
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi (sunderh at hotmail)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: vedanta/hinduism/religion
+Sublocation: shankara
+Text title: yatipanchakam
+Transliterated by: Sunder Hattangadi (sunderh at hotmail)
+engtitle: Yatipanchakam
+itxtitle: yatipanchakam athavA kapInapanchakam (shaNkarAchAryavirachitam)
+title: यतिपञ्चकम् अथवा कपीनपञ्चकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  यतिपञ्चकम्   
   

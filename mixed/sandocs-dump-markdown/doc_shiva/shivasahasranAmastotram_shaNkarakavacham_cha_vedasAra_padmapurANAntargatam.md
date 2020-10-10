@@ -1,22 +1,22 @@
-+++
-"Text title" = "Vedasara ShivasahasranAma Stotram from PadmapurAna"
-"File name" = "vedasArashivasahasranAmastotrampadmapurANa.itx"
-itxtitle = "shivasahasranAmastotram shaNkarakavacham cha (vedasAra padmapurANAntargatam)"
-engtitle = "Vedasara Shiva Sahasranamastotram from PadmapurAna"
-Category = "sahasranAma, shiva, kavacha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "DPD, Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Shankara kavacha, verses 1-61"
-"Latest update" = "October 1, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसहस्रनामस्तोत्रम् शण्करकवचम् च (वेदसार पद्मपुराणान्तर्गतम्)"
+---
+Category: sahasranAma, shiva, kavacha
+Description-comments: Shankara kavacha, verses 1-61
+File name: vedasArashivasahasranAmastotrampadmapurANa.itx
+Language: Sanskrit
+Latest update: October 1, 2016
+Location: doc_shiva
+Proofread by: DPD, Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Vedasara ShivasahasranAma Stotram from PadmapurAna
+Transliterated by: DPD, Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: Vedasara Shiva Sahasranamastotram from PadmapurAna
+itxtitle: shivasahasranAmastotram shaNkarakavacham cha (vedasAra padmapurANAntargatam)
+title: शिवसहस्रनामस्तोत्रम् शण्करकवचम् च (वेदसार पद्मपुराणान्तर्गतम्)
 
-+++
+---
   
  वेदसार श्रीशिवसहस्रनामस्तोत्रम्   
 शङ्करकवच श्लोकाः १-६१  

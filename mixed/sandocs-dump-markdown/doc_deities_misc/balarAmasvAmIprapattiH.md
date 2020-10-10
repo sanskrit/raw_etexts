@@ -1,22 +1,22 @@
-+++
-"Text title" = "balarAmasvAmIprapattiH"
-"File name" = "balarAmasvAmIprapattiH.itx"
-itxtitle = "balarAmasvAmIprapattiH"
-engtitle = "balarAmasvAmIprapattiH"
-Category = "deities_misc, rAmAnujasampradAya, prapatti"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बलरामस्वामीप्रपत्तिः"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: deities_misc, rAmAnujasampradAya, prapatti
+File name: balarAmasvAmIprapattiH.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: balarAmasvAmIprapattiH
+engtitle: balarAmasvAmIprapattiH
+itxtitle: balarAmasvAmIprapattiH
+title: बलरामस्वामीप्रपत्तिः
 
-+++
+---
   
  श्रीबलरामस्वामीप्रपत्तिः   
   

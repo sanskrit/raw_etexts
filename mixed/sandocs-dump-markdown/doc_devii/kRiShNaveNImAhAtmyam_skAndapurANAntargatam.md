@@ -1,25 +1,25 @@
-+++
-"Text title" = "kRiShNaveNImAhAtmya"
-"File name" = "kRiShNaveNImAhAtmya.itx"
-itxtitle = "kRiShNaveNImAhAtmyam (skAndapurANAntargatam)"
-engtitle = "Importance of kRiShNA River"
-Category = "devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "G. Sankaranarayanan"
-"Proofread by" = "G. Sankaranarayanan"
-Source = "skAndapurANa"
-Indexextra = "(Commentary)"
-"Latest update" = "November 2, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णवेणीमाहात्म्यम् (स्कान्दपुराणान्तर्गतम्)"
+---
+Category: devii, nadI, devI
+File name: kRiShNaveNImAhAtmya.itx
+Indexextra: (Commentary)
+Language: Sanskrit
+Latest update: November 2, 2016
+Location: doc_devii
+Proofread by: G. Sankaranarayanan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: skAndapurANa
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kRiShNaveNImAhAtmya
+Texttype: pramukha
+Transliterated by: G. Sankaranarayanan
+engtitle: Importance of kRiShNA River
+itxtitle: kRiShNaveNImAhAtmyam (skAndapurANAntargatam)
+title: कृइष्णवेणीमाहात्म्यम् (स्कान्दपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीकृष्णामाहात्म्यम्   
   

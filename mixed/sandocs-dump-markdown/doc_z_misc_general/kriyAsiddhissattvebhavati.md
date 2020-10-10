@@ -1,24 +1,24 @@
-+++
-"Text title" = "kriyAsiddhissattvebhavati"
-"File name" = "kriyAsiddhissattvebhavati.itx"
-itxtitle = "kriyAsiddhissattvebhavati"
-engtitle = "kriyAsiddhissattvebhavati"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "janArdana hegaDe"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Video 1, 2)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "क्रियासिद्धिस्सत्त्वेभवति"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: janArdana hegaDe
+Category: misc, sanskritgeet
+File name: kriyAsiddhissattvebhavati.itx
+Indexextra: (Wiki, Video 1, 2)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: kriyAsiddhissattvebhavati
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: kriyAsiddhissattvebhavati
+itxtitle: kriyAsiddhissattvebhavati
+title: क्रियासिद्धिस्सत्त्वेभवति
 
-+++
+---
   
  क्रियासिद्धिस्सत्त्वे भवति   
 क्रियासिद्धिस्सत्त्वे भवति महतां नोपकरणे ।  

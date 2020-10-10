@@ -1,22 +1,22 @@
-+++
-"Text title" = "garbhagItA"
-"File name" = "garbhagItA.itx"
-itxtitle = "garbhagItA"
-engtitle = "garbhagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Audio books 1, 2)"
-"Latest update" = "May 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गर्भगीता"
+---
+Category: gItA, giitaa
+File name: garbhagItA.itx
+Indexextra: (Audio books 1, 2)
+Language: Sanskrit
+Latest update: May 18, 2013
+Location: doc_giitaa
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: garbhagItA
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: garbhagItA
+itxtitle: garbhagItA
+title: गर्भगीता
 
-+++
+---
   
  गर्भगीता   
 वन्दे कृष्णं सुरेन्द्रं स्थितिलयजनने कारणं सर्वजन्तोः  
@@ -71,7 +71,7 @@ title = "गर्भगीता"
 न मोक्षं कन्दभक्षेण न मोक्षं सर्वरोधनम् ॥ १४॥  
   
 यावद्बुद्धिविकारेण आत्मतत्त्वं न विन्दति ।  
-यावद्योगं च संन्यासं तावच्चित्तं न हि स्थिरम् ॥ १५॥  
+यावद्योगं च सन्न्यासं तावच्चित्तं न हि स्थिरम् ॥ १५॥  
   
 अभ्यन्तरं भवेत् शुद्धं चिद्भावस्य विकारजम् ।  
 न क्षालितं मनोमाल्यं किं भवेत् तपकोटिषु ॥ १६॥  

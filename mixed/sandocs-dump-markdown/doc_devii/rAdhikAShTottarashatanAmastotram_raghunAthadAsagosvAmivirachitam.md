@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAdhikAShTottarashatanAmastotram"
-"File name" = "rAdhikAShTottarashatanAmastotram.itx"
-itxtitle = "rAdhikAShTottarashatanAmastotram (raghunAthadAsagosvAmivirachitam)"
-engtitle = "rAdhikAShTottarashatanAmastotram"
-Category = "devii, radha, raghunAthadAsagosvAmin, stavAvalI, aShTottarashatanAma, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "RaghunathadAsagosvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "From Collected prayers by Raghunatha Dasa Goswami Stavavali"
-Indexextra = "(VSM 1, Text, Meaning 1, 2, Info)"
-"Latest update" = "March 15, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधिकाष्टोत्तरशतनामस्तोत्रम् (रघुनाथदासगोस्वामिविरचितम्)"
+---
+Author: RaghunathadAsagosvAmi
+Category: devii, radha, raghunAthadAsagosvAmin, stavAvalI, aShTottarashatanAma, devI
+Description/comments: From Collected prayers by Raghunatha Dasa Goswami Stavavali
+File name: rAdhikAShTottarashatanAmastotram.itx
+Indexextra: (VSM 1, Text, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: March 15, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhikAShTottarashatanAmastotram
+engtitle: rAdhikAShTottarashatanAmastotram
+itxtitle: rAdhikAShTottarashatanAmastotram (raghunAthadAsagosvAmivirachitam)
+title: राधिकाष्टोत्तरशतनामस्तोत्रम् (रघुनाथदासगोस्वामिविरचितम्)
 
-+++
+---
   
  श्रीराधिकाष्टोत्तरशतनामस्तोत्रम्   
 अवीक्षितेश्वरी काचिद्वृन्दावनमहेश्वरीम् ।  

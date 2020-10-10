@@ -1,23 +1,23 @@
-+++
-"Text title" = "Batukabhairava Ashtottarashatanama Stotram"
-"File name" = "baTukabhairavAShTottarashatanAmastotram.itx"
-itxtitle = "ApaduddhAraka baTukabhairavAShTottarashatanAmastotram"
-engtitle = "Batukabhairavashtottarashatanamastotram ApaduddhAraka"
-Category = "aShTottarashatanAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, Psa Easwaran psaeaswaran at gmail.com"
-Source = "Shivanama Manjari 1, page 480"
-Indexextra = "(SN Manjari 1, stotramAlA)"
-"Latest update" = "June 23, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आपदुद्धारक बटुकभैरवाष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, shiva
+File name: baTukabhairavAShTottarashatanAmastotram.itx
+Indexextra: (SN Manjari 1, stotramAlA)
+Language: Sanskrit
+Latest update: June 23, 2016
+Location: doc_shiva
+Proofread by: Gopal Upadhyay, Psa Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shivanama Manjari 1, page 480
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Batukabhairava Ashtottarashatanama Stotram
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: Batukabhairavashtottarashatanamastotram ApaduddhAraka
+itxtitle: ApaduddhAraka baTukabhairavAShTottarashatanAmastotram
+title: आपदुद्धारक बटुकभैरवाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीबटुकभैरवाष्टोत्तरशतनामस्तोत्रम्   
 आपदुद्धारकबटुकभैरवस्तोत्रम्  

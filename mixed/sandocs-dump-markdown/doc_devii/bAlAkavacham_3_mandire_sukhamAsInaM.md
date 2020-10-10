@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Kavacham  3"
-"File name" = "bAlAkavacham3.itx"
-itxtitle = "bAlAkavacham 3 (mandire sukhamAsInaM)"
-engtitle = "bAlAkavacham 3"
-Category = "devii, dashamahAvidyA, devI, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाकवचम् ३ (मन्दिरे सुखमासीनं)"
+---
+Category: devii, dashamahAvidyA, devI, kavacha
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAkavacham3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Kavacham  3
+engtitle: bAlAkavacham 3
+itxtitle: bAlAkavacham 3 (mandire sukhamAsInaM)
+title: बालाकवचम् ३ (मन्दिरे सुखमासीनं)
 
-+++
+---
   
  श्रीबालाकवचम् ३   
 अस्य श्रीबालात्रिपुरसुन्दरीकवचस्तोत्रमहामन्त्रस्य दक्षिणामूर्तिः  

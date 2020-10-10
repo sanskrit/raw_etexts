@@ -1,23 +1,23 @@
-+++
-"Text title" = "natopadeshastotram"
-"File name" = "natopadeshastotram.itx"
-itxtitle = "natopadeshastotram"
-engtitle = "natopadeshastotram"
-Category = "deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नतोपदेशस्तोत्रम्"
+---
+Category: deities_misc
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: natopadeshastotram.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: natopadeshastotram
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: natopadeshastotram
+itxtitle: natopadeshastotram
+title: नतोपदेशस्तोत्रम्
 
-+++
+---
   
  नतोपदेशस्तोत्रम्   
   

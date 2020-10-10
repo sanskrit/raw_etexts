@@ -1,22 +1,22 @@
-+++
-"Text title" = "ambikAstavanam"
-"File name" = "ambikAstavanam.itx"
-itxtitle = "ambikAstavanam (vastupAlavirachitam)"
-engtitle = "ambikAstavanam"
-Category = "devii, devI, jaina"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Vastupala"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अम्बिकास्तवनम् (वस्तुपालविरचितम्)"
+---
+Author: Vastupala
+Category: devii, devI, jaina
+File name: ambikAstavanam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ambikAstavanam
+engtitle: ambikAstavanam
+itxtitle: ambikAstavanam (vastupAlavirachitam)
+title: अम्बिकास्तवनम् (वस्तुपालविरचितम्)
 
-+++
+---
   
  श्रीअम्बिकास्तवनम्   
 महामात्यश्रीवस्तुपालविरचितं  

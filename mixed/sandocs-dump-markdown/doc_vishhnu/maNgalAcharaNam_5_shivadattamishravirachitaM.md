@@ -1,22 +1,22 @@
-+++
-"Text title" = "mangalAcharaNam 5"
-"File name" = "mangalAcharaNam5.itx"
-itxtitle = "maNgalAcharaNam 5 (shivadattamishravirachitaM)"
-engtitle = "mangalAcharaNam 5"
-Category = "vishhnu, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Shivadatta Mishra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मण्गलाचरणम् ५ (शिवदत्तमिश्रविरचितं)"
+---
+Author: Shivadatta Mishra
+Category: vishhnu, mangala
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: mangalAcharaNam5.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: mangalAcharaNam 5
+engtitle: mangalAcharaNam 5
+itxtitle: maNgalAcharaNam 5 (shivadattamishravirachitaM)
+title: मण्गलाचरणम् ५ (शिवदत्तमिश्रविरचितं)
 
-+++
+---
   
  मङ्गलाचरणम् ५   
 श्रीगणेशाय नमः  

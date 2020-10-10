@@ -1,21 +1,21 @@
-+++
-"Text title" = "rAdhAkRRiShNaprAdurbhAvaH"
-"File name" = "rAdhAkRRiShNaprAdurbhAvaH.itx"
-itxtitle = "rAdhAkRRiShNaprAdurbhAvaH"
-engtitle = "rAdhAkRRiShNaprAdurbhAvaH"
-Category = "devii, radha, krishna, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "sarasa stotrasangrahaH (Lucknow, 1909)"
-Indexextra = "(Scanned)"
-"Latest update" = "November 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाकृष्णप्रादुर्भावः"
+---
+Category: devii, radha, krishna, devI
+Description-comments: sarasa stotrasangrahaH (Lucknow, 1909)
+File name: rAdhAkRRiShNaprAdurbhAvaH.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 4, 2017
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAkRRiShNaprAdurbhAvaH
+engtitle: rAdhAkRRiShNaprAdurbhAvaH
+itxtitle: rAdhAkRRiShNaprAdurbhAvaH
+title: राधाकृष्णप्रादुर्भावः
 
-+++
+---
   
  श्रीराधाकृष्णप्रादुर्भावः   
 श्रीमते रामानुजाय नमः ।  

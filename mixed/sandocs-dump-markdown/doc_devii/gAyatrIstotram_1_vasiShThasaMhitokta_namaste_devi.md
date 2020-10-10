@@ -1,32 +1,32 @@
-+++
-"Text title" = "gAyatrIstotram 1"
-"File name" = "gaayatriistotra.itx"
-itxtitle = "gAyatrIstotram 1 (vasiShThasaMhitokta namaste devi)"
-engtitle = "gAyatrIstotram 1"
-Category = "devii, gAyatrI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Satish Bharadwaj satish_uma at hotmail.com"
-Description-comments = "vasiShThasa.nhita"
-"Latest update" = "September 8, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीस्तोत्रम् १ (वसिष्ठसंहितोक्त नमस्ते देवि)"
+---
+Author: Traditional
+Category: devii, gAyatrI, stotra, devI
+Description-comments: vasiShThasa.nhita
+File name: gaayatriistotra.itx
+Language: Sanskrit
+Latest update: September 8, 2004
+Location: doc_devii
+Proofread by: Satish Bharadwaj satish_uma at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrIstotram 1
+Texttype: stotra
+Transliterated by: WebD
+engtitle: gAyatrIstotram 1
+itxtitle: gAyatrIstotram 1 (vasiShThasaMhitokta namaste devi)
+title: गायत्रीस्तोत्रम् १ (वसिष्ठसंहितोक्त नमस्ते देवि)
 
-+++
+---
   
  श्रीगायत्रीस्तोत्रम् १   
   
 नमस्ते देवि गायत्री सावित्री त्रिपदेऽक्षरी ।  
 अजरे अमरे माता त्राहि मां भवसागरात् ॥ १॥  
   
-नमस्ते सूर्यसंकाशे सूर्यवावित्रिकेऽमले ।  
+नमस्ते सूर्यसङ्काशे सूर्यवावित्रिकेऽमले ।  
 ब्रह्मविद्ये महाविद्ये वेदमातर्नमोऽस्तु ते ॥ २॥  
   
 अनन्तकोटि-ब्रह्माण्डव्यापिनी ब्रह्मचारिणी ।  

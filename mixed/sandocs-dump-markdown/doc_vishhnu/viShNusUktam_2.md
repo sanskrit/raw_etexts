@@ -1,21 +1,21 @@
-+++
-"Text title" = "viShNusUktam 2"
-"File name" = "viShNusUktam2.itx"
-itxtitle = "viShNusUktam 2"
-engtitle = "viShNusUktam 2"
-Category = "vishhnu, veda, sUkta, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "sarasa stotrasangrahaH (Lucknow, 1909)"
-Indexextra = "(Scanned)"
-"Latest update" = "November 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुसूक्तम् २"
+---
+Category: vishhnu, veda, sUkta, vishnu
+Description-comments: sarasa stotrasangrahaH (Lucknow, 1909)
+File name: viShNusUktam2.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 4, 2017
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNusUktam 2
+engtitle: viShNusUktam 2
+itxtitle: viShNusUktam 2
+title: विष्णुसूक्तम् २
 
-+++
+---
   
  श्रीविष्णुसूक्तम् २   
 युञ्जते मन उत युञ्जते धियो विप्राछिप्रस्य बृहतोविपश्चितो-  

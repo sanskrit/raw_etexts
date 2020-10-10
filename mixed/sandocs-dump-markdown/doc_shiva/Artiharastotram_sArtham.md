@@ -1,24 +1,24 @@
-+++
-"Text title" = "Artiharastotram"
-"File name" = "Artiharastotram.itx"
-itxtitle = "Artiharastotram (sArtham)"
-engtitle = "Artiharastotram"
-Category = "shiva, shrIdhara-venkaTesha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sri Sridhara Venkatesa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-Indexextra = "(with meaning and commentary)"
-"Latest update" = "May 18, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आर्तिहरस्तोत्रम् (सार्थम्)"
+---
+Author: Sri Sridhara Venkatesa
+Category: shiva, shrIdhara-venkaTesha
+File name: Artiharastotram.itx
+Indexextra: (with meaning and commentary)
+Language: Sanskrit
+Latest update: May 18, 2007
+Location: doc_shiva
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Artiharastotram
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: Artiharastotram
+itxtitle: Artiharastotram (sArtham)
+title: आर्तिहरस्तोत्रम् (सार्थम्)
 
-+++
+---
   
  आर्तिहरस्तोत्रम् सार्थ   
   
@@ -35,17 +35,17 @@ collection of hymns they recite during their prayer.
   
            ॥ अथ आर्तिहरस्तोत्रम् ॥  
   
-श्री शंभो मयि करुणाशिशिरां दृष्टिं दिशन् सुधावृष्टिम् ।  
+श्री शम्भो मयि करुणाशिशिरां दृष्टिं दिशन् सुधावृष्टिम् ।  
 सन्तापमपाकुरुमे मन्तापरमेश तव दयायाः स्याम् ॥ १॥  
   
 अवसीदामि यदार्तिभिरनुगुणमिदमोकसोंहसां खलु मे ।  
 तव सन्नवसीदामि यदन्तकशासन नतत्तवानुगुणम् ॥ २॥  
   
-देव स्मरंति तव येतेषां स्मरतोऽपि नार्तिरितिकीर्तिम् ।  
+देव स्मरन्ति तव येतेषां स्मरतोऽपि नार्तिरितिकीर्तिम् ।  
 कलयसि शिव पाहीतिक्रन्दन् सीदाम्यहं किमुचितमिदम् ॥ ३॥  
   
 आदिश्याघकृतौ मामन्तर्यामिन्नसावघात्मेति ।  
-आर्तिषुमज्जयसे मां किंब्रूयां तवकृपैकपात्रमहम् ॥ ४॥  
+आर्तिषुमज्जयसे मां किम्ब्रूयां तवकृपैकपात्रमहम् ॥ ४॥  
   
 मन्दाग्र्णीरहं तव मयि करुणां घटयितुं विबोनालम् ।  
 आकृष्टुं तान्तु बलादलमिह मद्दैन्यमिति समाश्वसिति ॥ ५॥  
@@ -54,7 +54,7 @@ collection of hymns they recite during their prayer.
 त्वं मयि दोषान् गणयसि किं कथये तुदति किं दया नत्वाम् ॥ ६॥  
   
 आश्रितमार्ततरं मामुपेक्षसे किमिति शिव न किं दयसे ।  
-श्रितगोप्ता दीनार्तिहृदिति खलु शंसंति जगति सन्तस्त्वाम् ॥ ७॥  
+श्रितगोप्ता दीनार्तिहृदिति खलु शंसन्ति जगति सन्तस्त्वाम् ॥ ७॥  
   
 प्रहराहरेतिवादी फणितमदाख्य इति पालितो भवता ।  
 शिव पाहीति वदोऽहं शृतो न किं क्वां कथं न पाल्यस्ते ॥ ८॥  
@@ -62,14 +62,14 @@ collection of hymns they recite during their prayer.
 शरणं व्रज शिवमार्तीस्सतव हरेदिति सतां गिराऽहम् त्वाम् ।  
 शरणं गतोऽस्मि पालय खलमपि तेष्वीश पक्षपातान्माम् ॥ ९॥  
   
-इति श्री श्रीधरवेंकटेशार्यकृतिषु आर्तिहरस्तोत्रं संपूर्णम् ॥  
+इति श्री श्रीधरवेङ्कटेशार्यकृतिषु आर्तिहरस्तोत्रं सम्पूर्णम् ॥  
   
   
   
 The author of this poem, Shridhara Venkatesa was a great devotee. He took immense delight  
 in chanting and singing the names of the Lord. One of the traits of a true devotee is his  
 concern for the welfare of other beings. Krishna mentions (दया भूतेषु) compassion to  
-others who are suffering, as one of the noble (दैवी संपत्)  qualities that one should  
+others who are suffering, as one of the noble (दैवी सम्पत्)  qualities that one should  
 acquire to make spiritual progress.  Great devotees like Shridhara have their minds firmly  
 fixed in the Lord and so were not unduly worried about themselves. They knew that Lord  
 will take care of their welfare.  Thus, having been freed from worries about  
@@ -128,14 +128,14 @@ The following abbreviations are used in the notes.
   
                ॥ अथ आर्तिहरस्तोत्रम् ॥  
   
-श्री शंभो मयि करुणाशिशिरां दृष्टिं दिशन् सुधावृष्टिम्।  
+श्री शम्भो मयि करुणाशिशिरां दृष्टिं दिशन् सुधावृष्टिम्।  
 सन्तापमपाकुरु मे मन्ता परमेश तव दयायाः स्याम् ॥ १॥   
   
 Meaning:- O Lord Shambhu! please cast Your vision that is full of nectar  
 like kindness on me and dispel my suffering.  
 Then only will I understand the truth about Your kind nature.  
-Note:- The Lord is addressed as शंभुः - शं सुखं भावयति उत्पादयतीति शंभुः ।  
-शिवंकर इत्यर्तः । “शिव एको ध्येयः शिवंकरः” इति श्रुतेः ।  SA(3) and VS(38).  
+Note:- The Lord is addressed as शम्भुः - शं सुखं भावयति उत्पादयतीति शम्भुः ।  
+शिवङ्कर इत्यर्तः । “शिव एको ध्येयः शिवङ्करः” इति श्रुतेः ।  SA(3) and VS(38).  
 ``Shambhu'' - the name means one who will remove distress and give happiness.  
 Since the poet says he is distressed and wants relief he addresses the  
 Lord appropriately as Shambhu.  How does one get distress? It is the  
@@ -201,7 +201,7 @@ Accordingly Shiva is pleased when He is offered some water or even some grass
 This is implied in His name.  
 कारुण्यनिधिः - कारुण्यं कृपा अस्मिन्निधीयते इति कारुण्यनिधिः ।  
 अतिसुलभ-चुलुक जल, दूर्वादि, तृणस्वीकारेण भोग-मोक्षप्रदत्वात् ।  
-“दलं किंचित्समादाय चुलुकं जलमेव वा ।  
+“दलं किञ्चित्समादाय चुलुकं जलमेव वा ।  
 यो दत्ते नियमेनासौ तस्मै दत्ते जगत्त्रयं” - इति ॥  
   
 शिवगीतायाम् ॥ “घृणिन कपर्दिन” इति श्रुतिः ।  SS(872).  
@@ -328,16 +328,16 @@ worst suffering any living being can experience.  But Yama himself is afraid
 of Lord Shiva. So Shiva has the  names kAlakAla and Mrityunjaya.  
 कालकालः । कालयति नाशयतीति व्युत्पत्त्या कालो यमः, तस्यापि कालः,  
 कालयिता उपसंहरकः इति । SA (29).  
-and मृत्युंजयः । मृत्युः मरणं स्वभक्तानां मृत्युं जयति  
-स्वोपासनया परिहरतीति मृत्युंजयः ।  
-“त्र्यंबकं यजामहे सुगन्धिं पुष्टिवर्धनम् ।  
+and मृत्युञ्जयः । मृत्युः मरणं स्वभक्तानां मृत्युं जयति  
+स्वोपासनया परिहरतीति मृत्युञ्जयः ।  
+“त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् ।  
 उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात्” । इति  
 “यस्मिन्युक्ता ॠषयो देवताश्च, तमेव ज्ञात्वा  
 मृत्युपाशान्छिनत्ति” इति श्रुतेश्च । SA (71) and SS(123).  
 Yama being the destroyer of everything is known as kAla. Even Yama is destroyed  
 by Him and so Shiva is known as kAlakAla.  
   
-देव स्मरंति तव ये तेषां स्मरतोऽपि नार्तिरिति कीर्तिम् ।  
+देव स्मरन्ति तव ये तेषां स्मरतोऽपि नार्तिरिति कीर्तिम् ।  
 कलयसि शिव पाहीति क्रन्दन् सीदाम्यहं किमुचितमिदम् ॥ ३॥   
   
 Meaning:- O Lord, I have heard that those who think of You do not get exposed  
@@ -357,7 +357,7 @@ at the end of our daily puja or prayer
 So, out of mercy, please protect me.'  
   
 आदिश्याघकृतौ मामन्तर्यामिन्नसावघात्मेति।  
-आर्तिषुमज्जयसे मां किंब्रूयां तवकृपैकपात्रमहम् ॥ ४॥   
+आर्तिषुमज्जयसे मां किम्ब्रूयां तवकृपैकपात्रमहम् ॥ ४॥   
   
 Meaning:- You are my inner Self. This being so, it is clear that it is by Your  
 inducement only I committed various sins and as the result am now suffering.  
@@ -377,7 +377,7 @@ non-illusion, patience, truth, self-restraint, calmness, pleasure, pain,
 birth, death, fear,security, innocence, equanimity, contentment, austerity,  
 beneficience, fame, shame all arise from Him, the Lord alone. (BG 10-4,5).  
    
-बुद्धिर्ज्ञानमसंमोहः क्षमा सत्यं दमः शमः ।  
+बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः ।  
 सुखं दुःखं भवोऽभावो भयं चाभयमेव च ॥  
   
 अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः ।  
@@ -411,7 +411,7 @@ He says that, if She does not come to his rescue and relieve the distress in
 his heart, then She too will suffer since She is present in his heart, as in  
 the hearts of all beings!  
 यदि त्वं मदीयं शुचं नापनुद्याः तदा दुःखवह्निप्रतप्तेऽन्तरङ्गे ।  
-मदीये स्थितायास्तवाप्यंब खेदौ भवएदित्यहं चिन्तयाऽऽर्तोऽस्मि भूयः ॥   
+मदीये स्थितायास्तवाप्यम्ब खेदौ भवएदित्यहं चिन्तयाऽऽर्तोऽस्मि भूयः ॥   
    
 मन्दाग्रणीरहं तव मयि करुणां घटयितुं विबो नालम्।  
 आकृष्टुं तां तु बलात् अलमिह मद्दैन्यमिति समाश्वसिमि ॥ ५॥   
@@ -442,7 +442,7 @@ happiness though the results may not be evident here and now. Because of these
 reasons people who have not studied the scriptures deeply and lack full faith  
 in what they say, stay away from the superior path shown by them. Yama, the  
 god of death, says this to his student Nachiketas in Kathopanishad. (1-2-2).  
-श्रेयश्च प्रेयश्च मनुष्यमेतस्तौ संपरीत्य विविनक्ति धीरः ।  
+श्रेयश्च प्रेयश्च मनुष्यमेतस्तौ सम्परीत्य विविनक्ति धीरः ।  
 श्रेयो हि धीरोऽभि प्रेयसो वृणीते प्रेयो मन्दो योगक्षेमात् वृणीते ॥   
 How do such ``dull witted᳚ people spend their time? Shri Bhagavata says that they  
 slog  in pursuit of wealth, security etc. But these things so earned cannot  
@@ -484,7 +484,7 @@ innumerable problems without Lord's grace.(AS-11).
 उल्लङ्घ्याज्ञामुडुपतिकलाचूड ते विश्ववन्द्य  
      त्यक्ताचारः पशुवदधुना मुक्तलज्जश्चरामि ।  
 एवं नानाविधभवततिप्राप्तदीर्घापराधः  
-     क्लेशांभोधिं कथमहमृते त्वत्प्रसादात्तरेयम् ॥   
+     क्लेशाम्भोधिं कथमहमृते त्वत्प्रसादात्तरेयम् ॥   
   
 Mind is known as one of the organs like the eyes and ears. The word mind is  
 used to refer to the intellect, memory and the capacity to recollect also  
@@ -551,7 +551,7 @@ is not used to being controlled. When the mind is not under control, it is
 easily swayed by emotions like desire or anger.  One whose mind is thus out of  
 control cannot be expected to have discrimination and judgement. Krishna said:  
 इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते ।  
-तदस्य हरति प्रज्ञां वायु-र्नावमिवांभसि ॥  BG (2-67)  
+तदस्य हरति प्रज्ञां वायु-र्नावमिवाम्भसि ॥  BG (2-67)  
 The upanishads state this clearly. They say that the supreme Being cannot be  
 obtained by one without strength of mind. He should have his goal clearly in  
 mind and work for it with determination.   
@@ -567,7 +567,7 @@ So he still has a long way to travel before he can call himself a devotee. We
 should remember here that the author Shridhara is saying this as our representative.  
   
 आश्रितमार्ततरं मामुपेक्षसे किमिति शिव न किं दयसे।  
-श्रितगोप्ता दीनार्तिहृदिति खलु शंसंति जगति सन्तस्त्वाम् ॥ ७॥   
+श्रितगोप्ता दीनार्तिहृदिति खलु शंसन्ति जगति सन्तस्त्वाम् ॥ ७॥   
   
 Meaning:- I depend on You. Still why do You  ignore me? Cannot You show some  
 mercy towards me?  The saintly people say that You take care of those who depend  
@@ -603,7 +603,7 @@ like hunger, he is purified and gets the highest goal.
 आश्चर्ये वा भये शोके  क्षुते वा मम नाम यः ।  
 व्याजेन वा स्मरेद्यस्तु स याति परमां गतिम् ॥   
 A similar statement is seen in Shri Bhagavatam also.  
-सांकेत्यं पारिहास्यं वा स्तोभं हेलनमेव वा ।  
+साङ्केत्यं पारिहास्यं वा स्तोभं हेलनमेव वा ।  
 वैकुण्ठ-नाम-ग्रहणं अशेषाघहरं विदुः ॥   
 Lord's names utterd as a gesture or in joke or in the midst of a song or  
 even out of disrespect washes away all sins.  
@@ -633,7 +633,7 @@ new way of life that will free one from sorrows. In particular this is
 suited to one who does not have great deal of scholarship and had not lead  
 a disciplined life. The poet says this in Sharada bhujanga stotram thus.  
 न मन्त्रं न यन्त्रं न वा स्तोत्ररीतिं विजानेऽम्ब वक्तुं च मद्दुःखरीतिम् ।  
-त्वदंघ्रिप्रणम्रो न पात्रं शुचः स्यादिति त्वां प्रपद्ये तवैव प्रसादात् ॥   
+त्वदङ्घ्रिप्रणम्रो न पात्रं शुचः स्यादिति त्वां प्रपद्ये तवैव प्रसादात् ॥   
 He says ``I do not know mantram, tantram, the manner of praisng You and not  
 even how to express my distress. One who prostrates at Your feet will not  
 suffer any more. Knowing this I surrender to You by Your grace only᳚.  
@@ -707,7 +707,7 @@ and have committed many mistakes. They have now realised that they cannot
 win over these powerful enemies with their volition and have come to the  
 Lord as the final recourse. So, it is now incumbent on Him to rescue them  
 who are now full of repentance.   
-इति श्री श्रीधरवेंकटेशार्यकृतिषु आर्तिहरस्तोत्रं संपूर्णम् ॥   
+इति श्री श्रीधरवेङ्कटेशार्यकृतिषु आर्तिहरस्तोत्रं सम्पूर्णम् ॥   
   
   
    

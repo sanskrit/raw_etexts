@@ -1,22 +1,22 @@
-+++
-"Text title" = "uchChiShTagaNeshakavacham"
-"File name" = "uchChiShTagaNeshakavacham.itx"
-itxtitle = "uchChiShTagaNeshakavacham (rudrayAmalAntargatam)"
-engtitle = "uchChiShTagaNeshakavacham"
-Category = "kavacha, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Duttaprasad Sharma duttaprasadsharma at gmail.com and Gopal Upadhyay"
-"Proofread by" = "Duttaprasad Sharma, Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-Description-comments = "RudrayAmale utaratantre siddhividyAprakaraNe"
-"Latest update" = "March 29, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उच्छिष्टगणेशकवचम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: kavacha, ganesha
+Description-comments: RudrayAmale utaratantre siddhividyAprakaraNe
+File name: uchChiShTagaNeshakavacham.itx
+Language: Sanskrit
+Latest update: March 29, 2019
+Location: doc_ganesha
+Proofread by: Duttaprasad Sharma, Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: uchChiShTagaNeshakavacham
+Transliterated by: Duttaprasad Sharma duttaprasadsharma at gmail.com and Gopal Upadhyay
+engtitle: uchChiShTagaNeshakavacham
+itxtitle: uchChiShTagaNeshakavacham (rudrayAmalAntargatam)
+title: उच्छिष्टगणेशकवचम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  उच्छिष्टगणेशकवचम्   
   
@@ -40,7 +40,7 @@ title = "उच्छिष्टगणेशकवचम् (रुद्रय
 सिन्धुतीरे च गङ्गायाः कूले वृक्षतले जले ।  
 सर्वदेवालये तीर्थे लब्ध्वा सम्यग्जपं चरेत् ॥ ५॥  
   
-स्नानशौचादिकं नास्ति नास्ति निर्वंधनं प्रिये ।  
+स्नानशौचादिकं नास्ति नास्ति निर्वन्धनं प्रिये ।  
 दारिद्र्यान्तकरं शीघ्रं सर्वतत्त्वं जनप्रिये ॥ ६॥  
   
 सहस्रशपथं कृत्वा यदि स्नेहोऽस्ति मां प्रति ।  
@@ -82,7 +82,7 @@ title = "उच्छिष्टगणेशकवचम् (रुद्रय
 भूतीश्वरः परः पातु आस्यं जिह्वां स्वयंवपुः ।  
 तद्बीजं पातु मां नित्यं ग्रीवायां कण्ठदेशके ॥ १९॥  
   
-गंबीजं च तथा रक्षेत्तथा त्वग्रे च पृष्ठके ।  
+गम्बीजं च तथा रक्षेत्तथा त्वग्रे च पृष्ठके ।  
 सर्वकामश्च हृत्पातु पातु मां च करद्वये ॥ २०॥  
   
 उच्छिष्टाय च हृदये वह्निबीजं तथोदरे ।  
@@ -207,7 +207,7 @@ title = "उच्छिष्टगणेशकवचम् (रुद्रय
      लभति सकलसौख्यं शक्तिपुत्रप्रसादात् ॥ ६०॥  
   
    var   
-(इति परमरहस्यंदेवदेवार्चितस्य-  
+(इति परमरहस्यन्देवदेवार्चितस्य-  
      कवचमुदितमेतत्पार्वतीशेन देव्यै  
 पठति स लभ्यते वैभक्तितो भक्तवर्यः  
      प्रचुरसकलसौख्यं शक्तिपुत्रप्रसादात् ॥)  

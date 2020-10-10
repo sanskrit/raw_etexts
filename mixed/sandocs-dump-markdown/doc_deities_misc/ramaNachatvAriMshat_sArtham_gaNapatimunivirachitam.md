@@ -1,26 +1,27 @@
-+++
-"Text title" = "ramaNachatvAriMshat"
-"File name" = "ramaNachatvAriMshatGMmean.itx"
-itxtitle = "ramaNachatvAriMshat (sArtham) (gaNapatimunivirachitam)"
-engtitle = "Forty Verses in Praise of Maharshi Ramana"
-Category = "deities_misc, ramana, gaNapati-muni, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ramana"
-Author = "Vasishtha Ganapati Muni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Translated by" = "Anil Sharma anilandvijaya at gmail.com"
-Description-comments = "Ramanashram Publication (Forty Verses in praise of Ramana Maharshi with English meaning)"
-Indexextra = "(Collected Works)"
-Acknowledge-Permission = "Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org"
-"Latest update" = "November 9, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रमणचत्वारिंशत् (सार्थम्) (गणपतिमुनिविरचितम्)"
+---
+Acknowledge-Permission: Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org
+Author: Vasishtha Ganapati Muni
+Category: deities_misc, ramana, gaNapati-muni, gurudev
+Description-comments: Ramanashram Publication (Forty Verses in praise of Ramana Maharshi
+  with English meaning)
+File name: ramaNachatvAriMshatGMmean.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: November 9, 2014
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ramana
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: ramaNachatvAriMshat
+Translated by: Anil Sharma anilandvijaya at gmail.com
+engtitle: Forty Verses in Praise of Maharshi Ramana
+itxtitle: ramaNachatvAriMshat (sArtham) (gaNapatimunivirachitam)
+title: रमणचत्वारिंशत् (सार्थम्) (गणपतिमुनिविरचितम्)
 
-+++
+---
   
  सार्थ श्रीरमणचत्वारिंशत्   
   
@@ -158,7 +159,7 @@ dishonor (from others).
   
   
 यतिनामधिपेन कुशाग्रलसन्मतिना धृतिना शितचित्तभुवा ।  
-लहरींप्रमदस्य सदावहता निहतान्तरशात्रवसंहतिना ॥ ८॥  
+लहरीम्प्रमदस्य सदावहता निहतान्तरशात्रवसंहतिना ॥ ८॥  
   
 यतिनां -  of ascetics,  अधिपेन -  lord,   
 कुशाग्र -  sharp (as kusha grass),  लसन् -  shining,   

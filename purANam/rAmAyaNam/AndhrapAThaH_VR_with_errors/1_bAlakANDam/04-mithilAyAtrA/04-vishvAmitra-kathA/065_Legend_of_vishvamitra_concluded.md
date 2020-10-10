@@ -3,7 +3,6 @@ title: 065 विश्वामित्र-ब्रह्मर्षित�
 title_english: 065 Legend of vishvamitra concluded
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-065-Vishvamithrasya_Bramharshithva_Prapthihi.mp3"></div>
 
 अथ हैमवतीं राम दिशं त्यक्त्वा महामुनिः।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrIuchChiShTagaNapatisahasranAmastotram"
-"File name" = "uchChiShTagaNapatisahasranAmastotram.itx"
-itxtitle = "uchChiShTagaNapatisahasranAmastotram (rudrayAmalAntargatam)"
-engtitle = "uchChiShTagaNapatisahasranAmastotram"
-Category = "sahasranAma, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, help from Alex"
-"Proofread by" = "DPD, PSA Easwaran, Shankara"
-Description-comments = "RudrayAmalatantra"
-"Latest update" = "November 7, 2014, December 9, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उच्छिष्टगणपतिसहस्रनामस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: sahasranAma, ganesha
+Description-comments: RudrayAmalatantra
+File name: uchChiShTagaNapatisahasranAmastotram.itx
+Language: Sanskrit
+Latest update: November 7, 2014, December 9, 2016
+Location: doc_ganesha
+Proofread by: DPD, PSA Easwaran, Shankara
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: shrIuchChiShTagaNapatisahasranAmastotram
+Transliterated by: DPD, help from Alex
+engtitle: uchChiShTagaNapatisahasranAmastotram
+itxtitle: uchChiShTagaNapatisahasranAmastotram (rudrayAmalAntargatam)
+title: उच्छिष्टगणपतिसहस्रनामस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीउच्छिष्टगणपतिसहस्रनामस्तोत्रम्   
 श्रीगणेशाय नमः ।  
@@ -144,7 +144,7 @@ title = "उच्छिष्टगणपतिसहस्रनामस्�
 लूतो लीलारसोल्लासी विलासी विभ्रमो भ्रमः ।  
 भ्रमणः शशिभृत्सुर्यः शनिर्धरणिनन्दनः ॥ ३९॥  
   
-बुधो विबुधसेव्यश्च बुधराजो बलंधरः ।  
+बुधो विबुधसेव्यश्च बुधराजो बलन्धरः ।  
 जीवो जीवप्रदो जेता स्तुत्यो नित्यो रतिप्रियः ॥ ४०॥  
   
 जनको जनमार्गज्ञो जनरक्षणतत्परः ।  
@@ -312,7 +312,7 @@ title = "उच्छिष्टगणपतिसहस्रनामस्�
 मञ्जुलो मार्जरो मत्तो दुर्गापुत्रो दुरालसः ॥ ९५॥  
   
 अनन्तचित्सुधाधोरो वीरो वीर्यैकसाधकः ।  
-भास्वन्मुकुटमाणिक्यः कूजत्किङ्किंणिजालकः ॥ ९६॥  
+भास्वन्मुकुटमाणिक्यः कूजत्किङ्किण्णिजालकः ॥ ९६॥  
   
 शुण्डाधारी तुण्डचलः कुण्डली मुण्डमालकः ।  
 पद्माक्षः पद्महस्तश्च पद्मनाभसमर्चितः ॥ ९७॥  

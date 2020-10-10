@@ -1,21 +1,21 @@
-+++
-"Text title" = "viShNoraShTottarashatadivyasthAnIyanAmastotram"
-"File name" = "viShNoraShTottarashatadivyasthAnIyanAmastotram.itx"
-itxtitle = "viShNoraShTottarashatadivyasthAnIyanAmastotram"
-engtitle = "viShNoraShTottarashatadivyasthAnIyanAmastotram"
-Category = "vishhnu, aShTottarashatanAma"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Raman karthik.raman at gmail.com"
-"Proofread by" = "Karthik Raman karthik.raman at gmail.com"
-"Latest update" = "April 27, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णोरष्टोत्तरशतदिव्यस्थानीयनामस्तोत्रम्"
+---
+Category: vishhnu, aShTottarashatanAma
+File name: viShNoraShTottarashatadivyasthAnIyanAmastotram.itx
+Language: Sanskrit
+Latest update: April 27, 2019
+Location: doc_vishhnu
+Proofread by: Karthik Raman karthik.raman at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNoraShTottarashatadivyasthAnIyanAmastotram
+Transliterated by: Karthik Raman karthik.raman at gmail.com
+engtitle: viShNoraShTottarashatadivyasthAnIyanAmastotram
+itxtitle: viShNoraShTottarashatadivyasthAnIyanAmastotram
+title: विष्णोरष्टोत्तरशतदिव्यस्थानीयनामस्तोत्रम्
 
-+++
+---
   
  श्रीविष्णोरष्टोत्तरशतदिव्यस्थानीयनामस्तोत्रम्   
 अष्टोत्तरशतस्थानेष्वाविर्भूतं जगत्पतिम् ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ganesha Stuti by Tattva"
-"File name" = "gaNeshastutiHtattvaiHkRRitA.itx"
-itxtitle = "gaNeshastutiH tattvaiHkRitA (mudgalapurANAntargatA)"
-engtitle = "gaNeshastutiH tattvaiHkRitA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 7 -8"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "गणेशस्तुतिः तत्त्वैःकृइता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 7 -8
+File name: gaNeshastutiHtattvaiHkRRitA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha Stuti by Tattva
+Transliterated by: NA
+engtitle: gaNeshastutiH tattvaiHkRitA
+itxtitle: gaNeshastutiH tattvaiHkRitA (mudgalapurANAntargatA)
+title: गणेशस्तुतिः तत्त्वैःकृइता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  गणेशस्तुतिः तत्त्वैः कृता   
 श्रीगणेशाय नमः ।  

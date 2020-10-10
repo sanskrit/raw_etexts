@@ -1,23 +1,23 @@
-+++
-"Text title" = "Tripurasundari Pancharatnastotram"
-"File name" = "tripurasundarIpancharatnastotram.itx"
-itxtitle = "tripurasundarIpancharatnastotram"
-engtitle = "tripurasundarIpancharatnastotram"
-Category = "devii, dashamahAvidyA, devI, pancharatna"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरसुन्दरीपञ्चरत्नस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, devI, pancharatna
+File name: tripurasundarIpancharatnastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Tripurasundari Pancharatnastotram
+Transliterated by: PSA Easwaran
+engtitle: tripurasundarIpancharatnastotram
+itxtitle: tripurasundarIpancharatnastotram
+title: त्रिपुरसुन्दरीपञ्चरत्नस्तोत्रम्
 
-+++
+---
   
  त्रिपुरसुन्दरी पञ्चरत्नस्तोत्रम्   
 नीलालकां शशिमुखीं नवपल्लवोष्ठीं  
@@ -45,7 +45,7 @@ title = "त्रिपुरसुन्दरीपञ्चरत्नस�
 कोटीश्वराख्यहृदिसंस्थितपादपद्मां  
      त्वां साम्प्रतं त्रिपुरसुन्दरि! देवि! वन्दे ॥ ५॥  
   
-बाले! त्वत्पादयुगलं ध्यात्वा संप्रति निर्मितम् ।  
+बाले! त्वत्पादयुगलं ध्यात्वा सम्प्रति निर्मितम् ।  
 नवीनं पञ्चरत्नं च धार्यतां चरणद्वये ॥ ६॥  
   
 इति श्रीत्रिपुरसुन्दरीपञ्चरत्नस्तोत्रं सम्पूर्णम् ।   

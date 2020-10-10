@@ -1,21 +1,21 @@
-+++
-"Text title" = "shoNAdrinAthAShTakam"
-"File name" = "shoNAdrinAtha8.itx"
-itxtitle = "shoNAdrinAthAShTakam"
-engtitle = "shoNAdrinAthAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "K Kalyanaraman srimatha12 at gmail.com"
-"Proofread by" = "K Kalyanaraman srimatha12 at gmail.com"
-"Latest update" = "February 26, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शोणाद्रिनाथाष्टकम्"
+---
+Category: aShTaka, shiva
+File name: shoNAdrinAtha8.itx
+Language: Sanskrit
+Latest update: February 26, 2008
+Location: doc_shiva
+Proofread by: K Kalyanaraman srimatha12 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: shiva
+Text title: shoNAdrinAthAShTakam
+Transliterated by: K Kalyanaraman srimatha12 at gmail.com
+engtitle: shoNAdrinAthAShTakam
+itxtitle: shoNAdrinAthAShTakam
+title: शोणाद्रिनाथाष्टकम्
 
-+++
+---
   
  शोणाद्रिनाथाष्टकम्   
   

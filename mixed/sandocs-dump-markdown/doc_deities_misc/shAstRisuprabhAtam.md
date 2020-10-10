@@ -1,22 +1,22 @@
-+++
-"Text title" = "shAstRRisuprabhAtam"
-"File name" = "shAstRRisuprabhAtam.itx"
-itxtitle = "shAstRisuprabhAtam"
-engtitle = "shAstRRisuprabhAtam"
-Category = "deities_misc, ayyappa, suprabhAta"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ayyappa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "November 25, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शास्तृइसुप्रभातम्"
+---
+Category: deities_misc, ayyappa, suprabhAta
+File name: shAstRRisuprabhAtam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 25, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ayyappa
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shAstRRisuprabhAtam
+engtitle: shAstRRisuprabhAtam
+itxtitle: shAstRisuprabhAtam
+title: शास्तृइसुप्रभातम्
 
-+++
+---
   
  श्रीशास्तृ(अय्यप्प) सुप्रभातम्   
 मोहिनीसुप्रजा शास्तः पूर्वासन्ध्या प्रवर्तते ।  

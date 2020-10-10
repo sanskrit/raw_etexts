@@ -1,23 +1,23 @@
-+++
-"Text title" = "abhinayadarpaNam"
-"File name" = "abhinayadarpaNam.itx"
-itxtitle = "abhinayadarpaNam (nandikeshvaravirachitam)"
-engtitle = "abhinayadarpaNam"
-Category = "natyashastra, major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Nandikeshvara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ryan Armstrong ryanarm at gmail.com"
-"Proofread by" = "Ryan Armstrong ryanarm at gmail.com"
-Indexextra = "(Scanned with Hindi, English translations)"
-"Latest update" = "August 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अभिनयदर्पणम् (नन्दिकेश्वरविरचितम्)"
+---
+Author: Nandikeshvara
+Category: natyashastra, major_works
+File name: abhinayadarpaNam.itx
+Indexextra: (Scanned with Hindi, English translations)
+Language: Sanskrit
+Latest update: August 18, 2018
+Location: doc_z_misc_major_works
+Proofread by: Ryan Armstrong ryanarm at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: abhinayadarpaNam
+Transliterated by: Ryan Armstrong ryanarm at gmail.com
+engtitle: abhinayadarpaNam
+itxtitle: abhinayadarpaNam (nandikeshvaravirachitam)
+title: अभिनयदर्पणम् (नन्दिकेश्वरविरचितम्)
 
-+++
+---
   
  नन्दिकेश्वरविरचितम् अभिनयदर्पणम्   
   

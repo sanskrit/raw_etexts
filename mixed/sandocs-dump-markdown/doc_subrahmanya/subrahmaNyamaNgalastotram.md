@@ -1,22 +1,22 @@
-+++
-"Text title" = "subrahmaNyamangalastotram"
-"File name" = "subrahmaNyamangalastotram.itx"
-itxtitle = "subrahmaNyamaNgalastotram"
-engtitle = "subrahmaNyamangalastotram"
-Category = "subrahmanya, mangala"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com, PSA Easwaran"
-Description-comments = "Subrahmanya Stuti Manjari, Mahaperiaval Trust"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "January 3, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यमण्गलस्तोत्रम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: subrahmanya, mangala
+Description-comments: Subrahmanya Stuti Manjari, Mahaperiaval Trust
+File name: subrahmaNyamangalastotram.itx
+Language: Sanskrit
+Latest update: January 3, 2017
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyamangalastotram
+engtitle: subrahmaNyamangalastotram
+itxtitle: subrahmaNyamaNgalastotram
+title: सुब्रह्मण्यमण्गलस्तोत्रम्
 
-+++
+---
   
  श्रीसुब्रह्मण्यमङ्गलस्तोत्रम्   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "AyAhire AyAhire"
-"File name" = "AyAhireAyAhire.itx"
-itxtitle = "AyAhire AyAhire"
-engtitle = "AyAhire AyAhire"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "shrI parIkShit sharmA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, 1, 2, 3, 4)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आयाहिरे आयाहिरे"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: shrI parIkShit sharmA
+Category: misc, sanskritgeet
+File name: AyAhireAyAhire.itx
+Indexextra: (Wiki, 1, 2, 3, 4)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: AyAhire AyAhire
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: AyAhire AyAhire
+itxtitle: AyAhire AyAhire
+title: आयाहिरे आयाहिरे
 
-+++
+---
   
  आयाहि रे ! आयाहि रे !   
 नायकः -आयाहि रे ! आयाहि रे ! आयाहि रे !  

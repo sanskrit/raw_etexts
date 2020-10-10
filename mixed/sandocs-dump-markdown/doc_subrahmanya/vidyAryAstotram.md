@@ -1,22 +1,22 @@
-+++
-"Text title" = "Vidyarya Stotram"
-"File name" = "vidyAryAstotram.itx"
-itxtitle = "vidyAryAstotram"
-engtitle = "vidyAryAstotram"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "March 14, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विद्यार्यास्तोत्रम्"
+---
+Category: subrahmanya
+File name: vidyAryAstotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 14, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Vidyarya Stotram
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: vidyAryAstotram
+itxtitle: vidyAryAstotram
+title: विद्यार्यास्तोत्रम्
 
-+++
+---
   
  श्रीविद्यार्यास्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  

@@ -1,80 +1,80 @@
-+++
-"Text title" = "bhImarUpI stotra (Marathi) by Ramadas Swami"
-"File name" = "bhiima.itx"
-itxtitle = "bhImarUpIstotram"
-engtitle = "bhImarUpI stotra"
-Category = "stotra, samartha-rAmadAsa"
-Location = "doc_z_otherlang_maraathii"
-Sublocation = "otherlang_maraathii"
-Texttype = "stotra"
-Author = "Swami Ramadas"
-Language = "Marathi"
-Subject = "hinduism/religion"
-"Transliterated by" = "Neelakanth Kulkarni neel at authenticyoga.org"
-"Proofread by" = "Neelakanth Kulkarni neel at authenticyoga.org"
-Description-comments = "rudrayaamala tantra"
-Indexextra = "(hanumAna stotra in marathi)"
-"Latest update" = "January 10, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भीमरूपीस्तोत्रम्"
+---
+Author: Swami Ramadas
+Category: stotra, samartha-rAmadAsa
+Description-comments: rudrayaamala tantra
+File name: bhiima.itx
+Indexextra: (hanumAna stotra in marathi)
+Language: Marathi
+Latest update: January 10, 2007
+Location: doc_z_otherlang_maraathii
+Proofread by: Neelakanth Kulkarni neel at authenticyoga.org
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: otherlang_maraathii
+Text title: bhImarUpI stotra (Marathi) by Ramadas Swami
+Texttype: stotra
+Transliterated by: Neelakanth Kulkarni neel at authenticyoga.org
+engtitle: bhImarUpI stotra
+itxtitle: bhImarUpIstotram
+title: भीमरूपीस्तोत्रम्
 
-+++
+---
   
  भीमरूपीस्तोत्र   
   
 भीमरूपी महारुद्रा वज्र हनुमान मारुती ।  
-वनारि अंजनीसूता रामदूता प्रभंजना ॥ १॥  
+वनारि अञ्जनीसूता रामदूता प्रभञ्जना ॥ १॥  
   
 महाबळी प्राणदाता सकळां उठवी बळें ।  
 सौख्यकारी  दुःखहारी धूर्त वैष्णव गायका ॥ २॥  
   
-दीनानाथा हरीरूपा सुंदरा जगदांतरा ।  
-पातालदेवताहंता भव्यसिंदूरलेपना ॥ ३॥  
+दीनानाथा हरीरूपा सुन्दरा जगदान्तरा ।  
+पातालदेवताहन्ता भव्यसिन्दूरलेपना ॥ ३॥  
   
 लोकनाथा जगन्नाथा प्राणनाथा पुरातना ।  
-पुण्यवंता पुण्यशीला पावना परितोषका ॥ ४॥  
+पुण्यवन्ता पुण्यशीला पावना परितोषका ॥ ४॥  
   
-ध्वजांगें उचली बाहो आवेशें लोटला पुढें ।  
-काळाग्नि काळरुद्राग्नि देखतां कांपती भयें ॥ ५॥  
+ध्वजाङ्गें उचली बाहो आवेशें लोटला पुढें ।  
+काळाग्नि काळरुद्राग्नि देखतां काम्पती भयें ॥ ५॥  
   
-ब्रह्मांडें माइलीं नेणों आंवळे दंतपंगती ।  
+ब्रह्माण्डें माइलीं नेणों आंवळे दन्तपङ्गती ।  
 नेत्राग्नि चालिल्या ज्वाळा भ्रकुटी तठिल्या बळें ॥ ६॥  
   
-पुच्छ तें मुरडिलें माथां किरीटी कुंडलें बरीं ।  
-सुवर्णकटिकांसोटी घंटा किंकिणि नागरा ॥ ७॥  
+पुच्छ तें मुरडिलें माथां किरीटी कुण्डलें बरीं ।  
+सुवर्णकटिकांसोटी घण्टा किङ्किणि नागरा ॥ ७॥  
   
 ठकारे पर्वताइसा नेटका सडपातळू ।  
-चपळांग पाहतां मोठें महाविद्युल्लतेपरी ॥ ८॥  
+चपळाङ्ग पाहतां मोठें महाविद्युल्लतेपरी ॥ ८॥  
   
 कोटिच्या कोटि उड्डणें झेपावे उत्तरेकडे ।  
-मंदाद्रीसारिखा द्रोणू क्रोधें उत्पाटिला बळें ॥ ९॥  
+मन्दाद्रीसारिखा द्रोणू क्रोधें उत्पाटिला बळें ॥ ९॥  
   
 आणिला मागुती नेला आला गेला मनोगती ।  
 मनासी टाकिलें मागें गतीसी तूळणा नसे ॥ १०॥  
   
-अणूपासोनि ब्रह्मांडायेवढा होत जातसे ।  
-तयासी तुळणा कोठें मेरुमांदार धाकुटें ॥ ११॥  
+अणूपासोनि ब्रह्माण्डायेवढा होत जातसे ।  
+तयासी तुळणा कोठें मेरुमान्दार धाकुटें ॥ ११॥  
   
-ब्रह्मांडाभोंवते वेढे वज्रपुच्छें करूं शके ।  
-तयासी तुळणा कैंची ब्रह्मांडीं पाहतां नसे ॥ १२॥  
+ब्रह्माण्डाभोंवते वेढे वज्रपुच्छें करूं शके ।  
+तयासी तुळणा कैञ्ची ब्रह्माण्डीं पाहतां नसे ॥ १२॥  
   
-आरक्त देखिलें डोळां ग्रासिलें सूर्यमंडळा ।  
-वाढतां वाढतां वाढे भेदिलें शून्यमंडळा ॥ १३॥  
+आरक्त देखिलें डोळां ग्रासिलें सूर्यमण्डळा ।  
+वाढतां वाढतां वाढे भेदिलें शून्यमण्डळा ॥ १३॥  
   
 धनधान्य पशुवृद्धि पुत्रपौत्र समग्रही ।  
 पावती रूपविद्यादि स्तोत्रपाठें करूनियां ॥ १४॥  
   
-भूतप्रेतसमंधादि रोगव्याधि समस्तही ।  
-नासती तूटती चिंता आनंदे भीमदर्शनें ॥ १५॥  
+भूतप्रेतसमन्धादि रोगव्याधि समस्तही ।  
+नासती तूटती चिन्ता आनन्दे भीमदर्शनें ॥ १५॥  
   
-हे धरा पंधराश्लोकी लाभली शोभली भली ।  
-दृढदेहो निःसंदेहो संख्या चंद्रकलागुणें ॥ १६॥  
+हे धरा पन्धराश्लोकी लाभली शोभली भली ।  
+दृढदेहो निःसन्देहो सङ्ख्या चन्द्रकलागुणें ॥ १६॥  
   
-रामदासीं अग्रगण्यू कपिकुळासि मंडणू ।  
+रामदासीं अग्रगण्यू कपिकुळासि मण्डणू ।  
 रामरूपी अन्तरात्मा दर्शने दोष नासती ॥ १७॥  
   
-॥ इति श्री रामदासकृतं संकटनिरसनं नाम  
+॥ इति श्री रामदासकृतं सङ्कटनिरसनं नाम  
                      श्री मारुतिस्तोत्रम् सम्पूर्णम् ॥  
   
   

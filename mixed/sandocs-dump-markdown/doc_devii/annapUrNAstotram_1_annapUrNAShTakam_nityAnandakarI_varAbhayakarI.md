@@ -1,27 +1,27 @@
-+++
-"Text title" = "annapurnaastotram 1"
-"File name" = "annapurna.itx"
-itxtitle = "annapUrNAstotram 1 annapUrNAShTakam (nityAnandakarI varAbhayakarI)"
-engtitle = "annapUrNAstotram 1"
-Category = "devii, pArvatI, stotra, shankarAchArya, annapUrNa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "Last three verses are from Annada Kalpa Tantra paTala 16"
-Source = "Complete Works of Shankaracharya"
-Indexextra = "(English 1, 2, Marathi)"
-"Latest update" = "August  9, 2000, December 11, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अन्नपूर्णास्तोत्रम् १ अन्नपूर्णाष्टकम् (नित्यानन्दकरी वराभयकरी)"
+---
+Author: Shankaracharya
+Category: devii, pArvatI, stotra, shankarAchArya, annapUrNa, devI
+Description-comments: Last three verses are from Annada Kalpa Tantra paTala 16
+File name: annapurna.itx
+Indexextra: (English 1, 2, Marathi)
+Language: Sanskrit
+Latest update: August  9, 2000, December 11, 2015
+Location: doc_devii
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Complete Works of Shankaracharya
+SubDeity: pArvatI
+Subject: philosophy/hinduism/
+Sublocation: devii
+Text title: annapurnaastotram 1
+Texttype: stotra
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: annapUrNAstotram 1
+itxtitle: annapUrNAstotram 1 annapUrNAShTakam (nityAnandakarI varAbhayakarI)
+title: अन्नपूर्णास्तोत्रम् १ अन्नपूर्णाष्टकम् (नित्यानन्दकरी वराभयकरी)
 
-+++
+---
   
  श्रीअन्नपूर्णास्तोत्रम् अपरनाम अन्नपूर्णाष्टकम्   
 नित्यानन्दकरी वराभयकरी सौन्दर्यरत्नाकरी  

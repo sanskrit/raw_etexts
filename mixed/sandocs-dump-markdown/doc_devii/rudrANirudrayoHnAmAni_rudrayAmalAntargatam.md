@@ -1,26 +1,26 @@
-+++
-"Text title" = "Rudrani (51) Rudra (51) Names Rudranirudrayoh Namani"
-"File name" = "rudrANirudrayoHnAmAni.itx"
-itxtitle = "rudrANirudrayoHnAmAni (rudrayAmalAntargatam)"
-engtitle = "rudrANirudrayoHnAmAni"
-Category = "devii, ShaTchakrashakti, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्राणिरुद्रयोःनामानि (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: devii, ShaTchakrashakti, devI
+Description/comments: rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde
+File name: rudrANirudrayoHnAmAni.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Rudrani (51) Rudra (51) Names Rudranirudrayoh Namani
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: rudrANirudrayoHnAmAni
+itxtitle: rudrANirudrayoHnAmAni (rudrayAmalAntargatam)
+title: रुद्राणिरुद्रयोःनामानि (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  रुद्राणिरुद्रयोः नामानि   
 रुद्रस्य एकपञ्चाशन्नामानि -  
@@ -40,7 +40,7 @@ title = "रुद्राणिरुद्रयोःनामानि (र
 भद्रकाली गृहे स्थित्वा ये कुर्वन्ति निरन्तरम् ॥ ४७-४३॥  
   
 महान्यासं महादेव तत्क्षणादमरो भवेत् ।  
-आयुरारोग्यसम्पत्तिं संप्राप्नोति महाश्रियम् ॥ ४७-४४॥  
+आयुरारोग्यसम्पत्तिं सम्प्राप्नोति महाश्रियम् ॥ ४७-४४॥  
   
 समायाति मम स्थाने न्यासयोगप्रसादतः ।  
 न्यासधारणयोगेन मणिपूरे हृदो भवेत् ॥ ४७-४५॥  

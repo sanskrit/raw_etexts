@@ -1,22 +1,22 @@
-+++
-"Text title" = "rudrAbhiShekastotra mahAbharatAntargataM"
-"File name" = "rudrAbhiShekastotra.itx"
-itxtitle = "rudrAbhiShekastotram (mahAbhAratAntargatam)"
-engtitle = "rudrAbhiShekastotram from Mahabharata"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh  at  hotmail.com"
-Indexextra = "(Mahabharata)"
-"Latest update" = "March 10, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्राभिषेकस्तोत्रम् (महाभारतान्तर्गतम्)"
+---
+Category: shiva, stotra
+File name: rudrAbhiShekastotra.itx
+Indexextra: (Mahabharata)
+Language: Sanskrit
+Latest update: March 10, 2013
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh  at  hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: rudrAbhiShekastotra mahAbharatAntargataM
+Texttype: stotra
+engtitle: rudrAbhiShekastotram from Mahabharata
+itxtitle: rudrAbhiShekastotram (mahAbhAratAntargatam)
+title: रुद्राभिषेकस्तोत्रम् (महाभारतान्तर्गतम्)
 
-+++
+---
   
  रुद्राभिषेकस्तोत्रम् महाभारतान्तर्गतम्   
   
@@ -42,7 +42,7 @@ title = "रुद्राभिषेकस्तोत्रम् (महा
 विश्वात्मने विश्वसृजे विश्वमावृत्य तिष्ठते ।  
 नमोनमस्ते सेव्याय भूतानां प्रभवे सदा ॥ ५.८०.६१॥  
   
-ब्रह्मवक्त्राय सर्वाय शंकराय शिवाय च ।  
+ब्रह्मवक्त्राय सर्वाय शङ्कराय शिवाय च ।  
 नमोस्तु वाचस्पतये प्रजानां पतये नमः ॥ ५.८०.६२॥  
   
 अभिगम्याय काम्याय स्तुत्यायार्याय सर्वदा ।  

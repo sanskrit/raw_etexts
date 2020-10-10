@@ -1,23 +1,24 @@
-+++
-"Text title" = "govindAShTakam svAmibrahmAnandakRitam"
-"File name" = "govindAShTakambrahmAnanda.itx"
-itxtitle = "govindAShTakam (svAmIbrahmAnandakRitam)"
-engtitle = "govindAShTakam by Swami Brahmananda"
-Category = "aShTaka, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada and Proofread by ksr ramachandran ramachandran_ksr at yahoo.ca"
-Description-comments = "BrihatstotraratnAkara"
-"Latest update" = "November 24, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोविन्दाष्टकम् (स्वामीब्रह्मानन्दकृइतम्)"
+---
+Category: aShTaka, vishhnu, krishna, vishnu
+Description-comments: BrihatstotraratnAkara
+File name: govindAShTakambrahmAnanda.itx
+Language: Sanskrit
+Latest update: November 24, 2012
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada and Proofread by ksr ramachandran ramachandran_ksr
+  at yahoo.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: govindAShTakam svAmibrahmAnandakRitam
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: govindAShTakam by Swami Brahmananda
+itxtitle: govindAShTakam (svAmIbrahmAnandakRitam)
+title: गोविन्दाष्टकम् (स्वामीब्रह्मानन्दकृइतम्)
 
-+++
+---
   
  गोविन्दाष्टकं स्वामिब्रह्मानन्दकृतम्   
   

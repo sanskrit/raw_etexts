@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAmagItAadbhutarAmAyaNa"
-"File name" = "rAmagItAadbhutarAmAyaNa.itx"
-itxtitle = "rAmagItA 2 (adbhutarAmAyaNAntargatam)"
-engtitle = "rAmagItAadbhutarAmAyaNa"
-Category = "giitaa, raama"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-SubDeity = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com"
-"Proofread by" = "Vishwas Bhide and PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Adbhutaramayana Sarga 11-14"
-Indexextra = "(Hindi"
-"Latest update" = "September 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामगीता २ (अद्भुतरामायणान्तर्गतम्)"
+---
+Category: giitaa, raama
+Description/comments: Adbhutaramayana Sarga 11-14
+File name: rAmagItAadbhutarAmAyaNa.itx
+Indexextra: (Hindi
+Language: Sanskrit
+Latest update: September 17, 2018
+Location: doc_giitaa
+Proofread by: Vishwas Bhide and PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: raama
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: rAmagItAadbhutarAmAyaNa
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com
+engtitle: rAmagItAadbhutarAmAyaNa
+itxtitle: rAmagItA 2 (adbhutarAmAyaNAntargatam)
+title: रामगीता २ (अद्भुतरामायणान्तर्गतम्)
 
-+++
+---
   
  रामगीता अद्भुतरामायणान्तर्गतम्   
 एकादशः सर्गः ।  

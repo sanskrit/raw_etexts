@@ -1,23 +1,23 @@
-+++
-"Text title" = "praNAmapraNayastavam"
-"File name" = "praNAmapraNayastavam.itx"
-itxtitle = "praNAmapraNayastavam"
-engtitle = "praNAmapraNayastavam"
-Category = "deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रणामप्रणयस्तवम्"
+---
+Category: deities_misc
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: praNAmapraNayastavam.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: praNAmapraNayastavam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: praNAmapraNayastavam
+itxtitle: praNAmapraNayastavam
+title: प्रणामप्रणयस्तवम्
 
-+++
+---
   
  प्रणामप्रणयस्तवम्   
   

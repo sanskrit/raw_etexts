@@ -1,22 +1,22 @@
-+++
-"Text title" = "shaMkaragItA"
-"File name" = "shaMkaragItA.itx"
-itxtitle = "shaNkaragItA"
-engtitle = "Shankara Gita"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(viShNudharmottara purAna 51-57 (Needs proofreading) (scanned))"
-"Latest update" = "March 3, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शण्करगीता"
+---
+Category: gItA, giitaa
+File name: shaMkaragItA.itx
+Indexextra: (viShNudharmottara purAna 51-57 (Needs proofreading) (scanned))
+Language: Sanskrit
+Latest update: March 3, 2013
+Location: doc_giitaa
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: shaMkaragItA
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Shankara Gita
+itxtitle: shaNkaragItA
+title: शण्करगीता
 
-+++
+---
   
  शङ्करगीता   
   
@@ -27,7 +27,7 @@ title = "शण्करगीता"
 कैलासशिखरे रम्ये नानाधातुविचित्रिते ।       
 नानाद्रुमलताकीर्णे नानापक्षिनिनादिते ॥ १॥  
   
-गङ्गानिर्झरसंजाते सततं चारुनिःस्वने ।      
+गङ्गानिर्झरसञ्जाते सततं चारुनिःस्वने ।      
 देवदेवं महादेवं पर्यपृच्छत भार्गवः ॥ २॥  
   
 राम उवाच ।  
@@ -333,7 +333,7 @@ BG)
 रुद्रैर्विश्वसहायैश्च यक्षराक्षसपन्नगैः ।          
 दिग्भिर्विदिग्भिश्च तथा खेचरैश्च महाग्रहैः ॥ ५॥  
   
-निम्नगाभिः समुद्रैश्च मासर्त्वयनसंधिभिः ।      
+निम्नगाभिः समुद्रैश्च मासर्त्वयनसन्धिभिः ।      
 नक्षत्रैश्च मुहूर्तैश्च कालस्यावयवैस्तथा ॥ ६॥  
   
 देवर्षिभिः पुण्यतमैः सिद्धैः सप्तर्षिभिस्तथा ।   
@@ -516,7 +516,7 @@ BG)
 अमृताध्मातमेघाभं शङ्खचक्रगदाधरम् ॥ ७॥  
   
 देवोऽप्यभयदानेन संयोज्य बलसूदनं ।   
-उवाच वचनं काले मेघगंभीरया गिरा ॥ ८॥  
+उवाच वचनं काले मेघगम्भीरया गिरा ॥ ८॥  
   
 श्रीभगवानुवाच ।  
 गच्छ शक्र भविष्यामि त्राता ते बलसूदन ।   
@@ -658,7 +658,7 @@ BG)
 मया च रंस्यसे सार्धं स्पृहणीयः सुरैरपि ।   
 शक्रत्वं च तथा कृत्वा भाव्ये सावर्णिकेऽन्तरे ॥ ५३॥  
   
-सर्वसंधिविनिर्मुक्तो मयैव सह रंस्यसे ॥ ५४॥  
+सर्वसन्धिविनिर्मुक्तो मयैव सह रंस्यसे ॥ ५४॥  
   
 शङ्कर उवाच ।  
 इत्येवमुक्त्वा सजलाम्बुदाभः प्रतप्तचामीकरधौतवस्त्रः ।  
@@ -695,7 +695,7 @@ BG)
 कृमिकीटपतङ्गानां वयसां योनयस्तथा ॥ ७॥  
   
 विद्याधरास्तथा यक्षा नागाः सर्पाः सकिन्नराः ।   
-राक्षसाश्च पिशाचाश्च पितरः कालसंधयः ॥ ८॥  
+राक्षसाश्च पिशाचाश्च पितरः कालसन्धयः ॥ ८॥  
   
 धर्मार्थकाममोक्षाश्च धर्मद्वाराणि यानि च ।   
 यज्ञाङ्गानि च सर्वाणि भूतग्रामं चतुर्विधम् ॥ ९॥  
@@ -742,7 +742,7 @@ BG)
 तथा ब्रह्मर्षीणां च अङ्गिराः परिकीर्तितः ।       
 विद्याधराणां सर्वेषां देवश्चित्राङ्गदस्तथा ॥ २३॥  
   
-कंवरः  किन्नराणां च सर्पाणामथ वासुकिः ।         (कंधरः?)  
+कंवरः  किन्नराणां च सर्पाणामथ वासुकिः ।         (कन्धरः?)  
 प्रह्लादः सर्वदैत्यानां रम्भा चाप्सरसां तथा ॥ २४॥  
   
 उच्चैःश्रवसमश्वानां धेनूनां चैव कामधुक् ।   
@@ -855,7 +855,7 @@ BG)
 जात्यन्धतुल्यं तं मन्ये पुरुषं पुरुषोत्तम ॥ १४॥  
   
 यो न पश्यति धर्मज्ञ केशवार्चा पुनः पुनः ।   
-क्लेशसंजननं कर्म वृथा तद्भृगुनन्दन ॥ १५॥  
+क्लेशसञ्जननं कर्म वृथा तद्भृगुनन्दन ॥ १५॥  
   
 केशवं प्रति यद्राम क्रियतेऽहनि सर्वदा ।   
 पश्य केशवमाराध्य मोदमानं शचीपतिम् ॥ १६॥  

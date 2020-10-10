@@ -1,22 +1,22 @@
-+++
-"Text title" = "devIstutItIrthakShetrANi"
-"File name" = "devIstutItIrthakShetrANi.itx"
-itxtitle = "devIstutI evaM devItIrthakShetrANi (matsyapurANAntargatam)"
-engtitle = "devIstutI and tIrthakShetrANi"
-Category = "devii, shaktipITha"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-Source = "Matsyapurana, adhyAya 13"
-"Latest update" = "June 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीस्तुती एवं देवीतीर्थक्षेत्राणि (मत्स्यपुराणान्तर्गतम्)"
+---
+Category: devii, shaktipITha
+File name: devIstutItIrthakShetrANi.itx
+Language: Sanskrit
+Latest update: June 9, 2018
+Location: doc_devii
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Matsyapurana, adhyAya 13
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIstutItIrthakShetrANi
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: devIstutI and tIrthakShetrANi
+itxtitle: devIstutI evaM devItIrthakShetrANi (matsyapurANAntargatam)
+title: देवीस्तुती एवं देवीतीर्थक्षेत्राणि (मत्स्यपुराणान्तर्गतम्)
 
-+++
+---
   
  देवीस्तुती एवं देवी तीर्थक्षेत्राणि   
 एवमुक्तोऽब्रवीद् दक्षः केषु केषु मयानघे ।  

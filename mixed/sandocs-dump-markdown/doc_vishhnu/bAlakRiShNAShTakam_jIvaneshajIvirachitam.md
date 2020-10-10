@@ -1,24 +1,24 @@
-+++
-"Text title" = "bAlakRRiShNAShTakam"
-"File name" = "bAlakRRiShNAShTakam.itx"
-itxtitle = "bAlakRiShNAShTakam (jIvaneshajIvirachitam)"
-engtitle = "bAlakRRiShNAShTakam"
-Category = "vishhnu, krishna, puShTimArgIya, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "jIvaneshajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालकृइष्णाष्टकम् (जीवनेशजीविरचितम्)"
+---
+Author: jIvaneshajI
+Category: vishhnu, krishna, puShTimArgIya, aShTaka
+Description/comments: puShTimArgIya stotraratnAkara
+File name: bAlakRRiShNAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: bAlakRRiShNAShTakam
+engtitle: bAlakRRiShNAShTakam
+itxtitle: bAlakRiShNAShTakam (jIvaneshajIvirachitam)
+title: बालकृइष्णाष्टकम् (जीवनेशजीविरचितम्)
 
-+++
+---
   
  श्रीबालकृष्णाष्टकम्   
   

@@ -1,29 +1,30 @@
-+++
-"Text title" = "sanyAsigItikA"
-"File name" = "sanyAsigItikA.itx"
-itxtitle = "sa.nnyAsi gItikA"
-engtitle = "Song of the Sannyasin"
-Category = "vedanta, misc, sahitya, advice, vivekAnanda"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Subcategory = "sahitya"
-Texttype = "advice"
-Author = "Engilsh poem Song of the Sannyasin by Swami Vivekananda, Sanskrit translation by svAmI nityAnanda bhAratI shAstrI vedAchArya uttarakAshI"
-Language = "Sanskrit"
-Subject = "hinduism/Vedanta"
-"Transliterated by" = "sunderh at hotmail.com"
-"Proofread by" = "sunderh at hotmail.com, Swami Mahayogananda, Shankara"
-"Translated by" = "http://www.ramakrishnavivekananda.info/vivekananda/volume_4/writings_poems/the_song_of_the_sannyasin.htm"
-Description-comments = "meter - Shardulavikridita"
-Indexextra = "(English Original)"
-"Latest update" = "November 28, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संन्यासि गीतिका"
+---
+Author: Engilsh poem Song of the Sannyasin by Swami Vivekananda, Sanskrit translation
+  by svAmI nityAnanda bhAratI shAstrI vedAchArya uttarakAshI
+Category: vedanta, misc, sahitya, advice, vivekAnanda
+Description-comments: meter - Shardulavikridita
+File name: sanyAsigItikA.itx
+Indexextra: (English Original)
+Language: Sanskrit
+Latest update: November 28, 2011
+Location: doc_z_misc_general
+Proofread by: sunderh at hotmail.com, Swami Mahayogananda, Shankara
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: hinduism/Vedanta
+Sublocation: misc
+Text title: sanyAsigItikA
+Texttype: advice
+Translated by: http://www.ramakrishnavivekananda.info/vivekananda/volume_4/writings_poems/the_song_of_the_sannyasin.htm
+Transliterated by: sunderh at hotmail.com
+engtitle: Song of the Sannyasin
+itxtitle: sa.nnyAsi gItikA
+title: संन्यासि गीतिका
 
-+++
+---
   
- संन्यासि गीतिका   
+ सन्न्यासि गीतिका   
   
 गीतं गाय सुतुङ्गतानसहितं दूरात्सुदूरोत्थितं  
 संसारोद्भवदोषलेशरहितश्श्वेताद्रिगर्भोद्भवम् ।  
@@ -31,7 +32,7 @@ title = "संन्यासि गीतिका"
 सन्यासिन् ! भव वीरभावभरितः सूद्गीथ उद्घोष्यताम् ॥  
   
                                      --ॐ तत् सत् ॐ ।  
-       शान्तिर्यस्य कदापि वै धनयशःकामैर्न संभिद्यते  
+       शान्तिर्यस्य कदापि वै धनयशःकामैर्न सम्भिद्यते  
        यस्मिंश्चापि सुमुक्तिदा प्रवहति ज्ञानस्य गङ्गा सदा ।  
        सत्यानन्दविधारिणी भगवती,--तत्रोत्थितं गीयतां  
        सन्यासिन् ! भव  वीरभावभरितः सूद्गीथ उद्घोष्यताम् ॥  

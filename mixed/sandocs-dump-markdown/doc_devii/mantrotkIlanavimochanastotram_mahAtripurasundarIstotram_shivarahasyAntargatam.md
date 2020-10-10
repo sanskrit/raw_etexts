@@ -1,23 +1,23 @@
-+++
-"Text title" = "mantrotkIlanavimochanastotram"
-"File name" = "mantrotkIlanavimochanastotram.itx"
-itxtitle = "mantrotkIlanavimochanastotram mahAtripurasundarIstotram (shivarahasyAntargatam)"
-engtitle = "mantrotkIlanavimochanastotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "From Durlabh Stotrani. Shivarahasya."
-Indexextra = "(Scan)"
-"Latest update" = "June 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मन्त्रोत्कीलनविमोचनस्तोत्रम् महात्रिपुरसुन्दरीस्तोत्रम् (शिवरहस्यान्तर्गतम्)"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: From Durlabh Stotrani. Shivarahasya.
+File name: mantrotkIlanavimochanastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 17, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mantrotkIlanavimochanastotram
+engtitle: mantrotkIlanavimochanastotram
+itxtitle: mantrotkIlanavimochanastotram mahAtripurasundarIstotram (shivarahasyAntargatam)
+title: मन्त्रोत्कीलनविमोचनस्तोत्रम् महात्रिपुरसुन्दरीस्तोत्रम् (शिवरहस्यान्तर्गतम्)
 
-+++
+---
   
  मन्त्रोत्कीलन विमोचन स्तोत्र्म्   
 अस्य श्री सर्वमन्त्रोत्कीलन मन्त्रस्य मूलप्रकृति पुरुष ऋषि  

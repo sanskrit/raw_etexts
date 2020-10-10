@@ -1,24 +1,25 @@
-+++
-"Text title" = "kRiShNasahasranAmastotram sAtvatatantre"
-"File name" = "kRiShNasahasranAmastotrasAtvatatantra.itx"
-itxtitle = "kRiShNasahasranAmastotram (sAtvatatantrAntargatam)"
-engtitle = "Shrikrishnasahasranamastotram from Satvatatantra"
-Category = "sahasranAma, vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Originally Oliver Hellwig hellwig7 at gmx.de for Gretil"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com and PSA Easwaran psaeaswaran at gmail.com"
-"Translated by" = "Satvata Tantra 11.doc at http://www.radha.name/digital-books/sastras-acharyas-and-swamis/tantra-and-pancaratra"
-"Latest update" = "June 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णसहस्रनामस्तोत्रम् (सात्वततन्त्रान्तर्गतम्)"
+---
+Category: sahasranAma, vishhnu, krishna, stotra, vishnu
+File name: kRiShNasahasranAmastotrasAtvatatantra.itx
+Language: Sanskrit
+Latest update: June 18, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com and PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRiShNasahasranAmastotram sAtvatatantre
+Texttype: stotra
+Translated by: Satvata Tantra 11.doc at http://www.radha.name/digital-books/sastras-acharyas-and-swamis/tantra-and-pancaratra
+Transliterated by: Originally Oliver Hellwig hellwig7 at gmx.de for Gretil
+engtitle: Shrikrishnasahasranamastotram from Satvatatantra
+itxtitle: kRiShNasahasranAmastotram (sAtvatatantrAntargatam)
+title: कृइष्णसहस्रनामस्तोत्रम् (सात्वततन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीकृष्णसहस्रनामस्तोत्रम् सात्वततन्त्रे   
   
@@ -48,7 +49,7 @@ title = "कृइष्णसहस्रनामस्तोत्रम् (
 उद्यन्नवीनजलदाभमकुण्ठधिष्ण्यं विद्योतितानलमनोहरपीतवासम् ।  
 भास्वन्मयूखमुकुटाङ्गदहारयुक्तं काञ्चीकलापवलयाङ्गुलिभिर्विभातम् ॥ ८॥  
   
-ब्रह्मादिदेवगणवन्दितपादपद्यं श्रीसेवितं सकलसुन्दरसंनिवेशम् ।  
+ब्रह्मादिदेवगणवन्दितपादपद्यं श्रीसेवितं सकलसुन्दरसन्निवेशम् ।  
 गोगोपवनितामुनिवृन्दजुष्टं कृष्णं पुराणपुरुषं मनसा स्मरामि ॥ ९॥  
   
 ओं नमो वासुदेवाय कृष्णाय परमात्मने ।  
@@ -484,7 +485,7 @@ title = "कृइष्णसहस्रनामस्तोत्रम् (
 कल्पवृक्षाक्षितमहिः सुधर्मानीतभूतलः ॥ १५३॥  
   
 यवनासुरसंहर्ता मुचुकुन्देष्टसाधकः ।  
-रुक्मिणीद्विजसंमन्त्ररथैकगतकुण्डिनः ॥ १५४॥  
+रुक्मिणीद्विजसम्मन्त्ररथैकगतकुण्डिनः ॥ १५४॥  
   
 रुक्मिणीहारको रुक्मिमुण्डमुण्डनकारकः ।  
 रुक्मिणीप्रियकृत्साक्षाद्रुक्मिणीरमणीपतिः ॥ १५५॥  

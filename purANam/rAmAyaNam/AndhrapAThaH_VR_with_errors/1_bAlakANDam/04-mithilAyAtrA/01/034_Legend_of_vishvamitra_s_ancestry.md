@@ -3,7 +3,6 @@ title: 034 विश्वामित्रवंशकथा
 title_english: 034 Legend of vishvamitra s ancestry
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-034-Vishvamitra_Vamsha_Varnavam.mp3"></div>
 
 कृतोद्वाहे गते तस्मिन् ब्रह्मदत्ते च राघव।  

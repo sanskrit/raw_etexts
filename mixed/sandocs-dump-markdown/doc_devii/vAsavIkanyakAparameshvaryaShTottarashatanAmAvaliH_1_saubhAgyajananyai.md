@@ -1,22 +1,22 @@
-+++
-"Text title" = "Vasavi Kanyaka Parameshvari Ashtottara Shata Namavali (1) 108 names"
-"File name" = "vAsavIkanyakAparameshvaryaShTottarashatanAmAvalI.itx"
-itxtitle = "vAsavIkanyakAparameshvaryaShTottarashatanAmAvaliH 1 (saubhAgyajananyai)"
-engtitle = "vAsavIkanyakAparameshvaryaShTottarashatanAmAvalI 1"
-Category = "devii, aShTottarashatanAmAvalI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "See corresponding stotram"
-Indexextra = "(Info 1, 2, stotram Audio)"
-"Latest update" = "May 31, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामावलिः १ (सौभाग्यजनन्यै)"
+---
+Category: devii, aShTottarashatanAmAvalI, nAmAvalI, devI
+Description/comments: See corresponding stotram
+File name: vAsavIkanyakAparameshvaryaShTottarashatanAmAvalI.itx
+Indexextra: (Info 1, 2, stotram Audio)
+Language: Sanskrit
+Latest update: May 31, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vasavi Kanyaka Parameshvari Ashtottara Shata Namavali (1) 108 names
+engtitle: vAsavIkanyakAparameshvaryaShTottarashatanAmAvalI 1
+itxtitle: vAsavIkanyakAparameshvaryaShTottarashatanAmAvaliH 1 (saubhAgyajananyai)
+title: वासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामावलिः १ (सौभाग्यजनन्यै)
 
-+++
+---
   
  श्रीवासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामावलिः   
 शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।  

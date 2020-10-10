@@ -1,25 +1,25 @@
-+++
-"Text title" = "mANDUkyopaniShat"
-"File name" = "maandu.itx"
-itxtitle = "mANDUkyopaniShat"
-engtitle = "Mandukya Upanishad"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Rishis"
-Language = "Sanskrit"
-Subject = "philosophy"
-"Transliterated by" = "M. Giridhar giridhar_at_chemeng.iisc.ernet.in"
-"Proofread by" = "John Manetta"
-Description-comments = "6/108; Atharva Veda, Mukhya upanishad"
-Indexextra = "(1translation)"
-"Latest update" = "July 20, 1999, November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "माण्डूक्योपनिषत्"
+---
+Author: Vedic Rishis
+Category: upanishhat, svara, upanishad
+Description-comments: 6/108; Atharva Veda, Mukhya upanishad
+File name: maandu.itx
+Indexextra: (1translation)
+Language: Sanskrit
+Latest update: July 20, 1999, November 1, 2010
+Location: doc_upanishhat
+Proofread by: John Manetta
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy
+Sublocation: upanishhat
+Text title: mANDUkyopaniShat
+Texttype: svara
+Transliterated by: M. Giridhar giridhar_at_chemeng.iisc.ernet.in
+engtitle: Mandukya Upanishad
+itxtitle: mANDUkyopaniShat
+title: माण्डूक्योपनिषत्
 
-+++
+---
   
  माण्डूक्योपनिषत्   
        ॥ अथ माण्डूक्योपनिषत् ॥  

@@ -1,26 +1,26 @@
-+++
-"Text title" = "gangAsahasranAmAvalI"
-"File name" = "gangAsahasranAmAvalI.itx"
-itxtitle = "gaNgAsahasranAmAvaliH (skandapurANAntargatA)"
-engtitle = "gangAsahasranAmAvalI"
-Category = "sahasranAmAvalI, devii, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, NA"
-"Proofread by" = "NA"
-Description-comments = "akArAdikShakArAnta"
-Source = "Skandapurana, Kashikhanda"
-Indexextra = "(bhagavatistutimanjari)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "September 11, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गासहस्रनामावलिः (स्कन्दपुराणान्तर्गता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAmAvalI, devii, nadI, devI
+Description-comments: akArAdikShakArAnta
+File name: gangAsahasranAmAvalI.itx
+Indexextra: (bhagavatistutimanjari)
+Language: Sanskrit
+Latest update: September 11, 2017
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Skandapurana, Kashikhanda
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gangAsahasranAmAvalI
+Transliterated by: DPD, NA
+engtitle: gangAsahasranAmAvalI
+itxtitle: gaNgAsahasranAmAvaliH (skandapurANAntargatA)
+title: गण्गासहस्रनामावलिः (स्कन्दपुराणान्तर्गता)
 
-+++
+---
   
  गङ्गासहस्रनामावलिः   
   

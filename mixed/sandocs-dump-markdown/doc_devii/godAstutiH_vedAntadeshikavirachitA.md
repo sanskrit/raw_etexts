@@ -1,25 +1,25 @@
-+++
-"Text title" = "godAstutiH"
-"File name" = "godAstutiH.itx"
-itxtitle = "godAstutiH (vedAntadeshikavirachitA)"
-engtitle = "godAstutiH"
-Category = "devii, nadI, vedAnta-deshika, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोदास्तुतिः (वेदान्तदेशिकविरचिता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: vedAntadeshika
+Category: devii, nadI, vedAnta-deshika, devI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: godAstutiH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: godAstutiH
+engtitle: godAstutiH
+itxtitle: godAstutiH (vedAntadeshikavirachitA)
+title: गोदास्तुतिः (वेदान्तदेशिकविरचिता)
 
-+++
+---
   
  गोदास्तुतिः   
   

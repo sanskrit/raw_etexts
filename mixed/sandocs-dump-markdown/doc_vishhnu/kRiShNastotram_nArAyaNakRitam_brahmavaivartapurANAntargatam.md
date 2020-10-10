@@ -1,25 +1,25 @@
-+++
-"Text title" = "nArAyaNakRitaM shrIkRiShNastotra brahmavaivartapurANe"
-"File name" = "krishnastotranArAyaNaBVP.itx"
-itxtitle = "kRiShNastotram (nArAyaNakRitam, brahmavaivartapurANAntargatam)"
-engtitle = "Krishna stotra Narayana from brahmavaivartapurANa"
-Category = "vishhnu, krishna, narayana, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Subcategory = "narayana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-Description-comments = "brahmavaivartapurANa brahmakhaNDam adhyAya 3 shloka 10-17"
-"Latest update" = "January 19, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (नारायणकृइतम्, ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: vishhnu, krishna, narayana, stotra, vishnu
+Description-comments: brahmavaivartapurANa brahmakhaNDam adhyAya 3 shloka 10-17
+File name: krishnastotranArAyaNaBVP.itx
+Language: Sanskrit
+Latest update: January 19, 2013
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subcategory: narayana
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nArAyaNakRitaM shrIkRiShNastotra brahmavaivartapurANe
+Texttype: stotra
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: Krishna stotra Narayana from brahmavaivartapurANa
+itxtitle: kRiShNastotram (nArAyaNakRitam, brahmavaivartapurANAntargatam)
+title: कृइष्णस्तोत्रम् (नारायणकृइतम्, ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीकृष्णस्तोत्रं ब्रह्मवैवर्तपुराणे नारायणकृतम्   
   
@@ -41,7 +41,7 @@ title = "कृइष्णस्तोत्रम् (नारायणकृ
 रत्नसिंहासने रम्ये पुरतः परमात्मनः ॥ ५॥  
   
 नारायणकृतं स्तोत्रं यः पठेत्सुसमाहितः ।  
-त्रिसंध्यं यः पठेन्नित्यं पापं तस्य न विधते ॥ ६॥  
+त्रिसन्ध्यं यः पठेन्नित्यं पापं तस्य न विधते ॥ ६॥  
   
 पुत्रार्थी लभते पुत्रं भार्यार्थी लभते प्रियाम् ।  
 भ्रष्टराज्यो लभेद्राज्यं धनं भ्रष्टधनो लभेत् ॥ ७॥  

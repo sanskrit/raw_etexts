@@ -3,7 +3,6 @@ title: 028 Rama warns Seetha of difficulties of staying in forest
 title_english: 028 Rama warns Seetha of difficulties of staying in forest
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-028-Vanavasa_Dukka_Varnanam.mp3"></div>
 
 सएवम् ब्रुवतीम् सीताम् धर्मज्ञो धर्म वत्सलः ।  

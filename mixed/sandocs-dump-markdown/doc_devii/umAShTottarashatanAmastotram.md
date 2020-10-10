@@ -1,24 +1,24 @@
-+++
-"Text title" = "umAShTottarashatanAmastotram"
-"File name" = "umAShTottarashatanAmastotram.itx"
-itxtitle = "umAShTottarashatanAmastotram"
-engtitle = "umAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, devI, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay"
-Description-comments = "See corresponding nAmAvalI"
-Indexextra = "(Scan)"
-"Latest update" = "April 30, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उमाष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, devii, dashamahAvidyA, devI, pArvatI
+Description-comments: See corresponding nAmAvalI
+File name: umAShTottarashatanAmastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 30, 2017
+Location: doc_devii
+Proofread by: Gopal Upadhyay
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: umAShTottarashatanAmastotram
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: umAShTottarashatanAmastotram
+itxtitle: umAShTottarashatanAmastotram
+title: उमाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  उमाऽष्टोत्तरशतनामस्तोत्रम्   
 श्रीगणेशाय नमः ।  
@@ -39,7 +39,7 @@ title = "उमाष्टोत्तरशतनामस्तोत्र�
 महादेवी भक्तमनोह्वलादिनी कठिनस्तनी ।  
 कमलाक्षी दयासारा कामाक्षी नित्ययौवना ॥ ५॥  
   
-सर्वसम्पत्प्रदा कान्ता सर्वसंमोहिनी मही ।  
+सर्वसम्पत्प्रदा कान्ता सर्वसम्मोहिनी मही ।  
 शुभप्रिया कम्बुकण्ठी कल्याणी कमलप्रिया ॥ ६॥  
   
 सर्वेश्वरी च कमलहस्ताविष्णुसहोदरी ।  

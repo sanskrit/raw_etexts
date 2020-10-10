@@ -1,21 +1,21 @@
-+++
-"Text title" = "rAmakarNAmRRitam"
-"File name" = "rAmakarNAmRRitam.itx"
-itxtitle = "rAmakarNAmRRitam"
-engtitle = "rAmakarNAmRRitam"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामकर्णामृतम्"
+---
+Category: raama
+File name: rAmakarNAmRRitam.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmakarNAmRRitam
+engtitle: rAmakarNAmRRitam
+itxtitle: rAmakarNAmRRitam
+title: रामकर्णामृतम्
 
-+++
+---
   
  श्रीरामकर्णामृतम्   
   

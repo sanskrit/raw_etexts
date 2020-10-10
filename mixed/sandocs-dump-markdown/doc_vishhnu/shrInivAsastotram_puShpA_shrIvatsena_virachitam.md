@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrInivAsastotram"
-"File name" = "shrInivAsastotramPS.itx"
-itxtitle = "shrInivAsastotram (puShpA shrIvatsena virachitam)"
-engtitle = "shrInivAsastotram"
-Category = "vishhnu, puShpAshrIvatsan, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 17, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीनिवासस्तोत्रम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: vishhnu, puShpAshrIvatsan, vishnu
+File name: shrInivAsastotramPS.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 17, 2017
+Location: doc_vishhnu
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrInivAsastotram
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: shrInivAsastotram
+itxtitle: shrInivAsastotram (puShpA shrIvatsena virachitam)
+title: श्रीनिवासस्तोत्रम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  श्रीश्रीनिवासस्तोत्रम्   
                  ॐ  

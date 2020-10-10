@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNeshagItAsAra stotram"
-"File name" = "gaNeshagItAsArastotram.itx"
-itxtitle = "gaNeshagItAsArastotram (mudgalamurANAntargatam)"
-engtitle = "gaNeshagItAsAra stotram"
-Category = "gItA, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "mudgalapurANa"
-"Latest update" = "September 15, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशगीतासारस्तोत्रम् (मुद्गलमुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: gItA, ganesha
+Description-comments: mudgalapurANa
+File name: gaNeshagItAsArastotram.itx
+Language: Sanskrit
+Latest update: September 15, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshagItAsAra stotram
+Transliterated by: 'Karthik Chandan.P (kardan5380 at yahoo.com) : Amith K Nagaraj)'
+engtitle: gaNeshagItAsAra stotram
+itxtitle: gaNeshagItAsArastotram (mudgalamurANAntargatam)
+title: गणेशगीतासारस्तोत्रम् (मुद्गलमुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीगणेशगीतासारस्तोत्रम्   
   
@@ -27,13 +27,13 @@ title = "गणेशगीतासारस्तोत्रम् (मुद
 पप्रच्छुस्तं पुनः शान्ता ज्ञानं ब्रूहि गजानन ॥ १॥  
   
 गणेश उवाच ।  
-देहश्चतुर्विधः प्रोक्तस्त्वंपदं ब्रह्मभिन्नतः ।  
+देहश्चतुर्विधः प्रोक्तस्त्वम्पदं ब्रह्मभिन्नतः ।  
 सोऽहं देहि चतुर्धा तत्पदं ब्रह्म सदैकतः ॥ २॥  
   
 संयोग उभयोर्यच्चासिपदं ब्रह्म कथ्यते ।  
 स्वत उत्थानकं देवा विकल्पकरणात्रिधा ॥ ३॥  
   
-सदा स्वसुखनिष्ठं यद्ब्रह्म सांख्यं प्रकीर्तितम् ।  
+सदा स्वसुखनिष्ठं यद्ब्रह्म साङ्ख्यं प्रकीर्तितम् ।  
 परतश्चोत्थानकं तत् क्रीडाहीनतया परम् ॥ ४॥  
   
 स्वतः परत उत्थानहीनं यद्ब्रह्म कथ्यते ।  

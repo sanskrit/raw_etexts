@@ -3,7 +3,6 @@ title: 010 Vibhishana advises Ravana to restore Seetha to Rama
 title_english: 010 Vibhishana advises Ravana to restore Seetha to Rama
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-010-Vibhishana_advises_Ravana_to_restore_Seetha_to_Rama.mp3"></div>
 
 ततः प्रत्युषसि प्राप्ते प्राप्तधर्मार्थनिश्चयः ।  
@@ -17,7 +16,7 @@ title_english: 010 Vibhishana advises Ravana to restore Seetha to Rama
 प्रमदाजनसम्बाधम् प्रजल्पितमहापथम् ।  
 तप्तकाञ्चननिर्यूहम् भूषणोत्तमभूषितम् ॥ ६-१०-५  
 गन्धर्वाणामिवावासमालयम् मरुतामिव ।  
-रत्नसंचयसम्बाधम् भवनम् भोगिनामिव ॥ ६-१०-६  
+रत्नसञ्चयसम्बाधम् भवनम् भोगिनामिव ॥ ६-१०-६  
 तम् महाभ्रमिवादित्य स्तेजोविस्तृतरश्मिमान् ।  
 अग्रजस्यालयम् वीरः प्रविवेश महाद्युतिः ॥ ६-१०-७  
 पुण्यान् पुण्याहघोषांश्च वेदिविद्भिरुदाहृतान् ।  
@@ -45,7 +44,7 @@ title_english: 010 Vibhishana advises Ravana to restore Seetha to Rama
 वायसाः सघशः क्रूरा व्याहरन्ति समन्ततः ।  
 समवेताश्च दृश्यन्ते विमानाग्रेषु सम्घशः ॥ ६-१०-१९  
 गृध्राश्च परिलीयन्ते पुरीमुपरि पिण्डिताः ।  
-उपपन्नाश्च संध्ये द्वे व्याहरन्त्यशिवम् शिवाः ॥ ६-१०-२०  
+उपपन्नाश्च सन्ध्ये द्वे व्याहरन्त्यशिवम् शिवाः ॥ ६-१०-२०  
 क्रव्यादानाम् मृगाणाम् च पुरीद्वारेषु सज्~घशः ।  
 श्रूयन्ते विपुला घोषाः सविस्फूर्जितनिःस्वनाः ॥ ६-१०-२१  
 तदेवम् प्रस्तुते कार्ते प्रायश्चित्तमिदम् क्षमम् ।  

@@ -1,37 +1,37 @@
-+++
-"Text title" = "navaakSharii Devi stotra"
-"File name" = "navAksharI.itx"
-itxtitle = "navAkSharIstotram"
-engtitle = "navAkSharIstotram"
-Category = "devii, otherforms, stotra, tyAgarAja, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "stotra"
-Author = "tyAgarAja"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sridhar  Seshagiri seshagir at engineering.sdsu.edu"
-"Proofread by" = "Sridhar  Seshagiri seshagir at engineering.sdsu.edu"
-"Latest update" = "October 11, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवाक्षरीस्तोत्रम्"
+---
+Author: tyAgarAja
+Category: devii, otherforms, stotra, tyAgarAja, devI
+File name: navAksharI.itx
+Language: Sanskrit
+Latest update: October 11, 2001
+Location: doc_devii
+Proofread by: Sridhar  Seshagiri seshagir at engineering.sdsu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: hinduism/religion
+Sublocation: devii
+Text title: navaakSharii Devi stotra
+Texttype: stotra
+Transliterated by: Sridhar  Seshagiri seshagir at engineering.sdsu.edu
+engtitle: navAkSharIstotram
+itxtitle: navAkSharIstotram
+title: नवाक्षरीस्तोत्रम्
 
-+++
+---
   
  नवाक्षरीस्तोत्रम्   
   
 श्रीगुरुचरणसरोजं श्रीकरभवतरणसुकरदृढनावम् ।  
-मच्चितमधुपझंकृतमानन्दं नौमि शांकरं शरण्यम् ॥ १॥  
+मच्चितमधुपझङ्कृतमानन्दं नौमि शाङ्करं शरण्यम् ॥ १॥  
   
 ऐन्द्रधनुर्मरतकमामैरावतनाथगीर्भिरभ्यर्च्याम् ।  
-ऐंकारार्थस्वरूपामैशानीनाथसेवितां वन्दे ॥ २॥  
+ऐङ्कारार्थस्वरूपामैशानीनाथसेवितां वन्दे ॥ २॥  
   
 ह्रीनतदैत्यसमूहां हृद्यां सुरलोकसेविताङ्घ्रियुगाम् ।  
-ह्रींकारान्त्यसरूपां हृदयविलासप्रचोदितां वन्दे ॥ ३॥  
+ह्रीङ्कारान्त्यसरूपां हृदयविलासप्रचोदितां वन्दे ॥ ३॥  
   
-क्लींकारकामजननीं क्लीमितिशब्दप्रपूरितदिगन्ताम् ।  
+क्लीङ्कारकामजननीं क्लीमितिशब्दप्रपूरितदिगन्ताम् ।  
 क्लीबस्त्रीपुंशब्दक्रीडारूपां नमामि विश्वमयीम् ॥ ४॥  
   
 चामरबिभ्रद्वाणीचन्द्रसजातासुसेव्यपार्श्वयुगाम् ।  
@@ -56,7 +56,7 @@ title = "नवाक्षरीस्तोत्रम्"
 एतत् स्तोत्रम् पठतां यच्छति सौभाग्यकीर्तिपुष्टिधृतीः ॥ ११॥  
   
 ॥ इत्यानन्दनाथपादपद्मोपजीविना काश्यपगोत्रोत्पन्नेनान्ध्रेण  
-त्यागराजनाम्ना विरचितं नवाक्षरीस्तोत्रं संपूर्णम् ॥  
+त्यागराजनाम्ना विरचितं नवाक्षरीस्तोत्रं सम्पूर्णम् ॥  
   
   
   

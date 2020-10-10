@@ -1,24 +1,24 @@
-+++
-"Text title" = "adhyAtma rAmAyaNa kiShkindhA kANDa"
-"File name" = "adhyaatmaRamkiShkindhA.itx"
-itxtitle = "adhyAtmarAmAyaNe 4 kiShkindhAkANDam"
-engtitle = "adhyAtmarAmAyaNa kiShkindhAkANDa"
-Category = "adhyAtmarAmAyaNa, raama, vyAsa"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "pramukha"
-Author = "Shri Veda Vyas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vishwas underscore bhide at yahoo.com"
-"Proofread by" = "Vishwas Bhide , PSA Easwaran, ahimsasoldier"
-Indexextra = "(Hindi)"
-"Latest update" = "July 22, 2006, April 4, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अध्यात्मरामायणे ४ किष्किन्धाकाण्डम्"
+---
+Author: Shri Veda Vyas
+Category: adhyAtmarAmAyaNa, raama, vyAsa
+File name: adhyaatmaRamkiShkindhA.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: July 22, 2006, April 4, 2015
+Location: doc_raama
+Proofread by: Vishwas Bhide , PSA Easwaran, ahimsasoldier
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: adhyAtma rAmAyaNa kiShkindhA kANDa
+Texttype: pramukha
+Transliterated by: Vishwas Bhide vishwas underscore bhide at yahoo.com
+engtitle: adhyAtmarAmAyaNa kiShkindhAkANDa
+itxtitle: adhyAtmarAmAyaNe 4 kiShkindhAkANDam
+title: अध्यात्मरामायणे ४ किष्किन्धाकाण्डम्
 
-+++
+---
   
  अध्यात्मरामायणे किष्किन्धाकाण्डम्   
 ॥ प्रथमः सर्गः ॥  
@@ -51,7 +51,7 @@ title = "अध्यात्मरामायणे ४ किष्किन
 वालिना प्रेषितौ किंवा मां हन्तुं समुपागतौ ।  
 ताभ्यां सम्भाषणं कृत्वा जानीहि हृदयं तयोः ॥ ९॥  
   
-यदि तौ दुष्टहृदयौ संज्ञां कुरु कराग्रतः ।  
+यदि तौ दुष्टहृदयौ सञ्ज्ञां कुरु कराग्रतः ।  
 विनयावनतो भूत्वा एवं जानीहि निश्चयम् ॥ १०॥  
   
 तथेति वटुरूपेण हनुमान् समुपागतः ।  
@@ -1689,7 +1689,7 @@ title = "अध्यात्मरामायणे ४ किष्किन
 स्वस्ति वोऽस्तु गमिष्यामि सीतां द्रक्ष्यथ निश्चयम् ।  
 यत्नं कुरुध्वं दुर्लङ्घ्यसमुद्रस्य विलङ्घने ॥ ५४॥  
   
-यन्नामस्मृतिमात्रतोऽपरिमितं संसारवारांनिधिं  
+यन्नामस्मृतिमात्रतोऽपरिमितं संसारवारान्निधिं  
 तीर्त्वा गच्छति दुर्जनोऽपि परमं विष्णोः पदं शाश्वतम् ।  
 तस्यैव स्थितिकारिणस्त्रिजगतां रामस्य भक्ताः प्रिया  
 यूयं किं न समुद्रमात्रतरणे शक्ताः कथं वानराः ॥ ५५॥  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumanmantraprayogavidhiH or hanumatpaTalaH"
-"File name" = "hanumanmantraprayogavidhiH.itx"
-itxtitle = "hanumanmantraprayogavidhiH athavA hanumatpaTalaH"
-engtitle = "hanumanmantraprayogavidhiH or hanumatpaTalaH"
-Category = "hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 28, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमन्मन्त्रप्रयोगविधिः अथवा हनुमत्पटलः"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumanmantraprayogavidhiH.itx
+Language: Sanskrit
+Latest update: April 28, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumanmantraprayogavidhiH or hanumatpaTalaH
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: hanumanmantraprayogavidhiH or hanumatpaTalaH
+itxtitle: hanumanmantraprayogavidhiH athavA hanumatpaTalaH
+title: हनुमन्मन्त्रप्रयोगविधिः अथवा हनुमत्पटलः
 
-+++
+---
   
  हनुमन्मन्त्रप्रयोगविधिः अथवा हनुमत्पटलः   
   

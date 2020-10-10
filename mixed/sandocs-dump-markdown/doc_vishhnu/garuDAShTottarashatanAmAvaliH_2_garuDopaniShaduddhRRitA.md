@@ -1,23 +1,23 @@
-+++
-"Text title" = "garuDAShTottarashatanAmAvaliH 2"
-"File name" = "garuDAShTottarashatanAmAvaliH2.itx"
-itxtitle = "garuDAShTottarashatanAmAvaliH 2 (garuDopaniShaduddhRRitA)"
-engtitle = "garuDAShTottarashatanAmAvaliH 2"
-Category = "vishhnu, aShTottarashatanAmAvalI, nAmAvalI, deities_misc"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-"Proofread by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-"Description/comments" = "Based on garuDopaniShad (see doc_upanishhat section)"
-Indexextra = "(Scan Telugu)"
-"Latest update" = "May 27, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गरुडाष्टोत्तरशतनामावलिः २ (गरुडोपनिषदुद्धृता)"
+---
+Category: vishhnu, aShTottarashatanAmAvalI, nAmAvalI, deities_misc
+Description/comments: Based on garuDopaniShad (see doc_upanishhat section)
+File name: garuDAShTottarashatanAmAvaliH2.itx
+Indexextra: (Scan Telugu)
+Language: Sanskrit
+Latest update: May 27, 2019
+Location: doc_vishhnu
+Proofread by: lalitha parameswari parameswari.lalitha at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: garuDAShTottarashatanAmAvaliH 2
+Transliterated by: lalitha parameswari parameswari.lalitha at gmail.com
+engtitle: garuDAShTottarashatanAmAvaliH 2
+itxtitle: garuDAShTottarashatanAmAvaliH 2 (garuDopaniShaduddhRRitA)
+title: गरुडाष्टोत्तरशतनामावलिः २ (गरुडोपनिषदुद्धृता)
 
-+++
+---
   
  गरुडोपनिषदुद्धृता श्रीगरुडनामावलिः   
 ॐ गं गरुडाय नमः ।  

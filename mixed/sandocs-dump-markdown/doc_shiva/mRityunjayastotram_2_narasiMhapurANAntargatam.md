@@ -1,24 +1,24 @@
-+++
-"Text title" = "mRityunjayastotram 2 narasiMhapurANe"
-"File name" = "mRityunjayastotram2NP.itx"
-itxtitle = "mRityunjayastotram 2 (narasiMhapurANAntargatam)"
-engtitle = "Mrityunjaya Stotra 2 from Narasimhapurana"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 10 33-40"
-Indexextra = "(narasiMhapurANa)"
-"Latest update" = "June 9, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मृइत्युञ्जयस्तोत्रम् २ (नरसिंहपुराणान्तर्गतम्)"
+---
+Category: shiva, stotra
+Description-comments: Narasimhapurana adhyAya 10 33-40
+File name: mRityunjayastotram2NP.itx
+Indexextra: (narasiMhapurANa)
+Language: Sanskrit
+Latest update: June 9, 2013
+Location: doc_shiva
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mRityunjayastotram 2 narasiMhapurANe
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: Mrityunjaya Stotra 2 from Narasimhapurana
+itxtitle: mRityunjayastotram 2 (narasiMhapurANAntargatam)
+title: मृइत्युञ्जयस्तोत्रम् २ (नरसिंहपुराणान्तर्गतम्)
 
-+++
+---
   
  मृत्युञ्जयस्तोत्रम् २ नरसिंहपुरने   
   
@@ -48,7 +48,7 @@ title = "मृइत्युञ्जयस्तोत्रम् २ (न�
   
 इति ।  
   
-नरसिंहपुराण अध्याय १० श्लोकसंख्या ५२  
+नरसिंहपुराण अध्याय १० श्लोकसङ्ख्या ५२  
 श्रीनरसिंहपुराणे मार्कण्डेयचरित्रे दशमोऽध्यायः ॥ १०॥  
   
   

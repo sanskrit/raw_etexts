@@ -1,26 +1,26 @@
-+++
-"Text title" = "Sadashivashakini Kavacham"
-"File name" = "sadAshivashAkinIkavacham.itx"
-itxtitle = "sadAshivashAkinIkavacham (rudrayAmalAntargatam)"
-engtitle = "sadAshivashAkinIkavacham"
-Category = "devii, ShaTchakrashakti, kavacha, shiva, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सदाशिवशाकिनीकवचम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: devii, ShaTchakrashakti, kavacha, shiva, devI
+Description/comments: rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde
+File name: sadAshivashAkinIkavacham.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Sadashivashakini Kavacham
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: sadAshivashAkinIkavacham
+itxtitle: sadAshivashAkinIkavacham (rudrayAmalAntargatam)
+title: सदाशिवशाकिनीकवचम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  सदाशिवशाकिनीकवचम्   
 अथ सप्ततितमः पटलः  
@@ -85,7 +85,7 @@ title = "सदाशिवशाकिनीकवचम् (रुद्रय
 विद्यादेवी महाशक्तिः कूटस्थानं सदाशिवः ॥ ७०-१७॥  
   
 महाकाशावलघ्नी मे धूम्रां भोजञ्च धूर्जटी ।  
-कौमुदी पटलाङ्गी मे वर्णषोडशसंज्ञकम् ॥ ७०-१८॥  
+कौमुदी पटलाङ्गी मे वर्णषोडशसञ्ज्ञकम् ॥ ७०-१८॥  
   
 अकारादिकान्तवर्णान् श्रीदेवी परिपातु मे ।  
 हेमचित्ररथस्था मे चित्रिणी पातु मे मधु ॥ ७०-१९॥  
@@ -123,7 +123,7 @@ title = "सदाशिवशाकिनीकवचम् (रुद्रय
 पिलापिप्पलादेशो रतिर्मे हृदयेप्सितम् ।  
 योगिनीकुलदन्तश्च पातु मे हृत्स्वरानपि ॥ ७०-३०॥  
   
-केकरेशो गूढसंज्ञा वज्रधारी हृदम्बुजम् ।  
+केकरेशो गूढसञ्ज्ञा वज्रधारी हृदम्बुजम् ।  
 एकलिङ्गी सदा पातु हृदयान्तः शिवं मम ॥ ७०-३१॥  
   
 तदधो मण्डलं पातु भेदाभेदविवर्जिता ।  

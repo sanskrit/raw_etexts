@@ -1,24 +1,24 @@
-+++
-"Text title" = "nIlasarasvatIstotra"
-"File name" = "nIlasarasvatIstotra.itx"
-itxtitle = "nIla sarasvatIstotram"
-engtitle = "nIla sarasvatI stotram"
-Category = "devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Arun Shantharam shantharam.arun at gmail.com"
-"Proofread by" = "Arun Shantharam, Kunal, Srinivas Kommireddy"
-"Translated by" = "Comments by Kunal"
-"Latest update" = "September 3, 2015, October 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नील सरस्वतीस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, stotra, devI
+File name: nIlasarasvatIstotra.itx
+Language: Sanskrit
+Latest update: September 3, 2015, October 6, 2018
+Location: doc_devii
+Proofread by: Arun Shantharam, Kunal, Srinivas Kommireddy
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: nIlasarasvatIstotra
+Texttype: stotra
+Translated by: Comments by Kunal
+Transliterated by: Arun Shantharam shantharam.arun at gmail.com
+engtitle: nIla sarasvatI stotram
+itxtitle: nIla sarasvatIstotram
+title: नील सरस्वतीस्तोत्रम्
 
-+++
+---
   
  श्रीनील सरस्वतीस्तोत्रम्   
   
@@ -38,7 +38,7 @@ title = "नील सरस्वतीस्तोत्रम्"
 जडानां जडतां हम्सि भक्तानां भक्तवत्सले । var  जडतां भजतां  
 मूढतां हर मे देवि त्राहि मां शरणागतम् ॥ ५॥  
   
-ह्रूं ह्रूंकारमये देवि बलिहोमप्रिये नमः ।  
+ह्रूं ह्रूङ्कारमये देवि बलिहोमप्रिये नमः ।  
 उग्रतारे नमस्तुभ्यं त्राहि मां शरणागतम् ॥ ६॥  
   
 बुद्धिं देहि यशो देहि कवित्वं देहि देहि मे ।  

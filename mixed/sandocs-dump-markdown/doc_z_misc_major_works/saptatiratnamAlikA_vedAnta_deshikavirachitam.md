@@ -1,25 +1,25 @@
-+++
-"Text title" = "saptatiratnamAlikA"
-"File name" = "saptatiratnamAlikA.itx"
-itxtitle = "saptatiratnamAlikA (vedAnta deshikavirachitam)"
-engtitle = "saptatiratnamAlikA"
-Category = "major_works, vedAnta-deshika, vedanta"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Six shlokas from saptati ratnamAlA"
-Source = "Stotras of Vedanta Desika"
-Indexextra = "(Text with comments)"
-"Latest update" = "October 2, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सप्ततिरत्नमालिका (वेदान्त देशिकविरचितम्)"
+---
+Author: vedAntadeshika
+Category: major_works, vedAnta-deshika, vedanta
+Description-comments: Six shlokas from saptati ratnamAlA
+File name: saptatiratnamAlikA.itx
+Indexextra: (Text with comments)
+Language: Sanskrit
+Latest update: October 2, 2017
+Location: doc_z_misc_major_works
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotras of Vedanta Desika
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: saptatiratnamAlikA
+Transliterated by: Pallasena Narayanaswami ppnswami at gmail.com
+engtitle: saptatiratnamAlikA
+itxtitle: saptatiratnamAlikA (vedAnta deshikavirachitam)
+title: सप्ततिरत्नमालिका (वेदान्त देशिकविरचितम्)
 
-+++
+---
   
  सप्तति रत्नमालिका   
   
@@ -56,7 +56,7 @@ text of ᳚saptati ratnamAlA᳚
 कुतो मुक्तिवार्ता हि तादृग्विधानाम् ॥ (श्लोकं - ५५)  
   
 वेदे सञ्जातखेदे मुनिजनवचने प्राप्तनित्यावमाने  
-संकीर्णे सर्ववर्णे सति तदनुगुणे निष्प्रमाणे पुराणे ।  
+सङ्कीर्णे सर्ववर्णे सति तदनुगुणे निष्प्रमाणे पुराणे ।  
 मायावादे समोदे कलिकलुषवशाच्छून्यवादेऽविवादे  
 धर्मत्राणाय योऽभूत् स जयति भगवान् विष्णु घण्टावतारः ॥  
   

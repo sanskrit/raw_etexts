@@ -1,24 +1,26 @@
-+++
-"Text title" = "taraNivAkkusumAnjaliH Shlokas addressed to Sun God and Lord Shiva"
-"File name" = "taraNivAkkusumAnjaliH.itx"
-itxtitle = "taraNivAkkusumAnjaliH (ichChArAmashAstrivirachitA)"
-engtitle = "taraNivAkkusumAnjaliH"
-Category = "navagraha, shiva"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "Ichcharamashastri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Article is by Sharmila Bagchi, pp 393-400, Srutimahati, Glory of Sanskrit Tradition, Ram Karan Sarma Felicitation Volume, Ed. Radhavallabh Tripathi, Part 2"
-Indexextra = "(article)"
-"Latest update" = "September 4, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तरणिवाक्कुसुमाञ्जलिः (इच्छारामशास्त्रिविरचिता)"
+---
+Author: Ichcharamashastri
+Category: navagraha, shiva
+Description/comments: Article is by Sharmila Bagchi, pp 393-400, Srutimahati, Glory
+  of Sanskrit Tradition, Ram Karan Sarma Felicitation Volume, Ed. Radhavallabh Tripathi,
+  Part 2
+File name: taraNivAkkusumAnjaliH.itx
+Indexextra: (article)
+Language: Sanskrit
+Latest update: September 4, 2018
+Location: doc_z_misc_navagraha
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: taraNivAkkusumAnjaliH Shlokas addressed to Sun God and Lord Shiva
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: taraNivAkkusumAnjaliH
+itxtitle: taraNivAkkusumAnjaliH (ichChArAmashAstrivirachitA)
+title: तरणिवाक्कुसुमाञ्जलिः (इच्छारामशास्त्रिविरचिता)
 
-+++
+---
   
  तरणिवाक्कुसुमाज्जलिः   
 श्रीगणेशाय नमः ।  

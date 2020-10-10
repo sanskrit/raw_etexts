@@ -1,23 +1,23 @@
-+++
-"Text title" = "navagrahasuuktaM"
-"File name" = "navagraha.itx"
-itxtitle = "navagrahasUktam"
-engtitle = "Navagrahasukta"
-Category = "sUkta, navagraha, svara"
-Location = "doc_veda"
-Sublocation = "navagraha"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-"Proofread by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-"Latest update" = "July 7, 2004, May 29, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रहसूक्तम्"
+---
+Author: Vedic Tradition
+Category: sUkta, navagraha, svara
+File name: navagraha.itx
+Language: Sanskrit
+Latest update: July 7, 2004, May 29, 2012
+Location: doc_veda
+Proofread by: Rajagopal Iyer (rajsand at yahoo.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: navagraha
+Text title: navagrahasuuktaM
+Texttype: svara
+Transliterated by: Rajagopal Iyer (rajsand at yahoo.com)
+engtitle: Navagrahasukta
+itxtitle: navagrahasUktam
+title: नवग्रहसूक्तम्
 
-+++
+---
   
  नवग्रहसूक्तम्   
   
@@ -34,7 +34,7 @@ title = "नवग्रहसूक्तम्"
 धियो॒ यो नः॑ प्रचो॒दया᳚त् ।  
 ओमापो॒ ज्योती॒रसो॒ऽमृतं॒ ब्रह्म॒ भूर्भुव॒स्सुव॒रोम् ॥  
   
-॥ संकल्पः ॥  
+॥ सङ्कल्पः ॥  
   
 ममोपात्त-समस्त-दुरितक्षयद्वारा श्रीपरमेश्वर प्रीत्यर्थं  
 आदित्यादि नवग्रह देवता प्रसाद सिद्ध्यर्तं आदित्यादि  
@@ -53,7 +53,7 @@ title = "नवग्रहसूक्तम्"
 ॐ अधिदेवता प्रत्यधिदेवता सहिताय आदि॑त्याय॒ नमः॑ ॥ १॥  
   
 ॐ आप्या॑यस्व॒ समे॑तु ते वि॒श्वत॑स्सोम॒ वृष्णि॑यम् ।  
-भवा॒ वाज॑स्य संग॒थे॥  
+भवा॒ वाज॑स्य सङ्ग॒थे॥  
   
 अ॒प्सुमे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा ।  
 अ॒ग्निञ्च॑ वि॒श्वशं॑भुव॒माप॑श्च वि॒श्वभे॑षजीः ।  
@@ -93,7 +93,7 @@ title = "नवग्रहसूक्तम्"
 यो दैव्या॑नि॒ मानु॑षा ज॒नूꣳषि॑। अ॒न्तर्विश्वा॑नि वि॒द्म ना॒ जिगा॑ति ॥  
   
 इ॒न्द्रा॒णीमा॒सु नारि॑षु सु॒पत्नी॑म॒हम॑श्रवम् ।  
-न ह्य॑स्या अप॒रंच॒न ज॒रसा॒ मर॑ते॒ पतिः॑ ॥  
+न ह्य॑स्या अप॒रञ्च॒न ज॒रसा॒ मर॑ते॒ पतिः॑ ॥  
   
 इन्द्रं॑ वो वि॒श्वत॒स्परि॒ हवा॑महे॒ जने᳚भ्यः। अ॒स्माक॑मस्तु॒ केव॑लः ॥  
   

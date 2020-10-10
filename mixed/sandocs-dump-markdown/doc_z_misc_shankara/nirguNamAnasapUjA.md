@@ -1,22 +1,22 @@
-+++
-"Text title" = "nirguNamAnasapUjA"
-"File name" = "nirgunamaanasapuujaa.itx"
-itxtitle = "nirguNamAnasapUjA"
-engtitle = "nirguNamAnasapUjA"
-Category = "pUjA, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Latest update" = "October 20, 1998, May 19, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "निर्गुणमानसपूजा"
+---
+Author: Shankaracharya
+Category: pUjA, shankarAchArya
+File name: nirgunamaanasapuujaa.itx
+Language: Sanskrit
+Latest update: October 20, 1998, May 19, 2013
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: nirguNamAnasapUjA
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: nirguNamAnasapUjA
+itxtitle: nirguNamAnasapUjA
+title: निर्गुणमानसपूजा
 
-+++
+---
   
  निर्गुणमानसपूजा   
   
@@ -38,7 +38,7 @@ title = "निर्गुणमानसपूजा"
 निजानन्दैकतृप्तस्य नैवेद्यं किं भवेदिह ॥ ५॥  
   
 विश्वानन्दयितुस्तस्य किं ताम्बूलं प्रकल्प्यते ।  
-स्वयंप्रकाशचिद्रूपो योऽसावर्कादिभासकः ॥ ६॥  
+स्वयम्प्रकाशचिद्रूपो योऽसावर्कादिभासकः ॥ ६॥  
   
 गीयते श्रुतिभिस्तस्य नीराजनविधिः कुतः ।  
 प्रदक्षिणमनन्तस्य प्रणामोऽद्वयवस्तुनः ॥ ७॥  
@@ -48,8 +48,8 @@ title = "निर्गुणमानसपूजा"
   
 गुरुरुवाच ।  
   
-आराधयामि मणिसंनिभमात्मलिङ्गम्  
-मायापुरीहृदयपङ्कजसंनिविष्टम् ।  
+आराधयामि मणिसन्निभमात्मलिङ्गम्  
+मायापुरीहृदयपङ्कजसन्निविष्टम् ।  
 श्रद्धानदीविमलचित्तजलाभिषेकै-  
 र्नित्यं समाधिकुसुमैर्नपुनर्भवाय ॥ ९॥  
   
@@ -98,7 +98,7 @@ title = "निर्गुणमानसपूजा"
 अज्ञानध्वान्तविध्वंसप्रचण्डमतिभास्करम् ।  
 आत्मनो ब्रह्मताज्ञानं नीराजनमिहात्मनः ॥ २४॥  
   
-विविधब्रह्मसंदृष्टिर्मालिकाभिरलङ्कृतम् ।  
+विविधब्रह्मसन्दृष्टिर्मालिकाभिरलङ्कृतम् ।  
 पूर्णानन्दात्मतादृष्टिं पुष्पाञ्जलिमनुस्मरेत् ॥ २५॥  
   
 परिभ्रमन्ति ब्रह्माण्डसहस्राणि मयीश्वरे ।  
@@ -126,7 +126,7 @@ title = "निर्गुणमानसपूजा"
 विधूयाज्ञानदुःखौघं मोक्षानन्दं समश्नुते ॥ ३३॥  
   
 ॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
-श्रीगोविंदभगवत्पूज्यपादशिष्यस्य  
+श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
 श्रीमच्छङ्करभगवतः विरचिता निर्गुणमानसपूजा समाप्ता ॥  
   
   

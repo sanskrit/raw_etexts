@@ -1,23 +1,23 @@
-+++
-"Text title" = "Chamunda Stotram"
-"File name" = "chAmuNDAstotram.itx"
-itxtitle = "chAmuNDAstotram (skandapurANAntargatam)"
-engtitle = "chAmuNDAstotram"
-Category = "devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Description/comments" = "shrIskAnde revAkhaNDe kanakhaleshvaratIrthamAhAtmye"
-"Latest update" = "September 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चामुण्डास्तोत्रम् (स्कन्दपुराणान्तर्गतम्)"
+---
+Category: devii, durgA, devI
+Description/comments: shrIskAnde revAkhaNDe kanakhaleshvaratIrthamAhAtmye
+File name: chAmuNDAstotram.itx
+Language: Sanskrit
+Latest update: September 18, 2018
+Location: doc_devii
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Chamunda Stotram
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: chAmuNDAstotram
+itxtitle: chAmuNDAstotram (skandapurANAntargatam)
+title: चामुण्डास्तोत्रम् (स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीचामुण्डास्तोत्रम्   
 श्रीगणेशाय नमः ।  

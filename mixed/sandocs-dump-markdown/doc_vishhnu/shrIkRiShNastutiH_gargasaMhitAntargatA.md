@@ -1,26 +1,26 @@
-+++
-"Text title" = "shrIkRiShNastutiH from Gargasamhita"
-"File name" = "kRiShNastutiHgargasamhitA.itx"
-itxtitle = "shrIkRiShNastutiH (gargasaMhitAntargatA)"
-engtitle = "shrIkRiShNastutiH from Gargasamhita"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "gargasamhitA"
-Indexextra = "(satsangdhArA)"
-Acknowledge-Permission = "Vishwas Bhide http://satsangdhara.net/"
-"Latest update" = "February 3, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीकृइष्णस्तुतिः (गर्गसंहितान्तर्गता)"
+---
+Acknowledge-Permission: Vishwas Bhide http://satsangdhara.net/
+Category: vishhnu, krishna, stotra, vishnu
+Description-comments: gargasamhitA
+File name: kRiShNastutiHgargasamhitA.itx
+Indexextra: (satsangdhArA)
+Language: Sanskrit
+Latest update: February 3, 2016
+Location: doc_vishhnu
+Proofread by: Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIkRiShNastutiH from Gargasamhita
+Texttype: stotra
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com
+engtitle: shrIkRiShNastutiH from Gargasamhita
+itxtitle: shrIkRiShNastutiH (gargasaMhitAntargatA)
+title: श्रीकृइष्णस्तुतिः (गर्गसंहितान्तर्गता)
 
-+++
+---
   
  श्रीकृष्णस्तुतिः   
   

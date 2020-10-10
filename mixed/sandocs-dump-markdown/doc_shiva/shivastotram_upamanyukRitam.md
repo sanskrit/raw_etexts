@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivastotram upamanyukRita"
-"File name" = "shivastotramupamanyukRita.itx"
-itxtitle = "shivastotram (upamanyukRitam)"
-engtitle = "Shivastotram upamanyukrita"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Latest update" = "May 20, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवस्तोत्रम् (उपमन्युकृइतम्)"
+---
+Category: shiva, stotra
+File name: shivastotramupamanyukRita.itx
+Language: Sanskrit
+Latest update: May 20, 2013
+Location: doc_shiva
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivastotram upamanyukRita
+Texttype: stotra
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Shivastotram upamanyukrita
+itxtitle: shivastotram (upamanyukRitam)
+title: शिवस्तोत्रम् (उपमन्युकृइतम्)
 
-+++
+---
   
  उपमन्युकृतशिवस्तोत्रम्   
   
@@ -50,7 +50,7 @@ title = "शिवस्तोत्रम् (उपमन्युकृइत
 अभयं कुरु तावदाशु मे गतजीवस्य पुनः किमौषधैः ॥ ९॥  
   
 सविषैरिव भीमपन्नगैर्विषयैरेभिरलं परिक्षतम् ।  
-अमृतैरिव संभ्रमेण मामभिषिञ्चाशु दयावलोकनैः ॥ १०॥  
+अमृतैरिव सम्भ्रमेण मामभिषिञ्चाशु दयावलोकनैः ॥ १०॥  
   
 मुनयो बहवोऽद्य धन्यतां गमिता स्वाभिमतार्थदर्शिनः ।  
 करुणाकर येन तेन मामवसन्नं ननु पश्य चक्षुषा ॥ ११॥  

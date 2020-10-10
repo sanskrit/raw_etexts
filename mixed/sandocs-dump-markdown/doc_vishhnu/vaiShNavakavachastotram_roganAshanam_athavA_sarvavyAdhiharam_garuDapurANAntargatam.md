@@ -1,23 +1,23 @@
-+++
-"Text title" = "roganashana or sarva vyAdhi hara vaiShNava kavacha stotram from garuDapurANa"
-"File name" = "vaiShNavakavachastotramgaruDapurANa.itx"
-itxtitle = "vaiShNavakavachastotram roganAshanam athavA sarvavyAdhiharam (garuDapurANAntargatam)"
-engtitle = "Vaishnava kavacha stotram from Garudapurana"
-Category = "vishhnu, kavacha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Source = "Garudapurana purvArdha adhyAya 194"
-Indexextra = "(Garudapurana)"
-"Latest update" = "January 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वैष्णवकवचस्तोत्रम् रोगनाशनम् अथवा सर्वव्याधिहरम् (गरुडपुराणान्तर्गतम्)"
+---
+Category: vishhnu, kavacha
+File name: vaiShNavakavachastotramgaruDapurANa.itx
+Indexextra: (Garudapurana)
+Language: Sanskrit
+Latest update: January 13, 2018
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Garudapurana purvArdha adhyAya 194
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: roganashana or sarva vyAdhi hara vaiShNava kavacha stotram from garuDapurANa
+Texttype: stotra
+engtitle: Vaishnava kavacha stotram from Garudapurana
+itxtitle: vaiShNavakavachastotram roganAshanam athavA sarvavyAdhiharam (garuDapurANAntargatam)
+title: वैष्णवकवचस्तोत्रम् रोगनाशनम् अथवा सर्वव्याधिहरम् (गरुडपुराणान्तर्गतम्)
 
-+++
+---
   
  सर्वव्याधिहर अथवा रोगनाशनवैष्णवकवचम्   
 हरिरुवाच ।  
@@ -112,7 +112,7 @@ title = "वैष्णवकवचस्तोत्रम् रोगना�
 ॐ कृष्णरूपाय स्वाहा । ॐ चण्डाय स्वाहा । ॐ चण्डरूपाय स्वाहा ।  
 ॐ प्रचण्डाय स्वाहा । ॐ प्रचण्डरूपाय स्वाहा । ॐ सर्वाय स्वाहा ।  
 ॐ सर्वरूपाय स्वाहा । ॐ नमो भुवनेशाय त्रिलोकधात्रे इह विटि  
-सिविटि सिविटि स्वाहा । ॐ नमः अयोखेतये ये ये संज्ञापय  var  संज्ञायापात्र  
+सिविटि सिविटि स्वाहा । ॐ नमः अयोखेतये ये ये सञ्ज्ञापय  var  सञ्ज्ञायापात्र  
 दैत्यदानवयक्षराक्षसभूतपिशाचकूष्माण्डान्तापस्मारकच्छर्दनदुर्धराणा-  
 मेकाहिकद्व्याहिकत्र्याहिकचातुर्थिक मौहूर्तिकदिनज्वररात्रिज्वरसन्ध्याज्वरसर्वज्वरादीनां  
 लूताकीटकण्टकपूतनाभुजङ्गस्थावरजङ्गमविषादीनामिदं शरीरं  

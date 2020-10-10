@@ -1,21 +1,21 @@
-+++
-"Text title" = "shrii subrahmaNyahRidayastotram"
-"File name" = "subrahridayastotra.itx"
-itxtitle = "subrahmaNyahRidayastotram"
-engtitle = "subrahmaNyahRidaya stotram"
-Category = "hRidaya, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "March 15, 2006, November 7, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यहृइदयस्तोत्रम्"
+---
+Category: hRidaya, subrahmanya
+File name: subrahridayastotra.itx
+Language: Sanskrit
+Latest update: March 15, 2006, November 7, 2019
+Location: doc_subrahmanya
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: shrii subrahmaNyahRidayastotram
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: subrahmaNyahRidaya stotram
+itxtitle: subrahmaNyahRidayastotram
+title: सुब्रह्मण्यहृइदयस्तोत्रम्
 
-+++
+---
   
  श्रीसुब्रह्मण्यहृदयस्तोत्रम्   
   

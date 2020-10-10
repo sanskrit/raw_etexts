@@ -1,25 +1,26 @@
-+++
-"Text title" = "vRRindAvanAShTakam 2"
-"File name" = "vRRindAvanAShTakam.itx"
-itxtitle = "vRindAvanAShTakam 2 (vishvanAthachakravartivirachitaM na yogasiddhirna mamAstu mokSho)"
-engtitle = "vRRindAvanAShTakam 2"
-Category = "vishhnu, aShTaka, tulasI, devii, devI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "tulasI"
-Author = "Visvanatha Chakravarti Thakura"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji, also from Stamrita Lahari"
-Indexextra = "(VSM 3, Meaning)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वृइन्दावनाष्टकम् २ (विश्वनाथचक्रवर्तिविरचितं न योगसिद्धिर्न ममास्तु मोक्षो)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: Visvanatha Chakravarti Thakura
+Category: vishhnu, aShTaka, tulasI, devii, devI
+Description/comments: Edited by S. V. Radhakrishna Shastriji, also from Stamrita Lahari
+File name: vRRindAvanAShTakam.itx
+Indexextra: (VSM 3, Meaning)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vRRindAvanAShTakam 2
+engtitle: vRRindAvanAShTakam 2
+itxtitle: vRindAvanAShTakam 2 (vishvanAthachakravartivirachitaM na yogasiddhirna mamAstu
+  mokSho)
+title: वृइन्दावनाष्टकम् २ (विश्वनाथचक्रवर्तिविरचितं न योगसिद्धिर्न ममास्तु मोक्षो)
 
-+++
+---
   
  वृन्दावनाष्टकम् २   
 न योगसिद्धिर्न च माऽस्तु मोक्षो वैकुण्ठलोकेऽपि न पार्षदत्वम् ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "shaunakagItA"
-"File name" = "shaunakagiitaa.itx"
-itxtitle = "shaunakagItA"
-engtitle = "shaunakagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunder at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunder at hotmail.com"
-Indexextra = "(scanned)"
-"Latest update" = "December 15, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शौनकगीता"
+---
+Category: gItA, giitaa
+File name: shaunakagiitaa.itx
+Indexextra: (scanned)
+Language: Sanskrit
+Latest update: December 15, 2012
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunder at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: shaunakagItA
+Transliterated by: Sunder Hattangadi sunder at hotmail.com
+engtitle: shaunakagItA
+itxtitle: shaunakagItA
+title: शौनकगीता
 
-+++
+---
   
  शौनकगीता   
   
@@ -47,7 +47,7 @@ title = "शौनकगीता"
 आधिव्याधिप्रशमनं क्रियायोगद्वयेन तु ॥ ८॥  
   
 मतिमन्तो ह्यतो वैद्याः शमं प्रागेव कुर्वते ।  
-मानसस्य प्रियाख्यानैः संभोगोपनयैर्नृणाम् ॥ ९॥  
+मानसस्य प्रियाख्यानैः सम्भोगोपनयैर्नृणाम् ॥ ९॥  
   
 मानसेनहि दुःखेन शरीरमुपतप्यते ।  
 अयस्तप्तेन पिण्डेन कुम्भसंस्थमिवोदकम् ॥ १०॥  
@@ -70,14 +70,14 @@ title = "शौनकगीता"
 विप्रयोगेन तु त्यागी दोषदर्शी समागमे ।  
 विरागं भजते जन्तुर्निर्वैरो निरवग्रहः ॥  १६॥  
   
-तस्मात्स्नेहं न लिप्सेत मित्रेभ्यो धनसंचयात् ।  
+तस्मात्स्नेहं न लिप्सेत मित्रेभ्यो धनसञ्चयात् ।  
 स्वशरीरसमुत्थं च ज्ञानेन विनिवर्तयेत् ॥ १७॥  
   
 ज्ञानान्वितेषु युक्तेषु शास्त्रज्ञेषु कृतात्मसु ।  
 न तेषु सज्जते स्नेहः पद्मपत्रेष्विवोदकम् ॥ १८॥  
   
 रागाभिभूतः पुरुषः कामेन परिकृष्यते ।  
-इच्छा संजायते तस्य ततस्तृष्णा विवर्धते ॥ १९॥  
+इच्छा सञ्जायते तस्य ततस्तृष्णा विवर्धते ॥ १९॥  
   
 तृष्णाहि सर्वपापिष्ठा नित्योद्वेगकरी स्मृता ।  
 अधर्मबहुला चैव घोरा पापानुबन्धिनी ॥ २०॥  
@@ -97,7 +97,7 @@ title = "शौनकगीता"
 यथा ह्यामिषमाकाशे पक्षिभिः श्वापदैर्भुवि ।  
 भक्ष्यन्ते सलिले मत्स्यैस्तथा सर्वत्र वित्तवान् ॥ २५॥  
   
-अर्थ एव हि केषांचिदनर्थ भजते नृणाम् ।  
+अर्थ एव हि केषाञ्चिदनर्थ भजते नृणाम् ।  
 अर्थ श्रेयसि चासक्तो न श्रेयो विन्दते नरः ॥ २६॥  
   
 तस्मादर्थागमाः सर्वे मनोमोहविवर्धनाः ।  
@@ -115,12 +115,12 @@ title = "शौनकगीता"
 अन्तो नास्ति पिपासायाः सन्तोषः परमं सुखम् ।  
 तस्मात्सन्तोषमेवेह परं पश्यन्ति पण्डिताः ॥ ३१॥  
   
-अनित्यं यौवनं रूपं जीवितं रत्नसंचयः ।  
+अनित्यं यौवनं रूपं जीवितं रत्नसञ्चयः ।  
 ऐश्वर्यं प्रियसंवासो गृद्ध्येत्तत्र न पण्डितः ॥ ३२॥  
   
 त्यजेत सञ्चयांस्तस्मात्तज्जान्क्लेशान् सहेत च ।  
 न हि सञ्चयवान्कश्चिद्दृश्यते निरुपद्रवः ।  
-अतश्च धार्मिकैः पुंभिरनीहार्थः प्रशस्यते ॥ ३३॥  
+अतश्च धार्मिकैः पुम्भिरनीहार्थः प्रशस्यते ॥ ३३॥  
   
 धर्मार्थ यस्य वित्तेहा वरं तस्य निरीहता ।  
 प्रक्षालनाद्धि पङ्कस्य श्रेयो न स्पर्शनं नृणाम् ॥ ३४॥  

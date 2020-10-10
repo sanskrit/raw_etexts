@@ -1,25 +1,25 @@
-+++
-"Text title" = "subrahmaNyastava"
-"File name" = "subrahmaNyastava.itx"
-itxtitle = "subrahmaNyastavaH (puShpA shrIvatsena virachitaH)"
-engtitle = "subrahmaNyastava"
-Category = "subrahmanya, puShpAshrIvatsan"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यस्तवः (पुष्पा श्रीवत्सेन विरचितः)"
+---
+Author: Pushpa Srivatsan
+Category: subrahmanya, puShpAshrIvatsan
+File name: subrahmaNyastava.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 28, 2017
+Location: doc_subrahmanya
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyastava
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: subrahmaNyastava
+itxtitle: subrahmaNyastavaH (puShpA shrIvatsena virachitaH)
+title: सुब्रह्मण्यस्तवः (पुष्पा श्रीवत्सेन विरचितः)
 
-+++
+---
   
  श्रीसुब्रह्मण्यस्तवः   
                  ॐ  

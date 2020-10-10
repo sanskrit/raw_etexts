@@ -1,24 +1,24 @@
-+++
-"Text title" = "sadAshivapramANikA"
-"File name" = "sadAshivapramANikA.itx"
-itxtitle = "sadAshivapramANikA (puShpA shrIvatsena virachitA)"
-engtitle = "sadAshivapramANikA"
-Category = "shiva, puShpAshrIvatsan"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali 2017"
-"Latest update" = "September 30, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सदाशिवप्रमाणिका (पुष्पा श्रीवत्सेन विरचिता)"
+---
+Author: Pushpa Srivatsan
+Category: shiva, puShpAshrIvatsan
+File name: sadAshivapramANikA.itx
+Language: Sanskrit
+Latest update: September 30, 2017
+Location: doc_shiva
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali 2017
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: sadAshivapramANikA
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: sadAshivapramANikA
+itxtitle: sadAshivapramANikA (puShpA shrIvatsena virachitA)
+title: सदाशिवप्रमाणिका (पुष्पा श्रीवत्सेन विरचिता)
 
-+++
+---
   
  श्रीसदाशिवप्रमाणिका   
                 ॐ  

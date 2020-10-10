@@ -1,23 +1,23 @@
-+++
-"Text title" = "vivekAnandastotram"
-"File name" = "vivekAnandastotram.itx"
-itxtitle = "vivekAnandastotram (svAmiguNAtItAnandavirachita)"
-engtitle = "vivekAnandastotram"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Swami Gunatitananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(stotramAlA, yugAchArya)"
-"Latest update" = "March 5, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विवेकानन्दस्तोत्रम् (स्वामिगुणातीतानन्दविरचित)"
+---
+Author: Swami Gunatitananda
+Category: deities_misc, gurudev
+File name: vivekAnandastotram.itx
+Indexextra: (stotramAlA, yugAchArya)
+Language: Sanskrit
+Latest update: March 5, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vivekAnandastotram
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: vivekAnandastotram
+itxtitle: vivekAnandastotram (svAmiguNAtItAnandavirachita)
+title: विवेकानन्दस्तोत्रम् (स्वामिगुणातीतानन्दविरचित)
 
-+++
+---
   
  विवेकानन्दस्तोत्रम्   
   

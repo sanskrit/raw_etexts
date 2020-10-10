@@ -1,23 +1,23 @@
-+++
-"Text title" = "Sarasvatirahasya Upanishad"
-"File name" = "sarasvati_upan.itx"
-itxtitle = "sarasvatIrahasyopaniShat"
-engtitle = "Sarasvatirahasya Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "106 / 108; Krishna Yajurveda - Shakta upanishad"
-"Latest update" = "April  25, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीरहस्योपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 106 / 108; Krishna Yajurveda - Shakta upanishad
+File name: sarasvati_upan.itx
+Language: Sanskrit
+Latest update: April  25, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion
+Sublocation: upanishhat
+Text title: Sarasvatirahasya Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Sarasvatirahasya Upanishad
+itxtitle: sarasvatIrahasyopaniShat
+title: सरस्वतीरहस्योपनिषत्
 
-+++
+---
   
  श्रीसरस्वतीरहस्योपनिषत्   
   
@@ -127,7 +127,7 @@ title = "सरस्वतीरहस्योपनिषत्"
 मुक्ताहारसमायुक्ता वाचि तिष्ठतु मे सदा ॥ ३॥  
   
 कम्बुकण्ठी सुताम्रोष्ठी सर्वाभरणभूषिता ।  
-महासरस्वती देवी जिह्वाग्रे संनिविश्यताम् ॥ ४॥  
+महासरस्वती देवी जिह्वाग्रे सन्निविश्यताम् ॥ ४॥  
   
 या श्रद्धा धारणा मेधा वाग्देवी विधिवल्लभा ।  
 भक्तजिह्वाग्रसदना शमादिगुणदायिनी ॥ ५॥  

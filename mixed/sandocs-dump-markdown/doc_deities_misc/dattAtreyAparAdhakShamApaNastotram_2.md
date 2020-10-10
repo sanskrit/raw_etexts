@@ -1,23 +1,23 @@
-+++
-"Text title" = "dattAparAdhakShamApana2"
-"File name" = "dattAparAdhakShamApana2.itx"
-itxtitle = "dattAtreyAparAdhakShamApaNastotram  2"
-engtitle = "Dattatreya aparAdhakShamApaNastotram  2"
-Category = "aparAdhakShamA, deities_misc, dattatreya, vAsudevAnanda-sarasvatI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "vAsudevAnandasarasvatI (TembesvAmi)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinkar Deshpande , sunderh at hotmail.com"
-"Proofread by" = "Dinkar Deshpande , sunderh at hotmail.com"
-"Latest update" = "April 25, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयापराधक्षमापणस्तोत्रम्  २"
+---
+Author: vAsudevAnandasarasvatI (TembesvAmi)
+Category: aparAdhakShamA, deities_misc, dattatreya, vAsudevAnanda-sarasvatI
+File name: dattAparAdhakShamApana2.itx
+Language: Sanskrit
+Latest update: April 25, 2010
+Location: doc_deities_misc
+Proofread by: Dinkar Deshpande , sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattAparAdhakShamApana2
+Transliterated by: Dinkar Deshpande , sunderh at hotmail.com
+engtitle: Dattatreya aparAdhakShamApaNastotram  2
+itxtitle: dattAtreyAparAdhakShamApaNastotram  2
+title: दत्तात्रेयापराधक्षमापणस्तोत्रम्  २
 
-+++
+---
   
  श्रीदत्तात्रेयापराधक्षमापणस्तोत्रम् २   
   
@@ -36,7 +36,7 @@ title = "दत्तात्रेयापराधक्षमापणस�
 क्षमस्वापराधं क्षमस्वापराधं  
      क्षमस्वापराधं प्रभो क्लिन्नचित्त ॥ ३॥  
   
-मया जातमात्रेण संमोहितेन  
+मया जातमात्रेण सम्मोहितेन  
      गृहीतं कदाचिन्न ते नाम दत्त ।  
 क्षमस्वापराधं क्षमस्वापराधं  
      क्षमस्वापराधं प्रभो क्लिन्नचित्त ॥ ४॥  
@@ -68,7 +68,7 @@ title = "दत्तात्रेयापराधक्षमापणस�
   
 दयाब्धिर्भवाद्दङ्न सागाश्च मादृग्  
      भवत्यात्पमन्तोर्भवान्मे शरण्यः ।  
-यथालम्बनं भूर्हि भूनिःसृतांघ्रे  
+यथालम्बनं भूर्हि भूनिःसृताङ्घ्रे  
      रिति प्रार्थितं दत्तशिष्येण सारम् ॥ १०॥  
   
 ॥ इति परमपूज्य श्रीमद् वासुदेवानन्दसरस्वती  

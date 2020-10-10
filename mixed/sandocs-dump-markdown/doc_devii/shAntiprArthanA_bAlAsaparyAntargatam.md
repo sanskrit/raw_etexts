@@ -1,22 +1,22 @@
-+++
-"Text title" = "shAntiprArthanA, A prayer for peace"
-"File name" = "shAntiprArthanA.itx"
-itxtitle = "shAntiprArthanA (bAlAsaparyAntargatam)"
-engtitle = "shAntiprArthanA"
-Category = "devii, devI, misc, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyAntargatam"
-"Latest update" = "June 3, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शान्तिप्रार्थना (बालासपर्यान्तर्गतम्)"
+---
+Category: devii, devI, misc, dashamahAvidyA
+Description/comments: bAlAsaparyAntargatam
+File name: shAntiprArthanA.itx
+Language: Sanskrit
+Latest update: June 3, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAntiprArthanA, A prayer for peace
+engtitle: shAntiprArthanA
+itxtitle: shAntiprArthanA (bAlAsaparyAntargatam)
+title: शान्तिप्रार्थना (बालासपर्यान्तर्गतम्)
 
-+++
+---
   
  शान्तिप्रार्थना   
 माऽहं ब्रह्म निराकुर्यां मा मा ब्रह्म निराकरोत् ।  

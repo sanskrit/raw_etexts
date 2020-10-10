@@ -1,24 +1,24 @@
-+++
-"Text title" = "yamunAShTakam 5"
-"File name" = "yamunAShTakam2.itx"
-itxtitle = "yamunAShTakam 5 (yA gokulAgamana devakInandanajIkRitam)"
-engtitle = "yamunAShTakam 5"
-Category = "devii, nadI, puShTimArgIya, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "devakInandanajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनाष्टकम् ५ (या गोकुलागमन देवकीनन्दनजीकृइतम्)"
+---
+Author: devakInandanajI
+Category: devii, nadI, puShTimArgIya, aShTaka, devI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: yamunAShTakam2.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunAShTakam 5
+engtitle: yamunAShTakam 5
+itxtitle: yamunAShTakam 5 (yA gokulAgamana devakInandanajIkRitam)
+title: यमुनाष्टकम् ५ (या गोकुलागमन देवकीनन्दनजीकृइतम्)
 
-+++
+---
   
  श्रीयमुनाष्टकम् ५   
 या गोकुलागमनसम्भ्रमदत्तमार्गा  

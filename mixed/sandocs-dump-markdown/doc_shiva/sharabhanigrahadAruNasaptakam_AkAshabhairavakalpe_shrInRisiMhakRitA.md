@@ -1,23 +1,23 @@
-+++
-"Text title" = "Sharabha Nigrahadaruna Saptakam by Shri Nrisimha from Akashabhairavakalpa"
-"File name" = "sharabhanigrahadAruNasaptakam.itx"
-itxtitle = "sharabhanigrahadAruNasaptakam (AkAshabhairavakalpe shrInRisiMhakRitA)"
-engtitle = "sharabhanigrahadAruNasaptakam"
-Category = "shiva, saptaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Akashabhairavakalpa"
-Indexextra = "(Text)"
-"Latest update" = "February 22, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरभनिग्रहदारुणसप्तकम् (आकाशभैरवकल्पे श्रीनृइसिंहकृइता)"
+---
+Category: shiva, saptaka
+Description/comments: Akashabhairavakalpa
+File name: sharabhanigrahadAruNasaptakam.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: February 22, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Sharabha Nigrahadaruna Saptakam by Shri Nrisimha from Akashabhairavakalpa
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 gmail.com
+engtitle: sharabhanigrahadAruNasaptakam
+itxtitle: sharabhanigrahadAruNasaptakam (AkAshabhairavakalpe shrInRisiMhakRitA)
+title: शरभनिग्रहदारुणसप्तकम् (आकाशभैरवकल्पे श्रीनृइसिंहकृइता)
 
-+++
+---
   
  श्रीशरभ निग्रहदारुण सप्तकम्   
 ॐ श्रीगणेशाय नमः ।  

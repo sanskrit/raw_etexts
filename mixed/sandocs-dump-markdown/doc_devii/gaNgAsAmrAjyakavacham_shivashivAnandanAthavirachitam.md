@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ganga Samrajya Kavacham"
-"File name" = "gangAsAmrAjyakavacham.itx"
-itxtitle = "gaNgAsAmrAjyakavacham (shivashivAnandanAthavirachitam)"
-engtitle = "gangA sAmrAjya kavacham"
-Category = "devii, nadI, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "shiva shivAnandanAtha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Proofread by" = "Shree Devi Kumar shreeshrii at gmail.com"
-"Latest update" = "June 24, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गासाम्राज्यकवचम् (शिवशिवानन्दनाथविरचितम्)"
+---
+Author: shiva shivAnandanAtha
+Category: devii, nadI, kavacha, devI
+File name: gangAsAmrAjyakavacham.itx
+Language: Sanskrit
+Latest update: June 24, 2020
+Location: doc_devii
+Proofread by: Shree Devi Kumar shreeshrii at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Ganga Samrajya Kavacham
+Transliterated by: Shree Devi Kumar shreeshrii at gmail.com
+engtitle: gangA sAmrAjya kavacham
+itxtitle: gaNgAsAmrAjyakavacham (shivashivAnandanAthavirachitam)
+title: गण्गासाम्राज्यकवचम् (शिवशिवानन्दनाथविरचितम्)
 
-+++
+---
   
  गङ्गासाम्राज्यकवचं   
 ॥ श्रीगणेशाय नमः ॥  

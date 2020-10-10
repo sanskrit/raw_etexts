@@ -1,23 +1,23 @@
-+++
-"Text title" = "akShararAmAyaNam"
-"File name" = "akShararAmAyaNam.itx"
-itxtitle = "akShararAmAyaNam (kavijAnakIvirachitam)"
-engtitle = "akShararAmAyaNam"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "jAnaki"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Surya Maruvada"
-"Translated by" = "Surya Maruvada"
-Indexextra = "(Scan)"
-"Latest update" = "May 30, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अक्षररामायणम् (कविजानकीविरचितम्)"
+---
+Author: jAnaki
+Category: raama
+File name: akShararAmAyaNam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 30, 2020
+Location: doc_raama
+Proofread by: Surya Maruvada
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: akShararAmAyaNam
+Translated by: Surya Maruvada
+engtitle: akShararAmAyaNam
+itxtitle: akShararAmAyaNam (kavijAnakIvirachitam)
+title: अक्षररामायणम् (कविजानकीविरचितम्)
 
-+++
+---
   
  अक्षररामायणम्   
 बालिद्वीपलब्धं प्राचीनं अक्षररामायणं  
@@ -65,9 +65,9 @@ title = "अक्षररामायणम् (कविजानकीवि
         शूरास्सत्यप्रतिज्ञाश्च सर्वे दशरथात्मजाः ॥ ४॥  
   
 इ      इङ्गितेन तु कैकेय्याः स्वपुत्रहितकाम्यया ।  
-        दृढव्रतो राज्ञ इष्टो रामस्संप्रस्थितो वनम् ॥ ५॥  
+        दृढव्रतो राज्ञ इष्टो रामस्सम्प्रस्थितो वनम् ॥ ५॥  
   
-ई      ओहितेनाभिषेकेन रामस्संप्रस्थितो वनम् ।  
+ई      ओहितेनाभिषेकेन रामस्सम्प्रस्थितो वनम् ।  
         सीता चानुगता साध्वी लक्ष्मणश्च महाबलः ॥ ६॥  
   
 उ१      उपवासपरो रामः तपस्वी दण्डके वने ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "garuDakavacham"
-"File name" = "garuDakavacham.itx"
-itxtitle = "garuDakavacham"
-engtitle = "Garudakavacha"
-Category = "kavacha, deities_misc, stotra, vishhnu"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-"Latest update" = "December 20, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गरुडकवचम्"
+---
+Author: Traditional
+Category: kavacha, deities_misc, stotra, vishhnu
+File name: garuDakavacham.itx
+Language: Sanskrit
+Latest update: December 20, 2015
+Location: doc_deities_misc
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: garuDakavacham
+Texttype: stotra
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: Garudakavacha
+itxtitle: garuDakavacham
+title: गरुडकवचम्
 
-+++
+---
   
  गरुडकवचम्   
   

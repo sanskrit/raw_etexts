@@ -1,26 +1,26 @@
-+++
-"Text title" = "Who am I ? Koham Nan Yaar"
-"File name" = "kohamRamanaMaharshi.itx"
-itxtitle = "ko.aham (ramaNamaharShI prashnottaraH)"
-engtitle = "Who am I ? koham"
-Category = "deities_misc, jagadIsha-shAstrI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Jagadisha Shastri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail"
-Description-comments = "translation of Ramana Maharshi's 'Nan-Yar' in Tamil"
-Source = "http://www.sriramanamaharshi.org/resource_centre/publications/who-am-i-books/"
-Indexextra = "(sriramanamaharshi)"
-Acknowledge-Permission = "http://www.sriramanamaharshi.org"
-"Latest update" = "March 8, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कोऽहम् (रमणमहर्षी प्रश्नोत्तरः)"
+---
+Acknowledge-Permission: http://www.sriramanamaharshi.org
+Author: Jagadisha Shastri
+Category: deities_misc, jagadIsha-shAstrI
+Description-comments: translation of Ramana Maharshi's 'Nan-Yar' in Tamil
+File name: kohamRamanaMaharshi.itx
+Indexextra: (sriramanamaharshi)
+Language: Sanskrit
+Latest update: March 8, 2016
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: http://www.sriramanamaharshi.org/resource_centre/publications/who-am-i-books/
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Who am I ? Koham Nan Yaar
+Transliterated by: Sunder Hattangadi sunderh at hotmail
+engtitle: Who am I ? koham
+itxtitle: ko.aham (ramaNamaharShI prashnottaraH)
+title: कोऽहम् (रमणमहर्षी प्रश्नोत्तरः)
 
-+++
+---
   
  कोऽहम् ?   
 ॥ हृदयकमलवासिने श्रीमते रमणाय नमः ॥  

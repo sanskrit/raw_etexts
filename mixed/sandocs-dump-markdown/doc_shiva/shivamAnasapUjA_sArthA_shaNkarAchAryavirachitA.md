@@ -1,21 +1,21 @@
-+++
-"Text title" = "sArtha shivamAnasapujA"
-"File name" = "smaanasa.itx"
-itxtitle = "shivamAnasapUjA sArthA (shaNkarAchAryavirachitA)"
-engtitle = "shivamAnasapUjA"
-Category = "pUjA, shiva, stotra, shankarAchArya"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Latest update" = "May 30, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवमानसपूजा सार्था (शण्कराचार्यविरचिता)"
+---
+Author: Shankaracharya
+Category: pUjA, shiva, stotra, shankarAchArya
+File name: smaanasa.itx
+Language: Sanskrit
+Latest update: May 30, 1999
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: shiva
+Text title: sArtha shivamAnasapujA
+Texttype: stotra
+engtitle: shivamAnasapUjA
+itxtitle: shivamAnasapUjA sArthA (shaNkarAchAryavirachitA)
+title: शिवमानसपूजा सार्था (शण्कराचार्यविरचिता)
 
-+++
+---
   
  सार्थ श्रीशिवमानसपूजा   
 रत्नैः कल्पितमासनं हिमजलैः स्नानं च दिव्याम्बरं  

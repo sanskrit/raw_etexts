@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrImadgItAsAra"
-"File name" = "shrImadgItAsAra.itx"
-itxtitle = "bhagavadgItAsAraH"
-engtitle = "shrImad gItAsAraH"
-Category = "gItA, giitaa, bhagavadgita"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Subcategory = "bhagavadgita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Bengali)"
-"Latest update" = "May 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवद्गीतासारः"
+---
+Category: gItA, giitaa, bhagavadgita
+File name: shrImadgItAsAra.itx
+Indexextra: (Bengali)
+Language: Sanskrit
+Latest update: May 18, 2013
+Location: doc_giitaa
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhagavadgita
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: shrImadgItAsAra
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: shrImad gItAsAraH
+itxtitle: bhagavadgItAsAraH
+title: भगवद्गीतासारः
 
-+++
+---
   
  श्रीमद् गीतासारः   
   
@@ -44,7 +44,7 @@ title = "भगवद्गीतासारः"
 इन्द्रियाणीन्द्रियार्थांश्च महाभूतानि पञ्चकम् ॥ ७॥  
   
 मनोबुद्धिरहङ्कारमव्यक्तं पुरुषस्तथा ।   
-प्रसंख्यानपराव्याप्तो विमुक्तो बन्धनैर्भवेत् ॥ ८॥  
+प्रसङ्ख्यानपराव्याप्तो विमुक्तो बन्धनैर्भवेत् ॥ ८॥  
   
 इन्द्रियग्राममखिलं मनसाभिनिवेश्य च ।   
 मनश्चैवाप्यहङ्कारे प्रतिष्ठाप्य च पाण्डव ॥ ९॥  
@@ -101,9 +101,9 @@ title = "भगवद्गीतासारः"
 योगारम्भे मूर्तहरिं अमूर्तमपि चिन्तयेत् ॥ २५॥  
   
 अग्निमण्डलमध्यस्थो वायुर्देवश्चतुर्भुजः ।  
-शंखचक्रगदापद्मयुक्तः कौस्तुभसंयुतः ॥ २६॥  
+शङ्खचक्रगदापद्मयुक्तः कौस्तुभसंयुतः ॥ २६॥  
   
-वनमाली कौस्तुभेन रतोऽहं ब्रह्मसंज्ञकः ।  
+वनमाली कौस्तुभेन रतोऽहं ब्रह्मसञ्ज्ञकः ।  
 धारणेत्युच्यते चेयं धार्यते यन्मनोलये ॥ २७॥  
   
 अहं ब्रह्मेत्यवस्थानं समाधिरभिधीयते ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "govindAShTakaM"
-"File name" = "govind8.itx"
-itxtitle = "govindAShTakam (shaNkarAchAryavirachitam)"
-engtitle = "govindAShTakam"
-Category = "aShTaka, vishhnu, krishna, vishnu, shankarAchArya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ashwini Kshirasagar ak201 at hslmc.cam.ac.uk"
-"Proofread by" = "Ashwini Kshirasagar ak201 at hslmc.cam.ac.uk"
-"Latest update" = "November 12, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोविन्दाष्टकम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: aShTaka, vishhnu, krishna, vishnu, shankarAchArya
+File name: govind8.itx
+Language: Sanskrit
+Latest update: November 12, 2017
+Location: doc_vishhnu
+Proofread by: Ashwini Kshirasagar ak201 at hslmc.cam.ac.uk
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: govindAShTakaM
+Transliterated by: Ashwini Kshirasagar ak201 at hslmc.cam.ac.uk
+engtitle: govindAShTakam
+itxtitle: govindAShTakam (shaNkarAchAryavirachitam)
+title: गोविन्दाष्टकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  श्रीगोविन्दाष्टकं   
 सत्यं ज्ञानमनन्तं नित्यमनाकाशं परमाकाशं  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "nRRisiMhabhAratIpAdasuvarNamAlAstavarAjaH"
-"File name" = "nRRisiMhabhAratIpAdasuvarNamAlAstavarAjaH.itx"
-itxtitle = "nRisiMhabhAratIpAdasuvarNamAlAstavarAjaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "nRRisiMhabhAratIpAdasuvarNamAlAstavarAjaH"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, stavarAja"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudeva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहभारतीपादसुवर्णमालास्तवराजः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, stavarAja
+File name: nRRisiMhabhAratIpAdasuvarNamAlAstavarAjaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudeva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: nRRisiMhabhAratIpAdasuvarNamAlAstavarAjaH
+engtitle: nRRisiMhabhAratIpAdasuvarNamAlAstavarAjaH
+itxtitle: nRisiMhabhAratIpAdasuvarNamAlAstavarAjaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: नृइसिंहभारतीपादसुवर्णमालास्तवराजः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीनृसिंहभारतीपादसुवर्णमालास्तवराजः   
 ओङ्कारमन्त्रराजप्रजपनसंसक्तमानसाम्भोजान् ।  

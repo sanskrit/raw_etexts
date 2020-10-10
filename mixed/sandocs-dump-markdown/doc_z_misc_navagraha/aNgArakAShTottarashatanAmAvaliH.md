@@ -1,27 +1,29 @@
-+++
-"Text title" = "mangala aShTottarashatanaamavaliH"
-"File name" = "mangala108.itx"
-itxtitle = "aNgArakAShTottarashatanAmAvaliH"
-engtitle = "a.ngArakAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, navagraha, nAmAvalI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com)"
-"Proofread by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler at gmx.net"
-Description-comments = "108 names for maNgala"
-Source = "Ashtoththara Shathanamavali Shatakam, Edited by R. Muralikrishna Srowthigal, Published by VIDVATH SABHA, Chennai - 600073"
-Indexextra = "(108 names)"
-"Latest update" = "Jan 25, 1998, June 3, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अण्गारकाष्टोत्तरशतनामावलिः"
+---
+Category: aShTottarashatanAmAvalI, navagraha, nAmAvalI
+Description-comments: 108 names for maNgala
+File name: mangala108.itx
+Indexextra: (108 names)
+Language: Sanskrit
+Latest update: Jan 25, 1998, June 3, 2007
+Location: doc_z_misc_navagraha
+Proofread by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler
+  at gmx.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Ashtoththara Shathanamavali Shatakam, Edited by R. Muralikrishna Srowthigal,
+  Published by VIDVATH SABHA, Chennai - 600073
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: mangala aShTottarashatanaamavaliH
+Texttype: nAmAvalI
+Transliterated by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com)
+engtitle: a.ngArakAShTottarashatanAmAvalI
+itxtitle: aNgArakAShTottarashatanAmAvaliH
+title: अण्गारकाष्टोत्तरशतनामावलिः
 
-+++
+---
   
- अंगारकाष्टोत्तरशतनामावली   
+ अङ्गारकाष्टोत्तरशतनामावली   
   
 मङ्गल बीज मन्त्र -  
 ॐ क्राँ क्रीं क्रौं सः भौमाय नमः ।  
@@ -65,7 +67,7 @@ title = "अण्गारकाष्टोत्तरशतनामाव�
 ॐ वीतभयाय नमः ।  
 ॐ विज्वराय नमः ।  
 ॐ विश्वकारणाय नमः ।  
-ॐ नक्षत्रराशिसंचाराय नमः ।  
+ॐ नक्षत्रराशिसञ्चाराय नमः ।  
 ॐ नानाभयनिकृन्तनाय नमः ।  
 ॐ वन्दारुजनमन्दाराय नमः ।  
 ॐ वक्रकुञ्चितमूर्धजाय नमः ।  
@@ -109,8 +111,8 @@ title = "अण्गारकाष्टोत्तरशतनामाव�
 ॐ तामसाधाराय नमः ।  
 ॐ तपस्विने नमः ।  
 ॐ ताम्रलोचनाय नमः ।  
-ॐ तप्तकाञ्चनसंकाशाय नमः ।  
-ॐ रक्तकिञ्जल्कसंनिभाय नमः ।  
+ॐ तप्तकाञ्चनसङ्काशाय नमः ।  
+ॐ रक्तकिञ्जल्कसन्निभाय नमः ।  
 ॐ गोत्राधिदेवाय नमः ।  
 ॐ गोमध्यचराय नमः ।  
 ॐ गुणविभूषणाय नमः ।  

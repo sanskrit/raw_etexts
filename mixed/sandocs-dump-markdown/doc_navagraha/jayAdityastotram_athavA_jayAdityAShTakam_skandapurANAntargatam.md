@@ -1,22 +1,23 @@
-+++
-"Text title" = "jayAdityastotramskandapurANa"
-"File name" = "jayAdityastotramskandapurANa.itx"
-itxtitle = "jayAdityastotram athavA jayAdityAShTakam (skandapurANAntargatam)"
-engtitle = "jayAdityastotramskandapurANa"
-Category = "navagraha, aShTaka"
-Location = "doc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Skandamahapurna Maheshvarakhanda Kaumarikakhanda Adhyaya 51, verses 65-90"
-"Latest update" = "February 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयादित्यस्तोत्रम् अथवा जयादित्याष्टकम् (स्कन्दपुराणान्तर्गतम्)"
+---
+Category: navagraha, aShTaka
+Description/comments: Skandamahapurna Maheshvarakhanda Kaumarikakhanda Adhyaya 51,
+  verses 65-90
+File name: jayAdityastotramskandapurANa.itx
+Language: Sanskrit
+Latest update: February 21, 2018
+Location: doc_navagraha
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: jayAdityastotramskandapurANa
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: jayAdityastotramskandapurANa
+itxtitle: jayAdityastotram athavA jayAdityAShTakam (skandapurANAntargatam)
+title: जयादित्यस्तोत्रम् अथवा जयादित्याष्टकम् (स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  जयादित्यस्तोत्रम् अथवा जयादित्याष्टकम्   
 न त्वं कृतः केवलसंश्रुतश्च यजुष्येवं व्याहरत्यादिदेव! ।  
@@ -35,7 +36,7 @@ title = "जयादित्यस्तोत्रम् अथवा जय
 दारिद्र्यदारिद्र्य निधे निधीनाममङ्गलामङ्गल शर्मशर्म ।  
 रोगप्ररोगः प्रथितः पृथिव्यां चिरं जयाऽऽदित्य! जयाऽऽप्रमेय! ॥ ६॥  
   
-व्याधिग्रस्तं कुष्ठरोगाभिभूतं भग्नघ्राणं शीर्णदेहं विसंज्ञम् ।  
+व्याधिग्रस्तं कुष्ठरोगाभिभूतं भग्नघ्राणं शीर्णदेहं विसञ्ज्ञम् ।  
 माता पिता बान्धवाः सन्त्यजन्ति सर्वैस्त्यक्तं पासि कोऽस्ति त्वदन्यः ॥ ७॥  
   
 त्वं मे पिता त्वं जननी त्वमेव त्वं मे गुरुर्बान्धवाश्च त्वमेव ।  

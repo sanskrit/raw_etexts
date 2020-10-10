@@ -1,23 +1,25 @@
-+++
-"Text title" = "vedAntanAmaratnasahasramlist"
-"File name" = "vedAntanAmaratnasahasramlist.itx"
-itxtitle = "vedAntanAmaratnasahasram anukramaNikA"
-engtitle = "Index of names from the Vedanta-nama-ratna-sahasram"
-Category = "sahasranAmAvalI, major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "paramashivendrasarasvatIpraNIta"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion  these names have been drawn.  Compiled by S. R. Krishnamurthi. Published by  Sri Kanchi Kamakoti Sankara Mandir, Secundarabad, 1969."
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "There is a list of 62 sources in the work from which"
-Indexextra = "(Scan)"
-"Latest update" = "July 4, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदान्तनामरत्नसहस्रम् अनुक्रमणिका"
+---
+Author: paramashivendrasarasvatIpraNIta
+Category: sahasranAmAvalI, major_works
+Description-comments: There is a list of 62 sources in the work from which
+File name: vedAntanAmaratnasahasramlist.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 4, 2008
+Location: doc_z_misc_major_works
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion  these names have been drawn.  Compiled by S.
+  R. Krishnamurthi. Published by  Sri Kanchi Kamakoti Sankara Mandir, Secundarabad,
+  1969.
+Sublocation: major_works
+Text title: vedAntanAmaratnasahasramlist
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Index of names from the Vedanta-nama-ratna-sahasram
+itxtitle: vedAntanAmaratnasahasram anukramaNikA
+title: वेदान्तनामरत्नसहस्रम् अनुक्रमणिका
 
-+++
+---
   
  वेदान्त-नाम-रत्न-सहस्रम् अनुक्रमणिका   
   
@@ -470,7 +472,7 @@ been drawn.
 देवतानां पर्मओ दैवतः  
 देवः  
 देवानामुद्भवः  । ४४०  
-देवनांप्रभवः  
+देवनाम्प्रभवः  
 द्यावापृथिवी जनयन्  
 द्यौः  
 द्रष्टव्यः  
@@ -537,7 +539,7 @@ been drawn.
 परमेष्ठी  
 परमोऽक्षरः  
 परमो लोकः  
-परमंपदम्  
+परमम्पदम्  
 परमं ब्रह्म  
 परमं व्योम  । ५१०  
 परमं सामयम्  
@@ -552,9 +554,9 @@ been drawn.
 परिभवासहः  । ५२०  
 परिभूः  
 परोवरीयान्  
-परंज्योतिः  
-परंधाम  
-परंपदम्  
+परञ्ज्योतिः  
+परन्धाम  
+परम्पदम्  
 परं ब्रह्म  
 परं शृङ्गम्  
 पवित्रम्  
@@ -569,7 +571,7 @@ been drawn.
 पुरातनः  
 पुरिशयः  
 पुरुरूपः  
-पुरुषसंज्ञः  । ५४०  
+पुरुषसञ्ज्ञः  । ५४०  
 पुरुषः  
 पुरुषाणां कर्ता  
 पुष्करम्  
@@ -819,7 +821,7 @@ been drawn.
 व्योमनि प्रतिष्ठितः  
 व्रीहेरणीयान्  
 शन्तमा  
-शंभुः  । ७९०  
+शम्भुः  । ७९०  
 शयानः  
 शर्वः  
 शान्तम्  
@@ -956,7 +958,7 @@ been drawn.
 सहस्राक्षः  
 सहस्रशीर्षा  
 सङ्कल्पाध्यवसायाभिमानलिङ्ग  
-संमक्षः  
+सम्मक्षः  
 संयद्वामः  
 संयोगनिमित्तहेतुः  
 संसारमोक्षस्थितिबन्धहेतुः ९३०  
@@ -993,7 +995,7 @@ been drawn.
 स्वमहिमस्थः  
 स्वे महिम्नि प्रतिष्ठितः  
 स्वयञ्ज्योतिः  
-स्वयंभूः  
+स्वयम्भूः  
 स्वयमीशवरः  
 स्वराट् स्वर्गः  
 स्वर्गो लोकः  

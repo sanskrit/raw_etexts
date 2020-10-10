@@ -1,22 +1,22 @@
-+++
-"Text title" = "Kumara Mangala Stotram"
-"File name" = "kumAramangalastotram.itx"
-itxtitle = "kumAramaNgalastotram"
-engtitle = "Kumara Mangala Stotram"
-Category = "subrahmanya, mangala"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(sotrARnava)"
-"Latest update" = "June 8, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमारमण्गलस्तोत्रम्"
+---
+Category: subrahmanya, mangala
+File name: kumAramangalastotram.itx
+Indexextra: (sotrARnava)
+Language: Sanskrit
+Latest update: June 8, 2018
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Kumara Mangala Stotram
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: Kumara Mangala Stotram
+itxtitle: kumAramaNgalastotram
+title: कुमारमण्गलस्तोत्रम्
 
-+++
+---
   
  श्रीकुमारमङ्गलस्तोत्रम्   
 ॐ श्रीगणेशाय नमः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumatstotraM vyAsatIrthavirachitam"
-"File name" = "hanumatstotraMvyAsatIrtha.itx"
-itxtitle = "hanumatstotram (vyAsatIrthavirachitam)"
-engtitle = "Hanumatstotram"
-Category = "hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "September 18, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्स्तोत्रम् (व्यासतीर्थविरचितम्)"
+---
+Category: hanumaana, stotra, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumatstotraMvyAsatIrtha.itx
+Language: Sanskrit
+Latest update: September 18, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatstotraM vyAsatIrthavirachitam
+Texttype: stotra
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: Hanumatstotram
+itxtitle: hanumatstotram (vyAsatIrthavirachitam)
+title: हनुमत्स्तोत्रम् (व्यासतीर्थविरचितम्)
 
-+++
+---
   
  श्रीहनुमत्स्तोत्रम् व्यासतीर्थविरचितम्   
   
@@ -37,7 +37,7 @@ title = "हनुमत्स्तोत्रम् (व्यासतीर
 व्यासतीर्थयतीन्द्रेण पूजितं प्रणिधानतः ॥ ५॥  
   
 त्रिवारं यः पठेन्नित्यं स्तोत्रं भक्त्या द्विजोत्तमः ।  
-वांछितं लभतेऽभीष्टं षण्मासाभ्यन्तरे खलु ॥ ६॥  
+वाञ्छितं लभतेऽभीष्टं षण्मासाभ्यन्तरे खलु ॥ ६॥  
   
 पुत्रार्थी लभते पुत्रं यशोऽर्थी लभते यशः ।  
 विद्यार्थी लभते विद्यां धनार्थी लभते धनम् ॥ ७॥  

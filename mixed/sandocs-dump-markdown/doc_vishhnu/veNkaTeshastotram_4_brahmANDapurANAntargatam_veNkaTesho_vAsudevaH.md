@@ -1,26 +1,26 @@
-+++
-"Text title" = "veNkaTeshastotram 4"
-"File name" = "venkateshastotram.itx"
-itxtitle = "veNkaTeshastotram 4 (brahmANDapurANAntargatam veNkaTesho vAsudevaH)"
-engtitle = "Shri Venkateshastotram 4"
-Category = "vishhnu, venkateshwara, stotra, vyAsa, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Author = "Vyasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dhananjay Naniwadekar nani345 at gmail.com"
-"Proofread by" = "Dhananjay Naniwadekar nani345 at gmail.com"
-Description-comments = "brahmANDapurANe brahmanAradasaMvAde"
-Indexextra = "(venkaTesho vaasudevaH)"
-"Latest update" = "Dec. 14, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशस्तोत्रम् ४ (ब्रह्माण्डपुराणान्तर्गतम् वेण्कटेशो वासुदेवः)"
+---
+Author: Vyasa
+Category: vishhnu, venkateshwara, stotra, vyAsa, vishnu
+Description-comments: brahmANDapurANe brahmanAradasaMvAde
+File name: venkateshastotram.itx
+Indexextra: (venkaTesho vaasudevaH)
+Language: Sanskrit
+Latest update: Dec. 14, 2014
+Location: doc_vishhnu
+Proofread by: Dhananjay Naniwadekar nani345 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veNkaTeshastotram 4
+Texttype: stotra
+Transliterated by: Dhananjay Naniwadekar nani345 at gmail.com
+engtitle: Shri Venkateshastotram 4
+itxtitle: veNkaTeshastotram 4 (brahmANDapurANAntargatam veNkaTesho vAsudevaH)
+title: वेण्कटेशस्तोत्रम् ४ (ब्रह्माण्डपुराणान्तर्गतम् वेण्कटेशो वासुदेवः)
 
-+++
+---
   
  श्रीवेङ्कटेशस्तोत्रम्   
 वेङ्कटेशो वासुदेवः प्रद्युम्नोऽमितविक्रमः ।  

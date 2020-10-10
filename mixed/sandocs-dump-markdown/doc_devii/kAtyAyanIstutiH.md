@@ -1,22 +1,22 @@
-+++
-"Text title" = "kAtyAyanIstutiH"
-"File name" = "kAtyAyanIstutiH.itx"
-itxtitle = "kAtyAyanIstutiH"
-engtitle = "kAtyAyanIstutiH"
-Category = "devii, rAmAnujasampradAya, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कात्यायनीस्तुतिः"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: devii, rAmAnujasampradAya, durgA, devI
+File name: kAtyAyanIstutiH.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAtyAyanIstutiH
+engtitle: kAtyAyanIstutiH
+itxtitle: kAtyAyanIstutiH
+title: कात्यायनीस्तुतिः
 
-+++
+---
   
  कात्यायनीस्तुतिः   
   

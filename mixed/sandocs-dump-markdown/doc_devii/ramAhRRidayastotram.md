@@ -1,22 +1,22 @@
-+++
-"Text title" = "ramAhRRidayastotram"
-"File name" = "ramAhRRidayastotram.itx"
-itxtitle = "ramAhRRidayastotram"
-engtitle = "ramAhRRidayastotram"
-Category = "hRidaya, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras"
-"Latest update" = "May 5, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रमाहृदयस्तोत्रम्"
+---
+Category: hRidaya, devii, lakShmI, devI
+Description/comments: shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras
+File name: ramAhRRidayastotram.itx
+Language: Sanskrit
+Latest update: May 5, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ramAhRRidayastotram
+engtitle: ramAhRRidayastotram
+itxtitle: ramAhRRidayastotram
+title: रमाहृदयस्तोत्रम्
 
-+++
+---
   
  रमाहृदय स्तोत्रम्   
 रमाहृदय स्तोत्रम्  

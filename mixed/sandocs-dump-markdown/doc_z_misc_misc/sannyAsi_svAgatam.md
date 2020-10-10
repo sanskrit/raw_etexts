@@ -1,21 +1,21 @@
-+++
-"Text title" = "versees to welcome a sannyaasii or a svaamii"
-"File name" = "welcomesannyasi.itx"
-itxtitle = "sannyAsi svAgatam"
-engtitle = "Verses to welcome a sannyAsi or svAmI"
-Category = "misc"
-Location = "doc_z_misc_misc"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at sify.com"
-"Proofread by" = "N.Balasubramanian bbalu at sify.com"
-"Latest update" = "May 5, 2008, Jan 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्न्यासि स्वागतम्"
+---
+Category: misc
+File name: welcomesannyasi.itx
+Language: Sanskrit
+Latest update: May 5, 2008, Jan 2007
+Location: doc_z_misc_misc
+Proofread by: N.Balasubramanian bbalu at sify.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: versees to welcome a sannyaasii or a svaamii
+Transliterated by: N.Balasubramanian bbalu at sify.com
+engtitle: Verses to welcome a sannyAsi or svAmI
+itxtitle: sannyAsi svAgatam
+title: सन्न्यासि स्वागतम्
 
-+++
+---
   
  सन्न्यासि स्वागतम्   
   

@@ -1,27 +1,28 @@
-+++
-"Text title" = "lalitAlakArAdiaShTottarashatanAmAvalI"
-"File name" = "lalitAlakArAdiaShTottarashatanAmAvalI.itx"
-itxtitle = "lalitAlakArAdiaShTottarashatanAmAvalI"
-engtitle = "lalitAlakArAdiaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI, lalitA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anand senartcon at gmail.com"
-"Proofread by" = "Anand senartcon at gmail.com"
-Description-comments = "Editor Ramadatta Shukla, Ritashila Sharma.  See corresponding stotram"
-Source = "dashamahAvidyA aShTottarashatanAmAvalI"
-Indexextra = "(Hindi)"
-Acknowledge-Permission = "Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga"
-"Latest update" = "September 13, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितालकारादिअष्टोत्तरशतनामावली"
+---
+Acknowledge-Permission: Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI, lalitA
+Description-comments: Editor Ramadatta Shukla, Ritashila Sharma.  See corresponding
+  stotram
+File name: lalitAlakArAdiaShTottarashatanAmAvalI.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: September 13, 2015
+Location: doc_devii
+Proofread by: Anand senartcon at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: dashamahAvidyA aShTottarashatanAmAvalI
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitAlakArAdiaShTottarashatanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Anand senartcon at gmail.com
+engtitle: lalitAlakArAdiaShTottarashatanAmAvalI
+itxtitle: lalitAlakArAdiaShTottarashatanAmAvalI
+title: ललितालकारादिअष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीललितालकारादिअष्टोत्तरशतनामावली   
 श्रीललितात्रिपुरसुन्दर्यै नमः ।  

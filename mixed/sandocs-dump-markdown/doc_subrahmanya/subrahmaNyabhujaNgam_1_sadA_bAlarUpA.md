@@ -1,24 +1,25 @@
-+++
-"Text title" = "subrahmaNya bhujaNgam"
-"File name" = "subrabhujanga.itx"
-itxtitle = "subrahmaNyabhujaNgam 1 (sadA bAlarUpA)"
-engtitle = "Subrahmanya Bhujangam"
-Category = "subrahmanya, bhujanga, shankarAchArya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Subcategory = "bhujanga"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravishankar Mayavaram msr at comco.com"
-"Proofread by" = "Ravishankar Mayavaram, P. P. Narayanaswami swami at math.mun.ca, Karthik Raman"
-Description-comments = "https://archive.org/stream/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1"
-"Latest update" = "March 15, 2001, Augut 5, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यभुजण्गम् १ (सदा बालरूपा)"
+---
+Author: Shankaracharya
+Category: subrahmanya, bhujanga, shankarAchArya
+Description-comments: https://archive.org/stream/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1
+File name: subrabhujanga.itx
+Language: Sanskrit
+Latest update: March 15, 2001, Augut 5, 2015
+Location: doc_subrahmanya
+Proofread by: Ravishankar Mayavaram, P. P. Narayanaswami swami at math.mun.ca, Karthik
+  Raman
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhujanga
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNya bhujaNgam
+Transliterated by: Ravishankar Mayavaram msr at comco.com
+engtitle: Subrahmanya Bhujangam
+itxtitle: subrahmaNyabhujaNgam 1 (sadA bAlarUpA)
+title: सुब्रह्मण्यभुजण्गम् १ (सदा बालरूपा)
 
-+++
+---
   
  श्रीसुब्रह्मण्य भुजङ्गम् १   
   
@@ -285,7 +286,7 @@ passions.
       Prayer for Darshan During the Last Moments of Life  
   
   
-प्रशान्तेन्द्रिये नष्टसंज्ञे विचेष्टे  
+प्रशान्तेन्द्रिये नष्टसञ्ज्ञे विचेष्टे  
       कफोद्गारिवक्त्रे भयोत्कम्पिगात्रे ।  
 प्रयाणोन्मुखे मय्यनाथे तदानीं  
       द्रुतं मे दयालो भवाग्रे गुह त्वम् ॥ २०॥   

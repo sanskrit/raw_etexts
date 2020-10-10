@@ -1,24 +1,24 @@
-+++
-"Text title" = "shriividyaaratnasuutraaNi"
-"File name" = "shrividya.itx"
-itxtitle = "shrIvidyAratnasUtrANi"
-engtitle = "shri vidya ratna sutras"
-Category = "sUtra, devii, dashamahAvidyA, gauDapaada, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Gaudapaadaachaarya (?)"
-Language = "Sanskrit"
-Subject = "taantram"
-"Transliterated by" = "Michael Magee"
-"Proofread by" = "Mike Magee"
-Description-comments = "shriividyaaratnasuutraaNi"
-"Latest update" = "December 26, 1997"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीविद्यारत्नसूत्राणि"
+---
+Author: Gaudapaadaachaarya (?)
+Category: sUtra, devii, dashamahAvidyA, gauDapaada, devI
+Description-comments: shriividyaaratnasuutraaNi
+File name: shrividya.itx
+Language: Sanskrit
+Latest update: December 26, 1997
+Location: doc_devii
+Proofread by: Mike Magee
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: taantram
+Sublocation: devii
+Text title: shriividyaaratnasuutraaNi
+Transliterated by: Michael Magee
+engtitle: shri vidya ratna sutras
+itxtitle: shrIvidyAratnasUtrANi
+title: श्रीविद्यारत्नसूत्राणि
 
-+++
+---
   
  श्रीविद्यारत्नसूत्राणि   
   
@@ -233,7 +233,7 @@ title = "श्रीविद्यारत्नसूत्राणि"
   
 अनुत्तरसङ्केतप्रधानविद्या सप्तदशवर्णविशिष्टा ॥ १००॥  
   
-अथैतासां परिवाराणामनुपरिवारा असंङ्ख्याकाः ॥ १०१॥  
+अथैतासां परिवाराणामनुपरिवारा असङ्ङ्ख्याकाः ॥ १०१॥  
   
 एतानि सूत्राण्यस्माभिर्गौडपादैरुक्तानि ॥  
   

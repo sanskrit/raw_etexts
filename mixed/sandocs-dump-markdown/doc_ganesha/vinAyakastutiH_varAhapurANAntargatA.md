@@ -1,22 +1,22 @@
-+++
-"Text title" = "Vinayakastuti from Varahapurana"
-"File name" = "vinAyakastutiHvarAhapurANam.itx"
-itxtitle = "vinAyakastutiH (varAhapurANAntargatA)"
-engtitle = "Vinayakastuti from Varahapurana"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Varahapurana, vinAyakotpatti, adhyAya 23"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विनायकस्तुतिः (वराहपुराणान्तर्गता)"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: ganesha
+Description/comments: Varahapurana, vinAyakotpatti, adhyAya 23
+File name: vinAyakastutiHvarAhapurANam.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_ganesha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Vinayakastuti from Varahapurana
+engtitle: Vinayakastuti from Varahapurana
+itxtitle: vinAyakastutiH (varAhapurANAntargatA)
+title: विनायकस्तुतिः (वराहपुराणान्तर्गता)
 
-+++
+---
   
  श्रीविनायकस्तुतिः   
 देवा ऊचुः -  

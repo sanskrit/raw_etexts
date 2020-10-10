@@ -1,22 +1,22 @@
-+++
-"Text title" = "sUryaprAtaHsmaraNastotram"
-"File name" = "sUryaprAtaHsmaraNastotram.itx"
-itxtitle = "sUryaprAtaHsmaraNastotram"
-engtitle = "Surya Pratahsmarana"
-Category = "suprabhAta, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail"
-Indexextra = "(Hindi)"
-"Latest update" = "April 2, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यप्रातःस्मरणस्तोत्रम्"
+---
+Category: suprabhAta, navagraha
+File name: sUryaprAtaHsmaraNastotram.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: April 2, 2016
+Location: doc_z_misc_navagraha
+Proofread by: Sunder Hattangadi sunderh at hotmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryaprAtaHsmaraNastotram
+Transliterated by: Sunder Hattangadi sunderh at hotmail
+engtitle: Surya Pratahsmarana
+itxtitle: sUryaprAtaHsmaraNastotram
+title: सूर्यप्रातःस्मरणस्तोत्रम्
 
-+++
+---
   
  सूर्यप्रातःस्मरणम्   
   

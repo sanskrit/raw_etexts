@@ -1,28 +1,28 @@
-+++
-"Text title" = "gokuleshashayanAShTakam"
-"File name" = "gokuleshashayanAShTakam.itx"
-itxtitle = "gokuleshashayanAShTakam (kRiShNarAyavirachitam)"
-engtitle = "gokuleshashayanAShTakam"
-Category = "vishhnu, krishna, puShTimArgIya, aShTaka, kRiShNarAya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "kRRiShNarAya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोकुलेशशयनाष्टकम् (कृइष्णरायविरचितम्)"
+---
+Author: kRRiShNarAya
+Category: vishhnu, krishna, puShTimArgIya, aShTaka, kRiShNarAya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: gokuleshashayanAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gokuleshashayanAShTakam
+engtitle: gokuleshashayanAShTakam
+itxtitle: gokuleshashayanAShTakam (kRiShNarAyavirachitam)
+title: गोकुलेशशयनाष्टकम् (कृइष्णरायविरचितम्)
 
-+++
+---
   
  श्रीगोकुलेशशयनाष्टकम्   
   
-प्रातः स्मरामि गुरुगोकुलनाथसंज्ञं  
+प्रातः स्मरामि गुरुगोकुलनाथसञ्ज्ञं  
 संसारसागरसमुत्तरणैकसेतुम् ।  
 श्रीकृष्णचन्द्रचरणाम्बुजसर्वकाल-  
 संशुद्धसेवनविधौ कमलावतारम् ॥ १॥  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "gaurIdashakam"
-"File name" = "gauri10.itx"
-itxtitle = "gaurIdashakam athavA gaurI stutiH (shaNkarAchAryavirachitam)"
-engtitle = "Gauridashakam"
-Category = "devii, pArvatI, stotra, devI, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sridhar Seshagiri seshagir at engineering.sdsu.edu"
-"Proofread by" = "Sridhar Seshagiri seshagir at engineering.sdsu.edu"
-Indexextra = "(English Translation)"
-"Latest update" = "August 23, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गौरीदशकम् अथवा गौरी स्तुतिः (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: devii, pArvatI, stotra, devI, shankarAchArya
+File name: gauri10.itx
+Indexextra: (English Translation)
+Language: Sanskrit
+Latest update: August 23, 2000
+Location: doc_devii
+Proofread by: Sridhar Seshagiri seshagir at engineering.sdsu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gaurIdashakam
+Texttype: stotra
+Transliterated by: Sridhar Seshagiri seshagir at engineering.sdsu.edu
+engtitle: Gauridashakam
+itxtitle: gaurIdashakam athavA gaurI stutiH (shaNkarAchAryavirachitam)
+title: गौरीदशकम् अथवा गौरी स्तुतिः (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  गौरीदशकम्  अथवा गौरी स्तुतिः   
        ॥ श्रीः ॥  
@@ -35,7 +35,7 @@ title = "गौरीदशकम् अथवा गौरी स्तुत�
 गौरीमम्बामम्बुरुहाक्षीमहमीडे ॥ २॥  
   
 चन्द्रापीडानन्दितमन्दस्मितवक्त्रां  
-चन्द्रापीडालंकृतनीलालकभाराम् ।  
+चन्द्रापीडालङ्कृतनीलालकभाराम् ।  
 इन्द्रोपेन्द्राद्यर्चितपादाम्बुजयुग्मां  
 गौरीमम्बामम्बुरुहाक्षीमहमीडे ॥ ३॥  
   
@@ -81,7 +81,7 @@ title = "गौरीदशकम् अथवा गौरी स्तुत�
   
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-श्रीमच्छंकरभगवतः कृतौ  
+श्रीमच्छङ्करभगवतः कृतौ  
 गौरीदशकम् सम्पूर्णम्  ॥  
   
   

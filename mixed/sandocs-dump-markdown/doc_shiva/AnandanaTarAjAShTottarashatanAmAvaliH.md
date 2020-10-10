@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shrimad Ananda Nataraja AshTottarashatanamavali 108 Names"
-"File name" = "AnandanaTarAjAShTottarashatanAmAvaliH.itx"
-itxtitle = "AnandanaTarAjAShTottarashatanAmAvaliH"
-engtitle = "AnandanaTarAjAShTottarashatanAmAvaliH"
-Category = "shiva, aShTottarashatanAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Latest update" = "May 9, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "आनन्दनटराजाष्टोत्तरशतनामावलिः"
+---
+Category: shiva, aShTottarashatanAmAvalI
+File name: AnandanaTarAjAShTottarashatanAmAvaliH.itx
+Language: Sanskrit
+Latest update: May 9, 2020
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shrimad Ananda Nataraja AshTottarashatanamavali 108 Names
+Transliterated by: NA
+engtitle: AnandanaTarAjAShTottarashatanAmAvaliH
+itxtitle: AnandanaTarAjAShTottarashatanAmAvaliH
+title: आनन्दनटराजाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीमदानन्दनटराजाष्टोत्तरशतनामावलिः   
 ॐ चिदम्बरेश्वराय नमः । शम्भवे नमः । नटेशाय नमः ।  

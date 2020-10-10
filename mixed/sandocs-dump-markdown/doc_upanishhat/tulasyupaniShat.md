@@ -1,24 +1,24 @@
-+++
-"Text title" = "tulasyupaniShat"
-"File name" = "tulasyupaniShat.itx"
-itxtitle = "tulasyupaniShat"
-engtitle = "tulasyupaniShat"
-Category = "upanishhat, tulasI, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-SubDeity = "tulasI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar, Kasturi navya sahiti"
-Indexextra = "(TulasiPuja scanned)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "June 12, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तुलस्युपनिषत्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: upanishhat, tulasI, upanishad
+File name: tulasyupaniShat.itx
+Indexextra: (TulasiPuja scanned)
+Language: Sanskrit
+Latest update: June 12, 2017
+Location: doc_upanishhat
+Proofread by: Shree Devi Kumar, Kasturi navya sahiti
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: tulasyupaniShat
+Transliterated by: Shree Devi Kumar
+engtitle: tulasyupaniShat
+itxtitle: tulasyupaniShat
+title: तुलस्युपनिषत्
 
-+++
+---
   
  तुलस्युपनिषत्   
 अध तुलस्युपनिषदं व्याख्यास्यामः । नारद ऋषिः ।  

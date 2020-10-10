@@ -1,26 +1,26 @@
-+++
-"Text title" = "Vishnustuti by Sage Kandu from Brahmapurana"
-"File name" = "viShNustutikaNDuproktabrahmapurANa.itx"
-itxtitle = "viShNustutiH (kaNDumuniproktam brahmapurANAntargatA)"
-engtitle = "Vishnustuti by Sage Kandu from Brahmapurana"
-Category = "vishhnu, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "sa.wikisource.org"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "http://www.astrojyoti.com/brahmapurana-11.htm"
-Description-comments = "Brahmapurana Adhyaya 178, verses 129-177"
-Indexextra = "(brahmapurANa)"
-"Latest update" = "July 2, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तुतिः (कण्डुमुनिप्रोक्तम् ब्रह्मपुराणान्तर्गता)"
+---
+Category: vishhnu, stotra, vishnu
+Description-comments: Brahmapurana Adhyaya 178, verses 129-177
+File name: viShNustutikaNDuproktabrahmapurANa.itx
+Indexextra: (brahmapurANa)
+Language: Sanskrit
+Latest update: July 2, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Vishnustuti by Sage Kandu from Brahmapurana
+Texttype: stotra
+Translated by: http://www.astrojyoti.com/brahmapurana-11.htm
+Transliterated by: sa.wikisource.org
+engtitle: Vishnustuti by Sage Kandu from Brahmapurana
+itxtitle: viShNustutiH (kaNDumuniproktam brahmapurANAntargatA)
+title: विष्णुस्तुतिः (कण्डुमुनिप्रोक्तम् ब्रह्मपुराणान्तर्गता)
 
-+++
+---
   
  श्रीविष्णुस्तुती कण्डुमुनिप्रोक्त ब्रह्मपुराणे   
   
@@ -37,7 +37,7 @@ title = "विष्णुस्तुतिः (कण्डुमुनिप
 अनाद्यन्तामृताजेय जय त्वं जयतां वर ।  
 अजिताखण्ड श्रीकृष्ण श्रीनिवास नमोऽस्तु ते ॥ १७८.१३२॥ var  खण्डल कृष्ण  
             pAThabehda  
-योगात्मन्नंप्रमेयात्मँल्लोकात्मंस्त्वं सनातनः ।  
+योगात्मन्नम्प्रमेयात्मँल्लोकात्मंस्त्वं सनातनः ।  
 कूटस्थाचलदुर्ज्ञेय कुशेशाय नमोऽस्तु ते ॥ ६९.१३२॥  
   
 वरेण्य वरदानन्त ब्रह्मयोने गुणाकर ।  
@@ -67,16 +67,16 @@ title = "विष्णुस्तुतिः (कण्डुमुनिप
 त्वमनन्तः कृतज्ञस्त्वं प्रकृतिस्त्वं वृषाकपिः ।  
 त्वं रुद्रस्त्वं दुराधर्षस्त्वममोघस्त्वमीश्वरः ॥ १७८.१४०॥  
   
-त्वं विश्वकर्मा जिष्णुस्त्वं त्वं शंभुस्त्वं वृषाकृतिः ।  
-त्वं शंकरस्त्वमुशना त्वं सत्यं त्वं तपो जनः ॥ १७८.१४१॥  
+त्वं विश्वकर्मा जिष्णुस्त्वं त्वं शम्भुस्त्वं वृषाकृतिः ।  
+त्वं शङ्करस्त्वमुशना त्वं सत्यं त्वं तपो जनः ॥ १७८.१४१॥  
   
-त्वमादित्यस्त्वमोंकारस्त्वं प्राणस्त्वं तमिस्रहा ।  
+त्वमादित्यस्त्वमोङ्कारस्त्वं प्राणस्त्वं तमिस्रहा ।  
 त्वं पर्जन्यस्त्वं प्रथितस्त्वं त्वं ज्येष्ठस्त्वं परायणः ॥ १७८.१४२॥  
   
-त्वमादित्यस्त्वमोंकारस्त्वं प्राणस्त्वं तमिस्रहा ।  
+त्वमादित्यस्त्वमोङ्कारस्त्वं प्राणस्त्वं तमिस्रहा ।  
 त्वं पर्जन्यस्त्वं प्रथितस्त्वं वेधास्त्वं सुरेश्वरः ॥ १७८.१४३॥  
   
-त्वमृग्यजुः सामचैव त्वमात्मा संमतो भवान् ।  
+त्वमृग्यजुः सामचैव त्वमात्मा सम्मतो भवान् ।  
 त्वमग्निस्त्वं च पवनस्त्वमापो वसुधा भवान् ॥ १७८.१४४॥  
   
 त्वं स्रष्टा त्वं तथा भोक्ता होता त्वं च हविः क्रतुः ।  
@@ -99,7 +99,7 @@ title = "विष्णुस्तुतिः (कण्डुमुनिप
 त्वं वैद्यस्त्वं धृतात्मा च त्वमतीन्द्रियगोचरः ॥ १७८.१४९॥  
   
 त्वमग्रणीर्ग्रामणीस्त्वं त्वं सुपर्णस्त्वमादिमान् ।  
-त्वं संग्रहस्त्वं सुमहत्त्वं धृतात्मा त्वमच्युतः ॥ १७८.१५०॥  
+त्वं सङ्ग्रहस्त्वं सुमहत्त्वं धृतात्मा त्वमच्युतः ॥ १७८.१५०॥  
   
 त्वं यमस्त्वं च नियमस्त्वं प्रांशुस्त्वं चतुर्भुजः ।  
 त्वमेवान्नान्तरात्मा त्वं परमात्मा त्वमुच्यसे ॥ १७८.१५१॥  
@@ -110,7 +110,7 @@ title = "विष्णुस्तुतिः (कण्डुमुनिप
 हिरण्यनाभस्त्वं देवस्त्वं शशी त्वं प्रजापतिः ।  
 अनिर्देश्यवपुस्त्वं वै त्वं यमस्त्वं सुरारिहा ॥ १७८.१५३॥  
   
-त्वं च संकर्षणो देवस्त्वं शशी त्वं प्रजापतिः ।  
+त्वं च सङ्कर्षणो देवस्त्वं शशी त्वं प्रजापतिः ।  
 त्वं वासुदेवोऽमेयात्मा त्वमेव गुणवर्जितः ॥ १७८.१५४॥  
   
 त्वं ज्येष्ठस्त्वं वरिष्ठस्त्वं त्वं सहिष्णुश्च माधवः ।  
@@ -129,7 +129,7 @@ title = "विष्णुस्तुतिः (कण्डुमुनिप
 नवभागोऽन्तरिक्षस्थः पौरुषेयः सनातनः ॥ १७८.१५९॥  
   
 भागद्वयं य भूसंस्थं चतुर्भागोऽप्यभूदिह ।  
-त्वत्तो यज्ञाः संभवन्ति जगतो वृष्टिकारणम् ॥ १७८.१६०॥  
+त्वत्तो यज्ञाः सम्भवन्ति जगतो वृष्टिकारणम् ॥ १७८.१६०॥  
   
 त्वत्तो विराट्समुत्पन्नो जगतो हृदि यः पुमान् ।  
 सोऽतिरिच्यत भूतेभ्यस्तेजसा यशसा श्रिया ॥ १७८.१६१॥  

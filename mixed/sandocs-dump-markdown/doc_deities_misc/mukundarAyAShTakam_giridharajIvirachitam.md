@@ -1,24 +1,24 @@
-+++
-"Text title" = "mukundarAyAShTakam"
-"File name" = "mukundarAyAShTakam.itx"
-itxtitle = "mukundarAyAShTakam (giridharajIvirachitam)"
-engtitle = "mukundarAyAShTakam"
-Category = "deities_misc, gurudev, puShTimArgIya, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "giridharajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मुकुन्दरायाष्टकम् (गिरिधरजीविरचितम्)"
+---
+Author: giridharajI
+Category: deities_misc, gurudev, puShTimArgIya, aShTaka
+Description/comments: puShTimArgIya stotraratnAkara
+File name: mukundarAyAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: mukundarAyAShTakam
+engtitle: mukundarAyAShTakam
+itxtitle: mukundarAyAShTakam (giridharajIvirachitam)
+title: मुकुन्दरायाष्टकम् (गिरिधरजीविरचितम्)
 
-+++
+---
   
  श्रीमुकुन्दरायाष्टकम्   
   

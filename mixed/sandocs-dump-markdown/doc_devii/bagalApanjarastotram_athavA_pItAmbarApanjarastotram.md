@@ -1,22 +1,22 @@
-+++
-"Text title" = "bagalApanjarastotram"
-"File name" = "bagalApanjarastotram.itx"
-itxtitle = "bagalApanjarastotram athavA pItAmbarApanjarastotram"
-engtitle = "bagalApanjarastotram"
-Category = "devii, dashamahAvidyA, panjara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD, PSA Easwaran"
-"Latest update" = "July 30, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बगलापञ्जरस्तोत्रम् अथवा पीताम्बरापञ्जरस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, panjara, devI
+File name: bagalApanjarastotram.itx
+Language: Sanskrit
+Latest update: July 30, 2017
+Location: doc_devii
+Proofread by: DPD, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bagalApanjarastotram
+Transliterated by: DPD
+engtitle: bagalApanjarastotram
+itxtitle: bagalApanjarastotram athavA pItAmbarApanjarastotram
+title: बगलापञ्जरस्तोत्रम् अथवा पीताम्बरापञ्जरस्तोत्रम्
 
-+++
+---
   
  श्रीबगलापञ्जरस्तोत्रम् अथवा श्रीपीताम्बरापञ्जरस्तोत्रम्   
   
@@ -107,7 +107,7 @@ title = "बगलापञ्जरस्तोत्रम् अथवा प
 पातु मामनिशं साक्षात् सहस्रार्कसमद्युतिः ॥ २॥  
   
 ॐ ऐं ह्लीं श्रीं शिखादिपादपर्यन्तं वज्रपञ्जरधारिणी ।  
-ब्रह्मास्त्रसंज्ञा या देवी पीताम्बराविभूषिता ॥ ३॥  
+ब्रह्मास्त्रसञ्ज्ञा या देवी पीताम्बराविभूषिता ॥ ३॥  
   
 ॐ ऐं ह्लीं श्रीं श्रीबगला ह्यवत्वत्र चोर्ध्वभागं महेश्वरी ।  
 कामाङ्कुशा कला पातु बगला शास्त्रबोधिनी ॥ ४॥  

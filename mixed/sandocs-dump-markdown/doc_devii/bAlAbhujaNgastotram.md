@@ -1,27 +1,27 @@
-+++
-"Text title" = "Shri Bala Bhujanga Stotram"
-"File name" = "bAlAbhujangastotram.itx"
-itxtitle = "bAlAbhujaNgastotram"
-engtitle = "bAlAbhujangastotram"
-Category = "devii, dashamahAvidyA, devI, bhujanga"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाभुजण्गस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, devI, bhujanga
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAbhujangastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Bhujanga Stotram
+engtitle: bAlAbhujangastotram
+itxtitle: bAlAbhujaNgastotram
+title: बालाभुजण्गस्तोत्रम्
 
-+++
+---
   
  श्रीबालाभुजङ्गस्तोत्रम्   
 श्रीनीललोहित उवाच-  
-जगद्योनिरूपां सुवेशीं च रक्तां गुणातीतसंज्ञां महागुह्यगुह्याम् ।  
+जगद्योनिरूपां सुवेशीं च रक्तां गुणातीतसञ्ज्ञां महागुह्यगुह्याम् ।  
 महासर्पभूषां भवेशादिपूज्यां महात्युग्रबालां भजेऽहं हि नित्याम् ॥ १॥  
   
 महास्वर्णवर्णां शिवपृष्ठसंस्थां महामुण्डमालां गले शोभमानाम् ।  

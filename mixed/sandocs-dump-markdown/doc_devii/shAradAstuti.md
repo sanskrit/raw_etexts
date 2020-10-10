@@ -1,24 +1,24 @@
-+++
-"Text title" = "shAradAstuti"
-"File name" = "shAradAstuti.itx"
-itxtitle = "shAradAstuti"
-engtitle = "shAradAstuti"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Kukke. Subrahmanyashastri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "From Maharaja Sanskrit Mahapathashala patrika p. 39-44"
-"Latest update" = "May 26, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदास्तुति"
+---
+Author: Kukke. Subrahmanyashastri
+Category: devii, sarasvatI, devI
+Description/comments: From Maharaja Sanskrit Mahapathashala patrika p. 39-44
+File name: shAradAstuti.itx
+Language: Sanskrit
+Latest update: May 26, 2017
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAstuti
+Transliterated by: DPD
+engtitle: shAradAstuti
+itxtitle: shAradAstuti
+title: शारदास्तुति
 
-+++
+---
   
  शारदास्तुतिः   
   
@@ -27,7 +27,7 @@ title = "शारदास्तुति"
 कलावती काङ्क्षितकल्पवल्ली करोतु कल्याणपरम्परां नः ॥ १॥  
   
 चक्रीकृतोल्लोचशिरःफणीन्द्रफणामणीभासुरतूलिकाढ्ये ।  
-श्रीमंटपान्तर्मृगराजपीठे विद्योतते नः कुलभागधेयम् ॥ २॥  
+श्रीमण्टपान्तर्मृगराजपीठे विद्योतते नः कुलभागधेयम् ॥ २॥  
   
 ज्ञेयं मुनीन्द्रैश्चिरयोगसिद्धैस्सविन्मयं तत्परदेवतायाः ।  
 लीलागृहितं यदुपासकानां ध्ययोपलब्ध्यै विवृणोमि रूपं ॥ ३॥  
@@ -173,7 +173,7 @@ title = "शारदास्तुति"
 अनुग्रहं वा मयि निग्रहं वा यत्कर्तुकामासि कुरुष्व तूर्णं ।  
 द्वयेपि तस्मिन्विहिते त्वयैकः सूतेत्रिवर्गन्त्वपरोपवर्गः ॥ ५०॥  
   
-त्वय्यर्पिते कर्मणि तत्फले च मांमाविकुर्यादिति निव्वृतेपि ।  
+त्वय्यर्पिते कर्मणि तत्फले च माम्माविकुर्यादिति निव्वृतेपि ।  
 सा वासना मां नजहाति किं तत् त्वया गृहीतन्नु समुज्झितं नु ॥ ५१॥  
   
 उपासनाभिर्दहरात्मविद्याविशेषावज्ञीननिवर्तिताभिः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhuusuuktam"
-"File name" = "bhuusuuktam.itx"
-itxtitle = "bhUsUktam"
-engtitle = "bhUsUktam"
-Category = "sUkta, veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vijayaraghavan Bashyam"
-"Proofread by" = "Vijayaraghavan Bashyam"
-"Latest update" = "May 20, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भूसूक्तम्"
+---
+Author: Traditional
+Category: sUkta, veda, svara
+File name: bhuusuuktam.itx
+Language: Sanskrit
+Latest update: May 20, 2001
+Location: doc_veda
+Proofread by: Vijayaraghavan Bashyam
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: bhuusuuktam
+Texttype: svara
+Transliterated by: Vijayaraghavan Bashyam
+engtitle: bhUsUktam
+itxtitle: bhUsUktam
+title: भूसूक्तम्
 
-+++
+---
   
  भूसूक्तम्   
   
@@ -49,9 +49,9 @@ title = "भूसूक्तम्"
 म॒हीधर॑णी म॒होव्यथि॑ष्टा ( म॒होध्यति॑ष्ठा ) श्शृ॒ङ्गे शृ॑ङ्गे य॒ज्ञे य॑ज्ञे विभी॒षणी᳚ ॥  
   
 इन्द्र॑पत्नी व्या॒पिनी॑ सु॒रस॑रिदि॒ह (Accent unknown सरसिज इह ) ।  
-वा॒यु॒मती॑ जल॒शय॑नी श्रि॒य,न्धा॒ (Accent unknown स्वयंधा ) राजा॑ स॒त्यन्तो॒ ( धो॒ ) परि॑मेदिनी ॥  
+वा॒यु॒मती॑ जल॒शय॑नी श्रि॒य,न्धा॒ (Accent unknown स्वयन्धा ) राजा॑ स॒त्यन्तो॒ ( धो॒ ) परि॑मेदिनी ॥  
   
-श्वो॒परि॑धत्त॒ परि॑गाय।(Accent Unknown सो परिधत्तंगाय )  
+श्वो॒परि॑धत्त॒ परि॑गाय।(Accent Unknown सो परिधत्तङ्गाय )  
 वि॒ष्णु॒प॒त्नीं म॑हीं दे॒वीं॒ मा॒ध॒वीं मा॑धव॒प्रियां ।  
 लक्ष्मी᳚ प्रि॒यस॑खीं दे॒वीं॒ न॒मा॒म्यच्॑युत व॒ल्लभां ॥  
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "ghaTikAchalahanumatstotram 1"
-"File name" = "ghaTikAchalahanumatstotram1.itx"
-itxtitle = "ghaTikAchalahanumatstotram 1 (brahmANDapurANAntargatam)"
-engtitle = "ghaTikAchalahanumatstotram 1"
-Category = "hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "brahmANDapurANataH From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "September 19, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "घटिकाचलहनुमत्स्तोत्रम् १ (ब्रह्माण्डपुराणान्तर्गतम्)"
+---
+Category: hanumaana, stotra, hanuman
+Description-comments: brahmANDapurANataH From Hanumatstutimanjari, Mahaperiaval Publication
+File name: ghaTikAchalahanumatstotram1.itx
+Language: Sanskrit
+Latest update: September 19, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: ghaTikAchalahanumatstotram 1
+Texttype: stotra
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: ghaTikAchalahanumatstotram 1
+itxtitle: ghaTikAchalahanumatstotram 1 (brahmANDapurANAntargatam)
+title: घटिकाचलहनुमत्स्तोत्रम् १ (ब्रह्माण्डपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीघटिकाचलहनुमत्स्तोत्रम् १   
   
@@ -80,7 +80,7 @@ title = "घटिकाचलहनुमत्स्तोत्रम् १ 
 कियत्कालं तत्र वासं कर्तव्यं तन्ममावद ॥ १३॥  
   
 ब्रह्मोवाच  
-ब्रह्मतीर्थे ततः स्नत्वा हनुमत्संमुखे स्थितः ।  
+ब्रह्मतीर्थे ततः स्नत्वा हनुमत्सम्मुखे स्थितः ।  
 द्वादशाक्षरमन्त्रं तु नित्यमष्टसहस्रकम् ॥ १४॥  
   
 जपेन्नियमतः शुद्धस्तद्भक्तस्तु परायणः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumadaShTottarashatanAmastotram 3"
-"File name" = "hanumadaShTottarashatanAmastotram3.itx"
-itxtitle = "hanumadaShTottarashatanAmastotram 3"
-engtitle = "hanumadaShTottarashatanAmastotram 3"
-Category = "aShTottarashatanAma, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमदष्टोत्तरशतनामस्तोत्रम् ३"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: aShTottarashatanAma, hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumadaShTottarashatanAmastotram3.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumadaShTottarashatanAmastotram 3
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: hanumadaShTottarashatanAmastotram 3
+itxtitle: hanumadaShTottarashatanAmastotram 3
+title: हनुमदष्टोत्तरशतनामस्तोत्रम् ३
 
-+++
+---
   
  हनुमदष्टोत्तरशतनामस्तोत्रम् ३   
 (ब्रह्मवैवर्ते घटिकाचलमाहात्म्यतः)  

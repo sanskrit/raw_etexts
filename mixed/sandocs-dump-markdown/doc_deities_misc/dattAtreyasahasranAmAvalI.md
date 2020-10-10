@@ -1,25 +1,25 @@
-+++
-"Text title" = "Shri DattAtreya sahasranamavali"
-"File name" = "datta1000.itx"
-itxtitle = "dattAtreyasahasranAmAvalI"
-engtitle = "Dattatreya Sahasranamavali"
-Category = "sahasranAmAvalI, deities_misc, dattatreya, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Texttype = "nAmAvalI"
-Author = "unkown"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "1000 names of Dattatreya"
-"Latest update" = "Jan. 2003"
-"Send corrections to" = "sunderh@hotmail.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयसहस्रनामावली"
+---
+Author: unkown
+Category: sahasranAmAvalI, deities_misc, dattatreya, nAmAvalI
+Description-comments: 1000 names of Dattatreya
+File name: datta1000.itx
+Language: Sanskrit
+Latest update: Jan. 2003
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sunderh@hotmail.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: religion
+Sublocation: deities_misc
+Text title: Shri DattAtreya sahasranamavali
+Texttype: nAmAvalI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Dattatreya Sahasranamavali
+itxtitle: dattAtreyasahasranAmAvalI
+title: दत्तात्रेयसहस्रनामावली
 
-+++
+---
   
  श्रीमद् दत्तात्रेयसहस्रनामावली   
   
@@ -613,7 +613,7 @@ title = "दत्तात्रेयसहस्रनामावली"
 ॐ गुरुवरोत्तमाय नमः ।  
 ॐ कर्मिणे नमः ।  
 ॐ कर्मविनिर्मुक्ताय नमः ।  
-ॐ संन्यासिने नमः ।  
+ॐ सन्न्यासिने नमः ।  
 ॐ साधकेश्वराय नमः । ५९०  
 ॐ सर्वभावविहिनाय नमः ।  
 ॐ तृष्णासङ्गनिवारणाय नमः ।  
@@ -665,7 +665,7 @@ title = "दत्तात्रेयसहस्रनामावली"
 ॐ दोषत्रयविभेदिने नमः ।  
 ॐ संशयार्णवखण्डनाय नमः ।  
 ॐ असंशयाय नमः । ६४०  
-ॐ असंमूढाय नमः ।  
+ॐ असम्मूढाय नमः ।  
 ॐ अवादिने नमः ।  
 ॐ राजवन्दिताय नमः ।  
 ॐ राजयोगिने नमः ।  
@@ -954,7 +954,7 @@ title = "दत्तात्रेयसहस्रनामावली"
 ॐ भोगमोक्षफलप्रदाय नमः ।  
 ॐ सुप्रसन्नाय नमः ।  
 ॐ सूक्ष्माय नमः ।  
-ॐ शब्दब्रह्मार्थसंगृहाय नमः ।  
+ॐ शब्दब्रह्मार्थसङ्गृहाय नमः ।  
 ॐ आगमापाय शून्याय नमः । ९३०  
 ॐ स्थानदाय नमः ।  
 ॐ सताङ्गतये नमः ।  

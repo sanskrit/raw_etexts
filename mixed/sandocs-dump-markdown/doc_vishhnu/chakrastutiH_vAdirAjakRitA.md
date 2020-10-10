@@ -1,22 +1,22 @@
-+++
-"Text title" = "chakrastutiH"
-"File name" = "chakrastutiH.itx"
-itxtitle = "chakrastutiH (vAdirAjakRitA)"
-engtitle = "chakrastutiH"
-Category = "vishhnu, vAdirAja, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Vadiraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-"Latest update" = "June 13, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चक्रस्तुतिः (वादिराजकृइता)"
+---
+Author: Vadiraja
+Category: vishhnu, vAdirAja, vishnu
+File name: chakrastutiH.itx
+Language: Sanskrit
+Latest update: June 13, 2020
+Location: doc_vishhnu
+Proofread by: Krishnananda Achar
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: chakrastutiH
+Transliterated by: Krishnananda Achar
+engtitle: chakrastutiH
+itxtitle: chakrastutiH (vAdirAjakRitA)
+title: चक्रस्तुतिः (वादिराजकृइता)
 
-+++
+---
   
  श्रीवादिराजतीर्थगुरुवर्यविरचिता चक्रस्तुतिः   
 दोषौघवारणं यस्य धारणं मोक्षकारणम् ।  
@@ -44,7 +44,7 @@ title = "चक्रस्तुतिः (वादिराजकृइता
 नृसिंहपरिचर्यायां रामार्चाचन्द्रिकादिषु  ॥ ८॥  
   
 श्रुतिस्मृतिपुराणोक्त्या तैरपीदं प्रसाधितम् ।  
-न नः पूर्वैः पराक्रान्तं सर्वसंप्रतिपत्तितः  ॥ ९॥  
+न नः पूर्वैः पराक्रान्तं सर्वसम्प्रतिपत्तितः  ॥ ९॥  
   
 इदातीनीमाग्रहादेव विवदन्ते क्वचित् क्वचित् ।  
 दुराग्रहग्रहं तेषां केषाञ्चिन्मनसि स्थितम् ॥ १०॥  

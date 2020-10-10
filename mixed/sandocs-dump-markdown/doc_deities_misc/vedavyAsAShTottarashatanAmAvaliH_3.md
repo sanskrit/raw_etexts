@@ -1,25 +1,25 @@
-+++
-"Text title" = "vedavyAsAShTottarashatanAmAvalI 3"
-"File name" = "vyAsa108_3.itx"
-itxtitle = "vedavyAsAShTottarashatanAmAvaliH 3"
-engtitle = "Veda Vyasa Ashtottara-shata Namavali (3)"
-Category = "aShTottarashatanAmAvalI, deities_misc, nAmAvalI, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "nAmAvalI"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "[source- Chitrapur Stutimanjari 3rd edn. 2008]"
-"Latest update" = "July 31, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदव्यासाष्टोत्तरशतनामावलिः ३"
+---
+Author: Vedic Tradition
+Category: aShTottarashatanAmAvalI, deities_misc, nAmAvalI, gurudev
+Description-comments: '[source- Chitrapur Stutimanjari 3rd edn. 2008]'
+File name: vyAsa108_3.itx
+Language: Sanskrit
+Latest update: July 31, 2012
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vedavyAsAShTottarashatanAmAvalI 3
+Texttype: nAmAvalI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Veda Vyasa Ashtottara-shata Namavali (3)
+itxtitle: vedavyAsAShTottarashatanAmAvaliH 3
+title: वेदव्यासाष्टोत्तरशतनामावलिः ३
 
-+++
+---
   
  श्रीवेदव्यासाष्टोत्तरशतनामावली   
   
@@ -69,7 +69,7 @@ title = "वेदव्यासाष्टोत्तरशतनामा�
   
 ॐ श्रुतिपतये नमः ।  
 ॐ विद्याराजाय नमः ।  
-ॐ गिरांप्रभवे नमः ।  
+ॐ गिराम्प्रभवे नमः ।  
 ॐ विद्याधिराजाय नमः ।  
 ॐ वेदेशाय नमः ।  
 ॐ वेद पतये नमः ।  
@@ -91,7 +91,7 @@ title = "वेदव्यासाष्टोत्तरशतनामा�
   
 ॐ विघ्नौघ कुलिशाय नमः ।  
 ॐ पित्रे नमः ।  
-ॐ विशांपतये नमः ।  
+ॐ विशाम्पतये नमः ।  
 ॐ भक्ताज्ञानविनाशकाय नमः ।  
 ॐ विघ्नमालाविपाकाय नमः ।  
 ॐ विघ्नौघघनमरुते नमः ।  

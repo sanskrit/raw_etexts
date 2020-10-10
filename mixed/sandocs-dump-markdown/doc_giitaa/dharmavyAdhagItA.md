@@ -1,23 +1,25 @@
-+++
-"Text title" = "dharmavyaadhagItA"
-"File name" = "dharmavyaadhagiitaa.itx"
-itxtitle = "dharmavyAdhagItA"
-engtitle = "dharmavyAdhagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunder at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunder at hotmail.com"
-Description-comments = "Vana Parva of Mahabharata, Ch. 198-207 in BORI and Ch. 207-216 in Kinjawadekar edn., though the latter only has the ending as . brAhmaNa-vyAdha sa.nvAda. http://en.wikipedia.org/wiki/Vyadha_Gita"
-Indexextra = "(scanned (Vana Parva of Mahabharata) (Wiki) or dharmavyAdhagItA)"
-"Latest update" = "February 12, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धर्मव्याधगीता"
+---
+Category: gItA, giitaa
+Description-comments: Vana Parva of Mahabharata, Ch. 198-207 in BORI and Ch. 207-216
+  in Kinjawadekar edn., though the latter only has the ending as . brAhmaNa-vyAdha
+  sa.nvAda. http://en.wikipedia.org/wiki/Vyadha_Gita
+File name: dharmavyaadhagiitaa.itx
+Indexextra: (scanned (Vana Parva of Mahabharata) (Wiki) or dharmavyAdhagItA)
+Language: Sanskrit
+Latest update: February 12, 2013
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunder at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: dharmavyaadhagItA
+Transliterated by: Sunder Hattangadi sunder at hotmail.com
+engtitle: dharmavyAdhagItA
+itxtitle: dharmavyAdhagItA
+title: धर्मव्याधगीता
 
-+++
+---
   
  धर्मव्याधगीता   
   

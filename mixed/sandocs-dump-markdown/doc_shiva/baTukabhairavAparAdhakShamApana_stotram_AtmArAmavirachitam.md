@@ -1,22 +1,22 @@
-+++
-"Text title" = "baTukabhairavAparAdhakShamApana"
-"File name" = "shrIbaTukabhairavAparAdhakShamApana.itx"
-itxtitle = "baTukabhairavAparAdhakShamApana stotram (AtmArAmavirachitam)"
-engtitle = "Batukabhairava Aparadhakshamapana"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Atmarama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "Batuka Bhairava Upasana"
-Indexextra = "(Scan)"
-"Latest update" = "August 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बटुकभैरवापराधक्षमापन स्तोत्रम् (आत्मारामविरचितम्)"
+---
+Author: Atmarama
+Category: shiva
+Description/comments: Batuka Bhairava Upasana
+File name: shrIbaTukabhairavAparAdhakShamApana.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 18, 2018
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: baTukabhairavAparAdhakShamApana
+engtitle: Batukabhairava Aparadhakshamapana
+itxtitle: baTukabhairavAparAdhakShamApana stotram (AtmArAmavirachitam)
+title: बटुकभैरवापराधक्षमापन स्तोत्रम् (आत्मारामविरचितम्)
 
-+++
+---
   
  श्रीबटुकभैरवापराधक्षमापनस्तोत्रम्   
 ॐ गुरोः सेवां त्यक्त्वा गुरुवचनशक्तोपि न भवे  
@@ -54,12 +54,12 @@ title = "बटुकभैरवापराधक्षमापन स्त�
 दयारूपं शान्तं मुनिगणनुतं भक्तदयितं  
 कदा पश्यामि त्वां कुटिलकचशोभित्रिनयनम् ॥ ७॥  
   
-तपोयोगं सांख्यं यमनियमचेतः प्रयजनं  
+तपोयोगं साङ्ख्यं यमनियमचेतः प्रयजनं  
 न कौलार्च्चाचक्रं हरिहरविधीनां प्रियतमम् । प्रियतरम्  
 न जाने ते भक्तिं परममुनिमार्गं मधुविधिं  
 तथाप्येषा वाणी परिरटति नित्यं तव यशः ॥ ८॥  
   
-न मे कांक्षा धर्मे न वसुनिचये राज्यनिवहे  
+न मे काङ्क्षा धर्मे न वसुनिचये राज्यनिवहे  
 न मे स्त्रीणां भोगे सखिसुतकुटुम्बेषु न च मे ।  
 यदा यद्यद्भाव्यं भवतु भगवन् पूर्वसुकृतान्  
 ममैतत्तु प्रार्थ्यं तव विमलभक्तिः प्रभवतात् ॥ ९॥  

@@ -1,22 +1,23 @@
-+++
-"Text title" = "dattAtreyabhaktinirUpaNastotram"
-"File name" = "dattAtreyabhaktinirUpaNastotram.itx"
-itxtitle = "dattAtreyabhaktinirUpaNastotram"
-engtitle = "dattAtreyabhaktinirUpaNastotram"
-Category = "deities_misc, dattatreya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "March 24, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयभक्तिनिरूपणस्तोत्रम्"
+---
+Category: deities_misc, dattatreya
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: dattAtreyabhaktinirUpaNastotram.itx
+Language: Sanskrit
+Latest update: March 24, 2017
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattAtreyabhaktinirUpaNastotram
+engtitle: dattAtreyabhaktinirUpaNastotram
+itxtitle: dattAtreyabhaktinirUpaNastotram
+title: दत्तात्रेयभक्तिनिरूपणस्तोत्रम्
 
-+++
+---
   
  दत्तात्रेयभक्तिनिरूपणस्तोत्रम्   
   
@@ -70,7 +71,7 @@ title = "दत्तात्रेयभक्तिनिरूपणस्�
 पुरा नारायणं ब्रह्मा सत्यक्षेत्रे दयानिधिम् ।  
 प्रणतोऽपृच्छदेकं किमुपास्यं दैवतं परम् ॥ १६॥  
   
-स प्राह मामकं धाम यद्दत्तात्रेयसंज्ञितम् ।  
+स प्राह मामकं धाम यद्दत्तात्रेयसञ्ज्ञितम् ।  
 सदानन्दात्मकं शुद्धं सात्त्विकं तारकं परम् ॥ १७॥  
   
 विश्वरूपं जगद्योनिं तदेकोपास्स्व दैवतम् ।  

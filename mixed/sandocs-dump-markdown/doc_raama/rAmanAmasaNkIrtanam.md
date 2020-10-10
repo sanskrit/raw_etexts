@@ -1,22 +1,22 @@
-+++
-"Text title" = "raamanaamasaMkiirtanam"
-"File name" = "rAmanAmasankIrtanam.itx"
-itxtitle = "rAmanAmasaNkIrtanam"
-engtitle = "rAmanAmasaMkIrtanam"
-Category = "bhajana, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Swami Mahayogananda"
-"Proofread by" = "Swami Mahayogananda"
-Description-comments = "Popularly sung in the Ramakrishna order"
-"Latest update" = "Januuary 6, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामनामसण्कीर्तनम्"
+---
+Category: bhajana, raama
+Description-comments: Popularly sung in the Ramakrishna order
+File name: rAmanAmasankIrtanam.itx
+Language: Sanskrit
+Latest update: Januuary 6, 2009
+Location: doc_raama
+Proofread by: Swami Mahayogananda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: raamanaamasaMkiirtanam
+Transliterated by: Swami Mahayogananda
+engtitle: rAmanAmasaMkIrtanam
+itxtitle: rAmanAmasaNkIrtanam
+title: रामनामसण्कीर्तनम्
 
-+++
+---
   
  श्रीरामनामसङ्कीर्तनम्   
   
@@ -104,7 +104,7 @@ title = "रामनामसण्कीर्तनम्"
 ॐ श्रीसीता-लक्ष्मण-भरत-शत्रुघ्न-हनुमत्समेत-  
 श्रीरामचन्द्रपरब्रह्मणे नमः ॥  
   
-      अथ संकीर्तनम् ।  
+      अथ सङ्कीर्तनम् ।  
       बालकाण्डम्  
 १. शुद्धब्रह्मपरात्पर राम ।  
 २. कालात्मकपरमेश्वर राम ॥  

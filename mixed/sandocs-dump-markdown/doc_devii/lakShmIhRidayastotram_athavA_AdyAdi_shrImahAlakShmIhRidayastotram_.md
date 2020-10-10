@@ -1,26 +1,26 @@
-+++
-"Text title" = "lakShmIhRidaya stotram"
-"File name" = "laxmiihridaya.itx"
-itxtitle = "lakShmIhRidayastotram athavA AdyAdi shrImahAlakShmIhRidayastotram |"
-engtitle = "lakShmIhRidaya stotram"
-Category = "hRidaya, devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, N.Balasubramanian"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-Description-comments = "should be used with nArAyaNahRidayam"
-Indexextra = "(Meanings)"
-"Latest update" = "November 06, 2004, January 1, 2009, April 4, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीहृइदयस्तोत्रम् अथवा आद्यादि श्रीमहालक्ष्मीहृइदयस्तोत्रम् ।"
+---
+Author: Traditional
+Category: hRidaya, devii, lakShmI, devI
+Description-comments: should be used with nArAyaNahRidayam
+File name: laxmiihridaya.itx
+Indexextra: (Meanings)
+Language: Sanskrit
+Latest update: November 06, 2004, January 1, 2009, April 4, 2009
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, N.Balasubramanian
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmIhRidaya stotram
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: WebD
+engtitle: lakShmIhRidaya stotram
+itxtitle: lakShmIhRidayastotram athavA AdyAdi shrImahAlakShmIhRidayastotram |
+title: लक्ष्मीहृइदयस्तोत्रम् अथवा आद्यादि श्रीमहालक्ष्मीहृइदयस्तोत्रम् ।
 
-+++
+---
   
  श्रीलक्ष्मीहृदयस्तोत्रम्   
   
@@ -388,7 +388,7 @@ Now follows the stotram LAXMI HRIDAYAM.
 कलया ते यथा देवि जीवन्ति सचराचराः ।  
 तथा सम्पत्करी लक्ष्मि सर्वदा सम्प्रसीद मे ॥ २०॥  
   
-यथा विष्णुर्ध्रुवं नित्यं स्वकलां संन्यवेशयत् ।  
+यथा विष्णुर्ध्रुवं नित्यं स्वकलां सन्न्यवेशयत् ।  
 तथैव स्वकलां लक्ष्मि मयि सम्यक् समर्पय ॥ २१॥  
   
 सर्वसौख्यप्रदे देवि भक्तानामभयप्रदे ।  
@@ -663,7 +663,7 @@ Now follows the stotram LAXMI HRIDAYAM.
 य एकभक्त्याऽन्वहमेकवर्षं विशुद्धधीः सप्ततिवारजापी ।  
 स मन्दभाग्योऽपि रमाकटाक्षात् भवेत्सहस्राक्षशताधिकश्रीः ॥ १०३॥  
   
-श्रीशांघ्रिभक्तिं हरिदासदास्यं प्रपन्नमन्त्रार्थदृढैकनिष्ठाम् ।  
+श्रीशाङ्घ्रिभक्तिं हरिदासदास्यं प्रपन्नमन्त्रार्थदृढैकनिष्ठाम् ।  
 गुरोः स्मृतिं निर्मलबोधबुद्धिं प्रदेहि मातः परमं पदं श्रीः ॥ १०४॥  
   
 पृथ्वीपतित्वं पुरुषोत्तमत्वं विभूतिवासं विविधार्थसिद्धिम् ।  

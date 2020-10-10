@@ -1,22 +1,22 @@
-+++
-"Text title" = "Surya Ashtottarashata Namavali by vishvakarma 108 names"
-"File name" = "sUryAShTottarashatanAmAvaliHvishvakarmaNP.itx"
-itxtitle = "sUryAShTottarashatanAmAvaliH (vishvakarmakRitA narasiMhapurANAntargatA)"
-engtitle = "Suryashtottarashatanamavali by vishvakarma"
-Category = "aShTottarashatanAma, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Narasimhapurana adhyAya 19 See corresponding stotra"
-Indexextra = "(Hindi)"
-"Latest update" = "August 29, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्याष्टोत्तरशतनामावलिः (विश्वकर्मकृइता नरसिंहपुराणान्तर्गता)"
+---
+Category: aShTottarashatanAma, navagraha, stotra
+Description-comments: Narasimhapurana adhyAya 19 See corresponding stotra
+File name: sUryAShTottarashatanAmAvaliHvishvakarmaNP.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: August 29, 2019
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Surya Ashtottarashata Namavali by vishvakarma 108 names
+engtitle: Suryashtottarashatanamavali by vishvakarma
+itxtitle: sUryAShTottarashatanAmAvaliH (vishvakarmakRitA narasiMhapurANAntargatA)
+title: सूर्याष्टोत्तरशतनामावलिः (विश्वकर्मकृइता नरसिंहपुराणान्तर्गता)
 
-+++
+---
   
  नरसिंहपुराणे सूर्याष्टोत्तरशतनामावलिः विश्वकर्मकृता   
 ॐ आदित्याय नमः । सवित्रे । सूर्याय । खगाय । पूष्णे । गभस्तिमते ।  

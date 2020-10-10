@@ -1,24 +1,24 @@
-+++
-"Text title" = "karpuuraadistotram"
-"File name" = "karpuuraadi.itx"
-itxtitle = "kAlI karpUrastotram athavA karpUrAdistotram"
-engtitle = "KarpUradistotra"
-Category = "devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mike Magee mike.magee at theregister.co.uk"
-"Proofread by" = "Mike Magee mike.magee at theregister.co.uk"
-"Latest update" = "August 23, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "काली कर्पूरस्तोत्रम् अथवा कर्पूरादिस्तोत्रम्"
+---
+Author: Traditional
+Category: devii, dashamahAvidyA, stotra, devI
+File name: karpuuraadi.itx
+Language: Sanskrit
+Latest update: August 23, 2000
+Location: doc_devii
+Proofread by: Mike Magee mike.magee at theregister.co.uk
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: karpuuraadistotram
+Texttype: stotra
+Transliterated by: Mike Magee mike.magee at theregister.co.uk
+engtitle: KarpUradistotra
+itxtitle: kAlI karpUrastotram athavA karpUrAdistotram
+title: काली कर्पूरस्तोत्रम् अथवा कर्पूरादिस्तोत्रम्
 
-+++
+---
   
  कर्पूरादिस्तोत्रम्   
 काली कर्पूरस्तोत्रम्  
@@ -63,9 +63,9 @@ title = "काली कर्पूरस्तोत्रम् अथवा
 श्मशानस्ते तल्पे शवहृदि महाकालसुरतप्रयुक्तां त्वां  
 ध्यायन् जननि जडचेता अपि कविः ॥ ७॥  
   
-शिवाभिर्घोराभिः शवनिवहमुण्डास्थिकरैः परं संकीर्णायां  
+शिवाभिर्घोराभिः शवनिवहमुण्डास्थिकरैः परं सङ्कीर्णायां  
 प्रकटितचितायां हरवधूम् ।प्रविष्टां ।  
-संतुष्टामुपरिसुरतेनातियुवतीं सदा त्वां ध्यायन्ति क्वचिदपि  
+सन्तुष्टामुपरिसुरतेनातियुवतीं सदा त्वां ध्यायन्ति क्वचिदपि  
 च  
 न तेषां परिभवः ॥ ८॥  
   
@@ -107,7 +107,7 @@ title = "काली कर्पूरस्तोत्रम् अथवा
 जपंस्त्वत्प्रयेकं मनुमपि तव ध्याननिरतो महाकालि स्वैरं स  
 भवति धरित्रीपरिवृढः ॥ १५॥  
   
-गृहे संमार्ज्यन्या परिगलितविर्यं हि चिकुरं समूलं मध्याह्ने  
+गृहे सम्मार्ज्यन्या परिगलितविर्यं हि चिकुरं समूलं मध्याह्ने  
 वितरति चितायां कुजदिने ।  
 समुच्चार्य प्रमेणा मनुमपि सकृत्कालि सततं गजारूढो याति  
 क्षितिपरिवृढः सत्कविवरः ॥ १६॥  

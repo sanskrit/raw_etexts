@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNeshvarastotram by bhrUshuNDi"
-"File name" = "gaNeshvarastotrambhrUshuNDi.itx"
-itxtitle = "gaNeshvarastotram (bhrUshuNDiproktaM mudgalapurANAntargatam)"
-engtitle = "gaNeshvarastotram by bhrUshuNDi"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Description/comments" = "also entitled as gANeshvaratejovardhanastotram"
-Source = "Mudgalapurana khaNDa 2, adhyAya 60, shlokAH 35-51.1-62"
-Indexextra = "(Mudgalapurana, Marathi)"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेश्वरस्तोत्रम् (भ्रूशुण्डिप्रोक्तं मुद्गलपुराणान्तर्गतम्)"
+---
+Category: ganesha
+Description/comments: also entitled as gANeshvaratejovardhanastotram
+File name: gaNeshvarastotrambhrUshuNDi.itx
+Indexextra: (Mudgalapurana, Marathi)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_ganesha
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Mudgalapurana khaNDa 2, adhyAya 60, shlokAH 35-51.1-62
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshvarastotram by bhrUshuNDi
+engtitle: gaNeshvarastotram by bhrUshuNDi
+itxtitle: gaNeshvarastotram (bhrUshuNDiproktaM mudgalapurANAntargatam)
+title: गणेश्वरस्तोत्रम् (भ्रूशुण्डिप्रोक्तं मुद्गलपुराणान्तर्गतम्)
 
-+++
+---
   
  गणेश्वरस्तोत्रम् अथवा गाणेशतेजोवर्धनस्तोत्रम्   
 मुद्गलपुराणोक्त  
@@ -89,7 +89,7 @@ title = "गणेश्वरस्तोत्रम् (भ्रूशुण
 तत्रैव गणनाथं ते भेजिरे भक्तिभावतः ॥ २१॥  
   
 शिष्यास्तस्य महाभागा जाता ब्रह्मर्षयोऽमलाः ।  
-क्षेत्रसंन्यासभावेन तेऽसेवन्त महामुनिम् ॥ २२॥  
+क्षेत्रसन्न्यासभावेन तेऽसेवन्त महामुनिम् ॥ २२॥  
   
 भ्रूशुण्डिनस्तत्र तीर्थं गणेशस्य च सुन्दरम् ।  
 भुक्तिमुक्तिप्रदं प्रोक्तं स्नानमात्रेण जन्तवे ॥ २३॥  

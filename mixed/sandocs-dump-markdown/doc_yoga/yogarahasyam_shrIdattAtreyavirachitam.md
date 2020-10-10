@@ -1,23 +1,23 @@
-+++
-"Text title" = "Yogarahasya by Dattatreya"
-"File name" = "yogarahasya.itx"
-itxtitle = "yogarahasyam (shrIdattAtreyavirachitam)"
-engtitle = "Secret of Yoga by Lord Dattatreya"
-Category = "yoga"
-Location = "doc_yoga"
-Sublocation = "yoga"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sovarel Vlad vlad.sovarel at yahoo.com"
-"Proofread by" = "Sovarel Vlad vlad.sovarel at yahoo.com"
-Description-comments = "Yoga Rahasya ascribed to Dattatreya Muni"
-"Latest update" = "February 24, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगरहस्यम् (श्रीदत्तात्रेयविरचितम्)"
+---
+Author: Vedic Tradition
+Category: yoga
+Description-comments: Yoga Rahasya ascribed to Dattatreya Muni
+File name: yogarahasya.itx
+Language: Sanskrit
+Latest update: February 24, 2002
+Location: doc_yoga
+Proofread by: Sovarel Vlad vlad.sovarel at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: yoga
+Text title: Yogarahasya by Dattatreya
+Transliterated by: Sovarel Vlad vlad.sovarel at yahoo.com
+engtitle: Secret of Yoga by Lord Dattatreya
+itxtitle: yogarahasyam (shrIdattAtreyavirachitam)
+title: योगरहस्यम् (श्रीदत्तात्रेयविरचितम्)
 
-+++
+---
   
  योगरहस्यं श्रीदत्तात्रेयविरचितम्   
             योगाध्यायः  
@@ -64,7 +64,7 @@ title = "योगरहस्यम् (श्रीदत्तात्रे
 त्रिगुणाभिस्तु मात्राभिः उत्तमः परिकीर्तितः ॥ १.१४॥  
   
 निमेषोन्मेषणो मात्राकालो लघ्वक्षरस्तथा ।  
-प्राणायामस्य संख्यार्थं स्मृतो द्वादशमात्रिकः ॥ १.१५॥  
+प्राणायामस्य सङ्ख्यार्थं स्मृतो द्वादशमात्रिकः ॥ १.१५॥  
   
 प्रथमेन जयेत्स्वेदम्मध्यमेन च वेपथुम् ।  
 विषादं हि तृतीयेन जयेद्दोषाननुक्रमात् ॥ १.१६॥  
@@ -84,7 +84,7 @@ title = "योगरहस्यम् (श्रीदत्तात्रे
 धवस्तिः प्राप्तिः तथा संवित्प्रसादश्च महीपते ।  
 स्वरुपं शृणु चैतेषां कथ्यमानमनुक्रमात् ॥ १.२१॥  
   
-कर्मणामिष्टदुष्टानां जायते फलसंक्षयः ।  
+कर्मणामिष्टदुष्टानां जायते फलसङ्क्षयः ।  
 चेतसो अपकषायत्व यत्र सा धवस्तिरच्यते ॥ १.२२॥  
   
 ऐहिकामुष्मिकान् कामान् लोभमोहात्मकान् स्वयम् ।  
@@ -169,7 +169,7 @@ title = "योगरहस्यम् (श्रीदत्तात्रे
 सशब्दाग्निजलाभ्यासे जीर्णगोष्ठे चतुष्पथे ।  
 शुष्कपर्णचये नद्यां श्मशाने ससरीसृपे ॥ १.४९॥  
   
-सभये कूपतीरे वा चैत्यवल्मीकसंचये ।  
+सभये कूपतीरे वा चैत्यवल्मीकसञ्चये ।  
 देषेष्वेतेषु तत्त्वज्ञो योगाब्यासं विवर्जयेत् ॥ १.५०॥  
   
 सत्त्वस्यानुपपत्तौ च देशकालं विवर्जयेत् ।  
@@ -340,7 +340,7 @@ title = "योगरहस्यम् (श्रीदत्तात्रे
 न विशेषमवाप्नोति तद्वद्योगाग्निना यतिः ।  
 निर्द्दग्धदोषस्तेनैक्यं प्रयाति ब्रह्मणा सह ॥ २.३७॥  
   
-यथाग्निरग्नौ संक्षिप्तः समानत्वमनुव्रजेत् ।  
+यथाग्निरग्नौ सङ्क्षिप्तः समानत्वमनुव्रजेत् ।  
 तदाख्यस्तन्मयो भुतो न गृह्येत विशेषतः ॥ २.३८॥  
   
 परेण ब्रह्मणा तद्वत् प्राप्यैक्यं दग्धकिल्विषः ।  

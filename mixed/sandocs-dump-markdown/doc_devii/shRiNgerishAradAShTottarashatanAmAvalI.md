@@ -1,21 +1,21 @@
-+++
-"Text title" = "shRingerishAradAShTottarashatanAmAvalI"
-"File name" = "shRingerishAradAShTottarashatanAmAvalI.itx"
-itxtitle = "shRiNgerishAradAShTottarashatanAmAvalI"
-engtitle = "shRingerishAradAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "November 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शृइण्गेरिशारदाष्टोत्तरशतनामावली"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, devii, devI
+File name: shRingerishAradAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: November 24, 2016
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shRingerishAradAShTottarashatanAmAvalI
+engtitle: shRingerishAradAShTottarashatanAmAvalI
+itxtitle: shRiNgerishAradAShTottarashatanAmAvalI
+title: शृइण्गेरिशारदाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीशृङ्गेरि शारदाष्टोत्तरशतनामावलिः   
   

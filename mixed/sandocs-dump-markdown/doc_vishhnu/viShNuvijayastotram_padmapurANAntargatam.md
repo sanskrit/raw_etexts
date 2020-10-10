@@ -1,21 +1,22 @@
-+++
-"Text title" = "shrIviShNuvijayastotram"
-"File name" = "viShNuvijayastotram.itx"
-itxtitle = "viShNuvijayastotram (padmapurANAntargatam)"
-engtitle = "shrIviShNuvijayastotram"
-Category = "vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुविजयस्तोत्रम् (पद्मपुराणान्तर्गतम्)"
+---
+Category: vishhnu, vishnu
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: viShNuvijayastotram.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIviShNuvijayastotram
+engtitle: shrIviShNuvijayastotram
+itxtitle: viShNuvijayastotram (padmapurANAntargatam)
+title: विष्णुविजयस्तोत्रम् (पद्मपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णुविजयस्तोत्रम्   
   

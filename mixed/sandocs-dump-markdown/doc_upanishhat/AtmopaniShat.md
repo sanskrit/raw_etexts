@@ -1,25 +1,25 @@
-+++
-"Text title" = "Atma Upanishad"
-"File name" = "atma.itx"
-itxtitle = "AtmopaniShat"
-engtitle = "Atma Upanishad"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "traditional"
-Language = "Sanskrit"
-Subject = "hinduism/philosophy"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Translated by" = "-"
-Description-comments = "Atharva-veda - Samanya Upanishad   76"
-"Latest update" = "May 3, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आत्मोपनिषत्"
+---
+Author: traditional
+Category: upanishhat, svara, upanishad
+Description-comments: Atharva-veda - Samanya Upanishad   76
+File name: atma.itx
+Language: Sanskrit
+Latest update: May 3, 2003
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/philosophy
+Sublocation: upanishhat
+Text title: Atma Upanishad
+Texttype: svara
+Translated by: '-'
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Atma Upanishad
+itxtitle: AtmopaniShat
+title: आत्मोपनिषत्
 
-+++
+---
   
  आत्मोपनिषत्   
   
@@ -49,7 +49,7 @@ title = "आत्मोपनिषत्"
 सूक्ष्मो निर्ममो निरञ्जनो निर्विकारः शब्दस्पर्शरूपरसगन्धवर्जितो निर्विकल्पो  
 निराकाङ्क्षः सर्वव्यापी सोऽचिन्त्यो निर्वर्ण्यश्च पुनात्यशुद्धान्यपूतानि ।  
 निष्क्रियस्तस्य संसारो नास्ति ।  
-आत्मसंज्ञः शिवः शुद्ध एक एवाद्वयः सदा ।  
+आत्मसञ्ज्ञः शिवः शुद्ध एक एवाद्वयः सदा ।  
 ब्रह्मरूपतया ब्रह्म केवलं प्रतिभासते ॥ १॥  
   
 जगद्रूपतयाप्येतद्ब्रह्मैव प्रतिभासते ।  
@@ -80,7 +80,7 @@ title = "आत्मोपनिषत्"
 क्षुधां देहव्यथां त्यक्त्वा बालः क्रीडति वस्तुनि ॥ १०॥  
   
 तथैव विद्वान्रमते निर्ममो निरहं सुखी ।  
-कामान्निष्कामरूपी संचरत्येकचरो मुनिः ॥ ११॥  
+कामान्निष्कामरूपी सञ्चरत्येकचरो मुनिः ॥ ११॥  
   
 स्वात्मनैव सदा तुष्टः स्वयं सर्वात्मना स्थितः ।  
 निर्धनोऽपि सदा तुष्टोऽप्यसहायो महाबलः ॥ १२॥  
@@ -136,7 +136,7 @@ title = "आत्मोपनिषत्"
 बुद्धेरेव गुणावेतौ न तु नित्यस्य वस्तुनः ।  
 अतस्तौ मायया क्लृप्तौ बन्धमोक्षौ न चात्मनि ॥ २९॥  
   
-निष्कले निष्क्रिये शान्ते निरवद्ये निरंजने ।  
+निष्कले निष्क्रिये शान्ते निरवद्ये निरञ्जने ।  
 अद्वितीये परे तत्त्वे व्योमवत्कल्पना कुतः ॥ ३०॥  
   
 न निरोधो न चोत्पत्तिर्न बद्धो न च साधकः ।  

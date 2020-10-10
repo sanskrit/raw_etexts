@@ -1,25 +1,26 @@
-+++
-"Text title" = "kRRiShNasahasranAmastotram kakArAdi"
-"File name" = "kRRiShNasahasranAmastotramkakArAdi.itx"
-itxtitle = "kRRiShNasahasranAmastotram kakArAdi (brahmANDapurANAntargatam)"
-engtitle = "kRRiShNasahasranAmastotram kakArAdi"
-Category = "sahasranAma, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Edited by S. V. Radhakrishna Shastriji"
-Source = "brahmANDapurANe.adhyAtmakabhAgavate shrutirahasye"
-Indexextra = "(Scan VSM 1)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "December 26, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृष्णसहस्रनामस्तोत्रम् ककारादि (ब्रह्माण्डपुराणान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAma, vishhnu, krishna, vishnu
+Description-comments: Edited by S. V. Radhakrishna Shastriji
+File name: kRRiShNasahasranAmastotramkakArAdi.itx
+Indexextra: (Scan VSM 1)
+Language: Sanskrit
+Latest update: December 26, 2019
+Location: doc_vishhnu
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: brahmANDapurANe.adhyAtmakabhAgavate shrutirahasye
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNasahasranAmastotram kakArAdi
+engtitle: kRRiShNasahasranAmastotram kakArAdi
+itxtitle: kRRiShNasahasranAmastotram kakArAdi (brahmANDapurANAntargatam)
+title: कृष्णसहस्रनामस्तोत्रम् ककारादि (ब्रह्माण्डपुराणान्तर्गतम्)
 
-+++
+---
   
  ककारादि श्रीकृष्णसहस्रनामस्तोत्रम्   
   
@@ -613,7 +614,7 @@ title = "कृष्णसहस्रनामस्तोत्रम् क�
 करुणारसंसम्पूर्णः करुणारसवर्धनः ।  
 करुणाकरविख्यातः करुणाकरसागरः ॥ १८७॥  
   
-कालात्मा कालजनकः कालाग्निः कालसंज्ञकः ।  
+कालात्मा कालजनकः कालाग्निः कालसञ्ज्ञकः ।  
 कालः कालकलातीतः कालस्थः कालभैरवः ॥ १८८॥  
   
 कालज्ञः कालसंहर्ता कालचक्रप्रवर्तकः ।  
@@ -671,7 +672,7 @@ title = "कृष्णसहस्रनामस्तोत्रम् क�
 कादिवर्णविवेकज्ञः कादिवर्णविनोदवान् ॥ २०६॥  
   
 कादिहादिमनुज्ञाता कादिहादिमनुप्रियः ।  
-कादिहादिमनूद्धारकारकः कादिसंज्ञकः ॥ २०७॥  
+कादिहादिमनूद्धारकारकः कादिसञ्ज्ञकः ॥ २०७॥  
   
 कालुष्यरहिताकारः कालुष्यैकविनाशनः ।  
 कारागृहविमुक्तात्मा कारागृहविमोचनः ॥ २०८॥  

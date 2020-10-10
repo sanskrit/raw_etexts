@@ -1,24 +1,25 @@
-+++
-"Text title" = "bhagavadshatanAmAvalI dramiDopaniShad"
-"File name" = "dramidopanishad108.itx"
-itxtitle = "bhagavadshatanAmAvaliH dramiDopaniShad"
-engtitle = "bhagavadshatanAmAvalI dramiDopaniShad"
-Category = "aShTottarashatanAmAvalI, vishhnu, vedAnta-deshika, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Author = "Shri Vedanta Deshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion/theology"
-"Transliterated by" = "Shree Devi Kumar"
-Description-comments = "source - bhaghavan nama sahasram., 5010010079089. sri vedanta desika. 1951. multilingual. RELIGION. THEOLOGY. 168 pgs."
-Indexextra = "(also see bhagavannaamasahasram)"
-"Latest update" = "February 16, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवद्शतनामावलिः द्रमिडोपनिषद्"
+---
+Author: Shri Vedanta Deshika
+Category: aShTottarashatanAmAvalI, vishhnu, vedAnta-deshika, vishnu
+Description-comments: source - bhaghavan nama sahasram., 5010010079089. sri vedanta
+  desika. 1951. multilingual. RELIGION. THEOLOGY. 168 pgs.
+File name: dramidopanishad108.itx
+Indexextra: (also see bhagavannaamasahasram)
+Language: Sanskrit
+Latest update: February 16, 2015
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion/theology
+Sublocation: vishhnu
+Text title: bhagavadshatanAmAvalI dramiDopaniShad
+Transliterated by: Shree Devi Kumar
+engtitle: bhagavadshatanAmAvalI dramiDopaniShad
+itxtitle: bhagavadshatanAmAvaliH dramiDopaniShad
+title: भगवद्शतनामावलिः द्रमिडोपनिषद्
 
-+++
+---
   
  भगवद्शतनामावली द्रमिडोपनिषत् सार   
    
@@ -123,7 +124,7 @@ Based on Sri Nammazhwar's Thiruvaimozhi in Tamil and Sri Vedanta Desika's dramiD
 ॐ प्रेमजनकाय नमः ।  
 ॐ जगद्रक्षादीक्षाय नमः ।  
 ॐ स्मृतिजुषे नमः ।  
-ॐ अहंभावविषयाय नमः ।  
+ॐ अहम्भावविषयाय नमः ।  
 ॐ दीनानां शरण्याय नमः ।  
 ॐ स्वरसकृतदास्याभ्युपगमाय नमः ।  
 ॐ प्राप्ताय  नमः ।  
@@ -173,10 +174,10 @@ Based on Sri Nammazhwar's Thiruvaimozhi in Tamil and Sri Vedanta Desika's dramiD
 ॐ एकबन्धवे नमः ।  
 ॐ चिरकृतदयाय नमः ।  
 ॐ शीलजलधये नमः ।  
-ॐ स्वसंबन्धात् गोप्त्रे नमः ।  
+ॐ स्वसम्बन्धात् गोप्त्रे नमः ।  
 ॐ स्वगुणगरिमस्मारणपराय नमः ।  
 ॐ विस्मर्तुम् अशक्याय नमः ।  
-ॐ घटकमुखविस्त्रंभविषयाय नमः ।  
+ॐ घटकमुखविस्त्रम्भविषयाय नमः ।  
 ॐ सुमज्जानये नमः ।  
 ॐ सिद्ध्युन्मुखसमयाय नमः ।  
 ॐ अवसरम् इच्छते नमः ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "ardhanArIshvarAShTakam"
-"File name" = "ardhanarishvara8.itx"
-itxtitle = "ardhanArIshvarAShTakam"
-engtitle = "Ardhanarishvara Ashtakam"
-Category = "aShTaka, shiva, stotra, devii, devI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "aShTaka to lord Shiva in the form of half man-half woman"
-Indexextra = "(upamanyu)"
-"Latest update" = "October 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अर्धनारीश्वराष्टकम्"
+---
+Category: aShTaka, shiva, stotra, devii, devI
+Description-comments: aShTaka to lord Shiva in the form of half man-half woman
+File name: ardhanarishvara8.itx
+Indexextra: (upamanyu)
+Language: Sanskrit
+Latest update: October 1, 2010
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: ardhanArIshvarAShTakam
+Texttype: stotra
+engtitle: Ardhanarishvara Ashtakam
+itxtitle: ardhanArIshvarAShTakam
+title: अर्धनारीश्वराष्टकम्
 
-+++
+---
   
  अर्धनारीश्वराष्टकम्   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "shyAmadevAShTottarashatanAmastotram"
-"File name" = "shyAmadevAShTottarashatanAmastotram.itx"
-itxtitle = "shyAmadevAShTottarashatanAmastotram"
-engtitle = "shyAmadevAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "anonymous456an at gmail.com"
-"Proofread by" = "anonymous456an at gmail.com"
-Description-comments = "shyAmadevopAsana Puja book by Shri Kishor Mishra"
-"Latest update" = "June 30, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्यामदेवाष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, vishhnu, krishna, vishnu
+Description-comments: shyAmadevopAsana Puja book by Shri Kishor Mishra
+File name: shyAmadevAShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: June 30, 2017
+Location: doc_vishhnu
+Proofread by: anonymous456an at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shyAmadevAShTottarashatanAmastotram
+Transliterated by: anonymous456an at gmail.com
+engtitle: shyAmadevAShTottarashatanAmastotram
+itxtitle: shyAmadevAShTottarashatanAmastotram
+title: श्यामदेवाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीश्यामदेवाष्टोत्तरशतनामस्तोत्रम्   
   

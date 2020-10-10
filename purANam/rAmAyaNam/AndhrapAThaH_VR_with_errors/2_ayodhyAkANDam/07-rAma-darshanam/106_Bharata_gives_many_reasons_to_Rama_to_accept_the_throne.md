@@ -3,7 +3,6 @@ title: 106 Bharata gives many reasons to Rama to accept the throne
 title_english: 106 Bharata gives many reasons to Rama to accept the throne
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-106-Raajya_Sweekaarardham_Punaryaachana.mp3"></div>
 
 एवम् उक्त्वा तु विरते रामे वचनम् अर्थवत् ।  
@@ -32,7 +31,7 @@ title_english: 106 Bharata gives many reasons to Rama to accept the throne
 स्त्रियाः प्रिय चिकीर्षुः सन् कुर्याद् धर्मज्न धर्मवित् ॥ २-१०६-१२  
 अन्त काले हि भूतानि मुह्यन्ति इति पुरा श्रुतिः ।  
 राज्ना एवम् कुर्वता लोके प्रत्यक्षा सा श्रुतिः कृता ॥ २-१०६-१३  
-साधु अर्थम् अभिसंधाय क्रोधान् मोहाच् च साहसात् ।  
+साधु अर्थम् अभिसन्धाय क्रोधान् मोहाच् च साहसात् ।  
 तातस्य यद् अतिक्रान्तम् प्रत्याहरतु तद् भवान् ॥ २-१०६-१४  
 पितुर् हि समतिक्रान्तम् पुत्रो यः साधु मन्यते ।  
 तद् अपत्यम् मतम् लोके विपरीतम् अतो अन्यथा ॥ २-१०६-१५  

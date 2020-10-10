@@ -1,24 +1,25 @@
-+++
-"Text title" = "viShNustutiHvRRitra"
-"File name" = "viShNustutiHvRRitra.itx"
-itxtitle = "viShNustutiH athavA vRitrachatuHshlokI (vRitrakRitA bhAgavatAntargatA)"
-engtitle = "viShNustutiHvRRitra"
-Category = "vishhnu, krishna, puShTimArgIya, chatuHshlokI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "VSM 2 Edited by S. V. Radhakrishna Shastriji, also from puShTimArgIya stotraratnAkara"
-Indexextra = "(VSM 2, pushti margiya stotraratnAkara)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "June 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तुतिः अथवा वृइत्रचतुःश्लोकी (वृइत्रकृइता भागवतान्तर्गता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, krishna, puShTimArgIya, chatuHshlokI
+Description/comments: VSM 2 Edited by S. V. Radhakrishna Shastriji, also from puShTimArgIya
+  stotraratnAkara
+File name: viShNustutiHvRRitra.itx
+Indexextra: (VSM 2, pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: June 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNustutiHvRRitra
+engtitle: viShNustutiHvRRitra
+itxtitle: viShNustutiH athavA vRitrachatuHshlokI (vRitrakRitA bhAgavatAntargatA)
+title: विष्णुस्तुतिः अथवा वृइत्रचतुःश्लोकी (वृइत्रकृइता भागवतान्तर्गता)
 
-+++
+---
   
  श्रीविष्णुस्तुतिः वृत्रकृता   
 (श्रीमद्भगवतस्था वृत्रासुरचतुःश्लोकी)  

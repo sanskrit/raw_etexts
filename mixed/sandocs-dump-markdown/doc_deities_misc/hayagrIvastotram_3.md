@@ -1,24 +1,24 @@
-+++
-"Text title" = "hayagrIvastotram"
-"File name" = "hayagrIvastotramDesika.itx"
-itxtitle = "hayagrIvastotram 3"
-engtitle = "hayagrIvastotram"
-Category = "deities_misc, stotra, vedAnta-deshika"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Author = "Vedanta Desika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sundar Rajan RD sundar.rajanrd at gmail.com"
-"Proofread by" = "Sundar Rajan RD sundar.rajanrd at gmail.com"
-Indexextra = "Vedanta Desika"
-"Latest update" = "November 23, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हयग्रीवस्तोत्रम् ३"
+---
+Author: Vedanta Desika
+Category: deities_misc, stotra, vedAnta-deshika
+File name: hayagrIvastotramDesika.itx
+Indexextra: Vedanta Desika
+Language: Sanskrit
+Latest update: November 23, 2011
+Location: doc_deities_misc
+Proofread by: Sundar Rajan RD sundar.rajanrd at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: hayagrIvastotram
+Texttype: stotra
+Transliterated by: Sundar Rajan RD sundar.rajanrd at gmail.com
+engtitle: hayagrIvastotram
+itxtitle: hayagrIvastotram 3
+title: हयग्रीवस्तोत्रम् ३
 
-+++
+---
   
 ॥ श्रीहयग्रीवस्तोत्रम् ॥  
   
@@ -92,7 +92,7 @@ title = "हयग्रीवस्तोत्रम् ३"
 मनोगतं पश्यति यः सदा त्वां  
 मनीषिनां मानस राजहंसम् ।  
 स्वयम् पुरोभाव विवादभाजः  
-किंकुर्वते तस्य गिरो यथार्हम् ॥ १४॥  
+किङ्कुर्वते तस्य गिरो यथार्हम् ॥ १४॥  
   
 अपि क्षणार्धं कलयन्ति ये त्वाम्  
 आप्लावयन्तं विशदैर्मयूखैः ।  
@@ -117,11 +117,11 @@ title = "हयग्रीवस्तोत्रम् ३"
 प्राङ्निर्मितानां तपसां विपाकाः  
 प्रत्यग्रनिःश्रेयस सम्पदो मे ।  
 समेधिषीरंस्तव पादपद्मे  
-संकल्प चिन्तामणयः प्रणामाः ॥ १९॥  
+सङ्कल्प चिन्तामणयः प्रणामाः ॥ १९॥  
   
 विलुप्त मूर्धन्य लिपि क्रमाणाम्  
 सुरेन्द्र चूडापद लालितानाम् ।  
-त्वदंघ्रि राजीव रजःकणानाम्  
+त्वदङ्घ्रि राजीव रजःकणानाम्  
 भूयान् प्रसादो मयि नाथ भूयात् ॥ २०॥  
   
 परिस्फुरन्नूपुर चित्रभानु-  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "karuNAlaharI"
-"File name" = "karuNAlaharI.itx"
-itxtitle = "karuNAlaharI athavA viShNukaharI (paNDitarAjashrIjagannAthavirachitA)"
-engtitle = "karuNAlaharI"
-Category = "laharI, major_works, jagannAthapaNDita, vishhnu"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-SubDeity = "vishhnu"
-Author = "Jagannathapandita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "करुणालहरी अथवा विष्णुकहरी (पण्डितराजश्रीजगन्नाथविरचिता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: Jagannathapandita
+Category: laharI, major_works, jagannAthapaNDita, vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: karuNAlaharI.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_z_misc_major_works
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishhnu
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: karuNAlaharI
+engtitle: karuNAlaharI
+itxtitle: karuNAlaharI athavA viShNukaharI (paNDitarAjashrIjagannAthavirachitA)
+title: करुणालहरी अथवा विष्णुकहरी (पण्डितराजश्रीजगन्नाथविरचिता)
 
-+++
+---
   
  करुणालहरी अथवा विष्णुलहरी   
   

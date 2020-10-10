@@ -1,23 +1,23 @@
-+++
-"Text title" = "bAlAShTottarashatanAmAvalI 2"
-"File name" = "bAlAShTottarashatanAmAvalI2.itx"
-itxtitle = "bAlAShTottarashatanAmAvaliH 2 (shrIbAlAyai)"
-engtitle = "bAlAShTottarashatanAmAvalI 2"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Balasaparya"
-"Latest update" = "August 23, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाष्टोत्तरशतनामावलिः २ (श्रीबालायै)"
+---
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI
+Description-comments: Balasaparya
+File name: bAlAShTottarashatanAmAvalI2.itx
+Language: Sanskrit
+Latest update: August 23, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAShTottarashatanAmAvalI 2
+Texttype: nAmAvalI
+engtitle: bAlAShTottarashatanAmAvalI 2
+itxtitle: bAlAShTottarashatanAmAvaliH 2 (shrIbAlAyai)
+title: बालाष्टोत्तरशतनामावलिः २ (श्रीबालायै)
 
-+++
+---
   
  श्रीबालाष्टोत्तरशतनामावलिः २   
 ओं ऐं ह्रीं श्रीं श्रीबालायै नमः । श्रीमहादेव्यै नमः ।  

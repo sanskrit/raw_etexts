@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shiva Stuti by Daksha"
-"File name" = "shivastutiHdaksha.itx"
-itxtitle = "shivastutiH dakShaproktA (mudgalapurANAntargatA)"
-engtitle = "gaNeshastutiH dakSha proktA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 4"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "शिवस्तुतिः दक्षप्रोक्ता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 4
+File name: shivastutiHdaksha.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_ganesha
+Proofread by: PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Shiva Stuti by Daksha
+Transliterated by: PSA Easwaran
+engtitle: gaNeshastutiH dakSha proktA
+itxtitle: shivastutiH dakShaproktA (mudgalapurANAntargatA)
+title: शिवस्तुतिः दक्षप्रोक्ता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  दक्षकृता शिवस्तुतिः   
 दक्ष उवाच ।  
@@ -36,7 +36,7 @@ title = "शिवस्तुतिः दक्षप्रोक्ता (�
 कालेन स्वेच्छया शम्भुः संहारं प्रकरोति च ।  
 यत्किचिदिह तत्सर्वं कालाधीनं न संशयः ॥ ९५॥  
   
-स एव कालो भगवानीश्वरो ब्रह्मसंज्ञितः ।  
+स एव कालो भगवानीश्वरो ब्रह्मसञ्ज्ञितः ।  
 शिवः साक्षाच्च वेदेषु कथ्यते वेदवादिभिः ॥ ९६॥  
   
 क्षमस्व मेऽपराधं त्वं त्वन्मायागर्वितस्य च ।  

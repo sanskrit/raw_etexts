@@ -1,22 +1,22 @@
-+++
-"Text title" = "liNgAShTakaM"
-"File name" = "lingashh.itx"
-itxtitle = "liNgAShTakam"
-engtitle = "liNgAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Srinivas Sunder sunder at crystal.cirrus.com"
-"Proofread by" = "Srinivas Sunder sunder at crystal.cirrus.com"
-Indexextra = "(video)"
-"Latest update" = "Feb. 10, 1995November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लिण्गाष्टकम्"
+---
+Category: aShTaka, shiva
+File name: lingashh.itx
+Indexextra: (video)
+Language: Sanskrit
+Latest update: Feb. 10, 1995November 1, 2010
+Location: doc_shiva
+Proofread by: Srinivas Sunder sunder at crystal.cirrus.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: liNgAShTakaM
+Transliterated by: Srinivas Sunder sunder at crystal.cirrus.com
+engtitle: liNgAShTakam
+itxtitle: liNgAShTakam
+title: लिण्गाष्टकम्
 
-+++
+---
   
  लिङ्गाष्टकं   
   

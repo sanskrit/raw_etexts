@@ -1,26 +1,26 @@
-+++
-"Text title" = "shyAmalAsahasranAmastotram"
-"File name" = "shyAmalAsahasranAmastotra.itx"
-itxtitle = "shyAmalAsahasranAmastotram (saubhAgyalakShmIkalpAntargatam)"
-engtitle = "Shri Shyamala Sahasranamastotram"
-Category = "sahasranAma, devii, pArvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, Alex"
-"Proofread by" = "DPD, NA"
-Source = "Saubhagyalaxmikalpa, bhagavatistutimanjari"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "February 1, 2015, April 2, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्यामलासहस्रनामस्तोत्रम् (सौभाग्यलक्ष्मीकल्पान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: Traditional
+Category: sahasranAma, devii, pArvatI, stotra, devI
+File name: shyAmalAsahasranAmastotra.itx
+Language: Sanskrit
+Latest update: February 1, 2015, April 2, 2016
+Location: doc_devii
+Proofread by: DPD, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Saubhagyalaxmikalpa, bhagavatistutimanjari
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shyAmalAsahasranAmastotram
+Texttype: stotra
+Transliterated by: DPD, Alex
+engtitle: Shri Shyamala Sahasranamastotram
+itxtitle: shyAmalAsahasranAmastotram (saubhAgyalakShmIkalpAntargatam)
+title: श्यामलासहस्रनामस्तोत्रम् (सौभाग्यलक्ष्मीकल्पान्तर्गतम्)
 
-+++
+---
   
  श्री श्यामलासहस्रनामस्तोत्रम्   
 नामसारस्तवः  
@@ -462,7 +462,7 @@ title = "श्यामलासहस्रनामस्तोत्रम�
 वैराग्यजननी ज्ञानदायिनी ज्ञानविग्रहा ॥ १३२॥  
   
 सर्वदोषविनिर्मुक्ता शङ्करार्धशरीरिणी ।  
-सर्वेश्वरप्रियतमा स्वयंज्योतिस्स्वरूपिणी ॥ १३३॥  
+सर्वेश्वरप्रियतमा स्वयञ्ज्योतिस्स्वरूपिणी ॥ १३३॥  
   
 क्षीरसागरमध्यस्था महाभुजगशायिनी ।  
 कामधेनुर्बृहद्गर्भा योगनिद्रा युगन्धरा ॥ १३४॥  

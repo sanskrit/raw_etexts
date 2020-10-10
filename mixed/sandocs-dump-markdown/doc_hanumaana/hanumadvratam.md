@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumadvratam"
-"File name" = "hanumadvratam.itx"
-itxtitle = "hanumadvratam"
-engtitle = "hanumadvratam"
-Category = "hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमद्व्रतम्"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumadvratam.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumadvratam
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: hanumadvratam
+itxtitle: hanumadvratam
+title: हनुमद्व्रतम्
 
-+++
+---
   
  श्रीहनुमद्व्रतम्   
   

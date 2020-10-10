@@ -1,24 +1,24 @@
-+++
-"Text title" = "adhyAtma rAmAyaNa ayodhyAkA.nDa"
-"File name" = "adhyaatmaRamAyo.itx"
-itxtitle = "adhyAtmarAmAyaNe 2 ayodhyAkANDam"
-engtitle = "adhyAtmarAmAyaNa ayodhyAkANDa"
-Category = "adhyAtmarAmAyaNa, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "pramukha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nagaraj Balijepalli"
-"Proofread by" = "Nagaraj Balijepalli, Sunder Httangadi, PSA Easwaran, ahimsasoldier"
-Indexextra = "(Hindi)"
-"Latest update" = "july 22, 2006, April 4, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अध्यात्मरामायणे २ अयोध्याकाण्डम्"
+---
+Author: Traditional
+Category: adhyAtmarAmAyaNa, raama
+File name: adhyaatmaRamAyo.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: july 22, 2006, April 4, 2015
+Location: doc_raama
+Proofread by: Nagaraj Balijepalli, Sunder Httangadi, PSA Easwaran, ahimsasoldier
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: adhyAtma rAmAyaNa ayodhyAkA.nDa
+Texttype: pramukha
+Transliterated by: Nagaraj Balijepalli
+engtitle: adhyAtmarAmAyaNa ayodhyAkANDa
+itxtitle: adhyAtmarAmAyaNe 2 ayodhyAkANDam
+title: अध्यात्मरामायणे २ अयोध्याकाण्डम्
 
-+++
+---
   
  अध्यात्मरामायणे अयोध्याकाण्डम्   
 ॥ प्रथमः सर्गः ॥  

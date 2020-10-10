@@ -1,24 +1,24 @@
-+++
-"Text title" = "ChinnamastA Stotram 2 by brahma"
-"File name" = "ChinnamastAstotrambrahma.itx"
-itxtitle = "ChinnamastAstotram 2 (brahmakRItam)"
-engtitle = "ChinnamastAstotram 2 brahmakritam"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "brahma"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Lalitha Parameswari parameswari.lalitha at gmail.com, NA"
-Description-comments = "In shAktapramoda and mantramahArNava"
-Indexextra = "(ChinnamastA Nityarchana)"
-"Latest update" = "June 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "छिन्नमस्तास्तोत्रम् २ (ब्रह्मकृईतम्)"
+---
+Author: brahma
+Category: devii, dashamahAvidyA, devI
+Description-comments: In shAktapramoda and mantramahArNava
+File name: ChinnamastAstotrambrahma.itx
+Indexextra: (ChinnamastA Nityarchana)
+Language: Sanskrit
+Latest update: June 21, 2018
+Location: doc_devii
+Proofread by: Lalitha Parameswari parameswari.lalitha at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ChinnamastA Stotram 2 by brahma
+engtitle: ChinnamastAstotram 2 brahmakritam
+itxtitle: ChinnamastAstotram 2 (brahmakRItam)
+title: छिन्नमस्तास्तोत्रम् २ (ब्रह्मकृईतम्)
 
-+++
+---
   
  ब्रह्मकृतं छिन्नमस्तास्तोत्रम् २   
 श्रीगणेशाय नमः ।  

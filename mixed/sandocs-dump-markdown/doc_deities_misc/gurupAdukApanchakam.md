@@ -1,29 +1,29 @@
-+++
-"Text title" = "gurupAdukApa.nchaka"
-"File name" = "gurupAdukApanchaka.itx"
-itxtitle = "gurupAdukApanchakam"
-engtitle = "gurupAdukApanchakam"
-Category = "panchaka, deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalun at dataone.in"
-"Proofread by" = "N.Balasubramanian bbalun at dataone.in"
-"Latest update" = "March 29, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुपादुकापञ्चकम्"
+---
+Category: panchaka, deities_misc, gurudev
+File name: gurupAdukApanchaka.itx
+Language: Sanskrit
+Latest update: March 29, 2009
+Location: doc_deities_misc
+Proofread by: N.Balasubramanian bbalun at dataone.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: gurupAdukApa.nchaka
+Transliterated by: N.Balasubramanian bbalun at dataone.in
+engtitle: gurupAdukApanchakam
+itxtitle: gurupAdukApanchakam
+title: गुरुपादुकापञ्चकम्
 
-+++
+---
   
  गुरुपादुकापञ्चकम्   
   
 जगज्जनि-स्तेम-लयालयाभ्यां अगण्य-पुण्योदय-भाविताभ्याम्।  
 त्रयीशिरोजात-निवेदिताभ्यां नमो नमः श्रीगुरुपादुकाभ्यम्॥१॥  
   
-विपत्तमस्तोम-विकर्तनाभ्यां विशिष्ट-संपत्ति-विवर्धनाभ्याम्।  
+विपत्तमस्तोम-विकर्तनाभ्यां विशिष्ट-सम्पत्ति-विवर्धनाभ्याम्।  
 नमज्जनाशेष-विशेषदाभ्यां नमो नमः श्रीगुरुपादुकाभ्याम्॥२॥  
   
 समस्त-दुस्तर्क-कलङ्क-पङ्कापनोदन-प्रौढ-जलाशयाभ्याम्।  

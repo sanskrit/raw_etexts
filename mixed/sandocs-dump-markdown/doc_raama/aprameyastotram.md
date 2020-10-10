@@ -1,21 +1,21 @@
-+++
-"Text title" = "aprameyastotram"
-"File name" = "aprameyastotram.itx"
-itxtitle = "aprameyastotram"
-engtitle = "aprameyastotram"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Latest update" = "April 7, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अप्रमेयस्तोत्रम्"
+---
+Category: raama
+File name: aprameyastotram.itx
+Language: Sanskrit
+Latest update: April 7, 2018
+Location: doc_raama
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: aprameyastotram
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: aprameyastotram
+itxtitle: aprameyastotram
+title: अप्रमेयस्तोत्रम्
 
-+++
+---
   
  अप्रमेय स्तोत्रं   
 नमोऽप्रमेयाय वरप्रदाय सौम्याय नित्याय रघोत्तमाय ।  

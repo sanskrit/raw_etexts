@@ -1,24 +1,24 @@
-+++
-"Text title" = "Brahmavidya Upanishad"
-"File name" = "brahmavidya.itx"
-itxtitle = "brahmavidyopaniShat"
-engtitle = "Brahmavidya Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "40 / 108; Krishna Yajurveda - Yoga Upanishad"
-Indexextra = "(Translation)"
-"Latest update" = "Feb. 16, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मविद्योपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 40 / 108; Krishna Yajurveda - Yoga Upanishad
+File name: brahmavidya.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: Feb. 16, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Brahmavidya Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Brahmavidya Upanishad
+itxtitle: brahmavidyopaniShat
+title: ब्रह्मविद्योपनिषत्
 
-+++
+---
   
  ब्रह्मविद्योपनिषत्   
   
@@ -54,16 +54,16 @@ title = "ब्रह्मविद्योपनिषत्"
 ईश्वरः परमो देवो मकारः परिकीर्तितः ॥ ६॥  
   
 सूर्यमण्डलमध्येऽथ ह्यकारः शङ्खमध्यगः ।  
-उकारश्चन्द्रसंकाशस्तस्य मध्ये व्यवस्थितः ॥ ७॥  
+उकारश्चन्द्रसङ्काशस्तस्य मध्ये व्यवस्थितः ॥ ७॥  
   
-मकारस्त्वग्निसंकाशो विधूमो विद्युतोपमः ।  
+मकारस्त्वग्निसङ्काशो विधूमो विद्युतोपमः ।  
 तिस्रो मात्रास्तथा ज्ञेया सोमसूर्याग्निरूपिणः  ॥ ८॥  
   
-शिखा तु दीपसंकाशा तस्मिन्नुपरि वर्तते ।  
+शिखा तु दीपसङ्काशा तस्मिन्नुपरि वर्तते ।  
 अर्धमात्र तथा ज्ञेया प्रणवस्योपरि स्थिता ॥ ९॥  
   
 पद्मसूत्रनिभा सूक्ष्मा शिखा सा दृश्यते परा ।  
-सा नाडी सूर्यसंकाशा सूर्यं भित्त्वा तथापरा ॥ १०॥  
+सा नाडी सूर्यसङ्काशा सूर्यं भित्त्वा तथापरा ॥ १०॥  
   
 द्विसप्ततिसहस्राणि नाडीं भित्त्वा च मूर्धनि ।  
 वरदः सर्वभूतानां सर्वं व्याप्यावतिष्ठति ॥ ११॥  
@@ -74,7 +74,7 @@ title = "ब्रह्मविद्योपनिषत्"
 यस्मिन्विलीयते शब्दस्तत्परं ब्रह्म गीयते ।  
 धियं हि लीयते ब्रह्म सोऽमृतत्वाय कल्पते ॥ १३॥  
   
-वायुः प्राणस्तथाकाशस्त्रिविधो जीवसंज्ञकः ।  
+वायुः प्राणस्तथाकाशस्त्रिविधो जीवसञ्ज्ञकः ।  
 स जीवः प्राण इत्युक्तो वालाग्रशतकल्पितः ॥ १४॥  
   
 नाभिस्थाने स्थितं विश्वं शुद्धतत्त्वं सुनिर्मलम् ।  
@@ -193,7 +193,7 @@ title = "ब्रह्मविद्योपनिषत्"
 चोदको दर्शयेन्मार्गं बोधकः स्थानमाचरेत् ॥ ५२॥  
   
 मोक्षदस्तु परं तत्त्वं यज्ज्ञात्वा परमश्नुते ।  
-प्रत्यक्षयजनं देहे संक्षेपाच्छृणु गौतम ॥ ५३॥  
+प्रत्यक्षयजनं देहे सङ्क्षेपाच्छृणु गौतम ॥ ५३॥  
   
 तेनेष्ट्वा स नरो याति शाश्वतं पदमव्ययम् ।  
 स्वयमेव तु सम्पश्येद्देहे बिन्दुं च निष्कलम् ॥ ५४॥  
@@ -352,7 +352,7 @@ title = "ब्रह्मविद्योपनिषत्"
 सर्वभूतान्तरात्महमहमस्मि सनातनः ।  
 अहं सकृद्विभातोऽस्मि स्वे महिम्नि सदा स्थितः ॥ १०५॥  
   
-सर्वान्तरः स्वयंज्योतिः सर्वाधिपतिरस्म्यहम् ।  
+सर्वान्तरः स्वयञ्ज्योतिः सर्वाधिपतिरस्म्यहम् ।  
 सर्वभूताधिवासोऽहं सर्वव्यापी स्वराडहम् ॥ १०६॥  
   
 समस्तसाक्षी सर्वात्मा सर्वभूतगुहाशयः ।  

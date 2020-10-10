@@ -1,22 +1,22 @@
-+++
-"Text title" = "mangalanAyikAShTakam"
-"File name" = "mangalanAyikAShTakam.itx"
-itxtitle = "maNgalanAyikAShTakam (ambAmambujadhAriNIM)"
-engtitle = "mangalanAyikAShTakam"
-Category = "devii, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "G. Vasanth gsathyaarumugam at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Goddess Sri Mangalambal Temple is at Palamadai,Tirunelveli"
-"Latest update" = "November 19, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मण्गलनायिकाष्टकम् (अम्बामम्बुजधारिणीं)"
+---
+Category: devii, aShTaka, devI
+Description/comments: Goddess Sri Mangalambal Temple is at Palamadai,Tirunelveli
+File name: mangalanAyikAShTakam.itx
+Language: Sanskrit
+Latest update: November 19, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mangalanAyikAShTakam
+Transliterated by: G. Vasanth gsathyaarumugam at gmail.com
+engtitle: mangalanAyikAShTakam
+itxtitle: maNgalanAyikAShTakam (ambAmambujadhAriNIM)
+title: मण्गलनायिकाष्टकम् (अम्बामम्बुजधारिणीं)
 
-+++
+---
   
  श्रीमङ्गलनायिकाष्टकम्   
 अम्बामम्बुजधारिणीं सुरनुतामर्धेन्दुभूषोज्ज्वलां  

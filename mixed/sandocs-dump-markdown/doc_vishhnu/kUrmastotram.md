@@ -1,24 +1,24 @@
-+++
-"Text title" = "kUrmastotram"
-"File name" = "kUrmastotram.itx"
-itxtitle = "kUrmastotram"
-engtitle = "kUrmastotram"
-Category = "vishhnu, dashAvatAra, stotra, vyAsa, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Author = "Maharshi Vyas in Bhagavat Purana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, NA"
-Description-comments = "From Bhagavatapurana, 3.05.38-3.05.50"
-"Latest update" = "July 7, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कूर्मस्तोत्रम्"
+---
+Author: Maharshi Vyas in Bhagavat Purana
+Category: vishhnu, dashAvatAra, stotra, vyAsa, vishnu
+Description-comments: From Bhagavatapurana, 3.05.38-3.05.50
+File name: kUrmastotram.itx
+Language: Sanskrit
+Latest update: July 7, 2012
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kUrmastotram
+Texttype: stotra
+engtitle: kUrmastotram
+itxtitle: kUrmastotram
+title: कूर्मस्तोत्रम्
 
-+++
+---
   
  कूर्मस्तोत्रम्   
   
@@ -33,7 +33,7 @@ title = "कूर्मस्तोत्रम्"
 मार्गन्ति यत्ते मुखपद्मनीडैश्छन्दःसुपर्णैरृषयो विविक्ते ।  
 यस्याघमर्षोदसरिद्वरायाः पदं पदं तीर्थपदः प्रपन्नाः ॥ ३॥  
   
-यच्छ्रद्धया श्रुतवत्यां च भक्त्या संमृज्यमाने हृदयेऽवधाय ।  
+यच्छ्रद्धया श्रुतवत्यां च भक्त्या सम्मृज्यमाने हृदयेऽवधाय ।  
 ज्ञानेन वैराग्यबलेन धीरा व्रजेम तत्तेऽङ्घ्रिसरोजपीठम् ॥ ४॥  
   
 विश्वस्य जन्मस्थितिसंयमार्थे कृतावतारस्य पदाम्बुजं ते ।  

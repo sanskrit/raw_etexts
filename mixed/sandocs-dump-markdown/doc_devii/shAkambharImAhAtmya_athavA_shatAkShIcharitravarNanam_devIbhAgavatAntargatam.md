@@ -1,25 +1,25 @@
-+++
-"Text title" = "shAkambharI or shatAkShI mAhAtmya"
-"File name" = "shAkambharIshatAkShImAhAtmya.itx"
-itxtitle = "shAkambharImAhAtmya athavA shatAkShIcharitravarNanam (devIbhAgavatAntargatam)"
-engtitle = "shAkambharIshatAkShImAhAtmya"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran"
-"Description/comments" = "devIbhAgavata Mahapuran skandha 7 adhyAya 28"
-Indexextra = "(Text, Translation)"
-Acknowledge-Permission = "http://satsangdhara.net"
-"Latest update" = "August 4, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शाकम्भरीमाहात्म्य अथवा शताक्षीचरित्रवर्णनम् (देवीभागवतान्तर्गतम्)"
+---
+Acknowledge-Permission: http://satsangdhara.net
+Category: devii, dashamahAvidyA, devI
+Description/comments: devIbhAgavata Mahapuran skandha 7 adhyAya 28
+File name: shAkambharIshatAkShImAhAtmya.itx
+Indexextra: (Text, Translation)
+Language: Sanskrit
+Latest update: August 4, 2018
+Location: doc_devii
+Proofread by: Vishwas Bhide, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAkambharI or shatAkShI mAhAtmya
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com
+engtitle: shAkambharIshatAkShImAhAtmya
+itxtitle: shAkambharImAhAtmya athavA shatAkShIcharitravarNanam (devIbhAgavatAntargatam)
+title: शाकम्भरीमाहात्म्य अथवा शताक्षीचरित्रवर्णनम् (देवीभागवतान्तर्गतम्)
 
-+++
+---
   
  शाकम्भरीमाहात्म्य अथवा शताक्षीचरित्रवर्णनं   
 जनमेजय उवाच -  

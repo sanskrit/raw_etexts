@@ -1,22 +1,22 @@
-+++
-"Text title" = "Svarnakarshana Bhairava Stotram"
-"File name" = "svarNAkarShaNabhairavastotram.itx"
-itxtitle = "svarNAkarShaNabhairavastotram (rudrayAmalAntargatam)"
-engtitle = "svarNAkarShaNabhairavastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "From Durlabh Stotrani."
-Indexextra = "(Scan)"
-"Latest update" = "December 31, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वर्णाकर्षणभैरवस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: shiva
+Description/comments: From Durlabh Stotrani.
+File name: svarNAkarShaNabhairavastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 31, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Svarnakarshana Bhairava Stotram
+engtitle: svarNAkarShaNabhairavastotram
+itxtitle: svarNAkarShaNabhairavastotram (rudrayAmalAntargatam)
+title: स्वर्णाकर्षणभैरवस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  स्वर्णाकर्षणभैरवस्तोत्रम्   
 ॐ अस्य श्रीस्वर्णाकर्षणभैरवस्तोत्रं मन्त्रस्य बह्मऋषिः  

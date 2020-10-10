@@ -1,22 +1,22 @@
-+++
-"Text title" = "Mantramanasikasnana Stotram"
-"File name" = "mantramAnasikasnAnastotram.itx"
-itxtitle = "mantramAnasikasnAnastotraM"
-engtitle = "mantramAnasikasnAnastotraM"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मन्त्रमानसिकस्नानस्तोत्रं"
+---
+Category: devii, devI
+File name: mantramAnasikasnAnastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Mantramanasikasnana Stotram
+Transliterated by: PSA Easwaran
+engtitle: mantramAnasikasnAnastotraM
+itxtitle: mantramAnasikasnAnastotraM
+title: मन्त्रमानसिकस्नानस्तोत्रं
 
-+++
+---
   
  मन्त्रमानसिकस्नानस्तोत्रम्   
 सङ्कल्पम् ।  
@@ -40,7 +40,7 @@ title = "मन्त्रमानसिकस्नानस्तोत्�
 तत्पादपङ्कजाद्गङ्गां प्रवहन्तीं स्वमूर्धनि ।  
 चिन्तये ब्रह्मरन्ध्रेण प्रविशन्तीं स्वकां तनुम् ॥  
   
-तया संक्षालये देहं बाह्यमाभ्यन्तरं मलम् ।  
+तया सङ्क्षालये देहं बाह्यमाभ्यन्तरं मलम् ।  
 अन्तर्बहिश्च शुद्ध्यन्तं बाह्यमभ्यन्तराणि च ॥  
   
 मन्त्रम् ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "shrutigItA 2"
-"File name" = "shrutigItA2.itx"
-itxtitle = "shrutigItA 2 (vallabhAchAryavirachitA)"
-engtitle = "shrutigItA 2"
-Category = "giitaa, vishhnu, krishna, puShTimArgIya, gItA, vallabhaachaarya"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-SubDeity = "krishna"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रुतिगीता २ (वल्लभाचार्यविरचिता)"
+---
+Author: vallabhAchArya
+Category: giitaa, vishhnu, krishna, puShTimArgIya, gItA, vallabhaachaarya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: shrutigItA2.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_giitaa
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: shrutigItA 2
+engtitle: shrutigItA 2
+itxtitle: shrutigItA 2 (vallabhAchAryavirachitA)
+title: श्रुतिगीता २ (वल्लभाचार्यविरचिता)
 
-+++
+---
   
  श्रुतिगीता २   
   

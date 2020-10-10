@@ -3,7 +3,6 @@ title: 008 All demons eulogising their strengths
 title_english: 008 All demons eulogising their strengths
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-008-All_demons_eulogising_their_strengths.mp3"></div>
 
 ततो नील अम्बुद निभः प्रहस्तो नाम राक्षसः ।  
@@ -15,7 +14,7 @@ title_english: 008 All demons eulogising their strengths
 सर्वाम् सागर पर्यन्ताम् सशैल वन काननाम् ।  
 करोमि अवानराम् भूमिम् आज्ञापयतु माम् भवान् ॥ ६-८-४  
 रक्षाम् चैव विधास्यामि वानराद् रजनी चर ।  
-न आगमिष्यति ते दुह्खम् किंचिद् आत्म अपराधजम् ॥ ६-८-५  
+न आगमिष्यति ते दुह्खम् किञ्चिद् आत्म अपराधजम् ॥ ६-८-५  
 अब्रवीत्तम् सुसम्क्रुद्धो दुर्मुखो नाम राक्षसः ।  
 इदम् न क्षमणीयम् हि सर्वेषाम् नः प्रधर्षणम् ॥ ६-८-६  
 अयम् परिभवो भूयः पुरस्य अन्तः पुरस्य च ।  

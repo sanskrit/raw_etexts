@@ -1,23 +1,23 @@
-+++
-"Text title" = "kRiShNa aShTaka"
-"File name" = "brahmaanandakrishna8.itx"
-itxtitle = "kRiShNAShTakam 7 (brahmAnandavirachitam chaturmukhAdisa.nstutaM)"
-engtitle = "kRiShNa aShTaka"
-Category = "aShTaka, vishhnu, krishna, brahmAnanda, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Brahmananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "January 16, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णाष्टकम् ७ (ब्रह्मानन्दविरचितम् चतुर्मुखादिसंस्तुतं)"
+---
+Author: Brahmananda
+Category: aShTaka, vishhnu, krishna, brahmAnanda, vishnu
+File name: brahmaanandakrishna8.itx
+Language: Sanskrit
+Latest update: January 16, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRiShNa aShTaka
+Transliterated by: WebD
+engtitle: kRiShNa aShTaka
+itxtitle: kRiShNAShTakam 7 (brahmAnandavirachitam chaturmukhAdisa.nstutaM)
+title: कृइष्णाष्टकम् ७ (ब्रह्मानन्दविरचितम् चतुर्मुखादिसंस्तुतं)
 
-+++
+---
   
  श्रीकृष्णाष्टक ब्रह्मानन्दविरचितं   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "mantrarAjastotra brahmavaivarta purANAntargatam"
-"File name" = "mantrarAjastavaBVP.itx"
-itxtitle = "mantrarAjastotram athavA shivastotram (bANAsuraprokta< brahmavaivartapurANAntargatam)"
-engtitle = "Mantrarajastotra from Brahmavaivarta Purana"
-Category = "purana, stotra, shiva"
-Location = "doc_z_misc_general"
-Sublocation = "purana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "brahmavaivartapurANa brahmakhaNDaM adhyAya 19 shloka 55-80"
-"Latest update" = "January 25, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मन्त्रराजस्तोत्रम् अथवा शिवस्तोत्रम् (बाणासुरप्रोक्त< brahmavaivartapurANAntargatam)"
+---
+Category: purana, stotra, shiva
+Description-comments: brahmavaivartapurANa brahmakhaNDaM adhyAya 19 shloka 55-80
+File name: mantrarAjastavaBVP.itx
+Language: Sanskrit
+Latest update: January 25, 2013
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: purana
+Text title: mantrarAjastotra brahmavaivarta purANAntargatam
+Texttype: stotra
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Mantrarajastotra from Brahmavaivarta Purana
+itxtitle: mantrarAjastotram athavA shivastotram (bANAsuraprokta< brahmavaivartapurANAntargatam)
+title: मन्त्रराजस्तोत्रम् अथवा शिवस्तोत्रम् (बाणासुरप्रोक्त< brahmavaivartapurANAntargatam)
 
-+++
+---
   
  मन्त्रराजस्तोत्रं अथवा बाणकृतम् शिवस्तोत्रम्   
 ब्रह्मवैवर्त पुराणान्तर्गतम्  

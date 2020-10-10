@@ -1,22 +1,22 @@
-+++
-"Text title" = "naivedyanivedanamantrAH"
-"File name" = "naivedyanivedanamantrAH.itx"
-itxtitle = "naivedyanivedanamantrAH"
-engtitle = "naivedyanivedanamantrAH"
-Category = "misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Indexextra = "(Scan)"
-"Latest update" = "January 1, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नैवेद्यनिवेदनमन्त्राः"
+---
+Category: misc
+File name: naivedyanivedanamantrAH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 1, 2019
+Location: doc_z_misc_general
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: naivedyanivedanamantrAH
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: naivedyanivedanamantrAH
+itxtitle: naivedyanivedanamantrAH
+title: नैवेद्यनिवेदनमन्त्राः
 
-+++
+---
   
  नैवेद्यनिवेदनमन्त्राः   
 ततो नैवेद्यम् ।  

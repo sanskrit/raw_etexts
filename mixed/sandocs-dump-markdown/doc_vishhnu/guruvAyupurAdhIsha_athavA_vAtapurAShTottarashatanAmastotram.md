@@ -1,22 +1,22 @@
-+++
-"Text title" = "guruvAyupurAdhIshAShTottarashatanAmastotram"
-"File name" = "guruvAyupurAdhIshAShTottarashatanAmastotram.itx"
-itxtitle = "guruvAyupurAdhIsha athavA vAtapurAShTottarashatanAmastotram"
-engtitle = "guruvAyupurAdhIshAShTottarashatanAmastotram"
-Category = "vishhnu, krishna, aShTottarashatanAma"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Brahmasri Sengalipuram Anantharama Dikshitar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "December 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुवायुपुराधीश अथवा वातपुराष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Brahmasri Sengalipuram Anantharama Dikshitar
+Category: vishhnu, krishna, aShTottarashatanAma
+File name: guruvAyupurAdhIshAShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: December 2, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: guruvAyupurAdhIshAShTottarashatanAmastotram
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: guruvAyupurAdhIshAShTottarashatanAmastotram
+itxtitle: guruvAyupurAdhIsha athavA vAtapurAShTottarashatanAmastotram
+title: गुरुवायुपुराधीश अथवा वातपुराष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीगुरुवातपुराधीशाष्टोत्तरशतनामस्तोत्रम्   
   
@@ -102,7 +102,7 @@ title = "गुरुवायुपुराधीश अथवा वातप
 श्रद्धायुक्तः पठेन्नित्यं स्मरन् वातपुराधिपम् ।  
 तस्य देवो वासुदेवः सर्वार्थफलदो भवेत् ॥ २५॥  
   
-इति ब्रह्मश्री सेंगलीपुरं अनन्तरामदीक्षितविरचितं  
+इति ब्रह्मश्री सेङ्गलीपुरं अनन्तरामदीक्षितविरचितं  
 श्रीगुरुवातपुरीशाष्टोत्तरशतनामस्तोत्रं सम्पूर्णम् ॥  
   
   

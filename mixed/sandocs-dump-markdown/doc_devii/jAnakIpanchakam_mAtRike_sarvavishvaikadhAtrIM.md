@@ -1,22 +1,22 @@
-+++
-"Text title" = "jAnakIpanchakam"
-"File name" = "jAnakIpanchakam.itx"
-itxtitle = "jAnakIpanchakam (mAtRike sarvavishvaikadhAtrIM)"
-engtitle = "jAnakIpanchakam"
-Category = "panchaka, devii, sItA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sItA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Indexextra = "(Translation)"
-"Latest update" = "August 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जानकीपञ्चकम् (मातृइके सर्वविश्वैकधात्रीं)"
+---
+Category: panchaka, devii, sItA, devI
+File name: jAnakIpanchakam.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: August 2, 2017
+Location: doc_devii
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sItA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jAnakIpanchakam
+engtitle: jAnakIpanchakam
+itxtitle: jAnakIpanchakam (mAtRike sarvavishvaikadhAtrIM)
+title: जानकीपञ्चकम् (मातृइके सर्वविश्वैकधात्रीं)
 
-+++
+---
   
  जानकीपञ्चकम्   
   

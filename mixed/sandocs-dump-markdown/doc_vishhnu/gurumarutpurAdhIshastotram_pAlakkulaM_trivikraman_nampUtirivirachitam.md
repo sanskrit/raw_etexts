@@ -1,22 +1,22 @@
-+++
-"Text title" = "gurumarutpurAdhIshastotram"
-"File name" = "gurumarutpurAdhIshastotram.itx"
-itxtitle = "gurumarutpurAdhIshastotram (pAlakkulaM trivikraman nampUtirivirachitam)"
-engtitle = "gurumarutpurAdhIshastotram"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "pAlakkulaM trivikraman nampUtiri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "December 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुमरुत्पुराधीशस्तोत्रम् (पालक्कुलं त्रिविक्रमन् नम्पूतिरिविरचितम्)"
+---
+Author: pAlakkulaM trivikraman nampUtiri
+Category: vishhnu, krishna
+File name: gurumarutpurAdhIshastotram.itx
+Language: Sanskrit
+Latest update: December 2, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gurumarutpurAdhIshastotram
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: gurumarutpurAdhIshastotram
+itxtitle: gurumarutpurAdhIshastotram (pAlakkulaM trivikraman nampUtirivirachitam)
+title: गुरुमरुत्पुराधीशस्तोत्रम् (पालक्कुलं त्रिविक्रमन् नम्पूतिरिविरचितम्)
 
-+++
+---
   
  गुरुमरुत्पुराधीशस्तोत्रम्   
 गरुडवाहनं पुण्यदर्शनं  

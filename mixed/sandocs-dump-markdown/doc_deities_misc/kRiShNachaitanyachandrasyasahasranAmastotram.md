@@ -1,22 +1,22 @@
-+++
-"Text title" = "chaitanyasahasranaama sttora"
-"File name" = "chaitanyasahasra.itx"
-itxtitle = "kRiShNachaitanyachandrasyasahasranAmastotram"
-engtitle = "kRiShNachaitanyachandrasya sahasranAmastotram"
-Category = "sahasranAma, deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Author = "kavi karNapura"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail)"
-"Latest update" = "April 20, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णचैतन्यचन्द्रस्यसहस्रनामस्तोत्रम्"
+---
+Author: kavi karNapura
+Category: sahasranAma, deities_misc, stotra
+File name: chaitanyasahasra.itx
+Language: Sanskrit
+Latest update: April 20, 2002
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi (sunderh at hotmail)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: deities_misc
+Text title: chaitanyasahasranaama sttora
+Texttype: stotra
+engtitle: kRiShNachaitanyachandrasya sahasranAmastotram
+itxtitle: kRiShNachaitanyachandrasyasahasranAmastotram
+title: कृइष्णचैतन्यचन्द्रस्यसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीकृष्णचैतन्यचन्द्रस्यसहस्रनामस्तोत्रम्   
   
@@ -53,7 +53,7 @@ title = "कृइष्णचैतन्यचन्द्रस्यसह�
 वराङ्गश्चञ्चलो दक्षः प्रतापी साधुसङ्गतः ॥ ९॥  
   
 उन्मादी उन्मदो वीरो धीरग्राणी रसप्रियः ।  
-रक्ताम्बरो दण्डधरः संन्यासी यतिभूषणः ॥ १०॥  
+रक्ताम्बरो दण्डधरः सन्न्यासी यतिभूषणः ॥ १०॥  
   
 दण्डी छत्री चक्रपाणिः कृपालुः सर्वदर्शनः ।  
 निरायुधः सर्वशास्ता कलिदोषप्रनाशनः ॥ ११॥  

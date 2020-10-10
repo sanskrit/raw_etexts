@@ -1,23 +1,23 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 23"
-"File name" = "natya23.itx"
-itxtitle = "nATyashAstram adhyAyaH 23"
-engtitle = "Natya Shastra Chapter 23"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture/Dance/Drama"
-"Transliterated by" = "dpadmakar at hotmail.com"
-"Proofread by" = "dpadmakar at hotmail.com"
-"Latest update" = "January 29, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः २३"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya23.itx
+Language: Sanskrit
+Latest update: January 29, 2002
+Location: doc_z_misc_major_works
+Proofread by: dpadmakar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture/Dance/Drama
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 23
+Texttype: pramukha
+Transliterated by: dpadmakar at hotmail.com
+engtitle: Natya Shastra Chapter 23
+itxtitle: nATyashAstram adhyAyaH 23
+title: नाट्यशास्त्रम् अध्यायः २३
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः २३   
   

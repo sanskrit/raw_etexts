@@ -1,24 +1,24 @@
-+++
-"Text title" = "dainyAShTakam"
-"File name" = "dainyAShTakam.itx"
-itxtitle = "dainyAShTakam (haridAsavirachitam)"
-engtitle = "dainyAShTakam"
-Category = "aShTaka, vishhnu, krishna, vishnu, haridAsa, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "haridAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "May 17, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दैन्याष्टकम् (हरिदासविरचितम्)"
+---
+Author: haridAsa
+Category: aShTaka, vishhnu, krishna, vishnu, haridAsa, puShTimArgIya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: dainyAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: May 17, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dainyAShTakam
+engtitle: dainyAShTakam
+itxtitle: dainyAShTakam (haridAsavirachitam)
+title: दैन्याष्टकम् (हरिदासविरचितम्)
 
-+++
+---
   
  श्रीदैन्याष्टकम्   
   

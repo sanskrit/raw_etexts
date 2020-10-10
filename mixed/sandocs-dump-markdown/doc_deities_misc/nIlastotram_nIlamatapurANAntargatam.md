@@ -1,22 +1,22 @@
-+++
-"Text title" = "nIlastotram"
-"File name" = "nIlastotra.itx"
-itxtitle = "nIlastotram (nIlamatapurANAntargatam)"
-engtitle = "nIlastotram"
-Category = "deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-"Proofread by" = "Ankur Nagpal, NA"
-Source = "Nilamata Purana Verses 442-460"
-"Latest update" = "March 18, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नीलस्तोत्रम् (नीलमतपुराणान्तर्गतम्)"
+---
+Category: deities_misc
+File name: nIlastotra.itx
+Language: Sanskrit
+Latest update: March 18, 2016
+Location: doc_deities_misc
+Proofread by: Ankur Nagpal, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Nilamata Purana Verses 442-460
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: nIlastotram
+Transliterated by: Ankur Nagpal ankurnagpal108 at gmail.com
+engtitle: nIlastotram
+itxtitle: nIlastotram (nIlamatapurANAntargatam)
+title: नीलस्तोत्रम् (नीलमतपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीनीलस्तोत्रम्   
 ॥ अथ श्रीनीलस्तोत्रम् ॥  
@@ -52,7 +52,7 @@ title = "नीलस्तोत्रम् (नीलमतपुराणा
 त्वत्प्रकाशं यतो ब्रह्म निर्मलं निष्फलं परम् ।  
 सूक्श्मतो व्योमनिर्दिष्टं सर्वगात्रैरकृत्रिमम् ॥ १०॥  
   
-अकिंचनो वदान्यस्त्वमति सूक्श्मोऽसि च पृथुः ।  
+अकिञ्चनो वदान्यस्त्वमति सूक्श्मोऽसि च पृथुः ।  
 अर्थाश्रयो महार्थस्त्वं स्तव्यस्तस्याक्शरस्य च ॥ ११॥  
   
 कुद्रूः पुत्र सहस्रेण नागराजेन्द्रशोभिता ।  

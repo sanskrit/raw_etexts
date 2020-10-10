@@ -1,23 +1,23 @@
-+++
-"Text title" = "Gangakavacha 2"
-"File name" = "gangAkavacham2.itx"
-itxtitle = "gaNgAkavacham 2 (rudrayAmalAntargatam)"
-engtitle = "gaNgAkavacham 2"
-Category = "devii, nadI, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-"Proofread by" = "Anil Kumar Pandey anil.kumar17pandey at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "October 26, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाकवचम् २ (रुद्रयामलान्तर्गतम्)"
+---
+Category: devii, nadI, kavacha, devI
+File name: gangAkavacham2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: October 26, 2019
+Location: doc_devii
+Proofread by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gangakavacha 2
+Transliterated by: Anil Kumar Pandey anil.kumar17pandey at gmail.com
+engtitle: gaNgAkavacham 2
+itxtitle: gaNgAkavacham 2 (rudrayAmalAntargatam)
+title: गण्गाकवचम् २ (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  गङ्गाकवचम्   
 विप्र उवाच-  
@@ -44,7 +44,7 @@ title = "गण्गाकवचम् २ (रुद्रयामलान�
 नृहरेः श्यामराजो हि कालिकाद्याः प्रियंवद ।  
 दशविद्या विशेषेण षोडशी मन्त्रनायिका ॥ ६॥  
   
-दक्षिणामूर्तिसंज्ञोऽन्यो मन्त्रराजो धनाधिपः ।  
+दक्षिणामूर्तिसञ्ज्ञोऽन्यो मन्त्रराजो धनाधिपः ।  
 सहस्रार्जुनकस्यापि मन्त्रा येऽन्ये हनूमतः ॥ ७॥  
   
 किं बहूक्तेन गिरिश प्रेमयन्त्रितचेतसा ।  

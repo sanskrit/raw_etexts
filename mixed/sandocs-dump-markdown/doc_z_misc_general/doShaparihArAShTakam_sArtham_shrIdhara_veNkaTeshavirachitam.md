@@ -1,24 +1,24 @@
-+++
-"Text title" = "doShaparihaaraaShTakaM"
-"File name" = "doShaparihAra8.itx"
-itxtitle = "doShaparihArAShTakam sArtham (shrIdhara veNkaTeshavirachitam)"
-engtitle = "doShaparihArAShTakam"
-Category = "aShTaka, misc, stotra, shrIdhara-venkaTesha"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "stotra"
-Author = "Shridhara VenkaTesha, lived in Tamilnadu about 300 years ago"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian nbalubn at gmail.com"
-"Proofread by" = "N.Balasubramanian, PSA Easwaran psaeaswaran at gmail.com"
-"Translated by" = "N.Balasubramanian, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "July 9, 2003, August 19, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दोषपरिहाराष्टकम् सार्थम् (श्रीधर वेण्कटेशविरचितम्)"
+---
+Author: Shridhara VenkaTesha, lived in Tamilnadu about 300 years ago
+Category: aShTaka, misc, stotra, shrIdhara-venkaTesha
+File name: doShaparihAra8.itx
+Language: Sanskrit
+Latest update: July 9, 2003, August 19, 2018
+Location: doc_z_misc_general
+Proofread by: N.Balasubramanian, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: doShaparihaaraaShTakaM
+Texttype: stotra
+Translated by: N.Balasubramanian, PSA Easwaran psaeaswaran at gmail.com
+Transliterated by: N.Balasubramanian nbalubn at gmail.com
+engtitle: doShaparihArAShTakam
+itxtitle: doShaparihArAShTakam sArtham (shrIdhara veNkaTeshavirachitam)
+title: दोषपरिहाराष्टकम् सार्थम् (श्रीधर वेण्कटेशविरचितम्)
 
-+++
+---
   
  दोषपरिहाराष्टकम् सार्थम्   
 अन्यस्य दोषगणनाकुतुकं ममैतदाविष्करोति नियतं मयि दोषवत्त्वम् ।  

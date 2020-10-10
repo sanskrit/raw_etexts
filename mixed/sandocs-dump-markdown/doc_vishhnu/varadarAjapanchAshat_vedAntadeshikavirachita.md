@@ -1,24 +1,24 @@
-+++
-"Text title" = "varadarAjapanchAshat"
-"File name" = "varadarAjapanchAshat.itx"
-itxtitle = "varadarAjapanchAshat (vedAntadeshikavirachita)"
-engtitle = "varadarAjapanchAshat"
-Category = "vishhnu, panchAshata, vedAnta-deshika"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वरदराजपञ्चाशत् (वेदान्तदेशिकविरचित)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: vedAntadeshika
+Category: vishhnu, panchAshata, vedAnta-deshika
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: varadarAjapanchAshat.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: varadarAjapanchAshat
+engtitle: varadarAjapanchAshat
+itxtitle: varadarAjapanchAshat (vedAntadeshikavirachita)
+title: वरदराजपञ्चाशत् (वेदान्तदेशिकविरचित)
 
-+++
+---
   
  वरदराजपञ्चाशत्   
   

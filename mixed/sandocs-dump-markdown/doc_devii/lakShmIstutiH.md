@@ -1,24 +1,24 @@
-+++
-"Text title" = "lakShmIstutiH"
-"File name" = "lakShmIstutiH.itx"
-itxtitle = "lakShmIstutiH"
-engtitle = "lakShmIstutiH"
-Category = "devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीस्तुतिः"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: devii, lakShmI, devI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: lakShmIstutiH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmIstutiH
+engtitle: lakShmIstutiH
+itxtitle: lakShmIstutiH
+title: लक्ष्मीस्तुतिः
 
-+++
+---
   
  श्रीलक्ष्मीस्तुतिः   
   

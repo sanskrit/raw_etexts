@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAkambharI or vanashankarI prAtaH smaraNa stotram"
-"File name" = "shAkambharIprAtaHsmaraNastotram.itx"
-itxtitle = "shAkambharIprAtaHsmaraNastotram athavA vanashaNkarIprAtaHsmaraNastotram"
-engtitle = "Shakambhari Pratahsmarana"
-Category = "suprabhAta, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail"
-Indexextra = "(Audio-Video)"
-"Latest update" = "April 2, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शाकम्भरीप्रातःस्मरणस्तोत्रम् अथवा वनशण्करीप्रातःस्मरणस्तोत्रम्"
+---
+Category: suprabhAta, devii, dashamahAvidyA, devI
+File name: shAkambharIprAtaHsmaraNastotram.itx
+Indexextra: (Audio-Video)
+Language: Sanskrit
+Latest update: April 2, 2016
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAkambharI or vanashankarI prAtaH smaraNa stotram
+Transliterated by: Sunder Hattangadi sunderh at hotmail
+engtitle: Shakambhari Pratahsmarana
+itxtitle: shAkambharIprAtaHsmaraNastotram athavA vanashaNkarIprAtaHsmaraNastotram
+title: शाकम्भरीप्रातःस्मरणस्तोत्रम् अथवा वनशण्करीप्रातःस्मरणस्तोत्रम्
 
-+++
+---
   
  श्रीशाकम्भरीप्रातःस्मरणस्तोत्रम्   
    

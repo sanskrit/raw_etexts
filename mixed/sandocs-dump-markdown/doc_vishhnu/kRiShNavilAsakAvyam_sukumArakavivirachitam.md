@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRiShNavilAsakAvyam"
-"File name" = "shrIkRiShNavilAsakAvyam.itx"
-itxtitle = "kRiShNavilAsakAvyam (sukumArakavivirachitam)"
-engtitle = "kRiShNavilAsakAvyam by Sukumarakavi"
-Category = "vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "pramukha"
-Author = "sukumArakavi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NS Panicker in Malayalam http://sreekrishnavilasam.blogspot.in/"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "August 2, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णविलासकाव्यम् (सुकुमारकविविरचितम्)"
+---
+Author: sukumArakavi
+Category: vishhnu, krishna, vishnu
+File name: shrIkRiShNavilAsakAvyam.itx
+Language: Sanskrit
+Latest update: August 2, 2012
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRiShNavilAsakAvyam
+Texttype: pramukha
+Transliterated by: NS Panicker in Malayalam http://sreekrishnavilasam.blogspot.in/
+engtitle: kRiShNavilAsakAvyam by Sukumarakavi
+itxtitle: kRiShNavilAsakAvyam (sukumArakavivirachitam)
+title: कृइष्णविलासकाव्यम् (सुकुमारकविविरचितम्)
 
-+++
+---
   
  श्रीकृष्णविलासकाव्यम् सुकुमारकविविरचितम्   
   
@@ -609,7 +609,7 @@ title = "कृइष्णविलासकाव्यम् (सुकुम
 शिशुरस्ति ममापि रौहिणेयो भवदीये विषये विवर्धमानः ।  
 स च साधु निरीक्ष्य रक्षितव्यो वपुषा केवलमावयोर्हि भेदः ॥ ३-२४॥  
   
-इत्युक्त्वा गतवति देवकीसहाये संत्रस्तः कथमपि नीतरात्रिशेषः ।  
+इत्युक्त्वा गतवति देवकीसहाये सन्त्रस्तः कथमपि नीतरात्रिशेषः ।  
 आरोहत्युदयमहीधरस्य शृङ्गं तिग्मांशौ निजवसतिं प्रति प्रतस्थे ॥ ३-२५॥  
   
 सचकितमृगमण्डलानि कुर्वन् शकटशतध्वनिभिर्वनान्तराणि ।  
@@ -899,7 +899,7 @@ title = "कृइष्णविलासकाव्यम् (सुकुम
 गत्वा पुरस्ताद्गजराजगामी गोष्ठं गरिष्ठो गुणमण्डलेन ।  
 आपूरयन्मित्रगणागमार्थं पित्रोरभीष्टेन सहैव शृङ्गम् ॥ ४-०७॥  
   
-नभस्स्पृशा कर्णपथं गतेन तेनैव संज्ञागवलस्वनेन ।  
+नभस्स्पृशा कर्णपथं गतेन तेनैव सञ्ज्ञागवलस्वनेन ।  
 आदाय तत्तत्परिबर्हजातं सद्यो गृहेभ्यः सुहृदो निरीयुः ॥ ४-०८॥  
   
 गवां खुरन्याससमुद्भवेन विषाणसङ्घट्टनजन्मना च ।  
@@ -1022,7 +1022,7 @@ title = "कृइष्णविलासकाव्यम् (सुकुम
 विहृत्य कान्तारमहीषु वेगाद्व्रजन्नपः पुष्करिणीषु पातुम् ।  
 मार्गे करीन्द्रः करशीकरेण प्रियामसावुक्षति तापखिन्नाम् ॥ ४-४८॥  
   
-तप्तानि भासा तपनस्य हंसाः विहाय वारीणि नखंपचानि ।  
+तप्तानि भासा तपनस्य हंसाः विहाय वारीणि नखम्पचानि ।  
 पत्रेषु विन्यस्य पदानि मन्दं पद्माकरे सम्प्रति पर्यटन्ति ॥ ४-४९॥  
   
 निगूढमीनग्रहणाभिसन्धिं कृछ्रेण मुक्त्वा कपटासिकां स्वाम् ।  

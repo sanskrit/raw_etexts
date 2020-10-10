@@ -1,22 +1,22 @@
-+++
-"Text title" = "naTeshanavaratnamAlikA"
-"File name" = "naTeshanavaratnamAlikA.itx"
-itxtitle = "naTeshanavaratnamAlikA"
-engtitle = "naTeshanavaratnamAlikA"
-Category = "shiva, stotra, nava"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "December 10, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नटेशनवरत्नमालिका"
+---
+Category: shiva, stotra, nava
+File name: naTeshanavaratnamAlikA.itx
+Language: Sanskrit
+Latest update: December 10, 2008
+Location: doc_shiva
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: naTeshanavaratnamAlikA
+Texttype: stotra
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: naTeshanavaratnamAlikA
+itxtitle: naTeshanavaratnamAlikA
+title: नटेशनवरत्नमालिका
 
-+++
+---
   
  श्रीनटेशनवरत्नमालिका   
   
@@ -41,8 +41,8 @@ title = "नटेशनवरत्नमालिका"
      निष्पक्षपात भवतस्सम एव सर्वः ॥ ४॥  
   
 नन्दादयोऽपि नटराज पुरालभन्त  
-     भक्त्या पदांबुजयुगे तव बन्धमोकम् ।  
-देयाद्य सा न किमु मे करुणांबुराशे  
+     भक्त्या पदाम्बुजयुगे तव बन्धमोकम् ।  
+देयाद्य सा न किमु मे करुणाम्बुराशे  
      को वा मया व्यरचि तं वद तेऽपराधः ॥ ५॥  
   
 कस्मान्नटेश कुरुषे न कृपां मयि त्वं  
@@ -53,13 +53,13 @@ title = "नटेशनवरत्नमालिका"
 संसृत्युदन्वति नटेश सदाऽप्यगाधे  
      मग्नं न मां चिरमुदासितुमर्हसि त्वम् ।  
 यद्यप्यहं तव चकार बहून् हि मन्तून्  
-     शंभो तवाऽपि न हि तान् गणयान्तरङ्गे ॥ ७॥  
+     शम्भो तवाऽपि न हि तान् गणयान्तरङ्गे ॥ ७॥  
   
-दुःखांबुदौ पतितमीश समुद्धरैनं  
+दुःखाम्बुदौ पतितमीश समुद्धरैनं  
      नोचेच्छरण्य न हि मे क्षतिरस्ति कापि ।  
 भूयान्निमज्जनमकीर्तिपयोनिधौ ते  
      सर्वेश्वरस्य भवतो न हि युक्तमेतत् ॥ ८। ।  
-पादांबुजातयुगलं तव यो भजेत  
+पादाम्बुजातयुगलं तव यो भजेत  
      हन्ताधिरोहति हि तस्य ललाटमग्निः ।  
 वक्षस्थलं विषधरो विषमुत्तमाङ्गं  
      कण्ठञ्च पार्श्वभुजमस्य पिशाचवर्गाः ॥ ९॥  
@@ -69,7 +69,7 @@ title = "नटेशनवरत्नमालिका"
 त्वं चोरयस्यहह शोकमशेषमेषां  
      अन्यादृशी विलसतीश वदान्यता ते ॥ १०॥  
   
-सर्वेश्वरोऽपि नटराज दिगंबरस्त्वं  
+सर्वेश्वरोऽपि नटराज दिगम्बरस्त्वं  
      वाहो वृषस्तव गिरौ शयनं पिशाचाः ।  
 मित्राणि भूषणमहो भुजगश्च भस्म  
      भिक्षामटस्यपि च नृत्यसि नित्यमेव ॥ ११॥  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Mahadeva 11 Rudra Names"
-"File name" = "mahAdevAdyekAdasharudrAH.itx"
-itxtitle = "mahAdevAdyekAdasharudrAH"
-engtitle = "mahAdevAdyekAdasharudrAH"
-Category = "shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "July 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महादेवाद्येकादशरुद्राः"
+---
+Category: shiva, nAmAvalI
+File name: mahAdevAdyekAdasharudrAH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 17, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mahadeva 11 Rudra Names
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: mahAdevAdyekAdasharudrAH
+itxtitle: mahAdevAdyekAdasharudrAH
+title: महादेवाद्येकादशरुद्राः
 
-+++
+---
   
  महादेवाद्येकादशरुद्राः   
 महादेवाः शिवो (हरो) रुद्रः शङ्करो नीललोहितः ।  

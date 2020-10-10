@@ -1,22 +1,22 @@
-+++
-"Text title" = "One Thousand Sentences for Conversation in Sanskrit"
-"File name" = "daily.itx"
-itxtitle = "daily saMskRitasambhAShaNa vyAvahArika padakoshaH"
-engtitle = "daily converstation in Sanskrit"
-Category = "major_works, learnsanskrit"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "S. V. Ganesan and C. S. Raghavendra"
-"Proofread by" = "S. V. Ganesan and C. S. Raghavendra"
-Indexextra = "(Scan, Kannada and Sanskrit Parts 1, 3, 4)"
-"Latest update" = "April 10, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दैल्य् संस्कृइतसम्भाषण व्यावहारिक पदकोशः"
+---
+Category: major_works, learnsanskrit
+File name: daily.itx
+Indexextra: (Scan, Kannada and Sanskrit Parts 1, 3, 4)
+Language: Sanskrit
+Latest update: April 10, 2019
+Location: doc_z_misc_major_works
+Proofread by: S. V. Ganesan and C. S. Raghavendra
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: One Thousand Sentences for Conversation in Sanskrit
+Transliterated by: S. V. Ganesan and C. S. Raghavendra
+engtitle: daily converstation in Sanskrit
+itxtitle: daily saMskRitasambhAShaNa vyAvahArika padakoshaH
+title: दैल्य् संस्कृइतसम्भाषण व्यावहारिक पदकोशः
 
-+++
+---
   
  संस्कृत व्यवहार साहस्री   
        अनुक्रमणिका  =  Contents  
@@ -87,7 +87,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  अहम् अध्यापिका अस्मि  ।  =  I am a teacher.(fem.)  
  अधिकारी  = Officer;  
   उट्टङ्ककः  = Typist  
- तंत्रज्ञः  = Engineer;  
+ तन्त्रज्ञः  = Engineer;  
   प्राध्यापकः  = Professor  
  लिपिकः  = Clerk  
  न्यायवादी = lawyer  
@@ -165,7 +165,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  जानामि भोः ।  = I know it.  
  आम्, तत् सत्यम् ।  = Yes,that is right.  
  समीचीना सूचना ।  = A good suggestion indeed.  
- किंचित् एव ।  = A little.  
+ किञ्चित् एव ।  = A little.  
  किमर्थं तद् न भवति ?  = Why can't that be done ?  
  भवतु नाम ।  = Leave it at that.  
  ओहो ! तथा वा ?  = Oh! Is that so ?  
@@ -322,7 +322,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  पुनः कदा मिलति भवान् ?  = When are you going to meet me ? (again)  
  तद्दिने किमर्थं भवान् न आगतवान् ?  = Why didn't you come that day ?  
  वयं आगतवन्तः एव ।  = We have already arrived.  
- भवतः समीपे संभाषणीयं अस्ति ।  = I have something to talk to you about.  
+ भवतः समीपे सम्भाषणीयं अस्ति ।  = I have something to talk to you about.  
  भवान् अन्यथा गृहीतवान् ।  = You have mistaken me.  
  भवन्तं बहु प्रतीक्षितवान् ।  = I very much expected you.  
  बहुकालतः तस्य वार्ता एव नास्ति ।  = No news from him for days.  
@@ -345,7 +345,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  अत्र पत्रालयः कुत्र अस्ति ?  = Where is the post office, here ?  
  कियद्दूरे अस्ति ?  = How far is it ?  
  वित्तकोषः कियद्दूरे अस्ति ?  = How far is the bank ?  
- किमर्थं एवं त्वरा (संभ्रमः) ?  = Why so much of confusion ?  
+ किमर्थं एवं त्वरा (सम्भ्रमः) ?  = Why so much of confusion ?  
  इतोऽपि समयः अस्ति किल ?  = There is still time, isn't it ?  
  सर्वस्य अपि मितिः भवेत् ।  = There should be some limit for everything.  
  कियद् इति दातुं शक्यम् ?  = How much can I give him ?  
@@ -443,8 +443,8 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  कदा वा निर्गच्छति ? ।  = What time does it start ?  
  शीघ्रं अवतरतु ।  = Get off quickly.  
  अग्रिमं निस्थानं अस्माकं वा ? ।  = Is the next station ours ?  
- मल्लेश्वरयानस्य का संख्या ? ।  = Which bus (Route No.) goes to Malleswaram?  
- किंसंख्याकं यानं जयनगरं गच्छति ? ।  = Which bus goes to Jayanagar ?  
+ मल्लेश्वरयानस्य का सङ्ख्या ? ।  = Which bus (Route No.) goes to Malleswaram?  
+ किंसङ्ख्याकं यानं जयनगरं गच्छति ? ।  = Which bus goes to Jayanagar ?  
  फलकमपि नास्ति, किमपि नास्ति ।  = No signboard, nothing.  
  अये, पादपथे आगच्छतु ।  = Hey, walk on the footpath.  
  मल्लेश्वरं गन्तुं कः मार्गः ? ।  = Which is the way to Malleswaram ?  
@@ -476,7 +476,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  धनविषये जागरूको भवतु ।  = Be careful with your money.  
  ततः आगन्तुं एतावान् विलम्बः वा ? ।  = Such a long time to come here from there ?  
  एकं अपि यानं न आगतम् ।  = Not a single bus has come.  
- षष्टिसंख्याकं यानं गतं वा ? ।  = Has Route 60 bus  gone ?  
+ षष्टिसङ्ख्याकं यानं गतं वा ? ।  = Has Route 60 bus  gone ?  
  अहं इदानीं एव आगतवान् ।  = I have just arrived.  
  कीदृशः मार्गः अयम्  ! ।  = What a road !  
   
@@ -529,7 +529,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  अद्य तु विरामः ।  =  Today is a holiday, anyway.  
  भवतः वर्गशिक्षकः कः ?  =  Who is your class teacher ?  
  अद्य समवस्त्रेण गन्तव्यं वा ?  =  Do we have to go in our uniforms today ?  
- यावत् शालां गतवान् तावत् घंठा ताडिता ।  =  The bell went by the time I reached school.  
+ यावत् शालां गतवान् तावत् घण्ठा ताडिता ।  =  The bell went by the time I reached school.  
  श्रीमन्, अन्तः आगच्छामि वा ?  =  May I come in, sir ?  
  श्रीमन्, विशेषकक्ष्यां स्वीकरोति वा ?  =  Are you going to take a special class,sir ?  
  लेखनीं एकवारं ददाति वा ?  =  May I borrow your pen ?  
@@ -613,7 +613,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  मौल्यमापनार्थं गच्छति वा ?  = Are you going for valuation ?  
  मौल्यमापनं कुत्र ?  = Where is valuation going to be ?  
  अस्वस्थः अपि आगतवान् ।  = I am here in spite of being ill.  
- इदानींतन बालास्तु !  = The students of the present day !  
+ इदानीन्तन बालास्तु !  = The students of the present day !  
  अये अत्र आगच्छतु !  = Hey, come here.  
  गणितस्य अध्यापकः अस्ति वा पश्यतु ।  = See, if the mathematics teacher is there.  
  ते तु बालाः किल !  = After all they are students.  
@@ -693,7 +693,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  भवान् कति दिनानि विरामं स्वीकरोति ?  = How many days of leave are you taking ?  
  एषु दिनेषु महान् कार्यभारः ।  = Of late the weight of work is unbearable.  
  इमां सूचनाफलके स्थापयतु ।  = Put this up on the notice board.  
- अत्र हस्तांकनं करोतु ।  = Sigh here, please.  
+ अत्र हस्ताङ्कनं करोतु ।  = Sigh here, please.  
  सः विरामं स्वीकृतवान् ।  = He is on leave.  
  अस्मिन् विषये पुनः अपि चिन्तयामि ।  = I will think about this again.  
  आगामि सप्ताहे मां पश्यतु ।  = See me next week.  
@@ -792,7 +792,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  प्रतिष्ठानस्य कार्यालयः वा ?  = Is it the Pratishthana office ?  
  राजुमहोदयस्य गृहं वा ?  = Is it Mr. Rajus house ?  
  एषा षट् शून्य शून्य शून्य चत्वारि वा ?  = Is it 60004 ?  
- कः तत्र ? (कः संभाषणं करोति ?)  = Who is speaking, please ?  
+ कः तत्र ? (कः सम्भाषणं करोति ?)  = Who is speaking, please ?  
  अहं कृष्णः ।  = I am Krishna, speaking.  
  कः अपेक्षितः ?  = Whom do you want to speak to ?  
  कृष्णः गृहे अस्ति वा ?  = Is Mr. Krishna at home ?  
@@ -804,7 +804,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  सः श्वः आगच्छेत् ।  = He may be back, tomorrow.  
  अस्तु, श्वः पुनः दूरवाणीं करोमि ।  = O.K . I will ring him up again tomorrow.  
  किं, इदानीमपि न आगतवान् वा ?  = What ? Hasn't he come yet ?  
- तस्य दूरवाणी संख्या का ?  = What is his phone number ?  
+ तस्य दूरवाणी सङ्ख्या का ?  = What is his phone number ?  
  गृहे मिलेत् वा ?  = Will he be available at home ?  
  मद्रासतः इदानीमपि न आगतवान् ।  = Not yet returned from Madras.  
  अवश्यं सूचयामि ।  = Certainly I will inform him.  
@@ -1030,7 +1030,7 @@ Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
  शिरसि तैलसमुक्षणं करोतु ।  = Please apply oil to my head.  
  निद्रया आन्दोलनं करोति, पश्यतु ।  = See, he is dozing.  
  शिशुः रोदिति ।  = The child is crying.  
- संमार्जनं कृतवती वा ?  = Have you swept the floor ?  
+ सम्मार्जनं कृतवती वा ?  = Have you swept the floor ?  
  इदानीं अपि रङ्गवल्लीं न लिखितवती वा?  = Haven't you yet drawn designs  
     in front of the house ?  
  कतिवारं वक्तव्यम् ?  = How often should I tell you ?  

@@ -1,20 +1,20 @@
-+++
-"Text title" = "Rigveda shloka"
-"File name" = "samplerig.itx"
-itxtitle = "RigvedIya shlokAH"
-engtitle = "Selected verses from Rigveda"
-Category = "veda, svara, rigveda"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ऋइग्वेदीय श्लोकाः"
+---
+Category: veda, svara, rigveda
+File name: samplerig.itx
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_veda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: Rigveda shloka
+Texttype: svara
+engtitle: Selected verses from Rigveda
+itxtitle: RigvedIya shlokAH
+title: ऋइग्वेदीय श्लोकाः
 
-+++
+---
   
  ऋग्वेद श्लोक   
   
@@ -33,7 +33,7 @@ title = "ऋइग्वेदीय श्लोकाः"
 १०८९१५०४१ तन् नो वातो मयोभु वातु भेषजं तन् माता पृथिवी तत्पिता द्यौः ।  
 १०८९१५०४२ तद् ग्रावाणः सोमसुतो मयोभुवस्तदश्विना शृणुतं धिष्ण्या युवम् ॥  
   
-१०८९१५०५१ तमीशानं जगतस्तस्थुषस् पतिं धियंजिन्वमवसे हूमहे वयम् ।  
+१०८९१५०५१ तमीशानं जगतस्तस्थुषस् पतिं धियञ्जिन्वमवसे हूमहे वयम् ।  
 १०८९१५०५२ पूषा नो यथा वेदसामसद् वृधे रक्षिता पायुरदब्धः स्वस्तये ॥  
   
 १०८९१६०६१ स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पुषा विश्ववेदाः ।  

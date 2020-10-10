@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Hridayam 1"
-"File name" = "bAlAhRRidayam.itx"
-itxtitle = "bAlAhRidayam 1 (mahAdeva namastubhyaM)"
-engtitle = "bAlAhRidayam 1"
-Category = "devii, dashamahAvidyA, devI, hRidaya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाहृइदयम् १ (महादेव नमस्तुभ्यं)"
+---
+Category: devii, dashamahAvidyA, devI, hRidaya
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAhRRidayam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Hridayam 1
+engtitle: bAlAhRidayam 1
+itxtitle: bAlAhRidayam 1 (mahAdeva namastubhyaM)
+title: बालाहृइदयम् १ (महादेव नमस्तुभ्यं)
 
-+++
+---
   
  श्रीबालाहृदयम् १   
 श्रीपार्वयुत्युवाच-  

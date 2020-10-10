@@ -1,24 +1,24 @@
-+++
-"Text title" = "AtmasvarUpa from Maheshvaratantra"
-"File name" = "AtmasvarUpamAheshvaratantra.itx"
-itxtitle = "AtmasvarUpam (mAheshvaratantrAntargatam sArtham Atma kA svarUpa)"
-engtitle = "AtmasvarUpa from Maheshvaratantra"
-Category = "misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Yogesh K Sharma yosharma at gmail.com"
-"Proofread by" = "Yogesh K Sharma yosharma at gmail.com"
-"Translated by" = "Sudhakar Malaviya"
-"Description/comments" = "Maheshwara Tantra Jnanakhanda prathama paTalaM Verses 22-47"
-Indexextra = "(Scan)"
-"Latest update" = "May 27, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आत्मस्वरूपम् (माहेश्वरतन्त्रान्तर्गतम् सार्थम् आत्म का स्वरूप)"
+---
+Category: misc
+Description/comments: Maheshwara Tantra Jnanakhanda prathama paTalaM Verses 22-47
+File name: AtmasvarUpamAheshvaratantra.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 27, 2019
+Location: doc_z_misc_general
+Proofread by: Yogesh K Sharma yosharma at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: AtmasvarUpa from Maheshvaratantra
+Translated by: Sudhakar Malaviya
+Transliterated by: Yogesh K Sharma yosharma at gmail.com
+engtitle: AtmasvarUpa from Maheshvaratantra
+itxtitle: AtmasvarUpam (mAheshvaratantrAntargatam sArtham Atma kA svarUpa)
+title: आत्मस्वरूपम् (माहेश्वरतन्त्रान्तर्गतम् सार्थम् आत्म का स्वरूप)
 
-+++
+---
   
  आत्मस्वरूपज्ञान   
 माहेश्वरतन्त्रे ज्ञानखण्डे आत्मस्वरूपज्ञान  
@@ -39,14 +39,14 @@ title = "आत्मस्वरूपम् (माहेश्वरतन्
 अहं ममेत्यसद्भावो विस्मृतिर्दु:खदर्शनम् ।  
 नानाधर्मानुरागश्च कर्मणां च फलेषणा ॥ २॥  
   
-``यह मेरा है'' ``यह मैं हूँ'' - इस प्रकार अहंत्व बुद्धि का  
+``यह मेरा है'' ``यह मैं हूँ'' - इस प्रकार अहन्त्व बुद्धि का  
 न होना या उसकी विस्मृति अत्यन्त कठिन है । नाना प्रकारके धर्मों और  
-कार्योंमें अनुराग तथा फलकी इच्छा का त्याग अत्यन्त कठिन है ॥ २ ॥  
+कार्योम्में अनुराग तथा फलकी इच्छा का त्याग अत्यन्त कठिन है ॥ २ ॥  
   
-बन्धमोक्षविभागश्च जडदेहाद्यहंकृतिः ।  
+बन्धमोक्षविभागश्च जडदेहाद्यहङ्कृतिः ।  
 तावदीश्वरभावः स्यात्पाषाणप्रतिमादिषु ॥ ३॥  
   
-बन्धन और विमुक्त (आत्मा) का विभाग तथा जड़ देहमें अहंत्व बुद्धि न  
+बन्धन और विमुक्त (आत्मा) का विभाग तथा जड़ देहमें अहन्त्व बुद्धि न  
 होने पर ही पाषाणकी प्रतिमा आदिमें ईश्वर भावकी उत्पत्ति होती है ॥ ३ ॥  
   
 जलादौ तीर्थभावश्च यावदज्ञानमुल्लसेत् ।  
@@ -78,7 +78,7 @@ title = "आत्मस्वरूपम् (माहेश्वरतन्
   
 सनकाद्याश्च मुनयो ब्रह्मपुत्राश्च मानसाः ॥ ८॥  
   
-वही यक्ष और राक्षस, सिद्ध चारण या किन्नर (मनुष्य और देवोंके  
+वही यक्ष और राक्षस, सिद्ध चारण या किन्नर (मनुष्य और देवोङ्के  
 बीचकी योनि विशेष) भी है । वही ( आत्मा ) सनकादि ऋषि है और ब्रह्माके  
 (नारदादि) मानस पुत्र भी वही है ॥ ८ ॥  
   
@@ -95,7 +95,7 @@ title = "आत्मस्वरूपम् (माहेश्वरतन्
 तथाक्षरे परे ब्रह्मण्याभाति सकलं जगत् ।  
 मोहने केनचिद्देवि मोहनाशे तु शाङ्करि ॥ ११॥  
   
-हे प्रिये ! जैसे अज्ञानके कारण सीपीमें चांदी का भान होता है और हे  
+हे प्रिये ! जैसे अज्ञानके कारण सीपीमें चान्दी का भान होता है और हे  
 देवि ! उसी रजत का ज्ञान होने पर उसीमें उसका विलय (भी) हो जाता है ।  
 उसी प्रकार अक्षर रूप परब्रह्ममें सम्पूर्ण जगत् का भान होता है ।  
 अतः हे देवि ! मोह का कारण जगत् है और मोह रूप अज्ञानके विनष्ट  
@@ -128,14 +128,14 @@ title = "आत्मस्वरूपम् (माहेश्वरतन्
 चतुर्विंशतितत्त्वोत्थं सत्यमित्येव रूपितम् ॥ १५॥  
   
 इस प्रकार ज्ञानके पुनः विस्मृत हो जाने से मोहके कारण समस्त  
-चराचर जगत् (अहंकार आदि) चौबीस तत्त्वों से प्रादुर्भूत हो (जाता  
+चराचर जगत् (अहङ्कार आदि) चौबीस तत्त्वों से प्रादुर्भूत हो (जाता  
 है जो) सत्यके समान ही लगता है ॥ १५ ॥  
   
 तत्र जाता इमे लोकाश्चतुर्दश महेश्वरि ।  
-अधः सप्त तथा चोर्ध्वमेवं संख्याश्चतुर्दश ॥ १६॥  
+अधः सप्त तथा चोर्ध्वमेवं सङ्ख्याश्चतुर्दश ॥ १६॥  
   
 हे महेश्वरि ! उसमें ये चौदह लोक प्रादुर्भूत होते हैं । जो सात  
-नीचे और सात ऊपरके क्रम से संख्यामें चौदह हैं ॥ १६ ॥  
+नीचे और सात ऊपरके क्रम से सङ्ख्यामें चौदह हैं ॥ १६ ॥  
   
 अतलं वितलं चैवं सुतलं च तलातलम् ।  
 रसातलं च पातालं भूर्भुवः स्वस्तथोपरि ॥ १७॥  
@@ -152,7 +152,7 @@ title = "आत्मस्वरूपम् (माहेश्वरतन्
 मोहशान्तौ भविष्यन्ति सर्वे ब्रह्ममया इमे ।  
 यावत्सर्पमयी भ्रान्ती रज्जौ तावद्भयं प्रिये ॥ १९॥  
   
-मोह रूप अज्ञानके नष्ट हो जाने पर ये सभी ब्रह्ममय होंगे । हे प्रिये  
+मोह रूप अज्ञानके नष्ट हो जाने पर ये सभी ब्रह्ममय होङ्गे । हे प्रिये  
 ! वस्तुतः (मृत्यु से) भय तभी तक रहता है जब तक कि रस्सीमें  
 सर्पकी भ्रान्ति (सन्देह) हो रही हो ॥ १९ ॥  
   

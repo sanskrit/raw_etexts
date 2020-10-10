@@ -1,23 +1,23 @@
-+++
-"Text title" = "kAlidAsaaH jane jane"
-"File name" = "kAlidAsaHjanejane.itx"
-itxtitle = "kAlidAsaH jane jane"
-engtitle = "kAlidAsaHjanejane"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1, 2)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालिदासः जने जने"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: kAlidAsaHjanejane.itx
+Indexextra: (Wiki, Videos 1, 2)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: kAlidAsaaH jane jane
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: kAlidAsaHjanejane
+itxtitle: kAlidAsaH jane jane
+title: कालिदासः जने जने
 
-+++
+---
   
  कालिदासः जने जने   
 कालिदासः जने जने  

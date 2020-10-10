@@ -1,22 +1,23 @@
-+++
-"Text title" = "shivabhaktikalpalatikAstotram"
-"File name" = "shivabhaktikalpalatikAstotram.itx"
-itxtitle = "shivabhaktikalpalatikAstotram (shrIdharaveNkaTesha virachitam)"
-engtitle = "shivabhaktikalpalatikAstotram"
-Category = "shiva, shrIdhara-venkaTesha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "abhinavanRisiMhabhAratIsvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "February 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवभक्तिकल्पलतिकास्तोत्रम् (श्रीधरवेण्कटेश विरचितम्)"
+---
+Author: abhinavanRisiMhabhAratIsvAmi
+Category: shiva, shrIdhara-venkaTesha
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: shivabhaktikalpalatikAstotram.itx
+Language: Sanskrit
+Latest update: February 28, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivabhaktikalpalatikAstotram
+engtitle: shivabhaktikalpalatikAstotram
+itxtitle: shivabhaktikalpalatikAstotram (shrIdharaveNkaTesha virachitam)
+title: शिवभक्तिकल्पलतिकास्तोत्रम् (श्रीधरवेण्कटेश विरचितम्)
 
-+++
+---
   
  शिवभक्तिकल्पलतिकास्तोत्रम्   
 श्रीगणेशाय नमः ॥  

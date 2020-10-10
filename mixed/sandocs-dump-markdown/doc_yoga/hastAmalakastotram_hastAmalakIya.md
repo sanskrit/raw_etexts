@@ -1,23 +1,23 @@
-+++
-"Text title" = "hastaamalaka stotram"
-"File name" = "hastaam.itx"
-itxtitle = "hastAmalakastotram (hastAmalakIya)"
-engtitle = "hastAmalaka stotram"
-Category = "vedanta, yoga"
-Location = "doc_yoga"
-Sublocation = "yoga"
-Author = "Hastamalaka"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "P. P. Narayanaswami at swami at math.mun.ca"
-"Proofread by" = "P. P. Narayanaswami, Avinash Sathaye sohum at ms.uky.edu"
-Indexextra = "(Translations 1, 2, Hindi)"
-"Latest update" = "June 03, 2007, June 30, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हस्तामलकस्तोत्रम् (हस्तामलकीय)"
+---
+Author: Hastamalaka
+Category: vedanta, yoga
+File name: hastaam.itx
+Indexextra: (Translations 1, 2, Hindi)
+Language: Sanskrit
+Latest update: June 03, 2007, June 30, 2016
+Location: doc_yoga
+Proofread by: P. P. Narayanaswami, Avinash Sathaye sohum at ms.uky.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: yoga
+Text title: hastaamalaka stotram
+Transliterated by: P. P. Narayanaswami at swami at math.mun.ca
+engtitle: hastAmalaka stotram
+itxtitle: hastAmalakastotram (hastAmalakIya)
+title: हस्तामलकस्तोत्रम् (हस्तामलकीय)
 
-+++
+---
   
  हस्तामलकस्तोत्रम्   
 (इन्द्रवज्रा छन्द -)  

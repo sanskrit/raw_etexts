@@ -1,24 +1,24 @@
-+++
-"Text title" = "dattAtreyavarmastotram"
-"File name" = "dattAtreyavarmastotramVS.itx"
-itxtitle = "dattAtreyavarmastotram advaitam (vAsudevAnandasarasvatIvirachitam)"
-engtitle = "dattAtreyavarmastotram"
-Category = "dattatreya, deities_misc, vAsudevAnanda-sarasvatI, vedanta"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "vAsudevAnandasarasvatI TembesvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "From stotrAdisangraha"
-Indexextra = "(stotrAdisangraha, Author)"
-"Latest update" = "December 31, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयवर्मस्तोत्रम् अद्वैतम् (वासुदेवानन्दसरस्वतीविरचितम्)"
+---
+Author: vAsudevAnandasarasvatI TembesvAmi
+Category: dattatreya, deities_misc, vAsudevAnanda-sarasvatI, vedanta
+Description-comments: From stotrAdisangraha
+File name: dattAtreyavarmastotramVS.itx
+Indexextra: (stotrAdisangraha, Author)
+Language: Sanskrit
+Latest update: December 31, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattAtreyavarmastotram
+engtitle: dattAtreyavarmastotram
+itxtitle: dattAtreyavarmastotram advaitam (vAsudevAnandasarasvatIvirachitam)
+title: दत्तात्रेयवर्मस्तोत्रम् अद्वैतम् (वासुदेवानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  अद्वैतं दत्तात्रेयवर्मस्तोत्रं   
 ध्यात्वा भक्ताभयकरं समष्टिव्यष्टिचालकम् ।  

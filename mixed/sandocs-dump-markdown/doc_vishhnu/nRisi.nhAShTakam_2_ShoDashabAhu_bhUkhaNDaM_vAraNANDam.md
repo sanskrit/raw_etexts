@@ -1,27 +1,27 @@
-+++
-"Text title" = "nrisimhAShTakam 2 ShoDashabAhu"
-"File name" = "nrisimhAShTakam2.itx"
-itxtitle = "nRisi.nhAShTakam 2 (ShoDashabAhu bhUkhaNDaM vAraNANDam)"
-engtitle = "nRisi.nhAShTakam 2"
-Category = "aShTaka, vishhnu, dashAvatAra, ShoDasha, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "Shri Ajaya Vijayindrayati Tirthara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(Videos 1, 2)"
-"Latest update" = "December 31, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहाष्टकम् २ (षोडशबाहु भूखण्डं वारणाण्डम्)"
+---
+Author: Shri Ajaya Vijayindrayati Tirthara
+Category: aShTaka, vishhnu, dashAvatAra, ShoDasha, vishnu
+File name: nrisimhAShTakam2.itx
+Indexextra: (Videos 1, 2)
+Language: Sanskrit
+Latest update: December 31, 2016
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nrisimhAShTakam 2 ShoDashabAhu
+Transliterated by: NA
+engtitle: nRisi.nhAShTakam 2
+itxtitle: nRisi.nhAShTakam 2 (ShoDashabAhu bhUkhaNDaM vAraNANDam)
+title: नृइसिंहाष्टकम् २ (षोडशबाहु भूखण्डं वारणाण्डम्)
 
-+++
+---
   
  श्रीषोडशबाहुनृसिंहाष्टकम्   
-भूखण्डं वारणाण्डं परवरविरटं डंपडंपोरुडंपं  
+भूखण्डं वारणाण्डं परवरविरटं डम्पडम्पोरुडम्पं  
 डिं डिं डिं डिं  डिडिम्बं दहमपि दहमैः झम्पझम्पैश्चझम्पैः ।  
 तुल्यास्तुल्यास्तु तुल्याः धुमधुमधुमकैः कुङ्कुमाङ्कैः कुमाङ्कैः  
 एतत्ते पूर्णयुक्तमहरहकरहः पातु मां नारसिंहः ॥ १॥  

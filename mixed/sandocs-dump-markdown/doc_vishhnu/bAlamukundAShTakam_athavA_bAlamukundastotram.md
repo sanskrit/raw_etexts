@@ -1,23 +1,23 @@
-+++
-"Text title" = "bAlamukundAShTakaM"
-"File name" = "baalamukunda8.itx"
-itxtitle = "bAlamukundAShTakam athavA bAlamukundastotram"
-engtitle = "bAlamukundAShTakam"
-Category = "aShTaka, vishhnu, krishna, vishnu, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "Religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Latest update" = "January 19, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालमुकुन्दाष्टकम् अथवा बालमुकुन्दस्तोत्रम्"
+---
+Author: Traditional
+Category: aShTaka, vishhnu, krishna, vishnu, puShTimArgIya
+File name: baalamukunda8.itx
+Language: Sanskrit
+Latest update: January 19, 2002
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: Religion
+Sublocation: vishhnu
+Text title: bAlamukundAShTakaM
+Transliterated by: NA
+engtitle: bAlamukundAShTakam
+itxtitle: bAlamukundAShTakam athavA bAlamukundastotram
+title: बालमुकुन्दाष्टकम् अथवा बालमुकुन्दस्तोत्रम्
 
-+++
+---
   
  बालमुकुन्दाष्टकं   
   
@@ -31,7 +31,7 @@ title = "बालमुकुन्दाष्टकम् अथवा बा
 सन्तानकल्पद्रुममाश्रितानां बालं मुकुन्दं मनसा स्मरामि ॥ ३॥  
   
 लम्बालकं लम्बितहारयष्टिं शृङ्गारलीलाङ्कितदन्तपङ्क्तिम् ।  
-बिंबाधरं चारुविशालनेत्रं बालं मुकुन्दं मनसा स्मरामि ॥ ४॥  
+बिम्बाधरं चारुविशालनेत्रं बालं मुकुन्दं मनसा स्मरामि ॥ ४॥  
   
 शिक्ये निधायाद्यपयोदधीनि बहिर्गतायां व्रजनायिकायाम् ।  
 भुक्त्वा यथेष्टं कपटेन सुप्तं बालं मुकुन्दं मनसा स्मरामि ॥ ५॥  

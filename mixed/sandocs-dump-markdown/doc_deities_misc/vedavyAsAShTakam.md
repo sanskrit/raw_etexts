@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Veda Vyasa Ashtakam"
-"File name" = "vyasa-8.itx"
-itxtitle = "vedavyAsAShTakam"
-engtitle = "Shri Veda VyasAShTakam"
-Category = "aShTaka, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "?"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "Homage to Veda Vyasa"
-"Latest update" = "August 25, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेदव्यासाष्टकम्"
+---
+Author: '?'
+Category: aShTaka, deities_misc
+Description-comments: Homage to Veda Vyasa
+File name: vyasa-8.itx
+Language: Sanskrit
+Latest update: August 25, 2007
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: deities_misc
+Text title: Shri Veda Vyasa Ashtakam
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Shri Veda VyasAShTakam
+itxtitle: vedavyAsAShTakam
+title: वेदव्यासाष्टकम्
 
-+++
+---
   
  श्रीवेदव्यासाष्टकम्   
   

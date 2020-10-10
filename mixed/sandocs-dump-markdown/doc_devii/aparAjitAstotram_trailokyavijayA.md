@@ -1,25 +1,26 @@
-+++
-"Text title" = "aparAjitAstotra"
-"File name" = "aparAjitAstotra.itx"
-itxtitle = "aparAjitAstotram trailokyavijayA"
-engtitle = "aparAjitA stotra"
-Category = "devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal, PSA Easwaran psaeaswaran at gmail.com, rama prakasha ramaprakashak at gmail.com"
-Description-comments = "https://archive.org/details/HindiBook-danikPrarthnastrotaKavach"
-Indexextra = "(meaning)"
-"Latest update" = "July 19, 2013, October 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अपराजितास्तोत्रम् त्रैलोक्यविजया"
+---
+Category: devii, durgA, stotra, devI
+Description-comments: https://archive.org/details/HindiBook-danikPrarthnastrotaKavach
+File name: aparAjitAstotra.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: July 19, 2013, October 6, 2018
+Location: doc_devii
+Proofread by: Dinesh Agarwal, PSA Easwaran psaeaswaran at gmail.com, rama prakasha
+  ramaprakashak at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: aparAjitAstotra
+Texttype: stotra
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: aparAjitA stotra
+itxtitle: aparAjitAstotram trailokyavijayA
+title: अपराजितास्तोत्रम् त्रैलोक्यविजया
 
-+++
+---
   
  अपराजितास्तोत्रम्   
   

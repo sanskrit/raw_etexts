@@ -1,24 +1,24 @@
-+++
-"Text title" = "Queen Madalasa's Lullaby"
-"File name" = "ullApanagItam.itx"
-itxtitle = "madAlasopakhyAnam"
-engtitle = "Queen Madalasa's Lullaby"
-Category = "gItam, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "Markandeya Purana Traditionally attributed to Vyasa Maharshi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail"
-Source = "Markandeya Purana, Ch. 25 (ch. 23 in some edns.)"
-Indexextra = "(Markandeya Purana, Ch. 25)"
-"Latest update" = "December 6, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मदालसोपख्यानम्"
+---
+Author: Markandeya Purana Traditionally attributed to Vyasa Maharshi
+Category: gItam, giitaa
+File name: ullApanagItam.itx
+Indexextra: (Markandeya Purana, Ch. 25)
+Language: Sanskrit
+Latest update: December 6, 2015
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi sunderh at hotmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Markandeya Purana, Ch. 25 (ch. 23 in some edns.)
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: Queen Madalasa's Lullaby
+Transliterated by: Sunder Hattangadi sunderh at hotmail
+engtitle: Queen Madalasa's Lullaby
+itxtitle: madAlasopakhyAnam
+title: मदालसोपख्यानम्
 
-+++
+---
   
  उल्लापनगीतम्   
 मदालसोपाख्यान - बालोल्लापनगीतम्  

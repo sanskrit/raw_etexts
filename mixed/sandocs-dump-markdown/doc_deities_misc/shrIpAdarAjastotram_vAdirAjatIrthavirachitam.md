@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Shripadaraja Stotram"
-"File name" = "shrIpAdarAjastotram.itx"
-itxtitle = "shrIpAdarAjastotram (vAdirAjatIrthavirachitam)"
-engtitle = "shrIpAdarAjastotram"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "vAdirAjatIrtha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-"Description/comments" = "PanchayatistutiH"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "C Narayanarao"
-"Latest update" = "June 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "श्रीपादराजस्तोत्रम् (वादिराजतीर्थविरचितम्)"
+---
+Acknowledge-Permission: C Narayanarao
+Author: vAdirAjatIrtha
+Category: deities_misc, gurudev
+Description/comments: PanchayatistutiH
+File name: shrIpAdarAjastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Shripadaraja Stotram
+Transliterated by: Krishnananda Achar
+engtitle: shrIpAdarAjastotram
+itxtitle: shrIpAdarAjastotram (vAdirAjatIrthavirachitam)
+title: श्रीपादराजस्तोत्रम् (वादिराजतीर्थविरचितम्)
 
-+++
+---
   
  श्रीश्रीपादराजस्तोत्रम्   
 अश्वधाटी  

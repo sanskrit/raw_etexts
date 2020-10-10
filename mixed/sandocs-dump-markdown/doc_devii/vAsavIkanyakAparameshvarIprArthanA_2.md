@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shri Vasavi Kanyaka Parameshvari Prarthana 2"
-"File name" = "vAsavIkanyakAparameshvarIprArthanA2.itx"
-itxtitle = "vAsavIkanyakAparameshvarIprArthanA 2"
-engtitle = "vAsavIkanyakAparameshvarIprArthanA 2"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Rajeshwari Govindaraj"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Rajeshwari Govindaraj"
-"Description/comments" = "From \"vAsavIdevI darshanam\" granthasamarpaNam"
-"Latest update" = "June 15, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकापरमेश्वरीप्रार्थना २"
+---
+Author: Rajeshwari Govindaraj
+Category: devii, devI
+Description/comments: From "vAsavIdevI darshanam" granthasamarpaNam
+File name: vAsavIkanyakAparameshvarIprArthanA2.itx
+Language: Sanskrit
+Latest update: June 15, 2019
+Location: doc_devii
+Proofread by: Rajeshwari Govindaraj
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Vasavi Kanyaka Parameshvari Prarthana 2
+engtitle: vAsavIkanyakAparameshvarIprArthanA 2
+itxtitle: vAsavIkanyakAparameshvarIprArthanA 2
+title: वासवीकन्यकापरमेश्वरीप्रार्थना २
 
-+++
+---
   
  श्रीमद्वासवीकन्यकापरमेश्वरि प्रार्थना   
 ॐ श्रीमद्वासवीकन्यकापरमेश्वरि जननी त्वमेव ।  
@@ -27,7 +27,7 @@ title = "वासवीकन्यकापरमेश्वरीप्र�
 पञ्चाश्चर्ययुक्त लीलाविभूतिरागिणि अहमस्मि त्वदेव ॥ ५  
 षड्दर्शनसागरमथननिरत ऋषिजननि सर्वमिदं तवैव ॥ ६  
 सप्तमातृका दैत्य समरक्रीडा प्रोल्लासिनि शरणोस्मि त्वय्यैव ॥ ७  
-अष्टधा प्रकृतिमय सर्गचक्र संचालिनि । हे सर्वजीव त्राते ॥ ८  
+अष्टधा प्रकृतिमय सर्गचक्र सञ्चालिनि । हे सर्वजीव त्राते ॥ ८  
 नवरत्न खचित किरीट केयूरधारिणी । हे विश्वमाते ॥ ९  
 दशविध नादश्रवण कामप्रपूरिणी । हे ज्ञानदाते ! ॥ १०  
 अर्पितमस्तु ग्रन्थमिदं तव पावनचरण कमलाभ्यां अर्पितमस्तु ।  

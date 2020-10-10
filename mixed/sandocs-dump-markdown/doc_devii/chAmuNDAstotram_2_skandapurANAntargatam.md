@@ -1,23 +1,23 @@
-+++
-"Text title" = "Chamunda Stotram 2"
-"File name" = "chAmuNDAstotram2.itx"
-itxtitle = "chAmuNDAstotram 2 (skandapurANAntargatam)"
-engtitle = "chAmuNDAstotram 2"
-Category = "devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Description/comments" = "shrIskAnde nAgarakhaNDe"
-"Latest update" = "February 18, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चामुण्डास्तोत्रम् २ (स्कन्दपुराणान्तर्गतम्)"
+---
+Category: devii, durgA, devI
+Description/comments: shrIskAnde nAgarakhaNDe
+File name: chAmuNDAstotram2.itx
+Language: Sanskrit
+Latest update: February 18, 2019
+Location: doc_devii
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Chamunda Stotram 2
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: chAmuNDAstotram 2
+itxtitle: chAmuNDAstotram 2 (skandapurANAntargatam)
+title: चामुण्डास्तोत्रम् २ (स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीचामुण्डास्तोत्रम् २  
 श्रीगणेशाय नमः ।  

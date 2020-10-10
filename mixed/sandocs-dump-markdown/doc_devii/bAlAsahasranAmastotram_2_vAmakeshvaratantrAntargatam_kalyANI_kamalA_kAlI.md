@@ -1,24 +1,24 @@
-+++
-"Text title" = "Bala Sahasranama Stotram 2"
-"File name" = "bAlAsahasranAmastotram2.itx"
-itxtitle = "bAlAsahasranAmastotram 2 (vAmakeshvaratantrAntargatam kalyANI kamalA kAlI)"
-engtitle = "bAlAsahasranAmastotram 2"
-Category = "sahasranAmAvalI, devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "from Balasaparya, vAmakeshvaratantra"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "August 19, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालासहस्रनामस्तोत्रम् २ (वामकेश्वरतन्त्रान्तर्गतम् कल्याणी कमला काली)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAmAvalI, devii, devI, dashamahAvidyA
+Description/comments: from Balasaparya, vAmakeshvaratantra
+File name: bAlAsahasranAmastotram2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 19, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Bala Sahasranama Stotram 2
+engtitle: bAlAsahasranAmastotram 2
+itxtitle: bAlAsahasranAmastotram 2 (vAmakeshvaratantrAntargatam kalyANI kamalA kAlI)
+title: बालासहस्रनामस्तोत्रम् २ (वामकेश्वरतन्त्रान्तर्गतम् कल्याणी कमला काली)
 
-+++
+---
   
  श्रीबालासहस्रनामस्तोत्रम् २   
 शौनक उवाच -  
@@ -553,7 +553,7 @@ title = "बालासहस्रनामस्तोत्रम् २ (�
 गुर्विणी लभते पुत्रं कन्या विन्दति सत्पतिम् ।  
 मूर्खेऽपि लभते शास्त्रं चौरोऽपि लभते गतिम् ॥ १७५॥  
   
-सक्रांन्तावमावास्यायामष्टम्यां भौमवासरे ।  
+सक्रान्न्तावमावास्यायामष्टम्यां भौमवासरे ।  
 पठेद्वा पाठयेद्वापि शृणुयाद्वा समाहितः ॥ १७६॥  
   
 पौर्णमास्यां चतुर्दश्यां नवम्यां च विशेषतः ।  

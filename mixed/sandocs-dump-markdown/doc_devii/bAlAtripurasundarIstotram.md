@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIbAlAtripurasundarIstotram"
-"File name" = "bAlAtripurasundarIstotram.itx"
-itxtitle = "bAlAtripurasundarIstotram"
-engtitle = "bAlAtripurasundarIstotram"
-Category = "devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pankaj Dubey dr.pankaj.dubey at gmail.com"
-"Proofread by" = "Pankaj Dubey dr.pankaj.dubey at gmail.com"
-Description-comments = "rudrayAmale bhairava-bhairavI saMvAde"
-Indexextra = "(Hindi)"
-"Latest update" = "April 15, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालात्रिपुरसुन्दरीस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, stotra, devI
+Description-comments: rudrayAmale bhairava-bhairavI saMvAde
+File name: bAlAtripurasundarIstotram.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: April 15, 2015
+Location: doc_devii
+Proofread by: Pankaj Dubey dr.pankaj.dubey at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIbAlAtripurasundarIstotram
+Texttype: stotra
+Transliterated by: Pankaj Dubey dr.pankaj.dubey at gmail.com
+engtitle: bAlAtripurasundarIstotram
+itxtitle: bAlAtripurasundarIstotram
+title: बालात्रिपुरसुन्दरीस्तोत्रम्
 
-+++
+---
   
  श्रीबालात्रिपुरसुन्दरीस्तोत्रम्   
   ॥ श्री बालात्रिपुरसुन्दर्यै नमः ॥  

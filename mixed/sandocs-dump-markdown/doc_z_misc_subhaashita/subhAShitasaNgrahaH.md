@@ -1,21 +1,21 @@
-+++
-"Text title" = "subhaashhita saNgraha"
-"File name" = "subhash.itx"
-itxtitle = "subhAShitasaNgrahaH"
-engtitle = "Collection of subhAShita and translation"
-Category = "subhAShita, subhaashita, sangraha"
-Location = "doc_z_misc_subhaashita"
-Sublocation = "subhaashita"
-Language = "Sanskrit"
-Subject = "philosophy"
-Description-comments = "Various"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुभाषितसण्ग्रहः"
+---
+Category: subhAShita, subhaashita, sangraha
+Description-comments: Various
+File name: subhash.itx
+Language: Sanskrit
+Location: doc_z_misc_subhaashita
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy
+Sublocation: subhaashita
+Text title: subhaashhita saNgraha
+engtitle: Collection of subhAShita and translation
+itxtitle: subhAShitasaNgrahaH
+title: सुभाषितसण्ग्रहः
 
-+++
+---
   
- सुभाषित संग्रह   
+ सुभाषित सङ्ग्रह   
   
   
  Introduction:    
@@ -34,9 +34,9 @@ have eight letters in it . (There are some more restrictions
 Another example is ``shArdUla-vikrIDita'' , e.g . :    
   
 खिन्नं चापि सुभाषितेन रमते स्वीयं मनः सर्वदा  
-श्रुत्वान्यस्य सुभाषितं खलु मनः श्रोतुं पुनर्वांछति ।  
+श्रुत्वान्यस्य सुभाषितं खलु मनः श्रोतुं पुनर्वाञ्छति ।  
 अज्ञान ज्ञानवतोऽप्यनेनहि वशिकर्तुं समर्थो भवेत्  
-कर्तव्यो हि सुभाषितस्य मनुजैः आवश्यकः संग्रहः ॥  
+कर्तव्यो हि सुभाषितस्य मनुजैः आवश्यकः सङ्ग्रहः ॥  
   
   
 Here the rhythm pattern is obviously different.  
@@ -92,7 +92,7 @@ long and short syllables) are, in no particular order:
 स्मृतीनां सर्वस्वं सुकृतमथमूर्तं सुमनसाम्  
 सुधासौन्दर्यं ते सलिलमशिवं नः शमयतु ॥  
   
-                         --गंगालहरी  
+                         --गङ्गालहरी  
           मन्दाक्रान्ता  
 कश्चित्कान्ताविरहगुरूण स्वाधिकारात्प्रमत्तः  
 शापेनास्तण्गमितमहिमा वर्शभोग्येण भर्तुः ।  
@@ -107,7 +107,7 @@ long and short syllables) are, in no particular order:
 सुप्तोत्थितां मदनविव्हलसालसाङ्गीं  
 विद्यां प्रमादगलितांइव चिन्तयामि ॥  
   
-                         --चौरपंचाशिक  
+                         --चौरपञ्चाशिक  
           स्रग्धरा  
   
 चुम्बन्तो गण्डाभित्तीरलकवतिमुखे सीत्कृतान्या दधाना  
@@ -115,7 +115,7 @@ long and short syllables) are, in no particular order:
 ऊरूनाकम्पयन्तः पृथुजघनतटांस्रंसयन्तोंशुकानि  
 व्यक्तं कान्ताजनानां विटचरितकृतिः शैशिराः वान्ति वाताः ॥  
   
-                         --शृंगारषतक (भर्तृहरी)  
+                         --शृङ्गारषतक (भर्तृहरी)  
           हरिणी  
   
 गणयति गुणग्रामं भामं भ्रमादपि नेहते  
@@ -135,7 +135,7 @@ long and short syllables) are, in no particular order:
   
   
   
-        ॥ सुभाषिताणि संग्रहाणि ॥  
+        ॥ सुभाषिताणि सङ्ग्रहाणि ॥  
   
 वज्रात् अपि कठोराणि मृदूनि कुसुमात् अपि ।  
 लोकोत्तराणां चेतांसि कः नु विज्ञातुम् अर्हति ॥  ॥  
@@ -145,8 +145,8 @@ Harder than the vajra (and) softer than the flower
 Who indeed deserves to (or is able to ) understand the  
 hearts of great people ?  
   
-अतिपरिचयात् अवज्ञा संततगमनात् अनादरः भवति ।  
-मलये भिल्लपुरंध्री चंदनतरुकाष्ठम् इंधनं कुरुते ॥  ॥  
+अतिपरिचयात् अवज्ञा सन्ततगमनात् अनादरः भवति ।  
+मलये भिल्लपुरन्ध्री चन्दनतरुकाष्ठम् इन्धनं कुरुते ॥  ॥  
   
   
 Excessive familiarity breeds contempt, Visiting someone  
@@ -154,11 +154,11 @@ too often causes disrespect.
 The wife of a bhilla (adivasi clan) on the malaya mountain  
 uses the log of a sandalwood tree as fuel  
   
-दौर्मंत्र्यात् नृपतिः विनश्यति, यतिः संगात्,  
+दौर्मन्त्र्यात् नृपतिः विनश्यति, यतिः सङ्गात्,  
 सुतः लालनात्, विप्रः अनध्ययनात्, कुलं कुतनयात्,  
 शीलं खलोपासनात् ।  
 हीः मद्यात्, अनवेक्षणात् अपि कृषिः,  
-स्नेहः प्रवासाश्रयात्, मंत्री च अप्रणयात्,  
+स्नेहः प्रवासाश्रयात्, मन्त्री च अप्रणयात्,  
 समृद्धिः अनयात्, त्यागात् प्रमादात् धनम् ॥  ॥  
   
   
@@ -178,7 +178,7 @@ and money thru sacrifice and enjoyment.
      solitude as much as posible  
  (2) Really implies excessive separation  
   
-अपि स्वर्णमयी लंका न मे लक्ष्मण रोचते ।  
+अपि स्वर्णमयी लङ्का न मे लक्ष्मण रोचते ।  
 जननी जन्मभूमिः च स्वर्गात् अपि गरीयसी ॥  ॥  
   
   
@@ -213,9 +213,9 @@ The root of this or that tree - ground with something or
 the other given to someone or the other will cause either  
 this or that  
   
-नागो भाति मदेन, कं जलरिहैः, पूर्णेंदुना शर्वरी  
-शीलेन प्रमदा, जवेन तुरगः, नित्योत्सवैः मंदिरम् ।  
-वाणी व्याकरणेन, हंसमिथुनैः वापी, सभा पंडितैः  
+नागो भाति मदेन, कं जलरिहैः, पूर्णेन्दुना शर्वरी  
+शीलेन प्रमदा, जवेन तुरगः, नित्योत्सवैः मन्दिरम् ।  
+वाणी व्याकरणेन, हंसमिथुनैः वापी, सभा पण्डितैः  
 सत्पुत्रेण कुलं, नृपेण वसुधा, लोकत्रयं विष्णुना ॥  ॥  
   
   
@@ -268,7 +268,7 @@ during fame, and addiction to knowledge - all
 these come naturally to great people.  
   
 शैले शैले न माणिक्यं मौक्तिकं न गजे गजे ।  
-सुजनाः न हि सर्वत्र चंदनं न वने वने ॥  ॥  
+सुजनाः न हि सर्वत्र चन्दनं न वने वने ॥  ॥  
   
   
 precious stones cannot be found on every mountain  
@@ -282,8 +282,8 @@ elephant is adorned with pearls . Not every forest
 is blessed with sandal trees, and good people are  
 not to be found everywhere.  
   
-उत्सवे व्यसने च एव दुर्भिक्षे शत्रुसंकटे ।  
-राजद्वारे श्मशाने च यः तिष्ठति सः बांधवः ॥  ॥  
+उत्सवे व्यसने च एव दुर्भिक्षे शत्रुसङ्कटे ।  
+राजद्वारे श्मशाने च यः तिष्ठति सः बान्धवः ॥  ॥  
   
   
 In a festival as well as in calamity, in a famine and  
@@ -303,7 +303,7 @@ court or in the cremation ground.
         man who keeps with you through all  
         is true homey, brother, pal.  
   
-शतेषू जायते शूरः सहस्रेषु च पंडितः ।  
+शतेषू जायते शूरः सहस्रेषु च पण्डितः ।  
 वक्ता दशसहस्रेषु दाता भवति वा न वा ॥  ॥  
   
   
@@ -325,7 +325,7 @@ Income as well as expenditure give pain - Fie on Money ! -
 which is the cause of hardship.  
   
 येषां बाहुबलं न अस्ति येषां न अस्ति मनोबलम् ।  
-तेषां चंद्रबलं देवः किं करोति अम्बरे स्थितम् ॥  ॥  
+तेषां चन्द्रबलं देवः किं करोति अम्बरे स्थितम् ॥  ॥  
   
   
 Those who do not have armstrength (physical strength)  
@@ -337,8 +337,8 @@ moon's strength do to them being resident in the sky ?
        what on earth can moon-effect  
        do from high-up sky?  
   
-पात्रे त्यागी, गुणे रागी, संविभागी च बंधुषु ।  
-शास्त्रे बोद्धा, रणे योद्धा, पुरुषः पंचलक्षणः ॥  ॥  
+पात्रे त्यागी, गुणे रागी, संविभागी च बन्धुषु ।  
+शास्त्रे बोद्धा, रणे योद्धा, पुरुषः पञ्चलक्षणः ॥  ॥  
   
   
 Sacrificing (giving) at a deserving place, recognizing  
@@ -347,7 +347,7 @@ knowledgable in the sciences, a warrior in
 wars are The five qualities of ( a good man).  
   
 क्षणे रुष्टाः, क्षणे तुष्टाः रुष्टाः तुष्टाः क्षणे क्षणे ।  
-अव्यवस्थितचित्तानां प्रसादः अपि भयंकरः ॥  ॥  
+अव्यवस्थितचित्तानां प्रसादः अपि भयङ्करः ॥  ॥  
   
   
 Angry one moment and content another . changing moods  
@@ -389,7 +389,7 @@ the great man simply performs without talking.
        no malinger,  
        never preach.  
   
-व्रते विवादं, विमतिं विवेके, सत्ये अतिशंकां, विनये विकारम् ।  
+व्रते विवादं, विमतिं विवेके, सत्ये अतिशङ्कां, विनये विकारम् ।  
 गुणे अवमानं, कुशले निषेधं, धर्मे विरोधं न करोति साधुः ॥  ॥  
   
   
@@ -482,10 +482,10 @@ and whose poisonous.
         life is flowing on,  
         but is it coke or is it pepsi?  
   
-केयुराः न विचूषयन्ति पुरुषं, हाराः न चंद्रोज्ज्वलाः  
-न स्नानं, न विलेपनं, न कुसुमं, न अलंकृता मूर्धजाः ।  
-वाणी एका समलंकरोति पुरुषं, या संस्कृता धार्यते  
-क्षीयंते खलु भूषणानि सततं वाग्भूषणं भूषणम् ॥  ॥  
+केयुराः न विचूषयन्ति पुरुषं, हाराः न चन्द्रोज्ज्वलाः  
+न स्नानं, न विलेपनं, न कुसुमं, न अलङ्कृता मूर्धजाः ।  
+वाणी एका समलङ्करोति पुरुषं, या संस्कृता धार्यते  
+क्षीयन्ते खलु भूषणानि सततं वाग्भूषणं भूषणम् ॥  ॥  
   
   
 Peacock feathers are not the true adornment of man,  
@@ -505,7 +505,7 @@ accomplishments and money's worth is enhanced by
 spending it.  
   
 अनर्घम् अपि माणिक्यम् हेमाश्रयम् अपेक्षते ।  
-विना आश्रयं न शोभन्ते पंडिताः वनिताः लताः ॥  ॥  
+विना आश्रयं न शोभन्ते पण्डिताः वनिताः लताः ॥  ॥  
   
   
 Even priceless gems look for the refuge of gold  
@@ -541,7 +541,7 @@ Greetings (namastubhyam) to the doctor (vaidyarAja)
 who is the friend (brother?) of yama . While yama only takes  
 life, vaidyarAj takes life and wealth too!  
   
-अमंत्रम् अक्षरं नास्ति नास्ति मूलम् अनौषधम् ।  
+अमन्त्रम् अक्षरं नास्ति नास्ति मूलम् अनौषधम् ।  
 अयोग्यः पुरुषः नास्ति योजकः तत्र दुर्लभः ॥  ॥  
   
   
@@ -551,7 +551,7 @@ life, vaidyarAj takes life and wealth too!
         Good MBA find use for all of those.  
   
 अनित्यानि शरीराणि विभवः नैव शाश्वतः ।  
-नित्यं संनिहितः मृत्युः कर्तव्यः धर्मसंग्रहः ॥  ॥  
+नित्यं सन्निहितः मृत्युः कर्तव्यः धर्मसङ्ग्रहः ॥  ॥  
   
   
        Immortal soul  
@@ -578,7 +578,7 @@ plays of young women, he must be either an
 enlightened sage, or an (unfeeling) animal.  
   
 उपक्रमोपसंहारो अभ्यासेऽपूर्वता फलम् ।  
-अर्थवादोपपत्ती च लिंगं तात्पर्यनिर्णये ॥  ॥  
+अर्थवादोपपत्ती च लिङ्गं तात्पर्यनिर्णये ॥  ॥  
   
  (regarding evaluating and understanding any  
 book or article)   
@@ -593,13 +593,13 @@ both animals and humans; what is special about men
 is their consciousness of Dharma - a man without  
 the feeling of Dharma is comparable to an animal.  
   
-कस्यैकांतं सुखमुपनतं दुःखमेकान्ततो वा ।  
+कस्यैकान्तं सुखमुपनतं दुःखमेकान्ततो वा ।  
 नीचैर्गच्छत्युपति च दशा चक्रनेमिक्रमेण ॥  ॥  
   
   
   
-चतुरंग बलो राजा जगतीं वशमानयेत् ।  
-अहं पंचांग बलवानाकाशं वशमानये ॥  ॥  
+चतुरङ्ग बलो राजा जगतीं वशमानयेत् ।  
+अहं पञ्चाङ्ग बलवानाकाशं वशमानये ॥  ॥  
   
   
   
@@ -623,9 +623,9 @@ two significant utterrings:
 serving others is a good deed, and it is a sin  
 to inflict pain onto others.  
   
-स्वच्छंदं दलदर्विंदम्  
-ते मरंदं विंदंतो विदधतु ते मिलिंदाः ।  
-आमोदानथ हरिदंतराणि नेतुम्  
+स्वच्छन्दं दलदर्विन्दम्  
+ते मरन्दं विन्दन्तो विदधतु ते मिलिन्दाः ।  
+आमोदानथ हरिदन्तराणि नेतुम्  
 नैवान्यो जगति समीरणात् प्रवीणः ॥  ॥  
   
   
@@ -635,8 +635,8 @@ your *NECTAR* but to take your fragrance
 in all directions there is none more  
 capable than the wind.  
   
-आशाणां मनुष्याणां काचिदाश्चर्य शृंखला ।  
-बद्धा यया प्रधावंति मुक्तास्तिश्ठंति पंगुवत ॥  ॥  
+आशाणां मनुष्याणां काचिदाश्चर्य शृङ्खला ।  
+बद्धा यया प्रधावन्ति मुक्तास्तिश्ठन्ति पङ्गुवत ॥  ॥  
   
   
 Hope is an amazing bonding chain of man.  
@@ -653,7 +653,7 @@ where as those of great souls display one pointedness.
   
 विद्या नाम नरस्य रूपमधिकं प्रच्छन्नगुप्तं धनम्  
 विद्या भोगकरी यशःसुखकरी विद्या गुरुणां गुरुः ।  
-विद्या बंधुजनो विदेशगमने विद्या परं दैवतम्  
+विद्या बन्धुजनो विदेशगमने विद्या परं दैवतम्  
 विद्या राजसु पूज्यते न तु धनं विद्याविहीनः पशुः ॥  ॥  
   
   
@@ -718,7 +718,7 @@ so say poets but it is false.
 When the distress (heat) is directed at another body  
 the kind person('s heart) melts, but butter does not.  
   
-लालयेत् पंचवर्षाणि दशवर्शाणि ताडयेत् ।  
+लालयेत् पञ्चवर्षाणि दशवर्शाणि ताडयेत् ।  
 प्राप्तेषु षोडषे वर्षे पुत्रे मित्रवदाचरेत् ॥  ॥  
   
   

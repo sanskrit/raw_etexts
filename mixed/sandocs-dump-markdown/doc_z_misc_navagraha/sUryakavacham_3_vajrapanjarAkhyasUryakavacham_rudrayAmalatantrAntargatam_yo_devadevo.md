@@ -1,23 +1,24 @@
-+++
-"Text title" = "suuryakavacha 3"
-"File name" = "suuryakavach.itx"
-itxtitle = "sUryakavacham 3 vajrapanjarAkhyasUryakavacham (rudrayAmalatantrAntargatam yo devadevo)"
-engtitle = "Sun kavacha 3"
-Category = "kavacha, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mike Magee mike.magee at theregister.co.uk"
-"Proofread by" = "Mike Magee mike.magee at theregister.co.uk"
-Indexextra = "(Scan)"
-"Latest update" = "August 23, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यकवचम् ३ वज्रपञ्जराख्यसूर्यकवचम् (रुद्रयामलतन्त्रान्तर्गतम् यो देवदेवो)"
+---
+Author: Traditional
+Category: kavacha, navagraha
+File name: suuryakavach.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 23, 2000
+Location: doc_z_misc_navagraha
+Proofread by: Mike Magee mike.magee at theregister.co.uk
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: suuryakavacha 3
+Transliterated by: Mike Magee mike.magee at theregister.co.uk
+engtitle: Sun kavacha 3
+itxtitle: sUryakavacham 3 vajrapanjarAkhyasUryakavacham (rudrayAmalatantrAntargatam
+  yo devadevo)
+title: सूर्यकवचम् ३ वज्रपञ्जराख्यसूर्यकवचम् (रुद्रयामलतन्त्रान्तर्गतम् यो देवदेवो)
 
-+++
+---
   
  सूर्यकवच   
 वज्रपञ्जराख्यसूर्यकवचम् ।  
@@ -108,10 +109,10 @@ title = "सूर्यकवचम् ३ वज्रपञ्जराख्
   
 ओं ओं ओं उत ओंउॐ ह स म यः सूरोऽवतान्मां भयाद्।  
 ह्रां ह्रीं ह्रुं हहहा हसौः हसहसौः हंसोऽवतात् सर्वतः।  
-सः सः सः सससा नृपाद्वनचराच्चौराद्रणात् संकटात्।  
+सः सः सः सससा नृपाद्वनचराच्चौराद्रणात् सङ्कटात्।  
 पायान्मां कुलनायकोऽपि सविता ओं ह्रीं ह सौः सर्वदा ॥ २९॥  
   
-द्रां द्रीं द्रूं दधनं तथा च तरणिर्भांभैर्भयाद् भास्करो  
+द्रां द्रीं द्रूं दधनं तथा च तरणिर्भाम्भैर्भयाद् भास्करो  
 रां रीं रूं रुरुरूं रविर्ज्वरभयात् कुष्ठाच्च शूलामयात्।  
 अं अं आं विविवीं महामयभयं मां पातु मार्तण्डको  
 मूलव्याप्ततनुः सदावतु परं हंसः सहस्रांशुमान् ॥ ३०॥  

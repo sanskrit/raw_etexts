@@ -1,24 +1,24 @@
-+++
-"Text title" = "sajayati jagati"
-"File name" = "sajayatijagati.itx"
-itxtitle = "sajayati jagati"
-engtitle = "sajayati jagati"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "manjunAthasharmA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सजयति जगति"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: manjunAthasharmA
+Category: misc, sanskritgeet
+File name: sajayatijagati.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: sajayati jagati
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: sajayati jagati
+itxtitle: sajayati jagati
+title: सजयति जगति
 
-+++
+---
   
  स जयति जगति   
 स जयति जगति सनातनधर्मः  

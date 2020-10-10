@@ -1,24 +1,24 @@
-+++
-"Text title" = "Peddapuram LakshmiyoganArasimhasvami Suprabhatam"
-"File name" = "peddApuramlakShmIyoganArasiMhasvAmisuprabhAtam.itx"
-itxtitle = "peddApuramlakShmIyoganArasiMhasvAmisuprabhAtam (koriDe vishvanAthasharmaNAvirachitam)"
-engtitle = "peddApuramlakShmIyoganArasiMhasvAmisuprabhAtam"
-Category = "vishhnu, koriDevishvanAthasharmA, suprabhAta"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "koriDe vishvanAthasharmA, dharmapurI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "koriDe vishvanAthasharmA"
-"Proofread by" = "koriDe vishvanAthasharmA"
-Indexextra = "(blog)"
-Acknowledge-Permission = "Koride Vishwanatha Sharma"
-"Latest update" = "February 19, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पेद्दापुरम्लक्ष्मीयोगनारसिंहस्वामिसुप्रभातम् (कोरिडे विश्वनाथशर्मणाविरचितम्)"
+---
+Acknowledge-Permission: Koride Vishwanatha Sharma
+Author: koriDe vishvanAthasharmA, dharmapurI
+Category: vishhnu, koriDevishvanAthasharmA, suprabhAta
+File name: peddApuramlakShmIyoganArasiMhasvAmisuprabhAtam.itx
+Indexextra: (blog)
+Language: Sanskrit
+Latest update: February 19, 2018
+Location: doc_vishhnu
+Proofread by: koriDe vishvanAthasharmA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Peddapuram LakshmiyoganArasimhasvami Suprabhatam
+Transliterated by: koriDe vishvanAthasharmA
+engtitle: peddApuramlakShmIyoganArasiMhasvAmisuprabhAtam
+itxtitle: peddApuramlakShmIyoganArasiMhasvAmisuprabhAtam (koriDe vishvanAthasharmaNAvirachitam)
+title: पेद्दापुरम्लक्ष्मीयोगनारसिंहस्वामिसुप्रभातम् (कोरिडे विश्वनाथशर्मणाविरचितम्)
 
-+++
+---
   
  श्रीमद्पेद्दापुरं लक्ष्मीयोगनारसिंहस्वामि सुप्रभातम्   
 ॐ गँ गणपतये नमः ॥  

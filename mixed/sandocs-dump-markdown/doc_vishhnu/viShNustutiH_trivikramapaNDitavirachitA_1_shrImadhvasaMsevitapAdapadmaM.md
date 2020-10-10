@@ -1,22 +1,22 @@
-+++
-"Text title" = "Vishnustuti"
-"File name" = "viShNustuti.itx"
-itxtitle = "viShNustutiH (trivikramapaNDitavirachitA 1 shrImadhvasaMsevitapAdapadmaM)"
-engtitle = "Vishnustuti"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Trivikrama Panditacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तुतिः (त्रिविक्रमपण्डितविरचिता १ श्रीमध्वसंसेवितपादपद्मं)"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Author: Trivikrama Panditacharya
+Category: vishhnu
+File name: viShNustuti.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Vishnustuti
+engtitle: Vishnustuti
+itxtitle: viShNustutiH (trivikramapaNDitavirachitA 1 shrImadhvasaMsevitapAdapadmaM)
+title: विष्णुस्तुतिः (त्रिविक्रमपण्डितविरचिता १ श्रीमध्वसंसेवितपादपद्मं)
 
-+++
+---
   
  श्रीविष्णुस्तुतिः   
 श्रीमध्वसंसेवितपादपद्मं रुद्रादिदेवैः परिसेव्यमानम् ।  

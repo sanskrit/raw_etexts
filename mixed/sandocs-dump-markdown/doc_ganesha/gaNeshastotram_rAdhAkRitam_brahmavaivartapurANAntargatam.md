@@ -1,24 +1,24 @@
-+++
-"Text title" = "Ganesha stotram by Radha"
-"File name" = "gaNeshastotramrAdhABVP.itx"
-itxtitle = "gaNeshastotram (rAdhAkRitam, brahmavaivartapurANAntargatam))"
-engtitle = "Ganesha stotram by Radha"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Vyasa"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Transliterated by" = "Rujuta, NA"
-"Proofread by" = "Rujuta, NA"
-Description-comments = "From the Shri Ganesh Stotrani"
-Indexextra = "(Ganesh Stotrani)"
-"Latest update" = "February 20, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तोत्रम् (राधाकृइतम्, ब्रह्मवैवर्तपुराणान्तर्गतम्))"
+---
+Author: Vyasa
+Category: ganesha
+Description-comments: From the Shri Ganesh Stotrani
+File name: gaNeshastotramrAdhABVP.itx
+Indexextra: (Ganesh Stotrani)
+Language: Sanskrit
+Latest update: February 20, 2018
+Location: doc_ganesha
+Proofread by: Rujuta, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism
+Sublocation: ganesha
+Text title: Ganesha stotram by Radha
+Transliterated by: Rujuta, NA
+engtitle: Ganesha stotram by Radha
+itxtitle: gaNeshastotram (rAdhAkRitam, brahmavaivartapurANAntargatam))
+title: गणेशस्तोत्रम् (राधाकृइतम्, ब्रह्मवैवर्तपुराणान्तर्गतम्))
 
-+++
+---
   
  श्रीराधाकृतं गणेशस्तोत्रम्   
   

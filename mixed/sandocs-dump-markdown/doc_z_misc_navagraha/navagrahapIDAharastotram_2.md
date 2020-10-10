@@ -1,23 +1,23 @@
-+++
-"Text title" = "navagrahapIDAharastotram 2"
-"File name" = "navagrahapIDAharastotram2.itx"
-itxtitle = "navagrahapIDAharastotram 2"
-engtitle = "navagrahapIDAharastotram 2"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyayat gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyayat gmail.com"
-"Latest update" = "October 20, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रहपीडाहरस्तोत्रम् २"
+---
+Author: Traditional
+Category: navagraha, stotra
+File name: navagrahapIDAharastotram2.itx
+Language: Sanskrit
+Latest update: October 20, 2018
+Location: doc_z_misc_navagraha
+Proofread by: Gopal Upadhyay gopal.j.upadhyayat gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: navagrahapIDAharastotram 2
+Texttype: stotra
+Transliterated by: Gopal Upadhyay gopal.j.upadhyayat gmail.com
+engtitle: navagrahapIDAharastotram 2
+itxtitle: navagrahapIDAharastotram 2
+title: नवग्रहपीडाहरस्तोत्रम् २
 
-+++
+---
   
  नवग्रहपीडाहरस्तोत्रम् २   
 सिन्दूरारुण रक्ताङ्गः कर्णान्तायत लोचनः ।  
@@ -36,7 +36,7 @@ title = "नवग्रहपीडाहरस्तोत्रम् २"
 रुद्रसद्भावसम्पन्नो रुद्रध्यानैकमनसः  
 ग्रहपीडा भयं सर्वं विनाशयतु मे सदा ॥ ५॥  
   
-कुंङ्कुमच्छविदेहेन चारुद्युत्करतः सदा ।  
+कुङ्ङ्कुमच्छविदेहेन चारुद्युत्करतः सदा ।  
 शिवभक्तो बुधः श्रीमान् ग्रहपीडां व्यपोहतु ॥ ६॥  
   
 धातु चामीकरच्छायः सर्वज्ञानकृतालयः ।  

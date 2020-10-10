@@ -1,26 +1,26 @@
-+++
-"Text title" = "dayAnandapanchakam"
-"File name" = "dayAnandapanchakamPS.itx"
-itxtitle = "dayAnandapanchakam (puShpA shrIvatsena virachitam)"
-engtitle = "dayAnandapanchakam"
-Category = "deities_misc, puShpAshrIvatsan, gurudev, panchaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Dayananda Stotravali"
-Indexextra = "(Translation)"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दयानन्दपञ्चकम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: deities_misc, puShpAshrIvatsan, gurudev, panchaka
+File name: dayAnandapanchakamPS.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_deities_misc
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Dayananda Stotravali
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dayAnandapanchakam
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: dayAnandapanchakam
+itxtitle: dayAnandapanchakam (puShpA shrIvatsena virachitam)
+title: दयानन्दपञ्चकम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  श्रीदयानन्दपञ्चकम्   
                  ॐ  
@@ -37,7 +37,7 @@ title = "दयानन्दपञ्चकम् (पुष्पा श्�
 त्रिगुणातीततत्त्वप्रबोधनाचार्यतल्लजम् ।  
 त्रितापार्त्यतिगम्यं तं दयानन्दं प्रणौम्यहम् ॥ ३॥  
   
-चतुर्धामोपगंगं तं चतुराननवाग्वरम् ।  
+चतुर्धामोपगङ्गं तं चतुराननवाग्वरम् ।  
 चतुरार्थप्रवक्तारं दयानन्दं प्रणौम्यहम् ॥ ४॥  
   
 पञ्चाशीत्यायुराचार्यं पञ्चाननदयास्पदम् ।  

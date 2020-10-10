@@ -1,25 +1,25 @@
-+++
-"Text title" = "subrahmaNyAShTottarashatanAmAvalI 2"
-"File name" = "subrahmaNyAShTottarashatanAmAvalI2.itx"
-itxtitle = "subrahmaNyAShTottarashatanAmAvaliH 2"
-engtitle = "subrahmaNyAShTottarashatanAmAvalI 2"
-Category = "aShTottarashatanAmAvalI, subrahmanya, nAmAvalI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "nAmAvalI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-Source = "Subrahmanyastutimanjari p 179-180"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "November 21, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्याष्टोत्तरशतनामावलिः २"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: Traditional
+Category: aShTottarashatanAmAvalI, subrahmanya, nAmAvalI
+File name: subrahmaNyAShTottarashatanAmAvalI2.itx
+Language: Sanskrit
+Latest update: November 21, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Subrahmanyastutimanjari p 179-180
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNyAShTottarashatanAmAvalI 2
+Texttype: nAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: subrahmaNyAShTottarashatanAmAvalI 2
+itxtitle: subrahmaNyAShTottarashatanAmAvaliH 2
+title: सुब्रह्मण्याष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  श्रीसुब्रह्मण्याष्टोत्तरशतनामावलिः २   
   

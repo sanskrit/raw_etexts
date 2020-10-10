@@ -1,23 +1,23 @@
-+++
-"Text title" = "grahadhyAnam"
-"File name" = "grahadhyAnam.itx"
-itxtitle = "grahadhyAnam"
-engtitle = "grahadhyAnam"
-Category = "navagraha, dhyAnam"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ग्रहध्यानम्"
+---
+Category: navagraha, dhyAnam
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: grahadhyAnam.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: grahadhyAnam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: grahadhyAnam
+itxtitle: grahadhyAnam
+title: ग्रहध्यानम्
 
-+++
+---
   
  ग्रहध्यानम्   
   

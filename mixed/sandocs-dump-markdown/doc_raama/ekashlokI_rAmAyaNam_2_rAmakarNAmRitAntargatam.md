@@ -1,22 +1,22 @@
-+++
-"Text title" = "ekashloki rAmAyaNam 2"
-"File name" = "ekashlokiraama2.itx"
-itxtitle = "ekashlokI rAmAyaNam 2 (rAmakarNAmRitAntargatam)"
-engtitle = "ekashloki rAmAyaNam 2"
-Category = "ekashlokI, raama, stotra"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Ramakrnamritam verse 53 of chaturtha AshvAsaH"
-"Latest update" = "October 5, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकश्लोकी रामायणम् २ (रामकर्णामृइतान्तर्गतम्)"
+---
+Author: Traditional
+Category: ekashlokI, raama, stotra
+Description-comments: Ramakrnamritam verse 53 of chaturtha AshvAsaH
+File name: ekashlokiraama2.itx
+Language: Sanskrit
+Latest update: October 5, 2017
+Location: doc_raama
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: ekashloki rAmAyaNam 2
+Texttype: stotra
+engtitle: ekashloki rAmAyaNam 2
+itxtitle: ekashlokI rAmAyaNam 2 (rAmakarNAmRitAntargatam)
+title: एकश्लोकी रामायणम् २ (रामकर्णामृइतान्तर्गतम्)
 
-+++
+---
   
  एकश्लोकि रामायणम् २   
   

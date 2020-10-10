@@ -1,25 +1,25 @@
-+++
-"Text title" = "Bharata Vandana 1"
-"File name" = "bhAratavandanA1.itx"
-itxtitle = "bhAratavandanA 1 (rAShTragItAnjaliH)"
-engtitle = "bhAratavandanA 1"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Kapiladeva Dwivedi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Rashtragitanjali, Kapiladeva Dwivedi (Ed.)"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारतवन्दना १ (राष्ट्रगीताञ्जलिः)"
+---
+Acknowledge-Permission: Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi
+Author: Kapiladeva Dwivedi
+Category: misc, sanskritgeet
+Description/comments: Rashtragitanjali, Kapiladeva Dwivedi (Ed.)
+File name: bhAratavandanA1.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bharata Vandana 1
+Translated by: Mandar Mali
+engtitle: bhAratavandanA 1
+itxtitle: bhAratavandanA 1 (rAShTragItAnjaliH)
+title: भारतवन्दना १ (राष्ट्रगीताञ्जलिः)
 
-+++
+---
   
  भारतवन्दना १   
 ज्ञान विज्ञान-सन्दोहा, कान्ति-शान्ति-स्वरूपिणीम् ।  

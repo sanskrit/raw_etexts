@@ -1,26 +1,26 @@
-+++
-"Text title" = "Guru Ashtottarashata Namavali"
-"File name" = "guru2-108.itx"
-itxtitle = "guru aShTottarashatanAmAvalI"
-engtitle = "Guru Ashtottarashata Namavali"
-Category = "aShTottarashatanAmAvalI, deities_misc, gurudev, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "nAmAvalI"
-Author = "-"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Translated by" = "-"
-Description-comments = "108 names to honor the Spiritual Teacher (Guru)"
-"Latest update" = "july 13, 2003 Gurupurnima"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरु अष्टोत्तरशतनामावली"
+---
+Author: '-'
+Category: aShTottarashatanAmAvalI, deities_misc, gurudev, nAmAvalI
+Description-comments: 108 names to honor the Spiritual Teacher (Guru)
+File name: guru2-108.itx
+Language: Sanskrit
+Latest update: july 13, 2003 Gurupurnima
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: hinduism/religion
+Sublocation: deities_misc
+Text title: Guru Ashtottarashata Namavali
+Texttype: nAmAvalI
+Translated by: '-'
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Guru Ashtottarashata Namavali
+itxtitle: guru aShTottarashatanAmAvalI
+title: गुरु अष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीगुरु अष्टोत्तरशतनामावली   
 ॐ सद्गुरवे नमः ।  
@@ -34,8 +34,8 @@ title = "गुरु अष्टोत्तरशतनामावली"
 ॐ अमानिने नमः ।  
 ॐ अहिंसामूर्तये नमः ।  
 ॐ अहैतुक-दयासिन्धवे नमः ।  
-ॐ अहंकार-नाशकाय नमः ।  
-ॐ अहंकार-वर्जिताय नमः ।  
+ॐ अहङ्कार-नाशकाय नमः ।  
+ॐ अहङ्कार-वर्जिताय नमः ।  
 ॐ आचार्येन्द्राय नमः ।  
 ॐ आत्मसन्तुष्टाय नमः ।  
 ॐ आनन्दमूर्तये नमः ।  
@@ -70,7 +70,7 @@ title = "गुरु अष्टोत्तरशतनामावली"
 ॐ धीमते नमः ।  
 ॐ धीराय नमः ।  
 ॐ नित्यसन्तुष्टाय नमः ।  
-ॐ निरहंकाराय नमः ।  
+ॐ निरहङ्काराय नमः ।  
 ॐ निराश्रयाय नमः ।  
 ॐ निर्भयाय नमः ।  
 ॐ निर्मदाय नमः ।  
@@ -81,7 +81,7 @@ title = "गुरु अष्टोत्तरशतनामावली"
 ॐ निर्लोभाय नमः ।  
 ॐ निष्कामाय नमः ।  
 ॐ निष्क्रोधाय नमः ।  
-ॐ निःसंगाय नमः ।  
+ॐ निःसङ्गाय नमः ।  
 ॐ परमसुखदाय नमः ।  
 ॐ पण्डिताय नमः ।  
 ॐ पूर्णाय नमः ।  
@@ -93,7 +93,7 @@ title = "गुरु अष्टोत्तरशतनामावली"
 ॐ भक्ताय नमः ।  
 ॐ भवरोगहराय नमः ।  
 ॐ भुक्तिमुक्तिप्रदात्रे नमः ।  
-ॐ मंगलकर्त्रे नमः ।  
+ॐ मङ्गलकर्त्रे नमः ।  
 ॐ मधुरभाषिणे नमः ।  
 ॐ महात्मने नमः ।  
 ॐ महावाक्योपदेशकर्त्रे नमः ।  
@@ -128,7 +128,7 @@ title = "गुरु अष्टोत्तरशतनामावली"
 ॐ सुशीलाय नमः ।  
 ॐ सुहृदे नमः ।  
 ॐ सूक्ष्मबुद्धये नमः ।  
-ॐ संकल्पवर्जिताय नमः ।  
+ॐ सङ्कल्पवर्जिताय नमः ।  
 ॐ सम्प्रदायविदे नमः ।  
 ॐ स्वतन्त्राय नमः ।  
   

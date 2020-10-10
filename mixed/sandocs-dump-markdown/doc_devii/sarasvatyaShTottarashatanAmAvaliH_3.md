@@ -1,22 +1,22 @@
-+++
-"Text title" = "sarasvatyaShTottarashatanAmAvalI 3"
-"File name" = "sarasvatyaShTottarashatanAmAvalI3.itx"
-itxtitle = "sarasvatyaShTottarashatanAmAvaliH 3"
-engtitle = "sarasvatyaShTottarashatanAmAvalI 3"
-Category = "aShTottarashatanAmAvalI, devii, sarasvatI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan ajit.krishnan at gmail.com"
-"Proofread by" = "Ajit Krishnan ajit.krishnan at gmail.com"
-"Latest update" = "May 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वत्यष्टोत्तरशतनामावलिः ३"
+---
+Category: aShTottarashatanAmAvalI, devii, sarasvatI, nAmAvalI, devI
+File name: sarasvatyaShTottarashatanAmAvalI3.itx
+Language: Sanskrit
+Latest update: May 6, 2018
+Location: doc_devii
+Proofread by: Ajit Krishnan ajit.krishnan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatyaShTottarashatanAmAvalI 3
+Transliterated by: Ajit Krishnan ajit.krishnan at gmail.com
+engtitle: sarasvatyaShTottarashatanAmAvalI 3
+itxtitle: sarasvatyaShTottarashatanAmAvaliH 3
+title: सरस्वत्यष्टोत्तरशतनामावलिः ३
 
-+++
+---
   
  श्रीसरस्वत्यष्टोत्तरशतनामावलिः ३   
   

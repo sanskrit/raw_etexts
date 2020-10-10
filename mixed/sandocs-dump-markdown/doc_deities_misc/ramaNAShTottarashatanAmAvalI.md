@@ -1,25 +1,25 @@
-+++
-"Text title" = "ramaNAShTottarashatanAmAvalI"
-"File name" = "ramaNAShTottarashatanAmAvalI.itx"
-itxtitle = "ramaNAShTottarashatanAmAvalI"
-engtitle = "Shri Ramana Ashtottarashatanamavali"
-Category = "aShTottarashatanAmAvalI, deities_misc, nAmAvalI, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "nAmAvalI"
-Author = "Shri Vishwanatha Swami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Arthur Coucouvitis web.apprentice at  arunachala.org"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "http://www.arunachala.org/"
-Acknowledge-Permission = "Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org"
-"Latest update" = "October 1, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रमणाष्टोत्तरशतनामावली"
+---
+Acknowledge-Permission: Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org
+Author: Shri Vishwanatha Swami
+Category: aShTottarashatanAmAvalI, deities_misc, nAmAvalI, gurudev
+Description-comments: http://www.arunachala.org/
+File name: ramaNAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: October 1, 2014
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: ramaNAShTottarashatanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Arthur Coucouvitis web.apprentice at  arunachala.org
+engtitle: Shri Ramana Ashtottarashatanamavali
+itxtitle: ramaNAShTottarashatanAmAvalI
+title: रमणाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीरमणाष्टोत्तरशतननामावली   
   
@@ -95,7 +95,7 @@ title = "रमणाष्टोत्तरशतनामावली"
 ॐ सद्दर्शनोपदेष्ट्रे नमः । ७०  
 ॐ सद्भक्तवृन्दपरीवृताय नमः ।  
 ॐ गणेशमुनिभृङ्गेनसेविताङ्घ्रिसरोरुहाय नमः ।  
-ॐ गीतोपदेशसारादिग्रन्थसंछिन्नसंशयाय नमः ।  
+ॐ गीतोपदेशसारादिग्रन्थसञ्छिन्नसंशयाय नमः ।  
 ॐ वर्णाश्रममतातीताय नमः ।  
 ॐ रसज्ञाय नमः ।  
 ॐ सौम्याय नमः ।  

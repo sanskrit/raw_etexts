@@ -1,23 +1,23 @@
-+++
-"Text title" = "pradoShastotram"
-"File name" = "pradosha.itx"
-itxtitle = "pradoShastotram"
-engtitle = "pradoShastotram"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "January 01, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रदोषस्तोत्रम्"
+---
+Author: Traditional
+Category: shiva, stotra
+File name: pradosha.itx
+Language: Sanskrit
+Latest update: January 01, 2005
+Location: doc_shiva
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: pradoShastotram
+Texttype: stotra
+Transliterated by: WebD
+engtitle: pradoShastotram
+itxtitle: pradoShastotram
+title: प्रदोषस्तोत्रम्
 
-+++
+---
   
  प्रदोषस्तोत्रम्   
   
@@ -52,7 +52,7 @@ title = "प्रदोषस्तोत्रम्"
 दीर्घमायुः सदारोग्यं कोशवृद्धिर्बलोन्नतिः ।  
 ममास्तु नित्यमानन्दः प्रसादात्तव शङ्कर ॥ १०॥  
   
-शत्रवः संक्षयं यान्तु प्रसीदन्तु मम प्रजाः ।  
+शत्रवः सङ्क्षयं यान्तु प्रसीदन्तु मम प्रजाः ।  
 नश्यन्तु दस्यवो राष्ट्रे जनाः सन्तु निरापदः ॥ ११॥  
   
 दुर्भिक्षमरिसन्तापाः शमं यान्तु महीतले ।  

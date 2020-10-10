@@ -1,23 +1,23 @@
-+++
-"Text title" = "amarasa.nvaada Sanskrit Arati translated from Marathi"
-"File name" = "sanskrit8.itx"
-itxtitle = "sa.nskRitAShTakam"
-engtitle = "Praise of Sanskrit Language"
-Category = "AratI, misc, sahitya, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Subcategory = "sahitya"
-Author = "Vasant Shankar Nanivadekar"
-Language = "Sanskrit"
-Subject = "kaavya/religion"
-"Transliterated by" = "N"
-"Proofread by" = "N"
-"Latest update" = "October 8, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृइताष्टकम्"
+---
+Author: Vasant Shankar Nanivadekar
+Category: AratI, misc, sahitya, sanskritgeet
+File name: sanskrit8.itx
+Language: Sanskrit
+Latest update: October 8, 2001
+Location: doc_z_misc_general
+Proofread by: N
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: kaavya/religion
+Sublocation: misc
+Text title: amarasa.nvaada Sanskrit Arati translated from Marathi
+Transliterated by: N
+engtitle: Praise of Sanskrit Language
+itxtitle: sa.nskRitAShTakam
+title: संस्कृइताष्टकम्
 
-+++
+---
   
  संस्कृताष्टकम्   
   
@@ -28,7 +28,7 @@ title = "संस्कृइताष्टकम्"
 प्राचीन-ज्ञान-भाषा च संस्कृतं भद्रमण्डनम् ॥ २॥  
   
 वेदान्तानां पुराणानां शास्त्राणां च तथैव च ।  
-मंत्राणां तंत्रसूत्राणाम् आद्यभाषाऽस्ति संस्कृतम् ॥ ३॥  
+मन्त्राणां तन्त्रसूत्राणाम् आद्यभाषाऽस्ति संस्कृतम् ॥ ३॥  
   
 रामायणं महाकाव्यं महाभारतमेव च ।  
 उभे च विश्वविख्याते संस्कृतस्य महानिधी ॥ ४॥  
@@ -49,7 +49,7 @@ title = "संस्कृइताष्टकम्"
   
   
    
-रचनाकारः वसन्तः शंकरसुतः नानिवडेकरः ।  
+रचनाकारः वसन्तः शङ्करसुतः नानिवडेकरः ।  
  Composed by Mr. Vasant Shankar Nanivadekar  
 Mr. V. S. Nanivadekar  
 1/18 Goregaonkar Chawl,  

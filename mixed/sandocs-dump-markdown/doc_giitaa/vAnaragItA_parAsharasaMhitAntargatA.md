@@ -1,23 +1,24 @@
-+++
-"Text title" = "vAnaragItA"
-"File name" = "vAnaragItA.itx"
-itxtitle = "vAnaragItA (parAsharasaMhitAntargatA)"
-engtitle = "Shrivanaragita from ParasharasamhitA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "pranav.tendulkar at gmail dotcom, PSA EASWARAN psaeaswaran at gmail.com"
-"Proofread by" = "vrushaliagarkar at gmail dotcom, PSA EASWARAN psaeaswaran at gmail.com"
-Description-comments = "parAsharasaMhitA maitreyaparAsharasaMvAde hanumanmAhAtmyavarNanaM nAma paMchaviMsho.adhyAyaH"
-Indexextra = "(parAsharasaMhitA hanumanmAhAtmyavarNanaM 25 (Needs proofreading))"
-"Latest update" = "June 13, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वानरगीता (पराशरसंहितान्तर्गता)"
+---
+Category: gItA, giitaa
+Description-comments: parAsharasaMhitA maitreyaparAsharasaMvAde hanumanmAhAtmyavarNanaM
+  nAma paMchaviMsho.adhyAyaH
+File name: vAnaragItA.itx
+Indexextra: (parAsharasaMhitA hanumanmAhAtmyavarNanaM 25 (Needs proofreading))
+Language: Sanskrit
+Latest update: June 13, 2013
+Location: doc_giitaa
+Proofread by: vrushaliagarkar at gmail dotcom, PSA EASWARAN psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: vAnaragItA
+Transliterated by: pranav.tendulkar at gmail dotcom, PSA EASWARAN psaeaswaran at gmail.com
+engtitle: Shrivanaragita from ParasharasamhitA
+itxtitle: vAnaragItA (parAsharasaMhitAntargatA)
+title: वानरगीता (पराशरसंहितान्तर्गता)
 
-+++
+---
   
  श्रीवानरगीता श्रीपराशरसंहितायां   
   
@@ -34,7 +35,7 @@ title = "वानरगीता (पराशरसंहितान्तर
 इन्द्रोऽथ परिपप्रच्छ सत्कृतं मुनिपुङ्गवम् ।  
 अगस्त्यं च महात्मानं आसीनं च सुखासने ॥  
   
-देवदेव भवांभोधेः दुस्तरात्कलुषेन्द्रियाः ।  
+देवदेव भवाम्भोधेः दुस्तरात्कलुषेन्द्रियाः ।  
 जनाः कथं तरन्तीह तन्मे वद कृपानिधे ॥  
   
 श्री अगस्त्य उवाच  
@@ -55,7 +56,7 @@ title = "वानरगीता (पराशरसंहितान्तर
 आसीनः कदलीवने मणिमये बालार्ककोटिप्रभः  
 ध्यायन् ब्रह्म परं करोतु मनसा शुद्धिं हनूमान् मम ॥  
   
-संजीव पर्वतोद्धार मोनोदुःखं निवारय ।  
+सञ्जीव पर्वतोद्धार मोनोदुःखं निवारय ।  
 प्रसीद सुमहाबाहो त्रायस्व हरिसत्तम ॥  
   
 श्रीसुग्रीव उवाच  
@@ -68,7 +69,7 @@ title = "वानरगीता (पराशरसंहितान्तर
   
 श्रीसुषेण उवाच  
 रामभक्तचरिताकथामृतं वायुतनयगुणानुकीर्तनम् ।  
-रामदास तव पादसेवनं संभवन्तु मम जन्मजन्मनि ॥ ३॥  
+रामदास तव पादसेवनं सम्भवन्तु मम जन्मजन्मनि ॥ ३॥  
   
 श्री अङ्गद उवाच  
 माता सुवर्चलादेवी पिता मे वायुनन्दनः ।  

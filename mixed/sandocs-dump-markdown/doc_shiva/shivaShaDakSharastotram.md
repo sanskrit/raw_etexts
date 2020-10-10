@@ -1,44 +1,45 @@
-+++
-"Text title" = "shivaShaDa.akShara stotram"
-"File name" = "shiva6akshara.itx"
-itxtitle = "shivaShaDakSharastotram"
-engtitle = "shivaShaDakShara stotram"
-Category = "akSharamAlA, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WD"
-"Proofread by" = "Darshan Bhatt darshanbhatt at hotmail.com"
-Description-comments = "rUdrayAmala source.  Comments by Surin Usgaonkar usgaonkar at hotmail.com"
-"Latest update" = "September 30, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवषडक्षरस्तोत्रम्"
+---
+Author: Traditional
+Category: akSharamAlA, shiva
+Description-comments: rUdrayAmala source.  Comments by Surin Usgaonkar usgaonkar at
+  hotmail.com
+File name: shiva6akshara.itx
+Language: Sanskrit
+Latest update: September 30, 2005
+Location: doc_shiva
+Proofread by: Darshan Bhatt darshanbhatt at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivaShaDa.akShara stotram
+Transliterated by: WD
+engtitle: shivaShaDakShara stotram
+itxtitle: shivaShaDakSharastotram
+title: शिवषडक्षरस्तोत्रम्
 
-+++
+---
   
  श्रीशिवषडक्षरस्तोत्रम्   
   
-ॐकारं बिंदुसंयुक्तं नित्यं ध्यायंति योगिनः ।  
+ॐकारं बिन्दुसंयुक्तं नित्यं ध्यायन्ति योगिनः ।  
 कामदं मोक्षदं चैव ॐकाराय नमो नमः ॥ १॥  
   
-नमंति ऋषयो देवा नमन्त्यप्सरसां गणाः ।  
-नरा नमंति देवेशं नकाराय नमो नमः ॥ २॥  
+नमन्ति ऋषयो देवा नमन्त्यप्सरसां गणाः ।  
+नरा नमन्ति देवेशं नकाराय नमो नमः ॥ २॥  
   
 महादेवं महात्मानं महाध्यानं परायणम् ।  
 महापापहरं देवं मकाराय नमो नमः ॥ ३॥  
   
-शिवं शांतं जगन्नाथं लोकानुग्रहकारकम् ।  
+शिवं शान्तं जगन्नाथं लोकानुग्रहकारकम् ।  
 शिवमेकपदं नित्यं शिकाराय नमो नमः ॥ ४॥  
   
-वाहनं वृषभो यस्य वासुकिः कंठभूषणम् ।  
+वाहनं वृषभो यस्य वासुकिः कण्ठभूषणम् ।  
 वामे शक्तिधरं वेदं वकाराय नमो नमः ॥ ५॥ var.  देवं  
 यत्र यत्र स्थितो देवः सर्वव्यापी महेश्वरः ।  
 यो गुरुः सर्वदेवानां यकाराय नमो नमः ॥ ६॥  
   
-षडक्षरमिदं स्तोत्रं यः पठेच्छिवसंनिधौ ।  
+षडक्षरमिदं स्तोत्रं यः पठेच्छिवसन्निधौ ।  
 शिवलोकमवाप्नोति शिवेन सह मोदते ॥ ७॥  
   
 ॥ इति श्री रुद्रयामले उमामहेश्वरसंवादे षडक्षरस्तोत्रं सम्पूर्णम् ॥  
@@ -82,7 +83,7 @@ resembles the modern Nuclear reactor).
   
 The above strotra, it may not be wrong to argue, has its ideological  
 origins in the original school of ``adhikrut sankhya᳚(अधिकृत  
-सांख्य)  
+साङ्ख्य)  
   
 Comments by Surin Usgaonkar (written in memory of Bharatratna MM Late Dr P V  
 Kane whose work will always be  a source of great inspirtion.)  

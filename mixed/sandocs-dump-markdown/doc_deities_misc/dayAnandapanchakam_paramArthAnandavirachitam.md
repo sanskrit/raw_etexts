@@ -1,25 +1,25 @@
-+++
-"Text title" = "dayAnandapanchakam"
-"File name" = "dayAnandapanchakam.itx"
-itxtitle = "dayAnandapanchakam (paramArthAnandavirachitam)"
-engtitle = "dayAnandapanchakam"
-Category = "deities_misc, gurudev,panchaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Swami Paramarthananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar, NA"
-"Translated by" = "Swami Paramarthananda"
-Source = "(a, href=\"http://arshaavinash.in/index.php/download/sri-dayananda-panchakam-by-swami-paramarthananda/\">PDF"
-Acknowledge-Permission = "Paramarthananda via N. Avinashilingam http://arshaavinash.in"
-"Latest update" = "March 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दयानन्दपञ्चकम् (परमार्थानन्दविरचितम्)"
+---
+Acknowledge-Permission: Paramarthananda via N. Avinashilingam http://arshaavinash.in
+Author: Swami Paramarthananda
+Category: deities_misc, gurudev,panchaka
+File name: dayAnandapanchakam.itx
+Language: Sanskrit
+Latest update: March 9, 2018
+Location: doc_deities_misc
+Proofread by: Shree Devi Kumar, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: (a, href="http://arshaavinash.in/index.php/download/sri-dayananda-panchakam-by-swami-paramarthananda/">PDF
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dayAnandapanchakam
+Translated by: Swami Paramarthananda
+Transliterated by: Shree Devi Kumar
+engtitle: dayAnandapanchakam
+itxtitle: dayAnandapanchakam (paramArthAnandavirachitam)
+title: दयानन्दपञ्चकम् (परमार्थानन्दविरचितम्)
 
-+++
+---
   
  श्रीदयानन्दपञ्चकम्   
   

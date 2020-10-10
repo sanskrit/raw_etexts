@@ -1,22 +1,22 @@
-+++
-"Text title" = "padmAvatyaShTottarashatanAmAvalI"
-"File name" = "padmAvatyaShTottarashatanAmAvalI.itx"
-itxtitle = "padmAvatyaShTottarashatanAmAvalI"
-engtitle = "Padmavatyashtottarashatanamavali"
-Category = "devii, aShTottarashatanAmAvalI, nAmAvalI, jaina, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "pArshva\\-padmAvatI mahApUjana vidhi"
-"Latest update" = "April 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पद्मावत्यष्टोत्तरशतनामावली"
+---
+Category: devii, aShTottarashatanAmAvalI, nAmAvalI, jaina, devI
+Description/comments: pArshva\-padmAvatI mahApUjana vidhi
+File name: padmAvatyaShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: April 14, 2018
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: padmAvatyaShTottarashatanAmAvalI
+Transliterated by: DPD
+engtitle: Padmavatyashtottarashatanamavali
+itxtitle: padmAvatyaShTottarashatanAmAvalI
+title: पद्मावत्यष्टोत्तरशतनामावली
 
-+++
+---
   
  मातापद्मावत्यष्टोत्तरशतनामावलिः   
   

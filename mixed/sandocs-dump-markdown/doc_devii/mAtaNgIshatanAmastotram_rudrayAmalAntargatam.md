@@ -1,25 +1,25 @@
-+++
-"Text title" = "mAtangIshatanAmastotram"
-"File name" = "mAtangIshatanAmastotram.itx"
-itxtitle = "mAtaNgIshatanAmastotram (rudrayAmalAntargatam)"
-engtitle = "mAtangIshatanAmastotram"
-Category = "aShTottarashatanAma, devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Rudrayamala tantra"
-Indexextra = "(stotramanjari 1)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातण्गीशतनामस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: aShTottarashatanAma, devii, devI, dashamahAvidyA
+Description/comments: Rudrayamala tantra
+File name: mAtangIshatanAmastotram.itx
+Indexextra: (stotramanjari 1)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mAtangIshatanAmastotram
+Transliterated by: Shree Devi Kumar
+engtitle: mAtangIshatanAmastotram
+itxtitle: mAtaNgIshatanAmastotram (rudrayAmalAntargatam)
+title: मातण्गीशतनामस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीमातङ्गीशतनामस्तोत्रम्   
   
@@ -67,7 +67,7 @@ title = "मातण्गीशतनामस्तोत्रम् (रु
 महाशाकयज्ञा फलप्राशका च शकाह्वा शकाह्वाशकाख्या शका च ।  
 शकाक्षान्तरोषा सुरोषा सुरेखा महाशेषयज्ञोपवीतप्रिया च ॥ ९॥  
   
-जयन्ती जया जाग्रतीयोग्यरूपा जयाङ्गा जपध्यानसन्तुष्टसंज्ञा ।  
+जयन्ती जया जाग्रतीयोग्यरूपा जयाङ्गा जपध्यानसन्तुष्टसञ्ज्ञा ।  
 जयप्राणरूपा जयस्वर्णदेहा जयज्वालिनी यामिनी याम्यरूपा ॥ १०॥  
   
 जगन्मातृरूपा जगद्रक्षणा च स्वधावौषडन्ता विलम्बाविलम्बा ।  

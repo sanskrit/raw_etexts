@@ -1,25 +1,25 @@
-+++
-"Text title" = "AdityahRidayabhaviShyottarapurANa"
-"File name" = "AdityahRRidayabhaviShyottarapurANa.itx"
-itxtitle = "AdityahRidayastotram (bhaviShyottarapurANAntargatam)"
-engtitle = "Adityahridaya from Bhavishyottarapurana"
-Category = "hRidaya, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-Source = "bhaviShyottarapurANa"
-Indexextra = "(Scan)"
-"Latest update" = "June 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आदित्यहृइदयस्तोत्रम् (भविष्योत्तरपुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: hRidaya, navagraha
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: AdityahRRidayabhaviShyottarapurANa.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 5, 2016
+Location: doc_z_misc_navagraha
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: bhaviShyottarapurANa
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: AdityahRidayabhaviShyottarapurANa
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: Adityahridaya from Bhavishyottarapurana
+itxtitle: AdityahRidayastotram (bhaviShyottarapurANAntargatam)
+title: आदित्यहृइदयस्तोत्रम् (भविष्योत्तरपुराणान्तर्गतम्)
 
-+++
+---
   
  आदित्यहृदयम्   
 भविष्योत्तरपुराणान्तर्गतम्  

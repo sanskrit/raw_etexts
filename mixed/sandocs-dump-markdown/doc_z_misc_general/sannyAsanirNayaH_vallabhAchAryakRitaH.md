@@ -1,23 +1,23 @@
-+++
-"Text title" = "sannyAsanirNayaH"
-"File name" = "sannyAsanirNayaH.itx"
-itxtitle = "sannyAsanirNayaH (vallabhAchAryakRitaH)"
-engtitle = "sannyAsanirNayaH"
-Category = "misc, puShTimArgIya, vallabhaachaarya"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्न्यासनिर्णयः (वल्लभाचार्यकृइतः)"
+---
+Author: vallabhAchArya
+Category: misc, puShTimArgIya, vallabhaachaarya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: sannyAsanirNayaH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: sannyAsanirNayaH
+engtitle: sannyAsanirNayaH
+itxtitle: sannyAsanirNayaH (vallabhAchAryakRitaH)
+title: सन्न्यासनिर्णयः (वल्लभाचार्यकृइतः)
 
-+++
+---
   
  सन्न्यासनिर्णयः   
   

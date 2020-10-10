@@ -1,24 +1,24 @@
-+++
-"Text title" = "ShantikadhyAya from Shivadharmakhya"
-"File name" = "shAntikAdhyAya.itx"
-itxtitle = "shAntikAdhyAyaH (shivadharmAkhyokta)"
-engtitle = "ShantikadhyAya from Shivadharmakhya"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyayat gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyayat gmail.com"
-Description-comments = "Shivadharmakhya"
-"Latest update" = "October 20, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शान्तिकाध्यायः (शिवधर्माख्योक्त)"
+---
+Author: Traditional
+Category: shiva
+Description-comments: Shivadharmakhya
+File name: shAntikAdhyAya.itx
+Language: Sanskrit
+Latest update: October 20, 2018
+Location: doc_shiva
+Proofread by: Gopal Upadhyay gopal.j.upadhyayat gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: ShantikadhyAya from Shivadharmakhya
+Texttype: stotra
+Transliterated by: Gopal Upadhyay gopal.j.upadhyayat gmail.com
+engtitle: ShantikadhyAya from Shivadharmakhya
+itxtitle: shAntikAdhyAyaH (shivadharmAkhyokta)
+title: शान्तिकाध्यायः (शिवधर्माख्योक्त)
 
-+++
+---
   
  श्रीशिवधर्माख्योक्त शान्तिकाध्यायः   
 श्रीगणेशाय नमः ।  
@@ -421,7 +421,7 @@ title = "शान्तिकाध्यायः (शिवधर्माख
 रुद्रसद्भावसम्पन्नो रुद्रध्यानैकमनसः ।  
 ग्रहपीडा भयं सर्वं विनाशयतु मे सदा ॥ १३०॥  
   
-कुंङ्कुमच्छविदेहेन चारुद्युत्करतः सदा ।  
+कुङ्ङ्कुमच्छविदेहेन चारुद्युत्करतः सदा ।  
 शिवभक्तो बुधः श्रीमान् ग्रहपीडां व्यपोहतु ॥ १३१॥  
   
 धातु चामीकरच्छायः सर्वज्ञानकृतालयः । (var  तप्त चामीकरच्छायः)  

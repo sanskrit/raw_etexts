@@ -1,23 +1,23 @@
-+++
-"Text title" = "AdityhridayamnAmAvalI"
-"File name" = "AdityhridayamnAmAvalI.itx"
-itxtitle = "AdityahRidayam nAmAvalI"
-engtitle = "AdityahRidayam nAmAvalI"
-Category = "hRidaya, navagraha, nAmAvalI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu@satyam.net.in"
-"Latest update" = "July 7, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आदित्यहृइदयम् नामावली"
+---
+Category: hRidaya, navagraha, nAmAvalI
+File name: AdityhridayamnAmAvalI.itx
+Language: Sanskrit
+Latest update: July 7, 2010
+Location: doc_z_misc_navagraha
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: AdityhridayamnAmAvalI
+Texttype: nAmAvalI
+Translated by: N.Balasubramanian bbalu@satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: AdityahRidayam nAmAvalI
+itxtitle: AdityahRidayam nAmAvalI
+title: आदित्यहृइदयम् नामावली
 
-+++
+---
   
  आदित्यहृदयम् नामावली   
   
@@ -97,7 +97,7 @@ the creator, Narayana the sustainer and Sankara the destroyer rolled into one.
 The following prayer recited during Sandhyavandanam says all this.   
   
         नमः सवित्रे जगदेक चक्षुषे जगत् प्रसूति स्थितिनाश हेतवे।  
-        विरिञ्चि नारायण शंकरात्मने।   
+        विरिञ्चि नारायण शङ्करात्मने।   
   
 2 - In the subtle form सूक्ष्म रूपेण    
   
@@ -116,19 +116,19 @@ He is the Golden-hued Being resident in the solar disc. Or, just as one sun appe
 He resides in the sun.   
   
         भानुमण्डलमध्यस्था - भानुमण्डलस्य सूर्यमण्डलस्य मध्ये तिष्ठतीति तथा।   
-        संध्यासमये देव्यास्तत्र ध्येयत्वात्। LS (275).   
+        सन्ध्यासमये देव्यास्तत्र ध्येयत्वात्। LS (275).   
   
 She resides in the solar disc. She is to be meditated upon during the evening prayers.  
   
 We meditate on Narayana who resides in the sun with the following prayer recited during our Sandhyavandanam.   
   
         ध्येयः सदा सवितृमण्डल-मध्यवर्ती नारायण  
-        सरसिजासन-संनिविष्टः।  केयूरवन् मकर-कुण्डलवान् किरीटी  
-        हारी हिरण्मयवपुः धृत-शंखचक्रः॥   
+        सरसिजासन-सन्निविष्टः।  केयूरवन् मकर-कुण्डलवान् किरीटी  
+        हारी हिरण्मयवपुः धृत-शङ्खचक्रः॥   
   
 Similarly we are advised to meditate upon Lord Siva along with Amba in the sun and get relieved from the cyclic births.   
   
-        सौरमण्डल मध्यस्थं सांबं संसारभेषजम्।  
+        सौरमण्डल मध्यस्थं साम्बं संसारभेषजम्।  
         नीलग्रीवं विरूपाक्षं नमामि शिवमव्ययम्॥   
   
 The Mundaka Upanishad makes a more detailed narration. (II-I-9 and 10).  तच्छुभ्रं ज्योतिषां ज्योतिस्तद्यदात्मविदो विदुः।  It is pure, and is the Light of lights which the knowers of the Self realise.  तमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति।  Everything shines according as He does so: by His light all this shines diversely. Shri Sankarchrya explaines in his commentary that the Supreme Being is naturally effulgent. All this - the universe constituted by sun etc., shines diversely. It is that very Brahman that illuminates and shines through the different manifested lights.  Shri Krishna says this specifically in His Bhagavad Gita. (15-12). He says that the light that resides in the sun and illuminates the whole world, that which is seen in the moon and fire are all His only.   
@@ -167,7 +167,7 @@ Earlier Shri Rama was concerned as to how he can win the battle with Ravana as t
 Surya Bhagavan was pleased by Shri Rama chanting the Aditya Hridayam properly with devotion.  He came down from His region and joined the group of gods who have assembled in the sky above the battle field to watch the events. He encouraged Shri Rama to go ahead and fight Ravana. He was sure that Rama will  kill Ravana and emerge victorious in the war.   
   
         अथ रविरवदन्निरीक्ष्य रामं मुदितमनाः परमं प्रहृष्यमाणः।  
-        निशिचरपतिसंक्षयं विदित्वा सुरगणमध्यगतो वचस्त्वरेति॥   
+        निशिचरपतिसङ्क्षयं विदित्वा सुरगणमध्यगतो वचस्त्वरेति॥   
   
 Now, we take up the question No. (3) mentioned earlier. That is, Shri Ramayana says that Shri Rama was an incarnation of Shri Narayana or the Supreme Being. We find in the Valmiki Ramayana (Yuddha Kanda - chapter 120) that after Shri Rama won the battle with Ravana, the gods including Brahma, Rudra and others approached Shri Rama, praised him and said that he is none other than the Supreme Being Narayana.   
   
@@ -215,7 +215,7 @@ This, then, is the lesson we learn from Aditya Hridayam. To repeat, we should tu
           ॐ यमाय नमः ।   
           ॐ सोमाय नमः । २०।  
             
-          ॐ अपांपतये नमः ।   
+          ॐ अपाम्पतये नमः ।   
           ॐ पितृमूर्तये नमः ।   
           ॐ वसुमूर्तये नमः ।   
           ॐ साध्यमूर्तये नमः ।   
@@ -246,7 +246,7 @@ This, then, is the lesson we learn from Aditya Hridayam. To repeat, we should tu
           ॐ सप्तसप्तये नमः ।   
           ॐ मरीचिमते नमः ।   
           ॐ तिमिरोन्मथनाय नमः ।   
-          ॐ शंभवे नमः । ५०।  
+          ॐ शम्भवे नमः । ५०।  
             
           ॐ त्वष्ट्रे नमः ।   
           ॐ मार्ताण्डाय नमः ।   
@@ -259,13 +259,13 @@ This, then, is the lesson we learn from Aditya Hridayam. To repeat, we should tu
           ॐ अग्निगर्भाय नमः ।   
           ॐ अदितेःपुत्राय नमः । ६०।  
             
-          ॐ शंखाय नमः ।   
+          ॐ शङ्खाय नमः ।   
           ॐ शिशिरनाशनाय नमः ।   
           ॐ व्योमनाथाय नमः ।   
           ॐ तमोभेदिने नमः ।   
           ॐ ऋग्यजुःसामपारगाय नमः । ६५।  
           ॐ घनवृष्टये नमः ।   
-          ॐ अपांमित्राय नमः ।   
+          ॐ अपाम्मित्राय नमः ।   
           ॐ विन्ध्यवीथीप्लवङ्गमाय नमः ।   
           ॐ आतपिने नमः ।   
           ॐ मण्डलिने नमः । ७०।  
@@ -298,7 +298,7 @@ This, then, is the lesson we learn from Aditya Hridayam. To repeat, we should tu
           ॐ विष्णवे नमः ।   
           ॐ पूर्वायगिरये नमः । ९५।  
           ॐ पश्चिमायाद्रये नमः ।   
-          ॐ ज्योतिर्गणानांपतये नमः ।   
+          ॐ ज्योतिर्गणानाम्पतये नमः ।   
           ॐ दिनाधिपतये नमः ।   
           ॐ जयाय नमः ।   
           ॐ जयभद्राय नमः । १००।  
@@ -308,7 +308,7 @@ This, then, is the lesson we learn from Aditya Hridayam. To repeat, we should tu
           ॐ आदित्याय नमः ।   
           ॐ उग्राय नमः ।   
           ॐ वीराय नमः । १०५।  
-          ॐ सारंगाय नमः ।   
+          ॐ सारङ्गाय नमः ।   
           ॐ पद्मप्रबोदाय नमः ।   
           ॐ प्रचण्डाय नमः ।   
           ॐ ब्रह्मेशानाच्युतेशाय नमः ।   
@@ -325,7 +325,7 @@ This, then, is the lesson we learn from Aditya Hridayam. To repeat, we should tu
           ॐ कृतघ्नघ्नाय नमः ।   
           ॐ देवाय नमः । १२०।  
             
-          ॐ ज्योतिषांपतये नमः ।   
+          ॐ ज्योतिषाम्पतये नमः ।   
           ॐ तप्तचामीकराभाय नमः ।   
           ॐ वह्नये नमः ।   
           ॐ विश्वकर्मणे नमः ।   

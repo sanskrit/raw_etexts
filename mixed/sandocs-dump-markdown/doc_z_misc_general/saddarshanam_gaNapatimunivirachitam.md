@@ -1,25 +1,27 @@
-+++
-"Text title" = "Saddarshanam"
-"File name" = "saddarshanam.itx"
-itxtitle = "saddarshanam (gaNapatimunivirachitam)"
-engtitle = "Saddarshanam"
-Category = "vedanta, misc, sahitya, advice, gaNapati-muni"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Subcategory = "sahitya"
-Texttype = "advice"
-Author = "Vasishtha Ganapati Muni's Sanskrit version of  Ramana Maharshi's Tamil Ulladu Narpadu (Forty Verses on Reality)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol 04-12"
-Indexextra = "(Collected Works)"
-"Latest update" = "July 8, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सद्दर्शनम् (गणपतिमुनिविरचितम्)"
+---
+Author: Vasishtha Ganapati Muni's Sanskrit version of  Ramana Maharshi's Tamil Ulladu
+  Narpadu (Forty Verses on Reality)
+Category: vedanta, misc, sahitya, advice, gaNapati-muni
+Description-comments: The Collected Works of Vasishtha Kavyakantha Ganapati Muni Vol
+  04-12
+File name: saddarshanam.itx
+Indexextra: (Collected Works)
+Language: Sanskrit
+Latest update: July 8, 2013
+Location: doc_z_misc_general
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Saddarshanam
+Texttype: advice
+engtitle: Saddarshanam
+itxtitle: saddarshanam (gaNapatimunivirachitam)
+title: सद्दर्शनम् (गणपतिमुनिविरचितम्)
 
-+++
+---
   
  सद्दर्शनम्   
   
@@ -32,7 +34,7 @@ title = "सद्दर्शनम् (गणपतिमुनिविरच
 तस्य स्मृतिस्तत्र दृढैव निष्ठा ॥ १ ॥  
   
 मृत्युञ्जयं मृत्युभियाश्रिताना-  
-महंमतिर्मृत्युमुपैति पूर्वम् ।  
+महम्मतिर्मृत्युमुपैति पूर्वम् ।  
 अथ स्वभावादमृतेषु तेषु  
 कथं पुनर्मृत्युधियोऽवकाशः ॥ २ ॥  
   
@@ -45,12 +47,12 @@ title = "सद्दर्शनम् (गणपतिमुनिविरच
         तत्त्वग्रन्थमाला  
 आरभ्यते जीवजगत्परात्म-  
 तत्त्वाभिधानेन मतं समस्तम् ।  
-इदं त्रयं यावदहंमति स्यात्  
-सर्वोत्तमाऽहंमतिशून्यनिष्ठा ॥ ४॥  
+इदं त्रयं यावदहम्मति स्यात्  
+सर्वोत्तमाऽहम्मतिशून्यनिष्ठा ॥ ४॥  
   
 सत्यं मृषा वा चिदिदं जडं वा  
 दुःखं सुखं वेति मुधा विवादः ।  
-अदृष्टलोका निरहंप्रतीति-  
+अदृष्टलोका निरहम्प्रतीति-  
 र्निष्ठाऽविकल्पा परमाऽखिलेष्टा ॥ ५॥  
   
 सरूपबुद्धिर्जगतीश्वरे च  

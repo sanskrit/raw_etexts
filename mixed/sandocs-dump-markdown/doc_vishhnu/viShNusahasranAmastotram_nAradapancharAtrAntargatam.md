@@ -1,23 +1,23 @@
-+++
-"Text title" = "viShNusahasranAmastotram from nAradapancharAtra"
-"File name" = "viShNusahasranAmastotranAradapancharAtra.itx"
-itxtitle = "viShNusahasranAmastotram (nAradapancharAtrAntargatam)"
-engtitle = "viShNusahasranAmastotram from nAradapancharAtra"
-Category = "sahasranAma, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, help from Alex"
-"Proofread by" = "DPD, PSA Easwaran"
-"Description/comments" = "From nArada paNcharAtra similar to one in padmapurANa"
-Source = "nArada paNcharAtra"
-"Latest update" = "February 15, 2015, December 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुसहस्रनामस्तोत्रम् (नारदपञ्चरात्रान्तर्गतम्)"
+---
+Category: sahasranAma, vishhnu, vishnu
+Description/comments: From nArada paNcharAtra similar to one in padmapurANa
+File name: viShNusahasranAmastotranAradapancharAtra.itx
+Language: Sanskrit
+Latest update: February 15, 2015, December 6, 2016
+Location: doc_vishhnu
+Proofread by: DPD, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: nArada paNcharAtra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNusahasranAmastotram from nAradapancharAtra
+Transliterated by: DPD, help from Alex
+engtitle: viShNusahasranAmastotram from nAradapancharAtra
+itxtitle: viShNusahasranAmastotram (nAradapancharAtrAntargatam)
+title: विष्णुसहस्रनामस्तोत्रम् (नारदपञ्चरात्रान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णुसहस्रनामस्तोत्रं नारदपञ्चरात्रे   
   
@@ -102,7 +102,7 @@ title = "विष्णुसहस्रनामस्तोत्रम् (
   
  ॥ ध्यानम् ॥  
   
-विष्णुं भास्वत्किरीटाङ्गदवलयगणाकल्पहारोदरांघ्रि-  
+विष्णुं भास्वत्किरीटाङ्गदवलयगणाकल्पहारोदराङ्घ्रि-  
 श्रोणीभूषं सुवक्षोमणिमकरमहाकुण्डलं मण्डितांसम् ।  
 हस्तोद्यच्चक्रशङ्खाम्बुजगदलमलं पीतकौशयवासो -  
 विद्युद्भासं समुद्यद्दिनकरसदृशं पद्महस्तं नमामि ॥ ८॥  
@@ -383,7 +383,7 @@ title = "विष्णुसहस्रनामस्तोत्रम् (
 मनुश्रेष्ठः सतां सेतुर्महीयान् वृषभो विराट् ।  
 आदिराजः क्षितिपिता सर्वरत्नैकदोहकृत् ॥ १००॥  
   
-पृथुजन्माद्येकदक्षो ह्रीः श्रीः कीर्तिः स्वयंधृतिः ।  
+पृथुजन्माद्येकदक्षो ह्रीः श्रीः कीर्तिः स्वयन्धृतिः ।  
 जगद्वृत्तिप्रदश्चक्रवर्तिश्रेष्ठो दुरस्त्रधृक् ॥ १०१॥  
   
 सनकादिमुनिप्राप्तभगवद्भक्तिवर्धनः ।  
@@ -515,7 +515,7 @@ title = "विष्णुसहस्रनामस्तोत्रम् (
 सद्यः कुवलयापीडघाती चाणूरमर्दनः ।  
 कंसारिरुग्रसेनादिराज्यस्थाय्यरिहाऽमरः ॥ १४४॥  
   
-सुधर्मांकितभूलोको जरासन्धबलान्तकः ।  
+सुधर्माङ्कितभूलोको जरासन्धबलान्तकः ।  
 त्यक्तभक्तजरासन्धभीमसेनयशःप्रदः ॥ १४५॥  
   
 सान्दीपनिमृतापत्यदाता कालान्तकादिजित् ।  

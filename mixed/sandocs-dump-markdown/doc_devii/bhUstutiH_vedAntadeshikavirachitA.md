@@ -1,25 +1,25 @@
-+++
-"Text title" = "bhUstutiH"
-"File name" = "bhUstutiH.itx"
-itxtitle = "bhUstutiH (vedAntadeshikavirachitA)"
-engtitle = "bhUstutiH"
-Category = "devii, otherforms, devI, vedAnta-deshika"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भूस्तुतिः (वेदान्तदेशिकविरचिता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: vedAntadeshika
+Category: devii, otherforms, devI, vedAnta-deshika
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: bhUstutiH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhUstutiH
+engtitle: bhUstutiH
+itxtitle: bhUstutiH (vedAntadeshikavirachitA)
+title: भूस्तुतिः (वेदान्तदेशिकविरचिता)
 
-+++
+---
   
  भूस्तुतिः   
   

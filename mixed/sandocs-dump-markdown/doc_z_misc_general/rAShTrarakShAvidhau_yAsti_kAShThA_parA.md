@@ -1,23 +1,23 @@
-+++
-"Text title" = "Rashtrarakshavidhau Yasti Kashtha Para"
-"File name" = "rAShTrarakShAvidhauyAstikAShThAparA.itx"
-itxtitle = "rAShTrarakShAvidhau yAsti kAShThA parA"
-engtitle = "rAShTrarakShAvidhau yAsti kAShThA parA"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dr. ichChArAma dvivedI \"praNava\""
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Volunteers at Bharat Vikas Parishad https://bvpindia.com"
-Indexextra = "(Text, BVP Intro)"
-Acknowledge-Permission = "Bharat Vikas Parishad https://bvpindia.com Atam Dev"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राष्ट्ररक्षाविधौ यास्ति काष्ठा परा"
+---
+Acknowledge-Permission: Bharat Vikas Parishad https://bvpindia.com Atam Dev
+Author: Dr. ichChArAma dvivedI "praNava"
+Category: misc, sanskritgeet
+File name: rAShTrarakShAvidhauyAstikAShThAparA.itx
+Indexextra: (Text, BVP Intro)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Rashtrarakshavidhau Yasti Kashtha Para
+Transliterated by: Volunteers at Bharat Vikas Parishad https://bvpindia.com
+engtitle: rAShTrarakShAvidhau yAsti kAShThA parA
+itxtitle: rAShTrarakShAvidhau yAsti kAShThA parA
+title: राष्ट्ररक्षाविधौ यास्ति काष्ठा परा
 
-+++
+---
   
  राष्ट्ररक्षाविधौ यास्ति काष्ठा परा   
 राष्ट्ररक्षाविधौ यास्ति काष्ठा परा  

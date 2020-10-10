@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Vyasa Stuti 2 or Shri Vasishtha Krishna Ashtakam"
-"File name" = "vyAsastutiH2.itx"
-itxtitle = "vyAsastutiH 2 (vAdirAjayativirachitA shrIshaM vichitrakavitArasapUritAsha)"
-engtitle = "vyAsastutiH 2"
-Category = "deities_misc, gurudev, vAdirAja, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Vadiraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "व्यासस्तुतिः २ (वादिराजयतिविरचिता श्रीशं विचित्रकवितारसपूरिताश)"
+---
+Author: Vadiraja
+Category: deities_misc, gurudev, vAdirAja, aShTaka
+File name: vyAsastutiH2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Vyasa Stuti 2 or Shri Vasishtha Krishna Ashtakam
+Transliterated by: Krishnananda Achar
+engtitle: vyAsastutiH 2
+itxtitle: vyAsastutiH 2 (vAdirAjayativirachitA shrIshaM vichitrakavitArasapUritAsha)
+title: व्यासस्तुतिः २ (वादिराजयतिविरचिता श्रीशं विचित्रकवितारसपूरिताश)
 
-+++
+---
   
  श्रीव्यासस्तुतिः २ अथवा श्रीवासिष्ठकृष्णाष्टकम्   
 श्रीशं विचित्रकवितारसपूरिताशं  

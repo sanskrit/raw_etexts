@@ -1,22 +1,22 @@
-+++
-"Text title" = "pArshvanAthAShTottarashatanAmAvalI"
-"File name" = "pArshvanAthAShTottarashatanAmAvalI.itx"
-itxtitle = "pArshvanAthAShTottarashatanAmAvalI"
-engtitle = "pArshvanAthAShTottarashatanAmAvalI"
-Category = "deities_misc, aShTottarashatanAmAvalI, nAmAvalI, jaina"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Description/comments" = "pArshva\\-padmAvatI mahApUjana vidhi"
-"Latest update" = "April 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्श्वनाथाष्टोत्तरशतनामावली"
+---
+Category: deities_misc, aShTottarashatanAmAvalI, nAmAvalI, jaina
+Description/comments: pArshva\-padmAvatI mahApUjana vidhi
+File name: pArshvanAthAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: April 14, 2018
+Location: doc_deities_misc
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: pArshvanAthAShTottarashatanAmAvalI
+Transliterated by: DPD
+engtitle: pArshvanAthAShTottarashatanAmAvalI
+itxtitle: pArshvanAthAShTottarashatanAmAvalI
+title: पार्श्वनाथाष्टोत्तरशतनामावली
 
-+++
+---
   
  पार्श्वनाथाष्टोत्तरशतनामावलिः   
   

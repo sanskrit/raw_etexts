@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAjashyAmalArahasyopaniShat"
-"File name" = "rAjashyAmalArahasyopaniShat.itx"
-itxtitle = "rAjashyAmalArahasyopaniShat (shAkta)"
-engtitle = "rAjashyAmalArahasyopaniShat"
-Category = "upanishhat, devii, devI, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राजश्यामलारहस्योपनिषत् (शाक्त)"
+---
+Category: upanishhat, devii, devI, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: rAjashyAmalArahasyopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: rAjashyAmalArahasyopaniShat
+engtitle: rAjashyAmalArahasyopaniShat
+itxtitle: rAjashyAmalArahasyopaniShat (shAkta)
+title: राजश्यामलारहस्योपनिषत् (शाक्त)
 
-+++
+---
   
  राजश्यामलारहस्योपनिषत्   
 ॐ स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।  

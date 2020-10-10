@@ -1,36 +1,36 @@
-+++
-"Text title" = "abhilAShAShTakaM"
-"File name" = "abhilaashha8.itx"
-itxtitle = "abhilAShAShTakam"
-engtitle = "abhilAShAShTakam"
-Category = "aShTaka, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(with commentary)"
-"Latest update" = "October 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अभिलाषाष्टकम्"
+---
+Category: aShTaka, deities_misc
+File name: abhilaashha8.itx
+Indexextra: (with commentary)
+Language: Sanskrit
+Latest update: October 1, 2010
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: abhilAShAShTakaM
+engtitle: abhilAShAShTakam
+itxtitle: abhilAShAShTakam
+title: अभिलाषाष्टकम्
 
-+++
+---
   
  अभिलाषाष्टकं   
        ॥ अथ अभिलाषाष्टकम् ॥  
   
 कदा पक्षीन्द्रांसोपरि गतमजं कञ्चनयनम्  
-रमासंश्लिष्टांगं गगनरुचमापीतवसनम् ।  
-गदाशंखाम्भोजारिवरमालोक्य सुचिरं  
+रमासंश्लिष्टाङ्गं गगनरुचमापीतवसनम् ।  
+गदाशङ्खाम्भोजारिवरमालोक्य सुचिरं  
 गमिष्यत्येतन्मे ननु सफलतां नेत्रयुगलम् ॥ १॥  
   
 कदा क्षीराब्ध्यन्तः  सुरतरुवनान्तर्मणिमये  
-समासीनं पीठे जलधितनयालिंगिततनुम् ।  
-स्तुतं देवैर्नित्यं मुनिवरकदंबैरभिनुतम्  
+समासीनं पीठे जलधितनयालिङ्गिततनुम् ।  
+स्तुतं देवैर्नित्यं मुनिवरकदम्बैरभिनुतम्  
 स्तवैः सन्तोष्यामि श्रुतिवचनगर्भैः सुरगुरुम् ॥ २॥  
   
 कदा मामाभीतं भयजलधितस्तापसतनुं  
-गता रागं गंगातटगिरिगुहावाससहनम् ।  
+गता रागं गङ्गातटगिरिगुहावाससहनम् ।  
 लपन्तं हे विष्णो सुरवर रमेशेति सततं  
 समभ्येत्योदारं कमलनयनो वक्ष्यति वचः ॥ ३॥  
   
@@ -46,18 +46,18 @@ title = "अभिलाषाष्टकम्"
   
 कदा मे संरुद्धाखिलकरणजालस्य परितो  
 जिताशेषप्राणानिलपरिकरस्य प्रजपतः ।  
-सदोंकारं चित्तं हरिपदसरोजे धृतवतः  
+सदोङ्कारं चित्तं हरिपदसरोजे धृतवतः  
 समेष्यत्युल्लासं मुहुरखिलरोमावलिरियम् ॥ ६॥  
   
 कदा प्रारब्धान्ते परिशिथिलतां गच्छति शनैः  
 शरीरे चाक्षौघेऽप्युपरतवति प्राणपवने ।  
-वदत्यूर्ध्वं शश्वन्मम वदनकंजे मुहुरहो  
+वदत्यूर्ध्वं शश्वन्मम वदनकञ्जे मुहुरहो  
 करिष्यत्यावासं हरिरिति पदं पावनतमम् ॥ ७॥  
   
-कदा हित्वा जीर्णां त्वचमिव भुजंगस्तनुमिमां  
+कदा हित्वा जीर्णां त्वचमिव भुजङ्गस्तनुमिमां  
 चतुर्बाहुश्चक्राम्बुजदरकरः पीतवसनः ।  
 घनश्यामो दूतैर्गगनगतिनीतो नतिपरै-  
-र्गमिष्यामीशस्यांतिकमखिलदुःखांतकमिति ॥ ८॥  
+र्गमिष्यामीशस्यान्तिकमखिलदुःखान्तकमिति ॥ ८॥  
   
 ॥ इति श्रीमत्परमहंसस्वामिब्रह्मानन्दविरचितं  
     अभिलाषाष्टकं सम्पूर्णम् ॥  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "Kali Tandava Stotram"
-"File name" = "kAlItANDavastotram.itx"
-itxtitle = "kAlItANDavastotram (ttaratantrAntargatam)"
-engtitle = "kAlItANDavastotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sankhadeep Das dassankha250 at gmail.com"
-"Proofread by" = "Sankhadeep Das dassankha250 at gmail.com"
-"Latest update" = "May 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालीताण्डवस्तोत्रम् (त्तरतन्त्रान्तर्गतम्)"
+---
+Category: devii, dashamahAvidyA, devI
+File name: kAlItANDavastotram.itx
+Language: Sanskrit
+Latest update: May 17, 2019
+Location: doc_devii
+Proofread by: Sankhadeep Das dassankha250 at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kali Tandava Stotram
+Transliterated by: Sankhadeep Das dassankha250 at gmail.com
+engtitle: kAlItANDavastotram
+itxtitle: kAlItANDavastotram (ttaratantrAntargatam)
+title: कालीताण्डवस्तोत्रम् (त्तरतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीकालीताण्डवस्तोत्रम्   
-हुंहुंकारे शवारूढे नीलनीरजलोचने ।  
+हुंहुङ्कारे शवारूढे नीलनीरजलोचने ।  
 त्रैलोक्यैकमुखे दिव्ये कालिकायै नमोऽस्तुते ॥ १॥  
   
 प्रत्यालीढपदे घोरे मुण्डमालाप्रलम्बिते ।  

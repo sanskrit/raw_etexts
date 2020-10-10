@@ -1,23 +1,23 @@
-+++
-"Text title" = "shAradAshatashlokIstavaH"
-"File name" = "shAradAshatashlokIstavaH.itx"
-itxtitle = "shAradAshatashlokIstavaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "shAradAshatashlokIstavaH"
-Category = "devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI, shataka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदाशतश्लोकीस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: devii, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, devI, sarasvatI, shataka
+File name: shAradAshatashlokIstavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAradAshatashlokIstavaH
+engtitle: shAradAshatashlokIstavaH
+itxtitle: shAradAshatashlokIstavaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: शारदाशतश्लोकीस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीशारदाशतश्लोकीस्तवः   
 करोतु पदविन्यासान्कमलासनकामिनी ।  
@@ -68,7 +68,7 @@ title = "शारदाशतश्लोकीस्तवः (शिवाभ
      द्दिव्या वाचो निःसरन्त्यप्रयत्नात् ॥ १३॥  
   
 शारदे तव पदाम्बुजयुग्मं बोधपुष्परसपूर्णमजस्रम् ।  
-मामकं हृदयसंज्ञकमीशे नैव मुञ्चतु सरः करुणाब्धे ॥ १४॥  
+मामकं हृदयसञ्ज्ञकमीशे नैव मुञ्चतु सरः करुणाब्धे ॥ १४॥  
   
 कथितानि मदीप्सितानि मातर्मुहुरग्रे तव शारदाम्बिके त्वम् ।  
 न हि पूरयसे चिरायसे किं मदघौघात्किमु शक्त्यभावतो वा ॥ १५॥  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "dhUmAvatIstotram"
-"File name" = "dhUmAvatIstotram.itx"
-itxtitle = "dhUmAvatIstotram"
-engtitle = "dhUmAvatIstotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Lalitha Parameswari parameswari.lalitha at gmail.com, NA"
-Description-comments = "In shAktapramoda and mantramahArNava"
-Indexextra = "(Mahavidya Chatushtayam)"
-"Latest update" = "June 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धूमावतीस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, devI
+Description-comments: In shAktapramoda and mantramahArNava
+File name: dhUmAvatIstotram.itx
+Indexextra: (Mahavidya Chatushtayam)
+Language: Sanskrit
+Latest update: June 6, 2018
+Location: doc_devii
+Proofread by: Lalitha Parameswari parameswari.lalitha at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: dhUmAvatIstotram
+engtitle: dhUmAvatIstotram
+itxtitle: dhUmAvatIstotram
+title: धूमावतीस्तोत्रम्
 
-+++
+---
   
  श्रीधूमावतीस्तोत्रम्   
 श्रीगणेशाय नमः ।  
@@ -33,7 +33,7 @@ title = "धूमावतीस्तोत्रम्"
 पायाद्वोवन्द्यमानः प्रलयमुदितया भैरवः कालरात्र्याम् ॥ २॥  
   
 चर्वन्तीमस्थिखण्डं प्रकट कटकटा शब्दसङ्घातमुग्रं  
-कुर्वाणि प्रेतमध्ये कहहकहकहा हास्यमुग्रं कृशांङ्गी ।  
+कुर्वाणि प्रेतमध्ये कहहकहकहा हास्यमुग्रं कृशाङ्ङ्गी ।  
 नित्यं न्नित्यप्रसक्तां डमरुडिमडिमां स्फारयन्तीं मुखाब्जं  
 पायान्नश्चण्डिकेयं झझमझमझमा जल्पमाना भ्रमन्ती ॥ ३॥  
   

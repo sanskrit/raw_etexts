@@ -1,26 +1,26 @@
-+++
-"Text title" = "bhuvaneshvarIaShTottarashatanAmAvalI"
-"File name" = "bhuvaneshvarIaShTottarashatanAmAvalI.itx"
-itxtitle = "bhuvaneshvarIaShTottarashatanAmAvalI"
-engtitle = "bhuvaneshvarIaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anand senartcon at gmail.com"
-"Proofread by" = "Anand senartcon at gmail.com"
-Description-comments = "Editor Ramadatta Shukla, Ritashila Sharma"
-Source = "dashamahAvidyA aShTottarashatanAmAvalI"
-Acknowledge-Permission = "Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga"
-"Latest update" = "September 13, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वरीअष्टोत्तरशतनामावली"
+---
+Acknowledge-Permission: Paravani Adhyatmika Shodhasansthan, shrIchaNDIdhAma, prayAga
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI
+Description-comments: Editor Ramadatta Shukla, Ritashila Sharma
+File name: bhuvaneshvarIaShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: September 13, 2015
+Location: doc_devii
+Proofread by: Anand senartcon at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: dashamahAvidyA aShTottarashatanAmAvalI
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhuvaneshvarIaShTottarashatanAmAvalI
+Texttype: nAmAvalI
+Transliterated by: Anand senartcon at gmail.com
+engtitle: bhuvaneshvarIaShTottarashatanAmAvalI
+itxtitle: bhuvaneshvarIaShTottarashatanAmAvalI
+title: भुवनेश्वरीअष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीभुवनेश्वरीअष्टोत्तरशतनामावली   
 श्रीमहामायायै नमः ।  
@@ -39,7 +39,7 @@ title = "भुवनेश्वरीअष्टोत्तरशतना�
 श्रीविजयायै नमः ।  
 श्रीकौमार्यै नमः ।  
 श्रीसर्वमङ्गलायै नमः ।  
-श्रीहिंगुलायै नमः ।  
+श्रीहिङ्गुलायै नमः ।  
 श्रीविलास्यै नमः ।  
 श्रीज्वालिन्यै नमः ।  
 श्रीज्वालरूपिण्यै नमः । २०  

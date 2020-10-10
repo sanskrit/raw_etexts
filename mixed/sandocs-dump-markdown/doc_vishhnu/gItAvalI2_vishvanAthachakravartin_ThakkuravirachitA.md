@@ -1,25 +1,26 @@
-+++
-"Text title" = "gItAvalI2"
-"File name" = "gItAvalI2.itx"
-itxtitle = "gItAvalI2 (vishvanAthachakravartin ThakkuravirachitA)"
-engtitle = "gItAvalI2 by vishvanAthachakravartin"
-Category = "vishhnu, krishna, vishvanAthachakravartin, stavAmRRitalaharI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गीतावली२ (विश्वनाथचक्रवर्तिन् ठक्कुरविरचिता)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: vishhnu, krishna, vishvanAthachakravartin, stavAmRRitalaharI
+File name: gItAvalI2.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_vishhnu
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gItAvalI2
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: gItAvalI2 by vishvanAthachakravartin
+itxtitle: gItAvalI2 (vishvanAthachakravartin ThakkuravirachitA)
+title: गीतावली२ (विश्वनाथचक्रवर्तिन् ठक्कुरविरचिता)
 
-+++
+---
   
  श्रीगीतावली २   
 प्रभो कृष्णचैतन्य गौराङ्ग  

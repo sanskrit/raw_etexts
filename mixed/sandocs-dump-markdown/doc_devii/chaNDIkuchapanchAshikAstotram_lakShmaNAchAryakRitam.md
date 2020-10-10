@@ -1,22 +1,23 @@
-+++
-"Text title" = "chaNDIkuchapanchAshikAstotram"
-"File name" = "chaNDIkuchapanchAshikAstotram.itx"
-itxtitle = "chaNDIkuchapanchAshikAstotram (lakShmaNAchAryakRitam)"
-engtitle = "chaNDIkuchapanchAshikAstotram"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "lakShmaNAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "March 23, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चण्डीकुचपञ्चाशिकास्तोत्रम् (लक्ष्मणाचार्यकृइतम्)"
+---
+Author: lakShmaNAchArya
+Category: devii, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: chaNDIkuchapanchAshikAstotram.itx
+Language: Sanskrit
+Latest update: March 23, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: chaNDIkuchapanchAshikAstotram
+engtitle: chaNDIkuchapanchAshikAstotram
+itxtitle: chaNDIkuchapanchAshikAstotram (lakShmaNAchAryakRitam)
+title: चण्डीकुचपञ्चाशिकास्तोत्रम् (लक्ष्मणाचार्यकृइतम्)
 
-+++
+---
   
  चण्डीकुचपञ्चाशिकास्तोत्रम्   
   
@@ -66,7 +67,7 @@ title = "चण्डीकुचपञ्चाशिकास्तोत्�
   
 असह्यभरसह्यभूधरमणौ महाराष्ट्रके  
 महाबलजटाढ्यनिष्प्रथितकृष्णवेणी धुनी ।  
-तदम्बुलहरीप्लुता जयति वाजिसंज्ञा पुरी  
+तदम्बुलहरीप्लुता जयति वाजिसञ्ज्ञा पुरी  
 स लक्ष्मणकवीश्वरो वसति तत्र वृत्त्या स्वया ॥ ११॥  
   
 वेणीमाधव एव यस्य जनकः प्रख्यातकीर्तिस्तथा  
@@ -384,7 +385,7 @@ title = "चण्डीकुचपञ्चाशिकास्तोत्�
 अवागपि कवीशवद्भवति पातकं पुण्यवद्-  
 यशोभिरमला दिशो दश भवन्ति यस्तं पठेत् ॥ ७८॥  
   
-चण्डीकुचपञ्चाशत्संज्ञमिमं यः स्तवं नवं पठति ।  
+चण्डीकुचपञ्चाशत्सञ्ज्ञमिमं यः स्तवं नवं पठति ।  
 स नरो न पुनर्जनुषे भवति हि निःश्रेयसाय मे दयया ॥ ७९॥  
   
 तथाऽस्तु किल तत्परं तव जयन्तु मातः प्रभो  

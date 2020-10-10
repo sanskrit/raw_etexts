@@ -3,7 +3,6 @@ title: 023 Rama explains to Lakshmana the various portents
 title_english: 023 Rama explains to Lakshmana the various portents
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-023-Rama_explains_to_Lakshmana_the_various_portents.mp3"></div>
 
 निमित्तानि निमित्तज्ञो दृष्ट्वा लक्ष्मणपूर्वजः ।  
@@ -16,7 +15,7 @@ title_english: 023 Rama explains to Lakshmana the various portents
 पर्वताग्राणि वेपन्ते पतन्ति च महीरुःआः ॥ ६-२१-४  
 मेघाः क्रव्यादसम्काशाः परुषाः परुषस्वनाः ।  
 क्रूराः क्रूरम् प्रवर्षन्ति मिश्रम् शोणितबिन्दुभिः ॥ ६-२१-५  
-रक्तचन्दनसम्काशा संध्या परमदारुणा ।  
+रक्तचन्दनसम्काशा सन्ध्या परमदारुणा ।  
 ज्वलतः प्रपतत्येतदादित्यादग्निमण्डलम् ॥ ६-२१-६  
 दीना दीनस्वराः क्रूराः सर्वतो मृगपक्षिणः ।  
 प्रत्यादित्यम् विनर्दन्ति जनयन्तो महद्भयम् ॥ ६-२१-७  

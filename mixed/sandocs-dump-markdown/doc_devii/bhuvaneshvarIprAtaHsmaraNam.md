@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhuvaneshvarIprAtaHsmaraNam"
-"File name" = "bhuvaneshvarIprAtaHsmaraNam.itx"
-itxtitle = "bhuvaneshvarIprAtaHsmaraNam"
-engtitle = "bhuvaneshvarIprAtaHsmaraNam"
-Category = "devii, devI, dashamahAvidyA, suprabhAta"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com, NA"
-Indexextra = "(Scan)"
-"Latest update" = "February 2, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वरीप्रातःस्मरणम्"
+---
+Category: devii, devI, dashamahAvidyA, suprabhAta
+File name: bhuvaneshvarIprAtaHsmaraNam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 2, 2019
+Location: doc_devii
+Proofread by: Ganesh Kandu kanduganesh at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhuvaneshvarIprAtaHsmaraNam
+engtitle: bhuvaneshvarIprAtaHsmaraNam
+itxtitle: bhuvaneshvarIprAtaHsmaraNam
+title: भुवनेश्वरीप्रातःस्मरणम्
 
-+++
+---
   
  श्रीभुवनेश्वरी प्रातःस्मरणं   
 उद्यदिन-द्यु तिमिन्दु-किरीटां, तुङ्ग-कुचां नयन-त्रय-युक्ताम् ।  

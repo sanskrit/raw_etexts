@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhavabandhamuktyaShTakam"
-"File name" = "bhavabandhamuktyaShTakam.itx"
-itxtitle = "bhavabandhamuktyaShTakam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "bhavabandhamuktyaShTakam"
-Category = "misc, vedanta, advice, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, aShTaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवबन्धमुक्त्यष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: misc, vedanta, advice, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, aShTaka
+File name: bhavabandhamuktyaShTakam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: bhavabandhamuktyaShTakam
+engtitle: bhavabandhamuktyaShTakam
+itxtitle: bhavabandhamuktyaShTakam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: भवबन्धमुक्त्यष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  भवबन्धमुक्त्यष्टकम्   
 एकं द्वितीयरहितं सदबाधितं च  
@@ -54,7 +54,7 @@ title = "भवबन्धमुक्त्यष्टकम् (शिवा
 तत्सर्वकार्यकरणव्यवहारसाक्षि  
 सञ्चिन्तयामि सततं भवबन्धमुक्त्यै ॥ ७॥  
   
-संन्यस्य कर्मनिचयं च तदङ्गभूतं  
+सन्न्यस्य कर्मनिचयं च तदङ्गभूतं  
 सूत्रं शिखां च पुनरप्यबलादिरागम् ।  
 बोधाय यस्य यतते परिशुद्धचित्त-  
 स्तद्भावयामि सततं भवबन्धमुक्त्यै ॥ ८॥  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Ramanuja Ashtottarashatanamavali 108 Names"
-"File name" = "rAmAnujAShTottarashatanAmAvaliH.itx"
-itxtitle = "rAmAnujAShTottarashatanAmAvaliH"
-engtitle = "rAmAnujAShTottarashatanAmAvaliH"
-Category = "deities_misc, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Pandit Shri Rama Ramanuja Acharya, srimatham.com"
-"Latest update" = "June 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामानुजाष्टोत्तरशतनामावलिः"
+---
+Acknowledge-Permission: Pandit Shri Rama Ramanuja Acharya, srimatham.com
+Category: deities_misc, aShTottarashatanAmAvalI, nAmAvalI
+File name: rAmAnujAShTottarashatanAmAvaliH.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: June 22, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Ramanuja Ashtottarashatanamavali 108 Names
+engtitle: rAmAnujAShTottarashatanAmAvaliH
+itxtitle: rAmAnujAShTottarashatanAmAvaliH
+title: रामानुजाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  रामानुजाष्टोत्तरशतनामावलिः   
 ॐ रामानुजाय नमः । पुष्कराक्षाय । यतीन्द्राय । करुणाकराय ।  

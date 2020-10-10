@@ -1,22 +1,22 @@
-+++
-"Text title" = "Skanda Panchashata Namavali"
-"File name" = "skandapanchAshatanAmAvalI.itx"
-itxtitle = "skandapanchAshatanAmAvaliH"
-engtitle = "skandapanchAshatanAmAvalI"
-Category = "subrahmanya, nAmAvalI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Description-comments = "See corresponding stotra"
-"Latest update" = "March 8, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्कन्दपञ्चाशतनामावलिः"
+---
+Category: subrahmanya, nAmAvalI
+Description-comments: See corresponding stotra
+File name: skandapanchAshatanAmAvalI.itx
+Language: Sanskrit
+Latest update: March 8, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Skanda Panchashata Namavali
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: skandapanchAshatanAmAvalI
+itxtitle: skandapanchAshatanAmAvaliH
+title: स्कन्दपञ्चाशतनामावलिः
 
-+++
+---
   
  श्रीस्कन्दपञ्चाशतनामावलिः   
 ॐ श्रीगणेशाय नमः ।  

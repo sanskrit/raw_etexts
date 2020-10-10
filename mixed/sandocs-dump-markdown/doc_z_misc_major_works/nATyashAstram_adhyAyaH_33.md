@@ -1,23 +1,23 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 33"
-"File name" = "natya33.itx"
-itxtitle = "nATyashAstram adhyAyaH 33"
-engtitle = "Natya Shastra Chapter 33"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture/Dance/Drama"
-"Transliterated by" = "hareshbakshi at hotmail.com"
-"Proofread by" = "hareshbakshi at hotmail.com"
-"Latest update" = "february 18, 2003"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः ३३"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya33.itx
+Language: Sanskrit
+Latest update: february 18, 2003
+Location: doc_z_misc_major_works
+Proofread by: hareshbakshi at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture/Dance/Drama
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 33
+Texttype: pramukha
+Transliterated by: hareshbakshi at hotmail.com
+engtitle: Natya Shastra Chapter 33
+itxtitle: nATyashAstram adhyAyaH 33
+title: नाट्यशास्त्रम् अध्यायः ३३
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः ३३   
   
@@ -51,7 +51,7 @@ title = "नाट्यशास्त्रम् अध्यायः ३३
 बलवानवहितबुद्धिर्गीतलयज्ञस्तथासुसङ्गीतः ।  
 श्रावकमधुरस्निग्धो दृढपाणिर्वंशवादको ज्ञेयः ॥ ९ ॥  
   
-अविचलितमविच्छन्नं वर्णालङ्कारबोधकंमधुरम् ।  
+अविचलितमविच्छन्नं वर्णालङ्कारबोधकम्मधुरम् ।  
 स्निग्धं दोषविहीनं वेणोरेवं स्मृतं वाद्यम् ॥ १० ॥  
   
 ज्ञानविज्ञानकरणवचनप्रयोगसिद्धिनिष्पादनानि  
@@ -72,7 +72,7 @@ title = "नाट्यशास्त्रम् अध्यायः ३३
 मनःप्रह्लादनकरः स वै मधुर उच्यते ॥ १४ ॥  
   
 स्वरेऽधिके च हीने च ह्यविरक्तो विधानवान् ।  
-शिरःकण्ठेष्वभिहितंत्रिस्थानमधुरस्वरः ।  
+शिरःकण्ठेष्वभिहितन्त्रिस्थानमधुरस्वरः ।  
 त्रिस्थानशोभीत्येवं तु स हि तज्ज्ञैरुदाहृतः ॥ १५ ॥  
   
 कपिलो ह्यवस्थितश्चैव तथा सन्दष्ट एव च ।  

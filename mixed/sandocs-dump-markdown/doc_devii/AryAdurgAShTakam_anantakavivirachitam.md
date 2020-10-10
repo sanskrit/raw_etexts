@@ -1,23 +1,24 @@
-+++
-"Text title" = "AryAdurgAShTakam"
-"File name" = "AryAdurgAShTakam.itx"
-itxtitle = "AryAdurgAShTakam (anantakavivirachitam)"
-engtitle = "AryAdurgAShTakam"
-Category = "devii, aShTaka, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "Anantakavi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "February 10, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आर्यादुर्गाष्टकम् (अनन्तकविविरचितम्)"
+---
+Author: Anantakavi
+Category: devii, aShTaka, durgA, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: AryAdurgAShTakam.itx
+Language: Sanskrit
+Latest update: February 10, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: AryAdurgAShTakam
+engtitle: AryAdurgAShTakam
+itxtitle: AryAdurgAShTakam (anantakavivirachitam)
+title: आर्यादुर्गाष्टकम् (अनन्तकविविरचितम्)
 
-+++
+---
   
  आर्यादुर्गाष्टकम्   
   
@@ -54,7 +55,7 @@ title = "आर्यादुर्गाष्टकम् (अनन्तक
      त्वामाद्यां विश्ववन्द्यां त्रिगुणमयतनुं चेतसा चिन्तयामि ॥ ६॥  
   
 त्वद्रूपज्ञानकामा विविधविधसमाकॢप्ततर्कैरनेकै-  
-     र्नो शक्ता निर्जरास्ते विधि-हरि-हरसंज्ञा जगद्वन्द्यपादाः ।  
+     र्नो शक्ता निर्जरास्ते विधि-हरि-हरसञ्ज्ञा जगद्वन्द्यपादाः ।  
 का शक्तिर्मे भवित्री जलनिधितनये ज्ञातुमुग्रं तवेदं  
      रूपं नाम्ना प्रभावादपि वितथफलो मे बभूव प्रयत्नः ॥ ७॥  
   

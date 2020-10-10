@@ -1,30 +1,31 @@
-+++
-"Text title" = "ramaNahRidayam"
-"File name" = "ramaNahRidayam.itx"
-itxtitle = "ramaNahRidayam"
-engtitle = "Revelation"
-Category = "hRidaya, deities_misc, ramana, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "ramana"
-Author = "Componsed by K.Lakshmana Sarma"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion  It has been approved to be posted on Sanskritdocuments.org  by permission of Sri V.S. Ramanan, President, Sri Ramanasramam."
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Ramanashram Publication www.sriramanamaharshi.org"
-Indexextra = "(Revelation)"
-Acknowledge-Permission = "Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org"
-"Latest update" = "November 3, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रमणहृइदयम्"
+---
+Acknowledge-Permission: Sri V.S. Ramanan, President, Sri Ramanasramam sriramanamaharshi.org
+Author: Componsed by K.Lakshmana Sarma
+Category: hRidaya, deities_misc, ramana, gurudev
+Description-comments: Ramanashram Publication www.sriramanamaharshi.org
+File name: ramaNahRidayam.itx
+Indexextra: (Revelation)
+Language: Sanskrit
+Latest update: November 3, 2014
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ramana
+Subject: philosophy/hinduism/religion  It has been approved to be posted on Sanskritdocuments.org  by
+  permission of Sri V.S. Ramanan, President, Sri Ramanasramam.
+Sublocation: deities_misc
+Text title: ramaNahRidayam
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Revelation
+itxtitle: ramaNahRidayam
+title: रमणहृइदयम्
 
-+++
+---
   
  श्रीरमणहृदयम्   
   
-विषयानुक्रमणिका (श्लोकसंख्या)  
+विषयानुक्रमणिका (श्लोकसङ्ख्या)  
 १ ग्रन्थावतरणम् ।     (१-३)  
 २ मङ्गलम् ।     (४-५)  
 ३ विवेकप्रकरणम् ।     (६-२७)  

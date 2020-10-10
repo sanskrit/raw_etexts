@@ -1,23 +1,23 @@
-+++
-"Text title" = "lakShmyaShTottarashatanAmastotram"
-"File name" = "lakShmyaShTottarashatanAmastotram.itx"
-itxtitle = "lakShmyaShTottarashatanAmastotram (nAradIyopapurANAntargatam)"
-engtitle = "lakShmyaShTottarashatanAmastotram"
-Category = "devii, aShTottarashatanAma, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Source = "nAradIyopapurANa"
-Indexextra = "(VSM 1)"
-"Latest update" = "June 13, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्म्यष्टोत्तरशतनामस्तोत्रम् (नारदीयोपपुराणान्तर्गतम्)"
+---
+Category: devii, aShTottarashatanAma, lakShmI, devI
+File name: lakShmyaShTottarashatanAmastotram.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: June 13, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: nAradIyopapurANa
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmyaShTottarashatanAmastotram
+engtitle: lakShmyaShTottarashatanAmastotram
+itxtitle: lakShmyaShTottarashatanAmastotram (nAradIyopapurANAntargatam)
+title: लक्ष्म्यष्टोत्तरशतनामस्तोत्रम् (नारदीयोपपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीलक्ष्म्यष्टोत्तरशतनामस्तोत्रम्   
   

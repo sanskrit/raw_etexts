@@ -3,7 +3,6 @@ title: 012 अश्वमेधारम्भः
 title_english: 012 dasaratha readies to perform asvamedha ritual
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-012-Ashva_Medhaarambhaha.mp3"></div>
 
   

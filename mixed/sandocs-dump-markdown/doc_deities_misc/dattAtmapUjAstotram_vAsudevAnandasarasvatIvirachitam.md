@@ -1,23 +1,24 @@
-+++
-"Text title" = "dattAtmapUjAstotram"
-"File name" = "dattAtmapUjAstotram.itx"
-itxtitle = "dattAtmapUjAstotram (vAsudevAnandasarasvatIvirachitam)"
-engtitle = "dattAtmapUjAstotram"
-Category = "deities_misc, dattatreya, vAsudevAnanda-sarasvatI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "Shri Vasudevanandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "March 24, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्मपूजास्तोत्रम् (वासुदेवानन्दसरस्वतीविरचितम्)"
+---
+Author: Shri Vasudevanandasarasvati
+Category: deities_misc, dattatreya, vAsudevAnanda-sarasvatI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: dattAtmapUjAstotram.itx
+Language: Sanskrit
+Latest update: March 24, 2017
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattAtmapUjAstotram
+engtitle: dattAtmapUjAstotram
+itxtitle: dattAtmapUjAstotram (vAsudevAnandasarasvatIvirachitam)
+title: दत्तात्मपूजास्तोत्रम् (वासुदेवानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  दत्तात्मपूजास्तोत्रम्   
   

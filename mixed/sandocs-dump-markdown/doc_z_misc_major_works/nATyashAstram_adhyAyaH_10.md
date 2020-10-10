@@ -1,23 +1,23 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 10"
-"File name" = "natya10.itx"
-itxtitle = "nATyashAstram adhyAyaH 10"
-engtitle = "Natya Shastra Chapter 10"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture/Dance/Drama"
-"Transliterated by" = "Sowmya Krishnapur krsowmya at yahoo.com"
-"Proofread by" = "Sowmya Krishnapur krsowmya at yahoo.com"
-"Latest update" = "February 04, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः १०"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya10.itx
+Language: Sanskrit
+Latest update: February 04, 2005
+Location: doc_z_misc_major_works
+Proofread by: Sowmya Krishnapur krsowmya at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture/Dance/Drama
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 10
+Texttype: pramukha
+Transliterated by: Sowmya Krishnapur krsowmya at yahoo.com
+engtitle: Natya Shastra Chapter 10
+itxtitle: nATyashAstram adhyAyaH 10
+title: नाट्यशास्त्रम् अध्यायः १०
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः १०   
   
@@ -31,7 +31,7 @@ title = "नाट्यशास्त्रम् अध्यायः १०
 विधानोपगताश्चार्यो व्यायच्छन्ते परस्परम् ।  
 यस्मादङ्गसमायुक्तास्तस्माद्व्यायाम उच्यते ॥ २॥  
   
-एकपादप्रचारो यः सा चारीत्यभिसंज्ञिता ।  
+एकपादप्रचारो यः सा चारीत्यभिसञ्ज्ञिता ।  
 द्विपादक्रमणं यत्तु करणं नाम तद्भवेत् ॥ ३॥  
   
 करणानां समायोगः खण्डमित्यभिधीयते ।  
@@ -40,7 +40,7 @@ title = "नाट्यशास्त्रम् अध्यायः १०
 चारीभिः प्रसृतं नृत्तं चारीभिश्चेष्टितं तथा ।  
 चारीभिः शस्त्रमोक्षश्च चार्यो युद्धे च कीर्तिताः ॥ ५॥  
   
-यदेतत्प्रस्तुतं नाट्यं तच्चारीष्वेव संज्ञितम् ।  
+यदेतत्प्रस्तुतं नाट्यं तच्चारीष्वेव सञ्ज्ञितम् ।  
 नहि चार्या विना किञ्चिन्नाट्येऽङ्गं सम्प्रवर्तते ॥ ६॥  
   
 तस्माच्चारीविधानस्य सम्प्रवक्ष्यामि लक्षणम् ।  
@@ -58,7 +58,7 @@ title = "नाट्यशास्त्रम् अध्यायः १०
 अतिक्रान्ता ह्यपक्रान्ता पार्श्वक्रान्ता तथैव च ।  
 ऊर्ध्वजानुश्च सूची च तथा नूपुरपादिका ॥ ११॥  
   
-डोलपादा तथाक्षिप्ता आविद्धोद्वृत्तसंज्ञिते ।  
+डोलपादा तथाक्षिप्ता आविद्धोद्वृत्तसञ्ज्ञिते ।  
 विद्युद्भ्रान्ता ह्यलाता च भुजङ्गत्रासिता तथा ॥ १२॥  
   
 मृगप्लुता च दण्डा च भ्रमरी चेति षोडश ।  
@@ -284,7 +284,7 @@ title = "नाट्यशास्त्रम् अध्यायः १०
 न भेद्यं नापि तु च्छेद्यं न चापि रुधिरस्रुतिः ॥ ८६॥  
   
 रङ्गे प्रहरणे कार्यो न चापि व्यक्तघातनम् ।  
-संज्ञामात्रेण कर्तव्यं शस्त्राणां मोक्षणं बुधैः ॥ ८७॥  
+सञ्ज्ञामात्रेण कर्तव्यं शस्त्राणां मोक्षणं बुधैः ॥ ८७॥  
   
 अथवाभिनयोपेतं कुर्याच्छेद्यं विधानतः ।  
 अङ्गसौष्ठवसंयुक्तैरङ्गहारैर्विभूषितम् ॥ ८८॥  
@@ -311,7 +311,7 @@ title = "नाट्यशास्त्रम् अध्यायः १०
 परिमार्जनमादानं सन्धानं मोक्षणम् तथा ॥ ९५॥  
   
 धनुषस्तु प्रयोक्तव्यं करणं तु चतुर्विधम् ।  
-संमार्जनं परामर्षमादानं ग्रहणं क्रिया ॥ ९६॥  
+सम्मार्जनं परामर्षमादानं ग्रहणं क्रिया ॥ ९६॥  
   
 सन्धानं शरविन्यासो विक्षेपो मोक्षणं भवेत् ।  
 तैलाभ्यक्तेन गात्रेण यवागूमृदितेन च ॥ ९७॥  

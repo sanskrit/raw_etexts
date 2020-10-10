@@ -1,23 +1,24 @@
-+++
-"Text title" = "Shri Virabhadra Ashtottara Shata Namavali"
-"File name" = "vIrabhadrAShTottarashatanAmAvaliH.itx"
-itxtitle = "vIrabhadrAShTottarashatanAmAvaliH (vAyupurANAntargatA hayagrIvAvatAravirachitA)"
-engtitle = "Shri Virabhadra Ashtottara Shata Namavali"
-Category = "shiva, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gowri Sanker Rupakula gowrishankerr at gmail.com, Lalitha Parameswari parameswari.lalitha at gmail.com"
-"Proofread by" = "Lalitha Parameswari, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Vayupurana"
-Indexextra = "(Scan)"
-"Latest update" = "January 24, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वीरभद्राष्टोत्तरशतनामावलिः (वायुपुराणान्तर्गता हयग्रीवावतारविरचिता)"
+---
+Category: shiva, aShTottarashatanAmAvalI, nAmAvalI
+Description/comments: Vayupurana
+File name: vIrabhadrAShTottarashatanAmAvaliH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 24, 2019
+Location: doc_shiva
+Proofread by: Lalitha Parameswari, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Virabhadra Ashtottara Shata Namavali
+Transliterated by: Gowri Sanker Rupakula gowrishankerr at gmail.com, Lalitha Parameswari
+  parameswari.lalitha at gmail.com
+engtitle: Shri Virabhadra Ashtottara Shata Namavali
+itxtitle: vIrabhadrAShTottarashatanAmAvaliH (vAyupurANAntargatA hayagrIvAvatAravirachitA)
+title: वीरभद्राष्टोत्तरशतनामावलिः (वायुपुराणान्तर्गता हयग्रीवावतारविरचिता)
 
-+++
+---
   
  श्रीवीरभद्राष्टोत्तरशतनामावलिः   
 ॐ वीरभद्राय नमः ।  

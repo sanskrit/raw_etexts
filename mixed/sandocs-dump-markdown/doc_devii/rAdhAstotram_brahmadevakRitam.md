@@ -1,26 +1,26 @@
-+++
-"Text title" = "brahmaNakRitaM shriiraadhaastotram brahmaNakRitaM"
-"File name" = "raadhaabrahma.itx"
-itxtitle = "rAdhAstotram (brahmadevakRitam)"
-engtitle = "Radhastotram Brahmanakritam"
-Category = "devii, radha, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Texttype = "stotra"
-Author = "brahma"
-Language = "Sanskrit"
-Subject = "stotra"
-"Transliterated by" = "Daniel Mohanpersad danielmohanpersad98 at msn.com"
-"Proofread by" = "Daniel Mohanpersad danielmohanpersad98 at msn.com"
-Source = "brahmavaivarta puraaNa"
-Indexextra = "(needs proofreading)"
-"Latest update" = "August 15, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधास्तोत्रम् (ब्रह्मदेवकृइतम्)"
+---
+Author: brahma
+Category: devii, radha, stotra, devI
+File name: raadhaabrahma.itx
+Indexextra: (needs proofreading)
+Language: Sanskrit
+Latest update: August 15, 2002
+Location: doc_devii
+Proofread by: Daniel Mohanpersad danielmohanpersad98 at msn.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: brahmavaivarta puraaNa
+SubDeity: radha
+Subject: stotra
+Sublocation: devii
+Text title: brahmaNakRitaM shriiraadhaastotram brahmaNakRitaM
+Texttype: stotra
+Transliterated by: Daniel Mohanpersad danielmohanpersad98 at msn.com
+engtitle: Radhastotram Brahmanakritam
+itxtitle: rAdhAstotram (brahmadevakRitam)
+title: राधास्तोत्रम् (ब्रह्मदेवकृइतम्)
 
-+++
+---
   
  श्रीराधास्तोत्रं ब्रह्मदेवकृतम्   
   
@@ -88,7 +88,7 @@ title = "राधास्तोत्रम् (ब्रह्मदेवक
 इत्युक्त्वा जगतां धाता तथौ च पुरतस्तयोः ॥ २१॥  
   
 प्रणम्य चरणाम्भोजं सर्वेस्ःआं वन्द्यमीप्सितम् ।  
-ब्रह्मणा च कृतं स्तोत्रं त्रिसंध्यं यः पठेन्नरः ।  
+ब्रह्मणा च कृतं स्तोत्रं त्रिसन्ध्यं यः पठेन्नरः ।  
 राधामाधवयोः पादे भक्तिं दास्यं लभेद् ध्रुवम् ॥ २२॥  
   
 कर्मनिर्मूलनं कृत्वा मृत्युं जित्वा सुदुर्जयम् ।  

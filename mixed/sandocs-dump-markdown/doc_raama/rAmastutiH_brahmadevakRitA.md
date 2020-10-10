@@ -1,24 +1,24 @@
-+++
-"Text title" = "brahmadevakRitaM rAmastutiH"
-"File name" = "brahmaraamastuti.itx"
-itxtitle = "rAmastutiH (brahmadevakRitA)"
-engtitle = "brahmadevakRitaM rAmastutiH"
-Category = "raama, stotra, vyAsa"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "Brahmadeva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "adhyAtmarAmAyaNa"
-"Latest update" = "January 03, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामस्तुतिः (ब्रह्मदेवकृइता)"
+---
+Author: Brahmadeva
+Category: raama, stotra, vyAsa
+Description-comments: adhyAtmarAmAyaNa
+File name: brahmaraamastuti.itx
+Language: Sanskrit
+Latest update: January 03, 2005
+Location: doc_raama
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: brahmadevakRitaM rAmastutiH
+Texttype: stotra
+Transliterated by: WebD
+engtitle: brahmadevakRitaM rAmastutiH
+itxtitle: rAmastutiH (brahmadevakRitA)
+title: रामस्तुतिः (ब्रह्मदेवकृइता)
 
-+++
+---
   
  श्रीरामस्तुती ब्रह्मदेवकृतम्   
   

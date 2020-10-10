@@ -1,21 +1,21 @@
-+++
-"Text title" = "mRRityulAngUlavidyopaniShad"
-"File name" = "mRRityulAngUlavidyopaniShat.itx"
-itxtitle = "mRityulANgUlavidyopaniShat yAjuShI"
-engtitle = "yAjuShI mRityulANgUlavidyopaniShat"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD, help from Alex"
-"Proofread by" = "DPD"
-"Latest update" = "March 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मृइत्युलाण्गूलविद्योपनिषत् याजुषी"
+---
+Category: upanishhat, upanishad
+File name: mRRityulAngUlavidyopaniShat.itx
+Language: Sanskrit
+Latest update: March 6, 2016
+Location: doc_upanishhat
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: mRRityulAngUlavidyopaniShad
+Transliterated by: DPD, help from Alex
+engtitle: yAjuShI mRityulANgUlavidyopaniShat
+itxtitle: mRityulANgUlavidyopaniShat yAjuShI
+title: मृइत्युलाण्गूलविद्योपनिषत् याजुषी
 
-+++
+---
   
  याजुषी मृत्युलाङ्गूलविद्योपनिषत्   
   
@@ -25,7 +25,7 @@ title = "मृइत्युलाण्गूलविद्योपनि�
   
 तेजस्विनावधीतमस्तु मा विद्विषावहै ॥  
   
-ॐ शांतिः । शांतिः ॥ शांतिः ॥।  
+ॐ शान्तिः । शान्तिः ॥ शान्तिः ॥।  
   
 ॐ एकदा महाकैलासे सुखासीनं महादेवमुपगम्य प्रणिपत्य  
 भो भगवन् मृत्युलाङ्गूलविद्यामनुब्रूहीत्युवाच वसिष्ठः ।  
@@ -76,7 +76,7 @@ title = "मृइत्युलाण्गूलविद्योपनि�
   
 तेजस्विनावधीतमस्तु मा विद्विषावहै ॥  
   
-ॐ शांतिः । शांतिः ॥ शांतिः ॥।  
+ॐ शान्तिः । शान्तिः ॥ शान्तिः ॥।  
   
   
 Proofread by DPD  

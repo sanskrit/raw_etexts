@@ -1,22 +1,22 @@
-+++
-"Text title" = "vanadurgAmantravidhAnam"
-"File name" = "vanadurgAmantravidhAnam.itx"
-itxtitle = "vanadurgAmantravidhAnam"
-engtitle = "vanadurgAmantravidhAnam"
-Category = "devii, pUjA, durga, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durga"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Parameshwar Puttanmane poornapathi  at gmail.com"
-"Proofread by" = "Parameshwar Puttanmane poornapathi  at gmail.com"
-"Latest update" = "May 27, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वनदुर्गामन्त्रविधानम्"
+---
+Category: devii, pUjA, durga, dashamahAvidyA, devI
+File name: vanadurgAmantravidhAnam.itx
+Language: Sanskrit
+Latest update: May 27, 2019
+Location: doc_devii
+Proofread by: Parameshwar Puttanmane poornapathi  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durga
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vanadurgAmantravidhAnam
+Transliterated by: Parameshwar Puttanmane poornapathi  at gmail.com
+engtitle: vanadurgAmantravidhAnam
+itxtitle: vanadurgAmantravidhAnam
+title: वनदुर्गामन्त्रविधानम्
 
-+++
+---
   
  वनदुर्गामन्त्रविधानम्   
 अथ सङ्कल्पः ।  

@@ -1,30 +1,30 @@
-+++
-"Text title" = "chakrarAjastotra"
-"File name" = "chakrarAjastotra.itx"
-itxtitle = "chakrarAjastotram"
-engtitle = "Shri Chakrarajastotra"
-Category = "devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Latest update" = "March 23, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चक्रराजस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, stotra, devI
+File name: chakrarAjastotra.itx
+Language: Sanskrit
+Latest update: March 23, 2014
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: hinduism/religion
+Sublocation: devii
+Text title: chakrarAjastotra
+Texttype: stotra
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: Shri Chakrarajastotra
+itxtitle: chakrarAjastotram
+title: चक्रराजस्तोत्रम्
 
-+++
+---
   
  श्रीचक्रराजस्तोत्रम्   
   
 प्रोक्ता पञ्चदशी विद्या महात्रिपुरसुन्दरी ।  
 श्रीमहाषोडशी प्रोक्ता महामाहेश्वरी सदा ॥ १॥  
   
-प्रोक्ता श्रीदक्षिणा काली महाराज्ञीति संज्ञया ।  
+प्रोक्ता श्रीदक्षिणा काली महाराज्ञीति सञ्ज्ञया ।  
  var  लोके ख्याता महाराज्ञी नाम्ना दक्षिणकालिका ।  
 आगमेषु महाशक्तिः ख्याता श्रीभुवनेश्वरी ॥ २॥  
   

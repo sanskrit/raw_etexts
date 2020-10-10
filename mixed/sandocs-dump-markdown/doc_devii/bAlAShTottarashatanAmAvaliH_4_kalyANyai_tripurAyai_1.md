@@ -1,24 +1,24 @@
-+++
-"Text title" = "bAlAShTottarashatanAmAvalI 4"
-"File name" = "bAlAShTottarashatanAmAvalI4.itx"
-itxtitle = "bAlAShTottarashatanAmAvaliH 4 (kalyANyai tripurAyai 1)"
-engtitle = "bAlAShTottarashatanAmAvalI 4"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Balasaparya"
-Indexextra = "(Scan)"
-"Latest update" = "August 43, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाष्टोत्तरशतनामावलिः ४ (कल्याण्यै त्रिपुरायै १)"
+---
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI
+Description-comments: Balasaparya
+File name: bAlAShTottarashatanAmAvalI4.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 43, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAShTottarashatanAmAvalI 4
+Texttype: nAmAvalI
+engtitle: bAlAShTottarashatanAmAvalI 4
+itxtitle: bAlAShTottarashatanAmAvaliH 4 (kalyANyai tripurAyai 1)
+title: बालाष्टोत्तरशतनामावलिः ४ (कल्याण्यै त्रिपुरायै १)
 
-+++
+---
   
  श्रीबालाष्टोत्तरशतनामावलिः ४   
 ॐ कल्याण्यै नमः । त्रिपुरायै । बालायै । मायायै ।  
@@ -41,7 +41,7 @@ title = "बालाष्टोत्तरशतनामावलिः ४ 
 ६  var  - ६ सच्चिदानन्दलहर्यै नमः श्रीविद्यायै ।  
 त्रिपुरेश्वर्यै ।सर्वसङ्क्षोभिण्यै । पूर्वनवमुद्रेश्वर्यै ।  
 शिवायै ।७ अनङ्गकुसुमाराध्यायै ।  var  - ७ पूर्वायै ।  
-अनन्तमुद्रेश्यै । सर्वसंक्षोभिण्यै । शिवायै । चक्रेश्यै  
+अनन्तमुद्रेश्यै । सर्वसङ्क्षोभिण्यै । शिवायै । चक्रेश्यै  
 ।८ भुवनेश्वर्यै । गुप्तायै । गुप्ततरायै ।  var  - ८  
 अनङ्गकुसुमापीडायै । चक्रिण्यै । नित्यायै । नित्यक्लिन्नायै नमः । ४०॥  
   

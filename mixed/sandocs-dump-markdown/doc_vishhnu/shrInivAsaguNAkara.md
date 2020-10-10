@@ -1,26 +1,26 @@
-+++
-"Text title" = "shrIshrInivAsaguNAkara"
-"File name" = "shrInivAsaguNAkara.itx"
-itxtitle = "shrInivAsaguNAkara"
-engtitle = "shrIshrInivAsaguNAkara"
-Category = "vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Author = "shrIshailastAtayAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "June 10, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीनिवासगुणाकर"
+---
+Author: shrIshailastAtayAchArya
+Category: vishhnu, venkateshwara, stotra, vishnu
+File name: shrInivAsaguNAkara.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: June 10, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIshrInivAsaguNAkara
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: shrIshrInivAsaguNAkara
+itxtitle: shrInivAsaguNAkara
+title: श्रीनिवासगुणाकर
 
-+++
+---
   
  श्रीनिवासगुणाकरः   
   
@@ -51,7 +51,7 @@ title = "श्रीनिवासगुणाकर"
 लोकेऽग्र्यात्मजवाक्चये सति शिशोरव्यक्तशक्यं [ब्दं] यथा ॥ ४॥  
   
 अघटितघटनायां त्वत्समोऽस्मि प्रसिद्धा  
-वृषधरधव सा ते पण्डितंमन्यतेद्धः ।  
+वृषधरधव सा ते पण्डितम्मन्यतेद्धः ।  
 नुतिकृतिभरभारी दुर्घटं शास्त्रदृष्ट्या  
 परमिह घटयामि श्रीश शब्दार्थजालम् ॥ ५॥  
   
@@ -105,7 +105,7 @@ title = "श्रीनिवासगुणाकर"
 तत्सीमाकारा वलिसन्ध्यञ्चितरेखाः शेषक्ष्माक्षोणिभृद्धव  
       लक्ष्मीश विभान्ति ॥ १६॥  
   
-कुक्षिन्यस्तजगत्रयीजनघटासंमर्दजोच्छूनतासम्भूता  
+कुक्षिन्यस्तजगत्रयीजनघटासम्मर्दजोच्छूनतासम्भूता  
       वलयश्च सन्धय इमास्तत्सीमरेखा इव ।  
 सद्धीरोदरबन्धनं विजयते तद्धारणादक्षता  
       सन्देहारचितं वृषाचलशिरश्चूडामणे श्रीनिधे ॥ १७॥  
@@ -238,7 +238,7 @@ title = "श्रीनिवासगुणाकर"
   
 गेहादेर्मनुजास्त्रिविष्टपसदस्तेषां पयोजासनः  
     तेषां तस्य च वेङ्कटाचलपते श्रीशस्य ते श्रीश पादद्वयम् ।  
-यत्तस्यापि हि पादुकामणिमयं संरक्षकं पुंमणिव्याकीर्णं  
+यत्तस्यापि हि पादुकामणिमयं संरक्षकं पुम्मणिव्याकीर्णं  
     तदनन्यरक्षककथं मां सर्वदा रक्षतु ॥ ४५॥  
   
 स्तोत्रं गोत्रापतीनां न कुरु मुख मुधा स्वाय ते ज्ञा यदि स्युः  
@@ -423,7 +423,7 @@ title = "श्रीनिवासगुणाकर"
 भवजलधिरूरुदघ्नः स्यादिति सूचयसि ननु वृषाद्रीश ॥ ८४॥  
   
 चञ्चद्दारमरीचिकाविषयदुर्वीरुद्गदव्याघ्रयुक्-  
-    क्रुड्दावावृतिभीमसंसृतिवनीदग्धात्मसंजीवनीम् ।  
+    क्रुड्दावावृतिभीमसंसृतिवनीदग्धात्मसञ्जीवनीम् ।  
 सारासारभवत्कथारससुधां पीतां सदा कुर्वतां  
     शेषाद्रीश सुधा सुधाऽब्धिजनिता सा शर्करा शर्करा ॥ ८५॥  
   
@@ -545,7 +545,7 @@ title = "श्रीनिवासगुणाकर"
 नखप्रततितामपि स्वयमगाद्रमावल्लभ ॥ १०९॥  
   
 मद्रक्षैककृतक्षणेन भवता दत्तेन चित्तादिना  
-सेवायै करणेन साधु गुरुणा गोवालसंछेदनम् ।  
+सेवायै करणेन साधु गुरुणा गोवालसञ्छेदनम् ।  
 छित्त्यै शिष्य इवैधसः कुचरितं कुर्वेऽतिदुर्वारधीः  
 मामीदृग्गुणमीश रक्षसि कथं शेषाचलाधीश्वर ॥ ११०॥  
   

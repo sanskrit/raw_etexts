@@ -3,7 +3,6 @@ title: 047 The people of Ayodhya begin to rebuke themselves
 title_english: 047 The people of Ayodhya begin to rebuke themselves
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-047-Pouranam_Prathya_Gamanam.mp3"></div>
 
 प्रभातायाम् तु शर्वर्याम् पौराः ते राघवो विना ।  
@@ -30,7 +29,7 @@ title_english: 047 The people of Ayodhya begin to rebuke themselves
 विहिनास्तेन च पुनः कथम् पश्याम ताम् पुरीम् ॥ २-४७-११  
 इतीव बहुधा वाचो बाहुमुद्यम्य ते जनाः ।  
 विलपन्तिस्म दुःखर्ता विवत्सा इव धेनवः ॥ २-४७-१२  
-ततः मार्ग अनुसारेण गत्वा किंचित् क्षणम् पुनः  
+ततः मार्ग अनुसारेण गत्वा किञ्चित् क्षणम् पुनः  
 मार्ग नाशात् विषादेन महता समभिप्लुतः ॥ २-४७-१३  
 रथस्य मार्ग नाशेन न्यवर्तन्त मनस्विनः ।  
 किम् इदम् किम् करिष्यामः दैवेन उपहताइति ॥ २-४७-१४  

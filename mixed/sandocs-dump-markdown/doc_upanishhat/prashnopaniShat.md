@@ -1,24 +1,24 @@
-+++
-"Text title" = "prashnopaniShat"
-"File name" = "prashna.itx"
-itxtitle = "prashnopaniShat"
-engtitle = "Prashna Upanishad"
-Category = "upanishhat, svara, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Rishis"
-Language = "Sanskrit"
-Subject = "Philosophy/religion/hinduism"
-"Transliterated by" = "Sorin Suciu sorins at hotmail.com"
-"Proofread by" = "John Manetta, David Lyttle, Sunder Hattangadi"
-Description-comments = "4/108; Atharva Veda, Mukhya upanishad"
-"Latest update" = "July 20, 1999, July 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रश्नोपनिषत्"
+---
+Author: Vedic Rishis
+Category: upanishhat, svara, upanishad
+Description-comments: 4/108; Atharva Veda, Mukhya upanishad
+File name: prashna.itx
+Language: Sanskrit
+Latest update: July 20, 1999, July 10, 2018
+Location: doc_upanishhat
+Proofread by: John Manetta, David Lyttle, Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: prashnopaniShat
+Texttype: svara
+Transliterated by: Sorin Suciu sorins at hotmail.com
+engtitle: Prashna Upanishad
+itxtitle: prashnopaniShat
+title: प्रश्नोपनिषत्
 
-+++
+---
   
  प्रश्नोपनिषत्   
   

@@ -1,25 +1,26 @@
-+++
-"Text title" = "kRRiShNakuNDAShTakam"
-"File name" = "kRRiShNakuNDAShTakam.itx"
-itxtitle = "kRiShNakuNDAShTakam (vishvanAthachakravartin Thakkuravirachitam)"
-engtitle = "kRRiShNakuNDAShTakam by vishvanAthachakravartin"
-Category = "vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णकुण्डाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI
+File name: kRRiShNakuNDAShTakam.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_vishhnu
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNakuNDAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: kRRiShNakuNDAShTakam by vishvanAthachakravartin
+itxtitle: kRiShNakuNDAShTakam (vishvanAthachakravartin Thakkuravirachitam)
+title: कृइष्णकुण्डाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)
 
-+++
+---
   
  श्रीकृष्णकुण्डाष्टकम्   
 किं तपश्चचार तीर्थलक्षमक्षयं पुरा  

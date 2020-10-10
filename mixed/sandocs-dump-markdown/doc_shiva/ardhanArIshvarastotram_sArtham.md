@@ -1,26 +1,26 @@
-+++
-"Text title" = "ardhanArIshvarastotram with English meaning"
-"File name" = "ardhanArI_mean.itx"
-itxtitle = "ardhanArIshvarastotram (sArtham)"
-engtitle = "Ardhanarishvarastotram with meaning"
-Category = "shiva, stotra, shankarAchArya, devii, devI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sridhar Seshagiri sridhar.seshagiri at gmail.com"
-"Proofread by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-"Translated by" = "Ravi  Mayavaram  msr@comco.com"
-Description-comments = "Hymn to lord Shiva in the form of half man-half woman"
-Indexextra = "(with meaning)"
-"Latest update" = "September 29, 2001, March 2, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अर्धनारीश्वरस्तोत्रम् (सार्थम्)"
+---
+Author: Adi Shankaracharya
+Category: shiva, stotra, shankarAchArya, devii, devI
+Description-comments: Hymn to lord Shiva in the form of half man-half woman
+File name: ardhanArI_mean.itx
+Indexextra: (with meaning)
+Language: Sanskrit
+Latest update: September 29, 2001, March 2, 2014
+Location: doc_shiva
+Proofread by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: shiva
+Text title: ardhanArIshvarastotram with English meaning
+Texttype: stotra
+Translated by: Ravi  Mayavaram  msr@comco.com
+Transliterated by: Sridhar Seshagiri sridhar.seshagiri at gmail.com
+engtitle: Ardhanarishvarastotram with meaning
+itxtitle: ardhanArIshvarastotram (sArtham)
+title: अर्धनारीश्वरस्तोत्रम् (सार्थम्)
 
-+++
+---
   
  अर्धनारीश्वरस्तोत्रम् सार्थ   
   
@@ -137,7 +137,7 @@ desires, honor, a long life, and all auspicious things for eternity. One
 who repeats it again and again will attain all powers and perfection.  
      
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-श्रीमच्छंकरभगवतः कृतौ अर्धनारीश्वरस्तोत्रम् संपूर्णम् ॥  
+श्रीमच्छङ्करभगवतः कृतौ अर्धनारीश्वरस्तोत्रम् सम्पूर्णम् ॥  
   
  Thus concludes the ardhanArIshvara stotram, composed by  
 shrI Adi sha.nkarAchArya, disciple of shrI govinda bhagavatpAda.  

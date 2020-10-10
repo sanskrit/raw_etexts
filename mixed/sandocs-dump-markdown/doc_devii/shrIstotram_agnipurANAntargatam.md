@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrIstotram"
-"File name" = "shrIstotram.itx"
-itxtitle = "shrIstotram (agnipurANAntargatam)"
-engtitle = "shrIstotram"
-Category = "devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Agnipurana, adhyAya 236"
-"Latest update" = "January 16, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीस्तोत्रम् (अग्निपुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: devii, lakShmI, devI
+File name: shrIstotram.itx
+Language: Sanskrit
+Latest update: January 16, 2017
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Agnipurana, adhyAya 236
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIstotram
+engtitle: shrIstotram
+itxtitle: shrIstotram (agnipurANAntargatam)
+title: श्रीस्तोत्रम् (अग्निपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीस्तोत्रम्   
   

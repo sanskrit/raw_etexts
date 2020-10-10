@@ -1,22 +1,23 @@
-+++
-"Text title" = "manIShApaJNchakaM"
-"File name" = "manishhaa5.itx"
-itxtitle = "manIShApanchakam"
-engtitle = "maniShA pa.nchakam  (sArtham, shaNkarAchAryavirachitam)"
-Category = "panchaka, shankarAchArya, vedanta"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. P. Narayanaswami swami at math.mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at math.mun.ca, Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Hindi)"
-"Latest update" = "January, 6, 2012, June 15, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मनीषापञ्चकम्"
+---
+Category: panchaka, shankarAchArya, vedanta
+File name: manishhaa5.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: January, 6, 2012, June 15, 2020
+Location: doc_z_misc_shankara
+Proofread by: P. P. Narayanaswami swami at math.mun.ca, Sunder Hattangadi sunderh
+  at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: manIShApaJNchakaM
+Transliterated by: P. P. Narayanaswami swami at math.mun.ca
+engtitle: maniShA pa.nchakam  (sArtham, shaNkarAchAryavirachitam)
+itxtitle: manIShApanchakam
+title: मनीषापञ्चकम्
 
-+++
+---
   
  मनीषापञ्चकं सार्थम्   
   
@@ -88,7 +89,7 @@ In my considered opinion that Yogi is great who has clearly grasped within himse
 I am convinced that whoever has his mind dwelling upon the Great Being who is being worshipped by Indra and other gods and is thus completely at peace with himself has  not only understood Brahman but he is himself that great Brahman!  
   
   
-दासस्तेऽहं देहदृष्ट्याऽस्मि शंभो  
+दासस्तेऽहं देहदृष्ट्याऽस्मि शम्भो  
 जातस्तेंऽशो जीवदृष्ट्या त्रिदृष्टे ।  
 सर्वस्याऽऽत्मन्नात्मदृष्ट्या त्वमेवे-  
 त्येवं मे धीर्निश्चिता सर्वशास्त्रैः ॥    

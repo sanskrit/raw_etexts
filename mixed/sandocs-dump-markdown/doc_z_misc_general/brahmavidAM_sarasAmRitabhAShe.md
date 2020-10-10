@@ -1,24 +1,24 @@
-+++
-"Text title" = "BrahmavidAM Sarasamrita Bhashe"
-"File name" = "brahmavidAMsarasAmRRitabhAShe.itx"
-itxtitle = "brahmavidAM sarasAmRitabhAShe"
-engtitle = "brahmavidAM sarasAmRRitabhAShe"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dr. Shailesha KumAr Tivari"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manish Gavkar manishyg at gmail.com"
-"Proofread by" = "Manish Gavkar manishyg at gmail.com, NSA, PSA Easwaran"
-"Description/comments" = "Sung by Acharya Vishalaprasad Bhatta"
-Indexextra = "(Video)"
-"Latest update" = "January 26, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मविदां सरसामृइतभाषे"
+---
+Author: Dr. Shailesha KumAr Tivari
+Category: misc, sanskritgeet
+Description/comments: Sung by Acharya Vishalaprasad Bhatta
+File name: brahmavidAMsarasAmRRitabhAShe.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: January 26, 2020
+Location: doc_z_misc_general
+Proofread by: Manish Gavkar manishyg at gmail.com, NSA, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: BrahmavidAM Sarasamrita Bhashe
+Transliterated by: Manish Gavkar manishyg at gmail.com
+engtitle: brahmavidAM sarasAmRRitabhAShe
+itxtitle: brahmavidAM sarasAmRitabhAShe
+title: ब्रह्मविदां सरसामृइतभाषे
 
-+++
+---
   
  ब्रह्मविदां सरसामृतभाषे   
 ब्रह्मविदां सरसामृतभाषे ब्रह्मसुते श्रुतिभारती वन्दे ॥ ध्रु॥  

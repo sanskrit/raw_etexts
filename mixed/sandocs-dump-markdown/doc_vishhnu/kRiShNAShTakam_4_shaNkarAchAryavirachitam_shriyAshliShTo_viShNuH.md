@@ -1,23 +1,23 @@
-+++
-"Text title" = "kRiShNAShTakam 4 shriyaashlishhTo vishhNuH"
-"File name" = "krishna8-4.itx"
-itxtitle = "kRiShNAShTakam 4 (shaNkarAchAryavirachitam shriyAshliShTo viShNuH)"
-engtitle = "kRiShNAShTakam 4"
-Category = "aShTaka, vishhnu, krishna, shankarAchArya, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/religion"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "December 01, 2001, February 9, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णाष्टकम् ४ (शण्कराचार्यविरचितम् श्रियाश्लिष्टो विष्णुः)"
+---
+Author: Shankaracharya
+Category: aShTaka, vishhnu, krishna, shankarAchArya, vishnu
+File name: krishna8-4.itx
+Language: Sanskrit
+Latest update: December 01, 2001, February 9, 2019
+Location: doc_vishhnu
+Proofread by: Sunder Hattangadi, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/religion
+Sublocation: vishhnu
+Text title: kRiShNAShTakam 4 shriyaashlishhTo vishhNuH
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: kRiShNAShTakam 4
+itxtitle: kRiShNAShTakam 4 (shaNkarAchAryavirachitam shriyAshliShTo viShNuH)
+title: कृइष्णाष्टकम् ४ (शण्कराचार्यविरचितम् श्रियाश्लिष्टो विष्णुः)
 
-+++
+---
   
  श्रीकृष्णाष्टकम् ४   
 श्रियाऽऽश्लिष्टो विष्णुः स्थिरचरगुरुर्वेदविषयो  

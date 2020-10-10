@@ -3,7 +3,6 @@ title: 014 Vibhishana informs about the power of Rama s arrow
 title_english: 014 Vibhishana informs about the power of Rama s arrow
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-014-Vibhishana_informs_about_the_power_of_Rama_s_arrow.mp3"></div>
 
 निशाचरेन्द्रस्य निशम्य वाक्यम् ।  

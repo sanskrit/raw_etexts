@@ -1,22 +1,22 @@
-+++
-"Text title" = "Minakshi Ashtakam"
-"File name" = "mInAkShyaShTakam.itx"
-itxtitle = "mInAkShyaShTakam (mAdhurye mahime)"
-engtitle = "mInAkShyaShTakam"
-Category = "devii, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Rajapujitha Sri Kulandayananda Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "G. Vasanth gsathyaarumugam at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "November 19, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मीनाक्ष्यष्टकम् (माधुर्ये महिमे)"
+---
+Author: Rajapujitha Sri Kulandayananda Swamigal
+Category: devii, aShTaka, devI
+File name: mInAkShyaShTakam.itx
+Language: Sanskrit
+Latest update: November 19, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Minakshi Ashtakam
+Transliterated by: G. Vasanth gsathyaarumugam at gmail.com
+engtitle: mInAkShyaShTakam
+itxtitle: mInAkShyaShTakam (mAdhurye mahime)
+title: मीनाक्ष्यष्टकम् (माधुर्ये महिमे)
 
-+++
+---
   
  श्रीमीनाक्ष्यष्टकम्   
 श्रीमीनाक्ष्यष्टकम् ॥  

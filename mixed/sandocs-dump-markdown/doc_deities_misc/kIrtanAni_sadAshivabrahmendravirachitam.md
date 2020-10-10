@@ -1,22 +1,22 @@
-+++
-"Text title" = "Kirtanas composed by Sadashivabrahmendra"
-"File name" = "kIrtanAnisadAshivabrahmendra.itx"
-itxtitle = "kIrtanAni (sadAshivabrahmendravirachitam)"
-engtitle = "Kirtanas composed by Sadashivabrahmendra"
-Category = "deities_misc, sadAshivabrahmendra, kRitI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Sadashivabrahmendra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. P. Narayanaswami swami at mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at mun.ca"
-"Latest update" = "June 18, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कीर्तनानि (सदाशिवब्रह्मेन्द्रविरचितम्)"
+---
+Author: Sadashivabrahmendra
+Category: deities_misc, sadAshivabrahmendra, kRitI
+File name: kIrtanAnisadAshivabrahmendra.itx
+Language: Sanskrit
+Latest update: June 18, 2016
+Location: doc_deities_misc
+Proofread by: P. P. Narayanaswami swami at mun.ca
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Kirtanas composed by Sadashivabrahmendra
+Transliterated by: P. P. Narayanaswami swami at mun.ca
+engtitle: Kirtanas composed by Sadashivabrahmendra
+itxtitle: kIrtanAni (sadAshivabrahmendravirachitam)
+title: कीर्तनानि (सदाशिवब्रह्मेन्द्रविरचितम्)
 
-+++
+---
   
  कीर्तनानि सदाशिवब्रह्मेन्द्रविरचितम्   
   
@@ -65,7 +65,7 @@ title = "कीर्तनानि (सदाशिवब्रह्मेन
 चेतः श्री रामं चिन्तय  
 जीमूत श्यामं  
          चरणं  
-अंगीकृततुंबुरुसंगीतं  
+अङ्गीकृततुम्बुरुसङ्गीतं  
 हनुमद्गवयगवाक्षसमेतं ॥ १॥  
   
 नवरत्नस्थापितकोटीरं  
@@ -83,11 +83,11 @@ title = "कीर्तनानि (सदाशिवब्रह्मेन
 भज रे रघुवीरं मानस  
 भज रे बहुधीरं  
          अनुपल्लवि  
-अंबुदडिंभविडंबनगात्रं  
-अंबुदवाहननन्दनदात्रं  
+अम्बुदडिम्भविडम्बनगात्रं  
+अम्बुदवाहननन्दनदात्रं  
          चरणं  
 कुशिकसुतार्पितकार्मुकवेदं  
-वशिहृदयांबुजभास्करपादं  
+वशिहृदयाम्बुजभास्करपादं  
 कुण्डलमण्डनमण्डितकर्णं  
 कुण्डलिमञ्जकमद्भुतवर्णं ॥ १॥  
   
@@ -205,9 +205,9 @@ title = "कीर्तनानि (सदाशिवब्रह्मेन
 क्रीडति वनमाली  
          चरणं  
 प्रह्ळादपराशरपरिपाली  
-पवनात्मजजांबवदनुकूली ॥ १॥  
+पवनात्मजजाम्बवदनुकूली ॥ १॥  
   
-पद्माकुचपरिरंभणशाली  
+पद्माकुचपरिरम्भणशाली  
 पटुशरशासितमालिसुमाली ॥ २॥  
   
 परमहंसवरकुसुमसुमाली  
@@ -222,10 +222,10 @@ title = "कीर्तनानि (सदाशिवब्रह्मेन
 भज रे यदुनाथं मानस  
 भज रे यदुनाथं  
          चरणं  
-गोपवधूपरिरंभणलोलं  
+गोपवधूपरिरम्भणलोलं  
 गोपकिशोरकमद्भुतलीलं ॥ १॥  
   
-कपटांगीकृतमानुषवेषं  
+कपटाङ्गीकृतमानुषवेषं  
 कपटनाट्यकृतकृत्स्नसुवेषं ॥ २॥  
   
 परमहंसहृत्तत्वस्वरूपं  
@@ -234,13 +234,13 @@ title = "कीर्तनानि (सदाशिवब्रह्मेन
   
   
 प्रतिवारं वारं  
-रागं-- कांभोजि       ताळं-- मिश्रचापु  
+रागं-- काम्भोजि       ताळं-- मिश्रचापु  
   
          पल्लवि  
 प्रतिवारं वारं  
 मानस भज रे रघुवीरं  
          अनुपल्लवि  
-कालांभोधरकन्तशरीरं  
+कालाम्भोधरकन्तशरीरं  
 कौशिकशुकशौनकपरिवारं  
          चरणं  
 कौसल्यादशरथसुकुमारं  
@@ -343,7 +343,7 @@ title = "कीर्तनानि (सदाशिवब्रह्मेन
 चिन्मयबोधानन्दघनं तत् ॥ १॥  
   
 श्रुत्यन्तैकनिरूपितमतुलं  
-सत्यसुखांबुधिसमरसमनघं ॥ २॥  
+सत्यसुखाम्बुधिसमरसमनघं ॥ २॥  
   
 कर्माकर्मविकर्मविदूरं  
 निर्मलसंविदखण्डमपारं ॥ ३॥  
@@ -394,7 +394,7 @@ title = "कीर्तनानि (सदाशिवब्रह्मेन
 तद्वज्जीवत्वं  
          अनुपल्लवि  
 यद्वत् तोये चन्द्रद्वित्वं  
-यद्वन्मुकुरे प्रतिबिंबत्वं  
+यद्वन्मुकुरे प्रतिबिम्बत्वं  
          चरणं  
 स्थाणौ यद्वन्नररूपत्वं  
 भानुकरे यद्वत् तोयत्वं ॥ १॥  
@@ -510,20 +510,20 @@ title = "कीर्तनानि (सदाशिवब्रह्मेन
 बृन्दारक मुनिबृन्दवन्द्यपाद  
 बृन्दावनचर वेणुरसविनोद ॥ २॥  
   
-सत्यभामा कुचकुङ्कुमाङ्कितांग  
-सत्यकाम सनकनुत पाद गंग ॥ ३॥  
+सत्यभामा कुचकुङ्कुमाङ्किताङ्ग  
+सत्यकाम सनकनुत पाद गङ्ग ॥ ३॥  
   
 परमहंसमानस विलास हंस  
 परम पावन नाम भावित हंस ॥ ४॥  
   
   
   
-तुंग तरंगे गंगे  
+तुङ्ग तरङ्गे गङ्गे  
 रागं--  कुन्तळवराळि        ताळं-- आदि  
   
          पल्लवि  
-तुंगतरंगे गंगे जय  
-तुंगतरंगे गंगे  
+तुङ्गतरङ्गे गङ्गे जय  
+तुङ्गतरङ्गे गङ्गे  
          अनुपल्लवि  
 कमलभवाण्डकरण्डपवित्रे  
 बहुविधबन्धच्छेदलवित्रे  

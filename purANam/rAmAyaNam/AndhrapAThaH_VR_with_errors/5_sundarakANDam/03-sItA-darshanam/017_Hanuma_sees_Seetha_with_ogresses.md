@@ -3,7 +3,6 @@ title: 017 Hanuma sees Seetha with ogresses
 title_english: 017 Hanuma sees Seetha with ogresses
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-017-Hanuma_sees_Seetha_with_ogresses.mp3"></div>
 
 ततः कुमुदषण्डाभो निर्मलम् निर्मलोदयः ।  
@@ -55,7 +54,7 @@ title_english: 017 Hanuma sees Seetha with ogresses
 अशोकवनिकामध्ये शोकसागरमाप्लुताम् ।  
 ताभिः परिवृताम् तत्र सग्रहामिव रोहिणीम् ॥ ५-१७-२४  
 ददर्श हनुमान् देवीम् लतामकुसुमामिव ।  
-सा मलेन च दिग्धाङ्गीवपुषा चाप्यलंकृता ॥ ५-१७-२५  
+सा मलेन च दिग्धाङ्गीवपुषा चाप्यलङ्कृता ॥ ५-१७-२५  
 मृणाली पङ्कदिग्धेव विभाति च न भाति च ।  
 मलिनेन तु वस्त्रेण परिक्लिष्टेन भामिनीम् ॥ ५-१७-२६  
 संवृताम् मृगशाबाक्षीं ददर्श हनुमान् कपिः ।  

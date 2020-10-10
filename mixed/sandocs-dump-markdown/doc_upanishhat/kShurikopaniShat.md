@@ -1,23 +1,23 @@
-+++
-"Text title" = "Kshurika Upanishad"
-"File name" = "kshurika.itx"
-itxtitle = "kShurikopaniShat"
-engtitle = "Kshurika Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Rishis"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "31/108; Krishna Yajurveda Ypga Upanishad"
-"Latest update" = "Jan. 8, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "क्षुरिकोपनिषत्"
+---
+Author: Vedic Rishis
+Category: upanishhat, upanishad
+Description-comments: 31/108; Krishna Yajurveda Ypga Upanishad
+File name: kshurika.itx
+Language: Sanskrit
+Latest update: Jan. 8, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Kshurika Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Kshurika Upanishad
+itxtitle: kShurikopaniShat
+title: क्षुरिकोपनिषत्
 
-+++
+---
   
  क्षुरिकोपनिषत्   
   
@@ -33,7 +33,7 @@ title = "क्षुरिकोपनिषत्"
 ॐ क्षुरिकां सम्प्रवक्ष्यामि धारणां योगसिद्धये ।  
 यं प्राप्य न पुनर्जन्म योगयुक्तस्य जायते ॥ १॥  
   
-वेदतत्त्वार्थविहितं यथोक्तं हि स्वयंभुवा ।  
+वेदतत्त्वार्थविहितं यथोक्तं हि स्वयम्भुवा ।  
 निःशब्दं देशमास्थाय तत्रासनमवस्थितः ॥ २॥  
   
 कूर्मोऽङ्गानीव संहृत्य मनो हृदि निरुध्य च ।  
@@ -56,7 +56,7 @@ title = "क्षुरिकोपनिषत्"
 अणु रक्तश्च पीताश्च कृष्णास्ताम्रा विलोहिताः ॥ ८॥  
   
 अतिसूक्ष्मां च तन्वीं च शुक्लां नाडीं समाश्रयेत् ।  
-तत्र संचारयेत्प्राणानूर्णनाभीव तन्तुना ॥ ९॥  
+तत्र सञ्चारयेत्प्राणानूर्णनाभीव तन्तुना ॥ ९॥  
   
 ततो रक्तोत्पलाभासं पुरुषायतनं महत्  
 दहरं पुण्डरीकं तद्वेदान्तेषु निगद्यते ॥ १०॥  

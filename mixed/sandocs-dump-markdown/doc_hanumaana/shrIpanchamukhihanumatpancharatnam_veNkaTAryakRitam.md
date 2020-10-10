@@ -1,23 +1,23 @@
-+++
-"Text title" = "panchamukhihanumatpancharatna"
-"File name" = "panchamukhihanumatpancharatnam.itx"
-itxtitle = "shrIpanchamukhihanumatpancharatnam (veNkaTAryakRitam)"
-engtitle = "panchamukhihanumatpancharatnam"
-Category = "pancharatna, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "Venkatarya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-"Description/comments" = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "January 11, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीपञ्चमुखिहनुमत्पञ्चरत्नम् (वेण्कटार्यकृइतम्)"
+---
+Author: Venkatarya
+Category: pancharatna, hanumaana, hanuman
+Description/comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: panchamukhihanumatpancharatnam.itx
+Language: Sanskrit
+Latest update: January 11, 2017
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: panchamukhihanumatpancharatna
+Transliterated by: Processed by Shree Devi Kumar
+engtitle: panchamukhihanumatpancharatnam
+itxtitle: shrIpanchamukhihanumatpancharatnam (veNkaTAryakRitam)
+title: श्रीपञ्चमुखिहनुमत्पञ्चरत्नम् (वेण्कटार्यकृइतम्)
 
-+++
+---
   
  श्रीपञ्चमुखिहनुमत्पञ्चरत्नम्   
   

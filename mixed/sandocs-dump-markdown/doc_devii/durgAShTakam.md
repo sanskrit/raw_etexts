@@ -1,22 +1,22 @@
-+++
-"Text title" = "durgAShTakam"
-"File name" = "durgaa8.itx"
-itxtitle = "durgAShTakam"
-engtitle = "durgAShTakam"
-Category = "aShTaka, devii, durgA, Ananda-tIrtha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "madanantAnanda-sarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "converted from http://www.webdunia.com"
-"Latest update" = "April 11, 2007, July 2, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गाष्टकम्"
+---
+Author: madanantAnanda-sarasvati
+Category: aShTaka, devii, durgA, Ananda-tIrtha, devI
+File name: durgaa8.itx
+Language: Sanskrit
+Latest update: April 11, 2007, July 2, 2011
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAShTakam
+Transliterated by: converted from http://www.webdunia.com
+engtitle: durgAShTakam
+itxtitle: durgAShTakam
+title: दुर्गाष्टकम्
 
-+++
+---
   
  दुर्गाष्टकम्   
   
@@ -35,13 +35,13 @@ title = "दुर्गाष्टकम्"
 वाग्देवते विधिनुते कमलासनेशि  
 कृष्णस्तुतेकुरु कृपां ललितेऽखिलेशि ॥ ३॥  
   
-पूज्ये महावृषभवाहिनि मंगलेशि  
+पूज्ये महावृषभवाहिनि मङ्गलेशि  
 पद्मे दिगम्बरि महेश्वरि काननेशि  
 रम्येधरे सकलदेवनुते गयेशि  
 कृष्णस्तुते कुरु कृपां ललितेऽखिलेशि ॥ ४॥  
   
 श्रद्धे सुराऽसुरनुते सकले जलेशि  
-गंगे गिरीशदयिते गणनायकेशि ।  
+गङ्गे गिरीशदयिते गणनायकेशि ।  
 दक्षे स्मशाननिलये सुरनायकेशि  
 कृष्णस्तुते कुरु कृपां ललितेऽखिलेशि ॥ ५॥  
   
@@ -52,7 +52,7 @@ title = "दुर्गाष्टकम्"
   
 मोक्षेऽस्थिरे त्रिपुरसुन्दरिपाटलेशि  
 माहेश्वरि त्रिनयने प्रबले मखेशि ।  
-तृष्णे तरंगिणि बले गतिदे ध्रुवेशि  
+तृष्णे तरङ्गिणि बले गतिदे ध्रुवेशि  
 कृष्णस्तुते कुरु कृपां ललितेऽखिलेशि ॥ ७॥  
   
 विश्वम्भरे सकलदे विदिते जयेशि  
@@ -63,9 +63,9 @@ title = "दुर्गाष्टकम्"
 दुर्गाष्टकं पठति यः प्रयतः प्रभाते  
 सर्वार्थदं हरिहरादिनुतां वरेण्यां ।  
 दुर्गां सुपूज्य महितां विविधोपचारैः  
-प्राप्नोति वांछितफलं न चिरान्मनुष्यः ॥ ९॥   
+प्राप्नोति वाञ्छितफलं न चिरान्मनुष्यः ॥ ९॥   
 ॥ इति श्री मत्परमहंसपरिव्राजकाचार्य  
-श्रीमदुत्तरांनायज्योतिष्पीठाधीश्वरजगद्गुरू-शंकराचार्य-स्वामि-  
+श्रीमदुत्तरान्नायज्योतिष्पीठाधीश्वरजगद्गुरू-शङ्कराचार्य-स्वामि-  
 श्रीशान्तानन्द सरस्वती शिष्य-स्वामि श्री मदनन्तानन्द-सरस्वति  
 विरचितं श्री दुर्गाष्टकं सम्पूर्णम्॥  
   

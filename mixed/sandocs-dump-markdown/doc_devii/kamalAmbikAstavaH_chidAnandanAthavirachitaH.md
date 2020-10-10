@@ -1,22 +1,22 @@
-+++
-"Text title" = "kamalAmbikAstavaH"
-"File name" = "kamalAmbikAstava.itx"
-itxtitle = "kamalAmbikAstavaH (chidAnandanAthavirachitaH)"
-engtitle = "kamalAmbikAstavaH"
-Category = "devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "Swami Chidanandanatha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कमलाम्बिकास्तवः (चिदानन्दनाथविरचितः)"
+---
+Author: Swami Chidanandanatha
+Category: devii, lakShmI, devI
+File name: kamalAmbikAstava.itx
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kamalAmbikAstavaH
+engtitle: kamalAmbikAstavaH
+itxtitle: kamalAmbikAstavaH (chidAnandanAthavirachitaH)
+title: कमलाम्बिकास्तवः (चिदानन्दनाथविरचितः)
 
-+++
+---
   
  श्रीकमलाम्बिकास्तवः   
   

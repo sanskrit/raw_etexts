@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shrutisarasamuddharanam"
-"File name" = "shrutisAra.itx"
-itxtitle = "shrutisArasamuddharaNam (toTakAchAryavirachitam)"
-engtitle = "Shrutisarasamuddharanam"
-Category = "vedanta, major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Totakacharya (Adi Sankaracharya's Disciple)"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail"
-Description-comments = "Totakacharya's work on Advaita"
-"Latest update" = "January 23, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रुतिसारसमुद्धरणम् (तोटकाचार्यविरचितम्)"
+---
+Author: Totakacharya (Adi Sankaracharya's Disciple)
+Category: vedanta, major_works
+Description-comments: Totakacharya's work on Advaita
+File name: shrutisAra.itx
+Language: Sanskrit
+Latest update: January 23, 2016
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: Shrutisarasamuddharanam
+Transliterated by: Sunder Hattangadi sunderh at hotmail
+engtitle: Shrutisarasamuddharanam
+itxtitle: shrutisArasamuddharaNam (toTakAchAryavirachitam)
+title: श्रुतिसारसमुद्धरणम् (तोटकाचार्यविरचितम्)
 
-+++
+---
   
  श्रुतिसारसमुद्धरणम्   
   

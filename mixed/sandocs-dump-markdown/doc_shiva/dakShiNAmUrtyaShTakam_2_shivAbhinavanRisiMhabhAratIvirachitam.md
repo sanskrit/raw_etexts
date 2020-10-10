@@ -1,22 +1,22 @@
-+++
-"Text title" = "dakShiNAmUrtyaShTakam 2"
-"File name" = "dakShiNAmUrtyaShTakam2.itx"
-itxtitle = "dakShiNAmUrtyaShTakam 2 (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "dakShiNAmUrtyaShTakam 2"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्त्यष्टकम् २ (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, aShTaka
+File name: dakShiNAmUrtyaShTakam2.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: dakShiNAmUrtyaShTakam 2
+engtitle: dakShiNAmUrtyaShTakam 2
+itxtitle: dakShiNAmUrtyaShTakam 2 (shivAbhinavanRisiMhabhAratIvirachitam)
+title: दक्षिणामूर्त्यष्टकम् २ (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीदक्षिणामूर्त्यष्टकम् २   
 पायय जनमिमममृतं दुर्लभमितरस्य लोकस्य ।  

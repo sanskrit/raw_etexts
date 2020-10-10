@@ -1,24 +1,24 @@
-+++
-"Text title" = "shivastotram himAlayakRita brahmavaivarte"
-"File name" = "shivastotramhimAlayakRitaBVP.itx"
-itxtitle = "shivastotram (himAlayakRitam brahmavaivartapurANAntargatam)"
-engtitle = "Shivastotram Himalayakrita from brahmavaivarta"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-Description-comments = "Brahmavaivarta Purana Krishnakhanda"
-Indexextra = "(brahmavaivarta)"
-"Latest update" = "April 16, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवस्तोत्रम् (हिमालयकृइतम् ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: shiva, stotra
+Description-comments: Brahmavaivarta Purana Krishnakhanda
+File name: shivastotramhimAlayakRitaBVP.itx
+Indexextra: (brahmavaivarta)
+Language: Sanskrit
+Latest update: April 16, 2013
+Location: doc_shiva
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivastotram himAlayakRita brahmavaivarte
+Texttype: stotra
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Shivastotram Himalayakrita from brahmavaivarta
+itxtitle: shivastotram (himAlayakRitam brahmavaivartapurANAntargatam)
+title: शिवस्तोत्रम् (हिमालयकृइतम् ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीशिवस्तोत्रं हिमालयकृत ब्रह्मवैवर्ते   
   

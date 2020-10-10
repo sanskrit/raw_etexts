@@ -1,23 +1,23 @@
-+++
-"Text title" = "ghaTikAchalahanumatstotram2"
-"File name" = "ghaTikAchalahanumatstotram2.itx"
-itxtitle = "ghaTikAchalahanumatstotram 2"
-engtitle = "ghaTikAchalahanumatstotram 2"
-Category = "hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "September 19, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "घटिकाचलहनुमत्स्तोत्रम् २"
+---
+Category: hanumaana, stotra, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: ghaTikAchalahanumatstotram2.itx
+Language: Sanskrit
+Latest update: September 19, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: ghaTikAchalahanumatstotram2
+Texttype: stotra
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: ghaTikAchalahanumatstotram 2
+itxtitle: ghaTikAchalahanumatstotram 2
+title: घटिकाचलहनुमत्स्तोत्रम् २
 
-+++
+---
   
  श्रीघटिकाचलहनुमत्स्तोत्रम् २   
   

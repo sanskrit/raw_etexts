@@ -1,23 +1,25 @@
-+++
-"Text title" = "kRishhNaashhTakaM 2"
-"File name" = "krishna8k.itx"
-itxtitle = "kRiShNAShTakam 2 athavA yugalAShTakam (vallabhAchAryavirachitam kRiShNa premamayI rAdhA)"
-engtitle = "kRiShNAShTakam (another file)"
-Category = "aShTaka, devii, radha, vishhnu, krishna, vishnu, rAmAnujasampradAya, vallabhaachaarya, devI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Mohana Rao RAO at FCRFV1-NCIFCRF.GOV"
-"Proofread by" = "Mohana Rao RAO at FCRFV1-NCIFCRF.GOV"
-"Latest update" = "May 20, 1997"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णाष्टकम् २ अथवा युगलाष्टकम् (वल्लभाचार्यविरचितम् कृइष्ण प्रेममयी राधा)"
+---
+Author: vallabhAchArya
+Category: aShTaka, devii, radha, vishhnu, krishna, vishnu, rAmAnujasampradAya, vallabhaachaarya,
+  devI
+File name: krishna8k.itx
+Language: Sanskrit
+Latest update: May 20, 1997
+Location: doc_vishhnu
+Proofread by: Mohana Rao RAO at FCRFV1-NCIFCRF.GOV
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism
+Sublocation: vishhnu
+Text title: kRishhNaashhTakaM 2
+Transliterated by: Mohana Rao RAO at FCRFV1-NCIFCRF.GOV
+engtitle: kRiShNAShTakam (another file)
+itxtitle: kRiShNAShTakam 2 athavA yugalAShTakam (vallabhAchAryavirachitam kRiShNa
+  premamayI rAdhA)
+title: कृइष्णाष्टकम् २ अथवा युगलाष्टकम् (वल्लभाचार्यविरचितम् कृइष्ण प्रेममयी राधा)
 
-+++
+---
   
  श्रीकृष्णाष्टकं २ युगलाष्टकम् च   
   

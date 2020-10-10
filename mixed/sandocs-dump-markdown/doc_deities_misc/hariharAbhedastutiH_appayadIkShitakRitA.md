@@ -1,22 +1,22 @@
-+++
-"Text title" = "hariharabhedastutiH"
-"File name" = "hariharabhedastuti.itx"
-itxtitle = "hariharAbhedastutiH (appayadIkShitakRitA)"
-engtitle = "hariharAbhedastutiH"
-Category = "deities_misc, appayya-dIkShita"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Sri Appayya Dixitar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "July 5, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिहराभेदस्तुतिः (अप्पयदीक्षितकृइता)"
+---
+Author: Sri Appayya Dixitar
+Category: deities_misc, appayya-dIkShita
+File name: hariharabhedastuti.itx
+Language: Sanskrit
+Latest update: July 5, 2004
+Location: doc_deities_misc
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: hariharabhedastutiH
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: hariharAbhedastutiH
+itxtitle: hariharAbhedastutiH (appayadIkShitakRitA)
+title: हरिहराभेदस्तुतिः (अप्पयदीक्षितकृइता)
 
-+++
+---
   
  हरिहराभेदस्तुती   
   

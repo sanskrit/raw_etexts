@@ -1,23 +1,23 @@
-+++
-"Text title" = "guruparamparA"
-"File name" = "guruparamparA.itx"
-itxtitle = "guruparamparA"
-engtitle = "guruparamparA"
-Category = "deities_misc, gurudev, rAmAnujasampradAya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुपरम्परा"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: deities_misc, gurudev, rAmAnujasampradAya
+File name: guruparamparA.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: guruparamparA
+engtitle: guruparamparA
+itxtitle: guruparamparA
+title: गुरुपरम्परा
 
-+++
+---
   
  श्रीगुरुपरम्परा   
   

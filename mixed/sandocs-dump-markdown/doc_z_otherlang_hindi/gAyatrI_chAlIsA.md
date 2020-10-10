@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrii gayatri chalisa"
-"File name" = "gayatrii40.itx"
-itxtitle = "gAyatrI chAlIsA"
-engtitle = "shrii gaayatrii chaaliisaa"
-Category = "chAlisA, devii, gAyatrI, devI"
-Location = "doc_z_otherlang_hindi"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Hindi"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi"
-"Proofread by" = "Sunder Hattangadi"
-Description-comments = "Devotional hymn to gayatrii Devi, of 40 verses"
-"Latest update" = "March 14, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्री चालीसा"
+---
+Category: chAlisA, devii, gAyatrI, devI
+Description-comments: Devotional hymn to gayatrii Devi, of 40 verses
+File name: gayatrii40.itx
+Language: Hindi
+Latest update: March 14, 2005
+Location: doc_z_otherlang_hindi
+Proofread by: Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: hinduism/religion
+Sublocation: devii
+Text title: shrii gayatri chalisa
+Transliterated by: Sunder Hattangadi
+engtitle: shrii gaayatrii chaaliisaa
+itxtitle: gAyatrI chAlIsA
+title: गायत्री चालीसा
 
-+++
+---
   
  श्री गायत्री चालीसा   
 ह्रीं  श्रीं   क्लीं   मेधा  प्रभा  जीवन  ज्योति  प्रचण्ड ।  
@@ -34,7 +34,7 @@ title = "गायत्री चालीसा"
   
 शाश्वत सतोगुणी सत रूपा ।  
 सत्य सनातन सुधा अनूपा ।  
-हंसारूढ सितंबर धारी ।  
+हंसारूढ सितम्बर धारी ।  
 स्वर्ण कान्ति शुचि गगन-बिहारी ॥ ५॥  
   
 पुस्तक पुष्प कमण्डलु माला ।  
@@ -47,7 +47,7 @@ title = "गायत्री चालीसा"
 निराकार की अद्भुत माया ॥ ८॥  
   
 तुम्हरी शरण गहै जो कोई ।  
-तरै सकल संकट सों सोई ॥ ९॥  
+तरै सकल सङ्कट सों सोई ॥ ९॥  
   
 सरस्वती लक्ष्मी तुम काली ।  
 दिपै तुम्हारी ज्योति निराली ॥ १०॥  
@@ -100,7 +100,7 @@ title = "गायत्री चालीसा"
 जापर कृपा तुम्हारी होई ।  
 तापर कृपा करें सब कोई ॥ २६॥  
   
-मंद बुद्धि ते बुधि बल पावें ।  
+मन्द बुद्धि ते बुधि बल पावें ।  
 रोगी रोग रहित हो जावें ॥ २७॥  
   
 दरिद्र मिटै कटै सब पीरा ।  
@@ -110,7 +110,7 @@ title = "गायत्री चालीसा"
 नासै गायत्री भय हारी ॥२९॥  
   
 सन्तति हीन सुसन्तति पावें ।  
-सुख संपति युत मोद मनावें ॥ ३०॥  
+सुख सम्पति युत मोद मनावें ॥ ३०॥  
   
 भूत पिशाच सबै भय खावें ।  
 यम के दूत निकट नहिं आवें ॥ ३१॥  
@@ -121,7 +121,7 @@ title = "गायत्री चालीसा"
 घर वर सुख प्रद लहैं कुमारी ।  
 विधवा रहें सत्य व्रत धारी ॥ ३३॥  
   
-जयति जयति जगदंब भवानी ।  
+जयति जयति जगदम्ब भवानी ।  
 तुम सम थोर दयालु न दानी ॥ ३४॥  
   
 जो सद्गुरु सो दीक्षा पावे ।  
@@ -137,7 +137,7 @@ title = "गायत्री चालीसा"
 आरत अर्थी चिन्तित भोगी ॥ ३८॥  
   
 जो जो शरण तुम्हारी आवें ।  
-सो सो मन वांछित फल पावें ॥ ३९॥  
+सो सो मन वाञ्छित फल पावें ॥ ३९॥  
   
 बल बुधि विद्या शील स्वभाओ ।  
 धन वैभव यश तेज उछाओ ॥ ४०॥  

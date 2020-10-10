@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumanmantrAH"
-"File name" = "hanumanmantrAH.itx"
-itxtitle = "hanumanmantrAH"
-engtitle = "hanumanmantrAH"
-Category = "hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमन्मन्त्राः"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumanmantrAH.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumanmantrAH
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: hanumanmantrAH
+itxtitle: hanumanmantrAH
+title: हनुमन्मन्त्राः
 
-+++
+---
   
  हनुमन्मन्त्राः   
 (प्रपञ्चसारसारसङ्ग्रहतः)  

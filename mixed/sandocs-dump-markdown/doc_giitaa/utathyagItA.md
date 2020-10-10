@@ -1,22 +1,22 @@
-+++
-"Text title" = "utathyagItA"
-"File name" = "utathyagiitaa.itx"
-itxtitle = "utathyagItA"
-engtitle = "utathyagItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-Indexextra = "(mahAbhArata shAntiparva Rajadharma, chapters 90-91)"
-"Latest update" = "June 2, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उतथ्यगीता"
+---
+Category: gItA, giitaa
+File name: utathyagiitaa.itx
+Indexextra: (mahAbhArata shAntiparva Rajadharma, chapters 90-91)
+Language: Sanskrit
+Latest update: June 2, 1998
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: utathyagItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: utathyagItA
+itxtitle: utathyagItA
+title: उतथ्यगीता
 
-+++
+---
   
  उतथ्यगीता   
   

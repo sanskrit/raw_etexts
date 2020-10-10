@@ -1,24 +1,24 @@
-+++
-"Text title" = "vallabhasharaNAShTakam"
-"File name" = "vallabhasharaNAShTakam.itx"
-itxtitle = "vallabhasharaNAShTakam (harirAyajIvirachitam)"
-engtitle = "vallabhasharaNAShTakam"
-Category = "deities_misc, gurudev, puShTimArgIya, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "harirAyajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्लभशरणाष्टकम् (हरिरायजीविरचितम्)"
+---
+Author: harirAyajI
+Category: deities_misc, gurudev, puShTimArgIya, aShTaka
+Description/comments: puShTimArgIya stotraratnAkara
+File name: vallabhasharaNAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vallabhasharaNAShTakam
+engtitle: vallabhasharaNAShTakam
+itxtitle: vallabhasharaNAShTakam (harirAyajIvirachitam)
+title: वल्लभशरणाष्टकम् (हरिरायजीविरचितम्)
 
-+++
+---
   
  वल्लभशरणाष्टकम्   
   

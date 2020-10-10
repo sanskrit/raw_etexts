@@ -1,24 +1,24 @@
-+++
-"Text title" = "kamalAkavacham.h"
-"File name" = "shriikamalaakavach.itx"
-itxtitle = "kamalAkavacham"
-engtitle = "kamalA kavacham"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "vishvasAratantra"
-"Latest update" = "August 18, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कमलाकवचम्"
+---
+Author: Traditional
+Category: kavacha, devii, dashamahAvidyA, devI
+Description-comments: vishvasAratantra
+File name: shriikamalaakavach.itx
+Language: Sanskrit
+Latest update: August 18, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kamalAkavacham.h
+Transliterated by: WebD
+engtitle: kamalA kavacham
+itxtitle: kamalAkavacham
+title: कमलाकवचम्
 
-+++
+---
   
  श्रीकमलाकवचम्   
   
@@ -42,7 +42,7 @@ title = "कमलाकवचम्"
 हृदये मणिबन्धे च ग्रीवायां पार्श्वर्योद्वयोः ।  
 पृष्ठदेशे तथा गुह्ये वामे च दक्षिणे तथा ॥ ४॥  
   
-उपस्थे च नितम्बे च नाभौ जंघाद्वये पुनः ।  
+उपस्थे च नितम्बे च नाभौ जङ्घाद्वये पुनः ।  
 जानुचक्रे पदद्वन्द्वे घुटिकेऽङ्गुलिमूलके ॥ ५॥  
   
 स्वधा तु प्राणशक्त्यां वा सीमन्यां मस्तके तथा ।  

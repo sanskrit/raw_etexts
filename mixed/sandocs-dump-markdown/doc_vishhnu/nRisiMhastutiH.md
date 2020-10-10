@@ -1,20 +1,20 @@
-+++
-"Text title" = "Nrisimhastutih"
-"File name" = "nRRisiMhastutiH.itx"
-itxtitle = "nRisiMhastutiH"
-engtitle = "nRRisiMhastutiH"
-Category = "vishhnu, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "January 27, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहस्तुतिः"
+---
+Category: vishhnu, dashAvatAra
+File name: nRRisiMhastutiH.itx
+Language: Sanskrit
+Latest update: January 27, 2019
+Location: doc_vishhnu
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Nrisimhastutih
+engtitle: nRRisiMhastutiH
+itxtitle: nRisiMhastutiH
+title: नृइसिंहस्तुतिः
 
-+++
+---
   
  श्रीनृसिंहस्तुतिः   
 ॐ श्री नृसिंहः केशवः सौरी गोविन्दो गरुडध्वजः ।  

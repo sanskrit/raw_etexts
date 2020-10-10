@@ -1,23 +1,23 @@
-+++
-"Text title" = "vAsudevastutiH aditikRitA"
-"File name" = "vAsudevastutiaditi.itx"
-itxtitle = "vAsudevastutiH (matsyapurANAntargataM aditikRitA namaH sarvArtinAshAya)"
-engtitle = "vAsudevastutiH"
-Category = "vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subrahmanyam Yvs yvspmp at gmail.com"
-"Proofread by" = "Subrahmanyam Yvs, Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "matsyapurANa adhyAya 244 shlokAH 12-37"
-"Latest update" = "July 21, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासुदेवस्तुतिः (मत्स्यपुराणान्तर्गतं अदितिकृइता नमः सर्वार्तिनाशाय)"
+---
+Category: vishhnu, krishna, vishnu
+File name: vAsudevastutiaditi.itx
+Language: Sanskrit
+Latest update: July 21, 2017
+Location: doc_vishhnu
+Proofread by: Subrahmanyam Yvs, Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: matsyapurANa adhyAya 244 shlokAH 12-37
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vAsudevastutiH aditikRitA
+Transliterated by: Subrahmanyam Yvs yvspmp at gmail.com
+engtitle: vAsudevastutiH
+itxtitle: vAsudevastutiH (matsyapurANAntargataM aditikRitA namaH sarvArtinAshAya)
+title: वासुदेवस्तुतिः (मत्स्यपुराणान्तर्गतं अदितिकृइता नमः सर्वार्तिनाशाय)
 
-+++
+---
   
  अदितिकृता वासुदेवस्तुतिः   
   
@@ -55,7 +55,7 @@ title = "वासुदेवस्तुतिः (मत्स्यपुर
 यं बुद्ध्वा सर्वभूतानि देवदेवेशमव्ययम् ।  
 न पुनर्जन्ममरणे प्राप्नुवन्ति नमामि तम् ॥ ११॥  
   
-यो यज्ञे यज्ञपरमैरिज्यते यज्ञसंज्ञितः ।  
+यो यज्ञे यज्ञपरमैरिज्यते यज्ञसञ्ज्ञितः ।  
 तं यज्ञपुरुषं विष्णुं नमामि प्रभुमीश्वरम् ॥ १२॥  
   
 गीयते सर्वदेवेषु वेदविद्भिर्विदां पतिः ।  

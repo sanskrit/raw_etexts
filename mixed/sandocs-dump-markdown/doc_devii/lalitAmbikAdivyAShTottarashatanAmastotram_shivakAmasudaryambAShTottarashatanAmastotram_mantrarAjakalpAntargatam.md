@@ -1,24 +1,27 @@
-+++
-"Text title" = "Lalitambika Divya AshTottarashatanama Stotram"
-"File name" = "lalitAmbikAdivyAShTottarashatanAmastotram.itx"
-itxtitle = "lalitAmbikAdivyAShTottarashatanAmastotram shivakAmasudaryambAShTottarashatanAmastotram (mantrarAjakalpAntargatam)"
-engtitle = "lalitAmbikAdivyAShTottarashatanAmastotram"
-Category = "devii, lalitA, aShTottarashatanAma, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lalitA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vinu Prasad vinu5884 at gmail.com"
-"Proofread by" = "Vinu Prasad vinu5884 at gmail.com"
-"Description/comments" = "Mantrarajakalpa. The stotra is also titled as shivakAmasundaryambAShTottarashatanAmastotram in Nataraja Naama Manjari p 218"
-Indexextra = "(Scan)"
-"Latest update" = "March 1, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललिताम्बिकादिव्याष्टोत्तरशतनामस्तोत्रम् शिवकामसुदर्यम्बाष्टोत्तरशतनामस्तोत्रम् (मन्त्रराजकल्पान्तर्गतम्)"
+---
+Category: devii, lalitA, aShTottarashatanAma, devI
+Description/comments: Mantrarajakalpa. The stotra is also titled as shivakAmasundaryambAShTottarashatanAmastotram
+  in Nataraja Naama Manjari p 218
+File name: lalitAmbikAdivyAShTottarashatanAmastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 1, 2019
+Location: doc_devii
+Proofread by: Vinu Prasad vinu5884 at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Lalitambika Divya AshTottarashatanama Stotram
+Transliterated by: Vinu Prasad vinu5884 at gmail.com
+engtitle: lalitAmbikAdivyAShTottarashatanAmastotram
+itxtitle: lalitAmbikAdivyAShTottarashatanAmastotram shivakAmasudaryambAShTottarashatanAmastotram
+  (mantrarAjakalpAntargatam)
+title: ललिताम्बिकादिव्याष्टोत्तरशतनामस्तोत्रम् शिवकामसुदर्यम्बाष्टोत्तरशतनामस्तोत्रम्
+  (मन्त्रराजकल्पान्तर्गतम्)
 
-+++
+---
   
  श्रीललिताम्बिका दिव्याष्टोत्तरशतनामस्तोत्रम्   
 शिवकामसुदर्यम्बाष्टोत्तरशतनामस्तोत्रम् च  

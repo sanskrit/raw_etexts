@@ -1,23 +1,23 @@
-+++
-"Text title" = "sudarshanaShaTkam 2"
-"File name" = "sudarshanaShaTkam2.itx"
-itxtitle = "sudarshanaShaTkam 2"
-engtitle = "sudarshanaShaTkam 2"
-Category = "vishhnu, ShaTkam"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुदर्शनषट्कम् २"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, ShaTkam
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: sudarshanaShaTkam2.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sudarshanaShaTkam 2
+engtitle: sudarshanaShaTkam 2
+itxtitle: sudarshanaShaTkam 2
+title: सुदर्शनषट्कम् २
 
-+++
+---
   
  सुदर्शनषट्कम् २   
   

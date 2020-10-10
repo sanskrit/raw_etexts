@@ -1,25 +1,25 @@
-+++
-"Text title" = "viShNustuti by mArkaNDeya from narasiMhapurANa"
-"File name" = "viShNustutimArkaNDeyoktamNP.itx"
-itxtitle = "viShNustutiH (mArkaNDeyaproktA narasiMhapurANAntargatA)"
-engtitle = "Shri Vishnustuti by Markendeya in Narasimhapurana"
-Category = "vishhnu, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 10 verses 8-15"
-Indexextra = "(narasiMhapurANa)"
-"Latest update" = "June 6, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तुतिः (मार्कण्डेयप्रोक्ता नरसिंहपुराणान्तर्गता)"
+---
+Category: vishhnu, stotra, vishnu
+Description-comments: Narasimhapurana adhyAya 10 verses 8-15
+File name: viShNustutimArkaNDeyoktamNP.itx
+Indexextra: (narasiMhapurANa)
+Language: Sanskrit
+Latest update: June 6, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNustuti by mArkaNDeya from narasiMhapurANa
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: Shri Vishnustuti by Markendeya in Narasimhapurana
+itxtitle: viShNustutiH (mArkaNDeyaproktA narasiMhapurANAntargatA)
+title: विष्णुस्तुतिः (मार्कण्डेयप्रोक्ता नरसिंहपुराणान्तर्गता)
 
-+++
+---
   
  श्रीविष्णुस्तवनं मार्कण्डेयप्रोक्तं नरसिंहपुराणे   
   
@@ -50,7 +50,7 @@ title = "विष्णुस्तुतिः (मार्कण्डेय
   
 इति ।  
   
-अध्याय १० श्लोक ८-१५, अध्याय श्लोक संख्या ५२  
+अध्याय १० श्लोक ८-१५, अध्याय श्लोक सङ्ख्या ५२  
 श्रीनरसिंहपुराणे मार्कण्डेयचरित्रे दशमोऽध्यायः ॥ १०॥  
   
   

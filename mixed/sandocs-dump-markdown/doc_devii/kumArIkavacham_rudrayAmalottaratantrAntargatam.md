@@ -1,23 +1,23 @@
-+++
-"Text title" = "kumArIkavacha.txt rudrayAmalottaratantrArgatam"
-"File name" = "kumArIkavacha.itx"
-itxtitle = "kumArIkavacham (rudrayAmalottaratantrAntargatam)"
-engtitle = "kumarikavacham from Rudrayamala uttaratantra"
-Category = "kavacha, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "From Digital Library at http://muktalib5.org"
-"Proofread by" = "Final proofread DPD"
-Description-comments = "RudrayAmala uttaratantra paTalaH 9"
-"Latest update" = "April 5, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमारीकवचम् (रुद्रयामलोत्तरतन्त्रान्तर्गतम्)"
+---
+Category: kavacha, devii, durgA, devI
+Description-comments: RudrayAmala uttaratantra paTalaH 9
+File name: kumArIkavacha.itx
+Language: Sanskrit
+Latest update: April 5, 2013
+Location: doc_devii
+Proofread by: Final proofread DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kumArIkavacha.txt rudrayAmalottaratantrArgatam
+Transliterated by: From Digital Library at http://muktalib5.org
+engtitle: kumarikavacham from Rudrayamala uttaratantra
+itxtitle: kumArIkavacham (rudrayAmalottaratantrAntargatam)
+title: कुमारीकवचम् (रुद्रयामलोत्तरतन्त्रान्तर्गतम्)
 
-+++
+---
   
  कुमारीकवचं रुद्रयामलोत्तरतन्त्रान्तर्गतम्   
 आनन्दभैरव उवाच --  

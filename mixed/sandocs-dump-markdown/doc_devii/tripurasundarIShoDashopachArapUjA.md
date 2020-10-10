@@ -1,21 +1,21 @@
-+++
-"Text title" = "tripurasundarIShoDashopachArapUjA"
-"File name" = "tripurasundarIShoDashopachArapUjA.itx"
-itxtitle = "tripurasundarIShoDashopachArapUjA"
-engtitle = "tripurasundarIShoDashopachArapUjA"
-Category = "pUjA, devii, dashamahAvidyA, devI, ShoDasha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Latest update" = "December 27, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरसुन्दरीषोडशोपचारपूजा"
+---
+Category: pUjA, devii, dashamahAvidyA, devI, ShoDasha
+File name: tripurasundarIShoDashopachArapUjA.itx
+Language: Sanskrit
+Latest update: December 27, 2016
+Location: doc_devii
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tripurasundarIShoDashopachArapUjA
+engtitle: tripurasundarIShoDashopachArapUjA
+itxtitle: tripurasundarIShoDashopachArapUjA
+title: त्रिपुरसुन्दरीषोडशोपचारपूजा
 
-+++
+---
   
  त्रिपुरसुन्दरीषोडशोपचारपूजा   
   
@@ -62,7 +62,7 @@ title = "त्रिपुरसुन्दरीषोडशोपचार�
 लङ्घितकेतकवर्णविशेषैः शोधितकोमलनागदलैश्च ।  
 मौक्तिकचूर्णयुतैः क्रमुकाद्यैः पूर्णतराम्ब पुरस्तव पात्री ॥ १४॥  
   
-ह्रींत्रयपूरितमन्त्रविशेषं पञ्चदशीमपि षोडशरूपम् ।  
+ह्रीन्त्रयपूरितमन्त्रविशेषं पञ्चदशीमपि षोडशरूपम् ।  
 सञ्चितपापहरं च जपित्वा मन्त्रसुमाञ्जलिमम्ब ददामि ॥ १५॥  
   
 श्रीपदपूर्णमहामनुरूपे श्रीशिवकाममहेश्वरजाये ।  

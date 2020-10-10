@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Sadashiva Stotram"
-"File name" = "sadAshivastotram.itx"
-itxtitle = "sadAshivastotram"
-engtitle = "sadAshivastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA, Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Meaning)"
-"Latest update" = "August 11, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सदाशिवस्तोत्रम्"
+---
+Category: shiva
+File name: sadAshivastotram.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: August 11, 2019
+Location: doc_shiva
+Proofread by: NA, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Sadashiva Stotram
+engtitle: sadAshivastotram
+itxtitle: sadAshivastotram
+title: सदाशिवस्तोत्रम्
 
-+++
+---
   
  श्रीसदाशिवस्तोत्रम्   
 पङ्कजोद्भव प्रपूजिताङ्घ्रि पङ्कजद्वयं  

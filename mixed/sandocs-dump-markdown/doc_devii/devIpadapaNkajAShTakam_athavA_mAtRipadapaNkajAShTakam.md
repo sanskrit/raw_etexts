@@ -1,21 +1,22 @@
-+++
-"Text title" = "devIpadapaNkajAShTakam"
-"File name" = "devIpadapaNkajAShTakam.itx"
-itxtitle = "devIpadapaNkajAShTakam athavA mAtRipadapaNkajAShTakam"
-engtitle = "devIpadapaNkajAShTakam"
-Category = "aShTaka, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "February 10, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीपदपण्कजाष्टकम् अथवा मातृइपदपण्कजाष्टकम्"
+---
+Category: aShTaka, devii, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: devIpadapaNkajAShTakam.itx
+Language: Sanskrit
+Latest update: February 10, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIpadapaNkajAShTakam
+engtitle: devIpadapaNkajAShTakam
+itxtitle: devIpadapaNkajAShTakam athavA mAtRipadapaNkajAShTakam
+title: देवीपदपण्कजाष्टकम् अथवा मातृइपदपण्कजाष्टकम्
 
-+++
+---
   
  देवीपदपङ्कजाष्टकम् अथवा श्रीमातृपदपङ्कजाष्टकम्   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmastavarAjastotra"
-"File name" = "rAmastavarAjastotra.itx"
-itxtitle = "rAmastavarAjaH (sanatkumArasaMhitAntargataH)"
-engtitle = "Shri Ramastavaraja from Sanatkumarasamhita"
-Category = "stavarAja, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Madhavi U mupadrasta at gmail.com"
-"Proofread by" = "Madhavi U mupadrasta at gmail.com"
-Description-comments = "sanatkumArasaMhitAyAM nAradoktam"
-Indexextra = "(sanatkumArasaMhitA)"
-"Latest update" = "June 23, 2012, December 21, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामस्तवराजः (सनत्कुमारसंहितान्तर्गतः)"
+---
+Category: stavarAja, raama
+Description-comments: sanatkumArasaMhitAyAM nAradoktam
+File name: rAmastavarAjastotra.itx
+Indexextra: (sanatkumArasaMhitA)
+Language: Sanskrit
+Latest update: June 23, 2012, December 21, 2015
+Location: doc_raama
+Proofread by: Madhavi U mupadrasta at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmastavarAjastotra
+Transliterated by: Madhavi U mupadrasta at gmail.com
+engtitle: Shri Ramastavaraja from Sanatkumarasamhita
+itxtitle: rAmastavarAjaH (sanatkumArasaMhitAntargataH)
+title: रामस्तवराजः (सनत्कुमारसंहितान्तर्गतः)
 
-+++
+---
   
  श्रीरामस्तवराजः सनत्कुमारसंहितायाम्   
   

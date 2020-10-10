@@ -1,25 +1,26 @@
-+++
-"Text title" = "satyavratoktadAmodarastotram"
-"File name" = "satyavratoktadAmodarastotram.itx"
-itxtitle = "dAmodarastotram athavA dAmodarAShTakam satyavratokta"
-engtitle = "satyavratoktadAmodarastotram"
-Category = "vishhnu, krishna, stotra, vishnu, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Singanallur Ganesan singanallur at gmail.com"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Source = "Hari Bhakti Vilas, 16th Vilasa"
-Indexextra = "(HBV 2)"
-"Latest update" = "June 3, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दामोदरस्तोत्रम् अथवा दामोदराष्टकम् सत्यव्रतोक्त"
+---
+Category: vishhnu, krishna, stotra, vishnu, aShTaka
+File name: satyavratoktadAmodarastotram.itx
+Indexextra: (HBV 2)
+Language: Sanskrit
+Latest update: June 3, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Hari Bhakti Vilas, 16th Vilasa
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: satyavratoktadAmodarastotram
+Texttype: stotra
+Transliterated by: Singanallur Ganesan singanallur at gmail.com
+engtitle: satyavratoktadAmodarastotram
+itxtitle: dAmodarastotram athavA dAmodarAShTakam satyavratokta
+title: दामोदरस्तोत्रम् अथवा दामोदराष्टकम् सत्यव्रतोक्त
 
-+++
+---
   
  सत्यव्रतोक्तदामोदरस्तोत्रम्   
   

@@ -1,21 +1,21 @@
-+++
-"Text title" = "jaganmangalastotram"
-"File name" = "jaganmangalastotram.itx"
-itxtitle = "jaganmaNgalastotram"
-engtitle = "jaganmangalastotram"
-Category = "devii, devI, mangala"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ramgopal Bhimavarapu bhimavarapu2014 at gmail.com. Sunder Hattangadi"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail Ramgopal Bhimavarapu"
-"Latest update" = "July 19, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जगन्मण्गलस्तोत्रम्"
+---
+Category: devii, devI, mangala
+File name: jaganmangalastotram.itx
+Language: Sanskrit
+Latest update: July 19, 2015
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail Ramgopal Bhimavarapu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jaganmangalastotram
+Transliterated by: Ramgopal Bhimavarapu bhimavarapu2014 at gmail.com. Sunder Hattangadi
+engtitle: jaganmangalastotram
+itxtitle: jaganmaNgalastotram
+title: जगन्मण्गलस्तोत्रम्
 
-+++
+---
   
  जगन्मङ्गलास्तोत्रम्   
 वीणावादनतत्पराङ्गुलि नदल्लोलाञ्चितैः किङ्किणी-  

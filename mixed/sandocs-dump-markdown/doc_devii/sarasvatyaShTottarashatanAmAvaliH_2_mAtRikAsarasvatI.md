@@ -1,23 +1,23 @@
-+++
-"Text title" = "sarasvatyaShTottarashatanAmAvalI 2"
-"File name" = "sarasvatyaShTottarashatanAmAvalI.itx"
-itxtitle = "sarasvatyaShTottarashatanAmAvaliH 2 mAtRikAsarasvatI"
-engtitle = "sarasvatyaShTottarashatanAmAvalI2"
-Category = "aShTottarashatanAmAvalI, devii, sarasvatI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda"
-"Proofread by" = "R. Harshananda"
-Indexextra = "(navadurgApUjA)"
-"Latest update" = "May 6, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वत्यष्टोत्तरशतनामावलिः २ मातृइकासरस्वती"
+---
+Category: aShTottarashatanAmAvalI, devii, sarasvatI, nAmAvalI, devI
+File name: sarasvatyaShTottarashatanAmAvalI.itx
+Indexextra: (navadurgApUjA)
+Language: Sanskrit
+Latest update: May 6, 2018
+Location: doc_devii
+Proofread by: R. Harshananda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatyaShTottarashatanAmAvalI 2
+Transliterated by: R. Harshananda
+engtitle: sarasvatyaShTottarashatanAmAvalI2
+itxtitle: sarasvatyaShTottarashatanAmAvaliH 2 mAtRikAsarasvatI
+title: सरस्वत्यष्टोत्तरशतनामावलिः २ मातृइकासरस्वती
 
-+++
+---
   
  श्रीसरस्वत्यष्टोत्तरशतनामावलिः २   
 ॐ अस्यश्री मातृकासरस्वती महामन्त्रस्य शब्द ऋषिः  

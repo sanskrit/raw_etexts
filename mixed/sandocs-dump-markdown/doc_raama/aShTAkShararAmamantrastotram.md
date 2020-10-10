@@ -1,20 +1,20 @@
-+++
-"Text title" = "aShTAkShararAmamantrastotram"
-"File name" = "aShTAkShararAmamantrastotram.itx"
-itxtitle = "aShTAkShararAmamantrastotram"
-engtitle = "aShTAkShararAmamantrastotram"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(booklet)"
-"Latest update" = "September 22, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अष्टाक्षरराममन्त्रस्तोत्रम्"
+---
+Category: raama
+File name: aShTAkShararAmamantrastotram.itx
+Indexextra: (booklet)
+Language: Sanskrit
+Latest update: September 22, 2017
+Location: doc_raama
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: aShTAkShararAmamantrastotram
+engtitle: aShTAkShararAmamantrastotram
+itxtitle: aShTAkShararAmamantrastotram
+title: अष्टाक्षरराममन्त्रस्तोत्रम्
 
-+++
+---
   
  अष्टाक्षरश्रीराममन्त्रस्तोत्रम्   
   

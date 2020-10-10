@@ -1,24 +1,24 @@
-+++
-"Text title" = "svaprabhuvijnaptiH"
-"File name" = "svaprabhuvijnaptiH.itx"
-itxtitle = "svaprabhuvijnaptiH (haridAsavirachitA)"
-engtitle = "svaprabhuvijnaptiH"
-Category = "misc, krishna, puShTimArgIya, haridAsa, gurudev"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-SubDeity = "krishna"
-Author = "haridAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वप्रभुविज्ञप्तिः (हरिदासविरचिता)"
+---
+Author: haridAsa
+Category: misc, krishna, puShTimArgIya, haridAsa, gurudev
+Description/comments: puShTimArgIya stotraratnAkara
+File name: svaprabhuvijnaptiH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: svaprabhuvijnaptiH
+engtitle: svaprabhuvijnaptiH
+itxtitle: svaprabhuvijnaptiH (haridAsavirachitA)
+title: स्वप्रभुविज्ञप्तिः (हरिदासविरचिता)
 
-+++
+---
   
  स्वप्रभुविज्ञप्तिः   
   

@@ -1,24 +1,25 @@
-+++
-"Text title" = "shrirudratrishati"
-"File name" = "shrirudratrishati.itx"
-itxtitle = "rudratrishatI (nAmAvalI)"
-engtitle = "rudranAma trishatI"
-Category = "shatI, shiva, svara, shatInAmAvalI, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Vaidya Sundaram vaidya_narayanan at yahoo.com"
-"Proofread by" = "Vaidya Sundaram vaidya_narayanan at yahoo.com, Ajit Krishnan ajit at mudgala.com"
-Indexextra = "(with Vedic Accent)"
-"Latest update" = "May 9, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रत्रिशती (नामावली)"
+---
+Author: Vedic Tradition
+Category: shatI, shiva, svara, shatInAmAvalI, nAmAvalI
+File name: shrirudratrishati.itx
+Indexextra: (with Vedic Accent)
+Language: Sanskrit
+Latest update: May 9, 2020
+Location: doc_shiva
+Proofread by: Vaidya Sundaram vaidya_narayanan at yahoo.com, Ajit Krishnan ajit at
+  mudgala.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: shiva
+Text title: shrirudratrishati
+Texttype: svara
+Transliterated by: Vaidya Sundaram vaidya_narayanan at yahoo.com
+engtitle: rudranAma trishatI
+itxtitle: rudratrishatI (nAmAvalI)
+title: रुद्रत्रिशती (नामावली)
 
-+++
+---
   
  श्रीरुद्रत्रिशति   
   
@@ -48,7 +49,7 @@ title = "रुद्रत्रिशती (नामावली)"
 नमः॒ सह॑मानाय॒ नमः॑ । नि॒व्या॒धिने॒ नमः॑ ।   
 आ॒व्या॒धिनी॑नां॒ पत॑ये॒ नमः॑ । नमः॑ ककु॒भाय॒ नमः॑ ।   
 नि॒षं॒गिणे॒ नमः॑ । स्ते॒नानां॒ पत॑ये॒ नमः॑ ।   
-नमो॑ निषंङ्गिणे॒ नमः॑ । इ॒षु॒धि॒मते॒ नमः॑ ।   
+नमो॑ निषङ्ङ्गिणे॒ नमः॑ । इ॒षु॒धि॒मते॒ नमः॑ ।   
 तस्क॑राणां॒ पत॑ये॒ नमः॑ । नमो॒ वञ्च॑ते॒ नमः॑ ।   
 प॒रि॒वञ्च॑ते॒ नमः॑ । स्ता॒यू॒नां पत॑ये॒ नमः॑ ।   
 नमो॑ निचे॒रवे॒ नमः॑ । प॒रि॒च॒राय॒ नमः॑ ।   
@@ -144,7 +145,7 @@ title = "रुद्रत्रिशती (नामावली)"
 नमो॑ ह॒न्त्रे च॒ नमः॑ । हनी॑यसे च॒ नमः॑ ।   
 नमो॑ वृ॒क्षेभ्यो॒ नमः॑ । हरि॑केशेभ्यो॒ नमः॑ ।  
 नम॑स्ता॒राय॒ नमः॑ । नम॑श्शं॒भवे॑ च॒ नमः॑ ।   
-म॒यो॒भवे॑ च॒ नमः॑ । नम॑श्शंक॒राय॑ च॒ नमः॑ ।   
+म॒यो॒भवे॑ च॒ नमः॑ । नम॑श्शङ्क॒राय॑ च॒ नमः॑ ।   
 म॒य॒स्क॒राय॑ च॒ नमः॑ । नमः॑ शि॒वाय॑  च॒ नमः॑ ।   
 शि॒वत॑राय च॒ नमः॑ । नम॒स्तीर्थ्या॑य च॒ नमः॑ ।   
 कूल्या॑य च॒ नमः॑ । नमः॑ पा॒र्या॑य च॒ नमः॑ ।   

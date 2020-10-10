@@ -1,25 +1,27 @@
-+++
-"Text title" = "Devi Stuti shakrAdaya from durgA saptashatI"
-"File name" = "devIstutiHshakrAdaya.itx"
-itxtitle = "devIstutiH athavA mahiShantakrIsUktam jayAstutiH (shakrAdayakRitA durgAsaptashatyAntrgatA)"
-engtitle = "devIstutiH (shakrAdayakRitA)"
-Category = "devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu ek879 at cleveland.freenet.edu"
-"Proofread by" = "Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu ek879 at cleveland.freenet.edu"
-Description-comments = "from durgA saptashatI adhyAya 4.  The first 26 verses are mahiShantakrIsUktam"
-Indexextra = "(Hindi)"
-"Latest update" = "November 1, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीस्तुतिः अथवा महिषन्तक्रीसूक्तम् जयास्तुतिः (शक्रादयकृइता दुर्गासप्तशत्यान्त्र्गता)"
+---
+Category: devii, durgA, stotra, devI
+Description-comments: from durgA saptashatI adhyAya 4.  The first 26 verses are mahiShantakrIsUktam
+File name: devIstutiHshakrAdaya.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: November 1, 2010
+Location: doc_devii
+Proofread by: Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu ek879
+  at cleveland.freenet.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Devi Stuti shakrAdaya from durgA saptashatI
+Texttype: stotra
+Transliterated by: Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu
+  ek879 at cleveland.freenet.edu
+engtitle: devIstutiH (shakrAdayakRitA)
+itxtitle: devIstutiH athavA mahiShantakrIsUktam jayAstutiH (shakrAdayakRitA durgAsaptashatyAntrgatA)
+title: देवीस्तुतिः अथवा महिषन्तक्रीसूक्तम् जयास्तुतिः (शक्रादयकृइता दुर्गासप्तशत्यान्त्र्गता)
 
-+++
+---
   
  शक्रादयकृता देवीस्तुतिः अथवा महिषन्तकरीसूक्तम्   
 दुर्गा सप्तशत्यान्तर्गतम्  

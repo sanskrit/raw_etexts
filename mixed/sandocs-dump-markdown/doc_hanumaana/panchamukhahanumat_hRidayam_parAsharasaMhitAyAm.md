@@ -1,22 +1,22 @@
-+++
-"Text title" = "panchamukhahanumathRidayam"
-"File name" = "panchamukhahanumathRidayam.itx"
-itxtitle = "panchamukhahanumat hRidayam (parAsharasaMhitAyAm)"
-engtitle = "PanchamukhahanumathRidayam"
-Category = "hRidaya, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, PSA Easwaran proofreadaeaswaran at gmail.com"
-Source = "ParAsharasamhita Vol 2 page 1"
-"Latest update" = "June 28, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पञ्चमुखहनुमत् हृइदयम् (पराशरसंहितायाम्)"
+---
+Category: hRidaya, hanumaana, hanuman
+File name: panchamukhahanumathRidayam.itx
+Language: Sanskrit
+Latest update: June 28, 2016
+Location: doc_hanumaana
+Proofread by: Gopal Upadhyay, PSA Easwaran proofreadaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: ParAsharasamhita Vol 2 page 1
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: panchamukhahanumathRidayam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: PanchamukhahanumathRidayam
+itxtitle: panchamukhahanumat hRidayam (parAsharasaMhitAyAm)
+title: पञ्चमुखहनुमत् हृइदयम् (पराशरसंहितायाम्)
 
-+++
+---
   
  श्रीपञ्चमुख हनुमत् हृदयम्   
 श्रीपञ्चमुखहनुमत् हृदयम् ॥  

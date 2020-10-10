@@ -1,22 +1,22 @@
-+++
-"Text title" = "hanumAnAShTaka tulasIdAsa"
-"File name" = "hanumAnAShTakaTulasidas.itx"
-itxtitle = "hanumAnAShTakam saNkaTamochana"
-engtitle = "saNkaTamochana hanumAnAShTakam"
-Category = "aShTaka, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-"Proofread by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-Indexextra = "(sa.nkaTamochana (Sanskrit) by Sant Tulasidas)"
-"Latest update" = "February 22, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमानाष्टकम् सण्कटमोचन"
+---
+Category: aShTaka, hanumaana, hanuman
+File name: hanumAnAShTakaTulasidas.itx
+Indexextra: (sa.nkaTamochana (Sanskrit) by Sant Tulasidas)
+Language: Sanskrit
+Latest update: February 22, 2013
+Location: doc_hanumaana
+Proofread by: Ankur Nagpal ankurnagpal108 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumAnAShTaka tulasIdAsa
+Transliterated by: Ankur Nagpal ankurnagpal108 at gmail.com
+engtitle: saNkaTamochana hanumAnAShTakam
+itxtitle: hanumAnAShTakam saNkaTamochana
+title: हनुमानाष्टकम् सण्कटमोचन
 
-+++
+---
   
  सङ्कटमोचन हनुमानाष्टकम्   
   
@@ -38,7 +38,7 @@ title = "हनुमानाष्टकम् सण्कटमोचन"
 दुर्निरीक्ष्योऽपिदेवानी तद्बलं दर्शयाधुना ॥ ६॥  
   
 यया लङ्कां प्रविश्य त्वं ज्ञातवान् जानकी स्वयं ।  
-रावणांतः पुरेऽत्युग्रेतां बुद्धिं प्रकटी कुरु ॥ ७॥  
+रावणान्तः पुरेऽत्युग्रेतां बुद्धिं प्रकटी कुरु ॥ ७॥  
   
 रुद्रावतार भक्तार्ति विमोचन महाभुज ।  
 कपिराज प्रसन्नस्त्वं शरणं तव रक्ष माम्  ॥ ८॥  

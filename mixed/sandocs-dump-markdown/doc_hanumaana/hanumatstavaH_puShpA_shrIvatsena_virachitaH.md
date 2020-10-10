@@ -1,24 +1,24 @@
-+++
-"Text title" = "hanumatstavaH"
-"File name" = "hanumatstavaH.itx"
-itxtitle = "hanumatstavaH (puShpA shrIvatsena virachitaH)"
-engtitle = "Hanumat Stava"
-Category = "hanumaana, puShpAshrIvatsan, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-"Latest update" = "December 5, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्स्तवः (पुष्पा श्रीवत्सेन विरचितः)"
+---
+Author: Pushpa Srivatsan
+Category: hanumaana, puShpAshrIvatsan, hanuman
+File name: hanumatstavaH.itx
+Language: Sanskrit
+Latest update: December 5, 2017
+Location: doc_hanumaana
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatstavaH
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: Hanumat Stava
+itxtitle: hanumatstavaH (puShpA shrIvatsena virachitaH)
+title: हनुमत्स्तवः (पुष्पा श्रीवत्सेन विरचितः)
 
-+++
+---
   
  श्रीहनुमत्स्तवः   
                  ॐ  

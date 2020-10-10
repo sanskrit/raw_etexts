@@ -1,23 +1,23 @@
-+++
-"Text title" = "triveNIstotram"
-"File name" = "triveNIstotram.itx"
-itxtitle = "triveNIstotram (shaNkarAchAryavirachitam)"
-engtitle = "triveNIstotram"
-Category = "devii, devI, nadI, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिवेणीस्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: devii, devI, nadI, shankarAchArya
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: triveNIstotram.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: triveNIstotram
+engtitle: triveNIstotram
+itxtitle: triveNIstotram (shaNkarAchAryavirachitam)
+title: त्रिवेणीस्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  त्रिवेणीस्तोत्रम्   
 मुक्तामयालङ्कृतमुद्रवेणी भक्ताभयत्राणसुबद्धवेणी ।  

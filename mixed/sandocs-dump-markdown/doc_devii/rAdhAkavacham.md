@@ -1,24 +1,24 @@
-+++
-"Text title" = "rAdhAkavacham"
-"File name" = "raadhaakavach.itx"
-itxtitle = "rAdhAkavacham"
-engtitle = "rAdhAkavacham"
-Category = "kavacha, devii, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "nAradapa.ncharAtra"
-"Latest update" = "July 04, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाकवचम्"
+---
+Author: Traditional
+Category: kavacha, devii, radha, devI
+Description-comments: nAradapa.ncharAtra
+File name: raadhaakavach.itx
+Language: Sanskrit
+Latest update: July 04, 2004
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAkavacham
+Transliterated by: WebD
+engtitle: rAdhAkavacham
+itxtitle: rAdhAkavacham
+title: राधाकवचम्
 
-+++
+---
   
  श्रीराधाकवचम्   
   

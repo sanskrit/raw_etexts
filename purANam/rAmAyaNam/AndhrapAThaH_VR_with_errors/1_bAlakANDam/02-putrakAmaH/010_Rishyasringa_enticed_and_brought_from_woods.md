@@ -3,7 +3,6 @@ title: 010 ऋष्यशृङ्गकथा
 title_english: 010 Rishyasringa enticed and brought from woods
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-010-Rushya_Shrunga_Kathaa.mp3"></div>
 
 सुमन्त्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तथा।  

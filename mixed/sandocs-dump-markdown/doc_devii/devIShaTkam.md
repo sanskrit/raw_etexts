@@ -1,24 +1,24 @@
-+++
-"Text title" = "devI ShaTkam"
-"File name" = "devI6.itx"
-itxtitle = "devIShaTkam"
-engtitle = "devI ShaTkam"
-Category = "ShaTkam, devii, pArvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "mp"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "January 28, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीषट्कम्"
+---
+Author: Traditional
+Category: ShaTkam, devii, pArvatI, stotra, devI
+File name: devI6.itx
+Language: Sanskrit
+Latest update: January 28, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devI ShaTkam
+Texttype: stotra
+Transliterated by: mp
+engtitle: devI ShaTkam
+itxtitle: devIShaTkam
+title: देवीषट्कम्
 
-+++
+---
   
  श्रीदेवीषट्कं अथवा मातङ्गीषट्कम्   
   

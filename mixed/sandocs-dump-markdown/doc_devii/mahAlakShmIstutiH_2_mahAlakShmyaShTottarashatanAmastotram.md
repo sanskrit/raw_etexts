@@ -1,24 +1,24 @@
-+++
-"Text title" = "mahAlakShmIstutiH 2"
-"File name" = "mahAlakShmIstutiH2.itx"
-itxtitle = "mahAlakShmIstutiH 2 mahAlakShmyaShTottarashatanAmastotram"
-engtitle = "mahAlakShmIstutiH 2"
-Category = "devii, lakShmI, aShTottarashatanAma, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3, nAmAvaliH)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "January 4, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालक्ष्मीस्तुतिः २ महालक्ष्म्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: devii, lakShmI, aShTottarashatanAma, devI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: mahAlakShmIstutiH2.itx
+Indexextra: (VSM 3, nAmAvaliH)
+Language: Sanskrit
+Latest update: January 4, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAlakShmIstutiH 2
+engtitle: mahAlakShmIstutiH 2
+itxtitle: mahAlakShmIstutiH 2 mahAlakShmyaShTottarashatanAmastotram
+title: महालक्ष्मीस्तुतिः २ महालक्ष्म्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीमहालक्ष्मीस्तुतिः २   
 महालक्ष्म्यष्टोत्तरशतनामस्तोत्रम्  

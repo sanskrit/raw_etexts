@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIveMkaTeshakavachastotram"
-"File name" = "veMkaTeshakavachastotram.itx"
-itxtitle = "veNkaTeshakavachastotram (AgneyapurANAntargatam)"
-engtitle = "shrIveMkaTeshakavachastotram"
-Category = "vishhnu, venkateshwara, stotra, vishnu, kavacha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "June 10, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशकवचस्तोत्रम् (आग्नेयपुराणान्तर्गतम्)"
+---
+Category: vishhnu, venkateshwara, stotra, vishnu, kavacha
+File name: veMkaTeshakavachastotram.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: June 10, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: shrIveMkaTeshakavachastotram
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: shrIveMkaTeshakavachastotram
+itxtitle: veNkaTeshakavachastotram (AgneyapurANAntargatam)
+title: वेण्कटेशकवचस्तोत्रम् (आग्नेयपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीवेङ्कटेशकवचस्तोत्रम्   
 आग्नेयपुराणे  
@@ -32,7 +32,7 @@ title = "वेण्कटेशकवचस्तोत्रम् (आग्
 देवं देवशिखामणिं श्रियमथो वक्षोदधानं हरिं  
 भूषाजालमनेकरत्नखचितं दिव्यं किरीटाङ्गदम् ॥ १॥  
   
-वराहः पातु मे शीर्षं केशान् श्रीवेंङ्कटेश्वरः ।  
+वराहः पातु मे शीर्षं केशान् श्रीवेङ्ङ्कटेश्वरः ।  
 शिखामिळापतिः कर्णो ललाटं दिव्यविग्रहः ॥ २॥  
   
 नेत्रे युगान्तस्थायी मे कपोले कनकाम्बरः ।  

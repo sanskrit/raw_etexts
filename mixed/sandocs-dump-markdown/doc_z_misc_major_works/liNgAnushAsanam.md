@@ -1,22 +1,22 @@
-+++
-"Text title" = "Linganushasanam"
-"File name" = "lingAnushAsanam.itx"
-itxtitle = "liNgAnushAsanam"
-engtitle = "lingAnushAsanam Panini on Genders"
-Category = "major_works, svara"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shikanjiwala ak93833 at gmail.com"
-"Proofread by" = "Shikanjiwala ak93833 at gmail.com"
-Indexextra = "(Scan text 1, 2, 3)"
-"Latest update" = "December 1, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लिण्गानुशासनम्"
+---
+Category: major_works, svara
+File name: lingAnushAsanam.itx
+Indexextra: (Scan text 1, 2, 3)
+Language: Sanskrit
+Latest update: December 1, 2018
+Location: doc_z_misc_major_works
+Proofread by: Shikanjiwala ak93833 at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: Linganushasanam
+Transliterated by: Shikanjiwala ak93833 at gmail.com
+engtitle: lingAnushAsanam Panini on Genders
+itxtitle: liNgAnushAsanam
+title: लिण्गानुशासनम्
 
-+++
+---
   
  महर्षिपाणिनिप्रणीतं लिङ्गानुशासनम्   
   
@@ -242,15 +242,15 @@ title = "लिण्गानुशासनम्"
 १७७. अपत्यार्थस्तद्धिते ।  
 इति स्त्रीपुंसलिङ्गाधिकार ॥  
   
-अथ पुंनपुंसकलिङ्गाधिकारः ।  
-१७८. पुंनपुंसकयोः ।  
+अथ पुन्नपुंसकलिङ्गाधिकारः ।  
+१७८. पुन्नपुंसकयोः ।  
 १७९. धृतभूतमुस्तक्ष्वेलितैरावतपुस्तबुस्तलोहिताः ।  
 १८०. श्रृङ्गार्धनिदाघोद्यमशल्यदृढाः ।  
 १८१. व्रजकुञ्जकुथकूर्चप्रस्थदर्पार्भार्धर्चदर्भपुच्छाः ।  
 १८२. कबन्धौषधायुधान्ताः ।  
 १८३. दण्डमण्डखण्डशवसैन्धवपार्श्वकाशकुशकाशाङ्कुशकुलिशाः ।  
 १८४. गृहमेहदेहपट्टपटहाष्टापदार्बुदककुदाश्च ।  
-इति पुंनपुंसकलिङ्गाधिकारः ॥  
+इति पुन्नपुंसकलिङ्गाधिकारः ॥  
   
 अथ अविशिष्टलिङ्गाधिकारः ।  
 १८५. अविशिष्टलिङ्गम् ।  

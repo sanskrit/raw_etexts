@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shrikantha Trishati Namavali 300 Names"
-"File name" = "shivAShTanAmAni.itx"
-itxtitle = "shivAShTanAmAni"
-engtitle = "shivAShTanAmAni"
-Category = "shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "July 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवाष्टनामानि"
+---
+Category: shiva, nAmAvalI
+File name: shivAShTanAmAni.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 17, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shrikantha Trishati Namavali 300 Names
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: shivAShTanAmAni
+itxtitle: shivAShTanAmAni
+title: शिवाष्टनामानि
 
-+++
+---
   
  शिवाष्टनामानि   
 शिवो महेश्वरश्चैव रुद्रो विष्णुः पितामहः ।  

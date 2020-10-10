@@ -1,21 +1,21 @@
-+++
-"Text title" = "kanyakAparameshvaryaShTottarashatanAmAvalI"
-"File name" = "kanyakAparameshvaryaShTottarashatanAmAvalI.itx"
-itxtitle = "kanyakAparameshvaryaShTottarashatanAmAvalI"
-engtitle = "kanyakAparameshvaryaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "July 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कन्यकापरमेश्वर्यष्टोत्तरशतनामावली"
+---
+Author: Traditional
+Category: aShTottarashatanAmAvalI, devii, devI
+File name: kanyakAparameshvaryaShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: July 11, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kanyakAparameshvaryaShTottarashatanAmAvalI
+engtitle: kanyakAparameshvaryaShTottarashatanAmAvalI
+itxtitle: kanyakAparameshvaryaShTottarashatanAmAvalI
+title: कन्यकापरमेश्वर्यष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीकन्यकापरमेश्वर्यष्टोत्तरशतनामावलिः   
   

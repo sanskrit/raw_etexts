@@ -1,24 +1,24 @@
-+++
-"Text title" = "Namo Bhagavati"
-"File name" = "namobhagavati.itx"
-itxtitle = "namo bhagavati"
-engtitle = "namo bhagavati"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "gu. gaNapayyahoLLa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1, 2. 3)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नमो भगवति"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: gu. gaNapayyahoLLa
+Category: misc, sanskritgeet
+File name: namobhagavati.itx
+Indexextra: (Wiki, Videos 1, 2. 3)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Namo Bhagavati
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: namo bhagavati
+itxtitle: namo bhagavati
+title: नमो भगवति
 
-+++
+---
   
  नमो भगवति !   
 नमो भगवति ! हे सरस्वति !  

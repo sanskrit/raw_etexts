@@ -1,22 +1,23 @@
-+++
-"Text title" = "haristotram bhaktechChApUrtikaram"
-"File name" = "haristotrambhaktechChApUrtikaram.itx"
-itxtitle = "haristotram athavA vegAsetustotraM (bhaktechChApUrtikaram vedAntadeshikakRitam)"
-engtitle = "haristotram bhaktechChApUrtikaram or vegAsetustotraM"
-Category = "vishhnu, vedAnta-deshika, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "January 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिस्तोत्रम् अथवा वेगासेतुस्तोत्रं (भक्तेच्छापूर्तिकरम् वेदान्तदेशिककृइतम्)"
+---
+Author: vedAntadeshika
+Category: vishhnu, vedAnta-deshika, vishnu
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: haristotrambhaktechChApUrtikaram.itx
+Language: Sanskrit
+Latest update: January 19, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: haristotram bhaktechChApUrtikaram
+engtitle: haristotram bhaktechChApUrtikaram or vegAsetustotraM
+itxtitle: haristotram athavA vegAsetustotraM (bhaktechChApUrtikaram vedAntadeshikakRitam)
+title: हरिस्तोत्रम् अथवा वेगासेतुस्तोत्रं (भक्तेच्छापूर्तिकरम् वेदान्तदेशिककृइतम्)
 
-+++
+---
   
  भक्तेच्छापूर्तिकरं हरिस्तोत्रम् अथवा वेगासेतुस्तोत्रम्   
   

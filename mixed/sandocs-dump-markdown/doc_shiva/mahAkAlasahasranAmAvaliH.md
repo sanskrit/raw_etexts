@@ -1,22 +1,22 @@
-+++
-"Text title" = "mahAkAlasahasranAmAvaliH"
-"File name" = "mahAkAlasahasranAmAvaliH.itx"
-itxtitle = "mahAkAlasahasranAmAvaliH"
-engtitle = "mahAkAlasahasranAmAvaliH"
-Category = "sahasranAmAvalI, shiva, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-Description-comments = "prakRiShTanandoktAgam.  See corresponding stotra"
-"Latest update" = "December 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालसहस्रनामावलिः"
+---
+Category: sahasranAmAvalI, shiva, nAmAvalI
+Description-comments: prakRiShTanandoktAgam.  See corresponding stotra
+File name: mahAkAlasahasranAmAvaliH.itx
+Language: Sanskrit
+Latest update: December 14, 2019
+Location: doc_shiva
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mahAkAlasahasranAmAvaliH
+Texttype: stotra
+engtitle: mahAkAlasahasranAmAvaliH
+itxtitle: mahAkAlasahasranAmAvaliH
+title: महाकालसहस्रनामावलिः
 
-+++
+---
   
  श्रीमहाकालसहस्रनामावलिः   
 विनियोगः ।  
@@ -87,7 +87,7 @@ title = "महाकालसहस्रनामावलिः"
 यवरूपाय । यवनान्ताय । यविने । यवाय । ऋग्वेदाय । रोगहन्त्रे ।  
 रन्तिदेवाय । रणाग्रण्ये । रैवताय नमः । १२०  
   
-ॐ रैवताधीशाय नमः । रैवतेश्वरसंज्ञकाय । रामेश्वराय ।  
+ॐ रैवताधीशाय नमः । रैवतेश्वरसञ्ज्ञकाय । रामेश्वराय ।  
 रकाराय । रामप्रियाय । रमाप्रियाय । रणये । रणहराय । रक्षाय ।  
 रक्षकाय । ऋणहारकाय । रक्षित्रे । राजरूपाय । राजे । रवाय ।  
 रूपाय । रजःप्रदाय । रामचन्द्रप्रियाय । राज्ञे । रक्षोघ्नाय नमः ।  

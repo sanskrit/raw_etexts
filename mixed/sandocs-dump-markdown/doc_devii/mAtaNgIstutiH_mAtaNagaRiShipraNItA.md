@@ -1,23 +1,23 @@
-+++
-"Text title" = "Matangi Stuti"
-"File name" = "mAtangIstutI.itx"
-itxtitle = "mAtaNgIstutiH (mAtaNagaRiShipraNItA)"
-engtitle = "Matangi Stuti"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Lalitha Parameswari parameswari.lalitha at gmail.com"
-"Proofread by" = "Lalitha Parameswari, NA"
-Indexextra = "(Mahavidya Chatushtayam)"
-"Latest update" = "June 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातण्गीस्तुतिः (मातणगऋइषिप्रणीता)"
+---
+Category: devii, dashamahAvidyA, devI
+File name: mAtangIstutI.itx
+Indexextra: (Mahavidya Chatushtayam)
+Language: Sanskrit
+Latest update: June 2, 2018
+Location: doc_devii
+Proofread by: Lalitha Parameswari, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Matangi Stuti
+Transliterated by: Lalitha Parameswari parameswari.lalitha at gmail.com
+engtitle: Matangi Stuti
+itxtitle: mAtaNgIstutiH (mAtaNagaRiShipraNItA)
+title: मातण्गीस्तुतिः (मातणगऋइषिप्रणीता)
 
-+++
+---
   
  श्रीमातङ्गी स्तुतिः   
 मातङ्गीं नवयावकार्द्र चरणामुल्लासि कृष्णांशुकां  
@@ -67,7 +67,7 @@ title = "मातण्गीस्तुतिः (मातणगऋइषि
 कदम्ब मालाङ्कितकेशपाशां मातङ्गकन्यां हृदिभावयामि ॥ १२॥  
   
 स्तुत्यानया शङ्करधर्मपत्नीं मातङ्गिनीं वागधिदेवतां ताम् ।  
-स्वर्गंगतिं भक्तजना मनुष्याः परां श्रियं भक्ति भरेण चान्ये ॥ १३॥  
+स्वर्गङ्गतिं भक्तजना मनुष्याः परां श्रियं भक्ति भरेण चान्ये ॥ १३॥  
   
 कुचकुम्भ तटन्यस्त मणिवीणामदालसाम् ।  
 श्यामां वामाङ्क विन्यस्त मालिकां बालिकाम्भजे ॥ १४॥  
@@ -188,7 +188,7 @@ title = "मातण्गीस्तुतिः (मातणगऋइषि
 श्रोणीभारभरालसामनिमिषां पश्यामि विश्वेश्वरीम् ॥ ४१॥  
   
 कुचकलशनिषण्णवीणां कलमधुरध्वनि कम्पितोत्तमाङ्गीम् ।  
-मरकतमणिभागमेचकाभांमदमविरोधमनस्विनीमुपासे ॥ ४२॥  
+मरकतमणिभागमेचकाभाम्मदमविरोधमनस्विनीमुपासे ॥ ४२॥  
   
 तालीदलोल्लसितकोमलकर्णपालीं फालान्तराचिकुरामतिनीलवेणीम् ।  
 वक्षोजपीठनिहितोज्वलचारुवीणां श्यामां नमामि मदिरारुणनेत्रयुग्माम् ॥ ४३॥  

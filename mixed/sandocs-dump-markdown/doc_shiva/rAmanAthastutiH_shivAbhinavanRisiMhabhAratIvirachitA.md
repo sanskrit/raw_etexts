@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAmanAthastutiH"
-"File name" = "rAmanAthastutiH.itx"
-itxtitle = "rAmanAthastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "rAmanAthastutiH"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामनाथस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: rAmanAthastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: rAmanAthastutiH
+engtitle: rAmanAthastutiH
+itxtitle: rAmanAthastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: रामनाथस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीरामनाथस्तुतिः   
 (श्रीरामेश्वरक्षेत्रे)  

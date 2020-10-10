@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Kartikeya Ashtottarashatanama Stotram"
-"File name" = "kArtikeyAShTottarashatanAmastotram.itx"
-itxtitle = "kArtikeyAShTottarashatanAmastotram"
-engtitle = "kArtikeyAShTottarashatanAmastotram"
-Category = "subrahmanya, aShTottarashatanAma"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Raman karthik.raman at gmail.com"
-"Proofread by" = "Karthik Raman karthik.raman at gmail.com"
-"Description/comments" = "skandamahApurANa mAheshvarakhaNDa kumArikAkhaNDa"
-Indexextra = "(scan, namavali)"
-"Latest update" = "May 26, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कार्तिकेयाष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: subrahmanya, aShTottarashatanAma
+Description/comments: skandamahApurANa mAheshvarakhaNDa kumArikAkhaNDa
+File name: kArtikeyAShTottarashatanAmastotram.itx
+Indexextra: (scan, namavali)
+Language: Sanskrit
+Latest update: May 26, 2019
+Location: doc_subrahmanya
+Proofread by: Karthik Raman karthik.raman at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Shri Kartikeya Ashtottarashatanama Stotram
+Transliterated by: Karthik Raman karthik.raman at gmail.com
+engtitle: kArtikeyAShTottarashatanAmastotram
+itxtitle: kArtikeyAShTottarashatanAmastotram
+title: कार्तिकेयाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीकार्तिकेयाष्टोत्तरशतनामस्तोत्रम्   
 ध्यानम् -  
@@ -28,7 +28,7 @@ title = "कार्तिकेयाष्टोत्तरशतनाम�
   
 अथ स्तोत्रम् ।  
 विश्वामित्रस्तु भगवान् कुमारं शरणं गतः ।  
-स्तवं दिव्यं संप्रचक्रे महासेनस्य चापि सः ॥ १॥  
+स्तवं दिव्यं सम्प्रचक्रे महासेनस्य चापि सः ॥ १॥  
   
 अष्टोत्तरशतनाम्नां शृणु त्वं तानि फाल्गुन ।  
 जपेन येषां पापानि यान्ति ज्ञानमवाप्नुयात् ॥ २॥  

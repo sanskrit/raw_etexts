@@ -1,22 +1,22 @@
-+++
-"Text title" = "putragItA"
-"File name" = "putragItA.itx"
-itxtitle = "putragItA"
-engtitle = "putragItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "adhyAya 175/174"
-Source = "Mahabharata, Shantiparva, Mokshadharmaparva, pitAputrasaMvAda"
-Indexextra = "(Scanned)"
-"Latest update" = "September 15, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पुत्रगीता"
+---
+Category: gItA, giitaa
+Description-comments: adhyAya 175/174
+File name: putragItA.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: September 15, 2017
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Mahabharata, Shantiparva, Mokshadharmaparva, pitAputrasaMvAda
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: putragItA
+engtitle: putragItA
+itxtitle: putragItA
+title: पुत्रगीता
 
-+++
+---
   
  पुत्रगीता   
   
@@ -78,7 +78,7 @@ title = "पुत्रगीता"
 व्याघ्रः पशुमिवादाय मृत्युरादाय गच्छति ॥ १९  
 इदं कृतमिदं कार्यमिदमन्यत्कृताकृतम् ।  
 एवमीहासुखासक्तं कृतान्तः कुरुते वशे ॥ २०  
-कृतानां फलमप्राप्तं कर्मणां कर्मसंज्ञितम् ।  
+कृतानां फलमप्राप्तं कर्मणां कर्मसञ्ज्ञितम् ।  
 क्षेत्रापणगृहासक्तं मृत्युरादाय गच्छति ॥ २१  
 दुर्बलं बलवन्तं च शूरं भीरुं जडं कविम् ।  
 अप्राप्तं सर्वकामार्थान्मृत्युरादाय गच्छति ॥ २२  
@@ -150,7 +150,7 @@ Mahabharata - Shanti Parva - Chapter Footnotes
   
 ईहा तृष्णा ॥  
   
-२१ कर्मसंज्ञितं वणिगित्यादि कर्मानुरूपसंज्ञावन्तम् ॥  
+२१ कर्मसञ्ज्ञितं वणिगित्यादि कर्मानुरूपसञ्ज्ञावन्तम् ॥  
   
 २४ द्वयेनान्तकजराख्येन ॥  
   

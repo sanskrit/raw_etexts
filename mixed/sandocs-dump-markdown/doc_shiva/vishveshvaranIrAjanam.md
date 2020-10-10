@@ -1,21 +1,22 @@
-+++
-"Text title" = "vishveshvaranIrAjanam"
-"File name" = "vishveshvaranIrAjanam.itx"
-itxtitle = "vishveshvaranIrAjanam"
-engtitle = "vishveshvaranIrAjanam"
-Category = "AratI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "January 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वेश्वरनीराजनम्"
+---
+Category: AratI, shiva
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: vishveshvaranIrAjanam.itx
+Language: Sanskrit
+Latest update: January 19, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: vishveshvaranIrAjanam
+engtitle: vishveshvaranIrAjanam
+itxtitle: vishveshvaranIrAjanam
+title: विश्वेश्वरनीराजनम्
 
-+++
+---
   
  विश्वेश्वरनीराजनम्   
   

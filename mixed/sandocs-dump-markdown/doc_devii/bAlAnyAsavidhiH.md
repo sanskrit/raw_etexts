@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Nyasavidhi"
-"File name" = "bAlAnyAsavidhiH.itx"
-itxtitle = "bAlAnyAsavidhiH"
-engtitle = "bAlAnyAsavidhiH"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालान्यासविधिः"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAnyAsavidhiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Nyasavidhi
+engtitle: bAlAnyAsavidhiH
+itxtitle: bAlAnyAsavidhiH
+title: बालान्यासविधिः
 
-+++
+---
   
  श्रीबालान्यासविधिः   
 अस्य श्रीबालान्यासमहामन्त्रस्य दक्षिणामूर्तिः ऋषिः ।  

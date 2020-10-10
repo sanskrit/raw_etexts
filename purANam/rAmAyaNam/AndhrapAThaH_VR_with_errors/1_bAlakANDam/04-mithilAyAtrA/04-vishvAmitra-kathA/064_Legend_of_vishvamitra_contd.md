@@ -3,7 +3,6 @@ title: 064 रम्भा-शाप-प्राप्तिः
 title_english: 064 Legend of vishvamitra contd
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-064-Rambhayaha_Shapa_Prapthihi.mp3"></div>
 
 सुरकार्यमिदं रम्भे कर्तव्यं सुमहत्त्वया।  

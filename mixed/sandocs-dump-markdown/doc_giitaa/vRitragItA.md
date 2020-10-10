@@ -1,22 +1,22 @@
-+++
-"Text title" = "vRitragItA"
-"File name" = "vRitragiitaa.itx"
-itxtitle = "vRitragItA"
-engtitle = "vRitragItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "religion"
-"Transliterated by" = "Professor Tokunaga in Kyoto system(?)"
-"Proofread by" = "Sunder Hattangadi(sunderh at hotmail.com)"
-Indexextra = "(mahAbhArata shAntiparva Mokshadharma, Chapters 279-280)"
-"Latest update" = "June 2, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वृइत्रगीता"
+---
+Category: gItA, giitaa
+File name: vRitragiitaa.itx
+Indexextra: (mahAbhArata shAntiparva Mokshadharma, Chapters 279-280)
+Language: Sanskrit
+Latest update: June 2, 1998
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi(sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: religion
+Sublocation: giitaa
+Text title: vRitragItA
+Transliterated by: Professor Tokunaga in Kyoto system(?)
+engtitle: vRitragItA
+itxtitle: vRitragItA
+title: वृइत्रगीता
 
-+++
+---
   
  वृत्रगीता   
   
@@ -28,7 +28,7 @@ title = "वृइत्रगीता"
 लोकसम्भावितैर्दुःखं यत्प्राप्तं कुरुसत्तम ।  
 प्राप्य जातिं मनुष्येषु देवैरपि पितामह ॥ २॥  
   
-कदा वयं करिष्यामः संन्यासं दुःखसञ्ज्ञकम् ।  
+कदा वयं करिष्यामः सन्न्यासं दुःखसञ्ज्ञकम् ।  
 दुःखमेतच्छरीराणां धारणं कुरुसत्तम ॥ ३॥  
   
 विमुक्ताः सप्तदशभिर्हेतुभूतैश्च पञ्चभिः ।  

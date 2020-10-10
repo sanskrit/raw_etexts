@@ -1,30 +1,30 @@
-+++
-"Text title" = "agastya rachita shrIlakShmI stotra"
-"File name" = "agastilaxmii.itx"
-itxtitle = "lakShmIstotram (agastya rachitam)"
-engtitle = "agastya rachita shrIlakShmI stotra"
-Category = "devii, lakShmI, stotra, agastya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Author = "agasti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.webdunia.com"
-"Proofread by" = "http://www.webdunia.com"
-Indexextra = "(agastya)"
-"Latest update" = "November 22, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीस्तोत्रम् (अगस्त्य रचितम्)"
+---
+Author: agasti
+Category: devii, lakShmI, stotra, agastya, devI
+File name: agastilaxmii.itx
+Indexextra: (agastya)
+Language: Sanskrit
+Latest update: November 22, 2001
+Location: doc_devii
+Proofread by: http://www.webdunia.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: agastya rachita shrIlakShmI stotra
+Texttype: stotra
+Transliterated by: http://www.webdunia.com
+engtitle: agastya rachita shrIlakShmI stotra
+itxtitle: lakShmIstotram (agastya rachitam)
+title: लक्ष्मीस्तोत्रम् (अगस्त्य रचितम्)
 
-+++
+---
   
  श्रीलक्ष्मीस्तोत्रं अगस्त्यरचितम्   
   
-संकलन ः डाॅ। मनस्वी श्रीविद्यालंकार `मनस्वी'  
-ऋषिवर अगस्त द्वारा रचित श्रीलक्ष्मी स्तोत्र यह स्तोत्र अत्यंत  
+सङ्कलन ः डाॅ। मनस्वी श्रीविद्यालङ्कार `मनस्वी'  
+ऋषिवर अगस्त द्वारा रचित श्रीलक्ष्मी स्तोत्र यह स्तोत्र अत्यन्त  
 फलदायी है ।  
 जय पद्मपलाशाक्षि जय त्वं श्रीपतिप्रिये ।  
 जय मातर्महालक्ष्मि संसारार्णवतारिणि ॥  
@@ -51,7 +51,7 @@ title = "लक्ष्मीस्तोत्रम् (अगस्त्य
 आर्तहन्त्रि नमस्तुभ्यं समृद्धिं कुरु मे सदा ॥  
   
 अब्जवासे नमस्तुभ्यं चपलायै नमो नमः ।  
-चंचलायै नमस्तुभ्यं ललितायै नमो नमः ॥  
+चञ्चलायै नमस्तुभ्यं ललितायै नमो नमः ॥  
   
 नमः प्रद्युम्नजननि मातुस्तुभ्यं नमो नमः ।  
 परिपालय भो मातर्मां तुभ्यं शरणागतं ॥  
@@ -65,7 +65,7 @@ title = "लक्ष्मीस्तोत्रम् (अगस्त्य
 तावद्विराजते रूपं तावच्छीलं विराजते ।  
 तावद्गुणा नराणां च यावल्लक्ष्मीः प्रसीदति ॥  
   
-लक्ष्मित्वयालंकृतमानवा ये पापैर्विमुक्ता नृपलोकमान्याः ।  
+लक्ष्मित्वयालङ्कृतमानवा ये पापैर्विमुक्ता नृपलोकमान्याः ।  
 गुणैर्विहीना गुणिनो भवन्ति दुशीलिनः शीलवतां वरिष्ठाः ॥  
   
 लक्ष्मीर्भूषयते रूपं लक्ष्मीर्भूषयते कुलं ।  
@@ -82,7 +82,7 @@ title = "लक्ष्मीस्तोत्रम् (अगस्त्य
   
 मां विलोक्य जननि हरिप्रिये । निर्धनं त्वत्समीपमागतं ॥  
   
-देहि मे झटिति लक्ष्मि । कराग्रं वस्त्रकांचनवरान्नमद्भुतं ॥  
+देहि मे झटिति लक्ष्मि । कराग्रं वस्त्रकाञ्चनवरान्नमद्भुतं ॥  
   
 त्वमेव जननी लक्ष्मि पिता लक्ष्मि त्वमेव च ॥  
   

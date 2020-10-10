@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Ashtottarashatanama Stotram  3"
-"File name" = "bAlAShTottarashatanAmastotram3.itx"
-itxtitle = "bAlAShTottarashatanAmastotram 3 (aNurUpA mahArUpA)"
-engtitle = "bAlAShTottarashatanAmastotram 3"
-Category = "devii, dashamahAvidyA, devI, aShTottarashatanAma"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाष्टोत्तरशतनामस्तोत्रम् ३ (अणुरूपा महारूपा)"
+---
+Category: devii, dashamahAvidyA, devI, aShTottarashatanAma
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAShTottarashatanAmastotram3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Ashtottarashatanama Stotram  3
+engtitle: bAlAShTottarashatanAmastotram 3
+itxtitle: bAlAShTottarashatanAmastotram 3 (aNurUpA mahArUpA)
+title: बालाष्टोत्तरशतनामस्तोत्रम् ३ (अणुरूपा महारूपा)
 
-+++
+---
   
  श्रीबालाष्टोत्तरशतनामस्तोत्रम् ३   
 ॐ ऐं ह्रीं श्रीं -  

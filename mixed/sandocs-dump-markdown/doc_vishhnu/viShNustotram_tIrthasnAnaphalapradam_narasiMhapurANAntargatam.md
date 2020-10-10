@@ -1,25 +1,25 @@
-+++
-"Text title" = "tIrthasnAnaphalapradam shrI viShNustotra narasiMhapurANe"
-"File name" = "tIrthasnAnaphalapradamviShNustotramNP.itx"
-itxtitle = "viShNustotram tIrthasnAnaphalapradam (narasiMhapurANAntargatam)"
-engtitle = "Shri Vishnustavan by Markendeya in Narasimhapurana"
-Category = "vishhnu, vishnu_misc, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 10 verses 21-28"
-Indexextra = "(narasiMhapurANa)"
-"Latest update" = "June 6, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तोत्रम् तीर्थस्नानफलप्रदम् (नरसिंहपुराणान्तर्गतम्)"
+---
+Category: vishhnu, vishnu_misc, stotra, vishnu
+Description-comments: Narasimhapurana adhyAya 10 verses 21-28
+File name: tIrthasnAnaphalapradamviShNustotramNP.itx
+Indexextra: (narasiMhapurANa)
+Language: Sanskrit
+Latest update: June 6, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: tIrthasnAnaphalapradam shrI viShNustotra narasiMhapurANe
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: Shri Vishnustavan by Markendeya in Narasimhapurana
+itxtitle: viShNustotram tIrthasnAnaphalapradam (narasiMhapurANAntargatam)
+title: विष्णुस्तोत्रम् तीर्थस्नानफलप्रदम् (नरसिंहपुराणान्तर्गतम्)
 
-+++
+---
   
  तीर्थस्नानफलप्रदम् श्रीविष्णुस्तोत्रं नरसिंहपुराणे   
   
@@ -51,12 +51,12 @@ title = "विष्णुस्तोत्रम् तीर्थस्न�
 जय पुण्यवतां गेह जय वैदिकभाजन ॥ ८॥  
   
 जय जय चतुर्भुज श्री जयदेव जय दैत्यभयावह ।  
-जय सर्वज्ञ सर्वात्मन् जय शंकर शाश्वत ॥ ९॥  
+जय सर्वज्ञ सर्वात्मन् जय शङ्कर शाश्वत ॥ ९॥  
   
 जय विष्णो महादेव जय नित्यमधोक्षज ।  
 प्रसादं कुरु देवेश दर्शयाद्य स्वकां तनुम् ॥ १०।   
   
-अध्याय १० श्लोक १९-२८, अध्याय श्लोक संख्या ५२  
+अध्याय १० श्लोक १९-२८, अध्याय श्लोक सङ्ख्या ५२  
 श्रीनरसिंहपुराणे मार्कण्डेयचरित्रे दशमोऽध्यायः ॥ १०॥  
   
   

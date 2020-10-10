@@ -1,24 +1,24 @@
-+++
-"Text title" = "MRidapi cha Chandanam"
-"File name" = "mRRidapichachandanam.itx"
-itxtitle = "mRidapichachandanam"
-engtitle = "mRRidapichachandanam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "janArdana hegaDe"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1, 2, 3, 4, 5)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मृइदपिचचन्दनम्"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: janArdana hegaDe
+Category: misc, sanskritgeet
+File name: mRRidapichachandanam.itx
+Indexextra: (Wiki, Videos 1, 2, 3, 4, 5)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: MRidapi cha Chandanam
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: mRRidapichachandanam
+itxtitle: mRidapichachandanam
+title: मृइदपिचचन्दनम्
 
-+++
+---
   
  मृदपि च चन्दनम्   
 मृदपि च चन्दनमस्मिन् देशे ग्रामो ग्रामः सिद्धवनम् ।  

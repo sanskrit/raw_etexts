@@ -1,23 +1,23 @@
-+++
-"Text title" = "bAlAhomaHlaghuH"
-"File name" = "bAlAhomaHlaghuH.itx"
-itxtitle = "bAlAhomaHlaghuH"
-engtitle = "bAlAhomaHlaghuH"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाहोमःलघुः"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAhomaHlaghuH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAhomaHlaghuH
+engtitle: bAlAhomaHlaghuH
+itxtitle: bAlAhomaHlaghuH
+title: बालाहोमःलघुः
 
-+++
+---
   
  श्रीबाला लघुहोमः   
 सङ्कल्पः - श्रीपरमेश्वरप्रीत्यर्थं श्रीबालात्रिपुरसुन्दरी  
@@ -91,7 +91,7 @@ title = "बालाहोमःलघुः"
 मृलया नः स्वस्ति । आं ह्रीं क्रों । क्रों ह्रीं आं (इति ४० वारं जस्वा)  
 श्रीबाला प्राणशक्त्यै नमः ।  
 (इति धूपं दीपं घृतमधुनिवेदनं च कुर्यात् ।)  
-इतः परं ॐ ऐं हीं श्रीं ऐं क्लीं सौः । इति बीजानां इति ७ संज्ञा ।)  
+इतः परं ॐ ऐं हीं श्रीं ऐं क्लीं सौः । इति बीजानां इति ७ सञ्ज्ञा ।)  
  ७. श्रीबालायै नमः । आवाहिता भव । सन्निहिता भव । सन्निरुद्धा  
 भव । अवकुन्ठिता भव । देवि प्रसीद प्रसीद । देवि सर्वजगन्नाथे  
 यारद्धोमावसानकम् । तावत्त्वं प्रीतिभावेन बिम्बे (कलशे) अग्नौ  

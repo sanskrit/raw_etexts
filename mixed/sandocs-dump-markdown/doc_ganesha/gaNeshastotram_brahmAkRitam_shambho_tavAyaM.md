@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Ganesha Stotram by Brahma"
-"File name" = "gaNeshastotrambrahmAkRRitam.itx"
-itxtitle = "gaNeshastotram (brahmAkRitam shambho tavAyaM)"
-engtitle = "gaNeshastotram brahmAkRRitam"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Latest update" = "May 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तोत्रम् (ब्रह्माकृइतम् शम्भो तवायं)"
+---
+Category: ganesha
+File name: gaNeshastotrambrahmAkRRitam.itx
+Language: Sanskrit
+Latest update: May 23, 2019
+Location: doc_ganesha
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Shri Ganesha Stotram by Brahma
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: gaNeshastotram brahmAkRRitam
+itxtitle: gaNeshastotram (brahmAkRitam shambho tavAyaM)
+title: गणेशस्तोत्रम् (ब्रह्माकृइतम् शम्भो तवायं)
 
-+++
+---
   
  श्रीब्रह्माकृतं श्रीगणेशस्तोत्रम्   
 श्री गणेशाय नमः ।  

@@ -1,20 +1,20 @@
-+++
-"Text title" = "Shri Surya Divya Kavacham 4"
-"File name" = "sUryakavacham4.itx"
-itxtitle = "sUryakavacham 4"
-engtitle = "sUryakavacham 4"
-Category = "navagraha, kavacha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "सूर्यकवचम् ४"
+---
+Category: navagraha, kavacha
+File name: sUryakavacham4.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: Shri Surya Divya Kavacham 4
+engtitle: sUryakavacham 4
+itxtitle: sUryakavacham 4
+title: सूर्यकवचम् ४
 
-+++
+---
   
  श्रीसूर्यकवचम् ४   
 घृणिर्मे शीर्षकं पातु सूर्यः पातु ललाटकम् ।  

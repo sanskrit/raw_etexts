@@ -3,11 +3,10 @@ title: 081 Indrajit places illusory live image of Seetha
 title_english: 081 Indrajit places illusory live image of Seetha
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-081-Indrajit_places_illusory_live_image_of_Seetha_0.mp3"></div>
 
 विज्ञाय तु मनस्तस्य राघवस्य महात्मनः ।  
-संनिवृत्याहवात्तस्मात्प्रविवेश पुरं ततः ॥ २-८१-१  
+सन्निवृत्याहवात्तस्मात्प्रविवेश पुरं ततः ॥ २-८१-१  
 सोऽनुस्मृत्य वधं तेषां राक्षसानां तरस्विनाम् ।  
 क्रोधताम्रेक्षणः शूरो निर्जगाम महाद्युतिः ॥ २-८१-२  
 स पश्चिमेन द्वारेण निर्ययौ राक्षसैर्वृतः ।  

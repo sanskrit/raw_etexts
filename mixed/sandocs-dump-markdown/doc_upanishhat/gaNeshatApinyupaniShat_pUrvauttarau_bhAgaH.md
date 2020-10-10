@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNeshatApinIupaniShat"
-"File name" = "gaNeshatApinIupaniShat.itx"
-itxtitle = "gaNeshatApinyupaniShat pUrvauttarau bhAgaH"
-engtitle = "gaNeshatApinIupaniShat pUrva and uttara parts"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Atharvaveda category"
-"Latest update" = "April 18, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशतापिन्युपनिषत् पूर्वौत्तरौ भागः"
+---
+Category: upanishhat, upanishad
+Description-comments: Atharvaveda category
+File name: gaNeshatApinIupaniShat.itx
+Language: Sanskrit
+Latest update: April 18, 2015
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: gaNeshatApinIupaniShat
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: gaNeshatApinIupaniShat pUrva and uttara parts
+itxtitle: gaNeshatApinyupaniShat pUrvauttarau bhAgaH
+title: गणेशतापिन्युपनिषत् पूर्वौत्तरौ भागः
 
-+++
+---
   
  गणेशतापिन्युपनिषत् पूर्वं उत्तरं च    
      अथ गणेश पूर्वतापिन्युपनिषत् ॥  

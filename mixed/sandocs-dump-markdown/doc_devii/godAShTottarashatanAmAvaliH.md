@@ -1,24 +1,24 @@
-+++
-"Text title" = "godAShTottarashatanAmAvaliH"
-"File name" = "godAShTottarashatanAmAvaliH.itx"
-itxtitle = "godAShTottarashatanAmAvaliH"
-engtitle = "godAShTottarashatanAmAvaliH"
-Category = "devii, aShTottarashatanAmAvalI, nAmAvalI, nadI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "See corresponding stotram"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Pandit Shri Rama Ramanuja Acharya, srimatham.com"
-"Latest update" = "June 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोदाष्टोत्तरशतनामावलिः"
+---
+Acknowledge-Permission: Pandit Shri Rama Ramanuja Acharya, srimatham.com
+Category: devii, aShTottarashatanAmAvalI, nAmAvalI, nadI, devI
+Description/comments: See corresponding stotram
+File name: godAShTottarashatanAmAvaliH.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: June 22, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: godAShTottarashatanAmAvaliH
+engtitle: godAShTottarashatanAmAvaliH
+itxtitle: godAShTottarashatanAmAvaliH
+title: गोदाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  गोदाष्टोत्तरशतनामावलिः   
 ॐ श्रीरङ्गनायक्यै नमः । गोदायै । विष्णुचित्तात्मजायै ।  

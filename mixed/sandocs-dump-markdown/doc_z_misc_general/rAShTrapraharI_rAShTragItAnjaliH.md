@@ -1,25 +1,25 @@
-+++
-"Text title" = "Rashtraprahari"
-"File name" = "rAShTrapraharI.itx"
-itxtitle = "rAShTrapraharI (rAShTragItAnjaliH)"
-engtitle = "rAShTrapraharI"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Kapiladeva Dwivedi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Rashtragitanjali, Kapiladeva Dwivedi (Ed.)"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राष्ट्रप्रहरी (राष्ट्रगीताञ्जलिः)"
+---
+Acknowledge-Permission: Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi
+Author: Kapiladeva Dwivedi
+Category: misc, sanskritgeet
+Description/comments: Rashtragitanjali, Kapiladeva Dwivedi (Ed.)
+File name: rAShTrapraharI.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Rashtraprahari
+Translated by: Mandar Mali
+engtitle: rAShTrapraharI
+itxtitle: rAShTrapraharI (rAShTragItAnjaliH)
+title: राष्ट्रप्रहरी (राष्ट्रगीताञ्जलिः)
 
-+++
+---
   
  राष्ट्रप्रहरी   
 (गीतिका) (भुजङ्गप्रयातवृतम्)  

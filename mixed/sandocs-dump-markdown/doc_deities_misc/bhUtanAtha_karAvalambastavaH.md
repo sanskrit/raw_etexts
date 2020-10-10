@@ -1,22 +1,22 @@
-+++
-"Text title" = "karAvalamba"
-"File name" = "karaavalamba.itx"
-itxtitle = "bhUtanAtha karAvalambastavaH"
-engtitle = "bhUtanAtha karAvalambastavaH"
-Category = "deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-"Latest update" = "April 23, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भूतनाथ करावलम्बस्तवः"
+---
+Category: deities_misc, stotra
+File name: karaavalamba.itx
+Language: Sanskrit
+Latest update: April 23, 2008
+Location: doc_deities_misc
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: deities_misc
+Text title: karAvalamba
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: bhUtanAtha karAvalambastavaH
+itxtitle: bhUtanAtha karAvalambastavaH
+title: भूतनाथ करावलम्बस्तवः
 
-+++
+---
   
  श्रीभूतनाथ करावलम्बस्तवः   
   
@@ -26,7 +26,7 @@ title = "भूतनाथ करावलम्बस्तवः"
 श्री भूतनाथ मम देहि करावलम्बम् ॥ १  
 नक्षत्रचारुनखरप्रद निष्कळङ्क  
 नक्षत्रनाथमुख निर्मल चित्तरङ्ग  
-कुक्षिस्थल स्थिरचराचर भूतसंघ  
+कुक्षिस्थल स्थिरचराचर भूतसङ्घ  
 श्री भूतनाथ मम देहि करावलम्बम् ॥ २  
 मन्त्रार्थ तत्वनिगमार्थ महावरिषु  
 यन्त्रादि तन्त्र वर वर्णित पुष्कलेष्ट  
@@ -41,7 +41,7 @@ title = "भूतनाथ करावलम्बस्तवः"
 योगेशयोगि परमात्महितोपदेश  
 श्री भूतनाथ मम देहि करावलम्बम् ॥ ५  
 यक्षेशपूज्य निधिसञ्चय नित्यपाल  
-यक्षीश कांक्षित सुलक्षण लक्ष्यमूल  
+यक्षीश काङ्क्षित सुलक्षण लक्ष्यमूल  
 अक्षीण पुण्यनिज भक्तजनानुकूल  
 श्री भूतनाथ मम देहि करावलम्बम् ॥ ६  
 स्वामिन् प्रभारमण चन्दनलिप्तदेह  
@@ -81,8 +81,8 @@ title = "भूतनाथ करावलम्बस्तवः"
 हंसादिसेवितविभो परमात्मबोध  
 श्री भूतनाथ मम देहि करावलम्बम् ॥ १५  
 कुम्भीन्द्रकेसरितुरङ्गावाह तुङ्ग-  
-गंभीर वीरमणिकण्ठ विमोहनाङ्ग  
-कुंभोत्भवादिवरताप सच्चित्तरङ्ग  
+गम्भीर वीरमणिकण्ठ विमोहनाङ्ग  
+कुम्भोत्भवादिवरताप सच्चित्तरङ्ग  
 श्री भूतनाथ मम देहि करावलम्बम् ॥ १६  
 सम्पूर्ण भक्तवर सन्ततिदान शील  
 सम्पत्सुखप्रद सनातन गानलोल  
@@ -117,7 +117,7 @@ title = "भूतनाथ करावलम्बस्तवः"
 सत्कीर्तिसौख्य वरदायक सत्किरात  
 श्री भूतनाथ मम देहि करावलम्बम् ॥ २४  
 ज्ञानिप्रपूजित पदाम्बुज भूतिभूष  
-दीनानुकंपित दयापर दिव्यवेष  
+दीनानुकम्पित दयापर दिव्यवेष  
 ज्ञानस्वरूप वरचाक्षुष वेदघोष  
 श्री भूतनाथ मम देहि करावलम्बम् ॥ २५  
 नादान्तरङ्ग वरमङ्गळनृत्तरङ्ग-  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Morning salutations to shiva"
-"File name" = "vishwa-suprabhaatam.itx"
-itxtitle = "vishvanAtha suprabhAta.n"
-engtitle = "Morning salutations to shiva"
-Category = "suprabhAta, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subramanian Ganesh sgesh at hotmail.com"
-"Proofread by" = "Subramanian Ganesh sgesh at hotmail.com"
-"Latest update" = "November 29, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वनाथ सुप्रभातं"
+---
+Author: Traditional
+Category: suprabhAta, shiva
+File name: vishwa-suprabhaatam.itx
+Language: Sanskrit
+Latest update: November 29, 2000
+Location: doc_shiva
+Proofread by: Subramanian Ganesh sgesh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Morning salutations to shiva
+Transliterated by: Subramanian Ganesh sgesh at hotmail.com
+engtitle: Morning salutations to shiva
+itxtitle: vishvanAtha suprabhAta.n
+title: विश्वनाथ सुप्रभातं
 
-+++
+---
   
  श्रीविश्वनाथ सुप्रभातं   
   
@@ -36,13 +36,13 @@ title = "विश्वनाथ सुप्रभातं"
 उत्तिष्ट विघ्नविरहाय भजामहे त्वां श्रीपार्वतीतनय भोस्तव सुप्रभातम् ॥ ५॥  
   
 पूजास्पद प्रथममेव सुरेशु मध्ये सम्पूरणे कुशल भक्तमनोरथानाम् ।  
-गीर्वाणबृन्दपरिपूजितपादपद्म संजायतां गणपते तव सुप्रभातम् ॥ ६॥  
+गीर्वाणबृन्दपरिपूजितपादपद्म सञ्जायतां गणपते तव सुप्रभातम् ॥ ६॥  
   
 कात्यायनी प्रमथनाथशरीरभागे भक्तालिगीतमुखरीकृतपादपद्मे ।  
 ब्रह्मादिदेवगणवन्दितदिव्यशौर्ये श्रीविश्वनाथदयिते तव सुप्रभातम् ॥ ७॥  
   
 प्रातः प्रसीद विमले कमलायताक्षि कारुण्यपूर्णहृदये नमतां शरण्ये ।  
-निर्धूतपापनिचये सुरपूजितांघ्रे श्रीविश्वनाथदयिते तव सुप्रभातम् ॥ ८॥  
+निर्धूतपापनिचये सुरपूजिताङ्घ्रे श्रीविश्वनाथदयिते तव सुप्रभातम् ॥ ८॥  
   
 सस्यानुकूलजलवर्षणकार्यहेतोः शाकम्भरीति तव नाम भुवि प्रसिद्दम् ।  
 सस्यातिजातमिह शुष्यति चान्नपूर्णे उत्तिष्ट सर्वफलदे तव सुप्रभातम् ॥ ९॥  
@@ -56,7 +56,7 @@ title = "विश्वनाथ सुप्रभातं"
 गङ्गाधराद्रितनयाप्रिय शान्तमूर्ते वेदान्तवेद्य सकलेश्वर विश्वमूर्ते ।  
 कूटस्थनित्य निखिलागमगीतकीर्ते देवासुरार्चित विभो तव सुप्रभातम् ॥ १२॥  
   
-श्रीविश्वनाथकरुणामृतपूर्णसिन्धो शीतांशुखण्डसमलंकृतभव्यचूड ।  
+श्रीविश्वनाथकरुणामृतपूर्णसिन्धो शीतांशुखण्डसमलङ्कृतभव्यचूड ।  
 भस्माङ्गरागपरिशोभितसर्वदेह वाराणसीपुरपते तव सुप्रभातम् ॥ १३॥  
   
 देवादिदेव त्रिपुरान्तक दिव्यभाव गङ्गाधर प्रमथवन्दित सुन्दराङ्ग ।  
@@ -69,7 +69,7 @@ title = "विश्वनाथ सुप्रभातं"
 वाचामगोचरविभो जटिलत्रिनेत्र वाराणसीपुरपते तव सुप्रभातम् ॥ १६॥  
   
 श्रीपार्वतीहृदयवल्लभ पञ्चवक्त्र श्रीनीलकण्ठ नृकपालकलापमाल ।  
-श्रीविश्वनाथमृदुपंकजमंजुपाद श्रीकाशिकापुरपते तव सुप्रभातम् ॥ १७॥  
+श्रीविश्वनाथमृदुपङ्कजमञ्जुपाद श्रीकाशिकापुरपते तव सुप्रभातम् ॥ १७॥  
   
 काशी त्रितापहरणी शिवसद्मभूता शर्मेश्वरी त्रिजगतां सुपुरीषु हृद्या ।  
 विद्याकलासु नवकौशलदानशीला श्रीकाशिकापुरपते तव सुप्रभातम् ॥ १८॥  

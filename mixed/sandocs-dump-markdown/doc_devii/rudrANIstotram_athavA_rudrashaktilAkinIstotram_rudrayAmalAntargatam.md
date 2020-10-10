@@ -1,24 +1,24 @@
-+++
-"Text title" = "rudrANIstotram"
-"File name" = "rudrANIstotram.itx"
-itxtitle = "rudrANIstotram athavA rudrashaktilAkinIstotram (rudrayAmalAntargatam)"
-engtitle = "rudrANIstotram from Rudrayamala"
-Category = "devii, ShaTchakrashakti, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Muktabodha.org"
-"Proofread by" = "Muktabodha.org, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Rudrayamalatantra paTala 46"
-Acknowledge-Permission = "Muktabodha.org"
-"Latest update" = "January 7, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्राणीस्तोत्रम् अथवा रुद्रशक्तिलाकिनीस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Muktabodha.org
+Category: devii, ShaTchakrashakti, devI
+Description-comments: Rudrayamalatantra paTala 46
+File name: rudrANIstotram.itx
+Language: Sanskrit
+Latest update: January 7, 2017
+Location: doc_devii
+Proofread by: Muktabodha.org, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rudrANIstotram
+Transliterated by: Muktabodha.org
+engtitle: rudrANIstotram from Rudrayamala
+itxtitle: rudrANIstotram athavA rudrashaktilAkinIstotram (rudrayAmalAntargatam)
+title: रुद्राणीस्तोत्रम् अथवा रुद्रशक्तिलाकिनीस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीरुद्राणीस्तोत्रम् अथवा श्रीरुद्रशक्तिलाकिनीस्तोत्रम्   
   
@@ -77,7 +77,7 @@ title = "रुद्राणीस्तोत्रम् अथवा रु
   
 प्रतिष्ठा कीर्तिस्ते त्वमवतरसि त्रासि तिमिरा-  
    न्न जाने त्वत्तत्त्वं तरुणि महिमानं सुखमयम् ।  
-महापारावारांनिधिभवजलेशं कुरु जयं  
+महापारावारान्निधिभवजलेशं कुरु जयं  
    हिरण्याह्लादस्था त्वमपि करुणासागरमयी ॥ १३॥  
   
 विधातारं विष्णुं सुरवरणवन्दीन् परजनान्  
@@ -122,7 +122,7 @@ title = "रुद्राणीस्तोत्रम् अथवा रु
   
 चतुःषष्टितन्त्रार्णवाह्लादकत्वा-  
       न्महाभौतिकत्वान्महासिद्धिविद्या ।  
-छलच्छिन्नदेहा छलानन्नसंज्ञा  
+छलच्छिन्नदेहा छलानन्नसञ्ज्ञा  
       त्वमेका परब्रह्मरूपेण सिद्धा ॥ २२॥  
   
 शिवत्वं महत्त्वं समत्वामलत्वा-  

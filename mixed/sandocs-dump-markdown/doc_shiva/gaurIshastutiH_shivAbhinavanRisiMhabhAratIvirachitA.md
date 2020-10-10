@@ -1,28 +1,28 @@
-+++
-"Text title" = "gaurIshastutiH"
-"File name" = "gaurIshastutiH.itx"
-itxtitle = "gaurIshastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "gaurIshastutiH"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गौरीशस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: gaurIshastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: gaurIshastutiH
+engtitle: gaurIshastutiH
+itxtitle: gaurIshastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: गौरीशस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीगौरीशस्तुतिः   
 (शिष्याशीर्वचनात्मकस्तवाः)  
 बालं चाममहीमहेन्द्रसुकृतक्षीराब्धिमध्योद्भवं  
 सोमं सोमशिशूत्तमाङ्ग सततं मौलौ निधायादरात् ।  
-श्रीमत्कृष्णमहीपसंज्ञमनिशं सिंहासनाध्यासिनं  
+श्रीमत्कृष्णमहीपसञ्ज्ञमनिशं सिंहासनाध्यासिनं  
 विद्याऽऽयुर्धननीतिभिः प्रतिपदं गौरीश संवर्धय ॥ १॥  
   
 जित्वा मृत्युमथापमृत्युमखिलान् रोगांश्च हृत्वानिशं  
@@ -37,7 +37,7 @@ title = "गौरीशस्तुतिः (शिवाभिनवनृइ
   
 सेनाधीशसुमन्त्रिभृत्यसहितं नव्योपमन्युं प्रभो  
 कृत्वा दीनजनावनैकनिपुणं कारुण्यवारान्निधे ।  
-बालं कृष्णमहीपसंज्ञमनिशं दत्त्वा च भक्तिं स्थिरां  
+बालं कृष्णमहीपसञ्ज्ञमनिशं दत्त्वा च भक्तिं स्थिरां  
 हर्यक्षासनसंस्थितं ससहजं गौरीश संवर्धय ॥ ४॥  
   
 इति शृङ्गेरि श्रीजगद्गुरु श्रीसच्चिदानन्दशिवाभिनवनृसिंह-  

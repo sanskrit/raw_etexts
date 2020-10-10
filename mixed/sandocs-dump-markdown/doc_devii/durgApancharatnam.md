@@ -1,23 +1,23 @@
-+++
-"Text title" = "Durga Pancharatnam"
-"File name" = "durgApancharatnam.itx"
-itxtitle = "durgApancharatnam"
-engtitle = "durgA pancharatnam"
-Category = "pancharatna, devii, durgA, chandrashekharabhAratI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "mixed"
-Author = "chandrashekharendra sarasvatii svaamiigala"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Gayathri V vgayu at yahoo.com"
-"Latest update" = "December 25, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गापञ्चरत्नम्"
+---
+Author: chandrashekharendra sarasvatii svaamiigala
+Category: pancharatna, devii, durgA, chandrashekharabhAratI, devI
+File name: durgApancharatnam.itx
+Language: Sanskrit
+Latest update: December 25, 2019
+Location: doc_devii
+Proofread by: Gayathri V vgayu at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Durga Pancharatnam
+Texttype: mixed
+engtitle: durgA pancharatnam
+itxtitle: durgApancharatnam
+title: दुर्गापञ्चरत्नम्
 
-+++
+---
   
  दुर्गा पञ्चरत्नम्   
 ते ध्यानयोगानुगता अपश्यन्  
@@ -46,7 +46,7 @@ title = "दुर्गापञ्चरत्नम्"
      मां पाहि सर्वेश्वरि मोक्षदात्रि ॥ ५॥  
   
 इति परमपूज्य श्री चन्द्रशेखरेन्द्र सरस्वती  
-स्वामीगलकृतं दुर्गा पंचरत्नं सम्पूर्णम् ॥  
+स्वामीगलकृतं दुर्गा पञ्चरत्नं सम्पूर्णम् ॥  
   
   
 Proofread by Gayathri V vgayu at yahoo.com  

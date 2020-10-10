@@ -3,7 +3,6 @@ title: 047 Seetha s anguish about Rama and Lakshmana
 title_english: 047 Seetha s anguish about Rama and Lakshmana
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-047-Seetha_s_anguish_about_Rama_and_Lakshmana_0.mp3"></div>
 
 तस्मिन् प्रतिप्रविष्टे लन्काम् तु कृत अर्थे रावण आत्मजे ।  

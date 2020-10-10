@@ -1,23 +1,23 @@
-+++
-"Text title" = "vivekAnandopadeshadvishatI"
-"File name" = "vivekAnandopadeshadvishatI.itx"
-itxtitle = "vivekAnandopadeshadvishatI (bhANDArakaravirachitA)"
-engtitle = "SwAmi Vivekananda Upadesha Dvishati"
-Category = "deities_misc, gurudev, dvishatI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Tryambak Bhandarkar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(stotramAlA, yugAchArya)"
-"Latest update" = "March 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विवेकानन्दोपदेशद्विशती (भाण्डारकरविरचिता)"
+---
+Author: Tryambak Bhandarkar
+Category: deities_misc, gurudev, dvishatI
+File name: vivekAnandopadeshadvishatI.itx
+Indexextra: (stotramAlA, yugAchArya)
+Language: Sanskrit
+Latest update: March 21, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vivekAnandopadeshadvishatI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: SwAmi Vivekananda Upadesha Dvishati
+itxtitle: vivekAnandopadeshadvishatI (bhANDArakaravirachitA)
+title: विवेकानन्दोपदेशद्विशती (भाण्डारकरविरचिता)
 
-+++
+---
   
  स्वामिविवेकानन्दोपदेशद्विशतिः   
   
@@ -659,7 +659,7 @@ title = "विवेकानन्दोपदेशद्विशती (भ
       ऽप्यस्ताचलं गन्तुमिव प्रवृत्तः ॥ १४१॥  
   
 (कर्म अकर्म च)  
-आत्मभावविकासस्य कारणं कर्मसंज्ञितम् ।  
+आत्मभावविकासस्य कारणं कर्मसञ्ज्ञितम् ।  
 अनात्मभावो येन स्यात् तदकर्मेति संस्मृतम् ॥ १४२॥  
   
 सबलाः कार्यकर्तारो विश्वं जेतुमलं दश ।  

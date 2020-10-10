@@ -1,22 +1,22 @@
-+++
-"Text title" = "vishvakarmopaniShat"
-"File name" = "vishvakarmopaniShat.itx"
-itxtitle = "vishvakarmopaniShat"
-engtitle = "vishvakarmopaniShat"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com, PSA Easwaran"
-Indexextra = "(image)"
-"Latest update" = "July 8, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वकर्मोपनिषत्"
+---
+Category: upanishhat, upanishad
+File name: vishvakarmopaniShat.itx
+Indexextra: (image)
+Language: Sanskrit
+Latest update: July 8, 2017
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: vishvakarmopaniShat
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: vishvakarmopaniShat
+itxtitle: vishvakarmopaniShat
+title: विश्वकर्मोपनिषत्
 
-+++
+---
   
  विश्वाकर्मोपनिषत्   
   

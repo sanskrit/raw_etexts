@@ -1,22 +1,22 @@
-+++
-"Text title" = "gaNeshahRRidayastotram"
-"File name" = "gaNeshahRRidayastotram.itx"
-itxtitle = "gaNeshahRRidayastotram (mudgalapurANokta)"
-engtitle = "gaNeshahRRidayastotram from Mudgalapurana"
-Category = "hRidaya, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-Source = "Mudgalapurana"
-"Latest update" = "June 13, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशहृदयस्तोत्रम् (मुद्गलपुराणोक्त)"
+---
+Category: hRidaya, ganesha
+File name: gaNeshahRRidayastotram.itx
+Language: Sanskrit
+Latest update: June 13, 2020
+Location: doc_ganesha
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Mudgalapurana
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshahRRidayastotram
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: gaNeshahRRidayastotram from Mudgalapurana
+itxtitle: gaNeshahRRidayastotram (mudgalapurANokta)
+title: गणेशहृदयस्तोत्रम् (मुद्गलपुराणोक्त)
 
-+++
+---
   
  श्रीगणेशहृदयं स्तोत्रम्   
   
@@ -109,7 +109,7 @@ title = "गणेशहृदयस्तोत्रम् (मुद्गल
 हेरम्बं वक्रतुण्डं च ज्येष्ठराजं निजस्थितम् ।  
 आशापूरं तु वरदं विकटं धरणीधरम् ॥ १६॥  
   
-सिद्धिबुद्धिपतिं वन्दे ब्रह्मणस्पतिसंज्ञितम् ।  
+सिद्धिबुद्धिपतिं वन्दे ब्रह्मणस्पतिसञ्ज्ञितम् ।  
 माङ्गल्येशं सर्वपूज्यं विघ्नानां नायकं परम् ॥ १७॥  
   
 एकविंशति नामानि गणेशस्य महात्मनः ।  
@@ -198,7 +198,7 @@ title = "गणेशहृदयस्तोत्रम् (मुद्गल
 मन्त्र एव गणेशानो न भिन्नस्तत्र वर्तते ॥ ४४॥  
   
 गकारो ब्रह्मदेवश्चाऽकारो विष्णुः प्रकीर्तितः ।  
-बिन्दुः शिवस्तथा भानुः सानुनासिक संज्ञितः ॥ ४५॥  
+बिन्दुः शिवस्तथा भानुः सानुनासिक सञ्ज्ञितः ॥ ४५॥  
   
 तेषां सन्धिर्महाशक्तिरेभिः स मन्त्र उच्यते ।  
 देवता गणनाथस्तु तेषां संयोगकारकः ॥ ४६॥  

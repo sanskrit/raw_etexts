@@ -3,7 +3,6 @@ title: 031 Lakshmana too is permitted to go to the forest
 title_english: 031 Lakshmana too is permitted to go to the forest
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-031-Lakshmanaanugamana_Pradhana.mp3"></div>
 
 एवम् श्रुत्वा तु सम्वादम् लक्ष्मणः पूर्वमागतः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "shUlinIvishvarUpastutiH"
-"File name" = "shUlinIvishvarUpastutiH.itx"
-itxtitle = "shUlinIvishvarUpastutiH (AkAshabhairavakalpAntargatA)"
-engtitle = "shUlinIvishvarUpastutiH"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Shulinikalpam, Tanjavur Saraswati Mahal Series No. 403"
-Indexextra = "(Scan)"
-"Latest update" = "December 3, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शूलिनीविश्वरूपस्तुतिः (आकाशभैरवकल्पान्तर्गता)"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: Shulinikalpam, Tanjavur Saraswati Mahal Series No. 403
+File name: shUlinIvishvarUpastutiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 3, 2018
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shUlinIvishvarUpastutiH
+engtitle: shUlinIvishvarUpastutiH
+itxtitle: shUlinIvishvarUpastutiH (AkAshabhairavakalpAntargatA)
+title: शूलिनीविश्वरूपस्तुतिः (आकाशभैरवकल्पान्तर्गता)
 
-+++
+---
   
  श्रीशूलिनीविश्वरूपस्तुतिः   
 श्रीदेव्युवाच -  
@@ -50,7 +50,7 @@ title = "शूलिनीविश्वरूपस्तुतिः (आक
 तस्मात्सकलरूपां तां ध्यायेत्सकलसिद्धये ॥ ९॥  var  सर्वार्थसिद्धये  
   
 अथवा विविधं रूपं पृथक् सङ्कल्पपूर्वकम् ।  
-भावयन् प्रजपेन्मन्त्रं (मन्त्री) तत्तत्कर्मंफलाप्तये ॥ १०॥  
+भावयन् प्रजपेन्मन्त्रं (मन्त्री) तत्तत्कर्मम्फलाप्तये ॥ १०॥  
   
 सर्वकार्यसमुद्युक्तः(क्तां) सर्वावरणसंवृताम् ।  
 शूलिनीं चक्रमध्यस्थां ध्यायन् मूलमनुं जपेत् ॥ ११॥  
@@ -124,7 +124,7 @@ title = "शूलिनीविश्वरूपस्तुतिः (आक
 ॐ झञ्झामरुन्मये झाली(लि) झङ्कारपदपङ्कजे ।  
 वरदे शूलिनि दुर्गे महाभैरवि पाहि माम् ॥ ३४॥  
   
-ॐ ञ्ंमिश्रितार्णमन्त्रार्थरहस्यफलदायिनि ।  
+ॐ ञ्म्मिश्रितार्णमन्त्रार्थरहस्यफलदायिनि ।  
 वरदे शूलिनि दुर्गे महाभैरवि पाहि माम् ॥ ३५॥  
   
 ॐ टङ्कायुधसमुध्वस्तमहासुरधराधरे ।  

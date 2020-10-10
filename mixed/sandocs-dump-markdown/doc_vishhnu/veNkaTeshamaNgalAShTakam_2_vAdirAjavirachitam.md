@@ -1,24 +1,24 @@
-+++
-"Text title" = "venkaTeshamangalAShTakam 2"
-"File name" = "venkaTeshamangalAShTakam2.itx"
-itxtitle = "veNkaTeshamaNgalAShTakam 2 (vAdirAjavirachitam)"
-engtitle = "Venkatesha Mangalashtakam 2"
-Category = "vishhnu, venkateshwara, vAdirAja, aShTaka, vishnu, mangala"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Author = "Vadiraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Indexextra = "(Scan)"
-"Latest update" = "January 1, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशमण्गलाष्टकम् २ (वादिराजविरचितम्)"
+---
+Author: Vadiraja
+Category: vishhnu, venkateshwara, vAdirAja, aShTaka, vishnu, mangala
+File name: venkaTeshamangalAShTakam2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 1, 2018
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: venkaTeshamangalAShTakam 2
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Venkatesha Mangalashtakam 2
+itxtitle: veNkaTeshamaNgalAShTakam 2 (vAdirAjavirachitam)
+title: वेण्कटेशमण्गलाष्टकम् २ (वादिराजविरचितम्)
 
-+++
+---
   
  श्रीवेङ्कटेशमङ्गलाष्टकम् २   
   

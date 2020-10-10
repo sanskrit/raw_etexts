@@ -1,22 +1,22 @@
-+++
-"Text title" = "jnAnakalikAstotramtripurArahasya"
-"File name" = "jnAnakalikAstotramtripurArahasya.itx"
-itxtitle = "jnAnakalikAstotram tripurArahasyoktaM"
-engtitle = "jnAnakalikAstotramtripurArahasya"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta at gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta at gmail.com, NA"
-Indexextra = "(Scan)"
-"Latest update" = "September 8, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ज्ञानकलिकास्तोत्रम् त्रिपुरारहस्योक्तं"
+---
+Category: devii, devI
+File name: jnAnakalikAstotramtripurArahasya.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 8, 2019
+Location: doc_devii
+Proofread by: Mandar Mali aryavrutta at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jnAnakalikAstotramtripurArahasya
+Transliterated by: Mandar Mali aryavrutta at gmail.com
+engtitle: jnAnakalikAstotramtripurArahasya
+itxtitle: jnAnakalikAstotram tripurArahasyoktaM
+title: ज्ञानकलिकास्तोत्रम् त्रिपुरारहस्योक्तं
 
-+++
+---
   
  त्रिपुरारहस्योक्तं ज्ञानकलिकास्तोत्रं   
 शिवे देवि सम्वित्सुधासागराऽऽत्म-  

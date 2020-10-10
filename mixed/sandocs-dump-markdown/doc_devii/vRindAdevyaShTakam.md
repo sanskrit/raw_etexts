@@ -1,24 +1,24 @@
-+++
-"Text title" = "vRRindAdevyaShTakam"
-"File name" = "vRRindAdevyaShTakam.itx"
-itxtitle = "vRindAdevyaShTakam"
-engtitle = "vRRindAdevyaShTakam"
-Category = "devii, aShTaka, vishhnu, tulasI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "tulasI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वृइन्दादेव्यष्टकम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: devii, aShTaka, vishhnu, tulasI, devI
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: vRRindAdevyaShTakam.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: tulasI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vRRindAdevyaShTakam
+engtitle: vRRindAdevyaShTakam
+itxtitle: vRindAdevyaShTakam
+title: वृइन्दादेव्यष्टकम्
 
-+++
+---
   
  वृन्दादेव्यष्टकम्   
   

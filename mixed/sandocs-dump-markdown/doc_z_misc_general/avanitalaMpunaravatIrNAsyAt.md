@@ -1,24 +1,24 @@
-+++
-"Text title" = "avanitalaMpunaravatIrNAsyAt"
-"File name" = "avanitalaMpunaravatIrNAsyAt.itx"
-itxtitle = "avanitalaMpunaravatIrNAsyAt"
-engtitle = "avanitalaMpunaravatIrNAsyAt"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dr. nArAyaNabhaTTaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1, 2, 3)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अवनितलंपुनरवतीर्णास्यात्"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: Dr. nArAyaNabhaTTaH
+Category: misc, sanskritgeet
+File name: avanitalaMpunaravatIrNAsyAt.itx
+Indexextra: (Wiki, Videos 1, 2, 3)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: avanitalaMpunaravatIrNAsyAt
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: avanitalaMpunaravatIrNAsyAt
+itxtitle: avanitalaMpunaravatIrNAsyAt
+title: अवनितलंपुनरवतीर्णास्यात्
 
-+++
+---
   
  अवनितलं पुनरवतीर्णा स्यात्   
 अवनितलं पुनरवतीर्णा स्यात्  

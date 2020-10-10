@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Dashavidyamayi Bala Stotram"
-"File name" = "dashavidyAmayIbAlAstotram.itx"
-itxtitle = "bAlAstotram dashavidyAmayI (merutantrAntargatam)"
-engtitle = "dashavidyAmayI bAlAstotram"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH, Merutantra"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालास्तोत्रम् दशविद्यामयी (मेरुतन्त्रान्तर्गतम्)"
+---
+Category: devii, dashamahAvidyA, devI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH, Merutantra
+File name: dashavidyAmayIbAlAstotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Dashavidyamayi Bala Stotram
+engtitle: dashavidyAmayI bAlAstotram
+itxtitle: bAlAstotram dashavidyAmayI (merutantrAntargatam)
+title: बालास्तोत्रम् दशविद्यामयी (मेरुतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीदशविद्यामयीबालास्तोत्रम्   
 श्रीकाली बगलामुखी च ललिता धूम्रावती भैरवी  

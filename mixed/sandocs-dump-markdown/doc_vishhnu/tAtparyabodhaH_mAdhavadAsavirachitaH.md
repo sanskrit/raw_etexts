@@ -1,24 +1,24 @@
-+++
-"Text title" = "tAtparyabodhaH"
-"File name" = "tAtparyabodhaH.itx"
-itxtitle = "tAtparyabodhaH (mAdhavadAsavirachitaH)"
-engtitle = "tAtparyabodhaH"
-Category = "vishhnu, krishna, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "mAdhavadAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तात्पर्यबोधः (माधवदासविरचितः)"
+---
+Author: mAdhavadAsa
+Category: vishhnu, krishna, puShTimArgIya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: tAtparyabodhaH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: tAtparyabodhaH
+engtitle: tAtparyabodhaH
+itxtitle: tAtparyabodhaH (mAdhavadAsavirachitaH)
+title: तात्पर्यबोधः (माधवदासविरचितः)
 
-+++
+---
   
  श्रीतात्पर्यबोधः   
   

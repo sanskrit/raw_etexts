@@ -1,21 +1,21 @@
-+++
-"Text title" = "rAdhAShTakam"
-"File name" = "rAdhAShTakam.itx"
-itxtitle = "rAdhAShTakam"
-engtitle = "rAdhAShTakam"
-Category = "devii, radha, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "sarasa stotrasangrahaH (Lucknow, 1909)"
-Indexextra = "(Scanned)"
-"Latest update" = "November 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाष्टकम्"
+---
+Category: devii, radha, aShTaka, devI
+Description-comments: sarasa stotrasangrahaH (Lucknow, 1909)
+File name: rAdhAShTakam.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 4, 2017
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAShTakam
+engtitle: rAdhAShTakam
+itxtitle: rAdhAShTakam
+title: राधाष्टकम्
 
-+++
+---
   
  श्रीराधाष्टकम्   
 ॐ दिशिदिशिरचयन्तीं सञ्चयन्नेत्रलक्ष्मीं  

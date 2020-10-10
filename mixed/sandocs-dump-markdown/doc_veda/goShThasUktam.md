@@ -1,23 +1,23 @@
-+++
-"Text title" = "goShThasUkta atharvAveda 3.14"
-"File name" = "goShThasUkta.itx"
-itxtitle = "goShThasUktam"
-engtitle = "Gosthasukta"
-Category = "sUkta, veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-"Proofread by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-Indexextra = "(Atharvaveda)"
-"Latest update" = "July 24, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोष्ठसूक्तम्"
+---
+Category: sUkta, veda, svara
+File name: goShThasUkta.itx
+Indexextra: (Atharvaveda)
+Language: Sanskrit
+Latest update: July 24, 2013
+Location: doc_veda
+Proofread by: Ankur Nagpal ankurnagpal108 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: goShThasUkta atharvAveda 3.14
+Texttype: svara
+Transliterated by: Ankur Nagpal ankurnagpal108 at gmail.com
+engtitle: Gosthasukta
+itxtitle: goShThasUktam
+title: गोष्ठसूक्तम्
 
-+++
+---
   
  गोष्ठसूक्त   
   
@@ -27,11 +27,11 @@ title = "गोष्ठसूक्तम्"
 सं वः सृजत्वर्यमा सं पूषा सं बृहस्पतिः ।  
 समिन्द्रो यो धनञ्जयो मयि पुष्यत यद्वसु ॥ २॥  
   
-संजग्माना अबिभ्युषीरस्मिन् गोष्ठे करीषिणीः ।  
+सञ्जग्माना अबिभ्युषीरस्मिन् गोष्ठे करीषिणीः ।  
 बिभ्रतीईः सोम्यं मध्वन्मीवा उपेतन ॥ ३॥  
   
 इहैव गाव एतनेहो शकेव पुष्यत ।  
-इहैवोत प्र जायध्वं मयि संज्ञानमस्तु वः ॥ ४॥  
+इहैवोत प्र जायध्वं मयि सञ्ज्ञानमस्तु वः ॥ ४॥  
   
 शिवो वो गोष्ठी भवतु शारिशाकेव पुष्यत ।  
 इहैवोत प्र जायध्वं मया वः सं सृजामसि ॥ ५॥  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Laghu KumAra Stotram by Shakra"
-"File name" = "laghukumArastotranshakra.itx"
-itxtitle = "laghukumArastotram (shakravirachitam)"
-engtitle = "laghukumArastotram shakra"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "mAnasataraNgiNI"
-Indexextra = "(Text)"
-"Latest update" = "July 31, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लघुकुमारस्तोत्रम् (शक्रविरचितम्)"
+---
+Category: subrahmanya
+File name: laghukumArastotranshakra.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: July 31, 2019
+Location: doc_subrahmanya
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Laghu KumAra Stotram by Shakra
+Transliterated by: mAnasataraNgiNI
+engtitle: laghukumArastotram shakra
+itxtitle: laghukumArastotram (shakravirachitam)
+title: लघुकुमारस्तोत्रम् (शक्रविरचितम्)
 
-+++
+---
   
  शक्रविरचितं लघुकुमारस्तोत्रम्   
 स्कन्दध्यानम् -  

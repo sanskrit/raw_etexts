@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrIbhuvaneshvaryaShTakam rudrayAmale"
-"File name" = "shrIbhuvaneshvaryaShTakam.itx"
-itxtitle = "bhuvaneshvaryaShTakam"
-engtitle = "bhuvaneshvaryaShTakam"
-Category = "aShTaka, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravi Mukku ravi_mukku at hotmail.com"
-"Proofread by" = "Ravi Mukku ravi_mukku at hotmail.com"
-Indexextra = "(Rudrayamala tantra)"
-"Latest update" = "March 20, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वर्यष्टकम्"
+---
+Category: aShTaka, devii, dashamahAvidyA, devI
+File name: shrIbhuvaneshvaryaShTakam.itx
+Indexextra: (Rudrayamala tantra)
+Language: Sanskrit
+Latest update: March 20, 2013
+Location: doc_devii
+Proofread by: Ravi Mukku ravi_mukku at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIbhuvaneshvaryaShTakam rudrayAmale
+Transliterated by: Ravi Mukku ravi_mukku at hotmail.com
+engtitle: bhuvaneshvaryaShTakam
+itxtitle: bhuvaneshvaryaShTakam
+title: भुवनेश्वर्यष्टकम्
 
-+++
+---
   
  श्रीभुवनेश्वर्यष्टकम्   
   

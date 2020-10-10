@@ -1,24 +1,24 @@
-+++
-"Text title" = "kakArAdikAlIshatanAmastotram"
-"File name" = "kakArAdishata.itx"
-itxtitle = "kakArAdikAlIshatanAmastotram"
-engtitle = "kakArAdikAlIshatanAmastotram"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Kunal Mukherjee kunal at neo.tamu.edu"
-"Proofread by" = "Kunal Mukherjee kunal at neo.tamu.edu"
-Description-comments = "muNDamAlA tantra.  It is ment for daxiNAkAlI."
-"Latest update" = "May 9, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ककारादिकालीशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI
+Description-comments: muNDamAlA tantra.  It is ment for daxiNAkAlI.
+File name: kakArAdishata.itx
+Language: Sanskrit
+Latest update: May 9, 2006
+Location: doc_devii
+Proofread by: Kunal Mukherjee kunal at neo.tamu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: Hinduism/religion/traditional
+Sublocation: devii
+Text title: kakArAdikAlIshatanAmastotram
+Texttype: stotra
+Transliterated by: Kunal Mukherjee kunal at neo.tamu.edu
+engtitle: kakArAdikAlIshatanAmastotram
+itxtitle: kakArAdikAlIshatanAmastotram
+title: ककारादिकालीशतनामस्तोत्रम्
 
-+++
+---
   
  ककारादिकालीशतनामस्तोत्रम्   
   
@@ -35,7 +35,7 @@ title = "ककारादिकालीशतनामस्तोत्र�
 जिह्वाकोटिसहस्रैस्तु वक्त्रकोटिशतैरपि ॥ ३॥  
   
 वक्तुं न शक्यते तस्य माहात्म्यं वै कथञ्चन ।  
-तस्या रहस्यं गोप्यञ्च किं न जानासि शंकरी ॥ ४॥  
+तस्या रहस्यं गोप्यञ्च किं न जानासि शङ्करी ॥ ४॥  
   
 स्वस्यैव चरितं वक्तुं समर्था स्वयमेव हि ।  
 अन्यथा नैव देवेशि ज्ञायते तत् कथञ्चन ॥ ५॥  
@@ -134,7 +134,7 @@ title = "ककारादिकालीशतनामस्तोत्र�
 विना दुर्गां जगद्धात्री निष्फलं जीवनं भभेत् ।  
 शक्तिमार्गरतो भूत्वा योहन्यमार्गे प्रधावति ॥ ३६॥  
   
-न च शाक्तास्तस्य वक्त्रं परिपश्यन्ति शंकरी ।  
+न च शाक्तास्तस्य वक्त्रं परिपश्यन्ति शङ्करी ।  
 विना तन्त्राद् विना मन्त्राद् विना यन्त्रान्महेश्वरी ॥ ३७॥  
   
 न च भुक्तिश्च मुक्तिश्च जायते वरवर्णिनी ।  

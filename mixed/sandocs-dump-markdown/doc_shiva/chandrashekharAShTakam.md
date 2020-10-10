@@ -1,21 +1,21 @@
-+++
-"Text title" = "chandrashekharAShTakaM"
-"File name" = "chandra8.itx"
-itxtitle = "chandrashekharAShTakam"
-engtitle = "chandrashekharAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "BSR"
-"Latest update" = "NOvember 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्रशेखराष्टकम्"
+---
+Category: aShTaka, shiva
+Description-comments: BSR
+File name: chandra8.itx
+Language: Sanskrit
+Latest update: NOvember 17, 2018
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: chandrashekharAShTakaM
+engtitle: chandrashekharAShTakam
+itxtitle: chandrashekharAShTakam
+title: चन्द्रशेखराष्टकम्
 
-+++
+---
   
  चन्द्रशेखराष्टकं   
 चन्द्रशेखर चन्द्रशेखर चन्द्रशेखर पाहि माम् ।  

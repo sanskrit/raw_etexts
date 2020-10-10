@@ -1,22 +1,23 @@
-+++
-"Text title" = "devI kavacha"
-"File name" = "dkavach.itx"
-itxtitle = "devIkavacham"
-engtitle = "devI kavacha"
-Category = "kavacha, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu ek879 at cleveland.freenet.edu"
-"Proofread by" = "Ahto Jarve, PSA Easwaran"
-"Latest update" = "Feb 19, 2015, May 1, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीकवचम्"
+---
+Category: kavacha, devii, durgA, devI
+File name: dkavach.itx
+Language: Sanskrit
+Latest update: Feb 19, 2015, May 1, 2020
+Location: doc_devii
+Proofread by: Ahto Jarve, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devI kavacha
+Transliterated by: Ahto Jarve ajarve at fms30.cca.rockwell.com jarve at cs.miu.edu
+  ek879 at cleveland.freenet.edu
+engtitle: devI kavacha
+itxtitle: devIkavacham
+title: देवीकवचम्
 
-+++
+---
   
  देवीकवचम्   
   
@@ -50,7 +51,7 @@ title = "देवीकवचम्"
 अग्निना दह्यमानस्तु शत्रुमध्ये गतो रणे ।  
 विषमे दुर्गमे चैव भयार्त्ताः शरणं गताः ॥ ६॥  
   
-न तेषां जायते किंचिदशुभं रणसंकटे ।  
+न तेषां जायते किञ्चिदशुभं रणसङ्कटे ।  
 नापदं तस्य पश्यामि शोकदुःखभयं न हि ॥ ७॥  
   
 यैस्तु भक्त्या स्मृता नूनं तेषां वृद्धिः प्रजायते ।  
@@ -138,7 +139,7 @@ title = "देवीकवचम्"
 ज्वालामुखी नखज्वालामभेद्या सर्वसन्धिषु ॥ ३५॥  
   
 शुक्रं ब्रह्माणि मे रक्षेच्छायां छत्रेश्वरी तथा ।  
-अहंकारं मनो बुद्धिं रक्षेन्मे धर्मधारिणी ॥ ३६॥  
+अहङ्कारं मनो बुद्धिं रक्षेन्मे धर्मधारिणी ॥ ३६॥  
   
 प्राणापानौ तथा व्यानमुदानं च समानकम् ।  
 वज्रहस्ता च मे रक्षेत्प्राणं कल्याणशोभना ॥ ३७॥  
@@ -165,7 +166,7 @@ title = "देवीकवचम्"
 यं यं चिन्तयते कामं तं तं प्राप्नोति निश्चितम् ।  
 परमैश्वर्यमतुलं प्राप्स्यते भूतले पुमान् ॥ ४४॥  
   
-निर्भयो जायते मर्त्यः संग्रामेष्वपराजितः ।  
+निर्भयो जायते मर्त्यः सङ्ग्रामेष्वपराजितः ।  
 त्रैलोक्ये तु भवेत्पूज्यः कवचेनावृतः पुमान् ॥ ४५॥  
   
 इदं तु देव्याः कवचं देवानामपि दुर्लभम् ।  

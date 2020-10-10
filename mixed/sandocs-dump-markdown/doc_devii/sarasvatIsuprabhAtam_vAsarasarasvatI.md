@@ -1,23 +1,23 @@
-+++
-"Text title" = "sarasvatIsuprabhAtam"
-"File name" = "sarasvatIsuprabhAtam.itx"
-itxtitle = "sarasvatIsuprabhAtam (vAsarasarasvatI)"
-engtitle = "sarasvatIsuprabhAtam"
-Category = "suprabhAta, devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, PSA Easwaran, Malleswara Rao"
-Indexextra = "(audio)"
-"Latest update" = "June 11, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीसुप्रभातम् (वासरसरस्वती)"
+---
+Category: suprabhAta, devii, sarasvatI, devI
+File name: sarasvatIsuprabhAtam.itx
+Indexextra: (audio)
+Language: Sanskrit
+Latest update: June 11, 2017
+Location: doc_devii
+Proofread by: NA, PSA Easwaran, Malleswara Rao
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIsuprabhAtam
+Transliterated by: NA
+engtitle: sarasvatIsuprabhAtam
+itxtitle: sarasvatIsuprabhAtam (vAsarasarasvatI)
+title: सरस्वतीसुप्रभातम् (वासरसरस्वती)
 
-+++
+---
   
  श्रीवासरसरस्वतीसुप्रभातम्   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Aghoramurti Stotram"
-"File name" = "aghoramUrtistotram.itx"
-itxtitle = "aghoramUrtistotram athavA aghorastotram"
-engtitle = "aghoramUrtistotram"
-Category = "shiva,"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अघोरमूर्तिस्तोत्रम् अथवा अघोरस्तोत्रम्"
+---
+Category: shiva,
+File name: aghoramUrtistotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 15, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Aghoramurti Stotram
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: aghoramUrtistotram
+itxtitle: aghoramUrtistotram athavA aghorastotram
+title: अघोरमूर्तिस्तोत्रम् अथवा अघोरस्तोत्रम्
 
-+++
+---
   
  अघोरमूर्तिस्तोत्रम्   
 अघोरस्तोत्रं  

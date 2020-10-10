@@ -1,24 +1,24 @@
-+++
-"Text title" = "varAhastotram"
-"File name" = "varAhastotram.itx"
-itxtitle = "varAhastotram"
-engtitle = "varAhastotram"
-Category = "vishhnu, dashAvatAra, stotra, vyAsa, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Texttype = "stotra"
-Author = "Maharshi Vyas in Bhagavat Purana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, NA"
-Description-comments = "From Bhagavatapurana, 3.13.35-3.13.46"
-"Latest update" = "July 12, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वराहस्तोत्रम्"
+---
+Author: Maharshi Vyas in Bhagavat Purana
+Category: vishhnu, dashAvatAra, stotra, vyAsa, vishnu
+Description-comments: From Bhagavatapurana, 3.13.35-3.13.46
+File name: varAhastotram.itx
+Language: Sanskrit
+Latest update: July 12, 2012
+Location: doc_vishhnu
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: varAhastotram
+Texttype: stotra
+engtitle: varAhastotram
+itxtitle: varAhastotram
+title: वराहस्तोत्रम्
 
-+++
+---
   
  वराहस्तोत्रम्   
   

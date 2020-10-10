@@ -1,23 +1,23 @@
-+++
-"Text title" = "siddhasarayUstotrAShTakam"
-"File name" = "siddhasarayUstotrAShTakam.itx"
-itxtitle = "siddhasarayUstotrAShTakam (maheshvarAnandasarasvatIvirachitam)"
-engtitle = "siddhasarayUstotrAShTakam"
-Category = "devii, devI, nadI, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Maheshvaranandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सिद्धसरयूस्तोत्राष्टकम् (महेश्वरानन्दसरस्वतीविरचितम्)"
+---
+Author: Maheshvaranandasarasvati
+Category: devii, devI, nadI, aShTaka
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: siddhasarayUstotrAShTakam.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: siddhasarayUstotrAShTakam
+engtitle: siddhasarayUstotrAShTakam
+itxtitle: siddhasarayUstotrAShTakam (maheshvarAnandasarasvatIvirachitam)
+title: सिद्धसरयूस्तोत्राष्टकम् (महेश्वरानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  श्रीसिद्धसरयूस्तोत्राष्टकम्   
 श्रीरामनाममहिमानमुदीरयन्ती  

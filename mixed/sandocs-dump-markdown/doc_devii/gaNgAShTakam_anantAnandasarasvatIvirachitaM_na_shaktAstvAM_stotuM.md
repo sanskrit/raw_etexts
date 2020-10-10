@@ -1,23 +1,23 @@
-+++
-"Text title" = "gangAShTakam"
-"File name" = "gangAShTakam.itx"
-itxtitle = "gaNgAShTakam (anantAnandasarasvatIvirachitaM na shaktAstvAM stotuM)"
-engtitle = "gangAShTakam"
-Category = "devii, devI, nadI, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Anantanandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गाष्टकम् (अनन्तानन्दसरस्वतीविरचितं न शक्तास्त्वां स्तोतुं)"
+---
+Author: Anantanandasarasvati
+Category: devii, devI, nadI, aShTaka
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: gangAShTakam.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gangAShTakam
+engtitle: gangAShTakam
+itxtitle: gaNgAShTakam (anantAnandasarasvatIvirachitaM na shaktAstvAM stotuM)
+title: गण्गाष्टकम् (अनन्तानन्दसरस्वतीविरचितं न शक्तास्त्वां स्तोतुं)
 
-+++
+---
   
  गङ्गाष्टकम्   
 न शक्तास्त्वां स्तोतुं विधिहरिहरा जह्नतनये  

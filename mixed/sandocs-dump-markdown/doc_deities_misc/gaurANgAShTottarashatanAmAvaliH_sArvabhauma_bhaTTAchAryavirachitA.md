@@ -1,24 +1,24 @@
-+++
-"Text title" = "One Hundred and Eight Names of Lord ShrI Gauranga Caitanya Mahaprabhu"
-"File name" = "gaurAngAShTottarashatanAmAvalI.itx"
-itxtitle = "gaurANgAShTottarashatanAmAvaliH (sArvabhauma bhaTTAchAryavirachitA)"
-engtitle = "gaurAngAShTottarashatanAmAvalI"
-Category = "deities_misc, krishna, gurudev, aShTottarashatanAmAvalI, sArvabhaumabhaTTAchArya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Sarvabhauma Bhattacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Gauranga Chaitanya Mahaprabhu"
-Indexextra = "(Meaning 1, 2)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गौराण्गाष्टोत्तरशतनामावलिः (सार्वभौम भट्टाचार्यविरचिता)"
+---
+Author: Sarvabhauma Bhattacharya
+Category: deities_misc, krishna, gurudev, aShTottarashatanAmAvalI, sArvabhaumabhaTTAchArya
+Description/comments: Gauranga Chaitanya Mahaprabhu
+File name: gaurAngAShTottarashatanAmAvalI.itx
+Indexextra: (Meaning 1, 2)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: One Hundred and Eight Names of Lord ShrI Gauranga Caitanya Mahaprabhu
+engtitle: gaurAngAShTottarashatanAmAvalI
+itxtitle: gaurANgAShTottarashatanAmAvaliH (sArvabhauma bhaTTAchAryavirachitA)
+title: गौराण्गाष्टोत्तरशतनामावलिः (सार्वभौम भट्टाचार्यविरचिता)
 
-+++
+---
   
  श्रीगौरन्गाष्टोत्तरशतनामावलिः   
 ॐ विश्वम्भराय नमः ।  
@@ -101,7 +101,7 @@ title = "गौराण्गाष्टोत्तरशतनामाव�
 ॐ इन्द्रादिसर्वलोकेशवन्दितश्रीपदाम्बुजाय नमः ।  
 ॐ न्यासिचूडामणये नमः ।  
 ॐ कृष्णाय नमः ।  
-ॐ संन्यासआश्रमपावनाय नमः ।  
+ॐ सन्न्यासआश्रमपावनाय नमः ।  
 ॐ चैतन्याय नमः ।  
 ॐ कृष्णचैतन्याय नमः ।  
 ॐ दण्डधृगाय नमः ।  

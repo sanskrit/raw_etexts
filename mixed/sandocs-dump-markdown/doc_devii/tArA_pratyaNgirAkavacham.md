@@ -1,22 +1,22 @@
-+++
-"Text title" = "tArApratyangirA kavacha"
-"File name" = "tArApratyangirA.itx"
-itxtitle = "tArA pratyaNgirAkavacham"
-engtitle = "tArA pratyangirA kavacham"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "KM"
-"Proofread by" = "KM"
-"Latest update" = "May 9, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तारा प्रत्यण्गिराकवचम्"
+---
+Category: kavacha, devii, dashamahAvidyA, devI
+File name: tArApratyangirA.itx
+Language: Sanskrit
+Latest update: May 9, 2006
+Location: doc_devii
+Proofread by: KM
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: Hinduism/religion/traditional
+Sublocation: devii
+Text title: tArApratyangirA kavacha
+Transliterated by: KM
+engtitle: tArA pratyangirA kavacham
+itxtitle: tArA pratyaNgirAkavacham
+title: तारा प्रत्यण्गिराकवचम्
 
-+++
+---
   
  तारा प्रत्यङ्गिराकवचम्   
   

@@ -1,25 +1,26 @@
-+++
-"Text title" = "reNukAstotraM vAyuprANAntargatam parashurAmaproktam"
-"File name" = "reNukAstotramvAyupurANa.itx"
-itxtitle = "reNukAstotram (parashurAmakRitam vAyupurANAntargatam)"
-engtitle = "Renuka Stotram from Vayupuranam"
-Category = "devii, reNukA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "vAyuprANa location is not known"
-Indexextra = "(vAyuprANa?)"
-"Latest update" = "June 22, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकास्तोत्रम् (परशुरामकृइतम् वायुपुराणान्तर्गतम्)"
+---
+Category: devii, reNukA, stotra, devI
+Description-comments: vAyuprANa location is not known
+File name: reNukAstotramvAyupurANa.itx
+Indexextra: (vAyuprANa?)
+Language: Sanskrit
+Latest update: June 22, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAstotraM vAyuprANAntargatam parashurAmaproktam
+Texttype: stotra
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Renuka Stotram from Vayupuranam
+itxtitle: reNukAstotram (parashurAmakRitam vAyupurANAntargatam)
+title: रेणुकास्तोत्रम् (परशुरामकृइतम् वायुपुराणान्तर्गतम्)
 
-+++
+---
   
  रेणुकास्तोत्रं श्रीवायुपुराणे श्रीपरशुरामकृतम्   
   

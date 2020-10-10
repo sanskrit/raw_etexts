@@ -1,27 +1,28 @@
-+++
-"Text title" = "raamarakShA combined in the aana.nda raamaayaNa"
-"File name" = "completerraksha.itx"
-itxtitle = "rAmarakShA AnandarAmAyaNAntargatA"
-engtitle = "Ramaraksha from Ananda Ramayana"
-Category = "raksha, raama, stotra, budhakauShika"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "budhakauShika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rajagopal Iyer rajsand at yahoo.com available at Institude For Oriental Study, Thane http://www.orientalthane.com/"
-Source = "AnandarAmAyaNe pa.nchamaH sargaH"
-"Latest update" = "April 18, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामरक्षा आनन्दरामायणान्तर्गता"
+---
+Author: budhakauShika
+Category: raksha, raama, stotra, budhakauShika
+File name: completerraksha.itx
+Language: Sanskrit
+Latest update: April 18, 2020
+Location: doc_raama
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: AnandarAmAyaNe pa.nchamaH sargaH
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: raamarakShA combined in the aana.nda raamaayaNa
+Texttype: stotra
+Transliterated by: Rajagopal Iyer rajsand at yahoo.com available at Institude For
+  Oriental Study, Thane http://www.orientalthane.com/
+engtitle: Ramaraksha from Ananda Ramayana
+itxtitle: rAmarakShA AnandarAmAyaNAntargatA
+title: रामरक्षा आनन्दरामायणान्तर्गता
 
-+++
+---
   
  आनन्द रामायण पञ्चमः सर्गः अथवा रामरक्षा   
 श्री शतकोटि रामचरितान्तर्गत श्रीमदानन्दरामायणे  
-पञ्चमः सर्गः प्रारंभः ।  
+पञ्चमः सर्गः प्रारम्भः ।  
 विष्णुदास उवाच -  
 श्री रामरक्षया प्रोक्तं कुशायह्यभिमन्त्रणम् ।  
 कृतं तेनैव मुनिना गुरो तां मे प्रकाशय ॥ १॥  
@@ -31,7 +32,7 @@ title = "रामरक्षा आनन्दरामायणान्त�
   
 श्रीरामदास उवाच -  
 सम्यक् पृष्टं त्वया शिष्य रामरक्षाऽधुनोच्यते ।  
-या प्रोक्ता शंभुना पूर्वं स्कन्दार्थं गिरिजां प्रति ॥ ३॥  
+या प्रोक्ता शम्भुना पूर्वं स्कन्दार्थं गिरिजां प्रति ॥ ३॥  
   
 श्री शिव उवाच -  
 देव्यद्य स्कन्दपुत्राय रामरक्षाभिमन्त्रिणम् ।  
@@ -198,7 +199,7 @@ title = "रामरक्षा आनन्दरामायणान्त�
   
 ( सन्दर्भ : आनन्द रामायण - ( जन्मकाण्ड - ५ वा सर्ग )  
 भटिया शालीय ठक्कर गोवर्धनदास लक्ष्मीदास  
-यान्नी मुंबई येथे जगदीश्वर छापखान्यात  
+यान्नी मुम्बई येथे जगदीश्वर छापखान्यात  
 लोकहितार्थ छापवून प्रसिद्ध केला  
 शके १८०८ सन् १८८७  
 छापील पोथी : ग्रन्थालय ग्रन्थ क्र १०३ / १४५ )  

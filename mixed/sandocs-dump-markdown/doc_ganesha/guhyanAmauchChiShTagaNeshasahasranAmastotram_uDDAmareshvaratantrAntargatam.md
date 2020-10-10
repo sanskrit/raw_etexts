@@ -1,25 +1,25 @@
-+++
-"Text title" = "guhyanAma uchChiShTagaNeshasahasranAmastotram"
-"File name" = "guhyagaNeshasaharanAmastotram.itx"
-itxtitle = "guhyanAmauchChiShTagaNeshasahasranAmastotram (uDDAmareshvaratantrAntargatam)"
-engtitle = "guhyanAma uchChiShTagaNeshasahasranAmastotram"
-Category = "sahasranAma, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "krishna vallapareddy krishna321 at hotmail.com"
-Description-comments = "Vighneshvara stutimanjari Vol 3, page 466, Ed. S.V.Radhakrishnashastri"
-Source = "uDDAmaheshvaratantra"
-Indexextra = "(Scanned)"
-"Latest update" = "June 13, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुह्यनामौच्छिष्टगणेशसहस्रनामस्तोत्रम् (उड्डामरेश्वरतन्त्रान्तर्गतम्)"
+---
+Author: Traditional
+Category: sahasranAma, ganesha
+Description-comments: Vighneshvara stutimanjari Vol 3, page 466, Ed. S.V.Radhakrishnashastri
+File name: guhyagaNeshasaharanAmastotram.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: June 13, 2010
+Location: doc_ganesha
+Proofread by: krishna vallapareddy krishna321 at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: uDDAmaheshvaratantra
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: guhyanAma uchChiShTagaNeshasahasranAmastotram
+Texttype: stotra
+engtitle: guhyanAma uchChiShTagaNeshasahasranAmastotram
+itxtitle: guhyanAmauchChiShTagaNeshasahasranAmastotram (uDDAmareshvaratantrAntargatam)
+title: गुह्यनामौच्छिष्टगणेशसहस्रनामस्तोत्रम् (उड्डामरेश्वरतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीगुह्यनामौच्छिष्टगणेशानसहस्रनामस्तोत्रम्   
   

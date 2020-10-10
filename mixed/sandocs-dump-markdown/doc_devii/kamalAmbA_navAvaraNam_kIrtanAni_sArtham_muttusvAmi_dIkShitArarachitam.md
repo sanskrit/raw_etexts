@@ -1,22 +1,22 @@
-+++
-"Text title" = "kamalAmbAnavAvaraNamsArtham"
-"File name" = "kamalAmbAnavAvaraNamsArtham.itx"
-itxtitle = "kamalAmbA navAvaraNam kIrtanAni sArtham (muttusvAmi dIkShitArarachitam)"
-engtitle = "kamalAmbA navAvaraNam kirtanas with meaning"
-Category = "devii, lakShmI, kRitI, muttusvAmI-dIkShitAra, dhyAnam, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Description/comments" = "with word by word meanings"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कमलाम्बा नवावरणम् कीर्तनानि सार्थम् (मुत्तुस्वामि दीक्षिताररचितम्)"
+---
+Category: devii, lakShmI, kRitI, muttusvAmI-dIkShitAra, dhyAnam, devI
+Description/comments: with word by word meanings
+File name: kamalAmbAnavAvaraNamsArtham.itx
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_devii
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kamalAmbAnavAvaraNamsArtham
+Transliterated by: Pallasena Narayanaswami ppnswami at gmail.com
+engtitle: kamalAmbA navAvaraNam kirtanas with meaning
+itxtitle: kamalAmbA navAvaraNam kIrtanAni sArtham (muttusvAmi dIkShitArarachitam)
+title: कमलाम्बा नवावरणम् कीर्तनानि सार्थम् (मुत्तुस्वामि दीक्षिताररचितम्)
 
-+++
+---
   
  कमलाम्बा नवावरणं सार्थम्   
   
@@ -308,8 +308,8 @@ Text of the Kamalamba Navavaranam
   
 पल्लवि  
   
-कमलांबिके आश्रितकल्पलतिके चण्डिके  
-कमनीयारुणांशुके करविधृतशुके मामव  variation  मामव जगदंबिके  
+कमलाम्बिके आश्रितकल्पलतिके चण्डिके  
+कमनीयारुणांशुके करविधृतशुके मामव  variation  मामव जगदम्बिके  
   
 अनुपल्लवि  
   
@@ -318,7 +318,7 @@ Text of the Kamalamba Navavaranam
   
 चरणम्  
   
-सकललोकनायिके संगीतरसिके  
+सकललोकनायिके सङ्गीतरसिके  
 सुकवित्वप्रदायिके सुन्दरि गतमायिके  
 विकळेबरमुक्तिदाननिपुणे अघहरणे  
 वियदादिभूतकिरणे विनोदचरणे अरुणे  
@@ -330,7 +330,7 @@ Text of the Kamalamba Navavaranam
   
 Word to word meaning:    
   
-कमलांबिके  - Oh Goddess kamaAlmbika (the Lotus mother)   
+कमलाम्बिके  - Oh Goddess kamaAlmbika (the Lotus mother)   
 आश्रित-कल्प लतिके  - who is like a Kalpaka tree (that  
        grants all boons) to those who seek refuge in you   
 चण्डिके  - fierce one, one of the ten aspects of shakti   
@@ -345,7 +345,7 @@ Word to word meaning:
 शिवे  - auspicious one   
 करुणा-अर्णवे  - ocean of mercy   
 सकल-लोक-नायिके  - ruler of all the worlds   
-संगीत-रसिके  - delighting in music   
+सङ्गीत-रसिके  - delighting in music   
 सु-कवित्व-प्रदायिके  - granting the boon of poetic genius   
 सुन्दरि  - beautiful one   
 गत-मायिके  - who has transcended the illusion   
@@ -364,13 +364,13 @@ Word to word meaning:
   
 ॥ प्रथमावरणकीर्तनम् (प्रथमा विभक्ति) ॥  
   
-॥ कमलांबा संरक्षतु मां ॥  
+॥ कमलाम्बा संरक्षतु मां ॥  
   
 रागं आनन्दभैरवि - तिश्र एक  ताळम्  
   
 पल्लवि  
   
-कमलांबा संरक्षतु मां हृत्-  
+कमलाम्बा संरक्षतु मां हृत्-  
 कमलानगरनिवासिनी  
   
 अनुपल्लवि  
@@ -391,7 +391,7 @@ Word to word meaning:
   
 Word to word meaning:    
   
-कमलांबा  - Goddess Kamalamba  
+कमलाम्बा  - Goddess Kamalamba  
 संरक्षतु  - protect  
 मां  - me  
 हृत्-कमला-नगर-निवासिनी  - who resides in the lotus city of the (human) heart  
@@ -466,18 +466,18 @@ mudrA for the rAga Anandabhairavi.
   
 ॥ द्वितीयावरण कीर्तनम् (द्वितीया विभक्ति) ॥  
   
-॥ कमलांबां भजरे ॥  
+॥ कमलाम्बां भजरे ॥  
   
 रागं कल्याणि - आदि ताळम्  
   
 पल्लवि  
   
-कमलांबां भजरे रे मानस  
+कमलाम्बां भजरे रे मानस  
 कल्पितमायाकार्यं त्यज रे  
   
 अनुपल्लवि  
   
-कमलावाणीसेवितपार्श्वां कंबुजयग्रीवां नतदेवां  variation  नतदेहां  
+कमलावाणीसेवितपार्श्वां कम्बुजयग्रीवां नतदेवां  variation  नतदेहां  
   
 मध्यमकालसाहित्यम्  
   
@@ -497,14 +497,14 @@ mudrA for the rAga Anandabhairavi.
   
 Word to word meaning:    
   
-कमलांबां  - The Goddess kamalAmbA  
+कमलाम्बां  - The Goddess kamalAmbA  
 भज  - worship  
 रे रे मानस  - Oh mind!  
 कल्पित माया-कार्यं  - attachment to worldly desires which are illusory  
 त्यज रे  - please abandon  
 कमला-वाणी-सेवित-पार्श्वां  - she who is flanked by Lakshmi  
        and Sarasvati on both sides  
-कंबु-जय-ग्रीवां  - with neck that surpasses the beauty of the conch shell  
+कम्बु-जय-ग्रीवां  - with neck that surpasses the beauty of the conch shell  
 नत-देवां  - bowed down by the Devas  
 कमलापुर-सदनां  - who resides in the lotus city  
 मृदु-गदनां  - whose speech is tender  
@@ -569,13 +569,13 @@ lalitAmbAm bhAvaye''.
   
 ॥ तृतीयावरणकीर्तनम् (तृतीया विभक्ति) ॥  
   
-॥ श्री कमलांबिकया ॥  
+॥ श्री कमलाम्बिकया ॥  
   
 रागं शङ्कराभरणं - रूपक  ताळम्  
   
 पल्लवि  
   
-श्रीकमलांबिकया कटाक्षितोऽहं  
+श्रीकमलाम्बिकया कटाक्षितोऽहं  
 सच्चिदानन्दपरिपूर्णब्रह्मास्मि  
   
 अनुपल्लवि  
@@ -590,19 +590,19 @@ lalitAmbAm bhAvaye''.
   
 चरणम्  
   
-अनंगकुसुमाद्ययष्टशक्त्याकारया  
-अरुणवर्णसंक्षोभणचक्राकारया  variation  चक्रागारया  
+अनङ्गकुसुमाद्ययष्टशक्त्याकारया  
+अरुणवर्णसङ्क्षोभणचक्राकारया  variation  चक्रागारया  
 अनन्तकोट्यण्डनायकशङ्करनायिकया  
 अष्टवर्गात्मकगुप्ततरया वरया  
   
 मध्यमकालसाहित्यम्  
   
-अनंगाद्युपासितया अष्टदळाब्जस्थितया  
+अनङ्गाद्युपासितया अष्टदळाब्जस्थितया  
 धनुर्बाणधरकरया दयासुधासागरया  
   
 Word to word meaning:    
   
-श्रीकमलांबिकया  
+श्रीकमलाम्बिकया  
   
 श्रीकमलाम्बिकया  - by the auspicious Kamalambika  
 कटाक्षितः  - graced, protected  
@@ -621,9 +621,9 @@ Word to word meaning:
 कोकनद-विजय-पदया  - whose feet conquer the beauty of a red lotus  
 गुरुगुह-तत्त्रैपदया  - who is the three worded sentence,  
        which is Guruguha himself  
-अनंगकुसुमादि-अष्टशक्त्याकारया  - who is embodied as  
+अनङ्गकुसुमादि-अष्टशक्त्याकारया  - who is embodied as  
 ana~Ngakusuma, and the rest of the shaktis  
-अरुण-वर्ण-संक्षोभण-चक्राकारया  - who is enshrined  
+अरुण-वर्ण-सङ्क्षोभण-चक्राकारया  - who is enshrined  
        in the reddish saMkShobhaNa chakra  
 अनन्त-कोट्यण्ड-नायक-शङ्कर-नायिकया  - who is the  
        beloved of Lord Siva, the master of millions of universes  
@@ -631,7 +631,7 @@ ana~Ngakusuma, and the rest of the shaktis
        the previous chakra), being the form of alphabet grouped in  
        eight sections  
 वरया  - who is superb  
-अनंगादि-उपासितया  - who is worshiped by Kamadeva and others  
+अनङ्गादि-उपासितया  - who is worshiped by Kamadeva and others  
 अष्टदळाब्ज-स्थितया  - who resides in the eight petaled lotus  
 धनुर्बाण-धर-करया  - who carries a bow and arrow in her hands  
 दया-सुधा-सागरया  - who is the ocean of the nectar of compassion  
@@ -657,19 +657,19 @@ rAgamudra in the phrase ``sha~NkaranAyikayA''.
   
 ॥ चतुर्थावरणकीर्तनम् (चतुर्थी विभक्ति) ॥  
   
-॥ कमलांबिकायै ॥  
+॥ कमलाम्बिकायै ॥  
   
-रागं कांभोजि - अट ताळम्  
+रागं काम्भोजि - अट ताळम्  
   
 पल्लवि  
   
-कमलांबिकायै कनकांशुकायै  
+कमलाम्बिकायै कनकांशुकायै  
 कर्पूरवीटिकायै नमस्ते नमस्ते  
   
 अनुपल्लवि  
   
 कमलाकान्तानुजायै कामेश्वर्यै अजायै  
-हिमगिरितनुजायै ह्रींकारपूज्यायै  
+हिमगिरितनुजायै ह्रीङ्कारपूज्यायै  
   
 मध्यमकालसाहित्यम्  
   
@@ -678,10 +678,10 @@ rAgamudra in the phrase ``sha~NkaranAyikayA''.
   
 चरणम्  
   
-सकलसौभाग्यदायकांभोजचरणायै  
-संक्षोभिण्यादिशक्तियुतचतुर्थावरणायै  
+सकलसौभाग्यदायकाम्भोजचरणायै  
+सङ्क्षोभिण्यादिशक्तियुतचतुर्थावरणायै  
 प्रकटचतुर्दशभुवनभरणायै  
-प्रबलगुरुगुहसंप्रदायान्तःकरणायै  
+प्रबलगुरुगुहसम्प्रदायान्तःकरणायै  
 अकळङ्करूपवर्णायै अपर्णायै सुपर्णायै  
 सुकरधृतचापबाणायै शोभनकरमनुकोणायै  
   
@@ -692,7 +692,7 @@ rAgamudra in the phrase ``sha~NkaranAyikayA''.
   
 Word to word meaning  
   
-कमलांबिकायै  - to KamalAmbika  
+कमलाम्बिकायै  - to KamalAmbika  
 कनक-अंशुकायै  - who is clad in golden robe  
 कर्पूर-वीटिकायै  - who chews betel leaves flavored with camphor  
 नमस्ते नमस्ते  - I offer my salutations to thee again, and again  
@@ -700,20 +700,20 @@ Word to word meaning
 कामेश्वर्यै  - who is the goddess Kameshvari  
 अजायै  - who is unborn  
 हिमगिरि-तनुजायै  - who is the daughter of the snowy mountain  
-ह्रींकार-पूज्यायै  - who is worshiped by the mystic sound ``hrIM''  
+ह्रीङ्कार-पूज्यायै  - who is worshiped by the mystic sound ``hrIM''  
 कमलानगर-विहारिण्यै  - who dwells in the city of the lotus  
 खल-समूह-संहारिण्यै  - who destroys the dishonest people  
 कमनीय-रत्न-हारिण्यै  - who wears a garland of beautiful jewels  
 कलि-कल्मष-परिहारिण्यै  - who dispels the sins caused  
        by the poison of Kali  
-सकल-सौभाग्यदायक-अंभोज-चरणायै  - who possesses  
+सकल-सौभाग्यदायक-अम्भोज-चरणायै  - who possesses  
        lotus feet which grant all auspiciousness  
-संक्षोभिण्यादि-शक्ति-युत-चतुर्थ-आवरणायै  - who  
+सङ्क्षोभिण्यादि-शक्ति-युत-चतुर्थ-आवरणायै  - who  
        resides in the fourth enclosure containing the shaktis such  
        as 'saMkShobhiNI’ and so forth  
 प्रकट-चतुर्दश-भुवन-भरणायै  - who sustains the  
        fourteen manifest worlds  
-प्रबल-गुरुगुह-संप्रदाय-अन्तःकरणायै  - who is at the  
+प्रबल-गुरुगुह-सम्प्रदाय-अन्तःकरणायै  - who is at the  
        heart of the well-known tradition to which Guruguha belongs  
 अकळङ्क-रूप-वर्णायै  - who possesses flawless beauty and complexion  
 अपर्णायै  - who is (known as) aparNa  
@@ -751,13 +751,13 @@ in the line ``dAyakAmbhojacharaNayai''.
   
 ॥ पञ्चमावरणकीर्तनम् (पञ्चमी विभक्ति) ॥  
   
-॥ श्री कमलांबिकायाः परं ॥  
+॥ श्री कमलाम्बिकायाः परं ॥  
   
 रागं भैरवि - झम्प ताळम्  
   
 पल्लवि  
   
-श्रीकमलांबिकायाः परं नहि रे रे चित्त  variation  कमलाम्बायाः  
+श्रीकमलाम्बिकायाः परं नहि रे रे चित्त  variation  कमलाम्बायाः  
 क्षित्यादिशिवान्ततत्वस्वरूपिण्याः  
   
 अनुपल्लवि  
@@ -790,7 +790,7 @@ in the line ``dAyakAmbhojacharaNayai''.
   
 Word to word meaning:    
   
-श्रीकमलांबिकायाः परं  - Greater than Goddess Kamalamba  
+श्रीकमलाम्बिकायाः परं  - Greater than Goddess Kamalamba  
 न हि  - there is nothing else  
 रे रे चित्त  - Oh mind!  
 क्षित्यादि-शिवान्त-तत्व-स्वरूपिण्याः  - the one who is the  
@@ -858,14 +858,14 @@ five sense organs (jnAnendriya-s) and the five organs of action
   
 ॥ षष्ट्यावरण कीर्तनम् (षष्टी विभक्ति) ॥  
   
-॥ कमलांबिकायास्तव  ॥  
+॥ कमलाम्बिकायास्तव  ॥  
   
 रागं पुन्नागवराळि - रूपक ताळम्  
   
 पल्लवि  
   
-कमलांबिकायास्तव भक्तोऽहं  
-शङ्कर्याः श्रीकर्याः संगीतरसिकायाः श्री  
+कमलाम्बिकायास्तव भक्तोऽहं  
+शङ्कर्याः श्रीकर्याः सङ्गीतरसिकायाः श्री  
   
 अनुपल्लवि  
   
@@ -892,13 +892,13 @@ five sense organs (jnAnendriya-s) and the five organs of action
   
 Word to word meaning:    
   
-कमलांबिकायाः  - (of) KamalAmbika  
+कमलाम्बिकायाः  - (of) KamalAmbika  
 तव  - your  
 भक्तः  - devotee  
 अहं  - I (am)  
 शङ्कर्याः  - (of the one who) bestows auspiciousness  
 श्रीकर्याः  - (of the one who) bestows prosperity  
-संगीत-रसिकायाः  - (of the one) who is an enjoyer of divine  
+सङ्गीत-रसिकायाः  - (of the one) who is an enjoyer of divine  
        music shrI - auspicious (of the one) who holds in her hands  
        the flower arrows, sugar cane, the noose and the goad  
 अति-मधुरतर-वाण्याः  - (of the one) whose speech is  
@@ -956,14 +956,14 @@ mahA~NkushA, khecarI, bIja, yoni and trikhaNDa.
   
 ॥ सप्तमावरणकीर्तनम् (सप्तमी विभक्ति) ॥  
   
-॥ श्रीकमलांबिकायां ॥  
+॥ श्रीकमलाम्बिकायां ॥  
   
 रागं सहाना - त्रिपुट ताळम्  
   
 पल्लवि  
   
-श्रीकमलांबिकायां भक्तिं करोमि  
-श्रितकल्पवाटिकायां चण्डिकायां जगदंबिकायां  
+श्रीकमलाम्बिकायां भक्तिं करोमि  
+श्रितकल्पवाटिकायां चण्डिकायां जगदम्बिकायां  
   
 अनुपल्लवि  
   
@@ -972,8 +972,8 @@ mahA~NkushA, khecarI, bIja, yoni and trikhaNDa.
   
 मध्यमकालसाहित्यम्  
   
-ह्रींकारविपिनहरिण्यां ह्रींकारसुशरीरिण्यां  
-ह्रींकारतरुमञ्जर्यां ह्रींकारेश्वर्यां गौर्यां  
+ह्रीङ्कारविपिनहरिण्यां ह्रीङ्कारसुशरीरिण्यां  
+ह्रीङ्कारतरुमञ्जर्यां ह्रीङ्कारेश्वर्यां गौर्यां  
   
 चरणम्  
   
@@ -989,23 +989,23 @@ mahA~NkushA, khecarI, bIja, yoni and trikhaNDa.
   
 Word to word meaning:    
   
-श्री-कमलांबिकायां  - (in) kamalAmbikA, the auspicious one  
+श्री-कमलाम्बिकायां  - (in) kamalAmbikA, the auspicious one  
 भक्तिं  - devotion  
 करोमि  - (I) do (offer my)  
 श्रित-कल्प-वाटिकायां  - who grants all desires to those  
 devotees who take refuge in her  
 चण्डिकायां  - caNDikA, the fierce one  
-जगद्-अंबिकायां  - the mother of the universe  
+जगद्-अम्बिकायां  - the mother of the universe  
 राका-चन्द्र-वदनायां  - whose face is like the full moon  
 राजीव-नयनायां  - whose eyes are like the lotus bud  
 पाकारि-नुत-चरणायां  - whose feet are worshiped by Indra  
 आकाश-आदि-किरणायां  - who radiates out the sky etc, i.e. the five elements  
-ह्रींकार-विपिन-हरिण्यां  - who is the deer that roams in  
+ह्रीङ्कार-विपिन-हरिण्यां  - who is the deer that roams in  
        the forest of the hrIM sound  
-ह्रींकार-सु-शरीरिण्यां  - whose body is the embodiment of hrIM  
-ह्रींकार-तरु-मञ्जर्यां  - who is the beautiful bunch of  
+ह्रीङ्कार-सु-शरीरिण्यां  - whose body is the embodiment of hrIM  
+ह्रीङ्कार-तरु-मञ्जर्यां  - who is the beautiful bunch of  
        flowers of the tree of hrIM sound  
-ह्रींकारेश्वर्यां  - who is the goddess of hrIM  
+ह्रीङ्कारेश्वर्यां  - who is the goddess of hrIM  
 गौर्यां  - Gauri, the fair one  
 शरीर-त्रय-विलक्षण-सुख-तर-स्वात्मानुभोगिन्यां   
        - who rejoices in the highest bliss of her own self, which  
@@ -1047,15 +1047,15 @@ kauLinI. These shaktis are collectively called rahasya yogini-s.
 The rAga name Sahana appears as a mudrA in a slightly altered  
 form as ``shAnA'' in the term ``harIshANa''.  
   
-॥ अष्टमावरणकीर्तनम् (संबोधनाविभक्ति) ॥  
+॥ अष्टमावरणकीर्तनम् (सम्बोधनाविभक्ति) ॥  
   
-॥ श्रीकमलांबिकेऽवाव ॥  
+॥ श्रीकमलाम्बिकेऽवाव ॥  
   
 रागं घण्टा - आदि  ताळम्  
   
 पल्लवि  
   
-श्रीकमलांबिके अवाव  
+श्रीकमलाम्बिके अवाव  
 शिवे करधृतशुकशारिके  
   
 अनुपल्लवि  
@@ -1066,14 +1066,14 @@ form as ``shAnA'' in the term ``harIshANa''.
 मध्यमकालसाहित्यम्  
   
 लोकय मां सर्वसिद्धिप्रदायिके  
-त्रिपुरांबिके बालांबिके  
+त्रिपुराम्बिके बालाम्बिके  
   
 चरणम्  
   
-संतप्तहेमसन्निभदेहे सदाऽखण्डैकरसप्रवाहे  
+सन्तप्तहेमसन्निभदेहे सदाऽखण्डैकरसप्रवाहे  
 सन्तापहरत्रिकोणगेहे सकामेश्वरिशक्तिसमूहे  variation  सकामेश्वरिसक्तिसमूहे  
 सन्ततं मुक्तिघण्टामणिघोषायमानकवाटद्वारे  
-अनन्तगुरुगुहविदिते करांगुलिनखोदयविष्णुदशावतारे  
+अनन्तगुरुगुहविदिते कराङ्गुलिनखोदयविष्णुदशावतारे  
   
 मध्यमकालसाहित्यम्  
   
@@ -1082,7 +1082,7 @@ form as ``shAnA'' in the term ``harIshANa''.
   
 Word to word meaning  
   
-श्रीकमलांबिके  - Oh shrI kamalAmbika  
+श्रीकमलाम्बिके  - Oh shrI kamalAmbika  
 अव अव  - protect (me) protect (me)  
 शिवे  - the auspicious one  
 कर-धृत-शुक-शारिके  - you hold a parrot and a myna  
@@ -1096,9 +1096,9 @@ Word to word meaning
 आलोकय  - Alokaya - glance at  
 मां  - me  
 सर्व-सिद्धि-प्रदायिके  - Oh giver of all powers  
-त्रिपुरांबिके  - Oh mother, Tripura  
-बालांबिके  - Balambika  
-संतप्त-हेम-सन्निभ-देहे  - Your body is effulgent like molten gold  
+त्रिपुराम्बिके  - Oh mother, Tripura  
+बालाम्बिके  - Balambika  
+सन्तप्त-हेम-सन्निभ-देहे  - Your body is effulgent like molten gold  
 सदा-अखण्ड-एक-रस-प्रवाहे  - you are the eternal flow of uninterrupted bliss  
 सन्ताप-हर-त्रिकोण-गेहे  - you reside in the triangle that removes all sorrows  
 सकामेश्वरि-शक्ति-समूहे  - accompanied by the three  
@@ -1108,7 +1108,7 @@ Word to word meaning
        the wide door, announced by the jeweled bell as the way to  
        liberation  
 अनन्त-गुरुगुह-विदिते  - you are known to Ananta and Guruguha  
-कर-अंगुलि-नख-उदय-विष्णु-दश-अवतारे  - the nails  
+कर-अङ्गुलि-नख-उदय-विष्णु-दश-अवतारे  - the nails  
        of your ten fingers are the source of the ten  
        incarnations of Lord Vishnu  
 अन्तःकरण-इक्षु-कार्मुक-शब्द-आदि-पञ्च-तन्मात्र-विशिखा-  
@@ -1137,17 +1137,17 @@ The rAgamudrA ``ghaNTA'' occurs in the phrase ``ghaNTAmaNi''.
   
 ॥ नवमावरण कीर्तनम् ॥  
   
-॥ श्री कमलांबा जयति  ॥  
+॥ श्री कमलाम्बा जयति  ॥  
   
 रागं आहिरि - रूपक ताळम्  
   
 पल्लवि  
   
-श्रीकमलांबा जयति अंबा  
-श्रीकमलांबा जयति जगदंबा  
-श्रीकमलांबा जयति शृंगाररसकदंबा मदंबा  
-श्री कमलांबा जयति चिद्बिंबप्रतिबिंबेन्दुबिंबा  
-श्री कमलांबा जयति  
+श्रीकमलाम्बा जयति अम्बा  
+श्रीकमलाम्बा जयति जगदम्बा  
+श्रीकमलाम्बा जयति शृङ्गाररसकदम्बा मदम्बा  
+श्री कमलाम्बा जयति चिद्बिम्बप्रतिबिम्बेन्दुबिम्बा  
+श्री कमलाम्बा जयति  
   
 मध्यमकालसाहित्यम्  
   
@@ -1180,14 +1180,14 @@ The rAgamudrA ``ghaNTA'' occurs in the phrase ``ghaNTAmaNi''.
   
 Word to word meaning:    
   
-श्री कमलांबा  - Goddess KamalAmbA  
+श्री कमलाम्बा  - Goddess KamalAmbA  
 जयति  - is victorious  
-जगदंबा  - the mother of the universe  
-शृंगार-रस-कदंबा  - a flower of the kadamba plant  
+जगदम्बा  - the mother of the universe  
+शृङ्गार-रस-कदम्बा  - a flower of the kadamba plant  
        (the essence) of the pleasure of love  
-मदंबा  - my mother  
-चिद्बिंब  - is of the form of pure consciousness  
-प्रतिबिंबेन्दुबिंबा  - who is the reflection of the original  
+मदम्बा  - my mother  
+चिद्बिम्ब  - is of the form of pure consciousness  
+प्रतिबिम्बेन्दुबिम्बा  - who is the reflection of the original  
        pure consciousness in the bindu (the root mind)  
 श्रीपुर-बिन्दु-मध्यस्थ-चिन्तामणि-मन्दिरस्थ-शिवाकार  
 मञ्चस्थित-शिवकामेश-अङ्कस्था  
@@ -1257,15 +1257,15 @@ The chakra for this last AvaraNa, sarvAnandamaya chakram, is the
 bindu, the dot at the centre of the Srichakra. The shakti which  
 resides in this chakra is known as parApara rahasya yogini.  
   
-॥ नवावरणमंगळकीर्तनम् ॥  
+॥ नवावरणमङ्गळकीर्तनम् ॥  
   
-॥ श्री कमलांबिके  ॥  
+॥ श्री कमलाम्बिके  ॥  
   
 रागं श्री - खण्ड जाति एक  ताळम्  
   
 पल्लवि  
   
-श्रीकमलांबिके शिवे पाहि मां लळिते  
+श्रीकमलाम्बिके शिवे पाहि मां लळिते  
 श्रीपतिविनुते सितासिते शिवसहिते  
   
 समष्टि चरणम्  
@@ -1275,7 +1275,7 @@ resides in this chakra is known as parApara rahasya yogini.
   
 मध्यमकालसाहित्यम्  
   
-शाकंभरि शातोदरि चन्द्रकलाधरि  
+शाकम्भरि शातोदरि चन्द्रकलाधरि  
 शङ्करि शङ्करगुरुगुहभक्तवशङ्करि  
 एकाक्षरि भुवनेश्वरि ईश प्रियकरि  
 श्रीकरि सुखकरि श्रीमहात्रिपुर सुन्दरि  

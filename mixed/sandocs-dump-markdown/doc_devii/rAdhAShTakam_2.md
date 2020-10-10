@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAdhAShTakam 2"
-"File name" = "rAdhAShTakam2.itx"
-itxtitle = "rAdhAShTakam 2"
-engtitle = "rAdhAShTakam 2"
-Category = "devii, puShTimArgIya, aShTaka, radha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाष्टकम् २"
+---
+Category: devii, puShTimArgIya, aShTaka, radha, devI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: rAdhAShTakam2.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAShTakam 2
+engtitle: rAdhAShTakam 2
+itxtitle: rAdhAShTakam 2
+title: राधाष्टकम् २
 
-+++
+---
   
  श्रीमद्राधाष्टकम् २   
   

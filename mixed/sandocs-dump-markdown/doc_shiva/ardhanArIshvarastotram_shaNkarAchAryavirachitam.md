@@ -1,25 +1,25 @@
-+++
-"Text title" = "ardhanArIshvarastotram"
-"File name" = "ardhanAri.itx"
-itxtitle = "ardhanArIshvarastotram (shaNkarAchAryavirachitam)"
-engtitle = "ardhanArIshvarastotram"
-Category = "shiva, stotra, shankarAchArya, devii, devI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-"Proofread by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-Description-comments = "Hymn to lord Shiva in the form of half man-half woman"
-Indexextra = "(meaning)"
-"Latest update" = "September 22, 2001, September 13, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अर्धनारीश्वरस्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Author: Adi Shankaracharya
+Category: shiva, stotra, shankarAchArya, devii, devI
+Description-comments: Hymn to lord Shiva in the form of half man-half woman
+File name: ardhanAri.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: September 22, 2001, September 13, 2012
+Location: doc_shiva
+Proofread by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: shiva
+Text title: ardhanArIshvarastotram
+Texttype: stotra
+Transliterated by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+engtitle: ardhanArIshvarastotram
+itxtitle: ardhanArIshvarastotram (shaNkarAchAryavirachitam)
+title: अर्धनारीश्वरस्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  अर्धनारीश्वरस्तोत्रम्   
 चाम्पेयगौरार्धशरीरकायै कर्पूरगौरार्धशरीरकाय ।  
@@ -50,7 +50,7 @@ title = "अर्धनारीश्वरस्तोत्रम् (शण
 प्राप्नोति सौभाग्यमनन्तकालं भूयात्सदा तस्य समस्तसिद्धिः ॥ ९॥  
   
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-श्रीमच्छंकरभगवतः कृतौ अर्धनारीश्वरस्तोत्रम् संपूर्णम् ॥  
+श्रीमच्छङ्करभगवतः कृतौ अर्धनारीश्वरस्तोत्रम् सम्पूर्णम् ॥  
   
   
 Encoded and proofread by Sridhar  Seshagiri sridhar.seshagiri at gmail.com  

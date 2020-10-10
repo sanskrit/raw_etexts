@@ -1,22 +1,22 @@
-+++
-"Text title" = "Mangalanayika stotram"
-"File name" = "mangalanAyikAstotram.itx"
-itxtitle = "maNgalanAyikAstotram"
-engtitle = "mangalanayikAstotram"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "G Vasanth gsathyaarumugam at gmail.com"
-"Proofread by" = "G Vasanth, NA"
-"Description/comments" = "Goddess Shri Mangalambal Temple is at Palamadai,Tirunelveli"
-"Latest update" = "November 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मण्गलनायिकास्तोत्रम्"
+---
+Category: devii, devI
+Description/comments: Goddess Shri Mangalambal Temple is at Palamadai,Tirunelveli
+File name: mangalanAyikAstotram.itx
+Language: Sanskrit
+Latest update: November 17, 2018
+Location: doc_devii
+Proofread by: G Vasanth, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Mangalanayika stotram
+Transliterated by: G Vasanth gsathyaarumugam at gmail.com
+engtitle: mangalanayikAstotram
+itxtitle: maNgalanAyikAstotram
+title: मण्गलनायिकास्तोत्रम्
 
-+++
+---
   
  श्रीमङ्गलनायिकास्तोत्रम्   
 ताम्रपर्णिमध्यगां दिव्यहर्त्यवासिनीम् ।  

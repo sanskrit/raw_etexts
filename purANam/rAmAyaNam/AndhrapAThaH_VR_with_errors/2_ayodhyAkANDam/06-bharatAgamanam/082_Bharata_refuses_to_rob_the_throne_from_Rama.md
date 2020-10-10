@@ -3,7 +3,6 @@ title: 082 Bharata refuses to rob the throne from Rama
 title_english: 082 Bharata refuses to rob the throne from Rama
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-082-Ramanayanaaya_Bharatha_Prasthanam.mp3"></div>
 
 ताम् आर्य गण सम्पूर्णाम् भरतः प्रग्रहाम् सभाम् ।  
@@ -51,7 +50,7 @@ title_english: 082 Bharata refuses to rob the throne from Rama
 तूर्णम् उत्थाय गच्च त्वम् सुमन्त्र मम शासनात् ।  
 यात्राम् आज्ञापय क्षिप्रम् बलम् चैव समानय ॥ २-८२-२२  
 एवम् उक्तः सुमन्त्रः तु भरतेन महात्मना ।  
-हृष्टः सो अदिशत् सर्वम् यथा संदिष्टम् इष्टवत् ॥ २-८२-२३  
+हृष्टः सो अदिशत् सर्वम् यथा सन्दिष्टम् इष्टवत् ॥ २-८२-२३  
 ताः प्रहृष्टाः प्रकृतयो बल अध्यक्षा बलस्य च ।  
 श्रुत्वा यात्राम् समाज्ञप्ताम् राघवस्य निवर्तने ॥ २-८२-२४  
 ततः योध अन्गनाः सर्वा भर्तृऋन् सर्वान् गृहे गृहे ।  

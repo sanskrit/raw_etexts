@@ -1,23 +1,23 @@
-+++
-"Text title" = "narmadAShTakam"
-"File name" = "narmadAShTakam.itx"
-itxtitle = "narmadAShTakam (maheshvarAnandasarasvatIvirachitaM shrInarmade sakaladuHkhahare)"
-engtitle = "narmadAShTakam"
-Category = "devii, devI, nadI, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Maheshvaranandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नर्मदाष्टकम् (महेश्वरानन्दसरस्वतीविरचितं श्रीनर्मदे सकलदुःखहरे)"
+---
+Author: Maheshvaranandasarasvati
+Category: devii, devI, nadI, aShTaka
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: narmadAShTakam.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: narmadAShTakam
+engtitle: narmadAShTakam
+itxtitle: narmadAShTakam (maheshvarAnandasarasvatIvirachitaM shrInarmade sakaladuHkhahare)
+title: नर्मदाष्टकम् (महेश्वरानन्दसरस्वतीविरचितं श्रीनर्मदे सकलदुःखहरे)
 
-+++
+---
   
  नर्मदाष्टकम्   
 श्रीनर्मदे सकल-दुःखहरे पवित्रे  

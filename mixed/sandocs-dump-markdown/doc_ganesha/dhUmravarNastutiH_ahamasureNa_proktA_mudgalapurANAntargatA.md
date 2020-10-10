@@ -1,23 +1,23 @@
-+++
-"Text title" = "Dhumravarna Stuti by Ahamasura"
-"File name" = "dhUmravarNastutiHahamasureNaproktA.itx"
-itxtitle = "dhUmravarNastutiH ahamasureNa proktA (mudgalapurANAntargatA)"
-engtitle = "dhUmravarNastutiH ahamasureNa proktA"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan"
-"Proofread by" = "Ajit Krishnan, PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 8, Adhyaya 7"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "धूम्रवर्णस्तुतिः अहमसुरेण प्रोक्ता (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 8, Adhyaya 7
+File name: dhUmravarNastutiHahamasureNaproktA.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: Ajit Krishnan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Dhumravarna Stuti by Ahamasura
+Transliterated by: Ajit Krishnan
+engtitle: dhUmravarNastutiH ahamasureNa proktA
+itxtitle: dhUmravarNastutiH ahamasureNa proktA (mudgalapurANAntargatA)
+title: धूम्रवर्णस्तुतिः अहमसुरेण प्रोक्ता (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  धूम्रवर्णस्तुतिः अहमसुरेण प्रोक्ता   
 धूम्रवर्णस्तु तुरेण  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "pavamAnasUkta"
-"File name" = "pavamana.itx"
-itxtitle = "pavamAnasUktam"
-engtitle = "PavamAnasukta"
-Category = "sUkta, veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-"Proofread by" = "Rajagopal Iyer (rajsand at yahoo.com)"
-Description-comments = "mantrapuShpam"
-"Latest update" = "June 14, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पवमानसूक्तम्"
+---
+Author: Vedic Tradition
+Category: sUkta, veda, svara
+Description-comments: mantrapuShpam
+File name: pavamana.itx
+Language: Sanskrit
+Latest update: June 14, 2000
+Location: doc_veda
+Proofread by: Rajagopal Iyer (rajsand at yahoo.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: veda
+Text title: pavamAnasUkta
+Texttype: svara
+Transliterated by: Rajagopal Iyer (rajsand at yahoo.com)
+engtitle: PavamAnasukta
+itxtitle: pavamAnasUktam
+title: पवमानसूक्तम्
 
-+++
+---
   
  पवमानसूक्तम्   
   
@@ -52,7 +52,7 @@ title = "पवमानसूक्तम्"
 द्यावा॑पृथि॒वी पय॑सा॒ पयो॑भिः । ऋ॒ताव॑री य॒ज्ञिये॑ मा पुनीताम् ।  
 बृ॒हद्भिः॑ सवित॒स्तृभिः॑ । वर्षि॑ष्ठैर्देव॒मन्म॑भिः ।  
 अग्ने॒ दक्षैः᳚ पुनाहि मा । येन॑ दे॒वा अपु॑नत ।  
-येनापो॑ दि॒व्यंकशः॑ । तेन॑ दि॒व्येन॒ ब्रह्म॑णा । इ॒दं ब्रह्म॑ पुनीमहे । यः पा॑वमा॒नीर॒ध्येति॑।  
+येनापो॑ दि॒व्यङ्कशः॑ । तेन॑ दि॒व्येन॒ ब्रह्म॑णा । इ॒दं ब्रह्म॑ पुनीमहे । यः पा॑वमा॒नीर॒ध्येति॑।  
 ऋषि॑भि॒स्सम्भृ॑त॒ꣳ॒ रसम्᳚। सर्व॒ꣳ॒ स पू॒तम॑श्नाति ।  
 स्व॒दि॒तं मा॑त॒रिश्व॑ना । पा॒व॒मानीर्यो अ॒ध्येति॑।  
 ऋषि॑भि॒स्सम्भृ॑त॒ꣳ॒ रसम्᳚। तस्मै॒ सर॑स्वती दुहे । क्षी॒रꣳ स॒र्पिर्मधू॑द॒कम्॥  
@@ -62,7 +62,7 @@ title = "पवमानसूक्तम्"
 पा॒व॒मा॒नीर्दि॑शन्तु नः । इ॒मं लो॒कमथो॑ अ॒मुम् ।  
 कामा॒न्थ्सम॑र्धयन्तु नः । दे॒वीर्दे॒वैः स॒माभृ॑ताः ।  
 पा॒व॒मा॒नीस्स्व॒स्त्यय॑नीः । सु॒दुघा॒हि घृ॑त॒श्चुतः॑ ।  
-ऋषि॑भि॒स्संभृ॑तो॒ रसः॑ । ब्रा॒ह्म॒णेष्व॒मृतꣳ॑ हि॒तम् ।  
+ऋषि॑भि॒स्सम्भृ॑तो॒ रसः॑ । ब्रा॒ह्म॒णेष्व॒मृतꣳ॑ हि॒तम् ।  
 येन॑ दे॒वाः प॒वित्रे॑ण । आ॒त्मानं॑ पु॒नते॒ सदा᳚।  
 तेन॑ स॒हस्र॑धारेण । पा॒व॒मा॒न्यः पु॑नन्तु मा ।  
 प्रा॒जा॒प॒त्यं प॒वित्रम्᳚। श॒तोध्या॑मꣳ हिर॒ण्मयम्᳚।  

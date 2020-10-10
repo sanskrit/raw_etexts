@@ -1,22 +1,22 @@
-+++
-"Text title" = "balarAmakavacha"
-"File name" = "balarAmakavacha.itx"
-itxtitle = "balarAmakavacham"
-engtitle = "balarAmakavacham"
-Category = "kavacha, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com http://satsangdhara.net/"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com, Vishwas Bhide"
-Description-comments = "from Garga Samhita, Balabhadrakhanda, Adhyaya 12"
-"Latest update" = "April 18, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बलरामकवचम्"
+---
+Category: kavacha, deities_misc
+Description-comments: from Garga Samhita, Balabhadrakhanda, Adhyaya 12
+File name: balarAmakavacha.itx
+Language: Sanskrit
+Latest update: April 18, 2014
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com, Vishwas Bhide
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: balarAmakavacha
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com http://satsangdhara.net/
+engtitle: balarAmakavacham
+itxtitle: balarAmakavacham
+title: बलरामकवचम्
 
-+++
+---
   
  बलरामकवचम्   
   
@@ -26,7 +26,7 @@ title = "बलरामकवचम्"
   
 प्राड्विपाक उवाच -  
 स्नात्वा जले क्षौमधरः कुशासनः पवित्रपाणिः कृतमन्त्रमार्जनः ॥   
-स्मृत्वाथ नत्वा बलमच्युताग्रजं  संधारयेद्धर्मसमाहितो भवेत् ॥ २॥  
+स्मृत्वाथ नत्वा बलमच्युताग्रजं  सन्धारयेद्धर्मसमाहितो भवेत् ॥ २॥  
   
 गोलोकधामाधिपतिः परेश्वरः परेषु मां पातु पवित्रकीर्तनः ॥   
 भूमण्डलं सर्षपवद्विलक्ष्यते यन्मूर्ध्नि मां पातु स भूमिमण्डले ॥ ३॥  

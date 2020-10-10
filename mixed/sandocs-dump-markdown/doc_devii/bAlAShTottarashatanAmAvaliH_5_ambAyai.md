@@ -1,24 +1,24 @@
-+++
-"Text title" = "bAlAShTottarashatanAmAvalI 5"
-"File name" = "bAlAShTottarashatanAmAvalI5.itx"
-itxtitle = "bAlAShTottarashatanAmAvaliH 5 (ambAyai)"
-engtitle = "bAlAShTottarashatanAmAvalI 5"
-Category = "aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Balasaparya"
-Indexextra = "(Scan)"
-"Latest update" = "August 23, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाष्टोत्तरशतनामावलिः ५ (अम्बायै)"
+---
+Category: aShTottarashatanAmAvalI, devii, dashamahAvidyA, nAmAvalI, devI
+Description-comments: Balasaparya
+File name: bAlAShTottarashatanAmAvalI5.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 23, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAShTottarashatanAmAvalI 5
+Texttype: nAmAvalI
+engtitle: bAlAShTottarashatanAmAvalI 5
+itxtitle: bAlAShTottarashatanAmAvaliH 5 (ambAyai)
+title: बालाष्टोत्तरशतनामावलिः ५ (अम्बायै)
 
-+++
+---
   
  श्रीबालाष्टोत्तरनामावलिः ५   
 ओं ऐं ह्रीं श्रीं अम्बायै नमः । मात्रे नमः । महालक्ष्म्यै नमः ।  

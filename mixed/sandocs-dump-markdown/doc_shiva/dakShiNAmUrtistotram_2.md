@@ -1,24 +1,25 @@
-+++
-"Text title" = "daxiNAmUrti stotram 2"
-"File name" = "dakshina2.itx"
-itxtitle = "dakShiNAmUrtistotram 2"
-engtitle = "daxiNAmUrti stotram 2"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Subramanian Ganesh sgesh at hotmail.com"
-"Proofread by" = "Subramanian Ganesh sgesh at hotmail.com, Sunder  Hattangadi, Avinsah Sathaye"
-Indexextra = "(info)"
-"Latest update" = "March 15, 2001, July 9, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्तिस्तोत्रम् २"
+---
+Author: Traditional
+Category: shiva, stotra
+File name: dakshina2.itx
+Indexextra: (info)
+Language: Sanskrit
+Latest update: March 15, 2001, July 9, 2010
+Location: doc_shiva
+Proofread by: Subramanian Ganesh sgesh at hotmail.com, Sunder  Hattangadi, Avinsah
+  Sathaye
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: daxiNAmUrti stotram 2
+Texttype: stotra
+Transliterated by: Subramanian Ganesh sgesh at hotmail.com
+engtitle: daxiNAmUrti stotram 2
+itxtitle: dakShiNAmUrtistotram 2
+title: दक्षिणामूर्तिस्तोत्रम् २
 
-+++
+---
   
  श्रीदक्ष्निणामूर्तिस्तोत्रम् २   
   
@@ -35,12 +36,12 @@ title = "दक्षिणामूर्तिस्तोत्रम् २"
 कठोरसंसारनिदाघतप्तान्मुनीनहं नौमि गुरुं गुरूणाम् ॥ ४॥  
   
 ममाद्यदेवो वटमूलवासी कृपाविशेषात्कृतसन्निधानः ।  
-ओंकाररूपामुपदिश्य विद्यामाविद्यकध्वान्तमपाकरोतु ॥ ५॥  
+ओङ्काररूपामुपदिश्य विद्यामाविद्यकध्वान्तमपाकरोतु ॥ ५॥  
   
 कलाभिरिन्दोरिव कल्पिताङ्गं मुक्ताकलापैरिव बद्धमूर्तिम् ।  
 आलोकये देशिकमप्रमेयमनाद्यविद्यातिमिरप्रभातम् ॥ ६॥  
   
-स्वदक्षजानुस्थितवामपादं पादोदरालंकृतयोगपट्टम् ।  
+स्वदक्षजानुस्थितवामपादं पादोदरालङ्कृतयोगपट्टम् ।  
 अपस्मृतेराहितपादमङ्गे प्रणौमि देवं प्रणिधानवन्तम् ॥ ७॥  
   
 तत्त्वार्थमन्तेवसतामृषीणां युवाऽपि यः सन्नुपदेष्टुमीष्टे ।  
@@ -59,7 +60,7 @@ title = "दक्षिणामूर्तिस्तोत्रम् २"
 तं दक्षिणामूर्तितनुं महेशमुपास्महे मोहमहार्तिशान्त्यै ॥ १२॥  
   
 कान्त्या निन्दितकुन्दकन्दलवपुर्न्यग्रोधमूले वस -  
-     न्कारुण्यामृतवारिभिर्मुनिजनं संभावयन्वीक्षितैः ।  
+     न्कारुण्यामृतवारिभिर्मुनिजनं सम्भावयन्वीक्षितैः ।  
 मोहध्वान्तविभेदनं विरचयन्बोधेन तत्तादृशा  
      देवस्तत्त्वमसीति बोधयतु मां मुद्रावता पाणिना ॥ १३॥  
   

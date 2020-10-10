@@ -1,21 +1,22 @@
-+++
-"Text title" = "chakrarAjavarNanam"
-"File name" = "chakrarAjavarNanam.itx"
-itxtitle = "chakrarAjavarNanam"
-engtitle = "chakrarAjavarNanam"
-Category = "devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "March 23, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चक्रराजवर्णनम्"
+---
+Category: devii, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: chakrarAjavarNanam.itx
+Language: Sanskrit
+Latest update: March 23, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: chakrarAjavarNanam
+engtitle: chakrarAjavarNanam
+itxtitle: chakrarAjavarNanam
+title: चक्रराजवर्णनम्
 
-+++
+---
   
  श्रीचक्रराजवर्णनम्   
   
@@ -91,7 +92,7 @@ title = "चक्रराजवर्णनम्"
 दिव्यौघसिद्धौघमर्त्यौधवृन्दं च सालोक्यसारूप्यसायुज्यसिद्धिं  
 गतं देवि भक्त्या नमामि स्वमूर्ध्ना नमामि स्वमूर्ध्ना ॥ १२॥  
   
-ह्रींबीजगम्ये ततो देवि धिष्ण्ये कलासङ्ख्यकास्ताश्च नित्यस्वरूपाश्च  
+ह्रीम्बीजगम्ये ततो देवि धिष्ण्ये कलासङ्ख्यकास्ताश्च नित्यस्वरूपाश्च  
 कामेश्वरीमुख्यदेवीः समाना नमामि स्वमूर्घ्ना नमामि स्वमूर्ध्ना ॥ १३॥  
   
 सत्यस्वरूपस्य बिन्दोः समीपे सदा रक्षणार्थं धृतास्त्राः  

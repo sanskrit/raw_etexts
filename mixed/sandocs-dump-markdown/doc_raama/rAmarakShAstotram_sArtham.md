@@ -1,25 +1,25 @@
-+++
-"Text title" = "sArtha raamarakShA"
-"File name" = "ramarakmean.itx"
-itxtitle = "rAmarakShAstotram (sArtham)"
-engtitle = "rAmarakShAstotra (meanings)"
-Category = "raksha, raama, svara, budhakauShika, kavacha"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "svara"
-Author = "budhakauShika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA, S. V. Ganesan"
-"Proofread by" = "S. V. Ganesan, Shashi and Avinash Sathaye"
-"Translated by" = "S. V. Ganesan"
-Indexextra = "(Marathi 1, 2, 3, Hindi 1, English 1, 2)"
-"Latest update" = "October 22, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामरक्षास्तोत्रम् (सार्थम्)"
+---
+Author: budhakauShika
+Category: raksha, raama, svara, budhakauShika, kavacha
+File name: ramarakmean.itx
+Indexextra: (Marathi 1, 2, 3, Hindi 1, English 1, 2)
+Language: Sanskrit
+Latest update: October 22, 2002
+Location: doc_raama
+Proofread by: S. V. Ganesan, Shashi and Avinash Sathaye
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: sArtha raamarakShA
+Texttype: svara
+Translated by: S. V. Ganesan
+Transliterated by: NA, S. V. Ganesan
+engtitle: rAmarakShAstotra (meanings)
+itxtitle: rAmarakShAstotram (sArtham)
+title: रामरक्षास्तोत्रम् (सार्थम्)
 
-+++
+---
   
  सार्थ श्रीरामरक्षास्तोत्र   
   
@@ -47,30 +47,30 @@ Thus begins the  hymn of Lord Ram for protection.
 OM, Salutations to Lord Ganesh.  
   
   
-अस्य श्रीरामरक्षास्तोत्रमंत्रस्य । बुधकौशिक ऋषिः ।  
-श्रीसीतारामचंद्रो देवता । अनुष्टुभ् छंदः  ।  
+अस्य श्रीरामरक्षास्तोत्रमन्त्रस्य । बुधकौशिक ऋषिः ।  
+श्रीसीतारामचन्द्रो देवता । अनुष्टुभ् छन्दः  ।  
 सीता शक्तिः । श्रीमद् हनुमान् कीलकम् ।  
-श्रीरामचंद्रप्रीत्यर्थे रामरक्षास्तोत्रजपे विनियोगः ॥  
+श्रीरामचन्द्रप्रीत्यर्थे रामरक्षास्तोत्रजपे विनियोगः ॥  
   
   
  अस्य    (asya) = of this ;  
  रामरक्षा    (rAmarakShA) = rAma armour or rama- protection ;  
  स्तोत्र    (stotra) = hymn ;  
- मंत्रस्य    (ma.ntrasya) = mantra's ;  
+ मन्त्रस्य    (ma.ntrasya) = mantra's ;  
  बुधकौशिक    (budhakaushika) = the person budhakaushika ;  
  ऋषिः    (RiShiH) = the sage ;  
  श्री    (shrI) = respectful prefix ;  
  सीता    (sItA) = sItA (Lord Ram's consort) ;  
- रामचंद्रो    (rAmacha.ndro) = Lord RAmachandra ;  
+ रामचन्द्रो    (rAmacha.ndro) = Lord RAmachandra ;  
  देवता    (devatA) = God or little god ;  
  अनुष्टुब्    (anuShTub) = the format's name ;  
- छंदः    (Cha.ndaH) = metre (poetic) ;  
+ छन्दः    (Cha.ndaH) = metre (poetic) ;  
  सीता    (sItA) = Lord Ram's consort sItA ;  
  शक्तिः    (shaktiH) =  power, energy ;  
  श्रीमद्    (shrImad) = respectful prefix ;  
  हनुमान्    (hanumAn) = Lord HanumAn ;  
  कीलकम्    (kIlakam) = pivot point ;  
- श्रीरामचंद्रप्रीत्यर्थे    (shrIrAmacha.ndraprItyarthe) = For pleasing  
+ श्रीरामचन्द्रप्रीत्यर्थे    (shrIrAmacha.ndraprItyarthe) = For pleasing  
          the Lord sItArAma ;  
  रामरक्षास्तोत्रजपे    (rAmarakShAstotrajape) = in the chanting of  
          rAmarakSha hymn ;  
@@ -94,8 +94,8 @@ recite.
   
 ध्यायेदाजानुबाहुं धृतशरधनुषं बद्धपद्मासनस्थं  
 पीतं वासो वसानं नवकमलदलस्पर्धिनेत्रं प्रसन्नम् ।  
-वामांकारूढ सीतामुखकमलमिलल्लोचनं नीरदाभं  
-नानालंकारदीप्तं दधतमुरुजटामंडनं रामचंद्रम् ॥  
+वामाङ्कारूढ सीतामुखकमलमिलल्लोचनं नीरदाभं  
+नानालङ्कारदीप्तं दधतमुरुजटामण्डनं रामचन्द्रम् ॥  
   
   
  ध्यायेद्    (dhyAyed) = one should meditate ;  
@@ -114,7 +114,7 @@ nine)
  स्पर्धि    (spardhi) = competing ;  
  नेत्रं    (netraM) = eye ;  
  प्रसन्नम्    (prasannam) = with pleasant/satisfied look ;  
- वामांकारूढ    (vAmA.nkArUDha) = having the left side of the body  
+ वामाङ्कारूढ    (vAmA.nkArUDha) = having the left side of the body  
          climbed/occupied by ;  
  सीता    (sItA) = sItA ;  
  मुख    (mukha) = face ;  
@@ -123,12 +123,12 @@ nine)
  नीरदाभम्    (nIradAbham) = bearing a resemblance to rain-bearing  
          cloud i.e with blackish complexion ;  
  नाना    (nAnA) = various, many-sided ;  
- अलंकारदीप्तं    (ala.nkAradIptaM) = shining with  
+ अलङ्कारदीप्तं    (ala.nkAradIptaM) = shining with  
          adornments/decorations ;  
  दधतम्    (dadhatam) = wearing ;  
  उरुजटा    (urujaTA) = jaTA (hair) upto his thighs ;  
- मंडनं     (ma.nDanaM) = profusely-adorned ;  
- रामचंद्रम्    (rAmacha.ndram) =  rAmachandra ;  
+ मण्डनं     (ma.nDanaM) = profusely-adorned ;  
+ रामचन्द्रम्    (rAmacha.ndram) =  rAmachandra ;  
   
 ॥ इति ध्यानम् ॥  
   
@@ -169,7 +169,7 @@ The life story of Shri RAma has a vast expanse and each and every letter  of it
 is capable of destroying even the greatest sins of mankind.  (1)   
   
 ध्यात्वा नीलोत्पलश्यामं रामं राजीवलोचनम् ।  
-जानकीलक्ष्मणोपेतं जटामुकुटमंडितम् ॥ २॥  
+जानकीलक्ष्मणोपेतं जटामुकुटमण्डितम् ॥ २॥  
   
   
  ध्यात्वा    (dhyAtvA) = having meditated ;  
@@ -180,7 +180,7 @@ is capable of destroying even the greatest sins of mankind.  (1)
  लोचनम्    (lochanam) = eyes ;  
  जानकीलक्ष्मणोपेतं    (jAnakIlakShmaNopetaM) = having LakShmana  
             and JAnakI (sitA) nearby ;  
- जटामुकुटमंडितम्    (jaTAmukuTama.nDitam) = adorned by locks  
+ जटामुकुटमण्डितम्    (jaTAmukuTama.nDitam) = adorned by locks  
             of hair forming a crown ;  
 2  
   
@@ -190,7 +190,7 @@ Let us meditate on the lotus-eyed, dark-complexioned Rama who is well-
 adorned with a crown of hair and has Sita and LakShmana alongside. (2)  
   
   
-सासितूणधनुर्बाणपाणिं नक्तंचरान्तकम् ।  
+सासितूणधनुर्बाणपाणिं नक्तञ्चरान्तकम् ।  
 स्वलीलया जगत्रातुं आविर्भूतं अजं विभुम् ॥ ३॥  
   
   
@@ -199,7 +199,7 @@ adorned with a crown of hair and has Sita and LakShmana alongside. (2)
  तूण   (tUNa) = receptacle ;  
  धनुः    (dhanuH) = Bow ;  
  बाणपाणिं    (bANapANiM) = with hand holding arrow (and Bow) ;  
- नक्तंचरान्तकम्    (nakta.ncharAntakam) = the finisher(destroyer)  
+ नक्तञ्चरान्तकम्    (nakta.ncharAntakam) = the finisher(destroyer)  
               of the night-wanderers(rAkShasAs) ;  
  स्वलीलया    (svalIlayA) = sva+lIlaya, through one's play-like action ;  
  जगत्    (jagat) = world ;  
@@ -269,16 +269,16 @@ of vishvAmitra protect my ears. rAma who is savior of yaj~na protect my nose.
 rAma who is affectionate to lakShmaNa protect my mouth. (5)  
   
   
-जिव्हां विद्यानिधिः पातु कंठं भरतवंदितः ।  
-स्कंधौ दिव्यायुधः पातु भुजौ भग्नेशकार्मुकः ॥ ६॥  
+जिव्हां विद्यानिधिः पातु कण्ठं भरतवन्दितः ।  
+स्कन्धौ दिव्यायुधः पातु भुजौ भग्नेशकार्मुकः ॥ ६॥  
   
   
  जिव्हां    (jivhAM) = tongue ;  
  विद्यानिधिः    (vidyAnidhiH) = the stock-pile of knowledge (here rAma) ;  
  पातु    (pAtu) = may he protect ;  
- कंठं    (ka.nThaM) = neck ;  
- भरतवंदितः    (bharatava.nditaH) = the who has been saluted by Bharata ;  
- स्कंधौ    (ska.ndhau) = two shoulders ;  
+ कण्ठं    (ka.nThaM) = neck ;  
+ भरतवन्दितः    (bharatava.nditaH) = the who has been saluted by Bharata ;  
+ स्कन्धौ    (ska.ndhau) = two shoulders ;  
  दिव्यायुधः    (divyAyudhaH) = the man with divine weapons ;  
  पातु    (pAtu) = may he protect ;  
  भुजौ    (bhujau) = two upper arms ;  
@@ -349,14 +349,14 @@ May rAma who is the best of raghus and who destroyed the
 lineage of rAkShasa protect my two thighs .                               (8)  
   
   
-जानुनी सेतुकृत्पातु जंघे दशमुखान्तकः ।  
+जानुनी सेतुकृत्पातु जङ्घे दशमुखान्तकः ।  
 पादौ बिभीषणश्रीदः पातु रामोखिलं वपुः ॥ ९॥  
   
   
  जानुनी    (jAnunI) = knees ;  
  सेतुकृत्    (setukRit) = the builder of bridge (over the sea) ;  
  पातु    (pAtu) = protect ;  
- जंघे    (ja.nghe) = two shanks (leg from ankle to knee) ;  
+ जङ्घे    (ja.nghe) = two shanks (leg from ankle to knee) ;  
  दशमुखान्तकः    (dashamukhAntakaH) = the finisher (destroyer)  
             of the ten-faced one (rAvaNa) ;  
  पादौ    (pAdau) = two feet ;  
@@ -431,14 +431,14 @@ their forms, will even be able to see the man
 protected by  rAmanAma . (let alone bring any harm to him). (11)  
   
   
-रामेति रामभद्रेति रामचंद्रेति वा स्मरन् ।  
+रामेति रामभद्रेति रामचन्द्रेति वा स्मरन् ।  
 नरो न लिप्यते पापैः भुक्तिं मुक्तिं च विन्दति ॥ १२॥  
   
   
  रामेति    (rAmeti) = rAma+iti saying thus rAma ;  
  रामभद्रेति    (rAmabhadreti) = rAmabhadra+iti saying  `rAmabhadra'  
  रामभद्र    (rAmabhadra) = rAma who gives the well-being ;  
- रामचंद्रेति    (rAmacha.ndreti) = saying `rAmachandra' ;  
+ रामचन्द्रेति    (rAmacha.ndreti) = saying `rAmachandra' ;  
  वा    (vA) = or ;  
  स्मरन्    (smaran) = reciting ;  
  नरो    (naro) = man ;  
@@ -457,17 +457,17 @@ No sin can attach to the man who singeth the praise of the lord and he will
 prosper in this world and get salvation .                               (12)  
   
   
-जगज्जैत्रेक मंत्रेण रामनाम्नाऽभिरक्षितम् ।  
-यः कंठे धारयेतस्य करस्थाः सर्वसिद्धुयः ॥ १३॥  
+जगज्जैत्रेक मन्त्रेण रामनाम्नाऽभिरक्षितम् ।  
+यः कण्ठे धारयेतस्य करस्थाः सर्वसिद्धुयः ॥ १३॥  
   
   
  जगज्जैत्र    (jagajjaitra) = jagat+jetra in the world +here ;  
  एक    (eka) = one ;  
- मंत्रेण    (ma.ntreNa) = by the mantra ;  
+ मन्त्रेण    (ma.ntreNa) = by the mantra ;  
  रामनाम्ना    (rAmanAmnA) = by the name of rAma ;  
  अभिरक्षितम्    (abhirakShitam) = who has been well protected ;  
  यः    (yaH) = who ;  
- कंठे    (ka.nThe) = in the neck ;  
+ कण्ठे    (ka.nThe) = in the neck ;  
  धरयेत्    (dharayet) = bears ;  
  तस्य   (tasya) = his ;  
  करस्थाः    (karasthAH) = obtaining(literally standing) in his very hands ;  
@@ -481,8 +481,8 @@ One who wears this mantra of rAma nAma that has conquered the world
 around his neck will have all the powers at his beck and call . (13)  
   
   
-वज्रपंजरनामेदं यो रामकवचं स्मरेत् ।  
-अव्याहताज्ञः सर्वत्र लभते जयमंगलम् ॥ १४॥  
+वज्रपञ्जरनामेदं यो रामकवचं स्मरेत् ।  
+अव्याहताज्ञः सर्वत्र लभते जयमङ्गलम् ॥ १४॥  
   
   
  वज्र   (vajra) =  indra's weapon, pa.njara  weapon) ;  
@@ -492,7 +492,7 @@ around his neck will have all the powers at his beck and call . (13)
  अव्याहताज्ञः    (avyAhatAj~naH) = avyAhatA+AgyA yasya not feeling the hit;  
  सर्वत्र    (sarvatra) = everywhere ;  
  लभते    (labhate) = obtains ;  
- जयमंगलम्    (jayama.ngalam) = victory that is auspicious ;  
+ जयमङ्गलम्    (jayama.ngalam) = victory that is auspicious ;  
 14  
   
           भावार्थ:   
@@ -547,16 +547,16 @@ Rama, who grants all desires, removes all obstacles and is the praise
 of all three worlds, is our `Lord' indeed .                               (16)  
   
   
-तरुणौ रूपसंपन्नौ सुकुमारौ महाबलौ ।  
-पुंडरीकविशालाक्षौ चीरकृष्णाजिनाम्बरौ ॥ १७॥  
+तरुणौ रूपसम्पन्नौ सुकुमारौ महाबलौ ।  
+पुण्डरीकविशालाक्षौ चीरकृष्णाजिनाम्बरौ ॥ १७॥  
   
   
  तरुणौ    (taruNau) = (two)youths ;  
- रूपसंपन्नौ    (rUpasa.npannau) = (two)persons endowed with  
+ रूपसम्पन्नौ    (rUpasa.npannau) = (two)persons endowed with  
                beautiful appearance ;  
  सुकुमारौ    (sukumArau) = (two) handsome young lads ;  
  महाबलौ    (mahAbalau) = (two)great powerful persons ;  
- पुंडरीक    (pu.nDarIka) = lotus ;  
+ पुण्डरीक    (pu.nDarIka) = lotus ;  
  विशालाक्षौ    (vishAlAkShau) = (two)persons with (lotus-like)large eyes ;  
  चीर    (chIra) = dress made of bark? ;  
  कृष्णाजिनाम्बरौ    (kRiShNAjinAmbarau) = (two) persons wearing  
@@ -594,7 +594,7 @@ penance and celibacy, (continued in the next.) (18)
   
   
 शरण्यौ सर्वसत्त्वानां श्रेष्ठौ सर्वधनुष्मताम् ।  
-रक्षः कुलनिहंतारौ त्रायेतां नो रघूत्तमौ ॥ १९॥  
+रक्षः कुलनिहन्तारौ त्रायेतां नो रघूत्तमौ ॥ १९॥  
   
   
  शरण्यौ    (sharaNyau) = the refuge, the ones who should be  
@@ -604,7 +604,7 @@ penance and celibacy, (continued in the next.) (18)
  श्रेष्ठौ    (shreShThau) = the best (2 persons) ;  
  सर्वधनुष्मताम्    (sarvadhanuShmatAm) = of all archers ;  
  रक्षः    (rakShaH) = rAksshasa (demons) ;  
- कुलनिहंतारौ    (kulaniha.ntArau) = family+destroyers (2 persons) ;  
+ कुलनिहन्तारौ    (kulaniha.ntArau) = family+destroyers (2 persons) ;  
  त्रायेतां    (trAyetAM) = (may the two) protect/save (us).  
               (for one persons the verb is  trAyet)  
  नो    (no) = us ;  
@@ -618,7 +618,7 @@ archers, the destroyers of the demons  and the refuge of all beings,
 (may they) protect us .                               (19)  
   
   
-आत्तसज्जधनुषाविषुस्पृशावक्षयाशुगनिषंगसंगिनौ ।  
+आत्तसज्जधनुषाविषुस्पृशावक्षयाशुगनिषङ्गसङ्गिनौ ।  
 रक्षणाय मम रामलक्ष्मणावग्रतः पथि सदैव गच्छताम् ॥ २०॥  
   
   
@@ -629,8 +629,8 @@ archers, the destroyers of the demons  and the refuge of all beings,
 इषुस्पृशौ   (iShuspRishau) = (two) touching their arrows ;  
 अक्षय   (akShaya) = unending ;  
 आशुग   (Ashuga) = fast ;  
-निषंग   (niSha.nga) = arrow ;  
-संगिनौ   (sa.nginau) = quiver carrying ;  
+निषङ्ग   (niSha.nga) = arrow ;  
+सङ्गिनौ   (sa.nginau) = quiver carrying ;  
  रक्षणाय    (rakShaNAya) = for protection ;  
  मम    (mama) = my ;  
  रामलक्ष्मणावग्रतः    (rAmalakShmaNAvagrataH) = rAmalakShmaNau+agrataH  
@@ -745,7 +745,7 @@ doubt about it .                               (24)
   
   
 रामं दुर्वादलश्यामं पद्माक्षं पीतवाससम् ।  
-स्तुवंति नामभिर्दिव्यैः न ते संसारिणो नरः ॥ २५॥  
+स्तुवन्ति नामभिर्दिव्यैः न ते संसारिणो नरः ॥ २५॥  
   
   
  रामं    (rAmaM) = rAma ;  
@@ -753,7 +753,7 @@ doubt about it .                               (24)
                `durvA' (blue grass) ;  
  पद्माक्षं    (padmAkShaM) = lotus-eyed ;  
  पीतवाससम्    (pItavAsasam) = wearing the yellow dress ;  
- स्तुवंति    (stuva.nti) = praise, flatter ;  
+ स्तुवन्ति    (stuva.nti) = praise, flatter ;  
  नामभिर्दिव्यैः    (nAmabhirdivyaiH) = by the divine `nAmAs'(names) ;  
  न    (na) = not ;  
  ते    (te) = to them ;  
@@ -768,10 +768,10 @@ dressed in yellow clothes) thro' this hymn, are (no longer) ordinary men
 trapped in the world (they get liberated!)                               (25)  
   
   
-रामं लक्ष्मणपूर्वजं रघुवरं सीतापतिं सुंदरं  
+रामं लक्ष्मणपूर्वजं रघुवरं सीतापतिं सुन्दरं  
 काकुत्स्थं करुणार्णवं गुणनिधिं विप्रप्रियं धार्मिकम् ।  
-राजेंद्रं सत्यसंधं दशरथतनयं श्यामलं शांतमूर्तिं  
-वंदे लोकाभिरामं रघुकुलतिलकं राघवं रावणारिम् ॥ २६॥  
+राजेन्द्रं सत्यसन्धं दशरथतनयं श्यामलं शान्तमूर्तिं  
+वन्दे लोकाभिरामं रघुकुलतिलकं राघवं रावणारिम् ॥ २६॥  
   
   
  रामं    (rAmaM) = rAma ;  
@@ -779,19 +779,19 @@ trapped in the world (they get liberated!)                               (25)
                of LakShmaNa ;  
  रघुवरं    (raghuvaraM) = the chosen Raghu ;  
  सीतापतिं    (sItApatiM) = sitA's husband ;  
- सुंदरम्    (su.ndaram) = the handsome one ;  
+ सुन्दरम्    (su.ndaram) = the handsome one ;  
  काकुत्स्थं    (kAkutsthaM) =  kAkutsthaH is another family name for  
                rAma(kakutstha's descendant) ;  
  करुणार्णवं    (karuNArNavaM) = the ocean of `karuna' (compassion) ;  
  गुणनिधिं    (guNanidhiM) = the stock-pile of good qualities ;  
  विप्रप्रियं    (viprapriyaM) = the beloved of the Brahmins ;  
  धार्मिकम्    (dhArmikam) = the religious one ;  
- राजेंद्रं    (rAje.ndraM) = the lord of kings ;  
- सत्यसंधं    (satyasa.ndhaM) = the one bound by Truth ;  
+ राजेन्द्रं    (rAje.ndraM) = the lord of kings ;  
+ सत्यसन्धं    (satyasa.ndhaM) = the one bound by Truth ;  
  दशरथतनयं    (dasharathatanayaM) = the son of dasharatha ;  
  श्यामलं    (shyAmalaM) = the dark-complexioned one ;  
- शांतमूर्तिम्    (shA.ntamUrtim) =  the personification of peace ;  
- वंदे    (va.nde) = (I - says shiva to budhakaushika) salute or bow ;  
+ शान्तमूर्तिम्    (shA.ntamUrtim) =  the personification of peace ;  
+ वन्दे    (va.nde) = (I - says shiva to budhakaushika) salute or bow ;  
  लोकाभिरामं    (lokAbhirAmaM) = the one who is pleasing to the people ;  
  रघुकुलतिलकं    (raghukulatilakaM) = the mark (e.g . one on the  
                forehead) of the Raghu family ;  
@@ -812,13 +812,13 @@ Ravana, the crown jewel of the Raghu dynaty and the
 cynosure of all eyes .                               (26)  
   
   
-रामाय रामभद्राय रामचंद्राय वेधसे ।  
+रामाय रामभद्राय रामचन्द्राय वेधसे ।  
 रघुनाथाय नाथाय सीतायाः पतये नमः ॥ २७॥  
   
   
  रामाय    (rAmAya) = to rAma ;  
  रामभद्राय    (rAmabhadrAya) = to the good-giving/protecting RAma ;  
- रामचंद्राय    (rAmacha.ndrAya) = to rAmachandra ;  
+ रामचन्द्राय    (rAmacha.ndrAya) = to rAmachandra ;  
  वेधसे    (vedhase) = to the Brahman (like rAma) ;  
  रघुनाथाय    (raghunAthAya) = to the lord of Raghus ;  
  नाथाय    (nAthAya) = to the protector or lord ;  
@@ -833,7 +833,7 @@ I salute that Rama who is benevolent and cool as moon, and who is the lord
 of Sita and the master guardian of all .                               (27)  
   
   
-श्रीराम राम रघुनंदन राम राम  
+श्रीराम राम रघुनन्दन राम राम  
 श्रीराम राम भरताग्रज राम राम ।  
 श्रीराम राम रणकर्कश राम राम  
 श्रीराम राम शरणं भव राम राम ॥ २८॥  
@@ -841,7 +841,7 @@ of Sita and the master guardian of all .                               (27)
   
  श्रीराम    (shrIrAma) = Lord Rama ;  
  राम    (rAma) = Rama ;  
- रघुनंदन    (raghuna.ndana) = the delighter of the Raghus ;  
+ रघुनन्दन    (raghuna.ndana) = the delighter of the Raghus ;  
  श्रीराम    (shrIrAma) = Lord Rama ;  
  भरताग्रज    (bharatAgraja) = the one born before Bharata  
                (elder of bharata) ;  
@@ -858,13 +858,13 @@ I surender to that Rama who is the delight of the Raghus, elder brother of
 Bharata and the tormentor of his enemies in the war . (28)  
   
   
-श्रीरामचंद्रचरणौ मनसा स्मरामि  
-श्रीरामचंद्रचरणौ वचसा गृणामि ।  
-श्रीरामचंद्रचरणौ शिरसा नमामि  
-श्रीरामचंद्रचरणौ शरणं प्रपद्ये ॥ २९॥  
+श्रीरामचन्द्रचरणौ मनसा स्मरामि  
+श्रीरामचन्द्रचरणौ वचसा गृणामि ।  
+श्रीरामचन्द्रचरणौ शिरसा नमामि  
+श्रीरामचन्द्रचरणौ शरणं प्रपद्ये ॥ २९॥  
   
   
- श्रीरामचंद्रचरणौ    (shrIrAmacha.ndracharaNau) = the  two feet  
+ श्रीरामचन्द्रचरणौ    (shrIrAmacha.ndracharaNau) = the  two feet  
                  of rAmachandra ;  
  मनसा    (manasA) = with the mind ;  
  स्मरामि    (smarAmi) = remember ;  
@@ -882,9 +882,9 @@ The two feet of Rama, I  remember them in my mind, I praise them by
 my speech, I bow to them by my head I take resort in them! (29)  
   
   
-माता रामो मत्पिता रामचंद्रः ।  
-स्वामी रामो मत्सखा रामचंद्रः ।  
-सर्वस्वं मे रामचंद्रो दयालुः ।  
+माता रामो मत्पिता रामचन्द्रः ।  
+स्वामी रामो मत्सखा रामचन्द्रः ।  
+सर्वस्वं मे रामचन्द्रो दयालुः ।  
 नान्यं जाने नैव जाने न जाने ॥ ३०॥  
   
   
@@ -892,15 +892,15 @@ my speech, I bow to them by my head I take resort in them! (29)
  रामो    (rAmo) = rAmaH(rAma) ;  
  मत्    (mat) = mine ;  
  पिता    (pitA) = father ;  
- रामचंद्रः    (rAmacha.ndraH) = rAma ;  
+ रामचन्द्रः    (rAmacha.ndraH) = rAma ;  
  स्वामी    (svAmI) = the master ;  
  रामो    (rAmo) = rAmaH :rAma ;  
  मत्    (mat) = mine ;  
  सखा    (sakhA) = friend ;  
- रामचंद्रः    (rAmacha.ndraH) = the moon-like rAma ;  
+ रामचन्द्रः    (rAmacha.ndraH) = the moon-like rAma ;  
  सर्वस्वं    (sarvasvaM) = all of one's belongings/holding ;  
  मे    (me) = mine or to me ;  
- रामचंद्रो    (rAmacha.ndro) = rAma ;  
+ रामचन्द्रो    (rAmacha.ndro) = rAma ;  
  दयालुः    (dayAluH) = the kind-hearted ;  
  नान्यं    (nAnyaM) = na+anyaM no other;  
  जाने    (jAne) = I know ;  
@@ -917,7 +917,7 @@ Rama is all I have . I know of no other (like him), (I really) don't! (30)
   
   
 दक्षिणे लक्ष्मणो यस्य वामे तु जनकात्मजा ।  
-पुरतो मारुतिर्यस्य तं वंदे रघुनंदनम् ॥ ३१॥  
+पुरतो मारुतिर्यस्य तं वन्दे रघुनन्दनम् ॥ ३१॥  
   
   
  दक्षिणे    (dakShiNe) = to the right ;  
@@ -929,8 +929,8 @@ Rama is all I have . I know of no other (like him), (I really) don't! (30)
  पुरतो    (purato) = in the front ;  
  मारुतिर्यस्य    (mArutiryasya) = mArutiH+yasya Hanuman+whose;  
  तं    (taM) = him ;  
- वंदे    (va.nde) = I salute/bow ;  
- रघुनंदनम्    (raghuna.ndanam) =  the delighter of Raghus ;  
+ वन्दे    (va.nde) = I salute/bow ;  
+ रघुनन्दनम्    (raghuna.ndanam) =  the delighter of Raghus ;  
 31  
   
           भावार्थ:   
@@ -939,20 +939,20 @@ I salute that Rama who has LakShmana on his right and  Sita on the
 left and who has Hanuman in his front .                               (31)  
   
   
-लोकाभिरामं रणरंगधीरम् ।  
+लोकाभिरामं रणरङ्गधीरम् ।  
 राजीवनेत्रं रघुवंशनाथम् ।  
 कारुण्यरूपं करुणाकरं तम् ।  
-श्रीरामचंद्रम् शरणं प्रपद्ये ॥ ३२॥  
+श्रीरामचन्द्रम् शरणं प्रपद्ये ॥ ३२॥  
   
   
  लोकाभिरामं    (lokAbhirAmaM) = the one who is pleasing to the people ;  
- रणरंगधीरम्    (raNara.ngadhIram) =  the brave in the stage of war ;  
+ रणरङ्गधीरम्    (raNara.ngadhIram) =  the brave in the stage of war ;  
  राजीवनेत्रं    (rAjIvanetraM) = the lotus-eyed ;  
  रघुवंशनाथम्    (raghuva.nshanAtham) =  the lord of the Raghu family ;  
  कारुण्यरूपं    (kAruNyarUpaM) = the personification of compassion ;  
  करुणाकरं    (karuNAkara.n) = the one induces compassion ;  
  तम्    (tam) = him ;  
- श्रीरामचंद्रम्    (shrIrAmacha.ndram) =  rAma ;  
+ श्रीरामचन्द्रम्    (shrIrAmacha.ndram) =  rAma ;  
  शरणं    (sharaNaM) = refuge ;  
  प्रपद्ये    (prapadye) = (I) resort to ;  
 32  
@@ -993,18 +993,18 @@ amongst the learned, the leader of the Monkey forces and the great messenger
 of Shri Rama .                               (33)  
   
   
-कूजंतं राम रामेति मधुरं मधुराक्षरम् ।  
-आरुह्य कविताशाखां वंदे वाल्मीकिकोकिलम् ॥ ३४॥  
+कूजन्तं राम रामेति मधुरं मधुराक्षरम् ।  
+आरुह्य कविताशाखां वन्दे वाल्मीकिकोकिलम् ॥ ३४॥  
   
   
- कूजंतं    (kUja.ntaM) = making the `coo'ing sound ;  
+ कूजन्तं    (kUja.ntaM) = making the `coo'ing sound ;  
  राम    (rAma) = Rama ;  
  रामेति    (rAmeti) = rAma+iti rAma+thus;  
  मधुरं    (madhuraM) = sweet ;  
  मधुराक्षरम्    (madhurAkSharam) = sweet letter(s) ;  
  आरुह्य    (Aruhya) = having climbed ;  
  कविताशाखां    (kavitAshAkhAM) = the poetry-branch (of a tree) ;  
- वंदे    (va.nde) = salute/bow ;  
+ वन्दे    (va.nde) = salute/bow ;  
  वाल्मीकिकोकिलम्    (vAlmIkikokilam) = the vAlmIki-cuckoo ;  
 34  
   
@@ -1130,7 +1130,7 @@ uttering of any other `name' of God, a thousand times . (38)
   
   
   
-॥ श्रीसीतारामचंद्रार्पणमस्तु ॥  
+॥ श्रीसीतारामचन्द्रार्पणमस्तु ॥  
   
   
   
@@ -1144,7 +1144,7 @@ uttering of any other `name' of God, a thousand times . (38)
  सम्पूर्णम्    (sampUrNam) = complete, finis, over ;  
  श्री    (shrI) = LakShmi or respectful prefix ;  
  सीता    (sItA) = sItA ;  
- रामचंद्र    (rAmacha.ndra) = rAmachandra ;  
+ रामचन्द्र    (rAmacha.ndra) = rAmachandra ;  
  अर्पणं    (arpaNaM) = dedication ;  
  अस्तु    (astu) = let that be . ;  
   

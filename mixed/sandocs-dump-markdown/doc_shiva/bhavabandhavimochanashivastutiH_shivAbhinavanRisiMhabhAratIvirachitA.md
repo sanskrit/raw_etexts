@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhavabandhavimochanashivastutiH"
-"File name" = "bhavabandhavimochanashivastutiH.itx"
-itxtitle = "bhavabandhavimochanashivastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "bhavabandhavimochanashivastutiH"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवबन्धविमोचनशिवस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: bhavabandhavimochanashivastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: bhavabandhavimochanashivastutiH
+engtitle: bhavabandhavimochanashivastutiH
+itxtitle: bhavabandhavimochanashivastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: भवबन्धविमोचनशिवस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीभवबन्धविमोचनशिवस्तुतिः   
 रदच्छदाधःकृतबिम्बगर्वः पदप्रणम्राहितसर्वविद्यः ।  

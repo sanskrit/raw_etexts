@@ -1,22 +1,22 @@
-+++
-"Text title" = "Umamaheshvara Ashtakam"
-"File name" = "umAmaheshvarAShTakam.itx"
-itxtitle = "umAmaheshvarAShTakam"
-engtitle = "umAmaheshvarAShTakam"
-Category = "devii, aShTaka, devI, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उमामहेश्वराष्टकम्"
+---
+Category: devii, aShTaka, devI, pArvatI
+File name: umAmaheshvarAShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Umamaheshvara Ashtakam
+Transliterated by: PSA Easwaran
+engtitle: umAmaheshvarAShTakam
+itxtitle: umAmaheshvarAShTakam
+title: उमामहेश्वराष्टकम्
 
-+++
+---
   
  उमामहेश्वराष्टकम्   
 पितामहशिरच्छेदप्रवीणकरपल्लव ।  

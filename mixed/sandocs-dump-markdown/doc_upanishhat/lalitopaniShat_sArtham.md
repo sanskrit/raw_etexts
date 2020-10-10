@@ -1,23 +1,23 @@
-+++
-"Text title" = "lalitopaniShat with Hindi and English translation"
-"File name" = "lalitopaniShatsArtha.itx"
-itxtitle = "lalitopaniShat (sArtham)"
-engtitle = "lalitopaniShat with Hindi and English translation"
-Category = "upanishhat, dashamahAvidyA, devii, lalitA, devI, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "anonymous456an at gmail.com"
-"Proofread by" = "anonymous456an at gmail.com"
-"Translated by" = "anonymous456an at gmail.com"
-"Latest update" = "June 18, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितोपनिषत् (सार्थम्)"
+---
+Category: upanishhat, dashamahAvidyA, devii, lalitA, devI, upanishad
+File name: lalitopaniShatsArtha.itx
+Language: Sanskrit
+Latest update: June 18, 2017
+Location: doc_upanishhat
+Proofread by: anonymous456an at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: lalitopaniShat with Hindi and English translation
+Translated by: anonymous456an at gmail.com
+Transliterated by: anonymous456an at gmail.com
+engtitle: lalitopaniShat with Hindi and English translation
+itxtitle: lalitopaniShat (sArtham)
+title: ललितोपनिषत् (सार्थम्)
 
-+++
+---
   
  श्रीललितोपनिषत्   
   
@@ -108,7 +108,7 @@ Supreme Brahma.
   
 ॥ इति श्रीललितोपनिषत्सम्पूर्णा ॥  
   
-हिंदी में अर्थ  
+हिन्दी में अर्थ  
   
 ॥ श्रीललितात्रिपुरसुन्दरी को नमस्कार ॥  
   
@@ -139,7 +139,7 @@ Supreme Brahma.
 आदान-उपादान, उपेक्षा और बुद्धि ही अनङ्ग-कुसुमादि आठ शक्तियाँ  
 हैं । अलम्बुषा, कुहू, विश्वोदरी, वरुणा, हस्ति-जिह्वा, यशस्विनी,  
 गान्धारी, पूषा, सरस्वती, इडा, पिङ्गला और सुषुम्ना- ये नाडियाँ  
-सर्व-संक्षोभिणी आदि चतुर्दशार की देवता हैं ।  
+सर्व-सङ्क्षोभिणी आदि चतुर्दशार की देवता हैं ।  
   
 प्राण, अपान, व्यान, उदान, समान, नाग, कूर्म, कृकल, देवदत्त और  
 धनञ्जय- ये १० वायु सर्व-सिद्धि-प्रदा आदि बहिर्दशार के देवता  

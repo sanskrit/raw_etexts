@@ -1,23 +1,23 @@
-+++
-"Text title" = "guruvandanam 1"
-"File name" = "guruvandanam1.itx"
-itxtitle = "guruvandanam 1"
-engtitle = "Prayer to Guru 1"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "From bAlAsaparyA edited by S.V.Radhakrishnasastri"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "January 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुवन्दनम् १"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: deities_misc, gurudev
+Description-comments: From bAlAsaparyA edited by S.V.Radhakrishnasastri
+File name: guruvandanam1.itx
+Language: Sanskrit
+Latest update: January 4, 2017
+Location: doc_deities_misc
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: guruvandanam 1
+engtitle: Prayer to Guru 1
+itxtitle: guruvandanam 1
+title: गुरुवन्दनम् १
 
-+++
+---
   
  श्रीगुरुवन्दनम् १   
   

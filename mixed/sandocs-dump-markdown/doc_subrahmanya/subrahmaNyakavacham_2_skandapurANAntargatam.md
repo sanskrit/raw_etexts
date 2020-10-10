@@ -1,21 +1,21 @@
-+++
-"Text title" = "subrahmaNya kavacham 2"
-"File name" = "subrahmaNyakavacham2.itx"
-itxtitle = "subrahmaNyakavacham 2 (skandapurANAntargatam)"
-engtitle = "subrahmaNya kavacham 2"
-Category = "kavacha, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "January 7, 2009, April 17, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यकवचम् २ (स्कन्दपुराणान्तर्गतम्)"
+---
+Category: kavacha, subrahmanya
+File name: subrahmaNyakavacham2.itx
+Language: Sanskrit
+Latest update: January 7, 2009, April 17, 2016
+Location: doc_subrahmanya
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: subrahmaNya kavacham 2
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: subrahmaNya kavacham 2
+itxtitle: subrahmaNyakavacham 2 (skandapurANAntargatam)
+title: सुब्रह्मण्यकवचम् २ (स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीसुब्रह्मण्यकवचम् २   
   
@@ -83,7 +83,7 @@ title = "सुब्रह्मण्यकवचम् २ (स्कन्�
 ऊरू रक्षेदुमापुत्रः जानुयुग्मं जगद्धरः ।  
 जङ्घे पातु जगत्पूज्यः गुल्फौ पातु महाबलः ॥ १४॥  
   
-पादौ पातु परंज्योतिः सर्वाङ्गं कुक्कुटद्ध्वजः ।  
+पादौ पातु परञ्ज्योतिः सर्वाङ्गं कुक्कुटद्ध्वजः ।  
 ऊर्ध्वं पातु महोदारः अधस्तात्पातु शाङ्करिः ॥ १५॥  
   
 पार्श्वयोः पातु शत्रुघ्नः सर्वदा पातु शाश्वतः ।  

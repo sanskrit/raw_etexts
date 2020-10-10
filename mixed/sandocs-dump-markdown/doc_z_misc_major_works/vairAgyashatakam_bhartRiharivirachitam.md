@@ -1,25 +1,26 @@
-+++
-"Text title" = "Vairagya Shatakam by bhartRihari"
-"File name" = "vairagya.itx"
-itxtitle = "vairAgyashatakam (bhartRiharivirachitam)"
-engtitle = "Vairagya Shatakam"
-Category = "shataka, major_works, bhartrihari"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder hattangadi, P R Iyer iyerpr49 at gmail.com, kalyana krrit kalyanakrrit at gmail.com"
-"Translated by" = "Sunder hattangadi sunderh at hotmail.com"
-Description-comments = "vairAgya from Bhartrihari@s three hundred-verse sets"
-Indexextra = "(meaning 1, 2, 3, 4)"
-"Latest update" = "January 22, 1999, June 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वैराग्यशतकम् (भर्तृइहरिविरचितम्)"
+---
+Category: shataka, major_works, bhartrihari
+Description-comments: vairAgya from Bhartrihari@s three hundred-verse sets
+File name: vairagya.itx
+Indexextra: (meaning 1, 2, 3, 4)
+Language: Sanskrit
+Latest update: January 22, 1999, June 17, 2018
+Location: doc_z_misc_major_works
+Proofread by: Sunder hattangadi, P R Iyer iyerpr49 at gmail.com, kalyana krrit kalyanakrrit
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: Vairagya Shatakam by bhartRihari
+Texttype: pramukha
+Translated by: Sunder hattangadi sunderh at hotmail.com
+Transliterated by: Sunder hattangadi sunderh at hotmail.com
+engtitle: Vairagya Shatakam
+itxtitle: vairAgyashatakam (bhartRiharivirachitam)
+title: वैराग्यशतकम् (भर्तृइहरिविरचितम्)
 
-+++
+---
   
  वैराग्यशतकम्   
   
@@ -112,7 +113,7 @@ you prosper and even then remain unsatisfied.
   
    
 उत्खातं निधिशङ्कया क्षितितलं ध्माता गिरेर्धातवो  
-निस्तीर्णः सरितां पतिर्नृपतयो यत्नेन संतोषिताः ।  
+निस्तीर्णः सरितां पतिर्नृपतयो यत्नेन सन्तोषिताः ।  
 मन्त्राराधनतत्परेण मनसा नीताः श्मशाने निशाः  
 प्राप्तः काणवराटकोऽपि न मया तृष्णे सकामा भव ॥ ३॥  
   
@@ -134,7 +135,7 @@ remain contented.
 पतिः  = chief  
 नृपतयः  = royal  
 यत्नेन  = with effort  
-संतोषिताः  = favored  
+सन्तोषिताः  = favored  
 मन्त्र  = incantations  
 आराधन  = worship  
 तत्परेण  = utmost effort  
@@ -192,7 +193,7 @@ insatiable Desire!  What other futile deeds would you have me dance in?
    
 अमीषां प्राणानां तुलितबिसिनीपत्रपयसां  
 कृते किं नास्माभिर्विगलितविवेकैर्व्यवसितम् ।  
-यदाढ्यानामग्रे द्रविणमदनिःसंज्ञमनसां  
+यदाढ्यानामग्रे द्रविणमदनिःसञ्ज्ञमनसां  
 कृतं वीतव्रीडैर्निजगुणकथापातकमपि ॥ ५॥  
   
   
@@ -216,7 +217,7 @@ arrogance of wealth, we have sinned by flattering ourselves.
 आढ्यानां  = of the rich  
 अग्रे  = in the presence  
 द्रविणमद  = pride of wealth  
-निःसंज्ञ  = stupefied  
+निःसञ्ज्ञ  = stupefied  
 मनसां  = minds  
 कृतं  = committed  
 वीत  = without  
@@ -227,7 +228,7 @@ arrogance of wealth, we have sinned by flattering ourselves.
 अपि  = even  
   
    
-क्षान्तं न क्षमया गृहोचितसुखं त्यक्तं न संतोषतः  
+क्षान्तं न क्षमया गृहोचितसुखं त्यक्तं न सन्तोषतः  
 सोढा दुःसहशीतवाततपनक्लेशा न तप्तं तपः ।  
 ध्यातं वित्तमहर्निशं नियमितप्राणैर्न शम्भोः पदं  
 तत्तत्कर्म कृतं यदेव मुनिभिस्तैस्तैः फलैर्वञ्चिताः ॥ ६॥  
@@ -244,7 +245,7 @@ the ascetic recluse, but devoid of the benefits.
 गृहोचितसुखं  = comforts of home-life  
 त्यक्तं  = renounced  
 न  = not  
-संतोषतः  = with contentment  
+सन्तोषतः  = with contentment  
 soDhA  
 दुःसह  = inclement  
 शीत  = cold  
@@ -723,10 +724,10 @@ in these remedies!
 जनः  = persons  
   
    
-तुङ्गं वेश्म सुताः सतामभिमताः संख्यातिगाः सम्पदः  
+तुङ्गं वेश्म सुताः सतामभिमताः सङ्ख्यातिगाः सम्पदः  
 कल्याणी दयिता वयश्च नवमित्यज्ञानमूढो जनः ।  
 मत्वा विश्वमनश्वरं निविशते संसारकारागृहे  
-संदृश्य क्षणभंगुरं तदखिलं धन्यस्तु संन्यस्यति ॥ २०॥  
+सन्दृश्य क्षणभङ्गुरं तदखिलं धन्यस्तु सन्न्यस्यति ॥ २०॥  
   
   
 Owning towering mansions, with sons honored by the learned and wealthy;  
@@ -739,7 +740,7 @@ renounces it.
 वेश्म  = mansions  
 सुताः  = sons  
 सतामभिमताः  = honored by the learned  
-संख्यातिगाः  = immeasurable  
+सङ्ख्यातिगाः  = immeasurable  
 सम्पदः  = wealth  
 कल्याणी  = beneficent  
 दयिता  = charitable  
@@ -756,11 +757,11 @@ renounces it.
 निविशते  = regard  
 संसार  = world cycles (creation-dissolution)  
 कारागृहे  = prison  
-संदृश्य  = having seen  
-क्षणभंगुरं  = momentariness  
+सन्दृश्य  = having seen  
+क्षणभङ्गुरं  = momentariness  
 तदखिलं  = all that  
 धन्यस्तु  = blessed indeed  
-संन्यस्यति  = renounces  
+सन्न्यस्यति  = renounces  
 याञ्चादैन्यदूषणम् ।  
   
    
@@ -1057,7 +1058,7 @@ in-between meditation.
   
    
 ये सन्तोषनिरन्तरप्रमुदितास्तेषां न भिन्ना मुदो  
-ये त्वन्ये धनलुब्धसंकुलधियस्तेषां न तृष्णा हता ।  
+ये त्वन्ये धनलुब्धसङ्कुलधियस्तेषां न तृष्णा हता ।  
 इत्थं कस्य कृते कृतः स विधिना कीदृक्पदं सम्पदां  
 स्वात्मन्येव समाप्तहेममहिमा मेरुर्न मे रोचते ॥ २९॥  
   
@@ -1078,7 +1079,7 @@ riches, which serves only to glorify itself? I have no taste for it.
 त्वन्ये  = others  
 धन  = wealth  
 लुब्ध  = greed  
-संकुल  = confounded  
+सङ्कुल  = confounded  
 धियः  = reason  
 तेषां  = of those  
 न  = not  
@@ -1352,7 +1353,7 @@ attained easily by courage.
   
    
 आयुः कल्लोललोलं कतिपयदिवसस्थायिनी यौवनश्रीः  
-अर्थाः संकल्पकल्पा घनसमयतडिद्विभ्रमा भोगपूगाः ।  
+अर्थाः सङ्कल्पकल्पा घनसमयतडिद्विभ्रमा भोगपूगाः ।  
 कण्ठाश्लेषोपगूढं तदपि च न चिरं यत्प्रियाभिः प्रणीतं  
 ब्रह्मण्यासक्तचित्ता भवत भवभयाम्बोधिपारं तरीतुम् ॥ ३६॥  
   
@@ -1371,7 +1372,7 @@ crossing the ocean of cycles of births and deaths.
 यौवन  = youth  
 श्रीः  = beauty  
 अर्थाः  = wealth  
-संकल्पकल्पा  = transient as thought  
+सङ्कल्पकल्पा  = transient as thought  
 घनसमय  = autumnal  
 तडित्  = lightning  
 विभ्रमा  = occasional flashes  
@@ -1399,7 +1400,7 @@ brahmaNi in Brahman
 कृच्छ्रेणामेध्यमध्ये नियमिततनुभिः स्थीयते गर्भवासे  
 कान्ताविश्लेषदुःखव्यतिकरविषमो यौवने चोपभोगः ।  
 वामाक्षीणामवज्ञाविहसितवसतिर्वृद्धभावोऽप्यसाधुः  
-संसारे रे मनुष्या वदत यदि सुखं स्वल्पमप्यस्ति किंचित् ॥ ३७॥  
+संसारे रे मनुष्या वदत यदि सुखं स्वल्पमप्यस्ति किञ्चित् ॥ ३७॥  
   
   
 Life in the womb involves lying in discomfort amidst unclean surroundings,  
@@ -1437,7 +1438,7 @@ such a life?
 स्वल्पं  = a little  
 अपि  = even  
 अस्ति  = exists  
-किंचित्  = small  
+किञ्चित्  = small  
   
    
 व्याघ्रीव तिष्ठति जरा परितर्जयन्ती  
@@ -1519,7 +1520,7 @@ mental concentration on it can achieve it.
 ब्रह्मेन्द्रादिमरुद्गणांस्तृणकणान्यत्र स्थितो मन्यते  
 यत्स्वादाद्विरसा भवन्ति विभवास्त्रैलोक्यराज्यादयः ।  
 भोगः कोऽपि स एक एव परमो नित्योदितो जृम्भते  
-भो साधो क्षणभंगुरे तदितरे भोगे रतिं मा कृथाः ॥ ४०॥  
+भो साधो क्षणभङ्गुरे तदितरे भोगे रतिं मा कृथाः ॥ ४०॥  
   
   
 Where Brahma, Indra, and other hosts of gods appear as worth as little  
@@ -1554,7 +1555,7 @@ moment.
 जृम्भते  = increases  
 भो  = oh!  
 साधो  = saint!  
-क्षणभंगुरे  = transitory  
+क्षणभङ्गुरे  = transitory  
 तदितरे  = that other  
 भोगे  = enjoyment  
 रतिं  = pleasures  
@@ -1652,7 +1653,7 @@ to be moved, and throwing the dice of days and nights.
 प्राणिशारैः  = with creatures  
   
    
-आदित्यस्य गतागतैरहरहः संक्षीयते जीवितं  
+आदित्यस्य गतागतैरहरहः सङ्क्षीयते जीवितं  
 व्यापारैर्बहुकार्यभारगुरुभिः कालोऽपि न ज्ञायते ।  
 दृष्ट्वा जन्मजराविपत्तिमरणं त्रासश्च नोत्पद्यते  
 पीत्वा मोहमयीं प्रमादमदिरामुन्मत्तभूतं जगत् ॥ ४३॥  
@@ -1665,7 +1666,7 @@ become insane by drinking the intoxicating wine of infatuation.
 आदित्यस्य  = of the sun  
 गतागतैः  = going and coming  
 अहरहः  = day after day  
-संक्षीयते  = shortens  
+सङ्क्षीयते  = shortens  
 जीवितं  = life  
 व्यापारैः  = affairs  
 बहुकार्य  = many duties  
@@ -2239,7 +2240,7 @@ of grieving, are joyous in owning even the most trifling fraction of it.
   
    
 मृत्पिण्डो जलरेखया वलयितः सर्वोऽप्ययं नन्वणुः  
-स्वांशीकृत्य तमेव संगरशतै राज्ञां गणा भुञ्जते ।  
+स्वांशीकृत्य तमेव सङ्गरशतै राज्ञां गणा भुञ्जते ।  
 ते दद्युर्ददतोऽथवा किमपरं क्षुद्रा दरिद्रा भृशं  
 धिग्धिक्तान्पुरुषाधमान्धनकणान्वाञ्छन्ति तेभ्योऽपि ये ॥ ५९॥  
   
@@ -2261,7 +2262,7 @@ to them. But despicable are the men who would beg from them petty riches.
 स्वांशीकृत्य  = fractioned it themselves  
 तं  = that  
 एव  = too  
-संगर  = battle  
+सङ्गर  = battle  
 शतै  = hundreds  
 राज्ञां  = of kings  
 गणा  = many  
@@ -2286,7 +2287,7 @@ to them. But despicable are the men who would beg from them petty riches.
   
    
 स जातः कोऽप्यासीन्मदनरिपुणा मूर्ध्नि धवलं  
-कपालं यस्योच्चैर्विनिहितमलंकारविधये ।  
+कपालं यस्योच्चैर्विनिहितमलङ्कारविधये ।  
 नृभिः प्राणत्राणप्रवणमतिभिः कैश्चिदधुना  
 नमद्भिः कः पुंसामयमतुलदर्पज्वरभरः ॥ ६०॥  
   
@@ -2307,7 +2308,7 @@ to what purpose?
 यस्य  = whose  
 उच्यैः  = high  
 विनिहितं  = held  
-अलंकारविधये  = like an ornament  
+अलङ्कारविधये  = like an ornament  
 नृभिः  = by men  
 प्राण  = life  
 त्राण  = limb  
@@ -2329,7 +2330,7 @@ to what purpose?
 परेषां चेतांसि प्रतिदिवसमाराध्य बहुधा  
 प्रसादं किं नेतुं विशसि हृदय क्लेशकलितम् ।  
 प्रसन्ने त्वय्यन्तः स्वयमुदितचिन्तामणिगणो  
-विविक्तः संकल्पः किमभिलषितं पुष्यति न ते ॥ ६१॥  
+विविक्तः सङ्कल्पः किमभिलषितं पुष्यति न ते ॥ ६१॥  
   
   
 Control of Mind by Wisdom:    
@@ -2358,7 +2359,7 @@ and should you wish for anything what will you not acquire?
 चिन्तामणि  = gems of thoughts  
 गणः  = many  
 विविक्तः  = in solitude  
-संकल्पः  = wish  
+सङ्कल्पः  = wish  
 किं  = whatever  
 अभिलषितं  = wished for  
 पुष्यति  = nurture  
@@ -2368,7 +2369,7 @@ and should you wish for anything what will you not acquire?
    
 परिभ्रमसि किं मुधा क्वचन चित्त विश्राम्यतां  
 स्वयं भवति यद्यथा भवति तत्तथा नान्यथा ।  
-अतीतमननुस्मरन्नपि च भाव्यसंकल्पयन्  
+अतीतमननुस्मरन्नपि च भाव्यसङ्कल्पयन्  
 नतर्कितसमागमाननुभवामि भोगानहम् ॥ ६२॥  
   
   
@@ -2390,7 +2391,7 @@ planning for the future, I experience the joys that come, without question.
 मननुस्मरन्नपि  = mental memories recalled  
 च  = and  
 भाव्य  = future  
-संकल्पयन्  = desiring  
+सङ्कल्पयन्  = desiring  
 नतर्कित  = without debating  
 समागमान्  = coming on their own  
 अनुभवामि  = experience  
@@ -2400,7 +2401,7 @@ planning for the future, I experience the joys that come, without question.
    
 एतस्माद्विरमेन्द्रियार्थगहनादायासकादाश्रय  
 श्रेयोमार्गमशेषदुःखशमनव्यापारदक्षं क्षणात् ।  
-स्वात्मीभावमुपैहि संत्यज निजां कल्लोललोलां गतिं  
+स्वात्मीभावमुपैहि सन्त्यज निजां कल्लोललोलां गतिं  
 मा भूयो भज भङ्गुरां भवरतिं चेतः प्रसीदाधुना ॥ ६३॥  
   
   
@@ -2423,7 +2424,7 @@ to the transitory joys of the world, and now seek the tranquillity of the mind.
 क्षणात्  = in a moment  
 स्वात्मीभावं  = status of own Self  
 उपैहि  = reach  
-संत्यज  = give up  
+सन्त्यज  = give up  
 निजां  = your own  
 कल्लोल  = wave  
 लोलां  = agitated  
@@ -2767,7 +2768,7 @@ only as steady as the ear-tip of a baby elephant!
 चपले  = unsteady  
   
    
-गात्रं संकुचितं गतिर्विगलिता भ्रष्टा च दन्तावलिः-  
+गात्रं सङ्कुचितं गतिर्विगलिता भ्रष्टा च दन्तावलिः-  
 दृष्टिर्नश्यति वर्धते बधिरता वक्त्रं च लालायते ।  
 वाक्यं नाद्रियते च बान्धवजनो भार्या न शुश्रूषते  
 हा कष्टं पुरुषस्य जीर्णवयसः पुत्रोऽप्यमित्रायते ॥ ७३॥  
@@ -2777,7 +2778,7 @@ With feeble limbs, unsteady movements, teeth that have fallen off,
 poor eye-sight, worsening deafness, drooling mouth,; with relatives  
 disregarding what you say, the wife offering no help, the son turning  
 hostile, such, alas! are the miseries of senility.  गात्रं  = limbs  
-संकुचितं  = shrivel  
+सङ्कुचितं  = shrivel  
 गतिः  = walking  
 विगलिता  = unsteady  
 भ्रष्टा  = useless  
@@ -2841,7 +2842,7 @@ young women run away from him, like the outcastes' well encircled with bones!
 यावत्स्वस्थमिदं शरीरमरुजं यावज्जरा दूरतो  
 यावच्चेन्द्रियशक्तिरप्रतिहता यावत्क्षयो नायुषः ।  
 आत्मश्रेयसि तावदेव विदुषा कार्यः प्रयत्नो महान्  
-संदीप्ते भवने तु कूपखननं प्रत्युद्यमः कीदृशः ॥ ७५॥  
+सन्दीप्ते भवने तु कूपखननं प्रत्युद्यमः कीदृशः ॥ ७५॥  
   
   
 As long as this body is healthy and free of infirmity, as long as  
@@ -2873,7 +2874,7 @@ of digging a well when the house is on fire?
 कार्यः  = deeds  
 प्रयत्नः  = efforts  
 महान्  = great  
-संदीप्ते  = on fire  
+सन्दीप्ते  = on fire  
 भवने  = house  
 तु  = indeed  
 कूप  = well  
@@ -3039,7 +3040,7 @@ fascinating, except when the mind realises the transience of it all.
    
 रम्यं हर्म्यतलं न किं वसतये श्राव्यं न गेयादिकं  
 किं वा प्राणसमासमागमसुखं नैवाधिकप्रीतये ।  
-किंतु भ्रान्तपतङ्गपक्षपवनव्यालोलदीपाङ्कुर-  
+किन्तु भ्रान्तपतङ्गपक्षपवनव्यालोलदीपाङ्कुर-  
 च्छायाचञ्चलमाकलय्य सकलं सन्तो वनान्तं गताः ॥ ८०॥  
   
   
@@ -3064,7 +3065,7 @@ a delirious moth.
 एव  = in fact  
 अधिक  = much  
 प्रीतये  = pleasing  
-किंतु  = but  
+किन्तु  = but  
 भ्रान्त  = hovering  
 पतङ्ग  = moth  
 पक्ष  = wing  
@@ -3408,7 +3409,7 @@ dispassion, serenity, with my hands serving as a bowl, and the sky for clothing?
 क्षमः  = capable  
   
    
-पाणिं पात्रयतां निसर्गशुचिना भैक्षेण संतुष्यतां  
+पाणिं पात्रयतां निसर्गशुचिना भैक्षेण सन्तुष्यतां  
 यत्र क्वापि निषीदतां बहुतृणं विश्वं मुहुः पश्यताम् ॥  
   
 अत्यागीऽपि तनोरखण्डपरमानन्दावबोधस्पृशां  
@@ -3425,7 +3426,7 @@ the path of liberation easy of attainment.
 निसर्ग  = nature  
 शुचिना  = pure  
 भैक्षेण  = by begging alms  
-संतुष्यतां  = contented  
+सन्तुष्यतां  = contented  
 यत्र  = where  
 क्वापि  = anywhere  
 निषीदतां  = resting  
@@ -3517,7 +3518,7 @@ Indeed, the ocean is not agitated by the movements of a fish!
 जायते  = become  
   
    
-मातर्लक्ष्मि भजस्व कंचिदपरं मत्काङ्क्षिणी मा स्म भूः  
+मातर्लक्ष्मि भजस्व कञ्चिदपरं मत्काङ्क्षिणी मा स्म भूः  
 भोगेषु स्पृहयालवस्तव वशे का निःस्पृहाणामसि ।  
 सद्यःस्यूतपलाशपत्रपुटिकापात्रे पवित्रीकृतै-  
 र्भिक्षावस्तुभिरेव सम्प्रति वयं वृत्तिं समीहामहे ॥ ९३॥  
@@ -3530,7 +3531,7 @@ purified in a bowl instantly made from the leaves of Palasa tree.
 मातः  = mother  
 लक्ष्मि  = O Laxmi!  
 भजस्व  = serve  
-कंचित्  = someone  
+कञ्चित्  = someone  
 अपरं  = else  
 मत्  = me  
 काङ्क्षिणी  = long for  
@@ -3602,7 +3603,7 @@ like a sovereign of immense glory.
 भिक्षाशी जनमध्यसङ्गरहितः स्वायत्तचेष्टः सदा  
 हानादानविरक्तमार्गनिरतः कश्चित्तपस्वी स्थितः ।  
 रथ्याकीर्णविशीर्णजीर्णवसनः सम्प्राप्तकन्थासनो  
-निर्मानो निरहंकृतिः शमसुखाभोगैकबद्धस्पृहः ॥ ९५॥  
+निर्मानो निरहङ्कृतिः शमसुखाभोगैकबद्धस्पृहः ॥ ९५॥  
   
   
 Living on alms, unattached to the company of people, ever acting with  
@@ -3632,7 +3633,7 @@ the joy of the controlled mind.
 कन्थ  = blanket  
 आसनः  = seat  
 निर्मानः  = without pride  
-निरहंकृतिः  = without egoism  
+निरहङ्कृतिः  = without egoism  
 शम  = self-control  
 सुखाभोग  = enjoying the happiness  
 एकबद्ध  = bound by only one  
@@ -3766,8 +3767,8 @@ their bodies against mine------- will such fortune come to me?
    
 पाणिः पात्रं पवित्रं भ्रमणपरिगतं भैक्षमक्षय्यमन्नं  
 विस्तीर्णं वस्त्रमाशादशकमचपलं तल्पमस्वल्पमुर्वी ।  
-येषां निःसङ्गताङ्गीकरणपरिणतस्वान्तसंतोषिणस्ते  
-धन्याः संन्यस्तदैन्यव्यतिकरनिकराः कर्म निर्मूलयन्ति ॥ ९९॥  
+येषां निःसङ्गताङ्गीकरणपरिणतस्वान्तसन्तोषिणस्ते  
+धन्याः सन्न्यस्तदैन्यव्यतिकरनिकराः कर्म निर्मूलयन्ति ॥ ९९॥  
   
   
 The hands serving as a sacred bowl, subsisting on the never-dwindling  
@@ -3798,10 +3799,10 @@ and thus able to uproot all actions ( the roots of future rebirths and deaths).
 अङ्गीकरण  = absorb  
 परिणत  = matured  
 स्वान्त  = inwardly  
-संतोषिणः  = blissful  
+सन्तोषिणः  = blissful  
 ते  = they  
 धन्याः  = blessed  
-संन्यस्त  = forsaking  
+सन्न्यस्त  = forsaking  
 दैन्य  = deprivation  
 व्यतिकर  = contact  
 निकराः  = best of objects  

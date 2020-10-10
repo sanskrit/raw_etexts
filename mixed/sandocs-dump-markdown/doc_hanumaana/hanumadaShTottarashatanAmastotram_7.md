@@ -1,22 +1,22 @@
-+++
-"Text title" = "hanumadaShTottarashatanAmastotram 7"
-"File name" = "hanumadaShTottarashatanAmastotram7.itx"
-itxtitle = "hanumadaShTottarashatanAmastotram 7"
-engtitle = "hanumadaShTottarashatanAmastotram 7"
-Category = "aShTottarashatanAma, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com"
-Source = "ParAsharasamhita Hanumachcharitra Vol 2 pages 43-49"
-"Latest update" = "July 8, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमदष्टोत्तरशतनामस्तोत्रम् ७"
+---
+Category: aShTottarashatanAma, hanumaana, hanuman
+File name: hanumadaShTottarashatanAmastotram7.itx
+Language: Sanskrit
+Latest update: July 8, 2016
+Location: doc_hanumaana
+Proofread by: Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: ParAsharasamhita Hanumachcharitra Vol 2 pages 43-49
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumadaShTottarashatanAmastotram 7
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: hanumadaShTottarashatanAmastotram 7
+itxtitle: hanumadaShTottarashatanAmastotram 7
+title: हनुमदष्टोत्तरशतनामस्तोत्रम् ७
 
-+++
+---
   
  श्रीहनुमदष्टोत्तरशतनामस्तोत्रम् ७   
 ॥ श्रीगणेशाय नमः ॥  

@@ -1,24 +1,25 @@
-+++
-"Text title" = "Vasavi Kanyaka Parameshvari Sahasranamavali 2"
-"File name" = "vAsavIkanyakAparameshvarIsahasranAmAvaliH2.itx"
-itxtitle = "vAsavIkanyakAparameshvarIsahasranAmAvaliH 2"
-engtitle = "vAsavIkanyakAparameshvarIsahasranAmAvalI 2"
-Category = "devii, sahasranAmAvalI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Rajeshwari Govindaraj"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Rajeshwari Govindraj rajeswari dot govindraj at yahoo dot com"
-"Description/comments" = "Audio rendered by Vidushi Smt Jyothi Aswathanarayan, Smt Ashwini Srikanth and Smt Nandini Vinay"
-Indexextra = "(Audio, 2)"
-"Latest update" = "July 9, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकापरमेश्वरीसहस्रनामावलिः २"
+---
+Author: Rajeshwari Govindaraj
+Category: devii, sahasranAmAvalI, nAmAvalI, devI
+Description/comments: Audio rendered by Vidushi Smt Jyothi Aswathanarayan, Smt Ashwini
+  Srikanth and Smt Nandini Vinay
+File name: vAsavIkanyakAparameshvarIsahasranAmAvaliH2.itx
+Indexextra: (Audio, 2)
+Language: Sanskrit
+Latest update: July 9, 2019
+Location: doc_devii
+Proofread by: Rajeshwari Govindraj rajeswari dot govindraj at yahoo dot com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vasavi Kanyaka Parameshvari Sahasranamavali 2
+Transliterated by: NA
+engtitle: vAsavIkanyakAparameshvarIsahasranAmAvalI 2
+itxtitle: vAsavIkanyakAparameshvarIsahasranAmAvaliH 2
+title: वासवीकन्यकापरमेश्वरीसहस्रनामावलिः २
 
-+++
+---
   
  श्रीवासवीदेवीसहस्रनामावलिः २   
 ध्यानम् -  
@@ -680,7 +681,7 @@ title = "वासवीकन्यकापरमेश्वरीसहस�
 तुरीयायै नमः ।  
 सार्वकालिकायै नमः ।  
 शब्दस्पर्शरूपगन्धरसविषयपञ्चकव्यापिन्यै नमः ।  
-सोहंमन्त्रयुतोच्छवासनिश्वासानन्दरूपिण्यै नमः ।  
+सोहम्मन्त्रयुतोच्छवासनिश्वासानन्दरूपिण्यै नमः ।  
 भूतभविष्यद्वर्तमानज्ञायै नमः ।  
 पुराण्यै नमः ।  
 विश्वाधिकायै नमः ।  
@@ -976,7 +977,7 @@ title = "वासवीकन्यकापरमेश्वरीसहस�
 निराश्रयायै नमः ।  
 क्षुत्तृषानिद्रामैथुनविसर्जनधर्मकारिण्यै नमः ।  
 क्षयवृद्धिपूर्णद्रव्यसञ्चयाशाविदूरिण्यै नमः ।  
-नवजातशिशुसंपोषकक्षीरसुधासूषणायै नमः ।  
+नवजातशिशुसम्पोषकक्षीरसुधासूषणायै नमः ।  
 नवभावलहर्योदयायै नमः ।  
 ओजोवत्यै नमः ।  
 विचक्षणायै नमः ।  

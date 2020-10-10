@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ganesha Stuti Gitam"
-"File name" = "gaNeshastutigItam.itx"
-itxtitle = "gaNeshastutigItam"
-engtitle = "gaNeshastutigItam"
-Category = "ganesha, stotra, sanskritgeet"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pranav and Vrushali Tendulkar pranav.tendulkar at gmail.com"
-"Proofread by" = "Pranav and Vrushali Tendulkar pranav.tendulkar at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "May 24, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशस्तुतिगीतम्"
+---
+Category: ganesha, stotra, sanskritgeet
+File name: gaNeshastutigItam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 24, 2020
+Location: doc_ganesha
+Proofread by: Pranav and Vrushali Tendulkar pranav.tendulkar at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha Stuti Gitam
+Texttype: stotra
+Transliterated by: Pranav and Vrushali Tendulkar pranav.tendulkar at gmail.com
+engtitle: gaNeshastutigItam
+itxtitle: gaNeshastutigItam
+title: गणेशस्तुतिगीतम्
 
-+++
+---
   
  गणेशस्तुतिगीतम्   
 हेमजासुतं भजे गणेशमीशनन्दनं  

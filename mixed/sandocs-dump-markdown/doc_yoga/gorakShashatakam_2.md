@@ -1,22 +1,22 @@
-+++
-"Text title" = "gorakShashatakam 2"
-"File name" = "gorakShashatakam2.itx"
-itxtitle = "gorakShashatakam  2"
-engtitle = "GorakShashatakam  2"
-Category = "shataka, yoga"
-Location = "doc_yoga"
-Sublocation = "yoga"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Description-comments = "From Briggs 1938 http://yogaclassics.org/"
-Indexextra = "(Briggs)"
-"Latest update" = "April 5, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोरक्षशतकम्  २"
+---
+Category: shataka, yoga
+Description-comments: From Briggs 1938 http://yogaclassics.org/
+File name: gorakShashatakam2.itx
+Indexextra: (Briggs)
+Language: Sanskrit
+Latest update: April 5, 2013
+Location: doc_yoga
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: yoga
+Text title: gorakShashatakam 2
+engtitle: GorakShashatakam  2
+itxtitle: gorakShashatakam  2
+title: गोरक्षशतकम्  २
 
-+++
+---
   
  गोरक्षशतकम् २   
   
@@ -264,7 +264,7 @@ title = "गोरक्षशतकम्  २"
 बध्नाति हि सिराजालमधोगामि शिरोजलम् ।  
 ततो जालन्धरो बन्धः कण्ठदुःखौघनाशनः ॥ ७९॥  
   
-जालन्धरे कृते बन्धे कण्ठसंकोचलक्षणे ।  
+जालन्धरे कृते बन्धे कण्ठसङ्कोचलक्षणे ।  
 पीयूषं न पतत्यग्नौ न च वायुः प्रकुप्यति ॥ ८०॥  
   
 पार्ष्णिभागेन सम्पीड्य योनिमाकुञ्चयेद्गुदम् ।  
@@ -285,7 +285,7 @@ title = "गोरक्षशतकम्  २"
 क्रिया चेच्छा तथा ज्ञानाब्राह्मीरौद्रीश्च वैष्णवी ।  
 त्रिधाशक्तिः स्थिता यत्र तत्परं ज्योतिरोमिति ॥ ८६॥  
   
-आकाराश्च तथोकारोमकारो बिन्दुसंज्ञकः ।  
+आकाराश्च तथोकारोमकारो बिन्दुसञ्ज्ञकः ।  
 तिस्रोमात्राः स्थिता यत्र तत्परं ज्योतिरोमिति ॥ ८७॥  
   
 वचसा तज्जयेद्बीजं वपुषा तत्समभ्यसेत् ।  
@@ -310,7 +310,7 @@ title = "गोरक्षशतकम्  २"
 वामदक्षिणमार्गेण ततः प्राणोऽभिधीयते ॥ ९४॥  
   
 शुद्धिमेति यदा सर्वं नाडीचक्रं मलाकुलम् ।  
-तदैव जायते योगी प्राणसंग्रहणे क्षमः ॥ ९५॥  
+तदैव जायते योगी प्राणसङ्ग्रहणे क्षमः ॥ ९५॥  
   
 बद्धपद्मासनो योगी प्राणं चन्द्रेण पूरयेत् ।  
 धारयित्वा यथाशक्ति भूयः सूर्येण रेचयेत् ॥ ९६॥  

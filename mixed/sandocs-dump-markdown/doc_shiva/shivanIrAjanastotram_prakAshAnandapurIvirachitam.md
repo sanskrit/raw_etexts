@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shiva Nirajanastotram"
-"File name" = "shivanIrAjanastotram.itx"
-itxtitle = "shivanIrAjanastotram (prakAshAnandapurIvirachitam)"
-engtitle = "shivanIrAjanastotram"
-Category = "shiva, AratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Madhura Bal madhurabal11 gmail.com"
-"Proofread by" = "Madhura Bal madhurabal11 gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "August 19, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवनीराजनस्तोत्रम् (प्रकाशानन्दपुरीविरचितम्)"
+---
+Category: shiva, AratI
+File name: shivanIrAjanastotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 19, 2018
+Location: doc_shiva
+Proofread by: Madhura Bal madhurabal11 gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shiva Nirajanastotram
+Transliterated by: Madhura Bal madhurabal11 gmail.com
+engtitle: shivanIrAjanastotram
+itxtitle: shivanIrAjanastotram (prakAshAnandapurIvirachitam)
+title: शिवनीराजनस्तोत्रम् (प्रकाशानन्दपुरीविरचितम्)
 
-+++
+---
   
  श्रीशिवनीराजनस्तोत्रं   
 ॐ नमः शिवाय ।  

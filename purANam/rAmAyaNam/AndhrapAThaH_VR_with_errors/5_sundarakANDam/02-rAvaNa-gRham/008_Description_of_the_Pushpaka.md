@@ -3,7 +3,6 @@ title: 008 Description of the Pushpaka
 title_english: 008 Description of the Pushpaka
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-008-Description_of_the_Pushpaka.mp3"></div>
 
 स तस्य मध्ये भवनस्य संस्थितम् ।  
@@ -14,10 +13,10 @@ title_english: 008 Description of the Pushpaka
 कृतम् स्वयम् साध्विति विश्वकर्मणाः ।  
 दिवम् गतम् वायुपथप्रतिष्ठितम् ।  
 व्यराजतादित्यपथस्य लक्ष्मिवत् ॥ ५-८-२  
-न तत्र किंचिन्न कृतम् प्रयत्नतो ।  
-न तत्र किंचिन्न महर्हरत्नवत् ।  
+न तत्र किञ्चिन्न कृतम् प्रयत्नतो ।  
+न तत्र किञ्चिन्न महर्हरत्नवत् ।  
 न ते विशेषा नियताः सुरेष्वपि ।  
-न तत्र किंचिन्न महाविशेषवत् ॥ ५-८-३  
+न तत्र किञ्चिन्न महाविशेषवत् ॥ ५-८-३  
 तपह्समाधानपराक्रमार्जितम् ।  
 मनःसमाधानविचारचारिणम् ।  
 अनेकसंस्थानविषेषनिर्मितम् ।  

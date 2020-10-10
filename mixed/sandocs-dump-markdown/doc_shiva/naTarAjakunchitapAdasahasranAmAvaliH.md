@@ -1,21 +1,21 @@
-+++
-"Text title" = "naTarAjakunchitapAdasahasranAmAvalI"
-"File name" = "naTarAjakunchitapAdasahasranAmAvalI.itx"
-itxtitle = "naTarAjakunchitapAdasahasranAmAvaliH"
-engtitle = "naTarAjakunchitapAdasahasranAmAvalI"
-Category = "shiva, sahasranAmAvalI, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sneha Sudha snehasudha13 gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "April 19, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नटराजकुञ्चितपादसहस्रनामावलिः"
+---
+Category: shiva, sahasranAmAvalI, nAmAvalI
+File name: naTarAjakunchitapAdasahasranAmAvalI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 19, 2019
+Location: doc_shiva
+Proofread by: Sneha Sudha snehasudha13 gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: naTarAjakunchitapAdasahasranAmAvalI
+engtitle: naTarAjakunchitapAdasahasranAmAvalI
+itxtitle: naTarAjakunchitapAdasahasranAmAvaliH
+title: नटराजकुञ्चितपादसहस्रनामावलिः
 
-+++
+---
   
  श्रीनटराजकुञ्चितपादसहस्रनामावलिः   
 अस्य श्री शिवकामसुन्दरीसमेत श्री नटराजराजकुञ्चितपादसहस्रनामस्तोत्र  
@@ -175,7 +175,7 @@ title = "नटराजकुञ्चितपादसहस्रनाम�
 ॐ गृत्सपतये नमः ।  
 ॐ सुराय नमः ।  
 ॐ आदित्यवर्णाय नमः ।  
-ॐ संञ्ज्योतिषे नमः ।  
+ॐ सञ्ञ्ज्योतिषे नमः ।  
 ॐ सम्यग्दर्शनतत्पराय नमः ।  
 ॐ आदिभूताय नमः ।  
 ॐ महाभूत नमः ।  

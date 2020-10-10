@@ -1,22 +1,22 @@
-+++
-"Text title" = "nAmarAmAyaNam"
-"File name" = "naamaraamaayana.itx"
-itxtitle = "nAmarAmAyaNam"
-engtitle = "nAmarAmAyaNam"
-Category = "aShTottarashatanAmAvalI, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "P. P. Narayanaswami swami at math.mun.ca"
-"Proofread by" = "P. P. Narayanaswami swami at math.mun.ca"
-Description-comments = "shrIvinAyakatantre"
-"Latest update" = "October 28, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नामरामायणम्"
+---
+Category: aShTottarashatanAmAvalI, raama
+Description-comments: shrIvinAyakatantre
+File name: naamaraamaayana.itx
+Language: Sanskrit
+Latest update: October 28, 2008
+Location: doc_raama
+Proofread by: P. P. Narayanaswami swami at math.mun.ca
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: raama
+Text title: nAmarAmAyaNam
+Transliterated by: P. P. Narayanaswami swami at math.mun.ca
+engtitle: nAmarAmAyaNam
+itxtitle: nAmarAmAyaNam
+title: नामरामायणम्
 
-+++
+---
   
  नामरामायण   
 ॥ बालकाण्डः ॥  
@@ -37,7 +37,7 @@ title = "नामरामायणम्"
 नाविकधाविकमृदुपद राम ।  
 मिथिलापुरजनमोहक राम ।  
 विदेहमानसरञ्जक राम ।  
-त्र्यंबककार्मुखभञ्जक राम ।  
+त्र्यम्बककार्मुखभञ्जक राम ।  
 सीतार्पितवरमालिक राम ।  
 कृतवैवाहिककौतुक राम ।  
 भार्गवदर्पविनाशक राम ।  
@@ -124,7 +124,7 @@ title = "नामरामायणम्"
 साकेतपुरीभूषण राम ।  
 सकलस्वीयसमानस राम ।  
 रत्नलसत्पीठास्थित राम ।  
-पट्टाभिषेकालंकृत राम ।  
+पट्टाभिषेकालङ्कृत राम ।  
 पार्थिवकुलसम्मानित राम ।  
 विभीषणार्पितरङ्गक राम ।  
 कीशकुलानुग्रहकर राम ।  

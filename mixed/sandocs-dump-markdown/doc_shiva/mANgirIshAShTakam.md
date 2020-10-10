@@ -1,23 +1,23 @@
-+++
-"Text title" = "mAngirIshAShTakam"
-"File name" = "mAngirIshAShTakam.itx"
-itxtitle = "mANgirIshAShTakam"
-engtitle = "mAngirIshAShTakam"
-Category = "shiva, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "from Shri Mangeshi Dev Sansthanam, Goa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Shri Chitrapura Stuti Manjari,3rd ed. 2008"
-Acknowledge-Permission = "Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/"
-"Latest update" = "March 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "माण्गिरीशाष्टकम्"
+---
+Acknowledge-Permission: Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/
+Author: from Shri Mangeshi Dev Sansthanam, Goa
+Category: shiva, aShTaka
+File name: mAngirIshAShTakam.itx
+Language: Sanskrit
+Latest update: March 2, 2018
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri Chitrapura Stuti Manjari,3rd ed. 2008
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mAngirIshAShTakam
+engtitle: mAngirIshAShTakam
+itxtitle: mANgirIshAShTakam
+title: माण्गिरीशाष्टकम्
 
-+++
+---
   
  श्रीमाङ्गिरीशाष्टकम्   
 विश्वेश्वर प्रणत दुःखविनाशकारिन्  

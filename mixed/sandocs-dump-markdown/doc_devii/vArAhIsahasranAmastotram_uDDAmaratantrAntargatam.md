@@ -1,25 +1,25 @@
-+++
-"Text title" = "vArAhIsahasranAmastotram"
-"File name" = "vArAhIsahasranAmastotra.itx"
-itxtitle = "vArAhIsahasranAmastotram (uDDAmaratantrAntargatam)"
-engtitle = "vArAhIsahasranAmastotram"
-Category = "sahasranAma, devii, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shankara shankara_2000 at yahoo.com"
-"Proofread by" = "Shankara shankara_2000 at yahoo.com"
-Description-comments = "See corresponding sahasranAmAvalI"
-Souce = "uDDAmaratantrokte"
-Indexextra = "(Scan, nAmAvalI)"
-"Latest update" = "July 13, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वाराहीसहस्रनामस्तोत्रम् (उड्डामरतन्त्रान्तर्गतम्)"
+---
+Category: sahasranAma, devii, stotra, devI
+Description-comments: See corresponding sahasranAmAvalI
+File name: vArAhIsahasranAmastotra.itx
+Indexextra: (Scan, nAmAvalI)
+Language: Sanskrit
+Latest update: July 13, 2017
+Location: doc_devii
+Proofread by: Shankara shankara_2000 at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Souce: uDDAmaratantrokte
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: vArAhIsahasranAmastotram
+Texttype: stotra
+Transliterated by: Shankara shankara_2000 at yahoo.com
+engtitle: vArAhIsahasranAmastotram
+itxtitle: vArAhIsahasranAmastotram (uDDAmaratantrAntargatam)
+title: वाराहीसहस्रनामस्तोत्रम् (उड्डामरतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीआदिवाराहीसहस्रनामस्तोत्रम्   
 उड्डामरतन्त्र्न्तर्गतम्  
@@ -309,7 +309,7 @@ title = "वाराहीसहस्रनामस्तोत्रम् (
 आग्नीध्रोऽच्छवगाष्टावग्रावस्तुत्प्रतर्दकः ॥ ७८॥  
   
 सुब्रह्मण्यो ब्राह्मणश्च मैत्रावरुणवारुणौ ।  
-प्रस्तोता प्रतिप्रस्थाता यजमाना ध्रुवंत्रिका ॥ ७९॥  
+प्रस्तोता प्रतिप्रस्थाता यजमाना ध्रुवन्त्रिका ॥ ७९॥  
   
 आमिक्षामीषदाज्यं च हव्यं कव्यं चरुः पयः ।  
 जुहूद्धुणोभृत् ब्रह्मा त्रयी त्रेता तरश्विनी  ॥ ८०॥  

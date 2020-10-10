@@ -1,23 +1,23 @@
-+++
-"Text title" = "hayagrIvapaTalam"
-"File name" = "hayagrIvapaTalam.itx"
-itxtitle = "hayagrIvapaTalam"
-engtitle = "hayagrIvapaTalam"
-Category = "vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-"Latest update" = "June 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हयग्रीवपटलम्"
+---
+Author: Traditional
+Category: vishhnu, vishnu
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: hayagrIvapaTalam.itx
+Language: Sanskrit
+Latest update: June 5, 2016
+Location: doc_vishhnu
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: hayagrIvapaTalam
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: hayagrIvapaTalam
+itxtitle: hayagrIvapaTalam
+title: हयग्रीवपटलम्
 
-+++
+---
   
  हयग्रीवपटलम्   
   

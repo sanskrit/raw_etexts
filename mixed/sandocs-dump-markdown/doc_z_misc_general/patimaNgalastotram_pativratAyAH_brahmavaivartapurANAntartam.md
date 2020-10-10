@@ -1,23 +1,23 @@
-+++
-"Text title" = "patimangalastotram"
-"File name" = "patimangalastotram.itx"
-itxtitle = "patimaNgalastotram pativratAyAH (brahmavaivartapurANAntartam)"
-engtitle = "Patimangalastotram"
-Category = "misc, mangala"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jonathan Wiener wiener78 at sbcglobal.net"
-"Proofread by" = "Jonathan Wiener, NA"
-Description-comments = "Brahmavaivartapurana"
-Indexextra = "(Meaning)"
-"Latest update" = "August 15, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पतिमण्गलस्तोत्रम् पतिव्रतायाः (ब्रह्मवैवर्तपुराणान्तर्तम्)"
+---
+Category: misc, mangala
+Description-comments: Brahmavaivartapurana
+File name: patimangalastotram.itx
+Indexextra: (Meaning)
+Language: Sanskrit
+Latest update: August 15, 2017
+Location: doc_z_misc_general
+Proofread by: Jonathan Wiener, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: patimangalastotram
+Transliterated by: Jonathan Wiener wiener78 at sbcglobal.net
+engtitle: Patimangalastotram
+itxtitle: patimaNgalastotram pativratAyAH (brahmavaivartapurANAntartam)
+title: पतिमण्गलस्तोत्रम् पतिव्रतायाः (ब्रह्मवैवर्तपुराणान्तर्तम्)
 
-+++
+---
   
  पतिव्रतायाः श्रीपतिमङ्गलस्तोत्रम्   
   

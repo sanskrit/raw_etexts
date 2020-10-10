@@ -1,24 +1,24 @@
-+++
-"Text title" = "kAlidAsa sa.nkShipta charitra"
-"File name" = "kalidas.itx"
-itxtitle = "kAlidAsasya saNkShiptacharitram"
-engtitle = "kAlidAsa life and works"
-Category = "kAlidAsa, major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-Indexextra = "(information, links - life and works)"
-"Latest update" = "Feburary 15, 1996, October 21, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालिदासस्य सण्क्षिप्तचरित्रम्"
+---
+Category: kAlidAsa, major_works
+File name: kalidas.itx
+Indexextra: (information, links - life and works)
+Language: Sanskrit
+Latest update: Feburary 15, 1996, October 21, 2019
+Location: doc_z_misc_major_works
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: kAlidAsa sa.nkShipta charitra
+Texttype: pramukha
+Transliterated by: NA
+engtitle: kAlidAsa life and works
+itxtitle: kAlidAsasya saNkShiptacharitram
+title: कालिदासस्य सण्क्षिप्तचरित्रम्
 
-+++
+---
   
- कालिदास संक्षिप्त चरित्र   
+ कालिदास सङ्क्षिप्त चरित्र   
   
            A collection from various sources.  
   
@@ -55,18 +55,18 @@ V . S . Apte
 Word: navan नवन्  
 नवरत्नं   The nine gems or poets at the court of king VikramAditya.  
   
-धन्वंतरिक्षपणकामरसिंहशंकु  
+धन्वन्तरिक्षपणकामरसिंहशङ्कु  
      वेतालभट्टघटकर्परकालिदासाः ।  
 ख्यातो वराहमिहिरो नृपतेः सभायां  
      रत्नानि वै वररुचिर्नव विक्रमस्य ॥  
   
   
 The navarathnas are:    
-धन्वंतरि   (dhanva.ntari)  
+धन्वन्तरि   (dhanva.ntari)  
 क्षपणक   (kShapaNaka)  
 अमरसिंह   (amarasi.nha) of the author amarakosha , the most popular  
 Sanskrit Lexicon .  He was a Jaina.  
-शंकु   (sha.nku)  
+शङ्कु   (sha.nku)  
 वेतालभट्ट   (vetAlabhaTTa)  
 घटकर्पर   (ghaTakarpara)  
 कालिदास   (kAlidAsa)  
@@ -144,13 +144,13 @@ by: Kedar Naphade, ksn2 at lehigh.edu
   
 (So whenever any poet came and read his new poem, some scholars said, this is not really new . see, we also know it . Then they recited the whole poem.  then those who could remember things after they had heard it twice said the same thing and recited the poem . Then those who remembered things after they had heard them thrice did the same thing . Hence no poet was able to claim the lakh rupees.)  
   
-कालीदासाय न खलु अरुच्यत एतद् । कंचित् नवकविं सः स्वकक्षे  
+कालीदासाय न खलु अरुच्यत एतद् । कञ्चित् नवकविं सः स्वकक्षे  
 आनीतवान् तं एतद् सुभाषितं च दत्तवान्  -  
   
 (kAlIdAsa didnt really like this . He took one poet to his room, and gave him the following subhAShita - )  
   
 स्वस्ति श्री भोजराजन् त्वमखिलभुवने धार्मिकः सत्यवक्ता  
-पित्रा ते संगृहीता नवनवतिमिता रत्नकोट्यो मदीयः ।  
+पित्रा ते सङ्गृहीता नवनवतिमिता रत्नकोट्यो मदीयः ।  
 तांस्त्वं देहीति राजन् सकलबुधजनैर्ज्ञायते सत्यं एतद्  
 नो वा जानन्ति यत्तन्ममकृतिमपि नो देहि लक्षं ततो मे ॥  
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Mallari Hridayam"
-"File name" = "mallArihRRidayam.itx"
-itxtitle = "mallArihRidayam malhArihRidayam"
-engtitle = "mallArihRRidayam"
-Category = "shiva, hRidaya"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(audio)"
-Acknowledge-Permission = "Prakash Ketkar"
-"Latest update" = "December 20, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मल्लारिहृइदयम् मल्हारिहृइदयम्"
+---
+Acknowledge-Permission: Prakash Ketkar
+Category: shiva, hRidaya
+File name: mallArihRRidayam.itx
+Indexextra: (audio)
+Language: Sanskrit
+Latest update: December 20, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mallari Hridayam
+engtitle: mallArihRRidayam
+itxtitle: mallArihRidayam malhArihRidayam
+title: मल्लारिहृइदयम् मल्हारिहृइदयम्
 
-+++
+---
   
  श्रीमल्लारिहृदयस्तोत्रम्   
 श्री गणेशाय नमः ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Gayatri Lahari"
-"File name" = "gAyatrI_laharI.itx"
-itxtitle = "gAyatrIlaharI"
-engtitle = "Gayatri Lahari"
-Category = "laharI, devii, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Gayatri Mahavijnana -Pandit Rama Sharma Acharya,"
-"Latest update" = "Mar. 14, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीलहरी"
+---
+Author: Traditional
+Category: laharI, devii, gAyatrI, devI
+File name: gAyatrI_laharI.itx
+Language: Sanskrit
+Latest update: Mar. 14, 2014
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Gayatri Mahavijnana -Pandit Rama Sharma Acharya,
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gayatri Lahari
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Gayatri Lahari
+itxtitle: gAyatrIlaharI
+title: गायत्रीलहरी
 
-+++
+---
   
  गायत्री लहरी   
   
@@ -39,7 +39,7 @@ title = "गायत्रीलहरी"
   
 अये दिव्ये देवि त्रिदशनिवहैर्वन्दितपदे  
 न शेकुस्त्वां स्तोतुं भगवति महान्तोऽपि मुनयः ।  
-कथंकारं तर्हिस्तुतिततिरियं मे शुभतरा-  
+कथङ्कारं तर्हिस्तुतिततिरियं मे शुभतरा-  
 तथा पूर्णा भूयात् त्रुटिपरियुता भावरहिता ॥ ४॥  
   
 भजन्तं निर्व्याजं तव सुखदमन्त्रं विजयिनं  
@@ -65,7 +65,7 @@ title = "गायत्रीलहरी"
 अथाहोस्विन्मातः सरिदधिपतेः सारमखिलं  
 सुधारूपं कूपं लघुतरमनूपं कलयति ।  
 स्वभक्तेभ्यो नित्यं वितरसि जनोद्धारिणि शुभे  
-विहीने दीने मय्यपि कृपय किंचित् करुणया ॥ ९॥  
+विहीने दीने मय्यपि कृपय किञ्चित् करुणया ॥ ९॥  
   
 सदैव त्वत्पाणौ विधृतमरविन्दं द्युतिकरं  
 त्विदं दर्शं दर्शं रविशशिसमं नेत्रयुगलम् ।  

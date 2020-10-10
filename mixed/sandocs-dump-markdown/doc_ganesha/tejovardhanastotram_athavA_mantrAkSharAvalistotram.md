@@ -1,21 +1,21 @@
-+++
-"Text title" = "tejovardhanastotram"
-"File name" = "tejovardhanastotram.itx"
-itxtitle = "tejovardhanastotram athavA mantrAkSharAvalistotram"
-engtitle = "tejovardhanastotram"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Veeramani Nambi veeramani.nambi at gmail.com"
-"Proofread by" = "Veeramani Nambi, Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "May 14, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तेजोवर्धनस्तोत्रम् अथवा मन्त्राक्षरावलिस्तोत्रम्"
+---
+Category: ganesha
+File name: tejovardhanastotram.itx
+Language: Sanskrit
+Latest update: May 14, 2018
+Location: doc_ganesha
+Proofread by: Veeramani Nambi, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: tejovardhanastotram
+Transliterated by: Veeramani Nambi veeramani.nambi at gmail.com
+engtitle: tejovardhanastotram
+itxtitle: tejovardhanastotram athavA mantrAkSharAvalistotram
+title: तेजोवर्धनस्तोत्रम् अथवा मन्त्राक्षरावलिस्तोत्रम्
 
-+++
+---
   
 तेजोवर्धनस्तोत्रम् अथवा मन्त्राक्षरावलिस्तोत्रम्   
 श्रीगणेशाय नमः ॥  

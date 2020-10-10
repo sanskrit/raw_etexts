@@ -1,24 +1,24 @@
-+++
-"Text title" = "taaraakavacham"
-"File name" = "taaraakavach.itx"
-itxtitle = "tArAkavachaM athavA ugratArAkavacham"
-engtitle = "tArAkavacham"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "rudrayAmaletantre"
-"Latest update" = "March 02, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ताराकवचं अथवा उग्रताराकवचम्"
+---
+Author: Traditional
+Category: kavacha, devii, dashamahAvidyA, devI
+Description-comments: rudrayAmaletantre
+File name: taaraakavach.itx
+Language: Sanskrit
+Latest update: March 02, 2006
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: taaraakavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: tArAkavacham
+itxtitle: tArAkavachaM athavA ugratArAkavacham
+title: ताराकवचं अथवा उग्रताराकवचम्
 
-+++
+---
   
  ताराकवचम्   
   
@@ -30,9 +30,9 @@ title = "ताराकवचं अथवा उग्रताराकवच
 अस्य ताराकवचस्य अक्षोभ्य ऋषिः , त्रिष्टुप् छन्दः ,  
 भगवती तारा देवता , सर्वमन्त्रसिद्धिसमृद्धये जपे विनियोगः ।  
 प्रणवो मे शिरः पातु ब्रह्मरूपा महेश्वरी ।  
-ललाटे पातु ह्रींकारो बीजरूपा महेश्वरी ॥ २॥  
+ललाटे पातु ह्रीङ्कारो बीजरूपा महेश्वरी ॥ २॥  
   
-स्त्रींकारो वदने नित्यं लज्जारूपा महेश्वरी ।  
+स्त्रीङ्कारो वदने नित्यं लज्जारूपा महेश्वरी ।  
 हूँकारः पातु हृदये भवानीरूपशक्तिधृक् ॥ ३॥  
   
 फट्कारः पातु सर्वाङ्गे सर्वसिद्धिफलप्रदा ।  
@@ -92,14 +92,14 @@ title = "ताराकवचं अथवा उग्रताराकवच
 ॐ आं हूं स्वाहा महेशानी पातु द्यूते हरप्रिया ।  
 ॐ ह्रीं सर्वविघ्नोत्सारिणी देवी विघ्नान्मां सदाऽवतु ॥ २२॥  
   
-ॐ पवित्रवज्रभूमे हुंफट्स्वाहा समन्विता ।  
+ॐ पवित्रवज्रभूमे हुम्फट्स्वाहा समन्विता ।  
 पूरिका पातु मां देवी सर्वविघ्नविनाशिनी ॥ २३॥  
   
-ॐ आः सुरेखे वज्ररेखे हुंफट्स्वाहासमन्विता ।  
-पाताले पातु सा देवी लाकिनी नामसंज्ञिका ॥ २४॥  
+ॐ आः सुरेखे वज्ररेखे हुम्फट्स्वाहासमन्विता ।  
+पाताले पातु सा देवी लाकिनी नामसञ्ज्ञिका ॥ २४॥  
   
-ह्रींकारी पातु मां पूर्वे शक्तिरूपा महेश्वरी ।  
-स्त्रींकारी पातु देवेशी वधूरूपा महेश्वरी ॥ २५॥  
+ह्रीङ्कारी पातु मां पूर्वे शक्तिरूपा महेश्वरी ।  
+स्त्रीङ्कारी पातु देवेशी वधूरूपा महेश्वरी ॥ २५॥  
   
 हूंस्वरूपा महादेवी पातु मां क्रोधरूपिणी ।  
 फट्स्वरूपा महामाया उत्तरे पातु सर्वदा ॥ २६॥  

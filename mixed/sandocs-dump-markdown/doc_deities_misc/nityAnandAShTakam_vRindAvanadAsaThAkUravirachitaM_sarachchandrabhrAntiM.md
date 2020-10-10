@@ -1,24 +1,24 @@
-+++
-"Text title" = "Nityanandashtakam Hymn to Nitai or Nityananda"
-"File name" = "nityAnandAShTakam.itx"
-itxtitle = "nityAnandAShTakam (vRindAvanadAsaThAkUravirachitaM, sarachchandrabhrAntiM)"
-engtitle = "Nityanandashtakam"
-Category = "deities_misc, gurudev, krishna, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "vRindAvanadAsa ThAkUra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Syama Jivani Devi Dasi"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Meaning, Nitai)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नित्यानन्दाष्टकम् (वृइन्दावनदासठाकूरविरचितं, सरच्चन्द्रभ्रान्तिं)"
+---
+Author: vRindAvanadAsa ThAkUra
+Category: deities_misc, gurudev, krishna, aShTaka
+File name: nityAnandAShTakam.itx
+Indexextra: (Meaning, Nitai)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Nityanandashtakam Hymn to Nitai or Nityananda
+Transliterated by: Syama Jivani Devi Dasi
+engtitle: Nityanandashtakam
+itxtitle: nityAnandAShTakam (vRindAvanadAsaThAkUravirachitaM, sarachchandrabhrAntiM)
+title: नित्यानन्दाष्टकम् (वृइन्दावनदासठाकूरविरचितं, सरच्चन्द्रभ्रान्तिं)
 
-+++
+---
   
  नित्यानन्दाष्टकम्   
 शरच्चन्द्रभ्रान्तिं स्फुरदमलकान्तिं गजगतिं  

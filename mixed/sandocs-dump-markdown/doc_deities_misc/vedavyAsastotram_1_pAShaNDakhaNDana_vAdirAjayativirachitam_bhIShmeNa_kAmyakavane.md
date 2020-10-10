@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Veda Vyasa Stotram 1 Pashandakhandana"
-"File name" = "vedavyAsastotram1pAShaNDakhaNDana.itx"
-itxtitle = "vedavyAsastotram 1 pAShaNDakhaNDana (vAdirAjayativirachitam bhIShmeNa kAmyakavane)"
-engtitle = "vedavyAsastotram 1 pAShaNDakhaNDana"
-Category = "deities_misc, gurudev, vAdirAja"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Vadiraja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वेदव्यासस्तोत्रम् १ पाषण्डखण्डन (वादिराजयतिविरचितम् भीष्मेण काम्यकवने)"
+---
+Author: Vadiraja
+Category: deities_misc, gurudev, vAdirAja
+File name: vedavyAsastotram1pAShaNDakhaNDana.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Veda Vyasa Stotram 1 Pashandakhandana
+Transliterated by: Krishnananda Achar
+engtitle: vedavyAsastotram 1 pAShaNDakhaNDana
+itxtitle: vedavyAsastotram 1 pAShaNDakhaNDana (vAdirAjayativirachitam bhIShmeNa kAmyakavane)
+title: वेदव्यासस्तोत्रम् १ पाषण्डखण्डन (वादिराजयतिविरचितम् भीष्मेण काम्यकवने)
 
-+++
+---
   
  पाषण्डखण्डन श्रीवेदव्यासस्तोत्रम् १   
 भीष्मेण काम्यकवने धर्मराजं नृपं प्रति ।  

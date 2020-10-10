@@ -1,21 +1,21 @@
-+++
-"Text title" = "ChinnamastAdvAdashanAmastotram"
-"File name" = "ChinnamastAdvAdashanAmastotram.itx"
-itxtitle = "ChinnamastAdvAdashanAmastotram (ChinnamastAhRidayAntargatam)"
-engtitle = "ChinnamastAdvAdashanAmastotram"
-Category = "devii, devI, dashamahAvidyA, dvAdasha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "From chhinnamastaahridayam"
-"Latest update" = "May 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "छिन्नमस्ताद्वादशनामस्तोत्रम् (छिन्नमस्ताहृइदयान्तर्गतम्)"
+---
+Category: devii, devI, dashamahAvidyA, dvAdasha
+Description/comments: From chhinnamastaahridayam
+File name: ChinnamastAdvAdashanAmastotram.itx
+Language: Sanskrit
+Latest update: May 17, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ChinnamastAdvAdashanAmastotram
+engtitle: ChinnamastAdvAdashanAmastotram
+itxtitle: ChinnamastAdvAdashanAmastotram (ChinnamastAhRidayAntargatam)
+title: छिन्नमस्ताद्वादशनामस्तोत्रम् (छिन्नमस्ताहृइदयान्तर्गतम्)
 
-+++
+---
   
  छिन्नमस्ताद्वादशनामस्तोत्रम्   
 छिन्नग्रीवा छिन्नमस्ता छिन्नमुण्डधराऽक्षता ।  

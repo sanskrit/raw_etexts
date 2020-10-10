@@ -1,23 +1,23 @@
-+++
-"Text title" = "shanirakShAstavaH"
-"File name" = "shanirakShAstava.itx"
-itxtitle = "shanirakShAstavaH"
-engtitle = "shanirakShAstavaH"
-Category = "navagraha, shani, stotra, raksha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-SubDeity = "shani"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "anonymous456an at gmail.com"
-"Proofread by" = "anonymous456an at gmail.com"
-"Latest update" = "June 16, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शनिरक्षास्तवः"
+---
+Category: navagraha, shani, stotra, raksha
+File name: shanirakShAstava.itx
+Language: Sanskrit
+Latest update: June 16, 2017
+Location: doc_z_misc_navagraha
+Proofread by: anonymous456an at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: shani
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shanirakShAstavaH
+Texttype: stotra
+Transliterated by: anonymous456an at gmail.com
+engtitle: shanirakShAstavaH
+itxtitle: shanirakShAstavaH
+title: शनिरक्षास्तवः
 
-+++
+---
   
  श्रीशनिरक्षास्तवः   
   

@@ -1,24 +1,25 @@
-+++
-"Text title" = "kumArIsahasranAmastotram evam kavachaM rudrayAmale"
-"File name" = "shrIkumArIsahasranAmastotram.itx"
-itxtitle = "kumArIsahasranAmastotram"
-engtitle = "KumarI SahasranAmastotram"
-Category = "sahasranAma, devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://muktalib5.org"
-"Proofread by" = "http://muktalib5.org,DPD"
-Description-comments = "shrIrudrayAmale uttaratantre siddhamantra-prakaraNe divyabhAvanirNaye dashamaH paTalaH"
-"Latest update" = "April 26, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमारीसहस्रनामस्तोत्रम्"
+---
+Category: sahasranAma, devii, durgA, stotra, devI
+Description-comments: shrIrudrayAmale uttaratantre siddhamantra-prakaraNe divyabhAvanirNaye
+  dashamaH paTalaH
+File name: shrIkumArIsahasranAmastotram.itx
+Language: Sanskrit
+Latest update: April 26, 2020
+Location: doc_devii
+Proofread by: http://muktalib5.org,DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kumArIsahasranAmastotram evam kavachaM rudrayAmale
+Texttype: stotra
+Transliterated by: http://muktalib5.org
+engtitle: KumarI SahasranAmastotram
+itxtitle: kumArIsahasranAmastotram
+title: कुमारीसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीकुमारीसहस्रनामस्तोत्रम्   
   
@@ -103,7 +104,7 @@ title = "कुमारीसहस्रनामस्तोत्रम्"
 खचरा खरप्रेमा खलाढ्या खचरानना ।  
 खेचरेशी खरोग्रा च खेचरप्रियभाषिणी ॥ २६॥  
   
-खर्जूरासवसंमत्ता खर्जूरफलभोगिनी ।  
+खर्जूरासवसम्मत्ता खर्जूरफलभोगिनी ।  
 खातमध्यस्थिता खाता खाताम्बुपरिपूरिणी ॥ २७॥  
   
 ख्यातिः ख्यातजलानन्दा खुलना खञ्जनागतिः ।  
@@ -398,7 +399,7 @@ title = "कुमारीसहस्रनामस्तोत्रम्"
 ब्राह्मी बृहस्पतिसुता वाचस्पतिवरप्रदा ॥ १२४॥  
   
 वेदाचारा वेद्यपरा व्यासवक्त्रस्थिता विभा ।  
-बोधज्ञा वौषडाख्या च वंशीवंदनपूजिता ॥ १२५॥  
+बोधज्ञा वौषडाख्या च वंशीवन्दनपूजिता ॥ १२५॥  
   
 वज्रकान्ता वज्रगतिर्बदरीवंशविवद्धीनी ।  
 भारती भवरश्रीदा भवपत्नी भवात्मजा ॥ १२६॥  

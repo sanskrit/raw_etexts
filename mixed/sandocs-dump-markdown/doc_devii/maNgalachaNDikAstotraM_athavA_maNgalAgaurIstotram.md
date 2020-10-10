@@ -1,24 +1,24 @@
-+++
-"Text title" = "maNgalachaNDikAstotram"
-"File name" = "mangalachaNDikAstotra.itx"
-itxtitle = "maNgalachaNDikAstotraM athavA maNgalAgaurIstotram"
-engtitle = "Mangalachandikastotram"
-Category = "devii, dashamahAvidyA, stotra, devI, mangala"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-Description-comments = "Prakruti-Khanda, BrahmaVaivarta Purana (Adhyaya 44 shloka 20-41)"
-Source = "(Scan, Marathi)"
-"Latest update" = "September 5, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मण्गलचण्डिकास्तोत्रं अथवा मण्गलागौरीस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, stotra, devI, mangala
+Description-comments: Prakruti-Khanda, BrahmaVaivarta Purana (Adhyaya 44 shloka 20-41)
+File name: mangalachaNDikAstotra.itx
+Language: Sanskrit
+Latest update: September 5, 2013
+Location: doc_devii
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: (Scan, Marathi)
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: maNgalachaNDikAstotram
+Texttype: stotra
+engtitle: Mangalachandikastotram
+itxtitle: maNgalachaNDikAstotraM athavA maNgalAgaurIstotram
+title: मण्गलचण्डिकास्तोत्रं अथवा मण्गलागौरीस्तोत्रम्
 
-+++
+---
   
  श्रीमङ्गलचण्डिकास्तोत्रं अथवा मङ्गलागौरीस्तोत्रम्   
 ॐ ह्रीं श्रीं क्लीं सर्वपूज्ये देवी मङ्गलचण्डिके ।  

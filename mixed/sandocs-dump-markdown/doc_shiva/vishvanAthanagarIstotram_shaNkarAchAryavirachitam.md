@@ -1,22 +1,23 @@
-+++
-"Text title" = "vishvanAthanagarIstotram"
-"File name" = "vishvanAthanagarIstotram.itx"
-itxtitle = "vishvanAthanagarIstotram (shaNkarAchAryavirachitam)"
-engtitle = "vishvanAthanagarIstotram"
-Category = "shiva, shankarAchArya"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-"Latest update" = "June 13, 2010"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वनाथनगरीस्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: shiva, shankarAchArya
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: vishvanAthanagarIstotram.itx
+Language: Sanskrit
+Latest update: June 13, 2010
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: vishvanAthanagarIstotram
+engtitle: vishvanAthanagarIstotram
+itxtitle: vishvanAthanagarIstotram (shaNkarAchAryavirachitam)
+title: विश्वनाथनगरीस्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  विश्वनाथनगरीस्तोत्रम्   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Nrisimha Ashtakam 4"
-"File name" = "nRRisiMhAShTakam4.itx"
-itxtitle = "nRisiMhAShTakam 4 (shanaishcharakRitaM yatpAdapaNkajarajaH paramAdareNa)"
-engtitle = "NrisimhAshtakam 4"
-Category = "vishhnu, aShTaka, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Yash Khasbage"
-"Proofread by" = "Yash Khasbage, NA"
-"Description/comments" = "Gangamahatmya"
-Indexextra = "(Scan)"
-"Latest update" = "June 12, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृइसिंहाष्टकम् ४ (शनैश्चरकृइतं यत्पादपण्कजरजः परमादरेण)"
+---
+Category: vishhnu, aShTaka, dashAvatAra
+Description/comments: Gangamahatmya
+File name: nRRisiMhAShTakam4.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 12, 2020
+Location: doc_vishhnu
+Proofread by: Yash Khasbage, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Nrisimha Ashtakam 4
+Transliterated by: Yash Khasbage
+engtitle: NrisimhAshtakam 4
+itxtitle: nRisiMhAShTakam 4 (shanaishcharakRitaM yatpAdapaNkajarajaH paramAdareNa)
+title: नृइसिंहाष्टकम् ४ (शनैश्चरकृइतं यत्पादपण्कजरजः परमादरेण)
 
-+++
+---
   
  श्री शनैश्चरकृत नृसिंहाष्टकम्   
 श्री गणेशाय नमः । श्री शनैश्चराय नमः ॥  

@@ -1,27 +1,28 @@
-+++
-"Text title" = "Sharada Stava 4"
-"File name" = "shAradAstavaH4.itx"
-itxtitle = "shAradAstavaH 4 (ApaTIkaravirachitA)"
-engtitle = "shAradAstavaH 4"
-Category = "devii, sarasvatI, ApaTIkara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "ma. sa. ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शारदास्तवः ४ (आपटीकरविरचिता)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma. sa. ApaTIkara
+Category: devii, sarasvatI, ApaTIkara, devI
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: shAradAstavaH4.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_devii
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Sharada Stava 4
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: shAradAstavaH 4
+itxtitle: shAradAstavaH 4 (ApaTIkaravirachitA)
+title: शारदास्तवः ४ (आपटीकरविरचिता)
 
-+++
+---
   
  श्रीशारदास्तवः ४   
      (पृथ्वी)  

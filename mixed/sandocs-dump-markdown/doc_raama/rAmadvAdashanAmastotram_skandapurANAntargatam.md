@@ -1,19 +1,19 @@
-+++
-"Text title" = "rAmadvAdashanAmastotram"
-"File name" = "rAmadvAdashanAmastotram.itx"
-itxtitle = "rAmadvAdashanAmastotram (skandapurANAntargatam)"
-engtitle = "rAmadvAdashanAmastotram"
-Category = "raama, dvAdasha"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "July 6, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामद्वादशनामस्तोत्रम् (स्कन्दपुराणान्तर्गतम्)"
+---
+Category: raama, dvAdasha
+File name: rAmadvAdashanAmastotram.itx
+Language: Sanskrit
+Latest update: July 6, 2019
+Location: doc_raama
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmadvAdashanAmastotram
+engtitle: rAmadvAdashanAmastotram
+itxtitle: rAmadvAdashanAmastotram (skandapurANAntargatam)
+title: रामद्वादशनामस्तोत्रम् (स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीरामद्वादशनामस्तोत्रम्   
 प्रथमं श्रीधरं विद्याद्द्वितीयं रघुनायकम् ।  

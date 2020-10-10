@@ -1,23 +1,23 @@
-+++
-"Text title" = "shankarAryapadAvalambastavaH"
-"File name" = "shankarAryapadAvalambastavaH.itx"
-itxtitle = "shaNkarAryapadAvalambastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "shankarAryapadAvalambastavaH"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudeva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शण्करार्यपदावलम्बस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva
+File name: shankarAryapadAvalambastavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudeva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shankarAryapadAvalambastavaH
+engtitle: shankarAryapadAvalambastavaH
+itxtitle: shaNkarAryapadAvalambastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: शण्करार्यपदावलम्बस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीशङ्करार्यपदावलम्बस्तवः   
 (कालटिक्षेत्रे )॥  
@@ -79,7 +79,7 @@ title = "शण्करार्यपदावलम्बस्तवः (श
   
 अन्यैर्भिषग्भिरनिवार्यमहाऽऽमयं मे  
 यस्मात्त्वमाद्यभिषगस्यचिरान्निवार्य ।  
-अज्ञानसंज्ञमतिनिश्चलबोधदाना-  
+अज्ञानसञ्ज्ञमतिनिश्चलबोधदाना-  
 च्छ्रीशङ्करार्य मम देहि पदावलम्बम् ॥ १२॥  
   
 वातावधूतवरुणालयभङ्गगर्व-  
@@ -92,7 +92,7 @@ title = "शण्करार्यपदावलम्बस्तवः (श
 यद्वत्पुनः परमकारुणिकाग्रगण्य  
 श्रीशङ्करार्य मम देहि पदावद्ध्यबम् ॥ १४॥  
   
-संन्यासिनां हि विषवद्विषयेषु बुद्धिं  
+सन्न्यासिनां हि विषवद्विषयेषु बुद्धिं  
 तन्वस्तथा च गृहिणां शुभकर्मवाञ्छाम् ।  
 सर्वान्क्रमेण च परं पदमापयंस्त्वं  
 श्रीशङ्करार्य मम देहि पदाबलम्बम् ॥ १५॥  

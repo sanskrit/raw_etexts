@@ -1,22 +1,22 @@
-+++
-"Text title" = "Bharata Rashtre Paramarshinam Vijnanam Vijayatam"
-"File name" = "bhAratarAShTreparamarShINAMvijnAnaMvijayatAm.itx"
-itxtitle = "bhArata rAShTre paramarShINAM vijnAnaM vijayatAm"
-engtitle = "bhArata rAShTre paramarShINAM vijnAnaM vijayatAm"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Volunteers at Bharat Vikas Parishad https://bvpindia.com"
-Indexextra = "(Text, BVP Intro)"
-Acknowledge-Permission = "Bharat Vikas Parishad https://bvpindia.com Atam Dev"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारत राष्ट्रे परमर्षीणां विज्ञानं विजयताम्"
+---
+Acknowledge-Permission: Bharat Vikas Parishad https://bvpindia.com Atam Dev
+Category: misc, sanskritgeet
+File name: bhAratarAShTreparamarShINAMvijnAnaMvijayatAm.itx
+Indexextra: (Text, BVP Intro)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bharata Rashtre Paramarshinam Vijnanam Vijayatam
+Transliterated by: Volunteers at Bharat Vikas Parishad https://bvpindia.com
+engtitle: bhArata rAShTre paramarShINAM vijnAnaM vijayatAm
+itxtitle: bhArata rAShTre paramarShINAM vijnAnaM vijayatAm
+title: भारत राष्ट्रे परमर्षीणां विज्ञानं विजयताम्
 
-+++
+---
   
  भारत राष्ट्रे परमर्षीणां विज्ञानं विजयताम्   
 भारत राष्ट्रे परमर्षीणां विज्ञानं विजयताम्,  

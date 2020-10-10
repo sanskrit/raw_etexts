@@ -1,22 +1,22 @@
-+++
-"Text title" = "sadAnandopaniShat"
-"File name" = "sadAnandopaniShat.itx"
-itxtitle = "sadAnandopaniShat (shaiva)"
-engtitle = "sadAnandopaniShat"
-Category = "upanishhat, shiva, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सदानन्दोपनिषत् (शैव)"
+---
+Category: upanishhat, shiva, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: sadAnandopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: sadAnandopaniShat
+engtitle: sadAnandopaniShat
+itxtitle: sadAnandopaniShat (shaiva)
+title: सदानन्दोपनिषत् (शैव)
 
-+++
+---
   
  सदानन्दोपनिषत्   
 तच्छंयोरावृणीमहे-इति शान्तिः  

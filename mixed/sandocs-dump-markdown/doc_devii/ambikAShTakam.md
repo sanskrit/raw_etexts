@@ -1,21 +1,21 @@
-+++
-"Text title" = "ambikAShTakam"
-"File name" = "ambikAShTakam.itx"
-itxtitle = "ambikAShTakam"
-engtitle = "ambikAShTakam"
-Category = "devii, devI, jaina, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अम्बिकाष्टकम्"
+---
+Category: devii, devI, jaina, aShTaka
+File name: ambikAShTakam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ambikAShTakam
+engtitle: ambikAShTakam
+itxtitle: ambikAShTakam
+title: अम्बिकाष्टकम्
 
-+++
+---
   
  श्रीअम्बिकाष्टकम्   
 व्यालोलालम्बमानप्रवणरणझत्किङ्किणीक्वाणरम्यं  
@@ -31,7 +31,7 @@ title = "अम्बिकाष्टकम्"
 या कौबेरं विहाय स्वपतिपरिभवात्साधुदानप्ररूढात्  
      स्थानं श्रान्तातिमार्गे श्रमशमनकृते संश्रिता चूतवृक्षम् ।  
 क्षुत्क्षामौ वीक्ष्य पुत्रौ कृतसुकृतवशात्प्रार्थयन्ती फलानि  
-     क्षिप्रं संप्राप तानि स्वचरितमुदिता पातु मामम्बिका सा ॥ ३॥  
+     क्षिप्रं सम्प्राप तानि स्वचरितमुदिता पातु मामम्बिका सा ॥ ३॥  
   
 देवी याऽत्रोपविष्टा सरणिगतपतिं वीक्ष्य कम्पं दधाना  
      स्मृत्वा श्री रैवताद्रिं व्यवसितमरणा साधधर्मं स्मरन्ती ।  

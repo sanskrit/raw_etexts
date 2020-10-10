@@ -1,21 +1,21 @@
-+++
-"Text title" = "Bhairava Sarvaphalaprada Stotram"
-"File name" = "bhairavasarvaphalapradastotram.itx"
-itxtitle = "bhairavasarvaphalapradastotram"
-engtitle = "bhairavasarvaphalapradastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भैरवसर्वफलप्रदस्तोत्रम्"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: shiva
+File name: bhairavasarvaphalapradastotram.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Bhairava Sarvaphalaprada Stotram
+engtitle: bhairavasarvaphalapradastotram
+itxtitle: bhairavasarvaphalapradastotram
+title: भैरवसर्वफलप्रदस्तोत्रम्
 
-+++
+---
   
  श्रीभैरवसर्वफलप्रदस्तोत्रम्   
 ॐ भं भैरवाय अनिष्टनिवारणाय स्वाहा  ।  

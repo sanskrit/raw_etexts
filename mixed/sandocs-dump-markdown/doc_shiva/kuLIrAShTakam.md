@@ -1,21 +1,21 @@
-+++
-"Text title" = "Kulirashtakam"
-"File name" = "kuLIrAShTakam.itx"
-itxtitle = "kuLIrAShTakam"
-engtitle = "kuLIrAShTakam"
-Category = "shiva, shrIdhara-venkaTesha, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Shridharavenkatesa of Tiruvisanallur or Ayyaval with respect"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Works)"
-"Latest update" = "November 16, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुळीराष्टकम्"
+---
+Author: Shridharavenkatesa of Tiruvisanallur or Ayyaval with respect
+Category: shiva, shrIdhara-venkaTesha, aShTaka
+File name: kuLIrAShTakam.itx
+Indexextra: (Works)
+Language: Sanskrit
+Latest update: November 16, 2019
+Location: doc_shiva
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Kulirashtakam
+engtitle: kuLIrAShTakam
+itxtitle: kuLIrAShTakam
+title: कुळीराष्टकम्
 
-+++
+---
   
  कुळीराष्टकम्   
 तवास्याराद्धारः कति मुनिवराः कत्यपि सुराः  

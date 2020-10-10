@@ -1,21 +1,21 @@
-+++
-"Text title" = "chaNDIprAtaHsmaraNam"
-"File name" = "chaNDIprAtaHsmaraNam.itx"
-itxtitle = "chaNDI athavA durgA athavA bhagavatI prAtaHsmaraNam"
-engtitle = "chaNDIprAtaHsmaraNam"
-Category = "suprabhAta, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Jonathan Wiener wiener78 at sbcglobal.net, NA"
-Indexextra = "(Translations English, Hindi)"
-"Latest update" = "August 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चण्डी अथवा दुर्गा अथवा भगवती प्रातःस्मरणम्"
+---
+Category: suprabhAta, devii, durgA, devI
+File name: chaNDIprAtaHsmaraNam.itx
+Indexextra: (Translations English, Hindi)
+Language: Sanskrit
+Latest update: August 2, 2017
+Location: doc_devii
+Proofread by: Jonathan Wiener wiener78 at sbcglobal.net, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: chaNDIprAtaHsmaraNam
+engtitle: chaNDIprAtaHsmaraNam
+itxtitle: chaNDI athavA durgA athavA bhagavatI prAtaHsmaraNam
+title: चण्डी अथवा दुर्गा अथवा भगवती प्रातःस्मरणम्
 
-+++
+---
   
  श्रीचण्डी अथवा दुर्गा अथवा भगवती प्रातःस्मरणम्   
   

@@ -1,23 +1,23 @@
-+++
-"Text title" = "ArtatrANanArAyaNAShTAdashakam"
-"File name" = "ArtatrANanArAyaNAShTAdashakam.itx"
-itxtitle = "ArtatrANanArAyaNAShTAdashakam"
-engtitle = "ArtatrANanArAyaNAShTAdashakam"
-Category = "dashaka, vishhnu, vishnu, aShTAdasha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-"Latest update" = "June 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आर्तत्राणनारायणाष्टादशकम्"
+---
+Author: Traditional
+Category: dashaka, vishhnu, vishnu, aShTAdasha
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: ArtatrANanArAyaNAShTAdashakam.itx
+Language: Sanskrit
+Latest update: June 5, 2016
+Location: doc_vishhnu
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ArtatrANanArAyaNAShTAdashakam
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: ArtatrANanArAyaNAShTAdashakam
+itxtitle: ArtatrANanArAyaNAShTAdashakam
+title: आर्तत्राणनारायणाष्टादशकम्
 
-+++
+---
   
  आर्तत्राणनारायणाष्टादशकम्   
 प्रह्लाद प्रभुरस्ति चेत्तव दृरिः सर्वत्र मे दर्शय  

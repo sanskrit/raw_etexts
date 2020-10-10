@@ -1,24 +1,24 @@
-+++
-"Text title" = "Vandeham Bharatambam"
-"File name" = "vandehaMbhAratAmbAM.itx"
-itxtitle = "vande.ahaM bhAratAmbAM"
-engtitle = "vandehaM bhAratAmbAM"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "lakShmInArAyaNaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वन्देऽहं भारताम्बां"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: lakShmInArAyaNaH
+Category: misc, sanskritgeet
+File name: vandehaMbhAratAmbAM.itx
+Indexextra: (Wiki, Videos 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Vandeham Bharatambam
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: vandehaM bhAratAmbAM
+itxtitle: vande.ahaM bhAratAmbAM
+title: वन्देऽहं भारताम्बां
 
-+++
+---
   
  वन्देहं भारताम्बां   
 वन्देहं भारताम्बां जन्मदायिनीम् ।  

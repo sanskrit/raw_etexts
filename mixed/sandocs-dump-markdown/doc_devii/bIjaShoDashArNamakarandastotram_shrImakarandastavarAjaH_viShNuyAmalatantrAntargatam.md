@@ -1,22 +1,23 @@
-+++
-"Text title" = "bIjaShoDashArNamakarandastotram"
-"File name" = "bIjaShoDashArNamakarandastotram.itx"
-itxtitle = "bIjaShoDashArNamakarandastotram shrImakarandastavarAjaH (viShNuyAmalatantrAntargatam)"
-engtitle = "bIjaShoDashArNamakarandastotram"
-Category = "devii, devI, stavarAja"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-Source = "viShNuyAmala, rudrayAmala"
-"Latest update" = "July 3, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बीजषोडशार्णमकरन्दस्तोत्रम् श्रीमकरन्दस्तवराजः (विष्णुयामलतन्त्रान्तर्गतम्)"
+---
+Category: devii, devI, stavarAja
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: bIjaShoDashArNamakarandastotram.itx
+Language: Sanskrit
+Latest update: July 3, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: viShNuyAmala, rudrayAmala
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bIjaShoDashArNamakarandastotram
+engtitle: bIjaShoDashArNamakarandastotram
+itxtitle: bIjaShoDashArNamakarandastotram shrImakarandastavarAjaH (viShNuyAmalatantrAntargatam)
+title: बीजषोडशार्णमकरन्दस्तोत्रम् श्रीमकरन्दस्तवराजः (विष्णुयामलतन्त्रान्तर्गतम्)
 
-+++
+---
   
  बीजषोडशार्णमकरन्दस्तोत्रम् अथवा श्रीमकरन्दस्तवराजः   
   
@@ -48,7 +49,7 @@ title = "बीजषोडशार्णमकरन्दस्तोत्�
   
 ध्यानम् -  
 बालार्कायुत-तेजसं त्रि-नयनां रक्ताम्बरोल्लासिनीम्।  
-नानालंकृति-राजमान-वपुषे बालोडुराट्-शेखराम्॥  
+नानालङ्कृति-राजमान-वपुषे बालोडुराट्-शेखराम्॥  
   
 हस्तैरिक्षु-धनुः सृणिं सुमशरं पाशं मुदा विभ्रतीम्।  
 श्रीचक्र-स्थित-सुन्दरीं त्रि-जगतामाधार-भूतां स्मरेत्॥१   

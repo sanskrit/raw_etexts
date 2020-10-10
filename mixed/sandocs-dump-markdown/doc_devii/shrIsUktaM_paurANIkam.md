@@ -1,22 +1,22 @@
-+++
-"Text title" = "shrIsUktaMpaurANIkam"
-"File name" = "shrIsUktaMpaurANIkam.itx"
-itxtitle = "shrIsUktaM (paurANIkam)"
-engtitle = "shrIsUktaMpaurANIkam"
-Category = "devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Latest update" = "December 29, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीसूक्तं (पौराणीकम्)"
+---
+Category: devii, lakShmI, devI
+File name: shrIsUktaMpaurANIkam.itx
+Language: Sanskrit
+Latest update: December 29, 2018
+Location: doc_devii
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shrIsUktaMpaurANIkam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: shrIsUktaMpaurANIkam
+itxtitle: shrIsUktaM (paurANIkam)
+title: श्रीसूक्तं (पौराणीकम्)
 
-+++
+---
   
  श्रीसूक्तं पौराणीकम्   
 देव्यभिषेके पौराणं श्रीसूक्तम् -  

@@ -3,7 +3,6 @@ title: 055 Ravana next sends Akampana
 title_english: 055 Ravana next sends Akampana
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-055-Ravana_next_sends_Akampana_0.mp3"></div>
 
 वज्रदम्र अक्षम् निहतम् श्रुत्वा रावणो राक्षस ईश्वरः ।  
@@ -60,7 +59,7 @@ title_english: 055 Ravana next sends Akampana
 हरयो भीम कर्माणो राक्षसान् जघ्नुऋआहवे ।  
 राक्षसासः च अपि सम्क्रुद्धाह् प्रास तोमर पाणयः ॥ ६-५५-२७  
 कपीन् निजघ्निरे तत्र शस्त्रैह् परम दारुणैः ।  
-अकम्पनः सुसंक्रुद्धो राक्षसानां चमूपतिः ॥ ६-५५-२८  
+अकम्पनः सुसङ्क्रुद्धो राक्षसानां चमूपतिः ॥ ६-५५-२८  
 संहर्षयति तान्सर्वान्राक्षसान् भीमविक्रमान् ।  
 हरयस् त्व् अपि रक्षांसि महा द्रुम महा अश्मभिः ॥ ६-५५-२९  
 विदारयन्त्य् अभिक्रम्य शस्त्राण्य् आच्चिद्य वीर्यतः ।  

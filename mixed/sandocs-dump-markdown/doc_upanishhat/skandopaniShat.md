@@ -1,28 +1,28 @@
-+++
-"Text title" = "skanda Upanishad"
-"File name" = "skandaupan.itx"
-itxtitle = "skandopaniShat"
-engtitle = "Skanda Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "51/108; Krishna-Yajur-Veda, Samanya Upanishad"
-Indexextra = "(video, Chanting)"
-"Latest update" = "October  11, 1999"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्कन्दोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 51/108; Krishna-Yajur-Veda, Samanya Upanishad
+File name: skandaupan.itx
+Indexextra: (video, Chanting)
+Language: Sanskrit
+Latest update: October  11, 1999
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: skanda Upanishad
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Skanda Upanishad
+itxtitle: skandopaniShat
+title: स्कन्दोपनिषत्
 
-+++
+---
   
  स्कन्दोपनिषत् ५१   
   
-यत्रासंभवतां याति स्वातिरिक्तभिदाततिः । ।  
+यत्रासम्भवतां याति स्वातिरिक्तभिदाततिः । ।  
 संविन्मात्रं परं ब्रह्म तत्स्वमात्रं विजृम्भते ॥  
   
 ॐ सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै ।  
@@ -60,7 +60,7 @@ title = "स्कन्दोपनिषत्"
 यथान्तरं न भेदाः स्युः शिवकेशवयोस्तथा ।  
 देहो देवालयः प्रोक्तः स जीवः केवलः शिवः ॥ १०॥  
   
-त्यजेदज्ञाननिर्माल्यं सोऽहंभावेन पूजयेत् ।  
+त्यजेदज्ञाननिर्माल्यं सोऽहम्भावेन पूजयेत् ।  
 अभेददर्शनं ज्ञानं ध्यानं निर्विषयं मनः ।  
 स्नानं मनोमलत्यागः शौचमिन्द्रियनिग्रहः ॥ ११॥  
   

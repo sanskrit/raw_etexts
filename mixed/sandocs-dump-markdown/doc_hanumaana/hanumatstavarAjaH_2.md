@@ -1,22 +1,22 @@
-+++
-"Text title" = "HanumAn Stavaraja 2"
-"File name" = "hanumatstavarAjaH2.itx"
-itxtitle = "hanumatstavarAjaH 2"
-engtitle = "hanumatstavarAjaH 2"
-Category = "stavarAja, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com"
-Source = "ParAsharasamhita Hanumachcharitra Vol 2 pages 113"
-"Latest update" = "September 30, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्स्तवराजः २"
+---
+Category: stavarAja, hanumaana, hanuman
+File name: hanumatstavarAjaH2.itx
+Language: Sanskrit
+Latest update: September 30, 2016
+Location: doc_hanumaana
+Proofread by: Gopal Upadhyay, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: ParAsharasamhita Hanumachcharitra Vol 2 pages 113
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: HanumAn Stavaraja 2
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: hanumatstavarAjaH 2
+itxtitle: hanumatstavarAjaH 2
+title: हनुमत्स्तवराजः २
 
-+++
+---
   
  श्रीहनुमत्स्तवराजः २   
 श्रीपराशरः ।  

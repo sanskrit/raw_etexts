@@ -1,24 +1,24 @@
-+++
-"Text title" = "Kaveri Lahari"
-"File name" = "kAverIlaharI.itx"
-itxtitle = "kAverIlaharI (nArAyaNakavivirachitA)"
-engtitle = "kAverIlaharI"
-Category = "devii, devI, laharI, nadI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Author = "Narayana Kavi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta at  gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta at  gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "March 8, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कावेरीलहरी (नारायणकविविरचिता)"
+---
+Author: Narayana Kavi
+Category: devii, devI, laharI, nadI
+File name: kAverIlaharI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 8, 2020
+Location: doc_devii
+Proofread by: Mandar Mali aryavrutta at  gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kaveri Lahari
+Transliterated by: Mandar Mali aryavrutta at  gmail.com
+engtitle: kAverIlaharI
+itxtitle: kAverIlaharI (nArAyaNakavivirachitA)
+title: कावेरीलहरी (नारायणकविविरचिता)
 
-+++
+---
   
  कावेरीलहरी   
 महीभृत्तुङ्गस्ते जगति विदितो भाति जनको  
@@ -53,7 +53,7 @@ title = "कावेरीलहरी (नारायणकविविरच
   
 महत्तन्मायूरं महितमपि मध्यार्जुनपुरं  
      महीशूरं मातर्मिलितघनसारं भुवि परम् ।  
-तटं ते संप्राप्तं वरमपि परं तत्त्रिशिरसः  
+तटं ते सम्प्राप्तं वरमपि परं तत्त्रिशिरसः  
      सुतुङ्गं श्रीरङ्गं गजवनमभूत् पावनमपि ॥ ७॥  
   
 श्रुतिः सा वक्ति त्वां सह जननि गङ्गादिभिरपि  
@@ -264,7 +264,7 @@ title = "कावेरीलहरी (नारायणकविविरच
 मता मायामेया विबुधनिवहैस्त्वं मुररिपोः  
      पुरा सा राजर्षेरपि भुवि कवेरस्य दुहिता ।  
 अदीनां कुर्वाणा भुवमथ नदीनामपि वरा  
-     पयोधिं संप्राप्ता परमतिपवित्रा विजयसे ॥ ४९॥  
+     पयोधिं सम्प्राप्ता परमतिपवित्रा विजयसे ॥ ४९॥  
   
 परं लोपामुद्रा ननु परमभद्राकृतिरभूत्  
      समासाद्यासीद्यां कलशजनिरल्पोऽपि स मुनिः ।  

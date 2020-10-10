@@ -1,23 +1,23 @@
-+++
-"Text title" = "patanjalinavakam"
-"File name" = "patanjalinavakam.itx"
-itxtitle = "patanjalinavakam athavA patanjalitANDavastotram"
-engtitle = "patanjalinavakam"
-Category = "deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com, Vivek Vijayan"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "December 26, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पतञ्जलिनवकम् अथवा पतञ्जलिताण्डवस्तोत्रम्"
+---
+Category: deities_misc
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: patanjalinavakam.itx
+Language: Sanskrit
+Latest update: December 26, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: patanjalinavakam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com, Vivek Vijayan
+engtitle: patanjalinavakam
+itxtitle: patanjalinavakam athavA patanjalitANDavastotram
+title: पतञ्जलिनवकम् अथवा पतञ्जलिताण्डवस्तोत्रम्
 
-+++
+---
   
  पतञ्जलिनवकम् अथवा पतञ्जलिताण्डवस्तोत्रम्    
 सदञ्चितमुदञ्चितनिकुञ्चितपदं झलज्झलज्झलितमञ्जुकटकं  
@@ -67,7 +67,7 @@ title = "पतञ्जलिनवकम् अथवा पतञ्जलि
   
 चिदम्बरनटस्तवमिदं पठति यः सततमन्तकरिपुप्रियतमं   
 परं सुकरशब्दलसदर्थबहुचित्ररुचिरं रसिकहृद्यममलम् ।   
-स रञ्जयति शंभुममलं जगति सत्यनयनं नटपतिं चलतरं   
+स रञ्जयति शम्भुममलं जगति सत्यनयनं नटपतिं चलतरं   
 प्रपञ्चयति नित्यविभवं जयति पञ्चविशिखं व्रजति शङ्करपदम् ॥ १०॥   
   
 इति पतञ्जलिनवकं अथवा पतञ्जलिताण्डवस्तोत्रं समाप्तम् ॥  

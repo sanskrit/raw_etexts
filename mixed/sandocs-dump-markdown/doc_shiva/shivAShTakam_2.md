@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivaaShTakam"
-"File name" = "shivaaShTakam.itx"
-itxtitle = "shivAShTakam 2"
-engtitle = "shivAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Indexextra = "(version 2 prabhumIshamanIsham)"
-"Latest update" = "September 25, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवाष्टकम् २"
+---
+Author: Traditional
+Category: aShTaka, shiva
+File name: shivaaShTakam.itx
+Indexextra: (version 2 prabhumIshamanIsham)
+Language: Sanskrit
+Latest update: September 25, 2004
+Location: doc_shiva
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivaaShTakam
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: shivAShTakam
+itxtitle: shivAShTakam 2
+title: शिवाष्टकम् २
 
-+++
+---
   
  श्रीशिवाष्टकम् २   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "kAverIbhujangastotram"
-"File name" = "kAverIbhujangastotram.itx"
-itxtitle = "kAverIbhujaNgastotram"
-engtitle = "kAverIbhujangastotram"
-Category = "devii, nadI, bhujanga, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Subcategory = "bhujanga"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Suresh Pitre suresh.pitre at gmail.com"
-"Proofread by" = "Suresh Pitre, PR Kannan, PSA Easwaran"
-Description-comments = "Kaveri Rahasyam"
-"Latest update" = "December 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कावेरीभुजण्गस्तोत्रम्"
+---
+Category: devii, nadI, bhujanga, devI
+Description-comments: Kaveri Rahasyam
+File name: kAverIbhujangastotram.itx
+Language: Sanskrit
+Latest update: December 22, 2016
+Location: doc_devii
+Proofread by: Suresh Pitre, PR Kannan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subcategory: bhujanga
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAverIbhujangastotram
+Transliterated by: Suresh Pitre suresh.pitre at gmail.com
+engtitle: kAverIbhujangastotram
+itxtitle: kAverIbhujaNgastotram
+title: कावेरीभुजण्गस्तोत्रम्
 
-+++
+---
   
  कावेरीभुजङ्गस्तोत्रम्   
   

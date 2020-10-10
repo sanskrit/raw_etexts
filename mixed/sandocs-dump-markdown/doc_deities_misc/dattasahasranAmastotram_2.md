@@ -1,23 +1,23 @@
-+++
-"Text title" = "dattasahasranAmastotram 2"
-"File name" = "dattasahasranAmastotram2.itx"
-itxtitle = "dattasahasranAmastotram 2"
-engtitle = "dattasahasranAmastotram 2"
-Category = "sahasranAma, deities_misc, dattatreya, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "dattAtreyastutimanjari p.128"
-"Latest update" = "May 30, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तसहस्रनामस्तोत्रम् २"
+---
+Category: sahasranAma, deities_misc, dattatreya, stotra
+Description-comments: dattAtreyastutimanjari p.128
+File name: dattasahasranAmastotram2.itx
+Language: Sanskrit
+Latest update: May 30, 2016
+Location: doc_deities_misc
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattasahasranAmastotram 2
+Texttype: stotra
+engtitle: dattasahasranAmastotram 2
+itxtitle: dattasahasranAmastotram 2
+title: दत्तसहस्रनामस्तोत्रम् २
 
-+++
+---
   
  श्रीदत्तात्रेयसहस्रनामस्तोत्रम् २   
   
@@ -295,7 +295,7 @@ title = "दत्तसहस्रनामस्तोत्रम् २"
 देहदन्यो गुणादन्यो लोकादन्यो विवेकवित् ।  
 दुष्टस्वप्नहरश्चैव गुरुर्गुरुवरोत्तमः ॥ ७८॥  
   
-कर्मी कर्मविनिर्मुक्तः संन्यासी साधकेश्वरः ।  
+कर्मी कर्मविनिर्मुक्तः सन्न्यासी साधकेश्वरः ।  
 सर्वभावविहीनश्च तृष्णासङ्गनिवारकः ॥ ७९॥  
   
 त्यागी त्यागवपुस्त्यागस्त्यागदानविवर्जितः ।  

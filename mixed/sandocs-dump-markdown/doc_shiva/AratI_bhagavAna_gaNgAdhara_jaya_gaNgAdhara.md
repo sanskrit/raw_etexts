@@ -1,25 +1,25 @@
-+++
-"Text title" = "Arati Bhagavana gangadhara"
-"File name" = "AratIbhagavAnagangAdhara.itx"
-itxtitle = "AratI bhagavAna gaNgAdhara (jaya gaNgAdhara)"
-engtitle = "Arati Bhagavana gangadhara"
-Category = "shiva, AratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Hindi"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Description/comments" = "From Shivastotraratnakara, Gita press"
-Indexextra = "(Scan)"
-"Latest update" = "October 1, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आरती भगवान गण्गाधर (जय गण्गाधर)"
+---
+Category: shiva, AratI
+Description/comments: From Shivastotraratnakara, Gita press
+File name: AratIbhagavAnagangAdhara.itx
+Indexextra: (Scan)
+Language: Hindi
+Latest update: October 1, 2018
+Location: doc_shiva
+Proofread by: Ganesh Kandu kanduganesh at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Arati Bhagavana gangadhara
+engtitle: Arati Bhagavana gangadhara
+itxtitle: AratI bhagavAna gaNgAdhara (jaya gaNgAdhara)
+title: आरती भगवान गण्गाधर (जय गण्गाधर)
 
-+++
+---
   
- आरती भगवान गंगाधर   
-ॐ जय गंगाधर जय हर जय गिरिजाधीशा ।  
+ आरती भगवान गङ्गाधर   
+ॐ जय गङ्गाधर जय हर जय गिरिजाधीशा ।  
 त्वं मां पालय नित्यं कुपया जगदीशा ॥  
   
 हर हर हर महादेव ॥ १॥  
@@ -52,7 +52,7 @@ title = "आरती भगवान गण्गाधर (जय गण्ग
 चक्रावर्ते भ्रमयति कुरुते तां धिक तां ॥  
   
 तां तां लुप चुप तां तां डमरू वादयते ।  
-अंगुष्ठांगुलिनादं लासकतां कुरुते ॥  
+अङ्गुष्ठाङ्गुलिनादं लासकतां कुरुते ॥  
   
 हर हर हर महादेव ॥ ५॥  
   
@@ -83,7 +83,7 @@ title = "आरती भगवान गण्गाधर (जय गण्ग
 ध्यानं आरति समये हृदये अति कृत्वा ।  
 रामस्त्रिजटानाथं ईशं अभिनत्वा ॥  
   
-संगतिमेवं प्रतिदिन पठनं यः कुरुते ।  
+सङ्गतिमेवं प्रतिदिन पठनं यः कुरुते ।  
 शिवसायुज्यं गच्छति भक्त्या यः शृणुते ॥  
   
 हर हर हर महादेव ॥ ९॥  

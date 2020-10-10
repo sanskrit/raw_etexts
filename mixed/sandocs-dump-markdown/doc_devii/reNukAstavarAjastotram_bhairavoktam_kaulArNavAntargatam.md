@@ -1,24 +1,25 @@
-+++
-"Text title" = "reNukAstavarAja stotram"
-"File name" = "reNukAstavarAja.itx"
-itxtitle = "reNukAstavarAjastotram (bhairavoktam kaulArNavAntargatam)"
-engtitle = "Renuka Stavaraj Stotram Kaularnava"
-Category = "stavarAja, devii, reNukA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-Description-comments = "kaulArNave bhairavoktam from shrIreNukAtantram, Pitambarapeeth, Datia"
-Indexextra = "(Kularnavatantra)"
-"Latest update" = "May 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकास्तवराजस्तोत्रम् (भैरवोक्तम् कौलार्णवान्तर्गतम्)"
+---
+Category: stavarAja, devii, reNukA, devI
+Description-comments: kaulArNave bhairavoktam from shrIreNukAtantram, Pitambarapeeth,
+  Datia
+File name: reNukAstavarAja.itx
+Indexextra: (Kularnavatantra)
+Language: Sanskrit
+Latest update: May 18, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAstavarAja stotram
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Renuka Stavaraj Stotram Kaularnava
+itxtitle: reNukAstavarAjastotram (bhairavoktam kaulArNavAntargatam)
+title: रेणुकास्तवराजस्तोत्रम् (भैरवोक्तम् कौलार्णवान्तर्गतम्)
 
-+++
+---
   
  रेणुकास्तवराजस्तोत्रम् कौलार्णवे भैरवोक्तम्   
   

@@ -1,26 +1,27 @@
-+++
-"Text title" = "Hanumatsam Stava"
-"File name" = "hanUmatsaMstavaH.itx"
-itxtitle = "hanUmatsaMstavaH (ApaTIkaravirachitaH)"
-engtitle = "hanUmatsaMstavaH"
-Category = "hanumaana, ApaTIkara"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "ma. sa. ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनूमत्संस्तवः (आपटीकरविरचितः)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma. sa. ApaTIkara
+Category: hanumaana, ApaTIkara
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: hanUmatsaMstavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_hanumaana
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: Hanumatsam Stava
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: hanUmatsaMstavaH
+itxtitle: hanUmatsaMstavaH (ApaTIkaravirachitaH)
+title: हनूमत्संस्तवः (आपटीकरविरचितः)
 
-+++
+---
   
  श्रीहनूमत्संस्तवः   
      (भुजङ्गप्रयातम्)  

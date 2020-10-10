@@ -1,22 +1,22 @@
-+++
-"Text title" = "bhagavatyaShTottarashatanAmAvalI"
-"File name" = "bhagavatyaShTottarashatanAmAvalI.itx"
-itxtitle = "bhagavatyaShTottarashatanAmAvalI"
-engtitle = "bhagavatyaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda"
-"Proofread by" = "R. Harshananda"
-Indexextra = "(navadurgApUjA)"
-"Latest update" = "February 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवत्यष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI
+File name: bhagavatyaShTottarashatanAmAvalI.itx
+Indexextra: (navadurgApUjA)
+Language: Sanskrit
+Latest update: February 17, 2018
+Location: doc_devii
+Proofread by: R. Harshananda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhagavatyaShTottarashatanAmAvalI
+Transliterated by: R. Harshananda
+engtitle: bhagavatyaShTottarashatanAmAvalI
+itxtitle: bhagavatyaShTottarashatanAmAvalI
+title: भगवत्यष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीभगवत्यष्टोत्तरशतनामावली   
   

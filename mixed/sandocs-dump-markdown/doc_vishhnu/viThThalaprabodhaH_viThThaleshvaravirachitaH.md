@@ -1,24 +1,24 @@
-+++
-"Text title" = "viThThalaprabodhaH"
-"File name" = "viThThalaprabodhaH.itx"
-itxtitle = "viThThalaprabodhaH (viThThaleshvaravirachitaH)"
-engtitle = "viThThalaprabodhaH"
-Category = "vishhnu, suprabhAta, puShTimArgIya, viThThaleshvara"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "viThThaleshvara viThThaleshvara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विठ्ठलप्रबोधः (विठ्ठलेश्वरविरचितः)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: viThThaleshvara viThThaleshvara
+Category: vishhnu, suprabhAta, puShTimArgIya, viThThaleshvara
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viThThalaprabodhaH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viThThalaprabodhaH
+engtitle: viThThalaprabodhaH
+itxtitle: viThThalaprabodhaH (viThThaleshvaravirachitaH)
+title: विठ्ठलप्रबोधः (विठ्ठलेश्वरविरचितः)
 
-+++
+---
   
  श्रीविठ्ठलप्रबोधः   
   

@@ -1,26 +1,26 @@
-+++
-"Text title" = "gusAInjIkRRitadaNDakaH"
-"File name" = "gusAInjIkRRitadaNDakaH.itx"
-itxtitle = "gusAI.njIkRitadaNDakaH (gusAI.njIkRitaH)"
-engtitle = "gusAInjIkRRitadaNDakaH"
-Category = "vishhnu, krishna, puShTimArgIya, daNDaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "gusAIjI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुसाईंजीकृइतदण्डकः (गुसाईंजीकृइतः)"
+---
+Author: gusAIjI
+Category: vishhnu, krishna, puShTimArgIya, daNDaka
+Description/comments: puShTimArgIya stotraratnAkara
+File name: gusAInjIkRRitadaNDakaH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gusAInjIkRRitadaNDakaH
+engtitle: gusAInjIkRRitadaNDakaH
+itxtitle: gusAI.njIkRitadaNDakaH (gusAI.njIkRitaH)
+title: गुसाईंजीकृइतदण्डकः (गुसाईंजीकृइतः)
 
-+++
+---
   
- श्रीगुसाईंजीकृतदण्डकः   
+ श्रीगुसाईञ्जीकृतदण्डकः   
   
 व्रजराजविराजितघोषवरे वरणीयमनोहररूपधरे ।  
 धरणीरमणीरमणैकपरे परमार्तिहरस्मितविभ्रमके ॥ १॥  
@@ -36,7 +36,7 @@ title = "गुसाईंजीकृइतदण्डकः (गुसाई
   
 रतिरस्तु मम व्रजराजसुते ॥ ४॥  
   
-इति श्रीगुसाईंजीकृतदण्डकः समाप्तः ।  
+इति श्रीगुसाईञ्जीकृतदण्डकः समाप्तः ।  
   
   
 Proofread by PSA Easwaran psaeaswaran at gmail.com  

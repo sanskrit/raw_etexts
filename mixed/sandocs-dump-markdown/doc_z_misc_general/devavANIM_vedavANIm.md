@@ -1,24 +1,24 @@
-+++
-"Text title" = "Devavanim Vedavanim"
-"File name" = "devavANIMvedavANIm.itx"
-itxtitle = "devavANIM vedavANIm"
-engtitle = "devavANIMvedavANIm"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-"Description/comments" = "Sung by Dr.Vinu Vaja"
-Indexextra = "(Audio)"
-Acknowledge-Permission = "Samskrita Bharati"
-"Latest update" = "January 26, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देववाणीं वेदवाणीम्"
+---
+Acknowledge-Permission: Samskrita Bharati
+Category: misc, sanskritgeet
+Description/comments: Sung by Dr.Vinu Vaja
+File name: devavANIMvedavANIm.itx
+Indexextra: (Audio)
+Language: Sanskrit
+Latest update: January 26, 2020
+Location: doc_z_misc_general
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Devavanim Vedavanim
+Transliterated by: NA
+engtitle: devavANIMvedavANIm
+itxtitle: devavANIM vedavANIm
+title: देववाणीं वेदवाणीम्
 
-+++
+---
   
  देववाणीं वेदवाणीं मातरं वन्दामहे   
 देववाणीं वेदवाणीं मातरं वन्दामहे ।  

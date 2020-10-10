@@ -1,26 +1,26 @@
-+++
-"Text title" = "rAgagaNAnAM shrIkRiShNachandrastavam from Gargasamhita"
-"File name" = "kRiShNachandrastavarAgagaNAnAMgargasamhitA.itx"
-itxtitle = "rAgagaNAnAM shrIkRiShNachandrastavam (gargasaMhitAntargatam)"
-engtitle = "rAgagaNAnAM shrIkRiShNachandrastavam from Gargasamhita"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "gargasamhitA"
-Indexextra = "(satsangdhArA)"
-Acknowledge-Permission = "Vishwas Bhide http://satsangdhara.net/"
-"Latest update" = "February 3, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रागगणानां श्रीकृइष्णचन्द्रस्तवम् (गर्गसंहितान्तर्गतम्)"
+---
+Acknowledge-Permission: Vishwas Bhide http://satsangdhara.net/
+Category: vishhnu, krishna, stotra, vishnu
+Description-comments: gargasamhitA
+File name: kRiShNachandrastavarAgagaNAnAMgargasamhitA.itx
+Indexextra: (satsangdhArA)
+Language: Sanskrit
+Latest update: February 3, 2016
+Location: doc_vishhnu
+Proofread by: Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: rAgagaNAnAM shrIkRiShNachandrastavam from Gargasamhita
+Texttype: stotra
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com
+engtitle: rAgagaNAnAM shrIkRiShNachandrastavam from Gargasamhita
+itxtitle: rAgagaNAnAM shrIkRiShNachandrastavam (gargasaMhitAntargatam)
+title: रागगणानां श्रीकृइष्णचन्द्रस्तवम् (गर्गसंहितान्तर्गतम्)
 
-+++
+---
   
  रागगणानां श्रीकृष्णचन्द्रस्तवम्   
   

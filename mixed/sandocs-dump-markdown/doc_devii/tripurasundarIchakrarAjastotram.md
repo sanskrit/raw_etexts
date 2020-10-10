@@ -1,23 +1,23 @@
-+++
-"Text title" = "ShrI Tripurasundari chakrarAjastotram"
-"File name" = "tripurasundarIchakrarAjastotram.itx"
-itxtitle = "tripurasundarIchakrarAjastotram"
-engtitle = "tripurasundarIchakrarAjastotram"
-Category = "devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pankaj Dubey dr.pankaj.dubey at gmail.com"
-"Proofread by" = "Pankaj Dubey dr.pankaj.dubey at gmail.com"
-"Latest update" = "April 18, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरसुन्दरीचक्रराजस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, stotra, devI
+File name: tripurasundarIchakrarAjastotram.itx
+Language: Sanskrit
+Latest update: April 18, 2015
+Location: doc_devii
+Proofread by: Pankaj Dubey dr.pankaj.dubey at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ShrI Tripurasundari chakrarAjastotram
+Texttype: stotra
+Transliterated by: Pankaj Dubey dr.pankaj.dubey at gmail.com
+engtitle: tripurasundarIchakrarAjastotram
+itxtitle: tripurasundarIchakrarAjastotram
+title: त्रिपुरसुन्दरीचक्रराजस्तोत्रम्
 
-+++
+---
   
  श्रीत्रिपुरसुन्दरीचक्रराजस्तोत्रम्   
             ॥ क॥  

@@ -3,7 +3,6 @@ title: 096 Sugreeva kills Virupaksha
 title_english: 096 Sugreeva kills Virupaksha
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-096-Sugreeva_kills_Virupaksha_0.mp3"></div>
 
 तथा तैः कृत्तगात्रैस्तु दशग्रीवेण मार्गणैः ।  
@@ -57,7 +56,7 @@ title_english: 096 Sugreeva kills Virupaksha
 सहसा स तदोत्पत्य राक्षसस्य महाहवे ।  
 मुष्टिं संवर्त्य वेगेन पातयामास वक्षसि ॥ ६-९६-२५  
 मुष्टिप्रहाराभिहतो विरूपाक्षो निशाचरः ।  
-तेन खड्गेन संक्रुद्धः सुग्रीवस्य चमूमुखे ॥ ६-९६-२६  
+तेन खड्गेन सङ्क्रुद्धः सुग्रीवस्य चमूमुखे ॥ ६-९६-२६  
 कवचम् पातयामास पद्भ्यामभिहतोऽपतत् ।  
 स समुत्थाय पतितः कपिस्तस्य व्यसर्जयत् ॥ ६-९६-२७  
 तलप्रहारमशनेः समानं भीमनिस्वनम् ।  

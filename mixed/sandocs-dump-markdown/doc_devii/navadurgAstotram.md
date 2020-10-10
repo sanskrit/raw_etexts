@@ -1,24 +1,24 @@
-+++
-"Text title" = "Navadurga Stotra"
-"File name" = "navadurga.itx"
-itxtitle = "navadurgAstotram"
-engtitle = "navadurgAstotra"
-Category = "nava, devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Daniel Mohanpersad (danielmohanpersad98 at msn.com)"
-"Proofread by" = "Daniel Mohanpersad (danielmohanpersad98 at msn.com), NA"
-Indexextra = "(images)"
-"Latest update" = "March 22, 2005, October 1, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवदुर्गास्तोत्रम्"
+---
+Category: nava, devii, durgA, stotra, devI
+File name: navadurga.itx
+Indexextra: (images)
+Language: Sanskrit
+Latest update: March 22, 2005, October 1, 2016
+Location: doc_devii
+Proofread by: Daniel Mohanpersad (danielmohanpersad98 at msn.com), NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: hinduism/religion
+Sublocation: devii
+Text title: Navadurga Stotra
+Texttype: stotra
+Transliterated by: Daniel Mohanpersad (danielmohanpersad98 at msn.com)
+engtitle: navadurgAstotra
+itxtitle: navadurgAstotram
+title: नवदुर्गास्तोत्रम्
 
-+++
+---
   
  नवदुर्गास्तोत्र   
   
@@ -34,7 +34,7 @@ title = "नवदुर्गास्तोत्रम्"
      पिण्डजप्रवरारूढा चण्डकोपास्त्रकैर्युता ।  
      प्रसादं तनुते मह्यं चन्द्रघण्टेति विश्रुता ॥  
   
-देवी कूष्मांडा ।  
+देवी कूष्माण्डा ।  
      सुरासम्पूर्णकलशं रुधिराप्लुतमेव च ।  
      दधाना हस्तपद्माभ्यां कूष्माण्डा शुभदास्तु मे ॥  
   

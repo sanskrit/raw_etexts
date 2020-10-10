@@ -3,7 +3,6 @@ title: 041 Hanuma thinks to meet Ravana
 title_english: 041 Hanuma thinks to meet Ravana
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-041-Hanuma_thinks_to_meet_Ravana.mp3"></div>
 
 स च वाग्भिः प्रशस्ताभिः गमिष्यन् पूजितः तया ।  
@@ -17,7 +16,7 @@ title_english: 041 Hanuma thinks to meet Ravana
 न च अस्य कार्यस्य पराक्रमात् ऋते ।  
 विनिश्चयः कश्चित् इह उपपद्यते ।  
 हृत प्रवीराः तु रणे हि राक्षसाः ।  
-कथंचित् ईयुः यत् इह अद्य मार्दवम् ॥ ५-४१-४  
+कथञ्चित् ईयुः यत् इह अद्य मार्दवम् ॥ ५-४१-४  
 कार्ये कर्मणि निर्दिष्टः यो बहूनि अपि साधयेत् ।  
 पूर्व कार्य विरोधेन स कार्यम् कर्तुम् अर्हति ॥ ५-४१-५  
 न हि एकः साधको हेतुः स्वल्पस्य अपि इह कर्मणः ।  

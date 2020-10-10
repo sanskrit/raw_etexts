@@ -1,26 +1,26 @@
-+++
-"Text title" = "Tripurasundari VedapAdastotram"
-"File name" = "tripurasundarIvedapAdastotram.itx"
-itxtitle = "tripurasundarIvedapAdastotram (shaNkarAchAryavirachitam)"
-engtitle = "Tripurasundari VedapAdastotram"
-Category = "devii, dashamahAvidyA, stotra, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P R Ramamurthy"
-"Proofread by" = "P R Ramamurthy"
-Source = "(Gleanings, CompleteWorks)"
-Acknowledge-Permission = "lalitaalaalitah http://stotram.lalitaalaalitah.com"
-"Latest update" = "July 8, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरसुन्दरीवेदपादस्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Acknowledge-Permission: lalitaalaalitah http://stotram.lalitaalaalitah.com
+Author: Adi Shankaracharya
+Category: devii, dashamahAvidyA, stotra, shankarAchArya, devI
+File name: tripurasundarIvedapAdastotram.itx
+Language: Sanskrit
+Latest update: July 8, 2017
+Location: doc_devii
+Proofread by: P R Ramamurthy
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: (Gleanings, CompleteWorks)
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Tripurasundari VedapAdastotram
+Texttype: stotra
+Transliterated by: P R Ramamurthy
+engtitle: Tripurasundari VedapAdastotram
+itxtitle: tripurasundarIvedapAdastotram (shaNkarAchAryavirachitam)
+title: त्रिपुरसुन्दरीवेदपादस्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  त्रिपुरसुन्दरीवेदपादस्तोत्रम्   
   
@@ -390,7 +390,7 @@ title = "त्रिपुरसुन्दरीवेदपादस्त�
 तं धीरासः कवय उन्नयन्ति ॥ ९५॥  
   
 वैरिञ्चोघैर्विष्णुरुद्रेन्द्रबृन्दैः  
-दुर्गाकालीभैरवीशक्तिसंङ्घैः ।  
+दुर्गाकालीभैरवीशक्तिसङ्ङ्घैः ।  
 यत्रे(न्त्रे)शि त्वं वर्तते(से) स्तूयमाना  
 न तत्र सूर्यो भाति न चन्द्रतारकम् ॥ ९६॥  
   

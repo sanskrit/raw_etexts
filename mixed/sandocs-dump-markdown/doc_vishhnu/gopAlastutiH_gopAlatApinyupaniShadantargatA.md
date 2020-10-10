@@ -1,24 +1,24 @@
-+++
-"Text title" = "gopAlastutiH"
-"File name" = "gopaalastuti.itx"
-itxtitle = "gopAlastutiH (gopAlatApinyupaniShadantargatA)"
-engtitle = "gopAlastutiH"
-Category = "vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "atharvaNe_gopAlatApinyupaniShada"
-"Latest update" = "January 16, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपालस्तुतिः (गोपालतापिन्युपनिषदन्तर्गता)"
+---
+Author: Traditional
+Category: vishhnu, krishna, vishnu
+Description-comments: atharvaNe_gopAlatApinyupaniShada
+File name: gopaalastuti.itx
+Language: Sanskrit
+Latest update: January 16, 2005
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopAlastutiH
+Transliterated by: WebD
+engtitle: gopAlastutiH
+itxtitle: gopAlastutiH (gopAlatApinyupaniShadantargatA)
+title: गोपालस्तुतिः (गोपालतापिन्युपनिषदन्तर्गता)
 
-+++
+---
   
  गोपालस्तुती   
   

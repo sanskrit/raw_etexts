@@ -1,22 +1,22 @@
-+++
-"Text title" = "kAmarAjakIlitoddhAropaniShat"
-"File name" = "kAmarAjakIlitoddhAropaniShat.itx"
-itxtitle = "kAmarAjakIlitoddhAropaniShat (shAkta)"
-engtitle = "kAmarAjakIlitoddhAropaniShat"
-Category = "upanishhat, devii, devI, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामराजकीलितोद्धारोपनिषत् (शाक्त)"
+---
+Category: upanishhat, devii, devI, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: kAmarAjakIlitoddhAropaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: kAmarAjakIlitoddhAropaniShat
+engtitle: kAmarAjakIlitoddhAropaniShat
+itxtitle: kAmarAjakIlitoddhAropaniShat (shAkta)
+title: कामराजकीलितोद्धारोपनिषत् (शाक्त)
 
-+++
+---
   
  कामराजकीलितोद्धारोपनिषत्   
 अथोवाच कामराजम् । तदुपासनात् कुशलं लभेत् । श्रियं लभेत् ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "dattAtreyahRRidaya"
-"File name" = "dattAtreyahRRidaya.itx"
-itxtitle = "dattAtreyahRRidayam (rudrayAmalAntargatam)"
-engtitle = "dattAtreyahRRidaya"
-Category = "hRidaya, deities_misc, dattatreya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dutta Prasad Sharma duttaprasadsharma at gmail.com"
-"Proofread by" = "Dutta Prasad Sharma duttaprasadsharma at gmail.com, NA"
-Source = "Dattatreya Kalpa"
-Indexextra = "(Telugu Dattatreyakalpa)"
-"Latest update" = "June 8, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयहृदयम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: hRidaya, deities_misc, dattatreya
+File name: dattAtreyahRRidaya.itx
+Indexextra: (Telugu Dattatreyakalpa)
+Language: Sanskrit
+Latest update: June 8, 2017
+Location: doc_deities_misc
+Proofread by: Dutta Prasad Sharma duttaprasadsharma at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Dattatreya Kalpa
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattAtreyahRRidaya
+Transliterated by: Dutta Prasad Sharma duttaprasadsharma at gmail.com
+engtitle: dattAtreyahRRidaya
+itxtitle: dattAtreyahRRidayam (rudrayAmalAntargatam)
+title: दत्तात्रेयहृदयम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीदत्तहृदय   
   
@@ -106,7 +106,7 @@ title = "दत्तात्रेयहृदयम् (रुद्रया
 महाबाहो मुनिमणे सर्वविद्याविशारद ।  
 स्थावरं जङ्गमानां च दत्तात्रेय नमोऽस्तु ते ॥ १२॥  
   
-ऐंद्र्यां त्रातु महावीर्यो वन्ह्यां प्रणवपूर्वकम् ।  
+ऐन्द्र्यां त्रातु महावीर्यो वन्ह्यां प्रणवपूर्वकम् ।  
 याम्यां दत्तात्रयो रक्षेन्नैऋत्यां भक्तवत्सलः ॥ १३॥  
   
 प्रतीच्यां पातु योगीशो योगिनां हृदये स्थितः ।  

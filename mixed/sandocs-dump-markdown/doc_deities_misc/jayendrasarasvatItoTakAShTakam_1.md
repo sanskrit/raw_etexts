@@ -1,24 +1,24 @@
-+++
-"Text title" = "Totakashtakam (1) on Shri Jayendra Saraswathi Swamiji"
-"File name" = "jayendrasarasvatItoTakAShTakam1.itx"
-itxtitle = "jayendrasarasvatItoTakAShTakam 1"
-engtitle = "Totakashtakam (1) on Shri Jayendra Saraswathi Swamiji"
-Category = "deities_misc, gurudev, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Ravi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Translated by" = "P. R. Kannan"
-"Description/comments" = "Found in Tanjavur Parampara"
-Indexextra = "(text)"
-"Latest update" = "December 20, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयेन्द्रसरस्वतीतोटकाष्टकम् १"
+---
+Author: Ravi
+Category: deities_misc, gurudev, aShTaka
+Description/comments: Found in Tanjavur Parampara
+File name: jayendrasarasvatItoTakAShTakam1.itx
+Indexextra: (text)
+Language: Sanskrit
+Latest update: December 20, 2018
+Location: doc_deities_misc
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Totakashtakam (1) on Shri Jayendra Saraswathi Swamiji
+Translated by: P. R. Kannan
+engtitle: Totakashtakam (1) on Shri Jayendra Saraswathi Swamiji
+itxtitle: jayendrasarasvatItoTakAShTakam 1
+title: जयेन्द्रसरस्वतीतोटकाष्टकम् १
 
-+++
+---
   
  श्रीजयेन्द्रगुरुतोटकाष्टकम्   
      विदिताखिल शास्त्रसुधाजलधे  
@@ -38,7 +38,7 @@ O Shri Jayendra Guru, you are born to eradicate darkness
 (of ignorance); O Treasure of mastery in destruction of delusion  
 of people, O Shri Jayendra Guru,  give me refuge. (2)  
   
-     भगवद्गुरु शंकर एव भवान्  
+     भगवद्गुरु शङ्कर एव भवान्  
           जनपापनिरासन लोकगुरो ।  
      परिपालय दीनमिमं कृपया  
           जय इन्द्र देशिक मे शरणम् ॥ (३)  
@@ -75,9 +75,9 @@ following the path of the Guru. You are immersed in the bliss
 of nectar of Brahman in which your own mind abides.  O Shri  
 Jayendra Guru, give me refuge. (6)  
   
-     वरशंकर पीठ विभूषक ते  
+     वरशङ्कर पीठ विभूषक ते  
           गुण निर्जित गोद्विज भूमिपते ।  
-     वरशंकर विजय सुतीर्थ गुरो  
+     वरशङ्कर विजय सुतीर्थ गुरो  
           जय इन्द्र देशिक मे शरणम् ॥ (७)  
 You are an ornament to the seat (Peetham) of the great  
 Sankaracharya. By your virtues you have conquered the earth  

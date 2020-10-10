@@ -1,23 +1,23 @@
-+++
-"Text title" = "Tripura Bharati Laghustavah"
-"File name" = "tripurAbhAratIlaghustavaH.itx"
-itxtitle = "tripurA bhAratI laghustavaH (somatilakasUrivirachitaH)"
-engtitle = "tripurA bhAratI laghustavaH"
-Category = "devii"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "somatilakasUri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Text)"
-"Latest update" = "June 24, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "त्रिपुरा भारती लघुस्तवः (सोमतिलकसूरिविरचितः)"
+---
+Author: somatilakasUri
+Category: devii
+File name: tripurAbhAratIlaghustavaH.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: June 24, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Tripura Bharati Laghustavah
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: tripurA bhAratI laghustavaH
+itxtitle: tripurA bhAratI laghustavaH (somatilakasUrivirachitaH)
+title: त्रिपुरा भारती लघुस्तवः (सोमतिलकसूरिविरचितः)
 
-+++
+---
   
  त्रिपुरा भारती लघुस्तवः   
                ॥ ॐ नमः त्रिपुरायै ॥  
@@ -120,7 +120,7 @@ title = "त्रिपुरा भारती लघुस्तवः (स�
 बोद्धव्या निपुणं बुधैस्तुतिरियं कृत्वा मनस्तद्गतं  
      भारत्यास्त्रिपुरेत्यनन्यमनसो यत्राद्यवृत्ते स्फुटम् ।  
 एक-द्वि-त्रिपदक्रमेण कथितस्तत्पादसङ्ख्याक्षरै-  
-     र्मन्त्रोद्धारविधिर्विशेषसहितः सत्संप्रदायान्वितः ॥ २०॥  
+     र्मन्त्रोद्धारविधिर्विशेषसहितः सत्सम्प्रदायान्वितः ॥ २०॥  
   
 सावद्यं निरवद्यमस्तु यदि वा किंवाऽनया चिन्तया  
      नूनं स्तोत्रमिदं पठिष्यति जनो यस्यास्ति भक्तिस्त्वयि ।  

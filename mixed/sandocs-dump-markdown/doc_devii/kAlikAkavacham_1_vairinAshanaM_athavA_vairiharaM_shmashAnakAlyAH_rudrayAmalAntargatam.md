@@ -1,24 +1,24 @@
-+++
-"Text title" = "kAlikAkavacham 1"
-"File name" = "kaalikaakavach.itx"
-itxtitle = "kAlikAkavacham 1 (vairinAshanaM athavA vairiharaM shmashAnakAlyAH rudrayAmalAntargatam)"
-engtitle = "kAlikAkavacham 1"
-Category = "kavacha, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "Rudrayaamal Kaalikaakalpa"
-"Latest update" = "July 22, 2004, NOvember 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालिकाकवचम् १ (वैरिनाशनं अथवा वैरिहरं श्मशानकाल्याः रुद्रयामलान्तर्गतम्)"
+---
+Author: Traditional
+Category: kavacha, devii, dashamahAvidyA, devI
+Description-comments: Rudrayaamal Kaalikaakalpa
+File name: kaalikaakavach.itx
+Language: Sanskrit
+Latest update: July 22, 2004, NOvember 21, 2018
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAlikAkavacham 1
+Transliterated by: WebD
+engtitle: kAlikAkavacham 1
+itxtitle: kAlikAkavacham 1 (vairinAshanaM athavA vairiharaM shmashAnakAlyAH rudrayAmalAntargatam)
+title: कालिकाकवचम् १ (वैरिनाशनं अथवा वैरिहरं श्मशानकाल्याः रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  वैरिनाशनं कालिकाकवचम्   
   
@@ -45,7 +45,7 @@ title = "कालिकाकवचम् १ (वैरिनाशनं अ�
 सर्वारिष्टप्रशमनं सर्वाभद्रविनाशनम् ॥ ५॥  
   
 सुखदं भोगदं चैव वशीकरणमुत्तमम् ।  
-शत्रुसंघाः क्षयं यान्ति भवन्ति व्याधिपीडिअताः ॥ ६॥  
+शत्रुसङ्घाः क्षयं यान्ति भवन्ति व्याधिपीडिअताः ॥ ६॥  
   
 दुःखिनो ज्वरिणश्चैव स्वाभीष्टद्रोहिणस्तथा ।  
 भोगमोक्षप्रदं चैव कालिकाकवचं पठेत् ॥ ७॥  
@@ -56,7 +56,7 @@ title = "कालिकाकवचम् १ (वैरिनाशनं अ�
 ॐ ध्यायेत्कालीं महामायां त्रिनेत्रां बहुरूपिणीम् ।  
 चतुर्भुजां ललज्जिह्वां पूर्णचन्द्रनिभाननाम् ॥ ८॥  
   
-नीलोत्पलदलश्यामां शत्रुसंघविदारिणीम् ।  
+नीलोत्पलदलश्यामां शत्रुसङ्घविदारिणीम् ।  
 नरमुण्डं तथा खड्गं कमलं च वरं तथा ॥ ९॥  
   
 निर्भयां रक्तवदनां दंष्ट्रालीघोररूपिणीम् ।  var  विभ्राणां रक्तनयनां  

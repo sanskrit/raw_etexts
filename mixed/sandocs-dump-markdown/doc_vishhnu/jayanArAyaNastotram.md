@@ -1,22 +1,22 @@
-+++
-"Text title" = "jayanArAyaNastotram"
-"File name" = "jayanArAyaNastotram.itx"
-itxtitle = "jayanArAyaNastotram"
-engtitle = "jayanArAyaNastotram"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "BhaktivivekasAra"
-Indexextra = "(Scanned)"
-"Latest update" = "November 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयनारायणस्तोत्रम्"
+---
+Category: vishhnu
+Description/comments: BhaktivivekasAra
+File name: jayanArAyaNastotram.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: November 18, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: jayanArAyaNastotram
+engtitle: jayanArAyaNastotram
+itxtitle: jayanArAyaNastotram
+title: जयनारायणस्तोत्रम्
 
-+++
+---
   
  जयनारायणस्तोत्रम्   
 जय नारायण जय पुरुषोत्तम जय वामन कंसारे  

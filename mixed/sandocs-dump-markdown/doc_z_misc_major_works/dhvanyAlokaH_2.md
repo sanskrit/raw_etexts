@@ -1,21 +1,21 @@
-+++
-"Text title" = "dhvanyaloka udyota 2"
-"File name" = "dhvanyaloka2.itx"
-itxtitle = "dhvanyAlokaH 2"
-engtitle = "dhvanyAlokaH 2"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Language = "Sanskrit"
-"Transliterated by" = "Rajani rajni_arjun at yahoo.com"
-"Proofread by" = "Rajani rajni_arjun at yahoo.com"
-"Latest update" = "January 4, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ध्वन्यालोकः २"
+---
+Category: major_works
+File name: dhvanyaloka2.itx
+Language: Sanskrit
+Latest update: January 4, 2002
+Location: doc_z_misc_major_works
+Proofread by: Rajani rajni_arjun at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Sublocation: major_works
+Text title: dhvanyaloka udyota 2
+Texttype: pramukha
+Transliterated by: Rajani rajni_arjun at yahoo.com
+engtitle: dhvanyAlokaH 2
+itxtitle: dhvanyAlokaH 2
+title: ध्वन्यालोकः २
 
-+++
+---
   
  ध्वन्यलोक २   
   
@@ -35,7 +35,7 @@ title = "ध्वन्यालोकः २"
 वैदेही तु कथम् भविश्यति हहा हा देवि धीरा भव ॥  
   
 इत्यत्र रामशब्दः । अनेन हि व्यङ्ग्यधर्मान्तरपरिणतः सञ्ज्ञी  
-प्रत्याय्यते , न संज्ञिमात्रम् ।  
+प्रत्याय्यते , न सञ्ज्ञिमात्रम् ।  
   
 यथा च ममैव विषमबाणलीलायाम् ---  
 तदा जायन्ते गुणा यदा ते सहृदयैर्गृह्यन्ते ।  
@@ -65,7 +65,7 @@ title = "ध्वन्यालोकः २"
 रसादिरर्थो हि सहेव वाच्येनावभासते । स चाङ्गित्वेनावभासमानो  
 ध्वनेरात्मा ।  
   
-इदानीं रसवदलंकारादलक्ष्यक्रमद्योतनात्मनो ध्वनेर्विभक्तो  
+इदानीं रसवदलङ्कारादलक्ष्यक्रमद्योतनात्मनो ध्वनेर्विभक्तो  
 विषय इति प्रदर्श्यते ---  
 वाच्यवाचकचारुत्वहेतूनां विविधात्मनाम् ।  
 रसादिपरता यत्र स ध्वनेर्विषयो मतः ॥ ४॥  
@@ -106,7 +106,7 @@ title = "ध्वन्यालोकः २"
 व्यवस्थानात्समावेशो न दोषः । यत्र हि रसस्य वाक्यार्थीभावस्तत्र  
 कथमलङ्कारत्वम् ? अलङ्कारो हि चारुत्वहेतुः प्रसिद्धः ; न  
 त्वसावात्मैवात्मनश्चारुत्वहेतुः ।  
-तथा चायमत्र संक्षेपः ---  
+तथा चायमत्र सङ्क्षेपः ---  
   
 रसभावादितात्पर्यमाश्रित्य विनिवेशनम् ।  
 अलङ्कृतीनां सर्वासामलङ्कारत्वसाधनम् ॥  
@@ -711,7 +711,7 @@ title = "ध्वन्यालोकः २"
 निःश्वासानिलमूर्च्छितत्वेनोत्प्रेक्षितमित्युत्प्रेक्षा  
 साक्षादनुक्तापि वाक्यार्थसामर्थ्यादनुरणनरूपा  
 लक्ष्यते । न चैवंविधे विषये इवादिशब्दप्रयोगमन्तरेणा-  
-संबद्धतैवेति शक्यते वक्तुम् । गमकत्वादन्यत्रापि तदप्रयोगे  
+सम्बद्धतैवेति शक्यते वक्तुम् । गमकत्वादन्यत्रापि तदप्रयोगे  
 तदर्थावगतिदर्शनात् । यथा ---  
   
 ईर्ष्याकलुषस्यापि तव मुखस्य नन्वेष पूर्णिमाचन्द्रः ।  
@@ -719,7 +719,7 @@ title = "ध्वन्यालोकः २"
   
 यथा वा ---  
 त्रासाकुलः परिपतन् परितो निकेतान्  
-पुंभिर्न कैश्चिदपि धन्विभिरन्वबन्धि ।  
+पुम्भिर्न कैश्चिदपि धन्विभिरन्वबन्धि ।  
 तस्थौ तथापि न मृगः क्वचिदङ्गनाभि  
 राकर्णपूर्णनयनेषुहतेक्षणश्रीः ॥  
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRiShNasya saptadashAkSharo mantraH"
-"File name" = "kRiShNasaptadashAkSharamantraH.itx"
-itxtitle = "kRiShNasya saptadashAkSharo mantraH athavA shrIkRiShNamantrakavacham"
-engtitle = "kRiShNasya saptadashAkSharo mantraH"
-Category = "mantra, vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "September 07, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्य सप्तदशाक्षरो मन्त्रः अथवा श्रीकृइष्णमन्त्रकवचम्"
+---
+Author: Traditional
+Category: mantra, vishhnu, krishna, stotra, vishnu
+File name: kRiShNasaptadashAkSharamantraH.itx
+Language: Sanskrit
+Latest update: September 07, 2004
+Location: doc_vishhnu
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRiShNasya saptadashAkSharo mantraH
+Texttype: stotra
+Transliterated by: WebD
+engtitle: kRiShNasya saptadashAkSharo mantraH
+itxtitle: kRiShNasya saptadashAkSharo mantraH athavA shrIkRiShNamantrakavacham
+title: कृइष्णस्य सप्तदशाक्षरो मन्त्रः अथवा श्रीकृइष्णमन्त्रकवचम्
 
-+++
+---
   
  श्रीकृष्णस्य सप्तदशाक्षरो मन्त्रः   
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "guhastotram"
-"File name" = "guhastotram.itx"
-itxtitle = "guhastotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "guhastotram"
-Category = "subrahmanya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुहस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: subrahmanya, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: guhastotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_subrahmanya
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: guhastotram
+engtitle: guhastotram
+itxtitle: guhastotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: गुहस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीगुहस्तोत्रम्   
 (शिवगिरिक्षेत्रे)  

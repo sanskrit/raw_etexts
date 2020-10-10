@@ -1,25 +1,25 @@
-+++
-"Text title" = "mahAlakshmIlalitAstotra lakShmInarAyaNasaMhitAyAM"
-"File name" = "mahAlakshmIlalitAstotra.itx"
-itxtitle = "mahAlakShmI lalitAstotram"
-engtitle = "mahAlakShmI lalitA stotram"
-Category = "devii, lakShmI, lalitA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Subcategory = "lalitA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "pranav.tendulkar and vrushali"
-"Proofread by" = "pranav.tendulkar and vrushaliagarkar at gmail dotcom"
-Description-comments = "lakShmInarAyaNasaMhitA"
-"Latest update" = "May 5, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालक्ष्मी ललितास्तोत्रम्"
+---
+Category: devii, lakShmI, lalitA, stotra, devI
+Description-comments: lakShmInarAyaNasaMhitA
+File name: mahAlakshmIlalitAstotra.itx
+Language: Sanskrit
+Latest update: May 5, 2013
+Location: doc_devii
+Proofread by: pranav.tendulkar and vrushaliagarkar at gmail dotcom
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subcategory: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAlakshmIlalitAstotra lakShmInarAyaNasaMhitAyAM
+Texttype: stotra
+Transliterated by: pranav.tendulkar and vrushali
+engtitle: mahAlakShmI lalitA stotram
+itxtitle: mahAlakShmI lalitAstotram
+title: महालक्ष्मी ललितास्तोत्रम्
 
-+++
+---
   
  श्रीमहालक्ष्मी ललितास्तोत्रम्   
   
@@ -29,7 +29,7 @@ title = "महालक्ष्मी ललितास्तोत्रम�
 जगन्माता जीवदात्री नारायणी परमेश्वरी ॥ १ ॥  
   
 व्यूहतेजोमयी ब्रह्मानन्दिनी हरिसुन्दरी ।  
-पाशांकुशेक्षुकोदण्ड पद्ममालालसत्करा ॥ २ ॥  
+पाशाङ्कुशेक्षुकोदण्ड पद्ममालालसत्करा ॥ २ ॥  
   
 दृष्ट्वा तां मुमुहुर्देवाः प्रणेमुर्विगतज्वराः ।  
 तुष्टुवुः श्रीमहालक्ष्मीं ललितां वैष्णवीं पराम् ॥ ३ ॥  
@@ -88,7 +88,7 @@ title = "महालक्ष्मी ललितास्तोत्रम�
 जयाललितापाञ्चाली रमातन्वै नमो नमः ॥ १७ ॥  
   
 पद्मावतीरमाहंसी सुगुणाऽऽज्ञाश्रियै नमः ।  
-नमः स्तुता प्रसनैवंछन्दयामास सव्दरैः ॥ १८ ॥  
+नमः स्तुता प्रसनैवञ्छन्दयामास सव्दरैः ॥ १८ ॥  
   
 ॥ फल श्रुति श्री लक्ष्मी उवाच ॥   
   

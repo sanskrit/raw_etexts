@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhagavatIstotram"
-"File name" = "bhagavatiistotra.itx"
-itxtitle = "bhagavatIstotram (vyAsavirachitam)"
-engtitle = "bhagavatIstotram"
-Category = "devii, pArvatI, stotra, vyAsa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "Maharshi_Vyas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sridhar Seshagiri seshagir at engineering.sdsu.edu"
-"Latest update" = "October 20, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवतीस्तोत्रम् (व्यासविरचितम्)"
+---
+Author: Maharshi_Vyas
+Category: devii, pArvatI, stotra, vyAsa, devI
+File name: bhagavatiistotra.itx
+Language: Sanskrit
+Latest update: October 20, 2018
+Location: doc_devii
+Proofread by: Sridhar Seshagiri seshagir at engineering.sdsu.edu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhagavatIstotram
+Texttype: stotra
+engtitle: bhagavatIstotram
+itxtitle: bhagavatIstotram (vyAsavirachitam)
+title: भगवतीस्तोत्रम् (व्यासविरचितम्)
 
-+++
+---
   
  भगवतीस्तोत्रम्   
   
@@ -34,7 +34,7 @@ title = "भगवतीस्तोत्रम् (व्यासविरच
 जय दुःख-दरिद्र-विनाशकरे जय पुत्रकल त्रविवृद्धिकरे ॥ ४॥  
   
 जय देवि समस्तशरीरधरे जय नाकविदर्शिनि दुःखहरे ।  
-जय व्याधिविनाशिनि मोक्षकरे जय वांछितदायिनि सिद्धिकरे ॥ ५॥  
+जय व्याधिविनाशिनि मोक्षकरे जय वाञ्छितदायिनि सिद्धिकरे ॥ ५॥  
   
 एतद्व्यासकृतं स्तोत्रं यः पठेन्नियतः शुचिः ।  
 गृहे वा शुद्धभावेन प्रीता भगवती सदा ॥ ६॥  

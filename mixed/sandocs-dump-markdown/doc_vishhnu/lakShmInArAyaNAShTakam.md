@@ -1,20 +1,20 @@
-+++
-"Text title" = "lakShmInArAyaNAShTakam"
-"File name" = "lakShmInArAyaNAShTakam.itx"
-itxtitle = "lakShmInArAyaNAShTakam"
-engtitle = "lakShmInArAyaNAShTakam"
-Category = "vishhnu, aShTaka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Audio MSS, Video, text)"
-"Latest update" = "July 28, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनारायणाष्टकम्"
+---
+Category: vishhnu, aShTaka
+File name: lakShmInArAyaNAShTakam.itx
+Indexextra: (Audio MSS, Video, text)
+Language: Sanskrit
+Latest update: July 28, 2018
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: lakShmInArAyaNAShTakam
+engtitle: lakShmInArAyaNAShTakam
+itxtitle: lakShmInArAyaNAShTakam
+title: लक्ष्मीनारायणाष्टकम्
 
-+++
+---
   
  श्रीलक्ष्मीनारायणाष्टकम्   
 आर्तानां दुःखशमने दीक्षितं प्रभुमव्ययम् ।  

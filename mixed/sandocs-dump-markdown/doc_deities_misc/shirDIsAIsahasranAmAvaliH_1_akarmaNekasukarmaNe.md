@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shirdi Sai Baba Sahasranamavali 1000 names offerings"
-"File name" = "shirDIsAIsahasranAmAvalI.itx"
-itxtitle = "shirDIsAIsahasranAmAvaliH 1 (akarmaNekasukarmaNe)"
-engtitle = "shirDIsAIsahasranAmAvalI"
-Category = "sahasranAmAvalI, deities_misc, nAmAvalI, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "June 8, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिर्डीसाईसहस्रनामावलिः १ (अकर्मणेकसुकर्मणे)"
+---
+Category: sahasranAmAvalI, deities_misc, nAmAvalI, gurudev
+File name: shirDIsAIsahasranAmAvalI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 8, 2019
+Location: doc_deities_misc
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shirdi Sai Baba Sahasranamavali 1000 names offerings
+Transliterated by: NA
+engtitle: shirDIsAIsahasranAmAvalI
+itxtitle: shirDIsAIsahasranAmAvaliH 1 (akarmaNekasukarmaNe)
+title: शिर्डीसाईसहस्रनामावलिः १ (अकर्मणेकसुकर्मणे)
 
-+++
+---
   
  श्री शिर्डी सायिनाथसहस्रनामावलिः १   
 ॐ श्री साई अकर्मणेकसुकर्मणे नमः । अकुलाय । अक्कलकोट महाराजाय ।  

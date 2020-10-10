@@ -1,24 +1,26 @@
-+++
-"Text title" = "vasudevakRRita shrIkRRiShNastotra brahmavaivartapurANe"
-"File name" = "vasudevakRRitakRRiShNastotraBVP.itx"
-itxtitle = "kRiShNastotram (vasudevakRitam brahmavaivartapurANAntargatam)"
-engtitle = "Shri Krishna stotra by Vasudeva"
-Category = "vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "brahmavaivartapurANa"
-"Latest update" = "April 5, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तोत्रम् (वसुदेवकृइतम् ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: vishhnu, krishna, stotra, vishnu
+Description-comments: brahmavaivartapurANa
+File name: vasudevakRRitakRRiShNastotraBVP.itx
+Language: Sanskrit
+Latest update: April 5, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vasudevakRRita shrIkRRiShNastotra brahmavaivartapurANe
+Texttype: stotra
+Transliterated by: Singanallur Ganesan singanallur at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+engtitle: Shri Krishna stotra by Vasudeva
+itxtitle: kRiShNastotram (vasudevakRitam brahmavaivartapurANAntargatam)
+title: कृइष्णस्तोत्रम् (वसुदेवकृइतम् ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीकृष्णस्तोत्रं वसुदेवकृतं ब्रह्मवैवर्तपुराणान्तर्गतम्   
   

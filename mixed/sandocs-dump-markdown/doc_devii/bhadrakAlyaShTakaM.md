@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bhadrakali Ashtakam"
-"File name" = "bhadrakAlyaShTakam.itx"
-itxtitle = "bhadrakAlyaShTakaM"
-engtitle = "bhadrakAlyaShTakaM"
-Category = "devii, dashamahAvidyA, devI, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भद्रकाल्यष्टकं"
+---
+Category: devii, dashamahAvidyA, devI, aShTaka
+File name: bhadrakAlyaShTakam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bhadrakali Ashtakam
+Transliterated by: PSA Easwaran
+engtitle: bhadrakAlyaShTakaM
+itxtitle: bhadrakAlyaShTakaM
+title: भद्रकाल्यष्टकं
 
-+++
+---
   
  श्रीभद्रकाल्यष्टकम्   
 घोरे संसारवह्नौ प्रलयमुपगते या हि कृत्वा श्मशाने  
@@ -60,7 +60,7 @@ title = "भद्रकाल्यष्टकं"
 चामुण्डा खड्गहस्ता रिपुहननपरा शोणितास्वादकामा  
      सा हन्याद्विश्ववन्द्या मम रिपुनिवहा भद्रदा भद्रकाली ॥ ८॥  
   
-भद्रकाल्यष्टकं जप्यं शत्रुसंक्षयकाङ्क्षिणा ।  
+भद्रकाल्यष्टकं जप्यं शत्रुसङ्क्षयकाङ्क्षिणा ।  
 स्वर्गापवर्गदं पुण्यं दुष्टग्रहनिवारणम् ॥ ९॥  
   
 इति श्रीभद्रकाल्यष्टकं सम्पूर्णम् ।   

@@ -1,26 +1,28 @@
-+++
-"Text title" = "saubhAgyAShTottarashatanAmastotram"
-"File name" = "saubhAgya108str.itx"
-itxtitle = "saubhAgyAShTottarashatanAmastotram"
-engtitle = "saubhAgyAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, stotra, dattAtreyAnandanAtha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "Dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sridhar Seshagiri seshagir at engineering.sdsu.edu"
-"Proofread by" = "Sridhar Seshagiri seshagir at engineering.sdsu.edu, Avinash Sathaye sohum at ms.uky.edu, NA"
-Description-comments = "26th adhyAya mAhAtmya khaNDam of tripurA rahasyam"
-Indexextra = "(anusthanokarehasya, dasamahavidhyasadhakparivar, nikhildham)"
-"Latest update" = "December 22, 2002, May 21, 2011"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सौभाग्याष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Dattatreya
+Category: aShTottarashatanAma, devii, dashamahAvidyA, stotra, dattAtreyAnandanAtha,
+  devI
+Description-comments: 26th adhyAya mAhAtmya khaNDam of tripurA rahasyam
+File name: saubhAgya108str.itx
+Indexextra: (anusthanokarehasya, dasamahavidhyasadhakparivar, nikhildham)
+Language: Sanskrit
+Latest update: December 22, 2002, May 21, 2011
+Location: doc_devii
+Proofread by: Sridhar Seshagiri seshagir at engineering.sdsu.edu, Avinash Sathaye
+  sohum at ms.uky.edu, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: saubhAgyAShTottarashatanAmastotram
+Texttype: stotra
+Transliterated by: Sridhar Seshagiri seshagir at engineering.sdsu.edu
+engtitle: saubhAgyAShTottarashatanAmastotram
+itxtitle: saubhAgyAShTottarashatanAmastotram
+title: सौभाग्याष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  सौभाग्याष्टोत्तरशतनामस्तोत्रम्   
 दत्तात्रेयेण कृतं सौभाग्याष्टोत्तरशतनामस्तोत्रोपदेशवर्णनम्  
@@ -43,7 +45,7 @@ title = "सौभाग्याष्टोत्तरशतनामस्�
 श्रीविद्यावर्णरत्नानां निधानमिव संस्थितम् ॥ ६॥  
   
 श्रीदेव्या बहुधा सन्ति नामानि शृणु भार्गव ।  
-सहस्रशतसंख्यानि पुराणेष्वागमेषु च ॥ ७॥  
+सहस्रशतसङ्ख्यानि पुराणेष्वागमेषु च ॥ ७॥  
   
 तेषु सारतमं ह्येतत्सौभाग्याऽष्टोत्तराऽऽत्मकम् ।  
 यदुवाच शिवः पूर्वं भवान्यै बहुधाऽर्थितः ॥ ८॥  

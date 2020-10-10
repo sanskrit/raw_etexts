@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahA vArAhI aShTottarashatanAmAvalI"
-"File name" = "vArAhIaShTottaranAmAvalI.itx"
-itxtitle = "mahA vArAhI aShTottarashatanAmAvalI"
-engtitle = "mahA vArAhI aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, otherforms, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Proofread by" = "NA, PSAEaswaran"
-Indexextra = "(English)"
-"Latest update" = "July 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महा वाराही अष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, otherforms, nAmAvalI, devI
+File name: vArAhIaShTottaranAmAvalI.itx
+Indexextra: (English)
+Language: Sanskrit
+Latest update: July 19, 2019
+Location: doc_devii
+Proofread by: NA, PSAEaswaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: hinduism
+Sublocation: devii
+Text title: mahA vArAhI aShTottarashatanAmAvalI
+Texttype: nAmAvalI
+engtitle: mahA vArAhI aShTottarashatanAmAvalI
+itxtitle: mahA vArAhI aShTottarashatanAmAvalI
+title: महा वाराही अष्टोत्तरशतनामावली
 
-+++
+---
   
  महावाराह्यष्टोत्तरशतनामावलिः   
 ॐ नमो वराहवदनायै नमः ।  

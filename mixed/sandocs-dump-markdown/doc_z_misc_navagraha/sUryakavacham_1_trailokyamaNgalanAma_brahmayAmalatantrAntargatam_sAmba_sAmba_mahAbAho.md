@@ -1,22 +1,23 @@
-+++
-"Text title" = "sUryakavachaM 1 brahmayAmale"
-"File name" = "sUryakavachambrahmayAmale.itx"
-itxtitle = "sUryakavacham 1 (trailokyamaNgalanAma brahmayAmalatantrAntargatam sAmba sAmba mahAbAho)"
-engtitle = "sUryakavacham 1"
-Category = "kavacha, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran"
-Description-comments = "brahmayAmala tantra"
-"Latest update" = "April 29, 2013, March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यकवचम् १ (त्रैलोक्यमण्गलनाम ब्रह्मयामलतन्त्रान्तर्गतम् साम्ब साम्ब महाबाहो)"
+---
+Category: kavacha, navagraha
+Description-comments: brahmayAmala tantra
+File name: sUryakavachambrahmayAmale.itx
+Language: Sanskrit
+Latest update: April 29, 2013, March 25, 2017
+Location: doc_z_misc_navagraha
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryakavachaM 1 brahmayAmale
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: sUryakavacham 1
+itxtitle: sUryakavacham 1 (trailokyamaNgalanAma brahmayAmalatantrAntargatam sAmba
+  sAmba mahAbAho)
+title: सूर्यकवचम् १ (त्रैलोक्यमण्गलनाम ब्रह्मयामलतन्त्रान्तर्गतम् साम्ब साम्ब महाबाहो)
 
-+++
+---
   
  सूर्यकवचं त्रैलोक्यमङ्गलं नाम   
 श्रीगणेशाय नमः ॥   

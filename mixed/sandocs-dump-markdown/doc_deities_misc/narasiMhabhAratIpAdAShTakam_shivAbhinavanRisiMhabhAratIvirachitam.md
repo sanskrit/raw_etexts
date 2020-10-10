@@ -1,23 +1,23 @@
-+++
-"Text title" = "narasiMhabhAratIpAdAShTakam"
-"File name" = "narasiMhabhAratIpAdAShTakam.itx"
-itxtitle = "narasiMhabhAratIpAdAShTakam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "narasiMhabhAratIpAdAShTakam"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudeva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नरसिंहभारतीपादाष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, aShTaka
+File name: narasiMhabhAratIpAdAShTakam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudeva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: narasiMhabhAratIpAdAShTakam
+engtitle: narasiMhabhAratIpAdAShTakam
+itxtitle: narasiMhabhAratIpAdAShTakam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: नरसिंहभारतीपादाष्टकम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीनरसिंहभारतीपादाष्टकम्   
 श्रीकीर्तिप्रतिभानां भवनं भविता यदीयपदनत्या  

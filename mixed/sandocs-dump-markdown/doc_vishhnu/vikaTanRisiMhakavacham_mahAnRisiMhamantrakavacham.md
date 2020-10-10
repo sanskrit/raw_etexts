@@ -1,22 +1,22 @@
-+++
-"Text title" = "vikaTanRisimhakavacham"
-"File name" = "vikaTanRisimhakavacham.itx"
-itxtitle = "vikaTanRisiMhakavacham (mahAnRisiMhamantrakavacham)"
-engtitle = "vikaTanRisimhakavacham"
-Category = "vishhnu, dashAvatAra, vishnu, kavacha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy"
-"Transliterated by" = "Mandar Puranik mandar.prog at hotmail.com"
-"Proofread by" = "Mandar Puranik mandar.prog at hotmail.com"
-"Latest update" = "December 26, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विकटनृइसिंहकवचम् (महानृइसिंहमन्त्रकवचम्)"
+---
+Category: vishhnu, dashAvatAra, vishnu, kavacha
+File name: vikaTanRisimhakavacham.itx
+Language: Sanskrit
+Latest update: December 26, 2015
+Location: doc_vishhnu
+Proofread by: Mandar Puranik mandar.prog at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy
+Sublocation: vishhnu
+Text title: vikaTanRisimhakavacham
+Transliterated by: Mandar Puranik mandar.prog at hotmail.com
+engtitle: vikaTanRisimhakavacham
+itxtitle: vikaTanRisiMhakavacham (mahAnRisiMhamantrakavacham)
+title: विकटनृइसिंहकवचम् (महानृइसिंहमन्त्रकवचम्)
 
-+++
+---
   
  विकटनृसिंहकवचम्   
   

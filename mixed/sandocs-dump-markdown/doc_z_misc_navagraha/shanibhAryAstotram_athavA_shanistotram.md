@@ -1,23 +1,23 @@
-+++
-"Text title" = "shanibhAryAstotram"
-"File name" = "shanibhAryAstotra.itx"
-itxtitle = "shanibhAryAstotram athavA shanistotram"
-engtitle = "shanibhAryAstotram"
-Category = "navagraha, shani, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-SubDeity = "shani"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vineet Menon mvineetmenon at gmail.com"
-"Proofread by" = "Vineet Menon, anonymous456an@gmail.com"
-"Latest update" = "June 16, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शनिभार्यास्तोत्रम् अथवा शनिस्तोत्रम्"
+---
+Category: navagraha, shani, stotra
+File name: shanibhAryAstotra.itx
+Language: Sanskrit
+Latest update: June 16, 2017
+Location: doc_z_misc_navagraha
+Proofread by: Vineet Menon, anonymous456an@gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: shani
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shanibhAryAstotram
+Texttype: stotra
+Transliterated by: Vineet Menon mvineetmenon at gmail.com
+engtitle: shanibhAryAstotram
+itxtitle: shanibhAryAstotram athavA shanistotram
+title: शनिभार्यास्तोत्रम् अथवा शनिस्तोत्रम्
 
-+++
+---
   
  शनिभार्या एवम् शनिस्तोत्रम्   
   

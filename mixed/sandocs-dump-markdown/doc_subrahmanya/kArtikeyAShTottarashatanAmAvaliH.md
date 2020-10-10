@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Kartikeya Ashtottarashatanamavali 108 Names"
-"File name" = "kArtikeyAShTottarashatanAmAvaliH.itx"
-itxtitle = "kArtikeyAShTottarashatanAmAvaliH"
-engtitle = "kArtikeyAShTottarashatanAmAvaliH"
-Category = "subrahmanya, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Raman karthik.raman at gmail.com"
-"Proofread by" = "Karthik Raman karthik.raman at gmail.com"
-"Description/comments" = "skandamahApurANa mAheshvarakhaNDa kumArikAkhaNDa"
-Indexextra = "(scan, stotra)"
-"Latest update" = "May 26, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कार्तिकेयाष्टोत्तरशतनामावलिः"
+---
+Category: subrahmanya, aShTottarashatanAmAvalI, nAmAvalI
+Description/comments: skandamahApurANa mAheshvarakhaNDa kumArikAkhaNDa
+File name: kArtikeyAShTottarashatanAmAvaliH.itx
+Indexextra: (scan, stotra)
+Language: Sanskrit
+Latest update: May 26, 2019
+Location: doc_subrahmanya
+Proofread by: Karthik Raman karthik.raman at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Shri Kartikeya Ashtottarashatanamavali 108 Names
+Transliterated by: Karthik Raman karthik.raman at gmail.com
+engtitle: kArtikeyAShTottarashatanAmAvaliH
+itxtitle: kArtikeyAShTottarashatanAmAvaliH
+title: कार्तिकेयाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीकार्तिकेयाष्टोत्तरशतनामावलिः   
 ध्यानम् -  

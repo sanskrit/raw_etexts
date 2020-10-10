@@ -1,21 +1,21 @@
-+++
-"Text title" = "Bhramaramba Ashtakam 2"
-"File name" = "bhramarAMbAShTakam2.itx"
-itxtitle = "bhramarAmbAShTakam 2 (durvAsavirachitam)"
-engtitle = "bhramarAMbAShTakam 2"
-Category = "devii, aShTaka, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Telugu)"
-"Latest update" = "July 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भ्रमराम्बाष्टकम् २ (दुर्वासविरचितम्)"
+---
+Category: devii, aShTaka, otherforms, devI
+File name: bhramarAMbAShTakam2.itx
+Indexextra: (Telugu)
+Language: Sanskrit
+Latest update: July 7, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Bhramaramba Ashtakam 2
+engtitle: bhramarAMbAShTakam 2
+itxtitle: bhramarAmbAShTakam 2 (durvAsavirachitam)
+title: भ्रमराम्बाष्टकम् २ (दुर्वासविरचितम्)
 
-+++
+---
   
  श्रीभ्रमराम्बाष्टकम् २   
 श्रीकण्ठार्पितपत्रगण्डयुगलां सिंहासनाध्यासिनीं  

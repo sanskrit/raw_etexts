@@ -1,22 +1,22 @@
-+++
-"Text title" = "yajnopavItopaniShat"
-"File name" = "yajnopavItopaniShat.itx"
-itxtitle = "yajnopavItopaniShat (vaiShNava)"
-engtitle = "yajnopavItopaniShat"
-Category = "upanishhat, vishhnu, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यज्ञोपवीतोपनिषत् (वैष्णव)"
+---
+Category: upanishhat, vishhnu, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: yajnopavItopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: yajnopavItopaniShat
+engtitle: yajnopavItopaniShat
+itxtitle: yajnopavItopaniShat (vaiShNava)
+title: यज्ञोपवीतोपनिषत् (वैष्णव)
 
-+++
+---
   
  यज्ञोपवीतोपनिषत्   
 यज्ञोपवीती धृतचक्रधारी यो ब्रह्मविद्ब्रह्मविदां मनीषी  

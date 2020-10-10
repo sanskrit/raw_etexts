@@ -3,7 +3,6 @@ title: 010 Hanuma enters Ravana s house
 title_english: 010 Hanuma enters Ravana s house
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-010-Hanuma_enters_Ravana_s_house.mp3"></div>
 
 तत्र दिव्य उपमम् मुख्यम् स्फाटिकम् रत्न भूषितम् ।  
@@ -21,7 +20,7 @@ title_english: 010 Hanuma enters Ravana s house
 तस्मिन् जीमूत सम्काशम् प्रदीप्त उत्तम कुण्डलम् ।  
 लोहित अक्षम् महा बाहुम् महा रजत वाससम् ॥ ५-१०-७  
 लोहितेन अनुलिप्त अन्गम् चन्दनेन सुगन्धिना ।  
-संध्या रक्तम् इव आकाशे तोयदम् सतडिद् गुणम् ॥ ५-१०-८  
+सन्ध्या रक्तम् इव आकाशे तोयदम् सतडिद् गुणम् ॥ ५-१०-८  
 वृतम् आभरणैर् दिव्यैः सुरूपम् काम रूपिणम् ।  
 सव्र्क्ष वन गुल्म आढ्यम् प्रसुप्तम् इव मन्दरम् ॥ ५-१०-९  
 क्रीडित्वा उपरतम् रात्रौ वर आभरण भूषितम् ।  

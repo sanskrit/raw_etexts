@@ -1,23 +1,23 @@
-+++
-"Text title" = "angArakastotram"
-"File name" = "angaarakastotram.itx"
-itxtitle = "aNgArakastotram"
-engtitle = "aNgArakastotram"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kirk Wortman kirkwort at hotmail.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com"
-"Latest update" = "August 24, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अण्गारकस्तोत्रम्"
+---
+Author: Traditional
+Category: navagraha, stotra
+File name: angaarakastotram.itx
+Language: Sanskrit
+Latest update: August 24, 2006
+Location: doc_z_misc_navagraha
+Proofread by: Kirk Wortman kirkwort at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: angArakastotram
+Texttype: stotra
+Transliterated by: Kirk Wortman kirkwort at hotmail.com
+engtitle: aNgArakastotram
+itxtitle: aNgArakastotram
+title: अण्गारकस्तोत्रम्
 
-+++
+---
   
  अङ्गारकस्तोत्रम्   
   
@@ -46,7 +46,7 @@ title = "अण्गारकस्तोत्रम्"
   
 सर्वा नश्यति पीडा च तस्य ग्रहकृता ध्रुवम् ॥ ७॥  
   
-॥ इति श्रीस्कन्दपुराणे अङ्गारकस्तोत्रं संपूर्णम् ॥  
+॥ इति श्रीस्कन्दपुराणे अङ्गारकस्तोत्रं सम्पूर्णम् ॥  
   
   
 Encoded and proofread by Kirk Wortman kirkwort at hotmail.com  

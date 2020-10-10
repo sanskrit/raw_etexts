@@ -1,26 +1,27 @@
-+++
-"Text title" = "Kunjavihari Ashtaka 1"
-"File name" = "kunjavihAryaShTakam1.itx"
-itxtitle = "kunjavihAryaShTakam 1 (rUpagosvAmivirachitam)"
-engtitle = "Kunjavihari Ashtaka 1"
-Category = "aShTaka, vishhnu, krishna, vishnu, rUpagosvAmin, stavamAlA"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Rupagoswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional Prayers stavamAlA"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-Indexextra = "(Scan, Bengali, Meaning 1, 2, Info)"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुञ्जविहार्यष्टकम् १ (रूपगोस्वामिविरचितम्)"
+---
+Author: Rupagoswami
+Category: aShTaka, vishhnu, krishna, vishnu, rUpagosvAmin, stavamAlA
+Description-comments: From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional
+  Prayers stavamAlA
+File name: kunjavihAryaShTakam1.itx
+Indexextra: (Scan, Bengali, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Kunjavihari Ashtaka 1
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: Kunjavihari Ashtaka 1
+itxtitle: kunjavihAryaShTakam 1 (rUpagosvAmivirachitam)
+title: कुञ्जविहार्यष्टकम् १ (रूपगोस्वामिविरचितम्)
 
-+++
+---
   
  कुञ्जविहार्यष्टकम् १   
 प्रथमं श्रीकुञ्जविहार्यष्टकं  

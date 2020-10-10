@@ -1,24 +1,24 @@
-+++
-"Text title" = "garvApahArAShTakam"
-"File name" = "garvApahArAShTakam.itx"
-itxtitle = "garvApahArAShTakam (harirAyagrathitam)"
-engtitle = "garvApahArAShTakam"
-Category = "aShTaka, vishhnu, krishna, vishnu, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Hariraya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "May 17, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गर्वापहाराष्टकम् (हरिरायग्रथितम्)"
+---
+Author: Hariraya
+Category: aShTaka, vishhnu, krishna, vishnu, puShTimArgIya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: garvApahArAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: May 17, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: garvApahArAShTakam
+engtitle: garvApahArAShTakam
+itxtitle: garvApahArAShTakam (harirAyagrathitam)
+title: गर्वापहाराष्टकम् (हरिरायग्रथितम्)
 
-+++
+---
   
  श्रीगर्वापहाराष्टकम्   
   

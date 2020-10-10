@@ -1,23 +1,23 @@
-+++
-"Text title" = "jIvanasya lakShyameva"
-"File name" = "jIvanasyalakShyameva.itx"
-itxtitle = "jIvanasya lakShyameva"
-engtitle = "jIvanasya lakShyameva"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जीवनस्य लक्ष्यमेव"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Category: misc, sanskritgeet
+File name: jIvanasyalakShyameva.itx
+Indexextra: (Wiki)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: jIvanasya lakShyameva
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: jIvanasya lakShyameva
+itxtitle: jIvanasya lakShyameva
+title: जीवनस्य लक्ष्यमेव
 
-+++
+---
   
  जीवनस्य लक्ष्यमेव   
 जीवनस्य लक्ष्यमेव लोकसेवनव्रतम् ।  

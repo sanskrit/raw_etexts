@@ -1,20 +1,20 @@
-+++
-"Text title" = "shrI Parshvanatha sahasranAmastotra"
-"File name" = "pArshvanAthasahasranAmastotram.itx"
-itxtitle = "pArshvanAthasahasranAmastotram (kalyANasAgarausUrivirachitam)"
-engtitle = "pArshvanAthasahasranAmastotram"
-Category = "sahasranAma, deities_misc, jaina"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "kalyANasAgarausUri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "August 23, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्श्वनाथसहस्रनामस्तोत्रम् (कल्याणसागरौसूरिविरचितम्)"
+---
+Author: kalyANasAgarausUri
+Category: sahasranAma, deities_misc, jaina
+File name: pArshvanAthasahasranAmastotram.itx
+Language: Sanskrit
+Latest update: August 23, 2015
+Location: doc_deities_misc
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shrI Parshvanatha sahasranAmastotra
+engtitle: pArshvanAthasahasranAmastotram
+itxtitle: pArshvanAthasahasranAmastotram (kalyANasAgarausUrivirachitam)
+title: पार्श्वनाथसहस्रनामस्तोत्रम् (कल्याणसागरौसूरिविरचितम्)
 
-+++
+---
   
  पार्श्वनाथसहस्रनामस्तोत्रम्   
 श्रीकल्याणसागरसूरिकृत  

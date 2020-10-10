@@ -1,25 +1,26 @@
-+++
-"Text title" = "gange vahasi katham"
-"File name" = "gangevahasyanisham.itx"
-itxtitle = "gaNgevahasyanisham katham"
-engtitle = "gangevahasyanisham"
-Category = "misc, sanskritgeet, devii, nadI, devI"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-SubDeity = "nadI"
-Author = "Original Asamese Bhupen Hazarika, Sanskrit Ranjan Bezbaruah"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "Ganga Behti Ho Kyun(Hindi)/Bistirno Dupare(Bangla)/Bistirno Parore(Assamese)"
-Indexextra = "(Dance Video)"
-"Latest update" = "OCtober 26, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गेवहस्यनिशम् कथम्"
+---
+Author: Original Asamese Bhupen Hazarika, Sanskrit Ranjan Bezbaruah
+Category: misc, sanskritgeet, devii, nadI, devI
+Description-comments: Ganga Behti Ho Kyun(Hindi)/Bistirno Dupare(Bangla)/Bistirno
+  Parore(Assamese)
+File name: gangevahasyanisham.itx
+Indexextra: (Dance Video)
+Language: Sanskrit
+Latest update: OCtober 26, 2019
+Location: doc_z_misc_general
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: gange vahasi katham
+Transliterated by: NA
+engtitle: gangevahasyanisham
+itxtitle: gaNgevahasyanisham katham
+title: गण्गेवहस्यनिशम् कथम्
 
-+++
+---
   
  गङ्गे वहसि कथम्   
 विस्तीर्णप्रतीरे असङ्ख्यनृकृते  
@@ -53,6 +54,6 @@ title = "गण्गेवहस्यनिशम् कथम्"
 जागरयसि कथम्?  
   
 --- मूल रचना डाॅ भूपेन हजारिका  
-संस्कृत रूपान्तर रंजन बेजबरुवा  
+संस्कृत रूपान्तर रञ्जन बेजबरुवा  
   
   

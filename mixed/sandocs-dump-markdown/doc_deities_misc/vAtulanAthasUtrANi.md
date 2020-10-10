@@ -1,21 +1,21 @@
-+++
-"Text title" = "vaatulanaatha suutraaNi"
-"File name" = "vaatula.itx"
-itxtitle = "vAtulanAthasUtrANi"
-engtitle = "Vatulanatha Sutras"
-Category = "sUtra, deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Haresh Bakshi hbakshi at soundofindia.com"
-"Proofread by" = "Haresh Bakshi hbakshi at soundofindia.com"
-"Latest update" = "November 16, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वातुलनाथसूत्राणि"
+---
+Category: sUtra, deities_misc
+File name: vaatula.itx
+Language: Sanskrit
+Latest update: November 16, 2002
+Location: doc_deities_misc
+Proofread by: Haresh Bakshi hbakshi at soundofindia.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism/religion
+Sublocation: deities_misc
+Text title: vaatulanaatha suutraaNi
+Transliterated by: Haresh Bakshi hbakshi at soundofindia.com
+engtitle: Vatulanatha Sutras
+itxtitle: vAtulanAthasUtrANi
+title: वातुलनाथसूत्राणि
 
-+++
+---
   
  वातुलनाथसूत्राणि   
   
@@ -29,7 +29,7 @@ variation तल्लाभाच्छुरिता युगपद्वृ
   
 युग्मग्रासान्निरवकाशसंविन्निष्ठा ॥ ४॥  
   
-सिद्धयोगिनीसंघट्टान्महामेलापोदयः ॥ ५॥  
+सिद्धयोगिनीसङ्घट्टान्महामेलापोदयः ॥ ५॥  
   
 त्रिकञ्चुकपरित्यागान्निराख्यपदावस्थितिः ॥ ६॥  
   
@@ -43,7 +43,7 @@ variation तल्लाभाच्छुरिता युगपद्वृ
   
 चर्यापञ्चकोदये निस्तरङ्गसमावेशः ॥ ११॥  
   
-महाबोधसमावेशात्पुण्यपापासंबन्धः ॥ १२॥  
+महाबोधसमावेशात्पुण्यपापासम्बन्धः ॥ १२॥  
   
 अकथनकथाबलेन महाविस्मयमुद्रा प्राप्त्या खस्वरता ॥ १३॥  
   

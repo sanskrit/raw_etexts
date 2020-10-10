@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Natesha Panchashati"
-"File name" = "naTeshapanchashatI.itx"
-itxtitle = "naTeshapanchashati"
-engtitle = "naTeshapanchashatI"
-Category = "shiva, panchashatI, shatI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Latest update" = "May 9, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "नटेशपञ्चशति"
+---
+Category: shiva, panchashatI, shatI
+File name: naTeshapanchashatI.itx
+Language: Sanskrit
+Latest update: May 9, 2020
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Natesha Panchashati
+Transliterated by: NA
+engtitle: naTeshapanchashatI
+itxtitle: naTeshapanchashati
+title: नटेशपञ्चशति
 
-+++
+---
   
  श्रीनटेशपञ्चशती   
 ॐ नमः  
@@ -231,7 +231,7 @@ title = "नटेशपञ्चशति"
 सप्तकोटिमहामन्त्रप्रतीकाय नमो नमः । २१०  
 कोटिकोटिमहामन्त्र स्वरूपाय नमो नमः ।  
 सर्वमन्त्रमयान्ताप्तसिद्धिदाय नमो नमः ।  
-स्वरसंप्राप्तगीर्वाण भूषणाय नमो नमः ।  
+स्वरसम्प्राप्तगीर्वाण भूषणाय नमो नमः ।  
 अनन्तानन्द सञ्जात संविद् दात्रे नमो नमः ।  
 नमितानन्द सन्दोह ज्ञानदाय नमो नमः ।  
 भक्तभक्ति प्रसन्नात्मवैभवाय नमो नमः ।  
@@ -511,7 +511,7 @@ title = "नटेशपञ्चशति"
 खादिपञ्चभूतसृष्टि कारणाय नमो नमः । ४९०  
 श्रीपर्णगाम्बुकणवत् पञ्चकृत्याय ते नमः ।  
 घटादिजगदाकाररहिताय नमो नमः ।  
-ङाङीङू संज्ञितार्थानामगम्याय नमो नमः ।  
+ङाङीङू सञ्ज्ञितार्थानामगम्याय नमो नमः ।  
 चमन्त्रार्थनिषण्णानाममृताय नमो नमः ।  
 छादनच्छन्दनच्छन्नविभागाय नमो नमः ।  
 जयार्थितजगच्छक्ति स्वरूपाय नमो नमः ।  

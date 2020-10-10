@@ -1,24 +1,24 @@
-+++
-"Text title" = "Hanumat Panchachamaram with meaning"
-"File name" = "hanumatpanchachAmaram.itx"
-itxtitle = "hanUmatpanchachAmaram sArtham (namo.astu te hanumate appayyadIkShitavirachitam)"
-engtitle = "hanUmat pancha chAmaram"
-Category = "hanumaana, appayya-dIkShita, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "Sri Appaya Dixit"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Translated by" = "N.Balasubramanian bbalu at satyam.net.in"
-Indexextra = "(with commentary)"
-"Latest update" = "April 23, 2008, August 4, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनूमत्पञ्चचामरम् सार्थम् (नमोऽस्तु ते हनुमते अप्पय्यदीक्षितविरचितम्)"
+---
+Author: Sri Appaya Dixit
+Category: hanumaana, appayya-dIkShita, hanuman
+File name: hanumatpanchachAmaram.itx
+Indexextra: (with commentary)
+Language: Sanskrit
+Latest update: April 23, 2008, August 4, 2017
+Location: doc_hanumaana
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: Hanumat Panchachamaram with meaning
+Translated by: N.Balasubramanian bbalu at satyam.net.in
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: hanUmat pancha chAmaram
+itxtitle: hanUmatpanchachAmaram sArtham (namo.astu te hanumate appayyadIkShitavirachitam)
+title: हनूमत्पञ्चचामरम् सार्थम् (नमोऽस्तु ते हनुमते अप्पय्यदीक्षितविरचितम्)
 
-+++
+---
   
  श्रीहनुमत्पञ्चचामरम्   
   
@@ -47,9 +47,9 @@ Purana, Hanuman stayed behind after Rama left Ayodhya and remained in
 Kimpurusha Varsha where he is still living listening to Ramayana  
 being sung by the denizens of the place and himself joining them in  
 the singing.   
-किंपुरुषे वर्षे भगवन्तमादिपुरुषं  
-लक्ष्मणाग्रजं सीताभिरामं रामं तच्चरणसंनिकर्षाभिरतः  
-परमभागवतो- हनुमान् सह किंपुरुषैः  
+किम्पुरुषे वर्षे भगवन्तमादिपुरुषं  
+लक्ष्मणाग्रजं सीताभिरामं रामं तच्चरणसन्निकर्षाभिरतः  
+परमभागवतो- हनुमान् सह किम्पुरुषैः  
 अविरतभक्तिरुपासते । आर्ष्टिषेणेन सह गन्दर्वैरनुगीयमानं  
 परमकल्याणीं भर्तृभगवत्कथां समुपशृणोति  स्वयं चेदं गायति ॥(5-19-1,2)\  
 Full account of Hanuman is given in Parasara Samhita also. The  
@@ -281,7 +281,7 @@ mentioned by the Katha Upanishad that states (2-23)  यमेवैष
 chooses᳚. This also brings to our mind the verse in  
 Varadarajapanchasat by the great poet Shri Vedanta Desika. He says:  
 सौशील्यभावितधिया भवता कथञ्चित्  
-       संछादितानपि गुणान् वरद त्वदीयान् ।  
+       सञ्छादितानपि गुणान् वरद त्वदीयान् ।  
 प्रत्यक्षयन्त्यविकलं तव सन्निकृष्टाः  
        पत्युस्त्विषामिव पयोदवृतान् मयूखान् ॥ २७॥  
 One peculiarity of the types 4, 7,8 and 9 of devotions is that it  

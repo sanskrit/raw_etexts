@@ -1,22 +1,22 @@
-+++
-"Text title" = "gAyatrIkavacham 2"
-"File name" = "gAyatrIkavachaalabhya.itx"
-itxtitle = "gAyatrIkavacham 2 alabhyam"
-engtitle = "gAyatrIkavacham 2"
-Category = "devii, gAyatrI, devI, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "aspundir Singh"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "June 23, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीकवचम् २ अलभ्यम्"
+---
+Category: devii, gAyatrI, devI, kavacha
+File name: gAyatrIkavachaalabhya.itx
+Language: Sanskrit
+Latest update: June 23, 2015
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrIkavacham 2
+Transliterated by: aspundir Singh
+engtitle: gAyatrIkavacham 2
+itxtitle: gAyatrIkavacham 2 alabhyam
+title: गायत्रीकवचम् २ अलभ्यम्
 
-+++
+---
   
  अलभ्य श्रीगायत्रीकवचम्   
   

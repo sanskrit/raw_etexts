@@ -3,7 +3,6 @@ title: 053 Later Ravana orders to set fire to his tail
 title_english: 053 Later Ravana orders to set fire to his tail
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-053-Later_Ravana_orders_to_set_fire_to_his_tail.mp3"></div>
 
 तस्य तत् वचनम् श्रुत्वा दशग्रीवो महाबलः ।  
@@ -42,7 +41,7 @@ title_english: 053 Later Ravana orders to set fire to his tail
 परिगृह्य ययुः हृष्टा राक्षसाः कपि कुन्जरम् ॥ ५-५३-१७  
 शन्ख भेरी निनादैः तैः घोषयन्तः स्व कर्मभिः ।  
 राक्षसाः क्रूर कर्माणः चारयन्ति स्म ताम् पुरीम् ॥ ५-५३-१८  
-अन्वीयमानो रक्षोभिर्ययौ सुखमरिंदमः ।  
+अन्वीयमानो रक्षोभिर्ययौ सुखमरिन्दमः ।  
 हनुमान् चारयामास राक्षसानाम् महापुरीम् ॥ ५-५३-१९  
 अथ अपश्यत् विमानानि विचित्राणि महाकपिः ।  
 सम्वृतान् भूमि भागान् च सुविभक्तान् च चत्वरान् ॥ ५-५३-२०  

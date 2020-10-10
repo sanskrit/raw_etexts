@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrii mahaalaxmyashhTakaM stotra with English meaning"
-"File name" = "mahaalakshmyashhTakaM.itx"
-itxtitle = "mahAlakShmyaShTakam lakShmIstavaH cha (indrakRitam, sArtha)"
-engtitle = "mahAlaxmyaShTakam"
-Category = "aShTaka, devii, lakShmI, vyAsa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Author = "Indra, vyAsa"
-Language = "Sanskrit"
-Subject = "religion/hinduism"
-"Transliterated by" = "Aikya Param, NA"
-"Proofread by" = "NA"
-Description-comments = "Devotional hymn of 8 verses, to Goddess Laxmi"
-Indexextra = "(with English Tran.)"
-"Latest update" = "Nov. 29, 1998"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महालक्ष्म्यष्टकम् लक्ष्मीस्तवः च (इन्द्रकृइतम्, सार्थ)"
+---
+Author: Indra, vyAsa
+Category: aShTaka, devii, lakShmI, vyAsa, devI
+Description-comments: Devotional hymn of 8 verses, to Goddess Laxmi
+File name: mahaalakshmyashhTakaM.itx
+Indexextra: (with English Tran.)
+Language: Sanskrit
+Latest update: Nov. 29, 1998
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: religion/hinduism
+Sublocation: devii
+Text title: shrii mahaalaxmyashhTakaM stotra with English meaning
+Transliterated by: Aikya Param, NA
+engtitle: mahAlaxmyaShTakam
+itxtitle: mahAlakShmyaShTakam lakShmIstavaH cha (indrakRitam, sArtha)
+title: महालक्ष्म्यष्टकम् लक्ष्मीस्तवः च (इन्द्रकृइतम्, सार्थ)
 
-+++
+---
   
  महालक्ष्म्यष्टकम्   
   

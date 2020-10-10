@@ -1,23 +1,23 @@
-+++
-"Text title" = "gurukavachaM"
-"File name" = "gurukavacham.itx"
-itxtitle = "gurukavacham"
-engtitle = "Shrigurukavacham"
-Category = "kavacha, deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "hinduism/religion  IshvaradevIsamvAde"
-"Transliterated by" = "PP, DPD"
-"Proofread by" = "PP, DPD"
-Description-comments = "from Kalyan-Mandir magazine purashcharaNarasollAse"
-"Latest update" = "August 16, 2014, July 19, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुकवचम्"
+---
+Category: kavacha, deities_misc, gurudev
+Description-comments: from Kalyan-Mandir magazine purashcharaNarasollAse
+File name: gurukavacham.itx
+Language: Sanskrit
+Latest update: August 16, 2014, July 19, 2016
+Location: doc_deities_misc
+Proofread by: PP, DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: hinduism/religion  IshvaradevIsamvAde
+Sublocation: deities_misc
+Text title: gurukavachaM
+Transliterated by: PP, DPD
+engtitle: Shrigurukavacham
+itxtitle: gurukavacham
+title: गुरुकवचम्
 
-+++
+---
   
  श्रीगुरुकवचम्   
   

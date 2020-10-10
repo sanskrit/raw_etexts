@@ -1,26 +1,26 @@
-+++
-"Text title" = "brahmeshasheShaadikRitaM shriiraadhaastotraM"
-"File name" = "raadhaabrahmashesha.itx"
-itxtitle = "rAdhAstotram (brahmeshasheShAdikRitam)"
-engtitle = "brahmeshasheShAdikRitaM shrIrAdhAstotram"
-Category = "devii, radha, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Texttype = "stotra"
-Author = "brahma, shiva, ananta"
-Language = "Sanskrit"
-Subject = "stotra"
-"Transliterated by" = "Daniel Mohanpersad (danielmohanpersad98 at msn.com)"
-"Proofread by" = "Daniel Mohanpersad (daneilmohanpersad98 at msn.com)"
-Source = "brahmavaivartapuraaNa"
-Indexextra = "(needs proofreading)"
-"Latest update" = "August 10, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधास्तोत्रम् (ब्रह्मेशशेषादिकृइतम्)"
+---
+Author: brahma, shiva, ananta
+Category: devii, radha, stotra, devI
+File name: raadhaabrahmashesha.itx
+Indexextra: (needs proofreading)
+Language: Sanskrit
+Latest update: August 10, 2002
+Location: doc_devii
+Proofread by: Daniel Mohanpersad (daneilmohanpersad98 at msn.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: brahmavaivartapuraaNa
+SubDeity: radha
+Subject: stotra
+Sublocation: devii
+Text title: brahmeshasheShaadikRitaM shriiraadhaastotraM
+Texttype: stotra
+Transliterated by: Daniel Mohanpersad (danielmohanpersad98 at msn.com)
+engtitle: brahmeshasheShAdikRitaM shrIrAdhAstotram
+itxtitle: rAdhAstotram (brahmeshasheShAdikRitam)
+title: राधास्तोत्रम् (ब्रह्मेशशेषादिकृइतम्)
 
-+++
+---
   
  श्रीराधास्तोत्रं ब्रह्मेशशेषादिकृतम्   
   

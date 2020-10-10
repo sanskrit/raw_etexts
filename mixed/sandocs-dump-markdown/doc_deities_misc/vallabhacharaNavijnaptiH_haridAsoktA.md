@@ -1,24 +1,24 @@
-+++
-"Text title" = "vallabhacharaNavijnaptiH"
-"File name" = "vallabhacharaNavijnaptiH.itx"
-itxtitle = "vallabhacharaNavijnaptiH (haridAsoktA)"
-engtitle = "vallabhacharaNavijnaptiH"
-Category = "deities_misc, gurudev, puShTimArgIya, haridAsa"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "haridAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्लभचरणविज्ञप्तिः (हरिदासोक्ता)"
+---
+Author: haridAsa
+Category: deities_misc, gurudev, puShTimArgIya, haridAsa
+Description/comments: puShTimArgIya stotraratnAkara
+File name: vallabhacharaNavijnaptiH.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vallabhacharaNavijnaptiH
+engtitle: vallabhacharaNavijnaptiH
+itxtitle: vallabhacharaNavijnaptiH (haridAsoktA)
+title: वल्लभचरणविज्ञप्तिः (हरिदासोक्ता)
 
-+++
+---
   
  श्रीवल्लभचरणविज्ञप्तिः   
   

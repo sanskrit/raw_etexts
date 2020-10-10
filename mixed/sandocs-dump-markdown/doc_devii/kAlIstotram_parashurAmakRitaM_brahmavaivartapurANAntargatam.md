@@ -1,22 +1,22 @@
-+++
-"Text title" = "kAlIstotramparashurAmakRitam"
-"File name" = "kAlIstotramparashurAmakRitam.itx"
-itxtitle = "kAlIstotram (parashurAmakRitaM brahmavaivartapurANAntargatam)"
-engtitle = "kAlIstotramparashurAmakRitam"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Source = "Brahmavaivarta Purana, Ganesha Khanda, Adhyaya 36"
-"Latest update" = "March 13, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालीस्तोत्रम् (परशुरामकृइतं ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: devii, dashamahAvidyA, devI
+File name: kAlIstotramparashurAmakRitam.itx
+Language: Sanskrit
+Latest update: March 13, 2016
+Location: doc_devii
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Brahmavaivarta Purana, Ganesha Khanda, Adhyaya 36
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAlIstotramparashurAmakRitam
+engtitle: kAlIstotramparashurAmakRitam
+itxtitle: kAlIstotram (parashurAmakRitaM brahmavaivartapurANAntargatam)
+title: कालीस्तोत्रम् (परशुरामकृइतं ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  कालीस्तोत्रं परशुरामकृतं   
   
@@ -50,9 +50,9 @@ title = "कालीस्तोत्रम् (परशुरामकृइ
   
 अर्थ   
 परशुराम द्वारा काली की स्तुति  
-परशुराम बोले - आप शंकरजी की प्रियतमा पत्नी हैं, आपको  
-नमस्कार है । सारस्वरूपा आपको बारंबार प्रणाम है। दुर्गतिनाशिनी को मेरा  
-अभिवादन है । मायारूपा आपको मैं बारंबार सिर झुकाता हूँ। जगद्धात्री  
+परशुराम बोले - आप शङ्करजी की प्रियतमा पत्नी हैं, आपको  
+नमस्कार है । सारस्वरूपा आपको बारम्बार प्रणाम है। दुर्गतिनाशिनी को मेरा  
+अभिवादन है । मायारूपा आपको मैं बारम्बार सिर झुकाता हूँ। जगद्धात्री  
 को नमस्कार-नमस्कार । जगत्कर्त्री को पुनः-पुनः प्रणाम। जगज्जननी को  
 मेरा नमस्कार प्राप्त हो । कारणरूपा आपको बारम्बार अभिवादन है। सृष्टि  
 का संहार करनेवाली जगन्माता! प्रसन्न होइये । मैं आपके चरणों की शरण  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "Gayatri Panchangam"
-"File name" = "gAyatrIpanchAngam.itx"
-itxtitle = "gAyatrIpanchANgam (rUdrayAmalatantre gAyatrIrahasye)"
-engtitle = "gAyatrIpanchAngam"
-Category = "devii, gAyatrI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta at gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta at gmail.com"
-"Description/comments" = "Rudrayamalatantra, Gayatrirahasya"
-Indexextra = "(Scan)"
-"Latest update" = "April 5, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीपञ्चाण्गम् (रूद्रयामलतन्त्रे गायत्रीरहस्ये)"
+---
+Category: devii, gAyatrI
+Description/comments: Rudrayamalatantra, Gayatrirahasya
+File name: gAyatrIpanchAngam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 5, 2020
+Location: doc_devii
+Proofread by: Mandar Mali aryavrutta at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gayatri Panchangam
+Transliterated by: Mandar Mali aryavrutta at gmail.com
+engtitle: gAyatrIpanchAngam
+itxtitle: gAyatrIpanchANgam (rUdrayAmalatantre gAyatrIrahasye)
+title: गायत्रीपञ्चाण्गम् (रूद्रयामलतन्त्रे गायत्रीरहस्ये)
 
-+++
+---
   
  गायत्रीपञ्चाङ्गम्   
 भैरव उवाच -  
@@ -173,7 +173,7 @@ title = "गायत्रीपञ्चाण्गम् (रूद्रय
 इति श्री रूद्रयामलतन्त्रे गायत्रीरहस्ये  
 परमार्थदेवतात्रिपदीगायत्रीपञ्चाङ्गं सम्पूर्णम् ।  
   
-गायत्री रहस्य पंचांगं  
+गायत्री रहस्य पञ्चाङ्गं  
   
 Encoded and proofread by Mandar Mali aryavrutta at gmail.com  
   

@@ -1,22 +1,22 @@
-+++
-"Text title" = "lakShmIsahasranAmAvaliH"
-"File name" = "lakShmIsahasranAmAvaliH.itx"
-itxtitle = "lakShmIsahasranAmAvaliH"
-engtitle = "lakShmIsahasranAmAvaliH"
-Category = "devii, sahasranAmAvalI, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीसहस्रनामावलिः"
+---
+Category: devii, sahasranAmAvalI, lakShmI, devI
+File name: lakShmIsahasranAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmIsahasranAmAvaliH
+engtitle: lakShmIsahasranAmAvaliH
+itxtitle: lakShmIsahasranAmAvaliH
+title: लक्ष्मीसहस्रनामावलिः
 
-+++
+---
   
  श्रीलक्ष्मीसहस्रनामावलिः   
   
@@ -277,7 +277,7 @@ title = "लक्ष्मीसहस्रनामावलिः"
 ॐ यज्ञसम्भवायै नमः । आर्द्रायै । पुष्करिण्यै । पुण्यायै ।  
 गण्यायै । दारिद्र्यभञ्जिन्यै । धन्यायै । मान्यायै । पद्मनेम्यै ।  
 भार्गव्यै । वंशवर्धन्यै । तीक्ष्णप्रवृत्त्त्यै । सत्कीर्त्यै ।  
-निषेव्यायै । अघविनाशिन्यै । संज्ञायै । निःसंशयायै । पूर्वायै ।  
+निषेव्यायै । अघविनाशिन्यै । सञ्ज्ञायै । निःसंशयायै । पूर्वायै ।  
 वनमालायै । वसुन्धरायै नमः ॥ ८२०  
   
 ॐ पृथवे नमः । महोत्कटायै । अहल्यायै । मण्डलायै ।  

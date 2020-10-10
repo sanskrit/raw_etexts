@@ -1,22 +1,22 @@
-+++
-"Text title" = "dineshastavaH"
-"File name" = "dineshastavaH.itx"
-itxtitle = "dineshastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "dineshastavaH"
-Category = "navagraha, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दिनेशस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: navagraha, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: dineshastavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: dineshastavaH
+engtitle: dineshastavaH
+itxtitle: dineshastavaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: दिनेशस्तवः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीदिनेशस्तवः   
 मानससरोगतं मे शोषय पङ्कं खरोस्रं दिननाथ ।  

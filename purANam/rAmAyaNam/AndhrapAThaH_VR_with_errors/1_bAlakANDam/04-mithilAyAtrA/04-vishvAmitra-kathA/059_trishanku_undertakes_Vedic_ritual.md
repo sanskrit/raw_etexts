@@ -3,7 +3,6 @@ title: 059 वसिष्ठपुत्रशपनम्
 title_english: 059 trishanku undertakes Vedic ritual
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-059-Vasista_Putranam_Shapa_Prapthi.mp3"></div>
 
 उक्तवाक्यं तु राजानं कृपया कुशिकात्मजः।  

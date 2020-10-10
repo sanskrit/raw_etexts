@@ -1,21 +1,21 @@
-+++
-"Text title" = "manasAstotram"
-"File name" = "manasAstotram.itx"
-itxtitle = "manasAstotram (sarpabhayanAshaka)"
-engtitle = "manasAstotram"
-Category = "devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "May 5, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मनसास्तोत्रम् (सर्पभयनाशक)"
+---
+Category: devii, otherforms, devI
+File name: manasAstotram.itx
+Language: Sanskrit
+Latest update: May 5, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: manasAstotram
+engtitle: manasAstotram
+itxtitle: manasAstotram (sarpabhayanAshaka)
+title: मनसास्तोत्रम् (सर्पभयनाशक)
 
-+++
+---
   
  सर्पभयनाशक मनसास्तोत्रम्   
   
@@ -25,7 +25,7 @@ title = "मनसास्तोत्रम् (सर्पभयनाशक
   
 श्रीनारायण उवाच -  
 नमः सिद्धिस्वरुपायै वरदायै नमो नमः ।  
-नमः कश्यपकन्यायै शंकरायै नमो नमः ॥ १॥  
+नमः कश्यपकन्यायै शङ्करायै नमो नमः ॥ १॥  
   
 बालानां रक्षणकर्त्र्यै नागदेव्यै नमो नमः ।  
 नम आस्तीकमात्रे ते जरत्कार्व्यै नमो नमः ॥ २॥  

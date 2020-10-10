@@ -1,25 +1,25 @@
-+++
-"Text title" = "sUryAShTottarashatanAmastotram"
-"File name" = "sUryAShTottarashatanAmastotram.itx"
-itxtitle = "sUryAShTottarashatanAmastotram athavA sUryavaradastotram (mahAbhAratAntargatam)"
-engtitle = "sUryAShTottarashatanAma stotram"
-Category = "aShTottarashatanAma, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kirk Wortman kirkwort at hotmail.com"
-"Proofread by" = "Kirk Wortman kirkwort at hotmail.com, Usha Iyer iyerku at gmail.com"
-Description-comments = "yudhiShThiradhaumyasa.nvAde"
-Source = "mahAbhArate AraNyakaparvaNi, BrihatstotraratnAkara 211"
-Indexextra = "(stotra with 108 names)"
-"Latest update" = "March 5, 2011, June 12, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्याष्टोत्तरशतनामस्तोत्रम् अथवा सूर्यवरदस्तोत्रम् (महाभारतान्तर्गतम्)"
+---
+Category: aShTottarashatanAma, navagraha, stotra
+Description-comments: yudhiShThiradhaumyasa.nvAde
+File name: sUryAShTottarashatanAmastotram.itx
+Indexextra: (stotra with 108 names)
+Language: Sanskrit
+Latest update: March 5, 2011, June 12, 2016
+Location: doc_z_misc_navagraha
+Proofread by: Kirk Wortman kirkwort at hotmail.com, Usha Iyer iyerku at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: mahAbhArate AraNyakaparvaNi, BrihatstotraratnAkara 211
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryAShTottarashatanAmastotram
+Texttype: stotra
+Transliterated by: Kirk Wortman kirkwort at hotmail.com
+engtitle: sUryAShTottarashatanAma stotram
+itxtitle: sUryAShTottarashatanAmastotram athavA sUryavaradastotram (mahAbhAratAntargatam)
+title: सूर्याष्टोत्तरशतनामस्तोत्रम् अथवा सूर्यवरदस्तोत्रम् (महाभारतान्तर्गतम्)
 
-+++
+---
   
  श्रीसूर्याष्टोत्तरशतनामस्तोत्रम् अथवा सूर्यवरदस्तोत्रम्   
 श्रीगणेशाय नमः ।  

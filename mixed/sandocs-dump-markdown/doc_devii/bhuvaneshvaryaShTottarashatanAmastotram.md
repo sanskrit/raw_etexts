@@ -1,24 +1,24 @@
-+++
-"Text title" = "bhuvaneshvaryaShTottarashatanAmastotram"
-"File name" = "bhuvaneshvaryaShTottarashatanAmastotram.itx"
-itxtitle = "bhuvaneshvaryaShTottarashatanAmastotram"
-engtitle = "bhuvaneshvaryaShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravi Mukku ravi_mukku at hotmail.com"
-"Proofread by" = "Ravi Mukku ravi_mukku at hotmail.com"
-Indexextra = "(Rudrayamala tantra)"
-"Latest update" = "January 26, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वर्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: aShTottarashatanAma, devii, dashamahAvidyA, stotra, devI
+File name: bhuvaneshvaryaShTottarashatanAmastotram.itx
+Indexextra: (Rudrayamala tantra)
+Language: Sanskrit
+Latest update: January 26, 2014
+Location: doc_devii
+Proofread by: Ravi Mukku ravi_mukku at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhuvaneshvaryaShTottarashatanAmastotram
+Texttype: stotra
+Transliterated by: Ravi Mukku ravi_mukku at hotmail.com
+engtitle: bhuvaneshvaryaShTottarashatanAmastotram
+itxtitle: bhuvaneshvaryaShTottarashatanAmastotram
+title: भुवनेश्वर्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीभुवनेश्वर्यष्टोत्तरशतनामस्तोत्रम्   
   
@@ -56,7 +56,7 @@ title = "भुवनेश्वर्यष्टोत्तरशतना�
 वेदवेदाङ्गरूपा च अतिसूक्ष्मा शरीरिणी ।  
 कालज्ञानी शिवज्ञानी शैवधर्मपरायणा ॥ १०॥  
   
-कालान्तरी कालरूपी संज्ञाना प्राणधारिणी ।  
+कालान्तरी कालरूपी सञ्ज्ञाना प्राणधारिणी ।  
 खड्गश्रेष्ठा च खट्वाङ्गी त्रिशूलवरधारिणी ॥ ११॥  
   
 अरूपा बहुरूपा च नायिका लोकवश्यगा ।  

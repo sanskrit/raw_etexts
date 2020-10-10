@@ -1,24 +1,24 @@
-+++
-"Text title" = "dattAtreyAShTottarashatanAmAvalI 2"
-"File name" = "dattAtreyAShTottarashatanAmAvalI2.itx"
-itxtitle = "dattAtreyAShTottarashatanAmAvaliH 2"
-engtitle = "dattAtreyAShTottarashatanAmAvalI 2"
-Category = "deities_misc, dattatreya, aShTottarashatanAmAvalI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "Dattatreya Stuti Manjari, Ed. S.V. Radhakrishnashastri"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "December 8, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तात्रेयाष्टोत्तरशतनामावलिः २"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: deities_misc, dattatreya, aShTottarashatanAmAvalI
+Description/comments: Dattatreya Stuti Manjari, Ed. S.V. Radhakrishnashastri
+File name: dattAtreyAShTottarashatanAmAvalI2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: December 8, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattAtreyAShTottarashatanAmAvalI 2
+engtitle: dattAtreyAShTottarashatanAmAvalI 2
+itxtitle: dattAtreyAShTottarashatanAmAvaliH 2
+title: दत्तात्रेयाष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  श्रीदत्तात्रेयाष्टोत्तरशतनामावलिः २   
 ॐ अनसूयासुताय नमः । दत्ताय । अत्रिपुत्राय । महामुनये ।  

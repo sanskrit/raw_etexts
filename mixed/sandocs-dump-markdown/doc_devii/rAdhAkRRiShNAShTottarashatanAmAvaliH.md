@@ -1,22 +1,22 @@
-+++
-"Text title" = "rAdhAkRRiShNAShTottarashatanAmAvaliH"
-"File name" = "rAdhAkRRiShNAShTottarashatanAmAvaliH.itx"
-itxtitle = "rAdhAkRRiShNAShTottarashatanAmAvaliH"
-engtitle = "rAdhAkRRiShNAShTottarashatanAmAvaliH"
-Category = "devii, aShTottarashatanAmAvalI, radha, krishna, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाकृष्णाष्टोत्तरशतनामावलिः"
+---
+Category: devii, aShTottarashatanAmAvalI, radha, krishna, devI
+File name: rAdhAkRRiShNAShTottarashatanAmAvaliH.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: radha
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rAdhAkRRiShNAShTottarashatanAmAvaliH
+engtitle: rAdhAkRRiShNAShTottarashatanAmAvaliH
+itxtitle: rAdhAkRRiShNAShTottarashatanAmAvaliH
+title: राधाकृष्णाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीराधाकृष्णाष्टोत्तरशतनामावलिः   
   

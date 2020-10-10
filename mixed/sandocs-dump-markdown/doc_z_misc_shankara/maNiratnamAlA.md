@@ -1,25 +1,25 @@
-+++
-"Text title" = "maniratnamala (aka Prashnottari-maniratnamala)"
-"File name" = "maniratnamala.itx"
-itxtitle = "maNiratnamAlA"
-engtitle = "Maniratnamala"
-Category = "stotra, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Texttype = "stotra"
-Author = "Attributed to Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "sunder hattangadi"
-"Proofread by" = "sunder hattangadi"
-Description-comments = "32 verses on conduct conducive to liberation"
-Indexextra = "(Scan)"
-"Latest update" = "Jan. 2, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मणिरत्नमाला"
+---
+Author: Attributed to Adi Shankaracharya
+Category: stotra, shankarAchArya
+Description-comments: 32 verses on conduct conducive to liberation
+File name: maniratnamala.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: Jan. 2, 2014
+Location: doc_z_misc_shankara
+Proofread by: sunder hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: maniratnamala (aka Prashnottari-maniratnamala)
+Texttype: stotra
+Transliterated by: sunder hattangadi
+engtitle: Maniratnamala
+itxtitle: maNiratnamAlA
+title: मणिरत्नमाला
 
-+++
+---
   
  मणिरत्नमाला   
 अपारसंसारसमुद्रमध्ये  
@@ -48,7 +48,7 @@ title = "मणिरत्नमाला"
      कोवाऽमृतः स्यात्सुखदा निराशा ॥ ५॥  
   
 पाशो हि को यो ममताभिधानः  
-     संमोहयत्येव सुरेव का स्त्री ।  
+     सम्मोहयत्येव सुरेव का स्त्री ।  
 को वा महान्धो मदनातुरो यो  
      मृत्युश्च को वापयशः स्वकीयम् ॥ ६॥  
   

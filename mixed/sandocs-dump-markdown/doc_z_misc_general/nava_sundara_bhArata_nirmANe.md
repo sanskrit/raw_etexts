@@ -1,25 +1,25 @@
-+++
-"Text title" = "Nava Sundara Bharata Nirmane"
-"File name" = "brahmavidAMsarasAmRRitabhAShe.itx"
-itxtitle = "nava sundara bhArata nirmANe"
-engtitle = "nava sundara bhArata nirmANe"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manish Gavkar manishyg at gmail.com"
-"Proofread by" = "Manish Gavkar manishyg at gmail.com, NSA, PSA Easwaran"
-Indexextra = "(Video)"
-"Latest update" = "January 26, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नव सुन्दर भारत निर्माणे"
+---
+Category: misc, sanskritgeet
+File name: brahmavidAMsarasAmRRitabhAShe.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: January 26, 2020
+Location: doc_z_misc_general
+Proofread by: Manish Gavkar manishyg at gmail.com, NSA, PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Nava Sundara Bharata Nirmane
+Transliterated by: Manish Gavkar manishyg at gmail.com
+engtitle: nava sundara bhArata nirmANe
+itxtitle: nava sundara bhArata nirmANe
+title: नव सुन्दर भारत निर्माणे
 
-+++
+---
   
  नव सुन्दर भारतनिर्माणे   
-नव सुन्दर भारत-निर्माणे शुभ पावन संस्कृती संप्राणे ।  
+नव सुन्दर भारत-निर्माणे शुभ पावन संस्कृती सम्प्राणे ।  
 समभावनया जयसङ्गतय धृतसङ्कल्पा समेपिवयमिह ॥ ध्रु ॥  
   
 विकल्पबुद्धिं मनसि न कृत्वा विशुद्धहितमेवात्मनि धृत्वा ।  
@@ -31,7 +31,7 @@ title = "नव सुन्दर भारत निर्माणे"
 भाषाभेदं भावभिन्नता संस्कृतभाषा श्रयास्यजामः ।  
 बलविज्ञानसमर्चितविधयः क्षमयामाखिलजडदारिद्र्यम् ॥ ३॥  
   
-नव सुन्दर भारत निर्माणे शुभ पावन संस्कृती संप्राणे ।  
+नव सुन्दर भारत निर्माणे शुभ पावन संस्कृती सम्प्राणे ।  
   
   
 Encoded and proofread by Manish Gavkar manishyg at gmail.com  

@@ -1,25 +1,25 @@
-+++
-"Text title" = "Mukambika Ashtakam"
-"File name" = "mUkAmbikA8.itx"
-itxtitle = "mUkAmbikAShTakam"
-engtitle = "Kollur Mukambika Ashtakam"
-Category = "aShTaka, devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. R. Ramamurthy"
-"Proofread by" = "P. R. Ramamurthy, Shree, PSA Easwaran"
-Description-comments = "mookambika ashtakam"
-Indexextra = "(youtube), (youtube with meaning)"
-"Latest update" = "July 31, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मूकाम्बिकाष्टकम्"
+---
+Author: Traditional
+Category: aShTaka, devii, otherforms, devI
+Description-comments: mookambika ashtakam
+File name: mUkAmbikA8.itx
+Indexextra: (youtube), (youtube with meaning)
+Language: Sanskrit
+Latest update: July 31, 2016
+Location: doc_devii
+Proofread by: P. R. Ramamurthy, Shree, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Mukambika Ashtakam
+Transliterated by: P. R. Ramamurthy
+engtitle: Kollur Mukambika Ashtakam
+itxtitle: mUkAmbikAShTakam
+title: मूकाम्बिकाष्टकम्
 
-+++
+---
   
  श्रीमूकाम्बिकाष्टकम्   
   

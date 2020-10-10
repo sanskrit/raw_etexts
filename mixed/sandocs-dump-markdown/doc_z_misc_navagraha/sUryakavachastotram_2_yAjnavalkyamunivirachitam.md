@@ -1,22 +1,22 @@
-+++
-"Text title" = "sUryakavachastotram 2"
-"File name" = "suuryakavach2.itx"
-itxtitle = "sUryakavachastotram 2 (yAjnavalkyamunivirachitam)"
-engtitle = "sUryakavachastotram 2"
-Category = "kavacha, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "yAjnavalkyamuni"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com)"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "February 20, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यकवचस्तोत्रम् २ (याज्ञवल्क्यमुनिविरचितम्)"
+---
+Author: yAjnavalkyamuni
+Category: kavacha, navagraha
+File name: suuryakavach2.itx
+Language: Sanskrit
+Latest update: February 20, 2005
+Location: doc_z_misc_navagraha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryakavachastotram 2
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com)
+engtitle: sUryakavachastotram 2
+itxtitle: sUryakavachastotram 2 (yAjnavalkyamunivirachitam)
+title: सूर्यकवचस्तोत्रम् २ (याज्ञवल्क्यमुनिविरचितम्)
 
-+++
+---
   
  सूर्यकवचस्तोत्रम् २   
   

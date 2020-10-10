@@ -1,25 +1,25 @@
-+++
-"Text title" = "shAkambharIpanchakam"
-"File name" = "shAkambharIpanchakam.itx"
-itxtitle = "shAkambharIpanchakam (shaNkarAchAryavirachitam)"
-engtitle = "shAkambharIpanchakam"
-Category = "devii, dashamahAvidyA, kavacha, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Prakash Ketkar"
-"Proofread by" = "Prakash Ketkar, NA"
-Indexextra = "(Audio-Video)"
-Acknowledge-Permission = "http://ioustotra.blogspot.com"
-"Latest update" = "August 5, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शाकम्भरीपञ्चकम् (शण्कराचार्यविरचितम्)"
+---
+Acknowledge-Permission: http://ioustotra.blogspot.com
+Author: Shankaracharya
+Category: devii, dashamahAvidyA, kavacha, shankarAchArya, devI
+File name: shAkambharIpanchakam.itx
+Indexextra: (Audio-Video)
+Language: Sanskrit
+Latest update: August 5, 2018
+Location: doc_devii
+Proofread by: Prakash Ketkar, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: shAkambharIpanchakam
+Transliterated by: Prakash Ketkar
+engtitle: shAkambharIpanchakam
+itxtitle: shAkambharIpanchakam (shaNkarAchAryavirachitam)
+title: शाकम्भरीपञ्चकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  श्रीशाकम्भरीपञ्चकम्   
 श्रीवल्लभसोदरी श्रितजनश्चिद्दायिनी श्रीमती  

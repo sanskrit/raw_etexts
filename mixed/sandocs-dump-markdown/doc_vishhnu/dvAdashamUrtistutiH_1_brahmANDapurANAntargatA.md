@@ -1,22 +1,22 @@
-+++
-"Text title" = "dvAdashamUrtistutiH 1"
-"File name" = "dvAdashamUrtistutiH1.itx"
-itxtitle = "dvAdashamUrtistutiH 1 (brahmANDapurANAntargatA)"
-engtitle = "dvAdashamUrtistutiH 1"
-Category = "vishhnu, krishna, dvAdasha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Source = "brahmANDapurANa"
-Indexextra = "(VSM 1)"
-"Latest update" = "March 10, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "द्वादशमूर्तिस्तुतिः १ (ब्रह्माण्डपुराणान्तर्गता)"
+---
+Category: vishhnu, krishna, dvAdasha
+File name: dvAdashamUrtistutiH1.itx
+Indexextra: (VSM 1)
+Language: Sanskrit
+Latest update: March 10, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: brahmANDapurANa
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dvAdashamUrtistutiH 1
+engtitle: dvAdashamUrtistutiH 1
+itxtitle: dvAdashamUrtistutiH 1 (brahmANDapurANAntargatA)
+title: द्वादशमूर्तिस्तुतिः १ (ब्रह्माण्डपुराणान्तर्गता)
 
-+++
+---
   
  द्वादशमूर्तिस्तुतिः १   
   

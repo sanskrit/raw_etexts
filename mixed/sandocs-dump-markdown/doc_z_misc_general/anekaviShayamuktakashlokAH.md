@@ -1,22 +1,22 @@
-+++
-"Text title" = "Anekavishaya Muktaka Shlokah"
-"File name" = "anekaviShayamuktakashlokAH.itx"
-itxtitle = "anekaviShayamuktakashlokAH"
-engtitle = "anekaviShayamuktakashlokAH"
-Category = "misc"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Ramanuja Stotramala"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अनेकविषयमुक्तकश्लोकाः"
+---
+Category: misc
+Description/comments: Ramanuja Stotramala
+File name: anekaviShayamuktakashlokAH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_z_misc_general
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Anekavishaya Muktaka Shlokah
+engtitle: anekaviShayamuktakashlokAH
+itxtitle: anekaviShayamuktakashlokAH
+title: अनेकविषयमुक्तकश्लोकाः
 
-+++
+---
   
  अनेकविषयमुक्तकश्लोकाः   
 अनेकपूर्वाचार्यैरनुगृहीताः  

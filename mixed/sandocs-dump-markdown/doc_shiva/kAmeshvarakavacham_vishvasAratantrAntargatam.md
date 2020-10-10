@@ -1,23 +1,23 @@
-+++
-"Text title" = "kAmeshvarakavacham"
-"File name" = "kAmeshvarakavacham.itx"
-itxtitle = "kAmeshvarakavacham (vishvasAratantrAntargatam)"
-engtitle = "kAmeshvarakavacham"
-Category = "shiva, kavacha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "vishvasAratantra"
-Indexextra = "(Manuscript)"
-"Latest update" = "January 10, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामेश्वरकवचम् (विश्वसारतन्त्रान्तर्गतम्)"
+---
+Category: shiva, kavacha
+Description/comments: vishvasAratantra
+File name: kAmeshvarakavacham.itx
+Indexextra: (Manuscript)
+Language: Sanskrit
+Latest update: January 10, 2019
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: kAmeshvarakavacham
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: kAmeshvarakavacham
+itxtitle: kAmeshvarakavacham (vishvasAratantrAntargatam)
+title: कामेश्वरकवचम् (विश्वसारतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीकामेश्वरकवचं   
 ॐ श्रीगुरवे शिवायों नमः ।  

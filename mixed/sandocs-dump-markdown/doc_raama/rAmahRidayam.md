@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmahRidayam"
-"File name" = "raamahriday.itx"
-itxtitle = "rAmahRidayam"
-engtitle = "rAmahRidayam"
-Category = "hRidaya, raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "adhyAtmarAmAyaN"
-"Latest update" = "January 03, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामहृइदयम्"
+---
+Author: Traditional
+Category: hRidaya, raama
+Description-comments: adhyAtmarAmAyaN
+File name: raamahriday.itx
+Language: Sanskrit
+Latest update: January 03, 2005
+Location: doc_raama
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmahRidayam
+Transliterated by: WebD
+engtitle: rAmahRidayam
+itxtitle: rAmahRidayam
+title: रामहृइदयम्
 
-+++
+---
   
  श्रीरामहृदयम्   
   

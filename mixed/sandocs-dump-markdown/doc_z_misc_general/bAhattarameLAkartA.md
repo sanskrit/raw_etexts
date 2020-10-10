@@ -1,23 +1,24 @@
-+++
-"Text title" = "bAhattarameLAkartA"
-"File name" = "bAhattarameLAkartA.itx"
-itxtitle = "bAhattarameLAkartA"
-engtitle = "bAhattarameLAkartA"
-Category = "misc, kRitI, marAThI"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Marathi"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pallasena Narayanaswami ppnswami gmail.com"
-"Proofread by" = "Pallasena Narayanaswami, Sunder Hattangadi, NA"
-"Description/comments" = "from The Samgraha Chudamani Of Govinda Pages 290-326, also see page 46-48 for the list"
-Indexextra = "(Scan, Audio, List)"
-"Latest update" = "June 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बाहत्तरमेळाकर्ता"
+---
+Category: misc, kRitI, marAThI
+Description/comments: from The Samgraha Chudamani Of Govinda Pages 290-326, also see
+  page 46-48 for the list
+File name: bAhattarameLAkartA.itx
+Indexextra: (Scan, Audio, List)
+Language: Marathi
+Latest update: June 14, 2019
+Location: doc_z_misc_general
+Proofread by: Pallasena Narayanaswami, Sunder Hattangadi, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: bAhattarameLAkartA
+Transliterated by: Pallasena Narayanaswami ppnswami gmail.com
+engtitle: bAhattarameLAkartA
+itxtitle: bAhattarameLAkartA
+title: बाहत्तरमेळाकर्ता
 
-+++
+---
   
  श्रीवेङ्कटकविविरचित बाहत्तर मेळकर्ता   
 । आदिताल ।  
@@ -29,7 +30,7 @@ title = "बाहत्तरमेळाकर्ता"
 (शुद्धमध्यममेल)  
 श्रीसमकनकाङ्गी शिवनृपपुत्रीपति विलसे सदरीं ॥ १॥  
   
-रत्नाङ्गीसी आंगी लेउनि दिव्यकिरीटहिं लसे शिरीं ॥ २॥  
+रत्नाङ्गीसी आङ्गी लेउनि दिव्यकिरीटहिं लसे शिरीं ॥ २॥  
   
 सकलन गानमूर्ति शोभवी धनद विभवि या पृथ्विवरी ॥ ३॥  
   
@@ -37,13 +38,13 @@ title = "बाहत्तरमेळाकर्ता"
   
 मानवती हे पाहुनि सर्वहिं करिती श्लाघा परोपरी ॥ ५॥  
   
-लसे श्रुती संतानरूपि बहु फळे असे हो निरन्तरी ॥ ६॥  
+लसे श्रुती सन्तानरूपि बहु फळे असे हो निरन्तरी ॥ ६॥  
   
 सेनापति हा सिद्धचि पुढती लक्ष देतसे आज्ञेवरी ॥ ७॥  
   
 लोकी हनुमतो लीन रामपद पद्मीं अलिसा दिनरात्रीं ॥ ८॥  
   
-सवत्सधेनुका सालंकृत हे गजोष्ट्र हय युग हे भारी ॥ ९॥  
+सवत्सधेनुका सालङ्कृत हे गजोष्ट्र हय युग हे भारी ॥ ९॥  
   
 नाटकप्रिया गणिका ह्या कीं गान करिति बहु सुस्वरीं ॥ १०॥  
   
@@ -57,17 +58,17 @@ title = "बाहत्तरमेळाकर्ता"
   
 करिती मायामाळवगौळाच्या ह्या बरव्या हो म्हणती ॥ १५॥  
   
-चक्रवाकसम सुस्तनि यांप्रति निरखुनि विटजन मनि भुलती ॥ १६॥  
+चक्रवाकसम सुस्तनि याम्प्रति निरखुनि विटजन मनि भुलती ॥ १६॥  
   
 सूर्यकान्त सुमनाने लसविति कर्ण अणिक नग बहुले ती ॥ १७॥  
   
 हाटकाम्बरी पैठणि नेसुनी कार्चुबि कञ्चुकि झळकविती ॥ १८॥  
   
-मञ्जुळ करझंकारध्वनि बरि परिसा तुम्ही बहु सुज्ञकृती ॥ १९॥  
+मञ्जुळ करझङ्कारध्वनि बरि परिसा तुम्ही बहु सुज्ञकृती ॥ १९॥  
   
 भैरवनट भैरवी हिं ऐकुनि पाहुनि आश्चर्या करिती ॥ २०॥  
   
-कीरवाणि कळवांतिणि सुस्वर सताल लययुत ह्या गाती ॥ २१॥  
+कीरवाणि कळवान्तिणि सुस्वर सताल लययुत ह्या गाती ॥ २१॥  
   
 हेचि खरहरप्रियाति गङ्गा शिवशिरिं चढुनी पाहे ती ॥ २२॥  
   
@@ -116,9 +117,9 @@ title = "बाहत्तरमेळाकर्ता"
   
 भवप्रियाळु अणिक कृपाळू यासम हाची वाटतसे ॥ ४४॥  
   
-शुभापन्त वराळीसह तू लाभ म्हणती द्विज संतोषें ॥ ४५॥  
+शुभापन्त वराळीसह तू लाभ म्हणती द्विज सन्तोषें ॥ ४५॥  
   
-दाउनि पथ षड्विधमार्गिणि जिंकी रिपुला युक्त दिसे ॥ ४६॥  
+दाउनि पथ षड्विधमार्गिणि जिङ्की रिपुला युक्त दिसे ॥ ४६॥  
   
 सुवर्णाङ्गी विजयश्री येउनि माळ घालिते बहु हौसें ॥ ४७॥  
   
@@ -134,7 +135,7 @@ title = "बाहत्तरमेळाकर्ता"
   
 रिपुजन गमनश्रमामुळे बहु श्रमुनी होती वनवासी ॥ ५३॥  
   
-श्रीविश्वंभरिच्या सुकृपेनें विजय घडे हो रणि ज्याशी ॥ ५४॥  
+श्रीविश्वम्भरिच्या सुकृपेनें विजय घडे हो रणि ज्याशी ॥ ५४॥  
   
 श्यामलाङ्गि महिषासुरमर्दनि प्रसन्न ज्याला अहर्निशी ॥ ५५॥  
   

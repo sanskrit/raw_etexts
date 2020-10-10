@@ -1,22 +1,22 @@
-+++
-"Text title" = "ugratArAhRidayastotram"
-"File name" = "ugratArAhRidayastotram.itx"
-itxtitle = "ugratArAhRidayastotram (bhairavItantrAntargatam)"
-engtitle = "ugratArAhRidayastotram from bhairavItantra"
-Category = "hRidaya, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Latest update" = "December 31, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उग्रताराहृइदयस्तोत्रम् (भैरवीतन्त्रान्तर्गतम्)"
+---
+Category: hRidaya, devii, dashamahAvidyA, devI
+File name: ugratArAhRidayastotram.itx
+Language: Sanskrit
+Latest update: December 31, 2016
+Location: doc_devii
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ugratArAhRidayastotram
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: ugratArAhRidayastotram from bhairavItantra
+itxtitle: ugratArAhRidayastotram (bhairavItantrAntargatam)
+title: उग्रताराहृइदयस्तोत्रम् (भैरवीतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीमदुग्रताराहृदयस्तोत्रम्   
   

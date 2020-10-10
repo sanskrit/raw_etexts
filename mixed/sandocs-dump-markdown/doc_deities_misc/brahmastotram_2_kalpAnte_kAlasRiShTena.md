@@ -1,22 +1,22 @@
-+++
-"Text title" = "Brahma Stotram 2"
-"File name" = "brahmastotram2.itx"
-itxtitle = "brahmastotram 2 (kalpAnte kAlasRiShTena)"
-engtitle = "brahmastotram 2"
-Category = "deities_misc, vedanta"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "April 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "ब्रह्मस्तोत्रम् २ (कल्पान्ते कालसृइष्टेन)"
+---
+Category: deities_misc, vedanta
+File name: brahmastotram2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 18, 2020
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Brahma Stotram 2
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: brahmastotram 2
+itxtitle: brahmastotram 2 (kalpAnte kAlasRiShTena)
+title: ब्रह्मस्तोत्रम् २ (कल्पान्ते कालसृइष्टेन)
 
-+++
+---
   
  ब्रह्मस्तोत्रम् २   
 कल्पान्ते कालसृष्टेन योऽन्धेन तमसावृतम् ।  

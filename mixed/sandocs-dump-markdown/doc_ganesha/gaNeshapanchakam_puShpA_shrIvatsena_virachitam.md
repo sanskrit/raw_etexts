@@ -1,24 +1,24 @@
-+++
-"Text title" = "gaNeshapanchakam"
-"File name" = "gaNeshapanchakam.itx"
-itxtitle = "gaNeshapanchakam (puShpA shrIvatsena virachitam)"
-engtitle = "gaNeshapanchakam"
-Category = "ganesha, puShpAshrIvatsan, panchaka"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali 2017"
-"Latest update" = "September 30, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशपञ्चकम् (पुष्पा श्रीवत्सेन विरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: ganesha, puShpAshrIvatsan, panchaka
+File name: gaNeshapanchakam.itx
+Language: Sanskrit
+Latest update: September 30, 2017
+Location: doc_ganesha
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali 2017
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshapanchakam
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: gaNeshapanchakam
+itxtitle: gaNeshapanchakam (puShpA shrIvatsena virachitam)
+title: गणेशपञ्चकम् (पुष्पा श्रीवत्सेन विरचितम्)
 
-+++
+---
   
  श्रीगणेशपञ्चकम्   
   
@@ -42,7 +42,7 @@ title = "गणेशपञ्चकम् (पुष्पा श्रीव�
 उत्तमश्लोकपूज्याय ऊर्ध्वदृष्टिप्रसादिने ।  
 एकचित्तप्रदात्रे च ऐक्यध्येयाय ते नमः ॥ ४॥  
   
-ओंकारवक्रतुण्डाय औपहारिकगीतये ।  
+ओङ्कारवक्रतुण्डाय औपहारिकगीतये ।  
 पञ्चकश्लोकमालाय पुष्पार्चिताय ते नमः ॥ ५॥  
   
 मङ्गलं गणनाथाय सर्वारम्भाय मङ्गलम् ।  

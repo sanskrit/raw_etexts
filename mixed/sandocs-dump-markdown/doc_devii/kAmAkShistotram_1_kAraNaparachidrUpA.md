@@ -1,26 +1,26 @@
-+++
-"Text title" = "kAmAkShIstotram 1"
-"File name" = "kamakshist.itx"
-itxtitle = "kAmAkShistotram 1 (kAraNaparachidrUpA)"
-engtitle = "Shri KamakShi stotram 1"
-Category = "devii, kAmAkShI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "kAmAkShI"
-Texttype = "stotra"
-Author = "fileauthor"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dhrup Chand"
-"Proofread by" = "Dhrup Chand, Ram Anantha ram at ramsaweb.com"
-Description-comments = "Selected verses from mUkapanchashati"
-Indexextra = "(mUkapanchashati)"
-"Latest update" = "September 19, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कामाक्षिस्तोत्रम् १ (कारणपरचिद्रूपा)"
+---
+Author: fileauthor
+Category: devii, kAmAkShI, stotra, devI
+Description-comments: Selected verses from mUkapanchashati
+File name: kamakshist.itx
+Indexextra: (mUkapanchashati)
+Language: Sanskrit
+Latest update: September 19, 2014
+Location: doc_devii
+Proofread by: Dhrup Chand, Ram Anantha ram at ramsaweb.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: kAmAkShI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kAmAkShIstotram 1
+Texttype: stotra
+Transliterated by: Dhrup Chand
+engtitle: Shri KamakShi stotram 1
+itxtitle: kAmAkShistotram 1 (kAraNaparachidrUpA)
+title: कामाक्षिस्तोत्रम् १ (कारणपरचिद्रूपा)
 
-+++
+---
   
  श्रीकामाक्षिस्तोत्रम् १   
 कारणपरचिद्रूपा काञ्चीपुरसीम्नि कामपीठगता ।  

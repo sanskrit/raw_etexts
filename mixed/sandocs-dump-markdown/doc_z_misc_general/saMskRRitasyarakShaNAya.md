@@ -1,24 +1,24 @@
-+++
-"Text title" = "saMskRRitasyarakShaNAya"
-"File name" = "saMskRRitasyarakShaNAya.itx"
-itxtitle = "saMskRRitasyarakShaNAya"
-engtitle = "saMskRRitasyarakShaNAya"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "gu\\. gaNapayyahoLLaH"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "संस्कृतस्यरक्षणाय"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: gu\. gaNapayyahoLLaH
+Category: misc, sanskritgeet
+File name: saMskRRitasyarakShaNAya.itx
+Indexextra: (Wiki, Videos 1)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: saMskRRitasyarakShaNAya
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: saMskRRitasyarakShaNAya
+itxtitle: saMskRRitasyarakShaNAya
+title: संस्कृतस्यरक्षणाय
 
-+++
+---
   
  संस्कृतस्य रक्षणाय   
 संस्कृतस्य रक्षणाय बद्धपरिकरा वयम् ।  

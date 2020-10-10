@@ -1,25 +1,25 @@
-+++
-"Text title" = "sarasvatyaShTakam"
-"File name" = "sarasvatyaShTakam.itx"
-itxtitle = "sarasvatyaShTakam (padmapurANAntargatam)"
-engtitle = "sarasvatyaShTakam"
-Category = "aShTaka, devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-Source = "padmapurANa"
-"Latest update" = "June 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वत्यष्टकम् (पद्मपुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: aShTaka, devii, sarasvatI, devI
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: sarasvatyaShTakam.itx
+Language: Sanskrit
+Latest update: June 5, 2016
+Location: doc_devii
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: padmapurANa
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatyaShTakam
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: sarasvatyaShTakam
+itxtitle: sarasvatyaShTakam (padmapurANAntargatam)
+title: सरस्वत्यष्टकम् (पद्मपुराणान्तर्गतम्)
 
-+++
+---
   
  सरस्वत्यष्टकम्   
 श्रीगणेशाय नमः ।  

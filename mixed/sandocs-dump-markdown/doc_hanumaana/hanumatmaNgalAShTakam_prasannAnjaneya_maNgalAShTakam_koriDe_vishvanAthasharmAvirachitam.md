@@ -1,24 +1,24 @@
-+++
-"Text title" = "hanumatmangalAShTakam"
-"File name" = "hanumatmangalAShTakam.itx"
-itxtitle = "hanumatmaNgalAShTakam prasannAnjaneya maNgalAShTakam (koriDe vishvanAthasharmAvirachitam)"
-engtitle = "hanumatmangalAShTakam"
-Category = "hanumaana, aShTaka, koriDevishvanAthasharmA, mangala"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Author = "koriDe vishvanAthasharmA, dharmapurI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "koriDe vishvanAthasharmA"
-"Proofread by" = "koriDe vishvanAthasharmA"
-Indexextra = "(blog)"
-Acknowledge-Permission = "http://koride-vishwanathasharma.blogspot.com/"
-"Latest update" = "February 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्मण्गलाष्टकम् प्रसन्नाञ्जनेय मण्गलाष्टकम् (कोरिडे विश्वनाथशर्माविरचितम्)"
+---
+Acknowledge-Permission: http://koride-vishwanathasharma.blogspot.com/
+Author: koriDe vishvanAthasharmA, dharmapurI
+Category: hanumaana, aShTaka, koriDevishvanAthasharmA, mangala
+File name: hanumatmangalAShTakam.itx
+Indexextra: (blog)
+Language: Sanskrit
+Latest update: February 18, 2018
+Location: doc_hanumaana
+Proofread by: koriDe vishvanAthasharmA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumatmangalAShTakam
+Transliterated by: koriDe vishvanAthasharmA
+engtitle: hanumatmangalAShTakam
+itxtitle: hanumatmaNgalAShTakam prasannAnjaneya maNgalAShTakam (koriDe vishvanAthasharmAvirachitam)
+title: हनुमत्मण्गलाष्टकम् प्रसन्नाञ्जनेय मण्गलाष्टकम् (कोरिडे विश्वनाथशर्माविरचितम्)
 
-+++
+---
   
  हनुमत्मङ्गलाष्टकम् प्रसन्नाञ्जनेय मङ्गलाष्टकम् च   
 ॐ गं गणपतये नमः ।  

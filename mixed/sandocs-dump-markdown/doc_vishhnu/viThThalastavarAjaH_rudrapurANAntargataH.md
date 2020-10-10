@@ -1,24 +1,24 @@
-+++
-"Text title" = "viThThalastavarAjaH"
-"File name" = "viThThalastavarAjaH.itx"
-itxtitle = "viThThalastavarAjaH (rudrapurANAntargataH)"
-engtitle = "viThThalastavarAjaH"
-Category = "vishhnu, stavarAja"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Source = "rudrapurANe vAmakeshvaratantre"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विठ्ठलस्तवराजः (रुद्रपुराणान्तर्गतः)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, stavarAja
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viThThalastavarAjaH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: rudrapurANe vAmakeshvaratantre
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viThThalastavarAjaH
+engtitle: viThThalastavarAjaH
+itxtitle: viThThalastavarAjaH (rudrapurANAntargataH)
+title: विठ्ठलस्तवराजः (रुद्रपुराणान्तर्गतः)
 
-+++
+---
   
  विठ्ठलस्तवराजः   
   

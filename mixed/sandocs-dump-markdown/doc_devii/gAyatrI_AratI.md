@@ -1,24 +1,24 @@
-+++
-"Text title" = "Gayatri Arati"
-"File name" = "gAyatrIAratIHindi.itx"
-itxtitle = "gAyatrI AratI"
-engtitle = "Gayatri Arati"
-Category = "AratI, devii, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Author = "unknown"
-Language = "Hindi"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "sunder hattangadi"
-"Proofread by" = "sunder hattangadi"
-Description-comments = "From the book - Gayatri Maha-Vijnana"
-"Latest update" = "February 20, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्री आरती"
+---
+Author: unknown
+Category: AratI, devii, gAyatrI, devI
+Description-comments: From the book - Gayatri Maha-Vijnana
+File name: gAyatrIAratIHindi.itx
+Language: Hindi
+Latest update: February 20, 2014
+Location: doc_devii
+Proofread by: sunder hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gayatri Arati
+Transliterated by: sunder hattangadi
+engtitle: Gayatri Arati
+itxtitle: gAyatrI AratI
+title: गायत्री आरती
 
-+++
+---
   
  गायत्री आरती   
   

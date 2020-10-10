@@ -1,22 +1,22 @@
-+++
-"Text title" = "Shrimat Natarajashtottarashatanamavali"
-"File name" = "naTarAjAShTottarashatanAmAvalI.itx"
-itxtitle = "naTarAjAShTottarashatanAmAvaliH athavA AnandanaTarAjAShTottarashatanAmAvaliH"
-engtitle = "naTarAjAShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "Shree Devi Kumar, PSA Easwaran"
-Source = "chidambarakalpa"
-"Latest update" = "November 2, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नटराजाष्टोत्तरशतनामावलिः अथवा आनन्दनटराजाष्टोत्तरशतनामावलिः"
+---
+Category: aShTottarashatanAmAvalI, shiva
+File name: naTarAjAShTottarashatanAmAvalI.itx
+Language: Sanskrit
+Latest update: November 2, 2016
+Location: doc_shiva
+Proofread by: Shree Devi Kumar, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: chidambarakalpa
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shrimat Natarajashtottarashatanamavali
+Transliterated by: Shree Devi Kumar
+engtitle: naTarAjAShTottarashatanAmAvalI
+itxtitle: naTarAjAShTottarashatanAmAvaliH athavA AnandanaTarAjAShTottarashatanAmAvaliH
+title: नटराजाष्टोत्तरशतनामावलिः अथवा आनन्दनटराजाष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीनटराजाष्टोत्तरशतनामावलिः   
 श्री आनन्दनटराजाष्टोत्तरशतनामावलिः  
@@ -49,7 +49,7 @@ title = "नटराजाष्टोत्तरशतनामावलि�
 ॐ नृत्तमूर्तये नमः ।  
 ॐ परात्पराय नमः ।  
 ॐ परानन्दाय नमः ।  
-ॐ परंज्योतिषे नमः । २०  
+ॐ परञ्ज्योतिषे नमः । २०  
 ॐ आनन्दाय नमः ।  
 ॐ विबुधेश्वराय नमः ।  
 ॐ परप्रकाशाय नमः ।  
@@ -100,8 +100,8 @@ title = "नटराजाष्टोत्तरशतनामावलि�
 ॐ सभानथाय नमः ।  
 ॐ सिंहवर्माप्रपूजिताय नमः ।  
 ॐ भीमाय नमः । ७०  
-ॐ क्लींकारनायकाय नमः ।  
-ॐ ऐंकाररुद्राय नमः ।  
+ॐ क्लीङ्कारनायकाय नमः ।  
+ॐ ऐङ्काररुद्राय नमः ।  
 ॐ त्रिशिवाय नमः ।  
 ॐ तत्त्वाधीशाय नमः ।  
 ॐ निरञ्जनाय नमः ।  
@@ -115,7 +115,7 @@ title = "नटराजाष्टोत्तरशतनामावलि�
 ॐ अव्यक्ताय नमः ।  
 ॐ त्रिगुणाय नमः ।  
 ॐ चित्प्रकाशाय नमः ।  
-ॐ सौंकारसोमाय नमः ।  
+ॐ सौङ्कारसोमाय नमः ।  
 ॐ तत्त्वज्ञाय नमः ।  
 ॐ अघोराय नमः ।  
 ॐ दक्षाध्वरान्तकाय नमः ।  

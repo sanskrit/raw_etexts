@@ -1,26 +1,27 @@
-+++
-"Text title" = "Ramachandra Stava"
-"File name" = "rAmachandrastavaH.itx"
-itxtitle = "rAmachandrastavaH (ApaTIkaravirachitaH)"
-engtitle = "rAmachandrastavaH"
-Category = "raama, ApaTIkara"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "ma. sa. ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामचन्द्रस्तवः (आपटीकरविरचितः)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma. sa. ApaTIkara
+Category: raama, ApaTIkara
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: rAmachandrastavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_raama
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: Ramachandra Stava
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: rAmachandrastavaH
+itxtitle: rAmachandrastavaH (ApaTIkaravirachitaH)
+title: रामचन्द्रस्तवः (आपटीकरविरचितः)
 
-+++
+---
   
  श्रीरामचन्द्रस्तवः   
      (चामरम्)  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "kuNDalinIstotram"
-"File name" = "kuNDalinIstotram.itx"
-itxtitle = "kuNDalinIstotram (prANatoShiNI tantrAntargatam)"
-engtitle = "kuNDalinIstotram"
-Category = "devii, ShaTchakrashakti, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "From Durlabh Stotrani."
-Indexextra = "(Scan)"
-"Latest update" = "June 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुण्डलिनीस्तोत्रम् (प्राणतोषिणी तन्त्रान्तर्गतम्)"
+---
+Category: devii, ShaTchakrashakti, devI
+Description/comments: From Durlabh Stotrani.
+File name: kuNDalinIstotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 17, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kuNDalinIstotram
+engtitle: kuNDalinIstotram
+itxtitle: kuNDalinIstotram (prANatoShiNI tantrAntargatam)
+title: कुण्डलिनीस्तोत्रम् (प्राणतोषिणी तन्त्रान्तर्गतम्)
 
-+++
+---
   
  कुण्डलिनी स्तोत्रम्   
 ॐ नमस्ते देवदेवेशि योगीशप्राणवल्लभे ।  

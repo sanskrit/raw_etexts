@@ -1,25 +1,25 @@
-+++
-"Text title" = "Dayanandaviro Yatirbhatu Shashvat"
-"File name" = "dayAnandavIroyatirbhAtushashvat.itx"
-itxtitle = "dayAnandavIroyatirbhAtushashvat (rAShTragItAnjaliH)"
-engtitle = "dayAnandavIroyatirbhAtushashvat"
-Category = "misc, sanskritgeet, gurudev"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Kapiladeva Dwivedi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Rashtragitanjali, Kapiladeva Dwivedi (Ed.)"
-Indexextra = "(Text)"
-Acknowledge-Permission = "Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दयानन्दवीरोयतिर्भातुशश्वत् (राष्ट्रगीताञ्जलिः)"
+---
+Acknowledge-Permission: Kapiladeva Dwivedi, Vishvabharati Anusandhan Parishad, Varanasi
+Author: Kapiladeva Dwivedi
+Category: misc, sanskritgeet, gurudev
+Description/comments: Rashtragitanjali, Kapiladeva Dwivedi (Ed.)
+File name: dayAnandavIroyatirbhAtushashvat.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Dayanandaviro Yatirbhatu Shashvat
+Translated by: Mandar Mali
+engtitle: dayAnandavIroyatirbhAtushashvat
+itxtitle: dayAnandavIroyatirbhAtushashvat (rAShTragItAnjaliH)
+title: दयानन्दवीरोयतिर्भातुशश्वत् (राष्ट्रगीताञ्जलिः)
 
-+++
+---
   
  दयानन्दवीरो यतिर्भातु शश्वत्   
 (गीतिका) (भुजङ्गप्रयातम्)  

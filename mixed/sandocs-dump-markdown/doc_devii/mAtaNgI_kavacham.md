@@ -1,23 +1,23 @@
-+++
-"Text title" = "Matangi Kavacha"
-"File name" = "mAtangIkavacha.itx"
-itxtitle = "mAtaNgI kavacham"
-engtitle = "mAtangI kavacha"
-Category = "devii, dashamahAvidyA, devI, kavacha"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Lalitha Parameswari parameswari.lalitha at gmail.com"
-"Proofread by" = "Lalitha Parameswari, NA"
-Indexextra = "(Mahavidya Chatushtayam)"
-"Latest update" = "May 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातण्गी कवचम्"
+---
+Category: devii, dashamahAvidyA, devI, kavacha
+File name: mAtangIkavacha.itx
+Indexextra: (Mahavidya Chatushtayam)
+Language: Sanskrit
+Latest update: May 21, 2018
+Location: doc_devii
+Proofread by: Lalitha Parameswari, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Matangi Kavacha
+Transliterated by: Lalitha Parameswari parameswari.lalitha at gmail.com
+engtitle: mAtangI kavacha
+itxtitle: mAtaNgI kavacham
+title: मातण्गी कवचम्
 
-+++
+---
   
  श्रीमातङ्गी कवचम्   
 अस्य श्रीमातङ्गीकवचमन्त्रस्य महायोगीश्वरऋषिः  

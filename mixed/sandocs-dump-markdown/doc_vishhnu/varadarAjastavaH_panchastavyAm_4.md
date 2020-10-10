@@ -1,22 +1,22 @@
-+++
-"Text title" = "Varadarajastavah"
-"File name" = "varadarAjastavaH.itx"
-itxtitle = "varadarAjastavaH ( (panchastavyAm 4)"
-engtitle = "varadarAjastavaH"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Ramanuja Stotramala"
-Indexextra = "(Scan)"
-"Latest update" = "November 23, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वरदराजस्तवः ( (पञ्चस्तव्याम् ४)"
+---
+Category: vishhnu
+Description/comments: Ramanuja Stotramala
+File name: varadarAjastavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 23, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Varadarajastavah
+engtitle: varadarAjastavaH
+itxtitle: varadarAjastavaH ( (panchastavyAm 4)
+title: वरदराजस्तवः ( (पञ्चस्तव्याम् ४)
 
-+++
+---
   
  वरदराजस्तवः   
 पञ्चस्तव्यां ४ वरदराजस्तवः  
@@ -202,7 +202,7 @@ title = "वरदराजस्तवः ( (पञ्चस्तव्या�
 आश्लेषे वरद ! भुजास्तवेन्दिरायाः  
      गोपीनामभिमतरासबन्धने वा ।  
 बन्धे वा मुदमधिकां यशोदयाऽहो !  
-     संप्राप्तास्तव नवनीतमोषदोषात् ॥ ४३॥  
+     सम्प्राप्तास्तव नवनीतमोषदोषात् ॥ ४३॥  
   
 सालीया इव विटपास्सपल्लवाग्राः  
      कल्लोला इव जलधेस्सविद्रुमाग्राः ।  

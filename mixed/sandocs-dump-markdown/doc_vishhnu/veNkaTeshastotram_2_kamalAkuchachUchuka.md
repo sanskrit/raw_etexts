@@ -1,31 +1,31 @@
-+++
-"Text title" = "ve.nkaTesha stotram 2"
-"File name" = "venkateshvara.itx"
-itxtitle = "veNkaTeshastotram 2 (kamalAkuchachUchuka)"
-engtitle = "ve.nkaTesha stotram 2"
-Category = "vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.mypurohith.com"
-"Proofread by" = "Dr. Varagur S.V. Rajan, P.Eng."
-Indexextra = "(kamalAkuchachUchuka)"
-"Latest update" = "September 26, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशस्तोत्रम् २ (कमलाकुचचूचुक)"
+---
+Author: Traditional
+Category: vishhnu, venkateshwara, stotra, vishnu
+File name: venkateshvara.itx
+Indexextra: (kamalAkuchachUchuka)
+Language: Sanskrit
+Latest update: September 26, 2004
+Location: doc_vishhnu
+Proofread by: Dr. Varagur S.V. Rajan, P.Eng.
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ve.nkaTesha stotram 2
+Texttype: stotra
+Transliterated by: http://www.mypurohith.com
+engtitle: ve.nkaTesha stotram 2
+itxtitle: veNkaTeshastotram 2 (kamalAkuchachUchuka)
+title: वेण्कटेशस्तोत्रम् २ (कमलाकुचचूचुक)
 
-+++
+---
   
  श्रीवेङ्कटेशस्तोत्रम्   
 कमलाकुचचूचुक कुङ्कुमतो नियतारुणितातुलनीलतनो ।  
 कमलायतलोचन लोकपते विजयी भव वेङ्कटशैलपते ॥ १॥  
   
-सचतुर्मुखषण्मुखपंचमुखप्रमुखाखिलदैवतमौलिमणे ।  
+सचतुर्मुखषण्मुखपञ्चमुखप्रमुखाखिलदैवतमौलिमणे ।  
 शरणागतवत्सल सारनिधे परिपालय मां वृषशैलपते ॥ २॥  
   
 अतिवेलतया तव दुर्विषहै रनुवेलकृतैरपराधशतै।  

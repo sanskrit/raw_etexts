@@ -1,23 +1,23 @@
-+++
-"Text title" = "mahAvidyAkavacham"
-"File name" = "mahAvidyAkavacham.itx"
-itxtitle = "mahAvidyAkavacham (rudrayAmalAntargatam)"
-engtitle = "mahAvidyAkavacham"
-Category = "devii, dashamahAvidyA, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "From Durlabh Stotrani."
-Indexextra = "(Scan)"
-"Latest update" = "June 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाविद्याकवचम् (रुद्रयामलान्तर्गतम्)"
+---
+Category: devii, dashamahAvidyA, kavacha, devI
+Description/comments: From Durlabh Stotrani.
+File name: mahAvidyAkavacham.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 17, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: mahAvidyAkavacham
+engtitle: mahAvidyAkavacham
+itxtitle: mahAvidyAkavacham (rudrayAmalAntargatam)
+title: महाविद्याकवचम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  महाविद्या कवचम्    
 शृणुदेवि प्रवक्ष्यामि कवचं सर्व सिद्धिदम् ।  

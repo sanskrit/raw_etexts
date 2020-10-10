@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivasankalpopaniShat 2"
-"File name" = "shivasankalpopaniShat2.itx"
-itxtitle = "shivasaNkalpopaniShat 2 (shaiva)"
-engtitle = "shivasankalpopaniShat 2"
-Category = "upanishhat, shiva, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवसण्कल्पोपनिषत् २ (शैव)"
+---
+Category: upanishhat, shiva, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: shivasankalpopaniShat2.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: shivasankalpopaniShat 2
+engtitle: shivasankalpopaniShat 2
+itxtitle: shivasaNkalpopaniShat 2 (shaiva)
+title: शिवसण्कल्पोपनिषत् २ (शैव)
 
-+++
+---
   
  शिवसङ्कल्पोपनिषत् २   
 येनेदं भूतं भुवनं भविष्यत् परिगृहीतममृतेन सर्वम् ।  

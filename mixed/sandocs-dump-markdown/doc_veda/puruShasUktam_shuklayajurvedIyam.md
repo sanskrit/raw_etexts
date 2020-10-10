@@ -1,23 +1,23 @@
-+++
-"Text title" = "vairAgyasAndipani"
-"File name" = "puruShasUktashuklayajurvedIya.itx"
-itxtitle = "puruShasUktam (shuklayajurvedIyam)"
-engtitle = "Purushasukta from Shuklayajurveda"
-Category = "sUkta, veda, svara"
-Location = "doc_veda"
-Sublocation = "veda"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ankur Nagpal ankurnagpal108 at gmail dotcom"
-"Proofread by" = "Ankur Nagpal ankurnagpal108 at gmail dotcom"
-Indexextra = "(versions)"
-"Latest update" = "February 2, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पुरुषसूक्तम् (शुक्लयजुर्वेदीयम्)"
+---
+Category: sUkta, veda, svara
+File name: puruShasUktashuklayajurvedIya.itx
+Indexextra: (versions)
+Language: Sanskrit
+Latest update: February 2, 2013
+Location: doc_veda
+Proofread by: Ankur Nagpal ankurnagpal108 at gmail dotcom
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: vairAgyasAndipani
+Texttype: svara
+Transliterated by: Ankur Nagpal ankurnagpal108 at gmail dotcom
+engtitle: Purushasukta from Shuklayajurveda
+itxtitle: puruShasUktam (shuklayajurvedIyam)
+title: पुरुषसूक्तम् (शुक्लयजुर्वेदीयम्)
 
-+++
+---
   
  शुक्लयजुर्वेदीय पुरुषसूक्तः   
   

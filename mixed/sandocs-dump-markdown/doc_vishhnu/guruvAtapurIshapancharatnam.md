@@ -1,24 +1,24 @@
-+++
-"Text title" = "guruvAtapurIsha pancharatnaM"
-"File name" = "guruvaatapuriisha.itx"
-itxtitle = "guruvAtapurIshapancharatnam"
-engtitle = "guruvAtapurIshapancharatnam"
-Category = "vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "shrii senkaalipuram Anantharaama Dikshitar"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sowmya Ramkumar"
-"Proofread by" = "Mrs. K. V. Lalitha, K S Ramachandran, PSA Easwaran"
-Description-comments = "This was written by Shri Senkalipuram Anantharama"
-"Latest update" = "December 28, 1997, January 14, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुवातपुरीशपञ्चरत्नम्"
+---
+Author: shrii senkaalipuram Anantharaama Dikshitar
+Category: vishhnu, krishna, vishnu
+Description-comments: This was written by Shri Senkalipuram Anantharama
+File name: guruvaatapuriisha.itx
+Language: Sanskrit
+Latest update: December 28, 1997, January 14, 2017
+Location: doc_vishhnu
+Proofread by: Mrs. K. V. Lalitha, K S Ramachandran, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: guruvAtapurIsha pancharatnaM
+Transliterated by: Sowmya Ramkumar
+engtitle: guruvAtapurIshapancharatnam
+itxtitle: guruvAtapurIshapancharatnam
+title: गुरुवातपुरीशपञ्चरत्नम्
 
-+++
+---
   
  गुरुवातपुरीशपञ्चरत्नं   
   
@@ -38,7 +38,7 @@ title = "गुरुवातपुरीशपञ्चरत्नम्"
       नारायण नारायण नारायण नारायण  
       नारायण नारायण नारायण नारायण ॥  
   
-ब्राह्मे मुहूर्ते परितः स्वभक्तैः संदृष्टसर्वोत्तमविश्वरूप ।  
+ब्राह्मे मुहूर्ते परितः स्वभक्तैः सन्दृष्टसर्वोत्तमविश्वरूप ।  
 स्वतैलसंसेवकरोगहर्त्रे वातालयाधीश नमो नमस्ते ॥ ३॥  
   
       नारायण नारायण नारायण नारायण  

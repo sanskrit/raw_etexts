@@ -1,22 +1,22 @@
-+++
-"Text title" = "ShaNmukhatatpuruShamukhasahasranAmAvalI"
-"File name" = "ShaNmukhatatpuruShamukhasahasranAmAvalI.itx"
-itxtitle = "ShaNmukhatatpuruShamukhasahasranAmAvaliH"
-engtitle = "ShaNmukhatatpuruShamukhasahasranAmAvaliH"
-Category = "sahasranAmAvalI, subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-Description-comments = "Subrahmanya stuti manjari p259+, pratimukhashaNmukasahasranAmAvalI"
-"Latest update" = "November 2, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षण्मुखतत्पुरुषमुखसहस्रनामावलिः"
+---
+Category: sahasranAmAvalI, subrahmanya
+Description-comments: Subrahmanya stuti manjari p259+, pratimukhashaNmukasahasranAmAvalI
+File name: ShaNmukhatatpuruShamukhasahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: November 2, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: ShaNmukhatatpuruShamukhasahasranAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: ShaNmukhatatpuruShamukhasahasranAmAvaliH
+itxtitle: ShaNmukhatatpuruShamukhasahasranAmAvaliH
+title: षण्मुखतत्पुरुषमुखसहस्रनामावलिः
 
-+++
+---
   
  श्रीषण्मुख अथवा तत्पुरुषमुखसहस्रनामावलिः २   
   
@@ -120,7 +120,7 @@ var  पुर्त्रयविघातिने ?
 सुशीलाय । करवीरप्रियाय ।  महापराक्रमाय । कालरूपिणे नमः । (३४०)  
   
 लोकचूडाकराय नम्ः । विष्टरश्रवसे । सम्राजे । कल्पवृक्षाय ।  
-त्विषीमते । वरेण्याय । वज्ररूपाय । परस्मै ज्योतिषे (परंज्योतिषे) ।  
+त्विषीमते । वरेण्याय । वज्ररूपाय । परस्मै ज्योतिषे (परञ्ज्योतिषे) ।  
 पद्मगर्भाय । सलीलाय । तत्त्वाधिकाय । स्वर्गाय ।  
 दीर्घाय । स्रग्विणे । पाण्डुरङ्गाय । घोराय । ब्रह्मरूपिणे ।  
 निष्कलाय । प्रपद्याय । सामगेयप्रियाय नमः । (३६०)  
@@ -158,7 +158,7 @@ var  पुर्त्रयविघातिने ?
 ॐ बहुश्रुतिधराय नमः । अघ्राणाय । गन्धग्रहकारिणे । पुराणाय ।  
 पुष्टाय । सर्वमृग्याय । वृक्षाय । जननेत्राय । चिदात्मने ।  
 रसज्ञाय । रसनारहिताय । अमूर्ताय । सदसस्पतये । जितेन्द्रियाय ।  
-तिथये । परंज्योतिस्स्वरूपिणे । सर्वमोक्षादिकर्त्रे । भुवनस्थितये ।  
+तिथये । परञ्ज्योतिस्स्वरूपिणे । सर्वमोक्षादिकर्त्रे । भुवनस्थितये ।  
 स्वर्गस्फूर्तिविनाशकर्त्रे । प्रेरकाय नमः । (४८०)  
   
 ॐ अन्तर्यामिणे नमः । सर्वहृदिस्थाय । चक्रभ्रमणकर्त्रे ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Hymn to Shri Ramakrishna (2)"
-"File name" = "rk_hymn_2.itx"
-itxtitle = "rAmakRiShNastotram 2"
-engtitle = "Hymn to Shri Ramakrishna (2)"
-Category = "deities_misc, svara, vivekAnanda"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "svara"
-Author = "Swami Vivekanand"
-Language = "Sanskrit"
-Subject = "Religious hymn"
-"Transliterated by" = "Sunder Hattangadi"
-"Proofread by" = "Sunder Hattangadi , Swami Mahayogananda"
-"Latest update" = "Dec. 28,1997, December 7, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामकृइष्णस्तोत्रम् २"
+---
+Author: Swami Vivekanand
+Category: deities_misc, svara, vivekAnanda
+File name: rk_hymn_2.itx
+Language: Sanskrit
+Latest update: Dec. 28,1997, December 7, 2008
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi , Swami Mahayogananda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Religious hymn
+Sublocation: deities_misc
+Text title: Hymn to Shri Ramakrishna (2)
+Texttype: svara
+Transliterated by: Sunder Hattangadi
+engtitle: Hymn to Shri Ramakrishna (2)
+itxtitle: rAmakRiShNastotram 2
+title: रामकृइष्णस्तोत्रम् २
 
-+++
+---
   
  श्रीरामकृष्णस्तोत्र २   
   
@@ -27,9 +27,9 @@ title = "रामकृइष्णस्तोत्रम् २"
         भक्त्या ज्ञानं वृतवरवपुः सीतया यो हि रामः ॥ १॥  
   
                           नरदेव देव, जय जय नरदेव  
-स्तब्धीकृत्य प्रलयकलितं वाहवोत्थं महांतम्  
+स्तब्धीकृत्य प्रलयकलितं वाहवोत्थं महान्तम्  
         हित्वा रात्रिं प्रकृतिसहजामन्धतामिस्रमिश्राम्  
-गीतं शांतं मधुरमपि यः सिंहनादं जगर्ज  
+गीतं शान्तं मधुरमपि यः सिंहनादं जगर्ज  
         सोऽयं जातः प्रथितपुरुषो रामकृष्णस्त्विदानीम् ॥ २॥  
   
                           नरदेव देव, जय जय नरदेव  

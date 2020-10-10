@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ekakshara Upanishad"
-"File name" = "ekakshara.itx"
-itxtitle = "ekAkSharopaniShat"
-engtitle = "EkakShara"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "69 / 108; Krishna Yajurveda - Samanya upanishad"
-"Latest update" = "Mar. 23, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकाक्षरोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, upanishad
+Description-comments: 69 / 108; Krishna Yajurveda - Samanya upanishad
+File name: ekakshara.itx
+Language: Sanskrit
+Latest update: Mar. 23, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Ekakshara Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: EkakShara
+itxtitle: ekAkSharopaniShat
+title: एकाक्षरोपनिषत्
 
-+++
+---
   
  एकाक्षरोपनिषत्   
   
@@ -92,7 +92,7 @@ title = "एकाक्षरोपनिषत्"
      स्त्वयावृतं जगदुद्भवगर्भः ॥ १२॥  
   
 त्वं भूर्भुवः स्वस्त्वं हि  
-     स्वयंभूरथ विश्वतोमुखः ।  
+     स्वयम्भूरथ विश्वतोमुखः ।  
 य एवं नित्यं वेदयते गुहाशयं  
      प्रभुं पुराणं सर्वभूतं हिरण्मयम् ॥ १३॥  
   

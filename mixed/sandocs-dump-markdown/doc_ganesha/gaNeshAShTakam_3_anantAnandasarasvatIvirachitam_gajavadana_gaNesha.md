@@ -1,21 +1,21 @@
-+++
-"Text title" = "gaNeshAShTakam 3"
-"File name" = "gaNeshAShTakam3.itx"
-itxtitle = "gaNeshAShTakam 3 (anantAnandasarasvatIvirachitam gajavadana gaNesha)"
-engtitle = "gaNeshAShTakam 3"
-Category = "ganesha, aShTaka"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशाष्टकम् ३ (अनन्तानन्दसरस्वतीविरचितम् गजवदन गणेश)"
+---
+Category: ganesha, aShTaka
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: gaNeshAShTakam3.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_ganesha
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshAShTakam 3
+engtitle: gaNeshAShTakam 3
+itxtitle: gaNeshAShTakam 3 (anantAnandasarasvatIvirachitam gajavadana gaNesha)
+title: गणेशाष्टकम् ३ (अनन्तानन्दसरस्वतीविरचितम् गजवदन गणेश)
 
-+++
+---
   
  गणेशाष्टकम् ३   
 गजवदन गणेश त्वं विभो विश्वमूर्ते!  

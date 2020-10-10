@@ -1,23 +1,23 @@
-+++
-"Text title" = "phaNIndrakShmAbhRitstotram"
-"File name" = "phaNIndrakShmAbhRitstotram.itx"
-itxtitle = "phaNIndrakShmAbhRitstotram"
-engtitle = "PhanindrakShmabhritstotram"
-Category = "vishhnu, vishnu_misc, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Latest update" = "April 14, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "फणीन्द्रक्ष्माभृइत्स्तोत्रम्"
+---
+Category: vishhnu, vishnu_misc, stotra, vishnu
+File name: phaNIndrakShmAbhRitstotram.itx
+Language: Sanskrit
+Latest update: April 14, 2014
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: phaNIndrakShmAbhRitstotram
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: PhanindrakShmabhritstotram
+itxtitle: phaNIndrakShmAbhRitstotram
+title: फणीन्द्रक्ष्माभृइत्स्तोत्रम्
 
-+++
+---
   
  फणीन्द्रक्ष्माभृत्स्तोत्रम्   
   

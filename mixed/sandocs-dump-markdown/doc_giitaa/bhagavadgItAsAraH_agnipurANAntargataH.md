@@ -1,24 +1,24 @@
-+++
-"Text title" = "gItAsAra agnipurANAntargatam"
-"File name" = "gItAsAraagnipurANa.itx"
-itxtitle = "bhagavadgItAsAraH (agnipurANAntargataH)"
-engtitle = "Shrimad Gitasara from Agni Purana 381"
-Category = "gItA, giitaa, bhagavadgita"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Subcategory = "bhagavadgita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "sa.wikisource.org"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Agnipurana adhyAya 381"
-Indexextra = "(scanned)"
-"Latest update" = "May 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवद्गीतासारः (अग्निपुराणान्तर्गतः)"
+---
+Category: gItA, giitaa, bhagavadgita
+Description-comments: Agnipurana adhyAya 381
+File name: gItAsAraagnipurANa.itx
+Indexextra: (scanned)
+Language: Sanskrit
+Latest update: May 18, 2013
+Location: doc_giitaa
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: bhagavadgita
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: gItAsAra agnipurANAntargatam
+Transliterated by: sa.wikisource.org
+engtitle: Shrimad Gitasara from Agni Purana 381
+itxtitle: bhagavadgItAsAraH (agnipurANAntargataH)
+title: भगवद्गीतासारः (अग्निपुराणान्तर्गतः)
 
-+++
+---
   
  श्रीमद् गीतासारः अग्निपुराणान्तर्गतः   
   
@@ -66,7 +66,7 @@ title = "भगवद्गीतासारः (अग्निपुराण
 चतुर्विधा भजन्ते मां ज्ञानी चैकत्वमास्थितः ।  
 अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते ॥ ३८१.१४ ॥  
   
-भूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः ।  
+भूतभावोद्भवकरो विसर्गः कर्मसञ्ज्ञितः ।  
 अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् ॥ ३८१.१५ ॥  
   
 अधियज्ञोऽहमेवात्र देहे देहभृतां वर ।  
@@ -163,10 +163,10 @@ title = "भगवद्गीतासारः (अग्निपुराण
 देशादौ चैव दातव्यमुपकाराय राजसम् ।  
 अदेशादाववज्ञातं तामसं दानमीरितम् ॥ ३८१.४७ ॥  
   
-ओंतत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः ।  
+ओन्तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः ।  
 यज्ञदानादिकं कर्म भुक्तिमुक्तिप्रदं नृणाम् ॥ ३८१.४८ ॥  
   
-अनिष्टमिष्टं मिश्रञ्च त्रिविंधं कर्मणः फलम् ।  
+अनिष्टमिष्टं मिश्रञ्च त्रिविन्धं कर्मणः फलम् ।  
 भवत्यत्यागिनां प्रेत्य न तु सन्न्यासिनां क्वचित् ॥ ३८१.४९ ॥  
   
 तामसः कर्मसंयोगात् मोहात्क्लेशभयादिकात् ।  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "aShTabhujAShTakam"
-"File name" = "aShTabhujAShTakam.itx"
-itxtitle = "aShTabhujAShTakam (vedAntadeshikavirachitaM)"
-engtitle = "aShTabhujAShTakam"
-Category = "vishhnu, aShTaka, vedAnta-deshika"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अष्टभुजाष्टकम् (वेदान्तदेशिकविरचितं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Author: vedAntadeshika
+Category: vishhnu, aShTaka, vedAnta-deshika
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: aShTabhujAShTakam.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: aShTabhujAShTakam
+engtitle: aShTabhujAShTakam
+itxtitle: aShTabhujAShTakam (vedAntadeshikavirachitaM)
+title: अष्टभुजाष्टकम् (वेदान्तदेशिकविरचितं)
 
-+++
+---
   
  अष्टभुजाष्टकम्   
   

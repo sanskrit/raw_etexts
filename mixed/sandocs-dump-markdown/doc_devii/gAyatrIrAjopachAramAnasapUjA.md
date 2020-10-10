@@ -1,23 +1,23 @@
-+++
-"Text title" = "Gayatri Raja Upachara Manasa Puja"
-"File name" = "gAyatrIrAjopachAramAnasapUjA.itx"
-itxtitle = "gAyatrIrAjopachAramAnasapUjA"
-engtitle = "gAyatrIrAjopachAramAnasapUjA"
-Category = "devii, gAyatrI, pUjA"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta at gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "April 5, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीराजोपचारमानसपूजा"
+---
+Category: devii, gAyatrI, pUjA
+File name: gAyatrIrAjopachAramAnasapUjA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 5, 2020
+Location: doc_devii
+Proofread by: Mandar Mali aryavrutta at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gayatri Raja Upachara Manasa Puja
+Transliterated by: Mandar Mali aryavrutta at gmail.com
+engtitle: gAyatrIrAjopachAramAnasapUjA
+itxtitle: gAyatrIrAjopachAramAnasapUjA
+title: गायत्रीराजोपचारमानसपूजा
 
-+++
+---
   
  गायत्रीराजोपचारमानसपूजा   
 १. ध्यानम् -  
@@ -233,7 +233,7 @@ title = "गायत्रीराजोपचारमानसपूजा"
                 समर्पयामि नमः ॥ ३०॥  
   
 ३१. गन्धम् -  
-      प्रत्यङ्गं परिमार्जयामि शुचिना वस्त्रेण संप्रोक्षितम् ।  
+      प्रत्यङ्गं परिमार्जयामि शुचिना वस्त्रेण सम्प्रोक्षितम् ।  
       कुर्वे केशकलापमायततरं घूपोत्तमैर्धूपितम् ।  
       काश्मीरैरगुरुद्रवैर्मलयजैः सङ्घर्ष्य सम्पादितं  
       भक्तत्राणपरे (विशुद्ध-) विमले श्रीचन्दनं गृह्यताम् ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "gAyatrInAmAShTAviMshatistotram"
-"File name" = "gAyatrInAmAShTAviMshatistotram.itx"
-itxtitle = "gAyatrInAmAShTAviMshatistotram (vasiShThasaMhitAyAM)"
-engtitle = "gAyatrInAmAShTAviMshatistotram"
-Category = "devii, gAyatrI, devI, viMshati"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com, NA"
-"Latest update" = "June 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्रीनामाष्टाविंशतिस्तोत्रम् (वसिष्ठसंहितायां)"
+---
+Category: devii, gAyatrI, devI, viMshati
+File name: gAyatrInAmAShTAviMshatistotram.itx
+Language: Sanskrit
+Latest update: June 17, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatrInAmAShTAviMshatistotram
+Transliterated by: NA
+engtitle: gAyatrInAmAShTAviMshatistotram
+itxtitle: gAyatrInAmAShTAviMshatistotram (vasiShThasaMhitAyAM)
+title: गायत्रीनामाष्टाविंशतिस्तोत्रम् (वसिष्ठसंहितायां)
 
-+++
+---
   
  गायत्रीनामाष्टाविंशतिस्तोत्रम्   
   

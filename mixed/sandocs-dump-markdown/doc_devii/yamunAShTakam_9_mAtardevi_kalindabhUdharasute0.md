@@ -1,21 +1,21 @@
-+++
-"Text title" = "yamunAShTakam 9"
-"File name" = "yamunAShTakam9.itx"
-itxtitle = "yamunAShTakam 9 (mAtardevi kalindabhUdharasute0"
-engtitle = "yamunAShTakam 9"
-Category = "devii, nadI, aShTaka, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "January 15, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यमुनाष्टकम् ९ (मातर्देवि कलिन्दभूधरसुते०"
+---
+Category: devii, nadI, aShTaka, devI
+File name: yamunAShTakam9.itx
+Language: Sanskrit
+Latest update: January 15, 2019
+Location: doc_devii
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: yamunAShTakam 9
+engtitle: yamunAShTakam 9
+itxtitle: yamunAShTakam 9 (mAtardevi kalindabhUdharasute0
+title: यमुनाष्टकम् ९ (मातर्देवि कलिन्दभूधरसुते०
 
-+++
+---
   
  श्रीयमुनाष्टकम् ९   
 मातर्देवि कलिन्दभूधरसुते नीलाम्बुजश्यामल  

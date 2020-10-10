@@ -1,22 +1,22 @@
-+++
-"Text title" = "pashupati pnchAsya stavaH"
-"File name" = "pashupati5.itx"
-itxtitle = "pashupati panchAsya stavaH"
-engtitle = "pashupati panchAsya stavaH"
-Category = "panchaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-Description-comments = "in praise of Lord Pashupati with five faces."
-"Latest update" = "June 21, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पशुपति पञ्चास्य स्तवः"
+---
+Category: panchaka, shiva
+Description-comments: in praise of Lord Pashupati with five faces.
+File name: pashupati5.itx
+Language: Sanskrit
+Latest update: June 21, 2012
+Location: doc_shiva
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: pashupati pnchAsya stavaH
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: pashupati panchAsya stavaH
+itxtitle: pashupati panchAsya stavaH
+title: पशुपति पञ्चास्य स्तवः
 
-+++
+---
   
  पशुपति पञ्चास्य स्तवः   
   
@@ -71,10 +71,10 @@ says that the people there will be calm, and will have other good qualities.
 The place is situated in high mountains, among dense forests and has  
 remarkable scenic beauty; and in such wonderful surrounding shines  
 Lord Pashupatinath as the very embodiment of wisdom. (Nepala mahatmyam.7-54).  
-संपूर्णे भारतेऽस्मिन्नपि वसु-भरिते भूशिरः-स्थानभूते  
+सम्पूर्णे भारतेऽस्मिन्नपि वसु-भरिते भूशिरः-स्थानभूते  
   शश्वच्छान्त्यादि-केन्द्रे हिमगिरि-शिखरेऽभ्युत्तरेऽध्युत्तमेऽन्तः ।  
 पुण्ये नैसर्ग-रम्ये परगहन-वने सद्विचित्रे पवित्रे  
-  क्षेत्रे नेपाल-संज्ञे लसति पशुपति-ज्योतिरात्मा चिदीशः ॥  
+  क्षेत्रे नेपाल-सञ्ज्ञे लसति पशुपति-ज्योतिरात्मा चिदीशः ॥  
   
    
 It was a Hindu kingdom, the only one in the world, till recently. Here, in  
@@ -117,22 +117,22 @@ of this. The prayers addressed to the five faces of Shiva are given below.
   
 संवर्ताग्नि-तटित्प्रदीप्त-कनकप्रस्पर्धि - तेजोरुणां  
   गम्भीरध्वनि-सामवेदजनकं ताम्राधरं सुन्दरम् ।  
-अर्धेन्दुद्युति-लोल-पिंगल जटा भार-प्रबोद्धोदकं  
+अर्धेन्दुद्युति-लोल-पिङ्गल जटा भार-प्रबोद्धोदकं  
   वन्दे सिद्धसुरासुरेन्द्र-नमितं पूर्वं मुखं शूलिनः ॥  
   
-ॐ नमो भगवते॑ रुद्रा॒य । पूर्वांग मुखाय नमः ॥  
+ॐ नमो भगवते॑ रुद्रा॒य । पूर्वाङ्ग मुखाय नमः ॥  
   
 The above verse is in salutation of Tatpurusha facing East.  
   
 अ॒घो॑रे᳚भ्योऽथ॒ घोरे᳚भ्यो॒ घोरघोर॑तरेभ्यः ।  
 सर्वे᳚भ्यः सर्व॒शर्वे᳚भ्यो॒ नम॑स्ते अस्तु रु॒द्ररु॑पेभ्यः ॥  
   
-कालाभ्र-भ्रमरांजन-द्युतिनिभं व्यावृत्तपिंगेक्षणं  
-  कर्णोद्भासित-भोगिमस्तकमणि-प्रोद्भिन्नदंष्ट्रांकुरम् ।  
+कालाभ्र-भ्रमराञ्जन-द्युतिनिभं व्यावृत्तपिङ्गेक्षणं  
+  कर्णोद्भासित-भोगिमस्तकमणि-प्रोद्भिन्नदंष्ट्राङ्कुरम् ।  
 सर्पप्रोतकपाल-शुक्तिशकल-व्याकीर्णताशेखरं  
   वन्दे दक्षिणमीश्वरस्य वदनं चाथर्वनादोदयम् ॥  
   
-ॐ नमो भगवते॑ रुद्रा॒य । दक्षिणांग मुखाय नमः ॥  
+ॐ नमो भगवते॑ रुद्रा॒य । दक्षिणाङ्ग मुखाय नमः ॥  
   
 The above verse is in salutation of Aghora facing South.  
   
@@ -140,11 +140,11 @@ The above verse is in salutation of Aghora facing South.
 भ॒वे भ॑वे॒ नाति॑भवे भवस्व॒ माम् । भ॒वोद्भ॑वाय॒ नमः॑ ॥  
   
 प्रालेयाचलमिन्दुकुन्द-धवलं गोक्षीरफेनप्रभं  
-  भस्माभ्यंगमनंगदेहदहन-ज्वालावलीलोचनम् ।  
+  भस्माभ्यङ्गमनङ्गदेहदहन-ज्वालावलीलोचनम् ।  
 विष्णुब्रह्ममरुद्गणार्चितपदं ऋग्वेदनादोदयं  
-  वन्देऽहं सकलं कलंकरहितं स्थाणोर्मुखं पश्चिमम् ॥  
+  वन्देऽहं सकलं कलङ्करहितं स्थाणोर्मुखं पश्चिमम् ॥  
   
-ॐ नमो भगवते॑ रुद्रा॒य । पश्चिमांग मुखाय नमः ॥  
+ॐ नमो भगवते॑ रुद्रा॒य । पश्चिमाङ्ग मुखाय नमः ॥  
   
 The above verse is in salutation of Sadyojata facing West.  
   
@@ -152,12 +152,12 @@ The above verse is in salutation of Sadyojata facing West.
 काला॑य॒ नमः॒ कल॑विकरणाय॒ नमो॒ बल॒विकरणाय॒ नमो॒ बला॑य॒ नमो॒  
 बल॑प्रमथनाय॒ नम॒स्सर्व॑भूतदमनाय॒ नमो॑ म॒नो॑न्म॑नाय॒ नमः॑ ॥  
   
-गौरं कुंकुम पंकितं सुतिलकं व्यापाण्डुमण्डस्थलं  
+गौरं कुङ्कुम पङ्कितं सुतिलकं व्यापाण्डुमण्डस्थलं  
   भ्रूविक्षेप-कटाक्षवीक्षणलसत्संसक्तकर्णोत्पलम् ।  
-स्निग्धं बिम्बफलाधरं प्रहसितं नीलालकालंकृतं  
+स्निग्धं बिम्बफलाधरं प्रहसितं नीलालकालङ्कृतं  
   वन्दे याजुष-वेदघोषजनकं वक्त्रं हरस्योत्तरम् ॥  
   
-ॐ नमो भगवते॑ रुद्रा॒य । उत्तरांग मुखाय नमः ॥  
+ॐ नमो भगवते॑ रुद्रा॒य । उत्तराङ्ग मुखाय नमः ॥  
   
 The above verse is in salutation of Vamadeva facing North .  
   
@@ -167,10 +167,10 @@ The above verse is in salutation of Vamadeva facing North .
   
 व्यक्ताव्यक्तनिरूपितं च परमं षट्त्रिंशतत्त्वाधिकं  
   तस्मादुत्तर-तत्त्वमक्षरमिति ध्येयं सदा योगिभिः ।  
-ओंकारादि-समस्तमन्त्रजनकं सूक्ष्मातिसूक्ष्मं परं  
-  वन्दे पंचममीश्वरस्य वदनं खव्यापि तेजोमयम् ॥  
+ओङ्कारादि-समस्तमन्त्रजनकं सूक्ष्मातिसूक्ष्मं परं  
+  वन्दे पञ्चममीश्वरस्य वदनं खव्यापि तेजोमयम् ॥  
   
-ॐ नमो भगवते॑ रुद्रा॒य । ऊर्ध्वांग मुखाय नमः ॥   
+ॐ नमो भगवते॑ रुद्रा॒य । ऊर्ध्वाङ्ग मुखाय नमः ॥   
 The above verse is in salutation of Ishana facing up - the sky.  
   
 THE SIGNIFICANCE OF FIVE FACES ;- What is the significance of Shiva  
@@ -183,7 +183,7 @@ namavali. A chapter from the elaborate commentary is given below.
 ईशान-तत्पुरुषाघोर-वामदेव-सद्योजाताख्य-पञ्च-  
 ब्रह्मात्मकानि, तानि च पञ्चब्रह्माणि भूत- पञ्चक,  
 तन्मातृ-पञ्चक, कर्मेन्द्रिय-पञ्चक, ज्ञानेन्द्रिय-पञ्चक,  
-पुरुष-प्रकृति-बुद्ध्यहंकार मनोरूप-तत्त्व- पञ्चक,  
+पुरुष-प्रकृति-बुद्ध्यहङ्कार मनोरूप-तत्त्व- पञ्चक,  
 निवृत्तिप्रतिष्ठाविद्याशान्ति, शान्त्यतीताख्य कला-पञ्चक,  
 ब्रह्मा, विष्णु, रुद्र, महेश्वर, सदाशिवाख्य-मूर्ति-पञ्चक,  
 शिवसादाख्य, मूर्तसादाख्य, मूर्तसादाख्य-कर्तृसादाख्य-कर्मसादाख्य  
@@ -217,7 +217,7 @@ flowed from His mouth came to be known as Vangmati. (From Nepala Mahatmyam).
 भगवन्तं तमन्वेष्टुं यदा भागवतो ययौ ।  
 तमदृष्ट्वा तपस्तेपे हिमवच्छिखरे शुभे ॥  
   
-दृष्ट्वा तं शंभुरागत्य हास्यमुच्चैश्चकार ह ।  
+दृष्ट्वा तं शम्भुरागत्य हास्यमुच्चैश्चकार ह ।  
 ततो नदी समुत्पन्ना ह्युन्नतात् गिरिगह्वरात् ॥  
   
 वचनान्मम दैत्येन्द्र बहिर्याता यतो नदी ।  
@@ -241,10 +241,10 @@ pebbles on both sides.This place is known as the ShaligramakShetra.
   
 एवं वर्षायुतसहस्रपर्यन्तावसितकर्मनिर्वाणावसरोऽधिभुज्यमानं  
 स्वतनयेभ्यो रिक्थं पितृपैतामहं यथादायं विभज्य  
-स्वयं सकलसंपन्निकेतात् स्वनिकेतात् पुलहाश्रमं प्रवव्राज ॥ ८॥  
+स्वयं सकलसम्पन्निकेतात् स्वनिकेतात् पुलहाश्रमं प्रवव्राज ॥ ८॥  
   
 यत्र ह वाव भगवान् हरिरद्यापि तत्रत्यानां  
-निजजनानां वात्सल्येन संनिधाप्यत इच्छारूपेण ॥ ९॥  
+निजजनानां वात्सल्येन सन्निधाप्यत इच्छारूपेण ॥ ९॥  
   
 यत्राश्रमपदान्युभयतोनाभीभिर्दृषच्चक्रैश्चक्रनदी नाम  
 सरित्प्रवरा सर्वतः पवित्रीकरोति ॥ १०॥  

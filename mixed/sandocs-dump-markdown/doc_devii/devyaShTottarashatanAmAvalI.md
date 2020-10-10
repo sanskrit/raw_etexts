@@ -1,22 +1,22 @@
-+++
-"Text title" = "devyaShTottarashatanAmAvalI"
-"File name" = "devyaShTottarashatanAmAvalI.itx"
-itxtitle = "devyaShTottarashatanAmAvalI"
-engtitle = "devyaShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "R. Harshananda"
-"Proofread by" = "R. Harshananda"
-Indexextra = "(navadurgApUjA)"
-"Latest update" = "February 17, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देव्यष्टोत्तरशतनामावली"
+---
+Category: aShTottarashatanAmAvalI, devii, durgA, nAmAvalI, devI
+File name: devyaShTottarashatanAmAvalI.itx
+Indexextra: (navadurgApUjA)
+Language: Sanskrit
+Latest update: February 17, 2018
+Location: doc_devii
+Proofread by: R. Harshananda
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devyaShTottarashatanAmAvalI
+Transliterated by: R. Harshananda
+engtitle: devyaShTottarashatanAmAvalI
+itxtitle: devyaShTottarashatanAmAvalI
+title: देव्यष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीदेव्यष्टोत्तरशतनामावली   
 ॐ अस्यश्री महिषमर्दिनि वनदुर्गा महामन्त्रस्य आरण्यक  

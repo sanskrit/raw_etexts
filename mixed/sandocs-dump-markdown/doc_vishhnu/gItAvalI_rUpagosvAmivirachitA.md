@@ -1,25 +1,27 @@
-+++
-"Text title" = "gItAvalI"
-"File name" = "gItAvalI.itx"
-itxtitle = "gItAvalI (rUpagosvAmivirachitA)"
-engtitle = "gItAvalI"
-Category = "vishhnu, krishna, rUpagosvAmin, stavamAlA"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Rupagoswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional Prayers stavamAlA"
-Indexextra = "(Scan, Bengali, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गीतावली (रूपगोस्वामिविरचिता)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Rupagoswami
+Category: vishhnu, krishna, rUpagosvAmin, stavamAlA
+Description/comments: From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional
+  Prayers stavamAlA
+File name: gItAvalI.itx
+Indexextra: (Scan, Bengali, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gItAvalI
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: gItAvalI
+itxtitle: gItAvalI (rUpagosvAmivirachitA)
+title: गीतावली (रूपगोस्वामिविरचिता)
 
-+++
+---
   
  गीतावली   
   
@@ -155,7 +157,7 @@ title = "गीतावली (रूपगोस्वामिविरचि
 सा तव निशितकटाक्षशराहतहृदया जीवति कृशतनूराली ॥ ध्रुव ॥  
   
 हृदि वलदविरलसञ्ज्वरपटलीस्फुटदुज्ज्वलमौक्तिकसमुदाया ।  
-शीतलभूतलनिश्चलतनुरियमवसीदति संप्रति निरुपाया ॥  
+शीतलभूतलनिश्चलतनुरियमवसीदति सम्प्रति निरुपाया ॥  
   
 गोष्ठजनाभयसत्रमहाव्रतदीक्षित भवतो माधव बाला ।  
 कथमर्हति तां हन्त सनातन विषमदशां गुणवृन्दविशाला ॥ ९॥  
@@ -291,7 +293,7 @@ title = "गीतावली (रूपगोस्वामिविरचि
 १९  
 कर्णाटः  
 किं वितनोषि मुधाङ्गविभूषणकपटेनात्र विघातम् ।  
-सोढुमहं समयस्य न संप्रति शक्ता लवमपि पातम् ॥  
+सोढुमहं समयस्य न सम्प्रति शक्ता लवमपि पातम् ॥  
   
 गोकुलमङ्गलवंशी  
 ध्वनिरुद्गर्जति वनगतये स्मरभूपतिशासनशंसी ॥ ध्रुव ॥  
@@ -490,7 +492,7 @@ title = "गीतावली (रूपगोस्वामिविरचि
 रामकेलिः  
 हृदयान्तरमधिशायितम् । रमय जनं निजदयितम् ॥  
   
-किं फलमपराधिकया । संप्रति तव राधिकया ॥  
+किं फलमपराधिकया । सम्प्रति तव राधिकया ॥  
   
 माधव परिहर पटिमतरङ्गम् ।  
 वेत्ति न का तव रङ्गम् ॥ ध्रुव ॥  

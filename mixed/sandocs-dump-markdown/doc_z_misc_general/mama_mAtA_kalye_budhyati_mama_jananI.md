@@ -1,26 +1,27 @@
-+++
-"Text title" = "mama mAtA My Mother"
-"File name" = "mamamAtA.itx"
-itxtitle = "mama mAtA (kalye budhyati mama jananI)"
-engtitle = "mama mAtA My Mother"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "K. Ranjit, Introduction by Padmashri Dr. Mohanalal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Translated by" = "Ranjit Varma"
-"Description/comments" = "Singer Karthika Vaidyanathan, Composers B. R. Shankaranarayanan and Satish Raghunathan"
-Indexextra = "(Translation, Audio YouTube, Author's Introcution)"
-Acknowledge-Permission = "Courtesy : https://amaravaani.org"
-"Latest update" = "July 8, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मम माता (कल्ये बुध्यति मम जननी)"
+---
+Acknowledge-Permission: 'Courtesy : https://amaravaani.org'
+Author: K. Ranjit, Introduction by Padmashri Dr. Mohanalal
+Category: misc, sanskritgeet
+Description/comments: Singer Karthika Vaidyanathan, Composers B. R. Shankaranarayanan
+  and Satish Raghunathan
+File name: mamamAtA.itx
+Indexextra: (Translation, Audio YouTube, Author's Introcution)
+Language: Sanskrit
+Latest update: July 8, 2018
+Location: doc_z_misc_general
+Proofread by: Ganesh Kandu kanduganesh at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: mama mAtA My Mother
+Translated by: Ranjit Varma
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: mama mAtA My Mother
+itxtitle: mama mAtA (kalye budhyati mama jananI)
+title: मम माता (कल्ये बुध्यति मम जननी)
 
-+++
+---
   
  मम माता   
   
@@ -113,8 +114,8 @@ Karthika Vaidyanathan । कार्त्तिका वैद्यना�
 Project Design and Support । परियोजनाकल्पकः, समवस्थापकः च  
 Ragav Krishna । राघव कृष्णः  
   
-MUSIC COMPOSERS । संगीतसंयोजकौ  
-Shankaranarayanan B R। शंकरनारायणः बी।आर्  
+MUSIC COMPOSERS । सङ्गीतसंयोजकौ  
+Shankaranarayanan B R। शङ्करनारायणः बी।आर्  
 Satish Raghunathan । सतीश रघुनाथः  
   
 English Language Content and Creative . आङ्ग्लभाषादेशिकः  

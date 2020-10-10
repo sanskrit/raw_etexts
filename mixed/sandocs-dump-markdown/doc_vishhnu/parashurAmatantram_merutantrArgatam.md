@@ -1,22 +1,22 @@
-+++
-"Text title" = "parashurAmatantram merutantre"
-"File name" = "parashurAmatantrammerutantre.itx"
-itxtitle = "parashurAmatantram (merutantrArgatam)"
-engtitle = "parashurAmatantram merutantre"
-Category = "vishhnu, dashAvatAra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Parashurama yantra)"
-"Latest update" = "June 4, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परशुरामतन्त्रम् (मेरुतन्त्रार्गतम्)"
+---
+Category: vishhnu, dashAvatAra, vishnu
+File name: parashurAmatantrammerutantre.itx
+Indexextra: (Parashurama yantra)
+Language: Sanskrit
+Latest update: June 4, 2016
+Location: doc_vishhnu
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: parashurAmatantram merutantre
+engtitle: parashurAmatantram merutantre
+itxtitle: parashurAmatantram (merutantrArgatam)
+title: परशुरामतन्त्रम् (मेरुतन्त्रार्गतम्)
 
-+++
+---
   
  श्रीपरशुरामतन्त्रं मेरुतन्त्रान्तर्गतम्   
   

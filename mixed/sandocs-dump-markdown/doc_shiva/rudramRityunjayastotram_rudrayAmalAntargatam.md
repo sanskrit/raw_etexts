@@ -1,24 +1,24 @@
-+++
-"Text title" = "Rudramrityunjaya Stotram"
-"File name" = "rudramRRityunjayastotram.itx"
-itxtitle = "rudramRityunjayastotram (rudrayAmalAntargatam)"
-engtitle = "rudramRRityunjayastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रमृइत्युञ्जयस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: shiva
+Description/comments: rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde
+File name: rudramRRityunjayastotram.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+Subject: philosophy/hinduism/religion
+Text title: Rudramrityunjaya Stotram
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: rudramRRityunjayastotram
+itxtitle: rudramRityunjayastotram (rudrayAmalAntargatam)
+title: रुद्रमृइत्युञ्जयस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  रुद्रमृत्युञ्जयस्तोत्रम्   
 अथाष्टचत्त्वारिंशः पटलः  

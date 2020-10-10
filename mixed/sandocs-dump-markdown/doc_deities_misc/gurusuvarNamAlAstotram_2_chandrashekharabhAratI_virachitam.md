@@ -1,25 +1,25 @@
-+++
-"Text title" = "Shri Gurusuvarnamalastotram 2"
-"File name" = "gurusuvarNamAlAstotram2.itx"
-itxtitle = "gurusuvarNamAlAstotram 2 (chandrashekharabhAratI virachitam)"
-engtitle = "gurusuvarNamAlAstotram 2"
-Category = "deities_misc, gurudev, chandrashekharabhAratI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "chandrashekharabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Sri Gururaja Sukti Malika"
-Indexextra = "(Translation)"
-"Latest update" = "January 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुसुवर्णमालास्तोत्रम् २ (चन्द्रशेखरभारती विरचितम्)"
+---
+Author: chandrashekharabhAratI
+Category: deities_misc, gurudev, chandrashekharabhAratI
+Description/comments: Sri Gururaja Sukti Malika
+File name: gurusuvarNamAlAstotram2.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: January 1, 2020
+Location: doc_deities_misc
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Gurusuvarnamalastotram 2
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: gurusuvarNamAlAstotram 2
+itxtitle: gurusuvarNamAlAstotram 2 (chandrashekharabhAratI virachitam)
+title: गुरुसुवर्णमालास्तोत्रम् २ (चन्द्रशेखरभारती विरचितम्)
 
-+++
+---
   
  श्रीगुरुसुवर्णमालास्तोत्रम् २   
 श्रीसत्संवित्सुखशिवनूतननरसिंहनामगुरुवर्यम् ।  

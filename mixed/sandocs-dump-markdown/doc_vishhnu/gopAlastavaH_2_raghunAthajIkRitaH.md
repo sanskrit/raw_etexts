@@ -1,24 +1,24 @@
-+++
-"Text title" = "gopAlastavaH 2"
-"File name" = "gopAlastavaH2.itx"
-itxtitle = "gopAlastavaH 2 (raghunAthajIkRitaH)"
-engtitle = "gopAlastavaH 2"
-Category = "vishhnu, krishna, puShTimArgIya, raghunAthajI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Raghunathaji raghunAthajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोपालस्तवः २ (रघुनाथजीकृइतः)"
+---
+Author: Raghunathaji raghunAthajI
+Category: vishhnu, krishna, puShTimArgIya, raghunAthajI
+Description/comments: puShTimArgIya stotraratnAkara
+File name: gopAlastavaH2.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: gopAlastavaH 2
+engtitle: gopAlastavaH 2
+itxtitle: gopAlastavaH 2 (raghunAthajIkRitaH)
+title: गोपालस्तवः २ (रघुनाथजीकृइतः)
 
-+++
+---
   
  श्रीगोपालस्तवः २   
   

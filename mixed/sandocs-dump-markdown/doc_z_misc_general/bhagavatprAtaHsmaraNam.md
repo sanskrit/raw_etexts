@@ -1,24 +1,24 @@
-+++
-"Text title" = "bhagavatprAtahsmaraNam"
-"File name" = "bhagavatprAtahsmaraNam.itx"
-itxtitle = "bhagavatprAtaHsmaraNam"
-engtitle = "bhagavatprAtaHsmaraNam"
-Category = "suprabhAta, misc, stotra, brahmAnanda"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "stotra"
-Author = "Svami Brahmananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "Brihatstotraratnakar 386 pages one, item 168"
-"Latest update" = "January 3, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवत्प्रातःस्मरणम्"
+---
+Author: Svami Brahmananda
+Category: suprabhAta, misc, stotra, brahmAnanda
+Description-comments: Brihatstotraratnakar 386 pages one, item 168
+File name: bhagavatprAtahsmaraNam.itx
+Language: Sanskrit
+Latest update: January 3, 2014
+Location: doc_z_misc_general
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: bhagavatprAtahsmaraNam
+Texttype: stotra
+Transliterated by: NA
+engtitle: bhagavatprAtaHsmaraNam
+itxtitle: bhagavatprAtaHsmaraNam
+title: भगवत्प्रातःस्मरणम्
 
-+++
+---
   
  भगवत्प्रातःस्मरणम्   
   
@@ -30,7 +30,7 @@ title = "भगवत्प्रातःस्मरणम्"
   
 प्रातर्भजामि भवसागरवारिपारं  
 देवर्षिसिद्धनिवहैर्विहितोपहारम् ।  
-संदृप्तदानवकदम्बमदापहारं  
+सन्दृप्तदानवकदम्बमदापहारं  
 सौन्दर्यराशिजलराशिसुताविहारम् ॥ २॥  
   
 प्रातर्नमामि शरदम्बरकान्तिकान्तं  

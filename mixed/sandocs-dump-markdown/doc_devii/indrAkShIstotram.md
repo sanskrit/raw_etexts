@@ -1,24 +1,25 @@
-+++
-"Text title" = "i.ndrAkShI stotram"
-"File name" = "indrAkshi.itx"
-itxtitle = "indrAkShIstotram"
-engtitle = "indrAkShI stotram"
-Category = "devii, otherforms, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.mypurohith.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, Usha Rani Sanka usharani.sanka at gmail.com"
-"Latest update" = "May 08, 2006, January 29, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "इन्द्राक्षीस्तोत्रम्"
+---
+Author: Traditional
+Category: devii, otherforms, stotra, devI
+File name: indrAkshi.itx
+Language: Sanskrit
+Latest update: May 08, 2006, January 29, 2017
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, Usha Rani Sanka usharani.sanka
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: i.ndrAkShI stotram
+Texttype: stotra
+Transliterated by: http://www.mypurohith.com
+engtitle: indrAkShI stotram
+itxtitle: indrAkShIstotram
+title: इन्द्राक्षीस्तोत्रम्
 
-+++
+---
   
  इन्द्राक्षीस्तोत्रम्   
   
@@ -168,7 +169,7 @@ title = "इन्द्राक्षीस्तोत्रम्"
 आवर्तन-सहस्रात्तु लभते वाञ्छितं फलम् ॥ ५॥  
   
 राजानं च समाप्नोति इन्द्राक्षीं नात्र संशय ।  
-नाभिमात्रे जले स्थित्वा सहस्रपरिसंख्यया ॥ ६॥  
+नाभिमात्रे जले स्थित्वा सहस्रपरिसङ्ख्यया ॥ ६॥  
   
 जपेत् स्तोत्रमिदं मन्त्रं वाचासिद्धिर्भवेद्ध्रुवम् ।  
 सायं प्रातः पठेन्नित्यं षण्मासैः सिद्धिरुच्यते ॥ ७॥  
@@ -179,7 +180,7 @@ title = "इन्द्राक्षीस्तोत्रम्"
 सन्तुष्टा च भवेद्देवी प्रत्यक्षा सम्प्रजायते ।  
 अष्टम्यां च चतुर्दश्यामिदं स्तोत्रं पठेन्नरः ॥ ९॥  
   
-धावतस्तस्य नश्यन्ति विघ्नसंख्या न संशयः ।  
+धावतस्तस्य नश्यन्ति विघ्नसङ्ख्या न संशयः ।  
 कारागृहे यदा बद्धो मध्यरात्रे तदा जपेत् ॥ १०॥  
   
 दिवसत्रयमात्रेण मुच्यते नात्र संशयः ।  

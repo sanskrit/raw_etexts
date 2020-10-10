@@ -1,23 +1,23 @@
-+++
-"Text title" = "aruNAchaleshvarAShTottaranAmAvalI"
-"File name" = "aruNAchaleshvarAShTottaranAmAvalI.itx"
-itxtitle = "aruNAchaleshvarAShTottaranAmAvalI"
-engtitle = "aruNAchaleshvarAShTottaranAmAvalI"
-Category = "aShTottarashatanAmAvalI, upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Lakshmana Swamy http://mathrusrisarada.org/"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, Shankara, Sunder Hattangadi"
-Indexextra = "(Lakshmana Swamy)"
-"Latest update" = "April 19, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अरुणाचलेश्वराष्टोत्तरनामावली"
+---
+Author: Lakshmana Swamy http://mathrusrisarada.org/
+Category: aShTottarashatanAmAvalI, upanishhat, upanishad
+File name: aruNAchaleshvarAShTottaranAmAvalI.itx
+Indexextra: (Lakshmana Swamy)
+Language: Sanskrit
+Latest update: April 19, 2015
+Location: doc_upanishhat
+Proofread by: Sivakumar Thyagarajan, Shankara, Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: aruNAchaleshvarAShTottaranAmAvalI
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: aruNAchaleshvarAShTottaranAmAvalI
+itxtitle: aruNAchaleshvarAShTottaranAmAvalI
+title: अरुणाचलेश्वराष्टोत्तरनामावली
 
-+++
+---
   
  श्रीअरुणाचलेश्वराष्टोत्तरशतनामावली   
 ॐ श्रीगणेशाय नमः ।  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "chakreshvaryaShTakam"
-"File name" = "chakreshvaryaShTakam.itx"
-itxtitle = "chakreshvaryaShTakam"
-engtitle = "chakreshvaryaShTakam"
-Category = "devii, devI, jaina, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चक्रेश्वर्यष्टकम्"
+---
+Category: devii, devI, jaina, aShTaka
+File name: chakreshvaryaShTakam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: chakreshvaryaShTakam
+engtitle: chakreshvaryaShTakam
+itxtitle: chakreshvaryaShTakam
+title: चक्रेश्वर्यष्टकम्
 
-+++
+---
   
  श्रीचक्रेश्वर्यष्टकम्   
 श्रीचक्रे !  चक्रभीमे !  ललितवरभुजे !  लीलया लोलयन्ती  

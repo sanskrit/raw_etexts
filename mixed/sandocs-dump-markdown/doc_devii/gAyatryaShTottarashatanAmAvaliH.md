@@ -1,22 +1,22 @@
-+++
-"Text title" = "gAyatryaShTottarashatanAmAvaliH"
-"File name" = "gAyatryaShTottarashatanAmAvaliH.itx"
-itxtitle = "gAyatryaShTottarashatanAmAvaliH"
-engtitle = "gAyatryaShTottarashatanAmAvaliH"
-Category = "devii, aShTottarashatanAmAvalI, nAmAvalI, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotra, Text)"
-"Latest update" = "June 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्र्यष्टोत्तरशतनामावलिः"
+---
+Category: devii, aShTottarashatanAmAvalI, nAmAvalI, gAyatrI, devI
+File name: gAyatryaShTottarashatanAmAvaliH.itx
+Indexextra: (stotra, Text)
+Language: Sanskrit
+Latest update: June 22, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: gAyatryaShTottarashatanAmAvaliH
+engtitle: gAyatryaShTottarashatanAmAvaliH
+itxtitle: gAyatryaShTottarashatanAmAvaliH
+title: गायत्र्यष्टोत्तरशतनामावलिः
 
-+++
+---
   
  गायत्र्यष्टोत्तरशतनामावलिः   
 ॐ तरुणादित्यसङ्काशायै नमः । सहस्रनयनोज्ज्वलायै ।  

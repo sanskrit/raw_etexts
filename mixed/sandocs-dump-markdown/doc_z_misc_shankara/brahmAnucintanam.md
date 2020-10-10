@@ -1,22 +1,22 @@
-+++
-"Text title" = "brahmAnucintanam"
-"File name" = "brahmaanucintanam.itx"
-itxtitle = "brahmAnucintanam"
-engtitle = "brahmAnucintanam"
-Category = "vedanta, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sorin Suciu aka SeSe at sorins at hotmail.com"
-"Proofread by" = "Sorin Suciu aka SeSe, F. Arav f.arav at home.nl"
-Indexextra = "(Complete Works)"
-"Latest update" = "November 13, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ब्रह्मानुचिन्तनम्"
+---
+Category: vedanta, shankarAchArya
+File name: brahmaanucintanam.itx
+Indexextra: (Complete Works)
+Language: Sanskrit
+Latest update: November 13, 2017
+Location: doc_z_misc_shankara
+Proofread by: Sorin Suciu aka SeSe, F. Arav f.arav at home.nl
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: brahmAnucintanam
+Transliterated by: Sorin Suciu aka SeSe at sorins at hotmail.com
+engtitle: brahmAnucintanam
+itxtitle: brahmAnucintanam
+title: ब्रह्मानुचिन्तनम्
 
-+++
+---
   
  ब्रह्मानुचिन्तनम्   
   
@@ -41,10 +41,10 @@ title = "ब्रह्मानुचिन्तनम्"
 अहमात्मा न चान्योऽस्मि ब्रह्मैवाहं न शोकभाक् ।  
 सच्चिदानन्दरूपोऽहं नित्यमुक्तस्वभाववान् ॥ ७॥  
   
-आत्मानं सततं ब्रह्म संभाव्य विहरन्ति ये ।  
+आत्मानं सततं ब्रह्म सम्भाव्य विहरन्ति ये ।  
 न तेषां दुष्कृतं किञ्चिद्दुष्कृतोत्था न चापदः ॥ ८॥  
   
-आत्मानं सततं ब्रह्म संभाव्य विहरेत्सुखम् ।  
+आत्मानं सततं ब्रह्म सम्भाव्य विहरेत्सुखम् ।  
 क्षणं ब्रह्माहमस्मीति यः कुर्यादात्मचिन्तनम् ॥ ९॥  
   
 तन्महापातकं हन्ति तमः सूर्योदयो यथा ।  
@@ -102,7 +102,7 @@ title = "ब्रह्मानुचिन्तनम्"
 ब्रह्मैवाहं न संसारी न चाहं ब्रह्मणः पृथक् ॥ २७॥  
   
 नाहं देहो न मे देहः केवलोऽहं सनातनः ।  
-एकमेवादिवितीयं वै ब्रह्मणो नेह किंचन ॥ २८॥  
+एकमेवादिवितीयं वै ब्रह्मणो नेह किञ्चन ॥ २८॥  
   
 हृदयकमलमध्ये दीपवद्वेदसारं  
      प्रणवमयमतर्क्यं योगिभिर्ध्यानगम्यम् ।  

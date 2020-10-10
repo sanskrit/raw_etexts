@@ -1,25 +1,25 @@
-+++
-"Text title" = "viShNustotrabrahmokta from narasimhapurANa"
-"File name" = "viShNustotrabrahmoktanarasimhapurANa.itx"
-itxtitle = "viShNustotram (brahmoktam narasiMhapurANAntargatam)"
-engtitle = "viShNustotraM brahmoktaM narasiMhapurANe"
-Category = "vishhnu, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Singanallur Ganesan singanallur at gmail.com"
-"Translated by" = "https://archive.org/details/NarsimhaPuranGitapress"
-Description-comments = "Narasimhapurana adhyAya 53"
-Indexextra = "(narasiMhapurANa)"
-"Latest update" = "June 6, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तोत्रम् (ब्रह्मोक्तम् नरसिंहपुराणान्तर्गतम्)"
+---
+Category: vishhnu, stotra, vishnu
+Description-comments: Narasimhapurana adhyAya 53
+File name: viShNustotrabrahmoktanarasimhapurANa.itx
+Indexextra: (narasiMhapurANa)
+Language: Sanskrit
+Latest update: June 6, 2013
+Location: doc_vishhnu
+Proofread by: Singanallur Ganesan singanallur at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNustotrabrahmokta from narasimhapurANa
+Texttype: stotra
+Translated by: https://archive.org/details/NarsimhaPuranGitapress
+engtitle: viShNustotraM brahmoktaM narasiMhapurANe
+itxtitle: viShNustotram (brahmoktam narasiMhapurANAntargatam)
+title: विष्णुस्तोत्रम् (ब्रह्मोक्तम् नरसिंहपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णुस्तोत्रम् २   
   
@@ -66,7 +66,7 @@ title = "विष्णुस्तोत्रम् (ब्रह्मोक
 जघान यस्तीक्ष्णनखैर्दितेः सुतं तं नारसिंहं पुरुषं नमामि ॥ १०॥  
   
 यो वामनोऽसौ भगवाञ्जनार्दनो बलिं बबन्ध त्रिभिरूर्जितैः पदैः ।  
-जगत्रयं क्रम्य ददौ पुरंदरे तदेवमाद्यं प्रणतोऽस्मि वामनम् ॥ ११॥  
+जगत्रयं क्रम्य ददौ पुरन्दरे तदेवमाद्यं प्रणतोऽस्मि वामनम् ॥ ११॥  
   
 यः कार्तवीर्यं निजघान रोषात् त्रिस्सप्तकृत्वः क्षितिपात्मजानपि ।  
 तं जामदग्न्यं क्षितिभारनाशकं नतोऽस्मि विष्णुं पुरुषोत्तमं सदा ॥ १२॥  
@@ -84,12 +84,12 @@ title = "विष्णुस्तोत्रम् (ब्रह्मोक
 आविर्बभूव भगवाञ्शङ्खचक्रगदाधरः ॥  
   
 उवाच च हृषीकेशः पद्मयोनिं सुरानपि ।  
-स्तुत्यानयाहं संतुष्टः पितामह दिवौकसः ॥  
+स्तुत्यानयाहं सन्तुष्टः पितामह दिवौकसः ॥  
   
 पठतां पापनाशाय नृणां भक्तिमतामपि ।  
 यतोऽस्मि प्रकटीभूतो दुर्लभोऽपि हरिः सुराः ॥  
   
-सङ्क्षिप्तं अध्याये श्लोक संख्या ६८  
+सङ्क्षिप्तं अध्याये श्लोक सङ्ख्या ६८  
 श्रीनरसिंहपुराणे कृष्णाप्रादुर्भावो नाम त्रिपञ्चाशोऽध्यायः ॥ ५३॥  
   
   

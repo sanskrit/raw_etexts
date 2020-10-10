@@ -1,21 +1,21 @@
-+++
-"Text title" = "kamalAmbAnavAvaraNam"
-"File name" = "kamalAmbAnavAvaraNam.itx"
-itxtitle = "kamalAmbA navAvaraNaM kIrtanAni (muttusvAmi dIkShitArarachitam)"
-engtitle = "kamalAmbA navAvaraNam kirtanas"
-Category = "devii, lakShmI, kRitI, muttusvAmI-dIkShitAra, dhyAnam, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Proofread by" = "Pallasena Narayanaswami ppnswami at gmail.com"
-"Latest update" = "March 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कमलाम्बा नवावरणं कीर्तनानि (मुत्तुस्वामि दीक्षिताररचितम्)"
+---
+Category: devii, lakShmI, kRitI, muttusvAmI-dIkShitAra, dhyAnam, devI
+File name: kamalAmbAnavAvaraNam.itx
+Language: Sanskrit
+Latest update: March 9, 2018
+Location: doc_devii
+Proofread by: Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kamalAmbAnavAvaraNam
+Transliterated by: Pallasena Narayanaswami ppnswami at gmail.com
+engtitle: kamalAmbA navAvaraNam kirtanas
+itxtitle: kamalAmbA navAvaraNaM kIrtanAni (muttusvAmi dIkShitArarachitam)
+title: कमलाम्बा नवावरणं कीर्तनानि (मुत्तुस्वामि दीक्षिताररचितम्)
 
-+++
+---
   
  कमलाम्बा नवावरणं कीर्तनानि   
   

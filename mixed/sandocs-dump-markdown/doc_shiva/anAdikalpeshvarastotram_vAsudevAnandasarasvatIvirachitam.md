@@ -1,23 +1,24 @@
-+++
-"Text title" = "anAdikalpeshvarastotram"
-"File name" = "anAdikalpeshvarastotram.itx"
-itxtitle = "anAdikalpeshvarastotram (vAsudevAnandasarasvatIvirachitam)"
-engtitle = "anAdikalpeshvarastotram"
-Category = "shiva, vAsudevAnanda-sarasvatI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "vAsudevAnandasarasvatI TembesvAmi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-Indexextra = "(stotrAdisangraha, Author, Hindi)"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अनादिकल्पेश्वरस्तोत्रम् (वासुदेवानन्दसरस्वतीविरचितम्)"
+---
+Author: vAsudevAnandasarasvatI TembesvAmi
+Category: shiva, vAsudevAnanda-sarasvatI
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: anAdikalpeshvarastotram.itx
+Indexextra: (stotrAdisangraha, Author, Hindi)
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: anAdikalpeshvarastotram
+engtitle: anAdikalpeshvarastotram
+itxtitle: anAdikalpeshvarastotram (vAsudevAnandasarasvatIvirachitam)
+title: अनादिकल्पेश्वरस्तोत्रम् (वासुदेवानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  अनादिकल्पेश्वरस्तोत्रम्   
   

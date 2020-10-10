@@ -1,25 +1,25 @@
-+++
-"Text title" = "shriiraadhaakavacham"
-"File name" = "raadhaakavacham.itx"
-itxtitle = "rAdhAkavacham (brahmavaivartapurANAntargatam)"
-engtitle = "rAdhAkavacham"
-Category = "kavacha, devii, radha, maheshvarAnandasarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "radha"
-Author = "maheshvara"
-Language = "Sanskrit"
-Subject = "stotra"
-"Transliterated by" = "Daniel Mohanpersad (danielmohanpersad98 at msn.com)"
-"Proofread by" = "Daniel Mohanpersad (danielmohanpersad98 at msn.com)"
-Source = "brahmavaivarta puraaNa"
-Indexextra = "(needs proofreading)"
-"Latest update" = "August 15 , 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राधाकवचम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Author: maheshvara
+Category: kavacha, devii, radha, maheshvarAnandasarasvatI, devI
+File name: raadhaakavacham.itx
+Indexextra: (needs proofreading)
+Language: Sanskrit
+Latest update: August 15 , 2002
+Location: doc_devii
+Proofread by: Daniel Mohanpersad (danielmohanpersad98 at msn.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: brahmavaivarta puraaNa
+SubDeity: radha
+Subject: stotra
+Sublocation: devii
+Text title: shriiraadhaakavacham
+Transliterated by: Daniel Mohanpersad (danielmohanpersad98 at msn.com)
+engtitle: rAdhAkavacham
+itxtitle: rAdhAkavacham (brahmavaivartapurANAntargatam)
+title: राधाकवचम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीराधाकवचम्   
   
@@ -44,7 +44,7 @@ title = "राधाकवचम् (ब्रह्मवैवर्तपु
 कपालं नेत्रयुग्मं च श्रोत्रयुग्मं सदावतु ।  
 ॐ रां ह्रीं श्रीं राधिकेति ङेन्तं वह्नि जायान्तमेव च ॥ ७॥  
   
-मस्तकं केशसंघांश्च मन्त्रराजः सदावतु ।  
+मस्तकं केशसङ्घांश्च मन्त्रराजः सदावतु ।  
 ॐ रां राधेति चतुर्थ्यन्तं वह्निजायान्तमेव च ॥ ८॥  
   
 सर्वसिद्धिप्रदः पातु कपोलं नासिकां मुखम् ।  
@@ -57,24 +57,24 @@ title = "राधाकवचम् (ब्रह्मवैवर्तपु
 तुलसीवनवासिन्यै स्वाहा पातु नितम्बकम् ॥ ११॥  
   
 कृष्णप्राणाधिकाङेन्तं स्वाहान्तं प्रणवादिकम् ।  
-पादयुग्मं च सर्वाङ्गं संततं पातु सर्वतः ॥ १२॥  
+पादयुग्मं च सर्वाङ्गं सन्ततं पातु सर्वतः ॥ १२॥  
   
 राधा रक्षतु प्राच्यां च वह्नौ कृष्णप्रियावतु ।  
 तुलसीवनवासिन्यै स्वाहा पातु नितम्बकम् ॥ १३॥  
   
 पश्चिमे निर्गुणा पातु वायव्ये कृष्णपूजिता ।  
-उत्तरे संततं पातु मूलप्रकृतिरीश्वरी ॥ १४॥  
+उत्तरे सन्ततं पातु मूलप्रकृतिरीश्वरी ॥ १४॥  
   
 सर्वेश्वरी सदैशान्यां पातु मां सर्वपूजिता ।  
 जले स्थले चान्तरिक्षे स्वप्ने जागरणे तथा ॥ १५॥  
   
-महाविष्णोश्च जननी सर्वतः पातु संततं ।  
+महाविष्णोश्च जननी सर्वतः पातु सन्ततं ।  
 कवचं कथितं दुर्गे श्रीजगन्मङ्गलं परम् ॥ १६॥  
   
 यस्मै कस्मै न दातव्य गुढाद् गुढतरं परम् ।  
 तव स्नेहान्मयाख्यातं प्रवक्तं न कस्यचित् ॥ १७॥  
   
-गुरुमभ्यर्च्य विधिवद् वस्त्रालंकारचन्दनैः ।  
+गुरुमभ्यर्च्य विधिवद् वस्त्रालङ्कारचन्दनैः ।  
 कण्ठे वा दक्षिणे बाहौ धृत्वा विष्णोसमो भवेत् ॥ १८॥  
   
 शतलक्षजपेनैव सिद्धं च कवचं भवेत् ।  
@@ -102,7 +102,7 @@ title = "राधाकवचम् (ब्रह्मवैवर्तपु
 यत्फलं लभते नूनं पठनात् कवचस्य च ॥ २६॥  
   
 राजद्वारे श्मशाने च सिंहव्याघ्रान्विते वने ।  
-दावाग्नौ संकटे चैव दस्युचौरान्विते भये ॥ २७॥  
+दावाग्नौ सङ्कटे चैव दस्युचौरान्विते भये ॥ २७॥  
   
 कारागारे विपद्ग्रस्ते घोरे च दृढबन्धने ।  
 व्याधियुक्तो भवेन्मुक्तो धारणात् कवचस्य च ॥ २८॥  
@@ -120,7 +120,7 @@ title = "राधाकवचम् (ब्रह्मवैवर्तपु
 परमाणुपरं सूक्ष्मं महाविष्णोः परो महान् ।  
 नभ परं च विस्तीर्णं यथा नास्त्येव नारद ॥ ३२॥  
   
-तथा न वैष्णवाद् ज्ञानी यिगीन्द्रः शंकरात् परः ।  
+तथा न वैष्णवाद् ज्ञानी यिगीन्द्रः शङ्करात् परः ।  
 कामक्रोधलोभमोहा जितास्तेनैव नारद ॥ ३३॥  
   
 स्वप्ने जागरणे शश्वत् कृष्णध्यानरतः शिवः ।  

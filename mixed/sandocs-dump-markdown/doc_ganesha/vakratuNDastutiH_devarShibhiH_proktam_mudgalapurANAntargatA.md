@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vakratunda Stuti by Devarshi"
-"File name" = "vakratuNDastutiHdevarShibhiHproktam.itx"
-itxtitle = "vakratuNDastutiH devarShibhiH proktam (mudgalapurANAntargatA)"
-engtitle = "vakratuNDastutiH devarShibhiH proktam"
-Category = "ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ajit Krishnan"
-"Proofread by" = "Ajit Krishnan, PSA Easwaran"
-"Description/comments" = "Mudgalapurana, Khanda 1, Adhyaya 39"
-Indexextra = "(mudgalapurANa)"
-"Latest update" = "April 23, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वक्रतुण्डस्तुतिः देवर्षिभिः प्रोक्तम् (मुद्गलपुराणान्तर्गता)"
+---
+Category: ganesha
+Description/comments: Mudgalapurana, Khanda 1, Adhyaya 39
+File name: vakratuNDastutiHdevarShibhiHproktam.itx
+Indexextra: (mudgalapurANa)
+Language: Sanskrit
+Latest update: April 23, 2020
+Location: doc_ganesha
+Proofread by: Ajit Krishnan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Vakratunda Stuti by Devarshi
+Transliterated by: Ajit Krishnan
+engtitle: vakratuNDastutiH devarShibhiH proktam
+itxtitle: vakratuNDastutiH devarShibhiH proktam (mudgalapurANAntargatA)
+title: वक्रतुण्डस्तुतिः देवर्षिभिः प्रोक्तम् (मुद्गलपुराणान्तर्गता)
 
-+++
+---
   
  वक्रतुण्डस्तुतिः देवर्षिभिः प्रोक्तम्   
 श्रीगणेशाय नमः ।  
@@ -86,7 +86,7 @@ title = "वक्रतुण्डस्तुतिः देवर्षि�
   
 मुद्गल उवाच ।  
 एवं स्तुत्वा वक्रतुण्डं स्थिता देवर्षयः प्रभो ।  
-बद्धाञ्जलिपुटाः सर्वे तूष्णींभावेन मानद ॥ २३॥  
+बद्धाञ्जलिपुटाः सर्वे तूष्णीम्भावेन मानद ॥ २३॥  
   
 देवानां च मुनीनां स स्तुतिं श्रुत्वा गजाननः ।  
 उवाच तान् प्रसन्नात्मा हर्षयन् वचनं महत् ॥ २४॥  

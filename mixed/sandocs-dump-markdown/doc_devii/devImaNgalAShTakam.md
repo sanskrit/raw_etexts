@@ -1,20 +1,20 @@
-+++
-"Text title" = "devImangalAShTakam"
-"File name" = "devImangalAShTakam.itx"
-itxtitle = "devImaNgalAShTakam"
-engtitle = "devImangalAShTakam"
-Category = "devii, mangala, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "January 5, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीमण्गलाष्टकम्"
+---
+Category: devii, mangala, aShTaka
+File name: devImangalAShTakam.itx
+Language: Sanskrit
+Latest update: January 5, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devImangalAShTakam
+engtitle: devImangalAShTakam
+itxtitle: devImaNgalAShTakam
+title: देवीमण्गलाष्टकम्
 
-+++
+---
   
  श्रीदेवी मङ्गलाष्टकम्   
 श्रीविद्या शिवनामभागनिलया कामेश्वरी सुन्दरी  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "kArtikeyastotram 2"
-"File name" = "kArtikeyastotram2.itx"
-itxtitle = "kArtikeyastotram 2"
-engtitle = "kArtikeyastotram 2"
-Category = "subrahmanya"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran"
-Description-comments = "Subrahmanya Stuti Manjari, Mahaperiaval Trust"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "December 22, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कार्तिकेयस्तोत्रम् २"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: subrahmanya
+Description-comments: Subrahmanya Stuti Manjari, Mahaperiaval Trust
+File name: kArtikeyastotram2.itx
+Language: Sanskrit
+Latest update: December 22, 2016
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: kArtikeyastotram 2
+engtitle: kArtikeyastotram 2
+itxtitle: kArtikeyastotram 2
+title: कार्तिकेयस्तोत्रम् २
 
-+++
+---
   
  श्रीकार्तिकेयस्तोत्रम् २   
   

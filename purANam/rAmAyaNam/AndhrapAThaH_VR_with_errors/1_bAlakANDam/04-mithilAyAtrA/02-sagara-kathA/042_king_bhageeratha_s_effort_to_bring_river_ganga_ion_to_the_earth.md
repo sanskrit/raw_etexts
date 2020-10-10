@@ -3,7 +3,6 @@ title: 042 भगीरथ-यत्नः
 title_english: 042 king bhageeratha s effort to bring river ganga ion to the earth
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-042-Bhagiratha_Yathnaha.mp3"></div>
 
 कालधर्मं गते राम सगरे प्रकृतीजनाः।  

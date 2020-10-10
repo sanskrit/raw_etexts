@@ -1,24 +1,27 @@
-+++
-"Text title" = "chaturviMshatinAma pratipAdaka_chuurNikA"
-"File name" = "chUrNikA.itx"
-itxtitle = "chaturviMshatinAma pratipAdaka chUrNikA"
-engtitle = "chaturviMshatinAma pratipAdaka chUrNikA"
-Category = "raama, stotra, chaturviMshati"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "bhadrAchala rAmadAsa"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net"
-Description-comments = "composer of the chUrNikA is the great Carnatic Music composer, bhadrAchala rAmadAsa wo has composed many sangkIrtanAs on his ishTa dEvatA, ShrI rAma of bhadrAcala(whose original name is kanchErla gOpanna). VidvAn Dr mangaLampaLLi bAlamuralikr.shNa has tuned and rendered many of his songs."
-"Latest update" = "July 4, 2006"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चतुर्विंशतिनाम प्रतिपादक चूर्णिका"
+---
+Author: bhadrAchala rAmadAsa
+Category: raama, stotra, chaturviMshati
+Description-comments: composer of the chUrNikA is the great Carnatic Music composer,
+  bhadrAchala rAmadAsa wo has composed many sangkIrtanAs on his ishTa dEvatA, ShrI
+  rAma of bhadrAcala(whose original name is kanchErla gOpanna). VidvAn Dr mangaLampaLLi
+  bAlamuralikr.shNa has tuned and rendered many of his songs.
+File name: chUrNikA.itx
+Language: Sanskrit
+Latest update: July 4, 2006
+Location: doc_raama
+Proofread by: Antaratma antaratma at Safe-mail.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: raama
+Text title: chaturviMshatinAma pratipAdaka_chuurNikA
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net
+engtitle: chaturviMshatinAma pratipAdaka chUrNikA
+itxtitle: chaturviMshatinAma pratipAdaka chUrNikA
+title: चतुर्विंशतिनाम प्रतिपादक चूर्णिका
 
-+++
+---
   
  चतुर्विंशतिनाम प्रतिपादक चूर्णिका   
   
@@ -28,7 +31,7 @@ title = "चतुर्विंशतिनाम प्रतिपादक 
 श्रीमदखिलाण्ड कोटि ब्रह्माण्ड भाण्ड  
 दाण्डोपदण्ड मण्डल सान्दोत्दीपित सगुण निर्गुणातीत  
 सच्चिदानन्द परात्पर तारक ब्रह्माख्य दशदिशा  
-प्रकाशं, सकल चराचराधीशं कमल संभव  
+प्रकाशं, सकल चराचराधीशं कमल सम्भव  
 सचीधव प्रमुख निखिल बृन्दारक बृन्द वन्द्यमान  
 सन्दीप्त दिव्यचरणारविन्दं, श्री मुकुन्दम् ।  
   
@@ -66,12 +69,12 @@ title = "चतुर्विंशतिनाम प्रतिपादक 
 ज्वाला जलधरं, श्री श्रीधरम् ।  
   
 शरभङ्ग सुतीक्ष्णात्रीदर्शनाशीर्वाद निर्व्याज  
-कुम्भलसंभव कृपालप्ध महादिव्य दिव्यास्त्र  
+कुम्भलसम्भव कृपालप्ध महादिव्य दिव्यास्त्र  
 समुदयार्चित प्रकाशं, श्री हृषीकेशम् ।  
   
 पञ्चवटीतट  
 सङ्घटित विशालपर्णशालागत शूर्पणखा नासिकाः  
-छेदन मानावबोधन महाहवारंभ विज्रुम्भण रावण  
+छेदन मानावबोधन महाहवारम्भ विज्रुम्भण रावण  
 नियोग माया मृगसंहार कार्यार्थ लाभं, श्री पद्मनाभम् ।  
   
 रात्रिञ्चर  
@@ -79,8 +82,8 @@ title = "चतुर्विंशतिनाम प्रतिपादक 
 शिथीलीकृत पक्ष जटायु मोक्ष बन्धुप्रियावसान निर्यन्तिता  
 कबन्द वक्त्रोदरशरीर निरोधरं, श्री दामोदरम् ।  
   
-शबर्युपदे शपंपातटगमन  
-हनुमद् सग्रीव संभाषण बन्धुरात् बन्धुर  
+शबर्युपदे शपम्पातटगमन  
+हनुमद् सग्रीव सम्भाषण बन्धुरात् बन्धुर  
 दुन्दुभि कळेबरोत्पतन, सप्तसालः छेदन, वालि विदारण  
 प्रपन्न सुग्रीव साम्राज्य सुखहर्षणं, श्री सङ्कर्षणम् ।  
   
@@ -97,7 +100,7 @@ title = "चतुर्विंशतिनाम प्रतिपादक 
 पुण्योदय विभीषणाभय प्रधानानिरुद्दं, श्रीमदनिरुद्दम् ।  
   
 अपार  
-लवण पारावार समुज्रुंभितोत्कर्षण गर्व निर्वापणदीक्षा  
+लवण पारावार समुज्रुम्भितोत्कर्षण गर्व निर्वापणदीक्षा  
 समर्थसेतु निर्वाण प्रवीणाखिल स्थिर चरोत्तमं, श्री  
 पुरुषोत्तमम् ।  
   
@@ -113,7 +116,7 @@ title = "चतुर्विंशतिनाम प्रतिपादक 
   
 सकल सुरासुराद्भुत प्रज्वलित पावक  
 मुखभूदायमान सीतालक्ष्मणाङ्गत महनीय पुष्पकाधि रोहण  
-नन्दिग्राम स्थित भ्रात्रुभिर्युत जटा वल्कल विसर्जनांफर  
+नन्दिग्राम स्थित भ्रात्रुभिर्युत जटा वल्कल विसर्जनाम्फर  
 भूषणालङ्कृत श्रेयो विवर्धनं, श्री जनार्दनम् ।  
   
 अयोध्या नगर पट्टाभिषेक विशेष महोत्सव निरन्तर दिगन्त  

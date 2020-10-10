@@ -1,22 +1,22 @@
-+++
-"Text title" = "saNgrAmavijayavidyA"
-"File name" = "sangrAmavijayavidyA.itx"
-itxtitle = "saNgrAmavijayavidyA"
-engtitle = "saNgrAmavijayavidyA"
-Category = "kavacha, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-"Latest update" = "March 20, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सण्ग्रामविजयविद्या"
+---
+Author: Traditional
+Category: kavacha, devii, devI
+File name: sangrAmavijayavidyA.itx
+Language: Sanskrit
+Latest update: March 20, 2016
+Location: doc_devii
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: saNgrAmavijayavidyA
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: saNgrAmavijayavidyA
+itxtitle: saNgrAmavijayavidyA
+title: सण्ग्रामविजयविद्या
 
-+++
+---
   
  सङ्ग्रामविजयविद्या   
   
@@ -30,7 +30,7 @@ title = "सण्ग्रामविजयविद्या"
 दंष्ट्राघोरान्धकारिणि नादशब्दबहुले गजचर्मप्रावृतशरीरे  
 मांसदिग्धे लेलिहानोग्रजिह्वे महाराक्षसि रौद्रदंष्ट्राकराले भीमाट्टाट्टहासे  
 स्फुरद्विद्युत्प्रभे चल चल, ॐ चकोरनेत्रे चिलि चिलि, ॐ ललज्जिह्वे,  
-ॐ भ्रीं भृकुटिमुखि हूंकारभयत्रासनि कपालमालावेष्टित  
+ॐ भ्रीं भृकुटिमुखि हूङ्कारभयत्रासनि कपालमालावेष्टित  
 जटामुकुटशसिशाङ्कघारिण, अट्टाट्टहासे किलि किलि, ॐ ह्वं  
 दंष्ट्राघोरान्धकारिणि सर्वविघ्नविनाशिनि, इदं कर्म साधय साधय,  
 ॐ शीघ्रं कुरु कुरु, ॐ फट्, ओमङ्कुशेन शमय प्रवेशय, ॐ रङ्ग  

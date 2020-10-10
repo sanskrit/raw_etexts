@@ -1,23 +1,23 @@
-+++
-"Text title" = "viShNustutiHkavisUkti"
-"File name" = "viShNustutiHkavisUkti.itx"
-itxtitle = "viShNustutiH (kavisUktikRitA)"
-engtitle = "viShNustutiHkavisUkti"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुस्तुतिः (कविसूक्तिकृइता)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: viShNustutiHkavisUkti.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNustutiHkavisUkti
+engtitle: viShNustutiHkavisUkti
+itxtitle: viShNustutiH (kavisUktikRitA)
+title: विष्णुस्तुतिः (कविसूक्तिकृइता)
 
-+++
+---
   
  श्रीविष्णुस्तुतिः (कविसूक्तिभ्यःसङ्कलिता)   
   

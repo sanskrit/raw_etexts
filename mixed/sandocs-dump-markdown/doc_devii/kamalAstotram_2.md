@@ -1,23 +1,23 @@
-+++
-"Text title" = "kamalAstotram 2"
-"File name" = "kamalAstotra2.itx"
-itxtitle = "kamalAstotram 2"
-engtitle = "kamalAstotram 2"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "(Hindi)"
-"Latest update" = "October 21, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कमलास्तोत्रम् २"
+---
+Category: devii, dashamahAvidyA, devI
+File name: kamalAstotra2.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: October 21, 2014
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kamalAstotram 2
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: kamalAstotram 2
+itxtitle: kamalAstotram 2
+title: कमलास्तोत्रम् २
 
-+++
+---
   
  श्रीकमलास्तोत्रम् २   
 श्री लक्ष्म्यै नमः ।  

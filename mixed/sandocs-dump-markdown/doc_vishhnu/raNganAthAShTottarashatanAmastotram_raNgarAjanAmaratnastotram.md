@@ -1,23 +1,23 @@
-+++
-"Text title" = "ranganAthAShTottarashatanAmastotram"
-"File name" = "ranganAthAShTottarashatanAmastotram.itx"
-itxtitle = "raNganAthAShTottarashatanAmastotram raNgarAjanAmaratnastotram"
-engtitle = "ranganAthAShTottarashatanAmastotram"
-Category = "vishhnu, aShTottarashatanAma"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रण्गनाथाष्टोत्तरशतनामस्तोत्रम् रण्गराजनामरत्नस्तोत्रम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, aShTottarashatanAma
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: ranganAthAShTottarashatanAmastotram.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ranganAthAShTottarashatanAmastotram
+engtitle: ranganAthAShTottarashatanAmastotram
+itxtitle: raNganAthAShTottarashatanAmastotram raNgarAjanAmaratnastotram
+title: रण्गनाथाष्टोत्तरशतनामस्तोत्रम् रण्गराजनामरत्नस्तोत्रम्
 
-+++
+---
   
  श्रीरङ्गनाथाष्टोत्तरशतनामस्तोत्रम्   
   

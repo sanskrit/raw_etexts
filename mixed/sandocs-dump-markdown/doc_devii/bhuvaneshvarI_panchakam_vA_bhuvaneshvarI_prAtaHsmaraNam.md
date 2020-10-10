@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhuvaneshvarIpanchakaM evaM prAtaHsmaraNam"
-"File name" = "shrIbhuvaneshvarIpanchakam.itx"
-itxtitle = "bhuvaneshvarI panchakam vA bhuvaneshvarI prAtaHsmaraNam"
-engtitle = "bhuvaneshvarI panchakam or prAtaHsmaraNam"
-Category = "panchaka, devii, dashamahAvidyA, dattAtreyAnandanAtha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "dattAtreyAnandanAtha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravi Mukku ravi_mukku at hotmail.com"
-"Proofread by" = "Ravi Mukku ravi_mukku at hotmail.com"
-"Latest update" = "March 25, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वरी पञ्चकम् वा भुवनेश्वरी प्रातःस्मरणम्"
+---
+Author: dattAtreyAnandanAtha
+Category: panchaka, devii, dashamahAvidyA, dattAtreyAnandanAtha, devI
+File name: shrIbhuvaneshvarIpanchakam.itx
+Language: Sanskrit
+Latest update: March 25, 2013
+Location: doc_devii
+Proofread by: Ravi Mukku ravi_mukku at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhuvaneshvarIpanchakaM evaM prAtaHsmaraNam
+Transliterated by: Ravi Mukku ravi_mukku at hotmail.com
+engtitle: bhuvaneshvarI panchakam or prAtaHsmaraNam
+itxtitle: bhuvaneshvarI panchakam vA bhuvaneshvarI prAtaHsmaraNam
+title: भुवनेश्वरी पञ्चकम् वा भुवनेश्वरी प्रातःस्मरणम्
 
-+++
+---
   
  श्रीभुवनेश्वरी पञ्चकं अथवा प्रातःस्मरणम्   
   

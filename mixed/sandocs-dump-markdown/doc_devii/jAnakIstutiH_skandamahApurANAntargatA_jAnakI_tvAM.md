@@ -1,24 +1,24 @@
-+++
-"Text title" = "jAnakIstutiH"
-"File name" = "jAnakIstutiH.itx"
-itxtitle = "jAnakIstutiH (skandamahApurANAntargatA jAnakI tvAM)"
-engtitle = "jAnakIstutiH"
-Category = "devii, devI, otherforms, aShTaka"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ganesh Kandu kanduganesh at gmail.com"
-"Proofread by" = "Ganesh Kandu, Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "from devIstotraratnAkara"
-Indexextra = "(Scan)"
-"Latest update" = "April 20, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जानकीस्तुतिः (स्कन्दमहापुराणान्तर्गता जानकी त्वां)"
+---
+Category: devii, devI, otherforms, aShTaka
+Description/comments: from devIstotraratnAkara
+File name: jAnakIstutiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: April 20, 2019
+Location: doc_devii
+Proofread by: Ganesh Kandu, Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jAnakIstutiH
+Transliterated by: Ganesh Kandu kanduganesh at gmail.com
+engtitle: jAnakIstutiH
+itxtitle: jAnakIstutiH (skandamahApurANAntargatA jAnakI tvAM)
+title: जानकीस्तुतिः (स्कन्दमहापुराणान्तर्गता जानकी त्वां)
 
-+++
+---
   
  श्रीजानकीस्तुतिः   
 जानकि त्वां नमस्यामि सर्वपापप्रणाशिनीम् ।  
@@ -62,15 +62,15 @@ title = "जानकीस्तुतिः (स्कन्दमहापु
 तथा पार्वतीस्वरूपा हैं, मैं आपको नमस्कार करता हूँ । आप ही  
 क्षीरसागर की कन्या महालक्ष्मी हैं, जो भक्तों को कृपा-प्रसाद  
 प्रदान करनेके लिये सदा उत्सुक रहती हैं । चन्द्रमा की भगिनी  
-(लक्ष्मीस्वरूपा) सर्वांगसुन्दरी सीताको मैं प्रणाम करता हूँ ।  
+(लक्ष्मीस्वरूपा) सर्वाङ्गसुन्दरी सीताको मैं प्रणाम करता हूँ ।  
 धर्म की आश्रयभूता करुणामयी वेदमाता गायत्रीस्वरूपिणी श्रीजानकीको  
 मैं नमस्कार करता हूँ । आपका कमल में निवास है, आप ही हाथमे  
 कमल धारण करनेवाली तथा भगवान् विष्णुके वक्षःस्थल में निवास  
 करनेवाली लक्ष्मी हैं, चन्द्रमण्डल में भी आपका निवास है, आप  
 चन्द्रमुखी सीतादेवी को मैं नमस्कार करता हूँ । आप श्रीरघुनन्दन  
 की आह्लादमयी शक्ति हैं, कल्याणमयी सिद्धि हैं और भगवान् शिव  
-की अर्द्धांगिनी कल्याणकारिणी सती हैं । श्रीरामचन्द्रजी की परम  
-प्रियतमा जगदम्बा जानकी को मैं प्रणाम करता हूँ । सर्वांगसुन्दरी  
+की अर्द्धाङ्गिनी कल्याणकारिणी सती हैं । श्रीरामचन्द्रजी की परम  
+प्रियतमा जगदम्बा जानकी को मैं प्रणाम करता हूँ । सर्वाङ्गसुन्दरी  
 सीताजी का मैं अपने हृदयमे निरन्तर चिन्तन करता हूँ ।  
   
 इस प्रकार श्रीस्कन्दमहापुराणान्तर्गत सेतुमाहात्म्य में  

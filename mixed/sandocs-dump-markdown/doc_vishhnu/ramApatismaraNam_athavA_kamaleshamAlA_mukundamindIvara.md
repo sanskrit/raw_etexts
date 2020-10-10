@@ -1,22 +1,23 @@
-+++
-"Text title" = "ramApatismaraNam"
-"File name" = "ramApatismaraNam.itx"
-itxtitle = "ramApatismaraNam athavA kamaleshamAlA (mukundamindIvara)"
-engtitle = "ramApatismaraNam"
-Category = "vishhnu, vishnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "January 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रमापतिस्मरणम् अथवा कमलेशमाला (मुकुन्दमिन्दीवर)"
+---
+Category: vishhnu, vishnu, krishna
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: ramApatismaraNam.itx
+Language: Sanskrit
+Latest update: January 19, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ramApatismaraNam
+engtitle: ramApatismaraNam
+itxtitle: ramApatismaraNam athavA kamaleshamAlA (mukundamindIvara)
+title: रमापतिस्मरणम् अथवा कमलेशमाला (मुकुन्दमिन्दीवर)
 
-+++
+---
   
  रमापतिस्मरणम् अथवा कमलेशमाला   
   

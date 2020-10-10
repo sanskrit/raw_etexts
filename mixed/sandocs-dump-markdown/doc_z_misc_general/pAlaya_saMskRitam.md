@@ -1,22 +1,22 @@
-+++
-"Text title" = "Palaya Samskritam, Protect Sanskit"
-"File name" = "pAlayasaMskRitam.itx"
-itxtitle = "pAlaya saMskRitam"
-engtitle = "pAlaya saMskRitam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manish Gavkar manishyg at gmail.com"
-"Proofread by" = "Manish Gavkar manishyg at gmail.com"
-Indexextra = "(Video)"
-"Latest update" = "February 9, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पालय संस्कृइतम्"
+---
+Category: misc, sanskritgeet
+File name: pAlayasaMskRitam.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: February 9, 2020
+Location: doc_z_misc_general
+Proofread by: Manish Gavkar manishyg at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Palaya Samskritam, Protect Sanskit
+Transliterated by: Manish Gavkar manishyg at gmail.com
+engtitle: pAlaya saMskRitam
+itxtitle: pAlaya saMskRitam
+title: पालय संस्कृइतम्
 
-+++
+---
   
  पालय पालय संस्कृतं पालय   
 pAlaya – obey, protect, defend, guard.  

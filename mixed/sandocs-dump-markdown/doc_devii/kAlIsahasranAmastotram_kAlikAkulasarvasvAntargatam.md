@@ -1,23 +1,23 @@
-+++
-"Text title" = "kAlikA-sahasranAma-stotram"
-"File name" = "kaalikaasahasra.itx"
-itxtitle = "kAlIsahasranAmastotram (kAlikAkulasarvasvAntargatam)"
-engtitle = "kAlIsahasranAmastotram"
-Category = "sahasranAma, devii, dashamahAvidyA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar, Shashipal Sharma, PSA Easwaran, Kirk Wortman"
-"Latest update" = "April, 14, 2004, Januar 17, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालीसहस्रनामस्तोत्रम् (कालिकाकुलसर्वस्वान्तर्गतम्)"
+---
+Category: sahasranAma, devii, dashamahAvidyA, stotra, devI
+File name: kaalikaasahasra.itx
+Language: Sanskrit
+Latest update: April, 14, 2004, Januar 17, 2017
+Location: doc_devii
+Proofread by: Ravin Bhalekar, Shashipal Sharma, PSA Easwaran, Kirk Wortman
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: hinduism/religion
+Sublocation: devii
+Text title: kAlikA-sahasranAma-stotram
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: kAlIsahasranAmastotram
+itxtitle: kAlIsahasranAmastotram (kAlikAkulasarvasvAntargatam)
+title: कालीसहस्रनामस्तोत्रम् (कालिकाकुलसर्वस्वान्तर्गतम्)
 
-+++
+---
   
  श्रीकालीसहस्रनामस्तोत्रम्   
 कालिकाकुलसर्वस्वे  

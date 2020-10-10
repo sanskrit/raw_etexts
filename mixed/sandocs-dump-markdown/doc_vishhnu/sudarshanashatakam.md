@@ -1,22 +1,22 @@
-+++
-"Text title" = "sudarshanashatakam"
-"File name" = "sudarshanashatakam.itx"
-itxtitle = "sudarshanashatakam"
-engtitle = "sudarshanashatakam"
-Category = "vishhnu, krishna, rAmAnujasampradAya, shataka"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुदर्शनशतकम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: vishhnu, krishna, rAmAnujasampradAya, shataka
+File name: sudarshanashatakam.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: sudarshanashatakam
+engtitle: sudarshanashatakam
+itxtitle: sudarshanashatakam
+title: सुदर्शनशतकम्
 
-+++
+---
   
  श्रीसुदर्शनशतकम्   
   
@@ -944,10 +944,10 @@ var  - बह्वसावं
   
 (अर्थ-दैत्य दानवों की स्वेच्छा चारिणी स्त्रियाँ पाशा खेलने में  
 कर्ण-कर्कश जिस अक्ष शब्द को सुनकर भयाक्रान्त बुद्धि से पाशे  
-फेंक देती हैं और उन्हें देखकर मुस्कुराती हु देवाङ्गनां द्वारा  
+फेङ्क देती हैं और उन्हें देखकर मुस्कुराती हु देवाङ्गनां द्वारा  
 वे बहुत लज्जित हो उठती हैं । इस प्रकार का वह श्रीसुदर्शन  
 भगवान् का अक्ष, शब्द आदि विषयों में बढी हु आपकी अनुचित  
-आकांक्षा को प्रशान्त करे ॥ ६२॥)  
+आकाङ्क्षा को प्रशान्त करे ॥ ६२॥)  
   
 व्यस्तस्कन्धं विशीर्णप्रसवपरिकरं प्रत्तपत्रोपमर्दं  
 संयद्वर्षासु तर्षातुरखगपरिषत्पीतरक्तोदकासु ।  
@@ -1407,10 +1407,10 @@ var  - बह्वसावं
 जया, मोहिनी, ह्लादिनी, अजिता, माया, अपराजिता और सिद्धि इन आठ  
 शक्तियों से जो सम्पन्न हैं, और गायत्री के चौबीस अक्षर जिनके  
 अर के सदृश हैं । वहाँ पर अशोक वृक्ष के मूल भाग में  
-बैठकर अपने चरण के समीपस्थ भीम और भीमाक्ष संज्ञक  
+बैठकर अपने चरण के समीपस्थ भीम और भीमाक्ष सञ्ज्ञक  
 दो भयङ्कर पुरुषों से जो अति उग्र आकार की प्रतीत होती है ।  
 श्रीचक्रराज में विराजमान भगवान् की अपूर्व नृसिंह रूप मूर्ति  
-आपके शोक को दूर फेंक दें ॥ ९६॥)  
+आपके शोक को दूर फेङ्क दें ॥ ९६॥)  
   
 पाश्चात्याशोकपुष्पप्रकरनिपतितैः प्राप्तरागं परागैः  
 सन्ध्यारोचिस्सगन्धैः स्वपदशशधरं प्रेक्ष्य तारानुषक्तम् ।  

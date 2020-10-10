@@ -1,22 +1,22 @@
-+++
-"Text title" = "nyAsadashakam"
-"File name" = "nyAsadashakam.itx"
-itxtitle = "nyAsadashakam (vedAntadeshikArachitam)"
-engtitle = "nyAsadashakam"
-Category = "dashaka, misc, vedAnta-deshika, dashaka"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Vedanta Desika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vikram Iyer vikram85.iyer at gmail.com"
-"Proofread by" = "Vikram Iyer vikram85.iyer at gmail.com"
-"Latest update" = "November 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "न्यासदशकम् (वेदान्तदेशिकारचितम्)"
+---
+Author: Vedanta Desika
+Category: dashaka, misc, vedAnta-deshika, dashaka
+File name: nyAsadashakam.itx
+Language: Sanskrit
+Latest update: November 5, 2016
+Location: doc_z_misc_general
+Proofread by: Vikram Iyer vikram85.iyer at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: nyAsadashakam
+Transliterated by: Vikram Iyer vikram85.iyer at gmail.com
+engtitle: nyAsadashakam
+itxtitle: nyAsadashakam (vedAntadeshikArachitam)
+title: न्यासदशकम् (वेदान्तदेशिकारचितम्)
 
-+++
+---
   
  श्रीन्यासदशकम्   
   

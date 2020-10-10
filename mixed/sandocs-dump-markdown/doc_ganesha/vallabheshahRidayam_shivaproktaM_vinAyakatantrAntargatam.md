@@ -1,22 +1,22 @@
-+++
-"Text title" = "Vallabhesha Hridayam"
-"File name" = "vallabheshahRRidayam.itx"
-itxtitle = "vallabheshahRidayam (shivaproktaM vinAyakatantrAntargatam)"
-engtitle = "Vallabhesha Hridayam"
-Category = "ganesha, hRidaya"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Vinayaka Tantra"
-Acknowledge-Permission = "http://kshetrayaatra.blogspot.com"
-"Latest update" = "July 27, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्लभेशहृइदयम् (शिवप्रोक्तं विनायकतन्त्रान्तर्गतम्)"
+---
+Acknowledge-Permission: http://kshetrayaatra.blogspot.com
+Category: ganesha, hRidaya
+Description/comments: Vinayaka Tantra
+File name: vallabheshahRRidayam.itx
+Language: Sanskrit
+Latest update: July 27, 2018
+Location: doc_ganesha
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Vallabhesha Hridayam
+engtitle: Vallabhesha Hridayam
+itxtitle: vallabheshahRidayam (shivaproktaM vinAyakatantrAntargatam)
+title: वल्लभेशहृइदयम् (शिवप्रोक्तं विनायकतन्त्रान्तर्गतम्)
 
-+++
+---
   
 श्रीवल्लभेशहृदयम्   
 श्रीदेव्युवाच -  

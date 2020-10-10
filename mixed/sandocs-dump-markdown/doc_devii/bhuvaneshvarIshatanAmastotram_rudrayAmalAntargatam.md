@@ -1,24 +1,24 @@
-+++
-"Text title" = "bhuvaneshvarIshatanAmastotram"
-"File name" = "bhuvaneshvarIshatanAmastotram.itx"
-itxtitle = "bhuvaneshvarIshatanAmastotram (rudrayAmalAntargatam)"
-engtitle = "bhuvaneshvarIshatanAmastotram"
-Category = "aShTottarashatanAma, devii, devI, dashamahAvidyA"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Rudrayamala"
-Indexextra = "(stotramanjari 1)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वरीशतनामस्तोत्रम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: aShTottarashatanAma, devii, devI, dashamahAvidyA
+Description/comments: Rudrayamala
+File name: bhuvaneshvarIshatanAmastotram.itx
+Indexextra: (stotramanjari 1)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhuvaneshvarIshatanAmastotram
+Transliterated by: Shree Devi Kumar
+engtitle: bhuvaneshvarIshatanAmastotram
+itxtitle: bhuvaneshvarIshatanAmastotram (rudrayAmalAntargatam)
+title: भुवनेश्वरीशतनामस्तोत्रम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  श्रीभुवनेश्वरीशतनामस्तोत्रम्   
 कैलासशिखरे रम्ये नानारत्नोपशोभिते ।  

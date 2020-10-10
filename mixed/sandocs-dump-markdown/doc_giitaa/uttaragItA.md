@@ -1,23 +1,23 @@
-+++
-"Text title" = "Uttara-Gita"
-"File name" = "uttaragiitaa.itx"
-itxtitle = "uttaragItA"
-engtitle = "Uttara Gita"
-Category = "gItA, giitaa, vyAsa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Author = "Vyasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi"
-"Proofread by" = "Sunder Hattangadi"
-Indexextra = "(Translation, Tamil, bhAShya)"
-"Latest update" = "April 30, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "उत्तरगीता"
+---
+Author: Vyasa
+Category: gItA, giitaa, vyAsa
+File name: uttaragiitaa.itx
+Indexextra: (Translation, Tamil, bhAShya)
+Language: Sanskrit
+Latest update: April 30, 2008
+Location: doc_giitaa
+Proofread by: Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: Uttara-Gita
+Transliterated by: Sunder Hattangadi
+engtitle: Uttara Gita
+itxtitle: uttaragItA
+title: उत्तरगीता
 
-+++
+---
   
  उत्तरगीता   
   
@@ -55,9 +55,9 @@ title = "उत्तरगीता"
   
 यावत्पश्येत्खगाकारं तदाकारं विचिन्तयेत् ।  
 खमध्ये कुरु चात्मानमात्ममध्ये च खं कुरु ।  
-आत्मानं खमयं कृत्वा न किंचिदपि चिन्तयेत् ॥ ९॥  
+आत्मानं खमयं कृत्वा न किञ्चिदपि चिन्तयेत् ॥ ९॥  
   
-स्थिरबुद्धिरसंमूढो ब्रह्मविद्ब्रह्मणि स्थितः ।  
+स्थिरबुद्धिरसम्मूढो ब्रह्मविद्ब्रह्मणि स्थितः ।  
 बहिर्व्योमस्थितं नित्यं नासाग्रे च व्यवस्थितम् ।  
 निष्कलं तं विजानीयाच्छ्वासो यत्र लयं गतः ॥ १०॥  
   
@@ -176,11 +176,11 @@ title = "उत्तरगीता"
 जीवेन सह गच्छन्ति यावत्तत्त्वं न विन्दति ॥ ४६॥  
   
 अर्जुन उवाच-  
-स्थावरं जङ्गमं चैव यत्किंचित्सचराचरम् ।  
+स्थावरं जङ्गमं चैव यत्किञ्चित्सचराचरम् ।  
 जीवा जीवेन सिध्यन्ति स जीवः केन सिध्यति ॥ ४७॥  
   
 श्रीभगवानुवाच-  
-मुखनासिकयोर्मध्ये प्राणः संचरते सदा ।  
+मुखनासिकयोर्मध्ये प्राणः सञ्चरते सदा ।  
 आकाशः पिबते प्राणं स जीवः केन जीवति ॥ ४८॥  
   
 अर्जुन उवाच-  
@@ -198,7 +198,7 @@ title = "उत्तरगीता"
 अघोषमव्यञ्जनमस्वरं चा-  
         प्यतालुकण्ठोष्ठमनासिकं च ।  
 अरेखजातं परमूष्मवर्जितं  
-        तदक्षरं न क्षरते कथंचित् ॥ ५२॥  
+        तदक्षरं न क्षरते कथञ्चित् ॥ ५२॥  
   
 अर्जुन उवाच-  
 ज्ञात्वा सर्वगतं ब्रह्म सर्वभूताधिवासितम् ।  
@@ -317,12 +317,12 @@ title = "उत्तरगीता"
 नितलं पादसन्धिश्च सुतलं जङ्घमुच्यते ॥ २७॥  
   
 महातलं तु जानु स्यादूरुदेशो रसातलम् ।  
-कटिस्तालतलं प्रोक्तं सप्त पातालसंज्ञया ॥ २८॥  
+कटिस्तालतलं प्रोक्तं सप्त पातालसञ्ज्ञया ॥ २८॥  
   
-कालाग्निनरकं घोरं महापातालसंज्ञया ।  
+कालाग्निनरकं घोरं महापातालसञ्ज्ञया ।  
 पातालं नाभ्यधोभागो भोगीन्द्रफणिमण्डलम् ॥ २९॥  
   
-वेष्टितः सर्वतोऽनन्तः स बिभ्रज्जीवसंज्ञकः ।  
+वेष्टितः सर्वतोऽनन्तः स बिभ्रज्जीवसञ्ज्ञकः ।  
 भूलोकं नाभिदेशं तु भुवर्लोकं तु कुक्षितः ॥ ३०॥  
   
 हृदयं स्वर्गलोकं तु सूर्यादिग्रहतारकाः ।  

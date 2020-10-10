@@ -1,25 +1,26 @@
-+++
-"Text title" = "govindadevAShTakam"
-"File name" = "govindadevAShTakam.itx"
-itxtitle = "govindadevAShTakam (vishvanAthachakravartin Thakkuravirachitam)"
-engtitle = "govindadevAShTakam by vishvanAthachakravartin"
-Category = "vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोविन्ददेवाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI
+File name: govindadevAShTakam.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_vishhnu
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: govindadevAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: govindadevAShTakam by vishvanAthachakravartin
+itxtitle: govindadevAShTakam (vishvanAthachakravartin Thakkuravirachitam)
+title: गोविन्ददेवाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)
 
-+++
+---
   
  श्रीगोविन्ददेवाष्टकम्   
 जाम्बूनदोष्णीषविराजिमुक्ता  
@@ -29,7 +30,7 @@ title = "गोविन्ददेवाष्टकम् (विश्वन
   
 कपोलयोः कुण्डललास्यहास्य-  
      च्छविच्छिटाचुम्बितयोर्युगेन ।  
-संमोहयन् सम्भजतां धियः श्री  
+सम्मोहयन् सम्भजतां धियः श्री  
      गोविन्ददेवः शरणं ममास्तु ॥ २॥  
   
 स्वप्रेयसीलोचनकोणशीधु  

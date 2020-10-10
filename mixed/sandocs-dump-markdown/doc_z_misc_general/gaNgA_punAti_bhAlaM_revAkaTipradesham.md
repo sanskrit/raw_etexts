@@ -1,23 +1,23 @@
-+++
-"Text title" = "Ganga Punati Bhalam Reva Kati Pradesham"
-"File name" = "gangApunAtibhAlaMrevAkaTipradesham.itx"
-itxtitle = "gaNgA punAti bhAlaM revAkaTipradesham"
-engtitle = "gangA punAti bhAlaM revAkaTipradesham"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "abhirAja Dr. rAjendra mishra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Volunteers at Bharat Vikas Parishad https://bvpindia.com"
-Indexextra = "(Text, BVP Intro)"
-Acknowledge-Permission = "Bharat Vikas Parishad https://bvpindia.com Atam Dev"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गण्गा पुनाति भालं रेवाकटिप्रदेशम्"
+---
+Acknowledge-Permission: Bharat Vikas Parishad https://bvpindia.com Atam Dev
+Author: abhirAja Dr. rAjendra mishra
+Category: misc, sanskritgeet
+File name: gangApunAtibhAlaMrevAkaTipradesham.itx
+Indexextra: (Text, BVP Intro)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Ganga Punati Bhalam Reva Kati Pradesham
+Transliterated by: Volunteers at Bharat Vikas Parishad https://bvpindia.com
+engtitle: gangA punAti bhAlaM revAkaTipradesham
+itxtitle: gaNgA punAti bhAlaM revAkaTipradesham
+title: गण्गा पुनाति भालं रेवाकटिप्रदेशम्
 
-+++
+---
   
  गङ्गा पुनाति भालं रेवाकटिप्रदेशम्   
 गङ्गा पुनाति भालं रेवा कटिप्रदेशम् ।  

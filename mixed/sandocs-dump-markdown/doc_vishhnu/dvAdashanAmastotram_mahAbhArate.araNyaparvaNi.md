@@ -1,22 +1,23 @@
-+++
-"Text title" = "dvAdashanAmastotram"
-"File name" = "dvAdashanAmastotram.itx"
-itxtitle = "dvAdashanAmastotram (mahAbhArate.araNyaparvaNi)"
-engtitle = "dvAdashanAmastotram"
-Category = "vishhnu, vishnu, dvAdasha"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-Source = "Aranyaparva Mahabharata"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "द्वादशनामस्तोत्रम् (महाभारतेऽरण्यपर्वणि)"
+---
+Category: vishhnu, vishnu, dvAdasha
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: dvAdashanAmastotram.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Aranyaparva Mahabharata
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dvAdashanAmastotram
+engtitle: dvAdashanAmastotram
+itxtitle: dvAdashanAmastotram (mahAbhArate.araNyaparvaNi)
+title: द्वादशनामस्तोत्रम् (महाभारतेऽरण्यपर्वणि)
 
-+++
+---
   
  द्वादशनामस्तोत्रम्   
   

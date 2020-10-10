@@ -1,23 +1,24 @@
-+++
-"Text title" = "hayagrIvastotram"
-"File name" = "hayagrIvastotram.itx"
-itxtitle = "hayagrIvastotram 2"
-engtitle = "hayagrIvastotram"
-Category = "vishhnu, stotra, vedAnta-deshika, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Texttype = "stotra"
-Author = "Vedanta Desika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sundar Rajan RD sundar.rajanrd at gmail.com,Srivatsan HS sriphy at gmail.com"
-"Proofread by" = "Sundar Rajan RD sundar.rajanrd at gmail.com, NA"
-"Latest update" = "January 6, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हयग्रीवस्तोत्रम् २"
+---
+Author: Vedanta Desika
+Category: vishhnu, stotra, vedAnta-deshika, vishnu
+File name: hayagrIvastotram.itx
+Language: Sanskrit
+Latest update: January 6, 2012
+Location: doc_vishhnu
+Proofread by: Sundar Rajan RD sundar.rajanrd at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: hayagrIvastotram
+Texttype: stotra
+Transliterated by: Sundar Rajan RD sundar.rajanrd at gmail.com,Srivatsan HS sriphy
+  at gmail.com
+engtitle: hayagrIvastotram
+itxtitle: hayagrIvastotram 2
+title: हयग्रीवस्तोत्रम् २
 
-+++
+---
   
  श्रीहयग्रीवस्तोत्रम्   
   

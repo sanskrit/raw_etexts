@@ -1,52 +1,52 @@
-+++
-"Text title" = "Shri Veda Vyasa Stotram 4 Daridryahara"
-"File name" = "vedavyAsastotram4dAridryahara.itx"
-itxtitle = "vedavyAsastotram 4 dAridryahara (yAdavAryakRitam hA kRiShNa badarIvAsin)"
-engtitle = "vedavyAsastotram 4 dAridryahara"
-Category = "deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Yadavarya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Krishnananda Achar"
-"Proofread by" = "Krishnananda Achar"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "वेदव्यासस्तोत्रम् ४ दारिद्र्यहर (यादवार्यकृइतम् हा कृइष्ण बदरीवासिन्)"
+---
+Author: Yadavarya
+Category: deities_misc, gurudev
+File name: vedavyAsastotram4dAridryahara.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_deities_misc
+Proofread by: Krishnananda Achar
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shri Veda Vyasa Stotram 4 Daridryahara
+Transliterated by: Krishnananda Achar
+engtitle: vedavyAsastotram 4 dAridryahara
+itxtitle: vedavyAsastotram 4 dAridryahara (yAdavAryakRitam hA kRiShNa badarIvAsin)
+title: वेदव्यासस्तोत्रम् ४ दारिद्र्यहर (यादवार्यकृइतम् हा कृइष्ण बदरीवासिन्)
 
-+++
+---
   
  दारिद्र्यहर श्रीवेदव्यासस्तोत्रम् ४   
 हा कृष्ण बदरीवासिन् क्वासि व्यास दयानिधे ॥  
   
-इमामवस्थां संप्राप्तमनाथं किमुपेक्षसे ॥ १॥  
+इमामवस्थां सम्प्राप्तमनाथं किमुपेक्षसे ॥ १॥  
   
 हा सच्चिच्छुभद क्वासि तर्काभय विराजित ॥  
   
-इमामवस्थां संप्राप्तमनाथं किमुपेक्षसे ॥ २॥  
+इमामवस्थां सम्प्राप्तमनाथं किमुपेक्षसे ॥ २॥  
   
 हा कीटराज्यसन्दायिन् क्वासि वाशिष्ठ वंशज ॥  
   
-इमामवस्थां संप्राप्तमनाथं किमुपेक्षसे ॥ ३॥  
+इमामवस्थां सम्प्राप्तमनाथं किमुपेक्षसे ॥ ३॥  
   
 हा पाराशर्य सर्वेश क्वासि सत्यवतीसुत ।  
-इमामवस्थां संप्राप्तमनाथं किमुपेक्षसे ॥ ४॥  
+इमामवस्थां सम्प्राप्तमनाथं किमुपेक्षसे ॥ ४॥  
   
 हा तापस शिरोरत्न क्यासि देवेश तुष्टिमन् ।  
-इमामवस्थां संप्राप्तमनाथं किमुपेक्षसे ॥ ५॥  
+इमामवस्थां सम्प्राप्तमनाथं किमुपेक्षसे ॥ ५॥  
   
 हा विद्यामणि जन्माब्धे क्वासि द्वैपायनानघ ।  
-इमामवस्थां संप्राप्तमनाथं किमुपेक्षसे ॥ ६॥  
+इमामवस्थां सम्प्राप्तमनाथं किमुपेक्षसे ॥ ६॥  
   
 हा शुद्ध बुद्धिद क्वासि बादरायण सर्वदा ।  
-इमामवस्थां संप्राप्तमनाथं किमुपेक्षसे ॥ ७॥  
+इमामवस्थां सम्प्राप्तमनाथं किमुपेक्षसे ॥ ७॥  
   
 हा दुर्बुद्धितमः सूर्य क्वासि वेदविभाजक ।  
-इमामवस्थां संप्राप्तमनाथं किमुपेक्षसे ॥ ८॥  
+इमामवस्थां सम्प्राप्तमनाथं किमुपेक्षसे ॥ ८॥  
   
 संसार काननेज्ञान द्वारकील सुदुःखितम् ।  
 दारिद्र्यदुस्सहावस्थमनाथं पाहिमां प्रभो ॥ ९॥  

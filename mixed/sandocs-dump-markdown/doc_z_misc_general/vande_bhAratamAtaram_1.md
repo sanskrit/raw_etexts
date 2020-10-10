@@ -1,24 +1,24 @@
-+++
-"Text title" = "vande bhAratamAtaram 1"
-"File name" = "vandebhAratamAtaram.itx"
-itxtitle = "vande bhAratamAtaram 1"
-engtitle = "vande bhAratamAtaram 1"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "janArdana hegaDe"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shubha shubhazero at gmail.com"
-"Proofread by" = "Shubha shubhazero at gmail.com"
-Indexextra = "(Wiki, Videos 1, 2, 3, 4, 5, 6)"
-Acknowledge-Permission = "Samskrita Bharati http://www.samskritabharati.org/"
-"Latest update" = "September 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वन्दे भारतमातरम् १"
+---
+Acknowledge-Permission: Samskrita Bharati http://www.samskritabharati.org/
+Author: janArdana hegaDe
+Category: misc, sanskritgeet
+File name: vandebhAratamAtaram.itx
+Indexextra: (Wiki, Videos 1, 2, 3, 4, 5, 6)
+Language: Sanskrit
+Latest update: September 22, 2019
+Location: doc_z_misc_general
+Proofread by: Shubha shubhazero at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: vande bhAratamAtaram 1
+Transliterated by: Shubha shubhazero at gmail.com
+engtitle: vande bhAratamAtaram 1
+itxtitle: vande bhAratamAtaram 1
+title: वन्दे भारतमातरम् १
 
-+++
+---
   
  वन्दे भारतमातरम्   
 वन्दे भारतमातरं वद, भारत ! वन्दे मातरं  

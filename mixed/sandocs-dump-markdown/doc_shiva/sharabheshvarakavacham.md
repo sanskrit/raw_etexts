@@ -1,23 +1,23 @@
-+++
-"Text title" = "Sharabha Kavacham"
-"File name" = "sharabheshvarakavacham.itx"
-itxtitle = "sharabheshvarakavacham"
-engtitle = "sharabheshvarakavacham"
-Category = "shiva, kavacha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "sharabhakalpam"
-Indexextra = "(Scan)"
-"Latest update" = "March 10, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शरभेश्वरकवचम्"
+---
+Category: shiva, kavacha
+Description-comments: sharabhakalpam
+File name: sharabheshvarakavacham.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 10, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Sharabha Kavacham
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: sharabheshvarakavacham
+itxtitle: sharabheshvarakavacham
+title: शरभेश्वरकवचम्
 
-+++
+---
   
  श्रीशरभेश्वरकवचम्   
 ॐ श्रीगणेशाय नमः ।  

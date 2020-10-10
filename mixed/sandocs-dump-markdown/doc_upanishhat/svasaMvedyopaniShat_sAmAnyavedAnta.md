@@ -1,21 +1,21 @@
-+++
-"Text title" = "svasaMvedyopaniShat"
-"File name" = "svasaMvedyopaniShat.itx"
-itxtitle = "svasaMvedyopaniShat (sAmAnyavedAnta)"
-engtitle = "svasaMvedyopaniShat"
-Category = "upanishhat, vedanta, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Radim Navyan radimnavyan at gmail.com, Sunder Hattangadi"
-Indexextra = "(Scanned book)"
-"Latest update" = "October 17, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वसंवेद्योपनिषत् (सामान्यवेदान्त)"
+---
+Category: upanishhat, vedanta, upanishad
+File name: svasaMvedyopaniShat.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: October 17, 2017
+Location: doc_upanishhat
+Proofread by: Radim Navyan radimnavyan at gmail.com, Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: svasaMvedyopaniShat
+engtitle: svasaMvedyopaniShat
+itxtitle: svasaMvedyopaniShat (sAmAnyavedAnta)
+title: स्वसंवेद्योपनिषत् (सामान्यवेदान्त)
 
-+++
+---
   
  स्वसंवेद्योपनिषत्   
   

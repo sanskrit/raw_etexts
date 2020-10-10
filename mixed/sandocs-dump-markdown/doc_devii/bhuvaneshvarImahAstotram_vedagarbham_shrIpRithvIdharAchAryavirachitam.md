@@ -1,24 +1,25 @@
-+++
-"Text title" = "bhuvaneshvarIstotram vedagarbhaM"
-"File name" = "bhuvaneshvarIstotramvedagarbhaM.itx"
-itxtitle = "bhuvaneshvarImahAstotram (vedagarbham shrIpRithvIdharAchAryavirachitam)"
-engtitle = "bhuvaneshvarImahAstotram vedagarbhaM"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Author = "shrIpRithvIdharAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425, shrIbhuvaneshvarI varivasyA"
-Indexextra = "(Scanned, Hindi)"
-"Latest update" = "July 28, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुवनेश्वरीमहास्तोत्रम् (वेदगर्भम् श्रीपृइथ्वीधराचार्यविरचितम्)"
+---
+Author: shrIpRithvIdharAchArya
+Category: devii, dashamahAvidyA, devI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425, shrIbhuvaneshvarI varivasyA
+File name: bhuvaneshvarIstotramvedagarbhaM.itx
+Indexextra: (Scanned, Hindi)
+Language: Sanskrit
+Latest update: July 28, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhuvaneshvarIstotram vedagarbhaM
+engtitle: bhuvaneshvarImahAstotram vedagarbhaM
+itxtitle: bhuvaneshvarImahAstotram (vedagarbham shrIpRithvIdharAchAryavirachitam)
+title: भुवनेश्वरीमहास्तोत्रम् (वेदगर्भम् श्रीपृइथ्वीधराचार्यविरचितम्)
 
-+++
+---
   
  वेदगर्भं श्रीभुवनेश्वरीस्तोत्रम् अथवा श्रीभुवनेश्वरीमहास्तोत्रम्   
   

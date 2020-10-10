@@ -1,25 +1,25 @@
-+++
-"Text title" = "reNukAstotram mAtApuravAsinI"
-"File name" = "reNukAstotrammAtApuravAsinI.itx"
-itxtitle = "reNukAstotram shrImAtApuranivAsinI"
-engtitle = "Matapura Nivasini Renuka Stotram"
-Category = "devii, reNukA, stotra, vAsudevAnanda-sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Texttype = "stotra"
-Author = "Vasudevananda Saraswati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-Indexextra = "(Vasudevananda Saraswati)"
-"Latest update" = "June 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकास्तोत्रम् श्रीमातापुरनिवासिनी"
+---
+Author: Vasudevananda Saraswati
+Category: devii, reNukA, stotra, vAsudevAnanda-sarasvatI, devI
+File name: reNukAstotrammAtApuravAsinI.itx
+Indexextra: (Vasudevananda Saraswati)
+Language: Sanskrit
+Latest update: June 18, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAstotram mAtApuravAsinI
+Texttype: stotra
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Matapura Nivasini Renuka Stotram
+itxtitle: reNukAstotram shrImAtApuranivAsinI
+title: रेणुकास्तोत्रम् श्रीमातापुरनिवासिनी
 
-+++
+---
   
  रेणुकास्तोत्रम् श्रीमातापुरनिवासिनी   
   

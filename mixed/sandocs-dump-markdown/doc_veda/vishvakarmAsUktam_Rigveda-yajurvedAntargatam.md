@@ -1,23 +1,23 @@
-+++
-"Text title" = "vishvakarmAsUktam"
-"File name" = "vishvakarmAsUktam.itx"
-itxtitle = "vishvakarmAsUktam (Rigveda\\-yajurvedAntargatam)"
-engtitle = "vishvakarmAsUktam"
-Category = "veda, rigveda, sUkta"
-Location = "doc_veda"
-Sublocation = "veda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "Rigveda and Yajurveda"
-Indexextra = "(text 1, 2)"
-Acknowledge-Permission = "vishwakarmasamaj.com, jangidbrahminsamaj.com"
-"Latest update" = "July 8, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विश्वकर्मासूक्तम् (ऋइग्वेद\\-यजुर्वेदान्तर्गतम्)"
+---
+Acknowledge-Permission: vishwakarmasamaj.com, jangidbrahminsamaj.com
+Category: veda, rigveda, sUkta
+Description-comments: Rigveda and Yajurveda
+File name: vishvakarmAsUktam.itx
+Indexextra: (text 1, 2)
+Language: Sanskrit
+Latest update: July 8, 2017
+Location: doc_veda
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: veda
+Text title: vishvakarmAsUktam
+engtitle: vishvakarmAsUktam
+itxtitle: vishvakarmAsUktam (Rigveda\-yajurvedAntargatam)
+title: विश्वकर्मासूक्तम् (ऋइग्वेद\-यजुर्वेदान्तर्गतम्)
 
-+++
+---
   
  विश्वकर्मसूक्तम्   
   
@@ -26,7 +26,7 @@ title = "विश्वकर्मासूक्तम् (ऋइग्वे
 के ऋषि और देवता भुवनपुत्र विश्वकर्मा ही हैं । ये ही चौदह  
 मत्रं यजुर्वेद अध्याय के १७वें में मत्रं १७ से ३२ तक आते हैं,  
 जिसमें से केवल दो मन्त्र २४वां और ३२वां अधिक महत्वपुर्ण हैं ।  
-प्रत्येक मांगलिक पर्व पर यज्ञ में गृह प्रवेश करते समय, किसी  
+प्रत्येक माङ्गलिक पर्व पर यज्ञ में गृह प्रवेश करते समय, किसी  
 भी नवीन कार्य के शुभारम्भ पर, विवाह आदि सस्कांरो के समय  
 इनका पाठ अवश्य करना चाहिए ।  
   
@@ -106,7 +106,7 @@ title = "विश्वकर्मासूक्तम् (ऋइग्वे
 चक्षुषः पिता मनसा हि धीरो घृतमेने अजनन्नन्नमाने ।  
 यदेदन्ता अददृहन्त पूर्व आदिद्द्यावापृथिवी अप्रथेताम् ॥ १॥  
   
-विश्वकर्मा विमना आद्विहाया धाता विधाता परमोत संदृक् ।  
+विश्वकर्मा विमना आद्विहाया धाता विधाता परमोत सन्दृक् ।  
 तेषामिष्टानि समिषा मदन्ति यत्रा सप्तऋषीन्पर एकमाहुः ॥ २॥  
   
 यो नः पिता जनिता यो विधाता धामानि वेद भुवनानि विश्वा ।  
@@ -141,7 +141,7 @@ title = "विश्वकर्मासूक्तम् (ऋइग्वे
 विश्वकर्मा ह्याजनिष्ट देव।आदिद्गन्धर्वोऽभवद् द्वितीयः ।  
 तृतीयः पिता जानितौषधीनामपां गर्भं व्यदधात्पुरुत्रा ॥ ३२॥  
   
-सृष्टि क्रम में सर्वप्रथम ब्रह्माण्ड के संचालक  
+सृष्टि क्रम में सर्वप्रथम ब्रह्माण्ड के सञ्चालक  
 देवगण आविर्भूत हुए, इसके पश्चात् पृथ्वी को धारण  
 करने वाले (अग्नि-सूर्य) देव प्रकट हुए ।  तृतीय क्रम  
 में ओषधियों के उत्पादक और पालक प्राण- पर्जन्य उत्पन्न  

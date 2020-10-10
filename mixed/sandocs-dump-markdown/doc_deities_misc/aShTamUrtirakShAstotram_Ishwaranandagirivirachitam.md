@@ -1,23 +1,23 @@
-+++
-"Text title" = "aShTamUrtirakShAstotram"
-"File name" = "aShTamUrtirakShAstotram.itx"
-itxtitle = "aShTamUrtirakShAstotram (Ishwaranandagirivirachitam)"
-engtitle = "aShTamUrtirakShAstotram"
-Category = "deities_misc, aShTaka, raksha"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "The Samvat Master, Iswarananda Giriji, Mount Abu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Shri Chitrapura Stuti Manjari,3rd ed. 2008"
-Acknowledge-Permission = "Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/"
-"Latest update" = "March 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अष्टमूर्तिरक्षास्तोत्रम् (ईश्वरनन्दगिरिविरचितम्)"
+---
+Acknowledge-Permission: Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/
+Author: The Samvat Master, Iswarananda Giriji, Mount Abu
+Category: deities_misc, aShTaka, raksha
+File name: aShTamUrtirakShAstotram.itx
+Language: Sanskrit
+Latest update: March 2, 2018
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri Chitrapura Stuti Manjari,3rd ed. 2008
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: aShTamUrtirakShAstotram
+engtitle: aShTamUrtirakShAstotram
+itxtitle: aShTamUrtirakShAstotram (Ishwaranandagirivirachitam)
+title: अष्टमूर्तिरक्षास्तोत्रम् (ईश्वरनन्दगिरिविरचितम्)
 
-+++
+---
   
  अष्टमूर्तिरक्षास्तोत्रम्   
 हे शर्व भूरूप पर्वतसुतेश  

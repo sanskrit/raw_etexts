@@ -1,21 +1,21 @@
-+++
-"Text title" = "satyanArAyaNastutiH"
-"File name" = "satyanArAyaNastutiH.itx"
-itxtitle = "satyanArAyaNastutiH"
-engtitle = "satyanArAyaNastutiH"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सत्यनारायणस्तुतिः"
+---
+Category: vishhnu
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: satyanArAyaNastutiH.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: satyanArAyaNastutiH
+engtitle: satyanArAyaNastutiH
+itxtitle: satyanArAyaNastutiH
+title: सत्यनारायणस्तुतिः
 
-+++
+---
   
  सत्यनारायणस्तुतिः   
 ध्यायेत् सत्यं गुणातीतं गुणत्रय-समन्वितम् ।  

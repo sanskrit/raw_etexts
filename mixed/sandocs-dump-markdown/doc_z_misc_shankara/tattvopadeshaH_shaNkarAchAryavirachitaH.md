@@ -1,27 +1,27 @@
-+++
-"Text title" = "tattvopadesha"
-"File name" = "tattvopadesha.itx"
-itxtitle = "tattvopadeshaH (shaNkarAchAryavirachitaH)"
-engtitle = "tattvopadeshaH"
-Category = "shankarAchArya, advice"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Subcategory = "pramukha"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com, Ferit Arav f.arav at home.nl"
-"Description/comments" = "Complete works 16 Prakarana 2"
-Indexextra = "(works, Text)"
-"Latest update" = "October 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तत्त्वोपदेशः (शण्कराचार्यविरचितः)"
+---
+Author: Adi Shankaracharya
+Category: shankarAchArya, advice
+Description/comments: Complete works 16 Prakarana 2
+File name: tattvopadesha.itx
+Indexextra: (works, Text)
+Language: Sanskrit
+Latest update: October 10, 2018
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi sunderh at hotmail.com, Ferit Arav f.arav at home.nl
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: pramukha
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: tattvopadesha
+engtitle: tattvopadeshaH
+itxtitle: tattvopadeshaH (shaNkarAchAryavirachitaH)
+title: तत्त्वोपदेशः (शण्कराचार्यविरचितः)
 
-+++
+---
   
  तत्त्वोपदेशः   
-तत्त्वंपदार्थशुद्ध्यर्थं गुरुः शिष्यं वचोऽब्रवीत् ।  
+तत्त्वम्पदार्थशुद्ध्यर्थं गुरुः शिष्यं वचोऽब्रवीत् ।  
 वाक्ये तत्त्वमसीत्यत्र त्वम्पदार्थं विवेचय ॥ १॥  
   
 न त्वं देहोऽसि दृश्यत्वादुपजात्यादिमत्त्वतः ।  
@@ -69,7 +69,7 @@ title = "तत्त्वोपदेशः (शण्कराचार्य
 ईदृशं तादृशं नैतन्न परोक्षं सदेव यत् ।  
 तद्ब्रह्म त्वं न देहादिदृश्यरूपोऽसि सर्वदृक् ॥ १६॥  
   
-इदंत्वेनैव यद्भाति सर्वं तच्च निषिध्यते ।  
+इदन्त्वेनैव यद्भाति सर्वं तच्च निषिध्यते ।  
 अवाच्यतत्त्वमनिदं न वेद्यं स्वप्रकाशतः ॥ १७॥  
   
 सत्यं ज्ञानमनन्तं च ब्रह्मलक्षणमुच्यते ।  
@@ -88,10 +88,10 @@ title = "तत्त्वोपदेशः (शण्कराचार्य
 सम्भवेन्नान्यथा तस्माच्छोधनं कृतमादितः ॥ २२॥  
   
 देहेन्द्रियादिधर्मान्यः स्वात्मन्यारोपयन्मृषा ।  
-कर्तृत्वाद्यभिमानी च वाच्यार्थस्त्वंपदस्य सः ॥ २३॥  
+कर्तृत्वाद्यभिमानी च वाच्यार्थस्त्वम्पदस्य सः ॥ २३॥  
   
 देहेन्द्रियादिसाक्षी यस्तेभ्यो भाति विलक्षणः ।  
-स्वयं बोधस्वरूपत्वाल्लक्ष्यार्थस्त्वंपदस्य सः ॥ २४॥  
+स्वयं बोधस्वरूपत्वाल्लक्ष्यार्थस्त्वम्पदस्य सः ॥ २४॥  
   
 वेदान्तवाक्यसंवेद्यविश्वातीताक्षराद्वयम् ।  
 विशुद्धं यस्त्वसंवेद्यं लक्ष्यार्थस्तत्पदस्य सः ॥ २५॥  
@@ -208,7 +208,7 @@ title = "तत्त्वोपदेशः (शण्कराचार्य
 क्षुत्तृडातपवाय्वग्न्यादिभिस्तप्तोऽतितापकैः ॥ ६२॥  
   
 बन्धमुक्तौ तथा देशप्राप्तावेव सुदुःखधीः ।  
-ददृशे कंचिदाक्रोशन्नैकं तत्रैव तस्थिवान् ॥ ६३॥  
+ददृशे कञ्चिदाक्रोशन्नैकं तत्रैव तस्थिवान् ॥ ६३॥  
   
 तथा रागादिभिर्वर्गैः शत्रुभिर्दुःखदायिभिः ।  
 चौरैर्देहाभिमानाद्यैः स्वानन्दधनहारिभिः ॥ ६४॥  
@@ -229,7 +229,7 @@ title = "तत्त्वोपदेशः (शण्कराचार्य
 निरन्तरं विषण्णोऽनुभवन्नत्यन्तशोकवान् ॥ ६९॥  
   
 अविद्याभूतबन्धस्य नवृत्तौ दुःखदस्य च ।  
-स्वरूपानन्दसंप्राप्तौ सत्योपायं न लब्धवान् ॥ ७०॥  
+स्वरूपानन्दसम्प्राप्तौ सत्योपायं न लब्धवान् ॥ ७०॥  
   
 यथा गान्धारदेशीयश्चिरं दैवाद्दयालुभिः ।  
 कैश्चित्पान्थैः परिप्राप्तैर्मुक्तदृष्ट्यादिबन्धनः ॥ ७१॥  
@@ -246,7 +246,7 @@ title = "तत्त्वोपदेशः (शण्कराचार्य
 वर्णाश्रमाचारपरोऽवाप्तपुण्यमहोदयः ।  
 ईश्वरानुग्रहाल्लब्धो ब्रह्मविद्गुरुसत्तमः ॥ ७५॥  
   
-विधिवत्कृतसंन्यासो विवेकादियुतः सुधीः ।  
+विधिवत्कृतसन्न्यासो विवेकादियुतः सुधीः ।  
 प्राप्तो ब्रह्मोपदेशोऽद्य वैराग्याभ्यासतः परम् ॥ ७६॥  
   
 पण्डितस्तत्र मेधावी युक्त्या वस्तु विचारयन् ।  

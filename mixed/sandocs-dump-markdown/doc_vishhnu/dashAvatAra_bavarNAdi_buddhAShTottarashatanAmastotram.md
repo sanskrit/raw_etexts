@@ -1,24 +1,25 @@
-+++
-"Text title" = "bavarNAdi buddhAShTottarashatanAmastotram"
-"File name" = "bavarNAdibuddha108nAmastotram.itx"
-itxtitle = "dashAvatAra bavarNAdi buddhAShTottarashatanAmastotram"
-engtitle = "bavarNAdi buddhAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "paNDita shrI bellaMkoNDa rAmarAya kavIndra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA"
-"Latest update" = "January 24, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतार बवर्णादि बुद्धाष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: paNDita shrI bellaMkoNDa rAmarAya kavIndra
+Category: aShTottarashatanAma, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra,
+  vishnu
+File name: bavarNAdibuddha108nAmastotram.itx
+Language: Sanskrit
+Latest update: January 24, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: bavarNAdi buddhAShTottarashatanAmastotram
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: bavarNAdi buddhAShTottarashatanAmastotram
+itxtitle: dashAvatAra bavarNAdi buddhAShTottarashatanAmastotram
+title: दशावतार बवर्णादि बुद्धाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  बवर्णादि श्रीबुद्धाष्टोत्तरशतनामस्तोत्रम्   
 श्री हयग्रीवाय नमः ।  

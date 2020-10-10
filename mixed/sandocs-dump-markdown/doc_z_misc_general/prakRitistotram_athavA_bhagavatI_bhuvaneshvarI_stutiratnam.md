@@ -1,27 +1,27 @@
-+++
-"Text title" = "prakRitistotram"
-"File name" = "prakRitistotram.itx"
-itxtitle = "prakRitistotram athavA bhagavatI bhuvaneshvarI stutiratnam"
-engtitle = "prakRitistotram"
-Category = "misc, stotra, devii, devI"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravi Mukku ravi_mukku at hotmail.com"
-"Proofread by" = "Ravi Mukku ravi_mukku at hotmail.com"
-Indexextra = "(Scan Hindi)"
-"Latest update" = "March 25, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रकृइतिस्तोत्रम् अथवा भगवती भुवनेश्वरी स्तुतिरत्नम्"
+---
+Category: misc, stotra, devii, devI
+File name: prakRitistotram.itx
+Indexextra: (Scan Hindi)
+Language: Sanskrit
+Latest update: March 25, 2013
+Location: doc_z_misc_general
+Proofread by: Ravi Mukku ravi_mukku at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: prakRitistotram
+Texttype: stotra
+Transliterated by: Ravi Mukku ravi_mukku at hotmail.com
+engtitle: prakRitistotram
+itxtitle: prakRitistotram athavA bhagavatI bhuvaneshvarI stutiratnam
+title: प्रकृइतिस्तोत्रम् अथवा भगवती भुवनेश्वरी स्तुतिरत्नम्
 
-+++
+---
   
  प्रकृतिस्तोत्रम् अथवा भगवती भुवनेश्वरी स्तुतिरत्नम्   
   
-प्रसीद प्रपञ्चस्वरूपे प्रधाने प्रकृत्यात्मिके प्राणिनां प्राणसंज्ञे ।  
+प्रसीद प्रपञ्चस्वरूपे प्रधाने प्रकृत्यात्मिके प्राणिनां प्राणसञ्ज्ञे ।  
 प्रणोतुं प्रभो प्रारभे प्राञ्जलिस्त्वां प्रकृताप्रतर्क्ये प्रकामप्रवृत्ते ॥ १॥  
   
 स्तुतिर्वाक्यबद्धा पदात्मैव वाक्यं पदं त्वक्षरात्माक्षरं त्वं महेशि ।  
@@ -42,14 +42,14 @@ title = "प्रकृइतिस्तोत्रम् अथवा भग
 रवित्वेनभूत्वान्तरात्मा दधासि प्रजाश्चन्द्रमस्त्वेन पुष्णासि भूयः ।  
 दहस्यग्निमूर्तिर्वहन्त्याहुतिं ना महादेवि तेजस्त्रयं त्वत्त एव ॥ ७॥  
   
-चतुर्वक्त्रयुक्ता लसद्धंसवाहा रजःसंश्रिता ब्रह्मसंज्ञां दधाना ।  
+चतुर्वक्त्रयुक्ता लसद्धंसवाहा रजःसंश्रिता ब्रह्मसञ्ज्ञां दधाना ।  
 जगत्सृष्टिकार्या जगन्मातृभूते परं त्वत्पदं ध्यायसीशि त्वमेव ॥ ८॥  
   
 विराजत्किरीटा लसच्चक्रशङ्खा वहन्ती च नारायणाख्यां जगत्सु ।  
 गुणं सत्त्वमास्थाय विश्वस्थितिं यः करोतीह सोंऽशोपि देवि त्वमेव ॥ ९॥  
   
 जटाबद्धचन्द्राहिगङ्गा त्रिनेत्रा जगत्संहरन्ती च कल्पावसाने ।  
-तमः संश्रिता रुद्रसंज्ञां दधाना वहन्ती परश्वक्षमाले विभासि ॥ १०॥  
+तमः संश्रिता रुद्रसञ्ज्ञां दधाना वहन्ती परश्वक्षमाले विभासि ॥ १०॥  
   
 सचिन्ताक्षमाला सुधाकुम्भलेखाधरा त्रीक्षणार्द्धेन्दुराजत्कपर्दा ।  
 सुशुक्लांशुकाकल्पदेहा सरस्वत्यपि त्वन्मयैवेशि वाचामधीशा ॥ ११॥  
@@ -86,7 +86,7 @@ title = "प्रकृइतिस्तोत्रम् अथवा भग
 योऽभ्यस्येत्स खलु परां श्रियं च गत्वा शुद्धं  
 तद् व्रजति पदं परस्य धाम्नः ॥ २१॥  
   
-इति हृल्लेखाविहितो विधिरुक्तः संग्रहेण सकलोऽयम् ।  
+इति हृल्लेखाविहितो विधिरुक्तः सङ्ग्रहेण सकलोऽयम् ।  
 योऽस्मिन्नियतमना मन्त्री योगी स्यात् स एव भोगी च ॥ २२॥  
   
 इति-आद्यशङ्कराचार्यविरचितं प्रकृतिस्तोत्रम् ॥  

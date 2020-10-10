@@ -1,23 +1,23 @@
-+++
-"Text title" = "shankarAchAryastotrakadambam"
-"File name" = "shankarAchAryastotrakadambam.itx"
-itxtitle = "shaNkarAchAryastotrakadambam (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "shankarAchAryastotrakadambam"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudeva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शण्कराचार्यस्तोत्रकदम्बम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva
+File name: shankarAchAryastotrakadambam.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudeva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shankarAchAryastotrakadambam
+engtitle: shankarAchAryastotrakadambam
+itxtitle: shaNkarAchAryastotrakadambam (shivAbhinavanRisiMhabhAratIvirachitam)
+title: शण्कराचार्यस्तोत्रकदम्बम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीशङ्कराचार्यस्तोत्रकदम्बम्   
 (कालटिक्षेत्रे)  
@@ -88,7 +88,7 @@ title = "शण्कराचार्यस्तोत्रकदम्ब�
   
 जन्ममृत्युहरणीं तव वक्त्रा-  
 म्भोजनिःसृतसुधां न पिबामि ।  
-भाष्यसंज्ञलसितां वितरारं  
+भाष्यसञ्ज्ञलसितां वितरारं  
 देशिकेन्द्र मम पाण्यवलम्बम् ॥ १८॥  
   
 मायामयाशेषविशेषशून्य मानातिगस्वप्रभ चित्स्वरूप ।  

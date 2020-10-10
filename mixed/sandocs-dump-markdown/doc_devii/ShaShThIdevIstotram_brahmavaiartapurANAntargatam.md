@@ -1,22 +1,22 @@
-+++
-"Text title" = "ShaShThIdevIstotram"
-"File name" = "ShaShThIdevIstotram.itx"
-itxtitle = "ShaShThIdevIstotram (brahmavaiartapurANAntargatam)"
-engtitle = "Shri Shashthi Devi Stotram"
-Category = "devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "brahmavaiartapurANa, prakRitikhaNDa, adhyAya 43, 57-71"
-Indexextra = "(brahmavaiartapurANa 1, 2)"
-"Latest update" = "August 15, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षष्ठीदेवीस्तोत्रम् (ब्रह्मवैअर्तपुराणान्तर्गतम्)"
+---
+Category: devii, otherforms, devI
+Description-comments: brahmavaiartapurANa, prakRitikhaNDa, adhyAya 43, 57-71
+File name: ShaShThIdevIstotram.itx
+Indexextra: (brahmavaiartapurANa 1, 2)
+Language: Sanskrit
+Latest update: August 15, 2017
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ShaShThIdevIstotram
+engtitle: Shri Shashthi Devi Stotram
+itxtitle: ShaShThIdevIstotram (brahmavaiartapurANAntargatam)
+title: षष्ठीदेवीस्तोत्रम् (ब्रह्मवैअर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीषष्ठीदेवि स्तोत्रम्   
   

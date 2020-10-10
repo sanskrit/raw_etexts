@@ -1,23 +1,24 @@
-+++
-"Text title" = "dattaprArthanAchatuShkam"
-"File name" = "dattaprArthanAchatuShkam.itx"
-itxtitle = "dattaprArthanAchatuShkam (vAsudevAnandasarasvatIvirachitam)"
-engtitle = "dattaprArthanAchatuShkam"
-Category = "deities_misc, dattatreya, vAsudevAnanda-sarasvatI"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "dattatreya"
-Author = "Shri Vasudevanandasarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "February 10, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दत्तप्रार्थनाचतुष्कम् (वासुदेवानन्दसरस्वतीविरचितम्)"
+---
+Author: Shri Vasudevanandasarasvati
+Category: deities_misc, dattatreya, vAsudevAnanda-sarasvatI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: dattaprArthanAchatuShkam.itx
+Language: Sanskrit
+Latest update: February 10, 2017
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dattatreya
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: dattaprArthanAchatuShkam
+engtitle: dattaprArthanAchatuShkam
+itxtitle: dattaprArthanAchatuShkam (vAsudevAnandasarasvatIvirachitam)
+title: दत्तप्रार्थनाचतुष्कम् (वासुदेवानन्दसरस्वतीविरचितम्)
 
-+++
+---
   
  श्रीदत्तप्रार्थनाचतुष्कम्   
   

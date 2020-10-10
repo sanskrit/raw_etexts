@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shadanana Ashtakam"
-"File name" = "ShaDAnanAShTakam.itx"
-itxtitle = "ShaDAnanAShTakam (skAndapurNAntargataM agastyaproktaM)"
-engtitle = "ShaDAnanAShTakam"
-Category = "subrahmanya, aShTaka"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Latest update" = "March 17, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षडाननाष्टकम् (स्कान्दपुर्णान्तर्गतं अगस्त्यप्रोक्तं)"
+---
+Category: subrahmanya, aShTaka
+File name: ShaDAnanAShTakam.itx
+Language: Sanskrit
+Latest update: March 17, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Shadanana Ashtakam
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: ShaDAnanAShTakam
+itxtitle: ShaDAnanAShTakam (skAndapurNAntargataM agastyaproktaM)
+title: षडाननाष्टकम् (स्कान्दपुर्णान्तर्गतं अगस्त्यप्रोक्तं)
 
-+++
+---
   
  षडाननाष्टकम्   
 ॐ श्रीगणेशाय नमः ।  

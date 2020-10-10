@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRiShNa aShTaka 9"
-"File name" = "kRRiShNAShTakam9.itx"
-itxtitle = "kRiShNAShTakam 9 (brahmAnandavirachitam tribhuvanAlisarojasarovaram)"
-engtitle = "kRiShNa aShTaka 9"
-Category = "aShTaka, vishhnu, krishna, brahmAnanda, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Brahmananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vedha Nathan vnathan.lab at gmail.com"
-"Proofread by" = "Vedha Nathan vnathan.lab at gmail.com, NA"
-Indexextra = "(Scan)"
-"Latest update" = "February 10, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णाष्टकम् ९ (ब्रह्मानन्दविरचितम् त्रिभुवनालिसरोजसरोवरम्)"
+---
+Author: Brahmananda
+Category: aShTaka, vishhnu, krishna, brahmAnanda, vishnu
+File name: kRRiShNAShTakam9.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 10, 2019
+Location: doc_vishhnu
+Proofread by: Vedha Nathan vnathan.lab at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRiShNa aShTaka 9
+Transliterated by: Vedha Nathan vnathan.lab at gmail.com
+engtitle: kRiShNa aShTaka 9
+itxtitle: kRiShNAShTakam 9 (brahmAnandavirachitam tribhuvanAlisarojasarovaram)
+title: कृइष्णाष्टकम् ९ (ब्रह्मानन्दविरचितम् त्रिभुवनालिसरोजसरोवरम्)
 
-+++
+---
   
  श्रीकृष्णाष्टकम्   
 त्रिभुवनालिसरोजसरोवरं परममोदपयःसुपयोनिधिम् ।  

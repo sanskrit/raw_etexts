@@ -1,22 +1,22 @@
-+++
-"Text title" = "dUrveshastotram"
-"File name" = "dUrveshastotram.itx"
-itxtitle = "dUrveshastotram (shivAbhinavanRisiMhabhAratIvirachitam)"
-engtitle = "dUrveshastotram"
-Category = "shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दूर्वेशस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: shiva, sachchidAnanda-shivAbhinava-nRisiMhabhAratI
+File name: dUrveshastotram.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_shiva
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: dUrveshastotram
+engtitle: dUrveshastotram
+itxtitle: dUrveshastotram (shivAbhinavanRisiMhabhAratIvirachitam)
+title: दूर्वेशस्तोत्रम् (शिवाभिनवनृइसिंहभारतीविरचितम्)
 
-+++
+---
   
  श्रीदूर्वेशस्तोत्रम्   
 (श्रीदूर्वाक्षेत्रे - अरवङ्गुलापरनामके)  

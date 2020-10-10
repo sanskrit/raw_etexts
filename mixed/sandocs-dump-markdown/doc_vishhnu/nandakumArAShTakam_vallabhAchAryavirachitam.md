@@ -1,24 +1,24 @@
-+++
-"Text title" = "nandkumaaraashhTakam"
-"File name" = "nandakumara8.itx"
-itxtitle = "nandakumArAShTakam (vallabhAchAryavirachitam)"
-engtitle = "Hymn to Krishna as Nandakumar"
-Category = "aShTaka, vishhnu, krishna, vallabhaachaarya, vishnu, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "vallabhAchArya"
-Language = "Sanskrit"
-Subject = "kaavya/religion"
-"Transliterated by" = "N"
-"Proofread by" = "N"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "October 11, 2001, August 4, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नन्दकुमाराष्टकम् (वल्लभाचार्यविरचितम्)"
+---
+Author: vallabhAchArya
+Category: aShTaka, vishhnu, krishna, vallabhaachaarya, vishnu, puShTimArgIya
+File name: nandakumara8.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: October 11, 2001, August 4, 2018
+Location: doc_vishhnu
+Proofread by: N
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: kaavya/religion
+Sublocation: vishhnu
+Text title: nandkumaaraashhTakam
+Transliterated by: N
+engtitle: Hymn to Krishna as Nandakumar
+itxtitle: nandakumArAShTakam (vallabhAchAryavirachitam)
+title: नन्दकुमाराष्टकम् (वल्लभाचार्यविरचितम्)
 
-+++
+---
   
  श्रीनन्दकुमाराष्टकम्   
 सुन्दरगोपालं उरवनमालं नयनविशालं दुःखहरं  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "gajAnana stotra from Mudgala Purana"
-"File name" = "gajAnanastotrammudgala.itx"
-itxtitle = "gajAnanastotram (mudgalapurANAntargatam)"
-engtitle = "gajAnana stotra"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "mudgalapurANa_dvitIyakhaNDa"
-"Latest update" = "September 02, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गजाननस्तोत्रम् (मुद्गलपुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: ganesha, stotra
+Description-comments: mudgalapurANa_dvitIyakhaNDa
+File name: gajAnanastotrammudgala.itx
+Language: Sanskrit
+Latest update: September 02, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gajAnana stotra from Mudgala Purana
+Texttype: stotra
+engtitle: gajAnana stotra
+itxtitle: gajAnanastotram (mudgalapurANAntargatam)
+title: गजाननस्तोत्रम् (मुद्गलपुराणान्तर्गतम्)
 
-+++
+---
   
  गजाननस्तोत्र   
 मुद्गलपुराणान्तर्गतम्  

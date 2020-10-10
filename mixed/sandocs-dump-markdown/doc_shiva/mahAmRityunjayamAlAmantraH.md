@@ -1,23 +1,24 @@
-+++
-"Text title" = "shrImahAmRRityunjayamAlAmantraH"
-"File name" = "mahAmRRityunjayamAlAmantraH.itx"
-itxtitle = "mahAmRityunjayamAlAmantraH"
-engtitle = "mahAmRRityunjayamAlAmantraH"
-Category = "mAlAmantra, shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD, Pallasena Narayanaswami ppnswami at gmail.com"
-Description-comments = "Shiva Nama Manjari Volume 1, p. 333-341 Radhakrishna Sastri Mahaperiaval collection"
-"Latest update" = "May 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महामृइत्युञ्जयमालामन्त्रः"
+---
+Category: mAlAmantra, shiva, stotra
+Description-comments: Shiva Nama Manjari Volume 1, p. 333-341 Radhakrishna Sastri
+  Mahaperiaval collection
+File name: mahAmRRityunjayamAlAmantraH.itx
+Language: Sanskrit
+Latest update: May 25, 2017
+Location: doc_shiva
+Proofread by: DPD, Pallasena Narayanaswami ppnswami at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shrImahAmRRityunjayamAlAmantraH
+Texttype: stotra
+Transliterated by: DPD
+engtitle: mahAmRRityunjayamAlAmantraH
+itxtitle: mahAmRityunjayamAlAmantraH
+title: महामृइत्युञ्जयमालामन्त्रः
 
-+++
+---
   
  महामृत्युञ्जयमालामन्त्रः   
   

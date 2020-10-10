@@ -1,22 +1,22 @@
-+++
-"Text title" = "vyADeshvarastotram"
-"File name" = "vyADeshvarastotram.itx"
-itxtitle = "vyADeshvarastotram"
-engtitle = "vyADeshvarastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Indexextra = "(Info)"
-"Latest update" = "January 13, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "व्याडेश्वरस्तोत्रम्"
+---
+Category: shiva
+File name: vyADeshvarastotram.itx
+Indexextra: (Info)
+Language: Sanskrit
+Latest update: January 13, 2019
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: vyADeshvarastotram
+Transliterated by: NA
+engtitle: vyADeshvarastotram
+itxtitle: vyADeshvarastotram
+title: व्याडेश्वरस्तोत्रम्
 
-+++
+---
   
  श्रीव्याडेश्वरस्तोत्रम्   
 अनाथबन्धुं करुणैकसिन्धुं प्रसन्नमूर्तिं सुपवित्रकीर्तिम् ।  

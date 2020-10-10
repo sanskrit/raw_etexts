@@ -1,23 +1,23 @@
-+++
-"Text title" = "hayagrIvakavacham 2"
-"File name" = "hayagrIvakavacham2.itx"
-itxtitle = "hayagrIvakavacham 2 (hayagrIvatantrAntargatam)"
-engtitle = "hayagrIvakavacham 2"
-Category = "kavacha, vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rajnarayanan C K krajnara at gmail.com"
-"Proofread by" = "Rajnarayanan C K krajnara at gmail.com"
-Description-comments = "hayagrIvamantre atharvaNavede mantrakhaNDe pUrvasaMhitA"
-"Latest update" = "December 7, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हयग्रीवकवचम् २ (हयग्रीवतन्त्रान्तर्गतम्)"
+---
+Author: Traditional
+Category: kavacha, vishhnu, vishnu
+Description-comments: hayagrIvamantre atharvaNavede mantrakhaNDe pUrvasaMhitA
+File name: hayagrIvakavacham2.itx
+Language: Sanskrit
+Latest update: December 7, 2016
+Location: doc_vishhnu
+Proofread by: Rajnarayanan C K krajnara at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: hayagrIvakavacham 2
+Transliterated by: Rajnarayanan C K krajnara at gmail.com
+engtitle: hayagrIvakavacham 2
+itxtitle: hayagrIvakavacham 2 (hayagrIvatantrAntargatam)
+title: हयग्रीवकवचम् २ (हयग्रीवतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीहयग्रीवकवचम् २   
   

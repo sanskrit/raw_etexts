@@ -1,25 +1,25 @@
-+++
-"Text title" = "hayagrIvAShTottarashatanAmastotram"
-"File name" = "hayagrIvAShTottarashatanAmastotram.itx"
-itxtitle = "hayagrIvAShTottarashatanAmastotram"
-engtitle = "hayagrIvAShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, vishhnu, vishnu_misc, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ankur Nagpal ankurnagpal108 at gmail.com"
-"Proofread by" = "Ankur Nagpal ankurnagpal108 at gmail.com, NA, Natarajan"
-Description-comments = "shatanAmastotrasangraha, Gita Press"
-Acknowledge-Permission = "Gitapress, Gorakhpur"
-"Latest update" = "April 7, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हयग्रीवाष्टोत्तरशतनामस्तोत्रम्"
+---
+Acknowledge-Permission: Gitapress, Gorakhpur
+Author: Traditional
+Category: aShTottarashatanAma, vishhnu, vishnu_misc, vishnu
+Description-comments: shatanAmastotrasangraha, Gita Press
+File name: hayagrIvAShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: April 7, 2016
+Location: doc_vishhnu
+Proofread by: Ankur Nagpal ankurnagpal108 at gmail.com, NA, Natarajan
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: hayagrIvAShTottarashatanAmastotram
+Transliterated by: Ankur Nagpal ankurnagpal108 at gmail.com
+engtitle: hayagrIvAShTottarashatanAmastotram
+itxtitle: hayagrIvAShTottarashatanAmastotram
+title: हयग्रीवाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीहयग्रीवाष्टोत्तरशतनामस्तोत्रम्   
   

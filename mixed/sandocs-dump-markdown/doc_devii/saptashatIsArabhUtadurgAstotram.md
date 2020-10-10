@@ -1,23 +1,24 @@
-+++
-"Text title" = "saptashatIsArabhUtadurgAstotram"
-"File name" = "saptashatIsArabhUtadurgAstotram.itx"
-itxtitle = "saptashatIsArabhUtadurgAstotram"
-engtitle = "saptashatIsArabhUtadurgAstotram"
-Category = "devii, durgA, shatI, devI, saptashatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Author = "rAmakRiShNabhaTTa kAshIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225-425"
-"Latest update" = "March 22, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सप्तशतीसारभूतदुर्गास्तोत्रम्"
+---
+Author: rAmakRiShNabhaTTa kAshIkara
+Category: devii, durgA, shatI, devI, saptashatI
+Description-comments: Brihatstotraratnakara 2, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225-425
+File name: saptashatIsArabhUtadurgAstotram.itx
+Language: Sanskrit
+Latest update: March 22, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: saptashatIsArabhUtadurgAstotram
+engtitle: saptashatIsArabhUtadurgAstotram
+itxtitle: saptashatIsArabhUtadurgAstotram
+title: सप्तशतीसारभूतदुर्गास्तोत्रम्
 
-+++
+---
   
  सप्तशतीसारभूतदुर्गास्तोत्रम्   
   

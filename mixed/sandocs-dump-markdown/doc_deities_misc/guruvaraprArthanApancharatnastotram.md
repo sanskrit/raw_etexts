@@ -1,23 +1,23 @@
-+++
-"Text title" = "guruvaraprArthanApaMcharatnastotram"
-"File name" = "guruvaraprArthanApaMcharatnastotram.itx"
-itxtitle = "guruvaraprArthanApancharatnastotram"
-engtitle = "guruvaraprArthanApaMcharatnastotram"
-Category = "deities_misc, gurudev, stotra, pancharatna"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran, NA"
-"Latest update" = "April 29, 2013, January 21, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुवरप्रार्थनापञ्चरत्नस्तोत्रम्"
+---
+Category: deities_misc, gurudev, stotra, pancharatna
+File name: guruvaraprArthanApaMcharatnastotram.itx
+Language: Sanskrit
+Latest update: April 29, 2013, January 21, 2017
+Location: doc_deities_misc
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: guruvaraprArthanApaMcharatnastotram
+Texttype: stotra
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: guruvaraprArthanApaMcharatnastotram
+itxtitle: guruvaraprArthanApancharatnastotram
+title: गुरुवरप्रार्थनापञ्चरत्नस्तोत्रम्
 
-+++
+---
   
  गुरुवरप्रार्थनापञ्चरत्नस्तोत्रम्   
   

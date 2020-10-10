@@ -1,22 +1,22 @@
-+++
-"Text title" = "haridhyAnAShTakam"
-"File name" = "haridhyAnAShTakam.itx"
-itxtitle = "haridhyAnAShTakam (vrajakishoravirachitam)"
-engtitle = "haridhyAnAShTakam"
-Category = "vishhnu, aShTaka, dhyAnam, vrajakishora"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Vrajakishora Tripathi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vrajakishora Tripathi"
-"Proofread by" = "Vrajakishora Tripathi"
-"Latest update" = "December 8, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिध्यानाष्टकम् (व्रजकिशोरविरचितम्)"
+---
+Author: Vrajakishora Tripathi
+Category: vishhnu, aShTaka, dhyAnam, vrajakishora
+File name: haridhyAnAShTakam.itx
+Language: Sanskrit
+Latest update: December 8, 2018
+Location: doc_vishhnu
+Proofread by: Vrajakishora Tripathi
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: haridhyAnAShTakam
+Transliterated by: Vrajakishora Tripathi
+engtitle: haridhyAnAShTakam
+itxtitle: haridhyAnAShTakam (vrajakishoravirachitam)
+title: हरिध्यानाष्टकम् (व्रजकिशोरविरचितम्)
 
-+++
+---
   
  श्रीहरिध्यानाष्टकम्   
 वन्दे कान्ततनुं प्रशान्तवदनं वन्दे सुचक्रेक्षणं  

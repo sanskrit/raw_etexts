@@ -1,22 +1,22 @@
-+++
-"Text title" = "mArtaNDabhairavAShTottarashatanAmAvalI"
-"File name" = "mArtaNDabhairavAShTottarashatanAmAvalI.itx"
-itxtitle = "mArtaNDabhairavAShTottarashatanAmAvalI"
-engtitle = "mArtaNDabhairavAShTottarashatanAmAvalI"
-Category = "shiva, aShTottarashatanAmAvalI, nAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Description/comments" = "Mallari"
-Indexextra = "(Info)"
-"Latest update" = "December 15, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मार्तण्डभैरवाष्टोत्तरशतनामावली"
+---
+Category: shiva, aShTottarashatanAmAvalI, nAmAvalI
+Description/comments: Mallari
+File name: mArtaNDabhairavAShTottarashatanAmAvalI.itx
+Indexextra: (Info)
+Language: Sanskrit
+Latest update: December 15, 2018
+Location: doc_shiva
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mArtaNDabhairavAShTottarashatanAmAvalI
+engtitle: mArtaNDabhairavAShTottarashatanAmAvalI
+itxtitle: mArtaNDabhairavAShTottarashatanAmAvalI
+title: मार्तण्डभैरवाष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीमार्तण्डभैरवाष्टोत्तरशतनामावलिः   
 ॐ त्र्यम्बकाय नमः ।  

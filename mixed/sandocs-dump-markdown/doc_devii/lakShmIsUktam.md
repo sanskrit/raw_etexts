@@ -1,25 +1,25 @@
-+++
-"Text title" = "lakShmIsUkta"
-"File name" = "laxmiisuukta.itx"
-itxtitle = "lakShmIsUktam"
-engtitle = "lakShmIsUkta"
-Category = "sUkta, devii, lakShmI, svara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "svara"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Indexextra = "(Hindi)"
-"Latest update" = "September 11, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीसूक्तम्"
+---
+Author: Traditional
+Category: sUkta, devii, lakShmI, svara, devI
+File name: laxmiisuukta.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: September 11, 2005
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lakShmIsUkta
+Texttype: svara
+Transliterated by: WebD
+engtitle: lakShmIsUkta
+itxtitle: lakShmIsUktam
+title: लक्ष्मीसूक्तम्
 
-+++
+---
   
  श्रीलक्ष्मीसूक्त   
   

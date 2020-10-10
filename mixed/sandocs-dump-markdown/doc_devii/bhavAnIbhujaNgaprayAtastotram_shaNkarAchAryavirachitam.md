@@ -1,23 +1,23 @@
-+++
-"Text title" = "bhavani bhuja.ngaprayAta stotra"
-"File name" = "bhavanibhujanga.itx"
-itxtitle = "bhavAnIbhujaNgaprayAtastotram (shaNkarAchAryavirachitam)"
-engtitle = "Bhavani-Bhujangaprayata Stotra"
-Category = "devii, pArvatI, bhujanga, shankarAchArya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Subcategory = "bhujanga"
-Author = "Shri Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(translation)"
-"Latest update" = "November 11, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भवानीभुजण्गप्रयातस्तोत्रम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shri Shankaracharya
+Category: devii, pArvatI, bhujanga, shankarAchArya, devI
+File name: bhavanibhujanga.itx
+Indexextra: (translation)
+Language: Sanskrit
+Latest update: November 11, 2012
+Location: doc_devii
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subcategory: bhujanga
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bhavani bhuja.ngaprayAta stotra
+engtitle: Bhavani-Bhujangaprayata Stotra
+itxtitle: bhavAnIbhujaNgaprayAtastotram (shaNkarAchAryavirachitam)
+title: भवानीभुजण्गप्रयातस्तोत्रम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  भवानीभुजङ्गप्रयातस्तोत्रम्   
 श्री गणेशाय नमः ।  
@@ -42,7 +42,7 @@ title = "भवानीभुजण्गप्रयातस्तोत्�
         वली रम्यते रोमराजिं भजेऽहम् ॥ ४॥  
   
 लसद्वृत्तमुत्तुङ्गमाणिक्यकुम्भो-  
-        पमश्रीस्तनद्वन्द्वमम्बांबुजाक्षीम् ।  
+        पमश्रीस्तनद्वन्द्वमम्बाम्बुजाक्षीम् ।  
 भजे पूर्णदुग्धाभिरामं तवेदं  
         महाहारदीप्तं सदा प्रस्नुतास्यम् ॥ ५॥  
   
@@ -105,7 +105,7 @@ title = "भवानीभुजण्गप्रयातस्तोत्�
 (भवानी भवानी भवानी त्रिवारम्-  
         उदारम् मुदा सर्वदा ये जपन्ति ।  
 न शोकम् न मोहम् न पापं न भीतिः  
-        कदाचित्कथंचित्कुतश्चज्जनानाम् ॥ १७)  
+        कदाचित्कथञ्चित्कुतश्चज्जनानाम् ॥ १७)  
           
 इति श्रीमच्छङ्कराचार्यविरचितं  
 भवानीभुजङ्गप्रयातस्तोत्रं सम्पूर्णम् ॥  

@@ -1,20 +1,20 @@
-+++
-"Text title" = "dhanvantarIstotram 3"
-"File name" = "dhanvantarIstotram.itx"
-itxtitle = "dhanvantaristotram 3 (shaNkhaM chakraM jalaukAM)"
-engtitle = "Dhanvantaristotra 3"
-Category = "vishhnu, stotra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Latest update" = "November 3, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धन्वन्तरिस्तोत्रम् ३ (शण्खं चक्रं जलौकां)"
+---
+Category: vishhnu, stotra
+File name: dhanvantarIstotram.itx
+Language: Sanskrit
+Latest update: November 3, 2018
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dhanvantarIstotram 3
+Texttype: stotra
+engtitle: Dhanvantaristotra 3
+itxtitle: dhanvantaristotram 3 (shaNkhaM chakraM jalaukAM)
+title: धन्वन्तरिस्तोत्रम् ३ (शण्खं चक्रं जलौकां)
 
-+++
+---
   
  धन्वन्तरिस्तोत्रम् ३   
   

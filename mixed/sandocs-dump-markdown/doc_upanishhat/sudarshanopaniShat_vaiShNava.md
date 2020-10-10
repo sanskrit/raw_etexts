@@ -1,22 +1,22 @@
-+++
-"Text title" = "sudarshanopaniShat"
-"File name" = "sudarshanopaniShat.itx"
-itxtitle = "sudarshanopaniShat (vaiShNava)"
-engtitle = "sudarshanopaniShat"
-Category = "upanishhat, vishhnu, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Kasturi navya sahiti kasturinsahiti at gmail.com"
-Description-comments = "aprakAshitA upaniShadaH"
-Indexextra = "(Scanned Book)"
-"Latest update" = "March 20, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुदर्शनोपनिषत् (वैष्णव)"
+---
+Category: upanishhat, vishhnu, upanishad
+Description-comments: aprakAshitA upaniShadaH
+File name: sudarshanopaniShat.itx
+Indexextra: (Scanned Book)
+Language: Sanskrit
+Latest update: March 20, 2020
+Location: doc_upanishhat
+Proofread by: Kasturi navya sahiti kasturinsahiti at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: sudarshanopaniShat
+engtitle: sudarshanopaniShat
+itxtitle: sudarshanopaniShat (vaiShNava)
+title: सुदर्शनोपनिषत् (वैष्णव)
 
-+++
+---
   
  सुदर्शनोपनिषत्   
 यज्ञोपवीती धृतचक्रधारी यो ब्राह्मणो ब्रह्मविद्ब्रह्मविदां मनीषी  

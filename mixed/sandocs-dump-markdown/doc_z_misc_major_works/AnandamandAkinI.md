@@ -1,23 +1,23 @@
-+++
-"Text title" = "AnandamandAkinI"
-"File name" = "AnandamandAkinI.itx"
-itxtitle = "AnandamandAkinI"
-engtitle = "AnandamandAkinI"
-Category = "shataka, major_works, madhusUdanasarasvatI"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Madhusudana Sarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "A unique devotional poem by an Advaita philosopher"
-"Latest update" = "January 31, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आनन्दमन्दाकिनी"
+---
+Author: Madhusudana Sarasvati
+Category: shataka, major_works, madhusUdanasarasvatI
+Description/comments: A unique devotional poem by an Advaita philosopher
+File name: AnandamandAkinI.itx
+Language: Sanskrit
+Latest update: January 31, 2015
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: AnandamandAkinI
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: AnandamandAkinI
+itxtitle: AnandamandAkinI
+title: आनन्दमन्दाकिनी
 
-+++
+---
   
  आनन्दमन्दाकिनी   
       श्रीमधुसूदनसरस्वतीविरचिता  
@@ -282,7 +282,7 @@ title = "आनन्दमन्दाकिनी"
 यच्च ब्रह्मशिवेन्द्रवन्दितपदद्वन्द्वोपरि द्योतते   
 तत्कृष्णस्य पदाङ्गदद्वयमतः किं वर्ण्यतां मादृशैः ॥ ५२॥  
   
-शेते यत्कमलालया तव पदाम्भोजद्वये संगता   
+शेते यत्कमलालया तव पदाम्भोजद्वये सङ्गता   
      धाता तत्र तनूपधान्युगलं गुल्फच्छलान्निर्ममे ।  
 किं वा मन्मथकारुणा विरचिते तस्या मुदे कन्दुके   
      सा यत्क्रीडति पाणिपङ्कजतले कृत्वा सखीभिः सह ॥ ५३॥  

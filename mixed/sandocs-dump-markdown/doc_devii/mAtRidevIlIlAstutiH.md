@@ -1,22 +1,22 @@
-+++
-"Text title" = "Matridevi Lila Stuti"
-"File name" = "mAtRRidevIlIlAstutiH.itx"
-itxtitle = "mAtRidevIlIlAstutiH"
-engtitle = "mAtRRidevIlIlAstutiH"
-Category = "devii, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "September 29, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातृइदेवीलीलास्तुतिः"
+---
+Category: devii, otherforms, devI
+File name: mAtRRidevIlIlAstutiH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 29, 2019
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Matridevi Lila Stuti
+engtitle: mAtRRidevIlIlAstutiH
+itxtitle: mAtRidevIlIlAstutiH
+title: मातृइदेवीलीलास्तुतिः
 
-+++
+---
   
  मातृदेवीलीलास्तुतिः   
 ॐ सदा व्रतैः सतां गतैः सुशास्त्रमार्गवेदितै-  
@@ -60,9 +60,9 @@ Footnote
        ११ अष्टाधिकदशभुजैः ।  
        १२ अमादिदेवीसप्तकेन वृतं शारिकात्म यत् ।  
        १३ काश्मीरे प्रसिद्धज्वालापर्वतगम् । १४ ज्वालादेवी नामकं यत् ।  
-       १५ सरसां मध्ये कश्मीरे तु ``तुलमुल'' इति संज्ञके  
+       १५ सरसां मध्ये कश्मीरे तु ``तुलमुल'' इति सञ्ज्ञके  
        ग्रामेऽनेकनागानां मध्ये प्रसिद्धम् । १६ श्रीमहाराज्ञीनागस्थितम् ।  
-       १७ जलान्तर्विविधरूपप्रकाशकं राज्ञीसंज्ञकं यत् ।  
+       १७ जलान्तर्विविधरूपप्रकाशकं राज्ञीसञ्ज्ञकं यत् ।  
   
 निलिम्पपञ्चम(१)ञ्चगं सुनीलभं त्रिलोचनं  
      त्रिपूर्षु सुन्दरं सुरारिघातकं भयापहम् ।  

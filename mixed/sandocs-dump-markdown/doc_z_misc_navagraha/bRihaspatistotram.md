@@ -1,24 +1,24 @@
-+++
-"Text title" = "brihaspatistotram"
-"File name" = "brihaspatistotram.itx"
-itxtitle = "bRihaspatistotram"
-engtitle = "bRihaspatistotram"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "skandapurANa"
-"Latest update" = "December 29, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बृइहस्पतिस्तोत्रम्"
+---
+Author: Traditional
+Category: navagraha, stotra
+Description-comments: skandapurANa
+File name: brihaspatistotram.itx
+Language: Sanskrit
+Latest update: December 29, 2004
+Location: doc_z_misc_navagraha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: brihaspatistotram
+Texttype: stotra
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: bRihaspatistotram
+itxtitle: bRihaspatistotram
+title: बृइहस्पतिस्तोत्रम्
 
-+++
+---
   
  बृहस्पतिस्तोत्रम्   
   

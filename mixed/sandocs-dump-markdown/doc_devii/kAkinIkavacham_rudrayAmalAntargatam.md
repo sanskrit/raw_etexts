@@ -1,26 +1,26 @@
-+++
-"Text title" = "Kakini Kavacham"
-"File name" = "kAkinIkavacham.itx"
-itxtitle = "kAkinIkavacham (rudrayAmalAntargatam)"
-engtitle = "kAkinIkavacham"
-Category = "devii, ShaTchakrashakti, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "काकिनीकवचम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: devii, ShaTchakrashakti, kavacha, devI
+Description/comments: rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde
+File name: kAkinIkavacham.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_devii
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kakini Kavacham
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: kAkinIkavacham
+itxtitle: kAkinIkavacham (rudrayAmalAntargatam)
+title: काकिनीकवचम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  काकिनीकवचम्   
 अथ षष्ठसप्ततितमः पटलः  
@@ -58,7 +58,7 @@ title = "काकिनीकवचम् (रुद्रयामलान्
 चपला चञ्चला भीमा चन्द्रदेवी परापरा ।  
 कमलाक्षी देवमाता खड्गकपालधारिणी ॥ ७६-११॥  
   
-गुर्वी गौरी घनच्छाया ओंङ्काराद्या चरुप्रिया ।  
+गुर्वी गौरी घनच्छाया ओङ्ङ्काराद्या चरुप्रिया ।  
 छाया जया चाञ्जना च ओङ्कारात्मा कलावती ॥ ७६-१२॥  
   
 टङ्कारिणी डाकिनी च टक्कादेवी रुणप्रिया ।  

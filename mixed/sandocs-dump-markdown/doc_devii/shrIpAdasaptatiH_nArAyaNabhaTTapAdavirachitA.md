@@ -1,23 +1,24 @@
-+++
-"Text title" = "nArAyaNabhaTTapAdavirachitA shrIpAdasaptatiH"
-"File name" = "shrIpAdasaptati.itx"
-itxtitle = "shrIpAdasaptatiH (nArAyaNabhaTTapAdavirachitA)"
-engtitle = "shrIpAdasaptati by shrInArAyaNabhaTTa"
-Category = "devii, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ramu, Ramesh Natarajan, Shibin PK, Sugesh, Achari, Rajmohan, Ranjana, Jayati, Shankara"
-"Proofread by" = "Shankara shankara_2000 at yahoo.com , PSA Easwaran"
-Indexextra = "(sri-narayana-guru)"
-"Latest update" = "August 13, 2011, June 14, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीपादसप्ततिः (नारायणभट्टपादविरचिता)"
+---
+Category: devii, stotra, devI
+File name: shrIpAdasaptati.itx
+Indexextra: (sri-narayana-guru)
+Language: Sanskrit
+Latest update: August 13, 2011, June 14, 2015
+Location: doc_devii
+Proofread by: Shankara shankara_2000 at yahoo.com , PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: nArAyaNabhaTTapAdavirachitA shrIpAdasaptatiH
+Texttype: stotra
+Transliterated by: Ramu, Ramesh Natarajan, Shibin PK, Sugesh, Achari, Rajmohan, Ranjana,
+  Jayati, Shankara
+engtitle: shrIpAdasaptati by shrInArAyaNabhaTTa
+itxtitle: shrIpAdasaptatiH (nArAyaNabhaTTapAdavirachitA)
+title: श्रीपादसप्ततिः (नारायणभट्टपादविरचिता)
 
-+++
+---
   
  श्रीनारायणभट्टपादविरचिता श्रीपादसप्ततिः   
   

@@ -1,24 +1,24 @@
-+++
-"Text title" = "bhajayatirAjam"
-"File name" = "bhajayatirAjam.itx"
-itxtitle = "yatirAjastotram"
-engtitle = "Bhaja Yatirajam"
-Category = "deities_misc, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Translated by" = "http://antaryami.net/darpanam/2013/05/12/bhaja-yathiraja-sthothram/"
-Description-comments = "Ramanuja Sampradaya"
-Indexextra = "(Prayer to Shri Ramanujacharya, advice)"
-"Latest update" = "September 16, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "यतिराजस्तोत्रम्"
+---
+Category: deities_misc, stotra
+Description-comments: Ramanuja Sampradaya
+File name: bhajayatirAjam.itx
+Indexextra: (Prayer to Shri Ramanujacharya, advice)
+Language: Sanskrit
+Latest update: September 16, 2013
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: bhajayatirAjam
+Texttype: stotra
+Translated by: http://antaryami.net/darpanam/2013/05/12/bhaja-yathiraja-sthothram/
+engtitle: Bhaja Yatirajam
+itxtitle: yatirAjastotram
+title: यतिराजस्तोत्रम्
 
-+++
+---
   
  भज यतिराजम्   
   
@@ -40,7 +40,7 @@ title = "यतिराजस्तोत्रम्"
 वचसि विरक्तिः श्रुतिपरिवाहः मनसि हितस्त्वपरोऽपि विवाहः ॥ ७॥ भज यतिराजं ...  
 कलुषनिकायं ललनाकायं पश्यन्मुह्यसि सायं सायम् ।  
 जहि जहि हेयं तद्व्यवसायं स्मर निरपायं चरमोपायम् ॥ ८॥ भज यतिराजं ...  
-रात्रिंदिवमपि भिक्षाचर्या कलहायैवागच्छति भार्या ।  
+रात्रिन्दिवमपि भिक्षाचर्या कलहायैवागच्छति भार्या ।  
 मध्ये बान्धवसेवा कार्या कथय कदा तव देवसपर्या ॥ ९॥ भज यतिराजं ...  
 अन्धं नयनं भूमौ शयनं मन्दं वचनं मलिनं वदनम् ।  
 तस्मिन् काले गोप्तुं सदनं वाञ्छसि दत्ततनूजानयनम् ॥ १०॥ भज यतिराजं ...  

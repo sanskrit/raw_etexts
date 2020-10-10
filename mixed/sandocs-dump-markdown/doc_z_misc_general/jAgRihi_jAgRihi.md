@@ -1,26 +1,26 @@
-+++
-"Text title" = "shlokAH"
-"File name" = "jaagrihi.itx"
-itxtitle = "jAgRihi jAgRihi"
-engtitle = "Awaken Awaken"
-Category = "vedanta, misc, sahitya, advice"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Subcategory = "sahitya"
-Texttype = "advice"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA from cassette"
-"Proofread by" = "Avinash Sathaye"
-"Translated by" = "Kesava Rao Tadipatri ktadipatri@dvaita.net and Swami Vimohananda"
-Description-comments = "Alternatively @@http://www.joshifamily.net/jagruhijagruhi...@@"
-"Latest update" = "February 17, 2004, February 25, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जागृइहि जागृइहि"
+---
+Author: Traditional
+Category: vedanta, misc, sahitya, advice
+Description-comments: Alternatively @@http://www.joshifamily.net/jagruhijagruhi...@@
+File name: jaagrihi.itx
+Language: Sanskrit
+Latest update: February 17, 2004, February 25, 2012
+Location: doc_z_misc_general
+Proofread by: Avinash Sathaye
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: shlokAH
+Texttype: advice
+Translated by: Kesava Rao Tadipatri ktadipatri@dvaita.net and Swami Vimohananda
+Transliterated by: NA from cassette
+engtitle: Awaken Awaken
+itxtitle: jAgRihi jAgRihi
+title: जागृइहि जागृइहि
 
-+++
+---
   
  तस्मात् जागृहि जागृहि   
   
@@ -28,12 +28,12 @@ title = "जागृइहि जागृइहि"
    आयुःक्षयं न जानाति तस्मात् जागृहि जागृहि ॥  
   
    जन्मदुःखं जरादुःखं जायादुःखं पुनः पुनः ।  
-   अंतकाले महादुःखं तस्मात् जागृहि जागृहि ॥  
+   अन्तकाले महादुःखं तस्मात् जागृहि जागृहि ॥  
   
    कामक्रोधौ लोभमोहौ देहे तिष्ठन्ति तस्कराः ।  
    ज्ञानरत्नापहाराय तस्मात् जागृहि जागृहि ॥  
   
-   ऐश्वर्यं स्वप्नसंकाशं यौवनं कुसुमोपमम् ।  
+   ऐश्वर्यं स्वप्नसङ्काशं यौवनं कुसुमोपमम् ।  
    क्षणिकं जलमायुश्च तस्मात् जागृहि जागृहि ॥  
   
   
@@ -82,7 +82,7 @@ a wake up call for the awareness of
 a Sannyasin and its suitableness for a householder is doubtful.  
 माता नास्ति पिता नास्ति नास्ति बन्धुः सहोदरः ।  
 संसारे किमपि नास्ति तस्मात् जागृहि जागृहि ॥   
-(variation  नास्ति किंचिद्धि संसारे तस्मात् जागृहि जागृहि ॥)  
+(variation  नास्ति किञ्चिद्धि संसारे तस्मात् जागृहि जागृहि ॥)  
 माता पिता च पुत्राश्च स्त्रीसहोदरबान्धवाः ।  
 स्वार्थसम्बन्धिनः सर्वे तस्मात् जागृहि जागृहि ॥  
   

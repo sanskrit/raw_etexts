@@ -1,27 +1,28 @@
-+++
-"Text title" = "svayaMbhagavattvAShTakam"
-"File name" = "svayaMbhagavattvAShTakam.itx"
-itxtitle = "svayaMbhagavattvAShTakam (vishvanAthachakravartin Thakkuravirachitam)"
-engtitle = "svayaMbhagavattvAShTakam by vishvanAthachakravartin"
-Category = "vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वयंभगवत्त्वाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: vishhnu, krishna, aShTaka, vishvanAthachakravartina, stavAmRRitalaharI
+File name: svayaMbhagavattvAShTakam.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_vishhnu
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: svayaMbhagavattvAShTakam
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: svayaMbhagavattvAShTakam by vishvanAthachakravartin
+itxtitle: svayaMbhagavattvAShTakam (vishvanAthachakravartin Thakkuravirachitam)
+title: स्वयंभगवत्त्वाष्टकम् (विश्वनाथचक्रवर्तिन् ठक्कुरविरचितम्)
 
-+++
+---
   
- श्रीस्वयंभगवत्त्वाष्टकम्   
+ श्रीस्वयम्भगवत्त्वाष्टकम्   
 स्वजन्मन्यैश्वर्यं बलमिह वधे दैत्यवितते-  
      र्यशः पार्थत्राणे यदुपुरि महासम्पदमधात् ।  
 परं ज्ञानं जिष्णौ मुषलमनु वैराग्यमनु यो  
@@ -58,7 +59,7 @@ title = "स्वयंभगवत्त्वाष्टकम् (विश
      स्ववैराग्यैः पूर्णः स भवतु मुदे नन्दतनयः ॥ ७॥  
   
 अजत्वं जन्मित्वं रतिररतितेहारहितता  
-     सलीलत्वं व्याप्तिः परिमितिरहंताममतयोः ।  
+     सलीलत्वं व्याप्तिः परिमितिरहन्ताममतयोः ।  
 पदे त्यागात्यागावुभयमपि नित्यं सदुररी  
      करोतीशः पूर्णः स भवतु मुदे नन्दतनयः ॥ ८॥  
   
@@ -68,7 +69,7 @@ title = "स्वयंभगवत्त्वाष्टकम् (विश
      लभेतासौ तस्य प्रियपरिजनानुग्यपदवीम् ॥ ९॥  
   
 इति श्रीविश्वनाथचक्रवर्तिठक्कुरविरचितस्तवामृतलहर्यां  
-           श्रीश्रीस्वयंभगवत्त्वाष्टकं सम्पूर्णम् ।  
+           श्रीश्रीस्वयम्भगवत्त्वाष्टकं सम्पूर्णम् ।  
   
   
   

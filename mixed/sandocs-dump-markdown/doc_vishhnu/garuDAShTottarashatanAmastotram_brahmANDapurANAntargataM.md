@@ -1,23 +1,23 @@
-+++
-"Text title" = "garuDAShTottarashatanAmastotram"
-"File name" = "garuDAShTottarashatanAmastotram.itx"
-itxtitle = "garuDAShTottarashatanAmastotram (brahmANDapurANAntargataM)"
-engtitle = "garuDAShTottarashatanAmastotram"
-Category = "vishhnu, aShTottarashatanAma, deities_misc"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "April 12, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गरुडाष्टोत्तरशतनामस्तोत्रम् (ब्रह्माण्डपुराणान्तर्गतं)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, aShTottarashatanAma, deities_misc
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: garuDAShTottarashatanAmastotram.itx
+Indexextra: (VSM 2)
+Language: Sanskrit
+Latest update: April 12, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: garuDAShTottarashatanAmastotram
+engtitle: garuDAShTottarashatanAmastotram
+itxtitle: garuDAShTottarashatanAmastotram (brahmANDapurANAntargataM)
+title: गरुडाष्टोत्तरशतनामस्तोत्रम् (ब्रह्माण्डपुराणान्तर्गतं)
 
-+++
+---
   
  श्रीगरुडाष्टोत्तरशतनामस्तोत्रम्   
   

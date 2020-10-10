@@ -1,21 +1,21 @@
-+++
-"Text title" = "padmAvatIstotram 3"
-"File name" = "padmAvatIstotram3.itx"
-itxtitle = "padmAvatIstotram 3 (jaya jaya jagadAnandadAyini)"
-engtitle = "padmAvatIstotram 3"
-Category = "devii, devI, jaina"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 30, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पद्मावतीस्तोत्रम् ३ (जय जय जगदानन्ददायिनि)"
+---
+Category: devii, devI, jaina
+File name: padmAvatIstotram3.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 30, 2019
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: padmAvatIstotram 3
+engtitle: padmAvatIstotram 3
+itxtitle: padmAvatIstotram 3 (jaya jaya jagadAnandadAyini)
+title: पद्मावतीस्तोत्रम् ३ (जय जय जगदानन्ददायिनि)
 
-+++
+---
   
  श्रीपद्मावतीस्तोत्रम् ३   
 जय जय जगदानन्ददायिनि !  जय जय धरणेन्द्रवलभे !  सुभगे !  

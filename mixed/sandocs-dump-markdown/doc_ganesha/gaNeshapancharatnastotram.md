@@ -1,23 +1,23 @@
-+++
-"Text title" = "gaNeshapaMcharatnastotram"
-"File name" = "ganesha5.itx"
-itxtitle = "gaNeshapancharatnastotram"
-engtitle = "gaNeshapancharatnastotram"
-Category = "pancharatna, ganesha, shankarAchArya"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "shankarAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "M giridhar"
-"Proofread by" = "Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)"
-Description-comments = "mudgalapurANa"
-"Latest update" = "February 5, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशपञ्चरत्नस्तोत्रम्"
+---
+Author: shankarAchArya
+Category: pancharatna, ganesha, shankarAchArya
+Description-comments: mudgalapurANa
+File name: ganesha5.itx
+Language: Sanskrit
+Latest update: February 5, 2005
+Location: doc_ganesha
+Proofread by: Karthik Chandan.P, Amith K Nagaraj (amithkn at rediffmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: gaNeshapaMcharatnastotram
+Transliterated by: M giridhar
+engtitle: gaNeshapancharatnastotram
+itxtitle: gaNeshapancharatnastotram
+title: गणेशपञ्चरत्नस्तोत्रम्
 
-+++
+---
   
  श्रीगणेशपञ्चरत्नस्तोत्रम्   
   

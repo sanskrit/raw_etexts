@@ -1,26 +1,26 @@
-+++
-"Text title" = "reNukAstotraM shrIdharasvAmikRitaM"
-"File name" = "reNukAstotramshrIdharasvAmi.itx"
-itxtitle = "reNukAstotram (shrIdharasvAmikRitam)"
-engtitle = "Renuka Stotram by Shridhara Swami"
-Category = "devii, reNukA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "reNukA"
-Texttype = "stotra"
-Author = "Shridhar Swami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Proofread by" = "Kaushal S. Kaloo kaushalskaloo at gmail.com"
-"Translated by" = "http://ioustotra.blogspot.com/2010/10/shri-renuka-stotram.html"
-Indexextra = "(Shridhar Swami)"
-"Latest update" = "June 30, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रेणुकास्तोत्रम् (श्रीधरस्वामिकृइतम्)"
+---
+Author: Shridhar Swami
+Category: devii, reNukA, stotra, devI
+File name: reNukAstotramshrIdharasvAmi.itx
+Indexextra: (Shridhar Swami)
+Language: Sanskrit
+Latest update: June 30, 2013
+Location: doc_devii
+Proofread by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: reNukA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: reNukAstotraM shrIdharasvAmikRitaM
+Texttype: stotra
+Translated by: http://ioustotra.blogspot.com/2010/10/shri-renuka-stotram.html
+Transliterated by: Kaushal S. Kaloo kaushalskaloo at gmail.com
+engtitle: Renuka Stotram by Shridhara Swami
+itxtitle: reNukAstotram (shrIdharasvAmikRitam)
+title: रेणुकास्तोत्रम् (श्रीधरस्वामिकृइतम्)
 
-+++
+---
   
  रेणुकास्तोत्रं श्रीधरस्वामिकृतम्   
   

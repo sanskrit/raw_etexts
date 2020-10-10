@@ -1,22 +1,22 @@
-+++
-"Text title" = "ajagaragItA"
-"File name" = "ajagaragItA.itx"
-itxtitle = "ajagaragItA"
-engtitle = "ajagaragItA"
-Category = "gItA, giitaa"
-Location = "doc_giitaa"
-Sublocation = "giitaa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "adhyAya 179/177"
-Source = "Mahabharata, Shantiparva, Mokshadharmaparva, prahlAdaajagara saMvAda"
-Indexextra = "(Scanned)"
-"Latest update" = "September 15, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अजगरगीता"
+---
+Category: gItA, giitaa
+Description-comments: adhyAya 179/177
+File name: ajagaragItA.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: September 15, 2017
+Location: doc_giitaa
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Mahabharata, Shantiparva, Mokshadharmaparva, prahlAdaajagara saMvAda
+Subject: philosophy/hinduism/religion
+Sublocation: giitaa
+Text title: ajagaragItA
+engtitle: ajagaragItA
+itxtitle: ajagaragItA
+title: अजगरगीता
 
-+++
+---
   
  अजगरगीता   
   

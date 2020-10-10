@@ -1,24 +1,24 @@
-+++
-"Text title" = "ashvinIkumArastotram"
-"File name" = "ashvinIkumArastotram.itx"
-itxtitle = "ashvinIkumArastotram (mahAbhArata AdiparvAntargatam)"
-engtitle = "ashvinIkumArastotram"
-Category = "deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-Source = "mahAbhArata Adiparva"
-"Latest update" = "June 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अश्विनीकुमारस्तोत्रम् (महाभारत आदिपर्वान्तर्गतम्)"
+---
+Author: Traditional
+Category: deities_misc
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: ashvinIkumArastotram.itx
+Language: Sanskrit
+Latest update: June 5, 2016
+Location: doc_deities_misc
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: mahAbhArata Adiparva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: ashvinIkumArastotram
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: ashvinIkumArastotram
+itxtitle: ashvinIkumArastotram (mahAbhArata AdiparvAntargatam)
+title: अश्विनीकुमारस्तोत्रम् (महाभारत आदिपर्वान्तर्गतम्)
 
-+++
+---
   
  अश्विनीकुमारस्तोत्रम्   
 श्रीगणेशाय नमः ।  

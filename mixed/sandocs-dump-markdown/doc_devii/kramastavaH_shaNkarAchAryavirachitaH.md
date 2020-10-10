@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shrimat KramastavaH"
-"File name" = "shrImatkramastavaH.itx"
-itxtitle = "kramastavaH ((shaNkarAchAryavirachitaH)"
-engtitle = "shrImatkramastavaH"
-Category = "devii, ShaTchakrashakti, devI, shankarAchArya"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "ShaTchakrashakti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Scan)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "क्रमस्तवः ((शण्कराचार्यविरचितः)"
+---
+Category: devii, ShaTchakrashakti, devI, shankarAchArya
+File name: shrImatkramastavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+SubDeity: ShaTchakrashakti
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shrimat KramastavaH
+engtitle: shrImatkramastavaH
+itxtitle: kramastavaH ((shaNkarAchAryavirachitaH)
+title: क्रमस्तवः ((शण्कराचार्यविरचितः)
 
-+++
+---
   
  श्रीमत्क्रमस्तवः   
 रत्नामृताम्बुनिधिमध्यलसत्प्रवाल-  

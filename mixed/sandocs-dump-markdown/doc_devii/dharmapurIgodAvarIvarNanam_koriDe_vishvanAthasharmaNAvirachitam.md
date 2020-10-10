@@ -1,23 +1,23 @@
-+++
-"Text title" = "Verses praising Sacred Dharmapuri and Godavari"
-"File name" = "dharmapurIgodAvarIvarNanam.itx"
-itxtitle = "dharmapurIgodAvarIvarNanam (koriDe vishvanAthasharmaNAvirachitam)"
-engtitle = "dharmapurIgodAvarIvarNanam"
-Category = "devii, koriDevishvanAthasharmA, nadI, devI"
-Location = "doc_devii"
-Author = "koriDe vishvanAthasharmA, dharmapurI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "koriDe vishvanAthasharmA"
-"Proofread by" = "koriDe vishvanAthasharmA"
-Indexextra = "(blog)"
-Acknowledge-Permission = "Koride Vishwanatha Sharma"
-"Latest update" = "February 19, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धर्मपुरीगोदावरीवर्णनम् (कोरिडे विश्वनाथशर्मणाविरचितम्)"
+---
+Acknowledge-Permission: Koride Vishwanatha Sharma
+Author: koriDe vishvanAthasharmA, dharmapurI
+Category: devii, koriDevishvanAthasharmA, nadI, devI
+File name: dharmapurIgodAvarIvarNanam.itx
+Indexextra: (blog)
+Language: Sanskrit
+Latest update: February 19, 2018
+Location: doc_devii
+Proofread by: koriDe vishvanAthasharmA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Text title: Verses praising Sacred Dharmapuri and Godavari
+Transliterated by: koriDe vishvanAthasharmA
+engtitle: dharmapurIgodAvarIvarNanam
+itxtitle: dharmapurIgodAvarIvarNanam (koriDe vishvanAthasharmaNAvirachitam)
+title: धर्मपुरीगोदावरीवर्णनम् (कोरिडे विश्वनाथशर्मणाविरचितम्)
 
-+++
+---
   
  धर्मपुरी गोदावरी वर्णनम्   
 कोरिडे विश्वनाथ शर्मा संस्कृतोपन्यासकः  

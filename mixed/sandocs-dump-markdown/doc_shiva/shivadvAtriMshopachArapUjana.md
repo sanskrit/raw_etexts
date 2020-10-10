@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shiva Puja with 32 parts"
-"File name" = "shivadvAtriMshopachArapUjana.itx"
-itxtitle = "shivadvAtriMshopachArapUjana"
-engtitle = "shivadvAtriMshopachArapUjana"
-Category = "shiva, pUjA"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "svara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "August 4, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवद्वात्रिंशोपचारपूजन"
+---
+Category: shiva, pUjA
+File name: shivadvAtriMshopachArapUjana.itx
+Language: Sanskrit
+Latest update: August 4, 2019
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shiva Puja with 32 parts
+Texttype: svara
+engtitle: shivadvAtriMshopachArapUjana
+itxtitle: shivadvAtriMshopachArapUjana
+title: शिवद्वात्रिंशोपचारपूजन
 
-+++
+---
   
  शिवद्वास्त्रिंशोपचारपूजन   
 १ ध्यानम् --  
@@ -139,7 +139,7 @@ title = "शिवद्वात्रिंशोपचारपूजन"
   
 १९ अक्षतान् --  
 श्वेतेरखण्डित-मनोहर शालीबीजैः  
-     संक्षालितैः शुचिजलैश्च सुगन्धिमिश्रैः ।  
+     सङ्क्षालितैः शुचिजलैश्च सुगन्धिमिश्रैः ।  
 त्वामर्चयामि भगवन् मनसा महेशं  
      गौरीपते मयि निधेहि कृपाकटाक्ष ॥  
   

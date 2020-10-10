@@ -1,22 +1,22 @@
-+++
-"Text title" = "Desho Dadati Nah Sarvasvam"
-"File name" = "deshodadAtinaHsarvasvam.itx"
-itxtitle = "desho dadAti naH sarvasvam"
-engtitle = "desho dadAti naH sarvasvam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Volunteers at Bharat Vikas Parishad https://bvpindia.com"
-Indexextra = "(Text, BVP Intro)"
-Acknowledge-Permission = "Bharat Vikas Parishad https://bvpindia.com Atam Dev"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देशो ददाति नः सर्वस्वम्"
+---
+Acknowledge-Permission: Bharat Vikas Parishad https://bvpindia.com Atam Dev
+Category: misc, sanskritgeet
+File name: deshodadAtinaHsarvasvam.itx
+Indexextra: (Text, BVP Intro)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Desho Dadati Nah Sarvasvam
+Transliterated by: Volunteers at Bharat Vikas Parishad https://bvpindia.com
+engtitle: desho dadAti naH sarvasvam
+itxtitle: desho dadAti naH sarvasvam
+title: देशो ददाति नः सर्वस्वम्
 
-+++
+---
   
  देशो ददाति नः सर्वस्वम्   
 देशो ददाति नः सर्वस्वम् ।  

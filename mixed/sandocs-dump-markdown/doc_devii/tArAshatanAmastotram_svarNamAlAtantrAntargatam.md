@@ -1,24 +1,24 @@
-+++
-"Text title" = "tArAshatanAmastotram"
-"File name" = "tArAshatanAmastotram.itx"
-itxtitle = "tArAshatanAmastotram (svarNamAlAtantrAntargatam)"
-engtitle = "tArAshatanAmastotram"
-Category = "aShTottarashatanAma, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "svarNamAlAtantra"
-Indexextra = "(stotramanjari 1)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ताराशतनामस्तोत्रम् (स्वर्णमालातन्त्रान्तर्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: aShTottarashatanAma, devii, devI
+Description/comments: svarNamAlAtantra
+File name: tArAshatanAmastotram.itx
+Indexextra: (stotramanjari 1)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tArAshatanAmastotram
+Transliterated by: Shree Devi Kumar
+engtitle: tArAshatanAmastotram
+itxtitle: tArAshatanAmastotram (svarNamAlAtantrAntargatam)
+title: ताराशतनामस्तोत्रम् (स्वर्णमालातन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीताराशतनामस्तोत्रम्   
   

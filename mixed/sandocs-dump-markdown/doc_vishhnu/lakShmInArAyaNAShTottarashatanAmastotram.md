@@ -1,21 +1,21 @@
-+++
-"Text title" = "Lakshminarayana Ashtottarashata Nama Stotram"
-"File name" = "lakShmInArAyaNAShTottarashatanAmastotram.itx"
-itxtitle = "lakShmInArAyaNAShTottarashatanAmastotram"
-engtitle = "lakShmInArAyaNAShTottarashatanAmastotram"
-Category = "vishhnu, aShTottarashatanAma"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Karthik Raman karthik.raman at gmail.com"
-"Proofread by" = "Karthik Raman karthik.raman at gmail.com"
-"Latest update" = "December 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनारायणाष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: vishhnu, aShTottarashatanAma
+File name: lakShmInArAyaNAShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: December 24, 2018
+Location: doc_vishhnu
+Proofread by: Karthik Raman karthik.raman at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Lakshminarayana Ashtottarashata Nama Stotram
+Transliterated by: Karthik Raman karthik.raman at gmail.com
+engtitle: lakShmInArAyaNAShTottarashatanAmastotram
+itxtitle: lakShmInArAyaNAShTottarashatanAmastotram
+title: लक्ष्मीनारायणाष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीलक्ष्मीनारायणाष्टोत्तरशतनामस्तोत्रम्   
 श्रीर्विष्णुः कमला शार्ङ्गी लक्ष्मीर्वैकुण्ठनायकः ।  

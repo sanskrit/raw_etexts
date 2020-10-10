@@ -1,22 +1,22 @@
-+++
-"Text title" = "ekAkSharakRRiShNamantram"
-"File name" = "ekAkSharakRRiShNamantram.itx"
-itxtitle = "ekAkSharakRRiShNamantram"
-engtitle = "ekAkSharakRRiShNamantram"
-Category = "vishhnu, krishna, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras"
-"Latest update" = "May 5, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकाक्षरकृष्णमन्त्रम्"
+---
+Category: vishhnu, krishna, vishnu
+Description/comments: shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras
+File name: ekAkSharakRRiShNamantram.itx
+Language: Sanskrit
+Latest update: May 5, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ekAkSharakRRiShNamantram
+engtitle: ekAkSharakRRiShNamantram
+itxtitle: ekAkSharakRRiShNamantram
+title: एकाक्षरकृष्णमन्त्रम्
 
-+++
+---
   
  एकाक्षरकृष्णमन्त्रम्   
   

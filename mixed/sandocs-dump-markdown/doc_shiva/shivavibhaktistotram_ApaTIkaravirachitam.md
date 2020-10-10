@@ -1,26 +1,27 @@
-+++
-"Text title" = "Shivavibhakti Stotram"
-"File name" = "shivavibhaktistotram.itx"
-itxtitle = "shivavibhaktistotram (ApaTIkaravirachitam)"
-engtitle = "shivavibhaktistotram"
-Category = "shiva, ApaTIkara"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "ma. sa. ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवविभक्तिस्तोत्रम् (आपटीकरविरचितम्)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma. sa. ApaTIkara
+Category: shiva, ApaTIkara
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: shivavibhaktistotram.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_shiva
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shivavibhakti Stotram
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: shivavibhaktistotram
+itxtitle: shivavibhaktistotram (ApaTIkaravirachitam)
+title: शिवविभक्तिस्तोत्रम् (आपटीकरविरचितम्)
 
-+++
+---
   
  श्रीशिवविभक्तिस्तोत्रम्   
      (स्रग्विणी)  

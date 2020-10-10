@@ -1,24 +1,24 @@
-+++
-"Text title" = "vallabhabhAvAShTakam"
-"File name" = "vallabhabhAvAShTakam.itx"
-itxtitle = "vallabhabhAvAShTakam (haridAsoktam)"
-engtitle = "vallabhabhAvAShTakam"
-Category = "deities_misc, gurudev, puShTimArgIya, aShTaka, haridAsa"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "haridAsa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्लभभावाष्टकम् (हरिदासोक्तम्)"
+---
+Author: haridAsa
+Category: deities_misc, gurudev, puShTimArgIya, aShTaka, haridAsa
+Description/comments: puShTimArgIya stotraratnAkara
+File name: vallabhabhAvAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vallabhabhAvAShTakam
+engtitle: vallabhabhAvAShTakam
+itxtitle: vallabhabhAvAShTakam (haridAsoktam)
+title: वल्लभभावाष्टकम् (हरिदासोक्तम्)
 
-+++
+---
   
  वल्लभभावाष्टकम्   
   

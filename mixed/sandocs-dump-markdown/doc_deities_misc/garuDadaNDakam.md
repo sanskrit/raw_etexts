@@ -1,23 +1,23 @@
-+++
-"Text title" = "garuDadaNDakam"
-"File name" = "garuDadaNDaka.itx"
-itxtitle = "garuDadaNDakam"
-engtitle = "garuDadaNDakam"
-Category = "daNDaka, deities_misc, stotra, vedAnta-deshika, vishhnu"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Author = "vedAntadeshikA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Prasanna Vijay pvsvr84 at gmail.com"
-"Proofread by" = "Prasanna Vijay pvsvr84 at gmail.com"
-"Latest update" = "December 1, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गरुडदण्डकम्"
+---
+Author: vedAntadeshikA
+Category: daNDaka, deities_misc, stotra, vedAnta-deshika, vishhnu
+File name: garuDadaNDaka.itx
+Language: Sanskrit
+Latest update: December 1, 2012
+Location: doc_deities_misc
+Proofread by: Prasanna Vijay pvsvr84 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: garuDadaNDakam
+Texttype: stotra
+Transliterated by: Prasanna Vijay pvsvr84 at gmail.com
+engtitle: garuDadaNDakam
+itxtitle: garuDadaNDakam
+title: गरुडदण्डकम्
 
-+++
+---
   
  श्रीगरुडदण्दकम्   
   
@@ -40,7 +40,7 @@ title = "गरुडदण्डकम्"
 समस्ते नमस्ते पुनस्ते नमः ॥ ३॥  
   
 नम इदमजहत्सपर्याय पर्यायनिर्यातपक्षानिलास्फालनोद्वेलपाथोधि  
-वीचीचपेटाहतागाधपाताळभाङ्कारसंक्रुद्धनागेन्द्रपीडासृणीभावभास्वन्नखश्रेणये  
+वीचीचपेटाहतागाधपाताळभाङ्कारसङ्क्रुद्धनागेन्द्रपीडासृणीभावभास्वन्नखश्रेणये  
 चण्डतुण्डाय नृत्यद्भुजङ्गभ्रुवे वज्रिणे दंष्ट्रय तुभ्यमध्यात्मविद्या  
 विधेया विधेया भवद्दास्यमापादयेथा दयेथाश्च मे ॥ ४॥  
   

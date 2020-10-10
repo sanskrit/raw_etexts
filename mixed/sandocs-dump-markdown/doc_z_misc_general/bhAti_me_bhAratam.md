@@ -1,23 +1,23 @@
-+++
-"Text title" = "Bhati Me Bharatam"
-"File name" = "bhAtimebhAratam.itx"
-itxtitle = "bhAti me bhAratam"
-engtitle = "bhAti me bhAratam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dr. ramAkAnta shukla"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Volunteers at Bharat Vikas Parishad https://bvpindia.com"
-Indexextra = "(Text, BVP Intro)"
-Acknowledge-Permission = "Bharat Vikas Parishad https://bvpindia.com Atam Dev"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भाति मे भारतम्"
+---
+Acknowledge-Permission: Bharat Vikas Parishad https://bvpindia.com Atam Dev
+Author: Dr. ramAkAnta shukla
+Category: misc, sanskritgeet
+File name: bhAtimebhAratam.itx
+Indexextra: (Text, BVP Intro)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bhati Me Bharatam
+Transliterated by: Volunteers at Bharat Vikas Parishad https://bvpindia.com
+engtitle: bhAti me bhAratam
+itxtitle: bhAti me bhAratam
+title: भाति मे भारतम्
 
-+++
+---
   
  भाति मे भारतम्   
 भाति मे भारतम्, भाति मे भारतम् ।  
@@ -40,7 +40,7 @@ title = "भाति मे भारतम्"
   
 पण्डितैर्योद्धभिर्वाणिजैः कार्मिकैः  
 शस्त्रिभिः शास्त्रिभिवर्णिभिर्गोहिभिः।  
-वानप्रस्थैश्च संन्यासैभिर्मण्डितं  
+वानप्रस्थैश्च सन्न्यासैभिर्मण्डितं  
 भूतले भाति मेऽनारतं भारतम् ॥ ४॥  
   
                 - डाॅ रमाकान्त शुक्ल  

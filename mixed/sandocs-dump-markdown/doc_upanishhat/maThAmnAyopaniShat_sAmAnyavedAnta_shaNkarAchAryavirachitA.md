@@ -1,23 +1,23 @@
-+++
-"Text title" = "maThAmnAyopaniShat"
-"File name" = "maThAmnAyopaniShat.itx"
-itxtitle = "maThAmnAyopaniShat (sAmAnyavedAnta, shaNkarAchAryavirachitA)"
-engtitle = "maThAmnAyopaniShat"
-Category = "upanishhat, vedanta, shankarAchArya, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "shankarAchArya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "Unpublished Upanishads edited by C.Kumham Raja, 1933"
-Indexextra = "(Scanned book)"
-"Latest update" = "October 18, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मठाम्नायोपनिषत् (सामान्यवेदान्त, शण्कराचार्यविरचिता)"
+---
+Author: shankarAchArya
+Category: upanishhat, vedanta, shankarAchArya, upanishad
+Description-comments: Unpublished Upanishads edited by C.Kumham Raja, 1933
+File name: maThAmnAyopaniShat.itx
+Indexextra: (Scanned book)
+Language: Sanskrit
+Latest update: October 18, 2017
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: maThAmnAyopaniShat
+engtitle: maThAmnAyopaniShat
+itxtitle: maThAmnAyopaniShat (sAmAnyavedAnta, shaNkarAchAryavirachitA)
+title: मठाम्नायोपनिषत् (सामान्यवेदान्त, शण्कराचार्यविरचिता)
 
-+++
+---
   
  मठाम्नायोपनिषत्   
   
@@ -72,7 +72,7 @@ title = "मठाम्नायोपनिषत् (सामान्यव
   
 ॐ षष्ठे आत्माम्नाय परमात्मा मठ सत्यसुसम्प्रदाय  
 नाभिकुण्डलिक्षेत्र त्रिकुटी तीर्थं हंसो देवी परमह्ंअसो देवता  
-अजपासोहंमहामन्त्र ब्रह्मविष्णुमहेश्वराद्या जीवब्रह्मचारी हंसविद  
+अजपासोहम्महामन्त्र ब्रह्मविष्णुमहेश्वराद्या जीवब्रह्मचारी हंसविद  
 उपास्ति उपाधिभेदसन्न्यासार्थं ज्ञानसन्न्यासग्रहणं करिष्ये । ॐ  
 नमो नारायणायेति ॥  
   

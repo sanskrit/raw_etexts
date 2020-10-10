@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Parvati Ashtottarashatanamavali 108 Names"
-"File name" = "pArvatyaShTottarashatanAmAvaliH.itx"
-itxtitle = "pArvatyaShTottarashatanAmAvaliH"
-engtitle = "pArvatyaShTottarashatanAmAvaliH"
-Category = "devii, aShTottarashatanAma, pArvatI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-"Description/comments" = "See corresponding stotra"
-Indexextra = "(Scan, stotra)"
-"Latest update" = "May 15, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्वत्यष्टोत्तरशतनामावलिः"
+---
+Category: devii, aShTottarashatanAma, pArvatI
+Description/comments: See corresponding stotra
+File name: pArvatyaShTottarashatanAmAvaliH.itx
+Indexextra: (Scan, stotra)
+Language: Sanskrit
+Latest update: May 15, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Parvati Ashtottarashatanamavali 108 Names
+Transliterated by: PSA Easwaran
+engtitle: pArvatyaShTottarashatanAmAvaliH
+itxtitle: pArvatyaShTottarashatanAmAvaliH
+title: पार्वत्यष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीपार्वत्यष्टोत्तरशतनामावलिः   
 ॐ महेश्वर्यै नमः । महादेव्यै । महेश्वरविमोहिन्यै ।  

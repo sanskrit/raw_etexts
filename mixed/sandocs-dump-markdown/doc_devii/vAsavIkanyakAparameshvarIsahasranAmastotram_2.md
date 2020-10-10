@@ -1,24 +1,25 @@
-+++
-"Text title" = "Vasavi Kanyaka Parameshvari Sahasranama Stotra 2"
-"File name" = "vAsavIkanyakAparameshvarIsahasranAmastotram2.itx"
-itxtitle = "vAsavIkanyakAparameshvarIsahasranAmastotram 2"
-engtitle = "vAsavIkanyakAparameshvarIsahasranAmastotram 2"
-Category = "devii, sahasranAma, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Rajeshwari Govindaraj"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Rajeshwari Govindaraj"
-"Description/comments" = "Audio rendered by Vidushi Smt Jyothi Aswathanarayan, Smt Ashwini Srikanth and Smt Nandini Vinay"
-Indexextra = "(Audio, 2)"
-"Latest update" = "July 9, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकापरमेश्वरीसहस्रनामस्तोत्रम् २"
+---
+Author: Rajeshwari Govindaraj
+Category: devii, sahasranAma, devI
+Description/comments: Audio rendered by Vidushi Smt Jyothi Aswathanarayan, Smt Ashwini
+  Srikanth and Smt Nandini Vinay
+File name: vAsavIkanyakAparameshvarIsahasranAmastotram2.itx
+Indexextra: (Audio, 2)
+Language: Sanskrit
+Latest update: July 9, 2019
+Location: doc_devii
+Proofread by: Rajeshwari Govindaraj
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vasavi Kanyaka Parameshvari Sahasranama Stotra 2
+Transliterated by: NA
+engtitle: vAsavIkanyakAparameshvarIsahasranAmastotram 2
+itxtitle: vAsavIkanyakAparameshvarIsahasranAmastotram 2
+title: वासवीकन्यकापरमेश्वरीसहस्रनामस्तोत्रम् २
 
-+++
+---
   
  श्रीवासविदेवीसहस्रनामस्तोत्रम् २   
 ध्यानम् -  
@@ -473,7 +474,7 @@ title = "वासवीकन्यकापरमेश्वरीसहस�
 जीवन्मुक्तिप्रसादिनी तुरीया सार्वकालिका ॥ १४७॥  
   
 शब्दस्पर्शरूपगन्धरसविषयपञ्चकव्यापिनी ।  
-सोहंमन्त्रयुतोच्छवासनिश्वासानन्दरूपिणी ॥ १४८॥  
+सोहम्मन्त्रयुतोच्छवासनिश्वासानन्दरूपिणी ॥ १४८॥  
   
 भूतभविष्यद्वर्तमानज्ञा पुराणी विश्वाधिका ।  
 ब्राह्मीस्थितिप्राप्तिकरी आत्मरूपाभिज्ञापका ॥ १४९॥  
@@ -697,7 +698,7 @@ title = "वासवीकन्यकापरमेश्वरीसहस�
 क्षुत्तृषानिद्रामैथुनविसर्जनधर्मकारिणी ।  
 क्षयवृद्धिपूर्णद्रव्यसञ्चयाशाविदूरिणी ॥ २२२॥  
   
-नवजातशिशुसंपोषकक्षीरसुधासूषणा ।  
+नवजातशिशुसम्पोषकक्षीरसुधासूषणा ।  
 नवभावलहर्योदया ओजोवती विचक्षणा ॥ २२३॥  
   
 धर्मश्रेष्ठिसुपुत्रार्थकृततपोसाफल्यदा ।  

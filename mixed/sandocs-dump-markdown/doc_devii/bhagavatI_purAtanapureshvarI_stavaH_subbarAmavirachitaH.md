@@ -1,23 +1,23 @@
-+++
-"Text title" = "Bhagavati Puratanapureshvari Stava"
-"File name" = "purAtanapureshvaristava.itx"
-itxtitle = "bhagavatI purAtanapureshvarI stavaH (subbarAmavirachitaH)"
-engtitle = "BhagavatI Puratanapureshvari Stava"
-Category = "devii, devI, annapUrNa"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Subbarama of Pazhayannur"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Prayer to Bhagavati, deity of Pazhayannur, Kerala"
-"Latest update" = "January 3, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भगवती पुरातनपुरेश्वरी स्तवः (सुब्बरामविरचितः)"
+---
+Author: Subbarama of Pazhayannur
+Category: devii, devI, annapUrNa
+Description-comments: Prayer to Bhagavati, deity of Pazhayannur, Kerala
+File name: purAtanapureshvaristava.itx
+Language: Sanskrit
+Latest update: January 3, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Bhagavati Puratanapureshvari Stava
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: BhagavatI Puratanapureshvari Stava
+itxtitle: bhagavatI purAtanapureshvarI stavaH (subbarAmavirachitaH)
+title: भगवती पुरातनपुरेश्वरी स्तवः (सुब्बरामविरचितः)
 
-+++
+---
   
  भगवती पुरातनपुरेश्वरीस्तवः   
 ॐ अन्नपूर्णेश्वर्यै नमः ।  

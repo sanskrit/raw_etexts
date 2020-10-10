@@ -1,22 +1,24 @@
-+++
-"Text title" = "mahAmRRtyunjaya kavacham 2"
-"File name" = "mahAmRRityunjayakavacha2.itx"
-itxtitle = "mahAmRityunjayakavacham 2"
-engtitle = "mahAmRityunjaya kavacha 2"
-Category = "kavacha, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Source = "http://www.scribd.com/doc/104847345/Hindi-Book-Danik-Prarthna-Strota-amp-Kavach  printed pages 75-76"
-"Latest update" = "July 31, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महामृइत्युञ्जयकवचम् २"
+---
+Category: kavacha, shiva
+File name: mahAmRRityunjayakavacha2.itx
+Language: Sanskrit
+Latest update: July 31, 2013
+Location: doc_shiva
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: http://www.scribd.com/doc/104847345/Hindi-Book-Danik-Prarthna-Strota-amp-Kavach  printed
+  pages 75-76
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mahAmRRtyunjaya kavacham 2
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: mahAmRityunjaya kavacha 2
+itxtitle: mahAmRityunjayakavacham 2
+title: महामृइत्युञ्जयकवचम् २
 
-+++
+---
   
  महामृत्युञ्जयकवचम् २   
   

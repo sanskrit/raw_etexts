@@ -1,24 +1,24 @@
-+++
-"Text title" = "Yogatattva Upanishad"
-"File name" = "yogatatva.itx"
-itxtitle = "yogatattvopaniShat"
-engtitle = "Yogatatva Upanishad"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-Description-comments = "41/108; Krishna Yajurveda, Yog upanishad"
-Indexextra = "(Translation)"
-"Latest update" = "Feb. 18, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "योगतत्त्वोपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, upanishad
+Description-comments: 41/108; Krishna Yajurveda, Yog upanishad
+File name: yogatatva.itx
+Indexextra: (Translation)
+Language: Sanskrit
+Latest update: Feb. 18, 2000
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Yogatattva Upanishad
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Yogatatva Upanishad
+itxtitle: yogatattvopaniShat
+title: योगतत्त्वोपनिषत्
 
-+++
+---
   
  योगतत्त्वोपनिषत्   
   
@@ -58,7 +58,7 @@ title = "योगतत्त्वोपनिषत्"
 परमात्मपदं नित्यं तत्कथं जीवतां गतम् ।  
 सर्वभावपदातीतं ज्ञानरूपं निरञ्जनम् ॥ ९॥  
   
-वारिवत्स्फुरितं तस्मिंस्तत्राहंकृतिरुत्थिता ।  
+वारिवत्स्फुरितं तस्मिंस्तत्राहङ्कृतिरुत्थिता ।  
 पञ्चात्मकमभूत्पिण्डं धातुबद्धं गुणात्मकम् ॥ १०॥  
   
 सुखदुःखैः समायुक्तं जीवभावनया कुरु ।  
@@ -130,7 +130,7 @@ title = "योगतत्त्वोपनिषत्"
 सुष्ठु लिप्तं गोमयेन सुधया वा प्रयत्नतः ।  
 मत्कुणैर्मशकैर्लूतैर्वर्जितं च प्रयत्नतः ॥ ३३॥  
   
-दिने दिने च संमृष्टं संमार्जन्या विशेषतः ।  
+दिने दिने च सम्मृष्टं सम्मार्जन्या विशेषतः ।  
 वासितं च सुगन्धेन धूपितं गुग्गुलादिभिः ॥ ३४॥  
   
 नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् ।  
@@ -292,7 +292,7 @@ title = "योगतत्त्वोपनिषत्"
 पृथिवीयोगतो मृत्युर्न भवेदस्य योगिनः ।  
 आजानोः पायुपर्यन्तमपां स्थानं प्रकीर्तितम् ॥ ८७॥  
   
-आपोऽर्धचन्द्रं शुक्लं च वंबीजं परिकीर्तितम् ।  
+आपोऽर्धचन्द्रं शुक्लं च वम्बीजं परिकीर्तितम् ।  
 वारुणे वायुमारोप्य वकारेण समन्वितम् ॥ ८८॥  
   
 स्मरन्नारायणं देवं चतुर्बाहुं किरीटिनम् ।  
@@ -305,7 +305,7 @@ title = "योगतत्त्वोपनिषत्"
 वह्निस्त्रिकोणं रक्तं च रेफाक्षरसमुद्भवम् ॥ ९१॥  
   
 वह्नौ चानिलमारोप्य रेफाक्षरसमुज्ज्वलम् ।  
-त्रियक्षं वरदं रुद्रं तरुणादित्यसंनिभम् ॥ ९२॥  
+त्रियक्षं वरदं रुद्रं तरुणादित्यसन्निभम् ॥ ९२॥  
   
 भस्मोद्धूलितसर्वाङ्गं सुप्रसन्नमनुस्मरन् ।  
 धारयेत्पञ्चघटिका वह्निनासौ न दाह्यते ॥ ९३॥  

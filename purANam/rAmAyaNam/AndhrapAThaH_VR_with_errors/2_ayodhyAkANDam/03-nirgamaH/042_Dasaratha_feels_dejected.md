@@ -3,7 +3,6 @@ title: 042 Dasaratha feels dejected
 title_english: 042 Dasaratha feels dejected
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-042-Dashratha_Vilapaha.mp3"></div>
 
 यावत् तु निर्यतः तस्य रजो रूपम् अदृश्यत ।  
@@ -27,7 +26,7 @@ title_english: 042 Dasaratha feels dejected
 अथ रेणु समुध्वस्तम् तम् उत्थाप्य नर अधिपम् ।  
 न्यवर्तत तदा देवी कौसल्या शोक कर्शिता ॥ २-४२-१०  
 हत्वा इव ब्राह्मणम् कामात् स्पृष्ट्वा अग्निम् इव पाणिना ।  
-अन्वतप्यत धर्म आत्मा पुत्रम् संचिन्त्य तापसम् ॥ २-४२-११  
+अन्वतप्यत धर्म आत्मा पुत्रम् सञ्चिन्त्य तापसम् ॥ २-४२-११  
 निवृत्य एव निवृत्य एव सीदतः रथ वर्त्मसु ।  
 राज्ञो न अतिबभौ रूपम् ग्रस्तस्य अंशुमतः यथा ॥ २-४२-१२  
 विललाप च दुह्ख आर्तः प्रियम् पुत्रम् अनुस्मरन् ।  

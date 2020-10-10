@@ -1,21 +1,21 @@
-+++
-"Text title" = "amarabharatabhuvanajAH"
-"File name" = "amarabharatabhuvanajAH.itx"
-itxtitle = "amarabharatabhuvanajAH"
-engtitle = "amarabharatabhuvanajAH"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Ranajit"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Audio)"
-"Latest update" = "March 24, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अमरभरतभुवनजाः"
+---
+Author: Ranajit
+Category: misc, sanskritgeet
+File name: amarabharatabhuvanajAH.itx
+Indexextra: (Audio)
+Language: Sanskrit
+Latest update: March 24, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: amarabharatabhuvanajAH
+engtitle: amarabharatabhuvanajAH
+itxtitle: amarabharatabhuvanajAH
+title: अमरभरतभुवनजाः
 
-+++
+---
   
  अमरभरतभुवनजाः   
 अमरभरतभुवनजाः महितचरितशोभनाः  

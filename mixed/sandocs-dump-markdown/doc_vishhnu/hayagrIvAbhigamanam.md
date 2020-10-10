@@ -1,23 +1,23 @@
-+++
-"Text title" = "hayagrIvAbhigamanam"
-"File name" = "hayagrIvAbhigamanam.itx"
-itxtitle = "hayagrIvAbhigamanam"
-engtitle = "hayagrIvAbhigamanam"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हयग्रीवाभिगमनम्"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: hayagrIvAbhigamanam.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: hayagrIvAbhigamanam
+engtitle: hayagrIvAbhigamanam
+itxtitle: hayagrIvAbhigamanam
+title: हयग्रीवाभिगमनम्
 
-+++
+---
   
  श्रीहयग्रीवाभिगमनम्   
   

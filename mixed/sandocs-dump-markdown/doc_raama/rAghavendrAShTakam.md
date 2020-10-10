@@ -1,20 +1,20 @@
-+++
-"Text title" = "rAghavendrAShTakam"
-"File name" = "rAghavendrAShTakam.itx"
-itxtitle = "rAghavendrAShTakam"
-engtitle = "rAghavendrAShTakam"
-Category = "raama, aShTaka"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(booklet)"
-"Latest update" = "September 22, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राघवेन्द्राष्टकम्"
+---
+Category: raama, aShTaka
+File name: rAghavendrAShTakam.itx
+Indexextra: (booklet)
+Language: Sanskrit
+Latest update: September 22, 2017
+Location: doc_raama
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAghavendrAShTakam
+engtitle: rAghavendrAShTakam
+itxtitle: rAghavendrAShTakam
+title: राघवेन्द्राष्टकम्
 
-+++
+---
   
  श्रीराघवेन्द्राष्टकम्   
   

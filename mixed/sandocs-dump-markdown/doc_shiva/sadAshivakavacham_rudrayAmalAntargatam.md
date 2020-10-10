@@ -1,24 +1,24 @@
-+++
-"Text title" = "Sadashiva Kavacham"
-"File name" = "sadAshivakavacham.itx"
-itxtitle = "sadAshivakavacham (rudrayAmalAntargatam)"
-engtitle = "sadAshivakavacham"
-Category = "shiva, kavacha"
-Location = "doc_shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "staff of Muktabodha.org Mark S.G. Dyczkowski"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde"
-Source = "Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya"
-Acknowledge-Permission = "Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org"
-"Latest update" = "February 16, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सदाशिवकवचम् (रुद्रयामलान्तर्गतम्)"
+---
+Acknowledge-Permission: Marjorie Woollacott, Ph.D., Digital Library Coordinator muktabodha.org
+Category: shiva, kavacha
+Description/comments: rudrayAmale uttaratantre 2 bhairava bhairavI sa.nvAde
+File name: sadAshivakavacham.itx
+Language: Sanskrit
+Latest update: February 16, 2020
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Rudrayamalam part 2 edited by Ram Prasad Tripathi and Sudhakar Malaviya
+Subject: philosophy/hinduism/religion
+Text title: Sadashiva Kavacham
+Texttype: stotra
+Transliterated by: staff of Muktabodha.org Mark S.G. Dyczkowski
+engtitle: sadAshivakavacham
+itxtitle: sadAshivakavacham (rudrayAmalAntargatam)
+title: सदाशिवकवचम् (रुद्रयामलान्तर्गतम्)
 
-+++
+---
   
  सदाशिवकवचम्   
 अथ चतुःसप्ततितमः पटलः  
@@ -316,7 +316,7 @@ title = "सदाशिवकवचम् (रुद्रयामलान्
 भूर्जपत्रे त्विमां विद्यां शुक्लपट्टेन वेष्टिताम् ॥ ७४-९७॥  
   
 रजतोदरसंविष्टां कृत्वा च धारयेत् सुधीः ।  
-संप्राप्य महतीं लक्ष्मीमन्ते तव शरीरधृक् ॥ ७४-९८॥  
+सम्प्राप्य महतीं लक्ष्मीमन्ते तव शरीरधृक् ॥ ७४-९८॥  
   
 यस्मै कस्मै न दातव्यं न प्रकाश्यं कदाचन ।  
 शिष्याय भक्तियुक्ताय साधकाय प्रकाशयेत् ॥ ७४-९९॥  

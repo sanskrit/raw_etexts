@@ -1,23 +1,23 @@
-+++
-"Text title" = "parameshvarastutisArastotram"
-"File name" = "parameshvarastutisArastotram.itx"
-itxtitle = "parameshvarastutisArastotram (brahmAnandavirachitam)"
-engtitle = "Parameshvarastutisarastotram"
-Category = "misc, stotra, vedanta, brahmAnanda"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "stotra"
-Author = "mauktikarAmodAsInashiShyabrahmAnanda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Hindi)"
-"Latest update" = "June 13, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परमेश्वरस्तुतिसारस्तोत्रम् (ब्रह्मानन्दविरचितम्)"
+---
+Author: mauktikarAmodAsInashiShyabrahmAnanda
+Category: misc, stotra, vedanta, brahmAnanda
+File name: parameshvarastutisArastotram.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: June 13, 2013
+Location: doc_z_misc_general
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: parameshvarastutisArastotram
+Texttype: stotra
+engtitle: Parameshvarastutisarastotram
+itxtitle: parameshvarastutisArastotram (brahmAnandavirachitam)
+title: परमेश्वरस्तुतिसारस्तोत्रम् (ब्रह्मानन्दविरचितम्)
 
-+++
+---
   
  परमेश्वरस्तुतिसारस्तोत्रम्   
   

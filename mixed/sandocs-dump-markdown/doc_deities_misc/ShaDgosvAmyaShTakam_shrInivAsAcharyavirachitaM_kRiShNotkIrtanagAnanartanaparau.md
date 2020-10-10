@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shadgosvamyashtakam Obeisances unto the six Gosvamis"
-"File name" = "ShaDgosvAmyaShTakam.itx"
-itxtitle = "ShaDgosvAmyaShTakam (shrInivAsAcharyavirachitaM kRiShNotkIrtanagAnanartanaparau)"
-engtitle = "Shadgosvamyashtakam"
-Category = "deities_misc, aShTaka, krishna, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "Shrinivas Acharya Prabhu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(Meaning, Prabhupada Chanting, English 1, 2,Hindi)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "षड्गोस्वाम्यष्टकम् (श्रीनिवासाचर्यविरचितं कृइष्णोत्कीर्तनगाननर्तनपरौ)"
+---
+Author: Shrinivas Acharya Prabhu
+Category: deities_misc, aShTaka, krishna, gurudev
+File name: ShaDgosvAmyaShTakam.itx
+Indexextra: (Meaning, Prabhupada Chanting, English 1, 2,Hindi)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Shadgosvamyashtakam Obeisances unto the six Gosvamis
+engtitle: Shadgosvamyashtakam
+itxtitle: ShaDgosvAmyaShTakam (shrInivAsAcharyavirachitaM kRiShNotkIrtanagAnanartanaparau)
+title: षड्गोस्वाम्यष्टकम् (श्रीनिवासाचर्यविरचितं कृइष्णोत्कीर्तनगाननर्तनपरौ)
 
-+++
+---
   
  षड्गोस्वाम्यष्टकम्   
 Obeisances unto the six Gosvamis, namely Shri Rupa Gosvami,  

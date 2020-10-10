@@ -1,20 +1,20 @@
-+++
-"Text title" = "Shri Mrityunjaya Stotram"
-"File name" = "mRRityunjayastotram5.itx"
-itxtitle = "mRityunjayastotram 5"
-engtitle = "mRityunjaya stotram 5"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "मृइत्युञ्जयस्तोत्रम् ५"
+---
+Category: shiva
+File name: mRRityunjayastotram5.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_shiva
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Mrityunjaya Stotram
+engtitle: mRityunjaya stotram 5
+itxtitle: mRityunjayastotram 5
+title: मृइत्युञ्जयस्तोत्रम् ५
 
-+++
+---
   
  श्रीमृत्युञ्जयस्तोत्रम्   
 शम्भो महादेव शम्भो महादेव शम्भो महादेव गङ्गाधर ।  
@@ -58,7 +58,7 @@ title = "मृइत्युञ्जयस्तोत्रम् ५"
   
 गन्धेभचर्माङ्गसक्ताङ्ग संसारसिन्धुप्लव पाहि मृत्युञ्जय ॥ मृत्युञ्जय ॥  
   
-घर्मांशुसङ्काश धर्मैकसंप्राप्य शर्मप्रद पाहि मृत्युञ्जय ॥ मृत्युञ्जय ॥  
+घर्मांशुसङ्काश धर्मैकसम्प्राप्य शर्मप्रद पाहि मृत्युञ्जय ॥ मृत्युञ्जय ॥  
   
 ङोत्पत्तिबीजाखिलोत्पत्तिबीजामराधीश मां पाहि मृत्युञ्जय ॥ मृत्युञ्जय ॥  
   

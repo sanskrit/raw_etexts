@@ -1,24 +1,25 @@
-+++
-"Text title" = "Shri Santoshimata Ashtottarashata Namavali 2 108 Names"
-"File name" = "santoShImAturaShTottarashatanAmAvaliH2.itx"
-itxtitle = "santoShImAturaShTottarashatanAmAvaliH 2 pAravatI"
-engtitle = "santoShImAturaShTottarashatanAmAvaliH 2"
-Category = "devii, aShTottarashatanAmAvalI, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA EASWARAN psaeaswaran at gmail.com"
-"Description/comments" = "The names are arranged Roman alphabetically. Also known as pArvatI 108 nAmAvalI"
-Indexextra = "(Text, meaning)"
-"Latest update" = "January 5, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्तोषीमातुरष्टोत्तरशतनामावलिः २ पारवती"
+---
+Category: devii, aShTottarashatanAmAvalI, otherforms, devI
+Description/comments: The names are arranged Roman alphabetically. Also known as pArvatI
+  108 nAmAvalI
+File name: santoShImAturaShTottarashatanAmAvaliH2.itx
+Indexextra: (Text, meaning)
+Language: Sanskrit
+Latest update: January 5, 2020
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan Iyer, PSA EASWARAN psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Santoshimata Ashtottarashata Namavali 2 108 Names
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: santoShImAturaShTottarashatanAmAvaliH 2
+itxtitle: santoShImAturaShTottarashatanAmAvaliH 2 pAravatI
+title: सन्तोषीमातुरष्टोत्तरशतनामावलिः २ पारवती
 
-+++
+---
   
  श्रीसन्तोषीमातुरष्टोत्तरशतनामावलिः २   
 ॐ आद्यायै नमः । आर्यायै । अभाव्यायै । ऐन्द्र्यै । अग्निज्वालायै ।  

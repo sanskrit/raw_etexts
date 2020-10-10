@@ -1,22 +1,22 @@
-+++
-"Text title" = "laghushAntistavaH"
-"File name" = "laghushAntistavaH.itx"
-itxtitle = "laghushAntistavaH (shrImAnadevasUrivirachitaH)"
-engtitle = "laghushAntistavaH"
-Category = "deities_misc, jaina"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Author = "Shriman Devasuri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "March 31, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लघुशान्तिस्तवः (श्रीमानदेवसूरिविरचितः)"
+---
+Author: Shriman Devasuri
+Category: deities_misc, jaina
+File name: laghushAntistavaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: March 31, 2019
+Location: doc_deities_misc
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: laghushAntistavaH
+engtitle: laghushAntistavaH
+itxtitle: laghushAntistavaH (shrImAnadevasUrivirachitaH)
+title: लघुशान्तिस्तवः (श्रीमानदेवसूरिविरचितः)
 
-+++
+---
   
  श्रीलघुशान्तिस्तवः   
 श्रीमानदेवसूरिसृत्रितः  

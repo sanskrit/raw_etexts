@@ -1,22 +1,22 @@
-+++
-"Text title" = "shivamahimAShTakam"
-"File name" = "shivamahimAShTakam.itx"
-itxtitle = "shivamahimAShTakam"
-engtitle = "shivamahimAShTakam"
-Category = "shiva, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "shrInimbArkapIThAdhIshvara shrIrAdhAsarveshvarasharaNadevAchAryajI mahArAja"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Amit Sharma 28amitsharma at gmail.com"
-"Proofread by" = "Amit Sharma, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "February 16, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवमहिमाष्टकम्"
+---
+Author: shrInimbArkapIThAdhIshvara shrIrAdhAsarveshvarasharaNadevAchAryajI mahArAja
+Category: shiva, aShTaka
+File name: shivamahimAShTakam.itx
+Language: Sanskrit
+Latest update: February 16, 2018
+Location: doc_shiva
+Proofread by: Amit Sharma, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivamahimAShTakam
+Transliterated by: Amit Sharma 28amitsharma at gmail.com
+engtitle: shivamahimAShTakam
+itxtitle: shivamahimAShTakam
+title: शिवमहिमाष्टकम्
 
-+++
+---
   
  श्रीशिवमहिमाष्टकम्   
   

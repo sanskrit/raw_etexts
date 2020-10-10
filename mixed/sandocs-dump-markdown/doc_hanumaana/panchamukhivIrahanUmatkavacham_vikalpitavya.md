@@ -1,23 +1,23 @@
-+++
-"Text title" = "panchamukhivIrahanUmatkavacham (Alternative)"
-"File name" = "panchamukhivIrahanUmatkavacham.itx"
-itxtitle = "panchamukhivIrahanUmatkavacham (vikalpitavya)"
-engtitle = "panchamukhivIrahanUmatkavacham"
-Category = "kavacha, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पञ्चमुखिवीरहनूमत्कवचम् (विकल्पितव्य)"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: kavacha, hanumaana, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: panchamukhivIrahanUmatkavacham.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: panchamukhivIrahanUmatkavacham (Alternative)
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: panchamukhivIrahanUmatkavacham
+itxtitle: panchamukhivIrahanUmatkavacham (vikalpitavya)
+title: पञ्चमुखिवीरहनूमत्कवचम् (विकल्पितव्य)
 
-+++
+---
   
  श्रीपञ्चमुखिवीरहनूमत्कवचम्   
 (सुदर्शनसंहितातः ।)  

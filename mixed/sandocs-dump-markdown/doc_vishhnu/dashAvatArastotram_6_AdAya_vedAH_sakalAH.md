@@ -1,24 +1,24 @@
-+++
-"Text title" = "dashAvatArastotram 6"
-"File name" = "dashAvatArastotram6.itx"
-itxtitle = "dashAvatArastotram 6 (AdAya vedAH sakalAH)"
-engtitle = "dashAvatArastotram 6"
-Category = "vishhnu, dashAvatAra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतारस्तोत्रम् ६ (आदाय वेदाः सकलाः)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, dashAvatAra
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: dashAvatArastotram6.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dashAvatArastotram 6
+engtitle: dashAvatArastotram 6
+itxtitle: dashAvatArastotram 6 (AdAya vedAH sakalAH)
+title: दशावतारस्तोत्रम् ६ (आदाय वेदाः सकलाः)
 
-+++
+---
   
  दशावतारस्तोत्रम् ६   
 आदाय वेदाः सकलाः समुद्रान्निहत्य शङ्खासुरमत्युदग्रम् ।  

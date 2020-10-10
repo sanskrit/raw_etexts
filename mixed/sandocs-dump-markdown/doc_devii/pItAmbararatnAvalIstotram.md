@@ -1,22 +1,22 @@
-+++
-"Text title" = "pItAmbararatnAvalIstotram"
-"File name" = "pItAmbararatnAvalIstotram.itx"
-itxtitle = "pItAmbararatnAvalIstotram"
-engtitle = "pItAmbararatnAvalIstotram"
-Category = "devii, sarasvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Latest update" = "August 6, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पीताम्बररत्नावलीस्तोत्रम्"
+---
+Category: devii, sarasvatI, stotra, devI
+File name: pItAmbararatnAvalIstotram.itx
+Language: Sanskrit
+Latest update: August 6, 2017
+Location: doc_devii
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: pItAmbararatnAvalIstotram
+Transliterated by: DPD
+engtitle: pItAmbararatnAvalIstotram
+itxtitle: pItAmbararatnAvalIstotram
+title: पीताम्बररत्नावलीस्तोत्रम्
 
-+++
+---
   
  श्रीपीताम्बरारत्नावलीस्तोत्रम्   
   

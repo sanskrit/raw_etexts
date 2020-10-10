@@ -1,22 +1,22 @@
-+++
-"Text title" = "rudrachaNDItrailokyamaMgalakavacham"
-"File name" = "rudrachaNDItrailokyamaMgalakavacham.itx"
-itxtitle = "rudrachaNDItrailokyamaMgalakavacham (rudrayAmalatantrAntargatam)"
-engtitle = "rudrachaNDItrailokyamaMgalakavacham"
-Category = "devii, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "lalitha parameswari parameswari.lalitha at gmail.com"
-"Proofread by" = "lalitha parameswari, NA"
-"Description/comments" = "Rudrayamala tantra"
-"Latest update" = "May 16, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुद्रचण्डीत्रैलोक्यमंगलकवचम् (रुद्रयामलतन्त्रान्तर्गतम्)"
+---
+Category: devii, kavacha, devI
+Description/comments: Rudrayamala tantra
+File name: rudrachaNDItrailokyamaMgalakavacham.itx
+Language: Sanskrit
+Latest update: May 16, 2018
+Location: doc_devii
+Proofread by: lalitha parameswari, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: rudrachaNDItrailokyamaMgalakavacham
+Transliterated by: lalitha parameswari parameswari.lalitha at gmail.com
+engtitle: rudrachaNDItrailokyamaMgalakavacham
+itxtitle: rudrachaNDItrailokyamaMgalakavacham (rudrayAmalatantrAntargatam)
+title: रुद्रचण्डीत्रैलोक्यमंगलकवचम् (रुद्रयामलतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीरुद्रचण्डी त्रैलोक्यमङ्गलकवचम्   
            ॥ पूर्वपीठिका॥  
@@ -62,7 +62,7 @@ title = "रुद्रचण्डीत्रैलोक्यमंगल�
 इदानीं वद मे नाथ ! चण्डीसिद्धिकरं परम् ॥ १२॥  
   
 विना ध्यानं विना पूजां विना जपपरायणम् ।  
-विना होमं विना मन्त्रं विना साधनसंज्ञकम् ॥ १३॥  
+विना होमं विना मन्त्रं विना साधनसञ्ज्ञकम् ॥ १३॥  
   
 अनायासेन सिद्ध्यन्ति केनोपायेन तद् वद ॥  
   

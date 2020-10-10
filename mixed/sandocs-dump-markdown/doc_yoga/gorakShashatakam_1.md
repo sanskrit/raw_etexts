@@ -1,22 +1,22 @@
-+++
-"Text title" = "gorakShashatakam 1"
-"File name" = "gorakShashatakam1.itx"
-itxtitle = "gorakShashatakam  1"
-engtitle = "GorakShashatakam  1"
-Category = "shataka, yoga"
-Location = "doc_yoga"
-Sublocation = "yoga"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "DPD"
-Description-comments = "From Kuvalayananda Shukla"
-Indexextra = "(kuvalayAnanda meaning)"
-"Latest update" = "March 29, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गोरक्षशतकम्  १"
+---
+Category: shataka, yoga
+Description-comments: From Kuvalayananda Shukla
+File name: gorakShashatakam1.itx
+Indexextra: (kuvalayAnanda meaning)
+Language: Sanskrit
+Latest update: March 29, 2013
+Location: doc_yoga
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: yoga
+Text title: gorakShashatakam 1
+engtitle: GorakShashatakam  1
+itxtitle: gorakShashatakam  1
+title: गोरक्षशतकम्  १
 
-+++
+---
   
  गोरक्षशतकम् १   
   
@@ -43,7 +43,7 @@ title = "गोरक्षशतकम्  १"
 आसनेभ्यः समस्तेभ्यो द्वयमेव विशिष्यते ।  
 एकं सिद्धासनं प्रोक्तं द्वितीयं कमलासनम् ॥ ७॥  
   
-योनिस्थानकमंघ्रिमूलघटितं कृत्वा दृढं विन्यसे-  
+योनिस्थानकमङ्घ्रिमूलघटितं कृत्वा दृढं विन्यसे-  
 न्मेढ्रे पादमथैकमेव नियतं कृत्वा समं विग्रहम् ।  
 स्थाणुः संयमितेन्द्रियोऽचलदृशा पश्यन्भ्रुवोरन्तरं  
 एतन्मोक्षकवाटभेदजनकं सिद्धासनं प्रोच्यते ॥ ८॥  
@@ -122,7 +122,7 @@ title = "गोरक्षशतकम्  १"
 महामुद्रां नमोमुद्रामुड्डियानं जलन्धरम् ।  
 मूलबन्धं च यो वेत्ति स योगी सिद्धिभाजनम् ॥ ३२॥  
   
-वक्षोन्यस्तहनुर्निपीड्य सुचिरं योनिं च वामांघ्रिणा  
+वक्षोन्यस्तहनुर्निपीड्य सुचिरं योनिं च वामाङ्घ्रिणा  
 हस्ताभ्यामवधारितं प्रसरितं पादं तथा दक्षिणम् ।  
 आपूर्य श्वसनेन कुक्षियुगलं बद्ध्वा शनै रेचयेद्  
 एषा पातकनाशिनी सुमहती मुद्रा नॄणां प्रोच्यते ॥ ३३॥  
@@ -175,7 +175,7 @@ title = "गोरक्षशतकम्  १"
 अधमे च घनो घर्मः कम्पो भवति मध्यमे ।  
 उत्तिष्ठत्युत्तमे योगी बद्धपद्मासनो मुहुः ॥ ४९॥  
   
-अङ्गानां मर्दनं शस्तं श्रमसंजातवारिणा ।  
+अङ्गानां मर्दनं शस्तं श्रमसञ्जातवारिणा ।  
 कट्वम्ललवणत्यागी क्षीरभोजनमाचरेत् ॥ ५०॥  
   
 मन्दं मन्दं पिबेद्वायुं मन्दं मन्दं वियोजयेत् ।  
@@ -275,8 +275,8 @@ title = "गोरक्षशतकम्  १"
 स्वाधिष्ठानं द्वितीयं तु सन्माणिक्यसुशोभनम् ।  
 नासाग्रे दृष्टिमादाय ध्यात्वा मुञ्चति पातकम् ॥ ७९॥  
   
-तरुणादित्यसंकाशं चक्रं च मणिपूरकम् ।  
-नासाग्रे दृष्टिमादाय ध्यात्वा संक्षोभयेज्जगत् ॥ ८०॥  
+तरुणादित्यसङ्काशं चक्रं च मणिपूरकम् ।  
+नासाग्रे दृष्टिमादाय ध्यात्वा सङ्क्षोभयेज्जगत् ॥ ८०॥  
   
  [verse missing]   
 विद्युत्प्रभावं हृत्पद्मे प्राणायामविभेदनैः ।  
@@ -315,7 +315,7 @@ title = "गोरक्षशतकम्  १"
 शब्दाद्याः पञ्च या मात्रा यावत् कर्णादिषु स्मृताः ।  
 तावदेव स्मृतं ध्यानं तत्समाधिरतः परम् ॥ ९३॥  
   
-यदा संक्षीयते प्राणो मानसं च विलीयते ।  
+यदा सङ्क्षीयते प्राणो मानसं च विलीयते ।  
 तदा समरसैकत्वं समाधिरभिधीयते ॥ ९४॥  
   
  [verse missing]   

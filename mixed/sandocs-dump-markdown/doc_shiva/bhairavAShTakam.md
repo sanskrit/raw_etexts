@@ -1,21 +1,21 @@
-+++
-"Text title" = "Bhairava AshTaka"
-"File name" = "bhairavAShTakam.itx"
-itxtitle = "bhairavAShTakam"
-engtitle = "bhairavAShTakam"
-Category = "aShTaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay"
-"Latest update" = "October 15, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भैरवाष्टकम्"
+---
+Category: aShTaka, shiva
+File name: bhairavAShTakam.itx
+Language: Sanskrit
+Latest update: October 15, 2016
+Location: doc_shiva
+Proofread by: Gopal Upadhyay
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Bhairava AshTaka
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: bhairavAShTakam
+itxtitle: bhairavAShTakam
+title: भैरवाष्टकम्
 
-+++
+---
   
  श्रीभैरवाष्टकम्   
   
@@ -76,7 +76,7 @@ title = "भैरवाष्टकम्"
 न तेषां जायते किञ्चिद दुर्लभं भुवि वाञ्छितम् ॥१०॥   
   
 ॥ इति श्रीस्कान्दे महापुराणे पञ्चमेऽवन्तीखण्डे  
-अवन्तीक्षेत्रमाहात्म्याऽऽन्तर्गते श्रीभैरवाष्टकं संपूर्णम् ॥  
+अवन्तीक्षेत्रमाहात्म्याऽऽन्तर्गते श्रीभैरवाष्टकं सम्पूर्णम् ॥  
   
   
 Encoded and proofread by Gopal Upadhyay gopal.j.upadhyay at gmail.com  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "vidyAtIrthapadAravindastutiH"
-"File name" = "vidyAtIrthapadAravindastutiH.itx"
-itxtitle = "vidyAtIrthapadAravindastutiH (shivAbhinavanRisiMhabhAratIvirachitA)"
-engtitle = "vidyAtIrthapadAravindastutiH"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudeva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विद्यातीर्थपदारविन्दस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva
+File name: vidyAtIrthapadAravindastutiH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudeva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vidyAtIrthapadAravindastutiH
+engtitle: vidyAtIrthapadAravindastutiH
+itxtitle: vidyAtIrthapadAravindastutiH (shivAbhinavanRisiMhabhAratIvirachitA)
+title: विद्यातीर्थपदारविन्दस्तुतिः (शिवाभिनवनृइसिंहभारतीविरचिता)
 
-+++
+---
   
  श्रीविद्यातीर्थपदारविन्दस्तुतिः   
 संसाराम्बुधिमग्नलोकविततेः पोतं यदाहुर्विदः  

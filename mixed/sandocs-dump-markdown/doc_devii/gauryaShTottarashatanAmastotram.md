@@ -1,24 +1,24 @@
-+++
-"Text title" = "gauryaShTottarashatanAmastotram"
-"File name" = "gauri108Str.itx"
-itxtitle = "gauryaShTottarashatanAmastotram"
-engtitle = "gauryaShTottarashatanAmastotram"
-Category = "aShTottarashatanAma, devii, pArvatI, stotra, dattAtreyAnandanAtha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Texttype = "stotra"
-Author = "Dattatreya"
-Language = "Sanskrit"
-Subject = "stotra/hinduism/religion"
-"Transliterated by" = "Sridhar Seshagiri seshagir at engineering.sdsu.edu"
-"Proofread by" = "Sridhar Seshagiri, PSA Easwaran"
-"Latest update" = "February 15, 2003, November 25, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गौर्यष्टोत्तरशतनामस्तोत्रम्"
+---
+Author: Dattatreya
+Category: aShTottarashatanAma, devii, pArvatI, stotra, dattAtreyAnandanAtha, devI
+File name: gauri108Str.itx
+Language: Sanskrit
+Latest update: February 15, 2003, November 25, 2016
+Location: doc_devii
+Proofread by: Sridhar Seshagiri, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: stotra/hinduism/religion
+Sublocation: devii
+Text title: gauryaShTottarashatanAmastotram
+Texttype: stotra
+Transliterated by: Sridhar Seshagiri seshagir at engineering.sdsu.edu
+engtitle: gauryaShTottarashatanAmastotram
+itxtitle: gauryaShTottarashatanAmastotram
+title: गौर्यष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  गौर्यष्टोत्तरशतनामस्तोत्रम्   
   

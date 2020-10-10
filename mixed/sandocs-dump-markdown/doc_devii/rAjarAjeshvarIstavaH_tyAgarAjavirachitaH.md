@@ -1,29 +1,29 @@
-+++
-"Text title" = "Hymn in praise of shrI rAjarAjeshwarI"
-"File name" = "rAjarAjeshvarIstava.itx"
-itxtitle = "rAjarAjeshvarIstavaH (tyAgarAjavirachitaH)"
-engtitle = "Hymn in praise of shrI rAjarAjeshvarI"
-Category = "devii, dashamahAvidyA, stotra, tyAgarAja, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "stotra"
-Author = "tyAgarAja"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-"Proofread by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-"Latest update" = "November 22, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "राजराजेश्वरीस्तवः (त्यागराजविरचितः)"
+---
+Author: tyAgarAja
+Category: devii, dashamahAvidyA, stotra, tyAgarAja, devI
+File name: rAjarAjeshvarIstava.itx
+Language: Sanskrit
+Latest update: November 22, 2001
+Location: doc_devii
+Proofread by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: hinduism/religion
+Sublocation: devii
+Text title: Hymn in praise of shrI rAjarAjeshwarI
+Texttype: stotra
+Transliterated by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+engtitle: Hymn in praise of shrI rAjarAjeshvarI
+itxtitle: rAjarAjeshvarIstavaH (tyAgarAjavirachitaH)
+title: राजराजेश्वरीस्तवः (त्यागराजविरचितः)
 
-+++
+---
   
  राजराजेश्वरीस्तवः   
   
            त्यागराजविरचितः  
-या त्रैलोक्यकुटुम्बिका वरसुधाधाराभिसंतर्पिणी  
+या त्रैलोक्यकुटुम्बिका वरसुधाधाराभिसन्तर्पिणी  
 भूम्यादीन्द्रियचित्तचेतनपरा संविन्मयी शाश्वती ।  
 ब्रह्मेन्द्राच्युतवन्दितेशमहिषी विज्ञानदात्री सतां  
 तां वन्दे हृदयत्रिकोणनिलयां श्रीराजराजेश्वरीम् ॥ १॥  
@@ -40,16 +40,16 @@ title = "राजराजेश्वरीस्तवः (त्यागर
   
 या प्रातः शिखिमण्डले मुनिजनैर्गौरी समाराध्यते  
 या मध्ये दिवसस्य भानुरुचिरा चण्डांशुमध्ये परम् ।  
-या सायं शशिरूपिणी हिमरुचेर्मध्ये त्रिसंध्यात्मिका  
+या सायं शशिरूपिणी हिमरुचेर्मध्ये त्रिसन्ध्यात्मिका  
 तां वन्दे हृदयत्रिकोणनिलयां श्रीराजराजेश्वरीम् ॥ ४॥  
   
-या मूलोत्थितनादसंततिलवैः संस्तूयते योगिभिः  
-या पूर्णेन्दुकलामृतैः कुलपथे संसिच्यते संततम् ।  
+या मूलोत्थितनादसन्ततिलवैः संस्तूयते योगिभिः  
+या पूर्णेन्दुकलामृतैः कुलपथे संसिच्यते सन्ततम् ।  
 या बन्धत्रयकुम्भितोन्मनिपथे सिद्ध्यष्टकेनेड्यते  
 तां वन्दे हृदयत्रिकोणनिलयां श्रीराजराजेश्वरीम् ॥ ५॥  
   
 या मूकस्य कवित्ववर्षणसुधाकादम्बिनी श्रीकरी  
-या लक्ष्मीतनयस्य जीवनकरी संजीविनीविद्यया ।  
+या लक्ष्मीतनयस्य जीवनकरी सञ्जीविनीविद्यया ।  
 या द्रोणीपुरनायिका द्विजशिशोः स्तन्यप्रदात्री मुदा  
 तां वन्दे हृदयत्रिकोणनिलयां श्रीराजराजेश्वरीम् ॥ ६॥  
   
@@ -60,7 +60,7 @@ title = "राजराजेश्वरीस्तवः (त्यागर
   
 या क्षित्यन्तशिवादितत्त्वविलसत्स्फूर्तिस्वरूपा परं  
 या ब्रह्माण्दकटाहभारनिवहन्मण्डूकविश्वम्भरी ।  
-या विश्वं निखिलं चराचरमयं व्याप्य स्थिता संततं  
+या विश्वं निखिलं चराचरमयं व्याप्य स्थिता सन्ततं  
 तां वन्दे हृदयत्रिकोणनिलयां श्रीराजराजेश्वरीम् ॥ ८॥  
   
 या वर्गाष्टकवर्णपञ्जरशुकी विद्याक्षरालापिनी  
@@ -80,11 +80,11 @@ title = "राजराजेश्वरीस्तवः (त्यागर
   
 यामुद्दिश्य यजन्ति शुद्धमतयो नित्यं पराग्नौ स्रुचा  
 मत्या प्राणघृतप्लुतेन्द्रियचरुद्रव्यैः समन्त्राक्षरैः ।  
-यत्पादाम्बुजभक्तिदार्ढ्यसुरसप्राप्त्यै बुधाः संततं  
+यत्पादाम्बुजभक्तिदार्ढ्यसुरसप्राप्त्यै बुधाः सन्ततं  
 तां वन्दे हृदयत्रिकोणनिलयां श्रीराजराजेश्वरीम् ॥ १२॥  
   
 या संविन्मकरन्दपुष्पलतिकास्वानन्ददेशोत्थिता  
-सत्संतानसुवेष्टनातिरुचिरा श्रेयःफलं तन्वती ।  
+सत्सन्तानसुवेष्टनातिरुचिरा श्रेयःफलं तन्वती ।  
 निर्धूताखिलवृत्तिभक्तधिषणाभृङ्गाङ्गनासेविता  
 तां वन्दे हृदयत्रिकोणनिलयां श्रीराजराजेश्वरीम् ॥ १३॥  
   
@@ -98,7 +98,7 @@ title = "राजराजेश्वरीस्तवः (त्यागर
 नीलेन्दीवरलोचना शुभकरी त्यागाधिराजेश्वरी  
 तां वन्दे हृदयत्रिकोणनिलयां श्रीराजराजेश्वरीम् ॥ १५॥  
   
-या भक्तेषु ददाति संततसुखं वाणीं च लक्ष्मीं तथा  
+या भक्तेषु ददाति सन्ततसुखं वाणीं च लक्ष्मीं तथा  
 सौन्दर्यं निगमागमार्थकवितां सत्पुत्रसम्पत्सुखम् ।  
 सत्सङ्गं सुकलत्रतां सुविनयं सयुज्यमुक्तिं परां  
 तां वन्दे हृदयत्रिकोणनिलयां श्रीराजराजेश्वरीम् ॥ १६॥  

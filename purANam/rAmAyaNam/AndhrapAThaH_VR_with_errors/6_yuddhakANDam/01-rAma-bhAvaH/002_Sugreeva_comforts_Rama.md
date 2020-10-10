@@ -3,7 +3,6 @@ title: 002 Sugreeva comforts Rama
 title_english: 002 Sugreeva comforts Rama
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-002-Sugreeva_comforts_Rama.mp3"></div>
 
 तम् तु शोकपरिद्यूनम् रामम् दशरथात्मजम् ।  
@@ -14,7 +13,7 @@ title_english: 002 Sugreeva comforts Rama
 प्रवृत्तामुपलब्धायाम् ज्ञाते च निलये रिपोः ॥ ६-२-३  
 मतिमान् शास्त्रवित्प्राज्ञः पण्डितश्चासि राघव ।  
 त्यजेमाम् प्राकृताम् उद्धिं कृतात्मेवार्थदूषणीम् ॥ ६-२-४  
-संद्रम् लङ्घयित्वा तु महानक्रसमाकुलम् ।  
+सन्द्रम् लङ्घयित्वा तु महानक्रसमाकुलम् ।  
 लङ्कामारोहयिष्यामो हनिष्यामश्च ते रिपुम् ॥ ६-२-५  
 निरुत्साहस्य दीनस्य शोकपर्याकुलात्मनः ।  
 सर्वार्था व्यवसीदन्ति व्यसनम् चाधिगच्छति ॥ ६-२-६  

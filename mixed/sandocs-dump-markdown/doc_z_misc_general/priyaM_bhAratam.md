@@ -1,24 +1,24 @@
-+++
-"Text title" = "My Beloved Country, Bharat with Translation"
-"File name" = "priyaMbhAratamsArtham.itx"
-itxtitle = "priyaM bhAratam"
-engtitle = "priyaM bhAratam"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dr. Chandrabhanu Tripathi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Manish Gavkar manishyg at gmail.com"
-"Proofread by" = "Manish Gavkar manishyg at gmail.com"
-"Translated by" = "Manish Gavkar manishyg at gmail.com"
-Indexextra = "(Video)"
-"Latest update" = "February 9, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रियं भारतम्"
+---
+Author: Dr. Chandrabhanu Tripathi
+Category: misc, sanskritgeet
+File name: priyaMbhAratamsArtham.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: February 9, 2020
+Location: doc_z_misc_general
+Proofread by: Manish Gavkar manishyg at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: My Beloved Country, Bharat with Translation
+Translated by: Manish Gavkar manishyg at gmail.com
+Transliterated by: Manish Gavkar manishyg at gmail.com
+engtitle: priyaM bhAratam
+itxtitle: priyaM bhAratam
+title: प्रियं भारतम्
 
-+++
+---
   
  प्रियं भारतम् सार्थम्   
 प्रकृत्या सुरम्यं विशालं प्रकामं  

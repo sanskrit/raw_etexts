@@ -1,21 +1,21 @@
-+++
-"Text title" = "mahAmRRityunjayadhyAnam"
-"File name" = "mahAmRRityunjayadhyAnam.itx"
-itxtitle = "mahAmRityunjayadhyAnam"
-engtitle = "mahAmRRityunjayadhyAnam"
-Category = "shiva, dhyAnam"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Description/comments" = "Brihat Stotra Ratnakar Shivadutta Shastri"
-"Latest update" = "February 19, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महामृइत्युञ्जयध्यानम्"
+---
+Category: shiva, dhyAnam
+Description/comments: Brihat Stotra Ratnakar Shivadutta Shastri
+File name: mahAmRRityunjayadhyAnam.itx
+Language: Sanskrit
+Latest update: February 19, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: mahAmRRityunjayadhyAnam
+engtitle: mahAmRRityunjayadhyAnam
+itxtitle: mahAmRityunjayadhyAnam
+title: महामृइत्युञ्जयध्यानम्
 
-+++
+---
   
  महामृत्युञ्जयध्यानम्   
 हस्ताम्भोज-युगस्थ-कुम्भयुगलादुद्धृत्य तोयं शिरः  

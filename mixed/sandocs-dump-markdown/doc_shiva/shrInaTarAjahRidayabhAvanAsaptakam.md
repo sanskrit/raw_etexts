@@ -1,28 +1,28 @@
-+++
-"Text title" = "naTarAjahRRidayabhAvanAsaptakam"
-"File name" = "naTarAjahRRidayabhAvanAsaptakam.itx"
-itxtitle = "shrInaTarAjahRidayabhAvanAsaptakam"
-engtitle = "Shri Natarajahridayabhavana Saptaka"
-Category = "saptaka, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-"Latest update" = "November 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्रीनटराजहृइदयभावनासप्तकम्"
+---
+Category: saptaka, shiva
+File name: naTarAjahRRidayabhAvanAsaptakam.itx
+Language: Sanskrit
+Latest update: November 6, 2016
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: naTarAjahRRidayabhAvanAsaptakam
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail.com
+engtitle: Shri Natarajahridayabhavana Saptaka
+itxtitle: shrInaTarAjahRidayabhAvanAsaptakam
+title: श्रीनटराजहृइदयभावनासप्तकम्
 
-+++
+---
   
  श्रीनटराजहृदयभावनासप्तकम्   
 ॐ श्रीगणेशाय नमः ।  
   
 कामशासनमाश्रितार्तिनिवारणैकधुरन्धरं  
 पाकशासनपूर्वलेखगणैः समर्चितपादुकम् ।  
-व्याघ्रपादफणीश्वरादिमुनीशसंघनिषेवितं  
+व्याघ्रपादफणीश्वरादिमुनीशसङ्घनिषेवितं  
 चित्सभेशमहर्निशं हृदि भावयामि कृपाकरम् ॥ १॥  
   
 यक्षराक्षसदानवोरगकिन्नरादिभिरन्वहं  
@@ -40,9 +40,9 @@ title = "श्रीनटराजहृइदयभावनासप्त�
 तोषितस्तु भगीरथेन दधार यो शिरसा च तं  
 चित्सभेशमहर्निशं हृदि भावयामि कृपाकरम् ॥ ४॥  
   
-योगिनः सनकादयो मुनिपुंगवा विमलाशयाः  
+योगिनः सनकादयो मुनिपुङ्गवा विमलाशयाः  
 दक्षिणाभिमुखं गुरुं समुपास्य यं शिवमादरत् ।  
-सिद्धिमापुरनूपमांतमनन्यभावयुतस्त्वहं  
+सिद्धिमापुरनूपमान्तमनन्यभावयुतस्त्वहं  
 चित्सभेशमहर्निशं हृदि भावयामि कृपाकरम् ॥ ५॥  
   
 क्षीरसागरमन्थनोद्भवकालकूटमहाविषं  

@@ -1,29 +1,29 @@
-+++
-"Text title" = "Atharvashikha Upanishad"
-"File name" = "atharvashikha.itx"
-itxtitle = "atharvashikhopaniShat"
-engtitle = "Atharvashikha Upanishad"
-Category = "upanishhat, svara, upanishad, shiva"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic Tradition"
-Language = "Sanskrit"
-Subject = "philosophy/religion/hinduism"
-"Transliterated by" = "Sunder Hattangadi"
-"Proofread by" = "Sunder Hattangadi"
-Description-comments = "23/108; Atharva Veda, Shaiva Upanishad"
-"Latest update" = "October 14, 1999, March 17, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अथर्वशिखोपनिषत्"
+---
+Author: Vedic Tradition
+Category: upanishhat, svara, upanishad, shiva
+Description-comments: 23/108; Atharva Veda, Shaiva Upanishad
+File name: atharvashikha.itx
+Language: Sanskrit
+Latest update: October 14, 1999, March 17, 2017
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/religion/hinduism
+Sublocation: upanishhat
+Text title: Atharvashikha Upanishad
+Texttype: svara
+Transliterated by: Sunder Hattangadi
+engtitle: Atharvashikha Upanishad
+itxtitle: atharvashikhopaniShat
+title: अथर्वशिखोपनिषत्
 
-+++
+---
   
  अथर्वशिखोपनिषत्   
   
 ओङ्कारार्थतया भातं तुर्योङ्काराग्रभासुरम् ।  
-तुर्यतुर्यंत्रिपाद्रामं स्वमात्रं कलयेऽन्वहम् ॥  
+तुर्यतुर्यन्त्रिपाद्रामं स्वमात्रं कलयेऽन्वहम् ॥  
   
 ॐ भद्रं कर्णेभिः शृणुयाम देवाः । भद्रं पश्येमाक्षभिर्यजत्राः ।  
 स्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायुः ।  
@@ -59,7 +59,7 @@ title = "अथर्वशिखोपनिषत्"
 प्राणान्सर्वान्परमात्मनि प्रणामयतीत्येतस्मात्प्रणवः ।  
 चतुर्थावस्थित इति सर्वदेववेदयोनिः सर्ववाच्यवस्तु प्रणवात्मकम् ॥ १॥  
   
-देवाश्चेति संधत्तां सर्वेभ्यो दुःखभयेभ्यः संतारयतीति  
+देवाश्चेति सन्धत्तां सर्वेभ्यो दुःखभयेभ्यः सन्तारयतीति  
 तारणात्तारः । सर्वे देवाः संविशन्तीति विष्णुः । सर्वाणि  
 बृहयतीति ब्रह्मा । सर्वेभ्योऽन्तस्थानेभ्यो ध्येयेभ्यः  
 प्रदीपवत्प्रकाशयतीति प्रकाशः । प्रकाशेभ्यः सदोमित्यन्तः शरीरे  
@@ -68,7 +68,7 @@ title = "अथर्वशिखोपनिषत्"
   
 पूर्वास्य मात्रा जागर्ति जागरितं द्वितीया स्वप्नं तृतीया  
 सुषुप्तिश्चतुर्थी तुरीयं मात्रा मात्राः प्रतिमात्रागताः  
-सम्यक्समस्तानपि पादाञ्जयतीति स्वयंप्रकाशः स्वयं ब्रह्म  
+सम्यक्समस्तानपि पादाञ्जयतीति स्वयम्प्रकाशः स्वयं ब्रह्म  
 भवतीत्येष सिद्धिकर एतस्माद्ध्यानादौ प्रयुज्यते । सर्व  
 करणोपसंहारत्वाद्धार्यधारणाद्ब्रह्म तुरीयम् । सर्वकरणानि  
 मनसि सम्प्रतिष्ठाप्य ध्यानं विष्णुः प्राणं मनसि सह करणैः  
@@ -76,10 +76,10 @@ title = "अथर्वशिखोपनिषत्"
 परमात्मनि सम्प्रतिष्ठाप्य ध्यायीतेशानं प्रध्यायितव्यं सर्वमिदं  
 ब्रह्मविष्णुरुद्रेन्द्रास्ते सम्प्रसूयन्ते सर्वाणि चेन्द्रियाणि सह भूतैर्न  
 कारणं कारणानां ध्याता कारणं तु ध्येयः सर्वैश्वर्यसम्पन्नः  
-शंभुराकाशमध्ये ध्रुवं स्तब्ध्वाधिकं क्षणमेकं क्रतुशतस्यापि  
+शम्भुराकाशमध्ये ध्रुवं स्तब्ध्वाधिकं क्षणमेकं क्रतुशतस्यापि  
 चतुःसप्तत्या यत्फलं तदवाप्नोति कृत्स्नमोङ्कारगतिं च  
 सर्वध्यानयोगज्ञानानां यत्फलमोङ्कारो वेद पर ईशो वा शिव एको  
-ध्येयः शिवंकरः सर्वमन्यत्परित्यज्य समस्ताथर्वशिखैतामधीत्य  
+ध्येयः शिवङ्करः सर्वमन्यत्परित्यज्य समस्ताथर्वशिखैतामधीत्य  
 द्विजो गर्भवासाद्विमुक्तो विमुच्यत एतामधीत्य द्विजो गर्भवासाद्विमुक्तो  
 विमुच्यत इत्योꣳसत्यमित्युपनिषत् ॥ ३॥  
   

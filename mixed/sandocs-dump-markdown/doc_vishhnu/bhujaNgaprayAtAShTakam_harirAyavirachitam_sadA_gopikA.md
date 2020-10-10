@@ -1,25 +1,25 @@
-+++
-"Text title" = "bhujangaprayAtAShTakam"
-"File name" = "bhujangaprayAtAShTakam.itx"
-itxtitle = "bhujaNgaprayAtAShTakam (harirAyavirachitam sadA gopikA)"
-engtitle = "bhujangaprayAtAShTakam"
-Category = "aShTaka, vishhnu, krishna, bhujanga, vishnu, puShTimArgIya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Subcategory = "bhujanga"
-Author = "Hariraya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "May 17, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भुजण्गप्रयाताष्टकम् (हरिरायविरचितम् सदा गोपिका)"
+---
+Author: Hariraya
+Category: aShTaka, vishhnu, krishna, bhujanga, vishnu, puShTimArgIya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: bhujangaprayAtAShTakam.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: May 17, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subcategory: bhujanga
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: bhujangaprayAtAShTakam
+engtitle: bhujangaprayAtAShTakam
+itxtitle: bhujaNgaprayAtAShTakam (harirAyavirachitam sadA gopikA)
+title: भुजण्गप्रयाताष्टकम् (हरिरायविरचितम् सदा गोपिका)
 
-+++
+---
   
  श्रीभुजङ्गप्रयाताष्टकम्   
   

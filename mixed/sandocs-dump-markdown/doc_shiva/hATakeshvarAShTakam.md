@@ -1,20 +1,20 @@
-+++
-"Text title" = "Shri Hatakeshvara Ashtakam"
-"File name" = "hATakeshvarAShTakam.itx"
-itxtitle = "hATakeshvarAShTakam"
-engtitle = "hATakeshvarAShTakam"
-Category = "shiva, aShTaka"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Audio 1, 2, 3, 4, Info)"
-"Latest update" = "December 26, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हाटकेश्वराष्टकम्"
+---
+Category: shiva, aShTaka
+File name: hATakeshvarAShTakam.itx
+Indexextra: (Audio 1, 2, 3, 4, Info)
+Language: Sanskrit
+Latest update: December 26, 2019
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Hatakeshvara Ashtakam
+engtitle: hATakeshvarAShTakam
+itxtitle: hATakeshvarAShTakam
+title: हाटकेश्वराष्टकम्
 
-+++
+---
   
  श्रीहाटकेश्वराष्टकम्   
 जटातटान्तरोलसत्सुरापगोर्मिभास्वरं  

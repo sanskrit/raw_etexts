@@ -1,22 +1,22 @@
-+++
-"Text title" = "prayAgAShTakam"
-"File name" = "prayAgAShTakam.itx"
-itxtitle = "prayAgAShTakam"
-engtitle = "prayAgAShTakam"
-Category = "aShTaka, misc, stotra"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "May 21, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रयागाष्टकम्"
+---
+Category: aShTaka, misc, stotra
+File name: prayAgAShTakam.itx
+Language: Sanskrit
+Latest update: May 21, 2013
+Location: doc_z_misc_general
+Proofread by: Dinesh Agarwal, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: prayAgAShTakam
+Texttype: stotra
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: prayAgAShTakam
+itxtitle: prayAgAShTakam
+title: प्रयागाष्टकम्
 
-+++
+---
   
  प्रयागाष्टकम्   
   

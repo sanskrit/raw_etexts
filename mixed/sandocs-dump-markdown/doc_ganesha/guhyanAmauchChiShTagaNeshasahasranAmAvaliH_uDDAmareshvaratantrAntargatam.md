@@ -1,25 +1,25 @@
-+++
-"Text title" = "guhyanAma uchChiShTagaNeshasahasranAmAvalI"
-"File name" = "guhyagaNeshasaharanAmAvalI.itx"
-itxtitle = "guhyanAmauchChiShTagaNeshasahasranAmAvaliH (uDDAmareshvaratantrAntargatam)"
-engtitle = "guhYanAma uchChiShTagaNeshasahasranAmAvalI"
-Category = "sahasranAmAvalI, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "krishna vallapareddy krishna321 at hotmail.com"
-Description-comments = "Vighneshvara stutimanjari Vol 3, page 489, Ed. S.V.Radhakrishnashastri"
-Source = "uDDAmaheshvaratantra"
-Indexextra = "(Scanned)"
-"Latest update" = "December 1, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुह्यनामौच्छिष्टगणेशसहस्रनामावलिः (उड्डामरेश्वरतन्त्रान्तर्गतम्)"
+---
+Author: Traditional
+Category: sahasranAmAvalI, ganesha
+Description-comments: Vighneshvara stutimanjari Vol 3, page 489, Ed. S.V.Radhakrishnashastri
+File name: guhyagaNeshasaharanAmAvalI.itx
+Indexextra: (Scanned)
+Language: Sanskrit
+Latest update: December 1, 2017
+Location: doc_ganesha
+Proofread by: krishna vallapareddy krishna321 at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: uDDAmaheshvaratantra
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: guhyanAma uchChiShTagaNeshasahasranAmAvalI
+Texttype: stotra
+engtitle: guhYanAma uchChiShTagaNeshasahasranAmAvalI
+itxtitle: guhyanAmauchChiShTagaNeshasahasranAmAvaliH (uDDAmareshvaratantrAntargatam)
+title: गुह्यनामौच्छिष्टगणेशसहस्रनामावलिः (उड्डामरेश्वरतन्त्रान्तर्गतम्)
 
-+++
+---
   
  श्रीगुह्यनामौच्छिष्टगणेशानसहस्रनामावलिः   
 ॥ श्रीः ॥  

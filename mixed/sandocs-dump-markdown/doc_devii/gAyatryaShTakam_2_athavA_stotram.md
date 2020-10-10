@@ -1,24 +1,24 @@
-+++
-"Text title" = "Gayatri Ashtakam 2"
-"File name" = "gAyatrI_aShTakam.itx"
-itxtitle = "gAyatryaShTakam 2 athavA stotram"
-engtitle = "Gayatri Ashtakam 2"
-Category = "aShTaka, devii, gAyatrI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "gAyatrI"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Source = "Gayatri Mahavijnana -Pandit Rama Sharma Acharya,"
-"Latest update" = "Mar. 14, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गायत्र्यष्टकम् २ अथवा स्तोत्रम्"
+---
+Author: Traditional
+Category: aShTaka, devii, gAyatrI, devI
+File name: gAyatrI_aShTakam.itx
+Language: Sanskrit
+Latest update: Mar. 14, 2014
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Gayatri Mahavijnana -Pandit Rama Sharma Acharya,
+SubDeity: gAyatrI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Gayatri Ashtakam 2
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: Gayatri Ashtakam 2
+itxtitle: gAyatryaShTakam 2 athavA stotram
+title: गायत्र्यष्टकम् २ अथवा स्तोत्रम्
 
-+++
+---
   
  गायत्री अष्टकम् वा स्तोत्रम्   
 गायत्र्यष्टकम्  

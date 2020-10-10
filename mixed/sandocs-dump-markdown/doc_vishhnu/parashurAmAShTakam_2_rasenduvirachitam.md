@@ -1,25 +1,26 @@
-+++
-"Text title" = "parashurAmAShTakam 2"
-"File name" = "parashurAmAShTakamrasendu.itx"
-itxtitle = "parashurAmAShTakam 2 (rasenduvirachitam)"
-engtitle = "Shri Parasuramashtakam 2"
-Category = "aShTaka, vishhnu, dashAvatAra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "AchArya rAdheshyAma avasthI alias rasendu"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, Sunder Hattangadi sunderh at hotmail.com"
-Description-comments = "From sanskritsamvad Sample Year 5 Number 19  April 2016 page 7"
-Acknowledge-Permission = "http://sanskritsamvad.com"
-"Latest update" = "August 29, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परशुरामाष्टकम् २ (रसेन्दुविरचितम्)"
+---
+Acknowledge-Permission: http://sanskritsamvad.com
+Author: AchArya rAdheshyAma avasthI alias rasendu
+Category: aShTaka, vishhnu, dashAvatAra, vishnu
+Description-comments: From sanskritsamvad Sample Year 5 Number 19  April 2016 page
+  7
+File name: parashurAmAShTakamrasendu.itx
+Language: Sanskrit
+Latest update: August 29, 2014
+Location: doc_vishhnu
+Proofread by: NA, Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: hinduism/religion
+Sublocation: vishhnu
+Text title: parashurAmAShTakam 2
+Transliterated by: NA
+engtitle: Shri Parasuramashtakam 2
+itxtitle: parashurAmAShTakam 2 (rasenduvirachitam)
+title: परशुरामाष्टकम् २ (रसेन्दुविरचितम्)
 
-+++
+---
   
  श्रीपरशुरामाष्टकम् २   
   

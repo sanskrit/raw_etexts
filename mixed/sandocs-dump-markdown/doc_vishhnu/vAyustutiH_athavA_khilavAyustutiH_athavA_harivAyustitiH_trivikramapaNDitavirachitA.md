@@ -1,24 +1,24 @@
-+++
-"Text title" = "vAyu stuti"
-"File name" = "vAyu_stuti.itx"
-itxtitle = "vAyustutiH athavA khilavAyustutiH athavA harivAyustitiH (trivikramapaNDitavirachitA)"
-engtitle = "vAyu stuti, praising hari (trivikramapaNDita)"
-Category = "vishhnu, vishnu_misc, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu_misc"
-Texttype = "stotra"
-Author = "Trivikrama PaNDita"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "H. P. Raghunandan, Shrisha Rao shrao at dvaita.org"
-"Proofread by" = "H. P. Raghunandan, Shrisha Rao shrao at dvaita.org"
-"Latest update" = "April 9, 1996, April 2, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वायुस्तुतिः अथवा खिलवायुस्तुतिः अथवा हरिवायुस्तितिः (त्रिविक्रमपण्डितविरचिता)"
+---
+Author: Trivikrama PaNDita
+Category: vishhnu, vishnu_misc, stotra, vishnu
+File name: vAyu_stuti.itx
+Language: Sanskrit
+Latest update: April 9, 1996, April 2, 2019
+Location: doc_vishhnu
+Proofread by: H. P. Raghunandan, Shrisha Rao shrao at dvaita.org
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu_misc
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: vAyu stuti
+Texttype: stotra
+Transliterated by: H. P. Raghunandan, Shrisha Rao shrao at dvaita.org
+engtitle: vAyu stuti, praising hari (trivikramapaNDita)
+itxtitle: vAyustutiH athavA khilavAyustutiH athavA harivAyustitiH (trivikramapaNDitavirachitA)
+title: वायुस्तुतिः अथवा खिलवायुस्तुतिः अथवा हरिवायुस्तितिः (त्रिविक्रमपण्डितविरचिता)
 
-+++
+---
   
  वायुस्तुतिः अथवा खिलवायुस्तुतिः   
  ॥ श्रीहरिवायुस्तुतिः ॥  
@@ -94,7 +94,7 @@ title = "वायुस्तुतिः अथवा खिलवायुस
 पङ्क्तिर्ग्राव्णां गरिम्णां ग्लपयति हि भवद्वेषिणो विद्वदाद्य ॥ ११॥  
   
 अस्मिन्नस्मद्गुरूणां हरिचरण चिरध्यान सन्मङ्गलानाम् ।  
-युष्माकं  पार्ष्वभूमिं धृतरणरणिकः स्वर्गिसेव्यांप्रपन्नः ।  
+युष्माकं  पार्ष्वभूमिं धृतरणरणिकः स्वर्गिसेव्याम्प्रपन्नः ।  
 यस्तूदास्ते स आस्तेऽधिभवमसुलभ क्लेश निर्मूकमस्त ।  
 प्रायानन्दं कथं चिन्नवसति सततं पञ्चकष्टेऽतिकष्टे ॥ १२॥  
   
@@ -136,7 +136,7 @@ title = "वायुस्तुतिः अथवा खिलवायुस
 दृष्ट्वा दृष्टाधिपोरः स्फुटितकनक सद्वर्म घृष्टास्थिकूटम् ।  
 निष्पिष्टं हाटकाद्रि प्रकट तट तटाकाति शङ्को जनोऽभूत् ।  
 येनाजौ रावणारिप्रियनटनपटुर्मुष्टिरिष्टं प्रदेष्टुम् ।  
-किंनेष्टे मे स तेऽष्टापदकट कतटित्कोटि भामृष्ट काष्ठः ॥ २०॥  
+किन्नेष्टे मे स तेऽष्टापदकट कतटित्कोटि भामृष्ट काष्ठः ॥ २०॥  
   
 देव्यादेश प्रणीति दृहिण हरवरावद्य रक्षो विघाता ।  
 ऽद्यासेवोद्यद्दयार्द्रः सहभुजमकरोद्रामनामा मुकुन्दः ।  

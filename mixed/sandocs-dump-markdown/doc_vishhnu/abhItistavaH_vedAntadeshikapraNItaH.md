@@ -1,22 +1,23 @@
-+++
-"Text title" = "abhItistavaH"
-"File name" = "abhItistavaH.itx"
-itxtitle = "abhItistavaH (vedAntadeshikapraNItaH)"
-engtitle = "abhItistavaH"
-Category = "vishhnu, vedAnta-deshika, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "vedAntadeshika"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "January 19, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अभीतिस्तवः (वेदान्तदेशिकप्रणीतः)"
+---
+Author: vedAntadeshika
+Category: vishhnu, vedAnta-deshika, vishnu
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: abhItistavaH.itx
+Language: Sanskrit
+Latest update: January 19, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: abhItistavaH
+engtitle: abhItistavaH
+itxtitle: abhItistavaH (vedAntadeshikapraNItaH)
+title: अभीतिस्तवः (वेदान्तदेशिकप्रणीतः)
 
-+++
+---
   
  अभीतिस्तवः   
   

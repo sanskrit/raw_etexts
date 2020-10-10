@@ -1,24 +1,24 @@
-+++
-"Text title" = "tripurAtilakam"
-"File name" = "tripurAtilakam.itx"
-itxtitle = "tripurAtilakam"
-engtitle = "tripurAtilakam"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Devi book stall, Kodumgallur, Kerala"
-Source = "Sthothra Rathnaakaram, edited by N. Bappuravu, 2010"
-"Latest update" = "August 6, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "त्रिपुरातिलकम्"
+---
+Category: devii, dashamahAvidyA, devI
+Description-comments: Devi book stall, Kodumgallur, Kerala
+File name: tripurAtilakam.itx
+Language: Sanskrit
+Latest update: August 6, 2016
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sthothra Rathnaakaram, edited by N. Bappuravu, 2010
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tripurAtilakam
+Transliterated by: PSA Easwaran psaeaswaran at gmail.com
+engtitle: tripurAtilakam
+itxtitle: tripurAtilakam
+title: त्रिपुरातिलकम्
 
-+++
+---
   
  त्रिपुरातिलकम्   
   

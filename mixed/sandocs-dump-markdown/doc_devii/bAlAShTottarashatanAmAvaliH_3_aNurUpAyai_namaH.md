@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Ashtottarashata Namavali  3"
-"File name" = "bAlAShTottarashatanAmAvaliH3.itx"
-itxtitle = "bAlAShTottarashatanAmAvaliH 3 (aNurUpAyai namaH)"
-engtitle = "bAlAShTottarashatanAmAvaliH 3"
-Category = "devii, dashamahAvidyA, devI, aShTottarashatanAmAvalI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाष्टोत्तरशतनामावलिः ३ (अणुरूपायै नमः)"
+---
+Category: devii, dashamahAvidyA, devI, aShTottarashatanAmAvalI
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAShTottarashatanAmAvaliH3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Ashtottarashata Namavali  3
+engtitle: bAlAShTottarashatanAmAvaliH 3
+itxtitle: bAlAShTottarashatanAmAvaliH 3 (aNurUpAyai namaH)
+title: बालाष्टोत्तरशतनामावलिः ३ (अणुरूपायै नमः)
 
-+++
+---
   
  श्रीबालाष्टोत्तरशतनामावलिः ३   
 ॐ ऐं ह्रीं श्रीं अणुरूपायै नमः । महारूपायै नमः । ज्योतीरूपायै  
@@ -54,7 +54,7 @@ title = "बालाष्टोत्तरशतनामावलिः ३ 
 नमः । पश्यायै नमः । अपरायै नमः । मध्यायै नमः ।  
 दिव्यनादविलासिन्यै नमः । नादाय नमः । बिन्दवे नमः । कलायै  
 नमः । ज्योतिषे नमः । विजयायै नमः । भुवनेश्वर्यै नमः ।  
-ऐङ्कारिण्यै नमः । भयङ्कार्यै नमः । क्लिंङ्कार्यै नमः । १००॥  
+ऐङ्कारिण्यै नमः । भयङ्कार्यै नमः । क्लिङ्ङ्कार्यै नमः । १००॥  
   
 ॐ कमलप्रियायै नमः । सौःकार्यै नमः । शिवपत्न्यै नमः ।  
 परतत्त्वप्रकाशिन्यै नमः । ह्रीङ्कार्यै नमः । आदिमायायै नमः ।  

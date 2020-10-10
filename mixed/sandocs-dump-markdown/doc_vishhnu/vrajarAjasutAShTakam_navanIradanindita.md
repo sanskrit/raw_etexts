@@ -1,23 +1,25 @@
-+++
-"Text title" = "Vrajarajasutashtakam"
-"File name" = "vrajarAjasutAShTakam.itx"
-itxtitle = "vrajarAjasutAShTakam (navanIradanindita)"
-engtitle = "Vrajarajasutashtakam"
-Category = "vishhnu, aShTaka, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Riksaraja Prabhu popularized this song in his 1978 Golden Avatar album “Reservoir of Pleasure.” It was rendered in Raga Madhyamad Saranga in Bhajani Tala"
-Indexextra = "(Meaning, Spanish)"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "व्रजराजसुताष्टकम् (नवनीरदनिन्दित)"
+---
+Category: vishhnu, aShTaka, krishna
+Description/comments: Riksaraja Prabhu popularized this song in his 1978 Golden Avatar
+  album “Reservoir of Pleasure.” It was rendered in Raga Madhyamad Saranga in Bhajani
+  Tala
+File name: vrajarAjasutAShTakam.itx
+Indexextra: (Meaning, Spanish)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Vrajarajasutashtakam
+engtitle: Vrajarajasutashtakam
+itxtitle: vrajarAjasutAShTakam (navanIradanindita)
+title: व्रजराजसुताष्टकम् (नवनीरदनिन्दित)
 
-+++
+---
   
  व्रजराजसुताष्टकम्   
 नवनीरदनिन्दितकान्तिधरं  

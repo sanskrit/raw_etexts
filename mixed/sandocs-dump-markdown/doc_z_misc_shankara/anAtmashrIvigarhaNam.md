@@ -1,24 +1,25 @@
-+++
-"Text title" = "anAtmashrIvigarhaNam"
-"File name" = "anatmashrivigarhanam.itx"
-itxtitle = "anAtmashrIvigarhaNam"
-engtitle = "Anatmashrivigarhanam"
-Category = "vedanta, shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com, ganapathy kottur kv_ganapathy at yahoo.co.uk"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Translated by" = "Meanings in http://www.kamakoti.org/shlokas/kshlok27.htm"
-Indexextra = "(meaning)"
-"Latest update" = "December 24, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अनात्मश्रीविगर्हणम्"
+---
+Author: Adi Shankaracharya
+Category: vedanta, shankarAchArya
+File name: anatmashrivigarhanam.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: December 24, 2013
+Location: doc_z_misc_shankara
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: anAtmashrIvigarhaNam
+Translated by: Meanings in http://www.kamakoti.org/shlokas/kshlok27.htm
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com, ganapathy kottur kv_ganapathy
+  at yahoo.co.uk
+engtitle: Anatmashrivigarhanam
+itxtitle: anAtmashrIvigarhaNam
+title: अनात्मश्रीविगर्हणम्
 
-+++
+---
   
  अनात्मश्रीविगर्हणम्   
   
@@ -38,7 +39,7 @@ title = "अनात्मश्रीविगर्हणम्"
 येन स्वात्मा नैव साक्षात्कृतोऽभूत् ॥ ३॥  
   
 स्नातस्तीर्थे जह्नुजादौ ततः किं  
-दानं दत्तं द्व्यष्टसंख्यं ततः किम् ।  
+दानं दत्तं द्व्यष्टसङ्ख्यं ततः किम् ।  
 जप्ता मन्त्राः कोटिशो वा ततः किं  
 येन स्वात्मा नैव साक्षात्कृतोऽभूत् ॥ ४॥  
   
@@ -99,7 +100,7 @@ title = "अनात्मश्रीविगर्हणम्"
   
 धातुर्लोकः साधितो वा ततः किं  
 विष्णोर्लोको वीक्षितो वा ततः किम् ।  
-शंभोर्लोकः शासितो वा ततः किं  
+शम्भोर्लोकः शासितो वा ततः किं  
 येन स्वात्मा नैव साक्षात्कृतोऽभूत् ॥ १६॥  
   
 यस्येदं हृदये सम्यगनात्मश्रीविगर्हणम् ।  

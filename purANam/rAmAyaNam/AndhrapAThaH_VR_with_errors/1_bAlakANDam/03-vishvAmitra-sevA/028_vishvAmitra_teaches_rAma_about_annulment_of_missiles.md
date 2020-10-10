@@ -3,7 +3,6 @@ title: 028 अस्त्रसंहारोपदेशः
 title_english: 028 vishvAmitra teaches rAma about annulment of missiles
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-028-Asthra_Samharo_Padeshaha.mp3"></div>
 
 प्रतिगृह्य ततोऽस्त्राणि प्रहृष्टवदनः शुचिः।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Matangi Stotra Pushpanjali"
-"File name" = "mAtangIstotrapuShpAnjalI.itx"
-itxtitle = "mAtaNgIstotrapuShpAnjaliH"
-engtitle = "Matangi Stotra Pushpanjali"
-Category = "devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Lalitha Parameswari parameswari.lalitha at gmail.com"
-"Proofread by" = "Lalitha Parameswari, NA"
-Indexextra = "(Mahavidya Chatushtayam)"
-"Latest update" = "June 2, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मातण्गीस्तोत्रपुष्पाञ्जलिः"
+---
+Category: devii, dashamahAvidyA, devI
+File name: mAtangIstotrapuShpAnjalI.itx
+Indexextra: (Mahavidya Chatushtayam)
+Language: Sanskrit
+Latest update: June 2, 2018
+Location: doc_devii
+Proofread by: Lalitha Parameswari, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Matangi Stotra Pushpanjali
+Transliterated by: Lalitha Parameswari parameswari.lalitha at gmail.com
+engtitle: Matangi Stotra Pushpanjali
+itxtitle: mAtaNgIstotrapuShpAnjaliH
+title: मातण्गीस्तोत्रपुष्पाञ्जलिः
 
-+++
+---
   
  श्रीमातङ्गीस्तोत्रपुष्पाञ्जलिः   
 अस्ति नानाविधंशस्तं वस्तुनावैणिकेन वः ।  

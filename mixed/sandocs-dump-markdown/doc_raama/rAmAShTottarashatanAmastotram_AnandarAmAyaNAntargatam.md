@@ -1,24 +1,24 @@
-+++
-"Text title" = "raamaaShTottarashatanaama stotraM"
-"File name" = "raama108stAnanda.itx"
-itxtitle = "rAmAShTottarashatanAmastotram (AnandarAmAyaNAntargatam)"
-engtitle = "rAmAShTottarashatanAma stotram"
-Category = "aShTottarashatanAma, raama, stotra, vAlmIki"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "Valmiki"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Antaratma antaratma at Safe-mail.net , psaeaswaran at gmail"
-"Proofread by" = "Antaratma antaratma at Safe-mail.net , psaeaswaran at gmail"
-Description-comments = "from Anandaramayana"
-"Latest update" = "July 4, 2006, August 24, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टोत्तरशतनामस्तोत्रम् (आनन्दरामायणान्तर्गतम्)"
+---
+Author: Valmiki
+Category: aShTottarashatanAma, raama, stotra, vAlmIki
+Description-comments: from Anandaramayana
+File name: raama108stAnanda.itx
+Language: Sanskrit
+Latest update: July 4, 2006, August 24, 2014
+Location: doc_raama
+Proofread by: Antaratma antaratma at Safe-mail.net , psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: raama
+Text title: raamaaShTottarashatanaama stotraM
+Texttype: stotra
+Transliterated by: Antaratma antaratma at Safe-mail.net , psaeaswaran at gmail
+engtitle: rAmAShTottarashatanAma stotram
+itxtitle: rAmAShTottarashatanAmastotram (AnandarAmAyaNAntargatam)
+title: रामाष्टोत्तरशतनामस्तोत्रम् (आनन्दरामायणान्तर्गतम्)
 
-+++
+---
   
  रामाष्टोत्तरशतनामस्तोत्रम्   
   

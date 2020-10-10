@@ -1,24 +1,24 @@
-+++
-"Text title" = "dashAvatArastotram 3"
-"File name" = "dashAvatArastotram3.itx"
-itxtitle = "dashAvatArastotram 3 (chalallolakallola shaNkarAchAryavirachitaM)"
-engtitle = "dashAvatArastotram 3"
-Category = "vishhnu, dashAvatAra, shankarAchArya, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Nat Natarajan nat.natarajan at gmail.com"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, NA"
-Description-comments = "From Brihatstotraratnakara with 408 stotras"
-"Latest update" = "June 5, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतारस्तोत्रम् ३ (चलल्लोलकल्लोल शण्कराचार्यविरचितं)"
+---
+Author: Shankaracharya
+Category: vishhnu, dashAvatAra, shankarAchArya, vishnu
+Description-comments: From Brihatstotraratnakara with 408 stotras
+File name: dashAvatArastotram3.itx
+Language: Sanskrit
+Latest update: June 5, 2016
+Location: doc_vishhnu
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dashAvatArastotram 3
+Transliterated by: Nat Natarajan nat.natarajan at gmail.com
+engtitle: dashAvatArastotram 3
+itxtitle: dashAvatArastotram 3 (chalallolakallola shaNkarAchAryavirachitaM)
+title: दशावतारस्तोत्रम् ३ (चलल्लोलकल्लोल शण्कराचार्यविरचितं)
 
-+++
+---
   
  दशावतारस्तोत्रम् ३   
 चलल्लोलकल्लोलकल्लोलिनीशस्फुरन्नक्रचक्रातिवक्त्राम्बुलिनः ।  

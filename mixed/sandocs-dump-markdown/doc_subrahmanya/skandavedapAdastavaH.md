@@ -1,22 +1,23 @@
-+++
-"Text title" = "Skanda Vedapada Stavah"
-"File name" = "skandavedapAdastavaH.itx"
-itxtitle = "skandavedapAdastavaH"
-engtitle = "skandavedapAdastavaH"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mahaperiaval trust"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24 at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "from subrahmaNyastutimanjarI"
-Indexextra = "(Scan)"
-"Latest update" = "November 29, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्कन्दवेदपादस्तवः"
+---
+Description-comments: from subrahmaNyastutimanjarI
+File name: skandavedapAdastavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: November 29, 2019
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan shivakumar24 at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Skanda Vedapada Stavah
+Transliterated by: Mahaperiaval trust
+engtitle: skandavedapAdastavaH
+itxtitle: skandavedapAdastavaH
+title: स्कन्दवेदपादस्तवः
 
-+++
+---
   
  स्कन्दवेदपादस्तवः   
 यो देवानां पुरो दित्सुरर्थिभ्यो वरमीप्सितम् ।  
@@ -73,7 +74,7 @@ title = "स्कन्दवेदपादस्तवः"
 यदीयमायाऽऽवरणाख्यशक्ति तिरोहितान्तः करणा हि मूढाः ।  
 न जानते त्वां गुह तं प्रपद्ये परेण नाकं निहितं गुहायाम् ॥ १८॥  
   
-गुरूपदेशाधिगतेन योगमार्गेण संप्राप्य च योगिनस्त्वाम् ।  
+गुरूपदेशाधिगतेन योगमार्गेण सम्प्राप्य च योगिनस्त्वाम् ।  
 गुहं परं ब्रह्म हृदम्बुजस्थं विभ्राजदेतद्यतयो विशन्ति ॥ १९॥  
   
 यो देवसेनापतिरादराद्वै ब्रह्मादिभिर्देवगणैरभिष्टुतः ।  
@@ -275,7 +276,7 @@ title = "स्कन्दवेदपादस्तवः"
 जहि देवेश यस्मात्त्वं रक्षोहामीवचातनः ॥ ८३॥  
   
 दुर्वृत्तेभ्यो धनं धत्से नीचेभ्योऽपि धनं बहु ।  
-न ददासि कुतो मह्यं एतत्पृच्छामि संप्रति ॥ ८४॥  
+न ददासि कुतो मह्यं एतत्पृच्छामि सम्प्रति ॥ ८४॥  
   
 मुखैरेतान्महारौद्रान् दूरीकुरु जगत्पते ।  
 मम स्वमभिकाङ्क्षन्ते ये स्तेना ये च तस्कराः ॥ ८५॥  
@@ -344,7 +345,7 @@ title = "स्कन्दवेदपादस्तवः"
 पुनीह्यस्मांस्ततः स्कन्द यत्किञ्चानृतमूदिम ॥ १०६॥  
   
 तमागसं क्षमस्व त्वं स्वकीयाभीष्टलिप्सया ।  
-संप्रार्थ्य तुभ्यं वाऽन्यस्मै यद्वाचाऽनृतमूदिम ॥ १०७॥  
+सम्प्रार्थ्य तुभ्यं वाऽन्यस्मै यद्वाचाऽनृतमूदिम ॥ १०७॥  
   
 सौन्दर्यवल्ल्या सहितं अम्बया देवसेनया ।  
 महासेनं भजे देवं सत्येन तपसा सह ॥ १०८॥  

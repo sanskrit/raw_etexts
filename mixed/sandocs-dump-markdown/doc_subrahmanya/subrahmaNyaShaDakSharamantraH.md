@@ -1,23 +1,23 @@
-+++
-"Text title" = "Subrahmanya Shadakshara Mantra"
-"File name" = "subrahmaNyaShaDakSharamantraH.itx"
-itxtitle = "subrahmaNyaShaDakSharamantraH"
-engtitle = "subrahmaNyaShaDakSharamantraH"
-Category = "subrahmanya, mantra"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mahaperiaval trust"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-Description-comments = "Subramanya Sthuthi Manjari, Ed. S.V.Radhakrishna Sastri"
-Indexextra = "(Scan)"
-"Latest update" = "February 8, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यषडक्षरमन्त्रः"
+---
+Category: subrahmanya, mantra
+Description-comments: Subramanya Sthuthi Manjari, Ed. S.V.Radhakrishna Sastri
+File name: subrahmaNyaShaDakSharamantraH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: February 8, 2020
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: subrahmanya
+Text title: Subrahmanya Shadakshara Mantra
+Transliterated by: Mahaperiaval trust
+engtitle: subrahmaNyaShaDakSharamantraH
+itxtitle: subrahmaNyaShaDakSharamantraH
+title: सुब्रह्मण्यषडक्षरमन्त्रः
 
-+++
+---
   
  सुब्रह्मण्यषडक्षरमन्त्रः   
 अस्य श्रीसुब्रह्मण्यषडक्षरमहामन्त्रस्य, अगस्त्यः ऋषिः ।  
@@ -68,7 +68,7 @@ guru or priest knowing Sanskrit meaning.)
 वज्रं च, विदिग्दलेषु शक्तिकुक्कुटौ मयूरद्विपौ, पत्राद्येषु,  
 तद्बाह्ये लोकेश्वरान् तदस्त्राणि च पूजयेत् ॥  
   
-पुष्ठ्यां संप्रीणयद्देवं स्वादुभिर्भक्ष्यभोज्यकैः ।  
+पुष्ठ्यां सम्प्रीणयद्देवं स्वादुभिर्भक्ष्यभोज्यकैः ।  
 पूजयेद्देवताबुद्ध्या कुमारान्ब्रह्मचारिणः ॥  
   
 पूजितस्तु स देवोऽपि सन्तानं विजयं यशः ।  

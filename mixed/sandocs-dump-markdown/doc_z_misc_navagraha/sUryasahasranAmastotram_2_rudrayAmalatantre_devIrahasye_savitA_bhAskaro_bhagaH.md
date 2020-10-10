@@ -1,24 +1,26 @@
-+++
-"Text title" = "sUryasahasranAmastotram 2"
-"File name" = "sUryasahasranAmastotra.itx"
-itxtitle = "sUryasahasranAmastotram 2 (rudrayAmalatantre devIrahasye savitA bhAskaro bhagaH)"
-engtitle = "sUrya sahasranAma stotra 2"
-Category = "sahasranAma, navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD, Sunder Hattanagdi sunderh at hotmail.com"
-Description-comments = "rudrayAmalatantre devIrahasye paTala 34.  See corresponding Namavali"
-Indexextra = "(scanned, nAmavalI 1, 2 scan)"
-"Latest update" = "May 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्यसहस्रनामस्तोत्रम् २ (रुद्रयामलतन्त्रे देवीरहस्ये सविता भास्करो भगः)"
+---
+Category: sahasranAma, navagraha, stotra
+Description-comments: rudrayAmalatantre devIrahasye paTala 34.  See corresponding
+  Namavali
+File name: sUryasahasranAmastotra.itx
+Indexextra: (scanned, nAmavalI 1, 2 scan)
+Language: Sanskrit
+Latest update: May 2, 2017
+Location: doc_z_misc_navagraha
+Proofread by: DPD, Sunder Hattanagdi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: sUryasahasranAmastotram 2
+Texttype: stotra
+Transliterated by: DPD
+engtitle: sUrya sahasranAma stotra 2
+itxtitle: sUryasahasranAmastotram 2 (rudrayAmalatantre devIrahasye savitA bhAskaro
+  bhagaH)
+title: सूर्यसहस्रनामस्तोत्रम् २ (रुद्रयामलतन्त्रे देवीरहस्ये सविता भास्करो भगः)
 
-+++
+---
   
  श्रीसूर्यसहस्रनामस्तोत्रम् २   
 श्रीरुद्रयामले तन्त्रे श्रीदेवीरहस्ये  

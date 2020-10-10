@@ -3,7 +3,6 @@ title: 095 Rama and Seetha spend some time at Mandakini River
 title_english: 095 Rama and Seetha spend some time at Mandakini River
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-095-Mandakini_Soundaryam_Adhika_Pataha.mp3"></div>
 
 अथ शैलाद् विनिष्क्रम्य मैथिलीम् कोसल ईश्वरः ।  
@@ -24,7 +23,7 @@ title_english: 095 Rama and Seetha spend some time at Mandakini River
 पादपैः पत्र पुष्पाणि सृजद्भिर् अभितो नदीम् ॥ २-९५-८  
 कच्चिन् मणि निकाश उदाम् कच्चित् पुलिन शालिनीम् ।  
 कच्चित् सिद्ध जन आकीर्णाम् पश्य मन्दाकिनीम् नदीम् ॥ २-९५-९  
-निर्धूतान् वायुना पश्य विततान् पुष्प संचयान् ।  
+निर्धूतान् वायुना पश्य विततान् पुष्प सञ्चयान् ।  
 पोप्लूयमानान् अपरान् पश्य त्वम् जल मध्यगान् ॥ २-९५-१०  
 तामः च अतिवल्गु वचसो रथ अन्ग आह्वयना द्विजाः ।  
 अधिरोहन्ति कल्याणि निष्कूजन्तः शुभाः गिरः ॥ २-९५-११  
@@ -48,4 +47,4 @@ title_english: 095 Rama and Seetha spend some time at Mandakini River
 प्रिया सहायः सरितम् प्रति ब्रुवन् ।  
 चचार रम्यम् नयन अन्जन प्रभम् ।  
 स चित्र कूटम् रघु वंश वर्धनः ॥ २-९५-१९  
-इत्यार्षे श्रीमद्रामायणे आदिकाव्ये अयोध्याकांडे पंचनवतितमः सर्गः
+इत्यार्षे श्रीमद्रामायणे आदिकाव्ये अयोध्याकाण्डे पञ्चनवतितमः सर्गः

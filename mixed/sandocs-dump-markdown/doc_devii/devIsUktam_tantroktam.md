@@ -1,24 +1,25 @@
-+++
-"Text title" = "tantroktadevIsUktam"
-"File name" = "tantroktadeviisuukta.itx"
-itxtitle = "devIsUktam (tantroktam)"
-engtitle = "tantroktadevIsUktam"
-Category = "sUkta, devii, durgA, svara, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "svara"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com, Chetan Pandya pandyacus at gmail.com"
-"Latest update" = "June 26, 2004, January 31, 2009"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीसूक्तम् (तन्त्रोक्तम्)"
+---
+Author: Traditional
+Category: sUkta, devii, durgA, svara, devI
+File name: tantroktadeviisuukta.itx
+Language: Sanskrit
+Latest update: June 26, 2004, January 31, 2009
+Location: doc_devii
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com, Chetan Pandya pandyacus
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tantroktadevIsUktam
+Texttype: svara
+Transliterated by: WebD
+engtitle: tantroktadevIsUktam
+itxtitle: devIsUktam (tantroktam)
+title: देवीसूक्तम् (तन्त्रोक्तम्)
 
-+++
+---
   
  अथ तन्त्रोक्तं देवीसूक्तम्   
   

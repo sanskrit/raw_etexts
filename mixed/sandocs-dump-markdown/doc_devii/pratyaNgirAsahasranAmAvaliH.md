@@ -1,24 +1,24 @@
-+++
-"Text title" = "Pratyangira SahasranAmavali 967 Names"
-"File name" = "pratyangirAsahasranAmAvaliH.itx"
-itxtitle = "pratyaNgirAsahasranAmAvaliH"
-engtitle = "pratyangirAsahasranAmAvali"
-Category = "sahasranAmAvalI, devii, dashamahAvidyA, devI, nAmAvalI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "See corresponding stotra.  It has only 967 names counted"
-Source = "shrIrudrayAmale tantre dashavidyA rahasye"
-Indexextra = "(Scan)"
-"Latest update" = "July 2, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "प्रत्यण्गिरासहस्रनामावलिः"
+---
+Category: sahasranAmAvalI, devii, dashamahAvidyA, devI, nAmAvalI
+Description-comments: See corresponding stotra.  It has only 967 names counted
+File name: pratyangirAsahasranAmAvaliH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 2, 2019
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrIrudrayAmale tantre dashavidyA rahasye
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Pratyangira SahasranAmavali 967 Names
+engtitle: pratyangirAsahasranAmAvali
+itxtitle: pratyaNgirAsahasranAmAvaliH
+title: प्रत्यण्गिरासहस्रनामावलिः
 
-+++
+---
   
  श्रीप्रत्यङ्गिरासहस्रनामावलिः   
 ईश्वर उवाच ।  
@@ -130,7 +130,7 @@ title = "प्रत्यण्गिरासहस्रनामावल�
 ज्वरहायै । ज्वर्यै नमः । २६०  
   
 ॐ झञ्झानीलमय्यै नमः । झञ्झाझणत्कारकराचलायै ।  
-झिंटीशायै । झस्यकृते । झम्पायै । यमत्रासनिवारिण्यै ।  
+झिण्टीशायै । झस्यकृते । झम्पायै । यमत्रासनिवारिण्यै ।  
 टङ्कारस्थायै । टङ्कधरायै । टङ्कारकारणायै । टस्यै । ठकुरायै ।  
 ठीकृत्यै । ठिण्ठीरवसनावृतायै । ठण्ठानीलमय्यै । ठण्ठायै ।  
 ठणत्कारकरायै । ठसायै । डाकिन्यै । डामरायै ।  

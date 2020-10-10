@@ -1,23 +1,23 @@
-+++
-"Text title" = "sarasvatIbhaktidhArAstotram"
-"File name" = "sarasvatIbhaktidhArAstotram.itx"
-itxtitle = "sarasvatIbhaktidhArAstotram (rAmadAsavirachitam)"
-engtitle = "sarasvatIbhaktidhArAstotram"
-Category = "devii, sarasvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Author = "Ramadas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada, PSA Easwaran"
-"Latest update" = "January 4, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीभक्तिधारास्तोत्रम् (रामदासविरचितम्)"
+---
+Author: Ramadas
+Category: devii, sarasvatI, devI
+File name: sarasvatIbhaktidhArAstotram.itx
+Language: Sanskrit
+Latest update: January 4, 2020
+Location: doc_devii
+Proofread by: Malleswara Rao Yellapragada, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatIbhaktidhArAstotram
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: sarasvatIbhaktidhArAstotram
+itxtitle: sarasvatIbhaktidhArAstotram (rAmadAsavirachitam)
+title: सरस्वतीभक्तिधारास्तोत्रम् (रामदासविरचितम्)
 
-+++
+---
   
  श्रीज्ञानसरस्वती(बासर) भक्तिधारास्तोत्रम्   
 विहितनमस्कारशरण्यां सुखप्रदां  

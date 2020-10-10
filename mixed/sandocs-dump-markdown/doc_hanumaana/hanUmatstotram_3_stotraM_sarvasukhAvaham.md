@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanUmatstotram3"
-"File name" = "hanUmatstotram3.itx"
-itxtitle = "hanUmatstotram 3 (stotraM sarvasukhAvaham)"
-engtitle = "hanUmatstotram 3"
-Category = "hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "September 19, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनूमत्स्तोत्रम् ३ (स्तोत्रं सर्वसुखावहम्)"
+---
+Category: hanumaana, stotra, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanUmatstotram3.itx
+Language: Sanskrit
+Latest update: September 19, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanUmatstotram3
+Texttype: stotra
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: hanUmatstotram 3
+itxtitle: hanUmatstotram 3 (stotraM sarvasukhAvaham)
+title: हनूमत्स्तोत्रम् ३ (स्तोत्रं सर्वसुखावहम्)
 
-+++
+---
   
  श्रीहनूमत्स्तोत्रम् ३   
   

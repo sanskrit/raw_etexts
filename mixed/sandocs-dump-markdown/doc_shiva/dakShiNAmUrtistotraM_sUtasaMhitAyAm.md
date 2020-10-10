@@ -1,29 +1,29 @@
-+++
-"Text title" = "dakShiNAmUrtistotra from Suta Samhita"
-"File name" = "dakShiNAmUrtistotraSutasamhita.itx"
-itxtitle = "dakShiNAmUrtistotraM sUtasaMhitAyAm"
-engtitle = "dakShiNAmUrtistotra from Suta Samhita"
-Category = "shiva, stotra"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Transliterated by" = "Venkata sriram P venkatasriramp at yahoo.in"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "July 4, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्तिस्तोत्रं सूतसंहितायाम्"
+---
+Category: shiva, stotra
+File name: dakShiNAmUrtistotraSutasamhita.itx
+Language: Sanskrit
+Latest update: July 4, 2012
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism
+Sublocation: shiva
+Text title: dakShiNAmUrtistotra from Suta Samhita
+Texttype: stotra
+Transliterated by: Venkata sriram P venkatasriramp at yahoo.in
+engtitle: dakShiNAmUrtistotra from Suta Samhita
+itxtitle: dakShiNAmUrtistotraM sUtasaMhitAyAm
+title: दक्षिणामूर्तिस्तोत्रं सूतसंहितायाम्
 
-+++
+---
   
  दक्षिणामूर्तिस्तोत्रं सूतसंहिता   
   
-प्रलंबितजटाबद्धं चन्द्ररेखावतंसकम् ।  
+प्रलम्बितजटाबद्धं चन्द्ररेखावतंसकम् ।  
 नीलग्रीवं शरच्चन्द्रिकाभिर्विराजितम् ॥ १॥  
   
-गोक्षीरधवलाकारं चन्द्रबिंबसमाननम् ।  
+गोक्षीरधवलाकारं चन्द्रबिम्बसमाननम् ।  
 सुस्मितं सुप्रसन्नं च स्वात्मतत्त्वैकसंस्थितम् ॥ २॥  
   
 गङ्गाधरं शिवं शान्तं लसत्केयूरमण्डितम् ।  

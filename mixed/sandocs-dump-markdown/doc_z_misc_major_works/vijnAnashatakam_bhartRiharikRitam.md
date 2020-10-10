@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vijnanashataka"
-"File name" = "vijnAnashatakam.itx"
-itxtitle = "vijnAnashatakam (bhartRiharikRitam)"
-engtitle = "Vijnanashataka by Bhartrihari"
-Category = "shataka, major_works, bhartrihari"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Bhartrihari"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "sunder hattangadi sunderh at hotmail.com"
-"Proofread by" = "sunder hattangadi sunderh at hotmail.com"
-Description-comments = "From a scanned copy of text by K. B. Ghule(1896)"
-"Latest update" = "August 23, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विज्ञानशतकम् (भर्तृइहरिकृइतम्)"
+---
+Author: Bhartrihari
+Category: shataka, major_works, bhartrihari
+Description-comments: From a scanned copy of text by K. B. Ghule(1896)
+File name: vijnAnashatakam.itx
+Language: Sanskrit
+Latest update: August 23, 2013
+Location: doc_z_misc_major_works
+Proofread by: sunder hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: Vijnanashataka
+Transliterated by: sunder hattangadi sunderh at hotmail.com
+engtitle: Vijnanashataka by Bhartrihari
+itxtitle: vijnAnashatakam (bhartRiharikRitam)
+title: विज्ञानशतकम् (भर्तृइहरिकृइतम्)
 
-+++
+---
   
  विज्ञानशतकं भर्तृहरिकृत   
   
@@ -173,7 +173,7 @@ title = "विज्ञानशतकम् (भर्तृइहरिकृ
   
 रे रे चित्त मदान्ध मोहबधिरा मिथ्याभिमानोद्धता  
        व्यर्थेयं भवतां धनावनरतिः संसारकारागृहे ।  
-बद्धानां निगडेन गात्रममतासंज्ञेन यत्कर्हिचि-  
+बद्धानां निगडेन गात्रममतासञ्ज्ञेन यत्कर्हिचि-  
        द्देवब्राह्मणभिक्षुकादिषु धनं स्वप्नेऽपि न व्येति वः ॥ ३१॥  
   
 यावत्ते यमकिङ्कराः करतलक्रूरासिपाशादयो  
@@ -327,7 +327,7 @@ title = "विज्ञानशतकम् (भर्तृइहरिकृ
        सुरसरिदिव ख्याता लोके पवित्रितभूतला ॥ ६१॥  
   
 धन्या एते पुमांसो यदयमहमिति त्यक्तचेतोविकल्पा  
-       निश्शङ्कं संचरन्तो विदधति मलिनं कर्म कामप्रयुक्ताः ।  
+       निश्शङ्कं सञ्चरन्तो विदधति मलिनं कर्म कामप्रयुक्ताः ।  
 जानन्तोऽप्यर्थहीनं जगदिदमखिलं भ्रान्तवद्द्वैतजालं  
        रागद्वेषादिमन्तो वयमयमिति हा न त्यजन्तेऽभिमानम्॥ ६२॥  
   
@@ -362,7 +362,7 @@ title = "विज्ञानशतकम् (भर्तृइहरिकृ
        ब्रह्माण्डं प्लावयन्ती त्रिपुरहरजटामण्डलं मण्डयन्तीम् ॥ ६८॥  
   
 यत्तीरे वसतां सतामपि जलैर्मूलैः फलैर्जीवतां  
-       मुक्ताहंममभावशुद्धमनसामाचारविद्यावताम् ।  
+       मुक्ताहम्ममभावशुद्धमनसामाचारविद्यावताम् ।  
 कैवल्यं करबिल्वतुल्यममलं सम्पद्यते हेलया ।  
        स गङ्गा ह्यतुलामलोर्मिमपटला सद्भिः कुतो नेक्ष्यते ६९॥  
   
@@ -447,11 +447,11 @@ title = "विज्ञानशतकम् (भर्तृइहरिकृ
        श्रीरङ्गो भुवनोदयावनलयव्यापारचक्रेक्रियाः ॥ ८५॥  
   
 तुल्यार्थेन त्वमैक्यं त्रिभुवनजनकस्तत्पदार्थःप्रपद्य  
-       प्रत्यक्षं मोहजन्म त्यजति भगवति त्वंपदार्थोऽपि जीवः ।  
+       प्रत्यक्षं मोहजन्म त्यजति भगवति त्वम्पदार्थोऽपि जीवः ।  
 श्रुत्याचार्यप्रसादान्निरुपमविलसद्ब्रह्मविद्यैस्तदैक्यं  
        प्राप्यानन्दप्रतिष्ठो भवति विगलितानाद्यविद्योपरीहः ॥ ८६॥  
   
-संन्यासो विहितस्य केशवपदद्वन्द्वे व्यधायि श्रुता  
+सन्न्यासो विहितस्य केशवपदद्वन्द्वे व्यधायि श्रुता  
        वेदान्ता निरवद्यनिष्कलपरानन्दाः सुनिष्ठाश्चिरम् ।  
 संसारे वधबन्धदुःखबहुले मायाविलासेऽव्ययं  
        ब्रह्मास्मीति विहाय नान्यदधुना कर्तव्यमास्ते क्वचित् ॥ ८७॥  
@@ -482,7 +482,7 @@ title = "विज्ञानशतकम् (भर्तृइहरिकृ
        च्चित्रं संसृतिपद्धतिः प्रथयति प्रीतिञ्च कष्टञ्च नः ॥ ९३॥  
   
 नान्नं जीर्यति किञ्चिदौषधबलं नालं स्वकार्योदये  
-       शक्तिश्चंक्रमणे न हन्त जरया जीर्णीकृतायां तनौ ।  
+       शक्तिश्चङ्क्रमणे न हन्त जरया जीर्णीकृतायां तनौ ।  
 अस्माकं त्वधुना न लोचनबलं पुत्रेति चिन्ताकुलो  
        ग्लायत्यर्थपरायणोऽतिकृपणो मिथ्याभिमानो गृही ॥ ९४॥  
   

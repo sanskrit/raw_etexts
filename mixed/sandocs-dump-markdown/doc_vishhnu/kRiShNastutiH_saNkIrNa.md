@@ -1,24 +1,24 @@
-+++
-"Text title" = "kRRiShNastutiH sankIrNa"
-"File name" = "kRRiShNastutiHsankIrNa.itx"
-itxtitle = "kRiShNastutiH (saNkIrNa)"
-engtitle = "kRRiShNastutiH sankIrNa"
-Category = "vishhnu, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णस्तुतिः (सण्कीर्ण)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: vishhnu, krishna
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: kRRiShNastutiHsankIrNa.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kRRiShNastutiH sankIrNa
+engtitle: kRRiShNastutiH sankIrNa
+itxtitle: kRiShNastutiH (saNkIrNa)
+title: कृइष्णस्तुतिः (सण्कीर्ण)
 
-+++
+---
   
  श्रीकृष्णस्तुतिः सङ्कीर्णा   
   
@@ -177,7 +177,7 @@ title = "कृइष्णस्तुतिः (सण्कीर्ण)"
   
 मातस्तर्णकरक्षणाय यमुनाकच्छं न गच्छाम्यहं  
 कस्माद्वत्स पिनष्टि पीवरकुचद्वन्द्वेन गोपीजनः ।  
-भ्रूसंज्ञाविनिवारितोऽपि बहुशो जल्पन्यशोदाग्रतो  
+भ्रूसञ्ज्ञाविनिवारितोऽपि बहुशो जल्पन्यशोदाग्रतो  
 गोपीपाणिसरोजमुद्रितमुखो गोपीपतिः पातु वः ॥ ४२॥  
   
 कासि त्वं वद चौर्यकारिणि कुतः कस्त्वं पुरो यामिकः  

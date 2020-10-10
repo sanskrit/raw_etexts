@@ -1,23 +1,23 @@
-+++
-"Text title" = "hanumaddhyAnam"
-"File name" = "hanumaddhyAnam.itx"
-itxtitle = "hanumaddhyAnam (mArkaNDeyapurANataH marakatamaNivarNaM)"
-engtitle = "hanumaddhyAnam"
-Category = "hanumaana, stotra, hanuman, dhyAnam"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "September 18, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमद्ध्यानम् (मार्कण्डेयपुराणतः मरकतमणिवर्णं)"
+---
+Category: hanumaana, stotra, hanuman, dhyAnam
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumaddhyAnam.itx
+Language: Sanskrit
+Latest update: September 18, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: hanumaddhyAnam
+Texttype: stotra
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: hanumaddhyAnam
+itxtitle: hanumaddhyAnam (mArkaNDeyapurANataH marakatamaNivarNaM)
+title: हनुमद्ध्यानम् (मार्कण्डेयपुराणतः मरकतमणिवर्णं)
 
-+++
+---
   
  श्रीहनुमद्ध्यानम् मार्कण्डेयपुराणतः   
 मरकतमणिवर्णं दिव्यसौन्दर्यदेहं  

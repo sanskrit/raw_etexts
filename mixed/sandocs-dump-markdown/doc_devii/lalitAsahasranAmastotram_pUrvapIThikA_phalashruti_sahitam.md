@@ -1,27 +1,27 @@
-+++
-"Text title" = "lalitAsahasranAmastotram"
-"File name" = "lalitacomplete.itx"
-itxtitle = "lalitAsahasranAmastotram (pUrvapIThikA phalashruti sahitam)"
-engtitle = "lalitAsahasranAmastotram with pUrvapIThikA and phalashruti"
-Category = "sahasranAma, devii, dashamahAvidyA, lalitA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Subcategory = "lalitA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "M. Giridhar giridharmadras at gmail.com"
-"Proofread by" = "M. Giridhar, Kirk Wortman, Sunder Hattangadi, DPD"
-"Translated by" = "Comments by M. Giridhar"
-Description-comments = "With pUrvapIThikA and phalashruti"
-Indexextra = "(verses + commentary  2 (meanings, insight, 1, 2))"
-"Latest update" = "August 2, 2002, December 24, 2013, October 9, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललितासहस्रनामस्तोत्रम् (पूर्वपीठिका फलश्रुति सहितम्)"
+---
+Category: sahasranAma, devii, dashamahAvidyA, lalitA, stotra, devI
+Description-comments: With pUrvapIThikA and phalashruti
+File name: lalitacomplete.itx
+Indexextra: (verses + commentary  2 (meanings, insight, 1, 2))
+Language: Sanskrit
+Latest update: August 2, 2002, December 24, 2013, October 9, 2016
+Location: doc_devii
+Proofread by: M. Giridhar, Kirk Wortman, Sunder Hattangadi, DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subcategory: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: lalitAsahasranAmastotram
+Texttype: stotra
+Translated by: Comments by M. Giridhar
+Transliterated by: M. Giridhar giridharmadras at gmail.com
+engtitle: lalitAsahasranAmastotram with pUrvapIThikA and phalashruti
+itxtitle: lalitAsahasranAmastotram (pUrvapIThikA phalashruti sahitam)
+title: ललितासहस्रनामस्तोत्रम् (पूर्वपीठिका फलश्रुति सहितम्)
 
-+++
+---
   
  श्रीललितासहस्रनामस्तोत्रम् पूर्वपीठिका फलश्रुति सहितम्   
   
@@ -187,7 +187,7 @@ title = "ललितासहस्रनामस्तोत्रम् (प
 गौरीकोटिसमेतानां रुद्राणामपि कोटयः ॥ ३५॥  
   
 मन्त्रिणीदण्डिनीमुख्याः सेवार्थं यास्समागताः ।  
-शक्तयो विविधाकारास्तासां संख्या न विद्यते ॥ ३६॥  
+शक्तयो विविधाकारास्तासां सङ्ख्या न विद्यते ॥ ३६॥  
   
 दिव्यौघा मानवौघाश्च सिद्धौघाश्च समागताः ।  
 तत्र श्रीललितादेवी सर्वेषां दर्शनं ददौ ॥ ३७॥  
@@ -195,7 +195,7 @@ title = "ललितासहस्रनामस्तोत्रम् (प
 तेषु दृष्ट्वोपविष्टेषु स्वे स्वे स्थाने यथाक्रमम् ।  
 ततः श्रीललितादेवीकटाक्षाक्षेपचोदिताः ॥ ३८॥  
   
-उत्थाय वशिनीमुख्या बद्धांजलिपुटास्तदा ।  
+उत्थाय वशिनीमुख्या बद्धाञ्जलिपुटास्तदा ।  
 अस्तुवन्नामसाहस्रैः स्वकृतैर्लंलिताम्बिकाम् ॥ ३९॥  
   
 श्रुत्वा स्तवं प्रसन्नाऽभूल्ल्लिता परमेश्वरी ।  
@@ -906,7 +906,7 @@ title = "ललितासहस्रनामस्तोत्रम् (प
 अकीर्तयन्निदं स्तोत्रं कथं भक्तो भविष्यति ।  
 नित्यं सङ्कीर्तनाशक्तः कीर्तयेत्पुण्यवासरे ॥ १९॥  
   
-संक्रान्तौ विषुवे चैव स्वजन्मत्रितयेऽयने ।  
+सङ्क्रान्तौ विषुवे चैव स्वजन्मत्रितयेऽयने ।  
 नवम्यां वा चतुर्दश्यां सितायां शुक्रवासरे ॥ २०॥  
   
 कीर्तयेन्नामसाहस्रं पौर्णमास्यां विशेषतः ।  

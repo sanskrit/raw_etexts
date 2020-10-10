@@ -1,23 +1,23 @@
-+++
-"Text title" = "bAlAShTottarashatanAmastotram 4"
-"File name" = "bAlAShTottarashatanAmastotram4.itx"
-itxtitle = "bAlAShTottarashatanAmastotram 4 (kalyANI tripurA)"
-engtitle = "bAlAShTottarashatanAmastotram 4"
-Category = "aShTottarashatanAma, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Texttype = "nAmastotram"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Balasaparya"
-"Latest update" = "August 23, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालाष्टोत्तरशतनामस्तोत्रम् ४ (कल्याणी त्रिपुरा)"
+---
+Category: aShTottarashatanAma, devii, dashamahAvidyA, devI
+Description-comments: Balasaparya
+File name: bAlAShTottarashatanAmastotram4.itx
+Language: Sanskrit
+Latest update: August 23, 2018
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: bAlAShTottarashatanAmastotram 4
+Texttype: nAmastotram
+engtitle: bAlAShTottarashatanAmastotram 4
+itxtitle: bAlAShTottarashatanAmastotram 4 (kalyANI tripurA)
+title: बालाष्टोत्तरशतनामस्तोत्रम् ४ (कल्याणी त्रिपुरा)
 
-+++
+---
   
  श्रीबालाष्टोत्तरशतनामस्तोत्रम् ४   
 अगस्त्य उवाच-  

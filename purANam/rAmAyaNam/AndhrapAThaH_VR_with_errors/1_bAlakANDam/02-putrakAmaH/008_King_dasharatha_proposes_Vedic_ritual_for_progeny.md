@@ -3,7 +3,6 @@ title: 008 अश्वमेधसन्नाहः
 title_english: 008 King dasharatha proposes Vedic ritual for progeny
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-008-Ashvamedha_Sannahaaha.mp3"></div>
 
 तस्य त्वेवम्प्रभावस्य धर्मज्ञस्य महात्मनः।  

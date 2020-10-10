@@ -1,30 +1,30 @@
-+++
-"Text title" = "ekashloki bhAgavatam"
-"File name" = "ekashlokibhaagavata.itx"
-itxtitle = "ekashlokI bhAgavatam"
-engtitle = "ekashloki bhAgavatam"
-Category = "ekashlokI, vishhnu, krishna, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Description-comments = "Extracted from saartha shloka sangraha"
-Indexextra = "(or shrIbhAgavatasUtra)"
-"Latest update" = "February 14, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकश्लोकी भागवतम्"
+---
+Author: Traditional
+Category: ekashlokI, vishhnu, krishna, stotra, vishnu
+Description-comments: Extracted from saartha shloka sangraha
+File name: ekashlokibhaagavata.itx
+Indexextra: (or shrIbhAgavatasUtra)
+Language: Sanskrit
+Latest update: February 14, 2015
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ekashloki bhAgavatam
+Texttype: stotra
+engtitle: ekashloki bhAgavatam
+itxtitle: ekashlokI bhAgavatam
+title: एकश्लोकी भागवतम्
 
-+++
+---
   
  एकश्लोकी भागवतम्   
   
 आदौ देवकिदेविगर्भजननं गोपीगृहे वर्धनम्  
         मायापूतनजीवितापहरणं गोवर्धनोद्धारणम् ।  
-कंसच्छेदनकौरवादिहननं कुंतीसुतां पालनम्  
+कंसच्छेदनकौरवादिहननं कुन्तीसुतां पालनम्  
         एतद्भागवतं पुराणकथितं श्रीकृष्णलीलामृतम् ।  
   
         इति श्रीभागवतसूत्र ॥   
@@ -52,7 +52,7 @@ This is an aphorism on Srimad BhAgavataM.
 मायापूतनजीवितापहरणं = ?? ;  
 गोवर्धनोद्धारणं = the lifter of the mountain Govardhana Krishna;  
 कंसच्छेदनकौरवादिहननं = the cutting of Kamsa and the killing of kauravas;  
-कुंतीसुतां = sons of Kunti;  
+कुन्तीसुतां = sons of Kunti;  
 पालनं = bringing up; rearing;  
 एतद्भागवतं = this one book or story relating to God;  
 पुराणकथितं = as told in the `purANa';  

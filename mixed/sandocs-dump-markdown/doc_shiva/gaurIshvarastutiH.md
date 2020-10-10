@@ -1,21 +1,22 @@
-+++
-"Text title" = "gaurIshvarastutiH"
-"File name" = "gaurIshvarastutiH.itx"
-itxtitle = "gaurIshvarastutiH"
-engtitle = "gaurIshvarastutiH"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गौरीश्वरस्तुतिः"
+---
+Category: shiva
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: gaurIshvarastutiH.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: gaurIshvarastutiH
+engtitle: gaurIshvarastutiH
+itxtitle: gaurIshvarastutiH
+title: गौरीश्वरस्तुतिः
 
-+++
+---
   
  गौरीश्वरस्तुतिः   
   

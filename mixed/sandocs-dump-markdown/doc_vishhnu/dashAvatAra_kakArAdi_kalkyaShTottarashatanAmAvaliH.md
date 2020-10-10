@@ -1,24 +1,25 @@
-+++
-"Text title" = "kakArAdi kalkya108nAmAvaliH"
-"File name" = "kakArAdikalkya108nAmAvaliH.itx"
-itxtitle = "dashAvatAra kakArAdi kalkyaShTottarashatanAmAvaliH"
-engtitle = "kakArAdi kalkya108nAmAvaliH"
-Category = "aShTottarashatanAmAvalI, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "dashAvatAra"
-Author = "paNDita shrI bellaMkoNDa rAmarAya kavIndra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA"
-"Latest update" = "January 24, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दशावतार ककारादि कल्क्यष्टोत्तरशतनामावलिः"
+---
+Author: paNDita shrI bellaMkoNDa rAmarAya kavIndra
+Category: aShTottarashatanAmAvalI, vishhnu, dashAvatAra, paNDita-bellaMkoNDa-rAmarAya-kavIndra,
+  vishnu
+File name: kakArAdikalkya108nAmAvaliH.itx
+Language: Sanskrit
+Latest update: January 24, 2016
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: shrI dashAvatArAShTottara shatanAmAvaliH savyAkhyA
+SubDeity: dashAvatAra
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: kakArAdi kalkya108nAmAvaliH
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: kakArAdi kalkya108nAmAvaliH
+itxtitle: dashAvatAra kakArAdi kalkyaShTottarashatanAmAvaliH
+title: दशावतार ककारादि कल्क्यष्टोत्तरशतनामावलिः
 
-+++
+---
   
  ककारादि श्रीकल्क्यष्टोत्तरशतनामावलिः   
 श्री हयग्रीवाय नमः ।  

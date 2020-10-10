@@ -1,22 +1,22 @@
-+++
-"Text title" = "Ganesha Panchachamara Stotram"
-"File name" = "gaNeshapanchachAmarastotram.itx"
-itxtitle = "gaNeshapanchachAmarastotram"
-engtitle = "gaNeshapanchachAmarastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "umApatisharmadvivedi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "September 02, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणेशपञ्चचामरस्तोत्रम्"
+---
+Author: umApatisharmadvivedi
+Category: ganesha, stotra
+File name: gaNeshapanchachAmarastotram.itx
+Language: Sanskrit
+Latest update: September 02, 2004
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: Ganesha Panchachamara Stotram
+Texttype: stotra
+engtitle: gaNeshapanchachAmarastotram
+itxtitle: gaNeshapanchachAmarastotram
+title: गणेशपञ्चचामरस्तोत्रम्
 
-+++
+---
   
  श्रीगणेशपञ्चचामरस्तोत्रम्   
 श्रीगणेशाय नमः ।  

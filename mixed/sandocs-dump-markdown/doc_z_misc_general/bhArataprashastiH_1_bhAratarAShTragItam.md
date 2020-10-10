@@ -1,23 +1,24 @@
-+++
-"Text title" = "Bharata Prashasti 1"
-"File name" = "bhArataprashastiH.itx"
-itxtitle = "bhArataprashastiH 1 (bhAratarAShTragItam)"
-engtitle = "bhArataprashastiH 1"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Mandar Mali"
-"Translated by" = "Mandar Mali"
-"Description/comments" = "Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)"
-Indexextra = "(Text)"
-"Latest update" = "May 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भारतप्रशस्तिः १ (भारतराष्ट्रगीतम्)"
+---
+Category: misc, sanskritgeet
+Description/comments: Bharata Rashtra Geetam, Sarvabhaum Sanskrit Prachar Karyalay
+  Pustakamala 38, Vasudev Dvivedi Shastri (Ed.)
+File name: bhArataprashastiH.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: May 1, 2020
+Location: doc_z_misc_general
+Proofread by: Mandar Mali
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Bharata Prashasti 1
+Translated by: Mandar Mali
+engtitle: bhArataprashastiH 1
+itxtitle: bhArataprashastiH 1 (bhAratarAShTragItam)
+title: भारतप्रशस्तिः १ (भारतराष्ट्रगीतम्)
 
-+++
+---
   
  भारतप्रशस्तिः   
 वेदभाभासितं सत्कलालासितं  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Naga Shanti Stotram"
-"File name" = "nAgashAntistotram.itx"
-itxtitle = "nAgashAntistotram"
-engtitle = "Naga Shanti Stotram"
-Category = "deities_misc"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyayat gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyayat gmail.com"
-"Latest update" = "October 20, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नागशान्तिस्तोत्रम्"
+---
+Author: Traditional
+Category: deities_misc
+File name: nAgashAntistotram.itx
+Language: Sanskrit
+Latest update: October 20, 2018
+Location: doc_deities_misc
+Proofread by: Gopal Upadhyay gopal.j.upadhyayat gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Naga Shanti Stotram
+Texttype: stotra
+Transliterated by: Gopal Upadhyay gopal.j.upadhyayat gmail.com
+engtitle: Naga Shanti Stotram
+itxtitle: nAgashAntistotram
+title: नागशान्तिस्तोत्रम्
 
-+++
+---
   
  नागशान्तिस्तोत्रम्   
 श्री गणेशाय नमः ।  

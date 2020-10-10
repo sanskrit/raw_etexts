@@ -1,23 +1,23 @@
-+++
-"Text title" = "Janahitakarani Bhavanidhitarani Samskritiparampara"
-"File name" = "janahitakaraNIbhavanidhitaraNIsaMskRRitiparamparA.itx"
-itxtitle = "janahitakaraNI bhavanidhitaraNI saMskRitiparamparA"
-engtitle = "janahitakaraNI bhavanidhitaraNI saMskRitiparamparA"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "Dr. ichChArAma dvivedI \"praNava\""
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Volunteers at Bharat Vikas Parishad https://bvpindia.com"
-Indexextra = "(Text, BVP Intro)"
-Acknowledge-Permission = "Bharat Vikas Parishad https://bvpindia.com Atam Dev"
-"Latest update" = "October 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जनहितकरणी भवनिधितरणी संस्कृइतिपरम्परा"
+---
+Acknowledge-Permission: Bharat Vikas Parishad https://bvpindia.com Atam Dev
+Author: Dr. ichChArAma dvivedI "praNava"
+Category: misc, sanskritgeet
+File name: janahitakaraNIbhavanidhitaraNIsaMskRRitiparamparA.itx
+Indexextra: (Text, BVP Intro)
+Language: Sanskrit
+Latest update: October 18, 2019
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Janahitakarani Bhavanidhitarani Samskritiparampara
+Transliterated by: Volunteers at Bharat Vikas Parishad https://bvpindia.com
+engtitle: janahitakaraNI bhavanidhitaraNI saMskRitiparamparA
+itxtitle: janahitakaraNI bhavanidhitaraNI saMskRitiparamparA
+title: जनहितकरणी भवनिधितरणी संस्कृइतिपरम्परा
 
-+++
+---
   
  जनहितकरणी भवनिधितरणी संस्कृतिपरम्परा   
 जनहितकरणी भवनिधितरणी संस्कृतिपरम्परा  
@@ -36,7 +36,7 @@ title = "जनहितकरणी भवनिधितरणी संस्
 त्रिभुवनकमनी सदा विजयते भारत-वसुन्धरा ॥ २॥  
   
 नवविज्ञानं गतमज्ञानं प्रतिदिनमत्र धृतम् ।  
-गुणसंज्ञानं द्वितसन्धानं सततमिहैव कृतम् ॥  
+गुणसञ्ज्ञानं द्वितसन्धानं सततमिहैव कृतम् ॥  
   
 शुभगतिवरणी हितरतिधरणी शुभकर्मसु चतुरा ।  
 त्रिभुवनकमनी जगति विजयते भारत-वसुन्धरा ॥ ३॥  

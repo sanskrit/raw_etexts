@@ -1,21 +1,21 @@
-+++
-"Text title" = "dramiDopaniShatsAraH"
-"File name" = "dramiDopaniShatsAra.itx"
-itxtitle = "dramiDopaniShatsAraH"
-engtitle = "dramiDopaniShatsAra"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Author = "Vedantacharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "April 4, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "द्रमिडोपनिषत्सारः"
+---
+Author: Vedantacharya
+Category: upanishhat, upanishad
+File name: dramiDopaniShatsAra.itx
+Language: Sanskrit
+Latest update: April 4, 2016
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: dramiDopaniShatsAraH
+engtitle: dramiDopaniShatsAra
+itxtitle: dramiDopaniShatsAraH
+title: द्रमिडोपनिषत्सारः
 
-+++
+---
   
  द्रमिडोपनिषत्सारः   
 श्रीः ।  
@@ -42,7 +42,7 @@ title = "द्रमिडोपनिषत्सारः"
 द्विकाभ्यां द्व्यष्टाङ्घ्रिर्दुरधिगमनीतिस्थपुटिता  
 यदन्त्या मीमांसा श्रुतिशिखरतत्त्वं व्यवृणुत ।  
 तदादौ गाथाभिर्मुनिरधिकविंशाभिभिरिह नः  
-कृती सारग्राहं व्यतरदिह संगृह्य कृपया ॥ ४॥  
+कृती सारग्राहं व्यतरदिह सङ्गृह्य कृपया ॥ ४॥  
   
 परत्वाद्यैरित्थं परिचरणसक्तो गुणगणैः  
 प्रभुं सेवायोग्यं प्रथमशतके वीक्ष्य वरदम् ।  
@@ -97,7 +97,7 @@ title = "द्रमिडोपनिषत्सारः"
 तदेवं षष्ठान्तं विक्तिसविशेअग्रपहानः  
 म्लालाभात् खिन्नस्त्वरितहृदयः सप्तमशते ।  
 अनिष्टोपन्यासप्रभृतिभिरनिष्टप्रशमने  
-स्वतःसिध्यच्छलि प्रभुमभिमुखं संमुखयति ॥ १५॥  
+स्वतःसिध्यच्छलि प्रभुमभिमुखं सम्मुखयति ॥ १५॥  
   
 सहन् शाट्याशङ्कनं उपशमितगर्हः प्रकटयन्  
 स्वगोवृणत्वं गुप्तिक्रममखिलजन्तुप्रणयिताम् ।  

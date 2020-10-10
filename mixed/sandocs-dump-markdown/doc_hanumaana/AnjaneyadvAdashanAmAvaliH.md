@@ -1,23 +1,23 @@
-+++
-"Text title" = "AnjaneyadvAdashanAmAvaliH"
-"File name" = "AnjaneyadvAdashanAmAvaliH.itx"
-itxtitle = "AnjaneyadvAdashanAmAvaliH"
-engtitle = "AnjaneyadvAdashanAmAvaliH"
-Category = "hanumaana, hanuman, dvAdasha"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shri Devi Kumar, refined by PSA Easwaran"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-Acknowledge-Permission = "Mahaperiyaval Trust"
-"Latest update" = "April 24, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आञ्जनेयद्वादशनामावलिः"
+---
+Acknowledge-Permission: Mahaperiyaval Trust
+Category: hanumaana, hanuman, dvAdasha
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: AnjaneyadvAdashanAmAvaliH.itx
+Language: Sanskrit
+Latest update: April 24, 2016
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: AnjaneyadvAdashanAmAvaliH
+Transliterated by: Shri Devi Kumar, refined by PSA Easwaran
+engtitle: AnjaneyadvAdashanAmAvaliH
+itxtitle: AnjaneyadvAdashanAmAvaliH
+title: आञ्जनेयद्वादशनामावलिः
 
-+++
+---
   
  आञ्जनेयद्वादशनामावलिः   
   

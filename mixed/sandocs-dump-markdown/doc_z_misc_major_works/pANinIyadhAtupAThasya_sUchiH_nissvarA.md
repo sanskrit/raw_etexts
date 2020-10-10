@@ -1,23 +1,23 @@
-+++
-"Text title" = "dhAtupATha  index without pronunciation marks"
-"File name" = "dhatupathaindex.itx"
-itxtitle = "pANinIyadhAtupAThasya sUchiH nissvarA"
-engtitle = "Alphabetical Index of Dhatupatha without pronunciation marks"
-Category = "sUchI, major_works, pANinI"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "pANinI"
-Language = "Sanskrit"
-Subject = "linguistics/grammar/morphology_and_phonetics"
-"Transliterated by" = "Mihas Bayaryn bayaryn at mail.ru"
-"Proofread by" = "Mihas Bayaryn bayaryn at mail.ru"
-"Latest update" = "February 1, 2005, December 23, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पाणिनीयधातुपाठस्य सूचिः निस्स्वरा"
+---
+Author: pANinI
+Category: sUchI, major_works, pANinI
+File name: dhatupathaindex.itx
+Language: Sanskrit
+Latest update: February 1, 2005, December 23, 2018
+Location: doc_z_misc_major_works
+Proofread by: Mihas Bayaryn bayaryn at mail.ru
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: linguistics/grammar/morphology_and_phonetics
+Sublocation: major_works
+Text title: dhAtupATha  index without pronunciation marks
+Texttype: pramukha
+Transliterated by: Mihas Bayaryn bayaryn at mail.ru
+engtitle: Alphabetical Index of Dhatupatha without pronunciation marks
+itxtitle: pANinIyadhAtupAThasya sUchiH nissvarA
+title: पाणिनीयधातुपाठस्य सूचिः निस्स्वरा
 
-+++
+---
   
  पाणिनीयधातुपाठस्य सूचिः निस्स्वरा   
   

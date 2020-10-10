@@ -1,25 +1,25 @@
-+++
-"Text title" = "sarasvatistotra"
-"File name" = "sarasvatistotra.itx"
-itxtitle = "sarasvatIstotram (shrIharSharachitam)"
-engtitle = "Sarasvatistotra"
-Category = "devii, sarasvatI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "sarasvatI"
-Texttype = "stotra"
-Author = "harSha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P R Ramamurthy"
-"Proofread by" = "P R Ramamurthy, Sunder Hattangadi"
-Description-comments = "http://stotram.lalitaalaalitah.com/2013/05/sri-saraswati-stotram-3.html"
-"Latest update" = "December 14, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सरस्वतीस्तोत्रम् (श्रीहर्षरचितम्)"
+---
+Author: harSha
+Category: devii, sarasvatI, stotra, devI
+Description-comments: http://stotram.lalitaalaalitah.com/2013/05/sri-saraswati-stotram-3.html
+File name: sarasvatistotra.itx
+Language: Sanskrit
+Latest update: December 14, 2013
+Location: doc_devii
+Proofread by: P R Ramamurthy, Sunder Hattangadi
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: sarasvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: sarasvatistotra
+Texttype: stotra
+Transliterated by: P R Ramamurthy
+engtitle: Sarasvatistotra
+itxtitle: sarasvatIstotram (shrIharSharachitam)
+title: सरस्वतीस्तोत्रम् (श्रीहर्षरचितम्)
 
-+++
+---
   
  श्रीसरस्वतीस्तोत्रम्   
   

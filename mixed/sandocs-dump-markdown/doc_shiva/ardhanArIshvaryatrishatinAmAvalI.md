@@ -1,25 +1,25 @@
-+++
-"Text title" = "ardhanArIshvaratrishati"
-"File name" = "ardhanArIshvaratrishati.itx"
-itxtitle = "ardhanArIshvaryatrishatinAmAvalI"
-engtitle = "ardhanArIshvaratrishati athavA lalitArudratrishatI"
-Category = "shatInAmAvalI, shiva, devii, pArvatI, lalita, devI, trishatI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran"
-Description-comments = "Compilation and preface by Dr. M. Srinivasan"
-Indexextra = "(Introduction, author, alternative)"
-Acknowledge-Permission = "http://ardhanareeswaratrisati.blogspot.ae"
-"Latest update" = "August 27, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अर्धनारीश्वर्यत्रिशतिनामावली"
+---
+Acknowledge-Permission: http://ardhanareeswaratrisati.blogspot.ae
+Category: shatInAmAvalI, shiva, devii, pArvatI, lalita, devI, trishatI
+Description-comments: Compilation and preface by Dr. M. Srinivasan
+File name: ardhanArIshvaratrishati.itx
+Indexextra: (Introduction, author, alternative)
+Language: Sanskrit
+Latest update: August 27, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: ardhanArIshvaratrishati
+Transliterated by: Shree Devi Kumar
+engtitle: ardhanArIshvaratrishati athavA lalitArudratrishatI
+itxtitle: ardhanArIshvaryatrishatinAmAvalI
+title: अर्धनारीश्वर्यत्रिशतिनामावली
 
-+++
+---
   
  अर्धनारीश्वरत्रिशती अथवा ललितारुद्रत्रिशती   
   
@@ -87,7 +87,7 @@ title = "अर्धनारीश्वर्यत्रिशतिना�
 ५४. ॐ ईश्वरप्रेरणकर्यै जिघांसद्भ्यो नमः ॐ ।  
 ५५. ॐ ईशताण्डवसाक्षिण्यै मुष्णतां पतये नमः ॐ ।  
 ५६. ॐ ईश्वरोत्सङ्गनिलयायै असिमद्भ्यो नमः ॐ ।  
-५७. ॐ ईतिबाधाविनाशिन्यै नक्तंचरद्भ्यो नमः ॐ ।  
+५७. ॐ ईतिबाधाविनाशिन्यै नक्तञ्चरद्भ्यो नमः ॐ ।  
 ५८. ॐ ईहाविरहितायै प्रकृन्तानां पतये नमः ॐ ।  
 ५९. ॐ ईशशक्त्यै उष्णीषिणे नमः ॐ ।  
 ६०. ॐ ईषत्स्मिताननायै गिरिचराय नमः ॐ ।  

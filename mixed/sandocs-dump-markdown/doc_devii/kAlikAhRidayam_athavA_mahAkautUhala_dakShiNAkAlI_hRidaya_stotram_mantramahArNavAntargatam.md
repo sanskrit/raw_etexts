@@ -1,23 +1,23 @@
-+++
-"Text title" = "Kalika Hridayam"
-"File name" = "kAlikAhRidayam.itx"
-itxtitle = "kAlikAhRidayam athavA mahAkautUhala dakShiNAkAlI hRidaya stotram (mantramahArNavAntargatam)"
-engtitle = "Kali Hridayam"
-Category = "hRidaya, devii, dashamahAvidyA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay, NA"
-Description-comments = "Mantramaharnava Dvitiya khanda Kalikatantra Taranga 4"
-"Latest update" = "August 4, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कालिकाहृइदयम् अथवा महाकौतूहल दक्षिणाकाली हृइदय स्तोत्रम् (मन्त्रमहार्णवान्तर्गतम्)"
+---
+Category: hRidaya, devii, dashamahAvidyA, devI
+Description-comments: Mantramaharnava Dvitiya khanda Kalikatantra Taranga 4
+File name: kAlikAhRidayam.itx
+Language: Sanskrit
+Latest update: August 4, 2016
+Location: doc_devii
+Proofread by: Gopal Upadhyay, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Kalika Hridayam
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: Kali Hridayam
+itxtitle: kAlikAhRidayam athavA mahAkautUhala dakShiNAkAlI hRidaya stotram (mantramahArNavAntargatam)
+title: कालिकाहृइदयम् अथवा महाकौतूहल दक्षिणाकाली हृइदय स्तोत्रम् (मन्त्रमहार्णवान्तर्गतम्)
 
-+++
+---
   
  श्रीकालिकाहृदयम्   
 कालीरहस्ये महाकौतूहल दक्षिणाकाली हृदय स्तोत्रम्  
@@ -119,7 +119,7 @@ title = "कालिकाहृइदयम् अथवा महाकौत
 दूतीप्रियां महादूतीं दूतीयोगेश्वरीं पराम् ।  
 दूतोयोगोद्भवरतां दूतीरूपां नमाम्यहम् ॥ १९॥  
   
-क्रींमन्त्रेण जलं जप्त्वा सप्तधा सेचनेन तु ।  
+क्रीम्मन्त्रेण जलं जप्त्वा सप्तधा सेचनेन तु ।  
 सर्वे रोगा विनश्यन्ति नात्र कार्या विचारणा ॥ २०॥  
   
 क्रींस्वाहान्तैर्महामन्त्रैश्चन्दनं साधयेत्ततः ।  

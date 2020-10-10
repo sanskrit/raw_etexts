@@ -1,26 +1,26 @@
-+++
-"Text title" = "jyotirlakShmIstotram"
-"File name" = "jyotirlakShmIstotram.itx"
-itxtitle = "jyotirlakShmIstotram (puShpA shrIvatsenavirachitam)"
-engtitle = "jyotirlakShmIstotram"
-Category = "devii, puShpAshrIvatsan, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ज्योतिर्लक्ष्मीस्तोत्रम् (पुष्पा श्रीवत्सेनविरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: devii, puShpAshrIvatsan, lakShmI, devI
+File name: jyotirlakShmIstotram.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 28, 2017
+Location: doc_devii
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jyotirlakShmIstotram
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: jyotirlakShmIstotram
+itxtitle: jyotirlakShmIstotram (puShpA shrIvatsenavirachitam)
+title: ज्योतिर्लक्ष्मीस्तोत्रम् (पुष्पा श्रीवत्सेनविरचितम्)
 
-+++
+---
   
  ज्योतिर्लक्ष्मीस्तोत्रम्   
                  ॐ  

@@ -1,25 +1,26 @@
-+++
-"Text title" = "navaratnamAlikA ambikAstutiH"
-"File name" = "navaratnamAlikA.itx"
-itxtitle = "navaratnamAlikA ambikAstutiH (narakaNThIravashAstrivirachitA)"
-engtitle = "navaratnamAlikA ambikAstutiH"
-Category = "devii, pArvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "narakaNThIravashAstri"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "shrIkAlahastikShetrasthajnAnaprasUnAmbikAstutiH, from Malayamaruta 4 pages 5-6"
-Indexextra = "(Scan)"
-"Latest update" = "August 18, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवरत्नमालिका अम्बिकास्तुतिः (नरकण्ठीरवशास्त्रिविरचिता)"
+---
+Author: narakaNThIravashAstri
+Category: devii, pArvatI, devI
+Description/comments: shrIkAlahastikShetrasthajnAnaprasUnAmbikAstutiH, from Malayamaruta
+  4 pages 5-6
+File name: navaratnamAlikA.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 18, 2018
+Location: doc_devii
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: navaratnamAlikA ambikAstutiH
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: navaratnamAlikA ambikAstutiH
+itxtitle: navaratnamAlikA ambikAstutiH (narakaNThIravashAstrivirachitA)
+title: नवरत्नमालिका अम्बिकास्तुतिः (नरकण्ठीरवशास्त्रिविरचिता)
 
-+++
+---
   
  नवरत्नमालिका अम्बिकास्तुतिः   
 (श्रीकालहस्तिक्षेत्रस्थज्ञानप्रसूनाम्बिकास्तुतिः)  

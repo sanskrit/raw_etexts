@@ -1,22 +1,22 @@
-+++
-"Text title" = "Pujavidhanam of Shri Chandrashekharendrasaraswati"
-"File name" = "chandrashekharendrapUjAvidhAnam.itx"
-itxtitle = "pUjAvidhAnam chandrashekharendrasarasvatI saguNopAsanA"
-engtitle = "Pujavidhanam of Shri Chandrashekharendrasaraswati"
-Category = "pUjA, deities_misc, gurudev"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravi Venkatraman sri.sadguru.puja at gmail.com"
-"Proofread by" = "Ravi Venkatraman, Sunder Hattangadi, PSA Easwaran"
-"Latest update" = "July 15, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पूजाविधानम् चन्द्रशेखरेन्द्रसरस्वती सगुणोपासना"
+---
+Category: pUjA, deities_misc, gurudev
+File name: chandrashekharendrapUjAvidhAnam.itx
+Language: Sanskrit
+Latest update: July 15, 2016
+Location: doc_deities_misc
+Proofread by: Ravi Venkatraman, Sunder Hattangadi, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: Pujavidhanam of Shri Chandrashekharendrasaraswati
+Transliterated by: Ravi Venkatraman sri.sadguru.puja at gmail.com
+engtitle: Pujavidhanam of Shri Chandrashekharendrasaraswati
+itxtitle: pUjAvidhAnam chandrashekharendrasarasvatI saguNopAsanA
+title: पूजाविधानम् चन्द्रशेखरेन्द्रसरस्वती सगुणोपासना
 
-+++
+---
   
  जगद्गुरु श्रीचन्द्रशेखरेन्द्रसरस्वती सगुणोपासना   
 ॥ श्रीपरब्रह्मस्वरूपी श्रीकाञ्ची कामकोटिपीठ जगद्गुरु  

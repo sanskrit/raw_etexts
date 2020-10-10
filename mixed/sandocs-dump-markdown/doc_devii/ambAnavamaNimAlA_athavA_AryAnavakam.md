@@ -1,23 +1,23 @@
-+++
-"Text title" = "ambAnavamaNimAlA athavA AryAnavakam"
-"File name" = "ambAnavamaNimAlA.itx"
-itxtitle = "ambAnavamaNimAlA athavA AryAnavakam"
-engtitle = "Amba navamanimala or Arya navakam"
-Category = "mAlAmantra, devii, pArvatI, kAlidAsa, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Author = "attributred to Kalidas"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Maniam Varagoor maniamvaragoor at yahoo.com"
-"Proofread by" = "corrected by Sunder Hattangadi NA, PR Ramamurthy"
-"Latest update" = "June 10,  2006, September 20, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अम्बानवमणिमाला अथवा आर्यानवकम्"
+---
+Author: attributred to Kalidas
+Category: mAlAmantra, devii, pArvatI, kAlidAsa, devI
+File name: ambAnavamaNimAlA.itx
+Language: Sanskrit
+Latest update: June 10,  2006, September 20, 2014
+Location: doc_devii
+Proofread by: corrected by Sunder Hattangadi NA, PR Ramamurthy
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: ambAnavamaNimAlA athavA AryAnavakam
+Transliterated by: Maniam Varagoor maniamvaragoor at yahoo.com
+engtitle: Amba navamanimala or Arya navakam
+itxtitle: ambAnavamaNimAlA athavA AryAnavakam
+title: अम्बानवमणिमाला अथवा आर्यानवकम्
 
-+++
+---
   
  अम्बा नवमणिमाला अथवा आर्या नवकम्   
   

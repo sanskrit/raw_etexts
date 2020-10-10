@@ -3,7 +3,6 @@ title: 083 Seetha has been killed by Indrajit
 title_english: 083 Seetha has been killed by Indrajit
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-083-Seetha_has_been_killed_by_Indrajit_0.mp3"></div>
 
 राघवश्चापि विपुलं तं राक्षसवनौकसाम् ।  
@@ -17,8 +16,8 @@ title_english: 083 Seetha has been killed by Indrajit
 अथायान्तं हनूमन्तं ददर्शर्क्षपतिः पथि ।  
 वानरैः कृतसङ्ग्रामैः श्वसद्भिरभिसंवृतम् ॥ ६-८३-५  
 दृष्ट्वा पथि हनूमांश्च तदृष्कबलमुद्यतम् ।  
-नीलमेघनिभं भीमं संनिवार्य न्यवर्तत ॥ ६-८३-६  
-स तेन हरिसैन्येन संनिकर्षं महायशाः ।  
+नीलमेघनिभं भीमं सन्निवार्य न्यवर्तत ॥ ६-८३-६  
+स तेन हरिसैन्येन सन्निकर्षं महायशाः ।  
 शीघ्रमागम्य रामाय दुःखितो वाक्यमब्रवीत् ॥ ६-८३-७  
 समरे युध्यमानानामस्माकं प्रेक्षतां च सः ।  
 जघान रुदतीं सीतामिन्द्रजिद्रावणात्मजः ॥ ६-८३-८  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "dhanvantarIstotram"
-"File name" = "dhanvantarIstotram.itx"
-itxtitle = "dhanvantaristotram 2 (chandraughakAntim)"
-engtitle = "Dhanvantaristotra"
-Category = "vishhnu, stotra"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Usha Rani Sanka usharani.sanka at gmail.com"
-"Proofread by" = "Usha Rani Sanka, Avinash Sathaye, PSA Easwaran"
-Description-comments = "Audio http://www.divinebrahmanda.com/2012/09/sri-dhanwantri-stotram-by-sri.html"
-Indexextra = "(audio)"
-"Latest update" = "June 8, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "धन्वन्तरिस्तोत्रम् २ (चन्द्रौघकान्तिम्)"
+---
+Category: vishhnu, stotra
+Description-comments: Audio http://www.divinebrahmanda.com/2012/09/sri-dhanwantri-stotram-by-sri.html
+File name: dhanvantarIstotram.itx
+Indexextra: (audio)
+Language: Sanskrit
+Latest update: June 8, 2013
+Location: doc_vishhnu
+Proofread by: Usha Rani Sanka, Avinash Sathaye, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: dhanvantarIstotram
+Texttype: stotra
+Transliterated by: Usha Rani Sanka usharani.sanka at gmail.com
+engtitle: Dhanvantaristotra
+itxtitle: dhanvantaristotram 2 (chandraughakAntim)
+title: धन्वन्तरिस्तोत्रम् २ (चन्द्रौघकान्तिम्)
 
-+++
+---
   
  धन्वन्तरिस्तोत्रम्   
   
@@ -68,7 +68,7 @@ title = "धन्वन्तरिस्तोत्रम् २ (चन्�
   
 धन्वन्तरिङ्गरुचिधन्वन्तरेरितरुधन्वंस्तरीभवसुधा  
 धान्वन्तरावसथमन्वन्तराधिकृतधन्वन्तरौषधनिधे ।  
-धन्वन्तरंगशुगुधन्वन्तमायिषु वितन्वन् ममाब्धितनय  
+धन्वन्तरङ्गशुगुधन्वन्तमायिषु वितन्वन् ममाब्धितनय  
 सून्वन्ततात्मकृततन्वन्तरावयवतन्वन्तरार्तिजलधौ ॥  
   
 धन्वन्तरिश्च भगवान् स्वयमास देवो  var  स्वयेमेव कीर्तिः  

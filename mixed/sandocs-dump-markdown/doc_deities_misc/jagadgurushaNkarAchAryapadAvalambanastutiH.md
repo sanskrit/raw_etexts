@@ -1,22 +1,22 @@
-+++
-"Text title" = "majjagadgurusha.nkarAchAryapadAvalambanastutiH"
-"File name" = "shankarAchAryapadAvalambanastuti.itx"
-itxtitle = "jagadgurushaNkarAchAryapadAvalambanastutiH"
-engtitle = "jagadgurushaMkarAchAryapadAvalambanastutiH"
-Category = "deities_misc, stotra, shankarAchArya"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "hinduism"
-"Transliterated by" = "Ramakrishna Upadrasta uramakrishna at gmail.com"
-"Proofread by" = "Ramakrishna Upadrasta"
-"Latest update" = "May 18, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जगद्गुरुशण्कराचार्यपदावलम्बनस्तुतिः"
+---
+Category: deities_misc, stotra, shankarAchArya
+File name: shankarAchAryapadAvalambanastuti.itx
+Language: Sanskrit
+Latest update: May 18, 2012
+Location: doc_deities_misc
+Proofread by: Ramakrishna Upadrasta
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: hinduism
+Sublocation: deities_misc
+Text title: majjagadgurusha.nkarAchAryapadAvalambanastutiH
+Texttype: stotra
+Transliterated by: Ramakrishna Upadrasta uramakrishna at gmail.com
+engtitle: jagadgurushaMkarAchAryapadAvalambanastutiH
+itxtitle: jagadgurushaNkarAchAryapadAvalambanastutiH
+title: जगद्गुरुशण्कराचार्यपदावलम्बनस्तुतिः
 
-+++
+---
   
  श्रीमज्जगद्गुरुशङ्कराचार्यपदावलम्बनस्तुती   
   
@@ -46,7 +46,7 @@ title = "जगद्गुरुशण्कराचार्यपदाव�
 श्रीशङ्करार्य मम देहि पदावलम्बम् ॥ ५॥  
   
 राकासुधाकरसमानमुखप्रसर्प-  
-द्वेदांतवाक्यसुधया भवतापतप्तम् ।  
+द्वेदान्तवाक्यसुधया भवतापतप्तम् ।  
 संसिच्य मां करुणया गुरुराज शीघ्रं  
 श्रीशङ्करार्य मम देहि पदावलम्बम् ॥ ६॥  
   

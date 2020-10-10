@@ -1,25 +1,25 @@
-+++
-"Text title" = "hari stotra"
-"File name" = "haristotra.itx"
-itxtitle = "haristotram"
-engtitle = "hari stotram"
-Category = "vishhnu, hari, stotra, brahmAnanda, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "hari"
-Texttype = "stotra"
-Author = "Swami Brahmananda"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "DPD"
-"Proofread by" = "DPD"
-"Latest update" = "October 28, 2009, September 17, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिस्तोत्रम्"
+---
+Author: Swami Brahmananda
+Category: vishhnu, hari, stotra, brahmAnanda, vishnu
+File name: haristotra.itx
+Language: Sanskrit
+Latest update: October 28, 2009, September 17, 2013
+Location: doc_vishhnu
+Proofread by: DPD
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: hari
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: hari stotra
+Texttype: stotra
+Transliterated by: DPD
+engtitle: hari stotram
+itxtitle: haristotram
+title: हरिस्तोत्रम्
 
-+++
+---
   
  हरिस्तोत्रम्   
   

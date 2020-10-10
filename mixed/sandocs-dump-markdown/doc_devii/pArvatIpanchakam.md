@@ -1,22 +1,22 @@
-+++
-"Text title" = "pArvatIpanchakam"
-"File name" = "pArvatIpanchakam.itx"
-itxtitle = "pArvatIpanchakam"
-engtitle = "Parvatipanchakam"
-Category = "panchaka, devii, pArvatI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, NA"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, NA"
-"Latest update" = "August 7, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पार्वतीपञ्चकम्"
+---
+Category: panchaka, devii, pArvatI, devI
+File name: pArvatIpanchakam.itx
+Language: Sanskrit
+Latest update: August 7, 2012
+Location: doc_devii
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: pArvatIpanchakam
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com, NA
+engtitle: Parvatipanchakam
+itxtitle: pArvatIpanchakam
+title: पार्वतीपञ्चकम्
 
-+++
+---
   
  पार्वतीपञ्चकम्   
   
@@ -39,13 +39,13 @@ title = "पार्वतीपञ्चकम्"
       ससम्भ्रमं भ्रमं भ्रमं भ्रमन्ति मूढमानवा  
       मुधाऽबुधाः सुधां विहाय धावमानमानसाः ।  
       अधीनदीनहीनवारिहीनमीनजीवना  
-      ददातु शंप्रदाऽनिशं वशंवदार्थमाशिषम् ॥ ४॥  
+      ददातु शम्प्रदाऽनिशं वशंवदार्थमाशिषम् ॥ ४॥  
   
 विलोललोचनाञ्चितोचितैश्चिता सदा गुणैर्-  
 अपास्यदास्यमेवमास्यहास्यलास्यकारिणी  ॥  
   
 निराश्रयाऽऽश्रयाश्रयेश्वरी सदा वरीयसी  
-करोतु शं शिवाऽनिशं हि शंकरांकशोभिनी ॥ ५॥  
+करोतु शं शिवाऽनिशं हि शङ्कराङ्कशोभिनी ॥ ५॥  
   
 इति पार्वतीपञ्चकं समाप्तम् ॥  
   

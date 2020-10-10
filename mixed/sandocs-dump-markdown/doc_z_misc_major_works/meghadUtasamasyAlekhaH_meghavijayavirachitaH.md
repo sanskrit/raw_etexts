@@ -1,22 +1,23 @@
-+++
-"Text title" = "Meghadutasamasyalekhah  by Meghavijaya"
-"File name" = "meghadUtasamasyAlekhaHmeghavijaya.itx"
-itxtitle = "meghadUtasamasyAlekhaH (meghavijayavirachitaH)"
-engtitle = "meghadUtasamasyAlekhaH by meghavijaya"
-Category = "major_works"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Meghavijaya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "A message to Meghavijaya's Jain Guru through Megha taking 4th line of each shloka of Kalidasa's MeghadUtaM as a Samasya pUrti"
-Indexextra = "(Scan)"
-"Latest update" = "August 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मेघदूतसमस्यालेखः (मेघविजयविरचितः)"
+---
+Author: Meghavijaya
+Category: major_works
+Description/comments: A message to Meghavijaya's Jain Guru through Megha taking 4th
+  line of each shloka of Kalidasa's MeghadUtaM as a Samasya pUrti
+File name: meghadUtasamasyAlekhaHmeghavijaya.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: August 18, 2019
+Location: doc_z_misc_major_works
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: Meghadutasamasyalekhah  by Meghavijaya
+engtitle: meghadUtasamasyAlekhaH by meghavijaya
+itxtitle: meghadUtasamasyAlekhaH (meghavijayavirachitaH)
+title: मेघदूतसमस्यालेखः (मेघविजयविरचितः)
 
-+++
+---
   
  मेघदूतसमस्यालेखः   
  meghadUta samasyAlekhaH of Meghavijaya.  
@@ -164,7 +165,7 @@ the following:
            ॥ इति जिनवर्णनम् ॥  
   
 नास्मिन्मार्गेऽस्म्यहमयि ! गतस्तच्च यात्रानुवेश्म  
-गत्वा श्राद्धाः सदयहृदयाः सम्पदां संप्रदायाः ।  
+गत्वा श्राद्धाः सदयहृदयाः सम्पदां सम्प्रदायाः ।  
 प्रष्टव्यास्ते  गुरुमुखघनान्निर्गलद्वाग्जलानां  
 सारङ्गास्ते जललवमुचः सूचयिष्यन्ति मार्गम् ॥ २३॥  
   
@@ -205,7 +206,7 @@ the following:
   
 रोदस्योस्त्वां परिचितमिति स्वीयचित्तेऽवधृत्य  
 सीमन्यस्याः कृषिकरजना बीजराजीं वितेनुः ।  
-संप्रत्येषाऽङ्कुरमुकुलनैः प्राञ्जलीभूय नम्रा  
+सम्प्रत्येषाऽङ्कुरमुकुलनैः प्राञ्जलीभूय नम्रा  
 कार्श्यं येन त्यजति विधिना स त्वयैवोपपाद्यः ॥ ३१॥  
   
 धन्योऽसि त्वं जलदपटले ! दक्षिणस्यां प्रविश्य  

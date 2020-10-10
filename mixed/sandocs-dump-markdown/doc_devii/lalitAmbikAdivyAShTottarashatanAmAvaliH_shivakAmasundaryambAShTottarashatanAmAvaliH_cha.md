@@ -1,24 +1,26 @@
-+++
-"Text title" = "Lalitambika Divya AshTottarashatanamavali 108 names"
-"File name" = "lalitAmbikAdivyAShTottarashatanAmAvalI.itx"
-itxtitle = "lalitAmbikAdivyAShTottarashatanAmAvaliH shivakAmasundaryambAShTottarashatanAmAvaliH cha"
-engtitle = "lalitAmbikAdivyAShTottarashatanAmAvalI"
-Category = "devii, lalitA, aShTottarashatanAmAvalI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lalitA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vinu Prasad vinu5884 at gmail.com"
-"Proofread by" = "Vinu Prasad vinu5884 at gmail.com"
-"Description/comments" = "The title with shivakAmasundaryambA is from Nataraja Naam Manjari p 220"
-Indexextra = "(Scan)"
-"Latest update" = "March 8, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ललिताम्बिकादिव्याष्टोत्तरशतनामावलिः शिवकामसुन्दर्यम्बाष्टोत्तरशतनामावलिः च"
+---
+Category: devii, lalitA, aShTottarashatanAmAvalI, nAmAvalI, devI
+Description/comments: The title with shivakAmasundaryambA is from Nataraja Naam Manjari
+  p 220
+File name: lalitAmbikAdivyAShTottarashatanAmAvalI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 8, 2019
+Location: doc_devii
+Proofread by: Vinu Prasad vinu5884 at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lalitA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Lalitambika Divya AshTottarashatanamavali 108 names
+Transliterated by: Vinu Prasad vinu5884 at gmail.com
+engtitle: lalitAmbikAdivyAShTottarashatanAmAvalI
+itxtitle: lalitAmbikAdivyAShTottarashatanAmAvaliH shivakAmasundaryambAShTottarashatanAmAvaliH
+  cha
+title: ललिताम्बिकादिव्याष्टोत्तरशतनामावलिः शिवकामसुन्दर्यम्बाष्टोत्तरशतनामावलिः च
 
-+++
+---
   
  श्रीललिताम्बिका दिव्याष्टोत्तरशतनामस्तोत्रम्   
 शिवकामसुन्दर्यम्बाष्टोत्तरशतनामावलिः च  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "madhanumadvandanam"
-"File name" = "hanumadvandanam.itx"
-itxtitle = "hanumadvandanam"
-engtitle = "hanumadvandanam"
-Category = "hanumaana, stotra, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Processed by Sowmya Ramkumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail"
-Description-comments = "From Hanumatstutimanjari, Mahaperiaval Publication"
-"Latest update" = "September 18, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमद्वन्दनम्"
+---
+Category: hanumaana, stotra, hanuman
+Description-comments: From Hanumatstutimanjari, Mahaperiaval Publication
+File name: hanumadvandanam.itx
+Language: Sanskrit
+Latest update: September 18, 2014
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: madhanumadvandanam
+Texttype: stotra
+Transliterated by: Processed by Sowmya Ramkumar
+engtitle: hanumadvandanam
+itxtitle: hanumadvandanam
+title: हनुमद्वन्दनम्
 
-+++
+---
   
  श्रीहनुमद्वन्दनम्   
   
@@ -150,7 +150,7 @@ title = "हनुमद्वन्दनम्"
 यत्र यत्र रघुनाथकीर्तनं तत्र तत्र कृतमस्तकाञ्जलिम् ।  
 बाष्पवारिपरिपूर्णलोचनं मारुतिं नमत राक्षसान्तकम् ॥ ३९॥  
   
-यो वारांनिधिमल्पपल्वलमिवोल्लङ्घ्य प्रतापान्वितो  
+यो वारान्निधिमल्पपल्वलमिवोल्लङ्घ्य प्रतापान्वितो  
 वैदेहीघनशोकवह्निहरणो वैकुण्ठभक्तप्रियः ।  
 अक्षाद्यर्जितराक्षसेश्वरमहादर्पापहारी रणे  
 सोऽयं वानरपुङ्गवोऽवतु सदा चास्मान् समीरात्मजः ॥ ४०॥  

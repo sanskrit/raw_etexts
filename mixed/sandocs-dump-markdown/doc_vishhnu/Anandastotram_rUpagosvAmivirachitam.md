@@ -1,25 +1,27 @@
-+++
-"Text title" = "Anandastotram"
-"File name" = "Anandastotram.itx"
-itxtitle = "Anandastotram (rUpagosvAmivirachitam)"
-engtitle = "Anandastotram"
-Category = "vishhnu, krishna, rUpagosvAmin, stavamAlA"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Rupagoswami"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Description/comments" = "From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional Prayers stavamAlA"
-Indexextra = "(Scan, Bengali, Meaning 1, 2, Info)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "February 22, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आनन्दस्तोत्रम् (रूपगोस्वामिविरचितम्)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Rupagoswami
+Category: vishhnu, krishna, rUpagosvAmin, stavamAlA
+Description/comments: From stavamAlA (rUpagosvAmivirachitA) Garland of Devotional
+  Prayers stavamAlA
+File name: Anandastotram.itx
+Indexextra: (Scan, Bengali, Meaning 1, 2, Info)
+Language: Sanskrit
+Latest update: February 22, 2019
+Location: doc_vishhnu
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Anandastotram
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: Anandastotram
+itxtitle: Anandastotram (rUpagosvAmivirachitam)
+title: आनन्दस्तोत्रम् (रूपगोस्वामिविरचितम्)
 
-+++
+---
   
  आनन्दस्तोत्रम्   
   
@@ -36,7 +38,7 @@ title = "आनन्दस्तोत्रम् (रूपगोस्वा
 मुरलीवादनपटुर्वल्लवीकुलवल्लभः ॥ ४॥  
   
 गान्धर्वाप्तिमहापर्वा राधाराधनपेशलः ।  
- इति श्रीकृष्णचन्द्रस्य नाम विंशतिसंज्ञितम् ॥ ५॥  
+ इति श्रीकृष्णचन्द्रस्य नाम विंशतिसञ्ज्ञितम् ॥ ५॥  
   
 आनन्दाख्यं महास्तोत्रं यः पठेच्छृणुयाच्च यः ।  
 स परं सौख्यमासाद्य कृष्णप्रेमसमन्वितः ॥ ६॥  

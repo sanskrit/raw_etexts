@@ -1,23 +1,23 @@
-+++
-"Text title" = "tArAsahasranAmAvalI 2 from bRihinnIla tantra"
-"File name" = "tArAsahasranAmAvalI2bRihinnIla.itx"
-itxtitle = "tArAsahasranAmAvaliH 2 (bRihinnIlatantrArgatam)"
-engtitle = "tArAsahasranAmAvalI 2 from bRihinnIla tantra"
-Category = "sahasranAmAvalI, devii, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree Devi Kumar"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Indexextra = "(stotramanjari 2)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "July 2, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "तारासहस्रनामावलिः २ (बृइहिन्नीलतन्त्रार्गतम्)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: sahasranAmAvalI, devii, devI
+File name: tArAsahasranAmAvalI2bRihinnIla.itx
+Indexextra: (stotramanjari 2)
+Language: Sanskrit
+Latest update: July 2, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tArAsahasranAmAvalI 2 from bRihinnIla tantra
+Transliterated by: Shree Devi Kumar
+engtitle: tArAsahasranAmAvalI 2 from bRihinnIla tantra
+itxtitle: tArAsahasranAmAvaliH 2 (bRihinnIlatantrArgatam)
+title: तारासहस्रनामावलिः २ (बृइहिन्नीलतन्त्रार्गतम्)
 
-+++
+---
   
  श्रीतारासहस्रनामावलिः २   
 बृहन्नीलतन्त्रान्तर्गता  
@@ -624,8 +624,8 @@ title = "तारासहस्रनामावलिः २ (बृइह�
 ॐ हारिण्यै नमः ।  
 ॐ हारवनितायै नमः ।  
 ॐ हारहीरकशोभितायै नमः ।  
-ॐ ह्रींकारबीजसहितायै नमः ।  
-ॐ ह्रींकारैरुपशोभितायै नमः ।  
+ॐ ह्रीङ्कारबीजसहितायै नमः ।  
+ॐ ह्रीङ्कारैरुपशोभितायै नमः ।  
 ॐ कन्दर्पस्य कलायै नमः ।  
 ॐ कुल्यायै नमः ।  
 ॐ कौलिन्यै नमः । ६००  

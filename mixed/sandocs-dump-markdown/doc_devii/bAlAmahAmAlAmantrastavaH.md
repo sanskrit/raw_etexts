@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Mahamalamantra Stava"
-"File name" = "bAlAmahAmAlAmantrastavaH.itx"
-itxtitle = "bAlAmahAmAlAmantrastavaH"
-engtitle = "bAlAmahAmAlAmantrastavaH"
-Category = "devii, dashamahAvidyA, devI, mAlAmantra"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालामहामालामन्त्रस्तवः"
+---
+Category: devii, dashamahAvidyA, devI, mAlAmantra
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAmahAmAlAmantrastavaH.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Mahamalamantra Stava
+engtitle: bAlAmahAmAlAmantrastavaH
+itxtitle: bAlAmahAmAlAmantrastavaH
+title: बालामहामालामन्त्रस्तवः
 
-+++
+---
   
  श्रीबालामहामालामन्त्रस्तवः   
 अस्य श्रीबालात्रिपुरसुन्दरीमहामालामन्त्रस्य दक्षिणामूर्तिः ऋषिः ।  
@@ -93,7 +93,7 @@ title = "बालामहामालामन्त्रस्तवः"
 सौः सौः विद्युन्निकरनमत्प्रभे । सौः सौः स्फुरचन्द्रकलापूर्णे ।  
 कलशवरदाभयज्ञानमुद्राकरविभूषिते ।  
 सौः सौः स्रवत्पीयूषधाराभिवर्षिणि । महासौन्दर्य सुभगे ।  
-सौः सौः महामृत्युविनाशिनि । सौः सौः सर्वशत्रुसंक्षोभिणि ।  
+सौः सौः महामृत्युविनाशिनि । सौः सौः सर्वशत्रुसङ्क्षोभिणि ।  
 मम शत्रुभिः कृत-क्रियमाण-करिष्यमाण  
 निखिलमन्त्रयन्त्रतन्त्रप्रयोगान् उच्चाटय उच्चाटय ।  
 विविध प्रयोगान् नाशय नाशय ।  

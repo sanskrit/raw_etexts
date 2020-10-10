@@ -1,23 +1,23 @@
-+++
-"Text title" = "jagannAthAShTakam"
-"File name" = "jagannAthAShTaka.itx"
-itxtitle = "jagannAthAShTakam (shaNkarAchAryavirachitam)"
-engtitle = "jagannAthAShTakam"
-Category = "aShTaka, vishhnu, jagannatha, vishnu, shankarAchArya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "vishnu"
-Subcategory = "jagannatha"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-"Latest update" = "February 18, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जगन्नाथाष्टकम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: aShTaka, vishhnu, jagannatha, vishnu, shankarAchArya
+File name: jagannAthAShTaka.itx
+Language: Sanskrit
+Latest update: February 18, 2013
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: vishnu
+Subcategory: jagannatha
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: jagannAthAShTakam
+engtitle: jagannAthAShTakam
+itxtitle: jagannAthAShTakam (shaNkarAchAryavirachitam)
+title: जगन्नाथाष्टकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  श्रीजगन्नाथाष्टकम्   
   
@@ -26,7 +26,7 @@ title = "जगन्नाथाष्टकम् (शण्कराचार
 रमाशम्भुब्रह्मामरपतिगणेशार्चितपदो  
 जगन्नाथः स्वामी नयनपथगामी भवतु मे ॥ १ ॥  
   
-भुजे सव्ये वेणुं शिरसि शिखिपिंछं कटितटे var पिच्छिं  
+भुजे सव्ये वेणुं शिरसि शिखिपिञ्छं कटितटे var पिच्छिं  
 दुकूलं नेत्रान्ते सहचरकटाक्षं विदधते ।  
 सदा श्रीमद्वृन्दावनवसतिलीलापरिचयो  
 जगन्नाथः स्वामी नयनपथगामी भवतु ने ॥ २ ॥  

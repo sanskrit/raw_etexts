@@ -1,20 +1,20 @@
-+++
-"Text title" = "sarvaM brahmamayam"
-"File name" = "sarvaMbrahmamayam.itx"
-itxtitle = "sarvaM brahmamayam"
-engtitle = "sarvaM brahmamayam"
-Category = "misc, sanskritgeet, vedanta"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Video 1, 2, 3, 4)"
-"Latest update" = "December 25, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सर्वं ब्रह्ममयम्"
+---
+Category: misc, sanskritgeet, vedanta
+File name: sarvaMbrahmamayam.itx
+Indexextra: (Video 1, 2, 3, 4)
+Language: Sanskrit
+Latest update: December 25, 2018
+Location: doc_z_misc_general
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: sarvaM brahmamayam
+engtitle: sarvaM brahmamayam
+itxtitle: sarvaM brahmamayam
+title: सर्वं ब्रह्ममयम्
 
-+++
+---
   
  सर्वं ब्रह्ममयं   
   

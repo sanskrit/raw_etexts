@@ -1,24 +1,24 @@
-+++
-"Text title" = "shaktisuutraNi"
-"File name" = "shaktisuutra.itx"
-itxtitle = "shaktisUtrANi"
-engtitle = "shaktisUtrANi"
-Category = "sUtra, devii, otherforms, agastya, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Author = "Agastya RiShi ?"
-Language = "Sanskrit"
-Subject = "taantrik"
-"Transliterated by" = "Michael Magee"
-"Proofread by" = "Mike Magee"
-Description-comments = "Shakti Sutras attributed to Agastya"
-"Latest update" = "December 17, 1997"
-"Send corrections to" = "Mike Magee"
-"Site access" = "https://sanskritdocuments.org"
-title = "शक्तिसूत्राणि"
+---
+Author: Agastya RiShi ?
+Category: sUtra, devii, otherforms, agastya, devI
+Description-comments: Shakti Sutras attributed to Agastya
+File name: shaktisuutra.itx
+Language: Sanskrit
+Latest update: December 17, 1997
+Location: doc_devii
+Proofread by: Mike Magee
+Send corrections to: Mike Magee
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: taantrik
+Sublocation: devii
+Text title: shaktisuutraNi
+Transliterated by: Michael Magee
+engtitle: shaktisUtrANi
+itxtitle: shaktisUtrANi
+title: शक्तिसूत्राणि
 
-+++
+---
   
  शक्तिसूत्राणि   
   

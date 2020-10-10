@@ -1,23 +1,23 @@
-+++
-"Text title" = "rAmachandravedapAdastavaH"
-"File name" = "rAmachandravedapAdastavaH.itx"
-itxtitle = "rAmachandravedapAdastavaH (bharadvAjamaharShipraNItaH)"
-engtitle = "rAmachandravedapAdastavaH"
-Category = "raama"
-Location = "doc_raama"
-Sublocation = "raama"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "Edited by S. V. Radhakrishna Shastriji"
-Indexextra = "(VSM 3)"
-Acknowledge-Permission = "Mahaperiaval Trust"
-"Latest update" = "May 13, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामचन्द्रवेदपादस्तवः (भरद्वाजमहर्षिप्रणीतः)"
+---
+Acknowledge-Permission: Mahaperiaval Trust
+Category: raama
+Description/comments: Edited by S. V. Radhakrishna Shastriji
+File name: rAmachandravedapAdastavaH.itx
+Indexextra: (VSM 3)
+Language: Sanskrit
+Latest update: May 13, 2018
+Location: doc_raama
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: rAmachandravedapAdastavaH
+engtitle: rAmachandravedapAdastavaH
+itxtitle: rAmachandravedapAdastavaH (bharadvAjamaharShipraNItaH)
+title: रामचन्द्रवेदपादस्तवः (भरद्वाजमहर्षिप्रणीतः)
 
-+++
+---
   
  श्रीरामचन्द्रवेदपादस्तवः   
   

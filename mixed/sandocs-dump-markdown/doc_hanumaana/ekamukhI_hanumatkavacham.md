@@ -1,21 +1,21 @@
-+++
-"Text title" = "ekamukhI hanumatkavacham"
-"File name" = "ekamukhIhanumatavacha.itx"
-itxtitle = "ekamukhI hanumatkavacham"
-engtitle = "Shri Ekamukhi Hanumatkavacham"
-Category = "kavacha, hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "From brahmANDapurANa?"
-"Latest update" = "February 23, 2014, August 6, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकमुखी हनुमत्कवचम्"
+---
+Category: kavacha, hanumaana, hanuman
+Description-comments: From brahmANDapurANa?
+File name: ekamukhIhanumatavacha.itx
+Language: Sanskrit
+Latest update: February 23, 2014, August 6, 2017
+Location: doc_hanumaana
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: ekamukhI hanumatkavacham
+engtitle: Shri Ekamukhi Hanumatkavacham
+itxtitle: ekamukhI hanumatkavacham
+title: एकमुखी हनुमत्कवचम्
 
-+++
+---
   
  श्रीएकमुखी हनुमत्कवचम्   
   
@@ -92,7 +92,7 @@ var श्रीरामदूतं शिरसा नमामि ॥
 अपराजित नमस्तेऽस्तु नमस्ते रामपूजित ।  
 प्रस्थानं च करिष्यामि सिद्धिर्भवतु मे सदा ॥ ८॥  
   
-यो वारांनिधिमल्पपल्वलमिवोल्लङ्घ्य प्रतापान्वितो  
+यो वारान्निधिमल्पपल्वलमिवोल्लङ्घ्य प्रतापान्वितो  
 वैदेहीघनशोकतापहरणो वैकुण्ठतत्त्वप्रियः ।  
 अक्षाद्यर्चितराक्षसेश्वरमहादर्पापहारी रणे ।  
 सोऽयं वानरपुङ्गवोऽवतु सदा युष्मान्समीरात्मजः ॥ ९॥  
@@ -148,7 +148,7 @@ var श्रीरामदूतं शिरसा नमामि ॥
 क्षणेन हन हन भञ्जय भञ्जय  
 मारय मारय शिक्षय शिक्षय महामाहेश्वर रुद्रावतार हुं फट् स्वाहा ।  
 ॐ नमो भगवते हनुमदाख्याय रुद्राय सर्वदुष्टजनमुखस्तम्भनं  
-कुरु कुरु ह्रां ह्रीं ह्रूं ठंठंठं फट् स्वाहा ।  
+कुरु कुरु ह्रां ह्रीं ह्रूं ठण्ठण्ठं फट् स्वाहा ।  
 ॐ नमो भगवते अञ्जनीगर्भसम्भूताय रामलक्ष्मणानन्दकराय  
 कपिसैन्यप्रकाशनाय पर्वतोत्पाटनाय सुग्रीवसाधकाय  
 रणोच्चाटनाय कुमारब्रह्मचारिणे गम्भीरशब्दोदयाय  

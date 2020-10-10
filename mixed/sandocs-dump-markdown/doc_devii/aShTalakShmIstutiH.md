@@ -1,22 +1,22 @@
-+++
-"Text title" = "aShTalakShmIstutiH"
-"File name" = "aShTalakShmIstutiH.itx"
-itxtitle = "aShTalakShmIstutiH"
-engtitle = "aShTalakShmIstutiH"
-Category = "devii, lakShmI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras"
-"Latest update" = "May 5, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अष्टलक्ष्मीस्तुतिः"
+---
+Category: devii, lakShmI, devI
+Description/comments: shrIlakShmIkaTAkSha S K Rajagopalan 2001 collection of Laxmistotras
+File name: aShTalakShmIstutiH.itx
+Language: Sanskrit
+Latest update: May 5, 2017
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: aShTalakShmIstutiH
+engtitle: aShTalakShmIstutiH
+itxtitle: aShTalakShmIstutiH
+title: अष्टलक्ष्मीस्तुतिः
 
-+++
+---
   
  श्रीअष्टलक्ष्मीस्तुतिः   
   

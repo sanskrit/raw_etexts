@@ -1,23 +1,23 @@
-+++
-"Text title" = "shivapAdAdikeshAntastutiH"
-"File name" = "shivapAdAdikeshAntastutiH.itx"
-itxtitle = "shivapAdAdikeshAntastutiH"
-engtitle = "shivapAdAdikeshAntastutiH"
-Category = "shiva, shankarAchArya"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rajnarayanan C K krajnara at gmail.com"
-"Proofread by" = "Rajnarayanan C K, PSA Easwaran psaeaswaran"
-Description-comments = "Brihatstotraratnakara 1927 Madras, page 144 to 152"
-"Latest update" = "January 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शिवपादादिकेशान्तस्तुतिः"
+---
+Author: Shankaracharya
+Category: shiva, shankarAchArya
+Description-comments: Brihatstotraratnakara 1927 Madras, page 144 to 152
+File name: shivapAdAdikeshAntastutiH.itx
+Language: Sanskrit
+Latest update: January 25, 2017
+Location: doc_shiva
+Proofread by: Rajnarayanan C K, PSA Easwaran psaeaswaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: shivapAdAdikeshAntastutiH
+Transliterated by: Rajnarayanan C K krajnara at gmail.com
+engtitle: shivapAdAdikeshAntastutiH
+itxtitle: shivapAdAdikeshAntastutiH
+title: शिवपादादिकेशान्तस्तुतिः
 
-+++
+---
   
  श्रीशिवपादादिकेशान्तस्तुतिः   
   
@@ -76,7 +76,7 @@ title = "शिवपादादिकेशान्तस्तुतिः"
 एणीनेत्रान्तभङ्गीनिरसननिपुणापाङ्गकोणानुपासे  
 शोणान् प्राणानुदूढप्रतिनवसुषमाकन्दलानिन्दुमौलैः ॥ ११॥  
   
-नृत्तारम्भेषु हस्ताहतमुरजधिमिद्धिंकृतैरत्युदारै-  
+नृत्तारम्भेषु हस्ताहतमुरजधिमिद्धिङ्कृतैरत्युदारै-  
 श्चित्तानन्दं विधत्ते सदसि भगवतस्सन्ततं यस्स नन्दी ।  
 चण्डीशाद्यास्तथान्ये चतुरगुणगणप्राणितस्वामिसत्का-  
 रोत्कर्षोद्यत्प्रतापाः प्रमथपरिवृढास्सन्तु सन्तोषिणो नः ॥ १२॥  

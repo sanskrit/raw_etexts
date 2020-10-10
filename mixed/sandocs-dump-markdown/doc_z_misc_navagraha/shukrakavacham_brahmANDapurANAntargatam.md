@@ -1,23 +1,23 @@
-+++
-"Text title" = "shukrakavacham"
-"File name" = "shukrakavach.itx"
-itxtitle = "shukrakavacham (brahmANDapurANAntargatam)"
-engtitle = "shukrakavacham"
-Category = "kavacha, navagraha"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-Description-comments = "brahmANDapurANa"
-"Latest update" = "February 25, 2005, November 11, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शुक्रकवचम् (ब्रह्माण्डपुराणान्तर्गतम्)"
+---
+Author: Traditional
+Category: kavacha, navagraha
+Description-comments: brahmANDapurANa
+File name: shukrakavach.itx
+Language: Sanskrit
+Latest update: February 25, 2005, November 11, 2018
+Location: doc_z_misc_navagraha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shukrakavacham
+Transliterated by: Ravin Bhalekar ravibhalekar at hotmail.com
+engtitle: shukrakavacham
+itxtitle: shukrakavacham (brahmANDapurANAntargatam)
+title: शुक्रकवचम् (ब्रह्माण्डपुराणान्तर्गतम्)
 
-+++
+---
   
  शुक्रकवचम्   
   

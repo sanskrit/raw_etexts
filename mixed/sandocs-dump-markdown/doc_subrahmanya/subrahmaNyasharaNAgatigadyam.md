@@ -1,22 +1,22 @@
-+++
-"Text title" = "subrahmaNyasharaNAgatigadyam"
-"File name" = "subrahmaNyasharaNAgatigadyam.itx"
-itxtitle = "subrahmaNyasharaNAgatigadyam"
-engtitle = "subrahmaNyasharaNAgatigadyam"
-Category = "gadyam, subrahmanya, stotra"
-Location = "doc_subrahmanya"
-Sublocation = "subrahmanya"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "Hinduism/religion/traditional"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA Easwaran"
-"Latest update" = "June 18, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सुब्रह्मण्यशरणागतिगद्यम्"
+---
+Category: gadyam, subrahmanya, stotra
+File name: subrahmaNyasharaNAgatigadyam.itx
+Language: Sanskrit
+Latest update: June 18, 2017
+Location: doc_subrahmanya
+Proofread by: Sivakumar Thyagarajan Iyer, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: Hinduism/religion/traditional
+Sublocation: subrahmanya
+Text title: subrahmaNyasharaNAgatigadyam
+Texttype: stotra
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: subrahmaNyasharaNAgatigadyam
+itxtitle: subrahmaNyasharaNAgatigadyam
+title: सुब्रह्मण्यशरणागतिगद्यम्
 
-+++
+---
   
  श्रीसुब्रह्मण्यशरणागतिगद्यम्   
   

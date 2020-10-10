@@ -1,25 +1,25 @@
-+++
-"Text title" = "dakShiNAmUrtyaShTottarashatanAmAvalI"
-"File name" = "dakShiNAmUrtyaShTottarashatanAmAvalI.itx"
-itxtitle = "dakShiNAmUrtyaShTottarashatanAmAvaliH (medhAdakShiNAmUrti)"
-engtitle = "dakShiNAmUrtyaShTottarashatanAmAvalI"
-Category = "shiva, aShTottarashatanAmAvalI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "The Samvat Master, Iswarananda Giriji, Mount Abu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com, NA"
-"Description/comments" = "See corresponding stotram"
-Source = "Shri Chitrapura Stuti Manjari,3rd ed. 2008"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/"
-"Latest update" = "June 27, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्त्यष्टोत्तरशतनामावलिः (मेधादक्षिणामूर्ति)"
+---
+Acknowledge-Permission: Shri Chitrapur Math - Publications Committee https://chitrapurmath.net/
+Author: The Samvat Master, Iswarananda Giriji, Mount Abu
+Category: shiva, aShTottarashatanAmAvalI
+Description/comments: See corresponding stotram
+File name: dakShiNAmUrtyaShTottarashatanAmAvalI.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: June 27, 2019
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shri Chitrapura Stuti Manjari,3rd ed. 2008
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: dakShiNAmUrtyaShTottarashatanAmAvalI
+engtitle: dakShiNAmUrtyaShTottarashatanAmAvalI
+itxtitle: dakShiNAmUrtyaShTottarashatanAmAvaliH (medhAdakShiNAmUrti)
+title: दक्षिणामूर्त्यष्टोत्तरशतनामावलिः (मेधादक्षिणामूर्ति)
 
-+++
+---
   
  श्रीदक्षिणामूर्त्यष्टोत्तरशतनामावलिः   
 श्रीमेधादक्षिणामूर्त्यष्टोत्तरशतनामावलिः  

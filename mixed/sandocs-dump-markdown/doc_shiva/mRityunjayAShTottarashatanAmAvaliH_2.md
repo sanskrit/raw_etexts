@@ -1,22 +1,22 @@
-+++
-"Text title" = "Mrityunjaya Ashtottarashata Namavali (2) 108 Names"
-"File name" = "mRRityunjayAShTottarashatanAmAvaliH2.itx"
-itxtitle = "mRityunjayAShTottarashatanAmAvaliH 2"
-engtitle = "Mrityunjaya Ashtottarashata Namavali 2"
-Category = "aShTottarashatanAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "July 6, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मृइत्युञ्जयाष्टोत्तरशतनामावलिः २"
+---
+Category: aShTottarashatanAmAvalI, shiva
+File name: mRRityunjayAShTottarashatanAmAvaliH2.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 6, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mrityunjaya Ashtottarashata Namavali (2) 108 Names
+Transliterated by: Aruna Narayanan narayanan.aruna gmail.com
+engtitle: Mrityunjaya Ashtottarashata Namavali 2
+itxtitle: mRityunjayAShTottarashatanAmAvaliH 2
+title: मृइत्युञ्जयाष्टोत्तरशतनामावलिः २
 
-+++
+---
   
  मृत्युञ्जयाष्टोत्तरशतनामावलिः ४   
 ॐ शान्ताय नमः । भर्गाय । कैवल्यजनकाय । पुरुषोत्तमाय ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "shukramangalastotram"
-"File name" = "shukramangalastotram.itx"
-itxtitle = "shukramaNgalastotram"
-engtitle = "shukramangalastotram"
-Category = "navagraha, mangala"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(stotramAlA)"
-Acknowledge-Permission = "Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP"
-"Latest update" = "March 24, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शुक्रमण्गलस्तोत्रम्"
+---
+Acknowledge-Permission: Shri Tripursundari Ved Gurukulam, Sahibabad (Ghaziabad), UP
+Category: navagraha, mangala
+File name: shukramangalastotram.itx
+Indexextra: (stotramAlA)
+Language: Sanskrit
+Latest update: March 24, 2018
+Location: doc_z_misc_navagraha
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: shukramangalastotram
+engtitle: shukramangalastotram
+itxtitle: shukramaNgalastotram
+title: शुक्रमण्गलस्तोत्रम्
 
-+++
+---
   
  शुक्रमङ्गलस्तोत्रम्   
   

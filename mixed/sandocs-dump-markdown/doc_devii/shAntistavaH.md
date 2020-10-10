@@ -1,25 +1,25 @@
-+++
-"Text title" = "shaantistava"
-"File name" = "shaantistava.itx"
-itxtitle = "shAntistavaH"
-engtitle = "shAntistavaH"
-Category = "devii, otherforms, stotra, tyAgarAja, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Texttype = "stotra"
-Author = "Tyagaraja"
-Language = "Sanskrit"
-Subject = "hinduism/religion"
-"Transliterated by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-"Proofread by" = "Sridhar  Seshagiri sridhar.seshagiri at gmail.com"
-Description-comments = "Hymn in praise of the Devi as a peace personification"
-"Latest update" = "January 13, 2002"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शान्तिस्तवः"
+---
+Author: Tyagaraja
+Category: devii, otherforms, stotra, tyAgarAja, devI
+Description-comments: Hymn in praise of the Devi as a peace personification
+File name: shaantistava.itx
+Language: Sanskrit
+Latest update: January 13, 2002
+Location: doc_devii
+Proofread by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: hinduism/religion
+Sublocation: devii
+Text title: shaantistava
+Texttype: stotra
+Transliterated by: Sridhar  Seshagiri sridhar.seshagiri at gmail.com
+engtitle: shAntistavaH
+itxtitle: shAntistavaH
+title: शान्तिस्तवः
 
-+++
+---
   
  शान्तिस्तवः   
   
@@ -103,13 +103,13 @@ title = "शान्तिस्तवः"
 बन्धवर्गभयमोहमोचिनी सा शिवाहमिति शान्तिमाश्रये ॥ २५॥  
   
 देहजीवजगदीशबाधने शिष्यते स्वयमनन्तरूपिणी ।  
-व्यापिनी जगति संततं च या सा शिवाहमिति शान्तिमाश्रये ॥ २६॥  
+व्यापिनी जगति सन्ततं च या सा शिवाहमिति शान्तिमाश्रये ॥ २६॥  
   
 प्राणबन्धपरिशुद्धचेतसां निर्विकल्पसुखरूपिणी सदा ।  
 चिन्मयी सदसदात्मिका च या सा शिवाहमिति शान्तिमाश्रये ॥ २७॥  
   
 यत्सुखाब्धिलवलेशनिवृता ब्रह्मविष्णुसुरमानवादयः ।  
-संभवन्ति युगकल्पभेदतः सा शिवाहमिति शान्तिमाश्रये ॥ २८॥  
+सम्भवन्ति युगकल्पभेदतः सा शिवाहमिति शान्तिमाश्रये ॥ २८॥  
   
 ब्रह्मलोकतृणमानिने सदा तृप्तिरूपपरशान्तिदायिनी ।  
 योगिने समरसं ददाति या सा शिवाहमिति शान्तिमाश्रये ॥ २९॥  
@@ -124,7 +124,7 @@ title = "शान्तिस्तवः"
 शान्तिदान्तिधृतियुक्तयोगिराट् सा शिवाहमिति शान्तिमाश्रये ॥ ३२॥  
   
 भूतभाविमतिवृत्त्यभाविकां वर्तमानसुखवृत्तिभासिकाम् ।  
-येऽनुसंदधति नित्यमादरात् सा शिवाहमिति शान्तिमाश्रये ॥ ३३॥  
+येऽनुसन्दधति नित्यमादरात् सा शिवाहमिति शान्तिमाश्रये ॥ ३३॥  
   
 बुद्धिमोहपटले व्यपोहिते शाणचक्रनिगमोक्तितः स्वयम् ।  
 प्रस्फुरत्यविरतं च चिन्मणिः सा शिवाहमिति शान्तिमाश्रये ॥ ३४॥  
@@ -132,19 +132,19 @@ title = "शान्तिस्तवः"
 नाहमित्यनृतजाड्यभूमयः सच्चिदेव सकलात्मभासकः ।  
 इत्थमेकरसरूपशेमुषी सा शिवाहमिति शान्तिमाश्रये ॥ ३५॥  
   
-वृत्तिसंधिविलसत्स्वरूपिणी प्रज्ञया हृदि विभाव्यते सदा ।  
+वृत्तिसन्धिविलसत्स्वरूपिणी प्रज्ञया हृदि विभाव्यते सदा ।  
 नित्यमुक्तिसुखकाङ्क्षिणा दृढं सा शिवाहमिति शान्तिमाश्रये ॥ ३६॥  
   
 त्यागराजसुखरूपिणी परं योगिराजहृदयोज्ज्वला सदा ।  
 आगमाद्यखिलमानबोधिता सा शिवाहमिति शान्तिमाश्रये ॥ ३७॥  
   
 शान्तिस्तवं पठति नित्यमनन्यभक्त्या  
-यो मानवो भवति शंकर एव साक्षात् ।  
+यो मानवो भवति शङ्कर एव साक्षात् ।  
 संसारदुःखभयमोचनदक्षकल्पं  
 स्वात्मापरोक्षकरणे गुरुपादकल्पम् ॥ ३८॥  
   
 इत्यानन्दनाथपादपपद्मोपजीविना काश्यपगोत्रोत्पन्नेनान्ध्रेण  
-त्यागराजनाम्ना विरचितः शान्तिस्तवः संपूर्णः  
+त्यागराजनाम्ना विरचितः शान्तिस्तवः सम्पूर्णः  
   
   
   

@@ -1,25 +1,25 @@
-+++
-"Text title" = "shrIgurusahasranAmastotra"
-"File name" = "gurusahasra.itx"
-itxtitle = "gurusahasranAmastotram"
-engtitle = "gurusahasranAmastotram"
-Category = "sahasranAma, deities_misc, gurudev, stotra"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Texttype = "stotra"
-Author = "harikRiShNa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Older webdunia.com"
-"Proofread by" = "Sunder Hattangadi, PSA Easwaran"
-Description-comments = "bRihajjyotiShArNaDaveShTame-dharmaskandhe-sammohanatantra"
-"Latest update" = "May 2, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुसहस्रनामस्तोत्रम्"
+---
+Author: harikRiShNa
+Category: sahasranAma, deities_misc, gurudev, stotra
+Description-comments: bRihajjyotiShArNaDaveShTame-dharmaskandhe-sammohanatantra
+File name: gurusahasra.itx
+Language: Sanskrit
+Latest update: May 2, 2015
+Location: doc_deities_misc
+Proofread by: Sunder Hattangadi, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shrIgurusahasranAmastotra
+Texttype: stotra
+Transliterated by: Older webdunia.com
+engtitle: gurusahasranAmastotram
+itxtitle: gurusahasranAmastotram
+title: गुरुसहस्रनामस्तोत्रम्
 
-+++
+---
   
  श्रीगुरुसहस्रनामस्तोत्रम्   
 ॥ ॐ गं गणपतये नमः ॥  

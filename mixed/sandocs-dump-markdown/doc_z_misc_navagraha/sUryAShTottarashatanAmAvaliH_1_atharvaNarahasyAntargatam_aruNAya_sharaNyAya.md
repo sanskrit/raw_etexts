@@ -1,25 +1,27 @@
-+++
-"Text title" = "suurya aShTottarashatanaamavaliH"
-"File name" = "suurya108.itx"
-itxtitle = "sUryAShTottarashatanAmAvaliH 1 (atharvaNarahasyAntargatam aruNAya sharaNyAya)"
-engtitle = "sUrya aShTottarashatanAmAvalI"
-Category = "aShTottarashatanAmAvalI, navagraha, nAmAvalI"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "nAmAvalI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com)"
-"Proofread by" = "Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler at gmx.net"
-Description-comments = "108 names for suurya"
-Source = "Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal, Published by VIDVATH SABHA, Chennai - 600073"
-Indexextra = "(108 names)"
-"Latest update" = "Jan 25, 1998, June 3, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सूर्याष्टोत्तरशतनामावलिः १ (अथर्वणरहस्यान्तर्गतम् अरुणाय शरण्याय)"
+---
+Category: aShTottarashatanAmAvalI, navagraha, nAmAvalI
+Description-comments: 108 names for suurya
+File name: suurya108.itx
+Indexextra: (108 names)
+Language: Sanskrit
+Latest update: Jan 25, 1998, June 3, 2007
+Location: doc_z_misc_navagraha
+Proofread by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com), Detlef Eichler DetlefEichler
+  at gmx.net
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Ashtoththara Shathanamavali Shatakam, Edited by R.M uralikrishna Srowthigal,
+  Published by VIDVATH SABHA, Chennai - 600073
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: suurya aShTottarashatanaamavaliH
+Texttype: nAmAvalI
+Transliterated by: Dr. S. Kalyanaraman (kalyan97 at yahoo.com)
+engtitle: sUrya aShTottarashatanAmAvalI
+itxtitle: sUryAShTottarashatanAmAvaliH 1 (atharvaNarahasyAntargatam aruNAya sharaNyAya)
+title: सूर्याष्टोत्तरशतनामावलिः १ (अथर्वणरहस्यान्तर्गतम् अरुणाय शरण्याय)
 
-+++
+---
   
  सूर्याष्टोत्तरशतनामावली   
   
@@ -120,11 +122,11 @@ title = "सूर्याष्टोत्तरशतनामावलि�
 ॐ परमात्मने नमः ।  
 ॐ तरुणाय नमः ।  
 ॐ वरेण्याय नमः ।  
-ॐ ग्रहाणांपतये नमः ।  
+ॐ ग्रहाणाम्पतये नमः ।  
 ॐ भास्कराय नमः । ९०।  
 ॐ आदिमध्यान्तरहिताय नमः ।  
 ॐ सौख्यप्रदाय नमः ।  
-ॐ सकलजगतांपतये नमः ।  
+ॐ सकलजगताम्पतये नमः ।  
 ॐ सूर्याय नमः ।  
 ॐ कवये नमः ।  
 ॐ नारायणाय नमः ।  

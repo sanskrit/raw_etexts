@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Bala Stavaraja  3"
-"File name" = "bAlAstavarAjaH3.itx"
-itxtitle = "bAlAstavarAjaH 3 (tribIjabhAjAyuktena)"
-engtitle = "bAlAstavarAjaH 3"
-Category = "devii, dashamahAvidyA, devI, stavarAja"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH"
-Indexextra = "(Scan)"
-"Latest update" = "March 21, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बालास्तवराजः ३ (त्रिबीजभाजायुक्तेन)"
+---
+Category: devii, dashamahAvidyA, devI, stavarAja
+Description/comments: bAlAsaparyA saparyAkrama-nAmAvalI-stotrAdisaNgrahaH
+File name: bAlAstavarAjaH3.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: March 21, 2020
+Location: doc_devii
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Bala Stavaraja  3
+engtitle: bAlAstavarAjaH 3
+itxtitle: bAlAstavarAjaH 3 (tribIjabhAjAyuktena)
+title: बालास्तवराजः ३ (त्रिबीजभाजायुक्तेन)
 
-+++
+---
   
  श्रीबालास्तवराजः ३   
 ॐ अस्य श्रीबालास्तवराजस्तोत्रस्य श्रीमृत्युञ्जय ऋषिः ।  

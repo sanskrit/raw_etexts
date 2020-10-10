@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Santoshimata Ashtottarashata Namavali 108 Names"
-"File name" = "santoShImAturaShTottarashatanAmAvaliH.itx"
-itxtitle = "santoShImAturaShTottarashatanAmAvaliH"
-engtitle = "santoShImAturaShTottarashatanAmAvaliH"
-Category = "devii, aShTottarashatanAmAvalI, otherforms, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "otherforms"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan Iyer, PSA EASWARAN psaeaswaran at gmail.com"
-"Description/comments" = "See corresponding stotra"
-Indexextra = "(Video)"
-"Latest update" = "January 1, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सन्तोषीमातुरष्टोत्तरशतनामावलिः"
+---
+Category: devii, aShTottarashatanAmAvalI, otherforms, devI
+Description/comments: See corresponding stotra
+File name: santoShImAturaShTottarashatanAmAvaliH.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: January 1, 2020
+Location: doc_devii
+Proofread by: Sivakumar Thyagarajan Iyer, PSA EASWARAN psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: otherforms
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Santoshimata Ashtottarashata Namavali 108 Names
+Transliterated by: Sivakumar Thyagarajan Iyer shivakumar24 at gmail.com
+engtitle: santoShImAturaShTottarashatanAmAvaliH
+itxtitle: santoShImAturaShTottarashatanAmAvaliH
+title: सन्तोषीमातुरष्टोत्तरशतनामावलिः
 
-+++
+---
   
  श्रीसन्तोषीमातुरष्टोत्तरशतनामावलिः   
 ॐ सन्तोषजनन्यै नमः । मात्रे । सर्वसम्पत्प्रदायिन्यै ।  

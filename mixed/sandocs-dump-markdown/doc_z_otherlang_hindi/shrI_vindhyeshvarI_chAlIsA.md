@@ -1,23 +1,23 @@
-+++
-"Text title" = "shrii vindhyeshvarii chaaliisaa"
-"File name" = "vindhya40.itx"
-itxtitle = "shrI vindhyeshvarI chAlIsA"
-engtitle = "shrii vindhyeshvarii chaaliisaa"
-Category = "chAlisA, devii, pArvatI, devI"
-Location = "doc_z_otherlang_hindi"
-Sublocation = "devii"
-SubDeity = "pArvatI"
-Language = "Hindi"
-Subject = "hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA"
-Description-comments = "Devotional hymn to Hanuman, of 40 verses"
-"Latest update" = "March 13, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "श्री विन्ध्येश्वरी चालीसा"
+---
+Category: chAlisA, devii, pArvatI, devI
+Description-comments: Devotional hymn to Hanuman, of 40 verses
+File name: vindhya40.itx
+Language: Hindi
+Latest update: March 13, 2015
+Location: doc_z_otherlang_hindi
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: pArvatI
+Subject: hinduism/religion
+Sublocation: devii
+Text title: shrii vindhyeshvarii chaaliisaa
+Transliterated by: NA
+engtitle: shrii vindhyeshvarii chaaliisaa
+itxtitle: shrI vindhyeshvarI chAlIsA
+title: श्री विन्ध्येश्वरी चालीसा
 
-+++
+---
   
  श्री विन्ध्येश्वरी चालीसा   
   
@@ -37,7 +37,7 @@ title = "श्री विन्ध्येश्वरी चालीसा
   
 सब कर मनसा पुरवत माता । महिमा अमित जगत विख्याता ॥  
   
-जो जन ध्यान तुम्हारो लावै । सो तुरतहि वांछित फल पावै ॥  
+जो जन ध्यान तुम्हारो लावै । सो तुरतहि वाञ्छित फल पावै ॥  
   
 तू ही वैष्णवी तू ही रुद्राणी । तू ही शारदा अरु ब्रह्माणी ॥  
   
@@ -45,7 +45,7 @@ title = "श्री विन्ध्येश्वरी चालीसा
   
 उमा माधवी चण्डी ज्वाला । बेगि मोहि पर होहु दयाला ॥  
   
-तू ही हिंगलाज महारानी । तू ही शीतला अरु विज्ञानी ॥  
+तू ही हिङ्गलाज महारानी । तू ही शीतला अरु विज्ञानी ॥  
   
 दुर्गा दुर्ग विनाशिनी माता । तू ही लक्श्मी जग सुखदाता ॥  
   
@@ -53,7 +53,7 @@ title = "श्री विन्ध्येश्वरी चालीसा
   
 अष्टभुजी वाराहिनी देवी । करत विष्णु शिव जाकर सेवी ॥  
   
-चोंसट्ठी देवी कल्यानी । गौरी मंगला सब गुण खानी ॥  
+चोंसट्ठी देवी कल्यानी । गौरी मङ्गला सब गुण खानी ॥  
   
 पाटन मुम्बा दन्त कुमारी । भद्रकाली सुन विनय हमारी ॥  
   
@@ -82,18 +82,18 @@ title = "श्री विन्ध्येश्वरी चालीसा
   
 निश्चय बन्दी ते छुटि जाई । सत्य बचन मम मानहु भाई ॥  
   
-जा पर जो कछु संकट होई । निश्चय देबिहि सुमिरै सोई ॥  
+जा पर जो कछु सङ्कट होई । निश्चय देबिहि सुमिरै सोई ॥  
   
 जो नर पुत्र होय नहिं भाई । सो नर या विधि करे उपाई ॥  
   
-पांच वर्ष सो पाठ करावै । नौरातर में विप्र जिमावै ॥  
+पाञ्च वर्ष सो पाठ करावै । नौरातर में विप्र जिमावै ॥  
   
 निश्चय होय प्रसन्न भवानी । पुत्र देहि ताकहं गुण खानी ।  
 ध्वजा नारियल आनि चढ़ावै । विधि समेत पूजन करवावै ॥  
   
 नित प्रति पाठ करै मन लाई । प्रेम सहित नहिं आन उपाई ॥  
   
-यह श्री विन्ध्याचल चालीसा । रंक पढ़त होवे अवनीसा ॥  
+यह श्री विन्ध्याचल चालीसा । रङ्क पढ़त होवे अवनीसा ॥  
   
 यह जनि अचरज मानहु भाई । कृपा दृष्टि तापर होई जाई ॥  
   
@@ -103,11 +103,11 @@ title = "श्री विन्ध्येश्वरी चालीसा
   
 सुन मेरी देवी पर्वत वासिनी तेरा पार न पाया ॥ टेक.॥  
   
-पान सुपारी ध्वजा नारियल ले तरी भेंट चढ़ाया । सुन.।  
+पान सुपारी ध्वजा नारियल ले तरी भेण्ट चढ़ाया । सुन.।  
   
-सुवा चोली तेरे अंग विराजे केसर तिलक लगाया । सुन.।  
+सुवा चोली तेरे अङ्ग विराजे केसर तिलक लगाया । सुन.।  
   
-नंगे पग अकबर आया सोने का छत्र चढ़ाया । सुन.।  
+नङ्गे पग अकबर आया सोने का छत्र चढ़ाया । सुन.।  
   
 उँचे उँचे पर्वत भयो दिवालो नीचे शहर बसाया । सुन.।  
   
@@ -115,7 +115,7 @@ title = "श्री विन्ध्येश्वरी चालीसा
   
 धूप दीप नैवेद्य आरती मोहन भोग लगाया । सुन.।  
   
-ध्यानू भगत मैया तेरे गुण गावैं मनवांछित फल पाया । सुन.।  
+ध्यानू भगत मैया तेरे गुण गावैं मनवाञ्छित फल पाया । सुन.।  
   
 ॥ इति॥  
   

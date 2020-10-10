@@ -1,24 +1,24 @@
-+++
-"Text title" = "sanatsujAtIya"
-"File name" = "sanatsujAtIya.itx"
-itxtitle = "sanatsujAtIyam"
-engtitle = "sanatsujAtIya"
-Category = "major_works, vyAsa"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Veda Vyasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Originally by Tokunaga, converted to Itrans"
-Description-comments = "From Mahabharat Udyogaparva (5) adhyAya 41-45"
-Indexextra = "(meaning)"
-"Latest update" = "August 13, 2007"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "सनत्सुजातीयम्"
+---
+Author: Veda Vyasa
+Category: major_works, vyAsa
+Description-comments: From Mahabharat Udyogaparva (5) adhyAya 41-45
+File name: sanatsujAtIya.itx
+Indexextra: (meaning)
+Language: Sanskrit
+Latest update: August 13, 2007
+Location: doc_z_misc_major_works
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism
+Sublocation: major_works
+Text title: sanatsujAtIya
+Texttype: pramukha
+Transliterated by: Originally by Tokunaga, converted to Itrans
+engtitle: sanatsujAtIya
+itxtitle: sanatsujAtIyam
+title: सनत्सुजातीयम्
 
-+++
+---
   
  सनत्सुजातीयम्   
   
@@ -83,7 +83,7 @@ title = "सनत्सुजातीयम्"
 शृणु मे ब्रुवतो राजन्यथैतन्मा विशङ्किथाः ॥ ३॥  
   
 उभे सत्ये क्षत्रियाद्य प्रवृत्ते   
-मोहो मृत्युः संमतो यः कवीनाम् ।   
+मोहो मृत्युः सम्मतो यः कवीनाम् ।   
 प्रमादं वै मृत्युमहं ब्रवीमि   
 सदाप्रमादममृतत्वं ब्रवीमि ॥ ४॥  
   
@@ -162,7 +162,7 @@ title = "सनत्सुजातीयम्"
 अतिरिक्तमिवाकुर्वन्स श्रेयान्नेतरो जनः ॥ २०॥  
   
 यो वाकथयमानस्य आत्मानं नानुसञ्ज्वरेत् ।   
-ब्रह्म स्वं नोपभुञ्जेद्वा तदन्नं संमतं सताम् ॥ २१॥  
+ब्रह्म स्वं नोपभुञ्जेद्वा तदन्नं सम्मतं सताम् ॥ २१॥  
   
 यथा स्वं वान्तमश्नाति श्वा वै नित्यमभूतये ।   
 एवं ते वान्तमश्नन्ति स्ववीर्यस्योपजीवनात् ॥ २२॥  
@@ -173,7 +173,7 @@ title = "सनत्सुजातीयम्"
 को ह्येवमन्तरात्मानं ब्राह्मणो हन्तुमर्हति ।   
 तस्माद्धि किं चित्क्षत्रिय ब्रह्मावसति पश्यति ॥ २४॥  
   
-अश्रान्तः स्यादनादानात्संमतो निरुपद्रवः ।   
+अश्रान्तः स्यादनादानात्सम्मतो निरुपद्रवः ।   
 शिष्टो न शिष्टवत्स स्याद्ब्राह्मणो ब्रह्मवित्कविः ॥ २५॥  
   
 अनाढ्या मानुषे वित्ते आढ्या वेदेषु ये द्विजाः ।   

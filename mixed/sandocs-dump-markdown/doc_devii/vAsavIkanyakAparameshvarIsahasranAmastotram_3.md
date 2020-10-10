@@ -1,23 +1,23 @@
-+++
-"Text title" = "Vasavi Kanyaka Parameshvari Sahasra Nama Stotram (3)"
-"File name" = "vAsavIkanyakAparameshvarIsahasranAmastotram3.itx"
-itxtitle = "vAsavIkanyakAparameshvarIsahasranAmastotram 3"
-engtitle = "vAsavIkanyakAparameshvarIsahasranAmastotram 3"
-Category = "devii, sahasranAma, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-Author = "Vijaya Nethaji"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, Vijaya Nethaji"
-Indexextra = "(Audio)"
-"Latest update" = "June 7, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वासवीकन्यकापरमेश्वरीसहस्रनामस्तोत्रम् ३"
+---
+Author: Vijaya Nethaji
+Category: devii, sahasranAma, devI
+File name: vAsavIkanyakAparameshvarIsahasranAmastotram3.itx
+Indexextra: (Audio)
+Language: Sanskrit
+Latest update: June 7, 2019
+Location: doc_devii
+Proofread by: NA, Vijaya Nethaji
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Vasavi Kanyaka Parameshvari Sahasra Nama Stotram (3)
+Transliterated by: NA
+engtitle: vAsavIkanyakAparameshvarIsahasranAmastotram 3
+itxtitle: vAsavIkanyakAparameshvarIsahasranAmastotram 3
+title: वासवीकन्यकापरमेश्वरीसहस्रनामस्तोत्रम् ३
 
-+++
+---
   
  श्रीवासवीकन्यकापरमेश्वरीसहस्रनामस्तोत्रम् (३)   
 ॐ शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।  

@@ -1,25 +1,26 @@
-+++
-"Text title" = "Atmabodha"
-"File name" = "aatmabodha.itx"
-itxtitle = "AtmabodhaH"
-engtitle = "Atma Bodha"
-Category = "shankarAchArya"
-Location = "doc_z_misc_shankara"
-Sublocation = "shankara"
-Texttype = "pramukha"
-Author = "Adi Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kim Poulsen (poulsen at dk-online.dk)"
-"Proofread by" = "M. Giridhar giridhar at chemeng.iisc.ernet.in, Sunder  Hattangadi sunderh at hotmail.com, David Lyttle dhlyttle at hotmail.com"
-Description-comments = "Samata Edition of Complete works of Shankaracharya"
-Indexextra = "(Meaning 1, 2, 3, 4.)"
-"Latest update" = "July 7, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "आत्मबोधः"
+---
+Author: Adi Shankaracharya
+Category: shankarAchArya
+Description-comments: Samata Edition of Complete works of Shankaracharya
+File name: aatmabodha.itx
+Indexextra: (Meaning 1, 2, 3, 4.)
+Language: Sanskrit
+Latest update: July 7, 2013
+Location: doc_z_misc_shankara
+Proofread by: M. Giridhar giridhar at chemeng.iisc.ernet.in, Sunder  Hattangadi sunderh
+  at hotmail.com, David Lyttle dhlyttle at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shankara
+Text title: Atmabodha
+Texttype: pramukha
+Transliterated by: Kim Poulsen (poulsen at dk-online.dk)
+engtitle: Atma Bodha
+itxtitle: AtmabodhaH
+title: आत्मबोधः
 
-+++
+---
   
  आत्मबोधः   
   
@@ -161,16 +162,16 @@ planet, Shankara, make us aware of His grace.
   
 नानोपाधिवशादेव जातिवर्णाश्रमादयः । var  जातिनामाश्रमादयः  
 आत्मन्यारोपितास्तोये रसवर्णादि भेदवत् ॥ ११।  
-पंचीकृतमहाभूतसंभवं कर्मसंचितम् ।  
+पञ्चीकृतमहाभूतसम्भवं कर्मसञ्चितम् ।  
 शरीरं सुखदुःखानां भोगायतनमुच्यते ॥ १२॥  
   
-पंचप्राणमनोबुद्धिदशेन्द्रियसमन्वितम् ।  
-अपंचीकृतभूतोत्थं सूक्ष्माङ्गं भोगसाधनम् ॥ १३॥  
+पञ्चप्राणमनोबुद्धिदशेन्द्रियसमन्वितम् ।  
+अपञ्चीकृतभूतोत्थं सूक्ष्माङ्गं भोगसाधनम् ॥ १३॥  
   
 अनाद्यविद्यानिर्वाच्या कारणोपाधिरुच्यते ।  
 उपाधित्रितयादन्यमात्मानमवधारयेत् ॥ १४॥  
   
-पंचकोशादियोगेन तत्तन्मय इव स्थितः ।  
+पञ्चकोशादियोगेन तत्तन्मय इव स्थितः ।  
 शुद्धात्मा नीलवस्त्रादियोगेन स्फटिको यथा ॥ १५॥  
   
 वपुस्तुषादिभिः कोशैर्युक्तं युक्त्यवघाततः ।  
@@ -230,7 +231,7 @@ planet, Shankara, make us aware of His grace.
   
 (एतस्माज्जायते प्राणो मनः सर्वेन्द्रियाणि च ।  
 खं वायुर्ज्योतिरापः पृथिवी विश्वस्य धारिणी ॥) doubtful addition  
-निर्गुणो निष्क्रियो नित्यो निर्विकल्पो निरंजनः ।  
+निर्गुणो निष्क्रियो नित्यो निर्विकल्पो निरञ्जनः ।  
 निर्विकारो निराकारो नित्यमुक्तोऽस्मि निर्मलः ॥ ३४॥  
   
 अहमाकाशवत्सर्वं बहिरन्तर्गतोऽच्युतः ।  
@@ -249,7 +250,7 @@ planet, Shankara, make us aware of His grace.
 भावयेदेकमात्मानं निर्मलाकाशवत्सदा ॥ ३९॥  
   
 रूपवर्णादिकं सर्व विहाय परमार्थवित् ।  
-परिपुर्णंचिदानन्दस्वरूपेणावतिष्ठते ॥ ४०॥  
+परिपुर्णञ्चिदानन्दस्वरूपेणावतिष्ठते ॥ ४०॥  
   
 ज्ञातृज्ञानज्ञेयभेदः परे नात्मनि विद्यते ।  
 चिदानन्दैकरूपत्वाद्दीप्यते स्वयमेव तत् ॥ ४१॥ var  हि ॥  
@@ -266,7 +267,7 @@ planet, Shankara, make us aware of His grace.
 स्थाणौ पुरुषवद्भ्रान्त्या कृता ब्रह्मणि जीवता ।  
 जीवस्य तात्त्विके रूपे तस्मिन्दृष्टे निवर्तते ॥ ४५॥  
   
-तत्वस्वरूपानुभवादुत्पन्नं ज्ञानमंजसा ।  
+तत्वस्वरूपानुभवादुत्पन्नं ज्ञानमञ्जसा ।  
 अहं ममेति चाज्ञानं बाधते दिग्भ्रमादिवत् ॥ ४६॥  
   
 सम्यग्विज्ञानवान् योगी स्वात्मन्येवाखिलं जगत् ।  
@@ -318,7 +319,7 @@ planet, Shankara, make us aware of His grace.
 स्वयमन्तर्बहिर्व्याप्य भासयन्नखिलं जगत् ।  
 ब्रह्म प्रकाशते वह्निप्रतप्तायसपिण्डवत् ॥ ६२॥  
   
-जगद्विलक्षणं ब्रह्म ब्रह्मणोऽन्यन्न किंचन ।  
+जगद्विलक्षणं ब्रह्म ब्रह्मणोऽन्यन्न किञ्चन ।  
 ब्रह्मान्यद्भाति चेन्मिथ्या यथा मरुमरीचिका ॥ ६३॥  
   
 दृश्यते श्रूयते यद्यद्ब्रह्मणोऽन्यन्न तद्भवेत् ।  
@@ -333,11 +334,11 @@ planet, Shankara, make us aware of His grace.
 हृदाकाशोदितो ह्यात्मा बोधभानुस्तमोऽपहृत् ।  
 सर्वव्यापी सर्वधारी भाति भासयतेऽखिलम् ॥ ६७॥ var सर्वं प्रकाशते  
 दिग्देशकालाद्यनपेक्ष्य सर्वगं  
-शीतादिहृन्नित्यसुखं निरंजनम् ।  
+शीतादिहृन्नित्यसुखं निरञ्जनम् ।  
 यः स्वात्मतीर्थं भजते विनिष्क्रियः  
 स सर्ववित्सर्वगतोऽमृतो भवेत् ॥ ६८॥  
   
-॥ इति शंकराचार्यविरचित आत्मबोधः समाप्तः ॥  
+॥ इति शङ्कराचार्यविरचित आत्मबोधः समाप्तः ॥  
   
   
 References in introduction include notes from the translations  

@@ -1,21 +1,21 @@
-+++
-"Text title" = "Shri Tandaveshvara Stotram"
-"File name" = "tANDaveshvarastotram.itx"
-itxtitle = "tANDaveshvarastotram (chandrashekharabhAratI virachitam)"
-engtitle = "Shri Tandaveshvara Stotram"
-Category = "shiva, chandrashekharabhAratI"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "chandrashekharabhAratI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Tandaveshvara)"
-"Latest update" = "June 3, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ताण्डवेश्वरस्तोत्रम् (चन्द्रशेखरभारती विरचितम्)"
+---
+Author: chandrashekharabhAratI
+Category: shiva, chandrashekharabhAratI
+File name: tANDaveshvarastotram.itx
+Indexextra: (Tandaveshvara)
+Language: Sanskrit
+Latest update: June 3, 2020
+Location: doc_shiva
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Tandaveshvara Stotram
+engtitle: Shri Tandaveshvara Stotram
+itxtitle: tANDaveshvarastotram (chandrashekharabhAratI virachitam)
+title: ताण्डवेश्वरस्तोत्रम् (चन्द्रशेखरभारती विरचितम्)
 
-+++
+---
   
  श्रीताण्डवेश्वरस्तोत्रम्   
 वृथा किं संसारे भ्रमथ मनुजा दुःखबहुले  

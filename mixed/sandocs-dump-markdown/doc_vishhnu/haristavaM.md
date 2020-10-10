@@ -1,23 +1,23 @@
-+++
-"Text title" = "Haristavam"
-"File name" = "haristavam.itx"
-itxtitle = "haristavaM"
-engtitle = "haristavaM"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "shrImati kunnilakShmiyamma kRitaM"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "PSA Easwaran"
-"Proofread by" = "PSA Easwaran"
-Indexextra = "(Scan)"
-"Latest update" = "January 18, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हरिस्तवं"
+---
+Author: shrImati kunnilakShmiyamma kRitaM
+Category: vishhnu
+File name: haristavam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: January 18, 2020
+Location: doc_vishhnu
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Haristavam
+Transliterated by: PSA Easwaran
+engtitle: haristavaM
+itxtitle: haristavaM
+title: हरिस्तवं
 
-+++
+---
   
  हरिस्तवम्   
 अरुणायुतदीप्रकिरीटमहः प्रकराञ्चितनीरदनीलकचम् ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "IshvarapratipattiprakAsha"
-"File name" = "IshvarapratipattiprakAsha.itx"
-itxtitle = "IshvarapratipattiprakAshaH"
-engtitle = "IshvarapratipattiprakAshaH"
-Category = "vedanta, major_works, madhusUdanasarasvatI"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Author = "Madhusudana Sarasvati"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Description/comments" = "A devotional poem by an advaita philosopher"
-"Latest update" = "Mar. 10, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ईश्वरप्रतिपत्तिप्रकाशः"
+---
+Author: Madhusudana Sarasvati
+Category: vedanta, major_works, madhusUdanasarasvatI
+Description/comments: A devotional poem by an advaita philosopher
+File name: IshvarapratipattiprakAsha.itx
+Language: Sanskrit
+Latest update: Mar. 10, 2015
+Location: doc_z_misc_major_works
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: major_works
+Text title: IshvarapratipattiprakAsha
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: IshvarapratipattiprakAshaH
+itxtitle: IshvarapratipattiprakAshaH
+title: ईश्वरप्रतिपत्तिप्रकाशः
 
-+++
+---
   
  ईश्वरप्रतिपत्तिप्रकाशः   
   
@@ -203,7 +203,7 @@ title = "ईश्वरप्रतिपत्तिप्रकाशः"
 केवलस्यैवावस्थानं स्तब्धीभावापरपर्यायं जाग्रत्सुषुप्तिः,  
 बाह्यान्तर्विषयानुभवस्तब्धीभावव्यतिरेकेण पुण्यपञ्जपरिपाकादज्ञस्यापि  
 साक्षिमात्रानुभवो गुरूपदेशात् त्वम्पदलक्ष्यशुद्धसाक्षिमात्रानुभवो वा  
-जागरणंतुरीयमिति चतुर्विधं जागरणम् ।  
+जागरणन्तुरीयमिति चतुर्विधं जागरणम् ।  
   
 तथा स्वप्नेऽपि देवतादिप्रसादाद् यन्त्रादिप्राप्तिः स्वप्नजागरणं  
 स्वाप्नैरेवेन्द्रियैः स्वप्ने रूपाद्यनुभवो वा, स्वप्नेऽपि स्वप्नोऽयं मया  

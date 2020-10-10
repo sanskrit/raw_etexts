@@ -1,22 +1,22 @@
-+++
-"Text title" = "chandreshekharendra Ashtakam"
-"File name" = "chandreshekharendra8.itx"
-itxtitle = "chandreshekharendrAShTakam"
-engtitle = "chandreshekharendra Ashtakam"
-Category = "deities_misc, gurudev, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vasanth gsathyaarumugam at gmail.com"
-"Proofread by" = "Vasanth, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "December 17, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चन्द्रेशेखरेन्द्राष्टकम्"
+---
+Category: deities_misc, gurudev, aShTaka
+File name: chandreshekharendra8.itx
+Language: Sanskrit
+Latest update: December 17, 2018
+Location: doc_deities_misc
+Proofread by: Vasanth, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: chandreshekharendra Ashtakam
+Transliterated by: Vasanth gsathyaarumugam at gmail.com
+engtitle: chandreshekharendra Ashtakam
+itxtitle: chandreshekharendrAShTakam
+title: चन्द्रेशेखरेन्द्राष्टकम्
 
-+++
+---
   
  श्रीचन्द्रशेखरभारत्यष्टकम्   
 शिष्यवृन्दसेवितं समस्तदोषवर्जितं  

@@ -1,24 +1,24 @@
-+++
-"Text title" = "kumArI pUjA"
-"File name" = "kumArIpUjA.itx"
-itxtitle = "kumArI pUjA"
-engtitle = "kumArI pUjA"
-Category = "devii, pUjA, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com, Pulakit Vyasa Shastri"
-"Description/comments" = "Kumari pujan shloka/verses from various sources"
-Indexextra = "(Info 1, 2, 3, 4)"
-"Latest update" = "October 4, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कुमारी पूजा"
+---
+Category: devii, pUjA, durgA, devI
+Description/comments: Kumari pujan shloka/verses from various sources
+File name: kumArIpUjA.itx
+Indexextra: (Info 1, 2, 3, 4)
+Language: Sanskrit
+Latest update: October 4, 2019
+Location: doc_devii
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com, Pulakit Vyasa Shastri
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: kumArI pUjA
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: kumArI pUjA
+itxtitle: kumArI pUjA
+title: कुमारी पूजा
 
-+++
+---
   
  कुमारी पूजा   
 ॥ माहात्म्य ॥  
@@ -141,7 +141,7 @@ title = "कुमारी पूजा"
                  (दुर्गाशतनामस्तोत्रे१२-१३)  
 ॥ बटुक पूजन ॥  
   
-उपनीत केशान्तपूर्वसंज्ञक ब्राह्मणबटुं निमन्त्र्य ।  
+उपनीत केशान्तपूर्वसञ्ज्ञक ब्राह्मणबटुं निमन्त्र्य ।  
 स्नानादिभिः संस्कार्य - ``बं बटुकाय नमः'' इति सोपवीत  गन्धाक्षत-  
             वस्त्रयुग्म-कुण्डलादिभिरभ्यर्च्य - नमस्कुर्यात्  ॥  
   
@@ -251,7 +251,7 @@ title = "कुमारी पूजा"
 ह्रीं कुलकुमारिकायै नमः - इदं नैवेद्यं स्वाहा ।  
 ह्रीं सुवासिन्यै नमः इदं नैवेद्यं स्वाहा ।  
 (नैवेद्यमन्त्रान् पठित्वा नैवेद्यं समर्पयामीति तत्तत्स्थाने सङ्कल्प्य,  
- उत्तानहस्तस्थ अनामिकांङ्गुष्ठयोगेन नैवेद्यमुद्रां प्रदर्शयेत् ॥)  
+ उत्तानहस्तस्थ अनामिकाङ्ङ्गुष्ठयोगेन नैवेद्यमुद्रां प्रदर्शयेत् ॥)  
   
 बटुकाय फलम् -  
 फलेन फलितं सर्वं त्रैलोक्यं सचराचरम् ।  
@@ -336,7 +336,7 @@ title = "कुमारी पूजा"
 सुन्दरीं स्वर्णवर्णाभां सुखसौभाग्यदायिनीम् ।  
 सुभद्रजननीं देवीं सुभद्रां प्रणमाम्यहम् ॥  
   
-॥ इति संप्रार्थ्य तत्राङ्गे स्वेष्टदेवतां  
+॥ इति सम्प्रार्थ्य तत्राङ्गे स्वेष्टदेवतां  
              (अनुष्ठनीय मन्त्रदेवतां) ध्यात्वा ॥  
   
 ॥ दुर्गा अष्टोत्तरशतनामस्तोत्रेण च स्तुत्वा ॥(विश्वसारतन्त्रे)  

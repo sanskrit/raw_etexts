@@ -1,22 +1,23 @@
-+++
-"Text title" = "jayadurgAstotram from Brahmavaivarta Purana"
-"File name" = "jayadurgAstotramBVP.itx"
-itxtitle = "jayadurgAstotram (brahmavaivartapurANAntargatam)"
-engtitle = "jayadurgAstotram from Brahmavaivarta Purana"
-Category = "devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Description/comments" = "Brahmavaivarta Purana, Krishnajanma Khanda (4), Adhyaya 27, verses 17-34"
-Indexextra = "(Scan, Marathi, )"
-"Latest update" = "February 18, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "जयदुर्गास्तोत्रम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)"
+---
+Category: devii, durgA, devI
+Description/comments: Brahmavaivarta Purana, Krishnajanma Khanda (4), Adhyaya 27,
+  verses 17-34
+File name: jayadurgAstotramBVP.itx
+Indexextra: (Scan, Marathi, )
+Language: Sanskrit
+Latest update: February 18, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: jayadurgAstotram from Brahmavaivarta Purana
+engtitle: jayadurgAstotram from Brahmavaivarta Purana
+itxtitle: jayadurgAstotram (brahmavaivartapurANAntargatam)
+title: जयदुर्गास्तोत्रम् (ब्रह्मवैवर्तपुराणान्तर्गतम्)
 
-+++
+---
   
  जयदुर्गास्तोत्रम्   
 विनियोगः -  
@@ -110,7 +111,7 @@ title = "जयदुर्गास्तोत्रम् (ब्रह्म
 सरथं शङ्करं मूर्ध्नि कृत्वा च निर्भयं ददौ ।  
 अत्यूर्ध्वं प्रापयामास जया तस्मै जयं ददौ ॥ २३॥  
   
-स्तोत्रस्यैव प्रभावेण संप्राप्य कवचं विधिः ।  
+स्तोत्रस्यैव प्रभावेण सम्प्राप्य कवचं विधिः ।  
 वरं च कवचं प्राप्य निर्भयं प्राप निश्चितम् ॥ २४॥  
   
 ब्रह्मा ददौ महेशाय स्तोत्रं च कवचं वरम् ।  

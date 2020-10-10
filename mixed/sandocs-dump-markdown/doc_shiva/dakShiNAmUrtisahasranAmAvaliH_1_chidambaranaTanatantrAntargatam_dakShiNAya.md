@@ -1,24 +1,24 @@
-+++
-"Text title" = "Shri Dakshinamurti Sahasranamavali (1) 1000 Names"
-"File name" = "dakShiNAmUrtisahasranAmAvalI1.itx"
-itxtitle = "dakShiNAmUrtisahasranAmAvaliH 1 (chidambaranaTanatantrAntargatam dakShiNAya)"
-engtitle = "Shri Dakshinamurtisahasranamavali 1"
-Category = "sahasranAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "NA, Aruna Narayanan narayanan.aruna gmail.com"
-Description-comments = "chidambaranaTanatantra"
-Source = "Shivanamamanjari 1"
-Indexextra = "(Scan)"
-"Latest update" = "July 1, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दक्षिणामूर्तिसहस्रनामावलिः १ (चिदम्बरनटनतन्त्रान्तर्गतम् दक्षिणाय)"
+---
+Category: sahasranAmAvalI, shiva
+Description-comments: chidambaranaTanatantra
+File name: dakShiNAmUrtisahasranAmAvalI1.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 1, 2019
+Location: doc_shiva
+Proofread by: NA, Aruna Narayanan narayanan.aruna gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Shivanamamanjari 1
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Dakshinamurti Sahasranamavali (1) 1000 Names
+Transliterated by: NA
+engtitle: Shri Dakshinamurtisahasranamavali 1
+itxtitle: dakShiNAmUrtisahasranAmAvaliH 1 (chidambaranaTanatantrAntargatam dakShiNAya)
+title: दक्षिणामूर्तिसहस्रनामावलिः १ (चिदम्बरनटनतन्त्रान्तर्गतम् दक्षिणाय)
 
-+++
+---
   
  श्रीदक्षिणामूर्तिसहस्रनामावलिः १   
 ॐ दक्षिणाय नमः । दक्षिणामूर्तये । दयालवे । दीनवल्लभाय ।  
@@ -199,7 +199,7 @@ title = "दक्षिणामूर्तिसहस्रनामाव�
 कमनीयकाय नमः । कलानिधये । कीर्तिनाथाय । कामेशीहृदयङ्गमाय ।  
 कामेश्वराय । कामरूपाय । कालाय । कालकृपानिधये । कृष्णाय ।  
 कालीपतये । कालये । कृशचूडामणये । कलाय । केशवाय । केवलाय ।  
-कान्ताय । कालीशाय । वरदायकाय । कालिकासंप्रदायज्ञाय ।  
+कान्ताय । कालीशाय । वरदायकाय । कालिकासम्प्रदायज्ञाय ।  
 कालाय नमः । ५८०  
   
 कामकलात्मकाय नमः । खट्वाङ्गपाणिने । खतिताय । खरशूलाय ।  

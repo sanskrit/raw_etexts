@@ -1,23 +1,23 @@
-+++
-"Text title" = "tAmraparNyaShTottarashatanAmAvalI"
-"File name" = "tAmraparNyaShTottarashatanAmAvalI.itx"
-itxtitle = "tAmraparNyaShTottarashatanAmAvalI"
-engtitle = "tAmraparNyaShTottarashatanAmAvalI"
-Category = "devii, aShTottarashatanAmAvalI, nadI, nAmAvalI, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "nadI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P. R. Kannan prkannanvashi at yahoo.com"
-"Proofread by" = "P. R. Kannan prkannanvashi at yahoo.com"
-Indexextra = "(Information)"
-"Latest update" = "August 25, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "ताम्रपर्ण्यष्टोत्तरशतनामावली"
+---
+Category: devii, aShTottarashatanAmAvalI, nadI, nAmAvalI, devI
+File name: tAmraparNyaShTottarashatanAmAvalI.itx
+Indexextra: (Information)
+Language: Sanskrit
+Latest update: August 25, 2018
+Location: doc_devii
+Proofread by: P. R. Kannan prkannanvashi at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: nadI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: tAmraparNyaShTottarashatanAmAvalI
+Transliterated by: P. R. Kannan prkannanvashi at yahoo.com
+engtitle: tAmraparNyaShTottarashatanAmAvalI
+itxtitle: tAmraparNyaShTottarashatanAmAvalI
+title: ताम्रपर्ण्यष्टोत्तरशतनामावली
 
-+++
+---
   
  श्रीताम्रपर्ण्यष्टोत्तरशतनामावलिः   
 ॐ आदिपराशक्तिस्वरूपिण्यै नमः ।  

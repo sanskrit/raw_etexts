@@ -1,24 +1,24 @@
-+++
-"Text title" = "ruchirAShTakam 1"
-"File name" = "ruchirAShTakam1.itx"
-itxtitle = "ruchirAShTakam 1 (kRiShNarAyavirachitam)"
-engtitle = "ruchirAShTakam 1"
-Category = "vishhnu, krishna, puShTimArgIya, aShTaka, kRiShNarAya"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "kRRiShNarAya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रुचिराष्टकम् १ (कृइष्णरायविरचितम्)"
+---
+Author: kRRiShNarAya
+Category: vishhnu, krishna, puShTimArgIya, aShTaka, kRiShNarAya
+Description/comments: puShTimArgIya stotraratnAkara
+File name: ruchirAShTakam1.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: ruchirAShTakam 1
+engtitle: ruchirAShTakam 1
+itxtitle: ruchirAShTakam 1 (kRiShNarAyavirachitam)
+title: रुचिराष्टकम् १ (कृइष्णरायविरचितम्)
 
-+++
+---
   
  श्रीरुचिराष्टकम् १   
   

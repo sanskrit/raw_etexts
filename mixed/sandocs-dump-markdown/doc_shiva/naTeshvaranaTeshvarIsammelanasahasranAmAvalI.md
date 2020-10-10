@@ -1,22 +1,22 @@
-+++
-"Text title" = "1000 names for Nateshvara and Nateshvari"
-"File name" = "naTeshvaranaTeshvarIsammelanasahasranAmAvalI.itx"
-itxtitle = "naTeshvaranaTeshvarIsammelanasahasranAmAvalI"
-engtitle = "naTeshvaranaTeshvarIsammelanasahasranAmAvalI"
-Category = "sahasranAmAvalI, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24xi at gmail.com"
-"Proofread by" = "Sivakumar Thyagarajan shivakumar24xi at gmail.com"
-Source = "stotra"
-"Latest update" = "March 4, 2016"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नटेश्वरनटेश्वरीसम्मेलनसहस्रनामावली"
+---
+Category: sahasranAmAvalI, shiva
+File name: naTeshvaranaTeshvarIsammelanasahasranAmAvalI.itx
+Language: Sanskrit
+Latest update: March 4, 2016
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan shivakumar24xi at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: stotra
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: 1000 names for Nateshvara and Nateshvari
+Transliterated by: Sivakumar Thyagarajan shivakumar24xi at gmail.com
+engtitle: naTeshvaranaTeshvarIsammelanasahasranAmAvalI
+itxtitle: naTeshvaranaTeshvarIsammelanasahasranAmAvalI
+title: नटेश्वरनटेश्वरीसम्मेलनसहस्रनामावली
 
-+++
+---
   
  श्रीनटेश्वरीनटेश्वरसम्मेलन सहस्रनामावली   
 ॐ श्री गणेशाय नमः ।  
@@ -31,13 +31,13 @@ title = "नटेश्वरनटेश्वरीसम्मेलनस�
 ॐ नम्याय नमः अङ्गुष्ठाभ्यां नमः ।  
 ॐ स्वाहा नमः तर्जनीभ्यां स्वाहा ।  
 ॐ वषट्काराय नमः मध्यमाभ्यां वषट् ।  
-ॐ हुंकाराय नमः अनामिकाभ्यां हुम् ।  
+ॐ हुङ्काराय नमः अनामिकाभ्यां हुम् ।  
 ॐ वौषट्काराय नमः कनिष्ठिकाभ्यां वौषट् ।  
 ॐ फट्कराय नमः करतलकर पृष्ठाभ्यां फट् ।  
 ॐ नम्याय नमः हृदयाय नमः ।  
 ॐ स्वाहा नमः शिरसे स्वाहा ।  
 ॐ वषट्काराय नमः शिखायै वषट् ।  
-ॐ हुंकाराय नमः कवचाय हुम् ।  
+ॐ हुङ्काराय नमः कवचाय हुम् ।  
 ॐ वौषट्काराय नमः नेत्रत्रयाय वौषट् ।  
 ॐ फट्कराय नमः अस्त्राय फट् ॥  
   

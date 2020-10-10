@@ -1,25 +1,25 @@
-+++
-"Text title" = "aparAdhakShamA"
-"File name" = "aparAdhakShamA.itx"
-itxtitle = "aparAdhakShamA (puShpA shrIvatsenavirachitam)"
-engtitle = "aparAdhakShamA"
-Category = "deities_misc, puShpAshrIvatsan"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-Texttype = "svara"
-Author = "Pushpa Srivatsan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N V Vathsan nvvathsan at gmail.com"
-"Proofread by" = "N V Vathsan nvvathsan at gmail.com"
-Source = "Stotra Pushapavali"
-Indexextra = "(Stotra Pushapavali)"
-"Latest update" = "December 28, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "अपराधक्षमा (पुष्पा श्रीवत्सेनविरचितम्)"
+---
+Author: Pushpa Srivatsan
+Category: deities_misc, puShpAshrIvatsan
+File name: aparAdhakShamA.itx
+Indexextra: (Stotra Pushapavali)
+Language: Sanskrit
+Latest update: December 28, 2017
+Location: doc_deities_misc
+Proofread by: N V Vathsan nvvathsan at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Stotra Pushapavali
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: aparAdhakShamA
+Texttype: svara
+Transliterated by: N V Vathsan nvvathsan at gmail.com
+engtitle: aparAdhakShamA
+itxtitle: aparAdhakShamA (puShpA shrIvatsenavirachitam)
+title: अपराधक्षमा (पुष्पा श्रीवत्सेनविरचितम्)
 
-+++
+---
   
  अपराधक्षमा   
                  ॐ  

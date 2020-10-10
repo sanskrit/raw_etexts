@@ -3,7 +3,6 @@ title: 035 Seetha asks Hanuma to describe the characteristics
 title_english: 035 Seetha asks Hanuma to describe the characteristics
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-035-Seetha_asks_Hanuma_to_describe_the_characteristics.mp3"></div>
 
 ताम् तु राम कथाम् श्रुत्वा वैदेही वानर ऋषभात् ।  
@@ -70,7 +69,7 @@ title_english: 035 Seetha asks Hanuma to describe the characteristics
 पृष्ठम् आरोप्य तम् देशम् प्रापितौ पुरुष ऋषभौ ॥ ५-३५-३१  
 निवेदितौ च तत्त्वेन सुग्रीवाय महात्मने ।  
 तयोः अन्योन्य सम्भाषात् भृशम् प्रीतिः अजायत ॥ ५-३५-३२  
-ततस्तौ प्रीतिसंपन्नौ हरि ईश्वर नर ईश्वरौ ।  
+ततस्तौ प्रीतिसम्पन्नौ हरि ईश्वर नर ईश्वरौ ।  
 परस्पर कृत आश्वासौ कथया पूर्व वृत्तया ॥ ५-३५-३३  
 तम् ततः सान्त्वयामास सुग्रीवम् लक्ष्मण आग्रजः ।  
 स्त्री हेतोः वालिना भ्रात्रा निरस्तम् उरु तेजसा ॥ ५-३५-३४  
@@ -128,7 +127,7 @@ title_english: 035 Seetha asks Hanuma to describe the characteristics
 भृशम् शोक अर्णवे मग्नः पर्यदेवयत् अन्गदः ॥ ५-३५-६०  
 तव नाशम् च वैदेहि वालिनः च तथा वधम् ।  
 प्राय उपवेशम् अस्माकम् मरणम् च जटायुषः ॥ ५-३५-६१  
-तेषाम् नः स्वामि संदेशान् निराशानाम् मुमूर्षताम् ।  
+तेषाम् नः स्वामि सन्देशान् निराशानाम् मुमूर्षताम् ।  
 कार्य हेतोः इव आयातः शकुनिः वीर्यवान् महान् ॥ ५-३५-६२  
 गृध्र राजस्य सोदर्यः सम्पातिः नाम गृध्र राट् ।  
 श्रुत्वा भ्रातृ वधम् कोपात् इदम् वचनम् अब्रवीत् ॥ ५-३५-६३  

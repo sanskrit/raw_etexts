@@ -1,21 +1,21 @@
-+++
-"Text title" = "kalisantaraNopaniShat"
-"File name" = "kalisantarana_upan.itx"
-itxtitle = "kalisantaraNopaniShat"
-engtitle = "Kalisantarana Upanishat"
-Category = "upanishhat, upanishad"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Anshuman Pandey"
-"Proofread by" = "Anshuman Pandey, Vijay Pai"
-"Latest update" = "August 22, 1996, September 15, 2014"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कलिसन्तरणोपनिषत्"
+---
+Category: upanishhat, upanishad
+File name: kalisantarana_upan.itx
+Language: Sanskrit
+Latest update: August 22, 1996, September 15, 2014
+Location: doc_upanishhat
+Proofread by: Anshuman Pandey, Vijay Pai
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: upanishhat
+Text title: kalisantaraNopaniShat
+Transliterated by: Anshuman Pandey
+engtitle: Kalisantarana Upanishat
+itxtitle: kalisantaraNopaniShat
+title: कलिसन्तरणोपनिषत्
 
-+++
+---
   
  कलिसन्तरणोपनिषत्   
   

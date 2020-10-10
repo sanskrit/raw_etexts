@@ -1,23 +1,23 @@
-+++
-"Text title" = "viShNorapAmArjanastotram"
-"File name" = "viShNorapAmArjanastotram.itx"
-itxtitle = "viShNorapAmArjanastotram"
-engtitle = "viShNorapAmArjanastotram"
-Category = "apAmArjana, vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA"
-"Proofread by" = "Nat Natarajan nat.natarajan at gmail.com, PSA Easwaran"
-Source = "Vishnudharmottarapurana Vishnurahasya"
-Indexextra = "(Vishnudharmottarapurana 1, Telugu)"
-"Latest update" = "March 31, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णोरपामार्जनस्तोत्रम्"
+---
+Category: apAmArjana, vishhnu
+File name: viShNorapAmArjanastotram.itx
+Indexextra: (Vishnudharmottarapurana 1, Telugu)
+Language: Sanskrit
+Latest update: March 31, 2018
+Location: doc_vishhnu
+Proofread by: Nat Natarajan nat.natarajan at gmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Vishnudharmottarapurana Vishnurahasya
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNorapAmArjanastotram
+Transliterated by: NA
+engtitle: viShNorapAmArjanastotram
+itxtitle: viShNorapAmArjanastotram
+title: विष्णोरपामार्जनस्तोत्रम्
 
-+++
+---
   
  श्रीविष्णोरपामार्जनस्तोत्रम्   
   

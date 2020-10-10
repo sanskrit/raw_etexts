@@ -1,24 +1,24 @@
-+++
-"Text title" = "vallabhAShTakam 2"
-"File name" = "vallabhAShTakam2.itx"
-itxtitle = "vallabhAShTakam 2 (devakInandanajIkRitam)"
-engtitle = "vallabhAShTakam 2"
-Category = "deities_misc, gurudev, puShTimArgIya, aShTaka"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudev"
-Author = "devakInandanajI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-"Description/comments" = "puShTimArgIya stotraratnAkara"
-Indexextra = "(pushti margiya stotraratnAkara)"
-"Latest update" = "February 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वल्लभाष्टकम् २ (देवकीनन्दनजीकृइतम्)"
+---
+Author: devakInandanajI
+Category: deities_misc, gurudev, puShTimArgIya, aShTaka
+Description/comments: puShTimArgIya stotraratnAkara
+File name: vallabhAShTakam2.itx
+Indexextra: (pushti margiya stotraratnAkara)
+Language: Sanskrit
+Latest update: February 28, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudev
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: vallabhAShTakam 2
+engtitle: vallabhAShTakam 2
+itxtitle: vallabhAShTakam 2 (devakInandanajIkRitam)
+title: वल्लभाष्टकम् २ (देवकीनन्दनजीकृइतम्)
 
-+++
+---
   
  श्रीवल्लभाष्टकम् २   
   

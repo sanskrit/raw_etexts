@@ -1,22 +1,22 @@
-+++
-"Text title" = "Svagatam Payoda Te    Welcome Rain"
-"File name" = "svAgataMpayodate.itx"
-itxtitle = "svAgataM payoda te"
-engtitle = "svAgataMpayodate"
-Category = "misc, sanskritgeet"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "manish gavkar manishyg at gmail.com"
-"Proofread by" = "manish gavkar manishyg at gmail.com, NA"
-Indexextra = "(Video)"
-"Latest update" = "April 4, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "स्वागतं पयोद ते"
+---
+Category: misc, sanskritgeet
+File name: svAgataMpayodate.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: April 4, 2020
+Location: doc_z_misc_general
+Proofread by: manish gavkar manishyg at gmail.com, NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Svagatam Payoda Te    Welcome Rain
+Transliterated by: manish gavkar manishyg at gmail.com
+engtitle: svAgataMpayodate
+itxtitle: svAgataM payoda te
+title: स्वागतं पयोद ते
 
-+++
+---
   
  स्वागतं पयोद ते   
 गर्जनेन वर्षणेन ते धरा प्रमोदते ।  

@@ -1,22 +1,22 @@
-+++
-"Text title" = "Hanumatkalpa from Tantrasara"
-"File name" = "hanumatkalpatantrasAra.itx"
-itxtitle = "hanumatkalpaH (tantrasArokta)"
-engtitle = "Hanumatkalpa from Tantrasara"
-Category = "hanumaana, hanuman"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "NA"
-Description-comments = "hanumad rahasyam"
-Source = "tatrasAra"
-"Latest update" = "June 17, 2016"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "हनुमत्कल्पः (तन्त्रसारोक्त)"
+---
+Category: hanumaana, hanuman
+Description-comments: hanumad rahasyam
+File name: hanumatkalpatantrasAra.itx
+Language: Sanskrit
+Latest update: June 17, 2016
+Location: doc_hanumaana
+Proofread by: NA
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: tatrasAra
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: Hanumatkalpa from Tantrasara
+engtitle: Hanumatkalpa from Tantrasara
+itxtitle: hanumatkalpaH (tantrasArokta)
+title: हनुमत्कल्पः (तन्त्रसारोक्त)
 
-+++
+---
   
  श्रीहनुमत्कल्पः   
   

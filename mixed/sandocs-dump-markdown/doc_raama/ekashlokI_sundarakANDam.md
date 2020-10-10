@@ -1,22 +1,22 @@
-+++
-"Text title" = "ekashloki sundarakANDam"
-"File name" = "ekashlokIsundarakANDam.itx"
-itxtitle = "ekashlokI sundarakANDam"
-engtitle = "ekashloki sundarakANDam"
-Category = "ekashlokI, raama, stotra"
-Location = "doc_raama"
-Sublocation = "raama"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(text-video)"
-"Latest update" = "September 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "एकश्लोकी सुन्दरकाण्डम्"
+---
+Author: Traditional
+Category: ekashlokI, raama, stotra
+File name: ekashlokIsundarakANDam.itx
+Indexextra: (text-video)
+Language: Sanskrit
+Latest update: September 25, 2017
+Location: doc_raama
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: ekashloki sundarakANDam
+Texttype: stotra
+engtitle: ekashloki sundarakANDam
+itxtitle: ekashlokI sundarakANDam
+title: एकश्लोकी सुन्दरकाण्डम्
 
-+++
+---
   
  एकश्लोकी सुन्दरकाण्डम्   
   

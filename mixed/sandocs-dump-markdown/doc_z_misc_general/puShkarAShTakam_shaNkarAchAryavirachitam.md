@@ -1,23 +1,24 @@
-+++
-"Text title" = "puShkarAShTakam"
-"File name" = "puShkarAShTakam.itx"
-itxtitle = "puShkarAShTakam (shaNkarAchAryavirachitam)"
-engtitle = "puShkarAShTakam"
-Category = "aShTaka, misc, stotra, shankarAchArya"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Texttype = "stotra"
-Author = "Shankaracharya"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com"
-"Proofread by" = "Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran psaeaswaran at gmail.com"
-"Latest update" = "May 21, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पुष्कराष्टकम् (शण्कराचार्यविरचितम्)"
+---
+Author: Shankaracharya
+Category: aShTaka, misc, stotra, shankarAchArya
+File name: puShkarAShTakam.itx
+Language: Sanskrit
+Latest update: May 21, 2013
+Location: doc_z_misc_general
+Proofread by: Dinesh Agarwal  dinesh.garghouse at gmail.com, PSA Easwaran psaeaswaran
+  at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: puShkarAShTakam
+Texttype: stotra
+Transliterated by: Dinesh Agarwal  dinesh.garghouse at gmail.com
+engtitle: puShkarAShTakam
+itxtitle: puShkarAShTakam (shaNkarAchAryavirachitam)
+title: पुष्कराष्टकम् (शण्कराचार्यविरचितम्)
 
-+++
+---
   
  पुष्कराष्टकम्   
   

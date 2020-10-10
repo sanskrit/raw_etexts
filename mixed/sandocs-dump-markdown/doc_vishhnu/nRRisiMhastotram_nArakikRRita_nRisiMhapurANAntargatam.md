@@ -1,21 +1,22 @@
-+++
-"Text title" = "nArakikRRitashrInRRisiMhastotram"
-"File name" = "nArakikRRitashrInRRisiMhastotram.itx"
-itxtitle = "nRRisiMhastotram (nArakikRRita nRisiMhapurANAntargatam)"
-engtitle = "nArakikRRita Shri Nrisimhastotram"
-Category = "vishhnu, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 225"
-"Latest update" = "March 25, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नृसिंहस्तोत्रम् (नारकिकृत नृइसिंहपुराणान्तर्गतम्)"
+---
+Category: vishhnu, vishnu
+Description-comments: Brihatstotraratnakara 1 newer, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 225
+File name: nArakikRRitashrInRRisiMhastotram.itx
+Language: Sanskrit
+Latest update: March 25, 2017
+Location: doc_vishhnu
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nArakikRRitashrInRRisiMhastotram
+engtitle: nArakikRRita Shri Nrisimhastotram
+itxtitle: nRRisiMhastotram (nArakikRRita nRisiMhapurANAntargatam)
+title: नृसिंहस्तोत्रम् (नारकिकृत नृइसिंहपुराणान्तर्गतम्)
 
-+++
+---
   
  नारकिकृतश्रीनृसिंहस्तोत्रम्   
   

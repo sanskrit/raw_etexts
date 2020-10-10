@@ -1,20 +1,20 @@
-+++
-"Text title" = "Sundara Kanda Prarthana Shloka"
-"File name" = "sundarakANDaprArthanAshlokAH.itx"
-itxtitle = "sundarakANDaprArthanAshlokAH"
-engtitle = "sundarakANDaprArthanAshlokAH"
-Category = "hanumaana"
-Location = "doc_hanumaana"
-Sublocation = "hanumaana"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran"
-"Latest update" = "April 25, 2020"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "http://sanskritdocuments.org"
-title = "सुन्दरकाण्डप्रार्थनाश्लोकाः"
+---
+Category: hanumaana
+File name: sundarakANDaprArthanAshlokAH.itx
+Language: Sanskrit
+Latest update: April 25, 2020
+Location: doc_hanumaana
+Proofread by: PSA Easwaran
+Send corrections to: sanskrit@cheerful.com
+Site access: http://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: hanumaana
+Text title: Sundara Kanda Prarthana Shloka
+engtitle: sundarakANDaprArthanAshlokAH
+itxtitle: sundarakANDaprArthanAshlokAH
+title: सुन्दरकाण्डप्रार्थनाश्लोकाः
 
-+++
+---
   
  सुन्दरकाण्ड प्रार्थना श्लोकाः   
 मनोजवं मारुततुल्यवेगं  

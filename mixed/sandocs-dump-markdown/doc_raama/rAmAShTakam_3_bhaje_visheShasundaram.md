@@ -1,21 +1,21 @@
-+++
-"Text title" = "raamaashhTaka 3 bhaje visheShasundaraM"
-"File name" = "raamaashhTaka3.itx"
-itxtitle = "rAmAShTakam 3 (bhaje visheShasundaram)"
-engtitle = "rAmAShTakam 3"
-Category = "aShTaka, raama, vyAsa"
-Location = "doc_raama"
-Sublocation = "raama"
-Author = "Shri Vyasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Madhavi U mupadrasta at gmail.com"
-"Latest update" = "December 28, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "रामाष्टकम् ३ (भजे विशेषसुन्दरम्)"
+---
+Author: Shri Vyasa
+Category: aShTaka, raama, vyAsa
+File name: raamaashhTaka3.itx
+Language: Sanskrit
+Latest update: December 28, 2012
+Location: doc_raama
+Proofread by: Madhavi U mupadrasta at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: raama
+Text title: raamaashhTaka 3 bhaje visheShasundaraM
+engtitle: rAmAShTakam 3
+itxtitle: rAmAShTakam 3 (bhaje visheShasundaram)
+title: रामाष्टकम् ३ (भजे विशेषसुन्दरम्)
 
-+++
+---
   
  रामाष्टकम् ३   
   

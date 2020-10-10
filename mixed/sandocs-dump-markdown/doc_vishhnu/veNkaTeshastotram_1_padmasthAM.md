@@ -1,25 +1,25 @@
-+++
-"Text title" = "veNkaTeshastotram 1"
-"File name" = "venkaTeshastotram.itx"
-itxtitle = "veNkaTeshastotram 1 (padmasthAM)"
-engtitle = "Venkateshastotram 1 (padmasthAM)"
-Category = "vishhnu, venkateshwara, stotra, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-"Proofread by" = "Malleswara Rao Yellapragada malleswararaoy at yahoo.com"
-Source = "Venkatesha Kavyakalapa"
-Indexextra = "(Venkatesha Kavyakalapa)"
-"Latest update" = "April 4, 2015"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशस्तोत्रम् १ (पद्मस्थां)"
+---
+Category: vishhnu, venkateshwara, stotra, vishnu
+File name: venkaTeshastotram.itx
+Indexextra: (Venkatesha Kavyakalapa)
+Language: Sanskrit
+Latest update: April 4, 2015
+Location: doc_vishhnu
+Proofread by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Venkatesha Kavyakalapa
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veNkaTeshastotram 1
+Texttype: stotra
+Transliterated by: Malleswara Rao Yellapragada malleswararaoy at yahoo.com
+engtitle: Venkateshastotram 1 (padmasthAM)
+itxtitle: veNkaTeshastotram 1 (padmasthAM)
+title: वेण्कटेशस्तोत्रम् १ (पद्मस्थां)
 
-+++
+---
   
  वेङ्कटेशस्तोत्रम्   
   
@@ -83,7 +83,7 @@ title = "वेण्कटेशस्तोत्रम् १ (पद्म�
   
 शेषित्वप्रमुखान्निपीय तु गुणान्नित्या हरेस्सूरयो  
      वैकुण्ठे तत एत्य वेङ्कटगिरिं सौलभ्यमुख्यानिह ।  
-नित्योदञ्चितसंनिधेर्निरुपमान्निर्विश्य तस्याद्भुतान्  
+नित्योदञ्चितसन्निधेर्निरुपमान्निर्विश्य तस्याद्भुतान्  
      निर्गन्तुं प्रभवन्ति हन्त न ततो वैकुण्ठकुण्ठादराः ॥ १२॥  
   
 सम्फुल्लाद्भुतपुष्पभारविनमच्छाखाशतानां सदा  

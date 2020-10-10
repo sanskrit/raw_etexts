@@ -1,24 +1,24 @@
-+++
-"Text title" = "durgAsaptashlokI"
-"File name" = "durga7.itx"
-itxtitle = "durgAsaptashlokI"
-engtitle = "durgAsaptashlokI"
-Category = "devii, durgA, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Texttype = "stotra"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Kapila Shankaran Love kapilalove at gmail.com"
-"Proofread by" = "Kapila, Shriramana Sharma jamadagni at gmail.com, NA"
-Indexextra = "(Video)"
-"Latest update" = "November 22, 2013"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "दुर्गासप्तश्लोकी"
+---
+Category: devii, durgA, stotra, devI
+File name: durga7.itx
+Indexextra: (Video)
+Language: Sanskrit
+Latest update: November 22, 2013
+Location: doc_devii
+Proofread by: Kapila, Shriramana Sharma jamadagni at gmail.com, NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: durgAsaptashlokI
+Texttype: stotra
+Transliterated by: Kapila Shankaran Love kapilalove at gmail.com
+engtitle: durgAsaptashlokI
+itxtitle: durgAsaptashlokI
+title: दुर्गासप्तश्लोकी
 
-+++
+---
   
  श्रीदुर्गासप्तश्लोकी   
   

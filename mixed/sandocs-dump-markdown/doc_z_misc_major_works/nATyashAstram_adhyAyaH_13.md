@@ -1,23 +1,23 @@
-+++
-"Text title" = "naaTyashaastra adhyaaya 13 karayuktidharmiivyanjaka"
-"File name" = "natya13.itx"
-itxtitle = "nATyashAstram adhyAyaH 13"
-engtitle = "Natya Shastra Chapter 13"
-Category = "natyashastra, major_works, bharata"
-Location = "doc_z_misc_major_works"
-Sublocation = "major_works"
-Texttype = "pramukha"
-Author = "Sage Bharata"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/culture/Dance/Drama"
-"Transliterated by" = "Sowmya Krishnapur krsowmya at yahoo.com"
-"Proofread by" = "Sowmya Krishnapur krsowmya at yahoo.com"
-"Latest update" = "June 17, 2005"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नाट्यशास्त्रम् अध्यायः १३"
+---
+Author: Sage Bharata
+Category: natyashastra, major_works, bharata
+File name: natya13.itx
+Language: Sanskrit
+Latest update: June 17, 2005
+Location: doc_z_misc_major_works
+Proofread by: Sowmya Krishnapur krsowmya at yahoo.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/culture/Dance/Drama
+Sublocation: major_works
+Text title: naaTyashaastra adhyaaya 13 karayuktidharmiivyanjaka
+Texttype: pramukha
+Transliterated by: Sowmya Krishnapur krsowmya at yahoo.com
+engtitle: Natya Shastra Chapter 13
+itxtitle: nATyashAstram adhyAyaH 13
+title: नाट्यशास्त्रम् अध्यायः १३
 
-+++
+---
   
  नाट्यशास्त्रम् अध्यायः १३   
   
@@ -86,7 +86,7 @@ title = "नाट्यशास्त्रम् अध्यायः १३
 मानुषे कारणादेषां यथा भवति दर्शनम् ॥ २०॥  
   
 भारते त्वथ हैमे वा हरिवर्ष इलावृते ।  
-रम्ये किंपुरुषे वापि कुरुषूत्तरकेषु वा ॥ २१॥  
+रम्ये किम्पुरुषे वापि कुरुषूत्तरकेषु वा ॥ २१॥  
   
 दिव्यानां छन्दगमनं सर्ववर्षेषु कीर्तितम् ।  
 भारते मानुषाणाञ्च गमनं संविधीयते ॥ २२॥  
@@ -217,10 +217,10 @@ title = "नाट्यशास्त्रम् अध्यायः १३
 मायेन्द्रजालबहुलं पुस्तनेपथ्यसंयुतम् ॥ ५९॥  
   
 पुरुषैर्बहुभिर्युक्तमल्पस्त्रीकं तथैव च ।  
-सात्त्वत्यारभटीयुक्तं नाट्यमाविद्धसंज्ञितम् ॥ ६०॥  
+सात्त्वत्यारभटीयुक्तं नाट्यमाविद्धसञ्ज्ञितम् ॥ ६०॥  
   
 डिमः समवकारश्च व्यायोगेहामृगौ तथा ।  
-एतान्याविद्धसंज्ञानि विज्ञेयानि प्रयोक्तृभिः ॥ ६१॥  
+एतान्याविद्धसञ्ज्ञानि विज्ञेयानि प्रयोक्तृभिः ॥ ६१॥  
   
 एषां प्रयोगः कर्तव्यो दैत्यदानवराक्षसैः ।  
 उद्धता ये च पुरुषाः शौर्यवीर्यबलान्विताः ॥ ६२॥  

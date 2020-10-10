@@ -1,22 +1,22 @@
-+++
-"Text title" = "baTukabhairavasahasranAmastotra 3"
-"File name" = "baTukabhairavasahasranAmastotradAsa.itx"
-itxtitle = "baTukabhairavasahasranAmastotram 3 (shaNkhadIpa dAsavirachitam)"
-engtitle = "baTukabhairavasahasranAmastotra 3"
-Category = "sahasranAma, shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Sankhadeep Das"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sankhadeep Das dassankha250 at gmail.com"
-"Proofread by" = "Sankhadeep Das dassankha250 at gmail.com"
-"Latest update" = "December 5, 2019"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "बटुकभैरवसहस्रनामस्तोत्रम् ३ (शण्खदीप दासविरचितम्)"
+---
+Author: Sankhadeep Das
+Category: sahasranAma, shiva
+File name: baTukabhairavasahasranAmastotradAsa.itx
+Language: Sanskrit
+Latest update: December 5, 2019
+Location: doc_shiva
+Proofread by: Sankhadeep Das dassankha250 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: baTukabhairavasahasranAmastotra 3
+Transliterated by: Sankhadeep Das dassankha250 at gmail.com
+engtitle: baTukabhairavasahasranAmastotra 3
+itxtitle: baTukabhairavasahasranAmastotram 3 (shaNkhadIpa dAsavirachitam)
+title: बटुकभैरवसहस्रनामस्तोत्रम् ३ (शण्खदीप दासविरचितम्)
 
-+++
+---
   
  श्रीबटुकभैरवसहस्रनामस्तोत्रम् ३   
 ॐ अस्य श्रीमद्बटुकभैरवदिव्यसहस्रनामस्तोत्रमहामन्त्रस्य  

@@ -1,25 +1,26 @@
-+++
-"Text title" = "nikunjakelivirudAvalI"
-"File name" = "nikunjakelivirudAvalI.itx"
-itxtitle = "nikunjakelivirudAvalI (vishvanAthachakravartin ThakkuravirachitA)"
-engtitle = "nikunjakelivirudAvalI by vishvanAthachakravartin"
-Category = "vishhnu, krishna, vishvanAthachakravartin, stavAmRRitalaharI"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "Vishwanatha Chakravarti"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal Delmonico (Nitai Das) ndelmonico at sbcglobal.net"
-"Proofread by" = "Jan Brzezinski, Neal Delmonico"
-Indexextra = "(Text, Meaning)"
-Acknowledge-Permission = "http://granthamandira.net Gaudiya Grantha Mandira"
-"Latest update" = "March 16, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "निकुञ्जकेलिविरुदावली (विश्वनाथचक्रवर्तिन् ठक्कुरविरचिता)"
+---
+Acknowledge-Permission: http://granthamandira.net Gaudiya Grantha Mandira
+Author: Vishwanatha Chakravarti
+Category: vishhnu, krishna, vishvanAthachakravartin, stavAmRRitalaharI
+File name: nikunjakelivirudAvalI.itx
+Indexextra: (Text, Meaning)
+Language: Sanskrit
+Latest update: March 16, 2019
+Location: doc_vishhnu
+Proofread by: Jan Brzezinski, Neal Delmonico
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: nikunjakelivirudAvalI
+Transliterated by: Jan Brzezinski (Jagadananda Das) jankbrz at yahoo.com and Neal
+  Delmonico (Nitai Das) ndelmonico at sbcglobal.net
+engtitle: nikunjakelivirudAvalI by vishvanAthachakravartin
+itxtitle: nikunjakelivirudAvalI (vishvanAthachakravartin ThakkuravirachitA)
+title: निकुञ्जकेलिविरुदावली (विश्वनाथचक्रवर्तिन् ठक्कुरविरचिता)
 
-+++
+---
   
  निकुञ्जकेलिविरुदावली   
 (१)  
@@ -147,7 +148,7 @@ title = "निकुञ्जकेलिविरुदावली (विश
 चरितो ध्रुवमेव द्रुतं  
 अभितोऽर्दसि नाथ द्रुत  
 मनसां प्रणयेन त्वयि  
-मम सांप्रतमीश त्वयि  
+मम साम्प्रतमीश त्वयि  
 भवताद्रतिरीतिर्मतिं  
 अवतात्तव नामश्रुति-  
 रमितार्थकलीलस्वरं  
@@ -231,7 +232,7 @@ title = "निकुञ्जकेलिविरुदावली (विश
 चञ्चलमधुकरमण्डल सञ्चलदलकसकुण्डल ।  
 मन्दहसितलसदिन्दिरशन्दचरितगुणमन्दिर ।  
 दण्डितसमदमतङ्गज मण्डितगतिवलदङ्गज ।  
-कम्परुचिररुचिनिन्दित शंपसुतनुमतिसन्दित ।  
+कम्परुचिररुचिनिन्दित शम्पसुतनुमतिसन्दित ।  
 दम्भविषमजनवञ्चक शम्भदमन शरपञ्चक  
 खण्डितहृदतनु सागरपण्डितरतिसुहृदङ्गर ।  
 बम्भ्रमदलिवरलम्भित सम्भ्रमसुदृगभिरम्भित ।  
@@ -606,7 +607,7 @@ title = "निकुञ्जकेलिविरुदावली (विश
   
 झनज् झनदिति श्रुति प्लुतिमिता रते किङ्किणी  
      सनत्सनदिति स्वनाश्वसिति सन्ततिर्वां मुहुः ।  
-भ्रमद्भ्रमर संभ्रमा प्रचल सौरभालिर्विभो  
+भ्रमद्भ्रमर सम्भ्रमा प्रचल सौरभालिर्विभो  
      झलज् झलति भातु मे हृदय सम्पुटे रत्नवत् ॥ ५८॥  
   
 मदन रणग सुतनु दशन विदित विदित चरित ललन  
@@ -715,7 +716,7 @@ title = "निकुञ्जकेलिविरुदावली (विश
   
 मधुररसकृतार्थीकारिहारीष्टलीलः  
      प्रणयिसुजनचेतोवप्रविप्लाविशीलः ।  
-क्षणरुचिरुचिकान्ताकान्तिसंमर्दधीलः  
+क्षणरुचिरुचिकान्ताकान्तिसम्मर्दधीलः  
      सुखयतु मुदिरोऽस्मान्मेदुरः कोऽपि नीलः ॥ ६८॥  
   
 राधामाधवसाधुसाधनसुधाधाराधुराधारिणां  

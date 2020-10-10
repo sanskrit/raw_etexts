@@ -1,23 +1,23 @@
-+++
-"Text title" = "Shri Mahakala Sahasranama Stotram 2"
-"File name" = "mahAkAlasahasranAmastotram2.itx"
-itxtitle = "mahAkAlasahasranAmastotram 2 (vishvasAratantrAntargatam mahAkAlo bhairavesho)"
-engtitle = "mahAkAlasahasranAmastotram 2"
-Category = "shiva, sahasranAma"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sivakumar Thyagarajan shivakumar24 at gmail"
-"Proofread by" = "Sivakumar Thyagarajan, PSA Easwaran"
-Description-comments = "vishvasAre kAlIsarvasve. See corresponding Namavali"
-Indexextra = "(Manuscript, nAmAvalI)"
-"Latest update" = "April 4, 2020"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाकालसहस्रनामस्तोत्रम् २ (विश्वसारतन्त्रान्तर्गतम् महाकालो भैरवेशो)"
+---
+Category: shiva, sahasranAma
+Description-comments: vishvasAre kAlIsarvasve. See corresponding Namavali
+File name: mahAkAlasahasranAmastotram2.itx
+Indexextra: (Manuscript, nAmAvalI)
+Language: Sanskrit
+Latest update: April 4, 2020
+Location: doc_shiva
+Proofread by: Sivakumar Thyagarajan, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Shri Mahakala Sahasranama Stotram 2
+Transliterated by: Sivakumar Thyagarajan shivakumar24 at gmail
+engtitle: mahAkAlasahasranAmastotram 2
+itxtitle: mahAkAlasahasranAmastotram 2 (vishvasAratantrAntargatam mahAkAlo bhairavesho)
+title: महाकालसहस्रनामस्तोत्रम् २ (विश्वसारतन्त्रान्तर्गतम् महाकालो भैरवेशो)
 
-+++
+---
   
  श्रीमहाकालसहस्रनामस्तोत्रम् २   
 ॐ श्रीगणेशाय नमः ।  

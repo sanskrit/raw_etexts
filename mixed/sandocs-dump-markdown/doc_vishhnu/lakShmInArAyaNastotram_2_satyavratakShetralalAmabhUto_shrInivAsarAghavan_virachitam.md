@@ -1,23 +1,24 @@
-+++
-"Text title" = "Lakshmi Narayana stotram 2"
-"File name" = "lakShmInArAyaNastotram2.itx"
-itxtitle = "lakShmInArAyaNastotram 2 (satyavratakShetralalAmabhUto shrInivAsarAghavan virachitam))"
-engtitle = "lakShmInArAyaNastotram 2"
-Category = "vishhnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Author = "Shrinivasa raghavan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Shree"
-"Proofread by" = "NA"
-Indexextra = "(Translation, text)"
-"Latest update" = "July 12, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीनारायणस्तोत्रम् २ (सत्यव्रतक्षेत्रललामभूतो श्रीनिवासराघवन् विरचितम्))"
+---
+Author: Shrinivasa raghavan
+Category: vishhnu
+File name: lakShmInArAyaNastotram2.itx
+Indexextra: (Translation, text)
+Language: Sanskrit
+Latest update: July 12, 2018
+Location: doc_vishhnu
+Proofread by: NA
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Lakshmi Narayana stotram 2
+Transliterated by: Shree
+engtitle: lakShmInArAyaNastotram 2
+itxtitle: lakShmInArAyaNastotram 2 (satyavratakShetralalAmabhUto shrInivAsarAghavan
+  virachitam))
+title: लक्ष्मीनारायणस्तोत्रम् २ (सत्यव्रतक्षेत्रललामभूतो श्रीनिवासराघवन् विरचितम्))
 
-+++
+---
   
  श्रीलक्ष्मीनारायणस्तोत्रम् २   
 अथ श्रीलक्ष्मीनारायणस्तोत्रम् ।  
@@ -63,8 +64,8 @@ title = "लक्ष्मीनारायणस्तोत्रम् २ 
 कल्याणकुल्यामृतवाहिनी स्तात् यूपः समुच्छ्रायमुपैतु भूयः ।  
 त्वदीयधामोज्ज्वलतामुपेयात् आराधनं ते नवतां प्रदद्यात् ॥ १४॥  
   
-काञ्चीघटाम्ब्वित्यभिधानभाजः श्रीवेंकटाचार्यमुखाः कवीन्द्राः ।  
-यत्सन्निधानात् अतुलां प्रतिष्ठां संप्राप्य नारायण संविभासि ॥ १५॥  
+काञ्चीघटाम्ब्वित्यभिधानभाजः श्रीवेङ्कटाचार्यमुखाः कवीन्द्राः ।  
+यत्सन्निधानात् अतुलां प्रतिष्ठां सम्प्राप्य नारायण संविभासि ॥ १५॥  
   
 दभ्रेतरे धामनि वर्धमानो दभ्रं परं धाम समाश्रितोऽसि ।  
 अदभ्रदृष्ट्या स्वयमेधमानः भद्राणि नारायण संविधेयाः ॥ १६॥  

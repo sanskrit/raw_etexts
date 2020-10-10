@@ -1,24 +1,24 @@
-+++
-"Text title" = "pa.nchashlokIgaNeshapurANam"
-"File name" = "panchashlokigaNeshapurANa.itx"
-itxtitle = "panchashlokIgaNeshapurANam"
-engtitle = "pa.nchashlokIgaNeshapurANam"
-Category = "panchaka, ganesha"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "WebD"
-"Proofread by" = "Ravin Bhalekar ravibhalekar at hotmail.com"
-"Latest update" = "May 6, 2004, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "पञ्चश्लोकीगणेशपुराणम्"
+---
+Author: Traditional
+Category: panchaka, ganesha
+File name: panchashlokigaNeshapurANa.itx
+Language: Sanskrit
+Latest update: May 6, 2004, 2001
+Location: doc_ganesha
+Proofread by: Ravin Bhalekar ravibhalekar at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: pa.nchashlokIgaNeshapurANam
+Transliterated by: WebD
+engtitle: pa.nchashlokIgaNeshapurANam
+itxtitle: panchashlokIgaNeshapurANam
+title: पञ्चश्लोकीगणेशपुराणम्
 
-+++
+---
   
- पंचश्लोकिगणेशपुराणम्   
+ पञ्चश्लोकिगणेशपुराणम्   
   
 श्रीविघ्नेशपुराणसारमुदितं व्यासाय धात्रा पुरा  
 तत्खण्डं प्रथमं महागणपतेश्चोपासनाख्यं यथा ।  
@@ -47,7 +47,7 @@ title = "पञ्चश्लोकीगणेशपुराणम्"
   
 एतच्छ्लोकसुपञ्चकं प्रतिदिनं भक्त्या पठेद्यः पुमान्  
 निर्वाणं परमं व्रजेत् स सकलान् भुक्त्वा सुभोगानपि ।  
-॥ इति श्रीपंचश्लोकिगणेशपुराणम् ॥  
+॥ इति श्रीपञ्चश्लोकिगणेशपुराणम् ॥  
   
   
 Proofread by Ravin Bhalekar ravibhalekar at hotmail.com  

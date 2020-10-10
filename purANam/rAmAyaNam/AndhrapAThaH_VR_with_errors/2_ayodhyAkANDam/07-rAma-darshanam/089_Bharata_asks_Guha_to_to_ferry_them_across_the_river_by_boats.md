@@ -3,7 +3,6 @@ title: 089 Bharata asks Guha to to ferry them across the river by boats
 title_english: 089 Bharata asks Guha to to ferry them across the river by boats
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-089-Bharathaa_Deenam_Prayaga_Vanagamanam.mp3"></div>
 
 व्युष्य रात्रिम् तु तत्र एव गन्गा कूले स राघवः ।  

@@ -1,23 +1,23 @@
-+++
-"Text title" = "Devi 108 Mahotsava Vratasthanas from Devi Bhagavatam"
-"File name" = "devImahotsavavratasthAnAnidevIbhAgavatam.itx"
-itxtitle = "devImahotsavavratasthAnAni (devIbhAgavatAntargatam)"
-engtitle = "Devi Mahotsava Vratasthanas from Devi Bhagavatam"
-Category = "devii, shaktipITha"
-Location = "doc_devii"
-Sublocation = "devii"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Vishwas Bhide vrbhide at rediffmail.com"
-"Proofread by" = "Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com"
-"Description/comments" = "Devi Bhagavata Mahapuran Skandha 7, Adhyaya 38"
-Indexextra = "(Scan, Devi Bhagavatam 7-38)"
-"Latest update" = "June 10, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीमहोत्सवव्रतस्थानानि (देवीभागवतान्तर्गतम्)"
+---
+Category: devii, shaktipITha
+Description/comments: Devi Bhagavata Mahapuran Skandha 7, Adhyaya 38
+File name: devImahotsavavratasthAnAnidevIbhAgavatam.itx
+Indexextra: (Scan, Devi Bhagavatam 7-38)
+Language: Sanskrit
+Latest update: June 10, 2018
+Location: doc_devii
+Proofread by: Vishwas Bhide, PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Devi 108 Mahotsava Vratasthanas from Devi Bhagavatam
+Transliterated by: Vishwas Bhide vrbhide at rediffmail.com
+engtitle: Devi Mahotsava Vratasthanas from Devi Bhagavatam
+itxtitle: devImahotsavavratasthAnAni (devIbhAgavatAntargatam)
+title: देवीमहोत्सवव्रतस्थानानि (देवीभागवतान्तर्गतम्)
 
-+++
+---
   
  देवीमहोत्सवव्रतस्थानानि   
 हिमालय उवाच -  
@@ -103,7 +103,7 @@ title = "देवीमहोत्सवव्रतस्थानानि (
 अविमुक्ते विशालाक्षी महाभागा महालये ।  
 गोकर्णे भद्रकर्णी स्याद्भद्रा स्याद्भद्रकर्णके ॥ २७॥  
   
-उत्पलाक्षी सुवर्णाक्षे स्थाण्वीशा स्थाणुसंज्ञके ।  
+उत्पलाक्षी सुवर्णाक्षे स्थाण्वीशा स्थाणुसञ्ज्ञके ।  
 कमलालये तु कमला प्रचण्डा छगलण्डके ॥ २८॥  
   
 कुरण्डले त्रिसन्ध्या स्यान्माकोटे मुकुटेश्वरी ।  

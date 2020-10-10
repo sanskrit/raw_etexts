@@ -1,20 +1,20 @@
-+++
-"Text title" = "guruvAyupureshvarAShTottarashatanAmastotram"
-"File name" = "guruvAyupureshvarAShTottarashatanAmastotram.itx"
-itxtitle = "guruvAyupureshvarAShTottarashatanAmastotram"
-engtitle = "guruvAyupureshvarAShTottarashatanAmastotram"
-Category = "vishhnu, aShTottarashatanAma"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com, PSA Easwaran"
-"Latest update" = "November 29, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गुरुवायुपुरेश्वराष्टोत्तरशतनामस्तोत्रम्"
+---
+Category: vishhnu, aShTottarashatanAma
+File name: guruvAyupureshvarAShTottarashatanAmastotram.itx
+Language: Sanskrit
+Latest update: November 29, 2018
+Location: doc_vishhnu
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com, PSA Easwaran
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: guruvAyupureshvarAShTottarashatanAmastotram
+engtitle: guruvAyupureshvarAShTottarashatanAmastotram
+itxtitle: guruvAyupureshvarAShTottarashatanAmastotram
+title: गुरुवायुपुरेश्वराष्टोत्तरशतनामस्तोत्रम्
 
-+++
+---
   
  श्रीगुरुवायुपुरेश्वराष्टोत्तरशतनामस्तोत्ररत्नम्   
 श्रीविद्याराजगोपालाभिधश्रीमहावैकुण्ठेश्वरस्वरूप  
@@ -179,7 +179,7 @@ title = "गुरुवायुपुरेश्वराष्टोत्�
 स्मरतूणाभलक्ष्मीकजङ्घाद्वयविराजितः ॥ ५१॥  
   
 मांसलगुल्फलक्ष्मीको महासौभाग्यसंयुतः ।  
-ह्रींङ्कारतत्त्वसम्बोधिनूपुरद्वयराजितः ॥ ५२॥  
+ह्रीङ्ङ्कारतत्त्वसम्बोधिनूपुरद्वयराजितः ॥ ५२॥  
   
 आदिकूर्मावतारश्रीजयिष्णुप्रपदान्वितः ।  
 नमज्जनतमोवृन्दविध्वंसकपदद्वयः ॥ ५३॥  

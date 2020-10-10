@@ -1,22 +1,22 @@
-+++
-"Text title" = "Mahadeva 12 Names"
-"File name" = "mahAdevAdidvAdashanAmAni.itx"
-itxtitle = "mahAdevAdidvAdashanAmAni"
-engtitle = "mahAdevAdidvAdashanAmAni"
-Category = "shiva, nAmAvalI, dvAdasha"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-"Proofread by" = "Aruna Narayanan narayanan.aruna at gmail.com"
-Indexextra = "(Scan)"
-"Latest update" = "July 17, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महादेवादिद्वादशनामानि"
+---
+Category: shiva, nAmAvalI, dvAdasha
+File name: mahAdevAdidvAdashanAmAni.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: July 17, 2019
+Location: doc_shiva
+Proofread by: Aruna Narayanan narayanan.aruna at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Mahadeva 12 Names
+Transliterated by: Aruna Narayanan narayanan.aruna at gmail.com
+engtitle: mahAdevAdidvAdashanAmAni
+itxtitle: mahAdevAdidvAdashanAmAni
+title: महादेवादिद्वादशनामानि
 
-+++
+---
   
  महादेवादि द्वादशनामानि   
 महादेवो महेशानः शङ्करो वृषभध्वजः ।  

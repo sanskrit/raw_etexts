@@ -1,22 +1,22 @@
-+++
-"Text title" = "Chidanandarupam Bhajema Svarupam"
-"File name" = "chidAnandarUpaMbhajemasvarUpam.itx"
-itxtitle = "chidAnandarUpaM bhajema svarUpam (shrIdharasvAmIvirachitam)"
-engtitle = "chidAnandarUpaM bhajema svarUpam"
-Category = "misc, shrIdharasvAmI"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Author = "shrIdharasvAmI"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Latest update" = "June 8, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "चिदानन्दरूपं भजेम स्वरूपम् (श्रीधरस्वामीविरचितम्)"
+---
+Author: shrIdharasvAmI
+Category: misc, shrIdharasvAmI
+File name: chidAnandarUpaMbhajemasvarUpam.itx
+Language: Sanskrit
+Latest update: June 8, 2019
+Location: doc_z_misc_general
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: Chidanandarupam Bhajema Svarupam
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: chidAnandarUpaM bhajema svarUpam
+itxtitle: chidAnandarUpaM bhajema svarUpam (shrIdharasvAmIvirachitam)
+title: चिदानन्दरूपं भजेम स्वरूपम् (श्रीधरस्वामीविरचितम्)
 
-+++
+---
   
  चिदानन्दरूपं भजेम स्वरूपम्   
 अनेकान्तिकं द्वन्द्वशून्यं विशुद्धं नितान्तं सुशान्तं गुणातीतमेकम् ।  

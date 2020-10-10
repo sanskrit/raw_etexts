@@ -1,23 +1,23 @@
-+++
-"Text title" = "mayUreshastotram"
-"File name" = "mayUreshastotram.itx"
-itxtitle = "mayUreshastotram"
-engtitle = "mayUreshastotram"
-Category = "ganesha, stotra"
-Location = "doc_ganesha"
-Sublocation = "ganesha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Rujuta rujuta 5879 at gmail.com"
-"Proofread by" = "Rujuta rujuta 5879 at gmail.com"
-"Latest update" = "February 21, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "मयूरेशस्तोत्रम्"
+---
+Author: Traditional
+Category: ganesha, stotra
+File name: mayUreshastotram.itx
+Language: Sanskrit
+Latest update: February 21, 2018
+Location: doc_ganesha
+Proofread by: Rujuta rujuta 5879 at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: ganesha
+Text title: mayUreshastotram
+Texttype: stotra
+Transliterated by: Rujuta rujuta 5879 at gmail.com
+engtitle: mayUreshastotram
+itxtitle: mayUreshastotram
+title: मयूरेशस्तोत्रम्
 
-+++
+---
   
  मयूरेशस्तोत्रम्   
 ब्रह्मोवाच ।  

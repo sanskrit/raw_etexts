@@ -1,24 +1,24 @@
-+++
-"Text title" = "vairAgyapanchakam"
-"File name" = "vairAgyapanchakam.itx"
-itxtitle = "vairAgyapanchakam"
-engtitle = "vairAgyapanchakam"
-Category = "panchaka, misc, sahitya, vedAnta-deshika, vedanta"
-Location = "doc_z_misc_general"
-Sublocation = "misc"
-Subcategory = "sahitya"
-Author = "Vedanta Desikan"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "T. R. Chari"
-"Proofread by" = "Madhavi U mupadrasta at gmail.com"
-Indexextra = "(Hindi)"
-"Latest update" = "November 17, 2012"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वैराग्यपञ्चकम्"
+---
+Author: Vedanta Desikan
+Category: panchaka, misc, sahitya, vedAnta-deshika, vedanta
+File name: vairAgyapanchakam.itx
+Indexextra: (Hindi)
+Language: Sanskrit
+Latest update: November 17, 2012
+Location: doc_z_misc_general
+Proofread by: Madhavi U mupadrasta at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subcategory: sahitya
+Subject: philosophy/hinduism/religion
+Sublocation: misc
+Text title: vairAgyapanchakam
+Transliterated by: T. R. Chari
+engtitle: vairAgyapanchakam
+itxtitle: vairAgyapanchakam
+title: वैराग्यपञ्चकम्
 
-+++
+---
   
  वैराग्यपञ्चकम्   
   

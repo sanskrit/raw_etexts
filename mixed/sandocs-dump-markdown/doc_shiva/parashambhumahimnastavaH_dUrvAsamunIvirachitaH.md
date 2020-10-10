@@ -1,23 +1,23 @@
-+++
-"Text title" = "Parashambhumahimnastava"
-"File name" = "parashambhUmahimnastavadUrvAsa.itx"
-itxtitle = "parashambhumahimnastavaH (dUrvAsamunIvirachitaH)"
-engtitle = "parashambhUmahimnastavadUrvAsa"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Author = "Rishi Durvasa"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Sunder Hattangadi sunderh at hotmail.com"
-"Proofread by" = "Sunder Hattangadi sunderh at hotmail.com"
-Indexextra = "()"
-"Latest update" = "August 22, 2015"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "परशम्भुमहिम्नस्तवः (दूर्वासमुनीविरचितः)"
+---
+Author: Rishi Durvasa
+Category: shiva
+File name: parashambhUmahimnastavadUrvAsa.itx
+Indexextra: ()
+Language: Sanskrit
+Latest update: August 22, 2015
+Location: doc_shiva
+Proofread by: Sunder Hattangadi sunderh at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: Parashambhumahimnastava
+Transliterated by: Sunder Hattangadi sunderh at hotmail.com
+engtitle: parashambhUmahimnastavadUrvAsa
+itxtitle: parashambhumahimnastavaH (dUrvAsamunIvirachitaH)
+title: परशम्भुमहिम्नस्तवः (दूर्वासमुनीविरचितः)
 
-+++
+---
   
  परशम्भुमहिम्नस्तवः   
 शिवाभ्यां नमः  

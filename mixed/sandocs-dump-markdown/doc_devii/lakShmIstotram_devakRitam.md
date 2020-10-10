@@ -1,28 +1,28 @@
-+++
-"Text title" = "devakRita lakShmI stotram"
-"File name" = "devalaxmi.itx"
-itxtitle = "lakShmIstotram (devakRitam)"
-engtitle = "devakRita lakShmI stotram"
-Category = "devii, lakShmI, stotra, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "lakShmI"
-Texttype = "stotra"
-Author = "deva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "http://www.webdunia.com"
-"Proofread by" = "Sridhar Seshagiri"
-"Latest update" = "December 29, 2001"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "लक्ष्मीस्तोत्रम् (देवकृइतम्)"
+---
+Author: deva
+Category: devii, lakShmI, stotra, devI
+File name: devalaxmi.itx
+Language: Sanskrit
+Latest update: December 29, 2001
+Location: doc_devii
+Proofread by: Sridhar Seshagiri
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: lakShmI
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devakRita lakShmI stotram
+Texttype: stotra
+Transliterated by: http://www.webdunia.com
+engtitle: devakRita lakShmI stotram
+itxtitle: lakShmIstotram (devakRitam)
+title: लक्ष्मीस्तोत्रम् (देवकृइतम्)
 
-+++
+---
   
  श्रीलक्ष्मीस्तोत्रं देवकृत   
   
-क्षमस्व भगवंत्यव क्षमाशीले परात्परे ।  
+क्षमस्व भगवन्त्यव क्षमाशीले परात्परे ।  
 शुद्धसत्त्वस्वरूपे च कोपादिपरिवर्जिते ॥  
   
 उपमे सर्वसाध्वीनां देवीनां देवपूजिते ।  
@@ -34,40 +34,40 @@ title = "लक्ष्मीस्तोत्रम् (देवकृइत
 कैलासे पार्वती त्वं च क्षीरोदे सिन्धुकन्यका ।  
 स्वर्गे च स्वर्गलक्ष्मीस्त्वं मर्त्यलक्ष्मीश्च भूतले ॥  
   
-वैकुंठे च महालक्ष्मीर्देवदेवी सरस्वती ।  
-गंगा च तुलसी त्वं च सावित्री ब्रह्मालोकतः ॥  
+वैकुण्ठे च महालक्ष्मीर्देवदेवी सरस्वती ।  
+गङ्गा च तुलसी त्वं च सावित्री ब्रह्मालोकतः ॥  
   
 कृष्णप्राणाधिदेवी त्वं गोलोके राधिका स्वयम् ।  
-रासे रासेश्वरी त्वं च वृंदावन वने-वने ॥  
+रासे रासेश्वरी त्वं च वृन्दावन वने-वने ॥  
   
-कृष्णा प्रिया त्वं भांडीरे चंद्रा चंदनकानने ।  
-विरजा चंपकवने शतशृंगे च सुंदरी ॥  
+कृष्णा प्रिया त्वं भाण्डीरे चन्द्रा चन्दनकानने ।  
+विरजा चम्पकवने शतशृङ्गे च सुन्दरी ॥  
   
 पद्मावती पद्मवने मालती मालतीवने ।  
-कुंददंती कुंदवने सुशीला केतकीवने ॥  
+कुन्ददन्ती कुन्दवने सुशीला केतकीवने ॥  
   
-कदंबमाला त्वं देवी कदंबकाननेऽपि च ।  
+कदम्बमाला त्वं देवी कदम्बकाननेऽपि च ।  
 राजलक्ष्मी राजगेहे गृहलक्ष्मीगृहे गृहे ॥  
   
 इत्युक्त्वा देवताः सर्वा मुनयो मनवस्तथा ।  
-रूरूदुर्नम्रवदनाः शुष्ककंठोष्ठ तालुकाः ॥  
+रूरूदुर्नम्रवदनाः शुष्ककण्ठोष्ठ तालुकाः ॥  
   
 इति लक्ष्मीस्तवं पुण्यं सर्वदेवैः कृतं शुभम् ।  
 यः पठेत्प्रातरूत्थाय स वै सर्वै लभेद् ध्रुवम् ॥  
   
 अभार्यो लभते भार्यां विनीतां सुसुतां सतीम् ।  
-सुशीलां सुंदरीं रम्यामतिसुप्रियवादिनीम् ॥  
+सुशीलां सुन्दरीं रम्यामतिसुप्रियवादिनीम् ॥  
   
 पुत्रपौत्रवतीं शुद्धां कुलजां कोमलां वराम् ।  
 अपुत्रो लभते पुत्रं वैष्णवं चिरजीविनम् ।  
-परमैश्वर्ययुक्तं च विद्यावंतं यशस्विनम् ।  
+परमैश्वर्ययुक्तं च विद्यावन्तं यशस्विनम् ।  
 भ्रष्टराज्यो लभेद्राज्यं भ्रष्टश्रीर्लभते श्रियम् ॥  
   
-हतबंधुर्लभेद्बंधुं धनभ्रष्टो धनं लभेत् ।  
+हतबन्धुर्लभेद्बन्धुं धनभ्रष्टो धनं लभेत् ।  
 कीर्तिहीनो लभेत्कीर्तिं प्रतिष्ठां च लभेद् ध्रुवम् ॥  
   
-सर्वमंगलदं स्तोत्रं शोकसंतापनाशनम् ।  
-हर्षानंदकरं शश्वद्धर्म मोक्षसुहृत्प्रदम् ॥  
+सर्वमङ्गलदं स्तोत्रं शोकसन्तापनाशनम् ।  
+हर्षानन्दकरं शश्वद्धर्म मोक्षसुहृत्प्रदम् ॥  
   
 ॥ इति श्रीदेवकृत लक्ष्मीस्तोत्रं सम्पूर्णम् ॥  
   

@@ -1,25 +1,26 @@
-+++
-"Text title" = "Ganapati Atharvashirsha Upanishad or Ganapati Upanishad"
-"File name" = "ganapati.itx"
-itxtitle = "gaNapatyatharvashIrShopaniShat athavA gaNapatyupaniShat"
-engtitle = "Ganapati Atharvashirsha Upanishad or Ganapati Upanishad"
-Category = "upanishhat, svara, upanishad, shiva, ganesha"
-Location = "doc_upanishhat"
-Sublocation = "upanishhat"
-Texttype = "svara"
-Author = "Vedic tradition"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism"
-"Transliterated by" = "Sunder Hattangadi (sunderh at hotmail.com)"
-"Proofread by" = "Sunder Hattangadi (sunderh at hotmail.com) and Kirk Wortman kirkwort at hotmail.com"
-Description-comments = "89 / 108; Atharva Veda - Shaiva upanishad"
-Source = "(with Vedic accents, Meanings 1, 2, 3, Marathi, sabhAShya, Hindi)"
-"Latest update" = "January 15, 2004"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "गणपत्यथर्वशीर्षोपनिषत् अथवा गणपत्युपनिषत्"
+---
+Author: Vedic tradition
+Category: upanishhat, svara, upanishad, shiva, ganesha
+Description-comments: 89 / 108; Atharva Veda - Shaiva upanishad
+File name: ganapati.itx
+Language: Sanskrit
+Latest update: January 15, 2004
+Location: doc_upanishhat
+Proofread by: Sunder Hattangadi (sunderh at hotmail.com) and Kirk Wortman kirkwort
+  at hotmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: (with Vedic accents, Meanings 1, 2, 3, Marathi, sabhAShya, Hindi)
+Subject: philosophy/hinduism
+Sublocation: upanishhat
+Text title: Ganapati Atharvashirsha Upanishad or Ganapati Upanishad
+Texttype: svara
+Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
+engtitle: Ganapati Atharvashirsha Upanishad or Ganapati Upanishad
+itxtitle: gaNapatyatharvashIrShopaniShat athavA gaNapatyupaniShat
+title: गणपत्यथर्वशीर्षोपनिषत् अथवा गणपत्युपनिषत्
 
-+++
+---
   
  श्रीगणपत्यथर्वशीर्षोपनिषत् गणपत्युपनिषत्   
 यं नत्वा मुनयः सर्वे निर्विघ्नं यान्ति तत्पदम् ।  

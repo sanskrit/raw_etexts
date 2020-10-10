@@ -1,27 +1,27 @@
-+++
-"Text title" = "devIpancharatnastuti"
-"File name" = "devIpancharatnastuti.itx"
-itxtitle = "devIpancharatnastutiH"
-engtitle = "devIpancharatnastutiH"
-Category = "pancharatna, devii, durgA, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "durgA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Proofread by" = "N.Balasubramanian bbalu at satyam.net.in"
-"Latest update" = "December 10, 2008"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "देवीपञ्चरत्नस्तुतिः"
+---
+Category: pancharatna, devii, durgA, devI
+File name: devIpancharatnastuti.itx
+Language: Sanskrit
+Latest update: December 10, 2008
+Location: doc_devii
+Proofread by: N.Balasubramanian bbalu at satyam.net.in
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: durgA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: devIpancharatnastuti
+Transliterated by: N.Balasubramanian bbalu at satyam.net.in
+engtitle: devIpancharatnastutiH
+itxtitle: devIpancharatnastutiH
+title: देवीपञ्चरत्नस्तुतिः
 
-+++
+---
   
  देवीपञ्चरत्नस्तुती   
   
-जंभाराति-मुखादितेय-परिषत्संभाव्यमाना सदा  
-     कुंभाकार-पयोधराद्रितनया शुम्भासुर-द्वेषिणी ।  
+जम्भाराति-मुखादितेय-परिषत्सम्भाव्यमाना सदा  
+     कुम्भाकार-पयोधराद्रितनया शुम्भासुर-द्वेषिणी ।  
 रम्भाभोरुमती सुधानिभ-वचोगुम्भावहा पज्जुषां  
      शं भामा त्रिपुरद्विषो वितनुयाद्दम्भापहा दुर्हृताम् ॥ १॥  
   

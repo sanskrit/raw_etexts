@@ -1,27 +1,28 @@
-+++
-"Text title" = "Krishna Charitam"
-"File name" = "kRRiShNacharitam.itx"
-itxtitle = "kRiShNacharitam (ApaTIkaravirachitam)"
-engtitle = "kRRiShNacharitam"
-Category = "vishhnu, ApaTIkara, krishna"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "krishna"
-Author = "ma. sa. ApaTIkara"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Mandar Mali aryavrutta gmail.com"
-"Proofread by" = "Mandar Mali aryavrutta gmail.com"
-"Description/comments" = "stotrapanchadashI by Shri M. S. Apatikar, Satara"
-Source = "Sharada year 11, Vol 21-22, September 1970"
-Indexextra = "(Scan)"
-Acknowledge-Permission = "Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv Peth, Pune 30"
-"Latest update" = "September 14, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "कृइष्णचरितम् (आपटीकरविरचितम्)"
+---
+Acknowledge-Permission: Pt. Vasant A. Gadgil, Sharada Gaurava Granthamala, 425 Sadashv
+  Peth, Pune 30
+Author: ma. sa. ApaTIkara
+Category: vishhnu, ApaTIkara, krishna
+Description/comments: stotrapanchadashI by Shri M. S. Apatikar, Satara
+File name: kRRiShNacharitam.itx
+Indexextra: (Scan)
+Language: Sanskrit
+Latest update: September 14, 2019
+Location: doc_vishhnu
+Proofread by: Mandar Mali aryavrutta gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Source: Sharada year 11, Vol 21-22, September 1970
+SubDeity: krishna
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: Krishna Charitam
+Transliterated by: Mandar Mali aryavrutta gmail.com
+engtitle: kRRiShNacharitam
+itxtitle: kRiShNacharitam (ApaTIkaravirachitam)
+title: कृइष्णचरितम् (आपटीकरविरचितम्)
 
-+++
+---
   
  श्रीकृष्णचरितम्   
      (अनुष्टुप्)  

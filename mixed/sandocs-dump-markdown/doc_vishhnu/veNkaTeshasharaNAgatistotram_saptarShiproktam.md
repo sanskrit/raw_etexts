@@ -1,24 +1,24 @@
-+++
-"Text title" = "veMkaTeshasharaNAgatistotram by Saptarshi"
-"File name" = "veMkaTeshasharaNAgatistotramsaptarShi.itx"
-itxtitle = "veNkaTeshasharaNAgatistotram (saptarShiproktam)"
-engtitle = "veMkaTeshasharaNAgatistotram saptarShiproktam"
-Category = "vishhnu, venkateshwara, vishnu"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-SubDeity = "venkateshwara"
-Author = "saptarShi"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "NA, Malleswara Rao"
-"Proofread by" = "NA, PSA Easwaran psaeaswaran at gmail.com, Malleswara Rao"
-Indexextra = "(audio)"
-"Latest update" = "May 16, 2017"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "वेण्कटेशशरणागतिस्तोत्रम् (सप्तर्षिप्रोक्तम्)"
+---
+Author: saptarShi
+Category: vishhnu, venkateshwara, vishnu
+File name: veMkaTeshasharaNAgatistotramsaptarShi.itx
+Indexextra: (audio)
+Language: Sanskrit
+Latest update: May 16, 2017
+Location: doc_vishhnu
+Proofread by: NA, PSA Easwaran psaeaswaran at gmail.com, Malleswara Rao
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: venkateshwara
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: veMkaTeshasharaNAgatistotram by Saptarshi
+Transliterated by: NA, Malleswara Rao
+engtitle: veMkaTeshasharaNAgatistotram saptarShiproktam
+itxtitle: veNkaTeshasharaNAgatistotram (saptarShiproktam)
+title: वेण्कटेशशरणागतिस्तोत्रम् (सप्तर्षिप्रोक्तम्)
 
-+++
+---
   
  श्रीवेङ्कटेशशरणागतिस्तोत्रम्   
   

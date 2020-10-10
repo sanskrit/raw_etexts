@@ -1,21 +1,22 @@
-+++
-"Text title" = "bhaktasharaNastotram"
-"File name" = "bhaktasharaNastotram.itx"
-itxtitle = "bhaktasharaNastotram"
-engtitle = "bhaktasharaNastotram"
-Category = "shiva"
-Location = "doc_shiva"
-Sublocation = "shiva"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psaeaswaran at gmail.com"
-Description-comments = "Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar, stotrasankhyA 211"
-"Latest update" = "February 24, 2017"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "भक्तशरणस्तोत्रम्"
+---
+Category: shiva
+Description-comments: Brihatstotraratnakara 1, Narayana Ram Acharya, Nirnayasagar,
+  stotrasankhyA 211
+File name: bhaktasharaNastotram.itx
+Language: Sanskrit
+Latest update: February 24, 2017
+Location: doc_shiva
+Proofread by: PSA Easwaran psaeaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: shiva
+Text title: bhaktasharaNastotram
+engtitle: bhaktasharaNastotram
+itxtitle: bhaktasharaNastotram
+title: भक्तशरणस्तोत्रम्
 
-+++
+---
   
  भक्तशरणस्तोत्रम्   
 श्रीगणेशाय नमः ॥  

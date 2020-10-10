@@ -1,23 +1,23 @@
-+++
-"Text title" = "nava graha karaavalamba stotram"
-"File name" = "navagrahakaraa.itx"
-itxtitle = "navagraha karAvalambastotram"
-engtitle = "nava graha karAvalamba stotram"
-Category = "navagraha, stotra"
-Location = "doc_z_misc_navagraha"
-Sublocation = "navagraha"
-Texttype = "stotra"
-Author = "Traditional"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "P.V.R Narasimha Rao"
-"Proofread by" = "P.V.R Narasimha Rao"
-"Latest update" = "August 23, 2000"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "नवग्रह करावलम्बस्तोत्रम्"
+---
+Author: Traditional
+Category: navagraha, stotra
+File name: navagrahakaraa.itx
+Language: Sanskrit
+Latest update: August 23, 2000
+Location: doc_z_misc_navagraha
+Proofread by: P.V.R Narasimha Rao
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: navagraha
+Text title: nava graha karaavalamba stotram
+Texttype: stotra
+Transliterated by: P.V.R Narasimha Rao
+engtitle: nava graha karAvalamba stotram
+itxtitle: navagraha karAvalambastotram
+title: नवग्रह करावलम्बस्तोत्रम्
 
-+++
+---
   
  नवग्रह करावलम्बस्तोत्रम्   
   
@@ -29,20 +29,20 @@ title = "नवग्रह करावलम्बस्तोत्रम्"
 नक्षत्रनाथ सुमनोहर शीतलांशो  
 श्री भार्गवी प्रिय सहोदर श्वेतमूर्ते ।  
 क्षीराब्धिजात रजनीकर चारुशील  
-श्रीमच्छशांक मम देहि करावलम्बम् ॥ २॥  
+श्रीमच्छशाङ्क मम देहि करावलम्बम् ॥ २॥  
   
 रुद्रात्मजात बुधपूजित रौद्रमूर्ते  
-ब्रह्मण्य मंगल धरात्मज बुद्धिशालिन् ।  
+ब्रह्मण्य मङ्गल धरात्मज बुद्धिशालिन् ।  
 रोगार्तिहार ऋणमोचक बुद्धिदायिन्  
 श्री भूमिजात मम देहि करावलम्बम् ॥ ३॥  
   
 सोमात्मजात सुरसेवित सौम्यमूर्ते  
 नारायणप्रिय मनोहर दिव्यकीर्ते ।  
-धीपाटवप्रद सुपंडित चारुभाषिन्  
+धीपाटवप्रद सुपण्डित चारुभाषिन्  
 श्री सौम्यदेव मम देहि करावलम्बम् ॥ ४॥  
   
 वेदान्तज्ञान श्रुतिवाच्य विभासितात्मन्  
-ब्रह्मादि वन्दित गुरो सुर सेवितांघ्रे ।  
+ब्रह्मादि वन्दित गुरो सुर सेविताङ्घ्रे ।  
 योगीश ब्रह्म गुण भूषित विश्व योने  
 वागीश देव मम देहि करावलम्बम् ॥ ५॥  
   
@@ -54,19 +54,19 @@ title = "नवग्रह करावलम्बस्तोत्रम्"
 शुद्धात्म ज्ञान परिशोभित कालरूप  
 छायासुनन्दन यमाग्रज क्रूरचेष्ट ।  
 कष्टाद्यनिष्ठकर धीवर मन्दगामिन्  
-मार्तंडजात मम देहि करावलम्बम् ॥ ७॥  
+मार्तण्डजात मम देहि करावलम्बम् ॥ ७॥  
   
-मार्तंड पूर्ण शशि मर्दक रौद्रवेश  
+मार्तण्ड पूर्ण शशि मर्दक रौद्रवेश  
 सर्पाधिनाथ सुरभीकर दैत्यजन्म ।  
 गोमेधिकाभरण भासित भक्तिदायिन्  
 श्री राहुदेव मम देहि करावलम्बम् ॥ ८॥  
   
 आदित्य सोम परिपीडक चित्रवर्ण  
-हे सिंहिकातनय वीर भुजंग नाथ ।  
+हे सिंहिकातनय वीर भुजङ्ग नाथ ।  
 मन्दस्य मुख्य सख धीवर मुक्तिदायिन्  
 श्री केतु देव मम देहि करावलम्बम् ॥ ९॥  
   
-मार्तंड चन्द्र कुज सौम्य बृहस्पतीनाम्  
+मार्तण्ड चन्द्र कुज सौम्य बृहस्पतीनाम्  
 शुक्रस्य भास्कर सुतस्य च राहु मूर्तेः ।  
 केतोश्च यः पठति भूरि करावलम्ब  
 स्तोत्रम् स यातु सकलांश्च मनोरथारान् ॥ १०॥  

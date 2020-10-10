@@ -1,21 +1,21 @@
-+++
-"Text title" = "viShNusahasranAmastotram from skandapurANa"
-"File name" = "viShNusahasranAmastotramskandapurANa.itx"
-itxtitle = "viShNusahasranAmastotram (skandapurANAntargatam)"
-engtitle = "viShNusahasranAmastotram from skandapurANa"
-Category = "vishhnu, sahasranAma"
-Location = "doc_vishhnu"
-Sublocation = "vishhnu"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Transliterated by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Proofread by" = "Gopal Upadhyay gopal.j.upadhyay at gmail.com"
-"Latest update" = "November 28, 2018"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "विष्णुसहस्रनामस्तोत्रम् (स्कन्दपुराणान्तर्गतम्)"
+---
+Category: vishhnu, sahasranAma
+File name: viShNusahasranAmastotramskandapurANa.itx
+Language: Sanskrit
+Latest update: November 28, 2018
+Location: doc_vishhnu
+Proofread by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+Subject: philosophy/hinduism/religion
+Sublocation: vishhnu
+Text title: viShNusahasranAmastotram from skandapurANa
+Transliterated by: Gopal Upadhyay gopal.j.upadhyay at gmail.com
+engtitle: viShNusahasranAmastotram from skandapurANa
+itxtitle: viShNusahasranAmastotram (skandapurANAntargatam)
+title: विष्णुसहस्रनामस्तोत्रम् (स्कन्दपुराणान्तर्गतम्)
 
-+++
+---
   
  श्रीविष्णुसहस्रनामस्तोत्रम् (स्कन्दपुराणोक्त)  
 श्रीगणेशाय नमः ।  

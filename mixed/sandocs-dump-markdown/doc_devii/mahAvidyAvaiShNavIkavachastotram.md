@@ -1,26 +1,26 @@
-+++
-"Text title" = "Shri Mahavidya Vaishnavi Kavachastotram"
-"File name" = "mahAvidyAvaiShNavIkavachastotram.itx"
-itxtitle = "mahAvidyAvaiShNavIkavachastotram"
-engtitle = "mahAvidyAvaiShNavIkavachastotram"
-Category = "devii, dashamahAvidyA, kavacha, devI"
-Location = "doc_devii"
-Sublocation = "devii"
-SubDeity = "dashamahAvidyA"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-Indexextra = "(Text)"
-"Latest update" = "August 10, 2019"
-"Send corrections to" = "sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "महाविद्यावैष्णवीकवचस्तोत्रम्"
+---
+Category: devii, dashamahAvidyA, kavacha, devI
+File name: mahAvidyAvaiShNavIkavachastotram.itx
+Indexextra: (Text)
+Language: Sanskrit
+Latest update: August 10, 2019
+Location: doc_devii
+Send corrections to: sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: dashamahAvidyA
+Subject: philosophy/hinduism/religion
+Sublocation: devii
+Text title: Shri Mahavidya Vaishnavi Kavachastotram
+engtitle: mahAvidyAvaiShNavIkavachastotram
+itxtitle: mahAvidyAvaiShNavIkavachastotram
+title: महाविद्यावैष्णवीकवचस्तोत्रम्
 
-+++
+---
   
  श्रीमहाविद्या वैष्णवी कवचस्तोत्रम्   
 श्रीभगवानुवाच-  
 अस्य मन्त्रस्य कवचं शृणु वेतालभैरव ।  
-वैष्णवीतन्त्रसंज्ञस्य वैष्णव्याश्च विशेषतः ॥ १॥  
+वैष्णवीतन्त्रसञ्ज्ञस्य वैष्णव्याश्च विशेषतः ॥ १॥  
   
 तत्र मन्त्राद्यक्षरं तु वासुदेवस्वरूपधृक् ।  
 वर्णो द्वितीयो ब्रह्मैव तृतीयश्चन्द्रशेखरः ॥ २॥  
@@ -249,7 +249,7 @@ title = "महाविद्यावैष्णवीकवचस्तो�
 स उदात्तो द्विजातीनां राज्ञां स्यादनुदात्तकः ।  
 प्रचितश्चोरुजातानां मनसापि तथा स्मरेत् ॥ ७२॥  
   
-चतुर्दशस्वरो योऽसौ शेष औकारसंज्ञकः ।  
+चतुर्दशस्वरो योऽसौ शेष औकारसञ्ज्ञकः ।  
 स चानुस्वारचन्द्राभ्यांशूद्राणां सेतुरुच्यते ॥ ७३॥  
   
 निःसेतु च यथा तोयं क्षणान्निम्नं प्रसर्पति ।  

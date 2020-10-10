@@ -1,23 +1,23 @@
-+++
-"Text title" = "shankarAchAryasuvarNamAlAstavarAjaH"
-"File name" = "shankarAchAryasuvarNamAlAstavarAjaH.itx"
-itxtitle = "shaNkarAchAryasuvarNamAlAstavarAjaH (shivAbhinavanRisiMhabhAratIvirachitaH)"
-engtitle = "shankarAchAryasuvarNamAlAstavarAjaH"
-Category = "deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, stavarAja"
-Location = "doc_deities_misc"
-Sublocation = "deities_misc"
-SubDeity = "gurudeva"
-Author = "Sachchidananda Shivabhinava Nrisimha Bharati Swamigal"
-Language = "Sanskrit"
-Subject = "philosophy/hinduism/religion"
-"Proofread by" = "PSA Easwaran psawaswaran at gmail.com"
-Indexextra = "(Scans 1, 2)"
-"Latest update" = "November 9, 2018"
-"Send corrections to" = "Sanskrit@cheerful.com"
-"Site access" = "https://sanskritdocuments.org"
-title = "शण्कराचार्यसुवर्णमालास्तवराजः (शिवाभिनवनृइसिंहभारतीविरचितः)"
+---
+Author: Sachchidananda Shivabhinava Nrisimha Bharati Swamigal
+Category: deities_misc, sachchidAnanda-shivAbhinava-nRisiMhabhAratI, gurudeva, stavarAja
+File name: shankarAchAryasuvarNamAlAstavarAjaH.itx
+Indexextra: (Scans 1, 2)
+Language: Sanskrit
+Latest update: November 9, 2018
+Location: doc_deities_misc
+Proofread by: PSA Easwaran psawaswaran at gmail.com
+Send corrections to: Sanskrit@cheerful.com
+Site access: https://sanskritdocuments.org
+SubDeity: gurudeva
+Subject: philosophy/hinduism/religion
+Sublocation: deities_misc
+Text title: shankarAchAryasuvarNamAlAstavarAjaH
+engtitle: shankarAchAryasuvarNamAlAstavarAjaH
+itxtitle: shaNkarAchAryasuvarNamAlAstavarAjaH (shivAbhinavanRisiMhabhAratIvirachitaH)
+title: शण्कराचार्यसुवर्णमालास्तवराजः (शिवाभिनवनृइसिंहभारतीविरचितः)
 
-+++
+---
   
  श्रीशङ्कराचार्यसुवर्णमाला स्तवराजः   
 आकारार्थविबोधनचतुरं करुणार्द्रनयनकञ्जातम् ।  
