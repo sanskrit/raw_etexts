@@ -1,20 +1,31 @@
-+++
-"Catalog number" = "M00004"
-"Uniform title" = "anuttaraprakāśapañcāśikā"
-"Main title" = "anuttaraprakāśapañcāśikā  by ādyanātha from the KSTS series vol. 14 -- The bhāvopahāra of cakrapāṇinātha with commentary by ramyadevabhaṭṭa -- where it follows bhāvopahāra and bodhapañcadaśikā"
-Author = [ "ādyanātha",]
-Editor = [ "śāstri, mukundarāma",]
-Subjects = [ "tantric / āgamic literature", "śaiva", "non-dual  śaivism of Kashmir",]
-Description = "The anuttaraprakāśapañcāśikā  by ādyanātha from the KSTS series vol. 14 where it follows bhāvopahāra and bodhapañcadaśikā"
-Publisher = [ "Research Deaprtment Jammu and Kashmir State",]
-"Publication year" = [ "1918",]
-"Publication city" = [ "Bombay",]
-"Publication country" = "India"
-title_iast = "anuttaraprakāśapañcāśikā"
-author_iast = "ādyanātha"
-title = "अनुत्तरप्रकाशपञ्चाशिका"
+---
+Author:
+- ādyanātha
+Catalog number: M00004
+Description: The anuttaraprakāśapañcāśikā  by ādyanātha from the KSTS series vol.
+  14 where it follows bhāvopahāra and bodhapañcadaśikā
+Editor:
+- śāstri, mukundarāma
+Main title: anuttaraprakāśapañcāśikā  by ādyanātha from the KSTS series vol. 14 --
+  The bhāvopahāra of cakrapāṇinātha with commentary by ramyadevabhaṭṭa -- where it
+  follows bhāvopahāra and bodhapañcadaśikā
+Publication city:
+- Bombay
+Publication country: India
+Publication year:
+- '1918'
+Publisher:
+- Research Deaprtment Jammu and Kashmir State
+Subjects:
+- tantric / āgamic literature
+- śaiva
+- non-dual  śaivism of Kashmir
+Uniform title: anuttaraprakāśapañcāśikā
+author_iast: ādyanātha
+title: अनुत्तरप्रकाशपञ्चाशिका
+title_iast: anuttaraprakāśapañcāśikā
 
-+++
+---
   
   
   
@@ -66,10 +77,10 @@ title = "अनुत्तरप्रकाशपञ्चाशिका"
 तदेवेश्वरतत्त्वं स्यात् पश्यद् विश्वमिदन्तया ॥ २० ॥  
 अहन्तेदन्तयोरैक्यमितिर्विद्या निगद्यते ।  
 स्वाङ्गकल्पेषु भावेषु मायातत्त्वं विभेदधीः ॥ २१ ॥  
-मायागृहीतसंकोचः शिवः पुंस्तत्त्वमुच्यते ।  
+मायागृहीतसङ्कोचः शिवः पुंस्तत्त्वमुच्यते ।  
 अयमेव हि संसारी जीवो भोक्तेति गद्यते ॥ २२ ॥  
 ज्ञत्व-कर्तृत्व-पूर्णत्व-नित्यत्वाद्याश्च शक्तयः ।  
-तत्संकोचात् संकुचिताः कलाद्यात्मतया मताः ॥ २३ ॥  
+तत्सङ्कोचात् सङ्कुचिताः कलाद्यात्मतया मताः ॥ २३ ॥  
 मायात्मनः कला नाम किञ्चित्कर्तृत्वकारणम् ।  
 विद्या किञ्चिज्ज्ञताहेतू रागोऽभिष्वङ्गकारणम् ॥ २४ ॥  
 कालः परिच्छेद करो नियतिश्चेदमेव मे ।  
@@ -77,7 +88,7 @@ title = "अनुत्तरप्रकाशपञ्चाशिका"
 प्रकृतिर्गुणसाम्यं स्यादहङ्कारादिजन्मभूः ।  
 अहं ममेदमित्येतद्बुद्धिहेतुरहङ्कृतिः ॥ २६ ॥  
 बुद्धिरध्यवसायस्य कारणं निश्चयात्मनः ।  
-संकल्पस्य विकल्पस्य बीजं मन उदीर्यते ॥ २७ ॥  
+सङ्कल्पस्य विकल्पस्य बीजं मन उदीर्यते ॥ २७ ॥  
 वचनादेश्च शब्दादेर्वागादिश्रवणादिकम् ।  
 कारणं श्रवणादीनां ग्राह्यं तन्मात्रपञ्चकम् ॥ २८ ॥  
 प्रकाशाद्यवकाशादिकारणं भूतपञ्चकम् ।  
@@ -94,7 +105,7 @@ title = "अनुत्तरप्रकाशपञ्चाशिका"
 त्रिकोणमथ षट्कोणमिच्छायां रूढिमागते ॥ ३४ ॥  
 अनुत्तरानन्दशक्तित्रिकोणद्वित्वयोगतः ।  
 तथैवोन्मेषयोगेन क्रियाशक्तेः स्फुटं वपुः ॥ ३५ ॥  
-उक्त त्रिशक्तिसंघट्ट त्रिशूलं द्वैतघस्मरम् ।  
+उक्त त्रिशक्तिसङ्घट्ट त्रिशूलं द्वैतघस्मरम् ।  
 परस्परा विरोधेन कार्येषु प्रसरे गते ॥ ३६ ॥  
 न कथञ्चिदुपादेयमासां रूपमिदं भवेत् ।  
 बिन्दुर्वेद्यस्य संस्कारो विमर्शः सर्ग इत्यसौ ॥ ३७ ॥  
@@ -115,19 +126,19 @@ title = "अनुत्तरप्रकाशपञ्चाशिका"
 ततो ज्ञानक्रियासारा विद्येश्वरसदाशिवाः ।  
 शक्तिशूले विलीयन्ते चतुर्दशकलात्मनि ॥ ४५ ॥  
 ऊर्ध्वाधः सृष्टिवपुषि सर्वं लीनमतः परम् ।  
-इत्थं परस्यां संवित्तौ सर्वं संकुचितं क्रमात् ॥ ४६ ॥  
+इत्थं परस्यां संवित्तौ सर्वं सङ्कुचितं क्रमात् ॥ ४६ ॥  
 अथ वाङ्मनसातीते यत्र क्वापि निरञ्जने ।  
 षट्त्रिंशत्तत्त्वलहरीकलहातीतगोचरे ॥  
 विश्वात्मनि महामन्त्रस्वभावे सा विलीयते ॥ ४७ ॥  
   
- [शुद्धविद्यादिकं सर्वं सादाख्ये पक्षसंग्रहात् ॥  
+ [शुद्धविद्यादिकं सर्वं सादाख्ये पक्षसङ्ग्रहात् ॥  
 मध्यशक्तिपरामर्श इति वापि लयक्रमः ।  
 अन्यः पक्षोऽपि यः कश्चित् प्रमाणं चेन्नबाधते ॥]  
   
 कुतश्चिन्मथिते धाम्नि दीप्ते केनापि हेतुना ।  
 सर्वं हविरिदं जुह्वन्न दारिद्र्येण पीड्यते ॥ ४८ ॥  
 पञ्चपञ्चात्मकं विश्वं पञ्चस्पन्दविजृम्भितम् ।  
-संकोचयन् परामर्शात् सामान्यस्पन्दकेवलः ॥ ४९ ॥  
+सङ्कोचयन् परामर्शात् सामान्यस्पन्दकेवलः ॥ ४९ ॥  
 अहमि प्रलयं कुर्वन्निदमः प्रतियोगिनः ।  
 पराक्रमपरो भुङ्क्ते स्वभावमशिवापहम् ॥ ५० ॥  
   

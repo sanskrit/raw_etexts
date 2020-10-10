@@ -1,7 +1,7 @@
-+++
-title = "Ajitasenavyakarana"
+---
+title: Ajitasenavyakarana
 
-+++
+---
 ## Intro
   
   

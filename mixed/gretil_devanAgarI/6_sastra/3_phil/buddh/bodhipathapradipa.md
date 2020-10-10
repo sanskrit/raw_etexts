@@ -1,7 +1,7 @@
-+++
-title = "Bodhipathapradipa"
+---
+title: Bodhipathapradipa
 
-+++
+---
 ## Intro
   
   

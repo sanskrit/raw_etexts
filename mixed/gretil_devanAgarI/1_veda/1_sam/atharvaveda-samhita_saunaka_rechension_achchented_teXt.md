@@ -1,7 +1,7 @@
-+++
-title = "Atharvaveda-Samhita, Saunaka recension, ACCENTED TEXT"
+---
+title: Atharvaveda-Samhita, Saunaka recension, ACCENTED TEXT
 
-+++
+---
 ## Intro
 
 Atharvaveda-Samhita, Saunaka recension, ACCENTED TEXT  

@@ -1,7 +1,7 @@
-+++
-title = "Nagarjuna: Pratityasamutpadahrdayakarika"
+---
+title: 'Nagarjuna: Pratityasamutpadahrdayakarika'
 
-+++
+---
 ## Intro
   
   

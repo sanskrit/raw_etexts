@@ -1,7 +1,7 @@
-+++
-title = "Sivamahimnastava"
+---
+title: Sivamahimnastava
 
-+++
+---
 ## Intro
   
 Sivamahimnastava  

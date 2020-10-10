@@ -1,16 +1,31 @@
-+++
-"Catalog number" = "M00311"
-"Uniform title" = "aśeṣakulavallarī"
-Author = [ "gaṇananāthabhaṭṭa",]
-Subjects = [ "compendium", "tantric / āgamic literature", "śākta",]
-Manuscript = [ "NGMCP  Manuscript No. : 5-4656 Reel No. : A 175/11",]
-Description = "Description by Mark S.G. Dyczkowski:\nThe Aśeṣakulavallarī is by Gaṇananāthabhaṭṭa  a Brahmin of the Garga clan (gotra) who tells us at the beginning that his teacher was Mahādevabhaṭṭa. \nThe title Bhaṭṭa was given by the Kings of Kashmir to their ministers and remained  as a title for their male  family members and descendants. It is possible, \ntherefore that he was Kashmiri. The style and nature of the work indicates that it \nwas written well after the 11th century. He says he is writing a liturgical manual \n(paddhati) based on the Vāmakeśvaramata, the root Tantra of the \ngoddess Tripurāsundarī. The first chapter deals with the visualization and worship  of the teacher and lineage. The second concerns the preliminary purifying ablution.  The third begins with the worship of the door to the place of worship. The text  breaks off soon after."
-"Publication country" = "India"
-title_iast = "aśeṣakulavallarī"
-author_iast = "gaṇananāthabhaṭṭa"
-title = "अशेषकुलवल्लरी"
+---
+Author:
+- gaṇananāthabhaṭṭa
+Catalog number: M00311
+Description: "Description by Mark S.G. Dyczkowski:\nThe Aśeṣakulavallarī is by Gaṇananāthabhaṭṭa\
+  \  a Brahmin of the Garga clan (gotra) who tells us at the beginning that his teacher\
+  \ was Mahādevabhaṭṭa. \nThe title Bhaṭṭa was given by the Kings of Kashmir to their\
+  \ ministers and remained  as a title for their male  family members and descendants.\
+  \ It is possible, \ntherefore that he was Kashmiri. The style and nature of the\
+  \ work indicates that it \nwas written well after the 11th century. He says he is\
+  \ writing a liturgical manual \n(paddhati) based on the Vāmakeśvaramata, the root\
+  \ Tantra of the \ngoddess Tripurāsundarī. The first chapter deals with the visualization\
+  \ and worship  of the teacher and lineage. The second concerns the preliminary purifying\
+  \ ablution.  The third begins with the worship of the door to the place of worship.\
+  \ The text  breaks off soon after."
+Manuscript:
+- 'NGMCP  Manuscript No. : 5-4656 Reel No. : A 175/11'
+Publication country: India
+Subjects:
+- compendium
+- tantric / āgamic literature
+- śākta
+Uniform title: aśeṣakulavallarī
+author_iast: gaṇananāthabhaṭṭa
+title: अशेषकुलवल्लरी
+title_iast: aśeṣakulavallarī
 
-+++
+---
   
   
   
@@ -24,16 +39,16 @@ title = "अशेषकुलवल्लरी"
   
 स जयति गुरुर्गरीयान् ज्ञानार्थतमो यद् उपदेशात् ।  
   
-गर्गान्वये समभवत् कविराजराजनीराजितांघ्रिकमलः सुलभागमः श्रीः ।  
+गर्गान्वये समभवत् कविराजराजनीराजिताङ्घ्रिकमलः सुलभागमः श्रीः ।  
 भूमीन्द्रमौलिमणिरञ्जितपादपीठः ॥  
   
 समजनितनयोर्यतेन विद्यानिधानं निवसति विरजायां पूजनार्थं भवान्याः   
 ।   
-स सकलगुणसिन्धु वंधुतुल्यो नृपाणां जगदुपकृतिकर्ता   
+स सकलगुणसिन्धु वन्धुतुल्यो नृपाणां जगदुपकृतिकर्ता   
 श्रीमहादेवभट्टः ॥  
   
 तस्यात्मजः सकलसत्कविदासदासो निर्मत्सरः सकलतन्त्ररहस्यवेत्ता ।  
-अस्ता स्वरांघ्रि सरसीरुहदत्त चित्तो देव्यार्चने च निरतो गणनाथभट्टः ॥  
+अस्ता स्वराङ्घ्रि सरसीरुहदत्त चित्तो देव्यार्चने च निरतो गणनाथभट्टः ॥  
   
 समालोक्यमियन्तेन देव्या श्रीवामिकामतम् ।  
 क्रियते पद्धतिः सम्यगशेषकुलवल्लरी ॥  
@@ -41,15 +56,15 @@ title = "अशेषकुलवल्लरी"
 अथ गरुडाग्रजोदयवेलायां समुत्थायोपविश्य ।   
 निजशिरसि सहस्रारकमलकर्णिकाया ॥  
   
-शितांशूपलसंकाशं शरच्चन्द्रनिभाननम् । ।  
+शितांशूपलसङ्काशं शरच्चन्द्रनिभाननम् । ।  
   
-शुक्लमालालंकृतोरस्थलम् ॥  
+शुक्लमालालङ्कृतोरस्थलम् ॥  
   
-वरदा भयालंकृत भुजद्वयविराजतीम् ॥  
+वरदा भयालङ्कृत भुजद्वयविराजतीम् ॥  
   
 वामाङ्कगदया स्वशक्त्या रक्तोत्पलधारिण्या दक्षिणेनालिङ्गित विग्रहम् ॥   
-ज्ञानारविन्दमकरंदानंदितमानसम् ॥ निजगुरुं ध्यात्वा अमुकानन्दनाथ   
-अमुकशक्त्याम्वा युग्म श्रीपादुकाम् पूजयामि ॥ इति मानसे गंधाक्षत   
+ज्ञानारविन्दमकरन्दानन्दितमानसम् ॥ निजगुरुं ध्यात्वा अमुकानन्दनाथ   
+अमुकशक्त्याम्वा युग्म श्रीपादुकाम् पूजयामि ॥ इति मानसे गन्धाक्षत   
 कुसुमैरभ्यर्च्य नमस्कृत्य स्तुत्वा नित्यकर्माकरणार्थ मनुज्ञां प्राप्य   
 श्रीगुरुं निजस्थाने विसज्यावश्यकार्थं विलमति जायात् ॥   
   
@@ -60,7 +75,7 @@ title = "अशेषकुलवल्लरी"
   
 अथ दन्तधावनमुखप्रक्षालनादिकं विधाय स्नानकर्म समाचरेत् । तच्च   
 वारूण भस्ममस्त्रादि वहुभेदम् । क्रामित्यकुशमुद्रया   
-सवितृमण्डलातीर्थमावाह्य श्रीमूलविद्यावीजमंत्रयात्मकाविद्या   
+सवितृमण्डलातीर्थमावाह्य श्रीमूलविद्यावीजमन्त्रयात्मकाविद्या   
 शिवतत्वात्मिकानि च स्मृत्वा त्रिवारं निमज्य योनिमुद्रया सप्तवार   
 स्वशिरस्यभिषेकं विधाया वम्यतीरमागत्यानुपहते वाससी परिधाय   
 शुद्धभस्मनात्रिपुण्ड्रकानि विधायाचम्य आचमनविरुक्तमन्यत्र । अदुष्टे   
@@ -68,13 +83,13 @@ title = "अशेषकुलवल्लरी"
 शुद्धैराचमेऽभिवीक्षितैः ।   
   
 त्रिपूण्यायो द्विमू * न्याभिः समुप स्पृशेत् ।  
-हृत्कण्ठे तालुकाभिस्तु यथा संख्या द्विजातयः ॥  
+हृत्कण्ठे तालुकाभिस्तु यथा सङ्ख्या द्विजातयः ॥  
   
 शुद्धेरंस्त्रीश्च शूद्राश्च सकृत् पीतेन वारिति ॥  
   
-अथ भस्ममंत्रविधिः ॥  
+अथ भस्ममन्त्रविधिः ॥  
   
-मंत्रितं प्रोक्षणोक्तैस्तु मन्त्रैस्तु स स्ववामके ।  
+मन्त्रितं प्रोक्षणोक्तैस्तु मन्त्रैस्तु स स्ववामके ।  
 करे विलोड्यते मन्त्री शिखादि चरणावधिः ॥  
   
 १ब्)  
@@ -82,11 +97,11 @@ title = "अशेषकुलवल्लरी"
 अभ्युक्षितेषु स्नानेषु त्रिपुण्डाश्च मन्त्रितम् ।  
 त्रिवार दक्षहस्तस्थ दिव्यमुद्रिकया पुनः ॥  
   
-वामहस्तेन संप्रोक्ष्य त्रिवारमनुभिस्तुतैः ।  
+वामहस्तेन सम्प्रोक्ष्य त्रिवारमनुभिस्तुतैः ।  
 शिष्टयोतिर्मय * * ? मिलया कृष्य कुम्भयेत् ॥  
   
 क्षालितान्तर्मलं त * रचयेद् दाक्षया पुनः ।  
-कृष्णातमंतमनुना क्षिपेद् वज्र शिलोपरि ॥  
+कृष्णातमन्तमनुना क्षिपेद् वज्र शिलोपरि ॥  
   
 इति स्नानविधिः ॥  
   
@@ -96,8 +111,8 @@ title = "अशेषकुलवल्लरी"
 मणिवन्धादधो हस्तौ पादौ गुल्फं तथाननम् ।   
 क्षालयेतमानमेतस्याऽन्यभिधारयेत् ।   
   
-भस्मस्नानमिति प्रोक्तं मंत्रस्नानमथोच्यते ॥   
-मंत्रशुद्धजलं मंत्रैः प्रोक्षणोक्तत् पञ्चाङ्ग्र?म्रै?  
+भस्मस्नानमिति प्रोक्तं मन्त्रस्नानमथोच्यते ॥   
+मन्त्रशुद्धजलं मन्त्रैः प्रोक्षणोक्तत् पञ्चाङ्ग्र?म्रै?  
   
 atha sandhyāvidhirucyate ||   
   

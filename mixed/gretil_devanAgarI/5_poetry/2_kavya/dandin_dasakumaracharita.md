@@ -1,7 +1,7 @@
-+++
-title = "Dandin: Dasakumaracarita"
+---
+title: 'Dandin: Dasakumaracarita'
 
-+++
+---
 ## Intro
   
   

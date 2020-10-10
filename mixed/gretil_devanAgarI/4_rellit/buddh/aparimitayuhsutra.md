@@ -1,7 +1,7 @@
-+++
-title = "Aparimitayuhsutra"
+---
+title: Aparimitayuhsutra
 
-+++
+---
 ## Intro
   
   

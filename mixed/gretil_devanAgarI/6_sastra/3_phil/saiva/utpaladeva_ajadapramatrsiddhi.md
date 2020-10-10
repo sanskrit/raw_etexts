@@ -1,7 +1,7 @@
-+++
-title = "Utpaladeva: Ajadapramatrsiddhi"
+---
+title: 'Utpaladeva: Ajadapramatrsiddhi'
 
-+++
+---
 ## Intro
   
 Utpaladeva: Ajadapramatrsiddhi  

@@ -1,7 +1,7 @@
-+++
-title = "Durvekamisra: Dharmottarapradipa"
+---
+title: 'Durvekamisra: Dharmottarapradipa'
 
-+++
+---
 ## Intro
   
 Durvekamisra: Dharmottarapradipa  

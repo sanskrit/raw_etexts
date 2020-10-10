@@ -1,7 +1,7 @@
-+++
-title = "Isvarakrsna: Samkhyakarika"
+---
+title: 'Isvarakrsna: Samkhyakarika'
 
-+++
+---
 ## Intro
 
 Isvarakrsna: Samkhyakarika   

@@ -1,7 +1,7 @@
-+++
-title = "Varahamihira: Brhatsamhita"
+---
+title: 'Varahamihira: Brhatsamhita'
 
-+++
+---
 ## Intro
 
 Varahamihira: Brhatsamhita  

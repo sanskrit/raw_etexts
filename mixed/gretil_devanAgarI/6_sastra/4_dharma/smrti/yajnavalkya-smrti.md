@@ -1,7 +1,7 @@
-+++
-title = "Yajnavalkya-Smrti"
+---
+title: Yajnavalkya-Smrti
 
-+++
+---
 ## Intro
 
 Yajnavalkya-Smrti  

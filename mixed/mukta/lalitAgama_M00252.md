@@ -1,15 +1,24 @@
-+++
-"Catalog number" = "M00252"
-"Uniform title" = "lalitāgama"
-"Main title" = "lalitāgamaḥ saṃprokṣaṇavidhimātram"
-Subjects = [ "tantric / āgamic literature", "tantra / āgama", "śaiva", "śaiva-siddhānta",]
-Manuscript = [ "IFP/EFEO transcript T0202",]
-Description = "Transcribed from IFP transcript T0202 which is copied from a manuscript of Swaminatha Gurukkal Tiruvanadudurai\nSee Muktabodha IFP/EFEO on-line catalog for bibliographic details at www.muktabodha.org ."
-"Publication country" = "India"
-title_iast = "lalitāgama"
-title = "ललितागम"
+---
+Catalog number: M00252
+Description: 'Transcribed from IFP transcript T0202 which is copied from a manuscript
+  of Swaminatha Gurukkal Tiruvanadudurai
 
-+++
+  See Muktabodha IFP/EFEO on-line catalog for bibliographic details at www.muktabodha.org
+  .'
+Main title: lalitāgamaḥ saṃprokṣaṇavidhimātram
+Manuscript:
+- IFP/EFEO transcript T0202
+Publication country: India
+Subjects:
+- tantric / āgamic literature
+- tantra / āgama
+- śaiva
+- śaiva-siddhānta
+Uniform title: lalitāgama
+title: ललितागम
+title_iast: lalitāgama
+
+---
   
   
   
@@ -19,14 +28,14 @@ title = "ललितागम"
   
 ललितागमः  
   
-(संप्रोक्षणविधिमात्रम्)  
+(सम्प्रोक्षणविधिमात्रम्)  
   
   
 प्। १)  
   
-॥ संप्रोक्षणम् ॥  
+॥ सम्प्रोक्षणम् ॥  
   
-ललितागमे संप्रोक्षणविधिः ॥  
+ललितागमे सम्प्रोक्षणविधिः ॥  
   
 काली च दक्षिणे चैव पूजयेत्तु क्रमेण तु ।  
 दक्षिणद्वारवामे तु भृङ्गिणे तु समर्चयेत् ॥ १ ॥  
@@ -69,8 +78,8 @@ title = "ललितागम"
 वृषभं चामरञ्चैवा तन्नाम्ने [च] सुपूजयेत् ।  
 श्रीवत्सं स्वस्तिकञ्चैव तन्नाम्नेति पूजयेत् ॥ १३ ॥  
   
-शंखदीपेन कर्तव्यं पूजयेत्तु स्वनामतः ।  
-एवं क्रमेण संपूज्य शुद्धतत्वेन भावयेत् ॥ १४ ॥  
+शङ्खदीपेन कर्तव्यं पूजयेत्तु स्वनामतः ।  
+एवं क्रमेण सम्पूज्य शुद्धतत्वेन भावयेत् ॥ १४ ॥  
   
 आत्मदैवतमभ्यर्च्य विशेषार्घ्यञ्च कल्पयेत् ।  
 अस्त्रेण द्रव्यशुद्धिञ्च आत्मानं पूजयेत्ततः ॥ १५ ॥  
@@ -86,7 +95,7 @@ title = "ललितागम"
   
 प्। ३)  
   
-अस्त्रेण दश संख्याभिः अभिमन्त्रेण बुद्धिमान् ।  
+अस्त्रेण दश सङ्ख्याभिः अभिमन्त्रेण बुद्धिमान् ।  
 पञ्चगव्यक्रमेणैव साधयेत्तु विचक्षणः ॥ १९ ॥  
   
 प्रोक्षयेत्पञ्चगव्येन अस्त्रमन्त्रं समुच्चरन् ।  
@@ -105,7 +114,7 @@ title = "ललितागम"
 फालचन्दनसिद्धास्यैः भस्मदूर्वाक्षतान् कुशान् ॥ २४ ॥  
   
 द्रव्यपञ्च समादाय विकरान्यस्त्रमुच्चरन् ।  
-कुशकूर्चञ्च संग्राह्य वर्धन्या मूर्ध्नि विन्यसेत् ॥ २५ ॥  
+कुशकूर्चञ्च सङ्ग्राह्य वर्धन्या मूर्ध्नि विन्यसेत् ॥ २५ ॥  
   
 तदूर्ध्वे स्थण्डिलं कल्प्य तोये हेमादिकुम्भयेत् ।  
 वामे तु वर्द्धनीञ्चैव पश्चिमाननमेव च ॥ २६ ॥  
@@ -120,7 +129,7 @@ title = "ललितागम"
   
 इति ललितागम वचने पाशुपतास्त्रमन्त्रम् ।  
   
-ॐ श्रीं ह्रीं ग्लीं क्लीं ऐं सौं पशु हुंफट् स्वाहा ।  
+ॐ श्रीं ह्रीं ग्लीं क्लीं ऐं सौं पशु हुम्फट् स्वाहा ।  
   
 इति पाशुपतास्त्राय नमः ।  
   

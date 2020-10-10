@@ -1,7 +1,7 @@
-+++
-title = "Bhattanarayana: Venisamhara"
+---
+title: 'Bhattanarayana: Venisamhara'
 
-+++
+---
 ## Intro
   
   

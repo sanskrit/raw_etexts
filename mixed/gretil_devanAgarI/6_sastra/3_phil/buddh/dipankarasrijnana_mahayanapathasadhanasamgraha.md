@@ -1,7 +1,7 @@
-+++
-title = "Dipankarasrijnana: Mahayanapathasadhanasamgraha"
+---
+title: 'Dipankarasrijnana: Mahayanapathasadhanasamgraha'
 
-+++
+---
 ## Intro
   
   
@@ -75,7 +75,7 @@ Therefore, many word boundaries are not marked by blanks.
   
 बुद्धभूमिमहं चाप्त्वा भवेयं लोकनायकः ॥ १० अ ब ॥  
   
-ऽअतिसंक्षिप्तमहायानपथसाधनंऽ महाचार्यदीपङ्करश्रीज्ञानविरचितं समाप्तम् ॥  
+ऽअतिसङ्क्षिप्तमहायानपथसाधनंऽ महाचार्यदीपङ्करश्रीज्ञानविरचितं समाप्तम् ॥  
   
 भारतस्य तेनैव उपाध्याय-पण्डितेन लोकचक्षुषा भिक्षुणा कल्याणमतिना (द्गे वहि ब्लो ग्रोस्) च अनूद्य निर्णीतम् ॥  
   

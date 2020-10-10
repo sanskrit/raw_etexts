@@ -1,17 +1,23 @@
-+++
-"Catalog number" = "M00360"
-"Uniform title" = "guhyasamājatantra"
-"Secondary title" = [ "tathāgataguhyaka",]
-Editor = [ "Benoytosh Bhattacharya",]
-Subjects = [ "tantra / āgama",]
-Publisher = [ "Baroda Oriental Institute",]
-"Publication year" = [ "1931",]
-"Publication city" = [ "Baroda",]
-"Publication country" = "India"
-title_iast = "guhyasamājatantra"
-title = "गुह्यसमाजतन्त्र"
+---
+Catalog number: M00360
+Editor:
+- Benoytosh Bhattacharya
+Publication city:
+- Baroda
+Publication country: India
+Publication year:
+- '1931'
+Publisher:
+- Baroda Oriental Institute
+Secondary title:
+- tathāgataguhyaka
+Subjects:
+- tantra / āgama
+Uniform title: guhyasamājatantra
+title: गुह्यसमाजतन्त्र
+title_iast: guhyasamājatantra
 
-+++
+---
   
   
   
@@ -45,7 +51,7 @@ title = "गुह्यसमाजतन्त्र"
 स्पर्शवज्रेण [क् ग्: प्रष्टव्य ।] च नाम बोधिसत्त्वेन महासत्त्वेन ।   
 धर्मधातुवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन ।  
   
-एवंप्रमुखैरनभिलाप्यानभिलाप्यैर्बुद्धक्षेत्रसुमेरुपरमाणुरजः-  
+एवम्प्रमुखैरनभिलाप्यानभिलाप्यैर्बुद्धक्षेत्रसुमेरुपरमाणुरजः-  
 g khyātai |] tathāgataiḥ [k; adds sarva |] | tadyathā | akṣobhyavajreṇa ca nama   
 [k: omits] tathāgatena | vairocanavajreṇa ca nām [k: omits] tathāgatena |   
 ratnaketuvajreṇa ca nāma [k: omits] tathāgatena | amitavajreṇa [k: tābha |]   
@@ -469,7 +475,7 @@ sarvatathāgatakāyavākcittavidyāpuruṣo'moghavajramahāmudrāsaṃyoga-
 मुद्रान्यासं [क्: योग] ततः कुर्यात् विधिदृष्टेन कर्मणा ॥  
   
 तस्य मध्ये लिखेत् वज्रमिन्द्रनीलसमप्रभम् ।  
-पंचशूलं महाज्वालं भयस्यापि भयङ्करम् ॥  
+पञ्चशूलं महाज्वालं भयस्यापि भयङ्करम् ॥  
   
 पूर्वेण तु महाचक्रं वज्रज्वालाविभूषितम् ।  
 दक्षिणेन महारत्नं स्फुलिङ्गगहनाकुलम् [क्: नादकेवलम्] ॥  
@@ -496,7 +502,7 @@ sarvatathāgatakāyavākcittavidyāpuruṣo'moghavajramahāmudrāsaṃyoga-
   
 प्द्ड़् ३४, प्। १९)  
   
-षोडशाब्दिकां संप्राप्य योषितं कान्तिसुप्रभाम् [ख्, ग्: कर्त्रि] ।  
+षोडशाब्दिकां सम्प्राप्य योषितं कान्तिसुप्रभाम् [ख्, ग्: कर्त्रि] ।  
 गन्धपुष्पाकुलां [क्; पुष्पक्चली] कृत्वा तस्य मध्ये तु कामयेत् ॥  
   
 अधिवेष्टा च तां प्रज्ञां [क्: समधिष्य च तां प्राज्ञः; ख्:   
@@ -694,10 +700,10 @@ sarvatathāgatakāyavākcittavidyāpuruṣo'moghavajramahāmudrāsaṃyoga-
 प्द्ड़् ३८, प्। २६)  
   
 अथ वज्रधरः श्रीमान् सर्वतत्त्वार्थदेशकः ।  
-सर्वचर्याग्रसम्भूतो [क्, ग्: संबुद्धो] भाषते गुह्यमुत्तमम् ॥  
+सर्वचर्याग्रसम्भूतो [क्, ग्: सम्बुद्धो] भाषते गुह्यमुत्तमम् ॥  
   
 षण्मासान् भावयेत् प्राज्ञो रूपशब्दरसान्वितः ।  
-गुह्यतत्त्वमहापूजां संपूज्य च विभावयेत् ॥  
+गुह्यतत्त्वमहापूजां सम्पूज्य च विभावयेत् ॥  
   
 विण्मूत्राहारकृत्यार्थं कुर्यात् सिद्धिफलार्थिनः ।  
 सिद्ध्यतेऽनुत्तरं तक्त्वं बोधिचित्तमनाविलम् ॥  
@@ -727,7 +733,7 @@ sarvatathāgatakāyavākcittavidyāpuruṣo'moghavajramahāmudrāsaṃyoga-
 सप्तमः पटलः  
   
 अथ भगवान्   
-सर्वतथागतकायवाक्चित्ताध्हिपतिर्महासमुच्चयमन्त्रचर्याग्रसंबोधि-  
+सर्वतथागतकायवाक्चित्ताध्हिपतिर्महासमुच्चयमन्त्रचर्याग्रसम्बोधि-  
   
 sarvakāmopabhogaiśca [g: kāmārthabhogārthaiḥ] sevyamānairyathecchataḥ |  
 anena khalu yogena laghu buddhatvamāpnuyāt ||  
@@ -5509,7 +5515,7 @@ dhyāyanti ye imu [d: imaṃ] viśuddhamanādibhāvaṃ prajñā-
 बोधिवज्र इव लक्ष्य सदा नमामः ॥   
   
 ये [लचुनए बेगिन्स् इन् आ अन्द् चोन्तिनुएस् उप् तो बोधिसत्त्वा महायशाः ।] साधयन्ति   
-कृतसन्ध्यचतुष्कवज्रैरन्तर्हितादिविविधानिह हीनसिद्धीन् [द्: मंत्राः]   
+कृतसन्ध्यचतुष्कवज्रैरन्तर्हितादिविविधानिह हीनसिद्धीन् [द्: मन्त्राः]   
 ।  
 अविनष्टमार्ग इमु बुद्धगुरुप्रसादैस्तान् बोधिवज्र इव लक्ष्य सदा नमामः ॥  
   

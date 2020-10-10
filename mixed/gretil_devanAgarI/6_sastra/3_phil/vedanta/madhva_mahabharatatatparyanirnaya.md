@@ -1,7 +1,7 @@
-+++
-title = "Madhva: Mahabharatatatparyanirnaya"
+---
+title: 'Madhva: Mahabharatatatparyanirnaya'
 
-+++
+---
 ## Intro
 
 Madhva: Mahabharatatatparyanirnaya  

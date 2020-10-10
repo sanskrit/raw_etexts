@@ -1,7 +1,7 @@
-+++
-title = "Dhananjaya: Dasarupaka, Paricchedas 1-4"
+---
+title: 'Dhananjaya: Dasarupaka, Paricchedas 1-4'
 
-+++
+---
 ## Intro
   
   

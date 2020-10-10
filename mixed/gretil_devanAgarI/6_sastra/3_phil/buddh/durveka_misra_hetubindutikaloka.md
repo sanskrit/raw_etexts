@@ -1,7 +1,7 @@
-+++
-title = "Durveka Misra: Hetubindutikaloka"
+---
+title: 'Durveka Misra: Hetubindutikaloka'
 
-+++
+---
 ## Intro
   
 Durveka Misra: Hetubindutikaloka  

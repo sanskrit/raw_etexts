@@ -1,16 +1,28 @@
-+++
-"Catalog number" = "M00290"
-"Uniform title" = "tattvaratnāvalī"
-Author = [ "vimalaśiva",]
-Subjects = [ "tantric / āgamic literature", "śaiva-siddhānta",]
-Manuscript = [ "NGMCP 1-1697-7/6 reel number: B 26/16",]
-Description = "Tattvaratnāvalī by Vimalaśiva a South Indian Siddhāntin. This is a brief liturgical manual for the basic rites of Siddhānta śaivism. The first chapter deals with the regular daily rite (nitya) and the second with occasional rite (naimittika) performed on special festive occasions. The third chapter deals with the worship of the basic Navanābhamaṇḍala with nine sections, eight arranged around the central one each containing nine parts of the 81 parts (pada) of the Vyomavyāpin mantra which is the standard mantra of Siddhānta śaivism which begins with invocation of Sadāśiva as Vyomavyapin, that is, as -the one who pervades the sky-(written out fully on fl. 10)"
-"Publication country" = "India"
-title_iast = "tattvaratnāvalī"
-author_iast = "vimalaśiva"
-title = "तत्त्वरत्नावली"
+---
+Author:
+- vimalaśiva
+Catalog number: M00290
+Description: Tattvaratnāvalī by Vimalaśiva a South Indian Siddhāntin. This is a brief
+  liturgical manual for the basic rites of Siddhānta śaivism. The first chapter deals
+  with the regular daily rite (nitya) and the second with occasional rite (naimittika)
+  performed on special festive occasions. The third chapter deals with the worship
+  of the basic Navanābhamaṇḍala with nine sections, eight arranged around the central
+  one each containing nine parts of the 81 parts (pada) of the Vyomavyāpin mantra
+  which is the standard mantra of Siddhānta śaivism which begins with invocation of
+  Sadāśiva as Vyomavyapin, that is, as -the one who pervades the sky-(written out
+  fully on fl. 10)
+Manuscript:
+- 'NGMCP 1-1697-7/6 reel number: B 26/16'
+Publication country: India
+Subjects:
+- tantric / āgamic literature
+- śaiva-siddhānta
+Uniform title: tattvaratnāvalī
+author_iast: vimalaśiva
+title: तत्त्वरत्नावली
+title_iast: tattvaratnāvalī
 
-+++
+---
   
   
   
@@ -21,22 +33,22 @@ title = "तत्त्वरत्नावली"
   
 २अ)  
   
-एकरूपाध्वरोशंभौ कथं कामफलप्रदाः ॥  
+एकरूपाध्वरोशम्भौ कथं कामफलप्रदाः ॥  
   
-मंडलस्य प्रमाणं तु द्वारकोणसमन्वितं ।   
+मण्डलस्य प्रमाणं तु द्वारकोणसमन्वितं ।   
 गर्भपद्मपुरा व्योम किं * * * * *? द्वितोः ॥   
   
-दलोपदलतानंत केसराणां * * * *? ।  
-कर्णीकायां प्रमाणेन कथ्यंते तु व्यवस्थिताः ॥   
+दलोपदलतानन्त केसराणां * * * *? ।  
+कर्णीकायां प्रमाणेन कथ्यन्ते तु व्यवस्थिताः ॥   
   
 वीष्यन्तरप्रमाणं तु रजानां लक्षणं कथं ।  
-पातनीय विशेषेण पुष्ट्यर्थे? शांति मारणे ॥  
+पातनीय विशेषेण पुष्ट्यर्थे? शान्ति मारणे ॥  
   
 स्थूलं सूक्ष्मतरं देव हीनावा रेखिका यदा ।  
 गुणदोषो भवेत् तस्य कर्मा? च? परमेश्वर ॥  
   
 कथं दोल्ला? प्रकर्तव्या साधकादिषु देशिकैः ।  
-एक तत्वे? स्थिताः? पंच तत्वा वै पार्थिव? ॥  
+एक तत्वे? स्थिताः? पञ्च तत्वा वै पार्थिव? ॥  
   
 पृथिव्याः कतरं? तत्वं अपाश्चैव नाथान्तरे ॥  
   

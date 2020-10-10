@@ -1,7 +1,7 @@
-+++
-title = "Vimsikavrtti"
+---
+title: Vimsikavrtti
 
-+++
+---
 ## Intro
   
   

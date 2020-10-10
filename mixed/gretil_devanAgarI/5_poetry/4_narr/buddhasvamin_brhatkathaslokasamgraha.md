@@ -1,7 +1,7 @@
-+++
-title = "Buddhasvamin: Brhatkathaslokasamgraha"
+---
+title: 'Buddhasvamin: Brhatkathaslokasamgraha'
 
-+++
+---
 ## Intro
   
   

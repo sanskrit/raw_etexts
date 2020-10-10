@@ -1,16 +1,26 @@
-+++
-"Catalog number" = "E0008"
-"Uniform title" = "dhyānaratnāvali"
-Subjects = [ "tantric / āgamic literature", "śaiva",]
-Manuscript = [ "IFP transcript T0232",]
-Description = "IFP transcript 232 copied from a manuscript belonging to Rajamani Gurukkal Perambar Kandikai, Madhurantakam \n\nCompendium of descriptions of the visualized forms (dhyāna) of deities and their attributes along with\nother other entities such as world-orders, metaphysical principles,\nand channels of the vital breath.\n\n\n\n\n\n See Muktabodha digital library, IFP/EFEO collection at www.muktabodha.org for full bibliographic details."
-"Internet publisher" = [ "Muktabodha",]
-"Publication year" = [ "2013",]
-"Publication country" = "United States"
-title_iast = "dhyānaratnāvali"
-title = "ध्यानरत्नावलि"
+---
+Catalog number: E0008
+Description: "IFP transcript 232 copied from a manuscript belonging to Rajamani Gurukkal\
+  \ Perambar Kandikai, Madhurantakam \n\nCompendium of descriptions of the visualized\
+  \ forms (dhyāna) of deities and their attributes along with\nother other entities\
+  \ such as world-orders, metaphysical principles,\nand channels of the vital breath.\n\
+  \n\n\n\n\n See Muktabodha digital library, IFP/EFEO collection at www.muktabodha.org\
+  \ for full bibliographic details."
+Internet publisher:
+- Muktabodha
+Manuscript:
+- IFP transcript T0232
+Publication country: United States
+Publication year:
+- '2013'
+Subjects:
+- tantric / āgamic literature
+- śaiva
+Uniform title: dhyānaratnāvali
+title: ध्यानरत्नावलि
+title_iast: dhyānaratnāvali
 
-+++
+---
   
   
   
@@ -343,7 +353,7 @@ title = "ध्यानरत्नावलि"
 कर्णिकाग्रे स्मरेद्रुद्रं मण्डलं रक्तभास्वरम् ।  
 अग्निमध्ये स्थितं रु * नागयज्ञोपवीतिनम् ॥  
   
-क्षीरश्रोणि निभंमध्ये कर्णिकां कुटिलात्मिकाम् ।  
+क्षीरश्रोणि निभम्मध्ये कर्णिकां कुटिलात्मिकाम् ।  
 शक्तेश्च मण्डलासीनं * * * * * * श्छदम् ॥  
   
 प्। ११)  
@@ -436,7 +446,7 @@ title = "ध्यानरत्नावलि"
   
 ॥ हृदयादि ॥  
   
-हृदयाचन्द्रसंकाशं शिरश्चामीकरप्रभम् ।  
+हृदयाचन्द्रसङ्काशं शिरश्चामीकरप्रभम् ।  
 शिखां सिन्धूरवर्णाभं कवचं शृङ्गभास्वरम् ॥  
   
 पद्मासनस्था नर्केन्दु जटामकुटधारिणम् ।  
@@ -612,7 +622,7 @@ title = "ध्यानरत्नावलि"
 पूज्यान्यावरणोपेतं स्वस्वव्याप्ति विभेदतः ॥  
   
 श्रीमद्देशिक पादेभ्यो सशक्तिभ्यो नमोनमः ।  
-सदा पक्वात्मसंबोध कारणेभ्यो नमोनमः ॥  
+सदा पक्वात्मसम्बोध कारणेभ्यो नमोनमः ॥  
   
 विद्यापीठमशोद्ध्यादौ नहविश्व विज्ञानप्रदमीश्वरम् ।  
 विद्यापीठस्थमावाह्य मनोवाग्विग्रहैन्नमा ।  
@@ -6124,7 +6134,7 @@ pratyaṅgirimūlam | oṃ saṃbhakṣajvālā jihvākarāladaṃṣṭrāṃ-
 ॥ शास्ताध्यानम् ॥  
   
 कल्हारोज्वल नीलकुन्तलधरं कालाम्बुद श्यामलं  
-कर्पूराकलिकाभिराम कलिका कुन्देन्दुबिंबानना ।  
+कर्पूराकलिकाभिराम कलिका कुन्देन्दुबिम्बानना ।  
 श्री दण्डाङ्कुशशूलविलसत् पाणि सुह्री धारहं  
 रम्यशत्रुविमर्दनं हृदि महाशास्तेशमाद्यं भजे ॥ १ ॥  
   
@@ -6294,7 +6304,7 @@ pratyaṅgirimūlam | oṃ saṃbhakṣajvālā jihvākarāladaṃṣṭrāṃ-
 प्। २०४)  
   
 इति गोपुररूपन्तु नेत्रञ्च शिरनासिषु ।  
-इत्यावाह्यासु संपूज्याः * * * * * * * * *   
+इत्यावाह्यासु सम्पूज्याः * * * * * * * * *   
 ।  
   
 ॥ सप्तमाताब्राह्मिध्यानम् ॥  

@@ -1,20 +1,32 @@
-+++
-"Catalog number" = "M00109"
-"Uniform title" = "mahāvākyopaniṣat"
-"Main title" = "yoga upaniṣads with the commentary of śrī upaniṣad brahmayogin"
-"Secondary title" = [ "mahāvākya upaniṣat",]
-Commentator = [ "brahmayogin",]
-"Alternate name" = [ "śrī upaniṣad brahmayogin",]
-Editor = [ "śāstrī mahādeva",]
-Subjects = [ "tantric / āgamic literature", "yoga", "upaniṣad", "yogopaniṣad", "yogopaniṣad",]
-Publisher = [ "Adyar library and research centre",]
-"Publication year" = [ "1920",]
-"Publication city" = [ "Madras",]
-"Publication country" = "India"
-title_iast = "mahāvākyopaniṣat"
-title = "महावाक्योपनिषत्"
+---
+Alternate name:
+- śrī upaniṣad brahmayogin
+Catalog number: M00109
+Commentator:
+- brahmayogin
+Editor:
+- śāstrī mahādeva
+Main title: yoga upaniṣads with the commentary of śrī upaniṣad brahmayogin
+Publication city:
+- Madras
+Publication country: India
+Publication year:
+- '1920'
+Publisher:
+- Adyar library and research centre
+Secondary title:
+- mahāvākya upaniṣat
+Subjects:
+- tantric / āgamic literature
+- yoga
+- upaniṣad
+- yogopaniṣad
+- yogopaniṣad
+Uniform title: mahāvākyopaniṣat
+title: महावाक्योपनिषत्
+title_iast: mahāvākyopaniṣat
 
-+++
+---
   
   
   

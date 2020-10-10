@@ -1,7 +1,7 @@
-+++
-title = "Sagaranagarajapariprccha nama Mahayanasutra"
+---
+title: Sagaranagarajapariprccha nama Mahayanasutra
 
-+++
+---
 ## Intro
   
   

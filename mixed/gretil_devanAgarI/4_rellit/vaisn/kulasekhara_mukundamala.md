@@ -1,7 +1,7 @@
-+++
-title = "Kulasekhara: Mukundamala"
+---
+title: 'Kulasekhara: Mukundamala'
 
-+++
+---
 ## Intro
   
   

@@ -1,7 +1,7 @@
-+++
-title = "Dharmakirti: Samtanantarasiddhi"
+---
+title: 'Dharmakirti: Samtanantarasiddhi'
 
-+++
+---
 ## Intro
   
   

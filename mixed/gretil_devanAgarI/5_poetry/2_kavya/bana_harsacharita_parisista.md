@@ -1,7 +1,7 @@
-+++
-title = "Bana: Harsacarita, Parisista"
+---
+title: 'Bana: Harsacarita, Parisista'
 
-+++
+---
 ## Intro
   
   
@@ -88,7 +88,7 @@ Therefore, word boundaries are usually not marked by blanks.
 वक्रोक्तिमार्गनिपुणाश्चतुर्थो विद्यते न वा  ॥ ९ ॥  
   
 सचित्रवर्णविच्छित्तिहारिणोरवनीपतिः  ।  
-श्रीहर्ष इव संघट्टं चक्रे बाणमयूरयोः  ॥ १० ॥  
+श्रीहर्ष इव सङ्घट्टं चक्रे बाणमयूरयोः  ॥ १० ॥  
 (नवसाहसाङ्के)  
   
 प्रतिकविभेदनबाणः कवितातरुगहनविहरणमयूरः  ।  

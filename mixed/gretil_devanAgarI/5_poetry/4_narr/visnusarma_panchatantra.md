@@ -1,7 +1,7 @@
-+++
-title = "Visnusarma: Pancatantra"
+---
+title: 'Visnusarma: Pancatantra'
 
-+++
+---
 ## Intro
   
 Visnusarma: Pancatantra  

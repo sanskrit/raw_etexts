@@ -1,7 +1,7 @@
-+++
-title = "Tantrākhyāyika"
+---
+title: Tantrākhyāyika
 
-+++
+---
 ## Intro
   
   

@@ -1,7 +1,7 @@
-+++
-title = "Dignaga: Prajnaparamitapindartha"
+---
+title: 'Dignaga: Prajnaparamitapindartha'
 
-+++
+---
 ## Intro
   
   

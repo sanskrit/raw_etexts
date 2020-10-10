@@ -1,17 +1,51 @@
-+++
-"Catalog number" = "M00305"
-"Uniform title" = "piṅgalāmata"
-"Secondary title" = [ "jayadrathādhikara",]
-Subjects = [ "tantra / āgama", "śaiva", "trika", "śākta",]
-Manuscript = [ "NGMCP 3-376/vi śaivatantra 113",]
-Description = "The Piṅgalāmata is a Pratiṣṭhātantra. In this context the term\npratiṣṭhā denotes the rites of consecration and installation of a\nrepresentation of a deity, temple or shrine and matters associated\nwith it such as iconometry, iconography, and the structure and layout\nof temples, monastries, royal palaces and towns. Practically all the\nearly surviving Pratiṣṭhātantras are Saiddhāntika. The\nPiṅgalāmata is an exception as it affiliates itself to the\npredominantly śākta brahmayāmala (Picumata). Moreover, as its other\nname – Jayadrathādhikara – indicates, it is also associated with the\nKālī-centred Jayadrathayāmala. The Piṅgalāmata itself also\naffirms this. Thus, although the procedures it teaches are mostly\nSaiddhāntika,  in addition to them it also teaches ritual procedures\nand supplies details of the iconography of the Vāma, Yāmala and\nTrika traditions."
-"Internet publisher" = [ "Internet Publisher: Muktabodha Indological Research Institut",]
-"Publication year" = [ "2014",]
-"Publication country" = "United States"
-title_iast = "piṅgalāmata"
-title = "पिङ्गलामत"
+---
+Catalog number: M00305
+Description: 'The Piṅgalāmata is a Pratiṣṭhātantra. In this context the term
 
-+++
+  pratiṣṭhā denotes the rites of consecration and installation of a
+
+  representation of a deity, temple or shrine and matters associated
+
+  with it such as iconometry, iconography, and the structure and layout
+
+  of temples, monastries, royal palaces and towns. Practically all the
+
+  early surviving Pratiṣṭhātantras are Saiddhāntika. The
+
+  Piṅgalāmata is an exception as it affiliates itself to the
+
+  predominantly śākta brahmayāmala (Picumata). Moreover, as its other
+
+  name – Jayadrathādhikara – indicates, it is also associated with the
+
+  Kālī-centred Jayadrathayāmala. The Piṅgalāmata itself also
+
+  affirms this. Thus, although the procedures it teaches are mostly
+
+  Saiddhāntika,  in addition to them it also teaches ritual procedures
+
+  and supplies details of the iconography of the Vāma, Yāmala and
+
+  Trika traditions.'
+Internet publisher:
+- 'Internet Publisher: Muktabodha Indological Research Institut'
+Manuscript:
+- NGMCP 3-376/vi śaivatantra 113
+Publication country: United States
+Publication year:
+- '2014'
+Secondary title:
+- jayadrathādhikara
+Subjects:
+- tantra / āgama
+- śaiva
+- trika
+- śākta
+Uniform title: piṅgalāmata
+title: पिङ्गलामत
+title_iast: piṅgalāmata
+
+---
   
   
   
@@ -38,7 +72,7 @@ title = "पिङ्गलामत"
 तनु ते भ्रायते नित्यं तत् तु मित्थम्विदुर्बुधाः ॥  
   
 शब्दार्त्थैस्तु पितो(?) वापि बुधैरागमकल्पितः ।  
-शिववक्त्राम्वुजा यातं पारंपर्यक्रमेण तु ॥  
+शिववक्त्राम्वुजा यातं पारम्पर्यक्रमेण तु ॥  
   
 च्छन्दालक्षणससिद्धमागमेत्यभिधीयते ।  
 श्रोतृवक्तृत्व न्यायेन स च ज्ञेयस्तु पण्डितैः ॥  
@@ -70,7 +104,7 @@ title = "पिङ्गलामत"
 १ब्)   
   
 निवेदयेद् वा गुरो पूर्वं ज्येष्ठे भ्रातरि पैतृकैः ।  
-समानविद्ययाविद्यां स्नेहाद् वा यदि संमतः ॥  
+समानविद्ययाविद्यां स्नेहाद् वा यदि सम्मतः ॥  
   
 श्रोतृभि विधिपूर्वन्तु श्रोतव्यञ्च यथा शृणु ।  
 व्याख्या पट्टः प्रकर्त्तव्यः योगपीठार्थ हेतुकं ॥  
@@ -81,11 +115,11 @@ title = "पिङ्गलामत"
 यदा चार्यस्तु मुख्येन श्रोता चैव सुरेश्वरि ।  
 चत्वारिंशाङ्गुलैर्युक्तं योगपीठन्तदन्ततः ॥  
   
-दीर्घेन विस्तृते नैव नवसंख्यांगुलं भवेत् ।  
+दीर्घेन विस्तृते नैव नवसङ्ख्याङ्गुलं भवेत् ।  
 पादौ द्वौ करमायातौ पूर्ववद्विस्तृतौ प्रिये ॥  
   
 गजपादेवपादौ च सनखौमध्यवक्रकौ ।  
-तत्संद्वौ शंखयुग्मं तु संमुखं तं प्रकल्पेत् ॥  
+तत्सन्द्वौ शङ्खयुग्मं तु सम्मुखं तं प्रकल्पेत् ॥  
   
 पत्रवल्लीविचित्रैस्तु पीठमध्ये तु चित्रयेत् ।  
 तदुर्द्धं मध्यपद्मञ्च किञ्चित् पुष्पितवल्लिखेत् ॥  
@@ -105,8 +139,8 @@ title = "पिङ्गलामत"
 पूर्ववच्छेषरूपन्तु कर्त्तव्यं शुभलक्षणम् ।  
 तत् पूर्वस्तु यदा मुख्यं लिङ्गिनः सेश्वरोपि वा ॥  
   
-चतुर्विंशांगुलैर्युक्तं योगपीठं च पूर्ववत् ।  
-द्यंगुलं विस्तृतं तस्य लक्षणेन विलक्षितम् ॥  
+चतुर्विंशाङ्गुलैर्युक्तं योगपीठं च पूर्ववत् ।  
+द्यङ्गुलं विस्तृतं तस्य लक्षणेन विलक्षितम् ॥  
   
 विंशाङ्गुलविकारस्तु सूर्यवच्चरणौ क्रमात् ।  
 अनेन क्रमयोगेन संयताः सु * * * * ? ॥  
@@ -125,7 +159,7 @@ title = "पिङ्गलामत"
 मध्यपदो?च्य यो लिख्यो मूलं वाप्यथ प्रस्तुते ।  
 शैवाचार्यो यजेत् तत्र भैरवं वाथ शक्तयः ॥  
   
-गुरुपंक्ति यजेद्वामे कमले पूर्वकल्पिते ।  
+गुरुपङ्क्ति यजेद्वामे कमले पूर्वकल्पिते ।  
 खटिका ज्ञानसूत्रञ्च दक्षिणे कमलेर्च येत् ॥  
   
 गन्धपुष्पादिभिः पूज्य विशेषं चेद्विशेषकैः ।  
@@ -137,12 +171,12 @@ title = "पिङ्गलामत"
 सर्वे तत् तु प्रसिद्धस्तु साधारण स उच्यते ।  
 अस्य * * *? यः सिद्धस्तदा साधारणं विदुः ॥  
   
-इदानी संप्रवक्ष्यामि सम्वन्धा त्रैव यद् भवेत् ।  
+इदानी सम्प्रवक्ष्यामि सम्वन्धा त्रैव यद् भवेत् ।  
 अभिधान निमित्तञ्च कर्तारम्परिमानकम् ॥  
   
 प्रयोजनं कथित्वादौ पश्चाद्वक्त्रानुवर्णयेत् ।  
   
-अस्य तत् तस्य का संज्ञा पिङ्गलामतसंज्ञा । प्रतिष्ठा कल्पं यज   
+अस्य तत् तस्य का सञ्ज्ञा पिङ्गलामतसञ्ज्ञा । प्रतिष्ठा कल्पं यज   
 यथाधिकारं ब्रह्मयामलस्यान्तर्यातीति च । पिङ्गला भट्टारिका यो निमित्तं ।   
 कः कर्ता भगवान् श्रीकण्ठनाथः कर्ता । कियन्तः परिमाणा । अप्युष्ट   
 सहस्रमिति । स च द्विविधं कामरूप्योडयोनीं ।   

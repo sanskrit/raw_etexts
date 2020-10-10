@@ -1,8 +1,8 @@
 ---
-title: नवरत्नमाला
 practice_weight: 0
----
+title: नवरत्नमाला
 
+---
 <div class="videoEmbed"  src="https://www.youtube.com/watch?time_continue=71&v=kJkwTfgGp3Q" caption=""></div>
 
 श्रीकण्ठतनय श्रीश श्रीकर श्रीदलार्चित।  

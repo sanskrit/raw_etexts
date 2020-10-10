@@ -1,7 +1,7 @@
-+++
-title = "Ksanabhangasiddhi"
+---
+title: Ksanabhangasiddhi
 
-+++
+---
 ## Intro
   
   

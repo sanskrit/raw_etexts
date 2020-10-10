@@ -1,7 +1,7 @@
-+++
-title = "Abhisamacarika-Dharma"
+---
+title: Abhisamacarika-Dharma
 
-+++
+---
 ## Intro
   
   

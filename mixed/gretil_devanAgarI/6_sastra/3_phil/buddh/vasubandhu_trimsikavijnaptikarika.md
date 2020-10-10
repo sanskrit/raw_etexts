@@ -1,7 +1,7 @@
-+++
-title = "Vasubandhu: Trimsikavijnaptikarika"
+---
+title: 'Vasubandhu: Trimsikavijnaptikarika'
 
-+++
+---
 ## Intro
   
   

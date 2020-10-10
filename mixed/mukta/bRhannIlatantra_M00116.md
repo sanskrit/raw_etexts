@@ -1,16 +1,26 @@
-+++
-"Catalog number" = "M00116"
-"Uniform title" = "bṛhannīlatantra"
-Editor = [ "kaul madhusudan",]
-Subjects = [ "tantric / āgamic literature", "tantra / āgama",]
-Description = "Transcribed by the staff of Muktabodha under the supervision of Mark S. G. Dyczkowski.\n\n\nRevision 1: Sept. 17, 2008"
-"Publication year" = [ "1941",]
-"Publication city" = [ "Srinigar",]
-"Publication country" = "India"
-title_iast = "bṛhannīlatantra"
-title = "बृहन्नीलतन्त्र"
+---
+Catalog number: M00116
+Description: 'Transcribed by the staff of Muktabodha under the supervision of Mark
+  S. G. Dyczkowski.
 
-+++
+
+
+  Revision 1: Sept. 17, 2008'
+Editor:
+- kaul madhusudan
+Publication city:
+- Srinigar
+Publication country: India
+Publication year:
+- '1941'
+Subjects:
+- tantric / āgamic literature
+- tantra / āgama
+Uniform title: bṛhannīlatantra
+title: बृहन्नीलतन्त्र
+title_iast: bṛhannīlatantra
+
+---
   
   
 ब्  

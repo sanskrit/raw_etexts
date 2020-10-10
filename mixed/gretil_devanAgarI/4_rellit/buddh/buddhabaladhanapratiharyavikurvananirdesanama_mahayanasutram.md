@@ -1,7 +1,7 @@
-+++
-title = "Buddhabaladhanapratiharyavikurvananirdesanama Mahayanasutram"
+---
+title: Buddhabaladhanapratiharyavikurvananirdesanama Mahayanasutram
 
-+++
+---
 ## Intro
 
 Buddhabaladhanapratiharyavikurvananirdesanama Mahayanasutram  

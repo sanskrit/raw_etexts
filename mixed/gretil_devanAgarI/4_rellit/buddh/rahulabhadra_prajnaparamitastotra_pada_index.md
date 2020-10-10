@@ -1,7 +1,7 @@
-+++
-title = "Rahulabhadra: Prajnaparamitastotra (Pada index)"
+---
+title: 'Rahulabhadra: Prajnaparamitastotra (Pada index)'
 
-+++
+---
 ## Intro
   
   

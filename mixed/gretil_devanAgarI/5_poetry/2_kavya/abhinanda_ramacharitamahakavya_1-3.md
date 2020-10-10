@@ -1,7 +1,7 @@
-+++
-title = "Abhinanda: Ramacaritamahakavya, 1-3"
+---
+title: 'Abhinanda: Ramacaritamahakavya, 1-3'
 
-+++
+---
 ## Intro
   
 Abhinanda: Ramacaritamahakavya, 1-3  

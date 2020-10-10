@@ -1,7 +1,7 @@
-+++
-title = "Abhinavagupta: Bhairavastava"
+---
+title: 'Abhinavagupta: Bhairavastava'
 
-+++
+---
 ## Intro
 
 Abhinavagupta: Bhairavastava  

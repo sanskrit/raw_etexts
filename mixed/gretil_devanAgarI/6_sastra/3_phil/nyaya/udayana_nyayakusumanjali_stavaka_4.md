@@ -1,7 +1,7 @@
-+++
-title = "Udayana: Nyayakusumanjali, Stavaka 4"
+---
+title: 'Udayana: Nyayakusumanjali, Stavaka 4'
 
-+++
+---
 ## Intro
 
 Udayana: Nyayakusumanjali, Stavaka 4  

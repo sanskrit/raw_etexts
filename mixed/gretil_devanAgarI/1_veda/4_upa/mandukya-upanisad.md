@@ -1,7 +1,7 @@
-+++
-title = "Mandukya-Upanisad"
+---
+title: Mandukya-Upanisad
 
-+++
+---
 ## Intro
   
   
@@ -78,7 +78,7 @@ The mula text has been checked against the ed. by V.P. Limaye and R.D. Vadekar
   
   
 स्वप्नस्थानस् तैजस उकारो द्वितीया मात्रोत्कर्षाद् उभयत्वाद् वा ।  
-उत्कर्षति ह वै ज्ञानसंततिं ।  
+उत्कर्षति ह वै ज्ञानसन्ततिं ।  
 समानश् च भवति ।  
 नास्याब्रह्मवित् कुले भवति य एवं वेद ॥ मन्दुप्_१० ॥  
   

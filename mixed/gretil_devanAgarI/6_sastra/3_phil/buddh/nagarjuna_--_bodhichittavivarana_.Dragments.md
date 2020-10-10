@@ -1,7 +1,7 @@
-+++
-title = "Nagarjuna -- Bodhicittavivarana (fragments)"
+---
+title: Nagarjuna -- Bodhicittavivarana (fragments)
 
-+++
+---
 ## Intro
   
   
@@ -36,7 +36,7 @@ Latest Version:
 ॥।  
   
 फेनपिण्डोपमं रूपं वेदना बुद्बुदोपमा ।  
-मरीचिसदृशी संज्ञा संस्काराः कदलीनिभाः ॥ नग्भ्च्_१२  
+मरीचिसदृशी सञ्ज्ञा संस्काराः कदलीनिभाः ॥ नग्भ्च्_१२  
   
 मायोपमं च विज्ञानं ॥।  नग्भ्च्_१३  
   

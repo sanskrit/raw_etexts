@@ -1,7 +1,7 @@
-+++
-title = "Bower Manuscript"
+---
+title: Bower Manuscript
 
-+++
+---
 ## Intro
   
 Bower Manuscript  

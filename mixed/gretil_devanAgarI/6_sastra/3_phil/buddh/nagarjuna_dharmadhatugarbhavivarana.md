@@ -1,7 +1,7 @@
-+++
-title = "Nagarjuna: Dharmadhatugarbhavivarana"
+---
+title: 'Nagarjuna: Dharmadhatugarbhavivarana'
 
-+++
+---
 ## Intro
 
 Nagarjuna: Dharmadhatugarbhavivarana   

@@ -1,7 +1,7 @@
-+++
-title = "Dipamkara (Dipankara): Caryasamgrahapradipa"
+---
+title: 'Dipamkara (Dipankara): Caryasamgrahapradipa'
 
-+++
+---
 ## Intro
   
   

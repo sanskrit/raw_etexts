@@ -1,7 +1,7 @@
-+++
-title = "Nagarjuna: Yuktisastikakarika (fragments)"
+---
+title: 'Nagarjuna: Yuktisastikakarika (fragments)'
 
-+++
+---
 ## Intro
   
   
@@ -64,7 +64,7 @@ Latest Version:
   
 ॥।  
   
-हेतुतः संभवो यस्य स्थितिर् न प्रत्ययैर् विना ।  
+हेतुतः सम्भवो यस्य स्थितिर् न प्रत्ययैर् विना ।  
 विगमः प्रत्ययाभावात् सो ऽस्तीत्य् अवगतः कथम् ॥ नग्य्स्क्_३९  
   
 ॥।  

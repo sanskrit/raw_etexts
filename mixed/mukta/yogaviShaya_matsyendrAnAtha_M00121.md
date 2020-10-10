@@ -1,28 +1,42 @@
-+++
-"Catalog number" = "M00121"
-"Uniform title" = "yogaviṣaya"
-"Secondary title" = [ "kaulajñānanirṇaya and some minor texts of the school of matsyendrānātha",]
-Author = [ "matsyendrānātha",]
-"Alternate name" = [ "matsyendra", "macchagnapāda",]
-Editor = [ "Bagchi, P. C.",]
-Subjects = [ "tantric / āgamic literature", "kaula", "kaula early pre   1100 AD",]
-Description = "The source of this e-text is Calcutta Sanskrit Series 3 - kaulajñānanirṇaya and some minor texts of the school of matsyendrānātha -  where it is bundled along with kaulajñānanirṇaya kulānandatantra, and jñānakārikā .  \n\nThe printed volume also contains introductory material and summaries in english."
-Publisher = [ "Metropolitan Printing and Pub. House",]
-"Publication year" = [ "1934",]
-"Publication city" = [ "Calcutta",]
-"Publication country" = "India"
-title_iast = "yogaviṣaya"
-author_iast = "matsyendrānātha"
-title = "योगविषय"
+---
+Alternate name:
+- matsyendra
+- macchagnapāda
+Author:
+- matsyendrānātha
+Catalog number: M00121
+Description: "The source of this e-text is Calcutta Sanskrit Series 3 - kaulajñānanirṇaya\
+  \ and some minor texts of the school of matsyendrānātha -  where it is bundled along\
+  \ with kaulajñānanirṇaya kulānandatantra, and jñānakārikā .  \n\nThe printed volume\
+  \ also contains introductory material and summaries in english."
+Editor:
+- Bagchi, P. C.
+Publication city:
+- Calcutta
+Publication country: India
+Publication year:
+- '1934'
+Publisher:
+- Metropolitan Printing and Pub. House
+Secondary title:
+- kaulajñānanirṇaya and some minor texts of the school of matsyendrānātha
+Subjects:
+- tantric / āgamic literature
+- kaula
+- kaula early pre   1100 AD
+Uniform title: yogaviṣaya
+author_iast: matsyendrānātha
+title: योगविषय
+title_iast: yogaviṣaya
 
-+++
+---
   
   
   
   
 गुरुश्च गुरुपुत्रश्च ये चान्ये गुरुबान्धवाः।  
   
-अन्योषंच क्रमाज्ज्येष्ठास्तेषां पादौ नमाम्यहम् ॥ १ ॥  
+अन्योषञ्च क्रमाज्ज्येष्ठास्तेषां पादौ नमाम्यहम् ॥ १ ॥  
   
 यदृशी भावनातितं तं गुरुं प्रणमाम्यहम्।  
   
@@ -96,7 +110,7 @@ title = "योगविषय"
   
 मकारे च शिवं साक्शाच्छन्तेश्शान्ततरं परम् ॥ १८ ॥  
   
-कण्ठसंकोचनं कृत्वा द्वे नाड्यौ स्तम्भयेद्ः दृढम्।  
+कण्ठसङ्कोचनं कृत्वा द्वे नाड्यौ स्तम्भयेद्ः दृढम्।  
   
 रसनापिड्यमानान्तु षोडशश्चोर्ध्वगामिनि ॥ १९ ॥  
   
@@ -106,7 +120,7 @@ title = "योगविषय"
   
 आकुञ्चयेद्रविञ्चैव पश्चान्नाडी प्रवर्तते।  
   
-भेदे त्रिहठसंघट्टमुभयोश्शशिदर्शनम् ॥ २१ ॥  
+भेदे त्रिहठसङ्घट्टमुभयोश्शशिदर्शनम् ॥ २१ ॥  
   
 प्रणवा गुदनाला च नलिनी सर्पिणी तथा।  
   
@@ -118,7 +132,7 @@ title = "योगविषय"
   
 सुमनः पावनारूढः स गाढं निर्गुणस्तथा।  
   
-ब्रह्मस्थाननिनादेन शंखिन्यामृतवर्षिणी ॥ २४ ॥  
+ब्रह्मस्थाननिनादेन शङ्खिन्यामृतवर्षिणी ॥ २४ ॥  
   
 षट्चक्रमण्डलोद्धारं ज्ञानदीपं प्रकाशयेत्।  
   
@@ -140,7 +154,7 @@ title = "योगविषय"
   
 उच्चारपदतो हंसः सोऽहमित्यभिधीयते ॥ २९ ॥  
   
-पूर्वभागे मथो लिङ्गं शंखिन्यां चैव पश्चिमम्।  
+पूर्वभागे मथो लिङ्गं शङ्खिन्यां चैव पश्चिमम्।  
   
 ज्योतिर्लिङ्गं भ्रुवोर्मध्ये रक्तशुक्लात्मकं शिवम् ॥ ३० ॥  
   

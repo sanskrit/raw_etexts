@@ -1,7 +1,7 @@
-+++
-title = "Salikanathamisra: Prakaranapancika, 10"
+---
+title: 'Salikanathamisra: Prakaranapancika, 10'
 
-+++
+---
 ## Intro
   
   

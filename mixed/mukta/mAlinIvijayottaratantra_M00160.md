@@ -1,19 +1,25 @@
-+++
-"Catalog number" = "M00160"
-"Uniform title" = "mālinīvijayottaratantra"
-"Main title" = "mālinīvijayatantra"
-Editor = [ "śāstrī M.R.",]
-Subjects = [ "tantric / āgamic literature", "tantra / āgama",]
-"Photographic facsimile" = []
-Description = "Photographed from volume 37 of the Kashmir Series of Texts and Studies."
-Publisher = [ "Research Department Jammu and Kashmir State",]
-"Publication year" = [ "1922",]
-"Publication city" = [ "Srinagar",]
-"Publication country" = "India"
-title_iast = "mālinīvijayottaratantra"
-title = "मालिनीविजयोत्तरतन्त्र"
+---
+Catalog number: M00160
+Description: Photographed from volume 37 of the Kashmir Series of Texts and Studies.
+Editor:
+- śāstrī M.R.
+Main title: mālinīvijayatantra
+Photographic facsimile: []
+Publication city:
+- Srinagar
+Publication country: India
+Publication year:
+- '1922'
+Publisher:
+- Research Department Jammu and Kashmir State
+Subjects:
+- tantric / āgamic literature
+- tantra / āgama
+Uniform title: mālinīvijayottaratantra
+title: मालिनीविजयोत्तरतन्त्र
+title_iast: mālinīvijayottaratantra
 
-+++
+---
   
   
   
@@ -42,8 +48,8 @@ title = "मालिनीविजयोत्तरतन्त्र"
 प्रत्नविद्याप्रकाश-(रिसर्च) कार्यालये  
 तदध्यक्ष-पण्डित-मधुसूदन कौल-शास्त्रिणा  
 उद्दिष्टकार्यालयस्थपण्डितसहायेन  
-संगृह्य संशोधन-पर्यायाङ्कन-विवरणादि संस्करणोत्तरं  
-पाश्चात्यविद्वत्परिषत्संमताधुनिकसुगमशुद्धरीत्युपन्यासादि-  
+सङ्गृह्य संशोधन-पर्यायाङ्कन-विवरणादि संस्करणोत्तरं  
+पाश्चात्यविद्वत्परिषत्सम्मताधुनिकसुगमशुद्धरीत्युपन्यासादि-  
   
 mumbayyāṃ  
   

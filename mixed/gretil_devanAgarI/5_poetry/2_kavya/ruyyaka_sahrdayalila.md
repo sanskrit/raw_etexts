@@ -1,7 +1,7 @@
-+++
-title = "Ruyyaka: Sahrdayalila"
+---
+title: 'Ruyyaka: Sahrdayalila'
 
-+++
+---
 ## Intro
   
 Ruyyaka: Sahrdayalila  

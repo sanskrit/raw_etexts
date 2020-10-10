@@ -1,7 +1,7 @@
-+++
-title = "Rahulabhadra: Prajnaparamitastotra"
+---
+title: 'Rahulabhadra: Prajnaparamitastotra'
 
-+++
+---
 ## Intro
   
   

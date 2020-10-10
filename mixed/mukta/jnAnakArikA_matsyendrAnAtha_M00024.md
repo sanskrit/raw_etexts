@@ -1,21 +1,35 @@
-+++
-"Catalog number" = "M00024"
-"Uniform title" = "jñānakārikā"
-"Secondary title" = [ "kaulajñānanirṇaya and some minor texts of the school of matsyendrānātha",]
-Author = [ "matsyendrānātha",]
-"Alternate name" = [ "matsyendra", "macchagnapāda",]
-Editor = [ "Bagchi, P. C.",]
-Subjects = [ "tantric / āgamic literature", "kaula", "kaula early pre   1100 AD",]
-Description = "The source of this e-text is Calcutta Sanskrit Series 3 - kaulajñānanirṇaya and some minor texts of the school of matsyendrānātha -  where it is bundled along with kaulajñānanirṇaya kulānandatantra .  The printed volume also contains introductory material and summaries in english."
-Publisher = [ "Metropolitan Printing and Pub. House",]
-"Publication year" = [ "1934",]
-"Publication city" = [ "Calcutta",]
-"Publication country" = "India"
-title_iast = "jñānakārikā"
-author_iast = "matsyendrānātha"
-title = "ज्ञानकारिका"
+---
+Alternate name:
+- matsyendra
+- macchagnapāda
+Author:
+- matsyendrānātha
+Catalog number: M00024
+Description: The source of this e-text is Calcutta Sanskrit Series 3 - kaulajñānanirṇaya
+  and some minor texts of the school of matsyendrānātha -  where it is bundled along
+  with kaulajñānanirṇaya kulānandatantra .  The printed volume also contains introductory
+  material and summaries in english.
+Editor:
+- Bagchi, P. C.
+Publication city:
+- Calcutta
+Publication country: India
+Publication year:
+- '1934'
+Publisher:
+- Metropolitan Printing and Pub. House
+Secondary title:
+- kaulajñānanirṇaya and some minor texts of the school of matsyendrānātha
+Subjects:
+- tantric / āgamic literature
+- kaula
+- kaula early pre   1100 AD
+Uniform title: jñānakārikā
+author_iast: matsyendrānātha
+title: ज्ञानकारिका
+title_iast: jñānakārikā
 
-+++
+---
   
   
   
@@ -30,7 +44,7 @@ title = "ज्ञानकारिका"
 	ॐ नमः शिवाय । सिद्धेभ्यो पुरुषेभ्यो नमः ।   
 श्रीशङ्करपादेभ्यो नमः । अप्रतिहततत्त्वेभ्यो नमः ।  
   
-	अथातः संप्रवक्ष्यामि ज्ञानसर्वं (सु)भाषितम् ।  
+	अथातः सम्प्रवक्ष्यामि ज्ञानसर्वं (सु)भाषितम् ।  
 	कारिका श्री(ज्ञाना)ख्यातं विसर्ज ज्ञानकारिका(म्) ॥ १।१ ॥  
 	कारिकानाम विज्ञानं श्रूयन्ते च॥॥।वल ।  
 	साम्प्रतं कथयिष्यामि योगिनां युक्तकारणम् ॥ १।२ ॥  
@@ -108,7 +122,7 @@ title = "ज्ञानकारिका"
 	न निरोधो भवेत् तत्र न कायशून्यमेव च ।  
 	न बहिरन्तमन्तस्थं न चान्त आदिमध्यगः ॥ २।१५ ॥  
 	न तेजो वायुराकाशं पृथिव्या आपभावना ।  
-	न बुद्धिर्न चाहंकारो न मन इन्द्रियो न च ॥ २।१६ ॥  
+	न बुद्धिर्न चाहङ्कारो न मन इन्द्रियो न च ॥ २।१६ ॥  
 	न चित्ताचित्तकस्तत्त्वं चिन्तातीतं स्थितं सदा ।  
 	न चिन्ता यस्तु विज्ञेया ज्ञातव्य कालशासनः ॥ २।१७ ॥  
 	यो सो निश्चिन्तसर्वज्ञः समाधिपरमेश्वरः ।  
@@ -154,7 +168,7 @@ title = "ज्ञानकारिका"
 	चेताचेतसमायुक्तं ज्ञानत्वं सम्प्रकीर्तितम् ।  
 	भुक्तितत्त्वं यदा चेतं स चेत्तम्मुक्तिलक्षणम् ॥ ३।२ ॥  
 	चेताचेतसमायुक्तं चैतन्यं शाश्वतं पदम् ।  
-	योगिनां योगचिन्तितमार्यसंज्ञानवर्जितम् ॥ ३।३ ॥  
+	योगिनां योगचिन्तितमार्यसञ्ज्ञानवर्जितम् ॥ ३।३ ॥  
 	यो मार्गविनिर्मुक्तं योगिनां मुक्तिलक्षणम् ।  
 	एकलिङ्गे श्मशाने वा नदीनां सङ्गमेषु च ॥ ३।४ ॥  
 	शून्यागारे गुहावासे वृक्षमूले तु चत्वरे ।  

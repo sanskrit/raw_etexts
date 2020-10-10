@@ -1,7 +1,7 @@
-+++
-title = "Aitareya-Upanisad (Aitareyopanisad) [RV]"
+---
+title: Aitareya-Upanisad (Aitareyopanisad) [RV]
 
-+++
+---
 ## Intro
   
   
